@@ -2,22 +2,18 @@
 
 ## Clasificación de las líneas ferroviarias
 
-| Tipo | Líneas |
+## Tipo de Línea
+
+| Tipo | Velocidad máxima de la Línea |
 | --- | --- |
-| A | A.1 | Madrid-Barcelona (ancho UIC) (2). Córdoba-Málaga (ancho UIC). Madrid-Valladolid (ancho UIC). Tramo Ourense-Santiago de Compostela.(No obstante hasta que no entre en explotación en ancho UIC la totalidad de la citada línea, este tramo será considerado de tipo A.2). |
-|  | A.2 | Madrid-Sevilla (ancho UIC). Tramo La Sagra-Toledo (ancho UIC). Zaragoza Delicias-Huesca (ancho UIC). |
-| B | B.1 | Corredor Mediterráneo 2. |
-| C | C.1 | Resto de líneas. |
+| A | A.1 | V max Línea ≥ 300 Km/h en al menos 2/3 de su recorrido. |
+|  | A.2 | 300 Km/h > V max Línea ≥ 250 Km/h en al menos 2/3 de su recorrido. |
+| B | B.1 | 250 Km/h > V max Línea > 200 Km/h en al menos 2/3 de su recorrido. |
+| C | C.1 | V max Línea ≤ 200 Km/h en al menos 2/3 de su recorrido. |
 
-1. Hasta que no entre en explotación la totalidad de la línea en ancho UIC hasta Barcelona, esta línea será considerada de tipo A2.
+La información anualizada sobre la clasificación de líneas se incluirá en la Declaración sobre la Red que elabora el Administrador de Infraestructuras Ferroviarias periódicamente.
 
-2. A los efectos de esta clasificación el corredor Mediterráneo se define como el tramo comprendido entre Valencia y Tarragona.
-
-Mediante orden ministerial se determinará la clasificación de nuevos tramos o líneas ferroviarias en los tipos y subtipos anteriores, con motivo de su puesta en servicio.
-
-A solicitud del Administrador de Infraestructuras Ferroviarias y previo informe de las empresas ferroviarias afectadas, mediante orden ministerial se introducirán las modificaciones necesarias en la relación de líneas ferroviarias para adecuarla a los cambios de explotación y funcionamiento de la Red ferroviaria de interés general.
-
-Dichas órdenes se publicarán en el Boletín Oficial del Estado.
+> Se modifica por el art. único.4 de la Orden FOM/2336/2012, de 31 de octubre. Ref. BOE-A-2012-13530.
 
 > Se modifica por el apartado 1 de la Orden FOM/3417/2011, de 1 de diciembre. Ref. BOE-A-2011-19653.
 

@@ -2,107 +2,18 @@
 
 ## Clasificación de estaciones
 
-| Categoría1. | Madrid-Puerta de Atocha. |
+| Categoría 1. | Cualquier estación con un volumen anual de viajeros (subidos más bajados) de larga distancia y alta velocidad, que iguale o supere los 500.000. A estos efectos no se computan los viajeros declarados por los servicios de cercanías. |
 | --- | --- |
-|  | Madrid-Chamartín A.V. |
-|  | Barcelona-Sants. |
-|  | Camp de Tarragona. |
-|  | Córdoba. |
-|  | Lleida. |
-|  | Málaga-María Zambrano A.V. |
-|  | Sevilla-Santa Justa. |
-|  | Valladolid-Campo Grande A.V. |
-|  | Zaragoza-Delicias. |
-| Categoría 2. | A Coruña. |
-|  | Alacant. |
-|  | Albacete. |
-|  | Alcázar de San Juan. |
-|  | Algeciras. |
-|  | Almería. |
-|  | Antequera-Santa Ana. |
-|  | Ávila. |
-|  | Badajoz. |
-|  | Barcelona-Estación de França. |
-|  | Barcelona-Passeig de Gracia. |
-|  | Benicarló-Peñíscola. |
-|  | Bilbao-Abando Indalecio Prieto. |
-|  | Bobadilla. |
-|  | Burgos. |
-|  | Cáceres. |
-|  | Cádiz. |
-|  | Calatayud. |
-|  | Caldes de Malavella. |
-|  | Cambrils. |
-|  | Cartagena. |
-|  | Castelló de la Plana. |
-|  | Ciudad Real. |
-|  | Cuenca. |
-|  | Ferrol. |
-|  | Figueres. |
-|  | Flaça. |
-|  | Gijón-Jovellanos. |
-|  | Girona. |
-|  | Granada. |
-|  | Guadalajara-Yebes. |
-|  | Huelva-Término. |
-|  | Huesca. |
-|  | Irún. |
-|  | Jaén. |
-|  | Jerez de la Frontera. |
-|  | L'Aldea-Amposta. |
-|  | Lebrija. |
-|  | León. |
-|  | Linares-Baeza. |
-|  | Logroño. |
-|  | Lorca-Sutullena. |
-|  | Lugo. |
-|  | Llança. |
-|  | Málaga-María Zambrano. |
-|  | Madrid-Atocha. |
-|  | Madrid-Chamartín. |
-|  | Medina del Campo. |
-|  | Mérida. |
-|  | Miranda de Ebro. |
-|  | Monforte de Lemos. |
-|  | Murcia del Carmen. |
-|  | Ourense. |
-|  | Oviedo. |
-|  | Palencia. |
-|  | Pamplona. |
-|  | Ponferrada. |
-|  | Pontevedra. |
-|  | Portbou. |
-|  | Puente Genil. |
-|  | Puertollano. |
-|  | Reus. |
-|  | Ripoll. |
-|  | Ronda. |
-|  | Salamanca. |
-|  | Salou. |
-|  | San Sebastián/Donostia. |
-|  | Santander. |
-|  | Santiago de Compostela. |
-|  | Segovia. |
-|  | Segovia-Guiomar. |
-|  | Sils. |
-|  | Soria. |
-|  | Tarragona. |
-|  | Teruel. |
-|  | Toledo. |
-|  | Torello. |
-|  | Torredembarra. |
-|  | Tortosa. |
-|  | Tudela de Navarra. |
-|  | Valencia-Cabanyal. |
-|  | Valencia-Estación del Nord. |
-|  | Valladolid-Campo Grande. |
-|  | Vigo-Guixar. |
-|  | Villagarcia de Arousa. |
-|  | Villena. |
-|  | Vinarós. |
-|  | Vitoria/Gasteiz. |
-|  | Zamora. |
+| Categoría 2. | Cualquier estación que, no estando encuadrada en la categoría 1, cumpla al menos una de las siguientes condiciones: – Estar ubicada en líneas de tipo A. – Estar situada en capital de provincia o capital autonómica. No se aplica este criterio a las estaciones dedicadas exclusivamente al servicio de cercanías. – Tener un volumen anual de viajeros totales (subidos más bajados) superior a 100.000. A estos efectos, no se computaran los viajeros declarados por los servicios de Cercanías. |
 | Categoría 3. | Estaciones no incluidas en la categoría 1 y 2. |
+
+Una estación no puede quedar clasificada en más de una categoría.
+
+La clasificación resultante de estaciones se determinará con carácter anual en base al número de viajeros totales en el año natural inmediatamente anterior, en el caso de estaciones existentes, o bien en el número de viajeros estimados, en el caso de nuevas estaciones.
+
+La información anualizada sobre la clasificación de estaciones se incluirá en la Declaración sobre la Red que elabora el Administrador de Infraestructuras Ferroviarias periódicamente.
+
+> Se modifica por el art. único.6 de la Orden FOM/2336/2012, de 31 de octubre. Ref. BOE-A-2012-13530.
 
 > Se modifica por el apartado 2 de la Orden FOM/3417/2011, de 1 de diciembre. Ref. BOE-A-2011-19653.
 
