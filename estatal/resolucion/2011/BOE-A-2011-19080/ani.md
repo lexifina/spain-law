@@ -6,6 +6,10 @@
 | --- | --- |
 | ADA | Certificaciones complementarias de admisiones. |
 | CAA | Cuentas anuales auditadas de sociedades cotizadas. |
+| CAE | Cuentas anuales auditadas e Informe complementario de las ESI y sus grupos consolidables. |
+| CAI | Cuentas anuales auditadas de las IIC. |
+| CAG | Cuentas anuales auditadas de las SGIIC. |
+| CDD | Cuadros de difusión de ofertas públicas. |
 | CAP | Comunicación de acciones propias (autocartera). |
 | CDT | Comunicación de Transacciones. |
 | COS | Comunicación de Operaciones Sospechosas. |
@@ -24,8 +28,10 @@
 | FAI | Función de auditoría interna. |
 | FOI | Folletos de IIC. |
 | FTA | Informes de Fondos de Titulización. |
-| HSR | Hecho Significativo o Relevante. |
+| IAA | Informe anual de autoevaluación de las ESI y sus grupos consolidables. |
 | IEE | Informe de experto EAFI personas físicas. |
+| HSR | Hecho Significativo o Relevante. |
+| ICI | Informe de control interno de las ESI y sus grupos consolidables. |
 | IGC | Informe anual de Gobierno Corporativo. |
 | IPA | Informe de auditores sobre la protección de activos de las ESI y entidades financieras. |
 | IPE | Informes Periódicos de IIC. |
@@ -34,6 +40,7 @@
 | ISD | Informes Semestrales de Depositarios. |
 | NDA | Negociación diaria del mercado AIAF. |
 | NVI | Nota de Valores de emisión individual de Renta Fija. |
+| PCO | Notificación de posiciones cortas. |
 | OIF | Estados estadísticos sobre activos y pasivos de las IIC de la U.E. |
 | PGE | Colocación de Pagarés. |
 | PSC | Participaciones Significativas en Sociedades cotizadas. |
@@ -47,5 +54,7 @@
 | TIT | Información de Gestoras de Titulización. |
 | UME | Información estadística para Unión Monetaria Europea. |
 | ZZZ | Envío de un documento con formato libre. |
+
+> Se modifica por el apartado 1 de la Resolución de 31 de octubre de 2012. Ref. BOE-A-2012-13533.
 
 > Se modifica por el apartado 1 de la Resolución de 28 de febrero de 2012. Ref. BOE-A-2012-3170.
