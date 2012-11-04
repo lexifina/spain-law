@@ -1,0 +1,23 @@
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, define en el artículo 45 las enseñanzas artísticas profesionales de grado medio y superior de artes plásticas y diseño y determina que la finalidad de estas enseñanzas artísticas es proporcionar al alumnado una formación artística de calidad y garantizar la cualificación de los futuros profesionales de las artes plásticas y el diseño.
+
+En el artículo 51, la Ley establece que estas enseñanzas profesionales se organizarán en ciclos de formación específica, los cuales incluirán una fase de formación práctica en empresas, estudios o talleres, y remite al capítulo V del título I para su reglamentación, con las salvedades recogidas expresamente para las enseñanzas artísticas.
+
+De acuerdo con dicha previsión y lo dispuesto en el artículo 39.6 de la Ley de Educación y debido a la naturaleza de la materia y a su carácter marcadamente técnico, corresponde al Gobierno, previa consulta a las Comunidades Autónomas, establecer mediante real decreto las titulaciones correspondientes a las enseñanzas profesionales de artes plásticas y diseño, así como los aspectos básicos del currículo de cada una de ellas.
+
+Asimismo, establecer bases estatales mediante normas reglamentarias, como ocurre en el presente caso, es conforme a la excepcionalidad admitida por el Tribunal constitucional cuando «resulta complemento indispensable en determinados supuestos para asegurar el mínimo común denominador establecido en las normas legales básicas» (así, entre otras, en las SSTC 25/1983, 32/1983 y 48/1988).
+
+Las enseñanzas de artes plásticas y diseño, referentes de las enseñanzas de artes aplicadas y oficios artísticos en nuestro sistema educativo, asumen la transmisión de las prácticas artísticas imprescindibles para la renovación y mejora de productos, ambientes y mensajes y para el crecimiento del patrimonio artístico. Para ello, estas enseñanzas artísticas profesionales sitúan la innovación tecnológica, la apreciación artística y la sólida formación en los oficios de las artes y el diseño en el contexto de la dimensión estética y creadora del hombre, cualidad determinante para el crecimiento patrimonial y de los valores de identidad, de expresión personal y de comunicación social.
+
+En este sentido, el objetivo básico de este título es atender a las actuales necesidades de formación de técnicos en maquetación, edición y procesos de tratamiento y composición de textos e imágenes para productos gráficos en el ámbito de la comunicación gráfica y audiovisual, y aunar el conocimiento de materiales, procedimientos técnicos y nuevas tecnologías con la cultura y la sensibilidad artística para constituir la garantía de calidad demandada hoy por los sectores productivos artísticos y culturales vinculados a la creación y producción gráfica.
+
+El Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño, define los títulos de Técnico de Artes Plásticas y Diseño como el documento oficial acreditativo del nivel de formación, cualificación y competencia profesional específica de cada especialidad artística, se establece la estructura que deben tener dichos títulos y se fijan los aspectos que deben contemplar las enseñanzas mínimas correspondientes.
+
+En este marco normativo, el presente real decreto tiene por objeto establecer el título profesional de Técnico de Artes Plásticas y Diseño en Asistencia al Producto Gráfico Impreso correspondientes a la familia profesional artística de Comunicación Gráfica y Audiovisual y determinar su identificación, el perfil profesional, el contexto profesional, las enseñanzas mínimas y aquellos otros aspectos de la ordenación académica y de los centros que, sin perjuicio de las competencias atribuidas a las Administraciones educativas en esta materia, constituyan los aspectos básicos que aseguren una formación común y garanticen la validez de los títulos en cumplimiento de lo dispuesto en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+Asimismo se determinan los accesos a otros estudios, las convalidaciones y exenciones y las competencias docentes para la impartición de las enseñanzas mínimas.
+
+Para la elaboración de esta norma han sido consultadas las comunidades autónomas en el seno de la Conferencia Sectorial de Educación y han emitido informe el Consejo Escolar del Estado y el Ministerio de Hacienda y Administraciones Públicas.
+
+En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte y previa deliberación del Consejo de Ministros en su reunión del día 11 de octubre de 2012,
+
+DISPONGO:

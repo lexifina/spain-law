@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Incorporación del alumnado procedente de los ciclos formativos de Artes Plásticas y Diseño de la familia profesional de Diseño Gráfico regulados por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+
+1. Las Administraciones educativas procederán a la incorporación del alumnado de los ciclos formativos de grado medio de artes plásticas y diseño de Artefinal de Diseño Gráfico y Autoedición de la familia profesional de Diseño gráfico del sistema que se extingue a los diferentes cursos del ciclo formativo de artes plásticas y diseño de Asistencia al Producto Gráfico Impreso regulado en el presente real decreto, según lo establecido en el artículo 21.4 del Real Decreto 806/2006, de 30 de junio, en el anexo VII a este real decreto y las oportunas adaptaciones conforme a sus desarrollos curriculares.
+
+2. Las Administraciones educativas garantizarán la obtención de los títulos de las enseñanzas que se extinguen en las condiciones que oportunamente se establezcan.
