@@ -50,6 +50,8 @@ Así mismo, y con el fin de normalizar la documentación que debe cumplimentarse
 
 • Estudio Técnico a realizar por un Ingeniero de Telecomunicación o un Ingeniero Técnico de Telecomunicación.
 
+> Téngase en cuenta que se declara la nulidad del inciso destacado en negrita por Sentencia del TS de 17 de octubre de 2012. Ref. BOE-A-2012-13774.
+
 Dichos modelos se recogen en la sección 3 del presente anexo.
 
 ## SECCIÓN 1
@@ -551,3 +553,5 @@ Deberá incluir:
 • Precauciones para garantizar la continuidad del servicio: Se describirán las precauciones a tomar para garantizar la continuidad por los usuarios de los servicios a través de la instalación existente, en tanto no se encuentre en perfectas condiciones de funcionamiento la instalación modificada.
 
 • Seguridad y salud: En su caso, se describirán los riesgos que se identifican en la realización de los trabajos por la empresa instaladora, en función de las peculiaridades de los mismos, de las características del edificio y de la forma de su ejecución.
+
+> Se declara la nulidad del inciso destacado de la sección 3 por Sentencia del TS de 17 de octubre de 2012. Ref. BOE-A-2012-13774.
