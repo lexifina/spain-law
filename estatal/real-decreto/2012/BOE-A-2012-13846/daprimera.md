@@ -1,0 +1,11 @@
+## Disposición adicional primera. Particularidades en determinados contratos para la formación y el aprendizaje.
+
+1. Los contratos para la formación y el aprendizaje que se suscriban en el marco de las acciones y medidas establecidas en el artículo 25.1, letra d), de la Ley 56/2003, de 16 de diciembre, de Empleo, incluyendo Escuelas Taller, Casas de Oficios y Talleres de Empleo u otras que se puedan aprobar, se ajustarán a lo dispuesto en este real decreto, con las siguientes particularidades:
+
+a) De acuerdo con lo dispuesto en el apartado 2 de la disposición adicional decimonovena del Estatuto de los Trabajadores, no será de aplicación el límite máximo de edad ni el mínimo y máximo de duración establecidos, respectivamente, en el artículo 11.2.a) y b) de dicho Estatuto de los Trabajadores. Tampoco serán de aplicación los límites establecidos en la citada letra b) respecto del número y duración de las prórrogas. La duración de los contratos y sus posibles prórrogas se adecuarán a la normativa reguladora de las acciones y medidas contempladas en esta disposición adicional. Asimismo, respecto del límite de duración de estos contratos, las situaciones de incapacidad temporal, riesgo durante el embarazo, maternidad, adopción o acogimiento, riesgo durante la lactancia y paternidad no interrumpirán el cómputo de la duración del contrato.
+
+b) La financiación de las acciones formativas correspondientes a estos contratos se regulará por las disposiciones reguladoras de las acciones y medidas contempladas en esta disposición adicional.
+
+2. En función de lo establecido en la disposición adicional tercera de la Ley 35/2010, de 17 de septiembre, de medidas urgentes para la reforma del mercado de trabajo, los contratos para la formación y el aprendizaje suscritos con alumnos trabajadores en los programas de Escuelas Taller, Casas de Oficio y Talleres de Empleo y demás acciones y medidas establecidas en el artículo 25.1.d) de la Ley 56/2003, de 16 de diciembre, no cotizarán, ni estarán protegidos, por la contingencia de desempleo.
+
+3. La actividad formativa en estos contratos, en los supuestos en que no exista título de formación profesional o certificado de profesionalidad relacionados con el trabajo efectivo a realizar, podrá estar constituida por los contenidos formativos autorizados por los Servicios Públicos de Empleo competentes.
