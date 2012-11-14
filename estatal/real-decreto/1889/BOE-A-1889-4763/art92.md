@@ -16,7 +16,11 @@
 
 8. Excepcionalmente, aun cuando no se den los supuestos del apartado cinco de este artículo, el Juez, a instancia de una de las partes, con informe favorable del Ministerio Fiscal, podrá acordar la guarda y custodia compartida fundamentándola en que sólo de esta forma se protege adecuadamente el interés superior del menor.
 
+> Declarado inconstitucional y nulo el inciso destacado del apartado 8 por Sentencia del TC de 17 de octubre de 2012. Ref. BOE-A-2012-14060.
+
 9. El Juez, antes de adoptar alguna de las decisiones a que se refieren los apartados anteriores, de oficio o a instancia de parte, podrá recabar dictamen de especialistas debidamente cualificados, relativo a la idoneidad del modo de ejercicio de la patria potestad y del régimen de custodia de los menores.
+
+> Se declara inconstitucional y nulo el inciso destacado del apartado 8 por Sentencia del TC de 17 de octubre de 2012. Ref. BOE-A-2012-14060.
 
 > Se modifica por el art.1.8 de la Ley 15/2005, de 8 de julio. Ref. BOE-A-2005-11864.
 
