@@ -1,0 +1,5 @@
+## Disposición final undécima. Modificación del Real Decreto-ley 21/2012, de 13 de julio, de medidas de liquidez de las Administraciones públicas y en el ámbito financiero.
+
+El apartado 4 de la disposición adicional quinta del Real Decreto-ley 21/2012, de 13 de julio, queda redactado como sigue:
+
+«4. En el ámbito de sus funciones y teniendo en cuenta el beneficio del conjunto del sistema de entidades adheridas, el Fondo de Garantía de Depósitos de Entidades de Crédito podrá adoptar medidas tendentes a facilitar la implementación de la asistencia financiera europea para la recapitalización de las entidades de crédito españolas. En todo caso, el coste de dichas medidas habrá de resultar inferior a los desembolsos que hubiera tenido que realizar el Fondo de Garantía de Depósitos de Entidades de Crédito de conformidad con su normativa reguladora, de optar, en el momento de apertura del proceso de reestructuración o resolución, por realizar el pago de los importes garantizados en caso de liquidación de la entidad.»

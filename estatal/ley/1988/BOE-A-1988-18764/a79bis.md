@@ -50,6 +50,8 @@ c) que la entidad haya informado al cliente con claridad de que no está obligad
 
 d) que la entidad cumpla lo dispuesto en la letra d) del apartado 1 del artículo 70 y en el artículo 70 ter.1.d).
 
+> Se modifican los apartados 3, 6 y 7 por la disposición final 3.5 y 6 de la Ley 9/2012, de 14 de noviembre. Ref. BOE-A-2012-14062.
+
 > Se modifican los apartados 3, 6 y 7 por la disposición final 3.5 y 6 del Real Decreto-ley 24/2012, de 31 de agosto. Ref. BOE-A-2012-11247.
 
 > Se añade por el art. único.50 de la Ley 47/2007, de 19 de diciembre. Ref. BOE-A-2002-22807

@@ -1,0 +1,123 @@
+JUAN CARLOS I
+
+REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+
+PREÁMBULO
+
+I
+
+Según la ya clásica definición contenida en el artículo 1 del Real Decreto Legislativo 1298/1986, de 28 de junio, sobre Adaptación del Derecho vigente en materia de Entidades de Crédito al de las Comunidades Europeas, la peculiar naturaleza de estas entidades de crédito deriva de su forma de captación de pasivos, consistente en «recibir fondos del público en forma de depósito, préstamo, cesión temporal de activos financieros u otras análogas que lleven aparejada la obligación de su restitución». La aplicación de dichos pasivos «por cuenta propia a la concesión de créditos u operaciones de análoga naturaleza» es la otra cara de la moneda de su labor de intermediación financiera, pero no es exclusiva de las entidades de crédito, a pesar de la denominación que les es propia.
+
+Por otro lado, las entidades de crédito tienen un papel clave en la economía, en la medida en que facilitan la circulación del crédito al resto de sectores de actividad productiva y a los ciudadanos. Este aspecto, sumado a la complejidad del sistema financiero y al hecho de que algunas entidades individualmente consideradas tienen importancia sistémica debido a su tamaño y a las relaciones que mantienen dentro del sector, exige contar con procedimientos eficaces y flexibles, que permitan garantizar la estabilidad del sistema financiero, con el menor coste posible para el conjunto de la sociedad.
+
+Estas peculiaridades de las entidades de crédito requieren que toda medida de supervisión o de regulación de las mismas vaya ante todo encaminada a dar seguridad al público del cual la entidad capta su pasivo, y por ende a preservar la estabilidad del sistema financiero.
+
+A su vez, estas necesidades justifican que determinadas situaciones de inviabilidad transitoria de entidades de crédito deban ser superadas mediante la inyección de fondos públicos. La finalidad principal de estas inyecciones es la salvaguarda de los ahorros y depósitos de todos aquellos clientes que, de otro modo, en caso de que estos apoyos faltaran y que debiese procederse sin más a la liquidación de la entidad de crédito, podrían perder una parte importante de su patrimonio.
+
+Una vez admitida la necesidad de apoyos financieros públicos en determinados casos, es preciso que la normativa destinada a regularlos guarde el necesario equilibrio entre la protección del cliente de la entidad de crédito y la del contribuyente, minimizando el coste que tenga que asumir el segundo con el fin de salvaguardar al primero, y sin olvidar que en la mayoría de los casos coinciden en los ciudadanos una y otra condición. El mayor equilibrio se consigue cuando los fondos públicos inyectados pueden ser recuperados en un plazo razonable por medio de los beneficios generados por la entidad apoyada.
+
+Por todas las razones anteriores, los poderes públicos deben prestar un apoyo decidido, aunque equilibrado, a la viabilidad de las entidades de crédito, y deben regular la forma y los casos en que se produce dicho apoyo, que supone necesariamente una modulación de los principios de universalidad y de «pars conditio creditorum» que rigen los procedimientos de insolvencia.
+
+Existen numerosas ocasiones en las cuales determinadas debilidades transitorias de las entidades de crédito pueden ser superadas mediante la inyección de fondos públicos, evitando así la liquidación de la entidad y la mera división del activo entre el pasivo y la asunción proporcional de pérdidas entre todos los acreedores. Estos son los supuestos de reestructuración de entidades de crédito.
+
+Existen también otras ocasiones en las cuales la inviabilidad definitiva de las entidades de crédito no debe ser resuelta simplemente mediante la referida división, sino que conviene previamente segregar las partes sanas de la entidad, e incluso también las más perjudicadas, con el fin de que la aplicación del procedimiento de insolvencia ordinario se lleve a cabo únicamente respecto al remanente, si lo hubiere. Nos encontramos en tales casos ante los supuestos de resolución, verdadero neologismo en nuestro ordenamiento jurídico, pero que expresa de forma clara lo que se pretende: resolver de la mejor forma posible una situación de inviabilidad de una entidad de crédito.
+
+Finalmente, existen otros supuestos en los cuales las dificultades que atraviesan las entidades de crédito son de carácter mucho más leve que las anteriores y pueden ser corregidas mediante determinadas medidas, cuya finalidad básica es asegurar que la entidad de crédito recobra su estabilidad y alcanza plenamente todos sus requerimientos regulatorios, evitando la necesidad de inyectarle fondos públicos o haciéndolo únicamente de forma excepcional y transitoria. Se trataría de los supuestos de actuación temprana.
+
+Sobre esta triple distinción (actuación temprana, reestructuración y resolución) descansa la estructura de la presente Ley, destinada a regular de forma clara y eficaz cada uno de dichos casos, los instrumentos y medidas que puedan adoptarse respecto a cada uno de ellos, y los efectos que puedan producir dichos instrumentos y medidas.
+
+II
+
+Todo lo dicho anteriormente se ha manifestado con particular intensidad en la actual crisis financiera, que ha afectado de manera tan relevante a las entidades de crédito, y ha puesto de manifiesto la necesidad de contar con un marco robusto y eficaz de gestión de crisis bancarias, de manera que los poderes públicos dispongan de los instrumentos adecuados para realizar la reestructuración y la resolución ordenada, en su caso, de las entidades de crédito que atraviesan dificultades.
+
+Son numerosas las iniciativas y las actuaciones que en muchos ámbitos se han llevado a cabo en los últimos años, encaminadas precisamente a promover una adaptación de los mecanismos de reestructuración y resolución a las nuevas necesidades detectadas a raíz de la crisis económica.
+
+En noviembre de 2011, en el marco del G-20, la Junta de Estabilidad Financiera aprobó el documento «Elementos fundamentales para el Régimen de Resolución Efectivo de Instituciones Financieras», en el cual se delimitan los aspectos esenciales para el establecimiento de un adecuado régimen de resolución de entidades. Este documento tiene como objetivo promover un marco legal y operativo que facilite a las autoridades la reestructuración o resolución de entidades financieras de una manera ordenada sin exponer al contribuyente a la asunción de pérdidas derivadas de las medidas de apoyo, y asegurando la continuidad de los elementos vitales de la entidad. En él se contemplan, además, una serie de instrumentos de resolución que, según acordó la Junta, es conveniente que estén a disposición de las autoridades de resolución de los Estados.
+
+En una línea similar, los informes del Fondo Monetario Internacional sobre el sistema financiero español, publicados a lo largo de este año en el contexto del Programa de Evaluación del Sistema Financiero, al tiempo que valoran de manera positiva el funcionamiento de la arquitectura institucional española de reestructuración, detectan la posibilidad de mejoras y sugieren que se ponga a disposición de las autoridades públicas un conjunto de instrumentos de reestructuración y resolución que les permita afrontar potenciales situaciones de crisis bancaria.
+
+Ya en el ámbito de la Unión Europea, se han dado pasos decididos para establecer un marco común de resolución de entidades financieras que amplíe los instrumentos de resolución que tengan las autoridades competentes, y que establezca mecanismos de coordinación entre las autoridades de los Estados Miembros. El carácter global del sistema financiero y, en particular, de la actividad de crédito, así lo justifica.
+
+Con fecha de 6 de junio de 2012, la Comisión Europea lanzó una propuesta de directiva por la que se establece un marco para el rescate y la resolución de entidades de crédito y empresas de servicios de inversión, que contiene un amplio catálogo de medidas a adoptar, en una primera instancia, para evitar que una entidad de crédito llegue a una situación de inviabilidad que ponga en riesgo la estabilidad del sistema financiero, y, en una segunda instancia, para proceder a la resolución ordenada de las entidades no viables. Todo ello con el objetivo de minimizar el riesgo para la estabilidad financiera, y bajo el principio de que son los accionistas y los acreedores los que, en primer lugar, deben asumir los costes de la resolución.
+
+A la hora de elaborar la presente Ley se han tenido en cuenta, como no podía ser de otra manera, todas estas iniciativas, de forma que su contenido acoge gran parte de las recomendaciones en ellas incluidas, e implica una sustancial reforma del esquema español de reestructuración y resolución de entidades de crédito existente hasta la fecha.
+
+En todo caso, en el momento en que se avancen los trabajos desarrollados en los foros internacionales y, especialmente, cuando en el ámbito de la Unión Europea se acuerde un texto final de directiva sobre rescate y resolución de entidades de crédito, la presente norma será adaptada a la nueva normativa.
+
+III
+
+La aprobación de esta norma se enmarca, por otra parte, en el programa de asistencia a España para la recapitalización del sector financiero, que nuestro país ha acordado en el seno del Eurogrupo y que se ha traducido, entre otros documentos, en la aprobación de un Memorando de Entendimiento.
+
+En primer lugar se establece el régimen de reestructuración y resolución de entidades de crédito, reforzando los poderes de intervención del Fondo de Reestructuración Ordenada Bancaria (FROB).
+
+Junto a ello, se incluyen ejercicios de subordinación de pasivos con carácter voluntario y obligatorio para aquellas entidades para las que se haya abierto un procedimiento de reestructuración o resolución.
+
+Finalmente, se prevé la posibilidad de constituir una sociedad de gestión de activos procedentes de la reestructuración bancaria, que se encargue de la gestión de aquellos activos problemáticos que deban serle transferidos por las entidades de crédito.
+
+De manera adicional, en el Real Decreto-ley 24/2012, de 31 de agosto, del que trae causa la presente Ley, tras acordarse por el Pleno del Congreso de los Diputados su tramitación como tal, se adelantó el cumplimiento de algunas medidas que el Memorando de Entendimiento prevé para fechas posteriores, lo cual obedece a diferentes razones. En primer lugar, la inclusión de estas medidas facilita la configuración de un sistema normativo homogéneo y coherente, considerándose inapropiado, por cuestiones sistemáticas, que su regulación se haga en instrumentos separados. Por otro lado, su entrada en vigor siguiendo los procedimientos legislativos ordinarios en los plazos previstos, era igualmente de difícil ejecución, por lo que parecía recomendable incluirlas en una única norma en vez de aprobar varias con carácter sucesivo. Finalmente, aunque las medidas no sean exigibles hasta fechas posteriores, la inclusión en esta Ley permite a los destinatarios comenzar a preparar su aplicación. De acuerdo con estos criterios se han introducido, entre otras, las medidas que se citan a continuación.
+
+Se modifica la estructura organizativa del FROB para evitar conflictos de interés generados por la participación del sector privado en la Comisión rectora, a través del Fondo de Garantía de Depósitos de Entidades de Crédito.
+
+Se incluyen medidas para mejorar la protección a los inversores minoristas que suscriben productos financieros no cubiertos por el Fondo de Garantía de Depósitos de Entidades de Crédito.
+
+Por último, se modifican los requerimientos y la definición de capital principal con los que deben cumplir los grupos consolidables de entidades de crédito así como las entidades no integradas en un grupo consolidable, estableciéndose un único requisito del nueve por cien de las exposiciones ponderadas por riesgo que deberán cumplir a partir del 1 de enero de 2013.
+
+El conjunto de medidas previsto en esta Ley supone un reforzamiento extraordinario y sin precedentes de los mecanismos con que contarán las autoridades públicas españolas de cara al reforzamiento y saneamiento de nuestro sistema financiero, dotándolas de instrumentos eficientes para garantizar el correcto funcionamiento del sector crediticio.
+
+IV
+
+Señalado lo anterior, resulta conveniente pasar a analizar los aspectos más novedosos o significativos de esta Ley, teniendo en cuenta la estructuración por capítulos de la norma.
+
+El capítulo I contiene disposiciones de carácter general, una referencia al objeto de la norma y unas definiciones de los conceptos más relevantes que se utilizan en la Ley.
+
+En particular, se define el término «resolución» debido a la novedad que supone la utilización de este concepto en nuestro ordenamiento jurídico, que tradicionalmente ha optado por el concepto de reestructuración. Se ha introducido este nuevo término por dos motivos fundamentales. Primero, porque la propuesta de directiva europea sobre la materia, y los documentos de referencia a nivel internacional, utilizan la expresión «resolución». Segundo, porque la Ley distingue entre procedimientos de reestructuración y resolución, refiriéndose este último a los procesos en que la entidad de crédito no es viable y es necesario proceder a su extinción ordenada con las mayores garantías para los depositantes y para la estabilidad financiera.
+
+Por otro lado, este Capítulo introduce una serie de objetivos y principios de la reestructuración y resolución ordenada de las entidades crédito que deberán informar todo el proceso, tales como evitar efectos perjudiciales para la estabilidad del sistema financiero, asegurar la utilización más eficiente de los recursos públicos, o garantizar que los accionistas y los acreedores subordinados sean los primeros en asumir pérdidas teniendo en cuenta el orden de prelación establecido.
+
+El capítulo II está dedicado al procedimiento de actuación temprana, en línea con la propuesta de directiva de la Comisión Europea que estamos refiriendo. Las entidades que deberán adoptar estas medidas serán aquellas que no cumplen o es razonable que no cumplan los requisitos de solvencia, pero es previsible que puedan superar esta situación de dificultad por sus propios medios o a través de un apoyo financiero excepcional mediante instrumentos convertibles en acciones.
+
+Dado que las medidas de actuación temprana se integran con claridad dentro de las funciones de supervisión que corresponden al Banco de España, es esta institución quien tiene un protagonismo claro en esta fase inicial, y por lo tanto, le corresponde decidir sobre qué entidades han de adoptar las medidas de intervención temprana, a cuyos efectos deberá elaborarse un plan de actuación que permita paliar la situación de debilidad en la solvencia.
+
+Durante esta fase el Banco de España puede exigir la sustitución de los miembros del consejo de administración, en el caso de que se produzca un deterioro significativo de la situación de la entidad.
+
+Los capítulos III y IV regulan los procesos de reestructuración y resolución ordenada de las entidades de crédito, siendo el criterio fundamental para la aplicación de uno u otro el de la viabilidad de la entidad.
+
+En ambos procesos, es el FROB el que asume la responsabilidad de determinar los instrumentos idóneos para llevarlos a cabo de forma ordenada y con el menor coste posible para el contribuyente. No significa ello una alteración de las competencias supervisoras, que seguirán correspondiendo al Banco de España, lo cual justifica su intervención en los procedimientos de reestructuración y resolución.
+
+Así, el proceso de resolución se aplicará a entidades que no son viables, mientras que el proceso de reestructuración se aplicará a entidades que requieren apoyo financiero público para garantizar su viabilidad, pero que cuentan con la capacidad para devolver tal apoyo financiero en los plazos previstos para cada instrumento de apoyo en la propia Ley.
+
+En ambos casos se prevé la elaboración de un plan, ya sea de reestructuración o resolución, que deberá ser aprobado por el Banco de España, así como una regulación específica de los instrumentos de reestructuración o resolución que podrán ser aplicados.
+
+En relación con los instrumentos de resolución, se ha tenido de nuevo en cuenta la propuesta de directiva que sobre la materia ha presentado la Comisión Europea, incluyéndose la venta de negocio de la entidad a un tercero, la transmisión de activos o pasivos a un banco puente, o la transmisión de activos o pasivos a una sociedad de gestión de activos. En el caso de que se abra el proceso de resolución, además, se deberá proceder a la sustitución del órgano de administración.
+
+El capítulo V prevé los instrumentos de apoyo financiero que podrán ser otorgados a las entidades de crédito, incluyendo, entre otros, instrumentos de recapitalización, ya sea mediante la adquisición de acciones ordinarias o aportaciones al capital social o de instrumentos convertibles en las acciones ordinarias o aportaciones al capital social. Este Capítulo introduce disposiciones sobre el cálculo del valor económico de la entidad y sobre el régimen de la adquisición por el FROB de los instrumentos de recapitalización.
+
+En todo caso, la aplicación del Capítulo V se realizará teniendo en cuenta el principio de minimización de los recursos públicos en los procesos de reestructuración y resolución de las entidades de crédito.
+
+El capítulo VI prevé la posibilidad de que el FROB ordene a la entidad de crédito correspondiente el traspaso de los activos problemáticos a una sociedad de gestión de activos. Así, el primero de los artículos de este Capítulo hace referencia a la delimitación de esta potestad y alude de manera genérica a las características básicas que definirán a esta sociedad que se constituiría como una sociedad anónima. En un artículo posterior, se hacen algunas precisiones sobre el régimen de transmisión y valoración de los activos que se transfieren, remitiéndose a un desarrollo posterior la regulación específica de estos extremos.
+
+La sociedad de gestión de activos se constituye como un instrumento que permitirá la concentración de aquellos activos considerados como problemáticos, facilitando su gestión.
+
+El capítulo VII introduce disposiciones sobre las acciones de gestión de instrumentos híbridos de capital y deuda subordinada que aclaran la cuestión de quién debe financiar las medidas de reestructuración y de resolución de una entidad bancaria. El principio del que se parte es que los accionistas y acreedores han de sufragar los gastos de la reestructuración o resolución, antes que los contribuyentes, en virtud de un principio evidente de responsabilidad y de asunción de riesgos.
+
+En consonancia, se establecen mecanismos voluntarios y obligatorios de gestión de instrumentos híbridos de capital, que afectarán tanto a las participaciones preferentes como a la deuda subordinada. Corresponde al FROB acordar la aplicación de estas acciones e instrumentarlas en los términos que permite la Ley, valorando la idoneidad de su aplicación.
+
+Conviene explicitar en este punto que, de acuerdo con el principio de responsabilidad y asunción de riesgos, el hecho de que una entidad de crédito pueda haber recibido apoyo financiero por razones de urgencia antes de la adopción expresa de una decisión sobre su reestructuración o resolución, no impedirá que el FROB, posteriormente, imponga acciones de gestión de instrumentos híbridos de capital y de deuda subordinada, siendo el objetivo de estas medidas, como acabamos de referir, que el coste a asumir por los contribuyentes sea el menor posible.
+
+El capítulo VIII establece el régimen jurídico del FROB, constituyendo una de las novedades más importantes a este respecto la modificación de la composición del órgano de gobierno del fondo. En primer lugar, se ha suprimido la participación que de acuerdo con la normativa anterior tenían las entidades de crédito en representación del Fondo de Garantía de Depósitos de Entidades de Crédito, ante la posibilidad de que generase situaciones de conflicto de interés, y se ha creado la figura de un Director General, que ostentará las competencias de carácter ejecutivo del Fondo. Además, se introducen reglas sobre la cooperación y coordinación entre el FROB y otras autoridades competentes, nacionales o internacionales, en términos similares a las ya existentes para instituciones como el Banco de España.
+
+Este capítulo contiene igualmente una referencia a las facultades del FROB en los procesos de resolución, que pueden tener carácter mercantil o administrativo; y se hace una referencia al carácter ejecutivo de las medidas de resolución, que no necesitarán el consentimiento de la junta o asamblea general, o de los accionistas, para su aplicación. El interés público presente en los procesos de reestructuración y resolución, que busca salvaguardar la estabilidad del sistema financiero, justifica la ejecutividad de estas medidas de resolución.
+
+El capítulo IX introduce finalmente, disposiciones relativas al régimen procesal de impugnación de las decisiones que adopte el FROB. Se parte de la distinción entre las decisiones y acuerdos adoptados por el FROB en el ejercicio de facultades mercantiles, que se impugnarán de acuerdo con las normas previstas para la impugnación de acuerdos sociales con las especificidades previstas en esta Ley, y los actos dictados en el ejercicio de sus facultades administrativas, que serán impugnados en vía contencioso-administrativa con las especialidades previstas en este capítulo.
+
+Finalmente, en sus disposiciones adicionales y finales, la Ley introduce otro tipo de medidas de carácter heterogéneo, pero también de importancia, exigidas por el Memorando de Entendimiento, para la mejora del funcionamiento del mercado financiero. Así, por un lado se prevén medidas de protección del inversor, de manera que la Ley da respuestas decididas en relación con la comercialización de los instrumentos híbridos y otros productos complejos para el cliente minorista, entre los que se incluyen las participaciones preferentes, con el fin de evitar que se reproduzcan prácticas irregulares ocurridas durante los últimos años.
+
+Además, se intensifican los poderes de control que tiene la Comisión Nacional del Mercado de Valores en relación con la comercialización de productos de inversión por parte de las entidades, especialmente en relación con los citados productos complejos.
+
+Por otro lado, la Ley contribuye a realizar una clara separación entre las funciones atribuidas al Banco de España y al Ministerio de Economía y Competitividad en materia de autorización y sanción de las entidades de crédito, transfiriéndose al Banco de España aquellas funciones que antes correspondían al Ministerio de Economía y Competitividad.
+
+Otro aspecto de relevancia contenido en esta Ley es la modificación de los requerimientos de capital principal con los que deben cumplir los grupos consolidables de entidades de crédito así como las entidades no integradas en un grupo consolidable que establece el Real Decreto-ley 2/2011, de 18 de febrero, para el reforzamiento del sistema financiero. Concretamente, los requisitos actuales del ocho por cien con carácter general, y del diez por cien para las entidades con difícil acceso a los mercados de capitales y para las que predomine la financiación mayorista, se transformarán en un único requisito del nueve por cien que deberán cumplir a partir del 1 de enero de 2013. No sólo se modifica el nivel de exigencia de capital principal, sino también su definición, acompasándola, tanto en sus elementos computables como en sus deducciones a la utilizada por la Autoridad Bancaria Europea en su reciente ejercicio de recapitalización.

@@ -24,9 +24,11 @@ i) El Capítulo II del Título I del Real Decreto Ley 5/2005, de 11 de marzo, de
 
 j) Ley 6/2005, de 22 de abril, sobre Saneamiento y Liquidación de las Entidades de Crédito.
 
-k) El Real Decreto-ley 24/2012, de 31 de agosto, de reestructuración y resolución de entidades de crédito.
+k) La Ley 9/2012, de 14 de noviembre, de reestructuración y resolución de entidades de crédito.
 
 3. Las normas legales mencionadas en el apartado anterior se aplicarán con el alcance subjetivo y objetivo previsto en las mismas a las operaciones o contratos que en ellas se contemplan y, en particular, las referidas a las operaciones relativas a los sistemas de pagos y de liquidación y compensación de valores, operaciones dobles, operaciones con pacto de recompra o se trate de operaciones financieras relativas a instrumentos derivados.
+
+> Se modifica el apartado 2.k) por la disposición final 6 de la Ley 9/2012, de 14 de noviembre. Ref. BOE-A-2012-14062.
 
 > Se modifica el apartado 2.k) por la disposición final 6 del Real Decreto-ley 24/2012, de 31 de agosto. Ref. BOE-A-2012-11247.
 

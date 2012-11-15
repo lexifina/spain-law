@@ -1,0 +1,3 @@
+## Disposición adicional decimonovena. Informe sobre las retribuciones de las entidades de crédito en proceso de reestructuración o resolución.
+
+En el plazo de cuatro meses desde la entrada en vigor de esta Ley, el Banco de España remitirá a las Cortes Generales un informe en el que evaluará el efecto del Real Decreto-ley 2/2012, de 3 de febrero, de saneamiento del sector financiero y del resto de la normativa aplicable sobre el cobro de las indemnizaciones, pensiones y remuneraciones percibidas por los administradores y directivos de las entidades de créditos inmersas en algún procedo de reestructuración o resolución durante el mencionado plazo, incorporando un modelo de marco retributivo.

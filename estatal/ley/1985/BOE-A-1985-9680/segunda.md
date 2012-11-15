@@ -60,6 +60,10 @@ e) Las operaciones derivadas de la emisión de participaciones preferentes estar
 
 7. A las emisiones de instrumentos de deuda a las que se refieren los dos apartados precedentes no les será de aplicación la limitación impuesta, por razones de capital y de reservas, en los artículos 405 y 411 del Real Decreto Legislativo 1/2010, de 2 de julio, por el que se aprueba el Texto Refundido de la Ley de Sociedades de Capital ni en relación con la sociedad emisora ni con la sociedad dominante del grupo.
 
+> Se añaden las letras k) y l) al apartado 1 por la disposición final 1 de la Ley 9/2012, de 14 de noviembre. Ref. BOE-A-2012-14062.
+
+> Téngase en cuenta que esta incorporación ya fue realizada por el Real Decreto-ley 24/2012, de 31 de agosto.
+
 > Se añaden las letras k) y l) al apartado 1 por la disposición final 1 del Real Decreto-ley 24/2012, de 31 de agosto. Ref. BOE-A-2012-11247.
 
 > Se modifica por el art. 1.10 de la Ley 6/2011, de 11 de abril. Ref. BOE-A-2011-6548.

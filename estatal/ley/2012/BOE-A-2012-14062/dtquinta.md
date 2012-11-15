@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Régimen de aportación de activos de la Ley 8/2012, de 30 de octubre, sobre saneamiento y venta de los activos inmobiliarios del sector financiero.
+
+La obligación de aportar activos adjudicados o recibidos en pago a las sociedades de gestión de activos a las que se refiere el capítulo II de la Ley 8/2012, de 30 de octubre, sobre saneamiento y venta de los activos inmobiliarios del sector financiero, no resultará de aplicación a aquellas entidades de crédito participadas mayoritariamente por el FROB o que estuvieran sometidas a un proceso de resolución, ni al resto de entidades de crédito pertenecientes a su grupo o subgrupo consolidable.

@@ -12,4 +12,6 @@ Lo previsto en esta disposición se entenderá sin perjuicio del cumplimiento de
 
 4. En el ámbito de sus funciones y teniendo en cuenta el beneficio del conjunto del sistema de entidades adheridas, el Fondo de Garantía de Depósitos de Entidades de Crédito podrá adoptar medidas tendentes a facilitar la implementación de la asistencia financiera europea para la recapitalización de las entidades de crédito españolas. En todo caso, el coste de dichas medidas habrá de resultar inferior a los desembolsos que hubiera tenido que realizar el Fondo de Garantía de Depósitos de Entidades de Crédito de conformidad con su normativa reguladora, de optar, en el momento de apertura del proceso de reestructuración o resolución, por realizar el pago de los importes garantizados en caso de liquidación de la entidad.
 
+> Se modifica el apartado 4 por la disposición final 11 de la Ley 9/2012, de 14 de noviembre. Ref. BOE-A-2012-14062.
+
 > Se modifica el apartado 4 por la disposición final 11 del Real Decreto-ley 24/2012, de 31 de agosto. Ref. BOE-A-2012-11247.

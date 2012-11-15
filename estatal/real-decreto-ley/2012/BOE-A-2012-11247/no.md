@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 221, de 13 de septiembre de 2012. Ref. BOE-A-2012-11523.
+Norma derogada, con efectos de 15 de noviembre de 2012, por la disposición derogatoria.e) de la Ley 9/2012, de 14 de noviembre. Ref. BOE-A-2012-14062#dd.

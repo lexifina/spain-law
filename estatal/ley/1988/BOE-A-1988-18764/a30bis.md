@@ -20,6 +20,8 @@ Cuando se trate de colocación de emisiones contempladas en las letras b), c), d
 
 3. A las ofertas públicas de venta o suscripción de valores no exceptuadas de la obligación de publicar un folleto informativo se les aplicará toda la regulación relativa a la admisión a negociación de valores en mercados regulados contenida en este título, con las adaptaciones y excepciones que reglamentariamente se determinen. A estos efectos se tendrá en cuenta que a las ofertas públicas de venta o suscripción de valores podrá no aplicárseles el artículo 25.5.
 
+> Se modifica el apartado 1 por la disposición final 3.3 de la Ley 9/2012, de 14 de noviembre. Ref. BOE-A-2012-14062.
+
 > Se modifica el apartado 1 por la disposición final 3.3 del Real Decreto-ley 24/2012, de 31 de agosto. Ref. BOE-A-2012-11247.
 
 > Se añade un párrafo al apartado 1 por el art. 18.1 del Real Decreto-Ley 6/2010, de 9 de abril. Ref. BOE-A-2010-5879
