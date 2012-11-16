@@ -1,0 +1,3 @@
+## Disposición adicional única. Fondo social de viviendas.
+
+Se encomienda al Gobierno que promueva con el sector financiero la constitución de un fondo social de viviendas propiedad de las entidades de crédito, destinadas a ofrecer cobertura a aquellas personas que hayan sido desalojadas de su vivienda habitual por el impago de un préstamo hipotecario, cuando concurran en ellas las circunstancias previstas en el artículo 1 del presente real decreto-ley. Este fondo social de viviendas tendrá por objetivo facilitar el acceso a estas personas a contratos de arrendamiento con rentas asumibles en función de los ingresos que perciban.
