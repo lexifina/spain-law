@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Reglamento sancionador.
+
+En el plazo máximo de dos años, el Ministro de Agricultura, Alimentación y Medio Ambiente elevará al Consejo de ministros un proyecto de Real Decreto estableciendo el régimen de infracciones y sanciones en materia de incumplimientos de este real decreto y de la normativa comunitaria en materia de SANDACH, en desarrollo de los regímenes correspondientes previstos en cada caso en la Ley 8/2003, de 24 de abril, en la Ley 17/2011, de 5 de julio, en la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados, y en la Ley 33/2011, de 4 de octubre, General de Salud Pública.

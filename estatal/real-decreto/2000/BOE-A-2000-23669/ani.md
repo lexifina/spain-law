@@ -40,15 +40,9 @@ B. Controles de la alimentación animal
 
 6. Igualmente, se remitirán los datos relativos a las inspecciones realizadas en granjas.
 
-C. Inspección de industrias de transformación de subproductos
+C. (Derogada)
 
-1. Número de visitas de inspección realizadas.
-
-2. Relación nominal de establecimientos visitados, con expresión del número de muestras tomadas en cada uno de ellos.
-
-3. Incidencias: Deficiencias encontradas y medidas adoptadas.
-
-4. El listado actualizado de las industrias de transformación de despojo y subproductos que cumplen con lo establecido en el Real Decreto 2224/1993 y la Decisión 1999/534/CE.
+> Se deroga la letra C) por la disposición derotoria única.b) del Real Decreto 1528/2012, de 8 de noviembre. Ref. BOE-A-2012-14165.
 
 > Se modifica por el art. único y anexo de la Orden APA/718/2002, de 2 de abril. Ref. BOE-A-2002-6474.
 

@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Métodos de transformación.
+
+Aquellos métodos de transformación autorizados como «Método 7» con anterioridad al 4 de marzo de 2011 podrán seguir siendo utilizados si la autoridad competente así lo decide. En caso contrario, la autoridad competente reevaluará el método de acuerdo con el Reglamento (UE) n.º 142/2011, de la Comisión, de 25 de febrero de 2011. La autoridad competente informará a la Comisión nacional prevista en el artículo 4, o en tanto no esté aún constituida, a la comisión nacional creada por el artículo 15 del Real Decreto 1429/2003, del uso que haga de esta previsión.
