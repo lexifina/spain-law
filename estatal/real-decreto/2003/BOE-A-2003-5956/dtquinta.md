@@ -24,9 +24,9 @@ h) La cuota cedida de la reserva nacional de cuota láctea no genera derecho a s
 
 i) La cuota láctea objeto de cesión no entra en el cálculo del pago adicional.
 
-3. En caso de que un productor no desee utilizar el derecho de uso de la cuota cedida procedente de la reserva nacional puede renunciar a ella, mediante escrito dirigido a la Directora General de Recursos Agrícolas y Ganaderos, que se presentará ante el órgano competente de la comunidad autónoma en donde radique la explotación del solicitante o en cualquiera de los lugares establecidos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Asimismo, se podrá presentar las solicitudes en el registro electrónico en aplicación de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos.
+3. En caso de que un productor no desee utilizar el derecho de uso de la cuota cedida procedente de la reserva nacional puede renunciar a ella mediante escrito dirigido al Director General de Producciones y Mercados Agrarios, que se presentará ante el órgano competente de la comunidad autónoma en donde radique la explotación del solicitante o en cualquiera de los lugares establecidos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Asimismo, se podrán presentar solicitudes en el registro electrónico en aplicación de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos.
 
-El plazo de presentación de la renuncia comprenderá desde el 1 de julio hasta el 30 de julio del año 2011 para el período 2011/2012 y desde el 1 de abril hasta el 30 de abril para los siguientes períodos.
+El plazo de presentación de la renuncia será desde el 1 de abril hasta el 31 de diciembre de cada periodo.
 
 4. Criterios objetivos:
 
@@ -45,6 +45,8 @@ Requisitos. Será condición para tener derecho al uso de la cuota cedida desde 
 Los productores podrán consultar la cantidad de cuota cuyo uso se cede desde la reserva nacional a través del sistema de consulta y gestión de cuotas lácteas SIGLAC (http://www.marm.es/app/vocwai/Inicio.aspx?tg=siglac&sec=SCL).
 
 5. En caso de no reunir los requisitos o condiciones previstos en esta disposición, no habrá derecho al uso de la cuota que en ella se regula, sin ninguna otra consecuencia desfavorable para el administrado.
+
+> Se modifica el apartado 3 por el art. único.2 del Real Decreto 1504/2012, de 2 de noviembre. Ref. BOE-A-2012-14244.
 
 > Se modifica por el art. único.2 del Real Decreto 774/2011, de 3 de junio. Ref. BOE-A-2011-9734.
 
