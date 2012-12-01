@@ -46,6 +46,10 @@ En las Unidades de Gestión de Grandes Empresas de las Dependencias Regionales d
 
 La firma del acuerdo de inicio y de la propuesta de liquidación o resolución de los procedimientos de comprobación limitada o de declaración de responsabilidad tramitados por los Equipos o Unidades de Inspección corresponderá al Jefe de los mismos.
 
+La firma de la propuesta de resolución de los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo corresponderá al Jefe de Equipo, Jefe de Unidad o funcionario que haya sido designado como instructor por el Inspector Jefe.
+
+> Se modifica el punto 4 por el art. único.1.4 de la Resolución de 27 de noviembre de 2012. Ref. BOE-A-2012-14650.
+
 > Se modifica el punto 4 por la Resolución de 31 de julio de 2009. Ref. BOE-A-2009-13248.
 
 > Se modifican los puntos 2, 3 y 4 por el apartado 8 de la Resolución de 26 de noviembre de 2008. Ref. BOE-A-2008-20956.

@@ -24,7 +24,9 @@ f) Realizar actuaciones de comprobación e investigación cuando así lo acuerde
 
 g) Resolver el procedimiento relativo a planes de gastos correspondientes a actuaciones medioambientales y de inversiones y gastos de las comunidades titulares de montes vecinales en mano común.
 
-h) Cualesquiera otras competencias y funciones que les atribuya la normativa legal y reglamentaria y demás disposiciones que sean de aplicación.
+h) Iniciar y resolver los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo. Asimismo, les corresponderá designar al Jefe de Equipo, Jefe de Unidad o funcionario que deba instruir dichos procedimientos sancionadores.
+
+i) Cualesquiera otras competencias y funciones que les atribuya la normativa legal y reglamentaria y demás disposiciones que sean de aplicación.
 
 3. En caso de vacante, ausencia o enfermedad se actuará de la siguiente manera:
 
@@ -35,6 +37,8 @@ b) El Jefe de la Oficina Nacional de Investigación del Fraude designará al sus
 c) El Delegado Especial de la Agencia Tributaria designará al sustituto del Jefe de la Dependencia Regional de Inspección.
 
 d) El Jefe de la Dependencia Regional de Inspección designará al sustituto de los Inspectores Regionales Adjuntos, de los Inspectores Coordinadores y del Jefe de la Oficina Técnica.
+
+> Se modifica el punto 2 por el art. único.1.3 de la Resolución de 27 de noviembre de 2012. Ref. BOE-A-2012-14650.
 
 > Se modifican los puntos 1.a) y 3.b) por los apartados 5 y 6 de la Resolución de 26 de noviembre de 2008. Ref. BOE-A-2008-20956.
 
