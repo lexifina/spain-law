@@ -18,15 +18,19 @@ c) La intervención de las actividades y locales, en los términos previstos por
 
 d) El desarrollo, en el ámbito regional, de las funciones de represión del fraude fiscal y aduanero. Asimismo, ejercerá la dirección, planificación y coordinación de las actuaciones a desarrollar por las Unidades Operativas de las Dependencias Provinciales de Aduanas e Impuestos Especiales.
 
-e) El desarrollo en el ámbito regional de las funciones que se encomienden a Vigilancia Aduanera en el ámbito de la persecución, investigación y descubrimiento del fraude.
+e) El desarrollo, en el ámbito regional, de las funciones que se encomienden a Vigilancia Aduanera en el ámbito de la persecución, investigación y descubrimiento del fraude.
 
 f) Las de investigación e información relacionadas con las funciones de la Dependencia.
 
-g) El asesoramiento y asistencia al Delegado Especial de la Agencia en materia de Aduanas e Impuestos Especiales.
+g) La iniciación, instrucción y resolución de los expedientes sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo que se pongan de manifiesto como consecuencia de las actuaciones y procedimientos realizados por los órganos, equipos, unidades administrativas o funcionarios que integran los servicios territoriales de Aduanas e Impuestos Especiales en su ámbito territorial.
 
-h) La relación con las restantes áreas de la Agencia, en el ámbito de su respectiva Delegación Especial.
+La competencia se extenderá, en su caso, a todos los que hubieran sido parte en la operación de pago de efectivo aunque no tuvieran esa condición en la actuación o procedimiento que la pone de manifiesto.
 
-i) Las de tramitación y resolución derivadas del ejercicio de las funciones anteriormente expresadas.
+h) El asesoramiento y asistencia al Delegado Especial de la Agencia en materia de Aduanas e Impuestos Especiales.
+
+i) La relación con las restantes áreas de la Agencia, en el ámbito de su respectiva Delegación Especial.
+
+j) Las de tramitación y resolución derivadas del ejercicio de las funciones anteriormente expresadas.
 
 2. Las Dependencias Regionales de Aduanas e Impuestos Especiales, que actuarán bajo la superior dirección del Jefe de Dependencia, podrán estar constituidas como máximo por las siguientes áreas:
 
@@ -49,6 +53,8 @@ e) Área Regional Químico-Tecnológica de Aduanas e Impuestos Especiales.
 6. (Suprimido)
 
 7. La distribución de las Dependencias Regionales de Aduanas e Impuestos Especiales por Delegaciones Especiales es la desarrollada en el anexo II de la presente Resolución.
+
+> Se modifica el punto 1 por el art. único.1 de la Resolución de 27 de noviembre de 2012. Ref. BOE-A-2012-14652.
 
 > Se modifica el punto 1.b) por el art. único.1 de la Resolución de 27 de julio de 2012. Ref. BOE-A-2012-10421.
 
