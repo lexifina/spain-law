@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 257, de 25 de octubre de 2011. Ref. BOE-A-2011-16675
+Norma derogada por la disposición derogatoria única de la Orden ESS/2541/2012, de 27 de noviembre. Ref. BOE-A-2012-14604.
