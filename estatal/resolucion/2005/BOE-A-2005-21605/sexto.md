@@ -18,7 +18,9 @@ En caso de vacante, ausencia o enfermedad, el titular de la Dependencia designar
 
 Como excepción, los procedimientos de verificación de datos, comprobación de valores, comprobación limitada y demás actuaciones de comprobación en el ámbito de la gestión aduanera, de la gestión e intervención de los Impuestos Especiales y de la gestión del Impuesto sobre Ventas Minoristas de Determinados Hidrocarburos respecto a dichos obligados se realizarán por los órganos territoriales de la Agencia Tributaria.
 
-También le corresponde el inicio, la tramitación y la resolución de los procedimientos sancionadores que se deriven de las actuaciones y procedimientos indicados en el primer párrafo de este número. Asimismo le corresponde el inicio, tramitación y resolución de los procedimientos de declaración de responsabilidad cuando ésta tenga lugar antes de la finalización del período voluntario de pago y derive de liquidaciones dictadas por esta Dependencia.
+También le corresponde el inicio, la tramitación y la resolución de los procedimientos sancionadores que se deriven de las actuaciones y procedimientos indicados en el primer párrafo de este número y de los procedimientos de declaración de responsabilidad cuando ésta tenga lugar antes de la finalización del período voluntario de pago y derive de liquidaciones dictadas por esta Dependencia.
+
+Además le corresponde el inicio, la tramitación y la resolución de los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo, tanto de los obligados tributarios adscritos como de las personas o entidades no adscritas a las que se refiere el apartado tercero.6.
 
 Corresponde a los Inspectores Jefes el ejercicio de las siguientes funciones y competencias:
 
@@ -32,7 +34,9 @@ d) Realizar los requerimientos individualizados de obtención de información, e
 
 e) Autorizar el inicio de los expedientes sancionadores en aquellos casos en los que la normativa reglamentaria exija dicha autorización, y dictar los actos de imposición de sanción.
 
-f) Cualesquiera otras funciones y competencias que les atribuyan la normativa legal y reglamentaria y demás disposiciones que sean de aplicación.
+f) Iniciar y resolver los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo. Asimismo, les corresponderá designar al funcionario que deba instruir dichos procedimientos sancionadores.
+
+g) Cualesquiera otras funciones y competencias que les atribuyan la normativa legal y reglamentaria y demás disposiciones que sean de aplicación.
 
 3. Equipos Nacionales de Inspección. Las actuaciones de comprobación e investigación atribuidas a la Dependencia de Control Tributario y Aduanero serán desarrolladas por Equipos Nacionales de Inspección, sin perjuicio de la realización por dichos Equipos de las demás actuaciones inspectoras establecidas en la normativa vigente, así como el inicio y la instrucción de los procedimientos sancionadores que se deriven de las actuaciones y procedimientos indicados en el número 2 de este apartado y el inicio y tramitación de los procedimientos para declarar la responsabilidad cuando la competencia para declarar dicha responsabilidad corresponda al órgano competente para dictar la liquidación.
 
@@ -69,6 +73,8 @@ La Unidad de Control Tributario y Aduanero, dirigida por su titular, con la asis
 La Unidad de Selección, dirigida por su titular, estará integrada por los funcionarios que en cada momento se determinen por el titular de la Dependencia o sus Adjuntos.
 
 7. Equipos de Apoyo Informático.–Los Equipos de Apoyo Informático desarrollarán actuaciones conjuntas y de coordinación de trabajos informáticos con los Equipos Nacionales de Inspección, investigando y analizando la estructura de los sistemas informáticos y de las bases de datos y sus movimientos para el descubrimiento de datos ocultos. Estos Equipos, dirigidos por Jefes de Equipo, estarán integrados por los funcionarios que se les adscriban.
+
+> Se modifica el punto 2 por el art. único.3 de la Resolución de 27 de noviembre de 2012. Ref. BOE-A-2012-14651.
 
 > Se modifican los puntos 2, 3, 4 y 5 por el art. único.8 a 11 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22253.
 

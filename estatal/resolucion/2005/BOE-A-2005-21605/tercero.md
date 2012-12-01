@@ -60,6 +60,10 @@ Asimismo, cuando se realicen actuaciones de investigación por la Oficina Nacion
 
 El Equipo Central de Información de la Oficina Nacional de Investigación del Fraude del Departamento de Inspección Financiera y Tributaria podrá ejercer las funciones que tiene atribuidas respecto a los obligados tributarios adscritos a la Delegación Central.
 
+6. La Delegación Central de Grandes Contribuyentes podrá extender su competencia respecto de aquellas personas o entidades que no estén adscritas a la misma cuando sean partes intervinientes junto con obligados tributarios adscritos a la Delegación Central de Grandes Contribuyentes en una operación objeto de un procedimiento sancionador derivado del incumplimiento de las limitaciones a los pagos en efectivo.
+
+> Se añade el punto 6 por el art. único.1 de la Resolución de 27 de noviembre de 2012. Ref. BOE-A-2012-14651.
+
 > Se modifican los puntos 1, 2.d) y 3 por el art. único.1 a 3 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22253.
 
 > Se modifican los puntos 3 y 4 por la disposición final 1.2 y 3 de la Resolución de 3 de julio de 2006. Ref. BOE-A-2006-12150.

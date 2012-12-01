@@ -14,6 +14,8 @@ e) Constituir el cauce general de relación entre los órganos integrados en la 
 
 f) Formular las propuestas de resoluciones o autorizaciones cuya tramitación corresponda a la Delegación Central que deban ser dictados u otorgadas por otros órganos de la Agencia Tributaria.
 
+g) Resolver los recursos de alzada contra los acuerdos de resolución de los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo, dictados por los órganos dependientes del mismo.
+
 2. Asimismo, el titular de la Delegación Central ejercerá, respecto de los obligados tributarios adscritos a esta Delegación, las siguientes funciones y competencias:
 
 a) Autorizar las siguientes actuaciones:
@@ -145,6 +147,8 @@ c) Dependencia de Gestión de Medios y Recursos: Adjuntos al titular de la Depen
 En ausencia de los anteriores, el titular de la Delegación Central acordará la sustitución que proceda en cada caso.
 
 7. El titular de la Delegación Central de Grandes Contribuyentes y sus Adjuntos serán nombrados y cesados por la Presidencia de la Agencia Tributaria a propuesta de la Dirección General, de conformidad con lo establecido en el artículo 103.Tres.2 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991. Su nombramiento y cese se publicarán en el «Boletín Oficial del Estado».
+
+> Se añade la letra g) al punto 1 por el art. único.2 de la Resolución de 27 de noviembre de 2012. Ref. BOE-A-2012-14651.
 
 > Se modifica el punto 2 por el art. único.4 a 7 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22253.
 
