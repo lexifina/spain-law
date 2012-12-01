@@ -1,6 +1,6 @@
 ## Artículo 94 bis. Aportación de los usuarios y sus beneficiarios en la prestación farmacéutica ambulatoria.
 
-1. Se entiende por prestación farmacéutica ambulatoria la que se dispensa al paciente, a través de receta médica, en oficina o servicio de farmacia.
+1. Se entiende por prestación farmacéutica ambulatoria la que se dispensa al paciente mediante receta médica u orden de dispensación hospitalaria a través de oficinas o servicios de farmacia.
 
 2. La prestación farmacéutica ambulatoria estará sujeta a aportación del usuario.
 
@@ -43,6 +43,8 @@ d) Parados que han perdido el derecho a percibir el subsidio de desempleo en tan
 e) Personas con tratamientos derivados de accidente de trabajo y enfermedad profesional.
 
 9. El nivel de aportación de los mutualistas y clases pasivas de la Mutualidad General de Funcionarios Civiles del Estado, del Instituto Social de las Fuerzas Armadas y la Mutualidad General Judicial será del 30 %.
+
+> Se modifica el apartado 1 por la disposición final 1 del Real Decreto-ley 28/2012, de 30 de noviembre. Ref. BOE-A-2012-14695.
 
 > Se añade por el art. 4.13 del Real Decreto-ley 16/2012, de 20 de abril. Ref. BOE-A-2012-5403.
 
