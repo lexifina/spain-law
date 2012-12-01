@@ -24,6 +24,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional segunda](dasegunda.md)
 - [Disposición adicional tercera](datercera.md)
 - [Disposición adicional cuarta](dacuarta.md)
+- [Disposición adicional quinta](daquinta.md)
+- [Disposición adicional sexta](dasexta.md)
 - [Disposición transitoria](dt.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición final](df.md)

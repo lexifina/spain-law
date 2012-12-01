@@ -12,9 +12,13 @@ d) El reconocimiento previo de la no sujeción y la exención en los supuestos p
 
 e) El inicio, la tramitación y la resolución de los procedimientos sancionadores derivados de las actuaciones y procedimientos incluidos en las letras anteriores.
 
-2.° Competencia territorial.–La Dependencia Regional de Gestión Tributaria extenderá su competencia al ámbito territorial de la correspondiente Delegación Especial de la Agencia Tributaria, pudiendo las unidades en las que aquélla se organiza, cualquiera que sea su sede, desarrollar sus actuaciones en todo este ámbito territorial.
+f) La tramitación y la resolución de los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo que se hayan puesto de manifiesto en los procedimientos y actuaciones relacionados en este apartado.
 
-A propuesta del Delegado Especial, el Director del Departamento podrá acordar la extensión de sus competencias al ámbito territorial de otras Delegaciones Especiales, oídos los Delegados Especiales correspondientes.
+2.° Competencia territorial. La Dependencia Regional de Gestión Tributaria extenderá su competencia al ámbito territorial de la correspondiente Delegación Especial de la Agencia Tributaria, pudiendo las unidades en las que aquélla se organiza, cualquiera que sea su sede, desarrollar sus actuaciones en todo este ámbito territorial.
+
+A propuesta del titular de la Delegación Especial, el titular del Departamento de Gestión Tributaria podrá acordar la extensión de sus competencias al ámbito territorial de otras Delegaciones Especiales, oídos los demás Delegados Especiales correspondientes.
+
+No obstante lo anterior, la Dependencia Regional de Gestión Tributaria podrá extender también su competencia territorial a aquellas personas o entidades que, sin estar domiciliadas en el ámbito territorial de la respectiva Delegación Especial o estando adscritas a la Delegación Central de Grandes Contribuyentes, sean partes intervinientes en la operación objeto de un procedimiento sancionador, derivado del incumplimiento de las limitaciones a los pagos en efectivo, junto con otras personas o entidades sobre las que la Dependencia Regional de Gestión Tributaria tenga competencia de acuerdo con lo establecido en los dos párrafos anteriores.
 
 3.° Jefatura y composición:
 
@@ -121,6 +125,8 @@ D.1) Gestión de Beneficios Fiscales y Procedimientos Especiales.–La Unidad, S
 a) La gestión de los beneficios fiscales solicitados por contribuyentes con domicilio fiscal en el ámbito territorial de la Delegación Especial.
 
 b) La gestión de los procedimientos de especial complejidad técnica que determine el Jefe de la Dependencia Regional.
+
+c) La tramitación y propuesta de resolución de los expedientes sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo.
 
 D.2) Gestión y Comprobación de no residentes.–La Unidad, Servicio o Sección de Gestión y Comprobación de no residentes podrá ejercer en todo el territorio de la Delegación Especial las siguientes competencias:
 
@@ -289,6 +295,8 @@ Podrá asumir las funciones propias de la Sección del Impuesto sobre el Valor A
 Además de las propuestas de liquidación que consideren oportunas en cada caso, les corresponde iniciar, tramitar y proponer la resolución de los expedientes de imposición de sanciones por infracciones tributarias en vía de gestión tributaria, así como de intereses y recargos, en relación con los expedientes tramitados por estas mismas Unidades.
 
 3. Cuando por necesidades del servicio se estime oportuno, y en particular, en el período anual de campaña del Impuesto sobre la Renta de las Personas Físicas, podrá encomendarse al personal adscrito a las distintas Unidades, Servicios, Oficinas y Secciones, funciones distintas de las específicamente señaladas en esta Resolución.
+
+> Se modifica por el art. único.1 a 3 de la Resolución de 27 de noviembre de 2012. Ref. BOE-A-2012-14649.
 
 > Se modifica el apartado 1 por el art. único.1 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22250.
 
