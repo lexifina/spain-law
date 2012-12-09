@@ -1,0 +1,5 @@
+La modificación, por una parte, de la estructura orgánica básica del Ministerio del Interior por la publicación del Real Decreto 1887/2011, de 30 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales, y por la del Real Decreto 400/2012, de 17 de febrero, por el que se desarrolla la estructura orgánica básica de dicho Departamento. Y, por otra parte, la aprobación y entrada en vigor de la Ley 24/2011, de 1 de agosto, de contratos del sector público en los ámbitos de la defensa y de la seguridad, así como del texto refundido de la Ley de Contratos del Sector Público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre, hacen necesario adaptar la composición y las funciones de la Comisión Ministerial de Administración Electrónica del Ministerio del Interior a estas nuevas circunstancias.
+
+La presente Orden ha sido informada favorablemente por el Consejo Superior de Administración Electrónica, así como por la Comisión Ministerial de Administración Electrónica.
+
+En su virtud, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, dispongo:
