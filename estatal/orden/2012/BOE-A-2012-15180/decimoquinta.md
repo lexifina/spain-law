@@ -1,0 +1,11 @@
+## Decimoquinta. Incumplimiento, modificación, renuncia y reintegro.
+
+1. El incumplimiento por parte del beneficiario de las obligaciones que le incumban establecidas en las presentes bases y demás normas aplicables, así como de las que se establezcan en la correspondiente resolución de concesión dará lugar al reintegro o, en su caso, a la pérdida del derecho al cobro de la subvención y al abono de los intereses de demora desde el pago de la subvención, de conformidad con lo dispuesto en el artículo 37 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones. En tales supuestos será de aplicación el procedimiento previsto en los artículos 42 y 43 de la citada norma legal.
+
+2. Asimismo, toda alteración de las condiciones tenidas en cuenta para la concesión de las subvenciones podrá dar lugar a la modificación de la resolución de concesión. La resolución de convocatoria podrá establecer los supuestos en los que, una vez recaída la resolución de concesión, el beneficiario puede solicitar la modificación de su contenido, que podrá autorizarse siempre que no vaya en perjuicio de terceros.
+
+3. En los procedimientos de reintegro el Consejo Superior de Deportes podrá acordar la devolución total o parcial de las cantidades percibidas, en función de la causa o motivo de reintegro, teniendo en cuenta el grado en que el cumplimiento efectivo del beneficiario se aproxime al cumplimiento total legalmente exigido de la actividad subvencionada y además se hubiera acreditado una indudable actuación que se haya dirigido al cumplimiento de sus obligaciones.
+
+4. En caso de renuncia el beneficiario deberá presentar la correspondiente solicitud fundamentada, dirigida al Presidente del Consejo Superior de Deportes, quien resolverá, si procede, la devolución total o parcial de las cantidades percibidas o solamente la anulación de los abonos pendientes. En tales supuestos podrá concederse la subvención al beneficiario suplente según el orden de puntuación obtenido en el proceso de selección.
+
+5. Las subvenciones que conceda el Consejo Superior de Deportes estarán sujetas al régimen de infracciones y sanciones establecido en el título IV de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
