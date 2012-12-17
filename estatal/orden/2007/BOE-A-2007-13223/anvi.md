@@ -12,6 +12,9 @@
 | 308 | Devolución IVA Régimen especial recargo de equivalencia, art. 30 bis RIVA y sujetos pasivos ocasionales | M-T-0A |
 | 311 | Devolución IVA régimen simplificado. Declaración final | 4T |
 | 371 | Devolución IVA régimen general y simplificado. Declaración final | 4T |
+| 695 | Tasa por el ejercicio de la potestad jurisdiccional en los órdenes civil, contencioso-administrativo y social. Solicitud de devolución por solución extrajudicial del litigio y por acumulación de procesos. | 0A |
+
+> Se añade el modelo 695 por la disposición final 1.2 de la Orden HAP/2662/2012, de 13 de diciembre. Ref. BOE-A-2012-15141.
 
 > Se modifica por la disposición final 1.2 de la Orden EHA/408/2010, de 24 de febrero. Ref. BOE-A-2010-3095.
 
