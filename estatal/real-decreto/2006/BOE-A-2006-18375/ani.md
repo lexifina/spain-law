@@ -2,202 +2,192 @@
 
 ## Procesos con hospitalización
 
-| AP-GDR (V 23.0) | Descripción | C. Medio 2008 | Coste compensable (80%) |
+En euros 2012
+
+| AP-GRD (V 25.0) Código | Descripción | Coste medio 2012 | Coste compensable (80%) |
 | --- | --- | --- | --- |
-|  |  |  |  |
-| 1 | CRANEOTOMIA EDAD>17 CON CC. | 10.878 | 8.703 |
-| 2 | CRANEOTOMIA EDAD>17 SIN CC. | 11.447 | 9.157 |
-| 7 | PROCED. SOBRE N.CRANEALES & PERIFERICOS & OTROS PQ S.NERVIOSO CON CC. | 6.894 | 5.515 |
-| 8 | PROCED. SOBRE N.CRANEALES & PERIFERICOS & OTROS PQ S.NERVIOSO SIN CC. | 3.815 | 3.052 |
-| 9 | TRASTORNOS & LESIONES ESPINALES. | 4.616 | 3.693 |
-| 10 | NEOPLASIAS DE SISTEMA NERVIOSO CON CC. | 4.824 | 3.860 |
-| 11 | NEOPLASIAS DE SISTEMA NERVIOSO SIN CC. | 3.847 | 3.077 |
-| 37 | PROCEDIMIENTOS SOBRE ORBITA. | 4.012 | 3.210 |
-| 41 | PROCEDIMIENTOS EXTRAOCULARES EXCEPTO ORBITA EDAD<18. | 1.750 | 1.400 |
-| 48 | OTROS TRASTORNOS DEL OJO EDAD<18. | 1.840 | 1.472 |
-| 49 | PROCED. MAYORES DE CABEZA & CUELLO EXCEPTO POR NEOPLASIA MALIGNA. | 7.278 | 5.823 |
-| 52 | REPARACION DE HENDIDURA LABIAL & PALADAR. | 3.086 | 2.469 |
-| 63 | OTROS PROCEDIMIENTOS QUIRURGICOS SOBRE OIDO, NARIZ, BOCA & GARGANTA. | 5.525 | 4.420 |
-| 75 | PROCEDIMIENTOS TORACICOS MAYORES. | 8.164 | 6.531 |
-| 76 | OTROS PROCEDIMIENTOS QUIRURGICOS DE APARATO RESPIRATORIO CON CC. | 7.351 | 5.881 |
-| 77 | OTROS PROCEDIMIENTOS QUIRURGICOS DE APARATO RESPIRATORIO SIN CC. | 4.315 | 3.452 |
-| 103 | TRASPLANTE CARDIACO O IMPLANTACIÓN DE SISTEMA DE ASISTENCIA CARDIACA. | 58.588 | 46.870 |
-| 104 | PROC. SOBRE VALV. CARDIACAS & OTROS PROC. CARDIOTORACICOS MAYORES CON CAT. CARDIACO. | 17.952 | 14.362 |
-| 105 | PROC. SOBRE VALV. CARDIACAS & OTROS PROC. CARDIOTORACICOS MAYORES SIN CAT. CARDIACO. | 13.627 | 10.902 |
-| 106 | BYPASS CORONARIO CON ACTP. | 27.054 | 21.643 |
-| 107 | BYPASS CORONARIO SIN ACTP Y CON CATETERISMO CARDIACO. | 13.751 | 11.001 |
-| 108 | OTROS PROCEDIMIENTOS CARDIOTORACICOS. | 10.263 | 8.211 |
-| 109 | BYPASS CORONARIO SIN ACTP SIN CATETERISMO CARDIACO. | 10.662 | 8.530 |
-| 110 | PROCEDIMIENTOS CARDIOVASCULARES MAYORES CON CC. | 11.431 | 9.145 |
-| 111 | PROCEDIMIENTOS CARDIOVASCULARES MAYORES SIN CC. | 8.115 | 6.492 |
-| 112 | PROCEDIMIENTOS CARDIOVASCULARES PERCUTANEOS, SIN IAM, INSUFICIENCIA CARDIACA O SHOCK. | 4.342 | 3.473 |
-| 115 | IMPLANT. MARCAPASOS CARD. PERM. CON IAM, F. CARDIACO, SHOCK, DESFIB. O SUST. GENERADOR. | 10.170 | 8.136 |
-| 120 | OTROS PROCEDIMIENTOS QUIRURGICOS DE APARATO CIRCULATORIO. | 6.912 | 5.529 |
-| 121 | TRAST.CIRCULATORIOS CON IAM & COMPL.MAYORES, ALTA CON VIDA. | 5.676 | 4.541 |
-| 124 | TRAST.CIRCULATORIOS EXCEPTO IAM, CON CATETERISMO & DIAG. COMPLEJO. | 4.280 | 3.424 |
-| 137 | TRASTORNOS CARDIACOS CONGENITOS & VALVULARES EDAD<18. | 2.218 | 1.775 |
-| 156 | PROCEDIMIENTOS SOBRE ESTOMAGO, ESOFAGO & DUODENO EDAD<18. | 4.742 | 3.794 |
-| 168 | PROCEDIMIENTOS SOBRE BOCA CON CC. | 4.650 | 3.720 |
-| 169 | PROCEDIMIENTOS SOBRE BOCA SIN CC. | 2.915 | 2.332 |
-| 191 | PROCEDIMIENTOS SOBRE PANCREAS, HIGADO & DERIVACION CON CC. | 11.489 | 9.191 |
-| 192 | PROCEDIMIENTOS SOBRE PANCREAS, HIGADO & DERIVACION SIN CC. | 7.971 | 6.377 |
-| 199 | PROCEDIMIENTO DIAGNOSTICO HEPATOBILIAR POR NEOPLASIA MALIGNA. | 9.605 | 7.684 |
-| 200 | PROCEDIMIENTO DIAGNOSTICO HEPATOBILIAR EXCEPTO POR NEOPLASIA MALIGNA. | 6.453 | 5.162 |
-| 212 | PROC. DE CADERA & FEMUR EXCEPTO ARTICULACION MAYOR EDAD<18. | 6.336 | 5.069 |
-| 213 | AMPUTACION POR TRASTORNOS MUSCULOESQUELETICOS & TEJIDO CONECTIVO. | 8.082 | 6.465 |
-| 216 | BIOPSIAS DE SISTEMA MUSCULOESQUELETICO & TEJIDO CONECTIVO. | 5.711 | 4.569 |
-| 233 | OTROS PROC.QUIRURGICOS DE S.MUSCULOESQUELETICO & T.CONECTIVO CON CC. | 8.310 | 6.648 |
-| 234 | OTROS PROC.QUIRURGICOS DE S.MUSCULOESQUELETICO & T.CONECTIVO SIN CC. | 4.805 | 3.844 |
-| 265 | INJERTO PIEL &/O DESBRID. EXCEPTO POR ULCERA CUTANEA, CELULITIS CON CC. | 6.393 | 5.114 |
-| 266 | INJERTO PIEL &/O DESBRID. EXCEPTO POR ULCERA CUTANEA, CELULITIS SIN CC. | 3.679 | 2.943 |
-| 286 | PROCEDIMIENTOS SOBRE SUPRARRENALES & HIPOFISIS. | 8.689 | 6.951 |
-| 288 | PROCEDIMIENTOS GÁSTRICOS PARA OBESIDAD. | 5.282 | 4.226 |
-| 289 | PROCEDIMIENTOS SOBRE PARATIROIDES. | 3.306 | 2.644 |
-| 292 | OTROS PROCEDIMIENTOS QUIRURGICOS ENDOCR., NUTRIC. & METAB. CON CC. | 8.500 | 6.800 |
-| 293 | OTROS PROCEDIMIENTOS QUIRURGICOS ENDOCR., NUTRIC. & METAB. SIN CC. | 5.878 | 4.703 |
-| 299 | ERRORES INNATOS DEL METABOLISMO. | 2.577 | 2.061 |
-| 302 | TRASPLANTE RENAL. | 30.566 | 24.453 |
-| 304 | PROC. S. RIÑON, URETER & PROC. MAYORES S. VEJIGA POR P. NO NEOPLASICO CON CC. | 7.420 | 5.936 |
-| 305 | PROC. S. RIÑON, URETER & PROC. MAYORES S. VEJIGA POR P. NO NEOPLASICO SIN CC. | 5.483 | 4.386 |
-| 314 | PROCEDIMIENTOS SOBRE URETRA, EDAD<18. | 3.825 | 3.060 |
-| 330 | ESTENOSIS URETRAL EDAD<18. | 2.751 | 2.201 |
-| 333 | OTROS DIAGNOSTICOS DE RIÑON & TRACTO URINARIO EDAD<18. | 3.310 | 2.648 |
-| 344 | OTROS PROC.QUIRURGICOS DE AP.GENITAL MASC. PARA NEOPLASIA MALIGNA. | 4.508 | 3.606 |
-| 357 | PROC. SOBRE UTERO & ANEJOS POR NEOPLASIA MALIGNA DE OVARIO O ANEJOS. | 6.771 | 5.417 |
-| 393 | ESPLENECTOMIA EDAD<18. | 6.223 | 4.979 |
-| 401 | LINFOMA & LEUCEMIA NO AGUDA CON OTROS PROC.QUIRURGICOS CON CC. | 8.521 | 6.817 |
-| 402 | LINFOMA & LEUCEMIA NO AGUDA CON OTROS PROC.QUIRURGICOS SIN CC. | 4.822 | 3.858 |
-| 403 | LINFOMA & LEUCEMIA NO AGUDA CON CC. | 7.334 | 5.867 |
-| 404 | LINFOMA & LEUCEMIA NO AGUDA SIN CC. | 3.726 | 2.981 |
-| 406 | TRAST.MIELOPROLIFERATIVO O NEO. MAL DIFER. CON PROC.QUIRURGICO MAYOR CON CC. | 9.849 | 7.879 |
-| 407 | TRAST.MIELOPROLIFERATIVO O NEO. MAL DIFER. CON PROC.QUIRURGICO MAYOR SIN CC. | 6.314 | 5.051 |
-| 409 | RADIOTERAPIA. | 3.653 | 2.922 |
-| 410 | QUIMIOTERAPIA. | 3.434 | 2.747 |
-| 424 | PROC.QUIRURGICO CON DIAGNOSTICO PRINCIPAL DE ENFERMEDAD MENTAL. | 9.676 | 7.741 |
-| 439 | INJERTO CUTANEO POR LESION TRAUMATICA. | 6.369 | 5.095 |
-| 471 | PROC.MAYORES SOBRE ARTICULACION M.INFERIOR, BILATERAL O MULTIPLE. | 17.457 | 13.966 |
-| 478 | OTROS PROCEDIMIENTOS VASCULARES CON CC. | 7.392 | 5.914 |
-| 479 | OTROS PROCEDIMIENTOS VASCULARES SIN CC. | 5.082 | 4.066 |
-| 480 | TRASPLANTE HEPATICO . | 61.794 | 49.435 |
-| 482 | TRAQUEOSTOMIA CON TRASTORNOS DE BOCA, LARINGE O FARINGE. | 16.108 | 12.886 |
-| 491 | PROCEDIMIENTOS MAYORES REIMPLANTACION ARTICULACION & MIEMBRO EXTR.SUPERIOR. | 5.897 | 4.718 |
-| 530 | CRANEOTOMIA CON CC MAYOR. | 23.856 | 19.085 |
-| 531 | PROCEDIMIENTOS SISTEMA NERVIOSO EXCEPTO CRANEOTOMIA CON CC MAYOR. | 13.916 | 11.133 |
-| 536 | PROCEDIMIENTOS ORL & BUCALES EXCEPTO PROC.MAYORES CABEZA & CUELLO CON CC MAYOR. | 8.177 | 6.541 |
-| 538 | PROCEDIMIENTOS TORACICOS MAYORES CON CC MAYOR. | 15.497 | 12.398 |
-| 539 | PROCEDIMIENTOS RESPIRATORIOS EXCEPTO PROC.TORACICOS MAYORES CON CC MAYOR. | 11.999 | 9.599 |
-| 540 | INFECCIONES & INFLAMACIONES RESPIRATORIAS EXCEPTO NEUMONÍA SIMPLE CON CC MAYOR. | 6.105 | 4.884 |
-| 541 | NEUMONÍA SIMPLE Y OTROS TRAST.RESPIRATORIOS EXC. BRONQUITIS & ASMA CON CC MAYOR. | 4.754 | 3.803 |
-| 545 | PROCEDIMIENTO VALVULAR CARDIACO CON CC MAYOR. | 25.521 | 20.417 |
-| 546 | BYPASS CORONARIO CON CC MAYOR. | 18.890 | 15.112 |
-| 547 | OTROS PROCEDIMIENTOS CARDIOTORACICOS CON CC MAYOR. | 21.710 | 17.368 |
-| 548 | IMPLANTACION O REVISION DE MARCAPASOS CARDIACO CON CC MAYOR. | 11.313 | 9.050 |
-| 549 | PROCEDIMIENTOS CARDIOVASCULARES MAYORES CON CC MAYOR. | 18.451 | 14.761 |
-| 555 | PROC. PANCREAS, HIGADO & OTROS VIA BILIAR EXC. TRASPL.HEPATICO CON CC MAYOR. | 20.093 | 16.075 |
-| 556 | COLECISTECTOMIA Y OTROS PROCEDIMIENTOS HEPATOBILIARES CON CC MAYOR. | 10.575 | 8.460 |
-| 561 | OSTEOMIELITIS, ARTRITIS SEPTICA & TRAST.T.CONECT. CON CC MAYOR. | 7.699 | 6.159 |
-| 565 | PROCEDIMIENTOS ENDOCR.,NUTRIC. & METAB. EXC.AMPUTACION M.INF. CON CC MAYOR. | 11.479 | 9.183 |
-| 567 | PROCEDIMIENTOS RIÑON & TRACTO URINARIO EXCEPTO TRASPLANTE RENAL CON CC MAYOR. | 12.157 | 9.726 |
-| 575 | PROCEDIMIENTOS S. SANGRE, ORGANOS HEMOPOYETICOS & INMUNOLOGICOS CON CC MAYOR. | 28.795 | 23.036 |
-| 576 | LEUCEMIA AGUDA CON CC MAYOR. | 19.131 | 15.305 |
-| 577 | TRAST. MIELOPROLIFERATIVO & NEO. MAL DIFERENCIADA CON CC MAYOR. | 11.823 | 9.458 |
-| 578 | LINFOMA & LEUCEMIA NO AGUDA CON CC MAYOR. | 8.694 | 6.955 |
-| 579 | PROCEDIMIENTOS PARA LINFOMA, LEUCEMIA & TRAST.MIELOPROLIFERATIVO CON CC MAYOR. | 19.623 | 15.698 |
-| 581 | PROCEDIMIENTOS PARA INFECCIONES & PARASITOSIS SISTEMICAS CON CC MAYOR. | 14.611 | 11.689 |
-| 583 | PROCEDIMIENTOS PARA LESIONES EXCEPTO TRAUMA MULTIPLE CON CC MAYOR. | 12.115 | 9.692 |
-| 585 | PROCEDIMIENTO MAYOR ESTOMAGO,ESOFAGO,DUODENO,I.DELGADO & GRUESO CON CC MAYOR. | 16.251 | 13.001 |
-| 587 | TRASTORNOS ORALES Y BUCALES CON CC MAYOR, EDAD < 18. | 3.136 | 2.509 |
-| 602 | NEONATO, PESO AL NACER <750 G, ALTA CON VIDA. | 53.358 | 42.686 |
-| 603 | NEONATO, PESO AL NACER <750 G, EXITUS. | 8.772 | 7.018 |
-| 604 | NEONATO, PESO AL NACER 750-999 G, ALTA CON VIDA. | 42.365 | 33.892 |
-| 605 | NEONATO, PESO AL NACER 750-999 G, EXITUS. | 10.330 | 8.264 |
-| 606 | NEONATO, PESO AL NACER 1000-1499 G, CON P.QUIRURGICO SIGNIF., ALTA CON VIDA. | 45.327 | 36.261 |
-| 607 | NEONATO, PESO AL NACER 1000-1499 G, SIN P.QUIRURGICO SIGNIF., ALTA CON VIDA. | 20.973 | 16.779 |
-| 608 | NEONATO, PESO AL NACER 1000-1499 G, EXITUS. | 18.672 | 14.938 |
-| 609 | NEONATO, PESO AL NACER 1500-1999 G, CON P.QUIR.SIGNIF., CON MULT.PROB.MAYORES. | 42.984 | 34.387 |
-| 610 | NEONATO, PESO AL NACER 1500-1999 G, CON P.QUIR.SIGNIF., SIN MULT.PROB.MAYORES. | 8.607 | 6.886 |
-| 611 | NEONATO, PESO AL NACER 1500-1999 G, SIN P.QUIR.SIGNIF., CON MULT.PROB.MAYORES O VENT. MEC. + 96 hrs. | 14.545 | 11.636 |
-| 612 | NEONATO, PESO AL NACER 1500-1999 G, SIN P.QUIR.SIGNIF., SIN MULT.PROB.MAYORES. | 10.056 | 8.045 |
-| 613 | NEONATO, PESO AL NACER 1500-1999 G, SIN P.QUIR.SIGNIF., CON PROBLEMAS MENORES. | 9.182 | 7.346 |
-| 615 | NEONATO, PESO AL NACER 2000-2499 G, CON P.QUIR.SIGNIF., CON MULT.PROB.MAYORES. | 73.784 | 59.027 |
-| 616 | NEONATO, PESO AL NACER 2000-2499 G, CON P.QUIR.SIGNIF., SIN MULT.PROB.MAYORES. | 14.774 | 11.819 |
-| 617 | NEONATO, PESO AL NACER 2000-2499 G, SIN P.QUIR.SIGNIF., CON MULT.PROB.MAYORES O VENT. MEC. + 96 hrs. | 8.160 | 6.528 |
-| 618 | NEONATO, PESO AL NACER 2000-2499 G, SIN P.QUIR.SIGNIF., CON PROBLEMAS MAYORES. | 4.913 | 3.930 |
-| 619 | NEONATO, PESO AL NACER 2000-2499 G, SIN P.QUIR.SIGNIF., CON PROBLEMAS MENORES. | 4.929 | 3.943 |
-| 622 | NEONATO, PESO AL NACER >2499 G, CON P.QUIR.SIGNIF., CON MULT.PROB.MAYORES. | 25.082 | 20.066 |
-| 623 | NEONATO, PESO AL NACER >2499 G, CON P.QUIR.SIGNIF., SIN MULT.PROB.MAYORES. | 8.785 | 7.028 |
-| 624 | NEONATO, PESO AL NACER >2499 G, CON PROCEDIMIENTO ABDOMINAL MENOR. | 4.872 | 3.898 |
-| 626 | NEONATO, PESO AL NACER >2499 G, SIN P.QUIR.SIGNIF., CON MULT.PROB.MAYORES O VENT. MEC. + 96 hrs. | 6.118 | 4.894 |
-| 631 | DISPLASIA BRONCOPULM. Y OTRAS ENF.RESPIRATORIAS CRONICAS CON ORIGEN EN PERIODO PERINATAL. | 3.696 | 2.957 |
-| 633 | OTRAS ANOMALIAS CONGENITAS, MULTIPLES Y NO ESPECIFICADAS, CON CC. | 9.249 | 7.399 |
-| 634 | OTRAS ANOMALIAS CONGENITAS, MULTIPLES Y NO ESPECIFICADAS, SIN CC. | 9.249 | 7.399 |
-| 641 | NEONATO, PESO AL NACER >2499 G, CON OXIGENACION MEMBRANA EXTRACORPOREA. | 49.741 | 39.793 |
-| 701 | HIV CON PROCED. QUIRURGICO Y VENTILACION MECANICA O SOPORTE ALIMENTICIO. | 27.744 | 22.195 |
-| 703 | HIV CON PROCED. QUIRURGICO CON DIAGNOSTICO RELACIONADO MAYOR. | 12.229 | 9.783 |
-| 704 | HIV CON PROCED. QUIRURGICO SIN DIAGNOSTICO RELACIONADO MAYOR. | 7.256 | 5.805 |
-| 707 | HIV CON VENTILACION MECANICA O SOPORTE ALIMENTICIO. | 15.317 | 12.254 |
-| 709 | HIV CON DIAG MAYORES RELACIONADOS CON DIAG MAYORES MULT. O SIGNIF. CON TBC. | 8.133 | 6.507 |
-| 710 | HIV CON DIAG MAYORES RELACIONADOS CON DIAG MAYORES MULT. O SIGNIF. SIN TBC. | 6.645 | 5.316 |
-| 730 | CRANEOTOMIA PARA TRAUMA MULTIPLE SIGNIFICATIVO. | 21.512 | 17.209 |
-| 731 | PROC. S. COLUMNA, CADERA, FEMUR O MIEMBROS POR TRAUMA MULTIPLE SIGNIFICATIVO. | 18.307 | 14.645 |
-| 732 | OTROS PROCEDIMIENTOS QUIRURGICOS PARA TRAUMA MULTIPLE SIGNIFICATIVO. | 13.829 | 11.063 |
-| 733 | DIAGNOSTICOS DE TRAUMA MULTIPLE SIGNIFICATIVO CABEZA, TORAX Y M.INFERIOR. | 5.421 | 4.337 |
-| 737 | REVISION DE DERIVACION VENTRICULAR. | 5.351 | 4.281 |
-| 738 | CRANEOTOMIA EDAD<18 CON CC. | 13.725 | 10.980 |
-| 739 | CRANEOTOMIA EDAD<18 SIN CC. | 8.651 | 6.921 |
-| 740 | FIBROSIS QUISTICA. | 6.547 | 5.238 |
-| 753 | REHABILITACION PARA TRASTORNO COMPULSIVO NUTRICIONAL. | 7.817 | 6.253 |
-| 755 | FUSION VERTEBRAL EXCEPTO CERVICAL CON CC. | 11.880 | 9.504 |
-| 756 | FUSION VERTEBRAL EXCEPTO CERVICAL SIN CC. | 6.713 | 5.371 |
-| 759 | IMPLANTES COCLEARES MULTICANAL. | 35.298 | 28.238 |
-| 760 | HEMOFILIA, FACTORES VIII Y IX. | 6.096 | 4.877 |
-| 761 | ESTUPOR & COMA TRAUMATICOS, COMA > 1 H. | 5.057 | 4.045 |
-| 780 | LEUCEMIA AGUDA SIN PROCEDIMIENTO QUIRURGICO MAYOR EDAD<18 CON CC. | 8.647 | 6.918 |
-| 781 | LEUCEMIA AGUDA SIN PROCEDIMIENTO QUIRURGICO MAYOR EDAD<18 SIN CC. | 4.835 | 3.868 |
-| 782 | LEUCEMIA AGUDA SIN PROCEDIMIENTO QUIRURGICO MAYOR EDAD>17 CON CC. | 8.697 | 6.957 |
-| 783 | LEUCEMIA AGUDA SIN PROCEDIMIENTO QUIRURGICO MAYOR EDAD>17 SIN CC. | 5.151 | 4.120 |
-| 785 | OTROS TRASTORNOS DE LOS HEMATIES EDAD<18. | 2.960 | 2.368 |
-| 786 | PROCEDIMIENTOS MAYORES SOBRE CABEZA & CUELLO POR NEOPLASIA MALIGNA. | 12.194 | 9.755 |
-| 792 | CRANEOTOMIA POR TRAUMA MULTIPLE SIGNIF. CON CC MAYOR NO TRAUMATICA. | 35.905 | 28.724 |
-| 793 | PROC. POR TRAUMA MULTIPLE SIGNIF. EXC. CRANEOTOMIA CON CC MAYOR NO TRAUMATICA. | 30.832 | 24.666 |
-| 794 | DIAGNOSTICO DE TRAUMA MULTIPLE SIGNIFICATIVO CON CC MAYOR NO TRAUMATICA. | 11.826 | 9.461 |
-| 796 | REVASCULARIZACION EXTREMIDAD INFERIOR CON CC. | 11.166 | 8.933 |
-| 797 | REVASCULARIZACION EXTREMIDAD INFERIOR SIN CC. | 8.281 | 6.625 |
-| 798 | TUBERCULOSIS CON PROCEDIMIENTO QUIRURGICO. | 10.183 | 8.146 |
-| 803 | TRASPLANTE DE MEDULA OSEA ALOGENICO. | 47.752 | 38.201 |
-| 804 | TRASPLANTE DE MEDULA OSEA AUTOLOGO. | 28.746 | 22.997 |
-| 805 | TRASPLANTE SIMULTANEO DE RIÑON Y PANCREAS POR DIABETES Y FALLO RENAL. | 51.301 | 41.041 |
-| 806 | FUSION VERTEBRAL ANTERIOR/POSTERIOR COMBINADA CON CC. | 25.253 | 20.203 |
-| 807 | FUSION VERTEBRAL ANTERIOR/POSTERIOR COMBINADA SIN CC. | 14.829 | 11.863 |
-| 808 | PROCED. CARDIOVASC. PERCUTANEOS CON IMA, FALLO CARDIACO O SHOCK. | 7.061 | 5.649 |
-| 809 | OTROS PROCED. CARDIOTORACICOS CON DIAG PRINCIPAL DE ANOMALIA CONGENITA. | 15.823 | 12.659 |
-| 811 | OTRO IMPLANTE DE SISTEMA DE ASISTENCIA CARDIACA. | 16.487 | 13.190 |
-| 812 | MALFUNCION, REACCION O COMPL. DE DISPOSITIVO O PROC. CARDIAC. O VASCULAR. | 4.050 | 3.240 |
-| 819 | CREACION, REVISION O RETIRADA DE DISPOSITIVO DE ACCESO RENAL. | 5.364 | 4.291 |
-| 826 | QUEMADURAS DE ESPESOR TOTAL SIN INJ. PIEL O LESIONES INHALACION SIN CC O TRAUMA SIG. | 4.252 | 3.402 |
-| 827 | QUEMADURAS NO EXTENSAS CON LESION POR INHALACION, CC O TRAUMA SIGNIFICATIVO. | 5.646 | 4.517 |
-| 828 | QUEMADURAS NO EXTENSAS SIN LESION POR INHALACION, CC O TRAUMA SIGNIFICATIVO. | 3.933 | 3.146 |
-| 833 | PROCEDIMIENTOS VASCULARES INTRACRANEALES CON DIAG. PRINC. DE HEMORRAGIA. | 31.894 | 25.515 |
-| 836 | PROCEDIMIENTOS ESPINALES CON CC. | 15.650 | 12.520 |
-| 837 | PROCEDIMIENTOS ESPINALES SIN CC. | 8.848 | 7.078 |
-| 838 | PROCEDIMIENTOS EXTRACRANEALES CON CC. | 8.884 | 7.107 |
-| 839 | PROCEDIMIENTOS EXTRACRANEALES SIN CC. | 6.391 | 5.113 |
-| 849 | IMPLANTE DE DESFIBRILADOR CON CATETERISMO CARDIACO, CON IAM, FALLO CARDIACO O SHOCK. | 47.906 | 38.325 |
-| 850 | IMPLANTE DE DESFIBRILADOR CON CATETERISMO CARDIACO, SIN IAM, FALLO CARDIACO O SHOCK. | 44.148 | 35.318 |
-| 851 | IMPLANTE DE DESFIBRILADOR SIN CATETERISMO CARDIACO. | 39.385 | 31.508 |
-| 852 | PROCEDIMIENTO CARDIOVASCULAR PERCUTANEO CON STENT NO LIBERADOR DE FARMACO, SIN IAM. | 7.853 | 6.282 |
-| 853 | PROCEDIMIENTO CARDIOVASCULAR PERCUTANEO CON STENT LIBERADOR DE FARMACO, CON IAM. | 11.787 | 9.430 |
-| 854 | PROCEDIMIENTO CARDIOVASCULAR PERCUTANEO CON STENT LIBERADOR DE FARMACO, SIN IAM. | 9.074 | 7.259 |
-| 864 | FUSION VERTEBRAL CERVICAL SIN CC. | 10.981 | 8.785 |
-| 865 | FUSION VERTEBRAL CERVICAL CON CC. | 5.713 | 4.570 |
-| 874 | LINFOMA Y LEUCEMIA CON PROC. QUIRURGICO MAYOR, CON CC. | 14.727 | 11.781 |
-| 875 | LINFOMA Y LEUCEMIA CON PROC. QUIRURGICO MAYOR, SIN CC. | 7.134 | 5.707 |
-| 876 | QUIMIOTERAPIA CON LEUCEMIA AGUDA COMO DXS O CON USO DE ALTAS DOSIS DE AGENTE QUIMIOTERAPIA. | 5.775 | 4.620 |
-| 877 | OXIG. MEMB. EXTRAC. O TRAQUEOSTOMIA CON VENT. MEC. + 96 hrs O SIN DIAG. PRINC. TRAST. ORL CON PROC. QUIR. MAYOR. | 198.576 | 158.861 |
-| 878 | TRAQUEOSTOMIA CON VENT. MEC. + 96 hrs O SIN DIAG. PRINC. TRASTORNOS ORL SIN PROC. QUIR. MAYOR. | 122.718 | 98.175 |
-| 879 | CRANEOTOMÍA CON IMPLANT. SUST. ANTINEOPLÁSICA O DIAG. PRINCIPAL DE SIST. NERV. CENTRAL AGUDO COMPLEJO. | 35.730 | 28.584 |
-| 881 | DIAGNÓSTICO DE SISTEMA RESPIRATORIO CON VENTILACIÓN MECÁNICA + 96 hrs. | 44.142 | 35.314 |
-| 882 | DIAGNÓSTICO DE SISTEMA RESPIRATORIO CON VENTILACIÓN MECÁNICA <96 hrs. | 18.135 | 14.508 |
-| 884 | FUSIÓN ESPINAL EXCEPTO CERVICAL CON CURVATURA DE COLUMNA O MALIGNIDAD. | 16.721 | 13.377 |
+| 1 | Craneotomia edad>17 con CC. | 18.112 | 14.490 |
+| 2 | Craneotomia edad>17 sin CC. | 13.277 | 10.622 |
+| 7 | Proced. sobre n. craneales y perifericos y otros pq s.nervioso con CC. | 9.415 | 7.532 |
+| 8 | Proced. sobre n. craneales y periféricos y otros pq s.nervioso sin CC. | 5.863 | 4.690 |
+| 10 | Neoplasias de sistema nervioso con CC. | 4.732 | 3.786 |
+| 11 | Neoplasias de sistema nervioso sin CC. | 4.218 | 3.374 |
+| 37 | Procedimientos sobre órbita. | 6.073 | 4.858 |
+| 41 | Procedimientos extraoculares excepto órbita edad<18. | 2.147 | 1.718 |
+| 48 | Otros trastornos del ojo edad<18. | 1.359 | 1.087 |
+| 49 | Proced. mayores de cabeza y cuello excepto por neoplasia maligna. | 6.196 | 4.957 |
+| 52 | Reparacion de hendidura labial y paladar. | 4.562 | 3.650 |
+| 63 | Otros procedimientos quirúrgicos sobre oído, nariz, boca y garganta. | 5.187 | 4.150 |
+| 75 | Procedimientos torácicos mayores. | 9.128 | 7.302 |
+| 76 | Otros procedimientos quirúrgicos de aparato respiratorio con CC. | 8.041 | 6.433 |
+| 77 | Otros procedimientos quirúrgicos de aparato respiratorio sin CC. | 5.712 | 4.570 |
+| 103 | Trasplante cardiaco o implantación de sistema de asistencia cardiaca, excepto trasplante cardiaco infantil. | 60.854 | 48.683 |
+| 104 | Proc. sobre valv. cardiacas y otros proc. cardiotorácicos mayores con cat. cardiaco. | 27.527 | 22.022 |
+| 105 | Proc. sobre valv. cardiacas y otros proc. cardiotorácicos mayores sin cat. cardiaco. | 21.839 | 17.471 |
+| 106 | Bypass coronario con actp. | 32.710 | 26.168 |
+| 107 | Bypass coronario sin actp y con cateterismo cardiaco. | 24.635 | 19.708 |
+| 109 | Bypass coronario sin actp sin cateterismo cardiaco. | 18.543 | 14.834 |
+| 110 | Procedimientos cardiovasculares mayores con CC. | 14.096 | 11.277 |
+| 111 | Procedimientos cardiovasculares mayores sin CC. | 11.611 | 9.289 |
+| 112 | Procedimientos cardiovasculares percutaneos, sin iam, insuficiencia cardiaca o shock. | 4.771 | 3.817 |
+| 115 | Implant. marcapasos card. perm. con iam, f. cardiaco, shock, desfib. o sust. generador. | 9.713 | 7.770 |
+| 120 | Otros procedimientos quirúrgicos de aparato circulatorio. | 9.620 | 7.696 |
+| 121 | Trast. circulatorios con iam y compl. mayores, alta con vida. | 6.395 | 5.116 |
+| 124 | Trast. circulatorios excepto iam, con cateterismo y diag. complejo. | 5.346 | 4.277 |
+| 156 | Procedimientos sobre estómago, esófago y duodeno edad <18. | 3.772 | 3.018 |
+| 168 | Procedimientos sobre boca con CC. | 4.470 | 3.576 |
+| 169 | Procedimientos sobre boca sin CC. | 3.354 | 2.683 |
+| 191 | Procedimientos sobre pancreas, higado y derivación con CC. | 13.710 | 10.968 |
+| 192 | Procedimientos sobre pancreas, higado y derivación sin CC. | 11.184 | 8.947 |
+| 199 | Procedimiento diagnóstico hepatobiliar por neoplasia maligna. | 10.130 | 8.104 |
+| 200 | Procedimiento diagnóstico hepatobiliar excepto por neoplasia maligna. | 7.270 | 5.816 |
+| 212 | Proc. de cadera y femur excepto articulación mayor edad<18. | 6.785 | 5.428 |
+| 213 | Amputacion por trastornos musculoesqueléticos y tejido conectivo. | 10.966 | 8.773 |
+| 216 | Biopsias de sistema musculoesquelético y tejido conectivo. | 5.871 | 4.697 |
+| 233 | Otros proc.quirurgicos de s.musculoesquelético y t.conectivo con CC. | 8.334 | 6.667 |
+| 234 | Otros proc.quirurgicos de s.musculoesquelético y t.conectivo sin CC. | 6.020 | 4.816 |
+| 265 | Injerto piel y/o desbrid. excepto por úlcera cutánea, celulitis con CC. | 8.636 | 6.909 |
+| 266 | Injerto piel y/o desbrid. excepto por úlcera cutánea, celulitis sin CC. | 5.943 | 4.754 |
+| 286 | Procedimientos sobre suprarrenales y hipófisis. | 8.898 | 7.118 |
+| 288 | Procedimientos gástricos para obesidad. | 8.379 | 6.703 |
+| 289 | Procedimientos sobre paratiroides. | 4.461 | 3.569 |
+| 292 | Otros procedimientos quirúrgicos endocr., nutric. y metab. con CC. | 9.999 | 7.999 |
+| 293 | Otros procedimientos quirúrgicos endocr., nutric. y metab. sin CC. | 6.600 | 5.280 |
+| 299 | Errores innatos del metabolismo. | 2.456 | 1.965 |
+| 302 | Trasplante renal, excepto trasplante renal infantil y trasplante renal cruzado. | 35.913 | 28.730 |
+| 304 | Proc. s. riñon, ureter y proc. mayores s. vejiga por p. no neoplasico con cc. | 8.525 | 6.820 |
+| 305 | Proc. s. riñón, uréter y proc. mayores s. vejiga por p. no neoplásico sin cc. | 7.197 | 5.758 |
+| 314 | Procedimientos sobre uretra, edad <18. | 3.903 | 3.122 |
+| 330 | Estenosis uretral edad <18. | 3.588 | 2.870 |
+| 333 | Otros diagnósticos de riñón y tracto urinario edad <18. | 2.346 | 1.877 |
+| 344 | Otros proc. quirurgicos de ap. genital masc. para neoplasia maligna. | 3.766 | 3.013 |
+| 357 | Proc. sobre utero y anejos por neoplasia maligna de ovario o anejos. | 8.407 | 6.726 |
+| 393 | Esplenectomia edad <18. | 7.475 | 5.980 |
+| 401 | Linfoma y leucemia no aguda con otros proc.quirúrgicos con CC. | 10.323 | 8.258 |
+| 402 | Linfoma y leucemia no aguda con otros proc.quirúrgicos sin CC. | 6.564 | 5.251 |
+| 403 | Linfoma y leucemia no aguda con CC. | 6.055 | 4.844 |
+| 404 | Linfoma y leucemia no aguda sin CC. | 4.246 | 3.397 |
+| 406 | Trast. mieloproliferativo o neo. mal difer. con proc. quirúrgico mayor con CC. | 13.186 | 10.549 |
+| 407 | Trast. mieloproliferativo o neo. mal difer. con proc. quirúrgico mayor sin CC. | 9.610 | 7.688 |
+| 409 | Radioterapia. | 3.740 | 2.992 |
+| 410 | Quimioterapia. | 3.259 | 2.607 |
+| 424 | Proc. quirúrgico con diagnóstico principal de enfermedad mental. | 12.555 | 10.044 |
+| 439 | Injerto Cutáneo por lesión traumática. | 9.213 | 7.370 |
+| 471 | Proc. mayores sobre articulación m. inferior, bilateral o múltiple. | 20.046 | 16.037 |
+| 478 | Otros procedimientos vasculares con CC. | 8.234 | 6.587 |
+| 479 | Otros procedimientos vasculares sin CC. | 5.664 | 4.531 |
+| 480 | Trasplante hepático, excepto trasplante hepático infantil y trasplante hepático de vivo adulto. | 72.604 | 58.083 |
+| 482 | Traqueostomía con trastornos de boca, laringe o faringe. | 18.861 | 15.089 |
+| 491 | Procedimientos mayores reimplantación articulación y miembro extr. superior. | 7.792 | 6.234 |
+| 530 | Craneotomía con CC mayor. | 28.029 | 22.423 |
+| 531 | Procedimientos sistema nervioso excepto craneotomía con CC mayor. | 16.351 | 13.081 |
+| 536 | Procedimientos orl y bucales excepto proc. mayores cabeza y cuello con cc mayor. | 9.343 | 7.474 |
+| 538 | Procedimientos torácicos mayores con CC mayor. | 17.876 | 14.301 |
+| 539 | Procedimientos respiratorios excepto proc. torácicos mayores con CC mayor. | 14.278 | 11.422 |
+| 540 | Infecciones y inflamaciones respiratorias excepto neumonía simple con CC mayor. | 7.651 | 6.121 |
+| 541 | Neumonía simple y otros trast. respiratorios exc. bronquitis y asma con CC mayor. | 5.283 | 4.226 |
+| 545 | Procedimiento valvular cardiaco con CC mayor. | 37.759 | 30.207 |
+| 546 | Bypass coronario con CC mayor. | 31.098 | 24.878 |
+| 547 | Otros procedimientos cardiotorácicos con CC mayor. | 32.408 | 25.926 |
+| 548 | Implantacion o revisión de marcapasos cardiaco con CC mayor. | 10.578 | 8.462 |
+| 549 | Procedimientos cardiovasculares mayores con CC mayor. | 22.192 | 17.754 |
+| 555 | Proc. páncreas, hígado y otros vía biliar exc. traspl. hepático con CC mayor. | 25.880 | 20.704 |
+| 556 | Colecistectomia y otros procedimientos hepatobiliares con CC mayor. | 12.963 | 10.370 |
+| 561 | Osteomielitis, artritis septica y trast.t.conect. con CC mayor. | 9.382 | 7.506 |
+| 565 | Procedimientos endocr., nutric. y metab. exc. amputación m. inf. con CC mayor. | 13.294 | 10.635 |
+| 567 | Procedimientos riñón y tracto urinario excepto trasplante renal con CC mayor. | 14.455 | 11.564 |
+| 575 | Procedimientos s. sangre, órganos hemopoyéticos y inmunológicos con CC mayor. | 15.168 | 12.134 |
+| 576 | Leucemia aguda con CC mayor. | 24.604 | 19.683 |
+| 577 | Trast. mieloproliferativo y neo. mal diferenciada con CC mayor. | 12.402 | 9.922 |
+| 578 | Linfoma y leucemia no aguda con CC mayor. | 11.852 | 9.482 |
+| 579 | Procedimientos para linfoma, leucemia y trast.mieloproliferativo con CC mayor. | 25.625 | 20.500 |
+| 581 | Procedimientos para infecciones y parasitosis sistémicas con CC mayor. | 22.300 | 17.840 |
+| 583 | Procedimientos para lesiones excepto trauma múltiple con CC mayor. | 18.262 | 14.610 |
+| 585 | Procedimiento mayor estómago, esófago, duodeno, i. delgado y grueso con CC mayor. | 21.074 | 16.859 |
+| 587 | Trastornos orales y bucales con cc mayor, edad < 18. | 3.807 | 3.046 |
+| 602 | Neonato, peso al nacer <750 g, alta con vida. | 62.692 | 50.154 |
+| 603 | Neonato, peso al nacer <750 g, exitus. | 10.306 | 8.245 |
+| 604 | Neonato, peso al nacer 750-999 g, alta con vida. | 49.776 | 39.821 |
+| 605 | Neonato, peso al nacer 750-999 g, exitus. | 12.137 | 9.710 |
+| 606 | Neonato, peso al nacer 1.000-1.499 g, con p. quirúrgico signif., alta con vida. | 61.118 | 48.894 |
+| 607 | Neonato, peso al nacer 1.000-1.499 g, sin p. quirúrgico signif., alta con vida. | 24.642 | 19.714 |
+| 608 | Neonato, peso al nacer 1.000-1.499 g, exitus. | 21.939 | 17.551 |
+| 609 | Neonato, peso al nacer 1.500-1.999 g, con p. quir. signif., con mult. prob. mayores. | 50.503 | 40.402 |
+| 610 | Neonato, peso al nacer 1.500-1.999 g, con p. quir. signif., sin mult. prob. mayores. | 11.503 | 9.202 |
+| 611 | Neonato, peso al nacer 1.500-1.999 g, sin p. quir. signif., con mult. prob. mayores o vent. mec. + 96 hrs. | 17.089 | 13.671 |
+| 612 | Neonato, peso al nacer 1.500-1.999 g, sin p. quir. signif., sin mult. prob. mayores. | 11.816 | 9.453 |
+| 613 | Neonato, peso al nacer 1.500-1.999 g, sin p. quir. signif., con problemas menores. | 10.788 | 8.630 |
+| 615 | Neonato, peso al nacer 2.000-2.499 g, con p. quir. signif., con mult. prob. mayores. | 64.548 | 51.638 |
+| 616 | Neonato, peso al nacer 2.000-2.499 g, con p. quir. signif., sin mult. prob. mayores. | 19.774 | 15.819 |
+| 617 | Neonato, peso al nacer 2.000-2.499 g, sin p. quir. signif., con mult. prob. mayores o vent. mec. + 96 hrs. | 9.588 | 7.670 |
+| 618 | Neonato, peso al nacer 2.000-2.499 g, sin p. quir. signif., con problemas mayores. | 5.772 | 4.618 |
+| 619 | Neonato, peso al nacer 2.000-2.499 g, sin p. quir. signif., con problemas menores. | 5.586 | 4.469 |
+| 622 | Neonato, peso al nacer >2.499 g, con p. quir. signif., con mult. prob. mayores. | 29.470 | 23.576 |
+| 623 | Neonato, peso al nacer >2.499 g, con p. quir. signif., sin mult. prob. mayores. | 10.322 | 8.258 |
+| 624 | Neonato, peso al nacer >2.499 g, con procedimiento abdominal menor. | 5.075 | 4.060 |
+| 626 | Neonato, peso al nacer >2.499 g, sin p. quir. signif., con mult. prob. mayores o vent. mec. + 96 hrs. | 7.188 | 5.750 |
+| 631 | Displasia broncopulm. y otras enf. respiratorias crónicas con origen en periodo perinatal. | 4.342 | 3.474 |
+| 633 | Otras anomalías congénitas, múltiples y no especificadas, con CC. | 10.867 | 8.694 |
+| 634 | Otras anomalías congénitas, múltiples y no especificadas, sin CC. | 10.867 | 8.694 |
+| 641 | Neonato, peso al nacer >2499 g, con oxigenación membrana extracorpórea. | 58.442 | 46.754 |
+| 701 | Hiv con proced. quirúrgico y ventilación mecánica o soporte alimenticio. | 32.597 | 26.078 |
+| 703 | Hiv con proced. quirúrgico con diagnóstico relacionado mayor. | 19.885 | 15.908 |
+| 704 | Hiv con proced. quirúrgico sin diagnóstico relacionado mayor. | 10.275 | 8.220 |
+| 707 | Hiv con ventilacion mecánica o soporte alimenticio. | 21.971 | 17.577 |
+| 709 | Hiv con diag. mayores relacionados con diag. mayores mult. o signif. con tbc. | 11.485 | 9.188 |
+| 710 | Hiv con diag. mayores relacionados con diag. mayores mult. o signif. sin tbc. | 9.398 | 7.518 |
+| 730 | Craneotomia para trauma múltiple significativo. | 24.208 | 19.366 |
+| 732 | Otros procedimientos quirúrgicos para trauma múltiple significativo. | 18.667 | 14.934 |
+| 733 | Diagnosticos de trauma múltiple significativo cabeza, torax y m. inferior. | 9.040 | 7.232 |
+| 740 | Fibrosis quística. | 7.508 | 6.006 |
+| 753 | Rehabilitación para trastorno compulsivo nutricional. | 14.113 | 11.290 |
+| 755 | Fusión vertebral excepto cervical con CC. | 15.962 | 12.770 |
+| 756 | Fusión vertebral excepto cervical sin CC. | 11.787 | 9.430 |
+| 759 | Implantes cocleares multicanal. | 1.309 | 1.047 |
+| 760 | Hemofilia, factores viii y ix. | 7.505 | 6.004 |
+| 761 | Estupor y coma traumáticos, coma > 1 h. | 6.420 | 5.136 |
+| 780 | Leucemia aguda sin procedimiento quirúrgico mayor edad <18 con CC. | 13.533 | 10.826 |
+| 781 | Leucemia aguda sin procedimiento quirúrgico mayor edad <18 sin CC. | 6.528 | 5.222 |
+| 782 | Leucemia aguda sin procedimiento quirúrgico mayor edad >17 con CC. | 12.789 | 10.231 |
+| 783 | Leucemia aguda sin procedimiento quirúrgico mayor edad >17 sin CC. | 5.289 | 4.231 |
+| 785 | Otros trastornos de los hematíes edad<18. | 1.750 | 1.400 |
+| 786 | Procedimientos mayores sobre cabeza y cuello por neoplasia maligna. | 15.063 | 12.050 |
+| 792 | Craneotomía por trauma multiple signif. con CC mayor no traumática. | 40.404 | 32.323 |
+| 793 | Proc. por trauma múltiple signif. exc. craneotomía con CC mayor no traumática. | 42.407 | 33.926 |
+| 794 | Diagnostico de trauma múltiple significativo con CC mayor no traumática. | 17.468 | 13.974 |
+| 796 | Revascularizacion extremidad inferior con CC. | 15.966 | 12.773 |
+| 797 | Revascularizacion extremidad inferior sin CC. | 12.463 | 9.970 |
+| 798 | Tuberculosis con procedimiento quirúrgico. | 13.269 | 10.615 |
+| 803 | Trasplante de médula ósea alogénico, excepto trasplante de progenitores hematopoyéticos alogénico infantil. | 48.550 | 38.840 |
+| 804 | Trasplante de médula ósea autólogo. | 28.398 | 22.718 |
+| 806 | Fusion vertebral anterior/posterior combinada con CC. | 31.014 | 24.811 |
+| 807 | Fusion vertebral anterior/posterior combinada sin CC. | 18.159 | 14.527 |
+| 808 | Proced. cardiovasc. percutáneos con ima, fallo cardiaco o shock. | 7.396 | 5.917 |
+| 811 | Otro implante de sistema de asistencia cardiaca. | 19.371 | 15.497 |
+| 819 | Creacion, revisión o retirada de dispositivo de acceso renal. | 5.732 | 4.586 |
+| 833 | Procedimientos vasculares intracraneales con diag. princ. de hemorragia. | 30.804 | 24.643 |
+| 836 | Procedimientos espinales con CC. | 19.819 | 15.855 |
+| 837 | Procedimientos espinales sin CC. | 10.084 | 8.067 |
+| 838 | Procedimientos extracraneales con CC. | 9.453 | 7.562 |
+| 839 | Procedimientos extracraneales sin CC. | 8.667 | 6.934 |
+| 849 | Implante de desfibrilador con cateterismo cardiaco, con iam, fallo cardiaco o shock. | 19.359 | 15.487 |
+| 850 | Implante de desfibrilador con cateterismo cardiaco, sin iam, fallo cardiaco o shock. | 16.292 | 13.034 |
+| 851 | Implante de desfibrilador sin cateterismo cardiaco. | 10.499 | 8.399 |
+| 852 | Procedimiento cardiovascular percutáneo con stent no liberador de fármaco, sin iam. | 4.592 | 3.674 |
+| 853 | Procedimiento cardiovascular percutáneo con stent liberador de fármaco, con iam. | 7.853 | 6.282 |
+| 854 | Procedimiento cardiovascular percutáneo con stent liberador de fármaco, sin iam. | 5.025 | 4.020 |
+| 864 | Fusion vertebral cervical sin CC. | 11.946 | 9.557 |
+| 865 | Fusion vertebral cervical con CC. | 8.038 | 6.430 |
+| 874 | Linfoma y leucemia con proc. quirúrgico mayor, con CC. | 11.337 | 9.070 |
+| 875 | Linfoma y leucemia con proc. quirúrgico mayor, sin CC. | 7.087 | 5.670 |
+| 876 | Quimioterapia con leucemia aguda como dxs o con uso de altas dosis de agente quimioterapia. | 4.659 | 3.727 |
+| 877 | Oxig. memb. extrac. o traqueostomía con vent. mec. + 96 hrs o sin diag. princ. trast. orl con proc. quir. mayor. | 73.648 | 58.918 |
+| 878 | Traqueostomía con vent. mec. + 96 hrs o sin diag. princ. trastornos orl sin proc. quir. mayor. | 51.454 | 41.163 |
+| 879 | Craneotomía con implant. sust. antineoplásica o diag. principal de sist. nerv. central agudo complejo. | 20.700 | 16.560 |
+| 881 | Diagnóstico de sistema respiratorio con ventilación mecánica + 96 hrs. | 22.607 | 18.086 |
+| 882 | Diagnóstico de sistema respiratorio con ventilación mecánica < 96 hrs. | 9.964 | 7.971 |
+| 884 | Fusión espinal excepto cervical con curvatura de columna o malignidad. | 19.393 | 15.514 |
+
+> Se modifica por el art. único.1 de la Orden SSI/2687/2012, de 17 de diciembre. Ref. BOE-A-2012-15243.
 
 > Se modifica por el art. único.1 de la Orden SCO/3773/2008, de 15 de diciembre. Ref. BOE-A-2008-20821
