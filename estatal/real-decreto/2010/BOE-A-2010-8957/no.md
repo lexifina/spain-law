@@ -1,0 +1,1 @@
+Se declaran anuladas las expresiones "de grado" y "graduado o graduada" contenidas en el título, articulado y anexos por Sentencia del TS de 5 de junio de 2012. Ref. BOE-A-2012-15384. y Sentencia del TS de 23 de mayo de 2012. Ref. BOE-A-2013-578.
