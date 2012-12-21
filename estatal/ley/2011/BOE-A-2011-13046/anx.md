@@ -20,4 +20,6 @@
 
 9. Porcentajes previstos de preparación para la reutilización, reciclado y valorización con sus correspondientes plazos y mecanismos de seguimiento, control de funcionamiento y verificación del grado de cumplimiento.
 
+> Se modifica el apartado 7 por el art. 3.12 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+
 > Se modifica el apartado 7 por el art. 3.8 del Real Decreto-ley 17/2012, de 4 de mayo. Ref. BOE-A-2012-5989.

@@ -8,4 +8,6 @@ En particular, se faculta al Gobierno para introducir cambios en los anexos con 
 
 3. Se faculta al Ministro de Agricultura, Alimentación y Medio Ambiente para regular el procedimiento de comunicación a la Comisión Europea, tanto de las medidas compensatorias adoptadas para planes, programas o proyectos, según lo dispuesto en el artículo 45.5, como para la consulta previa a la Comisión Europea, según lo dispuesto en el artículo 45.6.c).
 
+> Se modifica por el art. 2.3 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+
 > Se modifica por el art. 2.3 del Real Decreto-ley 17/2012, de 4 de mayo. Ref. BOE-A-2012-5989.

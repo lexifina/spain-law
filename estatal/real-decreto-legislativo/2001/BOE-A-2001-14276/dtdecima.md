@@ -12,4 +12,6 @@ b) Recogerá las características con que el aprovechamiento esté incluido en e
 
 4. No obstante cuando la solicitud de concesión se refiera a masas de agua subterránea declaradas en riesgo de no alcanzar un buen estado y que cuenten con el programa de actuación a que se refiere el artículo 56, la concesión estará sometida a las limitaciones establecidas en dicho programa. Cuando no exista un programa de actuación aprobado, no se podrá instar la transformación del derecho.
 
+> Se modifica por el art. 1.16 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+
 > Se añade por el art. 1.13 del Real Decreto-ley 17/2012, de 4 de mayo. Ref. BOE-A-2012-5989.

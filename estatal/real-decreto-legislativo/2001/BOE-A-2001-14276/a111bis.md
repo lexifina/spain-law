@@ -12,6 +12,8 @@ A tal fin la Administración con competencias en materia de suministro de agua e
 
 Mediante resolución de la Administración competente, que en el ámbito de la Administración General del Estado corresponderá al Ministro de Agricultura, Alimentación y Medio Ambiente, se podrán establecer motivadamente excepciones al principio de recuperación de costes para determinados usos teniendo en cuenta las mismas consecuencias y condiciones mencionadas y sin que, en ningún caso, se comprometan los fines ni el logro de los objetivos ambientales correspondientes. Para ello, los organismos de cuenca emitirán en el plazo de tres meses, con carácter preceptivo y previo a la resolución que se adopte, informe motivado que, en todo caso, justifique que no se comprometen ni los fines ni los logros ambientales establecidos en las respectivas planificaciones hidrológicas.
 
+> Se modifican los apartados 1 y 3 por el art. 1.5 y 6 de la Ley 11/2012, de 19 de diciembre. Ref. BOE-A-2012-15337.
+
 > Se modifican los apartados 1 y 3 por el art. 1.3 y 4 del Real Decreto-ley 17/2012, de 4 de mayo. Ref. BOE-A-2012-5989.
 
 > Se añade un párrafo a los apartados 1 y 2 por disposición final 1.12 y .13 de la Ley 11/2005, de 22 de junio. Ref. BOE-A-2005-10622
