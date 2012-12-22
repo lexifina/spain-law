@@ -2,10 +2,6 @@
 
 ## Disposiciones generales
 
-El presente anexo se compone de las tres secciones siguientes;
+(Derogado)
 
-Sección A: Valores límite fijados en las normas de emisión.
-
-Sección B: Objetivos de calidad.
-
-Sección C: Métodos de medida de referencia.
+> Se deroga por la disposición derogatoria 2.c) del Real Decreto 60/2011, de 21 de enero. Ref. BOE-A-2011-1139.
