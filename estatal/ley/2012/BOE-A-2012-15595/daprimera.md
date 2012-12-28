@@ -1,0 +1,7 @@
+## Disposición adicional primera. Acciones de colaboración con las administraciones públicas.
+
+1. El Estado promoverá con la asociación de entidades locales de ámbito estatal con mayor implantación la elaboración de un modelo tipo de declaración responsable y de comunicación previa, a los efectos previstos en el Título I de esta Ley, pudiendo convenir las acciones de colaboración que se estimen oportunas.
+
+2. Asimismo, en el marco del Comité para la Mejora de la Regulación de las actividades de servicios, las administraciones públicas cooperarán para promover la elaboración de una ordenanza tipo en materia de actos de control e intervención municipal que tendrá en cuenta el contenido del Título I de esta Ley en relación con la actividad de comercio minorista.
+
+3. El Estado promoverá la puesta en marcha e implantación de mecanismos de tramitación electrónica y ventanilla única que ayuden a potenciar los positivos efectos de la simplificación normativa derivados de las medidas previstas en el Título I de esta Ley y en los anteriores apartados de esta Disposición adicional. Con esta actuación el Gobierno contribuirá de manera eficaz al cumplimiento de la Ley 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos, que prevé la implantación de mecanismos de tramitación electrónica en las Administraciones Públicas para la reducción de cargas administrativas y eliminación de ineficiencias, tanto para las Administraciones Públicas como para los administrados.
