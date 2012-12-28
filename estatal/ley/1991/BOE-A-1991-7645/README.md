@@ -40,6 +40,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 25](art25.md)
 - [Disposición transitoria primera](primera.md)
 - [Disposición transitoria segunda](segunda.md)
+- [Disposición transitoria tercera](tercera.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición final](df.md)
 - [firma](firma.md)

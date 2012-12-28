@@ -1,12 +1,10 @@
-## Disposición adicional vigésima tercera. Consideración de la deducción por inversión en vivienda en el cálculo de los pagos a cuenta.
+## Disposición adicional vigésima tercera. Consideración de vivienda habitual a los efectos de determinadas exenciones.
 
-1. A efectos de lo dispuesto en los artículos 86.1, 88.1 y 110.3 d) del Reglamento del Impuesto sobre la Renta de las Personas Físicas, la cuantía determinante para la toma en consideración de la deducción por vivienda en el cálculo de dichos pagos a cuenta será de 33.007,20 euros.
+A los efectos previstos en los artículos 7.t), 33.4.b), y 38 de esta Ley se considerará vivienda habitual aquella en la que el contribuyente resida durante un plazo continuado de tres años. No obstante, se entenderá que la vivienda tuvo aquel carácter cuando, a pesar de no haber transcurrido dicho plazo, concurran circunstancias que necesariamente exijan el cambio de vivienda, tales como celebración de matrimonio, separación matrimonial, traslado laboral, obtención de primer empleo o de empleo más ventajoso u otras análogas.
 
-Reglamentariamente podrá modificarse esta cuantía.
+Cuando la vivienda hubiera sido habitada de manera efectiva y permanente por el contribuyente en el plazo de doce meses, contados a partir de la fecha de adquisición o terminación de las obras, el plazo de tres años previsto en el párrafo anterior se computará desde esta última fecha.
 
-2. No obstante lo dispuesto en el apartado 1 anterior, las retenciones e ingresos a cuenta a practicar sobre los rendimientos del trabajo que se satisfagan o abonen durante el mes de enero de 2012, correspondientes a dicho mes, y a los que resulte de aplicación el procedimiento general de retención a que se refieren los artículos 80.1.1º y 82 del Reglamento del Impuesto sobre la Renta de las Personas Físicas, deberán realizarse de acuerdo con las cuantías previstas en la normativa vigente a 31 de diciembre de 2011.
-
-En los rendimientos que se satisfagan o abonen a partir del 1 de febrero de 2012, siempre que no se trate de rendimientos correspondientes al mes de enero, el pagador deberá calcular el tipo de retención aplicable de acuerdo con la cuantía establecida en el apartado 1 de esta disposición adicional.
+> Se modifica, con efectos desde el 1 de enero de 2013, por el art. 1.8 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
 
 > Se añade, con efectos desde 1 de enero de 2011, por la disposición final 2.2º.2 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638.
 

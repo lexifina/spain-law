@@ -52,7 +52,9 @@ No obstante lo previsto en el párrafo anterior, sólo se tomará como superfici
 
 En consecuencia, no se computará, a ningún efecto, la superficie no construida o descubierta en la que no se realice directamente la actividad de que se trate, o algún aspecto de ésta, tal como la destinada a viales, jardines, zonas de seguridad, aparcamientos, etc.
 
-2.º El 40 por 100 de la superficie utilizada para actividades de temporada mediante la ocupación de la vía pública con puestos y similares.
+2.º El 40 por ciento de la superficie utilizada para actividades de temporada mediante la ocupación de la vía pública con puestos y similares.
+
+En aquellas actividades para las que las Tarifas prevean una reducción en la cuota correspondiente a su epígrafe o grupo mediante la aplicación de un porcentaje sobre la misma, por permanecer abierto el establecimiento durante un periodo inferior al año, dicho porcentaje será de aplicación también a la superficie de los locales.
 
 3.º El 10 por 100 de la superficie cubierta o construida de toda clase de instalaciones deportivas y locales dedicados a espectáculos cinematográficos, teatrales y análogos, excepto la ocupada por gradas, graderíos y asientos y demás instalaciones permanentes destinadas a la ubicación del público asistente a los espectáculos deportivos, cinematográficos, teatrales y análogos de la cual se computará el 50 por 100.
 
@@ -213,6 +215,12 @@ c) A los efectos de aplicar las letras anteriores se tomarán los datos referent
 Cuando en las industrias ocurra alguno de los casos de interdicción judicial, incendio, inundación, hundimiento, falta absoluta de caudal de aguas empleado como fuerza motriz o graves averías en el equipo industrial, los interesados darán parte a la Administración Gestora del impuesto, y en el caso de comprobarse plenamente la interdicción por más de treinta días, o el siniestro o paralización de la industria, podrán obtener la rebaja de la parte proporcional de la cuota, según el tiempo que la industria hubiera dejado de funcionar.
 
 No será de aplicación la reducción antes fijada a la industria cuya cuota esté regulada según el tiempo de funcionamiento.
+
+5. Actividades de temporada o cuyos establecimientos permanezcan abiertos al público durante un periodo inferior al año.
+
+En las actividades de temporada o cuyos establecimientos permanezcan abiertos al público durante un periodo inferior al año, la presentación de la declaración de baja en la actividad será incompatible con la aplicación de las reducciones en la cuota previstas para tales supuestos en las Tarifas y en el apartado 1.F).b).2.º de la presente regla.
+
+> Se modifica el apartado 1.F).b).2 y se añade el apartado 5, con efectos desde el 1 de enero de 2013, por el art. 15.2 y 3 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
 
 > Véase, a efectos de la determinación del elemento tributario "superficie de los locales", la disposición adicional 4.f) de la Ley 51/2002, de 27 de diciembre. Ref. BOE-A-2002-25286.
 

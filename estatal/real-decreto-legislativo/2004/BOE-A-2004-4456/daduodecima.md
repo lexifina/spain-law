@@ -1,10 +1,10 @@
 ## Disposición adicional duodécima. Tipo de gravamen reducido en el Impuesto sobre Sociedades por mantenimiento o creación de empleo.
 
-1. En los períodos impositivos iniciados dentro de los años 2009, 2010, 2011 y 2012, las entidades cuyo importe neto de la cifra de negocios habida en dichos períodos sea inferior a 5 millones de euros y la plantilla media en los mismos sea inferior a 25 empleados, tributarán con arreglo a la siguiente escala, excepto si de acuerdo con lo previsto en el artículo 28 de esta Ley deban tributar a un tipo diferente del general:
+1. En los períodos impositivos iniciados dentro de los años 2009, 2010, 2011, 2012 y 2013, las entidades cuyo importe neto de la cifra de negocios habida en dichos períodos sea inferior a 5 millones de euros y la plantilla media en los mismos sea inferior a 25 empleados, tributarán con arreglo a la siguiente escala, excepto si de acuerdo con lo previsto en el artículo 28 de esta Ley deban tributar a un tipo diferente del general:
 
 a) Por la parte de base imponible comprendida entre 0 y 120.202,41 euros, al tipo del 20 por ciento.
 
-En los períodos impositivos iniciados dentro de los años 2011 y 2012, ese tipo se aplicará sobre la parte de base imponible comprendida entre 0 y 300.000 euros.
+En los períodos impositivos iniciados dentro de los años 2011, 2012 y 2013, ese tipo se aplicará sobre la parte de base imponible comprendida entre 0 y 300.000 euros.
 
 b) Por la parte de base imponible restante, al tipo del 25 por ciento.
 
@@ -26,11 +26,13 @@ Se computará que la plantilla media de los doce meses anteriores al inicio del 
 
 Cuando la entidad sea de nueva creación, o alguno de los períodos impositivos a que se refiere el apartado 1 de esta disposición adicional hubiere tenido una duración inferior al año, o bien la actividad se hubiera desarrollado durante un plazo también inferior, el importe neto de la cifra de negocios se elevará al año.
 
-5. Cuando la entidad se hubiese constituido dentro de los años 2009, 2010, 2011 ó 2012 y la plantilla media en los doce meses siguientes al inicio del primer período impositivo sea superior a cero e inferior a la unidad, la escala establecida en el apartado 1 de esta disposición adicional se aplicará en el período impositivo de constitución de la entidad a condición de que en los doce meses posteriores a la conclusión de ese período impositivo la plantilla media no sea inferior a la unidad.
+5. Cuando la entidad se hubiese constituido dentro de los años 2009, 2010, 2011, 2012 o 2013 y la plantilla media en los doce meses siguientes al inicio del primer período impositivo sea superior a cero e inferior a la unidad, la escala establecida en el apartado 1 de esta disposición adicional se aplicará en el período impositivo de constitución de la entidad a condición de que en los doce meses posteriores a la conclusión de ese período impositivo la plantilla media no sea inferior a la unidad.
 
 Cuando se incumpla dicha condición, el sujeto pasivo deberá ingresar junto con la cuota del período impositivo en que tenga lugar el incumplimiento el importe resultante de aplicar el 5 por ciento a la base imponible del referido primer período impositivo, además de los intereses de demora.
 
 6. Cuando al sujeto pasivo le sea de aplicación la modalidad de pago fraccionado establecida en el apartado 3 del artículo 45 de esta Ley, la escala a que se refiere el apartado 1 anterior no será de aplicación en la cuantificación de los pagos fraccionados.
+
+> Se modifica, con efectos para los períodos impositivos iniciados a partir de 1 de enero de 2013, por el art. 8 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
 
 > Se modifica, con efectos para los períodos impositivos iniciados a partir de 1 de enero de 2012, por la disposición final 3.2º del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638.
 

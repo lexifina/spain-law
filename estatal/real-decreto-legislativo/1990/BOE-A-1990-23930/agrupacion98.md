@@ -16,6 +16,8 @@ Cuota de:
 
 Por cada atracción: 9.108 pesetas. (54,740182 euros)
 
+Nota: En aquellos parques de atracciones que permanezcan abiertos menos de ocho meses al año, su cuota será el 70 por ciento de la señalada en este epígrafe.
+
 ## Grupo 982. Tómbolas, espectáculos y juegos, así como comercio al por menor y servicios de restauración, propios de ferias y verbenas, organización y celebración de apuestas deportivas, loterías y otros juegos.
 
 Epígrafe 982.1. Tómbolas y tarifas autorizadas en establecimiento permanente.
@@ -79,6 +81,8 @@ Notas:
 2.ª Las personas o Entidades que utilicen los parques o recintos feriales para la exposición, comercialización, muestra o información de sus productos o actividades, en las casetas o «stand» que compongan aquellos parques o recintos, no deberán satisfacer cuota adicional alguna siempre que figuren debidamente matriculados en el Impuesto sobre Actividades Económicas por su respectiva actividad.
 
 3.ª Para el cálculo del elemento tributario superficie se imputará a los sujetos pasivos clasificados en este epígrafe la superficie correspondiente al parque o recinto ferial en su conjunto, excepto la ocupada por los servicios clasificados en el epígrafe 674.7 de esta Sección, la cual se imputará a los titulares de dichos servicios.
+
+> Se añade un nota al epígrafe 981.3, con efectos desde el 1 de enero de 2013, por el art. 15.1 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
 
 > Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 
