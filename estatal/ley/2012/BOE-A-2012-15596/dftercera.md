@@ -1,0 +1,5 @@
+## Disposición final tercera. Modificación del Reglamento General sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, aprobado por el Real Decreto 84/1996, de 26 de enero.
+
+Se introduce un nuevo apartado 4 en el artículo 20 del Reglamento General sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, aprobado por el Real Decreto 84/1996, de 26 de enero, quedando redactado del siguiente modo:
+
+«4. Cuando, por los mismos procedimientos y cauces previstos en los apartados primero y segundo, la Tesorería General tuviese conocimiento de la inscripción de empresas carentes de actividad y sin reunir los requisitos para estar inscritas en el correspondiente régimen de Seguridad Social procederá de oficio a dejar sin efecto la inscripción efectuada, sin perjuicio de las actuaciones procedentes en orden al inicio de las actuaciones sancionadoras o penales si fueran procedentes.»

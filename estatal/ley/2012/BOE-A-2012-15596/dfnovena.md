@@ -1,0 +1,3 @@
+## Disposición final novena. Entrada en vigor.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», salvo lo previsto en el artículo 23.1.i) del Texto Refundido de la Ley de Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, y en la disposición adicional trigésima primera del Texto Refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, en la redacción dada por el apartado Cinco del artículo 4 y el apartado Tres del artículo 2 de la presente Ley, que entrarán en vigor el 1 de enero de 2013.

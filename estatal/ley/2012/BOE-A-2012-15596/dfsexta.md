@@ -1,0 +1,3 @@
+## Disposición final sexta. Colaboración para la lucha contra el empleo irregular y el fraude a la Seguridad Social.
+
+El Gobierno, en el plazo de 6 meses desde la entrada en vigor de esta Ley, creará en el seno de la Dirección General de la Inspección de Trabajo y Seguridad Social del Ministerio de Empleo y Seguridad Social, una Unidad Especial de Colaboración y Apoyo a los Juzgados y Tribunales y a la Fiscalía General del Estado para la lucha contra el empleo irregular y el fraude a la Seguridad Social, que dependerá orgánica y funcionalmente de la Autoridad Central de la Inspección de Trabajo y Seguridad Social.
