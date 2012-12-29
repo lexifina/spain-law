@@ -4,4 +4,8 @@
 
 2. Las previsiones contenidas en los artículos 7 y 9 a efectos de calificación y registro de las empresas de inserción, serán objeto de adaptación por parte de las Comunidades Autónomas en un plazo no superior a seis meses a partir de la entrada en vigor de esta Ley.
 
-3 . Los contratos de trabajo celebrados antes de la entrada en vigor de esta Ley continuarán rigiéndose por la normativa legal o convencional a cuyo amparo se celebraron.
+> Declarado inconstitucional el apartado 2, según establece la Sentencia del TC 228/2012, de 29 de noviembre. Ref. BOE-A-2012-15762.
+
+3. Los contratos de trabajo celebrados antes de la entrada en vigor de esta Ley continuarán rigiéndose por la normativa legal o convencional a cuyo amparo se celebraron.
+
+> Se declara inconstitucional el apartado 2 por Sentencia del TC 228/2012, de 29 de noviembre. Ref. BOE-A-2012-15762.
