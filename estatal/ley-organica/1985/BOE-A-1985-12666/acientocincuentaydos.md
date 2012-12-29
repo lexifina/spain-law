@@ -10,6 +10,8 @@
 
 4.º Completar provisionalmente la composición de las Salas en los casos en que, por circunstancias sobrevenidas, fuera necesario para el funcionamiento del servicio, siempre sin perjuicio de respetar el destino específico de los magistrados de cada Sala.
 
+Asimismo, tomar conocimiento, aprobar provisionalmente y remitir al Consejo General del Poder Judicial para su aprobación definitiva, en los términos y, en su caso, con las correcciones que procedan, la relación de jueces y magistrados propuestos de conformidad con lo previsto en los tres primeros apartados del artículo 200 de la presente Ley, así como velar por su cumplimiento.
+
 5.º Proponer motivadamente al Consejo General del Poder Judicial a los magistrados suplentes expresando las circunstancias personales y profesionales que en ellos concurran, su idoneidad para el ejercicio del cargo y para su actuación en uno o varios órdenes jurisdiccionales, las garantías de un desempeño eficaz de la función y la aptitud demostrada por quienes ya hubieran actuado en el ejercicio de funciones judiciales o de sustitución en la Carrera Fiscal, con razonada exposición del orden de preferencia propuesto y de las exclusiones de solicitantes. Las propuestas de adscripción de magistrados suplentes como medida de refuerzo estarán sujetas a idénticos requisitos de motivación de los nombres y del orden de preferencia propuestos y de las exclusiones de solicitantes.
 
 6.º Ejercer las facultades disciplinarias sobre magistrados en los términos establecidos en esta ley.
@@ -39,6 +41,10 @@ Excepcionalmente, de forma motivada, y cuando las necesidades del servicio así 
 2.º Ejercer las facultades de los números quinto al decimocuarto del apartado anterior, pero referidas también a los órganos jurisdiccionales con sede en la comunidad autónoma correspondiente a los jueces y magistrados en ellos destinados.
 
 3.º Expedir los nombramientos de los Jueces de Paz.
+
+4.º Tomar conocimiento de los planes anuales de sustitución elaborados por las Juntas de Jueces, aprobarlos provisionalmente en los términos y, en su caso, con las correcciones que procedan y remitirlos al Consejo General del Poder Judicial para su aprobación definitiva. Además, velarán por su cumplimiento.
+
+> Se modifica el apartado 1.4º y añade el 2.4º por el art. único.2 y 3 de la Ley Orgánica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.
 
 > Se modifica por el art. único.20 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

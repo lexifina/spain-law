@@ -9,3 +9,7 @@
 4. La Junta se considerará válidamente constituida para tomar acuerdos cuando asistan la mitad más uno de sus miembros, adoptándose los acuerdos por mayoría simple.
 
 5. La Junta elegirá como Secretario a uno de sus miembros, que será el encargado de redactar las actas de los acuerdos de las Juntas, así como de conservarlas y de expedir las certificaciones de las mismas.
+
+6. Corresponde a la Junta de Jueces elaborar los planes anuales de sustitución entre jueces titulares a que se refiere el artículo 211 para su remisión a la Sala de Gobierno.
+
+> Se añade el apartado 6 por el art. único.5 de la Ley Orgánica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.

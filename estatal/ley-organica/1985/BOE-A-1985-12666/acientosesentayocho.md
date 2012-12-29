@@ -10,4 +10,8 @@ b) Poner en conocimiento de la Sala de Gobierno toda posible anomalía en el fun
 
 c) Resolver cuantos recursos les atribuyan las leyes procesales.
 
+d) Velar por la correcta ejecución de las sustituciones y de los planes anuales de sustitución en los términos previstos en esta Ley, resolver con carácter gubernativo interno las cuestiones que se planteen y corregir las irregularidades que puedan producirse adoptando las medidas necesarias y promoviendo, en su caso, la exigencia de las responsabilidades que procedan.
+
+> Se añade el apartado 2.d) por el art. único.4 de la Ley Orgánica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.
+
 > Se modifica por el art. único.25 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

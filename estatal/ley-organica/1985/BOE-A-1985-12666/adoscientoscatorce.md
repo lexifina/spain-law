@@ -1,6 +1,10 @@
 ## Artículo 214.
 
-Cuando no pudiere aplicarse lo establecido en los artículos anteriores, por no existir jueces sustitutos nombrados como idóneos para la localidad y el orden jurisdiccional correspondiente, o resultare aconsejable para un mejor despacho de los asuntos, atendida la escasa carga de trabajo de un juzgado de otra localidad del mismo grado y orden del que deba ser sustituido, la Sala de Gobierno prorrogará, previa audiencia, la jurisdicción del titular de aquél, que desempeñará ambos cargos, con derecho a la retribución correspondiente dentro de las previsiones presupuestarias.
+Los jueces desempeñarán las funciones inherentes a su juzgado, tanto en calidad de titulares como en expectativa de destino o de apoyo, y al cargo que sustituyan.
+
+Las sustituciones profesionales, cuando se produzcan, serán retribuidas en los casos y cuantía que se determinen reglamentariamente.
+
+> Se modifica por el art. único.12 de la Ley Orgánica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.
 
 > Se modifica por el art. único.39 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

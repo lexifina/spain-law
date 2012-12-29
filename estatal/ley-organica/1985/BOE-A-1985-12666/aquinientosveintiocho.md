@@ -18,4 +18,8 @@ Los funcionarios afectados por una reordenación forzosa estarán exentos de la 
 
 A efectos de determinación del puesto afectado por la reordenación, cuando exista más de uno de la misma naturaleza, se aplicará el criterio de voluntariedad por parte de los funcionarios que los desempeñen y, en su defecto, de antigüedad en la ocupación.
 
+3. Por motivos excepcionales, el Ministerio de Justicia, o en su caso las Comunidades Autónomas con competencias en materia de justicia, podrán acordar planes de ordenación de recursos humanos en los términos y conforme a lo previsto en la normativa vigente para los funcionarios de la Administración General del Estado.
+
+> Se añade el apartado 3 por el art. único.29 de la Ley Orgánica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.
+
 > Se añade por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

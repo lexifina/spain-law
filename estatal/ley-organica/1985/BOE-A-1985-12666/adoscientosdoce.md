@@ -1,10 +1,12 @@
 ## Artículo 212.
 
-1. Los jueces desempeñarán las funciones inherentes a su juzgado, tanto en calidad de titulares como de adjuntos, y al cargo que sustituyan. Dicha sustitución, cuando se produzca, será retribuida en los casos y cuantía que se determinen reglamentariamente.
+1. Cuando resultare aconsejable para un mejor despacho de los asuntos, atendida la escasa carga de trabajo de un juzgado de otra localidad del mismo grado y orden del que deba ser sustituido, el Presidente del Tribunal Superior de Justicia prorrogará, previa audiencia, la jurisdicción del titular de aquél, quien desempeñará ambos cargos con derecho a la retribución correspondiente dentro de las previsiones presupuestarias en los términos que se establezcan reglamentariamente.
 
-2. En los casos en que para suplir la falta de titular del juzgado, cualquiera que sea el orden jurisdiccional al que pertenezca, no sea posible la aplicación de lo dispuesto en los artículos precedentes por existir un único juzgado en la localidad, incompatibilidad de señalamientos, por la existencia de vacantes numerosas o por otras circunstancias análogas, ejercerá la jurisdicción con idéntica amplitud que si fuese titular del órgano un juez sustituto, que será nombrado en la misma forma que los magistrados suplentes y sometido a su mismo régimen jurídico. Estos nombramientos tendrán carácter excepcional y su necesidad deberá ser debidamente acreditada o motivada. En todo caso tendrán preferencia para las tareas de sustitución los jueces adjuntos conforme al artículo 308.2 y los jueces que estén desarrollando prácticas tuteladas conforme al artículo 307.1.
+En todo caso, cualquier titular de un juzgado del mismo grado y orden del que deba ser sustituido podrá interesar del Presidente del Tribunal Superior de Justicia que se le prorrogue su jurisdicción a fin de desempeñar ambos cargos, con idéntico derecho a la retribución prevista en el párrafo anterior.
 
-3. Reglamentariamente se determinará por el Gobierno la remuneración de los jueces sustitutos, dentro de las previsiones presupuestarias. En el caso de ser varios los sustitutos nombrados para la localidad y el orden jurisdiccional correspondiente, serán llamados por el orden de puntuación obtenida en el nombramiento.
+2. Las prórrogas de jurisdicción se comunicarán, por conducto de la Sala de Gobierno respectiva, al Consejo General del Poder Judicial para su aprobación, sin perjuicio de empezar a desempeñarlas, si así lo acordase motivadamente el Presidente.
+
+> Se modifica por el art. único.10 de la Ley Orgánica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.
 
 > Se modifica por el art. único.38 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

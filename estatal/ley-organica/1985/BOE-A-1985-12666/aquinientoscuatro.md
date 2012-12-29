@@ -20,7 +20,7 @@ Estas licencias darán derecho a percibir las retribuciones básicas y las prest
 
 5. La enfermedad o accidente que impida el normal desempeño de las funciones, darán lugar a licencias por enfermedad.
 
-Sin perjuicio de la obligación de comunicar, en la forma que reglamentariamente se determine, la imposibilidad de asistencia al trabajo por razón de enfermedad durante la jornada laboral del día en que ésta se produzca, los funcionarios deberán solicitar de la autoridad competente, licencia por enfermedad en el cuarto día consecutivo a aquel en que se produjo la ausencia del puesto de trabajo.
+Sin perjuicio de la obligación de comunicar, en la forma que reglamentariamente se determine, la imposibilidad de asistencia al trabajo por razón de enfermedad durante la jornada laboral del día en que ésta se produzca, los funcionarios deberán solicitar de la autoridad competente la licencia por enfermedad.
 
 La licencia inicial se concederá por el tiempo que el facultativo haya considerado como previsible para la curación y, en ningún caso, por período superior a 15 días. Si el estado de enfermedad persistiera, la licencia inicial se prorrogará automáticamente en la forma que se determine por la autoridad competente para su concesión, quedando sin efecto si con anterioridad se produce la curación.
 
@@ -30,9 +30,21 @@ Se concederán licencias por enfermedad derivadas de un mismo proceso patológic
 
 A estos efectos, se entenderá que existe nueva licencia por enfermedad cuando el proceso patológico sea diferente y, en todo caso, cuando las licencias se hayan interrumpido durante un mínimo de un año.
 
-Las licencias por enfermedad darán lugar a plenitud de derechos económicos durante los 6 primeros meses desde la fecha en que se solicitó la licencia inicial, siempre que las mismas se deriven del mismo proceso patológico y de forma continuada o con una interrupción de hasta un mes.
+Los funcionarios de los Cuerpos al Servicio de la Administración de Justicia en situación de incapacidad temporal por contingencias comunes, percibirán el cincuenta por ciento de las retribuciones tanto básicas como complementarias, como, en su caso, la prestación por hijo a cargo, desde el primer al tercer día de la situación de incapacidad temporal, tomando como referencia aquéllas que percibían en el mes inmediato anterior al de causarse la situación de incapacidad temporal. Desde el día cuarto al vigésimo día, ambos inclusive, percibirán el setenta y cinco por ciento de las retribuciones tanto básicas como complementarias, como de la prestación por hijo a cargo, en su caso. A partir del día vigésimo primero y hasta el día ciento ochenta, ambos inclusive, percibirán la totalidad de las retribuciones básicas, de la prestación por hijo a cargo, en su caso, y de las retribuciones complementarias. Cuando la situación de incapacidad temporal derive de contingencias profesionales, la retribución a percibir podrá ser complementada desde el primer día, hasta alcanzar como máximo las retribuciones que vinieran correspondiendo a dicho personal en el mes anterior al de causarse la incapacidad.
+
+A partir del día ciento ochenta y uno será de aplicación el subsidio establecido en el apartado 1.B) del artículo 20 del Real Decreto Legislativo 3/2000, de 23 de junio, por el que se aprueba el texto refundido de las disposiciones legales vigentes sobre el Régimen especial de Seguridad Social del personal al servicio de la Administración de Justicia.
+
+Por el órgano competente se determinarán los supuestos en los que con carácter excepcional y debidamente justificados se pueda establecer un complemento hasta alcanzar, como máximo, el cien por cien de las retribuciones que vinieran disfrutando en cada momento. A estos efectos, se considerarán en todo caso debidamente justificados los supuestos de hospitalización e intervención quirúrgica.
+
+En ningún caso los funcionarios adscritos a los regímenes especiales de seguridad social gestionados por el mutualismo administrativo podrán percibir una cantidad inferior en situación de incapacidad temporal por contingencias comunes a la que corresponda a los funcionarios adscritos al régimen general de la seguridad social, incluidos, en su caso, los complementos que les resulten de aplicación a estos últimos.
+
+Las referencias a días incluidas en el presente número se entenderán realizadas a días naturales.
 
 En cualquier caso, el responsable de personal podrá solicitar únicamente de la correspondiente inspección médica, la revisión de un proceso para determinar que las causas que originaron la concesión de la licencia continúan subsistiendo.
+
+> Se modifica el apartado 5 por el art. único.27 y 28 de la Ley Orgánica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.
+
+> Téngase en cuenta para su aplicación lo dispuesto en la disposición transitoria 5.
 
 > Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
