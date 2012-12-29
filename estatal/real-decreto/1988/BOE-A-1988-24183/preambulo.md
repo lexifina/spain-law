@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 13, de 16 de enero de 1989. Ref. BOE-A-1989-993.
+Norma derogada por la disposición derogatoria única del Real Decreto 1676/2012, de 14 de diciembre. Ref. BOE-A-2012-15656#dd.
