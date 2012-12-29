@@ -24,6 +24,8 @@ Tres. Se añade una nueva disposición adicional quinta, con el siguiente conten
 
 1. El Ministerio de Justicia, de acuerdo con la comunidad autónoma correspondiente con competencias en la materia, previo informe favorable del Consejo General del Poder Judicial, podrá crear Oficinas de Señalamiento Inmediato en aquellos partidos judiciales con separación entre Juzgados de Primera Instancia y Juzgados de Instrucción.
 
+> Atención: declarado inconstitucional y nulo el inciso destacado por Sentencia del TC 224/2012, de 29 de noviembre.
+
 Estas Oficinas tendrán carácter de servicio común procesal y desarrollarán funciones de registro, reparto y señalamiento de vistas, comparecencias y actuaciones en los procedimientos a que se refiere la presente disposición adicional.
 
 2. En aquellos partidos judiciales donde se constituyan Oficinas de Señalamiento Inmediato se presentarán ante ellas las demandas y solicitudes que versen sobre las siguientes materias:
@@ -81,3 +83,5 @@ Se tendrán por válidamente realizados estos actos de comunicación cuando qued
 A estos efectos, el procurador acreditará, bajo su responsabilidad personal, la identidad y condición del receptor del acto de comunicación, cuidando de que en la copia quede constancia de su firma y de la fecha en que se realice.
 
 En las comunicaciones por medio de entrega de copia de la resolución o cédula en el domicilio del destinatario, se estará a lo dispuesto en el artículo 161 en lo que sea aplicable, debiendo el procurador acreditar la concurrencia de las circunstancias contempladas en dicho precepto, para lo que podrá auxiliarse de dos testigos o de cualquier otro medio idóneo.»
+
+> Se decara la inconstitucionalidad y nulidad del inciso destacado en el apartado 3.1, en los términos indicados en el fundamento jurídico 7 b), por Sentencia del TC 224/2012, de 29 de noviembre. Ref. BOE-A-2012-15758.
