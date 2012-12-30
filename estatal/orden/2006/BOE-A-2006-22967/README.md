@@ -29,6 +29,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional sexta](dasexta.md)
 - [Disposición adicional séptima](daseptima.md)
 - [Disposición transitoria única](dtunica.md)
+- [Disposición transitoria primera](dtprimera.md)
+- [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
 - [firma](firma.md)
