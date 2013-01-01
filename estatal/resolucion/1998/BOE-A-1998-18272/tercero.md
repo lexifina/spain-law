@@ -4,7 +4,7 @@
 
 a) El desarrollo de todas las funciones inherentes a la dirección inmediata de la Dependencia Regional, incluidas las de coordinación, impulso, control y jefatura de su personal.
 
-b) La coordinación técnica, en su ámbito territorial, de las Dependencias Provinciales de Aduanas e Impuestos Especiales.
+b) La coordinación técnica y la distribución de cargas de trabajo de las Dependencias de Aduanas e Impuestos Especiales y de las Administraciones de Aduanas e Impuestos Especiales.
 
 c) La relación, en materia de Aduanas e Impuestos Especiales, con los servicios y órganos centrales de inspección e investigación y las unidades operativas de investigación, para la realización de los controles desarrollados por aquéllos. Asimismo, tendrán atribuida la relación con las restantes Dependencias Regionales de Aduanas e Impuestos Especiales a los efectos de completar, suscitar o coordinar actuaciones en supuestos concretos. Igualmente, ejercerán la coordinación con otros servicios de la Administración competentes en materias afines a las que son objeto de control por la Inspección Regional de Aduanas e Impuestos Especiales.
 
@@ -13,6 +13,8 @@ d) La iniciación y resolución de los expedientes sancionadores a que se refier
 e) La representación del Delegado Especial de la Agencia, en los términos que éste ordene, ante las autoridades y organismos oficiales con competencias en materias relacionadas con los cometidos de la Dependencia Regional.
 
 2. La Oficina Técnica, en aquellas Dependencias Regionales en las que exista, tendrá a su cargo el asesoramiento en todas aquellas cuestiones relativas a competencias que tenga atribuidas la Dependencia Regional, en materia de inspección. Asimismo, le corresponde el análisis, estudio y propuesta de resolución de las actas que por su elevada complejidad le sean encomendadas por el Jefe de la Dependencia Regional.
+
+> Se modifica el punto 1.b) por el art. único.5 de la Resolución de 28 de diciembre de 2012. Ref. BOE-A-2012-15704.
 
 > Se modifica el punto 1 por el art. único.2 de la Resolución de 27 de noviembre de 2012. Ref. BOE-A-2012-14652.
 

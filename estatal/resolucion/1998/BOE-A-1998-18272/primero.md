@@ -1,15 +1,11 @@
 ## Primero. Estructura territorial de los servicios de Aduanas e Impuestos Especiales.
 
-1. La organización territorial de Aduanas e Impuestos Especiales estará constituida por las siguientes unidades básicas:
+La organización territorial de Aduanas e Impuestos Especiales estará constituida por los siguientes órganos cuyas competencias, sin perjuicio de lo que disponga la normativa específica, se podrán extender, cualquiera que sea su sede, a todo el ámbito territorial de la Delegación Especial de la Agencia Estatal de Administración Tributaria en que se integran:
 
-a) En el nivel de organización regional, formando parte de la respectiva Delegación Especial de la Agencia Estatal de Administración Tributaria y bajo la autoridad superior del Delegado Especial:
+a) En las Delegaciones Especiales de la Agencia Estatal de Administración Tributaria y bajo la autoridad superior del titular de la Delegación Especial, las Dependencias Regionales de Aduanas e Impuestos Especiales.
 
-Las Dependencias Regionales de Aduanas e Impuestos Especiales.
+b) En las Delegaciones de la Agencia Estatal de Administración Tributaria y bajo la autoridad superior del titular de la Delegación, las Dependencias de Aduanas e Impuestos Especiales.
 
-b) En el nivel de organización provincial, formando parte de la respectiva Delegación de la Agencia Estatal de Administración Tributaria y bajo la autoridad superior del Delegado de la Agencia o del Delegado Especial en las Delegaciones en que no exista Delegado de la Agencia:
+c) Las Administraciones de Aduanas e Impuestos Especiales dependientes de las Dependencias de Aduanas e Impuestos Especiales se integran en la Delegación de la Agencia Tributaria de la provincia o demarcación territorial donde estén establecidas. Cuando no exista Dependencia de Aduanas e Impuestos Especiales, se integran en las Delegaciones Especiales a través de la Dependencia Regional correspondiente.
 
-Las Dependencias Provinciales de Aduanas e Impuestos Especiales.
-
-Las Administraciones de Aduanas: unidades con organización propia de nivel inferior al de Dependencia provincial y subordinadas a éstas.
-
-2. La mención a los Delegados de la Agencia se entenderá referida a los Delegados Especiales en aquellas provincias donde tenga su sede la Delegación Especial y no exista Delegado de la Agencia. En los mismos supuestos la mención a las Dependencias Provinciales de Aduanas e Impuestos Especiales se entenderá referida a las Dependencias Regionales de Aduanas e Impuestos Especiales.
+> Se modifica por el art. único.2 de la Resolución de 28 de diciembre de 2012. Ref. BOE-A-2012-15704.

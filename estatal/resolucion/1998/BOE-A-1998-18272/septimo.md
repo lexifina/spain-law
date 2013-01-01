@@ -1,15 +1,19 @@
-## Séptimo. Áreas Regionales Operativas de Aduanas e Impuestos Especiales.
+## Séptimo. Áreas Regionales de Vigilancia Aduanera.
 
-1. Las Áreas Regionales Operativas de Aduanas e Impuestos Especiales, bajo la dependencia directa del Jefe de Dependencia Regional, tienen atribuidas las siguientes funciones:
+1. Las Áreas Regionales de Vigilancia Aduanera, bajo la dependencia directa de la Jefatura de la Dependencia Regional, tienen atribuidas las siguientes funciones:
 
-a) El descubrimiento, persecución y represión de los actos de contrabando y la coordinación en el uso de los medios terrestres, navales, aéreos y de radiocomunicaciones asignados.
+a) El descubrimiento, persecución y represión de los actos de contrabando, precursores y blanqueo de capitales atribuidas a la Agencia Tributaria, salvo cuando corresponda al Departamento de Aduanas e Impuestos Especiales según el artículo 7.1.y) de la Orden PRE/3581/2007, de 10 de diciembre.
 
-b) Ejecución de las actividades de investigación y control que les sean encomendados a Vigilancia Aduanera por el Jefe de la Dependencia Regional de Aduanas e Impuestos Especiales.
+b) La ejecución de las actividades de investigación y control que les sean encomendados por la Jefatura de la Dependencia Regional de Aduanas e Impuestos Especiales.
 
-c) La dirección de las operaciones marítimas que se desarrollen en las zonas navales del ámbito territorial de la Dependencia Regional, así como la inspección del mantenimiento y estado de los medios aéreos, navales, terrestres y de radiocomunicaciones asignados.
+c) La dirección de las operaciones marítimas que se desarrollen en las zonas navales del ámbito territorial de la Dependencia Regional.
 
-d) La coordinación de las Unidades Operativas radicadas en el ámbito territorial de la Dependencia Regional.
+d) La coordinación y gestión de los medios aéreos, navales, terrestres y de radiocomunicaciones asignados, así como la inspección de su mantenimiento y estado.
 
-e) El desarrollo en el ámbito provincial de las funciones que se encomienden a Vigilancia Aduanera en el ámbito de la persecución, investigación y descubrimiento del fraude.
+e) La coordinación de las unidades de Vigilancia Aduanera radicadas en el ámbito territorial de la Dependencia Regional.
 
-2. La distribución territorial de las unidades de Vigilancia Aduanera se desarrollará con arreglo a lo dispuesto en el anexo I.
+f) El desarrollo en el ámbito de la Delegación Especial de las funciones que se encomienden a Vigilancia Aduanera en aplicación del artículo 56.trece.2 de la Ley 66/1997, de 30 de diciembre de Medidas Fiscales, Administrativas y del Orden Social.
+
+2. Las Dependencias Regionales de Aduanas e Impuestos Especiales podrán contar con unidades de Vigilancia Aduanera situadas en localidades diferentes a la de la sede de la Delegación Especial.
+
+> Se modifica por el art. único.6 de la Resolución de 28 de diciembre de 2012. Ref. BOE-A-2012-15704.

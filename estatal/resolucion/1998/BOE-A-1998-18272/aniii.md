@@ -1,390 +1,138 @@
 ## ANEXO III
 
-## Administraciones de Aduanas y recintos habilitados para el despacho aduanero
+## Administraciones de Aduanas e Impuestos Especiales
 
-Delegación Especial de la Agencia en Andalucía
+Delegación Especial de Andalucía, Ceuta y Melilla
 
-Dependencia Provincial de Aduanas e Impuestos Especiales de Almería:
+Dependencia Regional de Aduanas e Impuestos Especiales de Andalucía, Ceuta y Melilla:
 
-Recintos aduaneros habilitados adscritos:
+Dependencia de Aduanas e Impuestos Especiales de Granada: Administración de Aduanas e Impuestos Especiales de Motril.
 
-Recinto habilitado del Aeropuerto de Almería.
+Dependencia de Aduanas e Impuestos Especiales de Algeciras: Administración de Aduanas e Impuestos Especiales de La Línea de la Concepción.
 
-Recinto habilitado de Carboneras «Pucarsa».
+Dependencia de Aduanas e Impuestos Especiales de Málaga: Administración de Aduanas e Impuestos Especiales del Aeropuerto de Málaga-Costa del Sol.
 
-Recinto habilitado de Garrucha.
+Delegación Especial de Aragón:
 
-Recinto habilitado de Carboneras «Hornos Ibéricos, Sociedad Anónima».
+Dependencia Regional de Aduanas e Impuestos Especiales de Aragón:
 
-Dependencia Provincial de Aduanas e Impuestos Especiales de Cádiz:
+Administración de Aduanas e Impuestos Especiales del Aeropuerto de Zaragoza.
 
-Recintos aduaneros habilitados adscritos:
+Delegación Especial de Asturias
 
-Recinto habilitado del Puerto de Santa María.
+Dependencia Regional de Aduanas e Impuestos Especiales de Asturias:
 
-Dependencia Provincial de Aduanas e Impuestos Especiales de Granada:
+Administración de Aduanas e Impuestos Especiales de Avilés.
 
-Administraciones de Aduanas adscritas:
+Delegación Especial de Illes Balears
 
-Administración de Aduanas de Motril.
+Dependencia Regional de Aduanas e Impuestos Especiales de Illes Balears:
 
-Dependencia de Aduanas e Impuestos Especiales de Algeciras:
+Administración de Aduanas e Impuestos Especiales del Aeropuerto de Palma de Mallorca.
 
-Administraciones de Aduanas adscritas:
+Administración de Aduanas e Impuestos Especiales de Maó.
 
-Administración de Aduanas de La Línea de La Concepción.
+Administración de Aduanas e Impuestos Especiales de Eivissa.
 
-Recintos aduaneros habilitados adscritos:
+Delegación Especial de Canarias
 
-Recinto habilitado de Tarifa.
+Dependencia Regional de Aduanas e Impuestos Especiales de Canarias:
 
-Dependencia Provincial de Aduanas e Impuestos Especiales de Málaga:
+Administración de Aduanas e Impuestos Especiales del Aeropuerto de Las Palmas de Gran Canaria: Con sede en Teide.
 
-Administraciones de Aduanas adscritas:
+Administración de Aduanas e Impuestos Especiales de Arrecife: Con sede en Lanzarote.
 
-Administración de Aduanas del Aeropuerto de Málaga
+Administración de Aduanas e Impuestos Especiales de Puerto del Rosario: Con sede en Fuerteventura.
 
-Dependencia Provincial de Aduanas e Impuestos Especiales de Sevilla:
+Dependencia de Aduanas e Impuestos Especiales de Santa Cruz de Tenerife:
 
-Recintos aduaneros habilitados adscritos:
+Administración de Aduanas e Impuestos Especiales del Aeropuerto de Santa Cruz de Tenerife Sur -Reina Sofía: Con sede en Granadilla de Abona.
 
-Recinto habilitado del Aeropuerto de Sevilla.
+Administración de Aduanas e Impuestos Especiales del Aeropuerto de Santa Cruz de Tenerife Norte-Los Rodeos: Con sede en La Laguna.
 
-Dependencia de Aduanas e Impuestos Especiales de Jerez de la Frontera:
+Administración de Aduanas e Impuestos Especiales de Santa Cruz de la Palma: Con sede en La Palma.
 
-Recintos aduaneros habilitados adscritos:
+Delegación Especial de Cataluña
 
-Recinto habilitado del Aeropuerto de Jerez de la Frontera.
+Dependencia Regional de Aduanas e Impuestos Especiales de Cataluña:
 
-Dependencia de Aduanas e Impuestos Especiales de Ceuta:
+Administración de Aduanas e Impuestos Especiales de Barcelona-marítima.
 
-Recintos aduaneros habilitados adscritos:
+Administración de Aduanas e Impuestos Especiales de Barcelona-carretera.
 
-Recinto habilitado de El Tarajal.
+Administración de Aduanas e Impuestos Especiales del Aeropuerto de Barcelona-El Prat: Con sede en El Prat de Llobregat.
 
-Dependencia de Aduanas e Impuestos Especiales de Melilla:
+Dependencia de Aduanas e Impuestos Especiales de Girona:
 
-Recintos aduaneros habilitados adscritos:
+Administración de Aduanas e Impuestos Especiales de Palamós.
 
-Recinto habilitado de Beni-Enzar: con los puntos de Farhana y El Gurugú.
+Dependencia de Aduanas e Impuestos Especiales de Tarragona:
 
-Delegación Especial de la Agencia en Aragón:
+Administración de Aduanas e Impuestos Especiales Sant Carles de la Ràpita.
 
-Dependencia Provincial de Aduanas e Impuestos Especiales de Zaragoza.
+Delegación Especial de Galicia
 
-Administraciones de Aduanas adscritas:
+Dependencia Regional de Aduanas e Impuestos Especiales de Galicia:
 
-Administración de Aduanas del Aeropuerto de Zaragoza.
+Administración de Aduanas e Impuestos Especiales del Aeropuerto de Santiago de Compostela.
 
-Recintos aduaneros habilitados adscritos:
+Administración de Aduanas e Impuestos Especiales de Ferrol.
 
-Recinto habilitado de Zaragoza-carretera.
+Dependencia de Aduanas e Impuestos Especiales de Lugo:
 
-Delegación Especial de la Agencia en Asturias
+Administración de Aduanas e Impuestos Especiales de Ribadeo.
 
-Dependencia Provincial de Aduanas e Impuestos Especiales de Asturias:
+Dependencia de Aduanas e Impuestos Especiales de Pontevedra:
 
-Administraciones de Aduanas adscritas:
+Administración de Aduanas e Impuestos Especiales de Vilagarcia de Arousa.
 
-Administración de Aduanas de Avilés.
+Delegación Especial de Madrid
 
-Recintos aduaneros habilitados adscritos:
+Dependencia Regional de Aduanas e Impuestos Especiales de Madrid:
 
-Recinto habilitado del Aeropuerto de Asturias.
+Administración de Aduanas e Impuestos Especiales de Madrid-carretera.
 
-Recinto habilitado de Muelle de San Juan de Nieva.
+Administración de Aduanas e Impuestos Especiales del Aeropuerto de Madrid-Barajas.
 
-Recinto habilitado de «Muelle de Aceralia, Sociedad Anónima».
+Administración de Aduanas e Impuestos Especiales de Madrid-ferrocarril.
 
-Recinto habilitado de Muelle «Empresa Nacional de Aluminio».
+Delegación Especial de Murcia
 
-Delegación Especial de la Agencia en Illes Balears
+Dependencia Regional de Aduanas e Impuestos Especiales de Murcia:
 
-Dependencia Provincial de Aduanas e Impuestos Especiales de Illes Balears:
+Administración de Aduanas e Impuestos Especiales de Murcia-Carretera.
 
-Administraciones de Aduanas adscritas:
+Delegación Especial del País Vasco
 
-Administración de Aduanas del Aeropuerto de Palma de Mallorca.
+Dependencia Regional de Aduanas e Impuestos Especiales del País Vasco:
 
-Administración de Aduanas de Mahón (Menorca).
+Administración de Aduanas e Impuestos Especiales de Bilbao-marítima: Con sede en Santurtzi.
 
-Administración de Aduanas de Ibiza (Ibiza).
+Administración de Aduanas e Impuestos Especiales del Aeropuerto de Bilbao: Con sede en Sondika.
 
-Recintos aduaneros habilitados adscritos:
+Administración de Aduanas e Impuestos Especiales de Bilbao-carretera-Aparcabisa.
 
-Recinto habilitado de Alcudia.
+Dependencia de Aduanas e Impuestos Especiales de Gipuzkoa:
 
-Delegación Especial de la Agencia en Canarias
+Administración de Aduanas e Impuestos Especiales de Pasaia.
 
-Dependencia Provincial de Aduanas e Impuestos Especiales de Las Palmas:
+Delegación Especial de la Agencia de Valencia
 
-Administraciones de Aduanas adscritas:
+Dependencia Regional de Aduanas e Impuestos Especiales de Valencia:
 
-Administración de Aduanas del Aeropuerto Las Palmas.
+Administración de Aduanas e Impuestos Especiales de Valencia-marítima.
 
-Administración de Aduanas de Arrecife (Lanzarote).
+Administración de Aduanas e Impuestos Especiales del Aeropuerto de Valencia-Manises.
 
-Administración de Aduanas de Puerto del Rosario (Fuerteventura).
+Administración de Aduanas e Impuestos Especiales de Gandía.
 
-Recintos aduaneros habilitados adscritos:
+Administración de Aduanas e Impuestos Especiales de Sagunto/Sagunt.
 
-Recinto habilitados del Aeropuerto de Lanzarote.
+Dependencia de Aduanas e Impuestos Especiales de Alicante/Alacant:
 
-Recinto habilitado del Aeropuerto de Fuerteventura.
+Administración de Aduanas e Impuestos Especiales del Aeropuerto de Alicante/ Alacant.
 
-Dependencia Provincial de Aduanas e Impuestos Especiales de Santa Cruz de Tenerife:
-
-Administraciones de Aduanas adscritas:
-
-Administración de Aduanas del Aeropuerto de Santa Cruz de Tenerife-Reina Sofía.
-
-Administración de Aduanas del Aeropuerto de Santa Cruz de Tenerife-Los Rodeos.
-
-Administración de Aduanas de Santa Cruz de la Palma (La Palma).
-
-Recintos aduaneros habilitados adscritos:
-
-Recinto habilitado de San Sebastián de La Gomera (La Gomera).
-
-Recinto habilitado de Valverde del Hierro (El Hierro).
-
-Delegación Especial de la Agencia en Cantabria
-
-Dependencia Provincial de Aduanas e Impuestos Especiales de Cantabria:
-
-Recintos aduaneros habilitados adscritos:
-
-Recinto habilitado del Aeropuerto de Santander-Parayas.
-
-Recinto habilitado de Puerto de Requejada.
-
-Recinto habilitado de «Astander, Sociedad Anónima»(El Astillero).
-
-Recinto habilitado de Castro Urdiales.
-
-Recinto habilitado de Colindres.
-
-Recinto habilitado de Laredo.
-
-Recinto habilitado de San Vicente de la Barquera.
-
-Recinto habilitado de Santoña.
-
-Delegación Especial de la Agencia en Castilla-León
-
-Dependencia Provincial de Aduanas e Impuestos Especiales de Salamanca:
-
-Administraciones de Aduanas adscritas:
-
-Administración de Aduanas de Fuentes de Oñoro.
-
-Delegación Especial de la Agencia en Cataluña
-
-Dependencia Provincial de Aduanas e Impuestos Especiales de Barcelona:
-
-Administraciones de Aduanas adscritas:
-
-Administración de Aduanas de Barcelona-marítima.
-
-Administración de Aduanas de Barcelona-carretera.
-
-Administración de Aduanas del Aeropuerto de Barcelona-El Prat.
-
-Recintos aduaneros habilitados adscritos:
-
-Recinto habilitado de Puerto Vallcarca.
-
-Recinto habilitado de Vilanova i La Geltrú.
-
-Dependencia Provincial de Aduanas e Impuestos Especiales de Girona:
-
-Administraciones de Aduanas adscritas:
-
-Administración de Aduanas de Palamós.
-
-Recintos aduaneros habilitados adscritos:
-
-Recinto habilitado del Aeropuerto de Girona-Costa Brava.
-
-Recinto habilitado de Vilamalla.
-
-Dependencia Provincial de Aduanas e Impuestos Especiales de Lleida:
-
-Recintos aduaneros habilitados adscritos:
-
-Recinto habilitado de Lleida-carretera-EDULLESA.
-
-Dependencia Provincial de Aduanas e Impuestos Especiales de Tarragona:
-
-Administraciones de Aduanas adscritas:
-
-Administración de Aduanas Sant Carles de la Ràpita.
-
-Recintos aduaneros habilitados adscritos:
-
-Recinto habilitado de la Compañía Valenciana de Cementos Portland, Sociedad Anónima (Alcanar).
-
-Recinto habilitado de Constantí-TIF.
-
-Recinto habilitado del Aeropuerto de Reus.
-
-Delegación Especial de la Agencia en Galicia
-
-Dependencia Provincial de Aduanas e Impuestos Especiales de A Coruña:
-
-Administraciones de Aduanas adscritas:
-
-Administración de Aduanas del Aeropuerto de Santiago de Compostela.
-
-Administración de Aduanas de Ferrol.
-
-Dependencia Provincial de Aduanas e Impuestos Especiales de Lugo:
-
-Administraciones de Aduanas adscritas:
-
-Administración de Aduanas de Ribadeo.
-
-Dependencia Provincial de Aduanas e Impuestos Especiales de Pontevedra:
-
-Administraciones de Aduanas adscritas:
-
-Administración de Aduanas de Vilagarcía de Arousa.
-
-Delegación Especial de la Agencia en Madrid
-
-Dependencia Provincial de Aduanas e Impuestos Especiales de Madrid:
-
-Administraciones de Aduanas adscritas:
-
-Administración de Aduanas de Madrid-carretera.
-
-Recintos aduaneros habilitados adscritos:
-
-Recinto habilitado de Puerto Seco de Madrid.
-
-Administración de Aduanas del Aeropuerto de Madrid-Barajas.
-
-Administración de Aduanas de Madrid-ferrocarril.
-
-Recintos aduaneros habilitados adscritos:
-
-Recinto habilitado C.T.M.
-
-Recinto habilitado de Postales-Chamartín.
-
-Delegación Especial de la Agencia en Murcia
-
-Dependencia de Aduanas e Impuestos Especiales de Cartagena:
-
-Recintos aduaneros habilitados adscritos:
-
-Recinto habilitado de Dársena de Escombreras.
-
-Recinto habilitado Águilas.
-
-Dependencia de Aduanas e Impuestos Especiales de Murcia:
-
-Administraciones de Aduanas adscritas:
-
-Administración de Aduanas de Murcia-carretera.
-
-Recintos aduaneros habilitados adscritos:
-
-Recinto habilitado del Aeropuerto de San Javier.
-
-Delegación Especial de la Agencia en Navarra
-
-Dependencia de Aduanas e Impuestos Especiales de Navarra:
-
-Recintos aduaneros habilitados adscritos:
-
-Recinto habilitado de Noain-ferrocarril.
-
-Delegación Especial de la Agencia en el País Vasco
-
-Dependencia de Aduanas e Impuestos Especiales de Álava:
-
-Recintos aduaneros habilitados adscritos:
-
-Recinto habilitado del Aeropuerto de Vitoria.
-
-Dependencia de Aduanas e Impuestos Especiales de Guipúzcoa:
-
-Administraciones de Aduanas adscritas:
-
-Administración de Aduanas de Pasajes.
-
-Dependencia de Aduanas e Impuestos Especiales de Vizcaya:
-
-Administraciones de Aduanas adscritas:
-
-Administración de Aduanas de Bilbao-marítima.
-
-Administración de Aduanas del Aeropuerto de Bilbao.
-
-Administración de Aduanas de Bilbao-carretera-Aparcabisa.
-
-Recintos aduaneros habilitados adscritos:
-
-Recinto habilitado de Bermeo.
-
-Recinto habilitado de Lequeitio.
-
-Recinto habilitado de Ondarroa.
-
-Recinto habilitado de Pasajes-Carretera.
-
-Recinto habilitado de Ría de Guernica.
-
-Delegación Especial de la Agencia en La Rioja
-
-Dependencia de Aduanas e Impuestos Especiales de La Rioja:
-
-Administraciones de Aduanas adscritas:
-
-Administración de Aduanas de Haro.
-
-Delegación Especial de la Agencia en Valencia
-
-Dependencia de Aduanas e Impuestos Especiales de Alicante:
-
-Administraciones de Aduanas adscritas:
-
-Administración de Aduanas del Aeropuerto de Alicante.
-
-Administración de Aduanas de Torrevieja.
-
-Recintos aduaneros habilitados adscritos:
-
-Recinto habilitado de Bahía de Santa Pola.
-
-Recinto habilitado de El Saladar.
-
-Dependencia de Aduanas e Impuestos Especiales de Castellón:
-
-Recintos aduaneros habilitados adscritos:
-
-Recinto habilitado de Burriana.
-
-Dependencia de Aduanas e Impuestos Especiales de Valencia:
-
-Administraciones de Aduanas adscritas:
-
-Administración de Aduanas de Valencia-marítima.
-
-Administración de Aduanas del Aeropuerto de Valencia-Manises.
-
-Administración de Aduanas de Gandía.
-
-Administración de Aduanas de Sagunto.
-
-Recintos aduaneros habilitados adscritos:
-
-Recinto habilitado de Algemesí.
-
-Recinto habilitado de Carcagente.
-
-Recinto habilitado de Silla.
+> Se modifica por el art. único.14 de la Resolución de 28 de diciembre de 2012. Ref. BOE-A-2012-15704.
 
 > Se modifica para Murcia por la disposición final 1 de la Resolución de 16 de noviembre de 2009. Ref. BOE-A-2009-18568.
 
