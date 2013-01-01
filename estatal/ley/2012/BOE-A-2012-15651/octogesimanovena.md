@@ -1,0 +1,15 @@
+## Disposición adicional octogésima novena. Régimen aplicable a los servicios ferroviarios gestionados por FEVE que discurran sobre red ferroviaria de interés general de ancho métrico, a partir de su fecha de extinción.
+
+A partir de la fecha de extinción de FEVE según lo establecido en el artículo 2 del Real Decreto-ley 22/2012, de 20 de julio, por el que se adoptan medidas en materia de infraestructuras y servicios ferroviarios, con la finalidad de garantizar la eficiencia en la gestión de los servicios públicos que exige la actual situación económica y la adecuada continuidad en la prestación de los mismos, se producirán los siguientes efectos:
+
+a) Se deroga la disposición transitoria quinta de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario.
+
+b) La entidad pública empresarial RENFE-Operadora, en cuanto se subroga legalmente en la prestación de los servicios realizados en dicha red por la entidad pública empresarial FEVE, conserva el derecho a explotar la capacidad de red que ésta estuviera utilizando efectivamente en dicha fecha. Igual facultad corresponderá a ADlF para los trabajos inherentes a su propia actividad.
+
+c) Serán de aplicación a las Iíneas de ancho métrico de titularidad estatal las disposiciones aplicables a la Red Ferroviaria de Interés General en materia de seguridad en la circulación, autorización y mantenimiento de material rodante, personal ferroviario, centros médicos y de formación del personal ferroviario. No obstante, en tanto no se desarrolle la nueva normativa técnica específica para el sistema ferroviario de ancho métrico, regirán las disposiciones actualmente aplicables en dicho sistema ferroviario.
+
+d) Además, se entenderá que la autorización de seguridad y certificado de seguridad de que disponen, respectivamente, ADlF y RENFE-Operadora extienden sus mismos efectos a las Iíneas de ancho métrico. Asimismo, se entenderán homologados los centros de formación y de reconocimiento médico del personal ferroviario y los centros de mantenimiento de material rodante que venían realizando estas funciones en FEVE, así como, para circular por las mismas líneas, el material rodante autorizado por FEVE.
+
+e) Como consecuencia de lo establecido en el apartado anterior, todo el personal procedente de FEVE que siga desempeñando su actividad en relación con los servicios que se presten sobre la red ferroviaria de interés general de ancho métrico, se considerará debidamente autorizado para la realización de las mismas funciones y cometidos que vinieran realizando relacionadas con la seguridad en la circulación y les serán de aplicación los mismos requisitos psicofísicos y funcionales que se les vinieran aplicando hasta la fecha de extinción de FEVE.
+
+Sin perjuicio de lo anterior, todo el personal procedente de FEVE mantendrá sus condiciones retributivas y socio-laborales en los términos establecidos en los apartados 4, 5 y 6 del artículo 2 del Real Decreto-Ley 22/2012, de 20 de julio, por el que se adoptan medidas en materia de infraestructuras y servicios ferroviarios, sin que se pueda generar incremento de la masa salarial global.

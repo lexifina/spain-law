@@ -4,10 +4,12 @@
 
 2. En tanto no se proceda a la adaptación prevista en el apartado 1 de esta disposición, los citados organismos públicos se ajustarán en su régimen presupuestario a lo previsto para los organismos autónomos en esta Ley, sin perjuicio de las especialidades que se deriven de las operaciones de carácter comercial, industrial, financiero y análogo y teniendo en cuenta lo que se dispone en los siguientes párrafos.
 
-Los presupuestos de los organismos a los que se refiere el apartado primero de esta disposición, se acompañarán de una cuenta de operaciones comerciales que recogerá las operaciones propias de la actividad de estos organismos y no estarán sometidas al régimen de limitaciones establecido para los créditos incluidos en el estado de gastos de sus presupuestos.
+A partir del 1 de enero de 2014, al Presupuesto de los organismos autónomos a que se refiere esta disposición no se acompañará la cuenta de operaciones comerciales. A estos efectos, las citadas operaciones se integrarán en los correspondientes estados de gastos e ingresos de los Presupuestos Generales del Estado.
 
 El ejercicio presupuestario coincidirá con el año natural sin perjuicio de los ajustes necesarios cuando las operaciones a realizar por el Organismo autónomo estén vinculadas a ciclo productivo distinto, que no podrá ser superior a doce meses.
 
 En su régimen económico-financiero, de contabilidad, intervención y control financiero, se regirán por lo dispuesto en los artículos 60, apartado cinco, y 61.uno, de la Ley 50/1998, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.
+
+> Se modifica el segundo párrafo del apartado 2 por la disposición final 14.10 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
 
 > Se modifica el apartado 2, con efectos de 1 de enero de 2011, por la disposición final 9.7 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.

@@ -56,11 +56,7 @@ PP = Saldo del préstamo participativo otorgado.
 
 Cuatro. Niveles de tráfico.
 
-Durante un periodo de cinco años desde la entrada en vigor de esta ley, se unifican en un solo nivel máximo los niveles máximos ofertados por las concesionarias para el tráfico ligero y pesado, a razón de 1,4 vehículos ligeros por vehículo pesado.
-
-Los excesos o defectos que se produzcan anualmente en relación con el nivel máximo unificado, podrán ser compensados entre sí, no superando nunca el nivel máximo unificado acumulado hasta ese momento. A estos efectos, se comparará el número real de vehículos, a fecha 31 de diciembre, con el previsto en el nivel máximo unificado.
-
-El abono de las cantidades correspondientes a la compensación calculada en el párrafo anterior, se realizará en enero del año siguiente, junto con el canon correspondiente a dicho mes de acuerdo con los términos iniciales de la concesión.
+Durante un periodo de cinco años desde la entrada en vigor de esta Ley, se unifican en un solo nivel máximo los niveles máximos ofertados por las concesionarias para el tráfico ligero y pesado, a razón de 1,4 vehículos ligeros por vehículo pesado.
 
 Cinco. Tarifa.
 
@@ -73,3 +69,5 @@ La actualización de la tarifa se realizará anualmente, con el Índice de Preci
 Seis. Recursos propios de la sociedad concesionaria.
 
 El capital social de la sociedad concesionaria deberá quedar íntegramente desembolsado en el plazo máximo de tres años desde su constitución.
+
+> Se modifica el apartado 4 por la disposición final 19.2 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2012-15651.

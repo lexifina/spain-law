@@ -1,0 +1,7 @@
+## Disposición adicional trigésima cuarta. Regularización de encuadramientos indebidos en el sector público.
+
+Uno. Los órganos competentes en materia de personal serán responsables de comprobar, a efectos de las futuras pensiones que se puedan causar, que los funcionarios sobre los que ejercen sus competencias están incluidos en el régimen de protección social que legalmente les corresponde. Si se pusiera de manifiesto alguna situación de encuadramiento indebido, procederán a declarar mediante resolución administrativa que el funcionario está indebidamente encuadrado, regularizando de forma inmediata su situación en el régimen que corresponda.
+
+A efectos de la referida regularización, se procederá a solicitar el alta o la baja correspondiente en el Régimen General de la Seguridad Social a la Tesorería General de la Seguridad Social, quien resolverá con arreglo al Reglamento General sobre Inscripción de Empresas y Afiliación, Altas, Bajas y Variaciones de datos de Trabajadores en la Seguridad Social, aprobado por Real Decreto 84/1996, de 26 de enero.
+
+Dos. Los servicios prestados y las cotizaciones efectuadas conforme a las normas del régimen cuyo encuadramiento se declare indebido serán computados por el régimen que haya de reconocer la pensión, de acuerdo con el procedimiento regulado en el Real Decreto 691/1991, de 12 de abril, sobre cómputo recíproco de cuotas entre regímenes de Seguridad Social.

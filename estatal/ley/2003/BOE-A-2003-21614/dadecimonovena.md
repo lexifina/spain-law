@@ -1,0 +1,23 @@
+## Disposición adicional decimonovena. Imputación al presupuesto de las anualidades de los compromisos de gasto de carácter plurianual.
+
+1. Las anualidades que correspondan al ejercicio que se inicia de compromisos de gasto de carácter plurianual contabilizados en años anteriores se imputarán a los créditos autorizados en el presupuesto de dicho ejercicio.
+
+Cuando en el citado presupuesto no hubiera crédito o éste fuera insuficiente para imputar dichas anualidades a los créditos del Departamento ministerial u Organismo del sector público administrativo estatal, se seguirá el procedimiento que se indica en los apartados siguientes de esta disposición.
+
+2. La oficina de contabilidad obtendrá una relación de los compromisos indicados en el apartado anterior que no se hubiesen podido imputar al nuevo presupuesto con la especificación de los distintos expedientes afectados, que remitirá al respectivo Servicio gestor con la indicación de que en el plazo de treinta días deberá comunicar a dicha oficina las actuaciones a realizar con respecto a los compromisos pendientes de registro contable incluidos en la relación, de acuerdo con lo dispuesto en el artículo 47 bis de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+3. Si dichas actuaciones conllevan anulaciones de operaciones o reajustes de anualidades, el Servicio gestor deberá remitir los justificantes y documentos contables que acrediten las mismas.
+
+4. Si las citadas actuaciones suponen la tramitación de expedientes de modificaciones presupuestarias, y los mismos no se han aprobado antes de la finalización del plazo de treinta días citado anteriormente, el Servicio gestor deberá comunicar a la oficina de contabilidad, excepto en el caso de que se trate de transferencias de crédito, las retenciones de crédito que deberán ser registradas en otros créditos de su Presupuesto por un importe igual al de los compromisos pendientes de registro. El Servicio gestor aplicará dichas retenciones de crédito a los créditos cuya minoración ocasione menos trastornos para el servicio público. Una vez aprobadas las modificaciones presupuestarias e imputados los compromisos pendientes de registro, se efectuará la anulación de las anteriores retenciones de crédito.
+
+5. Si cumplido el citado plazo de los treinta días, el Servicio gestor no hubiere comunicado a la oficina de contabilidad las actuaciones a realizar con respecto a los compromisos pendientes de registro contable, dicha oficina de contabilidad procederá a registrar de oficio las retenciones de crédito por un importe igual al de dichas operaciones. Dichas retenciones de crédito se aplicarán a los créditos que la oficina de contabilidad determine, preferentemente dentro del mismo capítulo y programa del presupuesto a los que correspondan las mismas. La oficina de contabilidad comunicará al Servicio gestor las retenciones de crédito realizadas de oficio.
+
+6. Hasta el momento en que se determinen las actuaciones definitivas relativas a los compromisos pendientes de registro, el Servicio gestor podrá solicitar a la oficina de contabilidad la anulación de las retenciones de crédito indicadas en los apartados anteriores, siempre que simultáneamente se registren por dicha oficina nuevas retenciones de crédito, de acuerdo con la comunicación recibida del Servicio gestor, por un importe igual al de las retenciones de crédito a anular, a fin de que queden retenidos los créditos en aquellas dotaciones cuya minoración ocasione menos trastornos para el servicio público.
+
+7. El registro en el sistema de información contable de las retenciones de crédito y de las anulaciones de retenciones de crédito a que se refieren los apartados 4, 5 y 6 anteriores se efectuará por las oficinas de contabilidad, a efectos de poder efectuar el control efectivo de la imputación definitiva de todos los compromisos pendientes de registro.
+
+8. El Ministro de Hacienda y Administraciones Públicas aprobará las normas reguladoras del procedimiento y operatoria a seguir para la imputación contable al nuevo presupuesto de los compromisos a que se refiere la presente disposición, así como de aquellas otras operaciones contabilizadas en los ejercicios anteriores que deban imputarse a dicho presupuesto.
+
+El Ministro de Hacienda y Administraciones Públicas determinará la información a incluir en las cuentas anuales sobre los compromisos de gasto de carácter plurianual que no se hayan podido imputar al nuevo presupuesto de acuerdo con lo establecido en esta disposición.
+
+> Se añade por la disposición final 14.9 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.

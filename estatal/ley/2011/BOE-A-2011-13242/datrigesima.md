@@ -14,7 +14,9 @@ d) Que los rendimientos o rentas percibidos, diferentes de los arriba señalados
 
 3. Con efectos para las declaraciones del IRPF, a presentar a partir del ejercicio 2013, se regulará en la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, un mecanismo corrector de la progresividad en el caso de pensiones de viudedad que se acumulen exclusivamente con rentas procedentes del trabajo u otras pensiones, tomando como referencia el importe de la pensión mínima de viudedad. Para ello, las personas que compatibilizan estos ingresos estarán exentas de la obligación de declarar si no sobrepasan el límite legal establecido y, en el caso de que exista la obligación de declarar, se aplicará a las personas que perciban rendimientos de trabajo y pensiones de viudedad la separación de la escala de tributación en el IRPF por ambas fuentes.
 
-> Atención: queda aplazada la aplicación de esta disposición.
+> Téngase en cuenta que queda aplazada la aplicación de esta disposición según establece la disposición adicional 83 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+
+> Se suspende la aplicación por la disposición adicional 83 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
 
 > Se suspende la aplicación por la disposición adicional 26 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
 

@@ -1,3 +1,5 @@
 ## Disposición adicional octogésima primera. Bonificaciones aplicables a prestaciones patrimoniales de carácter público en Aeropuertos de Illes Balears.
 
-Con efectos desde la entrada en vigor de esta Ley y vigencia indefinida, las cuantías unitarias de la prestación pública de aterrizaje, y de las prestaciones públicas por salida de pasajeros, PMR’s y seguridad en los aeropuertos de Palma de Mallorca, Menorca, Ibiza y Son Bonet se bonificarán en un 10% durante los meses de noviembre a marzo, respecto de las cuantías establecidas con carácter general para las citadas prestaciones públicas en estos aeropuertos.
+(Derogada)
+
+> Se deroga por la disposición derogatoria 3 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.

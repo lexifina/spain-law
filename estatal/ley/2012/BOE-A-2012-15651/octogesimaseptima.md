@@ -1,0 +1,7 @@
+## Disposición adicional octogésima séptima. Creación de Agencias Estatales.
+
+Uno. Durante el ejercicio 2013 no se crearán Agencias Estatales de las previstas en la Ley 28/2006, de 18 de julio, de Agencias Estatales para la mejora de los servicios públicos.
+
+Dos. Se exceptúa de lo dispuesto en el apartado anterior la creación de la Agencia Estatal para la Investigación, según lo previsto en la disposición adicional duodécima de la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, que se realizará sin aumento de gasto público, no se financiará con créditos del presupuesto financiero del Estado y cuyo régimen de vinculación y de variaciones se establecerá en Ley de presupuestos. Los estatutos de la Agencia deberán garantizar que todas sus funciones de financiación y fomento de la investigación se desarrollen de acuerdo con el modelo de los programas de investigación europeos, estrictamente competitivos y sometidos exclusivamente a criterios de evaluación científica y técnica de acuerdo con lo establecido en el artículo 5 de la Ley de la Ciencia, la Tecnología y la Innovación.
+
+La creación de esta Agencia no podrá suponer, en ningún caso, incremento neto de estructura o de personal, dotándose, exclusivamente, mediante la correspondiente redistribución de efectivos, y su funcionamiento tendrá que realizarse con los medios materiales de que dispone actualmente la Administración.

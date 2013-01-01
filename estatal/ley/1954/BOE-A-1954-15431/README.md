@@ -164,6 +164,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo ciento veintiséis](acientoveintiseis.md)
 - [Artículo ciento veintisiete](acientoveintisiete.md)
 - [Artículo ciento veintiocho](acientoveintiocho.md)
+- [Disposición adicional](da.md)
 - [Disposición final primera](primera.md)
 - [Disposición final segunda](segunda.md)
 - [Disposición final tercera](tercera.md)

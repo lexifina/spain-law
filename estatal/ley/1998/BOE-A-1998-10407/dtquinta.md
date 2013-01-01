@@ -1,13 +1,15 @@
-## Disposición transitoria quinta. Transmisión de las concesiones administrativas existentes.
+## Disposición transitoria quinta. Transmisión y vigencia de las concesiones administrativas existentes con anterioridad a 1 de enero de 2013.
 
-Las concesiones administrativas existentes a la entrada en vigor de esta Ley pueden transmitirse a cualquier persona física que reúna los requisitos exigidos para ser concesionarios, previa autorización del Comisionado para el Mercado de Tabacos.
+Todas aquellas concesiones existentes que con anterioridad a 1 de enero de 2013 tuvieran un plazo de vigencia inferior a veinticinco años, por haber sido transmitidas en aplicación de lo dispuesto en el artículo 21 de la Ley 24/2005, de 18 de noviembre, de reformas para el impulso de la productividad, prorrogarán su vigencia otros cinco años más a contar desde el día de su extinción.
 
-Las concesiones administrativas existentes cuyo titular sea una persona jurídico privada tendrán una vigencia de veinticinco años desde la entrada en vigor de la presente Ley.
+Asimismo, todas aquellas concesiones existentes con anterioridad a 1 de enero de 2013 sin plazo de vigencia limitada, por no haber sido objeto de transmisión al amparo de la autorización concedida en el artículo 21 de la Ley 24/2005, de 18 de noviembre, de reformas para el impulso de la productividad, tendrán una vigencia temporal de 30 años a contar desde la fecha de la primera transmisión que se produzca a partir de 1 de enero de 2013.
 
-Las concesiones transmitidas desde la entrada en vigor de esta Ley tendrán una vigencia temporal de veinticinco años, a contar desde la fecha de la primera transmisión que se produzca desde la entrada en vigor de esta Ley. Dentro de este plazo, las expendedurías pueden ser objeto de otras transmisiones con los requisitos señalados en el primer párrafo de esta disposición.
+Vencido el plazo de treinta años, en ambos casos referidos en los dos párrafos anteriores las nuevas concesiones de expendeduría se convocarán, en su caso, mediante el procedimiento de subasta. Hasta la nueva adjudicación, el anterior concesionario podrá seguir prestando el servicio previa autorización del Comisionado para el Mercado de Tabacos.
 
-Vencido el plazo de veinticinco años se convocará concurso para nueva concesión de expendeduría en dicha área. En el nuevo concurso se valorarán de forma significativa los méritos del anterior concesionario y la calidad del servicio prestado, según desarrollo reglamentario. Hasta la nueva adjudicación, el anterior concesionario podrá seguir prestando el servicio previa autorización del Comisionado para el Mercado de Tabacos.
+No podrán solicitar la transmisión ni participar en subastas aquellos titulares de expendedurías que hayan sido sancionados por una infracción muy grave en los últimos cinco años, o dos graves en los últimos tres años, siempre que sean firmes.
 
-No podrán solicitar la transmisión ni participar en concursos aquellos titulares de expendedurías que hayan sido sancionados por una infracción muy grave en los últimos cinco años, o dos graves en los últimos tres años, siempre que sean firmes.»
+Las concesiones administrativas existentes cuyo titular sea una persona jurídico privada tendrán una vigencia de treinta años desde el 19 de noviembre de 2005.
+
+> Se modifica por la disposición final.8.4 de la ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
 
 > Se añade por el art. 21 de la Ley 24/2005, de 18 de noviembre.Ref. BOE-A-2005-19005

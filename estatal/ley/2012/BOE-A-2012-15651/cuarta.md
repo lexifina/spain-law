@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Extracoste de generación de energía eléctrica insular y extrapeninsular.
+
+Durante el ejercicio 2013, queda en suspenso la aplicación del mecanismo de compensación con cargo a los Presupuestos Generales del Estado establecido en la disposición adicional primera del Real Decreto-Ley 6/2009, de 30 de abril, por el que se adoptan determinadas medidas en el sector energético y se aprueba el bono social, sin que se genere derecho alguno ni proceda realizar compensación con cargo a los Presupuestos del ejercicio 2013 como consecuencia de los extracostes de generación eléctrica de los sistemas insulares y extrapeninsulares correspondientes al ejercicio 2012.

@@ -53,6 +53,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional trigésima quinta](datrigesimaquinta.md)
 - [Disposición adicional trigésima sexta](datrigesimasexta.md)
 - [Disposición adicional trigésima séptima](datrigesimaseptima.md)
+- [Disposición adicional trigésima octava](datrigesimaoctava.md)
 - [Disposición adicional trigésima novena](datrigesimanovena.md)
 - [Disposición adicional cuadragésima](dacuadragesima.md)
 - [Disposición adicional cuadragésima primera](dacuadragesimaprimera.md)
@@ -78,4 +79,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición final octava](dfoctava.md)
 - [Disposición final novena](dfnovena.md)
 - [Disposición final undécima](dfundecima.md)
+- [Disposición final duodécima](dfduodecima.md)
 - [firma](firma.md)

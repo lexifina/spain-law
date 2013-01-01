@@ -1,6 +1,8 @@
 ## Disposición final segunda.
 
-La presente ley entrará en vigor a partir del 1 de enero de 2013.
+La presente ley entrará en vigor a partir del 1 de enero de 2014.
+
+> Se modifica por la disposición final 18 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
 
 > Se modifica por la disposición final 11 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
 

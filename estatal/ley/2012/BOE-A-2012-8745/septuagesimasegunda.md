@@ -1,15 +1,5 @@
 ## Disposición adicional septuagésima segunda. Subvenciones al transporte marítimo y aéreo para residentes en Canarias, Baleares, Ceuta y Melilla.
 
-Uno. Se autoriza al Gobierno de la Nación para que, durante el año 2012, modifique o en su caso, reemplace el actual régimen de las subvenciones al transporte aéreo y marítimo para residentes en las Islas Canarias, Baleares, Ceuta y Melilla, por otro sistema de compensación. Dicha modificación nunca podrá suponer una disminución de la ayuda prestada o un deterioro en la calidad del servicio, ni incremento de los créditos asignados a esta finalidad.
+(Derogada)
 
-Por tiempo indefinido hasta tanto el Gobierno de la Nación modifique o reemplace el actual régimen de subvenciones al transporte marítimo regular de pasajeros, conforme a lo previsto en el párrafo anterior, se bonificarán las cuantías de los billetes sobre las tarifas, que deberán ser previamente comunicadas a la Dirección General de la Marina Mercante, excepto la diferencia respecto de las tarifas de butaca de clase superior o camarote ocupado por una sola persona.
-
-Dos. A partir del 1 de septiembre y con efectos indefinidos, la condición de residente en las Islas Canarias, Islas Baleares y en Ceuta y Melilla, a los efectos de obtención de la bonificación al transporte regular de pasajeros, marítimo y aéreo, se acreditará mediante el certificado de empadronamiento en vigor.
-
-Reglamentariamente podrán establecerse otros medios para la acreditación de la condición de residente, en sustitución del previsto en este apartado o como adicionales de éste.
-
-Los órganos gestores de la bonificación del Ministerio de Fomento podrán acceder a los servicios de verificación y consulta de datos de residencia de la Plataforma de Intermediación del Ministerio de Hacienda y Administraciones Públicas con el fin de comprobar el cumplimiento de los requisitos para ser beneficiarios de la subvención, en base a lo previsto en la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, y el Real Decreto 523/2006, de 28 de abril, por el que se suprime la exigencia de aportar el certificado de empadronamiento, como documento probatorio del domicilio y residencia, en los procedimientos administrativos de la Administración General del Estado y de sus organismos públicos vinculados o dependientes, con las garantías previstas en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y en la Ley 58/2003, de 17 de diciembre, Ley General Tributaria.
-
-Los órganos gestores podrán facilitar por vía telemática a las agencias, las compañías aéreas o marítimas o sus delegaciones, que comercialicen los títulos de transporte bonificados, la confirmación del cumplimiento de los requisitos para ser beneficiario de la subvención.
-
-Tres. En todo caso, para las Comunidades de Canarias y de Baleares se estará a lo regulado en el artículo 6 de la Ley 19/1994, de 6 de junio de Modificación del Régimen Económico y Fiscal de Canarias, así como en el artículo 5 de la Ley 30/1998, de 29 de Julio del Régimen Especial de las islas Baleares.
+> Se deroga por la disposición derogatoria 4 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.

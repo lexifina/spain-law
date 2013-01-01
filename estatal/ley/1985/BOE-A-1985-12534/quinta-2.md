@@ -2,7 +2,9 @@
 
 En los diez años siguientes a la entrada en vigor de esta Ley, lo dispuesto en el artículo 28.1 de la misma se entenderá referido a los bienes muebles integrantes del Patrimonio Histórico Español en posesión de las instituciones eclesiásticas.
 
-> Atención: el plazo de diez años se prorroga hasta el 1 de enero de 2013.
+> Téngase en cuenta que el plazo indicado se prorroga hasta el 1 de enero de 2014, según establece la disposición adicional 8 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+
+> Se prorroga el plazo por un año a partir del 1 de enero de 2013 por la disposición adicional 8 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
 
 > Se prorroga el plazo por un año a partir del 1 de enero de 2012 por la disposición adicional 8 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638.
 

@@ -14,9 +14,9 @@ c) El reconocimiento y homologación de locales y almacenes con ocasión del cam
 
 ## 2. Sujetos pasivos:
 
-Serán sujetos pasivos:
+2. Serán sujetos pasivos:
 
-a) Los solicitantes que concurran a los concursos para la adjudicación de expendedurías de tabaco y timbre.
+a) Los solicitantes que concurran a las subastas para la adjudicación de expendedurías de tabaco y timbre.
 
 b) Las personas físicas y jurídicas a cuyo favor se otorguen las autorizaciones de venta con recargo o sus renovaciones.
 
@@ -50,7 +50,7 @@ Clase 2. Revisión de instalaciones en caso de transmisión de titularidad que n
 
 ## 4. Devengo:
 
-Las tasas se devengarán, según los casos, en el momento de depositar las instancias para el concurso de concesión de expendedurías, de acordarse la autorización o renovación de la actividad de venta con recargo o de dictarse el acto de homologación de las instalaciones.
+Las tasas se devengarán, según los casos, en el momento de depositar las instancias para la subasta de concesión de expendedurías, de acordarse la autorización o renovación de la actividad de venta con recargo o de dictarse el acto de homologación de las instalaciones.
 
 ## 5. Destino:
 
@@ -67,6 +67,8 @@ La cuantía de las tarifas previstas en esta Ley podrá ser modificada por las L
 ## 8. Normativa supletoria:
 
 Serán de aplicación a la tasa, en todo lo no previsto en la presente Ley, los preceptos de la Ley 230/1963, de 28 de diciembre, General Tributaria, y de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, que resulten procedentes.
+
+> Se modifican los apartados 2 y 4 por la disposición final 8.5 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
 
 > Se modifican los apartados 1 a 4 por el art. 43 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725
 
