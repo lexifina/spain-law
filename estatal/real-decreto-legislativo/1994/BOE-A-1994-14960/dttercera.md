@@ -4,7 +4,7 @@
 
 1ª. Las disposiciones de aplicación y desarrollo de la presente Ley regularán las posibilidades de opción, así como los derechos que, en su caso, puedan reconocerse en el Régimen General a aquellos trabajadores que, con anterioridad a 1 de enero de 1967, estuvieran comprendidos en el campo de aplicación del Seguro de Vejez e Invalidez, pero no en el Mutualismo Laboral, o viceversa.
 
-2ª. Quienes tuvieran la condición de mutualista el 1 de enero de 1967 podrán causar el derecho a la pensión de jubilación a partir de los sesenta años. En tal caso, la cuantía de la pensión se reducirá en un 8 por ciento por cada año o fracción de año que, en el momento del hecho causante, le falte al trabajador para cumplir la edad que se fija en el apartado 1.a) del artículo 161.
+2ª. Quienes tuvieran la condición de mutualista el 1 de enero de 1967 podrán causar el derecho a la pensión de jubilación a partir de los 60 años. En tal caso, la cuantía de la pensión se reducirá en un 8 por 100 por cada año o fracción de año que, en el momento del hecho causante, le falte al trabajador para cumplir la edad de 65 años.
 
 En los supuestos de trabajadores que, cumpliendo los requisitos señalados en el apartado anterior, y acreditando treinta o más años de cotización, soliciten la jubilación anticipada derivada del cese en el trabajo como consecuencia de la extinción del contrato de trabajo, en virtud de causa no imputable a la libre voluntad del trabajador, el porcentaje de reducción de la cuantía de la pensión a que se refiere el párrafo anterior será, en función de los años de cotización acreditados, el siguiente:
 
@@ -27,6 +27,8 @@ Asimismo, para el cómputo de los años de cotización se tomarán años complet
 El derecho establecido en el párrafo anterior también alcanzará a aquellos trabajadores comprendidos en planes de reconversión ya aprobados a la entrada en vigor de la Ley 26/1985, de 31 de julio, de acuerdo con las normas citadas en dicho párrafo, aunque aún no tengan solicitada individualmente la ayuda equivalente a jubilación anticipada.
 
 4. Los trabajadores que, reuniendo todos los requisitos para obtener el reconocimiento del derecho a la pensión de jubilación en la fecha de entrada en vigor de la Ley de Consolidación y Racionalización del Sistema de Seguridad Social no lo hubieran ejercitado, podrán optar por acogerse a la legislación anterior para obtener la pensión en las condiciones y cuantía a que hubiesen tenido derecho el día anterior al de entrada en vigor de dicha Ley.
+
+> Se modifica la norma 2ª del apartado 1 por el art. 5.2 de la Ley 27/2011, de 1 de agosto. Ref. BOE-A-2011-13242.
 
 > Se modifica la norma 2ª del apartado 1 por el art. 3.5 de la Ley 40/2007, de 4 de diciembre. Ref. BOE-A-2007-20910.
 

@@ -1,0 +1,3 @@
+## Disposición adicional cuadragésima octava. Profesionales sanitarios.
+
+El Ministerio de Trabajo e Inmigración regulará el encuadramiento en la Seguridad Social de las actividades de los profesionales sanitarios, no incluidos en el Estatuto Marco de Personal Estatutario, aprobado por Ley 55/2003, de 16 de diciembre, con la finalidad de dar un tratamiento homogéneo, en este ámbito, al personal sanitario incluido y no incluido en dicho Estatuto, todo ello sin perjuicio de las consecuencias inherentes a la naturaleza de la relación, laboral o mercantil, del profesional con las empresas o entidades para las que preste servicios.

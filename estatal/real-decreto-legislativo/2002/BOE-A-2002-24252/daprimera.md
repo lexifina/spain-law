@@ -1,6 +1,6 @@
 ## Disposición adicional primera. Protección de los compromisos por pensiones con los trabajadores.
 
-Los compromisos por pensiones asumidos por las empresas, incluyendo las prestaciones causadas, deberán instrumentarse, desde el momento en que se inicie el devengo de su coste, mediante contratos de seguros, incluidos los planes de previsión social empresariales, a través de la formalización de un plan de pensiones o varios de estos instrumentos. Una vez instrumentados, la obligación y responsabilidad de las empresas por los referidos compromisos por pensiones se circunscribirán exclusivamente a las asumidas en dichos contratos de seguros y planes de pensiones.
+Los compromisos por pensiones asumidos por las empresas, incluyendo las prestaciones causadas, deberán instrumentarse, desde el momento en que se inicie el devengo de su coste, mediante contratos de seguros, incluidos los planes de previsión social empresariales y los seguros colectivos de dependencia, a través de la formalización de un plan de pensiones o varios de estos instrumentos. Una vez instrumentados, la obligación y responsabilidad de las empresas por los referidos compromisos por pensiones se circunscribirán exclusivamente a las asumidas en dichos contratos de seguros y planes de pensiones.
 
 A estos efectos, se entenderán por compromisos por pensiones los derivados de obligaciones legales o contractuales del empresario con el personal de la empresa y vinculados a las contingencias establecidas en el apartado 6 del artículo 8. Tales pensiones podrán revestir las formas establecidas en el apartado 5 del artículo 8 y comprenderán toda prestación que se destine a la cobertura de tales compromisos, cualquiera que sea su denominación.
 
@@ -8,7 +8,7 @@ Tienen la consideración de empresas no sólo las personas físicas y jurídicas
 
 Para que los contratos de seguro puedan servir a la finalidad referida en el párrafo primero habrán de satisfacer los siguientes requisitos:
 
-a) Revestir la forma de seguro colectivo sobre la vida o plan de previsión social empresarial, en los que la condición de asegurado corresponderá al trabajador y la de beneficiario a las personas en cuyo favor se generen las pensiones según los compromisos asumidos.
+a) Revestir la forma de seguro colectivo sobre la vida o plan de previsión social empresarial o seguro colectivo de dependencia, en los que la condición de asegurado corresponderá al trabajador y la de beneficiario a las personas en cuyo favor se generen las pensiones según los compromisos asumidos.
 
 b) En dichos contratos no será de aplicación lo dispuesto en los artículos 97 y 99 de la Ley de Contrato de Seguro.
 
@@ -27,5 +27,9 @@ Reglamentariamente se fijarán las condiciones que han de cumplir los contratos 
 La efectividad de los compromisos por pensiones y del cobro de las prestaciones causadas quedarán condicionados a su formalización en los instrumentos referidos en el párrafo primero. En todo caso, el incumplimiento por la empresa de la obligación de instrumentar los compromisos por pensiones asumidos constituirá infracción en materia laboral de carácter muy grave, en los términos prevenidos en el Texto Refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto.
 
 En ningún caso resultará admisible la cobertura de tales compromisos mediante la dotación por el empresario de fondos internos, o instrumentos similares, que supongan el mantenimiento por parte de éste de la titularidad de los recursos constituidos.
+
+> Se modifica por la disposición final 4 de la Ley 24/2011, de 1 de agosto. Ref. BOE-A-2011-13242.
+
+> Téngase en cuenta lo establecido por la disposición final 12.2.
 
 > Se modifica por la disposición final 5.5 de la Ley 35/2006, de 28 de noviembre. Ref. BOE-A-2006-20764

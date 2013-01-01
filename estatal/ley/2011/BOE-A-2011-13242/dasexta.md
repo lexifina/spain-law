@@ -1,0 +1,17 @@
+## Disposición adicional sexta. Convenio especial a suscribir en expedientes de regulación de empleo.
+
+Uno. Se da una nueva redacción a los apartados 1 y 2 de la disposición adicional trigésima primera del Texto Refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, en los siguientes términos:
+
+«1. En el convenio especial a que se refiere el artículo 51.15 del Texto Refundido de la Ley del Estatuto de los Trabajadores, las cotizaciones abarcarán el periodo comprendido entre la fecha en que se produzca el cese en el trabajo o, en su caso, en que cese la obligación de cotizar por extinción de la prestación por desempleo contributivo, y la fecha en la que el trabajador cumpla la edad a que se refiere la letra a) del apartado 1 del artículo 161, en los términos establecidos en los apartados siguientes.
+
+2. A tal efecto, las cotizaciones por el referido periodo se determinarán aplicando al promedio de las bases de cotización del trabajador, en los últimos 6 meses de ocupación cotizada, el tipo de cotización previsto en la normativa reguladora del convenio especial. De la cantidad resultante se deducirá la cotización, a cargo del Servicio Público de Empleo Estatal, correspondiente al periodo en el que el trabajador pueda tener derecho a la percepción del subsidio de desempleo, cuando corresponda cotizar por la contingencia de jubilación, calculándola en función de la base y tipo aplicable en la fecha de suscripción del convenio especial.
+
+Las cotizaciones correspondientes al convenio serán a cargo del empresario hasta la fecha en que el trabajador cumpla los 63 años, salvo en los casos de expedientes de regulación de empleo por causas económicas, en los que dicha obligación se extenderá hasta el cumplimiento, por parte del trabajador, de los 61 años.
+
+Dichas cotizaciones se ingresarán en la Tesorería General de la Seguridad Social, bien de una sola vez, dentro del mes siguiente al de la notificación por parte del citado Servicio Común de la cantidad a ingresar, bien de manera fraccionada garantizando el importe pendiente mediante aval solidario o a través de la sustitución del empresario en el cumplimiento de la obligación por parte de una entidad financiera o aseguradora, previo consentimiento de la Tesorería General de la Seguridad Social, en los términos que establezca el Ministerio de Trabajo e Inmigración.
+
+A partir del cumplimiento por parte del trabajador de la edad de 63 o, en su caso, 61 años, las aportaciones al convenio especial serán obligatorias y a su exclusivo cargo, debiendo ser ingresadas, en los términos previstos en la normativa reguladora del convenio especial, hasta el cumplimiento de la edad a que se refiere la letra a) del apartado 1 del artículo 161 o hasta la fecha en que, en su caso, acceda a la pensión de jubilación anticipada, sin perjuicio de lo previsto en el apartado 4.»
+
+Dos. Se modifica el artículo 23 del Real Decreto Legislativo 5/2000, de 4 de agosto, Texto Refundido de la Ley de Infracciones y Sanciones en el Orden Social, introduciendo un nuevo tipo en el apartado 1, con la letra i), con el siguiente redactado:
+
+«i) Incumplir la obligación de suscribir el convenio especial en los supuestos establecidos en el artículo 51.15 del Estatuto de los Trabajadores para los supuestos de expedientes de regulación de empleo de empresas no incursas en procedimiento concursal.»

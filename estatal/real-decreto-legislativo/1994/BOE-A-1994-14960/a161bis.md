@@ -8,29 +8,53 @@ La aplicación de los correspondientes coeficientes reductores de la edad en nin
 
 Los coeficientes reductores de la edad de jubilación no serán tenidos en cuenta, en ningún caso, a efectos de acreditar la exigida para acceder a la jubilación parcial, a los beneficios establecidos en el apartado 2 del artículo 163, a la jubilación regulada en la norma 2.ª del apartado 1 de la disposición transitoria tercera y a cualquier otra modalidad de jubilación anticipada.
 
-2. Podrán acceder a la jubilación anticipada, los trabajadores que reúnan los siguientes requisitos:
+2. Se establecen dos modalidades de acceso a la jubilación anticipada, la que deriva del cese en el trabajo por causa no imputable al trabajador y la que deriva de la voluntad del interesado, para las cuales se exigen los siguientes requisitos:
 
-a) Tener cumplidos los sesenta y un años de edad, sin que a estos efectos resulten de aplicación los coeficientes reductores a que se refiere el apartado anterior.
+A) Respecto de la derivada del cese en el trabajo por causa no imputable a la libre voluntad del trabajador.
 
-b) Encontrarse inscritos en las oficinas de empleo como demandantes de empleo durante un plazo de, al menos, seis meses inmediatamente anteriores a la fecha de solicitud de la jubilación.
+a) Tener cumplidos los 61 años de edad, sin que a estos efectos resulten de aplicación los coeficientes reductores a que se refiere el apartado anterior.
 
-c) Acreditar un período mínimo de cotización efectiva de treinta años, sin que, a tales efectos, se tenga en cuenta la parte proporcional por pagas extraordinarias. A estos exclusivos efectos, se computará como cotizado a la Seguridad Social, el período de prestación del servicio militar obligatorio o de la prestación social sustitutoria, con el límite máximo de un año.
+b) Encontrarse inscritos en las oficinas de empleo como demandantes de empleo durante un plazo de, al menos, 6 meses inmediatamente anteriores a la fecha de la solicitud de la jubilación.
 
-d) Que el cese en el trabajo, como consecuencia de la extinción del contrato de trabajo, no se haya producido por causa imputable a la libre voluntad del trabajador. A tales efectos, se entenderá por libre voluntad del trabajador la inequívoca manifestación de voluntad de quien, pudiendo continuar su relación laboral y no existiendo razón objetiva que la impida, decide poner fin a la misma. Se considerará, en todo caso, que el cese en la relación laboral se produjo de forma involuntaria cuando la extinción se haya producido por alguna de las causas previstas en el artículo 208.1.1.
+c) Acreditar un período mínimo de cotización efectiva de 33 años, sin que, a tales efectos, se tenga en cuenta la parte proporcional por pagas extraordinarias. A estos exclusivos efectos, se computará como cotizado a la Seguridad Social el período de prestación del servicio militar obligatorio o de la prestación social sustitutoria, con el límite máximo de un año.
 
-Los requisitos exigidos en los apartados b) y d) no serán exigibles en aquellos supuestos en los que el empresario, en virtud de obligación adquirida mediante acuerdo colectivo o contrato individual de prejubilación, haya abonado al trabajador tras la extinción del contrato de trabajo, y en los dos años inmediatamente anteriores a la solicitud de jubilación anticipada, una cantidad que, en cómputo global, represente un importe mensual no inferior al resultado de sumar la cantidad que le hubiera correspondido en concepto de prestación por desempleo y la cuota que hubiera abonado o, en su caso, la cuota de mayor cuantía que hubiera podido abonar en concepto de convenio especial con la Seguridad Social.
+d) Que el cese en el trabajo se haya producido como consecuencia de una situación de crisis o cierre de la empresa que impida objetivamente la continuidad de la relación laboral. A estos efectos, las causas de extinción del contrato de trabajo que podrán dar derecho al acceso a esta modalidad de jubilación anticipada serán las siguientes:
 
-En los casos de acceso a la jubilación anticipada a que se refiere este apartado, la pensión será objeto de reducción mediante la aplicación, por cada año o fracción de año que, en el momento del hecho causante, le falte al trabajador para cumplir los sesenta y cinco años, de los siguientes coeficientes:
+a. El despido colectivo por causas económicas autorizado por la autoridad laboral, conforme al artículo 51 del Estatuto de los Trabajadores.
 
-1.º Entre treinta y treinta y cuatro años de cotización acreditados: 7,5 por ciento.
+b. El despido objetivo por causas económicas, conforme al artículo 52.c) del Estatuto de los Trabajadores.
 
-2.º Entre treinta y cinco y treinta y siete años de cotización acreditados: 7 por ciento.
+c. La extinción del contrato por resolución judicial, conforme al artículo 64 de la Ley 22/2003, de 9 de julio, Concursal.
 
-3.º Entre treinta y ocho y treinta y nueve años de cotización acreditados: 6,5 por ciento.
+d. La muerte, jubilación o incapacidad del empresario individual, sin perjuicio de lo dispuesto en el artículo 44 del Estatuto de los Trabajadores, o la extinción de la personalidad jurídica del contratante.
 
-4.º Con cuarenta o más años de cotización acreditados: 6 por ciento.
+e. La extinción del contrato de trabajo motivada por la existencia de fuerza mayor.
 
-Para el cómputo de los años de cotización se tomarán años completos, sin que se equipare a un año la fracción del mismo.
+La extinción de la relación laboral de la mujer trabajadora como consecuencia de ser víctima de la violencia de género dará acceso a esta modalidad de jubilación anticipada.
+
+En los casos de acceso a la jubilación anticipada a que se refiere este apartado A), la pensión será objeto de reducción mediante la aplicación, por cada trimestre o fracción de trimestre que, en el momento del hecho causante, le falte al trabajador para cumplir la edad legal de jubilación que en cada caso resulte de la aplicación de lo establecido en la letra a) del apartado 1 del artículo 161, de un coeficiente del 1,875 por 100 por trimestre para los trabajadores con menos de 38 años y 6 meses cotizados, y del 1,625 por 100 por trimestre para los trabajadores con 38 años y 6 meses cotizados o más.
+
+A los efectos de determinar dicha edad legal de jubilación se considerarán cotizados los años que le resten al interesado desde la fecha del hecho causante hasta el cumplimiento de la edad que le corresponda.
+
+Para el cómputo de los periodos de cotización se tomarán periodos completos, sin que se equipare a un periodo la fracción del mismo.
+
+B) Respecto del acceso anticipado a la jubilación por voluntad del interesado:
+
+a) Tener cumplidos los 63 años de edad, sin que a estos efectos resulten de aplicación los coeficientes reductores a que se refiere el apartado anterior.
+
+b) Acreditar un período mínimo de cotización efectiva de 33 años, sin que, a tales efectos, se tenga en cuenta la parte proporcional por pagas extraordinarias. A estos exclusivos efectos, se computará como cotizado a la Seguridad Social el período de prestación del servicio militar obligatorio o de la prestación social sustitutoria, con el límite máximo de un año.
+
+c) Una vez acreditados los requisitos generales y específicos de dicha modalidad de jubilación, el importe de la pensión ha de resultar superior a la cuantía de la pensión mínima que correspondería al interesado por su situación familiar al cumplimiento de los 65 años de edad. En caso contrario, no se podrá acceder a esta fórmula de jubilación anticipada.
+
+En los casos de acceso a la jubilación anticipada a que se refiere este apartado B), la pensión será objeto de reducción mediante la aplicación, por cada trimestre o fracción de trimestre que, en el momento del hecho causante, le falte al trabajador para cumplir la edad legal de jubilación que en cada caso resulte de la aplicación de lo establecido en la letra a) del apartado 1 del artículo 161, de un coeficiente del 1,875 por 100 por trimestre, para los trabajadores con menos de 38 años y 6 meses cotizados, y del 1,625 por 100 por trimestre para los trabajadores con 38 años y 6 meses cotizados o más.
+
+A los efectos de determinar dicha edad legal de jubilación se considerarán cotizados los años que le resten al interesado desde la fecha del hecho causante hasta el cumplimiento de la edad que le corresponda.
+
+Para el cómputo de los periodos de cotización se tomarán periodos completos, sin que se equipare a un periodo la fracción del mismo.
+
+> Se modifica el apartado 2 por el art. 5.1 de la Ley 27/2011, de 1 de agosto. Ref. BOE-A-2011-13242.
+
+> Téngase en cuenta que la aplicación de esta modificación se suspende durante tres meses por la disposición adicional 1 del Real Decreto-ley 29/2012, de 28 de diciembre. Ref. BOE-A-2012-15764.
 
 > Se añade por el art. 3.3 de la Ley 40/2007, de 4 de diciembre. Ref. BOE-A-2007-20910.
 

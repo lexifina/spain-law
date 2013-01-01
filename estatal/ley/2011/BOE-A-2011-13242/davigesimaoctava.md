@@ -1,0 +1,3 @@
+## Disposición adicional vigésima octava. Cómputo, a efectos de Seguridad Social, del periodo de servicio militar obligatorio o de prestación social sustitutoria.
+
+El Gobierno presentará, en el plazo de un año, un proyecto de ley que establezca un sistema de compensación a la Seguridad Social para que por ésta pueda reconocerse, a favor de las personas interesadas, un periodo de asimilación del tiempo de servicio militar obligatorio o de prestación social sustitutoria que compense la interrupción de las carreras de cotización ocasionada por tales circunstancias, acorde con los incrementos que, en el ámbito de la contributividad, se producen en esta Ley, y con la sostenibilidad del sistema.
