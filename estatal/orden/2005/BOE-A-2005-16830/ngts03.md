@@ -116,13 +116,13 @@ Diariamente, los usuarios proporcionarán a los operadores de las plantas de reg
 
 El Gestor Técnico del Sistema determinará diariamente y de forma global para el conjunto de las plantas, las existencias de GNL de cada usuario, calculadas como la media móvil de treinta días (incluyendo el día actual). Se entenderá como un mismo usuario al conjunto de usuarios que pertenezcan a un mismo grupo empresarial.
 
-En el caso de que dicho valor supere la energía equivalente a diez veces la capacidad de regasificación contratada, el Gestor Técnico del Sistema aplicará diariamente a las existencias de dicho usuario que superen el límite anterior, el siguiente cargo diario:
+En el caso de que dicho valor supere la energía equivalente a trece veces la capacidad de regasificación contratada, el Gestor Técnico del Sistema aplicará diariamente a las existencias de dicho usuario que superen el límite anterior, el siguiente cargo diario:
 
-• Exceso inferior o igual a cuatro días: Dos veces y medio el canon de almacenamiento de GNL en vigor.
+– Exceso inferior o igual a cuatro días: Dos veces y medio el canon de almacenamiento de GNL en vigor.
 
-• Exceso superior a cuatro días: Diez veces el canon de almacenamiento de GNL en vigor.
+– Exceso superior a cuatro días: Diez veces el canon de almacenamiento de GNL en vigor.
 
-Para aquellos usuarios para los que la energía equivalente a 10 días de la capacidad de regasificación contratada sea inferior a 300 GWh, se empleará este último valor como límite, siempre que el exceso de existencias sobre los 10 días de capacidad contratada, hasta alcanzar el límite de los 300 GWh, esté destinado al consumo propio o de sus clientes.
+Para aquellos usuarios para los que la energía equivalente a trece días de la capacidad de regasificación contratada sea inferior a 300 GWh, se empleará este último valor como límite.
 
 Estos pagos serán adicionales al canon diario de almacenamiento de GNL facturado por el titular de la planta de regasificación y tendrán la consideración de ingresos liquidables del sistema.
 
@@ -139,6 +139,8 @@ Con independencia de lo anterior, toda programación de descarga de buques estar
 • Cantidad de gas a descargar.
 
 • Ventanas libres de descarga si las hubiera, indicando para cada mes los días concretos en los que podrían haber posibilidad de descarga de nuevos buques y posibles tamaños admisibles.
+
+> Se modifica el apartado 3.6.1 por la disposición final 1 de la Orden IET/2812/2012, de 27 de diciembre. Ref. BOE-A-2012-15767#dfprimera.
 
 > Se modifica el apartado 3.6 por el apartado segundo de la Resolución de 29 de marzo de 2012. Ref. BOE-A-2012-5407.
 
