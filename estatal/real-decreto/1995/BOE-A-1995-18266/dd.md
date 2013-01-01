@@ -12,12 +12,6 @@ d) El Reglamento provisional de los Impuestos Especiales de Fabricación, aproba
 
 e) Cuantas otras normas de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto y en su anexo.
 
-2. Salvo en aquellos aspectos en que se opongan a lo dispuesto en el presente Real Decreto y en su anexo, mantendrán su vigencia, en particular, las siguientes disposiciones:
+2. Salvo en aquellos aspectos en que se oponga a lo dispuesto en el presente Real Decreto y en su anexo, mantendrá su vigencia la Orden de 28 de noviembre de 1988, por la que se regula el procedimiento y requisitos para obtener la homologación de los vehículos de exclusiva aplicación industrial, comercial, agraria, clínica o científica, en la que las referencias al Impuesto sobre el Valor Añadido deberán entenderse hechas al Impuesto Especial sobre Determinados Medios de Transporte.
 
-a) La Orden de 27 de febrero de 1987 y la Orden de 28 de noviembre de 1988, ambas del Ministro de Economía y Hacienda, reguladoras del procedimiento y requisitos para obtener la homologación de los vehículos tipo «jeep» o todo terreno y de los vehículos de exclusiva aplicación industrial, comercial, agraria, clínica o científica, en las que las referencias al Impuesto sobre el Valor Añadido deberán entenderse hechas al Impuesto Especial sobre Determinados Medios de Transporte.
-
-b) La Orden del Ministro de Economía y Hacienda de 12 de julio de 1993 por la que se establecen diversas normas de gestión en relación con los impuestos especiales de fabricación.
-
-c) La Orden del Ministro de la Presidencia de 15 de octubre de 1993 por la que se aprueban los trazadores y marcadores que deben incorporarse a determinados hidrocarburos para la aplicación de los tipos reducidos establecidos en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
-
-d) Las Ordenes del Ministro de Economía y Hacienda de 29 de diciembre de 1992, de 30 de diciembre de 1992 y de 31 de diciembre de 1994, por las que se aprueban diversos modelos en relación con el Impuesto Especial sobre Determinados Medios de Transporte.
+> Se modifica el apartado 2 por la disposición final 1 del Real Decreto 1715/2012, de 28 de diciembre. Ref. BOE-A-2012-15700.

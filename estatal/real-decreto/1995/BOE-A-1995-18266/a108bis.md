@@ -40,7 +40,9 @@ c) Lo dispuesto en los párrafos a) y b) se entiende sin perjuicio de los casos 
 
 El producto resultante de la mezcla citada en el párrafo anterior tendrá, a efectos fiscales, la consideración del carburante convencional que se le haya adicionado, sin perjuicio de la aplicación del tipo especial a la parte de aquél correspondiente al alcohol etílico (bioetanol).
 
-8. Cuando, con motivo de los resultados de análisis u otras pruebas practicadas, en su caso, se ponga de manifiesto que el porcentaje de biocarburante tenido e cuenta en las declaraciones-liquidaciones correspondientes fue incorrecto, la diferencia se incluirá en la contabilidad establecimiento, así como en la declaración-liquidación correspondiente, en el periodo en que la citada incorrección haya sido comprobada.
+8. Cuando, con motivo de los resultados de análisis u otras pruebas practicadas por el interesado, en su caso, se ponga de manifiesto que el porcentaje de biocarburante tenido en cuenta en las declaraciones-liquidaciones correspondientes fue incorrecto, la diferencia se incluirá en la contabilidad del establecimiento, así como en la declaración-liquidación correspondiente, en el período en que la citada incorrección haya sido comprobada.
+
+> Se modifica por el art. único.73 del Real Decreto 1715/2012, de 28 de diciembre. Ref. BOE-A-2012-15700.
 
 > Se modifica por el art. único.77 del Real Decreto 191/2010, de 26 de febrero. Ref. BOE-A-2010-3369
 
