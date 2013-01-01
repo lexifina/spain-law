@@ -174,6 +174,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [TÍTULO VI](tvi.md)
 - [Artículo 111 bis](a111bis.md)
 - [Artículo 112](a112.md)
+- [Artículo 112 bis](a112bis.md)
 - [Artículo 113](a113.md)
 - [Artículo 114](a114.md)
 - [Artículo 115](a115.md)

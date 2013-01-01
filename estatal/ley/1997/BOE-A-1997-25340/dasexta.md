@@ -46,7 +46,7 @@ f) Normas de gestión: Mediante Orden ministerial se aprobará el modelo de auto
 
 La tasa correspondiente a la recaudación del penúltimo mes anterior se ingresará mediante autoliquidación a efectuar por el sujeto pasivo sustituto del contribuyente antes del día 10 de cada mes o, en su caso, del día hábil inmediatamente posterior.
 
-No obstante, cuando se trate de sujetos pasivos sustitutos del contribuyente en los que concurran las circunstancias a que se refiere el apartado 3.1 del artículo 71 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por Real Decreto 1624/1992, de 29 de diciembre, el ingreso de las tasas devengadas durante cada uno de los trimestres naturales del año se hará efectivo, respectivamente, antes del día 10 de los meses de mayo, septiembre, noviembre y febrero o, en su caso, del día hábil inmediatamente posterior.
+No obstante, cuando se trate de sujetos pasivos sustitutos del contribuyente en los que no concurran las circunstancias a que se refiere el apartado 3.1 del artículo 71 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por Real Decreto 1624/1992, de 29 de diciembre, el ingreso de las tasas devengadas durante cada uno de los trimestres naturales del año se hará efectivo, respectivamente, antes del día 10 de los meses de mayo, septiembre, noviembre y febrero o, en su caso, del día hábil inmediatamente posterior.
 
 La recaudación de la tasa se hará efectiva a través de las entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria al amparo de lo dispuesto en el artículo 9 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio.
 
@@ -206,6 +206,8 @@ Quinto. Sobre las cuantías que resulten exigibles por las tasas a que se refier
 Los tipos de gravamen y elementos tributarios para la determinación de la cuota de estas tasas podrán ser revisados por el Gobierno mediante Real Decreto, en base a una memoria económico-financiera actualizada del coste de las actividades correspondientes contempladas en el Plan General de Residuos Radiactivos.
 
 10. Se autoriza al Gobierno para adoptar las disposiciones necesarias para la aplicación de lo establecido en esta disposición adicional.
+
+> Se modifica el apartado 9.1.f), párrafo tercero por la disposición final 1.3 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
 
 > Se modica el apartado 9 por la disposición adicional 15 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
 

@@ -1,0 +1,27 @@
+## Artículo 112 bis. Canon por utilización de las aguas continentales para la producción de energía eléctrica.
+
+1. La utilización y aprovechamiento de los bienes de dominio público a que se refiere el párrafo a) del artículo 2 de la presente ley, para la producción de energía eléctrica en barras de central, estarán gravadas con una tasa denominada canon por utilización de las aguas continentales para la producción de energía eléctrica, destinada a la protección y mejora del dominio público hidráulico.
+
+2. El devengo del canon se producirá con el otorgamiento inicial y el mantenimiento anual de la concesión hidroeléctrica y será exigible en la cuantía que corresponda y en los plazos que se señalen en las condiciones de dicha concesión o autorización.
+
+3. Serán contribuyentes del canon los concesionarios o, en su caso, quienes se subroguen en lugar de aquéllos.
+
+4. La base imponible de la exacción se determinará por el Organismo de cuenca y será el valor económico de la energía hidroeléctrica producida, y medida en barras de central, en cada período impositivo anual por el concesionario mediante la utilización y aprovechamiento del dominio público hidráulico.
+
+5. El tipo de gravamen anual será del 22 por ciento del valor de la base imponible y la cuota íntegra será la cantidad resultante de aplicar a la base imponible el tipo de gravamen.
+
+6. Estarán exentos del pago de este canon los aprovechamientos hidroeléctricos explotados directamente por la Administración competente para la gestión del dominio público hidráulico.
+
+7. El canon se reducirá en un 90 por ciento para las instalaciones hidroeléctricas de potencia igual o inferior a 50 MW, y para las instalaciones de producción de energía eléctrica de tecnología hidráulica de bombeo y potencia superior a 50 MW, y en la forma que reglamentariamente se determine para aquellas producciones o instalaciones que se deban incentivar por motivos de política energética general.
+
+8. La gestión y recaudación del canon corresponderá al Organismo de cuenca competente o bien a la Administración Tributaria del Estado, en virtud de convenio con aquél.
+
+En caso de celebrarse el convenio con la Agencia Estatal de Administración Tributaria, ésta recibirá del Organismo de cuenca los datos y censos pertinentes que faciliten su gestión, e informará periódicamente a éste en la forma que se determine por vía reglamentaria. A estos efectos, la Comisión Nacional de Energía y el Operador del Sistema eléctrico estarán obligados a suministrar al Organismo de cuenca o a la Administración Tributaria cuantos datos e informes sean necesarios de acuerdo con el artículo 94 de la Ley 58/2003, de 17 de diciembre.
+
+El 2 por ciento del canon recaudado será considerado un ingreso del Organismo de cuenca, y el 98 por ciento restante será ingresado en el Tesoro Público por el organismo recaudador.
+
+> Se añade por el art. 29 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
+
+> Téngase en cuenta para su aplicación la disposición transitoria 1.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 59, de 9 de marzo de 2013. Ref. BOE-A-2013-2602.
