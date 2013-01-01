@@ -121,6 +121,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Sección 2](s2-4.md)
 - [Subsección 1](ss1-4.md)
 - [Artículo 72](a72.md)
+- [Artículo 72 bis](a72bis.md)
 - [Artículo 73](a73.md)
 - [Subsección 2](ss2-4.md)
 - [Artículo 74](a74.md)

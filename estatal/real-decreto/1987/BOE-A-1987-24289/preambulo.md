@@ -1,1 +1,3 @@
+Norma derogada por la disposición derogatoria.a) del Real Decreto 1558/2012, de 15 de noviembre. Ref. BOE-A-2012-14452.
+
 Este Real Decreto pasa a denominarse "Real Decreto 1326/1987, de 11 de septiembre, por el que se establece el procedimiento de aplicación de las directivas de la Comunidad Europea sobre intercambio de información tributaria", según establece el art. único.1 del Real Decreto 1408/2004, de 11 de junio. Ref. BOE-A-2004-11835.

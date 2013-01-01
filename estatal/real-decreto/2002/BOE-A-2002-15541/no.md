@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 249, de 17 de octubre de 2002. Ref. BOE-A-2002-20108.
+Norma derogada por la disposición derogatoria.b) del Real Decreto 1558/2012, de 15 de noviembre. Ref. BOE-A-2012-14452.
