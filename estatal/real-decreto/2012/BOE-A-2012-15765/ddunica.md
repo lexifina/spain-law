@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto y, de manera específica, se entenderán derogadas, a partir de 1 de enero de 2013, las disposiciones reglamentarias que afecten a los contenidos de jubilación y estuvieran en vigor el 31 de diciembre de 2012, en todo lo que se opongan a lo establecido en este real decreto, exclusivamente para el reconocimiento de las pensiones de jubilación causadas, a partir del 1 de enero de 2013, por los trabajadores no incluidos en el apartado 2 de la disposición final duodécima de la Ley 27/2011, de 1 de agosto.
