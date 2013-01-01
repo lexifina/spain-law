@@ -4,10 +4,8 @@
 
 2. A efectos de permanecer incluidos en el Sistema Especial durante los períodos de inactividad en las labores agrarias, con el consiguiente alta en el Régimen General de la Seguridad Social, los trabajadores a que se refiere esta disposición no estarán obligados a cumplir el requisito establecido en el artículo 2.3 de la presente ley.
 
-3. La exclusión de tales trabajadores del Sistema Especial durante los períodos de inactividad, con la consiguiente baja en el Régimen General, cuando no haya sido expresamente solicitada por ellos, únicamente procederá en los supuestos siguientes:
-
-a) En el supuesto de que el trabajador no realice ninguna jornada real, en los términos del artículo 2, durante un período superior a seis meses naturales consecutivos, contados desde el día siguiente a la última jornada realizada, la Tesorería General de la Seguridad Social acordará, de oficio, la baja en el Régimen General y la exclusión del Sistema Especial, con efectos a partir del día primero del séptimo mes siguiente a aquel en que se realizó la última jornada.
-
-b) En los casos en que el trabajador no ingrese la cuota correspondiente a los períodos de inactividad, en los términos señalados en el artículo 2.5.b).2.º de esta ley.
+3. La exclusión de tales trabajadores del Sistema Especial durante los períodos de inactividad, con la consiguiente baja en el Régimen General, cuando no haya sido expresamente solicitada por ellos, únicamente procederá en el caso de que el trabajador no ingrese la cuota correspondiente a dichos períodos, en los términos señalados en el artículo 2.5.b).2.º de esta ley.
 
 4. La reincorporación al Sistema Especial de estos trabajadores determinará su permanencia en el mismo en las condiciones establecidas en el apartado 2 de esta disposición adicional.
+
+> Se modifica el apartado 3 por la disposición final 3.2 del Real Decreto-Ley 29/2012, de 28 de diciembre. Ref. BOE-A-2012-15764.

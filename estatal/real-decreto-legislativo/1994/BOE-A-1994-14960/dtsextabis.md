@@ -8,6 +8,10 @@ a) Durante el año 2012, de veintitrés años.
 
 b) Durante el año 2013, de veinticuatro años.
 
+La aplicación paulatina del límite de edad establecida en los párrafos anteriores no será de aplicación a los huérfanos que presenten una discapacidad en un grado igual o superior al 33 por ciento, a quienes será de aplicación el límite de edad determinante de la condición de beneficiario previsto en el apartado 2 del artículo 175 de esta Ley a partir del día 2 de agosto de 2011.
+
+> Se modifica por la disposición final 1 del Real Decreto-ley 29/2012, de 28 de diciembre. Ref. BOE-A-2012-15764.
+
 > Se modifica por la disposición adicional 1.2 de la Ley 27/2011, de 1 de agosto. Ref. BOE-A-2011-13242.
 
 > Se añade por el art. 10.2 de la Ley 24/1997, de 15 de julio. Ref. BOE-A-1994-14960.

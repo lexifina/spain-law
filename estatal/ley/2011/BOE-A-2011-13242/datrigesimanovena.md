@@ -28,9 +28,20 @@ a) Cálculo de las bases de cotización.
 
 Las bases de cotización de la escala anterior se incrementarán en proporción al aumento que en la Ley de Presupuestos Generales del Estado del año 2012 pueda establecerse para la base mínima del Régimen General.
 
-2.º En el año 2013, se establecerá un nuevo tramo 16.º en la escala, para retribuciones superiores a la base mínima del Régimen General en dicho ejercicio, en el que la base de cotización será la correspondiente al tramo 15.º incrementada en un 5 por ciento.
+2.º En el año 2013, las bases de cotización por contingencias comunes y profesionales se determinarán con arreglo a la siguiente escala, en función de la retribución percibida por los empleados de hogar:
 
-3.º Desde el año 2013 hasta el año 2018, las bases de cotización se actualizarán en idéntica proporción al incremento que experimente la base mínima de cotización del Régimen General en cada uno de esos años, a excepción de la correspondiente al tramo 16.º, que se incrementará en un 5 por ciento anual.
+| Tramo | Retribución mensual incrementada con la proporción de pagas extraordinarias – €/mes | Base de cotización – €/mes |
+| --- | --- | --- |
+| 1.º | Hasta 172,05 | 147,86 |
+| 2.º | Desde 172,06 hasta 268,80 | 244,62 |
+| 3.º | Desde 268,81 hasta 365,60 | 341,40 |
+| 4.º | Desde 365,61 hasta 462,40 | 438,17 |
+| 5.º | Desde 462,41 hasta 559,10 | 534,95 |
+| 6.º | Desde 559,11 hasta 655,90 | 631,73 |
+| 7.º | Desde 655,91 hasta 753,00 | 753,00 |
+| 8.º | Desde 753,01 | 790,65 |
+
+3.º Desde el año 2014 hasta el año 2018, las retribuciones mensuales y las bases de cotización de la escala se actualizarán en idéntica proporción al incremento que experimente el salario mínimo interprofesional en cada uno de esos años.
 
 4.º A partir del año 2019, las bases de cotización por contingencias comunes y profesionales se determinarán conforme a lo establecido en el artículo 109 del Texto Refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, sin que la cotización pueda ser inferior a la base mínima que se establezca legalmente.
 
@@ -70,6 +81,6 @@ Transcurrido el plazo señalado sin que se haya comunicado el cumplimiento de la
 
 5. El Gobierno procederá a modificar la relación laboral especial del servicio del hogar familiar, con efectos de 1 de enero de 2012.
 
-> Redactado el apartado 2.a).1º conforme a la corrección de errores publicada en BOE núm. 240, de 5 de octubre de 2011. Ref. BOE-A-2011-15626.
+> Se modifican los puntos 2 y 3 del apartado 2.a) por el art. 1 del Real Decreto-ley 29/2012, de 28 de diciembre. Ref. BOE-A-2012-15764.
 
-> Esta disposición entra en vigor el 2 de agosto de 2011, según establece la disposición final 12.1.a).
+> Redactado el apartado 2.a).1º conforme a la corrección de errores publicada en BOE núm. 240, de 5 de octubre de 2011. Ref. BOE-A-2011-15626.

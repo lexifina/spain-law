@@ -1,0 +1,5 @@
+## Disposición final sexta. Título competencial.
+
+Este real decreto-ley se dicta al amparo de lo dispuesto en el artículo 149.1.7.ª, 17.ª y 18.ª de la Constitución Española, que atribuyen al Estado la competencia exclusiva sobre las materias de legislación laboral, sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas, de legislación básica y régimen económico de la Seguridad Social, y de las bases del régimen jurídico de las Administraciones públicas y del régimen estatutario de sus funcionarios, respectivamente.
+
+No obstante, lo dispuesto en los artículos 8 y 9 y en la disposición final cuarta de este real decreto-ley tienen carácter básico al dictarse al amparo de las competencias que corresponden al Estado, de acuerdo con el artículo 149.1.13.ª y 25.ª de la Constitución Española, que le atribuyen la competencia exclusiva para determinar las bases y coordinación de la planificación general de la actividad económica y las bases del régimen minero y energético, respectivamente.

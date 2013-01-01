@@ -1,0 +1,5 @@
+## Disposición transitoria única. Asunción de obligaciones de Seguridad Social por trabajadores ya incluidos en el Sistema Especial para Empleados de Hogar establecido en el Régimen General de la Seguridad Social.
+
+Los trabajadores que figuren incluidos en el Sistema Especial para Empleados de Hogar en la fecha de entrada en vigor del apartado Cuatro del artículo 2 y del apartado Dos del artículo 3 de este real decreto-ley, que presten sus servicios durante menos de 60 horas mensuales por empleador, podrán asumir el cumplimiento de las obligaciones en materia de encuadramiento, cotización y recaudación en dicho sistema, de acordarlo así con sus empleadores.
+
+El citado acuerdo surtirá efectos a partir del día primero del mes siguiente al de su comunicación a la Tesorería General de la Seguridad Social, mediante documento firmado por ambas partes, correspondiendo desde entonces a los empleados de hogar el cumplimiento de las referidas obligaciones, con exclusión de los beneficios de cotización que resultaran de aplicación, en su caso, en los términos previstos por este real decreto-ley.
