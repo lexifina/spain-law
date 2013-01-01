@@ -20,6 +20,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición final única](dfunica.md)
 - [firma](firma.md)
 - [REGLAMENTO](reglamento.md)
+- [Arts. 1 a 26](arts.1a26.md)
+- [Disposiciones adicionales 1 a 6](da1a6.md)
 - [TÍTULO PRELIMINAR](tpreliminar.md)
 - [Artículo 1](a1.md)
 - [TÍTULO I](ti.md)

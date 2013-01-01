@@ -1,0 +1,3 @@
+## Disposición final segunda. Incorporación de Derecho de la Unión Europea.
+
+Este real decreto contiene el régimen jurídico aplicable a las obligaciones de facturación en el Derecho español, en consonancia con lo previsto por la normativa europea, al que incorpora las previsiones de la Directiva 2010/45/UE, de 13 de julio de 2010, por la que se modifica la Directiva 2006/112/CE relativa al sistema común del Impuesto sobre el Valor Añadido, en lo que respecta a las normas de facturación, a fin de armonizar en el ámbito de la Unión Europea las normas referentes a la facturación electrónica y otros aspectos para simplificar las normas del impuesto para mejorar el funcionamiento del mercado interior.
