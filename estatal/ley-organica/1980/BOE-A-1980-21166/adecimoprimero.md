@@ -12,7 +12,9 @@ d) Impuesto sobre Sucesiones y Donaciones.
 
 e) Impuesto sobre el Valor Añadido, con carácter parcial con el límite máximo del 50 por ciento.
 
-f) Los Impuestos Especiales de Fabricación, con excepción del Impuesto sobre la Electricidad, con carácter parcial con el límite máximo del 58 por ciento de cada uno de ellos.
+f) Los Impuestos Especiales de Fabricación, con carácter parcial con el límite máximo del 58 por ciento de cada uno de ellos, excepto el Impuesto sobre la Electricidad y el Impuesto sobre Hidrocarburos.
+
+> Atención: la letra f) entra en vigor el 1-1-2013.
 
 g) El Impuesto sobre la Electricidad.
 
@@ -20,7 +22,11 @@ h) El Impuesto Especial sobre Determinados Medios de Transporte.
 
 i) Los Tributos sobre el Juego.
 
-j) El Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos.
+j) El Impuesto sobre Hidrocarburos, con carácter parcial con el límite máximo del 58 por ciento para el tipo estatal general y en su totalidad para el tipo estatal especial y para el tipo autonómico.
+
+> Atención: la letra j) entra en vigor el 1-1-2013.
+
+> Se modifican las letras f) y j) por la disposición final 4.1 y 2 de la Ley Orgánica 2/2012 de 27 de abril. Ref. BOE-A-2012-5730.
 
 > Se modifica por el art. único.4 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
 

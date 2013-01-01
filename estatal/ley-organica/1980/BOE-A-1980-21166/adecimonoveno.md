@@ -16,7 +16,9 @@ e) En los Tributos sobre el Juego, la determinación de exenciones, base imponib
 
 f) En el Impuesto Especial sobre Determinados Medios de Transporte, la regulación de los tipos impositivos.
 
-g) En el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos, la regulación de los tipos de gravamen, así como la regulación de aplicación de los tributos.
+g) En el Impuesto sobre Hidrocarburos, la regulación del tipo impositivo autonómico.
+
+> Atención: la letra g) entra en vigor el 1-1-2013.
 
 En el ejercicio de las competencias normativas a que se refiere el párrafo anterior, las Comunidades Autónomas observarán el principio de solidaridad entre todos los españoles, conforme a lo establecido al respecto en la Constitución; no adoptarán medidas que discriminen por razón del lugar de ubicación de los bienes, de procedencia de las rentas, de realización del gasto, de la prestación de los servicios o de celebración de los negocios, actos o hechos; y mantendrán una presión fiscal efectiva global equivalente a la del resto del territorio nacional.
 
@@ -27,6 +29,8 @@ Lo previsto en el párrafo anterior no será de aplicación en el Impuesto sobre
 Las competencias que se atribuyan a las Comunidades Autónomas en relación con los tributos cedidos pasarán a ser ejercidas por el Estado cuando resulte necesario para dar cumplimiento a la normativa sobre armonización fiscal de la Unión Europea.
 
 Tres. La aplicación de los tributos, potestad sancionadora y revisión, en su caso, de los demás tributos del Estado recaudados en cada Comunidad Autónoma corresponderá a la Administración Tributaria del Estado, sin perjuicio de la delegación que aquélla pueda recibir de ésta y de la colaboración que pueda establecerse, especialmente cuando así lo exija la naturaleza del tributo.
+
+> Se modifica la letra g) por la disposición final 4.4 de la Ley Orgánica 2/2012, de 27 de abril. Ref. BOE-A-2012-5730.
 
 > Se modifica por el art. único.8 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
 
