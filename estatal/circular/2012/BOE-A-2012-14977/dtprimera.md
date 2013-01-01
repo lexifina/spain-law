@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+Las entidades sujetas a esta circular a su fecha de entrada en vigor el día 1 de enero de 2013, elaborarán excepcionalmente un estado CP a dicha fecha considerando la ponderación de riesgo de los activos al cierre del día 31 de diciembre de 2012 y de conformidad con lo previsto en la Ley 13/1985, de 25 de mayo, de coeficientes de inversión, recursos propios y obligaciones de información de los intermediarios financieros, y en su normativa de desarrollo a esta última fecha. El plazo de presentación de este estado al Banco de España concluirá el 28 de febrero de 2013.

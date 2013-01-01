@@ -1,0 +1,15 @@
+El Real Decreto-ley 24/2012, de 31 de agosto, de reestructuración y resolución de entidades de crédito, en su disposición final séptima, vino a modificar los requerimientos de capital principal que deben cumplir los grupos consolidables de entidades de crédito, así como las entidades de crédito no integradas en un grupo consolidable, que puedan captar fondos reembolsables del público, y que habían sido establecidos por el Real Decreto-ley 2/2011, de 18 de febrero, para el reforzamiento del sistema financiero. El Real Decreto-ley 24/2012 ha sido derogado por la Ley 9/2012, de 14 de noviembre, de reestructuración y resolución de entidades de crédito, con idéntico contenido a estos efectos.
+
+En concreto, la Ley 9/2012 ha transformado los requisitos del 8 % de capital principal establecido con carácter general y del 10 % fijado para las entidades con difícil acceso a los mercados de capitales y para las que predomine la financiación mayorista, en un requisito único del 9 % que deberán cumplir las referidas entidades y grupos a partir del 1 de enero de 2013.
+
+Pero la citada ley no solo ha supuesto una modificación del nivel de exigencia de capital principal, sino también de su definición para adecuarla a la utilizada por la Autoridad Bancaria Europea en su reciente ejercicio de recapitalización, tanto en sus elementos computables como en las deducciones aplicables, de acuerdo con la Recomendación EBA/REC/2011/1.
+
+La disposición final vigésima de la Ley 9/2012 ha facultado al Banco de España para dictar las disposiciones precisas para la debida ejecución del régimen sobre requerimientos mínimos de capital principal previsto en el Real Decreto-ley 2/2011, de acuerdo con las modificaciones en esta materia introducidas por la disposición final séptima de la citada ley. El objeto de esta circular es el desarrollo de dicho régimen de acuerdo con las facultades conferidas.
+
+Para ello, esta circular relaciona los instrumentos computables que han de integrar la definición de capital principal, así como la forma en que han de computarse y los requisitos de su emisión y, en particular, los de los instrumentos de deuda obligatoriamente convertibles. Todo ello en el marco de los instrumentos considerados y condiciones de emisión fijadas en la ya mencionada recomendación por la Autoridad Bancaria Europea para su aplicación en los procesos de recapitalización recientemente efectuados.
+
+Asimismo, determina cómo pueden ajustarse las exposiciones ponderadas por riesgo para que el requerimiento de recursos propios de cada exposición de riesgo no exceda del valor de la propia exposición y para que se preserve la consistencia entre el valor de las exposiciones y los componentes del capital principal.
+
+Por último, establece la frecuencia y la forma de las declaraciones de cumplimiento de la ratio de capital principal, para lo que se incluye un modelo como anexo.
+
+En consecuencia, en uso de las facultades que tiene concedidas, el Consejo de Gobierno del Banco de España, a propuesta de la Comisión Ejecutiva, y de acuerdo con el Consejo de Estado, ha aprobado la presente circular, que contiene las siguientes normas:
