@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Normativa para calcular los consumos estimados
+
+Hasta que la Dirección General de Política Energética y Minas no dicte una nueva regulación, para determinar la forma de estimar los consumos de los suministros en baja tensión con potencia contratada no superior a 15 kW cuando no existan lecturas reales, se seguirá aplicando lo establecido en las Resoluciones de 14 de mayo de 2009 y 24 de mayo de 2011 de dicha Dirección General, en todo lo que no se oponga a lo dispuesto en este real decreto, haciéndose extensiva su aplicación a la estimación de los consumos de los suministros en baja tensión con potencia contratada no superior a 15 kW.

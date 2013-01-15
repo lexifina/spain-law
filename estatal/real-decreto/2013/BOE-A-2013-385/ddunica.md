@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas la disposición adicional séptima del Real Decreto 1578/2008, de 26 de septiembre, de retribución de la actividad de producción de energía eléctrica mediante tecnología solar fotovoltaica para instalaciones posteriores a la fecha límite de mantenimiento de la retribución del Real Decreto 661/2007, de 25 de mayo, para dicha tecnología, el apartado 2 y 5 del artículo 82 del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica y, en general, cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto.
