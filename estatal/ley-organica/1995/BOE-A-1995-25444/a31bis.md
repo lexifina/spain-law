@@ -18,8 +18,10 @@ c) Haber procedido en cualquier momento del procedimiento y con anterioridad al 
 
 d) Haber establecido, antes del comienzo del juicio oral, medidas eficaces para prevenir y descubrir los delitos que en el futuro pudieran cometerse con los medios o bajo la cobertura de la persona jurídica.
 
-5. Las disposiciones relativas a la responsabilidad penal de las personas jurídicas no serán aplicables al Estado, a las Administraciones Públicas territoriales e institucionales, a los Organismos Reguladores, las Agencias y Entidades Públicas Empresariales, a los partidos políticos y sindicatos, a las organizaciones internacionales de derecho público, ni a aquellas otras que ejerzan potestades públicas de soberanía, administrativas o cuando se trate de Sociedades mercantiles Estatales que ejecuten políticas públicas o presten servicios de interés económico general.
+5. Las disposiciones relativas a la responsabilidad penal de las personas jurídicas no serán aplicables al Estado, a las Administraciones Públicas territoriales e institucionales, a los Organismos Reguladores, las Agencias y Entidades Públicas Empresariales, a las organizaciones internacionales de derecho público, ni a aquellas otras que ejerzan potestades públicas de soberanía, administrativas o cuando se trate de Sociedades mercantiles Estatales que ejecuten políticas públicas o presten servicios de interés económico general.
 
 En estos supuestos, los órganos jurisdiccionales podrán efectuar declaración de responsabilidad penal en el caso de que aprecien que se trata de una forma jurídica creada por sus promotores, fundadores, administradores o representantes con el propósito de eludir una eventual responsabilidad penal.
+
+> Se modifica el párrafo primero del apartado 5 por el art. único.1 de la Ley Orgánica 7/2012, de 27 de diciembre. Ref. BOE-A-2012-15647.
 
 > Se añade por el art. único.4 de la Ley Orgánica 5/2010, de 22 de junio. Ref. BOE-A-2010-9953
