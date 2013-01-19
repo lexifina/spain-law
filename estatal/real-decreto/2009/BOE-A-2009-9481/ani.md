@@ -1,8 +1,12 @@
 ## ANEXO I
 
-## Permiso comunitario de conducción
+> Atención: esta última actualización modifica determinadas referencias al modelo y códigos comunitarios que entrarán en vigor el 19-01-2013.
 
-## A) Modelo y contenido de permiso de conducción comunitario
+> Para consultar el modelo actual véase la redacción original.
+
+## Permiso de conducción de la Unión Europea
+
+## A) Modelo y contenido de permiso de conducción de la Unión Europea
 
 1. Las características físicas de la tarjeta correspondiente al modelo de permiso de conducción serán conformes a las normas ISO 7810 e ISO 7816-1.
 
@@ -14,7 +18,7 @@ La página 1 contendrá:
 
 2.º la mención «Reino de España».
 
-3.º la letra «E», como signo distintivo de España.
+3.º La letra "E", como signo distintivo de España, impresa en negativo, en un rectángulo azul rodeado de doce estrellas amarillas.
 
 4.º las informaciones específicas del permiso expedido constarán numeradas del siguiente modo:
 
@@ -38,21 +42,21 @@ c) la designación de la autoridad expedidora.
 
 (9) las categorías de vehículos que el titular tiene derecho a conducir.
 
-5.º La mención «Modelo de las Comunidades Europeas» así como la mención «permiso de conducción» en las demás lenguas de la Comunidad Europea, impresas en rosa, de modo que sirvan de fondo del permiso, además de, en forma tenue, el escudo de España.
+5.º La mención «Modelo de la Unión Europea» así como la mención «permiso de conducción» en las demás lenguas de la Unión Europea, impresas en rosa, de modo que sirvan de fondo del permiso, además de, en forma tenue, el escudo de España.
 
 La página 2 contendrá:
 
 1.º (9) las categorías de vehículos que el titular tenga derecho a conducir.
 
-(10) la fecha de la primera expedición de cada categoría (esta fecha deberá transcribirse al nuevo permiso en toda sustitución o intercambio posteriores).
+(10) La fecha de la primera expedición de cada categoría (esta fecha deberá transcribirse al nuevo permiso en toda sustitución o intercambio posteriores); cada campo de la fecha se escribirá con dos dígitos y por el orden siguiente día.mes.año (DD.MM.AA).
 
-(11) la fecha de expiración de validez de cada categoría.
+(11) La fecha de expiración de validez de cada categoría (cada campo de la fecha se escribirá con dos dígitos y por el orden siguiente día.mes.año DD.MM.AA).
 
 (12) en su caso, las menciones adicionales o restrictivas en forma codificada con respecto a cada categoría a las que se apliquen.
 
 Los códigos se establecerán del siguiente modo:
 
-Códigos 1 a 99 códigos comunitarios armonizados.
+Códigos 1 a 99 códigos de la Unión Europea armonizados.
 
 Códigos 100 y posteriores códigos nacionales válidos únicamente en circulación por territorio español.
 
@@ -60,21 +64,21 @@ Códigos 100 y posteriores códigos nacionales válidos únicamente en circulaci
 
 (14) un espacio reservado para que el Estado miembro que expida el permiso pueda inscribir menciones indispensables para su gestión o relativas a la seguridad vial).
 
-2.º Una explicación de los epígrafes numerados que aparecen en las páginas 1 y 2 del permiso (al menos los epígrafes 1, 2, 3, 4a, 4b, 4c, 5, 10, 11 y 12).
+2.º Una explicación de los epígrafes numerados que aparecen en las páginas 1 y 2 del permiso (epígrafes 1, 2, 3, 4a, 4b, 4c, 5, 10, 11 y 12).
 
 3.º En el fondo, impresos en forma tenue figurarán dos escudos de España y la palabra «Tráfico».
 
 Página 1
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/138/09481_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2012/155/08674_001.png)
 
 Página 2
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/138/09481_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2012/155/08674_002.png)
 
-## B) Códigos Comunitarios Armonizados y Códigos Nacionales
+## B) Códigos de la Unión Europea Armonizados y Códigos Nacionales
 
-Códigos comunitarios armonizados
+Códigos de la Unión Europea armonizados
 
 | Códigos | Subcódigos | Causas médicas. Significado |
 | --- | --- | --- |
@@ -196,7 +200,7 @@ Códigos comunitarios armonizados
 | 50 |  | Limitado a un vehículo/un número de chasis específico (número de identificación del vehículo, NIV). |
 | 51 |  | Limitado a un vehículo/matrícula específicos (número de registro del vehículo, NRV). |
 
-Códigos comunitarios armonizados
+Códigos de la Unión Europea armonizados
 
 | Códigos | Subcódigos | Aspectos administrativos. Significado |
 | --- | --- | --- |
@@ -210,7 +214,7 @@ Códigos comunitarios armonizados
 | 77 |  | Limitado a los vehículos de la categoría D con un máximo de 16 asientos, sin contar el del conductor (D1), con un remolque cuya masa máxima autorizada exceda de 750 kg a condición de que: a) la masa máxima autorizada del conjunto así formado no exceda de 12000 kg, la masa máxima autorizada del remolque no exceda de la masa en vacío del vehículo tractor, y b) el remolque no se utilice para el transporte de personas (D1+E) (Artículo 3.2 de la Directiva 91/439/CEE). |
 | 78 |  | Limitado a vehículos sin pedal de embrague (o palanca accionada manualmente para las motocicletas) (Directiva 91/439/CEE, anexo II, I.B).5.1 y anexo VII, A), 4 del Reglamento General de Conductores). |
 | 79 |  | Limitado a los vehículos que cumplen las prescripciones indicadas entre paréntesis en el marco de la aplicación del apartado 1 del artículo 10 de la Directiva 91/439/CEE. 90.01: a la izquierda. 90.02: a la derecha. 90.03: izquierda. 90.04: derecha. 90.05: mano. 90.06: pie. 90.07: utilizable. |
-| 95 |  | Conductor titular del CAP que satisface la obligación de aptitud profesional prevista en el artículo 3 de la Directiva 2003/59/CE, válido hasta el (1.1.2012) (por ejemplo: 95.01.01.2012). |
+| 95 |  | Conductor titular del CAP que satisface la obligación de aptitud profesional prevista en el artículo 3 de la Directiva 2003/59/CE, válido hasta el … [por ejemplo: 95 (01.0.12)]. |
 | 96 |  | El conductor ha cursado una formación completa o ha superado una prueba de aptitud y comportamiento conforme a lo dispuesto en el anexo V de la Directiva 2006/126/CE y en el Reglamento General de Conductores. |
 
 Códigos nacionales
@@ -232,3 +236,5 @@ Códigos nacionales
 | 200 |  | Anexo al permiso o licencia de conducción. El titular deberá llevar un documento expedido por la Jefatura Provincial de Tráfico en el que figuran las condiciones de utilización del vehículo. |
 | 201 |  | Anexo al permiso o licencia de conducción. El permiso o licencia no serán válidos sin un documento en el que figure el texto de la resolución que determina los períodos de tiempo en los que deberá cumplirse la sanción de suspensión de la autorización. |
 | 202 |  | Limitado a la conducción de vehículos policiales y de los colectivos a los que se refiere el artículo 74.1, válido hasta el (1.1.2012) (por ejemplo: 202.01.01.2012) (artículo 74.2 Reglamento General de Conductores). |
+
+> Se modifica por el art. único de la Orden INT/1407/2012, de 25 de junio. Ref. BOE-A-2012-8674.
