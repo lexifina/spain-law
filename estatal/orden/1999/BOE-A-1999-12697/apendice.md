@@ -94,29 +94,27 @@ Se incluirán en las correspondientes puntuaciones los títulos extranjeros o de
 
 Puntuación máxima a alcanzar: 160 puntos.
 
-La puntuación obtenida en este epígrafe será la suma de las alcanzadas en las Secciones 1.ª y 2.ª a la que se detraerá, en su caso, la de la Sección 3.ª
+La puntuación obtenida en este epígrafe será la suma de las alcanzadas en las Secciones 1.ª y 2.ª a la que se detraerá en su caso la de la Sección 3.ª
 
-Seguidamente la puntuación de cada miembro del conjunto de evaluados, quedará afectada por un coeficiente corrector, consistente en multiplicar la puntuación obtenida en el total del epígrafe, por el cociente resultante de dividir 160 por la mejor puntuación alcanzada entre los evaluados.
+Sección 1.ª Destinos: Hasta 100 puntos.
 
-Sección 1.ª Destinos
+Los destinos se valorarán entre 2,88 y 5,40 puntos por año, desde el ingreso en su actual Escala, de acuerdo con las especificaciones que figuran en el anexo IV. En situaciones distintas a las de activo, siempre que se contabilice el tiempo de servicios efectivos, se valorará a 0,15 puntos por mes. En los demás casos no se valorará.
 
-Los destinos se valorarán entre 2,88 y 4,44 puntos por año, desde el ingreso en su actual Escala, de acuerdo con las especificaciones que figuran en el anexo IV.
+Dado que la suma máxima alcanza los 100 puntos, la puntuación de cada uno de los evaluados quedará afectada por un coeficiente corrector consistente en multiplicar la puntuación obtenida en esta sección por el coeficiente resultante de dividir 100 por la mejor puntuación alcanzada entre los evaluados.
 
-En situaciones distintas a la de activo, siempre que se contabilice el tiempo de servicios efectivos, se valorará a 0,15 puntos por mes. En los demás casos no se valorará.
+Sección 2.ª Recompensas: Hasta 60 puntos.
 
-Sección 2.ª Recompensas
+La puntuación asignada por este concepto es la que figura en el anexo V. La puntuación de cada uno de los evaluados quedará afectada por un coeficiente corrector consistente en multiplicar la puntuación obtenida en esta sección por el coeficiente resultante de dividir 60 por la mejor puntuación alcanzada entre los evaluados.
 
-La puntuación asignada por este concepto es la que figura en el anexo V. La puntuación total de esta Sección será la resultante de la suma de las puntuaciones individuales asignadas a cada una de ellas.
+Sección 3.ª Sanciones.
 
-Sección 3.ª Correctivos
+Las sanciones penales o disciplinarias puntuarán negativamente, estableciéndose el siguiente baremo:
 
-Los correctivos puntuarán negativamente, estableciéndose el siguiente baremo:
+– Falta grave: 15 puntos.
 
-Falta grave: –10 puntos.
+– Falta muy grave: 20 puntos
 
-Falta muy grave: –15 puntos.
-
-Delito: –25 puntos.
+– Delito: 30 puntos.
 
 ## 4. Otros méritos y aptitudes
 
@@ -155,3 +153,5 @@ Se valorarán en esta sección las actividades relevantes del evaluado no inclui
 Sección 3.ª Aptitudes: Hasta 10 puntos
 
 Esta sección sirve para valorar las aptitudes propias del interesado, que se han puesto de manifiesto en todos los destinos ocupados y que permiten una apreciación sobre cuál sería su comportamiento en relación al empleo, puesto o motivo objeto de la clasificación.
+
+> Se modifica el apartado 3 por el art. único.6 de la Orden PRE/10/2013, de 16 de enero. Ref. BOE-A-2013-495.

@@ -50,3 +50,17 @@ El concepto mando, vinculado al cargo de la persona, implica responsabilidades d
 | Administración, Técnica, Burocrática, Logística. |  | 0,07 |
 | D) Cargo de la persona. | Mando. |  | 0,12 |
 | Ejecutivo. |  | 0,10 |
+
+Cuando el cargo desempeñado sea alguno de los que se recogen a continuación, la puntuación por cada mes correspondiente al concepto de «Mando», recogido en el Aspecto D) «Cargo de la persona» será de 0,2 puntos:
+
+– Jefe de Zona/Comandancia.
+
+– Jefe de Comandancia y Jefe de Sector de Tráfico.
+
+– Jefe de Compañía Territorial y Jefe de Subsector de Tráfico.
+
+– Comandante de Puesto y Jefe de Destacamento de Tráfico.
+
+Igualmente, recibirán esta misma valoración quienes hubiesen desempeñado el cargo de Jefe de Línea hasta la supresión de dicho tipo de Unidad.
+
+> Se añaden los últimos párrafos por el art. único.7 de la Orden PRE/10/2013, de 16 de enero. Ref. BOE-A-2013-495.
