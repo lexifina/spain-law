@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Desarrollo de la estructura de los Servicios de información.
+
+De conformidad con la Ley de Secretos Oficiales, de 5 de abril de 1968, actualizada por la Ley 48/1978, de 7 de octubre, y a los Acuerdos del Consejo de Ministros de 28 de noviembre de 1986 y 8 de marzo de 1996, en los que se otorga la clasificación de secreto, entre otros, a la organización y estructura de los servicios de información de las Fuerzas y Cuerpos de Seguridad del Estado, la estructura y servicios de tal naturaleza dependientes de la Dirección General de la Policía, serán los que se determinen por Orden Comunicada de este Departamento.
