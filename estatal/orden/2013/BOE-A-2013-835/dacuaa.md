@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Cotización de los empleados públicos encuadrados en el Régimen General de la Seguridad Social.
+
+Durante el año 2013, la base de cotización por todas las contingencias de los empleados públicos encuadrados en el Régimen General de la Seguridad Social a quienes hubiera sido de aplicación lo establecido en la disposición adicional séptima del Real Decreto-ley 8/2010, de 20 de mayo, por el que se adoptan medidas extraordinarias para la reducción del déficit público, en tanto permanezca su relación laboral o de servicio, será coincidente con la habida en el mes de diciembre de 2010, salvo que por razón de las retribuciones que perciban pudiera corresponder una de mayor cuantía, en cuyo caso será ésta por la que se efectuará la cotización mensual.
+
+A efectos de lo indicado en el párrafo anterior, de la base de cotización correspondiente al mes de diciembre de 2010 se deducirán, en su caso, los importes de los conceptos retributivos que tengan una periodicidad en su devengo superior a la mensual o que no tengan carácter periódico y que hubieren integrado dicha base sin haber sido objeto de prorrateo.

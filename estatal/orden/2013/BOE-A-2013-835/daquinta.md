@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Reducción en la aportación empresarial en la cotización por los funcionarios públicos.
+
+De conformidad con la disposición transitoria quinta del Real Decreto-ley 13/2010, de 3 de diciembre, de actuaciones en el ámbito fiscal, laboral y liberalizadoras para fomentar la inversión y la creación de empleo, la aportación empresarial en la cotización a la Seguridad Social por contingencias comunes de los funcionarios públicos que hubiesen ingresado en su respectiva administración a partir de 1 de enero de 2011 y estén incluidos en el ámbito de aplicación del artículo 20 del citado Real Decreto-ley, quedará reducida en un 25 por ciento de la que correspondería con arreglo a la normativa de aplicación.
