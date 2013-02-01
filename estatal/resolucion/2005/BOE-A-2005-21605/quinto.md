@@ -4,7 +4,7 @@
 
 a) Dirigir, coordinar y controlar todas las Dependencias, órganos y unidades administrativas de la Delegación Central.
 
-b) Proponer al titular del Departamento de Organización, Planificación y Relaciones Institucionales la adscripción de obligados tributarios a la Delegación Central en los que concurra alguna de las circunstancias indicadas en el apartado tercero.2, así como la exclusión de dichos obligados del ámbito de actuación de esta Delegación cuando dejen de concurrir las circunstancias que originaron su adscripción.
+b) Proponer al titular del Servicio de Planificación y Relaciones Institucionales la adscripción de obligados tributarios a la Delegación Central en los que concurra alguna de las circunstancias indicadas en el apartado tercero.2, así como la exclusión de dichos obligados del ámbito de actuación de esta Delegación cuando dejen de concurrir las circunstancias que originaron su adscripción.
 
 c) Proponer planes y programas de actuación en relación con los obligados tributarios adscritos a la Delegación Central, de conformidad con los instrumentos generales de planificación de la Agencia Tributaria.
 
@@ -16,15 +16,13 @@ f) Formular las propuestas de resoluciones o autorizaciones cuya tramitación co
 
 g) Resolver los recursos de alzada contra los acuerdos de resolución de los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo, dictados por los órganos dependientes del mismo.
 
-2. Asimismo, el titular de la Delegación Central ejercerá, respecto de los obligados tributarios adscritos a esta Delegación, las siguientes funciones y competencias:
+2. Asimismo, el titular de la Delegación Central ejercerá, respecto del ámbito de actuación de la Delegación Central, las siguientes funciones y competencias:
 
 a) Autorizar las siguientes actuaciones:
 
-1.º El ejercicio de acciones civiles frente a obligados al pago que hayan impedido o dificultado el cobro de sus deudas y, en general, contra cualquier persona o entidad, en defensa del crédito público cuya recaudación se efectúe por órganos de la Delegación Central. En concreto, serán competentes para autorizar la interposición de las acciones legales a las que se refiere el artículo 64 del Reglamento General de Recaudación.
+1.º El ejercicio de acciones civiles frente a obligados al pago que hayan impedido o dificultado el cobro de sus deudas y, en general, contra cualquier persona o entidad, en defensa del crédito público cuya recaudación se efectúe por órganos de la Delegación Central.
 
-2.º La subrogación a que se refiere el artículo 77.2 del Reglamento General de Recaudación.
-
-3.º La solicitud de la declaración de heredero a que se refiere el artículo 127.3 del Reglamento General de Recaudación.
+2.º La subrogación en derechos anotados o inscritos con anterioridad al de la Hacienda pública mediante el abono a los acreedores del importe de sus créditos en los términos previstos en el artículo 77.2 del Reglamento General de Recaudación.
 
 b) Dictar los siguientes acuerdos:
 
@@ -48,27 +46,17 @@ c) En relación con el Impuesto sobre el Valor Añadido, resolver las siguientes
 
 3.º Reconocimiento del derecho a la aplicación del tipo superreducido en las adquisiciones de vehículos destinados a ser utilizados como autotaxis o autoturismos especiales para el transporte de personas con minusvalía en silla de ruedas.
 
-4.º Reconocimiento del derecho a la exención en los servicios prestados directamente a sus miembros por uniones, agrupaciones o entidades autónomas, incluidas las Agrupaciones de Interés Económico, constituidas exclusivamente por personas que ejerzan esencialmente una actividad exenta o no sujeta al Impuesto.
+4.º Reconocimiento del derecho a la exención en los servicios prestados directamente a sus miembros por uniones, agrupaciones o entidades autónomas, incluidas las Agrupaciones de Interés Económico, constituidas exclusivamente por personas que ejerzan una actividad exenta o no sujeta al Impuesto.
 
-5.º Reconocimiento del derecho a la exención en las prestaciones de servicios y las entregas de bienes accesorias a las mismas efectuadas directamente a sus miembros por organismos o entidades legalmente reconocidos que no tengan finalidad lucrativa.
+5.º Calificación de la condición de entidades o establecimientos privados de carácter social a efectos de determinadas exenciones en operaciones interiores.
 
-6.º Reconocimiento de la condición de entidades o establecimientos privados de carácter social a efectos de determinadas exenciones en operaciones interiores.
+6.º Autorizaciones administrativas previas que condicionan determinadas exenciones en las importaciones de bienes.
 
-7.º Autorizaciones administrativas previas que condicionan determinadas exenciones en las importaciones de bienes.
+7.º Reconocimiento de las exenciones en las entregas de bienes inmuebles y las devoluciones del recargo de equivalencia a minoristas por entregas de objetos destinados exclusivamente al culto, en virtud del Acuerdo entre el Estado Español y la Santa Sede.
 
-8.º Reconocimiento de las exenciones en las entregas de bienes inmuebles y las devoluciones del recargo de equivalencia a minoristas por entregas de objetos destinados exclusivamente al culto, en virtud del Acuerdo entre el Estado Español y la Santa Sede.
+d) Resolver o inadmitir los aplazamientos y fraccionamientos de pago cuyo importe conjunto exceda de diez millones de euros y adoptar medidas cautelares en sustitución de garantías, cuando sea competente para resolver la citada solicitud. A efectos de la determinación de la cuantía señalada se acumularán tanto las deudas a que se refiere la propia solicitud como cualesquiera otras del mismo deudor para las que se haya solicitado y no resuelto el aplazamiento o fraccionamiento, así como el importe de los vencimientos pendientes de ingreso de las deudas aplazadas o fraccionadas.
 
-d) Resolver los siguientes expedientes:
-
-1.º Aplazamientos y fraccionamientos de pago solicitados. Asimismo, le corresponde la competencia para acordar la inadmisión de las solicitudes de aplazamiento y fraccionamiento de pago.
-
-2.º Compensación de oficio o a instancia del obligado al pago de deudas a favor de la Hacienda Pública gestionadas por la Agencia Tributaria con créditos tributarios y no tributarios.
-
-e) En materia de embargos:
-
-1.º Nombrar un funcionario técnico o contratar los servicios de empresas especializadas para practicar el deslinde en caso de embargo de bienes inmuebles o de derechos sobre éstos.
-
-2.º Resolver lo que proceda en relación con las calificaciones registrales realizadas respecto a los embargos practicados.
+e) En materia de embargos, nombrar un funcionario técnico o contratar los servicios de empresas especializadas para practicar el deslinde en caso de embargo de bienes inmuebles o de derechos sobre éstos.
 
 f) En materia de enajenaciones de bienes y derechos:
 
@@ -86,43 +74,47 @@ g) En materia de tercerías:
 
 h) En materia de procesos concursales, salvo que la competencia esté atribuida al titular del Departamento de Recaudación:
 
-1.º Suscribir los acuerdos por los que se establecen condiciones singulares de pago relativos a concursos regulados tanto por la Ley 22/2003, de 9 de julio, Concursal, como por la anterior normativa concursal.
+1.º Suscribir los acuerdos por los que se establecen condiciones singulares de pago.
 
-2.º Autorizar la suscripción de los convenios relativos a concursos que se rijan tanto por la Ley Concursal como por la anterior normativa concursal.
+2.º Autorizar la suscripción de los convenios.
 
-3.º Autorizar, en relación con los concursos regidos por la Ley Concursal, la presentación de las propuestas de convenio previstas en su artículo 113.
+3.º Autorizar, en los concursos regidos por la Ley 22/2003, de 9 de julio, Concursal, la presentación por la Agencia Tributaria de las propuestas de convenio previstas en su artículo 113.
 
-4.º Autorizar, en los concursos regidos por la Ley Concursal, la adhesión a las propuestas de convenio previstas en su artículo 103, a las propuestas anticipadas de convenio reguladas en su artículo 108 y, por el crédito privilegiado, a convenios ya aceptados por los acreedores o aprobados por el Juez en los términos previstos en el artículo 134.2 de dicha Ley.
+4.º Autorizar, en los concursos regidos por la Ley 22/2003, de 9 de julio, Concursal, la adhesión a las propuestas de convenio previstas en su artículo 103, a las propuestas anticipadas de convenio reguladas en su artículo 108, y, por el crédito privilegiado, a convenios ya aceptados por los acreedores o aprobados por el Juez en los términos previstos en el artículo 134.2 de dicha Ley.
 
-5.º Autorizar, en relación con los concursos regidos por la Ley Concursal, el voto favorable en las juntas de acreedores de las propuestas de convenio.
+5.º Autorizar, en relación con los concursos regidos por la Ley 22/2003 de 9 de julio Concursal, el voto favorable en las juntas de acreedores de las propuestas de convenio.
 
-6.º Autorizar, en relación con los concursos regidos por la Ley Concursal, la abstención en las juntas de acreedores respecto a los créditos de naturaleza pública calificados como ordinarios.
+6.º Autorizar, en relación con los concursos regidos por la Ley 22/2003, de 9 de julio Concursal, la abstención en las juntas de acreedores respecto a los créditos de naturaleza pública calificados como ordinarios.
 
-7.º Aceptar o rechazar, en virtud de justa causa, el nombramiento de la Agencia Tributaria como administrador concursal.
+7.º Aceptar o rechazar el nombramiento de la Agencia como administrador concursal,
 
-Para ejercer las competencias recogidas en los números 1.º a 6.º de esta letra, será necesario solicitar autorización previa al titular del Departamento de Recaudación a través de la Subdirección General de Recaudación Ejecutiva.
+Para ejercer las competencias recogidas en los números 1.º a 6.º de esta letra, será necesario solicitar autorización previa al titular del Departamento de Recaudación.
+
+Para ejercer la competencia recogida en el número 7.º de esta letra, será necesario solicitar autorización previa al titular de la Subdirección General de Recaudación Ejecutiva.
 
 i) En materia de medidas cautelares:
 
-1.º Adoptar las previstas en el artículo 81 de la Ley 58/2003, de 17 de diciembre, General Tributaria, así como acordar la ampliación del plazo de efectos de las medidas de acuerdo con lo establecido en el número 5.d) de dicho artículo.
+1.º Adoptar medidas cautelares para asegurar el cobro de las deudas o de las sanciones, si procede, cuando la gestión recaudatoria de las deudas del deudor principal corresponda o fuera a corresponder a la Delegación Central, así como acordar la ampliación del plazo de efectos de dichas medidas.
 
-También será competente para adoptarlas en los supuestos previstos en el artículo 41.5 de la Ley General Tributaria, y para acordar la ampliación de su plazo de duración, cuando el deudor principal esté adscrito a esta Delegación.
+2.º Acordar las medidas cautelares referidas en el apartado 8 del artículo 81 de la Ley General Tributaria, respecto del patrimonio de las personas o entidades contra las que se haya presentado denuncia o querella por delito contra la Hacienda Pública o se dirija un proceso judicial por dicho delito.
 
-2.º Adoptar, como medida cautelar, del acuerdo de retención del pago de devoluciones tributarias o de otros pagos que deban realizarse a personas contra las que se haya presentado denuncia o querella por delito contra la Hacienda Pública o se dirija un proceso judicial por dicho delito, en los términos previstos en el artículo 81.7 de la Ley General Tributaria.
+3.º Adoptar medidas cautelares una vez iniciado un procedimiento de declaración de responsabilidad cuando la gestión recaudatoria de las deudas del deudor principal corresponda o fuera a corresponder a la Delegación Central.
 
-3.º Adoptar medidas cautelares en sustitución de las garantías, conforme a lo previsto en el artículo 49.1 del Reglamento General de Recaudación.
+j) Acordar la ejecución subsidiaria de las resoluciones o requerimientos formulados por órganos de recaudación en el ejercicio de las facultades que les reconoce la Ley General Tributaria.
 
-j) Acordar la ejecución subsidiaria de las resoluciones o requerimientos efectuados en el curso del procedimiento de apremio que no hayan sido atendidos por los obligados en aplicación de lo previsto en el artículo 162.2 de la Ley General Tributaria.
+k) La solicitud de declaración de heredero que proceda cuando conste que no existen herederos o los conocidos hayan renunciado a la herencia o no la hayan aceptado expresa o tácitamente, en relación con las deudas cuya gestión recaudatoria esté encomendada a la Delegación Central, cuando sea necesario para continuar su recaudación frente a los sucesores.
 
-k) Proponer al titular del Departamento de Recaudación la autorización del ejercicio de acciones penales en defensa de los derechos de la Hacienda Pública, cuando la gestión recaudatoria de las deudas que se haya visto perjudicada corresponda a la Delegación Central de Grandes Contribuyentes.
+l) Proponer al titular del Departamento de Recaudación la autorización del ejercicio de acciones penales en defensa de los derechos de la Hacienda Pública, cuando la gestión recaudatoria de las deudas que se haya visto perjudicada corresponda a la Delegación Central de Grandes Contribuyentes.
 
-l) Acordar la remisión del expediente a la jurisdicción competente o al Ministerio Fiscal cuando aprecie la posible existencia de delito contra la Hacienda Pública u otro delito no perseguible únicamente a instancia de la persona agraviada, excepto en los casos previstos en la Orden por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias.
+m) Acordar la remisión del expediente a la jurisdicción competente o al Ministerio Fiscal cuando aprecie la posible existencia de delito contra la Hacienda Pública u otro delito no perseguible únicamente a instancia de la persona agraviada, excepto en los casos previstos en la Orden por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias.
 
-m) Dar traslado de las actuaciones al Servicio Jurídico de la Agencia Tributaria en los casos de inobservancia de la obligación de prestar al personal integrado en la Delegación Central el apoyo, concurso, auxilio y protección que le sea necesario para el ejercicio de sus funciones, por las autoridades, titulares de los órganos del Estado, de las Comunidades Autónomas y Entidades Locales y, en general, por quienes ejerzan funciones públicas.
+n) Dar traslado de las actuaciones al Servicio Jurídico de la Agencia Tributaria en los casos de inobservancia de la obligación de prestar al personal integrado en la Delegación Central el apoyo, concurso, auxilio y protección que le sea necesario para el ejercicio de sus funciones, por las autoridades, titulares de los órganos del Estado, de las Comunidades Autónomas y Entidades Locales y, en general, por quienes ejerzan funciones públicas.
 
-n) La designación del perito tercero en tasaciones periciales contradictorias promovidas frente a las actuaciones de comprobación de valor desarrolladas por los órganos integrados en la Delegación Central.
+ñ) La designación del perito tercero en tasaciones periciales contradictorias promovidas frente a las actuaciones de comprobación de valor desarrolladas por los órganos integrados en la Delegación Central.
 
-ñ) Ejercer cualesquiera otras competencias y funciones que le atribuya la normativa legal, reglamentaria y demás disposiciones que sean de aplicación.
+o) Resolver los recursos de reposición contra actos dictados de forma automatizada cuando así se disponga en la Resolución por la que se aprueben las aplicaciones informáticas para las actuaciones administrativas automatizadas correspondientes.
+
+p) Ejercer cualesquiera otras competencias y funciones que le atribuya la normativa legal, reglamentaria y demás disposiciones que sean de aplicación.
 
 3. De conformidad con la Orden de 2 de junio de 1994, por la que se desarrolla la estructura de la Agencia Estatal de Administración Tributaria, el titular de la Delegación Central de Grandes Contribuyentes forma parte del Comité de Coordinación de la Dirección Territorial de la Agencia.
 
@@ -147,6 +139,8 @@ c) Dependencia de Gestión de Medios y Recursos: Adjuntos al titular de la Depen
 En ausencia de los anteriores, el titular de la Delegación Central acordará la sustitución que proceda en cada caso.
 
 7. El titular de la Delegación Central de Grandes Contribuyentes y sus Adjuntos serán nombrados y cesados por la Presidencia de la Agencia Tributaria a propuesta de la Dirección General, de conformidad con lo establecido en el artículo 103.Tres.2 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991. Su nombramiento y cese se publicarán en el «Boletín Oficial del Estado».
+
+> Se modifican los puntos 1 y 2 por el art. único.4 y 5 de la Resolución de 22 de enero de 2013. Ref. BOE-A-2013-698.
 
 > Se añade la letra g) al punto 1 por el art. único.2 de la Resolución de 27 de noviembre de 2012. Ref. BOE-A-2012-14651.
 
