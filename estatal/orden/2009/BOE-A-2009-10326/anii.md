@@ -15,6 +15,7 @@
 | 128 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
 | 130 | Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. |
 | 131 | Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. |
+| 136 | Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. |
 | 200 (*) | Desde el día 1 hasta el 20 del mes de julio. |
 | 202 | Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre. |
 | 206 (*) | Desde el día 1 hasta el 20 del mes de julio. |
@@ -23,6 +24,7 @@
 | 216 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
 | 220 (*) | Desde el día 1 hasta el 20 del mes de julio. |
 | 222 | Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre. |
+| 230 | Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
 | 303 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre, y desde el día 1 hasta el 25 del mes de enero. |
 | 310 | Desde el día 1 hasta el 15 de los meses de abril, julio y octubre. |
 | 311 | Desde el día 1 hasta el 25 del mes de enero. |
@@ -36,10 +38,14 @@
 | 563 | Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
 | 564 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
 | 566 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
+| 581 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
+| 582 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 | 595 | Desde el día 1 al 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 | 714 | Desde el día 3 de mayo hasta el 27 de junio. |
 
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
+
+> Se añaden los modelos 136, 230, 581 y 582 por la disposición final 2 de la Orden HAP/70/2013, de 30 de enero. Ref. BOE-A-2013-952., y Orden HAP/71/2013, de 30 de enero. Ref. BOE-A-2013-953.
 
 > Véase, sobre ampliación de plazo con carácter excepcional y para las autoliquidaciones que se relacionan, la Orden HAP/725/2012, de 12 de abril. Ref. BOE-A-2012-4445.
 
