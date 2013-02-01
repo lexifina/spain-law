@@ -98,11 +98,17 @@ Modelo 572. Impuesto sobre Hidrocarburos. Solicitud de devolución.
 
 Modelo 580. Impuesto sobre las Labores del Tabaco. Declaración de operaciones en fábricas y depósitos fiscales de labores del tabaco.
 
+Modelo 581. Impuesto sobre Hidrocarburos: Declaración-liquidación.
+
+Modelo 582. Impuesto sobre Hidrocarburos: Regularización por reexpedición de productos a otra Comunidad Autónoma.
+
 Modelo 590. Impuestos Especiales de Fabricación. Solicitud de devolución por exportación o expedición.
 
 Modelo 380. Impuesto sobre el Valor Añadido. Operaciones asimiladas a las importaciones. Declaración-liquidación
 
 3. Las condiciones generales y el procedimiento para la presentación telemática de estas declaraciones serán, con carácter general, y sin perjuicio de lo dicho en el apartado anterior de esta disposición adicional, las que se establecen en las respectivas Órdenes por las que se aprobaron cada uno de estos modelos de declaración.
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden HAP/71/2013, de 30 de enero. Ref. BOE-A-2013-953.
 
 > Se modifica el apartado 2 por el art. único de la Orden EHA/732/2011, de 29 de marzo. Ref. BOE-A-2011-5934.
 
