@@ -2,7 +2,7 @@
 
 ## Solicitud de retribución específica para las instalaciones del grupo b.3
 
-Para la solicitud de la tarifa o prima específica por kWh, a la que se refiere el artículo 39, se presentará un anteproyecto que describa de forma exhaustiva la instalación, donde al menos se desarrollen los apartados que se listan a continuación.
+Para la solicitud de la tarifa específica por kWh a la que se refiere el artículo 39, se presentará un anteproyecto que describa de forma exhaustiva la instalación, donde al menos se desarrollen los apartados que se listan a continuación.
 
 CARACTERÍSTICAS DE LA CENTRAL
 
@@ -45,3 +45,5 @@ Coste de operación y mantenimiento
 – Cánones
 
 – Disponibilidad del sistema
+
+> Se modifica el primer párrafo por el art. 2.10 del Real Decreto-ley 2/2013, de 1 de febrero. Ref. BOE-A-2013-1117.
