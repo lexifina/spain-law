@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Modelos de informes preexistentes.
+
+En tanto la Comisión Europea no establezca nuevos modelos de informes para el cumplimento de lo dispuesto en el artículo 54 de la Directiva 2010/63/UE del Parlamento Europeo y del Consejo de 22 de septiembre de 2010, a los efectos de cumplimiento del deber de información, comunicación y publicidad establecido en el artículo 41 del presente real decreto los usuarios y los órganos competentes y el Ministerio de Agricultura, Alimentación y Medio Ambiente seguirán elaborando los informes conforme a lo establecido en el artículo 27 del Real Decreto 1201/2005, de 10 de octubre.
