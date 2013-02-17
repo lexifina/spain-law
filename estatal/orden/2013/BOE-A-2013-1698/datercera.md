@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Prima de riesgo utilizada en el procedimiento de cálculo de las tarifas de último recurso de energía eléctrica.
+
+La prima por riesgo (PRp) utilizada para la determinación del coste estimado de la energía en base a lo dispuesto en los artículos 9 y 13 de la Orden ITC/1659/2009, de 22 de junio, por la que se establece el mecanismo de traspaso de clientes del mercado a tarifa al suministro de último recurso de energía eléctrica y el procedimiento de cálculo y estructura de las tarifas de último recurso de energía eléctrica, tomará un valor nulo al aplicar el procedimiento de cálculo de las tarifas de último recurso que estén vigentes en cada momento a partir del 1 de enero de 2013.
