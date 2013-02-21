@@ -44,6 +44,8 @@ Las relaciones certificadas que se remitan deberán ser acompañadas del correla
 
 Asimismo y a los oportunos efectos de garantizar la integridad y autenticidad de su contenido, en este mismo escrito deberá dejarse constancia del resumen electrónico generado por el algoritmo MD5 para cada archivo o fichero electrónico que se incluya en el soporte informático.
 
+Alternativamente al procedimiento descrito en los párrafos anteriores, las relaciones certificadas correspondientes a la contratación celebrada por las empresas del sector público estatal, se podrán remitir telemáticamente a través de los sistemas que, a esos efectos, se implanten el Tribunal de Cuentas.
+
 II.2 Documentación a remitir a lo largo del año.
 
 De conformidad con lo dispuesto en el art. 29 LCSP, a lo largo del año, y dentro de los tres meses siguientes a la formalización del contrato, los órganos de contratación de los entes, organismos y entidades que tengan la consideración de Administraciones Públicas de acuerdo con la propia LCSP remitirán al Tribunal copia certificada del documento mediante el que se hubiere formalizado el contrato, acompañada de un extracto del expediente, que a estos efectos se entenderá conformado por los documentos que se indican en el Anexo II, según la naturaleza y el procedimiento de adjudicación, siempre que el contrato de que se trate supere las siguientes cuantías:
@@ -63,3 +65,5 @@ Asimismo, los órganos de contratación remitirán los extractos de todos los co
 Se entenderá por cuantía del contrato, a los efectos de esta instrucción, el importe por el cual se adjudique el expediente, IVA excluido. Asimismo, en los expedientes de contratación que hayan dado lugar a múltiples adjudicatarios, y por tanto a múltiples contratos, por la existencia de lotes o prestaciones diferenciadas, se tendrá en cuenta el importe agregado de todos los contratos del expediente.
 
 La comunicación de todas las modificaciones, las prórrogas, las variaciones de precio o de plazo, el importe final, la nulidad y la extinción normal o anormal de los citados contratos deberá efectuarse dentro de los tres meses siguientes a la fecha en que se hayan producido, acompañando a la misma los Anexos III y IV.
+
+> Se añade un párrafo al apartado II.1.5 por Resolución de 17 de enero de 2013. Ref. BOE-A-2013-1046.
