@@ -1,0 +1,5 @@
+## Disposición adicional séptima. Empresas conservadoras previamente autorizadas.
+
+1. Las empresas conservadoras que ya hubieran sido autorizadas a la fecha de entrada en vigor de este real decreto podrán seguir realizando la actividad para la que fueron autorizadas sin que deban presentar la declaración responsable regulada en el apartado 6 de la ITC AEM 1 aprobada por este real decreto. Dichas empresas serán inscritas de oficio en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y en su normativa reglamentaria de desarrollo, a partir de los datos contenidos en la autorización y remitidos, en su caso, por la correspondiente comunidad autónoma. En su caso, las Administraciones Públicas podrán solicitar la información necesaria para completar su incorporación al mencionado registro.
+
+2. Sin perjuicio de lo establecido en el apartado anterior, el resto de nuevas condiciones y requisitos establecidos en las modificaciones introducidas por este real decreto serán en todo caso aplicables a las empresas señaladas en el apartado anterior.
