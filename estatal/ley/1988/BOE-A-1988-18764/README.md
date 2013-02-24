@@ -55,6 +55,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 30 bis](a30bis.md)
 - [CAPÍTULO II](cii-3.md)
 - [Artículo 30 ter](a30ter.md)
+- [Artículo 30 quáter](a30quater.md)
 - [TITULO IV](tiv.md)
 - [CAPITULO I](ci-7.md)
 - [Artículo 31](a31.md)

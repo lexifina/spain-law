@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Comisión Interministerial para el seguimiento de la Estrategia.
+
+El Gobierno constituirá una Comisión Interministerial en un plazo máximo de tres meses desde la entrada en vigor del presente real decreto-ley para el seguimiento de la Estrategia de Emprendimiento y Empleo Joven 2013-2016, con la composición y funciones que se determinen reglamentariamente. Su creación y funcionamiento se atenderán con los medios personales, técnicos y presupuestarios asignados al Ministerio de Empleo y Seguridad Social. Dicha comisión realizará sus trabajos hasta el 31 de diciembre de 2016, fecha en la que quedará disuelta.
