@@ -2,7 +2,7 @@
 
 ## Formato electrónico modelo 581. Impuesto sobre Hidrocarburos. Declaración-liquidación. Contenido de la declaración
 
-Se deberá presentar un modelo 581 por cada Comunidad Autónoma en la que se hayan producido en el período devengos del impuesto para productos gravados con tipo estatal especial.
+Se deberá presentar un modelo 581 por cada Comunidad Autónoma de destino de productos gravados con tipo estatal especial.
 
 Los productos no gravados con tipo estatal especial no serán diferenciados por Comunidad Autónoma.
 
@@ -10,7 +10,7 @@ A. Datos de cabecera
 
 Comunidad Autónoma
 
-El campo Comunidad Autónoma debe cumplimentarse siempre que exista en la declaración-liquidación algún producto gravado con tipo estatal especial. Se indicará la Comunidad Autónoma donde se haya producido el correspondiente devengo del impuesto por los productos incluidos en la declaración-liquidación, según la siguiente tabla:
+El campo Comunidad Autónoma debe cumplimentarse siempre que exista en la declaración-liquidación algún producto gravado con tipo estatal especial. Se indicará la Comunidad Autónoma de destino de los productos incluidos en la declaración-liquidación, según la siguiente tabla:
 
 | Andalucía | 01 | Aragón | 02 | Principado de Asturias | 03 |
 | --- | --- | --- | --- | --- | --- |
@@ -126,5 +126,7 @@ Declaración complementaria: se marcará con una X si la presentación de esta d
 Solicitud sustitutiva: se marcará con una X si la presentación de esta declaración tiene por objeto rectificar registros declarados que han sido consignados de manera errónea en otra declaración del mismo ejercicio presentada anteriormente.
 
 N.º de justificante de la declaración anterior: se consignará el número de justificante correspondiente a la declaración a la que sustituye o complementa.
+
+> Se modifica por la disposición final 2 de la Orden HAP/290/2013, de 19 de febrero. Ref. BOE-A-2013-2084#dfsegunda
 
 > Se añade por el art. único.6 de la Orden HAP/71/2013, de 30 de enero, que figura como Anexo I de la misma. Ref. BOE-A-2013-953

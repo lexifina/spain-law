@@ -12,8 +12,9 @@
 | 308 | Devolución IVA Régimen especial recargo de equivalencia, art. 30 bis RIVA y sujetos pasivos ocasionales | M-T-0A |
 | 311 | Devolución IVA régimen simplificado. Declaración final | 4T |
 | 371 | Devolución IVA régimen general y simplificado. Declaración final | 4T |
-| 582 | Impuesto sobre Hidrocarburos. Regularización por reexpedición de productos a otra Comunidad Autónoma. | 1T, 2T, 3T, 4T. |
 | 695 | Tasa por el ejercicio de la potestad jurisdiccional en los órdenes civil, contencioso-administrativo y social. Solicitud de devolución por solución extrajudicial del litigio y por acumulación de procesos. | 0A |
+
+> Se suprime el modelo 582 por la disposición final 1 de la Orden HAP/290/2013, de 19 de febrero. Ref. BOE-A-2013-2084.
 
 > Se añade el modelo 582 por la disposición final 3.3 de la Orden HAP/71/2013, de 30 de enero. Ref. BOE-A-2013-953.
 

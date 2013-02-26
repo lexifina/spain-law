@@ -1,0 +1,11 @@
+## Disposición final segunda. Modificación de la Orden EHA/3482/2007, de 20 de noviembre, por la que se aprueban determinados modelos, se refunden y actualizan diversas normas de gestión en relación con los Impuestos Especiales de Fabricación y con el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos y se modifica la Orden EHA/1308/2005, de 11 de mayo, por la que se aprueba el modelo 380 de declaración-liquidación del Impuesto sobre el Valor Añadido en operaciones asimiladas a las importaciones, se determinan el lugar, forma y plazo de presentación así como las condiciones generales y el procedimiento para su presentación por medios telemáticos, y otra normativa tributaria.
+
+La Orden EHA/3482/2007, de 20 de noviembre, por la que se aprueban determinados modelos, se refunden y actualizan diversas normas de gestión en relación con los Impuestos Especiales de Fabricación y con el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos y se modifica la Orden EHA/1308/2005, de 11 de mayo, por la que se aprueba el modelo 380 de declaración-liquidación del Impuesto sobre el Valor Añadido en operaciones asimiladas a las importaciones, se determinan el lugar, forma y plazo de presentación así como las condiciones generales y el procedimiento para su presentación por medios telemáticos, y otra normativa tributaria, queda modificada como sigue:
+
+Uno. En el anexo V bis, «Formato electrónico modelo 581. Impuesto sobre Hidrocarburos. Declaración-liquidación. Contenido de la declaración», el primer párrafo se sustituye por el siguiente:
+
+«Se deberá presentar un modelo 581 por cada Comunidad Autónoma de destino de productos gravados con tipo estatal especial.»
+
+Dos. En el anexo V bis, «Formato electrónico modelo 581. Impuesto sobre Hidrocarburos. Declaración-liquidación. Contenido de la declaración», A. Datos de cabecera, Comunidad Autónoma, el primer párrafo se sustituye por el siguiente:
+
+«El campo Comunidad Autónoma debe cumplimentarse siempre que exista en la declaración-liquidación algún producto gravado con tipo estatal especial. Se indicará la Comunidad Autónoma de destino de los productos incluidos en la declaración-liquidación, según la siguiente tabla:»
