@@ -1,0 +1,3 @@
+## Disposición adicional primera.
+
+En aplicación de lo dispuesto en la disposición derogatoria única de la Orden CUL/1077/2011, de 25 de abril, por la que se fijan los precios públicos de determinados servicios prestados por los órganos centrales del Ministerio de Cultura, desde la entrada en vigor de la presente resolución, no será de aplicación al Museo Nacional del Prado la Orden de 20 de enero de 1995, por la que se regula la utilización de espacios de Museos y otras Instituciones y se establecen los precios públicos de determinados servicios prestados por los Centros Directivos y Organismos Autónomos del Ministerio de Cultura.

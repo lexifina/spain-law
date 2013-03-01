@@ -1,0 +1,15 @@
+Con fecha 23 de enero de 2013, la Comisión Permanente del Real Patronato del Museo, estableció los nuevos precios públicos de entrada al Museo, así como la revisión del régimen de acceso de algunas categorías de visitantes, además de ofrecer nuevas medidas para el fomento de la visita de acuerdo a la realidad económica de la Institución.
+
+En aras de completar el marco de precios del Museo, se requiere la aprobación de un nuevo Acuerdo de la Comisión Permanente del Real Patronato por el que se fijen los precios de los servicios y actividades del Museo no contemplados en el Acuerdo anterior.
+
+En concreto, dichos servicios y actividades son los relativos a la divulgación cultural, incluidos los educativos, los de préstamo de obras de arte, los de biblioteca, archivo y documentación, el acceso de copistas a las salas del Museo, así como la de los distintos grupos profesionales.
+
+De acuerdo con artículo 17.1 e) de la Ley 46/2003, de 25 de noviembre, reguladora del Museo Nacional del Prado, entre los recursos económicos del Museo, figuran los ingresos ordinarios y extraordinarios, de derecho público o privado, que procedan del ejercicio de su actividad.
+
+Concretamente, el artículo 18.4 de la citada Ley, califica como ingresos de derecho privado, los ingresos que perciba el Museo Nacional del Prado por la prestación de servicios o la realización de actividades que, de acuerdo con la ley, no tengan la naturaleza de tasas o precios públicos. En este sentido, el artículo 2 b) de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, viene a establecer que los preceptos de esta última no serán aplicables a las contraprestaciones por las actividades que realicen y los servicios que presten las entidades u organismos públicos cuando actúen según normas de derecho privado.
+
+La relación de servicios y actividades regulados por la presente resolución engloba, tanto los servicios contenidos en el anexo III de la Orden de 20 de enero de 1995 del Ministerio de Cultura, como los servicios y actividades regulados mediante los distintos Acuerdos de la Comisión Permanente del Real Patronato del Museo del Prado que por esta resolución se dejan sin efecto.
+
+En atención a todo lo anterior, teniendo presente lo dispuesto en la disposición derogatoria única de la Orden CUL/1077/2011, de 25 de abril, desde la entrada en vigor de la presente resolución, no será de aplicación al Museo Nacional del Prado, la Orden de 20 de enero de 1995 del Ministerio de Cultura, por la que se regulaba la utilización de espacios de Museos y otras Instituciones y se establecían los precios públicos de determinados servicios prestados por los Centros Directivos y Organismos Autónomos del Ministerio de Cultura.
+
+En consecuencia, la presente resolución de la Comisión Permanente, dictada a propuesta del Director, según establece el artículo 5.5 f) del Real Decreto 433/2004, de 12 de marzo, por el que se aprueba el Estatuto del Museo Nacional del Prado, en el marco jurídico privado previsto en el artículo 2 de la ley reguladora del Museo, aprueba la relación de precios por prestación de determinados servicios y actividades del Museo Nacional del Prado.
