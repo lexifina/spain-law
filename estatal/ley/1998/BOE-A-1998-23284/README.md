@@ -97,6 +97,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 62](a62.md)
 - [Artículo 63](a63.md)
 - [Artículo 63 bis](a63bis.md)
+- [Artículo 63 ter](a63ter.md)
 - [Artículo 63 quáter](a63quater.md)
 - [CAPITULO III](ciii-3.md)
 - [Artículo 64](a64.md)
