@@ -1,0 +1,3 @@
+## Primero. Delegación de competencias.
+
+En el ámbito del Ministerio de Hacienda y Administraciones Públicas, la delegación realizada en el apartado primero de la Resolución de 4 de junio de 2007 de las competencias que corresponden a esta Dirección General en virtud de los artículos 122.1 y 124.4 de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Publicas, en relación con los procedimientos para la concertación de arrendamientos y para la prórroga, novación y resolución anticipada de estos contratos se entenderá efectuada en el titular del Departamento de Servicios y Coordinación Territorial, cuando dichos procedimientos se refieran a inmuebles cuya gestión corresponda a la Subsecretaría del Departamento.
