@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 138, de 10 de junio de 2006. Ref. BOE-A-2006-10351.
+Norma derogada por la disposición derogatoria única de la Orden AAA/351/2013, de 27 de febrero. Ref. BOE-A-2013-2440.
