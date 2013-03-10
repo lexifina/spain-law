@@ -1,0 +1,11 @@
+El Colegio Oficial de Ingenieros Técnicos Forestales es una Corporación de Derecho Público con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines y fue creado por el Decreto 927/1965, de 8 de abril, bajo la denominación de Colegio de Peritos de Montes, denominación después modificada por la de Colegio Oficial de Ingenieros Técnicos Forestales y Peritos de Montes, y posteriormente por la de Colegio Oficial de Ingenieros Técnicos Forestales, por medio del Real Decreto 3115/1982, de 15 de octubre, denominación que se mantiene hasta la actualidad.
+
+Los cambios introducidos por la Orden CIN/324/2009, de 9 de febrero, por la que se establecen los títulos universitarios oficiales que habilitan para el ejercicio de Ingeniero Técnico Forestal, y los cambios introducidos por la Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, incorporada a nuestro ordenamiento a través de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, y a través de la Ley 25/2009, de 22 de diciembre, de modificación de diversas leyes para su adaptación a la Ley sobre el libre acceso a las actividades de servicios y su ejercicio, que modifica en su artículo 5 la Ley 2/1974, de 13 de febrero, sobre Colegios Profesionales, hacen necesario adaptar los Estatutos del Colegio Oficial de Ingenieros Técnicos Forestales, aprobados por el Real Decreto 614/1999, de 16 abril.
+
+De este modo, con el fin de actualizar sus Estatutos y de adaptarlos a los nuevos principios introducidos en nuestro ordenamiento, sobre denominación y contenido, se aprueban los nuevos Estatutos del Colegio Oficial de Ingenieros Técnicos Forestales.
+
+El Colegio Oficial de Ingenieros Técnicos Forestales, oídos los Colegios Profesionales de su especialidad, ha elevado propuesta de nuevos Estatutos a la consideración del Ministerio de Agricultura, Alimentación y Medio Ambiente de acuerdo con las previsiones del artículo 6.2 de la Ley 2/1974, de 13 de febrero.
+
+En su virtud, a propuesta del Ministro de Agricultura, Alimentación y Medio Ambiente, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 22 de febrero de 2013,
+
+DISPONGO:
