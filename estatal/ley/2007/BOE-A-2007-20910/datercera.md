@@ -6,8 +6,10 @@ a) Que a la muerte del causante, reuniendo éste los requisitos de alta y cotiza
 
 b) Que el beneficiario hubiera mantenido convivencia ininterrumpida, como pareja de hecho en los términos establecidos en el primer inciso, párrafo cuarto, artículo 174.3 de la Ley General de la Seguridad Social, en la redacción dada por el artículo 5 de la presente Ley, con el causante, durante, al menos, los seis años anteriores al fallecimiento de éste.
 
-c) Que el causante y el beneficiario hubieran tenido hijos comunes.
+c) (Anulada)
 
 d) Que el beneficiario no tenga reconocido derecho a pensión contributiva de la Seguridad Social.
 
 e) Para acceder a la pensión regulada en la presente disposición, la correspondiente solicitud deberá ser presentada en el plazo improrrogable de los doce meses siguientes a la entrada en vigor de esta Ley. La pensión reconocida tendrá efectos económicos desde el día primero de 2007, siempre que se cumplan todos los requisitos previstos en esta disposición.
+
+> Se declara la inconstitucionalidad y nulidad de la letra c) por Sentencia del TC 41/2013, de 14 de febrero. Ref. BOE-A-2013-2724.
