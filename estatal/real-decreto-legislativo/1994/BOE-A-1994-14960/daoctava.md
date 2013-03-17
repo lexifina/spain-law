@@ -12,6 +12,12 @@ No obstante lo dispuesto en el párrafo anterior, se exceptúa la aplicación a 
 
 5. Lo previsto en el último párrafo del apartado 2 y en el apartado 4 del artículo 139 será de aplicación a todos los regímenes que integran el sistema de la Seguridad Social. A efectos de determinar el importe mínimo de la pensión y del cálculo del complemento a que se refieren, respectivamente, dichos apartados se tomará en consideración como base mínima de cotización la vigente en cada momento en el Régimen General, cualquiera que sea el régimen con arreglo a cuyas normas se reconozcan las pensiones de incapacidad permanente total y de gran invalidez.
 
+6. No obstante lo indicado en los apartados precedentes, lo dispuesto en el artículo 166.3, en lo que se refiere a la reducción del 0,50 por 100 prevista en su segundo inciso, y la escala de edades incluida en el artículo 166.2 a) no será de aplicación a los trabajadores a que se refiere la norma 2.ª de la disposición transitoria tercera del Decreto 1867/1970, de 9 de julio, por el que se aprueba el Reglamento General de la Ley 116/1969, de 30 de diciembre, por el que se regula el Régimen Especial de la Seguridad Social de los Trabajadores del Mar.
+
+> Se añade el apartado 6 por la disposición final 1.3 del Real Decreto-ley 5/2013, de 15 de marzo. Ref. BOE-A-2013-2874.
+
+> Redactado conforme a la corrección de errores y erratas publicada en BOE núm. 81, de 4 de abril de 2013. Ref. BOE-A-2013-3609.
+
 > Se modifican los apartados 2 y 4 por la disposición final 1.4 de la Ley 28/2011, de 22 de septiembre. Ref. BOE-A-2011-15038.
 
 > Se modifican los apartados 1 y 4, por las disposiciones final 8 y adicional 40.4 de la Ley 27/2011, de 1 de agosto. Ref. BOE-A-2011-13242.

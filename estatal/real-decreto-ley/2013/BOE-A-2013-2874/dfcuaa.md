@@ -1,0 +1,9 @@
+## Disposición final cuarta. Modificación del Real Decreto 1493/2011, de 24 de octubre, por el que se regulan los términos y las condiciones de inclusión en el Régimen General de la Seguridad Social de las personas que participen en programas de formación, en desarrollo de lo previsto en la disposición adicional tercera de la Ley 27/2011, de 1 de agosto, sobre actualización, adecuación y modernización del sistema de Seguridad Social.
+
+Las reglas 2.ª y 4.ª del apartado 1 de la disposición adicional primera del Real Decreto 1493/2011, de 24 de octubre, por el que se regulan los términos y las condiciones de inclusión en el Régimen General de la Seguridad Social de las personas que participen en programas de formación, en desarrollo de lo previsto en la disposición adicional tercera de la Ley 27/2011, de 1 de agosto, sobre actualización, adecuación y modernización del sistema de Seguridad Social, quedan redactadas en los siguientes términos:
+
+«2.ª La solicitud de suscripción del convenio especial podrá formularse hasta el 31 de diciembre de 2014. En los casos en que se acredite la imposibilidad de aportar la justificación necesaria para su suscripción dentro del plazo señalado, se podrá conceder, excepcionalmente, un plazo de seis meses para su aportación, a contar desde la fecha en la que se hubiese presentado la respectiva solicitud.»
+
+«4.ª Una vez calculado por la Tesorería General de la Seguridad Social el importe total de la cotización a ingresar por este convenio especial, su abono se podrá realizar mediante un pago único o mediante un pago fraccionado en un número máximo de mensualidades igual al triple de aquellas por las que se formalice el convenio.»
+
+> Redactado conforme a la corrección de errores y erratas publicada en BOE núm. 81, de 4 de abril de 2013. Ref. BOE-A-2013-3609.

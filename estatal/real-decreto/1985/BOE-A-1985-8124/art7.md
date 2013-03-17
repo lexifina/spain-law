@@ -24,13 +24,9 @@ Lo previsto en este apartado se aplicará: a las indemnizaciones por extinción 
 
 Si durante la percepción de la prestación se le hubiere suspendido el derecho en el supuesto previsto en el artículo 212.1.a) del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, y el período de suspensión excediera del que resta para agotar la prestación, no podrá solicitar el subsidio hasta transcurrido un mes a partir de que se cumpla totalmente el período de suspensión.
 
-3. El trabajador mayor de cincuenta y dos años que reúna los requisitos establecidos para acceder al subsidio previsto en el artículo 215.1.3 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, podrá obtener ese subsidio cuando:
+3. (Derogado).
 
-a) Estuviese percibiendo o tuviese derecho a percibir un subsidio.
-
-b) Hubiese agotado un subsidio.
-
-c) Hubiera agotado una prestación por desempleo y no percibido el subsidio correspondiente o lo hubiese extinguido, por carecer, inicialmente o con carácter sobrevenido, del requisito de rentas y, o, del de responsabilidades familiares.
+> Se deroga el apartado 3 por la disposición derogatoria única del Real Decreto-ley 5/2013, de 15 de marzo. Ref. BOE-A-2013-2874.
 
 > Se modifica por el art. único.5 del Real Decreto 200/2006, de 17 de febrero. Ref. BOE-A-2006-3767
 

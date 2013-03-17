@@ -4,11 +4,13 @@
 
 2. La base de cotización durante la jubilación parcial a que se refiere la letra g) del apartado 2 del artículo 166 se aplicará de forma gradual conforme a los porcentajes calculados sobre la base de cotización a jornada completa de acuerdo con la siguiente escala:
 
-a) Durante el año 2013, la base de cotización será equivalente al 30 por 100 de la base de cotización que hubiera correspondido a jornada completa.
+a) Durante el año 2013, la base de cotización será equivalente al 50 por 100 de la base de cotización que hubiera correspondido a jornada completa.
 
 b) Por cada año transcurrido a partir del año 2014 se incrementará un 5 por 100 más hasta alcanzar el 100 por 100 de la base de cotización que le hubiera correspondido a jornada completa.
 
-En ningún caso el porcentaje de base de cotización fijado para cada ejercicio en la escala anterior podrá resultar inferior al porcentaje de actividad laboral efectivamente realizada.
+c) En ningún caso el porcentaje de base de cotización fijado para cada ejercicio en la escala anterior podrá resultar inferior al porcentaje de actividad laboral efectivamente realizada.
+
+> Se modifica por el art. 6.3 de la Ley 27/2011, de 1 de agosto, en la redacción dada por el art. 7.2 del Real Decreto-ley 5/2013, de 15 de marzo. Ref. BOE-A-2013-2874.
 
 > Se añade por el art. 6.3 de la Ley 27/2011, de 1 de agosto. Ref. BOE-A-2011-13242.
 

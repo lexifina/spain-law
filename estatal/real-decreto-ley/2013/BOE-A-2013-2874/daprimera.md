@@ -1,0 +1,9 @@
+## Disposición adicional primera. Mantenimiento del empleo durante la percepción de la pensión de jubilación compatible con el trabajo.
+
+Las empresas en las que se compatibilice la prestación de servicios con el disfrute de la pensión de jubilación conforme a lo dispuesto en el capítulo I no deberán haber adoptado decisiones extintivas improcedentes en los seis meses anteriores a dicha compatibilidad. La limitación afectará únicamente a las extinciones producidas con posterioridad a la entrada en vigor de este real decreto-ley, y para la cobertura de aquellos puestos de trabajo del mismo grupo profesional que los afectados por la extinción.
+
+Una vez iniciada la compatibilidad entre pensión y trabajo, la empresa deberá mantener, durante la vigencia del contrato de trabajo del pensionista de jubilación, el nivel de empleo existente en la misma antes de su inicio. A este respecto se tomará como referencia el promedio diario de trabajadores de alta en la empresa en el periodo de los 90 días anteriores a la compatibilidad, calculado como el cociente que resulte de dividir entre 90 la suma de los trabajadores que estuvieran en alta en la empresa en los 90 días inmediatamente anteriores a su inicio.
+
+No se considerarán incumplidas la obligaciones de mantenimiento del empleo anteriores cuando el contrato de trabajo se extinga por causas objetivas o por despido disciplinario cuando uno u otro sea declarado o reconocido como procedente, ni las extinciones causadas por dimisión, muerte, jubilación o incapacidad permanente total, absoluta o gran invalidez de los trabajadores o por la expiración del tiempo convenido o realización de la obra o servicio objeto del contrato.
+
+> Redactado el párrafo primero conforme a la corrección de errores y erratas publicada en BOE núm. 81, de 4 de abril de 2013. Ref. BOE-A-2013-3609.
