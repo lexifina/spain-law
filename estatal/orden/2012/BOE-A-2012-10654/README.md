@@ -23,5 +23,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [ANEXO II B](aniib.md)
 - [ANEXO III](aniii.md)
 - [ANEXO IV](aniv.md)
+- [ANEXO IV.bis](aniv.bis.md)
 - [ANEXO V](anv.md)
 - [ANEXO VI](anvi.md)
