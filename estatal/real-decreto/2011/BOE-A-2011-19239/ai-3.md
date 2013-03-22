@@ -444,11 +444,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Módulo formativo | Número de horas totales del módulo | Nº de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Módulo formativo - MF0010_1 | 30 | 10 |
+Formación a distancia: (Suprimido)
 
 MÓDULO FORMATIVO 2
 
@@ -620,11 +616,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Módulo formativo | Número de horas totales del módulo | Nº de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Módulo formativo - MF1308_1 | 50 | 10 |
+Formación a distancia: (Suprimido)
 
 MÓDULO FORMATIVO 3
 
@@ -714,11 +706,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Módulo formativo | Duración total en horas de las unidades formativas | Nº de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Módulo formativo - MF1309_1 | 50 | 10 |
+Formación a distancia: (Suprimido)
 
 MÓDULO FORMATIVO 4
 
@@ -900,11 +888,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Módulo formativo | Número de horas totales del módulo | Nº de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Módulo formativo - MF0733_1 | 60 | 10 |
+Formación a distancia: (Suprimido)
 
 MÓDULO DE PRÁCTICAS PROFESIONALES NO LABORALES DE AMARRE DE PUERTOS Y MONOBOYAS
 
@@ -991,10 +975,10 @@ IV. PRESCRIPCIONES DE LOS FORMADORES
 | Módulos Formativos | Acreditación requerida | Experiencia profesional requerida en el ámbito de la unidad de competencia |
 | --- | --- | --- |
 | Con acreditación | Sin acreditación |
-| MF0010_1: Labores de cubierta en buque de pesca | • Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes • Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes • Técnico Superior de Navegación, Pesca y Transporte Marítimo. • Técnico en Pesca y Transporte Marítimo • Certificados de profesionalidad nivel 2 y 3 del área profesional de pesca de la familia profesional marítimo-pesquera | 2 años | 4 años |
-| MF1038_1: Amarre y desamarre de buques en puerto | • Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes • Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes • Técnico Superior de Navegación, Pesca y Transporte Marítimo. • Técnico en Pesca y Transporte Marítimo • Certificados de profesionalidad nivel 2 y 3 del área profesional de pesca de la familia profesional marítimo-pesquera | 2 años | 4 años |
-| MF1039_1: Amarre, conexión/desconexión de mangueras y desamarre de buques a monoboyas | • Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes • Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes • Técnico Superior de Navegación, Pesca y Transporte Marítimo. • Técnico en Pesca y Transporte Marítimo • Certificados de profesionalidad nivel 2 y 3 del área profesional de pesca de la familia profesional marítimo-pesquera | 2 años | 4 años |
-| MF0733_1: Seguridad y primeros auxilios a bordo | • Titulación profesional establecida en la Orden FOM/2296/2002, de 4 de septiembre (Titulación profesional superior de la Marina Civil) | Imprescindible titulación | - |
+| MF0010_1: Labores de cubierta en buque de pesca | • Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes • Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes • Técnico Superior de Navegación, Pesca y Transporte Marítimo. • Técnico en Pesca y Transporte Marítimo • Certificados de profesionalidad nivel 2 y 3 del área profesional de pesca de la familia profesional marítimo-pesquera | 1 año | 4 años |
+| MF1038_1: Amarre y desamarre de buques en puerto | • Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes • Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes • Técnico Superior de Navegación, Pesca y Transporte Marítimo. • Técnico en Pesca y Transporte Marítimo • Certificados de profesionalidad nivel 2 y 3 del área profesional de pesca de la familia profesional marítimo-pesquera | 1 año | 4 años |
+| MF1039_1: Amarre, conexión/desconexión de mangueras y desamarre de buques a monoboyas | • Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes • Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes • Técnico Superior de Navegación, Pesca y Transporte Marítimo. • Técnico en Pesca y Transporte Marítimo • Certificados de profesionalidad nivel 2 y 3 del área profesional de pesca de la familia profesional marítimo-pesquera | 1 año | 4 años |
+| MF0733_1: Seguridad y primeros auxilios a bordo | • Titulación profesional establecida en la Orden FOM/2296/2002, de 4 de septiembre (Titulación profesional superior de la Marina Civil) | 1 año | - |
 
 V. REQUISITOS MÍNIMOS DE ESPACIOS, INSTALACIONES Y EQUIPAMIENTO
 
@@ -1020,3 +1004,5 @@ Las instalaciones y equipamientos deberán cumplir con la normativa industrial e
 El número de unidades que se deben disponer de los utensilios, máquinas y herramientas que se especifican en el equipamiento de los espacios formativos, será el suficiente para un mínimo de 15 alumnos y deberá incrementarse, en su caso, para atender a número superior.
 
 En el caso de que la formación se dirija a personas con discapacidad se realizarán las adaptaciones y los ajustes razonables para asegurar su participación en condiciones de igualdad.
+
+> Se suprime el punto «Formación a distancia» en el apartado III y se modifica la columna «con acreditación» dentro de la «Experiencia profesional requerida en el ámbito de la unidad de competencia» del apartado IV por el art. 4.2 y 3 del Real Decreto 189/2013, de 15 de marzo. Ref. BOE-A-2013-3092

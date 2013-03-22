@@ -1373,11 +1373,11 @@ IV. PRESCRIPCIONES DE LOS FORMADORES
 | Módulos Formativo | Acreditación requerida | Experiencia profesional requerida en el ámbito de la unidad de competencia |
 | --- | --- | --- |
 | Con acreditación | Sin acreditación |
-| MF0010_1: Operaciones de una embarcación pesquera. | ● Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes. ● Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes. ● Técnico Superior de Navegación, Pesca y Transporte Marítimo. ● Técnico en Pesca y Transporte Marítimo. ● Certificados de profesionalidad nivel 2 y 3 del área profesional de pesca de la familia profesional marítimo-pesquera. | 2 años | 4 años |
-| MF1896_3 Gestión de la actividad pesquera del buque. | ● Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes. ● Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes | 2 años |
-| MF1897_3 Documentación para la gestión del buque. | ● Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes. ● Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes | 2 años |
-| MF1898_3 Documentación para la actividad pesquera. | ● Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes. ● Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes | 2 años |
-| MF0733_1: Seguridad y primeros auxilios a bordo. | ● Titulación profesional establecida en la Orden FOM/2296/2002, de 4 de septiembre (Titulación profesional superior de la Marina Civil). | Imprescindible titulación |  |
+| MF0010_1: Operaciones de una embarcación pesquera. | ● Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes. ● Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes. ● Técnico Superior de Navegación, Pesca y Transporte Marítimo. ● Técnico en Pesca y Transporte Marítimo. ● Certificados de profesionalidad nivel 2 y 3 del área profesional de pesca de la familia profesional marítimo-pesquera. | 1 año | 4 años |
+| MF1896_3 Gestión de la actividad pesquera del buque. | ● Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes. ● Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes | 1 año | 2 años |
+| MF1897_3 Documentación para la gestión del buque. | ● Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes. ● Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes | 1 año | 2 años |
+| MF1898_3 Documentación para la actividad pesquera. | ● Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes. ● Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes | 1 año | 2 años |
+| MF0733_1: Seguridad y primeros auxilios a bordo. | ● Titulación profesional establecida en la Orden FOM/2296/2002, de 4 de septiembre (Titulación profesional superior de la Marina Civil). | 1 año |  |
 
 V. REQUISITOS MÍNIMOS DE ESPACIOS, INSTALACIONES Y EQUIPAMIENTO
 
@@ -1398,3 +1398,5 @@ Las instalaciones y equipamientos deberán cumplir con la normativa industrial e
 El número de unidades que se deben disponer de los utensilios, máquinas y herramientas que se especifican en el equipamiento de los espacios formativos, será el suficiente para un mínimo de 15 alumnos y deberá incrementarse, en su caso, para atender a número superior.
 
 En el caso de que la formación se dirija a personas con discapacidad se realizarán las adaptaciones y los ajustes razonables para asegurar su participación en condiciones de igualdad.
+
+> Se modifica la columna «con acreditación» dentro de la «Experiencia profesional requerida en el ámbito de la unidad de competencia» del apartado IV por el art. 4.3 del Real Decreto 189/2013, de 15 de marzo. Ref. BOE-A-2013-3092

@@ -644,17 +644,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Unidades formativas | Duración total en horas de las unidades formativas | Nº de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Unidad formativa 1 – UF1384 | 90 | 50 |
-| Unidad formativa 2 – UF1385 | 60 | 50 |
-| Unidad formativa 3 – UF1386 | 30 | 10 |
-
-Secuencia:
-
-Para acceder a la unidad formativa 3 debe haberse superado la unidad formativa 2 y para acceder a la unidad formativa 2 debe haberse superado la unidad formativa 1.
+Formación a distancia: (Suprimido)
 
 Criterios de acceso para los alumnos
 
@@ -888,16 +878,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Unidades formativas | Duración total en horas de las unidades formativas | Nº máximo de horas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Unidad formativa 1 – UF1387 | 60 | 20 |
-| Unidad formativa 2 – UF1388 | 50 | 10 |
-
-Secuencia:
-
-Para acceder a la unidad formativa 2 debe haberse superado la unidad formativa 1.
+Formación a distancia: (Suprimido)
 
 Criterios de acceso para los alumnos
 
@@ -1023,11 +1004,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Módulo formativo | Número de horas totales del módulo | Nº máximo de horas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Módulo formativo - MF0746_3 | 70 | 50 |
+Formación a distancia: (Suprimido)
 
 Criterios de acceso para los alumnos
 
@@ -1208,3 +1185,5 @@ Las instalaciones y equipamientos deberán cumplir con la normativa industrial e
 El número de unidades que se deben disponer de los utensilios, máquinas y herramientas que se especifican en el equipamiento de los espacios formativos, será el suficiente para un mínimo de 15 alumnos y deberá incrementarse, en su caso, para atender a número superior.
 
 En el caso de que la formación se dirija a personas con discapacidad se realizarán las adaptaciones y los ajustes razonables para asegurar su participación en condiciones de igualdad.
+
+> Se suprime el punto «Formación a distancia» en el apartado III por el art. 4.2 del Real Decreto 189/2013, de 15 de marzo. Ref. BOE-A-2013-3092

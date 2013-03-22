@@ -496,13 +496,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Unidades formativas | Duración total en horas de las unidades formativas | Número máximo de horas a impartir a distancia |
-| --- | --- | --- |
-| Unidad formativa 1 | 30 | 20 |
-| Unidad formativa 2 | 90 | 20 |
-| Unidad formativa 3 | 70 | 10 |
+Formación a distancia (Suprimido)
 
 Secuencia:
 
@@ -690,12 +684,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Unidades formativas | Duración total en horas de las unidades formativas | Número de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Unidad formativa 1. | 70 | 10 |
-| Unidad formativa 2. | 30 | 10 |
+Formación a distancia (Suprimido)
 
 Secuencia:
 
@@ -809,9 +798,9 @@ IV. PRESCRIPCIONES DE LOS FORMADORES
 
 | Módulos Formativo | Acreditación | Experiencia profesional requerida en el ámbito de la unidad de competencia |
 | --- | --- | --- |
-| Si se cuenta con titulación | Si no se cuenta con titulación |
-| MF00013_2: Montaje de artes y aparejos de pesca. | – Capitán de pesca. – Técnico Superior de Navegación, pesca y transporte marítimo. – Certificado de profesionalidad de nivel 3 de la familia Marítimo-pesquera (área de pesca y navegación). | 3 años | 4 años |
-| MF0014_2: Reparación y conservación de artes y aparejos de pesca. | – Capitán de pesca. – Técnico Superior de Navegación, pesca y transporte marítimo. – Certificado de profesionalidad de nivel 3 de la familia Marítimo-pesquera (área de pesca y navegación). | 3 años | 4 años |
+| Si se cuenta con acreditación | Si no se cuenta con acreditación |
+| MF00013_2: Montaje de artes y aparejos de pesca. | – Capitán de pesca. – Técnico Superior de Navegación, pesca y transporte marítimo. – Certificado de profesionalidad de nivel 3 de la familia Marítimo-pesquera (área de pesca y navegación). | 1 año | 4 años |
+| MF0014_2: Reparación y conservación de artes y aparejos de pesca. | – Capitán de pesca. – Técnico Superior de Navegación, pesca y transporte marítimo. – Certificado de profesionalidad de nivel 3 de la familia Marítimo-pesquera (área de pesca y navegación). | 1 años | 4 años |
 
 V. REQUISITOS MÍNIMOS DE ESPACIOS, INSTALACIONES Y EQUIPAMIENTO
 
@@ -835,5 +824,7 @@ Las instalaciones y equipamientos deberán cumplir con la normativa industrial e
 El número de unidades que se deben disponer de los utensilios, máquinas y herramientas que se especifican en el equipamiento de los espacios formativos, será el suficiente para un mínimo de 15 alumnos y deberá incrementarse, en su caso, para atender a número superior.
 
 En el caso de que la formación se dirija a personas con discapacidad se realizarán las adaptaciones y los ajustes razonables para asegurar su participación en condiciones de igualdad.
+
+> Se suprime el punto «Formación a distancia» en el apartado III y se modifica la columna «con acreditación» dentro de la «Experiencia profesional requerida en el ámbito de la unidad de competencia» del apartado IV por el art. 4.2 y 3 del Real Decreto 189/2013, de 15 de marzo. Ref. BOE-A-2013-3092
 
 > Se sustituye en el apartado IV la denominación «Titulación requerida» por el término «Acreditación», y se modifican en el apartado III los criterios de acceso para los alumnos, por el art. 2.3 y 4 del Real Decreto 1675/2010, de 10 de diciembre. Ref. BOE-A-2010-20148

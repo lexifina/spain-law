@@ -524,11 +524,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Módulo formativo | Número de horas totales del módulo | Nº de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Módulo formativo - MF0537_ 2 | 30 | 20 |
+Formación a distancia: (Suprimido)
 
 Criterios de acceso para los alumnos
 
@@ -716,16 +712,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Unidades formativas | Duración total en horas de las unidades formativas | Nº de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Unidad formativa 1 – UF1635 | 30 | 10 |
-| Unidad formativa 2 – UF1636 | 70 | 10 |
-
-Secuencia:
-
-Para acceder a la unidad formativa 2 debe haberse superado la unidad formativa 1.
+Formación a distancia: (Suprimido)
 
 Criterios de acceso para los alumnos
 
@@ -1013,17 +1000,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Unidades formativas | Duración total en horas de las unidades formativas | N.º de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Unidad formativa 1 – UF1637 | 90 | 30 |
-| Unidad formativa 2 – UF1638 | 30 | 10 |
-| Unidad formativa 3 – UF1639 | 30 | 10 |
-
-Secuencia:
-
-Las unidades formativas correspondientes a este módulo se pueden programar de manera independiente.
+Formación a distancia: (Suprimido)
 
 Criterios de acceso para los alumnos
 
@@ -1195,11 +1172,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Módulo formativo | Número de horas totales del módulo | Nº de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Módulo formativo - MF0540_ 2 | 70 | 40 |
+Formación a distancia: (Suprimido)
 
 Criterios de acceso para los alumnos
 
@@ -1401,11 +1374,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Módulo formativo | Número de horas totales del módulo | Nº de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Módulo formativo - MF0541_ 1 | 90 | 30 |
+Formación a distancia: (Suprimido)
 
 MÓDULO DE PRÁCTICAS PROFESIONALES NO LABORALES DE NAVEGACIÓN EN AGUAS INTERIORES Y PRÓXIMAS A LA COSTA
 
@@ -1565,3 +1534,5 @@ Las instalaciones y equipamientos deberán cumplir con la normativa industrial e
 El número de unidades que se deben disponer de los utensilios, máquinas y herramientas que se especifican en el equipamiento de los espacios formativos, será el suficiente para un mínimo de 15 alumnos y deberá incrementarse, en su caso, para atender a número superior.
 
 En el caso de que la formación se dirija a personas con discapacidad se realizarán las adaptaciones y los ajustes razonables para asegurar su participación en condiciones de igualdad.
+
+> Se suprime el punto «Formación a distancia» en el apartado III por el art. 4.2 del Real Decreto 189/2013, de 15 de marzo. Ref. BOE-A-2013-3092

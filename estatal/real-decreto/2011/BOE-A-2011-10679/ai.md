@@ -558,13 +558,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Unidades formativas | Duración total en horas de las unidades formativas | N.º de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Unidad formativa 1 – UF0794. | 30 | 10 |
-| Unidad formativa 2 – UF0795. | 40 | 10 |
-| Unidad formativa 3 – UF0796. | 30 | 20 |
+Formación a distancia: (Suprimido)
 
 Secuencia:
 
@@ -910,13 +904,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Unidades formativas | Duración total en horas de las unidades formativas | N.º de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Unidad formativa 1 – UF0794. | 30 | 10 |
-| Unidad formativa 2 – UF0797. | 40 | 10 |
-| Unidad formativa 3 – UF0796. | 30 | 20 |
+Formación a distancia: (Suprimido)
 
 Secuencia:
 
@@ -1304,13 +1292,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Unidades formativas | Duración total en horas de las unidades formativas | N.º de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Unidad formativa 1 – UF0794. | 30 | 10 |
-| Unidad formativa 2 – UF0798. | 40 | 10 |
-| Unidad formativa 3 – UF0796. | 30 | 20 |
+Formación a distancia: (Suprimido)
 
 Secuencia:
 
@@ -1471,3 +1453,5 @@ Las instalaciones y equipamientos deberán cumplir con la normativa industrial e
 El número de unidades que se deben disponer de los utensilios, máquinas y herramientas que se especifican en el equipamiento de los espacios formativos, será el suficiente para un mínimo de 15 alumnos y deberá incrementarse, en su caso, para atender a número superior.
 
 En el caso de que la formación se dirija a personas con discapacidad se realizarán las adaptaciones y los ajustes razonables para asegurar su participación en condiciones de igualdad.
+
+> Se suprime el punto de «Formación a distancia» y su contenido en el apartado «Orientaciones metodológicas» del apartado III por el art. 4.2 del Real Decreto 189/2013, de 15 de marzo. Ref. BOE-A-2013-3092

@@ -700,13 +700,7 @@ Normas de seguridad. Medidas y equipos de protección personal.
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Unidades formativas | Duración total en horas de las unidades formativas | Número máximo de horas a impartir a distancia |
-| --- | --- | --- |
-| UF0261. | 60 | 20 |
-| UF0262. | 80 | 30 |
-| UF0263. | 30 | 20 |
+Formación a distancia (Suprimido)
 
 Secuencia:
 
@@ -1162,13 +1156,7 @@ Normas de seguridad. Medidas y equipos de protección personal.
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Unidades formativas | Duración total en horas de las unidades formativas | Número máximo de horas a impartir a distancia |
-| --- | --- | --- |
-| UF0264. | 60 | 20 |
-| UF0265. | 80 | 30 |
-| UF0266. | 30 | 20 |
+Formación a distancia (Suprimido)
 
 Secuencia:
 
@@ -1340,5 +1328,9 @@ Las instalaciones y equipamientos deberán cumplir con la normativa industrial e
 El número de unidades que se deben disponer de los utensilios, máquinas y herramientas que se especifican en el equipamiento de los espacios formativos, será el suficiente para un mínimo de 15 alumnos y deberá incrementarse, en su caso, para atender a número superior.
 
 En el caso de que la formación se dirija a personas con discapacidad se realizarán las adaptaciones y los ajustes razonables para asegurar su participación en condiciones de igualdad.
+
+> Se suprime el punto «Formación a distancia» en el apartado III por el art. 4.2 del Real Decreto 189/2013, de 15 de marzo. Ref. BOE-A-2013-3092
+
+> Téngase en cuenta que en el apartado IV, en el caso de que los formadores cuenten con acreditación, la experiencia profesional requerida será un año, según establece el art. 4.3 del citado Real Decreto.
 
 > Se sustituye en el apartado IV la denominación «Titulación requerida» por el término «Acreditación», y se modifican en el apartado III los criterios de acceso para los alumnos, por el art. 2.3 y 4 del Real Decreto 1675/2010, de 10 de diciembre. Ref. BOE-A-2010-20148

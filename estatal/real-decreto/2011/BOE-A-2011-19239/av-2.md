@@ -668,17 +668,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Unidades formativas | Duración total en horas de las unidades formativas | Nº de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Unidad formativa 1 – UF1657 | 70 | 30 |
-| Unidad formativa 2 – UF1658 | 90 | 20 |
-| Unidad formativa 3 – UF1659 | 30 | 10 |
-
-Secuencia:
-
-Para acceder a la unidad formativa 3 debe haberse superado la unidad formativa 2 y para acceder a la unidad formativa 2, haberse superado la unidad formativa 1.
+Formación a distancia: (Suprimido)
 
 Criterios de acceso para los alumnos
 
@@ -1020,17 +1010,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Unidades formativas | Duración total en horas de las unidades formativas | N.º de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Unidad formativa 1 – UF1660 | 70 | 30 |
-| Unidad formativa 2 – UF1661 | 90 | 20 |
-| Unidad formativa 3 – UF1662 | 40 | 10 |
-
-Secuencia:
-
-Para acceder a la unidad formativa 3 debe haberse superado la unidad formativa 2 y para acceder a la unidad formativa 2, haberse superado la unidad formativa 1.
+Formación a distancia: (Suprimido)
 
 Criterios de acceso para los alumnos
 
@@ -1330,17 +1310,7 @@ Contenidos
 
 Orientaciones metodológicas
 
-Formación a distancia:
-
-| Unidades formativas | Duración total en horas de las unidades formativas | N.º de horas máximas susceptibles de formación a distancia |
-| --- | --- | --- |
-| Unidad formativa 1 – UF1663 | 30 | 10 |
-| Unidad formativa 2 – UF1664 | 40 | 10 |
-| Unidad formativa 3 – UF1665 | 30 | 10 |
-
-Secuencia:
-
-Para acceder a la unidad formativa 3 debe haberse superado la unidad formativa 2 y para acceder a la unidad formativa 2, haberse superado la unidad formativa 1.
+Formación a distancia: (Suprimido)
 
 Criterios de acceso para los alumnos
 
@@ -1477,9 +1447,9 @@ IV. PRESCRIPCIONES DE LOS FORMADORES
 | Módulos Formativos | Acreditación requerida | Experiencia profesional requerida en el ámbito de la unidad de competencia |
 | --- | --- | --- |
 | Con acreditación | Sin acreditación |
-| MF0285_2: Reproducción e incubación de especies acuícolas | • Licenciado, Ingeniero, Arquitecto o el título de grado correspondiente u otros títulos equivalentes. • Diplomado, Ingeniero Técnico, Arquitecto Técnico o el título de grado correspondiente u otros títulos equivalentes • Técnico superior de la familia profesional Marítimo pesquera. • Certificado de profesionalidad de nivel 3 de la familia profesional Marítimo pesquera en el área de Acuicultura | 2 años | 4 años |
-| MF0286_2: Cultivo larvario de especies acuícolas | • Licenciado, Ingeniero, Arquitecto o el título de grado correspondiente u otros títulos equivalentes. • Diplomado, Ingeniero Técnico, Arquitecto Técnico o el título de grado correspondiente u otros títulos equivalentes • Técnico superior de la familia profesional Marítimo pesquera. • Certificado de profesionalidad de nivel 3 de la familia profesional Marítimo pesquera en el área de Acuicultura. | 2 años | 4 años |
-| MF0287_2: Cultivo postlarvario, de semilla y alevines de especies acuícolas | • Licenciado, Ingeniero, Arquitecto o el título de grado correspondiente u otros títulos equivalentes. • Diplomado, Ingeniero Técnico, Arquitecto Técnico o el título de grado correspondiente u otros títulos equivalentes • Técnico superior de la familia profesional Marítimo pesquera. • Certificado de profesionalidad de nivel 3 de la familia profesional Marítimo pesquera en el área de Acuicultura | 2 años | 4 años |
+| MF0285_2: Reproducción e incubación de especies acuícolas | • Licenciado, Ingeniero, Arquitecto o el título de grado correspondiente u otros títulos equivalentes. • Diplomado, Ingeniero Técnico, Arquitecto Técnico o el título de grado correspondiente u otros títulos equivalentes • Técnico superior de la familia profesional Marítimo pesquera. • Certificado de profesionalidad de nivel 3 de la familia profesional Marítimo pesquera en el área de Acuicultura | 1 año | 4 años |
+| MF0286_2: Cultivo larvario de especies acuícolas | • Licenciado, Ingeniero, Arquitecto o el título de grado correspondiente u otros títulos equivalentes. • Diplomado, Ingeniero Técnico, Arquitecto Técnico o el título de grado correspondiente u otros títulos equivalentes • Técnico superior de la familia profesional Marítimo pesquera. • Certificado de profesionalidad de nivel 3 de la familia profesional Marítimo pesquera en el área de Acuicultura. | 1 año | 4 años |
+| MF0287_2: Cultivo postlarvario, de semilla y alevines de especies acuícolas | • Licenciado, Ingeniero, Arquitecto o el título de grado correspondiente u otros títulos equivalentes. • Diplomado, Ingeniero Técnico, Arquitecto Técnico o el título de grado correspondiente u otros títulos equivalentes • Técnico superior de la familia profesional Marítimo pesquera. • Certificado de profesionalidad de nivel 3 de la familia profesional Marítimo pesquera en el área de Acuicultura | 1 año | 4 años |
 
 V. REQUISITOS MÍNIMOS DE ESPACIOS, INSTALACIONES Y EQUIPAMIENTO
 
@@ -1512,3 +1482,5 @@ Las instalaciones y equipamientos deberán cumplir con la normativa industrial e
 El número de unidades que se deben disponer de los utensilios, máquinas y herramientas que se especifican en el equipamiento de los espacios formativos, será el suficiente para un mínimo de 15 alumnos y deberá incrementarse, en su caso, para atender a número superior.
 
 En el caso de que la formación se dirija a personas con discapacidad se realizarán las adaptaciones y los ajustes razonables para asegurar su participación en condiciones de igualdad.
+
+> Se suprime el punto «Formación a distancia» en el apartado III y se modifica la columna «con acreditación» dentro de la «Experiencia profesional requerida en el ámbito de la unidad de competencia» del apartado IV por el art. 4.2 y 3 del Real Decreto 189/2013, de 15 de marzo. Ref. BOE-A-2013-3092
