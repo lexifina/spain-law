@@ -1,8 +1,8 @@
 ## Artículo 86 bis. Agencias de suscripción.
 
-1. Las entidades aseguradoras domiciliadas en Estados miembros del Espacio Económico Europeo distintos de España y que ejerzan sus actividades en España en régimen de derecho de establecimiento o en régimen de libre prestación de servicios podrán suscribir contratos de apoderamiento con personas jurídicas españolas para la suscripción de riesgos en nombre y por cuenta de aquellas.
+1. Las entidades aseguradoras podrán celebrar contratos de apoderamiento con personas jurídicas para la suscripción de riesgos en nombre y por cuenta de aquellas.
 
-2. Una agencia de suscripción en España de una entidad aseguradora domiciliada en otro Estado miembro del Espacio Económico Europeo accederá a su actividad previa obtención de la autorización administrativa de la Dirección General de Seguros y Fondos de Pensiones.
+2. Las agencias de suscripción en España accederán a su actividad previa obtención de la autorización administrativa de la Dirección General de Seguros y Fondos de Pensiones.
 
 3. Serán requisitos necesarios para obtener y conservar la autorización administrativa los siguientes:
 
@@ -29,5 +29,7 @@ f) Disponer de un seguro de responsabilidad civil profesional o cualquier otra g
 8. La denominación «agencia de suscripción» queda reservada a las sociedades definidas en este artículo. En la documentación mercantil de suscripción de seguros y publicidad que las agencias de suscripción realicen con carácter general o a través de medios telemáticos deberán mencionar su naturaleza de agencia de suscripción y a la o las entidades aseguradoras con quienes hayan celebrado contrato de apoderamiento.
 
 9. Los departamentos y servicios de atención al cliente de las entidades aseguradoras atenderán y resolverán las quejas y reclamaciones que se presenten en relación con la actuación de las agencias de suscripción en los términos que establezca la normativa sobre protección del cliente de servicios financieros.
+
+> Se modifican los apartados 1 y 2 por la disposición final 2 del Real Decreto-Ley 6/2013, de 22 de marzo. Ref. BOE-A-2013-3199.
 
 > Se añade por la disposición final 14.8 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
