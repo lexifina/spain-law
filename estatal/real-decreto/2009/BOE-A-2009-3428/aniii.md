@@ -17,6 +17,7 @@
 | 4.3 | Mercado(s) destinatario(s) |
 | 4.4 | Duración 12-24-36 meses |
 | 4.5 | ¿Se trata de la continuación de un programa anterior por la misma organización proponente? |
+| 4.6 | ¿Se ha ejecutado el programa 5 años en un mismo país de destino? |
 | 5 | DESCRIPCIÓN DE LA ACCIÓN O PROGRAMA |
 | 5.1 | Acciones Descripción de cada actividad Justificación del presupuesto previsto para cada actividad |
 | 5.2 | Presupuesto Cuadro recapitulativo por país destinatario, actividad y año. La presentación del presupuesto debe atenerse a la misma estructura y al mismo orden que la descripción de las actividades. Véase modelo adjunto |
@@ -137,6 +138,8 @@ III. PRESUPUESTO
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | UE PROPONENTE |  | 50 50 |  | 50 50 |  | 50 50 |  | 50 50 |
 | TOTAL |  | 100 |  | 100 |  | 100 |  | 100 |
+
+> Se añade un punto 4.6 por el art. único.3 de la Orden AAA/478/2013, de 25 de marzo. Ref. BOE-A-2013-3331.
 
 > Se modifica el apartado III por el art. 1.15 del Real Decreto 461/2011, de 1 de abril. Ref. BOE-A-2011-5939.
 

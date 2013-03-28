@@ -29,6 +29,9 @@
 | Criterio a decidir por cada Comunidad Autónoma | 10 puntos |
 | 5. Subtotal | 10 puntos |
 | Valoración Total General | 100 puntos |
+| 6. Nuevo destino: |  |
+| Programas presentados por nuevos beneficiarios o que tengan como objetivo un nuevo país | 25 puntos |
+| Valoración total general | 125 puntos |
 
 * Notas a los criterios de valoracion propuestos:
 
@@ -77,3 +80,7 @@ i) Valoración de volumen para posible respuesta: más puntos a mayor volumen de
 ii) Valoración de diversidad de tipos de vino y zonas geográficas en las que está presente: mayor puntuación a mayor diversidad y abanico de productos (por dar mayor posibilidad de respuesta de comercial).
 
 5) Interés para la CCAA: a valorar por la CA.
+
+6) Nuevo destino: La puntuación se repartirá de forma proporcional al porcentaje de presupuesto destinado a nuevos países, correspondiendo los 25 puntos sólo a los programas en los que estos destinos supongan el 100 % del presupuesto.
+
+> Se añade el apartado 6 y la nota correspondiente por el art. único.4.1 y 2 de la Orden AAA/478/2013, de 25 de marzo. Ref. BOE-A-2013-3331.
