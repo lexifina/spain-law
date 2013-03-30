@@ -4,7 +4,7 @@ Uno. En la etiqueta o etiquetas de los envases constará necesariamente.
 
 Uno.Uno. Clase del producto.
 
-Uno.Dos. Razón social elaboradora.
+Uno.Dos. (Derogado)
 
 Uno.Tres. Volumen del contenido, expresado en litros y fracciones de litro, con una tolerancia del dos por ciento.
 
@@ -17,6 +17,8 @@ Uno.Cinco. Números del Registro de Fabricantes que se establece en el artículo
 Uno.Seis. La mención «elaborado en España», en tipo de letra no inferior a dos milímetros de altura.
 
 Dos. Será potestativo del elaborador hacer constar la edad de envejecimiento, por encima de los límites mínimos previstos, para cada clase de ron, en el artículo séptimo, siempre que la determinación de la vejez se realice de acuerdo con lo dispuesto en el artículo veinticinco de esta Reglamentación.
+
+> Se deroga el apartado 1.2 por el art. 4 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.
 
 > Se deroga el apartado 1.4 por la disposición derogatoria 1.5 del Real Decreto 1045/1990, de 27 de julio. Ref. BOE-A-1990-19685.
 

@@ -49,6 +49,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 21](art21.md)
 - [Art 22](art22.md)
 - [Art 23](art23.md)
+- [Arts 21 a 23 ](a2.md)
 - [TÍTULO VIII](tviii.md)
 - [Art 24](art24.md)
 - [ANEJO](anejo.md)

@@ -6,6 +6,8 @@ Los productos objeto de esta Reglamentación dedicados a la exportación se ajus
 
 15.2 Importación.
 
-Los productos de importación, comprendidos en la presente Reglamentación Técnico-Sanitaria, deberán cumplir las disposiciones aprobadas en el presente Real Decreto y además en su etiquetado se deberá hacer constar el país de origen. Las Empresas importadoras deberán proceder a su registro según lo marcado en el Real Decreto 2825/1981, sobre Registro General de Alimentos y los productos importados deberán ser anotados en el expediente correspondiente de cada Empresa en particular, y, si procede, en el registro específico de productos.
+(Derogado)
+
+> Se deroga el apartado 2 por el art. 32 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.
 
 > Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 189, de 8 de agosto de 1984. Ref. BOE-A-1984-17658.

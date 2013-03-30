@@ -1,3 +1,5 @@
 ## Art. 26. Régimen sancionador.
 
-Las infracciones a lo dispuesto en la presente Reglamentación serán sancionadas en cada caso por las autoridades competentes, de acuerdo con la legislación vigente y con lo previsto en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones en materia de defensa del consumidor y de la producción agroalimentaria, previa la instrucción del correspondiente expediente administrativo. En todo caso, el Organismo instructor del expediente que proceda, cuando sean detectadas infracciones de índole sanitaria, deberá dar cuenta inmediata de las mismas a las autoridades sanitarias que corresponda.
+(Derogado)
+
+> Se deroga por el art. 31 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.

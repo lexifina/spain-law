@@ -32,8 +32,10 @@ Simple aplicación de calor.
 
 7.2 Manipulaciones permitidas y prohibidas.—En la elaboración de cereales en copos o expandidos se observará las siguientes prescripciones:
 
-7.2.1 Los sistemas de elaboración empleados para la elaboración y conservación asegurarán un correcto estado higiénico-sanitario en el momento de la venta.
+7.2.1 (Derogado)
 
 7.2.2 Queda prohibida la elaboración de los cereales en copos o expandidos mediante un proceso de tipo fermentativo.
 
-7.2.3 Únicamente se podrán vender a granel los cereales en copos o expandidos cuando se elaboren de cara al público, en establecimientos y puestos callejeros, guardando las normas de procesamiento y manipulación adecuadas.
+7.2.3 (Derogado)
+
+> Se derogan los apartados 2.1 y 2.3 por el art. 40 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.

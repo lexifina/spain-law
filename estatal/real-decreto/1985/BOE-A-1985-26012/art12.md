@@ -1,3 +1,5 @@
 ## Art. 12. Otros ingredientes.
 
-Los otros ingredientes permitidos en las proporciones máximas estipuladas en el artículo 7.º deberán cumplir las reglamentaciones Técnico-Sanitarias o normas específicas correspondientes.
+(Derogado)
+
+> Se deroga por el art. 36 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.

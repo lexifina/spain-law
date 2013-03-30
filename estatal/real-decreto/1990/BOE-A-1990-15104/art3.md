@@ -2,7 +2,7 @@
 
 En la elaboración de derivados de cacao, de chocolate y sucedáneos de chocolate, se observaran las siguientes prescripciones:
 
-3.1 Los procedimientos tecnológicos empleados en la elaboración y conservación asegurarán un correcto estado higiénico-sanitario en el momento de la venta.
+3.1 (Derogado)
 
 3.2 (Derogado)
 
@@ -27,6 +27,10 @@ c) Salvo lo dispuesto en el apartado a), superior al 40 por 100 en total, cuando
 Glucosa cristalizada (dextrosa), fructosa, lactosa o maltosa, hasta un total de un 5 por 100 de la masa total del producto y sin que sea necesario declararlo.
 
 Glucosa cristalizada (dextrosa), en una proporción superior al 5 por 100, pero no superior al 20 por 100 de la masa total del producto.
+
+> Se derogan los apartados 1, 2 y 4 por el art. 48 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402#a4-10.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 170, de 17 de julio de 2013. Ref. BOE-A-2013-7835.
 
 > Se derogan los apartados 3.2 y 3.4 por la disposición derogatoria única.71 del Real Decreto 145/1997, de 31 de enero. Ref. BOE-A-1997-6156.
 

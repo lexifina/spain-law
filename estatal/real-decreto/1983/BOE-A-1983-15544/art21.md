@@ -1,3 +1,5 @@
 ## Artículo 21. Toma de muestras.
 
-Las inspecciones y toma de muestras se realizarán con los procedimientos que al efecto tengan establecidos los Servicios de Inspección competentes en esta materia.
+(Derogado)
+
+> Se deroga por el art. 23 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402

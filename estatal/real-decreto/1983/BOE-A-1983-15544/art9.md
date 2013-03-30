@@ -1,14 +1,8 @@
 ## Artículo 9. Aditivos autorizados.
 
-Las siguientes estipulaciones relativas a aditivos y sus especificaciones, han sido sancionadas por la Subsecretaría de Sanidad y Consumo, del Ministerio de Sanidad y Consumo.
+(Derogado)
 
-De conformidad con el artículo 2.2, del Decreto 2519/1974, de 9 de agosto, dicha Subsecretaría podrá modificar en cualquier momento la presente relación de aditivos mediante Resolución.
-
-Los aditivos que se indican a continuación deberán responder a las normas de identificación, calidad y pureza prescritas por la Subsecretaría de Sanidad y Consumo, del Ministerio de Sanidad y Consumo.
-
-Lista positiva de aditivos autorizados para la elaboración de sal y salmueras comestibles
-
-(Derogada)
+> Se deroga por el art. 23 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.
 
 > Se deroga la lista por la disposicion derogatoria única.57 del Real Decreto 145/1997, de 31 de enero. Ref. BOE-A-1997-6156.
 

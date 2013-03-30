@@ -10,7 +10,7 @@ Tres. El empleo de sacarina o cualquier otro edulcorante artificial.
 
 Cuatro. El empleo de aguardientes, de destilados y de cualquier clase de alcoholes distintos de los expresados en esta Reglamentación, o de los que, estando autorizados por ella para la elaboración del ron, posean sabor, olor o apariencia anormal, o que, en general, no reúnan las condiciones establecidas.
 
-Cinco. El empleo de colorantes y esencias, de cualquier clase que sean, y la adición de productos químicos en general, con la excepción de lo dispuesto en el apartado siete del artículo quince.
+Cinco. (Derogado)
 
 Seis. La tenencia en las destilerías y en las plantas elaboradoras y sus locales anexos, de productos cuyo empleo no esté justificado.
 
@@ -19,3 +19,5 @@ Siete. La entrada y salida en las plantas elaboradoras, de cualquier clase de mo
 Ocho. El empleo de la palabra ron para denominar o aludir a cualquier producto que no cumpla con las definiciones que figuran en el capítulo I de esta Reglamentación, o que no se haya elaborado en la forma que en ella se determina.
 
 Nueve. El uso de barriles de capacidad superior a seiscientos cincuenta litros para envejecimiento en bodegas y, asimismo, el de aquellos que no estén adecuadamente tratados conforme al artículo diez de esta Reglamentación.
+
+> Se deroga el apartado 5 por el art. 4 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.

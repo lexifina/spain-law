@@ -1,22 +1,8 @@
 ## Art. 16. Aditivos autorizados.
 
-Las siguientes estipulaciones relativas a aditivos y sus especificaciones han sido sancionadas por la Subsecretaría de Sanidad y Consumo del Ministerio de Sanidad y Consumo.
+(Derogado)
 
-De conformidad con el artículo 2.2 del Decreto 2919/1974, de 9 de agosto, dicha Subsecretaría podrá modificar en cualquier momento la relación de aditivos mediante Resolución.
-
-Los aditivos que se indican a continuación deberán responder a las normas de identificación, calidad y pureza prescritas por la Subsecretaría de Sanidad y Consumo del Ministerio de Sanidad y Consumo.
-
-1. (Derogado)
-
-2. (Derogado)
-
-3. (Derogado)
-
-4. (Derogado)
-
-5. (Derogado)
-
-6. (Derogado)
+> Se deroga por el art. 30 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.
 
 > Se derogan los apartados 2 a 6 por la disposición derogatoria única.39 del Real Decreto 145/1997, de 31 de enero. Ref. BOE-A-1997-6156.
 

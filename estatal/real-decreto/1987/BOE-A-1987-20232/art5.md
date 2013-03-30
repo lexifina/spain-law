@@ -12,14 +12,16 @@ b) Para los productos definidos en los números 1 y 2 del artículo 1.º, cuyo c
 
 c) Para el zumo de uva concentrado y el zumo de uva deshidratado la cantidad de agua que debe añadirse para reconstituir el producto.
 
-3. Para el zumo de uva deshidratado definido en el apartado 3 del artículo 1.º, el calificativo «deshidratado» podrá sustituirse por la mención «en polvo», o bien sustituirse o acompañarse por la indicación del tratamiento específico utilizado.
+3. (Derogado)
 
-4. Las sustancias estrictamente necesarias para realizar la reconstitución de zumo de uva a partir de zumo de uva concentrado y la restitución de aromas al zumo de zumo de uva concentrado o deshidratado, no figurarán en la etiqueta como lista de ingredientes.
+4. (Derogado)
 
-5. Las sustancias relacionadas con el apartado c), punto 1, del artículo 2.º, no se considerarán como ingredientes de ninguno de los productos definidos en la presente normativa, cuando el contenido en anhídrido sulfuroso de los productos, determinado por medio del correspondiente análisis, no sea superior a 10 miligramos por litro.
+5. (Derogado)
 
-6. La adición de ácido 1-ascórbico en los términos del apartado a) del artículo 2.º, no autoriza a hacer referencia alguna a la vitamina C.
+6. (Derogado)
 
 7. En el etiquetado de los productos envasados figurará el número de Registro de Envasadores y Embotelladores a que se refiere la Ley 25/1970.
 
-8. Las menciones previstas en las letras a) y b) del apartado 2 del presente artículo deberán aparecer en el mismo campo visual en que se indiquen la denominación de venta del producto, la cantidad neta y la fecha de duración mínima.
+8. (Derogado)
+
+> Se derogan los apartados 3 a 6 y 8 por el art. 41 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.

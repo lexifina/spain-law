@@ -18,8 +18,10 @@ El café y los licores, cuando la cantidad de cada uno de ellos es inferior al 1
 
 Los demás productos alimenticios añadidos en forma tal que prácticamente no se puedan discernir, cuando la cantidad de cada uno de ellos es inferior al 5 por 100 de la masa total del producto final.
 
-10.2 Lista de ingredientes: los productos contemplados en esta reglamentación habrán de indicar el contenido en materia seca total de cacao, por medio de la mención obligatoria «cacao... % mínimo».
+10.2 (Derogado)
 
-10.3 Cantidad neta: En el caso de productos huecos de molde, se permite que la indicación de la cantidad neta sea sustituida por la de la masa neta mínima.
+10.3 (Derogado)
+
+> Se derogan los apartados 2 y 3 por el art. 48 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402#a4-10.
 
 > Redactado el párrafo primero del apartado 10.1.1 conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. Ref. BOE-A-1990-23084

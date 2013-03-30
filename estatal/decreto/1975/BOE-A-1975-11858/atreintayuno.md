@@ -1,3 +1,5 @@
 ## Artículo treinta y uno. Publicidad.
 
-En la publicidad del ron queda prohibida cualquier alusión, mención o indicación falsas o que pueda inducir a error en relación con la composición, propiedades, vejez, origen u otras características, siendo también de aplicación lo establecido en el artículo anterior de esta Reglamentación.
+(Derogado)
+
+> Se deroga por el art. 4 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.

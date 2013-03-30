@@ -14,40 +14,22 @@ En la denominación de la sal refinada se podrá añadir el origen de la misma: 
 
 15.1.2 Lista de ingredientes.
 
-Irá precedida de la leyenda «Ingredientes».
-
-Se mencionarán todos los ingredientes por su nombre específico, en orden decreciente de sus masas.
-
-Los aditivos se designarán por el grupo genérico al que pertenecen seguido de su nombre especifico, que puede sustituirse por el número de la Dirección General de Salud Pública.
-
-En el etiquetado de las sales especiales definidas en los puntos 3.8.1 a 3.8.4 se hará constar inexcusablemente y de forma destacada la cuantía absoluta de sustancia, que le da el carácter de especial a la sal, incorporada a 100 gramos del producto.
+(Derogado)
 
 15.1.3 Contenido neto.
 
-Se expresará utilizando como unidades de medida el kilogramo o el gramo.
+(Derogado)
 
 15.1.4 Identificación de la Empresa.
 
-Se hará constar el nombre o la razón social o la denominación del fabricante, envasador o importador y, en todo caso, su domicilio y el número de Registro Sanitario correspondiente.
-
-Cuando la elaboración del producto se realice bajo marca de un distribuidor, además de figurar sus datos se incluirán los de la industria elaboradora o su número de Registro Sanitario precedidos por la expresión «Fabricado por..»
+(Derogado)
 
 15.1.5 Identificación del lote de fabricación.
 
-En las etiquetas de los envases figurará una indicación que permita identificar el lote de fabricación, quedando a discreción del fabricante la forma de dicha identificación.
-
-Será obligatorio comunicar a los servicios competentes de la Administración los datos necesarios para identificar cada lote de fabricación.
+(Derogado)
 
 15.2 Rotulación.
 
-La información de los rótulos de los embalajes constará obligatoriamente de las siguientes especificaciones:
+(Derogado)
 
-– Denominación del producto o marca.
-
-– Número y contenido neto de los envases.
-
-– Nombre o razón social (o denominación de la Empresa).
-
-– Instrucciones para su conservación, caso de que sea necesario.
-
-No será obligatoria la mención de estas indicaciones siempre que puedan ser determinadas clara y fácilmente en el etiquetado de los envases sin necesidad de abrir el embalaje.
+> Se deroga, excepto el apartado 1.1, por el art. 23 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.

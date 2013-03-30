@@ -94,11 +94,13 @@ El salvado responderá a las siguientes características:
 
 11.4.3 Cenizas, sobre sustancia seca: No excederá del 8,5 por 100.
 
-11.4.4 Materias extrañas: En la medida posible, según prácticas correctas de fabricación, el salvado deberá estar exento de materias objetables.
+11.4.4 (Derogado)
 
-11.4.5 Nivel higiénico: El salvado deberá estar exento de infestación viva debida a insectos, ácaros y roedores; exento de microorganismos tóxicos o desagradables, y exento de olores y sabores anormales. El nivel de contaminación con excrementos o pelos de roedores, con cuerpos, partes o excrementos de insectos y con cuerpos de ácaros, no deberá exceder de los límites que se fijen.
+11.4.5 (Derogado)
 
 11.5 (Derogado)
+
+> Se derogan los apartados 4.4 y 4.5 por el art. 32 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.
 
 > Se deroga el apartado 5 por el art. único.m) del Real Decreto 135/2010, de 12 de febrero. Ref. BOE-A-2010-3032.
 

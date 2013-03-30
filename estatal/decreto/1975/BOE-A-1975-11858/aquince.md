@@ -4,7 +4,7 @@ En la elaboración, maduración y preparación del ron, quedan autorizadas las p
 
 Uno. La adición de agua potable para rebajar el grado alcohólico en el proceso de elaboración. El agua podrá ser también destilada, desionizada o desmineralizada.
 
-Dos. El empleo de caramelo procedente de la deshidratación de sacarosa o glucosa comerciales, con el fin de obtener coloración adecuada.
+Dos. (Derogado)
 
 Tres. El empleo de sacarosa o glucosa comerciales, para suavizar la bebida, siempre que no se adicione más de ochenta gramos por litro de ron, expresados en sacarosa, salvo lo previsto en el artículo séptimo, apartado cinco y seis.
 
@@ -16,8 +16,10 @@ Seis. La refrigeración, pasterización, aireación, oxigenación y tratamiento 
 
 Siete. En el ron dulce o licor de ron y ron escarchado, se permite la adición de extractos vegetales y esencias autorizados por la Dirección General de Sanidad.
 
-Ocho. En las destilerías, el empleo de levaduras seleccionadas del género «Sacharomyces» y la adición de fermentos proteolíticos, enzimas, estabilizadores y nutrientes autorizados por la Dirección General de Sanidad.
+Ocho. (Derogado)
 
-Nueve. La edición de extractos hidroalcohólicos, que cumplan con lo dispuesto en el Decreto 406/1975, por el que se aprueba la Reglamentación Técnico-Sanitaria de los Agentes Aromáticos para la Administración.
+Nueve. (Derogado)
+
+> Se derogan los apartados 2, 8 y 9 por el art. 4 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.
 
 > Se añade apartado 9 por el art. 2.2 del Real Decreto 1908/1984, de 26 de septiembre. Ref. BOE-A-1984-24205.

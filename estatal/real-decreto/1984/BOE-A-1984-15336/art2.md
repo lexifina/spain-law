@@ -24,9 +24,7 @@ A efectos de esta Reglamentación se entenderá por:
 
 2.8.1 Harinas para rebozar: Son harinas acondicionadas por la adición de determinadas sustancias, debidamente autorizadas y que se utilizan en la condimentación de alimentos. Deberán cumplir los requisitos exigidos en el punto 11.2 de esta Reglamentación.
 
-2.9 Harina enriquecida: Se denomina harina enriquecida aquella a la que se le ha añadido alguna sustancia que eleve su valor nutritivo con el fin de transferir esta cualidad a los productos con ella elaborados. A efectos de esta Reglamentación se consideran sustancias enriquecedoras: Las proteínas, aminoácidos, otros derivados proteicos, las vitaminas, minerales y ácidos grasos esenciales.
-
-Esta harina deberá cumplir, además de lo exigido en esta Reglamentación, la legislación sobre alimentos enriquecidos.
+2.9 (Derogado)
 
 2.10 Harina de fuerza: Es la harina de extracción T-45 y T-55, exclusivamente, procedentes de trigos especiales, con contenido mínimo en proteínas del 11 por 100 y valor de características alveográfica W mínimo 200, admitiéndose una tolerancia en defecto del 10 por 100.
 
@@ -47,3 +45,5 @@ Se clasifican según su granulosidad en:
 2.13 Germen de trigo: Es el producto constituido por el embrión del grano de trigo, separado del mismo al iniciarse el proceso de molturación.
 
 2.14 Calidad panadera de la harina: Es la calidad mínima exigible para el empleo en panificación de harinas de uno o vario tipos, evaluada por medio del alveógrafo.
+
+> Se deroga el apartado 9 por el art. 32 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.

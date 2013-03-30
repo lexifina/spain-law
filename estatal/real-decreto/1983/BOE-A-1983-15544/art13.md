@@ -28,9 +28,11 @@
 
 13.2.1 Tendrán reacción ácida y la flora bacteriana estará exenta de bacterias patógenas.
 
-13.2.2 No contendrán colorantes artificiales orgánicos o inorgánicos, ni agentes conservadores.
+13.2.2 (Derogado)
 
 13.2.3 Las salmueras en uso deberán renovarse cuando absorban más del 10 por 100 de yodo 0,1 N.
+
+> Se deroga el apartado 2.2 por el art. 23 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.
 
 > Se modifican los apartados 1.1 y 1.3 por el art. único.2 del Real Decreto 1634/2011, de 14 de noviembre. Ref. BOE-A-2011-18537.
 

@@ -1,3 +1,5 @@
 ## Art. 23. Régimen sancionador.
 
-Las infracciones a lo dispuesto en la presente Reglamentación serán sancionadas en cada caso por las autoridades competentes de acuerdo con la legislación vigente y con lo previsto en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones en materia del consumidor y en materia agroalimentaria, previa la instrucción del correspondiente expediente administrativo. En todo caso, el organismo instructor del expediente que proceda, cuando sean detectadas infracciones de índole sanitaria, deberá dar cuenta inmediata de las mismas a las autoridades sanitarias que corresponda.
+(Derogado)
+
+> Se deroga por el art. 36 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.

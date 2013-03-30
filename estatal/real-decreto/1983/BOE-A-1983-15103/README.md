@@ -49,3 +49,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [TÍTULO VI](tvi.md)
 - [Artículo 22](a22.md)
 - [Artículo 23](a23.md)
+- [Artículos 22 y 23 ](a2-2.md)

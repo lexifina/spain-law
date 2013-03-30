@@ -10,7 +10,7 @@ Generales
 
 3. Además de las prácticas señaladas en el punto anterior el mezclado, cuando se expendan como mezclas, de especias o condimentos preparados.
 
-4. Esterilización de las especias y condimentos por procedimientos físicos y químicos, previamente autorizados por la Subsecretaría de Sanidad y Consumo, previo informe favorable de la Comisión Interministerial para la Ordenación Alimentaria.
+4. (Derogado)
 
 5. En el caso de los condimentos preparados, se autorizan aquellas manipulaciones que dan carácter al proceso de elaboración específica (liofilización, conservación, concentración, dilución, etc.).
 
@@ -50,7 +50,7 @@ No obstante, podrá autorizarse el comercio de las especias destinadas a la prep
 
 9. La utilización de aditivos no autorizados en las listas positivas aprobadas por la Subsecretaría de Sanidad y Consumo, previo informe favorable de la Comisión Interministerial para la Ordenación Alimentaria para esta clase de productos.
 
-10. La venta a granel al consumidor final.
+10. (Derogado)
 
 Específicas
 
@@ -61,3 +61,5 @@ Específicas
 13. El enebro que contenga arcestides de sabina rastrera («Juniperus sabina», variedad humilis Hook) o albar («J. thurifera», L) será decomisado.
 
 14. La presencia de cicuta («Conium maculatum», L) en el hinojo, comino y anis será objeto de decomiso.
+
+> Se derogan los apartados 1.4 y 2.10 por el art. 34 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.

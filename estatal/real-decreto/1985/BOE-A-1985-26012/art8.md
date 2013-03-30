@@ -12,10 +12,12 @@ d) La elaboración de los productos sujetos a esta Reglamentación con materias 
 
 e) La elaboración o venta de productos que contengan granos y semillas extrañas u otras impurezas.
 
-f) La presencia de residuos de sustancias tóxicas y metales pesados en cantidades superiores a las especificadas en el artículo 13.
+f) (Derogada)
 
 g) El empleo en la denominación del producto de las palabras «café», «esencia o extratos de café», «descafeinado» o vocablos análogos. Asimismo el empleo en el etiquetado facultativo de cualquiera de estas expresiones o grafismos relativos al café que induzcan a error al consumidor.
 
 h) La venta de cualquiera de estos productos con denominaciones distintas de las contempladas en el artículo 3.º
 
-i) La venta a granel al público de los productos sujetos a esta Reglamentación, no pudiendo fraccionarse los envases ni aun en presencia del comprador.
+i) (Derogada)
+
+> Se derogan las letras f) e i) por el art. 36 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.

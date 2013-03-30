@@ -1,1 +1,3 @@
-Esta norma mantiene la vigencia únicamente de los artículos 16, 17 y 18, así como de aquellas de sus disposiciones que resulten de aplicación a los zumos de otros vegetales y sus derivados, según establece la disposición derogatoria única.2 del Real Decreto 1050/2003, de 1 de agosto. Ref. BOE-A-2003-15479
+Esta norma mantiene la vigencia únicamente de aquellas de sus disposiciones que resulten de aplicación a los zumos de otros vegetales y sus derivados, al derogarse lo referente a zumos de frutas y similares por la disposición derogatoria del Real Decreto 1650/1991, de 8 de noviembre. Ref. BOE-A-1991-28036, la disposición derogatoria única.2 del Real Decreto 1050/2003, de 1 de agosto. Ref. BOE-A-2003-15479 y el art. 21 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402
+
+Lo relativo a los zumos de frutas y otros productos similares se encuentra regulado en el Real Decreto 781/2013, de 11 de octubre. Ref. BOE-A-2013-10611

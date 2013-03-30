@@ -1,22 +1,8 @@
 ## V. CARACTERÍSTICAS DE LOS PRODUCTOS, MATERIAS PRIMAS Y OTROS INGREDIENTES REGULADOS POR ESTA REGLAMENTACIÓN
 
-1. Condicionen generales.
+1. Condiciones generales.
 
-Los aceites vegetales comestibles, cualquiera que sea su procedencia, deberán satisfacer las siguientes condiciones generaIes:
-
-1.1 Estar en perfectas condiciones de consumo.
-
-1.2 Proceder de materias primas que no están adulteradas.
-
-1.3 No proceder des materias primas con alteraciones o contaminaciones que no sean propias del proceso lógico de producción o manipulación,
-
-1.4 Estar exento de materias extrañas, de gérmenes patógenos, sus toxinas o de aquellos otros microorganismos que por su número o especificidad puedan provocar alteraciones al consumidor.
-
-1.5 Estar debidamente protegidos de las condiciones ambientales adversas, de insectos u otros animales portadores de contaminaciones.
-
-1.6 Estar colocados en recipientes y envases en condiciones técnicas apropiadas, con materiales que resistan los tratamientos de proceso y limpieza.
-
-1.7 No contener micotoxinas, residuos de plaguicidas, ni cualquier otra sustancia sanitariamente peligrosa en cantidad superior a la que establezca el Ministerio de Sanidad y Consumo.
+(Derogado)
 
 2. Características que deben reunir los distintos tipos de aceite de oliva, así como los de orujo da aceituna.
 
@@ -378,17 +364,7 @@ Por tanto, los aceites refinados de girasol deberán cumplir o bien el conjunto 
 
 4. Otras características.
 
-4.1 Los aceites vegetales comestibles estarán libres de parásitos en cualquiera de sus formas, de microorganismos patógenos o sus toxinas.
-
-4.2 No contendrán residuos de metales pesados en cantidades superiores de las que se indican:
-
-Hierro: 10 p.p.m.
-
-Cobre: 0,4 p.p.m.
-
-Plomo: 0,1 p.p.m.
-
-Arsénico: 0,1 p.p.m.
+(Derogado)
 
 5. Aditivos y coadyuvantes tecnológicos.
 
@@ -404,6 +380,8 @@ c) Destilarán, como mínimo, en un 99,99 por 100 a una temperatura que no sobre
 
 d) No contendrán residuos de azufre y metálicos, especialmente plomo, que puedan quedar retenidos por el aceite, en cantidades superiores a las que se establezcan.
 
+> Se derogan los apartados 1 y 4 por el art. 20 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.
+
 > Se añade el apartado 3.3 por el art. 2.1 del Real Decreto 1716/2010, de 17 de diciembre. Ref. BOE-A-2010-20067.
 
 > Se modifica el apartado 3.2 por el art. único.2 del Real Decreto 478/2007, de 13 de abril. Ref. BOE-A-2007-8579.
@@ -412,4 +390,4 @@ d) No contendrán residuos de azufre y metálicos, especialmente plomo, que pued
 
 > Se deroga el inciso destacado del apartado 1.7 por la disposición derogatoria del Real Decreto 475/1988, de 13 de mayo. Ref. BOE-A-1988-12368.
 
-> Redactados los apartados 2.2, 3.1, 3.2 y 5.a) conforme a la corrección de errores publicada en BOE núm. 117, de 17 de mayo de 1983. Ref. BOE-A-1983-14026.
+> Redactados los apartado 2.2, 3.1, 3.2 y 5.a) conforme a la corrección de errores publicada en BOE núm. 117, de 17 de mayo de 1983. Ref. BOE-A-1983-14026.

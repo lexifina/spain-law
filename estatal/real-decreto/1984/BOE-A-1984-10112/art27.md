@@ -1,3 +1,5 @@
 ## Art. 27.
 
-Los productos sujetos a esta Reglamentación importados además de cumplir en su etiquetado y rotulación con las especificaciones de los artículos 24, 25 v 26, excepto en lo referente a la identificación del lote de fabricación, deberán hacer constar el país de origen.
+(Derogado)
+
+> Se deroga por el art. 30 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.

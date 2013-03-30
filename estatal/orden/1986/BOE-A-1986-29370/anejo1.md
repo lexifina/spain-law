@@ -46,22 +46,16 @@
 
 7.2.2.2 Pimentón y especias en el caso de presentarse condimentado.
 
-8. Aditivos.–No se permite ningún aditivo.
+8. Aditivos. (Derogado)
 
-9. Contaminantes.–Las tolerancias de productos contaminantes y sustancias tóxicas no deberán sobrepasar los límites contenidos en la legislación vigente y en su defecto los contenidos en las normas internacionales aceptadas por el Estado español.
+9. Contaminantes. (Derogado)
 
 10. Categorización comercial.–No se establecen categorías comerciales para el tocino salado y solamente podrá indicarse su procedencia en caso de haberse obtenido de canales de cerdos del tronco ibérico.
 
-11. Higiene:
+11. Higiene. (Derogado)
 
-11.1 La materia prima empleada procederá de animales que han sido sometidos a la inspección veterinaria ante y posmortem, así como en su ulterior manipulación, de tal modo que queden garantizadas las disposiciones sanitarias en vigor.
+12. Etiquetado. (Derogado)
 
-11.2 Los condimentos y especias deberán reunir las condiciones higiénico-sanitarias necesarias para evitar contaminaciones en el producto a que van destinados. Se almacenarán en condiciones tales que se evite la contaminación y/o alteración.
-
-11.3 El fabricante deberá responsabilizarse de los controles de la materia prima y demás ingredientes, salvo prueba en contrario, comprobando sus condiciones en el momento de su recepción o de su uso, mediante el examen y análisis oportunos, o mediante certificaciones aportadas por el proveedor.
-
-12. Etiquetado.–Las piezas de tocino deberán ir identificadas con el número de Registro Sanitario de la industria elaboradora, con el sistema elegido por la propia industria.
-
-En la venta al detalle se conservarán los datos de identificación anteriormente citados basta el total despacho del producto.
+> Se derogan los apartados 8, 9, 11 y 12 por el art. 37.1 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.
 
 > Redactado confome a la corrección de errores publicada en BOE núm. 280, de 22 de noviembre de 1986. Ref. BOE-A-1986-30862.

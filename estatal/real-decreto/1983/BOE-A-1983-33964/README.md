@@ -48,3 +48,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Art 19](a19.md)
 - [Art 20](a20.md)
 - [Art 21](a21.md)
+- [Arts 19 a 21](a1-2.md)

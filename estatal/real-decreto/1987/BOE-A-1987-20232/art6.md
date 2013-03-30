@@ -30,12 +30,14 @@ Magnesio: Contenido superior a 30 miligramos por litro.
 
 Prolina: Contenido superior a 150 miligramos por litro.
 
-Arsénico: Contenido inferior a 0,3 partes por millón.
+Arsénico: (Derogado)
 
-Plomo: Contenido inferior a 0,5 partes por millón.
+Plomo: (Derogado)
 
-Cobre: Contenido inferior a 5 partes por millón.
+Cobre: (Derogado)
 
-Zinc: Contenido inferior a 5 partes por millón.
+Zinc: (Derogado)
+
+> Se derogan los límites establecidos para arsénico, plomo, cobre y zinc por el art. 41 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.
 
 > Se modifica por el art. único del Real Decreto 1071/1991, de 14 de junio. Ref. BOE-A-1991-17914
