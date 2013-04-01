@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 123, de 24 de mayo de 1995. Ref. BOE-A-1995-12246.
+Norma derogada por la disposición derogatoria única 2.a) de la Orden ESS/484/2013, de 26 de marzo. Ref. BOE-A-2013-3362#ddunica.
