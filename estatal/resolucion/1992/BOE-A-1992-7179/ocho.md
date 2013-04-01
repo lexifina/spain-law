@@ -10,15 +10,17 @@ Las actas de la Inspección de los Tributos serán firmadas:
 
 a) En la Oficina Nacional de Investigación del Fraude, por el Jefe del Equipo que haya realizado las actuaciones de comprobación e investigación.
 
-b) En las Dependencias Regionales de Inspección, y sin perjuicio de lo establecido en las letras siguientes, por el Jefe del Equipo o de la Unidad que haya realizado las actuaciones de comprobación e investigación.
+b) En la Oficina Nacional de Fiscalidad Internacional, por el Jefe del Equipo que haya realizado las actuaciones de comprobación e investigación.
+
+c) En las Dependencias Regionales de Inspección, y sin perjuicio de lo establecido en las letras siguientes, por el Jefe del Equipo o de la Unidad que haya realizado las actuaciones de comprobación e investigación.
 
 No obstante, tratándose de actuaciones de comprobación e investigación en las que se haya apreciado alguna circunstancia de especial dificultad sobrevenida de acuerdo con lo dispuesto en el apartado cuatro.4.2.3.B de esta Resolución, así como en aquellos casos en los que la cifra de negocios o, en su defecto, el volumen anual de operaciones comprobado en cualquiera de los ejercicios regularizados supere 4.500.000 euros en actuaciones de alcance general o 5.700.000 euros en actuaciones de alcance parcial, firmará las actas, junto con el Jefe de Unidad, el Inspector de Hacienda al que el Jefe de la Dependencia Regional atribuya la supervisión de las actuaciones desarrolladas por la Unidad. La firma de las actas procederá tras efectuar el Inspector un análisis detallado del contenido de la propuesta de regularización, los documentos, pruebas y alegaciones que obren en el expediente y las precisiones que, en su caso, requiera del Jefe de Unidad. El Inspector podrá ordenar que se realicen las actuaciones complementarias que estime oportunas. Si el Inspector no estuviera conforme con la propuesta de regularización finalmente sometida a su consideración por entender que no es correcta, asumirá él la firma de las actas en que se documente la propuesta de regularización que estime procedente, que serán redactadas de acuerdo con sus instrucciones.
 
 Asimismo, cuando se haya encomendado a un Inspector de Hacienda o a un Técnico de Hacienda la realización de la totalidad de las actuaciones previas a la formalización de las actas sobre un determinado obligado tributario y no se haya asignado la firma, firmará las actas en todo caso el Jefe de Equipo o de Unidad, pudiendo asimismo firmarlas el funcionario citado.
 
-c) En los supuestos a que se refiere el tercer párrafo del apartado cuatro.4.2.1 de esta Resolución, por el Técnico o Técnicos de Hacienda que hubiesen desarrollado las actuaciones.
+d) En los supuestos a que se refiere el tercer párrafo del apartado cuatro.4.2.1 de esta Resolución, por el Técnico o Técnicos de Hacienda que hubiesen desarrollado las actuaciones.
 
-d) Cuando se asigne la firma conforme a lo dispuesto en el apartado ocho.3 siguiente, por el funcionario a quien se hubiera asignado. En este caso la asignación de firma del Jefe de Equipo o de Unidad deberá constar en el expediente.
+e) Cuando se asigne la firma conforme a lo dispuesto en el apartado ocho.3 siguiente, por el funcionario a quien se hubiera asignado. En este caso la asignación de firma del Jefe de Equipo o de Unidad deberá constar en el expediente
 
 3. Asignación de firma de las propuestas de regularización.
 
@@ -47,6 +49,8 @@ En las Unidades de Gestión de Grandes Empresas de las Dependencias Regionales d
 La firma del acuerdo de inicio y de la propuesta de liquidación o resolución de los procedimientos de comprobación limitada o de declaración de responsabilidad tramitados por los Equipos o Unidades de Inspección corresponderá al Jefe de los mismos.
 
 La firma de la propuesta de resolución de los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo corresponderá al Jefe de Equipo, Jefe de Unidad o funcionario que haya sido designado como instructor por el Inspector Jefe.
+
+> Se modifica el punto 2 por el art.único.9 de la Resolución de 13 de marzo de 2013. Ref. BOE-A-2013-2811.
 
 > Se modifica el punto 4 por el art. único.1.4 de la Resolución de 27 de noviembre de 2012. Ref. BOE-A-2012-14650.
 

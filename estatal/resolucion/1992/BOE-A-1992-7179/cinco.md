@@ -2,9 +2,11 @@
 
 1. Tienen la consideración de Inspector Jefe:
 
-a) El Jefe, el Jefe Adjunto, los Jefes de Área, los Jefes Adjuntos de Área y el Jefe del Equipo Central de Información de la Oficina Nacional de Investigación del Fraude.
+a) El Jefe, el Jefe adjunto, los Jefes de Área, los Jefes adjuntos de Área y el Jefe del Equipo Central de Información de la Oficina Nacional de Investigación del Fraude.
 
-b) El Jefe de la Dependencia Regional de Inspección, los Inspectores Regionales Adjuntos, los Inspectores Coordinadores y el Jefe de la Oficina Técnica, en cuanto a dicha Dependencia.
+b) El Jefe y el Jefe Adjunto de la Oficina Nacional de Fiscalidad Internacional.
+
+c) El Jefe de la Dependencia Regional de Inspección, los Inspectores Regionales Adjuntos, los Inspectores Coordinadores y el Jefe de la Oficina Técnica, en cuanto a dicha Dependencia.
 
 2. Corresponde a los Inspectores Jefes planificar, coordinar y controlar las actuaciones de los Equipos y Unidades de las correspondientes Dependencias inspectoras, en orden a lograr una adecuada utilización de los medios disponibles para la mayor eficacia de las actuaciones.
 
@@ -30,13 +32,17 @@ i) Cualesquiera otras competencias y funciones que les atribuya la normativa leg
 
 3. En caso de vacante, ausencia o enfermedad se actuará de la siguiente manera:
 
-a) El Director del Departamento de Inspección Financiera y Tributaria designará al sustituto del Jefe de la Oficina Nacional de Investigación del Fraude.
+a) El titular del Departamento de Inspección Financiera y Tributaria designará al sustituto del Jefe de la Oficina Nacional de Investigación del Fraude y al de la Oficina Nacional de Fiscalidad Internacional.
 
-b) El Jefe de la Oficina Nacional de Investigación del Fraude designará al sustituto del Jefe Adjunto, de los Jefes de Áreas y Jefes Adjuntos de Áreas y del Jefe del Equipo Central de Información de la Oficina.
+b) El Jefe de la Oficina Nacional de Investigación del Fraude designará al sustituto del Jefe adjunto, de los Jefes de Áreas y Jefes adjuntos de Áreas y del Jefe del Equipo Central de Información de la Oficina.
 
-c) El Delegado Especial de la Agencia Tributaria designará al sustituto del Jefe de la Dependencia Regional de Inspección.
+c) El Jefe de la Oficina Nacional de Fiscalidad Internacional designará al sustituto del Jefe adjunto.
 
-d) El Jefe de la Dependencia Regional de Inspección designará al sustituto de los Inspectores Regionales Adjuntos, de los Inspectores Coordinadores y del Jefe de la Oficina Técnica.
+d) El Delegado Especial de la Agencia Tributaria designará al sustituto del Jefe de la Dependencia Regional de Inspección.
+
+e) El Jefe de la Dependencia Regional de Inspección designará al sustituto de los Inspectores Regionales Adjuntos, de los Inspectores Coordinadores y del Jefe de la Oficina Técnica.
+
+> Se modifican los puntos 1 y 3 por el art. único.6 y 7 de la Resolución de 13 de marzo de 2013. Ref. BOE-A-2013-2811.
 
 > Se modifica el punto 2 por el art. único.1.3 de la Resolución de 27 de noviembre de 2012. Ref. BOE-A-2012-14650.
 

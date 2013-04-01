@@ -12,13 +12,15 @@ c) Controlar y asumir la responsabilidad del cumplimiento de los planes y objeti
 
 d) Realizar las actuaciones de estudio, informe y asesoramiento en cuestiones de su competencia cuando así se estime necesario.
 
-e) Cualquier otra función atribuida normativamente a la Inspección de los Tributos con los obligados tributarios a los que extienda su competencia.
+e) Ejecutar los acuerdos resultantes de los procedimientos amistosos en materia de imposición directa.
+
+f) Cualquier otra función atribuida normativamente a la Inspección de los Tributos con los obligados tributarios a los que extienda su competencia.
 
 Asimismo, las Dependencias Regionales de Inspección de las Delegaciones Especiales de la Agencia Estatal de la Administración Tributaria, en relación con las personas o entidades a que se refiere el número 2.4 del apartado siguiente, tienen atribuida la función de tramitar y resolver los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo, salvo que corresponda a otros órganos.
 
 2. Ámbito de actuación.
 
-2.1 Las funciones señaladas en el apartado anterior se extenderán a todos los obligados tributarios, con domicilio fiscal en el ámbito de la respectiva Delegación Especial de la Agencia Tributaria, sobre los que la Delegación Central de Grandes Contribuyentes o la Oficina Nacional de Investigación del Fraude no ejerzan su competencia, sin perjuicio de lo dispuesto en el número 2.2 siguiente.
+2.1 Las funciones señaladas en el apartado anterior se extenderán a todos los obligados tributarios, con domicilio fiscal en el ámbito de la respectiva Delegación Especial de la Agencia Tributaria, sobre los que la Delegación Central de Grandes Contribuyentes, la Oficina Nacional de Investigación del Fraude o la Oficina Nacional de Fiscalidad Internacional no ejerzan su competencia, sin perjuicio de lo dispuesto en el número 2.2 siguiente.
 
 2.2 Las Dependencias Regionales de Inspección extenderán asimismo su competencia sobre los siguientes obligados tributarios:
 
@@ -144,7 +146,7 @@ Las actuaciones en este ámbito tendrán por objeto el apoyo en materia de audit
 
 4.3.5 Fiscalidad Internacional.
 
-Las actuaciones en este ámbito tendrán por objeto las funciones de apoyo a los demás Equipos y Unidades de la Dependencia en materia de fiscalidad internacional y tributación de no residentes, sin perjuicio de que puedan desarrollar otras actuaciones que se les encomienden.
+Las actuaciones en este ámbito tendrán por objeto las funciones de apoyo a los demás Equipos y Unidades de la Dependencia en materia de fiscalidad internacional, sin perjuicio de que puedan desarrollar otras actuaciones que se les encomienden. Dichas actuaciones se coordinarán, cuando proceda, con la Oficina Nacional de Fiscalidad Internacional.
 
 5. Oficina Técnica.
 
@@ -177,6 +179,8 @@ Las Unidades de Gestión de Grandes Empresas de las Dependencias Regionales de I
 El Jefe de la Dependencia Regional de Inspección y los Inspectores Regionales Adjuntos ejercerán, respecto a las personas o entidades adscritas a la misma, las competencias de gestión tributaria atribuidas a los Jefes de Dependencia Regional de Gestión Tributaria.
 
 Sin perjuicio de lo anterior, los obligados tributarios podrán, en cualquier caso, presentar sus declaraciones, recursos, consultas y cualquier otro documento con trascendencia tributaria en la Delegación o Administración que corresponda a su domicilio fiscal.
+
+> Se modifican los puntos 1, 2.1 y 4.3.5 por el art. único.3, 4 y 5 de la Resolución de 13 de marzo de 2013. Ref. BOE-A-2013-2811.
 
 > Se modifican los puntos 1 y 2 por el art. único.1 y 2 de la Resolución de 27 de noviembre de 2012. Ref. BOE-A-2012-14650.
 

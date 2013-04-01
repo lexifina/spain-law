@@ -4,7 +4,7 @@
 
 1.1 Las actuaciones inspectoras se desarrollarán por los Equipos y Unidades en que se estructuran los órganos a que se refieren los apartados anteriores.
 
-1.2 Las actuaciones de los Equipos y Unidades deberán ser ordenadas y dirigidas en todo caso por los Jefes de cada Equipo o Unidad, y serán practicadas directamente por aquéllos o por los Inspectores de Hacienda y Técnicos de Hacienda integrados en dichos Equipos o Unidades.
+1.2 Las actuaciones de los Equipos y Unidades deberán ser ordenadas y dirigidas en todo caso por los Jefes de cada Equipo o Unidad, y serán practicadas directamente por aquellos o por los Inspectores de Hacienda y Técnicos de Hacienda integrados en dichos Equipos o Unidades.
 
 Los Jefes de Equipo, sin perjuicio de poder realizar directamente actuaciones inspectoras en su totalidad o en parte, asumirán la responsabilidad del cumplimiento de los objetivos encomendados al Equipo, distribuirán entre los miembros de éste las actividades a desarrollar y dirigirán y controlarán la correcta ejecución de las mismas.
 
@@ -14,7 +14,9 @@ En caso de vacante, ausencia o enfermedad de los Jefes de Equipo o de Unidad, pa
 
 a) En la Oficina Nacional de Investigación del Fraude, el Jefe de Equipo será sustituido por el Inspector de Hacienda que a tal efecto designe el Jefe de la Oficina Nacional de Investigación del Fraude.
 
-b) En las Dependencias Regionales de Inspección, el Jefe de Equipo será sustituido por el Inspector de Hacienda que a tal efecto designe el Jefe de la Dependencia o, en su caso, el Inspector Regional Adjunto o el Inspector Coordinador que el Inspector Regional determine. Del mismo modo se designará al Técnico de Hacienda que ejercerá la sustitución del Jefe de Unidad.
+b) En la Oficina Nacional de Fiscalidad Internacional, el Jefe de Equipo será sustituido por el Inspector de Hacienda que a tal efecto designe el Jefe de la Oficina Nacional de Fiscalidad Internacional.
+
+c) En las Dependencias Regionales de Inspección, el Jefe de Equipo será sustituido por el Inspector de Hacienda que a tal efecto designe el Jefe de la Dependencia o, en su caso, el Inspector Regional Adjunto o el Inspector Coordinador que el Inspector Regional determine. Del mismo modo se designará al Técnico de Hacienda que ejercerá la sustitución del Jefe de Unidad.
 
 1.3 Los Inspectores de Hacienda que formen parte de los Equipos desarrollarán las actuaciones que les sean encomendadas por el Jefe de Equipo, atendiendo a la importancia de las mismas.
 
@@ -24,23 +26,25 @@ En los órganos a que se refiere el apartado uno de esta Resolución podrán enc
 
 2. Actuaciones relativas a posibles delitos contra la Hacienda Pública.
 
-Los expedientes instruidos por los Equipos o Unidades en los que se aprecien hechos que pudieran ser constitutivos de delito contra la Hacienda Pública, se pondrán formalmente en conocimiento del Jefe de la Oficina Nacional de Investigación del Fraude o Dependencia Regional en la que se integre dicho Equipo o Unidad, quien podrá disponer la continuidad de las actuaciones por el mismo u otro Equipo o Unidad.
+Los expedientes instruidos por los Equipos o Unidades en los que se aprecien hechos que pudieran ser constitutivos de delito contra la Hacienda Pública, se pondrán formalmente en conocimiento del Jefe de la Oficina Nacional de Investigación del Fraude, Oficina Nacional de Fiscalidad Internacional o Dependencia Regional en la que se integre dicho Equipo o Unidad, quien podrá disponer la continuidad de las actuaciones por el mismo u otro Equipo o Unidad.
 
 3. Acuerdos y autorizaciones de colaboración.
 
-El Director del Departamento de Inspección Financiera y Tributaria autorizará la colaboración de funcionarios de la Oficina Nacional de Investigación del Fraude en actuaciones propias de las Dependencias Regionales de Inspección y de la Dependencia de Control Tributario y Aduanero de la Delegación Central de Grandes Contribuyentes, así como en las actuaciones de otros órganos distintos de los señalados en el apartado uno de esta Resolución, de acuerdo con lo establecido en el artículo 5.2.j) de la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias.
+El titular del Departamento de Inspección Financiera y Tributaria autorizará la colaboración de funcionarios de la Oficina Nacional de Investigación del Fraude y de la Oficina Nacional de Fiscalidad Internacional en actuaciones propias de las Dependencias Regionales de Inspección y de la Dependencia de Control Tributario y Aduanero de la Delegación Central de Grandes Contribuyentes, así como en las actuaciones de otros órganos distintos de los señalados en el apartado uno de esta Resolución, de acuerdo con lo establecido en el artículo 5.2.j) de la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias.
 
 El Delegado Especial autorizará:
 
 a) La colaboración de funcionarios de la Dependencia Regional de Inspección en actuaciones propias de otras Dependencias de la misma Delegación Especial, o de otras Delegaciones u órganos integrados en los Departamentos.
 
-b) La colaboración de funcionarios de otras Dependencias de la Delegación Especial en las actuaciones de la Dependencia Regional de Inspección de la misma o de otra Delegación Especial, así como en las actuaciones de la Dependencia de Control Tributario y Aduanero y en las de la Oficina Nacional de Investigación del Fraude.
+b) La colaboración de funcionarios de otras Dependencias de la Delegación Especial en las actuaciones de la Dependencia Regional de Inspección de la misma o de otra Delegación Especial, así como en las actuaciones de la Dependencia de Control Tributario y Aduanero, en las de la Oficina Nacional de Investigación del Fraude y en las de la Oficina Nacional de Fiscalidad Internacional.
 
-Podrá también acordarse la colaboración de funcionarios de órganos integrados en otros Departamentos con la Inspección de los Tributos para la realización de sus funciones. Dicho acuerdo se adoptará por el Director del Departamento competente de acuerdo con lo establecido en la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias, a solicitud del Director del Departamento de Inspección Financiera y Tributaria.
+Podrá también acordarse la colaboración de funcionarios de órganos integrados en otros Departamentos con la Inspección de los Tributos para la realización de sus funciones. Dicho acuerdo se adoptará por el titular del Departamento competente de acuerdo con lo establecido en la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias, a solicitud del titular del Departamento de Inspección Financiera y Tributaria.
 
-Cuando la naturaleza de las actuaciones a desarrollar así lo aconseje, el Jefe de la Oficina Nacional de Investigación del Fraude podrán autorizar la colaboración de funcionarios de un Equipo de su Oficina en actuaciones de otro Equipo del mismo órgano. Asimismo, el Inspector Regional también podrá autorizar la colaboración de funcionarios de un Equipo o Unidad de Inspección de la Dependencia Regional de Inspección en las actuaciones de otro Equipo o Unidad distinto.
+Cuando la naturaleza de las actuaciones a desarrollar así lo aconseje, el Jefe de la Oficina Nacional de Investigación del Fraude y el de la Oficina Nacional de Fiscalidad Internacional podrá autorizar la colaboración de funcionarios de un Equipo de su Oficina en actuaciones de otro Equipo del mismo órgano. Asimismo, el Inspector Regional también podrá autorizar la colaboración de funcionarios de un Equipo o Unidad de Inspección de la Dependencia Regional de Inspección en las actuaciones de otro Equipo o Unidad distinto.
 
 Los acuerdos o autorizaciones a que se refiere este número deberán constar en el expediente y se exhibirán por el funcionario designado a petición del obligado tributario.
+
+> Se modifica por el art.único.8 de la Resolución de 13 de marzo de 2013. Ref. BOE-A-2013-2811.
 
 > Se modifica el punto 1 por el apartado 7 de la Resolución de 26 de noviembre de 2008. Ref. BOE-A-2008-20956.
 
