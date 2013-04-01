@@ -6,7 +6,7 @@
 
 3. Corresponden al titular del Servicio de Planificación y Relaciones Institucionales las siguientes competencias:
 
-a) Acordar, a propuesta de la Delegación Central de Grandes Contribuyentes, cuando conforme a la normativa aplicable así se requiera, la adscripción de obligados tributarios a dicha Delegación Central así como el fin de la adscripción cuando dejen de concurrir las circunstancias que la motivaron.
+a) Acordar, a propuesta de la Delegación Central de Grandes Contribuyentes, cuando conforme a la normativa aplicable así se requiera, la adscripción de obligados tributarios a dicha Delegación Central, el fin de la misma así como el mantenimiento de la adscripción en la Delegación Especial correspondiente al domicilio fiscal del obligado tributario.
 
 b) En materia de sede electrónica y registros electrónicos, la aprobación y modificación de la relación de documentos electrónicos normalizados y, a propuesta de los Departamentos o Servicios, la aprobación y modificación de los formularios correspondientes.
 
@@ -17,5 +17,7 @@ a) Subdirección General de Organización y Coordinación.
 b) Subdirección General de Planificación y Programación.
 
 c) Subdirección General de Comunicación Externa.
+
+> Se modifica el apartado 3 por Orden HAP/393/2013, de 11 de marzo. Ref. BOE-A-2013-2727.
 
 > Se añade por el art. único.3 de la Orden EHA/1813/2010, de 23 junio. Ref. BOE-A-2010-10790.
