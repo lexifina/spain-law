@@ -65,6 +65,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 32](a32.md)
 - [Artículo 33](a33.md)
 - [Artículo 34](a34.md)
+- [Artículo 34 bis](a34bis.md)
 - [B) Otras peculiaridades de la obligación de cotizar](b-otraspeculiaridadesdelaobligaciondecotizar.md)
 - [Artículo 35](a35.md)
 - [SECCIÓN 3](s3-2.md)
