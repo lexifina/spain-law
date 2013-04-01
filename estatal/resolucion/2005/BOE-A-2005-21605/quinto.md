@@ -4,7 +4,7 @@
 
 a) Dirigir, coordinar y controlar todas las Dependencias, órganos y unidades administrativas de la Delegación Central.
 
-b) Proponer al titular del Servicio de Planificación y Relaciones Institucionales la adscripción de obligados tributarios a la Delegación Central en los que concurra alguna de las circunstancias indicadas en el apartado tercero.2, así como la exclusión de dichos obligados del ámbito de actuación de esta Delegación cuando dejen de concurrir las circunstancias que originaron su adscripción.
+b) Proponer al titular del Servicio de Planificación y Relaciones Institucionales la adscripción de obligados tributarios a la Delegación Central en los que concurra alguna de las circunstancias indicadas en el apartado tercero.2, la exclusión de dichos obligados del ámbito de actuación de esta Delegación cuando dejen de concurrir las circunstancias que originaron su adscripción, así como los acuerdos previstos en el último párrafo del apartado tercero.1.
 
 c) Proponer planes y programas de actuación en relación con los obligados tributarios adscritos a la Delegación Central, de conformidad con los instrumentos generales de planificación de la Agencia Tributaria.
 
@@ -139,6 +139,8 @@ c) Dependencia de Gestión de Medios y Recursos: Adjuntos al titular de la Depen
 En ausencia de los anteriores, el titular de la Delegación Central acordará la sustitución que proceda en cada caso.
 
 7. El titular de la Delegación Central de Grandes Contribuyentes y sus Adjuntos serán nombrados y cesados por la Presidencia de la Agencia Tributaria a propuesta de la Dirección General, de conformidad con lo establecido en el artículo 103.Tres.2 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991. Su nombramiento y cese se publicarán en el «Boletín Oficial del Estado».
+
+> Se modifica el punto 1.b) por el art. único.2 de la Resolución de 13 de mazo de 2013. Ref. BOE-A-2013-2812.
 
 > Se modifican los puntos 1 y 2 por el art. único.4 y 5 de la Resolución de 22 de enero de 2013. Ref. BOE-A-2013-698.
 

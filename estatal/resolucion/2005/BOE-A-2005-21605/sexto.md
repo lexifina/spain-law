@@ -18,7 +18,7 @@ En caso de vacante, ausencia o enfermedad, el titular de la Dependencia designar
 
 Como excepción, los procedimientos de verificación de datos, comprobación de valores, comprobación limitada y demás actuaciones de comprobación en el ámbito de la gestión aduanera, de la gestión e intervención de los Impuestos Especiales y de la gestión de los demás tributos sobre los que ejerce su competencia el Departamento de Aduanas e Impuestos Especiales, respecto de los obligados tributarios adscritos a la Delegación Central, se realizarán por los órganos territoriales de la Agencia Tributaria.
 
-También le corresponde el inicio, la tramitación y la resolución de los procedimientos sancionadores que se deriven de las actuaciones y procedimientos indicados en el primer párrafo de este número y de los procedimientos de declaración de responsabilidad cuando ésta tenga lugar antes de la finalización del período voluntario de pago y derive de liquidaciones dictadas por esta Dependencia.
+También le corresponde el inicio, la tramitación y la resolución de los procedimientos sancionadores que se deriven de las actuaciones y procedimientos indicados en el primer párrafo de este número y de los procedimientos de declaración de responsabilidad cuando ésta tenga lugar antes de la finalización del período voluntario de pago y derive de liquidaciones dictadas por esta Dependencia, así como la ejecución de los acuerdos resultantes de los procedimientos amistosos en materia de imposición directa cuando el obligado tributario esté adscrito a la Delegación Central de Grandes Contribuyentes.
 
 Además le corresponde el inicio, la tramitación y la resolución de los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo.
 
@@ -73,6 +73,8 @@ La Unidad de Control Tributario y Aduanero, dirigida por su titular, con la asis
 La Unidad de Selección, dirigida por su titular, estará integrada por los funcionarios que en cada momento se determinen por el titular de la Dependencia o sus Adjuntos.
 
 7. Equipos de Apoyo Informático.–Los Equipos de Apoyo Informático desarrollarán actuaciones conjuntas y de coordinación de trabajos informáticos con los Equipos Nacionales de Inspección, investigando y analizando la estructura de los sistemas informáticos y de las bases de datos y sus movimientos para el descubrimiento de datos ocultos. Estos Equipos, dirigidos por Jefes de Equipo, estarán integrados por los funcionarios que se les adscriban.
+
+> Se modifica el punto 2 por el art. único.3 de la Resolución de 13 de mazo de 2013. Ref. BOE-A-2013-2812.
 
 > Se modifican los puntos 2 y 3 por el art. único.6 y 7 de la Resolución de 22 de enero de 2013. Ref. BOE-A-2013-698.
 
