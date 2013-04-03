@@ -1,3 +1,7 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/91/08022_002.png)
+(Sin efecto)
+
+> Se deja sin efecto por el apartado 5 de la Resolución de 21 de marzo de 2013. Ref. BOE-A-2013-3528.
+
+> Redactado conforme a la corrección de errores publicada en el BOE núm. 90, de 15 de abril de 2013. Ref. BOE-A-2013-3992.
