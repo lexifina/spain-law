@@ -56,7 +56,7 @@ Galanes: 30 ejemplares pescador y día, cuya talla será superior a los 15 cent�
 
 7.º Temporadas:
 
-Para la pesca del galán: Del 1 de mayo al 15 de agosto, ambos inclusive.
+Para la pesca del galán: Todo el año, excepto entre el 1 de mayo y el 15 de agosto, ambos inclusive.
 
 Para el resto de modalidades: Todo el año, salvo entre el 1 de noviembre y el 1 de diciembre, ambos inclusive, en que estará cerrada la práctica de la actividad.
 
@@ -120,3 +120,5 @@ Deberán informar al servicio de la reserva marina de las inmersiones que preten
 | --- | --- | --- |
 | Los Burros-Los Amarillos | 36º43,831’ N; 002º07,120’ W | 2.000 |
 | El Vapor | 36º42,670’ N; 002º12,340’ W | 2.000 |
+
+> Se modifica el punto 7 del apartado 2.B) por el art. único de la Orden AAA/529/2013, de 2 de abril. Ref. BOE-A-2013-3623
