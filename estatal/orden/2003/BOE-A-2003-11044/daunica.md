@@ -102,11 +102,17 @@ Modelo 581. Impuesto sobre Hidrocarburos: Declaración-liquidación.
 
 Modelo 582. Impuesto sobre Hidrocarburos: Regularización por reexpedición de productos a otra Comunidad Autónoma.
 
+Modelo 584. Impuesto sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica. Autoliquidación y pagos fraccionados.
+
+Modelo 585. Impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas. Autoliquidación y pagos fraccionados.
+
 Modelo 590. Impuestos Especiales de Fabricación. Solicitud de devolución por exportación o expedición.
 
 Modelo 380. Impuesto sobre el Valor Añadido. Operaciones asimiladas a las importaciones. Declaración-liquidación
 
 3. Las condiciones generales y el procedimiento para la presentación telemática de estas declaraciones serán, con carácter general, y sin perjuicio de lo dicho en el apartado anterior de esta disposición adicional, las que se establecen en las respectivas Órdenes por las que se aprobaron cada uno de estos modelos de declaración.
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden HAP/538/2013, de 5 de abril. Ref. BOE-A-2013-3671.
 
 > Se modifica el apartado 2 por la disposición final 1 de la Orden HAP/71/2013, de 30 de enero. Ref. BOE-A-2013-953.
 
