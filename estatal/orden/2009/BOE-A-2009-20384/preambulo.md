@@ -1,0 +1,1 @@
+Disposición derogada, en lo que se refiere a las competencias del Ministerio de Hacienda y Administraciones Públicas por la disposición derogatoria única.a) de la Orden HAP/548/2013, de 2 de abril. Ref. BOE-A-2013-3702.
