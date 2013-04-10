@@ -16,6 +16,8 @@ a) Para acreditar los períodos de cotización necesarios para causar derecho a 
 
 b) Para causar derecho a las pensiones de jubilación e incapacidad permanente, al número de días teóricos de cotización obtenidos conforme a lo dispuesto en la letra a) de esta regla se le aplicará el coeficiente multiplicador de 1,5, resultando de ello el número de días que se considerarán acreditados para la determinación de los períodos mínimos de cotización. En ningún caso podrá computarse un número de días cotizados superior al que correspondería de haberse realizado la prestación de servicios a tiempo completo.
 
+> Téngase en cuenta que la regla 2 del apartado 1 se declara inconstitucional y nula por Sentencia 61/2013, de 14 de marzo Ref. BOE-A-2013-3797 en la redacción dada por el Real Decreto-Ley 15/1998, de 27 de noviembre Ref. BOE-A-1998-27395.
+
 Tercera. Bases reguladoras.
 
 a) La base reguladora de las prestaciones de jubilación e incapacidad permanente se calculará conforme a la regla general. Para las prestaciones por maternidad y por paternidad, la base reguladora diaria será el resultado de dividir la suma de las bases de cotización acreditadas en la empresa durante el año anterior a la fecha del hecho causante entre 365.
@@ -48,6 +50,8 @@ c) Lo dispuesto en este apartado será de aplicación a los trabajadores con con
 
 d) Reglamentariamente se determinarán los términos y condiciones para la aplicación de lo dispuesto en este apartado.
 
+> Se declara inconstitucional y nula la regla 2 del apartado 1, en la redacción dada por el Real Decreto-Ley 15/1998, de 27 de noviembre, por Sentencia 61/2013, de 14 de marzo. Ref. BOE-A-2013-3797.
+
 > Se añade el apartado 3 por la disposición final 5.7 de la Ley 3/2012, de 6 de julio. Ref. BOE-A-2012-9110.
 
 > Se modifica el apartado 2 por la disposición adicional 40.3 de la Ley 27/2011, de 1 de agosto. Ref. BOE-A-2011-13242.
@@ -60,4 +64,4 @@ d) Reglamentariamente se determinarán los términos y condiciones para la aplic
 
 > Se modifica por el art. 2.2 del Real Decreto-Ley 15/1998, de 27 de noviembre. Ref. BOE-A-1998-27395.
 
-> Se declara inconstitucional y nula la regla 2 del apartado 1 por Sentencia 61/2013, de 14 de marzo. Ref. BOE-A-2013-3797.
+> Téngase en cuenta que se declara inconstitucional y nula la regla 2 del apartado 1 por Sentencia 61/2013, de 14 de marzo. Ref. BOE-A-2013-3797.
