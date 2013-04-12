@@ -1,3 +1,5 @@
-## Disposición final tercera.
+## Disposición final tercera. Desarrollo y aplicación.
 
-Se faculta a los Ministros de Industria y Energía y de Economía y Hacienda para, en el ámbito de sus competencias, dictar las disposiciones necesarias para el cumplimiento y desarrollo del presente Real Decreto, que entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», sin perjuicio de lo dispuesto en el artículo 93.3 del Tratado constitutivo de la Comunidad Europea.
+Se autoriza a los Ministros de Industria, Energía y Turismo, de Hacienda y Administraciones Públicas y de Fomento para, en el ámbito de sus competencias, dictar las disposiciones necesarias para el desarrollo y aplicación del presente real decreto.
+
+> Se modifica por el art. único.10 del Real Decreto 237/2013, de 5 de abril. Ref. BOE-A-2013-3809.
