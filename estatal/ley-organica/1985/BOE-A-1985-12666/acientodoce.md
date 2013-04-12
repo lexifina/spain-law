@@ -16,4 +16,8 @@ c) Cada asociación determinará, de acuerdo con lo que dispongan sus Estatutos,
 
 4. Entre los treinta y seis candidatos presentados, conforme a lo dispuesto en el número anterior, se elegirán en primer lugar seis Vocales por el Pleno del Congreso de los Diputados, y una vez elegidos estos seis Vocales, el Senado elegirá los otros seis entre los treinta candidatos restantes. Todo ello sin perjuicio de lo dispuesto en el número 2 del artículo siguiente.
 
+> Se suspende la vigencia, hasta la fecha en la que se produzca la expiración del mandato del actual Consejo General del Poder Judicial, por el art. único.1 y 3 de la Ley Orgánica 1/2013, de 11 de abril. Ref. BOE-A-2013-3860.
+
+> Téngase en cuenta que se deroga la Ley Orgánica 1/2013, de 11 de abril, por la que se suspende la vigencia de este artículo, por la disposición derogatoria.3 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.
+
 > Se modifica por el art. único de la Ley Orgánica 2/2001, de 28 de junio. Ref. BOE-A-2001-12535
