@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Interoperabilidad de los registros públicos.
+
+La Dirección General de Modernización Administrativa, Procedimientos e Impulso de la Administración Electrónica de la Secretaría de Estado de Administraciones Públicas, certificará las herramientas y mecanismos que se pongan en funcionamiento para garantizar el acceso y la interoperabilidad con el Registro Electrónico Común, así como para garantizar la interconexión de los registros, por parte del resto de las Administraciones Públicas, de conformidad con lo señalado en el Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica.
