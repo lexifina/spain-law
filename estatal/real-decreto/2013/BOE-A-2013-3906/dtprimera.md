@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Verificadores medioambientales acreditados de conformidad con el Reglamento (CE) n.º 761/2001 del Parlamento Europeo y del Consejo, de 19 de marzo de 2001.
+
+Los verificadores medioambientales acreditados de conformidad con el Reglamento (CE) n.º 761/2001 del Parlamento Europeo y del Consejo, de 19 de marzo de 2001, podrán seguir ejerciendo su actividad, hasta la correspondiente renovación de la acreditación que se efectuará de conformidad con lo previsto en el Reglamento (CE) n.º 1221/2009 del Parlamento Europeo y del Consejo, de 25 de noviembre de 2009, en el Real Decreto 1715/2010, de 17 de diciembre, por el que se designa a la Entidad Nacional de Acreditación (ENAC) como organismo nacional de acreditación y en este real decreto.

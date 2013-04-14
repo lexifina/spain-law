@@ -1,0 +1,3 @@
+## Disposición final tercera. Título competencial.
+
+Este real decreto tiene el carácter de legislación básica de protección del medio ambiente, sin perjuicio de las facultades de las comunidades autónomas de establecer normas adicionales de protección, de conformidad con lo establecido en el artículo 149.1.23.ª de la Constitución. No obstante el artículo 11.1 que determina el sistema de acreditación de verificadores y conexos, se dictan, además, al amparo del artículo 149.1 13.ª, que atribuye al Estado la competencia exclusiva para establecer las bases y coordinación de la planificación general de la actividad económica.
