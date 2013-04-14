@@ -18,9 +18,19 @@ Biomasa: cualquier combustible sólido, líquido o gaseoso, no fósil, compuesto
 
 Biocombustibles sólidos: aquellos combustibles sólidos no fósiles compuestos por materia vegetal o animal, o producidos a partir de la misma mediante procesos físicos o químicos, susceptibles de ser utilizados en aplicaciones energéticas, como por ejemplo los huesos de aceituna, las cáscaras de almendra, los pelets, las astillas y los orujillos.
 
+Caldera: equipo a presión en el que el calor procedente de cualquier fuente de energía se transfiere a los usos térmicos del edificio por medio de un circuito de agua cerrado. No se incluyen en esta definición aquellos equipos basados en motores de combustión interna o externa, los de cogeneración o bomba de calor.
+
 Calefacción: proceso por el que se controla solamente la temperatura del aire de los espacios con carga negativa.
 
 Calefacción y refrigeración urbana: cuando la producción de calor o frío es única para un conjunto de usuarios que utilizan una misma red urbana. En inglés se conoce como «district heating».
+
+Calentador de agua caliente sanitaria a gas, llamado calentador a gas: todo aparato dedicado exclusivamente a la producción de agua caliente sanitaria en el que el calor procedente de la combustión de combustibles gaseosos, es transferido directamente por medio de un circuito abierto al agua de consumo.
+
+Calentador de agua caliente sanitaria a gas por acumulación, calentador a gas con un depósito de acumulación de agua integrado con las condiciones térmicas de uso.
+
+Calentador instantáneo de agua caliente sanitaria a gas es el calentador a gas que realiza el calentamiento en función del caudal de agua extraído.
+
+Calor Residual: Calor que es necesario evacuar para asegurar el funcionamiento de cualquier proceso y que puede ser aprovechado total o parcialmente como calor útil; en especial el necesario evacuar para asegurar el funcionamiento del ciclo termodinámico de producción de energía eléctrica o mecánica, (en equipos de cogeneración), o de bombas de calor y que puede ser también aprovechado total o parcialmente como calor útil.
 
 Captador solar térmico: dispositivo diseñado para absorber la radiación solar y transmitir la energía térmica así producida a un fluido de trabajo que circula por su interior.
 
@@ -114,25 +124,23 @@ Nivel de unidades de campo: corresponde a los equipos de campo como: elementos p
 
 Organismos de Control: son entidades públicas o privadas, con personalidad jurídica, que se constituyen con la finalidad de verificar el cumplimiento de carácter obligatorio de las condiciones de seguridad de productos e instalaciones industriales, establecidas por los Reglamentos de Seguridad Industrial, mediante actividades de certificación, ensayo, inspección o auditoria, de acuerdo con el Real Decreto 2200/1995, de 28 de diciembre.
 
-ODA 1: aire puro que puede contener partículas sólidas (p.e. polen) de forma temporal.
+ODA 1: aire puro que se ensucia sólo temporalmente (por ejemplo polen).
 
-ODA 2: aire con altas concentraciones de partículas.
+ODA 2: aire con concentraciones altas de partículas y, o de gases contaminantes.
 
-ODA 3: aire con altas concentraciones de contaminantes gaseosos.
-
-ODA 4: aire con altas concentraciones de contaminantes gaseosos y partículas.
-
-ODA 5: aire con muy altas concentraciones de contaminantes gaseosos y partículas.
+ODA 3: aire con concentraciones muy altas de gases contaminantes (ODA 3G) y, o de partículas (ODA 3P).
 
 Porcentaje estimado de insatisfechos (PPD) (Predicted Percentage of Dissatisfied): proporciona datos sobre la incomodidad o insatisfacción térmica basándose en la estimación del porcentaje de personas susceptibles de sentir demasiado calor o demasiado frío en unas condiciones ambientales dadas. (UNE-EN ISO 7730).
 
-Potencia térmica nominal: potencia máxima que, según determine y garantice el fabricante, puede suministrar un equipo en funcionamiento continuo, ajustándose a los rendimientos declarados por el fabricante.
+Potencia útil nominal (expresada en kW) o Potencia térmica nominal: la potencia calorífica máxima que, según determine y garantice el fabricante, puede suministrarse en funcionamiento continuo, ajustándose a los rendimientos útiles declarados por el fabricante.
 
 Proyectista: agente que redacta el proyecto por encargo de la propiedad y con sujeción a la normativa correspondiente.
 
 Refrigeración: en climatización, proceso que controla solamente la temperatura del aire de los espacios con carga positiva.
 
 Rendimiento: relación entre la potencia útil y la potencia nominal de un generador.
+
+Rendimiento útil (expresado en porcentaje): la relación entre el flujo calorífico transmitido al agua de la caldera y el producto del poder calorífico inferior a presión constante del combustible por el consumo expresado en cantidad de combustible por unidad de tiempo.
 
 Sistema: conjunto de equipos y aparatos que, relacionados entre sí, constituyen una instalación de climatización.
 
@@ -181,3 +189,7 @@ Paredes interiores y paredes exteriores sin ventanas: 50 cm
 Puertas y zonas de tránsito: 100 cm.
 
 No tienen la consideración de zona ocupada los lugares en los que puedan darse importantes variaciones de temperatura con respecto a la media y pueda haber presencia de corriente de aire en la cercanía de las personas, como: zonas de tránsito, zonas próximas a puertas de uso frecuente, zonas próximas a cualquier tipo de unidad terminal que impulse aire y zonas próximas a aparatos con fuerte producción de calor.
+
+Zona térmica: es el conjunto de locales en los que sus temperaturas pueden considerarse idénticas, siendo atendidas por un mismo subsistema de climatización. En cada local pueden existir sistemas de control que ajusten las aportaciones térmicas.
+
+> Se modifica por el art. 2.38 y 39 del Real Decreto 238/2013, de 5 de abril. Ref. BOE-A-2013-3905.
