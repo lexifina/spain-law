@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Comisión asesora para la certificación energética de edificios.
+
+La Comisión asesora para la certificación de eficiencia energética de edificios, creada por el artículo 14 del Procedimiento básico para la certificación de eficiencia energética de edificios de nueva construcción, aprobado por el Real Decreto 47/2007, de 19 de enero, por el que se aprueba el Procedimiento básico para la certificación de eficiencia energética de edificios de nueva construcción, continuará existiendo, quedando regulados su objeto, funciones, composición y organización en los artículos 15, 16 y 17 del Procedimiento básico que se aprueba por el presente real decreto.

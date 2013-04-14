@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 276, de 17 de noviembre de 2007. Ref. BOE-A-2007-19818.
+Norma derogada por la disposición derogatoria única del Real Decreto 235/2013, de 5 de abril. Ref. BOE-A-2013-3904.

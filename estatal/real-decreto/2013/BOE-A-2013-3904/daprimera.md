@@ -1,0 +1,3 @@
+## Disposición adicional primera. Certificaciones de edificios pertenecientes y ocupados por las Administraciones Públicas.
+
+Para los edificios pertenecientes y ocupados por las Administraciones Públicas enumeradas en el artículo 2 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, los certificados, controles externos y la inspección, a los que se refieren los artículos 7, 8, 9 y 10 del Procedimiento básico aprobado por el presente real decreto, podrán realizarse por técnicos competentes de cualquiera de los servicios de esas Administraciones Públicas.
