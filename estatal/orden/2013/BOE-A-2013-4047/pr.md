@@ -1,0 +1,9 @@
+Con fecha 6 de octubre de 2009 la Comisión Europea adoptó la Decisión 2009/750/CE, relativa a la definición del Servicio Europeo de Telepeaje y sus elementos técnicos por la que se desarrolla la Directiva 2004/52/CE del Parlamento Europeo y del Consejo, de 29 de abril de 2004, relativa a la interoperabilidad de los sistemas de telepeaje de las carreteras de la Comunidad, que fue transpuesta al ordenamiento jurídico español en virtud del Real Decreto 94/2006, de 3 de febrero, por el que se regula la interoperabilidad de los sistemas de telepeaje instalados en las carreteras estatales.
+
+La Decisión antecitada establece en su artículo 3 que los proveedores del Servicio Europeo de Telepeaje deberán solicitar el registro en un Estado miembro en el que estén establecidos y contempla una serie de requisitos han de cumplir para ser inscritos. Por otra parte, el artículo 19 de la misma dispone la obligación de cada Estado miembro de establecer y mantener actualizado un registro electrónico nacional que contenga la información relativa tanto a los dominios existentes en su territorio en los que esté disponible el Servicio Europeo de Telepeaje, como a los proveedores nacionales de dicho servicio.
+
+La presente orden se dicta con el objetivo de establecer la normativa necesaria para la creación y funcionamiento del Registro Electrónico Nacional del Servicio Europeo de Telepeaje en España.
+
+De acuerdo con lo establecido en la Decisión de la Comisión Europea, así como de los principios de accesibilidad y disponibilidad que informan la Administración electrónica, el Registro y su operativa se articulan sobre procedimientos telemáticos que facilitarán su funcionamiento y utilización general.
+
+En su virtud, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas y de acuerdo con el Consejo de Estado, dispongo:
