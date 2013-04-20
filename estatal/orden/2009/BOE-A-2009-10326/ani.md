@@ -6,6 +6,7 @@
 | --- | --- |
 | 100 | Impuesto sobre la Renta de las Personas Físicas. Declaración anual o borrador de declaración. |
 | 102 | Impuesto sobre la Renta de las Personas Físicas. Declaración anual. Segundo plazo. |
+| 108 | Gravamen único sobre revalorización de activos de la Ley 16/2012, para contribuyentes del I.R.P.F. Autoliquidación. |
 | 111 | Retenciones e ingresos a cuenta del Impuesto sobre la Renta de las Personas Físicas. Rendimientos del trabajo y de actividades económicas, premios y determinadas ganancias patrimoniales e imputaciones de renta. |
 | 115 | Impuesto sobre la Renta de las Personas Físicas, Impuesto sobre Sociedades e Impuesto sobre la Renta de no Residentes (establecimientos permanentes). Retenciones e ingresos a cuenta sobre determinadas rentas o rendimientos procedentes del arrendamiento o subarrendamiento de inmuebles urbanos. Declaración-documento de ingreso. |
 | 117 | Impuesto sobre la Renta de las Personas Físicas, Impuesto sobre Sociedades e Impuesto sobre la Renta de no Residentes. Retenciones e Ingresos a cuenta/Pago a cuenta. Rentas o ganancias patrimoniales obtenidas como consecuencia de las transmisiones o reembolsos de acciones y participaciones representativas del capital o del patrimonio de las instituciones de inversión colectiva. Declaración-documento de ingreso. |
@@ -19,6 +20,7 @@
 | 200 (*) | Impuesto sobre Sociedades e Impuesto sobre la Renta de no Residentes. Declaración anual (establecimientos permanentes y entidades en régimen de atribución de rentas constituidas en el extranjero con presencia en territorio español). |
 | 202 | Impuesto sobre Sociedades. Impuesto sobre la Renta de no Residentes (establecimientos permanentes y entidades en régimen de atribución de rentas constituidas en el extranjero con presencia en territorio español). Pago fraccionado. |
 | 206 (*) | Impuesto sobre la Renta de no Residentes (establecimientos permanentes y entidades en régimen de atribución de rentas constituidas en el extranjero con presencia en territorio español). Documento de ingreso. |
+| 208 | Gravamen único sobre revalorización de activos de la Ley 16/2012, para sujetos pasivos del Impuesto sobre Sociedades y contribuyentes del Impuesto sobre la Renta de no Residentes con Establecimiento Permanente. Autoliquidación. |
 | 210 (**) | Impuesto sobre la Renta de no Residentes. No residentes sin establecimiento permanente. Declaración ordinaria. |
 | 213 | Gravamen Especial sobre Bienes Inmuebles de Entidades no Residentes. |
 | 216 | Impuesto sobre la Renta de no Residentes. Rentas obtenidas sin mediación de establecimiento permanente. Retenciones e ingresos a cuenta. Declaración-documento de ingreso. |
@@ -46,6 +48,8 @@
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
+
+> Se añaden los modelos 108 y 208 por la disposición final 3.1 de la Orden HAP/636/2013, de 15 de abril. Ref. BOE-A-2013-4123.
 
 > Se añaden los modelos 136, 230, 581 y 582 por la disposición final 2 de la Orden HAP/70/2013, de 30 de enero. Ref. BOE-A-2013-952., y Orden HAP/71/2013, de 30 de enero. Ref. BOE-A-2013-953.
 

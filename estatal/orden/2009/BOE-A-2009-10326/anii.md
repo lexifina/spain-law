@@ -6,6 +6,7 @@
 | --- | --- |
 | 100 | Desde el día 2 de mayo hasta el 23 de junio. |
 | 102 | Desde el día 2 de mayo hasta el 23 de junio. |
+| 108 | Desde el 24 de abril de 2013 hasta el 26 de junio de 2013, ambos inclusive. |
 | 111 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
 | 115 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
 | 117 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
@@ -19,6 +20,7 @@
 | 200 (*) | Desde el día 1 hasta el 20 del mes de julio. |
 | 202 | Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre. |
 | 206 (*) | Desde el día 1 hasta el 20 del mes de julio. |
+| 208 | Desde el 1 de julio de 2013 hasta el 20 de julio de 2013, ambos inclusive. |
 | 210 | En el caso de tipo de renta 02 (rentas imputadas de inmuebles urbanos): desde el día 1 de enero hasta el 23 de diciembre; Resto de tipo de rentas, excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles): desde el día 1 hasta el día 15 de los meses de abril, julio, octubre y enero. |
 | 213 | Desde el día 1 hasta el 25 del mes de enero. |
 | 216 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
@@ -44,6 +46,8 @@
 | 714 | Desde el día 3 de mayo hasta el 27 de junio. |
 
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
+
+> Se añaden los modelos 108 y 208 por la disposición final 3.2 de la Orden HAP/636/2013, de 15 de abril. Ref. BOE-A-2013-4123.
 
 > Se añaden los modelos 136, 230, 581 y 582 por la disposición final 2 de la Orden HAP/70/2013, de 30 de enero. Ref. BOE-A-2013-952., y Orden HAP/71/2013, de 30 de enero. Ref. BOE-A-2013-953.
 
