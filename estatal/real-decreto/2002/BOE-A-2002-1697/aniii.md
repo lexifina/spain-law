@@ -90,3 +90,21 @@ Las observaciones deberán evaluarse mediante gráficos de control con normas y 
 | Comportamiento de asentamiento del nivel del vaso de vertido. | Anualmente. | Lectura anual. |
 
 * Datos para la descripción del vertedero: superficie ocupada por los residuos, volumen y composición de los mismos, métodos de depósito, tiempo y duración del depósito, cálculo de la capacidad restante de depósito que queda disponible en el vertedero.
+
+6. Requisitos específicos aplicables al mercurio metálico.
+
+El almacenamiento temporal de mercurio metálico por un período superior a un año deberá cumplir los requisitos siguientes:
+
+a) Requisitos de control, inspección y emergencia.
+
+En el emplazamiento del almacenamiento se instalará un sistema de control de los vapores de mercurio, mediante medición en continuo, con una sensibilidad de al menos 0,02 miligramos de mercurio por metro cúbico. Se colocarán sensores en el suelo y a la altura de 1,70 metros sobre el suelo. Incluirá un sistema de alerta acústica y visual. El sistema estará sujeto a un mantenimiento anual.
+
+El emplazamiento del almacenamiento y los recipientes serán inspeccionados visualmente, como mínimo una vez al mes, por una persona autorizada por la entidad explotadora del almacenamiento temporal. El resultado de cada inspección deberá quedar incorporado al archivo cronológico o registro documental de la instalación. Si se detecta una fuga, la entidad explotadora tomará inmediatamente todas las medidas necesarias para evitar cualquier emisión de mercurio al medio ambiente y restablecer la seguridad del almacenamiento del mercurio. Se considerará que cualquier fuga tiene efectos negativos significativos sobre el medio ambiente, en relación con lo establecido en la letra b) del artículo 13.
+
+El emplazamiento contará con planes de emergencia y equipos de protección adecuados para la manipulación del mercurio metálico.
+
+b) Anotaciones en el archivo documental o registro.
+
+Los documentos que contengan la información prevista en el punto 2.5 del anexo II y en el punto A de este apartado, incluido el certificado que acompaña al recipiente, así como las anotaciones de la retirada del lugar de almacenamiento y el envío de mercurio metálico, después de su almacenamiento temporal, así como las relativos al destino y tratamiento previsto, deberán incorporarse a un archivo o registro documental, que se conservará durante al menos tres años después de finalizado el almacenamiento.
+
+> Se añade el apartado 6 por el art. 2 de la Orden AAA/661/2013, de 18 de abril. Ref. BOE-A-2013-4291.

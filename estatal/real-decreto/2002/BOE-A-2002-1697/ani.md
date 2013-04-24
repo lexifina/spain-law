@@ -98,3 +98,21 @@ La colocación de los residuos en el vertedero se hará de manera tal que garant
 El vertedero deberá disponer de medidas de seguridad que impidan el libre acceso a las instalaciones.
 
 Las entradas estarán cerradas fuera de las horas de servicio. El sistema de control de acceso deberá incluir un programa de medidas para detectar y disuadir el vertido ilegal en la instalación.
+
+8. Almacenamiento temporal de mercurio metálico.
+
+El almacenamiento temporal de mercurio metálico por un período superior a un año deberá cumplir los requisitos siguientes:
+
+– el mercurio metálico se almacenará separado de otros residuos,
+
+– los recipientes se almacenarán dentro de cubetos de retención revestidos de manera que no presenten grietas ni huecos y sean impermeables al mercurio metálico, con un volumen de confinamiento adecuado respecto a la cantidad de mercurio almacenada,
+
+– el emplazamiento del almacenamiento dispondrá de barreras naturales o artificiales adecuadas para proteger el medio ambiente frente a las emisiones de mercurio y tendrá un volumen de confinamiento igual o superior al 110 % de la capacidad máxima de almacenamiento de mercurio,
+
+– el suelo del emplazamiento de almacenamiento se revestirá con productos selladores resistentes al mercurio; deberá preverse una pendiente con un sumidero de recogida y, en el caso de que sea necesario a juicio del órgano ambiental competente de la comunidad autónoma, un drenaje de seguridad,
+
+– el emplazamiento del almacenamiento contará con un sistema de protección contra incendios,
+
+– el almacenamiento se organizará de tal manera que se asegure que todos los recipientes serán fácilmente accesibles en caso de que sea necesaria su retirada del lugar de almacenamiento.
+
+> Se añade el apartado 8 por el art. 1 de la Orden AAA/661/2013, de 18 de abril. Ref. BOE-A-2013-4291.
