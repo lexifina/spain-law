@@ -1,0 +1,71 @@
+## Norma tercera. Criterios específicos aplicables por microentidades sin fines lucrativos.
+
+1. Los criterios señalados en los apartados siguientes de esta norma, podrán ser aplicados por todas las entidades que habiendo optado por aplicar el Plan de Contabilidad de Pequeñas y Medianas Entidades sin Fines Lucrativos, durante dos ejercicios consecutivos reúnan, a la fecha de cierre de cada uno de ellos, al menos dos de las siguientes circunstancias:
+
+a) Que el total de las partidas del activo no supere 150.000 euros.
+
+b) Que el importe neto de su volumen anual de ingresos no supere los 150.000 euros. A estos efectos se entenderá por importe neto del volumen anual de ingresos la suma de las partidas 1. «Ingresos de la entidad por la actividad propia» y, en su caso, del importe neto de la cifra anual de negocios de la actividad mercantil.
+
+c) Que el número medio de trabajadores empleados durante el ejercicio no sea superior a cinco.
+
+Las entidades perderán la facultad de aplicar los criterios específicos contenidos en la presente norma si dejan de reunir, durante dos ejercicios consecutivos, a la fecha de cierre de cada uno de ellos, dos de las circunstancias a que se refiere el párrafo anterior.
+
+En el ejercicio económico de su constitución o transformación, las entidades podrán aplicar los criterios específicos contenidos en la presente norma si reúnen, al cierre de dicho ejercicio, al menos dos de las tres circunstancias expresadas en este apartado.
+
+Si la entidad formase parte de un grupo de entidades en los términos descritos en la norma de elaboración de las cuentas anuales 10.ª Entidades del grupo, multigrupo y asociadas, contenida en la tercera parte del Plan de Contabilidad de Pequeñas y Medianas Entidades sin Fines Lucrativos, para la cuantificación de los importes se tendrá en cuenta la suma del activo, del importe neto de su volumen anual de ingresos y del número medio de trabajadores del conjunto de las entidades que conformen el grupo.
+
+A estos exclusivos efectos, cuando proceda considerar los criterios específicos para microentidades, el total activo deberá incrementarse en el importe de los compromisos financieros pendientes derivados de los acuerdos de arrendamiento financiero y otros de naturaleza similar regulados en el apartado 3 de esta norma.
+
+El registro de las operaciones debe condicionarse al previsible cumplimiento de los citados requisitos.
+
+2. La opción que una microentidad ejerza de aplicar o no los criterios específicos contenidos en el apartado 3 siguiente, deberá mantenerse de forma continuada, como mínimo, durante tres ejercicios, a no ser que, con anterioridad al transcurso de dicho plazo, la entidad pierda la facultad de aplicar los criterios específicos para microentidades, conforme a lo establecido en el apartado anterior.
+
+3. Las entidades que opten por los criterios específicos de las microentidades, habrán de hacerlo de forma conjunta, debiendo seguir las siguientes normas, respecto a las operaciones descritas a continuación:
+
+1.ª Acuerdos de arrendamiento financiero y otros de naturaleza similar.
+
+En la calificación de un acuerdo de arrendamiento como financiero, se estará a lo dispuesto en la norma de registro y valoración sobre arrendamientos y otras operaciones de naturaleza similar incluida en la segunda parte del Plan de Contabilidad de Pequeñas y Medianas Entidades sin Fines Lucrativos.
+
+Los arrendatarios de los acuerdos de arrendamiento financiero u otros de naturaleza similar que no tengan por objeto terrenos, solares u otros activos no amortizables, contabilizarán las cuotas devengadas en el ejercicio como un gasto en la cuenta de resultados. En su caso, en el momento de ejercer la opción de compra, se registrará el activo por el precio de adquisición de dicha opción.
+
+Los arrendatarios de los acuerdos de arrendamiento financiero u otros de naturaleza similar que tengan por objeto terrenos, solares u otros activos no amortizables, aplicarán los criterios de registro y valoración relativos a los arrendamientos financieros y otras operaciones de naturaleza similar contenidos en la segunda parte del Plan de Contabilidad de Pequeñas y Medianas Entidades sin Fines Lucrativos.
+
+2.ª Préstamos concedidos y recibidos en el ejercicio de la actividad propia a tipo de interés cero o por debajo del interés de mercado.
+
+Los préstamos concedidos y recibidos en el ejercicio de la actividad propia a tipo de interés cero o por debajo del interés de mercado se contabilizarán por el importe entregado o recibido, respectivamente. En su caso, los intereses de la operación se reconocerán, por el importe acordado, en la cuenta de resultados.
+
+3.ª Deudas por ayudas concedidas en el ejercicio de la actividad propia.
+
+Las ayudas monetarias concedidas por la entidad a sus beneficiarios, con vencimiento a corto o largo plazo, originarán el reconocimiento de un pasivo por su valor nominal.
+
+Si la concesión de la ayuda es plurianual, el pasivo también se registrará por el valor nominal del importe comprometido en firme de forma irrevocable e incondicional. Se aplicará este mismo criterio en aquellos casos en los que la prolongación de la ayuda no esté sometida a evaluaciones periódicas, sino al mero cumplimiento de trámites formales o administrativos.
+
+4.ª Impuesto sobre beneficios.
+
+El gasto por impuesto sobre beneficios se contabilizará en la cuenta de resultados por el importe que resulte de las liquidaciones fiscales del impuesto sobre sociedades relativas al ejercicio. A tal efecto, al cierre del ejercicio, el gasto contabilizado por los importes a cuenta devengados, deberá aumentarse o disminuirse en la cuantía que proceda, registrando la correspondiente deuda o crédito frente a la Hacienda Pública.
+
+4. Las cuentas a utilizar para el registro contable de las operaciones descritas en el apartado 3 anterior serán, con carácter general, las siguientes:
+
+a) La cuenta 621. «Arrendamientos y cánones» prevista en la cuarta parte del Plan de Contabilidad de Pequeñas y Medianas Entidades sin Fines Lucrativos, se desagregará en las siguientes cuentas de cuatro cifras:
+
+6210. «Arrendamientos y cánones».
+
+6211. «Arrendamientos financieros y otros».
+
+El movimiento de la cuenta 6211 es el siguiente:
+
+Se cargará:
+
+Por el importe devengado por las cuotas del arrendamiento financiero y otros similares, con abono, normalmente, a cuentas del subgrupo 57.
+
+Se abonará:
+
+Con cargo a la cuenta 129.
+
+b) La cuenta 447. «Usuarios, deudores» prevista en la cuarta parte del Plan de Contabilidad de Pequeñas y Medianas Entidades sin Fines Lucrativos.
+
+c) La cuenta 412. «Beneficiarios, acreedores» y la cuenta 650. «Ayudas monetarias» previstas en la cuarta parte del Plan de Contabilidad de Pequeñas y Medianas Entidades sin Fines Lucrativos.
+
+d) La cuenta 6300. «Impuesto corriente» prevista en la cuarta parte del Plan Contabilidad de Pequeñas y Medianas Entidades sin Fines Lucrativos.
+
+5. Las entidades que apliquen los criterios específicos contenidos en el apartado 3 de esta norma incluirán en el apartado 2.1.a) de la memoria una mención expresa sobre la aplicación de estos criterios.
