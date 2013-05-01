@@ -42,12 +42,15 @@
 | 566 | Impuesto sobre las Labores del Tabaco. Declaración-liquidación. |
 | 581 | Impuesto sobre Hidrocarburos: Declaración-liquidación. |
 | 582 | Impuesto sobre Hidrocarburos: Regularización por reexpedición de productos a otra Comunidad Autónoma. |
+| 583 | Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación y Pagos Fraccionados. |
 | 595 | Impuesto Especial sobre el Carbón. Declaración-liquidación. |
 | 714 | Impuesto sobre el Patrimonio. Declaración anual. |
 
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
+
+> Se añade el modelo 583 por la disposición final 3.1 de la Orden HAP/703/2013, de 29 de abril. Ref. BOE-A-2013-4538.
 
 > Se añaden los modelos 108 y 208 por la disposición final 3.1 de la Orden HAP/636/2013, de 15 de abril. Ref. BOE-A-2013-4123.
 
