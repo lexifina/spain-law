@@ -61,4 +61,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [ANEXO XII.A](anxii.a.md)
 - [ANEXO XII.B](anxii.b.md)
 - [ANEXO XIII](anxiii.md)
+- [ANEXO XIII.B](anxiii.b.md)
+- [ANEXO XIII.C](anxiii.c.md)
 - [(Información relacionada)](ir.md)
