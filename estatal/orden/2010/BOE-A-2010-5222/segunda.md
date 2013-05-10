@@ -7,3 +7,5 @@
 a) Sin exigencia de titulación universitaria: un grado de conocimiento de al menos dos en todos los rasgos que lo componen.
 
 b) Con exigencia de titulación universitaria: un grado de conocimiento de al menos tres en dos de los rasgos que conforman el perfil lingüístico y de dos en los dos restantes.
+
+> Véase la disposición adicional única.2 de la Orden DEF/778/2013, de 29 de abril, en cuanto amplía hasta el año 2015 inclusive, los plazos para la exención del perfil lingüístico en los procesos de selección a que hace referencia el apartado 2. Ref. BOE-A-2013-4824.
