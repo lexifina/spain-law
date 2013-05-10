@@ -1,0 +1,17 @@
+El Reglamento 392/2009, del Parlamento Europeo y del Consejo, de 23 de abril de 2009, sobre la responsabilidad de los transportistas de pasajeros por mar en caso de accidente («El Reglamento europeo»), establece el régimen comunitario de responsabilidad y el seguro aplicables al transporte de pasajeros por mar. Este régimen se determina en virtud de lo establecido en el Convenio de Atenas relativo al transporte de pasajeros y sus equipajes por mar de 1974, que fue modificado por su Protocolo de 2002, aprobado el 1 de noviembre de 2002 bajo los auspicios de la Organización Marítima Internacional (OMI), («el Convenio de Atenas»), y de acuerdo con la reserva y las directrices para la aplicación del Convenio de Atenas aprobadas por el Comité Jurídico de la OMI el 19 de octubre de 2006 («las directrices de la OMI»), que se especifican en el anexo II del mencionado Reglamento, teniendo estas últimas carácter vinculante.
+
+El Convenio de Atenas establece su aplicación a cualquier transporte internacional. El Reglamento europeo amplía el ámbito de aplicación de las disposiciones del citado convenio al transporte marítimo de pasajeros dentro de un Estado miembro a bordo de buques de las clases A y B, según son definidos en el artículo 4 de la Directiva 98/18/CE del Consejo, de 17 de marzo de 1998, sobre reglas y normas de seguridad aplicables a los buques de pasaje, que fue traspuesta al ordenamiento interno mediante el Real Decreto 1247/1999, de 16 de julio, sobre reglas y normas de seguridad aplicables a los buques de pasaje que realicen travesías entre puertos españoles.
+
+El Reglamento europeo, entre otros aspectos, recoge la obligatoriedad de los transportistas de tener suscrito un seguro o una garantía financiera que cubra la responsabilidad en caso de muerte o lesiones de los pasajeros. La vigencia de dicho seguro se acreditará mediante la expedición de un certificado por las autoridades competentes de cada Estado miembro.
+
+En materia de responsabilidad civil, el artículo 254 del Real Decreto Legislativo 2/2011, de 5 de septiembre, por el que se aprueba el texto refundido de la Ley de Puertos del Estado y de la marina mercante, dispone que el Gobierno determinará reglamentariamente la obligación de tener asegurada la responsabilidad civil derivada de la explotación de buques.
+
+El Reglamento europeo permite, en el artículo 11, que los Estados miembros puedan aplazar su aplicación hasta cuatro años, en los supuestos de transporte por mar que se realicen dentro de un Estado miembro a bordo de buques de la citada clase A y hasta el 31 de diciembre de 2018 para los supuestos de transporte por mar que se realice dentro de un Estado miembro a bordo de los buques de la clase B citada. En este sentido, la disposición transitoria de este real decreto hace uso de dicha facultad de aplazamiento.
+
+Con la finalidad de que los buques afectados puedan disponer del correspondiente certificado de seguro o garantía financiera para poder navegar o entrar o salir de un puerto español con destino a puertos extranjeros, se hace preciso regular la expedición del certificado mencionado.
+
+La norma se ha sometido a informe de la Dirección General de Seguros y Fondos de Pensiones.
+
+En su virtud, a propuesta de la Ministra de Fomento, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 19 de abril de 2013,
+
+DISPONGO:
