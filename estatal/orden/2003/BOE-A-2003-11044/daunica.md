@@ -62,6 +62,8 @@ Modelo 546. Relación de suministros de gasóleo marcado a embarcaciones con dev
 
 Modelo 547. Impuesto sobre Hidrocarburos. Relación de abonos realizados a detallistas de gasóleo bonificado por las entidades emisoras de medios de pago específicos.
 
+Modelo 548. Impuestos Especiales Fabricación. Declaración informativa de cuotas repercutidas.
+
 Modelo 551. Impuestos Especiales de Fabricación. Relación semanal de documentos de acompañamiento expedidos.
 
 Modelo 553. Impuesto sobre el Vino y Bebidas Fermentadas. Declaración de operaciones en fábricas y depósitos fiscales de vino y bebidas fermentadas.
@@ -113,6 +115,10 @@ Modelo 590. Impuestos Especiales de Fabricación. Solicitud de devolución por e
 Modelo 380. Impuesto sobre el Valor Añadido. Operaciones asimiladas a las importaciones. Declaración-liquidación
 
 3. Las condiciones generales y el procedimiento para la presentación telemática de estas declaraciones serán, con carácter general, y sin perjuicio de lo dicho en el apartado anterior de esta disposición adicional, las que se establecen en las respectivas Órdenes por las que se aprobaron cada uno de estos modelos de declaración.
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden HAP/779/2013, de 30 de abril. Ref. BOE-A-2013-4825.
+
+> Esta modificación es de aplicación a las operaciones realizadas a partir del 1 de junio de 2013, según establece la disposición final 2.
 
 > Se modifica el apartado 2 por la disposición final 1 de la Orden HAP/703/2013, de 29 de abril. Ref. BOE-A-2013-4538.
 
