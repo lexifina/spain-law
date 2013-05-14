@@ -22,4 +22,8 @@ h) Ayuda para gastos de sepelio.
 
 i) Ayuda a jubilados forzosos por razón de edad.
 
+j) Ayuda para prestaciones complementarias.
+
 2. La resolución de los expedientes y la autorización y disposición del gasto de las prestaciones y otros procedimientos de las Mutualidades integradas en el Fondo Especial.
+
+> Se añade el párrafo j) al apartado 1 por el apartado 1.3 de la Resolución de 29 de abril de 2013. Ref. BOE-A-2013-4986.

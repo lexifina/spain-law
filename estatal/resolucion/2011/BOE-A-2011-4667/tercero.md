@@ -1,9 +1,5 @@
 ## Tercero.
 
-Delegar en el/la Consejero/a Técnico las siguientes competencias:
+(Suprimido).
 
-La resolución de los expedientes y la autorización y disposición del gasto de las siguientes prestaciones:
-
-a) Ayudas de los programas del Plan de Atención Socio-Sanitario
-
-b) Ayuda por adquisición de vivienda financiada mediante préstamo hipotecario.
+> Se suprime por el apartado 1.1 de la Resolución de 29 de abril de 2013. Ref. BOE-A-2013-4986.
