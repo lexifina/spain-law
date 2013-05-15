@@ -4,13 +4,13 @@
 
 1. Medidas previas a la ejecución hipotecaria: reestructuración de deudas hipotecarias.
 
-a) Los deudores comprendidos en el ámbito de aplicación del artículo 2 del Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, podrán solicitar y obtener de la entidad acreedora la reestructuración de su deuda hipotecaria al objeto de alcanzar la viabilidad a medio y largo plazo de la misma. Junto a la solicitud de reestructuración, acompañarán la documentación prevista en el artículo 3.2 del citado real decreto-ley.
+a) Los deudores comprendidos en el ámbito de aplicación del artículo 2 del Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, podrán solicitar y obtener de la entidad acreedora la reestructuración de su deuda hipotecaria al objeto de alcanzar la viabilidad a medio y largo plazo de la misma. Junto a la solicitud de reestructuración, acompañarán la documentación prevista en el artículo 3.3 del citado Real Decreto-ley.
 
 No podrán formular tal solicitud aquellos deudores que se encuentren en un procedimiento de ejecución, una vez se haya producido el anuncio de la subasta.
 
-b) En el plazo de un mes desde la presentación de la solicitud anterior junto con la documentación a que se refiere la letra anterior, la entidad deberá notificar y ofrecer al deudor un plan de reestructuración en el que se concreten la ejecución y las consecuencias financieras para el deudor de la aplicación conjunta de las siguientes medidas:
+b) En el plazo de un mes desde la presentación de la solicitud anterior junto con la documentación a que se refiere la letra anterior, la entidad deberá notificar y ofrecer al deudor un plan de reestructuración en el que se concreten la ejecución y las consecuencias financieras para el deudor de la aplicación conjunta de las medidas contenidas en esta letra. Sin perjuicio de lo anterior, el deudor podrá presentar en todo momento a la entidad una propuesta de plan de reestructuración, que deberá ser analizada por la entidad, quien, en caso de rechazo, deberá comunicar al deudor los motivos en que se fundamente.
 
-i. Carencia en la amortización de capital de cuatro años.
+i. Carencia en la amortización de capital de cinco años. El capital correspondiente a las cuotas de ese periodo podrá o bien pasarse a una cuota final al término del préstamo o bien prorratearse en las cuotas restantes, o realizarse una combinación de ambos sistemas.
 
 ii. Ampliación del plazo de amortización hasta un total de 40 años a contar desde la concesión del préstamo.
 
@@ -26,7 +26,7 @@ c) En el plan de reestructuración la entidad advertirá, en su caso, del carác
 
 a) Los deudores para los que el plan de reestructuración previsto en el apartado anterior resulte inviable dada su situación económico financiera, podrán solicitar una quita en el capital pendiente de amortización en los términos previstos en este apartado, que la entidad tendrá facultad para aceptar o rechazar en el plazo de un mes a contar desde la acreditación de la inviabilidad del plan de reestructuración.
 
-A estos efectos, se entenderá por plan de reestructuración inviable aquel que establezca una cuota hipotecaria mensual superior al 60 por cien de los ingresos que perciban conjuntamente todos los miembros de la unidad familiar.
+A estos efectos, se entenderá por plan de reestructuración inviable aquel que establezca una cuota hipotecaria mensual superior al 50 por cien de los ingresos que perciban conjuntamente todos los miembros de la unidad familiar.
 
 b) Al objeto de determinar la quita, la entidad empleará alguno de los siguientes métodos de cálculo y notificará, en todo caso, los resultados obtenidos al deudor, con independencia de que la primera decida o no conceder dicha quita:
 
@@ -34,7 +34,7 @@ i. Reducción en un 25 por cien.
 
 ii. Reducción equivalente a la diferencia entre capital amortizado y el que guarde con el total del capital prestado la misma proporción que el número de cuotas satisfechas por el deudor sobre el total de las debidas.
 
-iii. Reducción equivalente a la mitad de la diferencia existente entre el valor actual de la vivienda y el valor que resulte de sustraer al valor inicial de tasación dos veces la diferencia con el préstamo concedido.
+iii. Reducción equivalente a la mitad de la diferencia existente entre el valor actual de la vivienda y el valor que resulte de sustraer al valor inicial de tasación dos veces la diferencia con el préstamo concedido, siempre que el primero resulte inferior al segundo.
 
 c) Esta medida también podrá ser solicitada por aquellos deudores que se encuentren en un procedimiento de ejecución hipotecaria en el que ya se haya producido el anuncio de la subasta. Asimismo podrá serlo por aquellos deudores que, estando incluidos en el umbral de exclusión al que se refiere el Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, no han podido optar a la dación en pago por presentar la vivienda cargas posteriores a la hipoteca.
 
@@ -44,7 +44,7 @@ a) En el plazo de doce meses desde la solicitud de la reestructuración, los deu
 
 b) La dación en pago supondrá la cancelación total de la deuda garantizada con hipoteca y de las responsabilidades personales del deudor y de terceros frente a la entidad por razón de la misma deuda.
 
-c) El deudor, si así lo solicitara en el momento de pedir la dación en pago, podrá permanecer durante un plazo de dos años en la vivienda en concepto de arrendatario, satisfaciendo una renta anual del 3 por cien del importe total de la deuda en el momento de la dación. Durante dicho plazo el impago de la renta devengará un interés de demora del 20 por cien.
+c) El deudor, si así lo solicitara en el momento de pedir la dación en pago, podrá permanecer durante un plazo de dos años en la vivienda en concepto de arrendatario, satisfaciendo una renta anual del 3 por cien del importe total de la deuda en el momento de la dación. Durante dicho plazo el impago de la renta devengará un interés de demora del 10 por cien.
 
 d) Las entidades podrán pactar con los deudores la cesión de una parte de la plusvalía generada por la enajenación de la vivienda, en contraprestación por la colaboración que éste pueda prestar en dicha transmisión.
 
@@ -53,3 +53,5 @@ e) Esta medida no será aplicable en los supuestos que se encuentren en procedim
 4. Publicidad del Código de Buenas Prácticas.
 
 Las entidades garantizarán la máxima difusión del contenido del Código de Buenas Prácticas, en particular, entre sus clientes.
+
+> Se modifica por el art. 8.8 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.

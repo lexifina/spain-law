@@ -2,7 +2,7 @@
 
 1. A los efectos de esta Ley, se entenderá por hipoteca inversa el préstamo o crédito garantizado mediante hipoteca sobre un bien inmueble que constituya la vivienda habitual del solicitante y siempre que cumplan los siguientes requisitos:
 
-a) que el solicitante y los beneficiarios que este pueda designar sean personas de edad igual o superior a los 65 años o afectadas de dependencia severa o gran dependencia,
+a) que el solicitante y los beneficiarios que éste pueda designar sean personas de edad igual o superior a los 65 años o afectadas de dependencia o personas a las que se les haya reconocido un grado de discapacidad igual o superior al 33 por ciento.
 
 b) que el deudor disponga del importe del préstamo o crédito mediante disposiciones periódicas o únicas,
 
@@ -31,3 +31,5 @@ En caso de que el bien hipotecado haya sido transmitido voluntariamente por el d
 10. Podrán, asimismo, instrumentarse hipotecas inversas sobre cualesquiera otros inmuebles distintos de la vivienda habitual del solicitante. A estas hipotecas inversas no les serán de aplicación los apartados anteriores de esta disposición.
 
 11. En lo no previsto en esta disposición y su normativa de desarrollo, la hipoteca inversa se regirá por lo dispuesto en la legislación que en cada caso resulte aplicable.
+
+> Se modifcia la letra a) del apartado 1 por el art. 5 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.

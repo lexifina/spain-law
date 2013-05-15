@@ -2,9 +2,7 @@
 
 Los préstamos y créditos a que se refiere esta Ley habrán de estar garantizados, en todo caso, por hipoteca inmobiliaria constituida con rango de primera sobre el pleno dominio de la totalidad de la finca. Si sobre el mismo inmueble gravasen otras hipotecas o estuviere afecto a prohibiciones de disponer, condición resolutoria o cualquier otra limitación del dominio, habrá de procederse a la cancelación de unas y otras o a su posposición a la hipoteca que se constituye previamente a la emisión de los títulos.
 
-El préstamo o crédito garantizado con esta hipoteca no podrá exceder del 60 por ciento del valor de tasación del bien hipotecado. Cuando se financie la construcción, rehabilitación o adquisición de viviendas, el préstamo o crédito podrá alcanzar el 80 por ciento del valor de tasación, sin perjuicio de las excepciones que prevé esta Ley.
-
-Dentro de los préstamos y créditos a que se refiere este artículo podrán incluirse aquellos otros que estén garantizados por inmuebles situados dentro de la Unión Europea mediante garantías de naturaleza equivalente a las que se definen en esta Ley.
+El préstamo o crédito garantizado con esta hipoteca no podrá exceder del 60 por ciento del valor de tasación del bien hipotecado. Cuando se financie la construcción, rehabilitación o adquisición de viviendas, el préstamo o crédito podrá alcanzar el 80 por ciento del valor de tasación, sin perjuicio de las excepciones que prevé esta Ley. El plazo de amortización del préstamo o crédito garantizado, cuando financie la adquisición, construcción o rehabilitación de la vivienda habitual, no podrá exceder de treinta años.
 
 Reglamentariamente se determinarán:
 
@@ -17,5 +15,7 @@ Reglamentariamente se determinarán:
 4. Las condiciones en las que se podría superar la relación del 80 por ciento entre el préstamo o crédito garantizado y el valor de la vivienda hipotecada, sin exceder del 95 por ciento de dicho valor, mediante garantías adicionales prestadas por entidades aseguradoras o entidades de crédito.
 
 5. La forma en que se apreciará la equivalencia de las garantías reales que graven inmuebles situados en otros Estados miembros de la Unión Europea y las condiciones de la emisión de títulos que se emitan tomándolos como garantía.
+
+> Se modifica el párrafo segundo y se suprime el tercero por los arts. 6 y 7 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.
 
 > Se modifica por el art. 2.3 de la Ley 41/2007, de 7 de diciembre. Ref. BOE-A-2007-21086

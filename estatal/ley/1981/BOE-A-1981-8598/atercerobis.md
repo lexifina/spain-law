@@ -6,7 +6,7 @@
 
 a) Se considerarán infracciones muy graves:
 
-1.ª El incumplimiento, durante un período superior a seis meses, del requisito del capital social mínimo exigible para ejercer la actividad de tasación en la legislación del mercado hipotecario, así como, durante igual período, la ausencia, o la cobertura por importe inferior al exigible, del aseguramiento de la responsabilidad civil establecido en esa misma normativa.
+1.ª El incumplimiento, durante un período superior a tres meses, del requisito del capital social mínimo exigible para ejercer la actividad de tasación en la legislación del mercado hipotecario, así como, durante igual período, la ausencia, o la cobertura por importe inferior al exigible, del aseguramiento de la responsabilidad civil establecido en esa misma normativa.
 
 2.ª El ejercicio de actividades ajenas a su objeto social legalmente determinado, salvo que tengan un carácter meramente ocasional o aislado.
 
@@ -68,12 +68,14 @@ c) Las sanciones de inhabilitación previstas en el artículo 12, se entenderán
 
 En cuanto a las competencias sancionadoras, se estará a lo previsto en el artículo 18 de la Ley 26/1988, de 29 de julio, de Disciplina e Intervención de las Entidades de Crédito con las siguientes modificaciones:
 
-a) El Banco de España incoará obligatoriamente un procedimiento sancionador cuando exista una comunicación razonada de otro organismo o autoridad administrativa en la que se ponga de manifiesto que la prestación irregular de los servicios de tasación ha tenido repercusiones en su campo de actuación administrativa.
+a) El Banco de España incoará obligatoriamente un procedimiento sancionador cuando exista una comunicación razonada de otro organismo o autoridad administrativa en la que se ponga de manifiesto que la prestación irregular de los servicios de tasación ha tenido repercusiones en su campo de actuación administrativa. Asimismo, el Consejo de Consumidores y Usuarios podrá solicitar al Banco de España la incoación de un procedimiento sancionador cuando, a su juicio, se ponga de manifiesto la prestación irregular de los servicios de tasación.
 
 b) En el supuesto señalado en la letra anterior, antes de imponerse la sanción, informará el organismo o autoridad administrativa competente.
 
 5. En las demás cuestiones atinentes al régimen sancionador será de aplicación, con las adaptaciones que reglamentariamente se establezcan, lo previsto en la Ley 26/1988, de 29 de julio, de Disciplina e Intervención de las Entidades de Crédito.
 
 6. A las personas físicas y jurídicas, que sin estar homologadas para ejercer actividades de tasación ofrezcan al público su realización, les será de aplicación lo previsto en la disposición adicional décima de la Ley 26/1988, de 29 de julio, de Disciplina e Intervención de las Entidades de Crédito, con las adaptaciones que reglamentariamente se establezcan.
+
+> Se modifica el apartado 2.a).1ª y 4.a) por el art. 4.2 y 3 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.
 
 > Se añade por el art. 4 de la Ley 41/2007, de 7 de diciembre. Ref. BOE-A-2007-21086
