@@ -34,9 +34,9 @@ Los balances físicos por instalación tendrán en cuenta las mediciones efectua
 
 Los balances físicos relativos a las instalaciones de regasificación y transporte, serán supervisados por el Gestor Técnico del Sistema, quién determinará su alcance y periodicidad en función de su incidencia en la operación del Sistema.
 
-7.2 Balance Diario (n+2).
+7.2 Balance Diario.
 
-7.2.1 Requisitos generales.–El balance diario se elaborará para cada día de gas, dándose a conocer a los usuarios y sujetos afectados antes de las 22 h del segundo día laborable posterior al día de gas.
+7.2.1 Requisitos generales.–El balance diario se elaborará para cada día de gas. Antes de las 12 horas posteriores al día de gas el Gestor Técnico del Sistema publicará el balance diario en el SL-ATR.
 
 Todas las comunicaciones entre aquéllos y el Gestor Técnico del Sistema se realizarán a través del Sistema Logístico SL-ATR dispuesto para este fin.
 
@@ -105,5 +105,11 @@ Estos ajustes se imputaran repartidos por igual en cada uno de los días del mes
 El Gestor Técnico del Sistema publicará en el SL-ATR (Sistema Logístico de Acceso de Terceros a la Red) información detallada de repartos definitivos con un desglose por comercializador, día y punto de conexión transporte-distribución, así como el detalle de las regularizaciones sobre el balance diario y el mes de imputación.
 
 Dicha información se publicará antes del vigésimo día laborable del mes siguiente al del reparto definitivo.
+
+> Téngase en cuenta que toda referencia al balance o reparto «n+2» se entenderá referida al balance o reparto diario, según establece el apartado quinto de la Resolución de 7 de febrero de 2013, en la redacción dada por el apartado primero.2 de la Resolución de 30 de abril de 2013. Ref. BOE-A-2013-5128.
+
+> Se modifica el título del apartado 7.2 y el primer párrafo del apartado 7.2.1 por los apartados segundo y tercero de la Resolución de 7 de febrero de 2013. Ref. BOE-A-2013-1464.
+
+> Téngase en cuenta que a partir del 1 de julio de 2013 toda referencia al balance o reparto «n+2» se entenderá referida al balance o reparto «n+1», según establece el apartado quinto de la citada Resolución.
 
 > Se modifican los apartados 7.2.3 y 7.3 por el apartado segundo de la Resolución de 4 de julio de 2008. Ref. BOE-A-2008-12051.

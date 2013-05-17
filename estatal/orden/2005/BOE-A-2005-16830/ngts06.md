@@ -4,6 +4,14 @@
 
 > Se añade un nuevo apartado 6.2.5 y se introduce un nuevo epígrafe 6.4.3, pasando el antiguo 6.4.3 a ser ahora el 6.4.4, por los apartados primero y segundo de la Resolución de 23 de octubre de 2008. Ref. BOE-A-2008-18066.
 
+> Se reemplaza el título del apartado 6.4.1 y el contenido del apartado 6.4.1.1, según establece el apartado primero de la Resolución de 7 de febrero de 2013. Ref. BOE-A-2013-1464.
+
+> Se modifica el apartado 6.4.1.1 por el apartado primero de la Resolución de 7 de febrero de 2013, en la redacción dada por el apartado primero.1 de la Resolución de 30 de abril de 2013. Ref. BOE-A-2013-5128
+
+> Se modifica el apartado 6.4.1.1 por el apartado primero de la Resolución de 7 de febrero de 2013, en la redacción dada por el apartado primero.1 de la Resolución de 30 de abril de 2013. Ref. BOE-A-2013-5128
+
+> Se modifica el título del apartado 6.4.1 y el apartado 6.4.1.1 por el apartado primero de la Resolución de 7 de febrero de 2013. Ref. BOE-A-2013-1464.
+
 > Se añade el apartado 6.2.5 y se modifica el apartado 6.4.3 pasando el antiguo 6.4.3 a ser el 6.4.4 por los apartados primero y segundo de la Resolución de 23 de octubre de 2008. Ref. BOE-A-2008-18066.
 
 > Se reemplaza esta Norma por la que aparece publicada en la página web del Ministerio de Industria, Turismo y Comercio según establece el apartado primero de la Resolución de 4 de julio de 2008. Ref. BOE-A-2008-12051.
