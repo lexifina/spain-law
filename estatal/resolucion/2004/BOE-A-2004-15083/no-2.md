@@ -1,3 +1,1 @@
-Esta norma pasa a denominarse "Resolución de la Dirección General de la Tesorería General de la Seguridad Social sobre determinación de funciones en materia de aplazamientos de pago de deudas, reintegros de prestaciones indebidamente percibidas, compensación, devolución de ingresos indebidos, reembolso del coste de las garantías, desistimiento, convenios o acuerdos en procedimientos concursales y anuncios de subastas en Boletines Oficiales", según establece la instrucción primera.1 de la Resolución de 4 de julio de 2005. Ref. BOE-A-2005-12460
-
-> Incluye corrección de errores publicada en BOE núm. 233, de 27 de septiembre de 2004. Ref. BOE-A-2004-16616
+Esta norma pasa a denominarse "Resolución de 16 de julio de 2004, de la Tesorería General de la Seguridad Social, sobre determinación de funciones en materia de gestión recaudatoria de la Seguridad Social", según establece el apartado 1.1 de la Resolución de 8 de mayo de 2013. Ref. BOE-A-2013-5316

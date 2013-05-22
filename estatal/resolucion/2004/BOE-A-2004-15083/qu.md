@@ -10,9 +10,11 @@ Asimismo, corresponderá a dicho Director de la Administración de la Seguridad 
 
 3. El respectivo Director Provincial de la Tesorería General de la Seguridad Social, siempre que la cantidad a devolver sea superior a 500.000 euros y no exceda de 1.000.000 de euros.
 
-4. El Subdirector General de Inscripción, Afiliación y Recaudación en Período Voluntario de la Tesorería General de la Seguridad Social o el Subdirector General de la misma que tuviese atribuida la gestión recaudatoria del recurso cuya devolución se solicita, cuando se trate de devoluciones de ingresos indebidos correspondientes a recursos cuya gestión recaudatoria esté atribuida a los órganos centrales de la Tesorería General de la Seguridad Social, siempre que la cantidad objeto de devolución no exceda de 1.000.000 de euros.
+4. El titular de la Subdirección General de Recaudación en Periodo Voluntario de la Tesorería General de la Seguridad Social o de la Subdirección General de la misma que tuviese atribuida la gestión recaudatoria del recurso cuya devolución se solicita, cuando se trate de devoluciones de ingresos indebidos correspondientes a recursos cuya gestión recaudatoria esté atribuida a los órganos centrales de dicho servicio común de la Seguridad Social, siempre que la cantidad objeto de devolución no exceda de 1.000.000 de euros.
 
 5. El Director General de la Tesorería General de la Seguridad Social, cuando la cantidad objeto de devolución fuere superior a 1.000.000 de euros.
+
+> Se modifica el apartado 4 por el apartado 1.3 de la Resolución de 8 de mayo de 2013. Ref. BOE-A-2013-5316
 
 > Se modifica por la instrucción primera.2 de la Resolución de 4 de julio de 2005. Ref. BOE-A-2005-12460
 
