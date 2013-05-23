@@ -770,6 +770,8 @@ Artículo 126. Organización de la Junta de Gobierno Local.
 
 El Alcalde podrá nombrar como miembros de la Junta de Gobierno Local a personas que no ostenten la condición de concejales, siempre que su número no supere un tercio de sus miembros, excluido el Alcalde. Sus derechos económicos y prestaciones sociales serán los de los miembros electivos.
 
+> Declarado inconstitucional y nulo el inciso destacado del párrafo segundo del apartado 2 por Sentencia del TC 103/2013, de 25 de abril. Ref. BOE-A-2013-5446.
+
 En todo caso, para la válida constitución de la Junta de Gobierno Local se requiere que el número de miembros de la Junta de Gobierno Local que ostentan la condición de concejales presentes sea superior al número de aquellos miembros presentes que no ostentan dicha condición.
 
 Los miembros de la Junta de Gobierno Local podrán asistir a las sesiones del Pleno e intervenir en los debates, sin perjuicio de las facultades que corresponden a su Presidente.
@@ -832,7 +834,7 @@ Artículo 128. Los distritos.
 
 Artículo 129. La asesoría jurídica.
 
-1. Sin perjuicio de las funciones reservadas al secretario del Pleno por el párrafo e) del apartado 5 del artículo 122 de esta ley, existirá un órgano administrativo responsable de la asistencia jurídica al Alcalde, a la Junta de Gobierno Local y a los órganos directivos, comprensiva del asesoramiento jurídico y de la representación y defensa en juicio del ayuntamiento, sin perjuicio de lo dispuesto en el apartado segundo del artículo 447 de la Ley 6/1985, de 1 de julio, del Poder Judicial.
+1. Sin perjuicio de las funciones reservadas al secretario del Pleno por el párrafo e) del apartado 5 del artículo 122 de esta ley, existirá un órgano administrativo responsable de la asistencia jurídica al Alcalde, a la Junta de Gobierno Local y a los órganos directivos, comprensiva del asesoramiento jurídico y de la representación y defensa en juicio del ayuntamiento, sin perjuicio de lo dispuesto en el apartado segundo del artículo 447 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
 
 2. Su titular será nombrado y separado por la Junta de Gobierno Local, entre personas que reúnan los siguientes requisitos:
 
@@ -998,7 +1000,7 @@ Artículo 140. Clasificación de las infracciones.
 
 Serán muy graves las infracciones que supongan:
 
-a) Una perturbación relevante de la convivencia que afecte de manera grave, inmediata y directa a la tranquilidad o al ejercicio de derechos legítimos de otras personas, al normal desarrollo de actividades de toda clase conformes con la normativa aplicable o a la salubridad u ornato públicos, siempre que se trate de conductas no subsumibles en los tipos previstos en el capítulo IV de la Ley 1/1992, de 21 de febrero, de Protección de la Seguridad Ciudadana.
+a) Una perturbación relevante de la convivencia que afecte de manera grave, inmediata y directa a la tranquilidad o al ejercicio de derechos legítimos de otras personas, al normal desarrollo de actividades de toda clase conformes con la normativa aplicable o a la salubridad u ornato públicos, siempre que se trate de conductas no subsumibles en los tipos previstos en el capítulo IV de la Ley Orgánica 1/1992, de 21 de febrero, de Protección de la Seguridad Ciudadana.
 
 b) El impedimento del uso de un servicio público por otra u otras personas con derecho a su utilización.
 
@@ -1031,3 +1033,5 @@ Infracciones muy graves: hasta 3.000 euros.
 Infracciones graves: hasta 1.500 euros.
 
 Infracciones leves: hasta 750 euros.»
+
+> Se declara la inconstitucionalidad y nulidad del inciso destacado del párrafo segundo del art. 126.2 por Sentencia del TC 103/2013, de 25 de abril. Ref. BOE-A-2013-5446.
