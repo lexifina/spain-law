@@ -84,8 +84,10 @@ En.................................., a........ de........................... de
 
 Firma.»
 
-5. A efectos de su rendición al Tribunal de Cuentas, una vez firmada la diligencia del punto anterior, se deberá remitir dicha diligencia junto con su respectivo Informe agregado a la Intervención General de la Administración del Estado dentro de los cinco meses siguientes a la finalización del ejercicio económico.
+5. A efectos de su rendición al Tribunal de Cuentas, una vez firmada la diligencia del punto anterior, se deberá remitir dicha diligencia junto con su respectivo Informe agregado a la Intervención General de la Administración del Estado dentro de los seis meses siguientes a la finalización del ejercicio económico.
 
 6. Mediante Resolución de la Intervención General de la Administración del Estado se podrán sustituir las diligencias en soporte papel de los puntos 3 y 4 de esta regla por las correspondientes diligencias electrónicas.
 
 En este caso, no será necesario el trámite previsto en el último párrafo del punto 3 de esta regla, relativo a la firma y rúbrica de las páginas de los informes agregados.
+
+> Se modifica el apartado 5 por el art. 3 de la Orden HAP/883/2013, de 13 de mayo. Ref. BOE-A-2013-5392.

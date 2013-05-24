@@ -38,6 +38,10 @@ b) Documento RC de ejercicio corriente (Solicitud de retenciones de crédito y r
 
 103 Retención 1% cultural (art. 58.3.a) del R.D. 111/1986).
 
+104 Retención cautelar por operaciones pendientes de registro contable.
+
+105 Retención cautelar de crédito procedente de tramitación anticipada.
+
 106 Retención de crédito para bajas por anulación y otras minoraciones.
 
 108 Retención adicional del 10% de la adjudicación.
@@ -741,6 +745,8 @@ Deberá cumplimentarse este campo en los documentos contables expedidos a favor 
 236. Tipo de mandamiento de ingreso: Se indicará el código relativo al mandamiento de ingreso de que se trate.
 
 (*) Unidad de cuenta: Se indicará la unidad de cuenta en la que ha sido tramitado el expediente de gasto: Pesetas (P) o euros (E).
+
+> Se modifica por el art. 2 de la Orden HAP/883/2013, de 13 de mayo. Ref. BOE-A-2013-5392.
 
 > Se modifica por el art. 1.5 de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
 
