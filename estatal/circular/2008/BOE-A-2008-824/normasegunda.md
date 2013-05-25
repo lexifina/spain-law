@@ -2,9 +2,9 @@
 
 1. Las IIC referidas en la letra a) de la norma primera, deberán comunicar en la forma establecida en la norma tercera los siguientes hechos relevantes:
 
-a) La sustitución de la sociedad gestora o del depositario de fondos de inversión, así como los cambios que se produzcan en el control de la primera.
+a) La sustitución y el cambio de control de la sociedad gestora o del depositario de los fondos de inversión.
 
-b) Todas aquellas decisiones que den lugar a la obligación de actualizar los elementos esenciales del folleto informativo.
+b) Todas aquellas decisiones que den lugar a la obligación de actualizar los elementos esenciales del folleto y/o del documento con los datos fundamentales para el inversor.
 
 c) La autorización del proceso de fusión en el que participe un fondo de inversión.
 
@@ -22,7 +22,9 @@ i) Suspensión y reanudación de la negociación de las acciones o participacion
 
 j) Exclusiones de negociación en Bolsa cuando las acciones pasen a negociarse en un mercado o sistema organizado de negociación de valores.
 
-k) Cualquier otro cuyo conocimiento pueda afectar a un inversor razonablemente para adquirir o transmitir las acciones o participaciones de la IIC y por tanto pueda influir de forma sensible en su valor liquidativo.
+k) Las bajadas sobrevenidas de la calificación crediticia del garante respecto del rating informado en el folleto registrado en la CNMV que recoge el objetivo de rentabilidad garantizado a vencimiento.
+
+l) Cualquier otro cuyo conocimiento pueda afectar a un inversor razonablemente para adquirir o transmitir las acciones o participaciones de las IIC y, por tanto, pueda influir de forma sensible en su valor liquidativo.
 
 2. La Comisión Nacional del Mercado de Valores publicará en su página Web, sin necesidad de comunicación por parte de la entidad afectada o su gestora, los hechos relevantes recogidos en las letras a) a d), ambas inclusive, una vez tramitados los correspondientes expedientes administrativos. De igual forma se publicarán de oficio los hechos relevantes que se deriven de una decisión de la Comisión Nacional del Mercado de Valores.
 
@@ -30,4 +32,16 @@ k) Cualquier otro cuyo conocimiento pueda afectar a un inversor razonablemente p
 
 4. Las IIC comunicarán a la Comisión Nacional del Mercado de Valores, para general conocimiento de los inversores, el resto de supuestos comprendidos en las letras e) a k), ambas inclusive, inmediatamente, una vez que se haya producido el hecho relevante, en la forma establecida en la norma tercera.
 
-5. Para las IIC referidas en la letra b) de la Norma primera, la información a que se refiere el penúltimo párrafo del apartado 2 de la norma segunda de la Circular 2/2006, de 27 de junio, de la Comisión Nacional del Mercado de Valores, deberá ser comunicada a ésta conforme a la Norma tercera de la presente Circular, de forma inmediata y con el mismo contenido y plazos que se hayan establecido en la regulación del Estado de origen.
+5. Las IIC referidas en la letra b) de la norma primera, deberán comunicar en la forma establecida en la norma tercera como hechos relevantes:
+
+a) Acontecimientos relevantes que afecten a aquellas IIC admitidas a negociación en la bolsa española.
+
+b) Suspensión y reanudación bien de la negociación bien de las suscripciones y reembolsos de las IIC.
+
+c) Errores relevantes en el cálculo del valor liquidativo.
+
+d) Cierre de la IIC a nuevas suscripciones.
+
+e) Cualquier otro acontecimiento extraordinario y de especial relevancia que afecte a la IIC.
+
+> Se modifican los apartados 1.a), 1.b), 1.k) y el ap.5, y se añade el 1.l) por la norma final 1.2 a 1.5 de la Circular 2/2013, de 9 de mayo. Ref. BOE-A-2013-5453.

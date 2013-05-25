@@ -22,4 +22,6 @@ El cálculo deberá realizarse los días que se publique el índice a partir del
 
 3. Sin perjuicio de lo dispuesto en los apartados anteriores, se podrá incluir en el folleto de la institución una desviación máxima superior al 5%, siempre que, atendiendo a la composición del índice que se pretenda replicar o reproducir y/o a la técnicas de réplica o reproducción que se apliquen, se aporten a la CNMV razones suficientes que justifiquen ese máximo.
 
-4. Lo dispuesto en esta Norma no será exigible a los Fondos de inversión cotizados regulados en el artículo 49 del Reglamento de IIC.
+4. Lo dispuesto en el apartado 1 de esta Norma será exigible a los fondos de inversión cotizados y a las SICAV índice cotizadas.
+
+> Se modifica el apartado 4 por la norma final cuarta de la Circular 2/2013, de 9 de mayo. Ref. BOE-A-2013-5453.

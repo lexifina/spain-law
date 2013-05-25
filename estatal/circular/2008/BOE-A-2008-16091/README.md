@@ -21,6 +21,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Norma 6](n6.md)
 - [Sección 2](s2.md)
 - [Norma 7](n7.md)
+- [Norma transitoria](dt.md)
 - [Norma derogatoria](nd.md)
 - [Norma final](nf.md)
 - [(firma)](fi.md)
