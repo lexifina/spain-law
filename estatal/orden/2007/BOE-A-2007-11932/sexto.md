@@ -18,7 +18,7 @@ c) Otros órganos auxiliares y de asistencia:
 
 1.º Secretaría del General Jefe.
 
-2.º Secretaría de los Generales Adjuntos.
+2.º Secretaría del General Segundo Jefe.
 
 3.º Equipo de Asesores Técnicos.
 
@@ -29,3 +29,5 @@ c) Otros órganos auxiliares y de asistencia:
 6.º Oficiales de Enlace.
 
 2. Además, el Cuartel General de la UME, contará con una Intervención Delegada que, con dependencia orgánica y funcional de la Intervención General de la Defensa, ejercerá el control interno de la gestión económico-financiera, así como la notaría militar en la forma y condiciones establecidas por las leyes.
+
+> Se modifica el punto 1.c).2º por el art. 2.4 de la Orden DEF/896/2013, de 16 de mayo. Ref. BOE-A-2013-5450.

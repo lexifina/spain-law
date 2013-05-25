@@ -2,7 +2,7 @@
 
 1. El cargo de Jefe de la UME será desempeñado por un Oficial General del Cuerpo General de las Armas del Ejército de Tierra, en situación de servicio activo, nombrado por el Ministro de Defensa.
 
-2. Para auxiliar al Jefe de la UME en sus cometidos, podrá nombrarse a uno o a varios Oficiales Generales del Cuerpo General de cualquiera de los Ejércitos, o del Cuerpo de Infantería de Marina, en situación de servicio activo, como Adjuntos. Los Oficiales Generales Adjuntos serán nombrados por el Ministro de Defensa.
+2. Para auxiliar al Jefe de la UME en sus cometidos, podrá nombrarse a un Oficial General del Cuerpo General de cualquiera de los Ejércitos, o del Cuerpo de Infantería de Marina, en situación de servicio activo, como Segundo Jefe. El General Segundo Jefe será nombrado por el Ministro de Defensa.
 
 3. Al Jefe de la UME, le corresponde el mando, dirección, organización, preparación y empleo operativo de la Unidad y, en particular:
 
@@ -34,4 +34,6 @@ m) Ejercer la potestad disciplinaria en los términos previstos por la ley.
 
 4. En el ejercicio de sus funciones, el Jefe de la UME, establecerá las relaciones inherentes a su condición de Mando Conjunto, las establecidas en el Protocolo de Intervención y las necesarias con los órganos directivos del Ministerio de Defensa.
 
-5. El General o Generales Adjuntos al Jefe de la UME ejercerán las funciones y cometidos que, siendo susceptibles de delegación, expresamente les asigne el General Jefe, auxiliándose para ello del Estado Mayor de la Unidad.
+5. (Sin contenido).
+
+> Se modifica el punto 2 y se deja sin contenido el 5 por el art. 2.1 y 2 de la Orden DEF/896/2013, de 16 de mayo. Ref. BOE-A-2013-5450.
