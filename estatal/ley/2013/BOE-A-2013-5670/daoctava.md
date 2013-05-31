@@ -1,0 +1,5 @@
+## Disposición adicional octava. Informe sobre las posibles incidencias del cambio climático en el dominio público marítimo-terrestre.
+
+1. El Ministerio de Agricultura, Alimentación y Medio Ambiente procederá, en el plazo de dos años desde la entrada en vigor de la presente Ley, a elaborar una estrategia para la adaptación de la costa a los efectos del cambio climático, que se someterá a Evaluación Ambiental Estratégica, en la que se indicarán los distintos grados de vulnerabilidad y riesgo del litoral y se propondrán medidas para hacer frente a sus posibles efectos.
+
+2. Igualmente las Comunidades Autónomas a las que se hayan adscrito terrenos de dominio público marítimo-terrestre, de acuerdo con el artículo 49 de la Ley 22/1988, de 28 de julio, de Costas, presentarán en el mismo plazo señalado en el apartado anterior, al Ministerio de Agricultura, Alimentación y Medio Ambiente, para su aprobación, un Plan de adaptación de dichos terrenos y de las estructuras construidas sobre ellos para hacer frente a los posibles efectos del cambio climático.

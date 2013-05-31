@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Reintegro del dominio de los terrenos que dejan de formar parte del dominio público marítimo-terrestre.
+
+Aquellas personas que, en el momento de la entrada en vigor de la Ley 22/1988, de 28 de julio, de Costas, eran propietarias, con título inscrito en el Registro de la Propiedad, de terrenos que pasaron a formar parte del dominio público marítimo-terrestre por aplicación de aquella, o sus causahabientes, serán reintegrados en el dominio de los bienes que por aplicación de la presente Ley dejen de formar parte del dominio público marítimo-terrestre, una vez revisados los correspondientes deslindes, de acuerdo con la disposición adicional segunda.

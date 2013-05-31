@@ -1,0 +1,7 @@
+## Disposición adicional novena. Garantía del funcionamiento temporal de determinadas instalaciones de depuración.
+
+1. En atención a las actuales y extraordinarias circunstancias económicas que fuerzan la restricción del gasto público y las inversiones, las instalaciones de depuración de aguas residuales de interés general, construidas en dominio público marítimo-terrestre antes de la entrada en vigor de la presente Ley, que deban ser reubicadas en cumplimiento de una resolución judicial, continuarán temporalmente su actividad, en el mismo emplazamiento, en las condiciones de servicio y explotación que sean necesarias para cumplir con los objetivos medioambientales exigidos por la normativa aplicable.
+
+2. Una vez que las circunstancias económicas lo permitan deberán iniciarse las actuaciones tendentes a la adecuada sustitución de las instalaciones a las que se refiere el apartado anterior, de acuerdo con criterios de sostenibilidad de las inversiones, de modo que queden garantizadas aquellas otras inversiones que resulten imprescindibles para el cumplimiento de las obligaciones exigidas por la normativa europea y estatal en materia de instalaciones de depuración de interés general.
+
+3. La presente disposición no se aplicará en ningún caso, a aquellas instalaciones de depuración de aguas residuales que se encuentren construidas en espacios protegidos o incluidos en la Red Natura 2000.

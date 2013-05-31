@@ -38,4 +38,6 @@ El propio planeamiento urbanístico habrá de proponer el acotamiento de los tra
 
 6. Los accesos públicos al mar actualmente existentes y los construidos en virtud de planeamiento urbanístico aprobado con anterioridad a la entrada en vigor de esta Ley permanecerán destinados al uso público, abriéndose al mismo cuando lo estuvieren.
 
+> Véase la disposición transitoria 1 de la Ley 2/2013, de 29 de mayo. Ref. BOE-A-2013-5670., en cuanto a la aplicación del apartado 3.
+
 > Se modifica el apartado 3 por el art. 120.7 de la Ley 53/2002, de 30 de diciembre. Ref. BOE-A-2002-25412.
