@@ -4,15 +4,21 @@
 
 1. Tasa general de operadores
 
-Sin perjuicio de la contribución económica que pueda imponerse a los operadores para la financiación del servicio universal, de acuerdo con lo establecido en el artículo 24 y en el título III, todo operador estará obligado a satisfacer a la Administración General del Estado y sus organismos públicos una tasa anual que no podrá exceder el dos por mil de sus ingresos brutos de explotación y que estará destinada a sufragar los gastos que se generen, incluidos los de gestión, control y ejecución, por la aplicación del régimen jurídico establecido en esta ley, por las autoridades nacionales de reglamentación a que se refiere el artículo 46.
+1. Sin perjuicio de la contribución económica que pueda imponerse a los operadores para la financiación del servicio universal, de acuerdo con lo establecido en el artículo 25 y en el Título III, todo operador estará obligado a satisfacer una tasa anual que no podrá exceder el 1,5 por mil de sus ingresos brutos de explotación y que estará destinada a sufragar los gastos que se generen, incluidos los de gestión, control y ejecución, por la aplicación del régimen jurídico establecido en esta Ley, por las autoridades nacionales de reglamentación a que se refiere el artículo 68.
 
-A efectos de lo señalado en el párrafo anterior, se entiende por ingresos brutos el conjunto de ingresos que obtenga el operador derivados de la explotación de las redes y la prestación de los servicios de comunicaciones electrónicas incluidos en el ámbito de aplicación de esta ley. A tales efectos, no se considerarán como ingresos brutos los correspondientes a servicios prestados por un operador cuyo importe recaude de los usuarios con el fin de remunerar los servicios de operadores que exploten redes o presten servicios de comunicaciones electrónicas.
+A efectos de lo señalado en el párrafo anterior, se entiende por ingresos brutos el conjunto de ingresos que obtenga el operador derivados de la explotación de las redes y la prestación de los servicios de comunicaciones electrónicas incluidos en el ámbito de aplicación de esta Ley. A tales efectos, no se considerarán como ingresos brutos los correspondientes a servicios prestados por un operador cuyo importe recaude de los usuarios con el fin de remunerar los servicios de operadores que exploten redes o presten servicios de comunicaciones electrónicas.
 
-La tasa se devengará el 31 de diciembre de cada año. No obstante, si por causa imputable al operador, éste perdiera la habilitación para actuar como tal en fecha anterior al 31 de diciembre, la tasa se devengará en la fecha en que esta circunstancia se produzca.
+2. La tasa se devengará el 31 de diciembre de cada año. No obstante, si por causa imputable al operador, éste perdiera la habilitación para actuar como tal en fecha anterior al 31 de diciembre, la tasa se devengará en la fecha en que esta circunstancia se produzca.
 
-A efectos de lo dispuesto en el párrafo anterior, la Ley de Presupuestos Generales del Estado establecerá anualmente el porcentaje a aplicar sobre los ingresos brutos de explotación que obtenga el operador, con el límite determinado en este apartado para la fijación del importe de la tasa, tomando en consideración la relación entre los ingresos del cobro de la tasa y los gastos ocasionados por el funcionamiento de la Comisión del Mercado de las Telecomunicaciones.
+3. El importe de esta tasa anual no podrá exceder de los gastos que se generen, incluidos los de gestión, control y ejecución, por la aplicación del régimen jurídico establecido en esta Ley, anteriormente referidos.
 
-La diferencia entre los ingresos presupuestados por este concepto y los realmente obtenidos será tenida en cuenta a efectos de reducir o incrementar el porcentaje a fijar en la Ley de Presupuestos Generales del Estado del año siguiente. Se tomará como objetivo conseguir el equilibrio entre los ingresos por la tasa y los gastos derivados de la citada actividad realizada por la Comisión del Mercado de las Telecomunicaciones.
+A tal efecto, el Ministerio de Industria, Energía y Turismo hará pública antes del 30 de abril de cada año una memoria que contenga los gastos en que han incurrido en el ejercicio anterior las autoridades nacionales de reglamentación a que se refiere el artículo 68 por la aplicación del régimen jurídico establecido en esta Ley.
+
+La memoria contemplará, de forma separada, los gastos en los que haya incurrido la Comisión Nacional de los Mercados y la Competencia por la aplicación del régimen jurídico establecido en esta Ley, que servirán de base para fijar la asignación anual de la Comisión con cargo a los Presupuestos Generales del Estado y garantizar la suficiencia de recursos financieros de la Comisión para la aplicación de esta Ley.
+
+El importe de la tasa resultará de aplicar al importe de los gastos en que han incurrido en el ejercicio anterior las autoridades nacionales de reglamentación a que se refiere el artículo 68 por la aplicación del régimen jurídico establecido en esta Ley y que figura en la citada memoria, el porcentaje que individualmente representan los ingresos brutos de explotación de cada uno de los operadores de telecomunicaciones en el ejercicio anterior sobre el total de los ingresos brutos de explotación obtenidos en ese mismo ejercicio por los operadores de telecomunicaciones.
+
+Reglamentariamente se determinará el sistema de gestión para la liquidación de esta tasa y los plazos y requisitos que los operadores de telecomunicaciones deben cumplir para comunicar al Ministerio de Industria, Energía y Turismo el importe de sus ingresos brutos de explotación con el objeto de que éste calcule el importe de la tasa que corresponde satisfacer a cada uno de los operadores de telecomunicaciones.
 
 2. Tasas por numeración telefónica
 
@@ -82,15 +88,11 @@ La realización de pruebas o ensayos para comprobar el cumplimiento de especific
 
 5. Estarán exentos del pago de la tasa de tramitación de autorizaciones de uso especial de dominio público radioeléctrico aquellos solicitantes de dichas autorizaciones que cumplan 65 años en el año en que efectúen la solicitud, o que los hayan cumplido con anterioridad, así como los beneficiarios de una pensión pública o que tengan reconocido un grado de minusvalía igual o superior al 33 por 100.
 
-5. Fines de las tasas, su gestión y recaudación en período voluntario, por la Comisión del Mercado de las Telecomunicaciones, por la Agencia Estatal de Radiocomunicaciones y por el Ministerio de Ciencia y Tecnología.
+5. Gestión y recaudación en período voluntario de las tasas.
 
-1. A los efectos de lo dispuesto en el apartado 5 del artículo 49, la Comisión del Mercado de las Telecomunicaciones y la Agencia Estatal de Radiocomunicaciones deberán presentar, en los términos que se establezcan reglamentariamente, una cuenta anual de los ingresos generados por las tasas que recaudan, al amparo de la competencia de gestión recaudatoria que les otorgan los párrafos siguientes de este apartado. La diferencia, en su caso, entre los ingresos obtenidos por la tasa general de operadores y los gastos ocasionados por el ejercicio de sus actividades será ingresado por la Comisión del Mercado de las Telecomunicaciones en la Agencia Estatal de Radiocomunicaciones, de conformidad con lo dispuesto en el apartado 1 del anexo I de esta ley.
+El Ministerio de Industria, Energía y Turismo gestionará y recaudará en período voluntario las tasas de este Anexo.
 
-2. La Comisión del Mercado de las Telecomunicaciones gestionará y recaudará las tasas en período voluntario, que se regulan en los apartados 1 y 2 de este anexo, así como las del apartado 4 del citado anexo I que se recauden por la prestación de servicios que tenga encomendados la Comisión, de acuerdo con lo previsto en esta ley.
-
-La Agencia Estatal de Radiocomunicaciones gestionará en período voluntario la tasa que regula en el apartado 3, y gestionará y recaudará en período voluntario las tasas previstas en el apartado 4 cuando se recauden por la prestación de servicios que tenga encomendados la Agencia, de acuerdo con lo previsto en esta ley.
-
-3. En los supuestos no incluidos en el párrafo anterior, corresponderá la gestión en período voluntario de estas tasas al órgano competente del Ministerio de Ciencia y Tecnología.
+> Se modifican los apartados 1 y 5 por la disposición final.5.2 y 5.3 de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
 
 > Se modifica el apartado 1 por la disposición derogatoria única.d) del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.
 
