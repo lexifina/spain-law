@@ -1,0 +1,3 @@
+## Disposición final segunda. Adaptación del Real Decreto 297/1996, de 23 de febrero, sobre inscripción en el Registro de la Propiedad de los contratos de arrendamientos urbanos.
+
+En el plazo de seis meses desde la entrada en vigor de esta Ley, el Gobierno adaptará la regulación contenida en el Real Decreto 297/1996, de 23 de febrero, sobre inscripción en el Registro de la Propiedad de los contratos de arrendamientos urbanos, a las previsiones de la misma, en especial en lo concerniente a las condiciones de cancelación de la inscripción de los arrendamientos y a la modificación de los aranceles notariales y registrales aplicables.
