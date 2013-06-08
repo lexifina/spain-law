@@ -55,3 +55,7 @@ c) Balance de resultados e informe de gestión (punto 23.6 de la Memoria).
 VI.10 Indicadores financieros, patrimoniales y presupuestarios (punto 24 de la Memoria).
 
 VI.11 Hechos posteriores al cierre (punto 27 de la Memoria).
+
+VII. Informe de auditoría de las cuentas anuales realizado en virtud del artículo 168 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+> Se añade el punto VII por la disposición adicional 1.1 de la Resolución de 3 de junio de 2013. Ref. BOE-A-2013-6043.

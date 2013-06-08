@@ -39,3 +39,7 @@ V.9 Información presupuestaria (punto 23 de la Memoria).
 V.10 Indicadores financieros y patrimoniales (punto 24 de la Memoria).
 
 V.11 Hechos posteriores al cierre (punto 27 de la Memoria).
+
+VI. Informe de auditoría de las cuentas anuales realizado en virtud del artículo 168 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+> Se añade el punto VI por la disposición adicional 1.2 de la Resolución de 3 de junio de 2013. Ref. BOE-A-2013-6043.

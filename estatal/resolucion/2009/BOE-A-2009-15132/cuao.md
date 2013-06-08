@@ -1,3 +1,7 @@
 ## Cuarto. Información a publicar por las entidades del sector público estatal fundacional.
 
 Las entidades del sector público estatal fundacional publicarán anualmente en el «Boletín Oficial del Estado» el balance de situación y la cuenta de resultados, de acuerdo con los modelos previstos en la Adaptación al Plan General de contabilidad para entidades sin fines de lucro, aprobado por Real Decreto 776/1998, de 30 de abril, adaptados en su contenido, respectivamente, al balance y a la cuenta de pérdidas y ganancias del Plan General de Contabilidad, aprobado por Real Decreto 1514/2007, de 16 de noviembre, así como un resumen de la memoria cuyo contenido será, al menos, el previsto en el anexo IV de la presente Resolución, en el plazo de un mes contado desde la fecha en que se remitan las cuentas anuales a la Intervención General de la Administración del Estado para su envío al Tribunal de Cuentas.
+
+Junto con la información referida anteriormente se publicará el informe de auditoría de las cuentas anuales realizado en virtud del artículo 168 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+> Se añade último párrafo por la disposición adicional.2 de la Resolución de 3 de junio de 2013. Ref. BOE-A-2013-6043.
