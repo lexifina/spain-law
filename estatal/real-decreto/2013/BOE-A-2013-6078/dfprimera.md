@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Este real decreto tiene el carácter de bases y coordinación de la actividad económica de conformidad con lo dispuesto en el artículo 149.1.13.ª de la Constitución, por lo que respecta a la parte del Plan Hidrológico que afecta a la competencia del País Vasco, referente a las cuencas intracomunitarias, y de conformidad con el artículo 149.1.22.ª que atribuye al Estado la competencia sobre la legislación, ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurran por más de una comunidad autónoma, en relación con la parte del Plan Hidrológico que afecta a la competencia de la Administración General del Estado, referente a las cuencas intercomunitarias.
