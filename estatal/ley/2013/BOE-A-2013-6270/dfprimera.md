@@ -1,0 +1,3 @@
+## Disposición final primera. Incorporación de derecho de la Unión Europea.
+
+Mediante esta ley se incorpora parcialmente al derecho español la Directiva 2010/75/UE del Parlamento Europeo y del Consejo, de 24 de noviembre de 2010, sobre las emisiones industriales (prevención y control integrados de la contaminación); en concreto, en la presente norma se dispone la transposición de los siguientes artículos de la misma: 2, 3.1, 3.2, 3.4, 3.5, 3.7, 3.10, 3.11, 3.12, 3.13, 3.14, 3.17, 3.18, 3.19, 3.20, 3.21, 3.22, 3.23, 3.37, 3.38, 4.2, 4.3, 5.1, 7, 8, 10, 11.e), 11.h), 12, 13.7, 14, 15, 17, 18, 19, 20.2, 20.3, 21, 22, 23.1, 24, 26, 71, 72.1, 72.2, 79, 82.1 y 82.2.

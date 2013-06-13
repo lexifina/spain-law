@@ -1,5 +1,7 @@
-## Disposición final tercera. Modificación de la Ley 10/1998, de 21 de abril, de Residuos.
+## Disposición final tercera. Fundamento constitucional.
 
-Se añade el siguiente párrafo en el apartado 2 del artículo 13 de la Ley 10/1998, de 21 de abril, de Residuos:
+Esta Ley tiene la consideración de legislación básica sobre protección del medio ambiente de acuerdo con lo establecido en el artículo 149.1.23.a de la Constitución.
 
-"Se exceptúan de lo establecido en este apartado las actividades de eliminación, mediante depósito en vertedero, de residuos urbanos realizadas por los entes locales e incluidas en el ámbito de aplicación de la Ley de prevención y control integrados de la contaminación, que estarán sometidas a la autorización ambiental integrada regulada en la misma."
+> Se renumera por el art. 1.32 de la Ley 5/2013, de 11 de junio. Ref. BOE-A-2013-6270.
+
+> Su anterior numeración era disposición final 6.

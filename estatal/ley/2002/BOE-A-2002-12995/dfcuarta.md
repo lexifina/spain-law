@@ -1,5 +1,9 @@
-## Disposición final cuarta. Modificación de la Ley 38/1972, de 22 de diciembre, de protección del ambiente atmosférico.
+## Disposición final cuarta. Desarrollo reglamentario.
 
-El primer párrafo del apartado a) del artículo 12.1 de la Ley 38/1972, de 22 de diciembre, de protección del ambiente atmosférico, queda redactado como sigue:
+Se faculta al Gobierno para el desarrollo reglamentario de esta Ley dentro del ámbito de sus competencias y, en particular, para modificar sus anejos con la finalidad de adaptarlos a las modificaciones que, en su caso, sean introducidas por la normativa comunitaria.
 
-"Con multa de hasta 30.000 euros, en el caso de infracciones leves, y con multa de 30.001 a 1.200.000 euros, en el caso de infracciones graves."
+El desarrollo reglamentario podrá incluir prescripciones técnicas adicionales relativas a las instalaciones de combustión, las instalaciones de incineración y coincineración de residuos, las instalaciones que utilicen compuestos orgánicos volátiles y las instalaciones que produzcan dióxidos de titanio, de acuerdo con los términos previstos en la Directiva 2010/75/UE, de 24 de noviembre, sobre las emisiones industriales.
+
+> Se modifica y renumera por el art. 1.32 de la Ley 5/2013, de 11 de junio. Ref. BOE-A-2013-6270.
+
+> Su anterior numeración era disposición final 7.

@@ -1,27 +1,37 @@
 ## ANEJO 4
 
-## Aspectos que deben tenerse en cuenta con carácter general o en un supuesto particular cuando se determinen las mejores técnicas disponibles definidas en el artículo 3.ñ), teniendo en cuenta los costes y ventajas que pueden derivarse de una acción y los principios de precaución y prevención
+## Participación del público en la toma de decisiones
 
-1. Uso de técnicas que produzcan pocos residuos.
+1. El órgano competente de la Comunidad Autónoma informará al público en aquellas fases iniciales del procedimiento, siempre previas a la toma de una decisión o, como muy tarde, en cuanto sea razonablemente posible facilitar la información a través de los medios electrónicos, si están disponibles, sobre los siguientes extremos:
 
-2. Uso de sustancias menos peligrosas.
+a) La documentación de la solicitud de la autorización ambiental integrada, de su modificación sustancial, o en su caso, la documentación relativa a la revisión, de conformidad con lo dispuesto en el artículo 16.
 
-3. Desarrollo de las técnicas de recuperación y reciclado de sustancias generadas y utilizadas en el proceso, y de los residuos cuando proceda.
+b) En su caso, el hecho de que la resolución de la solicitud está sujeta a una evaluación de impacto ambiental, nacional o transfronteriza, o a consultas entre los Estados miembros de conformidad con lo previsto en el artículo 27.
 
-4. Procesos, instalaciones o método de funcionamiento comparables que hayan dado pruebas positivas a escala industrial.
+c) La identificación de los órganos competentes para resolver, de aquellos de los que pueda obtenerse información pertinente y de aquellos a los que puedan remitirse observaciones o formularse preguntas, con expresa indicación del plazo del que se dispone para ello.
 
-5. Avances técnicos y evolución de los conocimientos científicos.
+d) La naturaleza jurídica de la resolución de la solicitud o, en su caso, de la propuesta de resolución.
 
-6. Carácter, efectos y volumen de las emisiones que se trate.
+e) En su caso, los detalles relativos a la revisión de la autorización ambiental integrada.
 
-7. Fechas de entrada en funcionamiento de las instalaciones nuevas o existentes.
+f) Las fechas y el lugar o lugares en los que se facilitará la información pertinente, así como los medios empleados para ello.
 
-8. Plazo que requiere la instauración de una mejor técnica disponible.
+g) Las modalidades de participación del público y de consulta al público definidas con arreglo al apartado 5.
 
-9. Consumo y naturaleza de las materias primas (incluida el agua) utilizada en procedimientos de eficacia energética.
+h) En todo caso el otorgamiento, modificación sustancial o revisión de una autorización relativa a una instalación cuando se proponga la aplicación del artículo 7.5.
 
-10. Necesidad de prevenir o reducir al mínimo el impacto global de las emisiones y de los riesgos en el medio ambiente.
+2. Los órganos competentes de las Comunidades Autónomas asegurarán que, dentro de unos plazos adecuados, se pongan a disposición de las personas interesadas los siguientes datos:
 
-11. Necesidad de prevenir cualquier riesgo de accidente o de reducir sus consecuencias para el medio ambiente.
+a) De conformidad con la legislación nacional, los principales informes y dictámenes remitidos a la autoridad o autoridades competentes en el momento en que deba informarse a las personas interesadas conforme a lo previsto en el apartado 1.
 
-12. Información publicada por la Comisión, en virtud del apartado 2 del artículo 16 de la Directiva 96/61/CE, del Consejo, de 24 de septiembre, relativa a la prevención y al control integrados de la contaminación, o por organizaciones internacionales.
+b) De conformidad con lo dispuesto en la legislación reguladora de los derechos de acceso a la información y de participación pública en materia de medio ambiente, toda información distinta a la referida en el punto 1 que resulte pertinente para la resolver la solicitud, de acuerdo con lo dispuesto en el artículo 8, y que sólo pueda obtenerse una vez expirado el período de información a las personas interesadas regulado en el apartado 1.
+
+3. Las personas interesadas tendrán derecho a poner de manifiesto al órgano competente cuantas observaciones y opiniones considere oportunas antes de que se resuelva la solicitud.
+
+4. Los resultados de las consultas celebradas con arreglo al presente anexo deberán ser tenidos en cuenta debidamente por el órgano competente a la hora de resolver la solicitud.
+
+5. El órgano competente de la Comunidad Autónoma para otorgar la autorización ambiental integrada determinará las modalidades de información al público y de consulta a las personas interesadas. En todo caso, se establecerán plazos razonables para las distintas fases que concedan tiempo suficiente para informar al público y para que las personas interesadas se preparen y participen efectivamente en el proceso de toma de decisiones sobre medio ambiente con arreglo a lo dispuesto en el presente anexo.
+
+> Se modifica y renumera por el art. 1.36 y 39 de la Ley 5/2013, de 11 de junio. Ref. BOE-A-2013-6270.
+
+> Su anterior numeración era anejo 5.
