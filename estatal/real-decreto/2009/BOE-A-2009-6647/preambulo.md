@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 118, de 15 de mayo de 2009. Ref. BOE-A-2009-8054.
+Norma derogada por la disposición derogatoria única del Real Decreto 425/2013, de 14 de junio. Ref. BOE-A-2013-6482.
