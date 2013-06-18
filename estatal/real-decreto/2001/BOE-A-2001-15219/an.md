@@ -12,6 +12,20 @@ Es imposible contemplar de una manera exhaustiva cada uno de los casos que puede
 
 En aquellos casos en que el calificador pueda escoger entre varios coeficientes, si decidiera aplicar el 5, deberá cerciorarse de que cumple los requisitos especificados en la presente norma y que la entidad del proceso y la repercusión funcional son muy marcados.
 
+Se podrán aplicar coeficientes distintos a los que figuran en los cuadros siguientes, en función de las circunstancias del peritado, acompañadas de un informe justificativo.
+
+En los casos de cambios morfológicos o anatómicos de cualquier naturaleza, se valorará la repercusión funcional que pudiera interferir con el servicio o ser perjudicial para la salud somática y psíquica de las personas.
+
+Ante la asignación de un coeficiente 5, el dictamen médico pericial debe proponer, con la justificación oportuna y explicitando de forma clara las limitaciones de cada caso, una de las cuatro opciones siguientes:
+
+a) No puede ejercer las actividades que son exclusivas de las FAS, pero puede desempeñar otras actividades en las FAS comunes al ámbito laboral civil.
+
+b) Sólo puede desempeñar actividades laborales en el ámbito civil.
+
+c) No puede desempeñar ninguna profesión u oficio.
+
+d) No puede desempeñar ninguna profesión u oficio, ni las actividades de la vida diaria.
+
 ## CUADROS DE CONDICIONES PSICOFÍSICAS
 
 ÍNDICE
@@ -63,6 +77,8 @@ En aquellos casos en que el calificador pueda escoger entre varios coeficientes,
 | SECCIÓN 1: CONSIDERACIONES GENERALES |  |
 | SECCIÓN 2: TRASTORNOS MENTALES Y DEL COMPORTAMIENTO | 263 a 269 |
 
+> Se modifica la introducción por el art. único.3 del Real Decreto 401/2013, de 7 de junio. Ref. BOE-A-2013-6545.
+
 > Se declara la nulidad de la última modificación por Sentencia del TS de 13 de febrero de 2012. Ref. BOE-A-2012-6332.
 
-> Se modifica la introducción del anexo por el art. único.2 del Real Decreto 1370/2009, de 13 de agosto. Ref. BOE-A-2009-14160
+> Se modifica la introducción por el art. único.2 del Real Decreto 1370/2009, de 13 de agosto. Ref. BOE-A-2009-14160
