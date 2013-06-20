@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Recomendaciones de interoperabilidad y seguridad judicial en el ámbito contractual.
+
+El Comité técnico de la Administración judicial electrónica establecerá los mecanismos de interlocución y colaboración con los órganos superiores de contratación a fin de que la preceptiva interoperabilidad y seguridad sea contemplada en los requisitos de contratación de bienes y servicios por las Administraciones competentes en materia de Justicia. A tal efecto, podrá dictar una recomendación tipo de requisitos o condiciones a incluir en los pliegos o bases y en la evaluación que, de dicha conformidad, se realice en el procedimiento de contratación.
