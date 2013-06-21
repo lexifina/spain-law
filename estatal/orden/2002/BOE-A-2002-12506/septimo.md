@@ -20,7 +20,7 @@ c) En el procedimiento de pago a través del sistema de anticipos de caja fija.
 
 d) En el procedimiento de pagos a justificar.
 
-e) En aquellos otros supuestos que se autoricen expresamente por la Dirección General del Tesoro y Política Financiera.
+e) En aquellos otros supuestos que se autoricen expresamente por la Secretaría General del Tesoro y Política Financiera.
 
 3. Datos de terceros a incorporar en las propuestas de pago.
 
@@ -29,3 +29,5 @@ e) En aquellos otros supuestos que se autoricen expresamente por la Dirección G
 Cuando el crédito se hubiera cedido, se hará constar el número de identificación fiscal o equivalente y la denominación del tercero, tanto para el cesionario como para el cedente del mismo. Asimismo, si el pago ha de hacerse por transferencia, se identificará la cuenta bancaria del cesionario, mediante el correspondiente ordinal.
 
 3.2 En todas las propuestas de pago que se expidan a favor de agentes mediadores en el pago, se hará constar, como mínimo, el número de identificación fiscal o equivalente, la denominación del órgano, Habilitación o Pagaduría correspondiente, la clave de tipo de pago y la identificación de la cuenta bancaria, mediante el correspondiente ordinal bancario, a la que ha de hacerse la transferencia.
+
+> Se modifica el apartado 2.e) por el art. único.4 de la Orden PRE/1136/2013, de 19 de junio. Ref. BOE-A-2013-6709.
