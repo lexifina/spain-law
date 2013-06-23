@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Publicidad.
+
+Dado el carácter público de los planes hidrológicos, conforme a lo dispuesto en el artículo 40.4 del texto refundido de la Ley de Aguas, cualquier persona podrá consultar el contenido íntegro del Plan en la sede de la Confederación Hidrográfica del Duero. Igualmente esta información estará disponible en la sección de planificación de su página web www.chduero.es. Los documentos que conforman dicho Plan se apoyan en el sistema de información alfanumérico y geoespacial Mírame, que es administrado por la Confederación en los términos previstos en la Normativa del Plan.
+
+Asimismo se podrán obtener copias o certificados de los extremos del mismo de acuerdo con lo dispuesto en el artículo 37 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y acceder a su contenido en los términos previsto en la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente.
