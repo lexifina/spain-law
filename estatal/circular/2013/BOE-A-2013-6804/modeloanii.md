@@ -1,0 +1,395 @@
+## MODELO ANEXO II
+
+## INFORME ANUAL SOBRE REMUNERACIONES DE LOS MIEMBROS DEL CONSEJO DE ADMINISTRACIÓN Y DE LA COMISIÓN DE CONTROL DE LAS CAJAS DE AHORROS QUE EMITAN VALORES ADMITIDOS A NEGOCIACIÓN EN MERCADOS OFICIALES DE VALORES
+
+| DATOS IDENTIFICATIVOS DE LA CAJA DE AHORROS |
+| --- |
+
+FECHA FIN DEL EJERCICIO DE REFERENCIA □
+
+| C.I.F. |
+| --- |
+| Denominación Social: |
+| --- |
+| Domicilio Social: |
+| --- |
+
+INFORME ANUAL SOBRE REMUNERACIONES DE LOS MIEMBROS DEL CONSEJO DE ADMINISTRACIÓN Y DE LA COMISIÓN DE CONTROL DE LAS CAJAS DE AHORROS QUE EMITAN VALORES ADMITIDOS A NEGOCIACIÓN EN MERCADOS OFICIALES DE VALORES
+
+## A POLÍTICA DE REMUNERACIONES DE LA CAJA PARA EL EJERCICIO EN CURSO
+
+A.1 Explique la política de remuneraciones de la caja. Dentro de este epígrafe se incluirá información sobre:
+
+– Principios y fundamentos generales de la política de remuneraciones.
+
+– Cambios más significativos realizados en la política de remuneraciones respecto a la aplicada durante el ejercicio anterior.
+
+– Criterios utilizados para establecer la política de remuneración de la caja.
+
+– Importancia relativa de los conceptos retributivos variables respecto a los fijos y criterios seguidos para determinar los distintos componentes del paquete retributivo de los miembros del consejo de administración y comisionados de la comisión de control (mix retributivo).
+
+| Explique la política de remuneraciones |
+| --- |
+|  |
+
+A.2 Información sobre los trabajos preparatorios y el proceso de toma de decisiones que se haya seguido para determinar la política de remuneración y papel desempeñado, en su caso, por la comisión de retribuciones y otros órganos de control en la configuración de la política de remuneraciones. Esta información incluirá, en su caso, el mandato dado a la comisión de retribuciones, su composición y la identidad de los asesores externos cuyos servicios se hayan utilizado para definir la política retributiva.
+
+| Explique el proceso para determinar la política de remuneraciones |
+| --- |
+|  |
+
+A.3 Indique el importe y la naturaleza de los componentes fijos, con desglose, en su caso, de las retribuciones por el desempeño de funciones de la alta dirección, de la remuneración adicional como presidente o miembro de alguna comisión del consejo, de las dietas por participación en el consejo, sus comisiones y la comisión de control u otras retribuciones fijas, así como una estimación de la retribución fija anual a la que den origen. Identifique otros beneficios que no sean satisfechos en efectivo y los parámetros fundamentales por los que se otorgan.
+
+| Explique los componentes fijos de la remuneración |
+| --- |
+|  |
+
+A.4 Explique el importe, la naturaleza y las principales características de los componentes variables de los sistemas retributivos.
+
+En particular:
+
+– Identifique cada uno de los planes retributivos de los que los miembros del consejo de administración y comisionados de la comisión de control, sean beneficiarios, su alcance, su fecha de aprobación, fecha de implantación, periodo de vigencia así como sus principales características.
+
+– Indique cualquier remuneración en concepto de participación en beneficios o primas, y la razón por la que se otorgaron.
+
+– Explique los parámetros fundamentales y fundamento de cualquier sistema de primas anules (bonus).
+
+– El fundamento de dichos sistemas de retribución variable o planes, los criterios de evaluación del desempeño elegidos, así como los componentes y métodos de evaluación para determinar si se han cumplido o no dichos criterios de evaluación y una estimación del importe absoluto de las retribuciones variables a las que daría origen el plan retributivo vigente, en función del grado de cumplimiento de las hipótesis u objetivos que tome como referencia.
+
+– En su caso, se informará sobre los periodos de diferimiento o aplazamiento de pago que se hayan establecido.
+
+| Explique los componentes variables de los sistemas retributivos |
+| --- |
+|  |
+
+A.5 Explique las principales características de los sistemas de ahorros a largo plazo, incluyendo jubilación y cualquier otra prestación de supervivencia, financiados parcial o totalmente por la caja, ya sean dotados interna o externamente, con una estimación de su importe o coste anual equivalente, indicando el tipo de plan, si es de aportación o prestación definida, las condiciones de consolidación de los derechos económicos a favor de los miembros del consejo de administración y comisionados de la comisión de control, y su compatibilidad con cualquier tipo de indemnización por resolución anticipada o terminación de la relación contractual entre la caja y el miembro del consejo de administración o comisionado de la comisión de control.
+
+Indique también las aportaciones a favor del miembro del consejo de administración o comisionado de la comisión de control, a planes de pensiones de aportación definida; o el aumento de derechos consolidados del miembro del consejo de administración o comisionado de la comisión de control, cuando se trate de aportaciones a planes de prestación definida.
+
+| Explique los sistemas de ahorro a largo plazo |
+| --- |
+|  |
+
+A.6 Indique cualesquiera indemnizaciones pactadas o pagadas en caso de terminación de las funciones como miembro del consejo de administración o comisionado de la comisión de control.
+
+| Explique las indemnizaciones |
+| --- |
+|  |
+
+A.7 Indique las condiciones que deberán respetar los contratos de los miembros del consejo de administración o comisionado de la comisión de control, que ejerzan funciones de alta dirección. Entre otras, se informará sobre la duración, los límites a las cuantías de indemnización, las cláusulas de permanencia, los plazos de preaviso, así como el pago como sustitución del citado plazo de preaviso, y cualesquiera otras cláusulas relativas a primas de contratación, así como indemnizaciones o blindajes por resolución anticipada o terminación de la relación contractual entre la caja y el miembro del consejo de administración o comisionado de la comisión de control. Incluir, entre otros, los pactos o acuerdos de no concurrencia, exclusividad, permanencia o fidelización y no competencia post-contractual.
+
+| Explique las condiciones de los contratos de los miembros del consejo de administración o comisionados de la comisión de control que ejerzan funciones de alta dirección |
+| --- |
+|  |
+
+A.8 Explique cualquier remuneración suplementaria devengada a los miembros del consejo de administración o comisionados de la comisión de control, como contraprestación por los servicios prestados distintos de los inherentes a su cargo.
+
+| Explique las remuneraciones suplementarias |
+| --- |
+|  |
+
+A.9 Indique cualquier retribución en forma de anticipos, créditos y garantías concedidos, con indicación del tipo de interés, sus características esenciales y los importes eventualmente devueltos, así como las obligaciones asumidas por cuenta de ellos a título de garantía.
+
+| Explique los anticipos, créditos y garantías concedidos |
+| --- |
+|  |
+
+A.10 Explique las principales características de las remuneraciones en especie.
+
+| Explique las remuneraciones en especie |
+| --- |
+|  |
+
+A.11 Indique las remuneraciones devengadas por los miembros del consejo de administración o comisionados de la comisión de control, en virtud de los pagos que realice la caja a una tercera entidad en la cual presta servicios el miembro del consejo de administración o comisionado de la comisión de control, cuando dichos pagos tenga como fin remunerar los servicios de éste en la sociedad.
+
+| Explique las remuneración devengadas en virtud de los pagos que realice la caja a una tercera entidad |
+| --- |
+|  |
+
+A.12 Cualquier otro concepto retributivo distinto de los anteriores, cualesquiera que sea su naturaleza o la entidad del grupo que lo satisfaga, especialmente cuando tenga la consideración de operación vinculada o su emisión distorsione la imagen fiel de las remuneraciones totales devengadas por los miembro del consejo de administración o comisionados de la comisión de control.
+
+| Explique los otros conceptos retributivos |
+| --- |
+|  |
+
+A.13 Explique las acciones adoptadas por la caja en relación con el sistema de remuneración para reducir la exposición a riesgos excesivos y ajustarlo a los objetivos, valores e intereses a largo plazo de la caja, lo que incluirá, en su caso, una referencia a: medidas previstas para garantizar que en la política de remuneración se atienden a los resultados a largo plazo de la caja, medidas que establezcan un equilibrio adecuado entre los componentes fijos y variables de la remuneración, medidas adoptadas en relación con aquellas categorías de personal cuyas actividades profesionales tengan una repercusión material en el perfil de riesgos de la caja, fórmulas o cláusulas de recobro para poder reclamar la devolución de los componentes variables de la remuneración basados en los resultados cuando tales componentes se hayan pagado atendiendo a unos datos cuya inexactitud haya quedado después demostrada de forma manifiesta y medidas previstas para evitar conflictos de intereses, en su caso.
+
+| Explique las acciones adoptadas para reducir los riesgos |
+| --- |
+|  |
+
+## B POLÍTICA DE REMUNERACIONES PREVISTA PARA EJERCICIOS FUTUROS
+
+B.1 Realice una previsión general de la política de remuneraciones para ejercicios futuros que describa dicha política con respecto a: componentes fijos y dietas y retribuciones de carácter variable, relación entre la remuneración y los resultados, sistemas de previsión, condiciones de los contratos de los miembros del consejo de administración y comisionados de la comisión de control, con funciones ejecutivas, y previsión de cambios más significativos de la política retributiva con respecto a ejercicios precedentes.
+
+| Previsión general de la política de remuneraciones |
+| --- |
+|  |
+
+B.2 Explique el proceso de toma de decisiones para la configuración de la política de remuneraciones prevista para los ejercicios futuros, y el papel desempeñado, en su caso, por la comisión de retribuciones.
+
+| Explique el proceso de tomas de decisiones para la configuración de la política de remuneraciones |
+| --- |
+|  |
+
+B.3 Explique los incentivos creados por la caja en el sistema de remuneración para reducir la exposición a riesgos excesivos y ajustarlo a los objetivos, valores e intereses a largo plazo de la caja.
+
+| Explique los incentivos creados para reducir riesgos |
+| --- |
+|  |
+
+## C RESUMEN GLOBAL DE CÓMO SE APLICÓ LA POLÍTICA DE RETRIBUCIONES DURANTE EL EJERCICIO CERRADO
+
+C.1 Explique de forma resumida las principales características de la estructura y conceptos retributivos de la política de remuneraciones aplicada durante el ejercicio cerrado, que da lugar al detalle de las retribuciones individuales devengadas por cada uno de los miembros del consejo de administración y comisionados de la comisión de control, que se reflejan en la sección D del presente informe, así como un resumen de las decisiones tomadas por el consejo y por la comisión de control para la aplicación de dichos conceptos.
+
+| Explique la estructura y conceptos retributivos política de retribuciones aplicada durante el ejercicio |
+| --- |
+|  |
+
+## D DETALLE DE LAS RETRIBUCIONES INDIVIDUALES DEVENGADAS POR CADA UNO DE LOS MIEMBROS DEL CONSEJO DE ADMINISTRACIÓN
+
+D.1 Complete los siguientes cuadros respecto a la remuneración individualizada de cada uno de los miembros del consejo de administración (incluyendo la retribución por sus funciones ejecutivas) devengada durante el ejercicio.
+
+a) Retribuciones devengadas en la caja objeto del presente informe:
+
+i) Retribución en metálico (en miles de €)
+
+| Nombre/ Tipología/ periodo de devengo ejercicio t | Sueldo | Remuneración fija | Dietas | Retribución variable a corto plazo | Retribución variable a largo plazo | Remuneración por pertenencia a comisiones del consejo | Indemnización | Otros conceptos | Total ejercicio t | Total ejercicio t-1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Miembro del consejo 1 |  |  |  |  |  |  |  |  |  |  |
+| Miembro del consejo 2 |  |  |  |  |  |  |  |  |  |  |
+
+ii) Sistemas de ahorro a largo plazo
+
+| Nombre/ período de devengo total en ejercicios | Aportación del ejercicio por parte de la caja (miles €) | Importe de los fondos acumulados (miles €) |
+| --- | --- | --- |
+| Ejercicio t | Ejercicio t-1 | Ejercicio t | Ejercicio t-1 |
+| Miembro del consejo 1 |  |  |  |  |
+
+iii) Otros beneficios (en miles de €)
+
+|  | Retribución en forma de anticipos, créditos concedidos |
+| --- | --- |
+| Nombre | Tipo de interés de la operación | Características esenciales de la operación | Importes eventualmente devueltos |
+| Miembro del consejo 1 |  |  |  |  |  |  |
+| Miembro del consejo 2 |  |  |  |  |  |  |
+| Nombre | Primas de seguros de vida | Garantías constituidas por la caja a favor de los miembros del consejo |
+| --- | --- | --- |
+| Ejercicio t | Ejercicio t-1 | Ejercicio t | Ejercicio t-1 |
+| Miembro del consejo 1 |  |  |  |  |
+| Miembro del consejo 2 |  |  |  |  |
+
+b) Retribuciones devengadas por los miembros del consejo de la caja por su pertenencia a consejos en otras sociedades del grupo:
+
+i) Retribución en metálico (en miles de €)
+
+| Nombre/ Tipología/ periodo de devengo ejercicio t | Sueldo | Remuneración fija | Dietas | Retribución variable a corto plazo | Retribución variable a largo plazo | Remuneración por pertenencia a comisiones del consejo | Indemnizaciones | Otros conceptos | Total ejercicio t | Total ejercicio t-1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Miembro del consejo 1 |  |  |  |  |  |  |  |  |  |  |
+| Miembro del consejo 2 |  |  |  |  |  |  |  |  |  |  |
+
+ii) Sistemas de retribución basados en acciones
+
+| Nombre/ periodo de devengo ejercicio t | Titularidad de opciones al principio del ejercicio t | Opciones asignadas durante el ejercicio t | Acciones entregadas durante el ejercicio t |
+| --- | --- | --- | --- |
+| N.º opciones | N.º Acciones afectadas | Precio de ejercicio (€) | Plazo de ejercicio | N.º opciones | N.º Acciones afectadas | Precio de ejercicio (€) | Plazo de ejercicio | Condiciones para su ejercicio | N.º Precio Importe |
+| Miembro del consejo 1 |  |  |  |
+|  | Opciones ejercidas en el ejercicio t | Opciones vencidas y no ejercidas | Opciones al final del ejercicio t |
+| --- | --- | --- | --- |
+| Nombre/ periodo de devengo ejercicio t | N.º opciones | N.º Acciones afectadas | Precio de cotización (€) | Beneficio Bruto (€) | N.º opciones | N.º opciones | N.º Acciones afectadas | Precio de ejercicio (€) | Plazo de ejercicio | Otros requisitos de ejercicio |
+| Miembro del consejo 1 |  |  |  |  |  |  |  |  |  |  |
+
+iii) Sistemas de ahorro a largo plazo
+
+| Nombre/ período de devengo total en ejercicios | Aportación del ejercicio por parte de la sociedad (miles €) | Importe de los fondos acumulados (miles €) |
+| --- | --- | --- |
+| Ejercicio t | Ejercicio t-1 | Ejercicio t | Ejercicio t-1 |
+| Miembro del consejo 1 |  |  |  |  |
+
+iv) Otros beneficios (en miles de €)
+
+|  | Retribución en forma de anticipos, créditos concedidos |
+| --- | --- |
+| Nombre | Tipo de interés de la operación | Características esenciales de la operación | Importes eventualmente devueltos |
+| Miembro del consejo 1 |  |  |  |  |  |  |
+| Nombre | Primas de seguros de vida | Garantías constituidas por la sociedad a favor de los miembros del consejo |
+| --- | --- | --- |
+| Ejercicio t | Ejercicio t-1 | Ejercicio t | Ejercicio t-1 |
+| Miembro del consejo 1 |  |  |  |  |
+| Miembro del consejo 2 |  |  |  |  |
+
+c) Resumen de las retribuciones (en miles de €):
+
+Se deberán incluir en el resumen los importes correspondientes a todos los conceptos retributivos incluidos en el presente informe que hayan sido devengadas por el miembro del consejo de administración, en la caja o en su grupo, en miles de euros.
+
+En el caso de los Sistemas de Ahorro a largo plazo, se incluirán las aportaciones o dotaciones realizadas a este tipo de sistemas:
+
+| Nombre | Total Retribución de la Caja | Total retribución grupo | Total ejercicio t | Total ejercicio t-1 | Aportación /dotación realizada a sistemas de ahorro durante el ejercicio |
+| --- | --- | --- | --- | --- | --- |
+| Miembro del consejo 1 |  |  |  |  |  |
+| Miembro del consejo 2 |  |  |  |  |  |
+| Total: |  |  |  |  |  |
+
+D.2 Complete los siguientes cuadros respecto a la remuneración individualizada de cada uno de los comisionados de la comisión de control (incluyendo la retribución percibida por el ejercicio de funciones ejecutivas) devengada durante el ejercicio.
+
+a) Retribuciones devengadas en la caja objeto del presente informe:
+
+i) Retribución en metálico (en miles de €)
+
+| Nombre/ Tipología/ periodo de devengo ejercicio t | Sueldo | Remuneración fija | Dietas | Retribución variable a corto plazo | Retribución variable a largo plazo | Indemnización | Otros conceptos | Total ejercicio t | Total ejercicio t-1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Comisionado 1 |  |  |  |  |  |  |  |  |  |
+| Comisionado 2 |  |  |  |  |  |  |  |  |  |
+
+ii) Sistemas de ahorro a largo plazo
+
+| Nombre/ período de devengo total en ejercicios | Aportación del ejercicio por parte de la caja (miles €) | Importe de los fondos acumulados (miles €) |
+| --- | --- | --- |
+| Ejercicio t | Ejercicio t-1 | Ejercicio t | Ejercicio t-1 |
+| Comisionado de la comisión de control 1 |  |  |  |  |
+
+iii) Otros beneficios (en miles de €)
+
+|  | Retribución en forma de anticipos, créditos concedidos |
+| --- | --- |
+| Nombre | Tipo de interés de la operación | Características esenciales de la operación | Importes eventualmente devueltos |
+| Comisionado de la comisión de control 1 |  |  |  |  |  |  |
+| Comisionado de la comisión de control 2 |  |  |  |  |  |  |
+| Nombre | Primas de seguros de vida | Garantías constituidas por la caja a favor de los comisionados de la comisión de control |
+| --- | --- | --- |
+| Ejercicio t | Ejercicio t-1 | Ejercicio t | Ejercicio t-1 |
+| Comisionado de la comisión de Control 1 |  |  |  |  |
+| Comisionado de la comisión de control 2 |  |  |  |  |
+
+b) Retribuciones devengadas por los comisionados de la comisión de control de la caja por su pertenencia a consejos en otras sociedades del grupo:
+
+i) Retribución en metálico (en miles de €)
+
+| Nombre/ Tipología/ periodo de devengo ejercicio t | Sueldo | Remuneración fija | Dietas | Retribución variable a corto plazo | Retribución variable a largo plazo | Remuneración por pertenencia a comisiones del consejo | Indemnizaciones | Otros conceptos | Total ejercicio t | Total ejercicio t-1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Miembro del consejo 1 |  |  |  |  |  |  |  |  |  |  |
+| Miembro del consejo 2 |  |  |  |  |  |  |  |  |  |  |
+
+ii) Sistemas de retribución basados en acciones
+
+| Nombre/ periodo de devengo ejercicio t | Titularidad de opciones al principio del ejercicio t | Opciones asignadas durante el ejercicio t | Acciones entregadas durante el ejercicio t |
+| --- | --- | --- | --- |
+| N.º opciones | N.º Acciones afectadas | Precio de ejercicio (€) | Plazo de ejercicio | N.º opciones | N.º Acciones afectadas | Precio de ejercicio (€) | Plazo de ejercicio | Condiciones para su ejercicio | N.º Precio Importe |
+| Comisionado 1 |  |  |  |  |  |  |  |  |  |  |
+|  | Opciones ejercidas en el ejercicio t | Opciones vencidas y no ejercidas | Opciones al final del ejercicio t |
+| --- | --- | --- | --- |
+| Nombre/ periodo de devengo ejercicio t | N.º opciones | N.º Acciones afectadas | Precio de cotización (€) | Beneficio Bruto (€) | N.º opciones | N.º opciones | N.º Acciones afectadas | Precio de ejercicio (€) | Plazo de ejercicio | Otros requisitos de ejercicio |
+| Comisionado de la comisión de control 1 |  |  |  |  |  |  |  |  |  |  |
+
+iii) Sistemas de ahorro a largo plazo
+
+| Nombre/ período de devengo total en ejercicios | Aportación del ejercicio por parte de la sociedad (miles €) | Importe de los fondos acumulados (miles €) |
+| --- | --- | --- |
+| Ejercicio t | Ejercicio t-1 | Ejercicio t | Ejercicio t-1 |
+| Comisionado de la comisión de control 1 |  |  |  |  |
+
+iv) Otros beneficios (en miles de €)
+
+|  | Retribución en forma de anticipos, créditos concedidos |
+| --- | --- |
+| Nombre | Tipo de interés de la operación | Características esenciales de la operación | Importes eventualmente devueltos |
+| Comisionado de la comisión de control 1 |  |  |  |  |  |  |
+| Nombre | Primas de seguros de vida | Garantías constituidas por la sociedad a favor de los comisionados de la comisión de control |
+| --- | --- | --- |
+| Ejercicio t | Ejercicio t-1 | Ejercicio t | Ejercicio t-1 |
+| Comisionado de la comisión de control 1 |  |  |  |  |
+
+c) Resumen de las retribuciones (en miles de €):
+
+Se deberán incluir en el resumen los importes correspondientes a todos los conceptos retributivos incluidos en el presente informe que hayan sido devengadas por el comisionado de la comisión de control en la caja o en su grupo, en miles de euros.
+
+| Nombre | Total Retribución de la Caja | Total retribución grupo | Total ejercicio t | Total ejercicio t-1 | Aportación /dotación realizada a sistemas de ahorro durante el ejercicio |
+| --- | --- | --- | --- | --- | --- |
+| Comisionado de la comisión de control 1 |  |  |  |  |  |
+| Comisionado de la comisión de control 2 |  |  |  |  |  |
+| Total: |  |  |  |  |  |
+
+D.3 Informe sobre la relación entre la retribución obtenida por los miembros del consejo de administración y comisionados de la comisión de control y los resultados u otras medidas de rendimiento de la caja, explicando, en su caso, cómo las variaciones en el rendimiento de la caja han podido influir en la variación de las remuneraciones de los miembros del consejo de administración y comisionados de la comisión de control.
+
+D.4 Informe del resultado de la votación consultiva de la asamblea general al informe anual sobre remuneraciones del ejercicio anterior, indicando el número de votos negativos que en su caso se hayan emitido:
+
+|  | Número | % sobre el total |
+| --- | --- | --- |
+| Votos emitidos |  |  |
+|  | Número | % sobre emitidos |
+| --- | --- | --- |
+| Votos negativos |  |  |
+| Votos a favor |  |  |
+| Abstenciones |  |  |
+
+## E OTRAS INFORMACIONES DE INTERÉS
+
+Si existe algún aspecto relevante en materia de remuneración de los miembros del consejo de administración o comisionados de la comisión de control, que no se haya podido recoger en el resto de apartados del presente informe, pero que sea necesario incluir para recoger una información más completa y razonada sobre la estructura y prácticas retributivas de la Caja en relación con sus miembros del consejo de administración o comisionados de la comisión de control, detállelos brevemente.
+
+_______________________________________________________________________
+
+Este informe anual de remuneraciones ha sido aprobado por el consejo de administración de la caja, en su sesión de fecha _________.
+
+Indique si ha habido miembros del consejo que hayan votado en contra o se hayan abstenido en relación con la aprobación del presente Informe.
+
+Sí □ No □
+
+| Nombre o denominación social del miembros del consejo de administración que no ha votado a favor de la aprobación del presente informe | Motivos (en contra, abstención, no asistencia) | Explique los motivos |
+| --- | --- | --- |
+|  |  |  |
+
+## INSTRUCCIONES PARA LA CUMPLIMENTACIÓN DEL INFORME ANUAL SOBRE REMUNERACIONES DE LOS MIEMBROS DEL CONSEJO DE ADMINISTRACIÓN Y DE LA COMISIÓN DE CONTROL DE LAS CAJAS DE AHORROS QUE EMITAN VALORES ADMITIDOS A NEGOCIACIÓN EN MERCADOS OFICIALES DE VALORES
+
+Cuestiones generales:
+
+La información relativa a personas físicas o jurídicas de forma individualizada, deberá ser cumplimentada mediante los correspondientes NIF, CIF o código similar cuando proceda, sin perjuicio de su consideración como información de carácter no público a los efectos de la difusión del informe anual de remuneraciones objeto de la presente circular, así como del sometimiento, en el caso de las personas físicas, a la normativa de protección de datos de carácter personal.
+
+Cuando las métricas para medir objetivos o rendimientos de tipo financiero o de valoración de instrumentos no utilicen criterios establecidos en las Normas Internacionales de Información Financiera, la caja deberá explicar cómo los mide y cómo se calculan a partir de la información financiera auditada.
+
+Aunque un miembro del consejo de administración o comisionado de la comisión de control no haya desarrollado su actividad como tal durante el período completo sujeto a información, la remuneración que hubiese devengado será incluida en el informe con indicación de las fechas concretas de inicio y finalización del ejercicio de su cargo.
+
+La remuneración de un miembro del consejo de administración o comisionado de la comisión de control, incluirá también, en su caso, remuneraciones percibidas a través de otras personas distintas al miembro del consejo de administración o comisionado de la comisión de control, es decir, cualquier transacción entre la entidad y una tercera persona cuando el propósito de la transacción sea remunerar o compensar al miembro del consejo de administración o comisionado de la comisión de control por su actuación como tal en la caja.
+
+Aspectos concretos:
+
+A efectos de cumplimentar el Informe Anual sobre Remuneraciones de los miembros del consejo de administración o comisionado de la comisión de control se tendrá en cuanta las siguientes definiciones:
+
+Sueldo: Importe de las retribuciones que no sean de carácter variable y que haya devengado el miembro del consejo o comisionado de la comisión de control, por sus labores ejecutivas.
+
+Remuneración fija: Importe de la compensación en metálico, con una periodicidad de pago preestablecida, ya sea o no consolidable en el tiempo y devengada por el miembro del consejo de administración o comisionado de la comisión de control, por su pertenencia al consejo o comisión de control, con independencia de la asistencia efectiva del miembro del consejo de administración o comisionado de la comisión de control, a las reuniones del órgano de gobierno.
+
+Dietas: Importe total de las dietas por asistencia a las reuniones del consejo, en su caso, de las comisiones delegadas y de la comisión de control.
+
+Retribución variable a corto plazo: Importe variable ligado al desempeño o la consecución de una serie de objetivos (cuantitativos o cualitativos) individuales o de grupo, en un periodo de devengo igual o inferior a un ejercicio.
+
+A efectos de la presente circular, se entenderá que el miembro del consejo o comisionado de la comisión de control ha devengado la retribución variable a corto plazo en la fecha de finalización del período de devengo. El período de devengo es el plazo de tiempo durante el cual se mide el desempeño del miembro del consejo o comisionado de la comisión de control a efectos de determinar su remuneración variable a corto plazo, con independencia del modo o plazo estipulados para el pago de dicha remuneración o si el pago queda sometido a diferimiento, retención, cláusulas «malus» de ajuste ex-post o cláusulas de recuperación de las remuneraciones ya satisfechas («clawback»).
+
+Retribución variable a largo plazo: Importe variable ligado al desempeño o la consecución de una serie de objetivos (cuantitativos o cualitativos) individuales o de grupo, en un periodo de devengo superior a un ejercicio.
+
+A efectos de la presente circular, se entenderá que el miembro del consejo o comisionado de la comisión de control ha devengado la retribución variable a largo plazo en la fecha de finalización del período de devengo. El período de devengo es el plazo de tiempo durante el cual se mide el desempeño del miembro del consejo o comisionado de la comisión de control a efectos de determinar su remuneración variable a largo plazo, con independencia del modo o plazo estipulados para el pago de dicha remuneración o si el pago queda sometido a diferimiento, retención, cláusulas «malus» de ajuste ex-post o cláusulas de recuperación de las remuneraciones ya satisfechas («clawback»).
+
+Remuneración por pertenencia a comisiones del consejo: Importe de otros conceptos distintos a las dietas, de los que sean beneficiarios los miembros del consejo de administración por su pertenencia a comisiones delegadas o consultivas del consejo, con independencia de la asistencia efectiva del miembro del consejo de administración a las reuniones de las referidas comisiones.
+
+Indemnizaciones: Cualquier retribución devengada por el miembro del consejo de administración o comisionado de la comisión de control derivada de la extinción de la relación que le vincule con la caja.
+
+Otros: Importe total de las restantes retribuciones devengadas en el ejercicio y que no hayan sido contempladas en los conceptos previos o en cualquiera de los siguientes apartados, incluyendo las remuneraciones en especie.
+
+La remuneración en especie se valorara por el coste para la sociedad de la utilización, consumo u obtención, de los bienes, derechos o servicios por parte del miembro del consejo de administración o comisionado de la comisión de control.
+
+Sistemas de ahorro a largo plazo: Deberá informarse de todos los planes de ahorro a largo plazo, incluyendo jubilación y cualquier otra prestación de supervivencia, financiados parcial o totalmente por la caja, ya sean dotados interna o externamente.
+
+Aportaciones realizadas durante el ejercicio: Se deberá computar el valor más alto entre los siguientes: (i) los fondos aportados durante el ejercicio a cualquier vehículo de inversión, asegurador o financiero que dé cobertura al plan (independientemente de si el beneficiario de las posibles prestaciones es la compañía o el propio administrador) y (ii) la variación anual en el valor actual actuarial del sistema de ahorro a largo plazo a favor del miembro del consejo de administración o comisionado de la comisión de control, ajustada proporcionalmente a los ejercicios de servicio efectivamente acreditados en el ejercicio respecto de los requeridos para el pago.
+
+Importe de los fondos acumulados: Importe de los fondos acumulados en cualquier vehículo de inversión, asegurador o financiero que dé cobertura al sistema (independientemente de si el beneficiario de las posibles prestaciones es la Caja o el propio administrador) y, en todo caso, no podrá ser inferior al valor actual actuarial de la obligación devengada a favor del administrador ajustada proporcionalmente a los ejercicios de servicio efectivamente acreditados en el ejercicio respecto de los requeridos para el pago.
+
+Anticipos: Importe del pago o entrega, con anterioridad a la fecha que se hubiera establecido para su percepción por parte del miembro del consejo de administración o comisionado de la comisión de control, de importes correspondientes a cualquiera de los conceptos retributivos incluidos en el presente informe.
+
+Créditos concedidos: créditos o préstamos concedidos por la Caja al miembro del consejo de administración o comisionado de la comisión de control, en concepto retributivo, independientemente de que éstos devenguen intereses o no.
+
+Garantías constituidas por la caja favor de los miembros del consejo de administración o comisionado de la comisión de control: cualquier obligación de contenido económico asumida por la Caja a favor del miembro del consejo de administración o comisionado de la comisión de control, en concepto retributivo.
+
+Sociedades del grupo: A los efectos de esta circular, se estará a la definición de grupo de sociedades establecida en el artículo 42 del código de comercio.
+
+## A POLÍTICA DE REMUNERACIONES DE LA CAJA PARA EL EJERCICIO EN CURSO
+
+A.9 En este apartado únicamente se incluirá información sobre aquellas operaciones que supongan condiciones ajenas a las habituales o a las del mercado.

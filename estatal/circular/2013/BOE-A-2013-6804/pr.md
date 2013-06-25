@@ -1,0 +1,9 @@
+La Ley 2/2011, de 4 de marzo, de Economía Sostenible incluye medidas de reforma del mercado financiero, en línea con las mejores prácticas internacionales de incremento de la transparencia y mejora del gobierno corporativo, entre las que destaca el informe de remuneraciones de los consejeros de las sociedades anónimas cotizadas y de los miembros del consejo de administración y comisionados de la comisión de control de las cajas de ahorros.
+
+En desarrollo de esta Ley, se ha dictado la Orden ECC/461/2013, de 20 de marzo, por la que se determinan el contenido y la estructura del informe anual de gobierno corporativo, del informe anual sobre remuneraciones y de otros instrumentos de información de las sociedades anónimas cotizadas, de las cajas de ahorros y de otras entidades que emitan valores admitidos a negociación en mercados oficiales de valores.
+
+Lo dictado en la Orden ECC/461/2013, de 20 de marzo, completa la regulación del contenido y estructura del informe anual sobre remuneraciones de los consejeros y atribuye a la CNMV distintas habilitaciones. Así, respecto del informe anual de retribuciones faculta a este Organismo para detallar con arreglo a lo expresado en la Orden «el contenido y estructura de los informes de remuneraciones, a cuyo efecto podrá establecer modelos o impresos con arreglo a los cuales las diferentes entidades deberán hacer públicos los mismos».
+
+Por tanto, en ejecución de las habilitaciones contenidas en la citada Orden Ministerial, en esta Circular se detalla el contenido y estructura de los informes anuales de remuneraciones de las sociedades anónimas cotizadas y de las cajas de ahorros que emitan valores admitidos a negociación en mercados oficiales de valores, estableciendo un modelo a este fin.
+
+En su virtud, el Consejo de la Comisión Nacional del Mercado de Valores, en su reunión de 12 de junio de 2013, en uso de las facultades conferidas, previo informe de su Comité Consultivo, ha dispuesto:
