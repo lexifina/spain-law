@@ -1,3 +1,5 @@
 ## Norma 2.ª Norma general de transparencia informativa.
 
 Toda la información que se incluya tanto en el informe anual de gobierno corporativo de las entidades obligadas por esta Circular, como en la página web de las sociedades anónimas cotizadas, ya sea en este caso con carácter obligatorio como voluntario, como se señala en el apartado 1 de la Norma 7.ª de esta Circular, debe ajustarse al principio de transparencia, lo que implica que la información ha de ser clara, íntegra, correcta y veraz, sin que pueda incluirse información que por ser sesgada, abarcar un espacio temporal insuficiente, no ser contrastable, no incluir las oportunas advertencias o por cualquier otro motivo, pueda inducir a error o confusión o no permita al inversor hacerse un juicio fundado de la entidad.
+
+> Téngase en cuenta que esta Norma se deroga en cuanto a las disposiciones establecidas para el Informe Anual de Gobierno Corporativo, con efectos para los informes que se deban presentar a partir de 1 de enero de 2014, por la disposición derogatoria única de la Circular 5/2013, de 12 de junio. Ref. BOE-A-2013-6805#ddunica.

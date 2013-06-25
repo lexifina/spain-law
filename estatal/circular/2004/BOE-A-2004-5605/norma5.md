@@ -1,7 +1,5 @@
 ## Norma 5.ª Informe anual de gobierno corporativo de entidades extranjeras.
 
-Las entidades extranjeras cuyos valores coticen en los mercados secundarios oficiales españoles, además de hacerlo en otros mercados secundarios extranjeros, tendrán la obligación de poner el informe de gobierno corporativo a disposición de los accionistas, al menos, en castellano, así como de remitir anualmente una copia del mismo a la CNMV. Estas entidades sólo estarán obligadas a elaborar y difundir un informe anual de gobierno corporativo conforme a esta Circular cuando no hayan elaborado informe equivalente alguno de conformidad con las normas o reglas de sus países de origen o de los países en los que radiquen los mercados en que coticen.
+(Derogada).
 
-Las entidades extranjeras, que hayan emitido valores que coticen en mercados secundarios oficiales españoles, y que estén controladas en su totalidad, ya sea de forma directa o indirecta, por otra entidad, podrán remitir el informe anual de gobierno corporativo de la entidad dominante, cuando dicho informe sea equivalente al que correspondería elaborar y difundir a las filiales extranjeras.
-
-En tal caso, la entidad extranjera controlada remitirá anualmente a la CNMV, una copia del informe elaborado por su entidad dominante en castellano junto a un escrito, señalando que se encuentra en la situación mencionada en el párrafo anterior, identificando a la entidad dominante, y justificando de esta forma, la no elaboración por su parte, del informe anual de gobierno corporativo.
+> Se deroga, con efectos para los informes que se deban presentar a partir de 1 de enero de 2014, por la disposición derogatoria única de la Circular 5/2013, de 12 de junio. Ref. BOE-A-2013-6805.

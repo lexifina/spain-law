@@ -1,3 +1,5 @@
 ## Disposición adicional primera. Recomendaciones en materia de gobierno corporativo.
 
-Hasta tanto la CNMV elabore, en su caso, un documento sobre gobierno corporativo de las Cajas de Ahorros que emitan valores admitidos a negociación en mercados oficiales de valores de acuerdo con el apartado i) del número 1 del apartado primero de la Orden ECO/354/2004, de 17 de febrero, el grado de información sobre esta materia se realizará de acuerdo con lo indicado al respecto en el Anexo I de esta Circular.
+(Derogada)
+
+> Se deroga, con efectos para los informes que se deban presentar a partir de 1 de enero de 2014, por la disposición deorgatoria única de la Circular 5/2013, de 12 de junio. Ref. BOE-A-2013-6805.
