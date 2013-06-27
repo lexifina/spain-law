@@ -148,9 +148,9 @@ Las variedades de Cáñamo que superen el 0,2 por ciento de contenido en THC no 
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Las variedades de la especie que se cita a continuación, si con anterioridad al 1 de octubre de 2012, ha iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrá ser aceptada si cumple las disposiciones establecidas en este Protocolo de examen o, en su caso, en el Protocolo de examen que se encontraba en vigor al iniciarse el examen técnico.
+Las variedades de la especie que se cita a continuación, si con anterioridad al 1 de enero de 2014, ha iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrá ser aceptada si cumple las disposiciones establecidas en este Protocolo de examen o, en su caso, en el Protocolo de examen que se encontraba en vigor al iniciarse el examen técnico.
 
-Especies que cumplen con los protocolos de examen de la OCVV:
+Especies que cumplen con los protocolos de examen de la OCVV (1):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
@@ -158,18 +158,23 @@ Especies que cumplen con los protocolos de examen de la OCVV:
 | Helianthus annus L. | Girasol | TP 81/1 de 31.10.2002 |
 | Linum usitatissimum L. | Lino | TP 57/1 de 21.3.2007 |
 
-Especies que cumplen con las directrices de examen de la UPOV:
+Especies que cumplen con las directrices de examen de la UPOV (2):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
 | Papaver somniferum L. | Adormidera | TG/166/3 de 24.3.1999 |
 | Carthamus tinctorius L. | Cártamo o Alazor | TG/134/3 de 12.10.1990 |
+| Cannabis sativa L. | Cáñamo | TG/276/1 de 28.3.2012 |
 | Gossypium spp. | Algodón | TG/88/6 de 4.4.2001 |
 | Glycine max L. Merrill | Soja | TG/80/6 de 1.4.1998 |
 
-1. El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
-2. El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+(2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Se modifica el apartado 6 por el art. único.1.2 de la Orden AAA/1170/2013, de 21 de junio. Ref. BOE-A-2013-6904.
+
+> Esta modificación se aplica a partir del 1 de enero de 2014, según establece la disposición final 2.
 
 > Se modifica el apartado 6 por el art. único.2 de la Orden AAA/1772/2012, de 2 de agosto. Ref. BOE-A-2012-10691.
 

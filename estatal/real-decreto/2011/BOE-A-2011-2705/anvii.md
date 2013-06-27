@@ -280,9 +280,9 @@ Zanahoria: 50 gramos.
 
 5. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2012, hayan iniciado los exámenes oficiales para su admisión en Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2014, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
-Especies que cumplen con los protocolos de examen de la OCVV:
+Especies que cumplen con los protocolos de examen de la OCVV (1):
 
 | Nombre científico | Nombre común | Protocolo |
 | --- | --- | --- |
@@ -309,7 +309,7 @@ Especies que cumplen con los protocolos de examen de la OCVV:
 | Brassica oleracea L. | Colirrábano | TP 65/1 de 25.3.2004 |
 | Cichorium endivia L. | Escarola y endivia | TP 118/2 de 1.12.2005 |
 | Asparagus officinalis L. | Espárrago | TP 130/2 de 16.2.2011 |
-| Spinacia oleracea L. | Espinaca | TP 55/3 de 11.3.2010 |
+| Spynacia oleracea L. | Espinaca | TP 55/4 de 21.3.2012 |
 | Pisum sativum L. (partim) | Guisante de grano rugoso, guisante de grano liso redondo y guisante cometodo | TP 7/2 de 11.3.2010 |
 | Vicia faba L. (partim) | Haba | TP Broadbean/1 de 25.3.2004 |
 | Foeniculum vulgare Mill. | Hinojo | TP 183/1 de 25.3.2004 |
@@ -323,12 +323,12 @@ Especies que cumplen con los protocolos de examen de la OCVV:
 | Nyman ex A. W. Hill |  |  |
 | Capsicum annuum L. | Pimiento | TP 76/2 de 21.3.2007 |
 | Allium porrum L. | Puerro | TP 85/2 de 1.4.2009 |
-| Raphanus sativus L. | Rábano y rabanito | TP 64/1 de 27.3.2002 |
+| Raphanus sativus L. | Rábano o rabanito | TP 64/1 de 27.3.2002 |
 | Citrullus lanatus (Thunb.) Matsum. et Nakai | Sandía | TP 142/1 de 21.3.2007 |
-| Lycopersicon lycopersicum | Tomate | TP 44/3 de 21.3.2007 |
+| Lycopersicon esculentum Mill. | Tomate | TP 44/4. de 21.3.2012 |
 | Daucus carota L. | Zanahoria de mesa | TP 49/3 de 13.3.2008 |
 
-Especies que cumplen con las directrices de examen de la UPOV:
+Especies que cumplen con las directrices de examen de la UPOV (2):
 
 | Nombre científico | Nombre común | Protocolo |
 | --- | --- | --- |
@@ -342,9 +342,13 @@ Especies que cumplen con las directrices de examen de la UPOV:
 | Rheum rhabarbum L. | Ruibarbo | TG/62/6 de 24.3.1999 |
 | Scorzonera hispanica L | Escorzonera o salsifí negro | TG/116/4 de 24.10.2010 |
 
-1 El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
-2 El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+(2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Se modifica el apartado 5 por el art. único.1.3 de la Orden AAA/1170/2013, de 21 de junio. Ref. BOE-A-2013-6904.
+
+> Esta modificación se aplica a partir del 1 de enero de 2014, según establece la disposición final 2.
 
 > Se modifica el apartado 5 por el art. único.10 de la Orden ARM/3383/2011, de 2 de diciembre. Ref. BOE-A-2011-19442.
 

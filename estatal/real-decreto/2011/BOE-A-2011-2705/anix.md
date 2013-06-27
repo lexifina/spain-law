@@ -126,21 +126,30 @@ En el caso de que por algún accidente quede inutilizado el material vegetal, el
 
 5. Criterios de evaluación.–Las observaciones se efectuarán durante un mínimo de dos años de fructificación o de dos periodos vegetativos. Excepcionalmente, éstas se podrán realizar en árboles adultos existentes en plantaciones ya establecidas en el territorio nacional.
 
-6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.–Especies que cumplen con las directrices de examen de la OCVV:
+6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
+
+Aquellas variedades de las especies que se cita a continuación, que hayan comenzado las observaciones de sus caracteres antes de la fecha de entrada en vigor de este nuevo Protocolo de examen, no les será de aplicación el mismo. Resultará de aplicación este nuevo Protocolo de examen en la fecha límite de entrega de material vegetal que se encuentra establecida para el primer año de ensayo.
+
+Especies que cumplen con los protocolos de examen de la OCVV (1):
 
 | Nombre científico | Nombre común | Protocolo |
 | --- | --- | --- |
 | Prunus armeniaca L. | Albaricoquero | TP 070/2 de 13.3.2008. |
 | Prunus avium L./Prunus cerasus L. | Cerezo | TP 035/2 de 15.11.2006. |
 | Prunus domestica L. | Ciruelo europeo | TP 041/1 de 6.11.2003. |
-| Prunus salicina Lindl. | Ciruelo japonés | TP 084/1 de 6.11.2003. |
+| Prunus dulcis (Mill) D.A. Webb | Almendro | TP 056/1 de 28.11.2012 |
+| Prunus salicina Lindl. | Ciruelo japonés | TP 084//2 de 28.11.2012 |
 | Malus domestica Borkh. | Manzano | TP 014/2 de 14.3.2006. |
-| Prunus persica (L.) Batsch. | Melocotonero | TP 053/1 de 27.3.2003. |
+| Prunus persica (L.) Batsch. | Melocotonero | TP 053/2 de 28.11.2012 |
 | Patrones Género Prunus y sus híbridos | – | TP 187/1 de 13.3.2008. |
 | Pyrus communis L. | Peral | TP 015/1 de 27.3.2003. |
+
+(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
 Especies que cumplen con las directrices de examen de la UPOV:
 
 | Nombre científico | Denominación común. | Protocolo. |
 | --- | --- | --- |
 | Prunus amygdalus Batsch | Almendro | TG 56/3 de 15.11.1978. |
+
+> Se modifica el apartado 6 por el art. único.4 de la Orden AAA/1170/2013, de 21 de junio. Ref. BOE-A-2013-6904.
