@@ -4,7 +4,7 @@
 
 | Especies | Peso máximo del lote, en Tm. | Peso mínimo de la muestra a tomar de un lote, en gr. | Peso de la muestra para realizar los conteos que se especifican en el anejo I, en gr. |
 | --- | --- | --- | --- |
-| Gramíneas: |  |  |  |
+| Poaceae (Gramineae) (*) |  |  |  |
 | Agrostis canina | 10 | 50 | 5 |
 | Agrostis capillaris | 10 | 50 | 5 |
 | Agrostis gigantea | 10 | 50 | 5 |
@@ -32,7 +32,7 @@
 | Poa pratensis | 10 | 50 | 5 |
 | Poa trivialis | 10 | 50 | 5 |
 | Trisetum flavescens | 10 | 50 | 5 |
-| Leguminosas: |  |  |  |
+| Fabaceae (Leguminosae): |  |  |  |
 | Galega orientalis | 10 | 250 | 200 |
 | Hedysarum coronarium: |  |  |  |
 | – Fruto | 10 | 1.000 | 300 |
@@ -68,5 +68,9 @@
 | Raphanus sativus L var oleiformis | 10 | 300 | 300 |
 
 En los pesos máximos de los lotes, se admite una tolerancia de hasta el 5 por 100.
+
+(*) El peso máximo de cada lote podrá aumentarse a 25 toneladas si el proveedor ha sido autorizado a tal efecto por la autoridad competente de la Comunidad Autónoma responsable de la certificación de estas semillas.
+
+> Se modifica por el art. 1 de la Orden AAA/1169/2013, de 21 de junio. Ref. BOE-A-2013-6903.
 
 > Se corrigen errores por Orden ARM/2554/2011, de 21 de septiembre. Ref. BOE-A-2011-15171.
