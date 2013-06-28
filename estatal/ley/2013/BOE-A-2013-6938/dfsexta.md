@@ -1,0 +1,41 @@
+## Disposición final sexta. Modificación de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+
+Se modifican el artículo 137 y la disposición adicional décima de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, en los siguientes términos:
+
+Uno. El apartado 6 del artículo 137 queda redactado como sigue:
+
+«6. La participación en procedimientos de adjudicación de inmuebles requerirá la constitución de una garantía de un 5 por 100 del valor de tasación de los bienes. En casos especiales, atendidas las características del inmueble y la forma o circunstancias de la enajenación, el órgano competente para la tramitación del expediente podrá elevar el importe de la garantía hasta un 10 por 100 del valor de tasación.
+
+La garantía podrá constituirse en cualquier modalidad prevista en la legislación de contratos del sector público, depositándola en la Caja General de Depósitos o en sus sucursales de las Delegaciones de Economía y Hacienda. En caso de que así se prevea en los pliegos, la garantía también podrá constituirse mediante cheque conformado o cheque bancario, en la forma y lugar que se señalen por el órgano competente para tramitar el expediente.
+
+Cuando así se prevea en el pliego, la acreditación de la constitución de la garantía podrá hacerse mediante medios electrónicos, informáticos o telemáticos.
+
+La garantía constituida en efectivo o en cheque conformado o bancario por el adjudicatario se aplicará al pago del precio de venta.»
+
+Dos. La disposición adicional décima queda redactada como sigue:
+
+«Disposición adicional décima. Régimen jurídico de la Sociedad Estatal de Gestión Inmobiliaria de Patrimonio, Sociedad Anónima.
+
+1. La Sociedad Estatal de Gestión Inmobiliaria de Patrimonio, Sociedad Anónima (SEGIPSA), cuyo capital social deberá ser íntegramente de titularidad pública, tendrá la consideración de medio propio instrumental y servicio técnico de la Administración General del Estado y de los poderes adjudicadores dependientes de ella, para la realización de cualesquiera trabajos o servicios que le sean encomendados relativos a la gestión, administración, explotación, mantenimiento y conservación, vigilancia, investigación, inventario, regularización, mejora y optimización, valoración, tasación, adquisición y enajenación y realización de otros negocios jurídicos de naturaleza patrimonial sobre cualesquiera bienes y derechos integrantes o susceptibles de integración en el Patrimonio del Estado o en otros patrimonios públicos, así como para la construcción y reforma de inmuebles patrimoniales o de uso administrativo.
+
+2. En virtud de dicho carácter, SEGIPSA estará obligada a realizar los trabajos, servicios, estudios, proyectos, asistencias técnicas, obras y cuantas actuaciones le encomienden directamente la Administración General del Estado y los poderes adjudicadores dependientes de ella en la forma establecida en la presente disposición. La actuación de SEGIPSA no podrá suponer el ejercicio de potestades administrativas.
+
+3. La encomienda o encargo, que en su otorgamiento y ejecución se regirá exclusivamente por lo establecido en esta disposición, establecerá la forma, términos y condiciones de realización de los trabajos, que se efectuarán por SEGIPSA con libertad de pactos y sujeción al Derecho privado. Se podrá prever en dicha encomienda que SEGIPSA actúe en nombre y por cuenta de quien le efectúe el encargo que, en todo momento, podrá supervisar la correcta realización del objeto de la encomienda. Cuando tenga por objeto la enajenación de bienes, la encomienda determinará la forma de adjudicación del contrato, y podrá permitir la adjudicación directa en los casos previstos en esta Ley. En caso de que su otorgamiento corresponda a un órgano o entidad que no sea el Ministro de Hacienda y Administraciones Públicas, requerirá el previo informe favorable del Director General del Patrimonio del Estado.
+
+4. El importe a pagar por los trabajos, servicios, estudios, proyectos y demás actuaciones realizadas por medio de SEGIPSA se determinará aplicando a las unidades ejecutadas las tarifas que hayan sido aprobadas por resolución del Subsecretario de Hacienda y Administraciones Públicas, a propuesta de la Dirección General del Patrimonio del Estado. Dichas tarifas se calcularán de manera que representen los costes reales de realización. La compensación que proceda en los casos en los que no exista tarifa se establecerá, asimismo, por resolución del Subsecretario de Hacienda y Administraciones Públicas.
+
+5. Respecto de las materias señaladas en el apartado 1 de esta disposición adicional, SEGIPSA no podrá participar en los procedimientos para la adjudicación de contratos convocados por la Administración General del Estado y poderes adjudicadores dependientes de ella de las que sea medio propio. No obstante, cuando no concurra ningún licitador, podrá encargarse a SEGIPSA la actividad objeto de licitación pública.
+
+6. La ejecución mediante encomienda de las actividades a que se refiere el apartado 1 de esta disposición, se realizará por SEGIPSA bien mediante la utilización de sus medios personales y técnicos, o bien adjudicando cuantos contratos de obras, suministros y servicios sean necesarios para proporcionar eficazmente las prestaciones que le han sido encomendadas, recurriendo, en este caso, a la contratación externa, sin más limitaciones que las que deriven de la sujeción de estos contratos a lo previsto en esta disposición adicional y en los artículos 189 a 191 del Real Decreto Legislativo 3/2011, de 14 de noviembre, por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público.
+
+Serán susceptibles de recurso especial en materia de contratación, previo a la interposición del contencioso-administrativo, los actos relacionados en el apartado 2 del artículo 40 del Real Decreto Legislativo 3/2011, de 14 de noviembre, por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público, cuando se refieran a alguno de los tipos de contratos relacionados en el apartado 1 del mismo artículo.
+
+7. Lo establecido en los apartados anteriores será también de aplicación al Ministerio de Empleo y Seguridad Social respecto del Patrimonio Sindical Acumulado y a las Entidades Gestoras y Servicios Comunes de la Seguridad Social.
+
+8. El Ministro de Hacienda y Administraciones Públicas podrá acordar la delimitación de ámbitos de gestión integral referidos a bienes y derechos del Patrimonio del Estado para su ejecución a través de SEGIPSA, que podrá comprender la realización de cualesquiera actuaciones previstas en esta Ley. Estas actuaciones le serán encomendadas conforme al procedimiento previsto en los apartados anteriores.
+
+9. Igualmente SEGIPSA tendrá la consideración de medio propio instrumental y servicio técnico para la realización de los trabajos de formación y mantenimiento del Catastro Inmobiliario que corresponden a la Dirección General del Catastro en virtud del Real Decreto Legislativo 1/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley del Catastro Inmobiliario, cuya encomienda y realización se efectuarán de acuerdo con lo establecido en esta disposición.
+
+10. Para la realización de los trabajos que se le encomienden de acuerdo con la presente disposición, SEGIPSA podrá recabar de la Dirección General del Catastro, en los términos previstos en el artículo 64 de esta Ley, la información de que disponga en relación con los bienes o derechos objeto de las actuaciones que se le hayan encomendado, sin que sea necesario el consentimiento de los afectados.
+
+11. Las resoluciones por las que se aprueben las tarifas, a las que se refiere el apartado 4 anterior, serán objeto de publicación en el “Boletín Oficial del Estado”, cuando las tarifas aprobadas resulten aplicables a encomiendas que se puedan ser atribuidas por distintos órganos, organismos o entidades del sector público estatal, o cuando por su relevancia así lo estime necesario la autoridad que aprueba las tarifas.»

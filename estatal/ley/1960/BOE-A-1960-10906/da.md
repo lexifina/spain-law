@@ -1,4 +1,4 @@
-## DISPOSICIÓN ADICIONAL
+## Disposición adicional.
 
 1. Sin perjuicio de las disposiciones que en uso de sus competencias adopten las Comunidades Autónomas, la constitución del fondo de reserva regulado en el artículo 9.1.f) se ajustará a las siguientes reglas:
 
@@ -12,8 +12,10 @@ c) Al aprobarse el presupuesto ordinario correspondiente al ejercicio anual inme
 
 2. La dotación del fondo de reserva no podrá ser inferior, en ningún momento del ejercicio presupuestario, al mínimo legal establecido.
 
-Las cantidades detraídas del fondo durante el ejercicio presupuestario para atender los gastos de conservación y reparación de la finca permitidos por la presente Ley se computarán como parte integrante del mismo a efectos del cálculo de su cuantía mínima.
+Las cantidades detraídas del fondo durante el ejercicio presupuestario para atender los gastos de las obras o actuaciones incluidas en el artículo 10 se computarán como parte integrante del mismo a efectos del cálculo de su cuantía mínima.
 
 Al inicio del siguiente ejercicio presupuestario se efectuarán las aportaciones necesarias para cubrir las cantidades detraídas del fondo de reserva conforme a lo señalado en el párrafo anterior.
+
+> Se modifica el apartado 2 por la disposición final 1.6 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
 
 > Se añade por el art. 21 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858

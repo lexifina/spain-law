@@ -10,6 +10,8 @@
 
 a) La potestad que la letra b) del apartado primero del artículo 10 reconoce a la Ley para reducir el porcentaje de reserva de vivienda sometida a algún régimen de protección pública y la de determinar los posibles destinos del patrimonio público del suelo, de entre los previstos en el apartado 1 del artículo 39, podrán ser ejercidas directamente en el Plan General.
 
-b) El porcentaje a que se refiere la letra b) del apartado 1 del artículo 16 será el del 15 por ciento, que el Plan General podrá incrementar motivada y proporcionadamente hasta el 20 por ciento en las actuaciones o ámbitos en los que el valor de los solares resultantes o de su incremento, en su caso, sea sensiblemente superior al medio de los incluidos en su misma clase de suelo.
+b) El porcentaje a que se refiere la letra b) del apartado 1 del artículo 16 será, con carácter general, el 15 por ciento. No obstante, el Plan General podrá, de forma proporcionada y motivada, reducirlo hasta un 10 por ciento, o incrementarlo hasta un máximo del 20 por ciento, en las actuaciones o ámbitos en los que el valor de los solares resultantes sea sensiblemente inferior, o superior al medio de los incluidos en su misma clase de suelo, respectivamente.
 
 5. Lo dispuesto en esta Ley se aplicará sin perjuicio de los regímenes civiles, forales o especiales, allí donde existen.
+
+> Se modifica la letra b) del apartado 4 por la disposición final 12.19 de la ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.

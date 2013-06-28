@@ -10,4 +10,10 @@ Estas comunidades se regirán, en todo caso, por las disposiciones de esta Ley e
 
 c) A los complejos inmobiliarios privados, en los términos establecidos en esta Ley.
 
+d) A las subcomunidades, entendiendo por tales las que resultan cuando, de acuerdo con lo dispuesto en el título constitutivo, varios propietarios disponen, en régimen de comunidad, para su uso y disfrute exclusivo, de determinados elementos o servicios comunes dotados de unidad e independencia funcional o económica.
+
+e) A las entidades urbanísticas de conservación en los casos en que así lo dispongan sus estatutos.
+
+> Se añaden las letras d) y e) por la disposición final 1.1 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
+
 > Se modifica por el art. 2 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858

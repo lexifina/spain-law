@@ -118,6 +118,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional vigésima](davigesima.md)
 - [Disposición adicional vigésima primera](davigesimaprimera.md)
 - [Disposición adicional vigésima segunda](davigesimasegunda.md)
+- [Disposición adicional vigésima tercera](davigesimatercera.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición derogatoria única](ddunica.md)

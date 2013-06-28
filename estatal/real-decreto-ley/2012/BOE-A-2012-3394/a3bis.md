@@ -1,6 +1,8 @@
-## Artículo 3 bis. Fiadores e hipotecantes no deudores.
+## Artículo 3 bis. Fiadores, avalistas e hipotecantes no deudores.
 
-Los fiadores e hipotecantes no deudores que se encuentren en el umbral de exclusión podrán exigir que la entidad agote el patrimonio del deudor principal, sin perjuicio de la aplicación a éste, en su caso, de las medidas previstas en el Código de Buenas Prácticas, antes de reclamarles la deuda garantizada, aun cuando en el contrato hubieran renunciado expresamente al beneficio de excusión.
+Los fiadores, avalistas e hipotecantes no deudores que se encuentren en el umbral de exclusión podrán exigir que la entidad agote el patrimonio del deudor principal, sin perjuicio de la aplicación a éste, en su caso, de las medidas previstas en el Código de Buenas Prácticas, antes de reclamarles la deuda garantizada, aun cuando en el contrato hubieran renunciado expresamente al beneficio de excusión.
+
+> Se modifica por la disposición final 14.2 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
 
 > Se añade por el art. 8.3 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.
 

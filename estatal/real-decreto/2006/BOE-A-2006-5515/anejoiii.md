@@ -52,9 +52,17 @@ b) Causa [que no pertenezca a las categorías de las acciones o de las mencionad
 
 Influencia previsible: influencia que debe ser tenida en cuenta, conforme a la reglamentación vigente.
 
+Intervenciones en los edificios existentes: Se consideran intervenciones en los edificios existentes, las siguientes:
+
+a) Ampliación: Aquellas en las que se incrementa la superficie o el volumen construidos.
+
+b) Reforma: Cualquier trabajo u obra en un edificio existente distinto del que se lleve a cabo para el exclusivo mantenimiento del edificio.
+
+c) Cambio de uso.
+
 Licencia municipal de obras: acto administrativo por el cual el Ayuntamiento competente autoriza la ejecución de la obra proyectada, una vez comprobada su conformidad con la legalidad aplicable.
 
-Mantenimiento: conjunto de actividades destinadas a conservar el edificio o las partes que lo componen para que, con una fiabilidad adecuada, cumplan con las exigencias establecidas.
+Mantenimiento: conjunto de trabajos y obras a efectuar periódicamente para prevenir el deterioro de un edificio o reparaciones puntuales que se realicen en el mismo, con el objeto mantenerlo en buen estado para que, con una fiabilidad adecuada, cumpla con los requisitos básicos de la edificación establecidos.
 
 Mantenimiento previsto: mantenimiento que, para cada edificio, consiste en el cumplimiento de las Instrucciones de uso y mantenimiento contenidas en el Libro del Edificio.
 
@@ -137,3 +145,5 @@ b) La propiedad o su representante, aunque no acuda habitualmente al edificio.
 c) Persona que ocasionalmente acude a un edificio con el fin de realizar una determinada actividad acorde con el uso previsto. Por ejemplo: visitante, proveedor, cliente, etc.; o
 
 d) Personas que no acuden al edificio, pero que se pueden encontrar, habitualmente u ocasionalmente, en su zona de influencia. Por ejemplo: vecinos, transeúntes, etc.
+
+> Se modifica por la disposición final 11.1º.4 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
