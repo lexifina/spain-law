@@ -1,0 +1,69 @@
+I
+
+La reducción de la morosidad de las Administraciones Públicas constituye un elemento imprescindible para mejorar la competitividad de la economía española, pues conlleva reducir las necesidades de financiación de las empresas, lo que les permite aprovechar mejor sus oportunidades de negocio y facilitar el crecimiento económico.
+
+Por ello, el informe de la Comisión para la reforma de las Administraciones Públicas contiene algunas propuestas de reformas estructurales para erradicar la morosidad de las Administraciones Públicas. De este modo el impulso de la factura electrónica y la creación del registro contable permitirán agilizar los procedimientos de pago al proveedor, dar certeza de las facturas pendientes de pago existentes, y mejorar los controles contables a los efectos del cumplimiento de los objetivos de estabilidad presupuestaria y sostenibilidad financiera.
+
+Ambas herramientas, la factura electrónica y el registro contable, contribuirán al seguimiento de la morosidad a través de un indicador, el periodo medio de pagos, que visualizará el volumen de deuda comercial de las Administraciones. El control de la deuda comercial se elevará a principio de sostenibilidad financiera, lo que lleva aparejado la aplicación de los mecanismos de control de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
+
+Para que las nuevas reformas estructurales en este ámbito resulten plenamente eficaces, es necesario aprobar algunas medidas coyunturales, extraordinarias y urgentes que ayuden a las Administraciones a cumplir con los nuevos controles y cambios estructurales de funcionamiento.
+
+II
+
+En el Título I se establece una tercera y última fase del denominado mecanismo de financiación para el pago a proveedores, que, como medida coyuntural y extraordinaria, ayude a las Administraciones autonómicas y locales a reducir su deuda comercial acumulada y puedan cumplir de forma inmediata con las nuevas reglas a futuro vinculadas al control de la deuda comercial. Se trata de poner el contador de la deuda comercial a cero con carácter previo a la implantación de la factura electrónica, del registro contable, del periodo medio de pagos y, en última instancia, de los controles de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
+
+El Gobierno aprobó el pasado año el Real Decreto-ley 4/2012, de 24 de febrero, por el que se determinan obligaciones de información y procedimientos necesarios para establecer un mecanismo de financiación para el pago a los proveedores de las Entidades Locales, y que posteriormente se hizo extensible a las Comunidades Autónomas mediante un Acuerdo del Consejo de Política Fiscal y Financiera de 6 de marzo de 2012. Asimismo, se creó un Fondo para la Financiación de pagos a proveedores, mediante el Real Decreto-ley 7/2012, de 9 de marzo.
+
+La citada normativa estableció un mecanismo extraordinario de financiación para el pago y cancelación de las deudas contraídas con los proveedores de las Entidades Locales y Comunidades Autónomas, al mismo tiempo que se facilitaba a las Administraciones Públicas endeudadas la formalización de préstamos a largo plazo, si bien con la exigencia de una condicionalidad fiscal y financiera que se concretó, entre otros elementos, en el requisito de disponer de planes de ajuste.
+
+Ante los efectos favorables de este mecanismo, tanto sobre el Producto Interior Bruto como sobre la creación y mantenimiento de empleos directos, el Gobierno, mediante la aprobación del Real Decreto-ley 4/2013, de 22 de febrero, de medidas de apoyo al emprendedor y de estímulo del crecimiento y de la creación de empleo, puso en marcha una segunda fase del citado mecanismo ampliando tanto su ámbito objetivo como subjetivo, permitiendo por primera vez la entrada en éste de las mancomunidades de municipios y las Entidades Locales del País Vasco y Navarra.
+
+Mediante el presente Real Decreto-ley se pone en marcha una última y tercera fase del citado mecanismo, en la que nuevamente se amplía tanto el ámbito subjetivo como objetivo de aplicación y se establecen las especialidades del procedimiento necesarias con el objetivo de ayudar a las Comunidades Autónomas y Entidades Locales a reducir su deuda comercial acumulada y que puedan estar en mejores condiciones de cumplir con las nuevas reformas estructurales de control de la deuda comercial.
+
+De este modo, por primera vez podrán ser incluidas las obligaciones adquiridas por las Universidades públicas de las Comunidades Autónomas, en los términos establecidos en el Real Decreto-ley, así como aquellas derivadas de indemnizaciones por expropiaciones reconocidas en sentencia judicial firme, con determinados límites, las transferencias de las Comunidades Autónomas a Entidades Locales derivadas de alguna de las relaciones jurídicas previstas en el Real Decreto-ley, o las transferencias a instituciones sin ánimo de lucro, entre otras.
+
+Otra de las principales novedades de esta nueva y última fase es la especial protección otorgada a los subcontratistas y al resto de acreedores de los proveedores de los que las Administraciones son deudoras. Para ello, se facilita información a estos acreedores para que puedan conocer en todo momento si sus deudores van a cobrar sus deudas con las Administraciones a través de este mecanismo, y en qué momento. El acceso a esta información les facilitará su toma de decisiones sobre el cobro de sus deudas pendientes con estos proveedores de las Administraciones, lo que permitirá extender el efecto económico dinamizador al resto de la cadena de pagos.
+
+En este sentido, esta última fase permitirá saldar la deuda comercial acumulada por Entidades Locales y Comunidades Autónomas, contribuyendo de este modo a la erradicación de la morosidad de las Administraciones Públicas.
+
+El Capítulo I regula el objeto, se define el concepto de proveedor y se regula el ámbito objetivo de aplicación, entre otros elementos.
+
+El Capítulo II de disposiciones aplicables a las Comunidades Autónomas, establece el ámbito subjetivo de aplicación, la necesaria contabilización previa de las obligaciones objeto de esta nueva fase, las especialidades procedimentales relativas al suministro de información y al pago de facturas, así como la necesaria revisión de los planes de ajuste conforme a las nuevas operaciones de crédito concertadas.
+
+El Capítulo III sobre disposiciones aplicables a las Entidades Locales regula el ámbito subjetivo de aplicación, la necesaria contabilización previa de las obligaciones objeto de esta nueva fase, las especialidades relativas al procedimiento para el suministro de información y a los planes de ajuste.
+
+III
+
+Los retrasos acumulados de los municipios en el pago de sus obligaciones, especialmente las que han contraído con sus proveedores, repercuten negativamente en su liquidez y termina generando problemas estructurales de solvencia.
+
+Como complemento a las medidas previstas en el Título I, para aliviar esta situación, el Gobierno, a través de este Real Decreto-ley, pone a disposición de los municipios que se encuentren en situaciones de especial dificultad un conjunto de medidas extraordinarias y urgentes de apoyo a la liquidez, de carácter temporal y voluntario, que les permita hacer frente a estos problemas, siempre que cumplan con las debidas condiciones fiscales y financieras, tal y como exige la disposición adicional primera de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
+
+Entre estas medidas destacan las relativas al ámbito de la participación de los tributos del Estado, a las deudas generadas con los acreedores públicos, al régimen de endeudamiento o a la financiación de los remanentes de tesorería negativos.
+
+En atención al principio de eficiencia en la asignación y utilización de los recursos públicos regulado en el artículo siete de la mencionada Ley Orgánica 2/2012, de 27 de abril, las citadas medidas se ponen a disposición sólo de aquellos municipios que presenten mayores problemas de liquidez, para lo que se han establecido una serie de criterios que determinarán la elegibilidad de los Municipios. Será el Ministerio de Hacienda y Administraciones Públicas quien determine de entre las medidas solicitadas por el municipio elegible las que resultan de aplicación por adaptarse mejor a sus problemas concretos.
+
+Por otra parte, sobre la base del cumplimiento de un plan de ajuste se han incluido un conjunto de condiciones, tanto de carácter general como específico, en función de las medidas que les resulten de aplicación, que deberán cumplir los Municipios a los que se aplique lo previsto en este Real Decreto-ley. El Ministerio de Hacienda y Administraciones Públicas se encargará del seguimiento y control de los mencionados planes de ajuste y podrá solicitar y tener acceso a toda la información del Municipio que estime relevante. El incumplimiento de los compromisos contenidos en el plan de ajuste conllevará la anulación de las medidas de apoyo que se hubieran podido adoptar.
+
+El Capítulo I regula el objeto y el ámbito subjetivo identificando los requisitos que deben cumplir los Municipios que quieran solicitar las medidas extraordinarias de liquidez aquí reguladas. Así, además de estar al corriente de sus obligaciones de remisión económico financieras, será necesario que los citados Municipios presenten un ahorro neto y remanente de tesorería para gastos generales negativo durante los dos últimos años, presenten deudas con acreedores públicos pendientes de compensación que superen el 30 por ciento de sus ingresos no financieros o tengan una deuda superior a un millón de euros con el Fondo de Financiación para el Pago a los Proveedores.
+
+El Capítulo II regula todas aquellas medidas que pueden solicitar los municipios y entre las que cabe destacar la concesión de anticipos del importe de las entregas a cuenta de 2014, el fraccionamiento de las deudas con la Agencia Estatal de Administración Tributaria o con la Seguridad Social por un plazo máximo de 10 años o la posibilidad, exclusivamente en 2013, de que los Ayuntamientos puedan, a través de préstamos o créditos bancarios, convertir o consolidar en operaciones a largo plazo de la deuda viva sus operaciones financieras a corto plazo.
+
+El Capítulo III regula las condiciones fiscales y financieras asociadas a las medidas extraordinarias de apoyo. Cabe diferenciar entre las condiciones de carácter general aplicables en todo caso, entre las que se encuentran por ejemplo la reducción de los gastos de funcionamiento, la obligación de financiar íntegramente los servicios públicos locales mediante tasas o precios públicos o las medidas destinadas a la supresión de las entidades dependientes o vinculadas que se encuentren en desequilibrio financiero, y las condiciones específicas únicamente aplicables en el caso de que le resulten de aplicación las medidas relativas a la participación en tributos del Estado, a las deudas con acreedores públicos o al régimen de endeudamiento.
+
+El Capítulo IV regula el procedimiento que se inicia de oficio por el Ministerio de Hacienda y Administraciones Públicas mediante la publicación de una relación de Municipios que cumplen los requisitos subjetivos. El mencionado Ministerio hará el seguimiento y control de las condiciones fiscales y financieras y que, en caso de incumplimiento, podrá dar lugar a la anulación de las medidas de apoyo adoptadas.
+
+IV
+
+La disposición final quinta modifica el texto refundido de la Ley de Contratos del Sector Público aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre con el objeto de avanzar en el proceso de racionalización administrativa de acuerdo con las pautas marcadas por la Comisión de Reforma de las Administraciones Públicas, considerándose prioritario impulsar y extender el sistema de contratación centralizada para el aprovisionamiento del sector público.
+
+Para poder acometer esta ingente labor de forma eficaz y decidida y reforzar al máximo las garantías del proceso se atribuye al Ministerio de Hacienda y Administraciones Públicas las funciones, a través del órgano que se determine en su estructura orgánica, de órgano de contratación del sistema de contratación centralizada. Resulta requisito imprescindible y urgente la modificación del texto refundido de la ley de contratos para poder aprobar a continuación la modificación del Real decreto de estructura del Departamento.
+
+Entre las disposiciones finales restantes destaca la habilitación normativa al Gobierno y al Ministro de Hacienda y Administraciones Públicas para desarrollar lo previsto en el Real Decreto-ley, la normativa que aplica con carácter supletorio a la nueva fase del mecanismo para el pago a los proveedores de las Entidades Locales y Comunidades Autónomas, que es toda la normativa anterior reguladora de las fases uno y dos del mecanismo, y la entrada en vigor.
+
+La necesidad de atender las obligaciones pendientes de pago acumuladas de las Administraciones para reducir las necesidades de financiación de las empresas y atender las necesidades de liquidez de las Administraciones, aconsejan la adopción inmediata de medidas extraordinarias. En el conjunto y en cada una de las medidas que se adoptan, concurren, por su naturaleza y finalidad, las circunstancias de extraordinaria y urgente necesidad que exige el artículo 86 de la Constitución Española como presupuestos habilitantes para la aprobación de un Real Decreto-ley.
+
+En su virtud, haciendo uso de la autorización contenida en el artículo 86 de la Constitución Española, a propuesta del Ministro de Hacienda y Administraciones Públicas, previa deliberación del Consejo de Ministros, en su reunión del día 28 de junio de 2013,
+
+DISPONGO:
+
+> Redactado el último párrafo del punto III conforme a la corrección de errores publicada en BOE núm. 166, de 12 de julio de 2013. Ref. BOE-A-2013-7614.
