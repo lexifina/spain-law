@@ -44,7 +44,7 @@ Capítulo 10 y Apéndices A, L, Y.
 
 4.2.2.2. Los Capítulos 3 y 4 contienen los procedimientos aplicables por las dependencias de control de tránsito aéreo que facilitan servicio de control de aproximación.
 
-4.2.2.3. El capítulo 5 contiene los procedimientos aplicables por las dependencias de control de tránsito aéreo que suministran servicio de control de aeródromo.
+4.2.2.3. El Capítulo 5 contiene los procedimientos aplicables por las dependencias de control de tránsito aéreo que suministran servicio de control de aeródromo.
 
 4.2.2.3.1. Los procedimientos relativos a las luces aeronáuticas de superficie se han incluido en el Capítulo 5, (Sección 4.5.6.) puesto que se relacionan en su mayor parte con los aeródromos. Sin embargo, se observará que 4.5.6.1.1. se aplica a todas las luces aeronáuticas de superficie, estén o no en el aeródromo o en sus cercanías, y que toda la Sección 4.5.6. se aplica a todos los aeródromos, suministren o no servicio de control de aeródromo.
 
@@ -204,9 +204,13 @@ Métodos generales de funcionamiento de los servicios de tránsito aéreo
 
 4.2.8.1.2. El formulario de plan de vuelo estará impreso en español y en inglés.
 
-4.2.8.1.3. Los explotadores y las dependencias de los servicios de tránsito aéreo observarán las instrucciones para llenar los formularios de plan de vuelo y los de las listas de planes de vuelo repetitivos que figuran en el Apéndice A.
+4.2.8.1.3. Los explotadores y las dependencias de los servicios de tránsito aéreo observarán:
 
-Las instrucciones para completar el formulario de plan de vuelo dadas en el Apéndice A se imprimirán en el dorso de la tapa del bloque de formularios, y se exhibirán en las salas donde se dan las instrucciones de última hora (exposiciones verbales).
+a) las instrucciones para llenar los formularios de plan de vuelo y los de las listas de planes de vuelo repetitivos que figuran en el apéndice A, y
+
+b) toda restricción que se determine en las publicaciones de información aeronáutica (AIP).
+
+Las instrucciones para completar el formulario de plan de vuelo dadas en el apéndice A se imprimirán en el dorso de la tapa del bloque de formularios, y se exhibirán en las salas donde se dan las instrucciones de última hora (exposiciones verbales).
 
 4.2.8.1.4. Los explotadores cuyas aeronaves no puedan cumplir con la RNP prescrita para una ruta o área informarán al ATC y antes de la salida, sobre los tipos de RNP para los que tiene certificación la aeronave de que se trate.
 
@@ -214,9 +218,11 @@ Las instrucciones para completar el formulario de plan de vuelo dadas en el Apé
 
 4.2.8.2.1. Antes de la salida.
 
-4.2.8.2.1.1. Excepto cuando se haya acordado la presentación de planes de vuelos repetitivos o cuando la autoridad ATS competente prescriba la presentación de planes de vuelo a una unidad IFPS (IFPU), la presentación de plan de vuelo antes de la salida se hará personalmente, por teléfono u otros medios que prescriba la autoridad ATS competente a la oficina de notificación de los servicios de tránsito aéreo en el aeródromo de salida. Si no hay tal oficina en el aeródromo de salida, el plan de vuelo se transmitirá por teléfono, teletipo u otros medios que prescriba la autoridad ATS competente, o si no se dispone de estos medios, por radio, a la dependencia de los servicios de tránsito aéreo designada para servir al aeródromo de salida.
+4.2.8.2.1.1 Los planes de vuelo no se presentarán con más de 120 horas de antelación respecto de la hora prevista de fuera calzos.
 
-4.2.8.2.1.2. En caso de que un vuelo sufra una demora con respecto al plan de vuelo original, ésta deberá comunicarse a los Servicios de Tránsito Aéreo siguiendo los plazos y procedimientos descritos en las publicaciones de información aeronáutica. Transcurrido el tiempo establecido en las publicaciones de información aeronáutica, si el originador del plan de vuelo no toma ninguna medida, el plan de vuelo se cancelará automáticamente.
+4.2.8.2.1.2. Excepto cuando se haya acordado la presentación de planes de vuelos repetitivos o cuando la autoridad ATS competente prescriba la presentación de planes de vuelo a una unidad IFPS (IFPU), la presentación de plan de vuelo antes de la salida se hará personalmente, por teléfono u otros medios que prescriba la autoridad ATS competente a la oficina de notificación de los servicios de tránsito aéreo en el aeródromo de salida. Si no hay tal oficina en el aeródromo de salida, el plan de vuelo se transmitirá por teléfono, teletipo u otros medios que prescriba la autoridad ATS competente, o si no se dispone de estos medios, por radio, a la dependencia de los servicios de tránsito aéreo designada para servir al aeródromo de salida.
+
+4.2.8.2.1.3. En caso de que un vuelo sufra una demora con respecto al plan de vuelo original, ésta deberá comunicarse a los Servicios de Tránsito Aéreo siguiendo los plazos y procedimientos descritos en las publicaciones de información aeronáutica. Transcurrido el tiempo establecido en las publicaciones de información aeronáutica, si el originador del plan de vuelo no toma ninguna medida, el plan de vuelo se cancelará automáticamente.
 
 4.2.8.2.2. Durante el vuelo.
 
@@ -1248,7 +1254,7 @@ Nota: Véase en 4.3.3.2.4.2.5 lo indicado sobre los requisitos de planificación
 
 4.3.3.2.8. Procedimientos especiales para casos de pérdida de la capacidad de performance de navegación vertical requerida para el vuelo dentro del espacio aéreo EUR RVSM.
 
-4.3.3.2.8.1. General
+4.3.3.2.8.1. General.
 
 4.3.3.2.8.1.1. Una contingencia en vuelo que afecte al vuelo en el espacio aéreo EUR RVSM es una circunstancia imprevisible que tiene un impacto directo en la capacidad de una o más aeronaves para operar de acuerdo con los requisitos de performance de navegación vertical del espacio aéreo EUR RVSM, según se especifica en 4.3.3.2.3. Dichas contingencias en vuelo pueden ser consecuencia de la degradación del equipo de aeronave asociado con el mantenimiento de la altura y consecuencia también de las condiciones de turbulencia atmosférica.
 
@@ -1256,7 +1262,7 @@ Nota: Véase en 4.3.3.2.4.2.5 lo indicado sobre los requisitos de planificación
 
 4.3.3.2.8.1.3. El control de tránsito aéreo proporcionará toda la ayuda posible a un piloto que sufra una contingencia en vuelo. Las medidas de control de tránsito aéreo posteriores se basarán en las intenciones del piloto, la situación general del tránsito aéreo y la dinámica en tiempo real de la contingencia.
 
-4.3.3.2.8.2. Degradación del equipo de aeronave notificada por el piloto
+4.3.3.2.8.2. Degradación del equipo de aeronave notificada por el piloto.
 
 4.3.3.2.8.2.1. Cuando el piloto de una aeronave con aprobación RVSM que opera en el espacio aéreo EUR RVSM informe que el equipo de aeronave ya no satisface las MASPS de la RVSM, según de indica en 4.3.3.2.3, el control de tránsito aéreo considerará a la aeronave como sin aprobación RVSM.
 
@@ -1266,7 +1272,7 @@ Nota: Véase en 4.3.3.2.4.2.5 lo indicado sobre los requisitos de planificación
 
 4.3.3.2.8.2.4. El primer ACC/UAC que tenga conocimiento del cambio de estado RVSM de una aeronave coordinará con los ACCs/UACs adyacentes, según corresponda.
 
-4.3.3.2.8.3. Turbulencia fuerte no pronosticada
+4.3.3.2.8.3. Turbulencia fuerte no pronosticada.
 
 4.3.3.2.8.3.1. El piloto informará al ATC cuando, operando con una aeronave en el espacio aéreo EUR RVSM, encuentre turbulencia fuerte debida a fenómenos meteorológicos o a vórtice de estela turbulenta y crea que dicha turbulencia tendrá un impacto en la capacidad de la aeronave para mantener su nivel de vuelo autorizado. El control de tránsito aéreo establecerá o bien separación horizontal apropiada o una separación vertical mínima aumentada.
 
@@ -1276,7 +1282,7 @@ Nota: Véase en 4.3.3.2.4.2.5 lo indicado sobre los requisitos de planificación
 
 4.3.3.2.8.3.4. Los ACC/UAC que suspendan la aplicación de la RVSM coordinarán con los ACCs/UACS adyacentes dichas suspensiones y los ajustes necesarios a las capacidades de los sectores, según corresponda, para asegurar una ordenada progresión del tránsito hasta su transferencia.
 
-4.3.3.2.8.4. Turbulencia fuerte pronosticada
+4.3.3.2.8.4. Turbulencia fuerte pronosticada.
 
 4.3.3.2.8.4.1. Cuando un pronóstico meteorológico prevea fuerte turbulencia dentro del espacio aéreo EUR RVSM, el control de tránsito aéreo determinará si debiera suspenderse la aplicación de la RVSM y, en tal caso, el periodo de tiempo y los niveles de vuelo y/o área específicos.
 
@@ -1284,7 +1290,7 @@ Nota: Véase en 4.3.3.2.4.2.5 lo indicado sobre los requisitos de planificación
 
 4.3.4. Nivel mínimo de crucero.
 
-4.3.4.1. Salvo en los casos en que expresamente lo autorice la autoridad competente, no se asignarán niveles de crucero por debajo de las altitudes mínimas de vuelo establecidas por el Estado.
+4.3.4.1. Salvo en los casos en que expresamente lo autorice la autoridad competente, no se asignarán niveles de crucero por debajo de las altitudes mínimas de vuelo establecidas por el Estado, tal como se establece en SERA.5005 y SERA.5015. Los artículos 13 y 15 a 17 del Real Decreto 552/2014, de 27 de junio, contienen disposiciones adicionales sobre la materia.
 
 4.3.4.2. Cuando las circunstancias lo justifiquen, los centros de control de área determinarán el nivel o niveles de vuelo más bajos utilizables en toda o en partes del área de control de la cual sean responsables, y harán uso de ellos al asignar niveles de vuelo y facilitárselos a los pilotos, a solicitud (véase Capítulo 2, párrafo 4.2.1.2.).
 
@@ -1296,33 +1302,35 @@ Nota: Véase en 4.3.3.2.4.2.5 lo indicado sobre los requisitos de planificación
 
 4.3.5. Asignación de niveles.
 
-4.3.5.1. Excepto cuando las condiciones del tránsito y los procedimientos de coordinación permitan la autorización de ascenso en crucero, los centros de control de área normalmente asignarán sólo un nivel de crucero a cada aeronave fuera de su área de control, es decir, el nivel de crucero a que la aeronave entrará en la siguiente área de control, esté contigua o no. Se advertirá a las aeronaves que soliciten en ruta cualquier cambio subsiguiente de nivel de crucero.
+4.3.5.1. Excepto cuando las condiciones del tránsito y los procedimientos de coordinación permitan la autorización de ascenso en crucero, la dependencia ATC normalmente asignará sólo un nivel a cada aeronave fuera de su área de control, es decir, al que la aeronave entrará en la siguiente área de control, sea o no contigua. La dependencia ATC receptora tiene la responsabilidad de expedir la autorización para continuar el ascenso, según corresponda. De ser pertinente se advertirá a la aeronave que solicite en ruta cualquier cambio de nivel de crucero.
 
-4.3.5.2. Si es necesario ajustar el nivel de crucero de una aeronave que opera a lo largo de una ruta ATS establecida, que se extiende en parte dentro y en parte fuera del espacio aéreo controlado y donde las series respectivas de niveles de crucero no son idénticas, dicho ajuste se efectuará siempre que sea posible, dentro del espacio aéreo controlado y, si está convenientemente ubicada, en la vertical de una radioayuda para la navegación.
+4.3.5.2. A las aeronaves que están autorizadas para emplear técnicas de ascenso en crucero se permitirá operar entre dos niveles o por encima de determinado nivel.
 
-4.3.5.3. Cuando se haya autorizado a una aeronave para que entre en el área de control de un centro a un nivel de crucero inferior al mínimo establecido para una parte subsiguiente de la ruta, ese centro tomará medidas para expedir a la aeronave una autorización revisada, aun cuando el piloto no haya solicitado el cambio necesario de nivel de crucero.
+4.3.5.3. Si es necesario cambiar el nivel de crucero de una aeronave que opera a lo largo de una ruta ATS establecida, que se extiende en parte dentro y en parte fuera del espacio aéreo controlado y donde las series respectivas de niveles de crucero no son idénticas, dicho cambio se efectuará siempre que sea posible, dentro del espacio aéreo controlado.
 
-4.3.5.4. Cuando sea necesario, se podrá conceder autorización a las aeronaves para que cambien de nivel de crucero en momento, lugar o velocidad vertical especificados.
+4.3.5.4. Cuando se haya autorizado a una aeronave para que entre en el área de control a un nivel de crucero inferior al mínimo establecido para una parte subsiguiente de la ruta, la dependencia ATC responsable del área debería expedir a la aeronave una autorización revisada, aun cuando el piloto no haya solicitado el cambio necesario de nivel de crucero.
 
-4.3.5.5. Dentro de lo posible, los niveles de crucero de las aeronaves que se dirijan hacia un mismo destino se asignarán en forma que correspondan a la secuencia de aproximación a dicho destino.
+4.3.5.5. Cuando sea necesario, se podrá conceder autorización a las aeronaves para que cambien de nivel de crucero en momento, lugar o velocidad vertical especificados.
 
-4.3.5.6. La aeronave que siga un nivel de crucero tendrá normalmente prioridad sobre otras que deseen pasar a ese nivel. Si dos o más aeronaves siguen el mismo nivel de crucero, normalmente tendrá prioridad la que vaya delante.
+4.3.5.6. Dentro de lo posible, los niveles de crucero de las aeronaves que se dirijan hacia un mismo destino se asignarán en forma que correspondan a la secuencia correcta de aproximación a dicho destino.
 
-4.3.5.7. Podrá asignarse a una aeronave un nivel previamente ocupado por otra aeronave, después de que ésta haya notificado que lo ha dejado libre.
+4.3.5.7. La aeronave que siga un nivel de crucero tendrá normalmente prioridad sobre otras que soliciten pasar a ese nivel. Si dos o más aeronaves siguen el mismo nivel de crucero, normalmente tendrá prioridad la que vaya delante.
 
-Sin embargo, si se sabe que existe turbulencia fuerte, se suspenderá dicha asignación hasta que la aeronave que deje libre el nivel haya notificado que ya se halla en otro nivel con la separación mínima requerida.
+4.3.5.8. Los niveles de crucero o, en el caso de ascenso en crucero, la serie de niveles que hayan de asignarse a los vuelos controlados se escogerán tal como se especifica en SERA.5020, letra b).
 
-4.3.5.8. Los niveles de crucero o, en el caso de ascenso en crucero, la serie de niveles que hayan de asignarse a los vuelos controlados se escogerán entre aquellos asignados a los vuelos IFR de:
+4.3.6. Separación vertical durante el ascenso o el descenso
 
-a) las tablas de niveles de crucero que aparecen en el Apéndice B, o de
+4.3.6.1. Podrá autorizarse que una aeronave pase a un nivel previamente ocupado por otra aeronave, después de que esta haya notificado que lo ha dejado libre, excepto cuando:
 
-b) una tabla de niveles de crucero modificada, cuando así se prescriba de acuerdo con el Apéndice B, para vuelos por encima del nivel de vuelo 410,
+a) se sabe que existe turbulencia fuerte;
 
-si bien la correlación entre niveles y derrota, prescrita en dicha tabla, no tendrá aplicación cuando se indique de otro modo en las autorizaciones del control de tránsito aéreo, o lo haya especificado de otro modo la autoridad ATS competente en las publicaciones de información aeronáutica.
+b) la aeronave que está a más altura está efectuando un ascenso en crucero; o
 
-4.3.6. Separación vertical durante el ascenso o el descenso.
+c) la diferencia de performance de las aeronaves es tal que puede llevar a una separación inferior a la mínima aplicable; en cuyo caso no se concederá la autorización hasta que la aeronave que deja libre el nivel haya notificado que se encuentra en otro nivel o que está pasando por otro nivel, en ambos casos con la separación mínima requerida.
 
-4.3.6.1. A los pilotos que mantengan comunicación directa entre sí, se les podrá autorizar, con consentimiento de ambos, a que mantengan una separación vertical determinada entre sus respectivas aeronaves durante el ascenso o el descenso.
+4.3.6.1.1. Cuando las aeronaves en cuestión estén ingresando o se hayan establecido en el mismo circuito de espera, se prestará atención a la aeronave que desciende a velocidades verticales marcadamente distintas y, de ser necesario, deberían aplicarse otras medidas, tales como especificar una velocidad vertical de descenso máxima para la aeronave a más altura y una velocidad vertical de descenso mínima para la aeronave a menos altura, a fin de asegurar que se mantiene la separación requerida.
+
+4.3.6.2. A los pilotos que mantengan comunicación directa entre sí, se les podrá autorizar, con consentimiento de ambos, a que mantengan una separación vertical determinada entre sus respectivas aeronaves durante el ascenso o el descenso, en las condiciones prescritas por SERA.8005 b).
 
 Separación horizontal
 
@@ -1436,20 +1444,18 @@ b) Derrotas opuestas (véase la Figura 4-5 B):
 
 Derrotas opuestas y derrotas intersecantes o partes de las mismas, cuya diferencia angular es superior a 135° pero inferior a 225° y cuyas áreas de protección se superponen.
 
-c) Derrotas que se cruzan (véase la Figura 4-5 C):
-
-Derrotas intersectantes o partes de las mismas, distintas de las especificadas en a) y b) anteriores.
-
-d) En la derrota (véase la figura 4-6):
-
-Las aeronaves vuelan directamente hacia la estación o la tienen en cola.
-
 |  |  |
 | --- | --- |
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image8.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image9.png)
+
+c) Derrotas que se cruzan (véase la Figura 4-5 C):
+
+Derrotas intersectantes o partes de las mismas, distintas de las especificadas en a) y b) anteriores.
+
+d) En la derrota (véase la figura 4-6): Las aeronaves vuelan directamente hacia la estación o la tienen en cola.
 
 |  |  |
 | --- | --- |
@@ -1507,9 +1513,6 @@ b) diez minutos, si las ayudas para la navegación permiten determinar frecuente
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image18.png)
 
-|  |
-| --- |
-
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image19.png)
 
 4.3.8.2.2. Aeronaves en subida o descenso.
@@ -1518,45 +1521,49 @@ b) diez minutos, si las ayudas para la navegación permiten determinar frecuente
 
 Cuando una aeronave vaya a cruzar el nivel de otra aeronave que sigue la misma derrota, se establecerá la siguiente separación longitudinal mínima:
 
-a) quince minutos (véase Fig. 4-13A1, 4-13A2), veinte minutos en la FIR/UIR Canarias, (véase Fig. 4-13B1, 4-13B2) cuando no exista separación vertical o
+a) quince minutos (véase Fig. 4-13A1, 4-13A2), veinte minutos en la FIR/UIR Canarias (véase Fig. 4-13B1, 4-13B2), cuando no exista separación vertical o
 
 |  |  |
 | --- | --- |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/129/05671_01097_6240775_image20_fmt.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/129/05671_01097_6240775_image21_fmt.png)
+
 |  |  |
+| --- | --- |
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image20.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/129/05671_01097_6240775_image22_fmt.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image21.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/129/05671_01097_6240775_image23_fmt.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image22.png)
+b) diez minutos cuando no exista separación vertical, pero esta separación se autorizará únicamente donde las ayudas para la navegación basadas en tierra o el GNSS permitan determinar frecuentemente la posición y la velocidad (véase Fig. 4-14A y 4-14B); o
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image23.png)
+|  |  |
+| --- | --- |
 
-b) diez minutos cuando no exista separación vertical, pero esta separación se autorizará únicamente donde las ayudas para la navegación permitan determinar frecuentemente la posición y la velocidad (véase Fig. 4-14A y 4-14B); o
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/129/05671_01097_6240775_image24_fmt.png)
 
-c) cinco minutos cuando no exista separación vertical, siempre que el cambio de nivel se inicie dentro de diez minutos a partir del momento en que la segunda aeronave ha notificado encontrarse exactamente sobre un punto de notificación preciso (véase Fig. 4-15A y 4-15B).
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/129/05671_01097_6240775_image25_fmt.png)
+
+c) cinco minutos cuando no exista separación vertical, siempre que:
+
+1.º El cambio de nivel se inicie dentro de diez minutos a partir del momento en que la segunda aeronave ha notificado encontrarse sobre un punto común que debe obtenerse de las ayudas para la navegación basadas en tierra o del GNSS; y
+
+2.º Cuando se expida la autorización mediante una comunicación por terceros o CPDLC, se añada una restricción a la autorización para asegurar que se cumpla la condición de 10 minutos (véase Fig. 4-15A y 4-15B).
+
+|  |  |
+| --- | --- |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/129/05671_01097_6240775_image26_fmt.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/129/05671_01097_6240775_image27_fmt.png)
 
 Con el fin de facilitar la aplicación del procedimiento cuando hay que hacer un cambio de nivel considerable, puede autorizarse, a la aeronave que desciende, a volar a algún nivel conveniente sobre la aeronave que esté más baja, o puede autorizarse a la aeronave que sube a volar a un nivel conveniente por debajo de la aeronave que esté más alta, para permitir otra verificación de la separación que se obtendrá cuando no exista separación vertical.
-
-|  |  |
-| --- | --- |
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image24.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image25.png)
-
-|  |  |
-| --- | --- |
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image26.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image27.png)
 
 4.3.8.2.2.2. Tránsito por derrotas que se cruzan:
 
 a) quince minutos (véase Fig. 4-16A1 y 4-16A2), veinte minutos en la FIR/UIR Canarias, (véase Fig. 4-16B1 y 4-16B2) cuando no exista separación vertical; o
-
-b) diez minutos cuando no exista separación vertical, si las ayudas para la navegación permiten determinar frecuentemente la posición y la velocidad (véase Fig. 4-17A y 4-17B).
 
 |  |  |
 | --- | --- |
@@ -1569,6 +1576,8 @@ b) diez minutos cuando no exista separación vertical, si las ayudas para la nav
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image30.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image31.png)
+
+b) diez minutos cuando no exista separación vertical, si las ayudas para la navegación permiten determinar frecuentemente la posición y la velocidad (véase Fig. 4-17A y 4-17B).
 
 |  |  |
 | --- | --- |
@@ -1588,64 +1597,88 @@ Cuando no se proporcione separación lateral, la vertical se proveerá por lo me
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image35.png)
 
-4.3.8.3. Mínimas de separación longitudinal basadas en distancia DME.
+4.3.8.3. Mínimas de separación longitudinal basadas en equipo DME y/o en el GNSS.
 
-4.3.8.3.1. La separación se establecerá manteniendo por lo menos la distancia o distancias especificadas entre posiciones de aeronaves, que se notifiquen por referencia al DME junto con otras ayudas para la navegación apropiadas.
+Nota. Cuando se utiliza la expresión «en la derrota» en las disposiciones relativas a la aplicación de las mínimas de separación longitudinal utilizándose el DME y/o el GNSS, significa que la aeronave está volando ya sea directamente en acercamiento a la estación/punto recorrido o directamente en alejamiento de la estación/punto de recorrido.
 
-Se mantendrá comunicación directa entre el controlador y el piloto mientras se utilice tal separación.
+4.3.8.3.1. La separación se establecerá manteniendo por lo menos la distancia o distancias especificadas entre posiciones de aeronaves, que se notifiquen por referencia al DME junto con otras ayudas para la navegación apropiada y/o al GNSS. Este tipo de separación se aplicará entre dos aeronaves que utilicen DME, o dos aeronaves que utilicen GNSS, o entre una aeronave que emplee DME y una aeronave que use GNSS. Se mantendrá comunicación directa entre el controlador y el piloto mientras se utilice tal separación.
 
-4.3.8.3.1.1. Aeronaves al mismo nivel de crucero.
+Al aplicar estas mínimas de separación entre cualesquiera aeronaves con medios de navegación de área, los controladores solicitarán específicamente la distancia derivada del GNSS.
 
-4.3.8.3.1.1.1. Aeronaves que siguen la misma derrota:
+Nota 1. Con el propósito de aplicar las mínimas de separación basadas en el GNSS, la distancia derivada de un sistema integrado de navegación en el que se incorporan datos GNSS se considera equivalente a la distancia GNSS.
+
+Nota 2. Entre las razones por las que un piloto puede estar en la imposibilidad de proporcionar información sobre la distancia GNSS figuran: un equipo inadecuado a bordo, falta de alimentación de datos GNSS en un sistema integrado de navegación o pérdida de la integridad del GNSS.
+
+4.3.8.3.1.1 .Aeronaves al mismo nivel de crucero.
+
+4.3.8.3.1.1.1 Aeronaves que siguen la misma derrota:
 
 a) 37 km (20 NM), siempre que:
 
-i) cada aeronave utilice las estaciones DME «en la derrota»; y
+1.º Cada aeronave utilice:
 
-ii) la separación se verifique por medio de lecturas DME simultáneas desde las aeronaves, a intervalos frecuentes para asegurar que no se infringe la separación mínima (véase Fig. 4-19A);
+i) las mismas estaciones DME «en la derrota» cuando las dos aeronaves utilicen DME; o
+
+ii) una estación DME «en la derrota» y un punto de recorrido en un emplazamiento común cuando una aeronave utilice DME y la otra, GNSS; o
+
+iii) el mismo punto de recorrido, cuando las dos aeronaves utilicen GNSS; y
+
+2.º La separación se verifique por medio de lecturas DME y/o GNSS simultáneas desde las aeronaves, a intervalos frecuentes para asegurar que no se infringe la separación mínima (véase la Figura 4-19A);
 
 b) 19 km (10 NM), siempre que:
 
-i) la aeronave que va delante mantenga una velocidad verdadera que exceda en 37 km (20 kt), o más la de la aeronave que sigue;
+1.º La aeronave que va delante mantenga una velocidad verdadera que exceda en 37 km/h (20 kt) o más la de la aeronave que sigue.
 
-ii) cada aeronave utilice las estaciones DME «en la derrota»; y
+2.º Cada aeronave utilice:
 
-iii) la separación se verifique por medio de lecturas DME simultáneas desde las aeronaves, a los intervalos que sean necesarios para asegurar que se establece la separación mínima y que no se infringe ésta (véase Fig. 4-19B).
+i) las mismas estaciones DME «en la derrota» cuando las dos aeronaves utilicen DME; o
+
+ii) una estación DME «en la derrota» y un punto de recorrido en un emplazamiento común cuando una aeronave utilice DME y la otra, GNSS; o
+
+iii) el mismo punto de recorrido, cuando las dos aeronaves utilicen GNSS; y
+
+3.º La separación se verifique por medio de lecturas DME y/o GNSS simultáneas desde las aeronaves, a los intervalos que sean necesarios para asegurar que se establece la separación mínima y que no se infringe ésta (véase la Figura 4-19B).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/145/06581_4942.png)
+
+4.3.8.3.1.1.2 Aeronaves que siguen derrotas que se cruzan.
+
+La separación longitudinal prescrita en 4.3.8.3.1.1.1 se aplicará también a condición de que cada aeronave notifique a qué distancia se halla de la estación DME y/o de un punto de recorrido en un emplazamiento común o del mismo punto de recorrido situado en el punto donde se cruzan las derrotas y el ángulo relativo entre las derrotas sea inferior a 90° (véanse las Figuras 4-20A y 4-20B).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/129/05671_6565.png)
+
+Figura 4-20A. Separación de 37 km (20 NM) basada en DME y/o en GNSS entre aeronaves por derrotas que se cruzan y al mismo nivel.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/129/05671_6612.png)
+
+Figura 4-20B. Separación de 19 km (10 NM) basada en DME y/o en GNSS entre aeronaves por derrotas que se cruzan y al mismo nivel.
+
+4.3.8.3.1.2 Aeronaves en ascenso y descenso.
+
+4.3.8.3.1.2.1 Aeronaves en la misma derrota: 19 km (10 NM), cuando no exista separación vertical, siempre que:
+
+a) Cada aeronave utilice:
+
+1.º Las mismas estaciones DME «en la derrota» cuando las dos aeronaves utilicen DME; o
+
+2.º Una estación DME «en la derrota» y un punto de recorrido en un emplazamiento común cuando una aeronave utilice DME y la otra, GNSS; o
+
+3.º El mismo punto de recorrido, cuando las dos aeronaves utilicen GNSS; y
+
+b) Una aeronave mantenga un nivel mientras no exista separación vertical; y
+
+c) Se establezca la separación por medio de lecturas DME y/o GNSS simultáneas obtenidas desde las aeronaves (véanse las Figuras 4-21A y 4-21B).
 
 |  |  |
 | --- | --- |
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image36.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/129/05671_01097_6240775_image40_fmt.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image37.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/129/05671_01097_6240775_image41_fmt.png)
 
-4.3.8.3.1.1.2. Aeronaves que siguen derrotas que se cruzan.
+Nota. Con el fin de facilitar la aplicación del procedimiento cuando haya un cambio de nivel considerable, puede autorizarse a la aeronave que desciende a volar hasta un nivel conveniente sobre la aeronave que esté más baja, o puede autorizarse a la aeronave que sube a volar hasta un nivel conveniente por debajo de la aeronave que esté más alta, para poder verificar de nuevo la separación que se obtendrá cuando no exista separación vertical.
 
-La separación longitudinal prescrita en 4.3.8.3.1.1.1. se aplicará también con tal que cada aeronave notifique la distancia a que se halla de la estación situada en el punto donde se cruzan las derrotas y el ángulo entre las derrotas sea inferior a 90° (véase Fig. 4-20A y 4-20B).
-
-|  |  |
-| --- | --- |
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image38.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image39.png)
-
-4.3.8.3.1.2. Aeronaves que ascienden o descienden en la misma derrota. 19 km (10 NM), cuando no exista separación vertical, siempre que:
-
-a) cada aeronave utilice las estaciones DME «en la derrota»
-
-b) una aeronave mantenga un nivel mientras no exista separación vertical; y
-
-c) se establezca la separación por medio de lecturas DME simultáneas obtenidas desde las aeronaves (véase Fig. 4-21A y 4-21B).
-
-Con el fin de facilitar la aplicación del procedimiento cuando haya un cambio de nivel considerable, puede autorizarse a la aeronave que desciende a volar a algún nivel conveniente sobre la aeronave que esté más baja, o puede autorizarse a la aeronave que sube a volar a un nivel conveniente por debajo de la aeronave que esté más alta, para permitir otra verificación de la separación que se obtendrá cuando no exista separación vertical.
-
-|  |  |
-| --- | --- |
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image40.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240775_image41.png)
+4.3.8.3.1.2.2 Aeronaves que siguen derrotas opuestas. Puede autorizarse a las aeronaves que utilicen DME «en la derrota» y/o un punto de recorrido en un emplazamiento común o el mismo punto de recorrido a que asciendan o desciendan a través de los niveles ocupados por otras aeronaves que utilicen DME en la derrota y/o un punto de recorrido en un emplazamiento común o el mismo punto de recorrido, siempre que se haya determinado con certeza que las aeronaves se han cruzado y se encuentran separadas por una distancia de al menos 10 NM, u otro valor que prescriba el proveedor designado para la prestación de servicios de tránsito aéreo, previa evaluación de la seguridad, y aceptado por la autoridad competente.
 
 4.3.8.3.1.3. Aeronaves que siguen derrotas opuestas.
 
@@ -1738,7 +1771,7 @@ Nota: Con el fin de facilitar la aplicación del procedimiento cuando haya un ca
 
 4.3.8.6. Mínima de separación longitudinal basada en distancia utilizando RNAV donde se especifique RNP.
 
-Nota: Se incluyen textos de orientación en el Adjunto 6 del Apéndice N del RCA, el Manual sobre la performance de navegación requerida (RNP) (Doc 9613) de OACI, el Manual de planificación de servicios de tránsito aéreo (Doc 9426) de OACI y el Manual sobre la metodología de planificación del espacio aéreo para determinar las mínimas de separación (Doc 9689) de OACI.
+Nota. Se incluyen textos de orientación en el Manual de navegación basada en la performance (PBN), Doc. 9613 de OACI, el Manual de planificación de servicios de tránsito aéreo, Doc. 9426 de OACI, y el Manual sobre la metodología de planificación del espacio aéreo para determinar las mínimas de separación, Doc. 9689 de OACI.
 
 4.3.8.6.1 Dentro de espacios aéreos designados, o en rutas designadas, podrán utilizarse mínimas de separación de conformidad con las disposiciones de esta sección (4.3.8.6.), sujetas a los acuerdos regionales de navegación aérea.
 
@@ -3068,7 +3101,7 @@ d) Los elementos adicionales que requiera la autoridad ATS competente.
 
 4.5.6.4.1.5.2 Si la torre de control no puede determinar, ni por medios visuales ni por un sistema de vigilancia ATS, si una aeronave ha dejado libre la pista al salir de ella o al cruzarla, se pedirá a la aeronave que informe cuando haya salido de la pista. El informe se transmitirá cuando toda la aeronave ya esté más allá del punto de espera de la pista pertinente.
 
-4.5.6.4.1.6 Uso de puntos de espera de la pista.
+4.5.6.4.1.6 Uso de puntos de espera de la pista
 
 4.5.6.4.1.6.1 Con excepción de lo dispuesto en 4.5.6.4.1.6.2. o a menos que otra cosa prescriba la autoridad ATS competente, las aeronaves no se mantendrán esperando a una distancia de la pista en uso inferior a la de un punto de espera de la pista.
 
@@ -4358,23 +4391,23 @@ c) dará instrucciones a las aeronaves para que se pongan en comunicación con e
 
 4.6.8.4.3. Salvo cuando se tenga la seguridad de que la falla completa del equipo radar será de duración muy limitada, deben adoptarse medidas para que se autorice la entrada en el área solamente a un número de aeronaves que puedan controlarse en condiciones de seguridad sin el uso del radar.
 
-4.6.8.5. Falla del equipo de radio en tierra.
+4.6.8.5. Degradación de los datos fuente relativos a la posición de las aeronaves.
 
-4.6.8.5.1. En el caso de falla total del equipo de radio en tierra utilizado para el control radar, el controlador radar, a menos que pueda seguir suministrando servicio radar por medio de otros canales de comunicación disponibles, procederá según se indica en 4.6.8.4.1 a) y b).
+A fin de reducir el impacto de la degradación de los datos fuente relativos a la posición de las aeronaves, por ejemplo, una interrupción del servicio de vigilancia autónoma de la integridad en el receptor (RAIM) para el sistema GNSS, el proveedor designado para la prestación de servicios de tránsito aéreo establecerá procedimientos de contingencia que han de seguir los puestos de control y las dependencias ATC en caso de degradación de los datos.
 
-4.6.8.5.2. Cuando no sean aplicables las disposiciones de 4.6.8.4.1, el controlador:
+4.6.8.6 Falla del equipo de radio en tierra.
 
-a) informará sin demora a todos los puestos de control o dependencias ATC adyacentes, según corresponda, acerca de la falla;
+4.6.8.6.1 En el caso de falla total del equipo de radio en tierra utilizado para el control, el controlador, a menos que pueda seguir suministrando servicio de vigilancia ATS por medio de otros canales de comunicación disponibles, procederá según se indica a continuación:
 
-b) mantendrá, a tales posiciones o dependencias, al tanto de la situación del tránsito vigente;
+a) Informará sin demora a todos los puestos de control o dependencias ATC adyacentes, según corresponda, acerca de la falla.
 
-c) pedirá su asistencia, respecto a aeronaves que puedan establecer comunicaciones con dichas posiciones o dependencias, para establecer separación radar o no radar y mantener el control de tales aeronaves; y
+b) Mantendrá, a tales posiciones o dependencias, al tanto de la situación del tránsito vigente.
 
-d) dará instrucciones a las posiciones de control o dependencias ATC adyacentes para que mantengan en espera o modifiquen la ruta de todos los vuelos controlados que estén fuera del área de responsabilidad de la posición o dependencia ATC que haya experimentado la falla hasta el momento en que pueda reanudarse el suministro de servicios normales.
+c) Pedirá su asistencia, respecto a aeronaves que puedan establecer comunicaciones con dichas posiciones o dependencias, para establecer separación radar o no radar y mantener el control de tales aeronaves; y
 
-4.6.8.5.3. Para que disminuya el impacto de una falla completa del equipo de radio en tierra en la seguridad del tránsito aéreo, la autoridad ATS competente establecerá procedimientos de contingencia que habrían de seguir las posiciones de control y dependencias ATC en caso de que ocurran tales fallas. Cuando sea viable y practicable, en tales procedimientos de contingencia se preverá la delegación de control a un puesto de control, o a una dependencia ATC, adyacente para que pueda proporcionarse tan pronto como sea posible un nivel mínimo de servicios, después de la falla del equipo de radio en tierra y hasta que puedan reanudarse las operaciones normales.
+d) Dará instrucciones a las posiciones de control o dependencias ATC adyacentes para que mantengan en espera o modifiquen la ruta de todos los vuelos controlados que estén fuera del área de responsabilidad de la posición o dependencia ATC que haya experimentado la falla hasta el momento en que pueda reanudarse el suministro de servicios normales.
 
-4.6.9. Empleo del radar en el servicio de control de aproximación.
+4.6.8.6.2 Para que disminuya el impacto de una falla completa del equipo de radio en tierra en la seguridad del tránsito aéreo, el proveedor designado para la prestación de servicios de tránsito aéreo establecerá procedimientos de contingencia que habrán de seguir las posiciones de control y dependencias ATC en caso de que ocurran tales fallas. Cuando sea viable y practicable, en tales procedimientos de contingencia se preverá la delegación de control a un puesto de control, o a una dependencia ATC, adyacente para que pueda proporcionarse tan pronto como sea posible un nivel mínimo de servicios, después de la falla del equipo de radio en tierra y hasta que puedan reanudarse las operaciones normales.
 
 4.6.9.1. Disposiciones generales.
 
@@ -5702,17 +5735,7 @@ b) la oficina de notificación de los servicios de tránsito aéreo de cada aer�
 
 4.9.4.2.2.2.4. Cuando así se exija por acuerdo entre las autoridades ATS apropiadas, con objeto de facilitar la identificación de los vuelos y con ello eliminar o reducir la necesidad de interceptar las aeronaves, si se hubieran desviado de la derrota asignada, los mensajes FPL correspondientes a los vuelos a lo largo de rutas, o partes de rutas especificadas, que estén situadas muy cerca de los límites entre regiones de información de vuelo se dirigirán también a los centros que están a cargo de las regiones de información de vuelo o regiones superiores de información de vuelo adyacentes a dichas rutas o partes de rutas.
 
-4.9.4.2.2.2.5. Normalmente, los mensajes FPL se transmitirán inmediatamente después de la presentación del plan de vuelo.
-
-No obstante, si se hubiera presentado un plan de vuelo con más de 24 horas de anticipación con respecto a la hora prevista de fuera calzos del vuelo a que se refiere, este plan de vuelo se mantendrá en suspenso hasta un máximo de 24 horas antes de que comience el vuelo, para evitar la necesidad de insertar un grupo fecha en este plan de vuelo.
-
-Además, si se presentara con anticipación un plan de vuelo y se aplicaran las disposiciones de 4.9.4.2.2.2.2. b) o e) o 4.9.4.2.2.2.3., la transmisión del mensaje FPL podría aplazarse hasta una hora antes de la hora prevista de fuera calzos, siempre que esto permita que cada dependencia de los servicios de tránsito aéreo interesada reciba la información por lo menos 30 minutos antes de la hora en que se espera que la aeronave entre en su área de responsabilidad.
-
-Si el plan para un vuelo que se realice totalmente en la Región EUR se presenta más de 24 horas antes de la hora prevista de fuera calzos, es obligatorio indicar la fecha del vuelo. Si el plan de vuelo se presenta con menos de 24 horas de anticipación a la hora prevista de fuera calzos (EOBT), es optativo indicar la fecha del vuelo. Esta información se insertará en la casilla 18 del FPL con un indicador de tres letras (DOF) seguido de una barra oblicua y de un grupo de seis cifras para indicar la fecha de vuelo.
-
-DOF/YYMMDD (YY = año; MM = mes; DD = día)
-
-Estos planes de vuelo se tramitarán y transmitirán sin mantenerlos en suspenso.
+4.9.4.2.2.2.5. Normalmente, los mensajes FPL se transmitirán inmediatamente después de la presentación del plan de vuelo. Si un plan de vuelo se presenta con más de 24 horas de anticipación con respecto a la hora prevista de fuera calzos del vuelo al cual se refiere, la fecha de salida del vuelo se insertará en la casilla 18 del plan de vuelo.
 
 4.9.4.2.2.3. Mensajes de demora (DLA).
 
@@ -5722,9 +5745,9 @@ Estos planes de vuelo se tramitarán y transmitirán sin mantenerlos en suspenso
 
 4.9.4.2.2.4. Mensajes de modificación (CHG).
 
-4.9.4.2.2.4.1. En general, cuando haya de efectuarse un cambio de los datos básicos de plan de vuelo de los FPL o RPL transmitidos anteriormente, se transmitirá un mensaje CHG.
+4.9.4.2.2.4.1. En general, cuando haya de efectuarse un cambio de los datos básicos de plan de vuelo de los FPL o RPL transmitidos anteriormente, se transmitirá un mensaje CHG. El mensaje CHG se enviará a todos los destinatarios de datos básicos de plan de vuelo que estén afectados por el cambio (véase en 4.9.4.2.2.5.3. los casos en que para modificar ciertos datos básicos de plan de vuelo será necesario cancelar el plan de vuelo y presentar uno nuevo).
 
-El mensaje CHG se enviará a todos los destinatarios de datos básicos de plan de vuelo que estén afectados por el cambio. (véase en 4.9.4.2.2.5.3. los casos en que para modificar ciertos datos básicos de plan de vuelo será necesario cancelar el plan de vuelo y presentar uno nuevo).
+Los datos pertinentes del plan de vuelo básico modificado se proporcionarán a las entidades afectadas que no los hayan recibido previamente.
 
 4.9.4.2.2.5. Mensajes de cancelación de plan de vuelo (CNL).
 
@@ -6108,7 +6131,7 @@ Las normas generales respecto a este asunto se detallan en 3.4.2.
 
 4.9.4.3.4. Mensajes que contienen información sobre las condiciones de los aeródromos.
 
-Las normas respecto a la publicación de información sobre las condiciones de los aeródromos figuran en el Capítulo 5, 4.5.8.
+Las normas respecto a la publicación de información sobre las condiciones de los aeródromos figuran en el capítulo 5, apartado 4.5.5.8 y sus subapartados 4.5.5.8.1 a 4.5.5.8.3, ambos inclusive.
 
 4.9.4.3.4.1. Cuando se proporcione información sobre las condiciones de aeródromo, ello se hará en forma clara y concisa a fin de facilitar al piloto la apreciación de la situación descrita. Se emitirá siempre que el controlador que está de servicio lo considere necesario en interés de la seguridad o cuando lo solicite una aeronave.
 
@@ -6378,13 +6401,13 @@ La transmisión de piloto se indica con un asterisco.
 
 4.10.3.1.10. Estado de funcionamiento de las ayudas visuales y no visuales.
 
-| a) (especifíquese ayuda visual o no visual) PISTA (número) (descripción del defecto); | a) (specify visual or non-visual aid) RUNWAY (number) (description of deficiency); |
+| a) (especifíquese ayuda visual o no visual) PISTA (número) (descripción del defecto); | a) (specify visual or non-visual aid) RrUNWAY (number) (description of deficiency); |
 | --- | --- |
-| b) (tipo de) ILUMINACIÓN (clase de avería); | b) (type) LIGHTING (unserviceability); |
-| c) CATEGORÍA MLS/ILS (categoría) (condiciones del servicio); | c) MLS/ILS CATEGORY (category) (serviceability state); |
-| d) ILUMINACIÓN DE LAS CALLES DE RODAJE (descripción del defecto); | d) TAXIWAY LIGHTING (description of deficiency); |
+| b) (tipo de) ILUMINACION (clase de avería); | b) (type) LIGHTING (unserviceability); |
+| c) CATEGORIA GBAS /SBAS/MLS/ILS (categoría) condiciones del servicio); | c) GBAS/SBAS/ MLS/ILS CATEGORY (category) (serviceability state); |
+| d) ILUMINACION DE LAS CALLES DE RODAJE (descripción del defecto); | d) TAXIWAY LIGHTING (description of deficiency); |
 | e) (tipo de indicador visual de pendiente de aproximación) PISTA (número) (descripción del defecto); | e) (type of visual approach slope indicator) RUNWAY (number) (description of deficiency); |
-| f) FUENTE SECUNDARIA DE ENERGÍA NO DISPONIBLE. | f) SECONDARY POWER SUPPLY NOT AVAILABLE |
+| f) FUENTE SECUNDARIA DE ENERGIA NO DISPONIBLE. | f) SECONDARY POWER SUPPLY NOT AVAILABLE. |
 
 4.10.3.1.11. Vaciado rápido de combustible.
 
@@ -6970,7 +6993,7 @@ La transmisión de piloto se indica con un asterisco.
 | a) TRANSFERENCIA LLEGADA (distintivo de llamada de la aeronave) [RESPONDEDOR (código SSR)] (tipo) DE (punto de salida) TRANSFERENCIA EN (punto significativo) (o A LAS (hora) o A (nivel) AUTORIZADA Y PREVISTA (límite de la autorización) (hora) A (nivel) [HORA PREVISTA DE APROXIMACIÓN o NO HAY DEMORA PREVISTA] LLAME A LAS (hora). | a) INBOUND RELEASE (aircraft call sign) [SQUAWKING (SSR code)] (type) FROM (departure point) RELEASED AT (significant point, or time, or level) CLEARED TO AND ESTIMATING (clearance limit) (time) AT (level) [EXPECTED APPROACH TIME or NO DELAY EXPECTED] CONTACT AT (time). |
 | --- | --- |
 
-4.10.3.5.6 Transferencia.
+4.10.3.5.6. Transferencia.
 
 | a) TRANSFERENCIA (distintivo de llamada de la aeronave) [RESPONDEDOR (código SSR)] POSICIÓN (posición de la aeronave o punto significativo) (nivel). | a) HANDOVER (aircraft call sign) [SQUAWKING (SSR code)] POSITION (aircraft position or significant point) (level). |
 | --- | --- |
@@ -8517,6 +8540,10 @@ Nota: Cuando se especifica la variable «level» (nivel), el mensaje puede estab
 Las aeronaves que utilicen CPDLC deberán cumplimentar debidamente el plan de vuelo asignando la letra correspondiente de enlace de datos, de conformidad con las disposiciones del Apéndice A y con las publicaciones de información aeronáutica correspondientes (AIP).
 
 Para rellenar la casilla del plan de vuelo correspondiente a enlace de datos (CPDLC), las aeronaves deben contar con el equipamiento y procedimientos operacionales de aeronave adecuados, autorizados a través de la correspondiente aprobación operacional o autorización equivalente emitida por el Estado de matrícula o del operador.
+
+> Se modifican los Capítulos 2, 3, 6, 9 y 10 por el art. único 4 a 8 de la Orden PRE/941/2013, de 24 de mayo. Ref. BOE-A-2013-5671
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 129, de 18 de junio de 2013. Ref. BOE-A-2013-6581
 
 > Se modifican los Capítulos 2 a 10 por el art. único 9 a 17 de la Orden PRE/1802/2011, de 24 de junio. Ref. BOE-A-2011-11268
 

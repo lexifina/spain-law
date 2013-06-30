@@ -1478,7 +1478,7 @@ Descripción detallada de las rutas ATS inferiores, que comprenda:
 
 6) observaciones, lo que comprende señalar la dependencia del control y la frecuencia empleada para las operaciones.
 
-Nota: En relación con el Apéndice N, Adjunto 1, y con fines de planificación de vuelos, no se considera que el tipo específico de RNP es parte integrante del designador de ruta.
+Nota. En relación con el apéndice N, adjunto 1, y con fines de planificación de vuelos, no se considera que la especificación de navegación sea parte integrante del designador de ruta.
 
 ENR 3.2. Rutas ATS superiores.
 
@@ -1496,7 +1496,7 @@ Descripción detallada de las rutas ATS superiores, que comprenda:
 
 6) observaciones, lo que comprende señalar la dependencia del control y la frecuencia empleada para las operaciones.
 
-Nota: En relación con el Apéndice N, Adjunto 1, y con fines de planificación de vuelos, no se considera que el tipo específico de RNP es parte integrante del designador de ruta.
+Nota. En relación con el apéndice N, adjunto 1, y con fines de planificación de vuelos, no se considera que la especificación de navegación sea parte integrante del designador de ruta.
 
 ENR 3.3. Rutas de navegación de área.
 
@@ -1520,7 +1520,7 @@ c) la elevación de la antena transmisora del DME redondeada a los 30 m (100 ft)
 
 6) observaciones, lo que comprende señalar la dependencia de control y la frecuencia empleada para las operaciones.
 
-Nota: En relación con el Apéndice N, Adjunto 1, y con fines de planificación de vuelos, no se considera que el tipo específico de RNP es parte integrante del designador de ruta.
+Nota. En relación con el apéndice N, adjunto 1, y con fines de planificación de vuelos, no se considera que la especificación de navegación sea parte integrante del designador de ruta.
 
 ENR 3.4. Rutas para helicópteros.
 
@@ -1536,7 +1536,7 @@ Descripción detallada de las rutas para helicópteros que comprenda:
 
 5) observaciones, lo que comprende señalar la dependencia de control y la frecuencia empleada para las operaciones.
 
-Nota: En relación con el Apéndice N, Adjunto 1, y con fines de planificación de vuelos, no se considera que el tipo específico de RNP es parte integrante del designador de ruta.
+Nota. En relación con el apéndice N, adjunto 1, y con fines de planificación de vuelos, no se considera que la especificación de navegación sea parte integrante del designador de ruta.
 
 ENR 3.5. Otras rutas.
 
@@ -1604,7 +1604,21 @@ Descripción de las estaciones asociadas con sistemas especiales de navegación 
 
 En la columna correspondiente a las observaciones deberá indicarse el nombre de la entidad explotadora de la instalación, si no es la dependencia civil normal del gobierno. La cobertura de la instalación se indicará en la columna correspondiente a las observaciones.
 
-ENR 4.3. Designadores o nombres en clave para los puntos significativos.
+ENR 4.3 Sistema Mundial de Navegación por Satélite (GNSS).
+
+Una lista y la descripción de los elementos del sistema mundial de navegación por satélite (GNSS) que proporcionan el servicio de navegación establecidos para las operaciones en ruta y dispuestos alfabéticamente por nombre del elemento, incluyendo:
+
+1) Nombre del elemento GNSS (GPS, GLONASS, EGNOS, MSAS, WAAS, etc.).
+
+2) Frecuencia(s), según corresponda.
+
+3) Coordenadas geográficas en grados, minutos y segundos en la zona de servicio y la zona de cobertura nominales; y
+
+4) Observaciones.
+
+En la columna correspondiente a las observaciones deberá indicarse el nombre de la entidad explotadora de la instalación.
+
+ENR 4.4. Designadores o nombres en clave para los puntos significativos.
 
 Una lista alfabética de designadores o nombres en clave («nombre en clave» de cinco letras de fácil pronunciación) establecida para los puntos significativos en las posiciones no indicadas por el desplazamiento de radioayudas para la navegación, que comprenda:
 
@@ -1614,7 +1628,7 @@ Una lista alfabética de designadores o nombres en clave («nombre en clave» de
 
 3) una referencia al ATS u otras rutas en las que esté ubicado el punto.
 
-ENR 4.4. Luces aeronáuticas de superficie - en ruta.
+ENR 4.5. Luces aeronáuticas de superficie - en ruta.
 
 Una lista de las luces aeronáuticas de superficie y otros faros que designen las posiciones geográficas seleccionadas por el Estado como significativas, que comprenda:
 
@@ -2100,21 +2114,21 @@ Descripción detallada de las instalaciones de comunicación de los servicios de
 
 Descripción detallada de las radioayudas para la navegación y el aterrizaje relacionadas con la aproximación por instrumentos y los procedimientos de área terminal en el aeródromo, que comprenda:
 
-1) el tipo de ayuda, la variación magnética redondeada al grado más próximo y categoría del ILS/MLS y, en el caso del VOR/ILS/MLS, la declinación de la estación redondeada al grado más próximo, utilizada para la alineación técnica de la ayuda;
+1) El tipo de ayuda, la variación magnética redondeada al grado más próximo, según corresponda, y tipo de operación apoyada para ILS/MLS, GNSS básico, SBAS y GBAS y, en el caso del VOR/ILS/MLS, la declinación de la estación redondeada al grado más próximo, utilizada para la alineación técnica de la ayuda.
 
-2) la identificación;
+2) La identificación, si se requiere.
 
-3) la frecuencia o frecuencias;
+3) La frecuencia o frecuencias, según corresponda.
 
-4) las horas de funcionamiento;
+4) Las horas de funcionamiento, según corresponda.
 
-5) las coordenadas geográficas en grados, minutos, segundos y décimas de segundo de la posición de la antena transmisora;
+5) Las coordenadas geográficas en grados, minutos, segundos y décimas de segundo de la posición de la antena transmisora, según corresponda.
 
-6) la elevación de la antena transmisora del DME redondeada a los 30 m (100 ft) más próximos y del DME/P redondeada a los 3 m (10 ft) más próximos; y
+6) La elevación de la antena transmisora del DME redondeada a los 30 m (100 ft) más próximos y del DME/P redondeada a los 3 m (10 ft) más próximos; y
 
-7) observaciones.
+7) Observaciones.
 
-Cuando se utilice la misma ayuda para fines de en ruta y de aterrizaje, la descripción correspondiente deberá aparecer también en la sección ENR 4. En la columna correspondiente a las observaciones deberá indicarse el nombre de la entidad explotadora de la instalación, si no es la dependencia civil normal del gobierno. La cobertura de la instalación se indicará en la columna correspondiente a las observaciones.
+Cuando se utilice la misma ayuda para fines de en ruta y de aterrizaje, la descripción correspondiente deberá aparecer también en la sección ENR 4. Si el sistema de aumentación basado en tierra (GBAS) presta servicio a más de un aeródromo, la descripción de la ayuda deberá proporcionarse para cada aeródromo. En la columna correspondiente a las observaciones deberá indicarse el nombre de la entidad explotadora de la instalación, si no es la dependencia civil normal del gobierno. El nombre del proveedor de servicios del sistema de aumentación basado en satélites (SBAS) deberá indicarse en la columna correspondiente a las observaciones. La cobertura de la instalación se indicará en la columna correspondiente a las observaciones.
 
 ****AD 2.20. Reglamento del tráfico local.
 
@@ -2450,21 +2464,21 @@ Descripción detallada de las instalaciones de comunicación de los servicios de
 
 Descripción detallada de las radioayudas para la navegación y el aterrizaje relacionadas con la aproximación por instrumentos y los procedimientos de área terminal en el helipuerto, que comprenda:
 
-1) el tipo de ayuda y la variación magnética, (y para el VOR la declinación de la estación utilizada para la alineación técnica de la ayuda), redondeadas al grado más próximo;
+1) El tipo de ayuda y la variación magnética, (y para el VOR la declinación de la estación utilizada para la alineación técnica de la ayuda), redondeadas al grado más próximo, y el tipo de operación para ILS, GNSS básico, SBAS y GBAS.
 
-2) la identificación;
+2) La identificación, si se requiere.
 
-3) la frecuencia o frecuencias;
+3) La frecuencia o frecuencias, según corresponda.
 
-4) las horas de funcionamiento;
+4) Las horas de funcionamiento, según corresponda.
 
-5) las coordenadas geográficas en grados, minutos, segundos y décimas de segundo de la posición de la antena transmisora;
+5) Las coordenadas geográficas en grados, minutos, segundos y décimas de segundo de la posición de la antena transmisora, según corresponda.
 
-6) la elevación de la antena transmisora del DME redondeada a los 30 m (100 ft) más próximos y del DME/P redondeada a los 3 m (10 ft) más próximos; y
+6) La elevación de la antena transmisora del DME redondeada a los 30 m (100 ft) más próximos y del DME/P redondeada a los 3 m (10 ft) más próximos; y
 
-7) observaciones.
+7) Observaciones.
 
-Cuando se utilice la misma ayuda para fines de en ruta y de helipuerto, la descripción correspondiente deberá aparecer también en la sección ENR 4. En la columna correspondiente a las observaciones deberá indicarse el nombre de la entidad explotadora de la instalación, si no es la dependencia civil normal del gobierno. La cobertura de la instalación se indicará en la columna correspondiente a las observaciones.
+Cuando se utilice la misma ayuda para fines de en ruta y de helipuerto, la descripción correspondiente deberá aparecer también en la sección ENR 4. Si el sistema de aumentación basado en tierra (GBAS) presta servicio a más de un helipuerto, la descripción de la ayuda deberá proporcionarse para cada helipuerto. En la columna correspondiente a las observaciones deberá indicarse el nombre de la entidad explotadora de la instalación, si no es la dependencia civil normal del gobierno. La cobertura de la instalación se indicará en la columna correspondiente a las observaciones.
 
 ****AD 3.19. Reglamento del tráfico local.
 
@@ -2503,5 +2517,7 @@ Es necesario incluir cartas relacionadas con el helipuerto, en el orden siguient
 8) concentraciones de aves en las proximidades del helipuerto.
 
 Si alguna de las cartas no se produce, deberá incluirse en la sección GEN 3.2, Cartas aeronáuticas, una declaración a esos efectos.
+
+> Se modifica el Capítulo 10 por el art. único.9 de la Orden PRE/941/2013, de 24 de mayo. Ref. BOE-A-2013-5671
 
 > Se modifican los Capítulos 4 a 6, 8 y 10 por el art. único.5 de la Orden PRE/2733/2006, de 28 de agosto. Ref. BOE-A-2006-15407

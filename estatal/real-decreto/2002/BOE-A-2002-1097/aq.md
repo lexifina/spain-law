@@ -124,7 +124,7 @@ contaminación de la pista –25% –si la contaminación es de 11 a 25%
 
 contaminación de la pista –50% –si la contaminación es de 26 a 50%
 
-contaminación de la pista –100% –si la contaminación es de 51 a 100%.
+contaminación de la pista –100% –si la contaminación es de 51 a 100%
 
 EJEMPLO DE FORMATO SNOWTAM QUE HA SIDO LLENADO.
 
@@ -132,7 +132,9 @@ EJEMPLO DE FORMATO SNOWTAM QUE HA SIDO LLENADO.
 
 070645 LSZHYNYX
 
-SWLSOl49 LSZH 11070620 SNOWTAMOl49
+SWLSOl49 LSZH 11070620
+
+SNOWTAMOl49
 
 A) LSZH B) 11070620 C) 02 D)... P)
 
@@ -256,7 +258,11 @@ La latitud y la longitud con una precisión de un minuto, así como un número d
 
 4. CASILLA A).
 
-Con respecto a la instalación, al espacio aéreo, o a las condiciones que son objeto de la notificación, anótese el indicador de lugar del Doc 7910 de la OACI del aeródromo, o de la FIR en los que están situados. Si corresponde, puede indicarse más de una FIR/UIR. Si no hubiera disponible ningún indicador de lugar OACI, utilícense las letras de nacionalidad de la OACI que figuran en el Doc 7910 de la OACI, Parte 2, más XX y seguida en la casilla E por el nombre en lenguaje claro.
+Con respecto a la instalación, al espacio aéreo, o a las condiciones que son objeto de la notificación, anótese el indicador de lugar del Doc. 7910 de la OACI del aeródromo, o de la FIR en los que están situados. Si corresponde, puede indicarse más de una FIR/UIR. Si no hubiera disponible ningún indicador de lugar OACI, utilícense las letras de nacionalidad de la OACI que figuran en el Doc 7910 de la OACI, Parte 2, más XX y seguida en la casilla E por el nombre en lenguaje claro.
+
+Si la información se refiere al GNSS, insértese el indicador de lugar de la OACI apropiado asignado a un elemento GNSS o el indicador de lugar común asignado a todos los elementos del GNSS (a excepción del GBAS).
+
+Nota. En el caso del GNSS, el indicador de lugar puede utilizarse al identificar la interrupción de un elemento GNSS (p. ej., KNMH para una interrupción del satélite GPS).
 
 5. CASILLA B).
 
@@ -268,7 +274,7 @@ Con excepción del NOTAMC, se utilizarán un grupo de fecha-hora (un grupo de di
 
 7. CASILLA D).
 
-Si la situación es de peligro, el estado de funcionamiento o condición de las instalaciones notificados continúan conforme a un horario específico entre las fechashoras indicadas en las casillas B) y C), insértese dicha información en la casilla D). Si la casilla D) excede de 200 caracteres, se considerará la posibilidad de proporcionar tal información en un NOTAM en partes múltiples.
+Si la situación es de peligro, el estado de funcionamiento o condición de las instalaciones notificados continúan conforme a un horario específico entre las fechas horas indicadas en las casillas B) y C), insértese dicha información en la casilla D). Si la casilla D) excede de 200 caracteres, se considerará la posibilidad de proporcionar tal información en un NOTAM en partes múltiples.
 
 Nota: En el Doc 8126 se proporciona orientación relativa a la definición armonizada del contenido de la casilla D.
 
@@ -282,7 +288,7 @@ Estas casillas son normalmente aplicables a los avisos para la navegación o a l
 
 Nota: Para ejemplos de NOTAM véase el Doc 8126 y los PANS-ABC (Doc 8400)
 
-## Adjunto 3
+## ADJUNTO 3
 
 ## Formato de ASHTAM
 
@@ -306,7 +312,9 @@ Nota: Para ejemplos de NOTAM véase el Doc 8126 y los PANS-ABC (Doc 8400)
 
 TT = designador de datos ASHTAM = VA;
 
-AA = designador geográfico de los Estados, p. ej., NZ Nueva Zelanda [véase Indicadores de lugar (Doc 7910 de OACI), Parte 2, índice de las letras de nacionalidad para los Indicadores de lugar]; iii = Número de serie del ASHTAM expresado por un grupo de cuatro cifras;
+AA = designador geográfico de los Estados, p. ej., NZ Nueva Zelanda [véase Indicadores de lugar (Doc 7910 de OACI), Parte 2, índice de las letras de nacionalidad para los Indicadores de lugar];
+
+iii = Número de serie del ASHTAM expresado por un grupo de cuatro cifras;
 
 CCCC = indicador de lugar de cuatro letras correspondiente a la región de información de vuelo en cuestión [véase Indicadores de lugar (Doc 7910 de OACI), Parte 5, direcciones de los centros a cargo de las FIR/UIR];
 
@@ -362,5 +370,7 @@ Nota: El código de colores para indicar el nivel de alerta respecto de la activ
 3.10 Casilla J –Fuente de la información, p. ej., «aeronotificación especial» u «organismo vulcanológico», etc. la fuente de la información debería indicarse siempre, tanto si ocurrió de hecho la erupción o se notificó la nube de cenizas, como en caso contrario.
 
 3.11 Casilla K –Inclúyase en lenguaje claro toda información de importancia para las operaciones además de lo antedicho.
+
+> Se modifica el Adjunto 2 por el art. único.13 de la Orden PRE/941/2013, de 24 de mayo. Ref. BOE-A-2013-5671
 
 > Se modifican los Adjuntos 1 a 3 por el art. único.7 de la Orden PRE/2733/2006, de 28 de agosto. Ref. BOE-A-2006-15407

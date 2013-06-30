@@ -38,7 +38,7 @@
 | Obstáculos en las áreas de aproximación y de despegue |  | 1 m o 1ft | 1 x 10-5 esencial |
 | Altitud para los procedimientos de aproximación por instrumentos | Según lo especificado en los PANS-OPS (Doc 8168) |  | 1 x 10-5 esencial |
 | Obstáculos en las áreas de circuito y en el aeródromo/helipuerto |  | 1 m o 1ft | 1 x 10-5 esencial |
-| Obstáculos en ruta, elevaciones | 3 m (10 ft) levantamiento topográfico | 3 m (10 ft) | 1 x 10-3 esencial |
+| Obstáculos en ruta, elevaciones | 3 m (10 ft) levantamiento topográfico | 3 m (10 ft) | 1 x 10-3 ordinario |
 | Equipo radiotelemétrico/precisión (DME/P) |  | 3 m (10 ft) | 1 x 10-5 esencial |
 | Equipo radiotelemétrico (DME), elevación | 30 m (100ft) levantamiento topográfico | 30 m (100ft) | 1 x 10-5 esencial |
 | Altitudes mínimas | 50 m o100ft calculada | 50 m o 100ft calculada | 1 x 10-3 ordinario |
@@ -83,3 +83,5 @@
 | Distancia entre antena de azimut MLS-extremo de pista |  | 3 m o (10 ft) | 1 x 10-3 ordinaria |
 | Distancia entre antena de elevación MLS-umbral,a lo largo del eje |  | 3 m o (10 ft) | 1 x 10-3 ordinaria |
 | Distancia entre antena DME/P del MLS-umbral, a lo largo del eje |  | 3 m o (10 ft) | 1 x 10-5 esencial |
+
+> Se modifica la tabla 2 por el art. único.14 de la Orden PRE/941/2013, de 24 de mayo. Ref. BOE-A-2013-5671

@@ -794,7 +794,7 @@ Nota 2: La alarma de prioridad hará funcionar una señal acústica (atención) 
 
 10.4.4.4.4. Se permitirá la inclusión de datos optativos en la línea de procedencia a condición de que el total de caracteres no exceda de 69 y con sujeción al acuerdo entre las autoridades interesadas.
 
-10.4.4.4.4.1. La presencia de un campo de datos optativos se indicará mediante un carácter de espacio se terminará con la función de alineación.
+10.4.4.4.4.1. La presencia de un campo de datos optativos se indicará mediante un carácter de espacio y se terminará con la función de alineación.
 
 10.4.4.4.4.2. Cuando deba intercambiarse información adicional sobre direccionamiento en un mensaje entre las direcciones de origen y de destino, habrá que enviar tal información en el campo de datos optativos (ODF), empleando el siguiente formato específico:
 
@@ -3401,6 +3401,8 @@ Nota: No se esperará ninguna respuesta a tal llamada general a no ser que se ll
 10.8.2.14.4.1 Únicamente el sistema de a bordo iniciará la terminación del servicio de entrega de autorización anticipada.
 
 10.8.2.14.4.2 Se terminará el servicio de entrega de autorización anticipada con una dependencia ATC siempre que la autoridad de datos posterior pase a ser la autoridad de datos vigente.
+
+> Se modifica el Capítulo 4 por el art. único.10 de la Orden PRE/941/2013, de 24 de mayo. Ref. BOE-A-2013-5671
 
 > Se modifican los Capítulos 3 y 4 por el art. único.19 y 20 de la Orden PRE/1802/2011, de 24 de junio. Ref. BOE-A-2011-11268
 

@@ -4,7 +4,7 @@
 
 1. Formulario de plan de vuelo modelo OACI.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6240776_image10.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/129/01097_6240776_image10.png)
 
 2. Instrucciones para completar el formulario de plan de vuelo.
 
@@ -26,25 +26,29 @@ El término «aeródromo» en los planes de vuelo incluye también emplazamiento
 
 Complétense las Casillas 7 a 18 como se indica a continuación.
 
-Complétese también la Casilla 19 como se indica a continuación, cuando lo requiera la autoridad ATS competente o cuando se considere necesario.
+Complétese también la Casilla 19 como se indica a continuación, cuando así esté previsto en la normativa de aplicación, lo requiera el proveedor designado para la prestación de servicios de tránsito aéreo o cuando se considere necesario.
 
-Los números de las casillas del formulario no son consecutivos, ya que corresponden a los números de las Secciones Tipo de los mensajes ATS.
+Los números de las casillas del formulario no son consecutivos, ya que corresponden a los números de los Tipos de campo de los mensajes ATS.
 
-Casilla 7: Identificación de la aeronave (máximo 7 caracteres) (1).
+Nota. Los sistemas de datos de los servicios de tránsito aéreo pueden imponer restricciones de comunicación o procesamiento en cuanto a la información de los planes de vuelo presentados. Las posibles restricciones pueden ser, por ejemplo, las limitaciones respecto al espacio de las casillas, el número de elementos de la casilla de ruta o el espacio total de las casillas del plan de vuelo. Las restricciones importantes se documentan en la publicación de información aeronáutica pertinente.
 
-Insértese una de las siguientes identificaciones de aeronave, sin exceder de 7 caracteres:
+Casilla 7: Identificación de la aeronave (máximo 7 caracteres).
 
-a) Las marcas de matrícula de la aeronave (por ejemplo, EIKAO, 4XBCD, N2567GA) cuando:
+Insértese una de las siguientes identificaciones de aeronave, sin exceder de 7 caracteres alfanuméricos y sin guiones o símbolos:
 
-1) el distintivo de llamada radiotelefónico que empleará la aeronave consista en esta identificación solamente (por ejemplo, OOTEK), o cuando vaya precedida del designador telefónico OACI de la empresa explotadora de aeronaves (por ejemplo, SABENA OOTEK);
+a) El designador OACI de la empresa explotadora de aeronaves seguido de la identificación del vuelo (por ejemplo, KLM511, NGA213, JTR25) cuando el distintivo de llamada radiotelefónico que empleará la aeronave consista en el designador telefónico OACI de la empresa explotadora de aeronaves seguido de la identificación del vuelo (por ejemplo, KLM511, NIGERIA 213, JESTER 25); o
 
-2) la aeronave no esté equipada con radio;
+b) La marca de nacionalidad o común y la marca de matrícula de la aeronave (por ejemplo, EIKAO, 4XBCD, N2567GA) cuando:
 
-b) el designador de la empresa explotadora de aeronaves seguido de la identificación del vuelo (por ejemplo, KLM511, NGA213, JTR25) cuando el distintivo de llamada radiotelefónico que empleará la aeronave consista en el designador telefónico OACI de la empresa explotadora de aeronaves seguido de la identificación del vuelo (por ejemplo, KLM511, NIGERIA 213, HERBIE 25); o
+1.º El distintivo de llamada radiotelefónico que empleará la aeronave consista en esta identificación solamente (por ejemplo, CGAJS), o cuando vaya precedida del designador telefónico OACI de la empresa explotadora de aeronaves (por ejemplo, BLIZZARD CGAJS).
 
-c) las marcas de matrícula o distintivo de llamada rediotelefónico táctico cuando se trate de aeronaves militares en vuelos nacionales.
+2.º La aeronave no esté equipada con radio.
 
-(1) Las disposiciones relativas al empleo de los distintivos de llamada radiotelefónicos están contenidos en el Libro Cuarto. Los designadores OACI y los designadores telefónicos de empresas explotadoras de aeronaves están contenidos en el Doc. 8585 de OACI, Designadores de empresas explotadoras de aeronaves, de entidades oficiales y de servicios aeronáuticos.
+c) Las marcas de matrícula o distintivo de llamada radiotelefónico táctico cuando se trate de aeronaves militares en vuelos nacionales.
+
+Nota 1. Las disposiciones relativas al empleo de los distintivos de llamada radiotelefónicos están contenidos en el Libro Cuarto. Los designadores OACI y los designadores telefónicos de empresas explotadoras de aeronaves están contenidos en el Doc. 8585 de OACI, Designadores de empresas explotadoras de aeronaves, de entidades oficiales y de servicios aeronáuticos.
+
+Nota 2. Las normas relativas a las marcas de nacionalidad, comunes y de matrícula que deben utilizarse figuran en el anexo 7, capítulo 2 de la OACI.
 
 Casilla 8: Reglas de vuelo y tipo de vuelo (uno o dos caracteres).
 
@@ -52,17 +56,17 @@ Reglas de vuelo.
 
 Insértese una de las siguientes letras para indicar la clase de reglas de vuelo que el piloto se propone observar:
 
-| I | si son IFR |
+| I | si se tiene previsto que todo el vuelo se realizará en IFR. |
 | --- | --- |
-| V | si son VFR |
-| Y | si son IFR primero (1) |
-| Z | si son VFR primero (1) |
+| V | si se tiene previsto que todo el vuelo se realizará en VFR. |
+| Y | si el vuelo se realizará inicialmente con IFR seguida de uno o más cambios subsiguientes en las reglas de vuelo (1), o |
+| Z | si el vuelo se realizará inicialmente con VFR seguida de uno o más cambios subsiguientes en las reglas de vuelo (1). |
 
 (1) Indíquese en la casilla 15 el punto, o puntos, en los cuales se ha previsto hacer el cambio de reglas de vuelo.
 
 Tipo de vuelo.
 
-Insértese una de las letras siguientes para indicar el tipo de vuelo, cuando lo requiera la autoridad ATS competente:
+Insértese una de las letras siguientes para indicar el tipo de vuelo, cuando lo requiera el proveedor designado para la prestación de servicios de tránsito aéreo:
 
 | S | si es de servicio aéreo regular |
 | --- | --- |
@@ -70,6 +74,8 @@ Insértese una de las letras siguientes para indicar el tipo de vuelo, cuando lo
 | G | si es de aviación general |
 | M | si es militar |
 | X | si corresponde a alguna otra categoría, distinta de las indicadas |
+
+Indíquese en la casilla 18 el estado de un vuelo después del indicador STS, o cuando sea necesario para señalar otros motivos para manejo específico por los ATS, indíquese el motivo en la casilla 18, a continuación del indicar RMK.
 
 Casilla 9: Número y tipo de aeronaves y categoría de estela turbulenta.
 
@@ -81,9 +87,9 @@ Tipo de aeronave (2 a 4 caracteres).
 
 Insértese el designador apropiado, según se especifica en el Doc. 8643 de la OACI -Designadores de tipos de aeronave-, o el designador militar español en vigor si se trata de aeronave militar española en vuelo nacional.
 
-Insértese ZZZZ, e INDIQUESE en la casilla 18 el (número(s) y) tipo(s) de aeronaves, precedidos de TYP/, si el designador no ha sido asignado, o si se trata de vuelos en formación que comprendan más de un tipo.
+Insértese ZZZZ, e INDÍQUESE en la casilla 18 el (número(s) y) tipo(s) de aeronaves, precedidos de TYP/, si el designador no ha sido asignado, o si se trata de vuelos en formación que comprendan más de un tipo.
 
-Categoría de estela turbulenta (1 caracter).
+Categoría de estela turbulenta (1 carácter).
 
 Insértese una barra oblicua, seguida de una de las letras siguientes, para indicar la categoría de estela turbulenta de la aeronave:
 
@@ -92,87 +98,136 @@ Insértese una barra oblicua, seguida de una de las letras siguientes, para indi
 | M | Media, para indicar un tipo de aeronave de masa máxima certificada de despegue de menos de 136.000 kg., pero más de 7.000 kg.; |
 | L | Ligera, para indicar un tipo de aeronave de masa máxima certificada de despegue de 7.000 kg. o menos. |
 
-Casilla 10: Equipo.
+Casilla 10: Equipo y capacidades.
 
-Equipo de radiocomunicaciones, de ayudas para la navegación y la aproximación.
+Se entiende por capacidades los siguientes elementos:
+
+a) Presencia a bordo de la aeronave del equipo adecuado y que funciona.
+
+b) Que el equipo y capacidades se correspondan con las cualificaciones de la tripulación de vuelo, y
+
+c) Cuando sea aplicable, la autorización de la autoridad correspondiente.
+
+Equipo de radiocomunicaciones, equipo y capacidades para las ayudas a la navegación y la aproximación.
 
 Insértese una letra, como sigue:
 
-| N | si no se lleva equipo COM ni equipo de ayudas para la navegación y la aproximación, para la ruta considerada, o si el equipo no funciona, o |
+| N | si no se lleva equipo COM /NAV/ de ayudas para la aproximación, para la ruta considerada, o si el equipo no funciona. |
 | --- | --- |
-| S | si se lleva equipo normalizado COM y de ayudas para la navegación y la aproximación para la ruta considerada y si tal equipo funciona, y/o (1) |
+| S | si se lleva equipo normalizado COM/NAV de ayuda para la aproximación para la ruta considerada y si este equipo funciona (1). |
 
-Insértese una o más de las letras siguientes para indicar el equipo COM y de ayudas para la navegación y la aproximación, disponible y que funciona:
+(1) Si se usa la letra S, los equipos VHF RTF, VOR e ILS se consideran normalizados, salvo que el proveedor designado para la prestación de servicios de tránsito aéreo prescriba alguna otra combinación.
 
-| A | (Sin asignar) | M | OMEGA |
+Insértese una o más de las letras siguientes para indicar el equipo COM/NAV y de ayudas para la navegación y la aproximación, disponible y que funciona:
+
+| A | Sistema de aterrizaje GBAS | J7 | CPDLC FANS 1/A SATCOM (Iridium) |
 | --- | --- | --- | --- |
-| B | (Sin asignar) | O | VOR |
-| C | LORAN C | P | P-RNAV (5) |
-| D | DME | Q | (Sin asignar) |
-| E | (Sin asignar) | R | B-RNAV (5) |
-| F | (ADF) | T | TACAN |
-| G | GNSS | U | UHF RTF |
-| H | HF RTF | V | VHF RTF |
-| I | Navegación inercial | W | Aprobación RVSM (6) |
-| J | Enlace de datos (3) | X | Aprobación MNPS (7) |
-| K | MLS | Y | Equipo radio de 8,33 kHz (8) |
-| L | ILS | Z | demás equipo instalado a bordo (2) |
+| B | LPV (APV con SBAS) | K | MLS |
+| C | LORAN C | L | ILS |
+| D | DME | M1 | ATC RTF SATCOM (INMARSAT) |
+| E1 | FMC WPR ACARS | M2 | ATC RTF (MTSAT) |
+| E2 | D-FIS ACARS | M3 | ATC RTF (Iridium) |
+| E3 | PDC ACARS | O | VOR |
+| F | ADF | P1 -P9 | Reservado para RCP |
+| G | GNSS (2) | R | Aprobación PBN (4) |
+| H | HF RTF | T | TACAN |
+| I | Navegación inercial | U | UHF RTF |
+| J1 | CPDLC ATN VDL Modo 2 (3) | V | VHF RTF |
+| J2 | CPDLC FANS 1/A HFDL | W | Aprobación RVSM (5) |
+| J3 | CPDLC FANS 1/A VDL Modo A | X | Aprobación MNPS (6) |
+| J4 | CPDLC FANS 1/A VDL Modo 2 | Y | VHF con capacidad de espaciado 8,33 kHz.(8) |
+| J5 | CPDLC FANS 1/A SATCOM (INMARSAT) | Z | Demás equipo instalado a bordo u otras capacidades (7) |
+| J6 | CPDLC FANS 1/A SATCOM (MSAT) |  | NOTA: Cualquier otro carácter alfanumérico que no figure arriba está reservado. |
 
-(1) Los equipos VHF RTF, ADF, VOR e ILS se consideran normalizados, salvo que la autoridad ATS competente prescriba alguna otra combinación.
+(2) Si se usa la letra G, cualquiera que sean los tipos de aumentación GNSS externa se especificarán en la casilla 18 seguidos del indicador NAV y separados por un espacio.
 
-(2) Si se usa la letra Z, especifíquese en la Casilla 18 cualquier otro tipo de equipo instalado abordo, precedido de COM/ y/o NAV/, según corresponda.
+(3) Véase el documento sobre Requisitos de Interoperabilidad RTCA/EUROCAE para ATN Baseline 1 (ATN B1 INTEROP Standard – DO-280B/ED-110B) para servicios de enlace de datos/autorizaciones e información de control de tránsito aéreo/gestión de las comunicaciones de control de tránsito aéreo/verificación de micrófono de control de tránsito aéreo.
 
-(3) Si se usa la letra J, especifíquese en la casilla 18 el equipo instalado a bordo, precedido de DAT/, seguido de una o varias letras según corresponda.
+(4) Si se utiliza la letra R, los niveles de navegación basada en la performance que pueden alcanzarse se especificarán en la casilla 18 después del indicador PBN/. El Manual de Navegación Basada en la Performance (Doc. 9613) de OACI contiene material de orientación (guía) con respecto a la aplicación de la navegación basada en la performance a tramos de ruta, rutas o áreas específicos.
 
-(4) La información sobre capacidad de navegación se proporciona al ATC a efectos de autorización y encaminamiento.
+(5) La inclusión de la letra W indica que la aeronave dispone de aprobación para el vuelo en espacio aéreo RVSM. En la casilla 18 deberá incluirse la matrícula de la aeronave precedida de REG/.
 
-(5) Se utilizarán la letra P y la letra R para aeronaves aprobadas P-RNAV y B-RNAV, respectivamente.
+Los explotadores de vuelos en formación de aeronaves de Estado no insertarán la letra W en la casilla 10 del formulario del plan de vuelo de la OACI, sea cual fuere la situación de aprobación RVSM de las aeronaves en cuestión. Cuando tengan la intención de efectuar operaciones dentro del espacio aéreo RVSM como tránsito aéreo general (GAT), insertarán STS/NONRVSM en la casilla 18 del mencionado formulario.
 
-(6) La inclusión de la letra W indica que la aeronave dispone de aprobación para el vuelo en espacio aéreo RVSM. En la casilla 18 deberá incluirse la matrícula de la aeronave precedida de REG/.
+(6) La inclusión de la letra X indica que la aeronave dispone de aprobación para el vuelo en espacio aéreo MNPS. En la casilla 18 deberá incluirse la matrícula de la aeronave precedida de REG/.
 
-(7) La inclusión de la letra X indica que la aeronave dispone de aprobación para el vuelo en espacio aéreo MNPS. En la casilla 18 deberá incluirse la matrícula de la aeronave precedida de REG/.
+(7) Si se usa la letra Z, especifíquese en la Casilla 18 cualquier otro tipo de equipo o capacidades instalado a bordo, precedido de COM/, NAV/ y/o DAT/, según corresponda.
 
-(8) La inclusión de la letra Y indica que la aeronave está dotada de equipo radio con capacidad de asegurar una separación entre canales de 8,33 kHz.
+Los explotadores de aeronaves con aprobación P-RNAV, que únicamente usen el VOR/DME para determinación de posición, insertarán la letra Z en el ítem 10 del plan de vuelo y el descriptor EURPRNAV en el ítem 18 del plan de vuelo, precedido del indicador NAV/.
 
-Equipo de vigilancia.
+(8) La información sobre capacidad de navegación se proporciona al ATC a efectos de autorización y encaminamientos.
 
-Insértese una o dos de las letras siguientes, para indicar el tipo de equipo de vigilancia en funcionamiento, instalado a bordo:
+Equipo y capacidades de vigilancia.
 
-Equipo SSR.
+Insértese N si no se lleva a bordo equipo de vigilancia para la ruta que debe volarse o si el equipo no funciona, o
 
-| N | NIL |
+Insértese una o más de las siguientes letras, hasta un máximo de 20 caracteres, para indicar el tipo de equipo y /o capacidades de vigilancia, en funcionamiento, a bordo:
+
+SSR en Modos A y C.
+
+| A | Transpondedor - Modo A (4 dígitos-4.096 códigos) |
 | --- | --- |
-| A | Respondedor - Modo A (4 dígitos-4.096 códigos) |
-| C | Respondedor - Modo A (4 dígitos-4.096 códigos) y Modo C |
-| X | Respondedor - Modo S sin transmisión de identificación de aeronave ni de altitud de presión |
-| P | Respondedor - Modo S, comprendida la transmisión de altitud de presión pero sin transmisión de identificación de aeronave |
-| I | Respondedor - Modo S, comprendida la transmisión de identificación de aeronave pero sin transmisión de altitud de presión |
-| S | Respondedor - Modo S, comprendida la transmisión de altitud de presión y la transmisión de identificación de aeronave |
+| C | Transpondedor - Modo A (4 dígitos-4.096 códigos) y Modo C |
 
-Equipo ADS.
+SSR en Modo S
 
-| D | Función ADS |
+| E | Transpondedor – Modo S, incluye identificación de aeronave, altitud de presión y capacidad de señales espontáneas (squitter) ampliadas (ADS-B). |
 | --- | --- |
+| H | Transpondedor – Modo S, incluyendo identificación de aeronave, altitud de presión y capacidad de vigilancia mejorada. |
+| I | Transpondedor – Modo S, incluye identificación de aeronave pero no capacidad de altitud de presión. |
+| L | Transpondedor – Modo S, incluye identificación de aeronave, altitud de presión, capacidad de señales espontáneas (squitter) ampliadas (ADS-B) y de vigilancia mejorada. |
+| P | Transpondedor – Modo S, incluye altitud de presión pero no capacidad de identificación de aeronave. |
+| S | Transpondedor – Modo S, incluye tanto la capacidad de identificación de aeronave como altitud de presión. |
+| X | Transpondedor – Modo S sin transmisión de capacidad de identificación de aeronave ni de altitud de presión. |
+|  | Nota. La capacidad de vigilancia aumentada es la capacidad de la aeronave para transmitir datos en enlace descendente extraídos de la aeronave a través del transpondedor Modo S. |
+
+ADS-B.
+
+| B1 | ADS-B con capacidad de transmisión 1090 MHz ADS-B dedicada. |
+| --- | --- |
+| B2 | ADS-B con capacidad de transmisión y recepción 1090MHz ADS-B dedicada. |
+| U1 | ADS-B con capacidad de transmisión usando UAT. |
+| U2 | ADS-B con capacidad de transmisión y recepción usando UAT. |
+| V1 | ADS-B con capacidad de transmisión usando VDL Modo 4. |
+| V2 | ADS-B con capacidad de transmisión y recepción usando VDL Modo 4. |
+
+ADS-C.
+
+| D1 | ADS-C con capacidades FANS 1/A. |
+| --- | --- |
+| G1 | ADS-C con capacidades ATN. |
+
+Los caracteres alfanuméricos no indicados arriba están reservados.
+
+Ejemplo: ADE3RV/HB2U2V2G1
+
+Nota. La aplicación de vigilancia adicional debería indicarse en la casilla 18 a continuación del indicador SUR/.
 
 Casilla 13: Aeródromo de salida y hora (8 caracteres).
 
-Insértese el indicador de lugar OACI de cuatro letras del aeródromo de salida, o si no se ha asignado indicador de lugar;
+Insértese el indicador de lugar OACI de cuatro letras del aeródromo de salida, como se especifica en Indicadores de lugar (Doc. 7910 de OACI), o
 
-Insértese ZZZZ, e indiquese, en la Casilla 18, el nombre del aeródromo, precedido de DEP/, o si el plan de vuelo se ha recibido de una aeronave en vuelo;
+si no se ha asignado indicador de lugar,
 
-Insértese AFIL, e indiquese, en la Casilla 18, el indicador de lugar OACI de cuatro letras de la dependencia ATS de la cual pueden obtenerse datos del plan de vuelo suplementario, precedidos de DEP/;
+Insértese ZZZZ, e indíquese, en la Casilla 18, el nombre el nombre y lugar del aeródromo, precedido de DEP/…, o
+
+el primer punto de la ruta o la radiobaliza precedida de DEP/…, si la aeronave no ha despegado del aeródromo, o
+
+si el plan de vuelo se ha recibido de una aeronave en vuelo,
+
+Insértese AFIL, e indíquese, en la Casilla 18, el indicador de lugar OACI de cuatro letras de la dependencia ATS de la cual pueden obtenerse datos del plan de vuelo suplementario, precedidos de DEP/;
 
 Luego, «Sin ningún espacio»;
 
-Insértese para un plan de vuelo presentado antes de la salida, la hora prevista de fuera calzos, o para un plan de vuelo recibido de una aeronave en vuelo, la hora prevista o actual de paso sobre el primer punto de la ruta a la cual el plan de vuelo se refiere.
+Insértese para un plan de vuelo presentado antes de la salida, la hora prevista de fuera calzos (EOBT), o
+
+para un plan de vuelo recibido de una aeronave en vuelo, la hora prevista o actual de paso sobre el primer punto de la ruta a la cual se refiere el plan de vuelo.
 
 Casilla 15: Ruta.
 
 Insértese la primera velocidad de crucero como en (a) y el primer nivel de crucero como en (b), sin espacio alguno entre ellos;
 
-Luego, «Siguiendo la flecha»;
-
-Insértese la descripción de la ruta, como en (c).
+Luego, «Siguiendo la flecha»; Insértese la descripción de la ruta, como en (c).
 
 (a) Velocidad de crucero (máximo 5 caracteres).
 
@@ -180,7 +235,7 @@ Insértese la velocidad verdadera, para la primera parte o la totalidad del vuel
 
 Kilómetros por hora, mediante la letra K seguida de 4 cifras (ejemplo: K0830); o Nudos, mediante la letra N seguida de 4 cifras (ejemplo: N0485); o
 
-Numero de Mach, cuando la autoridad ATS competente lo haya prescrito, redondeando a las centésimas más próximas de unidad Mach, mediante la letra M seguida de 3 cifras (ejemplo: MO82).
+Número de Mach verdadero, cuando el proveedor designado para la prestación de servicios de tránsito aéreo lo haya prescrito, redondeando a las centésimas más próximas de unidad Mach, mediante la letra M seguida de 3 cifras (ejemplo: M082).
 
 (b) Nivel de crucero (máximo 5 caracteres).
 
@@ -188,41 +243,37 @@ Insértese el nivel de crucero proyectado para la primera parte o para toda la r
 
 Nivel de vuelo, expresado mediante una F seguida de 3 cifras (ejemplos: F085; F33O); o
 
-Nivel métrico normalizado en decenas de metros, expresado mediante una S seguida de 4 cifras, cuando lo indique la autoridad ATS competente (ejemplo: S113O); o
+Nivel métrico normalizado en decenas de metros, expresado mediante una S seguida de 4 cifras, cuando lo indique el proveedor designado para la prestación de servicios de tránsito aéreo (ejemplo: S113O); o
 
 Altitud en centenares de pies, expresada mediante una A seguida de 3 cifras (ejemplos: A045; A100); o
 
-Altitud en decenas de metros, expresada mediante una M seguida de 4 cifras (ejemplo: M0840);
+Altitud en decenas de metros, expresada mediante una M seguida de 4 cifras (ejemplo: M0840); o
 
-o respecto a los vuelos VFR no controlados, las letras VFR.
+respecto a los vuelos VFR no controlados, las letras VFR.
 
 (c) Ruta (incluyendo cambios de velocidad, nivel y/o reglas de vuelo).
 
 Vuelos a lo largo de las rutas ATS designadas.
 
-Insértese el designador de la primera ruta ATS si el aeródromo de salida está situado en la ruta ATS o conectado a ella, o las letras DCT seguidas del punto de encuentro de la primera ruta ATS, seguido del designador de la ruta ATS, si el aeródromo de salida no está en la ruta ATS ni conectado a ella.
+Insértese el designador de la primera ruta ATS si el aeródromo de salida está situado en la ruta ATS o conectado a ella, o si el aeródromo de salida no está en la ruta ATS ni conectado a ella, las letras DCT seguidas del punto de encuentro de la primera ruta ATS, seguido del designador de la ruta ATS.
 
-Luego, insértese cada punto en el cual esté previsto cambiar de velocidad o nivel, cambiar de ruta ATS (1), y/o cambiar de reglas de vuelo,
+Luego, insértese cada punto en el cual esté previsto comenzar un cambio de velocidad y/o nivel, o cambiar de ruta ATS(1), y/o cambiar de reglas de vuelo,
 
-Seguido, en cada caso, del designador del próximo tramo de ruta ATS, incluso si es el mismo que el precedente, o de DCT, si el vuelo hasta el punto próximo se va a efectuar fuera de una ruta designada, a no ser que ambos puntos estén definidos por coordenadas geográficas.
+Seguido, en cada caso, o del designador del próximo tramo de ruta ATS, incluso si es el mismo que el precedente, o de DCT, si el vuelo hasta el punto próximo se va a efectuar fuera de una ruta designada, a no ser que ambos puntos estén definidos por coordenadas geográficas.
 
 (1) Cuando se planee la transición entre una ruta ATS inferior y una ruta ATS superior, y cuando la orientación de dichas rutas sea la misma, no será necesario insertar el punto de transición.
 
 Vuelos fuera de las rutas ATS designadas.
 
-Insértense los puntos normalmente separados por no más de 30 minutos de tiempo de vuelo o por 370 km. (200 NM), incluyendo cada punto en el cual se piensa cambiar de velocidad o nivel, cambiar de derrota, o cambiar de reglas de vuelo; o cuando lo requiera la autoridad ATS competente,
+Insértense los puntos normalmente separados por no más de 30 minutos de tiempo de vuelo o por 370 km. (200 NM), incluyendo cada punto en el cual se piensa cambiar de velocidad o nivel, cambiar de derrota, o cambiar de reglas de vuelo; o cuando lo requiera la el proveedor designado para la prestación de servicios de tránsito aéreo,
 
-Definase la derrota de los vuelos que predominantemente siguen la dirección este-oeste entre los 70°N y los 70°S, por referencia a los puntos significativos formados por las intersecciones de paralelos de latitud en grados enteros, o medios, con meridianos espaciados a intervalos de 10° de longitud.
-
-Para los vuelos fuera de dichas latitudes las derrotas se definirán mediante puntos significativos formados por intersecciones de paralelos de latitud con meridianos normalmente espaciados a 20° de longitud.
-
-En la medida de lo posible, la distancia entre dos puntos significativos no excederá de una hora de tiempo de vuelo. Se establecerán otros puntos significativos según se considere necesario.
+Defínase la derrota de los vuelos que predominantemente siguen la dirección este-oeste entre los 70°N y los 70°S, por referencia a los puntos significativos formados por las intersecciones de paralelos de latitud en grados enteros, o medios, con meridianos espaciados a intervalos de 10° de longitud. Para los vuelos fuera de dichas latitudes las derrotas se definirán mediante puntos significativos formados por intersecciones de paralelos de latitud con meridianos normalmente espaciados a 20° de longitud. En la medida de lo posible, la distancia entre dos puntos significativos no excederá de una hora de tiempo de vuelo. Se establecerán otros puntos significativos según se considere necesario.
 
 Para los vuelos que predominantemente siguen la dirección norte-sur, defínanse derrotas por referencia a los puntos significativos formados por la intersección de meridianos en grados completos de longitud con paralelos especificados, espaciados a 5°.
 
 Insértese DCT entre puntos sucesivos, a no ser que ambos puntos estén definidos por coordenadas geográficas o por marcación y distancia.
 
-Úsese solamente la representación convencional de los datos que figuran en 1) a 5), que siguen, y SEPARESE cada elemento con un espacio.
+Úsese solamente la representación convencional de los datos que figuran en 1) a 6), que siguen, y SEPÁRESE cada elemento con un espacio.
 
 1) Ruta ATS (2 A 7 caracteres).
 
@@ -282,11 +333,13 @@ IFR si es de VFR a IFR
 
 El IFPS procesa la parte GAT de planes de vuelo mixtos GAT/OAT (civil/militar) cuando éstos afecten al área ECAC.
 
-Deberá indicarse el punto de cambio de OAT a GAT o viceversa de la manera siguiente: «Punto de cambio/GAT» o «Punto de cambio/OAT».
+Deberá indicarse el punto de cambio de OAT a GAT o viceversa de la manera siguiente:
 
-| Ejemplos: | N0400F280 ..... NTM/OAT TB6 |
+“Punto de cambio/GAT” o “Punto de cambio/OAT”
+
+| Ejemplos: | N0400F280.......... NTM/OAT TB6 |
 | --- | --- |
-| N0460F370 ..... TB6 NTM/GAT UR110 |
+| N0460F370.......... TB6 NTM/GAT UR110 |
 
 El IFPS asume que todos los planes de vuelo comienzan con control aéreo civil (GAT), a menos que se indique un cambio a GAT posteriormente en la ruta. En este caso asume que todo el tramo anterior al cambio en la ruta es OAT.
 
@@ -299,95 +352,130 @@ La letra C seguida de una barra oblicua; LUEGO el punto en el cual esté previst
 | C/48N050W/M082F290PLUS |
 | C/52N050W/M220F580F620 |
 
-Casilla 16: Aeródromo de destino y duración total prevista, aeródromo(s) de alternativa.
+Casilla 16: Aeródromo de destino y duración total prevista, aeródromo(s) de alternativa de destino.
 
 Aeródromo de destino y duración total prevista (8 caracteres) (1).
 
-Insértese el indicador de lugar OACI de cuatro letras del aeródromo de destino, seguido, sin un espacio, de la duración total prevista. o si no se ha asignado indicador de lugar,
+Insértese el indicador de lugar OACI de cuatro letras del aeródromo de destino. Como se especifica en Indicadores de lugar (Doc. 7910 de OACI), o si no se ha asignado indicador de lugar,
 
-Insértese ZZZZ seguido, sin un espacio, de la duración total prevista e INDIQUESE en la Casilla 18 el nombre del aeródromo, precedido de DEST/.
+Insértese ZZZZ e indíquese en la casilla 18 el nombre y lugar del aeródromo, precedido de DEST/.
 
-(1) En el caso de un plan de vuelo recibido de una aeronave en vuelo, la duración total prevista se cuenta a partir del primer punto de la ruta a la que se aplica el plan de vuelo.
+Después, sin dejar un espacio,
 
-Aeródromo(s) de alternativa (4 caracteres).
+Insértese la duración total prevista
 
-Insértese el(los) indicador(es) de lugar OACI de cuatro letras, de no más de dos aeródromos de alternativa, separados por un espacio, o si no se ha asignado un indicador de lugar del aeródromo de alternativa,
+(1) En el caso de un plan de vuelo recibido de una aeronave en vuelo, la duración total prevista se cuenta a partir del primer punto de la ruta a la que se aplica el plan de vuelo hasta el punto de terminación del plan de vuelo.
 
-Insértese ZZZZ e indiquese en la Casilla 18 el nombre del aeródromo, precedido de ALTN/
+Aeródromo(s) de alternativa de destino.
+
+Insértese el(los) indicador(es) de lugar OACI de cuatro letras, de no más de dos aeródromos de alternativa de destino, como se especifica en Indicadores de lugar (Doc. 7910 de OACI), separados por un espacio,
+
+o si no se ha asignado un indicador de lugar a los aeródromos de destino
+
+Insértese ZZZZ e indíquese en la Casilla 18 el nombre y lugar de los aeródromos de alternativa de destino, precedido de ALTN/.
 
 Casilla 18: otros datos.
 
-Insértese 0 (cero) si no hay otros datos, o cualquier otra información necesaria, preferentemente en el orden indicado a continuación, mediante el indicador apropiado seguido de una barra oblicua y de la información que ha de consignarse:
+Nota. El uso de indicadores no incluidos bajo este epígrafe pueden ser rechazados, procesados incorrectamente o perdidos.
+
+Los guiones o barras oblicuas deberían ser usados como se prescribe más adelante.
+
+Insértese 0 (cero) si no hay otros datos, o cualquier otra información necesaria, en el orden indicado a continuación, mediante el indicador apropiado seleccionado de los que se definen a continuación, seguido de una barra oblicua y de la información que ha de consignarse:
 
 | RFP/ | El formato RFP/Qn se empleará para indicar el número del plan de vuelo sustitutivo, donde «n» se sustituirá por «1» para la primera sustitución, «2» para la segunda sustitución, y así sucesivamente. |
 | --- | --- |
 |  |
 | Ejemplos: | RFP/Q1, RFP/Q2, etc. |
 | --- | --- |
-| EET/ | Designadores de puntos significativos o límites de la FIR y duración total prevista hasta esos puntos, o designadores de límites de la FIR cuando esté prescrito en acuerdos regionales de navegación aérea o por la autoridad ATS competente (1). |
+| STS/ | Razón del tratamiento especial por parte del ATS, ejemplo misión de búsqueda y salvamento, como sigue: |
 | --- | --- |
 |  |
+| ALTRV: | Para un vuelo operado de acuerdo con una reserva de altitud. |
+| --- | --- |
+| ATFMX: | Para un vuelo exento de medidas ATFM autorizadas por el proveedor designado para la prestación de servicios de tránsito aéreo. |
+| FFR: | Contraincendios. |
+| FLTCK: | Vuelo de calibración de ayudas para la navegación. |
+| HAZMAT: | Para vuelos que transportan mercancías peligrosas. |
+| HEAD: | Vuelos con tratamiento de jefe de estado. |
+| HOSP: | Vuelos médicos específicamente declarados por las autoridades sanitarias. |
+| HUM: | Vuelos que operan por razones humanitarias. |
+| MARSA: | Vuelos para los que una entidad militar asume la responsabilidad de separación de aeronaves militares. |
+| MEDEVAC: | Vuelos de evacuación de emergencias médicas con riesgo de vida. |
+| NONRVSM: | Vuelo que no cumple los requisitos RVSM y tengan intención de operar en el espacio aéreo RVSM. |
+| SAR: | Vuelos en misión de búsqueda y salvamento. |
+| STATE: | Vuelos militares, aduanas o policía. |
 
-(1) No es obligatorio insertar la duración total prevista hasta los límites de la FIR Madrid y Barcelona.
+Nota. El uso fraudulento de estos designadores podrá ser considerado un quebranto serio de los procedimientos con las consecuencias jurídicas establecidas para tales supuestos por las disposiciones aplicables, incluidas las medidas disciplinarias o sancionadoras que, en su caso, procedan.
 
-| Ejemplos: | EET/CAP0745 XYZ0830 |
-| --- | --- |
-|  | EET/EINN0204 |
-| RIF/ | Los detalles relativos a la ruta que lleva el nuevo aeródromo de destino, seguido del indicador de lugar OACI, de cuatro letras, correspondiente a dicho aeródromo. La ruta revisada debe ser objeto de renovación en vuelo de la autorización. |
-| --- | --- |
-|  |
-| Ejemplos: | RIF/DTA HEC KLAX |
-| --- | --- |
-|  | RIF/ESP G94 CLA APPH |
-| RIF/LEMD |
-| REG/ | Marcas de matrícula de la aeronave, si son distintas de la identificación de la aeronave consignada en la Casilla 7 y cuando en la Casilla 10 se incluyan las letras W o X. |
-| --- | --- |
-| SEL/ | Clave SELCAL, si está prescrito por la autoridad ATS competente. |
-| OPR/ | Nombre del explotador, si no se desprende claramente de la identificación de la aeronave consignada en la Casilla 7. |
-| STS/ | Razón del tratamiento especial por parte del ATS: |
-|  | – STS/HUM: Vuelos que operan por razones humanitarias. |
-| – STS/HOSP: Vuelos médicos específicamente declarados por las autoridades sanitarias. |
-| – STS/SAR: Vuelos en misión de búsqueda y salvamento. |
-| – STS/HEAD: Vuelos con tratamiento de Jefe de Estado. |
-| – STS/STATE: Otros vuelos de autoridades del Estado. |
-| – STS/PROTECTED: Vuelos que requieren una seguridad especial. Indica que el plan de vuelo sólo estará disponible para determinadas personas. |
-| – STS/EMER: Vuelos en situación de emergencia. |
-| – STS/RNAVINOP: Aeronave con sistema B-RNAV inoperativo. |
-| – STS/NONRNAV: Aeronave de Estado no equipada con RNAV. |
-| – STS/EXM833: Aeronave exonerada del requisito de transporte obligatorio de equipo de radio con capacidad de separación entre canales de 8,33 kHz. |
-| – STS/ Texto libre: Ejemplo: (un motor parado) STS/ONE ENG INOP. Si fuera necesario utilizar más de un designador en el mismo FPL se hará en campos STS/separados. |
-| Ejemplo: | STS/HEAD STS/PROTECTED. |
-| --- | --- |
+Otras razones para el tratamiento especial por parte del ATS serán indicadas tras el designador RMK/.
 
-Nota: estos designadores deben ser utilizados únicamente por las autoridades estatales o sanitarias apropiadas. El uso fraudulento de estos designadores se considera un quebranto serio de los procedimientos y será sancionado como tal.
+| PBN/ | Indicación de capacidades RNAV y/o RNP. Incluir tanto los indicadores de abajo como los aplicados al vuelo, con un máximo de 8 entradas, es decir, un total de no más de 16 caracteres. |
+| --- | --- |
+|  | ESPECIFICACIONES RNAV |
+| --- | --- |
+| A1 | RNAV 10 (RNP 10) |
+| B1 | RNAV 5 todos los sensores permitidos |
+| B2 | RNAV 5 GNSS |
+| B3 | RNAV 5 DME/DME |
+| B4 | RNAV 5 VOR/DME |
+| B5 | RNAV 5 INS o IRS |
+| B6 | RNAV 5 LORANC |
+| C1 | RNAV 2 todos los sensores permitidos |
+| C2 | RNAV 2 GNSS |
+| C3 | RNAV 2 DME/DME |
+| C4 | RNAV 2 DME/DME/IRU |
+| D1 | RNAV 1 todos los sensores permitidos |
+| D2 | RNAV 1 GNSS |
+| D3 | RNAV 1 DME/DME |
+| D4 | RNAV 1 DME/DME/IRU |
+|  | ESPECIFICACIONES RNP |
+| L1 | RNP 4 |
+| O1 | RNP 1 Básico todos los sensores permitidos |
+| O2 | RNP 1 Básico GNSS |
+| O3 | RNP 1 Básico DME/DME |
+| O4 | RNP 1 Básico DME/DME/IRU |
+| S1 | RNP APCH |
+| S2 | RNP APCH con BARO-VNAV |
+| T1 | RNP AR APCH con RF (se requiere autorización especial) |
+| T2 | RNP AR APCH sin RF (se requiere autorización especial) |
 
-| TYP/ | Tipo(s) de aeronave, precedido(s), en caso necesario, del (de los) número(s) de aeronaves, cuando ZZZZ esté insertado en la Casilla 9. |
+La combinación de caracteres alfanuméricos no indicados arriba está reservada.
+
+| NAV/ | Datos importantes relativos al equipo de navegación, diferente de los que se especifiquen en PBN/, según lo requiera el proveedor designado para la prestación de servicios de tránsito aéreo. Indíquese el aumento GNSS bajo este indicador, dejando un espacio entre dos o más sistemas de aumentación, ej. NAV/GBAS SBAS. Nota. Los explotadores de aeronaves con aprobación P-RNAV, que únicamente usen el VOR/DME para determinación de posición, insertarán la letra Z en el ítem 10 del plan de vuelo y el descriptor EURPRNAV en el ítem 18 del plan de vuelo, a continuación del indicador NAV/. |
 | --- | --- |
-|  |
-| PER/ | Datos de performance de la aeronave, cuando así lo prescriba la autoridad ATS competente. |
-| COM | Datos importantes relativos al equipo de comunicaciones según lo requiera la autoridad ATS competente. (ejemplo: COM/UHF solamente). |
-|  |
-| DAT/ | Datos importantes relacionados con la capacidad de enlace de datos, utilizando una o varias de las letras S, H, V y M. |
-|  |
-| Ejemplo: | – DAT/S para enlace de datos por satélite. |
+| COM/ | Se indicarán aplicaciones o capacidades de comunicaciones no especificadas en la casilla 10a. |
+| DAT/ | Se indicarán aplicaciones o capacidades de datos no especificadas en la casilla 10a. |
+| SUR/ | Se incluirán aplicaciones o capacidades de vigilancia no especificadas en la casilla 10b. |
+| DEP/ | Nombre y lugar del aeródromo de salida, cuando ZZZZ se inserte en la Casilla 13, o de la dependencia ATS de la cual se pueden obtener datos del plan de vuelo suplementario, cuando AFIL se inserte en la Casilla 13. Para aeródromos no incluidos en el listado de la Publicación de Información Aeronáutica, se indicará la ubicación como sigue: |
+|  | Con 4 cifras que indiquen la latitud en grados y en decenas y unidades de minutos, seguido de «N» (Norte) o «S» (Sur), seguido de 5 cifras que indiquen la longitud en grados y en decenas y unidades de minutos, seguido de «E» (Este) o «W» (Oeste). Complétese el número correcto de cifras, cuando sea necesario, insertando ceros Ejemplo: 4620N 07805W)(11 caracteres). O, con la marcación y distancia desde el punto significativo más cercano, como sigue: La identificación del punto significativo seguido por la marcación desde el punto significativo, con 3 cifras, indicando los grados magnéticos, seguidos de la distancia desde el punto, con 3 cifras, que expresen millas náuticas. En áreas de alta latitud donde está indicado por la autoridad competente que esa referencia de datos magnéticos es impracticable, deben usarse grados verdaderos. Completar el número correcto de cifras, cuando sea necesario, insertando ceros, e.j un punto a 180º magnéticos y a una distancia de 40 millas náuticas desde VOR «DUB» debería indicarse así: DUB180040. O, El primer punto de la ruta (nombre o LAT/LONG) o la radiobaliza, si la aeronave no ha despegado desde un aeródromo. |
+| DEST/ | Nombre y lugar del aeródromo de destino, si se inserta ZZZZ en la Casilla 16. Para aeródromos no incluidos en el listado de la Publicación de Información Aeronáutica, se indicará la localización en LAT/LONG o la marcación y distancia desde el punto significativo más cercano, como se describe anteriormente en DEP/. |
+| DOF/ | Fecha de salida del vuelo, en formato de 6 dígitos (DOF/AAMMDD), dos para el año, dos para el mes y dos para el día, por ese orden. |
+| REG/ | La nacionalidad o marca común y registro de matrícula de la aeronave, si difieren de la identificación de la aeronave consignada en la Casilla 7 y cuando en la casilla 10 se incluyan las letras W o X. |
+| EET/ | Designadores de puntos significativos o límites de la FIR y duración total prevista desde el despegue hasta esos puntos o límites de la FIR cuando esté prescrito en acuerdos regionales de navegación aérea o por el proveedor designado para la prestación de servicios de tránsito aéreo(1). Ejemplos: EET/CAP0745 XYZ0830 EET/EINN0204 (1) No es obligatorio insertar la duración total prevista hasta los límites de la FIR Madrid y Barcelona. |
+| SEL/ | Clave SELCAL, para aeronaves equipadas. |
 | --- | --- |
-|  | – DAT/H para enlace de datos HF. |
-| – DAT/V para enlace de datos VHF. |
-| – DAT/M para enlace de datos SSR en modo S. |
-| NAV/ | Datos importantes relativos al equipo de navegación según lo requiera la autoridad ATS competente (ejemplo: NAV/INS). |
+| TYP/ | Tipo(s) de aeronave, precedido(s), si fuera necesario -sin espacio- del número de aeronaves de cada tipo, separados por un espacio, si en la Casilla 9 se ha insertado ZZZZ. |
+| Ejemplo: | TYP/2F15 5F5 3B2 |
 | --- | --- |
-|  |
-| DEP/ | Nombre del aeródromo de salida, cuando ZZZZ esté insertado en la Casilla 13, o el indicador de lugar OACI de cuatro letras de la ubicación de la dependencia ATS de la cual pueden obtenerse datos del plan de vuelo suplementario, cuando AFIL esté insertado en la Casilla 13. |
-|  |
-| DEST/ | Nombre del aeródromo de destino, si se inserta ZZZZ en la Casilla 16. |
-| ALTN/ | Nombre del(los) aeródromo(s) de alternativa, si se inserta ZZZZ en la Casilla 16. |
-| RALT/ | Nombre de aeródromo(s) de alternativa en ruta. |
-| CODE/ | Dirección de aeronave (expresada como código alfanumérico de seis caracteres hexadecimales) cuando lo requiera la autoridad ATS competente. Ejemplo: «F00001» es la dirección de aeronave más baja contenida en el bloque específico administrado por la OACI. |
-|  |
-| RMK/ | Cualquier otra observación en lenguaje claro, cuando así lo requiera la autoridad ATS competente o cuando se estime necesario. |
-|  |
-| DOF/ | El formato DOF/AAMMDD se empleará para indicar, cuando se determine, la fecha de realización del vuelo, donde AAMMDD se sustituirá por seis dígitos, dos para el año, dos para el mes y dos para el día, por ese orden. |
-|  |
+| CODE/ | Dirección de aeronave (expresada como código alfanumérico de seis caracteres hexadecimales) cuando lo requiera el proveedor designado para la prestación de servicios de tránsito aéreo. Ejemplo: «F00001» es la dirección de aeronave más baja contenida en el bloque específico administrado por la OACI. |
+| --- | --- |
+| DLE/ | Demora en ruta o en espera, insertar punto(s) significativos en la ruta donde está prevista una demora, seguida por el tiempo de demora usando cuatro cifras, horas y minutos (hhmm). |
+| Ejemplo: | DLE/MDG0030 |
+| --- | --- |
+| OPR/ | Designador OACI o nombre del explotador, si es diferente de la identificación de la aeronave consignada en la Casilla 7. |
+| --- | --- |
+| ORGN/ | Dirección AFTN de ocho letras del originador u otros datos apropiados del contacto, en caso de que el originador del plan de vuelo no pueda ser identificarse fácilmente, como lo disponga el proveedor designado para la prestación de servicios de tránsito aéreo. Nota. En algunas áreas, los centros de recepción de plan de vuelo, pueden insertar el identificador ORGN/ y la dirección AFTN del originador automáticamente. |
+| PER/ | Datos de performance de la aeronave, indicados por una sola letra como se especifica en los Procedimientos para los Servicios de Navegación Aérea- Operación de Aeronaves (PANS-OPS, Doc 8168) Volumen I- Procedimientos de vuelo de OACI, cuando así lo prescriba el proveedor designado para la prestación de servicios de tránsito aéreo. |
+| ALTN/ | Nombre del(los) aeródromo(s) de alternativa, si se inserta ZZZZ en la Casilla 16.(2) |
+| RALT/ | Indicador de OACI de cuatro letras para aeródromos de alternativa en ruta, tal como se especifica en Indicadores de lugar (Doc 7910), o el nombre de los aeródromos de alternativa en ruta, si no tiene indicador asignado.(2) |
+| TALT/ | Indicador(es) de lugar OACI de cuatro letras para aeródromos de alternativa de despegue, como se especifica en el Doc. 7910 de OACI, Indicadores de lugar, o nombre de los aeródromos de alternativa de despegue, si no tienen indicador asignado.(2) (2) Para aeródromos no incluidos en el listado de la Publicación de Información Aeronáutica, se indicará la ubicación en LAT/LONG o marcación y distancia desde el punto significativo más cercano, como se describe anteriormente en DEP/. |
+| RIF/ | Los detalles relativos a la ruta que lleva el nuevo aeródromo de destino, seguido del indicador de lugar OACI, de cuatro letras, correspondiente a dicho aeródromo. La ruta revisada está sujeta a la renovación de autorización en vuelo. |
+| --- | --- |
+| Ejemplos: | RIF/DTA HEC KLUX. |
+| --- | --- |
+|  | RIF/ESP G94 CLA YPPH |
+| RMK/ | Cualquier otra observación en lenguaje claro, cuando así lo requiera el proveedor designado para la prestación de servicios de tránsito aéreo o cuando se estime necesario. Nota. Estos indicadores se utilizarán sin perjuicio de que Reglamentos comunitarios establezcan otros indicadores adicionales. |
+| --- | --- |
 
 Casilla 19: Información suplementaria.
 
@@ -688,4 +776,6 @@ c) Toda otra información pertinente al plan de vuelo que resulte de interés pa
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245852_image4.png)
 
-> Se modifica el punto 2 por el art. único.6 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-15637
+> Se modifica por el art. único.11 de la Orden PRE/941/2013, de 24 de mayo. Ref. BOE-A-2013-5671
+
+> Se modifica el apartado 2.2 por el art. único.11 de la Orden PRE/2912/2005, de 19 de septiembre. Ref. BOE-A-2005-15637

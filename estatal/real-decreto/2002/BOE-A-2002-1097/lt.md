@@ -94,7 +94,7 @@ Se designarán como regiones de información de vuelo aquellas partes del espaci
 
 3.2.5.2.3. Aeródromos controlados.
 
-Se designarán como aeródromos controlados aquellos aeródromos en los que se determine que ha de facilitarse servicio de control de tránsito eo al tránsito de los mismos.
+Se designarán aeródromos controlados aquellos aeródromos en los que se determine que ha de facilitarse servicio de control de tránsito aéreo al tránsito de los mismos.
 
 3.2.6. Clasificación del espacio aéreo.
 
@@ -228,15 +228,21 @@ Nota.–El texto de orientación relativo a los requisitos de navegación asocia
 
 3.2.7.5 Planificación de vuelo.
 
-3.2.7.5.1 Los explotadores de aeronaves aprobadas para operaciones B-RNAV, como se indica en el párrafo 3.2.7.1.1.2, incluirán la letra «R» en la casilla 10 del plan de vuelo.
+3.2.7.5.1 Los explotadores de aeronaves aprobadas para operaciones B-RNAV, incluirán en el plan de vuelo la disponibilidad del equipo y capacidades pertinentes para RNAV 5.
 
-3.2.7.5.2 Además de la letra «R», los explotadores de aeronaves aprobadas para operaciones P-RNAV, como se indica en el párrafo 3.2.7.1.1.1, también deberán incluir la letra «P» en la casilla 10 del plan de vuelo.
+Nota 1. Las aprobaciones RNAV 5 y B-RNAV son aprobaciones equivalentes.
 
-Nota.–Los operadores deberán cumplir con los requisitos relativos a la inclusión del equipamiento de la aeronave en los planes de vuelo repetitivos (RPL).
+Nota 2. Si la aeronave está aprobada para RNAV 5 no es necesario insertar información adicional en el plan de vuelo para indicar que la aeronave está aprobada para B-RNAV.
 
-3.2.7.5.3 Cuando una falla o degradación afecte a la aeronave de manera que no sea posible cumplir las funcionalidades y requisitos de precisión P-RNAV expresadas en el párrafo 3.2.7.1.1.1 antes de su salida, el explotador de la aeronave no insertará la letra «P» en la casilla 10 del plan de vuelo. Consecuentemente, para un vuelo para el cual el plan de vuelo haya sido presentado, se presentará un nuevo plan de vuelo y se cancelará el anterior. Para un vuelo que sea operado de acuerdo con un plan de vuelo repetitivo (RPL), el plan de vuelo repetitivo será cancelado y se presentará un nuevo plan de vuelo apropiado.
+3.2.7.5.2 Los explotadores de aeronaves aprobadas para operaciones P-RNAV que no utilicen únicamente el VOR/DME para determinar la posición deberán indicar en el plan de vuelo la disponibilidad del equipo y las capacidades pertinentes para RNAV 1.
 
-3.2.7.5.4 Adicionalmente, cuando una falla o degradación afecte a la aeronave de manera que no sea posible cumplir con las funcionalidades y requisitos de precisión B-RNAV expresadas en el párrafo 3.2.7.1.1.2 antes de su salida, el explotador de la aeronave no insertará las letras “S”, “R” o “P” en la casilla 10 del plan de vuelo. Como estos vuelos requieren una especial actuación por parte del ATC, la casilla 18 del plan de vuelo contendrá STS/ RNAVINOP. Consecuentemente, para un vuelo para el cual el plan de vuelo haya sido presentado, se presentará un nuevo plan de vuelo y se cancelará el anterior. Para un vuelo que sea operado de acuerdo con un plan de vuelo repetitivo (RPL), el plan de vuelo repetitivo será cancelado y se presentará un nuevo plan de vuelo apropiado.
+Nota 1. Las aprobaciones P-RNAV, excepto aquellas asociadas a aeronaves que utilizan el VOR/DME únicamente para determinación de posición, y las aprobaciones RNAV 1 son aprobaciones equivalentes.
+
+Nota 2. Si la aeronave está aprobada para RNAV 1 no es necesario insertar información adicional en el plan de vuelo para indicar que la aeronave está aprobada para P-RNAV.
+
+3.2.7.5.3 Los explotadores de aeronaves con aprobación P-RNAV, que usen el VOR/DME únicamente para determinación de posición, insertarán la letra Z en el ítem 10 del plan de vuelo y el descriptor EURPRNAV en el ítem 18 del plan de vuelo, precedido del indicador NAV/.
+
+3.2.7.5.4 (Suprimido).
 
 3.2.7.6 Altitudes mínimas de vuelo para operaciones en rutas RNAV.
 
@@ -470,13 +476,11 @@ Esto implica que, en caso de que se utilice, el nivel de crucero VFR seleccionad
 
 3.2.11.4 Los designadores de las rutas ATS distintas de las rutas normalizadas de salida y de llegada se seleccionarán de conformidad con los principios expuestos en el Apéndice N.
 
-3.2.11.5 Las rutas normalizadas de salida y de llegada así como los procedimientos conexos se identificarán de conformidad con los principios expuestos en el Adjunto 3 del Apéndice N.
+3.2.11.5 Las rutas normalizadas de salida y de llegada así como los procedimientos conexos se identificarán de conformidad con los principios expuestos en el adjunto 3 del apéndice N.
 
-Nota 1: En el Manual de planificación de servicios de tránsito aéreo (Doc 9426 de OACI) figura un texto de orientación relativo al establecimiento de rutas ATS.
+Nota 1. En el Manual de planificación de servicios de tránsito aéreo (Doc. 9426 de OACI) figura un texto de orientación relativo al establecimiento de rutas ATS.
 
-Nota 2:En el Adjunto 5 del Apéndice N se incluyen textos de orientación sobre el establecimiento de rutas ATS definidas por VOR.
-
-Nota 3: El espaciado entre derrotas paralelas o entre ejes de rutas ATS paralelas respecto a las cuales se requiere un tipo RNP, dependerá del tipo de RNP correspondiente especificado. En el Adjunto 6 del Apéndice N se incluyen textos de orientación sobre el establecimiento de rutas ATS para uso de las aeronaves con equipos RNAV y sobre el espaciado entre rutas basadas en tipos de RNP.
+Nota 2. En el adjunto 5 del apéndice N se incluyen textos de orientación sobre el establecimiento de rutas ATS definidas por VOR.
 
 3.2.12. Establecimiento de puntos de cambio.
 
@@ -490,7 +494,7 @@ El establecimiento de puntos de cambio se limitará a los tramos de ruta de 110 
 
 3.2.13. Establecimiento e identificación de puntos significativos.
 
-3.2.13.1. Se establecerán puntos significativos con el fin de definir una ruta ATS y/o en relación con los requisitos de los servicios de tránsito aéreo, para la información relativa a la marcha de las aeronaves en vuelo.
+3.2.13.1. Se establecerán puntos significativos con el fin de definir una ruta ATS o un procedimiento de aproximación por instrumentos y/o en relación con los requisitos de los servicios de tránsito aéreo, para información relativa a la marcha de las aeronaves en vuelo.
 
 3.2.13.2. Los puntos significativos se identificarán por medio de designadores.
 
@@ -1911,6 +1915,8 @@ Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter
 3.7.6. Información sobre ''nubes'' de materiales radiactivos y de sustancias químicas tóxicas.
 
 Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter local, acerca de la liberación en la atmósfera de materiales radiactivos o sustancias químicas tóxicas que podrían afectar al espacio aéreo utilizado por los vuelos dentro de su zona de responsabilidad.
+
+> Se modifica el Capítulo 2 por el art. único 3 de la Orden PRE/941/2013, de 24 de mayo. Ref. BOE-A-2013-5671
 
 > Se modifican los Capítulos 2, 3, 6 y 7 por el art. único 5 a 8 de la Orden PRE/1802/2011, de 24 de junio. Ref. BOE-A-2011-11268
 

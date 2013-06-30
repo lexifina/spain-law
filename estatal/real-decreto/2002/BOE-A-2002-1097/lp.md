@@ -841,7 +841,11 @@ Diálogo con un meteorólogo o con otra persona calificada sobre las condiciones
 
 Contacto radar.
 
-(Ver Identificación radar).
+Situación que existe cuando la posición radar de determinada aeronave se ve y se identifica en una presentación de la situación.
+
+Control de afluencia.
+
+Medidas encaminadas a regular el tránsito dentro de un espacio aéreo determinado, a lo largo de una ruta determinada, o con destino a un determinado aeródromo, a fin de aprovechar al máximo el espacio aéreo.
 
 Control de calidad.
 
@@ -850,6 +854,10 @@ Técnicas operacionales y actividades utilizadas para cumplimentar los requisito
 Control de operaciones.
 
 La autoridad ejercida respecto a la iniciación, continuación, desviación o terminación de un vuelo en interés de la seguridad de la aeronave y de la regularidad y eficacia del vuelo.
+
+Control por procedimientos.
+
+Término empleado para indicar que, para suministrar el servicio de control de tránsito aéreo, no se requiere la información que se deriva de un sistema de vigilancia ATS.
 
 Control radar.
 
@@ -921,6 +929,10 @@ Dependencia de control de tránsito aéreo (o controlador de tránsito aéreo) q
 
 (1) Véase definición de dependencia/controlador aceptante.
 
+Dependencia de control de aproximación.
+
+Dependencia establecida para facilitar servicio de control de tránsito aéreo a los vuelos controlados que lleguen a uno o más aeródromos o salgan de ellos.
+
 Dependencia de control de tránsito aéreo.
 
 Expresión genérica que se aplica, según el caso, a un centro de control de área, a una oficina de control de aproximación o a una torre de control de aeródromo.
@@ -952,6 +964,10 @@ Despegue de una pista a partir de una intersección.
 DETRESFA.
 
 Palabra clave utilizada para designar una fase de peligro.
+
+Dirección de aeronave.
+
+Combinación única de 24 bits que puede asignarse a una aeronave para los fines de las comunicaciones aeroterrestres, la navegación y la vigilancia.
 
 Dirigible.
 
@@ -1082,6 +1098,18 @@ Espacio aéreo RVSM.
 Volumen de espacio aéreo determinado, desde nivel de vuelo 290 y hasta un nivel de vuelo superior especificado, dentro del cual se aplica, en virtud de un acuerdo regional de navegación aérea, una separación vertical mínima entre aeronaves de 300 metros (1.000 pies).
 
 Nota: Por espacio aéreo EUR RVSM deberá entenderse un espacio aéreo RVSM que comprende aquella parte del espacio aéreo de las regiones EUR y AFI indicada en AIP por la autoridad ATS competente.
+
+Especificación para la navegación.
+
+Conjunto de requisitos relativos a la aeronave y a la tripulación de vuelo necesarios para dar apoyo a las operaciones de la navegación basada en la performance dentro de un espacio aéreo definido. Existen dos clases de especificaciones para la navegación:
+
+a) Especificación para la performance de navegación requerida (RNP): Especificación para la navegación basada en la navegación de área que incluye el requisito de control y alerta de la performance, designada por medio del prefijo RNP; por ej. RNP 4, RNP APCH.
+
+b) Especificación para la navegación de área (RNAV): Especificación para la navegación basada en la navegación de área que no incluye el requisito de control y alerta de la performance, designada por medio del prefijo RNAV; por ejemplo, RNAV 5, RNAV 1.
+
+Nota 1. El Manual sobre la navegación basada en la performance (PBN) (Doc. 9613 de OACI), volumen II, contiene directrices detalladas sobre las especificaciones para la navegación.
+
+Nota 2. El término RNP, definido anteriormente como «declaración de la performance de navegación necesaria para operar dentro de un espacio aéreo definido», se ha retirado del Reglamento de la circulación aérea puesto que el concepto de RNP ha sido remplazado por el concepto de PBN. El término RNP sólo se utiliza ahora en el contexto de especificaciones de navegación que requieren vigilancia de la performance y alerta, p. ej., RNP 4 se refiere a la aeronave y los requisitos operacionales, comprendida una performance lateral de 4 NM, con la vigilancia de performance y alerta a bordo que se describen en el Doc. 9613 de OACI.
 
 Estación aeronáutica.
 
@@ -1299,6 +1327,10 @@ Grupo motor crítico.
 
 El grupo motor cuyo fallo produce el efecto más adverso en las características de la aeronave relacionadas con el caso de vuelo de que se trate.
 
+Guía vectorial.
+
+Suministro a las aeronaves de guía para la navegación en forma de rumbos específicos basados en el uso de un sistema de vigilancia ATS.
+
 Guía vectorial radar.
 
 El suministro a las aeronaves de guía para la navegación en forma de rumbos específicos basados en la observación de una presentación radar.
@@ -1365,13 +1397,13 @@ Hora prevista de salida (ETD).
 
 Hora a la que el piloto o el explotador prevé que una aeronave podrá iniciar la maniobra de despegue de un aeródromo.
 
+Identificación.
+
+Situación que existe cuando la indicación de posición de determinada aeronave se ve en una presentación de la situación y se identifica positivamente
+
 Identificación de aeronave.
 
 Grupo de letras o de cifras, o una combinación de ambas, idéntico al distintivo de llamada de una aeronave para las comunicaciones aeroterrestres o dicho distintivo expresado en clave, que se utiliza para identificar las aeronaves en las comunicaciones entre centros terrestres de los servicios de tránsito aéreo.
-
-Identificación radar.
-
-La situación que existe cuando la indicación de posición radar de determinada aeronave se observa en la presentación radar y el controlador de tránsito aéreo la identifica positivamente.
 
 IFR.
 
@@ -1393,9 +1425,9 @@ Incursión en la pista.
 
 Todo suceso en un aeródromo que suponga la presencia incorrecta de una aeronave, vehículo o persona en la zona protegida de una superficie designada para el aterrizaje o despegue de una aeronave.
 
-Indicación de posición radar (RPI).
+Indicación de la posición.
 
-Indicación visual, en una presentación radar, en forma asimbólica o simbólica, de la posición de una aeronave obtenida por radar primario o secundario de vigilancia.
+Indicación visual, en una presentación de la situación, en forma asimbólica o simbólica, de la posición de una aeronave, un vehículo de aeródromo u otro objeto.
 
 Indicador de lugar.
 
@@ -1597,6 +1629,12 @@ Navegación a estima.
 
 Estimación o determinación de una posición futura a partir de una posición conocida, a base de dirección, tiempo y velocidad.
 
+Navegación basada en la performance (PBN).
+
+Requisitos para la navegación de área basada en la performance que se aplican a las aeronaves que realizan operaciones en una ruta ATS, en un procedimiento de aproximación por instrumentos o en un espacio aéreo designado.
+
+Nota. Los requisitos de performance se expresan en las especificaciones para la navegación (especificaciones RNAV, especificaciones RNP) en función de la precisión, integridad, continuidad, disponibilidad y funcionalidad necesarias para la operación propuesta en el contexto de un concepto para un espacio aéreo particular.
+
 Navegación de área (RNAV).
 
 Método de navegación que permite la operación de aeronaves en cualquier trayectoria de vuelo deseada, dentro de la cobertura de las ayudas para la navegación basadas en tierra o en el espacio, o dentro de los límites de capacidad de las ayudas autónomas, o de una combinación de ambas.
@@ -1795,11 +1833,7 @@ La proyección ortogonal de una trayectoria de vuelo o parte de la misma sobre l
 
 Performance de comunicación requerida (RCP).
 
-Declaración de los requisitos de ‟performance” para comunicaciones operacionales en relación con funciones ATM específicas.
-
-Performance de navegación requerida (RNP).
-
-Declaración de la precisión de performance de navegación necesaria para operar dentro de un espacio aéreo definido.
+Declaración de los requisitos de performance para comunicaciones operacionales en relación con funciones ATM específicas.
 
 Período de descanso.
 
@@ -1931,6 +1965,10 @@ Premisas convencionales.
 
 Conjunto de reglas convenidas que rigen la manera o la secuencia en que puede combinarse un conjunto de datos para formar una comunicación que tenga sentido.
 
+Presentación de la situación.
+
+Visualización electrónica de la posición y movimiento de la aeronave y de otra información que se requiera.
+
 Presentación radar.
 
 Presentación electrónica de información derivada del radar que representa la posición y movimiento de las aeronaves.
@@ -1939,17 +1977,27 @@ Principios relativos a factores humanos.
 
 Principios que se aplican al diseño, certificación, instrucción, operaciones y mantenimiento aeronáuticos y cuyo objeto consiste en establecer una interfaz segura entre los componentes humano y de otro tipo del sistema mediante la debida consideración de la actuación humana.
 
-Procedimiento de aproximación frustrada
+Procedimiento de aproximación frustrada.
 
 Procedimiento que hay que seguir si no se puede proseguir la aproximación.
 
-Procedimiento de aproximación por instrumentos.
+Procedimiento de aproximación por instrumentos (IAP).
 
-Serie de maniobras predeterminadas realizadas por referencia a los instrumentos de a bordo, con protección específica contra los obstáculos desde el punto de referencia de aproximación inicial, o cuando sea el caso, desde el inicio de una ruta definida de llegada hasta un punto a partir del cual sea posible hacer el aterrizaje; y luego si no se realiza éste, hasta una posición en la cual se apliquen los criterios de circuitos de espera o de margen de franqueamiento de obstáculos en ruta.
+Serie de maniobras predeterminadas realizadas por referencia a los instrumentos de a bordo, con protección específica contra los obstáculos desde el punto de referencia de aproximación inicial, o cuando sea el caso, desde el inicio de una ruta definida de llegada hasta un punto a partir del cual sea posible hacer el aterrizaje; y luego si no se realiza éste, hasta una posición en la cual se apliquen los criterios de circuitos de espera o de margen de franqueamiento de obstáculos en ruta. Los procedimientos de aproximación por instrumentos se clasifican como sigue:
 
-Procedimiento de aproximación de precisión.
+Procedimiento de aproximación con guía vertical (APV): Procedimiento de aproximación por instrumentos en el que se utiliza guía lateral y vertical, pero que no satisface los requisitos establecidos para las operaciones de aproximación y aterrizaje de precisión.
 
-Procedimiento de aproximación por instrumentos basado en los datos de azimut y de trayectoria de planeo proporcionados por el ILS o el PAR.
+Procedimiento de aproximación de precisión (PA): Procedimiento de aproximación por instrumentos en el que se utiliza guía lateral y vertical de precisión con los mínimos determinados por la categoría de operación.
+
+Nota. Guía lateral y vertical se refiere a la guía proporcionada ya sea por:
+
+a) una ayuda terrestre para la navegación; o bien
+
+b) una base de datos de navegación generada por ordenador.
+
+Procedimiento de aproximación que no es de precisión (NPA).
+
+Procedimiento de aproximación por instrumentos en el que se utiliza guía lateral pero no guía vertical.
 
 Procedimiento de espera.
 
@@ -1962,6 +2010,12 @@ Procedimiento previsto para permitir que la aeronave pierda altitud en el tramo 
 Procedimiento de inversión.
 
 Procedimiento previsto para permitir que la aeronave invierta el sentido en el tramo de aproximación inicial de un procedimiento de aproximación por instrumentos. Esta secuencia de maniobras puede requerir virajes reglamentarios o virajes de base.
+
+Procesamiento de datos.
+
+Serie sistemática de operaciones realizadas con los datos.
+
+Nota. Las operaciones pueden ser intercalación, clasificación, cálculo o cualquier otra transformación u ordenación, con el fin de obtener o revisar información, o de modificar la representación de la misma.
 
 Pronóstico.
 
@@ -1987,7 +2041,7 @@ Publicación de información aeronáutica.
 
 La publicada por cualquier Estado, o con su autorización, que contiene información aeronáutica, de carácter duradero, indispensable para la navegación aérea.
 
-Puesto de Alerta
+Puesto de Alerta.
 
 Dependencia destinada a recibir información del público en general con respecto a las aeronaves en emergencia y a remitir información al centro coordinador de salvamento.
 
@@ -1998,6 +2052,14 @@ Puesto de estacionamiento de aeronave.
 Puesto de estacionamiento de helicópteros.
 
 Puesto de estacionamiento de aeronaves que permite el estacionamiento de helicópteros y, en caso de que se prevean operaciones de rodaje aéreo, la toma de contacto y la elevación inicial.
+
+Punto común.
+
+Punto sobre la superficie de la tierra común a las derrotas de dos aeronaves, que se utiliza como base para la aplicación de separación (p. ej., punto significativo, punto de recorrido, ayuda para la navegación aérea, punto de referencia).
+
+Punto crítico.
+
+Sitio del área de movimiento de un aeródromo con antecedentes o riesgo potencial de colisión o de incursión en la pista, y en el que es necesario que pilotos y conductores presten mayor atención.
 
 Punto de aproximación frustrada.
 
@@ -2113,7 +2175,7 @@ Dispositivo radioeléctrico para la detección que proporciona información acer
 
 Radar de aproximación de precisión. (PAR)
 
-Equipo de radar primario usado para determinar la posición de una aeronave durante la aproximación final, en azimut y elevación en relación con una trayectoria nominal de aproximación, y en distancia en relación con un punto de toma de contacto (1)
+Equipo de radar primario usado para determinar la posición de una aeronave durante la aproximación final, en azimut y elevación en relación con una trayectoria nominal de aproximación, y en distancia en relación con un punto de toma de contacto(1)
 
 (1) Los radares de aproximación de precisión sirven para que pueda darse guía por comunicación radio a los pilotos durante las fases finales de la aproximación para aterrizar.
 
@@ -2297,6 +2359,10 @@ Señal de identificación de aeródromo.
 
 Señal colocada en un aeródromo para ayudar a que se identifique el aeródromo desde el aire.
 
+Separación basada en los procedimientos.
+
+Separación utilizada al proporcionar control por procedimientos.
+
 Separación no radar.
 
 La separación utilizada cuando la información de posición de la aeronave se obtiene de fuentes que no sean radar.
@@ -2373,6 +2439,10 @@ Servicio de tránsito aéreo.
 
 Expresión genérica que se aplica, según el caso, a los servicios de información de vuelo, alerta, asesoramiento de tránsito aéreo, control de tránsito aéreo (servicios de control de área, control de aproximación o control de aeródromo) y servicio de información de vuelo de aeródromo.
 
+Servicio de vigilancia ATS.
+
+Término empleado para referirse a un servicio proporcionado directamente mediante un sistema de vigilancia ATS.
+
 Servicio fijo aeronáutico.
 
 Servicio de telecomunicaciones entre puntos fijos determinados, que se suministra primordialmente para seguridad de la navegación aérea y para que sea regular, eficiente y económica la operación de los servicios aéreos.
@@ -2419,9 +2489,9 @@ RR10 Radiodeterminación.
 
 Determinación de la posición, velocidad u otras características de un objeto, u obtención de información relativa a estos parámetros, mediante las propiedades de propagación de las ondas radioeléctricas.
 
-Símbolo de posición radar (RPS).
+Símbolo de la posición.
 
-Indicación visual, en forma simbólica, en una presentación radar, de la posición de una aeronave obtenida mediante el procesamiento automático de los datos relativos a la posición derivados del radar primario y/o secundario de vigilancia.
+Indicación visual, en forma simbólica, en una presentación de la situación, de la posición de una aeronave, un vehículo de aeródromo u otro objeto que se obtenga después de procesar automáticamente los datos sobre la posición que se deriven de cualquier fuente.
 
 Simplex.
 
@@ -2434,6 +2504,20 @@ Sistema de aeronave basado en señales de respondedor del radar secundario de vi
 Sistema de calidad.
 
 La estructura de organización, procedimientos, procesos y recursos necesarios para realizar la gestión de calidad.
+
+Sistema de gestión de la seguridad operacional (SMS).
+
+Enfoque sistemático para la gestión de la seguridad operacional, que incluye la estructura orgánica, líneas de responsabilidad, políticas y procedimientos necesarios.
+
+Sistema de gestión del tránsito aéreo.
+
+Sistema que proporciona ATM mediante la integración de recursos humanos, información, tecnología, instalaciones y servicios, en colaboración, con el apoyo de comunicaciones, navegación y vigilancia basadas en tierra, aire y/o en el espacio.
+
+Sistema de vigilancia ATS.
+
+Término genérico que significa, según el caso, ADS-B, PSR, SSR o cualquier sistema similar basado en tierra que permite la identificación de aeronaves.
+
+Nota. Un sistema similar basado en tierra es aquél para el cual se ha comprobado, por evaluación u otra metodología comparativa, que los niveles de seguridad operacional y de performance son iguales o mejores que los correspondientes a los SSR de monoimpulso.
 
 Sistema integrado para el tratamiento inicial de planes de vuelo (IFPS).
 
@@ -2466,6 +2550,12 @@ Superficie definida prevista para determinar los obstáculos que hay que tener e
 Superficie isobárica tipo.
 
 Superficie isobárica utilizada con carácter mundial para representar y analizar las condiciones de la atmósfera.
+
+Supervisión de la trayectoria de vuelo.
+
+Empleo de sistemas de vigilancia ATS para proporcionar a las aeronaves información y asesoramiento sobre desviaciones significativas respecto a la trayectoria nominal de vuelo, incluidas las desviaciones respecto a los términos de las autorizaciones del control de tránsito aéreo otorgadas.
+
+Nota. Algunas aplicaciones pueden requerir una tecnología específica, por ejemplo radar, para apoyar la función de supervisión de la trayectoria de vuelo.
 
 Suplemento AIP.
 
@@ -2506,6 +2596,10 @@ Tiempo durante el cual se pilota una aeronave solamente por medio de instrumento
 Tintas hipsométricas.
 
 Sucesión de tonalidades o gradaciones de color utilizadas para representar la escala de elevaciones.
+
+Tipo de RCP.
+
+Un indicador, por ejemplo, RCP 240, que representa los valores asignados a los parámetros RCP para el tiempo, la continuidad, la disponibilidad y la integridad de las transacciones de comunicación.
 
 Tipo de RNP.
 
@@ -2667,7 +2761,7 @@ Vigilancia dependiente automática-contrato (ADS-C).
 
 Medio que permite al sistema de tierra y a la aeronave establecer, mediante enlace de datos, las condiciones de un acuerdo ADS-C, en el cual se indican las condiciones en que han de iniciarse los informes ADS-C, así como los datos que deben figurar en los mismos.
 
-Nota. El término abreviado ‟contrato ADS” se utiliza comúnmente para referirse a contrato ADS relacionado con un suceso, contrato de solicitud ADS, contrato ADS periódico o modo de emergencia.
+Nota.–El término abreviado ‟contrato ADS” se utiliza comúnmente para referirse a contrato ADS relacionado con un suceso, contrato de solicitud ADS, contrato ADS periódico o modo de emergencia.
 
 Vigilancia dependiente automática-radiodifusión (ADS-B).
 
@@ -2695,9 +2789,9 @@ a) la distancia máxima a la que pueda verse y reconocerse un objeto de color ne
 
 b) la distancia máxima a la que puedan verse e identificarse las luces de aproximadamente mil candelas ante un fondo no iluminado.
 
-Nota 1. Estas dos distancias tienen distintos valores en una masa de aire de determinado coeficiente de extinción y la distancia de b) varía con la iluminación del fondo. La distancia de a) está representada por el alcance óptico meteorológico (MOR)
+Nota 1.–Estas dos distancias tienen distintos valores en una masa de aire de determinado coeficiente de extinción y la distancia de b) varía con la iluminación del fondo. La distancia de a) está representada por el alcance óptico meteorológico (MOR)
 
-Nota 2. La definición se aplica a las observaciones de visibilidad en los informes locales ordinarios y especiales, a las observaciones de la visibilidad reinante y mínima notificadas en los informes METAR y SPECI y a las observaciones de la visibilidad en tierra.
+Nota 2.–La definición se aplica a las observaciones de visibilidad en los informes locales ordinarios y especiales, a las observaciones de la visibilidad reinante y mínima notificadas en los informes METAR y SPECI y a las observaciones de la visibilidad en tierra.
 
 Visibilidad en tierra.
 
@@ -2929,7 +3023,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | ATFM | Gestión de afluencia del Tránsito Aéreo |
 | ATIS | Servicio automático de información terminal |
 | ATM | Gestión del Tránsito Aéreo |
-| ATP | A las...(hora) o en...(lugar) |  |
+| ATP | A las...(hora) o en...(lugar) |
 | ATS | Servicios de tránsito aéreo |
 | ATTN | Atención |
 | ATZ | Zona de tránsito de aeródromo |
@@ -3302,13 +3396,12 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | LIH | Luz de gran intensidad |
 | LIL | Luz de baja intensidad |
 | LIM | Luz de intensidad media |
-| LLZ | Localizador |
 | LM | Radiofaro de localización, intermedio |
 | LMT | Hora media local |
 | LNG | Larga (usada para indicar el tipo de aproximación deseado o requerido) |
 | LO | Conécteme a un receptor perforador |
 | LO | Radiofaro de localización exterior |
-| LOC | Local o localmente o emplazamiento situado o situado |
+| LOC | Localizador y Local o localmente o emplazamiento situado o situado |
 | LONG | Longitud |
 | LORAN | (Sistema de navegación de larga distancia) |
 | LR | El último mensaje que recibí fue... |
@@ -3465,6 +3558,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | PAR | Radar para aproximación de precisión |
 | PARL | Paralelo |
 | PAX | Pasajero (s) |
+| PBN | Navegación basada en la performance |
 | PCD | Prosiga o prosigo |
 | PCN | Número de clasificación de pavimentos |
 | PDG | Pendiente de diseño del procedimiento |
@@ -3533,6 +3627,7 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | RCH | Llegar o llegando a |
 | RCL | Eje de pista |
 | RCLL | Luces de eje de pista |
+| RCP | Performance de comunicación requerida |
 | RDH | Altura de referencia (ILS) |
 | RDL | Radial |
 | RDO | Radio |
@@ -3555,13 +3650,12 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | RMK | Observación |
 | RNAV | Navegación de área |
 | RNG | Radiofaro direccional |
-| RNP | Performance de navegación requerida |
+| RNP | Especificación para la performance de navegación requerida |
 | ROBEX | Sistema regional de intercambio de boletines |
 | ROC | Velocidad ascensional |
 | ROD | Velocidad vertical de descenso |
 | ROFOR | Pronóstico de ruta (en clave meteorológica aeronáutica) |
 | RON | Recepción solamente |
-| RPI | Indicación de posición radar |
 | RPL | Plan de vuelo repetitivo |
 | RPLC | Reemplazar o reemplazado |
 | RPS | Símbolo de posición radar |
@@ -3825,6 +3919,8 @@ Espacio aéreo de dimensiones definidas sobre el territorio y/o las aguas jurisd
 | YES | Sí (afirmativo) |
 | YR | Su (de usted) |
 | ZS | Zona de seguridad |
+
+> Se modifican los Capítulos 1 y 2 por el art. único 1 y 2 de la Orden PRE/941/2013, de 24 de mayo. Ref. BOE-A-2013-5671
 
 > Se modifican los Capítulos 1 y 2 por el art. único 1 y 2 de la Orden PRE/1802/2011, de 24 de junio. Ref. BOE-A-2011-11268
 
