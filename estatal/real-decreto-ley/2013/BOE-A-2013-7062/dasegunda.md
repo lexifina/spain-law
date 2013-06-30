@@ -1,0 +1,7 @@
+## Disposición adicional segunda. Criterios para el cálculo del índice de evolución de los ingresos tributarios del Estado para la liquidación de la participación de las entidades locales en tributos del Estado del año 2011.
+
+A los efectos de la liquidación definitiva de la participación de las Entidades locales en los tributos del Estado correspondiente al año 2011 y de la aplicación del artículo 121 del Texto Refundido de la Ley Reguladora de las Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, el índice de evolución de los ingresos tributarios del Estado entre el año 2004 y el año 2011, se determinará con los criterios establecidos en el artículo 20 de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias que consisten en:
+
+1. Los ingresos tributarios del Estado del año 2011 están constituidos por la recaudación estatal en el ejercicio excluidos los recursos tributarios cedidos a las Comunidades Autónomas por el Impuesto sobre la Renta de las Personas Físicas, Impuesto sobre el Valor Añadido y por los Impuestos Especiales, en los términos previstos en el artículo 20 de la Ley 22/2009.
+
+2. Por lo que se refiere al cálculo de los ingresos tributarios del Estado del año 2004 o 2006, se utilizarán los criterios establecidos en la letra c) de la disposición transitoria cuarta de la Ley 22/2009, considerando como año base el año 2004 o 2006, según proceda.

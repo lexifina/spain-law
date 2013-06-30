@@ -1,0 +1,1 @@
+Téngase en cuenta que esta disposición se declara expresamente vigente en lo que no se oponga al Real Decreto-ley 7/2013, de 28 de junio Ref. BOE-A-2013-7062#ddunica., según establece la disposición derogatoria única.2, y en tanto no se proceda a la aprobación del desarrollo reglamentario previsto en el artículo 2.

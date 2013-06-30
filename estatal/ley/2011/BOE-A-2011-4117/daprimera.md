@@ -1,7 +1,5 @@
 ## Disposición adicional primera. Responsabilidad por incumplimiento de normas de Derecho comunitario.
 
-1. Las Administraciones Públicas y cualesquiera otras entidades integrantes del sector público que, en el ejercicio de sus competencias, incumplieran obligaciones derivadas de normas del derecho de la Unión Europea, dando lugar a que el Reino de España sea sancionado por las instituciones europeas asumirán, en la parte que les sea imputable, las responsabilidades que se devenguen de tal incumplimiento, de conformidad con lo previsto en esta disposición y en las de carácter reglamentario que, en desarrollo y ejecución de la misma, se dicten.
+(Derogada)
 
-2. El Consejo de Ministros, previa audiencia de las Administraciones o entidades afectadas, será el órgano competente para declarar la responsabilidad por dicho incumplimiento y acordar, en su caso, la compensación de dicha deuda con las cantidades que deba transferir el Estado a la Administración o entidad responsable por cualquier concepto, presupuestario y no presupuestario. En dicha resolución que se adopte se tendrán en cuenta los hechos y fundamentos contenidos en la resolución de las instituciones europeas, se recogerán los criterios de imputación tenidos en cuenta para declarar la responsabilidad, y se acordará la extinción total o parcial de la deuda. Dicho acuerdo se publicará en el Boletín Oficial del Estado.
-
-3. Se habilita al Gobierno para desarrollar reglamentariamente lo establecido en la presente disposición, regulando las especialidades que resulten aplicables a las diferentes Administraciones Públicas y entidades a que se refiere el apartado 1 de esta disposición.
+> Se deroga por la disposición derogatoria única d) del Real Decreto-ley 7/2013, de 28 de junio. Ref. BOE-A-2013-7062.
