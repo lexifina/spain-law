@@ -1,0 +1,9 @@
+## Artículo 622.
+
+1. Las personas que desempeñen el cargo de Vicesecretario General, Jefe del Servicio de Inspección, Director del Gabinete Técnico, Director de la Escuela Judicial, Director del Centro de Documentación Judicial y Director de la Oficina de Comunicación ostentarán la denominación de Letrados Mayores.
+
+2. El acceso a estos puestos, en cuanto Jefaturas de Servicio, se producirá con ocasión de vacante en aquéllos.
+
+3. Estas Jefaturas de Servicio deberán ser objeto de renovación cada cinco años, correspondiendo al Pleno la designación de quienes vayan a ocupar dichos puestos, salvo en el caso del Director de la Oficina de Comunicación cuya designación corresponde al Presidente del Tribunal Supremo y del Consejo General del Poder Judicial.
+
+> Se añade por el art. único.1 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.

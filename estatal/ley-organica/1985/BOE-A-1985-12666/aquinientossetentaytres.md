@@ -1,0 +1,7 @@
+## Artículo 573.
+
+1. Cualquier Juez o Magistrado en servicio activo en la carrera judicial podrá presentar su candidatura para ser elegido Vocal por el turno judicial, salvo que se halle en alguna de las situaciones que, conforme a lo establecido en esta Ley, se lo impidan.
+
+2. El Juez o Magistrado que, deseando presentar su candidatura para ser designado Vocal, ocupare cargo incompatible se comprometerá a formalizar su renuncia al mencionado cargo si resultare elegido.
+
+> Se añade por el art. único.1 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.

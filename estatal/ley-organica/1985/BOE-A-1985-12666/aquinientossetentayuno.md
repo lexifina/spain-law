@@ -1,0 +1,7 @@
+## Artículo 571.
+
+1. El cese anticipado de los Vocales del Consejo General del Poder Judicial dará lugar a su sustitución, procediendo el Presidente del Tribunal Supremo y del Consejo General del Poder Judicial a ponerlo en conocimiento de la Cámara competente para que proceda a la propuesta de nombramiento de un nuevo Vocal conforme al orden establecido en el artículo 567.4 de la presente Ley Orgánica.
+
+2. El nuevo Vocal ejercerá su cargo por el tiempo que reste hasta la finalización del mandato del Consejo General del Poder Judicial.
+
+> Se añade por el art. único.1 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.

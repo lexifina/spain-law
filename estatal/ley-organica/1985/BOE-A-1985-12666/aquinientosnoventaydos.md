@@ -1,0 +1,5 @@
+## Artículo 592.
+
+El Vicepresidente del Tribunal Supremo será miembro nato de la Sala de Gobierno de dicho Tribunal y le corresponderá proponer a ésta y al Presidente la adopción de aquellas decisiones orientadas a garantizar el correcto funcionamiento del Tribunal Supremo, así como velar por la exacta ejecución de los acuerdos adoptados por la Sala de Gobierno.
+
+> Se añade por el art. único.1 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.

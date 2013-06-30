@@ -1,0 +1,11 @@
+## Artículo 618.
+
+1. Los profesores de la Escuela Judicial serán seleccionados por la Comisión Permanente mediante concurso de méritos.
+
+2. Su nombramiento se hará por un período inicial de dos años, pudiendo luego ser renovado anualmente, sin que en ningún caso pueda extenderse más allá de un total de diez años.
+
+3. Quedarán en situación de servicios especiales en la carrera judicial o, en su caso, en el cuerpo de funcionarios de procedencia.
+
+4. También podrán prestarse servicios en la Escuela Judicial en régimen de contratación laboral de duración determinada.
+
+> Se añade por el art. único.1 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.
