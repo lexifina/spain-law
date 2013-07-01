@@ -106,8 +106,6 @@ El Gestor Técnico del Sistema publicará en el SL-ATR (Sistema Logístico de Ac
 
 Dicha información se publicará antes del vigésimo día laborable del mes siguiente al del reparto definitivo.
 
-> Téngase en cuenta que toda referencia al balance o reparto «n+2» se entenderá referida al balance o reparto diario, según establece el apartado quinto de la Resolución de 7 de febrero de 2013, en la redacción dada por el apartado primero.2 de la Resolución de 30 de abril de 2013. Ref. BOE-A-2013-5128.
-
 > Se modifica el título del apartado 7.2 y el primer párrafo del apartado 7.2.1 por los apartados segundo y tercero de la Resolución de 7 de febrero de 2013. Ref. BOE-A-2013-1464.
 
 > Téngase en cuenta que a partir del 1 de julio de 2013 toda referencia al balance o reparto «n+2» se entenderá referida al balance o reparto «n+1», según establece el apartado quinto de la citada Resolución.
