@@ -1,12 +1,17 @@
 ## ANEXO II
 
-## Clasificación teórica de variedades de trigos duros
+## Clasificación teórica (*) de las variedades de trigos duros en función de su IGC
 
-| GRUPO | VARIEDAD |
+| IGC (**) | VARIEDAD |
 | --- | --- |
-| 1 | Ayllon, Burgos, Calero, Carpio, Catervo, Ciccio, Cimbel, Claudio, Don Jaime, Don Jose, Don Rafael, Don Sebastian, Duratec, Epidoro, Euroduro, Imhotep, Latinur, Levante, y Vitrosol. |
-| 2 | Alacon, Alfaro, Amilcar, Ancalei, Antesia, Antologia, Ariesol, Asdrubal, Averroes, Beldur, Boabdil, Bolenga, Bolido, Bolo, Bronte, Capri, Colosseo, Core, Debano, Don Francisco, Don Javier, Don Juan, Duilio, Duroi, Estopa, Grecale, Ismur, Italo, Khandur, Kiko Nick, Maestrale, Molino, Moncayo, Orjaune, Pedroso, PR22D78, Prospero, Ramirez, Regallo, Saragolla, Semolero, Taranto, Vitrico y Vitromax. |
-| 3 | Artemide, Astrodur, Avispa, Calcas, Canciller, Cannizzo, Carioca, Dakter, Don Pedro, Donduro, Durbel, Hispasano, Iride, Mexa, Pelayo, Simeto, Vitronero y Vivadur. |
-| Sin asignación * | Altaraos, Arcobaleno, Arcoduro, Arquero, Astigi, Baztan, Bombasi, Bonitec, Borgia, Borla, Camacho, Canyon, Chago, Concadoro, Crater, Don Ricardo, Dorondon, Duraron, Durcal, Durtres, Estribo, Fabio, Gallareta, Granda, Illora, Kanakis, Krucialle, Licinius, Mellaria, Mykerinos, Navajo, Nautilur, Nefer, Paramo td-330, Quijano, Rio Zujar, Roqueño, Sajel, Santadur, Seneca, Serracin, Severo, Solea, Sorrento, Soteño, Sula, Tango, Tempradur, Tiedra, Toño, Valira, Vetrodur, Vitron. |
+| IGC ≥ 105 | Canciller, Carpio, Cimbel, Aceres, Don Isidoro, Levante, Don Oro, Duramonte, Don Sebastian, Cannizzo, Sculptur, Catervo, Don Jaime, Averroes, Ayllon, Catasta, Ducados, Don Jose, Don Rafael, Calero, Concadoro, Saragolla, Athoris, Burgos, Latinur, Vitrosol, Pedroso, Claudio, Glucodur, Grecale, Boniduro, Don Valentin, Gigadur, Vítrico, Imhotep, Duilio, Boabdil, Alacon, Bolo, Ciccio, Aliron, Euroduro y Simeto. |
+| 100 ≤ IGC < 105 | Bronte, Antología, Don Francisco, Ariesol, Don Javier, Italo, Quijano, Don Juan, Ancalei, Vivadur, Bolido, Alfaro, Ismur, Debano, Molino, Astrodur, Estopa, Duroi, Ramirez, Core, Colosseo, Taranto, Asdrubal, Maestrale, Garrido, Serafo Nick, Vitromax, Moncayo, Amilcar, Regallo, Semolero, Mimmo, Prospero, Khandur, Kiko Nick y Beldur. |
+| 98 ≤ IGC < 100 | Calcas, Carioca, Ginseng, Pladur, Avispa, Don Pedro, Iride, Pelayo, Donduro, Durbel, Mexa, Vitronero, Don Ricardo, Nefer, Hispasano, Licinius, Durcal, Krucial, Seneca, Canyon, Gallatera, Durtres, Guallardo, Severo, Mellaria, Lusodur, Dorondon, Solea, Sula, Arcobaleno, Roqueño y Vitron. |
 
-* No existen datos para la asignación o no cumplen los requisitos de los grupos anteriores.
+(*) Se trata de una clasificación teórica. El IGC de una muestra podrá diferir de los valores reflejados en la tabla.
+
+(**) El IGC se ha calculado como porcentaje de la media del «IGC» para las variedades testigo (Amilcar, Avispa, Gallareta y Simeto) igualada a 100 y resultante de efectuar la siguiente operación:
+
+(Pr x 40%) + (IG x 30%) + (IC x 20%) + (Pe x 10%).
+
+> Se modifica por el art. único.12 del Real Decreto 190/2013, de 15 de marzo. Ref. BOE-A-2013-3630.

@@ -464,7 +464,7 @@ Medir el tiempo en minutos transcurrido desde el momento de introducir la bola e
 
 12. GLUTEN
 
-> Téngase en cuenta que este método se sustituye por el descrito en la norma UNE-EN ISO 21415-1 “Trigo y harina de trigo. Contenido de gluten. Parte 1: Determinación del gluten húmedo mediante un método manual”, según establece la disposición final 1.4º del Real Decreto 1615/2010, de 7 de diciembre. Ref. BOE-A-2010-19103#dfprimera
+> Téngase en cuenta que este método se sustituye por el descrito en la norma UNE-EN ISO 21415-2 “Trigo y harina de trigo. Contenido de gluten. Parte 2: Determinación de gluten húmedo por medios mecánicos”, según establece la disposición final 1 del Real Decreto 190/2013, de 15 de marzo. Ref. BOE-A-2013-3630
 
 13. FARINÓGRAFO BRABENDER
 
@@ -654,6 +654,8 @@ Este método sirve para determinar la presencia de persulfato amónico en harina
 
 Extender 6 g de la muestra en la cápsula Petri. Añadir unos 3 ml de reactivo. Al cabo de unos minutos aparecen unas manchas azules.
 
-> Se sustituyen los métodos 2, 3, 4, 12 y 14 por las normas UNE indicadas en la final 1 del Real Decreto 1615/2010, de 7 de diciembre. Ref. BOE-A-2010-19103#dfprimera
+> Se sustituye el método 12 por el descrito en la norma UNE indicada en la disposición final 1 del Real Decreto 190/2013, de 15 de marzo. Ref. BOE-A-2013-3630
+
+> Se sustituyen los métodos 2, 3, 4, 12 y 14 por las normas UNE indicadas en la disposición final 1 del Real Decreto 1615/2010, de 7 de diciembre. Ref. BOE-A-2010-19103#dfprimera
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 168, de 14 de julio de 2011. Ref. BOE-A-2011-12109.
