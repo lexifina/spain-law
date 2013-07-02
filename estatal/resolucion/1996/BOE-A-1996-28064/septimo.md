@@ -56,7 +56,9 @@ La prestación del servicio de guardia, de ocho días, en estos partidos judicia
 
 Fuera del horario expresado, permanecerán en situación de continua localización, para atender puntualmente a cualquier incidencia propia del servicio de guardia que pudiera suscitarse.
 
-Si durante la rotación prevista en el párrafo primero, hubiera asistido a la guardia un funcionario (Oficial, Auxiliar o Agente), el día de descanso posterior a la guardia, sólo corresponderá al que hubiese trabajado el domingo.
+Los médicos forenses que hayan realizado ese servicio de guardia, no trabajarán al día siguiente de la salida de guardia. En los casos en los que las funciones médico-forenses obligatorias, derivadas del servicio de guardia, impidan el disfrute de la jornada de descanso al día siguiente de su finalización, y con la finalidad de garantizar la correcta prestación del servicio en el Instituto de Medicina Legal, esta se podrá disfrutar en los diez días laborables siguientes a la finalización de la misma.
+
+Si durante la rotación prevista en el párrafo primero, hubiera asistido a la guardia un funcionario (Gestión Procesal y Administrativa, Tramitación Procesal y Administrativa y Auxilio Judicial), el día de descanso posterior a la guardia, solo corresponderá al que hubiese trabajado el domingo.
 
 El resto de la plantilla que no esté incluida en este turno de guardia, realizará el horario general establecido para el ámbito de la Administración de Justicia.
 
@@ -153,5 +155,7 @@ d) Los funcionarios que asistan a la guardia en situación de permanencia semana
 e) En aquellas localidades, en las que existan servicios comunes u otros órganos que presten apoyo al servicio de guardia, el Director General de Relaciones con la Administración de Justicia, o en su caso los órganos competentes de las Comunidades Autónomas, que les hayan sido transferidas las competencias de medios personales de la Administración de Justicia, podrán acordar la incorporación de este personal al servicio de guardia.
 
 Estos funcionarios prestarán el servicio de guardia de la misma forma y con las mismas compensaciones, según el tipo de guardia previsto en esta resolución.
+
+> Se modifica el apartado 6 por el art. único de la Resolución de 14 de junio de 2013. Ref. BOE-A-2013-7095.
 
 > Se modifica por el art. único de la Resolución de 4 de junio de 2003. Ref. BOE-A-2003-12098.
