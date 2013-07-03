@@ -1,0 +1,3 @@
+## Disposición transitoria única. Compensación económica por actuaciones arbitrales anteriores a la entrada en vigor de este real decreto.
+
+Lo previsto en este real decreto será de aplicación a las compensaciones económicas por las actuaciones realizadas entre el 29 de septiembre de 2012 y la fecha de entrada en vigor del presente real decreto por los expertos designados como árbitros por la Comisión Consultiva Nacional de Convenios Colectivos para dictar los laudos a que se refieren los artículos 23 y 24 del Real Decreto 1362/2012, de 27 de septiembre, por el que se regula la Comisión Consultiva Nacional de Convenios Colectivos.
