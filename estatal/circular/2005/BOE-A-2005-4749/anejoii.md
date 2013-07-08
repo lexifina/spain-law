@@ -188,37 +188,101 @@ Medidas de seguridad: Nivel: Medio.
 
 ## Operaciones exteriores (*)
 
-Finalidad del fichero y usos previstos del mismo: Tramitación de órdenes de cobro y pago en divisas.
+Responsable del fichero.
 
-Personas físicas afectadas: Beneficiarios de transferencias ordenadas por Bancos, Organismos internacionales, Administraciones públicas y empleados del Banco de España.
+Banco de España.
 
-Procedencia y procedimiento de recogida de los datos de carácter personal:
+Responsable de protección de datos del fichero.
 
-Los datos proceden de Administraciones públicas, del propio interesado o de su representante legal y de otras personas distintas del interesado o de su representante.
+Departamento de Sistemas de Pago.
 
-Se recogen mediante declaraciones o formularios. El soporte utilizado para su obtención es: soporte papel, soporte magnético/informático y transmisión electrónica por vía telemática.
+Derechos de acceso, rectificación, cancelación y oposición.
 
-Estructura básica del fichero y tipos de datos de carácter personal incluidos en él:
+Departamento de Sistemas de Pago.
 
-DNI/NIF.
+C/ Alcalá, 48.
 
-Nombre y apellidos.
+28014 Madrid.
 
-Dirección.
+Tipo de fichero.
 
-Datos bancarios.
+De carácter interno u operativo.
 
-Transacciones financieras.
+Finalidad del fichero y usos previstos del mismo.
 
-Cesiones de datos de carácter personal: Las cesiones, actuales o previstas, tienen como destinatarias a las entidades de crédito nacionales o extranjeras a las que se dirige la transferencia.
+Tramitación de órdenes de cobro y pago en divisas y mantenimiento de depósitos en divisas de organismos públicos.
 
-Transferencias de datos de carácter personal a países terceros: Entidades de crédito extranjeras.
+Tipo de finalidad y usos previstos del fichero:
 
-Responsable del fichero: Banco de España.
+– Otras finalidades.
 
-Servicio o unidad ante el que se pueden ejercer los derechos de acceso, rectificación, cancelación y oposición: Departamento de Sistemas de Pago.
+Origen de los datos.
 
-Medidas de seguridad: Nivel: Medio.
+– El propio interesado o su representante legal.
+
+– Otras personas físicas.
+
+– Entidad privada.
+
+– Administraciones Públicas.
+
+Colectivos o categorías de interesados.
+
+– Empleados.
+
+– Contribuyentes y sujetos obligados.
+
+– Representantes legales.
+
+– Beneficiarios.
+
+Estructura básica del fichero y tipos de datos de carácter personal incluidos en él
+
+– Datos especialmente protegidos:
+
+No incluye datos de este tipo.
+
+– Datos relativos a la comisión de infracciones:
+
+• Datos relativos a infracciones administrativas.
+
+– Datos de carácter identificativo:
+
+• NIF/DNI.
+
+• Nombre y apellidos.
+
+• Dirección.
+
+• Teléfono.
+
+• Firma/huella.
+
+– Otros datos tipificados:
+
+• Económicos, financieros y de seguros.
+
+Sistema de tratamiento.
+
+Automatizado.
+
+Medidas de seguridad.
+
+Nivel medio.
+
+Cesiones de datos de carácter personal.
+
+– Otros órganos de la Administración del Estado.
+
+– Órganos judiciales.
+
+– Entidades de crédito.
+
+– Otras entidades financieras.
+
+Transferencias de datos de carácter personal a países terceros
+
+– Entidades financieras.
 
 (*) Nombre anterior: Datos correspondientes a las operaciones exteriores.
 
@@ -1787,6 +1851,8 @@ No hay previstas cesiones de datos.
 Transferencias de datos de carácter personal a países terceros:
 
 No hay previstas transferencias de datos.
+
+> Se modifica por la Circular 2/2013, de 27 de junio. Ref. BOE-A-2013-7467.
 
 > Se modifica por la Circular 3/2012, de 28 de marzo. Ref. BOE-A-2012-4804.
 
