@@ -68,29 +68,29 @@ De acuerdo con lo establecido en el artículo 24.2, a la solicitud de canje del 
 
 ## G) Autorización especial para conducir vehículos que transporten mercancías peligrosas
 
-1. De acuerdo con lo establecido en el artículo 27.1, para obtener la autorización especial, a la solicitud suscrita por el interesado se acompañarán los documentos que se indican en el apartado A).1 párrafos a) y c), así como:
+1. De acuerdo con lo establecido en el artículo 27.1, para obtener la autorización especial, a la solicitud suscrita por el interesado se acompañarán los documentos que se indican en el apartado A).1 párrafos a), b) y c), así como:
 
-a) Certificado expedido por el centro de formación que haya impartido el curso en el que se acredite que el solicitante ha participado con aprovechamiento en un curso de formación para conductores de vehículos que transporten mercancías peligrosas.
+a) Certificado expedido por el centro de formación que haya impartido el curso en el que se acredite que el solicitante ha participado con aprovechamiento en un curso de formación inicial básico para conductores de vehículos que transporten mercancías peligrosas.
 
 b) Informe de aptitud psicofísica a que se hace referencia en el apartado A).1 párrafo f), cuando el solicitante no sea titular de un permiso de conducción en vigor de alguna de las clases señaladas en el artículo 45.1, párrafo b).
 
-2. De acuerdo con lo establecido en el artículo 28.2, para obtener la prórroga de la autorización especial, a la solicitud suscrita por el interesado se acompañarán los siguientes documentos:
+2. De acuerdo con lo establecido en el artículo 28.2, para obtener la prórroga de la autorización especial, a la solicitud suscrita por el interesado se acompañarán los documentos que se indican en el apartado A).1 párrafos b) y c), así como:
 
-a) Certificación acreditativa de haber seguido con aprovechamiento un curso de actualización y perfeccionamiento y superado las pruebas y ejercicios prácticos individuales correspondientes.
+a) Certificado expedido por el centro de formación que haya impartido el curso en el que se acredite que el solicitante ha seguido con aprovechamiento un curso de reciclaje básico y, en su caso, de especialización, o, en su lugar, a elección del titular de la autorización, de formación inicial básico y, en su caso, de especialización, así como de haber superado los ejercicios prácticos individuales correspondientes.
 
 b) Fotocopia de la autorización que se pretende prorrogar.
 
 c) Informe de aptitud psicofísica a que se hace referencia en el apartado A).1 párrafo f), cuando el solicitante no sea titular de un permiso de conducción en vigor de alguna de las clases señaladas en el artículo 45.1.párrafo b).
 
-d) Declaración por escrito de no estar privado por resolución judicial del derecho a conducir vehículos de motor y ciclomotores.
+d) El documento que se indica en el apartado A).1 párrafo a), en el caso de que no existan antecedentes del interesado en el Registro de conductores e infractores.
 
-3. De acuerdo con lo establecido en el artículo 29.1 para obtener la ampliación de la autorización especial, a la solicitud suscrita por el interesado se acompañarán los siguientes documentos:
+3. De acuerdo con lo establecido en el artículo 29.1 para obtener la ampliación de la autorización especial, a la solicitud suscrita por el interesado se acompañarán los documentos que se indican en el apartado A).1 párrafos b) y c), así como:
 
-a) Certificado expedido por el centro de formación que haya impartido el curso en el que se acredite que el solicitante ha participado con aprovechamiento en un curso de especialización y superado las pruebas y ejercicios prácticos individuales correspondientes.
+a) Certificado expedido por el centro de formación que haya impartido el curso en el que se acredite que el solicitante ha participado con aprovechamiento en un curso de formación inicial de especialización para la materia y superado los ejercicios prácticos individuales correspondientes.
 
 b) Fotocopia de la autorización especial que posea el interesado.
 
-c) Declaración por escrito de no estar privado por resolución judicial del derecho a conducir vehículos de motor y ciclomotores.
+c) El documento que se indica en el apartado A).1 párrafo a), en el caso de que no existan antecedentes del interesado en el Registro de conductores e infractores.
 
 ## H) Prueba de control de conocimientos para la recuperación del permiso o la licencia de conducción
 
@@ -111,3 +111,5 @@ a) Autorización especial que se pretende canjear acompañada de fotocopia. Si s
 b) Certificación acreditativa de hallarse en servicio activo o, en su caso, de la fecha en que se dejó de prestar.
 
 c) Permiso de conducción militar de la clase B con, al menos, un año de antigüedad, en el supuesto de que el permiso civil de esta clase que posea no la alcance.
+
+> Se modifica el apartado G) por el art.único.10 del Real Decreto 475/2013, de 21 de junio. Ref. BOE-A-2013-7422.

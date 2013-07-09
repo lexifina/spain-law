@@ -48,13 +48,11 @@ Reverso
 
 ## B) Modelo de autorización ADR para el transporte de mercancías peligrosas
 
-Anverso
+1. Las dimensiones físicas de la autorización, que será de plástico, serán conformes a las normas ISO 7810:2003 ID-1. El color será blanco con las letras en negro. En él se incluirá una característica de seguridad adicional, como un holograma, la impresión ultravioleta o patrones de garantía.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/138/09481_005.png)
+2. El modelo será el siguiente:
 
-Reverso
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/138/09481_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/162/07422_001.png)
 
 ## C) Modelo de permiso internacional para conducir
 
@@ -65,3 +63,5 @@ Anverso
 Reverso
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/138/09481_008.png)
+
+> Se modifica el apartado B) por el art.único.9 del Real Decreto 475/2013, de 21 de junio. Ref. BOE-A-2013-7422.

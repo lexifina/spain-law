@@ -341,13 +341,13 @@ a) Disposiciones generales aplicables al transporte de mercancías peligrosas.
 
 b) Principales tipos de riesgo.
 
-c) Información relativa a la protección del medio ambiente para el control del traslado de residuos.
+c) Información relativa a la protección del medio ambiente para el control de la transferencia de residuos.
 
 d) Medidas de prevención y de seguridad adecuadas a los distintos tipos de riesgo.
 
-e) Comportamiento tras un accidente o incidente (primeros auxilios, seguridad de la circulación, conocimientos básicos relativos a la utilización de los equipos de protección, etc.).
+e) Comportamiento tras un accidente (primeros auxilios, seguridad vial, conocimientos básicos relativos a la utilización de los equipos de protección, instrucciones escritas, etc.).
 
-f) Marcado, etiquetado, inscripciones y señalización naranja.
+f) Marcado, etiquetado, inscripciones y paneles naranja.
 
 g) Lo que el conductor de un vehículo deberá hacer o abstenerse de hacer durante el transporte de mercancías peligrosas.
 
@@ -363,7 +363,9 @@ l) Información sobre las operaciones de transporte multimodal.
 
 m) Manipulación y estiba de bultos.
 
-n) Instrucciones sobre el comportamiento en túneles (prevención y seguridad, medidas a tomar en caso de incendio o en otras situaciones de emergencia, etc.).
+n) Restricciones de tráfico en los túneles e instrucciones sobre el comportamiento en los túneles (prevención de incidentes, la seguridad, las medidas a tomar en caso de incendio o en otras situaciones de emergencia, etc.).
+
+o) Responsabilidad con la seguridad.
 
 2. Además de la prueba teórica común que se indica en el punto anterior, todo conductor que solicite la autorización especial deberá poseer una formación teórica especializada y deberá realizar una prueba teórica específica de control de conocimientos, conforme se expresa a continuación:
 
@@ -375,7 +377,7 @@ b) Disposiciones especiales relativas a los vehículos.
 
 c) Conocimientos teóricos generales de los distintos dispositivos de llenado y vaciado.
 
-d) Disposiciones suplementarias específicas relativas a la utilización de estos vehículos (certificados de aprobación, etiquetas e inscripciones y señalización naranja, etcétera).
+d) Disposiciones suplementarias específicas relativas a la utilización de estos vehículos (certificados de aprobación, marcas de aprobación, etiquetado y paneles naranja, etc.).
 
 2.º Los que soliciten ampliación de la autorización para conducir vehículos que transporten materias y objetos explosivos (clase 1), sobre los siguientes temas:
 
@@ -412,3 +414,5 @@ d) Extinción de incendios. Utilización de los medios disponibles: manejo de ex
 2. Los conductores que soliciten ampliación de la autorización para conducir vehículos cisterna, vehículos batería o unidades de transporte que transporten mercancías peligrosas en cisternas o contenedores cisterna, deberán poseer una formación práctica y realizar unos ejercicios prácticos sobre obturación de grietas y soluciones de emergencia en ruta frente a averías que produzcan escapes, derrames u otras emergencias, con especial atención al manejo del equipo de «tapafugas», así como sobre las operaciones de carga y descarga de cisternas, baterías de recipientes y contenedores cisterna.
 
 3. Los conductores de vehículos que soliciten ampliación de la autorización para conducir vehículos que transporten materias de las clases 1 ó 7, deberán poseer una formación práctica y realizar unos ejercicios prácticos sobre las cuestiones contenidas en el punto 1. párrafos a), b) y d), en lo que sean especialmente aplicables a las materias de las mencionadas clases.
+
+> Se modifica el apartado C) por el art.único.11 del Real Decreto 475/2013, de 21 de junio. Ref. BOE-A-2013-7422.

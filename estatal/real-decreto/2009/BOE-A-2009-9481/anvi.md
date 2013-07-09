@@ -434,16 +434,24 @@ El examinador dirigirá la prueba desde un automóvil de turismo adscrito a la e
 
 ## D) Pruebas de control de conocimientos sobre formación práctica y ejercicios prácticos para obtener la autorización especial que habilite para conducir vehículos que transporten mercancías peligrosas
 
-1. Número de preguntas.–El número de preguntas planteadas en las pruebas de control de conocimientos sobre formación teórica será:
+1. Número de preguntas. El número de preguntas planteadas en las pruebas de control de conocimientos sobre formación teórica será:
 
-a) en la prueba común de control de conocimientos un mínimo de 25 preguntas y un máximo de 70.
+a) en la prueba común de control de conocimientos para la obtención de la autorización, un mínimo de 25 preguntas y un máximo de 70.
 
-b) en cada una de las pruebas de control de conocimientos específicas, así como para el examen de cada formación de reciclaje, un mínimo de 15 y un máximo de 40.
+b) en cada una de las pruebas de control de conocimientos específicas para la ampliación de la autorización, un mínimo de 15 y un máximo de 40.
 
-2. Duración de las pruebas.–El tiempo destinado a la realización de las pruebas de control de conocimientos sobre formación teórica a las que se refiere el artículo 63 será de 1 minuto por pregunta. En casos especiales, debidamente justificados, se podrá ampliar dicho tiempo.
+c) en cada una de las pruebas de control de conocimientos para la prórroga de vigencia, cuando se haya realizado un curso de reciclaje, un mínimo de 15 y un máximo de 40 para la prueba común y un mínimo de 10 y un máximo de 40 para las pruebas específicas.
+
+d) en cada una de las pruebas de control de conocimientos para la prórroga de vigencia, cuando se haya realizado un curso de formación inicial, las establecidas en los párrafos a) y b), según se trate de la prueba común o las específicas, respectivamente.
+
+2. Duración de las pruebas. El tiempo destinado a la realización de las pruebas de control de conocimientos sobre formación teórica a las que se refiere el artículo 63 será de 2 minutos por pregunta. En casos especiales, debidamente justificados, se podrá ampliar dicho tiempo a 3 minutos por pregunta.
+
+A los efectos de lo previsto en el párrafo anterior, se considerarán casos especiales las dificultades de comprensión lectora del aspirante.
 
 El tiempo destinado a la realización de los ejercicios prácticos a que se refieren los artículos 64 y concordantes será el necesario para que cada uno de los conductores aspirantes los realice individualmente, con eficacia y seguridad.
 
 3. Calificación de las pruebas.–Para ser declarado apto en las pruebas de control de conocimientos a que se refiere el artículo 68, los errores permitidos no serán superiores al 10 por 100 de la puntuación total de la prueba. En el supuesto de que al aplicar dicho tanto por ciento el resultado fuera decimal se aplicará el entero inmediato superior.
 
 En los ejercicios prácticos a que se refieren los artículos 64 y 68 será declarado no apto el aspirante que no demuestre manejar con dominio y soltura los diferentes medios, o no realice los ejercicios prácticos con la seguridad y precisión requeridas.
+
+> Se modifican los puntos 1 y 2 del apartado D) por el art.único.12 del Real Decreto 475/2013, de 21 de junio. Ref. BOE-A-2013-7422.
