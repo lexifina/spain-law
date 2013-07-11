@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 173, de 20 de julio de 1991. Ref. BOE-A-1991-18762
+Las referencias, funciones y medios materiales y personales que corresponden al Comité Español de Disciplina Deportiva y a la Junta de Garantías Electorales pasan a corresponder al Tribunal Administrativo del Deporte, según establece la disposición adicional 4 de la Ley Orgánica 3/2013, de 20 de junio. Ref. BOE-A-2013-6732#dacuaa.
