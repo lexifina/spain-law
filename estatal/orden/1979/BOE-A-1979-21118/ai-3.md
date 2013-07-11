@@ -2,6 +2,8 @@
 
 ## Métodos de análisis de fertilizantes
 
+> Téngase en cuenta que el Real Decreto 506/2013, de 28 de junio, sobre productos fertilizantes, Ref. BOE-A-2013-7540#anvi, regula en su Anexo VI los métodos de análisis de los productos fertilizantes.
+
 16(b). FÓSFORO SOLUBLE EN AGUA
 
 (Derogado).
