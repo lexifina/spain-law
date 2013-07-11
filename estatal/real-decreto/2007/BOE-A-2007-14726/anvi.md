@@ -42,7 +42,7 @@ d) La información específica de la tarjeta expedida, numerada del siguiente mo
 
 e) La mención «modelo de las Comunidades Europeas» en la lengua del Estado español y la mención «tarjeta de cualificación del conductor» en las demás lenguas oficiales de la Comunidad, impresas en azul para formar el entramado de la tarjeta:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/184/14726_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/184/14726_001a.png)
 
 f) los colores de referencia:
 
@@ -60,7 +60,7 @@ a) 9. Categorías de vehículos para las cuales el conductor cumple las obligaci
 
 b) Una explicación de las rúbricas numeradas que aparecen en el anverso y en el reverso de la tarjeta (al menos las rúbricas 1, 2, 3, 4a, 4b, 4c, 5a, 5b y 10).
 
-En caso de que un Estado miembro desee redactar dichas inscripciones en una lengua nacional que no sea una de las lenguas siguientes: búlgaro, castellano, checo, danés, alemán, estonio, griego, inglés, francés, italiano, letón, lituano, húngaro, maltés, neerlandés, polaco, rumano, portugués, eslovaco, esloveno, finés o sueco, elaborará una versión bilingüe de la tarjeta utilizando una de las lenguas mencionadas, sin perjuicio de las restantes disposiciones de este anexo.
+En caso de que un Estado miembro desee redactar dichas inscripciones en una lengua nacional que no sea una de las lenguas siguientes: búlgaro, castellano, checo, croata, danés, alemán, estonio, griego, inglés, francés, italiano, letón, lituano, húngaro, maltés, neerlandés, polaco, rumano, portugués, eslovaco, esloveno, finés o sueco, elaborará una versión bilingüe de la tarjeta utilizando una de las lenguas mencionadas, sin perjuicio de las restantes disposiciones de este anexo.
 
 2. Características de seguridad, con inclusión de la protección de datos personales.
 
@@ -73,3 +73,5 @@ Anverso
 Reverso
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2007/184/14726_003.png)
+
+> Se modifica el apartado 1 por el art. único de la Orden FOM/1298/2013, de 28 de junio. Ref. BOE-A-2013-7536.
