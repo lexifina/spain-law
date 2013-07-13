@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 171, de 19 de julio de 2006. Ref. BOE-A-2006-13015
+Norma derogada por la disposición derogatoria única de la Orden IET/1311/2013, de 9 de julio. Ref. BOE-A-2013-7624.
