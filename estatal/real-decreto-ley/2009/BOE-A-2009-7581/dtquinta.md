@@ -4,4 +4,6 @@
 
 Cuando, por el contrario, la potencia asociada a los proyectos inscritos sea superior al objetivo previsto, el régimen económico establecido en el citado Real Decreto 661/2007, de 25 de mayo, será de aplicación y se agotará con dichas instalaciones inscritas. En este caso, mediante acuerdo del Consejo de Ministros, a propuesta del Ministro de Industria, Turismo y Comercio, se podrá establecer restricciones anuales a la ejecución y entrada en operación de las instalaciones inscritas y la priorización de las mismas al objeto de no comprometer la sostenibilidad técnica y económica del sistema, extendiendo convenientemente, en su caso, el plazo máximo establecido en el artículo 4.8 de este real decreto-ley.
 
-2. Mediante real decreto se aprobará un nuevo marco jurídico-económico para las instalaciones que se inscriban en el Registro administrativo de pre-asignación de retribución, una vez agotado el régimen retributivo actualmente vigente. Dicho nuevo real decreto tendrá como objetivos el establecimiento de un régimen económico suficiente y adecuado para fomentar la puesta en servicio de este tipo de instalaciones, promoviendo la investigación y desarrollo en el sector que permitan reducir los costes de las instalaciones, mejorar su operatividad y contribuir al desarrollo de la competitividad de la industria.
+2. (Derogado)
+
+> Se deroga el apartado 2 por la disposición derogatoria única.2.c) del Real Decreto-ley 9/2013, de 12 de julio. Ref. BOE-A-2013-7705.

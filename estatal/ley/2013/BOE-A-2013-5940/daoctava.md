@@ -33,3 +33,7 @@ e) Expedir los certificados y gestionar el mecanismo de certificación de consum
 f) Supervisar la actividad de la Oficina de Cambios de Suministrador.
 
 g) Las competencias que la normativa vigente atribuye a la Comisión Nacional de la Energía en materia de hidrocarburos líquidos.
+
+3. En el sector eléctrico y de hidrocarburos: conocer la toma de participaciones en el sector energético.
+
+> Se añade el apartado 3 por la disposición final 6 del Real Decreto-ley 9/2013, de 12 de julio. Ref. BOE-A-2013-7705.

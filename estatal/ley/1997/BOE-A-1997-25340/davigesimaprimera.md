@@ -44,7 +44,7 @@ La diferencia entre los importes reconocidos con la información de la liquidaci
 
 4. No obstante, para los años 2009, 2010, 2011 y 2012, el déficit de ingresos previsto en la disposición por la que se aprobaron los peajes de acceso correspondientes no será superior a 3.500 millones de euros, 3.000 millones de euros, 3.000 millones de euros y 1.500 millones de euros, respectivamente.
 
-Asimismo, los desajustes temporales de liquidaciones del sistema eléctrico que se produzcan en 2010, hasta una cuantía máxima de 2.500 millones de euros, y en 2012, en el importe que resulte de la liquidación definitiva emitida por la Comisión Nacional de la Energía, tendrán la consideración de déficit de ingresos del sistema de liquidaciones eléctrico para 2010 y 2012, respectivamente, que generará derechos de cobro que podrán ser cedidos por sus titulares al Fondo de Titulización del Déficit del Sistema Eléctrico.
+Asimismo, los desajustes temporales de liquidaciones del sistema eléctrico que se produzcan en 2010, hasta una cuantía máxima de 2.500 millones de euros, y en 2012, en el importe de 4.109.213 miles de euros, tendrán la consideración de déficit de ingresos del sistema de liquidaciones eléctrico para 2010 y 2012, respectivamente, que generará derechos de cobro que podrán ser cedidos por sus titulares al Fondo de Titulización del Déficit del Sistema Eléctrico, considerándose el importe para el año 2012 como definitivo a efectos de la cesión.
 
 5. Los déficit del sistema de liquidaciones eléctrico generarán derechos de cobro consistentes en el derecho a percibir un importe de la facturación mensual por peajes de acceso de los años sucesivos hasta su satisfacción. Las cantidades aportadas por este concepto serán devueltas reconociéndose un tipo de interés en condiciones equivalentes a las del mercado que se fijará en la orden por la que se aprueban los peajes.
 
@@ -79,6 +79,8 @@ El otorgamiento de los avales deberá ser acordado por la Ministra de Economía 
 De producirse la ejecución del aval frente a la Administración General del Estado, ésta se subrogará, respecto de los importes ejecutados por cualquier concepto, en todos los derechos y acciones que tuvieran reconocidos los acreedores frente al Fondo de Titulización del Déficit del Sistema Eléctrico.
 
 En el caso de ejecución de los avales a que se refiere este apartado, se autoriza a la Dirección General del Tesoro y Política Financiera para que pueda efectuar los pagos correspondientes a la ejecución de los avales mediante operaciones de tesorería con cargo al concepto específico que se fije a tal fin. Con posterioridad a la realización de dichos pagos, la Dirección General del Tesoro y Política Financiera procederá a la aplicación definitiva al presupuesto de gastos de los pagos realizados en el ejercicio, salvo los efectuados en el mes de diciembre, que se aplicarán al presupuesto de gastos en el primer trimestre del año siguiente.
+
+> Se modifica el apartado 4 por el art. 1.5 del Real Decreto-ley 9/2013, de 12 de julio. Ref. BOE-A-2013-7705.
 
 > Se modifican los apartados 1 y 4 por la disposición final 4.1 y 2 del Real Decreto-Ley 29/2012, de 28 de diciembre. Ref. BOE-A-2012-15764.
 

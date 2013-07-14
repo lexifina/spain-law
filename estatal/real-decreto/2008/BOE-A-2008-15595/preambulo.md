@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 251, de 17 de octubre de 2008. Ref. BOE-A-2008-16721.
+Se deroga por la disposición derogatoria única.2.b) del Real Decreto-ley 9/2013, de 12 de julio. Ref. BOE-A-2013-7705., manteniendo los efectos transitorios establecidos en la disposición transitoria 3 del citado Real Decreto-ley.
