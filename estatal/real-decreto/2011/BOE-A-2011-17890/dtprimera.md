@@ -1,3 +1,5 @@
 ## Disposición transitoria primera. Solicitudes ya presentadas.
 
-Quienes a la entrada en vigor del presente real decreto hubiesen iniciado la tramitación de solicitudes de reconocimiento de efectos civiles de títulos de la Iglesia Católica podrán continuar la misma por el procedimiento contenido en el citado Real Decreto 3/1995, de 13 de enero, o iniciar una nueva solicitud de acuerdo con lo previsto en la presente norma.
+(Suprimida)
+
+> Se suprime por el art. único.1 del Real Decreto 477/2013, de 21 de junio. Ref. BOE-A-2013-7709.

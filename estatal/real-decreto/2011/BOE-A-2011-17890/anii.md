@@ -24,6 +24,8 @@ Facultad de Teología del Norte de España (sede de Vitoria).
 
 9. Facultad de Teología de la Universidad Pontificia de Salamanca.
 
+10. Facultad de Teología «San Esteban» de los PP. Dominicos de Salamanca.
+
 II. Facultades de Derecho Canónico.
 
 1. Facultad de Derecho Canónico de la Universidad Eclesiástica «San Dámaso» (Madrid).
@@ -33,6 +35,8 @@ II. Facultades de Derecho Canónico.
 3. Facultad de Derecho Canónico de la Universidad Pontificia «Comillas» (Madrid).
 
 4. Facultad de Derecho Canónico de la Universidad Pontificia de Salamanca.
+
+5. Facultad de Derecho Canónico «San Vicente Mártir» de la Universidad Católica de Valencia «San Vicente Mártir».
 
 III. Facultades de Filosofía Eclesiástica.
 
@@ -49,3 +53,5 @@ III. Facultades de Filosofía Eclesiástica.
 IV. Otras Facultades Eclesiásticas.
 
 Facultad de Literatura Cristiana y Clásica «San Justino» de la Universidad Eclesiástica «San Dámaso» (Madrid).
+
+> Se modifica por la disposición final.1 del Real Decreto 477/2013, de 21 de junio. Ref. BOE-A-2013-7709.
