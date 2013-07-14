@@ -65,6 +65,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria tercera](dttercera.md)
 - [Disposición transitoria cuarta](dtcuaa.md)
 - [Disposición transitoria quinta](dtquinta.md)
+- [Disposición transitoria sexta](dtsexta.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
