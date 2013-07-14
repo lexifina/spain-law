@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Identificación del personal estatutario del CNI.
+
+De acuerdo con lo previsto en el artículo 5 de la Ley 11/2002, de 6 de mayo, los miembros del CNI, cuando comparezcan ante las autoridades competentes por motivos relacionados con actividades del servicio, acreditarán su identidad mediante la tarjeta de identidad profesional regulada por el Ministro de la Presidencia. Asimismo, todos los organismos e instituciones públicos y privados reconocerán esta tarjeta como documento válido de identificación a los efectos del cumplimento de las funciones legales encomendadas al CNI.

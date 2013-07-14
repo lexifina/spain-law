@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 240, de 7 de octubre de 1995. Ref. BOE-A-1995-22108
+Norma derogada por la disposición derogatoria única del Real Decreto 240/2013, de 5 de abril. Ref. BOE-A-2013-3907#ddunica.
