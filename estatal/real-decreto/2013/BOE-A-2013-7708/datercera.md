@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Docencia en una Lengua Extranjera en Educación Infantil y en Educación Primaria.
+
+Las Administraciones educativas regularán los requisitos de formación añadidos que se exigirán a los Maestros que impartan Educación Infantil o Educación Primaria, para impartir en una Lengua Extranjera las enseñanzas de estas etapas en los centros cuyos proyectos educativos comporten un régimen de enseñanza plurilingüe. Dichos requisitos, a partir del curso académico 2013-2014, supondrán acreditar, al menos, competencias de un nivel B2 del Marco Común Europeo de Referencia para las Lenguas, en la Lengua Extranjera correspondiente.
