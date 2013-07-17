@@ -10,6 +10,8 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_007.png)
 
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/169/07814_001.png)
+
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_008.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_009.png)
@@ -22,9 +24,11 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_013.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/169/07814_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/169/07814_003.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/169/07814_004.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_016.png)
 
@@ -51,6 +55,8 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2008/51/03740_002.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2010/111/07252_002.png)
+
+> Se añaden los modelos RC, D y AD de "tramitación anticipada", se modifica el A de "tramitación anticipada" y se suprime el TR de "tramitación anticipada" por el art. 2.3 y anexo de la Orden HAP/1357/2013, de 11 de julio. Ref. BOE-A-2013-7814.
 
 > Se modifican determinados modelos por el art. 1.6.1 y anexo I de la Orden EHA/1160/2010, de 29 de abril. Ref. BOE-A-2010-7252.
 

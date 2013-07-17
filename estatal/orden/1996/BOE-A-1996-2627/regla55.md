@@ -1,22 +1,30 @@
-## Regla 55. Aplicación al nuevo presupuesto de compromisos de gasto y otras operaciones.
+## Regla 55. Aplicación al nuevo presupuesto de los compromisos de gasto y otras operaciones.
 
 1. Una vez efectuados el cierre del Presupuesto de Gastos del ejercicio y la apertura del Presupuesto de Gastos del ejercicio siguiente, se registrarán con aplicación a este último presupuesto, y atendiendo al siguiente orden:
 
-Primero, las anualidades que correspondan al ejercicio que se inicia de compromisos plurianuales de gasto contraídos en años anteriores.
+Primero.–Las anualidades que correspondan al ejercicio que se inicia de compromisos plurianuales de gastos contraídos en años anteriores.
 
-Segundo, todos aquellos compromisos de gasto que en el presupuesto del ejercicio anterior hubieran quedado pendientes del reconocimiento de obligaciones, siempre que dichos compromisos estuviesen efectivamente contraídos con una persona o entidad claramente identificada en el correspondiente expediente y ajena a la Administración General del Estado.
+Segundo.–Las retenciones de crédito realizadas de acuerdo con el procedimiento previsto en la disposición adicional decimonovena de la Ley General Presupuestaria que hubieran quedado pendientes de anular.
 
-Tercero, las anualidades que correspondan al ejercicio que se inicia de retenciones de crédito plurianuales efectuadas en años anteriores relativas a expedientes registrados con base en lo dispuesto en el artículo 3 de la Ley 11/1996, de 27 de diciembre, de Medidas de Disciplina Presupuestaria, y en la disposición adicional decimocuarta del Texto Refundido de la Ley de Contratos de las Administraciones Públicas y en la disposición transitoria sexta de la Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social, que se encuentren pendientes de comprometer.
+Tercero.–Todos aquellos compromisos de gasto imputados al presupuesto del ejercicio anterior que hubieran quedado pendientes del reconocimiento de obligaciones, siempre que dichos compromisos estuviesen efectivamente contraídos con una persona o entidad claramente identificada en el correspondiente expediente y ajena a la Administración General del Estado.
 
-Cuarto, las retenciones de crédito que en el presupuesto del ejercicio anterior hubieran quedado pendientes de comprometer relativas a expedientes registrados con base en lo dispuesto en el artículo 3 de la Ley 11/1996, de 27 de diciembre, de Medidas de Disciplina Presupuestaria, y en la disposición adicional decimocuarta del Texto Refundido de la Ley de Contratos de las Administraciones Públicas y en la disposición transitoria sexta de la Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
+Cuarto.–Las anualidades que correspondan al ejercicio que se inicia de compromisos de tramitación anticipada a que se refiere la Sección 5.ª de este capítulo.
 
-Quinto, y por este orden, las autorizaciones y las tomas de razón de tramitación anticipada a que se refiere la Sección 5.a de este capítulo.
+Quinto.–Las anualidades que correspondan al ejercicio que se inicia de autorizaciones de gasto de tramitación anticipada a que se refiere la Sección 5.ª de este capítulo.
 
-2. Una vez registradas las operaciones descritas en el punto anterior, la Oficina de Contabilidad obtendrá relaciones justificativas de dichas operaciones en las que se especifiquen uno a uno los expedientes afectados, con indicación de todos los datos relativos a su registro contable, que se remitirán a los correspondientes Servicios gestores.
+Sexto.–Las anualidades que correspondan al ejercicio que se inicia de retenciones de crédito plurianuales efectuadas en años anteriores relativas a expedientes registrados con base en los dispuesto en el artículo 52 de la Ley de 16 de diciembre de 1954, de Expropiación Forzosa, y en el párrafo segundo del apartado 2 del artículo 47 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, que se encuentren pendientes de comprometer.
 
-3. Cuando en el presupuesto del ejercicio en curso no hubiera crédito o éste fuera insuficiente para dar cobertura a las operaciones de gasto a que se refiere el punto 1 anterior, el Sistema de Información Contable proporcionará una relación de aquellas que no se hubiesen podido imputar al presupuesto, indicándose en la misma los distintos expedientes afectados.
+Séptimo.–Las retenciones de crédito que en el presupuesto del ejercicio anterior hubieran quedado pendientes de comprometer relativas a expedientes registrados con base en los dispuesto en el artículo 52 de la Ley de 16 de diciembre de 1954, de Expropiación Forzosa, y en el párrafo segundo del apartado 2 del artículo 47 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
 
-La Oficina de Contabilidad remitirá dicha relación al respectivo Servicio Gestor, el cual habrá de determinar las actuaciones que en su caso procedan.
+Octavo.–Las anualidades que correspondan al ejercicio que se inicia de las retenciones de crédito de tramitación anticipada a que se refiere la sección 5.ª de este capítulo.
+
+2. Una vez registradas las operaciones descritas en el apartado anterior, la oficina de contabilidad obtendrá relaciones justificativas de dichas operaciones en las que se especifiquen uno a uno los expedientes afectados, con indicación de todos los datos relativos a su registro contable que se remitirán a los correspondientes Servicios gestores.
+
+3. Cuando en el presupuesto del ejercicio en curso no hubiera crédito o éste fuera insuficiente para imputar las operaciones de gasto a las que se refiere el apartado 1 anterior, la oficina de contabilidad obtendrá una relación de aquellas que no se hubiesen podido imputar al nuevo presupuesto, con la especificación de los distintos expedientes afectados, que remitirá al respectivo Servicio gestor con la indicación de que en el plazo de treinta días deberá comunicar a dicha oficina las actuaciones a realizar con respecto a las operaciones pendientes de registro contable incluidas en la relación.
+
+No obstante, en el caso de que no se puedan imputar al presupuesto del ejercicio en curso las anualidades que correspondan al ejercicio que se inicia de compromisos de gasto de carácter plurianual contabilizados en años anteriores, se seguirá el procedimiento regulado en la Disposición adicional decimonovena de la Ley General Presupuestaria.
+
+> Se modifica por el art. 1.2 de la Orden HAP/1357/2013, de 11 de julio. Ref. BOE-A-2013-7814.
 
 > Se modifica por el punto 2.9 de la Orden HAC/240/2004, de 26 de enero. Ref. BOE-A-2004-2499.
 

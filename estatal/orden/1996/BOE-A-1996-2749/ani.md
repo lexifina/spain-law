@@ -40,7 +40,7 @@ b) Documento RC de ejercicio corriente (Solicitud de retenciones de crédito y r
 
 104 Retención cautelar por operaciones pendientes de registro contable.
 
-105 Retención cautelar de crédito procedente de tramitación anticipada.
+105 (Suprimida)
 
 106 Retención de crédito para bajas por anulación y otras minoraciones.
 
@@ -72,15 +72,25 @@ e) Documento D de ejercicio corriente y de ejercicios posteriores (compromisos d
 
 f) Documento AD de ejercicio corriente y de ejercicios posteriores (autorizaciones y compromisos de gasto):
 
-220 Autorización y compromiso sobre crédito disponible
+220 Autorización y compromiso sobre crédito disponible.
 
 230 Autorización y compromiso sobre crédito retenido.
 
 226 Cancelación de autorización y compromiso de gasto (Anticipos de Tesorería)
 
-g) Documento A de tramitación anticipada.
+g) Documentos de tramitación anticipada (RC, A, AD y D):
 
-200 Autorización anticipada de gasto.
+100 Retención de crédito para tramitación anticipada.
+
+108 Retención adicional del 10% de la adjudicación para tramitación anticipada.
+
+109 Retención 1% cultural (art. 58.3.b) del Real Decreto 111/1986) para tramitación anticipada.
+
+210 Autorización sobre crédito retenido para tramitación anticipada.
+
+230 Autorización y compromiso de gasto sobre crédito retenido para tramitación anticipada.
+
+300 Compromiso de gasto de tramitación anticipada.
 
 h) Documento D de tramitación anticipada.
 
@@ -745,6 +755,8 @@ Deberá cumplimentarse este campo en los documentos contables expedidos a favor 
 236. Tipo de mandamiento de ingreso: Se indicará el código relativo al mandamiento de ingreso de que se trate.
 
 (*) Unidad de cuenta: Se indicará la unidad de cuenta en la que ha sido tramitado el expediente de gasto: Pesetas (P) o euros (E).
+
+> Se modifican las letras b) y g) de la nota aclaratoria 2 por el art. 2.2 de la Orden HAP/1357/2013, de 11 de julio. Ref. BOE-A-2013-7814.
 
 > Se modifica por el art. 2 de la Orden HAP/883/2013, de 13 de mayo. Ref. BOE-A-2013-5392.
 

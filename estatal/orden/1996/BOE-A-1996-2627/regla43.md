@@ -1,12 +1,10 @@
-## Regla 43. Documentos contables de tramitación anticipada.
+## Regla 43. Tramitación anticipada de expedientes de subvenciones y de otros gastos.
 
-1. A los efectos de la toma de razón en contabilidad del certificado expedido por la oficina presupuestaria, la oficina de contabilidad del centro gestor expedirá el documento TR "Toma de razón de la tramitación anticipada" que será registrado en el sistema de información contable.
+En la tramitación anticipada de expedientes de subvenciones y otros gastos no incluidos en la regla anterior se deberá cumplir lo que establezca la normativa específica reguladora de cada tipo de gasto en cuanto al trámite en la ejecución hasta el que se puede llegar y al número de anualidades que pueden abarcar, debiéndose seguir el procedimiento regulado en la regla anterior.
 
-La certificación acreditativa del registro en contabilidad de dicho documento deberá incorporarse al respectivo expediente de gasto.
+Si dichos extremos no estuvieran regulados, se podrá llegar como máximo hasta el momento inmediatamente anterior al compromiso de gasto, siguiéndose, en todo lo demás, el procedimiento establecido en la regla anterior.
 
-2. Una vez autorizado el gasto, el servicio gestor expedirá un documento A de "tramitación anticipada" que se remitirá a la oficina de contabilidad acompañado de la certificación acreditativa del registro en contabilidad del documento TR "Toma de razón de la tramitación anticipada".
-
-3. En el caso de que no se haya efectuado la tramitación prevista en el punto anterior de esta regla, los documentos contables con fase A que se expidan al año siguiente para imputar el gasto al Presupuesto del ejercicio corriente, deberán ir acompañados de la certificación acreditativa del registro en contabilidad del documento TR "Toma de razón de la tramitación anticipada" expedido al inicio del expediente.
+> Se modifica por el art. 1.1 de la Orden HAP/1357/2013, de 11 de julio. Ref. BOE-A-2013-7814.
 
 > Se modifica por el punto 1.16 de la Orden HAC/1299/2002, de 23 de mayo. Ref. BOE-A-2002-10789
 
