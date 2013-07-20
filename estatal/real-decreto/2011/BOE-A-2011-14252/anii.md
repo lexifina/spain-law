@@ -225,7 +225,7 @@ Esos juegos de mesa olfativos, kits de cosméticos y juegos gustativos no podrá
 | Arsénico | 3,8 | 0,9 | 47 |
 | Bario | 4 500 | 1 125 | 56 000 |
 | Boro | 1 200 | 300 | 15 000 |
-| Cadmio | 1,9 | 0,5 | 23 |
+| Cadmio | 1,3 | 0,3 | 17 |
 | Cromo (III) | 37,5 | 9,4 | 460 |
 | Cromo (VI) | 0,02 | 0,005 | 0,2 |
 | Cobalto | 10,5 | 2,6 | 130 |
@@ -365,3 +365,5 @@ A partir del 1 de junio de 2015, las disposiciones del artículo 46, apartado 3 
 Apéndice C
 
 Valores límite específicos para productos químicos utilizados en juguetes destinados a niños menores de 36 meses o en otros juguetes destinados a introducirse en la boca, adoptados de conformidad con el artículo 46, apartado 2 de la Directiva 2009/48/CE del Parlamento Europeo y del Consejo, de 18 de junio de 2009.
+
+> Se modifica el punto 13 de la parte III por el art. único de la Orden PRE/193/2013, de 7 de febrero. Ref. BOE-A-2013-1555.
