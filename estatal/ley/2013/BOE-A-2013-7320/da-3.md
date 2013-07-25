@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Certificados de competencia profesional.
+
+Los certificados expedidos antes del 4 de diciembre de 2011 como prueba de la competencia profesional para el ejercicio de las distintas actividades de transporte y auxiliares y complementarias de éste en virtud de las diferentes disposiciones que hasta esa fecha vinieron regulando esa materia, se asimilan al certificado de competencia profesional conforme con el modelo aprobado por el Reglamento (CE) n.º 1071/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por el que se establecen las normas comunes relativas a las condiciones que han de cumplirse para el ejercicio de la profesión de transportistas por carretera y por el que se deroga la Directiva 96/26/CE.
+
+Como consecuencia, se modificarán todas las anotaciones en la materia obrantes en el Registro de Empresas y Actividades de Transporte, sustituyendo la denominación «capacitación profesional para el ejercicio de (la actividad de que se trate)» por la denominación «competencia profesional para el transporte de (mercancías o viajeros) por carretera».
