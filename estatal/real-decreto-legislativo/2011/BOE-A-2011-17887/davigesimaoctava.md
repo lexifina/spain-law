@@ -8,4 +8,8 @@ Las Comunidades Autónomas y las entidades locales, así como las entidades y or
 
 3. A los efectos previstos en esta disposición adicional, el Ministerio de Sanidad, Servicios Sociales e Igualdad podrá, a través de la Secretaría General de Sanidad y Consumo, encomendar al Instituto Nacional de Gestión Sanitaria la materialización y conclusión de los procedimientos de adquisición centralizada, con miras al Sistema Nacional de Salud, para todos o algunos de los medicamentos y productos sanitarios.
 
-> Se añade el apartado 3 por la disposición final 28 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
+4. No serán de aplicación las medidas establecidas en los artículos 9 y 10, párrafo tercero, del Real Decreto-ley 8/2010, de 20 de mayo, por el que se adoptan medidas extraordinarias para la reducción del déficit público, a los contratos derivados de adquisición de medicamentos promovidos al amparo de lo previsto en esta disposición adicional siempre que los ahorros que resulten de la compra centralizada sean superiores a las deducciones fijadas en dichos artículos del Real Decreto-ley 8/2010, de 29 de mayo.
+
+> Se añade el apartado 4 por la disposición final 8 de la Ley 10/2013, de 24 de julio. Ref. BOE-A-2013-8083.
+
+> Se añade el apartado 3 por la disposición final 28 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651#vigesimaoctava-2.

@@ -49,6 +49,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 27](a27.md)
 - [Artículo 28](a28.md)
 - [CAPÍTULO VIII](cviii.md)
+- [Artículos 29 a 30](as29a30.md)
 - [Artículo 29](a29.md)
 - [Artículo 30](a30.md)
 - [Disposición adicional primera](daprimera.md)

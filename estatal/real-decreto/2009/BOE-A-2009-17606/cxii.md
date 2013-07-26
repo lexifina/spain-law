@@ -1,3 +1,5 @@
 ## CAPÍTULO XII
 
 ## Infracciones y sanciones
+
+> Se deroga por la disposición derogatoria única de la Ley 10/2013, de 24 de julio. Ref. BOE-A-2013-8083.

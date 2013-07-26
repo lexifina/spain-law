@@ -42,7 +42,9 @@ d) Parados que han perdido el derecho a percibir el subsidio de desempleo en tan
 
 e) Personas con tratamientos derivados de accidente de trabajo y enfermedad profesional.
 
-9. El nivel de aportación de los mutualistas y clases pasivas de la Mutualidad General de Funcionarios Civiles del Estado, del Instituto Social de las Fuerzas Armadas y la Mutualidad General Judicial será del 30 %.
+9. El nivel de aportación de las personas encuadradas en la Mutualidad General de Funcionarios Civiles del Estado, el Instituto Social de las Fuerzas Armadas y la Mutualidad General Judicial será del 30 por ciento con carácter general, resultándoles de aplicación lo dispuesto en el párrafo a) del apartado 6 y en el párrafo e) del apartado 8.
+
+> Se modifica el apartado 9 por el art. único.39 de la Ley 10/2013, de 24 de julio. Ref. BOE-A-2013-8083.
 
 > Se modifica el apartado 1 por la disposición final 1 del Real Decreto-ley 28/2012, de 30 de noviembre. Ref. BOE-A-2012-14695.
 
