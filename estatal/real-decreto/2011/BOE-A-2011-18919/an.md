@@ -56,14 +56,18 @@ c) Datos relativos a las colecciones de muestras biológicas de origen humano pa
 
 2.º Fecha de inscripción.
 
-3.º Datos de la persona responsable de la colección: nombre y apellidos o denominación social; número del documento nacional de identidad o número de identidad de extranjero, o número de identificación fiscal si se trata de una persona jurídica; nombre, apellidos, cargo, sexo y número del documento nacional de identidad o número de identidad de extranjero del representante legal, en caso de que sea una persona jurídica; sexo en caso de que se trate de una persona física; dirección de correo electrónico; número de teléfono; dirección completa.
+3.º Datos de la persona responsable de la colección: Nombre y apellidos, número del documento nacional de identidad o número de identidad de extranjero, sexo, dirección de correo electrónico, número de teléfono y dirección completa.
 
-4.º Finalidades de la colección.
+4.º Proyecto de investigación inicial a partir del cual se originó la colección.
 
-5.º Tipo y origen de las muestras conservadas.
+5.º Línea de investigación para la cual consintió el sujeto fuente de las muestras.
 
-6.º Otros registros en los que esté inscrita la colección.
+6.º Tipo y origen de las muestras conservadas.
+
+7.º Otros registros en los que esté inscrita la colección.
 
 3. A cada biobanco o colección inscritos se les asignará un número de hoja registral o número de orden.
 
 4. En el caso de que el funcionamiento de un biobanco, en virtud de su ubicación territorial, sea autorizado por varias Comunidades Autónomas, todas las autorizaciones se inscribirán en una sola hoja registral.
+
+> Se modifica el apartado 2.c) por el art. único de la Orden ECC/1404/2013, de 28 de junio. Ref. BOE-A-2013-8085.
