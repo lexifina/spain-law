@@ -1,0 +1,3 @@
+## Disposición adicional primera. Protección de datos.
+
+La regulación contenida en este Real Decreto se debe entender sin perjuicio de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y su normativa de desarrollo, de forma que en el tratamiento informático de los datos derivados del desarrollo de las actividades de farmacovigilancia así como su proceso electrónico, deberá quedar garantizada, conforme previene la normativa específica de aplicación, la confidencialidad, la intimidad personal y familiar de los ciudadanos y la protección de sus datos de carácter personal.

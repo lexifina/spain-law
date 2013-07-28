@@ -1,0 +1,3 @@
+## Disposición final quinta. Incorporación de derecho de la Unión Europea.
+
+Mediante este real decreto se incorporan al ordenamiento jurídico interno los apartados 1, 20 y 21 del artículo 1 y el artículo 2 de la Directiva 2010/84/UE del Parlamento Europeo y del Consejo, de 15 de diciembre de 2010, que modifica, en lo que respecta a la farmacovigilancia, la Directiva 2001/83/CE, por la que se establece un código comunitario sobre medicamentos para uso humano. Así como, la Directiva 2012/26/UE del Parlamento Europeo y del Consejo de 25 de octubre, por la que se modifica la Directiva 2001/83/CE en lo referente a la farmacovigilancia.
