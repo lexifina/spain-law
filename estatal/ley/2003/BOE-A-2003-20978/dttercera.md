@@ -8,13 +8,13 @@ Una vez que se imponga el régimen de apertura del mercado de transporte ferrovi
 
 3. A partir del 31 de julio de 2013 el transporte ferroviario de viajeros con finalidad prioritariamente turística se prestará en régimen de libre competencia según lo establecido en el artículo 42.2 de esta Ley.
 
-A efectos de esta Ley, tendrá la consideración de transporte ferroviario de viajeros con finalidad prioritariamente turística aquellos servicios en los que, teniendo o no carácter periódico, la totalidad de las plazas ofertadas en el tren se prestan en el marco de una combinación previa, vendida u ofrecida en venta por una agencia de viajes con arreglo a un precio global en el que, aparte del servicio de transporte ferroviario, se incluyan, como principales, servicios para satisfacer de una manera general las necesidades de las personas que realizan desplazamientos relacionados con actividades recreativas, culturales o de ocio, siendo el servicio de transporte por ferrocarril complemento de los anteriores. En ningún caso se podrá asimilar a esta actividad aquella que tuviera como objeto principal o predominante el transporte de viajeros por ferrocarril.
+A efectos de esta ley, tendrá la consideración de transporte ferroviario de viajeros con finalidad prioritariamente turística aquellos servicios en los que, teniendo o no carácter periódico, la totalidad de las plazas ofertadas en el tren se prestan en el marco de una combinación previa, vendida u ofrecida en venta por una agencia de viajes con arreglo a un precio global en el que, aparte del servicio de transporte ferroviario, se incluyan, como principales, servicios para satisfacer de una manera general las necesidades de las personas que realizan desplazamientos relacionados con actividades recreativas, culturales o de ocio, siendo el servicio de transporte por ferrocarril complemento de los anteriores. En ningún caso se podrá asimilar a esta actividad aquella que tuviera como objeto principal o predominante el transporte de viajeros por ferrocarril.
 
 Mediante Orden del Ministerio de Fomento, se regularán las condiciones de prestación de este tipo de servicios.
 
-4. En los servicios de transporte ferroviario a los que se refiere el artículo 53 de esta Ley, el Consejo de Ministros establecerá los términos relativos a las licitaciones públicas previstas en el art. 53.2., sin perjuicio de lo establecido en el artículo 5.6 del Reglamento (CE) n.º 1370/2007 del parlamento europeo y del consejo, de 23 de octubre de 2007. Hasta el inicio del servicio, en su caso, por un nuevo operador, Renfe-Operadora continuará prestando estos servicios, regulándose la compensación que, en su caso proceda, a través del contrato correspondiente.
+4. En los servicios de transporte ferroviario a los que se refiere el artículo 53 de esta ley, el Consejo de Ministros establecerá los términos relativos a las licitaciones públicas previstas en el artículo 53.2, sin perjuicio de lo establecido en el artículo 5.6 del Reglamento (CE) n.º 1370/2007 del Parlamento Europeo y del Consejo, de 23 de octubre de 2007. Hasta el inicio del servicio, en su caso, por un nuevo operador, Renfe-Operadora continuará prestando estos servicios, regulándose la compensación que, en su caso proceda, a través del contrato correspondiente.
 
-5. Sin perjuicio de lo establecido en el artículo 42.2 de esta Ley, de forma transitoria, el acceso para los nuevos operadores a los servicios no incluidos en los apartados 3 y 4 de esta disposición, se llevará a cabo a través de la obtención de títulos habilitantes.
+5. Sin perjuicio de lo establecido en el artículo 42.2 de esta ley, de forma transitoria, el acceso para los nuevos operadores a los servicios no incluidos en los apartados 3 y 4 de esta disposición, se llevará a cabo a través de la obtención de títulos habilitantes.
 
 El Consejo de Ministros determinará el número de títulos habilitantes a otorgar para cada línea o conjunto de líneas en las que se prestará el servicio en régimen de concurrencia, así como el período de vigencia de dichos títulos habilitantes.
 
@@ -22,7 +22,9 @@ El otorgamiento de los títulos habilitantes se llevará a cabo por el Ministeri
 
 Mediante Orden del Ministerio de Fomento, se determinarán los requisitos y condiciones exigibles para participar en los procedimientos de licitación señalados en el párrafo anterior, así como los criterios de adjudicación que resulten aplicables y las distintas fases de dicho procedimiento. En todo caso, será de aplicación lo dispuesto en el Reglamento (CE) 1370/2007, del Parlamento Europeo y del Consejo, de 23 de octubre de 2007, sobre los servicios públicos de transporte de viajeros por ferrocarril y carretera y, en tanto no se dicte la Orden del Ministerio de Fomento que regule las licitaciones, la Ley de contratos del sector público y sus normas de desarrollo.
 
-RENFE-Operadora dispondrá de un título habilitante para operar los servicios en todo el territorio sin necesidad de acudir al proceso de licitación.
+RENFE-Operadora dispondrá de un título habilitante para operar los servicios en todo el territorio sin necesidad de acudir al proceso de licitación..
+
+> Se añaden los apartados 2 a 5 por el art. 37.2 de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
 
 > Se añaden los apartados 2 a 5 por el art. 37.2 del Real Decreto-Ley 4/2013, de 22 de febrero. Ref. BOE-A-2013-2030.
 

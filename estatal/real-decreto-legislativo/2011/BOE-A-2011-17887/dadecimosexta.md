@@ -12,7 +12,7 @@ d) Los sistemas de comunicaciones y para el intercambio y almacenamiento de info
 
 e) Las aplicaciones que se utilicen para efectuar las comunicaciones, notificaciones y envíos documentales entre el licitador o contratista y el órgano de contratación deben poder acreditar la fecha y hora de su emisión o recepción, la integridad de su contenido y el remitente y destinatario de las mismas. En especial, estas aplicaciones deben garantizar que se deja constancia de la hora y la fecha exactas de la recepción de las proposiciones o de las solicitudes de participación y de cuanta documentación deba presentarse ante el órgano de contratación.
 
-f) Todos los actos y manifestaciones de voluntad de los órganos administrativos o de las empresas licitadoras o contratistas que tengan efectos jurídicos y se emitan a lo largo del procedimiento de contratación deben ser autenticados mediante una firma electrónica reconocida de acuerdo con la Ley 59/2003, de 19 de diciembre, de Firma Electrónica. Los medios electrónicos, informáticos o telemáticos empleados deben poder garantizar que la firma se ajusta a las disposiciones de esta norma.
+f) Todos los actos y manifestaciones de voluntad de los órganos administrativos o de las empresas licitadoras o contratistas que tengan efectos jurídicos y se emitan a lo largo del procedimiento de contratación deben ser autenticados mediante una firma electrónica reconocida de acuerdo con la Ley 59/2003, de 19 de diciembre, de firma electrónica. Los medios electrónicos, informáticos o telemáticos empleados deben poder garantizar que la firma se ajusta a las disposiciones de esta norma.
 
 No obstante lo anterior, las facturas electrónicas que se emitan en los procedimientos de contratación se regirán en este punto por lo dispuesto en la normativa especial que resulte de aplicación.
 
@@ -31,5 +31,7 @@ j) Como requisito para la tramitación de procedimientos de adjudicación de con
 4. Las comunicaciones entre los órganos competentes para la resolución de los recursos o de las reclamaciones y los órganos de contratación o las Entidades Contratantes, se harán, siempre que sea posible, por medios informáticos, electrónicos o telemáticos.
 
 Las notificaciones a los recurrentes y demás interesados intervinientes en los procedimientos de recurso se harán por los medios establecidos en la Ley 30/1992, de 26 de noviembre. No obstante, cuando el recurrente hubiese admitido las notificaciones por medios informáticos, electrónicos o telemáticos durante la tramitación del procedimiento de adjudicación, en el caso de que hubiese intervenido en él, y, en todo caso, cuando lo solicitara en el escrito de interposición del recurso, las notificaciones se le efectuarán por estos medios.
+
+> Se modifica el apartado 1.f) por la disposición final 7.4 de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
 
 > Se modifica el apartado 1.f) por la disposición final 6.3 del Real Decreto-ley 4/2013, de 22 de febrero. Ref. BOE-A-2013-2030.

@@ -2,6 +2,10 @@
 
 (Derogada).
 
+> Se deroga por la disposición derogatoria de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
+
+> Téngase en cuenta que la disposición transitoria 1 ya fue derogada por la disposición derogatoria única del Real Decreto-Ley 4/2013, de 22 de febrero. Ref. BOE-A-2013-2030.
+
 > Se deroga por la disposición derogatoria única del Real Decreto-Ley 4/2013, de 22 de febrero. Ref. BOE-A-2013-2030.
 
 > Se declara que los apartados a) y c) son contrarios al orden constitucional de distribución de competencias, por Sentencia del TC 233/2012, de 13 de diciembre. Ref. BOE-A-2013-343.

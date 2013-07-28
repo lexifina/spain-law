@@ -8,6 +8,8 @@ La protección frente a las contingencias de accidentes de trabajo y enfermedade
 
 > Téngase en cuenta que los efectos de los dos primeros párrafos quedan aplazados hasta el 1 de enero de 2014 según establece la disposición transitora 7 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651#septima-2.
 
+> Se añade el párrafo tercero por el art. 6 de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
+
 > Se añade el párrafo tercero por el art. 6 del Real Decreto-ley 4/2013, de 22 de febrero. Ref. BOE-A-2013-2030.
 
 > Se aplazan por un año los efectos de esta disposición por la disposición transitora 7 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651#septima-2.
