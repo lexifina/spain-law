@@ -54,7 +54,7 @@ Reino Unido de Gran Bretaña:
 
 Suiza:
 
-1. Agrupación de Basilea.
+1. (Suprimido)
 
 2. Agrupación de Berna.
 
@@ -67,6 +67,8 @@ Suiza:
 6. Agrupación de Zurich.
 
 7. (Suprimido)
+
+> Se suprime el punto 1 de Suiza por el apartado 1 de la Orden ECD/1459/2013, de 25 de julio. Ref. BOE-A-2013-8418.
 
 > Se suprimen los puntos 2 y 4 de Francia, con efectos a partir del curso 2012-2013, por el apartado 2 de la Orden ECD/2102/2012, de 14 de septiembre. Ref. BOE-A-2012-12400.
 
