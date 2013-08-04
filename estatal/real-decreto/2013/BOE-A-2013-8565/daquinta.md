@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Disposiciones específicas para el cangrejo rojo (Procambarus clarkii) y el arruí (Ammotragus lervia).
+
+1. Este real decreto no será de aplicación a la comercialización de cangrejo rojo destinados a la industria alimentaria, de acuerdo con el artículo 1.2 del presente real decreto, que se regirán por la correspondiente normativa en materia de sanidad y consumo. En este supuesto las comunidades autónomas y ciudades de Ceuta y Melilla definirán el ámbito geográfico donde se autorice la extracción de esta especie con destino a la industria alimentaria.
+
+2. En las áreas de introducción autorizada del arruí, realizadas con anterioridad a la entrada en vigor de la Ley 42/2007, de 13 de diciembre, y de expansión natural delimitadas cartográficamente en Castilla-La Mancha, Comunidad Valenciana, Andalucía y Extremadura, y en las que sea de aplicación la Disposición Transitoria Segunda, será obligatoria la elaboración de normas, planes o estrategias para su gestión, control y erradicación.
