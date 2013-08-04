@@ -1,0 +1,3 @@
+## Disposición final segunda. Facultad de desarrollo.
+
+Se faculta al Ministro de Agricultura, Alimentación y Medio Ambiente, en el ámbito de sus competencias, para el desarrollo y aplicación de real decreto y en particular, para establecer talla, peso y volumen total de las capturas de coral rojo anuales; el número de autorizaciones por zona de pesca del coral rojo señalado en sus anexo I, así como el procedimiento de autorizaciones y la modificación de sus anexos II y III, en atención al estado del recurso o de conformidad con lo establecido en la normativa comunitaria y en los convenios, acuerdos y tratados internacionales de los que la Unión Europea o España sean parte.
