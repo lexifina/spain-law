@@ -1,0 +1,5 @@
+## Disposición final primera. Título competencial.
+
+Este real decreto-ley se dicta, en lo que respecta a su capítulo I, al amparo del artículo 149.1.13.ª, 20.ª, 21.ª y 24.ª de la Constitución española, que atribuyen al Estado la competencia sobre las Bases y coordinación de la planificación general de la actividad económica, sobre el control del espacio aéreo, tránsito y transporte aéreo, sobre los ferrocarriles y transportes terrestres que transcurran por el territorio de más de una Comunidad Autónoma y sobre las obras públicas de interés general.
+
+Los capítulos II, III y IV se dictan al amparo de lo dispuesto en el artículo 149.1.6.ª, 7.ª y 17.ª de la Constitución Española, que atribuyen al Estado la competencia exclusiva sobre la legislación procesal, así como en materia de legislación laboral, sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas, y de legislación básica y régimen económico de la Seguridad Social, sin perjuicio de la ejecución de sus servicios por las Comunidades Autónomas, respectivamente.

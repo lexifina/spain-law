@@ -147,6 +147,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional octava](daoctava.md)
 - [Disposición adicional novena](danovena.md)
 - [Disposición adicional décima](dadecima.md)
+- [Disposición adicional duodécima](daduodecima.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición transitoria tercera](dttercera.md)

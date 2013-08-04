@@ -8,7 +8,7 @@
 | Sociedad Estatal de Participaciones Industriales (SEPI) | 400.000,00 |
 | Ministerio de Fomento: |  |
 | Puertos del Estado y Autoridades Portuarias (1) | 84.753,00 |
-| Administrador de Infraestructuras Ferroviarias (ADIF) (2) | 1.109.220,00 |
+| Administrador de Infraestructuras Ferroviarias (ADIF) (2) | 1.684.298,00 |
 | RENFE-Operadora (3) | 153.350,00 |
 | Ministerio de Agricultura, Alimentación y Medio Ambiente: |  |
 | Confederación Hidrográfica del Guadalquivir | 100.000,00 |
@@ -30,5 +30,7 @@
 (4) Este límite no afectará a las operaciones de tesorería que se concierten y amorticen dentro del año, ni a la refinanciación de la deuda contraída a corto y largo plazo.
 
 (5) Esta cifra se entenderá como incremento neto máximo de las deudas financieras a corto y largo plazo entre el 1 de enero y el 31 de diciembre de 2013.
+
+> Se modifica por el art. 3 del Real Decreto-ley 11/2013, de 2 de agosto. Ref. BOE-A-2013-8556.
 
 > Se modifica por la disposición final 4 del Real Decreto-ley 8/2013, de 28 de junio. Ref. BOE-A-2013-7063.
