@@ -12,6 +12,16 @@ I. Derecho a acogerse a los beneficios del Convenio.
 
 (iii) El presente Convenio no impedirá a los Estados contratantes la aplicación de sus normas internas relativas a la transparencia fiscal internacional ‘‘Controlled Foreign Companies’’.
 
+I bis. Con referencia al artículo 4.
+
+En relación con el apartado 1 del artículo 4 se entenderá que la expresión ‘‘residente de un Estado contratante’’ comprende los fondos o planes de pensiones reconocidos, constituidos en ese Estado.
+
+La expresión ‘‘fondo o plan de pensiones reconocido’’ significa todo plan, fondo, mutualidad u otra institución constituida en un Estado contratante.
+
+i) que gestione el derecho de las personas a cuyo favor se constituye a percibir rentas o capitales por jubilación, supervivencia, viudedad, orfandad o invalidez; y
+
+ii) cuando las aportaciones a los mismos puedan optar a beneficios fiscales en forma de reducción en la base del impuesto sobre la renta de las personas físicas.
+
 II. Con referencia al artículo 10, apartado 2, subapartado b).
 
 Con referencia al artículo 10, apartado 2, subapartado b) del presente Convenio, una sociedad residente de un Estado contratante no podrá beneficiarse de la exención total de la retención en la fuente del impuesto aplicable a los dividendos procedentes del otro Estado contratante cuando la titularidad de la mayoría de sus acciones recaiga principalmente, directa o indirectamente, en personas que no sean residentes de un Estado contratante, o de un Estado miembro de la Unión Europea, a menos que la sociedad que percibe los dividendos:
@@ -36,49 +46,37 @@ Société à responsabilité limitée/Gesellschaft mit beschränkter Haftung/soc
 
 Société en commandite par actions/Kommandita-ktiengesellschaftl/società in accomandita per azioni.
 
+III bis.
+
+Se entenderá que, conforme a la primera frase del apartado 1 del artículo 23 del Convenio, un residente de España puede optar por eliminar la doble imposición conforme a los métodos y requisitos previstos en la legislación española para las rentas obtenidas en el extranjero (por ejemplo, artículos 21 ó 22 del Real Decreto Legislativo 4/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley del Impuesto sobre Sociedades o de conformidad con los métodos previstos en este artículo 23.
+
 IV. Con referencia al artículo 25 bis.
 
-1. Ambos Estados contratantes han convenido que, en virtud del subapartado b) del apartado 1 del artículo 25 bis, sólo podrá intercambiarse la información que obre en poder de las autoridades fiscales y que no exija recurrir a medidas específicas de investigación.
+1. Se entenderá que el intercambio de información únicamente podrá solicitarse una vez agotadas todas las fuentes habituales de información del Estado contratante que requiere la información, de las que disponga en aplicación de su procedimiento tributario interno, excepto aquellas que pudieran generar dificultades desproporcionadas.
 
-2. Se entenderá que, por lo que respecta al subapartado b) antes mencionado, las Sociedades suizas a las que sea aplicable el artículo 28, apartado 2 de la ‘‘Loi fédérale sur I’harmonisation des impôts directs’’ (Ley federal sobre la armonización de los impuestos directos) de 14 de diciembre de 1994 y las sociedades españolas que puedan acogerse a los artículos 116 a 119 de la Ley del Impuesto sobre sociedades españolas (Real Decreto Legislativo 4/2004, de 5 de marzo), se consideran como entidades de tenencia de valores.
+2. Se entenderá que al formular un requerimiento de información en virtud del artículo 25 bis del Convenio, las autoridades competentes del Estado que solicita la información proporcionarán la siguiente información a las autoridades competentes del Estado requerido:
 
-3. Se entenderá que la expresión «fraude fiscal» implica un comportamiento fraudulento tipificado como delito conforme al Derecho de ambos Estados, punible con penas privativas de libertad, bien en la fecha en que se cometió el delito o bien en la fecha en la que se remitió el requerimiento de información.
+a) la identidad de la persona objeto de inspección o investigación;
 
-4. La expresión «fraude fiscal o infracción equivalente» comprende:
+b) las fechas respecto de las que se solicite la información;
 
-a) Casos por debajo del límite monetario previsto en el artículo 305 del Código Penal español (Ley Orgánica 10/1995, de 23 de noviembre) que constituyan fraude fiscal en virtud del Derecho del Estado requerido.
+c) una declaración sobre la información solicitada en la que conste su naturaleza y la forma en la que la Parte requirente desee recibir la información de la Parte requerida;
 
-b) Casos de simulación tramitados según el procedimiento previsto en el Artículo 16 de la Ley General Tributaria española (Ley 58/2003, de 17 de diciembre); la simulación se entenderá únicamente conforme a lo establecido en el artículo 1275 del Código Civil español.
+d) la finalidad fiscal para la que se solicita la información;
 
-5. En concreto, se presumirá un comportamiento fraudulento en aquellas situaciones en las que el contribuyente utilice, o tenga la intención de utilizar, una prueba documental falsa y en aquellas en las que el contribuyente utilice, o tenga la intención de utilizar, una trama («Lügengebäude») con el fin de engañar a las autoridades fiscales.
+e) en la medida en que se conozca, el nombre y el domicilio de toda persona en cuyo poder se crea que obra la información solicitada;
 
-6. Se entenderá que para determinar la existencia de fraude fiscal o infracción equivalente en un caso que entrañe el ejercicio real de una actividad profesional o empresarial [comprendidas las actividades profesionales o empresariales desarrolladas a través de una sociedad unipersonal, sociedad personalista (‘‘partnership’’) o entidad similar], el Estado requerido asumirá como propias las exigencias relativas a los libros contables aplicables conforme al Derecho interno del Estado requirente.
+3. Se entenderá que el criterio de “pertinencia previsible” tiene como finalidad establecer un intercambio de información en materia tributaria tan amplio como sea posible y, al mismo tiempo, aclarar que los Estados no tienen libertad para emprender búsquedas indefinidas de pruebas (“fishing expeditions”), ni para solicitar información de dudosa pertinencia respecto a la situación fiscal de un determinado contribuyente. Mientras que el apartado 2 contiene importantes requisitos procedimientales al objeto de garantizar que no se emprendan búsquedas indefinidas de pruebas, los subapartados a) a e) deben interpretarse de forma que no se malogre el intercambio efectivo de información.
 
-7. En cualquier caso, un intercambio de información presupone una relación directa entre el comportamiento fraudulento y la asistencia administrativa requerida.
+4. Se entenderá asimismo que el artículo 25 bis del Convenio no obliga a los Estados contratantes a intercambiar información de forma automática o espontánea.
 
-8. Se entenderá también que la asistencia administrativa prevista en el apartado 1 de este artículo no comprende las medidas orientadas exclusivamente a la búsqueda preliminar de pruebas comprometedoras (‘‘fishing expeditions’’).
+5. Se entenderá que en caso de intercambio de información, las normas de procedimiento administrativo relativas a los derechos de los contribuyentes aplicables en el Estado contratante al que se solicite la información seguirán siendo aplicables antes de la transmisión de la información al Estado contratante que la ha solicitado. Se entenderá asimismo que el objetivo de esta disposición es garantizar al contribuyente un procedimiento justo y no el de impedir o retrasar indebidamente el proceso de intercambio de información.
 
-9. No obstante el apartado 2 del artículo 25 bis, la información recibida por un Estado contratante podrá utilizarse con otros fines cuando dicha información pueda utilizarse para esos mismos otros fines conforme al Derecho del Estado que la provee. En caso de duda las autoridades competentes harán lo posible para resolver mediante acuerdo amistoso cualquier divergencia relacionada con la interpretación de las leyes del Estado requerido.
+6. La autoridad competente remitirá al otro Estado contratante la información solicitada tan pronto como sea posible. El tiempo que transcurra desde la petición de la información hasta su recepción por el Estado que la solicitó no será considerado a los efectos del cálculo de los límites temporales previstos en la legislación fiscal española respecto de los procedimientos fiscales de la Administración Tributaria.
 
-10. El Estado requerido proporcionará información cuando el Estado requirente tenga la sospecha razonable de que un determinado proceder constituya fraude fiscal o infracción equivalente. La sospecha de fraude fiscal o infracción equivalente que albergue el Estado requirente puede basarse en:
+7. Las personas implicadas en una actuación seguida en España no podrán invocar irregularidades en el procedimiento seguido en Suiza para recurrir su caso ante los tribunales españoles.
 
-(a) documentos, autenticados o no, que comprendan, entre otros, documentos empresariales, libros de contabilidad o información sobre cuentas bancarias;
-
-(b) el testimonio del contribuyente;
-
-(c) información obtenida de un informador o de un tercero que se haya corroborado de forma independiente o que por otros motivos resulte creíble; o
-
-(d) pruebas circunstanciales.
-
-11. a) En caso de que Suiza concluyera con un Estado Miembro de la Unión Europea, relacionado con el intercambio de información, un acuerdo de cualquier tipo o naturaleza, o una disposición contenida en un Convenio para evitar la doble imposición, en relación con los impuestos objeto del presente Convenio, Suiza concederá a España el mismo nivel de cooperación que el previsto en tal acuerdo, disposición o parte de los mismos, y España procederá del mismo modo.
-
-b) No obstante el apartado 11, subapartado a) anterior, cuando Suiza haya definido en un convenio para evitar la doble imposición con otro Estado miembro de la Unión Europea una o más categorías específicas de casos que pudieran considerarse fraude fiscal o infracción equivalente conforme al artículo 10, apartado 4, del Acuerdo entre la Comunidad y la Confederación Suiza relativo al establecimiento de medidas equivalentes a las previstas en la Directiva 2003/48/CE del Consejo en materia de fiscalidad de los rendimientos del ahorro en forma de pago de intereses, así como su Memorándum de Entendimiento, y España considerara que existe una situación similar conforme a su legislación interna, las autoridades competentes españolas se dirigirán entonces a las autoridades competentes suizas con el fin de acordar la adaptación del Protocolo en consecuencia. El acuerdo se someterá a la aprobación parlamentaria en ambos Estados contratantes.
-
-12. Por lo que respecta a los procedimientos seguidos en España para obtener información, incluida la información bancaria, en el caso de fraude fiscal o infracción equivalente conforme al artículo 25 bis, las autoridades competentes españolas aplicarán los procedimientos internos previstos en el Derecho español a fin de satisfacer el requerimiento de información de las autoridades competentes suizas.
-
-Las personas implicadas en una actuación seguida en España no podrán invocar irregularidades en el procedimiento seguido en Suiza para recurrir su caso ante los tribunales españoles.
-
-En caso de que el contribuyente recurriera la decisión de la Administración Federal fiscal suiza respecto de la transmisión de información a las autoridades competentes españolas, cualquier demora que se produjera por este motivo no será computable en la aplicación de los límites temporales previstos en la legislación fiscal española respecto de los procedimientos fiscales de la Administración Tributaria.
+En caso de que el contribuyente recurriera la decisión adoptada por la Administración Tributaria Federal Suiza respecto de la transmisión de información a la autoridad competente española, cualquier demora que se produjera por este motivo no será computable en la aplicación de los límites temporales previstos en la legislación fiscal española respecto de los procedimientos fiscales de la Administración Tributaria.
 
 En fe de lo cual, los signatarios, debidamente autorizados al efecto, han firmado y sellado el presente Protocolo.
 
@@ -87,5 +85,7 @@ Hecho en doble ejemplar en Madrid, el 29 de junio de 2006 en las lenguas españo
 | Por el Gobierno del Reino de España | Por el Consejo Federal Suizo, |
 | --- | --- |
 | Carlos Ocaña y Pérez de Tudela Secretario de Estado de Hacienda y Presupuestos | Armin Ritz Embajador de Suiza en España |
+
+> Se añaden los epígrafes I bis y III bis y se modifica el epígrafe IV por los arts. 10 a 12 del Protocolo de 27 de julio de 2011. Ref. BOE-A-2013-6151
 
 > Se añade por el art. 6 del Protocolo de 29 de junio de 2006. Ref. BOE-A-2007-6418
