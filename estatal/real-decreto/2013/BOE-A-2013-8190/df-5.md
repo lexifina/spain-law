@@ -1,0 +1,3 @@
+## Disposición final quinta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día 1 de septiembre de 2013.

@@ -1,0 +1,5 @@
+## Disposición adicional primera. Suscriptores del convenio especial de prestación de asistencia sanitaria que se desplacen temporalmente.
+
+Toda persona que se desplace temporalmente a territorio comprendido en administración pública distinta de aquella con la que haya suscrito el convenio especial de prestación de asistencia sanitaria, tendrá derecho a recibir en ese territorio las prestaciones de la cartera común básica de servicios asistenciales del Sistema Nacional de Salud.
+
+En este caso, resultarán de aplicación los mismos procedimientos de compensación contemplados para el Fondo de Garantía Asistencial en el artículo 3 del Real Decreto-ley 16/2012, de 20 de abril, de medidas urgentes para garantizar la sostenibilidad del Sistema Nacional de Salud y mejorar la calidad y seguridad de sus prestaciones, utilizándose como base de compensación para los desplazamientos temporales de larga duración a otras comunidades autónomas y ciudades de Ceuta y Melilla las cuantías señaladas en el artículo 6 de este real decreto.
