@@ -234,6 +234,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [TITULO VI](tvi.md)
 - [CAPITULO I](ci-3.md)
 - [Artículo 138](a138.md)
+- [Artículos 138 a 161](as138a161.md)
 - [CAPÍTULO II](cii-3.md)
 - [SECCION I](si-5.md)
 - [Artículo 139](a139.md)

@@ -114,6 +114,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 76](a76.md)
 - [Artículo 77](a77.md)
 - [Artículo 78](a78.md)
+- [Artículos 72 a 78](as72a78.md)
 - [CAPÍTULO V](cv.md)
 - [Artículo 79](a79.md)
 - [Disposición adicional única](daunica.md)
