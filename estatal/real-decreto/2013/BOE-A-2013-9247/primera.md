@@ -1,0 +1,7 @@
+## Primera. Objeto y normativa aplicable.
+
+1. Se establecen las directrices generales de los planes de estudios de la enseñanza de formación para la incorporación a la Escala Superior de Oficiales del Cuerpo de la Guardia Civil.
+
+2. Según lo dispuesto en el artículo 20.4 de la Ley 42/1999, de 25 de noviembre, de Régimen del Personal del Cuerpo de la Guardia Civil, y en la disposición transitoria única del Real Decreto 1959/2009, de 18 de diciembre, por el que se crea el Centro Universitario de la Guardia Civil, durante los períodos que permanezcan en la Academia General Militar, a los alumnos de la Guardia Civil les será de aplicación la Orden DEF/1158/2010, de 3 de mayo, sobre directrices generales de los planes de estudios de la formación militar general, específica y técnica para el acceso a las diferentes escalas de oficiales de las Fuerzas Armadas, y la Orden Ministerial 49/2010, de 30 de julio, por la que se establecen las normas de evaluación y de progreso y permanencia en los centros docentes militares de formación para la incorporación a las escalas de oficiales de las Fuerzas Armadas.
+
+3. Para participar en los procesos de selección para cursar las enseñanzas de formación para la incorporación a la Escala Superior de Oficiales de la Guardia Civil, los aspirantes deberán haber superado la prueba de acceso a la universidad contemplada en el artículo 38.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
