@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Real Decreto 1636/2011, de 14 de noviembre, por el que se aprueba el Estatuto de la Entidad Pública Empresarial ICEX España Exportación e Inversiones (ICEX)", según establece el art. único.1 del Real Decreto 608/2013, de 2 de agosto. Ref. BOE-A-2013-9353.
