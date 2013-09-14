@@ -16,7 +16,7 @@ Los controles básicos comprenden:
 
 1.1.4. La medición de w puede también realizarse sobre un banco de rodillos tarable, apropiado para esta finalidad.
 
-1.1.5. Adaptar w a la constante K del tacógrafo, con una tolerancia de más o menos 2 por 100, de forma que el tacógrafo montado pueda mantener los límites de error que establece el epígrafe 4.6 del anexo de la Orden del Ministerio de Industria y Energía de 16 de noviembre de 1981, sobre homologación de tacógrafos.
+1.1.5 Adaptar la constante "K" del tacógrafo al coeficiente característico del vehículo "w" con una tolerancia inferior a ± 2%.
 
 La adaptación puede realizarse por medio de un engranaje adaptador (corrector) o en el propio tacógrafo, debiéndose revisar el mantenimiento de los límites de error.
 
@@ -74,54 +74,14 @@ Esta prueba comprende:
 
 1.4.4. En los controles posteriores del tacógrafo se verificará el valor de w grabado en la placa de montaje.
 
-1.5. Placa de montaje.
+1.5. Placa de montaje. (Suprimido)
 
-Efectuado el control de instalación, se colocará en el vehículo o junto al tacógrafo, una placa de montaje bien visible, que se sustituirá por otra nueva siempre que se realice un nuevo control.
-
-1.5.1. La placa de montaje ha de contener los siguientes datos:
-
-a) Nombre, dirección o marca comercial del instalador o del taller autorizado.
-
-b) Número de revoluciones de recorrido adaptado a la entrada del tacógrafo, en la forma «w = ... giros/km» o «w = ... impulsos/km».
-
-c) Perímetro efectivo de los neumáticos, en la forma «I = ... mm».
-
-d) Fecha de control.
-
-1.5.2. La placa de montaje deberá precintarse, lo que también puede realizarse por medio de una lámina de precinto.
-
-1.6. Justificantes de control.
-
-1.6.1. Por cada verificación deberá extenderse un justificante de control, en el que se indicará:
-
-– En todos los controles a que se refieren los artículos segundo y tercero de esta Orden ministerial: propietario, fabricante, número de bastidor, así como número de matrícula del vehículo en cuestión, resultado del control y fecha de colocación de la placa de montaje.
-
-– En los controles relativos a la instalación de primeros equipos, realizados por el propio fabricante del vehículo: número de bastidor del vehículo en cuestión, el resultado del control y la fecha de colocación de la placa de montaje.
-
-1.6.2. El registro de los justificantes de control deberá conservarse durante tres años a disposición de las Direcciones Provinciales del Ministerio de Industria y Energía u órganos competentes de las Comunidades Autónomas.
+1.6. Justificantes de control. (Suprimido)
 
 2. INSPECCIONES OFICIALES
 
-2.1. Las inspecciones oficiales de las instalaciones de tacógrafos en los vehículos comprobarán si se encuentra instalada la placa de montaje a que se refiere el punto 1.5 de este anexo.
+(Suprimido)
 
-2.2. Se realizará además un control visual de los siguientes puntos:
-
-a) Comparación de las dimensiones de los neumáticos del vehículo con los datos de la documentación del vehículo o con el perímetro efectivo de los mismos, según la placa de montaje.
-
-b) Comprobación del funcionamiento del tacógrafo.
-
-c) Comprobación de los precintos en las uniones mecánicas y eléctricas desmontables.
-
-d) Con el tacógrafo abierto, verificar que las tapas de acceso a los mecanismos de registro y de recorrido están precintadas.
-
-e) Respecto al disco-diagrama, verificar que todas las agujas ofrecen un registro inequívoco en base a su control visual. El registro de velocidades no debe presentar arcos ni ángulos uniformes, debiendo comenzar en la línea de reposo. Durante la marcha, el registrador de tiempo ha de marcar un registro en forma de trazos o de escalones. El recorrido ha de ofrecer la forma usual de zig-zag.
-
-f) El final de la gama de medición del tacógrafo (por ejemplo: 80, 100, 125 km/h) ha de coincidir con el final de la gama de registro del disco-diagrama utilizado.
-
-g) El cierre o apertura del tacógrafo quedará marcado en el disco-diagrama.
-
-h) El funcionamiento del mecanismo de relojería puede comprobarse en el propio tacógrafo o en el disco-diagrama, verificando que no se producen registros verticales de las agujas.
-
-i) Todas las agujas de registro deberán poderse mover fácilmente presionando el muelle y no estar dobladas, verificándose en su caso con una plantilla de control.
+> Se suprimen los epígrafes 1.1.5, 1.5, 1.6 y 2 por la disposición final 1.3 a 6 de la Orden IET/1071/2013, de 6 de junio. Ref. BOE-A-2013-6413.
 
 > Se modifica el punto 1.5 por el apartado 1 de la Orden de 11 de julio de 1983. Ref. BOE-A-1983-20069.

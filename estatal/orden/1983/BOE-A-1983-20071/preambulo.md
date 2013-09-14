@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada em BOE núm. 195, de 16 de agosto de 1983. Ref. BOE-A-1983-22060.
+Norma derogada por la disposición derogatoria única 1.c) de la Orden IET/1071/2013, de 6 de junio. Ref. BOE-A-2013-6413.
