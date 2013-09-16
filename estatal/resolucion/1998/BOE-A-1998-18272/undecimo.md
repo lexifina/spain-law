@@ -16,6 +16,6 @@ e) El inicio, instrucción y resolución de los expedientes sancionadores que se
 
 3. El titular de la Administración de Aduanas e Impuestos Especiales dirigirá las actuaciones que los Resguardos Fiscal y Aduanero lleven a cabo dentro del recinto aduanero en el que desempeña sus funciones.
 
-4. En el Anexo III se enumeran las Administraciones de Aduanas e Impuestos Especiales.
+> Se suprime el punto 4 por el apartado 2.6 de la Resolución de 5 de septiembre de 2013. Ref. BOE-A-2013-9491.
 
 > Se modifica por el art. único.9 de la Resolución de 28 de diciembre de 2012. Ref. BOE-A-2012-15704.

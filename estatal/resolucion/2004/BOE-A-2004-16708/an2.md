@@ -1,23 +1,14 @@
 ## ANEXO II
 
-## Administraciones de la Agencia Estatal de Administración Tributaria
+## Administraciones de la Agencia Tributaria y Administraciones de Aduanas e Impuestos Especiales
 
-I. Relación de Administraciones.
+I. Relación de Administraciones de la Agencia Tributaria
 
 Delegación Especial de Andalucía, Ceuta y Melilla
 
-| Administración | Delegación |
+| Administración de la Agencia Tributaria | Delegación |
 | --- | --- |
-| Huércal-Overa. | Almería. |
-| El Ejido. | Almería. |
-| Algeciras. | Cádiz. |
-| Chiclana de la Frontera. | Cádiz. |
-| El Puerto de Santa María. | Cádiz. |
-| Sanlúcar de Barrameda. | Cádiz. |
-| San Roque. | Cádiz. |
-| Ubrique. | Cádiz. |
-| Lucena. | Córdoba. |
-| Montilla. | Córdoba. |
+| Huércal-Overa. El Ejido. Algeciras. Chiclana de la Frontera. El Puerto de Santa María. Sanlúcar de Barrameda. San Roque. Ubrique. Lucena. Montilla. | Almería. Almería. Cádiz. Cádiz. Cádiz. Cádiz. Cádiz. Cádiz. Córdoba. Córdoba. |
 | Peñarroya-Pueblonuevo. | Córdoba. |
 | Pozoblanco. | Córdoba. |
 | Baza. | Granada. |
@@ -51,7 +42,7 @@ Delegación Especial de Andalucía, Ceuta y Melilla
 
 Delegación Especial de Aragón
 
-| Administración | Delegación |
+| Administración de la Agencia Tributaria | Delegación |
 | --- | --- |
 | Monzón. | Huesca. |
 | Alcañiz. | Teruel. |
@@ -63,32 +54,23 @@ Delegación Especial de Aragón
 
 Delegación Especial de Asturias
 
-| Administración | Delegación Gijón. |
+| Administración de la Agencia Tributaria | Delegación |
 | --- | --- |
-| Avilés. |
-| Cangas de Narcea. |
-| Cangas de Onís. |
-| Langreo. |
-| Luarca-Valdés. |
-| Mieres. |
+| Cangas de Onís Avilés Cangas de Narcea Langreo Luarca-Valdés Mieres. | Gijón Delegación Especial Delegación Especial Delegación Especial Delegación Especial Delegación Especial. |
 
 Delegación Especial de Illes Balears
 
-Administración:
-
-Eivissa-Formentera.
-
-Inca.
-
-Menorca.
-
-Manacor.
-
-Palma de Mallorca.
+| Administración de la Agencia Tributaria |
+| --- |
+| Eivissa-Formentera. |
+| Inca. |
+| Menorca. |
+| Manacor. |
+| Palma de Mallorca. |
 
 Delegación Especial de Canarias
 
-| Administración | Delegación |
+| Administración de la Agencia Tributaria | Delegación |
 | --- | --- |
 | Lanzarote. | Delegación Especial. |
 | Santa María de Guía. | Delegación Especial. |
@@ -104,17 +86,13 @@ Delegación Especial de Canarias
 
 Delegación Especial de Cantabria
 
-Administración:
-
-Laredo.
-
-Reinosa.
-
-Torrelavega.
+| Administración de la Agencia Tributaria |
+| --- |
+| Laredo Reinosa Torrelavega |
 
 Delegación Especial de Castilla-La Mancha
 
-| Administración | Delegación |
+| Administración de la Agencia Tributaria | Delegación |
 | --- | --- |
 | Hellín. | Albacete. |
 | La Roda. | Albacete. |
@@ -127,7 +105,7 @@ Delegación Especial de Castilla-La Mancha
 
 Delegación Especial de Castilla y León
 
-| Administración | Delegación |
+| Administración de la Agencia Tributaria | Delegación |
 | --- | --- |
 | Aranda de Duero. | Burgos. |
 | Miranda de Ebro. | Burgos. |
@@ -142,19 +120,19 @@ Delegación Especial de Castilla y León
 
 Delegación Especial de Cataluña
 
-| Administración | Delegación |
+| Administración de la Agencia Tributaria | Delegación |
 | --- | --- |
 | Arenys de Mar. | Delegación Especial. |
 | Badalona. | Delegación Especial. |
 | Berga. | Delegación Especial. |
-| Cornellá de Llobregat. | Delegación Especial. |
+| Cornellà de Llobregat. | Delegación Especial. |
 | Granollers. | Delegación Especial. |
 | L'Hospitalet de Llobregat. | Delegación Especial. |
 | Igualada. | Delegación Especial. |
 | Manresa. | Delegación Especial. |
 | Mataró. | Delegación Especial. |
 | Sabadell. | Delegación Especial. |
-| Sant Cugat del Vallés. | Delegación Especial. |
+| Sant Cugat del Vallès. | Delegación Especial. |
 | Sant Feliu de Llobregat. | Delegación Especial. |
 | Santa Coloma de Gramenet. | Delegación Especial. |
 | Terrassa. | Delegación Especial. |
@@ -176,24 +154,15 @@ Delegación Especial de Cataluña
 
 Delegación Especial de Extremadura
 
-| Administración | Delegación |
+| Administración de la Agencia Tributaria | Delegación |
 | --- | --- |
-| Don Benito. | Delegación Especial. |
-| Mérida. | Delegación Especial. |
-| Zafra. | Delegación Especial. |
-| Navalmoral de la Mata. | Cáceres. |
-| Plasencia. | Cáceres. |
-| Trujillo. | Cáceres. |
+| Don Benito Mérida Zafra Navalmoral de la Mata Plasencia Trujillo. | Delegación Especial Delegación Especial Delegación Especial Cáceres Cáceres Cáceres. |
 
 Delegación Especial de Galicia
 
-| Administración | Delegación |
+| Administración de la Agencia Tributaria | Delegación |
 | --- | --- |
-| Betanzos. | Delegación Especial. |
-| Carballo. | Delegación Especial. |
-| Cee. | Delegación Especial. |
-| Ferrol. | Delegación Especial. |
-| A Coruña. | Delegación Especial. |
+| Betanzos. Carballo. Cee. Ferrol. A Coruña. | Delegación Especial. Delegación Especial. Delegación Especial. Delegación Especial. Delegación Especial. |
 | Ortigueira. | Delegación Especial. |
 | Ribeira. | Delegación Especial. |
 | Santiago de Compostela. | Delegación Especial. |
@@ -210,103 +179,53 @@ Delegación Especial de Galicia
 
 Delegación Especial de Madrid
 
-Administración de la Agencia:
-
-Alcalá de Henares.
-
-Alcobendas.
-
-Alcorcón.
-
-Aranjuez.
-
-Arganda.
-
-Colmenar Viejo.
-
-El Escorial
-
-Fuenlabrada.
-
-Getafe.
-
-Leganés.
-
-Móstoles.
-
-Pozuelo de Alarcón.
-
-Torrejón de Ardoz.
-
-Carabanchel.
-
-Montalbán.
-
-Ciudad Lineal.
-
-Fermín Caballero.
-
-Latina.
-
-Villa de Vallecas.
-
-María de Molina.
-
-San Blas.
-
-Vinateros.
-
-Villaverde-Usera.
-
-Guzmán el Bueno.
+| Administración de la Agencia Tributaria |
+| --- |
+| Alcalá de Henares. |
+| Alcobendas. |
+| Alcorcón. |
+| Aranjuez. |
+| Arganda. |
+| Colmenar Viejo. |
+| El Escorial. |
+| Fuenlabrada. |
+| Getafe. |
+| Leganés. |
+| Móstoles. |
+| Pozuelo de Alarcón. |
+| Torrejón de Ardoz. |
+| Carabanchel. |
+| Montalbán. |
+| Ciudad Lineal. |
+| Fermín Caballero. |
+| Latina. |
+| Villa de Vallecas. |
+| María de Molina. |
+| San Blas. |
+| Vinateros. |
+| Villaverde-Usera. |
+| Guzmán el Bueno. |
 
 Delegación Especial de Murcia
 
-Administración de la Agencia:
+| Administración de la Agencia Tributaria |
+| --- |
+| Cieza. Lorca. Mula. Murcia. |
 
-Cieza.
+Delegación Especial de la Rioja
 
-Lorca.
-
-Mula.
-
-Murcia.
-
-Administración de la Agencia:
-
-Calahorra.
-
-Haro.
+| Administración de la Agencia Tributaria |
+| --- |
+| Calahorra. |
+| Haro. |
 
 Delegación Especial de Valencia
 
 | Administración de la Agencia Tributaria | Delegación |
 | --- | --- |
-| Alcoy/Alcoi. | Alicante/Alacant. |
-| Benidorm. | Alicante/Alacant. |
-| Dénia. | Alicante/Alacant. |
-| Elche/Elx. | Alicante/Alacant. |
-| Elda. | Alicante/Alacant. |
-| Orihuela. | Alicante/Alacant. |
-| Villena. | Alicante/Alacant. |
-| Alicante/Alacant. | Alicante/Alacant. |
-| Vila-real. | Castellón/Castelló. |
-| Vinaròs. | Castellón/Castelló. |
-| Alzira. | Delegación Especial. |
-| Catarroja. | Delegación Especial. |
-| Gandia. | Delegación Especial. |
-| Xàtiva. | Delegación Especial. |
-| Llíria. | Delegación Especial. |
-| Manises. | Delegación Especial. |
-| Moncada. | Delegación Especial. |
-| Requena. | Delegación Especial. |
-| Sagunto/Sagunt. | Delegación Especial. |
-| Sueca. | Delegación Especial. |
-| Torrent. | Delegación Especial. |
-| Blasco Ibáñez. | Delegación Especial. |
-| Valencia-Guillem de Castro. | Delegación Especial. |
+| Alcoy/Alcoi. Benidorm. Dénia. Elche/Elx. Elda. Orihuela. Villena. Alicante/Alacant. Vila-real. Vinaròs. Alzira. Catarroja. Gandia. Xàtiva. Llíria. Manises. Moncada. Requena. Sagunto/Sagunt. Sueca. Torrent. Blasco Ibáñez. Valencia-Guillem de Castro. | Alicante/Alacant. Alicante/Alacant. Alicante/Alacant. Alicante/Alacant. Alicante/Alacant. Alicante/Alacant. Alicante/Alacant. Alicante/Alacant. Castellón/Castelló. Castellón/Castelló. Delegación Especial. Delegación Especial. Delegación Especial. Delegación Especial. Delegación Especial. Delegación Especial. Delegación Especial. Delegación Especial. Delegación Especial. Delegación Especial. Delegación Especial. Delegación Especial. Delegación Especial. |
 
-II. Ámbito territorial.
+II. Ámbito territorial de las Administraciones de la Agencia Tributaria
 
 Delegación Especial de Andalucía, Ceuta y Melilla
 
@@ -320,7 +239,7 @@ El ámbito territorial de esta Delegación abarca todos los municipios de la pro
 
 1.2 Administraciones.
 
-Código 04053. Administración Huércal-Overa.
+Código 04053. Administración Huércal-Overa:
 
 Albánchez.
 
@@ -406,7 +325,7 @@ Vera.
 
 Zurgena.
 
-Código 04104. Administración El Ejido.
+Código 04104. Administración El Ejido:
 
 Adra.
 
@@ -440,7 +359,7 @@ El ámbito territorial de esta Delegación abarca todos los municipios de la pro
 
 2.2 Administraciones.
 
-Código 11004. Administración Algeciras.
+Código 11004. Administración Algeciras:
 
 Algeciras.
 
@@ -456,7 +375,7 @@ San Roque.
 
 Tarifa.
 
-Código 11015. Administración Chiclana de la Frontera.
+Código 11015. Administración Chiclana de la Frontera
 
 Alcalá de los Gazules.
 
@@ -474,7 +393,7 @@ Paterna de Rivera.
 
 Vejer de la Frontera.
 
-Código 11027. Administración Puerto de Santa María (El).
+Código 11027. Administración Puerto de Santa María (El)
 
 Chipiona.
 
@@ -496,13 +415,13 @@ Código 11038. Administración Ubrique.
 
 3. Delegación de la Agencia Estatal de Administración Tributaria de Córdoba.
 
-3.1 Delegación Córdoba. Código 14600.
+3.1 Delegación Córdoba.Código 14600.
 
 El ámbito territorial de esta Delegación abarca todos los municipios de la provincia de Córdoba salvo los asignados a alguna de las Administraciones siguientes.
 
 3.2 Administraciones.
 
-Código 14038. Administración Lucena.
+Código 14038. Administración Lucena:
 
 Almedinilla.
 
@@ -538,7 +457,7 @@ Rute.
 
 Zuheros.
 
-Código 14042. Administración Montilla.
+Código 14042. Administración Montilla:
 
 Aguilar de la Frontera.
 
@@ -580,7 +499,7 @@ El ámbito de esta Delegación abarca los códigos postales del municipio de Gra
 
 4.2 Administraciones.
 
-Código 18142. Administración Motril.
+Código 18142. Administración Motril:
 
 Albondón.
 
@@ -666,9 +585,11 @@ Valor.
 
 Vélez de Benaudalla.
 
-Código 18601. Administración Granada-Almanjayar.
+Código 18601. Administración Granada-Almanjayar:
 
 Códigos postales de Granada números: 18011 y 18013.
+
+Agrón.
 
 Alamedilla.
 
@@ -682,7 +603,7 @@ Alfacar.
 
 Alicún de Ortega.
 
-Alquife.
+Alquife
 
 Atarfe.
 
@@ -730,9 +651,9 @@ Dehesas de Guadix.
 
 Deifontes.
 
-Dólar.
-
 Diezma.
+
+Dólar.
 
 Ferreira.
 
@@ -760,7 +681,7 @@ Huélago.
 
 Huéneja.
 
-Huéscar
+Huéscar.
 
 Huétor de Santillán.
 
@@ -770,7 +691,7 @@ Iznalloz.
 
 Jayena.
 
-Jérez Marquesado.
+Jerez Marquesado.
 
 Jun.
 
@@ -780,7 +701,7 @@ Lanteira.
 
 Lugros.
 
-Marchal.
+Marchal,
 
 Maracena.
 
@@ -804,13 +725,13 @@ Peza (La).
 
 Pinos-Puente.
 
-Píñar.
+Piñar.
 
 Policar.
 
 Puebla de Don Fadrique.
 
-Purullena
+Purullena.
 
 Pulianas.
 
@@ -822,7 +743,7 @@ Ventas de Huelma.
 
 Villanueva de las Torres.
 
-Víznar.
+Viznar.
 
 Zújar.
 
@@ -844,7 +765,7 @@ El ámbito territorial de esta Delegación abarca todos los municipios de la pro
 
 5.2 Administraciones.
 
-Código 21054. Administración Palma del Condado (La).
+Código 21054. Administración Palma del Condado (La):
 
 Almonte.
 
@@ -880,7 +801,7 @@ Código 21007. Administración Aracena.
 
 Código 21010. Administración Ayamonte.
 
-6. Delegación de la Agencia Estatal de Administración Tributaria de Jaén.
+6. Delegación de la Agencia Estatal de Administración Tributaria de Jaén
 
 6.1 Delegación Jaén. Código 23600.
 
@@ -888,7 +809,7 @@ El ámbito territorial de esta Delegación abarca todos los municipios de la pro
 
 6.2 Administraciones.
 
-Código 23005. Administración Andújar.
+Código 23005. Administración Andújar:
 
 Andújar.
 
@@ -912,7 +833,7 @@ Mengíbar.
 
 Villanueva de la Reina.
 
-Código 23055. Administración Linares.
+Código 23055. Administración Linares:
 
 Aldeaquemada.
 
@@ -940,7 +861,7 @@ Torreblascopedro.
 
 Vilches.
 
-Código 23092. Administración Úbeda.
+Código 23092. Administración Úbeda:
 
 Arroyo del Ojanco.
 
@@ -1034,7 +955,7 @@ El ámbito de esta Delegación abarca los códigos postales del municipio de Má
 
 7.2 Administraciones.
 
-Código 29015. Administración Antequera.
+Código 29015. Administración Antequera:
 
 Alameda.
 
@@ -1072,7 +993,7 @@ Villanueva del Rosario.
 
 Villanueva del Trabuco.
 
-Código 29069. Administración Marbella.
+Código 29069. Administración Marbella
 
 Benahavís.
 
@@ -1088,7 +1009,7 @@ Marbella.
 
 Ojén.
 
-Código 29084. Administración Ronda.
+Código 29084. Administración Ronda:
 
 Algatocín.
 
@@ -1140,7 +1061,7 @@ Ronda.
 
 Yunquera.
 
-Código 29094. Administración Vélez-Málaga.
+Código 29094. Administración Vélez-Málaga:
 
 Alcaucín.
 
@@ -1190,7 +1111,7 @@ Vélez-Málaga.
 
 Viñuela.
 
-Código 29103. Administración Torremolinos.
+Código 29103. Administración Torremolinos:
 
 Alhaurín de la Torre.
 
@@ -1242,25 +1163,25 @@ Jerez de la Frontera.
 
 Prado del Rey.
 
-Trebujena.
+San José del Valle.
+
+Trebujena
 
 Villamartín.
 
-San José del Valle.
-
-9. Delegación de la Agencia Estatal de Administración Tributaria de Ceuta (código 55600).
+9. Delegación de la Agencia Estatal de Administración Tributaria de Ceuta (código 55600)
 
 El ámbito de esta Delegación abarca la Ciudad Autónoma de Ceuta.
 
-10. Delegación de la Agencia Estatal de Administración Tributaria de Melilla (código 56600).
+10. Delegación de la Agencia Estatal de Administración Tributaria de Melilla (Código 56600).
 
 El ámbito de esta Delegación abarca la Ciudad Autónoma de Melilla.
 
 11. Integradas directamente en la Delegación Especial de Andalucía, Ceuta y Melilla.
 
-Quedan asignados directamente a la Delegación Especial de Andalucía, Ceuta y Melilla los códigos postales del municipio de Sevilla y los municipios de la provincia de Sevilla salvo los asignados a alguna de las Administraciones siguientes. (Código 41600)
+Quedan asignados directamente a la Delegación Especial de Andalucía, Ceuta y Melilla los códigos postales del municipio de Sevilla y los municipios de la provincia de Sevilla salvo los asignados a alguna de las Administraciones siguientes (Código 41600).
 
-Código 41095. Administración Utrera.
+Código 41095. Administración Utrera:
 
 Algámitas.
 
@@ -1294,7 +1215,7 @@ Puebla de Cazalla (La).
 
 Utrera.
 
-Código 41603. Administración Parque.
+Código 41603. Administración Parque:
 
 Códigos postales de Sevilla números: 41012, 41013 y 41014.
 
@@ -1302,7 +1223,7 @@ Alcalá de Guadaira.
 
 Dos Hermanas.
 
-Código 41604. Administración Nervión-San Pablo.
+Código 41604. Administración Nervión-San Pablo:
 
 Códigos postales de Sevilla números: 41005, 41006, 41007, 41016, 41017, 41018, 41019, 41020.
 
@@ -1312,7 +1233,7 @@ Mairena del Alcor.
 
 Viso del Alcor (El).
 
-Código 41606. Administración Sevilla Oeste-Noroeste.
+Código 41606. Administración Sevilla Oeste-Noroeste:
 
 Albaida del Aljarafe.
 
@@ -1428,7 +1349,7 @@ El ámbito territorial de esta Delegación abarca todos los municipios de la pro
 
 1.2 Administraciones.
 
-Código 22218. Administración Monzón.
+Código 22218. Administración Monzón:
 
 Abiego.
 
@@ -1668,7 +1589,7 @@ El ámbito territorial de esta Delegación abarca todos los municipios de la pro
 
 2.2 Administraciones.
 
-Código 44013. Administración Alcañiz.
+Código 44013. Administración Alcañiz:
 
 Aguaviva.
 
@@ -1794,599 +1715,13 @@ Código 50601. Administración Arrabal-Puente de Santiago.
 
 Códigos Postales de Zaragoza números: 50014, 50015, 50016, 50018, 50058, 50059 y 50194.
 
-Código 50603. Administración Las Fuentes.
-
-Códigos Postales de Zaragoza números: 50002, 50007, 50008 y 50013.
-
 Código 50602. Administración Albareda.
 
-Códigos Postales de Zaragoza números: 50001, 50003, 50004, 50005, 50006, 50009, 50010, 50011, 50012, 50017, 50019, 50020, 50021, 50022, 50120, 50139, 50162, 50190, 50191, 50192, 50193, 50197, 50411, 50620, 50692, 50720 y 50820.
+Códigos Postales de Zaragoza números: 50001, 50003, 50004, 50005, 50006, 50009, 50010, 50011, 50012, 50017, 50019, 50020, 50021, 50022, 50120, 50139, 50162, 50190, 50191, 50192, 50193, 50197, 50411, 50620, 50692, 50720 y 50820, y todos los demás municipios de la provincia de Zaragoza.
 
-Municipios de:
+Código 50603. Administración Las Fuentes:
 
-Abanto.
-
-Acered.
-
-Agón.
-
-Aguarón.
-
-Aguilón.
-
-Ainzón.
-
-Aladrén.
-
-Alagón.
-
-Alarba.
-
-Alberite de San Juan.
-
-Albeta.
-
-Alborge.
-
-Alcalá de Ebro.
-
-Alcalá de Moncayo.
-
-Alconchel de Ariza.
-
-Aldehuela de Liestos.
-
-Alfajarín.
-
-Alfamén.
-
-Alforque.
-
-Alhama de Aragón.
-
-Almochuel.
-
-Almolda (La).
-
-Almonacid de la Cuba.
-
-Almonacid de la Sierra.
-
-Almunia de Doña Godina (La).
-
-Alpartir.
-
-Ambel.
-
-Anento.
-
-Aniñón.
-
-Añón de Moncayo.
-
-Aranda de Moncayo.
-
-Arándiga.
-
-Ardisa.
-
-Ariza.
-
-Artieda.
-
-Asín.
-
-Atea.
-
-Ateca.
-
-Azuara.
-
-Badules.
-
-Bagüés.
-
-Balconchán.
-
-Barboles.
-
-Bardallur.
-
-Belchite.
-
-Belmonte de Gracián.
-
-Berdejo.
-
-Berrueco.
-
-Biel.
-
-Bijuesca.
-
-Biota.
-
-Bisimbre.
-
-Boquiñeni.
-
-Bordalba.
-
-Borja.
-
-Botorrita.
-
-Brea de Aragón.
-
-Bubierca.
-
-Bujaraloz.
-
-Bulbuente.
-
-Bureta.
-
-Burgo de Ebro.
-
-Buste (El).
-
-Cabañas de Ebro.
-
-Cabolafuente.
-
-Cadrete.
-
-Calatayud.
-
-Calatorao.
-
-Calcena.
-
-Calmarza.
-
-Campillo de Aragón.
-
-Carenas.
-
-Cariñena.
-
-Caspe.
-
-Castejón de Alarba.
-
-Castejón de las Armas.
-
-Castejón de Valdejasa.
-
-Castiliscar.
-
-Cervera de la Cañada.
-
-Cerveruela.
-
-Cetina.
-
-Chiprana.
-
-Chodes.
-
-Cimballa.
-
-Cinco Olivas.
-
-Clares de Ribota.
-
-Codo.
-
-Codos.
-
-Contamina.
-
-Cosuenda.
-
-Cuarte de Huerva.
-
-Cubel.
-
-Cuerlas (Las).
-
-Daroca.
-
-Ejea de los Caballeros.
-
-Embid de Ariza.
-
-Encinacorba.
-
-Epila.
-
-Erla.
-
-Escatrón.
-
-Fabara.
-
-Farlete.
-
-Fayón.
-
-Fayos (Los).
-
-Figueruelas.
-
-Fombuena.
-
-Frago (El).
-
-Frasno (El).
-
-Fréscano.
-
-Fuendejalón.
-
-Fuendetodos.
-
-Fuentes de Ebro.
-
-Fuentes de Jiloca.
-
-Gallocanta.
-
-Gallur.
-
-Gelsa.
-
-Godojos.
-
-Gotor.
-
-Grisel.
-
-Grisen.
-
-Herrera de los Navarros.
-
-Ibdes.
-
-Illueca.
-
-Isuerre.
-
-Jaraba.
-
-Jarque.
-
-Jaulín.
-
-Joyosa (La).
-
-Lagata.
-
-Langa del Castillo.
-
-Layana.
-
-Lécera.
-
-Lechón.
-
-Leciñena.
-
-Letux.
-
-Litago.
-
-Lituénigo.
-
-Lobera de Onsella.
-
-Longares.
-
-Longás.
-
-Lucena de Jalón.
-
-Luceni.
-
-Luesia.
-
-Luesma.
-
-Lumpiaque.
-
-Luna.
-
-Maella.
-
-Magallón.
-
-Mainar.
-
-Malanquilla.
-
-Maleján.
-
-Mallén.
-
-Malón.
-
-Maluenda.
-
-Manchones.
-
-Mara.
-
-María de Huerva.
-
-Marracos.
-
-Mediana de Aragón.
-
-Mequinenza.
-
-Mesones de Isuela.
-
-Mezalocha.
-
-Mianos.
-
-Miedes de Aragón.
-
-Monegrillo.
-
-Moneva.
-
-Monreal de Ariza.
-
-Monterde.
-
-Montón.
-
-Morata de Jalón.
-
-Morata de Jiloca.
-
-Morés.
-
-Moros.
-
-Moyuela.
-
-Mozota.
-
-Muel.
-
-Muela (La).
-
-Munébrega.
-
-Murero.
-
-Murillo de Gállego.
-
-Navardún.
-
-Nigüella.
-
-Nombrevilla.
-
-Nonaspe.
-
-Novallas.
-
-Novillas.
-
-Nuévalos.
-
-Nuez de Ebro.
-
-Olvés.
-
-Orcajo.
-
-Orera.
-
-Orés.
-
-Oseja.
-
-Osera de Ebro.
-
-Paniza.
-
-Paracuellos de Jiloca.
-
-Paracuellos de la Ribera.
-
-Pastriz.
-
-Pedrola.
-
-Pedrosas (Las).
-
-Perdiguera.
-
-Piedratajada.
-
-Pina de Ebro.
-
-Pinseque.
-
-Pintanos (Los).
-
-Plasencia de Jalón.
-
-Pleitas.
-
-Plenas.
-
-Pomer.
-
-Pozuel de Ariza.
-
-Pozuelo de Aragón.
-
-Pradilla de Ebro.
-
-Puebla de Albortón.
-
-Puebla de Alfindén (La).
-
-Puendeluna.
-
-Purujosa.
-
-Quinto de Ebro.
-
-Remolinos.
-
-Retascón.
-
-Ricla.
-
-Romanos.
-
-Rueda de Jalón.
-
-Ruesca.
-
-Sabiñán.
-
-Sádaba.
-
-Salillas de Jalón.
-
-Salvatierra de Esca.
-
-Samper del Salz.
-
-San Martín de la Virgen de Moncayo.
-
-San Mateo de Gállego.
-
-Santa Cruz de Grío.
-
-Santa Cruz de Moncayo.
-
-Santa Eulalia de Gállego.
-
-Santed.
-
-Sástago.
-
-Sediles.
-
-Sestrica.
-
-Sierra de Luna.
-
-Sigüés.
-
-Sisamón.
-
-Sobradiel.
-
-Sos del Rey Católico.
-
-Tabuenca.
-
-Talamantes.
-
-Tarazona.
-
-Tauste.
-
-Terrer.
-
-Tierga.
-
-Tobed.
-
-Torralba de los Frailes.
-
-Torralba de Ribota.
-
-Torralbilla.
-
-Torrehermosa.
-
-Torrelapaja.
-
-Torrellas.
-
-Torres de Berrellén.
-
-Torrijo de la Cañada.
-
-Tosos.
-
-Trasmoz.
-
-Trasobares.
-
-Uncastillo.
-
-Undués de Lerda.
-
-Urrea de Jalón.
-
-Urriés.
-
-Used.
-
-Utebo.
-
-Val San Martín.
-
-Valdehorna.
-
-Valmadrid.
-
-Valpalmas.
-
-Valtorres.
-
-Velilla de Ebro.
-
-Velilla de Jiloca.
-
-Vera de Moncayo.
-
-Vierlas.
-
-Villadoz.
-
-Villafeliche.
-
-Villafranca de Ebro.
-
-Villalba de Perejil.
-
-Villalengua.
-
-Villamayor de Gállego.
-
-Villanueva de Gállego.
-
-Villanueva de Huerva.
-
-Villanueva de Jiloca.
-
-Villar de los Navarros.
-
-Villarreal de Huerva.
-
-Villarroya de la Sierra.
-
-Villarroya del Campo.
-
-Vilueña (La).
-
-Vistabella.
-
-Zaida (La).
-
-Zuera.
+Códigos Postales de Zaragoza números: 50002, 50007, 50008 y 50013.
 
 Prestarán básicamente servicios de información y de asistencia, así como cualquier otra función que se les encomiende las siguientes Administraciones:
 
@@ -2402,7 +1737,13 @@ En la Delegación Especial de Asturias se integran las siguientes Delegaciones y
 
 1.1 Delegación de Gijón. Código 52600.
 
+Amieva.
+
+Cabrales.
+
 Cabranes.
+
+Cangas de Onís.
 
 Carreño.
 
@@ -2411,14 +1752,6 @@ Caravia.
 Colunga.
 
 Gijón.
-
-Villaviciosa.
-
-Amieva.
-
-Cabrales.
-
-Cangas de Onís.
 
 Llanes.
 
@@ -2438,6 +1771,8 @@ Ribadedeva.
 
 Ribadesella.
 
+Villaviciosa.
+
 1.2 Administraciones.
 
 Prestará básicamente servicios de información y de asistencia, así como cualquier otra función que se le encomiende la siguiente Administración:
@@ -2446,9 +1781,9 @@ Código 52012. Administración Cangas de Onís.
 
 2. Integradas directamente en la Delegación Especial de Asturias.
 
-Quedan asignados directamente a la Delegación Especial de Asturias los municipios de la provincia salvo los asignados a la Delegación de Gijón o a alguna de las Administraciones siguientes. (Código 33600).
+Quedan asignados directamente a la Delegación Especial de Asturias los municipios de la provincia salvo los asignados a la Delegación de Gijón o a alguna de las Administraciones siguientes (Código 33600).
 
-Código 33004. Administración Avilés.
+Código 33004. Administración Avilés:
 
 Avilés.
 
@@ -2502,7 +1837,7 @@ Villanueva de Oscos.
 
 Villayón.
 
-Código 33031. Administración Langreo.
+Código 33031. Administración Langreo
 
 Caso.
 
@@ -2514,7 +1849,7 @@ San Martín del Rey Aurelio.
 
 Sobrescobio.
 
-Código 33037. Administración Mieres.
+Código 33037. Administración Mieres:
 
 Aller.
 
@@ -2532,7 +1867,7 @@ Delegación Especial de Illes Balears
 
 En la Delegación Especial de Illes Balears se integran las siguientes Administraciones con el ámbito territorial (municipios y códigos postales de municipios) que se especifica:
 
-Código 07026. Administración Eivissa-Formentera.
+Código 07026. Administración Eivissa-Formentera:
 
 Eivissa.
 
@@ -2546,7 +1881,7 @@ Sant Joan de Labritja.
 
 Santa Eulària des Riu.
 
-Código 07027. Administración Inca.
+Código 07027. Administración Inca:
 
 Alaró.
 
@@ -2590,7 +1925,7 @@ Sencelles.
 
 Sineu.
 
-Código 07032. Administración Menorca.
+Código 07032. Administración Menorca:
 
 Alaior.
 
@@ -2608,7 +1943,7 @@ Migjorn Gran (Es).
 
 Sant Lluís.
 
-Código 07033. Administración Manacor.
+Código 07033. Administración Manacor:
 
 Ariany.
 
@@ -2638,7 +1973,7 @@ Son Servera.
 
 Vilafranca de Bonany.
 
-Código 07601. Administración Palma de Mallorca.
+Código 07601. Administración Palma de Mallorca:
 
 Andratx.
 
@@ -2680,7 +2015,7 @@ Delegación Especial de Canarias
 
 En la Delegación Especial de Canarias se integran las siguientes Delegaciones y Administraciones con el ámbito territorial (municipios y códigos postales de municipios) que se especifica:
 
-1. Delegación de la Agencia Estatal de Administración Tributaria de Tenerife.
+1. Delegación de la Agencia Estatal de Administración Tributaria de Santa Cruz de Tenerife.
 
 1.1 Delegación Santa Cruz Tenerife. Código 38600.
 
@@ -2688,7 +2023,7 @@ El ámbito abarca todos los municipios de la provincia salvo los asignados a alg
 
 1.2 Administraciones.
 
-Código 38006. Administración Arona.
+Código 38006. Administración Arona:
 
 Adeje.
 
@@ -2708,7 +2043,7 @@ Santiago del Teide.
 
 Vilaflor.
 
-Código 38023. Administración Laguna (La).
+Código 38023. Administración Laguna (La):
 
 Matanza de Acentejo (La).
 
@@ -2724,7 +2059,7 @@ Tegueste.
 
 Victoria de Acentejo (La).
 
-Código 38028. Administración Puerto de la Cruz.
+Código 38028. Administración Puerto de la Cruz:
 
 Buenavista del Norte.
 
@@ -2748,7 +2083,7 @@ Silos (Los).
 
 Tanque (El).
 
-Código 38036. Administración Gomera (La).
+Código 38036. Administración Gomera (La):
 
 Agulo.
 
@@ -2762,7 +2097,7 @@ Valle Gran Rey.
 
 Vallehermoso.
 
-Código 38037. Administración Palma (La).
+Código 38037. Administración Palma (La):
 
 Barlovento.
 
@@ -2792,17 +2127,17 @@ Tijarafe.
 
 Villa de Mazo.
 
-Código 38048. Administración Hierro (El).
+Código 38048. Administración Hierro (El):
 
 Frontera (La).
 
-Pinar de El Hierro (El).
+Pinar de El Hierro (El)
 
 Valverde.
 
 2. Integradas directamente en la Delegación Especial de Canarias.
 
-Código 35004. Administración Lanzarote.
+Código 35004. Administración Lanzarote:
 
 Arrecife.
 
@@ -2818,7 +2153,7 @@ Tinajo.
 
 Yaiza.
 
-Código 35010. Administración Santa María de Guía.
+Código 35010. Administración Santa María de Guía:
 
 Agaete.
 
@@ -2842,7 +2177,7 @@ Teror.
 
 Valleseco.
 
-Código 35018. Administración Fuerteventura.
+Código 35018. Administración Fuerteventura:
 
 Antigua.
 
@@ -2856,7 +2191,7 @@ Puerto del Rosario.
 
 Tuineje.
 
-Código 35020. Administración San Bartolomé de Tirajana.
+Código 35020. Administración San Bartolomé de Tirajana:
 
 Mogán.
 
@@ -2864,7 +2199,7 @@ San Bartolomé de Tirajana.
 
 Santa Lucía de Tirajana.
 
-Código 35601. Administración Palmas de Gran Canaria (Las).
+Código 35601. Administración Palmas de Gran Canaria (Las):
 
 Agüimes.
 
@@ -2884,9 +2219,9 @@ Delegación Especial de Cantabria
 
 En la Delegación Especial de Cantabria se integran las siguientes Administraciones con el ámbito territorial (municipios y códigos postales de municipios) que se especifica:
 
-Quedan asignados directamente a la Delegación Especial de Cantabria los municipios de la provincia salvo los asignados a alguna de las Administraciones siguientes. (Código 39600).
+Quedan asignados directamente a la Delegación Especial de Cantabria los municipios de la provincia salvo los asignados a alguna de las Administraciones siguientes (Código 39600).
 
-Código 39035. Administración Laredo.
+Código 39035. Administración Laredo:
 
 Ampuero.
 
@@ -2936,7 +2271,7 @@ Valle de Villaverde.
 
 Voto.
 
-Código 39087. Administración Torrelavega.
+Código 39087. Administración Torrelavega:
 
 Alfoz de Lloredo.
 
@@ -3040,7 +2375,7 @@ Vega de Liébana.
 
 Prestará básicamente servicios de información y de asistencia, así como cualquier otra función que se le encomiende la siguiente Administración:
 
-Código 39059. Administración Reinosa.
+Código 39059. Administración Reinosa:
 
 Delegación Especial de Castilla-La Mancha
 
@@ -3048,41 +2383,13 @@ En la Delegación Especial de Castilla-La Mancha se integran las siguientes Dele
 
 1. Delegación de la Agencia Estatal de Administración Tributaria de Albacete.
 
-1.1 Delegación Albacete. Código 02600.
+1.1 Delegación Albacete.Código 02600.
 
 El ámbito abarca todos los municipios de la provincia de Albacete salvo los asignados a alguna de las Administraciones siguientes.
 
 1.2 Administraciones.
 
-Código 02069. Administración Roda (La).
-
-Barrax.
-
-Bonillo (El).
-
-Fuensanta.
-
-Lezuza.
-
-Madrigueras.
-
-Minaya.
-
-Montalvos.
-
-Munera.
-
-Ossa de Montiel.
-
-Roda (La).
-
-Tarazona de la Mancha.
-
-Villalgordo del Júcar.
-
-Villarrobledo.
-
-Código 02037. Administración Hellín.
+Código 02037. Administración Hellín:
 
 Albatana.
 
@@ -3110,6 +2417,34 @@ Tobarra.
 
 Yeste.
 
+Código 02069. Administración Roda (La):
+
+Barrax.
+
+Bonillo (El).
+
+Fuensanta.
+
+Lezuza.
+
+Madrigueras.
+
+Minaya.
+
+Montalvos.
+
+Munera.
+
+Ossa de Montiel.
+
+Roda (La).
+
+Tarazona de la Mancha.
+
+Villalgordo del Júcar.
+
+Villarrobledo.
+
 2. Delegación de la Agencia Estatal de Administración Tributaria de Ciudad Real.
 
 2.1 Delegación Ciudad Real. Código 13600.
@@ -3118,7 +2453,7 @@ El ámbito abarca todos los municipios de la provincia de Ciudad Real salvo los 
 
 2.2 Administraciones.
 
-Código 13005. Administración Alcázar de San Juan.
+Código 13005. Administración Alcázar de San Juan:
 
 Alcázar de San Juan.
 
@@ -3140,7 +2475,7 @@ Socuéllamos.
 
 Tomelloso.
 
-Código 13071. Administración Puertollano.
+Código 13071. Administración Puertollano:
 
 Abenójar.
 
@@ -3194,7 +2529,7 @@ Villamayor de Calatrava.
 
 Villanueva de San Carlos.
 
-Código 13087. Administración Valdepeñas.
+Código 13087. Administración Valdepeñas:
 
 Albaladejo.
 
@@ -3264,7 +2599,7 @@ El ámbito abarca todos los municipios de la provincia de Cuenca salvo los asign
 
 3.2 Administraciones.
 
-Código 16212. Administración Tarancón.
+Código 16212. Administración Tarancón:
 
 Acebrón (El).
 
@@ -3388,15 +2723,15 @@ Zafra de Záncara.
 
 Zarza de Tajo.
 
-4. Delegación de la Agencia Estatal de Administración Tributaria de Guadalajara. (Código 19600).
+4. Delegación de la Agencia Estatal de Administración Tributaria de Guadalajara (código 19600).
 
 Su ámbito abarca todos los municipios de la provincia de Guadalajara.
 
 5. Integradas directamente en la Delegación Especial de Castilla-La Mancha.
 
-Quedan asignados directamente a la Delegación Especial de Castilla-La Mancha los municipios de la provincia de Toledo salvo los asignados a alguna de las Administraciones siguientes. (Código 45600).
+Quedan asignados directamente a la Delegación Especial de Castilla-La Mancha los municipios de la provincia de Toledo salvo los asignados a alguna de las Administraciones siguientes (Código 45600).
 
-Código 45143. Administración Quintanar de la Orden.
+Código 45143. Administración Quintanar de la Orden:
 
 Cabezamesada.
 
@@ -3438,7 +2773,7 @@ Villarrubia de Santiago.
 
 Villatobas.
 
-Código 45166. Administración Talavera de la Reina.
+Código 45166. Administración Talavera de la Reina:
 
 Alcañizo.
 
@@ -3574,7 +2909,7 @@ Delegación Especial de Castilla-León
 
 En la Delegación Especial de Castilla y León se integran las siguientes Delegaciones y Administraciones con el ámbito territorial (municipios y códigos postales de municipios) que se especifica:
 
-1. Delegación de la Agencia Estatal de Administración Tributaria de Ávila. (Código 05600).
+1. Delegación de la Agencia Estatal de Administración Tributaria de Ávila (código 05600).
 
 El ámbito abarca todos los municipios de la provincia de Ávila.
 
@@ -3600,7 +2935,7 @@ El ámbito abarca todos los municipios de la provincia de León salvo los asigna
 
 3.2 Administraciones.
 
-Código 24009. Administración Astorga.
+Código 24009. Administración Astorga:
 
 Alija del Infantado.
 
@@ -3718,7 +3053,7 @@ Villazala.
 
 Zotes del Páramo.
 
-Código 24118. Administración Ponferrada.
+Código 24118. Administración Ponferrada:
 
 Arganza.
 
@@ -3852,7 +3187,7 @@ Código 49023. Administración Benavente.
 
 Quedan asignados directamente a la Delegación Especial de Castilla y León los municipios de la provincia de Valladolid salvo los asignados a alguna de las Administraciones siguientes. (Código 47600).
 
-Código 47601. Administración Valladolid-capital.
+Código 47601. Administración Valladolid-capital:
 
 Adalia.
 
@@ -4190,7 +3525,7 @@ Wamba.
 
 Prestará básicamente servicios de información y de asistencia, así como cualquier otra función que se le encomiende la siguiente Administración:
 
-Código 47086. Administración Medina del Campo
+Código 47086. Administración Medina del Campo.
 
 Delegación Especial de Cataluña
 
@@ -4204,7 +3539,7 @@ El ámbito abarca todos los municipios de la provincia de Girona salvo los asign
 
 1.2 Administraciones.
 
-Código 17025. Administración Bisbal (La).
+Código 17025. Administración Bisbal (La):
 
 Begur.
 
@@ -4264,7 +3599,7 @@ Ultramort.
 
 Vall-llobrega.
 
-Código 17072. Administración Figueres.
+Código 17072. Administración Figueres:
 
 Agullana.
 
@@ -4404,7 +3739,7 @@ Vila-sacra.
 
 Vilaür.
 
-Código 17121. Administración Olot .
+Código 17121. Administración Olot:
 
 Alp.
 
@@ -4534,13 +3869,13 @@ El ámbito abarca todos los municipios de Tarragona salvo los asignados a alguna
 
 3.2 Administraciones.
 
-Código 43125. Administración Reus.
+Código 43125. Administración Reus:
 
 Aleixar (L').
 
 Alforja.
 
-Albiol (L').
+Albiol (L')
 
 Almoster.
 
@@ -4560,7 +3895,7 @@ Cabacés.
 
 Cambrils.
 
-Capafonts.
+Capafonts
 
 Capçanes.
 
@@ -4574,7 +3909,7 @@ Duesaigües.
 
 Falset.
 
-Febró (La).
+Febró (La)
 
 Figuera (La).
 
@@ -4642,7 +3977,7 @@ Vilella Baixa (La).
 
 Vinyols i els Arcs.
 
-Código 43157. Administración Tortosa.
+Código 43157. Administración Tortosa:
 
 Alcanar.
 
@@ -4748,7 +4083,7 @@ Xerta.
 
 4. Integradas directamente en la Delegación Especial de Cataluña.
 
-Código 08006. Administración Arenys de Mar.
+Código 08006. Administración Arenys de Mar:
 
 Arenys de Mar.
 
@@ -4776,7 +4111,7 @@ Santa Susanna.
 
 Tordera.
 
-Código 08015. Administración Badalona.
+Código 08015. Administración Badalona:
 
 Alella.
 
@@ -4790,7 +4125,7 @@ Sant Adrià de Besòs.
 
 Tiana.
 
-Código 08022. Administración Berga.
+Código 08022. Administración Berga:
 
 Avià.
 
@@ -4852,7 +4187,7 @@ Vilada.
 
 Viver i Serrateix.
 
-Código 08072. Administración Cornellà de Llobregat.
+Código 08072. Administración Cornellà de Llobregat:
 
 Begues.
 
@@ -4872,7 +4207,7 @@ Santa Coloma de Cervelló.
 
 Viladecans.
 
-Código 08095. Administración Granollers.
+Código 08095. Administración Granollers:
 
 Aiguafreda.
 
@@ -4960,11 +4295,11 @@ Vilalba Sasserra.
 
 Vilanova del Vallès.
 
-Código 08100. Administración Hospitalet de Llobregat.
+Código 08100. Administración Hospitalet de Llobregat:
 
 Hospitalet de Llobregat (L').
 
-Código 08101. Administración Igualada.
+Código 08101. Administración Igualada
 
 Argençola.
 
@@ -5034,7 +4369,7 @@ Veciana.
 
 Vilanova del Camí.
 
-Código 08112. Administración Manresa.
+Código 08112. Administración Manresa:
 
 Aguilar de Segarra.
 
@@ -5106,7 +4441,7 @@ Súria.
 
 Talamanca.
 
-Código 08120. Administración Mataró.
+Código 08120. Administración Mataró
 
 Argentona.
 
@@ -5136,7 +4471,7 @@ Vilassar de Dalt.
 
 Vilassar de Mar.
 
-Código 08186. Administración Sabadell.
+Código 08186. Administración Sabadell:
 
 Badia del Vallès.
 
@@ -5156,7 +4491,7 @@ Santa Perpètua de Mogoda.
 
 Sentmenat.
 
-Código 08204. Administración Sant Cugat del Vallès.
+Código 08204. Administración Sant Cugat del Vallès
 
 Cerdanyola del Vallès.
 
@@ -5168,7 +4503,7 @@ Rubí.
 
 Sant Cugat del Vallès.
 
-Código 08210. Administración Sant Feliu de Llobregat.
+Código 08210. Administración Sant Feliu de Llobregat:
 
 Abrera.
 
@@ -5208,11 +4543,11 @@ Torrelles de Llobregat.
 
 Vallirana.
 
-Código 08245. Administración Santa Coloma de Gramenet.
+Código 08245. Administración Santa Coloma de Gramenet:
 
 Santa Coloma de Gramenet.
 
-Código 08279. Administración Terrassa.
+Código 08279. Administración Terrassa:
 
 Castellbisbal.
 
@@ -5228,13 +4563,13 @@ Sant Llorenç Savall.
 
 Terrassa.
 
-Ullastre l.
+Ullastrell.
 
 Vacarisses.
 
 Viladecavalls.
 
-Código 08299. Administración Vic.
+Código 08299. Administración Vic:
 
 Alpens.
 
@@ -5332,7 +4667,7 @@ Vic.
 
 Vilanova de Sau.
 
-Código 08306. Administración Vilafranca del Penedès.
+Código 08306. Administración Vilafranca del Penedès:
 
 Avinyonet del Penedès.
 
@@ -5388,7 +4723,7 @@ Vilafranca del Penedès.
 
 Vilobí del Penedès.
 
-Código 08308. Administración Vilanova i la Geltrú.
+Código 08308. Administración Vilanova i la Geltrú
 
 Canyelles.
 
@@ -5402,25 +4737,25 @@ Sitges.
 
 Vilanova i la Geltrú.
 
-Código 08602. Administración Colom.
+Código 08602. Administración Colom:
 
-Códigos postales de Barcelona números: 08001, 08002, 08003, 08004, 08014, 08015, 08038, 08039 y 08040.
+Códigos postales de Barcelona números: 08001,08002, 08003, 08004, 08014, 08015, 08038, 08039 y 08040.
 
-Código 08605. Administración Vía Augusta.
+Código 08605. Administración Vía Augusta:
 
 Códigos postales de Barcelona números: 08006, 08012, 08017, 08021, 08022, 08023, 08028 y 08034.
 
-Código 08606. Administración Horta.
+Código 08606. Administración Horta:
 
-Códigos postales de Barcelona números: 08016, 08024, 08031, 08032, 08033, 08035, 08041 y 08042.
+Códigos postales de Barcelona números: 08016, 08024, 08031, 08032,08033, 08035, 08041 y 08042.
 
-Código 08608. Administración Poblenou.
+Código 08608. Administración Poblenou:
 
 Códigos postales de Barcelona números: 08005, 08018, 08019, 08020, 08026, 08027 y 08030.
 
-Código 08610. Administración Letamendi.
+Código 08610. Administración Letamendi:
 
-Códigos postales de Barcelona números: 08007, 08008, 08009, 08010, 08011, 08013, 08025,08029, 08036 y 08037.
+Códigos postales de Barcelona números: 08007, 08008, 08009, 08010, 08011, 08013, 08025, 08029, 08036 y 08037.
 
 Delegación Especial de Extremadura
 
@@ -5432,9 +4767,99 @@ En la Delegación Especial de Extremadura se integran las siguientes Delegacione
 
 El ámbito abarca todos los municipios de la provincia de Cáceres salvo los asignados a alguna de las Administraciones siguientes.
 
-1.2 Administraciones.
+1.2. Administraciones.
 
-Código 10151. Administración Plasencia.
+Código 10134. Administración Navalmoral de la Mata:
+
+Aldeanueva de la Vera.
+
+Alía.
+
+Almaraz.
+
+Belvís de Monroy.
+
+Berrocalejo.
+
+Bohonal de Ibor.
+
+Campillo de Deleitosa.
+
+Carrascalejo.
+
+Casas de Miravete.
+
+Casatejada.
+
+Castañar de Ibor.
+
+Cuacos de Yuste.
+
+Fresnedoso de Ibor.
+
+Garvín de la Jara.
+
+Gordo (El).
+
+Guadalupe.
+
+Guijo de Santa Bárbara.
+
+Higuera.
+
+Jarandilla de la Vera.
+
+Losar de la Vera.
+
+Madrigal de la Vera.
+
+Majadas de Tiétar.
+
+Mesas de Ibor.
+
+Millanes de la Mata.
+
+Navalmoral de la Mata.
+
+Navalvillar de Ibor.
+
+Peraleda de la Mata.
+
+Peraleda de San Román.
+
+Robledillo de la Vera.
+
+Robledollano.
+
+Romangordo.
+
+Rosalejo.
+
+Saucedilla.
+
+Serrejón.
+
+Talaveruela de la Vera.
+
+Talayuela.
+
+Toril.
+
+Valdecañas de Tajo.
+
+Valdehúncar.
+
+Valdelacasa de Tajo.
+
+Valverde de la Vera.
+
+Viandar de la Vera.
+
+Villanueva de la Vera.
+
+Villar del Pedroso.
+
+Código 10151. Administración Plasencia:
 
 Abadía.
 
@@ -5446,27 +4871,15 @@ Ahigal.
 
 Alagón del Río
 
-Aldeanueva de la Vera.
-
 Aldeanueva del Camino.
 
 Aldehuela del Jerte.
-
-Alía.
-
-Almaraz.
 
 Arroyomolinos de la Vera.
 
 Baños de Montemayor.
 
 Barrado.
-
-Belvís de Monroy.
-
-Berrocalejo.
-
-Bohonal de Ibor.
 
 Cabezabellosa.
 
@@ -5480,11 +4893,7 @@ Calzadilla.
 
 Caminomorisco.
 
-Campillo de Deleitosa.
-
 Carcaboso.
-
-Carrascalejo.
 
 Casar de Palomero.
 
@@ -5492,17 +4901,11 @@ Casares de las Hurdes.
 
 Casas de Don Gómez.
 
-Casas de Miravete.
-
 Casas del Castañar.
 
 Casas del Monte.
 
-Casatejada.
-
 Casillas de Coria.
-
-Castañar de Ibor.
 
 Cerezo.
 
@@ -5512,13 +4915,9 @@ Collado de la Vera.
 
 Coria.
 
-Cuacos de Yuste.
-
 Descargamaría.
 
 Eljas.
-
-Fresnedoso de Ibor.
 
 Galisteo.
 
@@ -5530,15 +4929,9 @@ Gargantilla.
 
 Gargüera.
 
-Garvín de la Jara.
-
 Gata.
 
-Gordo (El).
-
 Granja (La).
-
-Guadalupe.
 
 Guijo de Coria.
 
@@ -5546,13 +4939,9 @@ Guijo de Galisteo.
 
 Guijo de Granadilla.
 
-Guijo de Santa Bárbara.
-
 Hernán Pérez.
 
 Hervás.
-
-Higuera.
 
 Holguera.
 
@@ -5562,27 +4951,15 @@ Huélaga.
 
 Jaraiz de la Vera.
 
-Jarandilla de la Vera.
-
 Jarilla.
 
 Jerte.
 
 Ladrillar.
 
-Losar de la Vera.
-
-Madrigal de la Vera.
-
-Majadas de Tiétar.
-
 Malpartida de Plasencia.
 
 Marchagaz.
-
-Mesas de Ibor.
-
-Millanes de la Mata.
 
 Mirabel.
 
@@ -5596,10 +4973,6 @@ Morcillo.
 
 Navaconcejo.
 
-Navalmoral de la Mata.
-
-Navalvillar de Ibor.
-
 Nuñomoral.
 
 Oliva de Plasencia.
@@ -5607,10 +4980,6 @@ Oliva de Plasencia.
 Palomero.
 
 Pasarón de la Vera.
-
-Peraleda de la Mata.
-
-Peraleda de San Román.
 
 Perales del Puerto.
 
@@ -5630,14 +4999,6 @@ Riolobos.
 
 Robledillo de Gata.
 
-Robledillo de la Vera.
-
-Robledollano.
-
-Romangordo.
-
-Rosalejo.
-
 San Martín de Trevejo.
 
 Santa Cruz de Paniagua.
@@ -5646,21 +5007,11 @@ Santibáñez el Alto.
 
 Santibáñez el Bajo.
 
-Saucedilla.
-
 Segura de Toro.
 
 Serradilla.
 
-Serrejón.
-
-Talaveruela de la Vera.
-
-Talayuela.
-
 Tejada de Tietar.
-
-Toril.
 
 Tornavacas.
 
@@ -5676,21 +5027,11 @@ Torremenga.
 
 Valdastillas.
 
-Valdecañas de Tajo.
-
-Valdehúncar.
-
-Valdelacasa de Tajo.
-
 Valdeobispo.
-
-Valverde de la Vera.
 
 Valverde del Fresno.
 
 Vegaviana
-
-Viandar de la Vera.
 
 Villa del Campo.
 
@@ -5698,105 +5039,11 @@ Villamiel.
 
 Villanueva de la Sierra.
 
-Villanueva de la Vera.
-
 Villar de Plasencia.
-
-Villar del Pedroso.
 
 Villasbuenas de Gata.
 
 Zarza de Granadilla.
-
-Código 10134. Administración Navalmoral de la Mata.
-
-Aldeanueva de la Vera.
-
-Alía.
-
-Almaraz.
-
-Belvís de Monroy.
-
-Berrocalejo.
-
-Bohonal de Ibor.
-
-Campillo de Deleitosa.
-
-Carrascalejo.
-
-Casas de Miravete.
-
-Casatejada.
-
-Castañar de Ibor.
-
-Cuacos de Yuste.
-
-Fresnedoso de Ibor.
-
-Garvín de la Jara.
-
-Gordo (El).
-
-Guadalupe.
-
-Guijo de Santa Bárbara.
-
-Higuera.
-
-Jarandilla de la Vera.
-
-Losar de la Vera.
-
-Madrigal de la Vera.
-
-Majadas de Tiétar.
-
-Mesas de Ibor.
-
-Millanes de la Mata.
-
-Navalmoral de la Mata.
-
-Navalvillar de Ibor.
-
-Peraleda de la Mata.
-
-Peraleda de San Román.
-
-Robledillo de la Vera.
-
-Robledollano.
-
-Romangordo.
-
-Rosalejo.
-
-Saucedilla.
-
-Serrejón.
-
-Talaveruela de la Vera.
-
-Talayuela.
-
-Toril.
-
-Valdecañas de Tajo.
-
-Valdehúncar.
-
-Valdelacasa de Tajo.
-
-Valverde de la Vera.
-
-Viandar de la Vera.
-
-Villanueva de la Vera.
-
-Villar del Pedroso.
 
 Prestará básicamente servicios de información y de asistencia, así como cualquier otra función que se le encomiende la siguiente Administración:
 
@@ -5804,9 +5051,9 @@ Código 10199. Administración Trujillo.
 
 2. Integradas directamente en la Delegación Especial de Extremadura.
 
-Quedan asignados directamente a la Delegación Especial de Extremadura los municipios de la provincia de Badajoz salvo los asignados a alguna de las Administraciones siguientes. (Código 06600).
+Quedan asignados directamente a la Delegación Especial de Extremadura los municipios de la provincia de Badajoz salvo los asignados a alguna de las Administraciones siguientes (Código 06600).
 
-Código 06044. Administración Don Benito.
+Código 06044. Administración Don Benito:
 
 Acedera.
 
@@ -5908,7 +5155,7 @@ Zalamea de la Serena.
 
 Zarza-Capilla.
 
-Código 06083. Administración Mérida.
+Código 06083. Administración Mérida:
 
 Aceuchal.
 
@@ -5986,9 +5233,9 @@ Villagonzalo.
 
 Villalba de los Barros.
 
-Zarza (La).
+Zarza, (La).
 
-Código 06158. Administración Zafra.
+Código 06158. Administración Zafra:
 
 Ahillones.
 
@@ -6118,7 +5365,7 @@ Código 27019. Administración Foz.
 
 Código 27031. Administración Monforte de Lemos.
 
-2. Delegación de la Agencia Estatal de Administración Tributaria de Ourense.
+2.–Delegación de la Agencia Estatal de Administración Tributaria de Ourense.
 
 2.1 Delegación Ourense. Código 32600.
 
@@ -6144,7 +5391,7 @@ El ámbito abarca todos los municipios de la provincia de Pontevedra salvo los a
 
 3.2 Administraciones.
 
-Código 36060. Administración Vilagarcía de Arousa.
+Código 36060. Administración Vilagarcía de Arousa:
 
 Caldas de Reis.
 
@@ -6182,7 +5429,7 @@ Código 36042. Administración Ponteareas.
 
 Código 36055. Administración Tui.
 
-4. Delegación de la Agencia Estatal de Administración Tributaria de Vigo (código 54600)
+4. Delegación de la Agencia Estatal de Administración Tributaria de Vigo (código 54600).
 
 Su ámbito abarca los siguientes municipios:
 
@@ -6200,7 +5447,7 @@ Vigo.
 
 5. Integradas directamente en la Delegación Especial de Galicia.
 
-Código 15019. Administración Carballo.
+Código 15019. Administración Carballo:
 
 Cabana de Bergantiños.
 
@@ -6240,7 +5487,7 @@ Vimianzo.
 
 Zas.
 
-Código 15037. Administración Ferrol.
+Código 15037. Administración Ferrol:
 
 Ares.
 
@@ -6278,7 +5525,7 @@ Somozas (As).
 
 Valdoviño.
 
-Código 15079. Administración Santiago de Compostela.
+Código 15079. Administración Santiago de Compostela:
 
 Ames.
 
@@ -6288,6 +5535,8 @@ Baña (A).
 
 Boimorto.
 
+Boiro.
+
 Boqueixón.
 
 Brión.
@@ -6296,21 +5545,35 @@ Dodro.
 
 Frades.
 
+Lousame.
+
 Melide.
 
 Mesía.
 
+Muros.
+
 Negreira.
+
+Noia.
 
 Ordes.
 
 Oroso.
 
+Outes.
+
 Padrón.
 
 Pino (O).
 
+Pobra do Caramiñal (A).
+
+Porto do Son.
+
 Rianxo.
+
+Ribeira.
 
 Rois.
 
@@ -6334,25 +5597,17 @@ Vedra.
 
 Vilasantar.
 
-Boiro.
+Código 15601. Administración Coruña (A):
 
-Lousame.
+Abegondo.
 
-Muros.
-
-Noia.
-
-Outes.
-
-Pobra do Caramiñal (A).
-
-Porto do Son.
-
-Ribeira.
-
-Código 15601. Administración Coruña (A)
+Aranga.
 
 Arteixo.
+
+Bergondo.
+
+Betanzos.
 
 Cambre.
 
@@ -6360,23 +5615,13 @@ Carral.
 
 Cerceda.
 
-Coruña (A).
-
-Culleredo.
-
-Oleiros.
-
-Abegondo.
-
-Aranga.
-
-Bergondo.
-
-Betanzos.
-
 Cesuras.
 
 Coirós.
+
+Coruña (A).
+
+Culleredo.
 
 Curtis.
 
@@ -6385,6 +5630,8 @@ Irixoa.
 Miño.
 
 Monfero.
+
+Oleiros.
 
 Oza dos Ríos.
 
@@ -6400,7 +5647,7 @@ Prestarán básicamente servicios de información y de asistencia, así como cua
 
 Código 15009. Administración Betanzos.
 
-Código 15023. Administración Cée.
+Código 15023. Administración Cee.
 
 Código 15062. Administración Ortigueira.
 
@@ -6410,7 +5657,7 @@ Delegación Especial de Madrid
 
 En la Delegación Especial de Madrid se integran las siguientes Administraciones con el ámbito territorial (municipios y códigos postales de municipios) que se especifica:
 
-Código 28005. Administración Alcalá de Henares.
+Código 28005. Administración Alcalá de Henares:
 
 Alcalá de Henares.
 
@@ -6442,7 +5689,7 @@ Valverde de Alcalá.
 
 Villalbilla.
 
-Código 28006. Administración Alcobendas.
+Código 28006. Administración Alcobendas:
 
 Alcobendas.
 
@@ -6468,11 +5715,11 @@ Valdetorres de Jarama.
 
 Vellón (El).
 
-Código 28007. Administración Alcorcón.
+Código 28007. Administración Alcorcón:
 
 Alcorcón.
 
-Código 28013. Administración Aranjuez.
+Código 28013. Administración Aranjuez:
 
 Aranjuez.
 
@@ -6496,7 +5743,7 @@ Valdemoro.
 
 Villaconejos.
 
-Código 28014. Administración Arganda.
+Código 28014. Administración Arganda:
 
 Ambite.
 
@@ -6542,7 +5789,7 @@ Villar del Olmo.
 
 Villarejo de Salvanés.
 
-Código 28045. Administración Colmenar Viejo.
+Código 28045. Administración Colmenar Viejo:
 
 Acebeda (La).
 
@@ -6648,7 +5895,7 @@ Venturada.
 
 Villavieja del Lozoya.
 
-Código 28054. Administración Escorial (El).
+Código 28054. Administración Escorial (El):
 
 Alpedrete.
 
@@ -6688,7 +5935,7 @@ Valdemorillo.
 
 Zarzalejo.
 
-Código 28058. Administración Fuenlabrada.
+Código 28058. Administración Fuenlabrada:
 
 Batres.
 
@@ -6706,7 +5953,7 @@ Moraleja de Enmedio.
 
 Serranillos del Valle.
 
-Código 28065. Administración Getafe.
+Código 28065. Administración Getafe
 
 Getafe.
 
@@ -6716,11 +5963,11 @@ Torrejón de Velasco.
 
 Torrejón de la Calzada.
 
-Código 28074. Administración Leganés.
+Código 28074. Administración Leganés
 
 Leganés.
 
-Código 28092. Administración Móstoles.
+Código 28092. Administración Móstoles:
 
 Alamo (El).
 
@@ -6756,7 +6003,7 @@ Villamantilla.
 
 Villanueva de Perales.
 
-Código 28115. Administración Pozuelo de Alarcón.
+Código 28115. Administración Pozuelo de Alarcón:
 
 Boadilla del Monte.
 
@@ -6776,7 +6023,7 @@ Villanueva del Pardillo.
 
 Villaviciosa de Odón.
 
-Código 28148. Administración Torrejón de Ardoz.
+Código 28148. Administración Torrejón de Ardoz:
 
 Ajalvir.
 
@@ -6792,47 +6039,47 @@ San Fernando de Henares.
 
 Torrejón de Ardoz.
 
-Código 28602. Administración Carabanchel.
+Código 28602. Administración Carabanchel:
 
 Códigos postales de Madrid números: 28019, 28025, 28044 y 28054.
 
-Código 28603. Administración Montalbán.
+Código 28603. Administración Montalbán:
 
 Códigos postales de Madrid números: 28004, 28005, 28007, 28009, 28012, 28013, 28014 y 28045.
 
-Código 28604. Administración Ciudad Lineal.
+Código 28604. Administración Ciudad Lineal:
 
 Códigos postales de Madrid números: 28016, 28017, 28027 y 28033.
 
-Código 28606. Administración Fermín Caballero.
+Código 28606. Administración Fermín Caballero:
 
 Códigos postales de Madrid números: 28029, 28034, 28042, 28043, 28048, 28049, 28050 y 28055.
 
-Código 28608. Administración Latina.
+Código 28608. Administración Latina:
 
-Códigos postales de Madrid números: 28011, 28024 y 28047.
+Códigos postales de Madrid números: 28011, 28024, y 28047.
 
-Código 28609. Administración Villa de Vallecas.
+Código 28609. Administración Villa de Vallecas:
 
 Códigos postales de Madrid números: 28031, 28051 y 28053.
 
-Código 28612. Administración María de Molina.
+Código 28612. Administración María de Molina:
 
 Códigos postales de Madrid números: 28001, 28002, 28006, 28010, 28028, 28036 y 28046.
 
-Código 28613. Administración San Blas.
+Código 28613. Administración San Blas:
 
 Códigos postales de Madrid números: 28022, 28032, 28037 y 28052.
 
-Código 28614. Administración Vinateros.
+Código 28614. Administración Vinateros:
 
 Códigos postales de Madrid números: 28018, 28030 y 28038.
 
-Código 28615. Administración Villaverde-Usera.
+Código 28615. Administración Villaverde-Usera:
 
 Códigos postales de Madrid números: 28021, 28026 y 28041.
 
-Código 28616. Administración Guzmán el Bueno.
+Código 28616. Administración Guzmán el Bueno:
 
 Códigos postales de Madrid números: 28003, 28008, 28015, 28020, 28023, 28035, 28039 y 28040.
 
@@ -6840,7 +6087,7 @@ Delegación Especial de Murcia
 
 En la Delegación Especial de Murcia se integran las siguientes Delegaciones y Administraciones con el ámbito territorial (municipios y códigos postales de municipios) que se especifica:
 
-1. Delegación de la Agencia Estatal de Administración Tributaria de Cartagena (código 51600).
+1. Delegación de la Agencia Estatal de Administración Tributaria de Cartagena (Código 51600)
 
 El ámbito abarca los siguientes municipios:
 
@@ -6858,7 +6105,7 @@ Unión (La).
 
 2. Integradas directamente en la Delegación Especial de Murcia.
 
-Código 30019. Administración Cieza.
+Código 30019. Administración Cieza:
 
 Abanilla.
 
@@ -6882,7 +6129,7 @@ Villanueva del Río Segura.
 
 Yecla.
 
-Código 30024. Administración Lorca.
+Código 30024. Administración Lorca:
 
 Águilas.
 
@@ -6896,7 +6143,7 @@ Puerto Lumbreras.
 
 Totana.
 
-Código 30029. Administración Mula.
+Código 30029. Administración Mula
 
 Albudeite.
 
@@ -6922,7 +6169,7 @@ Mula.
 
 Pliego.
 
-Código 30601. Administración Murcia.
+Código 30601. Administración Murcia:
 
 Alcantarilla.
 
@@ -6950,7 +6197,7 @@ En la Delegación Especial de La Rioja se integran las siguientes Delegaciones y
 
 Quedan asignados directamente a la Delegación Especial de La Rioja los municipios de la provincia salvo los asignados a alguna de las Administraciones siguientes. (Código 26600).
 
-Código 26036. Administración Calahorra.
+Código 26036. Administración Calahorra:
 
 Aguilar del Río Alhama.
 
@@ -7018,7 +6265,7 @@ Villarroya.
 
 Zarzosa.
 
-Código 26071. Administración Haro.
+Código 26071. Administración Haro:
 
 Ábalos.
 
@@ -7262,7 +6509,7 @@ Quatretondeta.
 
 Tollos.
 
-Código 03031. Administración Benidorm.
+Código 03031. Administración Benidorm:
 
 Alfàs del Pi (L').
 
@@ -7304,7 +6551,7 @@ Tàrbena.
 
 Vila Joiosa (La)/Villajoyosa.
 
-Código 03063. Administración Dénia.
+Código 03063. Administración Dénia:
 
 Adsubia.
 
@@ -7368,7 +6615,7 @@ Xàbia/Jávea.
 
 Xaló/Jalón.
 
-Código 03065. Administración Elx.
+Código 03065. Administración Elx:
 
 Albatera.
 
@@ -7390,7 +6637,7 @@ San Isidro.
 
 Santa Pola.
 
-Código 03066. Administración Elda.
+Código 03066. Administración Elda:
 
 Agost.
 
@@ -7430,7 +6677,7 @@ Sax.
 
 Villena.
 
-Código 03099. Administración Orihuela.
+Código 03099. Administración Orihuela:
 
 Algorfa.
 
@@ -7472,7 +6719,7 @@ San Miguel de Salinas.
 
 Torrevieja.
 
-Código 03601. Administración Alicante.
+Código 03601. Administración Alicante:
 
 Aigües.
 
@@ -7504,9 +6751,9 @@ Prestará básicamente servicios de información y de asistencia, así como cual
 
 Código 03140. Administración Villena.
 
-2. Delegación de la Agencia Estatal de Administración Tributaria de Castellón
+2. Delegación de la Agencia Estatal de Administración Tributaria de Castellón.
 
-2.1 Delegación Castellón. Código 12600.
+2.1 Delegación Castellón.Código 12600.
 
 El ámbito abarca todos los municipios de la provincia de Castellón salvo los asignados a alguna de las siguientes Administraciones.
 
@@ -7638,7 +6885,7 @@ Villanueva de Viver.
 
 Viver.
 
-Código 12138. Administración Vinaròs.
+Código 12138. Administración Vinaròs:
 
 Alcalà de Xivert.
 
@@ -7706,7 +6953,7 @@ Zorita del Maestrazgo.
 
 3. Integradas directamente en la Delegación Especial de Valencia.
 
-Código 46017. Administración Alzira.
+Código 46017. Administración Alzira:
 
 Alberic.
 
@@ -7746,7 +6993,7 @@ Polinyà de Xúquer.
 
 Tous.
 
-Código 46096. Administración Catarroja.
+Código 46096. Administración Catarroja:
 
 Albal.
 
@@ -7772,7 +7019,7 @@ Sedaví.
 
 Silla.
 
-Código 46133. Administración Gandia.
+Código 46133. Administración Gandia:
 
 Ador.
 
@@ -7836,7 +7083,7 @@ Xeraco.
 
 Xeresa.
 
-Código 46147. Administración Xàtiva.
+Código 46147. Administración Xàtiva:
 
 Agullent.
 
@@ -7932,7 +7179,7 @@ Montaverner.
 
 Montesa.
 
-Montixelvo/Montichelvo.
+Montitxelvo/Montichelvo.
 
 Navarrés.
 
@@ -7988,7 +7235,7 @@ Villanueva de Castellón.
 
 Xàtiva.
 
-Código 46149. Administración Llíria.
+Código 46149. Administración Llíria:
 
 Ademuz.
 
@@ -8066,7 +7313,7 @@ Villar del Arzobispo.
 
 Yesa (La).
 
-Código 46161. Administración Manises.
+Código 46161. Administración Manises:
 
 Manises.
 
@@ -8076,7 +7323,7 @@ Paterna.
 
 Quart de Poblet.
 
-Código 46173. Administración Moncada.
+Código 46173. Administración Moncada:
 
 Albalat dels Sorells.
 
@@ -8112,7 +7359,7 @@ Vinalesa.
 
 Pedanías de Casas de Bárcena (código postal 46131), Massarrojos (código postal 46112) y Mahuella (código postal 46135), que pertenecen al término de Valencia.
 
-Código 46215. Administración Requena.
+Código 46215. Administración Requena:
 
 Alborache.
 
@@ -8168,7 +7415,7 @@ Yátova.
 
 Zarra.
 
-Código 46222. Administración Sagunt.
+Código 46222. Administración Sagunt:
 
 Albalat dels Tarongers.
 
@@ -8204,7 +7451,7 @@ Pobla de Farnals (La).
 
 Puçol.
 
-Puig de Santa María (El).
+Puig de Santa Maria (El).
 
 Quart de les Valls.
 
@@ -8220,7 +7467,7 @@ Serra.
 
 Torres Torres.
 
-Código 46237. Administración Sueca.
+Código 46237. Administración Sueca:
 
 Albalat de la Ribera.
 
@@ -8238,7 +7485,7 @@ Sollana.
 
 Sueca.
 
-Código 46246. Administración Torrent.
+Código 46246. Administración Torrent:
 
 Alaquàs.
 
@@ -8260,17 +7507,97 @@ Torrent.
 
 Xirivella.
 
-Código 46602. Administración Blasco Ibáñez.
+Código 46601. Administración Blasco Ibáñez
 
-Códigos postales números: 46009, 46010, 46011, 46012, 46015, 46016, 46019, 46020, 46021, 46022, 46023, 46024, 46025 y 46035.
+Códigos postales números: 46009, 46010, 46011, 46012, 46015, 46016, 46019, 46020,46021, 46022, 46023, 46024, 46025 y 46035.
 
-Código 46603. Administración Valencia-Guillem de Castro.
+Código 46603. Administración Valencia-Guillem de Castro
 
 Códigos postales números: 46001, 46002, 46003, 46004, 46005, 46006, 46007, 46008, 46013, 46014, 46017, 46018 y 46026.
 
+III. Relación de Administraciones de Aduanas e Impuestos Especiales
+
+Delegación Especial de Andalucía, Ceuta y Melilla
+
+| Administración de Aduanas e Impuestos Especiales | Delegación |
+| --- | --- |
+| La Línea de la Concepción, dependiente funcionalmente de la Dependencia de Aduanas e Impuestos Especiales de Algeciras. | Cádiz. |
+| Motril. | Granada. |
+| Aeropuerto de Málaga-Costa del Sol. | Málaga. |
+
+Delegación Especial de Aragón
+
+| Administración de Aduanas e Impuestos Especiales | Delegación |
+| --- | --- |
+| Aeropuerto de Zaragoza. | Delegación Especial |
+
+Delegación Especial de Asturias
+
+| Administración de Aduanas e Impuestos Especiales | Delegación |
+| --- | --- |
+| Avilés. | Delegación Especial. |
+
+Delegación Especial de Illes Balears
+
+| Administración de Aduanas e Impuestos Especiales | Delegación |
+| --- | --- |
+| Palma de Mallorca. | Delegación Especial. |
+| Maó. | Delegación Especial. |
+| Eivissa. | Delegación Especial. |
+
+Delegación Especial de Canarias
+
+| Administración de Aduanas e Impuestos Especiales | Delegación |
+| --- | --- |
+| Las Palmas de Gran Canaria-Marítima. | Delegación Especial. |
+| Aeropuerto de Las Palmas de Gran Canaria: con sede en Telde. | Delegación Especial. |
+| Arrecife. | Delegación Especial. |
+| Puerto del Rosario. | Delegación Especial. |
+| Aeropuerto de Santa Cruz de Tenerife Sur-Reina Sofía: con sede en Granadilla de Abona. | Santa Cruz de Tenerife. |
+| Aeropuerto de Santa Cruz de Tenerife Norte-Los Rodeos: con sede en La Laguna. | Santa Cruz de Tenerife. |
+| Santa Cruz de la Palma. | Santa Cruz de Tenerife. |
+
+Delegación Especial de Cataluña
+
+| Administración de Aduanas e Impuestos Especiales | Delegación |
+| --- | --- |
+| Barcelona. Aeropuerto de Barcelona-El Prat: con sede en El Prat de Llobregat. | Delegación Especial. Delegación Especial. |
+
+Delegación Especial de Galicia
+
+| Administración de Aduanas e Impuestos Especiales | Delegación |
+| --- | --- |
+| Aeropuerto de Santiago de Compostela. Ferrol. Vilagarcía de Arousa. | Delegación Especial. Delegación Especial. Pontevedra. |
+
+Delegación Especial de Madrid
+
+| Administración de Aduanas e Impuestos Especiales | Delegación |
+| --- | --- |
+| Madrid-Carretera: con sede en Coslada. Aeropuerto de Madrid-Barajas. Madrid-Ferrocarril. | Delegación Especial. Delegación Especial. Delegación Especial. |
+
+Delegación Especial de Murcia
+
+| Administración de Aduanas e Impuestos Especiales | Delegación |
+| --- | --- |
+| Murcia-Carretera. | Delegación Especial. |
+
+Delegación Especial del País Vasco
+
+| Administración de Aduanas e Impuestos Especiales | Delegación |
+| --- | --- |
+| Bilbao-Marítima: con sede en Santurtzi. Aeropuerto de Bilbao: con sede en Sondika. Bilbao-Carretera-Aparcabisa:con sede en Valle de Trápaga-Trapagaran. | Delegación Especial. Delegación Especial. Delegación Especial. |
+
+Delegación Especial de Valencia
+
+| Administración de Aduanas e Impuestos Especiales | Delegación |
+| --- | --- |
+| Aeropuerto de Alicante/Alacant. Valencia- Marítima. Aeropuerto de Valencia-Manises: con sede en Manises. Sagunto/Sagunt. | Alicante/Alacant. Delegación Especial. Delegación Especial. Delegación Especial. |
+
+> Se modifica por el art. 3.3 y el Anexo de la Resolución de 5 de septiembre de 2013. Ref. BOE-A-2013-9491.
+
 > Se modifica por el art. 2.8 y el Anexo II de la Resolución de 15 de febrero de 2013. Ref. BOE-A-2013-1695.
 
-> La supresión de las Administraciones de Valencia-Norte y Valencia-Grao y a la creación de la Administración de Blasco Ibáñez entra en vigor el 15 de julio de 2013, según la disposición final única de la citada Resolución.
+> La supresión de las Administraciones de Valencia-Norte y Valencia-Grao y a la creación de la Administración de Blasco Ibáñez entra en vigor el 15 de julio de 2013 según la disposición final única de la citada Resolución.
 
 > Se modifica, en la parte referida a las Administraciones de la Delegación Especial de Cataluña, por la disposición final 1 de la Resolución de 10 de febrero de 2012. Ref. BOE-A-2012-2253.
 

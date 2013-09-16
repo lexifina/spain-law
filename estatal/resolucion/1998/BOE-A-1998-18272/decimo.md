@@ -12,7 +12,7 @@ c) La revisión de la documentación y de las declaraciones relativas al despach
 
 d) El control de los establecimientos autorizados conforme a la normativa aduanera y fiscal.
 
-e) La gestión de los Impuestos Especiales salvo cuando corresponda al Departamento de Aduanas e Impuestos Especiales según el artículo 7.1.d) de la Orden PRE/3581/2007, de 10 de diciembre.
+e) La gestión de los Impuestos Especiales y demás tributos estatales cuya dirección, planificación y coordinación de la gestión esté atribuida o se atribuya en el futuro al Departamento de Aduanas e Impuestos Especiales.
 
 f) La gestión de los impuestos sobre el Valor de la Producción de la Energía Eléctrica, sobre la Producción de Combustible Nuclear Gastado y Residuos Radioactivos Resultantes de la Generación de Energía Nucleoeléctrica y sobre el Almacenamiento de Combustible Nuclear Gastado y Residuos Radioactivos en Instalaciones Centralizadas.
 
@@ -26,8 +26,10 @@ j) La planificación y dirección de las actuaciones de los Resguardos Fiscal y 
 
 k) El asesoramiento y asistencia, en los términos que en cada caso se determine, del titular de la Delegación la Agencia en materia de Aduanas e Impuestos Especiales.
 
-3. La distribución de las Dependencias de Aduanas e Impuestos Especiales por Delegaciones Especiales es la que figura en el anexo II de la presente resolución.
+3. En toda Delegación de la Agencia existirá una Dependencia de Aduanas e Impuestos Especiales, salvo en el caso de la Delegación de la Agencia de Cádiz en la que existirá, además, la Dependencia de Aduanas e Impuestos Especiales de Algeciras.
 
 4. La Dependencia de Aduanas e Impuestos Especiales de Algeciras ejercerá las funciones correspondientes a las Dependencias de Aduanas e Impuestos Especiales, excepto las consignadas en la letra e), f) y g) del número 2 de este apartado.
+
+> Se modifican los puntos 2.e) y 3 por el apartado 2.4 y 5 de la Resolución de 5 de septiembre de 2013. Ref. BOE-A-2013-9491.
 
 > Se modifica por el art. único.8 de la Resolución de 28 de diciembre de 2012. Ref. BOE-A-2012-15704.
