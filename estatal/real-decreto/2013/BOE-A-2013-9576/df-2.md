@@ -1,0 +1,7 @@
+## Disposición final segunda. Actualización de los certificados de profesionalidad establecidos en el Real Decreto 1533/2011, de 31 de octubre, por el que se establecen siete certificados de profesionalidad de la familia profesional Marítimo-Pesquera que se incluyen en el Repertorio Nacional de certificados de profesionalidad.
+
+Conforme a lo establecido en el artículo 7 del Real Decreto 34/2008, de 18 de enero, se procede a la actualización de los certificados de profesionalidad establecidos en el Real 1533/2011 de 31 de octubre, por el que se establecen siete certificados de profesionalidad de la familia profesional Marítimo-Pesquera que se incluyen en el Repertorio Nacional de certificados de profesionalidad, en los términos siguientes:
+
+Uno. Se modifican los certificados de profesionalidad establecidos como anexos «I Actividades en pesca con arte de enmalle y marisqueo y en transporte marítimo», «II Actividades en pesca en palangre, arrastre, cerco y transporte marítimo» y «III Amarre de puerto y monoboyas» estableciéndose la duración del módulo formativo transversal MF0733_1 Seguridad y primeros auxilios a bordo en 70 horas.
+
+Dos. Se modifican los certificados de profesionalidad establecidos como anexos «I Actividades en pesca con arte de enmalle y marisqueo y en transporte marítimo», «II Actividades en pesca en palangre, arrastre, cerco y transporte marítimo» y «III Amarre de puerto y monoboyas» estableciéndose la duración total de la formación asociada en 300 horas, 320 horas y 240 horas respectivamente.

@@ -1,0 +1,7 @@
+## Disposición final tercera. Actualización de los certificados de profesionalidad establecidos en el Real Decreto 1774/2011, de 2 de diciembre, por el que se establecen cuatro certificados de profesionalidad de la familia profesional Marítimo Pesquera que se incluyen en el Repertorio Nacional de certificados de profesionalidad.
+
+Conforme a lo establecido en el artículo 7 del Real Decreto 34/2008, de 18 de enero, se procede a la actualización de los certificados de profesionalidad establecidos en el Real Decreto 1774/2011, de 2 de diciembre, por el que se establecen cuatro certificados de profesionalidad de la familia profesional Marítimo-Pesquera que se incluyen en el Repertorio Nacional de certificados de profesionalidad, en los términos siguientes:
+
+Uno. Se modifican los certificados de profesionalidad establecidos como anexos «I Operaciones de coordinación en cubierta y parque de pesca», «III Documentación pesquera» y «IV Observación de la actividad y control de las capturas de un buque pesquero» estableciéndose la duración del módulo formativo transversal MF0733_1 Seguridad y primeros auxilios a bordo en 70 horas.
+
+Dos. Se modifican los certificados de profesionalidad establecidos como anexos «I Operaciones de coordinación en cubierta y parque de pesca», «III Documentación pesquera» y «IV Observación de la actividad y control de las capturas de un buque pesquero» estableciéndose la duración total de la formación asociada en 320 horas, 450 horas y 420 horas respectivamente.

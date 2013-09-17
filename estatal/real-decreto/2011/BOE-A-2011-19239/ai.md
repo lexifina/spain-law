@@ -56,7 +56,7 @@ Requisitos necesarios para el ejercicio profesional:
 
 Según el Real decreto 1519/2007, de 16 de noviembre, para ejercer la actividad profesional de marinero en buques de pesca será necesario estar en posesión de la tarjeta profesional de marinero-pescador y en posesión del certificado de especialidad de Formación Básica según la Orden FOM 2296/2002 de 4 de septiembre.
 
-Duración de la formación asociada: 290 horas.
+Duración de la formación asociada: 300 horas.
 
 Relación de módulos formativos y de unidades formativas:
 
@@ -70,7 +70,7 @@ MF0734_1: Extracción de la pesca con artes menores, nasas y equipos de marisque
 
 – UF1488: Clasificación y conservación de las capturas, y acondicionamiento del equipo de pesca (40 horas)
 
-MF0733_1: (Transversal) Seguridad y primeros auxilios a bordo (60 horas)
+MF0733_1: (Transversal) Seguridad y primeros auxilios a bordo (70 horas)
 
 MP0317: Módulo de prácticas profesionales no laborales de Actividades en pesca con artes de enmalle y marisqueo, y en transporte marítimo (40 horas)
 
@@ -752,7 +752,7 @@ Asociado a la Unidad de Competencia:
 
 UC0733_1: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo
 
-Duración: 60 horas
+Duración: 70 horas
 
 Capacidades y criterios de evaluación
 
@@ -1044,5 +1044,7 @@ Las instalaciones y equipamientos deberán cumplir con la normativa industrial e
 El número de unidades que se deben disponer de los utensilios, máquinas y herramientas que se especifican en el equipamiento de los espacios formativos, será el suficiente para un mínimo de 15 alumnos y deberá incrementarse, en su caso, para atender a número superior.
 
 En el caso de que la formación se dirija a personas con discapacidad se realizarán las adaptaciones y los ajustes razonables para asegurar su participación en condiciones de igualdad.
+
+> Se modifica la duración del módulo formativo transversal MF0733_1 y la duración total de la formación asociada, por la disposición final 2 del Real Decreto 622/2013, de 2 de agosto. Ref. BOE-A-2013-9576
 
 > Se suprime el punto «Formación a distancia» en el apartado III y se modifica la columna «con acreditación» dentro de la «Experiencia profesional requerida en el ámbito de la unidad de competencia» del apartado IV por el art. 4.2 y 3 del Real Decreto 189/2013, de 15 de marzo. Ref. BOE-A-2013-3092
