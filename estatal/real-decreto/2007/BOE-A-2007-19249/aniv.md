@@ -34,15 +34,7 @@ Conducción: ver prospecto
 
 Sobre fondo blanco, un triángulo equilátero rojo, con el vértice hacia arriba, y con un coche negro en el interior sobre fondo blanco. Su tamaño se adaptará al del envase; en todo caso, el lado del triángulo no será inferior a 10 mm.
 
-g) Medicamentos que pueden producir fotosensibilidad:
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/267/19249_007.png)
-
-Fotosensibilidad: ver prospecto
-
-Sobre fondo blanco, un triángulo equilátero rojo, con el vértice hacia arriba. En su interior y sobre fondo blanco, una nube blanca con el borde negro cubriendo parte del sol. Su tamaño se adaptará al del envase; en todo caso, el lado del triángulo no será inferior a 10 mm.
-
-La leyenda se imprimirá sobre el mismo fondo blanco, en negrita y color negro. Se situará debajo o, en caso necesario, al lado del triángulo.
+g) (Suprimida)
 
 h) Símbolo Internacional de radiactividad recogido en la norma UNE-73302 de 1991, sobre distintivos para señalización de radiaciones ionizantes:
 
@@ -103,5 +95,7 @@ f) «Medicamento homeopático».
 En los medicamentos tradicionales a base de plantas, se incluirá en el apartado correspondiente a la indicación, del etiquetado y prospecto, la siguiente leyenda:
 
 g) «Basado exclusivamente en su uso tradicional».
+
+> Se suprime la letra g) del apartado 1 por el art. único.22 del Real Decreto 686/2013, de 16 de septiembre. Ref. BOE-A-2013-9638.
 
 > Se modifica el apartado 2 por el art. 5.3 del Real Decreto 109/2010, de 5 de febrero. Ref. BOE-A-2010-2696.

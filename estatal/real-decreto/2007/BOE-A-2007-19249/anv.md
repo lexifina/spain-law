@@ -48,7 +48,7 @@ h) indicación del riesgo de síndrome de abstinencia, si procede;
 
 i) recomendación específica de consultar al médico o farmacéutico, según proceda, para cualquier aclaración sobre la utilización del producto;
 
-5. Descripción de los efectos adversos que puedan observarse durante el uso normal del medicamento y, en su caso, medidas que deban adoptarse. Se indicará expresamente al usuario que debe comunicar a su médico o a su farmacéutico cualquier efecto adverso que no estuviese descrito en el prospecto.
+5. Descripción de los efectos adversos que puedan observarse durante el uso normal del medicamento y, en su caso, medidas que deban adoptarse. Se indicará expresamente al usuario que debe comunicar a su médico, farmacéutico o profesional sanitario, cualquier efecto adverso. Además se incluirá en este apartado un texto estándar en el que se informe a los pacientes sobre la posibilidad de que notifiquen cualquier sospecha de reacción adversa directamente al Sistema Español de Farmacovigilancia (se incluirá enlace al formulario web que la Agencia Española de Medicamentos y Productos Sanitarios establecerá al efecto).
 
 6. Referencia a la fecha de caducidad que figure en el envase, con:
 
@@ -71,3 +71,7 @@ d) precauciones que deban adoptarse para la eliminación del medicamento no util
 11. Cuando el medicamento se autorice mediante procedimiento de reconocimiento mutuo y procedimiento descentralizado con diferentes nombres en los Estados miembros afectados, una lista de los nombres autorizados en cada uno de los Estados miembros.
 
 12. Fecha de la última revisión del prospecto.
+
+13. Adicionalmente, los medicamentos sometidos a un seguimiento adicional deberán incluir junto al nombre del medicamento la siguiente declaración: «Este medicamento está sujeto a un seguimiento adicional». Esta declaración irá precedida por el símbolo negro a que se refiere el artículo 1 del Reglamento de ejecución (UE) n.º 198/2013 de la Comisión, de 7 de marzo de 2013, y seguida por la frase explicativa normalizada que corresponda.
+
+> Se modifica el apartado 5 y se añade el 13 por el art. único.23 y 24 del Real Decreto 686/2013, de 16 de septiembre. Ref. BOE-A-2013-9638.

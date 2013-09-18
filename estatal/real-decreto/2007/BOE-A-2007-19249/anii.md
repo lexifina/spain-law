@@ -63,3 +63,9 @@ La ficha técnica o el resumen de características del producto, contendrá, por
 11. Dosimetría para los radiofármacos, con una explicación detallada completa de la dosimetría interna de la radiación.
 
 12. Instrucciones para la preparación de radiofármacos, instrucciones detalladas suplementarias para la preparación extemporánea y el control de calidad de esta preparación y, en su caso, tiempo máximo de almacenamiento durante el cual cualquier preparado intermedio, como un eluido, o el radiofármaco listo para su empleo cumplan las especificaciones previstas.
+
+13. Adicionalmente, los medicamentos sometidos a un seguimiento adicional deberán incluir junto al nombre del medicamento la siguiente declaración: «Este medicamento está sujeto a un seguimiento adicional». Esta declaración irá precedida por el símbolo negro a que se refiere el artículo 1 del Reglamento de Ejecución (UE) n.º 198/2013 de la Comisión, de 7 de marzo de 2013, relativo a la selección de un símbolo de identificación de los medicamentos de uso humano sujetos a un seguimiento adicional, y seguida por la frase explicativa normalizada que corresponda.
+
+Además, para todos los medicamentos, se incluirá en la sección 4.8 un texto estándar en el que se pida expresamente a los profesionales de la salud que notifiquen toda sospecha de reacción adversa al Sistema Español de Farmacovigilancia (se incluirá enlace al formulario web que la Agencia Española de Medicamentos y Productos Sanitarios establecerá al efecto).
+
+> Se añade el apartado 13 por el art. único.21 del Real Decreto 686/2013, de 16 de septiembre. Ref. BOE-A-2013-9638.
