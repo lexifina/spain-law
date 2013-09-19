@@ -1,0 +1,11 @@
+El artículo 125.1.k) de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, establece que la Intervención General de la Administración del Estado es el órgano competente para aprobar las normas de contabilidad aplicables a los fondos regulados en el apartado 2 del artículo 2 de dicha Ley.
+
+Con base en dicha habilitación, se aprobó la Resolución de 1 de julio de 2011, de la Intervención General de la Administración del Estado, por la que se aprueban las normas contables relativas a los fondos carentes de personalidad jurídica a que se refiere el apartado 2 del artículo 2 de la Ley General Presupuestaria y al registro de las operaciones de tales fondos en las entidades aportantes del sector público administrativo.
+
+En relación con la forma en que se han de realizar los envíos de la información para rendir al Tribunal de Cuentas, dicha resolución no preceptúa ni el soporte a utilizar ni el procedimiento a seguir. Al objeto de simplificar el procedimiento de rendición de cuentas, dando cabida a los cada vez más generalizados soportes informáticos, permitiéndose de esta forma una mayor capacidad de explotación de la información, la presente Resolución regula un nuevo procedimiento en el cual los procesos de obtención, formulación y aprobación de las cuentas anuales, así como su remisión a la Intervención General de la Administración del Estado, se realizan a través de los medios informáticos y telemáticos habilitados al efecto por la misma.
+
+Asimismo, se regula la puesta a disposición por el auditor del informe de auditoría por medios electrónicos y no en soporte papel como viene haciéndose hasta ahora.
+
+Finalmente, se regula también en esta resolución el procedimiento de remisión de las cuentas anuales al Tribunal de Cuentas y la publicación de las mismas en el Boletín Oficial del Estado junto con el informe de auditoría.
+
+Esta regulación se efectúa con base en la competencia atribuida a la Intervención General de la Administración del Estado, en el apartado 1.k) del artículo 125 de la Ley General Presupuestaria, para aprobar las normas de contabilidad aplicables a los fondos regulados en el apartado 2 del artículo 2 de dicha Ley. En su virtud, esta Intervención General Dispone:
