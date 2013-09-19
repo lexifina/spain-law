@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 19, de 22 de enero de 2000. Ref. BOE-A-2000-1354
+Norma derogada por la disposición derogatoria única del Real Decreto 671/2013, de 6 de septiembre.Ref. BOE-A-2013-9680.

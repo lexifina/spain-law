@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Aplicación retroactiva a quienes ya hubieran obtenido resarcimientos, indemnizaciones y ayudas.
+
+1. Quienes, con anterioridad a la entrada en vigor de la Ley 29/2011, de 22 de septiembre, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo, hubieran percibido como resultado total de los resarcimientos por daños personales, así como del abono, en su caso, de la indemnización por responsabilidad civil fijada en sentencia firme, una cuantía inferior a la señalada en el anexo I de la citada Ley, podrán solicitar el abono de las diferencias que pudieran corresponderles en el plazo de un año contado a partir de la entrada en vigor de este reglamento.
+
+2. En el plazo de un año contado a partir de la entrada en vigor de este reglamento podrán solicitarse resarcimientos por daños materiales derivados de acciones terroristas que hubieran tenido lugar desde el 1 de enero de 1960, cuando los mismos no hubieran podido ser resarcidos en su día por no estar previsto en el ordenamiento jurídico. En las mismas condiciones, salvo la limitación de plazo, podrán solicitarse ayudas educativas, por tratamientos médicos, asistencia psicopedagógica y extraordinarias.
+
+3. Para los hechos cometidos antes de la entrada en vigor de este reglamento, el plazo de 5 años previsto en el artículo 49.4 para la concesión de condecoraciones empezará a contar desde el día siguiente al de la publicación de este reglamento.
