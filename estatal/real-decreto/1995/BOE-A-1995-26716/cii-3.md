@@ -2,4 +2,8 @@
 
 ## Entidades mancomunadas
 
+> Se deroga por la disposición derogatoria única del Real Decreto 701/2013, de 20 de septiembre. Ref. BOE-A-2013-9968.
+
+> Téngase en cuenta que lo establecido en el Capítulo II seguirá siendo de aplicación a los Centros Mancomunados de Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, en lo que no resulte incompatible con su naturaleza y características, de conformidad con la remisión recogida en el Capítulo III del Título III de este Reglamento.
+
 > Se añade por el art. único.6 del Real Decreto 38/2010, de 15 de enero. Ref. BOE-A-2010-654
