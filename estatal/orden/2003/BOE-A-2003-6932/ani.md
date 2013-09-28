@@ -4,23 +4,13 @@
 
 1. Datos comunes a todas las comunicaciones excepto las certificaciones del apartado ocho de este anexo
 
-Datos del representante de la empresa:
+Datos de la Empresa:
 
 NIF/NIE.
 
-Nombre.
+Nombre o Razón Social.
 
-Primer apellido.
-
-Segundo apellido (si posee NIE y carece de segundo apellido, no se consignará).
-
-Datos de la empresa:
-
-CIF/NIF.
-
-Nombre o razón social.
-
-Dirección:
+Dirección.
 
 Nombre de vía.
 
@@ -34,13 +24,15 @@ Cuenta de cotización:
 
 Régimen de cotización.
 
+Provincia.
+
 Número.
 
 Dígito de control.
 
 Actividad económica.
 
-Datos del centro de trabajo:
+Datos del Centro de Trabajo:
 
 País.
 
@@ -62,13 +54,13 @@ Sexo.
 
 Nacionalidad.
 
-País de residencia.
+País de domicilio.
 
-Municipio de residencia (sólo y obligatorio si país de residencia es España).
+Municipio de domicilio (sólo y obligatorio si País de residencia es España).
 
 2. Datos de la comunicación del contrato
 
-Datos comunes a todos los contratos.
+Datos comunes a todos los contratos:
 
 Código del contrato según la siguiente tabla:
 
@@ -78,7 +70,7 @@ Tiempo completo:
 
 100: Indefinido ordinario a tiempo completo.
 
-130: Indefinido de minusválido a tiempo completo.
+130: Indefinido de discapacitado a tiempo completo.
 
 150: Indefinido bonificado a tiempo completo.
 
@@ -86,7 +78,7 @@ Tiempo parcial:
 
 200: Indefinido ordinario a tiempo parcial.
 
-230: Indefinido de minusválido a tiempo parcial.
+230: Indefinido de discapacitado a tiempo parcial.
 
 250: Indefinido bonificado a tiempo parcial.
 
@@ -94,7 +86,7 @@ Fijos discontinuos:
 
 300: Fijo discontinuo.
 
-330: Fijo discontinuo de minusválido.
+330: Fijo discontinuo de discapacitado.
 
 350: Fijo discontinuo bonificado.
 
@@ -106,19 +98,19 @@ Tiempo completo:
 
 402: Eventual por circunstancias de la producción a tiempo completo.
 
-403: Inserción a tiempo completo.
-
 410: Interinidad a tiempo completo.
 
 420: Prácticas a tiempo completo.
 
 421: Formación a tiempo completo.
 
-430: Temporal de minusválido a tiempo completo.
+430: Temporal de discapacitado a tiempo completo.
 
 441: Relevo a tiempo completo.
 
 450: Temporal bonificado a tiempo completo.
+
+452: Temporal T. Completo Empresas de Inserción.
 
 Tiempo parcial:
 
@@ -126,19 +118,19 @@ Tiempo parcial:
 
 502: Eventual por circunstancias de la producción a tiempo parcial.
 
-503: Inserción a tiempo parcial.
-
 510: Interinidad a tiempo parcial.
 
 520: Prácticas a tiempo parcial.
 
-530: Temporal de minusválido a tiempo parcial.
+530: Temporal de discapacitado a tiempo parcial.
 
 540: Jubilación parcial.
 
 541: Relevo a tiempo parcial.
 
 550: Temporal bonificado a tiempo parcial.
+
+552: Temporal T. Parcial Empresas de Inserción.
 
 Otros no contenidos en los anteriores a tiempo completo o a tiempo parcial:
 
@@ -154,13 +146,13 @@ Ocupación o profesión.
 
 Nivel formativo.
 
-Identificador de la oferta de empleo (si se conoce).
+Identificador de la oferta de empleo (obligatoria para contratos de Programas de Empleo).
 
-Datos de los contratos según modalidad y otras características del contrato.
+Datos de los contratos según modalidad y otras características del contrato:
 
-Parcial.
+Parcial:
 
-Horas de jornada.
+Horas de jornada:
 
 Período de tiempo en que se realizan las horas de jornada.
 
@@ -168,19 +160,17 @@ Horas de convenio (sólo si el contrato es subvencionado).
 
 Porcentaje de jubilación parcial (sólo en el contrato de jubilación parcial).
 
-Duración determinada.
+Duración determinada:
 
 Fecha de término de la relación laboral (en el contrato de obra o servicio determinado y en el de interinidad no se consignará la fecha de término si no se conoce).
 
-Convenio que autorice duración superior a la máxima permitida (sólo en el contrato eventual por circunstancias de la producción).
+Convenio que autorice duración superior a la máxima permitida (cuando lo permita la norma).
 
-Prácticas.
+Prácticas:
 
 Titulación académica.
 
-Formación.
-
-Acreditación de la formación.
+Formación:
 
 Horas de jornada.
 
@@ -188,83 +178,91 @@ Período de tiempo en que se realizan las horas de jornada.
 
 Horas de formación.
 
-Colectivo de desempleado al que pertenece si es mayor de 21 años.
+Colectivo de edad permitida para el contrato.
 
-Indicación de discapacidad (cuando exista).
+Indicación de discapacidad (cuando proceda).
 
-Convenio que autorice duración superior a la máxima permitida.
+Convenio que autorice duración distinta a la permitida.
 
-Interinidad.
+Anexo de Formación.
+
+Interinidad:
 
 Causa objeto de la interinidad para sustituir a trabajadores.
 
-Relevo.
+Relevo:
 
 Tipo de trabajador de relevo contratado.
 
-Investigación.
+Investigación:
 
 Tipo de empleador que contrata.
 
-Tipo de trabajador contratado (sólo para el contrato de trabajo para la realización de un proyecto de investigación).
+Tipo de trabajador contratado.
 
-Inserción.
+Acogidos a Medidas de la contratación:
 
-Tipo de empleador que contrata.
+Normativa a la que se acoge.
 
-Ejercicio presupuestario (sólo si el empleador es una Corporación Local).
+Colectivo al que pertenece, si procede.
 
-Entidad colaboradora (sólo si el empleador es una Corporación Local).
+Cualquier otro dato que se solicite en el modelo oficial establecido.
 
-Actuación (sólo si el empleador es una Corporación Local).
+Subsidiado mayor de 52 años:
 
-Grupo de cotización a la Seguridad Social.
+Indicación de si el trabajador es perceptor de cualquiera de los subsidios recogidos en el artículo 215 del Texto Refundido de la Ley General de la Seguridad Social, o bien es perceptor del subsidio en favor de los trabajadores eventuales agrarios incluidos en el Sistema Especial para Trabajadores por Cuenta Ajena Agrarios incluidos en el Régimen General de la Seguridad Social.
 
-Acogido a fomento de contratación indefinida.
+Discapacitados:
 
-Normativa de fomento de la contratación indefinida a la que se acoge.
+Indicador de Bonificación.
 
-Colectivo de fomento de la contratación indefinida al que pertenece el trabajador contratado.
-
-Acogido a bonificación de cuotas a la Seguridad Social.
-
-Normativa a la que se acoge para bonificarse en las cuotas a la Seguridad Social.
-
-Colectivo de bonificación al que pertenece el trabajador contratado.
-
-Tipo de empresa que se bonifica.
-
-Subsidiado mayor de 52 años.
-
-Indicación de si el trabajador es perceptor de cualquiera de los subsidios recogidos en el artículo 215 del texto refundido de la Ley General de la Seguridad Social, o bien es perceptor del subsidio en favor de los trabajadores eventuales agrarios incluidos en el Régimen Especial Agrario de la Seguridad Social.
-
-Minusválidos en Centros Especiales de Empleo.
+Colectivo de Bonificación.
 
 Indicación de si la empresa es un Centro Especial de Empleo.
 
-Contrato de puesta a disposición de una Empresa de Trabajo Temporal.
+Contrato de puesta a disposición de una Empresa de Trabajo Temporal:
 
-CIF/NIF de empresa usuaria.
+NIF/NIE de empresa usuaria.
 
-Contrato para Escuelas Taller, Casas de Oficios o Talleres de Empleo.
+Cuenta de cotización:
+
+Régimen de cotización.
+
+Provincia.
+
+Número.
+
+Dígito de control.
+
+Contrato para Escuelas Taller, Casas de Oficios o Talleres de Empleo:
 
 Tipo de trabajador contratado.
 
 Tipo de programa.
 
-Programa de empleo.
+Programa de Empleo:
 
 Programa para el que se contrata.
 
-Entidad colaboradora (sólo si el empleador es una Corporación Local).
+Interés Social sin ánimo de lucro:
 
-Actuación (sólo si el empleador es una Corporación Local).
+Grupo de Cotización.
 
-Año del ejercicio presupuestario (sólo si el empleador es una Corporación Local).
+Contrato a distancia:
+
+Indicar que el contrato es de esta modalidad.
+
+Contrato de grupo:
+
+Indicar que el contrato es de esta modalidad.
+
+Identificador (NIF/NIE) de los trabajadores del grupo.
 
 3. Datos de la comunicación de copia básica
 
 Resto de datos contenidos en el contrato y que no estén recogidos en este anexo en el apartado uno y en el apartado dos o siete según se trate de una comunicación de copia básica de un contrato o de una transformación a indefinido de un contrato temporal, respectivamente.
+
+Domicilio del centro de trabajo (dirección completa).
 
 Tipo de firma de la copia básica.
 
@@ -274,10 +272,6 @@ Fecha de inicio de la prórroga.
 
 Fecha de término de la prórroga.
 
-Identificador del contrato si se conoce.
-
-Horas de formación (sólo en el contrato de formación, siempre y cuando se modifiquen las horas destinadas a la formación con respecto al contrato de origen).
-
 5. Datos de la comunicación de horas complementarias
 
 Número total de horas complementarias.
@@ -286,25 +280,19 @@ Porcentaje de aumento que supone sobre las horas pactadas en el contrato.
 
 Identificador del contrato si se conoce.
 
-Número de horas complementarias del 1er Trimestre.
-
-Número de horas complementarias del 2.º Trimestre.
-
-Número de horas complementarias del 3.º Trimestre.
-
-Número de horas complementarias del 4.º Trimestre.
-
 6. Datos de la comunicación de llamamiento de fijo discontinuo
 
 Fecha de inicio del llamamiento.
 
-Fecha de término del llamamiento.
+Fecha de término del llamamiento (si se conoce).
 
-Identificador del contrato si se conoce.
+Identificador del contrato (si se conoce).
+
+Nivel Formativo del trabajador.
 
 7. Datos de la comunicación de transformación a indefinido de contrato temporal
 
-Datos comunes a todas las transformaciones de contratos.
+Datos comunes a todas las transformaciones de contratos:
 
 Código del contrato según la siguiente tabla:
 
@@ -312,7 +300,7 @@ Tiempo completo:
 
 109: Conversión a indefinido bonificado a tiempo completo.
 
-139: Conversión a indefinido de minusválido a tiempo completo.
+139: Conversión a indefinido de discapacitado a tiempo completo.
 
 189: Conversión a indefinido no bonificado a tiempo completo.
 
@@ -320,7 +308,7 @@ Tiempo parcial:
 
 209: Conversión a indefinido bonificado a tiempo parcial.
 
-239: Conversión a indefinido de minusválido a tiempo parcial.
+239: Conversión a indefinido de discapacitado a tiempo parcial.
 
 289: Conversión a indefinido no bonificado a tiempo parcial.
 
@@ -330,15 +318,15 @@ Fijo discontinuo:
 
 389: Conversión a fijo discontinuo no bonificado.
 
+339: Conversión a fijo discontinuo de minusválido.
+
 Fecha de inicio de la transformación.
 
 Ocupación o profesión.
 
-Identificador del contrato temporal que es objeto de la transformación, si se conoce.
+Datos del contrato transformado según modalidad y otras características del contrato:
 
-Datos del contrato transformado según modalidad y otras características del contrato.
-
-Parcial.
+Parcial:
 
 Horas de jornada.
 
@@ -346,17 +334,15 @@ Período de tiempo en que se realizan las horas de jornada (días, semana, mes o
 
 Horas de convenio (sí el contrato es subvencionado).
 
-Acogido a fomento de contratación indefinida.
+Acogidos a Medidas de la contratación:
 
-Normativa de fomento de la contratación indefinida a la que se acoge.
+Normativa a la que se acoge.
 
-Acogido a bonificación de cuotas a la Seguridad Social.
-
-Normativa a la que se acoge para bonificarse en las cuotas a la Seguridad Social.
+Colectivo al que pertenece, si procede.
 
 8. Datos de la comunicación telemática de la certificación expedida por la administración pública o entidad encargada de gestionar la formación de trabajadores sustituidos durante dichos períodos por trabajadores desempleados beneficiarios de prestaciones por desempleo
 
-Datos del Representante de la Administración Pública o Entidad encargada de gestionar la formación.
+Datos del Representante de la Administración Pública o Entidad encargada de gestionar la formación:
 
 NIF/NIE.
 
@@ -366,21 +352,21 @@ Primer apellido.
 
 Segundo apellido (si posee NIE y carece de segundo apellido, no se consignará).
 
-Datos de la Administración Pública o Entidad encargada de gestionar la formación.
+Datos de la Administración Pública o Entidad encargada de gestionar la formación:
 
-Administración Pública o Entidad encargada de gestionar la formación (Ministerio de Educación, Cultura y Deporte, Ministerio de Trabajo y Asuntos Sociales, Organismo Autónomo, Organismo Perteneciente a Comunidad Autónoma u Otras Entidades como la Fundación Tripartita para la Formación en el Empleo, HOBETUZ, etc).
+Administración Pública o Entidad encargada de gestionar la formación (Ministerio de Educación, Cultura y Deporte, Ministerio de Empleo y Seguridad Social, Organismo Autónomo, Organismo Perteneciente a Comunidad Autónoma u Otras Entidades como la Fundación Tripartita para la Formación en el Empleo, etc.).
 
 Nombre de la entidad que subvenciona la acción.
 
 Código identificativo de la subvención.
 
-Datos de la empresa que tiene contratado al trabajador en formación a sustituir.
+Datos de la Empresa que tiene contratado al trabajador en formación a sustituir:
 
-CIF/NIF.
+NIF/NIE.
 
 Número de inscripción en la Seguridad Social.
 
-Nombre o razón social.
+Nombre o Razón Social.
 
 Dirección:
 
@@ -392,7 +378,7 @@ Código postal.
 
 Número de trabajadores en plantilla.
 
-Datos del trabajador en formación a sustituir.
+Datos del trabajador en formación a sustituir:
 
 NIF/NIE (no se consignará en las comunicaciones de copias básicas).
 
@@ -408,7 +394,7 @@ Ocupación o profesión.
 
 Categoría profesional.
 
-Datos de las acciones formativas programadas.
+Datos de las acciones formativas programadas:
 
 Denominación de la acción formativa.
 
@@ -420,7 +406,7 @@ Total de horas de la acción formativa.
 
 Horario en que se imparte la acción formativa.
 
-Datos del centro de formación encargado de las acciones formativas.
+Datos del centro de formación encargado de las acciones formativas:
 
 Nombre o razón social del centro de formación.
 
@@ -432,8 +418,10 @@ Municipio.
 
 Código postal.
 
-Lugar y fecha de expedición de la certificación.
+Datos del lugar y fecha de expedición de la certificación:
 
 Lugar.
 
 Fecha.
+
+> Se modifica por el art. único.6 de la Orden ESS/1727/2013, de 17 de septiembre. Ref. BOE-A-2013-10031.
