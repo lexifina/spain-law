@@ -8,7 +8,7 @@ La exigencia de la tasa viene determinada por la prestación a los operadores de
 
 a) La comprobación del cumplimiento de las condiciones requeridas para el otorgamiento de la concesión de expendedurías de tabaco y timbre a que se refiere el artículo 4, apartado cuatro, de la Ley.
 
-b) La autorización de puntos de venta con recargo de labores de tabaco a que se refiere el artículo 4, cinco, de la Ley, así como la renovación de tal autorización.
+b) La comprobación del cumplimiento de las condiciones requeridas para la obtención de la autorización de cada punto de venta con recargo de labores de tabaco a que se refiere el artículo 4, Cinco, de la Ley, así como la revisión de dichas condiciones en las sucesivas renovaciones de la autorización.
 
 c) El reconocimiento y homologación de locales y almacenes con ocasión del cambio o modificación de emplazamiento, ya sean definitivos o temporales, de expendedurías y la revisión de instalaciones para el caso de transmisión de su titularidad, según se establezca, a tenor del artículo 4, apartado seis, de la Ley, en el Estatuto Concesional, así como en los supuestos de realización de obras y autorización de almacenes.
 
@@ -50,7 +50,7 @@ Clase 2. Revisión de instalaciones en caso de transmisión de titularidad que n
 
 ## 4. Devengo:
 
-Las tasas se devengarán, según los casos, en el momento de depositar las instancias para la subasta de concesión de expendedurías, de acordarse la autorización o renovación de la actividad de venta con recargo o de dictarse el acto de homologación de las instalaciones.
+Las tasas se devengarán, según los casos, en el momento de depositar las instancias para la subasta de concesión de expendedurías, de presentarse la solicitud de autorización o renovación de la actividad de venta con recargo o de dictarse el acto de homologación de las instalaciones.
 
 ## 5. Destino:
 
@@ -67,6 +67,8 @@ La cuantía de las tarifas previstas en esta Ley podrá ser modificada por las L
 ## 8. Normativa supletoria:
 
 Serán de aplicación a la tasa, en todo lo no previsto en la presente Ley, los preceptos de la Ley 230/1963, de 28 de diciembre, General Tributaria, y de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, que resulten procedentes.
+
+> Se modifican los apartados 1.b) y 4 por la disposición final 1 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
 
 > Se modifican los apartados 2 y 4 por la disposición final 8.5 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
 

@@ -111,6 +111,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 70](a70.md)
 - [CAPÍTULO IV](civ.md)
 - [Artículo 71](a71.md)
+- [Artículo 71 bis](a71bis.md)
 - [Artículo 72](a72.md)
 - [Artículo 73](a73.md)
 - [TÍTULO IV](tiv.md)

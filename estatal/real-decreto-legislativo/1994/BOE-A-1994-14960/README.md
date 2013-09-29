@@ -413,6 +413,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional trigésima tercera](datrigesimatercera.md)
 - [Disposición adicional trigésima cuarta](datrigesimacuarta.md)
 - [Disposición adicional trigésima quinta](datrigesimaquinta.md)
+- [Disposición adicional trigésima quinta bis](datrigesimaquintabis.md)
 - [Disposición adicional trigésima sexta](datrigesimasexta.md)
 - [Disposición adicional trigésima séptima](datrigesimaseptima.md)
 - [Disposición adicional trigésima octava](datrigesimaoctava.md)

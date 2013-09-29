@@ -22,6 +22,10 @@ La Ley crea el Comisionado para el Mercado de Tabacos como Organismo autónomo q
 
 Como garantía de la aplicación de los preceptos de la presente Ley, se tipifican las infracciones por violación de las reglas de ordenación del mercado de tabacos que la misma establece, sin incidir en las ya contempladas en otras normas legales de distinto carácter aplicables al sector, y se establecen las pertinentes sanciones para los infractores.
 
+Esta Ley también consagra la doctrina del principio de la libertad de circulación dentro de la Unión Europea en materia de venta minorista por parte de los expendedores consagrada en este caso por la Sentencia del Tribunal de Justicia de la Unión Europea, de 26 de abril de 2012, dictada en el Asunto C-456/10, y por la Sentencia del Tribunal Supremo, de 8 de noviembre de 2012, dictada en el recurso contencioso-administrativo número 1/59/2007.
+
 Cabe resaltar, por último, que la presente norma legal no comporta alteraciones de las actuales restricciones sanitarias en materia de publicidad y venta de tabacos, ni supone modificación alguna de la Ley Orgánica 12/1985, de 12 de diciembre, de Represión del Contrabando.
+
+> Se añade el penúltimo párrafo por la disposición final 1.1 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
 
 > Se modifica el párrafo 5 por la disposición final 8.1 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.

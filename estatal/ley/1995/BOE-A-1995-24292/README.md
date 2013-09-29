@@ -90,6 +90,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional decimocuarta](dadecimocuarta.md)
 - [Disposición adicional decimoquinta](dadecimoquinta.md)
 - [Disposición adicional decimosexta](dadecimosexta.md)
+- [Disposición adicional decimoséptima](dadecimoseptima.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición derogatoria única](ddunica.md)

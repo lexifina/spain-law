@@ -1,6 +1,6 @@
 ## Disposición adicional cuarta. Homologación de los acuerdos de refinanciación.
 
-1. Podrá homologarse judicialmente el acuerdo de refinanciación que reúna las condiciones del artículo 71.6 y haya sido suscrito por acreedores que representen al menos el setenta y cinco por ciento del pasivo titularidad de entidades financieras en el momento de la adopción del acuerdo. Por la homologación judicial los efectos de la espera pactada para las entidades financieras que lo hayan suscrito se extienden a las restantes entidades financieras acreedoras no participantes o disidentes cuyos créditos no estén dotados de garantía real.
+1. Podrá homologarse judicialmente el acuerdo de refinanciación que habiendo sido suscrito por acreedores que representen al menos el 55 por ciento del pasivo titularidad de entidades financieras, reúna en el momento de adopción del acuerdo, las condiciones del artículo 71.6 de la presente Ley relativas a designación de experto independiente y elevación a instrumento público. Por la homologación judicial los efectos de la espera pactada para las entidades financieras que lo hayan suscrito se extienden a las restantes entidades financieras acreedoras no participantes o disidentes cuyos créditos no estén dotados de garantía real.
 
 2. La competencia para conocer de esta homologación corresponderá al juez de lo mercantil que, en su caso, fuera competente para la declaración del concurso.
 
@@ -23,6 +23,8 @@ La resolución por la que se apruebe la homologación del acuerdo de refinanciac
 Declarado el incumplimiento, los acreedores podrán instar la declaración de concurso o iniciar las ejecuciones singulares. La sentencia que resuelva el incidente no será susceptible de recurso de apelación.
 
 7. Solicitada una homologación no podrá solicitarse otra por el mismo deudor en el plazo de un año.
+
+> Se modifica el apartado 1 por el art. 31.2 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
 
 > Se modifica por el art. único.112 de la Ley 38/2011, de 10 de octubre. Ref. BOE-A-2011-15938.
 

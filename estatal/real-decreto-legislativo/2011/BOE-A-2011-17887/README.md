@@ -343,6 +343,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Sección 2](s2-11.md)
 - [Artículo 227](a227.md)
 - [Artículo 228](a228.md)
+- [Artículo 228 bis](a228bis.md)
 - [TÍTULO II](tii-4.md)
 - [CAPÍTULO I](ci-10.md)
 - [Sección 1](s1-12.md)

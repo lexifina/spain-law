@@ -6,9 +6,11 @@ Asimismo, todas aquellas concesiones existentes con anterioridad a 1 de enero de
 
 Vencido el plazo de treinta años, en ambos casos referidos en los dos párrafos anteriores las nuevas concesiones de expendeduría se convocarán, en su caso, mediante el procedimiento de subasta. Hasta la nueva adjudicación, el anterior concesionario podrá seguir prestando el servicio previa autorización del Comisionado para el Mercado de Tabacos.
 
-No podrán solicitar la transmisión ni participar en subastas aquellos titulares de expendedurías que hayan sido sancionados por una infracción muy grave en los últimos cinco años, o dos graves en los últimos tres años, siempre que sean firmes.
+No podrán solicitar la transmisión ni participar en subastas aquellos titulares de expendedurías que hayan sido sancionados por una infracción muy grave en los últimos cinco años, o dos graves en los últimos tres años, siempre que sean firmes en vía administrativa. Asimismo, tampoco podrán solicitar la transmisión aquellos titulares de expendedurías que se encuentren incursos en procedimientos sancionadores en materia de mercado de tabacos hasta su resolución y archivo.
 
 Las concesiones administrativas existentes cuyo titular sea una persona jurídico privada tendrán una vigencia de treinta años desde el 19 de noviembre de 2005.
+
+> Se modifica el penúltimo párrafo por la disposición final 1.16 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
 
 > Se modifica por la disposición final.8.4 de la ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
 

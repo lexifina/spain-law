@@ -1,0 +1,3 @@
+## Disposición adicional octava. Coste Económico.
+
+La aplicación de las previsiones contenidas en la presente Ley, que pudieran tener una incidencia sobre el gasto público, se desarrollará con los recursos humanos y los medios materiales existentes. En particular, la aplicación de las previsiones contenidas en los artículos 13, 19, 22, 38, 39, 40 en la Sección 2.ª del Título V y en la disposición adicional segunda no suponen aumento del gasto público, toda vez que el funcionamiento de los Órganos e instrumentos que se crean se desarrollará con los recursos humanos y los medios materiales existentes.

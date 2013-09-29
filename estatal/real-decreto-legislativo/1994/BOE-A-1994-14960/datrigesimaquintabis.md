@@ -1,0 +1,19 @@
+## Disposición adicional trigésima quinta bis. Reducciones a la Seguridad Social aplicables a los trabajadores por cuenta propia.
+
+1. Los trabajadores por cuenta propia que tengan 30 o más años de edad y que causen alta inicial o que no hubieran estado en situación de alta en los cinco años inmediatamente anteriores, a contar desde la fecha de efectos del alta, en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, podrán aplicarse las siguientes reducciones sobre la cuota por contingencias comunes, siendo la cuota a reducir el resultado de aplicar a la base mínima de cotización que corresponda el tipo mínimo de cotización vigente en cada momento, incluida la incapacidad temporal, por un período máximo de 18 meses, según la siguiente escala:
+
+a) Una reducción equivalente al 80 por ciento de la cuota durante los 6 meses inmediatamente siguientes a la fecha de efectos del alta.
+
+b) Una reducción equivalente al 50 por ciento de la cuota durante los 6 meses siguientes al período señalado en la letra a).
+
+c) Una reducción equivalente al 30 por ciento de la cuota durante los 6 meses siguientes al período señalado en la letra b).
+
+Lo previsto en el presente apartado no resultará de aplicación a los trabajadores por cuenta propia que empleen trabajadores por cuenta ajena.
+
+2. Los trabajadores por cuenta propia que opten por el sistema del apartado anterior, no podrán acogerse a las bonificaciones y reducciones de la disposición adicional trigésima quinta.
+
+3. Lo dispuesto en los apartados anteriores será también de aplicación a los socios trabajadores de Cooperativas de Trabajo Asociado que estén encuadrados en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, cuando cumplan los requisitos previstos en dichos apartados.
+
+4. Las reducciones de cuotas previstas en esta disposición adicional se soportarán por el presupuesto de ingresos de la Seguridad Social.
+
+> Se añade por el art. 29 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
