@@ -13,3 +13,7 @@ d) Código de explotación en la que fue identificado. (código REGA de la explo
 e) Tipo de identificador electrónico: bolo ruminal, inyectable o crotal electrónico en el caso de animales procedentes de otros Estados miembros con este sistema.
 
 f) Cuando proceda datos sobre solicitudes de duplicados de identificadores electrónicos.
+
+g) Fecha de muerte (si está muerto).
+
+> Se añade el apartado g) por la disposición final 5 del Real Decreto 685/2013, de 16 de septiembre. Ref. BOE-A-2013-10103.

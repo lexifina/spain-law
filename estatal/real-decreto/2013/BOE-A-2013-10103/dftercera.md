@@ -1,0 +1,3 @@
+## Disposición final tercera. Facultad de coordinación.
+
+Corresponden al Comité nacional de coordinación de identificación del ganado y registro de explotación de las especies de interés ganadero creado por el Real Decreto 479/2004, de 26 de marzo, las funciones de coordinación en materia de identificación y registro de las especies ovina y caprina y al Comité Español de Identificación Electrónica de los Animales (CEIEA) establecido en la Orden APA/2405/2002, de 27 de septiembre, las relativas a la coordinación y asesoramiento técnico del citado comité en materia de identificación electrónica de estas especies.

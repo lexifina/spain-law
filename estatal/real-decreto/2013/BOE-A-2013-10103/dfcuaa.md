@@ -1,0 +1,5 @@
+## Disposición final cuarta. Modificación del Real Decreto 205/1996, de 9 de febrero, por el que se establece un sistema de identificación y registro de los animales de las especies bovina, porcina, ovina y caprina.
+
+El artículo 7 del Real Decreto 205/1996, de 9 de febrero, por el que se establece un sistema de identificación y registro de los animales de las especies bovina, porcina, ovina y caprina, queda redactado del siguiente modo:
+
+«Todos los animales de la especie porcina deberán ser marcados lo antes posible y, en cualquier caso, antes de salir de la explotación con una marca, consistente en un crotal auricular o un tatuaje según lo que establezca la autoridad competente, de similares características a las descritas en el anexo V. Dicha marca determinará la explotación de la que proceden los animales y contendrá la estructura establecida en el artículo 5 del Real Decreto 479/2004, de 26 de marzo, por el que se establece y regula el Registro general de explotaciones ganaderas (REGA).»

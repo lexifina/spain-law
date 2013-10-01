@@ -38,8 +38,10 @@ Abejas: REMO.
 
 Especies peleteras (incluyendo visón, zorro rojo, nutria y chinchilla): REMO.
 
-Especies cinegéticas de caza mayor de cría (incluyendo corzos, ciervos, gamos, muflones y abalíes): REMO.
+Especies cinegéticas de caza mayor de cría (incluyendo corzos, ciervos, gamos y jabalíes): REMO.
 
-Otras (incluyendo camellos, dromedarios y alpacas): REMO.
+Otras: REMO.
+
+> Se modifica por la disposición final 5 del Real Decreto 685/2013, de 16 de septiembre. Ref. BOE-A-2013-10103.
 
 > Se modifica por el art. único de la Orden ARM/687/2009, de 11 de marzo. Ref. BOE-A-2009-4686.
