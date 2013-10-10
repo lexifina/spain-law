@@ -1,0 +1,3 @@
+## Disposición adicional única. Régimen retributivo del acceso a la categoría de Inspector por promoción interna.
+
+Los funcionarios que accedan a la categoría de Inspector por promoción interna percibirán durante los cursos de formación en el centro docente las retribuciones correspondientes a la categoría de subinspector, no obstante lo anterior, durante la realización del módulo de prácticas en puesto de trabajo previsto en el artículo 22 del Reglamento de los procesos selectivos y de formación del Cuerpo Nacional de Policía, aprobado por el Real Decreto 614/1995, de 21 de abril, les será de aplicación lo previsto en el artículo 3 de este real decreto.
