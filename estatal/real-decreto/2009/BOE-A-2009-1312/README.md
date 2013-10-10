@@ -67,6 +67,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 40](a40.md)
 - [Artículo 41](a41.md)
 - [Disposición adicional primera](daprimera.md)
+- [Disposición adicional segunda](dasegunda.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición derogatoria única](ddunica.md)
