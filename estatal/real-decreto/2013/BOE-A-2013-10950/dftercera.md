@@ -1,0 +1,3 @@
+## Disposición final tercera. Incorporación del derecho de la Unión Europea.
+
+Mediante este real decreto se incorpora parcialmente al derecho español la Directiva 2011/62/UE del Parlamento Europeo y del Consejo de 8 de junio de 2011, que modifica la Directiva 2001/83/CE por la que se establece un código comunitario sobre medicamentos de uso humano, en lo relativo a la prevención de la entrada de medicamentos falsificados en la cadena de suministro legal, y concretamente, las modificaciones correspondientes a los artículos: 46, letra f); nuevo 46 ter; nuevo 52 bis; nuevo 52 ter, apartado 1; 80, excepto su apartado a); nuevo 85 ter; y el nuevo 85 bis, en la redacción dada por la Directiva 2012/26/UE del Parlamento Europeo y del Consejo, de 25 de octubre de 2012.
