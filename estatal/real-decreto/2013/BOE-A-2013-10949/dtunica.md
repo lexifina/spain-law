@@ -1,0 +1,19 @@
+## Disposición transitoria única. Aplicación transitoria.
+
+1. En relación con las instalaciones que lleven a cabo las actividades a que se refiere el anejo 1, en el punto 1.1 para las actividades con una potencia térmica nominal superior a 50 MW, los puntos 1.2 y 1.3, el punto 1.4.a), los puntos 2.1 a 2.6, el punto 3.1. a) y b), los puntos 3.2 a 3.5, los puntos 4.1 a 4.6 para las actividades relativas a producción por procesos químicos, los puntos 5.1 y 5.2 para las actividades cubiertas por la Directiva 2008/1/CE, del Parlamento y del Consejo de 15 de enero de 2008, relativa a la prevención y control integrado de la contaminación, el punto 5.3.a) y b), los puntos 5.5, 6.1, 6.2, los puntos 7.1, 8.1, 9.1.a), 9.1.b) para las actividades cubiertas por la Directiva 2008/1/CE, el punto 9.1.c) y los puntos 9.2, 9.3, 10.1, 11.1 y 14.1, que están en explotación y poseen una autorización de antes del 7 de enero de 2013 o para las que el titular haya presentado una solicitud completa de autorización antes de dicha fecha, siempre que estas instalaciones entren en funcionamiento a más tardar el 7 de enero de 2014, los órganos competentes aplicarán las disposiciones legales, reglamentarias y administrativas adoptadas de conformidad con la presente norma, a partir del 7 de enero de 2014, con excepción del capítulo V y del anejo 3.
+
+2. En relación con las instalaciones que lleven a cabo las actividades a que se refiere el anejo 1, en el punto 1.1 para las actividades con una potencia térmica nominal igual a 50 MW, el punto 1.4.b), el punto 3.1.c), los puntos 4.1 a 4.6 para las actividades relativas a producción por procesos biológicos, los puntos 5.1 y 5.2 para las actividades no cubiertas por la Directiva 2008/1/CE, el punto 5.3.c), d) y e), el punto 5.4, los puntos 5.6 y 5.7, el punto 6.3, el punto 9.1.b) para las actividades no cubiertas por la Directiva 2008/1/CE, y los puntos 12.1 y 13.1 que estén en explotación antes del 7 de enero de 2013, los órganos competentes aplicarán las disposiciones legales, reglamentarias y administrativas adoptadas de conformidad con el presente reglamento, a partir del 7 de julio de 2015, a excepción de los capítulos IV y V y anejos 2 y 3.
+
+3. En relación con las instalaciones de combustión a que se refiere el artículo 44.2 los órganos competentes aplicarán, a partir del 1 de enero de 2016, las disposiciones normativas adoptadas de conformidad con el presente reglamento, para ajustarse al capítulo V y al anejo 3.
+
+4. En relación con las instalaciones de combustión que coincineran residuos del anejo 2, parte 4, punto 3.1, se aplicará:
+
+a) Hasta el 31 de diciembre de 2015, a las instalaciones de combustión a que se refiere el artículo 44.2.
+
+b) A partir de la entrada en vigor de este reglamento, a las instalaciones de combustión a que se refiere el artículo 44.3.
+
+5. En relación con las instalaciones de combustión que coincineran residuos del anejo 2, parte 4, punto 3.2, se aplicará:
+
+a) A partir del 1 de enero de 2016, a las instalaciones de combustión a que se refiere el artículo 44.2.
+
+b) A partir de la entrada en vigor de este reglamento, a las instalaciones de combustión a que se refiere el artículo 44.3.

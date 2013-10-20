@@ -1,6 +1,8 @@
 ## ANEXO II
 
-## A) Umbrales de consumo y límite de emisión
+## A) Umbrales de consumo y límites de emisión.
+
+Los valores límite de emisión expresados como concentraciones o niveles de emisión se entenderán referidos a condiciones normales y gas seco.
 
 |  | Actividad (umbral de consumo de disolvente en t/año) | Umbral (umbral de consumo de disolventes en t/año) | Valores límite de emisión en gases residuales (mg C/Nm3) | Valores de emisión difusa (porcentaje de entrada de disolventes | Valores límite de emisión total | Disposiciones especiales |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -34,9 +36,7 @@ El área superficial de cualquier producto citado en el cuadro que figura más a
 
 La superficie del área de recubrimiento electroforético se calcula con la fórmula siguiente:
 
-| 2 × peso total del objeto metálico |
-| --- |
-| espesor medio de la lámina metálica × densidad de la lámina metálica |
+(2 × peso total del objeto metálico) / (espesor medio de la lámina metálica × densidad de la lámina metálica)
 
 Este método se aplicará también a las demás partes recubiertas que estén hechas de láminas.
 
@@ -55,6 +55,8 @@ El valor límite de emisión total del cuadro que figura más abajo se refiere a
 | Recubrimiento de autobuses nuevos (>15). | ≤2000 >2000 | 210 150 | 290 225 |
 
 Las instalaciones de recubrimiento de vehículos que estén por debajo de los umbrales de consumo de disolventes indicados en el cuadro anterior deberán cumplir los requisitos del sector de renovación del acabado de vehículos mencionados en el presente anexo II.
+
+> Se modifica el apartado A) por la disposición final 2.3 del Real Decreto 815/2013, de 18 de octubre. Ref. BOE-A-2013-10949.
 
 > Se modifica por el art. 2.2 del Real Decreto 1436/2010, de 5 de noviembre. Ref. BOE-A-2010-17240.
 
