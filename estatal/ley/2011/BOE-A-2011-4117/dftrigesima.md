@@ -63,3 +63,7 @@ A los solos efectos de entender incluido en el importe de la materialización de
 En el caso de los establecimientos turísticos situados en un área cuya oferta turística se encuentre en declive, por precisar de intervenciones integradas de rehabilitación de áreas urbanas, según los términos en que se define en las directrices de ordenación general de Canarias, aprobadas por la Ley 19/2003, de 14 de abril, por la que se aprueban las Directrices de Ordenación General y las Directrices de Ordenación del Turismo de Canarias, con independencia del importe de las actuaciones.
 
 En el caso de los establecimientos turísticos situados fuera de las áreas cuya oferta turística se encuentre en declive, siempre que el coste de dichas actuaciones exceda del 25 por ciento del valor catastral del establecimiento, descontada la parte proporcional correspondiente al suelo.»
+
+> Esta disposición se declara inconstitucional y nula con el alcance establecido en el fundamento jurídico 7 por Sentencia del TC 164/2013, de 26 de septiembre. Ref. BOE-A-2013-11125.
+
+> Se declara la inconstitucionalidad y nulidad de la disposición, con el alcance establecido en el fundamento jurídico 7 por Sentencia del TC 164/2013, de 26 de septiembre. Ref. BOE-A-2013-11125.

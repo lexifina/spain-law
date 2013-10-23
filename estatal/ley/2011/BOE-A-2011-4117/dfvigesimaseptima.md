@@ -81,3 +81,7 @@ Nueve. Se modifica la letra c) del número 1 del artículo 59, que queda redacta
 «c) Conservar las facturas recibidas, los justificantes contables y las copias de las facturas expedidas, incluso por medios electrónicos, durante el plazo de prescripción del Impuesto.
 
 Cuando los documentos a que se refiere el párrafo anterior se refieran a adquisiciones por las cuales se haya soportado o satisfecho cuotas del Impuesto cuya deducción esté sometida a un período de regularización, deberán conservarse durante el período de regularización correspondiente a dichas cuotas y los cuatro años siguientes.»
+
+> Esta disposición se declara inconstitucional y nula con el alcance establecido en el fundamento jurídico 7 por Sentencia del TC 164/2013, de 26 de septiembre. Ref. BOE-A-2013-11125.
+
+> Se declara la inconstitucionalidad y nulidad de la disposición, con el alcance establecido en el fundamento jurídico 7 por Sentencia del TC 164/2013, de 26 de septiembre. Ref. BOE-A-2013-11125.

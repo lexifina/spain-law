@@ -21,3 +21,7 @@ Dos. Se modifica el número 2 del apartado Tres.uno del artículo 17.º, que que
 a) Los de transporte de pasajeros, cualquiera que sea su destinatario.
 
 b) Los de transporte de bienes cuando el destinatario no sea un empresario o profesional actuando como tal.»
+
+> Esta disposición se declara inconstitucional y nula con el alcance establecido en el fundamento jurídico 7 por Sentencia del TC 164/2013, de 26 de septiembre. Ref. BOE-A-2013-11125.
+
+> Se declara la inconstitucionalidad y nulidad de la disposición, con el alcance establecido en el fundamento jurídico 7 por Sentencia del TC 164/2013, de 26 de septiembre. Ref. BOE-A-2013-11125.
