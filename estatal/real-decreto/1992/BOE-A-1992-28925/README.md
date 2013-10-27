@@ -61,6 +61,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Título IV bis](tivbis.md)
 - [Artículo 24 bis](a24bis.md)
 - [Artículo 24 ter](a24ter.md)
+- [Artículo 24 quater](a24quater.md)
 - [Título V](tv.md)
 - [Artículo 25](a25.md)
 - [Título VI](tvi.md)

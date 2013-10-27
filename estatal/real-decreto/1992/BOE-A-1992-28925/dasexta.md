@@ -4,10 +4,12 @@
 
 a) Exigir el importe del Impuesto sobre el Valor Añadido que grava la citada operación al contribuyente de la tasa o al usuario o destinatario del servicio o actividad de que se trate.
 
-b) Expedir la factura o documento sustitutivo relativo a dicha operación a que se refiere el artículo 88 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, en nombre y por cuenta del sujeto pasivo. Esta obligación se cumplirá de acuerdo con lo establecido en el Reglamento por el que se regulan las obligaciones de facturación. No obstante, el Departamento de Gestión Tributaria de la Agencia Estatal de Administración Tributaria podrá autorizar fórmulas simplificadas para el cumplimiento de esta obligación.
+b) Expedir la factura relativo a dicha operación a que se refiere el artículo 88 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, en nombre y por cuenta del sujeto pasivo. Esta obligación se cumplirá de acuerdo con lo establecido en el Reglamento por el que se regulan las obligaciones de facturación. No obstante, el Departamento de Gestión Tributaria de la Agencia Estatal de Administración Tributaria podrá autorizar fórmulas simplificadas para el cumplimiento de esta obligación.
 
 c) Abonar al sujeto pasivo del Impuesto sobre el Valor Añadido el importe que haya percibido por aplicación de lo previsto en el párrafo a) anterior en la misma forma y plazos que los establecidos para el ingreso de la tasa o precio correspondiente.
 
 2. En los supuestos a los que se refiere el apartado anterior, los usuarios o destinatarios del servicio o actividad estarán obligados a soportar la traslación del Impuesto sobre el Valor Añadido correspondiente, en las condiciones establecidas en dicho apartado.
+
+> Se modifica el apartado 1.b) por el art. 1.27 del Real Decreto 828/2013, de 25 de octubre. Ref. BOE-A-2013-11216.
 
 > Se añade por el art. 2.23 del Real Decreto 1496/2003, de 28 de noviembre. Ref. BOE-A-2003-21845
