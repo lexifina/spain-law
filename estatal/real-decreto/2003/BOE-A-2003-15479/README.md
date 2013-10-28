@@ -8,23 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2013-10-28 by BOE-A-2013-10611. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no](no.md)
-- [preambulo](preambulo.md)
-- [Artículo único](aunico.md)
-- [Disposición transitoria única](dtunica.md)
-- [Disposición derogatoria única](ddunica.md)
-- [Disposición final primera](dfprimera.md)
-- [Disposición final segunda](dfsegunda.md)
-- [Disposición final tercera](dftercera.md)
-- [firma](firma.md)
-- [REGLAMENTACIÓN](reglamentacion.md)
-- [Parte 1](parte1.md)
-- [Parte 2](parte2.md)
-- [Parte 3](parte3.md)
-- [Parte 4](parte4.md)
-- [Parte 5](parte5.md)
-- [Parte 6](parte6.md)
-- [Parte 7](parte7.md)
-- [Parte 8](parte8.md)
+- [BOE publisher notice](no.md)
