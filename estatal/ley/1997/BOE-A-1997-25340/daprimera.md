@@ -10,4 +10,6 @@ b) La gestión irregular de la actividad cuando le sea imputable y pueda dar lug
 
 c) La grave y reiterada falta de mantenimiento adecuado de las instalaciones que ponga en peligro la seguridad de las mismas.
 
-2. En los supuestos anteriores, si las empresas que desarrollan actividades y funciones eléctricas lo hacen exclusivamente mediante instalaciones cuya autorización sea competencia de una Comunidad Autónoma, la intervención será acordada por ésta.
+2. En los supuestos anteriores, si las empresas que desarrollan actividades y funciones eléctricas lo hacen exclusivamente mediante instalaciones cuya autorización sea competencia de una Comunidad Autónoma, la intervención será acordada por ésta, salvo que esté en riesgo la seguridad de suministro, en cuyo caso será acordada por el Gobierno, quien lo comunicará a la Comunidad Autónoma.
+
+> Se modifica el apartado 2 por la disposición final 1.4 de la Ley 17/2013, de 29 de octubre. Ref. BOE-A-2013-11332.

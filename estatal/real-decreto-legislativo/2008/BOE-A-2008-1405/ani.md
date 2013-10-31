@@ -70,6 +70,8 @@ c. Dragados:
 
 d. Extracción de petróleo y gas natural con fines comerciales, cuando la cantidad extraída sea superior a 500 toneladas por día en el caso del petróleo y de 500.000 metros cúbicos por día en el caso del gas, por concesión.
 
+e. Los proyectos consistentes en la realización de perforaciones para la exploración, investigación o explotación de hidrocarburos que requieran la utilización de técnicas de fracturación hidráulica.
+
 Grupo 3. Industria energética.
 
 a. Refinerías de petróleo bruto (con la exclusión de las empresas que produzcan únicamente lubricantes a partir de petróleo bruto), así como las instalaciones de gasificación y de licuefacción de, al menos, 500 toneladas de carbón de esquistos bituminosos (o de pizarra bituminosa) al día.
@@ -271,5 +273,7 @@ f. Emplazamientos de almacenamiento de conformidad con la Ley 40/2010, de 29 de 
 g. Instalaciones para la captura de flujos de CO2 con fines de almacenamiento geológico de conformidad con la Ley 40/2010, de 29 de diciembre, de almacenamiento geológico de dióxido de carbono, procedente de instalaciones incluidas en este anexo, o cuando la captura total anual de CO2 sea igual o superior a 1,5 megatoneladas.
 
 Nota: el fraccionamiento de proyectos de igual naturaleza y realizados en el mismo espacio físico no impedirá la aplicación de los umbrales establecidos en este anexo, a cuyos efectos se acumularán las magnitudes o dimensiones de cada uno de los proyectos considerados.
+
+> Se añade el apartado e) al grupo 2 por la disposición final 3 de la Ley 17/2013, de 29 de octubre. Ref. BOE-A-2013-11332.
 
 > Se modifica el punto f. del grupo 3 y la letra b) del punto 7 del grupo 9 y se añaden las letras f. y g. al grupo 9, por la disposición final 2.1 a 3 de la Ley 40/2010, de 29 de diciembre. Ref. BOE-A-2010-20049.
