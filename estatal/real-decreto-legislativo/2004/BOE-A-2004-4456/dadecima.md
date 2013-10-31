@@ -26,6 +26,10 @@ El porcentaje de deducción que resulte se redondeará en la unidad inferior.
 
 5. El porcentaje de deducción establecido en el apartado 2 del artículo 38 de esta Ley será del 18 por ciento. Dicho porcentaje será del 5 por ciento para el coproductor financiero.
 
+> Téngase en cuenta que se deroga el apartado 5, con efectos para los periodos impositivos que se inicien a partir de 1 de enero de 2014, por la disposición derogatoria única.2.b) de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
+
+> Se deroga el apartado 5, con efectos para los periodos impositivos que se inicien a partir de 1 de enero de 2014, por la disposición derogatoria única.2.b) de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
+
 > Se deroga el apartado 3, con efectos para los periodos impositivos que se inicien a partir de 1 de enero de 2013, por la letra e) de la disposición derogatoria de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
 
 > Se modifica el apartado 1, con efectos para los períodos impositivos iniciados a partir de 6 de marzo de 2011, por el art. 92.2 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.

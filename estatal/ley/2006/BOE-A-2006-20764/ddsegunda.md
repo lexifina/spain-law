@@ -4,9 +4,19 @@
 
 2. Con efectos para los períodos impositivos que se inicien a partir de 1 de enero de 2011 quedan derogados los artículos 36, 37, apartados 4, 5 y 6 del artículo 38, apartados 2 y 3 del artículo 39, artículos 40 y 43 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.
 
-3. Con efectos para los períodos impositivos que se inicien a partir de 1 de enero de 2012 queda derogado el apartado 2 del artículo 38 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.
+3. (Derogado)
+
+> Téngase en cuenta que la derogación del apartado 3 produce efectos para los periodos impositivos que se inicien a partir de 1 de enero de 2014 según establece la disposición derogatoria única.2. de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
+
+> Redacción anterior:
+
+> 3. Con efectos para los períodos impositivos que se inicien a partir de 1 de enero de 2012 queda derogado el apartado 2 del artículo 38 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.
 
 4. Con efectos para los períodos impositivos que se inicien a partir de 1 de enero de 2014 quedan derogados el apartado 1 del artículo 34 y los apartados 1, 3 y 7 del artículo 38 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por Real Decreto Legislativo 4/2004, de 5 de marzo.
+
+> Se deroga el apartado 3, con efectos para los periodos impositivos que se inicien a partir de 1 de enero de 2014, por la disposición derogatoria única.2.a) de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
+
+> Téngase en cuenta que esta derogación produce efectos para los periodos impositivos que se inicien a partir de 1 de enero de 2014 según establece la disposición derogatoria única.2. de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
 
 > Se modifica el apartado 2 por el art. 92.4 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.
 
