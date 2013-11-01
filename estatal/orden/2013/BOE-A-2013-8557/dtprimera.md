@@ -1,3 +1,5 @@
 ## Disposición transitoria primera. Abono de incentivos al personal militar de complemento con compromiso de carácter temporal que actualmente presta servicio.
 
-El personal militar de complemento con compromiso de carácter temporal, que a la entrada en vigor de esta orden ministerial se encuentre prestando servicio en las Fuerzas Armadas, y no haya percibido el incentivo por cuatro años de servicio, al cumplir cinco años de servicio, calculados según lo dispuesto en los artículos 2 y 3, se le abonará, por una sola vez, un incentivo por años de servicio, por un importe igual a tres veces el sueldo mensual asignado al subgrupo de clasificación A2 del mes en el que cumpla las condiciones.
+(Anulada)
+
+> Se declara nula por el art. 1 de la Orden DEF/2011/2013, de 30 de octubre. Ref. BOE-A-2013-11458.
