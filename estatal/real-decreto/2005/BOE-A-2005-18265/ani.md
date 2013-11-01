@@ -1,13 +1,15 @@
 ## ANEXO I
 
-## Grupos/Subgrupos de clasificación por empleos militares
+## Subgrupos de clasificación de empleos militares
 
-| Grupos de empleos militares | Subgrupos de clasificación |
+| Empleos militares | Subgrupos de clasificación |
 | --- | --- |
-| De General de Ejército/Almirante General/General del Aire a Teniente/Alférez de navío | A1 |
-| De Alférez/Alférez de Fragata a Sargento | B2 |
-| De Cabo Mayor a Soldado/Marinero, con una relación de servicios de carácter permanente | C1 |
-| De Cabo Primero a Soldado/Marinero, con una relación de servicios de carácter temporal | C2 |
+| De general de ejército / almirante general / general del aire a teniente / alférez de navío | A 1 |
+| De alférez / alférez de fragata a sargento | A 2 |
+| De cabo mayor a soldado / marinero, con una relación de servicios de carácter permanente | C 1 |
+| De cabo primero a soldado / marinero, con una relación de servicios de carácter temporal | C 2 |
+
+> Se modifica por el art.1.8 del Real Decreto 843/2013, de 31 de octubre. Ref. BOE-A-2013-11462.
 
 > Se modifica por el art. 1.22 del Real Decreto 28/2009, de 16 de enero. Ref. BOE-A-2009-1020
 
