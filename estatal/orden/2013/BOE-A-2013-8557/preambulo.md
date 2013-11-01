@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 191, de 10 de agosto de 2013. Ref. BOE-A-2013-8878.
+Norma derogada, con efectos de 1 de noviembre de 2013, por la disposición derogatoria única.b) de la Orden DEF/2012/2013, de 30 de octubre. Ref. BOE-A-2013-11459#ddunica.
