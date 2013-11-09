@@ -46,34 +46,61 @@ Sí No
 
 En caso de respuesta negativa, especifíquese el nombre o designación comercial utilizado en los demás Estados miembros.
 
-| BÉLGICA |
-| --- |
-| BULGARIA |
-| REPÚBLICA CHECA |
-| DINAMARCA |
-| ALEMANIA |
-| ESTONIA |
-| GRECIA |
-| ESPAÑA |
-| FRANCIA |
-| IRLANDA |
-| ITALIA |
-| CHIPRE |
-| LETONIA |
-| LITUANIA |
-| LUXEMBURGO |
-| HUNGRÍA |
-| MALTA |
-| PAÍSES BAJOS |
-| AUSTRIA |
-| POLONIA |
-| PORTUGAL |
-| RUMANÍA |
-| ESLOVENIA |
-| ESLOVAQUIA |
-| FINLANDIA |
-| SUECIA |
-| REINO UNIDO |
+Bélgica
+
+Bulgaria
+
+República Checa
+
+Dinamarca
+
+Alemania
+
+Estonia
+
+Irlanda
+
+Grecia
+
+España
+
+Francia
+
+Croacia
+
+Italia
+
+Chipre
+
+Letonia
+
+Lituania
+
+Luxemburgo
+
+Hungría
+
+Malta
+
+Países Bajos
+
+Austria
+
+Polonia
+
+Portugal
+
+Rumanía
+
+Eslovenia
+
+Eslovaquia
+
+Finlandia
+
+Suecia
+
+Reino Unido
 
 6. Composición del preparado o preparados (tal y como se define en el apartado 2 del anexo VIII de este reglamento).
 
@@ -550,6 +577,8 @@ familia 016: compuestos de azufre
 nombre genérico: compuesto inorgánico de azufre
 
 (Los ejemplos citados son sustancias extraídas del anexo I del Reglamento de sustancias, para las que está justificado solicitar la preservación del carácter confidencial.)
+
+> Se modifica la lista de Estados del apartado A.5 por el art. único y anexo de la Orden PRE/2056/2013, de 7 de noviembre. Ref. BOE-A-2013-11690.
 
 > Se modifica la lista de Estados del apartado A.5 por el art. único y anexo de la Orden PRE/1648/2007, de 7 de junio. Ref. BOE-A-2007-11451
 
