@@ -1,0 +1,3 @@
+## Disposición adicional primera. Campañas de información.
+
+La Agencia Española de Medicamentos y Productos Sanitarios, en coordinación con las comunidades autónomas, desarrollará campañas de información destinadas al público en general sobre los peligros de los medicamentos falsificados. Estas campañas irán orientadas a aumentar el grado de concienciación de los consumidores sobre los riesgos ligados a los medicamentos dispensados ilegalmente al público a distancia mediante cualquier tipo de servicio de la sociedad de la información y el funcionamiento del logotipo común, los sitios web de las autoridades competentes en España y los Estados miembros así como del sitio web de la Agencia Europea de Medicamentos.
