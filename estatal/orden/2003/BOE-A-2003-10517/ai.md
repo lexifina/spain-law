@@ -3712,6 +3712,32 @@ Datos económicos: Nómina, rentas de la unidad familiar.
 
 8. Medidas de Seguridad: Nivel alto.
 
+FICHERO 133
+
+Nombre del fichero: Portal de anuncios de subastas judiciales y portal de subastas electrónicas del Ministerio de Justicia utilizado en la Comunidad Autónoma de la Región de Murcia.
+
+1. Finalidad y usos previstos: Publicidad de las subastas a celebrar en la Administración de Justicia de conformidad con el último inciso del artículo 668 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, así como celebración electrónica de las mismas sólo con relación al territorio de la Comunidad Autónoma de la Región de Murcia, único lugar donde actualmente pueden celebrarse subastas de forma electrónica.
+
+2. Personas y colectivos afectados: Ciudadanos titulares de bienes embargados o en ejecución pendientes de subasta judicial. Usuarios de los sistemas y servicios gestionados por la Subdirección General de Nuevas Tecnologías de la Justicia.
+
+3. Procedimiento de recogida de los datos: Suministro de información derivada de procedimientos judiciales de ejecución y de otros en los que se acuerde la venta de un bien en pública subasta.
+
+4. Estructura básica del fichero:
+
+• Sistema de información: tratamiento automatizado.
+
+• Datos de carácter identificativo: Nombre y apellidos de los intervinientes, Documento nacional de identidad, domicilio, teléfono y correo electrónico. Datos de identificación de las fincas o de los bienes muebles, datos registrales, existencia de cargas, referencia catastral, situación posesoria, tasación de los bienes.
+
+5. Cesión de datos que se prevé: Se prevé cesión de datos al «BOE» y a otros boletines oficiales.
+
+6. Órgano administrativo responsable: Secretaría General de la Administración de Justicia, calle San Bernardo, 21, 28015 Madrid.
+
+7. Órgano ante el que pueden ejercitarse los derechos de acceso, rectificación, cancelación y oposición, cuando proceda: Secretaría General de la Administración de Justicia, calle San Bernardo, 21, 28015 Madrid.
+
+8. Medidas de seguridad: Nivel básico.
+
+> Se añade el fichero 133 por el art. único y el anexo I de la Orden JUS/2155/2013, de 6 de noviembre. Ref. BOE-A-2013-12117
+
 > Se modifica el fichero 128 por el art. único y el anexo I de la Orden JUS/597/2013, de 3 de abril. Ref. BOE-A-2013-3982
 
 > Se modifican determinados ficheros, se renumeran el 118 y 119 como 122 y 123 y se añaden del 124 al 132 por los arts. 1 y 2 y los anexos I y II de la Orden JUS/257/2013, de 14 de febrero. Ref. BOE-A-2013-1804
