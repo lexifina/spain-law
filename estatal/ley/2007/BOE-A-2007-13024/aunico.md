@@ -52,6 +52,8 @@ Doce. Se añade un punto h) al apartado 3 del artículo 3:
 
 «h) Con independencia de las competencias de la Administración General del Estado, el fomento de las energías renovables de régimen especial y de la eficiencia energética en el territorio de su Comunidad.»
 
+> Téngase en cuenta la inconstitucionalidad y nulidad del apartado 9, que da redacción al art. 3.3.c) de la Ley 54/1997, de 27 de noviembre, Ref. BOE-A-1997-25340#a3, por Sentencia del TC 181/2013, de 23 de octubre. Ref. BOE-A-2013-12187. y sobre nulidad del apartado 3 de la citada Ley, la Sentencia del TC 18/2011, de 3 de marzo. Ref. BOE-A-2011-5704.
+
 Trece. Se añade el apartado 5 del artículo 3, con la siguiente redacción:
 
 «5. Sin perjuicio de las competencias atribuidas a los diferentes órganos de Defensa de la Competencia, la Comisión Nacional de Energía, además de las funciones que se le atribuyen en el apartado 3 de la disposición adicional undécima de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, y con objeto de garantizar la ausencia de discriminación, una auténtica competencia y un funcionamiento eficaz del mercado, supervisará:
@@ -931,3 +933,7 @@ En función de la conformación del mercado ibérico de la electricidad y hasta 
 Su cuantía será establecida por el Gobierno con carácter anual.
 
 Asimismo, los precios a los que se refiere el artículo 16.9 podrán ser fijados transitoriamente por el Gobierno.»
+
+> Se declara la inconstitucionalidad y nulidad del apartado 9, que da redacción al art. 3.3.c) de la Ley 54/1997, de 27 de noviembre, Ref. BOE-A-1997-25340#a3, por Sentencia del TC 181/2013, de 23 de octubre. Ref. BOE-A-2013-12187.
+
+> Véase, sobre nulidad del apartado 3 de la citada Ley, la Sentencia del TC 18/2011, de 3 de marzo. Ref. BOE-A-2011-5704.
