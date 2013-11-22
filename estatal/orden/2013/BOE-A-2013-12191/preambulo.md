@@ -1,0 +1,41 @@
+La disposición final quinta. 20 de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado, introduce un tercer párrafo a la disposición adicional novena de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, por el cual se impone a las sociedades mercantiles y a los consorcios referidos en los dos párrafos anteriores de la citada disposición adicional tienen la obligación de rendir sus cuentas anuales al Tribunal de Cuentas, por conducto de la IGAE, cuando la participación del sector público estatal sea igual o superior al de cada una de las restantes Administraciones Públicas, sin perjuicio de lo establecido en la normativa propia de cada Comunidad Autónoma.
+
+El procedimiento de rendición de cuentas será el previsto en la Ley General Presupuestaria, regulado en el título V, capítulos III y IV.
+
+En dicho texto se pueden distinguir cuatro actuaciones claramente diferenciadas, siendo éstas, la formulación de las cuentas anuales, la emisión, en su caso, del informe de auditoría, la aprobación de las cuentas anuales y su remisión a la IGAE, por parte de los cuentadantes, de la información a rendir al Tribunal de Cuentas y finalmente su envío desde la IGAE al Tribunal de Cuentas.
+
+En relación con la forma en que se ha de realizar ese envío, la Ley General Presupuestaria no preceptúa ni el soporte a utilizar ni el procedimiento a seguir, incluyendo solamente en su artículo 124.b) una habilitación a favor del Ministro de Hacienda y Administraciones Públicas, a propuesta de la IGAE, en orden a establecer los procedimientos de remisión por medios electrónicos, informáticos o telemáticos de las cuentas anuales que deban rendirse al Tribunal de Cuentas.
+
+En este sentido se elaboró la Orden EHA/2043/2010, de 22 de julio, por la que se regula un nuevo procedimiento en el cual la remisión de esta información se realiza a través de los medios informáticos y telemáticos habilitados al efecto por la IGAE, siendo el ámbito de aplicación de la citada Orden las entidades comprendidas en los artículos 3.2 y 3.3 de la Ley General Presupuestaria. Los ficheros informáticos que contienen las cuentas anuales de cada entidad se refieren a los modelos incluidos en la normativa contable vigente en la actualidad.
+
+Debido a la modificación normativa experimentada recientemente, tal y como se ha indicado con anterioridad, se hace necesario regular el procedimiento de remisión de la información por medios informáticos y telemáticos de las sociedades mercantiles y consorcios referenciados en el tercer párrafo de la disposición adicional novena, considerándose necesario homogeneizar ese proceso de remisión de la información, valorando las peculiaridades que pueden presentarse, de todas las entidades, con independencia de su naturaleza jurídica, que tengan la obligación legal de rendir cuentas. Inicialmente, se va a regular este procedimiento de rendición y remisión de información por medios informáticos y telemáticos para aquellas entidades sometidas al Plan General de Contabilidad de la empresa española, dejando para una regulación futura los consorcios que estén sometidos a los principios y normas del Plan General de Contabilidad Pública, que mientras tanto efectuarán la rendición de cuentas en soporte papel.
+
+Con el objeto de cumplir con ese objetivo de homogeneización se ha desarrollado la presente Orden.
+
+En el artículo 1 de esta Orden se delimita el ámbito de aplicación de la misma.
+
+En el punto 1 del artículo 2 se regula la puesta a disposición de las cuentas anuales que deban ser auditadas por la IGAE, e igualmente la emisión del informe de auditoría por los medios informáticos o telemáticos habilitados al efecto por la IGAE.
+
+En el punto 2 del artículo 2 se regula el procedimiento de remisión a la IGAE de las cuentas anuales aprobadas y demás información a rendir al Tribunal de Cuentas utilizando al efecto los medios informáticos o telemáticos habilitados por la IGAE, así como su puesta a disposición del Tribunal de Cuentas a través de los medios o el soporte que convengan entre ambas partes.
+
+En el punto 3 del artículo 2 se establece el procedimiento de validación de las cuentas anuales a remitir a la IGAE, facilitando los medios informáticos necesarios para verificar que dichas cuentas anuales estén libres de defectos formales o incoherencias internas que pudieran imposibilitar la agregación o consolidación de las mismas en la Cuenta General del Estado.
+
+En el artículo 3 se regula la cumplimentación y remisión a la IGAE de la información de carácter anual, trimestral y mensual normalizada que deben remitir las entidades incluidas en el ámbito de aplicación de esta Orden. La finalidad de dicha información es elaborar y publicar datos mensuales del conjunto de la Administración Central, definida en términos de contabilidad nacional (Directiva 2011/85/UE del Consejo); la elaboración de las cuentas económicas del sector público, de acuerdo con el Sistema Europeo de Cuentas Nacionales y Regionales y la realización de distintos informes económico-financieros del sector público empresarial. En el artículo 4 se regulan los medios informáticos o telemáticos habilitados al efecto por la IGAE para la remisión de la información prevista en esta Orden.
+
+En la disposición transitoria primera se establece la obligatoriedad para las entidades reguladas en el tercer párrafo de la disposición adicional novena de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, de remitir las cuentas anuales y demás información a rendir al Tribunal de Cuentas en papel en el ejercicio 2012, y en la disposición transitoria segunda se establece para los consorcios que apliquen los principios y normas del Plan General de Contabilidad Pública la obligación de remitir sus cuentas anuales y demás información a rendir al Tribunal de Cuentas en papel hasta que se realice la regulación para su remisión por medios informáticos y telemático.
+
+En la disposición final primera se realizan diferentes modificaciones de la Orden EHA/2043/2010, de 22 de julio, por la que se regula el procedimiento de remisión de las cuentas anuales y demás información que las entidades del sector público empresarial y fundacional del Estado han de rendir al Tribunal de Cuentas, y de la información de carácter anual y trimestral a remitir a la Intervención General de la Administración del Estado. Entre las citadas modificaciones hay que señalar:
+
+Se amplía el ámbito de aplicación a todas las entidades del sector público estatal que apliquen el Plan General de Contabilidad de la empresa española y sus adaptaciones y a las entidades que han dejado de formar parte del sector público empresarial y fundacional estatal durante el ejercicio en el que deban rendir cuentas. Se introduce el procedimiento informático o telemático de remisión a la IGAE de la documentación exigida por la Ley General Presupuestaria por parte de los cuentadantes de las entidades que han dejado de formar parte del sector público estatal.
+
+Se indica que las especificaciones técnicas figuran en la oficina virtual del Portal de la IGAE, en lugar de figurar como anexos en la propia Orden.
+
+Se incorpora la obligatoriedad de remisión a la IGAE de información mensual, conjuntamente con la anual y trimestral, que tiene por finalidad elaborar y publicar datos mensuales del conjunto de la Administración Central, definida en términos de Contabilidad Nacional, de conformidad con lo establecido en la Directiva 2011/85/UE del Consejo.
+
+En la disposición final segunda se establece que entrará en vigor al día siguiente al de su publicación en el «Boletín Oficial del Estado», siendo aplicable a las cuentas anuales del ejercicio 2013 y siguientes.
+
+La Orden se completará con los anexos del I al X publicados directamente en la oficina virtual del Portal de la IGAE (http://www.pap.minhap.gob.es/).
+
+La aprobación de esta Orden Ministerial se realiza a propuesta de la IGAE, de acuerdo con las competencias que a dicho centro directivo le otorga el artículo 125.1.a) de la Ley General Presupuestaria, y en uso de las facultades que el artículo 124.b) de dicha Ley otorga al Ministro de Hacienda (actual Ministro de Hacienda y Administraciones Públicas).
+
+En su virtud, dispongo:
