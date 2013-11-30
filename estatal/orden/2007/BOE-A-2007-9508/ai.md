@@ -1,24 +1,46 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/112/09508_5830475_image2.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/112/09508_5830475_image3.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_006.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/280/09508_5830475_image4.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/112/09508_5830475_image5.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_008.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/112/09508_5830475_image6.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_009.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/112/09508_5830475_image7.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_010.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/112/09508_5830475_image8.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/280/09508_5830475_image9.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/112/09508_5830475_image10.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_013.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/112/09508_5830475_image11.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_014.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_015.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_016.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_017.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_018.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_019.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_020.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_021.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_022.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_023.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/286/12489_024.png)
+
+> Se sustituye por el art. 2.2 de la Orden HAP/2215/2013, de 26 de noviembre. Ref. BOE-A-2013-12489
 
 > Se modifica por la disposición final 1 de la Orden EHA/3111/2009, de 5 de noviembre. Ref. BOE-A-2009-18472#dfprimera
 

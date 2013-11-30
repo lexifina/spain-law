@@ -10,9 +10,13 @@
 | 206 | Devolución Impuesto Renta no Residentes (establecimiento permanente) | 0A |
 | 303 | Devolución IVA. Autoliquidación | 4T |
 | 308 | Devolución IVA Régimen especial recargo de equivalencia, art. 30 bis RIVA y sujetos pasivos ocasionales | M-T-0A |
-| 311 | Devolución IVA régimen simplificado. Declaración final | 4T |
-| 371 | Devolución IVA régimen general y simplificado. Declaración final | 4T |
+| 311 | (Suprimido) |  |
+| 371 | (Suprimido) |  |
 | 695 | Tasa por el ejercicio de la potestad jurisdiccional en los órdenes civil, contencioso-administrativo y social. Solicitud de devolución por solución extrajudicial del litigio y por acumulación de procesos. | 0A |
+
+> Se suprimen los modelos 311 y 371 por la disposición final 1 de la Orden HAP/2215/2013, de 26 de noviembre. Ref. BOE-A-2013-12489.
+
+> Esta modificación es aplicable a las operaciones realizadas a partir del 1 de enero de 2014, según establece la disposición final 3.
 
 > Se suprime el modelo 582 por la disposición final 1 de la Orden HAP/290/2013, de 19 de febrero. Ref. BOE-A-2013-2084.
 

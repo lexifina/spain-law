@@ -28,11 +28,11 @@
 | 222 | Pago fraccionado. Régimen de consolidación fiscal. |
 | 230 | Impuesto sobre la Renta de las Personas Físicas e Impuesto sobre la Renta de no Residentes: Retenciones e ingresos a cuenta del Gravamen Especial sobre los premios de determinadas loterías y apuestas; Impuesto sobre Sociedades: Retenciones e ingresos a cuenta sobre los premios de determinadas loterías y apuestas. Autoliquidación. Período de ingreso: M. |
 | 303 | Impuesto sobre el Valor Añadido. Autoliquidación. |
-| 310 | Impuesto sobre el Valor Añadido. Régimen simplificado. Declaración ordinaria. |
-| 311 | Impuesto sobre el Valor Añadido. Régimen simplificado. Declaración final. |
+| 310 | (Suprimido) |
+| 311 | (Suprimido) |
 | 353 | Impuesto sobre el Valor Añadido. Grupo de entidades. Modelo agregado. Autoliquidación mensual. |
-| 370 | Impuesto sobre el Valor Añadido. Régimen general y simplificado. Declaración trimestral ordinaria. |
-| 371 | Impuesto sobre el Valor Añadido. Régimen general y simplificado. Declaración trimestral final. |
+| 370 | (Suprimido) |
+| 371 | (Suprimido) |
 | 430 | Declaración-liquidación Impuesto sobre las Primas de seguros. |
 | 560 | Impuesto sobre la Electricidad. Declaración-liquidación. |
 | 561 | Impuesto sobre la Cerveza. Declaración-liquidación. |
@@ -49,6 +49,10 @@
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
+
+> Se suprimen los modelos 310, 311, 370 y 371 por la disposición final 2.1 de la Orden HAP/2215/2013, de 26 de noviembre. Ref. BOE-A-2013-12489.
+
+> Esta modificación es aplicable a las operaciones realizadas a partir del 1 de enero de 2014, según establece la disposición final 3.
 
 > Se añade el modelo 583 por la disposición final 3.1 de la Orden HAP/703/2013, de 29 de abril. Ref. BOE-A-2013-4538.
 

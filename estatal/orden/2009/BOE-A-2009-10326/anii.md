@@ -28,11 +28,11 @@
 | 222 | Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre. |
 | 230 | Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
 | 303 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre, y desde el día 1 hasta el 25 del mes de enero. |
-| 310 | Desde el día 1 hasta el 15 de los meses de abril, julio y octubre. |
-| 311 | Desde el día 1 hasta el 25 del mes de enero. |
+| 310 | (Suprimido) |
+| 311 | (Suprimido) |
 | 353 | Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre y diciembre, y desde el día 1 hasta el 25 del mes de enero. |
-| 370 | Desde el día 1 hasta el 15 de los meses de abril, julio y octubre. |
-| 371 | Desde el día 1 hasta el 25 del mes de enero. |
+| 370 | (Suprimido) |
+| 371 | (Suprimido) |
 | 430 | Desde el día 1 hasta el 15 del mes siguiente a la finalización del correspondiente periodo de liquidación mensual, excepto la correspondiente al mes de julio, que se presentará durante el mes de agosto y los primeros quince días naturales del mes de septiembre. |
 | 560 | Obligación trimestral de presentación: Desde el día 1 al 15 del mes siguiente a aquél en finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del mes siguiente a aquél en finaliza el mes en que se han producido los devengos. |
 | 561 | Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
@@ -47,6 +47,10 @@
 | 714 | Desde el día 3 de mayo hasta el 27 de junio. |
 
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
+
+> Se suprimen los modelos 310, 311, 370 y 371 por la disposición final 2.2 de la Orden HAP/2215/2013, de 26 de noviembre. Ref. BOE-A-2013-12489.
+
+> Esta modificación es aplicable a las operaciones realizadas a partir del 1 de enero de 2014, según establece la disposición final 3.
 
 > Se añade el modelo 583 por la disposición final 3.2 de la Orden HAP/703/2013, de 29 de abril. Ref. BOE-A-2013-4538.
 

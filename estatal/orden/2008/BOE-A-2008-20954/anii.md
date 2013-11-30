@@ -98,12 +98,8 @@ Todos los campos tendrán contenido, a no ser que se especifique lo contrario en
 | 123-135 | Numérico. | NÚMERO IDENTIFICATIVO DE LA DECLARACIÓN ANTERIOR. |
 |  |  | En el caso de que se haya consignado una «C» en el campo «Declaración complementaria» o que se haya consignado «S» en el campo «Declaración sustitutiva», se consignará el número identificativo correspondiente a la declaración a la que sustituye o complementa. |
 |  |  | En cualquier otro caso deberá rellenarse a CEROS. |
-| 136-137 | Alfanumérico. | PERIODO. |
-|  |  | Alfanumérico de 2 posiciones. Se hará constar el periodo al que corresponda la declaración. Se consignará el que corresponda, según la siguiente relación de claves: |
-|  |  | «1T»: Primer trimestre. |
-|  |  | «2T»: Segundo trimestre. |
-|  |  | «3T»: Tercer trimestre. |
-|  |  | «4T»: Cuarto trimestre. |
+| 136-137 | Numérico. | PERIODO. |
+|  |  | Numérico de dos posiciones. Se hará constar el periodo al que corresponda la declaración. Se consignará el que corresponda según la siguiente relación de claves: |
 |  |  | «01»: ENERO. |
 |  |  | «02»: FEBRERO. |
 |  |  | «03»: MARZO. |
@@ -227,6 +223,7 @@ TIPO DE REGISTRO 2: REGISTRO DE DETALLE (POSICIONES, NATURALEZA Y DESCRIPCIÓN D
 |  |  | Austria. | AT | 9 caracteres alfanuméricos. |
 |  |  | Bélgica. | BE | 9 o 10 caracteres numéricos. |
 |  |  | Bulgaria. | BG | 9 o 10 caracteres numéricos. |
+|  |  | Croacia | HR | 11 caracteres numéricos. |
 |  |  | Chipre. | CY | 9 caracteres numéricos. |
 |  |  | Chequia. | CZ | 8, 9 o 10 caracteres numéricos. |
 |  |  | Dinamarca. | DK | 8 caracteres numéricos. |
@@ -238,7 +235,7 @@ TIPO DE REGISTRO 2: REGISTRO DE DETALLE (POSICIONES, NATURALEZA Y DESCRIPCIÓN D
 |  |  | Holanda. | NL | 12 caracteres alfanuméricos. |
 |  |  | Hungría. | HU | 8 caracteres numéricos. |
 |  |  | Italia. | IT | 11 caracteres numéricos. |
-|  |  | Irlanda. | IE | 8 caracteres alfanuméricos. |
+|  |  | Irlanda. | IE | 8 ó 9 caracteres alfanuméricos. |
 |  |  | Lituania. | LT | 9 o 12 caracteres numéricos. |
 |  |  | Luxemburgo. | LU | 8 caracteres numéricos. |
 |  |  | Letonia. | LV | 11 caracteres numéricos. |
@@ -257,7 +254,7 @@ TIPO DE REGISTRO 2: REGISTRO DE DETALLE (POSICIONES, NATURALEZA Y DESCRIPCIÓN D
 |  |  | F Libro registro de facturas expedidas IGIC. |
 |  |  | J. Libro de registro de bienes de inversión IGIC. |
 |  |  | S. Libro de registro de facturas recibidas IGIC. |
-| 100 | Alfabético. | CLAVE DE OPERACIÓN. |
+| 100 | Alfanumérico | CLAVE DE OPERACIÓN. |
 |  |  | La clave que corresponda: |
 |  |  | A Asiento resumen de facturas. |
 |  |  | B Asiento resumen de tique. |
@@ -289,6 +286,16 @@ TIPO DE REGISTRO 2: REGISTRO DE DETALLE (POSICIONES, NATURALEZA Y DESCRIPCIÓN D
 |  |  | V–Compras de agencias viajes: operaciones de prestación de servicios de mediación en nombre y por cuenta ajena relativos a los servicios de transporte de viajeros y de sus equipajes que las agencias de viajes presten al destinatario de dichos servicios de transporte, de acuerdo con lo dispuesto en el apartado 3 de la disposición adicional cuarta del Reglamento por el que se regulan las obligaciones de facturación. |
 |  |  | W–Operaciones sujetas al Impuesto sobre la Producción, los Servicios y la Importación en las Ciudades de Ceuta y Melilla. |
 |  |  | X–Operaciones por las que los empresarios o profesionales que satisfagan compensaciones agrícolas, ganaderas y/o pesqueras hayan expedido el recibo correspondiente. |
+|  |  | Z: Régimen especial del criterio de caja. |
+|  |  | Claves numéricas de carácter voluntario: |
+|  |  | 1: IVA criterio de caja. Asiento resumen de facturas. |
+|  |  | 2: IVA criterio de caja. Factura con varios asientos (varios tipos impositivos). |
+|  |  | 3: IVA criterio de caja. Factura rectificativa. |
+|  |  | 4: IVA criterio de caja. Adquisiciones realizadas por las agencias de viajes directamente en interés del viajero (Régimen especial de agencia de viajes). |
+|  |  | 5: IVA criterio de caja. Factura simplificada. |
+|  |  | 6: IVA criterio de caja. Rectificación de errores registrales. |
+|  |  | 7: IVA criterio de caja. Facturación de las prestaciones de servicios de agencias de viaje que actúan como mediadoras en nombre y por cuenta ajena. (Disposición adicional 4.ª RD 1496/2003). |
+|  |  | 8: IVA criterio de caja. Operación de arrendamiento de local de negocio. |
 | 101-108 | Numérico. | FECHA DE LA EXPEDICIÓN. |
 |  |  | Se consignará la fecha de la expedición de la factura, indicando los cuatro dígitos del año, los dos del mes (de 01 a 12) y los dos del día (de 01 a 31) con el formato AAAAMMDD. |
 | 109-116 | Numérico. | FECHA DE LA OPERACIÓN. |
@@ -322,8 +329,11 @@ TIPO DE REGISTRO 2: REGISTRO DE DETALLE (POSICIONES, NATURALEZA Y DESCRIPCIÓN D
 |  |  | Se consignará la identificación de las facturas o documentos sustitutivos expedidos, incluyendo la serie en su caso. |
 | 218-235 | Alfanumérico. | NÚMERO DE REGISTRO. |
 |  |  | Se consignará el número correlativo que corresponda al asiento en el correspondiente libro registro de IVA o IGIC. |
-| LIBRO REGISTRO DE FACTURAS EXPEDIDAS |
+
+LIBRO REGISTRO DE FACTURAS EXPEDIDAS
+
 | POSICIÓN | NATURALEZA | DESCRIPCIÓN DE LOS CAMPOS |
+| --- | --- | --- |
 | 236-243 | Numérico. | NÚMERO DE FACTURAS. |
 |  |  | Número de facturas o tiques acumulados que corresponden al registro. La acumulación se realizará por cada intervalo continuo de emisión de los mismos (correlativos), y en los supuestos de operaciones distintas a las de la clave A o B (asiento resumen), se consignará uno. |
 | 244-245 | Numérico. | NÚMERO DE REGISTROS (DESGLOSE). |
@@ -358,7 +368,19 @@ TIPO DE REGISTRO 2: REGISTRO DE DETALLE (POSICIONES, NATURALEZA Y DESCRIPCIÓN D
 |  |  | Se consignará, sin signo y sin coma decimal, separadamente de otras operaciones, las cantidades que se perciban en contraprestación por transmisiones de inmuebles, efectuadas o que se deban efectuar, que constituyan entregas sujetas en el Impuesto sobre el Valor añadido (IVA incluido). Los importes deben consignarse en euros. Este campo se subdivide en dos: |
 |  |  | 430-442 Parte entera del importe percibido por transmisiones de inmuebles sujetas a IVA, si no tiene contenido se consignará a ceros. |
 |  |  | 443-444 Parte decimal del importe percibido por transmisiones de inmuebles sujetas a IVA, si no tiene contenido se consignará a ceros. |
-| 445-500 |  | BLANCOS. |
+| 445-452 | Numérico. | FECHA DE COBRO. |
+|  |  | Cuando se consigne la clave "Zˮ o cualquiera de las claves numéricas del campo "CLAVE DE OPERACIÓNˮ, posición 100 de los diseños lógicos del tipo de registro 2, se hará constar la fecha en la que se hubiera producido el devengo conforme al criterio de devengo del Régimen especial del criterio de caja. Este campo se subdivide en otros tres: |
+|  |  | 445-448 Numérico AÑO |
+|  |  | 449-450 Numérico MES |
+|  |  | 451-452 Numérico DÍA |
+| 453-465 | Numérico. | IMPORTES COBRADOS. |
+|  |  | Se consignarán sin coma decimal los importes devengados correspondientes a facturas expedidas cuando se consigne la clave "Zˮ o cualquiera de las claves numéricas del campo "CLAVE DE OPERACIÓNˮ, posición 100 de los diseños lógicos del tipo de registro 2. Los importes deben consignarse en euros. Este campo se subdivide en dos: |
+|  |  | 453-463 Numérico. Parte entera del importe cobrado, si no tiene contenido se consignará a ceros. |
+|  |  | 464-465 Numérico. Parte decimal del importe cobrado, si no tiene contenido se consignará a ceros. |
+| 466 | Alfabético. | MEDIO DE COBRO UTILIZADO. |
+|  |  | Cuando se consigne la clave "Zˮ o cualquiera de las claves numéricas del campo "CLAVE DE OPERACIÓNˮ, posición 100 de los diseños lógicos del tipo de registro 2, se hará constar en este campo una de las siguientes claves identificativas del medio de cobro utilizado: "Cˮ – Cuenta bancaria. "Tˮ – Cheque. "Oˮ – Otros medios de cobro. Este campo no se cumplimentará cuando no se hubiera producido ningún cobro. |
+| 467-500 | Alfanumérico. | CUENTA BANCARIA O MEDIO DE COBRO UTILIZADO. |
+|  |  | Cuando se consigne la clave "Zˮ o cualquiera de las claves numéricas del campo "CLAVE DE OPERACIÓNˮ, posición 100 de los diseños lógicos del tipo de registro 2, se hará constar en este campo el medio de cobro parcial o total de la operación, ya bien sea el número de cuenta bancaria o el número de cheque a través del cual se hubiera realizado el cobro si se consignó la clave "Cˮ o la clave "Tˮ respectivamente en el campo "MEDIO DE COBRO UTILIZADOˮ (posición 466). Del mismo modo se cumplimentará la descripción o identificación de cualquier otro medio utilizado que pueda acreditar el cobro si se consignó la clave "Oˮ del campo anterior. Este campo no se cumplimentará cuando no se hubiera producido ningún cobro. |
 
 LIBRO REGISTRO DE FACTURAS RECIBIDAS
 
@@ -379,7 +401,19 @@ LIBRO REGISTRO DE FACTURAS RECIBIDAS
 |  |  | 337-349 IMPORTE: Campo numérico de 13 posiciones. Se consignará (sin coma decimal ni puntuación de miles) el importe descrito anteriormente. Este campo se subdivide en dos: |
 |  |  | 337-347 Parte entera de la Cuota Soportada del Impuesto. |
 |  |  | 348-349 Parte decimal de la Cuota Soportada del Impuesto. |
-| 350-500 |  | BLANCOS. |
+| 350-357 | Numérico. | FECHA DE PAGO. |
+|  |  | Cuando se consigne la clave "Z" o cualquiera de las claves numéricas del campo "CLAVE DE OPERACIÓNˮ, posición 100 de los diseños lógicos del tipo de registro 2, se hará constar la fecha en la que se hubiera producido el devengo conforme al criterio de devengo del Régimen especial del criterio de caja. Este campo se subdivide en otros tres: |
+|  |  | 350-353 Numérico AÑO |
+|  |  | 354-355 Numérico MES |
+|  |  | 356-357 Numérico DÍA |
+| 358-370 | Numérico. | IMPORTES PAGADOS. |
+|  |  | Se consignarán sin coma decimal los importes devengados correspondientes a facturas recibidas cuando se consigne la clave "Zˮ o cualquiera de las claves numéricas del campo "CLAVE DE OPERACIÓNˮ, posición 100 de los diseños lógicos del tipo de registro 2. Los importes deben consignarse en euros. Este campo se subdivide en dos: |
+|  |  | 358-368 Numérico. Parte entera del importe pagado, si no tiene contenido se consignará a ceros. |
+|  |  | 369-370 Numérico. Parte decimal del importe pagado, si no tiene contenido se consignará a ceros. |
+| 371 | Alfabético. | MEDIO DE PAGO UTILIZADO. |
+|  |  | Cuando se consigne la clave "Zˮ o cualquiera de las claves numéricas del campo "CLAVE DE OPERACIÓNˮ, posición 100 de los diseños lógicos del tipo de registro 2, se hará constar en este campo una de las siguientes claves identificativas del medio de pago utilizado: "Cˮ – Cuenta bancaria. "Tˮ – Cheque. "Oˮ – Otros medios de pago. Este campo no se cumplimentará cuando no se hubiera producido ningún pago. |
+| 372-405 | Alfanumérico. | CUENTA BANCARIA O MEDIO DE PAGO UTILIZADO. |
+|  |  | Cuando se consigne la clave "Zˮ o cualquiera de las claves numéricas del campo "CLAVE DE OPERACIÓNˮ, posición 100 de los diseños lógicos del tipo de registro 2, se hará constar en este campo el medio de pago parcial o total de la operación, ya bien sea el número de cuenta bancaria o el número de cheque a través del cual se hubiera realizado el cobro si se consignó la clave "Cˮ o la clave "Tˮ respectivamente en el campo "MEDIO DE PAGO UTILIZADO" (posición 371). Del mismo modo se cumplimentará la descripción o identificación de cualquier otro medio utilizado que pueda acreditar el pago si se consignó la clave "Oˮ del campo anterior. Este campo no se cumplimentará cuando no se hubiera producido ningún pago. |
 
 LIBRO REGISTRO DE BIENES DE INVERSIÓN
 
@@ -444,5 +478,7 @@ LIBRO REGISTRO DE DETERMINADAS OPERACIONES INTRACOMUNITARIAS
 * Todos los campos numéricos ajustados a la derecha y rellenos a ceros por la izquierda
 
 * Todos los campos alfanuméricos/alfabéticos ajustados a la izquierda y rellenos de blancos por la derecha, en mayúsculas, sin caracteres especiales y sin vocales acentuadas, excepto que se especifique lo contrario en la descripción del campo.
+
+> Se modifica por el art. 3.2 y 3 de la Orden HAP/2215/2013, de 26 de noviembre. Ref. BOE-A-2013-12489.
 
 > Se modifica por el art. 2.2 a 4 de la Orden EHA/3378/2011, de 1 de diciembre. Ref. BOE-A-2011-19397.

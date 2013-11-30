@@ -29,10 +29,10 @@
 | 250 | GRAVAMEN ESPECIAL SOBRE DIVIDENDOS Y RENTAS DE FUENTE EXTRANJERA DERIVADAS DE LA TRANSMISIÓN DE VALORES REPRESENTATIVOS DE LOS FONDOS PROPIOS DE ENTIDADES NO RESIDENTES EN TERRITORIO ESPAÑOL. | OA |
 | 303 | IMPUESTO SOBRE EL VALOR AÑADIDO. AUTOLIQUIDACIÓN. | M-T |
 | 309 | IVA DECL. LIQUID. NO PERIÓDICA | 1T,2T,3T,4T y 0A |
-| 310 | I.V.A. REG. SIMPLIFICADO | 1T,2T,3T |
-| 311 | IVA REG. SIMPLIFICADO. DECLA.-LIQUIDACIÓN FINAL | 4T |
-| 370 | IVA REG. GENERAL Y SIMPLIFICADO. DECLARACIÓN TRIMESTRAL ORDINARIA | 1T,2T,3T |
-| 371 | IVA REG. GENERAL Y SIMPLIFICADO. DECLARACIÓN FINAL | 4T |
+| 310 | (Suprimido) |  |
+| 311 | (Suprimido) |  |
+| 370 | (Suprimido) |  |
+| 371 | (Suprimido) |  |
 | 380 | IVA EN OPERAC. ASIMILADAS A IMPORTACIONES | M, T , 0A |
 | 440 | IMPUESTO GRAL. DEL TRÁFICO DE EMPRESAS | T |
 | 568 | IMPUESTO ESPECIAL SOBRE DETERMINADOS MEDIOS DE TRANSPORTE | T |
@@ -63,6 +63,10 @@
 (2) Cuando la gestión corresponda al Estado.
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se suprimen los modelos 310, 311, 370 y 371 por la disposición final 1 de la Orden HAP/2215/2013, de 26 de noviembre. Ref. BOE-A-2013-12489.
+
+> Esta modificación es aplicable a las operaciones realizadas a partir del 1 de enero de 2014, según establece la disposición final 3.
 
 > Se añaden los modelos 108 y 208 por la disposición final 2 de la Orden HAP/636/2013, de 15 de abril. Ref. BOE-A-2013-4123.
 

@@ -1,9 +1,7 @@
 ## ANEXO III
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/70/06032_5833679_image10.png)
+(Derogado).
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/70/06032_5833679_image11.png)
+> Se deroga por la disposición derogatoria única.5 de la Orden HAP/2215/2013, de 26 de noviembre. Ref. BOE-A-2013-12489
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/70/06032_5833679_image12.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/70/06032_5833679_image13.png)
+> Téngase en cuenta que será aplicable a las operaciones realizadas a partir del 1 de enero de 2014, según establece la disposición final 3 de la citada Orden.

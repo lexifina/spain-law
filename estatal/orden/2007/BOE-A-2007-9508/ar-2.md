@@ -26,9 +26,9 @@ c) Su domicilio fiscal coincida con el de gestión administrativa.
 
 d) No sean grandes empresas.
 
-e) No estén incluidos en los regímenes especiales del Impuesto sobre el Valor Añadido, a excepción del Régimen simplificado, Régimen especial de la agricultura, ganadería y pesca, o Régimen especial de recargo de equivalencia.
+e) No estén incluidos en los regímenes especiales del Impuesto sobre el Valor Añadido, a excepción del Régimen simplificado, Régimen especial de la agricultura, ganadería y pesca, Régimen especial de recargo de equivalencia o Régimen especial del criterio de caja.
 
-f) No figuren inscritos en el Registro de operadores intracomunitarios o en el de exportadores y otros operadores económicos.
+f) No figuren inscritos en el Registro de operadores intracomunitarios o en el Registro de devolución mensual.
 
 g) No realicen ninguna de las adquisiciones no sujetas previstas en el artículo 14 de la Ley del Impuesto sobre el Valor Añadido.
 
@@ -46,17 +46,17 @@ Modificación de otros datos identificativos.
 
 Modificación de datos relativos a actividades económicas y locales.
 
-Modificación de datos relativos al Impuesto sobre el Valor Añadido, si tributan en Régimen General o en alguno de los Regímenes Especiales de Recargo de Equivalencia, Simplificado o Agricultura, Ganadería y Pesca.
-
-Modificación de datos relativos al Impuesto sobre la Renta de las Personas Físicas.
+Modificación de datos relativos al Impuesto sobre el Valor Añadido, si tributan en Régimen General o en alguno de los Regímenes Especiales de Recargo de Equivalencia, Simplificado, Agricultura, Ganadería y Pesca o Criterio de Caja. Modificación de datos relativos al Impuesto sobre la Renta de las Personas Físicas.
 
 Modificación de datos relativos a retenciones e ingresos a cuenta sobre rendimientos de trabajo personal, actividades profesionales, agrícolas, ganaderas, forestales u otras actividades económicas, premios, determinadas imputaciones de renta, sobre rendimientos procedentes del arrendamiento o subarrendamiento de inmuebles urbanos o determinadas ganancias patrimoniales.
 
-La declaración de alta, realizada a través del modelo 036, también servirá para solicitar la asignación del Número de Identificación Fiscal, con independencia de que la persona jurídica o entidad solicitante no esté obligada a darse de alta en el Censo de empresarios, profesionales y retenedores, de acuerdo con lo dispuesto en el artículo 7 del Reglamento por el que se regulan determinados censos tributarios.
+La declaración de alta, realizada a través del modelo 036, también servirá para solicitar la asignación del Número de Identificación Fiscal, con independencia de que la persona jurídica o entidad solicitante no esté obligada a darse de alta en el Censo de empresarios, profesionales y retenedores, de acuerdo con lo dispuesto en el artículo 7 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio.
 
 La asignación del Número de Identificación Fiscal, a solicitud del interesado o de oficio, determinará la inclusión automática en el Censo de obligados tributarios de la persona o entidad de que se trate.
 
 Asimismo, por medio del modelo 036 de declaración censal, los obligados tributarios personas físicas que sean empresarios o profesionales, y no dispongan del Número de Identificación Fiscal, solicitarán la asignación de dicho número.
+
+Igualmente, por medio del modelo 036 o modelo 037 comunicarán, en su caso, su condición de empresarios de responsabilidad limitada (siglas ERL) de acuerdo con lo establecido en la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización y las variaciones que se produzcan.
 
 2. Cuando varíe cualquiera de los datos recogidos en la declaración de alta o en otra declaración posterior, el obligado tributario lo deberá comunicar a la Administración tributaria mediante la oportuna declaración de modificación, utilizando el modelo 036 o 037 de acuerdo con lo previsto en el apartado Uno del presente artículo.
 
@@ -65,3 +65,7 @@ Cuando una persona o entidad en constitución que tenga asignado un Número de I
 No obstante, cuando en virtud de un convenio la Agencia Estatal de Administración Tributaria tenga conocimiento a través de otros organismos e instituciones de la información necesaria para asignar a una entidad el Número de Identificación Fiscal definitivo, podrá exonerar a la entidad de presentar una declaración censal solicitando la asignación de dicho número, sin perjuicio de la obligación que incumbe a la entidad de comunicar otro tipo de modificaciones que se hayan producido respecto de la información que haya hecho constar en las declaraciones censales que haya presentado con anterioridad.
 
 3. Deberán presentar la declaración de baja en el Censo de empresarios, profesionales y retenedores quienes cesen en el desarrollo de todo tipo de actividades empresariales o profesionales o no deban formar parte del mismo, utilizando el modelo 036 o 037, todo ello de acuerdo con lo previsto en el apartado Uno del este artículo.
+
+> Se modifica el apartado 1 por el art. 2.3 de la Orden HAP/2215/2013, de 26 de noviembre. Ref. BOE-A-2013-12489
+
+> Téngase en cuenta que esta modificación será aplicable a las operaciones realizadas a partir del 1 de enero de 2014.
