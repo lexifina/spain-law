@@ -135,6 +135,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 70 bis](a70bis.md)
 - [Artículo 70 ter](a70ter.md)
 - [Artículo 70 quáter](a70quater.md)
+- [Artículo 70 quinquies](a70quinquies.md)
 - [CAPÍTULO IV](civ-2.md)
 - [Artículo 71](a71.md)
 - [Artículo 71 bis](a71bis.md)

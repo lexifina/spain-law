@@ -2,25 +2,39 @@
 
 1. Corresponderá al Banco de España, en su condición de autoridad responsable de la supervisión de las entidades de crédito y sus grupos consolidables:
 
-a) Revisar los sistemas, sean acuerdos, estrategias, procedimientos o mecanismos de cualquier tipo, aplicados para dar cumplimiento a la normativa de solvencia contenida en esta Ley y en las disposiciones que la desarrollen. Dicha revisión incluirá a las políticas y prácticas de remuneración a que se refiere el apartado 1 bis del artículo 30 bis de la Ley 26/1988, de 29 de julio, sobre disciplina e intervención de las entidades de crédito.
+a) Revisar los sistemas, sean acuerdos, estrategias, procedimientos o mecanismos de cualquier tipo, aplicados para dar cumplimiento a la normativa de solvencia contenida en el Reglamento (UE) n.º 575/2013, de 26 de junio, en esta ley y en las disposiciones que la desarrollen. Dicha revisión incluirá las políticas y prácticas de remuneración a que se refiere el artículo 30 bis.1 bis de la Ley 26/1988, de 29 de julio, sobre disciplina e intervención de las entidades de crédito.
 
-b) Evaluar los riesgos a los cuales están o pueden estar expuestos.
+b) Evaluar los riesgos a los cuales las entidades están o pueden estar expuestos.
 
-c) A partir de la revisión y evaluación mencionadas en las letras precedentes, determinar si los sistemas mencionados en la letra a) y los fondos propios mantenidos garantizan una gestión y cobertura sólidas de sus riesgos.
+c) Sin perjuicio de lo previsto en la letra anterior, evaluar los riesgos derivados de posibles acontecimientos o cambios en la coyuntura económica que se hayan puesto de manifiesto en las pruebas de resistencia, teniendo en cuenta la naturaleza, dimensión y complejidad de la actividad de la entidad. Estas pruebas de resistencia deberán ser realizadas por el Banco de España al menos una vez al año.
 
-d) Exigir a cada entidad de crédito que posea normas de gobierno que incluyan políticas y prácticas de remuneración coherentes con la promoción de una gestión del riesgo sólida y efectiva para dar cumplimiento a la normativa sobre políticas y prácticas de remuneración que reglamentariamente se establezca.
+d) A partir de la revisión y evaluación mencionadas en las letras precedentes, determinar si los sistemas mencionados en la letra a) y los fondos propios mantenidos garantizan una gestión y cobertura sólidas de sus riesgos.
 
-e) Elaborar y publicar guías, dirigidas a las entidades y grupos supervisados, indicando los criterios, prácticas o procedimientos, que considera adecuados para favorecer una adecuada evaluación de los riesgos a que están o puedan estar expuestos así como el mejor cumplimiento de las normas de ordenación y disciplina de los sujetos supervisados. Dichas guías podrán incluir los criterios que el propio Banco de España seguirá en el ejercicio de sus actividades de supervisión.
+e) Exigir a cada entidad de crédito que posea normas de gobierno que incluyan políticas y prácticas de remuneración coherentes con la promoción de una gestión del riesgo sólida y efectiva para dar cumplimiento a la normativa sobre políticas y prácticas de remuneración que reglamentariamente se establezca.
 
-f) Elaborar y publicar guías, dirigidas a las entidades y grupos supervisados, indicando los criterios, prácticas o procedimientos, que considera adecuados para garantizar que las prácticas de remuneración derivan en unos incentivos de asunción de riesgos compatibles con una adecuada gestión del riesgo. Dichas guías podrán incluir los criterios que el propio Banco de España seguirá en el ejercicio de sus actividades de supervisión.
+f) Utilizar la información recopilada de conformidad con los criterios de divulgación establecidos en el artículo décimo ter.1 para comparar las tendencias y prácticas en materia de remuneración. El Banco de España facilitará a la Autoridad Bancaria Europea dicha información.
 
-g) Utilizar la información recopilada de conformidad con los criterios de divulgación establecidos en el apartado 1 del artículo 10 ter para comparar las tendencias y prácticas en materia de remuneración. El Banco de España facilitará a la Autoridad Bancaria Europea dicha información.
+g) Recopilar información sobre el número de personas, en cada entidad de crédito, con remuneraciones de al menos 1 millón de euros, en intervalos de ese mismo importe, incluidas sus responsabilidades en el cargo que ocupa, el ámbito de negocio implicado y los principales componentes del sueldo, los incentivos, las primas a largo plazo y la contribución a la pensión. Esta información se transmitirá a la Autoridad Bancaria Europea.
 
-h) Recopilar información sobre el número de personas, en cada entidad de crédito, con remuneraciones de al menos 1 millón de euros, incluido el ámbito de negocio implicado y los principales componentes del sueldo, los incentivos, las primas a largo plazo y la contribución a la pensión. Esta información se transmitirá a la Autoridad Bancaria Europea.
+h) Elaborar, en caso de que lo estime conveniente, guías técnicas, dirigidas a las entidades y grupos supervisados, indicando los criterios, prácticas, metodologías o procedimientos que considera adecuados para el cumplimiento de la normativa de supervisión. Dichas guías, que deberán hacerse públicas, podrán incluir los criterios que el propio Banco de España seguirá en el ejercicio de sus actividades de supervisión. Estas guías se referirán a las siguientes materias:
 
-A tal fin, el Banco de España podrá hacer suyas, y transmitir como tales a las entidades y grupos, las guías que, sobre dichas cuestiones, aprueben los organismos o comités internacionales activos en la regulación y supervisión bancarias.
+1.º Evaluación de los riesgos a que las entidades están expuestas y adecuado cumplimiento de las normas de ordenación y disciplina.
 
-Los análisis y evaluaciones mencionados en las letras a) y b) anteriores se actualizarán con periodicidad al menos anual.
+2.º Prácticas de remuneración e incentivos de asunción de riesgos compatibles con una adecuada gestión del riesgo.
+
+3.º Información financiera y contable y obligaciones de auditoría externa.
+
+4.º Adecuada gestión de los riesgos derivados de la tenencia de participaciones significativas de las entidades de crédito en otras entidades financieras o empresas no financieras.
+
+5.º Instrumentación de mecanismos de reestructuración o resolución de entidades de crédito.
+
+6.º Gobierno corporativo y control interno.
+
+7.º Cualquier otra materia incluida en el ámbito de competencias del Banco de España.
+
+A tal fin, el Banco de España podrá hacer suyas, y transmitir como tales a las entidades y grupos, así como desarrollar, complementar o adaptar las guías que, sobre dichas cuestiones, aprueben los organismos o comités internacionales activos en la regulación y supervisión bancarias.
+
+Los análisis y evaluaciones mencionados en las letras a), b) y c) anteriores se actualizarán con periodicidad al menos anual.
 
 2. Corresponderá al Banco de España, en su condición de autoridad responsable del ejercicio de la supervisión de los grupos consolidables de entidades de crédito y en relación con las autoridades supervisoras de la Unión Europea:
 
@@ -97,6 +111,8 @@ d) Los criterios generales y los métodos adoptados para comprobar el cumplimien
 a) Tomará debidamente en consideración la posible incidencia de sus decisiones en la estabilidad del sistema financiero de todos los demás Estados miembros afectados, en particular, en situaciones de urgencia, basándose en la información disponible en el momento; y,
 
 b) Tendrá en cuenta en la aplicación de esta Ley la convergencia de instrumentos y prácticas de supervisión en el ámbito de la Unión Europea.
+
+> Se modifica el apartado 1 por el art. 1.3 del Real Decreto-ley 14/2013, de 29 de noviembre. Ref. BOE-A-2013-12529.
 
 > Se modifican los apartados 2 y 2 bis por el art. 1º.1 a 4 del Real Decreto-ley 10/2012, de 23 de marzo. Ref. BOE-A-2012-4091.
 

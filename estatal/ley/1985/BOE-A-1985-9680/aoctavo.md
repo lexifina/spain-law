@@ -36,6 +36,8 @@ Cuando la entidad de crédito que tenga la consideración de entidad central den
 
 Cuando las entidades integradas conforme a lo previsto en esta letra sean Cajas de Ahorros, la entidad central tendrá la naturaleza de sociedad anónima y habrá de estar controlada conjuntamente por todas ellas, en los términos del artículo 42 del Código de Comercio.
 
+El Banco de España podrá eximir del cumplimiento individual de los requisitos previstos en las partes segunda a octava del Reglamento (UE) n.º 575/2013, de 26 de junio, a las entidades de crédito integradas en un sistema institucional de protección cuando dicho sistema se constituya a través de un acuerdo contractual entre varias entidades de crédito y cumpla con los requisitos establecidos en el artículo 10 del citado reglamento y con lo previsto en los puntos i, ii, v y vi anteriores.
+
 4. Reglamentariamente se determinarán los tipos de entidades financieras que deberán incluirse en el grupo consolidable de entidades de crédito a que se refiere el número anterior.
 
 En todo caso, formarán parte del grupo consolidable:
@@ -83,6 +85,8 @@ a) Cuya sociedad dominante sea una entidad de crédito;
 b) Cuya sociedad dominante tenga como actividad principal la tenencia de participaciones en entidades de crédito;
 
 c) En los que, incluyendo a una o más entidades de crédito, la actividad de éstas sea la más importante dentro del grupo.
+
+> Se añade un párrafo al final del apartado 3 por el art. 1.2 del Real Decreto-ley 14/2013, de 29 de noviembre. Ref. BOE-A-2013-12529.
 
 > Se modifica el último párrafo de la letra d) del apartado 3, con efectos de 1 de enero de 2012, por la disposición final 15 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638.
 
