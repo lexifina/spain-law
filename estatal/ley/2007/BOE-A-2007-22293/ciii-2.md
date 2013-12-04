@@ -1,3 +1,0 @@
-## Capítulo III
-
-## Órganos competentes

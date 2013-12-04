@@ -1,3 +1,0 @@
-## Capítulo II
-
-## Procedimiento sancionador
