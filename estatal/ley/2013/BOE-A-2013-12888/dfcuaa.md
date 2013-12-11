@@ -1,0 +1,3 @@
+## Disposición final cuarta. Título competencial.
+
+Esta Ley se dicta en ejercicio de las competencias exclusivas del Estado para la regulación de la condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales, legislación procesal, en materia de bases y coordinación de la planificación general de la actividad económica, así como sobre las bases del régimen jurídico de las Administraciones Públicas y la legislación básica sobre contratos administrativos, recogidas respectivamente en las materias del artículo 149.1. 1.ª, 6.ª, 13.ª y 18.ª de la Constitución.

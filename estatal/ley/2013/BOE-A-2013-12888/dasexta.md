@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Evaluación anual de la Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios.
+
+La Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios elaborará una evaluación anual sobre la implementación y los principales efectos en ámbitos de actuación pública concretos, de las medidas contempladas en esta Ley. Esta evaluación se remitirá a la Comisión Delegada del Gobierno para Asuntos Económicos y a las Comisiones de Economía y Competitividad del Congreso de los Diputados y del Senado, tras lo cual se hará pública.
