@@ -34,6 +34,10 @@ IGP Faba de Lourenzá.
 
 IGP Garbanzo de Fuentesaúco.
 
+IGP Garbanzo de Escacena.
+
+> Téngase en cuenta que la inclusión de la "IGP Garbanzo de Escacena" se establece, con vigencia exclusiva para el 2014, por la disposición adicional única.h) del Real Decreto 1013/2013, de 20 de diciembre. Ref. BOE-A-2013-13430.
+
 IGP Judías de El Barco de Ávila.
 
 IGP Lenteja de La Armuña.
@@ -51,3 +55,5 @@ Alubia de Tolosa.
 Alubia Pinta Alavesa.
 
 Garbanzo de Pedrosillo
+
+> Se añade la "IGP Garbanzo de Escacena", con vigencia exclusiva para el 2014, por la disposición adicional única.h) del Real Decreto 1013/2013, de 20 de diciembre. Ref. BOE-A-2013-13430.
