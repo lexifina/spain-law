@@ -40,4 +40,14 @@ El Ministerio de Hacienda y Administraciones Públicas será competente para rea
 
 En el caso de actuaciones de control en Corporaciones Locales, la Intervención General de la Administración del Estado, podrá contar con la colaboración de empresas privadas de auditoría, que deberán ajustarse a las normas e instrucciones que aquella determine. La financiación necesaria para estas actuaciones se realizará con cargo a los mismos fondos que se utilicen para dotar las medidas extraordinarias de apoyo a la liquidez.
 
+7. A partir de la aplicación de las medidas previstas en el apartado 5 del artículo 20, el Ministerio de Hacienda y Administraciones Públicas podrá proponer a la Comunidad Autónoma su acceso a los mecanismos adicionales de financiación vigentes. Si transcurrido un mes, desde la propuesta formulada por el Ministerio de Hacienda y Administraciones Públicas, la Comunidad Autónoma no manifestara de manera justificada su rechazo, se entenderá automáticamente incluida en el mecanismo adicional de financiación propuesto. La Comunidad Autónoma sólo podrá justificar su rechazo si acredita que puede obtener la liquidez y a un precio menor del que le proporciona el mecanismo propuesto por el Estado.
+
+8. Si a partir de la aplicación de lo previsto en el artículo 18.5 las Corporaciones Locales incluidas en el ámbito subjetivo definido en los artículos 111 y 135 del Texto Refundido de la Ley Reguladora de las Haciendas Locales persisten en el incumplimiento del plazo máximo de pago previsto en la normativa de morosidad, el Ministerio de Hacienda y Administraciones Públicas podrá determinar el acceso obligatorio de la Corporación Local a los mecanismos adicionales de financiación vigentes.
+
+9. Las operaciones de crédito que las Comunidades Autónomas concierten con cargo a los mecanismos adicionales de financiación cuyas condiciones financieras hayan sido previamente aprobadas por la Comisión Delegada del Gobierno para Asuntos Económicos y su plazo no sea superior a diez años quedarán exceptuadas de la autorización preceptiva del Consejo de Ministros, y no les resultarán de aplicación las restricciones previstas en el apartado dos del artículo 14 de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas y en la disposición transitoria tercera de esta Ley.
+
+Excepcionalmente, las limitaciones de plazo recogidas en la disposición transitoria tercera de esta ley podrán no ser de aplicación a las operaciones de crédito mencionadas en el párrafo anterior cuando así lo aprecie el Consejo de Ministros en las autorizaciones de dichas operaciones.
+
+> Se añaden los apartados 7 a 9 por el art. 1.12 de la Ley Orgánica 9/2013, de 20 de diciembre. Ref. BOE-A-2013-13425.
+
 > Se modifica por el art. único.1 de la Ley Orgánica 4/2012, de 28 de septiembre. Ref. BOE-A-2012-12192.

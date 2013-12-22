@@ -1,0 +1,5 @@
+## Disposición final cuarta. Importaciones de productos de avituallamiento en las Islas Canarias que se destinen a su suministro a determinados buques y aeronaves.
+
+Serán admitidas con franquicia de derechos de importación las mercancías de terceros países, siempre que dichas mercancías se destinen a operaciones exentas del Impuesto General Indirecto Canario en virtud de lo dispuesto en el número 6.° del apartado 1 del artículo 14 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias.
+
+También, en el caso de mercancías que se encuentren dentro del ámbito de aplicación del Impuesto sobre Combustibles Derivados del Petróleo, serán admitidas con franquicia de derechos de importación las procedentes de terceros países, siempre que dichas mercancías se destinen a operaciones exentas de dicho Impuesto en virtud de lo dispuesto en la letra a) del artículo 10 de la Ley 5/1986, de 28 de julio, del Impuesto Especial de la Comunidad Autónoma de Canarias sobre Combustibles Derivados del Petróleo, para los supuestos a los que se refieren las letras c) y d) del apartado 2 del artículo 11 de la misma Ley.
