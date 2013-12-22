@@ -48,19 +48,9 @@ Para determinar los períodos de cotización y de cálculo de la base reguladora
 
 Dichas reglas serán igualmente aplicables a los trabajadores a tiempo parcial o fijos discontinuos incluidos en el Sistema Especial para Empleados de Hogar, establecido en el Régimen General de la Seguridad Social.
 
-3. La cotización por las horas extraordinarias realizadas por trabajadores contratados a tiempo parcial estará sujeta a las siguientes reglas:
+3. (Derogado).
 
-a) Las remuneraciones percibidas por horas extraordinarias en los contratos de trabajo a tiempo parcial, sean motivadas o no por fuerza mayor, se tomarán en cuenta para la determinación de la base de cotización tanto por contingencias comunes como profesionales.
-
-Los tipos de cotización serán los que establezca cada año la correspondiente Ley de Presupuestos Generales del Estado.
-
-b) La cotización por horas extraordinarias de los trabajadores con contrato de trabajo a tiempo parcial se computará exclusivamente a efectos de determinar la base reguladora de la pensión de jubilación; de las prestaciones de incapacidad temporal, incapacidad permanente y muerte y supervivencia derivadas de contingencias comunes; así como de las prestaciones por maternidad y por paternidad.
-
-Con respecto a las prestaciones derivadas de contingencias profesionales se estará a lo establecido con carácter general.
-
-c) Lo dispuesto en este apartado será de aplicación a los trabajadores con contrato de trabajo a tiempo parcial incluidos en el Régimen General de la Seguridad Social, excepto para los comprendidos en los Sistemas Especiales para Trabajadores por Cuenta Ajena Agrarios y para Empleados de Hogar establecidos en dicho Régimen General, en el Régimen Especial de la Minería del Carbón y para los trabajadores por cuenta ajena incluidos en el Régimen Especial de la Seguridad Social de los Trabajadores del Mar.
-
-d) Reglamentariamente se determinarán los términos y condiciones para la aplicación de lo dispuesto en este apartado.
+> Se deroga el apartado 3 por la disposición derogatoria única del Real Decreto-ley 16/2013, de 20 de diciembre. Ref. BOE-A-2013-13426.
 
 > Se modifican las reglas 2 y 3.c) del apartado 1 por el art. 5.1 y 2 del Real Decreto-ley 11/2013, de 2 de agosto. Ref. BOE-A-2013-8556.
 
