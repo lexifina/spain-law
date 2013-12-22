@@ -1,6 +1,6 @@
 ## ANEXO II
 
-## ESPECIES ANIMALES Y VEGETALES DE INTERÉS COMUNITARIO PARA CUYA CONSERVACIÓN ES NECESARIO DESIGNAR ZONAS ESPECIALES DE CONSERVACIÓN
+## Especies animales y vegetales de interés comunitario para cuya conservación es necesario designar zonas especiales de conservación
 
 ## Interpretación
 
@@ -8,19 +8,19 @@ a) El anexo II es complementario del anexo I en cuanto a la realización de una 
 
 b) Las especies que figuran en el presente anexo están indicadas:
 
-por el nombre de la especie o subespecie, o
+– Por el nombre de la especie o subespecie, o
 
-por el conjunto de las especies pertenecientes a un taxón superior o a una parte designada de dicho taxón.
+– por el conjunto de las especies pertenecientes a un taxón superior o a una parte designada de dicho taxón.
 
 La abreviatura «spp.» a continuación del nombre de una familia o de un género sirve para designar todas las especies pertenecientes a dicha familia o género.
 
-c) Símbolos.
+c) Símbolos:
 
 Se antepone un asterisco (*) al nombre de una especie para indicar que dicha especie es prioritaria.
 
-La mayoría de las especies que figuran en el presente anexo se hallan incluidas en el anexo V. Con el símbolo (o), colocado detrás del nombre, se indican aquellas especies que figuran en el presente anexo y no se hallan incluidas en el anexo V ni en el anexo VI; con el símbolo (V), colocado detrás del nombre, se indican aquellas especies que, figurando en el presente anexo, están también incluidas en el anexo VI, pero no en el anexo V.
+La mayoría de las especies que figuran en el presente anexo se hallan incluidas en el anexo IV. Con el símbolo (o), colocado detrás del nombre, se indican aquellas especies que figuran en el presente anexo y no se hallan incluidas en el anexo IV ni en el anexo V; con el símbolo (V), colocado detrás del nombre, se indican aquellas especies que, figurando en el presente anexo, están también incluidas en el anexo V, pero no en el anexo IV.
 
-a) ANIMALES.
+a) Animales
 
 VERTEBRADOS.
 
@@ -94,6 +94,8 @@ Mesocricetus newtoni.
 
 Microtidae.
 
+Dinaromys bogdanovi.
+
 Microtus cabrerae.
 
 * Microtus oeconomus arenicola.
@@ -106,7 +108,7 @@ Zapodidae.
 
 Sicista subtilis.
 
-CARNIVORA.
+CARNÍVORA.
 
 Canidae.
 
@@ -164,7 +166,7 @@ Capra aegagrus (poblaciones naturales).
 
 * Capra pyrenaica pyrenaica.
 
-Ovis gmelini musimon (Ovis ammon musimon) (poblaciones naturales - Córcega y Cerdeña).
+Ovis gmelini musimon (Ovis ammon musimon) (poblaciones naturales – Córcega y Cerdeña).
 
 Ovis orientalis ophion (Ovis gmelini ophion).
 
@@ -174,7 +176,7 @@ Rupicapra rupicapra balcanica.
 
 * Rupicapra rupicapra tatrica.
 
-CETACEA.
+CETÁCEA.
 
 Phocoena phocoena.
 
@@ -210,6 +212,8 @@ SAURIA.
 
 Lacertidae.
 
+Dinarolacerta mosorensis.
+
 Lacerta bonnali (Lacerta monticola).
 
 Lacerta monticola.
@@ -232,7 +236,7 @@ Gekkonidae.
 
 Phyllodactylus europaeus.
 
-OPHIDIA.
+OPHIDIA (SERPENTES).
 
 Colubridae.
 
@@ -248,7 +252,9 @@ Viperidae.
 
 * Macrovipera schweizeri (Vipera lebetina schweizeri).
 
-Vipera ursinii (excepto Vipera ursinii rakosiensis).
+Vipera ursinii (excepto Vipera ursinii rakosiensis y Vipera ursinii macrops).
+
+* Vipera ursinii macrops.
 
 * Vipera ursinii rakosiensis.
 
@@ -306,7 +312,7 @@ Bombina bombina.
 
 Bombina variegata.
 
-Discoglossus galganoi (Discoglossus »jeanneae» inclusive).
+Discoglossus galganoi (Discoglossus «jeanneae» inclusive).
 
 Discoglossus montalentii.
 
@@ -328,9 +334,9 @@ Petromyzonidae.
 
 Eudontomyzon spp. (o).
 
-Lampetra fluviali (V) (excepto las poblaciones finlandesas y suecas).
+Lampetra fluviatilis (V) (excepto las poblaciones finlandesas y suecas).
 
-* Lampreta planeri (o) (excepto las poblaciones estonias, finlandesas y suecas).
+Lampetra planeri (o) (excepto las poblaciones estonias, finlandesas y suecas).
 
 Lethenteron zanandreai (V).
 
@@ -360,7 +366,9 @@ Salmo macrostigma (o).
 
 Salmo marmoratus (o).
 
-Salmo salar (sólo en agua dulce) (V) (excepto las poblaciones finlandesas).
+Salmo salar (solo en agua dulce) (V) (excepto las poblaciones finlandesas).
+
+Salmothymus obtusirostris (o).
 
 Coregonidae.
 
@@ -376,6 +384,8 @@ Cyprinidae.
 
 Alburnus albidus (o) (Alburnus vulturius).
 
+Aulopyge huegelii (o).
+
 Anaecypris hispanica.
 
 Aspius aspius (V) (excepto las poblaciones finlandesas).
@@ -390,7 +400,11 @@ Chalcalburnus chalcoides (o).
 
 Chondrostoma genei (o).
 
+Chondrostoma knerii (o).
+
 Chondrostoma lusitanicum (o).
+
+Chondrostoma phoxinus (o).
 
 Chondrostoma polylepis (o) (C. willkommi inclusive).
 
@@ -426,7 +440,7 @@ Rutilus rubilio (o).
 
 Rutilus arcasii (o).
 
-Rutilus macrolepidotus(o).
+Rutilus macrolepidotus (o).
 
 Rutilus lemmingii (o).
 
@@ -435,6 +449,10 @@ Rutilus frisii meidingeri (V).
 Rutilus alburnoides (o).
 
 Scardinius graecus (o).
+
+Squalius microlepis (o).
+
+Squalius svallize (o).
 
 Cobitidae.
 
@@ -482,6 +500,8 @@ Zingel spp. ((o) excepto Zingel asper y Zingel zingel (V)).
 
 Gobiidae.
 
+Knipowitschia croatica (o).
+
 Knipowitschia (Padogobius) panizzae (o).
 
 Padogobius nigricans (o).
@@ -500,7 +520,7 @@ INVERTEBRADOS.
 
 ARTRÓPODOS.
 
-CRUSTACEA.
+CRUSTÁCEA.
 
 Decapoda.
 
@@ -666,6 +686,8 @@ Polymixis rufocincta isolata.
 
 Polyommatus eroides.
 
+Proterebia afra dalmata.
+
 Pseudophilotes bavius.
 
 Xestia borealis (o).
@@ -806,7 +828,7 @@ Dreissenidae.
 
 Congeria kusceri.
 
-b) PLANTAS.
+b) Plantas
 
 PTERIDOPHYTA.
 
@@ -888,9 +910,7 @@ Narcissus humilis (Cav.) Traub.
 
 * Narcissus nevadensis Pugsley.
 
-Narcissus pseudonarcissus L. subsp. nobilis (Haw.) A.
-
-Fernandes.
+Narcissus pseudonarcissus L. subsp. nobilis (Haw.) A. Fernandes.
 
 Narcissus scaberulus Henriq.
 
@@ -906,7 +926,7 @@ BORAGINACEAE.
 
 * Anchusa crispa Viv.
 
-Echium russicum J. F. Gemlin.
+Echium russicum J.F.Gemlin.
 
 * Lithodora nitida (H. Ern) R. Fernandes.
 
@@ -918,7 +938,7 @@ Myosotis retusifolia R. Afonso.
 
 Omphalodes kuzinskyanae Willk.
 
-* Omphalodes littoralis Lehm.
+*Omphalodes littoralis Lehm.
 
 * Onosma tornensis Javorka.
 
@@ -936,7 +956,7 @@ Asyneuma giganteum (Boiss.) Bornm.
 
 * Campanula gelida Kovanda.
 
-Campanula romanica Sӑvul.
+Campanula romanica Săvul.
 
 * Campanula sabatia De Not.
 
@@ -958,15 +978,13 @@ Arenaria humifusa Wahlenberg.
 
 Arenaria provincialis Chater & Halliday.
 
-* Cerastium alsinifolium Tausch.
-
-Cerastium dinaricum G. Beck & Szysz.
+* Cerastium alsinifolium Tausch Cerastium dinaricum G.Beck & Szysz.
 
 Dianthus arenarius L. subsp. arenarius.
 
-* Dianthus arenarius subsp. bohemicus (Novak) O. Schwarz.
+*Dianthus arenarius subsp. bohemicus (Novak) O.Schwarz.
 
-Dianthus cintranus Boiss & Reuter subsp. cintranus Boiss & Reuter.
+Dianthus cintranus Boiss. & Reuter subsp. cintranus Boiss. & Reuter.
 
 * Dianthus diutinus Kit.
 
@@ -1072,13 +1090,13 @@ Carlina onopordifolia Besser.
 
 * Centaurea alba L. subsp. princeps (Boiss. & Heldr.) Gugler.
 
-* Centaurea akamantis T. Georgiadis & G. Chatzikyriakou.
+* Centaurea akamantis T.Georgiadis & G.Chatzikyriakou.
 
 * Centaurea attica Nyman subsp. megarensis (Halacsy & Hayek) Dostal.
 
-* Centaurea balearica J. D. Rodriguez.
+* Centaurea balearica J. D. Rodríguez.
 
-* Centaurea borjae Valdes-Berm. & Rivas Goday.
+* Centaurea borjae Valdés-Berm. & Rivas Goday.
 
 * Centaurea citricolor Font Quer.
 
@@ -1208,6 +1226,8 @@ Braya linearis Rouy.
 
 Crambe tataria Sebeok.
 
+* Degenia velebitica (Degen) Hayek.
+
 Diplotaxis ibicensis (Pau) Gómez-Campo.
 
 * Diplotaxis siettiana Maire.
@@ -1232,9 +1252,7 @@ Iberis procumbens Lange subsp. microcarpa Franco & Pinto da Silva.
 
 Jonopsidium savianum (Caruel) Ball ex Arcang.
 
-Rhynchosinapis erucastrum (L.) Dandy ex Clapham subsp.
-
-Coincya cintrana (Coutinho) Franco & P. Silva (Coincya cintrana (P. Cout.) Pinto da Silva).
+Rhynchosinapis erucastrum (L.) Dandy ex Clapham subsp. cintrana (Coutinho) Franco & P. Silva (Coincya cintrana (P. Cout.) Pinto da Silva).
 
 Sisymbrium cavanillesianum Valdés & Castroviejo.
 
@@ -1294,7 +1312,7 @@ Erodium paularense Fernández-González & Izco.
 
 GLOBULARIACEAE.
 
-* Globularia stygia Orph. ex Boiss.
+* Globulariastygia Orph. ex Boiss.
 
 GRAMINEAE.
 
@@ -1312,7 +1330,7 @@ Cinna latifolia (Trev.) Griseb.
 
 Coleanthus subtilis (Tratt.) Seidl.
 
-Festuca brigantina (Markgr.-Dannenb.) Markgr.-Dannenb.
+Festuca brigantina (Markgr.–Dannenb.) Markgr.–Dannenb.
 
 Festuca duriotagana Franco & R. Afonso.
 
@@ -1326,9 +1344,9 @@ Gaudinia hispanica Stace & Tutin.
 
 Holcus setiglumis Boiss. & Reuter subsp. duriensis Pinto da Silva.
 
-Micropyropsis tuberosa Romero-Zarco & Cabezudo.
+Micropyropsis tuberosa Romero - Zarco & Cabezudo.
 
-Poa granitica Br.-Bl. subsp. disparilis (E. I. Nyárády) E. I. Nyárády.
+Poa granitica Br.–Bl. subsp. disparilis (E. I. Nyárády) E. I. Nyárády.
 
 * Poa riphaea (Ascher et Graebner) Fritsch.
 
@@ -1374,7 +1392,7 @@ Gladiolus palustris Gaud.
 
 Iris aphylla L. subsp. hungarica Hegi.
 
-Iris humilis Georgi subsp. arenaria (Waldst. et Kit.) A. et D. Löve.
+Iris humilis Georgi subsp. arenaria (Waldst. et Kit.) A.et D.Löve.
 
 JUNCACEAE.
 
@@ -1562,7 +1580,7 @@ Papaver radicatum Rottb. subsp. hyperboreum Nordh.
 
 PLANTAGINACEAE.
 
-Plantago algarbiensis Sampaio [Plantago bracteosa (Willk.) G. Sampaio].
+Plantago algarbiensis Sampaio (Plantago bracteosa (Willk.) G. Sampaio).
 
 Plantago almogravensis Franco.
 
@@ -1626,7 +1644,7 @@ RANUNCULACEAE.
 
 * Aconitum corsicum Gayer (Aconitum napellus subsp. corsicum).
 
-Aconitum firmum (Reichenb.) Neilr subsp. Moravicum Skalicky.
+Aconitum firmum (Reichenb.) Neilr subsp. moravicum Skalicky.
 
 Adonis distorta Ten.
 
@@ -1634,13 +1652,15 @@ Aquilegia bertolonii Schott.
 
 Aquilegia kitaibelii Schott.
 
-* Aquilegia pyrenaica D. C. subsp. cazorlensis (Heywood) Galiano.
+* Aquilegia pyrenaica D.C. subsp. cazorlensis (Heywood) Galiano.
 
-* Consolida samia P. H. Davis.
+* Consolida samia P.H. Davis.
 
-* Delphinium caseyi B. L.Burtt.
+* Delphinium caseyi B.L.Burtt.
 
-Pulsatilla grandis Wenderoth Pulsatilla patens (L.) Miller.
+Pulsatilla grandis Wenderoth.
+
+Pulsatilla patens (L.) Miller.
 
 * Pulsatilla pratensis (L.) Miller subsp. hungarica Soo.
 
@@ -1658,7 +1678,7 @@ Ranunculus lapponicus L.
 
 RESEDACEAE.
 
-* Reseda decursiva Forssk.
+*Reseda decursiva Forssk.
 
 ROSACEAE.
 
@@ -1708,7 +1728,7 @@ SCROPHULARIACEAE.
 
 Antirrhinum charidemi Lange.
 
-Chaenorrhinum serpyllifolium (Lange) Lange subsp. Lusitanicum R. Fernandes.
+Chaenorrhinum serpyllifolium (Lange) Lange subsp. lusitanicum R. Fernandes.
 
 * Euphrasia genargentea (Feoli) Diana.
 
@@ -1746,11 +1766,11 @@ Verbascum litigiosum Samp.
 
 Veronica micrantha Hoffmanns. & Link.
 
-* Veronica oetaea L.-A. Gustavsson.
+* Veronica oetaea L.–A. Gustavsson.
 
 SOLANACEAE.
 
-* Atropa baetica Willk.
+*Atropa baetica Willk.
 
 THYMELAEACEAE.
 
@@ -1826,9 +1846,7 @@ Bruchia vogesiaca Schwaegr. (o).
 
 Bryhnia novae-angliae (Sull & Lesq.) Grout (o).
 
-* Bryoerythrophyllum campylocarpum (C. Müll.) Crum.
-
-(Bryoerythrophyllum machadoanum (Sergio) M. O. Hill) (o).
+* Bryoerythrophyllum campylocarpum (C. Müll.) Crum. (Bryoerythrophyllum machadoanum (Sergio) M. O. Hill) (o).
 
 Buxbaumia viridis (Moug.) Moug. & Nestl. (o).
 
@@ -1842,7 +1860,7 @@ Dicranum viride (Sull. & Lesq.) Lindb. (o).
 
 Distichophyllum carinatum Dix. & Nich. (o).
 
-Drepanocladus (Hamatocaulis) vernicosus (Mitt.) Warnst.(o).
+Drepanocladus (Hamatocaulis) vernicosus (Mitt.) Warnst. (o).
 
 Encalypta mutica (I. Hagen) (o).
 
@@ -2142,9 +2160,9 @@ PLUMBAGINACEAE.
 
 Limonium dendroides Svent.
 
-* Limonium spectabile (Svent.) Kunkel & Sunding.
+*Limonium spectabile (Svent.) Kunkel & Sunding.
 
-* Limonium sventenii Santos & Fernández Galván.
+*Limonium sventenii Santos & Fernández Galván.
 
 POLYGONACEAE.
 
@@ -2221,3 +2239,5 @@ BRYOPHYTA.
 * Echinodium spinosum (Mitt.) Jur. (o).
 
 * Thamnobryum fernandesii Sergio (o).
+
+> Se modifica por el artículo 1.2 del Real Decreto 1015/2013, de 20 de diciembre. Ref. BOE-A-2013-13432.

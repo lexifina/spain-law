@@ -4,11 +4,13 @@
 
 ## Interpretación
 
-En el «Manual de Interpretación de los Hábitats de la Unión Europea», aprobado por el comité establecido por el artículo 20 («Comité Hábitats») y publicado por la Comisión Europea (*), se ofrecen orientaciones para la interpretación de cada tipo de hábitat.
+En el "Manual de Interpretación de los Hábitats de la Unión Europea", aprobado por el comité establecido por el artículo 20 ("Comité Hábitats") y publicado por la Comisión Europea, se ofrecen orientaciones para la interpretación de cada tipo de hábitat(+).
+
+(+) "Manual de Interpretación de los Hábitats de la Unión Europea", aprobado por el Comité Hábitats el 4 de octubre de 1999, "Modificaciones de 'Manual de Interpretación de los Hábitats de la Unión Europea' con miras a la ampliación de la UE" (Hab. 01/11b-rev. 1) aprobadas por el Comité Hábitats el 24 de abril de 2002 previa consulta escrita, Comisión Europea, Dirección General de Medio Ambiente.
 
 El código corresponde al código NATURA 2000.
 
-El símbolo «*» indica los tipos de hábitats prioritarios.
+El signo "*" significa: tipos de hábitats prioritarios.
 
 1. HÁBITATS COSTEROS Y VEGETACIONES HALOFÍTICAS.
 
@@ -32,7 +34,7 @@ El símbolo «*» indica los tipos de hábitats prioritarios.
 
 12. Acantilados marítimos y playas de guijarros.
 
-1210 Vegetación anual sobre desechos marinos acumulados.
+1210 Vegetación anual pionera sobre desechos marinos acumulados.
 
 1220 Vegetación perenne de bancos de guijarros.
 
@@ -54,7 +56,7 @@ El símbolo «*» indica los tipos de hábitats prioritarios.
 
 14. Marismas y pastizales salinos mediterráneos y termoatlánticos.
 
-1410 Pastizales salinos mediterráneos (Juncetalia maritimi).
+1410 Pastizales salinos mediterráneos (Jucentalia maritimi).
 
 1420 Matorrales halófilos mediterráneos y termoatlánticos (Sarcocornetea fructicosae).
 
@@ -82,7 +84,7 @@ El símbolo «*» indica los tipos de hábitats prioritarios.
 
 2. DUNAS MARÍTIMAS Y CONTINENTALES.
 
-21. Dunas marítimas de las costas atlánticas, del mar del Norte y del Báltico.
+21. Dunas marítimas de las costas atlánticas, del Mar del Norte y del Báltico.
 
 2110 Dunas móviles embrionarias.
 
@@ -102,7 +104,7 @@ El símbolo «*» indica los tipos de hábitats prioritarios.
 
 2190 Depresiones intradunales húmedas.
 
-21A0 Machairs (* en Irlanda).
+21A0 Machairs (*en Irlanda).
 
 22. Dunas marítimas de las costas mediterráneas.
 
@@ -116,7 +118,7 @@ El símbolo «*» indica los tipos de hábitats prioritarios.
 
 2250 * Dunas litorales con Juniperus spp.
 
-2260 Dunas con vegetación esclerófila del Cisto-Lavanduletalia.
+2260 Dunas con vegetación esclerófila del Cisto-Lavenduletalia.
 
 2270 * Dunas con bosques Pinus pinea y/o Pinus pinaster.
 
@@ -136,9 +138,9 @@ El símbolo «*» indica los tipos de hábitats prioritarios.
 
 3110 Aguas oligotróficas con un contenido de minerales muy bajo de las llanuras arenosas (Littorelletalia uniflorae).
 
-3120 Aguas oligotróficas con un contenido de minerales muy bajo sobre suelos generalmente arenosos del mediterráneo occidental con Isoetes spp.
+3120 Aguas oligotróficas con un contenido de minerales muy bajo sobre suelos generalmente arenosos del Mediterráneo occidental con Isoetes spp.
 
-3130 Aguas estancadas, oligotróficas o mesotróficas con vegetación de Littorelletea uniflorae y/o Isoëto-Nanojuncetea.
+3130 Aguas estancadas, oligotróficas a mesotróficas con vegetación de Littorelletea uniflorae y/o Isoëto-Nanojuncetea.
 
 3140 Aguas oligomesotróficas calcáreas con vegetación béntica de Chara spp.
 
@@ -154,11 +156,11 @@ El símbolo «*» indica los tipos de hábitats prioritarios.
 
 31A0 * Lechos de loto de lagos termales de Transilvania.
 
-32. Aguas corrientes-tramos de cursos de agua con dinámica natural y semi-natural (lechos menores, medios y mayores), en los que la calidad del agua no presenta alteraciones significativas.
+32. Aguas corrientes – tramos de cursos de agua con dinámica natural y semi-natural (lechos menores, medios y mayores), en los que la calidad del agua no presenta alteraciones significativas.
 
 3210 Ríos naturales de Fenoscandia.
 
-3220 Ríos alpinos con vegetación herbácea en sus orillas.
+3220 Ríos alpinos y la vegetación herbácea de sus orillas.
 
 3230 Ríos alpinos con vegetación leñosa en sus orillas de Myricaria germanica.
 
@@ -166,13 +168,15 @@ El símbolo «*» indica los tipos de hábitats prioritarios.
 
 3250 Ríos mediterráneos de caudal permanente con Glaucium flavum.
 
-3260 Ríos, de pisos de planicie a montano con vegetación de Ranunculion fluitantis y de Callitricho-Batrachion.
+3260 Ríos, de pisos de planicie a montano con vegetaciónde Ranunculion fluitantis y Callitricho-Batrachion.
 
 3270 Ríos de orillas fangosas con vegetación de Chenopodion rubri p.p. y de Bidention p.p.
 
 3280 Ríos mediterráneos de caudal permanente del Paspalo-Agrostidion con cortinas vegetales ribereñas de Salix y Populus alba.
 
 3290 Ríos mediterráneos de caudal intermitente del Paspalo-Agrostidion.
+
+32A0 Cascadas tobáceas de los ríos cársticos en los Alpes Dináricos.
 
 4. BREZALES Y MATORRALES DE ZONA TEMPLADA.
 
@@ -232,7 +236,7 @@ El símbolo «*» indica los tipos de hábitats prioritarios.
 
 5410 Matorrales de tipo frigánico del mediterráneo occidental de cumbres de acantilados (Astragalo-Plantaginetum subulatae).
 
-5420 Sarcopoterium spinosum phryganas.
+5420 Matorrales espinosos de tipo frigánico del Sarcopoterium spinosum.
 
 5430 Matorrales espinosos de tipo frigánico endémicos del Euphorbio-Verbascion.
 
@@ -260,7 +264,7 @@ El símbolo «*» indica los tipos de hábitats prioritarios.
 
 62. Formaciones herbosas secas seminaturales y facies de matorral.
 
-6210 Prados secos semi-naturales y facies de matorral sobre sustratos calcáreos (Festuco-Brometalia) (* parajes con notables orquídeas).
+6210 Prados secos semi-naturales y facies de matorral sobre sustratos calcáreos (Festuco-Brometalia) (*parajes con notables orquídeas).
 
 6220 * Zonas subestépicas de gramíneas y anuales del Thero-Brachypodietea.
 
@@ -274,11 +278,11 @@ El símbolo «*» indica los tipos de hábitats prioritarios.
 
 6270 * Pastizales fenoscándicos de baja altitud, secas a orófilas, ricas en especies.
 
-6280M * Alvar nórdico y losas calizas precámbricas.
+6280 * Alvar nórdico y losas calizas precámbricas.
 
 62A0 Pastizales secos submediterráneos orientales (Scorzoneratalia villosae).
 
-62B0 * Prados serpentinícolas de Chipre.
+62B0 Prados serpentinícolas de Chipre.
 
 62C0 * Estepas pontosarmáticas.
 
@@ -294,7 +298,7 @@ El símbolo «*» indica los tipos de hábitats prioritarios.
 
 6420 Prados húmedos mediterráneos de hierbas altas del Molinion-Holoschoenion.
 
-6430 Megaforbios eutrofos hidrófilos de las orlas de llanura y de los pisos montano a alpino.
+6430 Megaforbios eutrofos higrófilos de las orlas de llanura y de los pisos montano a alpino.
 
 6440 Prados aluviales inundables del Cnidion dubii.
 
@@ -310,6 +314,8 @@ El símbolo «*» indica los tipos de hábitats prioritarios.
 
 6530 * Prados arbolados fenoscándicos.
 
+6540 Prados submediterráneos del Molinio-Hordeion secalini.
+
 7. TURBERAS ALTAS, TURBERAS BAJAS (FENS Y MIRES) Y ÁREAS PANTANOSAS.
 
 71. Turberas ácidas de esfagnos.
@@ -318,15 +324,15 @@ El símbolo «*» indica los tipos de hábitats prioritarios.
 
 7120 Turberas altas degradadas que todavía pueden regenerarse de manera natural.
 
-7130 Turberas de cobertura (* para las turberas activas).
+7130 Turberas de cobertura (*para las turberas activas).
 
-7140 «Mires» de transición.
+7140 »Mires» de transición y tremedales.
 
 7150 Depresiones sobre sustratos turbosos del Rhynchosporion.
 
 7160 Manantiales ricos en minerales y surgencias de fens.
 
-72. Áreas pantanosas calcáreas.
+72. Turberas calcáreas.
 
 7210 * Turberas calcáreas del Cladium mariscus y con especies del Caricion davallianae.
 
@@ -364,7 +370,7 @@ El símbolo «*» indica los tipos de hábitats prioritarios.
 
 8220 Pendientes rocosas silíceas con vegetación casmofítica.
 
-8230 Roquedos silíceos con vegetación pionera del Sedo-Scleranthion o del Sedo albi-Veronicion dillenii.
+8230 Roquedos siliceos con vegetación pionera del Sedo-Scleranthion o del Sedo albi-Veronicion dillenii.
 
 8240 * Pavimentos calcáreos.
 
@@ -380,7 +386,7 @@ El símbolo «*» indica los tipos de hábitats prioritarios.
 
 9. BOSQUES.
 
-Bosques (sub)naturales de especies autóctonas, en monte alto con sotobosque típico, que responden a uno de los siguientes criterios: raros o residuales o que albergan especies de interés comunitario.
+Bosques (sub)naturales de especies autóctonas, en monte alto con sotobosque típico, que responden a uno de los siguientes criterios: Raros y residuales y/o que contengan especies de interés comunitario.
 
 90. Bosques de la Europa boreal.
 
@@ -390,7 +396,7 @@ Bosques (sub)naturales de especies autóctonas, en monte alto con sotobosque tí
 
 9030 * Bosques naturales de las primeras fases de la sucesión de las áreas emergidas costeras.
 
-9040 Bosques nórdicos/subárticos de Betula pubescens ssp. czerepanovii.
+9040 Bosques nórdicos/subárticos de Betula pubescens spp. czerepanovii.
 
 9050 Bosques fenoscándicos de Picea abies ricos en herbáceas.
 
@@ -410,11 +416,11 @@ Bosques (sub)naturales de especies autóctonas, en monte alto con sotobosque tí
 
 9140 Hayedos subalpinos medioeuropeos de Acer y Rumex arifolius.
 
-9150 Hayedos calcícolas medioeuropeas del Cephalanthero-Fagion.
+9150 Hayedos calcícolas medioeuropeos del Cephalanthero-Fagion.
 
 9160 Robledales pedunculados o albares subatlánticos y medioeuropeos del Carpinion betuli.
 
-9170 Robledales albares del Galio-Carpinetum.
+9170 Robledales del Galio-Carpinetum.
 
 9180 * Bosques de laderas, desprendimientos o barrancos del Tilio-Acerion.
 
@@ -430,7 +436,7 @@ Bosques (sub)naturales de especies autóctonas, en monte alto con sotobosque tí
 
 91E0 * Bosques aluviales de Alnus glutinosa y Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae).
 
-91F0 Bosques mixtos de Quercus robur, Ulmus laevis, Ulmus minor, Fraxinus excelsior o Fraxinus angustifolia, en las riberas de los grandes ríos (Ulmenion minoris).
+91F0 Bosques mixtos de Quercus robur, Ulmus laevis, Ulmus minor, Fraxinus excelsior o Fraxinus angustifolia, en las riberas de los grandes rios (Ulmenion minoris).
 
 91G0 * Bosques panónicos de Quercus petraea y Carpinus betulus.
 
@@ -448,11 +454,11 @@ Bosques (sub)naturales de especies autóctonas, en monte alto con sotobosque tí
 
 91N0 * Matorrales de dunas arenosas continentales panónicas (Junipero-Populetum albae).
 
-91P0 Abetales de Swietokrzyskie (Abietetum polonicum).
+91P0 Holy Cross fir forest (Abietetum polonicum).
 
 91Q0 Bosques calcófilos de Pinus sylvestris de los Cárpatos Occidentales.
 
-91R0 Bosques dináricos dolomitícolas de pino silvestre (Genisto januensis-Pinetum).
+91R0 Bosques dináricos dolomitícolas de pino silvestre (Genisto januensis- Pinetum).
 
 91S0 * Hayedos pónticos occidentales.
 
@@ -464,7 +470,7 @@ Bosques (sub)naturales de especies autóctonas, en monte alto con sotobosque tí
 
 91W0 Hayedos de Moesia.
 
-91X0 Hayedos de Dobroduja.
+91X0 * Hayedos de Dobroduja.
 
 91Y0 Bosques dacios de robles y carpes.
 
@@ -474,9 +480,9 @@ Bosques (sub)naturales de especies autóctonas, en monte alto con sotobosque tí
 
 91BA Abetales de Moesia.
 
-91CA Bosques pino siveltre de Rhodope y la Cordillera Balcánica.
+91CA Bosques de pino silvestre de Rhodope y la Cordillera Balcánica.
 
-92. Bosques mediterráneos caducifolios.
+92. Bosques mediterráneos de hoja caduca.
 
 9210 * Hayedos de los Apeninos con Taxus e Ilex.
 
@@ -496,9 +502,9 @@ Bosques (sub)naturales de especies autóctonas, en monte alto con sotobosque tí
 
 9290 Bosques de Cupressus (Acero-Cupression).
 
-92A0 Bosques galería de Salix alba y Populus alba.
+92A0 Bosques galeria de Salix alba y Populus alba.
 
-92B0 Bosques galería de ríos de caudal intermitente mediterráneos con Rhododendron ponticum, Salix y otras.
+92B0 Formaciones ripícolas de ríos mediterráneos de caudal intermitente, con Rhododendron ponticum, Salix y otros.
 
 92C0 Bosques de Platanus orientalis y Liquidambar orientalis (Platanion orientalis).
 
@@ -510,7 +516,7 @@ Bosques (sub)naturales de especies autóctonas, en monte alto con sotobosque tí
 
 9320 Bosques de Olea y Ceratonia.
 
-9330 Alcornocales de Quercus suber.
+9330 Bosques de Quercus suber.
 
 9340 Encinares de Quercus ilex y Quercus rotundifolia.
 
@@ -532,7 +538,7 @@ Bosques (sub)naturales de especies autóctonas, en monte alto con sotobosque tí
 
 9420 Bosques alpinos de Larix decidua y/o Pinus cembra.
 
-9430 Bosques montanos y subalpinos de Pinus uncinata (* en sustratos yesoso o calcáreo).
+9430 Bosques montanos y subalpinos de Pinus uncinata (*en sustratos yesoso o calcáreo).
 
 95. Bosques de coníferas de montañas mediterráneas y macaronésicas.
 
@@ -548,10 +554,12 @@ Bosques (sub)naturales de especies autóctonas, en monte alto con sotobosque tí
 
 9560 * Bosques endémicos de Juniperus spp.
 
-9570 * Alcornocales de Quercus suber.
+9570 * Bosques de Tetraclinis articulata.
 
 9580 * Bosques mediterráneos de Taxus baccata.
 
 9590 * Bosques de Cedrus brevifolia (Cedrosetum brevifoliae).
 
-95A0 Pinares oromediterráneos de altitud.
+95A0 Pinares supra-oromediterráneos.
+
+> Se modifica por el artículo 1.1 del Real Decreto 1015/2013, de 20 de diciembre. Ref. BOE-A-2013-13432.

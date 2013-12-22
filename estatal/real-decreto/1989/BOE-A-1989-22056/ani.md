@@ -30,81 +30,79 @@ Arruí (Ammotragus lervia).
 
 Aves
 
-Ansar común (Anser anser).
+Anser fabalis.
 
-Anade real (Anas platyrhynchos).
+Anser anser.
 
-Cerceta carretona (Anas querquedula).
+Anas penelope.
 
-Cerceta común (Anas crecca).
+Anas strepera.
 
-Anade friso (Anas strepera).
+Anas crecca.
 
-Anade silbón (Anas penélope).
+Anas platyrhynchos.
 
-Anade rabudo (Anas acuta).
+Anas acuta.
 
-Pato cuchara (Anas clipeata).
+Anas querquedula.
 
-Pato colorado (Neita rufina).
+Anas clypeata.
 
-Porrón común (Aythya ferina).
+Aythya ferina.
 
-Porrón moñudo (Aythya fuligula).
+Aythya fuligula.
 
-Perdiz roja (Alectoris rufa).
+Netta rufina.
 
-Perdiz moruna (Alectoris barbara).
+Alectoris graeca.
 
-Codorniz (Coturnix coturnix).
+Alectoris rufa.
 
-Colín de Vírgina (Colinus virginianus).
+Alectoris barbara.
 
-Colín de California (Lophortix califórnica).
+Perdix perdix.
 
-Faisán (Phasianus colchicus).
+Phasianus colchicus.
 
-Focha común (Fulica atra).
+Coturnix coturnix.
 
-Avefría (Vanellus vanellus).
+Fulica atra.
 
-Becada (Scolopax rusticola).
+Vanellus vanellus.
 
-Agachadiza común (Gallinago gallinago).
+Lymnocryptes minimus.
 
-Agachadiza chica (Lymnocriptes minima).
+Gallinago gallinago.
 
-Gaviota reidora (Larus ridibundus).
+Scolopax rusticola.
 
-Gaviota argentea (Larus argentatus),
+Larus ridibundus.
 
-Gaviota patiamarilla (Larus cachinans).
+Larus cachinnans.
 
-Paloma torcaz (Columba palumbus).
+Columba livia.
 
-Paloma bravía (Columba livia).
+Columba palumbus.
 
-Paloma zurita (Columba oenas).
+Columba oenas.
 
-Tórtola común (Streptopelia turtur).
+Streptopelia turtur.
 
-Zorzal Común (Turdus philomelos).
+Turdus pilaris.
 
-Zorzal alirrojo (Turdus aliacus).
+Turdus philomelos.
 
-Zorzal real (Turdus pilaris).
+Turdus iliacus.
 
-Zorzal charlo (Turdus viscivorus).
+Turdus viscivorus.
 
-Estornino negro (Sturnus unicolor),
+Sturnus vulgaris.
 
-Estornino pinto (Sturnus vulgaris).
+Pica pica.
 
-Urraca (Pica pica).
+Corvus monedula.
 
-Grajilla (Corvus monedula).
-
-Corneja (Corvus corone).
+Corvus corone.
 
 B) ESPECIES OBJETO DE PESCA
 
@@ -163,3 +161,5 @@ Platija (Platichtys flesus)
 Invertebrados
 
 Cangrejo rojo (Procambarus clarkii).
+
+> Se modifica el apartado a) por el art. 2.1 del Real Decreto 1015/2013, de 20 de diciembre. Ref. BOE-A-2013-13432.

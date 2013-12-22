@@ -2,21 +2,21 @@
 
 ## Especies animales y vegetales de interés comunitario que requieren una protección estricta
 
-Las especies que figuran en el presente anexo están indicadas:
+Las especies que figuran en el presente anexo están indicadas:.
 
--por el nombre de la especie o subespecie, o
+– Por el nombre de la especie o subespecie, o.
 
--por el conjunto de las especies pertenecientes a un taxón superior o a una parte designada de dicho taxón.
+– por el conjunto de las especies pertenecientes a un taxón superior o a una parte designada de dicho taxón.
 
 La abreviatura «spp.» a continuación del nombre de una familia o de un género sirve para designar todas las especies pertenecientes a dicha familia o género.
 
-a) ANIMALES.
+a) Animales
 
 VERTEBRADOS.
 
 MAMÍFEROS.
 
-INSECTIVORA.
+INSECTÍVORA.
 
 Erinaceidae.
 
@@ -72,6 +72,8 @@ Mesocricetus newtoni.
 
 Microtidae.
 
+Dinaromys bogdanovi.
+
 Microtus cabrerae.
 
 Microtus oeconomus arenicola.
@@ -90,13 +92,13 @@ Hystricidae.
 
 Hystrix cristata.
 
-CARNIVORA.
+CARNÍVORA.
 
 Canidae.
 
 Alopex lagopus.
 
-Canis lupus (excepto las poblaciones griegas al norte del paralelo 39, las poblaciones estonias, las poblaciones españolas del norte del Duero; las poblaciones búlgaras, letonas, lituanas, polacas y eslovacas y las poblaciones finlandesas dentro del área de gestión del reno, según se define en el apartado 2 de la Ley finlandesa número 848/90, de 14 de septiembre de 1990, sobre a la gestión del reno).
+Canis lupus (excepto las poblaciones griegas al norte del paralelo 39, las poblaciones estonias, las poblaciones españolas del norte del Duero; las poblaciones búlgaras, letonas, lituanas, polacas y eslovacas y las poblaciones finlandesas dentro del área de gestión del reno, según se define en el apartado 2 de la Ley finlandesa nº 848/90, de 14 de septiembre de 1990, sobre a la gestión del reno).
 
 Ursidae.
 
@@ -140,7 +142,7 @@ Capra aegagrus (poblaciones naturales).
 
 Capra pyrenaica pyrenaica.
 
-Ovis gmelini musimon (Ovis ammon musimon) (poblaciones naturales - Córcega y Cerdeña).
+Ovis gmelini musimon(Ovis ammon musimon) (poblaciones naturales – Córcega y Cerdeña).
 
 Ovis orientalis ophion (Ovis gmelini ophion).
 
@@ -150,7 +152,7 @@ Rupicapra rupicapra balcanica.
 
 Rupicapra rupicapra tatrica.
 
-CETACEA.
+CETÁCEA.
 
 Todas las especies.
 
@@ -199,6 +201,10 @@ Algyroides marchi.
 Algyroides moreoticus.
 
 Algyroides nigropunctatus.
+
+Dalmatolacerta oxycephala.
+
+Dinarolacerta mosorensis.
 
 Gallotia atlantica.
 
@@ -412,7 +418,7 @@ Hydromantes (Speleomantes) genei.
 
 Hydromantes (Speleomantes) imperialis.
 
-Hydromantes (Speleomantes) strinatii (Hydromantes (Speleomantes)italicus).
+Hydromantes (Speleomantes) strinatii (Hydromantes (Speleomantes) italicus).
 
 Hydromantes (Speleomantes) supramontis.
 
@@ -476,6 +482,8 @@ Hyla meridionalis.
 
 Hyla sarda.
 
+PECES.
+
 ACIPENSERIFORMES.
 
 Acipenseridae.
@@ -518,7 +526,7 @@ INVERTEBRADOS.
 
 ARTRÓPODOS.
 
-CRUSTACEA.
+CRUSTÁCEA.
 
 Isopoda.
 
@@ -654,6 +662,8 @@ Polyommatus eroides.
 
 Proserpinus proserpina.
 
+Proterebia afra dalmata.
+
 Pseudophilotes bavius.
 
 Xylomoia strix.
@@ -782,7 +792,7 @@ Sadleriana pannonica.
 
 Theodoxus prevostianus.
 
-Theodoxus transversalis.
+Theodoxus transversales.
 
 BIVALVIA.
 
@@ -808,9 +818,9 @@ Echinoidea.
 
 Centrostephanus longispinus.
 
-b) PLANTAS.
+b) Plantas
 
-La letra b) del anexo V contiene todas las especies vegetales enumeradas en la letra b) (*) del anexo II, más las que se mencionan a continuación:
+La letra b) del anexo V contiene todas las especies vegetales enumeradas en la letra b) del anexo II (con excepción de las briofitas del AnexoII, apartado b), más las que se mencionan a continuación:
 
 PTERIDOPHYTA.
 
@@ -846,7 +856,7 @@ Moehringia fontqueri Pau.
 
 COMPOSITAE.
 
-Argyranthemum pinnatifidum (L.f.) Lowe ssp. Succulentum (Lowe) C. J. Humphries.
+Argyranthemum pinnatifidum (L.f.) Lowe subsp. succulentum (Lowe) C. J. Humphries.
 
 Helichrysum sibthorpii Rouy.
 
@@ -912,7 +922,7 @@ Fritillaria obliqua Ker-Gawl.
 
 Fritillaria rhodocanakis Orph. ex Baker.
 
-Ornithogalum reverchonii Degen & Herv.-Bass.
+Ornithogalum reverchonii Degen & Herv.–Bass.
 
 Scilla beirana Samp.
 
@@ -978,4 +988,4 @@ Viola athois W. Becker.
 
 Viola cazorlensis Gandoger.
 
-(*) Con excepción de las briofitas de la letra b) del anexo II.
+> Se modifica por el artículo 1.3 del Real Decreto 1015/2013, de 20 de diciembre. Ref. BOE-A-2013-13432.
