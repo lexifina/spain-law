@@ -6,10 +6,12 @@ a) El nuevo destino se encontrará vacante.
 
 b) Podrá ser asignado cualquiera de los de provisión por antigüedad, o bien aquellos de libre designación o de concurso de méritos cuyo componente singular del complemento específico no sea superior al del puesto que ocupa.
 
-c) Será solicitado por la afectada, debiendo acompañar a la solicitud copia de la orden de protección o, excepcionalmente y hasta tanto se dicte la misma, informe del Ministerio Fiscal que indique la existencia de indicios de que la demandante es víctima de violencia de género.
+c) Podrá ser solicitado por la afectada en cualquier momento, debiendo acompañar a la solicitud copia de la orden de protección o, excepcionalmente y hasta tanto se dicte la misma, informe del Ministerio Fiscal que indique la existencia de indicios de que la demandante es víctima de violencia de género.
 
 d) La afectada deberá reunir los requisitos necesarios para ocupar el nuevo destino.
 
 2. La asignación de estos destinos tendrá carácter de forzoso.
+
+> Se modifica el apartado 1.c) por el art. único.20 del Real Decreto 961/2013, de 5 de diciembre. Ref. BOE-A-2013-13618.
 
 > Se añade por el art. único.1 del Real Decreto 476/2007, de 13 de abril. Ref. BOE-A-2007-8709.
