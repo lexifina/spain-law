@@ -1,0 +1,7 @@
+## Disposición adicional decimoquinta. Financiación del extracoste de la actividad de producción en los sistemas eléctricos en los territorios no peninsulares.
+
+Desde el 1 de enero de 2014, los extracostes derivados de la actividad de producción de energía eléctrica cuando se desarrollen en los sistemas eléctricos aislados de los territorios no peninsulares de acuerdo a lo dispuesto en la Ley del Sector Eléctrico, serán financiados en un 50 por ciento con cargo a los Presupuestos Generales del Estado. A estos efectos, la Ley de Presupuestos Generales del Estado correspondiente a cada año incorporará un crédito presupuestario destinado a cubrir la estimación provisional de los extracostes a financiar del ejercicio así como, en su caso, el saldo resultante de la liquidación definitiva de la compensación presupuestaria correspondiente a ejercicios anteriores.
+
+Las compensaciones presupuestarias no tendrán la consideración de costes del sistema eléctrico. Reglamentariamente, con la participación de la Intervención General de la Administración del Estado, se determinará un mecanismo de control y reconocimiento de las compensaciones presupuestarias, así como el procedimiento de liquidación, tanto provisional como definitiva, de las mismas.
+
+En todo caso el sistema de liquidaciones del sistema eléctrico gestionado por el órgano encargado de la liquidación actuará como mecanismo de financiación subsidiario, teniendo, sólo a estos efectos, la naturaleza de costes del sistema eléctrico.

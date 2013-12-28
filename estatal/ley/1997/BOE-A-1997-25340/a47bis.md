@@ -30,4 +30,8 @@ Reglamentariamente se establecerá la información que los diferentes sujetos de
 
 5. La Oficina de Cambios de Suministrador remitirá con carácter anual una memoria de actividades al Ministerio de Industria, Turismo y Comercio y a la Comisión Nacional de Energía.
 
+> Téngase en cuenta que, a partir de 30 de junio de 2014, las funciones que tiene atribuidas conforme a este artículo la Oficina de cambios de suministrador serán desempeñadas por la Comisión Nacional de los Mercados y la Competencia, según establece la disposición transitoria 3 de la Ley 24/2013, de 26 de diciembre. Ref. BOE-A-2013-13645.
+
+> Téngase en cuenta que, a partir de 30 de junio de 2014, las funciones que tiene atribuidas conforme a este artículo la Oficina de cambios de suministrador serán desempeñadas por la Comisión Nacional de los Mercados y la Competencia, según establece la disposición transitoria 3 de la Ley 24/2013, de 26 de diciembre. Ref. BOE-A-2013-13645.
+
 > Se añade por el art. único.58 de la Ley 17/2007, de 4 de julio. Ref. BOE-A-2007-13024
