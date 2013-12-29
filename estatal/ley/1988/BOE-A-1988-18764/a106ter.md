@@ -12,7 +12,7 @@ d) La importancia de la entidad correspondiente, medida en función del importe 
 
 e) Las consecuencias desfavorables de los hechos para el Sistema Financiero o la Economía Nacional.
 
-f) La circunstancia de haber procedido a la substancia de la infracción por propia iniciativa.
+f) La circunstancia de haber procedido a la subsanación de la infracción por propia iniciativa.
 
 g) La reparación de los daños o perjuicios causados.
 
@@ -29,5 +29,7 @@ a) El grado de responsabilidad en los hechos que concurra en el interesado.
 b) La conducta anterior del interesado, en la misma o en otra entidad, en relación con las normas de ordenación y disciplina, tomando en consideración al efecto las sanciones firmes que le hubieran sido impuestas durante los últimos cinco años.
 
 c) El carácter de la representación que el interesado ostente.
+
+> Se modifica el apartado f) por la disposición final 6.4 de la Ley 26/2013, de 27 de diciembre. Ref. BOE-A-2013-13723.
 
 > Se añade por la disposición final 5.25 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.

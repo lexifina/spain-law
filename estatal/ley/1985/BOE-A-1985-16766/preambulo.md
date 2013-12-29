@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 74, de 27 de marzo de 1986. Ref. BOE-A-1986-7945
+Norma derogada por la disposición derogatoria.a) de la Ley 26/2013, de 27 de diciembre. Ref. BOE-A-2013-13723#dd

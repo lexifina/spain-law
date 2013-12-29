@@ -32,7 +32,7 @@ En poblaciones de más de 10.000 a 40.000 habitantes: 74.334 pesetas. (446,76 eu
 
 En las poblaciones restantes: 52.034 pesetas. (312,73 euros)
 
-Nota: Este grupo comprende las entidades de ahorro tales como la Confederación Española de Cajas de Ahorros, Cajas de Ahorro, Cajas Rurales, Cooperativas de Crédito y demás entidades análogas.
+Nota: Este grupo comprende las entidades de ahorro tales como Confederación Española de Cajas de Ahorro, Cajas de Ahorro, Cajas Rurales, Cooperativas de Crédito, Fundaciones Bancarias y demás entidades análogas.
 
 Nota común a los grupos 811 y 812: Los sujetos pasivos clasificados en estos grupos podrán desarrollar las actividades siguientes:
 
@@ -237,6 +237,8 @@ En poblaciones de más de 10.000 a 40.000 habitantes: 13.455 pesetas. (80,87 eur
 En las poblaciones restantes: 10.350 pesetas. (62,20 euros)
 
 Nota: Este epígrafe comprende las entidades financieras no especificadas en los epígrafes anteriores del Grupo «Otras instituciones financieras» (819), tales como las sociedades de financiación de ventas a plazos, sociedades y fondos de inversión mobiliaria, etc.
+
+> Se modifica la nota del grupo 812 por la disposición final 1 de la Ley 26/2013, de 27 de diciembre. Ref. BOE-A-2013-13723.
 
 > Se modifica el grupo 819 por el art. 67.1.2 de la Ley 65/1997, de 30 de diciembre. Ref. BOE-A-1997-28052.
 

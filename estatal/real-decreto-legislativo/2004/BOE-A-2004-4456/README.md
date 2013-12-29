@@ -268,6 +268,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria cuadragésima](dtcuadragesima.md)
 - [Disposición transitoria cuadragésima primera](dtcuadragesimaprimera.md)
 - [Disposición transitoria cuadragésimo segunda](dtcuadragesimosegunda.md)
+- [Disposición transitoria cuadragésima tercera](dtcuadragesimatercera.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
 - [Disposición final tercera](dftercera.md)

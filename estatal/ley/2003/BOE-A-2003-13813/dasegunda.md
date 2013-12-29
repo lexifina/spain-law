@@ -26,7 +26,11 @@ j) Ley 6/2005, de 22 de abril, sobre Saneamiento y Liquidación de las Entidades
 
 k) La Ley 9/2012, de 14 de noviembre, de reestructuración y resolución de entidades de crédito.
 
+l) El artículo 34 de la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización.
+
 3. Las normas legales mencionadas en el apartado anterior se aplicarán con el alcance subjetivo y objetivo previsto en las mismas a las operaciones o contratos que en ellas se contemplan y, en particular, las referidas a las operaciones relativas a los sistemas de pagos y de liquidación y compensación de valores, operaciones dobles, operaciones con pacto de recompra o se trate de operaciones financieras relativas a instrumentos derivados.
+
+> Se añade la letra l) al apartado 2 por la disposición final 7.1 de la Ley 26/2013, de 27 de diciembre. Ref. BOE-A-2013-13723.
 
 > Se modifica el apartado 2.k) por la disposición final 6 de la Ley 9/2012, de 14 de noviembre. Ref. BOE-A-2012-14062.
 

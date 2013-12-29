@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Adaptación de las cajas de ahorros.
+
+Las cajas de ahorros que a la entrada en vigor de esta Ley no cumplan los requisitos para continuar operando como tales, en los términos previstos en el capítulo II del título II de esta Ley, dispondrán de un plazo de seis meses para cumplir tales requisitos o, en caso contrario, para transformarse en fundación. A tal efecto, traspasarán todo el patrimonio afecto a su actividad financiera a otra entidad de crédito a cambio de acciones de esta última y se transformarán en una fundación bancaria o, en su caso, ordinaria, perdiendo su condición de entidad de crédito.

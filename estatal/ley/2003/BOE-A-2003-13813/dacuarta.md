@@ -1,6 +1,6 @@
 ## Disposición adicional cuarta. Homologación de los acuerdos de refinanciación.
 
-1. Podrá homologarse judicialmente el acuerdo de refinanciación que habiendo sido suscrito por acreedores que representen al menos el 55 por ciento del pasivo titularidad de entidades financieras, reúna en el momento de adopción del acuerdo, las condiciones del artículo 71.6 de la presente Ley relativas a designación de experto independiente y elevación a instrumento público. Por la homologación judicial los efectos de la espera pactada para las entidades financieras que lo hayan suscrito se extienden a las restantes entidades financieras acreedoras no participantes o disidentes cuyos créditos no estén dotados de garantía real.
+1. Podrá homologarse judicialmente el acuerdo de refinanciación que habiendo sido suscrito por acreedores que representen al menos el 55 por ciento del pasivo titularidad de entidades financieras, reúna en el momento de adopción del acuerdo, las condiciones del artículo 71.6 de la presente Ley relativas a designación de experto independiente y elevación a instrumento público. Por la homologación judicial los efectos de la espera pactada para las entidades financieras que lo hayan suscrito se extienden a las restantes entidades financieras acreedoras no participantes o disidentes cuyos créditos no estén dotados de garantía real. A los efectos de lo dispuesto en este apartado, los préstamos o créditos transmitidos a la Sociedad de Gestión de Activos Procedentes de la Reestructuración Bancaria, S.A. y que sean de titularidad de ésta o de quienes, por cualquier título, los adquieran de ella serán considerados como si lo fueran de entidades financieras a los efectos del cómputo de la mayoría necesaria para la homologación judicial del acuerdo de refinanciación.
 
 2. La competencia para conocer de esta homologación corresponderá al juez de lo mercantil que, en su caso, fuera competente para la declaración del concurso.
 
@@ -23,6 +23,8 @@ La resolución por la que se apruebe la homologación del acuerdo de refinanciac
 Declarado el incumplimiento, los acreedores podrán instar la declaración de concurso o iniciar las ejecuciones singulares. La sentencia que resuelva el incidente no será susceptible de recurso de apelación.
 
 7. Solicitada una homologación no podrá solicitarse otra por el mismo deudor en el plazo de un año.
+
+> Se modifica el apartado 1 por la disposición final 7.2 de la Ley 26/2013, de 27 de diciembre. Ref. BOE-A-2013-13723.
 
 > Se modifica el apartado 1 por el art. 31.2 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.
 
