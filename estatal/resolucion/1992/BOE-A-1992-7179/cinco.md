@@ -24,7 +24,7 @@ e) Autorizar el inicio de los expedientes sancionadores en aquellos casos en los
 
 f) Realizar actuaciones de comprobación e investigación cuando así lo acuerde el Director del Departamento de Inspección Financiera y Tributaria.
 
-g) Resolver el procedimiento relativo a planes de gastos correspondientes a actuaciones medioambientales y de inversiones y gastos de las comunidades titulares de montes vecinales en mano común.
+g) Resolver el procedimiento relativo a planes de gastos correspondientes a actuaciones medioambientales, de inversiones y gastos de las comunidades titulares de montes vecinales en mano común y especiales de inversión.
 
 h) Iniciar y resolver los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo. Asimismo, les corresponderá designar al Jefe de Equipo, Jefe de Unidad o funcionario que deba instruir dichos procedimientos sancionadores.
 
@@ -41,6 +41,8 @@ c) El Jefe de la Oficina Nacional de Fiscalidad Internacional designará al sust
 d) El Delegado Especial de la Agencia Tributaria designará al sustituto del Jefe de la Dependencia Regional de Inspección.
 
 e) El Jefe de la Dependencia Regional de Inspección designará al sustituto de los Inspectores Regionales Adjuntos, de los Inspectores Coordinadores y del Jefe de la Oficina Técnica.
+
+> Se modifica el punto 2 por el art. único de la Resolución de 17 de diciembre de 2013. Ref. BOE-A-2013-13729.
 
 > Se modifican los puntos 1 y 3 por el art. único.6 y 7 de la Resolución de 13 de marzo de 2013. Ref. BOE-A-2013-2811.
 
