@@ -14,20 +14,28 @@ Las dimensiones de los espacios destinados a cada uno de los datos que deben fig
 
 4. Especificaciones técnicas de los talonarios de recetas oficiales de estupefacientes para uso humano:
 
-a) Los talonarios estarán numerados y tendrán una cubierta impresa a dos tintas, en papel couché de 150 g/m2.
+a) Tamaño: 22 por 12,7 centímetros.
 
-b) Justificante de recepción de talonario, impreso a una tinta en papel Offset de 90 gramos, blanco.
+b) Cada talonario estará numerado y constará de:
 
-c) Cada talonario constará de 50 recetas numeradas, en papel químico autocopiativo, formada cada receta por la receta propiamente dicha, y una hoja de información al paciente. La receta en papel blanco y la hoja de información en color verde. Impresión a una tinta.
+1.º Cubierta: Impresa a 2/0 tintas, con solapa envolvente en falda para evitar transferencia de información entre receta y receta, sobre soporte estucado de 150 gramos.
 
-d) Tamaño de la receta aproximado: 22 por 12 centímetros para todas las recetas en soporte papel, tanto de cumplimentación manual como informatizada.
+2.º Hoja de apertura: Justificante de recepción del talonario. Ubicado tras la cubierta. Impreso a 1/0 tintas, en papel offset blanco de 90 gramos para diligencia de entrega y recibo, que incluirá el código del talonario.
 
-e) La encuadernación de los talonarios se realizará por encolado al margen izquierdo para facilitar la separación de las recetas, e incluirá el justificante de recepción del talonario.
+3.º 50 juegos de recetas numeradas y con código de barras, impresas en papel químico autocopiativo, formado cada juego por la receta propiamente dicha y una hoja de información al paciente. La receta irá impresa sobre papel de 80 gramos de color blanco, y la hoja de información al paciente sobre papel de color verde de 57 gramos.
 
-Los talonarios de recetas de estupefacientes editados por las comunidades autónomas se ajustarán al modelo que figura en este anexo sin perjuicio de las diferencias idiomáticas y de identificación que las mismas establezcan.
+c) Número de tintas de la receta: 3/0. Número de tintas de la hoja de información al paciente: 1/0.
+
+d) Encuadernación: Todo el bloque encolado y grapado al margen izquierdo. El cuerpo de las recetas llevará una línea de trepado para facilitar la separación de las mismas.
+
+e) Medidas de seguridad: Tintas luminiscentes y anticopia con microimpresión.
+
+Los talonarios de recetas de estupefacientes editados por las Comunidades Autónomas se ajustarán al modelo que figura en este anexo sin perjuicio de las diferencias idiomáticas y de identificación que las mismas establezcan.
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2012/313/15711_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2012/313/15711_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/311/13731_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2012/313/15711_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/311/13731_004.png)
+
+> Se modifica el apartado 4 y los modelos "Receta oficial de estupefacientes para uso humano" y "Hoja de información al paciente" por el art. único.2 de la Orden PRE/2436/2013, de 26 de diciembre. Ref. BOE-A-2013-13731.

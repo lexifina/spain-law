@@ -10,22 +10,28 @@ Las dimensiones de los espacios destinados a cada uno de los datos que deben fig
 
 2. Cada vale se utilizará exclusivamente para una sustancia activa estupefaciente y en medicamentos para un solo tamaño de envase.
 
-3. Especificaciones técnicas de los vales oficiales de entregas de estupefacientes para farmacias, almacenes y laboratorios:
+3. Especificaciones técnicas de los vales oficiales de entregas de estupefacientes para farmacias, almacenes y laboratorios.
 
-a) Tamaño 21 por 10,5 centímetros.
+a) Tamaño: 22 por 12,7 centímetros.
 
-b) Numeración doble en todos los vales (en matriz y vale), impresa en negro.
+b) Cada talonario estará numerado y constará de:
 
-c) Cubierta impresa a 1/1 tintas sobre papel couché de 150 g/m2.
+1.º Cubierta: Impresa a 1/0 tintas (P-2925 U), sobre soporte estucado de 150 gramos.
 
-d) En cada talonario, como página primera, una hoja en papel azul para diligencia de entrega y recibo.
+2.º Hoja de apertura: Ubicada tras la cubierta con número de talonario y código de barras. Impresa a 1/0 tintas, en papel offset blanco de 90 gramos, para diligencia de entrega y recibo.
 
-e) Cada talonario constará de 100 hojas (vales), más una adicional, impresas a 1/1 tinta en papel litos blanco de 80 g/m2.
+3.º 100 vales numerados y con código de barras impresos en papel offset de 90 gramos de color blanco.
 
-f) Pantone color azul P-2925.
+4.º Número de tintas del vale: 3/0.
 
-g) La encuadernación se realizará en hojas alzadas y cosidas con grapa. Cubierta pegada.
+c) Numeración doble en todos los vales (en matriz y vale), impresa en negro.
 
-h) Se incluirá en el proceso de fabricación la realización de medida antifalsificación de “golpe seco”.
+d) Encuadernación: Todo el bloque encolado y grapado al margen izquierdo. El cuerpo del vale llevará una línea de trepado para facilitar la separación de la matriz.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2012/313/15711_001.png)
+e) Medidas de seguridad: Tintas luminiscentes y anticopia con microimpresión.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/311/13731_001.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/311/13731_002.png)
+
+> Se modifica el apartado 3, la "Hoja para diligencia de entrega y recibo" y el "Modelo de vale" por el art. único.1 de la Orden PRE/2436/2013, de 26 de diciembre. Ref. BOE-A-2013-13731.
