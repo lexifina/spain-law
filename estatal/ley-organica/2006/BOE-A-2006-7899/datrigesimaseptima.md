@@ -1,0 +1,5 @@
+## Disposición adicional trigésima séptima. Expertos con dominio de lenguas extranjeras.
+
+Para cada curso escolar, las Administraciones educativas podrán excepcionalmente, mientras exista insuficiencia de personal docente con competencias lingüísticas suficientes, incorporar expertos con dominio de lenguas extranjeras, nacionales o extranjeros, como profesorado en programas bilingües o plurilingües, atendiendo a las necesidades de programación de la enseñanza para el desarrollo del plurilingüismo a que se refiere la disposición final séptima bis de esta Ley Orgánica. Dichos expertos deberán ser habilitados por las Administraciones educativas, que determinarán los requisitos formativos y, en su caso, la experiencia que se consideren necesarios. En cualquier caso, los expertos deberán estar en posesión del título de Doctor, Licenciado, Ingeniero, Arquitecto o el título de Grado correspondiente u otro título equivalente a efectos de docencia.
+
+> Se añade por el art. único.98 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886#aunico.

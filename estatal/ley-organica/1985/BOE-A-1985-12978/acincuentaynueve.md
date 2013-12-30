@@ -1,12 +1,12 @@
 ## Artículo cincuenta y nueve.
 
-1. El Director de los centros concertados será designado previo acuerdo entre el titular y el Consejo Escolar. El acuerdo del Consejo Escolar del centro será adoptado por mayoría absoluta de sus miembros.
+1. El director de los centros concertados será nombrado por el titular, previo informe del Consejo Escolar del centro, que será adoptado por mayoría de los miembros asistentes.
 
-2. En caso de desacuerdo, el Director será designado por el Consejo Escolar del centro de entre una terna de Profesores propuesta por el titular. El acuerdo del Consejo Escolar del centro será adoptado por mayoría absoluta de sus miembros.
+2. El mandato del director tendrá una duración de tres años. No obstante lo anterior, el titular podrá destituir al director antes de la finalización de dicho plazo cuando concurran razones justificadas de las que dará cuenta al Consejo Escolar del centro.
 
-3. El mandato del Director tendrá una duración de tres años.
+> Se modifica por la disposición final 2.4 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886.
 
-4. El cese del Director requerirá el acuerdo entre la titularidad y el Consejo Escolar del centro.
+> Téngase en cuenta el calendario de implantación regulado en la disposición final 5.
 
 > Se modifica por la disposición final 1.7 de la Ley Orgánica 10/2002, de 23 de diciembre. Ref. BOE-A-2002-25037
 

@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Requisitos para participar en concursos de méritos para selección de directores de centros públicos.
+
+Durante los cinco años siguientes a la fecha de la entrada en vigor de esta Ley Orgánica, no será requisito imprescindible, para participar en concursos de méritos para selección de directores de centros públicos, la posesión de la certificación acreditativa de haber superado el curso de formación sobre el desarrollo de la función directiva, indicada en el apartado 1, letra c), del artículo 134 de esta Ley Orgánica, si bien deberá ser tenida en cuenta como mérito del candidato que la posea.

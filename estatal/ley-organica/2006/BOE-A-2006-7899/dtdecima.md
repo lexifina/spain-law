@@ -4,4 +4,4 @@
 
 2. Los conciertos, convenios o subvenciones aplicables a los centros de educación preescolar y a los centros de educación infantil se referirán a las enseñanzas de primer ciclo de educación infantil y a las de segundo ciclo de educación infantil respectivamente.
 
-3. Los conciertos, convenios o subvenciones para los programas de garantía social se referirán a programas de cualificación profesional inicial.
+> Se suprime el apartado 3 por el art. único.105 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886.

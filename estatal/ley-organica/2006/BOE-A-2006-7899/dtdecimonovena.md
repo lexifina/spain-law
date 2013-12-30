@@ -1,3 +1,5 @@
 ## Disposición transitoria decimonovena. Procedimiento de admisión de alumnos.
 
-Los procedimientos de admisión de alumnos se adaptarán a lo previsto en el capítulo III del título II de esta Ley a partir del curso académico 2007/2008.
+(Suprimida)
+
+> Se suprime por el art. único.106 de la Ley Orgánica 8/2013, de 9 de diciembre.Ref. BOE-A-2013-12886#aunica.

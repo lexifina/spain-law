@@ -1,0 +1,19 @@
+## Artículo 111 bis. Tecnologías de la Información y la Comunicación.
+
+1. El Ministerio de Educación, Cultura y Deporte establecerá, previa consulta a las Comunidades Autónomas, los estándares que garanticen la interoperabilidad entre los distintos sistemas de información utilizados en el Sistema Educativo Español, en el marco del Esquema Nacional de Interoperabilidad previsto en el artículo 42 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
+
+Para ello, se identificarán los tipos básicos de sistemas de información utilizados por las Administraciones educativas, tanto para la gestión académica y administrativa como para el soporte al aprendizaje, y se determinarán las especificaciones técnicas básicas de los mismos y los distintos niveles de compatibilidad y seguridad en el tratamiento de los datos que deben alcanzar. Dentro de estas especificaciones, se considerarán especialmente relevantes las definiciones de los protocolos y formatos para el intercambio de datos entre sistemas de información de las Administraciones educativas.
+
+Estas medidas también irán encaminadas a potenciar y a facilitar el aprovechamiento de los registros administrativos en el marco de las estadísticas educativas estatales, para posibilitar la ampliación de la información estadística referida al alumnado, el profesorado, los centros y las gestiones educativas, lo que redundará en la mejora de las herramientas de análisis y de seguimiento de la actividad educativa y de las medidas de mejora de la calidad del Sistema Educativo Español.
+
+2. Los entornos virtuales de aprendizaje que se empleen en los centros docentes sostenidos con fondos públicos facilitarán la aplicación de planes educativos específicos diseñados por los docentes para la consecución de objetivos concretos del currículo, y deberán contribuir a la extensión del concepto de aula en el tiempo y en el espacio. Por ello deberán, respetando los estándares de interoperabilidad, permitir a los alumnos y alumnas el acceso, desde cualquier sitio y en cualquier momento, a los entornos de aprendizaje disponibles en los centros docentes en los que estudien, teniendo en cuenta los principios de accesibilidad universal y diseño para todas las personas y con pleno respeto a lo dispuesto en la normativa aplicable en materia de propiedad intelectual.
+
+3. El Ministerio de Educación, Cultura y Deporte establecerá, previa consulta a las Comunidades Autónomas, los formatos que deberán ser soportados por las herramientas y sistemas de soporte al aprendizaje en el ámbito de los contenidos educativos digitales públicos con el objeto de garantizar su uso, con independencia de la plataforma tecnológica en la que se alberguen.
+
+4. El Ministerio de Educación, Cultura y Deporte ofrecerá plataformas digitales y tecnológicas de acceso a toda la comunidad educativa, que podrán incorporar recursos didácticos aportados por las Administraciones educativas y otros agentes para su uso compartido. Los recursos deberán ser seleccionados de acuerdo con parámetros de calidad metodológica, adopción de estándares abiertos y disponibilidad de fuentes que faciliten su difusión, adaptación, reutilización y redistribución y serán reconocidos como tales.
+
+5. Se promoverá el uso, por parte de las Administraciones educativas y los equipos directivos de los centros, de las Tecnologías de la Información y la Comunicación en el aula, como medio didáctico apropiado y valioso para llevar a cabo las tareas de enseñanza y aprendizaje.
+
+6. El Ministerio de Educación, Cultura y Deporte elaborará, previa consulta a las Comunidades Autónomas, un marco común de referencia de competencia digital docente que oriente la formación permanente del profesorado y facilite el desarrollo de una cultura digital en el aula.
+
+> Se modifica por el art. único.69 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886#aunico.

@@ -2,19 +2,17 @@
 
 1. El Consejo Escolar de los centros privados concertados estará constituido por:
 
-El director.
+a) El director.
 
-Tres representantes del titular del centro.
+b) Tres representantes del titular del centro.
 
-Un concejal o representante del Ayuntamiento en cuyo término municipal se halle radicado el centro.
+c) Cuatro representantes del profesorado.
 
-Cuatro representantes de los profesores.
+d) Cuatro representantes de los padres, madres o tutores legales de los alumnos y alumnas, elegidos por y entre ellos.
 
-Cuatro representantes de los padres o tutores de los alumnos, elegidos por y entre ellos.
+e) Dos representantes de los alumnos y alumnas, elegidos por y entre ellos, a partir del primer curso de Educación Secundaria Obligatoria.
 
-Dos representantes de los alumnos elegidos por y entre ellos, a partir del primer curso de educación secundaria obligatoria.
-
-Un representante del personal de administración y servicios.
+f) Un representante del personal de administración y servicios.
 
 Una vez constituido el Consejo Escolar del centro, éste designará una persona que impulse medidas educativas que fomenten la igualdad real y efectiva entre hombres y mujeres.
 
@@ -27,6 +25,10 @@ Asimismo, los centros concertados que impartan formación profesional podrán in
 2. A las deliberaciones del consejo escolar del centro podrán asistir, con voz pero sin voto, siempre que sean convocados para informar sobre cuestiones de su competencia, los demás órganos unipersonales de acuerdo con lo que establezca el reglamento de régimen interior.
 
 3. El Consejo Escolar del centro se renovará por mitades cada dos años, sin perjuicio de que se cubran hasta dicho término las vacantes que se produzcan. Las Administraciones educativas regularán el procedimiento de renovación parcial, que se realizará de modo equilibrado entre los distintos sectores de la comunidad educativa que lo integran. Asimismo, regularán el procedimiento transitorio para la primera renovación parcial, una vez constituido el Consejo Escolar de acuerdo con lo dispuesto en la presente Ley.
+
+> Se modifica el apartado 1 por la disposición final 2.2 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886.
+
+> Téngase en cuenta el calendario de implantación regulado en la disposición final 5.
 
 > Se modifica el apartado 1 por la disposición final 1.8 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
 
