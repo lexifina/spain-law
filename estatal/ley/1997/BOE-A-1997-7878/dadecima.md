@@ -1,10 +1,12 @@
 ## Disposición adicional décima. Régimen jurídico de determinados Organismos públicos.
 
-1. La Comisión Nacional del Mercado de Valores, el Consejo de Seguridad Nuclear, las Universidades no transferidas, la Agencia Española de Protección de Datos, el Consorcio de la Zona Especial Canaria, la Comisión Nacional de los Mercados y la Competencia, el Museo Nacional del Prado y el Museo Nacional Centro de Arte Reina Sofía se regirán por su legislación específica y supletoriamente por esta Ley.
+1. La Comisión Nacional del Mercado de Valores, el Consejo de Seguridad Nuclear, las Universidades no transferidas, la Agencia Española de Protección de Datos, el Consorcio de la Zona Especial Canaria, la Comisión Nacional de los Mercados y la Competencia, el Consejo de Transparencia y Buen Gobierno, el Museo Nacional del Prado y el Museo Nacional Centro de Arte Reina Sofía se regirán por su legislación específica y supletoriamente por esta Ley.
 
 2. Los Organismos públicos a los que, a partir de la entrada en vigor de la presente Ley, se les reconozca expresamente por una Ley la independencia funcional o una especial autonomía respecto de la Administración General del Estado, se regirán por su normativa específica en los aspectos precisos para hacer plenamente efectiva dicha independencia o autonomía. En los demás extremos y, en todo caso, en cuanto al régimen de personal, bienes, contratación y presupuestación, ajustarán su regulación a las prescripciones de esta Ley, relativas a los Organismos públicos que, en cada caso resulten procedentes, teniendo en cuenta las características de cada Organismo.
 
 3. En todo caso, los Organismos públicos referidos en los apartados 1 y 2 de esta disposición adicional estarán sujetos a las disposiciones de la Ley General Presupuestaria que les sean de aplicación.
+
+> Se modifica el apartado 1 por la disposición final 4 de la Ley 19/2013, de 9 de diciembre. Ref. BOE-A-2013-12887.
 
 > Se modifica el apartado 1 por la disposición final 1 de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
 
