@@ -2,13 +2,15 @@
 
 1. La cuantía de la asignación económica a que se refiere el párrafo a del artículo 181 será, en cómputo anual, de 291 euros, salvo en los supuestos especiales que se contienen en el apartado siguiente.
 
-2. En los casos en que el hijo o menor acogido a cargo tenga la condición de minusválido, el importe de la asignación económica será, en cómputo anual, el siguiente:
+2. En los casos en que el hijo o menor acogido a cargo tenga la condición de persona con discapacidad, el importe de la asignación económica será, en cómputo anual, el siguiente:
 
 a) 1.000 euros cuando el hijo o menor acogido a cargo tenga un grado de discapacidad igual o superior al 33 por ciento.
 
-b) 4.335,60 euros, cuando el hijo a cargo sea mayor de 18 años y esté afectado por una minusvalía en un grado igual o superior al 65 por ciento.
+b) 4.390,80 euros, cuando el hijo a cargo sea mayor de 18 años y esté afectado por una discapacidad en un grado igual o superior al 65 por ciento.
 
-c) 6.504,00 euros, cuando el hijo a cargo, sea mayor de 18 años, esté afectado por una minusvalía en un grado igual o superior al 75 por ciento y, como consecuencia de pérdidas anatómicas o funcionales, necesite el concurso de otra persona para realizar los actos más esenciales de la vida, tales como vestirse, desplazarse, comer o análogos.
+c) 6.586,80 euros, cuando el hijo a cargo sea mayor de 18 años, esté afectado por una discapacidad en un grado igual o superior al 75 por ciento y, como consecuencia de pérdidas anatómicas o funcionales, necesite el concurso de otra persona para realizar los actos más esenciales de la vida, tales como vestirse, desplazarse, comer o análogos.
+
+> Se actualizan las cuantías, con efectos desde el 1 de enero de 2014, por la disposición adicional 5.1 y 2 del Real Decreto 1045/2013, de 27 de diciembre. Ref. BOE-A-2013-13763.
 
 > Se actualizan las cuantías de los apartados 1 y 2 por la disposición adicional 28.1 y 2 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
 
