@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 43, de 19 de febrero de 1999. Ref. BOE-A-1999-4184
+Norma derogada por la disposición derogatoria única.a) del Real Decreto 1047/2013, de 27 de diciembre. Ref. BOE-A-2013-13766#ddunica.

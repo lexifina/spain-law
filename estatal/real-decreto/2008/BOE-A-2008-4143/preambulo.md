@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 94, de 13 de abril de 2008. Ref. BOE-A-2008-6856.
+Norma derogada por la disposición derogatoria única.b) del Real Decreto 1047/2013, de 27 de diciembre. Ref. BOE-A-2013-13766.
