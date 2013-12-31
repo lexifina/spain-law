@@ -1,9 +1,5 @@
 ## ANEXO I
 
-> Atención: esta última actualización modifica determinadas referencias al modelo y códigos comunitarios que entrarán en vigor el 19-01-2013.
-
-> Para consultar el modelo actual véase la redacción original.
-
 ## Permiso de conducción de la Unión Europea
 
 ## A) Modelo y contenido de permiso de conducción de la Unión Europea
@@ -197,6 +193,7 @@ Códigos de la Unión Europea armonizados
 |  | 44.07 | Mandos (ajustados) (intermitentes, luz de freno…). |
 |  | 44.08 | Altura del asiento ajustada para permitir al conductor alcanzar el suelo con los dos pies en posición sentado. |
 | 45 |  | Únicamente motocicletas con sidecar. |
+| 46 |  | Únicamente triciclos. |
 | 50 |  | Limitado a un vehículo/un número de chasis específico (número de identificación del vehículo, NIV). |
 | 51 |  | Limitado a un vehículo/matrícula específicos (número de registro del vehículo, NRV). |
 
@@ -206,16 +203,15 @@ Códigos de la Unión Europea armonizados
 | --- | --- | --- |
 | 70 |  | Canje del permiso n.º … expedido por … (símbolo EU/ONU, si de trata de un tercer país); ejemplo: 70.0123456789.NL). |
 | 71 |  | Duplicado del permiso n.º ... (símbolo EU/ONU, si se trata de un tercer país); ejemplo: 71.987654321.HR). |
-| 72 |  | Limitado a los vehículos de la categoría A con una cilindrada máxima de 125 cm³ y una potencia máxima de 11 kW (A1). |
-| 73 |  | Limitado a los vehículos de la categoría B, de tipo triciclo o cuatriciclo de motor (B1). |
-| 74 |  | Limitado a los vehículos de la categoría C cuya masa máxima autorizada no sobrepase los 7500 kg (C1). |
-| 75 |  | Limitado a los vehículos de la categoría D con un máximo de 16 asientos, sin contar el del conductor (D1). |
-| 76 |  | Limitado a los vehículos de la categoría C cuya masa máxima autorizada no sobrepase los 7500 kg (C1), con un remolque cuya masa máxima autorizada exceda de 750 kg, a condición de que la masa máxima autorizada del conjunto así formado no exceda de 12000 kg y que la masa máxima autorizada del remolque no exceda de la masa en vacío del vehículo tractor (C1+E). |
-| 77 |  | Limitado a los vehículos de la categoría D con un máximo de 16 asientos, sin contar el del conductor (D1), con un remolque cuya masa máxima autorizada exceda de 750 kg a condición de que: a) la masa máxima autorizada del conjunto así formado no exceda de 12000 kg, la masa máxima autorizada del remolque no exceda de la masa en vacío del vehículo tractor, y b) el remolque no se utilice para el transporte de personas (D1+E) (Artículo 3.2 de la Directiva 91/439/CEE). |
+| 73 |  | Limitado a los vehículos de categoría B, de tipo cuatriciclo de motor (B1). |
 | 78 |  | Limitado a vehículos sin pedal de embrague (o palanca accionada manualmente para las motocicletas) (Directiva 91/439/CEE, anexo II, I.B).5.1 y anexo VII, A), 4 del Reglamento General de Conductores). |
-| 79 |  | Limitado a los vehículos que cumplen las prescripciones indicadas entre paréntesis en el marco de la aplicación del apartado 1 del artículo 10 de la Directiva 91/439/CEE. 90.01: a la izquierda. 90.02: a la derecha. 90.03: izquierda. 90.04: derecha. 90.05: mano. 90.06: pie. 90.07: utilizable. |
+| 79 |  | […] Limitado a los vehículos que cumplen las prescripciones indicadas entre paréntesis en el marco de la aplicación del artículo 13 de la presente Directiva. 79.01: Limitado a los vehículos de dos ruedas con o sin sidecar. 79.02: Limitado a los vehículos de categoría AM de tres ruedas o cuatriciclos ligeros. 79.03: Limitado a los triciclos. 79.04: Limitado a los triciclos que lleven enganchado un remolque cuya masa máxima autorizada no supere los 750 kg. 79.05: Motocicletas de categoría A1 con una relación potencia/peso superior a 0,1 kW/kg. 79.06: Vehículo de categoría BE cuya masa máxima autorizada del remolque sea superior a 3500 kg. |
+| 80 |  | Limitado a los titulares de un permiso de conducción para vehículos de categoría A de tipo triciclo de motor que no hayan alcanzado la edad de 24 años. |
+| 81 |  | Limitado a los titulares de un permiso de conducción para vehículos de categoría A de tipo motocicleta de dos ruedas que no hayan alcanzado la edad de 21 años. |
+| 90 |  | Códigos utilizados en combinación con códigos que definen modificaciones del vehículo. 90.01: a la izquierda. 90.02: a la derecha. 90.03: izquierda. 90.04: derecha. 90.05: mano. 90.06: pie. 90.07: utilizable. |
 | 95 |  | Conductor titular del CAP que satisface la obligación de aptitud profesional prevista en el artículo 3 de la Directiva 2003/59/CE, válido hasta el … [por ejemplo: 95 (01.0.12)]. |
-| 96 |  | El conductor ha cursado una formación completa o ha superado una prueba de aptitud y comportamiento conforme a lo dispuesto en el anexo V de la Directiva 2006/126/CE y en el Reglamento General de Conductores. |
+| 96 |  | Vehículos de categoría B que lleven enganchado un remolque cuya masa máxima autorizada sea superior a 750 kg, siempre que la masa máxima autorizada de esta combinación exceda de 3500 kg, pero no sobrepase los 4250 kg. |
+| 97 |  | No autorizados a conducir un vehículo de categoría C1 que entre en el ámbito de aplicación del Reglamento (CEE) n.º 3821/85 del Consejo, de 20 de diciembre de 1985, relativo al aparato de control en el sector de los transportes por carretera. |
 
 Códigos nacionales
 
@@ -232,9 +228,10 @@ Códigos nacionales
 |  | 3 | Canje de permiso extranjero. |
 |  | 4 | Es titular de otro permiso extranjero no susceptible de canje en España. |
 |  | 5 | Permiso nuevo obtenido tras haber sido declarada la pérdida de vigencia del que tuviera por haber agotado el crédito total de puntos asignados. |
-| 107 |  | Permiso de la clase AM limitado a ciclomotores de tres ruedas y cuatriciclos ligeros. |
 | 200 |  | Anexo al permiso o licencia de conducción. El titular deberá llevar un documento expedido por la Jefatura Provincial de Tráfico en el que figuran las condiciones de utilización del vehículo. |
 | 201 |  | Anexo al permiso o licencia de conducción. El permiso o licencia no serán válidos sin un documento en el que figure el texto de la resolución que determina los períodos de tiempo en los que deberá cumplirse la sanción de suspensión de la autorización. |
 | 202 |  | Limitado a la conducción de vehículos policiales y de los colectivos a los que se refiere el artículo 74.1, válido hasta el (1.1.2012) (por ejemplo: 202.01.01.2012) (artículo 74.2 Reglamento General de Conductores). |
+
+> Se modifica el apartado B) por el art. único.1 y 2 de la Orden INT/2229/2013, de 25 de noviembre. Ref. BOE-A-2013-12566.
 
 > Se modifica por el art. único de la Orden INT/1407/2012, de 25 de junio. Ref. BOE-A-2012-8674.

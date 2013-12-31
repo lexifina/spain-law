@@ -139,6 +139,8 @@ q) Aspectos elementales de la responsabilidad del conductor en lo que se refiere
 
 r) Factores y cuestiones de seguridad vial concernientes a los conductores.
 
+Los solicitantes de permiso de conducción de la clase C1 que no estén incluidos dentro del ámbito de aplicación del Reglamento (CEE) n.º 3821/1985, estarán exentos de las materias que se indican en los párrafos a), b) y c) anteriores.
+
 5.º Permiso de conducción de las clases D1 y D:
 
 a) Las materias que se indican en los párrafos a), e), f), y g), así como en los párrafos l) al p), ambos inclusive, del punto 2.4º anterior.
@@ -162,6 +164,8 @@ b) Los factores de seguridad concernientes a la carga del vehículo.
 c) Tipos, principios de funcionamiento, partes principales, conexiones, empleo y mantenimiento cotidiano de los sistemas de acoplamiento y principios a tener en cuenta en el acoplamiento y desacoplamiento de remolques y semirremolques al vehículo tractor.
 
 d) La técnica de conducción de conjuntos de vehículos.
+
+Los solicitantes de permiso de conducción de la clase C1 + E que no estén incluidos dentro del ámbito de aplicación del Reglamento (CEE) n.º 3821/1985, estarán exentos de las materias que se indican en los párrafos a), b) y c) del punto 2.4.º anterior.
 
 Los solicitantes de licencia de conducción realizarán una prueba de control de conocimientos específicos sobre normas y señales reguladoras de la circulación, cuestiones, factores, equipos y elementos de seguridad concernientes al conductor, al vehículo y, en su caso, a la carga transportada, teniendo en cuenta en cada caso el vehículo cuya conducción autoriza.
 
@@ -237,7 +241,7 @@ L) Estacionar para dejar que los pasajeros entren y salgan con seguridad.
 
 6. Previamente a la realización de las maniobras indicadas en los puntos 4 y 5, los aspirantes deberán demostrar que son capaces de prepararse para una conducción segura satisfaciendo obligatoriamente, además de las prescripciones establecidas en el punto 3. párrafos a), b) y d) para los aspirantes a la obtención del permiso de la clase B, alguna de las siguientes:
 
-a) Verificar la asistencia del frenado y la dirección; comprobar el estado de las ruedas, de sus tornillos de fijación, de los guardabarros, los parabrisas, las ventanillas y los limpiaparabrisas; comprobar y utilizar el panel de instrumentos, incluido el aparato de control regulado en el Reglamento (CEE) núm. 3821/85 del Consejo, de 20 de diciembre de 1985.
+a) Verificar la asistencia del frenado y la dirección; comprobar el estado de las ruedas, de sus tornillos de fijación, de los guardabarros, los parabrisas, las ventanillas y los limpiaparabrisas; comprobar y utilizar el panel de instrumentos, incluido el aparato de control regulado en el Reglamento (CEE) núm. 3821/85 del Consejo, de 20 de diciembre de 1985. La comprobación y utilización del tacógrafo no se aplica para los solicitantes de permiso de conducción de las clases C1 o C1 + E que no estén incluidos dentro del ámbito de aplicación del Reglamento (CEE) n.º 3821/1985.
 
 b) Comprobar la presión, los depósitos de aire y la suspensión.
 
@@ -323,9 +327,13 @@ Utilizar los sistemas de reducción de velocidad distintos del freno de servicio
 
 Adaptar la trayectoria del vehículo en las curvas, teniendo en cuenta su longitud y voladizos.
 
-Utilizar el tacógrafo, en su caso.
+Utilizar el tacógrafo, en su caso. Este requisito no se aplica para los solicitantes de permiso de conducción de las clases C1 o C1 + E que no estén incluidos dentro del ámbito de aplicación del Reglamento (CEE) n.º 3821/1985.
 
 Arrancar, cambiar, detenerse y parar con suavidad y seguridad.
+
+Comprobar el estado de las ruedas, tornillos de fijación de estas, guardabarros, parabrisas, ventanillas y limpiaparabrisas, líquidos (por ejemplo, aceite para motores, líquido refrigerador, líquido de limpieza).
+
+Conducir de forma que se garantice la seguridad y se reduzcan el consumo de combustible y las emisiones durante la aceleración, desaceleración, conducción en cuesta arriba y cuesta abajo, si procede seleccionando las marchas manualmente.
 
 5. Los aspirantes al permiso de la clase D, además de las operaciones exigidas con carácter general, deberán ser capaces de adoptar las disposiciones particulares relativas a la seguridad del vehículo y de las personas transportadas.
 
@@ -414,5 +422,7 @@ d) Extinción de incendios. Utilización de los medios disponibles: manejo de ex
 2. Los conductores que soliciten ampliación de la autorización para conducir vehículos cisterna, vehículos batería o unidades de transporte que transporten mercancías peligrosas en cisternas o contenedores cisterna, deberán poseer una formación práctica y realizar unos ejercicios prácticos sobre obturación de grietas y soluciones de emergencia en ruta frente a averías que produzcan escapes, derrames u otras emergencias, con especial atención al manejo del equipo de «tapafugas», así como sobre las operaciones de carga y descarga de cisternas, baterías de recipientes y contenedores cisterna.
 
 3. Los conductores de vehículos que soliciten ampliación de la autorización para conducir vehículos que transporten materias de las clases 1 ó 7, deberán poseer una formación práctica y realizar unos ejercicios prácticos sobre las cuestiones contenidas en el punto 1. párrafos a), b) y d), en lo que sean especialmente aplicables a las materias de las mencionadas clases.
+
+> Se modifica el apartado B) por el art. único.3 a 6 de la Orden INT/2229/2013, de 25 de noviembre. Ref. BOE-A-2013-12566.
 
 > Se modifica el apartado C) por el art.único.11 del Real Decreto 475/2013, de 21 de junio. Ref. BOE-A-2013-7422.

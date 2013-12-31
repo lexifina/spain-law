@@ -406,7 +406,7 @@ a) La inclinación para girar, los giros en U y la conservación del equilibrio 
 
 b) Control del vehículo, teniendo en cuenta: la correcta utilización de los cinturones de seguridad, los retrovisores, los reposacabezas, el asiento; el manejo correcto de las luces y demás equipos; el manejo correcto del embrague, la caja de cambios, el acelerador, los sistemas de frenado, la dirección; el control del vehículo en diferentes circunstancias, a distintas velocidades; la estabilidad en carretera; la masa, las dimensiones y características del vehículo; la masa y tipo de carga (clases B + E, C1, C1 + E, C, C + E, D1 + E y D + E únicamente); comodidad de los pasajeros (clases D1, D1 + E, D, y D + E únicamente), sin aceleraciones bruscas, suavidad en la conducción o ausencia de frenazos.
 
-c) Conducción económica y no perjudicial para el medio ambiente, teniendo en cuenta las revoluciones por minuto, el cambio de marchas, la utilización de frenos y acelerador (clases B + E, C1, C1 + E, C, C + E, D1, D1 + E, D y D + E, únicamente).
+c) Conducción económica, segura y de bajo consumo energético, teniendo en cuenta las revoluciones por minuto, el cambio de marchas, la utilización de frenos y acelerador (clases BTP, B, B + E, C1, C1 + E, C, C + E, D1, D1 + E, D y D + E, únicamente).
 
 d) Capacidad de observación: observación panorámica; utilización correcta de los espejos; visión a lo lejos, mediana, cercana.
 
@@ -453,5 +453,7 @@ El tiempo destinado a la realización de los ejercicios prácticos a que se refi
 3. Calificación de las pruebas.–Para ser declarado apto en las pruebas de control de conocimientos a que se refiere el artículo 68, los errores permitidos no serán superiores al 10 por 100 de la puntuación total de la prueba. En el supuesto de que al aplicar dicho tanto por ciento el resultado fuera decimal se aplicará el entero inmediato superior.
 
 En los ejercicios prácticos a que se refieren los artículos 64 y 68 será declarado no apto el aspirante que no demuestre manejar con dominio y soltura los diferentes medios, o no realice los ejercicios prácticos con la seguridad y precisión requeridas.
+
+> Se modifica la letra c) del apartado C).7.4 por el art. único.7 de la Orden INT/2229/2013, de 25 de noviembre. Ref. BOE-A-2013-12566.
 
 > Se modifican los puntos 1 y 2 del apartado D) por el art.único.12 del Real Decreto 475/2013, de 21 de junio. Ref. BOE-A-2013-7422.

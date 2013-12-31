@@ -18,11 +18,13 @@ En el caso de las motocicletas utilizadas para la realización de la prueba de c
 
 Los autobuses deberán estar provistos, además, de un espejo retrovisor interior que permita al aspirante observar y controlar desde su asiento la apertura y cierre de las puertas. Los espejos retrovisores exteriores de los autobuses, camiones y tractocamiones deberán estar dispuestos o complementados de forma que permitan a los examinadores observar el tráfico que se aproxime por ambos lados del vehículo.
 
-4. Estarán provistos de embrague y cambio de velocidades manual.
+4. Estarán provistos de cambio de velocidades manual.
 
-Si el aspirante realiza la prueba de control de aptitudes y comportamientos con un vehículo sin pedal de embrague, o palanca accionada manualmente en el caso de las motocicletas, esta circunstancia se indicará en el permiso de conducción y sólo habilitará para la conducción de un vehículo de estas características.
+Se entenderá por «vehículo equipado con un cambio de velocidades manual» aquel que esté equipado con pedal de embrague, o palanca accionada manualmente en el caso de las motocicletas, que deberá ser accionado por el conductor en el momento del arranque o la parada del vehículo y del cambio de marchas. Los vehículos que no cumplan estos criterios serán considerados de cambio automático.
 
-Se entenderá por «vehículo con cambio de velocidades automático» aquel que no esté equipado con pedal de embrague, o palanca accionada manualmente en el caso de las motocicletas.
+Si el aspirante realiza la prueba de control de aptitudes y comportamientos con un vehículo de cambio automático, esta circunstancia se indicará en el permiso de conducción y sólo habilitará para la conducción de un vehículo de estas características.
+
+No obstante lo dispuesto en el párrafo anterior, no se indicará ninguna restricción a los vehículos con cambio automático en el permiso de conducción de las clases C, C + E, D o D + E, si el solicitante ya es titular de un permiso de conducción obtenido con un vehículo de cambio de velocidades manual en, al menos, una de las clases siguientes: B, B + E, C1, C1 + E, C, C + E, D1, D1 + E, D o D + E y haya efectuado durante la prueba de control de aptitudes y comportamientos en circulación en vía abiertas al tráfico general, las operaciones descritas en el último inciso del anexo V. B). 4. 4.
 
 5. Los turismos, los camiones, los tractocamiones y los autobuses estarán provistos, además, de dobles mandos de freno, embrague y acelerador suficientemente eficaces y de un dispositivo acoplado a los pedales del doble mando, que deberá conectar el profesor o el acompañante al inicio de la prueba de control de aptitudes y comportamientos en circulación en vías abiertas al tráfico general y que acuse de forma eficaz cualquier utilización de dichos pedales por el profesor o acompañante mediante una señal acústica y otra óptica, de color rojo, visible en el tablero de instrumentos cuando sea accionado. Este dispositivo contará, además, con una luz adicional de color verde que permanecerá encendida cuando esté conectado. La intensidad y posición de las señales ópticas y acústicas en el tablero de instrumentos del vehículo deberá ser la adecuada, de forma tal que sean fácilmente perceptibles por el examinador.
 
@@ -52,9 +54,17 @@ c) Una caja en la que la plataforma o batea y al menos una parte de las caras la
 
 2. Para el permiso de la clase AM, ciclomotores de dos ruedas, y cuatriciclos ligeros con carrocería cerrada para el de la clase AM limitado a la conducción de ciclomotores de tres ruedas y cuatriciclos ligeros.
 
-3. Para el permiso de la clase A1, motocicletas de dos ruedas simples sin sidecar de cilindrada no inferior a 120 cm³ ni superior a 125 cm³, con una potencia máxima de 11 kW y una relación potencia/peso no superior a 0,1 kW/kg y que alcancen una velocidad de, al menos, 90 km/h.
+3. Para el permiso de la clase A1 motocicletas de dos ruedas simples sin sidecar.
 
-4. Para el permiso de la clase A2, motocicletas de dos ruedas simples de, al menos 16 pulgadas, sin sidecar de cilindrada no inferior a 400 cm³, con una potencia no inferior a 25 kW ni superior a 35 kW y una relación potencia/peso no superior a 0,2 kW/kg.
+Si están propulsadas por un motor de combustión interna deberán tener una cilindrada no inferior a 115 cm³ ni superior a 125 cm³, una potencia máxima de 11 kW y una relación potencia/peso no superior a 0,1 kW/kg y que alcancen una velocidad de, al menos, 90 km/h.
+
+Si están propulsadas por un motor eléctrico la relación potencia/peso será, al menos, de 0,08 kW/kg.
+
+4. Para el permiso de la clase A2, motocicletas de dos ruedas simples de, al menos 16 pulgadas en la rueda delantera, sin sidecar.
+
+Si están propulsadas por un motor de combustión interna, deberán tener una cilindrada no inferior a 395 cm³, una potencia no inferior a 20 kW ni superior a 35 kW y una relación potencia/peso no superior a 0,2 kW/kg.
+
+Si están propulsadas por un motor eléctrico, la relación potencia/peso será, al menos, de 0,15 kW/kg.»
 
 5. Para el permiso de la clase B, turismos de carrocería cerrada, dos puertas en cada lateral, cuatro ruedas, longitud mínima de 3,50 metros y una masa máxima autorizada no superior a 3.500 kg. Deberán estar provistos de reposacabezas en los asientos delanteros y traseros.
 
@@ -68,11 +78,11 @@ Para el permiso de la clase B con autorización para conducir conjuntos de vehí
 
 9. Para el permiso de la clase C1 + E, un conjunto compuesto por un camión de las características establecidas en el número 8 anterior y un remolque de masa máxima autorizada no inferior a 2.500 kg y longitud, excluida la lanza o el sistema de enganche o acoplamiento, no inferior a 4 metros. La masa máxima autorizada del conjunto así formado no deberá exceder de 12.000 kg. La caja puede ser también ligeramente menos ancha que el vehículo tractor, a condición de que la visión trasera sólo sea posible utilizando los retrovisores exteriores de la cabina del vehículo tractor. El remolque deberá tener un peso total real mínimo de 800 kg.
 
-10. Para el permiso de la clase C, camiones de masa máxima autorizada no inferior a 12.000 kg con una longitud de al menos 8 metros y una anchura de al menos 2,40 metros, equipado con una caja de cambios de al menos ocho marchas hacia delante. El peso total real mínimo será de 10.000 kg.
+10. Para el permiso de la clase C, camiones de masa máxima autorizada no inferior a 12000 kg con una longitud de al menos 8 metros y una anchura de al menos 2,40 metros, equipado con un sistema de transmisión que permita la selección manual de las velocidades por el conductor. El peso total real mínimo será de 10000 kg.
 
 11. Para el permiso de la clase C + E:
 
-a) Un vehículo articulado compuesto por un tractocamión equipado con una caja de cambios de al menos ocho marchas hacia delante y un semirremolque. El conjunto deberá tener una masa máxima autorizada no inferior a 21.000 kg, una longitud de al menos 14 metros y una anchura de al menos 2,40 metros. El peso total real mínimo del conjunto será de 15.000 kg.
+a) Un vehículo articulado compuesto por un tractocamión equipado con un sistema de transmisión que permita la selección manual de las velocidades por el conductor y un semirremolque. El conjunto deberá tener una masa máxima autorizada no inferior a 21000 kg, una longitud de al menos 14 metros y una anchura de al menos 2,40 metros. El peso total real mínimo del conjunto será de 15000 kg.
 
 b) O bien un tren de carretera compuesto por un camión de las características establecidas en el número 10 anterior y un remolque de longitud, excluida la lanza o el sistema de enganche o acoplamiento, no inferior a 7,5 metros. El conjunto deberá tener una masa máxima autorizada no inferior a 21.000 kg y una anchura de al menos 2,40 metros. El peso total real mínimo del conjunto será de 15.000 kg.
 
@@ -92,6 +102,6 @@ El compartimento de carga del remolque tendrá al menos 2 metros de ancho y 2 me
 
 17. Para la licencia de conducción que autorice a conducir los vehículos especiales agrícolas autopropulsados a que se refiere el artículo 6.1.b) se utilizará un conjunto compuesto por un tractor agrícola de ruedas, que tenga una masa en vacío superior a 1.000 kg y una longitud mínima de 3 metros, y un remolque agrícola de anchura no inferior a 2 metros, longitud, excluida la lanza, no inferior a 4 metros y una masa máxima autorizada superior a 750 kg.
 
-18. Como excepción a lo dispuesto en el apartado A). 4, para el permiso de las clases AM y A1 se podrán utilizar vehículos con cambio automático.
+18. Como excepción a lo dispuesto en el apartado A). 7, para el permiso de las clases C1 + E, D1 + E y D + E, se podrán utilizar remolques de ejes centrales fijos.
 
-19. Como excepción a lo dispuesto en el apartado A). 7, para el permiso de las clases C1 + E, D1 + E y D + E, se podrán utilizar remolques de ejes centrales fijos.
+> Se modifica por el art. único.8 a 11 de la Orden INT/2229/2013, de 25 de noviembre. Ref. BOE-A-2013-12566.

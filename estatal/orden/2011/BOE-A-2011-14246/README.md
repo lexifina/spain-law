@@ -17,6 +17,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 4](a4.md)
 - [Artículo 5](a5.md)
 - [Disposición adicional única](daunica.md)
+- [Disposición transitoria única](dtunica.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
