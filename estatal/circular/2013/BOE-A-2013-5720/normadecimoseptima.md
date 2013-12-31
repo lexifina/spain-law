@@ -1,0 +1,5 @@
+## Norma decimoséptima. Cesión de datos a la Central de Información de Riesgos de las Entidades Locales.
+
+1. El Banco de España enviará a la Central de Información de Riesgos de las Entidades Locales la siguiente información declarada a nombre de titulares de riesgos, directos e indirectos, que pertenezcan a los sectores Administraciones Locales españolas o sean entidades dependientes de dichas administraciones: datos que identifican a las personas, datos básicos de las operaciones y de las relaciones con las personas, datos dinámicos de las operaciones en las que intervengan, datos sobre tipos de interés y datos básicos que vinculan códigos. Adicionalmente, también enviará los datos que relacionan a los titulares con las entidades que integran el sector público de la Administración Local española.
+
+2. Los datos de los módulos no periódicos se enviarán al cierre del proceso del mes en el que se declare su alta o actualización, y los datos dinámicos de las operaciones, mensualmente al cierre de cada proceso.
