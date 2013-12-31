@@ -1,0 +1,31 @@
+## Artículo 104 bis. Personal eventual de las Entidades Locales.
+
+1. Las dotaciones de puestos de trabajo cuya cobertura corresponda a personal eventual en los Ayuntamientos deberán ajustarse a los siguientes límites y normas:
+
+a) Los Municipios de población entre 2.000 a 5.000 habitantes podrán excepcionalmente contar con un puesto de trabajo cuya cobertura corresponda a personal eventual cuando no haya miembros de la corporación local con dedicación exclusiva.
+
+b) Los Ayuntamientos de Municipios con población superior a 5.000 y no superior a 10.000 habitantes podrán incluir en sus plantillas puestos de trabajo de personal eventual por un número que no podrá exceder de uno.
+
+c) Los Ayuntamientos de Municipios con población superior a 10.000 y no superior a 20.000 habitantes podrán incluir en sus plantillas puestos de trabajo de personal eventual por un número que no podrá exceder de dos.
+
+d) Los Ayuntamientos de Municipios con población superior a 20.000 y no superior a 50.000 habitantes podrán incluir en sus plantillas puestos de trabajo de personal eventual por un número que no podrá exceder de siete.
+
+e) Los Ayuntamientos de Municipios con población superior a 50.000 y no superior a 75.000 habitantes podrán incluir en sus plantillas puestos de trabajo de personal eventual por un número que no podrá exceder de la mitad de concejales de la Corporación local.
+
+f) Los Ayuntamientos de Municipios con población superior a 75.000 y no superior a 500.000 habitantes podrán incluir en sus plantillas puestos de trabajo de personal eventual por un número que no podrá exceder del número de concejales de la Corporación local.
+
+g) Los Ayuntamientos de Municipios con población superior a 500.000 habitantes podrán incluir en sus plantillas puestos de trabajo de personal eventual por un número que no podrá exceder al 0,7 por ciento del número total de puestos de trabajo de la plantilla de las respectivas Entidades Locales, considerando, a estos efectos, los entes que tengan la consideración de Administración pública en el marco del Sistema Europeo de Cuentas.
+
+2. El número de puestos de trabajo cuya cobertura corresponda a personal eventual en las Diputaciones provinciales será el mismo que el del tramo correspondiente a la Corporación del Municipio más poblado de su Provincia. En el caso de los Consejos y Cabildos insulares, no podrá exceder de lo que resulte de aplicar el siguiente criterio: en las islas con más de 800.000 habitantes, se reduce en 2 respecto al número actual de miembros de cabildo, y, en las de menos de 800.000 habitantes, el 60% de los cargos electos en cada Cabildo o Consejo Insular.
+
+3. El resto de Entidades Locales o de sus organismos dependientes no podrán incluir en sus respectivas plantillas, puestos de trabajo cuya cobertura corresponda a personal eventual.
+
+4. El personal eventual al que se refieren los apartados anteriores tendrá que asignarse siempre a los servicios generales de las Entidades Locales en cuya plantilla aparezca consignado. Solo excepcionalmente podrán asignarse, con carácter funcional, a otros de los servicios o departamentos de la estructura propiade la Entidad Local, si así lo reflejare expresamente su reglamento orgánico.
+
+5. Las Corporaciones locales publicarán semestralmente en su sede electrónica y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial el número de los puestos de trabajo reservados a personal eventual.
+
+6. El Presidente de la Entidad Local informará al Pleno con carácter trimestral del cumplimiento de lo previsto en este artículo.
+
+> Se añade por el art. 1.28 de la Ley 27/2013, de 27 de diciembre. Ref. BOE-A-2013-13756.
+
+> Téngase en cuenta para la aplicación de las limitaciones referidas al número de personal eventual con dedicación exclusiva, la disposición transitoria décima de la citada Ley.

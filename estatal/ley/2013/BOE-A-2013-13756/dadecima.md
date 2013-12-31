@@ -1,0 +1,3 @@
+## Disposición adicional décima. Convenios de colaboración entre el Estado y las Entidades Locales.
+
+Los convenios de colaboración que el Estado celebre con las Entidades Locales para la obtención y mantenimiento de la información que debe suministrarles para la aplicación de los tributos locales se regularán por lo dispuesto en su normativa específica. Dichos convenios, que podrán celebrarse en régimen de encomienda de gestión, de delegación de competencias o mixto, no comportarán la transferencia de medios materiales ni personales, ni contraprestación económica de ningún tipo entre las partes por cuanto permiten mejorar la recaudación tributaria de las Entidades Locales que los suscriben.
