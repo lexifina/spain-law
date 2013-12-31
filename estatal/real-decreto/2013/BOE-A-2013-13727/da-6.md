@@ -1,0 +1,7 @@
+## Disposición adicional sexta. Ejercicio económico.
+
+De conformidad con lo previsto en el apartado 9 del artículo 1 del Real Decreto-ley 15/2013, de 13 de diciembre, la fecha de efectos contables de la escisión de la rama de actividad prevista en el mismo, será el día 1 de enero de 2013. El Administrador de Infraestructuras Ferroviarias (ADIF) y ADIF-Alta Velocidad reconocerán en sus registros contables, a la fecha de creación de la nueva entidad pública empresarial, los efectos retroactivos de la escisión, de acuerdo con los criterios que se fijen en la orden del Ministro de Fomento prevista en el apartado 5 del mencionado artículo.
+
+En consecuencia, el primer ejercicio económico de ADIF-Alta Velocidad comenzará el 1 de enero de 2013 y finalizará el 31 de diciembre de ese mismo año.
+
+En todo caso, lo previsto en el párrafo anterior no supone la asunción por parte de ADIF-Alta Velocidad de obligaciones frente a terceros con anterioridad a su creación. Asimismo, las transacciones que, como consecuencia de lo previsto en el párrafo anterior, deban registrar en su contabilidad ambas entidades públicas empresariales para reconocer los efectos de la escisión con fecha 1 de enero de 2013, no devengarán ningún tributo, con la excepción de su consideración a los efectos de la determinación de la base imponible del Impuesto sobre Sociedades de cada una de las entidades correspondiente al ejercicio 2013.
