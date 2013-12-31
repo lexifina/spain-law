@@ -56,9 +56,19 @@ Contraseña de homologación.–Si se trata de vehículos homologados, se consig
 
 Fecha de primera matriculación.–Se anotará la fecha de matriculación del vehículo, salvo en el caso en que el vehículo haya tenido anteriormente otras matrículas, en que se hará constar la fecha de primera matriculación que figura en el permiso de circulación.
 
-Matrícula actual.–Se hará constar la matrícula que figure en el permiso de circulación del vehículo, consignado los caracteres, números y letras, sin dejar espacio entre ellos.
+Matrícula actual.–Se hará constar la matrícula que figure en el permiso de circulación del vehículo, consignado los caracteres, números y letras, sin dejar espacio entre ellos. Igualmente se hará constar el símbolo del país de matriculación.
+
+> Téngase en cuenta que esta última redacción de la "Matrícula actual" entra en vigor el 31 de diciembre de 2013.
+
+> Redacción vigente:
+
+> Matrícula actual.–Se hará constar la matrícula que figure en el permiso de circulación del vehículo, consignado los caracteres, números y letras, sin dejar espacio entre ellos.
 
 Número de bastidor.–Se hará constar el número de bastidor del vehículo.
+
+Lectura del cuentakilómetros.–Se hará constar la lectura del cuentakilómetros en el momento de la inspección, si se dispone de ella.
+
+> Téngase en cuenta que la incorporación del texto "Lectura del cuentakilómetros" entra en vigor el 31 de diciembre de 2013.
 
 B. Alcance y trazabilidad de la inspección.
 
@@ -78,8 +88,8 @@ Se hará constar, según el caso, si la inspección ha sido considerada como fav
 
 En el apartado observaciones, la estación ITV hará constar otros aspectos que considere necesarios para completar el informe de inspección. Si el resultado de la inspección fuese desfavorable, en este apartado se hará constar que el vehículo queda inhabilitado para circular por las vías públicas, excepto para su traslado al taller o para la regularización de su situación y vuelta a la estación ITV para nueva inspección. Cuando la inspección haya sido calificada como negativa, en este apartado se hará constar que ello obliga a trasladar el vehículo por medios ajenos al mismo.
 
-## APÉNDICE 1 AL ANEXO IV
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/87/03808_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2008/69/05378_002.png)
+> Téngase en cuenta que esta última actualización del apendice 1 entra en vigor el 31 de diciembre de 2013.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2008/69/05378_003.png)
+> Se modifica la parte II.A y se sustituye el apéndice 1 por el art. único de la Orden IET/562/2013, de 8 de abril. Ref. BOE-A-2013-3808.
