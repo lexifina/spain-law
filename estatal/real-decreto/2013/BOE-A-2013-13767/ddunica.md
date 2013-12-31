@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido por el presente real decreto y en particular, el Real Decreto 222/2008, de 15 de febrero, por el que se establece el régimen retributivo de la actividad de distribución de energía eléctrica, salvo la disposición adicional cuarta y los artículos 44, 45, 47, 49, 50 y 51 del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica.

@@ -1,0 +1,57 @@
+La Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, establecía en sus artículos 11 y 16 que la distribución de energía eléctrica tiene carácter de actividad regulada, cuyo régimen económico será objeto de desarrollo reglamentario por parte del Gobierno, mediante la aplicación de principios comunes en todo el territorio. Esta actividad de distribución de energía eléctrica se configura en la ley con carácter de monopolio natural, como una actividad regulada que tiene como fin la transmisión de energía desde las redes de transporte y los generadores embebidos en la misma a los consumidores de energía eléctrica, todo ello con unos niveles de calidad apropiados, con unos niveles de pérdidas de energía razonables y todo ello al mínimo coste para el sistema eléctrico.
+
+Tras la aprobación de la Ley 54/1997, de 27 de noviembre; el Real Decreto 2819/1998, de 23 de diciembre, por el que se regulan las actividades de transporte y distribución de energía eléctrica, estableció el régimen económico de la actividad de distribución de energía eléctrica, que se aplicó hasta el año 2008 inclusive.
+
+Dicho régimen adolecía de deficiencias relevantes derivadas del hecho de que los incrementos anuales de la retribución de la actividad de distribución se establecían a nivel global sin tener en cuenta las especificidades de las redes en cada zona geográfica y de la ausencia de incentivos a la mejora de la calidad, y a la reducción de pérdidas.
+
+Como consecuencia de aquellas necesidades el Gobierno aprobó el Real Decreto 222/2008, de 15 de febrero, por el que se establece el régimen retributivo de la actividad de distribución de energía eléctrica. Este real decreto establecía una nueva metodología retributiva que se apoyaba en contabilidad regulatoria y en un Modelo de Red de Referencia.
+
+El desarrollo de dicho real decreto cubrió los objetivos de desvincular los incrementos retributivos de cada una de las empresas del crecimiento medio de la demanda y de crear incentivos para la mejora de la calidad del servicio y la reducción de pérdidas a través del desarrollo de los mismos mediante la Orden ITC/3801/2008, de 26 de diciembre, por la que se revisan las tarifas eléctricas a partir de 1 de enero de 2009 y la Orden ITC/2524/2009, de 8 de septiembre, por la que se regula el método de cálculo del incentivo o penalización para la reducción de pérdidas a aplicar a la retribución de la distribución para cada una de las empresas distribuidoras de energía eléctrica, respectivamente.
+
+No obstante lo anterior, diversos problemas tanto en la aplicación como en la formulación de este real decreto durante el periodo regulatorio 2009-2012 ha generado incertidumbre,, hecho que resulta desfavorable tanto para las empresas distribuidoras como para el conjunto del sistema al no poderse cuantificar a priori el coste de la actividad.
+
+Así, en dicho Real Decreto no se había previsto que los activos se fueran amortizando, por lo que se retribuía la totalidad del activo bruto de aquellas instalaciones puestas en servicio durante el periodo 2009-2012 y el activo neto a 31 de diciembre de 2008 de aquellas instalaciones puestas en servicio hasta ese año, en lugar del activo neto al cierre de cada ejercicio. Asimismo, dicho real decreto, en algunos casos, no precisó de manera clara a partir de qué conceptos y de qué forma habría de calcularse el nivel de retribución base al inicio de cada periodo regulatorio.
+
+Este régimen retributivo se modificó por el Real Decreto-ley 13/2012, de 30 de marzo, por el que se transponen directivas en materia de mercados interiores de electricidad y gas y en materia de comunicaciones electrónicas, y por el que se adoptan medidas para la corrección de las desviaciones por desajustes entre los costes e ingresos de los sectores eléctrico y gasista, el cual estableció en su artículo 5 que el Ministerio de Industria, Energía y Turismo elevaría al Gobierno para su aprobación una propuesta de real decreto que vinculase la retribución por inversión de las instalaciones de distribución a los activos en servicio no amortizados así como que el devengo y el cobro de la retribución generada por instalaciones de transporte puestas en servicio el año n se iniciará desde el 1 de enero del año n+2.
+
+Por otra parte, el Real Decreto-ley 2/2013, de 1 de febrero, de medidas urgentes en el sistema eléctrico y en el sector financiero, establece en su artículo 1 que con efectos desde el 1 de enero de 2013, en todas las metodologías que, estando vinculadas al Índice de Precios de Consumo, rigen la actualización de las retribuciones, tarifas y primas que perciban los sujetos del sistema eléctrico por aplicación de la normativa sectorial, se sustituirá dicho índice por el Índice de Precios de Consumo a impuestos constantes sin alimentos no elaborados ni productos energéticos.
+
+El Real Decreto-ley 9/2013, de 12 de julio, por el que se adoptan medidas urgentes para garantizar la estabilidad financiera del sistema eléctrico ha supuesto la introducción de un nuevo principio retributivo al referenciar la tasa de retribución al rendimiento de las Obligaciones del Estado a 10 años y ha establecido una metodología de retribución transitoria hasta el inicio del primer periodo regulatorio al amparo del contenido del presente real decreto que se elabora en cumplimiento de lo dispuesto en el artículo 5 del citado Real Decreto-ley 13/2012, de 30 de marzo.
+
+Finalmente, la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, establece en su artículo 14 que las metodologías de retribución de las actividades de transporte y distribución se establecerán reglamentariamente atendiendo a los costes necesarios para construir, operar y mantener las instalaciones de acuerdo al principio de realización de la actividad al mínimo coste para el sistema eléctrico.
+
+Asimismo en esta ley se establecen y consolidan los siguientes principios retributivos que se aplican en el presente real decreto:
+
+a) El devengo y el cobro de la retribución generado por instalaciones distribución puestas en servicio el año n se iniciará desde el 1 de enero del año n+2.
+
+b) La retribución en concepto de inversión se hará para aquellos activos en servicio no amortizados tomando como base para su retribución financiera el valor neto de los mismos.
+
+c) Al efecto de permitir una retribución adecuada a la de una actividad de bajo riesgo, la tasa de retribución financiera del activo con derecho a retribución a cargo del sistema eléctrico estará referenciado al rendimiento de las Obligaciones del Estado a diez años en el mercado secundario incrementado con un diferencial adecuado.
+
+d) La metodología de retribución de la actividad de distribución deberá contemplar incentivos económicos, que podrán tener signo positivo o negativo, para la mejora de la calidad de suministro, la reducción de pérdidas y la disminución del fraude.
+
+e) El Gobierno establecerá los criterios generales de redes y los criterios de funcionamiento de las instalaciones de producción de energía eléctrica sujetas a retribución regulada. Las metodologías retributivas que se establezcan con cargo a los ingresos del sistema eléctrico tendrán únicamente en consideración los costes derivados de aplicación de dichos criterios.
+
+f) Se fijan parámetros de retribución de la actividad de distribución, como en el resto de actividades reguladas, por períodos regulatorios que tienen una vigencia de seis años.
+
+Recogiendo todos los principios antes señalados, el presente real decreto establece una formulación para retribuir los activos de distribución con una metodología clara, estable y predecible que contribuya a aportar estabilidad regulatoria y con ello se reduzcan los costes de financiación de la actividad de distribución y con ellos los del sistema eléctrico.
+
+El nuevo modelo introduce un límite máximo a la inversión reconocida anualmente con dos años de anterioridad a la percepción de la retribución debida a estas actuaciones, con el fin de aportar una previsión razonable de la evolución de los costes del sistema motivados por esta actividad y con el fin de emitir una señal de estabilidad que garantice la inversión de las empresas distribuidoras y de vincular la retribución al plan de inversiones presentado y a las inversiones finalmente ejecutadas.
+
+Por otra parte, y puesto que la actividad de distribución tiene carácter de monopolio natural mediante este real decreto se introducen parámetros y se establecen formulaciones que permitan lograr aumentos de eficiencia tanto en la construcción de las infraestructuras como en la operación y mantenimiento de las redes.
+
+Respecto a los incentivos, se ha realizado una reformulación de los mismos con el fin de lograr una mayor sencillez en su aplicación, establecer a cada una de las empresas un incentivo a mejorar los objetivos marcados por ellas mismas los años anteriores en lo relativo a calidad de servicio como a la mejora de las pérdidas en su red.
+
+Como consecuencia del aumento en el fraude de energía eléctrica se ha introducido un nuevo incentivo a las empresas distribuidoras para lograr una disminución de fraude de energía puesto que son estas empresas las titulares de las redes y las encargadas de lectura.
+
+En el Capítulo VII se recoge el régimen de acometidas eléctricas y demás actuaciones necesarias para atender el suministro eléctrico, todo ello con el fin de agrupar bajo el mismo real decreto todos los ingresos que perciben las empresas distribuidoras de energía eléctrica. Como consecuencia de ello, se ha derogado expresamente los preceptos que anteriormente regulaban dichos pagos en el Real Decreto 1955/2000, de 1 de, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica Asimismo, en este capítulo se ha introducido un pago por estudio de conexión y un pago por estudio de acceso a la red de distribución que será sufragado por los productores de energía eléctrica por la realización de dichos estudios para las instalaciones de generación.
+
+Finalmente, cabe señalar que en la presente norma se establece que el inicio del primer periodo regulatorio se producirá el 1 de enero siguiente al de aprobación de la orden ministerial que fije los valores unitarios de referencia, hito que marcará el fin del periodo transitorio en que es de aplicación la metodología transitoria del Real Decreto-ley 9/2013, de 12 de julio.
+
+De acuerdo con lo previsto en la disposición adicional undécima.Tercero,1. Quinta de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, en el artículo 5 y en las disposiciones adicionales primera y segunda, así como en la disposición transitoria tercera de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia el presente real decreto ha sido informado por la Comisión Nacional de Energía y, para la elaboración de este informe se han tomado en consideración las observaciones y comentarios del Consejo Consultivo de Electricidad de dicha comisión, a través del cual se ha evacuado el trámite de audiencia y consultas a las comunidades autónomas.
+
+La Comisión Delegada del Gobierno para Asuntos Económicos ha informado este real decreto en su reunión del día 19 de diciembre de 2013.
+
+En su virtud, a propuesta del Ministro de Industria, Energía y Turismo, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 27 de diciembre de 2013,
+
+DISPONGO:
