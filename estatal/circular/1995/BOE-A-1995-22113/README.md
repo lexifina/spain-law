@@ -8,27 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2013-12-31 by BOE-A-2013-5720. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no](no.md)
-- [preambulo](preambulo.md)
-- [Norma primera](normaprimera.md)
-- [Norma segunda](normasegunda.md)
-- [Norma tercera](normatercera.md)
-- [Norma cuarta](normacuaa.md)
-- [Norma quinta](normaquinta.md)
-- [Norma sexta](normasexta.md)
-- [Norma séptima](normaseptima.md)
-- [Norma octava](normaoctava.md)
-- [Norma novena](normanovena.md)
-- [Norma décima](normadecima.md)
-- [Norma undécima](normaundecima.md)
-- [Norma transitoria](normatransitoria.md)
-- [firma](firma.md)
-- [ANEJO I](anejoi.md)
-- [ANEJO II](anejoii.md)
-- [ANEJO III](anejoiii.md)
-- [ANEJO IV](anejoiv.md)
-- [ANEJO IV bis](anejoivbis.md)
-- [ANEJO V](anejov.md)
-- [ANEJO VI](anejovi.md)
+- [BOE publisher notice](no.md)
