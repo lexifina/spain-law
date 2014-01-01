@@ -172,31 +172,51 @@ Uno. Los procedimientos que se relacionan a continuación podrán entenderse des
 
 85. Procedimiento para la autorización de devolución o condonación de derechos de importación o de exportación, previsto en los artículos 878 a 909, ambos inclusive, del Reglamento (CE) n.º 2454/1993, de la Comisión, de 2 de julio de 1993, de aplicación del Código Aduanero Comunitario.
 
-86. Procedimiento de autorización para no expedir factura, de acuerdo con lo previsto en el artículo 3.1.d) del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
+86. Procedimiento de autorización para no expedir factura, de acuerdo con lo previsto en el artículo 3.1.d) del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.
 
-87. Procedimiento de autorización para que la obligación de expedir factura pueda ser cumplida mediante la expedición de tique, de acuerdo con lo previsto en el artículo 4.1.ñ) del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
+87. Procedimiento de autorización para que la obligación de expedir factura pueda ser cumplida mediante la expedición de factura simplificada, de acuerdo con lo previsto en el artículo 4.3 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.
 
-88. Procedimiento de autorización para que la expedición de facturas o documentos sustitutivos se realice por el destinatario de la operación o por un tercero que no esté establecido en la Comunidad Europea, salvo que se encuentre establecido en Canarias, Ceuta o Melilla o en un país con el cual exista un instrumento jurídico relativo a la asistencia mutua, todo ello de acuerdo con lo previsto en el artículo 5.4 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
+88. Procedimiento de autorización para que en las facturas simplificadas no consten determinadas menciones del artículo 7.1 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, de acuerdo con lo previsto en el artículo 7.4.b) del citado reglamento.
 
-89. Procedimiento de autorización para que en la factura no consten todas las menciones contenidas en el artículo 6.1 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre, de acuerdo con lo previsto en el artículo 6.7 del citado reglamento
+89. (Derogado)
 
-90. Procedimiento de autorización para que pueda excepcionarse el límite de 100 euros para la no consignación en la factura de los datos de identificación del destinatario, de acuerdo con lo previsto en el artículo 6.8 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
+90. (Derogado)
 
-91. Procedimiento de autorización para que en las facturas rectificativas no sea necesaria la especificación de las facturas rectificadas, bastando la simple determinación del periodo al que se refieran, de acuerdo con lo previsto en el artículo 13.4 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
+91. Procedimiento de autorización para que en las facturas rectificativas no sea necesaria la especificación de las facturas rectificadas, bastando la simple determinación del periodo al que se refieran, de acuerdo con lo previsto en el artículo 15.4 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.
 
-92. Procedimiento de autorización de elementos de acreditación en la remisión electrónica de facturas o documentos sustitutivos, de acuerdo con lo previsto en el artículo 18.1.c) del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
+92. (Derogado)
 
-93. Procedimiento de autorización para que la obligación de conservación de facturas o documentos sustitutivos se realice por un tercero que no esté establecido en la Comunidad Europea, salvo que se encuentre establecido en Canarias, Ceuta o Melilla o en un país con el cual exista un instrumento jurídico relativo a la asistencia mutua, todo ello de acuerdo con lo previsto en el artículo 19.4 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
+93. (Derogado)
 
-94. Procedimiento para la deducción de las cuotas tributarias satisfechas como consecuencia de la adquisición de aceites, combustibles y lubricantes establecidas en el Convenio entre los Estados parte del Tratado del Atlántico Norte, regulado en el artículo 4.º del Real Decreto 1967/1999, de 23 de diciembre, que comprende las exenciones en los impuestos indirectos relativas a la Organización del Tratado del Atlántico Norte y a los Estados Partes de dicho Tratado y establece el procedimiento para su aplicación.
+94. Procedimiento para la aplicación de las exenciones en el Impuesto sobre el Valor Añadido en las operaciones interiores e intracomunitarias, regulado en el artículo 5 del Reglamento por el que se desarrollan las exenciones fiscales relativas a la Organización del Tratado del Atlántico Norte, a los Cuarteles Generales Internacionales de dicha Organización y a los Estados parte en dicho Tratado y se establece el procedimiento para su aplicación, aprobado por el Real Decreto 160/2008, de 8 de febrero.
 
 Dos. Los procedimientos que se relacionan a continuación deberán entenderse estimados por haber vencido el plazo máximo establecido sin que se haya notificado resolución expresa:
 
-1. Procedimiento para el reconocimiento del derecho a la exención de las prestaciones de servicios y entregas de bienes accesorios a las mismas efectuadas directamente a sus miembros por determinados organismos o entidades legalmente reconocidas que no tengan finalidad lucrativa, previsto en el artículo 20.Uno.12.º de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, y en el artículo 5 del reglamento de dicho impuesto, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
+1. (Derogado)
 
-2. Procedimiento para el reconocimiento de la condición de entidades o establecimiento de carácter social, regulado en el artículo 6 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
+2. Procedimiento para la calificación de la condición de entidades o establecimientos de carácter social, regulado en el artículo 6 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
 
-3. Procedimiento para el reconocimiento del derecho a la exención de los servicios prestados directamente a sus miembros por determinadas entidades, previsto en el artículo 20.Uno.6.º de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, y en el artículo 5 del reglamento de dicho impuesto, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
+> Téngase en cuenta que esta redacción de los apartados uno.86, 87, 88, 91 y 94 y dos.2 establecida por el art. 3.1 del Real Decreto 828/2013, de 25 de octubre. Ref. BOE-A-2013-11216. entra en vigor el 1-1-2014.
+
+> Redacción vigente hasta 31-12-2013:
+
+> Uno.
+
+> 86. Procedimiento de autorización para no expedir factura, de acuerdo con lo previsto en el artículo 3.1.d) del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
+
+> 87. Procedimiento de autorización para que la obligación de expedir factura pueda ser cumplida mediante la expedición de tique, de acuerdo con lo previsto en el artículo 4.1.ñ) del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
+
+> 88. Procedimiento de autorización para que la expedición de facturas o documentos sustitutivos se realice por el destinatario de la operación o por un tercero que no esté establecido en la Comunidad Europea, salvo que se encuentre establecido en Canarias, Ceuta o Melilla o en un país con el cual exista un instrumento jurídico relativo a la asistencia mutua, todo ello de acuerdo con lo previsto en el artículo 5.4 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
+
+> 91. Procedimiento de autorización para que en las facturas rectificativas no sea necesaria la especificación de las facturas rectificadas, bastando la simple determinación del periodo al que se refieran, de acuerdo con lo previsto en el artículo 13.4 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
+
+> 94. Procedimiento para la deducción de las cuotas tributarias satisfechas como consecuencia de la adquisición de aceites, combustibles y lubricantes establecidas en el Convenio entre los Estados parte del Tratado del Atlántico Norte, regulado en el artículo 4.º del Real Decreto 1967/1999, de 23 de diciembre, que comprende las exenciones en los impuestos indirectos relativas a la Organización del Tratado del Atlántico Norte y a los Estados Partes de dicho Tratado y establece el procedimiento para su aplicación.
+
+> Dos.
+
+> 2. Procedimiento para el reconocimiento de la condición de entidades o establecimiento de carácter social, regulado en el artículo 6 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
+
+> Se modifican los apartados 1, 2.2 y se derogan los apartados 1.89, 90, 92, 93 y 2.1 y 3 por el art. 3.1 y disposición derogatoria única del Real Decreto 828/2013, de 25 de octubre. Ref. BOE-A-2013-11216.
 
 > Se modifica el apartado 1.11 por la disposición final 2 del Real Decreto 192/2010, de 26 de febrero. Ref. BOE-A-2010-3370
 

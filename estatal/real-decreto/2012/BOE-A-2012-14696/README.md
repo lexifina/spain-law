@@ -63,5 +63,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional cuarta](dacuaa.md)
 - [Disposición adicional quinta](daquinta.md)
 - [Disposición adicional sexta](dasexta.md)
+- [Disposición adicional séptima](daseptima.md)
 - [Disposición transitoria primera](dtprimera-2.md)
 - [Disposición transitoria segunda](dtsegunda-2.md)
