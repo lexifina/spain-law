@@ -2,14 +2,14 @@
 
 ## Factores de corrección para las indemnizaciones básicas por muerte
 
-| Descripción | Aumento (En porcentaje o en euros) | Porcentaje de reducción |
+| Descripción | Aumento (en porcentaje o en euros) | Porcentaje de reducción |
 | --- | --- | --- |
 | Perjuicios económicos |  |  |
 | Ingresos netos anuales de la víctima por trabajo personal: |  |  |
-| Hasta 28.672,79 euros (1) | Hasta el 10 | – |
-| De 28.672,80 a 57.345,56 euros | Del 11 al 25 | – |
-| De 57.345,57 hasta 95.575,94 euros | Del 26 al 50 | – |
-| Más de 95.575,94 euros | Del 51 al 75 | – |
+| Hasta 28.758,81 euros (1) | Hasta el 10 | – |
+| De 28.758,82 a 57.517,60 euros | Del 11 al 25 | – |
+| De 57.517,61 hasta 95.862,67 euros | Del 26 al 50 | – |
+| Más de 95.862,67 euros | Del 51 al 75 | – |
 | Circunstancias familiares especiales |  |  |
 | Discapacidad física o psíquica acusada (anterior al accidente) del perjudicado/beneficiario: |
 | Si es cónyuge o hijo menor | Del 75 al 100 (2) | – |
@@ -26,18 +26,20 @@
 | Sin hijos menores de veinticinco años | Del 10 al 25 (3) | – |
 | Víctima embarazada con pérdida de feto a consecuencia del accidente |  |  |
 | Si el concebido fuera el primer hijo: |  |  |
-| Hasta el tercer mes de embarazo | 14.336,39 | – |
-| A partir del tercer mes | 38.230,38 | – |
+| Hasta el tercer mes de embarazo | 14.379,40 | – |
+| A partir del tercer mes | 38.345,07 | – |
 | Si el concebido fuera el segundo hijo o posteriores: |  |  |
-| Hasta el tercer mes | 9.557,59 | – |
-| A partir del tercer mes | 19.115,19 | – |
-| Elementos correctores del apartado primero. 7 de este anexo |  | Hasta el 75 |
+| Hasta el tercer mes | 9.586,26 | – |
+| A partir del tercer mes | 19.172,54 | – |
+| Elementos correctores del apartado primero.7 de este anexo |  | Hasta el 75 |
 
 (1) Se incluirá en este apartado cualquier víctima en edad laboral, aunque no se justifiquen ingresos.
 
 (2) Sobre la indemnización que corresponda al beneficiario discapacitado.
 
 (3) Sobre la indemnización básica que corresponda a cada perjudicado.
+
+> Se actualizan las cuantías con vigencia durante el año 2014 por el Anexo de la Resolución de 5 de marzo de 2014. Ref. BOE-A-2014-2819.
 
 > Se actualizan las cuantías con vigencia durante el año 2013 por el Anexo de la Resolución de 21 de enero de 2013. Ref. BOE-A-2013-945.
 

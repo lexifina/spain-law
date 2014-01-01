@@ -2,45 +2,47 @@
 
 ## Factores de corrección para las indemnizaciones básicas por lesiones permanentes
 
-| Descripción | Aumento (En porcentaje o en euros) | Porcentaje de reducción |
+| Descripción | Aumento (en porcentaje o en euros) | Porcentaje de reducción |
 | --- | --- | --- |
 | Perjuicios económicos |  |  |
 | Ingresos netos de la víctima por trabajo personal: |  |  |
-| Hasta 28.672,79 euros (1) | Hasta el 10 | – |
-| De 28.672,80 a 57.345,56 euros | Del 11 al 25 | – |
-| De 57.345,57 hasta 95.575,94 euros | Del 26 al 50 | – |
-| Más de 95.575,94 euros | Del 51 al 75 | – |
+| Hasta 28.758,81 euros (1) | Hasta el 10 | – |
+| De 28.758,82 a 57.517,60 euros | Del 11 al 25 | – |
+| De 57.517,61 hasta 95.862,67 euros | Del 26 al 50 | – |
+| Más de 95.862,67 euros | Del 51 al 75 | – |
 | Daños morales complementarios |  |  |
-| Se entenderán ocasionados cuando una sola secuela exceda de 75 puntos o las concurrentes superen los 90 puntos. Sólo en estos casos será aplicable. | Hasta 95.575,94 | – |
+| Se entenderán ocasionados cuando una sola secuela exceda de 75 puntos o las concurrentes superen los 90 puntos. Sólo en estos casos será aplicable | Hasta 95.862,67 | – |
 | Lesiones permanentes que constituyan una incapacidad para la ocupación o actividad habitual de la víctima |  |  |
 | Permanente parcial: |  |  |
-| Con secuelas permanentes que limiten parcialmente la ocupación o actividad habitual, sin impedir la realización de las tareas fundamentales de la misma | Hasta 19.115,19 | – |
+| Con secuelas permanentes que limiten parcialmente la ocupación o actividad habitual, sin impedir la realización de las tareas fundamentales de la misma | Hasta 19.172,54 | – |
 | Permanente total: |  |  |
-| Con secuelas permanentes que impidan totalmente la realización de las tareas de la ocupación o actividad habitual del incapacitado | De 19.115,20 a 95.575,94 | – |
+| Con secuelas permanentes que impidan totalmente la realización de las tareas de la ocupación o actividad habitual del incapacitado | De 19.172,55 a 95.862,67 | – |
 | Permanente absoluta: |  |  |
-| Con secuelas que inhabiliten al incapacitado para la realización de cualquier ocupación o actividad | De 95.575,95 a 191.151,88 | – |
+| Con secuelas que inhabiliten al incapacitado para la realización de cualquier ocupación o actividad | De 95.862,68 a 191.725,34 | – |
 | Grandes inválidos |  |  |
-| Personas afectadas con secuelas permanentes que requieren la ayuda de otras personas para realizar las actividades más esenciales de la vida diaria, como vestirse, desplazarse, comer o análogas (tetraplejías, paraplejías, estados de coma vigil o vegetativos crónicos, importantes secuelas neurológicas o neuropsiquiátricas con graves alteraciones mentales o psíquicas, ceguera completa, etc.) |  |  |
+| Personas afectadas con secuelas permanentes que requieren la ayuda de otras personas para realizar las actividades más esenciales de la vida diaria, como vestirse, desplazarse, comer o análogas (tetraplejías, paraplejías, estados de coma vigil o vegetativos crónicos, importantes secuelas neurológicas o neuropsiquiátricas con graves alteraciones mentales o psíquicas, ceguera completa, etc.): |  |  |
 | Necesidad de ayuda de otra persona: |  |  |
-| Ponderando la edad de la víctima y grado de incapacidad para realizar las actividades más esenciales de la vida. Se asimilan a esta prestación el coste de la asistencia en los casos de estados de coma vigil o vegetativos crónicos | Hasta 382.303,74 | – |
+| Ponderando la edad de la víctima y grado de incapacidad para realizar las actividades más esenciales de la vida. Se asimilan a esta prestación el coste de la asistencia en los casos de estados de coma vigil o vegetativos crónicos | Hasta 383.450,65 | – |
 | Adecuación de la vivienda |  |  |
-| Según características de la vivienda y circunstancias del incapacitado, en función de sus necesidades | Hasta 95.575,94 | – |
+| Según características de la vivienda y circunstancias del incapacitado, en función de sus necesidades | Hasta 95.862,67 | – |
 | Perjuicios morales de familiares: |  |  |
-| Destinados a familiares próximos al incapacitado en atención a la sustancial alteración de la vida y convivencia derivada de los cuidados y atención continuada, según circunstancias | Hasta 143.363,91 | – |
+| Destinados a familiares próximos al incapacitado en atención a la sustancial alteración de la vida y convivencia derivada de los cuidados y atención continuada, según circunstancias | Hasta 143.794,00 | – |
 | Embarazada con pérdida de feto a consecuencia del accidente (2) |  |  |
 | Si el concebido fuera el primer hijo: |  |  |
-| Hasta el tercer mes de embarazo | Hasta 14.336,40 | – |
-| A partir del tercer mes | Hasta 38.230,38 | – |
+| Hasta el tercer mes de embarazo | Hasta 14.379,41 | – |
+| A partir del tercer mes | Hasta 38.345,07 | – |
 | Si el concebido fuera el segundo hijo o posteriores: |  |  |
-| Hasta el tercer mes de embarazo | Hasta 9.557,59 | – |
-| A partir del tercer mes | Hasta 19.115,19 | – |
+| Hasta el tercer mes de embarazo | Hasta 9.586,26 | – |
+| A partir del tercer mes | Hasta 19.172,54 | – |
 | Elementos correctores del apartado primero.7 de este anexo | Según circunstancias | Según circunstancias |
 | Adecuación del vehículo propio |  |  |
-| Según características del vehículo y circunstancias del incapacitado permanente, en función de sus necesidades | Hasta 28.672,78 | – |
+| Según características del vehículo y circunstancias del incapacitado permanente, en función de sus necesidades | Hasta 28.758,80 | – |
 
 (1) Se incluirá en este apartado cualquier víctima en edad laboral, aunque no se justifiquen ingresos.
 
 (2) Habrá lugar a la percepción de esta indemnización, aunque la embarazada no haya sufrido lesiones.
+
+> Se actualizan las cuantías con vigencia durante el año 2014 por el Anexo de la Resolución de 5 de marzo de 2014. Ref. BOE-A-2014-2819.
 
 > Se actualizan las cuantías con vigencia durante el año 2013 por el Anexo de la Resolución de 21 de enero de 2013. Ref. BOE-A-2013-945.
 
