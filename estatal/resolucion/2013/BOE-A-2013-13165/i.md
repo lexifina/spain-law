@@ -1,0 +1,17 @@
+## I. Objetivo de la Instrucción
+
+Mediante la presente Instrucción el Tribunal de Cuentas concreta la información y documentación que le ha de ser remitida en cumplimiento de las obligaciones contenidas en los artículos 40 de la LFTCU y 29 del TRLCSP, para el ejercicio de sus competencias fiscalizadoras en materia de contratación del Sector público estatal y autonómico.
+
+Para una adecuada planificación de la fiscalización de la contratación del sector público estatal y autonómico es imprescindible disponer de información sobre la celebrada en cada ejercicio, por lo que todos los órganos, organismos o entidades del sector público estatal y autonómico, con independencia del régimen jurídico al que estén sometidos, deben remitir una relación anual de la contratación formalizada en el ejercicio precedente, excluidos los denominados contratos menores.
+
+Por otra parte, de acuerdo con lo establecido en el artículo 29 del TRLCSP, se relacionan en el correspondiente anexo los documentos que constituyen el extracto del expediente de contratación que deberá enviarse al Tribunal de Cuentas dentro del plazo de tres meses a contar desde la formalización del contrato, sin perjuicio de la obligación de comunicar las modificaciones, prórrogas o variaciones de plazos, las variaciones de precio y el importe final, la nulidad y la extinción normal o anormal de los contratos, establecida, igualmente, en el artículo 29 del TRLCSP.
+
+En consecuencia, se configura la obligación de remisión de documentación al Tribunal de Cuentas por parte de los órganos, organismos y entidades fiscalizados del modo siguiente:
+
+1. Con periodicidad anual, dentro de los dos primeros meses de cada ejercicio, deberán remitirse las relaciones certificadas comprensivas de toda la contratación y demás negocios jurídicos formalizados en el ejercicio precedente, con exclusión de los contratos menores y contratos subvencionados a los que se refiere el artículo 2.2 del TRLCSP. Asimismo, se remitirán en su caso las certificaciones negativas, de acuerdo con lo establecido en el apartado II.1 de esta Instrucción.
+
+2. Dentro de los tres meses siguientes a la formalización del contrato, deberán remitirse los documentos que se especifican en el anexo correspondiente y que configuran el extracto del expediente, de acuerdo con lo establecido en el apartado II.2 de esta Instrucción.
+
+3. Dentro de los tres meses siguientes a la fecha en que se produzcan, deberán comunicarse al Tribunal las modificaciones, prórrogas o variaciones de plazos, las variaciones de precio y el importe final, la nulidad y la extinción normal o anormal de los contratos, acompañados de los documentos de formalización y, en su caso, de aprobación correspondientes, de acuerdo con lo establecido en el apartado II.2 de esta Instrucción.
+
+Esta Instrucción tiene como objeto especificar la documentación que ha de remitirse regularmente al Tribunal de Cuentas para la fiscalización de la contratación, los convenios y las encomiendas de gestión. No obstante, el Tribunal podrá requerir singularmente que sea aportada cualquier otra para el ejercicio de su función fiscalizadora. En tal caso, la entidad pública requerida deberá facilitar la información y documentación solicitada, en cumplimiento del deber de colaboración previsto en el artículo 7 de la Ley Orgánica del Tribunal de Cuentas 2/1982, de 12 de mayo,(LOTCu) y de lo previsto en los artículos 40.2 de la LFTCu y 29.3 del TRLCSP.

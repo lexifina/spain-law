@@ -1,0 +1,3 @@
+## IV. Requerimiento de otra documentación
+
+Con independencia de la información y documentación señalada en los epígrafes anteriores, el Tribunal de Cuentas podrá requerir el envío de documentación adicional en relación con los contratos anteriormente identificados o con cualquier otro incluido en la relación anual de los contratos celebrados y que se haya previsto fiscalizar, así como, en su caso, información y documentación relativa a los denominados contratos menores. Dicho requerimiento deberá ser atendido en los términos y plazos en que se hubiera planteado, en cumplimiento del deber de colaboración con el Tribunal de Cuentas regulado en el artículo 7 de la LOTCu y en el artículo 30 de la LFTCu.
