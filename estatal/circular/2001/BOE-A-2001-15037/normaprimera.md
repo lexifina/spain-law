@@ -8,4 +8,10 @@ De acuerdo con lo establecido en el Artículo 9.º, y en la Disposición Adicion
 
 3. Aquellas otras entidades de crédito y financieras residentes inscritas en los registros oficiales del Banco de España, o de la Comisión Nacional del Mercado de Valores que, sin actuar como entidades depositarias o liquidadoras en los mercados organizados de valores negociables, mantengan activos en forma de valores negociables depositados en entidades no residentes, y las Sociedades Gestoras de fondos de inversión, por lo que se refiere a las participaciones de no residentes en fondos de inversión españoles.
 
-4. Las demás personas físicas y jurídicas residentes que mantengan activos en forma de valores negociables depositados en entidades no residentes.
+> Queda derogado el apartado 4, con efectos de 1 de enero de 2014, según establece la disposición final 1 de la Circular 4/2012, de 25 de abril. Ref. BOE-A-2012-5920.
+
+> Redacción actual:
+
+> " 4. Las demás personas físicas y jurídicas residentes que mantengan activos en forma de valores negociables depositados en entidades no residentes."
+
+> Se deroga el apartado 4, con efectos de 1 de enero de 2014, por la disposición final 1 de la Circular 4/2012, de 25 de abril. Ref. BOE-A-2012-5920.
