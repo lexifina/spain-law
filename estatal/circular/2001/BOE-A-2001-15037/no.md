@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm 191, de 10 de agosto de 2001. Ref. BOE-A-2001-15777
+Disposición derogada, con efectos desde el 1 de enero de 2014, por la disposición final 1 de la Circular 3/2013, de 29 de julio. Ref. BOE-A-2013-8510
