@@ -56,6 +56,10 @@ El Comité de Gestión del Fondo de políticas de empleo podrá contar con el as
 
 11. El Gobierno presentará a las Cortes Generales un informe anual sobre la evolución y composición del Fondo de políticas de empleo.
 
+El Gobierno remitirá dicho informe a las Cortes Generales a través de su Oficina Presupuestaria que lo pondrá a disposición de los Diputados, Senadores y las Comisiones parlamentarias
+
 12. El Consejo General del Sistema Nacional de Empleo, a través de su Comisión Permanente, realizará el seguimiento de las propuestas de ordenación, selección de valores que han de constituir la cartera del Fondo, enajenación de activos financieros que lo integren y demás actuaciones que los mercados financieros aconsejen, así como de su evolución.
+
+> Se modifica el apartado 11 por la disposición final 23 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
 
 > Se modifica el apartado 8 por el art. 2 del Real Decreto-Ley 14/2011, de 16 de septiembre. Ref. BOE-A-2011-14910.

@@ -16,8 +16,12 @@ Cuando en el citado presupuesto no hubiera crédito o éste fuera insuficiente p
 
 7. El registro en el sistema de información contable de las retenciones de crédito y de las anulaciones de retenciones de crédito a que se refieren los apartados 4, 5 y 6 anteriores se efectuará por las oficinas de contabilidad, a efectos de poder efectuar el control efectivo de la imputación definitiva de todos los compromisos pendientes de registro.
 
+En ningún caso se podrán imputar las retenciones de crédito a que se refieren los citados apartados contra los créditos consignados en el presupuesto para atender obligaciones de ejercicios anteriores.
+
 8. El Ministro de Hacienda y Administraciones Públicas aprobará las normas reguladoras del procedimiento y operatoria a seguir para la imputación contable al nuevo presupuesto de los compromisos a que se refiere la presente disposición, así como de aquellas otras operaciones contabilizadas en los ejercicios anteriores que deban imputarse a dicho presupuesto.
 
 El Ministro de Hacienda y Administraciones Públicas determinará la información a incluir en las cuentas anuales sobre los compromisos de gasto de carácter plurianual que no se hayan podido imputar al nuevo presupuesto de acuerdo con lo establecido en esta disposición.
+
+> Se modifica el apartado 7 por la disposición final 15.19 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
 
 > Se añade por la disposición final 14.9 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.

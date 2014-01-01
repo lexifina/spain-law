@@ -1,3 +1,5 @@
 ## Disposición adicional octava. Modificación del plazo previsto en la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, en relación con el Inventario de Bienes Muebles de la Iglesia.
 
 Se prorroga por un año, a partir de la entrada en vigor de esta Ley, el plazo a que se refiere la disposición adicional octava del Real Decreto-Ley 20/2011, de 30 de diciembre, de medidas urgentes en materia presupuestaria, tributaria y financiera para la corrección del déficit público, en relación con la disposición adicional segunda de la Ley 4/2004, de 29 de diciembre, de modificación de tasas y de beneficios fiscales de acontecimientos de excepcional interés público y, a su vez, en relación con la disposición transitoria primera de la Ley 42/1994, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, y con la disposición transitoria quinta de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español.
+
+> Se prorroga por un año, a partir del 1 de enero de 2014, el plazo a que se refiere esta disposición por la disposición adicional 5 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.

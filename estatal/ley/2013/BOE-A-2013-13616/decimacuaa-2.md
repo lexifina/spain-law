@@ -1,0 +1,7 @@
+## Disposición final décima cuarta. Modificación de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+
+Con efectos de 1 de enero de 2014 y vigencia hasta el 31 de diciembre de 2016, se incorpora como disposición adicional novena de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, una disposición redactada en los siguientes términos:
+
+«Disposición adicional novena. Ejecución del programa para la puesta en valor de los activos inmobiliarios del Estado.
+
+A efectos de activar el cumplimiento de los objetivos definidos por la Comisión para la Reforma de las Administraciones Públicas que se concretan en la ejecución del Programa para la Puesta en Valor de los Activos Inmobiliarios del Estado, en los negocios e instrumentos jurídicos por los que la Dirección General del Patrimonio del Estado encargue a un tercero la venta, administración o puesta en explotación de bienes patrimoniales, la retribución de aquél podrá fijarse por referencia a un porcentaje o comisión calculados sobre el precio de venta que se obtenga o sobre la renta o canon estipulado dentro de los límites e importes máximos que, en su caso, estuvieran legalmente establecidos. En este caso, la liquidación que deba practicarse para su ingreso en el Tesoro Público podrá realizarse por el importe neto que corresponda, una vez deducida la comisión pactada.»

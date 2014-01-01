@@ -1,6 +1,6 @@
 ## Disposición adicional cuarta. Tarifa de primas para la cotización a la Seguridad Social por accidentes de trabajo y enfermedades profesionales.
 
-Uno. La cotización a la Seguridad Social de los empresarios, cualquiera que sea el régimen de encuadramiento, y, en su caso, de los trabajadores por cuenta propia incluidos en los Regímenes Especiales de Trabajadores del Mar y de Trabajadores por Cuenta Propia o Autónomos, por las contingencias de accidentes de trabajo y enfermedades profesionales se llevará a cabo, a partir del 1º de enero de 2013, en función de la correspondiente actividad económica, ocupación o situación, mediante la aplicación de la siguiente tarifa:
+Uno. La cotización a la Seguridad Social de los empresarios, cualquiera que sea el régimen de encuadramiento, y, en su caso, de los trabajadores por cuenta propia incluidos en los Regímenes Especiales de Trabajadores del Mar y de Trabajadores por Cuenta Propia o Autónomos, por las contingencias de accidentes de trabajo y enfermedades profesionales se llevará a cabo, a partir del 1.º de enero de 2014, en función de la correspondiente actividad económica, ocupación o situación, mediante la aplicación de la siguiente tarifa:
 
 TARIFA PARA LA COTIZACIÓN POR ACCIDENTES DE TRABAJO Y ENFERMEDADES PROFESIONALES
 
@@ -51,7 +51,7 @@ TARIFA PARA LA COTIZACIÓN POR ACCIDENTES DE TRABAJO Y ENFERMEDADES PROFESIONALE
 | 17 | Industria del papel (Excepto 171) | 1,00 | 1,05 | 2,05 |
 | 171 | Fabricación de pasta papelera, papel y cartón | 2,00 | 1,50 | 3,50 |
 | 18 | Artes gráficas y reproducción de soportes grabados | 1,00 | 1,00 | 2,00 |
-| 19 | Coquerías y refino de petróleo | 1,90 | 2,55 | 4,45 |
+| 19 | Coquerías y refino de petróleo | 1,45 | 1,90 | 3,35 |
 | 20 | Industria química (Excepto 204 y 206) | 1,60 | 1,40 | 3,00 |
 | 204 | Fabricación de jabones, detergentes y otros artículos de limpieza y abrillantamiento; fabricación de perfumes y cosméticos | 1,50 | 1,20 | 2,70 |
 | 206 | Fabricación de fibras artificiales y sintéticas | 1,50 | 1,20 | 2,70 |
@@ -117,15 +117,15 @@ TARIFA PARA LA COTIZACIÓN POR ACCIDENTES DE TRABAJO Y ENFERMEDADES PROFESIONALE
 | 59 | Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical | 0,75 | 0,50 | 1,25 |
 | 60 | Actividades de programación y emisión de radio y televisión | 0,75 | 0,50 | 1,25 |
 | 61 | Telecomunicaciones | 0,70 | 0,70 | 1,40 |
-| 62 | Programación, consultoría y otras actividades relacionadas con la informática | 0,65 | 1,00 | 1,65 |
+| 62 | Programación, consultoría y otras actividades relacionadas con la informática | 0,65 | 0,70 | 1,35 |
 | 63 | Servicios de información (Excepto 6391) | 0,65 | 1,00 | 1,65 |
 | 6391 | Actividades de las agencias de noticias | 0,75 | 0,50 | 1,25 |
 | 64 | Servicios financieros, excepto seguros y fondos de pensiones | 0,65 | 0,35 | 1,00 |
 | 65 | Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria | 0,65 | 0,35 | 1,00 |
 | 66 | Actividades auxiliares a los servicios financieros y a los seguros | 0,65 | 0,35 | 1,00 |
 | 68 | Actividades inmobiliarias | 0,65 | 1,00 | 1,65 |
-| 69 | Actividades jurídicas y de contabilidad | 0,65 | 1,00 | 1,65 |
-| 70 | Actividades de las sedes centrales; actividades de consultoría de gestión empresarial | 1,00 | 0,80 | 1,80 |
+| 69 | Actividades jurídicas y de contabilidad | 0,65 | 0,70 | 1,35 |
+| 70 | Actividades de las sedes centrales; actividades de consultoría de gestión empresarial | 0,75 | 0,60 | 1,35 |
 | 71 | Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos | 0,65 | 1,00 | 1,65 |
 | 72 | Investigación y desarrollo | 0,65 | 0,35 | 1,00 |
 | 73 | Publicidad y estudios de mercado | 0,90 | 0,80 | 1,70 |
@@ -163,7 +163,7 @@ TARIFA PARA LA COTIZACIÓN POR ACCIDENTES DE TRABAJO Y ENFERMEDADES PROFESIONALE
 | 9603 | Pompas fúnebres y actividades relacionadas | 1,80 | 1,50 | 3,30 |
 | 9609 | Otros servicios personales n.c.o.p. | 1,50 | 1,10 | 2,60 |
 | 97 | Actividades de los hogares como empleadores de personal doméstico | 0,65 | 0,45 | 1,10 |
-| 99 | Actividades de organizaciones y organismos extraterritoriales | 1,60 | 1,50 | 3,10 |
+| 99 | Actividades de organizaciones y organismos extraterritoriales | 1,20 | 1,15 | 2,35 |
 | CUADRO II | Tipos de cotización |
 | --- | --- |
 | Tipos aplicables a ocupaciones y situaciones en todas las actividades | IT | IMS | TOTAL |
@@ -174,7 +174,7 @@ TARIFA PARA LA COTIZACIÓN POR ACCIDENTES DE TRABAJO Y ENFERMEDADES PROFESIONALE
 | g | Personal de limpieza en general. Limpieza de edificios y de todo tipo de establecimientos. Limpieza de calles. | 2,10 | 1,50 | 3,60 |
 | h | Vigilantes, guardas, guardas jurados y personal de seguridad. | 1,40 | 2,20 | 3,60 |
 
-Dos. En orden a la aplicación de lo establecido en el apartado Uno anterior se tendrán en cuenta las siguientes reglas:
+En orden a la aplicación de lo establecido en el apartado Uno anterior se tendrán en cuenta las siguientes reglas:
 
 Primera. En los períodos de baja por incapacidad temporal y otras situaciones con suspensión de la relación laboral con obligación de cotización, continuará siendo de aplicación el tipo de cotización correspondiente a la respectiva actividad económica u ocupación.
 
@@ -189,6 +189,8 @@ Tercera. No obstante lo indicado en la regla anterior, cuando la ocupación dese
 Tres. La determinación del tipo de cotización aplicable será efectuada, en los términos que reglamentariamente se establezca, por la Tesorería General de la Seguridad Social en función de la actividad económica declarada por la empresa o por el trabajador autónomo o, en su caso, por las ocupaciones o situaciones de los trabajadores, con independencia de que, para la formalización de la protección frente a las contingencias profesionales, se hubiera optado en favor de una entidad gestora de la Seguridad Social o de una entidad colaboradora de la misma.
 
 Cuatro. El Gobierno procederá al correspondiente ajuste anual de los tipos de cotización incluidos en la tarifa recogida en la presente disposición, así como a la adaptación de las actividades económicas a las nuevas clasificaciones CNAE que se aprueben y a la supresión progresiva de las ocupaciones que se enumeran en la clasificación contenida en la referida tarifa.
+
+> Se modifica por la disposición final 19.1 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
 
 > Se modifica por la disposición final 17 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
 

@@ -10,7 +10,9 @@ Dos. La ejecución de esta iniciativa podrá canalizarse por alguna o algunas de
 
 a) El desembolso de las aportaciones que la Administración General del Estado pueda efectuar al capital social de aquellas sociedades que constituya o en las que pueda participar.
 
-b) El otorgamiento de préstamos con largos plazos de amortización, incluyendo períodos de carencia y bajos tipos de interés, sin que por ello sea necesario que los inversores privados soliciten las facilidades financieras que se especifican en la modalidad 2 del presente artículo.
+b) El otorgamiento de préstamos con largos plazos de amortización, incluyendo periodos de carencia y bajos tipos de interés, tanto a las entidades enumeradas en el epígrafe Uno, como a empresas turísticas privadas, radicadas y que desarrollen su actividad principal en destinos turísticos maduros.
+
+Para la aprobación de cualquier acto o negocio jurídico que se lleve a cabo en el marco de lo dispuesto en este precepto, será necesario el previo informe favorable de la Secretaría de Estado de Presupuestos y Gastos del Ministerio de Hacienda y Administraciones Públicas sobre el cumplimiento de los requisitos necesarios para hacer posible su financiación mediante fondos comunitarios europeos.
 
 c) La constitución en garantía sin contraprestación, para asegurar los préstamos que se otorguen en su caso por el ICO a favor de los beneficiarios del propio Fondo.
 
@@ -23,5 +25,7 @@ Tres. El Gobierno establecerá reglamentariamente los términos y condiciones de
 Cuatro. Esta Iniciativa se financiará con cargo a los créditos que cada año se consignen para este fin en las correspondientes Leyes de Presupuestos Generales del Estado.
 
 Cinco. El Gobierno informará al Parlamento sobre la gestión de esta iniciativa, los resultados alcanzados, los proyectos financiados, su cuantía y modalidades de financiación, así como sus beneficiarios finales. Tal información se remitirá al Parlamento con periodicidad anual.
+
+> Se modifica el apartado Dos.1.b) por la disposición final 19.2 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
 
 > Se modifican los apartados 1 y 2 por la disposición final 14.2 de la Ley 51/2007, de 26 de diciembre. Ref. BOE-A-2007-22295.

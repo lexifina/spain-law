@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Aplicación de la disposición adicional sexagésima sexta del Texto Refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio.
+
+Lo previsto en la disposición adicional sexagésima sexta del Texto Refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, se aplicará a partir de la entrada en vigor de esta Ley y afectará a los solicitantes del subsidio al que se refiere el apartado 3 del artículo 205 de dicho Texto Refundido que en ese momento no hayan perfeccionado los requisitos establecidos en el número 1 del apartado 1 de su artículo 215.

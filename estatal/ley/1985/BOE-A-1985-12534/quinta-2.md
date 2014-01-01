@@ -4,6 +4,8 @@ En los diez años siguientes a la entrada en vigor de esta Ley, lo dispuesto en 
 
 > Téngase en cuenta que el plazo indicado se prorroga hasta el 1 de enero de 2014, según establece la disposición adicional 8 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
 
+> Se prorroga el plazo por un año a partir del 1 de enero de 2014 por la disposición adicional 5 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+
 > Se prorroga el plazo por un año a partir del 1 de enero de 2013 por la disposición adicional 8 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
 
 > Se prorroga el plazo por un año a partir del 1 de enero de 2012 por la disposición adicional 8 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638.

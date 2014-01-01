@@ -1,0 +1,5 @@
+## Disposición final vigésima sexta. Modificación del Real Decreto-ley 8/2011, de 1 de julio, de medidas de apoyo a los deudores hipotecarios, de control del gasto público y cancelación de deudas con empresas y autónomos contraídas por las entidades locales, de fomento de la actividad empresarial e impulso de la rehabilitación y de simplificación administrativa.
+
+Con efectos de 1 de enero de 2014 y vigencia indefinida, se modifica el Anexo I del Real Decreto-ley 8/2011, de 1 de julio, de medidas de apoyo a los deudores hipotecarios, de control del gasto público y cancelación de deudas con empresas y autónomos contraídas por las entidades locales, de fomento de la actividad empresarial e impulso de la rehabilitación y de simplificación administrativa, de la siguiente forma:
+
+«Queda suprimida la referencia contenida en el Anexo I, procedimientos administrativos con sentido del silencio negativo que pasa a positivo, referida al procedimiento de evaluación de la actividad investigadora, regulada por el Real Decreto 1086/1989, de 28 de agosto, sobre retribuciones del profesorado universitario, y por la Orden del Ministerio de Educación y Ciencia de 2 de diciembre.»

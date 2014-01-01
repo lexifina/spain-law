@@ -1,0 +1,9 @@
+## Disposición adicional decimosexta. Jubilación voluntaria.
+
+En la jubilación o el retiro de carácter voluntario, regulado en el artículo 28.2,b) del Texto Refundido de la Ley de Clases Pasivas del Estado, aprobado por Real Decreto Legislativo 670/1987, de 30 de abril, el derecho a la correspondiente pensión estará condicionado a que los últimos cinco años de servicios computables estén cubiertos en el Régimen de Clases Pasivas del Estado, cuando para completar los treinta años de servicios exigidos hubieran de computarse períodos de cotización a otros regímenes, por aplicación de las normas sobre cómputo recíproco de cuotas entre regímenes de Seguridad Social.
+
+Dicha regla será asimismo de aplicación cuando para completar los treinta años de servicios exigidos hubieran de computarse períodos de seguro, residencia o asimilados cubiertos fuera de España, derivados de la aplicación de convenios bilaterales o de reglamentos comunitarios de coordinación de los sistemas de seguridad social, salvo que los referidos períodos correspondan a actividades que de haberse desarrollado en España hubieran dado lugar a la inclusión obligatoria del interesado en el Régimen de Clases Pasivas.
+
+Lo dispuesto en el primer párrafo no será de aplicación al personal de la Administración del Estado en servicio activo, servicios especiales, excedencia por cuidado de familiares y excedencia por razón de violencia de género que, como consecuencia de la superación de los procesos de acceso y promoción regulada en la normativa general de función pública, cambie de régimen de protección social. A efectos de acceder a la jubilación voluntaria regulada en el artículo 28.2.b) del Texto Refundido de la Ley del Clases Pasivas del Estado a este personal le será de aplicación la normativa vigente a 31 de diciembre de 2010.
+
+> Se añade por la disposición final 1.4 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.

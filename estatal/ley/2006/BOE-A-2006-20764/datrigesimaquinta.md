@@ -1,6 +1,6 @@
-## Disposición adicional trigésima quinta. Gravamen complementario a la cuota íntegra estatal para la reducción del déficit público en los ejercicios 2012 y 2013.
+## Disposición adicional trigésima quinta. Gravamen complementario a la cuota íntegra estatal para la reducción del déficit público en los ejercicios 2012, 2013 y 2014.
 
-1. En los períodos impositivos 2012 y 2013, la cuota íntegra estatal a que se refiere el artículo 62 de esta Ley se incrementará en los siguientes importes:
+1. En los períodos impositivos 2012, 2013 y 2014, la cuota íntegra estatal a que se refiere el artículo 62 de esta Ley se incrementará en los siguientes importes:
 
 a) El resultante de aplicar a la base liquidable general los tipos de la siguiente escala:
 
@@ -26,7 +26,7 @@ b) El resultante de aplicar a la base liquidable del ahorro, en la parte que no 
 | 6.000,00 | 120 | 18.000 | 4 |
 | 24.000,00 | 840 | En adelante | 6 |
 
-2. En los períodos impositivos 2012 y 2013, la cuota de retención a que se refieren los apartados 1 y 2 del artículo 85 del Reglamento del Impuesto sobre la Renta de las Personas Físicas, se incrementará en el importe resultante de aplicar a la base para calcular el tipo de retención los tipos previstos en la siguiente escala:
+2. En los períodos impositivos 2012, 2013 y 2014, la cuota de retención a que se refieren los apartados 1 y 2 del artículo 85 del Reglamento del Impuesto sobre la Renta de las Personas Físicas, se incrementará en el importe resultante de aplicar a la base para calcular el tipo de retención los tipos previstos en la siguiente escala:
 
 | Base para calcular el tipo de retención – Hasta euros | Cuota de retención – Euros | Resto base para calcular el tipo de retención – Hasta euros | Tipo aplicable – Porcentaje |
 | --- | --- | --- | --- |
@@ -44,15 +44,17 @@ Cuando el perceptor de rendimientos del trabajo satisfaga anualidades por alimen
 
 En ningún caso, cuando se produzcan regularizaciones en los citados períodos impositivos, el nuevo tipo de retención aplicable podrá ser superior al 52 por ciento. El citado porcentaje será el 26 por ciento cuando la totalidad de los rendimientos del trabajo se hubiesen obtenido en Ceuta y Melilla y se beneficien de la deducción prevista en el artículo 68.4 de esta Ley.
 
-Reglamentariamente podrán modificarse las cuantías y porcentajes previstos en este apartado.
+Reglamentariamente podrán modificarse las cuantías y porcentajes previstos en éste apartado.
 
 3. Las retenciones e ingresos a cuenta a practicar sobre los rendimientos del trabajo que se satisfagan o abonen durante el mes de enero de 2012, correspondientes a dicho mes, y a los que resulte de aplicación el procedimiento general de retención a que se refieren los artículos 80.1.1.º y 82 del Reglamento del Impuesto sobre la Renta de las Personas Físicas, deberán realizarse sin tomar en consideración lo dispuesto en el apartado 2 anterior.
 
 En los rendimientos que se satisfagan o abonen a partir del 1 de febrero de 2012, siempre que no se trate de rendimientos correspondientes al mes de enero, el pagador deberá calcular el tipo de retención tomando en consideración lo dispuesto en el apartado 2 anterior, practicándose la regularización del mismo, si procede, de acuerdo con lo señalado en el Reglamento del Impuesto sobre la Renta de las Personas Físicas, en los primeros rendimientos del trabajo que se satisfaga o abone.
 
-4. En los períodos impositivos 2012 y 2013, los porcentajes de pagos a cuenta del 19 por ciento previstos en el artículo 101 de esta Ley y el porcentaje del ingreso a cuenta a que se refiere el artículo 92.8 de esta Ley, se elevan al 21 por ciento.
+4. En los períodos impositivos 2012, 2013 y 2014, los porcentajes de pagos a cuenta del 19 por ciento previstos en el artículo 101 de esta Ley y el porcentaje del ingreso a cuenta a que se refiere el artículo 92.8 de esta Ley, se elevan al 21 por ciento.
 
 Asimismo, durante los períodos a que se refiere el párrafo anterior, el porcentaje de retención del 35 por ciento previsto en el apartado 2 del artículo 101 de esta Ley, se eleva al 42 por ciento.
+
+> Se modifica por el art. 64.1 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
 
 > Se añade, con efectos desde el 1 de enero de 2012, por el art. 61 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
 

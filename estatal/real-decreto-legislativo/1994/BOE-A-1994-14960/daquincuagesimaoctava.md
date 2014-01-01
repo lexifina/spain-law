@@ -6,7 +6,9 @@ Esta protección obligatoria frente a las contingencias de accidentes de trabajo
 
 La protección frente a las contingencias de accidentes de trabajo y enfermedades profesionales, que incluye la cobertura de la protección por cese de actividad, tendrá carácter voluntario para los trabajadores por cuenta propia menores de 30 años de edad.
 
-> Téngase en cuenta que los efectos de los dos primeros párrafos quedan aplazados hasta el 1 de enero de 2014 según establece la disposición transitora 7 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651#septima-2.
+> Téngase en cuenta que los efectos de esta disposición, en cuya virtud se amplía la cobertura por accidentes de trabajo y enfermedades profesionales a todos los Regímenes de la Seguridad Social respecto de los trabajadores que causen alta a partir del 1 de enero de 2013, se aplazan por un año. Hasta entonces seguirá vigente el régimen jurídico existente al 31 de diciembre de 2012, según establece la disposición adicional 85 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+
+> Se aplazan por un año los efectos de esta disposición por la disposición adicional 85 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
 
 > Se añade el párrafo tercero por el art. 6 de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
 

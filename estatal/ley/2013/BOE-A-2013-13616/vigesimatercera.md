@@ -1,0 +1,7 @@
+## Disposición adicional vigésima tercera. Cobertura de las necesidades de personal docente de los Centros Universitarios de la Defensa.
+
+Respetando en todo caso las disponibilidades presupuestarias del Capítulo I del correspondiente presupuesto de gastos, las limitaciones contenidas en el artículo 21 de esta Ley no resultarán de aplicación a los Centros Universitarios de la Defensa en lo que se refiere al personal docente, en tanto se culmina el proceso de implantación de las titulaciones universitarias que se imparten en tales Centros.
+
+A tal fin, en el año 2014, el Gobierno, a propuesta del Ministerio de Hacienda y Administraciones Públicas, autorizará la Oferta de Empleo Público para la incorporación de personal docente de los dos primeros cursos del título de grado, en los citados Centros. Asimismo, los Centros Universitarios de la Defensa podrán proceder a la contratación temporal de personal docente conforme a las modalidades previstas en los artículos 49, 50, 53 y 54 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, previa autorización del Ministerio de Hacienda y Administraciones Públicas, en los términos establecidos en el artículo 21 de la presente Ley.
+
+Previamente a lo anterior, el Ministerio de Hacienda y Administraciones Públicas, a propuesta del Ministerio de Defensa, aprobará las plantillas de estos Centros para personal docente de los citados dos primeros cursos del título de grado.

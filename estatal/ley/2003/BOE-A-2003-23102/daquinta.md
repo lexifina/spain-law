@@ -1,3 +1,7 @@
 ## Disposición adicional quinta. Plan integral de empleo de Canarias.
 
 Considerando la situación económica, social y laboral de Canarias, dada su condición de región ultraperiférica derivada de su insularidad y lejanía reconocida por el artículo 138.1 de la Constitución y por el artículo 299.2 del Tratado de la Unión Europea y, respecto de las ayudas de los fondos estructurales, por el artículo 3.1 del Reglamento (CE) n.º 1260/1999 del Consejo, de 21 de junio de 1999, en orden a incrementar el empleo en su territorio, el Estado podrá participar en la financiación de un Plan integral de empleo que se dotará, de forma diferenciada, en el estado de gastos del Servicio Público de Empleo Estatal, para su gestión directa por dicha comunidad autónoma, no integrado en la reserva de crédito a que se refiere el artículo 13.e) de esta ley y que será independiente de la asignación de los fondos de empleo de ámbito nacional, regulados en el artículo 14, que le corresponda.
+
+> Téngase en cuenta que la aplicación de este artículo queda suspendida durante 2014 según dispone la disposición adicional 67 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
+
+> Se suspende la aplicación para 2014 por la disposición adicional 67 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
