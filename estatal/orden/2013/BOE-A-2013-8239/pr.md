@@ -1,0 +1,7 @@
+Las características técnicas, el equipamiento sanitario y la dotación de personal de los vehículos de transporte sanitario por carretera han sido actualizadas por el Real Decreto 836/2012, de 25 de mayo, por el que se establecen las características técnicas, el equipamiento sanitario y la dotación de personal de los vehículos de transporte sanitario por carretera.
+
+Resulta oportuno, en consecuencia, modificar también el contenido de la Orden del Ministerio de la Presidencia, dictada a propuesta conjunta de los Ministerios de Fomento y de Sanidad y Consumo, de 3 de septiembre de 1998, en materia de autorizaciones de transporte sanitario por carretera, para actualizarlo en la misma medida.
+
+Asimismo, se ha considerado conveniente aproximar el régimen jurídico de las autorizaciones de transporte sanitario a otros criterios que ya son de aplicación en relación con el conjunto de autorizaciones de transporte por carretera, como es el de otorgamiento de una única autorización a la empresa, con expedición de copias certificadas de ésta referidas a cada uno de los vehículos de los que aquélla disponga.
+
+En su virtud, de acuerdo con la autorización contenida en la disposición adicional undécima del Reglamento de la Ley de Ordenación de los Transportes Terrestres, aprobado por Real Decreto 1211/1990, de 28 de septiembre, a propuesta de la Ministra de Fomento y de la Ministra de Sanidad, Servicios Sociales e Igualdad, dispongo:
