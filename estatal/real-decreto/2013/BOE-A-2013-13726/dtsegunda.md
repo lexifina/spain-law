@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Asunción de competencias de los expedientes iniciados y contratos en ejecución.
+
+Los órganos de contratación que, antes de la entrada en vigor de este real decreto y actuando con facultades desconcentradas, conforme al Real Decreto 1053/2010, de 5 de agosto, modificado por el Real Decreto 1675/2011, de 18 de noviembre, hayan iniciado expedientes o mantengan en ejecución y no extintos contratos, negocios jurídicos y acuerdos técnicos, dictarán las resoluciones necesarias para trasladar los citados expedientes a los órganos de contratación que se constituyen conforme a este real decreto.
+
+De igual forma, cuando entre en vigor una nueva orden ministerial de delegación de facultades y cese el régimen transitorio establecido en la disposición transitoria primera, los órganos de contratación delegados dictarán las resoluciones necesarias para trasladar a los órganos de contratación que dicha orden constituya los expedientes ya iniciados y los que se refieran a contratos, negocios jurídicos y acuerdos técnicos, que estén en ejecución y no extintos.
+
+Las competencias de los expedientes en tramitación y los contratos, negocios jurídicos y acuerdos técnicos y no extintos, que correspondan a Programas de Armamento y Material, cuya gestión y contratación se centralice en la Secretaría de Estado, por disposición del Ministro de Defensa, se trasladarán al órgano de contratación que corresponda.
