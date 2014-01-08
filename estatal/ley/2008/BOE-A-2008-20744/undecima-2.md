@@ -11,3 +11,5 @@ Con efectos de 1 de enero de 2009 y vigencia indefinida se modifica el título d
 6. Cuando en virtud del objeto de la colaboración sea de aplicación plena la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público la selección de las entidades colaboradoras se realizará conforme a los preceptos establecidos en dicha Ley. En este supuesto, el contrato, que incluirá necesariamente el contenido mínimo previsto en el apartado 3 ó 4 de este artículo así como el que resulte preceptivo de acuerdo con la normativa reguladora de los contratos públicos, deberá hacer mención expresa al sometimiento del contratista al resto de las obligaciones impuestas a las entidades colaboradoras por esta Ley.»
 
 El resto de apartados del artículo permanecerá con la misma redacción.
+
+> Se declara la inconstitucionalidad, con los efectos establecidos en el fundamento jurídico 3.j), por Sentencia del TC 206/2013, de 5 de diciembre. Ref. BOE-A-2014-223.

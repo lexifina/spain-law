@@ -17,3 +17,5 @@ Primero. La infracción grave del artículo 22.3 se sancionará con la multa sig
 Segundo. La infracción muy grave del artículo 23.1.b) se sancionará con la multa siguiente: en su grado mínimo, con multa del 100,01 al 115 por ciento del importe de las cuotas de Seguridad Social y demás conceptos de recaudación conjunta no ingresados, incluyendo recargos, intereses y costas; en su grado medio, con multa del 115,01 al 130 por ciento; y en su grado máximo, con multa del 130,01 al 150 por ciento.»
 
 El resto del artículo permanece con la misma redacción.
+
+> Se declara la inconstitucionalidad, con los efectos establecidos en el fundamento jurídico 3.h), por Sentencia del TC 206/2013, de 5 de diciembre. Ref. BOE-A-2014-223.
