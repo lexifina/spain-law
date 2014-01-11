@@ -4,4 +4,6 @@
 
 2. En tanto que la CNMV no elabore los modelos de folletos para las ofertas públicas de venta o suscripción y las admisiones a negociación de pagarés con vencimiento inferior a doce meses, la información relativa al emisor, cuando ésta se requiera, deberá proporcionarse de conformidad con los modelos contenidos en el Reglamento 809/2004 de la Comisión Europea o en la Orden de 12 de julio de 1993, sobre folletos informativos y otros desarrollos del Real Decreto 291/1992, de 27 de marzo, sobre emisiones y ofertas públicas de venta de valores, y en la Circular 2/1999, de 22 de abril, de la CNMV, por la que se aprueban determinados modelos de folletos de utilización en emisiones u ofertas públicas de valores. La información relativa al programa de pagarés deberá ajustarse a lo dispuesto en el anexo V o en el anexo XIII del Reglamento 809/2004, de la Comisión Europea o a los modelos contenidos en la citada Circular 2/1999.
 
-3. Asimismo, en tanto que la CNMV no elabore los modelos de folletos para las ofertas públicas de venta o suscripción de los contratos financieros a plazo a los que se refiere la letra b) del artículo 2 de Ley 24/1988, de 28 de julio, del Mercado de Valores, el folleto deberá contener la información exigida por la Circular 2/1999, de 22 de abril, de la Comisión Nacional del Mercado de Valores.
+3. (Suprimido).
+
+> Se suprime el apartado 3 por la disposición final 1.4 de la Orden ECC/2515/2013, de 26 de diciembre. Ref. BOE-A-2014-288.

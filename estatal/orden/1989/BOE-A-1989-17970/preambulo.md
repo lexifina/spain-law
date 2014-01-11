@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 252. de 20 de octubre de 1989. Ref. BOE-A-1989-24590.
+Norma derogada por la disposición derogatoria única de la Orden ECC/2515/2013, de 26 de diciembre. Ref. BOE-A-2014-288#ddunica.

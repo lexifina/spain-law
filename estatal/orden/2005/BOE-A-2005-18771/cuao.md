@@ -17,3 +17,7 @@ b) Que las aceptaciones de compra o suscripción de valores puedan retirarse al 
 El precio final de oferta y el número de valores ofertados deberán remitirse a la CNMV para su depósito y deberán publicarse con arreglo a lo dispuesto en el artículo 25 del Real Decreto por el que se establecen los requisitos aplicables al registro y publicación del folleto.
 
 3. Cuando, excepcionalmente, cierta información que deba ser incluida en el folleto resulte inadecuada en relación con la esfera de actividad del emisor o su naturaleza jurídica, o con los valores a los que se refiere el folleto, éste contendrá la información existente equivalente a la requerida.
+
+4. Cuando los valores estén garantizados por un Estado miembro, podrá no incluirse en el folleto información sobre el garante.
+
+> Se añade el apartado 4 por la disposición final 1.2 de la Orden ECC/2515/2013, de 26 de diciembre. Ref. BOE-A-2014-288.
