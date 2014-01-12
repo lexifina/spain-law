@@ -1,0 +1,5 @@
+## Disposición adicional primera. Celebración de contratos para la formación y el aprendizaje por las empresas de trabajo temporal.
+
+A los efectos de la presente norma, se entenderá que las referencias que se hacen a lo largo de la misma a las empresas incluyen a las empresas de trabajo temporal cuando celebren contratos para la formación y el aprendizaje con los trabajadores contratados para ser puestos a disposición de las empresas usuarias.
+
+De conformidad con los artículos 6.bis y 20.1 del Real Decreto 1529/2012, de 8 de noviembre, la empresa de trabajo temporal será la responsable de las obligaciones relativas a los aspectos formativos del citado contrato. Por su parte, la empresa usuaria será la responsable de designar la persona encargada de tutelar el desarrollo de la actividad laboral, que actuará como interlocutora con la empresa de trabajo temporal a estos efectos, debiendo asumir esta última el resto de obligaciones relativas a las tutorías vinculadas al contrato y al acuerdo para la actividad formativa.
