@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Plazos de adaptación a la nueva norma respecto de las características raciales.
+
+Sin perjuicio de lo establecido en la disposición derogatoria con objeto de facilitar el cumplimiento de lo previsto en la presente norma, respecto de las características raciales de los animales y el procedimiento para su certificación, se establece un plazo transitorio de dos años para que los reproductores acogidos al Real Decreto 1469/2007 se ajusten al presente real decreto. En cualquier caso, los nuevos reproductores que, a partir de la publicación de esta norma, se incorporen a las explotaciones deberán cumplir los mencionados requisitos raciales.
