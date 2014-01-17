@@ -1,0 +1,3 @@
+Téngase en cuenta que las referencias efectuadas en esta Orden a la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, se entenderán referidas a los correspondientes artículos del texto refundido de la Ley de Contratos del Sector Público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre, según establece la disposición adicional única de la Orden HAP/19/2014, de 13 de enero. Ref. BOE-A-2014-439.
+
+El Real Decreto Legislativo 3/2011 citado ha sido derogado, con efectos de 9 de marzo de 2018, por la disposición derogatoria de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público. Ref. BOE-A-2017-12902
