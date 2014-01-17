@@ -14,4 +14,6 @@ e) La redacción dada al artículo 23 del texto refundido de la Ley del Impuesto
 
 f) La redacción dada al apartado 2 del artículo 68 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las Leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, mediante el apartado cinco del artículo 27, surtirá efectos desde el 1 de enero de 2013.
 
-g) Lo previsto en el artículo 35, relativo al importe exigido para la cifra mínima del capital social desembolsado de las sociedades de garantía recíproca, entrará en vigor a los 9 meses de su publicación en el «Boletín Oficial del Estado».
+g) Lo previsto en el artículo 35, relativo al importe exigido para la cifra mínima del capital social desembolsado y de recursos propios computables de las sociedades de garantía recíproca, entrará en vigor a los 9 meses de su publicación en el «Boletín Oficial del Estado».
+
+> Se modifica la letra g) por la disposición final 4.2 de la Ley 25/2013, de 27 de diciembre. Ref. BOE-A-2013-13722.
