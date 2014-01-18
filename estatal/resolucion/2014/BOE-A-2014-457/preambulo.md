@@ -1,0 +1,15 @@
+El texto refundido de la Ley sobre Seguridad Social de las Fuerzas Armadas, aprobado por el Real Decreto Legislativo 1/2000, de 9 de junio, establece en su artículo 13 el contenido de la asistencia sanitaria de este régimen especial, que se desarrolla en el capítulo V de su Reglamento General, aprobado por Real Decreto 1726/2007, de 21 de diciembre, concretándose que su contenido será análogo al establecido en el ámbito del Sistema Nacional de Salud.
+
+La Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, en su artículo 7.1, establece que el catálogo de prestaciones del Sistema Nacional de Salud tiene por objeto garantizar las condiciones básicas y comunes para una atención integral, continuada y en el nivel adecuado de atención que, conforme a lo previsto en el artículo 8, se harán efectivas mediante la cartera común de servicios.
+
+En la disposición adicional única del Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, se contempla que las mutualidades de funcionarios, en sus respectivos ámbitos de competencia, podrán aprobar sus respectivas carteras de servicios y, atendiendo a esta previsión, por Resolución 4B0/38276/2009, de 16 de diciembre, se aprobó la Cartera de Servicios de Asistencia Sanitaria del ISFAS.
+
+El Real Decreto-ley 16/2012, de 20 de abril, de medidas urgentes para garantizar la sostenibilidad del Sistema Nacional de Salud y mejorar la calidad y seguridad de sus prestaciones, ha introducido diversas modificaciones en la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, reestructurándose la cartera común de servicios del Sistema Nacional de Salud que, conforme a lo dispuesto en el artículo 8 de la citada Ley, se articula ahora en torno a las siguientes modalidades:
+
+a) Cartera común básica de servicios asistenciales del Sistema Nacional de Salud, que comprende todas las actividades asistenciales de prevención, diagnóstico, tratamiento y rehabilitación que se realicen en centros sanitarios, así como el transporte sanitario urgente, cubiertos de forma completa.
+
+b) Cartera común suplementaria del Sistema Nacional de Salud, que incluye aquellas prestaciones cuya provisión se realiza mediante dispensación ambulatoria, en concreto, la prestación farmacéutica, la prestación ortoprotésica, la prestación con productos dietéticos y el transporte sanitario no urgente.
+
+c) Cartera común de servicios accesorios del Sistema Nacional de Salud, que incluye todas aquellas actividades, servicios o técnicas, sin carácter de prestaciones, no esenciales y/o coadyuvantes o de apoyo, estando sujetas a aportación y/o reembolso por parte del usuario.
+
+La Cartera de Servicios de la Asistencia Sanitaria del ISFAS debe adaptarse a este nuevo contexto y, con este objeto, en el ejercicio de las competencias atribuidas por el artículo 18 del Reglamento General de la Seguridad Social de las Fuerzas Armadas, aprobado por Real Decreto 1726/2007, de 21 de diciembre, dispongo:
