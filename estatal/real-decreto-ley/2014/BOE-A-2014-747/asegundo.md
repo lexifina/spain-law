@@ -1,0 +1,5 @@
+## Artículo segundo. Modificación de la Ley 28/2006, de 18 de julio, de Agencias estatales para la mejora de los servicios públicos.
+
+El párrafo quinto del apartado 1 de la disposición adicional tercera de la Ley 28/2006, de 18 de julio, de Agencias estatales para la mejora de los servicios públicos, queda redactado de la siguiente manera:
+
+«Agencia Estatal de Seguridad Ferroviaria, para la detección, análisis y evaluación de los riesgos de seguridad en el transporte por ferrocarril. En el ámbito de la competencia estatal, ejercerá las funciones de autoridad responsable de la seguridad ferroviaria, tal y como se establece en la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, y en particular, la ordenación, inspección y supervisión de la seguridad de todos los elementos del sistema ferroviario, tanto en relación a las infraestructuras, el material rodante, el personal ferroviario, como a la operación ferroviaria. Asimismo, llevará a cabo las funciones relacionadas con la interoperabilidad del sistema ferroviario de competencia estatal. También le corresponderá el otorgamiento, suspensión y revocación de licencias a las empresas ferroviarias.»
