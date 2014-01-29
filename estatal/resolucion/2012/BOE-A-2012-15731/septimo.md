@@ -17,3 +17,7 @@ Alternativamente, si no existe obligación de declarar y no se ha solicitado dev
 b) Declaración responsable de las pensiones o prestaciones que estén exentas o no estén sujetas a tributación por IRPF, percibidas en el ejercicio fiscal al que correspondan los datos tributarios aludidos en el anterior apartado a).
 
 Con la documentación económica que en cada caso corresponda, se calculará la renta de la unidad familiar que permitirá determinar el cumplimiento de los requisitos relativos a la capacidad económica establecidos para las situaciones o estados de necesidad a que está llamado a atender el FAS.
+
+> Téngase en cuenta, que además de la documentación prevista en esta Resolución, con efectos desde el 1 de enero de 2014, habrá de aportarse certificado de empadronamiento, según establece la Resolución de 27 de diciembre de 2013. Ref. BOE-A-2014-866.
+
+> Véase la Resolución de 27 de diciembre de 2013. Ref. BOE-A-2014-866 , que establece, con efectos desde 1 de enero de 2014, la documentación a aportar por los interesados.
