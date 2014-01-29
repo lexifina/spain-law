@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 200, de 21 de agosto de 1986. Ref. BOE-A-1986-22513
+Norma derogada por la disposición derogatoria única del Real Decreto 18/2014, de 17 de enero. Ref. BOE-A-2014-834#ddunica
