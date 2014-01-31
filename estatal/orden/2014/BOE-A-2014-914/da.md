@@ -1,0 +1,3 @@
+## Disposición adicional única. Formación.
+
+La Escuela de la Inspección de Trabajo y Seguridad Social, en coordinación con otras unidades de formación del Ministerio y de acuerdo con el Plan de Formación anual, organizará cursos de formación y perfeccionamiento profesional dirigidos a la detección y corrección del fraude en materia de Seguridad Social. Estos cursos estarán dirigidos a Inspectores de Trabajo y Seguridad Social, Letrados y Técnicos de la Administración de la Seguridad Social y Subinspectores de Empleo y Seguridad Social, incluidos los funcionarios de nuevo ingreso. Se contemplará la participación de jueces y fiscales en estos procesos de formación y perfeccionamiento.
