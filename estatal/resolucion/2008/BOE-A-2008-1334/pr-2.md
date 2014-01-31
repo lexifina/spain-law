@@ -10,4 +10,8 @@ b) Expedición de certificados por el Registro de contratos de seguro de cobertu
 
 3. Igualmente, la presente resolución, a través de su apartado duodécimo, también establece las condiciones para el pago por vía telemática de las tasas con código 004 «Derechos de examen (gestión por la Comisión de Selección de las pruebas de acceso a las carreras judicial y fiscal)» y las tasas con código 007 «Derechos de examen para Pruebas selectivas en la Administración de Justicia».
 
+4. Asimismo, se establece, a través del apartado décimo tercero, las condiciones para el pago telemático de la tasa con código 020 ‘‘Tasa por el alta o modificación de fichas toxicológicas en el registro de productos químicos’’.»
+
+> Se añade el punto 4 por el apartado 1.1 de la Resolución de 13 de noviembre de 2013. Ref. BOE-A-2014-912
+
 > Se añade el punto 3 por el apartado 2 de la Resolución de 22 de marzo de 2010. Ref. BOE-A-2010-5295

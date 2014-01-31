@@ -6,8 +6,10 @@ Los sujetos pasivos que efectúen el pago de tasas de forma telemática han de c
 
 a) Disponer de número de identificación fiscal (NIF) o un código de identificación fiscal (CIF) según corresponda.
 
-b) Disponer de firma electrónica avanzada basada en un certificado de usuario que sea admitido por la Agencia Estatal de Administración Tributaria como medio de identificación y autenticación en sus relaciones telemáticas con los contribuyentes.
+b) Disponer de firma electrónica avanzada basada en un certificado electrónico que sea admitido por la Agencia Estatal de Administración Tributaria como medio de identificación y autenticación en sus relaciones telemáticas con los contribuyentes.
 
-c) Tener una cuenta abierta en una entidad colaboradora en la gestión recaudatoria que se haya adherido al sistema previsto en la Resolución de 3 de junio de 2009 de la Dirección General de la Agencia Estatal de Administración Tributaria, sobre asistencia a los obligados tributarios y ciudadanos en su identificación telemática ante las entidades colaboradoras con ocasión de la tramitación de los procedimientos tributarios y en particular para el pago de deudas mediante el sistema de cargo en cuenta o mediante la utilización de tarjetas de crédito o débito, y aparezca en la relación de entidades que se muestre en la opción de pago de la oficina virtual de la página Web de la Agencia Estatal de Administración Tributaria.
+c) Tener una cuenta abierta en una entidad colaboradora en la gestión recaudatoria que se haya adherido al sistema previsto en la Resolución de 3 de junio de 2009 de la Dirección General de la Agencia Estatal de Administración Tributaria, sobre asistencia a los obligados tributarios y ciudadanos en su identificación telemática ante las entidades colaboradoras con ocasión de la tramitación de los procedimientos tributarios y en particular para el pago de deudas mediante el sistema de cargo en cuenta o mediante la utilización de tarjetas de crédito o débito, y aparezca en la relación de entidades que se muestre en la opción de pago de la Sede electrónica de la Agencia Tributaria.
+
+> Se modifica por el apartado 1.8 de la Resolución de 13 de noviembre de 2013. Ref. BOE-A-2014-912
 
 > Se modifica la letra c) por el apartado 3 de la Resolución de 22 de marzo de 2010. Ref. BOE-A-2010-5295
