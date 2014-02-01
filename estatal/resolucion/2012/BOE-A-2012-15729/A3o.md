@@ -74,12 +74,13 @@ En el caso de las ayudas prismáticas se requerirá informe del facultativo espe
 
 II. Otras prestaciones complementarias:
 
-| Audífono | 425 € /u | 2 años naturales. |
+| Prestación | Cuantía | Carencia |
 | --- | --- | --- |
-| Reparación de audífono | 210 €/u | 2 años naturales. |
-| Colchón antiescaras | 125 € | 2 años naturales. |
-| Laringófono | 100 % | – |
-| Bomba de insulina | 100 % | – |
+| Audífono | 425 €/u. | 2 años naturales |
+| Reparación de audífono | 210 €/u. | 2 años naturales |
+| Colchón antiescaras | 125% | 2 años naturales |
+| Laringófono | 100% |  |
+| Bomba de insulina. Excluidos mutualistas adscritos a Entidades Médicas. | 100% | - |
 
 1. Requisitos y condiciones para su concesión:
 
@@ -89,6 +90,10 @@ La renovación y reparación de audífonos tendrán un periodo de carencia de do
 
 La ayuda para audífono, prevista en este anexo, será incompatible con la prestación de audífono prevista en el Catálogo de Material Ortoprotésico de MUGEJU.
 
+En el supuesto de la prestación complementaria de la bomba de insulina, cuando se trate de titulares y beneficiarios de MUGEJU adscritos al Servicio Público de Salud, de las CCAA o al Ingesa deberá aportar documentación que acredite que ha solicitado esta prestación y la respuesta obtenida.
+
 Para el cómputo de las prestaciones concedidas se tendrá en cuenta la fecha de la correspondiente factura.
+
+> Se modifica el apartado II por el apartado único de la Resolución de 22 de enero de 2014. Ref. BOE-A-2014-983.
 
 > Se modifica el punto 2 por la Resolución de 17 de diciembre de 2013. Ref. BOE-A-2013-13782.
