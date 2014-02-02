@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Experiencia profesional.
+
+No obstante lo dispuesto en materia de formación, los órganos competentes de las comunidades autónomas y Ciudades de Ceuta y Melilla podrán, hasta el 8 de diciembre de 2015, expedir certificados de competencia previstos en el artículo 21 del Reglamento (CE) n.º 1099/2009 que se expedirán mediante el procedimiento simplificado al que se refiere el artículo 29.2 de dicho reglamento, a los operarios que a juicio de los referidos órganos competentes acrediten una experiencia profesional adecuada y previa de al menos tres años.
+
+A estos efectos, los operadores de los establecimientos en que estos trabajadores hubieran desempeñado su actividad, emitirán una declaración responsable respecto del tiempo de experiencia profesional adecuada del operario, así como de sus conocimientos adecuados en las operaciones y categorías de animales correspondientes, conforme establecía el Real Decreto 54/1995 y conforme a lo previsto en el Reglamento (CE) n.º 1099/2009 a partir del 1 de enero de 2013. La información contenida en la declaración responsable será comprobada por los órganos competentes que expidan los certificados, o por las entidades en que hayan delegado dicha labor.
+
+Cuando el operario al que haya de expedirse el certificado lleve menos de tres años trabajando para el último operador económico, aquel deberá aportar declaraciones de los operadores donde anteriormente haya trabajado hasta completar al menos los tres últimos años inmediatos al momento en que solicita la certificación.
