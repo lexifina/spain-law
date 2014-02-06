@@ -1,0 +1,5 @@
+## Norma primera. Ámbito de aplicación y definiciones.
+
+1. Lo dispuesto en esta Circular será de aplicación a los grupos consolidables de entidades de crédito, sujetos a supervisión del Banco de España, de acuerdo con el Reglamento (UE) n.º 575/2013, del Parlamento Europeo y del Consejo, de 26 de junio de 2013, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012, así como a las entidades de crédito individuales de nacionalidad española, integradas o no en un grupo consolidable de entidades de crédito.
+
+2. Los términos y conceptos utilizados en la presente circular se entenderán de acuerdo con las definiciones recogidas en el Reglamento (UE) n.º 575/2013, la Directiva 36/2013/UE, del Parlamento Europeo y del Consejo, de 26 de junio de 2013, relativa al acceso a la actividad de las entidades de crédito y a la supervisión prudencial de las entidades de crédito y las empresas de inversión, por la que se modifica la Directiva 2002/87/CE y se derogan las directivas 2006/48/CE y 2006/49/CE (en adelante, CRD) y sus normas de transposición al derecho español.

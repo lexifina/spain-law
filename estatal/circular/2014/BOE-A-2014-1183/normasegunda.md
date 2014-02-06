@@ -1,0 +1,5 @@
+## Norma segunda. Tratamiento de determinadas participaciones.
+
+1. En el caso de las tenencias de instrumentos de fondos propios de un ente del sector financiero en el que las entidades tengan una inversión significativa, el Banco de España, de acuerdo con lo dispuesto en el artículo 49.1 del Reglamento (UE) n.º 575/2013, podrá autorizar que las entidades no deduzcan de sus fondos propios dichas tenencias, en cuyo caso las someterán a ponderación a efectos del cálculo de los requisitos de recursos propios según se indica en el artículo 49.4 del Reglamento (UE) n.º 575/2013.
+
+2. En el caso de las participaciones cualificadas en entidades de carácter no financiero, de conformidad con lo dispuesto en el artículo 89.3 del Reglamento (UE) n.º 575/2013, y de acuerdo con lo establecido en él sobre el tratamiento de las participaciones cualificadas en entidades de carácter no financiero, las entidades deberán aplicar el tratamiento previsto en su letra a), esto es, aplicar la ponderación del 1.250% en ella establecida.
