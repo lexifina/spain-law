@@ -66,7 +66,7 @@ Duración de la formación asociada: (420 horas)
 
 Relación de módulos formativos y de unidades formativas:
 
-MF0010_1: Operaciones en una embarcación pesquera. (30 horas)
+MF0010_1: Labores de cubierta en buque de pesca. (30 horas)
 
 MF1899_1: Posición del buque y comunicaciones marítimas. (80 horas)
 
@@ -384,7 +384,7 @@ III. FORMACIÓN DEL CERTIFICADO DE PROFESIONALIDAD
 
 MÓDULO FORMATIVO 1
 
-Denominación: OPERACIONES EN UNA EMBARCACIÓN PESQUERA
+Denominación: LABORES DE CUBIERTA EN BUQUE DE PESCA
 
 Código: MF0010_1
 
@@ -1481,7 +1481,7 @@ IV. PRESCRIPCIONES DE LOS FORMADORES
 | Módulos Formativo | Acreditación requerida | Experiencia profesional requerida en el ámbito de la unidad de competencia |
 | --- | --- | --- |
 | Con acreditación | Sin acreditación |
-| MF0010_1: Operaciones de una embarcación pesquera. | ● Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes. ● Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes. ● Técnico Superior de Navegación, Pesca y Transporte Marítimo. ● Técnico en Pesca y Transporte Marítimo. ● Certificados de profesionalidad nivel 2 y 3 del área profesional de pesca de la familia profesional marítimo-pesquera. | 1 año | 4 años |
+| MF0010_1: Labores de cubierta en buque de pesca | ● Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes. ● Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes. ● Técnico Superior de Navegación, Pesca y Transporte Marítimo. ● Técnico en Pesca y Transporte Marítimo. ● Certificados de profesionalidad nivel 2 y 3 del área profesional de pesca de la familia profesional marítimo-pesquera. | 1 año | 4 años |
 | MF1899_1: Posición del buque y comunicaciones marítimas. | ● Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes. ● Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes. ● Técnico Superior de Navegación, Pesca y Transporte Marítimo. ● Técnico en Pesca y Transporte Marítimo. ● Certificados de profesionalidad nivel 2 y 3 del área profesional de pesca de la familia profesional marítimo-pesquera. | 1 año | 4 años |
 | MF1900_3: Capacitación pesquera. | ● Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes. ● Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes. | 1 año | 2 años |
 | MF1901_3: Control de la actividad pesquera en un buque. | ● Licenciado en Náutica y Transporte marítimo o el título de grado correspondiente u otros títulos equivalentes. ● Diplomado en Navegación Marítima o el título de grado correspondiente u otros títulos equivalentes. | 1 año | 2 años |
@@ -1509,6 +1509,8 @@ Las instalaciones y equipamientos deberán cumplir con la normativa industrial e
 El número de unidades que se deben disponer de los utensilios, máquinas y herramientas que se especifican en el equipamiento de los espacios formativos, será el suficiente para un mínimo de 15 alumnos y deberá incrementarse, en su caso, para atender a número superior.
 
 En el caso de que la formación se dirija a personas con discapacidad se realizarán las adaptaciones y los ajustes razonables para asegurar su participación en condiciones de igualdad.
+
+> Se modifica la denominación del módulo formativo MF0010_1 por la disposición final 2 del Real Decreto 988/2013, de 13 de diciembre. Ref. BOE-A-2014-1218
 
 > Se modifica la duración del módulo formativo transversal MF0733_1 y la duración total de la formación asociada, por la disposición final 3 del Real Decreto 622/2013, de 2 de agosto. Ref. BOE-A-2013-9576
 
