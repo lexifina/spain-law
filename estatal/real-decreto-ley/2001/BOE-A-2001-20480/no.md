@@ -1,0 +1,1 @@
+Norma derogada por la disposición adicional 1 del Real Decreto-ley 13/2010, de 3 de diciembre, Ref. BOE-A-2010-18651#daprimera . que surte efectos por la entrada en vigor del Real Decreto 20/2014, de 17 de enero, Ref. BOE-A-2014-508#ddunica., según establece su disposición derogatoria única.
