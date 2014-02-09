@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Análisis, evaluación de su aplicación y actualización de este real decreto.
+
+1. El Consejo Interterritorial del Sistema Nacional de Salud, a través de la Comisión de prestaciones, aseguramiento y financiación, analizará durante el primer año tras la entrada en vigor de este real decreto, y posteriormente con la periodicidad que se determine, los flujos de pacientes, los aspectos financieros y organizativos de la movilidad de los pacientes, la aplicación de los procedimientos de reembolso y autorización previa y el tipo de prestaciones solicitadas en relación con la asistencia sanitaria transfronteriza, valorando la evolución de estos factores, con el fin de que se introduzcan los elementos de mejora en la garantía de los derechos de los pacientes en el marco de este real decreto.
+
+2. La referida Comisión de prestaciones, aseguramiento y financiación analizará también el tipo de prestaciones sometidas a autorización previa y, en función del resultado de su análisis, se procederá, en su caso, a la actualización de las incluidas en el anexo II en los términos previstos en la disposición final cuarta.

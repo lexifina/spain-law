@@ -32,6 +32,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 14](a14.md)
 - [CAPÍTULO VI](cvi.md)
 - [Artículo 15](a15.md)
+- [Artículo 15 bis](a15bis.md)
 - [Artículo 16](a16.md)
 - [CAPÍTULO VII](cvii.md)
 - [Artículo 17](a17.md)

@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Información a suministrar a la Unión Europea.
+
+1. El Ministerio de Sanidad, Servicios Sociales e Igualdad prestará la debida asistencia y facilitará a la Comisión Europea la información disponible para la elaboración de los informes que a dicha institución le corresponde realizar conforme a la normativa comunitaria y respetando las garantías de seguridad en el tratamiento de datos de carácter personal establecidas en la legislación española.
+
+2. A efectos de dar cumplimiento a la obligación indicada en el apartado anterior, los servicios regionales de salud de las comunidades autónomas, el Instituto Nacional de Gestión Sanitaria y las distintas Mutualidades de funcionarios deberán suministrar a dicho departamento ministerial, la información que resulta precisa, en particular, los datos sobre los flujos de pacientes, la magnitud financiera de la movilidad de los pacientes, la autorización previa y demás aspectos relativos al reembolso de los gastos de asistencia sanitaria transfronteriza.
