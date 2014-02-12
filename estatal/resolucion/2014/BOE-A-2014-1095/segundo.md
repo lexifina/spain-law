@@ -1,0 +1,3 @@
+## Segundo. Régimen sancionador.
+
+Las transgresiones a las medidas de regulación contenidas en la presente Resolución, se sancionarán, en su caso, con arreglo a lo prevenido en el texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial. Asimismo, los Agentes de la Autoridad responsables de la vigilancia y disciplina del tráfico podrán establecer la parada obligatoria del vehículo cuando su circulación cause riesgo o perturbaciones graves al normal desarrollo del tráfico rodado, y, si fuera necesario, procederán a su retirada y depósito, hasta que cese la prohibición o se autorice su marcha.
