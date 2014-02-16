@@ -1,5 +1,7 @@
 ## ANEJOS
 
+> Téngase en cuenta que por Acuerdo del Consejo de Ministros de 10 de enero de 2014 se amplían los límites del Parque Nacional de las Tablas de Daimiel por incorporación de terrenos colindantes al mismo. Consúltese el Anexo II que contiene los nuevos límites geográficos y linderos del Parque Nacional. Ref. BOE-A-2014-785#anii.
+
 1. Límites del Parque.
 
 2. Límites de la reserva integral de aves acuáticas.
