@@ -1,0 +1,21 @@
+Las tecnologías de la información y las comunicaciones están influyendo muy significativamente en la forma e incluso en el contenido de las relaciones de los seres humanos entre sí y de las sociedades en que se integran. La época actual tiene como uno de sus rasgos característicos la revolución que han supuesto las comunicaciones electrónicas.
+
+En esa perspectiva, una Administración a la altura de los tiempos en que actúa tiene que acompañar y promover, en beneficio de los ciudadanos, el uso de las comunicaciones electrónicas. Estos han de ser los primeros y principales beneficiarios del salto, impensable hace sólo unas décadas, que se ha producido en el campo de la tecnología de la información y las comunicaciones electrónicas. Al servicio, pues, del ciudadano la Administración queda obligada a transformarse en una administración electrónica regida por el principio de eficacia que proclama el artículo 103 de la Constitución Española.
+
+Por ello, la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, tiene como vocación un mejor servicio a los ciudadanos, así como una mayor eficacia y eficiencia en las comunicaciones, ofreciendo a sus ciudadanos las ventajas y posibilidades de la sociedad de la información.
+
+El Ministerio de Educación, Cultura y Deporte, a través del Instituto Nacional de las Artes Escénicas y de la Música, viene gestionando desde 1985 procedimientos de ayudas y subvenciones a proyectos de artes escénicas y musicales que fomenten la comunicación cultural entre las Comunidades Autónomas y la proyección exterior de nuestra cultura. Actualmente dichos procedimientos corresponden a las ayudas a la música, la lírica y la danza, las ayudas para programas de difusión, desarrollo y preservación del teatro y el circo y de comunicación teatral y circense, y las subvenciones nominativas del Instituto de las Artes Escénicas y de la Música.
+
+Las instituciones culturales que resultan beneficiarios de estas ayudas –empresarios privados, asociaciones, fundaciones y corporaciones locales– están capacitadas para el uso de las tecnologías de la información y la comunicación al haber atravesado en las últimas décadas un importante proceso de profesionalización de la gestión y por la utilización habitual de herramientas de promoción y difusión a través de Internet, además de la extensión del cumplimiento de trámites legales, fiscales y laborales por medios telemáticos.
+
+Por otro lado, la presentación de extensos y minuciosos formularios en formato papel hace que las Administraciones incurran en elevados costes en tiempo y recursos a la hora de incorporar la información a bases de datos informatizadas que faciliten su procesamiento con la eficacia requerida.
+
+El artículo 27 de la Ley 11/2007, de 22 de junio, en su apartado sexto, señala que reglamentariamente las Administraciones Públicas podrán establecer la obligatoriedad de comunicarse con ellas utilizando sólo medios electrónicos, cuando los interesados se correspondan con personas jurídicas o colectivos de personas físicas que por razón de su capacidad económica o técnica, dedicación profesional u otros motivos acreditados tengan garantizado el acceso y disponibilidad de los medios tecnológicos precisos.
+
+Las entidades a las que se dirigen estas líneas de ayudas presentan experiencia en organización de eventos culturales y desarrollan habitualmente su actividad utilizando las nuevas tecnologías e internet, por lo que tienen garantizado el acceso y disponibilidad de los medios tecnológicos necesarios.
+
+Actualmente dichos procedimientos pueden tramitarse de manera electrónica en virtud de la Orden CUL/3685/2008, de 11 de diciembre, por la que se incluyen nuevos procedimientos administrativos en el registro telemático del Ministerio de Cultura.
+
+Por último, a fin de garantizar el acceso electrónico a todos los posibles solicitantes, es necesario establecer un punto de acceso general en el Centro de Información al Ciudadano del Departamento, ubicado en la sede de la Secretaría de Estado de Cultura, en la plaza del Rey, número 1, Madrid.
+
+Por todo lo expuesto anteriormente, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, dispongo:
