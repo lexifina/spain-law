@@ -48,7 +48,7 @@ Géneros y especies a que se refiere el apartado I del Reglamento técnico de co
 | Foeniculum vulgare Mill. | Hinojo. |
 | Lactuca sativa L. | Lechuga. |
 | Lens culinaris Medick. | Lenteja. |
-| Lycopersicon esculentum Mill. | Tomate. |
+| Solanum lycopersicum L. | Tomate. |
 | Petroselinum crispum (Mill.) Nyman ex A. W. Hill. | Perejil. |
 | Phaseolus coccineus L. | Judía escarlata o judía de España. |
 | Phaseolus vulgaris L. | Judía de mata baja. |
@@ -66,5 +66,7 @@ Géneros y especies a que se refiere el apartado I del Reglamento técnico de co
 | Vicia faba L. | Haba. |
 | Zea mays L. (partim). | Maíz dulce. |
 |  | Maíz para palomitas.» |
+
+> Se modifica por el art. 4 de la Orden AAA/198/2014, de 12 de febrero. Ref. BOE-A-2014-1647.
 
 > Se modifica por el art. 2 de la Orden APA/1818/2007, de 13 de junio. Ref. BOE-A-2007-12197

@@ -271,7 +271,7 @@ LISTA DE ORGANISMOS NOCIVOS Y ENFERMEDADES QUE AFECTAN A LA CALIDAD DE MANERA SI
 |  | – Pythium spp. |
 |  | Virus y organismos similares. |
 |  | – Todos y en especial Lettuce big vein, Lettuce mosaic virus y Lettuce ring necrosis. |
-| – Lycopersicon lycopersicum. | Insectos, ácaros y nematodos en todas las fases de su desarrollo. |
+| – Solanum lycopersicum L. | Insectos, ácaros y nematodos en todas las fases de su desarrollo. |
 |  | – Aphididae. |
 |  | – Aleyrodidae. |
 |  | – Hauptidia maroccana. |
@@ -321,3 +321,5 @@ LISTA DE ORGANISMOS NOCIVOS Y ENFERMEDADES QUE AFECTAN A LA CALIDAD DE MANERA SI
 |  | – Verticillium spp. |
 |  | Virus y organismos similares. |
 |  | – Todos y en especial Cucumber mosaic virus, Eggplant mosaic virus, Potato virus Y y Tobacco mosaic virus. |
+
+> Se modifica por el art. 4 de la Orden AAA/198/2014, de 12 de febrero. Ref. BOE-A-2014-1647.

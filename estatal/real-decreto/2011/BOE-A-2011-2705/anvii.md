@@ -130,7 +130,7 @@ Salsifí negro o Escorzonera: Scorzonera hispanica L.
 
 Sandía: Citrullus lanatus (Thunb.) Matsum. et Nakai
 
-Tomate: Lycopersicon esculentum Mill.
+Tomate: Solanum lycopersicum L.
 
 Zanahoria de mesa: Daucus carota L.
 
@@ -345,6 +345,8 @@ Especies que cumplen con las directrices de examen de la UPOV (2):
 (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
 (2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Se modifica el apartado 1 por el art. 1 de la Orden AAA/198/2014, de 12 de febrero. Ref. BOE-A-2014-1647.
 
 > Se modifica el apartado 5 por el art. único.1.3 de la Orden AAA/1170/2013, de 21 de junio. Ref. BOE-A-2013-6904.
 
