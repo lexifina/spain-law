@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Titulados de la antigua formación de adultos.
+
+Las personas que, habiendo aprobado los exámenes finales de la antigua formación de adultos, no hayan podido obtener el correspondiente título profesional por no tener realizados los períodos de embarque con anterioridad al 31 de diciembre de 2008, y hayan iniciado su servicio en la mar en la sección del buque que indique el certificado de examen, antes del 29 de septiembre de 2012, dispondrán de 5 años a partir de esta última fecha para acreditar la realización de dichos períodos y solicitar la correspondiente titulación profesional.
