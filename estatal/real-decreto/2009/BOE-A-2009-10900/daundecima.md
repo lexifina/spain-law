@@ -1,0 +1,5 @@
+## Disposición adicional undécima. Sobre los requisitos de calidad de las escuelas y facultades.
+
+Las escuelas y facultades autorizadas para la impartición de los estudios universitarios que dan derecho a la obtención del grado y del máster en sus distintas especialidades que permiten obtener los títulos profesionales marítimos de capitán de la marina mercante, piloto de primera de la marina mercante, piloto de segunda de la marina mercante, jefe de máquinas de la marina mercante, oficial de máquinas de primera de la marina mercante, oficial de máquinas de segunda de la marina mercante, oficial radioelectrónico de primera de la marina mercante y oficial radioelectrónico de segunda de la marina mercante, deberán cumplir con los requisitos mínimos de calidad, con la realización de auditorías independientes y con la remisión de la información a la Dirección General de la Marina Mercante, tal y como se establece en los artículos 20, 21 y 22 de este real decreto.
+
+> Se añade por el art. único.35 del Real Decreto 80/2014, de 7 de febrero. Ref. BOE-A-2014-1868.
