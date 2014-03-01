@@ -20,11 +20,15 @@ Junto a la liquidación mensual correspondiente, el gestor aeroportuario remitir
 
 8. La cuantía de esta tasa será de 0,579885 euros por pasajero de salida.
 
-9. Se aplicará a la cuantía de esta tasa las reducciones previstas en el artículo 78.2 para la prestación patrimonial pública de seguridad aeroportuaria devengada en los aeropuertos de las Islas Canarias, Illes Balears, Ceuta y Melilla.
+9. Se aplicará a la cuantía de esta tasa las reducciones previstas en el artículo 78.3 para la prestación patrimonial pública de seguridad aeroportuaria devengada en los aeropuertos de las Islas Canarias, Illes Balears, Ceuta y Melilla.
+
+> Téngase en cuenta que esta última modificación del apartado 9 efectuada por la disposición final 12.7 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616. surte efectos desde el 1 de marzo de 2014.
 
 10. La gestión y cobro de la tasa corresponde a la Agencia Estatal de Seguridad Aérea, con la colaboración del gestor aeroportuario en los términos establecidos en el apartado 7.
 
 11. El importe íntegro de lo recaudado por esta tasa formará parte del presupuesto de ingresos de la Agencia Estatal de Seguridad Aérea.
+
+> Se modifica el apartado 9 por la disposición final 12.7 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
 
 > Se añade por el art. 2.2 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320.
 
