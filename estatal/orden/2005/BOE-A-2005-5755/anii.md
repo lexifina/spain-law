@@ -2,15 +2,17 @@
 
 ## Clasificación de las líneas ferroviarias
 
-| Tipo de línea | Velocidad Máxima de la Línea |
+| Tipo de línea | Velocidad máxima de la línea |
 | --- | --- |
-| A | A.1 | Línea Madrid-Barcelona-Frontera Francesa (Límite con la Sección Internacional entre Figueras-Perpignan administrada por TP Ferro). |
-| A.2 | Resto de líneas con V máx > 250 Km/h en al menos 2/3 de su recorrido. |
-| B | B.1 | 250 Km/h ≥ V max Línea >200 Km/h en al menos 2/3 de su recorrido. |
+| A | A.1 | Línea Madrid-Barcelona-frontera francesa (límite con la Sección Internacional entre Figueras-Perpignan administrada por TP Ferro). |
+| A.2 | Resto de líneas con V máx > 250 km/h en al menos 2/3 de su recorrido. |
+| B | B.1 | 250 km/h ≥ V max línea > 200 km/h en al menos 2/3 de su recorrido. |
 | C | C.1 | Núcleos de cercanías. |
 | C.2 | Resto de líneas. |
 
 La información anualizada sobre la clasificación de líneas se incluirá en la Declaración sobre la Red que elabora el Administrador de Infraestructuras Ferroviarias periódicamente.
+
+> Se modifica por la disposición adicional 3.2.4 de la Ley 1/2014, de 28 de febrero. Ref. BOE-A-2014-2219.
 
 > Se modifica por la disposición adicional 3.2.4 del Real Decreto-ley 11/2013, de 2 de agosto. Ref. BOE-A-2013-8556.
 

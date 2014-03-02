@@ -10,7 +10,7 @@ b) La base de cotización así determinada no podrá ser inferior a las cantidad
 
 c) Las horas complementarias cotizarán a la Seguridad Social sobre las mismas bases y tipos que las horas ordinarias.
 
-Segunda. Períodos de cotización.
+Segunda. Periodos de cotización.
 
 Para acreditar los períodos de cotización necesarios para causar derecho a las prestaciones de jubilación, incapacidad permanente, muerte y supervivencia, incapacidad temporal, maternidad y paternidad, se aplicarán las siguientes reglas:
 
@@ -48,7 +48,7 @@ Para determinar los períodos de cotización y de cálculo de la base reguladora
 
 Dichas reglas serán igualmente aplicables a los trabajadores a tiempo parcial o fijos discontinuos incluidos en el Sistema Especial para Empleados de Hogar, establecido en el Régimen General de la Seguridad Social.
 
-3. (Derogado).
+> Se modifica las reglas 2 y 3.c) del apartado 1 por el art. 5.1 de la Ley 1/2014, de 28 de febrero. Ref. BOE-A-2014-2219.
 
 > Se deroga el apartado 3 por la disposición derogatoria única del Real Decreto-ley 16/2013, de 20 de diciembre. Ref. BOE-A-2013-13426.
 

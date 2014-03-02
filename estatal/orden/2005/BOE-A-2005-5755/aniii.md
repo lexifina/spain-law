@@ -13,4 +13,6 @@
 
 Se entenderá por servicios de pruebas la circulación de trenes que se realicen para la adecuación y calibración técnica de vehículos ferroviarios de nueva fabricación, o de vehículos nuevos o existentes, que necesiten autorización de puesta en servicio o de circulación, así como para la calibración de algunos de sus componentes.
 
+> Se modifica por la disposición adicional 3.2.4.a) de la Ley 1/2014, de 28 de febrero. Ref. BOE-A-2014-2219.
+
 > Se modifica por la disposición adicional 3.2.4.a.) del Real Decreto-ley 11/2013, de 2 de agosto. Ref. BOE-A-2013-8556.

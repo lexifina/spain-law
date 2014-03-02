@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Prestaciones de la Seguridad Social denegadas y en trámite respecto de trabajadores a tiempo parcial.
+
+1. Lo dispuesto en el apartado Uno del artículo 5 de esta ley será igualmente de aplicación para causar derecho a todas aquellas prestaciones que con anterioridad al 4 de agosto de 2013 hubiesen sido denegadas por no acreditar el período mínimo de cotización exigido en su caso. En el supuesto de cumplirse el período mínimo exigido con arreglo a la nueva regulación, el hecho causante se entenderá producido en la fecha originaria, sin perjuicio de que los efectos económicos del reconocimiento tengan una retroactividad máxima de tres meses desde la nueva solicitud, con el límite en todo caso del día 4 de agosto de 2013.
+
+2. Excepcionalmente, todas aquellas prestaciones cuya solicitud se hubiese encontrado en trámite el día 4 de agosto de 2013, se regirán por lo dispuesto en esta ley y su reconocimiento tendrá efectos desde el hecho causante de la respectiva prestación.

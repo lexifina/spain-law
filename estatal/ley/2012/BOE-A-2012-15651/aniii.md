@@ -31,6 +31,8 @@
 
 (5) Esta cifra se entenderá como incremento neto máximo de las deudas financieras a corto y largo plazo entre el 1 de enero y el 31 de diciembre de 2013.
 
+> Se modifica por el art. 3 de la Ley 1/2014, de 28 de febrero. Ref. BOE-A-2014-2219.
+
 > Se modifica por el art. 3 del Real Decreto-ley 11/2013, de 2 de agosto. Ref. BOE-A-2013-8556.
 
 > Se modifica por la disposición final 4 del Real Decreto-ley 8/2013, de 28 de junio. Ref. BOE-A-2013-7063.

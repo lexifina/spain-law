@@ -6,4 +6,6 @@
 
 3. Los trabajadores están obligados a presentar la documentación acreditativa de la situación de incapacidad laboral transitoria en la correspondiente Oficina de Empleo.
 
+> Se modifica el apartado 2 por la disposición final 3 de la Ley 1/2014, de 28 de febrero. Ref. BOE-A-2014-2219.
+
 > Se modifica el apartado 2 por la disposición final 3 del Real Decreto-ley 11/2013, de 2 de agosto. Ref. BOE-A-2013-8556.

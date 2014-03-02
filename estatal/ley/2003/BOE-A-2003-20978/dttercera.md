@@ -22,7 +22,13 @@ El otorgamiento de los títulos habilitantes se llevará a cabo por el Ministeri
 
 Mediante Orden del Ministerio de Fomento, se determinarán los requisitos y condiciones exigibles para participar en los procedimientos de licitación señalados en el párrafo anterior, así como los criterios de adjudicación que resulten aplicables y las distintas fases de dicho procedimiento. En todo caso, será de aplicación lo dispuesto en el Reglamento (CE) 1370/2007, del Parlamento Europeo y del Consejo, de 23 de octubre de 2007, sobre los servicios públicos de transporte de viajeros por ferrocarril y carretera y, en tanto no se dicte la Orden del Ministerio de Fomento que regule las licitaciones, la Ley de contratos del sector público y sus normas de desarrollo.
 
-RENFE-Operadora dispondrá de un título habilitante para operar los servicios en todo el territorio sin necesidad de acudir al proceso de licitación..
+RENFE-Operadora dispondrá de un título habilitante para operar los servicios en todo el territorio sin necesidad de acudir al proceso de licitación.
+
+6. En la Orden del Ministerio de Fomento prevista en el apartado anterior se determinarán los derechos y obligaciones aplicables a las empresas ferroviarias durante el período de vigencia de los títulos habilitantes, y el régimen aplicable a la modificación y extinción de tales títulos habilitantes. Asimismo, en la Orden se concretarán las prerrogativas que ostentará la Administración, dentro de las previstas en el artículo 210 del texto refundido de la Ley de Contratos del Sector Público y con sujeción a los límites, requisitos y efectos señalados en dicha ley, al objeto de garantizar la continuidad del servicio.
+
+Será de aplicación subsidiaria a los citados títulos, en lo que resulte compatible con la naturaleza de los mismos, la regulación contenida en el texto refundido de la Ley de Contratos del Sector Público respecto del contrato de gestión de servicios públicos, en lo relativo a la convocatoria de la licitación, a la adjudicación, a la ejecución salvo lo dispuesto sobre prestaciones económicas, al cumplimiento, a las causas de resolución y a la formalización de los títulos habilitantes.
+
+> Se añade el apartado 6 por el art. 2.11 de la Ley 1/2014, de 28 de febrero. Ref. BOE-A-2014-2219.
 
 > Se añaden los apartados 2 a 5 por el art. 37.2 de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
 
