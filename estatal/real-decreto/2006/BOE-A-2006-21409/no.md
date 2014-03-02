@@ -1,0 +1,1 @@
+Esta norma quedará derogada a partir de la total implantación de las modificaciones introducidas en el currículo, la organización, objetivos, promoción y evaluaciones de Educación Primaria por el Real Decreto 126/2014, de 28 de febrero. Ref. BOE-A-2014-2222., según establece su disposición derogatoria única y disposición final primera.
