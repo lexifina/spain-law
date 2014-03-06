@@ -151,38 +151,40 @@ El gasto anual para el conjunto de la medida estará limitado al 33 por cien del
 | 6.5 Costes administrativos derivados de la constitución de fondos mutuales. (6.5.1) | Respetar lo establecido en el artículo 90 del Reglamento de Ejecución (CE) nº 543/2011. |
 | 6.6 Devolución del capital y pago de los intereses de préstamos contraídos por las Organizaciones de Productores para financiar medidas de prevención y gestión de crisis. (6.6.1) | Las medidas de prevención y gestión de crisis se financiarán bien directamente o bien mediante los préstamos a los que se refiere este apartado, sin que puedan acumularse ambas formas de financiación. |
 
-7. Medida dirigida a objetivos medioambientales
+7. Medida dirigida a objetivos medioambientales:
 
 El gasto anual para el conjunto de la medida estará limitado al 60 por cien del fondo operativo aprobado y efectivamente ejecutado.
 
 | Descripción | Condiciones de subvencionalidad |
 | --- | --- |
-| 7.1 Inversiones para luchar contra la erosión en cultivos leñosos (7.1.1) 7.2 Empleo de técnicas de solarización o biosolarización (7.2.1) | Las condiciones a cumplir para todas estas acciones son las establecidas en las directrices nacionales para acciones medioambientales definidas en al artículo 2 del presente real decreto. |
-| 7.3 Instalaciones o mejoras de depuración y recuperación del agua (7.3.1) |  |
-| 7.4 Mejora de sistemas de riego por otros más eficientes (modernización de regadíos) (7.4.1) |  |
-| 7.5 Recarga de acuíferos, actuaciones para reducir la escorrentía superficial y evitar avenidas de agua (7.5.1) |  |
-| 7.24 Utilización de la técnica de sombreo de embalses para frenar la evaporación de los recursos hídricos (7.24.1) |  |
-| 7.6 Producción ecológica genérica (pago por hectárea) (7.6.1) |  |
-| 7.7 Producción ecológica: Gastos en trampas, mosqueros, depredadores naturales, feromonas, extractos vegetales, microorganismos, plantas repelentes o cualquier otro material de protección vegetal excluyendo productos químicos respetuosos con el medio ambiente derivados de la implantación de técnicas de producción ecológica (Pago en base a facturas) (7.7.1) |  |
-| 7.8 Producción integrada genérica (pago por hectárea) (7.8.1) |  |
-| 7.9 Producción integrada: Gastos en trampas, mosqueros, depredadores naturales, feromonas, extractos vegetales, microorganismos, plantas repelentes o cualquier otro material de protección vegetal excluyendo los productos químicos respetuosos con el medio ambie nte derivados de la implantación de técnicas de producción integrada (Pago en base a facturas) |  |
-| 7.10 Gastos derivados de la implantación de técnicas de cultivo con polinización en base a colmenas. (7.10.1) |  |
-| 7.11 Utilización de planta injertada en hortícolas para reducir el uso de productos químicos. (7.11.1) |  |
-| 7.25 Gastos en trampas, mosqueros, depredadores naturales, feromonas, extractos vegetales, microorganismos, plantas repelentes o cualquier otro material de protección vegetal excluyendo productos químicos respetuosos con el medio ambiente utilizados en producción convencional (7.25.1) |  |
-| 7.26 Utilización de la técnica de embolsado de melocotón como barrera física frente a plagas para reducir el uso de productos químicos (7.26.1) |  |
-| 7.12 Instalaciones de energía renovable (eólica y solar). (7.12.1) |  |
-| 7.13 Utilización de medios de producción más eficientes energéticamente (7.13.1) |  |
-| 7.14 Cogeneración [producción combinada de calor y energía] de energía a partir de residuos derivados de la producción, transformación, acondicionamiento del producto para su comercialización o comercialización de frutas y hortalizas (7.14.1) |  |
-| 7.15 Costes adicionales por la utilización del ferrocarril o del transporte marítimo, frente al transporte por carretera (7.15.1) |  |
-| 7.16 Inversiones que tengan como fin racionalizar la recogida de residuos envases, plásticos, productos químicos desechables (lubricantes, etc.) (7.16.1) |  |
-| 7.18 Utilización en la explotación de hilo biodegradable (7.18.1) |  |
-| 7.19 Utilización en la explotación de plásticos oxobiodegradables y biodegradables (7.19.1) |  |
-| 7.20 Valorización de residuos generados en las fases de producción, transformación, acondicionamiento del producto para su comercialización o comercialización (7.20.1) |  |
-| 7.21 Tratamiento, recuperación y clasificación de residuos (7.21.1) |  |
-| 7.27 Obtención de biogás a partir de residuos derivados de la producción y transformación de frutas y hortalizas (7.27.1) |  |
-| 7.22 Acciones de formación y sensibilización medioambiental (7.22.1) |  |
-| 7.23 Personal cualificado adicional al considerado en las otras acciones medioambientales valoradas a tanto alzado, destinado a mejorar o mantener un nivel alto de protección medioambiental (7.23.1) |  |
-| 7.28 Gastos en análisis, consultoría y auditoría (7.28.1) |  |
+| 7.1 Inversiones para luchar contra la erosión en cultivos leñosos (7.1.1.). | Las condiciones a cumplir para todas estas acciones son las establecidas en las directrices nacionales para acciones medioambientales. |
+| 7.29 Incorporación al suelo de restos de poda para mejorar su contenido en materia orgánica y luchar contra la erosión (7.29.1.). |
+| 7.2 Empleo de técnicas de solarización o biosolarización (7.2.1.). |
+| 7.3 Instalaciones o mejoras de depuración y recuperación del agua (7.3.1.). |
+| 7.4 Mejora de sistemas de riego por otros más eficientes (modernización de regadíos) (7.4.1). |
+| 7.5 Recarga de acuíferos, actuaciones para reducir la escorrentía superficial y evitar avenidas de agua (7.5.1.). |
+| 7.24 Utilización de la técnica de sombreo de embalses para frenar la evaporación de los recursos hídricos (7.24.1.). |
+| 7.7 Producción ecológica: Uso de trampas, mosqueros, depredadores naturales, feromonas, extractos vegetales, microorganismos, plantas repelentes o cualquier otro material de protección vegetal excluyendo productos químicos respetuosos con el medio ambiente derivados de la implantación de técnicas de producción ecológica (Pago en base a facturas) (7.7.1.). |
+| 7.8 Producción integrada genérica (pago por hectárea) (7.8.1.). |
+| 7.9 Producción integrada: Uso de trampas, mosqueros, depredadores naturales, feromonas, extractos vegetales, microorganismos, plantas repelentes o cualquier otro material de protección vegetal excluyendo los productos químicos respetuosos con el medio ambiente derivados de la implantación de técnicas de producción integrada (Pago en base a facturas). |
+| 7.11 Utilización de planta injertada en hortícolas para reducir el uso de productos químicos. (7.11.1.). |
+| 7.25 Uso de trampas, mosqueros, depredadores naturales, feromonas, extractos vegetales, microorganismos, plantas repelentes o cualquier otro material de protección vegetal excluyendo productos químicos respetuosos con el medio ambiente utilizados en producción convencional (7.25.1.). |
+| 7.26 Utilización de la técnica de embolsado de melocotón como barrera física frente a plagas para reducir el uso de productos químicos (7.26.1.). |
+| 7.30 Utilización de la técnica de descortezado en uva de mesa para reducir el uso de productos químicos (7.30.1.). |
+| 7.31 Implantación de setos en la parcela para favorecer la biodiversidad y el mantenimiento/restauración del paisaje (7.31.1.). |
+| 7.12 Instalaciones de energía renovable (eólica y solar) (7.12.1.). |
+| 7.13 Utilización de medios de producción más eficientes energéticamente (7.13.1.). |
+| 7.14 Cogeneración (producción combinada de calor y energía) de energía a partir de residuos derivados de la producción, transformación, acondicionamiento del producto para su comercialización o comercialización de frutas y hortalizas (7.14.1.). |
+| 7.15 Costes adicionales por la utilización del ferrocarril o del transporte marítimo, frente al transporte por carretera (7.15.1.). |
+| 7.18 Utilización en la explotación de hilo biodegradable (7.18.1.). |
+| 7.19 Utilización en la explotación de plásticos oxobiodegradables y biodegradables (7.19.1.). |
+| 7.20 Valorización de residuos generados en las fases de producción, transformación, acondicionamiento del producto para su comercialización o comercialización (7.20.1). |
+| 7.21 Tratamiento, recuperación y clasificación de residuos (7.21.1.). |
+| 7.27 Obtención de biogás utilizando residuos orgánicos y sub-productos de la producción y transformación de frutas y hortalizas (7.27.1.). |
+| 7.22 Acciones de formación y sensibilización medioambiental (7.22.1.). |
+| 7.23 Asistencia técnica para llevar a cabo acciones medioambientales (7.23.1.). |
+| 7.28 Análisis, asesoría y auditoría para llevar a cabo acciones medioambientales (7.28.1.). |
+| 7.32 Certificación de la huella de carbono (7.32.1.). |
 
 8. Otras acciones, actuaciones, inversiones y conceptos de gasto
 
@@ -198,3 +200,7 @@ El gasto anual para el conjunto de la medida estará limitado al 40 por cien del
 | 8.3 Estudios. ( 8.3.1) |  |
 | Realización de estudios distintos a los recogidos en la actuación 3.2.1 del presente anexo. | Los estudios deberán contribuir a los objetivos recogidos en el artículo 103 quater del Reglamento (CE) nº 1234, del Consejo de 22 de octubre. |
 | 8.4 Otras acciones no incluidas en los apartados anteriores conducentes a la consecución de los objetivos indicados en el artículo 103 quater del Reglamento (CE) nº 1234, del Consejo de 22 de octubre (8.4.1). |  |
+
+> Se sustituye el apartado 7 por el art. único.2 de la Orden AAA/319/2014, de 26 de febrero. Ref. BOE-A-2014-2362.
+
+> Téngase en cuenta la disposición transitoria única en cuanto a la aplicación retroactiva.
