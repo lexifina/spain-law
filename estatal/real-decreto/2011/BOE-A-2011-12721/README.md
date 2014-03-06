@@ -51,6 +51,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición final cuarta](df-4.md)
 - [(firma)](fi.md)
 - [ANEXO I](ai.md)
+- [ANEXO I-A](ai-18.md)
+- [ANEXO I-B](ai-19.md)
 - [ANEXO II](ai-2.md)
 - [ANEXO III](ai-3.md)
 - [ANEXO IV](ai-4.md)

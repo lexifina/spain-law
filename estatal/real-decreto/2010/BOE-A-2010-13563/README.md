@@ -57,6 +57,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición final quinta](df-4.md)
 - [(firma)](fi.md)
 - [ANEXO I](ai.md)
+- [ANEXO I-A](ai-6.md)
+- [ANEXO I-B](ai-7.md)
 - [ANEXO II](ai-2.md)
 - [ANEXO III](ai-3.md)
 - [ANEXO IV](ai-4.md)
