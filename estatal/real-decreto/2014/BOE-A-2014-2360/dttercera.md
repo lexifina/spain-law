@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Alumnos y alumnas que hayan superado el primer curso de un Programa de Cualificación Profesional Inicial.
+
+El alumno o la alumna que hubiera superado el primer curso de un Programa de Cualificación Profesional Inicial durante el curso 2013-2014, y que por razón de la organización de la oferta de estas enseñanzas tuviera módulos obligatorios en segundo curso, según lo establecido por las Administraciones educativas competentes, podrán finalizar dicho programa durante el curso 2014-2015. Además, durante el curso 2014-2015 podrán cursar el segundo curso del Programa de Cualificación Profesional Inicial cuyo primer curso hubieran superado.

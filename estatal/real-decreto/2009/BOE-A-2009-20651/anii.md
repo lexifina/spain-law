@@ -30,9 +30,13 @@ a) Referencia expresa a que el título se expide en nombre del Rey por el Minist
 
 b) Expresión de que el título se expide para acreditar la superación de los estudios conducentes a la obtención del título que proceda, incluida la mención relativa a la especialidad, profesión, modalidad, etc., de acuerdo con lo previsto en el artículo 2 del presente real decreto y normas concordantes y con los efectos que otorgan las disposiciones vigentes.
 
+b.bis) En el caso de que el título se expida en base a lo dispuesto en el artículo 44 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se deberá hacer constar, en lugar de lo indicado en el apartado 1.b, lo siguiente: «este título se expide en aplicación del artículo 44 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Deberá incluir la mención relativa a la especialidad de acuerdo con lo previsto en el artículo 2 de este real decreto y normas concordantes.
+
 c) Nombre y apellidos –en letra destacada–, lugar y fecha de nacimiento y nacionalidad del interesado, tal como figuren en su documento nacional de identidad, pasaporte, cédula de identidad o documento oficial análogo de su país de origen.
 
 d) Denominación y localización del centro en el que finalizaron los estudios conducentes a la obtención de la titulación correspondiente; mes y año en que el alumno finalizó dichos estudios y, si procede legalmente, calificación final obtenida.
+
+d.bis) Deberán constar la denominación y localización del centro en el que se solicitó el título correspondiente, mes y año.
 
 e) Lugar y fecha de expedición del título. Esta última coincidirá con la del pago de los derechos de expedición y, en el caso de que sea gratuito por exención de la tasa, con la fecha de la solicitud. En los títulos que hayan de expedirse de oficio, la fecha de expedición coincidirá con la fecha de la propuesta formulada por el centro docente.
 
@@ -65,5 +69,7 @@ Este título sustituye al expedido con fecha ...................................
 Este título queda invalidado por fallecimiento del titular./Títulos cuyo poseedor haya fallecido.
 
 Este título es equivalente al oficial de …………………., según establece el artículo….. de ........../Títulos a los que se reconoce oficialmente la equivalencia con otros oficiales con validez en todo el territorio español.
+
+> Se añaden las letras b.bis) y d.bis) al apartado 2.1 por la disposición final 1.4 del Real Decreto 127/2014, de 28 de febrero. Ref. BOE-A-2014-2360.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 308, de 23 de diciembre de 2009. Ref. BOE-A-2009-20727.
