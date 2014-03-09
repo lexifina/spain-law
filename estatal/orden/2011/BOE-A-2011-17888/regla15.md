@@ -30,4 +30,8 @@ g) La gestión, dentro del ámbito de cada Departamento Ministerial, de los usua
 
 h) Registrar datos en el fichero central de terceros, de acuerdo con las competencias que tengan atribuidas.
 
+h') La gestión del Registro contable de facturas, en relación con las facturas relativas a gastos tramitados por los Servicios gestores del correspondiente Departamento ministerial.
+
 i) Aquellas otras funciones que les puedan ser encomendadas.
+
+> Se añade la letra h') por el art. 4.3 de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.

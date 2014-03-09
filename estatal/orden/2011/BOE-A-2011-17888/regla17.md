@@ -24,4 +24,8 @@ j) Registrar datos en el fichero central de terceros, de acuerdo con las compete
 
 k) Expedir certificaciones de datos registrados en el SIC.
 
+k') La gestión del Registro contable de facturas, en relación con las facturas relativas a las operaciones del apartado b) anterior.
+
 l) Aquellas otras funciones que le puedan ser encomendadas.
+
+> Se añade la letra k') por el art. 4.5 de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.

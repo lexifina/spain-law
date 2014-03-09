@@ -234,7 +234,7 @@ El campo “Código” tendrá la estructura que asigne el servicio gestor, no p
 
 En el campo “Importe” se consignará el importe asignado a cada epígrafe de gasto.
 
-Si hubiera más de dos epígrafes se consignarán en otro documento “Anexo información adicional”.
+Si hubiera más de un epígrafe se utilizarán tantos documentos «Anexo información adicional» como sean necesarios para consignar dichos epígrafes.
 
 En su caso, la Intervención General de la Administración del Estado podrá crear epígrafes de gasto, que los Servicios gestores deberán consignar en los documentos contables que expidan para la ejecución de los gastos afectados.
 
@@ -252,53 +252,129 @@ Si se utilizan documentos «Anexo descuento», en los documentos a los que compl
 
 34. Fecha del gasto: Fecha de realización del gasto de acuerdo con los siguientes criterios:
 
-a) Día último del mes o período al que correspondan los siguientes gastos:
+1. Activos financieros: Se distinguen los siguientes casos:
 
-Gastos de personal.
+a) Préstamos: Fecha en la que la entidad concedente se convierta en parte obligada según las cláusulas del contrato o acuerdo, que generalmente coincidirá con la fecha en la que se realiza el desembolso del préstamo.
 
-Certificaciones de obra y, en su caso, de otros contratos.
+Si la fecha en que se convierte en parte obligada es la del desembolso, se consignará dicha fecha a menos que no se pueda estimar razonablemente, en cuyo caso se consignará como fecha del gasto la de expedición del documento contable correspondiente al reconocimiento de la obligación.
 
-Arrendamientos.
+b) Anticipos al personal: Día en que se dicte el acto administrativo de concesión del anticipo.
 
-Otros gastos de carácter periódico y de tracto sucesivo.
+c) Otros activos financieros: Día en que se efectúe su adquisición.
 
-b.1) Día en que se efectúa la recepción:
+2. Adquisición de bienes inmuebles y otros bienes corporales o incorporales: Día en que se efectúe la adquisición.
 
-Certificación final del contrato de obras.
+3. Anticipos de Caja fija: Día en el que la Caja Pagadora haya presentado la cuenta justificativa a la Unidad Central de Caja para la reposición de fondos de anticipos de caja fija.
 
-Liquidación de los contratos, excepto el de obras.
+Si la cuenta justificativa incluye justificantes de ejercicios anteriores, cuando así lo permita la normativa vigente, se consignará como fecha de gasto la de fin del ejercicio al que correspondan los justificantes. En este caso se deberá incluir en cuentas justificativas separadas los justificantes correspondientes a cada ejercicio.
 
-b.2) Día de finalización plazo de garantía:
+4. Arrendamientos: Último día del mes o periodo al que correspondan.
 
-Liquidación de los contratos de obras.
+5. Contratos (del RDL 3/2011 texto refundido de la Ley de Contratos del Sector Público):
 
-c) Día en que se efectúa la adquisición:
+a) Contratos de obras: Se distinguen los siguientes casos:
 
-Adquisición de bienes inmuebles y otros bienes corporales o incorporales.
+a.1) Certificaciones de obra ordinarias: Último día del mes al que corresponda la certificación.
 
-Adquisición de activos financieros.
+a.2) Certificaciones finales de obra: Día en que se efectúe la recepción de conformidad de la obra.
 
-d) Día del vencimiento:
+No obstante, en caso de demora manifiesta en la recepción, se consignará el día en que debería haberse producido la misma de acuerdo con los plazos establecidos en la Ley o en el pliego de prescripciones técnicas.
 
-Intereses de la Deuda del Estado.
+En cualquier caso, si hay ocupación previa a la recepción la fecha del gasto será la del acta de ocupación.
 
-Amortización de la Deuda del Estado.
+a.3) Liquidaciones de obras: Día del fin del plazo de garantía.
 
-e) Día en que se termine de prestar el servicio:
+a.4) Indemnizaciones: Fecha en la que adquiere firmeza la liquidación de la indemnización.
 
-Liquidación de aquellos contratos que hayan supuesto la prestación de algún servicio a la Administración.
+b) Contratos de suministros: Se distinguen los siguientes casos:
 
-f) Día en que se efectúe la aprobación del correspondiente gasto, en el caso de gastos de emisión, modificación y cancelación de deudas cuando no conlleven la necesidad de formalizar contratos.
+b.1) Abonos a cuenta y entregas a cuenta: Último día del mes o periodo al que correspondan.
 
-g) Día en que se dicte el acto por el que se reconozca y cuantifique el derecho de cobro del ente beneficiario, en caso de subvenciones y transferencias.
+b.2) Liquidación: Día en que se efectúe la recepción de conformidad.
 
-No obstante, si llegado el fin de ejercicio el ente concedente tiene constancia de que el ente beneficiario ha cumplido los requisitos para el cobro que le son exigidos por la normativa reguladora, pero no ha dictado el acto a que se refiere el párrafo anterior, la fecha del gasto que debe figurar en el documento que se expida, en su caso, en enero del ejercicio siguiente será la del día en que el ente concedente tuvo constancia, que quede documentada, de dicho cumplimiento.
+No obstante, en caso de demora manifiesta en la recepción, se consignará el día en que debería haberse producido la misma de acuerdo con los plazos establecidos en la Ley o en el pliego de prescripciones técnicas.
 
-h) Día en que se dicte el acto administrativo de concesión del anticipo, en caso de anticipos al personal.
+b.3) Indemnizaciones: Fecha en la que adquiere firmeza la liquidación de la indemnización.
 
-i) Día en que se expida el correspondiente documento contable para efectuar el libramiento, en caso de libramientos para ''pagos a justificar''.
+c) Contratos de servicios: Se distinguen los siguientes casos:
 
-j) Día en el que la Caja Pagadora haya presentado la cuenta justificativa a la Unidad Central de Caja, en caso de reposición de fondos de anticipos de caja fija.
+c.1) Pagos parciales de gastos de carácter periódico y tracto sucesivo: Último día del mes o periodo al que correspondan.
+
+c.2) Liquidación: Día en que se efectúe la recepción de conformidad.
+
+No obstante, en caso de demora manifiesta en la recepción, se consignará el día en que debería haberse producido la misma de acuerdo con los plazos establecidos en la Ley o en el pliego de prescripciones técnicas
+
+c.3) Indemnizaciones: Fecha en la que adquiere firmeza la liquidación de la indemnización.
+
+d) Contratos de abono total: Se distinguen los siguientes casos:
+
+d.1) Liquidación: Día en que se efectúe la recepción de conformidad.
+
+No obstante, en caso de demora manifiesta en la recepción, se consignará el día en que debería haberse producido la misma de acuerdo con los plazos establecidos en la Ley o en el pliego de prescripciones técnicas.
+
+d.2) Indemnizaciones: Fecha en la que adquiere firmeza la liquidación de la indemnización.
+
+Cuando en las certificaciones y liquidaciones a que se refieren los apartados anteriores se incluyan conceptos como revisiones de precios o intereses de demora que afecten a más de un ejercicio, los servicios gestores comunicarán a la oficina de contabilidad los importes que corresponden a cada ejercicio a fin de que dicha oficina expida el documento contable «soporte de asientos directos» para realizar los pertinentes ajustes en la contabilidad económico patrimonial.
+
+6. Deuda del Estado y otras deudas financieras:
+
+a) Intereses y amortizaciones: Día del vencimiento.
+
+b) Gastos no contractuales de emisión, modificación y cancelación de deudas:
+
+b.1) Si están directamente relacionados con una determinada deuda: Fecha de emisión, modificación o cancelación de la correspondiente deuda.
+
+b.2) Si no están directamente relacionados con una determinada deuda: Fecha de fin del periodo de liquidación al que se refieran los gastos.
+
+7. Expropiaciones: Se distinguen los siguientes casos:
+
+a) Procedimiento ordinario:
+
+a.1) Justiprecio: Fecha de la ocupación.
+
+a.2) Intereses de demora hasta la determinación del justiprecio: Día en que se determine el justiprecio.
+
+a.3) Intereses de demora hasta el pago: Día del pago.
+
+b) Procedimiento de urgencia:
+
+b.1) Depósito previo: Fecha de formulación de las hojas de depósito previo por la Administración.
+
+b.2) Diferencia entre el justiprecio y el depósito previo: Fecha de determinación del justiprecio o, en su caso, fecha de aceptación de la hoja de aprecio expedida por la Administración.
+
+b.3) Indemnizaciones: Fecha de su determinación por la Administración.
+
+b.4) Intereses de demora hasta la determinación del justiprecio: Día en que se determine el justiprecio.
+
+b.5) Intereses de demora hasta el pago: Día del pago.
+
+Cuando los intereses de demora a que se refieren los apartados a) y b) anteriores afecten a más de un ejercicio, los servicios gestores comunicarán a la oficina de contabilidad los importes que corresponden a cada ejercicio a fin de que dicha oficina expida el documento contable "soporte de asientos directosˮ para realizar los pertinentes ajustes en la contabilidad económico patrimonial.
+
+8. Gastos de personal: Último día del mes o periodo al que correspondan.
+
+9. Gastos no contractuales de carácter periódico y de tracto sucesivo: Último día del mes o periodo al que correspondan.
+
+10. Impuestos: Fecha de devengo del impuesto.
+
+11. Pagos a justificar: Día en que se expida el correspondiente documento contable para efectuar el libramiento.
+
+12. Subvenciones y Transferencias:
+
+a) Subvenciones: Se distinguen los siguientes casos:
+
+a.1) Subvenciones en régimen de concurrencia: Fecha de entrada en los correspondientes registros de todos los justificantes para el pago.
+
+No obstante, si en la tramitación de la subvención interviene una entidad intermediaria ante la que se presentan los justificantes o es quien paga al beneficiario, se considerará fecha de gasto la fecha de entrada en dicha entidad de la documentación requerida para el pago, o la fecha de pago por dicha entidad al beneficiario, si es anterior.
+
+a.2) Subvenciones de concesión directa en virtud de Ley: Fecha de verificación por el Órgano gestor, o por la entidad intermediaria, del cumplimiento de todos los requisitos por el beneficiario para el cobro de la subvención. La fecha de verificación por el Órgano gestor generalmente se pondrá de manifiesto con la oportuna Resolución.
+
+b) Transferencias: Se distinguen los siguientes casos:
+
+b.1) Transferencias: Fecha en la que se dicte el acto administrativo por el que se reconozca y cuantifique el derecho de cobro del beneficiario.
+
+b.2) Entregas a cuenta de transferencias: Fecha de inicio del periodo al que se refieren (mensual, trimestral, etc.), siempre que dichas entregas a cuenta tengan carácter de exigibles por el beneficiario.
+
+c) Aportaciones a entidades en concepto de compensación por la prestación de servicios públicos cuya financiación corresponda a la Administración General del Estado: Fecha de la prestación del servicio.
 
 35. Fecha del reconocimiento de la obligación: Fecha en la que se ha dictado el correspondiente acto administrativo del reconocimiento de la obligación.
 
@@ -744,7 +820,7 @@ Previamente a la asignación por el SIC del código secuencial al que se refiere
 
 232. N.º asociado a la contratación: En este campo se podrá consignar el número asociado a la contratación que haya sido asignado por el Centro Gestor.
 
-233. Fecha inicio plazo abono del precio (Ley 30/2007): Se consignará la fecha en la que se inicia el cómputo de los plazos establecidos en la Ley 30/2007, de Contratos del Sector Público, para el abono del precio.
+233. Fecha inicio plazo abono del precio: Se consignará la fecha en la que se inicia el cómputo de los plazos para el abono del precio.
 
 Deberá cumplimentarse este campo en los documentos contables expedidos a favor de los acreedores directos que incorporen la fase OK aplicados a los capítulos 2 y 6 del Presupuesto de gastos.
 
@@ -754,7 +830,23 @@ Deberá cumplimentarse este campo en los documentos contables expedidos a favor 
 
 236. Tipo de mandamiento de ingreso: Se indicará el código relativo al mandamiento de ingreso de que se trate.
 
+237. Código de préstamo: El código de préstamo estará constituido por dos elementos:
+
+En primer término, la clave del préstamo a efectos del sistema de gestión y control de préstamos (PRESYA2), con seis caracteres, y, en segundo lugar, la referencia del préstamo a efectos del centro gestor, de longitud variable con un máximo de 30 caracteres.
+
+Se cumplimentará este código en los documentos contables que incorporen las fases "Dˮ u "Oˮ aplicados a los conceptos del capítulo 8 del Presupuesto de gastos, relativos a préstamos cuyo seguimiento se realice a través del sistema de seguimiento de préstamos. Dentro del código será obligatorio consignar al menos la clave del préstamo.
+
+238. Código del RCF: Se cumplimentará el código asignado en el Registro contable de facturas a cada factura incluida en el documento contable.
+
+Si en un documento contable se incluyen más de cuatro facturas se utilizarán tantos documentos "Anexo información adicionalˮ como sean necesarios para consignar el código del RCF relativo a dichas facturas.
+
+239. Reintegros de pagos a justificar: En los campos de este apartado se consignará la fecha del reintegro, el número de justificante del ingreso y el importe total reintegrado.
+
+No obstante, si para un determinado libramiento a justificar se hubiera producido más de un reintegro, únicamente se cumplimentará el campo "Importe total reintegrado" y en el documento "Anexo control de pagos a justificarˮ se consignarán los datos de cada reintegro.
+
 (*) Unidad de cuenta: Se indicará la unidad de cuenta en la que ha sido tramitado el expediente de gasto: Pesetas (P) o euros (E).
+
+> Se modifican las notas aclaratorias 28, 34, 233, y se añaden las notas aclaratorias 237, 238 y 239 por el art. 1.3 de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.
 
 > Se modifican las letras b) y g) de la nota aclaratoria 2 por el art. 2.2 de la Orden HAP/1357/2013, de 11 de julio. Ref. BOE-A-2013-7814.
 

@@ -8,6 +8,10 @@ b) Documento de adopción/distribución de anticipos de caja fija: Se utilizará
 
 c) Documentos de distribución por conceptos: Se utilizará cuando, optativamente, se quieran establecer límites por conceptos a los importes asignados a las cajas pagadoras.
 
+d) Documento anexo control de pagos a justificar: Mediante la incorporación de uno o más de estos documentos se podrá extender la eficacia de los documentos «Control de pagos a justificar» a un número variable de reintegros.
+
+> Se añade el apartado d) por el art. 1.2 de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.
+
 > Se modifica la letra a) por el apartado 2.7 de la Orden HAC/1299/2002, de 23 de mayo. Ref. BOE-A-2002-10789.
 
 > Esta modificación surte efectos desde el 1 de enero de 2002, según establece la disposición final única.

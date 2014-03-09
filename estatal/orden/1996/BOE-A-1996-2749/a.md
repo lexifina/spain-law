@@ -54,7 +54,9 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2008/51/03740_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2010/111/07252_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/58/02486_001.png)
+
+> Se modifica el modelo «Anexo información adicional» por el art. 1.4.a) y el Anexo I de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.
 
 > Se añaden los modelos RC, D y AD de "tramitación anticipada", se modifica el A de "tramitación anticipada" y se suprime el TR de "tramitación anticipada" por el art. 2.3 y anexo de la Orden HAP/1357/2013, de 11 de julio. Ref. BOE-A-2013-7814.
 

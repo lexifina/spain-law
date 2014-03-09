@@ -304,6 +304,22 @@ b) El primer párrafo del punto 22.2.2, «Presupuesto de ingresos. Derechos a co
 
 c) En el punto 22.2.3, «Variación de resultados presupuestarios de ejercicios anteriores», se elimina el último párrafo, que hace referencia a las operaciones comerciales.
 
+c') En el apartado 22.3, "Compromisos de gasto con cargo a presupuestos de ejercicios posteriores", se realizan las siguientes modificaciones:
+
+a) El contenido actual de dicho apartado pasará a ser el punto 1 del mismo.
+
+b) Se añade un nuevo punto 2 con el siguiente contenido:
+
+2. Compromisos de gasto de carácter plurianual que no se hayan podido imputar al presupuesto corriente.
+
+Se informará sobre los compromisos de gasto de carácter plurianual que no se hayan podido imputar al presupuesto corriente por falta de crédito adecuado o suficiente y se encuentren en esa situación a fin de ejercicio, con detalle de:
+
+a) aplicación presupuestaria a la que debería haberse imputado el compromiso.
+
+b) importe.
+
+c) número de operaciones incluidas en cada aplicación presupuestaria.
+
 d) El primer párrafo del apartado 22.4, «Gastos con financiación afectada», tendrá la siguiente redacción:
 
 «Se informará para cada gasto con financiación afectada que se haya comunicado por el Servicio gestor mediante el correspondiente documento contable o procedimiento definido al efecto, sobre:»
@@ -405,3 +421,7 @@ B) Coste de los Objetivos Realizados
 a) Las reorganizaciones ministeriales.
 
 b) La creación, modificación o extinción de entidades dependientes de la Administración General del Estado.»
+
+> Se añade la letra c') al apartado 19 por el art. 4.6 de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.
+
+> Esta modificación será aplicable a las cuentas anuales del ejercicio 2013 y siguientes según establece la disposición final 2.

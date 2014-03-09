@@ -25,3 +25,7 @@ g) La gestión de las tablas y de los procesos de usuario, de ámbito centraliza
 h) La definición y gestión de los perfiles de autorización para el acceso al sistema informático en que se soporta el SIC, que corresponden a cada oficina contable.
 
 i) La gestión de los usuarios del sistema informático en que se soporta el SIC, tanto dentro del ámbito de la Central Contable, como con respecto a aquellos usuarios que no están asignados a ninguna otra oficina, de acuerdo con los perfiles asignados.
+
+j) La autorización a una oficina contable para que pueda acceder al SIC de otra oficina para capturar operaciones de ésta.
+
+> Se añade la letra j) por el art. 4.2 de la Oren HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.

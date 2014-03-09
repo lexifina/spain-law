@@ -16,6 +16,22 @@ b) La presentación por actividades de la cuenta del resultado económico patrim
 
 c) En el epígrafe 1.b) de la nota 19 de la Memoria, la información de las columnas relativas a las cancelaciones de derechos por insolvencias y por otras causas podrá presentarse de forma agrupada.
 
+c') El contenido del epígrafe 23.3 de la Memoria, "Compromisos de gasto con cargo a presupuestos de ejercicios posteriores", pasará ser el punto 1 del mismo, añadiéndose a dicho epígrafe un nuevo punto 2 con el siguiente contenido:
+
+2. Compromisos de gasto de carácter plurianual que no se hayan podido imputar al presupuesto corriente.
+
+Se informará sobre los compromisos de gasto de carácter plurianual que no se hayan podido imputar al presupuesto corriente por falta de crédito adecuado o suficiente y se encuentren en esa situación a fin de ejercicio, detallando en el estado que figura a continuación:
+
+a) aplicación presupuestaria a la que debería haberse imputado el compromiso.
+
+b) importe.
+
+c) número de operaciones incluidas en cada aplicación presupuestaria.
+
+| Aplicación presupuestaria | Importe | N.º de operaciones |
+| --- | --- | --- |
+|  |  |  |
+
 d) En la nota 23 de la Memoria, relativa a la información presupuestaria, se incluye un nuevo epígrafe:
 
 23.7. Balance de resultados e informe de gestión.
@@ -34,6 +50,51 @@ e) Se restringe el contenido de la nota 24, relativa a los indicadores financier
 
 – Punto 4) Superávit o déficit por habitante de la letra b) «Del presupuesto de ingresos corriente» del epígrafe 2 «Indicadores presupuestarios.
 
+f) El estado 1, "Resumen General de Costes de la Entidad", de la nota 25, "Información sobre el coste de las actividades", tendrá el siguiente contenido:
+
+| Elementos | Importe | % |
+| --- | --- | --- |
+| Código | Descripción |
+| 01 | COSTES DE PERSONAL |  |  |
+| 01.01 | Sueldos y salarios |  |  |
+| 01.02 | Cotizaciones sociales a cargo del empleador |  |  |
+| 01.03 | Previsión social de funcionarios |  |  |
+| 01.04 | Aportaciones a sistemas complementarios de pensiones |  |  |
+| 01.05 | Indemnizaciones |  |  |
+| 01.06 | Otros costes sociales |  |  |
+| 01.07 | Indemnizaciones por razón del servicio |  |  |
+| 01.08 | Transporte de personal |  |  |
+| 01.09 | Otros costes de personal |  |  |
+| 02 | ADQUISICIÓN DE BIENES Y SERVICIOS |  |  |
+| 02.01 | Costes de materiales de reprografía e imprenta |  |  |
+| 02.02 | Costes de otros materiales y aprovisionamientos |  |  |
+| 02.03 | Adquisición de bienes de inversión |  |  |
+| 02.04 | Trabajos realizados por otras organizaciones |  |  |
+| 02.05 | Otras adquisiciones de servicios |  |  |
+| 03 | SERVICIOS EXTERIORES |  |  |
+| 03.01 | Costes de investigación y desarrollo del ejercicio |  |  |
+| 03.02 | Arrendamientos y cánones |  |  |
+| 03.03 | Reparaciones y conservación |  |  |
+| 03.04 | Servicio de profesionales independientes |  |  |
+| 03.05 | Transportes |  |  |
+| 03.06 | Primas de seguros |  |  |
+| 03.07 | Servicios bancarios y similares |  |  |
+| 03.08 | Publicidad, propaganda y relaciones públicas |  |  |
+| 03.09 | Suministros |  |  |
+| 03.10 | Comunicaciones |  |  |
+| 03.11 | Costes diversos |  |  |
+| 04 | TRIBUTOS |  |  |
+| 05 | AMORTIZACIONES |  |  |
+| 06 | COSTES FINANCIEROS |  |  |
+| 07 | COSTES DE TRANSFERENCIAS |  |  |
+| 08 | COSTES DE BECARIOS |  |  |
+| 09 | OTROS COSTES |  |  |
+| TOTAL |  |  |
+
 4. Para aquellas entidades cuya actividad económica abarque aspectos no recogidos en las cuentas anuales previstas en esta regla y en la anterior, la Intervención General de la Administración del Estado podrá ampliar el contenido de la Memoria incorporando la información adicional que sea precisa para la adecuada comprensión de la actividad desarrollada, de forma que, de acuerdo con lo establecido en el PGCP, las cuentas anuales expresen la imagen fiel del patrimonio, de la situación financiera, del resultado económico patrimonial y de la liquidación del presupuesto de la entidad contable.
+
+> Se añaden las letras c)' y f) al apartado 3 por los artículos 3.2 y 3.3 de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.
+
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2013 y siguientes, según establece la disposición final 2 de la citada Orden.
 
 > Se modifica el apartado 3.d) por la disposición adicional 1 de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.

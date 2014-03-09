@@ -27,3 +27,7 @@ i) Llevar el seguimiento y control del inmovilizado material e intangible, de la
 j) Registrar las operaciones de constitución y cancelación de garantías y depósitos que se produzcan en el ámbito de la Caja General de Depósitos, posibilitando el seguimiento y control de la totalidad de depósitos y garantías que se constituyan.
 
 k) El seguimiento y control de los gastos con financiación afectada.
+
+l) Llevar la gestión del Registro contable de facturas.
+
+> Se añade la letra l) por el art. 4.1 de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.

@@ -54,6 +54,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Regla 18](regla18.md)
 - [SECCIÓN 6](s6.md)
 - [Regla 19](regla19.md)
+- [SECCIÓN 7](s7-2.md)
+- [Regla 19 bis](regla19bis.md)
 - [CAPITULO II](cii.md)
 - [SECCIÓN 1](s1-2.md)
 - [Regla 20](regla20.md)

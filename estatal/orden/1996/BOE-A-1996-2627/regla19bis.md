@@ -1,0 +1,21 @@
+## Regla 19 bis. Registro de oficio de retenciones de crédito y retenciones sobre el límite para gastos de ejercicios posteriores en relación con determinadas operaciones.
+
+1. Los Servicios gestores deberán remitir a la oficina de contabilidad, inmediatamente después de su expedición, los documentos contables RC de retenciones de crédito del ejercicio corriente y retenciones sobre el límite para gastos de ejercicios posteriores según lo establecido en la Disposición adicional vigésima primera de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, en relación con los procedimientos de expropiación forzosa, las revisiones de precios y las operaciones relativas al 1 por 100 de las aportaciones estatales para la conservación o enriquecimiento del Patrimonio Histórico Español.
+
+La oficina de contabilidad registrará los documentos RC de forma inmediata en el sistema de información contable, quedando a partir de dicho momento retenido el crédito para su posterior utilización en el gasto de que se trate o minorados los límites existentes en las aplicaciones presupuestarias afectadas reservándose las respectivas cuantías para su posterior utilización en los correspondientes expedientes.
+
+2. Cuando la oficina de contabilidad tenga constancia de que habiéndose producido las situaciones previstas en la citada Disposición adicional vigésima primera, el Servicio gestor no ha enviado las retenciones de crédito indicadas en el apartado 1 anterior, procederá a comunicar a dicho servicio que en el plazo de treinta días deberá remitir a dicha oficina de contabilidad las citadas retenciones de crédito o, en caso de no disponer de crédito o límite suficiente de compromisos plurianuales para poder hacer frente al importe de las mismas, las actuaciones que tiene previsto realizar al objeto de proveer de la cobertura necesaria a las correspondientes operaciones.
+
+3. Si cumplido el citado plazo de treinta días el Servicio gestor no hubiere comunicado a la oficina de contabilidad la documentación indicada en el apartado anterior, la oficina de contabilidad deberá proceder a estimar el importe al que deberían ascender las retenciones de crédito no realizadas, de acuerdo con el criterio previsto en la citada Disposición adicional vigésima primera.
+
+La oficina de contabilidad propondrá a la Intervención General de la Administración del Estado la realización de las correspondientes retenciones de crédito cautelares por el importe estimado en los créditos que determine dicha oficina, preferentemente dentro del mismo capítulo y, en todo caso, en el mismo programa, del presupuesto a los que correspondan dichas operaciones. Para determinar el mencionado importe se tendrán en cuenta las necesidades valoradas de la gestión propia del Departamento, considerando especialmente las derivadas del cumplimiento de las obligaciones de carácter ineludible de dicho Departamento.
+
+La Intervención General de la Administración del Estado adoptará el correspondiente acuerdo, previa audiencia a la Subsecretaría del Ministerio al que pertenezca el Servicio gestor.
+
+Con base en dicho acuerdo, la oficina de contabilidad registrará de oficio los correspondientes documentos contables RC de retenciones de crédito que serán comunicadas al Servicio gestor.
+
+4. Hasta el momento en que se determinen las actuaciones definitivas relativas a las citadas operaciones, el Servicio gestor podrá solicitar a la oficina de contabilidad la anulación de las retenciones de crédito indicadas en los apartados anteriores, siempre que simultáneamente se registren por dicha oficina nuevas retenciones de crédito, de acuerdo con la comunicación recibida del Servicio gestor, por un importe igual al de las retenciones a anular, a fin de que queden retenidos en aquellas aplicaciones presupuestarias cuya minoración ocasione menos trastornos para el servicio público.
+
+5. El registro en el sistema de información contable de las retenciones de crédito y de las anulaciones de retenciones a que se refieren los apartados 3 y 4 anteriores se efectuará por las oficinas de contabilidad, a efectos de poder efectuar el control efectivo de la imputación definitiva de las operaciones pendientes de registro.
+
+> Se añade por el art. 2.1 de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.

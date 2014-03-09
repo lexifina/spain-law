@@ -19,3 +19,7 @@ f) Determinar los resultados obtenidos desde el punto de vista económico patrim
 g) Llevar el seguimiento y control del inmovilizado material e intangible, de las inversiones inmobiliarias y financieras, del endeudamiento y de la situación deudora o acreedora de cada uno de los terceros con los que se relacione.
 
 h) Llevar el seguimiento y control de los pagos a justificar, de los anticipos de caja fija, de los proyectos de gasto y de los gastos con financiación afectada.
+
+i) Llevar la gestión del Registro contable de facturas.
+
+> Se añade la letra i) por el art. 3.1 de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.

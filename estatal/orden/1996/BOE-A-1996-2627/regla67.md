@@ -10,6 +10,10 @@ Si durante el ejercicio la estimación resultase inadecuada, se expedirán los d
 
 2. En el caso de gastos correspondientes a complementos, horas extraordinarias u otras atenciones de personal de carácter variable, el documento AD inicial, referente a estos conceptos de gasto, se expedirá una vez dictado por la autoridad competente el acuerdo de distribución o aplicación de créditos para estas atenciones, y según los importes detallados en dicho acuerdo que justificará dicho documento AD.
 
+No obstante, si al inicio del ejercicio no se hubiera dictado aún el acuerdo de distribución o aplicación de créditos, el AD inicial se expedirá tomando como referencia el acuerdo de distribución del año anterior.
+
+Una vez dictado por la autoridad competente el acuerdo de distribución o aplicación de créditos, se expedirá un documento AD complementario del inicial con signo positivo o negativo según sea la diferencia entre los importes que figuran en el acuerdo de distribución y en el AD inicial.
+
 3. Cuando se vaya a tramitar algún expediente de contratación de personal laboral fijo o eventual, el Servicio gestor formulará un documento RC que remitirá a la oficina de contabilidad. Con carácter previo a la expedición del mismo, se deberá haber efectuado la actualización de compromisos de gasto a que se refiere el párrafo cuarto del punto 1 anterior.
 
 El importe del RC se justificará con la demostración de la existencia de crédito suficiente mediante la indicación del crédito presupuestado y de los compromisos de gasto por su importe elevado al año.
@@ -19,5 +23,7 @@ La oficina de contabilidad registrará dicho documento y obtendrá el correspond
 Una vez finalizado el proceso de contratación y formalizados los respectivos contratos, el Servicio gestor deberá expedir el oportuno documento AD que será complementario del que inicialmente se formuló por la estimación de gasto anual.
 
 4. Sin perjuicio de lo indicado en los puntos anteriores, cuando por razones debidamente justificadas y siempre en orden a una más adecuada gestión en la ejecución de los créditos autorizados, se podrá aceptar la expedición de documentos ADOK por cada una de las nóminas que se aprueben.
+
+> Se modifica el apartado 2 por el art. 2.3 de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.
 
 > Redactado el párrafo primero del apartado 1 conforme a la corrección de errores publicada en BOE núm. 57, de 6 de marzo de 1996. Ref. BOE-A-1996-5203

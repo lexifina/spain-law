@@ -6,4 +6,10 @@
 
 3. Los documentos contables cuya emisión se realice mediante actuación administrativa automatizada podrán ser autenticados mediante un sistema de firma electrónica basado en sello de Administración Pública, órgano o entidad de derecho público, previsto en el artículo 18.1.a) de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos. La firma electrónica se ajustará a la especificación ETSI TS 101 903.
 
+4. No se podrán agrupar en un mismo documento contable que incorpore la fase O, de reconocimiento de la obligación, excepto en el caso de documentos ADOK de reposiciones de Anticipos de Caja Fija, facturas que estén registradas en el Registro Contable de Facturas junto con facturas que no lo estén por estar incluidas en las excepciones previstas en la normativa vigente del Registro Contable de Facturas.
+
+Asimismo, solo se podrán agrupar varias facturas en un mismo documento contable que incorpore la fase O, cuando la fecha en la que se inicia el cómputo de los plazos para el abono del precio sea la misma para todas ellas.
+
+> Se añade el apartado 4 por el art. 1.1 de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.
+
 > Se añade el apartado 3 por el art. 1.1 de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
