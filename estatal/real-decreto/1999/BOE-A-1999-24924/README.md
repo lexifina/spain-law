@@ -143,5 +143,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria tercera](tercera-3.md)
 - [Disposición transitoria cuarta](cuarta-2.md)
 - [Disposición transitoria quinta](quinta.md)
+- [Disposición transitoria sexta](sexta.md)
 - [ANEXO I](ani.md)
 - [ANEXO II](anii.md)
