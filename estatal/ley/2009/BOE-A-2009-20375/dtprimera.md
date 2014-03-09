@@ -24,7 +24,7 @@ Esto se hace extensible a la parte de la deuda tributaria cedida, correspondient
 
 Para las Comunidades Autónomas de Cataluña, Galicia, Comunitat Valenciana y Canarias, serán igualmente deducibles de las liquidaciones definitivas del 2009 y del 2010, los importes de los pagos realizados por el Instituto Social de la Marina correspondientes a dichos años por la financiación de los servicios traspasados a estas Comunidades Autónomas con anterioridad al año 2002.
 
-6. En las liquidaciones definitivas de los recursos de este sistema correspondientes a cada año, se deducirán, en su caso, los pagos realizados en ese año a cada Comunidad Autónoma por las recaudaciones de ingresos derivados del Impuesto sobre el Patrimonio.
+6. (Suprimido).
 
 7. Los fraccionamientos de las liquidaciones negativas de los recursos del sistema, a que se refiere la disposición adicional cuarta de esta Ley se tendrán en cuenta a efectos del cálculo del Fondo de Competitividad y de la variación del ITE.
 
@@ -35,3 +35,5 @@ Posteriormente, los reintegros realizados de las liquidaciones negativas aplazad
 El importe de las liquidaciones negativas aplazadas se computarán en el ITE, tal y como se prevé en el artículo 20 de esta Ley, en el ejercicio en el que se produzca su reintegro.
 
 8. El límite señalado en los apartados 4 y 5 del artículo 23 de esta Ley, para el índice de capacidad fiscal por habitante ajustado, se establece en 1,05 para los años 2009 y 2010 y en 1,06 para el año 2011 y siguientes.
+
+> Se suprime el apartado 6 por la disposición final 4 del Real Decreto-ley 4/2014, de 7 de marzo. Ref. BOE-A-2014-2485.
