@@ -8,6 +8,10 @@
 
 3.º De la instrucción y enjuiciamiento de las causas contra Magistrados de la Audiencia Nacional o de un Tribunal Superior de Justicia.
 
+4.º De los demás asuntos que le atribuya esta Ley.
+
 2. En las causas a que se refieren los números segundo y tercero del párrafo anterior se designará de entre los miembros de la Sala, conforme a un turno preestablecido, un instructor, que no formará parte de la misma para enjuiciarlas.
+
+> Se añade el número 4.º al apartado 1 por el artículo único.2 la Ley Orgánica 1/2014, de 13 de marzo. Ref. BOE-A-2014-2709.
 
 > Se añade el apartado 2 y se numera el contenido existente como apartado 1 por el art. 1.2 de la Ley Orgánica 7/1988, de 28 de diciembre. Ref. BOE-A-1988-29621
