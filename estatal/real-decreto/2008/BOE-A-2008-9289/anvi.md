@@ -1,6 +1,6 @@
 ## ANEXO VI
 
-## ESPECIFICACIÓN PARA EL CONTENIDO Y LA FUENTE DE PROTEÍNAS Y LA TRANSFORMACIÓN DE PROTEÍNAS UTILIZADAS EN PREPARADOS PARA LACTANTES CON UN CONTENIDO PROTEÍNICO INFERIOR A 0,56 G/100 KJ (2,25 G/100 KCAL), ELABORADOS A PARTIR DE HIDROLIZADOS DE PROTEÍNAS DE LACTOSUERO DERIVADO DE PROTEÍNAS DE LA LECHE DE VACA
+## ESPECIFICACIÓN PARA EL CONTENIDO Y LA FUENTE DE PROTEÍNAS Y LA TRANSFORMACIÓN DE PROTEÍNAS UTILIZADAS EN PREPARADOS PARA LACTANTES Y PREPARADOS DE CONTINUACIÓN CON UN CONTENIDO PROTEÍNICO INFERIOR A 0,56 g/100 kJ (2,25 g/100 kcal), ELABORADOS A PARTIR DE HIDROLIZADOS DE PROTEÍNAS DE LACTOSUERO DERIVADO DE PROTEÍNAS DE LA LECHE DE VACA
 
 1. Contenido proteínico
 
@@ -21,3 +21,5 @@ b) 37 % de concentrado de proteínas de lactosuero dulce con un contenido mínim
 3. Transformación de las proteínas
 
 Proceso de hidrólisis en dos fases utilizando un preparado de tripsina con un tratamiento térmico (de 3 a 10 minutos de duración a una temperatura de entre 80 y 100 °C) entre las dos fases de hidrólisis.
+
+> Se modifica el título por el art. único.7 del Real Decreto 165/2014, de 14 de marzo. Ref. BOE-A-2014-2751.

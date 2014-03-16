@@ -14,7 +14,7 @@ Máximo 295 kJ/100 ml (70 kcal/100 ml).
 
 (Contenido en proteínas = contenido en nitrógeno x 6,25).
 
-a) Preparados para lactantes elaborados a partir de las proteínas obtenidas de la leche de vaca.
+a) Preparados para lactantes elaborados a partir de las proteínas obtenidas de la leche de vaca o de cabra.
 
 Mínimo1: 0,45 g/100 kJ (1,8 g/100 kcal)
 
@@ -32,11 +32,11 @@ Para un valor energético equivalente, los preparados deberán contener una cant
 
 El contenido en L-carnitina deberá ser por lo menos igual a 0,3 mg/100 kJ (1,2 mg/100 kcal).
 
-1 Los preparados para lactantes elaborados a partir de proteínas obtenidas de la leche de vaca con un contenido proteico comprendido entre el mínimo y 0,5 g/100 kJ (2 g/100 kcal) serán conformes a lo dispuesto en el apartado c) del artículo 3.1.
+1 Los preparados para lactantes elaborados a partir de proteínas obtenidas de la leche de vaca o de cabra con un contenido proteínico comprendido entre el mínimo y 0,5 g/100 kJ (2 g/100 kcal) serán conformes a lo dispuesto en el apartado c) del artículo 3.1.
 
 2 Los preparados para lactantes elaborados a partir de hidrolizados de proteínas con un contenido proteínico comprendido entre el mínimo y 0,56 g/100 kJ (2,25 g/100 kcal) serán conformes a lo dispuesto en el d) del artículo 3.1.
 
-c) Preparados para lactantes elaborados a partir de aislados de proteínas de soja únicamente o de una mezcla con proteínas de la leche de vaca.
+c) Preparados para lactantes elaborados a partir de aislados de proteínas de soja únicamente o de una mezcla con proteínas de la leche de vaca o de cabra.
 
 Mínimo: 0,56 g/100 kJ (2,25 g /100 kcal).
 
@@ -160,7 +160,7 @@ Podrán utilizarse diferentes combinaciones y nivele máximos de fructooligosac�
 
 10. Sustancias minerales
 
-a) Preparados para lactantes elaborados a partir de las proteínas obtenidas de la leche de vaca o de hidrolizados de proteínas.
+a) Preparados para lactantes elaborados a partir de las proteínas obtenidas de la leche de vaca o de cabra o de hidrolizados de proteínas.
 
 |  | Por 100 kJ | Por 100 kcal |
 | --- | --- | --- |
@@ -181,7 +181,7 @@ a) Preparados para lactantes elaborados a partir de las proteínas obtenidas de 
 
 La relación calcio: fósforo no será inferior a 1 ni superior a 2.
 
-b) Preparados para lactantes elaborados a partir de aislados de proteínas de soja solos o mezclados con las proteínas de la leche de vaca.
+b) Preparados para lactantes elaborados a partir de aislados de proteínas de soja solos o mezclados con proteínas de la leche de vaca o de cabra.
 
 Serán aplicables todos los requisitos del punto 10.a), excepto para el hierro y el fósforo, en cuyos casos se aplicarán los siguientes:
 
@@ -234,3 +234,5 @@ Se podrán añadir los nucleótidos siguientes:
 | inosina 5’- monofosfato. | 0,24 | 1,00 |
 
 (1) La concentración total de nucleótidos no será superior a 1,2 mg/100 kJ (5 mg/100 kcal).
+
+> Se modifica por el art. único.4 del Real Decreto 165/2014, de 14 de marzo. Ref. BOE-A-2014-2751.

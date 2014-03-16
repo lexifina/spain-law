@@ -14,7 +14,7 @@ Máximo: 295 kJ/100 ml (70 kcal/100 ml).
 
 (Contenido en proteínas = contenido en nitrógeno × 6,25).
 
-a) Preparados elaborados a partir de proteínas de la leche de vaca:
+a) Preparados elaborados a partir de proteínas obtenidas de la leche de vaca o de cabra.
 
 Mínimo: 0,45 g/100 kJ (1,8 g /100 kcal).
 
@@ -24,13 +24,15 @@ Para un valor energético igual, los preparados de continuación deberán conten
 
 b) Preparados elaborados a partir de hidrolizados de proteínas:
 
-Mínimo: 0,56 g/100 kJ (2,25 g /100 kcal).
+Mínimo1: 0,45 g/100 kJ (1,8 g/100 kcal).
 
 Máximo: 0.8 g/100 kJ (3,5 g/100 kcal).
 
 Para un valor energético igual, los preparados de continuación deberán contener una cantidad disponible de cada uno de los aminoácidos esenciales y semiesenciales equivalente por lo menos a la contenida en la proteína de referencia (leche materna, tal y como se define en el anexo V). No obstante, a efectos de cálculo, podrán sumarse las concentraciones de metionina y de cistina si la relación metionina:cistina no es superior a 3, así como las concentraciones de fenilalanina y tirosina, si la relación tirosina:fenilalanina no es superior a 2.
 
-c) Preparados elaborados a partir de aislados de proteínas de soja solos o mezclados con proteínas de la leche de vaca.
+(1) Los preparados de continuación elaborados a partir de hidrolizados de proteínas con un contenido proteínico comprendido entre el mínimo y 0,56 g/100 kJ (2,25 g/100 kcal) serán conformes a lo dispuesto en el apartado c) del artículo 3.2.
+
+c) Preparados elaborados a partir de aislados de proteínas de soja solos o mezclados con proteínas de la leche de vaca o de cabra.
 
 Mínimo: 0,56 g/100 kJ (2,25 g /100 kcal).
 
@@ -128,7 +130,7 @@ Podrán utilizarse diferentes combinaciones y niveles máximos de fructooligosac
 
 8. Sustancias minerales.
 
-a) Preparados de continuación elaborados a partir de proteínas de la leche de vaca o de hidrolizados de proteínas.
+a) Preparados de continuación elaborados a partir de las proteínas de la leche de vaca o de cabra o de hidrolizados de proteínas
 
 |  | Por 100 kJ | Por 100 kcal |
 | --- | --- | --- |
@@ -149,7 +151,7 @@ a) Preparados de continuación elaborados a partir de proteínas de la leche de 
 
 La relación calcio:fósforo en los preparados de continuación no será inferior a 1 ni superior a 2.
 
-b) Preparados de continuación elaborados a partir de aislados de proteínas de soja solos o mezclados con proteínas de la leche de vaca.
+b) Preparados de continuación elaborados a partir de aislados de proteínas de soja solos o mezclados con proteínas de la leche de vaca o de cabra.
 
 Se aplicarán todos los requisitos del punto 8.a) salvo para el hierro y el fósforo, en cuyos casos serán los siguientes:
 
@@ -202,5 +204,7 @@ Se podrá añadir los siguientes nucleótidos:
 | Inosina 5’-monofosfato. | 0,24 | 1,00 |
 
 (1) La concentración total de nucleótidos no será superior a 1,2 mg/100 kJ (5 mg/100 kcal).
+
+> Se modifican los apartados 2 y 8 por el art. único.5 del Real Decreto 165/2014, de 14 de marzo. Ref. BOE-A-2014-2751.
 
 > Redactado el apartado 10 conforme a la corrección de errores publicada en BOE núm. 187, de 4 de agosto de 2009. Ref. BOE-A-2009-12938.

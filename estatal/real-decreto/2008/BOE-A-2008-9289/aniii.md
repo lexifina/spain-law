@@ -108,8 +108,10 @@
 
 3. Aminoácidos y otros compuestos nitrogenados
 
-| L-cistina y su clorhidrato | L-tirosina |
+| L-arginina y su clorhidrato1 |  |
 | --- | --- |
+|  |
+| L-cistina y su clorhidrato | L-tirosina |
 | L-histidina y su clorhidrato | L-valina |
 | L-isoleucina y su clorhidrato | L-carnitina y su clorhidrato |
 | L-leucina y su clorhidrato | L-carnitina-L-tartrato |
@@ -120,9 +122,13 @@
 | L-treonina | guanosina 5’ monofosfato y su sal sódica |
 | L-triptófano | inosina 5’ monofosfato y su sal sódica |
 
+(1) L-arginina y su clorhidrato se utilizarán exclusivamente a efectos de la elaboración de los preparados para lactantes a los que hace referencia el apartado d) del artículo 3.1 y de los preparados de continuación a los que hace referencia el apartado c) del artículo 3.2.
+
 4. Otras sustancias con fines nutritivos especiales
 
 | Colina | Bitartrato de colina |
 | --- | --- |
 | Cloruro de colina | Inositol |
 | Citrato de colina |  |
+
+> Se modifica el apartado 3 por el art. único.6 del Real Decreto 165/2014, de 14 de marzo. Ref. BOE-A-2014-2751.
