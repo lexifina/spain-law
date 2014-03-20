@@ -150,7 +150,6 @@
 |  |  | 240 |  | Gastos de edición y distribución. |
 |  | 25 |  |  | Trabajos realizados por administraciones públicas y otras entidades públicas. |
 |  | 26 |  |  | Trabajos realizados por Instituciones sin fines de lucro. |
-|  | 27 |  |  | Gastos imprevistos y funciones no clasificadas. |
 | 3 |  |  |  | GASTOS FINANCIEROS. |
 |  | 30 |  |  | De Deuda Pública en euros. |
 |  |  | 300 |  | Intereses. |
@@ -224,6 +223,9 @@
 |  |  | 479 |  | Otras subvenciones a Empresas privadas. |
 |  | 48 |  |  | A Familias e Instituciones sin fines de lucro. |
 |  | 49 |  |  | Al exterior. |
+| 5 |  |  |  | FONDO DE CONTINGENCIA Y OTROS IMPREVISTOS. |
+|  | 50 |  |  | Dotación al Fondo de Contingencia de Ejecución Presupuestaria. |
+|  |  | 500 |  | Fondo de Contingencia de Ejecución Presupuestaria. Artículo 31 Ley Orgánica 2/2012, de Estabilidad Presupuestaria y Sostenibilidad Financiera. |
 | 6 |  |  |  | INVERSIONES REALES. |
 |  | 60 |  |  | Inversión nueva en infraestructuras y bienes destinados al uso general. |
 |  |  | 600 |  | Inversiones en terrenos. |
@@ -362,3 +364,7 @@
 |  | 94 |  |  | Devolución de depósitos y fianzas. |
 |  |  | 940 |  | Devolución de depósitos. |
 |  |  | 941 |  | Devolución de fianzas. |
+
+> Se modifica por el art. único.4 y 5 de la Orden HAP/419/2014, de 14 de marzo. Ref. BOE-A-2014-2922.
+
+> Esta modificación resultará de aplicación a los presupuestos correspondientes al ejercicio 2015 y siguientes.

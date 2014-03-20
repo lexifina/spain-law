@@ -1,6 +1,4 @@
-## ÁREA DE GASTO 4
-
-## Actuaciones de carácter económico
+Área de Gasto 4. Actuaciones de carácter económico
 
 Se integran en esta área los gastos de actividades, servicios y transferencias que tienden a desarrollar el potencial de los distintos sectores de la actividad económica.
 
@@ -18,11 +16,11 @@ Se incluirán, además, los gastos relacionados con el control y erradicación d
 
 Asimismo comprende los gastos relacionados con la creación, mejora y mantenimiento de infraestructuras básicas en actividades agrícolas, ganaderas, piscícolas o cinegéticas; regadíos; modificación y mejora de las estructuras; conservación y saneamiento de suelos y otras de naturaleza similar.
 
-Igualmente se imputará a esta política de gasto, en su caso, la aportación o cuota al pósito agrícola.
+Igualmente se imputará a esta política de gasto, en su caso, la aportación o cuota al depósito agrícola.
 
 Se tipifican cinco grupos de programas:
 
-410. Administración General de Agricultura, ganadería y pesca.
+410. Administración general de agricultura, ganadería y pesca.
 
 412. Mejoras de las estructuras agropecuarias y de los sistemas productivos.
 
@@ -34,7 +32,7 @@ Se tipifican cinco grupos de programas:
 
 Política de gasto 42. Industria y energía.
 
-Comprende los gastos de todo tipo destinados a la promoción, apoyo y desarrollo de la industria en el ámbito de acción de la entidad local.
+Comprende los gastos de todo tipo destinados a la promoción, apoyo y desarrollo de la industria en el ámbito de acción de la Entidad local.
 
 Los gastos incluidos en el grupo de programas de administración general corresponderán a actividades dirigidas a la planificación, coordinación, control, organización, gestión administrativa y desarrollo de funciones de apoyo de los distintos centros directivos que integran la política de gasto.
 
@@ -46,7 +44,7 @@ Asimismo comprende los gastos relacionados con la producción, transmisión y di
 
 Se tipifican cuatro grupos de programas:
 
-420. Administración General de Industria y energía
+420. Administración general de industria y energía.
 
 422. Industria.
 
@@ -60,7 +58,7 @@ Se incluirán los gastos de cualquier naturaleza de los servicios de la Entidad 
 
 Los gastos incluidos en el grupo de programas de Administración General corresponderán a actividades dirigidas a la planificación, coordinación, control, organización, gestión administrativa y desarrollo de funciones de apoyo de los distintos centros directivos que integran la política de gasto.
 
-Comprenderá, los gastos correspondientes a mercados centrales o de minoristas, lonjas y a cualesquiera otras instalaciones similares; actuaciones en defensa de la competencia; control de pesas y medidas y otros de naturaleza análoga.
+Comprenderá, los gastos correspondientes a mercados centrales o de minoristas, lonjas y a cualesquiera otras instalaciones similares; actuaciones en defensa de la competencia; control de pesas y medidas y otros de naturaleza análoga; inspección y sanción de establecimientos.
 
 Se incluirán también los gastos de cualquier naturaleza asociados al desarrollo y fomento del turismo.
 
@@ -74,11 +72,19 @@ Se tipifican cinco grupos de programas:
 
 431. Comercio.
 
-432. Ordenación y promoción turística.
+432. Información y promoción turística.
 
 433. Desarrollo empresarial.
 
 439. Otras actuaciones sectoriales.
+
+Dentro del grupo de programas de Comercio se tipifican tres programas, relativos a Ferias, Mercados y Comercio ambulante.
+
+4311. Ferias.
+
+4312. Mercados, abastos y lonjas.
+
+4313. Comercio ambulante.
 
 Política de gasto 44. Transporte público.
 
@@ -88,13 +94,21 @@ Los gastos incluidos en el grupo de programas de Administración General corresp
 
 Se aplicarán a esta política de gastos todos los de inversión destinados a la adquisición de medios de transporte; y a la creación, mejora y mantenimiento de infraestructuras, como estaciones de autobuses, puertos, aeropuertos y otras de naturaleza análoga.
 
-Se tipifican tres grupos de programas:
+Se tipifican cuatro grupos de programas:
 
 440. Administración general del transporte.
 
-441. Promoción, mantenimiento y desarrollo del transporte.
+441. Transporte de viajeros.
 
 442. Infraestructuras del transporte.
+
+443. Transporte de mercancías.
+
+Dentro del grupo de programas Transporte de viajeros se crean dos programas, relativos a Transporte colectivo urbano de viajeros y Otro transporte de viajeros.
+
+4411. Transporte colectivo urbano de viajeros.
+
+4412. Otro transporte de viajeros.
 
 Política de gasto 45. Infraestructuras.
 
@@ -102,11 +116,11 @@ Comprende los gastos de toda índole tendentes a la creación, mejora y mantenim
 
 Los gastos incluidos en el grupo de programas de Administración General corresponderán a actividades dirigidas a la planificación, coordinación, control, organización, gestión administrativa y desarrollo de funciones de apoyo de los distintos centros directivos que integran la política de gasto.
 
-Se aplicarán a esta política de gasto todos los de inversión destinados a la construcción y mejora de carreteras y caminos vecinales a cargo de la entidad local y otros gastos complementarios de los anteriores, como puentes, viaductos, señalización o balizamiento, así como gastos relativos a estudios y servicios de asistencia técnica que resulten necesarios. En cuanto a recursos hidráulicos se incluirán gastos en obras de captación, acumulación y canalización hasta el inicio de la red de distribución urbana y otros de similar naturaleza.
+Se aplicarán a esta política de gasto todos los de inversión destinados a la construcción y mejora de carreteras y caminos vecinales a cargo de la Entidad local y otros gastos complementarios de los anteriores, como puentes, viaductos, señalización o balizamiento, así como gastos relativos a estudios y servicios de asistencia técnica que resulten necesarios. En cuanto a recursos hidráulicos se incluirán gastos en obras de captación, acumulación y canalización hasta el inicio de la red de distribución urbana y otros de similar naturaleza.
 
 Se tipifican cinco grupos de programas, distinguiéndose aquellos que tienen por finalidad la cobertura de gastos generales de administración asociados directamente a las infraestructuras a las que se refiere la presente política de gasto:
 
-450. Administración General de Infraestructuras.
+450. Administración general de infraestructuras.
 
 452. Recursos hidráulicos.
 
@@ -138,4 +152,8 @@ Se tipifican tres grupos de programas:
 
 492. Gestión del conocimiento.
 
-493. Oficinas de defensa al consumidor.
+493. Protección de consumidores y usuarios.
+
+> Se modifica por el art. único.3 de la Orden HAP/419/2014, de 14 de marzo. Ref. BOE-A-2014-2922.
+
+> Esta modificación resultará de aplicación a los presupuestos correspondientes al ejercicio 2015 y siguientes.

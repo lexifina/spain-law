@@ -1,8 +1,6 @@
-## ÁREA DE GASTO 9
+Área de Gasto 9. Actuaciones de carácter general
 
-## Actuaciones de carácter general
-
-Se incluyen en esta área los gastos relativos a actividades que afecten, con carácter general, a la entidad local, y que consistan en el ejercicio de funciones de gobierno o de apoyo administrativo y de soporte lógico y técnico a toda la organización.
+Se incluyen en esta área los gastos relativos a actividades que afecten, con carácter general, a la Entidad local, y que consistan en el ejercicio de funciones de gobierno o de apoyo administrativo y de soporte lógico y técnico a toda la organización.
 
 Recogerá los gastos generales de la Entidad, que no puedan ser imputados ni aplicados directamente a otra área de las previstas en esta clasificación por programas.
 
@@ -10,7 +8,7 @@ Se incluirán en este área las transferencias de carácter general que no pueda
 
 Política de gasto 91. Órganos de gobierno.
 
-Comprende los gastos relativos a la constitución y funcionamiento de los órganos de gobierno de la entidad local y de representación de los mismos. Se incluirán, por tanto, las asignaciones e indemnizaciones del Presidente y miembros de la corporación; secretarías particulares de la presidencia; dietas y gastos de viaje y otros de naturaleza análoga. También se imputarán a esta política de gasto los de material y los necesarios para la atención de los órganos de gobierno.
+Comprende los gastos relativos a la constitución y funcionamiento de los órganos de gobierno de la Entidad local y de representación de los mismos. Se incluirán, por tanto, las asignaciones e indemnizaciones del Presidente y miembros de la corporación; secretarías particulares de la presidencia; dietas y gastos de viaje y otros de naturaleza análoga. También se imputarán a esta política de gasto los de material y los necesarios para la atención de los órganos de gobierno.
 
 Se tipifica un grupo de programas:
 
@@ -18,11 +16,11 @@ Se tipifica un grupo de programas:
 
 Política de gasto 92. Servicios de carácter general.
 
-Comprende los gastos de aquellos servicios que sirven o apoyan a todos los demás de la entidad local.
+Comprende los gastos de aquellos servicios que sirven o apoyan a todos los demás de la Entidad local.
 
 Se imputarán, por tanto, a esta política de gasto los de oficina y dependencias generales; información, publicaciones, registro y relaciones; desarrollos y soportes informáticos de carácter interno; coordinación y control general: archivo, organización y métodos, racionalización y mecanización; administración de personal; elecciones; atención y participación ciudadana, parque móvil, con exclusión de los vehículos afectados a servicios determinados que se imputarán a la correspondiente rúbrica y gastos de asesoramiento y defensa de los intereses de la entidad.
 
-Esta política de gasto integrará los derivados de actividades relacionadas con la elaboración de información básica de carácter general y series estadísticas sobre los distintos servicios de la entidad local.
+Esta política de gasto integrará los derivados de actividades relacionadas con la elaboración de información básica de carácter general y series estadísticas sobre los distintos servicios de la Entidad local.
 
 Se imputarán, asimismo, los gastos referentes a gabinetes de estudio e información y documentación de carácter general.
 
@@ -42,9 +40,15 @@ Se tipifican siete grupos de programas:
 
 929. Imprevistos y funciones no clasificadas.
 
+Dentro del grupo de programas de Información básica y estadística se tipifica un programa, relativo a la Gestión del Padrón Municipal de Habitantes.
+
+9231. Gestión del Padrón Municipal de Habitantes.
+
+En cumplimiento de lo dispuesto en el artículo 31 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, las entidades locales incluidas en el ámbito subjetivo de los artículos 111 y 135 del texto refundido de la Ley reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, incluirán dentro del grupo de programas 929 «Imprevistos, situaciones transitorias y contingencias de ejecución» una dotación diferenciada de créditos presupuestarios en concepto de Fondo de Contingencia de ejecución presupuestaria, para atender necesidades de carácter no discrecional y no previstas en el presupuesto inicialmente aprobado, que puedan presentarse a lo largo del ejercicio. Las entidades locales no incluidas en aquel ámbito subjetivo aplicarán este mismo criterio en el caso de que aprueben la dotación de un Fondo de contingencia con la misma finalidad citada.
+
 Política de gasto 93. Administración financiera y tributaria.
 
-Comprende esta política de gasto todos los gastos correspondientes a la administración financiera de la entidad local.
+Comprende esta política de gasto todos los gastos correspondientes a la administración financiera de la Entidad local.
 
 Se imputarán los gastos generales de los servicios de economía y hacienda; planificación y presupuestos y fiscalidad; control interno y contabilidad y cuentas generales; gestión de la tesorería; gestión del patrimonio, contabilidad patrimonial y rendición de cuentas; gestión, inspección y recaudación de tributos, formación y actualización de padrones fiscales; órganos de resolución de reclamaciones económico-administrativas y de defensa al contribuyente y otros gastos relacionados con la actividad económica y financiera de la entidad.
 
@@ -62,7 +66,7 @@ Se tipifican cuatro grupos de programas:
 
 Política de gasto 94. Transferencias a otras Administraciones Públicas.
 
-Se imputarán a esta política de gasto las transferencias genéricas que ordene la entidad local hacia el Estado o la Comunidad Autónoma o a favor de otros entes locales, como son las participaciones en ingresos, cuotas de mancomunidades o consorcios y cualesquiera otras de naturaleza similar. Se distinguen, a estos efectos las entidades locales territoriales (artículo 3.1 de la Ley 7/1985, de 2 de abril, de la Ley Reguladora de las Bases del Régimen Local) y el resto de entidades locales.
+Se imputarán a esta política de gasto las transferencias genéricas que ordene la Entidad local hacia el Estado o la Comunidad Autónoma o a favor de otros entes locales, como son las participaciones en ingresos, cuotas de mancomunidades o consorcios y cualesquiera otras de naturaleza similar. Se distinguen, a estos efectos las entidades locales territoriales (artículo 3.1 de la Ley 7/1985, de 2 de abril, de la Ley reguladora de las Bases del Régimen Local) y el resto de entidades locales.
 
 Se tipifican cuatro grupos de programas en razón del agente receptor de la misma.
 
@@ -73,3 +77,7 @@ Se tipifican cuatro grupos de programas en razón del agente receptor de la mism
 943. Transferencias a otras entidades locales.
 
 944. Transferencias a la Administración General del Estado.
+
+> Se modifica por el art. único.3 de la Orden HAP/419/2014, de 14 de marzo. Ref. BOE-A-2014-2922.
+
+> Esta modificación resultará de aplicación a los presupuestos correspondientes al ejercicio 2015 y siguientes.

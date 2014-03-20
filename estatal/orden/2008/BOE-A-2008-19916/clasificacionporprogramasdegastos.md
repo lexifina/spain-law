@@ -1,130 +1,140 @@
 ## Clasificación por programas de gastos
 
-| Área de Gasto (1) | Política de Gasto (2) | Grupo de Programas (3) | Denominación |
-| --- | --- | --- | --- |
-| 1 |  |  | SERVICIOS PÚBLICOS BÁSICOS. |
-|  | 13 |  | Seguridad y movilidad ciudadana. |
-|  |  | 130 | Administración General de la Seguridad y Protección Civil. |
-|  |  | 132 | Seguridad y Orden Público. |
-|  |  | 133 | Ordenación del tráfico y del estacionamiento. |
-|  |  | 134 | Protección civil. |
-|  |  | 135 | Servicio de extinción de incendios. |
-|  | 15 |  | Vivienda y urbanismo. |
-|  |  | 150 | Administración General de Vivienda y urbanismo. |
-|  |  | 151 | Urbanismo. |
-|  |  | 152 | Vivienda. |
-|  |  | 153 | Acceso a la vivienda. |
-|  |  | 154 | Fomento de la edificación protegida. |
-|  |  | 155 | Vías públicas. |
-|  | 16 |  | Bienestar comunitario. |
-|  |  | 161 | Saneamiento, abastecimiento y distribución de aguas. |
-|  |  | 162 | Recogida, eliminación y tratamiento de residuos. |
-|  |  | 163 | Limpieza viaria. |
-|  |  | 164 | Cementerio y servicios funerarios. |
-|  |  | 165 | Alumbrado público. |
-|  |  | 169 | Otros servicios de bienestar comunitario. |
-|  | 17 |  | Medio ambiente. |
-|  |  | 170 | Administración general del medio ambiente. |
-|  |  | 171 | Parques y jardines. |
-|  |  | 172 | Protección y mejora del medio ambiente. |
-|  |  | 179 | Otras actuaciones relacionadas con el medio ambiente. |
-| 2 |  |  | ACTUACIONES DE PROTECCIÓN Y PROMOCIÓN SOCIAL. |
-|  | 21 |  | Pensiones. |
-|  |  | 211 | Pensiones. |
-|  | 22 |  | Otras prestaciones económicas a favor de empleados. |
-|  |  | 221 | Otras prestaciones económicas a favor de empleados. |
-|  | 23 |  | Servicios Sociales y promoción social. |
-|  |  | 230 | Administración General de servicios sociales. |
-|  |  | 231 | Acción social. |
-|  |  | 232 | Promoción social. |
-|  |  | 233 | Asistencia a personas dependientes. |
-|  | 24 |  | Fomento del Empleo. |
-|  |  | 241 | Fomento del Empleo. |
-| 3 |  |  | PRODUCCIÓN DE BIENES PÚBLICOS DE CARÁCTER PREFERENTE. |
-|  | 31 |  | Sanidad. |
-|  |  | 312 | Hospitales, servicios asistenciales y centros de salud. |
-|  |  | 313 | Acciones públicas relativas a la salud. |
-|  | 32 |  | Educación. |
-|  |  | 320 | Administración general de educación. |
-|  |  | 321 | Educación preescolar y primaria. |
-|  |  | 322 | Enseñanza secundaria. |
-|  |  | 323 | Promoción educativa. |
-|  |  | 324 | Servicios complementarios de educación. |
-|  | 33 |  | Cultura. |
-|  |  | 330 | Administración General de Cultura. |
-|  |  | 332 | Bibliotecas y Archivos. |
-|  |  | 333 | Museos y Artes Plásticas. |
-|  |  | 334 | Promoción cultural. |
-|  |  | 335 | Artes escénicas. |
-|  |  | 336 | Arqueología y protección del Patrimonio Histórico-Artístico. |
-|  |  | 337 | Ocio y tiempo libre |
-|  |  | 338 | Fiestas populares y festejos. |
-|  | 34 |  | Deporte. |
-|  |  | 340 | Administración General de Deportes. |
-|  |  | 341 | Promoción y fomento del deporte. |
-|  |  | 342 | Instalaciones deportivas. |
-| 4 |  |  | ACTUACIONES DE CARÁCTER ECONÓMICO. |
-|  | 41 |  | Agricultura, Ganadería y Pesca. |
-|  |  | 410 | Administración General de Agricultura, Ganadería y Pesca. |
-|  |  | 412 | Mejora de las estructuras agropecuarias y de los sistemas productivos. |
-|  |  | 414 | Desarrollo rural. |
-|  |  | 415 | Protección y desarrollo de los recursos pesqueros. |
-|  |  | 419 | Otras actuaciones en agricultura, ganadería y pesca. |
-|  | 42 |  | Industria y energía. |
-|  |  | 420 | Administración General de Industria y energía. |
-|  |  | 422 | Industria. |
-|  |  | 423 | Minería. |
-|  |  | 425 | Energía. |
-|  | 43 |  | Comercio, turismo y pequeñas y medianas empresas. |
-|  |  | 430 | Administración General de Comercio, turismo y pequeñas y medianas empresas. |
-|  |  | 431 | Comercio. |
-|  |  | 432 | Ordenación y promoción turística. |
-|  |  | 433 | Desarrollo empresarial. |
-|  |  | 439 | Otras actuaciones sectoriales. |
-|  | 44 |  | Transporte público. |
-|  |  | 440 | Administración general del transporte. |
-|  |  | 441 | Promoción, mantenimiento y desarrollo del transporte. |
-|  |  | 442 | Infraestructuras del transporte. |
-|  | 45 |  | Infraestructuras. |
-|  |  | 450 | Administración General de Infraestructuras. |
-|  |  | 452 | Recursos Hidráulicos. |
-|  |  | 453 | Carreteras . |
-|  |  | 454 | Caminos vecinales. |
-|  |  | 459 | Otras infraestructuras. |
-|  | 46 |  | Investigación, desarrollo e innovación. |
-|  |  | 462 | Investigación y estudios relacionados con los servicios públicos. |
-|  |  | 463 | Investigación científica, técnica y aplicada. |
-|  | 49 |  | Otras actuaciones de carácter económico. |
-|  |  | 491 | Sociedad de la información. |
-|  |  | 492 | Gestión del conocimiento. |
-|  |  | 493 | Oficinas de defensa al consumidor. |
-| 9 |  |  | ACTUACIONES DE CARÁCTER GENERAL. |
-|  | 91 |  | Órganos de gobierno. |
-|  |  | 912 | Órganos de gobierno. |
-|  | 92 |  | Servicios de carácter general. |
-|  |  | 920 | Administración General. |
-|  |  | 922 | Coordinación y organización institucional de las entidades locales. |
-|  |  | 923 | Información básica y estadística. |
-|  |  | 924 | Participación ciudadana. |
-|  |  | 925 | Atención a los ciudadanos. |
-|  |  | 926 | Comunicaciones internas. |
-|  |  | 929 | Imprevistos y funciones no clasificadas. |
-|  | 93 |  | Administración financiera y tributaria. |
-|  |  | 931 | Política económica y fiscal. |
-|  |  | 932 | Gestión del sistema tributario. |
-|  |  | 933 | Gestión del patrimonio. |
-|  |  | 934 | Gestión de la deuda y de la tesorería. |
-|  | 94 |  | Transferencias a otras Administraciones Públicas. |
-|  |  | 941 | Transferencias a Comunidades Autónomas. |
-|  |  | 942 | Transferencias a Entidades Locales territoriales. |
-|  |  | 943 | Transferencias a otras Entidades Locales. |
-|  |  | 944 | Transferencias a la Administración General del Estado. |
-| 0 |  |  | DEUDA PÚBLICA. |
-|  | 01 |  | Deuda Pública. |
-|  |  | 011 | Deuda Pública. |
+| Área de Gasto | Política de Gasto | Grupo de Programas | Programas | Denominación |
+| --- | --- | --- | --- | --- |
+| 1 |  |  |  | SERVICIOS PÚBLICOS BÁSICOS. |
+|  | 13 |  |  | Seguridad y movilidad ciudadana. |
+|  |  | 130 |  | Administración general de la seguridad y protección civil. |
+|  |  | 132 |  | Seguridad y Orden Público. |
+|  |  | 133 |  | Ordenación del tráfico y del estacionamiento |
+|  |  | 134 |  | Movilidad urbana. |
+|  |  | 135 |  | Protección civil. |
+|  |  | 136 |  | Servicio de prevención y extinción de incendios. |
+|  | 15 |  |  | Vivienda y urbanismo. |
+|  |  | 150 |  | Administración General de Vivienda y urbanismo. |
+|  |  | 151 |  | Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística. |
+|  |  | 152 |  | Vivienda. |
+|  |  |  | 1521 | Promoción y gestión de vivienda de protección pública. |
+|  |  |  | 1522 | Conservación y rehabilitación de la edificación. |
+|  |  | 153 |  | Vías públicas. |
+|  |  |  | 1531 | Acceso a los núcleos de población. |
+|  |  |  | 1532 | Pavimentación de vías públicas. |
+|  | 16 |  |  | Bienestar comunitario. |
+|  |  | 160 |  | Alcantarillado. |
+|  |  | 161 |  | Abastecimiento domiciliario de agua potable. |
+|  |  | 162 |  | Recogida, gestión y tratamiento de residuos. |
+|  |  |  | 1621 | Recogida de residuos. |
+|  |  |  | 1622 | Gestión de residuos sólidos urbanos. |
+|  |  |  | 1623 | Tratamiento de residuos. |
+|  |  | 163 |  | Limpieza viaria. |
+|  |  | 164 |  | Cementerio y servicios funerarios. |
+|  |  | 165 |  | Alumbrado público. |
+|  | 17 |  |  | Medio ambiente. |
+|  |  | 170 |  | Administración general del medio ambiente. |
+|  |  | 171 |  | Parques y jardines. |
+|  |  | 172 |  | Protección y mejora del medio ambiente. |
+|  |  |  | 1721 | Protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas. |
+| 2 |  |  |  | ACTUACIONES DE PROTECCIÓN Y PROMOCIÓN SOCIAL. |
+|  | 21 |  |  | Pensiones. |
+|  |  | 211 |  | Pensiones. |
+|  | 22 |  |  | Otras prestaciones económicas a favor de empleados. |
+|  |  | 221 |  | Otras prestaciones económicas a favor de empleados. |
+|  | 23 |  |  | Servicios Sociales y promoción social. |
+|  |  | 231 |  | Asistencia social primaria. |
+|  | 24 |  |  | Fomento del Empleo. |
+|  |  | 241 |  | Fomento del Empleo. |
+| 3 |  |  |  | PRODUCCIÓN DE BIENES PÚBLICOS DE CARÁCTER PREFERENTE. |
+|  | 31 |  |  | Sanidad. |
+|  |  | 311 |  | Protección de la salubridad pública. |
+|  |  | 312 |  | Hospitales, servicios asistenciales y centros de salud. |
+|  | 32 |  |  | Educación. |
+|  |  | 320 |  | Administración general de educación. |
+|  |  | 321 |  | Creación de Centros docentes de enseñanza preescolar y primaria. |
+|  |  | 322 |  | Creación de Centros docentes de enseñanza secundaria. |
+|  |  | 323 |  | Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial. |
+|  |  | 324 |  | Funcionamiento de centros docentes de enseñanza secundaria. |
+|  |  | 325 |  | Vigilancia del cumplimiento de la escolaridad obligatoria. |
+|  |  | 326 327 |  | Servicios complementarios de educación Fomento de la convivencia ciudadana. |
+|  | 33 |  |  | Cultura. |
+|  |  | 330 |  | Administración general de cultura. |
+|  |  | 332 |  | Bibliotecas y Archivos. |
+|  |  |  | 3321 | Bibliotecas públicas. |
+|  |  |  | 3322 | Archivos. |
+|  |  | 333 |  | Equipamientos culturales y museos. |
+|  |  | 334 |  | Promoción cultural. |
+|  |  | 336 |  | Protección y gestión del Patrimonio Histórico-Artístico. |
+|  |  | 337 338 |  | Instalaciones de ocupación del tiempo libre Fiestas populares y festejos. |
+|  | 34 |  |  | Deporte. |
+|  |  | 340 |  | Administración general de deportes. |
+|  |  | 341 |  | Promoción y fomento del deporte. |
+|  |  | 342 |  | Instalaciones deportivas. |
+| 4 |  |  |  | ACTUACIONES DE CARÁCTER ECONÓMICO. |
+|  | 41 |  |  | Agricultura, Ganadería y Pesca. |
+|  |  | 410 |  | Administración general de agricultura, ganadería y pesca. |
+|  |  | 412 |  | Mejora de las estructuras agropecuarias y de los sistemas productivos. |
+|  |  | 414 |  | Desarrollo rural. |
+|  |  | 415 |  | Protección y desarrollo de los recursos pesqueros. |
+|  |  | 419 |  | Otras actuaciones en agricultura, ganadería y pesca. |
+|  | 42 |  |  | Industria y energía. |
+|  |  | 420 |  | Administración General de Industria y energía. |
+|  |  | 422 |  | Industria. |
+|  |  | 423 |  | Minería. |
+|  |  | 425 |  | Energía. |
+|  | 43 |  |  | Comercio, turismo y pequeñas y medianas empresas. |
+|  |  | 430 |  | Administración general de comercio, turismo y pequeñas y medianas empresas. |
+|  |  | 431 |  | Comercio. |
+|  |  |  | 4311 | Ferias. |
+|  |  |  | 4312 | Mercados, abastos y lonjas. |
+|  |  |  | 4313 | Comercio ambulante. |
+|  |  | 432 |  | Información y promoción turística. |
+|  |  | 433 |  | Desarrollo empresarial. |
+|  |  | 439 |  | Otras actuaciones sectoriales. |
+|  | 44 |  |  | Transporte público. |
+|  |  | 440 |  | Administración general del transporte. |
+|  |  | 441 |  | Transporte de viajeros. |
+|  |  |  | 4411 | Transporte colectivo urbano de viajeros. |
+|  |  |  | 4412 | Otro transporte de viajeros. |
+|  |  | 442 |  | Infraestructuras del transporte. |
+|  |  | 443 |  | Transporte de mercancías. |
+|  | 45 |  |  | Infraestructuras. |
+|  |  | 450 |  | Administración general de infraestructuras. |
+|  |  | 452 |  | Recursos Hidráulicos. |
+|  |  | 453 |  | Carreteras. |
+|  |  | 454 |  | Caminos vecinales. |
+|  |  | 459 |  | Otras infraestructuras. |
+|  | 46 |  |  | Investigación, desarrollo e innovación. |
+|  |  | 462 |  | Investigación y estudios relacionados con los servicios públicos. |
+|  |  | 463 |  | Investigación científica, técnica y aplicada. |
+|  | 49 |  |  | Otras actuaciones de carácter económico. |
+|  |  | 491 |  | Sociedad de la información. |
+|  |  | 492 |  | Gestión del conocimiento. |
+|  |  | 493 |  | Protección de consumidores y usuarios. |
+| 9 |  |  |  | ACTUACIONES DE CARÁCTER GENERAL. |
+|  | 91 |  |  | Órganos de gobierno. |
+|  |  | 912 |  | Órganos de gobierno. |
+|  | 92 |  |  | Servicios de carácter general. |
+|  |  | 920 |  | Administración General. |
+|  |  | 922 |  | Coordinación y organización institucional de las entidades locales. |
+|  |  | 923 |  | Información básica y estadística. |
+|  |  |  | 9231 | Gestión del Padrón Municipal de Habitantes. |
+|  |  | 924 |  | Participación ciudadana. |
+|  |  | 925 |  | Atención a los ciudadanos. |
+|  |  | 926 |  | Comunicaciones internas. |
+|  |  | 929 |  | Imprevistos, situaciones transitorias y contingencias de ejecución. |
+|  | 93 |  |  | Administración financiera y tributaria. |
+|  |  | 931 |  | Política económica y fiscal. |
+|  |  | 932 |  | Gestión del sistema tributario. |
+|  |  | 933 |  | Gestión del patrimonio. |
+|  |  | 934 |  | Gestión de la deuda y de la tesorería. |
+|  | 94 |  |  | Transferencias a otras Administraciones Públicas. |
+|  |  | 941 |  | Transferencias a Comunidades Autónomas. |
+|  |  | 942 |  | Transferencias a Entidades Locales territoriales. |
+|  |  | 943 |  | Transferencias a otras Entidades Locales. |
+|  |  | 944 |  | Transferencias a la Administración General del Estado. |
+| 0 |  |  |  | DEUDA PÚBLICA. |
+|  | 01 |  |  | Deuda Pública. |
+|  |  | 011 |  | Deuda Pública. |
 
-(1) Antes (en la OM de 20 de septiembre de 1989) Grupo de Función.
+> Se modifica por el art. único.3 de la Orden HAP/419/2014, de 14 de marzo. Ref. BOE-A-2014-2922.
 
-(2) Antes (en la OM de 20 de septiembre de 1989) Función.
-
-(3) Antes (en la OM de 20 de septiembre de 1989) Subfunción.
+> Esta modificación resultará de aplicación a los presupuestos correspondientes al ejercicio 2015 y siguientes.

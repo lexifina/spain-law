@@ -6,6 +6,8 @@ Para la correcta clasificación de los gastos atendiendo a los programas corresp
 
 Si algún gasto fuese susceptible de aplicarse a más de una política de gasto, se imputará a aquella que se considere más adecuada en relación con el conjunto de objetivos y finalidades definidos. A tales efectos, se podrán tener en cuenta tanto criterios cualitativos como cuantitativos de la gestión presupuestaria.
 
-La presente codificación tiene carácter cerrado y obligatorio en sus niveles de áreas de gasto y de políticas de gasto. Por lo que se refiere a grupos de programas, programas o subprogramas, se considera abierto, pudiendo crearse por cada Entidad local cuantos epígrafes de estos niveles estime necesarios de acuerdo con sus necesidades.
+La presente codificación tiene carácter cerrado y obligatorio para todas las entidades locales en sus niveles de áreas de gasto, políticas de gasto, grupos de programas y programas que están especificados en la misma. Por lo que se refiere a programas o subprogramas, se considera abierto, en tanto no se recojan en este anexo.
 
-No obstante, y debido a la especialidad de la Administración Local, se tipifican y codifican algunos grupos de programas que se consideran de general utilización. En el caso en que la Entidad local decida clasificar por cualquiera de dichos grupos de programas, necesariamente deberá asignarles el número de codificación previsto.
+> Se modifica por el art. único.3 de la Orden HAP/419/2014, de 14 de marzo. Ref. BOE-A-2014-2922.
+
+> Esta modificación resultará de aplicación a los presupuestos correspondientes al ejercicio 2015 y siguientes.

@@ -1,6 +1,4 @@
-## ÁREA DE GASTO 2
-
-## Actuaciones de protección y promoción social
+Área de Gasto 2. Actuaciones de protección y promoción social
 
 Se incluyen en esta área o grupo todos aquellos gastos y transferencias que constituyen el régimen de previsión; pensiones de funcionarios, atenciones de carácter benéfico-asistencial; atenciones a grupos con necesidades especiales, como jóvenes, mayores, minusválidos físicos y tercera edad; medidas de fomento del empleo.
 
@@ -22,19 +20,13 @@ Se tipifica un grupo de programas:
 
 Política de gasto 23. Servicios sociales y promoción social.
 
-Se imputarán a esta política de gasto los llevados a cabo por la entidad local para la promoción de la igualdad de género, promoción y reinserción social de marginados, así como para la gestión de los servicios sociales; prestación de servicios a personas dependientes y de asistencia social, residencias de ancianos y otros de naturaleza análoga. También se incluirán las transferencias finalistas a entidades y familias que colaboren en la consecución de estos fines.
+Se imputarán a esta política de gasto los llevados a cabo por la Entidad local para desarrollar la asistencia social primaria: la promoción de la igualdad de género, promoción y reinserción social de marginados, así como para la gestión de los servicios sociales; prestación de servicios a personas dependientes y de asistencia social, residencias de ancianos y otros de naturaleza análoga; la evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social. También se incluirán las transferencias finalistas a entidades y familias que colaboren en la consecución de estos fines.
 
-Se entiende por Administración General las actividades dirigidas a la planificación, coordinación, control, organización, gestión administrativa y desarrollo de funciones de apoyo de los distintos centros directivos que integran la política de gasto.
+Se incluirán los gastos correspondientes a la Administración General, que corresponderán a las actividades dirigidas a la planificación, coordinación, control, organización, gestión administrativa y desarrollo de funciones de apoyo de los distintos centros directivos que integran la política de gasto.
 
-Se tipifican cuatro grupos de programas:
+Se tipifica un grupo de programas:
 
-230. Administración General de servicios sociales.
-
-231. Acción social.
-
-232. Promoción social.
-
-233. Asistencia a personas dependientes.
+231. Asistencia social primaria.
 
 Política de gasto 24. Fomento del empleo.
 
@@ -43,3 +35,7 @@ Se imputan a esta política de gasto aquellos que tienen por objeto el fomento y
 Se tipifica un grupo de programas:
 
 241. Fomento del empleo.
+
+> Se modifica por el art. único.3 de la Orden HAP/419/2014, de 14 de marzo. Ref. BOE-A-2014-2922.
+
+> Esta modificación resultará de aplicación a los presupuestos correspondientes al ejercicio 2015 y siguientes.
