@@ -1,0 +1,3 @@
+## Disposición adicional octava. Régimen de dispensación de medicamentos.
+
+Cuando la prescripción se realice por principio activo el farmacéutico dispensará el medicamento de precio más bajo de su agrupación homogénea. En caso de desabastecimiento o de urgente necesidad se deberán dispensar las presentaciones disponibles por orden de precio más bajo. En caso de que conforme a las anteriores reglas puedan dispensarse varias presentaciones que tengan un mismo precio, se dispensará el medicamento genérico o el biosimilar correspondiente si está entre ellas. Cuando la prescripción se realice por denominación comercial se aplicarán las mismas reglas únicamente si el precio del medicamento prescrito supera el precio menor de la agrupación homogénea.
