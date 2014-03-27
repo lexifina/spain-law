@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en el BOE núm. 183, de 2 de agosto de 1982. Ref. BOE-A-1982-19738.
+Norma derogada, con efectos de 27 de marzo de 2014, por la disposición derogatoria única del Real Decreto 164/2014, de 14 de marzo. Ref. BOE-A-2014-3251.
