@@ -1,3 +1,0 @@
-## CAPÍTULO II
-
-## Instalaciones industriales
