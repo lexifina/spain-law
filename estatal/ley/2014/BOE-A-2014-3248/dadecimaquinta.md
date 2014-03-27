@@ -1,0 +1,5 @@
+## Disposición adicional décima quinta. Asistencia a nuevos emigrantes.
+
+Las Misiones Diplomáticas y Oficinas Consulares asumirán como uno de sus objetivos prioritarios la atención a los nuevos emigrantes españoles, especialmente en aquellos Estados donde exista un mayor flujo de llegadas, con el fin de facilitar tanto su integración laboral y personal en el país de acogida, como de, en la medida de lo posible, facilitar el regreso a España a aquellos inmigrantes que deseen volver.
+
+Para ello, en sus relaciones con el Gobierno y las distintas administraciones del Estado donde radiquen, realizarán una planificación sistemática de contactos y relaciones que aborden la situación laboral y social de este colectivo, favoreciendo, entre otras medidas, su inclusión en programas de apoyo ya existentes o instando aquellas actuaciones que puedan favorecerles, relacionadas con vivienda, cursos de lenguas y oportunidades de trabajo. En su relación directa con los nuevos emigrantes, procurarán adecuar sus horarios de atención y potenciar canales de comunicación electrónicos, que mejoren la tarea de asistencia y protección a estos ciudadanos.

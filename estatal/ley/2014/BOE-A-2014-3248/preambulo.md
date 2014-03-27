@@ -1,0 +1,73 @@
+JUAN CARLOS I
+
+REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley:
+
+PREÁMBULO
+
+I
+
+La dimensión internacional de la actuación del Estado ha cobrado en los últimos tiempos un protagonismo sin precedentes. La razón de ello es que en un mundo globalizado e interdependiente como el actual, la forma de conducir la política exterior de un Estado incide de manera directa e inmediata en la vida e intereses de sus ciudadanos. Además, en el ámbito europeo, se ha desarrollado un ambicioso proceso de integración supranacional en el que los Estados miembros han atribuido a la Unión Europea el ejercicio de un elenco tan amplio de competencias que la actuación nacional e internacional quedan estrechamente entrelazadas.
+
+Para España, la aprobación de la Constitución de 1978 supuso un cambio trascendental que ha tenido una gran incidencia en la Acción Exterior de nuestro país. Ha permitido la incorporación de España a foros de los que durante mucho tiempo estuvimos excluidos, especialmente la ya citada Unión Europea, el Consejo de Europa y la Alianza Atlántica, a la par que ha impulsado la creación de la Comunidad Iberoamericana de Naciones. También ha propiciado el establecimiento de nuevas dimensiones de la Acción Exterior, como lo es la cooperación internacional al desarrollo. Y todo ello con fundamento en el firme compromiso con los valores fundamentales que inspiran las relaciones dentro de la comunidad internacional, muy en especial, los valores de la dignidad humana, la libertad, el Estado de Derecho, los derechos humanos, la solidaridad, el fomento de la paz, el respeto del Derecho Internacional y el compromiso con el multilateralismo.
+
+Asimismo, la Constitución de 1978 creó el marco jurídico necesario para el reconocimiento a diversos sujetos, entre ellos las Comunidades Autónomas a través de sus respectivos Estatutos de Autonomía, de competencias en materia de Acción Exterior, tanto en el ámbito de la Unión Europea como en el de la Acción Exterior en sentido propio. Ello ha comportado un gran enriquecimiento interior y exterior para España, pero conlleva, a su vez, la correlativa necesidad de coordinación para garantizar una armoniosa convivencia entre la Acción Exterior y la dirección de la Política Exterior por parte del Gobierno.
+
+II
+
+En este contexto, la Ley de la Acción y del Servicio Exterior del Estado se concibe como un instrumento flexible que presta atención preferente a cinco exigencias fundamentales.
+
+En primer lugar, resulta preciso afirmar y promover los valores e intereses de España con el objetivo de fortalecer su presencia internacional y reforzar su imagen en el mundo.
+
+En segundo lugar, cobra una importancia capital consolidar y reforzar la credibilidad de España en el exterior ya que, como consecuencia de la globalización y del crecimiento exponencial de las relaciones económicas internacionales, dicha credibilidad es de indudable importancia para aumentar la exportación de bienes y servicios, atraer capitales con los que financiar nuestra economía y facilitar la implantación y expansión de nuestras empresas.
+
+En tercer lugar, conviene fortalecer nuestra participación en el proceso de integración europea y articular una Acción Exterior que resulte armónica con la Política Exterior y de Seguridad Común de la Unión Europea, así como con los fines del Servicio Europeo de Acción Exterior.
+
+En cuarto lugar, es primordial lograr una adecuada coordinación de la Acción Exterior de España con la de los Estados que integran la Comunidad Iberoamericana de Naciones. Esta dimensión genuina de España, derivada de la historia y de la afinidad cultural y lingüística, de la que forma parte sustantiva el español como lengua común, constituye un empeño irrenunciable para España.
+
+Y, finalmente, resulta obligado garantizar una adecuada asistencia y protección a los españoles y apoyar a la ciudadanía española y a las empresas españolas en el exterior.
+
+A partir de esta concepción, la ley establece siete principios rectores de la Acción Exterior del Estado: unidad de acción en el exterior; lealtad institucional y coordinación y cooperación; planificación; eficiencia; eficacia y especialización; transparencia; y servicio al interés general.
+
+Sobre estos principios, la ley reafirma la competencia del Gobierno en su papel de dirección de la política exterior, y sus facultades de coordinación de la Acción Exterior. Revitaliza el Consejo de Política Exterior y su Consejo Ejecutivo, a los que corresponde velar para que la Acción Exterior del Estado se desarrolle de conformidad con los principios y objetivos de la Política Exterior y se ajuste a las directrices fijadas por el Gobierno mediante la adecuación de los medios a los objetivos. Establece, ya que reconoce a todos los actores en el exterior, instrumentos de planificación, seguimiento y coordinación que procuren que la Acción Exterior sea integrada y exista una plena conexión entre ella y la Política Exterior. Y, finalmente, concibe el Servicio Exterior del Estado como el instrumento fundamental para la ejecución de la Política y de la Acción Exterior al aglutinar en él a todos los órganos de la Administración General del Estado que actúan en el exterior y definir a los Embajadores y Representantes Permanentes ante Organizaciones Internacionales como órganos directivos a los que corresponde la dirección y la coordinación de todos ellos.
+
+Todo ello se vertebra, lógicamente, en el marco constitucional, en particular con base competencial en el artículo 149.1.3.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de relaciones internacionales, el artículo 149.1.18.ª, que le atribuye la competencia exclusiva en materia de bases del régimen jurídico de las Administraciones públicas y de régimen estatutario de los funcionarios, y el artículo 97 que otorga al Gobierno, asimismo en exclusiva, la dirección de la política exterior.
+
+III
+
+La ley se estructura en cuatro títulos. El punto de arranque lo configura un título preliminar en el que se recogen las disposiciones generales sobre el objeto y definiciones de la ley y los principios que la inspiran, con clara diferencia entre Política Exterior y Acción Exterior del Estado. Se persigue dotar a esta última de unidad y coherencia interna, más allá de la suma de las acciones sectoriales; planificarla, garantizar su eficacia y eficiencia, reconocer la necesaria especialización en su ejecución; y ponerla al servicio de los intereses generales de España, como resultado de una visión participada y compartida sobre lo que a España interesa.
+
+El título I regula los sujetos y los ámbitos de la Acción Exterior del Estado. Sus disposiciones parten del reconocimiento de la existencia de una multiplicidad de sujetos que, sin competencias en Política Exterior, desarrollan una muy intensa Acción Exterior, en el ejercicio de sus competencias propias, y deben sujetarse a las directrices, fines y objetivos establecidos por el Gobierno en el ejercicio a su vez de su competencia exclusiva de dirección de la Política Exterior del Estado. Respecto de los sujetos, entre los que no cabe olvidar por su relevante papel a la Corona, la ley recoge la mención de aquellas competencias y funciones que guardan estrecha relación con la Acción Exterior del Estado. Como novedad, la ley establece un sistema de información y comunicación de las actuaciones en el exterior y de los viajes y visitas al exterior que persigue una doble finalidad: que el Gobierno facilite a los sujetos de la Acción Exterior apoyo en su ejecución; y, en lo que a los órganos constitucionales y Administraciones públicas concierne, que pueda emitir recomendaciones motivadas acerca de la adecuación de dichas actuaciones a las directrices, fines y objetivos de la Política Exterior.
+
+Asimismo, en este título se relacionan y describen, sin ánimo de constituir una lista cerrada e inmutable, los ámbitos de la Acción Exterior entendidos como aquellos que, por su singular importancia, deben ser atendidos y tenidos en cuenta para la formulación de una Política Exterior cuyo objetivo último es la defensa y promoción de los valores e intereses de España, el progreso y el crecimiento sostenible y el bienestar de la población española con especial énfasis en la promoción de la igualdad entre hombres y mujeres y la erradicación de la violencia de género, destacando la atención y protección de las mujeres españolas víctimas de violencia de género y de sus hijos e hijas en el exterior.
+
+En el título II se regulan los instrumentos de planificación, seguimiento y coordinación de la Acción Exterior. Los primeros son la Estrategia y el Informe de Acción Exterior, ambos objeto de aprobación por el Gobierno, cuya elaboración se lleva a cabo conjuntamente por todos los departamentos ministeriales y se completa con las aportaciones de los órganos constitucionales, las Comunidades y Ciudades Autónomas y las entidades que integran la Administración Local.
+
+En la elaboración de la Estrategia de Acción Exterior resulta imprescindible la puesta en valor de todos nuestros activos inmateriales ante sociedades civiles y actores no gubernamentales en el ámbito internacional. La promoción de la imagen de España en el exterior constituye una tarea inexcusable.
+
+Por lo que a la coordinación concierne, la ley presta especial atención a un órgano clave para la consecución de sus objetivos, el Consejo de Política Exterior, órgano colegiado asesor del Presidente del Gobierno en su tarea de dirección de la Política Exterior, que se configura como el principal garante de la coherencia interna de la Acción Exterior del Estado y la plena coordinación entre la Acción Exterior y la Política Exterior.
+
+Este órgano colegiado adquiere además un protagonismo esencial a través de su Consejo Ejecutivo al que corresponde formular propuestas relativas a la adecuación y mejor ordenación de los medios humanos, presupuestarios y materiales del Servicio Exterior, para el cumplimiento de los fines y objetivos fijados en la Estrategia de Acción Exterior. Dicho en otros términos, conoce sobre cómo y dónde debe producirse el despliegue de nuestro Servicio Exterior para mejor servir los intereses generales de España.
+
+El título III se dedica a la nueva configuración de la organización de la Administración General del Estado en el exterior: el Servicio Exterior del Estado, figura ya apuntada en el Real Decreto 632/1987, de 8 de mayo, sobre organización de la Administración del Estado en el exterior que persigue la unidad de acción de todos los órganos de la Administración General del Estado en el exterior. Para ello se garantizan las funciones de dirección de la Misión y de coordinación de la Acción Exterior y del Servicio Exterior que ya la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado atribuye a los Embajadores y Representantes Permanentes en su condición de órganos directivos en el exterior, a la vez que reconoce la necesidad e importancia de la incorporación del conocimiento especializado a la Acción Exterior del Estado.
+
+Como novedad, la ley establece las bases para que el Consejo Ejecutivo de Política Exterior pueda recomendar la adopción de medidas de gestión integrada en las Misiones Diplomáticas a través del establecimiento, allí donde se considere necesario o conveniente, de una Sección de Servicios Comunes que procure, además, un más eficiente aprovechamiento de los recursos humanos y materiales públicos.
+
+En este título se introducen también nuevos conceptos y nuevas formas de diplomacia y representación, aprovechando la potencialidad que ofrece el despliegue del Servicio Europeo de Acción Exterior y de sus delegaciones en el exterior o acordando con los Estados que integran la Comunidad Iberoamericana de Naciones la creación de oficinas sectoriales conjuntas en terceros Estados para el desarrollo de ámbitos específicos de la Acción Exterior.
+
+Este modelo requiere que la Administración potencie la formación continuada de los funcionarios que integran el Servicio Exterior en capacidades nuevas que permitan el trabajo interdisciplinar y multisectorial, así como el pleno desarrollo de las capacidades directivas y técnicas de negociación en el contexto internacional, y la formación en el conocimiento y perfeccionamiento de idiomas. Para ello, la ley configura a la Escuela Diplomática y al ICEX España Exportación e Inversiones, a través del Centro de Estudios Económicos y Comerciales, como centros de formación de los funcionarios del Servicio Exterior.
+
+Finalmente, la ley se cierra con las correspondientes disposiciones adicionales, derogatorias y finales.
+
+IV
+
+Finalmente, conviene emplazar esta ley en su justa perspectiva histórica y dejar constancia del valor que en esta materia tiene un consenso político y social para su puesta en marcha.
+
+En efecto, esta ley se inscribe en una rica trayectoria histórica, varias veces centenaria, de diplomacia española, que hunde sus raíces últimas en las valiosas aportaciones que la Escuela de Salamanca hizo en el siglo XVI al derecho internacional y cuya actuación siempre se ha desarrollado con entera vocación de servicio público. No en vano las dimensiones genuinas de nuestra acción exterior –la europea, la iberoamericana y atlántica, así como la mediterránea– entroncan sin duda con las diplomacias castellana y aragonesa, pero es así mismo propiamente española nuestra vocación de universalismo. Esta historia diplomática es ciertamente excepcional por su magnitud geográfica, por su producción doctrinal política y jurídica, por sus instituciones, medios y personas, así como por sus usos, rumbos y tareas. Y es legítimo traer a colación este ingente y valioso legado, pues, en gran medida, los condicionantes y las categorías, las personas, los recursos y los objetivos de la Acción Exterior que regula la presente ley se incardinan en dicha historia.
+
+Por otro lado, las novedades y cambios que la presente ley comporta no pueden ser llevados a cabo en solitario por el Gobierno. Una adecuada y eficaz aplicación de esta ley requiere un acuerdo básico entre las fuerzas políticas, las Comunidades Autónomas, las Organizaciones Empresariales y Sindicales, el mundo de la cultura y la colaboración de toda la sociedad española. Solo así podrá transformarse realmente un orden jurídico diseñado en la época en la que aún subsistían las viejas fronteras entre los Estados para construir otro adaptado a los nuevos imperativos de la globalización.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 117, de 14 de mayo de 2014. Ref. BOE-A-2014-5106.

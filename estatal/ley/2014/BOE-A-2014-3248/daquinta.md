@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Informe sobre situación de los cónyuges o parejas de hecho del personal funcionario o laboral desplazado.
+
+En el plazo de seis meses desde la entrada en vigor de esta ley, el Ministerio de Hacienda y Administraciones Públicas elaborará un informe sobre la situación de los cónyuges o parejas de hecho del personal funcionario o laboral desplazado, que no tenga la condición de empleado público, respecto de su posible acceso a cobertura de puestos de trabajo existentes en la Administración General del Estado y sus Organismos dependientes en el exterior.
+
+Asimismo, elaborará un informe acerca de la posibilidad de que los cónyuges o parejas de hecho de dicho personal funcionario o laboral desplazado puedan mantener los derechos adquiridos o en curso de adquisición en materia de antigüedad, pensiones y derechos pasivos del sistema español de seguridad social y, en consecuencia, abonar voluntariamente las cotizaciones correspondientes a periodos anteriores a la entrada en vigor de esta ley.

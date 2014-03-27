@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Régimen de las Fuerzas Armadas.
+
+Dadas las especiales características de las Fuerzas Armadas, de disciplina, jerarquía y unidad, las previsiones del título III de esta ley se aplicarán sin menoscabo de lo dispuesto en la Ley Orgánica 5/2005, de 17 de noviembre, de la Defensa Nacional, así como en la Ley Orgánica 9/2011, de 27 de julio, de derechos y deberes de los miembros de las Fuerzas Armadas, en la Ley Orgánica 8/1998, de 2 de diciembre, de Régimen Disciplinario de las Fuerzas Armadas, en la Ley Orgánica 13/1985, de 9 de diciembre, del Código Penal Militar, en la Ley 39/2007, de 19 de noviembre, de la carrera militar y en las Reales Ordenanzas para las Fuerzas Armadas, aprobadas por Real Decreto 96/2009, de 6 de febrero.
