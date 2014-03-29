@@ -20,7 +20,7 @@ B) Infracciones graves.
 
 4.ª El incumplimiento de los requerimientos específicos que formulen las autoridades sanitarias, siempre que se produzcan por primera vez.
 
-5.ª La resistencia a suministrar datos, facilitar información o prestar colaboración a las autoridades sanitarias o a sus agentes.
+5.ª La resistencia a suministrar datos, facilitar información o prestar colaboración a las autoridades sanitarias, a sus agentes o al órgano encargado del Registro Estatal de Profesionales Sanitarios.
 
 6.ª Las que, en razón de los elementos contemplados en este artículo, merezcan la calificación de graves o no proceda su calificación como faltas leves o muy graves.
 
@@ -43,3 +43,5 @@ C) Infracciones muy graves.
 7.ª Las que, en razón de los elementos contemplados en este artículo y de su grado de concurrencia, merezcan la calificación de muy graves o no proceda su calificación como faltas leves o graves.
 
 8.ª La reincidencia en la comisión de faltas graves en los últimos cinco años.
+
+> Se modifica el apartado B) 5.ª por la disposición final 9.1 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.

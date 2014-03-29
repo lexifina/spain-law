@@ -1,0 +1,3 @@
+## Disposición final quinta. Incorporación del derecho de la Unión Europea.
+
+La presente ley incorpora al ordenamiento jurídico interno la Directiva 2011/83/UE del Parlamento Europeo y del Consejo, de 25 de octubre de 2011, sobre los derechos de los consumidores, por la que se modifican la Directiva 93/13/CEE del Consejo y la Directiva 1999/44/CE del Parlamento Europeo y del Consejo y se derogan la Directiva 85/577/CEE del Consejo y la Directiva 97/7/CE del Parlamento Europeo y del Consejo. Asimismo, se incorpora al ordenamiento jurídico interno el artículo 10.1 de la Directiva 2013/11/UE del Parlamento Europeo y del Consejo de 21 de mayo de 2013.

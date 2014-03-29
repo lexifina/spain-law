@@ -1,0 +1,3 @@
+## Disposición adicional primera. Responsabilidad por incumplimiento de las Administraciones públicas.
+
+Las Administraciones públicas competentes que, en el ejercicio de sus competencias, incumplieran lo dispuesto en esta ley o en el derecho comunitario afectado, dando lugar a que el Reino de España sea sancionado por las instituciones europeas asumirán, en la parte que les sea imputable, las responsabilidades que de tal incumplimiento se hubieran derivado. En el procedimiento de imputación de responsabilidad que se tramite se garantizará, en todo caso, la audiencia de la Administración afectada, pudiendo compensarse el importe que se determine con cargo a las transferencias financieras que la misma reciba.
