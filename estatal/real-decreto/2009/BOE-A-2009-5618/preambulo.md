@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 103, de 28 de abril de 2009. Ref. BOE-A-2009-7046.
+Norma derogada por la disposición derogatoria única 2.a) del Real Decreto 216/2014, de 28 de marzo. Ref. BOE-A-2014-3376.
