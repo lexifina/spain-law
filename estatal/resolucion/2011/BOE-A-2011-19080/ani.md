@@ -5,6 +5,7 @@
 | Código | Descripción |
 | --- | --- |
 | ADA | Certificaciones complementarias de admisiones. |
+| ALR | Alegaciones de entidades reclamadas por inversores. |
 | CAA | Cuentas anuales auditadas de sociedades cotizadas. |
 | CAE | Cuentas anuales auditadas e Informe complementario de las ESI y sus grupos consolidables. |
 | CAG | Cuentas anuales auditadas de las SGIIC. |
@@ -26,6 +27,7 @@
 | EIT | Extractos de Informes de Tasación. |
 | ERI | Estatutos y reglamentos de IIC. |
 | ESR | Estados de información reservada y pública de las Sociedades Rectoras. |
+| FAB | Información periódica de Fondos de Activos Bancarios. |
 | FAI | Función de auditoría interna. |
 | FOI | Folletos de IIC. |
 | FTA | Informes de Fondos de Titulización. |
@@ -47,6 +49,7 @@
 | PGE | Colocación de Pagarés. |
 | PSC | Participaciones Significativas en Sociedades cotizadas. |
 | PSI | Participaciones Significativas en IIC. |
+| REC | Reclamaciones colectivas de inversores. |
 | RIX | Registro de Instituciones de Inversión Colectiva Extranjeras. |
 | RPE | Representantes de Empresas de Servicios de Inversión. |
 | SCM | Solicitud de excepción a notificar Participaciones Significativas aplicable a los creadores del mercado. |
@@ -55,7 +58,10 @@
 | TAS | Liquidación de Tasas por vía telemática. |
 | TIT | Información de Gestoras de Titulización. |
 | UME | Información estadística para Unión Monetaria Europea. |
+| WAR | Características de Warrants agrupados en una emisión. |
 | ZZZ | Envío de un documento con formato libre. |
+
+> Se modifica por el apartado 1 de la Resolución de12 de marzo de 2014. Ref. BOE-A-2014-3521.
 
 > Se modifica por el apartado 1 de la Resolución de 4 de octubre de 2013. Ref. BOE-A-2013-10723.
 
