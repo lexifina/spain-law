@@ -1,20 +1,28 @@
-## ANEXO 5. Modelos de impresos de candidaturas
+## ANEXO 5
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_036.png)
+## MODELOS DE IMPRESOS DE PRESENTACIÓN DE CANDIDATURAS
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/237/15449_004.png)
+C.1 Comunicación de la constitución de coalición electoral.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/237/15449_005.png)
+C.2 Presentación de candidaturas.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/237/15449_006.png)
+C.3 Hojas de firmas.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/237/15449_007.png)
+C.4 Indicación del ámbito de difusión de las papeletas en las elecciones al Parlamento Europeo.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_041.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_033.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_042.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_034.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_043.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_035.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_036.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_037.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_038.png)
+
+> Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. Ref. BOE-A-2014-3597.
 
 > Se modifican los modelos C1 y C2 por el art. único.2 de la Orden INT/2609/2011, de 28 de septiembre. Ref. BOE-A-2011-15449.
 

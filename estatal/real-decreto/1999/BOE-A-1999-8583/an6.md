@@ -1,22 +1,44 @@
-## ANEXO 6. Modelos de solicitud y certificaciones de la Oficina del Censo Electoral para el voto por correo y para los electores CERA
+## ANEXO 6
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_044.png)
+## MODELOS DE SOLICITUDES Y CERTIFICACIONES DE LA OFICINA DEL CENSO ELECTORAL PARA EL VOTO POR CORREO Y PARA LOS ELECTORES CERA
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/237/15449_008.png)
+VC.1 Solicitudes.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/237/15449_009.png)
+VC.1.a Solicitud de certificado para el voto por correo (impreso dos hojas).
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_047.png)
+VC.1.b Solicitud de certificado para el voto por correo de los electores temporalmente ausentes (impreso dos hojas).
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_048.png)
+VC.1.c Solicitud para el voto de los electores residentes en el extranjero (CERA)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/237/15449_010.png)
+VC.2 Certificaciones y comunicaciones.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_050.png)
+VC.2.a Certificado de estar inscrito en el censo para el voto por correo.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_051.png)
+VC.2.b Comunicación de no figurar inscrito en la lista de electores.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_052.png)
+VC.2.c Certificado de estar inscrito en el censo de Residentes Ausentes para el voto desde el exterior (CERA).
+
+VC.2.d Comunicación de no figurar inscrito en la lista de electores Residentes Ausentes (CERA).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_039.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_040.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_041.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_042.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_043.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_044.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_045.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_046.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_047.png)
+
+> Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. Ref. BOE-A-2014-3597.
 
 > Se modifican los modelos VC.1a y VC.1c por el art. único.2 de la Orden INT/2609/2011, de 28 de septiembre. Ref. BOE-A-2011-15449.
 

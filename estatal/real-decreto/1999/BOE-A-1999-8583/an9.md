@@ -1,43 +1,85 @@
-## ANEXO 9. Modelos de Actas a utilizar por la Administración Electoral y Funcionarios Consulares con sus características
+## ANEXO 9
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_068.png)
+## MODELOS DE ACTAS A UTILIZAR POR LA ADMINISTRACIÓN ELECTORAL Y FUNCIONARIOS CONSULARES
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_069.png)
+A.M. Modelos de Actas a utilizar por las Mesas electorales.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_070.png)
+A.C.M. Acta de constitución de la Mesa electoral.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_071.png)
+A.E.M. Acta de escrutinio:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_072.png)
+Modelo DIN A4.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_073.png)
+Modelo DIN A3.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_074.png)
+A.S.M. Acta de sesión:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_075.png)
+Modelo en hoja única: DIN A3.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_076.png)
+Modelo en dos hojas:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_077.png)
+1.ª hoja DIN A3.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_078.png)
+2.ª hoja DIN A4.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_079.png)
+A.J. Modelos de Actas a utilizar por las Juntas Electorales.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_080.png)
+– Escrutinio del voto de los residentes en el extranjero.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_081.png)
+A.C.J. CERA Acta de constitución de la Junta como Mesa electoral.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_082.png)
+A.E.J. CERA. Acta de escrutinio.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_083.png)
+– Escrutinio definitivo.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_084.png)
+A.C.J. Acta de constitución de la Junta Electoral.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_085.png)
+A.E.J. Acta de escrutinio definitivo.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_086.png)
+A.S.J. Acta de sesión/es del escrutinio.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_087.png)
+A.P.E.J. Acta de proclamación de electos.
+
+A.F.C. Modelo de Acta a utilizar por los funcionarios consulares (voto CERA).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_062.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_063.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_064.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_065.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_066.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_067.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_068.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_069.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_070.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_071.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_072.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_073.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_074.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_075.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_076.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_077.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_078.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_079.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_080.png)
+
+> Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. Ref. BOE-A-2014-3597.
 
 > Se modifica por el art. único de la Orden INT/662/2011, de 23 de marzo. Ref. BOE-A-2011-5607.

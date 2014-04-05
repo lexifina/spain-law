@@ -1,17 +1,31 @@
-## ANEXO 8. Modelos de impresos para la actuación de las mesas electorales
+## ANEXO 8
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_061.png)
+## MODELOS DE IMPRESOS PARA LA ACTUACIÓN DE LAS MESAS ELECTORALES
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_062.png)
+M.1 Lista numerada de votantes.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_063.png)
+M.1.a Portada.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_064.png)
+M.1.b Lista numerada de votantes.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_065.png)
+M.1.c Instrucciones para su cumplimentación.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_066.png)
+M.2 Recibo de entrega de la documentación electoral.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_067.png)
+M.3 Certificación de votación (blocs de 100 hojas).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_056.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_057.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_058.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_059.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_060.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_061.png)
+
+> Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. Ref. BOE-A-2014-3597.
 
 > Se modifica por el art. único de la Orden INT/662/2011, de 23 de marzo. Ref. BOE-A-2011-5607.

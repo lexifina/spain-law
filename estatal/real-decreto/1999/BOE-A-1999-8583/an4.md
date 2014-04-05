@@ -1,40 +1,74 @@
-## ANEXO 4. Modelos de sobres
+## ANEXO 4
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_018.png)
+## MODELOS DE SOBRES
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_019.png)
+S.1 Modelo de sobres de votación.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_020.png)
+S.2 Modelos de sobres para la remisión de documentación por la Oficina del Censo Electoral.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_021.png)
+S.2.1 Sobre para la remisión de la documentación electoral para votar por correo.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_022.png)
+S.2.2 Sobre para la remisión de la documentación electoral a los residentes en el extranjero.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_023.png)
+S.3 Modelos de sobres para la remisión de documentación a los Presidentes de las Mesas electorales.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_024.png)
+S.3.1 Sobre para la remisión del voto por correo.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_025.png)
+S.3.2.a Sobre para la remisión del voto de los electores residentes temporalmente en el extranjero (con franqueo).
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_026.png)
+S.3.2.b Sobre para la remisión del voto de los electores residentes temporalmente en el extranjero (sin franqueo).
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_027.png)
+S.3.3 Sobre para la remisión de las copias de los nombramientos de interventores.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_028.png)
+S.4 Modelos de sobres para la remisión de documentación a las Juntas Electorales.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_029.png)
+S.4.1 Sobre para la remisión del voto por correo a la Junta Electoral Provincial por los electores residentes en el extranjero desde España.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_030.png)
+S.4.2 Sobre para la remisión del voto CERA a la Junta Electoral Provincial.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_031.png)
+S.5 Modelo de sobre a utilizar por las Mesas electorales (sobre bolsa).
 
-(Suprimido)
+S.6 Modelo de sobre para el envío a la Oficina del Censo Electoral de la solicitud del certificado de inscripción en el censo electoral.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_033.png)
+S.7 Modelo de sobre para el envío al Consulado o Embajada por parte de los electores residentes en el extranjero.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_034.png)
+S.7.a Sobre para la remisión del voto por los electores residentes en el extranjero (con franqueo).
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/75/05607_035.png)
+S.7.b Sobre para la remisión del voto por los electores residentes en el extranjero (sin franqueo).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_018.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_019.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_020.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_021.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_022.png)
+
+## S.2.2 Reverso
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_023.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_024.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_025.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_026.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_027.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_028.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_029.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_030.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_031.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_032.png)
+
+> Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. Ref. BOE-A-2014-3597.
 
 > Se suprime el modelo S.6 por el art. único.3 de la Orden INT/2609/2011, de 28 de septiembre. Ref. BOE-A-2011-15449.
 
