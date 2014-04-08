@@ -1,0 +1,25 @@
+El artículo 29 de la Constitución reconoce que todos los españoles tendrán el derecho de petición individual y colectiva, por escrito, en la forma y con los efectos que determine la Ley, añadiendo en su segundo apartado que los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar podrán ejercer este derecho sólo individualmente y con arreglo a lo dispuesto en su legislación específica.
+
+Al amparo de dicho derecho fundamental de petición, el artículo 28 de la Ley Orgánica 9/2011, de 27 de julio, de derechos y deberes de los miembros de las Fuerzas Armadas, reconoce que el militar podrá plantear iniciativas y quejas relativas al régimen de personal y a las condiciones de vida, sin perjuicio del mantenimiento del conducto regular y del ejercicio de los derechos y acciones que legalmente corresponden a los miembros de las Fuerzas Armadas.
+
+Esta posibilidad que reconoce la Ley Orgánica 9/2011, de 27 de julio, de formular iniciativas y quejas por parte del personal militar es una nueva vía para la participación de los miembros de las Fuerzas Armadas en la configuración de su régimen de personal y condiciones de vida; propiciando de esta manera la participación y colaboración del militar a título individual preservando su independencia de criterio y libertad de expresión.
+
+Se trata por tanto, de un nuevo mecanismo, que se suma a las otras alternativas reconocidas en la Ley Orgánica 9/2011, de 27 de julio, en lo que a la participación del personal militar en la configuración del régimen de personal se refiere.
+
+Este real decreto, por tanto, tiene por objeto definir el procedimiento para la tramitación y resolución de dichas iniciativas y quejas.
+
+Por otra parte, dentro del mencionado procedimiento, se establece una clara diferencia para la tramitación de las iniciativas y de las quejas. De hecho, en las iniciativas se configura un régimen específico que incluye la posibilidad de que dichas iniciativas se estudien, llegado el caso, y por razones de competencia y con la finalidad de aportar información para que el órgano competente pueda resolver adecuadamente, por un grupo de trabajo constituido «ad hoc» que las estudiará, analizará y valorará.
+
+En lo que se refiere a las quejas, y conforme a lo que se establece en el artículo 28.3 de la Ley Orgánica 9/2011, de 27 de julio, se crea un procedimiento de dos instancias: la primera, en la que se tramitarán las quejas siguiendo el conducto regular en la estructura jerárquica de las Fuerzas Armadas, y la segunda, para aquellas quejas que se considerasen que no han sido lo suficientemente atendidas ante los órganos que se determinan en esta disposición.
+
+Lo dispuesto en este real decreto será sin perjuicio de lo previsto en el capítulo IV, relativo al programa de quejas y sugerencias, del Real Decreto 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado.
+
+Asimismo, se incluye dentro de las disposiciones finales una modificación en el artículo 36 del Reglamento de evaluaciones y ascensos en las Fuerzas Armadas y sobre el acceso a la condición de militar de carrera de militares de tropa y marinería, aprobado por el Real Decreto 168/2009, de 13 de febrero, con la que se amplía el número máximo de convocatorias para que los militares de tropa y marinería puedan acceder a una relación de servicios de carácter permanente.
+
+Por otra parte, también se introducen dos modificaciones en el Reglamento de Reservistas de las Fuerzas Armadas, aprobado por Real Decreto 383/2011, de 18 de marzo. La primera hace referencia a los aspirantes que se han de encuadrar en los cuerpos comunes de las Fuerzas Armadas, señalando que la duración de la formación militar específica podrá reducirse al mínimo imprescindible para el conocimiento de la unidad, centro u organismo al que corresponda la plaza asignada, pudiendo quedar exentos aquellos que hubieran sido seleccionados en plaza directamente relacionada con su profesión civil. La segunda modificación sustituye las activaciones del reservista, en lo que afecta a la ampliación de su compromiso, por una declaración escrita, en la que manifieste su voluntariedad para ser activado en las condiciones que regula este Reglamento.
+
+Durante su tramitación, este real decreto fue informado por las asociaciones profesionales con representación en el Consejo de Personal de las Fuerzas Armadas, conforme al artículo 40.2.b) de la Ley Orgánica 9/2011, de 27 de julio, de derechos y deberes de los miembros de las Fuerzas Armadas. Finalmente, con arreglo a lo establecido en el artículo 49.1.c) de la citada ley orgánica, ha sido informado por el Consejo de Personal de las Fuerzas Armadas.
+
+En su virtud, a propuesta del Ministro de Defensa, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 21 de marzo de 2014,
+
+DISPONGO:
