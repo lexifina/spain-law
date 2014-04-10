@@ -104,4 +104,6 @@ En las relaciones de puestos militares se especificarán aquellos que puedan ser
 
 El pase a la situación de reserva de este personal se producirá al cumplir la edad prevista en el artículo 113.4; en los cupos regulados en el artículo 113.3, tanto de forma voluntaria o anuente como con carácter forzoso entre los de mayor antigüedad en el empleo correspondiente, y por cumplir treinta y tres años desde la obtención de la condición de militar de carrera según lo previsto en la disposición transitoria octava, apartado 4. Este último supuesto no será de aplicación a los tenientes coroneles que pasarán a la reserva al cumplir seis años de permanencia en el empleo, si bien los que al corresponderles pasar a esta situación cuenten con menos de cincuenta y seis años de edad, lo harán en la fecha que cumplan dicha edad.
 
+> Véase, sobre la modificación efectuada al apartado 7.b) por Ley 2/2008, de 23 de diciembre, la Sentencia del TC 38/2014, de 11 de marzo, en cuanto a la declaración de inconstitucionalidad y nulidad del párrafo destacado, con el alcance fijado en el fundamento jurídico 5. Ref. BOE-A-2014-3881.
+
 > Se modifica el primer párrafo del apartado 7.d) y se añade el último del 7.b) por la disposición adicional 15.b) y c) de la Ley 2/2008, de 23 de diciembre. Ref. BOE-A-2008-20744.
