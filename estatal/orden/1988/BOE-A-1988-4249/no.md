@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 66, de 17 de marzo de 1988. Ref. BOE-A-1988-6937.
+Norma derogada por la disposición derogatoria única de la Orden INT/430/2014, de 10 de marzo. Ref. BOE-A-2014-2997#ddunica.
