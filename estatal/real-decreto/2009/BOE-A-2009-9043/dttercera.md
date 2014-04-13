@@ -4,9 +4,7 @@
 
 La información relativa al uso público o restringido del aeródromo civil, deberá mantenerse actualizada en la Publicación de información aeronáutica (AIP). El gestor del aeródromo de uso público es el responsable de trasladar esta información al Servicio de información aeronáutica (AIS), conforme a los procedimientos del manual de aeródromo de uso público.
 
-2. Los aeródromos civiles abiertos al tráfico que, de acuerdo con lo previsto en el apartado anterior, hayan puesto de manifiesto su condición de aeródromos de uso público, disponen de un periodo transitorio que finalizará el 31 de diciembre de 2013 para que realicen las obras de adecuación que sean necesarias para su plena adaptación a las normas técnicas de diseño y operación de aeródromos de uso público aprobadas por este real decreto.
-
-A tal efecto, el gestor aeroportuario elaborará, en el plazo de tres meses a contar desde la finalización del plazo previsto en el apartado 1, el programa de actuaciones para la adecuación a que se refiere el párrafo anterior, que deberá ser autorizado por la Agencia Estatal de Seguridad Aérea. En el caso de aeródromos de uso público autonómicos, en relación con los cuales la legislación autonómica en materia de aeródromos prevea que la Comunidad Autónoma es competente para la emisión de informes, dictámenes o certificados en materia de normas técnicas de diseño y operación de aeródromos de uso público, la autorización de la Agencia Estatal de Seguridad Aérea se realizará previo informe de la Comunidad Autónoma.
+2. Los aeródromos civiles abiertos al tráfico que, de acuerdo con lo previsto en el apartado anterior, hayan puesto de manifiesto su condición de aeródromos de uso público, disponen de un periodo transitorio que finalizará el 31 de diciembre de 2014, para que realicen las obras de adecuación que sean necesarias para su plena adaptación a las normas técnicas de diseño y operación de aeródromos de uso público aprobadas por este real decreto.
 
 3. Tras la autorización del programa de adecuación previsto en el apartado anterior, la Agencia Estatal de Seguridad Aérea, contando con el parecer de las Comunidades Autónomas en los supuestos previstos en el segundo párrafo de dicho apartado, aprobará un plan de verificación aplicable a los aeródromos de uso público que se encuentren en funcionamiento a la entrada en vigor de este real decreto. La fecha límite para la ejecución del plan será el 31 de diciembre del año 2016.
 
@@ -17,5 +15,9 @@ La Agencia Estatal de Seguridad Aérea verificará el cumplimiento de lo dispues
 5. Los programas de actuaciones aprobados por la Secretaría de Estado de Transportes, conforme a lo previsto en la disposición transitoria primera, con anterioridad a la entrada en vigor de esta disposición, seguirán siendo de aplicación.
 
 No obstante, la Agencia Estatal de Seguridad Aérea en la ejecución del Plan de certificación de aeropuertos en funcionamiento previsto en la disposición transitoria segunda y en relación con los aeródromos de uso público que no reúnan los requisitos establecidos en el artículo 2.2, del Reglamento de certificación y verificación de aeropuertos y otros aeródromos de uso público, emitirá, en los plazos previstos en dicho plan la resolución de verificación que proceda.
+
+> Se modifica el apartado 2 por el artículo 1.5 del Real Decreto 217/2014, de 28 de marzo. Ref. BOE-A-2014-3958.
+
+> Téngase en cuenta lo establecido en la disposición transitoria 2 del citado Real Decreto.
 
 > Se añade por la disposición final 1.4 del Real Decreto 1189/2011, de 19 de agosto. Ref. BOE-A-2011-14118.
