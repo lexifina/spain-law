@@ -1,0 +1,3 @@
+## Disposición final primera. Modificación del Plan Especial de Actuación en Situaciones de Alerta y Eventual Sequía de la cuenca hidrográfica del Tajo.
+
+A los efectos de garantizar la coherencia entre el Plan Hidrológico y el sistema de indicadores y las medidas de prevención y mitigación de las sequías establecidos en el Plan Especial de Actuación en Situaciones de Alerta y Eventual Sequía de la cuenca hidrográfica del Tajo, aprobado por la Orden MAM/698/2007, de 21 de marzo, se modifica el capítulo 5 (Sistema de indicadores y definición de umbrales) del citado PES, con la redacción dada por el anejo IX de la Normativa del Plan Hidrológico.
