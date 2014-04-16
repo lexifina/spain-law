@@ -1,8 +1,8 @@
 ## ANEXO XXI
 
-## CLASIFICACIÓN DE LAS VARIEDADES DE VID
+## Clasificación de las variedades de vid
 
-## Variedades de uva de vinificación
+Variedades de uva de vinificación
 
 1. Comunidad Autónoma de Andalucía
 
@@ -12,13 +12,15 @@ Variedades recomendadas:
 
 Garrido Fino, B.
 
-Moscatel de Alejandría, B.
+Listán del Condado, B.
+
+Moscatel de Alejandría, Moscatel de Málaga, B.
 
 Palomino, B.
 
-Palomino Fino, Listan Blanco, B.
+Palomino Fino, Listán Blanco, B.
 
-Pardina, Baladi Verdejo, Calagráño, Jaén Blanco, B.
+Pardina, Baladí, Baladí Verdejo, Calagraño, Jaén Blanco, B.
 
 Pedro Ximénez, B.
 
@@ -54,7 +56,7 @@ Macabeo, Viura, B.
 
 Malbec, T.
 
-Malvasía Aromatica, B.
+Malvasía Aromática, B.
 
 Mencía, T.
 
@@ -80,13 +82,15 @@ Prieto Picudo, T.
 
 Riesling, B.
 
-Rome, T.
+Rome, B.
 
 Sauvignon Blanc, B.
 
 Syrah, T.
 
 Tempranillo, T.
+
+Tinto Velasco, Frasco, T.
 
 Tintilla de Rota, T.
 
@@ -96,13 +100,13 @@ Verdejo, B.
 
 Vermentino, B.
 
-Vijariego Blanco, Bijiriego, B.
+Vijariego Blanco, Bigiriego, B.
 
 Viognier, B.
 
 Zalema, B.
 
-2. Comunidad Autónoma de Aragón.
+2. Comunidad Autónoma de Aragón
 
 Provincias: Huesca, Teruel, Zaragoza:
 
@@ -124,7 +128,7 @@ Garnacha Peluda, T.
 
 Garnacha Tinta, T.
 
-Garnacha Tintoréra, T.
+Garnacha Tintorera, T.
 
 Gewürztraminer, B.
 
@@ -158,9 +162,9 @@ Tempranillo, Cencibel, T.
 
 Variedades autorizadas:
 
-Cabernet Franc, T.
+Agudelo, Chenin Blanc, B.
 
-Chenin Blanc, B.
+Cabernet Franc, T.
 
 Derechero, T.
 
@@ -196,13 +200,13 @@ Verdejo Negro, T.
 
 Variedades autorizadas:
 
-Albarín Tinto, T.
+Bruñal, Albarín Tinto, T.
 
-Carrasquin, T.
-
-Godello, B.
+Carrasquín, T.
 
 Gewürztraminer, B.
+
+Godello, B.
 
 Merlot, T.
 
@@ -212,7 +216,7 @@ Pinot Noir, T.
 
 Syrah, T.
 
-4. Comunidad Autónoma de Baleares
+4. Comunidad Autónoma de Islas Baleares
 
 Variedades recomendadas:
 
@@ -240,7 +244,7 @@ Gorgollassa, T.
 
 Macabeo, Viura, B.
 
-Malvasia Aromatica, Malvasia de Banyalbufar, B.
+Malvasía Aromática, Malvasía de Banyalbufar, B.
 
 Merlot, T.
 
@@ -282,9 +286,9 @@ Gual, B.
 
 Listán Negro, Almuñeco, T.
 
-Malvasía Aromatica, B.
+Malvasía Aromática, B.
 
-Malvasía Rosada, B.
+Malvasía Rosada, T.
 
 Malvasía Volcánica, B.
 
@@ -301,6 +305,8 @@ Verdello, B.
 Vijariego Blanco, Diego, B.
 
 Variedades autorizadas:
+
+Albillo Criollo, B.
 
 Bastardo Blanco, Baboso Blanco, B.
 
@@ -338,13 +344,15 @@ Vijariego Negro, T.
 
 Variedades recomendadas:
 
-Ninguna.
+Albariño, B.
+
+Godello, B.
+
+Mencía, T.
 
 Variedades autorizadas:
 
 Albarín Blanco, B.
-
-Albariño, B.
 
 Cabernet Sauvignon, T.
 
@@ -354,17 +362,13 @@ Garnacha Tinta, T.
 
 Gewürztraminer, B.
 
-Godello, B.
-
 Graciano, T.
-
-Mencía, T.
 
 Merlot, T.
 
-Hondarrabi Beltza, T.
+Hondarrabi Beltza, Ondarrabi Beltza, T.
 
-Hondarrabi Zuri, B.
+Hondarrabi Zuri, Ondarrabi Zuri, B.
 
 Palomino, B.
 
@@ -372,7 +376,7 @@ Riesling, B.
 
 Syrah, T.
 
-Tempranillo, Tinto de Toro, T.
+Tempranillo, Tinta de Toro, T.
 
 Treixadura, B.
 
@@ -416,11 +420,15 @@ Variedades autorizadas:
 
 Alarije, B.
 
+Albariño, B.
+
 Cabernet Franc, T.
 
 Cabernet Sauvignon, T.
 
 Chardonnay, B.
+
+Colombard, B.
 
 Forcallat Tinta, T.
 
@@ -432,7 +440,7 @@ Graciano, T.
 
 Malbec, T.
 
-Malvasía Aromatica, B.
+Malvasía Aromática, B.
 
 Mazuela, Cariñena, T.
 
@@ -447,6 +455,8 @@ Moravia Agria, T.
 Moravia Dulce, Crujidera, T.
 
 Moscatel de Alejandría, B.
+
+Palomino, B.
 
 Pardillo, Marisancho, B.
 
@@ -486,15 +496,23 @@ Albillo Mayor, B.
 
 Albillo Real, B.
 
+Bruñal, Albarín Tinto, T
+
+Doña Blanca, Malvasía Castellana, B.
+
+Garnacha Roja, Garnacha Gris, T.
+
 Garnacha Tinta, T.
 
-Juan Garcia, Mouraton, T.
+Godello, B.
 
-Macabeo, Viura, B.
+Juan Garcia, Mouratón, T.
 
 Mencía, T.
 
 Prieto Picudo, T.
+
+Rufete, T.
 
 Tempranillo, Tinto Fino, Tinta del País, Tinta de Toro, T.
 
@@ -502,11 +520,9 @@ Verdejo, B.
 
 Variedades autorizadas:
 
-Alarije, Rojal, Malvasia Riojana, B.
+Alarije, Rojal, Malvasía Riojana, B.
 
 Albarín Blanco, B.
-
-Albarín Tinto, T.
 
 Albariño, B.
 
@@ -514,17 +530,17 @@ Cabernet Sauvignon, T.
 
 Chardonnay, B.
 
-Doña Blanca, Malvasía Castellana, B.
-
-Garnacha Roja, Garnacha Gris, T.
-
 Garnacha Tintorera, T.
 
 Gewürztraminer, B.
 
-Godello, B.
-
 Graciano, T.
+
+Hondarrabi Beltza, T.
+
+Hondarrabi Zuri, B.
+
+Macabeo, Viura, B.
 
 Malbec, T.
 
@@ -538,10 +554,6 @@ Moscatel de Alejandría, B.
 
 Moscatel de Grano Menudo, B.
 
-Hondarrabi Beltza, T.
-
-Hondarrabi Zuri, B.
-
 Palomino, B.
 
 Petit Verdot, T.
@@ -549,8 +561,6 @@ Petit Verdot, T.
 Pinot Noir, T.
 
 Riesling, B.
-
-Rufete, T.
 
 Sauvignon Blanc, B.
 
@@ -576,7 +586,7 @@ Garnacha Blanca, Lladoner Blanco, B.
 
 Garnacha Peluda, T.
 
-Garnacha Tinta, Lladoner, T.
+Garnacha Tinta, Lladoner, T
 
 Macabeo, Viura, B.
 
@@ -608,19 +618,33 @@ Xarello, Cartoixa, Pansal, Pansa Blanca, B.
 
 Variedades autorizadas:
 
+Agudelo, Chenin Blanc, B.
+
+Airén, B.
+
 Alarije, Subirat Parent, B.
 
 Albariño, B.
 
-Chenin Blanc, B.
-
-Gewürztraminer, B.
+Bobal, T.
 
 Garnacha Roja, Garnacha Gris, T.
 
 Garnacha Tintorera, T.
 
-Malvasia Aromatica, Malvasía de Sitges, B.
+Garro, T.
+
+Gewürztraminer, B.
+
+Godello, T.
+
+Graciano, T.
+
+Malbec, T
+
+Malvasía Aromática, Malvasía de Sitges, B.
+
+Merseguera, Sumoll Blanco, B.
 
 Moscatel de Grano Menudo, B.
 
@@ -630,9 +654,9 @@ Petit Verdot, T.
 
 Picapoll Negro, T.
 
-Sumoll Blanco, B.
-
 Sumoll Tinto, T.
+
+Verdejo, B.
 
 Vinyater, B.
 
@@ -752,7 +776,7 @@ Juan García, Mouratón, T.
 
 Lado, B.
 
-Loureira, Loureiro Blanco, Márqués, B.
+Loureira, Loureiro Blanco, Marqués, B.
 
 Loureiro Tinto, T.
 
@@ -770,7 +794,13 @@ Treixadura, B.
 
 Variedades autorizadas:
 
-Albillo, B.
+Agudelo, Chenin Blanc, B.
+
+Albarín Blanco, Branco Lexítimo, B.
+
+Albillo Real, B.
+
+Castañal, T.
 
 Garnacha Tintorera, T.
 
@@ -818,11 +848,11 @@ Parellada, B.
 
 Petit Verdot, T.
 
-Torrontés, B.
-
 Sauvignon Blanc, B.
 
 Syrah, T.
+
+Torrontés, B.
 
 13. Comunidad Autónoma de la Región de Murcia
 
@@ -850,6 +880,8 @@ Variedades autorizadas:
 
 Bonicaire, T.
 
+Cabernet Franc, T.
+
 Cabernet Sauvignon, T.
 
 Chardonnay, B.
@@ -860,7 +892,13 @@ Forcallat Tinta, T.
 
 Garnacha Tintorera, T.
 
-Rojal Tinta, T.
+Gewürztraminer, B.
+
+Graciano, T.
+
+Malvasía Aromática, Malvasía de Sitges, B.
+
+Mencía, T.
 
 Merlot, T.
 
@@ -869,6 +907,12 @@ Moravia Dulce, Crujidera, T.
 Moscatel de Grano Menudo, B.
 
 Petit Verdot, T.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Rojal Tinta, T.
 
 Sauvignon Blanc, B.
 
@@ -898,7 +942,7 @@ Tempranillo, T.
 
 Variedades autorizadas:
 
-Alarije, Malvasia Riojana, B.
+Alarije, Malvasía Riojana, B.
 
 Albillo Mayor, Turruntés, B.
 
@@ -908,17 +952,25 @@ Garnacha Blanca, B.
 
 Gewürztraminer, B.
 
+Gros Manseng, B.
+
+Hondarrabi Zuri, B.
+
 Macabeo, Viura, B.
 
 Maturana Blanca, B.
 
 Maturana Tinta, T.
 
-Mazuela, T.
+Mazuela, Mazuelo, T.
 
 Monastrell, T.
 
 Parellada, B.
+
+Petit Courbu, B.
+
+Petit Manseng, B.
 
 Pinot Noir, T.
 
@@ -936,7 +988,7 @@ Xarello, B.
 
 15. Comunidad Autónoma del País Vasco
 
-Provincias: Álava, Guipúzcoa, Vizcaya:
+Provincias: Álava, Guipúzkoa, Bizkaia:
 
 Variedades recomendadas:
 
@@ -944,25 +996,25 @@ Garnacha Tinta, T.
 
 Graciano, T.
 
+Hondarrabi Beltza, Ondarrabi Beltza, T.
+
+Hondarrabi Zuri, Ondarrabi Zuri, B.
+
 Macabeo, Viura, B.
 
-Mazuela, T.
-
-Hondarrabi Beltza, T.
-
-Hondarrabi Zuri, B.
+Mazuela, Mazuelo, T.
 
 Tempranillo, T.
 
 Variedades autorizadas:
 
-Alarije, Malvasia Riojana, B.
+Alarije, Malvasía Riojana, B.
 
 Albillo Mayor, Turruntés, B.
 
 Cabernet Sauvignon, T.
 
-Chardonnay, B,.
+Chardonnay, B.
 
 Folle Blanche, B.
 
@@ -998,7 +1050,7 @@ Verdejo, B.
 
 Xarello, B.
 
-16. Comunidad Autónoma de La Rioja
+16.Comunidad Autónoma de La Rioja
 
 Variedades recomendadas:
 
@@ -1008,7 +1060,7 @@ Graciano, T.
 
 Macabeo, Viura, B.
 
-Mazuela, T.
+Mazuela, Mazuelo, T.
 
 Moscatel de Alejandría, B.
 
@@ -1020,7 +1072,7 @@ Tempranillo, T.
 
 Variedades autorizadas:
 
-Alarije, Malvasia Riojana, B.
+Alarije, Malvasía Riojana, B.
 
 Albariño, B.
 
@@ -1050,6 +1102,8 @@ Tempranillo Blanco, B.
 
 Verdejo, B.
 
+Viognier, B.
+
 Xarello, B.
 
 17. Comunidad Valenciana
@@ -1058,9 +1112,11 @@ Provincias: Alicante, Castellón, Valencia:
 
 Variedades recomendadas:
 
-Alarije, Subirat Parent, B.
+Alarije, Malvasía Riojana, Subirat Parent, B.
 
 Bobal, T.
+
+Bonicaire, Embolicaire, T.
 
 Cabernet Sauvignon, T.
 
@@ -1069,6 +1125,10 @@ Chardonnay, B.
 Garnacha Tinta, Gironet, T.
 
 Garnacha Tintorera, T.
+
+Gewürztraminer, B.
+
+Graciano, T.
 
 Macabeo, Viura, B.
 
@@ -1080,6 +1140,8 @@ Monastrell, T.
 
 Moscatel de Alejandría, B.
 
+Parellada, B.
+
 Pedro Ximénez, B.
 
 Petit Verdot, T.
@@ -1088,43 +1150,13 @@ Pinot Noir, T.
 
 Planta Fina de Pedralba, B.
 
+Planta Nova, Tardana, B.
+
 Sauvignon Blanc, B.
 
 Syrah, T.
 
 Tempranillo, Cencibel, Tinto Fino, T.
-
-Variedades autorizadas:
-
-Airén, B.
-
-Bonicaire, Embolicaire, T.
-
-Cabernet Franc, T.
-
-Forcallat Blanca, B.
-
-Forcallat Tinta, T.
-
-Gewürztraminer, B.
-
-Graciano, T.
-
-Malbec, T.
-
-Mazuela, T.
-
-Mencia, T.
-
-Moscatel de Grano Menudo, B.
-
-Parellada, B.
-
-Planta Nova, Tardana, B.
-
-Riesling, B.
-
-Semillon, B.
 
 Tortosí, B.
 
@@ -1132,9 +1164,39 @@ Verdejo, B.
 
 Verdil, B.
 
+Variedades autorizadas:
+
+Airén, B.
+
+Albariño, B.
+
+Cabernet Franc, T.
+
+Forcallat Blanca, B.
+
+Forcallat Tinta, T.
+
+Malbec, T.
+
+Marselan, T.
+
+Mazuela, T.
+
+Mencía, T.
+
+Moscatel de Grano Menudo, B.
+
+Prieto Picudo, T.
+
+Riesling, B.
+
+Semillon, B.
+
 Viognier, B.
 
-## Variedades de portainjertos
+Xarello, B.
+
+Variedades de portainjertos
 
 Todas las Comunidades Autónomas
 
@@ -1161,8 +1223,10 @@ Variedades recomendadas:
 | 99 Richter = Berlandieri Las Sorres x Rupestres de Lot | 99 R |
 | 110 Richter = Berlandieri Resseguier n.º 2 x Rupestres Martín | 110 R |
 | 140 Ruggeri = Berlandieri Resseguier n.º 2 x Rupestris de Lot | 140 Ru |
-| 5 BB Teleki-Kober = Berlandieri x Riparia | 55 BB T |
+| 5 BB Teleki-Kober = Berlandieri x Riparia | 5 BB T |
 | SO4 Selección Oppenheim del Teleki n.º 4 = Berlandieri x Riparia | SO4 |
-| Rupestris du Lot | R de Lot.» |
+| Rupestris du Lot | R de Lot |
+
+> Se modifica por el art. único de la Orden AAA/580/2014, de 7 de abril. Ref. BOE-A-2014-4064.
 
 > Se modifica por el art. 3.8 del Real Decreto 461/2011, de 1 de abril. Ref. BOE-A-2011-5939.
