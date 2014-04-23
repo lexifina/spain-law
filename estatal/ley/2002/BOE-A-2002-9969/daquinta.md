@@ -1,3 +1,5 @@
 ## Disposición adicional quinta.
 
-Para la gestión, inspección, revisión y recaudación de los tributos concertados, las instituciones competentes de los Territorios Históricos ostentarán las mismas facultades y prerrogativas que tiene reconocida la Hacienda Pública del Estado.
+(Suprimida)
+
+> Se suprime por el art. único y anexo de la Ley 7/2014, de 21 de abril. Ref. BOE-A-2014-4284.
