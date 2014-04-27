@@ -40,11 +40,13 @@ j) Indicación de todos los dispositivos y accesorios necesarios e instrucciones
 
 Durante el transporte y las manipulaciones normales, salvo que hayan sido especificadas en las instrucciones del fabricante, los artículos pirotécnicos deberán contener la composición pirotécnica.
 
-4. Los artículos pirotécnicos no contendrán:
+4. Los artículos pirotécnicos no contendrán explosivos detonantes que no sean pólvora negra o composición detonante, salvo los artículos de las categorías P1, P2 o T2 y los artificios de pirotecnia de la categoría F4 que cumplan las siguientes condiciones:
 
-a) Sustancias explosivas comerciales, a excepción de la pólvora negra o composición detonante.
+a) El explosivo detonante no podrá extraerse fácilmente del artículo.
 
-b) Explosivos militares.
+b) En el caso de la categoría P1, el artículo no podrá funcionar con efecto detonante ni podrá, por su diseño y fabricación, iniciar explosivos secundarios.
+
+c) En el caso de las categorías F4, T2 y P2, el artículo no estará diseñado para funcionar con efecto detonante ni destinado a hacerlo o, si está diseñado para detonar, no podrá, por su diseño y fabricación, iniciar explosivos secundarios.
 
 5. Los diversos grupos de artículos pirotécnicos deberán asimismo cumplir como mínimo los requisitos siguientes:
 
@@ -58,7 +60,7 @@ i. La distancia de seguridad deberá ser igual o superior a 1 metro. No obstante
 
 ii. El nivel sonoro máximo no podrá exceder de los 120 dB (A, imp) o valor equivalente de nivel sonoro medido por otro medio apropiado, a la distancia de seguridad.
 
-iii. La categoría 1 no incluirá truenos de pólvora negra, baterías de truenos de pólvora negra, truenos detonantes ni baterías de truenos detonantes.
+iii. La categoría 1 no incluirá petardos, baterías de petardos, petardos de destello ni baterías de petardos de destello.
 
 iv. Los truenos de impacto de categoría 1 no contendrán más de 2,5 mg de fulminato de plata.
 
@@ -107,3 +109,5 @@ C. Dispositivos de ignición:
 6) La información relativa a las características eléctricas (por ejemplo, corriente de seguridad, resistencia, etc.,) los sistemas de ignición eléctrica deberán suministrarse con el producto.
 
 7) Los cables de los sistemas de ignición eléctrica deberán estar suficientemente aislados y poseer la suficiente resistencia mecánica, incluida la solidez de la unión al iniciador, habida cuenta del uso previsto.
+
+> Se modifica por el art.único.1 y 2 de la Orden PRE/647/2014, de 25 de abril. Ref. BOE-A-2014-4484.
