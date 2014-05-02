@@ -1,1 +1,1 @@
-> Incluye las correcciones de errores publicadas en BOE núms. 182, de 31 de julio de 2007 Ref. BOE-A-2007-14590. y 222, de 15 de septiembre de 2007 Ref. BOE-A-2007-16390.
+Téngase en cuenta que esta norma quedará derogada a partir de la total implantación de las modificaciones indicadas en la disposición final primera de la Orden ECD/686/2014, de 23 de abril, según establece su disposición derogatoria única. Ref. BOE-A-2014-4626.
