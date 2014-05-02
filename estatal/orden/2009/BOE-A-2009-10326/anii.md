@@ -43,10 +43,13 @@
 | 581 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
 | 582 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 | 583 | Obligación trimestral de presentación: desde el día 1 hasta el 15 de los meses de mayo, septiembre, noviembre y febrero. Obligación anual de presentación: desde el día 1 hasta el 25 del mes de noviembre. |
+| 587 | Desde el día 1 hasta el 15 de los meses de mayo, septiembre y enero. |
 | 595 | Desde el día 1 al 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 | 714 | Desde el día 3 de mayo hasta el 27 de junio. |
 
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
+
+> Se añade el modelo 587 por la disposición final 2.2 de la Orden HAP/685/2014, de 29 de abril. Ref. BOE-A-2014-4625.
 
 > Se suprimen los modelos 310, 311, 370 y 371 por la disposición final 2.2 de la Orden HAP/2215/2013, de 26 de noviembre. Ref. BOE-A-2013-12489.
 

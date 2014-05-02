@@ -43,12 +43,15 @@
 | 581 | Impuesto sobre Hidrocarburos: Declaración-liquidación. |
 | 582 | Impuesto sobre Hidrocarburos: Regularización por reexpedición de productos a otra Comunidad Autónoma. |
 | 583 | Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación y Pagos Fraccionados. |
+| 587 | Impuesto sobre los gases fluorados de efecto invernadero. Autoliquidación. |
 | 595 | Impuesto Especial sobre el Carbón. Declaración-liquidación. |
 | 714 | Impuesto sobre el Patrimonio. Declaración anual. |
 
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
+
+> Se añade el modelo 587 por la disposición final 2.1 de la Orden HAP/685/2014, de 29 de abril. Ref. BOE-A-2014-4625.
 
 > Se suprimen los modelos 310, 311, 370 y 371 por la disposición final 2.1 de la Orden HAP/2215/2013, de 26 de noviembre. Ref. BOE-A-2013-12489.
 
