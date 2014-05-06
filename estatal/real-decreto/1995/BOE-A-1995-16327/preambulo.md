@@ -1,1 +1,1 @@
-> Incluye las correcciones de erratas publicadas en BOE núms. 172, de 20 de julio de 1995. Ref. BOE-A-1995-17537 y 260, de 31 de octubre de de 1995. Ref. BOE-A-1995-23642
+Norma derogada por la disposición derogatoria única del Real Decreto 304/2014, de 5 de mayo. Ref. BOE-A-2014-4742#ddunica. Téngase en cuenta lo establecido en la disposición transitoria 3 del citado Real Decreto.
