@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Compensación de áreas por méritos y experiencia deportiva.
+
+1. Sin perjuicio de lo que sobre requisitos para el acceso de carácter general y específico se determina en los artículos 10 y 11 de la presente orden, para las actividades de formación deportiva reguladas por la presente orden podrán tener la consideración de «superadas por compensación» las áreas del bloque específico de nivel I, de nivel II y de nivel III cuyos contenidos se refieran a los aspectos de técnica, de táctica y de reglamento, de una determinada modalidad o especialidad deportiva, mediante el certificado acreditativo de que el interesado, en tal modalidad o especialidad deportiva, posee cualquiera de las condiciones a las que se refiere el artículo 12 de la presente orden.
+
+2. Los órganos competentes en materia de deporte o, en su caso, competentes en materia de formación deportiva, de las Comunidades Autónomas y de las Ciudades de Ceuta y de Melilla, tomarán las medidas necesarias para la aplicación de lo que aquí se establece.

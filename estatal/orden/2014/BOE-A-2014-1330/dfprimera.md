@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+De conformidad con el artículo 149.1.30.ª de la Constitución, los artículos 36, 37, 38, 39 y 40 se dictan en el ejercicio de las competencias que corresponden al Estado de regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales; los restantes artículos, tendrán carácter básico, conforme a las competencias del Estado para dictar normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
