@@ -9,10 +9,10 @@ El titular de un permiso o licencia de conducción que sea sancionado en firme e
 | 1. Conducir con una tasa de alcohol superior a la reglamentariamente establecida: |  |
 | Valores mg/l aire espirado, más de 0,50 (profesionales y titulares de permisos de conducción con menos de dos años de antigüedad más de 0,30 mg/l) | 6 |
 | Valores mg/l aire espirado, superior a 0,25 hasta 0,50 (profesionales y titulares de permisos de conducción con menos de dos años de antigüedad más de 0,15 hasta 0,30 mg/l) | 4 |
-| 2. Conducir bajo los efectos de estupefacientes, psicotrópicos, estimulantes y otras sustancias de efectos análogos | 6 |
-| 3. Incumplir la obligación de someterse a las pruebas de detección del grado de alcoholemia, de estupefacientes, psicotrópicos, estimulantes y otras sustancias de efectos análogos | 6 |
+| 2. Conducir con presencia de drogas en el organismo | 6 |
+| 3. Incumplir la obligación de someterse a las pruebas de detección de alcohol o de la presencia de drogas en el organismo | 6 |
 | 4. Conducir de forma temeraria, circular en sentido contrario al establecido o participar en carreras o competiciones no autorizadas | 6 |
-| 5. Conducir vehículos que tengan instalados mecanismos o sistemas encaminados a inhibir la vigilancia del tráfico, o que lleven instrumentos con la misma intención, así como de inhibición de sistemas de detección de radar | 6 |
+| 5. Conducir vehículos que tengan instalados inhibidores de radares o cinemómetros o cualesquiera otros mecanismos encaminados a interferir en el correcto funcionamiento de los sistemas de vigilancia del tráfico | 6 |
 | 6. El exceso en más del 50 por ciento en los tiempos de conducción o la minoración en más del 50 por ciento en los tiempos de descanso establecidos en la legislación sobre transporte terrestre | 6 |
 | 7. La participación o colaboración necesaria de los conductores en la colocación o puesta en funcionamiento de elementos que alteren el normal funcionamiento del uso del tacógrafo o del limitador de velocidad | 6 |
 | 8. Conducir un vehículo con un permiso o licencia que no le habilite para ello | 4 |
@@ -27,12 +27,15 @@ El titular de un permiso o licencia de conducción que sea sancionado en firme e
 | 17. Conducir utilizando cascos, auriculares u otros dispositivos que disminuyan la atención a la conducción o utilizar manualmente dispositivos de telefonía móvil, navegadores o cualquier otro sistema de comunicación. Conforme a los avances de la tecnología, se podrán precisar reglamentariamente los dispositivos incluidos en este apartado | 3 |
 | 18. No hacer uso del cinturón de seguridad, sistemas de retención infantil, casco y demás elementos de protección | 3 |
 | 19. Conducir un vehículo teniendo suspendida la autorización administrativa para conducir o teniendo prohibido el uso del vehículo que se conduce | 4 |
+| 20. Conducir vehículos utilizando mecanismos de detección de radares o cinemómetros | 3 |
 
 La detracción de puntos por exceso de velocidad se producirá de acuerdo con lo establecido en el anexo IV.
 
 La pérdida de puntos únicamente se producirá cuando el hecho del que se deriva la detracción de puntos se produce con ocasión de la conducción de un vehículo para el que se exija autorización administrativa para conducir.
 
 El crédito de puntos es único para todas las autorizaciones administrativas de las que sea titular el conductor.
+
+> Se modifican los puntos 2, 3 y 5 y se añade el 20 por el art. único.35 de la Ley 6/2014, de 7 de abril. Ref. BOE-A-2014-3715.
 
 > Véase sobre detracción de puntos, con vigencia desde el 7 de marzo hasta el 30 de junio de 2011, el art. 2 del Real Decreto 303/2011, de 4 de marzo. Ref. BOE-A-2011-4120.
 

@@ -1,3 +1,5 @@
-## Disposición transitoria.
+## Disposición transitoria. Matriculación definitiva de vehículos en España.
 
-Hasta que entren en vigor las disposiciones necesarias para el desarrollo de esta Ley, se aplicarán como Reglamentos de la misma el Código de la Circulación aprobado por Decreto de 25 de septiembre de 1934, y disposiciones complementarias, en la medida en que no se opongan a lo que en ella se establece.
+Lo dispuesto en el párrafo segundo del artículo 62.1 en cuanto a la matriculación definitiva en España de vehículos no será efectivo hasta que se proceda a regular reglamentariamente aquellos aspectos que permitan su aplicación.
+
+> Se modifica por el art. único.33 de la Ley 6/2014, de 7 de abril. Ref. BOE-A-2014-3715.

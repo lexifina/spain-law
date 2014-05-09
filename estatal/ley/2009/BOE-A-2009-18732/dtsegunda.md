@@ -1,6 +1,8 @@
 ## Disposición transitoria segunda. Práctica de las notificaciones en la Dirección Electrónica Vial y en el Tablón Edictal de Sanciones de Tráfico.
 
-Las administraciones locales practicarán las notificaciones en la Dirección Electrónica Vial o, en su caso, en el Tablón Edictal de Sanciones de Tráfico antes del 25 de mayo de 2014, siempre que lo permitan sus disponibilidades presupuestarias y sus medios técnicos.
+Las administraciones locales practicarán las notificaciones en la Dirección Electrónica Vial o, en su caso, en el Tablón Edictal de Sanciones de Tráfico antes del 25 de mayo de 2016, siempre que lo permitan sus disponibilidades presupuestarias y sus medios técnicos.
+
+> Se modifica por la disposición final 1 de la Ley 6/2014, de 7 de abril. Ref. BOE-A-2014-3715.
 
 > Se modifica por la disposición final 2.1 de la Ley 12/2012, de 26 de diciembre. Ref. BOE-A-2012-15595.
 
