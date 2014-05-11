@@ -26,6 +26,20 @@ Asimismo, el Plan incluirá las cautelas necesarias para minimizar el riesgo de 
 
 A estos efectos, la entidad pública empresarial Red.es establecerá la necesaria coordinación con los registros públicos españoles. Sus titulares deberán facilitar el acceso y consulta a dichos registros públicos, que, en todo caso, tendrá carácter gratuito para la entidad.
 
+Cinco bis. La autoridad de asignación suspenderá cautelarmente o cancelará, de acuerdo con el correspondiente requerimiento judicial previo, los nombres de dominio mediante los cuales se esté cometiendo un delito o falta tipificado en el Código Penal. Del mismo modo procederá la autoridad de asignación cuando por las Fuerzas y Cuerpos de Seguridad del Estado se le dirija requerimiento de suspensión cautelar dictado como diligencia de prevención dentro de las 24 horas siguientes al conocimiento de los hechos.
+
+Asimismo, de acuerdo con lo dispuesto en los artículos 8, 11 y concordantes de esta Ley, la autoridad administrativa o judicial competente como medida para obtener la interrupción de la prestación de un servicio de la sociedad de la información o la retirada de un contenido, podrá requerir a la autoridad de asignación para que suspenda cautelarmente o cancele un nombre de dominio.
+
+De la misma forma se procederá en los demás supuestos previstos legalmente.
+
+En los supuestos previstos en los dos párrafos anteriores, sólo podrá ordenarse la suspensión cautelar o la cancelación de un nombre de dominio cuando el prestador de servicios o persona responsable no hubiera atendido el requerimiento dictado para el cese de la actividad ilícita.
+
+En todos los casos en que la Constitución, las normas reguladoras de los respectivos derechos y libertades o las que resulten aplicables a las diferentes materias atribuyan competencia a los órganos jurisdiccionales de forma excluyente para intervenir en el ejercicio de actividades o derechos, sólo la autoridad judicial competente podrá requerir la suspensión cautelar o la cancelación. En particular, cuando dichas medidas afecten a los derechos y libertades de expresión e información y demás amparados en los términos establecidos en el artículo 20 de la Constitución solo podrán ser decididas por los órganos jurisdiccionales competentes.
+
+La suspensión consistirá en la imposibilidad de utilizar el nombre de dominio a los efectos del direccionamiento en Internet y la prohibición de modificar la titularidad y los datos registrales del mismo, si bien podrá añadir nuevos datos de contacto. El titular del nombre de dominio únicamente podrá renovar el mismo o modificar la modalidad de renovación. La suspensión cautelar se mantendrá hasta que sea levantada o bien, confirmada en una resolución definitiva que ordene la cancelación del nombre de dominio.
+
+La cancelación tendrá los mismos efectos que la suspensión hasta la expiración del período de registro y si el tiempo restante es inferior a un año, por un año adicional, transcurrido el cual el nombre de dominio podrá volver a asignarse.
+
 Seis. La asignación de nombres de dominio se llevará a cabo por medios telemáticos que garanticen la agilidad y fiabilidad de los procedimientos de registro.
 
 La presentación de solicitudes y la práctica de notificaciones se realizarán por vía electrónica, salvo en los supuestos en que así esté previsto en los procedimientos de asignación y demás operaciones asociadas al registro de nombres de dominio.
@@ -40,4 +54,4 @@ Ocho. En los términos que permitan las disposiciones aplicables, la autoridad d
 
 Nueve. Con la finalidad de impulsar el desarrollo de la Administración electrónica, la entidad pública empresarial Red.es podrá prestar el servicio de notificaciones administrativas telemáticas y acreditar de forma fehaciente la fecha y hora de su recepción.
 
-> Esta disposición entra en vigor el 13 de julio de 2002, según establece la disposición final 9.
+> Se añade el apartado Cinco bis por la disposición final 2.14 de la Ley 9/2014, de 9 de mayo. Ref. BOE-A-2014-4950.

@@ -1,0 +1,3 @@
+## Disposición final novena. Fundamento constitucional.
+
+Esta Ley se dicta al amparo de la competencia exclusiva estatal en materia de telecomunicaciones, prevista en el artículo 149.1.21.ª de la Constitución. Asimismo, las disposiciones de la Ley dirigidas a garantizar la unidad de mercado en el sector de las telecomunicaciones, se dictan al amparo del artículo 149.1.1.ª de la Constitución, sobre regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales y del artículo 149.1.13.ª de la Constitución, sobre bases y coordinación de la planificación general de la actividad económica.

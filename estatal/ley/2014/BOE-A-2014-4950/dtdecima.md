@@ -1,0 +1,3 @@
+## Disposición transitoria décima. Desempeño transitorio de funciones por la Comisión Nacional de los Mercados y la Competencia.
+
+En relación con las funciones que eran competencia de la Comisión Nacional de los Mercados y la Competencia y que, conforme a lo establecido en esta Ley, se atribuyen al Ministerio de Industria, Energía y Turismo, la Comisión Nacional de los Mercados y la Competencia las desempeñará hasta la fecha que se determine para el ejercicio efectivo de las nuevas funciones que esta Ley atribuye al Ministerio de Industria, Energía y Turismo conforme a lo establecido en la disposición adicional decimoquinta.

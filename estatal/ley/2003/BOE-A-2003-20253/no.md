@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 68, de 19 de marzo de 2004. Ref. BOE-A-2004-5049.
+Norma derogada por la disposición derogatoria única.b) de la Ley 9/2014, de 9 de mayo. Ref. BOE-A-2014-4950.

@@ -1,0 +1,3 @@
+## Disposición transitoria novena. Adaptación de la normativa y los instrumentos de planificación territorial o urbanística elaborados por las administraciones públicas competentes que afecten al despliegue de las redes públicas de comunicaciones electrónicas.
+
+La normativa y los instrumentos de planificación territorial o urbanística elaborados por las administraciones públicas competentes que afecten al despliegue de las redes públicas de comunicaciones electrónicas deberán adaptarse a lo establecido en los artículos 34 y 35 en el plazo máximo de un año desde la entrada en vigor de la presente Ley.

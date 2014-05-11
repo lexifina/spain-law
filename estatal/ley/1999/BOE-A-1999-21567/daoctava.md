@@ -1,0 +1,5 @@
+## Disposición adicional octava. Instalación de infraestructuras de red o estaciones radioeléctricas en edificaciones de dominio privado.
+
+Las obras de instalación de infraestructuras de red o estaciones radioeléctricas en edificaciones de dominio privado no requerirán la obtención de licencia de obras o edificación ni otras autorizaciones, si bien, en todo caso el promotor de las mismas habrá de presentar ante la autoridad competente en materia de obras de edificación una declaración responsable donde conste que las obras se llevarán a cabo según un proyecto o una memoria técnica suscritos por técnico competente, según corresponda, justificativa del cumplimiento de los requisitos aplicables del Código Técnico de la Edificación. Una vez ejecutadas y finalizadas las obras de instalación de las infraestructuras de las redes de comunicaciones electrónicas, el promotor deberá presentar ante la autoridad competente una comunicación de la finalización de las obras y de que las mismas se han llevado a cabo según el proyecto técnico o memoria técnica.
+
+> Se añade por la disposición final 3 de la Ley 9/2014, de 9 de mayo. Ref. BOE-A-2014-4950.
