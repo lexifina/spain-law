@@ -1,6 +1,6 @@
 ## Decimosexto. Carreteras.
 
-1. Se delega en el titular de la Secretaría de Estado de Infraestructuras, Transporte y Vivienda la aprobación de los expedientes de información pública a que se refiere el artículo 10.4 de la Ley 25/1988, de 29 de julio, de Carreteras.
+1. Se delega en el titular de la Secretaría de Estado de Infraestructuras, Transporte y Vivienda la aprobación de los expedientes de información pública a que se refiere el artículo 10.4 de la Ley 25/1988, de 29 de julio, de Carreteras, así como la aprobación definitiva de los estudios y proyectos prevista en el artículo 32.3 del Reglamento General de Carreteras, aprobado por Real Decreto 1812/1994, de 2 de septiembre, y sus modificaciones, incluidas las modificaciones de los proyectos de construcción.
 
 2. Con la previa aprobación prevista en la disposición adicional decimotercera de la Ley 6/1997, de 14 de abril, el Secretario de Estado de Infraestructuras, Transporte y Vivienda delega el ejercicio de las siguientes competencias en materia de carreteras:
 
@@ -101,3 +101,5 @@ f) Las resoluciones, en el ámbito de su competencia territorial, en el resto de
 g) La emisión de las órdenes de estudio, así como sus modificaciones y anulaciones y la aprobación de los estudios y proyectos que correspondan a actuaciones en las que tienen delegadas las competencias como órgano de contratación.
 
 4. El ejercicio de las competencias delegadas en este apartado decimosexto se entenderá sin perjuicio de las funciones de coordinación que corresponden a la Inspección General de Fomento respecto de las unidades y servicios periféricos del Departamento.
+
+> Se modifica el apartado 1 por el apartado 1.4 de la Orden FOM/756/2014, de 8 de mayo. Ref. BOE-A-2014-4975.

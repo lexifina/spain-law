@@ -2,7 +2,7 @@
 
 1. Se delega el ejercicio de las siguientes competencias atribuidas al titular del Departamento, salvo lo previsto para los «anticipos de Caja fija»:
 
-A) En los titulares de la Secretaría General Técnica, la Dirección General de Programación Económica y Presupuestos y la Dirección General del Instituto Geográfico Nacional:
+A) En los titulares de la Secretaría General Técnica, salvo las relativas al Programa 491 N «Servicio Postal Universal» que se delegan en el titular de la Subsecretaría, la Dirección General de Programación Económica y Presupuestos y la Dirección General del Instituto Geográfico Nacional:
 
 a) Aprobar los gastos con cargo a los créditos de sus respectivos servicios presupuestarios, excepto los del Capítulo 1.
 
@@ -35,3 +35,5 @@ a) Aprobar los gastos con cargo a los créditos del servicio presupuestario de l
 b) Autorizar los compromisos y liquidaciones que procedan en relación con los gastos aprobados e interesar del Tesoro Público la ordenación de los oportunos pagos.
 
 c) Expedir los documentos contables procedentes y aprobar las cuentas relativas a dichos gastos.
+
+> Se modifica el primer párrafo del apartado 1.A) por el apartado 1.2 de la Orden FOM/756/2014, de 8 de mayo. Ref. BOE-A-2014-4975.

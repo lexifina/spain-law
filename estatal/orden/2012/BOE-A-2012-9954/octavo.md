@@ -6,7 +6,7 @@ A) En el titular de la Subsecretaría, acordar y resolver, con sujeción a las b
 
 B) En el titular de la Subsecretaría, acordar y resolver, con sujeción a las bases reguladoras previamente aprobadas, las convocatorias para la concesión de subvenciones en régimen de concurrencia competitiva con cargo a créditos de los servicios presupuestarios correspondientes a la Dirección General del Instituto Geográfico Nacional.
 
-C) En los titulares de la Secretaría General Técnica, la Dirección General de Programación Económica y Presupuestos y la Dirección General del Instituto Geográfico Nacional, aprobar, cuando tengan asignación nominativa, las ayudas o subvenciones y las transferencias corrientes y de capital para los créditos consignados en sus respectivos servicios presupuestarios.
+C) En los titulares de la Secretaría General Técnica, salvo las relativas al Programa 491 N «Servicio Postal Universal» que se delegan en el titular de la Subsecretaría, la Dirección General de Programación Económica y Presupuestos y la Dirección General del Instituto Geográfico Nacional, aprobar, cuando tengan asignación nominativa, las ayudas o subvenciones y las transferencias corrientes y de capital para los créditos consignados en sus respectivos servicios presupuestarios.
 
 D) En el titular de la Inspección General de Fomento, acordar y resolver, con sujeción a las bases reguladoras previamente aprobadas, las convocatorias para la concesión de subvenciones en régimen de concurrencia competitiva en el ámbito de sus competencias, cuando la cuantía sea inferior a 1.000.000 de euros.
 
@@ -19,3 +19,5 @@ A) En los titulares de las Secretarías Generales de Infraestructuras y de Trans
 B) En los titulares de las respectivas Direcciones Generales, el ejercicio de la competencia para aprobar las ayudas o subvenciones y las transferencias corrientes y de capital para los créditos consignados en sus respectivos servicios presupuestarios, con las salvedades previstas en el apartado C) siguiente.
 
 C) En el titular de la Dirección General de Arquitectura, Vivienda y Suelo, aprobar, cuando tengan asignación nominativa, las ayudas o subvenciones y las transferencias corrientes y de capital para los créditos consignados en su servicio presupuestario, y resolver la concesión de ayudas y subvenciones en ejecución de los Planes de Vivienda por cuantía que no exceda de 100.000 euros, previa autorización del gasto por el órgano competente.
+
+> Se modifica el apartado 1.C) por el apartado 1.3 de la Orden FOM/756/2014. Ref. BOE-A-2014-4975.

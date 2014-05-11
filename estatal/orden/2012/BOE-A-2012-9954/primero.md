@@ -10,6 +10,10 @@ C) Asignar dotaciones máximas para gratificaciones por servicios extraordinario
 
 D) Resolver los expedientes disciplinarios cuando la sanción a imponer sea por la comisión de falta grave o muy grave.
 
+E) A propuesta del Secretario de Estado de Infraestructuras, Transporte y Vivienda, fijar el complemento de puesto anual y la cuantía máxima de complemento variable anual que deberán asignarse en los contratos de los máximos responsables y directivos de aquellas entidades del sector público estatal, distintas de las sociedades estatales, adscritas al Ministerio de Fomento, de acuerdo con las competencias atribuidas al Ministerio de adscripción en el artículo 7 del Real Decreto 451/2012, de 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades.
+
+F) A propuesta del Secretario de Estado de Infraestructuras, Transporte y Vivienda, fijar y evaluar anualmente los objetivos, cuya consecución condiciona la percepción del complemento variable de los máximos responsables y directivos de aquellas entidades del sector público estatal, distintas de las sociedades estatales, adscritas al Ministerio de Fomento, de acuerdo con la competencia atribuida al Ministerio de adscripción en el artículo 7 del Real Decreto 451/2012, de 5 de marzo.
+
 2. Se delega en el titular de la Inspección General de Fomento el ejercicio de las competencias que el ordenamiento jurídico atribuye al titular del Departamento en materia de personal y que no se hayan delegado en el Subsecretario.
 
 3. Con la previa aprobación prevista en la disposición adicional decimotercera de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, el Subsecretario delega el ejercicio de las siguientes competencias:
@@ -69,3 +73,5 @@ E) En el Jefe de cada Demarcación de Carreteras, cuando se trate de comisiones 
 F) En el Capitán Marítimo, cuando se trate de comisiones de servicio en el territorio nacional del personal de la Capitanía Marítima, excluido el propio Capitán Marítimo, o del personal de los Distritos marítimos que le estén adscritos geográficamente.
 
 G) En los Presidentes o Directores de los Organismos Autónomos, respecto del personal destinado en los respectivos organismos públicos, cuando se trate de comisiones de servicio en el territorio nacional.
+
+> Se añaden los apartados 1.E) y F) por el apartado 1.1 de la Orden FOM/756/2014, de 8 de mayo. Ref. BOE-A-2014-4975.
