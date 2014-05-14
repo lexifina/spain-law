@@ -1,0 +1,15 @@
+El Real Decreto 506/2013, de 28 de junio, sobre productos fertilizantes, establece en su capítulo V, que para la puesta en el mercado de abonos orgánicos, abonos órgano-minerales y enmiendas orgánicas, es necesaria su inscripción previa en el Registro de productos fertilizantes.
+
+En el artículo 24 del citado real decreto se indica que, tanto para la inscripción como para la renovación de un producto, se utilizará un modelo de formulario normalizado que contendrá una serie de datos identificativos del producto y del responsable de su puesta en el mercado. Este modelo de formulario se estableció mediante la Orden APA/260/2006, de 31 de enero, por la que se aprueba el modelo normalizado de comunicación al Registro de Productos Fertilizantes, que fue sustituida a su vez por la Orden ARM/1336/2010, de 11 de mayo.
+
+Debido a la modificación de algunas normativas que tienen relación con la fabricación de productos fertilizantes de origen orgánico y al propio funcionamiento del Registro, se ha detectado la conveniencia de proceder a actualizar el modelo normalizado de solicitud al Registro de productos fertilizantes.
+
+Así, principalmente, destaca la publicación del Reglamento CE n.º 1069/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por el que se establecen las normas sanitarias aplicables a los subproductos animales y los productos derivados no destinados al consumo humano y por el que se deroga el Reglamento (CE) n.º 1774/2002, que introduce nuevos requisitos para ciertos abonos y enmiendas procedentes de determinados subproductos animales, fundamentalmente, la obligación de mezclar determinados subproductos con una sustancia que evite su desvío hacia alimentación animal. Asimismo se contemplan algunas excepciones a dicha obligación. La inclusión de la información pertinente en la ficha de características del producto facilita el control del cumplimiento de estas nuevas disposiciones tanto por los servicios de control de calidad de los productos fertilizantes como por las autoridades competentes en materia de sanidad animal.
+
+Por último, además de modificaciones de tipo aclaratorio y aquellas derivadas de cambios en el Real Decreto 506/2013, de 28 de junio, principalmente para variar los requisitos granulométricos en las enmiendas orgánicas y actualizar referencias al antiguo real decreto, se incluye la declaración del número de identificación medioambiental (código NIMA) de la instalación que trata el residuo, en su caso, para garantizar el seguimiento de los productos elaborados a partir de ellos.
+
+Esta orden se dicta al amparo de la habilitación prevista en el apartado 2 de la Disposición final segunda del Real Decreto 506/2013, de 28 de junio, que faculta al Ministro de Agricultura, Alimentación y Medio Ambiente para aprobar el modelo normalizado de solicitud señalado en el capítulo V del mismo.
+
+En el proceso de elaboración de esta orden han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados.
+
+En su virtud, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, dispongo:
