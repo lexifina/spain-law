@@ -20,7 +20,7 @@ Asimismo, cuando se haya encomendado a un Inspector de Hacienda o a un Técnico 
 
 d) En los supuestos a que se refiere el tercer párrafo del apartado cuatro.4.2.1 de esta Resolución, por el Técnico o Técnicos de Hacienda que hubiesen desarrollado las actuaciones.
 
-e) Cuando se asigne la firma conforme a lo dispuesto en el apartado ocho.3 siguiente, por el funcionario a quien se hubiera asignado. En este caso la asignación de firma del Jefe de Equipo o de Unidad deberá constar en el expediente
+e) Cuando se asigne la firma conforme a lo dispuesto en el apartado ocho.3 siguiente, por el funcionario a quien se hubiera asignado. En este caso la asignación de firma del Jefe de Equipo o de Unidad deberá constar en el expediente.
 
 3. Asignación de firma de las propuestas de regularización.
 
@@ -49,6 +49,8 @@ En las Unidades de Gestión de Grandes Empresas de las Dependencias Regionales d
 La firma del acuerdo de inicio y de la propuesta de liquidación o resolución de los procedimientos de comprobación limitada o de declaración de responsabilidad tramitados por los Equipos o Unidades de Inspección corresponderá al Jefe de los mismos.
 
 La firma de la propuesta de resolución de los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo corresponderá al Jefe de Equipo, Jefe de Unidad o funcionario que haya sido designado como instructor por el Inspector Jefe.
+
+> Se modifican los puntos 2 y 3 por el art.único.4 de la Resolución de 7 de mayo de 2014. Ref. BOE-A-2014-5049.
 
 > Se modifica el punto 2 por el art.único.9 de la Resolución de 13 de marzo de 2013. Ref. BOE-A-2013-2811.
 

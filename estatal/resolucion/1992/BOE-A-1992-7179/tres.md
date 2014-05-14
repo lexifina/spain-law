@@ -26,6 +26,8 @@ El Departamento de Inspección Financiera y Tributaria dictará instrucciones so
 
 3. (Suprimido).
 
+> Se modifican el título y determinados términos, y se suprime el punto 3 por el art.único.1 y 5 de la Resolución de 7 de mayo de 2014. Ref. BOE-A-2014-5049.
+
 > Se modifican el título y determinados términos y se suprime el punto 3 por los apartados 3 y 9 de la Resolución de 26 de noviembre de 2008. Ref. BOE-A-2008-20956.
 
 > Se modifica y se añade el punto 3 por el apartado 3 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22252.

@@ -44,6 +44,8 @@ Cuando la naturaleza de las actuaciones a desarrollar así lo aconseje, el Jefe 
 
 Los acuerdos o autorizaciones a que se refiere este número deberán constar en el expediente y se exhibirán por el funcionario designado a petición del obligado tributario.
 
+> Se modifica el punto 1 por el art.único.3 de la Resolución de 7 de mayo de 2014. Ref. BOE-A-2014-5049.
+
 > Se modifica por el art.único.8 de la Resolución de 13 de marzo de 2013. Ref. BOE-A-2013-2811.
 
 > Se modifica el punto 1 por el apartado 7 de la Resolución de 26 de noviembre de 2008. Ref. BOE-A-2008-20956.
