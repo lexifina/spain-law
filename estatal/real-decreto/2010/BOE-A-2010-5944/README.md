@@ -18,6 +18,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 5](a5.md)
 - [Disposición adicional primera](da.md)
 - [Disposición adicional segunda](da-2.md)
+- [Disposición transitoria única](dt.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición final primera](df.md)
 - [Disposición final segunda](df-2.md)
