@@ -1,0 +1,11 @@
+El Reglamento (CE) n.º 854/2004 del Parlamento y del Consejo, de 29 de abril de 2004, por el que se establecen normas específicas para la organización de los controles oficiales de los productos de origen animal destinados al consumo humano, regula las actuaciones de los veterinarios oficiales y de los auxiliares oficiales en los mataderos y faculta a los Estados miembros para permitir que, bajo determinadas condiciones establecidas por el propio reglamento, alguna de las funciones de estos últimos sean desempeñadas por el personal de estos establecimientos, prestando así asistencia en los controles oficiales.
+
+Así, en el apartado 6 de su artículo 5 establece que los Estados miembros podrán permitir que miembros del personal del matadero presten asistencia en los controles oficiales mediante la realización de determinadas funciones específicas en relación con la producción de carne de aves de corral y lagomorfos, bajo la supervisión del veterinario oficial. En este caso, el personal que lleve a cabo dichas tareas deberá estar cualificado y recibir una formación mínima de acuerdo con lo establecido en el propio reglamento, actuar con independencia del personal de producción e informar de cualquier deficiencia al veterinario oficial.
+
+Este real decreto tiene por objeto establecer las condiciones y requisitos que deben reunirse para autorizar la participación del personal de los mataderos en funciones específicas, en relación con el control de la producción de carne de aves de corral y de lagomorfos, fijando las condiciones generales para implantar este sistema, la cualificación y formación del personal asistente y las condiciones para conceder dicha autorización.
+
+En su elaboración han sido consultadas las comunidades autónomas, así como las ciudades de Ceuta y Melilla, los sectores afectados, y habiendo emitido su preceptivo informe la Comisión Interministerial para la Ordenación Alimentaria.
+
+En su virtud, a propuesta de la Ministra de Sanidad, Servicios Sociales e Igualdad, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 9 de mayo de 2014,
+
+DISPONGO:
