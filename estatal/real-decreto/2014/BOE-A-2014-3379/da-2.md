@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Coordinación con el Registro de la Propiedad.
+
+1. Los titulares registrales del dominio u otros derechos reales de uso y disfrute podrán hacer constar en el Registro de la Propiedad la inscripción en la sección b) del Registro creado mediante el presente real decreto, de aquellos proyectos de absorción de CO2 generados en territorio nacional relacionados con el uso de la tierra, cambio de uso de la tierra y selvicultura que radiquen en una finca registral determinada.
+
+2. La constancia en el Registro de la Propiedad se realizará mediante nota al margen en el folio abierto a la finca o fincas afectadas, y se practicará en virtud de certificación expedida por el registro de huella de carbono, compensación y proyectos de absorción. Dicha nota caducará y deberá ser cancelada por caducidad transcurridos 5 años desde la fecha de la inscripción del proyecto en el registro de huella de carbono. También se cancelará dicha nota marginal mediante certificación acreditativa de la baja del proyecto en el registro administrativo.
