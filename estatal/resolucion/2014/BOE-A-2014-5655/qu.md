@@ -1,0 +1,3 @@
+## Quinto. Modelo voluntario de factura para consumidores con derecho a precio voluntario para el pequeño consumidor acogido a la oferta a precio fijo anual de la comercializadora de referencia y para consumidores en libre mercado cuyo suministro se realice en baja tensión de hasta 15 kW de potencia contratada.
+
+Las facturas remitidas por las empresas comercializadoras de referencia a los consumidores con derecho a precio voluntario para el pequeño consumidor acogidos a la oferta a precio fijo anual y por las empresas comercializadoras a los consumidores en baja tensión de hasta 15 kW de potencia contratada que suministren en condiciones de libre mercado, podrán ajustarse al formato establecido en los anexos IV y V, respectivamente, de la presente resolución.
