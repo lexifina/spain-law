@@ -6,7 +6,7 @@ a) Empleos: Alférez o Teniente, con al menos cuatro años de tiempo de servicio
 
 b) Títulos: Estar en posesión de la titulación universitaria requerida para cada cuerpo conforme a lo indicado en el artículo 17 del reglamento que se aprueba, excepto para la incorporación a las escalas de oficiales de los Cuerpos Generales y de Infantería de Marina, a los que durante los años 2010, 2011 y 2012 se les solicitará la misma titulación universitaria que se les requirió para acceder a la condición de militar de complemento.
 
-c) Límites de edad: No cumplir ni haber cumplido en el año en que se publique la correspondiente convocatoria la edad máxima de 37 años. Durante los años 2010, 2011 y 2012 quedarán exentos de dicho límite de edad.
+c) Limites de edad: No cumplir ni haber cumplido en el año que se publique la correspondiente convocatoria la edad máxima de 40 años.
 
 d) Los sistemas de selección y el resto de condiciones para el acceso son las que se determinan en el Reglamento que se aprueba.
 
@@ -15,3 +15,5 @@ d) Los sistemas de selección y el resto de condiciones para el acceso son las q
 3. La incorporación a las diferentes escalas se producirá una vez superados los planes de estudios elaborados conforme a lo que se dispone en el reglamento que se aprueba. Durante los años 2010, 2011 y 2012, la enseñanza de formación de oficiales para incorporarse a los Cuerpos Generales y de Infantería de Marina, se regirá por los planes de estudios establecidos conforme a normativas anteriores.
 
 4. En la provisión anual se reservarán plazas específicas a los militares de complemento que posean las titulaciones requeridas, para el ingreso en los centros docentes militares de formación para el acceso a las diferentes escalas de oficiales de los Cuerpos Comunes de las Fuerzas Armadas y de los Cuerpos de Intendencia e Ingenieros de los Ejércitos.
+
+> Se modifica la letra c) del apartado 1 por el art. 1.2 del Real Decreto 378/2014, de 30 de mayo. Ref. BOE-A-2014-5739.

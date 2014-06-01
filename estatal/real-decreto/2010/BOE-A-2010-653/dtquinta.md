@@ -11,7 +11,7 @@
 
 2. En las convocatorias correspondientes a los años 2010, 2011 y 2012, los militares de carrera de las escalas técnicas de los Cuerpos de Ingenieros del Ejército de Tierra, de la Armada y del Ejército del Aire que posean la titulación requerida conforme a lo indicado en el artículo 17.2 del reglamento que se aprueba, podrán acceder por promoción para cambio de escala, a las plazas que se determinen en la provisión anual, quedando exentos de los límites de edad, así como del tiempo de servicios exigido en su escala de origen.
 
-3. Para participar en los procesos de selección que se convoquen para acceder a los Cuerpos de Ingenieros, por promoción para cambio de cuerpo, los límites de edad de aquellos que hayan iniciado con anterioridad a la entrada en vigor de este real decreto los cursos de la enseñanza de perfeccionamiento que les van a posibilitar adquirir alguna de las titulaciones de ingeniero exigidas conforme a lo indicado en el artículo 17.2 del reglamento que se aprueba, se amplían a no cumplir ni haber cumplido en el año de la convocatoria la edad de 37 años.
+3. (Sin contenido)
 
 4. En las convocatorias correspondientes a los años 2010, 2011 y 2012, los suboficiales de los Cuerpos Generales y de Infantería de Marina podrán acceder por promoción para cambio de escala, a las plazas que se determinen en la provisión anual, cuando no se exijan requisitos previos de titulación universitaria, quedando exentos de los límites de edad.
 
@@ -27,6 +27,8 @@
 | --- | --- | --- |
 | 2010 | 2011 | 2012 |
 | De Suboficiales Cuerpos Generales y de Infantería de Marina. | Sin titulación técnico superior. | 33 | 33 | 32 |
+
+> Se deja sin contenido el apartado 3 por el art. 1.3 del Real Decreto 378/2014, de 30 de mayo. Ref. BOE-A-2014-5739.
 
 > Se modifican los apartados 5 y 7 por el art. único.3 del Real Decreto 1141/2012, de 27 de julio. Ref. BOE-A-2012-10265.
 
