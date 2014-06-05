@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Contratación de servicios de seguridad privada por las administraciones públicas.
+
+1. En consideración a la relevancia para la seguridad pública de los servicios de seguridad privada, de conformidad con el artículo 118 del texto refundido de la Ley de Contratos del Sector Público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre, los órganos de contratación de las administraciones públicas podrán establecer condiciones especiales de ejecución de los contratos de servicios de seguridad relacionadas con el cumplimiento de las obligaciones laborales por parte de las empresas de seguridad privada contratistas.
+
+2. Los pliegos de cláusulas administrativas particulares o los contratos podrán establecer penalidades para el caso de incumplimiento de estas condiciones especiales de ejecución, o atribuirles el carácter de obligaciones contractuales esenciales a los efectos de la resolución de los contratos, de acuerdo con los artículos 212.1 y 223.f).
