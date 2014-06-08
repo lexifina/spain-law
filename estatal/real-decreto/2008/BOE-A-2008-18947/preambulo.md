@@ -1,1 +1,1 @@
-> Incluye las correcciones de errores publicadas en BOE núms. 75, de 28 de marzo de 2009 Ref. BOE-A-2009-5130 y 175 de 21 de julio de 2009. Ref. BOE-A-2009-12057
+Norma derogada por la disposición derogatoria única del Real Decreto 412/2014, de 6 de junio. Ref. BOE-A-2014-6008., sin perjuicio de lo establecido en la disposición adicional 4 por la que se fija el calendario de implantación.
