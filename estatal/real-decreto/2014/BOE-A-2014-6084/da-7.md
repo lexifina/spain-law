@@ -1,0 +1,5 @@
+## Disposición adicional séptima. Líneas de alta tensión en fase de tramitación en la fecha de obligado cumplimiento del Reglamento de Líneas de Alta Tensión.
+
+Para aquellas líneas cuyo anteproyecto haya sido realizado de conformidad con el Reglamento de Líneas eléctricas aéreas de alta tensión aprobado por el Decreto 3151/1968, de 28 de noviembre, y disposiciones que lo desarrollan, y hubiere sido presentado ante la Administración pública competente antes de los dos años posteriores a la fecha de publicación en el «Boletín Oficial del Estado» del Real Decreto 223/2008, de 15 de febrero, por el que se aprueban el Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión y sus instrucciones técnicas complementarias ITC-LAT 01 a 09, el titular podrá solicitar una prórroga para la puesta en servicio de la instalación.
+
+La Administración pública competente resolverá expresa e individualizadamente, pudiendo otorgar un plazo de un máximo de dos años, a contar desde la fecha de publicación del presente real decreto en el «Boletín Oficial del Estado», para la consecución del acta de puesta en servicio.
