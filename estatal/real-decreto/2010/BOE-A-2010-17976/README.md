@@ -8,24 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2014-06-11 by BOE-A-2014-6123. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [preambulo](preambulo.md)
-- [pr](pr.md)
-- [Artículo primero](aprimero.md)
-- [Artículo segundo](asegundo.md)
-- [Artículo tercero](atercero.md)
-- [Disposición adicional primera](daprimera.md)
-- [Disposición adicional segunda](dasegunda.md)
-- [Disposición adicional tercera](datercera.md)
-- [Disposición adicional cuarta](dacuaa.md)
-- [Disposición adicional quinta](daquinta.md)
-- [Disposición transitoria primera](dtprimera.md)
-- [Disposición transitoria segunda](dtsegunda.md)
-- [Disposición transitoria tercera](dttercera.md)
-- [Disposición transitoria cuarta](dtcuaa.md)
-- [Disposición derogatoria única](ddunica.md)
-- [Disposición final primera](dfprimera.md)
-- [Disposición final segunda](dfsegunda.md)
-- [Disposición final tercera](dftercera.md)
-- [firma](firma.md)
+- [BOE publisher notice](preambulo.md)
