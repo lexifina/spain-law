@@ -14,7 +14,9 @@ Para las instalaciones y equipos de medida que estuviesen clasificados como punt
 
 2. Aquellas instalaciones de generación que estuviesen clasificadas como puntos de medida tipo 5 y que en virtud de la nueva clasificación establecida por el presente reglamento pasan a clasificarse como puntos de medida de un tipo superior, deberán sustituir sus equipos de medida antes del 1 de julio de 2011.
 
-3. En los puntos de medida tipo 5, regulados en el Real Decreto 1433/2002, de 27 de diciembre, se podrán seguir utilizando los equipos de medida ya instalados, hasta su sustitución en cumplimiento del Plan de Sustitución de contadores previsto en la disposición adicional vigésima segunda del citado Real Decreto 1634/2006, de 29 de diciembre.
+3. En los puntos de medida tipo 5 de consumidores, regulados en el Real Decreto 1433/2002, de 27 de diciembre, se podrán seguir utilizando los equipos de medida ya instalados, hasta su sustitución en cumplimiento del Plan de Sustitución de contadores previsto en la disposición adicional vigésima segunda del citado Real Decreto 1634/2006, de 29 de diciembre.
+
+Los equipos de medida instalados en puntos de medida tipo 5 de generación, regulados en el Real Decreto 1433/2002, de 27 de diciembre, deberán ser sustituidos por equipos con discriminación horaria e integrados en el sistema de telegestión de su encargado de la lectura con anterioridad al 31 de mayo de 2015.
 
 4. (Sin contenido)
 
@@ -25,5 +27,7 @@ Asimismo, podrán ser utilizados hasta el momento de su sustitución por equipo 
 Adicionalmente para todos, sus características de tensión e intensidad en el secundario y su potencia de precisión deberán estar adaptadas a su carga y deberán cumplir con los reglamentos y disposiciones vigentes en la fecha de su puesta en servicio.
 
 Los transformadores que no cumplan todos estos requisitos mínimos deberán ser sustituidos en los plazos que se indican en esta disposición para el resto de elementos del mismo tipo de punto de medida del que se trate.
+
+> Se modifica el apartado 3 por la disposición final 2.3 del Real Decreto 413/2014, de 6 de junio. Ref. BOE-A-2014-6123.
 
 > Se modifica el apartado 1 y se deja sin contenido el apartado 4 por el artículo 2 del Real Decreto 1565/2010, de 19 de noviembre Ref. BOE-A-2010-17976.

@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Instalaciones adjudicatarias del concurso de instalaciones de tecnología solar termoeléctrica de carácter innovador.
+
+De acuerdo con lo establecido en la disposición final segunda del Real Decreto-ley 9/2013, de 12 de julio, y en la disposición final tercera, apartado 2, de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, para las instalaciones de tecnología solar termoeléctrica adjudicatarias del régimen previsto en la disposición adicional tercera del Real Decreto 1565/2010, de 19 de noviembre, por el que se regulan y modifican determinados aspectos relativos a la actividad de producción de energía eléctrica en régimen especial, el régimen retributivo especifico estará compuesto por un único término a la operación cuyo valor será el resultante de la oferta económica para las que resultaran adjudicatarias.
+
+A estas instalaciones les será de aplicación el resto de requisitos y consideraciones previstas con carácter general para las instalaciones de tecnología solar termoeléctrica.

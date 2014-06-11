@@ -1,0 +1,3 @@
+## Disposición transitoria decimocuarta. Cumplimiento de la obligación de seguimiento de instrucciones dictadas por el operador del sistema para la modificación del rango de factor de potencia por las instalaciones.
+
+Los titulares de las instalaciones que deban cumplir con la obligación de seguimiento de las instrucciones dictadas por el operador del sistema para la modificación del rango de factor de potencia de acuerdo con lo previsto en el apartado e) del artículo 7 del presente real decreto, que con anterioridad a la entrada en vigor del mismo no estuvieran obligadas a ello, tendrán de plazo hasta el 31 de mayo de 2015, para adaptarse al cumplimiento de dicha obligación.

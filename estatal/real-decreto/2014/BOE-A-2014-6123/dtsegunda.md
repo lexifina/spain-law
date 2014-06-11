@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Régimen transitorio de vigencia del complemento por continuidad de suministro frente a huecos de tensión regulado en el Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía eléctrica en régimen especial.
+
+Será de aplicación hasta el 31 de diciembre de 2013 el complemento retributivo por continuidad de suministro frente a huecos de tensión en los términos previstos en la disposición adicional séptima del Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía eléctrica en régimen especial.

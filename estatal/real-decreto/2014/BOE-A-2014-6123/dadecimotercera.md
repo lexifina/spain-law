@@ -1,0 +1,5 @@
+## Disposición adicional decimotercera. Revocación del régimen retributivo específico para aquellas instalaciones que no estén totalmente finalizadas al vencimiento del plazo límite.
+
+No obstante lo establecido en las disposiciones adicionales sexta, séptima y octava, el derecho a la percepción del régimen retributivo específico de las instalaciones a las que les sean de aplicación dichas disposiciones les será revocado y se procederá a la cancelación por incumplimiento de la inscripción en el registro de régimen retributivo específico si, como consecuencia de una inspección o de cualquier otro medio válido en derecho, quedase constatado que dichas instalaciones no están totalmente finalizadas al vencimiento del plazo límite establecido para ser inscritas con carácter definitivo en el registro administrativo de instalaciones de producción y comenzar la venta de energía.
+
+El plazo máximo para resolver y notificar será de seis meses desde la fecha del acuerdo de iniciación dictado por la Dirección General de Política Energética y Minas, garantizándose en todo caso la audiencia al interesado.

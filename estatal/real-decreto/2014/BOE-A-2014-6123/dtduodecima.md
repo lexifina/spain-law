@@ -1,0 +1,3 @@
+## Disposición transitoria duodécima. Expedientes en tramitación de cancelación por incumplimiento de las inscripciones en el registro de preasignación de retribución, al amparo del artículo 8 del Real Decreto 1578/2008, de 26 de septiembre.
+
+Los expedientes de cancelación por incumplimiento de las inscripciones en el registro de preasignación de retribución tramitados al amparo del artículo 8 del Real Decreto 1578/2008, de 26 de septiembre, cuya propuesta de iniciación se haya producido con anterioridad a la entrada en vigor del presente real decreto, se tramitarán y resolverán conforme a lo previsto en Real Decreto 1578/2008, de 26 de septiembre, siéndoles de aplicación lo previsto en la disposición adicional séptima.8 de este real decreto.
