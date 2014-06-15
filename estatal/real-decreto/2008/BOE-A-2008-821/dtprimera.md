@@ -8,7 +8,7 @@ En tanto se sigan impartiendo los estudios conducentes al título de Licenciado,
 
 a) Quienes opten por la matrícula parcial y no se matriculen de todos aquellos créditos de los que les fuera posible podrán obtener únicamente la cuantía variable mínima y la beca de matrícula. Para obtener la beca o ayuda en el siguiente curso deberán aprobar la totalidad de los créditos en que hubieran estado matriculados.
 
-b) Quienes cursen estudios en modalidad distinta a la presencial podrán obtener la cuantía variable mínima y la beca de matrícula. Para obtener la beca o ayuda en el siguiente curso deberán aprobar la totalidad de los créditos en que hubieran estado matriculados.
+b) (Suprimida)
 
 c) En aquellos casos en los que, en virtud de la normativa propia de la Universidad, resulte limitado el número de créditos en que pueda quedar matriculado el alumno, éste podrá obtener todas las cuantías que le correspondan si se matricula en todos aquellos en los que le sea posible. Si dichos créditos se cursan en un cuatrimestre/semestre, la cuantía de la beca que les corresponderá será la beca de matrícula, la cuantía variable mínima y el cincuenta por ciento de las cantidades que le hubiesen correspondido. En el supuesto de que el alumno se matricule también en el segundo cuatrimestre/semestre correspondiente al curso académico, se completará la cuantía de la beca hasta el total que le hubiese correspondido.
 
@@ -77,6 +77,8 @@ Enseñanzas técnicas de una titulación de sólo primer ciclo o enseñanzas té
 Resto de licenciaturas universitarias: un año más de los establecidos en el plan de estudios.
 
 b) Los alumnos que cursen la totalidad de sus estudios universitarios en centros de educación a distancia podrán disfrutar de la condición de becario durante un año más de los previstos en los apartados anteriores.
+
+> Se suprime la letra b) del apartado 2 por la disposición final 2.10 del Real Decreto 472/2014, de 13 de junio. Ref. BOE-A-2014-6275.
 
 > Se modifican los apartados 2, 8 y 12 por la disposición final 2.20, 21 y 22 del Real Decreto 609/2013, de 2 de agosto. Ref. BOE-A-2013-8559.
 

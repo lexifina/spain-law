@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Prolongación de los estudios universitarios.
+
+En aquellos supuestos en los que los requisitos y condiciones aplicables permitan el disfrute de becas y ayudas al estudio durante uno o dos años más de los establecidos en el plan de estudios de la correspondiente titulación universitaria, la convocatoria podrá establecer que la cuantía de las becas y ayudas al estudio que se concedan para el último de estos cursos adicionales serán la cuantía variable mínima, la beca de matrícula que cubrirá la totalidad de los créditos de los que se matricule por primera vez y el 50% de las restantes cuantías que le hubieran correspondido al solicitante.
