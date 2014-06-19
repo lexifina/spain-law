@@ -1,1 +1,1 @@
-> Incluye las correcciones de errores publicadas en BOE núm. 85, de 8 de abril de 1980. Ref. BOE-A-1980-7234 y núm. 112, de 9 de mayo de 1980. Ref. BOE-A-1980-9529.
+Norma derogada por la disposición derogatoria del Real Decreto 474/2014, de 13 de junio. Ref. BOE-A-2014-6435.

@@ -1,1 +1,1 @@
-> Incluye las correcciones de errores y erratas publicadas en BOE núm. 280, de 22 de noviembre de 1986 Ref. BOE-A-1986-30862 y núm. 291, de 5 de diciembre de 1986. Ref. BOE-A-1986-31924.
+Norma derogada por la disposición derogatoria del Real Decreto 474/2014, de 13 de junio. Ref. BOE-A-2014-6435.

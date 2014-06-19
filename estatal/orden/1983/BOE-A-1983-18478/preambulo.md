@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 209, de 1 de septiembre de 1983. Ref. BOE-A-1983-23433.
+Norma derogada por la disposición derogatoria del Real Decreto 474/2014, de 13 de junio. Ref. BOE-A-2014-6435#dd.
