@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 189, de 9 de agosto de 1983. Ref. BOE-A-1983-21602
+Téngase en cuenta que el orden de precedencia de los Reyes Don Juan Carlos y Doña Sofía en el Ordenamiento General de Precedencias del Estado será el inmediatamente posterior a los descendientes del Rey Don Felipe VI, según establece la disposición transitoria 4 del Real Decreto 1368/1987, de 6 de noviembre, Ref. BOE-A-1987-25284#cuaa., en la redacción dada por el Real Decreto 470/2014, de 13 de junio. Ref. BOE-A-2014-6477.
