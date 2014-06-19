@@ -1,6 +1,6 @@
 ## ANEXO I
 
-## Procedimiento general de periodificación de costes de la Comisión Nacional de Energía
+## Procedimiento general de periodificación de costes de la Comisión Nacional de los Mercados y la Competencia
 
 La estructura de los flujos para dos ejercicios sucesivos (siendo Dn-1, Dn, Dn+1 las cantidades anuales a que tienen derecho los titulares de la percepción en los ejercicios n-1 a n+1) se hará según lo recogidos en la siguiente tabla:
 
@@ -32,3 +32,5 @@ La estructura de los flujos para dos ejercicios sucesivos (siendo Dn-1, Dn, Dn+1
 | 12 n. | 15 marzo n+1. | 8,333% Dn. |
 | 13 n + 1 n+1. | 15 abril n+1. | 6% Dn + 2,333% Dn+1. |
 | 14 n + 2 n+1. | 15 mayo n+1. | 1,25% Dn + 7,083% Dn+1. |
+
+> Se sustituyen las referencias a la "Comisión Nacional de Energía" por el art. único.1 del Real Decreto 417/2014, de 6 de junio. Ref. BOE-A-2014-6433.
