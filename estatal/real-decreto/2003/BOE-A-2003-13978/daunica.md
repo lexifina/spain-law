@@ -1,3 +1,5 @@
-## Disposición adicional única. Reciprocidad.
+## Disposición adicional única. Remisión de información por vía telemática.
 
-Siempre que exista reciprocidad con el país o países de destino, podrán expedirse, con motivo de excursiones, peregrinaciones o actos de análoga naturaleza, documentos colectivos de viaje que cumplan las previsiones que se especifican en el Acuerdo Europeo sobre Circulación provistos de pasaportes colectivos entre los países miembros del Consejo de Europa, ratificado por España el 18 de mayo de 1982. Dicho documento será valido para un solo viaje.
+La documentación requerida para la expedición del pasaporte no será exigible cuando el órgano competente para su expedición pueda obtenerla o consultarla por medios telemáticos.
+
+> Se modifica por el art. único.7 del Real Decreto 411/2014, de 6 de junio. Ref. BOE-A-2014-6663.
