@@ -1,0 +1,3 @@
+## Disposición transitoria única. Formato transitorio de las facturas.
+
+En tanto no se apruebe la Orden ministerial a la que se refiere el artículo 5 de esta Orden, las facturas deberán haber sido expedidas en el formato que la Ley 25/2013, de 27 de diciembre, establece en su disposición adicional segunda y estar firmadas con firma electrónica avanzada basada en un certificado, de acuerdo con lo dispuesto en el artículo 10.1 a) del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, por el que se aprueba el Reglamento por el que se regulan las obligaciones de facturación.
