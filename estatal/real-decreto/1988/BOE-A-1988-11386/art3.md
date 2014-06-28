@@ -22,6 +22,10 @@ Compete especialmente al Jefe de la Casa:
 
 3. Dependerá directamente del Jefe de la Casa la Oficina de Intervención, a cuyo frente estará un Interventor que ejercerá las funciones de control de la gestión económico-financiera, presupuestaria y contable conforme a las técnicas empleadas en la Administración del Estado. Tras la liquidación de cada ejercicio económico, elevará al Jefe de la Casa un informe resumen de los emitidos durante el año, expresivo del grado de eficacia lograda en su actividad de control.
 
+4. También dependerá directamente del Jefe de la Casa un Consejero Diplomático, que prestará asistencia a la Casa de Su Majestad el Rey en el ámbito de las relaciones internacionales. Las funciones del Consejero Diplomático podrán ser asumidas por el responsable de cualquiera de las unidades integradas en la Secretaría General, o por otra persona designada al efecto en los términos establecidos en este real decreto.
+
+> Se añade el apartado 4 por el art. 2.1 del Real Decreto 547/2014, de 27 de junio. Ref. BOE-A-2014-6762.
+
 > Se añade el párrafo último del apartado 1 y se modifica el 3 por el art. único.B) y C) del Real Decreto 999/2010, de 5 de agosto. Ref. BOE-A-2010-12704.
 
 > Se añade al apartado 3 por el art. único del Real Decreto 657/1990, de 25 de mayo. Ref. BOE-A-1990-11723.

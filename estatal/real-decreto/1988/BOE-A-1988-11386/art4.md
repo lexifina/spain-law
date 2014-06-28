@@ -30,18 +30,20 @@ El Secretario General será el Segundo Jefe de la Casa de Su Majestad el Rey y l
 
 3. La Secretaría General se estructura en las siguientes Unidades:
 
+Secretaría de Su Majestad el Rey Don Juan Carlos.
+
 Gabinete de Planificación y Coordinación.
 
 Secretaría de Su Majestad la Reina.
 
-Secretaría de Su Alteza Real el Príncipe de Asturias.
-
 Servicio de Seguridad.
 
-Relaciones con los Medios de Comunicación.
+Comunicación.
 
 Protocolo.
 
 Administración, Infraestructura y Servicios.
+
+> Se modifica el apartado 3 por el art. 2.2 del Real Decreto 547/2014, de 27 de junio. Ref. BOE-A-2014-6762.
 
 > Se añaden los cuatro últimos párrafos al apartado 2 y se modifica el apartado 3 por el art. único.D) y E) del Real Decreto 999/2010, de 5 de agosto. Ref. BOE-A-2010-12704.
