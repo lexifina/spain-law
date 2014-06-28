@@ -1,0 +1,9 @@
+## Disposición adicional decimoséptima. Planes de cumplimiento del nivel mínimo de capital social y de recursos propios por las sociedades de garantía recíproca.
+
+1. Lo previsto en el artículo 35 de la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización, relativo a la cifra mínima del capital social desembolsado y de recursos propios computables de las sociedades de garantía recíproca, entrará en vigor el 28 de febrero de 2015, sin perjuicio de lo previsto en el apartado 3.
+
+2. Antes del 30 de junio de 2014, las sociedades de garantía recíproca que no cumplan con los requisitos referidos en el párrafo anterior, presentarán al Banco de España un plan de cumplimiento en el que detallarán las medidas adoptadas o previstas para alcanzar, con un elevado grado de fiabilidad y en el plazo establecido, los niveles correspondientes de capital social y recursos propios. Este plan incluirá, en todo caso, la descripción detallada y calendario de todos los acuerdos, compromisos o autorizaciones que sean relevantes para su ejecución, concretando aquellas medidas que ya se han adoptado.
+
+El plan presentado deberá ser aprobado por el Banco de España en el plazo de un mes, quien podrá requerir modificaciones, medidas adicionales o cualquier información suplementaria necesarias para garantizar el cumplimiento de lo previsto en esta Disposición.
+
+3. En caso de que el Banco de España considere que existen indicios fundados de que las medidas incluidas en el plan de cumplimiento previsto en el apartado anterior no permitirán alcanzar, con un elevado grado de fiabilidad y en el plazo establecido, los niveles correspondientes de capital social y recursos propios, se considerará, a todos los efectos y de manera inmediata, la existencia de un incumplimiento de los citados niveles.

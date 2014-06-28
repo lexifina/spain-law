@@ -2,27 +2,31 @@
 
 1. Corresponderá a la Comisión Nacional del Mercado de Valores, en su condición de autoridad responsable de la supervisión de las empresas de servicios de inversión y sus grupos consolidables:
 
-a) revisar los sistemas, sean acuerdos, estrategias, procedimientos o mecanismos de cualquier tipo, aplicados para dar cumplimiento a la normativa de solvencia contenida en esta Ley y las disposiciones que la desarrollen;
+a) Revisar los sistemas, ya sean acuerdos, estrategias, procedimientos o mecanismos de cualquier tipo, aplicados para dar cumplimiento a la normativa de solvencia contenida en esta Ley y las disposiciones que la desarrollen, así como en el Reglamento (UE) n.º 575/2013, de 26 de junio.
 
-b) evaluar los riesgos a los cuáles están o pueden estar expuestas las empresas de servicios de inversión o sus grupos;
+b) Determinar si los sistemas, los recursos propios y la liquidez mantenidos por las empresas de servicios de inversión garantizan una gestión sana y prudente y una cobertura sólida de sus riesgos.
 
-c) a partir de la revisión y la evaluación mencionadas en las letras precedentes, determinar si los sistemas mencionados en la letra a) y los fondos propios mantenidos garantizan una gestión y cobertura sólida, respectivamente, de sus riesgos.
+c) Determinar a partir de la revisión y la evaluación mencionadas en los párrafos precedentes si los sistemas mencionados en la letra a) y los fondos propios y la liquidez mantenidos garantizan una gestión y cobertura sólida, respectivamente, de sus riesgos.
 
-La Comisión Nacional del Mercado de Valores podrá hacer suyas, y transmitir como tales a las empresas de servicios de inversión y sus grupos, las guías que, dirigidas a éstos, aprueben los organismos o comités internacionales activos, relativas a los criterios, prácticas o procedimientos convenientes para favorecer una adecuada evaluación de los riesgos y un mejor cumplimiento de las normas de ordenación y disciplina.
+Los análisis y evaluaciones mencionados en los párrafos anteriores se actualizarán con periodicidad al menos anual.
 
-Los análisis y evaluaciones mencionados en las letras a) y b) anteriores se actualizarán con periodicidad al menos anual.
+2. La Comisión Nacional del Mercado de Valores, en el desarrollo de sus funciones como autoridad responsable de la supervisión de las empresas de servicios de inversión y de sus grupos consolidables:
 
-2. La Comisión Nacional del Mercado de Valores acumulará datos estadísticos sobre los aspectos fundamentales de la aplicación de la normativa en materia de solvencia de las empresas de servicios de inversión contenida en la presente Ley y divulgará periódicamente, al menos en su página web, la información siguiente relativa a dicha normativa:
+a) Tomará debidamente en consideración la posible incidencia de sus decisiones en la estabilidad del sistema financiero de todos los demás Estados miembros afectados, en particular, en situaciones de urgencia, basándose en la información disponible en el momento.
 
-a) el texto de las disposiciones legales, reglamentarias y administrativas, así como las orientaciones adoptadas al respecto en cuanto autoridad responsable del control y supervisión de las empresas de servicios de inversión y de sus grupos;
+b) Tendrá en cuenta la convergencia de instrumentos y prácticas de supervisión en el ámbito de la Unión Europea.
 
-b) el modo en que se han ejercido en España las opciones y potestades discrecionales permitidas a los Estados miembros por las Directivas de la Unión Europea relativas a la normativa citada;
+c) Cooperará con las autoridades competentes de otros Estados miembros de la Unión Europea, como partes en el Sistema Europeo de Supervisión Financiera (SESF), con confianza y pleno respeto mutuo, en particular para garantizar el flujo de información pertinente y fiable entre ellas y otras partes del SESF, de conformidad con el principio de cooperación leal establecido en el artículo 4.3 del Tratado de la Unión Europea.
 
-c) los criterios y metodología seguidos por la Comisión Nacional del Mercado de Valores para revisar los acuerdos, estrategias, procedimientos y mecanismos aplicados por las empresas de servicios de inversión y sus grupos a fin de dar cumplimiento a la normativa y para evaluar los riesgos a los que las mismas están o podrían estar expuestas.
+d) Participará en las actividades de la Autoridad Bancaria Europea y, cuando corresponda, en los colegios de supervisores.
+
+e) Hará lo posible por cumplir las directrices y recomendaciones que formule la Autoridad Bancaria Europea de conformidad con el artículo 16 del Reglamento (UE) n.º 1093/2010 del Parlamento Europeo y del Consejo, de 24 de noviembre, por el que se crea una Autoridad Europea de Supervisión (Autoridad Bancaria Europea), se modifica la Decisión n.º 716/2009/CE y se deroga la Decisión 2009/78/CE, de la Comisión, y atenerse a las advertencias y recomendaciones que formule la Junta Europea de Riesgo Sistémico de conformidad con el artículo 16 del Reglamento (UE) n.º 1092/2010, de 24 de noviembre relativo a la supervisión macroprudencial del sistema financiero en la Unión Europa y por el que se crea una Junta Europea de Riesgo Sistémico.
+
+f) Cooperará estrechamente con la Junta Europea de Riesgo Sistémico.
 
 3. Asimismo, cuando una empresa de servicios de inversión no cumpla con las exigencias que, contenidas en el Reglamento (UE) n.º 575/2013, de 26 de junio, esta Ley o en su normativa de desarrollo, determinen requerimientos mínimos de recursos propios, requieran una estructura organizativa o mecanismos y procedimientos de control interno, contables o de valoración adecuados o cuando la Comisión Nacional del Mercado de Valores tenga datos que permitan presumir fundadamente un incumplimiento de dichas obligaciones en los siguientes doce meses, la Comisión Nacional del Mercado de Valores podrá adoptar, entre otras, las siguientes medidas:
 
-a) Obligar a las empresas de servicios de inversión y sus grupos a mantener recursos propios adicionales a los exigidos con carácter mínimo. La Comisión Nacional del Mercado de Valores deberá hacerlo, al menos, siempre que aprecie deficiencias graves en la estructura organizativa de la empresa de servicios de inversión o en los procedimientos y mecanismos de control interno, contables o de valoración, incluyendo en especial los mencionados en el artículo 70.3 de esta Ley, o siempre que advierta, de acuerdo con lo previsto en el apartado 1.c) de este artículo, que los sistemas y los fondos propios mantenidos a que se refiere dicho precepto no garantizan una gestión y cobertura sólidas de los riesgos. En ambos casos la medida deberá ser adoptada cuando la Comisión Nacional del Mercado de Valores considere improbable que la mera aplicación de otras medidas mejore dichas deficiencias o situaciones en un plazo adecuado.
+a) Obligar a las empresas de servicios de inversión y sus grupos a mantener recursos propios adicionales a los exigidos con carácter mínimo. La Comisión Nacional del Mercado de Valores deberá hacerlo, al menos, siempre que aprecie deficiencias graves en la estructura organizativa de la empresa de servicios de inversión o en los procedimientos y mecanismos de control interno, contables o de valoración, incluyendo en especial los mencionados en el artículo 70.2, o siempre que advierta, de acuerdo con lo previsto en el apartado 1 c) de este artículo, que los sistemas y los fondos propios mantenidos a que se refiere dicho precepto no garantizan una gestión y cobertura sólidas de los riesgos. En ambos casos la medida deberá ser adoptada cuando la Comisión Nacional del Mercado de Valores considere improbable que la mera aplicación de otras medidas mejore dichas deficiencias o situaciones en un plazo adecuado.
 
 b) Exigir a las empresas de servicios de inversión y sus grupos que refuercen o modifiquen los procedimientos de control interno, contables o de valoración, los mecanismos o las estrategias adoptados para el cumplimiento de dichas exigencias organizativas o de recursos.
 
@@ -71,6 +75,8 @@ Lo dispuesto en este apartado se entiende sin perjuicio de la aplicación de las
 a) Tomará debidamente en consideración la posible incidencia de sus decisiones en la estabilidad del sistema financiero de todos los demás Estados miembros afectados, en particular, en situaciones de urgencia, basándose en la información disponible en el momento; y,
 
 b) Tendrá en cuenta la convergencia de instrumentos y prácticas de supervisión en el ámbito de la Unión Europea.
+
+> Se modifican los apartados 1 y 2 y la letra a) del 3 por la disposición final 1.26 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
 
 > Se modifica el apartado 3, se renumera el 4 como 6 y se añaden los apartados 4 y 5 por el art. 3.3 del Real Decreto-ley 14/2013, de 29 de noviembre. Ref. BOE-A-2013-12529.
 

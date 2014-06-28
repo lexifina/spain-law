@@ -48,7 +48,9 @@ b) que el servicio se preste a iniciativa del cliente;
 
 c) que la entidad haya informado al cliente con claridad de que no está obligada a evaluar la adecuación del instrumento ofrecido o del servicio prestado y que, por tanto, el cliente no goza de la protección establecida en el apartado anterior. Dicha advertencia podrá realizarse en un formato normalizado;
 
-d) que la entidad cumpla lo dispuesto en la letra d) del apartado 1 del artículo 70 y en el artículo 70 ter.1.d).
+d) que la entidad cumpla lo dispuesto en el artículo 70 ter.2.d).
+
+> Se modifica la letra d) del apartado 8 por la disposición final 1.19 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
 
 > Se modifican los apartados 3, 6 y 7 por la disposición final 3.5 y 6 de la Ley 9/2012, de 14 de noviembre. Ref. BOE-A-2012-14062.
 

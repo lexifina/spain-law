@@ -1,0 +1,9 @@
+## Disposición transitoria quinta. Régimen transitorio para las sucursales de entidades de crédito autorizadas en otros Estados miembros de la Unión Europea.
+
+1. Sin perjuicio de lo dispuesto en el artículo 89.4, si el Banco de España comprueba que una entidad de crédito de un Estado miembro de la Unión Europea con sucursal en España o que opera aquí en libre prestación de servicios incumple la normativa relativa a requisitos de liquidez en España, incoará un expediente sancionador a dicha sucursal.
+
+2. El régimen sancionador aplicable será el previsto para las entidades de crédito españolas. No obstante, el Banco de España deberá iniciar el procedimiento sancionador con un requerimiento a dicha entidad de crédito para que ponga fin a su conducta y se abstenga de repetirla y si esto no se produce, deberá informar a las autoridades competentes de la supervisión de dicha entidad.
+
+3. Si a pesar de las medidas tomadas por el Estado miembro de origen de la entidad de crédito o debido a que estas medidas resultan inadecuadas o no están previstas en dicho Estado, la entidad de crédito siguiera infringiendo la normativa aludida en el apartado 1, el Banco de España, tras informar de ello a las autoridades competentes del Estado miembro de origen, proseguirá con el expediente sancionador. Resuelto el expediente, el Banco de España notificará la decisión adoptada a las citadas autoridades y, en los casos de infracciones graves o muy graves, a la Comisión Europea y a la Autoridad Bancaria Europea.
+
+4. Lo dispuesto en los apartados anteriores se aplicará en sustitución del artículo 63 hasta la fecha en la que el requisito de cobertura de liquidez sea aplicable de conformidad con el acto delegado adoptado por la Comisión Europa en virtud del artículo 460 del Reglamento (UE) n.º 575/2013, de 26 de junio.

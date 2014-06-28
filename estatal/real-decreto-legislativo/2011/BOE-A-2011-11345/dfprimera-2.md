@@ -10,6 +10,8 @@ b) Perjudicar la continuidad de su explotación, o afectar gravemente a su estab
 
 c) Implicar una opinión con salvedades, desfavorable o denegada, o impedir la emisión del informe de auditoría.
 
+Salvo que razones significativas y justificadas lo impidan, esta comunicación se hará extensiva de forma simultánea al órgano de dirección de la entidad. En todo caso, se entenderá que no es posible tal comunicación cuando el citado órgano de dirección hubiese estado o pudiera estar o haber estado involucrado en los hechos que motivan la citada comunicación.
+
 Sin perjuicio de la obligación anterior, la entidad auditada tendrá la obligación de remitir copia del informe de auditoría de las cuentas anuales a las autoridades supervisoras competentes anteriormente citadas. Si en el plazo de una semana desde la fecha de entrega del informe, el auditor no tuviera constancia fehaciente de que se ha producido dicha remisión, deberá enviar directamente el informe a las citadas autoridades.
 
 La obligación de comunicación alcanzará también a los auditores de las cuentas anuales de las entidades pertenecientes al grupo, en el sentido que determina el artículo 4 de la Ley 24/1988, del Mercado de Valores, a alguna de las entidades o instituciones a que se refiere el párrafo primero.
@@ -17,3 +19,5 @@ La obligación de comunicación alcanzará también a los auditores de las cuent
 Adicionalmente, los auditores de cuentas de las entidades dominadas que estén sometidas al régimen de supervisión, además de informar a las autoridades supervisoras competentes, según se establece en el párrafo primero, también informarán a los auditores de cuentas de la entidad dominante.
 
 La comunicación de buena fe de los hechos o decisiones mencionados a las autoridades supervisoras competentes no constituirá incumplimiento del deber de secreto establecido en el artículo 25, o del que pueda ser exigible contractualmente a los auditores de cuentas, ni implicará para éstos ningún tipo de responsabilidad.
+
+> Se añade el inciso final de la letra c) por la disposición final 8.2 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.

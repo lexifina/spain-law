@@ -26,7 +26,7 @@ Quedarán incluidas en este apartado, en particular, las entidades de capital ri
 
 Las entidades señaladas en los apartados anteriores se considerarán clientes profesionales sin perjuicio de que puedan solicitar un trato no profesional y de que las empresas de servicios de inversión puedan acordar concederles un nivel de protección más amplio.
 
-e) Los demás clientes que lo soliciten con carácter previo, y renuncien de forma expresa a su tratamiento como clientes minoristas.
+e) Los demás clientes que lo soliciten con carácter previo, y renuncien de forma expresa a su tratamiento como clientes minoristas. No obstante, en ningún caso se considerará que los clientes que soliciten ser tratados como profesionales poseen unos conocimientos y una experiencia del mercado comparables a las categorías de clientes profesionales enumeradas en las letras a) a d) de este apartado.
 
 La admisión de la solicitud y renuncia quedará condicionada a que la empresa que preste el servicio de inversión efectúe la adecuada evaluación de la experiencia y conocimientos del cliente en relación con las operaciones y servicios que solicite, y se asegure de que puede tomar sus propias decisiones de inversión y comprende sus riesgos. Al llevar a cabo la citada evaluación, la empresa deberá comprobar que se cumplen al menos dos de los siguientes requisitos:
 
@@ -39,5 +39,7 @@ La admisión de la solicitud y renuncia quedará condicionada a que la empresa q
 El Gobierno y, con su habilitación expresa, el Ministro de Economía y Hacienda o la Comisión Nacional del Mercado de Valores podrán determinar la forma de cálculo de las magnitudes señaladas en este apartado y fijar requisitos para los procedimientos que las entidades establezcan para clasificar clientes.
 
 4. Se considerarán clientes minoristas todos aquellos que no sean profesionales.
+
+> Se modifica el primer párrafo de la letra e) del apartado 3 por la disposición final 1.18 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
 
 > Se añade por el art. único.50 de la Ley 47/2007, de 19 de diciembre. Ref. BOE-A-2007-21913

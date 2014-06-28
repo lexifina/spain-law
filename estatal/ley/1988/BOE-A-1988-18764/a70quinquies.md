@@ -1,32 +1,34 @@
-## Artículo 70 quinquies. Medidas de gobierno corporativo.
+## Artículo 70 quinquies. Requisito combinado de colchones de capital.
 
-1. Al fijar los componentes variables de la remuneración las empresas de servicios de inversión deberán establecer los ratios apropiados entre los componentes fijos y los variables de la remuneración total, aplicando los siguientes principios:
+1. Las empresas de servicios de inversión deberán cumplir en todo momento el requisito combinado de colchones de capital, entendido, como el total del capital de nivel 1 ordinario definido en el artículo 26 del Reglamento (UE) n.º 575/2013, de 26 de junio, necesario para cumplir con la obligación de disponer de un colchón de conservación de capital, más, si procede:
 
-a) El componente variable no será superior al cien por ciento del componente fijo de la remuneración total de cada persona.
+a) Un colchón de capital anticíclico específico de cada entidad.
 
-b) No obstante, los accionistas de la empresa de servicios de inversión podrán aprobar un nivel superior al previsto en el párrafo anterior, siempre que no sea superior al doscientos por ciento del componente fijo de la remuneración. La aprobación de este nivel más elevado, se realizará de acuerdo con el siguiente procedimiento:
+b) Un colchón para las entidades de importancia sistémica mundial (EISM).
 
-1.º Los accionistas de la empresa de servicios de inversión tomarán su decisión sobre la base de una recomendación pormenorizada del consejo de administración u órgano equivalente que exponga los motivos y el alcance de la decisión e incluya el número de personas afectadas y sus cargos, así como el efecto previsto sobre el mantenimiento por la entidad de una base sólida de capital.
+c) Un colchón para otras entidades de importancia sistémica (OEIS).
 
-2.º Los accionistas de la empresa de servicios de inversión adoptarán su decisión por una mayoría de al menos dos tercios, siempre que estén presentes o representados en la votación al menos la mitad de las acciones o derechos equivalentes. De no ser posible el quórum anterior, tomarán su decisión por una mayoría de, al menos, tres cuartos de los acciones o derechos equivalentes presentes o representados.
+d) Un colchón contra riesgos sistémicos.
 
-3.º El consejo de administración comunicará a todos los accionistas con antelación suficiente el asunto que se someterá a aprobación.
+Esta obligación se cumplirá sin perjuicio de los requisitos de recursos propios establecidos en el artículo 92 del Reglamento (UE) n.º 575/2013, de 26 de junio, y de aquellos otros que, en su caso, pueda exigir la Comisión Nacional del Mercado de Valores, en virtud de lo establecido en el artículo 87 octies.
 
-4.º El consejo de administración comunicará inmediatamente a la Comisión Nacional del Mercado de Valores la recomendación dirigida a los accionistas, incluido el nivel más alto del componente variable de la remuneración propuesto y su justificación, y acreditará que ese nivel no afecta a las obligaciones de la entidad en virtud de la normativa de solvencia.
+2. Estos colchones se calcularán conforme a lo dispuesto en el Capítulo III del Título II de la Ley 10/2014, de Ordenación, Supervisión y Solvencia de Entidades de Crédito.
 
-5.º El consejo de administración comunicará inmediatamente a la Comisión Nacional del Mercado de Valores la decisión adoptada al respecto por sus accionistas, incluido el porcentaje máximo más alto del componente variable de la remuneración aprobado, y la Comisión Nacional del Mercado de Valores utilizará la información recibida para comparar las prácticas de las entidades en dicha materia. La Comisión Nacional del Mercado de Valores facilitará esta información a la Autoridad Bancaria Europea.
+3. No obstante lo anterior, estos colchones no se aplicarán a las empresas de servicios de inversión no autorizadas a realizar las actividades establecidas en las letras c) y f) del artículo 63.1.
 
-6.º En su caso, el personal directamente afectado por la aplicación de niveles máximos más altos de remuneración variable no podrán ejercer, ni directa ni indirectamente, los derechos de voto que pudieran tener como accionistas de la entidad.
+Asimismo, no serán de aplicación a las pequeñas y medianas empresas de servicios de inversión, siempre que, a juicio de la Comisión Nacional del Mercado de Valores, ello no suponga una amenaza para la estabilidad del sistema financiero español, el colchón de conservación del capital y el colchón anticíclico.
 
-c) La Comisión Nacional del Mercado de Valores podrá autorizar a las entidades a aplicar un tipo de descuento teórico, de acuerdo con la orientación que publique la Autoridad Bancaria Europea, a un 25 por ciento de la remuneración variable total, siempre que se abone mediante instrumentos diferidos por un plazo de cinco o más años. La Comisión Nacional del Mercado de Valores podrá establecer un porcentaje máximo inferior.
+A estos efectos se entenderá por pequeña y mediana empresa la definida de conformidad con la Recomendación 2003/361/CE de la Comisión, de 6 de mayo de 2003, sobre la definición de microempresas, pequeñas y medianas empresas.
 
-2. Las limitaciones previstas en el apartado anterior se aplicarán a las categorías de empleados cuyas actividades profesionales incidan de manera significativa en el perfil de riesgo de la entidad, su grupo, sociedad matriz o filiales. En particular, se aplicará a los altos directivos, los empleados que asumen riesgos, los que ejercen funciones de control, así como todo trabajador que reciba una remuneración global que lo incluya en el mismo baremo de remuneración que el de los altos directivos y los empleados que asumen riesgos, cuyas actividades profesionales inciden de manera importante en su perfil de riesgo.
+4. El capital ordinario de nivel 1 requerido para satisfacer cada uno de los distintos colchones conforme a lo dispuesto en los apartados 1 y 2, no podrá ser utilizado para satisfacer el resto de colchones y los requisitos de recursos propios a los que se refiere el último párrafo del apartado 1, salvo lo dispuesto por la Comisión Nacional del Mercado de Valores en relación con los colchones para entidades de importancia sistémica y los colchones contra riesgos sistémicos.
 
-3. Las empresas de servicios de inversión presentarán a la Comisión Nacional del Mercado de Valores cuanta información esta les requiera para comprobar el cumplimiento de esta obligación y, en particular, una lista indicando las categorías de empleados cuya actividad profesional incida de manera significativa en su perfil de riesgo. Esta lista habrá de presentarse anualmente y, en todo caso, cuando se hayan producido alteraciones significativas. La Comisión Nacional del Mercado de Valores determinará la forma de presentación de dicha lista.
+5. El cumplimiento de los requisitos de colchones de capital deberá realizarse de manera individual, consolidada o subconsolidada de acuerdo con lo que se establezca reglamentariamente, con arreglo a la parte primera, Título II, del Reglamento (UE) n.º 575/2013, de 26 de junio.
 
-4. Las obligaciones contenidas en el apartado 1 de este artículo no serán de aplicación a las empresas de servicios de inversión no autorizadas a prestar el servicio auxiliar al que se refiere el artículo 63.2.a), que presten únicamente uno o varios de los servicios o actividades de inversión enumerados en el artículo 63.1.a), b), d) y g) de esta ley, y a las que no se permite tener en depósito dinero o valores de sus clientes y que, por esta razón, nunca puedan hallarse en situación deudora respecto de dichos clientes.
+6. Cuando una empresa o grupo incumpla la obligación establecida en el apartado 1, quedará sujeta a restricciones en materia de distribuciones relacionadas con el capital ordinario de nivel 1, en virtud de lo dispuesto en el artículo 48 de la Ley 10/2014, de Ordenación, Supervisión y Solvencia de Entidades de Crédito y deberá presentar a la Comisión Nacional del Mercado de Valores un plan de conservación de capital conforme a lo dispuesto en el artículo 49 de dicha Ley.
 
-> Téngase en cuenta que este artículo, añadido por el art. 3.2 del Real Decreto-ley 14/2013, de 29 de noviembre. Ref. BOE-A-2013-12529. ,será exigible a las entidades a partir del 30 de junio de 2014.
+> Se modifica por la disposición final 1.15 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
+
+> Téngase en cuenta para su aplicación las disposiciones transitorias octava a decimoprimera de la citada Ley.
 
 > Se añade por el art. 3.2 del Real Decreto-ley 14/2013, de 29 de noviembre. Ref. BOE-A-2013-12529.
 

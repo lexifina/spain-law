@@ -1,18 +1,18 @@
 ## Artículo 91 septies. Establecimiento de colegios de supervisores.
 
-1. La Comisión Nacional del Mercado de Valores establecerá como supervisor en base consolidada colegios de supervisores con el objeto de facilitar el ejercicio de las tareas que reglamentariamente se determinen en el marco de la cooperación a la que se refiere el artículo 91.1 y, de conformidad con los requisitos de confidencialidad previstos en la legislación aplicable y con el Derecho de la Unión Europea, velará, en su caso, por establecer una coordinación y una cooperación adecuadas con las autoridades competentes de terceros países.
+1. La Comisión Nacional del Mercado de Valores establecerá como supervisor en base consolidada colegios de supervisores, con el objeto de facilitar el ejercicio de las tareas que reglamentariamente se determinen en el marco de la cooperación a la que se refiere el artículo 91.1 y, de conformidad con los requisitos de confidencialidad previstos en la legislación aplicable y con el Derecho de la Unión Europea, velará, en su caso, por establecer una coordinación y una cooperación adecuadas con las autoridades competentes de terceros países.
 
 Los colegios de supervisores constituirán el marco en el que se desarrollen las siguientes tareas:
 
-a) Intercambiar información entre autoridades competentes y con la Autoridad Bancaria Europea de conformidad con el artículo 21 del Reglamento (UE) n.º 1093/2010.
+a) Intercambiar información entre autoridades competentes y con la Autoridad Bancaria Europea de conformidad con el artículo 21 del Reglamento (UE) n.º 1093/2010, de 24 de noviembre.
 
-b) Acordar la atribución voluntaria de tareas y delegación voluntaria de responsabilidades si procede;
+b) Acordar la atribución voluntaria de tareas y delegación voluntaria de responsabilidades si procede.
 
-c) Establecer programas de examen prudencial basados en una evaluación de riesgos del grupo, con arreglo al artículo 87 bis.1;
+c) Establecer programas de examen prudencial basados en una evaluación de riesgos del grupo, con arreglo al artículo 87 bis.
 
-d) Aumentar la eficiencia de la supervisión, eliminando toda duplicación de requisitos prudenciales innecesarios, concretamente en relación con las solicitudes de información a las que se refiere el apartado 8 del artículo 91 bis;
+d) Aumentar la eficiencia de la supervisión, eliminando toda duplicación de requisitos prudenciales innecesarios, concretamente en relación con las solicitudes de información a las que se refiere el artículo 91 bis.8.
 
-e) Aplicar de manera coherente los requisitos prudenciales previstos en la Directiva 2006/49/CE del Parlamento Europeo y del Consejo, de 14 de junio de 2006, sobre la adecuación del capital de las empresas de inversión y las entidades de crédito en todas las entidades de un grupo de empresas de servicios de inversión, sin perjuicio de las opciones y facultades que ofrece la legislación de la Unión;
+e) Aplicar de manera coherente los requisitos prudenciales previstos en el Reglamento (UE) n.º 575/2013, de 26 de junio, en todas las entidades de un grupo de empresas de servicios de inversión, sin perjuicio de las opciones y facultades que ofrece la legislación de la Unión Europea.
 
 f) Planificar y coordinar las actividades de supervisión, en colaboración con las autoridades competentes implicadas y, en su caso, con los bancos centrales, en situaciones de urgencia o en previsión de tales situaciones, atendiendo a la labor realizada en otros foros que puedan constituirse en este ámbito.
 
@@ -23,6 +23,8 @@ f) Planificar y coordinar las actividades de supervisión, en colaboración con 
 4. La Comisión Nacional del Mercado de Valores, como miembro de un colegio de supervisores colaborará estrechamente con el resto de autoridades competentes que lo formen. Las exigencias en materia de confidencialidad previstas en la presente Ley no impedirán el intercambio de información confidencial entre la Comisión Nacional del Mercado de Valores y el resto de autoridades competentes en el seno de los colegios de supervisores.
 
 El establecimiento y el funcionamiento de colegios de supervisores no afectarán a los derechos y deberes de la Comisión Nacional del Mercado de Valores recogidos en la presente Ley y en sus respectivos desarrollos reglamentarios.
+
+> Se modifica el apartado 1 por la disposición final 1.40 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
 
 > Se modifica la letra a) del apartado 1 por el art. 3.25 del Real Decreto-ley 10/2012, de 23 de marzo. Ref. BOE-A-2012-4091.
 

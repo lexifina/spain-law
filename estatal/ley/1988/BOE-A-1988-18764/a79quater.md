@@ -1,5 +1,7 @@
-## Artículo 79 quáter. Excepciones a las obligaciones de información y de registro.
+## Artículo 79 quáter. Servicios de inversión como parte de un producto financiero.
 
-Lo dispuesto en los dos artículos anteriores no será de aplicación cuando se ofrezca un servicio de inversión como parte de un producto financiero que ya esté sujeto a otras disposiciones de la legislación comunitaria o a estándares europeos comunes para entidades de crédito y para la actividad de crédito al consumo, referentes a la valoración de riesgos de los clientes o a los requisitos de información.
+Las obligaciones de información y registro contempladas en los artículos 79 bis y 79 ter anteriores serán de aplicación a los servicios de inversión que se ofrezcan como parte de otros productos financieros, sin perjuicio de la aplicación a estos últimos de su normativa específica, especialmente aquélla relacionada con la valoración de los riesgos y los requisitos de información a suministrar a los clientes.
+
+> Se modifica por la disposición final 1.20 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
 
 > Se añade por el art. único.50 de la Ley 47/2007, de 19 de diciembre. Ref. BOE-A-2007-21913

@@ -1,0 +1,3 @@
+## Disposición adicional decimoctava. Refuerzo del marco institucional de estabilidad financiera.
+
+En el plazo de seis meses desde la entrada en vigor de la presente Ley, el Gobierno informará a las Cortes Generales sobre las medidas a adoptar para potenciar a nivel nacional la supervisión de la estabilidad financiera, el análisis macroprudencial, la coordinación e intercambio de información en la prevención de crisis financiera, y en general la cooperación entre las autoridades con competencias en la preservación de la estabilidad financiera. Se deberá reforzar el marco institucional actual, haciendo participar de forma conjunta al Ministerio de Economía y Competitividad, al Banco de España y la Comisión Nacional del Mercado de Valores.

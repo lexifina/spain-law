@@ -4,7 +4,7 @@
 
 Tendrá la consideración de participación de control aquella que, de conformidad con el Capítulo V del Título IV y sus normas de desarrollo, obligaría a formular una oferta pública de adquisición sobre la totalidad del capital de la correspondiente sociedad.
 
-Corresponderá a la Comisión Nacional del Mercado de Valores autorizar los estatutos por los que se rijan esas entidades adquirentes y sus modificaciones, con las excepciones que se establezcan reglamentariamente, así como autorizar el nombramiento de los miembros de su Consejo de Administración y de sus Directores Generales, los cuales habrán de reunir los requisitos de las letras f), g) y h) del artículo 67.2 de la presente Ley. Si las entidades adquirentes no tuvieran su domicilio social en España y sus estatutos y modificaciones y los requisitos de los miembros del Consejo de Administración y Directores Generales hubieran sido verificados por la autoridad competente de otro Estado miembro de la Unión Europea o por la autoridad supervisora de un Estado no miembro de la Unión Europea cuyo régimen de organización y funcionamiento sea similar al de la Comisión Nacional del Mercado de Valores, corresponderá a esta última comprobar tales verificaciones.
+Corresponderá a la Comisión Nacional del Mercado de Valores autorizar los estatutos por los que se rijan esas entidades adquirentes y sus modificaciones, con las excepciones que se establezcan reglamentariamente, así como autorizar el nombramiento de los miembros de su consejo de administración y de sus directores generales, los cuales habrán de reunir los requisitos de la letra f) del artículo 67.2 de la presente Ley. Si las entidades adquirentes no tuvieran su domicilio social en España y sus estatutos y modificaciones y los requisitos de los miembros del consejo de administración y directores generales hubieran sido verificados por la autoridad competente de otro Estado miembro de la Unión Europea o por la autoridad supervisora de un Estado no miembro de la Unión Europea cuyo régimen de organización y funcionamiento sea similar al de la Comisión Nacional del Mercado de Valores, corresponderá a esta última comprobar tales verificaciones.
 
 El Gobierno, mediante Real Decreto, determinará el régimen aplicable a las ofertas de adquisición de las acciones representativas del capital de las referidas entidades, el régimen de publicidad a que han de someterse sus participaciones accionariales, el régimen al que deben sujetarse las citadas entidades para recoger en sus estatutos sociales cualquier limitación o especialidad a los derechos derivados de sus acciones y cualquier otro aspecto que sea necesario para la aplicación de la presente disposición y para garantizar la adecuada supervisión de dichas entidades.
 
@@ -13,6 +13,8 @@ El Gobierno, mediante Real Decreto, determinará el régimen aplicable a las ofe
 3. No se aplicará el régimen de participaciones significativas previsto en los artículos 31.6 y 44.bis.3 de esta Ley a las transmisiones sujetas a las autorizaciones administrativas previstas en la presente disposición.
 
 4. La supervisión de las citadas entidades corresponderá a la Comisión Nacional del Mercado de Valores.
+
+> Se modifica el tercer párrafo del apartado 1 por la disposición final 1.53 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
 
 > Se modifica por el art. 2.5 de la Ley 12/2006, de 16 de mayo. Ref. BOE-A-2006-8637
 

@@ -32,19 +32,27 @@ Cuando la Comisión Nacional del Mercado de Valores remita una solicitud de info
 
 La información que la Comisión Nacional del Mercado de Valores reciba de acuerdo con lo dispuesto en este apartado sólo se podrá utilizar en el marco de los procedimientos administrativos o judiciales relacionados específicamente con el ejercicio de sus funciones, salvo cuando la autoridad que remitió la información haya autorizado su utilización con otros fines o la transmisión a las autoridades competentes de otros Estados.
 
-8. En materia de requisitos de solvencia regulada en esta ley y sus disposiciones de desarrollo, la Comisión Nacional del Mercado de Valores facilitará a las autoridades competentes de otros Estados miembros de la Unión Europea interesadas, por propia iniciativa, cualquier información que sea esencial para el ejercicio de sus tareas de supervisión, y, cuando se le solicite, toda información pertinente a iguales fines.
+8. La Comisión Nacional del Mercado de Valores, con carácter previo a la adopción de decisiones que puedan afectar al ejercicio de las funciones de supervisión por parte de las autoridades competentes interesadas de otro Estado miembro de la Unión Europea, las consultará con dichas autoridades, facilitando la información que resulte esencial o pertinente, en atención a la importancia de la materia de que se trate.
 
-La información a que se refiere el párrafo anterior se considerará esencial cuando pueda influir materialmente en la evaluación de la solidez financiera de una empresa de servicios de inversión o de una entidad financiera de otro Estado miembro de la Unión Europea, e incluirá en especial:
+En particular, se deberá realizar la oportuna consulta, antes de adoptar las siguientes decisiones:
 
-a) La identificación de la estructura del grupo con filiales o participadas en el correspondiente Estado miembro, y de la estructura accionarial de las principales empresas de servicios de inversión de un grupo.
+a) Las contempladas en el artículo 69, con independencia del alcance del cambio en el accionariado que se vea afectado por la decisión correspondiente.
 
-b) Los procedimientos seguidos para la recogida y verificación de la información solicitada a las entidades del grupo.
+b) Los informes que se deban emitir en las operaciones de fusión, escisión o cualquier otra modificación relevante en la organización o en la gestión de una empresa de servicios de inversión.
 
-c) Evoluciones adversas en la situación de solvencia de un grupo o de sus entidades que puedan afectar gravemente a sus empresas de servicios de inversión.
+c) Las sanciones por la comisión de infracciones muy graves y graves que, a juicio de la Comisión Nacional del Mercado de Valores, se consideren de especial relevancia.
 
-d) Sanciones importantes y medidas excepcionales adoptadas, en particular la solicitud de recursos propios adicionales con arreglo a lo previsto en esta Ley y la imposición de limitaciones al uso de métodos internos de medición del riesgo operacional.
+d) Las medidas de intervención y sustitución, a las que se refiere el artículo 107.
+
+e) La solicitud de recursos propios adicionales, con arreglo a lo previsto en el artículo 87 octies.2, así como la imposición de limitaciones al uso de métodos internos de medición del riesgo operacional.
+
+En los supuestos recogidos en los letras c), d) y e) anteriores, se deberá consultar en todo caso a la autoridad de la Unión Europea responsable de la supervisión consolidada del grupo eventualmente afectado por la decisión.
+
+Con carácter excepcional, la Comisión Nacional del Mercado de Valores, podrá omitir la consulta previa a la autoridad competente interesada de otro Estado miembro de la Unión Europea, cuando concurran circunstancias de urgencia o cuando dicha consulta pudiera comprometer la eficacia de las decisiones a adoptar, debiendo informar sin demora a las citadas autoridades, en cuanto la decisión se haya adoptado.
 
 9. La Comisión Nacional del Mercado de Valores notificará a la Autoridad Europea de Valores y Mercados la existencia de un procedimiento de reclamaciones para resolución extrajudicial de los conflictos de los usuarios de servicios financieros en relación con la prestación de servicios de inversión y servicios auxiliares por empresas de inversión.
+
+> Se modifica el apartado 8 por la disposición final 1.38 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
 
 > Se modifican los apartados 1, 6 y 7 y se añaden los apartados 1 bis y 9 por el art. 3.18 a 22 del Real Decreto-ley 10/2012, de 23 de marzo. Ref. BOE-A-2012-4091.
 

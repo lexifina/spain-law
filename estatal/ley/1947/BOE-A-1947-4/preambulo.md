@@ -1,1 +1,1 @@
-Téngase en cuenta que se derogan los artículos de esta Ley que se opongan al Decreto-Ley 18/1962, de 7 de junio, según establece la disposición final 2. Ref. BOE-A-1962-11069.
+Norma derogada por la disposición derogatoria a) de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726#dd.

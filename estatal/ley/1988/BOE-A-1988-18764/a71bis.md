@@ -12,7 +12,7 @@ Transcurrido un año desde que se hubiera notificado a la empresa de servicios d
 
 En caso de cierre, la sucursal deberá comunicar a la Comisión Nacional del Mercado de Valores esta situación al menos con tres meses de antelación a la fecha prevista para ello.
 
-La Comisión Nacional del Mercado de Valores asumirá la responsabilidad de asegurarse que los servicios prestados por la sucursal en territorio español cumplen las obligaciones establecidas en los artículos 79 bis, 79 ter, 79 sexies, 59 bis y las obligaciones establecidas en el Capítulo III del Título XI y las medidas adoptadas de conformidad con los mismos. Consiguientemente, la Comisión Nacional del Mercado de Valores tendrá derecho a examinar las medidas adoptadas por la sucursal y a pedir las modificaciones estrictamente necesarias para garantizar el cumplimiento de lo dispuesto en tales artículos y en las medidas adoptadas de conformidad con los mismos, respecto de los servicios o actividades prestados por la sucursal en territorio español.
+La Comisión Nacional del Mercado de Valores asumirá la responsabilidad de asegurarse que los servicios prestados por la sucursal en territorio español cumplen las obligaciones establecidas en los artículos 59 bis, 79, 79 bis, 79 ter, 79 sexies y las obligaciones establecidas en el Capítulo III del Título XI y las medidas adoptadas de conformidad con los mismos. Consiguientemente, la Comisión Nacional del Mercado de Valores tendrá derecho a examinar las medidas adoptadas por la sucursal y a pedir las modificaciones estrictamente necesarias para garantizar el cumplimiento de lo dispuesto en tales artículos y en las medidas adoptadas de conformidad con los mismos, respecto de los servicios o actividades prestados por la sucursal en territorio español.
 
 Asimismo, la Comisión Nacional del Mercado de Valores asumirá el control de la obligación establecida en la letra e) del apartado 1 del artículo 70 ter en cuanto al registro de las operaciones realizadas por la sucursal, sin perjuicio de que la autoridad competente del Estado de origen tenga un acceso directo a ese registro.
 
@@ -27,5 +27,7 @@ Cuando la empresa de servicios de inversión recurra a un agente establecido en 
 3. La realización en España por primera vez de actividades o servicios de inversión, y servicios auxiliares, en régimen de libre prestación de servicios, por empresas de servicios de inversión autorizadas en otro Estado miembro de la Unión Europea, podrá iniciarse una vez que la Comisión Nacional del Mercado de Valores haya recibido una comunicación de la autoridad competente del Estado miembro de origen de la entidad, en los términos indicados en el apartado 3 del artículo 71.
 
 Cuando la empresa de inversión tenga la intención de utilizar agentes vinculados, la Comisión Nacional del Mercado de Valores podrá solicitar a la autoridad competente del Estado de origen la comunicación, en un plazo de tiempo razonable, de la identidad de los agentes vinculados que la entidad tenga la intención de utilizar en el territorio español. La Comisión Nacional del Mercado de Valores podrá decidir hacer pública esta información.
+
+> Se modifica el párrafo quinto del apartado 2 por la disposición final 1.17 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
 
 > Se añade por el art. único.46 de la Ley 47/2007, de 19 de diciembre. Ref. BOE-A-2007-21913

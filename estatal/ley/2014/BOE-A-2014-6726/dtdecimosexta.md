@@ -1,0 +1,3 @@
+## Disposición transitoria decimosexta. Supervisión de sucursales de entidades de crédito de Estados no miembros de la Unión Europea.
+
+En tanto no tenga lugar el desarrollo reglamentario al que se refiere el artículo 60.1, las sucursales de entidades de crédito de Estados no miembros de la Unión Europea establecidas en España seguirán sujetas a la normativa de solvencia que les resultara de aplicación hasta la entrada en vigor de esta Ley, en lo que no sea contrario a lo dispuesto en el Reglamento 575/2013 del Parlamento Europeo y del Consejo, de 26 de junio de 2013, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión y por el que se modifica el Reglamento (UE) n.º 648/2012.

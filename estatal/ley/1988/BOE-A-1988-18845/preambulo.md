@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 185, de 4 de agosto de 1989. Ref. BOE-A-1989-18721
+Norma derogada por la disposición derogatoria.e) de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726#dd.
