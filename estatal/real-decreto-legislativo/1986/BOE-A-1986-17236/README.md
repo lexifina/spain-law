@@ -8,25 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2014-06-28 by BOE-A-2014-6726. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [preambulo](preambulo.md)
-- [pr](pr.md)
-- [CAPITULO I](ci.md)
-- [Artículo 1](a1.md)
-- [CAPITULO II](cii.md)
-- [Artículo 2](a2.md)
-- [CAPITULO III](ciii.md)
-- [Artículo 3](a3.md)
-- [Artículo 4](a4.md)
-- [Artículo 5](a5.md)
-- [CAPITULO IV](civ.md)
-- [Artículo 6](a6.md)
-- [CAPITULO V](cv.md)
-- [Artículo 7](a7.md)
-- [DISPOSICIONES TRANSITORIAS](dt.md)
-- [Primera](primera.md)
-- [Segunda](segunda.md)
-- [DISPOSICIÓN DEROGATORIA](dd.md)
-- [firma](firma.md)
-- [(INFORMACIÓN RELACIONADA)](informacionrelacionada.md)
+- [BOE publisher notice](preambulo.md)
