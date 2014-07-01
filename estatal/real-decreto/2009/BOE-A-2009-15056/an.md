@@ -18,6 +18,10 @@ A) Definiciones
 
 7. Condiciones de prueba.–Se entiende por «condiciones de prueba» las presiones de prueba y de rotura aplicadas hidráulicamente a 20 ºC (± 5 ºC).
 
+7 bis. Sustancia.–Se entiende por "sustancia": un elemento químico y sus compuestos naturales o los obtenidos por algún proceso industrial, incluidos los aditivos necesarios para conservar su estabilidad y las impurezas que inevitablemente produzca el procedimiento, con exclusión de todos los disolventes que puedan separarse sin afectar a la estabilidad de la sustancia ni modificar su composición (según la definición recogida en el artículo 2. 7 del Reglamento (CE) n.º 1272/2008 del Parlamento y del Consejo, de 16 de diciembre de 2008).
+
+7 ter. Mezcla.–se entiende por "mezcla": una mezcla o solución compuesta por dos o más sustancias (según la definición recogida en el artículo 2.8 del Reglamento (CE) n.º 1272/2008 del Parlamento y del Consejo, de 16 de diciembre de 2008).
+
 8. Componentes inflamables.–Los contenidos de los aerosoles se considerarán inflamables si contienen algún componente que esté clasificado como «inflamable»:
 
 a) se entiende por «líquido inflamable» un líquido con un punto de inflamación (punto de encendido) no superior a 93 ºC;
@@ -96,27 +100,27 @@ b) La válvula, en condiciones normales de almacenamiento y de transporte, deber
 
 c) La resistencia mecánica del generador de aerosol no deberá poder verse afectada por la acción de las sustancias que contenga el recipiente, incluso durante un periodo prolongado de almacenamiento.
 
-2. Etiquetado.–Sin perjuicio de las disposiciones de las directivas sobre la clasificación, el embalaje y el etiquetado de sustancias y preparados peligrosos y al Reglamento (CE) n.º 1272/2008, en particular por lo que respecta al peligro para la salud y el medio ambiente, todo generador de aerosol deberá llevar de manera visible, legible e indeleble las menciones siguiente:
+2. Etiquetado.–Sin perjuicio de lo dispuesto en el Reglamento (CE) n.º 1272/2008 del Parlamento y del Consejo, de 16 de diciembre de 2008, los generadores de aerosoles deberán llevar de forma visible, legible e indeleble las siguientes menciones:
 
-a) Cualquiera que sea su contenido: «Recipiente a presión. Protéjase de los rayos solares y evítese exponerlo a temperaturas superiores a 50 ºC. No perforar ni quemar, incluso después de usado».
+a) Cualquiera que sea su contenido:
 
-b) Cuando el aerosol esté clasificado como «inflamable» o «extremadamente inflamable» de acuerdo con los criterios del apartado A) 9:
+1.º El código de la indicación de peligro H229: "Envase a presión. Puede reventar si se calienta",
 
-El símbolo de la llama, de conformidad con el modelo del anexo II del Real Decreto 363/1995, de 10 de marzo, sobre clasificación, envasado y etiquetado de sustancias peligrosas.
+2.º Los consejos de prudencia P210 y P251 contemplados en la parte 1, tabla 6.2, del anexo IV del Reglamento (CE) n.º 1272/2008 del Parlamento y del Consejo, de 16 de diciembre de 2008.
 
-La indicación de «inflamable» o «extremadamente inflamable», dependiendo de la clasificación del aerosol como «inflamable» o «extremadamente inflamable».
+3.º Los consejos de prudencia P410 y P412 contemplados en la parte 1, tabla 6.4, del anexo IV del Reglamento (CE) n.º 1272/2008 del Parlamento y del Consejo, de 16 de diciembre de 2008.
 
-3. Indicaciones específicas de utilización.–Sin perjuicio de las disposiciones de las directivas relativas a la clasificación, embalaje y etiquetado de sustancias y preparados peligrosos y al Reglamento (CE) n.º 1272/2008, especialmente en lo que se refiere al peligro para la salud o el medio ambiente, todo generador de aerosol deberá llevar de manera visible, legible e indeleble las menciones siguientes:
+4.º El consejo de prudencia P102 contemplado en la parte 1, tabla 6.1 del anexo IV del Reglamento (CE) n.º 1272/2008 del Parlamento y del Consejo, de 16 de diciembre de 2008, cuando el generador de aerosol sea un producto de consumo, y
 
-a) Cualquiera que sea su contenido, todas las precauciones adicionales de manejo que adviertan a los consumidores de los peligros específicos del producto; si el generador de aerosoles lleva unas instrucciones de empleo aparte, en ellas deberán constar también dichas precauciones de manejo;
+5.º Cualquier precaución de uso adicional que advierta a los consumidores de los peligros específicos del producto; si el generador de aerosol lleva unas instrucciones de manejo aparte, en ellas deberán constar también dichas precauciones de uso.
 
-b) Cuando el aerosol este clasificado como «inflamable» o «extremadamente inflamable» de acuerdo con los criterios del apartado A) 9, las siguientes advertencias:
+b) Si el aerosol está clasificado como "no inflamable" de acuerdo con los criterios del apartado A.9 del anexo, la palabra de advertencia "atención".
 
-Las frases de seguridad S2 y S16 establecidas en el anexo IV del Real Decreto 363/1995, de 10 de marzo, sobre clasificación, envasado y etiquetado de sustancias peligrosas.
+c) Si el aerosol esté clasificado como "inflamable" de acuerdo con los criterios del apartado A.9 del anexo, la palabra de advertencia "atención" y las demás indicaciones que deben figurar en las etiquetas de los "Aerosoles inflamables de la categoría 2" a que se hace referencia en la tabla 2.3.2 del anexo I del Reglamento (CE) n.º 1272/2008 del Parlamento y del Consejo, de 16 de diciembre de 2008.
 
-No vaporizar hacia una llama o cuerpo incandescente.
+d) Si el aerosol esté clasificado como "extremadamente inflamable" de acuerdo con los criterios del apartado A.9 del anexo, la palabra de advertencia "peligro" y las demás indicaciones que deben figurar en las etiquetas de los "Aerosoles inflamables de la categoría 1" contemplados en la tabla 2.3.2 del anexo I del Reglamento (CE) n.º 1272/2008 del Parlamento y del Consejo, de 16 de diciembre de 2008.
 
-4. Volumen de la fase líquida. El volumen de la fase líquida a 50 ºC no deberá superar el 90 % de la capacidad neta.
+3. Volumen de la fase líquida.–A 50 ºC, el volumen de la fase líquida del generador de aerosol acondicionado no deberá sobrepasar el 90% de la capacidad neta.
 
 C) Disposiciones especiales relativas a los generadores de aerosoles cuyo recipiente sea de metal
 
@@ -556,3 +560,5 @@ b) la altura máxima de la llama, en cm;
 c) la duración de la llama, en s;
 
 d) la masa del producto sometido a prueba.
+
+> Se modifica por los artículos único.2 y 3 del Real Decreto 473/2014, de 13 de junio. Ref. BOE-A-2014-6798.
