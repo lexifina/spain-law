@@ -2,77 +2,83 @@
 
 1. Vehículos automóviles y sus partes y piezas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_006.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_008.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_009.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_009.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_010.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_013.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_014.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_015.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_016.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_016.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_017.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_017.png)
 
 2. Vehículos agrícolas o forestales
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_018.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_018.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_019.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_019.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_020.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_020.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_021.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_021.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_022.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_022.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_023.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_023.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_024.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_024.png)
 
-3. Vehículos de 2 ó 3 ruedas y cuadriciclos
+3. Vehículos de 2 ó 3 ruedas y cuatriciclos
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_025.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_025.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_026.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_026.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_027.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_027.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_028.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_028.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_029.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_030.png)
 
 4. Varios
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_029.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_031.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_030.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_032.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_031.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_033.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_032.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_034.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/255/11128_033.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_035.png)
+
+> Se modifica por la Orden IET/1105/2014, de 26 de junio. Ref. BOE-A-2014-6799.
 
 > Se modifica por la Orden IET/1951/2013, de 22 de octubre. Ref. BOE-A-2013-11128.
 
