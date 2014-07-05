@@ -56,6 +56,8 @@ Lo dispuesto en el párrafo anterior no será de aplicación para el supuesto de
 
 5. La aplicación de estas reducciones será incompatible con la de cualquier otro beneficio en la cotización a la Seguridad Social por el mismo contrato, con independencia de los conceptos a los que tales beneficios pudieran afectar.
 
+5 bis. Lo dispuesto en los apartados anteriores será también de aplicación a las personas que se incorporen como socios trabajadores o de trabajo de las cooperativas, así como a los que se incorporen como socios trabajadores de las sociedades laborales.
+
 6. La aplicación de estas reducciones será objeto de control y revisión por la Tesorería General de la Seguridad Social y por la Inspección de Trabajo y Seguridad Social, en el ejercicio de las funciones que tienen atribuidas.
 
 7. En los supuestos de aplicación indebida de la respectiva reducción, por incumplir las condiciones establecidas en este artículo, procederá el reintegro de las cantidades dejadas de ingresar con el recargo y el interés de demora correspondientes, conforme a lo establecido en la normativa recaudatoria de la Seguridad Social.
@@ -71,3 +73,5 @@ En caso de incumplimiento del requisito previsto en el apartado 2.d), quedará s
 En los supuestos de reintegro por incumplimiento del requisito previsto en el apartado 2.d), que se llevarán a cabo conforme a lo establecido en la normativa recaudatoria de la Seguridad Social, no procederá exigir recargo e interés de demora.
 
 La obligación de reintegro prevista en este apartado se entiende sin perjuicio de lo dispuesto en el texto refundido de la Ley sobre infracciones y sanciones en el orden social.
+
+> Se añade el apartado 5 bis por el art. 120 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.

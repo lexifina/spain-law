@@ -1,6 +1,12 @@
 ## Artículo 63 bis. Certificación de los gestores de red de transporte.
 
-1. Los gestores de red de transporte, incluyendo los gestores de red independientes, deberán obtener previamente una certificación de cumplimiento de los requisitos de separación de actividades otorgada por la Comisión Nacional de Energía de acuerdo con el procedimiento recogido en los apartados siguientes.
+1. Las sociedades mercantiles que actúen como gestores de red de transporte o gestores de red independientes serán autorizadas y designadas como tales por el Ministro de Industria, Energía y Turismo a solicitud de las interesadas.
+
+Los gestores de red de transporte, incluyendo los gestores de red independientes, deberán obtener previamente una certificación de cumplimiento de los requisitos de separación de actividades otorgada por la Comisión Nacional de los Mercados y la Competencia en relación con el cumplimiento de los requisitos de separación de actividades establecidos en el artículo 63.3 y de acuerdo con el procedimiento recogido en los apartados siguientes.
+
+La Comisión Nacional de los Mercados y la Competencia controlará que la sociedad designada como gestor de la red de transporte se mantiene en el cumplimiento de los requisitos establecidos en el artículo 63.3.
+
+Las designaciones de los gestores de red de transporte se notificarán a la Comisión Europea a efectos de su publicación en el ''Diario Oficial de la Unión Europea''.
 
 2. Las empresas que pretendan ser gestores de una instalación perteneciente a la red troncal deberán solicitar la citada certificación a la Comisión Nacional de Energía.
 
@@ -19,5 +25,7 @@ De no emitir un dictamen la Comisión Europea en el plazo previsto al efecto en 
 7. En cualquier fase del procedimiento la Comisión Nacional de Energía y la Comisión Europea podrán solicitar a la empresa transportista o a las empresas que realicen actividades de producción o comercialización cualquier información útil para el cumplimiento de las tareas recogidas en este artículo.
 
 La Comisión Nacional de Energía garantizará la confidencialidad de la información sensible a efectos comerciales.
+
+> Se modifica el apartado 1 por el art. 67.4 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
 
 > Se añade por el art. 2.11 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.

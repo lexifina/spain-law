@@ -199,4 +199,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición final quinta](quinta.md)
 - [Disposición transitoria primera](primera-2.md)
 - [Disposición transitoria segunda](segunda-2.md)
+- [Disposición transitoria tercera](tercera-2.md)
 - [firma](firma.md)

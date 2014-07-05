@@ -9,3 +9,5 @@ Todas las reclamaciones de responsabilidad interpuestas contra «Aena Aeropuerto
 3. Comenzado el ejercicio efectivo de sus obligaciones y funciones, «Aena Aeropuertos, S.A.» se subrogará en todos los contratos de cualquier naturaleza relacionados con la gestión aeroportuaria que haya suscrito la entidad pública empresarial AENA, subsistiendo de pleno derecho las garantías otorgadas con anterioridad.
 
 4. Las concesiones demaniales otorgadas por la entidad pública empresarial AENA sobre bienes de dominio público aeroportuario se transformarán en contratos de arrendamiento, manteniéndose las mismas condiciones, términos y plazos vigentes siempre que preste su conformidad el concesionario en el plazo otorgado al efecto por «Aena Aeropuertos, S.A.» que no podrá ser inferior a 30 días. Si el concesionario no se mostrase conforme o no contestase en plazo quedará extinguida la concesión y se procederá a su liquidación.
+
+> Téngase en cuenta que la sociedad mercantil estatal «Aena Aeropuertos, S.A.», pasa a denominarse «Aena, S.A.», según establece el art. 18 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.

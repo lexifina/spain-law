@@ -208,6 +208,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional trigésima sexta](datrigesimasexta.md)
 - [Disposición adicional trigésima séptima](datrigesimaseptima.md)
 - [Disposición adicional trigésima octava](datrigesimaoctava.md)
+- [Disposición adicional trigésima novena](datrigesimanovena.md)
+- [Disposición adicional cuadragésima](dacuadragesima.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición transitoria tercera](dttercera.md)
