@@ -1,0 +1,17 @@
+La Ley 8/2003, de 24 de abril, de Sanidad Animal, establece en sus artículos 18 y 24 que, cuando se confirme la existencia de una enfermedad de declaración obligatoria o sujeta a restricciones intracomunitarias o internacionales o se declare oficialmente la extinción de una enfermedad, el Ministerio de Agricultura, Alimentación y Medio Ambiente procederá a comunicar en la forma y plazos establecidos tal incidencia a las autoridades sanitarias de la Unión Europea, así como a terceros países y organismos internacionales con quienes se hubiera concertado tal eventualidad.
+
+El Real Decreto 617/2007, de 16 de mayo, por el que se establece la lista de las enfermedades de los animales de declaración obligatoria y se regula su notificación, da cumplimiento a lo dispuesto en la Directiva 82/894/CEE del Consejo, de 21 de diciembre de 1982, relativa a la notificación de las enfermedades de los animales en la Comunidad, y a las obligaciones que España tiene como país miembro de la Organización Mundial de Sanidad Animal (OIE). Posteriormente, la Orden Ministerial ARM/831/2009, de 27 de marzo, por la que se modifican los anexos I y II del Real Decreto 617/2007, de 16 de mayo, fue publicada con objeto de adaptar la lista de enfermedades de declaración obligatoria a las nuevas exigencias comunitarias y a los criterios y periodos de notificación de la Organización Mundial de Sanidad Animal.
+
+La publicación de la Decisión de Ejecución 2012/737/UE, de la Comisión, de 27 de noviembre de 2012, por la que se modifican los anexos I y II de la Directiva 82/894/CEE, así como los recientes cambios realizados por el Comité Internacional de la OIE, de forma que se modifica la lista de enfermedades de declaración obligatoria de la Comisión y a la OIE y los criterios para la notificación de las mismas, hace que sea preciso modificar el Real Decreto 617/2007, de 16 de mayo, con objeto de adaptarlo a las nuevas normas internacionales. Con ello, se completa el marco de notificación de enfermedades de los animales, incluidas las enfermedades emergentes tal y como se definen en los Glosarios del Código Sanitario para los Animales Terrestres, y del Código Sanitario para los Animales Acuáticos, de la mencionada Organización Mundial de Sanidad Animal.
+
+Razones de seguridad jurídica, dado el alcance de las modificaciones a introducir en el Real Decreto 617/2007, de 16 de mayo, aconsejan la aprobación de un nuevo real decreto.
+
+Asimismo, desde la década de los 90 del siglo pasado, España es un país libre de perineumonía contagiosa bovina y oficialmente indemne de leucosis enzoótica bovina, por lo que procede modificar el Real Decreto 2611/96, de 20 de diciembre, por el que se regulan los programas nacionales de erradicación de enfermedades de los animales, respecto al movimiento de los animales a ferias o mercados, suprimiendo la necesidad de las pruebas frente a dichas enfermedades.
+
+La presente disposición ha sido sometida a consulta de las comunidades autónomas y de las entidades representativas de los intereses de los sectores afectados.
+
+Este real decreto se dicta en virtud de la habilitación contenida en la disposición final quinta de la Ley 8/2003, de 24 de abril, de Sanidad Animal.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Alimentación y Medio Ambiente, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 20 de junio de 2014,
+
+DISPONGO:
