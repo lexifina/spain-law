@@ -268,7 +268,7 @@ ORGANISMOS NOCIVOS DE CUYA PRESENCIA SE TIENE CONSTANCIA EN LA COMUNIDAD Y CUYOS
 
 a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 
-0.1 Diabrotica virgifera virgifera Le Conte.
+0.1 (Suprimido).
 
 1. Globodera pallida (Stone) Behrens
 
@@ -328,6 +328,8 @@ b) Virus y organismos afines
 | --- | --- |
 | 1. Beet necrotic yellow vein virus. | F (Bretaña), FIN, IRL, P (Azores), UK (Irlanda del Norte).». |
 | 2. Tomato spotted wilt virus. | S, FIN. |
+
+> Se modifica por el art. único. de la Orden AAA/1205/2014, de 11 de julio. Ref. BOE-A-2014-7372
 
 > Se modifica por el art. único.1 de la Orden ARM/1671/2009, de 16 de junio. Ref. BOE-A-2009-10428
 
