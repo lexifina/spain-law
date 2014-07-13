@@ -1,7 +1,9 @@
 ## Artículo 494.
 
-El Ministro de Justicia, será competente para el nombramiento de los funcionarios de carrera. Asimismo, será competente para acordar la pérdida de la condición de funcionario, y en su caso la rehabilitación, en los supuestos contemplados en esta ley orgánica en la forma y mediante el procedimiento que reglamentariamente se determine, atendiendo a las circunstancias y entidad del delito o falta cometida.
+1. El Ministro de Justicia será competente para el nombramiento de los funcionarios de carrera. Asimismo, será competente para acordar la pérdida de la condición de funcionario, y en su caso la rehabilitación, en los supuestos contemplados en esta Ley Orgánica en la forma y mediante el procedimiento que reglamentariamente se determine, atendiendo a las circunstancias y entidad del delito o falta cometida.
 
-La jubilación voluntaria, forzosa, o por incapacidad permanente, así como la posible prórroga de permanencia en el servicio activo será acordada por el órgano competente del Ministerio de Justicia en todo caso.
+2. La jubilación voluntaria, forzosa, o por incapacidad permanente, así como la posible prórroga de permanencia en el servicio activo será acordada por el órgano competente del Ministerio de Justicia o, en su caso, de la Comunidad Autónoma con competencias asumidas. Ello sin perjuicio de que la rehabilitación procedente de jubilación por incapacidad permanente para el personal al servicio de la Administración de Justicia será acordada, en todo caso, por el Ministerio de Justicia, en la forma y de acuerdo con el procedimiento que se establezca reglamentariamente.
+
+> Se modifica por el art. único.5 de la Ley Orgánica 4/2014, de 11 de julio. Ref. BOE-A-2014-7368.
 
 > Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

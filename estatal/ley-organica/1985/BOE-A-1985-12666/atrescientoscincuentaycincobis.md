@@ -1,0 +1,11 @@
+## Artículo 355 bis.
+
+1. Los destinos cuyos titulares se encuentren en situación de servicios especiales se podrán cubrir por los mecanismos ordinarios de sustitución, mediante comisiones de servicio con o sin relevación de funciones o a través de los mecanismos ordinarios de provisión, incluso con las promociones pertinentes, para el tiempo que permanezcan los titulares en la referida situación.
+
+2. Si la vacante se cubre mediante los mecanismos ordinarios de provisión, quienes ocupen los referidos destinos quedarán, cuando se reintegre a la plaza su titular, adscritos al Tribunal colegiado en que se hubiera producido la reserva o, si se tratase de un Juzgado, a disposición del Presidente del Tribunal Superior de Justicia correspondiente y sin merma de las retribuciones que vinieren percibiendo. Mientras permanezcan en esta situación prestarán sus servicios en los puestos que determinen las respectivas Salas de Gobierno, devengando las indemnizaciones correspondientes por razón del servicio cuando éstos se prestaren en lugar distinto del de su residencia, que permanecerá en el de la plaza reservada que hubiere ocupado.
+
+Mientras desempeñan la plaza reservada, una vez transcurrido un año desde que accedieran a la misma, o en cualquier momento cuando se encuentren en situación de adscripción, podrán acceder en propiedad a cualesquiera destinos por los mecanismos ordinarios de provisión y promoción. Ocuparán definitivamente la plaza reservada que sirvieren cuando vaque por cualquier causa. Cuando queden en situación de adscritos, serán destinados a la primera vacante que se produzca en el Tribunal colegiado de que se trate o en los Juzgados del mismo orden jurisdiccional del lugar de la plaza reservada, a no ser que se trate de las plazas de Presidente o legalmente reservadas a Magistrados procedentes de pruebas selectivas, si no reunieren esta condición.
+
+3. Quienes hallándose en una situación administrativa distinta del servicio activo obtuvieran mediante concurso una plaza ofertada al amparo de lo dispuesto en este artículo, necesariamente deberán reincorporarse al servicio activo para proceder al desempeño efectivo de funciones judiciales en dicha plaza.
+
+> Se añade por el art. único.2 de la Ley Orgánica 4/2014, de 11 de julio. Ref. BOE-A-2014-7368.

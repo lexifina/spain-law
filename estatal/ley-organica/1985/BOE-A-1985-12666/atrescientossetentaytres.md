@@ -10,7 +10,7 @@ En los supuestos de adopción internacional, cuando sea necesario el desplazamie
 
 Finalizada la licencia, se elevará al Consejo General del Poder Judicial memoria de los trabajos realizados, y si su contenido no fuera bastante para justificarla, se compensará la licencia con el tiempo que se determine de las vacaciones del interesado.
 
-4. También podrán disfrutar de hasta tres días de permiso en el año natural, separada o acumuladamente. Los superiores respectivos solo podrán denegarlos por necesidad del servicio.
+4. También podrán disfrutar de hasta cinco días de permiso en el año natural, separada o acumuladamente. Los superiores respectivos solo podrán denegarlos por necesidad del servicio.
 
 5. Por el fallecimiento, accidente o enfermedad graves del cónyuge, de persona a la que estuviese unido por análoga relación de afectividad o de un familiar dentro del primer grado de consanguinidad o afinidad, los jueces o magistrados podrán disponer de un permiso de tres días hábiles, que podrá ser de hasta cinco días hábiles cuando a tal efecto sea preciso un desplazamiento a otra localidad, en cuyo caso será de cinco días hábiles.
 
@@ -23,6 +23,8 @@ Estos permisos quedarán reducidos a dos y cuatro días hábiles, respectivament
 8. Los jueces y magistrados podrán interesar del Presidente del que dependan, ausentarse de la sede del órgano judicial en el que estuviesen destinados hasta un máximo de tres días al mes y no más de nueve al año, para el estudio o resolución de causas de especial complejidad, hacer frente a situaciones de acumulación de asuntos cuando ello no fuere atribuible al rendimiento del solicitante, o cuando otras circunstancias así lo aconsejaren, debiendo comunicarlo con, al menos, tres días de antelación. Dicha autorización solo se denegará, motivadamente, cuando coincida con señalamientos, vistas o deliberaciones o no queden cubiertas las necesidades del servicio.
 
 Para la concesión de estas autorizaciones no será obstáculo el disfrute en el mismo mes de los permisos a los que se refiere el número 4 de este precepto.
+
+> Se modifica el apartado 4 por el art. único.3 de la Ley Orgánica 4/2014, de 11 de julio. Ref. BOE-A-2014-7368.
 
 > Se modifican los apartados 3 y 4 y se añade el 8 por el art. único.19 a 21 de la Ley Orgámica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.
 
