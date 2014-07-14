@@ -8,7 +8,7 @@
 
 La adscripción se hará por tres años y podrá ser renovada antes de su vencimiento hasta por otros dos períodos iguales, mediante la propuesta y por la mayoría requeridas en el párrafo anterior.
 
-4. La adscripción al Tribunal de los letrados a los que se refiere el artículo 62.2.a) de este Reglamento y la de quien pueda pasar a desempeñar el cargo de Secretario general adjunto no quedarán sujetas a las condiciones temporales ni al régimen de renovaciones establecidos en el apartado anterior y se mantendrán, al menos, durante todo el tiempo en que se desempeñe la respectiva función o cargo. Al cesar en cualquiera de estos cometidos, unos u otros letrados podrán ser designados de nuevo como colaboradores de determinado Magistrado o bien mantenerse al servicio general del Tribunal, si hubiere lugar a ello conforme a lo dispuesto en el párrafo segundo del apartado 3 que antecede.
+4. La adscripción al Tribunal de los letrados a los que se refiere el artículo 62.2.a) de este Reglamento y la de quienes puedan pasar a desempeñar el cargo de Secretario general o de Secretario general adjunto no quedarán sujetas a las condiciones temporales ni al régimen de renovaciones establecidos en el apartado anterior y se mantendrán, al menos, durante todo el tiempo en que se desempeñe la respectiva función o cargo. Al cesar en cualquiera de estos cometidos, unos u otros letrados podrán ser designados de nuevo como colaboradores de determinado Magistrado o bien mantenerse al servicio general del Tribunal, si hubiere lugar a ello conforme a lo dispuesto en el párrafo segundo del apartado 3 que antecede.
 
 5. Los letrados adscritos temporalmente, mientras presten sus servicios al Tribunal, tendrán los derechos y deberes propios de los miembros del Cuerpo, en todo aquello que sea compatible con la eventualidad de sus funciones.
 
@@ -19,6 +19,8 @@ a) En cualquier momento, por acuerdo del Pleno a propuesta del Presidente.
 b) Por vencimiento del periodo trienal de adscripción o por el cese en la función o en el cargo a los que se refiere el apartado 4 de este artículo, cuando no haya lugar a su continuidad al servicio del Tribunal conforme a los términos allí establecidos. En el caso de los letrados de los que se hace mención en el artículo 62.2.a) de este Reglamento, su cese, de resultar procedente en tales términos, se verificará a los dos meses de que haya concluido su colaboración con determinado Magistrado.
 
 c) Por jubilación o pérdida, en su caso, de la condición de funcionario.
+
+> Se modifica el apartado 4 por el art. único.7 del Acuerdo de 11 de julio de 2014 . Ref. BOE-A-2014-7407.
 
 > Se modifican los apartados 3 a 6 por el art. único.1 del Acuerdo de 19 de noviembre de 2012. Ref. BOE-A-2012-14406.
 
