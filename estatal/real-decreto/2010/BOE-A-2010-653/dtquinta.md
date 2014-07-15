@@ -9,6 +9,8 @@
 | Oficiales de: Cuerpos de Intendencia y de Ingenieros del Ejército de Tierra, de la Armada y del Ejército del Aire. Cuerpos Comunes de las Fuerzas Armadas excepto la especialidad de Medicina del Cuerpo Militar de Sanidad y la de Dirección del Cuerpo de Músicas Militares. | Con titulación | 33 | 32 | 31 |
 | Suboficiales Cuerpos Generales y de Infantería de Marina. | Sin titulación | 23 | 22 | 22 |
 
+> Téngase en cuenta que se declara la nulidad del límite de edad máxima para participar en los procesos de selección para el ingreso en los centros docentes militares de formación con el fin de incorporarse, por ingreso directo, a las escalas de oficiales de los Cuerpos de Intendencia del Ejército de Tierra, de la Armada y del Ejército de Aire, del Cuerpo Jurídico Militar y del Cuerpo Militar de Intervención, por Sentencia del TS de 9 de mayo de 2014. Ref. BOE-A-2014-7473.
+
 2. En las convocatorias correspondientes a los años 2010, 2011 y 2012, los militares de carrera de las escalas técnicas de los Cuerpos de Ingenieros del Ejército de Tierra, de la Armada y del Ejército del Aire que posean la titulación requerida conforme a lo indicado en el artículo 17.2 del reglamento que se aprueba, podrán acceder por promoción para cambio de escala, a las plazas que se determinen en la provisión anual, quedando exentos de los límites de edad, así como del tiempo de servicios exigido en su escala de origen.
 
 3. (Sin contenido)
@@ -27,6 +29,8 @@
 | --- | --- | --- |
 | 2010 | 2011 | 2012 |
 | De Suboficiales Cuerpos Generales y de Infantería de Marina. | Sin titulación técnico superior. | 33 | 33 | 32 |
+
+> Se declara la nulidad del límite de edad máxima para participar en los procesos de selección para el ingreso en los centros docentes militares de formación con el fin de incorporarse, por ingreso directo, a las escalas de oficiales de los Cuerpos de Intendencia del Ejército de Tierra, de la Armada y del Ejército de Aire, del Cuerpo Jurídico Militar y del Cuerpo Militar de Intervención, por Sentencia del TS de 9 de mayo de 2014. Ref. BOE-A-2014-7473.
 
 > Se deja sin contenido el apartado 3 por el art. 1.3 del Real Decreto 378/2014, de 30 de mayo. Ref. BOE-A-2014-5739.
 
