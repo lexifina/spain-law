@@ -4,35 +4,35 @@
 
 | Modelo | Plazo |
 | --- | --- |
-| 100 | Desde el día 2 de mayo hasta el 23 de junio. |
-| 102 | Desde el día 2 de mayo hasta el 23 de junio. |
-| 108 | Desde el 24 de abril de 2013 hasta el 26 de junio de 2013, ambos inclusive. |
-| 111 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
-| 115 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
-| 117 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
-| 123 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
-| 124 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
-| 126 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
-| 128 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
+| 100 | Desde el día 2 de mayo hasta el 25 de junio. |
+| 102 | Desde el día 2 de mayo hasta el 25 de junio. |
+| 111 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. |
+| Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero. |
+| 115 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. |
+| Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero. |
+| 117 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. |
+| Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero. |
+| 123 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. |
+| Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero. |
+| 124 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. |
+| Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero. |
+| 126 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. |
+| Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero. |
+| 128 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero. |
 | 130 | Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. |
 | 131 | Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. |
 | 136 | Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. |
 | 200 (*) | Desde el día 1 hasta el 20 del mes de julio. |
 | 202 | Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre. |
 | 206 (*) | Desde el día 1 hasta el 20 del mes de julio. |
-| 208 | Desde el 1 de julio de 2013 hasta el 20 de julio de 2013, ambos inclusive. |
-| 210 | En el caso de tipo de renta 02 (rentas imputadas de inmuebles urbanos): desde el día 1 de enero hasta el 23 de diciembre; Resto de tipo de rentas, excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles): desde el día 1 hasta el día 15 de los meses de abril, julio, octubre y enero. |
+| 210 | En el caso de tipo de renta 02 (rentas imputadas de inmuebles urbanos): desde el día 1 de enero hasta el 23 de diciembre. Resto de tipo de rentas, excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles): desde el día 1 hasta el día 15 de los meses de abril, julio, octubre y enero. |
 | 213 | Desde el día 1 hasta el 25 del mes de enero. |
-| 216 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
+| 216 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero. |
 | 220 (*) | Desde el día 1 hasta el 20 del mes de julio. |
 | 222 | Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre. |
-| 230 | Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre y enero. |
-| 303 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre, diciembre, y desde el día 1 hasta el 25 del mes de enero. |
-| 310 | (Suprimido) |
-| 311 | (Suprimido) |
-| 353 | Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, septiembre, octubre, noviembre y diciembre, y desde el día 1 hasta el 25 del mes de enero. |
-| 370 | (Suprimido) |
-| 371 | (Suprimido) |
+| 230 | Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero. |
+| 303 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre, y desde el día 1 hasta el 25 del mes de enero. |
+| 353 | Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre, y desde el día 1 hasta el 25 del mes de enero. |
 | 430 | Desde el día 1 hasta el 15 del mes siguiente a la finalización del correspondiente periodo de liquidación mensual, excepto la correspondiente al mes de julio, que se presentará durante el mes de agosto y los primeros quince días naturales del mes de septiembre. |
 | 560 | Obligación trimestral de presentación: Desde el día 1 al 15 del mes siguiente a aquél en finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del mes siguiente a aquél en finaliza el mes en que se han producido los devengos. |
 | 561 | Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
@@ -43,11 +43,12 @@
 | 581 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
 | 582 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 | 583 | Obligación trimestral de presentación: desde el día 1 hasta el 15 de los meses de mayo, septiembre, noviembre y febrero. Obligación anual de presentación: desde el día 1 hasta el 25 del mes de noviembre. |
-| 587 | Desde el día 1 hasta el 15 de los meses de mayo, septiembre y enero. |
+| 587 | Desde el día 1 al 15 de los meses de mayo, septiembre y enero. |
 | 595 | Desde el día 1 al 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
-| 714 | Desde el día 3 de mayo hasta el 27 de junio. |
+| 714 | Desde el día 2 de mayo hasta el 25 de junio. |
+| (*) Sólo cuando el período impositivo finalice el día 31 de diciembre. |
 
-(*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
+> Se modifica por la disposición final 1 y el Anexo III de la Orden HAP/1222/2014, de 9 de julio. Ref. BOE-A-2014-7469.
 
 > Se añade el modelo 587 por la disposición final 2.2 de la Orden HAP/685/2014, de 29 de abril. Ref. BOE-A-2014-4625.
 
