@@ -17,7 +17,6 @@
 | Mancomunidad de los Canales del Taibilla | 38.890,00 |
 | Ministerio de Economía y Competitividad: |  |
 | Instituto de Crédito Oficial (ICO) (4) | 18.000.000,00 |
-| Fondo para la Financiación de los Pagos a Proveedores (5) | 47.500.000,00 |
 
 (1) Importe máximo a contraer con entidades de crédito durante el ejercicio 2014, si bien el importe de la deuda viva con entidades de crédito a 31 de diciembre no podrá exceder de 2.335.299 miles de euros.
 
@@ -27,4 +26,4 @@
 
 (4) Este límite no afectará a las operaciones de tesorería que se concierten y amorticen dentro del año, ni a la refinanciación de la deuda contraída a corto y largo plazo.
 
-(5) Esta autorización se ajustará a lo establecido en el artículo 50 de esta Ley.
+> Se modifica por la disposición final 3.2 de la Ley 13/2014, de 14 de julio. Ref. BOE-A-2014-7468.
