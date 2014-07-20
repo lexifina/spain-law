@@ -10,8 +10,4 @@
 
 5. Sin perjuicio de las obligaciones que corresponden a la Autoridad Portuaria, la Dirección General de Ferrocarriles podrá comprobar que los subsistemas ferroviarios dentro del ámbito portuario se explotan y mantienen de conformidad con los requisitos esenciales pertinentes. Asimismo, dicha Dirección General podrá supervisar la correcta aplicación por los agentes responsables en el ámbito portuario del marco normativo en materia de seguridad en la circulación ferroviaria.
 
-6. Son de aplicación a las infraestructuras ferroviarias existentes en los puertos de interés general y que forman parte de la Red Ferroviaria de Interés General lo dispuesto en los Títulos III y IV del reglamento que aprueba este real decreto. Para la correcta aplicación de los mismos a dichas infraestructuras, se entenderá que las referencias al Administrador de Infraestructuras Ferroviarias se hacen a las Autoridades Portuarias correspondientes.
-
-7. En el supuesto de accidentes ferroviarios producidos dentro de las zonas de servicio portuarias, la Comisión de Investigación de accidentes ferroviarios, en cada caso, en función de la gravedad del accidente y de las posibles causas que lo produjeron, podrá decidir la participación dentro del equipo investigador, además de los miembros que se establecen en el artículo 23 del reglamento que aprueba este real decreto en relación con el apartado anterior, del responsable de seguridad del Administrador de Infraestructuras Ferroviarias.
-
-Asimismo las empresas ferroviarias deberán llevar a cabo también una investigación interna de todos los accidentes e incidentes ferroviarios en que se hubiera visto implicado su material rodante o personal.
+> Se derogan los apartados 6 y 7 por la disposición derogatoria única del Real Decreto 623/2014, de 18 de julio. Ref. BOE-A-2014-7651.

@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Investigación de accidentes e incidentes ferroviarios por las empresas ferroviarias.
+
+1. Las empresas ferroviarias establecerán, dentro de su sistema de gestión de la seguridad, las pautas y los procedimientos a seguir en la investigación de accidentes e incidentes en los que se encuentren implicadas. En todo caso, en el supuesto de verse implicadas en un accidente o incidente ferroviario que se produzcan en la Red Ferroviaria de Interés General, llevarán a cabo una investigación interna del mismo, sin interferir en la llevada a cabo, en su caso, por la Comisión de Investigación de accidentes ferroviarios, a quien deberán remitir el informe de la investigación interna efectuada.
+
+2. Las empresas ferroviarias elaborarán, antes del 31 de marzo de cada año, un informe anual, que remitirán a la Comisión de Investigación de accidentes ferroviarios y a la autoridad responsable de seguridad, sobre los accidentes e incidentes ferroviarios ocurridos en el año anterior, en los que hubieran estado implicadas.
