@@ -280,7 +280,7 @@ Zanahoria: 50 gramos.
 
 5. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2014, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Las variedades de las especies que se citan a continuación, si con anterioridad al 1 de julio de 2014 han iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en este Protocolo de examen o, en su caso, en el Protocolo de examen que se encontraba en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV (1):
 
@@ -289,7 +289,7 @@ Especies que cumplen con los protocolos de examen de la OCVV (1):
 | Cichorium intybus L. | Achicoria industrial | TP 172/2 de 1.12.2005 |
 | Cichorium intybus L. | Achicoria silvestre | TP 173/1 de 25.3.2004 |
 | Allium sativum L. | Ajo | TP 162/1 de 25.3.2004 |
-| Cynara cardunculus L. | Alcachofa y cardo | TP 184/1 de 25.3.2004 |
+| Cynara cardunculus L. | Alcachofa y cardo | TP 184/2 de 27.2.2013 |
 | Apium graveolens L. | Apio | TP 82/1 de 13.3.2008 |
 | Apium graveolens L. | Apionabo | TP 74/1 de 13.3.2008 |
 | Solanum melongena L. | Berenjena | TP 117/1 de 13.3.2008 |
@@ -309,11 +309,11 @@ Especies que cumplen con los protocolos de examen de la OCVV (1):
 | Brassica oleracea L. | Colirrábano | TP 65/1 de 25.3.2004 |
 | Cichorium endivia L. | Escarola y endivia | TP 118/2 de 1.12.2005 |
 | Asparagus officinalis L. | Espárrago | TP 130/2 de 16.2.2011 |
-| Spynacia oleracea L. | Espinaca | TP 55/4 de 21.3.2012 |
+| Spynacia oleracea L. | Espinaca | TP 55/5 de 27.2.2013 |
 | Pisum sativum L. (partim) | Guisante de grano rugoso, guisante de grano liso redondo y guisante cometodo | TP 7/2 de 11.3.2010 |
 | Vicia faba L. (partim) | Haba | TP Broadbean/1 de 25.3.2004 |
 | Foeniculum vulgare Mill. | Hinojo | TP 183/1 de 25.3.2004 |
-| Phaseolus vulgaris L. | Judía de mata baja y judía de enrame | TP 12/3 de 1.4.2009 |
+| Phaseolus vulgaris L. | Judía de mata baja y judía de enrame | TP 12/4 de 27.02.2013 |
 | Phaseolus coccineus L. | Judía escarlata | TP 9/1 de 21.3.2007 |
 | Lactuca sativa L. | Lechuga | TP 13/5 de 16.2.2011 |
 | Zea mays L. (partim) | Maíz dulce y maíz para palomitas | TP 2/3 de 11.3.2010 |
@@ -323,10 +323,12 @@ Especies que cumplen con los protocolos de examen de la OCVV (1):
 | Nyman ex A. W. Hill |  |  |
 | Capsicum annuum L. | Pimiento | TP 76/2 de 21.3.2007 |
 | Allium porrum L. | Puerro | TP 85/2 de 1.4.2009 |
-| Raphanus sativus L. | Rábano o rabanito | TP 64/1 de 27.3.2002 |
+| Raphanus sativus L. | Rábano o rabanito y rábano de invierno o rábano negro | TP 64/2 de 27.2.2013 |
 | Citrullus lanatus (Thunb.) Matsum. et Nakai | Sandía | TP 142/1 de 21.3.2007 |
-| Lycopersicon esculentum Mill. | Tomate | TP 44/4. de 21.3.2012 |
+| Solanum lycopersicum L | Tomate | TP 44/4 rev.1 de 27.2.2013 |
 | Daucus carota L. | Zanahoria de mesa | TP 49/3 de 13.3.2008 |
+
+El texto de este protocolo puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
 Especies que cumplen con las directrices de examen de la UPOV (2):
 
@@ -341,10 +343,20 @@ Especies que cumplen con las directrices de examen de la UPOV (2):
 | Raphanus sativus L. | Rábano de invierno o rábano negro | TG/63/6 de 24.3.1999 |
 | Rheum rhabarbum L. | Ruibarbo | TG/62/6 de 24.3.1999 |
 | Scorzonera hispanica L | Escorzonera o salsifí negro | TG/116/4 de 24.10.2010 |
+| Solanum lycopersicum L. | Portainjertos de tomate. | TG/294/1 de 20.3.2013 |
+| X Solanum habrochaites S. |  |  |
+| Knapp et D.M. Spooner. |  |  |
+| Solanum lycopersicum L. |  |  |
+| x Solanum peruvianum L. Mill. |  |  |
+| Solanum lycopersicum L. x |  |  |
+| Solanum cheesmaniae (L. Ridley) |  |  |
+| Fosberg |  |  |
 
 (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
 (2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Se modifica el apartado 5 por el art. único.4 del Real Decreto 626/2014, de 18 de julio. Ref. BOE-A-2014-7655.
 
 > Se modifica el apartado 1 por el art. 1 de la Orden AAA/198/2014, de 12 de febrero. Ref. BOE-A-2014-1647.
 

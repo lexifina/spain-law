@@ -130,7 +130,7 @@ Variedades cespitosas: la finura de las hojas, densidad del césped, persistenci
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de octubre de 2012, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de la especie que se cita a continuación, que con anterioridad al 1 de julio de 2014, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en las Directrices de examen que se encontraban en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV:
 
@@ -164,13 +164,15 @@ Especies que cumplen con las directrices de examen de la UPOV:
 | Trifolium repens L. | Trébol blanco | TG/38/7 de 9.4.2003 |
 | Trifolium subterrameum L. | Trébol subterráneo | TG/170/3 de 4.4.2001 |
 | Vicia faba L. | Haba forrajera | TG/8/6 de 17.4.2002 |
-| Vicia sativa L. | Veza común | TG/32/6 de 21.10.1988 |
+| Vicia sativa L. | Veza común | TG/32/7 de 20.3.2013 |
 | Cicer arietinum L. | Garbanzo | TG/143/4 de 6.04.2005 |
 | Lens culinaris medik | Lenteja | TG/21/01 de 9.04.2003 |
 
 1 El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
 2 El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Se modifica el apartado 6 por el art. único.2 del Real Decreto 626/2014, de 18 de julio. Ref. BOE-A-2014-7655.
 
 > Se modifica el apartado 6 por el art. único.1 de la Orden AAA/1772/2012, de 2 de agosto. Ref. BOE-A-2012-10691.
 
