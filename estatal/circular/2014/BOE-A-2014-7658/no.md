@@ -1,0 +1,5 @@
+## Noveno. Metodología de asignación del coste de gestión comercial de distribuidores en los peajes de transporte y distribución de los consumidores.
+
+1. En tanto se reconozca explícitamente en la correspondiente Orden por la que se revisan los peajes de acceso, el coste de gestión comercial reconocido a los distribuidores, conforme al artículo 13 del Real Decreto 1048/2013, de 27 de diciembre, por el que se establece la metodología para el cálculo de la retribución de la actividad de distribución de energía eléctrica o normativa que lo sustituya, teniendo en cuenta, en su caso, las revisiones y desvíos de años anteriores, se asigna entre grupos tarifarios en función del número de consumidores incluido en cada grupo tarifario.
+
+2. El reparto de dicho coste asignado a cada grupo tarifario, se realiza a los términos de potencia de los peajes de transporte y distribución, diferenciados por periodos horarios, proporcionalmente a los costes asignados de transporte y distribución a cada grupo tarifario.
