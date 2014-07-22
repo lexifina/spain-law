@@ -1,0 +1,64 @@
+# Resolución de 11 de julio de 2014, del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, en la que se recogen las instrucciones para la formalización del documento único administrativo (DUA).
+
+- Identificador: BOE-A-2014-7683
+- Rango: Resolución
+- Fecha de disposición: 2014-07-11
+- Publicación: 2014-07-21
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2014-7683
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [(preambulo)](pr.md)
+- [Primero](pr-2.md)
+- [Segundo](se.md)
+- [Tercero](te.md)
+- [(firma)](fi.md)
+- [ANEXO](an.md)
+- [CAPÍTULO 1](c1.md)
+- [CAPÍTULO 2](c2.md)
+- [CAPÍTULO 3](c3.md)
+- [CAPÍTULO 4](c4.md)
+- [CAPÍTULO 5](c5.md)
+- [CAPÍTULO 6](c6.md)
+- [APÉNDICE I](ai.md)
+- [APÉNDICE II](ai-2.md)
+- [APÉNDICE III](ai-3.md)
+- [APÉNDICE IV](ai-4.md)
+- [APÉNDICE V](av.md)
+- [APÉNDICE VI](av-2.md)
+- [APÉNDICE VII](av-3.md)
+- [APÉNDICE VIII](av-4.md)
+- [APÉNDICE IX](ai-5.md)
+- [APÉNDICE X](ax.md)
+- [APÉNDICE XI](ax-2.md)
+- [APÉNDICE XII](ax-3.md)
+- [APÉNDICE XIII](ax-4.md)
+- [APÉNDICE XIV](ax-5.md)
+- [APÉNDICE XV](ax-6.md)
+- [APÉNDICE XVI](ax-7.md)
+- [APÉNDICE XVII](ax-8.md)
+- [ANEXO I](ai-6.md)
+- [ANEXO II-A](ai-7.md)
+- [ANEXO II-B](ai-8.md)
+- [ANEXO III](ai-9.md)
+- [ANEXO IV-A](ai-10.md)
+- [ANEXO IV-B](ai-11.md)
+- [ANEXO V](av-5.md)
+- [ANEXO VI](av-6.md)
+- [ANEXO VII](av-7.md)
+- [ANEXO VIII](av-8.md)
+- [ANEXO IX](ai-12.md)
+- [ANEXO X](ax-9.md)
+- [ANEXO XI-A](ax-10.md)
+- [ANEXO XI-B](ax-11.md)
+- [ANEXO XII](ax-12.md)
+- [ANEXO XIII](ax-13.md)
+- [ANEXO XIV-A](ax-14.md)
+- [ANEXO XIV-B](ax-15.md)
+- [ANEXO XV-A](ax-16.md)
+- [ANEXO XV-B](ax-17.md)
+- [ANEXO XV-C](ax-18.md)
+- [ANEXO XVI](ax-19.md)
+- [(Información relacionada)](ir.md)
