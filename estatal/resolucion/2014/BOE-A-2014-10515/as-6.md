@@ -1,0 +1,9 @@
+## Apartado sexto. Garantía de la seguridad del menor que se encuentre en centros de acogida de progenitores.
+
+Si de las declaraciones del adulto o de cualquier otro indicador o noticia, se apreciara una situación de riesgo inminente en la persona del menor, la Entidad pública de protección de menores acordará la separación del menor del adulto y su acogida provisional mientras se practican las oportunas diligencias de investigación, que justifiquen la reagrupación del menor con dicho adulto, lo que será comunicado al Ministerio Fiscal para su conocimiento, seguimiento y protección de los intereses del menor.
+
+En todo caso, se promoverán por el Ministerio Fiscal las acciones pertinentes ante el Juzgado de Guardia o Juzgado de Primera Instancia competente para asegurar que mientras se está evaluando la situación de riesgo, el menor no abandone el centro en compañía del adulto sin autorización judicial.
+
+El Ministerio Fiscal velará para que la resolución judicial que se dicte sea comunicada al Cuerpo policial que estuviere realizando la investigación, y en todo caso al CNP, a los efectos de que se adopten las medidas precisas dirigidas a evitar que el adulto que alega la relación biológica paterno-materno filial o una tercera persona abandonen el centro con el menor sin autorización judicial.
+
+Si se tiene conocimiento de que el menor y el adulto van a abandonar el centro de manera inminente y no hubiera tiempo de que por el Ministerio Fiscal se promuevan las acciones judiciales oportunas, cuando de las declaraciones del adulto o de cualquier otro indicador o noticia se apreciara una situación de riesgo inminente en la persona del menor, los Cuerpos y Fuerzas de Seguridad actuantes procederán a separar al menor del adulto, comunicándolo inmediatamente a la Entidad pública de protección de menores para que se haga cargo del menor y se acuerde su atención inmediata y al Fiscal para el ejercicio de las acciones judiciales procedentes.

@@ -1,0 +1,7 @@
+## Apartado quinto. Protección internacional.
+
+Una vez realizados los trámites que el artículo 48 de la Ley 12/2009, de 30 de octubre, reguladora del derecho de asilo y de la protección subsidiaria, establece para los MENA que desean acogerse a la protección internacional, en particular, la puesta en conocimiento del Ministerio Fiscal, la determinación de su edad, su puesta a disposición de la Entidad pública de protección de menores competente y la correspondiente asignación de representante legal, todo ello conforme a lo establecido en el presente Protocolo, el MENA será informado por la Entidad pública de protección de menores bajo cuya tutela legal, custodia, protección provisional o guarda se encuentre, de modo fehaciente y en un idioma que pueda razonablemente comprender, del contenido básico del derecho a la protección internacional y del procedimiento previsto para su solicitud. De esta actuación quedará constancia escrita, de acuerdo al artículo 190.5 REX.
+
+Para la formalización efectiva de la solicitud de protección internacional el MENA deberá comparecer en las dependencias administrativas previstas a tal efecto junto a la persona designada por la Entidad pública de protección de menores responsable de su tutela para asistirle en la correspondiente formalización y tramitación, con vistas a garantizar el interés superior del menor y completar su capacidad de obrar cuando fuera necesario.
+
+Las autoridades españolas no podrán contactar con las representaciones diplomáticas del país de origen de un MENA solicitante de protección internacional.

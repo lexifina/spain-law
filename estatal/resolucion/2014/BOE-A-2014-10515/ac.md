@@ -1,0 +1,3 @@
+## Apartado cuarto. Información sobre derechos de las posibles víctimas de trata de seres humanos y sobre la normativa de protección de menores.
+
+Tras su localización, el MENA que tuviera suficiente juicio deberá ser informado por los funcionarios policiales o, en su defecto, por el personal de la Entidad pública de protección de menores bajo cuya tutela legal, custodia, protección provisional o guarda se encuentre, de modo fehaciente y en un idioma que razonablemente pueda entender, de los derechos que asisten en España a las posibles víctimas de trata de seres humanos, así como de la normativa vigente en materia de protección de menores. De dicha actuación quedará constancia escrita.
