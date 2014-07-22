@@ -16,7 +16,13 @@ Cada uno de los servicios comunes procesales.
 
 El conjunto de unidades procesales de apoyo directo a órganos judiciales que radiquen en el mismo municipio.
 
-El Registro Civil Central y los Registros Civiles Únicos de cada localidad, donde los hubiese.
+(Inciso suprimido).
+
+> Téngase en cuenta que este inciso se suprime a partir del 22-07-2014
+
+> Redacción vigente:
+
+> "El Registro Civil Central y los Registros Civiles Únicos de cada localidad, donde los hubiese."
 
 Cada una de las Fiscalías o Adscripciones de Fiscalías.
 
@@ -55,6 +61,8 @@ Los puestos de trabajo de las relaciones de puestos de trabajo de las Oficinas j
 4.º Conocimientos informáticos cuando sean necesarios para el desempeño del puesto.
 
 5.º Aquellas otras condiciones que se consideren relevantes en el contenido del puesto o su desempeño.
+
+> Se suprime un inciso del apartado 3.A) por el art. único.5 de la Ley Orgánica 8/2011. de 21 de julio. Ref. BOE-A-2011-12627.
 
 > Se modifica el apartado 2 y la letra A) del apartado 3 por el art. 1.18 de la Ley Orgánica 1/2009, de 3 de noviembre. Ref. BOE-A-2009-17492.
 

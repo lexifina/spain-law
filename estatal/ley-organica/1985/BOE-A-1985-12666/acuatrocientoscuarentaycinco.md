@@ -2,7 +2,11 @@
 
 1. Las situaciones administrativas en que se puedan hallar los secretarios judiciales, así como su jubilación serán iguales y procederá su declaración en los supuestos y con los efectos establecidos en esta ley orgánica para jueces y magistrados.
 
+Asimismo, podrán hallarse en la situación de servicios especiales los secretarios judiciales que sean designados Encargados del Registro Civil conforme a lo dispuesto en la Ley del Registro Civil y sus normas de desarrollo.
+
 2. Estarán sujetos a las mismas incapacidades, incompatibilidades y prohibiciones con excepción de las previstas en el artículo 395.
+
+> Se añade un párrafo al apartado 1 por el art. único.4 de la Ley Orgánica 8/2011, de 21 de julio. Ref. BOE-A-2011-12627.
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 
