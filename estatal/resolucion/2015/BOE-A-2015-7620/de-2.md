@@ -1,0 +1,3 @@
+## Decimotercero. Atención por la Comunidad de acogida.
+
+La Comunidad de origen deberá incluir en el informe de derivación una propuesta de intervención, detallando si el traslado se solicita con carácter temporal o indefinido. La propuesta será valorada por la Comunidad de acogida, pudiendo esta última introducir las modificaciones que considere pertinentes. La Comunidad de acogida se encargará de llevar a cabo las actuaciones para la atención integral como víctima de violencia de género con la mujer y los y las menores a su cargo. A estos efectos, deberá tramitarse la escolarización inmediata de los hijos e hijas, tal y como establece el artículo 5 de la Ley Integral.
