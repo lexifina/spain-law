@@ -1,0 +1,17 @@
+El Museo Naval tiene sus orígenes en un Decreto del rey Carlos IV, de 28 de septiembre de 1792, que tenía como objeto establecer en la Isla de León, actual ciudad de San Fernando, un Museo de Marina. Este proyecto inicial no se materializó hasta noviembre de 1843, cuando el Ministro de Marina don Joaquín de Frías, en nombre de la reina doña Isabel II, inauguró el Museo Naval en la Casa de los Consejos, en la calle Mayor de Madrid. Tras la construcción del edificio del Ministerio de Marina, hoy sede del Cuartel General de la Armada, el Museo Naval abrió sus puertas en su sede actual el 12 de octubre de 1932.
+
+Bajo la presidencia de honor del rey Alfonso XIII, se creó el Real Patronato del Museo Naval por Real Decreto de 9 de enero de 1929.
+
+Con el fin de llevar a cabo una refundición de las disposiciones aplicables al Museo Naval en un solo texto normativo y adaptarlas a la normativa reguladora de los museos de titularidad estatal, constituida por la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, y el Real Decreto 620/1987, de 10 de abril, por el que se aprueba el Reglamento de Museos de Titularidad Estatal y del Sistema Español de Museos, se aprobó el Real Decreto 389/1996, de 1 de marzo, por el que se reorganiza el Museo Naval y su Patronato.
+
+Por otra parte, dentro del proceso de desarrollo del Real Decreto 912/2002, de 6 de septiembre, por el que se desarrolla la estructura básica de los Ejércitos, la Instrucción 45/2006, de 27 de marzo, del Almirante Jefe de Estado Mayor de la Armada, por la que se establece la organización del Cuartel General de la Armada, encuadra al Museo Naval dentro de la estructura del Órgano de Historia y Cultura Naval bajo la dependencia del Director del mismo. La creación de dicho órgano, del que dependen el Museo Naval, el Instituto de Historia y Cultura Naval y el Subsistema Archivístico de la Armada, ha permitido racionalizar la estructura administrativa del conjunto, centralizando funciones hasta ahora desempeñadas exclusivamente en las áreas administrativas del Museo Naval, por lo que se hace necesario revisar la organización del mismo.
+
+Asimismo, el citado Real Decreto 912/2002, de 6 de septiembre, establece una organización funcional en sustitución de la anterior de carácter territorial, lo que ha supuesto la desaparición de los Almirantes Jefes de Zonas Marítimas, cargos que estaban representados en el Real Patronato del Museo Naval, por lo que es preciso modificar su composición.
+
+También hay que tener en cuenta la aprobación del Real Decreto 1305/2009, de 31 de julio, por el que se crea la Red de Museos de España, que incluye al Museo Naval entre los museos nacionales de titularidad estatal adscritos al Ministerio de Defensa y a los museos filiales del Museo Naval, entre los museos de titularidad y gestión estatal adscritos al mismo Ministerio.
+
+Por todo ello, es necesario dictar una norma que refleje los cambios organizativos producidos en el ámbito de la Armada, que afectan a la estructura y funcionamiento del Museo Naval, su Real Patronato y los museos filiales, adecuando su regulación a la normativa vigente.
+
+En su virtud, a propuesta conjunta de los Ministros de Defensa y de Educación, Cultura y Deporte, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, y previa deliberación del Consejo de Ministros en su reunión del día 11 de julio de 2014,
+
+DISPONGO:
