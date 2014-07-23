@@ -1,0 +1,3 @@
+## Disposición final quinta. Entrada en vigor.
+
+Esta ley entrará en vigor a los tres meses de su publicación en el «Boletín Oficial del Estado». Se exceptúa de lo anterior, el régimen presupuestario, económico-financiero y contable previsto en el capítulo II del título II, que entrará en vigor en el momento en que se constituya el Fondo de Reserva de los Riesgos de la Internacionalización, una vez disponga de los correspondientes presupuestos de explotación y de capital aprobados por norma con rango de ley con los efectos que en la misma se establezca, manteniéndose hasta entonces el régimen vigente.

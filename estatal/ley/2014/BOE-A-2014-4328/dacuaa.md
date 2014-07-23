@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Modificaciones presupuestarias.
+
+Una vez entre en vigor el régimen presupuestario y de financiación previsto en el artículo 9 de esta Ley, se efectuarán las modificaciones presupuestarias que resulten necesarias para convertir el préstamo del Estado al Consorcio de Compensación de Seguros para financiar el seguro de crédito a la exportación que figure en los Presupuestos Generales del Estado en una aportación patrimonial al Fondo de Reserva de los Riesgos de la Internacionalización, que tendrá carácter ampliable para hacer frente a las desviaciones que la cobertura de los riesgos comerciales, políticos y extraordinarios por cuenta del Estado pudiera producir si la dotación fuera insuficiente.
