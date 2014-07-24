@@ -28,16 +28,20 @@ Una vez presentado el aval, el órgano competente de la Agencia Estatal de Admin
 
 4. La generación del NRC por la Entidad avalista tiene las siguientes implicaciones:
 
-Que el aval ha sido otorgado por persona o personas que en la Entidad avalista disponen de poderes suficientes para dicho otorgamiento.
+– Que el aval ha sido otorgado por persona o personas que en la Entidad avalista disponen de poderes suficientes para dicho otorgamiento.
 
-Que el aval garantiza la deuda o deudas que se expresen en el documento y no otra u otras diferentes, y ello sin perjuicio de lo previsto en los artículos 25.9 y 41.2 del Reglamento general de desarrollo de la Ley 58/2003, de 17 de diciembre, General Tributaria, en materia de revisión en vía administrativa.
+– Que el aval garantiza la deuda o deudas que se expresen en el documento y no otra u otras diferentes, y ello sin perjuicio de lo previsto en los artículos 25.9 y 41.2 del Reglamento general de desarrollo de la Ley 58/2003, de 17 de diciembre, General Tributaria, en materia de revisión en vía administrativa. No obstante, en el caso de avales de tipo 5, 7 y 9, el aval garantizará la deuda o deudas aduaneras y tributarias que se deriven del objeto del aval.
 
-Que el aval reúne las características de identificación, cuantía y vigencia a las que se refiere el punto 2 del apartado tercero de la presente Resolución.
+– Que el aval reúne las características de identificación, cuantía y vigencia alas que se refiere el punto 2 del apartado tercero de la presente Resolución.
 
-Que, en los términos previstos en la legislación vigente, la Entidad avalista responde solidariamente de la deuda/s avalada/s hasta el importe consignado en el aval, pudiéndose ejecutar por el procedimiento administrativo de apremio.
+– Que, en los términos previstos en la legislación vigente, la Entidad avalista responde solidariamente de la deuda/s avalada/s hasta el importe consignado en el aval, pudiéndose ejecutar por el procedimiento administrativo de apremio.
 
-Que la Entidad avalista renuncia a cualesquiera beneficios y, específicamente, a los de orden, división y excusión de bienes del avalado.
+– Que el aval se otorga a primer requerimiento de la Agencia Estatal de Administración Tributaria
 
-Que la Entidad avalista responde íntegramente por el importe avalado, con independencia de que, por cualquier causa, las deudas avaladas queden vinculadas al convenio que pudiera celebrarse en caso de concurso del avalado.
+– Que la Entidad avalista renuncia a cualesquiera beneficios y, específicamente, a los de orden, división y excusión de bienes del avalado.
+
+– Que la Entidad avalista responde íntegramente por el importe avalado, con independencia de que, por cualquier causa, las deudas avaladas queden vinculadas al convenio que pudiera celebrarse en caso de concurso del avalado.
 
 5. Una vez generado el NRC, la Entidad avalista quedará obligada en los términos del aval, no pudiendo oponer a la Agencia Estatal de Administración Tributaria circunstancias que pudieran determinar la falsedad o irregularidad en la validación.
+
+> Se modifica el apartado 4 por el art. único.1 de la Resolución de 15 de julio de 2014. Ref. BOE-A-2014-7793
