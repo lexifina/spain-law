@@ -4,8 +4,9 @@
 
 | Subtipo | Indicador de referencia | Valor del indicador de referencia en euros |
 | --- | --- | --- |
-| ACAE1 | Equivalente proteico (gramo) | 0,8274 |
-| ACAE2 | Equivalente proteico (gramo) | 3,7412 |
+| ACAE2 | Equivalente proteico (gramo) | 2,5631 |
+| ACAE3 | Equivalente proteico (gramo) | 2,4413 |
+| ACAE4 | Equivalente proteico (gramo) | 2,5040 |
 | AEAA1 | Equivalente proteico (gramo) | 0,6556 |
 | AEAA2 | Equivalente proteico (gramo) | 0,9064 |
 | AEAA3 | Equivalente proteico (gramo) | 1,0200 |
@@ -62,7 +63,8 @@
 | CPNN3 | Kilocaloría | 0,0170 |
 | CPNN4 | Kilocaloría | 0,0187 |
 | CPNN5 | Kilocaloría | 0,0220 |
-| ESPEC3 | Kilocaloría | 0,0190 |
+| ESPEC1 | Kilocaloría | 0,0190 |
+| ESPEC2 | Kilocaloría | 0,0209 |
 | ESPEDH2 | Kilocaloría | 0,0204 |
 | ESPEDN2 | Kilocaloría | 0,0182 |
 | ESPEH1 | Kilocaloría | 0,0112 |
@@ -81,11 +83,12 @@
 | LAPL2 | Gramo de proteína | 0,3019 |
 | LAPN1 | Gramo de proteína | 0,4186 |
 | LAPS1 | Gramo de proteína | 0,2052 |
-| MESP1 | Gramo de almidón | 0,0428 |
+| MESP1 | Gramo de materia prima espesante | 0,0428 |
 | MHID1 | Gramo de dextrinomaltosa | 0,0191 |
 | MHID2 | Gramo de fructosa | 0,0378 |
 | MHID3 | Gramo de D-manosa | 0,5932 |
 | MHID4 | Gramo de D-ribosa | 0,8128 |
+| MHID5 | Gramo de almidón de maíz modificado rico en amilopectina | 0,0428 |
 | MLLC1 | Mililitro de producto | 0,2706 |
 | MLLC2 | Mililitro de producto | 0,0453 |
 | MLLC3 | Mililitro de producto | 0,8398 |
@@ -104,12 +107,14 @@
 | MPAA10 | Gramo de L-prolina | 0,4714 |
 | MPAA11 | Gramo de L-triptófano | 1,1104 |
 | MPAA12 | Gramo de L-valina | 0,4405 |
-| MPAA13 | Gramo de aminoácidos esenciales | 1,0362 |
+| MPAA13 | Gramo de aminoácidos esenciales | 0,8665 |
 | MPAA14 | Gramo de aminoácidos ramificados | 0,5270 |
 | MPAA15 | Gramo de mezcla de aminoácidos esenciales y no esenciales | 0,6781 |
 | MPAA16 | Gramo de L-serina. | 0,6701 |
 | MPEN1 | Gramo de proteína | 0,0828 |
 | MPPE1 | Gramo de equivalente proteico | 0,1381 |
+
+> Se modifica por el art. 2.3 de la Orden SSI/1329/2014, de 22 de julio. Ref. BOE-A-2014-7879.
 
 > Se actualiza por el art. 2.2 de la Orden SSI/1640/2012, de 18 de julio. Ref. BOE-A-2012-9935.
 

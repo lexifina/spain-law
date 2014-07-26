@@ -132,7 +132,7 @@ b) Fórmulas exentas de algún aminoácido esencial y no esencial (AM):
 
 Fórmulas exentas de fenilalanina y tirosina (AMAA): Están indicadas para el tratamiento de los diferentes trastornos metabólicos de la tirosina (varios defectos).
 
-3.2.3 Fórmulas con aporte exclusivo de aminoácidos esenciales (AC): Fórmulas de aminoácidos esenciales (ACAE): Son productos en los que el componente proteico lo forman exclusivamente aminoácidos esenciales o condicionalmente esenciales, llevando en su composición además, otros macronutrientes (lípidos y carbohidratos o bien sólo carbohidratos) acompañados, o no, de micronutrientes. Están indicadas para el tratamiento de las hiperornitinemias y defectos del ciclo de la urea.
+3.2.3. Fórmulas con aporte proteico exclusivo de aminoácidos esenciales (AC): Fórmulas de aminoácidos esenciales (ACAE): Son productos en los que el componente proteico lo forman exclusivamente aminoácidos esenciales o condicionalmente esenciales, llevando en su composición además, otros macronutrientes acompañados, o no, de micronutrientes. Están indicadas para el tratamiento de las hiperornitinemias y defectos del ciclo de la urea.
 
 3.3. Productos dietéticos para trastornos del metabolismo de los lípidos:
 
@@ -164,4 +164,6 @@ c) Módulos de aminoácidos (MPAA): Están compuestos por uno o varios aminoáci
 
 4.4. Módulos mixtos (MM): Módulos hidrocarbonados y lipídicos (MMHL): Están compuestos por hidratos de carbono y lípidos. Están indicados en la suplementación de dietas hipoproteicas en trastornos metabólicos congénitos de los aminoácidos y para aumentar el contenido calórico de la dieta.
 
-4.5. Módulos espesantes (ME): Módulos espesantes (MESP): Son productos compuestos únicamente por almidones modificados, aunque pueden llevar fibra. Su presentación es en forma de polvo y su sabor es neutro. Están destinados exclusivamente a aumentar la consistencia de los alimentos líquidos en enfermos con disfagia neurológica, o excepcionalmente motora, con el fin de tratar de evitar o retrasar el empleo de sonda nasoentérica o gastrostomía, cuando dichos enfermos tienen posibilidad de ingerir alimentos sólidos sin riesgo de aspiración, pero sufren aspiración o corren riesgo de sufrirla, si ingieren alimentos líquidos, que no pueden ser espesados con alternativas de consumo ordinario.
+4.5. Módulos espesantes (ME): Módulos espesantes (MESP): Son productos con capacidad de espesar compuestos por almidones modificados o gomas, acompañados o no de maltodextrinas. Su presentación es en forma de polvo y su sabor es neutro. Están destinados exclusivamente a aumentar la consistencia de los alimentos líquidos en enfermos con disfagia neurológica, o excepcionalmente motora, con el fin de tratar de evitar o retrasar el empleo de sonda nasoentérica o gastrostomía, cuando dichos enfermos tienen posibilidad de ingerir alimentos sólidos sin riesgo de aspiración, pero sufren aspiración o corren riesgo de sufrirla, si ingieren alimentos líquidos, que no pueden ser espesados con alternativas de consumo ordinario.
+
+> Se modifican los puntos 3.2.3 y 4.5 por el art. 2.2 de la Orden SSI/1329/2014, de 22 de julio. Ref. BOE-A-2014-7879.

@@ -29,7 +29,7 @@ Como: …………………………… de la empresa ……………………..
 
 Subdirección General de Gestión de Riesgos Alimentarios.- Agencia Española de Seguridad Alimentaria y Nutrición. Ministerio de Sanidad, Política Social e Igualdad.
 
-1 Se cumplimentará un único modelo de solicitud de alteración de la Oferta para todas aquellas presentaciones de un mismo número de registro sanitario que presenten el mismo tipo de alteración.
+1 Se cumplimentará un solo modelo de solicitud de alteración de la Oferta para todas las presentaciones de un mismo número de registro que presenten el mismo tipo de alteración. Cuando la alteración se deba a un cambio de nombre, composición o indicaciones de un producto, la solicitud de alteración de la Oferta debe abarcar a todas las presentaciones de ese producto incluidas en la Oferta.
 
 2 Que no exceda de 4 hojas DIN A4.
 
@@ -73,6 +73,8 @@ No deberá ser un nombre igual o similar al de otros productos dietéticos finan
 
 15 Código identificativo de las presentaciones para las que se solicita la alteración de la Oferta.
 
-16 Todos los envases de una misma presentación (unidad de venta) han de tener el mismo sabor.
+16 Los envases que forman parte de una misma presentación (unidad de venta) deberán ser iguales (mismo tipo de envase y cantidad de producto), aunque podrán tener distinto sabor (presentación multisabor) siempre que se hallen incluidas en la Oferta las presentaciones con los sabores individuales que componen la unidad de venta y todas estas tengan asignado el mismo número de registro. El cese de comercialización o la no comercialización de alguna de las presentaciones de un sabor individual incluido en la presentación multisabor dará lugar simultáneamente a la baja de esta presentación.
 
 17 Precio de cada unidad de venta del producto sin impuestos ni márgenes de distribución que propone la empresa al Sistema Nacional de Salud.
+
+> Se modifica la nota a pie de página 1 y la referencia 16 por el art. 3.2 y 3 de la Orden SSI/1329/2014, de 22 de julio. Ref. BOE-A-2014-7879.

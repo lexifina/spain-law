@@ -65,8 +65,10 @@ No deberá ser un nombre igual o similar al de otros productos dietéticos finan
 
 14 Cada ficha está prevista para un máximo de cuatro presentaciones. En caso de que el producto tenga más de cuatro presentaciones se cumplimentarán tantas fichas como sean precisas para recoger todas las presentaciones ofertadas.
 
-15 Todos los envases de una misma presentación (unidad de venta) han de tener el mismo sabor.
+15 Los envases que forman parte de una misma presentación (unidad de venta) deberán ser iguales (mismo tipo de envase y cantidad de producto), aunque podrán tener distinto sabor (presentación multisabor) siempre que se hallen incluidas en la Oferta las presentaciones con los sabores individuales que componen la unidad de venta y todas estas tengan asignado el mismo número de registro. El cese de comercialización o la no comercialización de alguna de las presentaciones de un sabor individual incluido en la presentación multisabor dará lugar a la baja de esta presentación.
 
 16 Precio de cada unidad de venta del producto sin impuestos ni márgenes de distribución que propone la empresa al Sistema Nacional de Salud.
+
+> Se modifica la referencia 15 por el art. 3.1 de la Orden SSI/1329/2014, de 22 de julio. Ref. BOE-A-2014-7879.
 
 > Redactado conforme a la corrección de errores publicada en el BOE núm. 296, de 6 de diciembre de 2010. Ref. BOE-A-2010-18685.
