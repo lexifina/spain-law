@@ -16,6 +16,8 @@
 
 1.f) Para usos especiales: 5 mg.
 
+1.g) Para usos generales de alumbrado, < 30W con una vida útil igual o superior a 20.000 h: 3,5 mg. Expira el 31 de diciembre de 2017.
+
 2.a) Mercurio en lámparas fluorescentes lineales de casquillo doble para usos generales de alumbrado sin sobrepasar (por lámpara):
 
 2.a).1.º Fósforo de tres bandas con vida útil normal y diámetro del tubo < 9 mm (por ejemplo, T2): 5 mg. Expira el 31 de diciembre de 2011; podrán utilizarse 4 mg por lámpara después del 31 de diciembre de 2011.
@@ -69,6 +71,14 @@
 4.e) Mercurio en lámparas de haluros metálicos (MH) |.
 
 4.f) Mercurio en otras lámparas de descarga para usos especiales no mencionadas específicamente en el presente anexo.
+
+4.g) Mercurio en tubos luminosos de descarga de fabricación artesanal utilizados en rótulos, dispositivos de iluminación decorativa o arquitectónica y especializada y creaciones de iluminación artística, sin sobrepasar las cantidades siguientes:
+
+1.º 20 mg por par de electrodos + 0,3 mg por cm de longitud del tubo, pero no más de 80 mg, para aplicaciones de exterior y para aplicaciones de interior expuestas a temperaturas inferiores a 20 ºC,
+
+2.º 15 mg por par de electrodos + 0,24 mg por cm de longitud del tubo, pero no más de 80 mg, para todas las demás aplicaciones de interior.
+
+Expira el 31 de diciembre de 2018.
 
 5.a) Plomo en el vidrio de los tubos de rayos catódicos.
 
@@ -159,3 +169,7 @@
 39. Cadmio en diodos fotoemisores (LED) II-VI de conversión de color (< 10 μg de Cd por mm de superficie fotoemisora) que se emplean en sistemas de iluminación o visualización de semiconductores: Expira el 1 de julio de 2014.
 
 40. Cadmio en fotorresistencias para optoacopladores analógicos utilizados en equipos de audio profesionales. Expira el 31 de diciembre de 2013.
+
+41. Plomo en pastas de soldadura y acabados de terminaciones de componentes eléctricos y electrónicos y acabados de circuitos impresos utilizados en módulos de encendido y otros sistemas eléctricos y electrónicos de control de motores, que, por razones técnicas, deben instalarse directamente sobre el cárter o el cilindro de los motores de combustión portátiles, o en el interior de dichos componentes (clases SH:1, SH:2, SH:3 de la Directiva 97/68/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 1997, relativa a la aproximación de las legislaciones de los Estados miembros sobre medidas contra la emisión de gases y partículas contaminantes procedentes de los motores de combustión interna que se instalen en las máquinas móviles no de carretera). Expira el 31 de diciembre de 2018.
+
+> Se añaden los apartados 1.g), 4.g) y 41 por el art. único.1 de la Orden PRE/1349/2014, de 25 de julio. Ref. BOE-A-2014-7971.
