@@ -1,0 +1,7 @@
+## Disposición final primera. Modificación de la Ley 12/2013, de 2 de agosto, de medidas para mejorar la cadena alimentaria.
+
+Se incluye una disposición adicional quinta en la Ley 12/2013, de 2 de agosto, de medidas para mejorar la cadena alimentaria con la siguiente redacción:
+
+«Disposición adicional quinta. Relaciones contractuales de la Organización Común de Mercados de los productos agrarios.
+
+Lo dispuesto en la presente Ley se entiende sin perjuicio de la regulación específica del sector lácteo contenida en el Real Decreto 1363/2012, de 28 de septiembre, por el que se regula el reconocimiento de las organizaciones de productores de leche y de las organizaciones interprofesionales en el sector lácteo y se establecen sus condiciones de contratación, o demás disposiciones que el Estado, previa justificación de su necesidad y proporcionalidad y siempre que no obstaculicen el correcto funcionamiento del mercado interior, pueda dictar al amparo de los artículos 148 y 149, o de la sección 5.ª del Capítulo III del Título II de la Parte II, del Reglamento 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se crea la organización común de mercados de los productos agrarios y por el que se derogan los Reglamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 y (CE) n.º 1234/2007, las cuales prevalecerán en caso de conflicto con esta Ley.»
