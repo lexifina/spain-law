@@ -1,6 +1,6 @@
 ## Norma decimocuarta. Porcentajes aplicables para la deducción de distintos epígrafes de fondos propios.
 
-1. El porcentaje aplicable a efectos del apartado 2 de la norma séptima y las normas octava, novena, décima, undécima y decimotercera será:
+1. El porcentaje aplicable a efectos de las normas séptima bis, octava, novena, décima, undécima y decimotercera será:
 
 a) del 20% durante el período comprendido entre el 1 de enero de 2014 y el 31 de diciembre de 2014;
 
@@ -31,3 +31,5 @@ h) del 70% durante el período comprendido entre el 1 de enero de 2021 y el 31 d
 i) del 80% durante el período comprendido entre el 1 de enero de 2022 y el 31 de diciembre de 2022;
 
 j) del 90% durante el período comprendido entre el 1 de enero de 2023 y el 31 de diciembre de 2023.
+
+> Se modifica el primer párrafo del apartado 1 por la disposición final 2.3 de la Circular 3/2014, de 30 de julio. Ref. BOE-A-2014-8189.

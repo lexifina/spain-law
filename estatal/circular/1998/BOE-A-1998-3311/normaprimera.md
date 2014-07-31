@@ -26,7 +26,7 @@ c) Declaración relativa a los cargos de administración y dirección de la soci
 
 a) No más tarde del 28 de febrero, remitirán el balance y cuenta de pérdidas y ganancias correspondientes al ejercicio anterior, utilizando a estos efectos los modelos de los estados reservados I y II que figuran en anejo, aplicando para su confección los principios y criterios del Plan General de Contabilidad, salvo que las cuentas anuales se formulen aplicando el Plan General de Contabilidad de Pequeñas y Medianas Empresas (pymes) por cumplir la sociedad los requisitos que establece el Real Decreto 1515/2007, de 16 de noviembre, por el que se aprueba dicho Plan, en cuyo caso se confeccionarán aplicando los principios y criterios del Plan General de Contabilidad de Pymes.
 
-b) Dentro de los quince días siguientes a la celebración de la Junta General de Accionistas que las apruebe, remitirán las cuentas anuales del ejercicio anterior, acompañadas de la certificación del acuerdo de la junta relativo a su aprobación y, en su caso, del informe de auditoría correspondiente.
+b) Dentro de los quince días siguientes a la celebración de la Junta General de Accionistas que las apruebe, remitirán las cuentas anuales individuales y, en su caso, consolidadas del ejercicio anterior, acompañadas de la certificación del acuerdo de la junta relativo a su aprobación y del informe de auditoría correspondiente.
 
 En caso de que los datos contenidos en los estados reservados I y II sean modificados en las cuentas anuales aprobadas por la Junta General, los estados rectificados se remitirán al mismo tiempo que dichas cuentas anuales.
 
@@ -49,6 +49,8 @@ En relación con la letra a) anterior, se utilizará la definición de grupo con
 4. Información sobre póliza de seguro de responsabilidad civil (a enviar a los Servicios de Inspección de Entidades de Crédito):
 
 Copia completa de cualquier modificación en el contenido de la póliza de responsabilidad civil de la sociedad o, en caso de sustitución de la misma, copia completa de la nueva póliza, incluyendo tanto las condiciones generales como las particulares y especiales, todo ello en el plazo de un mes contado a partir de su firma. Con independencia de ello se justificará periódicamente el pago de la prima dentro del mes natural siguiente a su fecha de vencimiento.
+
+> Se modifica el primer párrafo del apartdo 2.b) por la norma 2.1 de la Circular 3/2014, de 30 de julio. Ref. BOE-A-2014-8189.
 
 > Se modifica por la norma 1.1 y 5 de la Circular 2/2009, de 18 de diciembre. Ref. BOE-A-2009-21184.
 

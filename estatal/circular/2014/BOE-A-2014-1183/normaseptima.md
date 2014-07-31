@@ -2,4 +2,6 @@
 
 1. De acuerdo con lo dispuesto en el artículo 469.1(a) del Reglamento (UE) n.º 575/2013, entre el 1 de enero de 2014 y el 31 de diciembre de 2017, las entidades deberán deducir de los elementos de capital de nivel 1 ordinario el 100% de los importes a que se refieren las letras (a), (f) y (g) del apartado 1 del artículo 36 del Reglamento (UE) n.º 575/2013.
 
-2. En relación con los activos intangibles a que se refiere la letra (b) del apartado 1 del artículo 36 del Reglamento (UE) n.º 575/2013, las entidades deberán deducir de los elementos de capital de nivel 1 ordinario el 100% de los importes correspondientes al fondo de comercio procedente de combinaciones de negocio, de consolidación o de la aplicación del método de la participación. Para el resto de los activos intangibles, entre el 1 de enero de 2014 y el 31 de diciembre de 2017, las entidades deberán deducir de los elementos de capital de nivel 1 ordinario los porcentajes establecidos en el apartado 1 de la norma decimocuarta y del capital de nivel 1 la parte residual hasta completar el 100%.
+2. (Suprimido)
+
+> Se suprime el apartado 2 por la disposición final 2.1 de la Circular 3/2014, de 30 de julio. Ref. BOE-A-2014-8189.

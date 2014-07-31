@@ -23,6 +23,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Norma sexta](normasexta.md)
 - [Sección tercera](stercera.md)
 - [Norma séptima](normaseptima.md)
+- [Norma séptima bis](normaseptimabis.md)
 - [Norma octava](normaoctava.md)
 - [Norma novena](normanovena.md)
 - [Norma décima](normadecima.md)
