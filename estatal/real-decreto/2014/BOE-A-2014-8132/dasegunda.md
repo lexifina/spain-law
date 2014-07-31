@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Práctica de retenciones de la participación de las entidades locales en los tributos del Estado.
+
+Las retenciones de la participación de las entidades locales en tributos del Estado que, en su caso, se apliquen para cancelar la deuda comercial de aquellas, de acuerdo con lo previsto en este real decreto, deberán ajustarse a los límites y criterios que se establezcan en las Leyes de Presupuestos Generales del Estado en desarrollo de la disposición adicional cuarta del texto refundido de la Ley reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo.
