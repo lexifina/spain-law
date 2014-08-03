@@ -14,8 +14,14 @@ a) La inexistencia de consejeros o administradores comunes.
 
 b) La dirección efectiva de la sociedad gestora por personas independientes del depositario.
 
-c) Que la entidad gestora y el depositario tengan domicilios diferentes y separación física de sus centros de actividad.
+c) La dirección efectiva de la sociedad depositaria por personas independientes de la entidad gestora.
 
-4. La entidad gestora deberá manifestar en el boletín de adhesión y en la información trimestral a facilitar a partícipes y beneficiarios, cualquiera que sea la modalidad de plan de pensiones al que pertenezcan, el tipo exacto de relación que le vincula al depositario, tomando como referencia, en su caso, la enumeración de circunstancias contenidas en el artículo 4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+d) Que la entidad gestora y el depositario tengan domicilios diferentes y separación física de sus centros de actividad.
+
+Las mencionadas medidas de separación deberán cumplirse igualmente en aquellos supuestos en que las entidades gestoras y depositarias hubieran delegado sus funciones en terceras entidades en los términos establecidos en este reglamento.
+
+4. La entidad gestora deberá manifestar en el boletín de adhesión y en la información trimestral a facilitar a partícipes y beneficiarios, cualquiera que sea la modalidad de plan de pensiones al que pertenezcan, el tipo exacto de relación que le vincula al depositario, tomandocomo referencia, en su caso, la enumeración de circunstancias contenidas en el artículo 42 del Código de Comercio.
+
+> Se modifican los apartados 3 y 4 por el art. 1.64 del Real Decreto 681/2014, de 1 de agosto. Ref. BOE-A-2014-8367.
 
 > Se añade por el art. 1.42 del Real Decreto 1684/2007, de 14 de diciembre. Ref. BOE-A-2007-21593.

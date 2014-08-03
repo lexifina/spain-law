@@ -4,9 +4,13 @@
 
 a) Por las entidades gestoras y las entidades depositarias entre sí cuando afectan a un fondo de pensiones respecto del que actúan como gestora y depositario respectivamente, y las que se realizan entre las entidades gestoras y quienes desempeñan en ellas cargos de administración y dirección.
 
-b) Por las entidades gestoras, cuando afectan a un fondo de pensiones respecto del que actúan como gestora; y por las entidades depositarias cuando afectan a un fondo de pensiones respecto del que actúan como depositario, con cualquier otra entidad que pertenezca a su mismo grupo, según se define en el artículo 4 de la Ley del Mercado de Valores.
+b) Por las entidades gestoras o depositarias con quienes desempeñan en ellas cargos de administración y dirección cuando afectan a un fondo de pensiones respecto del que actúan como gestora o depositario.
 
-c) Por las entidades gestoras, cuando afectan a un fondo de pensiones respecto del que actúan como gestora; y por las entidades depositarias cuando afectan a un fondo de pensiones respecto del que actúan como depositario, con cualquier promotor o entidad de su grupo, que lo sea de planes de pensiones adscritos a dicho fondo de pensiones.
+c) Por las entidades gestoras, cuando afectan a un fondo de pensiones respecto del que actúan como gestora; y por las entidades depositarias cuando afectan a un fondo de pensiones respecto del que actúan como depositario, con cualquier otra entidad que pertenezca a su mismo grupo, según se define en el artículo 42 del Código de Comercio.
+
+d)Por las entidades gestoras, cuando afectan a un fondo de pensiones respecto del que actúan como gestora; y por las entidades depositarias cuando afectan a un fondo de pensiones respecto del que actúan como depositario, con cualquier promotor o entidad de su grupo, que lo sea de planes de pensiones adscritos a dicho fondo de pensiones o con los miembros de la comisión de control del fondo de pensiones o de los planes de pensiones en el integrados.
+
+e) Por las entidades gestoras y las entidades depositarias con aquellas entidades en las que se hayan delegado funciones, cuando afectan a un fondo de pensiones respecto del que actúan como gestora y depositaria respectivamente.
 
 2. Serán operaciones vinculadas las siguientes:
 
@@ -30,7 +34,7 @@ b) La entidad gestora deberá informar en el boletín de adhesión suscrito por 
 
 c) La comisión u órgano interno a que se refiere el párrafo a) anterior deberá informar al consejo de administración, al menos una vez al trimestre, sobre las operaciones vinculadas realizadas.
 
-4. Las operaciones vinculadas que alcancen un volumen de negocio significativo, deberán ser aprobadas por el consejo de administración de la entidad gestora de acuerdo con las siguientes reglas:
+4. Las operaciones vinculadas que alcancen un volumen de negocio significativo, deberán ser aprobadas por el consejo de administración de la entidad gestora y comunicadas a la comisión de control del fondo de pensiones correspondiente, de acuerdo con las siguientes reglas:
 
 a) El asunto deberá incluirse en el orden del día con la debida claridad.
 
@@ -38,10 +42,12 @@ b) Si algún miembro del consejo de administración se considerase parte vincula
 
 c) La votación será secreta.
 
-d) El acuerdo deberá ser adoptado por mayoría de dos tercios del total de consejeros, excluyendo del cómputo a los consejeros que, en su caso, se abstengan de acuerdo con lo dispuesto en el párrafo b).
+d) El acuerdo deberá ser adoptado por mayoría de dos tercios del total de consejeros, excluyendo del cómputo a los consejeros que, en su caso, se abstengan de acuerdo con lo dispuesto en la letra b.
 
 e) Una vez celebrada la votación y proclamado el resultado, será válido hacer constar en el acta las reservas o discrepancias de los consejeros respecto al acuerdo adoptado.
 
-La Dirección General de Seguros y Fondos de Pensiones deberá determinar qué se entenderá, a los efectos de este artículo, por volumen de negocio significativo atendiendo a la dimensión de la entidad gestora, el patrimonio administrado y la cuantía y características de la operación vinculada.
+La Dirección General de Seguros y Fondos de Pensiones deberá determinar qué se entenderá, a efectos de este artículo, por volumen de negocio significativo atendiendo a la dimensión de la entidad gestora, el patrimonio administrado y la cuantía y características de la operación vinculada.
+
+> Se modifican los apartados 1 y 4 por el art. 1.62 y 63 del Real Decreto 681/2014, de 1 de agosto. Ref. BOE-A-2014-8367.
 
 > Se añade por el art. 1.41 del Real Decreto 1684/2007, de 14 de diciembre. Ref. BOE-A-2007-21593.

@@ -2,7 +2,7 @@
 
 1. En ningún caso podrá simultanearse la condición de promotor de un plan de pensiones del sistema de empleo y la condición de tomador de un plan de previsión social empresarial. Las empresas podrán ser tomadoras de un único plan de previsión social empresarial o promotoras de un único plan de pensiones del sistema de empleo.
 
-2. Sin perjuicio de las obligaciones de información previstas en los artículos 105 y 106 del Reglamento de Ordenación y Supervisión de los Seguros Privados, las entidades aseguradoras, respecto de los planes de previsión social empresarial contratados, deberán facilitar a la empresa tomadora del plan, junto con la póliza, condiciones generales, especiales y particulares, anexos y suplementos, la siguiente información:
+2. Sin perjuicio de las obligaciones de información previstas en el artículo 34.1, las entidades aseguradoras, respecto de los planes de previsión social empresarial contratados, deberán facilitar a la empresa tomadora del plan, junto con la póliza, condiciones generales, especiales y particulares, anexos y suplementos, la siguiente información:
 
 a) Bases técnicas y descripción de la política de inversión que pretende aplicarse en el caso que la póliza prevea participación en beneficios a favor de los asegurados.
 
@@ -30,7 +30,9 @@ b) En el primer trimestre de cada año deberá facilitarse un estado resumen sob
 
 a) Un certificado de seguro con motivo de su incorporación al colectivo asegurado o de renovación de la póliza en seguros temporales. Asimismo se les hará entrega de las condiciones generales, especiales y particulares de la póliza, y de la descripción de la política de inversión si se prevé participación en beneficios a favor de los asegurados o bien, se les indicará el lugar y forma en que tendrán a su disposición en todo momento dicha información.
 
-En todo caso se facilitará a los asegurados la información a la que se refiere el artículo 5.1 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal. b) Con periodicidad al menos anual, la entidad aseguradora remitirá a cada asegurado del plan de previsión social empresarial:
+En todo caso se facilitará a los asegurados la información a la que se refiere el artículo 5.1 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+
+b) Con periodicidad al menos anual, la entidad aseguradora remitirá a cada asegurado del plan de previsión social empresarial:
 
 1.º Certificado individual de seguro en el que conste su pertenencia al plan de previsión social empresarial, indicando el número de póliza, sus datos personales, las contingencias cubiertas y las prestaciones individualmente garantizadas por la aseguradora.
 
@@ -54,18 +56,10 @@ Para ello las entidades aseguradoras deberán articular las medidas necesarias y
 
 6. Los asegurados de los planes de previsión social empresarial únicamente podrán ejercer el derecho de rescate en el supuesto de extinción de la relación laboral y sólo si estuviese previsto en las condiciones generales, especiales o particulares de la póliza, pudiendo integrar sus derechos económicos en otros planes de previsión social empresarial, en planes de previsión asegurados o en planes de pensiones.
 
-Para la movilización, el asegurado deberá dirigirse a la entidad aseguradora o gestora de destino, para iniciar su traspaso.
-
-A tal fin, el asegurado deberá acompañar a su solicitud la identificación del plan de previsión social asegurado y entidad aseguradora de origen desde el que se realizará la movilización, así como, en su caso, el importe a movilizar. La solicitud incorporará una comunicación dirigida a la entidad aseguradora de origen para ordenar el traspaso que incluya una autorización del asegurado a la aseguradora o entidad gestora de destino para que, en su nombre, pueda solicitar a la aseguradora del plan de previsión social empresarial de origen la movilización de los derechos económicos, así como toda la información financiera y fiscal necesaria para realizarlo.
-
-En el plazo máximo de dos días hábiles desde que la entidad aseguradora o entidad gestora de destino disponga de la totalidad de la documentación necesaria, ésta deberá, además de comprobar el cumplimiento de los requisitos establecidos reglamentariamente para la movilización de tales derechos, comunicar la solicitud a la entidad aseguradora del plan de previsión social empresarial de origen, con indicación, al menos, del plan de previsión asegurado o plan de previsión social empresarial, entidad aseguradora de destino y los datos de la cuenta de destino a la que debe efectuarse la transferencia, o, en el caso de movilización a un plan de pensiones el plan y fondo de pensiones de destino, el depositario de éste y los datos de la cuenta del fondo de pensiones de destino a la que debe efectuarse la transferencia.
-
-En un plazo máximo de 20 días hábiles a contar desde la recepción por parte de la entidad aseguradora de origen de la solicitud con la documentación correspondiente, ésta entidad deberá ordenar la transferencia bancaria y remitir a la aseguradora o a la gestora de destino toda la información relevante del asegurado, debiendo comunicar a éste el contenido de dicha información.
-
-No se podrán movilizar los derechos económicos cuando, en orden a instrumentar compromisos por pensiones del tomador referidos a asegurados que hubieran extinguido su relación laboral con aquel, las condiciones de la póliza prevean la continuidad de las aportaciones del tomador a su favor y, en su caso, las del asegurado que tuvieren carácter obligatorio.
-
-Asimismo, los asegurados podrán ejercer su derecho de rescate en los casos de desempleo de larga duración y enfermedad grave en los términos y condiciones previstas para los planes de pensiones.
+A efectos de lo previsto en el párrafo anterior, se aplicará el procedimiento de movilización de derechos de los planes de previsión social empresarial regulado en la disposición adicional sexta del Reglamento de Planes y Fondos de Pensiones.
 
 7. En todo lo que no contradiga esta disposición adicional resultará aplicable a los planes de previsión social empresarial el contenido de los artículos 26.1, 27.1, 27.3, 28.1, 28.3. 28.4, 29.2, 30, 31 y 33 de este Reglamento.
+
+> Se modifica por el art. 2.3 y 4 del Real Decreto 681/2014, de 1 de agosto. Ref. BOE-A-2014-8367.
 
 > Se añade por el Real Decreto 1684/2007, de 14 de Diciembre. Ref. BOE-A-2007-21593
