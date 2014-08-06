@@ -2246,7 +2246,7 @@ Nombre del Fichero: Consulta y reproducción documentación archivo general
 
 3. Procedimiento de recogida de datos: Datos suministrados por los propios ciudadanos a través de un impreso de «Solicitud de consulta y reproducción de documentos del Archivo General del Ministerio de Justicia» y del modelo de «Liquidación para las reproducciones documentales del Archivo General del Ministerio de Justicia».
 
-4. Estructura básica del fichero: Datos personales: apellidos, nombre, DNI, datos bancarios, dirección postal, correo electrónico y fax (en su caso). Tipo de fichero: Manual.
+4. Estructura básica del fichero: Datos personales: apellidos, nombre, DNI, datos bancarios, dirección postal, correo electrónico y fax (en su caso). Tratamiento de datos automatizados.
 
 5. Cesión de datos que se prevé: Ninguna.
 
@@ -3763,6 +3763,8 @@ h) Órgano responsable del fichero: Dirección General de los Registros y del No
 i) Servicios o unidades ante los que pueden ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de los Registros y del Notariado, Subdirección General del Notariado y de los Registros, Plaza Jacinto Benavente, 3, 28071 Madrid.
 
 j) Medidas de seguridad con indicación del nivel exigible: Nivel Básico.
+
+> Se modifica el fichero 84 por la disposición final 1 de la Orden JUS/1468/2014, de 25 de julio. Ref. BOE-A-2014-8464
 
 > Se añade el fichero 134 por la disposición final 1 y el anexo de la Orden JUS/746/2014, de 7 de mayo. Ref. BOE-A-2014-4910
 
