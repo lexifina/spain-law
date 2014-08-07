@@ -2,7 +2,7 @@
 
 ## Unidades docentes de carácter multiprofesional
 
-a) Unidades docentes de Salud Mental en las que se formarán médicos especialistas en Psiquiatría, psicólogos especialistas en Psicología Clínica y enfermeros especialistas en Enfermería de Salud Mental.
+a) Unidades docentes de Salud Mental en las que se formarán médicos especialistas en Psiquiatría, médicos especialistas en Psiquiatría del Niño y del Adolescente, psicólogos especialistas en Psicología Clínica y enfermeros especialistas en Enfermería de Salud Mental.
 
 b) Unidades docentes de Pediatría en las que se formarán médicos especialistas en Pediatría y sus áreas específicas y enfermeros especialistas en Enfermería Pediátrica.
 
@@ -13,3 +13,7 @@ d) Unidades docentes de Salud Laboral en las que se formarán médicos especiali
 e) Unidades docentes de Geriatría en las que se formarán médicos especialistas en Geriatría y enfermeros especialistas en Enfermería Geriátrica.
 
 f) Unidades docentes de Obstetricia y Ginecología en las que se formarán médicos especialistas en Obstetricia y Ginecología y enfermeros especialistas en Enfermería Obstétrico-Ginecológica (Matrona).
+
+> Se modifica el apartado a) por la disposición final 1.7 del Real Decreto 639/2014, de 25 de julio. Ref. BOE-A-2014-8497#dfprimera.
+
+> Téngase en cuenta que el Real Decreto 639/2014, de 25 de julio, ha sido declarado nulo por Sentencia del TS de 12 de diciembre de 2016. Ref. BOE-A-2016-3480

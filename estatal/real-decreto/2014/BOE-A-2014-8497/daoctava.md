@@ -1,0 +1,3 @@
+## Disposición adicional octava. Normas relativas a la constitución de los primeros comités de área de capacitación específica.
+
+La persona titular del Ministerio de Sanidad, Servicios Sociales e Igualdad, oídas las comisiones nacionales de las especialidades implicadas, designará a los integrantes de los primeros comités de área de capacitación específica y otorgará el diploma de área que corresponda a los vocales que sean designados para el primer mandato del correspondiente comité. Dicha designación recaerá en personas de reconocido prestigio y una experiencia profesional específicamente desarrollada en el ámbito del área de capacitación de que se trate, de al menos cinco años en los siete anteriores a la entrada en vigor de este real decreto.

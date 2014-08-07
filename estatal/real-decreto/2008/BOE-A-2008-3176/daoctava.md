@@ -1,4 +1,4 @@
-## Disposición adicional octava. Equivalencias entre títulos de médico especialista.
+## Disposición adicional octava. Equivalencias entre títulos españoles de especialista.
 
 1. Se declaran equivalentes entre sí los títulos de las especialidades médicas que a continuación se indican:
 
@@ -52,4 +52,14 @@ x) Traumatología y Ortopedia al actual de Cirugía Ortopédica y Traumatología
 
 y) Traumatología y Cirugía Ortopédica al actual de Cirugía Ortopédica y Traumatología.
 
+z) Farmacia Hospitalaria al actual de Farmacia Hospitalaria y de Atención Primaria.
+
+aa) Análisis Clínicos al actual de Análisis Clínicos y Bioquímica Clínica.
+
+bb) Bioquímica Clínica al actual de Análisis Clínicos y Bioquímica Clínica.
+
 2. Los Licenciados en Medicina que se encuentren en posesión del titulo de Especialista en Electrorradiología podrán solicitar del Ministerio de Educación y Ciencia la obtención de uno de los títulos de Especialista en Medicina Nuclear, Radiodiagnóstico u Oncología Radioterápica, aportando la documentación acreditativa de haber realizado la actividad profesional especializada que corresponda. Con carácter previo a la resolución de dichas solicitudes por el Ministerio de Educación y Ciencia, la comisión nacional de la especialidad que se desea obtener emitirá informe motivado sobre cada una de ellas.
+
+> Se modifica la rúbrica y el apartado 1 por la disposición final 1.4 y 5 del Real Decreto 639/2014, de 25 de julio. Ref. BOE-A-2014-8497#dfprimera.
+
+> Téngase en cuenta que el Real Decreto 639/2014, de 25 de julio, ha sido declarado nulo por Sentencia del TS de 12 de diciembre de 2016. Ref. BOE-A-2016-3480
