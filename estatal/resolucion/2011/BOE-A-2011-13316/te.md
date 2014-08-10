@@ -277,3 +277,19 @@ C.3) En las definiciones y relaciones contables de cuentas del PGCP en que se ha
 C.4) En las cuentas del PGCP en las que, como contrapartida en los movimientos de cargo, se haga referencia a cuentas del subgrupo 40, «Acreedores presupuestarios», dicha referencia deberá entenderse hecha a cuentas del nuevo subgrupo 42, «Acreedores varios», o cuentas de subgrupo 57, «Efectivo y activos líquidos equivalentes».
 
 C.5) En las cuentas del PGCP en las que, como contrapartida en los movimientos de abono, se haga referencia a cuentas del subgrupo 43, «Deudores presupuestarios», dicha referencia deberá entenderse hecha a cuentas del nuevo subgrupo 46, «Deudores varios», o cuentas de subgrupo 57, «Efectivo y activos líquidos equivalentes».
+
+D) Otras modificaciones.
+
+– La definición de la cuenta 558 tendrá la siguiente redacción:
+
+558. Provisiones de fondos para pagos a justificar y anticipos de caja fija.
+
+Recoge la situación y los movimientos de los fondos librados para pagos a justificar y anticipos de caja fija, a favor de cajeros pagadores integrados orgánicamente en la entidad contable.
+
+Figurará en el activo corriente del balance en el epígrafe B.III, “Deudores y otras cuentas a cobrar”, excepto la subcuenta 5586 que figurará en el epígrafe C.IV, “Acreedores y otras cuentas a pagar”, del pasivo corriente.
+
+Funcionará a través de sus divisionarias.
+
+El contenido y movimiento de las subcuentas que comprende es el siguiente:
+
+> Se añade la letra D) por el apartado 2.1 de la Resolución de 30 de julio de 2014. Ref. BOE-A-2014-8606

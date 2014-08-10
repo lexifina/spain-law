@@ -4,11 +4,11 @@ Los entes públicos cuyo presupuesto de gastos tiene carácter estimativo formar
 
 A) Adecuación del Balance.
 
-Como consecuencia de la adaptación del Cuadro de cuentas que se regula en el punto segundo de esta Resolución, se realizan las siguientes modificaciones en el modelo del Balance:
+Como consecuencia de las adaptaciones del Cuadro de cuentas y de las Definiciones y relaciones contables, que se regulan en los apartados segundo y tercero, respectivamente, de esta resolución, se realizan las siguientes modificaciones en el modelo del balance:
 
 1. En la partida 1, «Deudores por operaciones de gestión», del epígrafe B.III, «Deudores y otras cuentas a cobrar», del activo figurarán exclusivamente las cuentas 460 y (4900).
 
-2. En la partida 2, «Otras cuentas a cobrar», del epígrafe B.III, «Deudores y otras cuentas a cobrar», del activo figurarán exclusivamente las cuentas 469, (4901), 550, 555 y 558.
+2. En la partida 2., “Otras cuentas a cobrar”, del epígrafe B.III, “Deudores y otras cuentas a cobrar”, del activo figurarán las cuentas 469, (4901), 550, 555, 5580, 5581, 5584 y 5585.
 
 3. En la partida 2, «Créditos y valores representativos de deuda», del epígrafe B.IV, «Inversiones financieras a corto plazo en entidades del grupo, multigrupo y asociadas», del activo se eliminan las cuentas 4302, 4432 y (4902).
 
@@ -22,7 +22,7 @@ Como consecuencia de la adaptación del Cuadro de cuentas que se regula en el pu
 
 8. En la partida 1, «Acreedores por operaciones de gestión», del epígrafe C.IV, «Acreedores y otras cuentas a pagar», del pasivo figurará exclusivamente la cuenta 420.
 
-9. En la partida 2, «Otras cuentas a pagar», del epígrafe C.IV, «Acreedores y otras cuentas a pagar», del pasivo figurarán exclusivamente las cuentas 429, 550, 554 y 559.
+9. En la partida 2., “Otras cuentas a pagar”, del epígrafe C.IV, “Acreedores y otras cuentas a pagar”, del pasivo figurarán las cuentas 429, 550, 554, 5586 y 559.
 
 B) Supresión del Estado de liquidación del presupuesto.
 
@@ -97,3 +97,5 @@ Su contenido será el previsto en la letra g) del epígrafe 1, «Indicadores fin
 7. Ratios de la cuenta del resultado económico patrimonial.
 
 Su contenido será el previsto en la letra h) del epígrafe 1, «Indicadores financieros y patrimoniales», de la nota 24 que se figura en el modelo de Memoria que se incluye en la Tercera parte del PGCP.
+
+> Se modifica la letra A) por el apartado 2.2 de la Resolución de 30 de julio de 2014. Ref. BOE-A-2014-8606

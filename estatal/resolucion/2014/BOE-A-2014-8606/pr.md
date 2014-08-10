@@ -1,0 +1,51 @@
+La Orden EHA/1037/2010, de 13 de abril, aprobó un nuevo Plan General de Contabilidad Pública (en adelante PGCP) con el carácter de plan contable marco para todas las Administraciones Públicas.
+
+La Instrucción de Contabilidad para la Administración Institucional del Estado, aprobada por Orden EHA/2045/2011, de 14 de julio, regula en su regla 3 la aplicación del PGCP a las entidades a las que les sea de aplicación dicha Instrucción.
+
+En este sentido, en el apartado 1 de dicha regla se establece que el registro de las operaciones contables se realizará con sujeción al marco conceptual de la contabilidad pública y a las normas de reconocimiento y valoración que se establecen en el PGCP, y con lo que se disponga al respecto en las normas de desarrollo y adaptaciones del mismo que se elaboren por la Intervención General de la Administración del Estado.
+
+Asimismo, en el apartado 2 de dicha regla se establece que las anotaciones contables se realizarán utilizando el desarrollo en cuentas de primer orden (tres dígitos) previsto en el cuadro de cuentas del PGCP y que la utilización de cuentas de primer orden no recogidas en el mismo requerirá autorización expresa de la Intervención General de la Administración del Estado.
+
+Por último, en el apartado 4 de dicha regla se establece que las cuentas anuales se formarán y aprobarán según lo dispuesto en el título V de la Ley General Presupuestaria, en los títulos IV y V de la Instrucción y en las demás disposiciones que sean de aplicación.
+
+Por otra parte, en el apartado 1 de la referida regla 3 se establece que para las entidades contables cuyo presupuesto de gastos tenga carácter estimativo, o cuando las especiales características de determinada entidad así lo requieran, por la Intervención General de la Administración del Estado se elaborará la oportuna adaptación del PGCP.
+
+En este sentido, la Resolución de 28 de julio de 2011 de la Intervención General de la Administración del Estado, por la que se aprueba la adaptación del Plan General de Contabilidad Pública para los entes públicos cuyo presupuesto de gastos tiene carácter estimativo, regula la adaptación de la partes cuarta, «Cuadro de cuentas», y quinta, «Definiciones y relaciones contables», del PGCP a dichos entes, así como la adecuación a los mismos de las cuentas anuales que se regulan en el capítulo 2.º del título IV de la Instrucción de Contabilidad para la Administración Institucional del Estado.
+
+Por tanto, la aplicación del PGCP por los entes cuyo presupuesto de gastos tiene carácter estimativo presenta las siguientes especialidades:
+
+– En lo que respecta a la aplicación de las partes primera y segunda del PGCP, les es aplicable lo regulado con carácter general para las entidades de la Administración Institucional del Estado.
+
+– En lo relativo a sus cuentas anuales, les es aplicable lo establecido en el capítulo 2.º del título IV de la Instrucción de Contabilidad para la Administración Institucional del Estado con las adecuaciones reguladas en el apartado cuarto de la Resolución de 28 de julio de 2011 que aprueba su adaptación.
+
+– En lo relativo a las partes cuarta y quinta del PGCP –cuadro de cuentas y definiciones y relaciones contables– les es aplicable lo regulado en los apartados segundo y tercero de la Resolución de 28 de julio de 2011 que aprueba su adaptación.
+
+Es por ello que el apartado primero de esta resolución, que regula las adaptaciones del PGCP a la Administración Institucional del Estado, solo es parcialmente aplicable a los entes públicos cuyo presupuesto de gastos tiene carácter estimativo, tal y como se establece en el punto uno del mismo.
+
+En concreto, se ha excluido a dichos entes de la aplicación de los puntos tres, cuatro y cinco del apartado primero, ya que las modificaciones que en ellos se realizan deben regularse, en el caso de dichos entes, mediante modificación de la Resolución de 28 de julio de 2011 que aprueba su adaptación, lo que se ha hecho en el apartado segundo de esta resolución.
+
+La presente resolución se estructura en dos apartados, y una disposición final que regula su entrada en vigor.
+
+En el apartado primero, dividido en cinco puntos, se regulan diversas adaptaciones del PGCP a las entidades integrantes de la Administración Institucional del Estado.
+
+En el punto uno se establece el ámbito de aplicación de dicho apartado, que será el previsto en la regla 1 de la Instrucción de Contabilidad para la Administración Institucional del Estado, con la excepción de los puntos tres, cuatro y cinco que no serán de aplicación a aquellas entidades de la Administración Institucional del Estado cuyo presupuesto de gastos tenga carácter estimativo, por lo señalado anteriormente.
+
+En el punto dos se regula la adaptación de la norma de reconocimiento y valoración 2.ª, «Inmovilizado material», con el fin de que la activación de gastos financieros solamente se permita en los inmovilizados que necesiten un período de tiempo superior a un año para estar en condiciones de uso.
+
+En el punto tres se regula la adaptación del modelo del balance, con el fin de modificar la ubicación en el mismo de la subcuenta 5586, «Gastos realizados con provisiones de fondos para pagos a justificar pendientes de aprobación», de acuerdo con la adaptación realizada en la definición de la cuenta 558, «Provisiones de fondos para pagos a justificar y anticipos de caja fija», en el punto cinco.2 del apartado primero de esta Resolución.
+
+En los puntos cuatro y cinco se regulan las adaptaciones del «Cuadro de cuentas» y de las «Definiciones y relaciones contables», respectivamente, con el fin de añadir la cuenta 417, «Anticipos de prestación de servicios», para registrar en una cuenta específica dichos anticipos, y de modificar la definición de la cuenta 558, «Provisiones de fondos para pagos a justificar y anticipos de caja fija».
+
+La creación de la cuenta 417, «Anticipos de prestación de servicios», que no está prevista en el PGCP, ha sido solicitada por una entidad perteneciente a la Administración Institucional del Estado. No obstante, se ha considerado adecuada su apertura con carácter general para posibilitar su utilización por todas las entidades incluidas en el ámbito de aplicación del apartado primero de esta resolución.
+
+En el apartado segundo, dividido en dos puntos, se modifica la Resolución de 28 de julio de 2011 de la Intervención General de la Administración del Estado, por la que se aprueba la adaptación del Plan General de Contabilidad Pública para los entes públicos cuyo presupuesto de gastos tiene carácter estimativo.
+
+En el punto uno se modifica el apartado tercero de dicha resolución, con el fin de modificar la definición de la cuenta 558, «Provisiones de fondos para pagos a justificar y anticipos de caja fija», en el mismo sentido que se hace en el punto cinco del apartado primero de esta resolución para las restantes entidades de la Administración Institucional del Estado.
+
+En el punto dos se modifica el apartado cuarto, «Adecuación de las cuentas anuales», de dicha Resolución, con el fin de modificar la ubicación en el balance de la subcuenta 5586, «Gastos realizados con provisiones de fondos para pagos a justificar pendientes de aprobación», de acuerdo con la adaptación realizada en la definición de la cuenta 558, «Provisiones de fondos para pagos a justificar y anticipos de caja fija», en el punto uno de este apartado segundo.
+
+Por último, señalar que para los entes públicos cuyo presupuesto de gastos tiene carácter estimativo no es necesario habilitar en su adaptación una cuenta específica para el registro de los anticipos por prestación de servicios, equivalente a la 417 habilitada para el resto de entidades, ya que en dicha adaptación se ha eliminado el subgrupo 41 integrándolo en la cuenta 420, «Acreedores por operaciones derivadas de la actividad», siendo por tanto en esta cuenta en la que deberán registrar dichos anticipos, para lo cual podrán habilitar una divisionaria específica si lo consideran oportuno.
+
+El apartado 1.b) del artículo 125 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, atribuye a la Intervención General de la Administración del Estado la competencia para aprobar la normativa de desarrollo del Plan General de Contabilidad Pública y los planes parciales o especiales que se elaboren conforme al mismo.
+
+En su virtud, dispongo:
