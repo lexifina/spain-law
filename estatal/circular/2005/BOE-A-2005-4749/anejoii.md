@@ -132,57 +132,123 @@ No hay previstas transferencias de datos.
 
 ## Fichero
 
-## Operaciones de cuentas corrientes y depósito de valores (*)
+## Operaciones de cuentas corrientes y depósito de valores
 
-Finalidad del fichero y usos previstos del mismo: Gestión de las operaciones de cuentas corrientes y de valores.
+Responsable del fichero:
 
-Personas físicas afectadas: Titulares y apoderados de cuentas en el Banco de España, así como ordenantes y beneficiarios de operaciones.
+Banco de España.
 
-Procedencia y procedimiento de recogida de los datos de carácter personal:
+Responsable de protección de datos del fichero:
 
-Los datos proceden de entidades privadas, Administraciones Públicas o de su representante legal.
+Departamento de Sistemas de Pago.
 
-Se recogen mediante declaraciones o formularios y transmisión electrónica de datos.
+Sucursales del Banco de España.
 
-El soporte utilizado para la obtención es: soporte papel, soporte magnético/informático y transmisión electrónica por vía telemática.
+Derechos de acceso, rectificación, cancelación y oposición:
+
+Departamento de Sistemas de Pago.
+
+C/ Alcalá, 48.
+
+28014 Madrid.
+
+Tipo de fichero:
+
+Gestionado por el Banco de España en virtud de las funciones públicas a él encomendadas por la Ley 13/1994, de 1 de junio.
+
+Finalidad del fichero y usos previstos del mismo:
+
+Gestión de las operaciones de cuentas corrientes y de valores.
+
+Tipo de finalidad y usos previstos del fichero:
+
+Hacienda Pública y gestión de administración tributaria.
+
+Gestión económico-financiera pública.
+
+Gestión contable, fiscal y administrativa.
+
+Otras finalidades.
+
+Origen de los datos:
+
+El propio interesado o su representante legal.
+
+Entidad privada.
+
+Administraciones Públicas.
+
+Colectivos o categorías de interesados:
+
+Ciudadanos y residentes.
+
+Representantes legales.
+
+Cargos públicos.
+
+Otros colectivos: Apoderados/autorizados por los titulares de cuentas corrientes.
 
 Estructura básica del fichero y tipos de datos de carácter personal incluidos en él:
 
-DNI/NIF.
+Datos especialmente protegidos:
+
+No incluye datos de este tipo.
+
+Datos relativos a la comisión de infracciones:
+
+No incluye datos de este tipo.
+
+Datos de carácter identificativo:
+
+NIF/DNI.
 
 Nombre y apellidos.
 
-Dirección Postal y Fiscal.
+Dirección.
 
-Firma.
+Teléfono.
 
-Firma digitalizada.
+Firma/huella.
 
-Condición de residente en España.
+Firma electrónica.
 
-Datos bancarios.
+Otros datos de carácter identificativo: Condición de residente en España.
 
-Datos de operaciones de cuentas corrientes y transferencias.
+Otros datos tipificados:
 
-Cesiones de datos de carácter personal: Las cesiones, actuales o previstas, tienen los siguientes destinatarios:
+Económicos, financieros y de seguros.
+
+Otros tipos de datos: Datos de apoderamiento/representación/autorización.
+
+Sistema de tratamiento:
+
+Mixto.
+
+Medidas de seguridad:
+
+Nivel medio.
+
+Cesiones de datos de carácter personal:
+
+Hacienda Pública y Administración Tributaria.
+
+Órganos judiciales.
+
+Otros órganos de la Administración del Estado.
 
 Entidades de crédito.
 
-Administraciones Públicas con competencias tributarias.
+Otras entidades financieras.
 
-Entidades financieras internacionales mediante transferencias dinerarias.
+Interesados legítimos.
 
-Ministerio de Economía y Hacienda.
+Otros: Auditores acreditados.
 
-Transferencias de datos de carácter personal a países terceros: No se prevén transferencias.
+Transferencias de datos de carácter personal a países terceros:
 
-Responsable del fichero: Banco de España.
+Entidades financieras. (*)
 
-Servicio o unidad ante el que se pueden ejercer los derechos de acceso, rectificación, cancelación y oposición: Departamento de Sistemas de Pago.
-
-Medidas de seguridad: Nivel: Medio.
-
-(*) Nombre anterior: Datos correspondientes a las operaciones de cuentas corrientes y depósito de valores.
+(*) Véase, en cuanto a las transferencias de datos de carácter personal a países terceros, la Norma duodécima de la Circular 4/2014, de 30 de julio. Ref. BOE-A-2014-8654.
 
 ## Fichero
 
@@ -1852,6 +1918,8 @@ Transferencias de datos de carácter personal a países terceros:
 
 No hay previstas transferencias de datos.
 
+> Se modifica por la Circular 4/2014, de 30 de julio. Ref. BOE-A-2014-8654.
+
 > Se modifica por la Circular 2/2013, de 27 de junio. Ref. BOE-A-2013-7467.
 
 > Se modifica por la Circular 3/2012, de 28 de marzo. Ref. BOE-A-2012-4804.
@@ -1860,4 +1928,4 @@ No hay previstas transferencias de datos.
 
 > Se modifica por la Circular 4/2008, de 31 de octubre. Ref. BOE-A-2008-18886.
 
-> Se modifica por la Circular3/2007, de 27 de julio. Ref. BOE-A-2007-15479.
+> Se modifica por la Circular 3/2007, de 27 de julio. Ref. BOE-A-2007-15479.
