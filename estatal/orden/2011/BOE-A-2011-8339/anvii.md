@@ -1,23 +1,49 @@
 ## ANEXO VII
 
-## Información a enviar en caso de escala en un puerto español titularidad de una comunidad autónoma
+## Información a enviar por el consignatario del buque, el capitán del mismo o la empresa naviera en caso de escala en un puerto español titularidad de una comunidad autónoma
 
-La información que se especifica seguidamente se presentará al menos con 72 horas de antelación respecto de la fecha de llegada al puerto prevista, o antes de abandonar el puerto o estación marítima de origen en el caso de que se prevea que el viaje vaya a durar menos de 72 horas.
+1. La información que se especifica seguidamente se presentará al menos con 72 horas de antelación, respecto de la fecha prevista de llegada al puerto, o antes de abandonar el puerto o estación marítima de origen en el caso de que se prevea que el viaje vaya a durar menos de 72 horas.
 
-a) Identificación del buque (nombre, distintivo de llamada, número OMI de identificación o número MMSI).
+a) identificación del buque;
 
-b) Duración prevista de la escala.
+b) duración prevista de la escala;
 
-c) En el caso de los buques tanque:
+c) en el caso de los buques tanque:
 
-i. Configuración: casco único, casco único con tanques de lastre separado, doble casco.
+i. configuración: Casco único, casco único con tanques de lastre separado, doble casco,
 
-ii. Condiciones de los tanques de carga y de lastre: llenos, vacíos, inertizados,
+ii. condiciones de los tanques de carga y de lastre: llenos, vacíos, inertizados,
 
-iii. Volumen y naturaleza de la carga.
+iii. volumen y naturaleza de la carga;
 
-d) Operaciones previstas en el puerto o estación marítima de destino (carga, descarga, otras).
+d) operaciones previstas en el puerto o estación marítima de destino (carga, descarga, otras);
 
-e) Reconocimientos e inspecciones obligatorias previstas y trabajos importantes de mantenimiento y reparación que hayan de efectuarse durante la estancia en el puerto de destino.
+e) reconocimientos e inspecciones obligatorias previstas y trabajos importantes de mantenimiento y reparación que hayan de efectuarse durante la estancia en el puerto de destino;
 
-f) Fecha de la última inspección ampliada en la zona del MA de París.
+f) fecha de la última inspección ampliada en la zona del MA de París.
+
+2. La información que se especifica seguidamente se presentará al menos con veinticuatro horas de antelación a la hora prevista de llegada del buque a aguas portuarias, salvo en el caso de emergencia u otras circunstancias excepcionales debidamente motivadas, en que se comunicarán a la mayor brevedad posible:
+
+a) Identificación del buque.
+
+b) Los datos de la compañía naviera o armador consignado.
+
+c) ETA y ETD.
+
+d) Puerto anterior y posterior.
+
+e) Nombre del capitán.
+
+f) Número de polizones a bordo.
+
+g) La lista de tripulantes.
+
+h) La lista de pasajeros.
+
+i) Notificación de residuos.
+
+j) La notificación de protección.
+
+k) La información sobre mercancías peligrosas y contaminantes.
+
+> Se modifica por el art. único.16 de la Orden FOM/1498/2014, de 1 de agosto. Ref. BOE-A-2014-8624.
