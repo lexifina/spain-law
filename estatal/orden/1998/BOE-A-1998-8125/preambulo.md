@@ -1,1 +1,1 @@
-Téngase en cuenta que las referencias contenidas a días de pesca se entienden hechas a porcentajes de cuota de pesca según establece la disposición final 1 de la Orden AAA/2653/2012, de 11 de diciembre. Ref. BOE-A-2012-15105.
+Norma derogada por la disposición derogatoria única de la Orden AAA/1510/2014, de 1 de agosto. Ref. BOE-A-2014-8697.
