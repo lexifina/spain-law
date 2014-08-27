@@ -1,0 +1,5 @@
+## Disposición final cuarta. Actualización de los anexos y modificación de los formularios.
+
+1. El contenido de los anexos I, II, III, IV, y V del Reglamento de control del comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso, podrá ser actualizado mediante orden del Ministro de Economía y Competitividad, con informe previo de la JIMDDU, de acuerdo con los cambios aprobados en los organismos internacionales, en los tratados internacionales, en los regímenes internacionales de no proliferación y control de las exportaciones y en la normativa de la Unión Europea.
+
+2. La Secretaría de Estado de Comercio del Ministerio de Economía y Competitividad y la Dirección General de Armamento y Material del Ministerio de Defensa, en el ámbito de sus respectivas competencias, podrán modificar los formularios o impresos del anexo VI. En todo caso, la disposición mediante la que se efectúe dicha modificación deberá ser publicada en el «Boletín Oficial del Estado».
