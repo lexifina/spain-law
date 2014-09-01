@@ -44,7 +44,7 @@ S2. Hormonas peptídicas, factores de crecimiento y sustancias afines.
 
 Están prohibidas las siguientes sustancias y otras sustancias con estructura química similar o efecto(s) biológico(s) similar(es):
 
-1. Agentes estimulantes de la eritropoyesis (por ejemplo, eritropoyetina (EPO), darbepoetina (dEPO), estabilizadores del factor inducible por hipoxia (HIF), metoxi-polietilenglicol-epoetina beta (CERA), peginesatide (Hematide);
+1. Agentes estimulantes de la eritropoyesis (por ejemplo, eritropoyetina (EPO), darbepoetina (dEPO), estabilizadores del factor inducible por hipoxia (HIF) (por ejemplo, Argón y Xenón), metoxi-polietilenglicol-epoetina beta (CERA), peginesatide (Hematide);
 
 2. Gonadotrofina coriónica (CG) y hormona luteinizante (LH) y sus factores de liberación, prohibidas solo en hombres;
 
@@ -207,3 +207,5 @@ A menos que se especifique lo contrario, los betabloqueantes solo están prohibi
 Los beta-bloqueantes comprenden, aunque no exclusivamente, las siguientes sustancias:
 
 Acebutolol, alprenolol, atenolol, betaxolol, bisoprolol, bunolol, carteolol, carvedilol, celiprolol, esmolol, labetalol, levobunolol, metipranolol, metoprolol, nadolol, oxprenolol, pindolol, propranolol, sotalol, timolol.
+
+> Se modifica el apartado S2.1 por la Resolución de 25 de julio de 2014. Ref. BOE-A-2014-8493.
