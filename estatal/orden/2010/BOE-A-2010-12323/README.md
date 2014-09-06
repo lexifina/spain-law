@@ -28,6 +28,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 15](a1-7.md)
 - [Artículo 16](a1-8.md)
 - [Disposición transitoria única](dt.md)
+- [Disposición transitoria primera](dt-2.md)
+- [Disposición transitoria seguda](dt-3.md)
 - [Disposición derogatoria única](dd.md)
 - [Disposición final primera](df.md)
 - [Disposición final segunda](df-2.md)
