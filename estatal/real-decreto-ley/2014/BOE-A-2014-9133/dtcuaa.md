@@ -1,0 +1,7 @@
+## Disposición transitoria cuarta. Régimen transitorio en los procedimientos de ejecución.
+
+1. La modificaciones de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, introducidas por la disposición final tercera del presente real decreto-ley serán de aplicación a los procedimientos de ejecución iniciados a su entrada en vigor que no hayan culminado con la puesta en posesión del inmueble al adquirente conforme a lo previsto en el artículo 675 de la Ley de Enjuiciamiento Civil.
+
+2. En todo caso, en los procedimientos de ejecución en curso a la entrada en vigor de este real decreto-ley en los que se hubiere dictado el auto desestimatorio a que se refiere el párrafo primero del apartado 4 del artículo 695 de la Ley de Enjuiciamiento Civil, en la redacción dada por este real decreto-ley, las partes ejecutadas dispondrán de un plazo preclusivo de un mes para formular recurso de apelación basado en la existencia de las causas de oposición previstas en el apartado 7.º del artículo 557.1 y en el apartado 4.º del artículo 695.1 de la Ley de Enjuiciamiento Civil. Dicho plazo se computará desde el día siguiente a la entrada en vigor de este real decreto-ley.
+
+3. La publicidad de la presente disposición tendrá el carácter de comunicación plena y válida a los efectos de notificación y cómputo de los plazos previstos en el apartado 2 de esta disposición, no siendo necesario en ningún caso dictar resolución expresa al efecto.

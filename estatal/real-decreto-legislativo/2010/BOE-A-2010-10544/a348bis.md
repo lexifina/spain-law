@@ -6,7 +6,9 @@
 
 3. Lo dispuesto en este artículo no será de aplicación a las sociedades cotizadas.
 
-> Téngase en cuenta que queda suspendida la aplicación hasta el 31 de diciembre de 2014, según establece la disposición transitoria añadida por el art. 1.4 de la Ley 1/2012, de 22 de junio. Ref. BOE-A-2012-8406.
+> Téngase en cuenta que queda suspendida la aplicación hasta el 31 de diciembre de 2016, según establece la disposición final 1 del Real Decreto-ley 11/2014, de 5 de septiembre. Ref. BOE-A-2014-9133.
+
+> Se suspende la aplicación hasta el 31 de diciembre de 2016 por la disposición final 1 del Real Decreto-ley 11/2014, de 5 de septiembre. Ref. BOE-A-2014-9133.
 
 > Se suspende la aplicación hasta el 31 de diciembre de 2014 por la disposición transitoria añadida por el art. 1.4 de la Ley 1/2012, de 22 de junio. Ref. BOE-A-2012-8406.
 
