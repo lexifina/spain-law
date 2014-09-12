@@ -4,8 +4,6 @@
 
 Consejería de Turismo en Berlín.
 
-Consejería de Turismo en Düsseldorf.
-
 Consejería de Turismo en Frankfurt.
 
 Consejería de Turismo en Múnich.
@@ -65,3 +63,5 @@ Consejería de Turismo en Ginebra.
 Consejería de Turismo en Zúrich.
 
 Consejería de Turismo en Dublín.
+
+> Se suprime la Consejería de Turismo en Düsseldorf por la disposición final 3 del Real Decreto 726/2014, de 29 de agosto. Ref. BOE-A-2014-9260
