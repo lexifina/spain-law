@@ -2,7 +2,7 @@
 
 ## DESPLIEGUE DE LA UNIDAD MILITAR DE EMERGENCIAS
 
-Cuartel General, en Torrejón de Ardoz (Madrid)
+Cuartel General, en Torrejón de Ardoz (Madrid).
 
 Unidad de Cuartel General, en Torrejón de Ardoz (Madrid):
 
@@ -10,7 +10,7 @@ Mando y Plana Mayor.
 
 Compañía de Plana Mayor y Servicios.
 
-Batallón de Transmisiones, en Torrejón de Ardoz (Madrid)
+Batallón de Transmisiones, en Torrejón de Ardoz (Madrid):
 
 Mando y Plana Mayor.
 
@@ -20,7 +20,7 @@ Compañía de Transmisiones de Puesto de Mando Fijo.
 
 Compañía de Transmisiones de Puestos de Mando Desplegables.
 
-I Batallón de Intervención en Emergencias, en Torrejón de Ardoz (Madrid)
+I Batallón de Intervención en Emergencias, en Torrejón de Ardoz (Madrid):
 
 Mando y Plana Mayor.
 
@@ -32,7 +32,7 @@ Compañía de Plana Mayor y Servicios.
 
 13 Compañía de Ingenieros.
 
-II Batallón de Intervención en Emergencias, en Morón (Sevilla)
+II Batallón de Intervención en Emergencias, en Morón (Sevilla):
 
 Mando y Plana Mayor.
 
@@ -44,11 +44,13 @@ Compañía de Plana Mayor y Servicios.
 
 23 Compañía de Ingenieros.
 
-Unidad de Intervención en Emergencias Naturales, en Gando-Telde (Las Palmas).
+Unidad de Intervención en Emergencias Naturales de Canarias:
 
-Unidad de Intervención en Emergencias Naturales, en los Rodeos-San Cristóbal de La Laguna (Santa Cruz de Tenerife).
+– Destacamento en Gando-Telde (Las Palmas).
 
-III Batallón de Intervención en Emergencias, en Bétera (Valencia)
+– Destacamento en Los Rodeos-San Cristóbal de La Laguna (Santa Cruz de Tenerife).
+
+III Batallón de Intervención en Emergencias, en Bétera (Valencia):
 
 Mando y Plana Mayor.
 
@@ -60,7 +62,7 @@ Compañía de Plana Mayor y Servicios.
 
 33 Compañía de Ingenieros.
 
-IV Batallón de Intervención en Emergencias, en Zaragoza
+IV Batallón de Intervención en Emergencias, en Zaragoza:
 
 Mando y Plana Mayor.
 
@@ -72,7 +74,7 @@ Compañía de Plana Mayor y Servicios.
 
 43 Compañía de Ingenieros.
 
-V Batallón de Intervención en Emergencias, en San Andrés de Rabanedo (León)
+V Batallón de Intervención en Emergencias, en San Andrés de Rabanedo (León):
 
 Mando y Plana Mayor.
 
@@ -84,7 +86,7 @@ Compañía de Plana Mayor y Servicios.
 
 53 Compañía de Ingenieros.
 
-Regimiento de Apoyo e Intervención en Emergencias, en Torrejón de Ardoz (Madrid)
+Regimiento de Apoyo e Intervención en Emergencias, en Torrejón de Ardoz (Madrid):
 
 Mando y Plana Mayor.
 
@@ -93,6 +95,8 @@ Compañía de Plana Mayor y Servicios.
 Grupo de Apoyo a Emergencias.
 
 Grupo de Intervención en Emergencias Tecnológicas y Medioambientales.
+
+> Se modifica por el art. único de la Orden DEF/1631/2014, de 3 de septiembre. Ref. BOE-A-2014-9332.
 
 > Se modifica por el art. 1 de la Orden DEF/896/2013, de 16 de mayo. Ref. BOE-A-2013-5450.
 
