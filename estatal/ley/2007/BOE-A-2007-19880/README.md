@@ -148,6 +148,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 111](a111.md)
 - [Artículo 112](a112.md)
 - [Artículo 113](a113.md)
+- [Artículo 113 bis](a113bis.md)
 - [CAPÍTULO VIII](cviii.md)
 - [Artículo 114](a114.md)
 - [Artículo 115](a115.md)

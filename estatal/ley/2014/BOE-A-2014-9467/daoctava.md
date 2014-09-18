@@ -1,0 +1,5 @@
+## Disposición adicional octava. Aplicación del artículo 13.2 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos, a determinados órganos de la Administración General del Estado.
+
+1. Durante un período transitorio de dos años, podrán seguir utilizándose certificados no reconocidos en los procedimientos y servicios del Servicio Público de Empleo Estatal y las entidades gestoras y servicios comunes de la Seguridad Social, disponibles en la sede electrónica del Ministerio de Empleo y Seguridad Social, existentes a la fecha de entrada en vigor de esta Ley, sin que, durante el referido plazo, les resulte aplicable lo dispuesto en el artículo 13.2 de la Ley 11/2007, de 22 de junio, respecto a la admisión de los certificados reconocidos incluidos en la lista de servicios de confianza.
+
+2. El Servicio Público de Empleo Estatal y las entidades gestoras y servicios comunes de la Seguridad Social podrán exigir la acreditación previa ante sus oficinas de la identidad y, en su caso, relación de representación de los interesados para la realización de trámites por vía electrónica en los procedimientos que así lo requieran.

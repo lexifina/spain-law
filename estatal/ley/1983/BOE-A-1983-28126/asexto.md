@@ -1,5 +1,5 @@
 ## Artículo sexto.
 
-El Director del Instituto, que tendrá categoría de Director general, será nombrado por Real Decreto a propuesta del titular del Ministerio al que está adscrito el Instituto.
+(Suprimido)
 
-El Secretario general del Instituto será nombrado por el Director del Instituto.
+> Se suprime por el art. 17.6 de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.

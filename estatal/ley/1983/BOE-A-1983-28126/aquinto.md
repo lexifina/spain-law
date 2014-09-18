@@ -1,5 +1,19 @@
-## Artículo quinto.
+## Artículo quinto. Financiación.
 
-El Consejo Rector funcionará en pleno y en Comisión Permanente. Esta, que será presidida por el Director general del Instituto, estará integrada por cinco de los Vocales representantes de Ministerios y por cuatro de los Vocales de libre designación del Presidente del Pleno del Consejo Rector.
+Para el cumplimiento de sus fines, el Instituto de la Mujer y para la Igualdad de Oportunidades dispondrá de los siguientes recursos económicos:
 
-El Secretario del Instituto desarrollará, respecto de la Comisión Permanente, las mismas funciones que respecto del Pleno le atribuye el artículo anterior.
+a) Las transferencias y demás asignaciones que figuren en los Presupuestos Generales del Estado.
+
+b) Las donaciones, legados, subvenciones y cualquier otra ayuda económica que pueda obtener y que válidamente acepte.
+
+c) Los bienes y valores que constituyen su patrimonio.
+
+d) Los productos y rentas de dicho patrimonio.
+
+e) Los beneficios que, en su caso, pueda obtener de la actividad que sea propia del Instituto.
+
+f) Cualquier otro recurso que pueda serle atribuido.
+
+> Se modifica por el art. 17.7 de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.
+
+> Su anterior numeración era art. 7.

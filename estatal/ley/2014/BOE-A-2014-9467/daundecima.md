@@ -1,0 +1,3 @@
+## Disposición adicional undécima. Incremento del gasto público.
+
+Las medidas incluidas en esta norma no podrán suponer incremento de dotaciones ni de retribuciones ni de otros gastos de personal y el funcionamiento de los diferentes órganos entes y organismos tendrá que realizarse con los medios materiales y personales de que se dispone actualmente por el organismo o ente que se integra y el organismo en el que será integrado. Los órganos, organismos y entes se dotarán exclusivamente mediante la incorporación de efectivos de los propios organismos y entes afectados en cada caso o mediante la correspondiente redistribución de efectivos de cualquier ente u organismo público.

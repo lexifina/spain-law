@@ -1,11 +1,7 @@
 ## Artículo segundo bis.
 
-Además de las atribuidas en el artículo anterior y demás normas vigentes, el Instituto de la Mujer ejercerá, con independencia, las siguientes funciones:
+(Suprimido)
 
-a) la prestación de asistencia a las víctimas de discriminación para que tramiten sus reclamaciones por discriminación;
-
-b) la realización de estudios sobre la discriminación;
-
-c) la publicación de informes y la formulación de recomendaciones sobre cualquier cuestión relacionada con la discriminación.
+> Se suprime por el art. 17.6 de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.
 
 > Se añade por la disposición adicional 27 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115

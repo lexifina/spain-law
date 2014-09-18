@@ -1,1 +1,1 @@
-> Incluye las correcciones de errores del epígrafe de la Ley publicadas en BOE núms. 12, de 14 de enero de 1984 Ref. BOE-A-1984-877 y 21, de 25 de enero de 1984. Ref. BOE-A-1984-1881
+Norma derogada por la disposición derogatoria única de la Ley 15/2014, de 16 de septiembre Ref. BOE-A-2014-9467. Téngase en cuenta el régimen transitorio de continuación de funciones del Consejo de la Juventud establecido en la disposición transitoria 1 de la citada disposición.

@@ -1,0 +1,1 @@
+El organismo autónomo Instituto de la Mujer cambia su denominación por la de "Instituto de la Mujer y para la Igualdad de Oportunidades", según establece el art. 17.1 de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467#a17.
