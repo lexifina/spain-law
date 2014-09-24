@@ -1,5 +1,0 @@
-## ANEXO
-
-## ESTRATEGIA ESPAÑOLA DE EMPLEO 2012-2014
-
-28 de octubre de 2011
