@@ -8,34 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2014-09-25 by BOE-A-2014-7877. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no](no.md)
-- [preambulo](preambulo.md)
-- [Artículo primero](aprimero.md)
-- [Artículo segundo](asegundo.md)
-- [Artículo tercero](atercero.md)
-- [Artículo cuarto](acuao.md)
-- [Artículo quinto](aquinto.md)
-- [Artículo sexto](asexto.md)
-- [Artículo séptimo](aseptimo.md)
-- [Artículo octavo](aoctavo.md)
-- [Artículo noveno](anoveno.md)
-- [Artículo diez](adiez.md)
-- [Artículo once](aonce.md)
-- [Artículo doce](adoce.md)
-- [Artículo trece](atrece.md)
-- [Artículo catorce](acatorce.md)
-- [Artículo quince](aquince.md)
-- [Artículo dieciséis](adieciseis.md)
-- [Artículo diecisiete](adiecisiete.md)
-- [Artículo dieciocho](adieciocho.md)
-- [Artículo diecinueve](adiecinueve.md)
-- [Artículo veinte](aveinte.md)
-- [Artículo veintiuno](aveintiuno.md)
-- [Artículo veintidós](aveintidos.md)
-- [Artículo veintitrés](aveintitres.md)
-- [Artículo veinticuatro](aveinticuatro.md)
-- [Artículo veinticinco](aveinticinco.md)
-- [Artículo veintiséis](aveintiseis.md)
-- [firma](firma.md)
+- [BOE publisher notice](no.md)
