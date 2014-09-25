@@ -48,6 +48,8 @@ e) Nuevo cifrado y envío.
 
 8.º En el caso de que se produzca un cambio de buzón para un cine determinado, enviar los datos correspondientes hasta el último día en que haya estado conectado a dicho cine, siendo responsabilidad del nuevo buzón hacerlo desde la fecha de la implantación, sin que en ningún caso se puedan producir huecos de la información.
 
+9.º En su función de canal de venta, facilitar a los potenciales usuarios la información necesaria sobre los espacios y butacas habilitados para personas con discapacidad en cada una de las salas que gestionan, así como de la existencia, en su caso, de mecanismos de subtitulado y audiodescripción.
+
 2.2 Periodo de prueba y resolución de homologación.
 
 Las empresas solicitantes de la homologación pondrán de su parte cuantos elementos, tanto de software como de hardware, se les soliciten, estableciéndose un período de pruebas no superior a 7 días durante el cual se llevará a cabo dicha verificación. Una vez constatado el cumplimiento de todos los requisitos, se procederá a la homologación del sistema, mediante resolución del Director general del ICAA.
@@ -158,7 +160,7 @@ j) Existencia, en su caso, de mecanismos de subtitulado y audiodescripción.
 
 3.3.3 Datos de precios:
 
-a) Clave del precio. Identificador de los distintos precios que pueden utilizarse en la venta de las entradas.
+a) Clave del precio. Identificador de los distintos precios que pueden utilizarse en la venta de las entradas. El precio únicamente irá referido al derecho de acceso al visionado de la película, excluido el importe que pudiera corresponder a la venta de otros productos o a la prestación de otros servicios.
 
 b) Nombre del precio.
 
@@ -234,7 +236,7 @@ b) Nombre de la sala, dirección y municipio.
 
 c) Clase de localidad a la que da derecho.
 
-d) Precio.
+d) Precio del billete, que únicamente irá referido al derecho de acceso al visionado de la película, excluido el importe que pudiera corresponder a la venta de otros productos o a la prestación de otros servicios.
 
 e) IVA, en porcentaje, o impuesto específico de una Comunidad Autónoma.
 
@@ -302,7 +304,7 @@ c) El informe de exhibición de películas, que contendrá los siguientes datos:
 
 8. Número de entradas vendidas.
 
-9. Recaudación obtenida en cada sesión.
+9. Recaudación obtenida en cada sesión correspondiente a la asistencia al visionado de la película. No se incluirá el importe que pudiera corresponder a la venta de otros productos o a la prestación de otros servicios.
 
 El informe de exhibición de películas se podrá generar en cualquier momento y reflejará las ventas realizadas hasta el instante en que se genere.
 
@@ -449,3 +451,5 @@ b) Código de sala. Código suministrado por el ICAA. Posiciones 2 a 13. Se ajus
 c) Fecha de la sesión, de 6 dígitos de longitud, con formato ddmmaa, donde dd corresponderá a los dos dígitos del día, mm a los dos dígitos del mes, y aa a los dos dígitos del año, rellenando, en todos los casos en que sea necesario, con cero a la izquierda, cada una de las partes. Posiciones 14 a 19.
 
 d) Número de sesiones programadas para la fecha indicada, de dos dígitos de longitud, rellenando con cero a la izquierda, en caso necesario. Posiciones 20 a 21.
+
+> Se modifican los apartados 2 y 3 por el art. 1 de la Resolución de 16 de septiembre de 2014. Ref. BOE-A-2014-9665.
