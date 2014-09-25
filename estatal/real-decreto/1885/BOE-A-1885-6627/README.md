@@ -464,6 +464,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [LIBRO III](liii.md)
 - [TÍTULO PRIMERO](tprimero-3.md)
 - [Art 573](a573.md)
+- [Arts 573 a 869](as573a869.md)
 - [Art 574](a574.md)
 - [Art 575](a575.md)
 - [Art 576](a576.md)

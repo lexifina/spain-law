@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Acciones del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre.
+
+El ejercicio de las acciones que se prevén en esta ley para el contrato de compraventa en el capítulo VI del título II, será incompatible con el ejercicio de las acciones derivadas de falta de conformidad del bien con el contrato, previstas en el título V del Libro Segundo del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias.

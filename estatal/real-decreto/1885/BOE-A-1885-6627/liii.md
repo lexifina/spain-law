@@ -1,3 +1,5 @@
 ## LIBRO III
 
 ## Del comercio marítimo
+
+> Se deroga por la disposición derogatoria única.c) de la Ley 14/2014, de 24 de julio. Ref. BOE-A-2014-7877.

@@ -1,0 +1,5 @@
+## Disposición adicional octava. Buques históricos y réplicas.
+
+1. Los buques y embarcaciones históricas y sus reproducciones singulares podrán matricularse y abanderarse en un registro especial en los términos que reglamentariamente se determinen por el Gobierno. Dicha reglamentación establecerá, asimismo, un régimen simplificado de certificación e inspección al que estarán sometidas este tipo de buques y embarcaciones.
+
+2. Los buques y embarcaciones incluidos en el Inventario General de Bienes Muebles del Patrimonio Histórico Español o declarados bienes de interés cultural y los que revistan un interés especial por haber pertenecido a alguna personalidad relevante o intervenido en algún acontecimiento de trascendencia histórica, además de inscribirse en el registro que se cita en el apartado anterior, gozarán de un régimen especial de carácter fiscal y de la exención de tasas portuarias en los términos que reglamentariamente se determinen por el Gobierno de acuerdo con los instrumentos de fomento y protección reconocidos en la legislación sobre patrimonio histórico.

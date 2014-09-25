@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Sistemas alternativos de resolución de conflictos con consumidores.
+
+En relación con aquellos contratos regulados en esta ley en los que una de las partes sea un consumidor, en virtud de lo dispuesto en el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre, las partes del contrato podrán someter voluntariamente sus conflictos al sistema arbitral de consumo o a otros sistemas de resolución extrajudicial de conflictos que figuren en la lista que publica la Comisión Europea sobre dichos sistemas y que respete los principios establecidos por la normativa de consumo.
