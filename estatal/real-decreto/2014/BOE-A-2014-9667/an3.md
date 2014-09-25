@@ -1,0 +1,57 @@
+## ANEXO 3
+
+## Modificación de canales radioeléctricos del plan nacional de la televisión digital local
+
+| Referencia | Demarcación | Canal Plan | Nuevo canal |
+| --- | --- | --- | --- |
+| TL03AL | EJIDO | 60 | 27 |
+| TL07CA | UBRIQUE | 33 | 50 |
+| TL04CO | LUCENA | 29 | 40 |
+| TL05CO | MONTILLA | 26 | 33 |
+| TL09CO | PRIEGO CORDOBA | 49 | 47 |
+| TL04GR | GUADIX | 63 | 37 |
+| TL08GR | MOTRIL | 61 | 25 |
+| TL02H | ARACENA | 49 | 29 |
+| TL03H | HUELVA | 33 | 50 |
+| TL03MA | ESTEPONA | 43 | 40 |
+| TL06MA | MARBELLA | 64 | 44 |
+| TL08MA | RONDA | 64 | 30 |
+| TL08SE | UTRERA | 65 | 29 |
+| TL02HU | FRAGA | 35 | 37 |
+| TL01Z | ALMUNIA DOÑA GODINA | 32 | 35 |
+| TL07Z | TARAZONA | 48 | 49 |
+| TL05AS | LLANES | 61 | 25 |
+| TL02IB | INCA | 42 | 36 |
+| TL10IB | IBIZA-FORMENTERA | 47 | 34 |
+| TL02BU | BRIVIESCA | 25 | 23 |
+| TL03BU | BURGOS | 61 | 33 |
+| TL04BU | MEDINA POMAR | 48 | 37 |
+| TL05BU | MIRANDA EBRO | 31 | 41 |
+| TL01PO | AGUILAR CAMPO | 24 | 25 |
+| TL01CR | ALCAZAR S JUAN | 49 | 35 |
+| TL01TO | ILLESCAS | 33 | 34 |
+| TL01S | CASTRO-URDIALES | 26 | 39 |
+| TL03B | CORNELLA LLOBREGAT | 36 | 53 |
+| TL08B | VIC | 35 | 50 |
+| TL01L | BALAGUER | 48 | 24 |
+| TL01CE | CEUTA | 62 | 37 |
+| TL01GC | FUERTEVENTURA | 62 | 37 |
+| TL05GC | TELDE | 63 | 40 |
+| TL05TF | PALMA, LA | 63 | 28 |
+| TL07TF | TENERIFE | 56 | 47 |
+| TL09TF | GOMERA | 62 | 49 |
+| TL03BA | BADAJOZ | 46 | 41 |
+| TL04BA | CASTUERA | 53 | 23 |
+| TL06BA | HERRERA DUQUE | 42 | 44 |
+| TL01CC | CACERES | 40 | 43 |
+| TL02CC | CORIA | 38 | 48 |
+| TL08CC | VALENCIA ALCANTARA | 42 | 48 |
+| TL04LU | VILALBA | 64 | 29 |
+| TL02OU | CARBALLIÑO | 42 | 25 |
+| TL01ML | MELILLA | 61 | 43 |
+| TL03MU | CIEZA | 29 | 31 |
+| TL01NA | ESTELLA | 25 | 24 |
+| TL05NA | TUDELA | 42 | 39 |
+| TL06A | ELDA | 25 | 24 |
+| TL02CS | MORELLA | 22 | 37 |
+| TL04CS | VINAROS | 46 | 53 |
