@@ -24,47 +24,11 @@
 | 16 | 81 | 4 | N | Fecha de caducidad de la tarjeta (MMAA). |
 | 17 | 85 | 12 | N | Reservado para el importe en la moneda en que esté denominada la Cuenta Restringida del abono. (No se pide al ciudadano. Es calculado.) |
 
-2. Registro de datos reenviados por la A.E.A.T.
+2. Registro de orden de cargo
 
 | N.º | POS. | LONG. | TIPO. | DESCRIPCIÓN |
 | --- | --- | --- | --- | --- |
-| 1 | 1 | 9 | An | N.I.F. del titular de la tarjeta y del certificado de firma electrónica (XNNNNNNNX). |
-| 2 | 10 | 6 | N | Fecha (AAMMDD). |
-| 3 | 16 | 10 | N | Hora (HHMMSSSSSS). |
-| 4 | 26 | 3 | An | Tipo de Operación (012). |
-| 5 | 29 | 2 | An | Alta (01), Consulta (02). |
-| 6 | 31 | 3 | N | Concepto o modelo (002, 004, 008, 010, 012, 031, 032, 060, 061 ó 069). |
-| 7 | 34 | 2 | N | Ejercicio fiscal (00). |
-| 8 | 36 | 2 | An | Espacios en blanco. |
-| 9 | 38 | 1 | An | Tipo de moneda de la liquidación (E). |
-| 10 | 39 | 1 | An | Tipo de liquidación (I). |
-| 11 | 40 | 9 | An | N.I.F. del obligado al pago (XNNNNNNNX). |
-| 12 | 49 | 2 | N | Ceros. |
-| 13 | 51 | 12 | N | Importe del ingreso (ajustado a la derecha y relleno de ceros a la izquierda). |
-| 14 | 63 | 13 | An | Número de justificante. |
-| 15 | 76 | 4 | An | Código Banco de España de la Entidad Emisora de la tarjeta. |
-| 16 | 80 | 4 | An | Código del Merchant. |
-| 17 | 84 | 3 | An | Reservado para ampliación del número de tarjeta (000). |
-| 18 | 87 | 16 | An | Número de la tarjeta. |
-| 19 | 103 | 4 | N | Fecha de caducidad de la tarjeta (MMAA). |
-| 20 | 107 | 12 | N | Importe en la moneda en que esté denominada la Cuenta Restringida del abono. |
-| 21 | 119 | 14 | An | Espacios en blanco. |
-| 22 | 133 | 16 | An | MAC de 8 con salida en hexadecimal cifrado. |
-| 23 | 149 | 4 | An | Espacios en blanco. |
-| 24 | 153 | 40 | An | Apellidos y Nombre o Razón Social del obligado tributario. |
-| 25 | 193 | 40 | An | Apellidos y Nombre del titular de la tarjeta declarados por el titular del certificado. |
-| 26 | 233 | 40 | An | Espacios en blanco. |
-| 27 | 273 | 100 | An | ACTION completo de la EE.CC. que acepta peticiones de NRC, que debe empezar por https:. |
-| 28 | 373 | 4 | An | Método del formulario (POST). |
-| 29 | 377 | 25 | An | Variables y valores a enviar al comienzo (opcional). |
-
-El MAC de 8 será generado a partir del contenido de las 120 primeras posiciones.
-
-3. Registro de orden de cargo
-
-| N.º | POS. | LONG. | TIPO. | DESCRIPCIÓN |
-| --- | --- | --- | --- | --- |
-| 1 | 1 | 9 | An | N.I.F. del titular de la tarjeta y del certificado de firma electrónica (XNNNNNNNX). |
+| 1 | 1 | 9 | An | N.I.F. del titular de la tarjeta y del certificado electrónico (XNNNNNNNX). |
 | 2 | 10 | 6 | N | Fecha (AAMMDD). |
 | 3 | 16 | 10 | N | Hora (HHMMSSSSSS). |
 | 4 | 26 | 3 | An | Tipo de Operación (012). |
@@ -94,11 +58,13 @@ El MAC de 8 será generado a partir del contenido de las 120 primeras posiciones
 
 Existe la posibilidad de que los datos de los campos 4 a 26 incluido se transmitan cifrados, además del cifrado que realiza SSL. La clave y sistema de este cifrado se acordará entre la Entidad y la A.E.A.T.
 
-4. Registro de respuesta de la Entidad colaboradora
+El MAC de 8 será generado a partir del contenido de las 120 primeras posiciones.
+
+3. Registro de respuesta de la Entidad colaboradora
 
 | N.º | POS. | LONG. | TIPO. | DESCRIPCIÓN |
 | --- | --- | --- | --- | --- |
-| 1 | 1 | 3 | An | Tipo de Operación (012). |
+| 1 | 1 | 3 | An | N.I.F. del titular de la tarjeta y del certificado electrónico (XNNNNNNNX). |
 | 2 | 4 | 2 | An | Alta (01), Consulta (02). |
 | 3 | 6 | 3 | N | Concepto o modelo (002, 004, 008, 010, 012, 031, 032, 060, 061 ó 069). |
 | 4 | 9 | 2 | N | Ceros. |
@@ -121,3 +87,7 @@ Existe la posibilidad de que los datos de los campos 4 a 26 incluido se transmit
 | 21 | 128 | 2 | An | Código de retorno. |
 | 22 | 130 | 81 | N | Reservado para posibles ampliaciones. |
 | 23 | 211 | 189 | An | Explicación del horario para error 86 y explicación amplia del error, con teléfono de incidencias, para el error 87. |
+
+> Se suprime el punto 2 y los puntos 3 y 4 se renumeran como 2 y 3, y se modifica la descripción del campo Nº 1 de los nuevos puntos 2 y 3, por el apartado 1.10 de la Resolución de 11 de septiembre de 2014. Ref. BOE-A-2014-9468
+
+> Téngase en cuenta el periodo de adaptación establecido en el apartado segundo de la citada Resolución.

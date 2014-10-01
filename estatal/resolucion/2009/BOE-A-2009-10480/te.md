@@ -10,4 +10,6 @@ Una vez recibida la comunicación de adhesión, el Departamento de Recaudación 
 
 El Departamento de Informática Tributaria adoptará las medidas que sean necesarias para que el sistema de información de la Agencia Estatal de Administración Tributaria reconozca la adhesión y comunicará ésta al Departamento de Recaudación.
 
-La relación de Entidades colaboradoras adheridas al sistema se reflejará en la dirección electrónica de la Agencia Estatal de Administración Tributaria, dentro de cada una de las opciones de pago posibles.
+La relación de Entidades colaboradoras adheridas al sistema se reflejará en la Sede Electrónica de la Agencia Estatal de Administración Tributaria, dentro de cada una de las opciones de pago posibles.
+
+> Se modifica el último párrafo por el apartado 1.3 de la Resolución de 11 de septiembre de 2014. Ref. BOE-A-2014-9468
