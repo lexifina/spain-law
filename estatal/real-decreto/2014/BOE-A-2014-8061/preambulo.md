@@ -1,0 +1,27 @@
+El Real Decreto 728/2007, de 13 de junio, por el que se establece y regula el Registro General de movimientos de ganado y el Registro general de identificación individual de animales, establece tanto el documento de movimiento que debe amparar todos los movimientos de ganado como la forma y plazo en que se deben comunicar los datos de estos movimientos.
+
+La Ley 8/2003, de 24 de abril, de Sanidad Animal establece que los movimientos de animales deberán ir acompañados de un certificado oficial de movimiento salvo que este pueda ser sustituido por otro sistema que presente las mismas garantías y siempre que las características de la especie animal de que se trate así lo justifiquen.
+
+Los movimientos de los équidos tienen un marcado carácter diferencial comparado con los movimientos del resto de ganado debido a que gran parte de sus desplazamientos se realizan con fines claramente diferentes de los meramente productivos. Este es el motivo por el que, aunque no se hace uso de la excepción prevista en el artículo 14 del Reglamento (CE) n.º 504/2008 de la Comisión de 6 de junio de 2008, por el que se aplican las Directivas 90/426/427/CEE por lo que se refiere a los métodos de identificación de los équidos, se crea y regula a nivel nacional la tarjeta de movimiento equina (TME) cuya utilización opcional por los responsables de documentar los movimientos de équidos les permitirá hacerlo sin necesidad de que el animal vaya acompañado del certificado o guía sanitaria regulada por el artículo 50 de la Ley 8/2003 y el Decreto de 4 de febrero de 1955 y la legislación autonómica, ni del documento de movimiento o traslado previsto a efectos del registro de movimientos de los artículos 51 y 53 de la misma Ley y regulado por el Real Decreto 728/2007, de 13 de junio, y la legislación autonómica.
+
+La obtención de la tarjeta no varía, sin embargo, las obligaciones relacionadas con la cumplimentación y acompañamiento del pasaporte o documento de identificación equina (DIE) regulada por el derecho de la Unión y en España por el Real Decreto 1515/2009, de 2 de octubre.
+
+Para quienes no opten por obtener la tarjeta, sus obligaciones seguirán siendo las mismas que en la actualidad establecen las citadas normas para el certificado sanitario y documento de movimiento, así como, por supuesto, para el pasaporte o DIE.
+
+El uso voluntario de la TME, en sustitución del certificado oficial de movimiento y del documento de movimiento en los supuestos que se indican, no supondrá una pérdida del control de la trazabilidad de los animales, ni ningún riesgo sanitario, ya que sigue vigente la obligación de registrarlos movimientos de salida de la explotación y retorno a la mismas y de entrada en la de destino temporal en los libros de registro de la explotación. De igual manera, se imposibilita la realización de movimientos con dicha TME que no se acojan a los supuestos establecidos, gracias a los procedimientos de control que tiene establecidos la base de datos SITRAN en forma de chequeos, aviso y alarmas, si bien redundará en la disminución de las cargas administrativas.
+
+La presente regulación constituye una de las medidas propuestas por el Gobierno en el seno de la Comisión para la Reforma de las Administraciones Públicas (CORA), creada por Acuerdo del Consejo de Ministros de 26 de octubre de 2012, como parte de las iniciativas dirigidas a la simplificación de trámites y de reducción de cargas administrativas para el ciudadano.
+
+Finalmente, dentro del proceso de reducción y simplificación de los órganos colegiados de la Administración General del Estado, procede suprimir el Comité Nacional de coordinación de identificación del ganado y registro de explotación de las especies de interés ganadero, previsto en el artículo 8 del Real decreto 479/2004, de 26 de marzo, por el que se establece y regula el Registro general de explotaciones ganaderas, atribuyendo sus funciones al Comité Nacional del Sistema de Alerta Sanitaria Veterinaria, regulado en el Real Decreto 1440/2001, de 21 de diciembre, por el que se establece el sistema de alerta sanitaria veterinaria.
+
+Por tanto, es preciso establecer una norma nacional que establezca las características básicas de dicha tarjeta.
+
+Por último, se incorpora una corrección menor en el recientemente publicado Real Decreto 476/2014, de 13 de junio, por el que se regula el registro nacional de movimientos de subproductos animales y los productos derivados no destinados al consumo humano, por el que se precisa que los establecimientos sujetos a autorización de acuerdo con el Reglamento (CE) n.º 853/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, objeto de regulación son los establecimientos cárnicos. Ello obliga a incorporar el término «cárnicos» en el artículo 3.1 y en la letra b) del artículo 2.2.
+
+Esta norma se dicta al amparo de la habilitación contenida en la disposición final quinta de la Ley 8/2003, de 24 de abril, de sanidad animal.
+
+En su tramitación han sido consultadas las comunidades autónomas y ciudades de Ceuta y Melilla, y las entidades representativas de los sectores afectados.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Alimentación y Medio Ambiente, con la aprobación previa del Ministro de Haciendas y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de julio de 2014,
+
+DISPONGO:

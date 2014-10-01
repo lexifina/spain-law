@@ -40,4 +40,8 @@
 
 18) Nombre y dirección del titular y, en caso de cambio, del nuevo titular o posteriores de acuerdo con el artículo 8 del presente real decreto.
 
+19) Tarjeta de movimiento equina.
+
+> Se añade el apartado 19 por la disposición final 3.5 del Real Decreto 577/2014, de 4 de julio. Ref. BOE-A-2014-8061.
+
 > Se sustituye por el art. único.6 del Real Decreto 1701/2011, de 18 de noviembre. Ref. BOE-A-2011-19295.
