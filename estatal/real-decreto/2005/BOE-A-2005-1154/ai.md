@@ -12,6 +12,12 @@ a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 
 1. Aclerís spp. (especies no europeas)
 
+1.1. Agrilus anxius Gory
+
+1.2. Agrilus planipennis Fairmaire
+
+1.3. Anthonomus eugenii Cano
+
 2. Amauromyza maculosa (Malloch)
 
 3. Anomala orientalis Waterhouse
@@ -61,6 +67,8 @@ c) Graphocephala atropunctata (Signoret)
 10.3 Diabrotica undecimpunctata undecimpunctata Mannerheim
 
 10.4 Diabrotica virgifera zeae Krysan & Smith.
+
+10.5. Diaphorina citri Kuway
 
 11. Heliothis zea (Boddie)
 
@@ -150,6 +158,8 @@ w) Rhagoletis suavis (Loew)
 
 b) Bacterias
 
+0.1. Candidatus Liberibacter spp., agente causante del huanglongbing o greening de los cítricos
+
 1. Xylella fastidiosa (Well et Raju)
 
 c) Hongos
@@ -170,7 +180,7 @@ c) Hongos
 
 8. Melampsora farlowii (Arthur) Davis
 
-9. Monilinia fructicola (Winter) Honey
+9. (Suprimido).
 
 10. Mycosphaerella larici-leptolepis Ito et al.
 
@@ -268,6 +278,8 @@ ORGANISMOS NOCIVOS DE CUYA PRESENCIA SE TIENE CONSTANCIA EN LA COMUNIDAD Y CUYOS
 
 a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 
+0.01. Bursaphelenchus xylophilus (Steiner et Bührer) Nickle et al.
+
 0.1 (Suprimido).
 
 1. Globodera pallida (Stone) Behrens
@@ -288,11 +300,13 @@ a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 
 9. Spodoptera littoralis (Boisduval)
 
+10. Trioza erytreae Del Guercio
+
 b) Bacterias
 
 1. Clavibacter michiganensi (Smith) Davis et al. ssp. sepedonicus (Spieckermann et Kotthoff) Davis et al.
 
-2. Pseudomonas solanacearun (Smith) Smith
+2. Ralstonia solanacearum (Smith) Yabuuchi et al.
 
 c) Hongos
 
@@ -316,11 +330,13 @@ a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 
 | Especies | Zonas protegidas |
 | --- | --- |
-| 1. Bemisia tabaci Genn (poblaciones europeas) | IRL, P [Azores, Beira Interior, Beira Litoral, Entre Douro e Minho, Madeira, Ribatejo e Oeste (municipios de Alcobaca, Alenquer, Bombarral, Cadaval, Caldas da Rainha, Lourinhä, Nazaré, Óbidos, Peniche y Torres Vedras) y Trás-os-Montes], FIN, S, UK. |
+| 1. Bemisia tabaci Genn. (poblaciones europeas) | IRL, P [Azores, Beira Interior, Beira Litoral, Entre Douro e Minho, Ribatejo e Oeste (municipios de Alcobaça, Alenquer, Bombarral, Cadaval, Caldas da Rainha, Lourinhã, Nazaré, Obidos, Peniche y Torres Vedras) y Trás-os-Montes], UK, S, FIN |
 | 1.1. Daktulosphaira vitifoliae (Fitch) | CY |
+| 1.2. Dryocosmus kuriphilus Yasumatsu | IRL, P, UK |
 | 2. Globodera pallida (Stone) Behrens | FIN, LV, SI, SK |
 | 3. Leptinotarsa decemlineata Say. | E (Ibiza y Menorca), IRL., CY, M, P (Azores y Madeira), UK, S (Blekinge, Gotland, Halland, Kalmar, Skåne), Fl (los distritos de Åland, Turku, Uusimaa, Kymi, Häme, Pirkanmaa, Satakunta) |
 | 4. Liriomyza bryoniae (Kaltenbach). | IRL y UK (Irlanda del Norte). |
+| 5. Thaumatopoea processionea L. | IRL y UK (excepto las entidades locales de Barnet; Brent; Bromley; Camden; City of London; City of Westminster; Croydon; Ealing; Elmbridge District; Epsom and Ewell District; Hackney; Hammersmith & Fulham; Haringey; Harrow; Hillingdon; Hounslow; Islington; Kensington & Chelsea; Kingston upon Thames; Lambeth; Lewisham; Merton; Reading; Richmond Upon Thames; Runnymede District; Slough; South Oxfordshire; Southwark; Spelthorne District; Sutton; Tower Hamlets; Wandsworth; y West Berkshire) |
 
 b) Virus y organismos afines
 
@@ -328,6 +344,8 @@ b) Virus y organismos afines
 | --- | --- |
 | 1. Beet necrotic yellow vein virus. | F (Bretaña), FIN, IRL, P (Azores), UK (Irlanda del Norte).». |
 | 2. Tomato spotted wilt virus. | S, FIN. |
+
+> Se modifica por el art. único.1 de la Orden AAA/1703/2014, de 18 de septiembre. Ref. BOE-A-2014-9668
 
 > Se modifica por el art. único. de la Orden AAA/1205/2014, de 11 de julio. Ref. BOE-A-2014-7372
 
