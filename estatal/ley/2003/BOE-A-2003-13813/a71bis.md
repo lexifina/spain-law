@@ -18,7 +18,7 @@ a) Que incrementen la proporción de activo sobre pasivo previa.
 
 b) Que el activo corriente resultante sea superior o igual al pasivo corriente.
 
-c) Que el valor de las garantías resultantes a favor de los acreedores intervinientes no exceda de los nueve décimos del valor de la deuda pendiente a favor de los mismos, ni de la proporción de garantías sobre deuda pendiente que tuviesen con anterioridad al acuerdo. Se entiende por valor de las garantías el definido en el apartado 2 de la disposición adicional cuarta.
+c) Que el valor de las garantías resultantes a favor de los acreedores intervinientes no exceda de los nueve décimos del valor de la deuda pendiente a favor de los mismos, ni de la proporción de garantías sobre deuda pendiente que tuviesen con anterioridad al acuerdo. Se entiende por valor de las garantías el definido en el apartado 2 de la Disposición adicional cuarta.
 
 d) Que el tipo de interés aplicable a la deuda subsistente o resultante del acuerdo de refinanciación a favor del o de los acreedores intervinientes no exceda en más de un tercio al aplicable a la deuda previa.
 
@@ -35,6 +35,8 @@ El cumplimiento de todas las condiciones anteriores deberá darse en el momento 
 El nombramiento de un experto independiente corresponderá al registrador mercantil del domicilio del deudor. Si el acuerdo de refinanciación afectara a varias sociedades del mismo grupo, el informe podrá ser único y elaborado por un solo experto, designado por el registrador del domicilio de la sociedad dominante, si estuviera afectada por el acuerdo o, en su defecto, por el del domicilio de cualquiera de las sociedades del grupo.
 
 El nombramiento se hará entre profesionales que resulten idóneos para la función. Dichos expertos quedarán sometidos a las condiciones del artículo 28 y a las causas de incompatibilidad establecidas para los auditores en la legislación de auditoría de cuentas.
+
+> Se modifica por el art. único.14 de la Ley 17/2014, de 30 de septiembre. Ref. BOE-A-2014-9896.
 
 > Se modifica por el art. único.5 del Real Decreto-ley 4/2014, de 7 de marzo. Ref. BOE-A-2014-2485.
 

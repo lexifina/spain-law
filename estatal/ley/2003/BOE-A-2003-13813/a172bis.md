@@ -12,6 +12,8 @@ En caso de pluralidad de condenados, la sentencia deberá individualizar la cant
 
 4. Quienes hubieran sido parte en la sección de calificación podrán interponer contra la sentencia recurso de apelación.
 
+> Se modifica el apartado 1 por el art. único.21 de la Ley 17/2014, de 30 de septiembre. Ref. BOE-A-2014-9896.
+
 > Se modifica el apartado 1 por el art. único.12 del Real Decreto-ley 4/2014, de 7 de marzo. Ref. BOE-A-2014-2485.
 
 > Se añade por el art. único.99 de la Ley 38/2011, de 10 de octubre. Ref. BOE-A-2011-15938.

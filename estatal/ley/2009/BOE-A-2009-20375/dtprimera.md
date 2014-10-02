@@ -36,4 +36,8 @@ El importe de las liquidaciones negativas aplazadas se computarán en el ITE, ta
 
 8. El límite señalado en los apartados 4 y 5 del artículo 23 de esta Ley, para el índice de capacidad fiscal por habitante ajustado, se establece en 1,05 para los años 2009 y 2010 y en 1,06 para el año 2011 y siguientes.
 
+> Se suprime el apartado 6 por la disposición final 4 de la Ley 17/2014, de 30 de septiembre. Ref. BOE-A-2014-9896.
+
+> Téngase en cuenta que este apartado ya fue derogado por el Real Decreto-ley 4/2014, de 7 de marzo.
+
 > Se suprime el apartado 6 por la disposición final 4 del Real Decreto-ley 4/2014, de 7 de marzo. Ref. BOE-A-2014-2485.
