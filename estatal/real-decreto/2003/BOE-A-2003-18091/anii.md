@@ -35,7 +35,7 @@
 | AP-41 |  | N-401 | Madrid-Toledo-Ciudad Real Puertollano-Córdoba |
 | A-42 | Toledo | N-401 | Madrid-Toledo |
 | A-43 | Extremadura-Comunidad Valenciana | N-430, N-420 y N-310 | Mérida-Ciudad Real-Atalaya |
-| A-44 | Sierra Nevada | N-323 | Bailén-Motril |
+| A-44 | Autovía de Sierra Nevada-Costa Tropical | N-323 | Bailén-Motril |
 | A-45 | Málaga | N-331 | Córdoba-Málaga |
 | AP-46 |  | N-331 | Alto de las Pedrizas-Málaga |
 | A-47 |  | N-433 | Sevilla-Frontera portuguesa (Rosal de la Frontera) |
@@ -208,5 +208,7 @@
 | ZA-12 |  | N-122 | Acceso Este a Zamora |
 | ZA-13 |  | N-630 | Acceso Sur a Zamora |
 | ZA-20 |  |  | Circunvalación de Zamora |
+
+> Se modifica por el art. único de la Orden FOM/1823/2014, de 17 de septiembre. Ref. BOE-A-2014-10215.
 
 > Redactado conforme a las correcciones de erratas y errores publicadas en BOE núms. 235, de 1 de octubre de 2003 Ref. BOE-A-2003-18176 y 266, de 6 de noviembre de 2003. Ref. BOE-A-2003-20416
