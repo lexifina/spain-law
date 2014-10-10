@@ -80,7 +80,7 @@ Grupo de Alerta y Control.
 
 Grupo Móvil de Control Aéreo.
 
-Grupo 4: Escuadrones de Vigilancia Aérea números 1, 2, 3, 4, 5, 7, 9, 10, 11, 12, 21 y 22.
+Grupo 4: Escuadrones de Vigilancia Aérea números: 1, 2, 3, 4, 5, 7, 9, 10, 11, 12, 13, 21 y 22.
 
 Grupo 5:
 
@@ -107,3 +107,5 @@ Ala 35.
 Ala 46.
 
 47 Grupo.
+
+> Se modifica el grupo 4 del apartado 3 por el art. único de la Orden DEF/1837/2014, de 30 de octubre. Ref. BOE-A-2014-10262.
