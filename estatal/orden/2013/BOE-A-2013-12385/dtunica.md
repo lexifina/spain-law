@@ -20,7 +20,7 @@ Modelo 216. «Impuesto sobre la Renta de no Residentes. Rentas obtenidas sin med
 
 Modelo 430. «Impuesto sobre primas de seguros. Declaración-Liquidación.»
 
-2. Hasta el 1 de enero de 2015 no será aplicable lo dispuesto en la letra a) del artículo 2 de la presente Orden respecto de la presentación electrónica con firma no avanzada a los siguientes modelos de autoliquidación, manteniendo sus actuales formas de presentación:
+2. Hasta el 1 de enero de 2015 no será aplicable lo dispuesto en el apartado 2.º de la letra a) del artículo 2 de la presente Orden a los siguientes modelos de autoliquidación, manteniendo sus actuales formas de presentación:
 
 Modelo 117. «Impuesto sobre la Renta de las Personas Físicas, Impuesto sobre Sociedades e Impuesto sobre la Renta de no Residentes. Retenciones e Ingresos a cuenta/Pago a cuenta. Rentas o ganancias patrimoniales obtenidas como consecuencia de las transmisiones o reembolsos de acciones y participaciones representativas del capital o del patrimonio de las instituciones de inversión colectiva.»
 
@@ -41,3 +41,5 @@ Modelo 115. «Impuesto sobre la Renta de las Personas Físicas, Impuesto sobre S
 Modelo 130. «Impuesto sobre la Renta de las Personas Físicas. Actividades económicas en estimación directa. Pago fraccionado. Declaración.»
 
 Modelo 131. «Impuesto sobre la Renta de las Personas Físicas. Actividades económicas en estimación objetiva. Pago fraccionado. Declaración.»
+
+> Se modifica el párrafo primero del apartado 2 por el art. único.17 de la Orden HAP/1846/2014, de 8 de octubre. Ref. BOE-A-2014-10301.
