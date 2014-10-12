@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 20, de 23 de enero de 1990. Ref. BOE-A-1990-1717
+Norma derogada por la disposición derogatoria única del Real Decreto 876/2014, de 10 de octubre. Ref. BOE-A-2014-10345#ddunica.

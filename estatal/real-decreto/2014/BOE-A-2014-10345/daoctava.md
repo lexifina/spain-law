@@ -1,0 +1,3 @@
+## Disposición adicional octava. Régimen de las concesiones o autorizaciones otorgadas por las comunidades autónomas en los puertos e instalaciones portuarias estatales que les fueron transferidos.
+
+Las concesiones o autorizaciones que las comunidades autónomas otorguen en los puertos e instalaciones portuarias estatales que les fueron transferidos y figuran expresamente relacionados en los correspondientes reales decretos de traspasos en materia de puertos, no devengarán el canon de ocupación a favor de la Administración General del Estado a que se refiere el artículo 106.4 de este reglamento.

@@ -1,0 +1,17 @@
+## Disposición transitoria segunda. Desarrollo del apartado 2 de la disposición transitoria primera de la Ley 22/1988, de 28 de julio.
+
+1. Los titulares de los terrenos de la zona marítimo-terrestre o playa que no hayan podido ser ocupados por la Administración al practicar un deslinde anterior a la entrada en vigor de la Ley 22/1988, de 28 de julio, por estar inscritos en el Registro de la Propiedad y amparados por el artículo 34 de la Ley Hipotecaria, pasarán a ser titulares de un derecho de ocupación y aprovechamiento del dominio público marítimo-terrestre por treinta años, respetando los usos y aprovechamientos existentes, a cuyo efecto deberán solicitar la correspondiente concesión.
+
+No obstante lo anterior, si los terrenos se destinaran a instalaciones e industrias incluidas en el ámbito de aplicación de la Ley 16/2002, de 1 de julio, la concesión se otorgará previo informe del órgano ambiental de la comunidad autónoma en la que radique la ocupación. El informe determinará los efectos que la ocupación tiene para el medio ambiente e incluirá, en los casos que proceda, las condiciones que deba contemplar la concesión para garantizar una adecuada protección del medio ambiente. Este informe tendrá carácter determinante. Si la Administración General del Estado se aparta de su contenido deberá motivar las razones de interés general por las que lo hace en la resolución por la que se otorgue o deniegue la concesión.
+
+Lo dispuesto en el apartado anterior ha de entenderse exclusivamente referido al procedimiento de concesión de ocupación de dominio público marítimo-terrestre y sin perjuicio de la exigibilidad de contar con la autorización ambiental integrada de competencia autonómica o del cumplimiento de las restantes autorizaciones o exigencias ambientales que sean de aplicación.
+
+Si el informe del órgano ambiental autonómico no fuera emitido en el plazo de tres meses se procederá de acuerdo con lo previsto en el artículo 83.4 de la Ley 30/1992, de 26 de noviembre. La solicitud del informe producirá la suspensión del plazo para resolver y notificar la resolución, de acuerdo con lo previsto en la letra c) del artículo 42.5 de la citada ley.
+
+Todo ello se entiende sin perjuicio de las acciones civiles que aquéllos puedan ejercitar en defensa de sus derechos.
+
+2. Si la inscripción registral del último titular de los terrenos no puede practicarse por afectación de la finca al dominio público marítimo-terrestre, y así se acredita por certificación del Registro de la Propiedad, no será obstáculo para la tramitación de la concesión siempre que los titulares de los terrenos justifiquen la posesión de los mismos mediante escritura pública que acredite la condición de heredero, legatario o cualquier otra transmisión de derecho.
+
+3. En el caso de que la concesión, sujeta al régimen general establecido para la utilización del dominio público, no hubiera sido solicitada en el plazo de un año a partir de la entrada en vigor de la Ley 22/1988, de 28 de julio, se otorgará de oficio por el Ministerio de Agricultura, Alimentación y Medio Ambiente, salvo renuncia expresa del interesado. El plazo de la concesión otorgada computará desde el 29 de julio de 1989 y amparará exclusivamente los usos y aprovechamientos existentes a la entrada en vigor de la Ley 22/1988, de 28 de julio.
+
+4. Las situaciones que, en su caso, resulten incompatibles con la Ley 22/1988, de 28 de julio, se acomodarán a lo establecido en la disposición transitoria cuarta de la misma y decimocuarta de este reglamento.
