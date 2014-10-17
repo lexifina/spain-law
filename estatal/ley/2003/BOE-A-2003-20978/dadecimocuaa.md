@@ -8,4 +8,8 @@
 
 4. En tanto no se apruebe el Reglamento de Circulación Ferroviaria, regirán las disposiciones actualmente aplicables en esta materia.
 
+> Se añade por la disposición adicional 11 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+
+> Téngase en cuenta que esta disposición ya se añadió por el Real Decreto-ley 8/2014, de 4 de julio.
+
 > Se añade por la disposición adicional 11 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.

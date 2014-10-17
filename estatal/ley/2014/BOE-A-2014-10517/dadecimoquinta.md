@@ -1,0 +1,9 @@
+## Disposición adicional decimoquinta. Aeropuertos de interés general incluidos en la red gestionada por Aena, S.A.
+
+A efectos de lo previsto en el capítulo I del título II se consideran incluidos en la red de aeropuertos de interés general gestionada por Aena, S.A., los relacionados en el Anexo del Real Decreto 1150/2011, de 19 de julio, por el que se modifica el Real Decreto 2858/1981, de 27 de noviembre, sobre calificación de aeropuertos civiles.
+
+Por orden del titular del Ministerio de Fomento podrá modificarse la relación de aeropuertos que se consideran incluidos en la red de aeropuertos de interés general gestionados por Aena, S.A., atendiendo a las modificaciones que se produzcan como consecuencia de las autorizaciones previstas en el artículo 22, así como al cumplimiento de los objetivos de interés económico general que corresponden a dicha red y al ejercicio de las funciones en materia de calificación de aeropuertos de interés general gestionados por Aena, S.A.
+
+La modificación de la relación de aeropuertos se consideran incluidos en la red de aeropuertos de interés general gestionados por Aena, S.A., podrá realizarse en la orden en que se ejerzan las competencias en materia de calificación de los aeropuertos de interés general.
+
+En relación a las bases aéreas abiertas al tráfico civil, en el Documento de Regulación Aeroportuaria (DORA) se incluirán los ingresos que perciba Aena, S.A., por la explotación de las bases aéreas abiertas al tráfico civil, así como los gastos o inversiones que haya de realizar como consecuencia de dicha explotación en los términos que se acuerden con el Ministerio de Defensa de conformidad con lo previsto en el artículo 4 bis de la Ley 21/2003, de 7 de julio, de Seguridad Aérea, y en el Real Decreto 1167/1995, de 7 de julio, sobre régimen de los aeródromos utilizados conjuntamente por una Base Aérea y un Aeropuerto y de las Bases Aéreas abiertas al tráfico civil.

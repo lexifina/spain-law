@@ -8,4 +8,6 @@
 
 4. Con la misma periodicidad, el Servicio Público de Empleo Estatal facilitará a la Dirección General de la Inspección de Trabajo y Seguridad Social la información necesaria sobre el número de contratos comunicados objeto de bonificaciones de cuotas, detallados por colectivos, incluyendo el referente a las personas jóvenes que formen parte del Sistema Nacional de Garantía Juvenil en España, así como cualquier otra información relativa a las cotizaciones y deducciones aplicadas a los mismos que resulte precisa, al efecto de facilitar a este Órgano Directivo la planificación y programación de la actuación inspectora que permita vigilar la adecuada aplicación de las bonificaciones previstas en los correspondientes programas de incentivos al empleo, por los sujetos beneficiarios de la misma.
 
-> Se modifican los apartados 3 y 4 por el art. 108.4 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
+> Se modifican los apartados 3 y 4 por el art. 108.4 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517#a108.
+
+> Se modifican los apartados 3 y 4 por el art. 108.4 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064#a108.

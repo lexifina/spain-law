@@ -6,7 +6,7 @@ Los gestores de red de transporte, incluyendo los gestores de red independientes
 
 La Comisión Nacional de los Mercados y la Competencia controlará que la sociedad designada como gestor de la red de transporte se mantiene en el cumplimiento de los requisitos establecidos en el artículo 63.3.
 
-Las designaciones de los gestores de red de transporte se notificarán a la Comisión Europea a efectos de su publicación en el ''Diario Oficial de la Unión Europea''.
+Las designaciones de los gestores de red de transporte se notificarán a la Comisión Europea a efectos de su publicación en el "Diario Oficial de la Unión Europea".
 
 2. Las empresas que pretendan ser gestores de una instalación perteneciente a la red troncal deberán solicitar la citada certificación a la Comisión Nacional de Energía.
 
@@ -25,6 +25,8 @@ De no emitir un dictamen la Comisión Europea en el plazo previsto al efecto en 
 7. En cualquier fase del procedimiento la Comisión Nacional de Energía y la Comisión Europea podrán solicitar a la empresa transportista o a las empresas que realicen actividades de producción o comercialización cualquier información útil para el cumplimiento de las tareas recogidas en este artículo.
 
 La Comisión Nacional de Energía garantizará la confidencialidad de la información sensible a efectos comerciales.
+
+> Se modifica el apartado 1 por el art. 67.4 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
 
 > Se modifica el apartado 1 por el art. 67.4 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
 

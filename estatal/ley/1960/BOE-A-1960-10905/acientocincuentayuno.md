@@ -4,6 +4,8 @@ Las actividades aéreas que se realicen a los fines del artículo anterior, exce
 
 Aquellas aeronaves de limitados usos, características técnicas y actuaciones, podrán ser exceptuadas, en las condiciones que reglamentariamente se establezcan, de los requisitos de inscripción en el Registro de Aeronaves y de la obtención del certificado de aeronavegabilidad a los cuales se refieren, respectivamente, los artículos 29 y 36 de esta Ley. Para tripular estas aeronaves no es exigible el título que requiere el artículo 58 de esta Ley, determinándose por el Ministerio de Fomento, en su caso, las condiciones que deben cumplir los tripulantes para su pilotaje.
 
+> Se modifica el párrafo primero por el art. 51.3 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+
 > Se modifica el párrafo primero por el art. 51.3 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
 
 > Se modifica el párrafo primero por el art. 20 de la Ley 25/2009, de 22 de diciembre. Ref. BOE-A-2009-20725.

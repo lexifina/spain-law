@@ -6,4 +6,8 @@ Para la aplicación del tipo de retención previsto en el párrafo anterior, los
 
 Este porcentaje se reducirá a la mitad cuando los rendimientos tengan derecho a la deducción en la cuota prevista en el artículo 68.4 de esta Ley.
 
+> Se añade, con efectos desde el 5 de julio de 2014, por el art. 122.3 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+
+> Téngase en cuenta que esta disposición ya fue añadida por el Real Decreto-ley 8/2014, de 4 de julio.
+
 > Se añade por el art. 122.3 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.

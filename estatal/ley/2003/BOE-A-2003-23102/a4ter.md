@@ -6,6 +6,8 @@ Asimismo, para alcanzar estos objetivos, contendrán la previsión de los servic
 
 2. Los Planes Anuales de Política de Empleo se elaborarán por el Ministerio de Empleo y Seguridad Social, teniendo en cuenta las previsiones formuladas por las Comunidades Autónomas y el Servicio Público de Empleo Estatal en el seno de la Conferencia Sectorial de Empleo y Asuntos Laborales, se informará por el Consejo General del Sistema Nacional de Empleo, regulado en el artículo 7.b), y se aprobará por el Consejo de Ministros.
 
+> Se modifica por el art. 114.3 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+
 > Se modifica por el art. 114.3 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 167, de 10 de julio de 2014. Ref. BOE-A-2014-7287.

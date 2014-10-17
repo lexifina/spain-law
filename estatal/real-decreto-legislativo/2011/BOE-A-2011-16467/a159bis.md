@@ -4,6 +4,10 @@
 
 2. El Fondo Financiero de accesibilidad terrestre portuaria se nutrirá anualmente de las aportaciones que, con carácter de préstamo, realicen Puertos del Estado y las Autoridades Portuarias.
 
-3. En el caso de otorgamiento de préstamos del Fondo Financiero de accesibilidad terrestre portuaria no será de aplicación el artículo 160 del Real Decreto Legislativo 2/2011, por el que se aprueba el Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante.
+3. En el caso de otorgamiento de préstamos del Fondo Financiero de accesibilidad terrestre portuaria no será de aplicación el artículo 160 del Real Decreto Legislativo 2/2011, por el que se aprueba el texto refundido de la Ley de Puertos del Estado y de la Marina Mercante.
+
+> Se añade por el art. 56.4 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+
+> Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 8/2014, de 4 de julio.
 
 > Se añade por el art. 56.4 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064

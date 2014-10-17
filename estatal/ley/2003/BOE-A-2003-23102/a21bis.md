@@ -1,6 +1,6 @@
 ## Artículo 21. bis. Agencias de colocación.
 
-1. A efectos de lo previsto en esta ley se entenderá por agencias de colocación aquellas entidades públicas o privadas, con o sin ánimo de lucro, que realicen actividades de intermediación laboral de acuerdo con lo establecido en el artículo 20, bien como colaboradores de los Servicios Públicos de Empleo, bien de forma autónoma pero coordinada con los mismos. Asimismo, podrán desarrollar actuaciones relacionadas con la búsqueda de empleo, tales como orientación e información profesional, y con la selección de personal.
+1. A efectos de lo previsto en esta Ley se entenderá por agencias de colocación aquellas entidades públicas o privadas, con o sin ánimo de lucro, que realicen actividades de intermediación laboral de acuerdo con lo establecido en el artículo 20, bien como colaboradores de los Servicios Públicos de Empleo, bien de forma autónoma pero coordinada con los mismos. Asimismo, podrán desarrollar actuaciones relacionadas con la búsqueda de empleo, tales como orientación e información profesional, y con la selección de personal.
 
 Las empresas de recolocación son agencias de colocación especializadas en la actividad a que se refiere el artículo 20.2.
 
@@ -12,17 +12,17 @@ Las agencias de colocación podrán iniciar su actividad desde el día de la pre
 
 La inexactitud o falsedad en cualquier dato, manifestación o documento, de carácter esencial, que se hubiera acompañado o incorporado a la declaración responsable, determinarán la imposibilidad de continuar con la actividad como agencia de colocación, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiere lugar.
 
-3. Reglamentariamente, se regulará un sistema electrónico común que permita integrar el conjunto de la información proporcionada por el Servicio Público de Empleo Estatal y por los servicios públicos de empleo de las Comunidades Autónomas respecto a las agencias de colocación de manera que éstos puedan conocer en todo momento las agencias que operan en su territorio.
+3. Reglamentariamente, se regulará un sistema electrónico común que permita integrar el conjunto de la información proporcionada por el Servicio Público de Empleo Estatal y por los Servicios Públicos de empleo de las Comunidades Autónomas respecto a las agencias de colocación de manera que éstos puedan conocer en todo momento las agencias que operan en su territorio.
 
-4. En todo caso, sin perjuicio de las obligaciones previstas en este capítulo y de las específicas que se determinen reglamentariamente, las agencias de colocación deberán:
+4. En todo caso, sin perjuicio de las obligaciones previstas en este Capítulo y de las específicas que se determinen reglamentariamente, las agencias de colocación deberán:
 
-a) Suministrar a los servicios públicos de empleo la información que se determine por vía reglamentaria, con la periodicidad y la forma que allí se establezca sobre los trabajadores atendidos y las actividades que desarrollan, así como sobre las ofertas de empleo y los perfiles profesionales que correspondan con esas ofertas.
+a) Suministrar a los Servicios Públicos de empleo la información que se determine por vía reglamentaria, con la periodicidad y la forma que allí se establezca sobre los trabajadores atendidos y las actividades que desarrollan, así como sobre las ofertas de empleo y los perfiles profesionales que correspondan con esas ofertas.
 
 b) Respetar la intimidad y dignidad de los trabajadores y cumplir la normativa aplicable en materia de protección de datos y garantizar a los trabajadores la gratuidad por la prestación de servicios.
 
 c) Elaborar y ejecutar planes específicos para la colocación de trabajadores desempleados integrantes de los colectivos mencionados en el artículo 26, que concluyan con la colocación de aquéllos, en los términos que se determinen reglamentariamente en función de la situación del mercado de trabajo.
 
-d) Disponer de sistemas electrónicos compatibles y complementarios con los de los servicios públicos de empleo.
+d) Disponer de sistemas electrónicos compatibles y complementarios con los de los Servicios Públicos de Empleo.
 
 e) Cumplir la normativa vigente en materia laboral y de Seguridad Social.
 
@@ -30,11 +30,13 @@ f) Cumplir con las normas sobre accesibilidad universal de las personas con disc
 
 g) Garantizar, en su ámbito de actuación, el principio de igualdad en el acceso al empleo, no pudiendo establecer discriminación alguna, directa o indirecta, basada en motivos de origen, incluido el racial o étnico, sexo, edad, estado civil, religión o convicciones, opinión política, orientación sexual, afiliación sindical, condición social, lengua dentro del Estado y discapacidad, siempre que los trabajadores se hallasen en condiciones de aptitud para desempeñar el trabajo o empleo de que se trate.
 
-5. Las agencias de colocación podrán ser consideradas entidades colaboradoras de los servicios públicos de empleo mediante la suscripción de un convenio de colaboración con los mismos, con el alcance previsto en las normas de desarrollo de esta ley y en los propios convenios que se suscriban.
+5. Las agencias de colocación podrán ser consideradas entidades colaboradoras de los Servicios Públicos de Empleo mediante la suscripción de un convenio de colaboración con los mismos, con el alcance previsto en las normas de desarrollo de esta Ley y en los propios convenios que se suscriban.
 
 El convenio de colaboración a que se refiere el párrafo anterior deberá regular los mecanismos de comunicación por parte de las agencias de colocación de los incumplimientos de las obligaciones de los trabajadores y de los solicitantes y beneficiarios de prestaciones por desempleo previstas en el artículo 231.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio.
 
-Tal comunicación se realizará a los efectos de la adopción por parte de los servicios públicos de empleo de las medidas que, en su caso, procedan.
+Tal comunicación se realizará a los efectos de la adopción por parte de los Servicios Públicos de Empleo de las medidas que, en su caso, procedan.
+
+> Se modifica por el art. 117.2 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
 
 > Se modifica por el art. 117.2 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
 

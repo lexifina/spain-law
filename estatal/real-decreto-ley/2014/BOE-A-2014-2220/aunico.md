@@ -74,4 +74,8 @@ En los supuestos de reintegro por incumplimiento del requisito previsto en el ap
 
 La obligación de reintegro prevista en este apartado se entiende sin perjuicio de lo dispuesto en el texto refundido de la Ley sobre infracciones y sanciones en el orden social.
 
+> Se añade el apartado 5 bis por el art. 120 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+
+> Téngase en cuenta que este apartado ya se había añadido por el Real Decreto-ley 8/2014, de 4 de julio.
+
 > Se añade el apartado 5 bis por el art. 120 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.

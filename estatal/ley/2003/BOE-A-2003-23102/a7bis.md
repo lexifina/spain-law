@@ -12,6 +12,8 @@ Este sistema garantizará que se lleven a cabo de forma adecuada las funciones d
 
 También permitirá la evaluación, el seguimiento y control de la utilización de fondos procedentes de los Presupuestos Generales del Estado o de la Unión Europea para su justificación.
 
+> Se modifica por el art. 114.5 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+
 > Se modifica por el art. 114.5 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
 
 > Se añade por el art. 4.3 del Real Decreto-ley 3/2011, de 18 de febrero. Ref. BOE-A-2011-3255.

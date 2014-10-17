@@ -18,7 +18,7 @@ Tres. La Autoridad Portuaria que corresponda resolverá sobre el mantenimiento o
 
 Cuatro. Extinguidas las concesiones otorgadas con anterioridad a la Ley 27/1992, de 24 de noviembre, la Autoridad Portuaria competente resolverá sobre el mantenimiento o levantamiento de las instalaciones u obras que se hubieran ejecutado a su amparo.
 
-Cinco. En ningún caso podrá otorgarse prórroga del plazo de concesiones existentes a la entrada en vigor de la Ley 27/1992, de 24 de noviembre, en condiciones que se opongan a lo establecido en esta ley o en las disposiciones que la desarrollen y, en particular, la que diera lugar a un plazo que, acumulado al inicialmente otorgado, exceda del límite de 35 años.
+Cinco. En ningún caso podrá otorgarse prórroga del plazo de las concesiones existentes a la entrada en vigor de la Ley 27/1992, de 24 de noviembre, en condiciones que se opongan a lo establecido en esta Ley o en las disposiciones que la desarrollen y, en particular, la que diera lugar a un plazo que, acumulado al inicialmente otorgado exceda del límite de 35 años, excepto en los supuestos y condiciones a que se refiere la disposición transitoria décima de esta Ley.
 
 Seis. Las personas que estuvieran desarrollando actividades industriales, comerciales o de servicios al público en el ámbito de un puerto con anterioridad a la entrada en vigor de la Ley 27/1992, de 24 de noviembre, podrán seguir desarrollando su actividad en las mismas condiciones anteriores, si bien deberán adaptarse a las disposiciones que se establezcan en los Pliegos de Condiciones Generales que regulen su actividad en un plazo de tres meses a partir de la publicación de dichos pliegos y a las condiciones específicas que, en su caso, se puedan establecer por la Autoridad Portuaria.
 
@@ -47,5 +47,7 @@ Las empresas titulares de concesiones de dominio público exentas del servicio d
 c) La disposición transitoria decimoquinta sobre el régimen transitorio para el otorgamiento de bonificaciones para incentivar mejores prácticas medioambientales.
 
 Hasta que se aprueben las guías de buenas prácticas ambientales de la operativa de buques en los puertos, las Autoridades Portuarias otorgarán la bonificación prevista en el artículo 245.1.a) de esta ley, si la empresa Naviera que opera el buque dispone únicamente de la certificación del cumplimiento por el buque de unas determinadas condiciones de respeto al medio ambiente, mejorando las exigidas por las normas y convenios internacionales, emitida por una entidad de certificación acreditada para ello por organismos pertenecientes a la International Accreditation Forum.
+
+> Se modifica el apartado 1.a).cinco por el art. 56.5 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
 
 > Redactada conforme a la corrección de errores publicada en BOE núm. 73, de 26 de marzo de 2012. Ref. BOE-A-2012-4126.

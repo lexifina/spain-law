@@ -4,6 +4,8 @@
 
 2. La articulación del itinerario individual y personalizado de empleo se configura como un derecho para las personas desempleadas y como una obligación para los Servicios Públicos de Empleo.
 
+> Se modifica el apartado 1 por el art. 114.15 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+
 > Se modifica el apartado 1 por el art. 114.15 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
 
 > Se añade por el art. 8 del Real Decreto-ley 3/2011, de 18 de febrero. Ref. BOE-A-2011-3255.

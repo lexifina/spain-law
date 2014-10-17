@@ -10,4 +10,8 @@ La coordinación, explotación, conservación y administración de la zona abier
 
 4. El mantenimiento de la seguridad y el orden público en los aeropuertos y aeródromos civiles de uso público y demás instalaciones de la aviación civil corresponderá al Ministerio del Interior.
 
+> Se añade por el art. 53.2 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
+
+> Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 8/2014, de 4 de julio.
+
 > Se añade por el art. 53.2 del Real Decreto-ley 8/2014, de 4 de julio. Ref. BOE-A-2014-7064.
