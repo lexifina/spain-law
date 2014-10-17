@@ -1,0 +1,13 @@
+El impulso y fomento de la integración de entidades asociativas agroalimentarias, constituyen unas herramientas de gran importancia para favorecer su competitividad, redimensionamiento, modernización e internacionalización En efecto, el fortalecimiento de las estructuras asociativas y el incremento de su dimensión facilitarán el desarrollo de la innovación y la incorporación de nuevas tecnologías, aumentará su productividad y eficiencia y mejorará su capacidad de competir, más eficazmente, tanto en el mercado nacional como en los mercados internacionales.
+
+La Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario, contempla un instrumento básico para contribuir a mejorar la estructuración de la oferta y la integración, mediante el redimensionamiento de las entidades asociativas: la nueva figura de la Entidad Asociativa Prioritaria (EAP).
+
+La citada Ley 13/2013, de 2 de agosto, en sus artículos 1, 3 y 5 y en su disposición adicional única, definen la nueva figura de la Entidad Asociativa Prioritaria, establece las condiciones para su reconocimiento, mediante el correspondiente procedimiento reglamentario, y se crea en el Ministerio de Agricultura, Alimentación y Medio Ambiente, el Registro Nacional de Entidades Asociativas Prioritarias, adscrito a la Dirección General de la Industria Alimentaria.
+
+Resulta, por tanto, necesario para cumplir el mandato previsto en la Ley 13/2013, de 2 de agosto, proceder al desarrollo reglamentario, en concreto en la determinación del montante económico de facturación por sectores productivos, que se requerirá para acceder a la condición de prioritaria, el procedimiento para el reconocimiento de las Entidades Asociativas Prioritarias de carácter supra-autonómico y el procedimiento para su inscripción en el Registro Nacional de Entidades Asociativas Prioritarias.
+
+El presente real decreto ha sido sometido a consulta de las comunidades autónomas y entidades representativas del sector y se dicta al amparo de lo previsto en el artículo 149.1.13.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica, con el objetivo de profundizar en las reformas estructurales en un sector estratégico de nuestra economía para favorecer su desarrollo y la generación de empleo.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Alimentación y Medio Ambiente, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 27 de junio de 2014,
+
+DISPONGO:
