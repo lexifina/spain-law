@@ -1,6 +1,6 @@
 ## Regla 30. Información a enviar a la Intervención General de la Administración del Estado.
 
-1. Con periodicidad semanal, las entidades contables deberán remitir información contable a la Central Contable de la Intervención General de la Administración del Estado.
+1. Con periodicidad diaria, las entidades contables deberán remitir información contable a la central Contable de la Intervención General de la Administración del Estado.
 
 Mediante resolución de la Intervención General de la Administración del Estado se regularán las especificaciones y el procedimiento aplicables.
 
@@ -27,3 +27,7 @@ La información a que se refiere este punto se remitirá mediante la utilizació
 3. No obstante lo previsto en los puntos anteriores, la información a enviar a la Intervención General de la Administración del Estado por las entidades cuyo presupuesto de gastos tenga carácter estimativo será la que específicamente se determine por dicho Centro Directivo.
 
 4. En función de las necesidades que se puedan presentar en cada momento, la Intervención General de la Administración del Estado podrá ampliar el contenido y cambiar la periodicidad de la información requerida en los puntos anteriores.
+
+> Se modifica el apartado 1 por la disposición final 1.1 de la Orden HAP/1881/2014, de 30 de septiembre. Ref. BOE-A-2014-10474.
+
+> Esta modificación será de aplicación a las cuentas anuales del ejercicio 2014 y siguientes, según establece la disposición final 2 de la citada Orden.

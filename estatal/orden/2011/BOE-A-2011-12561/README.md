@@ -66,6 +66,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Regla 29](regla29.md)
 - [Regla 30](regla30.md)
 - [Regla 31](regla31.md)
+- [Regla 31 bis](regla31bis.md)
 - [TÍTULO V](tv.md)
 - [Regla 32](regla32.md)
 - [Regla 33](regla33.md)
