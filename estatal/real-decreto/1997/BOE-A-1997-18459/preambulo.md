@@ -1,0 +1,1 @@
+Norma derogada por la disposición derogatoria única.1.a) del Real Decreto 872/2014, de 10 de octubre. Ref. BOE-A-2014-10520. Téngase en cuenta que ésta derogación será efectiva el mismo día de entrada en vigor de la Orden ministerial que establezca la estructura y funciones de este centro, según establece la citada disposición derogatoria.
