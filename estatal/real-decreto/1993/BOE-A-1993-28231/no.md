@@ -1,0 +1,1 @@
+Norma derogada por la disposición derogatoria única del Real Decreto 833/2014, de 3 de octubre. Ref. BOE-A-2014-10522#ddunica. No obstante, podrá seguir utilizándose el logotipo a que se refiere el artículo 3.2 de este Real Decreto, según establece la disposición adicional primera del Real Decreto 833/2014 citado.
