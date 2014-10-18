@@ -8,6 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+BOE records this act as repealed with effect from 2014-10-18. The recorded cause is disposición derogatoria única del Real Decreto 833/2014, de 3 de octubre (BOE-A-2014-10522). See the publisher notice for qualifications and transitional provisions. Earlier wording remains available in the history.
+
 ## Bloques
 
 - [no](no.md)
