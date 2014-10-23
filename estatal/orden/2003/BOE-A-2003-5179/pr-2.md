@@ -10,12 +10,26 @@ b) Contar con una antigüedad mínima de tres años como funcionario de carrera 
 
 c) Reunir los requisitos exigidos por la normativa vigente en materia de provisión de puestos de trabajo de cada uno de los cuerpos.
 
-d) En el supuesto de aquellos profesores que hubieran estado destinados en el extranjero por concurso público de méritos u ocupando puestos de libre designación, haber prestado tres cursos completos de servicios en España, contados desde la fecha de cese en el exterior hasta la finalización del curso escolar en el que se realice la convocatoria.
+d) Haber prestado servicios durante tres cursos académicos completos en España, como funcionario del cuerpo desde el que se participa, contados desde la fecha de cese en el exterior hasta la finalización del curso escolar en que se publica la correspondiente convocatoria, en los siguientes supuestos:
+
+1.º Docentes que hubieran estado destinados en el exterior por concurso público de méritos.
+
+2.º Docentes que hubieran ocupado puestos de libre designación en la administración educativa exterior.
+
+3.º Docentes que hubieran ocupado puestos convocados directamente por las Escuelas Europeas para cualquiera de sus sedes.
+
+4.º Docentes que hubieran agotado el tiempo máximo de permanencia en el exterior en régimen de comisión de servicios de manera ininterrumpida.
+
+Cuando el cese de los funcionarios a los que se refieren los apartados 1.º y 4.º anteriores se realice según el calendario austral, se tomará como fecha de referencia para el inicio del cómputo la fecha de finalización de curso inmediatamente anterior en España.
 
 e) Conocer el idioma o uno de los idiomas que para cada puesto se señale en la convocatoria, en el nivel que en cada caso se establezca.
 
 3. Para aquellos puestos en los que se considere necesario el conocimiento de una lengua distinta del castellano, las convocatorias establecerán el procedimiento por el que los aspirantes acreditarán el nivel de conocimiento del idioma que para cada puesto se determine o, en su caso, las titulaciones académicas o certificados que se consideren necesarios para acreditar documentalmente este conocimiento.
 
-4. Aquellos funcionarios de los Cuerpos docentes clasificados en el Grupo A de los que establece el artículo 25 de la Ley 30/1984, de 2 de agosto, que sean titulares de la especialidad correspondiente al idioma cuyo conocimiento se requiera para ocupar la vacante, serán eximidos de la acreditación señalada en el apartado anterior.
+4. Aquellos funcionarios de los Cuerpos docentes clasificados en el subgrupo A1 de los que establece el artículo 76 de la Ley 7/2007, de 12 de abril, que sean titulares de la especialidad correspondiente al idioma cuyo conocimiento se requiera para ocupar la vacante, serán eximidos de la acreditación señalada en el apartado anterior.
+
+5. Los funcionarios del Cuerpo de Maestros que sean titulares de la especialidad correspondiente al idioma cuyo conocimiento se requiera para ocupar la vacante, serán eximidos de la acreditación del nivel B1 de dicho idioma.
+
+> Se modifican los apartados 2.d) y 4 y se añade el 5 por el apartado único.1 a 3 de la Orden ECD/1926/2014, de 13 de octubre. Ref. BOE-A-2014-10705.
 
 > Se modifica el apartado 2.b) por el art. único de la Orden EDU/2191/2011, de 29 de julio. Ref. BOE-A-2011-13385.
