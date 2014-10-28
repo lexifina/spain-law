@@ -61,3 +61,5 @@ Cuatro. Se añade un nuevo apartado 9 al artículo 49 de la Ley General de Subve
 (...)
 
 9. Con el fin de impulsar adecuadamente las actuaciones de control financiero de subvenciones, los órganos de control podrán exigir la comparecencia del beneficiario, de la entidad colaboradora o de cuantos estén sometidos al deber de colaboración, en su domicilio o en las oficinas públicas que se designen al efecto.»
+
+> Téngase en cuenta que esta disposición se declara inconstitucional y nula, en cuanto modifica el art. 13.2 y 4 de la Ley 38/2003, general de subvenciones, de acuerdo con el fundamento jurídico 6, letra e) de la Sentencia del TC 152/2014, de 25 de septiembre. Ref. BOE-A-2014-11021.
