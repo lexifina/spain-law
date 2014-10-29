@@ -78,6 +78,8 @@ La relación mensual de todos los embarques reales producidos en cada puerto inc
 
 No podrá bonificase ningún embarque contenido en el fichero informático que no esté incluido en la relación de embarques reales, salvo que se demuestre error u omisión.
 
+> Se declara la inconstitucionalidad y nulidad, para los residentes en Canarias, y con el alcance del Fundamento Jurídico 3, por Sentencia del TC 164/2014, de 7 de octubre. Ref. BOE-A-2014-11060.
+
 > Se modifica por el art. 4 del Real Decreto-ley 1/2014, de 24 de enero. Ref. BOE-A-2014-747.
 
 > Se añade el párrafo final al apartado 3 por la disposición final 16 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
