@@ -126,6 +126,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO II](cii-5.md)
 - [Artículo 66](a66.md)
 - [Artículo 67](a67.md)
+- [Artículo 67 bis](a67bis.md)
 - [CAPÍTULO III](ciii-2.md)
 - [Artículo 68](a68.md)
 - [Artículo 69](a69.md)
