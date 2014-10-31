@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse «Circular del Banco de España 7/2010, de 30 de noviembre, a las entidades de crédito y sociedades y servicios de tasación homologados, sobre desarrollo de determinados aspectos del mercado hipotecario», según establece la norma 1 de la Circular 3/2014, de 30 de julio. Ref. BOE-A-2014-8189.
