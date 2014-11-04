@@ -1,0 +1,3 @@
+## Segundo. Procedimiento del sistema de comunicación, ejecución y control del servicio de gestión de la demanda de interrumpibilidad en los sistemas eléctricos de los territorios no peninsulares.
+
+De conformidad con la disposición transitoria primera de la Orden IET/2013/2013, de 31 de octubre, hasta que se establezcan condiciones específicas de aplicación para cada uno de los sistemas eléctricos insulares y extrapeninsulares, en estos sistemas seguirá resultando de aplicación la Resolución de 7 de noviembre de 2007, de la Dirección General de Política Energética y Minas, por la que se aprueba el procedimiento del sistema de comunicación, ejecución y control del servicio de interrumpibilidad.
