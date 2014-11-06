@@ -10,7 +10,7 @@ a) Que el consentimiento para la extracción se ha obtenido conforme a lo establ
 
 b) Cómo se ha realizado la identificación del donante.
 
-c) Que, en el caso de donaciones de vivo, el donante ha entendido la información facilitada, ha tenido la oportunidad de preguntar sus dudas y ha obtenido respuestas satisfactorias y que ha confirmado que la información que ha facilitado, con respecto a su historial clínico, es cierta hasta donde llega su conocimiento.
+c) Que, en el caso de donaciones de vivo, el donante ha entendido la información facilitada, se le ha informado de su derecho a recibir los resultados confirmados de las pruebas analíticas realizadas claramente explicados, ha tenido la oportunidad de preguntar sus dudas y ha obtenido respuestas satisfactorias, y que ha confirmado que la información que ha facilitado, con respecto a su historial clínico, es cierta hasta donde llega su conocimiento.
 
 1.2 Evaluación del donante.
 
@@ -199,3 +199,5 @@ e) Células o tejidos obtenidos y sus características más relevantes.
 3. Requerimientos para la distribución directa al centro de implante de tejidos y/o células específicos.
 
 Excepcionalmente la unidad de Coordinación Autonómica de Trasplantes y/o la Organización Nacional de Trasplantes podrá autorizar el envío directo de algunas células o tejidos específicos desde el centro donde se realiza la extracción al centro de implante para su uso inmediato. (i.e. células progenitoras hematopoyéticas, córneas, etc.). En todo caso se exigirán los requisitos especificados en estos anexos en cuanto a la identificación, extracción, empaquetado, envío, preservación y etiquetado.
+
+> Se modifica el punto 1.1.c) por el art. único.4 de la Orden SSI/2057/2014, de 29 de octubre. Ref. BOE-A-2014-11413.

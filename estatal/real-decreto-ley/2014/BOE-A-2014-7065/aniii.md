@@ -14,7 +14,7 @@ Hepatitis C: Anticuerpos AntiHVC (en casos de progenitores hematopoyéticos se r
 
 Sífilis: Ver 1.4.
 
-1.2 Los tests de anticuerpos Anti HTLV I y II se deberán realizar en aquellos donantes que viven o que vienen de zonas con una elevada incidencia de la enfermedad. También se realizarán en los donantes que sean parejas sexuales o hijos de personas que viven o vienen de zonas con elevada incidencia de la enfermedad.
+1.2. Los tests de anticuerpos anti HTLV I y II se deberán realizar en aquellos donantes que viven o que vienen de zonas con una elevada prevalencia de la enfermedad. También se realizarán en los donantes que sean parejas sexuales o hijos de personas que viven o vienen de zonas con elevada prevalencia de la enfermedad.
 
 1.3 Cuando el test de anticuerpos Anti HB-C sea positivo y el HBsAg negativo, será necesario realizar pruebas adicionales para determinar si los tejidos y/o células pueden ser utilizados o deben ser descartados.
 
@@ -59,3 +59,5 @@ c) Cuando las células y/o tejidos de un donante alogénico no se vayan a almace
 2.8 En el caso de progenitores hematopoyéticos de sangre de cordón umbilical se analizarán la sangre de la madre y la sangre del cordón.
 
 2.9 En el caso de donantes neonatos, la muestra se obtendrá de la madre para evitar procedimientos médicos innecesarios para el niño.
+
+> Se modifica el punto 1.2 por el art. único.1 de la Orden SSI/2057/2014, de 29 de octubre. Ref. BOE-A-2014-11413.
