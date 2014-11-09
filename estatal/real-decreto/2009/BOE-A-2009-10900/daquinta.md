@@ -14,7 +14,7 @@ e) Superar el reconocimiento médico de embarque marítimo realizado por el Inst
 
 f) Superar la prueba de conocimiento que determine la Dirección General de la Marina Mercante.
 
-2. Se otorgará directamente el certificado a los poseedores de una titulación profesional de la sección de puente o cubierta de los artículos 5 a 9 y al patrón mayor de cabotaje y patrón de cabotaje.
+2. Se otorgará directamente el certificado a los poseedores de una titulación profesional de la sección de puente o cubierta de los artículos 5 a 9, al patrón mayor de cabotaje y patrón de cabotaje, y a los miembros de la Escala de Oficiales del Cuerpo General de la Armada.
 
 3. El certificado tendrá una validez de cinco años debiendo revalidarse transcurrido este período.
 
@@ -23,3 +23,5 @@ f) Superar la prueba de conocimiento que determine la Dirección General de la M
 a) Gobierno de embarcaciones matriculadas en la lista sexta o séptima, siempre y cuando no lleven más de 12 personas, incluida la tripulación, en las zonas y condiciones que determine la Dirección General de la Marina Mercante.
 
 b) Actuar de instructor en las prácticas básicas de seguridad y de navegación para la obtención de las titulaciones de patrón para navegación básica y patrón de embarcaciones de recreo.
+
+> Se modifica el apartado 2 por el art. único.93 del Real Decreto 938/2014, de 7 de noviembre. Ref. BOE-A-2014-11560.

@@ -1,11 +1,7 @@
-## Disposición adicional segunda. Certificados de competencia de marinero y marinero mecánico.
+## Disposición adicional segunda. De los títulos profesionales de la marina mercante, de los certificados de competencia de marinero y marinero mecánico.
 
-1. El Ministerio de Fomento, a través de la Dirección General de la Marina Mercante, convalidará las titulaciones profesionales de marineros a quienes cumplan las condiciones que se detallan a continuación:
+Los títulos profesionales de la marina mercante, incluidos los títulos profesionales de marinero de puente y de máquinas de la marina mercante, y los certificados de competencia de marinero y marinero mecánico, expedidos con anterioridad a la entrada en vigor de esta norma, mantendrán sus atribuciones.
 
-a) El título profesional de marinero de puente de la marina mercante, a quienes posean el certificado de competencia de marinero y los primeros niveles de los certificados de especialidad de lucha contra incendios y supervivencia en la mar o, en su lugar, el curso de formación básica y hayan realizado un período de embarque de al menos 6 meses en el servicio de puente en un buque civil.
+No obstante lo anterior, el Ministerio de Fomento, a través de la Dirección General de la Marina Mercante, convalidará los certificados de suficiencia de marinero de puente de la marina mercante, marinero de primera de puente de la marina mercante, marinero de máquinas de la marina mercante, marinero de primera de máquinas de la marina mercante de marineros a quienes cumplan las condiciones que se determinen reglamentariamente.
 
-b) El título profesional de marinero de máquinas de la marina mercante, a quienes posean el certificado de competencia de marinero y los primeros niveles de los certificados de especialidad de lucha contra incendios y supervivencia en la mar, o en su lugar, el curso de formación básica, y hayan realizado un período de embarque de al menos seis meses en el servicio de máquinas en un buque civil.
-
-2. A efectos de obtención de los títulos de marineros citados en las letras a) y b) del apartado anterior, tendrá la misma validez el certificado de marinero mecánico, por lo que podrá ser convalidada por cualquiera de los dos, si se cumplen las condiciones citadas.
-
-3. En caso de cumplirse ambas condiciones se expedirán ambos títulos en una sola tarjeta profesional de marina mercante.
+> Se modifica por el art. único.92 del Real Decreto 938/2014, de 7 de noviembre. Ref. BOE-A-2014-11560.
