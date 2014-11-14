@@ -1,0 +1,17 @@
+## Artículo 55 bis. Condiciones para la gestión de IIC españolas por sociedades gestoras reguladas por la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, y autorizadas en otro Estado miembro de la Unión Europea.
+
+1. Toda sociedad gestora autorizada en un Estado miembro de la Unión Europea al amparo de la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, podrá gestionar IIC en España, ya sea directamente o mediante el establecimiento de una sucursal, siempre que la gestora esté autorizada a gestionar ese tipo de IIC.
+
+2. La realización en España, por primera vez, de actividades por sociedades gestoras autorizadas en otro Estado miembro de la Unión Europea, podrá iniciarse una vez que la Comisión Nacional del Mercado de Valores haya recibido comunicación de la autoridad competente del Estado miembro de origen de la sociedad gestora, en los términos indicados en el artículo 54 bis.2 y 3 de esta Ley.
+
+3. La Comisión Nacional del Mercado de Valores podrá exigir a las sociedades gestoras que cuenten con sucursales o que actúen en régimen de libre prestación de servicios en territorio español que le proporcionen la información necesaria para controlar el cumplimiento por éstas de las normas que les sean aplicables en virtud de esta Ley y de sus normas de desarrollo. Las sociedades gestoras autorizadas en otro Estado miembro de la Unión Europea que ejerzan su actividad a través de una sucursal en España respetarán en todo caso las normas de conducta establecidas en el Título VI y en su normativa de desarrollo. La Comisión Nacional del Mercado de Valores será responsable de supervisar el cumplimiento de esas disposiciones.
+
+4. Las sociedades gestoras autorizadas en otro Estado miembro de la Unión Europea que vayan a actuar en España en régimen de libre prestación de servicios vendrán obligadas a designar un representante con residencia fiscal en España para que les represente a efectos de las obligaciones tributarias que deban cumplir por las actividades que realicen en territorio español.
+
+5. La Comisión Nacional del Mercado de Valores comunicará sin demora a las autoridades competentes del Estado miembro de origen de la sociedad gestora cualquier problema detectado en la IIC y que pueda afectar materialmente a la capacidad de la sociedad gestora para cumplir adecuadamente sus obligaciones legales o reglamentarias, que incidan en el ámbito supervisor de la Comisión Nacional del Mercado de Valores.
+
+6. Las autoridades competentes de las sociedades gestoras autorizadas en otro Estado miembro de la Unión Europea que lleven a cabo su actividad en España mediante una sucursal podrán, por sí mismas o a través de los intermediarios que designen a tal efecto, y tras haber informado a la Comisión Nacional del Mercado de Valores, realizar verificaciones in situ en España. La verificación se extenderá a toda información relativa a la gestión y a la estructura de la propiedad de las sociedades gestoras que pueda facilitar su supervisión, así como toda información que pueda facilitar su control.
+
+El párrafo anterior se entenderá sin perjuicio del derecho que asiste a la Comisión Nacional del Mercado de Valores de realizar verificaciones in situ de las sucursales establecidas en España, en cumplimiento de las responsabilidades que le atribuyen las leyes.
+
+> Se añade por la disposición final 1.27 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.

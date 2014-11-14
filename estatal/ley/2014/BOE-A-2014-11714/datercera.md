@@ -1,0 +1,17 @@
+## Disposición adicional tercera. Plazo de adaptación a la nueva normativa de las entidades existentes.
+
+1. Las sociedades gestoras de ECR y las ECR autorizadas antes de la entrada en vigor de esta Ley deberán remitir a la Comisión Nacional del Mercado de Valores, en el plazo de tres meses a contar desde la fecha de entrada en vigor de la Ley, una declaración en la que manifiesten haber adaptado la entidad a las exigencias de esta Ley que le sean de aplicación según superen o no los umbrales establecidos en al artículo 72, así como, en su caso, la modificación del programa de actividades que recoja dicha adaptación de acuerdo con el artículo 52.3.b).
+
+2. La Comisión Nacional del Mercado de Valores y, en su caso, el Registro Mercantil, adaptarán de oficio sus registros para recoger la modificación de los Estatutos Sociales de las gestoras para adaptarse a esta Ley.
+
+3. Las gestoras dispondrán del plazo de 12 meses desde la entrada en vigor de esta Ley para actualizar y remitir a la Comisión Nacional del Mercado de Valores el resto de información de la que ésta debe disponer con arreglo a esta Ley.
+
+4. Lo dispuesto en los artículos 76 y 80 en relación con la comercialización transfronteriza no resultará de aplicación a la comercialización de participaciones de ECR y EICC que sean objeto de una oferta pública vigente al amparo de un folleto elaborado y publicado con arreglo a la Ley 24/1988, de 28 de julio, antes de la entrada en vigor de esta Ley, mientras dure la validez de dicho folleto.
+
+5. Las sociedades gestoras que gestionen ECR antes de la entrada en vigor de esta Ley y que no efectúen nuevas inversiones después de la entrada en vigor de esta Ley, podrán seguir gestionando tales ECR sin necesidad de adaptarse a las exigencias de esta Ley, para lo que habrán de presentar declaración al efecto.
+
+6. Las sociedades gestoras, en la medida en que gestionen ECR cuyo plazo de suscripción para inversores haya expirado antes de la entrada en vigor de esta Ley y estén constituidos por un plazo que expire como muy tarde el 22 de julio de 2016, podrán continuar gestionando tales ECR sin necesidad de cumplir con lo dispuesto en esta Ley, salvo lo que se refiere a la obligación de publicar un informe anual de acuerdo con lo dispuesto en el artículo 67 y a las obligaciones de información derivadas de la adquisición de participaciones significativas y del control de sociedades recogidas en el artículo 71.
+
+7. Las entidades no autorizadas que antes de la entrada en vigor de esta Ley estuviesen desarrollando las actividades reservadas de las SGEIC o a las SCR, SCR-Pyme o SICC autogestionadas podrán seguir desarrollando su actividad pero deberán solicitar autorización, de conformidad con lo previsto en el Capítulo I del Título II. Si no lo hicieran, cesarán en sus actividades, salvo que se encuentren en los supuestos a que se refieren los apartados 3, 4 y 5.
+
+8. El requisito incluido en la letra c) del artículo 77.1 solo resultará de aplicación a partir del momento y en los términos que establezca el acto delegado que adopte la Comisión Europea de conformidad con el artículo 67.6 de la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011. Asimismo, la comercialización de las ECR y EICC de fuera de la Unión Europea dejarán de requerir la autorización para ser comercializadas en España y el registro previstos en los apartados 4 y 5 del artículo 77 cuando así lo determine el acto delegado que adopte la Comisión Europea de acuerdo con el artículo 68.6 de la citada directiva.
