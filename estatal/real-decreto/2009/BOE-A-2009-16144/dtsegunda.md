@@ -1,6 +1,6 @@
-## Disposición transitoria segunda. Medidas de aplicación temporal por dos años.
+## Disposición transitoria segunda. Medidas de aplicación temporal por tres años.
 
-Con una vigencia temporal de dos años desde la entrada en vigor del Real Decreto 1586/2012, de 23 de noviembre, por el que se modifica el Real Decreto 1549/2009, de 9 de octubre, sobre ordenación del sector pesquero y adaptación al Fondo Europeo de la Pesca, serán de aplicación las siguientes reglas, en lugar de los actuales artículos 3, 4, 13 y 14:
+Con una vigencia temporal de tres años desde la entrada en vigor del Real Decreto 1586/2012, de 23 de noviembre, por el que se modifica el Real Decreto 1549/2009, de 9 de octubre, sobre ordenación del sector pesquero y adaptación al Fondo Europeo de la Pesca, serán de aplicación las siguientes reglas, en lugar de los actuales artículos 3, 4, 13 y 14:
 
 1. Condiciones de las bajas. Toda autorización de construcción de buques pesqueros a registrar en la lista tercera del Registro de Buques y Empresas Navieras requerirá que la unidad que se vaya a construir sustituya a uno o varios buques o parte de ellos, aportados como baja, y siempre que se cumplan las siguientes condiciones:
 
@@ -49,5 +49,7 @@ La Secretaría General de Pesca podrá autorizar el aumento del periodo de valid
 Asimismo, se podrá autorizar la variación del fin del expediente, pudiendo convertir éste en uno de modernización o de importación de otros buques, a fin de utilizar las bajas incluidas en el mismo.
 
 Tras la primera modificación indicada en los párrafos anteriores, se considerará variación del expediente de construcción o modernización de un buque y, por tanto, requerirá la iniciación de un nuevo expediente, cuando existan modificaciones de las características de eslora, manga, puntal, arqueo y potencia del barco en más del veinte por cien, cuando existan cambios en la baja principal, cambio de material del casco, así como cuando haya implícito cambio de censo o modalidad o cambio de armador o propietario.
+
+> Se modifica el título y párrafo primero por el art. único del Real Decreto 952/2014, de 14 de noviembre. Ref. BOE-A-2014-11804.
 
 > Se añade por el art. único.3 del Real Decreto 1586/2012, de 23 de noviembre. Ref. BOE-A-2012-14454.
