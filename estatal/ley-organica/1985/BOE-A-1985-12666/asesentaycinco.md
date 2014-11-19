@@ -20,13 +20,15 @@ En todo caso, la Sala de lo penal de la Audiencia Nacional extenderá su compete
 
 3.º De las cuestiones de cesión de jurisdicción en materia penal derivadas del cumplimiento de tratados internacionales en los que España sea parte.
 
-4.º Del procedimiento para la ejecución de las órdenes europeas de detención y entrega y de los procedimientos judiciales de extradición pasiva, sea cual fuere el lugar de residencia o en que hubiese tenido lugar la detención del afectado por el procedimiento.
+4.º De los recursos respecto a los instrumentos de reconocimiento mutuo de resoluciones penales en la Unión Europea que les atribuya la ley, y la resolución de los procedimientos judiciales de extradición pasiva, sea cual fuere el lugar de residencia o en que hubiese tenido lugar la detención del afectado por el procedimiento.
 
 5.º De los recursos establecidos en la Ley contra las sentencias y otras resoluciones de los Juzgados Centrales de lo Penal, de los Juzgados Centrales de Instrucción y del Juzgado Central de Menores.
 
 6.º De los recursos contra las resoluciones dictadas por los Juzgados Centrales de Vigilancia Penitenciaria de conformidad con lo previsto en la disposición adicional quinta.
 
 7.º De cualquier otro asunto que le atribuyan las leyes.
+
+> Se modifica el número 4º por el art. único.1 de la Ley Orgánica 6/2014, de 29 de octubre. Ref. BOE-A-2014-11063.
 
 > Se modifica la letra b) del número 1º por la disposición final 3 de la Ley Orgánica 5/2010, de 22 de junio. Ref. BOE-A-2010-9953.
 

@@ -12,6 +12,8 @@ d) Del conocimiento y fallo de las faltas contenidas en los títulos I y II del 
 
 e) Dictar sentencia de conformidad con la acusación en los casos establecidos por la ley.
 
+f) De la emisión y la ejecución de los instrumentos de reconocimiento mutuo de resoluciones penales en la Unión Europea que les atribuya la ley.
+
 2. Los Juzgados de Violencia sobre la Mujer podrán conocer en el orden civil, en todo caso de conformidad con los procedimientos y recursos previstos en la Ley de Enjuiciamiento Civil, de los siguientes asuntos:
 
 a) Los de filiación, maternidad y paternidad.
@@ -41,6 +43,8 @@ d) Que se hayan iniciado ante el Juez de Violencia sobre la Mujer actuaciones pe
 4. Cuando el Juez apreciara que los actos puestos en su conocimiento, de forma notoria, no constituyen expresión de violencia de género, podrá inadmitir la pretensión, remitiéndola al órgano judicial competente.
 
 5. En todos estos casos está vedada la mediación.
+
+> Se añade la letra f) al apartado 1 por el art. único.3 de la Ley Orgánica 6/2014, de 29 de octubre. Ref. BOE-A-2014-11063.
 
 > Se añade la letra e) del apartado 1 por la disposición final 1 de la Ley Orgánica 3/2005, de 8 de julio. Ref. BOE-A-2005-11863.
 

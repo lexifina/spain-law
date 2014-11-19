@@ -14,9 +14,11 @@ e) De los recursos que establezca la ley contra las resoluciones dictadas por lo
 
 f) De la adopción de la orden de protección a las víctimas de violencia sobre la mujer cuando esté desarrollando funciones de guardia, siempre que no pueda ser adoptada por el Juzgado de Violencia sobre la Mujer.
 
-g) De la ejecución de las medidas de embargo y aseguramiento de pruebas transmitidas por un órgano judicial de un Estado miembro de la Unión Europea que las haya acordado en un proceso penal, cuando los bienes o los elementos de prueba se encuentren en territorio español.
+g) De la emisión y la ejecución de los instrumentos de reconocimiento mutuo de resoluciones penales en la Unión Europea que les atribuya la ley.
 
 2. Asimismo, los juzgados de instrucción conocerán de la autorización del internamiento de extranjeros en los centros de internamiento, así como del control de la estancia de éstos en los mismos y en las salas de inadmisión de fronteras. También conocerán de las peticiones y quejas que planteen los internos en cuanto afecten a sus derechos fundamentales.
+
+> Se modifica la letra g) del apartado 1 por el art. único.2 de la Ley Orgánica 6/2014, de 29 de octubre. Ref. BOE-A-2014-11063.
 
 > Se modifica el apartado 2 por la disposición adicional 4 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
 
