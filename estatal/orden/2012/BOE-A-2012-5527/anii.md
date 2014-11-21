@@ -94,4 +94,8 @@ Términos de energía (€/KWh)
 | 6.4 | 0,010659 | 0,008843 | 0,005069 | 0,002878 | 0,001858 | 0,001281 |
 | 6.5 | 0,010659 | 0,008843 | 0,005069 | 0,002878 | 0,001858 | 0,001281 |
 
-> Véase el fallo de la Sentencia del TS de 30 de diciembre de 2013 Ref. BOE-A-2014-1506. transcrito en el art. 3.
+> Téngase en cuenta el fallo de la Sentencia del TS de 30 de diciembre de 2013 Ref. BOE-A-2014-1506. que dicta lo siguiente:
+
+> "Declarar, con el alcance expresado en el tercer fundamento jurídico de la sentencia, la nulidad del artículo 3 y de la parte correlativa del anexo II de la referida orden en cuanto fija los precios de los términos de potencia y energía activa aplicables a partir de 1 de abril de 2012 a cada uno de los peajes de acceso en términos insuficientes para satisfacer la totalidad de los costes de las actividades reguladas, superando el límite legal de déficit «ex ante» para todo el ejercicio 2012"
+
+> En el mismo sentido se pronuncia la Sentencia del TS de 23 de mayo de 2014. Ref. BOE-A-2014-12035.
