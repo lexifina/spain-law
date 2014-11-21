@@ -571,3 +571,37 @@ Familia: TEXTIL, CONFECCIÓN Y PIEL
 | Módulo profesional: Materias, productos y ensayos de calidad textil . (Patronaje). (Procesos de Confección Industrial). (Procesos de Ennoblecimiento Textil). (Procesos Textiles de Hilatura y Tejeduría de Calada). (Procesos Textiles de Tejeduría de Punto). | Materias textiles. (Calzado y Marroquinería). (Confección). (Operaciones de Ennoblecimiento Textil). (Producción de Tejidos de Punto). (Producción de Hilatura y Tejeduría de Calada). |
 |  | Módulo profesional: Planes de seguridad en la industria textil, confección y piel. (Curtidos). (Procesos de Confección Industrial). (Procesos de Ennoblecimiento Textil). (Procesos Textiles de Hilatura y Tejeduría de Calada). (Procesos Textiles de Tejeduría de Punto). | Seguridad en la industria textil, confección y piel. (Calzado y Marroquinería). (Confección). (Operaciones de Ennoblecimiento Textil). (Producción de Tejidos de Punto). (Producción de Hilatura y Tejeduría de Calada). |
 | Módulo profesional: Química de los tratamientos. (Curtidos). (Procesos de Ennoblecimiento Textil). | Química textil. (Operaciones de Ennoblecimiento Textil). |
+| FORMACIÓN APORTADA | FORMACIÓN A CONVALIDAR |
+| --- | --- |
+| Ciclo formativo | Módulos profesionales a convalidar (Ciclo formativo al que pertenecen) | Familia profesional |
+| Ciclo Formativo de Grado Medio en Explotación de Sistemas Informáticos. (Informática) | MP: Aplicaciones informáticas. – Ciclo Formativo de Grado Medio en Gestión Administrativa. | Administración. |
+| Ciclo Formativo de Grado Medio en Explotación de Sistemas Informáticos. (Informática) | MP: Aplicaciones informáticas de propósito general. – Ciclo Formativo de Grado Medio en Comercio. – Ciclo Formativo de Grado Superior en Gestión Comercial y Marketing. – Ciclo Formativo de Grado Superior en Comercio Internacional. – Ciclo Formativo de Grado Superior en Gestión del Transporte. – Ciclo Formativo de Grado Superior en Servicios al Consumidor. | Comercio. |
+| Ciclo Formativo de Grado Medio en Mecanizado. (Fabricación Mecánica) | MP: Mecanizado en joyería por CNC. – Ciclo Formativo de Grado Medio en Joyería. | Fabricación Mecánica. |
+| Ciclo Formativo de Grado Medio en Atención Sociosanitaria. (Servicios Socioculturales y a la Comunidad) | MP: Higiene del medio hospitalario y limpieza de material. MP: Promoción de la salud y apoyo psicológico al paciente. MP: Técnicas básicas de enfermería. – Ciclo Formativo de Grado Medio en Cuidados Auxiliares de Enfermería. | Sanidad. |
+| Ciclo Formativo de Grado Medio en Cuidados Auxiliares de Enfermería. (Sanidad) | MP: Atención sanitaria. MP: Higiene. – Ciclo Formativo de Grado Medio en Atención Sociosanitaria. | Servicios Socioculturales y a la Comunidad. |
+
+Para todos los ciclos formativos de grado medio con lengua extranjera
+
+| FORMACIÓN APORTADA | FORMACIÓN A CONVALIDAR |
+| --- | --- |
+| Módulos Profesionales de Lengua Extranjera de ciclos formativos de Grado Medio o Superior, en cualquiera de sus denominaciones, siempre que sea la misma que la que se desea convalidar. | Módulos Profesionales de Lengua Extranjera en cualquiera de sus denominaciones. | Cualquier Ciclo Formativo. |
+| Certificado de Nivel Intermedio (B1), equivalente o superior, de la Escuela Oficial de Idiomas (RD 1629/2006, de 29 de diciembre) siempre que sea de la misma lengua extranjera que la que se desea convalidar. | Módulos Profesionales de Lengua Extranjera en cualquiera de sus denominaciones. | Cualquier Ciclo Formativo. |
+| Título de Grado en Filología o Traducción e Interpretación, o equivalente, de la misma especialidad que la lengua extranjera que se desea convalidar. | Módulos Profesionales de Lengua Extranjera en cualquiera de sus denominaciones. | Cualquier Ciclo Formativo. |
+
+Para todos los ciclos formativos de grado superior con lengua extranjera
+
+| FORMACIÓN APORTADA | FORMACIÓN A CONVALIDAR |
+| --- | --- |
+| Módulos Profesionales de Lengua Extranjera de ciclos formativos de Grado Superior, en cualquiera de sus denominaciones, siempre que sea la misma que la que se desea convalidar. | Módulos Profesionales de Lengua Extranjera en cualquiera de sus denominaciones. | Cualquier Ciclo Formativo. |
+| Certificado de Nivel Avanzado (B2), equivalente o superior, de la Escuela Oficial de Idiomas (RD 1629/2006, de 29 de diciembre) siempre que sea de la misma lengua extranjera que la que se desea convalidar. | Módulos Profesionales de Lengua Extranjera en cualquiera de sus denominaciones. | Cualquier Ciclo Formativo. |
+| Título de Grado en Filología o Traducción e Interpretación, o equivalente, de la misma especialidad que la lengua extranjera que se desea convalidar. | Módulos Profesionales de Lengua Extranjera en cualquiera de sus denominaciones. | Cualquier Ciclo Formativo. |
+
+Para todos los ciclos formativos con segunda lengua extranjera
+
+| FORMACIÓN APORTADA | FORMACIÓN A CONVALIDAR |
+| --- | --- |
+| MP Segunda Lengua Extranjera, siempre que sea la misma que la que se desea convalidar. | MP: Segunda Lengua Extranjera. | Cualquier Ciclo Formativo. |
+| Certificado de Nivel Intermedio (B1), equivalente o superior, de la Escuela Oficial de Idiomas (RD 1629/2006, de 29 de diciembre)siempre que sea de la misma lengua extranjera que la que se desea convalidar. | MP: Segunda Lengua Extranjera. | Cualquier Ciclo Formativo. |
+| Título de Grado en Filología o Traducción e Interpretación, o equivalente, de la misma especialidad que la lengua extranjera que se desea convalidar. | MP: Segunda Lengua Extranjera. | Cualquier Ciclo Formativo. |
+
+> Se modifica por la disposición final 2 de la Orden ECD/2159/2014, de 7 de noviembre, añadiendo las convalidaciones establecidas en el anexo I de la misma. Ref. BOE-A-2014-11987#df-2.
