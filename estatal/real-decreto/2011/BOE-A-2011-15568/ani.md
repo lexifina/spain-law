@@ -24,11 +24,11 @@ d) Los subproductos a que se refiere el apartado 4 del artículo 50 del Reglamen
 
 e) En aplicación del apartado 5 del artículo 50 del Reglamento de Ejecución (UE) n.o 543/2011, las retiradas del mercado realizadas en virtud del artículo 103.4 quinquies del Reglamento (CE) n.º 1234/07, estimadas en función del precio medio de los productos comercializados por la organización de productores durante el periodo de referencia anterior.
 
-f) En aplicación de lo dispuesto en el apartado 11 del artículo 50 del Reglamento de Ejecución (UE) n.o 543/2011, las indemnizaciones procedentes de seguros sobre las producciones, percibidas en virtud de:
+f) En aplicación de lo dispuesto en el artículo 50.11 del Reglamento de Ejecución (UE) n.º 543/2011 de la Comisión, de 7 de junio de 2011, las indemnizaciones procedentes de seguros sobre las producciones, percibidas en virtud de:
 
 1.º Pólizas contratadas, en concepto de asegurado, por la organización de productores.
 
-2.º Aplicaciones formalizadas por los miembros productores a pólizas colectivas, siempre que éstos hayan designado a la organización de productores a la que pertenecen como beneficiaria de la indemnización.
+2.º Aplicaciones formalizadas por los miembros productores a pólizas colectivas, siempre que la organización de productores reciba el importe de la indemnización.
 
 g) El valor de la producción comercializada de los nuevos miembros a que se refiere el apartado 5 del artículo 51 del Reglamento de Ejecución (UE) n.º 543/2011, no contabilizada en el valor contable de la organización de productores en el período de referencia.
 
@@ -79,3 +79,5 @@ Anualmente, y junto con la comunicación anterior, deberá presentar la document
 6. En los casos de fusiones, incluidas absorciones y, en aplicación del apartado 2 del artículo 19 del Reglamento de Ejecución (UE) n.o 543/2011, en los casos de constitución de una entidad de segundo o ulterior grado como organización de productores o de integraciones de organizaciones de productores reconocidas, precedidos de la pérdida de calificación como organización de productores de las entidades asociadas a la de segundo o ulterior grado y de todas las entidades menos una, en el caso de fusiones, absorciones, e integraciones, el valor de la producción comercializada será la suma de los valor de la producción comercializada de cada una de las organizaciones de origen.
 
 7. En virtud del apartado 4 del artículo 51 del Reglamento de Ejecución (UE) n.o 543/2011, cuando el valor de un producto experimente una reducción, de al menos el 35 por ciento, por motivos ajenos a la responsabilidad y control de la organización de productores, el valor de la producción comercializada de dicho producto será igual al 65 por ciento de su valor en el periodo de referencia anterior. A efectos de justificar que la reducción en el valor del producto se ha producido por motivos ajenos a la responsabilidad y control de la organización de productores, en el momento de la comunicación contemplada en el artículo 6 del presente real decreto se deberá presentar el documento citado en el punto 4 del apartado B) del anexo II de este real decreto.
+
+> Se modifica la letra f) del apartado 1 por el art. 2.11 del Real Decreto 970/214, de 21 de noviembre. Ref. BOE-A-2014-12102.

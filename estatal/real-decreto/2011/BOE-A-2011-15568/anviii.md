@@ -1,6 +1,6 @@
 ## ANEXO VIII
 
-## Formato de los proyectos de programas operativos totales y parciales de las asociaciones de organizaciones de productores
+## Formato de los proyectos de programas operativos parciales de las asociaciones de organizaciones de productores
 
 A) Identificación de la entidad solicitante:
 
@@ -111,3 +111,5 @@ G) Otra documentación:
 2.º Documento que recoja las funciones que ha realizado en los tres últimos años, y las perspectivas de actuación para los años de duración del programa operativo.
 
 3.º Certificación emitida por el secretario indicando que los miembros que no tengan la condición de organización de productores en virtud del Reglamento (CE) n.º 1234/2007 del Consejo, de 22 de octubre, no son beneficiarios directos de la ayuda a los programas.
+
+> Se modifica el título por el art. 2.14 del Real Decreto 970/214, de 21 de noviembre. Ref. BOE-A-2014-12102.

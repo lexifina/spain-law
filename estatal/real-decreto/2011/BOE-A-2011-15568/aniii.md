@@ -1,6 +1,6 @@
 ## ANEXO III
 
-## Formato de los proyectos de programas operativos a presentar por las organizaciones de productores
+## Formato de los proyectos de programas operativos a presentar por las organizaciones de productores y de los programas operativos totales a presentar por las asociaciones de organizaciones de productores
 
 A) Identificación de la entidad solicitante:
 
@@ -131,3 +131,5 @@ G) Otra documentación: Además de la anterior información y documentación, de
 4.º Un compromiso de los titulares de las acciones, actuaciones, inversiones, y conceptos de gasto, que se realizarán el primer año del programa, de que no han recibido, ni van a recibir, directa o indirectamente, ninguna otra ayuda por la ejecución de las mismas.
 
 5.º La documentación especifica para cada acción, actuación, inversión y concepto de gasto, exigida por la del Reglamento de Ejecución (UE) n.o 543/2011 o el presente real decreto.
+
+> Se modifica el título por el art. 2.13 del Real Decreto 970/214, de 21 de noviembre. Ref. BOE-A-2014-12102.
