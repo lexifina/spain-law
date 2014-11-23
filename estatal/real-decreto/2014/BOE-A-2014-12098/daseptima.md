@@ -1,0 +1,5 @@
+## Disposición adicional séptima. Régimen jurídico y recursos.
+
+1. En todos aquellos aspectos no previstos en este real decreto se aplicará la Ley 30/1992, de 26 de noviembre.
+
+2. Frente a las resoluciones de la persona titular del Ministerio de Educación, Cultura y Deporte recogidas en este real decreto, que ponen fin a la vía administrativa, cabrá interponer en el plazo de un mes desde su publicación recurso potestativo de reposición, al amparo de los artículos 116 y 117 de la Ley 30/1992, de 26 de noviembre, o bien recurso contencioso-administrativo según lo establecido por la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción Contencioso-administrativa y por la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, en el plazo de dos meses a contar desde el día siguiente a la fecha de su publicación. Dicho recurso no podrá ser interpuesto hasta que, en su caso, el anterior recurso potestativo de reposición sea resuelto expresamente o se haya producido la desestimación presunta.
