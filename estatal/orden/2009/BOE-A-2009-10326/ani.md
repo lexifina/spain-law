@@ -33,6 +33,7 @@
 | 353 | Impuesto sobre el Valor Añadido. Grupo de entidades. Modelo agregado. Autoliquidación mensual. |
 | 370 | (Suprimido) |
 | 371 | (Suprimido) |
+| 410 | Pago a cuenta del Impuesto sobre los Depósitos en las Entidades de Crédito. Autoliquidación. |
 | 430 | Declaración-liquidación Impuesto sobre las Primas de seguros. |
 | 560 | Impuesto sobre la Electricidad. Declaración-liquidación. |
 | 561 | Impuesto sobre la Cerveza. Declaración-liquidación. |
@@ -50,6 +51,8 @@
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
+
+> Se añade el modelo 410 por la disposición final 4.1 de la Orden HAP/2178/2014, de 18 de noviembre. Ref. BOE-A-2014-12146.
 
 > Se añade el modelo 587 por la disposición final 2.1 de la Orden HAP/685/2014, de 29 de abril. Ref. BOE-A-2014-4625.
 

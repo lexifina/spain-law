@@ -33,6 +33,7 @@
 | 230 | Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero. |
 | 303 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre, y desde el día 1 hasta el 25 del mes de enero. |
 | 353 | Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre, y desde el día 1 hasta el 25 del mes de enero. |
+| 410 | Plazo: Desde el día 1 hasta el 26 del mes de julio. |
 | 430 | Desde el día 1 hasta el 15 del mes siguiente a la finalización del correspondiente periodo de liquidación mensual, excepto la correspondiente al mes de julio, que se presentará durante el mes de agosto y los primeros quince días naturales del mes de septiembre. |
 | 560 | Obligación trimestral de presentación: Desde el día 1 al 15 del mes siguiente a aquél en finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del mes siguiente a aquél en finaliza el mes en que se han producido los devengos. |
 | 561 | Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
@@ -47,6 +48,8 @@
 | 595 | Desde el día 1 al 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 | 714 | Desde el día 2 de mayo hasta el 25 de junio. |
 | (*) Sólo cuando el período impositivo finalice el día 31 de diciembre. |
+
+> Se añade el modelo 410 por la disposición final 4.2 de la Orden HAP/2178/2014, de 18 de noviembre. Ref. BOE-A-2014-12146.
 
 > Se modifica por la disposición final 1 y el Anexo III de la Orden HAP/1222/2014, de 9 de julio. Ref. BOE-A-2014-7469.
 

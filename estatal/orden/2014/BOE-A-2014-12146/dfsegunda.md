@@ -1,0 +1,3 @@
+## Disposición final segunda. Modificación de la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones y declaraciones informativas de naturaleza tributaria.
+
+Se incluye el modelo 410 de «Pago a cuenta del Impuesto sobe los Depósitos en las Entidades de Crédito. Autoliquidación» en la relación de autoliquidaciones a que se refiere el apartado 2 del artículo 1 de la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones y declaraciones informativas de naturaleza tributaria.

@@ -34,6 +34,7 @@
 | 370 | (Suprimido) |  |
 | 371 | (Suprimido) |  |
 | 380 | IVA EN OPERAC. ASIMILADAS A IMPORTACIONES | M, T , 0A |
+| 410 | PAGO A CUENTA DEL IMPUESTO SOBRE LOS DEPÓSITOS EN LAS ENTIDADES DE CRÉDITO. AUTOLIQUIDACIÓN | 0A |
 | 440 | IMPUESTO GRAL. DEL TRÁFICO DE EMPRESAS | T |
 | 568 | IMPUESTO ESPECIAL SOBRE DETERMINADOS MEDIOS DE TRANSPORTE | T |
 |  |
@@ -63,6 +64,8 @@
 (2) Cuando la gestión corresponda al Estado.
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se añade el modelo 410 por la disposición final 3 de la Orden HAP/2178/2014, de 18 de noviembre. Ref. BOE-A-2014-12146.
 
 > Se suprimen los modelos 310, 311, 370 y 371 por la disposición final 1 de la Orden HAP/2215/2013, de 26 de noviembre. Ref. BOE-A-2013-12489.
 
