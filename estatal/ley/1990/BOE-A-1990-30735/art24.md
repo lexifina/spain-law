@@ -1,8 +1,14 @@
-## Artículo 24. Compensación de pérdidas.
+## Artículo 24. Compensación de cuotas negativas.
 
-1. Si la suma algebraica a que se refiere el artículo anterior resultase negativa, su importe podrá compensarse por la cooperativa con las cuota íntegras positivas de los periodos impositivos que concluyan en los quince años inmediatos y sucesivos. A los solos efectos de determinar los importes compensables, la Administración tributaria podrá comprobar las declaraciones y liquidar las cuotas negativas correspondientes aunque haya transcurrido el plazo al que se refiere el artículo 64 de la Ley General Tributaria.
+1. Si la suma algebraica a que se refiere el artículo anterior resultase negativa, su importe podrá compensarse por la cooperativa con las cuotas íntegras positivas de los períodos impositivos siguientes, con el límite del 60 por ciento de la cuota íntegra previa a su compensación. En todo caso, serán compensables en el período impositivo cuotas íntegras por el importe que resulte de multiplicar 1 millón de euros al tipo medio de gravamen de la entidad.
 
-2. Este procedimiento sustituye a la compensación de bases imponibles negativas prevista en el artículo 23 de la Ley del Impuesto sobre Sociedades que, en consecuencia, no será aplicable a las cooperativas.
+El derecho de la Administración para comprobar o investigar las cuotas negativas pendientes de compensación prescribirá a los 10 años a contar desde el día siguiente a aquel en que finalice el plazo establecido para presentar la declaración o autoliquidación correspondiente al período impositivo en que se generó el derecho a su compensación.
+
+Transcurrido dicho plazo, el contribuyente deberá acreditar que las cuotas negativas cuya compensación pretenda resultan procedentes, así como su cuantía, mediante la exhibición de la liquidación o autoliquidación y de la contabilidad, con acreditación de su depósito durante el citado plazo en el Registro Mercantil.
+
+2. Este procedimiento sustituye a la compensación de bases imponibles negativas prevista en el artículo 26 de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades que, en consecuencia, no será aplicable a las cooperativas.
+
+> Se modifica, con efectos para los períodos impositivos que se inicien a partir de 1 de enero de 2015, por la disposición final 4.3.1 de la Ley 27/2014, de 27 de noviembre. Ref. BOE-A-2014-12328.
 
 > Se modifica el apartado 1, con efectos para los períodos impositivos que se inicien a partir del 1 de enero de 2002, por el art. 3 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965
 
