@@ -22,7 +22,7 @@
 
 a) no se asignen a un controlador radar funciones ajenas a su cometido mientras esté prestando servicio radar;
 
-b) los servicios radar requeridos se suministran en el grado máximo compatible con las limitaciones de la carga de trabajo, capacidad de las comunicaciones, posibilidades del equipo e idoneidad de los controladores radar para volver a la separación no radar, en caso de fallo del equipo radar o de otra emergencia; (1)
+b) los servicios radar requeridos se suministran en el grado máximo compatible con las limitaciones de la carga de trabajo, capacidad de las comunicaciones, posibilidades del equipo e idoneidad de los controladores radar para volver a la separación no radar, en caso de fallo del equipo radar o de otra emergencia;(1)
 
 c) se haga el máximo uso de mapas radar, que muestren fácilmente rutas ATS, puntos de notificación, límites de espacios aéreos controlados y de zonas peligrosas, restringidas y prohibidas, obstáculos prominentes, incluso terreno, rutas de atenuación de ruido, etc., en el área de responsabilidad de las unidades radar pertinentes.
 
@@ -62,7 +62,7 @@ b) Limitaciones técnicas del radar.
 
 i) Anchura efectiva del haz: Como no puede permitirse en ningún momento que dos trazas radar se toquen, la anchura de una traza radar es un factor importante cuando hay que separar aeronaves que están a la misma distancia en marcaciones ligeramente diferentes. Por ello, una amplia anchura efectiva del haz puede producir un aumento de la separación que haya que aplicar entre dos aeronaves que se encuentren a distancias considerables de la antena de radar, aun cuando el mínimo prescrito sea el mismo. La tabla siguiente proporciona cierta indicación del orden de magnitud de las distancias mínimas entre dos aeronaves cualesquiera, a las cuales comienzan a tocarse sus trazas radar:
 
-| Anchura efectiva del haz (grados) | Anchura del haz a |
+| Anchura efectiva del haz (grados) | Anchura del haz a: |
 | --- | --- |
 | 15 NM | 60 NM | 120 NM (de la antena del radar) |
 | 1° | 0,25 NM | 1 NM | 2 NM |
@@ -99,7 +99,7 @@ en la mayoría de los casos el controlador radar actúa como miembro de un equip
 
 4.4. Reducción de las separaciones mínimas.
 
-4.4.1. Conviene llamar la atención sobre ciertos principios relativos a los factores que deben tenerse en cuenta al determinar mínimas de separación reducidas. Estos principios se enuncian en el Apéndice D.
+4.4.1. Conviene llamar la atención sobre ciertos principios relativos a los factores que deben tenerse en cuenta al determinar mínimas de separación reducidas.
 
 4.4.2. Cuando al expresar mínimas de separación reducidas, se utiliza como criterio la distancia desde la antena de radar, esto debe limitarse al equipo utilizado para las aproximaciones o salidas.
 
@@ -175,7 +175,7 @@ Velocidades verticales de descenso típicas para una trayectoria de planeo de 3 
 
 1.3. Las claves específicas que han de utilizarse deben determinarse regionalmente.
 
-2. CONSIDERACIONES OPERACIONALES.
+2. Consideraciones operacionales.
 
 2.1. Debe conseguirse la normalización internacional de la atribución y empleo de las claves SSR, de modo que:
 
@@ -195,9 +195,9 @@ se reduzcan al mínimo absoluto y que los arreglos en cuanto a los procedimiento
 
 3.1. Al establecer los planes para el empleo de claves deben tenerse en cuenta, aunque no limitándose a ellos, los siguientes principios técnicos.
 
-Los principios expuestos en 3.2. y 3.3. se presentan a fin de evitar la confusión de las claves en situaciones en que las aeronaves estén a una distancia oblicua aproximada de unas 2 millas una de otra, aún cuando sea pequeña la probabilidad de que las aeronaves que se encuentren dentro de esta distancia sufran deformaciones de las claves.
+Los principios expuestos en 3.2. y 3.3. se presentan a fin de evitar la confusión de las claves en situaciones en que las aeronaves estén a una distancia oblicua aproximada de unas 2 millas una de otra, aun cuando sea pequeña la probabilidad de que las aeronaves que se encuentren dentro de esta distancia sufran deformaciones de las claves.
 
-Se insiste en que la probabilidad de que haya deformaciones es muy pequeña y puede disminuirse aun más si se adoptan las precauciones debidas en el diseño de los dispositivos de descifrado.
+Se insiste en que la probabilidad de que haya deformaciones es muy pequeña y puede disminuirse aún más si se adoptan las precauciones debidas en el diseño de los dispositivos de descifrado.
 
 En algunas regiones, los principios enunciados pueden servir únicamente de guía para la asignación, especialmente cuando sean necesarias todas las claves disponibles.
 
@@ -340,3 +340,5 @@ Como quiera que el servicio que se facilita es control de aeródromo, pese al us
 3.4. La dependencia ATS apropiada se encargará del funcionamiento de los componentes visuales del sistema, incluso barras de parada, luces de eje de pista y designadores de ruta.
 
 3.5. Independientemente de la información recibida del controlador, derivada del uso del SMR, el piloto es responsable del rodaje hasta el límite de autorización especificado por el controlador y de evitar colisiones con otras aeronaves u objetos.
+
+> Se modifica el Adjunto 1 por la disposición final 1.2.12 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856

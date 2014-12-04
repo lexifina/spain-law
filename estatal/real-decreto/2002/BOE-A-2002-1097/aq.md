@@ -26,7 +26,7 @@ d) La validez máxima de los SNOWTAM es de 24 horas. Deben publicarse nuevos SNO
 
 3) un cambio del 10%, o más, en la longitud o anchura disponible de una pista;
 
-4) todo cambio del tipo de depósitos o extensión de cobertura que requiera reclasificación en las casillas F ó T del SNOWTAM;
+4) todo cambio del tipo de depósitos o extensión de cobertura que requiera reclasificación en las casillas F o T del SNOWTAM;
 
 5) cuando existan bancos de nieve críticos en un lado de la pista, o en ambos lados, todo cambio de la altura o de la distancia a que se encuentren a partir del eje de pista;
 
@@ -184,7 +184,7 @@ a) Indicador de lugar de la OACI de la FIR afectada o, si se aplica a más de un
 
 b) Si un Estado expide un NOTAM que afecta las FIR de un grupo de Estados, se incluirán las dos primeras letras del indicador de lugar de la OACI del Estado expedidor más «XX» los indicadores de lugar de las FIR en cuestión se indicarán entonces en la casilla A).
 
-2) CÓDlGO NOTAM.
+2) CÓDIGO NOTAM.
 
 Todos los grupos del código NOTAM contienen un total de cinco letras y la primera letra es siempre la «Q». La segunda y tercera letras identifican el asunto y la cuarta y la quinta letras indican el estado del asunto objeto de la notificación. Para las combinaciones de segunda y tercera y cuarta y quinta letras insértense los códigos NOTAM de la OACI enumerados en los PANSABC (Doc 8400 de OACI) o en los Criterios de selección de los NOTAM contenidos en el Manual para los servicios de información aeronáutica (Doc 8126 de OACI) o insértese una de las siguientes combinaciones, según corresponda:
 
@@ -302,7 +302,7 @@ Nota: Para ejemplos de NOTAM véase el Doc 8126 y los PANS-ABC (Doc 8400)
 
 1.2 En caso de que se produzca una erupción volcánica con nube de cenizas de importancia para las operaciones, el ASHTAM también proporciona información sobre la ubicación, extensión y movimiento de la nube de cenizas y las rutas aéreas y niveles de vuelo afectados.
 
-1.3 La expedición de un ASHTAM dando información sobre una erupción volcánica, de conformidad con la sección 3, no debería retrasarse hasta disponer de toda la información completa de A) a K) sino que debería expedirse inmediatamente después de recibir notificación de que ha ocurrido o se prevé que ocurra una erupción, o de que ha ocurrido o se prevé que ocurra un cambio de importancia para las operaciones por la situación de la actividad de un volcán, o de que se haya comunicado la existencia de una nube de cenizas. En caso de que se espere una erupción y por lo tanto no haya evidencia en ese momento de la existencia de nube de cenizas, deberían llenarse las casillas A) a E) e indicar respecto de las casillas F) a I) que «no se aplica». Análogamente, si se notifica una nube de cenizas volcánicas, por ejemplo, mediante aeronotificación especial, pero no se sabe en ese momento cuál es el volcán originador, el ASHTAM debería expedirse en principio mencionando en las casillas A) a E) las palabras «se desconoce», y las casillas F) a K) deberían llenarse según corresponda basándose en la aeronotificación especial, hasta que se reciba nueva información. En otras circunstancias, en caso de no dis poner de la información concreta para alguna de las casillas A) a K), indíquese «NIL».
+1.3 La expedición de un ASHTAM dando información sobre una erupción volcánica, de conformidad con la sección 3, no debería retrasarse hasta disponer de toda la información completa de A) a K) sino que debería expedirse inmediatamente después de recibir notificación de que ha ocurrido o se prevé que ocurra una erupción, o de que ha ocurrido o se prevé que ocurra un cambio de importancia para las operaciones por la situación de la actividad de un volcán, o de que se haya comunicado la existencia de una nube de cenizas. En caso de que se espere una erupción y por lo tanto no haya evidencia en ese momento de la existencia de nube de cenizas, deberían llenarse las casillas A) a E) e indicar respecto de las casillas F) a I) que «no se aplica». Análogamente, si se notifica una nube de cenizas volcánicas, por ejemplo, mediante aeronotificación especial, pero no se sabe en ese momento cuál es el volcán originador, el ASHTAM debería expedirse en principio mencionando en las casillas A) a E) las palabras «se desconoce», y las casillas F) a K) deberían llenarse según corresponda basándose en la aeronotificación especial, hasta que se reciba nueva información. En otras circunstancias, en caso de no disponer de la información concreta para alguna de las casillas A) a K), indíquese «NIL».
 
 1.4 El período máximo de validez de los ASHTAM es de 24 horas. Deben expedirse nuevos ASHTAM cuando cambie el nivel de la alerta.
 
@@ -363,13 +363,15 @@ Nota: El código de colores para indicar el nivel de alerta respecto de la activ
 
 3.7 Casilla G –Indíquese el sentido pronosticado de movimiento de la nube de cenizas a niveles seleccionados basándose en el asesoramiento de la oficina de vigilancia meteorológica responsable o del centro de avisos de cenizas volcánicas.
 
-3.8 Casilla H –Indíquense las rutas aéreas y tramos de rutas y niveles de vuelo afectados, o que se prevé resultarán afectados.
+3.8 Casilla H –Indíquense las rutas aéreas y segmentos de rutas y niveles de vuelo afectados, o que se prevé resultarán afectados.
 
-3.9 Casilla I –Indíquense los espacios aéreos, rutas aéreas o tramos de rutas aéreas cerrados y rutas alternativas disponibles.
+3.9 Casilla I –Indíquense los espacios aéreos, rutas aéreas o segmentos de rutas aéreas cerrados y rutas alternativas disponibles.
 
 3.10 Casilla J –Fuente de la información, p. ej., «aeronotificación especial» u «organismo vulcanológico», etc. la fuente de la información debería indicarse siempre, tanto si ocurrió de hecho la erupción o se notificó la nube de cenizas, como en caso contrario.
 
 3.11 Casilla K –Inclúyase en lenguaje claro toda información de importancia para las operaciones además de lo antedicho.
+
+> Se modifican las referencias a "tramo de ruta" por la disposición final 1.1 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
 
 > Se modifica el Adjunto 2 por el art. único.13 de la Orden PRE/941/2013, de 24 de mayo. Ref. BOE-A-2013-5671
 

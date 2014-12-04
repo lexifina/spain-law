@@ -2463,15 +2463,15 @@ Nota: Véase el Anexo 10 de OACI, Volumen V, 4.1.3.1.1 por lo que respecta a las
 
 10.5.2.2.2.1. Las estaciones aeronáuticas de una red radiotelefónica deberán ayudarse mutuamente de conformidad con los siguientes principios de red a fin de proporcionar el servicio de comunicaciones aeroterrestres que requieran de la red las aeronaves que vuelen por las rutas aéreas de la que dicha red es responsable.
 
-10.5.2.2.2.2. Si la red comprende gran número de estaciones, las comunicaciones de la red para vuelos en cualquier tramo de ruta, deberán facilitarse por estaciones seleccionadas para ese tramo, denominadas «estaciones regulares».
+10.5.2.2.2.2. Si la red comprende gran número de estaciones, las comunicaciones de la red para vuelos en cualquier segmento de ruta, deberán facilitarse por estaciones seleccionadas para ese segmento, denominadas «estaciones regulares».
 
-Nota 1: La selección de estaciones para que funcionen como estaciones regulares para un tramo de ruta determinado se hará, cuando haga falta, mediante acuerdo regional o local, después de consultarse, si es necesario, los Estados responsables de la red.
+Nota 1: La selección de estaciones para que funcionen como estaciones regulares para un segmento de ruta determinado se hará, cuando haga falta, mediante acuerdo regional o local, después de consultarse, si es necesario, los Estados responsables de la red.
 
-Nota 2: En principio, las estaciones regulares serán las que sirvan los puntos directamente interesados en los vuelos sobre dicho tramo de ruta, es decir, puntos de despegue y aterrizaje, centros de información de vuelo o centros de control de área apropiados, y, en algunos casos, estaciones adicionales, convenientemente situadas, que se requieran para completar la zona servida de comunicaciones o con fines de interceptación.
+Nota 2: En principio, las estaciones regulares serán las que sirvan los puntos directamente interesados en los vuelos sobre dicho segmento de ruta, es decir, puntos de despegue y aterrizaje, centros de información de vuelo o centros de control de área apropiados, y, en algunos casos, estaciones adicionales, convenientemente situadas, que se requieran para completar la zona servida de comunicaciones o con fines de interceptación.
 
 Nota 3: Al seleccionar las estaciones regulares deben tenerse en cuenta las características de propagación de las frecuencias usadas.
 
-10.5.2.2.2.3. En las áreas o rutas en que las condiciones de comunicación por radio, la longitud de los vuelos, o la distancia entre estaciones aeronáuticas requieran medidas adicionales para asegurar la continuidad de las comunicaciones aeroterrestres en todo el tramo de ruta, las estaciones del servicio regular deberán compartir entre sí la responsabilidad de la vigilancia primaria, que cada estación realizará respecto a aquella parte del vuelo durante la cual puede darse curso más eficazmente, por dicha estación, a los mensajes procedentes de las aeronaves.
+10.5.2.2.2.3. En las áreas o rutas en que las condiciones de comunicación por radio, la longitud de los vuelos, o la distancia entre estaciones aeronáuticas requieran medidas adicionales para asegurar la continuidad de las comunicaciones aeroterrestres en todo el segmento de ruta, las estaciones del servicio regular deberán compartir entre sí la responsabilidad de la vigilancia primaria, que cada estación realizará respecto a aquella parte del vuelo durante la cual puede darse curso más eficazmente, por dicha estación, a los mensajes procedentes de las aeronaves.
 
 10.5.2.2.2.4. Cada estación, durante el tiempo en que realice la vigilancia primaria, tendrá, entre otras cosas, la responsabilidad de:
 
@@ -2561,7 +2561,7 @@ Aeronave: «Aterrizado...» («Landed») (lugar)... (hora).
 
 10.5.2.2.7.1.3.3. Cuando una aeronave no pueda establecer comunicación por falla del equipo de a bordo, seleccionará, si está equipada al respecto, la clave apropiada SSR para indicar la falla de radio.
 
-Nota: Las reglas generales aplicables en el caso de falla de las comunicaciones están contenidas en el libro Segundo.
+Nota: Las reglas generales aplicables en el caso de falla de las comunicaciones están contenidas en el SERA.8035 y en el apartado 4.3.17 del libro cuarto.
 
 10.5.2.2.7.2. Tierra-aire.
 
@@ -2591,7 +2591,7 @@ Nota: La autoridad ATS apropiada puede prescribir un período de tiempo específ
 
 10.5.2.3.1.1. Cuando trabaje dentro de una red, una estación de aeronave deberá, en principio, siempre que las condiciones de las comunicaciones lo permitan, transmitir sus mensajes a las estaciones de la red desde las cuales puedan entregarse más rápidamente a los destinatarios finales. Especialmente, los informes de aeronaves requeridos por los servicios de tránsito aéreo deberán transmitirse a la estación de la red que sirve al centro de información de vuelo o al de control de área en cuya área está volando la aeronave. En cambio, los mensajes a las aeronaves en vuelo deberán transmitirse, siempre que sea posible, directamente a las aeronaves, por la estación de la red que sirva al lugar del remitente.
 
-Nota: En casos excepcionales, una aeronave puede tener necesidad de comunicar con una estación aeronáutica fuera de la red apropiada a su tramo particular de ruta. Eso es permisible siempre que pueda hacerse sin interrumpir la escucha continua en la red de comunicación correspondiente al tramo de ruta, cuando la escucha la exija la autoridad ATS apropiada, y a condición de que no cause interferencia excesiva en la operación de otras estaciones aeronáuticas.
+Nota: En casos excepcionales, una aeronave puede tener necesidad de comunicar con una estación aeronáutica fuera de la red apropiada a su segmento particular de ruta. Eso es permisible siempre que pueda hacerse sin interrumpir la escucha continua en la red de comunicación correspondiente al segmento de ruta, cuando la escucha la exija la autoridad ATS apropiada, y a condición de que no cause interferencia excesiva en la operación de otras estaciones aeronáuticas.
 
 10.5.2.3.1.2. Los mensajes enviados desde una aeronave a una estación de la red deberán interceptarlos y acusar recibo de los mismos, siempre que sea posible, otras estaciones de la red que sirvan a lugares en los que se requiere igualmente la información.
 
@@ -3401,6 +3401,8 @@ Nota: No se esperará ninguna respuesta a tal llamada general a no ser que se ll
 10.8.2.14.4.1 Únicamente el sistema de a bordo iniciará la terminación del servicio de entrega de autorización anticipada.
 
 10.8.2.14.4.2 Se terminará el servicio de entrega de autorización anticipada con una dependencia ATC siempre que la autoridad de datos posterior pase a ser la autoridad de datos vigente.
+
+> Se modifican el Capítulo 5 y las referencias a "tramo de ruta" por la disposición final 1.1 y 1.2.7 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
 
 > Se modifica el Capítulo 4 por el art. único.10 de la Orden PRE/941/2013, de 24 de mayo. Ref. BOE-A-2013-5671
 

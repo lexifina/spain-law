@@ -60,7 +60,7 @@ c) LIGERA (L):
 
 Tipos de aeronaves de 7.000 Kg o menos.
 
-Nota: La autoridad ATS competente incluirá en la AIP información sobre la categoría de aeronaves por estela turbulenta que no se corresponda con la de su masa máxima certificada de despegue. Los controladores tendrán en cuenta dicha categoría para la aplicación de separación y la insertarán en la ficha de progresión de vuelo y en la etiqueta radar, a menos que ya se haya hecho automáticamente.
+Nota: El proveedor de servicios de tránsito aéreo competente incluirá en la AIP información sobre la categoría de aeronaves por estela turbulenta que no se corresponda con la de su masa máxima certificada de despegue. Los controladores tendrán en cuenta dicha categoría para la aplicación de separación y la insertarán en la ficha de progresión de vuelo y en la etiqueta radar, a menos que ya se haya hecho automáticamente.
 
 2.4. Mínimas condicionales.
 
@@ -189,3 +189,5 @@ En un medio ATC donde se hace uso frecuente del radar, la aplicación de las mí
 Hay varios tipos de dispositivos sensores de la dirección del viento. En general, un sensor de vórtices de estela debe reaccionar ante algunas propiedades físicas del vórtice. La utilidad del sensor depende del grado de relación íntima que las propiedades detectadas guarda con las propiedades que han de determinarse.
 
 Los dispositivos de detección de vórtices son importantes para los controladores de tránsito aéreo y los pilotos, debido a que ofrecen la posibilidad de proporcionar información con respecto a la presencia e intensidad de los vórtices.
+
+> Se modifica la referencia a "autoridad ATS" por la disposición final 1.1 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856

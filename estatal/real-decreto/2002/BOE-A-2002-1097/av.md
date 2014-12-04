@@ -59,7 +59,7 @@
 | --- | --- | --- | --- |
 | Tramos de las aerovías | 1/10 grados calculada | 1 grado | 1 x 10-3 ordinaria |
 | Determinación de los puntos de referencia en ruta y de área terminal | 1/10 grados calculada | 1/10 grados | 1 x 10-3 ordinaria |
-| Tramos de rutas de llegada/salida de área terminal | 1/10 grados calculada | 1 grado | 1 x 10-3 ordinaria |
+| Segmentos de rutas de llegada/salida de área terminal | 1/10 grados calculada | 1 grado | 1 x 10-3 ordinaria |
 | Determinación de los puntos de referencia para procedimientos de aproximación por instrumentos | 1/100 grados calculada | 1/100 grados | 1 x 10-5 esencial |
 | Alineación del localizador ILS |  | 1/100 grados verdadera | 1 x 10-5 esencial |
 | Alineación del azimut de cero grados del MLS |  | 1/100 grados verdadera | 1 x 10-5 esencial |
@@ -71,7 +71,7 @@
 | --- | --- | --- | --- |
 | Longitud de los tramos de las aerovías | 1/10 km o 1/10 NM calculada | 1/10 km o 1/10 NM calculada | 1 x 10-3 ordinaria |
 | Distancia para la determinación de los puntos de referencia en ruta | 1/10 km o 1/10 NM calculada | 1/10 km o 1/10 NM calculada | 1 x 10-3 ordinaria |
-| Longitud de los tramos de rutas de llegada/salida de área terminal | 1/100 km o 1/100 NM calculada | 1/100 km o 1/100 NM calculada | 1 x 10-5 ordinaria |
+| Longitud de los segmentos de rutas de llegada/salida de área terminal | 1/100 km o 1/100 NM calculada | 1/100 km o 1/100 NM calculada | 1 x 10-5 ordinaria |
 | Distancia para la determinación de los puntos de referencia para procedimientos de aproximación de área terminal y por instrumentos | 1/100 km o 1/100 NM calculada | 1/100 km o 1/100 NM calculada | 1 x 10-5 esencial |
 | Longitud de la pista y de la FATO, dimensiones de la TLOF |  | 1 m o 1 ft | 1 x 10-8 crítica |
 | Longitud de la zona de parada |  | 1 m o 1 ft | 1 x 10-8 crítica |
@@ -83,5 +83,7 @@
 | Distancia entre antena de azimut MLS-extremo de pista |  | 3 m o (10 ft) | 1 x 10-3 ordinaria |
 | Distancia entre antena de elevación MLS-umbral,a lo largo del eje |  | 3 m o (10 ft) | 1 x 10-3 ordinaria |
 | Distancia entre antena DME/P del MLS-umbral, a lo largo del eje |  | 3 m o (10 ft) | 1 x 10-5 esencial |
+
+> Se modifican las referencias a "tramo de ruta" por la disposición final 1.1 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
 
 > Se modifica la tabla 2 por el art. único.14 de la Orden PRE/941/2013, de 24 de mayo. Ref. BOE-A-2013-5671

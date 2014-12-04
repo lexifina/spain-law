@@ -50,4 +50,6 @@ d) Todo centro de información de vuelo necesita información sobre el estado op
 | En los lugares donde no se suministre servicio de control de aproximación |
 | G | Todas las fases | Todas las ayudas de estos tipos que haya | FIC | Máximo 5 minutos |
 
-Nota: Las necesidades en materia de notificación a las dependencias ATS son las previstas en el Anexo 10, de OACI, en cuanto a las ayudas no visuales para la navegación y en el Anexo 14 de OACI, en cuanto a las visuales.
+Nota: Las necesidades en materia de notificación a las dependencias ATS son las previstas en el Anexo 10, de OACI, en cuanto a las ayudas no visuales para la navegación y en el Real Decreto 862/2009, de 14 de mayo, por el que se aprueban las normas técnicas de diseño y operación de aeródromos de uso público y el Reglamento de certificación y verificación de aeropuertos y otros aeródromos de uso público, y normas concordantes, en cuanto a las visuales.
+
+> Se modifica las referencias a "Anexo 14 de OACI" por la disposición final 1.1 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856

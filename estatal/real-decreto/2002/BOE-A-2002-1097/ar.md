@@ -2,7 +2,7 @@
 
 ## Observaciones especiales, informes especiales e informes especiales seleccionados
 
-1. La Autoridad Meteorológica, en consulta con la Autoridad ATS competente, los explotadores y demás interesados, establecerá una lista de los criterios respecto a las observaciones especiales. La lista incluirá los valores:
+1. El proveedor de servicios metereológicos, en consulta con el proveedor de servicios de tránsito aéreo competente, los explotadores y demás interesados, establecerá una lista de los criterios respecto a las observaciones especiales. La lista incluirá los valores:
 
 a) que más se aproximen a las mínimas de operaciones de los explotadores que usen el aeródromo;
 
@@ -10,7 +10,7 @@ b) que satisfagan otras necesidades locales de las dependencias de los servicios
 
 c) que constituyan criterios relativos a los informes especiales seleccionados.
 
-2. Los informes de observaciones especiales se prepararán para uso en el aeródromo de origen; se expedirán como informes especiales a las dependencias locales de los servicios de tránsito aéreo, tan pronto como ocurran las condiciones especificadas. Sin embargo, por acuerdo entre la Autoridad Meteorológica y la Autoridad ATS competente, no hay necesidad de expedirlos con respecto a:
+2. Los informes de observaciones especiales se prepararán para uso en el aeródromo de origen; se expedirán como informes especiales a las dependencias locales de los servicios de tránsito aéreo, tan pronto como ocurran las condiciones especificadas. Sin embargo, por acuerdo entre el proveedor de servicios metereológicos y el proveedor de servicios de tránsito aéreo competente, no hay necesidad de expedirlos con respecto a:
 
 a) cualquier elemento para el cual haya, en la dependencia local de los servicios de tránsito aéreo, un indicador correspondiente al que exista en la estación meteorológica, y cuando estén en vigor acuerdos que permitan utilizar este indicador para hacer observaciones que satisfagan las necesidades en materia de informes para el aterrizaje y el despegue;
 
@@ -43,3 +43,5 @@ g) cuando la altura de la base de las nubes que cubren más de la mitad del ciel
 5. Se debería emitir y difundir un informe especial seleccionado, relativo al empeoramiento de las condiciones, inmediatamente después de la observación. Los informes especiales seleccionados relativos a un mejoramiento de las condiciones meteorológicas, deberían divulgarse únicamente si dicho mejoramiento ha persistido 10 minutos. Si fuese necesario, debería enmendarse antes de su difusión, para indicar las condiciones prevalecientes al terminar ese período de 10 minutos. Los informes especiales seleccionados relativos a un empeoramiento de uno de los elementos meteorológicos y a un mejoramiento de otro de los elementos, deberían difundirse inmediatamente después de la observación.
 
 6. Los informes especiales seleccionados deberían difundirse fuera del aeródromo de origen, de conformidad con el acuerdo regional de navegación aérea.
+
+> Se modifican las referencias a "autoridad ATS" y "autoridad meteorológica" por la disposición final 1.1 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856

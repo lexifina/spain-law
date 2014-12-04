@@ -10,7 +10,7 @@
 
 1. Designadores para rutas ATS.
 
-1.1. El objeto de un sistema de designadores de rutas y tipos de performance de navegación requerida (RNP) aplicables a determinados tramos de ruta, rutas o áreas ATS es, teniendo en cuenta los requisitos, permitir a los pilotos así como al ATS:
+1.1. El objeto de un sistema de designadores de rutas y tipos de performance de navegación requerida (RNP) aplicables a determinados segmentos de ruta, rutas o áreas ATS es, teniendo en cuenta los requisitos, permitir a los pilotos así como al ATS:
 
 a) hacer referencia sin ambigüedades a cualquier ruta ATS sin la necesidad de recurrir al uso de coordenadas geográficas u otros medios para describirla;
 
@@ -66,15 +66,11 @@ b) U para indicar que la ruta o parte de ella está establecida en el espacio a�
 
 c) S para indicar una ruta establecida exclusivamente para ser utilizada por las aeronaves supersónicas durante la aceleración, deceleración y durante el vuelo supersónico.
 
-2.4. Cuando lo prescriba la autoridad competente o se base en acuerdos regionales de navegación aérea, podrá añadirse una letra suplementaria después del designador básico de la ruta ATS en cuestión, con el fin de indicar el tipo de servicio prestado o la performance de viraje requerida en la ruta de que se trate, de acuerdo con lo siguiente:
+2.4. Cuando lo prescriba la autoridad competente o se base en acuerdos regionales de navegación aérea, podrá añadirse una letra suplementaria después del designador básico de la ruta ATS en cuestión, con el fin de indicar el tipo de servicio prestado, de acuerdo con lo siguiente:
 
 a) la letra F, para indicar que en la ruta o parte de ella solamente se proporciona servicio de asesoramiento.
 
 b) la letra G, para indicar que en la ruta o parte de ella solamente se proporciona servicio de información de vuelo.
-
-c) la letra D, para indicar que en la ruta o parte de ella solamente se proporciona servicio de asesoramiento. (Región AFI).
-
-d) la letra F, para indicar que en la ruta o parte de ella solamente se proporciona servicio de información de vuelo. (Región AFI.)
 
 2.4.1. La puesta en práctica de una ruta o parte de ella, en calidad de ruta controlada, ruta de asesoramiento o ruta de información de vuelo, se indica en las cartas aeronáuticas y en las publicaciones de información aeronáutica, de acuerdo con las disposiciones vigentes.
 
@@ -544,7 +540,7 @@ La palabra «retención», utilizada en la presente sección, sirve para indicar
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245960_image21.png)
 
-3.4. Si la autoridad ATS competente considera que se requiere mejorar la protección, por ejemplo, debido a la proximidad de zonas prohibidas, restringidas o peligrosas, trayectoria de ascenso o de descenso de aeronaves militares, etc., dicha autoridad podrá decidir si debería preverse un nivel más elevado de retención. Para delimitar el espacio aéreo protegido se deberían utilizar, entonces, los siguientes valores:
+3.4. Si el proveedor de servicios de tránsito aéreo competente considera que se requiere mejorar la protección, por ejemplo, debido a la proximidad de zonas prohibidas, restringidas o peligrosas, trayectoria de ascenso o de descenso de aeronaves militares, etc., dicha autoridad podrá decidir si debería preverse un nivel más elevado de retención. Para delimitar el espacio aéreo protegido se deberían utilizar, entonces, los siguientes valores:
 
 – Para los tramos de 93 km (50 NM) o menos entre los VOR, utilícense los valores correspondientes a A de la tabla siguiente.
 
@@ -562,17 +558,17 @@ Por ejemplo, el área protegida de una ruta de 222 km (120 NM) entre los VOR y r
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245960_image22.png)
 
-3.5. Si dos tramos de una ruta ATS definida por un VOR se intersecan a un ángulo de más de 25°, debería proporcionarse un espacio aéreo protegido suplementario en la parte exterior del viraje y asimismo en la parte interior del viraje, en la medida de lo necesario. Este espacio suplementario servirá de zona marginal de seguridad para un mayor desplazamiento lateral de las aeronaves, observado en la práctica, durante los cambios de dirección de más de 25°. La extensión del espacio aéreo suplementario varía según el ángulo de intersección. Cuanto mayor sea el ángulo, mayor será el espacio aéreo suplementario que ha de utilizarse. Se proporciona guía para el espacio aéreo protegido requerido en los viajes de no más de 90°. Para circunstancias excepcionales en que se requiera una ruta ATS con un viraje de más de 90°, el Estado debería asegurar que se proporcione espacio aéreo protegido suficiente tanto en la parte interior como exterior de esos virajes.
+3.5. Si dos segmentos de una ruta ATS definida por un VOR se intersecan a un ángulo de más de 25°, debería proporcionarse un espacio aéreo protegido suplementario en la parte exterior del viraje y asimismo en la parte interior del viraje, en la medida de lo necesario. Este espacio suplementario servirá de zona marginal de seguridad para un mayor desplazamiento lateral de las aeronaves, observado en la práctica, durante los cambios de dirección de más de 25°. La extensión del espacio aéreo suplementario varía según el ángulo de intersección. Cuanto mayor sea el ángulo, mayor será el espacio aéreo suplementario que ha de utilizarse. Se proporciona guía para el espacio aéreo protegido requerido en los viajes de no más de 90°. Para circunstancias excepcionales en que se requiera una ruta ATS con un viraje de más de 90°, el Estado debería asegurar que se proporcione espacio aéreo protegido suficiente tanto en la parte interior como exterior de esos virajes.
 
 3.6. Los ejemplos siguientes son el resultado de una síntesis de las prácticas seguidas en dos Estados que se sirven de plantillas para facilitar la planificación de la utilización del espacio aéreo. Las plantillas de las áreas de viraje se concibieron para tener en cuenta factores tales como la velocidad de las aeronaves, el ángulo de inclinación lateral en los virajes, la velocidad probable del viento, los errores de posición, los tiempos de reacción del piloto, y un ángulo de por lo menos 30° para interceptar la nueva derrota, y proporcionar una contención de por lo menos 95%.
 
 3.7. Se utilizó una plantilla para determinar el espacio aéreo suplementario necesario en la parte exterior de los virajes para contener aeronaves que ejecutan virajes de 30, 45, 60, 75 y 90°. Las figuras siguientes presentan de manera esquemática los límites exteriores de dicho espacio aéreo, habiéndose suprimido las curvas para facilitar el trazado. En cada caso, el espacio aéreo suplementario está representado para la aeronave que vuela en el sentido de la flecha de trazo grueso. Cuando la ruta se utiliza en los dos sentidos, debería proporcionarse el mismo espacio aéreo suplementario en el otro límite exterior.
 
-3.8. La Figura N5-3 ilustra el caso de dos tramos de ruta que se cortan en un VOR a un ángulo de 60°.
+3.8. La Figura N5-3 ilustra el caso de dos segmentos de ruta que se cortan en un VOR a un ángulo de 60°.
 
-3.9. La figura N5-4 ilustra el caso de dos tramos de ruta que se cortan en un ángulo de 60° en la intersección de dos radiales VOR, más allá del punto en que debe ensancharse el espacio aéreo protegido con objeto de atenerse a lo prescrito en 3.3. y la Figura N5-1
+3.9. La figura N5-4 ilustra el caso de dos segmentos de ruta que se cortan en un ángulo de 60° en la intersección de dos radiales VOR, más allá del punto en que debe ensancharse el espacio aéreo protegido con objeto de atenerse a lo prescrito en 3.3. y la Figura N5-1
 
-3.10. La tabla siguiente de las distancias que han de utilizarse en casos típicos para proporcionar espacio aéreo protegido suplementario en tramos de ruta al FL 45 y por debajo de este nivel, que se cortan en un VOR o en la intersección de dos radiales VOR, cuando esta intersección no se encuentra a más de 139 km (75 NM) de cada VOR.
+3.10. La tabla siguiente de las distancias que han de utilizarse en casos típicos para proporcionar espacio aéreo protegido suplementario en segmentos de ruta al FL 45 y por debajo de este nivel, que se cortan en un VOR o en la intersección de dos radiales VOR, cuando esta intersección no se encuentra a más de 139 km (75 NM) de cada VOR.
 
 Nota: Véanse las Figuras N5-3y N5-4.
 
@@ -629,7 +625,7 @@ b) 30,6 km (16,5 NM) para rutas paralelas cuando las aeronaves en ambas rutas vu
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245960_image27.png)
 
-Dos tramos de ruta se consideran paralelos en las condiciones siguientes:
+Dos segmentos de ruta se consideran paralelos en las condiciones siguientes:
 
 – su orientación es aproximadamente idéntica, es decir, forman entre sí un ángulo que no excede de 10°;
 
@@ -695,7 +691,7 @@ Nota 2: El texto de la presente sección no ha sido obtenido por el método de r
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245960_image28.png)
 
-5.3. Cuando la diferencia angular entre tramos de ruta exceda de 25°, debería proporcionarse espacio aéreo protegido suplementario, tal como se indica en 3.5 a 3. 10.
+5.3. Cuando la diferencia angular entre segmentos de ruta exceda de 25°, debería proporcionarse espacio aéreo protegido suplementario, tal como se indica en 3.5 a 3. 10.
 
 6. Puntos de cambio de VOR.
 
@@ -720,6 +716,8 @@ b) que cuando la protección de las frecuencias sea crítica, se deberán llevar
 7.4. Según los cálculos, el radio de viraje de una aeronave que vuela a una velocidad respecto al suelo de 1.400 km/h (750 kt), con un ángulo de inclinación lateral de 20°, es de 22,51 NM (41,69 km). Para simplificar, este valor se ha reducido a 22,5 NM (41,6 km). Aplicando esta misma lógica al espacio aéreo inferior, se considera que hasta el FL 200 (6.100 m), los valores máximos que cabe encontrar en la realidad son una velocidad verdadera de 740 km/h (400 kt), con un viento de cola de 370, km/h (200 kt). Manteniendo ángulo de inclinación lateral máximo en 20° y utilizando la misma fórmula, el viraje se efectuaría a lo largo de un radio de 14,45 NM (27,76 km). Para simplificar, cabe redondear esa cifra a 15 NM (27,8 km)
 
 7.5 De acuerdo con lo antedicho, el punto más lógico para separar ambos casos de velocidad respecto al suelo se situaría entre el FL 190 (5800 m) y el FL 200 (6100 m). Así pues, para abarcar toda la gama de algoritmos de anticipación de viraje utilizados en los actuales sistemas de gestión de vuelo (FMS), en todas las condiciones previsibles, el radio de viraje en FL 200 y niveles superiores debería definirse con un valor de 22,5 NM (41,6 km) y en los niveles FL 190 e inferiores con un valor de 15 NM (27,8 km).
+
+> Se modifica el Adjunto 1 y las referencias a "tramo de ruta" por la disposición 1.1 y 1.2.11 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
 
 > Se modifican los Adjuntos 1 y 3 y se suprime el 6 por el art. único.12 de la Orden PRE/941/2013, de 24 de mayo. Ref. BOE-A-2013-5671
 

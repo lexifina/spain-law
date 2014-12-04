@@ -40,13 +40,13 @@ En particular, la utilización de los helipuertos eventuales para los trabajos a
 
 5.1.2. Operaciones especiales para helicópteros.
 
-Se realizarán de conformidad con lo dispuesto en el apartado 2.3.9.
+Nota: SERA y el Real Decreto 552/2014, de 27 de junio(*), establecen el régimen aplicable a las operaciones especiales.
 
-5.1.3. Plan de Vuelo de acuerdo con las normas generales de este Reglamento.
+5.1.3. Plan de vuelo.
 
-En los vuelos de helicópteros es obligatoria la formalización del Plan de Vuelo. Quedan exentos, sin que tal exención pueda hacerse extensiva a los supuestos cruce de fronteras, los helicópteros que operen desde helipuertos eventuales o de emergencia, en los que no exista la posibilidad material de presentar plan de vuelo, en cuyo caso se presentará en el primer contacto radio con la dependencia de Control apropiada, siempre que la aeronave cuente con medios materiales para ello.
+Nota: SERA.4001 a SERA.4020, ambos inclusive, regulan el plan de vuelo. Las disposiciones complementarias sobre la materia se contienen en el Capítulo IV y Anexo II del Real Decreto 552/2014, de 27 de junio(*).
 
-También son una excepción a esta Norma los helicópteros que operen bajo una "Carta de exenciones para operaciones especiales", si en ésta se contempla esta posibilidad y en las condiciones que se determinen.
+(*) Véanse los preceptos concordantes del Real Decreto 1180/2018, de 21 de septiembre.
 
 5.1.4. Entradas y salidas en los helipuertos.
 
@@ -54,15 +54,13 @@ También son una excepción a esta Norma los helicópteros que operen bajo una "
 
 5.1.5. Vuelos VFR especiales.
 
-5.1.5.1. Las reglas que se exponen a continuación exigen que el Piloto del helicóptero en vuelo VFR especial mantenga contacto visual con el terreno.
+5.1.5.1. Nota: SERA.5010 y SERA.8005, letra b), contienen las disposiciones sobre vuelos VFR especiales.
 
-5.1.5.2. En lugar de lo establecido en el Libro Cuarto, las reglas y mínimos que se dan a continuación podrán ser empleados para el control de los helicópteros en vuelo VFR especial cuando el volumen y/o la complejidad de las operaciones de los helicópteros lo justifiquen. Cuando se empleen estas reglas y mínimos, deberán basarse en circuitos de tráfico establecidos, rutas y ayudas especificadas para notificación y espera, publicados en una «Carta de Operaciones». Las variaciones de estos mínimos que, por circunstancias extraordinarias, se consideren necesarias deberán ser aprobadas por la autoridad competente.
-
-5.1.5.3. Separación especial entre helicópteros.
+5.1.5.2. Separación especial entre helicópteros.
 
 La separación mínima entre helicópteros que despeguen simultáneamente del mismo aeródromo en vuelo VFR especial y que van a seguir rutas divergentes después del despegue será de 60 metros.
 
-5.1.5.4. Separación especial entre helicópteros y otras aeronaves en vuelo IFR.
+5.1.5.3. Separación especial entre helicópteros y otras aeronaves en vuelo IFR.
 
 La separación entre helicópteros en vuelo VFR especial y otras aeronaves en vuelo IFR, que salen o llegan al mismo aeródromo, se regirá por los mínimos siguientes:
 
@@ -82,7 +80,7 @@ c) Entre una aeronave que sale en vuelo IFR y un helicóptero que llega en vuelo
 
 1. Cuando la aeronave que sale está despegando o se encuentra a menos de media milla náutica más allá del final de la pista: media milla náutica.
 
-2. Cuando la aeronave que sale en vuelo IFR esté a media milla ó más, pasado el final de la pista: dos millas náuticas.
+2. Cuando la aeronave que sale en vuelo IFR esté a media milla o más, pasado el final de la pista: dos millas náuticas.
 
 d) Entre una aeronave que llega en vuelo IFR y un helicóptero que va a despegar en vuelo VFR especial, siempre que las rutas no sean convergentes, la separación mínima será la suficiente para que:
 
@@ -90,11 +88,17 @@ El helicóptero que sale, despegue antes de que la aeronave que llega se encuent
 
 5.1.6. Vuelos VFR nocturnos
 
-Los helicópteros podrán realizar vuelos VFR nocturnos en las condiciones que determine la autoridad competente, siempre que la aeronave esté equipada para el vuelo IFR y la licencia del piloto cumpla con la normativa vigente.
+Nota: SERA.5005., letra c), contiene disposiciones sobre vuelos VFR nocturno. Las disposiciones complementarias sobre la materia se encuentran en el Real Decreto 552/2014, de 27 de junio(*).
 
 5.1.7. Sobrevuelo de los núcleos urbanos.
 
-No podrán sobrevolar núcleos urbanos de más de 50.000 habitantes helicópteros equipados con un sólo motor, salvo en misiones urgentes de evacuación y transporte sanitario, en su caso debidamente justificado.
+Nota: SERA.3105, el artículo 4 del Real Decreto 552/2014, de 27 de junio(*), el Reglamento (UE) n.º 965/2012, de la Comisión, de 5 de octubre de 2012, y el Real Decreto 279/2007, de 23 de febrero, por el que se determinan los requisitos exigibles para la realización de las operaciones de transporte aéreo comercial por helicópteros civiles y normas concordante contienen disposiciones sobre la materia.
+
+(*) Véanse los preceptos concordantes del Real Decreto 1180/2018, de 21 de septiembre.
+
+> Se modifica por la disposición final 1.2.5 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 287, de 27 de noviembre de 2014. Ref. BOE-A-2014-12293
 
 > Se modifica el Capítulo 1 por el art. único 18 de la Orden PRE/1802/2011, de 24 de junio. Ref. BOE-A-2011-11268
 

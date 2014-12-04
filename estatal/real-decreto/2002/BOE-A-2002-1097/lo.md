@@ -300,9 +300,9 @@ s) aparición de epidemias que necesiten cambios en los requisitos notificados r
 
 t) pronósticos de radiación cósmica solar, cuando se facilitan;
 
-t) cambios de importancia para las operaciones por actividad volcánica, lugar, fecha y hora de erupciones volcánicas y/o extensión horizontal y vertical de nubes de cenizas volcánicas, comprendidos el sentido en que se mueven, los niveles de vuelo y las rutas o tramos de rutas que podrían estar afectados;
+t) cambios de importancia para las operaciones por actividad volcánica, lugar, fecha y hora de erupciones volcánicas y/o extensión horizontal y vertical de nubes de cenizas volcánicas, comprendidos el sentido en que se mueven, los niveles de vuelo y las rutas o segmentos de rutas que podrían estar afectados;
 
-u) liberación a la atmósfera de materiales radiactivos o productos químicos tóxicos como consecuencia de un incidente nuclear o químico, lugar, fecha y hora del incidente, niveles de vuelo y rutas o tramos de rutas que podrían estar afectados, así como dirección del movimiento;
+u) liberación a la atmósfera de materiales radiactivos o productos químicos tóxicos como consecuencia de un incidente nuclear o químico, lugar, fecha y hora del incidente, niveles de vuelo y rutas o segmentos de rutas que podrían estar afectados, así como dirección del movimiento;
 
 v) establecimiento de operaciones de misiones humanitarias de socorro, tales como las emprendidas bajo los auspicios de las Naciones Unidas, junto con los procedimientos o limitaciones que afectan a la navegación aérea; y
 
@@ -742,7 +742,7 @@ Las direcciones de las autoridades designadas que se ocupan de la facilitación 
 
 GEN 1.2. Entrada, tránsito y salida de aeronaves.
 
-Reglamentos y requisitos relativos a la notificación anticipada y solicitudes de permiso pertinentes a la entrada, tránsito y salida de aeronaves civiles en vuelos internacionales.
+Reglamentos y requisitos relativos a la notificación anticipada y solicitudes de permiso pertinentes a la entrada, tránsito y salida de aeronaves que operen conforme a las reglas de la circulación aérea general en vuelos internacionales.
 
 GEN 1.3. Entrada, tránsito y salida de pasajeros y tripulación.
 
@@ -1152,11 +1152,11 @@ Breve descripción de los principales tipos de servicios proporcionados, que com
 
 GEN 3.5.5. Notificación requerida de los explotadores.
 
-El tiempo mínimo de aviso que exija la autoridad meteorológica a los explotadores respecto a las exposiciones verbales, las consultas, la documentación de vuelo y otra información meteorológica que necesiten o cambien.
+El tiempo mínimo de aviso que exija el proveedor de servicios metereológicos a los explotadores respecto a las exposiciones verbales, las consultas, la documentación de vuelo y otra información meteorológica que necesiten o cambien.
 
 GEN 3.5.6. Informes de aeronave.
 
-Según sea necesario, los requisitos de la autoridad meteorológica para la formulación y transmisión de informes de aeronave.
+Según sea necesario, los requisitos de el proveedor de servicios metereológicos para la formulación y transmisión de informes de aeronave.
 
 GEN 3.5.7. Servicio VOLMET.
 
@@ -1410,7 +1410,7 @@ Se exige indicar, en forma de tabla, las direcciones asignadas a los planes de v
 
 3) la dirección del mensaje.
 
-ENR 1.12. Interceptación de aeronaves civiles.
+ENR 1.12. Interceptación de aeronaves que operen conforme a las reglas de la circulación aérea general.
 
 Se exige una declaración completa de los procedimientos y señales visuales que se han de utilizar en las interceptaciones, conjuntamente con una clara indicación de si se aplican o no las disposiciones de la OACI y, en caso negativo, una presentación completa de las deferencias.
 
@@ -1460,7 +1460,7 @@ Cuando se hayan establecido otros tipos de espacio aéreo reglamentado se presen
 
 Nota 1: Las marcaciones, las derrotas y los radiales se indican normalmente por referencia al norte magnético. En zonas de elevada latitud, en que las autoridades competentes hayan dictaminado que no es práctico hacerlo, puede utilizarse otra referencia más apropiada, como por ejemplo, el norte verdadero o el norte de cuadrícula.
 
-Nota 2: Si se hace una declaración general acerca de su existencia, no es preciso indicar en cada tramo de ruta los puntos de cambio establecidos en el punto intermedio entre dos radioayudas para la navegación, o en la intersección de los dos radiales en el caso de una ruta con cambio de dirección entre las ayudas para la navegación.
+Nota 2: Si se hace una declaración general acerca de su existencia, no es preciso indicar en cada segmento de ruta los puntos de cambio establecidos en el punto intermedio entre dos radioayudas para la navegación, o en la intersección de los dos radiales en el caso de una ruta con cambio de dirección entre las ayudas para la navegación.
 
 ENR 3.1. Rutas ATS inferiores.
 
@@ -2020,7 +2020,7 @@ Descripción detallada de las distancias declaradas redondeadas al metro o pie m
 
 6) observaciones.
 
-Si determinado sentido de la pista no puede utilizarse para despegar o aterrizar, o para ninguna de esas operaciones por estar prohibido operacionalmente, ello deberá indicarse mediante las palabras «no utilizable» o con la abreviatura «NU» (Anexo 14, Volumen I, Adjunto A, Sección 3).
+Si determinado sentido de la pista no puede utilizarse para despegar o aterrizar, o para ninguna de esas operaciones por estar prohibido operacionalmente, ello deberá indicarse mediante las palabras «no utilizable» o con la abreviatura «NU» (Real Decreto 862/2009, de 14 de mayo, por el que se aprueban las normas técnicas de diseño y operación de aeródromos de uso público y el Reglamento de certificación y verificación de aeropuertos y otros aeródromos de uso público, y normas concordantes).
 
 ****AD 2.14. Luces de aproximación y de pista.
 
@@ -2517,6 +2517,8 @@ Es necesario incluir cartas relacionadas con el helipuerto, en el orden siguient
 8) concentraciones de aves en las proximidades del helipuerto.
 
 Si alguna de las cartas no se produce, deberá incluirse en la sección GEN 3.2, Cartas aeronáuticas, una declaración a esos efectos.
+
+> Se modifican las referencias a "autoridad metereológica", "tramo de ruta" y "aeronaves civiles" por la disposición final 1.1 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
 
 > Se modifica el Capítulo 10 por el art. único.9 de la Orden PRE/941/2013, de 24 de mayo. Ref. BOE-A-2013-5671
 
