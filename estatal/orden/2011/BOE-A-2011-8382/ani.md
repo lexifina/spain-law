@@ -326,6 +326,122 @@ g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, re
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
+9. FICHERO: ANETO.
+
+a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
+
+a.1) Identificación del fichero: ANETO.
+
+a.2) Finalidad: Investigación policial.
+
+a.3) Usos previstos: Registro de entrada y salida de documentación administrativa de los Centros de Cooperación Policial y Aduanera; gestión de las transmisiones o intercambios de información entre España (Guardia Civil, Cuerpo Nacional de Policía, Ertzaintza, Mossos d'Esquadra, Servicio de Vigilancia Aduanera y cualquier otro Cuerpo o Servicio que pueda ser declarado competente en virtud de acuerdo de colaboración transfronteriza suscrito por España) y el país transfronterizo (Francia, Portugal, así como cualquier otro Estado parte del Acuerdo Schengen), procedente o bien de un Cuerpo español, o bien de un Cuerpo de la contraparte; control del rendimiento y elaboración de la estadística de actividades realizadas.
+
+b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
+
+b.1) Colectivo: Personas implicadas en actividades delictivas e infracciones, sobre las que se solicita información o son objeto de investigación policial a nivel nacional e internacional, así como personas sobre las que se pueda necesitar un intercambio de información a nivel transfronterizo por razones humanitarias o de emergencia.
+
+b.2) Procedencia y procedimiento de recogida: A través de las comunicaciones de correo electrónico y ordinario, fax y telefónicas.
+
+c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos y, en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+
+c.1) Descripción de los datos:
+
+– datos relativos a personas en relación con el colectivo del apartado b.1):
+
+– datos identificativos y de características personales: DNI/NIF, NIE, N.º Pasaporte, nombre y apellidos, domicilio, fecha, lugar y país de nacimiento, nombres de los padres, sexo, nacionalidad, ubicación, dirección de correo electrónico, número de teléfono, datos biométricos, fotografía, dactilogramas, cuentas bancarias, ubicación geográfica, datos sobre la estancia irregular en un territorio, número de identificación profesional de los usuarios de este fichero, así como cualquier otro que pudiera ser identificativo de la persona.
+
+– datos relativos a objetos:
+
+Datos identificadores de vehículos: matrícula, bastidor, tipo, marca, modelo, imágenes y comentarios.
+
+Datos relativos a armas, joyas, medios de transporte marítimo, medios de transporte aéreo, así como cualquier otro objeto que pueda formar parte de una investigación policial.
+
+c.2) Sistema de tratamiento: Automatizado.
+
+d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: Guardia Civil, Cuerpo Nacional de Policía, Servicio de Vigilancia Aduanera, Policías Autonómicas, Policías Locales, así como cualquier otra institución o entidad que requiera información a nivel transfronterizo por razones humanitarias o de emergencia, Cuerpos de Policía y Aduanas de la República Francesa y la República de Portugal que se encuentren en los Centros de Cooperación Policial y Aduanero, siempre dentro del marco normativo vigente.
+
+e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se prevén.
+
+f) Órgano responsable del fichero: Secretaría de Estado de Seguridad, calle Amador de los Ríos, número 2, 28010 Madrid.
+
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Gabinete de Coordinación y Estudios de la Secretaría de Estado de Seguridad, calle Amador de los Ríos, número 2, 28010 Madrid.
+
+h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
+
+10. FICHERO: PDyRH.
+
+a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
+
+a.1) Identificación del fichero: PDyRH.
+
+a.2) Finalidad y usos previstos: Averiguación de personas desaparecidas y cadáveres/restos humanos sin identificar, con el fin de poder resolver las investigaciones relacionadas con las desapariciones de personas, buscando la colaboración entre las Fuerzas y Cuerpos de Seguridad, tanto nacionales como autonómicas.
+
+b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
+
+b.1) Colectivo: Personas desaparecidas, cadáveres y restos humanos sin identificar.
+
+b.2) Procedencia y procedimiento de recogida: Denuncias por desaparición de personas y diligencias policiales de hallazgo de cadáveres o restos humanos sin identificar.
+
+c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos y, en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+
+c.1) Descripción de los datos:
+
+– en relación con el colectivo del apartado b.1): Datos identificativos, datos relativos a la salud, datos de características personales.
+
+– datos relativos a las personas que denuncian la desaparición: Datos identificativos.
+
+c.2) Sistema de tratamiento: Automatizado.
+
+d) Comunicaciones de datos previstas, indicando, en su caso, los destinatarios o categorías de destinatarios: Dirección General de la Policía, Dirección General de la Guardia Civil, Policías Autonómicas.
+
+e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
+
+f) Órgano responsable del fichero: Secretaría de Estado de Seguridad.
+
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Subdirección General de Sistemas de Información y Comunicaciones para la Seguridad, calle López Santos, 4, 28230 Las Rozas (Madrid).
+
+h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
+
+11. FICHERO: SIMASC.
+
+a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
+
+a.1) Identificación del fichero: SIMASC.
+
+a.2) Finalidad: Canal de comunicaciones de alertas de seguridad ciudadana a disposición de los ciudadanos, a través de un sistema de información que interactúa con los Centros de Gestión de Alertas con los que cuentan en la actualidad las unidades de 091 y 062 de las Fuerzas y Cuerpos de Seguridad del Estado.
+
+a.3) Usos previstos: El sistema de información en movilidad para alertas de seguridad ciudadana (SIMASC) universalizará el acceso a los sistemas de aviso de alertas de seguridad ciudadana, de modo que cualquier persona con independencia de su idioma o de sus discapacidades auditivas o vocales pueda comunicarse con los servicios de gestión de alertas de las Fuerzas y Cuerpos de Seguridad del Estado del lugar en que se encuentre. Ante una situación de inseguridad comprendida en el catálogo de avisos de emergencia del sistema SIMASC, el usuario, mediante una aplicación en movilidad (app) descargada en su smartphone, podrá generar y enviar una alerta describiendo la situación y solicitando ayuda.
+
+La plataforma recibirá la información de la alerta, procesará el mensaje y discriminará la Unidad y Cuerpo de las Fuerzas y Cuerpos de Seguridad del Estado a la que debe enviar de manera automática e inmediata la alerta. A partir de este momento se establecerá un canal de comunicación entre alertante y el Centro de Gestión de Emergencias (091 o 062) que reciba la alerta.
+
+b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
+
+b.1) Colectivo: Ciudadanos nacionales y turistas extranjeros con independencia de su idioma o de sus discapacidades auditivas o vocales que, para comunicarse con los servicios de gestión de alertas de las Fuerzas y Cuerpos de Seguridad del Estado, decidan hacer uso de la aplicación de movilidad AlertCops publicada por el Ministerio del Interior en los markets de las operadoras telefónicas.
+
+b.2) Procedencia y procedimiento de recogida: Los datos serán recabados mediante registro voluntario de los usuarios a través de la aplicación de movilidad AlertCopps o del Portal Web MiAlertCops publicado por el Ministerio del Interior para la gestión por los ciudadanos de la información correspondiente a sus datos personales, así como por los centros de alertas de las Fuerzas y Cuerpos de Seguridad del Estado.
+
+c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos y, en su caso, de los datos especialmente protegidos, así como de las restantes categorías de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+
+c.1) Descripción de los datos:
+
+– datos de carácter identificativo y de características personales: Nombre y apellidos, DNI, NIE, NIF o pasaporte, número de teléfono, cuenta de correo electrónico, dirección postal, discapacidad auditiva (si/no) y fotografía (subida por el usuario).
+
+– datos especialmente protegidos: Salud (grupo sanguíneo, factor RH, datos médicos generales –campo libre–).
+
+La información recogida durante la tramitación de las alertas remitidas formará parte de la estructura del fichero, quedando esa información asociada a los usuarios que hubieran instalado la aplicación.
+
+c.2) Sistema de tratamiento: Automatizado.
+
+d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: Centros de gestión de alertas de las Fuerzas y Cuerpos de Seguridad del Estado.
+
+e) Transferencias internacionales de datos previstas a terceros países, con indicación en su caso, de los países de destino de los datos: No están previstas cesiones de datos internacionales a terceros países.
+
+f) Órgano responsable del fichero: Secretaría de Estado de Seguridad.
+
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Subdirección General de Sistemas de Información y Comunicaciones para la Seguridad, calle López Santos, 4 y 6, 28230 Las Rozas (Madrid).
+
+h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
+
 ## Dirección General de la Policía.
 
 1. FICHERO: JUIP (JEFATURA DE UNIDADES DE INTERVENCIÓN POLICIAL).
@@ -396,19 +512,19 @@ h) Nivel básico, medio o alto de seguridad que resulte exigible: Medio (acceso 
 
 a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
 
-a.1) Identificación del fichero: EUROCARGADOR.
+a.1) Identificación del fichero: Eurocargador.
 
-a.2) Finalidad: Para su transmisión, por parte de la Unidad Nacional de Europol, de las aportaciones nacionales al Sistema de Información de Europol (SIE), -ubicado en la sede de Europol en La Haya (Países Bajos)- para el cumplimiento de las funciones de Europol recogidas en el art. 5 de la Decisión del Consejo de 6 de abril de 2009, por la que se crea la Oficina Europea de Policía (Europol), en relación con la prevención y lucha contra la delincuencia organizada, el terrorismo y otras formas de delitos graves que figuran en el anexo de la Decisión, en la medida que afecten a dos o más Estados Miembros de la Unión Europea, de tal modo que, debido al alcance, gravedad y consecuencias de los actos delictivos, se requiera una actuación común de los Estados miembros.
+a.2) Finalidad: Para su transmisión, por parte de la Unidad Nacional de Europol, de las aportaciones nacionales al Sistema de Información de Europol (SIE), –ubicado en la sede de Europol en La Haya (Países Bajos)– para el cumplimiento de las funciones de Europol recogidas en el art. 5 de la Decisión del Consejo de 6 de abril de 2009, por la que se crea la Oficina Europea de Policía (Europol), en relación con la prevención y lucha contra la delincuencia organizada, el terrorismo y otras formas de delitos graves que figuran en el anexo de la Decisión, en la medida que afecten a dos o más Estados Miembros de la Unión Europea, de tal modo que, debido al alcance, gravedad y consecuencias de los actos delictivos, se requiera una actuación común de los Estados miembros.
 
-a.3) Usos previstos: Coordinación, tratamiento y validación por parte de la Unidad Nacional, de las aportaciones nacionales al Sistema de Información de Europol de Investigaciones e informaciones aportadas en el marco de las competencias de Europol por las Autoridades Nacionales Competentes. Se entenderá por «autoridades competentes” todos los organismos públicos existentes en los Estados miembros que sean responsables, conforme al derecho nacional, de la prevención y lucha contra los delitos.
+a.3) Usos previstos: Coordinación, tratamiento y validación por parte de la Unidad Nacional, de las aportaciones nacionales al Sistema de Información de Europol de Investigaciones e informaciones aportadas en el marco de las competencias de Europol por las Autoridades Nacionales Competentes. Se entenderá por «autoridades competentes» todos los organismos públicos existentes en los Estados miembros que sean responsables, conforme al derecho nacional, de la prevención y lucha contra los delitos.
 
 b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
 
 b.1) Colectivo: Los comprendidos en el artículo 12 de la Decisión del Consejo de 6 de abril de 2009:
 
-a) las personas que sean sospechosas, de acuerdo con el derecho español, de haber cometido o de haber participado en un delito que sea competencia de Europol, o que hayan sido condenadas por tal delito;
+a) Las personas que sean sospechosas, de acuerdo con el derecho español, de haber cometido o de haber participado en un delito que sea competencia de Europol, o que hayan sido condenadas por tal delito;
 
-b) las personas respecto de las cuales existan indicios concretos o motivos razonables, de acuerdo con el derecho español, para presumir que cometerán delitos que son competencia de Europol.
+b) Las personas respecto de las cuales existan indicios concretos o motivos razonables, de acuerdo con el derecho español, para presumir que cometerán delitos que son competencia de Europol.
 
 b.2) Procedencia y procedimiento de recogida: Transferencia automática desde distintas bases de datos gestionadas por las Autoridades Nacionales competentes y remisión en formato electrónico a la Unidad Nacional de Europol de la información o investigaciones realizadas en el marco de las competencias de Europol.
 
@@ -418,11 +534,11 @@ c.1) Descripción de los datos: La estructura básica del fichero viene recogida
 
 c.2) Sistema de tratamiento: Automatizado.
 
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios y transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: Al Sistema de Información de Europol y a través del mismo a las Unidades Nacionales de Europol del resto de los Estados miembros y por canal de las mismas a sus autoridades nacionales competentes, además de aquellas otras Agencias Europeas, Terceros Estados y Organizaciones Internacionales con los que Europol tenga concluidos acuerdos operativos de cooperación.
+d) Comunicaciones de datos previstas, indicando, en su caso, los destinatarios o categorías de destinatarios y transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: Al Sistema de Información de Europol y a través del mismo a las Unidades Nacionales de Europol del resto de los Estados miembros y por canal de las mismas a sus autoridades nacionales competentes, además de aquellas otras Agencias Europeas, terceros Estados y Organizaciones Internacionales con los que Europol tenga concluidos acuerdos operativos de cooperación.
 
-e) Órgano responsable del fichero: Comisaría General de Policía Judicial, calle Julián González Segador, sin número, 28033 Madrid.
+e) Órgano responsable del fichero: División de Cooperación Internacional, calle Julián González Segador, sin número, 28033 Madrid.
 
-f) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General de la Comisaría General de Policía Judicial, calle Julián González Segador, sin número, 28033 Madrid.
+f) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General de la División de Cooperación Internacional, calle Julián González Segador, sin número, 28033 Madrid.
 
 g) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
@@ -434,7 +550,7 @@ a.1) Identificación del fichero: UCPI.
 
 a.2) Finalidad: Punto único de comunicación para el intercambio de mensajes entre las distintas Unidades de las Fuerzas y Cuerpos de Seguridad del Estado, Policías Autonómicas, Policías Locales o entidades externas (Ministerio de Justicia, Aduanas, Banco de España y cualesquiera otras susceptibles de enviar o recibir información) y la Unidad de Cooperación Internacional; y ésta a su vez con las entidades internacionales de su ámbito de competencia: Interpol, Europol y Sirene (Sistema de Información Schengen).
 
-a.3) Usos previstos: Apoyo a la Investigación Policial, Nacional e Internacional.
+a.3) Usos previstos: Apoyo a la investigación policial, nacional e internacional.
 
 b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
 
@@ -442,23 +558,23 @@ b.1) Colectivo: Personas implicadas en actividades delictivas e infracciones, so
 
 b.2) Procedencia y procedimiento de recogida: A través de las comunicaciones de correo electrónico, fax o web-mail del aplicativo.
 
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos y, en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
 
 c.1) Descripción de los datos:
 
-– Se recoge el nombre y apellidos, Número de DNI/NIF y plantilla de destino de los usuarios de este fichero.
+– se recoge el nombre y apellidos, número de DNI/NIF y plantilla de destino de los usuarios de este fichero.
 
-– Existe un Cuerpo de Mensaje, en que se introduce información no estructurada y que posteriormente puede ser consultada.
+– existe un cuerpo de mensaje, en que se introduce información no estructurada y que posteriormente puede ser consultada.
 
-– Adjuntar archivos de todo tipo, tales como: imágenes, documentos digitales, video u audio.
+– adjuntar archivos de todo tipo, tales como: imágenes, documentos digitales, video u audio.
 
-– Enviar y recibir mensajes de Fax.
+– enviar y recibir mensajes de fax.
 
-– Enviar y recibir mensajes de correo electrónico.
+– enviar y recibir mensajes de correo electrónico.
 
-– Enviar y recibir mensajes a través de web-mail propia del aplicativo.
+– enviar y recibir mensajes a través de web-mail propia del aplicativo.
 
-– Maneja las entidades estructuradas de:
+– maneja las entidades estructuradas de:
 
 Genérica: Descripción y comentario.
 
@@ -466,9 +582,9 @@ Personas: Nombre, apellidos, DNI/NIF, fecha de nacimiento, sexo y comentarios.
 
 Vehículos: Matrícula, bastidor, tipo, marca, modelo, color y comentarios.
 
-– Información no estructurada:
+– información no estructurada:
 
-Datos de carácter personal que pueden incluirse: Datos identificativos y personales (DNI/NIF, NIE, N.º Pasaporte, nombre y apellidos y domicilio, fecha y lugar de nacimiento, sexo, nacionalidad, N.º Seguridad Social, Número de Teléfono, datos biométricos, fotografía, dactilogramas, así como cualquier otro que pudiera ser identificativo de la persona).
+Datos de carácter personal que pueden incluirse: Datos identificativos y personales (DNI/NIF, NIE, número de pasaporte, nombre y apellidos y domicilio, fecha y lugar de nacimiento, sexo, nacionalidad, número de la Seguridad Social, número de teléfono, datos biométricos, fotografía, dactilogramas, así como cualquier otro que pudiera ser identificativo de la persona).
 
 Datos identificadores de objetos (vehículos, cuentas bancarias, armas, joyas, etc): tipo, marca, modelo, numeración o matriculación, descripción, etc.
 
@@ -476,13 +592,13 @@ Datos identificadores del control: lugar, motivo, fecha, hora, duración, etc.
 
 c.2) Sistema de tratamiento: Automatizado.
 
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: A otras fuerzas y Cuerpos de Seguridad del Estado, Policías Autonómicas, Policías Locales, según lo previsto en los artículos 3 y 45 de la Ley Orgánica 2/1986, de 13 de marzo, o entidades externas (Ministerio de Justicia, Ministerio Fiscal, de conformidad con lo dispuesto en el artículo 11.2.d) de la Ley Orgánica 15/1999, de 13 de enero, Aduanas, Banco de España y cualesquiera otras susceptibles de recibir información a la Unidad de Cooperación Internacional, según lo previsto en los artículos 36 y 33 de la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo, artículo 94 de la Ley 58/2003, de 17 de diciembre, General Tributaria y el Real Decreto Legislativo 1/1994, de 20 de junio, por el que se aprueba Texto Refundido de la Ley General de la Seguridad Social).
+d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: A otras Fuerzas y Cuerpos de Seguridad del Estado, Policías Autonómicas, Policías Locales, según lo previsto en los artículos 3 y 45 de la Ley Orgánica 2/1986, de 13 de marzo, o entidades externas (Ministerio de Justicia, Ministerio Fiscal, de conformidad con lo dispuesto en el artículo 11.2.d) de la Ley Orgánica 15/1999, de 13 de enero, Aduanas, Banco de España y cualesquiera otras susceptibles de recibir información a la Unidad de Cooperación Internacional, según lo previsto en los artículos 36 y 33 de la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo, artículo 94 de la Ley 58/2003, de 17 de diciembre, General Tributaria y el Real Decreto Legislativo 1/1994, de 20 de junio, por el que se aprueba Texto Refundido de la Ley General de la Seguridad Social).
 
 e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: A entidades internacionales de su ámbito de competencia (Interpol, Europol y Sirene, Sistema de Información Shengen, Unión Europea y convenios bilaterales).
 
-f) Órgano responsable del fichero: Comisaría General de Policía Judicial, calle Julián González Segador, sin número, 28033 Madrid.
+f) Órgano responsable del fichero: División de Cooperación Internacional, calle Julián González Segador, sin número, 28033 Madrid.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General de la Comisaría General de Policía Judicial, calle Julián González Segador, sin número, 28033 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General de la División de Cooperación Internacional, calle Julián González Segador, sin número, 28033 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
@@ -555,6 +671,48 @@ e) Transferencias internacionales de datos previstas a terceros países, con ind
 f) Órgano responsable del fichero: Dirección General de la Policía y de la Guardia Civil (ámbito del Cuerpo Nacional de Policía).
 
 g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Jefatura de las plantillas policiales donde se tenga instalada esta aplicación.
+
+h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
+
+7. FICHERO: SIRENADE.
+
+a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
+
+a.1) Identificación del fichero: SIRENADE (Sistema de Información sobre Recién Nacidos Desaparecidos).
+
+a.2) Finalidad: Investigación de la desaparición de bebés, neonatos y recién nacidos, cuando por razón del lugar y las circunstancias se sospeche de que se trate de delitos contra las personas, contra la libertad, las relaciones familiares, alteración del registro civil o falsificación de certificados, sin perjuicio de la concurrencia de otras infracciones comunes.
+
+a.3) Usos previstos: Investigación policial.
+
+b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
+
+b.1) Colectivo: Personas (físicas o jurídicas) detenidas, imputadas, investigadas, testigos, denunciantes, familiares, víctimas y todas aquellas personas relacionadas con la desaparición en cuestión.
+
+b.2) Procedencia y procedimiento de recogida: Del propio interesado o su representante legal a través de denuncia, por investigaciones propias del Cuerpo Nacional de Policía, a requerimiento o solicitud de las autoridades judiciales y fiscales.
+
+El tratamiento de los datos se someterá a las previsiones establecidas en la Ley Orgánica 10/2007, de 8 de octubre, reguladora de la base de datos policial sobre identificadores obtenidos a partir del ADN, en el artículo 112 del Convenio de Aplicación del Acuerdo Schengen, de 14 de junio de 1985, y en el artículo 22 de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
+
+c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos y, en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+
+c.1) Descripción de los datos:
+
+– datos relativos a la comisión de infracciones penales o administrativas: Infracciones penales y administrativas.
+
+– datos de carácter identificativo y de características personales: Nombre, filiación, sexo, DNI, pasaporte, ADN, datos biométricos, perfiles genéticos, número de la seguridad social, dirección, teléfono, imagen/voz.
+
+– datos académicos o profesionales: Profesión.
+
+– otros tipos de datos: todos aquellos que se deriven de las gestiones y actuaciones que se lleven a cabo en el marco de las investigaciones precisas.
+
+c.2) Sistema de tratamiento: Automatizado.
+
+d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: Órganos Judiciales. Fuerzas y Cuerpos de Seguridad y otros servicios del Cuerpo Nacional de Policía.
+
+e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: a Organismos Internacionales y países extranjeros en los términos establecidos en los tratados y convenios en los que España sea parte (Interpol, Europol, Sistema de Información Schengen).
+
+f) Órgano responsable del fichero: Comisaría General de Policía Judicial, calle Julián González Segador, s/n, 28043 (Madrid).
+
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General de la Comisaría General de Policía Judicial, calle Julián González Segador, s/n, 28043 (Madrid).
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
@@ -677,6 +835,50 @@ f) Órgano responsable del fichero: Dirección General de Guardia Civil, calle G
 g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de Guardia Civil - Jefatura de Personal, calle Guzmán el Bueno, 110, 28003 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
+
+4. FICHERO: PREVENCIÓN DE RIESGOS LABORALES.
+
+a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
+
+a.1) Identificación del fichero: Prevención de riesgos laborales.
+
+a.2) Finalidad: Gestión informática interna de la prevención de riesgos laborales en la Guardia Civil (evaluación de riesgos, planificación preventiva, investigación de los accidentes de trabajo, formación e información en prevención de riesgos laborales, coordinación de actividades empresariales, control de los Equipos de Trabajo y de los EPI's).
+
+a.3) Usos previstos: Administrativos.
+
+b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
+
+b.1) Colectivo: Cuerpo de la Guardia Civil; personal de las Fuerzas Armadas; funcionarios que estén destinados en la Guardia Civil; personal laboral; personal eventual; personal de empresas concurrentes y trabajadores de las mismas cuando interactúen en el ámbito de aplicación del Real Decreto 179/2005, de 18 de febrero, sobre prevención de riesgos laborales en la Guardia Civil.
+
+b.2) Procedencia y procedimiento de recogida: Del propio interesado y de las distintas Unidades de la Guardia Civil o relacionadas con la misma recabando la información directamente o a través de la Intranet Corporativa.
+
+c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos y, en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+
+c.1) Descripción de los datos:
+
+– datos de carácter identificativo: Nombre y apellidos, DNI/NIF, dirección, teléfono, firma.
+
+– datos de características personales: Estado civil, fecha de nacimiento, lugar de nacimiento, edad, sexo, nacionalidad.
+
+– datos de circunstancias sociales: Situación militar.
+
+– datos académicos y profesionales: Formación, titulaciones.
+
+– datos de detalle de empleo: Cuerpo/escala, categoría/grado, puesto de trabajo.
+
+– otros tipos de datos: Datos de prevención de riesgos laborales. Todos los relativos a la gestión integral de la prevención de riesgos laborales dentro del ámbito Guardia Civil.
+
+c.2) Sistema de tratamiento: Parcialmente automatizado.
+
+d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: Inspección de Personal y Servicios de Seguridad (Secretaría de Estado de Seguridad), Jefatura de Asistencia al Personal, Servicio de Asistencia Sanitaria y Servicio de Psicología.
+
+e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se prevén.
+
+f) Órgano responsable del fichero: Dirección General de la Guardia Civil, calle de Guzmán el Bueno 110, 28003 Madrid.
+
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Guardia Civil, Jefatura de Asistencia al Personal, calle de Guzmán el Bueno, 110, 28003 Madrid.
+
+h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
 ## Secretaría General de Instituciones Penitenciarias.
 
@@ -896,6 +1098,42 @@ g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, re
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
+6. FICHERO: VIDEOVIGILANCIA EN LOS ESTABLECIMIENTOS PENITENCIARIOS.
+
+a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
+
+a.1) Identificación del fichero: Videovigilancia en los establecimientos penitenciarios.
+
+a.2) Finalidad: Registro de imágenes obtenidas a través de los distintos sistemas de videovigilancia instalados, para el control de acceso y tránsito en los Departamentos de accesos y comunicaciones de los establecimientos penitenciarios.
+
+a.3) Usos previstos: Videovigilancia y seguridad.
+
+b) Origen de los datos, indicando el colectivo de personas sobre los que se pretenda obtener los datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
+
+b.1) Colectivo: Personas que accedan a los establecimientos penitenciarios.
+
+b.2) Procedencia y procedimiento de recogida: Las imágenes son captadas y grabadas a través de los distintos sistemas de videovigilancia instalados en los departamentos de accesos y comunicaciones de los establecimientos penitenciarios. El almacenamiento de dichas imágenes será como máximo de un mes de acuerdo con la Instrucción 1/2006, de 8 de noviembre, de la Agencia Española de Protección de Datos. El tratamiento de las imágenes captadas por los dispositivos mencionados corresponderá a cada establecimiento penitenciario. Únicamente se almacenarán las imágenes correspondientes a hechos relativos a las personas y colectivos que hayan dado lugar a la incoación de algún procedimiento penal, sancionador administrativo o disciplinario, durante su tramitación y hasta la finalización de los mismos.
+
+c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos y, en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+
+c.1) Descripción de los datos:
+
+– imágenes obtenidas a través de los sistemas de videovigilancia.
+
+– datos relativos a la identidad de las personas o colectivos a quienes correspondan las imágenes, en su caso, si fuere preciso: Nombre, apellidos, DNI y domicilio.
+
+c.2) Sistema de tratamiento: Automatizado.
+
+d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: A las Fuerzas y Cuerpos de Seguridad del Estado, Defensor del Pueblo, Ministerio Fiscal y Jueces y Tribunales en el ejercicio de las funciones que tienen atribuidas, de acuerdo con el artículo 11 de la Ley Orgánica 15/1999, de 13 de diciembre.
+
+e) Transferencias internacionales de datos previstas a terceros países, con indicación en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
+
+f) Órgano responsable del fichero: Secretaría General de Instituciones Penitenciarias, calle Alcalá, 38-40, 28004 Madrid.
+
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección de los establecimientos penitenciarios en sus respectivas sedes de ubicación.
+
+h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
+
 ## Subsecretaría del Interior
 
 1. Fichero: Base de datos unificada de personal adscrito-PERSA:
@@ -1004,6 +1242,38 @@ g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, re
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
+3. FICHERO: VIDEOVIGILANCIA.
+
+a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
+
+a.1) Identificación del fichero: Videovigilancia.
+
+a.2) Finalidad: Grabación y tratamiento automatizado de imágenes captadas en el interior y exterior de los recintos y edificios de la Dirección General de Protección Civil y Emergencias.
+
+a.3) Usos previstos: Realización de labores de seguridad y vigilancia en el interior y exterior de los recintos y edificios de la Dirección General de Protección Civil y Emergencias.
+
+b) Origen de los datos, indicando el colectivo de personas sobre los que se pretenda obtener los datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
+
+b.1) Colectivo: Personas físicas que acceden o transiten por los recintos y edificios de la Dirección General de Protección Civil y Emergencias.
+
+b.2) Procedencia y procedimiento de recogida: Los datos registrados son recogidos por cámaras de videovigilancia mediante la captura de imágenes, previo cumplimiento del deber de información previsto en el artículo 5 de la Ley Orgánica 15/1999, de 13 de diciembre.
+
+c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos y, en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+
+c.1) Descripción de los datos: Imágenes en movimiento de las personas, obtenidas a través de las cámaras de videovigilancia.
+
+c.2) Sistema de tratamiento: Automatizado.
+
+d) Comunicaciones de datos previstas, indicando, en su caso, los destinatarios o categorías de destinatarios: Fuerzas y Cuerpos de Seguridad del Estado y Órganos Judiciales.
+
+e) Transferencias internacionales de datos previstas a terceros países, con indicación en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
+
+f) Órgano responsable del fichero: Dirección General de Protección Civil y Emergencias.
+
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de Protección Civil y Emergencias, calle Quintiliano, número 21, 28071 Madrid.
+
+h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
+
 ## Dirección General de Tráfico.
 
 1. FICHERO: CENTROS DE SENSIBILIZACIÓN Y REEDUCACIÓN VIAL.
@@ -1072,11 +1342,13 @@ h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
 ## Secretaría General Técnica.
 
-1. FICHERO: CONSULTAS WEB DE ASOCIACIONES.
+1. FICHERO: CONSULTAS WEB SOBRE EL REGISTRO NACIONAL DE ASOCIACIONES.
+
+1. Fichero: Consultas Web sobre el Registro Nacional de Asociaciones.
 
 a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
 
-a.1) Identificación del fichero: Consultas Web de Asociaciones.
+a.1) Identificación del fichero: Consultas Web sobre el Registro Nacional de Asociaciones.
 
 a.2) Finalidad: Gestión de las consultas vía Web al Registro Nacional de Asociaciones y respuesta mediante correo electrónico.
 
@@ -1088,19 +1360,19 @@ b.1) Colectivo: Usuarios que realizan consultas vía Web al Registro Nacional de
 
 b.2) Procedencia y procedimiento de recogida: Formulario de entrada de datos en Internet.
 
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos y, en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
 
 c.1) Descripción de los datos: Nombre y apellidos, domicilio (opcional), dirección de correo electrónico a la que remitir la respuesta, consulta, respuesta, fecha y hora de la consulta y respuesta.
 
 c.2) Sistema de tratamiento: Automatizado.
 
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: No están previstas cesiones de datos de este archivo.
+d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: No se prevé comunicación de datos.
 
 e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
 
-f) Órgano responsable del fichero: Secretaría General Técnica del Ministerio de Interior.
+f) Órgano responsable del fichero: Secretaría General Técnica.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica del Ministerio de Interior. C/ Cea Bermúdez, 35-37, 28071 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica. Subdirección General de Asociaciones, Documentación y Publicaciones, calle Cea Bermúdez, 35-37, 28071 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
@@ -1116,19 +1388,19 @@ a.3) Usos previstos: Descripción, control y recuperación de los documentos tra
 
 b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
 
-b.1) Colectivo: personas mencionadas en los expedientes conservados en los Archivos del Ministerio del Interior y cuya recuperación es de interés para los usos administrativos del Departamento, del resto de Administraciones Públicas y de los usuarios que solicitan búsquedas.
+b.1) Colectivo: personas mencionadas en los expedientes conservados en los Archivos del Ministerio del Interior y cuya recuperación es de interés para los usos administrativos del Departamento, del resto de Administraciones públicas y de los usuarios que solicitan búsquedas.
 
 b.2) Procedencia y procedimiento de recogida: A partir de los documentos y bases de datos que Órganos y Unidades transfieren al Archivo General del Ministerio del Interior.
 
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos y, en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
 
 c.1) Descripción de los datos: Estructura de datos conforme a Norma Internacional de Descripción Archivística ISAD (G)/Normas Españolas de Descripción Archivística. Puede incluir todos o algunos de las Áreas y campos siguientes:
 
-1. I dentificación:
+1. Identificación:
 
 1.1 Código(s) de referencia.
 
-1.2 Título: Cuando el título corresponde un nombre o identificación de personas, incluye datos identificativos de la misma: Apellidos y Nombre, DNI, NIF, NIE u otros números de identificación personal o profesional; Puede incluir además datos de naturaleza y filiación (nombres de los progenitores, lugar de nacimiento); datos administrativos o gubernativos (infracciones administrativas; relaciones laborales con la Administración) y otros datos personales (circunstancias sociales, características personales, nacionalidad)
+1.2 Título: Cuando el título corresponde un nombre o identificación de personas, incluye datos identificativos de la misma: Apellidos y nombre, DNI, NIF, NIE u otros números de identificación personal o profesional; Puede incluir además datos de naturaleza y filiación (nombres de los progenitores, lugar de nacimiento); datos administrativos o gubernativos (infracciones administrativas; relaciones laborales con la Administración) y otros datos personales (circunstancias sociales, características personales, nacionalidad).
 
 1.3 Fecha(s).
 
@@ -1180,7 +1452,7 @@ c.1) Descripción de los datos: Estructura de datos conforme a Norma Internacion
 
 6. Notas.
 
-7. Control de la Descripción.
+7. Control de la descripción.
 
 7.1 Nota del Archivero: puede incluir los siguientes datos personales referentes al autor o revisor de la descripción: Nombre y apellidos, cargo.
 
@@ -1194,9 +1466,9 @@ d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o 
 
 e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
 
-f) Órgano responsable del fichero: Secretaría General Técnica del Ministerio del Interior.
+f) Órgano responsable del fichero: Secretaría General Técnica.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica del Ministerio de Interior. C/ Amador de los Ríos, 7, 28071 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica. Subdirección General de Asociaciones, Documentación y Publicaciones, calle Amador de los Ríos, 7, 28071 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
@@ -1210,23 +1482,23 @@ a.2) Finalidad y usos previstos: Tramitación de solicitudes de ciudadanos de ac
 
 b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
 
-b.1) Colectivo: usuarios que solicitan acceso a los fondos de los Archivos del Ministerio del Interior.
+b.1) Colectivo: Usuarios que solicitan acceso a los fondos de los Archivos del Ministerio del Interior.
 
 b.2) Procedencia y procedimiento de recogida: A partir del propio interesado o de su representante legal.
 
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos y, en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
 
 c.1) Descripción de los datos: Datos del solicitante (nombre y apellidos, DNI o NIE, en su caso datos académicos y profesionales) y de contacto (dirección postal, teléfono y correo electrónico de contacto, institución en nombre de la cual se realiza la solicitud, en su caso), datos de la solicitud (motivo; datos de la investigación, en su caso; documento o documentos objeto de la solicitud); datos de tramitación (documentos que acompañan a la solicitud; fechas de solicitud, de comunicaciones y documentos relacionados con la tramitación y de resolución; estado de la solicitud y tipo de resolución recaída).
 
 c.2) Sistema de tratamiento: Automatizado.
 
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: No están previstas cesiones de datos de este archivo.
+d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: No se prevé comunicación de datos.
 
 e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
 
-f) Órgano responsable del fichero: Secretaría General Técnica del Ministerio del Interior.
+f) Órgano responsable del fichero: Secretaría General Técnica.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica del Ministerio del Interior. C/ Amador de los Ríos, 7, 28071 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica. Subdirección General de Asociaciones, Documentación y Publicaciones, calle Amador de los Ríos, 7, 28071 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
@@ -1248,17 +1520,17 @@ c) Estructura básica del fichero mediante la descripción detallada de los dato
 
 c.1) Descripción de los datos: Tratamiento de listas; Base de datos relacional.
 
-Datos identificativos: nombre, NIF, cargo y/o condición del solicitante (funcionario, investigador,...); destino (si funcionario), teléfono, dirección de contacto y materia sobre la que recaba información; nombre, dirección y teléfono del proveedor.
+Datos identificativos: Nombre, NIF, cargo y/o condición del solicitante (funcionario, investigador,...); destino (si funcionario), teléfono, dirección de contacto y materia sobre la que recaba información; nombre, dirección y teléfono del proveedor.
 
 c.2) Sistema de tratamiento: Automatizado.
 
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: No están previstas cesiones de datos de este archivo.
+d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: No se prevé comunicación de datos.
 
 e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
 
-f) Órgano responsable del fichero: Secretaría General Técnica. Subdirección General de Estudios y Relaciones Institucionales.
+f) Órgano responsable del fichero: Secretaría General Técnica.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica, Subdirección General de Estudios y Relaciones Institucionales. C/ Amador de los Ríos 7, 28071 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica. Subdirección General de Asociaciones, Documentación y Publicaciones, calle Amador de los Ríos, 7, 28071 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
@@ -1266,17 +1538,17 @@ h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
 a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
 
-a.1) Identificación del fichero: DOCUMENTACIÓN (SERVICIO USUARIOS).
+a.1) Identificación del fichero: Documentación (Servicio Usuarios).
 
 a.2) Finalidad y usos previstos: Recoger las demandas de información y las solicitudes de documentación recibidas en el Área de Estudios, Documentación y Publicaciones.
 
 b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
 
-b.1) Colectivo: el solicitante de la información o de la documentación.
+b.1) Colectivo: El solicitante de la información o de la documentación.
 
 b.2) Procedencia y procedimiento de recogida: Cuestionario.
 
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos y, en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
 
 c.1) Descripción de los datos: Tratamiento de listas.
 
@@ -1284,13 +1556,13 @@ Tipos de datos: Nombre, cargo, condición del solicitante (particular, funcionar
 
 c.2) Sistema de tratamiento: Automatizado.
 
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: Datos estadísticos generales.
+d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: No se prevé comunicación de datos.
 
 e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
 
-f) Órgano responsable del fichero: Secretaría General Técnica, Subdirección General de Estudios y Relaciones Institucionales.
+f) Órgano responsable del fichero: Secretaría General Técnica.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica, Subdirección General de Estudios y Relaciones Institucionales. C/ Amador de los Ríos, 7, 28071 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica. Subdirección General de Asociaciones, Documentación y Publicaciones, calle Amador de los Ríos, 7, 28071 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
@@ -1300,27 +1572,33 @@ a) Identificación del fichero o tratamiento, indicando su denominación, así c
 
 a.1) Identificación del fichero: Publicaciones (Destinatarios).
 
-a.2) Finalidad y usos previstos: Relación de destinatarios –personas físicas y jurídicas– de envío gratuito de las publicaciones; ficheros de clientes (únicamente de las distribuidoras encargadas de la distribución comercial de las publicaciones).
+a.2) Finalidad y usos previstos: Recoger información de los destinatarios y clientes de publicaciones.
 
 b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
 
 b.1) Colectivo: Personas, entidades y colectivos afectados por el apartado «Finalidad y usos previstos».
 
-b.2) Procedencia y procedimiento de recogida: Comunicación administrativa y formularios.
+b.2) Procedencia y procedimiento de recogida: Boletines de pedido y suscripción, y peticiones a través de fax o correo electrónico.
 
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos y, en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
 
-c.1) Descripción de los datos: Tratamiento de listas; base de datos relacional. Tipos de datos: datos identificativos de la persona o entidad; datos de la persona de contacto en las entidades; teléfono, fax, dirección de correo electrónico; dirección para el envío; NIF, CIF... para el cobro de facturas.
+c.1) Descripción de los datos: Tratamiento de listas; base de datos relacional.
+
+– respecto a los particulares: Nombre y apellidos, NIF, domicilio, teléfono, fax, dirección de correo electrónico y dirección para el envío.
+
+– respecto a entidades: Razón social, NIF, domicilio, teléfono, fax y dirección de correo electrónico.
+
+– respecto a las personas de contacto en las entidades: Nombre y apellidos, teléfono y dirección de correo electrónico.
 
 c.2) Sistema de tratamiento: Automatizado.
 
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: No se prevé comunicación da datos.
+d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: No se prevé comunicación de datos.
 
 e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
 
-f) Órgano responsable del fichero: Secretaría General Técnica, Subdirección General de Estudios y Relaciones Institucionales.
+f) Órgano responsable del fichero: Secretaría General Técnica.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica, Subdirección General de Estudios y Relaciones Institucionales. C/ Amador de los Ríos, 7, 28071 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica. Subdirección General de Asociaciones, Documentación y Publicaciones, calle Amador de los Ríos, 7, 28071 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
@@ -1340,21 +1618,23 @@ b.1) Colectivo: Representantes de asociaciones.
 
 b.2) Procedencia y procedimiento de recogida: La información se recaba a través de declaraciones y formularios que cumplimentan los propios interesados o sus representantes legales.
 
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos y, en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
 
-c.1) Descripción de los datos: Para los representantes de las asociaciones inscritas: Nombre y apellidos, cargo en la asociación, Fecha alta inscripción del cargo. Fecha de inscripción baja del cargo. Fecha de asamblea.
+c.1) Descripción de los datos: Nombre y apellidos, cargo en la asociación, fecha de inscripción alta del cargo, fecha de inscripción baja del cargo, fecha de asamblea.
 
 c.2) Sistema de tratamiento: Automatizado.
 
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: No se prevé comunicación de datos.
+d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: Personas físicas y jurídicas respecto de las certificaciones del contenido de los asientos del Registro Nacional de Asociaciones previo pago de la tasa correspondiente, de conformidad con el artículo 29 de la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación.
 
 e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
 
-f) Órgano responsable del fichero: Secretaría General Técnica del Ministerio de Interior.
+f) Órgano responsable del fichero: Secretaría General Técnica.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica del Ministerio de Interior. C/ Cea Bermúdez, 35-37, 28071 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica. Subdirección General de Asociaciones, Documentación y Publicaciones, calle Cea Bermúdez, 35-37, 28071 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
+
+> Se modifica por el art. único.1 y 2 de la Orden INT/2287/2014, de 25 de noviembre. Ref. BOE-A-2014-12684.
 
 > Se modifica por el art. único de la Orden INT/1444/2012, de 20 de junio. Ref. BOE-A-2012-8840.
 
