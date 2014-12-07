@@ -34,6 +34,14 @@ A. Ejemplos de «motivos fundados» para llevar a cabo una inspección más deta
 
 15) Ausencia de un cuadro en el que figure la organización del trabajo a bordo y de registros de las horas diarias de trabajo o de descanso de la gente de mar.
 
+16) Los documentos requeridos conforme al CTM 2006 no se presentan, no están en regla o su contenido es falso, o bien los documentos presentados no incluyen la información exigida en el CTM 2006, o carecen de validez por otros motivos.
+
+17) Las condiciones de vida y de trabajo a bordo del buque no se ajustan a los requisitos del CTM 2006.
+
+18) Hay motivos fundados para creer que se ha cambiado el pabellón del buque con el fin de eludir el cumplimiento de las disposiciones del CTM 2006.
+
+19) Existe una queja de que determinadas condiciones de vida y de trabajo a bordo del buque no se ajustan a los requisitos del CTM 2006.
+
 B. Ejemplos de motivos fundados para el control de buques en lo referente a los aspectos de protección.
 
 1. Durante la inspección inicial del control por la autoridad competente, el inspector puede apreciar la existencia de motivos fundados que justifiquen la adopción de medidas de control adicionales en relación con la protección si concurren las siguientes circunstancias:
@@ -57,3 +65,5 @@ B. Ejemplos de motivos fundados para el control de buques en lo referente a los 
 2. Si se determina la existencia de motivos fundados, según lo anteriormente descrito, el inspector informará de inmediato a la autoridad de protección competente (salvo si el inspector es también un oficial de protección debidamente autorizado). La autoridad de protección competente decidirá entonces las medidas de control adicionales necesarias en función del nivel de protección de conformidad con la regla 9 del capítulo XI del Convenio SOLAS 74.
 
 3. La determinación de motivos fundados distintos de los mencionados corresponderá al oficial de protección debidamente autorizado.
+
+> Se añaden los números 16, 17, 18 y 19 en el apartado A por el art. único.10 del Real Decreto 1004/2014, de 5 de diciembre. Ref. BOE-A-2014-12732.

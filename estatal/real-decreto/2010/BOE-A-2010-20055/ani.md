@@ -106,7 +106,7 @@ Los buques a los que se apliquen los siguientes factores imprevistos podrán ser
 
 – Los buques que hayan incumplido las prescripciones aplicables en materia de notificación mencionadas en el artículo 9 de este Reglamento, en el Real Decreto 1381/2002, en el R.D. 210/2004 y, si procede, en el Reglamento (CE) n.º 725/2004.
 
-– Los buques que hayan sido objeto de un informe o denuncia por parte del capitán, un miembro de la tripulación o cualquier persona o entidad con interés legítimo en los aspectos de seguridad relacionados con su funcionamiento, las condiciones de vida y trabajo a bordo o la prevención de la contaminación, a menos que la Dirección General de la Marina Mercante considere manifiestamente infundados dichos informes o denuncias.
+– Los buques que hayan sido objeto de un informe o denuncia, incluidas las quejas formuladas en tierra por el capitán, un miembro de la tripulación o cualquier persona o entidad con interés legítimo en la seguridad de funcionamiento del buque, las condiciones de vida y de trabajo a bordo o la prevención de la contaminación, salvo que la Dirección General de la Marina Mercante considere manifiestamente infundados dichos informes o denuncias.
 
 – Los buques que hayan sido objeto de una inmovilización hace más de tres meses.
 
@@ -117,6 +117,8 @@ Los buques a los que se apliquen los siguientes factores imprevistos podrán ser
 – Los buques que hayan sido utilizados con peligro para las personas, los bienes o el medio ambiente.
 
 – Los buques cuyos parámetros de riesgo, según informaciones recibidas de una fuente fiable difieren de los declarados, y cuyo nivel de riesgo sea por tanto superior.
+
+– Los buques para los que se haya acordado un plan de acción destinado a rectificar las deficiencias a los que se hace referencia en el artículo 19, apartado 2 bis, pero cuya ejecución no haya sido supervisada por un inspector.
 
 3. Sistema de selección.
 
@@ -159,3 +161,5 @@ c) cuando se presenten factores imprevistos:
 – se realizará una inspección más detallada o una inspección ampliada, según decida el inspector con arreglo a su criterio profesional, de cualquier buque que tenga un perfil de riesgo alto y de cualquier buque de pasaje, petrolero, quimiquero, gasero y granelero de más de 12 años,
 
 – se realizarán inspecciones más detalladas de todos los demás buques que no sean de pasaje, petroleros, quimiqueros, gaseros y graneleros de más de 12 años.
+
+> Se modifica el punto 2B del apartado II por el art. único.8 del Real Decreto 1004/2014, de 5 de diciembre. Ref. BOE-A-2014-12732.

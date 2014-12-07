@@ -208,7 +208,7 @@ La falta de certificados y documentos válidos exigidos por los instrumentos rel
 
 7. Para la primera guardia al comienzo del viaje y para las guardias subsiguientes de relevo no se han provisto personas que hayan descansado lo suficiente y sean aptas para desempeñar sus obligaciones.
 
-3.10 Ámbitos regulados por los Convenios OIT.
+3.10 Ámbitos regulados por el CTM 2006.
 
 1. Alimentos insuficientes para viajar hasta el puerto siguiente.
 
@@ -224,6 +224,12 @@ La falta de certificados y documentos válidos exigidos por los instrumentos rel
 
 7. Muestras claras de fatiga en el personal de guardia y otro personal de servicio que se dispone a realizar la primera guardia o guardias subsiguientes de relevo.
 
+8. Condiciones a bordo manifiestamente peligrosas para la seguridad, la salud o la protección de la tripulación del buque.
+
+9. El incumplimiento de estos requisitos constituye una infracción grave o reiterada de los preceptos del CTM 2006 (incluida una vulneración de los derechos de la gente de mar) relativos a las condiciones de vida y de trabajo de la tripulación a bordo de los buques tal como se establece en el certificado de trabajo marítimo y en la declaración de conformidad laboral marítima.
+
 3.11 Ámbitos que sin justificar una inmovilización, pueden dar motivo para suspender, por ejemplo, las operaciones de carga.
 
 El mal funcionamiento (o el mantenimiento defectuoso) del sistema de gas inerte, de los dispositivos o de la maquinaria de carga se considerarán razón suficiente para parar la operación de carga.
+
+> Se modifican el título y se añaden los números 8 y 9 al apartado 3.10 por el art. único.10 del Real Decreto 1004/2014, de 5 de diciembre. Ref. BOE-A-2014-12732.

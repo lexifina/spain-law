@@ -44,11 +44,11 @@
 
 13. Certificados o cualesquiera otros documentos requeridos con arreglo a las disposiciones del STCW 78/95.
 
-14. Certificados médicos (véase el Convenio n.º 73 de la OIT sobre revisiones médicas de la gente de mar).
+14. Certificados médicos (véase el CTM 2006).
 
-15. Cuadro indicativo de la organización del trabajo a bordo (Convenio n.º 180 de la OIT y STCW 78/95).
+15. Cuadro indicativo de la organización del trabajo a bordo (véanse el CTM 2006 y el STCW 78/95).
 
-16. Registros de las horas de trabajo y descanso de la gente de mar (Convenio n.º 180 de la OIT).
+16. Registros de las horas de trabajo y descanso de la tripulación (véase el CTM 2006).
 
 17. Información sobre la estabilidad.
 
@@ -105,3 +105,13 @@
 43. Certificado internacional de prevención de la contaminación atmosférica.
 
 44. Certificado internacional de reducción de la contaminación por aguas residuales.
+
+45. Certificado de trabajo marítimo.
+
+46. Declaración de conformidad laboral marítima, partes I y II.
+
+47. Certificado internacional de sistemas anti-incrustantes.
+
+48. Póliza de seguro u otra garantía financiera relativa a la responsabilidad civil por daños debidos a la contaminación por hidrocarburos.
+
+> Se modifican los apartados 14, 15, y 16 y se añaden los apartados 45, 46, 47 y 48 por el art. único.9 del Real Decreto 1004/2014, de 5 de diciembre. Ref. BOE-A-2014-12732.
