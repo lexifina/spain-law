@@ -43,3 +43,7 @@ En los casos en que el incumplimiento de la obligación de ingreso correspondier
 En ningún caso la obligación de pago podrá ser superior al 40 por ciento del derecho de cobro de cada liquidación del mercado diario e intradiario. Si con la obligación de pago no quedara satisfecho el importe del impago y sus intereses de demora, el operador del mercado incluirá en las liquidaciones posteriores obligaciones de pago en los términos anteriormente descritos.
 
 c) Los importes detraídos por el operador del mercado conforme a lo establecido en los apartados anteriores serán transferidos al órgano encargado de la liquidación.
+
+6. En aquellos casos en que el incumplimiento de la obligación de ingreso que corresponda a un sujeto productor o a su representante indirecto, no hubiera sido satisfecha en su totalidad de acuerdo con lo previsto en los apartados anteriores, será compensada con las cuantías liquidadas por el operador del sistema que correspondan al mismo sujeto productor.
+
+> Se añade el apartado 6 por la disposición final 6.8 del Real Decreto 1054/2014, de 12 de diciembre. Ref. BOE-A-2014-12973.

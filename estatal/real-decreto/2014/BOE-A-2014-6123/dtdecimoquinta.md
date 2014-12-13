@@ -1,3 +1,5 @@
 ## Disposición transitoria decimoquinta. Instalaciones con diferentes modalidades de representación ante los distintos organismos.
 
-Si a la entrada en vigor de este real decreto existen instalaciones con diferentes modalidades de representación ante el operador del mercado y el organismo encargado de realizar la liquidación del régimen retributivo específico, los representantes de estas instalaciones deberán comunicar a todos los agentes involucrados en el plazo máximo de tres meses, la opción de representación elegida por los titulares, aplicándose de modo transitorio la modalidad de representación existente en cada organismo hasta ese momento.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1054/2014, de 12 de diciembre. Ref. BOE-A-2014-12973.

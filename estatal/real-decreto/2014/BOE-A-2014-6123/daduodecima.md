@@ -5,3 +5,7 @@ Las instalaciones de producción de energía eléctrica no incluidas en el ámbi
 En los sistemas eléctricos de los territorios no peninsulares, el límite de potencia anterior será de 0,5 MW para las instalaciones o agrupaciones.
 
 A efectos de esta disposición se define agrupación al conjunto de instalaciones que se conecten en un mismo punto de la red de distribución o transporte, o dispongan de línea o transformador de evacuación común, considerando un único punto de la red de distribución o transporte, una subestación o un centro de transformación. Del mismo modo, formarán parte de la misma agrupación aquellas instalaciones que se encuentren en una misma referencia catastral, considerada esta por sus primeros 14 dígitos. La potencia instalada de una agrupación será la suma de las potencias instaladas de las instalaciones unitarias que la integran.
+
+El encargado de la lectura comunicará a los titulares de las instalaciones incluidas en esta disposición y al operador del sistema la información detallada de las instalaciones conectadas a su red que formen parte de una agrupación según la definición establecida en la presente disposición, incluyendo el código de la agrupación y su potencia. La comunicación a los titulares de las instalaciones se realizará al menos anualmente, antes del 31 de marzo, y sólo para aquellos casos en los que se produzcan modificaciones desde la última comunicación.
+
+> Se añade el cuarto párrafo por la disposición final 6.7 del Real Decreto 1054/2014, de 12 de diciembre. Ref. BOE-A-2014-12973.
