@@ -29,8 +29,13 @@
 | 584 | IMPUESTO SOBRE LA PRODUCCIÓN DE COMBUSTIBLE NUCLEAR GASTADO Y RESIDUOS RADIACTIVOS RESULTANTES DE LA GENERACIÓN DE ENERGÍA NUCLEOELÉCTRICA. AUTOLIQUIDACIÓN Y PAGOS FRACCIONADOS | 2T, 4T y 0A |
 | 585 | IMPUESTO SOBRE EL ALMACENAMIENTO DE COMBUSTIBLE NUCLEAR GASTADO Y RESIDUOS RADIACTIVOS EN INSTALACIONES CENTRALIZADAS. AUTOLIQUIDACIÓN Y PAGOS FRACCIONADOS | T-0A |
 | 587 | IMPUESTO SOBRE LOS GASES FLUORADOS DE EFECTO INVERNADERO. AUTOLIQUIDACIÓN | 1P, 2P, 3P |
+| 588 | IMPUESTO SOBRE EL VALOR DE LA PRODUCCIÓN DE LA ENERGÍA ELÉCTRICA. AUTOLIQUIDACIÓN POR CESE DE ACTIVIDAD DE ENERO A OCTUBRE | OA |
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se añade el modelo 588 por la disposición final 2 de la Orden HAP/2328/2014, de 11 de diciembre. Ref. BOE-A-2014-12972.
+
+> Esta modificación es aplicable a partir del 1 de enero de 2015, según establece la disposición final 5.
 
 > Se añade el modelo 587 por la disposición final 1 de la Orden HAP/685/2014, de 29 de abril. Ref. BOE-A-2014-4625.
 
