@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Régimen específico de la Comunidad Foral de Navarra.
+
+Las instituciones competentes de Navarra participarán en la delegación española que negocie un tratado internacional que tenga por ámbito derechos históricos tanto si su actualización general ha sido llevada a cabo por la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra como en aquellos otros casos cuya actualización singular lo haya sido por el legislador ordinario en el marco de la disposición adicional primera de la Constitución y, en su caso, de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra.
