@@ -2,9 +2,9 @@
 
 ## Normas e instrucciones técnicas complementarias
 
-1. Normas UNE-EN aplicables
+1. Normas UNE-EN e ISO aplicables.
 
-A efectos de su certificación, a los captadores solares de calentamiento líquido y a los sistemas solares térmicos de calentamiento prefabricados, serán exigibles, respectivamente, las normas UNE-EN 12975 y UNE-EN 12976, siguiendo lo establecido en los apéndices 1 y 2 de esta orden, respectivamente.
+A efectos de su certificación, a los captadores solares y a los sistemas solares térmicos prefabricados, serán exigibles las normas UNE-EN 12975-1, ISO 9806 y UNE-EN 12976.
 
 2. Laboratorios acreditados
 
@@ -20,7 +20,7 @@ APÉNDICE 1
 
 ## Ensayos a realizar en función del tipo de captador
 
-1. Los captadores solares de calentamiento líquido, con carácter general, deberán ensayarse según lo establecido en la Norma UNE-EN 12975.
+1. Los captadores solares de calentamiento deberán ensayarse según lo establecido en la norma UNE-EN 12975-1 e ISO 9806.
 
 2. Si el fabricante produce el mismo tipo de captador pero en diferentes largos y/o anchos, todos los captadores son considerados una familia y sólo debe ensayarse una muestra del tamaño más pequeño y otra del tamaño mayor. El captador de mayor tamaño debe ser sometido a todos los ensayos requeridos en UNE-EN 12975-1 apartado 5.2, y el captador de menor tamaño debe ser sometido al ensayo de rendimiento térmico (apartado 6 de UNE-EN 12975-2).
 
@@ -207,6 +207,10 @@ Los valores para comprobar los requisitos se toman de:
 – Parámetros de captador: informe de ensayo según la norma UNE-EN 12975.
 
 – Otros valores: La declaración del fabricante; la verificación de los valores será realizada por el laboratorio de ensayo basándose en planos y otra información proporcionada por el fabricante.
+
+> Se modifica el apartado 1 y el apéndice 1.1 por el art. único.2 y 3 de la Orden IET/2366/2014, de 11 de diciembre. Ref. BOE-A-2014-13137.
+
+> Ténganse en cuenta para su aplicación las disposiciones transitorias 1 y 2 de la citada ley.
 
 > Se sustituye por el art. único de la Orden IET/401/2012, de 28 de febrero. Ref. BOE-A-2012-2977.
 

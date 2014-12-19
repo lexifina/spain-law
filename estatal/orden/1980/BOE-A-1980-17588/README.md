@@ -12,5 +12,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 - [preambulo](preambulo.md)
 - [Artículo único](aunico.md)
+- [Disposición adicional única](daunica.md)
 - [firma](firma.md)
 - [ANEXO](an.md)
