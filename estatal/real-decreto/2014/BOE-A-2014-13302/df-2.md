@@ -1,0 +1,3 @@
+## Disposición final segunda. Entrada en vigor del régimen presupuestario y económico-financiero, contable y de control de la cobertura de los riesgos de la internacionalización.
+
+El capítulo VIII de este real decreto relativo al régimen presupuestario y económico-financiero, contable y de control de la cobertura de los riesgos de la internacionalización entrará en vigor en el momento en que se constituya el Fondo de Reserva de los riesgos de la Internacionalización una vez disponga de los correspondientes presupuestos de explotación y de capital aprobados por norma con rango de ley con los efectos que en la misma se establezca, manteniéndose hasta entonces el régimen vigente.
