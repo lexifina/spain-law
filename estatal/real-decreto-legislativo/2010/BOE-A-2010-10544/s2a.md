@@ -1,3 +1,7 @@
-## Sección 1.ª El reglamento de la junta general
+## Sección 2.ª El reglamento de la junta general
+
+> Se renumera por el art. único.32 de la Ley 31/2014, de 3 de diciembre. Ref. BOE-A-2014-12589.
+
+> Su anterior numeración era «Sección 1.ª»
 
 > Se añade por el art. 2.1 de la Ley 25/2011, de 1 de agosto. Ref. BOE-A-2011-13240.
