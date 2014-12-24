@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados la Ley 3/1985, de 18 de marzo, de Metrología, el Real Decreto Legislativo 1296/1986, de 28 de junio, por el que se modifica la Ley 3/1985, de 18 de marzo, de Metrología, y se establece el control metrológico CEE, el artículo 11 de la Ley 25/2009, de 25 de diciembre, de modificación de diversas leyes para su adaptación a la Ley sobre el libre acceso a las actividades de servicio y su ejercicio y el Capítulo VI del Real Decreto 889/2006, de 21 de julio, que regula el control metrológico del Estado sobre los instrumentos de medida, así como cuantas otras disposiciones se opongan a lo establecido en la presente ley.
