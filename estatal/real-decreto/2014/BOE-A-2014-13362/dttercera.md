@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Situaciones preexistentes en relación con el estacionamiento en plazas de aparcamiento de tiempo limitado.
+
+Los municipios en los que, a la entrada en vigor de este real decreto, se vinieran aplicando, con arreglo a la correspondiente ordenanza, tarifas por el estacionamiento en plazas de aparcamiento de tiempo limitado sin eximir a los titulares de las tarjetas de estacionamiento, podrán mantener este régimen para dicho supuesto, siempre que acrediten el cumplimiento de la obligación de garantizar el número mínimo de plazas de aparcamiento reservadas para personas con discapacidad que presenten movilidad reducida, prevista en la normativa que sea de aplicación.
