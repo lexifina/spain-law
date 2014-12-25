@@ -1,19 +1,19 @@
-## Disposición final primera. Modificación del Real Decreto 1932/1998, de 11 de septiembre, de adaptación de los capítulos III y V de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, al ámbito de los centros y establecimientos militares.
+## Disposición final primera. Peculiaridades de los órganos de participación en materia de prevención de riesgos laborales en determinados ámbitos.
 
-Primero. Se modifica el artículo 1, que tendrá la siguiente redacción:
+1. En el Ministerio de Defensa, teniendo en cuenta las peculiaridades existentes en los centros y establecimientos militares, se establecen las siguientes previsiones particulares:
 
-«El presente real decreto, al amparo de la disposición adicional novena de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos laborales, regula la adaptación de las normas de los capítulos III y V de esta ley, sobre derechos y obligaciones en materia de seguridad y salud en el trabajo y de consulta y participación de los trabajadores, para su aplicación en el ámbito de las relaciones de trabajo del personal laboral, estatutario y funcionarios civiles que prestan sus servicios en establecimientos dependientes de la Administración Militar.»
+a) Los Delegados o Delegadas de Prevención designados según lo previsto en el apartado 1 del artículo 5 de este Real Decreto, deberán ostentar la condición de personal civil destinado en los propios centros o establecimientos del Ministerio de Defensa.
 
-Segundo. Se modifica el apartado 2, del artículo 4, que tendrá la siguiente redacción:
+Si el número de los designados según lo dispuesto en el párrafo anterior fuese insuficiente, podrán designarse otros integrantes del personal civil destinados en el establecimiento de que se trate, aún cuando no tengan la condición de miembros de órganos de representación o de delegados de personal, guardando siempre la proporción señalada en el citado artículo 5.
 
-«Dos. El ámbito para el ejercicio de la función de representación en materia preventiva será el conjunto del personal funcionario, laboral y estatutario destinado en cada establecimiento.»
+b) La constitución de los Comités de Seguridad y Salud podrá adoptar una doble modalidad:
 
-Tercero. Se modifica el apartado 3 del artículo 4, que tendrá la siguiente redacción:
+1.º Comités unitarios, para una única dependencia, en aquellas dependencias en las que 50 o más personas de su plantilla realicen tareas del anexo I del Reglamento de los Servicios de Prevención, así como en las sedes centrales de cada uno de los tres Ejércitos.
 
-«El número de Delegados de Prevención será el que resulte de aplicar la escala establecida en el artículo 35.2 de la Ley 31/1995, de 8 de noviembre, al conjunto del personal funcionario civil, estatutario y laboral destinado en cada establecimiento del Ministerio de Defensa.»
+2.º Comités agrupados, para el conjunto de las dependencias existentes en una misma provincia que dispongan de 50 o más empleadas y/o empleados públicos en total, en cada caso.
 
-Cuarto. Se modifica el apartado 4 del artículo 4, que tendrá la siguiente redacción:
+c) A fin de coordinar la normativa específica existente en el Ministerio de Defensa con lo previsto en este Real Decreto, en el plazo de seis meses, a propuesta de los Ministerios de Defensa y de Hacienda y Administraciones Públicas, el Gobierno procederá a la adaptación del Real Decreto 1932/1998, de 11 de septiembre, de adaptación de los Capítulos III y V de la Ley 31/1995, de 8 de noviembre, al ámbito de los centros y establecimientos militares.
 
-«Los Delegados de Prevención serán designados por y entre los representantes del personal en proporción a los efectivos de personal laboral, estatutario y de personal funcionario civil destinados en cada establecimiento. Las Juntas de Personal designarán los de personal funcionario civil, los Comités Provinciales o Delegados de Personal, en su caso, los correspondientes al personal laboral y el órgano propio de representación unitaria, los referidos al personal estatutario.
+2. En la Secretaría General de Instituciones Penitenciarias, los Delegados o Delegadas de Prevención designados según lo previsto en el apartado 1 del artículo 5 de este Real Decreto, deberán ostentar la condición de personal funcionario o laboral de Instituciones Penitenciarias, con destino en el mismo ámbito territorial al que corresponda el Comité de Seguridad y Salud de que se trate.
 
-Los Delegados de Prevención designados por las Juntas de Personal o por el órgano propio de representación unitaria deberán ostentar la condición de funcionarios civiles o personal estatutario destinado en centros o establecimientos del Ministerio de Defensa.»
+> Se modifica por el art. único.29 del Real Decreto 1084/2014, de 19 de diciembre. Ref. BOE-A-2014-13414.
