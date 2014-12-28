@@ -8,6 +8,8 @@ Dos. El Cuerpo de Letrados de la Administración de la Seguridad Social: Cuerpo 
 
 Tres. El Cuerpo de Actuarios, Estadísticos y Economistas de la Seguridad Social: Cuerpo Superior de Actuarios, Estadísticos y Economistas de la Seguridad Social.
 
-Cuatro. El Cuerpo de Intervención y Contabilidad de la Administración de la Seguridad Social: Cuerpo Superior de Intervención y Contabilidad de la Administración de la Seguridad Social.
+Cuatro. El Cuerpo de Intervención y Contabilidad de la Administración de la Seguridad Social: Cuerpo Superior de Interventores y Auditores de la Administración de la Seguridad Social.
 
 Cinco. La Escala de Analistas de Informática de la Administración de la Seguridad Social: Cuerpo Superior de Sistemas y Tecnologías de la Administración de la Seguridad Social.
+
+> Se modifica el apartado 4 por la disposición final 4 de la Ley 34/2014, de 26 de diciembre. Ref. BOE-A-2014-13517.

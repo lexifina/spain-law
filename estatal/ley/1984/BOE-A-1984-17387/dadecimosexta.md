@@ -76,7 +76,7 @@ Tres. 1.3.1 Escala de Actuarios. Se integran en ella los funcionarios de la Admi
 
 Tres. 1.3.2 Escala de Estadísticos y Economistas. Se integran en ella los funcionarios de la Administración de la Seguridad Social que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Licenciado en Ciencias Exactas o Licenciado en Ciencias Económicas y Empresariales, salvo la especialidad Actuarial o rama Actuarial y de la Empresa Financiera, pertenezcan al Cuerpo de Asesores Matemáticos, Escalas de Asesores Actuariales, Asesores Estadísticos y Asesores Económicos, del extinguido Instituto Nacional de Previsión.
 
-Tres. 1.4 Cuerpo Superior de Intervención y Contabilidad de la Administración de la Seguridad Social. Se integran en él los funcionarios de la Administración de la Seguridad Social que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Licenciado, Ingeniero Superior o Arquitecto Superior, pertenezcan al actual Cuerpo de Intervención y Contabilidad de la Seguridad Social.
+Tres. 1.4 Cuerpo Superior de Interventores y Auditores de la Administración de la Seguridad Social. Se integran en él los funcionarios de la Administración de la Seguridad Social que, ostentando en la fecha de entrada en vigor de la presente Ley, titulación de Licenciado, Ingeniero Superior o Arquitecto Superior, pertenezcan al actual Cuerpo de Intervención y Contabilidad de la Seguridad Social.
 
 Tres. 1.5 Cuerpo Superior de Sistemas y Tecnologías de la Administración de la Seguridad Social. Se intregran en él los funcionarios de la Administración de la Seguridad Social que, ostentando a la fecha de entrada en vigor de la presente Ley, titulación de Licenciado, Ingeniero Superior o Arquitecto Superior, pertenezcan a alguna de las Escalas siguientes:
 
@@ -505,6 +505,8 @@ En el grupo A, los funcionarios pertenecientes a la Escala Técnica Superior, qu
 En el grupo B, los funcionarios pertenecientes a las Escalas Medias de Formación Ocupacional y de Gestión de Empleo.
 
 En el grupo C, los funcionarios pertenecientes a la Escala de Delineación y Medios Audiovisuales.
+
+> Se modifica el apartado 3.1.4 por la disposición adicional 21 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053., en la redacción dada por la disposición final 4 de la Ley 34/2014, de 26 de diciembre. Ref. BOE-A-2014-13517.
 
 > Se modifica el apartado 3.1.1 a 5 por la disposición adicional 21 de la Ley 66/1997, de 30 de diciembre. Ref. BOE-A-1997-28053.
 
