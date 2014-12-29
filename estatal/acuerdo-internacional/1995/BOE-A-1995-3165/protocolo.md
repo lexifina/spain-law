@@ -23,3 +23,19 @@ Se entiende asimismo, que un establecimiento permanente que una empresa de un Es
 9. No obstante lo dispuesto en el apartado 4 del artículo 26 (no discriminación), se entiende que, en el caso de la India, las cantidades pagadas en concepto de intereses, cánones y pagos por servicios técnicos por una empresa de la India a un residente de España, no serán deducibles para calcular el beneficio imponible de dicha empresa a menos que el impuesto exigible sobre tales pagos se haya ingresado o retenido en la fuente con arreglo a la legislación india y las disposiciones del presente Convenio.
 
 10. A los efectos del presente Convenio se entiende que el término «período impositivo» significa, en el caso de la India, el «período precedente» («previous year»), definido en la Ley del Impuesto sobre la Renta (Income-tax Act, 1961).
+
+11. Se entenderá que el artículo 28 (Intercambio de información) permite a los Estados contratantes recurrir a otras técnicas pertinentes en ambos Estados contratantes para la obtención de información tales como las inspecciones simultáneas, las inspecciones en el extranjero y el intercambio de información por sectores de actividad,
+
+(i) de acuerdo con la normativa interna y las prácticas administrativas de cada Estado contratante y;
+
+(ii) siempre que el procedimiento se haya acordado entre las autoridades competentes de ambos Estados contratantes de acuerdo con lo previsto en el apartado 3 del artículo 27 del convenio.
+
+12. En relación con el artículo 28A
+
+Se entenderá que el apartado 4 del artículo 28A (Asistencia en la recaudación) incluye las medidas cautelares provisionales consistentes en el embargo con carácter previo al cobro de un crédito tributario de una persona de acuerdo con las leyes de ambos Estados contratantes.
+
+13. En relación con el artículo 28B Se entenderá que el término “operación” mencionado en el apartado 4 del artículo 28B (Limitación de beneficios) comprende la creación, cesión y enajenación de acciones, créditos, activos u otros derechos cuando el fin primordial o uno de los fines primordiales de dicha creación, cesión o enajenación sea el de conseguir los beneficios del presente Convenio.
+
+> Se añaden los apartados 11 a 13 por los arts. 6 a 8 del Protocolo de 26 de octubre de 2012. Ref. BOE-A-2020-7506
+
+> Esta modificación surte efectos en la forma establecida por el art. 9.2 del citado Protocolo.
