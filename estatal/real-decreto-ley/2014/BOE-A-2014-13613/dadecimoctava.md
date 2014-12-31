@@ -1,0 +1,3 @@
+## Disposición adicional decimoctava. Liquidaciones de los recursos del sistema de financiación de Comunidades Autónomas.
+
+El importe de las liquidaciones positivas de los recursos del sistema de financiación que se practiquen en el año 2016 o siguientes, se destinarán en cada ejercicio por las Comunidades Autónomas, en su caso, a amortizar la parte del saldo vivo del préstamo obtenido con cargo al compartimento Fondo de Liquidez Autonómico o del Compartimento Facilidad Financiera, del Fondo de Financiación a Comunidades Autónomas, que se hubiese destinado a satisfacer las liquidaciones negativas del año 2013 o siguientes de dicha Comunidad Autónoma.

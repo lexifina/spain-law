@@ -1,0 +1,7 @@
+## Disposición final tercera. Modificación de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
+
+El apartado 2 de la Disposición Transitoria séptima de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias, queda redactado en los siguientes términos:
+
+«2. Las recaudaciones derivadas de liquidaciones del Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos y las devoluciones de ingresos realizadas de dicho impuesto con posterioridad a su derogación corresponderán a las Comunidades Autónomas en los términos previstos con anterioridad a dicha derogación. Para hacer efectivo lo anterior el Estado podrá realizar los descuentos necesarios en cualquiera de los pagos derivados de la aplicación del sistema de financiación.
+
+No obstante lo anterior, corresponderán al Estado las devoluciones de ingresos del Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos correspondientes al territorio común, que se deriven de la ejecución de la Sentencia del Tribunal de Justicia de la Unión Europea, asunto C-82/12, de 27 de febrero de 2014, con independencia del momento en que haya tenido lugar la devolución.»

@@ -22,4 +22,8 @@ Para aplicar lo previsto en el párrafo anterior, además será necesario que el
 
 5. En relación con ejercicios posteriores a 2014, mediante Ley de Presupuestos Generales del Estado se podrá habilitar, atendiendo a la coyuntura económica, la prórroga del plazo de aplicación previsto en este artículo.
 
+> Téngase en cuenta que, según se establece en la disposición adicional 9 del Real Decreto-ley 17/2014, de 26 de diciembre. Ref. BOE-A-2014-13613., la aplicación de esta disposición se prorroga para 2015.
+
+> Se prorroga su aplicación para 2015 por la disposición adicional 9 del Real Decreto-ley 17/2014, de 26 de diciembre. Ref. BOE-A-2014-13613.
+
 > Se añade por el art. 1.15 de la Ley Orgánica 9/2013, de 20 de diciembre. Ref. BOE-A-2013-13425.

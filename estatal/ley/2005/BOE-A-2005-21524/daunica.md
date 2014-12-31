@@ -1,3 +1,5 @@
 ## Disposición adicional única.
 
-En la elaboración de los pliegos de cláusulas generales para las campañas institucionales de publicidad y de comunicación se dará audiencia preceptiva a las asociaciones de los sectores afectados.
+(Derogada).
+
+> Se deroga por la disposición derogatoria única del Real Decreto-ley 17/2014, de 26 de diciembre. Ref. BOE-A-2014-13613.
