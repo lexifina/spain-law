@@ -6,9 +6,11 @@
 
 a) 1.000 euros cuando el hijo o menor acogido a cargo tenga un grado de discapacidad igual o superior al 33 por ciento.
 
-b) 4.390,80 euros, cuando el hijo a cargo sea mayor de 18 años y esté afectado por una discapacidad en un grado igual o superior al 65 por ciento.
+b) 4.402,80 euros, cuando el hijo a cargo sea mayor de 18 años y esté afectado por una discapacidad en un grado igual o superior al 65 por ciento.
 
-c) 6.586,80 euros, cuando el hijo a cargo sea mayor de 18 años, esté afectado por una discapacidad en un grado igual o superior al 75 por ciento y, como consecuencia de pérdidas anatómicas o funcionales, necesite el concurso de otra persona para realizar los actos más esenciales de la vida, tales como vestirse, desplazarse, comer o análogos.
+c) 6.604,80 euros, cuando el hijo a cargo sea mayor de 18 años, esté afectado por una discapacidad en un grado igual o superior al 75 por ciento y, como consecuencia de pérdidas anatómicas o funcionales, necesite el concurso de otra persona para realizar los actos más esenciales de la vida, tales como vestirse, desplazarse, comer o análogos.
+
+> Se actualizan las cuantías, con efectos desde el 1 de enero de 2015, por la disposición adicional 5.1 y 2 del Real Decreto 1107/2014, de 26 de diciembre. Ref. BOE-A-2014-13680.
 
 > Se actualizan las cuantías, con efectos desde el 1 de enero de 2014, por la disposición adicional 5.1 y 2 del Real Decreto 1045/2013, de 27 de diciembre. Ref. BOE-A-2013-13763.
 
