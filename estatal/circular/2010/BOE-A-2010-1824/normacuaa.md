@@ -4,7 +4,7 @@
 
 a) Todos los depósitos constituidos y créditos formalizados por primera vez con la clientela, salvo lo dispuesto en la letra d) siguiente.
 
-b) Todos los contratos existentes en períodos anteriores cuyo importe, tipo de interés, plazo u otras condiciones financieras sustanciales para los tipos de interés se hubiesen renegociado en el mes con la clientela.
+b) Todos los préstamos renegociados según se definen en la letra e) de la norma primera, así como todos los depósitos existentes en el mes anterior renegociados con intervención activa de los clientes en la modificación de las condiciones del contrato vigente, incluido el tipo de interés.
 
 c) Todos los créditos en los que, como consecuencia de una subrogación del deudor, se produzca un cambio de titular.
 
@@ -21,3 +21,5 @@ c) Las operaciones existentes en períodos anteriores en las que se produzcan ca
 d) Los créditos por el solo hecho de ser calificados en el período como dudosos, ni tampoco los concedidos para la reestructuración de deudas a los que se apliquen tipos inferiores a los de mercado para similar plazo y riesgo de crédito.
 
 e) Las adquisiciones de créditos, así como las asunciones de depósitos, iniciadas en períodos anteriores. En esta operativa se incluyen las operaciones incorporadas como consecuencia de fusiones, adquisiciones de negocio, transferencias de activos y transacciones similares con otras entidades de crédito. No obstante, se considerarán operaciones nuevas: las operaciones en las que el cliente tenga derecho a renegociar sus condiciones financieras, las operaciones sin recurso realizadas con cedentes que no sean entidades de crédito, y las operaciones de «factoring» con recurso.
+
+> Se modifica la letra b) del apartado 1 por la norma 2.2 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365.
