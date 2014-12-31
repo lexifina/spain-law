@@ -74,6 +74,10 @@ En los supuestos de reintegro por incumplimiento del requisito previsto en el ap
 
 La obligación de reintegro prevista en este apartado se entiende sin perjuicio de lo dispuesto en el texto refundido de la Ley sobre infracciones y sanciones en el orden social.
 
+> Téngase en cuenta que lo dispuesto en este artículo se prorroga durante 3 meses, respecto de los contratos celebrados entre el 1 de enero de 2015 y el 31 de marzo de 2015, por la disposición adicional 17 del Real Decreto-ley 17/2014, de 26 de diciembre. Ref. BOE-A-2014-10517.
+
+> Se prorroga durante 3 meses lo dispuesto en este artículo, respecto de los contratos celebrados entre el 1 de enero de 2015 y el 31 de marzo de 2015, por la disposición adicional 17 del Real Decreto-ley 17/2014, de 26 de diciembre. Ref. BOE-A-2014-10517.
+
 > Se añade el apartado 5 bis por el art. 120 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
 
 > Téngase en cuenta que este apartado ya se había añadido por el Real Decreto-ley 8/2014, de 4 de julio.
