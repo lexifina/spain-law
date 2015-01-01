@@ -1,4 +1,4 @@
-## Artículo 116 bis. Productos comprendidos en la tarifa 2.ª
+## Artículo 116 bis. Productos comprendidos en la tarifa 2.ª y gas natural.
 
 1. Definiciones: A efectos de este artículo se denominan:
 
@@ -8,19 +8,19 @@ b) "Productos sensibles".-Los productos de la tarifa 2.ª incluidos en las defin
 
 c) "Productos no sensibles".-Los productos de la tarifa 2.ª no incluidos en las definiciones del apartado 1 del artículo 49 de la Ley.
 
-2. Normas comunes aplicables a todos los productos de la tarifa 2.ª
+2. Normas comunes aplicables a todos los productos de la tarifa 2.ª y al gas natural.
 
-a) En los casos a que se refiere el párrafo a) del apartado 5 del artículo 53 de la Ley, los productos de la tarifa 2.ª que se obtengan continuarán amparados por la exención prevista en el aparta do 1 del artículo 51 de la Ley mientras no se destinen a un uso como combustible o carburante. Cuando, en los mismos casos, los productos obtenidos sean productos sensibles se aplicarán las normas previstas en el apartado 4 de este artículo y el establecimiento donde se obtengan deberá ser inscrito en el Registro Territorial como almacén fiscal.
+a) En los casos a que se refiere el artículo 53.5.a) de la Ley, los productos de la tarifa 2.ª que se obtengan continuarán amparados por la exención prevista en el artículo 51.1 de la Ley mientras no se destinen a un uso como combustible o carburante. Cuando, en los mismos casos, los productos obtenidos sean productos sensibles se aplicarán las normas previstas en el apartado 4 de este artículo y el establecimiento donde se obtengan deberá ser inscrito en el Registro Territorial como almacén fiscal.
 
-b) Cuando, conforme a lo establecido en el apartado 5.b) del artículo 53 de la Ley, los productos de la tarifa 2.ª a los que se haya aplicado la exención prevista en el apartado 1 del artícu lo 51 de la Ley se destinen sobrevenidamente a un uso como combustible o carburante, quienes los destinen o comercialicen con destino a tales fines estarán obligados a presentar un escrito ante la oficina gestora en el plazo de veinte días a contar desde aquel en que se produjo el referido uso sobrevenido, dando cuenta de tal circunstancia. A dicho escrito acompañarán una copia de la autoliquidación que habrán practicado y que será comprensiva de las cuotas correspondientes a los productos sobrevenidamente destinados a los referidos usos.
+b) Cuando, conforme a lo establecido en el artículo 53.5.b) de la Ley, el gas natural o los productos de la tarifa 2.ª a los que se haya aplicado la exención prevista en el artículo 51.1 de la Ley se destinen sobrevenidamente a un uso como combustible o carburante, quienes los destinen o comercialicen con destino a tales fines estarán obligados a presentar un escrito ante la oficina gestora en el plazo de 20 días a contar desde aquel en que se produjo el referido uso sobrevenido, dando cuenta de tal circunstancia. A dicho escrito acompañarán una copia de la autoliquidación que habrán practicado y que será comprensiva de las cuotas correspondientes a los productos sobrevenidamente destinados a los referidos usos.
 
-3. Normas aplicables a los productos no sensibles:
+3. Normas aplicables a los productos no sensibles y al gas natural.
 
-a) Una vez que salgan de la fábrica donde se han obtenido o se importen, la circulación, tenencia y utilización de los productos no sensibles no estará sometida a requisitos formales específicos en relación con el Impuesto sobre Hidrocarburos.
+a) Una vez que salgan de la fábrica donde se han obtenido o se importen, la circulación, tenencia y utilización de los productos no sensibles o del gas natural no estarán sometidas a requisitos formales específicos en relación con el Impuesto sobre Hidrocarburos. Lo dispuesto en este párrafo se entiende, en cuanto al gas natural, sin perjuicio de la aplicación de las normas de este Reglamento vinculadas al cumplimiento de la obligación de autoliquidar e ingresar las cuotas del impuesto devengadas cuando el impuesto resulte exigible.
 
-b) En los supuestos de importación, el destino a un uso distinto del de combustible o carburante deberá declararse ante la Aduana para la aplicación de la exención prevista en el apartado 1 del artícu lo 51.
+b) En los supuestos de importación, el destino a un uso distinto del de combustible o carburante deberá declararse ante la Aduana para la aplicación de la exención prevista en el artículo 51.1 de la Ley.
 
-c) La situación fiscal en que los productos no sensibles puedan encontrarse en cada momento (régimen suspensivo o impuesto devengado con o sin aplicación de exenciones) se acreditará por los medios de prueba admisibles en Derecho, especialmente por la documentación de índole comercial relativa a aquellos de que se trate y por la condición fiscal que, en su caso, tenga el establecimiento de expedición.
+c) La situación fiscal en que los productos no sensibles o el gas natural puedan encontrarse en cada momento (régimen suspensivo, o impuesto devengado con o sin aplicación de exenciones) se acreditará por los medios de prueba admisibles en Derecho, especialmente por la documentación de índole comercial relativa a aquéllos de que se trate y por la condición fiscal que, en su caso, tenga el establecimiento en el que se encuentren o desde el que hayan sido expedidos y al que vayan a ir destinados.
 
 4. Normas aplicables a los productos sensibles:
 
@@ -37,6 +37,10 @@ b) Cuando se trate de productos sensibles a los que se aplique la exención prev
 4ª Los titulares de las fábricas, depósitos fiscales y almacenes fiscales deberán remitir a la oficina gestora correspondiente al lugar del establecimiento, dentro del primer trimestre de cada año, una relación de destinatarios a los que se hayan enviado, durante el año anterior, productos sensibles con aplicación de la exención contemplada en el apartado 1 del artículo 51 de la Ley, en cantidad igual o superior a 50.000 litros. En dicha relación se indicará, por productos, la cantidad enviada a cada destinatario.
 
 c) No obstante lo dispuesto en los párrafos a) y b) del presente apartado, el Ministro de Economía y Hacienda podrá simplificar o dispensar del cumplimiento de todos o algunos de los requisitos formales y condiciones que, por lo establecido en aquéllos, sean exigibles en la circulación, tenencia y utilización de todos o algunos de los productos sensibles, siempre que, en lo que se refiere a requisitos formales y controles de la circulación intracomunitaria, se cumplan las circunstancias previstas en la normativa comunitaria para efectuar dicha simplificación o dispensa.
+
+> Se modifica la letra c) del apartado 3 por el art. 1.26 del Real Decreto 1074/2014, de 19 de diciembre. Ref. BOE-A-2014-13253.
+
+> Se modifica el título y los apartados 2 y 3 por el art. único.24 del Real Decreto 774/2006, de 23 de junio. Ref. BOE-A-2006-11286
 
 > Se añade la 4ª regla al apartado 4.b) por el art. único.20 del Real Decreto 1965/1999, de 23 de diciembre. Ref. BOE-A-1999-24787
 
