@@ -16,7 +16,7 @@
 | 353 | GRUPO DE ENTIDADES. AUTOLIQUIDACIÓN MENSUAL. | M |
 | 430 | IMPUESTO SOBRE LAS PRIMAS DE SEGUROS | M |
 | 559 | IMPUESTO SOBRE EL ALCOHOL Y BEBIDAS DERIVADAS. RÉGIMEN DE DESTILACIÓN ARTESANAL Y COSECHERO | 0A-M-T |
-| 560 | IMPUESTO SOBRE LA ELECTRICIDAD | M-T |
+| 560 | IMPUESTO SOBRE LA ELECTRICIDAD | 0A-M-T |
 | 561 | IMPUESTO SOBRE LA CERVEZA | M-T |
 | 562 | IMPUESTO SOBRE PRODUCTOS INTERMEDIOS | M-T |
 | 563 | IMP. SOBRE EL ALCOHOL Y BEBIDAS DERIVADAS | M-T |
@@ -32,6 +32,8 @@
 | 588 | IMPUESTO SOBRE EL VALOR DE LA PRODUCCIÓN DE LA ENERGÍA ELÉCTRICA. AUTOLIQUIDACIÓN POR CESE DE ACTIVIDAD DE ENERO A OCTUBRE | OA |
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se modifican los periodos de ingreso del modelo 560 por la disposición final 1 de la Orden HAP/2489/2014, de 29 de diciembre. Ref. BOE-A-2014-13678.
 
 > Se añade el modelo 588 por la disposición final 2 de la Orden HAP/2328/2014, de 11 de diciembre. Ref. BOE-A-2014-12972.
 
