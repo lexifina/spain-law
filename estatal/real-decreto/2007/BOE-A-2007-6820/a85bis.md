@@ -1,6 +1,8 @@
 ## Artículo 85 bis. Deducción por obtención de rendimientos del trabajo para calcular el tipo de retención.
 
-La deducción por obtención de rendimientos del trabajo para calcular el tipo de retención se determinará con arreglo a lo dispuesto en el apartado 1 del artículo 80 bis de la Ley del Impuesto. Para el cómputo de dicha deducción, el pagador deberá tener en cuenta la base para calcular el tipo de retención en lugar de la base imponible del impuesto.
+(Suprimido)
+
+> Se suprime por el art. único.9 del Real Decreto 1003/2014, de 5 de diciembre. Ref. BOE-A-2014-12730.
 
 > Se añade por el art. 1.3 del Real Decreto 2004/2009, de 23 de diciembre. Ref. BOE-A-2009-21046
 
