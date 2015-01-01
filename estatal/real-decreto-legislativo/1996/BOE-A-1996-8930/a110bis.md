@@ -1,0 +1,19 @@
+## Artículo 110 bis. Disposiciones relativas a la cesión de derechos al productor de fonogramas.
+
+1. Si, una vez transcurridos cincuenta años desde la publicación lícita del fonograma o, en caso de no haberse producido esta última, cincuenta años desde su comunicación lícita al público, no se pone a la venta un número suficiente de copias que satisfaga razonablemente las necesidades estimadas del público de acuerdo con la naturaleza y finalidad del fonograma, o no se pone a disposición del público, en la forma establecida en el artículo 20.2.i), el artista intérprete o ejecutante podrá poner fin al contrato en virtud del cual cede sus derechos con respecto a la grabación de su interpretación o ejecución al productor de fonogramas.
+
+El derecho a resolver el contrato de cesión podrá ejercerse si, en el plazo de un año desde la notificación fehaciente del artista intérprete o ejecutante de su intención de resolver el contrato de cesión conforme a lo dispuesto en el párrafo anterior, el productor no lleva a cabo ambos actos de explotación mencionados en dicho párrafo. Esta posibilidad de resolución no podrá ser objeto de renuncia por parte del artista intérprete o ejecutante.
+
+Cuando un fonograma contenga la grabación de las interpretaciones o ejecuciones de varios artistas intérpretes o ejecutantes, éstos sólo podrán resolver el contrato de cesión de conformidad con el artículo 111. Si se pone fin al contrato de cesión de conformidad con lo especificado en el presente apartado, expirarán los derechos del productor del fonograma sobre éste.
+
+2. Cuando un contrato de cesión otorgue al artista intérprete o ejecutante el derecho a una remuneración única, tendrá derecho a percibir una remuneración anual adicional por cada año completo una vez transcurridos cincuenta años desde la publicación lícita del fonograma o, en caso de no haberse producido esta última, cincuenta años desde su comunicación lícita al público. El derecho a obtener esa remuneración anual adicional, cuyo deudor será el productor del fonograma o, en su caso, su cesionario en exclusiva, no podrá ser objeto de renuncia por parte del artista intérprete o ejecutante, y se hará efectivo a través de las entidades de gestión de los derechos de propiedad intelectual de los artistas intérpretes o ejecutantes.
+
+El importe total de los fondos que el deudor deba destinar al pago de la remuneración adicional anual mencionada en el párrafo anterior será igual al 20 por ciento de los ingresos brutos que haya obtenido, en el año precedente a aquél en el que se abone la remuneración, por la reproducción, distribución y puesta a disposición del público, en la forma establecida en el artículo 20.2.i), de los fonogramas en cuestión, una vez transcurridos cincuenta años desde la publicación lícita del fonograma o, en caso de no haberse producido esta última, cincuenta años desde su comunicación lícita al público.
+
+Quedan excluidas del cálculo de los ingresos a que se refiere el párrafo anterior las cantidades percibidas por el deudor en concepto de compensación equitativa por copia privada y alquiler de fonogramas.
+
+Los deudores de la remuneración anual adicional a que se refiere este apartado estarán obligados a facilitar anualmente, previa solicitud, a la entidad de gestión correspondiente, toda la información que pueda resultar necesaria a fin de asegurar el pago de dicha remuneración.
+
+3. Cuando un artista intérprete o ejecutante tenga derecho a pagos periódicos, no se deducirán de los importes abonados al artista intérprete o ejecutante ningún pago anticipado ni deducciones establecidas contractualmente al cumplirse cincuenta años desde la publicación lícita del fonograma o, en caso de no haberse producido esta última, cincuenta años desde su comunicación lícita al público.
+
+> Se añade por el art. 1.7 de la Ley 21/2014, de 4 de noviembre. Ref. BOE-A-2014-11404.
