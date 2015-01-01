@@ -1,6 +1,6 @@
 ## Disposición adicional sexta. Socios trabajadores de cooperativas de trabajo asociado.
 
-Los socios trabajadores de las cooperativas de trabajo asociado que hayan optado por su encuadramiento en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos o en el Régimen Especial de los Trabajadores del Mar y tengan concertada la cobertura por accidentes de trabajo y enfermedades profesionales tendrán derecho a las prestaciones por cese de actividad siempre que se cumplan las condiciones establecidas a continuación:
+Los socios trabajadores de las cooperativas de trabajo asociado que hayan optado por su encuadramiento en el Régimen Especial de Trabajadores por Cuenta Propia o Autónomos o en el Régimen Especial de los Trabajadores del Mar, tendrán derecho a las prestaciones por cese de actividad siempre que cumplan las condiciones generales establecidas en esta ley y las particulares que seguidamente se disponen:
 
 1. Se considerarán en situación legal de cese de actividad los socios trabajadores de cooperativas de trabajo asociado que se encuentren en alguno de los siguientes supuestos:
 
@@ -41,3 +41,5 @@ f) En el caso de cese durante el período de prueba será necesaria comunicació
 En caso de presentar la solicitud fuera del indicado plazo se estará a lo dispuesto en las normas de carácter general de la presente Ley.
 
 5. Cuando la cooperativa de trabajo asociado tenga a uno o más trabajadores por cuenta ajena, en el supuesto de cese total de la actividad de la cooperativa será requisito previo al cese de actividad de los socios trabajadores el cumplimiento de las garantías y procedimientos regulados en la legislación laboral.
+
+> Se modifica el párrafo 1 por la disposición final 2.12 de la Ley 35/2014, de 26 de diciembre. Ref. BOE-A-2014-13568.

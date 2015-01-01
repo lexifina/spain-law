@@ -10,10 +10,12 @@ No se exigirá el cierre de establecimiento abierto al público en los casos en 
 
 b) Por fuerza mayor, determinante del cese temporal o definitivo de la profesión.
 
-c) Por pérdida de la licencia administrativa, siempre que la misma constituya un requisito para el ejercicio de la profesión y no venga motivada por incumplimientos contractuales o por la comisión de infracciones, faltas administrativas o delitos imputables al autónomo solicitante.
+c) Por pérdida de la licencia administrativa, siempre que la misma constituya un requisito para el ejercicio de la actividad económica o profesional y no venga motivada por la comisión de infracciones penales.
 
 d) La violencia de género determinante del cese temporal o definitivo de la profesión de la trabajadora autónoma.
 
 e) Por divorcio o acuerdo de separación matrimonial, mediante la correspondiente resolución judicial, en los supuestos en que el autónomo divorciado o separado ejerciera funciones de ayuda familiar en el negocio de su excónyuge o de la persona de la que se ha separado, en función de las cuales estaba incluido en el correspondiente régimen de la Seguridad Social, y que dejan de ejercerse a causa de la ruptura o separación matrimoniales.
 
 2. Cuando el trabajador autónomo profesional tenga a uno o más trabajadores a su cargo y concurra alguna de las causas del apartado anterior, será requisito previo al cese de su actividad profesional el cumplimiento de las garantías y procedimientos regulados en la legislación laboral, con independencia de que hayan cesado o no el resto de profesionales.
+
+> Se modifica el apartado 1.c) por la disposición final 2.13 de la Ley 35/2014, de 26 de diciembre. Ref. BOE-A-2014-13568.
