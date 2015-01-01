@@ -60,11 +60,9 @@ e) Para cada aportación, la desviación de financiación acumulada que resulte 
 
 f) En la aplicación de las normas recogidas en los epígrafes anteriores de este apartado se seguirán los criterios establecidos en la Regla 15 de esta Instrucción, relativa al contenido del Área de Recursos afectados.
 
-7. El Remanente de Tesorería está integrado por los derechos pendientes de cobro, las obligaciones pendientes de pago y los fondos líquidos, todos ellos referidos a 31 de diciembre del ejercicio a que la información se refiera.
+7. El Remanente de Tesorería se obtiene como suma de los fondos líquidos más los derechos pendientes de cobro, deduciendo las obligaciones pendientes de pago y agregando las partidas pendientes de aplicación, de conformidad con los criterios siguientes:
 
-La cuantificación del Remanente de Tesorería se realizará, a partir de los datos que a fin de ejercicio figuren reflejados en otras partes de la Cuenta de la entidad local, de acuerdo con las normas que seguidamente se indican:
-
-a) Se obtendrá como suma de los fondos líquidos más los derechos pendientes de cobro, deduciendo las obligaciones pendientes de pago.
+a) Su cuantificación se realizará, a partir de los datos que a fin de ejercicio figuren reflejados en otras partes de la Cuenta de la entidad local.
 
 b) Los fondos líquidos estarán constituidos por el importe que figure como saldo final de Tesorería en la «Información sobre Tesorería» que se establece en la Regla 28.
 
@@ -76,26 +74,30 @@ c.2) Los derechos pendientes de cobro de Presupuestos cerrados, cuyo importe ser
 
 c.3) Los derechos pendientes de cobro de operaciones no presupuestarias. Su importe se obtendrá de la información sobre «Operaciones no presupuestarias de naturaleza deudora» que se establece en el apartado 2 de la Regla 30, acumulando el importe del saldo pendiente a 31 de diciembre que corresponda a los diferentes conceptos que figuren en la información mencionada, con excepción del saldo que figure en el concepto de «Pagos pendientes de aplicación».
 
-c.4) Los derechos pendientes de cobro a que se refieren los epígrafes anteriores se minorarán en las cantidades cobradas que a fin de ejercicio estuviesen pendientes de aplicación por no haberse efectuado la adecuada imputación en función de la naturaleza de los ingresos a que correspondan. Su importe, que se obtendrá de la información sobre «Operaciones no presupuestarias de naturaleza acreedora» establecida en el apartado 3 de la Regla 30, será el correspondiente al saldo pendiente a 31 de diciembre que figure en el concepto de «Cobros pendientes de aplicación».
-
 d) Las obligaciones pendientes de pago comprenderán:
 
-d.1) Las obligaciones pendientes de pago del Presupuesto corriente. Su importe será el total de las obligaciones pendientes de pago a 31 de diciembre que se ponga de manifiesto en la «Liquidación del Presupuesto de Gastos» a que se ha hecho mención en la Regla 26.
+d.1) Las obligaciones pendientes de pago del Presupuesto corriente. Su importe será el total de las obligaciones pendientes de pago a 31 de diciembre que se ponga de manifiesto en la "Liquidación del Presupuesto de Gastos" a que se ha hecho mención en la Regla 26.
 
 d.2) Las obligaciones pendientes de pago de Presupuestos cerrados, cuyo importe será el total de las obligaciones pendientes de pago a 31 de diciembre que figuren en la información sobre «Obligaciones de Presupuestos cerrados» a que se refiere el apartado 3 anterior.
 
 d.3) Las obligaciones pendientes de pago de operaciones no presupuestarias, cuya cuantía se determinará por suma de las cantidades que seguidamente se indican:
 
-El importe acumulado del saldo pendiente a 31 de diciembre que corresponda a los diferentes conceptos que figuren en la información sobre «Operaciones no presupuestarias de naturaleza acreedora» que se establece en el apartado 3 de la Regla 30, con excepción del saldo que figure en el concepto de «Cobros pendientes de aplicación».
+– El importe acumulado del saldo pendiente a 31 de diciembre que corresponda a los diferentes conceptos que figuren en la información sobre "Operaciones no presupuestarias de naturaleza acreedora" que se establece en el apartado 3 de la Regla 30, con excepción del saldo que figure en el concepto de «Cobros pendientes de aplicación».
 
-El saldo pendiente a 31 de diciembre por «Operaciones de Tesorería» que figure en la «Información sobre endeudamiento» a que se hace referencia en la Regla 29.
+– El saldo pendiente a 31 de diciembre por "Operaciones de Tesorería" que figure en la "Información sobre endeudamiento" a que se hace referencia en la Regla 29.
 
-d.4) Las obligaciones pendientes de pago a que se refieren los epígrafes anteriores se minorarán en las cantidades pagadas que a fin de ejercicio estuviesen pendientes de aplicación por no haberse efectuado su adecuada imputación definitiva a Presupuesto. Su importe, que se obtendrá de la información sobre «Operaciones no presupuestarias de naturaleza deudora» a que se hace mención en el apartado 2 de la Regla 30, será el correspondiente al saldo pendiente a 31 de diciembre que figure en el concepto de «Pagos pendientes de aplicación».
+e) En las partidas pendientes de aplicación se distinguirán:
 
-e) El Remanente de Tesorería calculado según lo indicado en los epígrafes anteriores constituirá el Remanente de Tesorería total.
+e.1) Las cantidades cobradas que a fin de ejercicio estuviesen pendientes de aplicación por no haberse efectuado la adecuada imputación en función de la naturaleza de los ingresos a que correspondan. Su importe, que se obtendrá de la información sobre "Operaciones no presupuestarias de naturaleza acreedora" establecida en el apartado 3 de la Regla 30, será el correspondiente al saldo pendiente a 31 de diciembre que figure en el concepto de «Cobros pendientes de aplicación».
+
+e.2) Las cantidades pagadas que a fin de ejercicio estuviesen pendientes de aplicación por no haberse efectuado su adecuada imputación definitiva a Presupuesto. Su importe, que se obtendrá de la información sobre «Operaciones no presupuestarias de naturaleza deudora» a que se hace mención en el apartado 2 de la Regla 30, será el correspondiente al saldo pendiente a 31 de diciembre que figure en el concepto de «Pagos pendientes de aplicación».
+
+f) El Remanente de Tesorería calculado según lo indicado en los epígrafes anteriores constituirá el Remanente de Tesorería total.
 
 El Remanente de Tesorería disponible para financiar gastos generales, se determinará minorando el Remanente de Tesorería total en el importe de los derechos pendientes de cobro que, en fin de ejercicio, se consideren de difícil o imposible recaudación y en el exceso de financiación afectada producido.
 
 La determinación del importe de los derechos pendientes de cobro a 31 de diciembre, de difícil o imposible recaudación, se realizará de acuerdo con los criterios que se establecen en el artículo 103 del Real Decreto 500/1990, de 20 de abril, por el que se desarrolla el Capítulo primero del Título sexto de la Ley reguladora de las Haciendas locales en materia de Presupuestos. En la información relativa al Remanente de Tesorería se deberán especificar los criterios adoptados por la entidad para cuantificar los derechos pendientes de cobro de difícil o imposible recaudación.
 
-El importe total del exceso de financiación afectada a que se refiere el apartado 6 de la Regla 15, se obtendrá de la información relativa a «Recursos afectados» establecida en el apartado 6 de la presente Regla, acumulando el importe de las desviaciones de financiación acumuladas positivas que existiesen a fin de ejercicio para las distintas aportaciones que se hubiesen percibido por la entidad para la financiación de gastos concretos.
+El importe total del exceso de financiación afectada a que se refiere el apartado 6 de la Regla 15, se obtendrá de la información relativa a "Recursos afectados" establecida en el apartado 6 de la presente Regla, acumulando el importe de las desviaciones de financiación acumuladas positivas que existiesen a fin de ejercicio para las distintas aportaciones que se hubiesen percibido por la entidad para la financiación de gastos concretos.
+
+> Se modifica el apartado 7, con efectos de 1 de enero de 2015, por el art. 2.2 de la Orden HAP/1782/2013, de 20 de septiembre. Ref. BOE-A-2013-10269#a2.
