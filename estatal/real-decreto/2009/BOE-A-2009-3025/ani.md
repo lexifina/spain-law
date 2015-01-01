@@ -51,3 +51,13 @@ b) Las siguientes frutas:
 0810.10.10 Fresas.
 
 0810.10.90 Fresas.
+
+c) El siguiente producto comprendido en el capítulo 9 del arancel de aduanas, relativo a las especias y semillas:
+
+910993300 Tomillo.
+
+d) El siguiente producto comprendido en el capítulo 12 del arancel de aduanas, relativo al grupo de plantas medicinales y aromáticas:
+
+1211908620 Albahaca.
+
+> Se añaden las letras c) y d) por el art. único.2 del Real Decreto 1083/2014, de 19 de diciembre. Ref. BOE-A-2014-13682.
