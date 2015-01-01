@@ -64,7 +64,7 @@ La declaración se efectuará en la forma, plazos y modelos que establezca el ti
 
 Los sujetos pasivos deberán cumplimentar la totalidad de los datos que les afecten contenidos en las declaraciones, acompañar los documentos y justificantes que se establezcan y presentarlas en los lugares que determine el titular del Ministerio de Economía y Hacienda.»
 
-Segundo. Con efectos desde 1 de enero de 2015, se introducen las siguientes modificaciones en la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio:
+Segundo. Con efectos desde 1 de enero de 2016, se introducen las siguientes modificaciones en la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio:
 
 Uno. Se modifica el artículo 33, que queda redactado de la siguiente forma:
 
@@ -73,6 +73,8 @@ Uno. Se modifica el artículo 33, que queda redactado de la siguiente forma:
 Sobre la cuota íntegra del impuesto se aplicará una bonificación del 100 por ciento a los sujetos pasivos por obligación personal o real de contribuir.»
 
 Dos. Se derogan los artículos 6, 36, 37 y 38.
+
+> Se modifica el apartado 2 por el art. 61 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
 
 > Se modifica el apartado 2 por el art. 72 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
 

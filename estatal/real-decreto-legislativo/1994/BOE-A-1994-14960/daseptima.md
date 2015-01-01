@@ -30,9 +30,15 @@ Tercera. Bases reguladoras.
 
 a) La base reguladora de las prestaciones de jubilación e incapacidad permanente se calculará conforme a la regla general. Para las prestaciones por maternidad y por paternidad, la base reguladora diaria será el resultado de dividir la suma de las bases de cotización acreditadas en la empresa durante el año anterior a la fecha del hecho causante entre 365.
 
+Para la prestación por incapacidad temporal, la base reguladora diaria será el resultado de dividir la suma de las bases de cotización a tiempo parcial acreditadas desde la última alta laboral, con un máximo de tres meses inmediatamente anteriores al del hecho causante, entre el número de días naturales comprendidos en el periodo.
+
+La prestación económica se abonará durante todos los días naturales en que el interesado se encuentre en la situación de incapacidad temporal.
+
 b) A efecto de las pensiones de jubilación y de la incapacidad permanente, derivada de enfermedad común, la integración de los períodos durante los que no haya habido obligación de cotizar se llevará a cabo con la base mínima de cotización de entre las aplicables en cada momento, correspondiente al número de horas contratadas en último término.
 
 c) A efectos de la determinación de la cuantía de las pensiones de jubilación y de incapacidad permanente derivada de enfermedad común, el número de días cotizados que resulten de lo establecido en el segundo párrafo de la letra a) de la regla segunda, se incrementará con la aplicación del coeficiente del 1,5, sin que el número de días resultante pueda ser superior al período de alta a tiempo parcial.
+
+> Téngase en cuenta que se declara inconstitucional y nulo, con los efectos previstos en el fundamento jurídico 12, el inciso destacado del apartado 1, regla 3.c), en la redacción dada por el art. 5.2 del Real Decreto-ley 11/2013, de 2 de agosto, por Sentencia del TC 91/2019, de 3 de julio. Ref. BOE-A-2019-11903
 
 El porcentaje a aplicar sobre la respectiva base reguladora se determinará conforme a la escala general a que se refiere el apartado 1 del artículo 163 y la disposición transitoria vigésima primera, con la siguiente excepción:
 
@@ -47,6 +53,8 @@ Para determinar los períodos de cotización y de cálculo de la base reguladora
 2. Las reglas contenidas en el apartado anterior serán de aplicación a los trabajadores con contrato a tiempo parcial, contrato de relevo a tiempo parcial y contrato de trabajo fijo-discontinuo, de conformidad con lo establecido en los artículo 12 y 15.8 de la Ley del Estatuto de los Trabajadores, Texto Refundido aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, que estén incluidos en el campo de aplicación del Régimen General y del Régimen Especial de la Minería del Carbón, y a los que, siendo trabajadores por cuenta ajena, estén incluidos en el Régimen Especial de los Trabajadores del Mar.
 
 Dichas reglas serán igualmente aplicables a los trabajadores a tiempo parcial o fijos discontinuos incluidos en el Sistema Especial para Empleados de Hogar, establecido en el Régimen General de la Seguridad Social.
+
+> Se modifica la regla 3.a) del apartado 1 por la disposición final.3 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
 
 > Se modifica las reglas 2 y 3.c) del apartado 1 por el art. 5.1 de la Ley 1/2014, de 28 de febrero. Ref. BOE-A-2014-2219.
 

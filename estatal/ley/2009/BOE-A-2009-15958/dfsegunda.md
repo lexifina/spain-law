@@ -1,6 +1,8 @@
 ## Disposición final segunda.
 
-La presente ley entrará en vigor a partir del 1 de enero de 2015.
+La presente ley entrará en vigor a partir del 1 de enero de 2016.
+
+> Se modifica por la disposición final 10 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
 
 > Se modifica por la disposición final 22 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
 

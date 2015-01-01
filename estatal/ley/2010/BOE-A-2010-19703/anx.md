@@ -62,15 +62,15 @@
 
 ## Cuantía a incluir en la paga extraordinaria de determinados miembros del Poder Judicial y de la Carrera Fiscal del artículo 31.Cinco de esta Ley
 
-|  | Cuantía en euros a incluir en pagas extraordinarias junio-diciembre |
+|  | Cuantía en euros a incluir en pagas extraordinarias Junio-Diciembre |
 | --- | --- |
-| Miembros del Poder Judicial |  |
+| Miembros del Poder Judicial |
 | Vicepresidente del Tribunal Supremo | 2.702,28 |
 | Presidentes de Sala del Tribunal Supremo (no incluye al Presidente del mismo) | 2.603,36 |
 | Presidente de la Audiencia Nacional (Magistrado del Tribunal Supremo) | 2.603,36 |
-| Presidente de Sala de Audiencia Nacional (Magistrados del Tribunal Supremo) | 2.504,44 |
+| Presidente de Sala de la Audiencia Nacional (Magistrados del Tribunal Supremo) | 2.504,44 |
 | Magistrados del Tribunal Supremo (no incluidos en apartados anteriores) | 2.504,44 |
-| Miembros del Ministerio Fiscal |  |
+| Miembros del Ministerio Fiscal |
 | Teniente Fiscal del Tribunal Supremo | 2.603,36 |
 | Fiscal Inspector | 2.515,48 |
 | Fiscal Jefe de la Fiscalía ante el Tribunal Constitucional | 2.515,48 |
@@ -81,5 +81,7 @@
 | Fiscal Jefe de la Fiscalía Especial Antidroga | 2.504,44 |
 | Fiscal Jefe de la Fiscalía Esp. contra la corrupción y la criminalidad organizada | 2.504,44 |
 | Fiscales de Sala del Tribunal Supremo | 2.504,44 |
+
+> Se modifica por la disposición final 13 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
 
 > Se modifica por la disposición final 25 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.

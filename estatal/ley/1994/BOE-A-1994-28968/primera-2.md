@@ -4,6 +4,8 @@ Se prorroga por diez años, a partir de la entrada en vigor de esta Ley, el plaz
 
 > Véase sobre la ampliación del ámbito temporal de aplicación las siguientes normas:
 
+> - Disposición adicional 94 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+
 > - Disposición adicional 5 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
 
 > - Disposición adicional 8 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.

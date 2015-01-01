@@ -1,0 +1,3 @@
+## Disposición transitoria séptima. Extinción de la Fundación para la Proyección Internacional de las Universidades Españolas (Universidad.es).
+
+A partir del 31 de diciembre de 2014 quedará extinguida la Fundación para la Proyección Internacional de las Universidades Españolas (Universidad.es), y su actividad quedará integrada en el Servicio Español para la Internacionalización de la Educación, anterior organismo público Programas Educativos Europeos, de acuerdo con lo señalado en los artículos 4 y 5 de la Ley 15/2014, de 16 de septiembre, de racionalización del sector público y otras medidas de reforma administrativa.

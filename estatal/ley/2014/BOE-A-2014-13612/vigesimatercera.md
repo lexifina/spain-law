@@ -1,0 +1,3 @@
+## Disposición adicional vigésima tercera. Modificaciones de las plantillas de personal estatutario de los Centros y Servicios sanitarios de organismos dependientes de la Administración General del Estado.
+
+Las modificaciones de las plantillas de personal estatutario de los Centros y Servicios Sanitarios de organismos dependientes de la Administración General del Estado, que supongan incrementos netos del número de plazas o del coste de las mismas, o la transformación de plazas de personal sanitario en plazas de personal de gestión y servicios o viceversa, serán aprobadas previo informe favorable del Ministerio de Hacienda y Administraciones Públicas.
