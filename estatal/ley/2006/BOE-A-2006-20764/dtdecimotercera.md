@@ -1,9 +1,7 @@
 ## Disposición transitoria decimotercera. Compensaciones fiscales.
 
-La Ley de Presupuestos Generales del Estado determinará el procedimiento y las condiciones para la percepción de compensaciones fiscales en los siguientes supuestos:
+(Suprimida)
 
-a) Los contribuyentes que perciban un capital diferido derivado de un contrato de seguro de vida o invalidez generador de rendimientos de capital mobiliario contratado con anterioridad a 20 de enero de 2006, en el supuesto de que la aplicación del régimen fiscal establecido en esta Ley para dichos rendimientos le resulte menos favorable que el regulado en el texto refundido de la Ley del Impuesto sobre la Renta de las Personas Físicas. A estos efectos, se tendrán en cuenta solamente las primas satisfechas hasta el 19 de enero de 2006, así como las primas ordinarias previstas en la póliza original del contrato satisfechas con posterioridad a dicha fecha.
-
-b) Los contribuyentes que perciban rendimientos obtenidos por la cesión a terceros de capitales propios procedentes de instrumentos financieros contratados con anterioridad a 20 de enero de 2006, en el supuesto de que la aplicación del régimen fiscal establecido en esta ley para dichos rendimientos le resulte menos favorable que el regulado en el texto refundido de la Ley del Impuesto sobre la Renta de las Personas Físicas.
+> Se suprime por el art. 1.87 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327.
 
 > Se suprime la letra c) por el art. 25.1 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364.

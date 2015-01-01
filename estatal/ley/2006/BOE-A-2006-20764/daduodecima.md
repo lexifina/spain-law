@@ -1,3 +1,5 @@
-## Disposición adicional duodécima. Recurso cameral permanente.
+## Disposición adicional duodécima. Porcentaje de compensación entre rendimientos y ganancias y pérdidas patrimoniales que se integran en la base imponible del ahorro en 2015, 2016 y 2017.
 
-La exacción del Recurso cameral permanente a que se refiere el párrafo b) del apartado 1 del artículo 12 de la Ley 3/1993, de 22 de marzo, Básica de las Cámaras Oficiales de Comercio, Industria y Navegación, se girará sobre los rendimientos comprendidos en la sección 3.ª del capítulo II del título III de esta ley, cuando deriven de actividades incluidas en el artículo 6 de la citada Ley 3/1993.
+El porcentaje de compensación entre los saldos a que se refieren las letras a) y b) del apartado 1 del artículo 49 de esta Ley en los períodos impositivos 2015, 2016 y 2017 será del 10, 15 y 20 por ciento, respectivamente.
+
+> Se modifica por el art. 1.71 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327.

@@ -4,10 +4,12 @@
 
 a) Que el límite máximo anual satisfecho en concepto de primas durante los años de vigencia del contrato de seguro no haya superado los 8.000 euros, y el importe total de las primas acumuladas no haya superado la cuantía de 240.000 euros por contribuyente.
 
-b) Que hubieran transcurrido más de diez años desde la fecha de pago de la primera prima.
+b) Que hubieran transcurrido más de cinco años desde la fecha de pago de la primera prima.
 
 2. No podrán transformarse en planes individuales de ahorro sistemático los seguros colectivos que instrumenten compromisos por pensiones conforme a la disposición adicional primera del texto refundido de la Ley de Regulación de los Planes y Fondos de Pensiones, ni los instrumentos de previsión social que reducen la base imponible.
 
 3. En el momento de la transformación se hará constar de forma expresa y destacada en el condicionando del contrato que se trata de un plan individual de ahorro sistemático regulado en la disposición adicional tercera de esta Ley.
 
 4. Una vez realizada la transformación, en el caso de anticipación, total o parcial, de los derechos económicos derivados de la renta vitalicia constituida, el contribuyente deberá integrar en el periodo impositivo en el que se produzca la anticipación, la renta que estuvo exenta por aplicación de lo dispuesto en la letra v) del artículo 7 de esta Ley, sin que resulte aplicable la disposición transitoria decimotercera de esta Ley.
+
+> Se modifica el apartado 1 por el art. 1.88 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327.

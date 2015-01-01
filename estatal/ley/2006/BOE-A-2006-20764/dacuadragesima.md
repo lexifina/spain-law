@@ -1,10 +1,10 @@
-## Disposición adicional cuadragésima. Retenciones e ingresos a cuenta sobre determinados rendimientos de actividades profesionales.
+## Disposición adicional cuadragésima. Rendimientos derivados de seguros cuyo beneficiario es el acreedor hipotecario.
 
-No obstante lo dispuesto en la letra a) del apartado 5 del artículo 101 de esta Ley, el porcentaje de las retenciones e ingresos a cuenta sobre los rendimientos derivados de actividades profesionales será el 15 por ciento cuando el volumen de rendimientos íntegros de tales actividades correspondiente al ejercicio inmediato anterior sea inferior a 15.000 euros y represente más del 75 por ciento de la suma de los rendimientos íntegros de actividades económicas y del trabajo obtenidos por el contribuyente en dicho ejercicio.
+Las rentas derivadas de la prestación por la contingencia de incapacidad cubierta en un seguro, cuando sea percibida por el acreedor hipotecario del contribuyente como beneficiario del mismo, con la obligación de amortizar total o parcialmente la deuda hipotecaria del contribuyente, tendrán el mismo tratamiento fiscal que el que hubiera correspondido de ser el beneficiario el propio contribuyente. No obstante, estas rentas en ningún caso se someterán a retención.
 
-Para la aplicación del tipo de retención previsto en el párrafo anterior, los contribuyentes deberán comunicar al pagador de los rendimientos la concurrencia de dicha circunstancia, quedando obligado el pagador a conservar la comunicación debidamente firmada.
+A estos efectos, el acreedor hipotecario deberá ser una entidad de crédito, u otra entidad que, de manera profesional realice la actividad de concesión de préstamos o créditos hipotecarios.
 
-Este porcentaje se reducirá a la mitad cuando los rendimientos tengan derecho a la deducción en la cuota prevista en el artículo 68.4 de esta Ley.
+> Se modifica por el art. 1.80 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327.
 
 > Se añade, con efectos desde el 5 de julio de 2014, por el art. 122.3 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
 

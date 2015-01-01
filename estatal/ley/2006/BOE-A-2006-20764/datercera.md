@@ -16,10 +16,12 @@ e) Los seguros de vida aptos para esta fórmula contractual no serán los seguro
 
 f) En el condicionado del contrato se hará constar de forma expresa y destacada que se trata de un plan de ahorro individual sistemático y sus siglas quedan reservadas a los contratos que cumplan los requisitos previstos en esta Ley.
 
-g) La primera prima satisfecha deberá tener una antigüedad superior a diez años en el momento de la constitución de la renta vitalicia.
+g) La primera prima satisfecha deberá tener una antigüedad superior a cinco años en el momento de la constitución de la renta vitalicia.
 
 h) La renta vitalicia que se perciba tributará de conformidad con lo dispuesto en el número 2.º del artículo 25.3 a) de esta Ley.
 
 Reglamentariamente podrán desarrollarse las condiciones para la movilización de los derechos económicos.
+
+> Se modifica la letra g) por el art. 1.69 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327.
 
 > Redactada la letra d) conforme a la corrección de errores publicada en BOE núm 57, de 7 de marzo de 2007. Ref. BOE-A-2007-4731

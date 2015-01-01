@@ -1,0 +1,9 @@
+## Disposición adicional octava. Disposición anticipada de los derechos económicos en los sistemas de previsión social complementaria análogos a los planes de pensiones.
+
+Los derechos económicos de los asegurados o mutualistas derivados de primas, aportaciones y contribuciones abonadas a planes de previsión asegurados, planes de previsión social empresarial y contratos de seguro concertados con mutualidades de previsión social contemplados en el artículo 51 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no residentes y sobre el Patrimonio, podrán hacerse efectivos anticipadamente en los supuestos excepcionales de liquidez y de disposición anticipada previstos para los planes de pensiones en el apartado 8 del artículo 8 de esta Ley, en los términos y condiciones establecidos en dicho precepto y en las normas que lo desarrollan reglamentariamente.
+
+En el caso de los planes de previsión social empresarial y los concertados con mutualidades de previsión social para los trabajadores de las empresas, la disposición anticipada de derechos derivados de primas, aportaciones o contribuciones realizadas con al menos diez años de antigüedad será posible si así lo permite el compromiso y se prevé en la correspondiente póliza de seguro o reglamento de prestaciones. En el caso de que la entidad aseguradora cuente con inversiones afectas el derecho de disposición anticipada se valorará por el valor de mercado de los activos asignados.
+
+> Téngase en cuenta que esta disposición añadida por la disposición final 1.4 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327. entra en vigor el 1 de enero de 2015.
+
+> Se añade por la disposición final 1.4 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327.
