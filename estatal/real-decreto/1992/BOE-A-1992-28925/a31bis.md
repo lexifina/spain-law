@@ -16,7 +16,7 @@ d) La solicitud de devolución deberá contener:
 
 Asimismo, cuando se trate de un empresario o profesional titular de un establecimiento permanente situado en el territorio de aplicación del Impuesto, deberá manifestarse en dicha declaración que no se han realizado entregas de bienes ni prestaciones de servicios desde ese establecimiento permanente durante el periodo a que se refiera la solicitud.
 
-No obstante, los empresarios o profesionales no establecidos en la Comunidad que se acojan al régimen especial aplicable a los servicios prestados por vía electrónica, regulado en los artículos 163 bis a 163 quáter de la Ley del Impuesto, no estarán obligados al cumplimiento de lo dispuesto en este número 1.º
+No obstante, los empresarios o profesionales no establecidos en la Comunidad que se acojan a los regímenes especiales aplicables a los servicios de telecomunicaciones, de radiodifusión o de televisión y a los prestados por vía electrónica, regulados en el capítulo XI del Título IX de la Ley del Impuesto, no estarán obligados al cumplimiento de lo dispuesto en este número 1.º respecto de las operaciones acogidas a dichos regímenes.
 
 2.º Compromiso suscrito por el solicitante o su representante de reembolsar a la Hacienda Pública el importe de las devoluciones que resulten improcedentes.
 
@@ -31,5 +31,7 @@ No obstante, los empresarios o profesionales no establecidos en la Comunidad que
 No obstante, cuando la solicitud se refiera al conjunto de operaciones realizadas durante un año natural, su importe no podrá ser inferior a 50 euros.
 
 5. La tramitación y resolución de las solicitudes de devolución a que se refiere este artículo se realizarán de acuerdo con lo dispuesto en los apartados 6 a 11 del artículo 31 de este Reglamento.
+
+> Se modifica el apartado 1.d).1 por el art. 1.7 del Real Decreto 1073/2014, de 19 de diciembre. Ref. BOE-A-2014-13252.
 
 > Se añade por el art. 1.4 del Real Decreto 192/2010, de 26 de febrero. Ref. BOE-A-2010-3370
