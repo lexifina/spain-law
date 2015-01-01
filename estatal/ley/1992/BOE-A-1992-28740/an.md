@@ -22,15 +22,35 @@ Quinto. Régimen de depósito distinto de los aduaneros:
 
 Definición del régimen:
 
-a) En relación con los bienes objeto de Impuestos Especiales, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable en los supuestos de fabricación, transformación o tenencia de los productos objeto de los Impuestos Especiales de fabricación en fábricas o depósitos fiscales, de circulación de los referidos productos entre dichos establecimientos y de importación de los mismos con destino a fábrica o depósito fiscal.
+a) En relación con los bienes objeto de Impuestos Especiales, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable en los supuestos de fabricación, transformación o tenencia de productos objeto de los Impuestos Especiales de fabricación en fábricas o depósitos fiscales, de circulación de los referidos productos entre dichos establecimientos y de importación de los mismos con destino a fábrica o depósito fiscal.
 
 Lo dispuesto en el párrafo anterior resultará igualmente aplicable al gas natural entregado a través de una red situada en el territorio de la Comunidad o de cualquier red conectada a dicha red.
 
-b) En relación con los demás bienes, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable a los bienes excluidos del régimen de depósito aduanero por razón de su origen o procedencia con sujeción, en lo demás, a las mismas normas que regulan el mencionado régimen aduanero.
+b) En relación con los demás bienes, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable a los bienes excluidos del régimen de depósito aduanero por razón de su origen o procedencia, con sujeción en lo demás, a las mismas normas que regulan el mencionado régimen aduanero.
 
 También se incluirán en este régimen los bienes que se negocien en mercados oficiales de futuros y opciones basados en activos no financieros, mientras los referidos bienes no se pongan a disposición del adquirente.
 
-El régimen de depósito distinto de los aduaneros a que se refiere este párrafo b) no será aplicable a los bienes destinados a su entrega a personas que no actúen como empresarios o profesionales con excepción de los destinados a ser introducidos en las tiendas libres de impuestos.
+El régimen de depósito distinto de los aduaneros a que se refiere esta letra b) no será aplicable a los bienes destinados a su entrega a personas que no actúen como empresarios o profesionales con excepción de los destinados a ser introducidos en las tiendas libres de impuestos.
+
+Los titulares de los depósitos a que se refiere este precepto serán responsables subsidiarios del pago de la deuda tributaria que corresponda a la salida o abandono de los bienes de estos depósitos, con excepción de aquéllos a que se refiere la letra a) de esta disposición, independientemente de que puedan actuar como representantes fiscales de los empresarios o profesionales no establecidos en el ámbito espacial del impuesto.
+
+> Téngase en cuenta que esta modificación del apartado 5 establecida por el art. 41 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329. es aplicable a partir del 1 de enero de 2016.
+
+> Redacción anterior:
+
+> Quinto. Régimen de depósito distinto de los aduaneros:
+
+> Definición del régimen:
+
+> a) En relación con los bienes objeto de Impuestos Especiales, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable en los supuestos de fabricación, transformación o tenencia de los productos objeto de los Impuestos Especiales de fabricación en fábricas o depósitos fiscales, de circulación de los referidos productos entre dichos establecimientos y de importación de los mismos con destino a fábrica o depósito fiscal.
+
+> Lo dispuesto en el párrafo anterior resultará igualmente aplicable al gas natural entregado a través de una red situada en el territorio de la Comunidad o de cualquier red conectada a dicha red.
+
+> b) En relación con los demás bienes, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable a los bienes excluidos del régimen de depósito aduanero por razón de su origen o procedencia con sujeción, en lo demás, a las mismas normas que regulan el mencionado régimen aduanero.
+
+> También se incluirán en este régimen los bienes que se negocien en mercados oficiales de futuros y opciones basados en activos no financieros, mientras los referidos bienes no se pongan a disposición del adquirente.
+
+> El régimen de depósito distinto de los aduaneros a que se refiere este párrafo b) no será aplicable a los bienes destinados a su entrega a personas que no actúen como empresarios o profesionales con excepción de los destinados a ser introducidos en las tiendas libres de impuestos.
 
 Sexto. Liquidación del impuesto en los casos comprendidos en el artículo 19, número 5.o, párrafo segundo, de esta Ley.
 
@@ -98,7 +118,43 @@ Los lingotes de chatarra son generalmente de hierro o acero muy aleado, toscamen
 | 47.07 | Desperdicios o desechos de papel o cartón. Los desperdicios de papel o cartón comprenden las raspaduras, recortes, hojas rotas, periódicos viejos y publicaciones, maculaturas y pruebas de imprenta y artículos similares. La definición comprende también las manufacturas viejas de papel o de cartón vendidas para su reciclaje. |
 | 70.01 | Desperdicios o desechos de vidrio. Los desperdicios o desechos de vidrio comprenden los residuos de la fabricación de objetos de vidrio, así como los producidos por su uso o consumo. Se caracterizan generalmente por sus aristas cortantes. Baterias de plomo recuperadas. |
 
-Octavo. (Derogado)
+Octavo. Relación de bienes a que se refiere el artículo 91.Uno.1.6.ºc) de esta Ley.
+
+– Las gafas, lentes de contacto graduadas y los productos necesarios para su uso, cuidado y mantenimiento.
+
+– Dispositivos de punción, dispositivos de lectura automática del nivel de glucosa, dispositivos de administración de insulina y demás aparatos para el autocontrol y tratamiento de la diabetes.
+
+– Dispositivos para el autocontrol de los cuerpos cetónicos y de la coagulación sanguínea y otros dispositivos de autocontrol y tratamiento de enfermedades discapacitantes como los sistemas de infusión de morfina y medicamentos oncológicos.
+
+– Bolsas de recogida de orina, absorbentes de incontinencia y otros sistemas para incontinencia urinaria y fecal, incluidos los sistemas de irrigación.
+
+– Prótesis, ortesis, ortoprótesis e implantes quirúrgicos, en particular los previstos en el Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, incluyendo sus componentes y accesorios.
+
+– Las cánulas de traqueotomía y laringectomía.
+
+– Sillas terapéuticas y de ruedas, así como los cojines antiescaras y arneses para el uso de las mismas, muletas, andadores y grúas para movilizar personas con discapacidad.
+
+– Plataformas elevadoras, ascensores para sillas de ruedas, adaptadores de sillas en escaleras, rampas portátiles y barras autoportantes para incorporarse por sí mismo.
+
+– Aparatos y demás instrumental destinados a la reducción de lesiones o malformaciones internas, como suspensorios y prendas de compresión para varices.
+
+– Dispositivos de tratamiento de diálisis domiciliaria y tratamiento respiratorios.
+
+– Los equipos médicos, aparatos y demás instrumental, destinados a compensar un defecto o una incapacidad, que estén diseñados para uso personal y exclusivo de personas con deficiencia visual y auditiva.
+
+– Los siguientes productos de apoyo que estén diseñados para uso personal y exclusivo de personas con deficiencia física, mental, intelectual o sensorial:
+
+• Productos de apoyo para vestirse y desvestirse: calzadores y sacabotas con mangos especiales para poder llegar al suelo, perchas, ganchos y varillas para sujetar la ropa en una posición fija.
+
+• Productos de apoyo para funciones de aseo: alzas, reposabrazos y respaldos para el inodoro.
+
+• Productos de apoyo para lavarse, bañarse y ducharse: cepillos y esponjas con mangos especiales, sillas para baño o ducha, tablas de bañera, taburetes, productos de apoyo para reducir la longitud o profundidad de la bañera, barras y asideros de apoyo.
+
+• Productos de apoyo para posibilitar el uso de las nuevas tecnologías de la información y comunicación, como ratones por movimientos cefálicos u oculares, teclados de alto contraste, pulsadores de parpadeo, software para posibilitar la escritura y el manejo del dispositivo a personas con discapacidad motórica severa a través de la voz.
+
+• Productos de apoyo y dispositivos que posibilitan a personas con discapacidad motórica agarrar, accionar, alcanzar objetos: pinzas largas de agarre y adaptadores de agarre.
+
+• Estimuladores funcionales.
 
 Noveno. Peso de los lingotes o láminas de oro a efectos de su consideración como oro de inversión.
 
@@ -126,6 +182,25 @@ Se considerarán oro de inversión a efectos de esta Ley los lingotes o láminas
 | 5 | tael. |
 | 1 | tael. |
 | 10 | tolas. |
+
+Décimo. Entregas de plata, platino, paladio, así como la entrega de teléfonos móviles, consolas de videojuegos, ordenadores portátiles y tabletas digitales.
+
+| Cód. NCE | Designación de la mercancía |
+| --- | --- |
+| 7106 10 00 | Plata en polvo |
+| 7106 91 00 | Plata en bruto |
+| 7106 92 00 | Plata semilabrada |
+| 7110 11 00 | Platino en bruto, o en polvo |
+| 7110 19 | Platino. Los demás |
+| 7110 21 00 | Paladio en bruto o en polvo |
+| 7110 29 00 | Paladio. Los demás |
+| 8517 12 | Teléfonos móviles (celulares) y los de otras redes inalámbricas. Exclusivamente por lo que se refiere a los teléfonos móviles |
+| 9504 50 | Videoconsolas y máquinas de videojuego excepto las de la subpartida 950430. Exclusivamente por lo que se refiere a las consolas de videojuego |
+| 8471 30 | Máquinas automáticas para tratamiento o procesamiento de datos, portátiles, de peso inferior a 10 kg, que estén constituidas, al menos, por una unidad central de proceso, un teclado y un visualizador. Exclusivamente por lo que se refiere a ordenadores portátiles y tabletas digitales. |
+
+> Se añaden los apartados 8 y 10 y se modifica el 5 por el art. 1.41 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
+
+> La modificación del apartado 5 es aplicable a partir del 1 de enero de 2016 según establece la disposición final 5.
 
 > Se modifica el apartado 5 a) por el art. 79.13 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
 
