@@ -1,0 +1,7 @@
+La Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias, en su disposición final sexta, establece que por el Ministerio de Agricultura, Pesca y Alimentación, en la actualidad, Ministerio de Agricultura, Alimentación y Medio Ambiente, se realizará periódicamente la determinación de la cuantía de la renta de referencia de conformidad con lo previsto en el apartado 12 del artículo 2 de esta Ley. Este precepto dispone que se llevará a cabo de acuerdo con lo establecido al respecto en la normativa de la Unión Europea y teniendo en cuenta los datos de salarios publicados por el Instituto Nacional de Estadística.
+
+En su virtud, dispongo que la renta de referencia a que se refiere el apartado 12 del artículo 2 de la Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias, queda fijada para el año 2015 en la cuantía de 28.051,20 euros.
+
+La presente orden tendrá efectos desde el día 1 de enero de 2015.
+
+Contra esta orden, que agota la vía administrativa, podrá recurrirse, potestativamente, en reposición ante el titular del Departamento, en el plazo de un mes, contado a partir del día siguiente al de su publicación o ser impugnada directamente ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional en el plazo de dos meses, también contado desde el día siguiente al de su publicación en el «Boletín Oficial del Estado». No podrán simultanearse ambas vías de recurso.
