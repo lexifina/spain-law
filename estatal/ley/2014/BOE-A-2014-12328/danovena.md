@@ -1,0 +1,3 @@
+## Disposición adicional novena. Participaciones preferentes.
+
+El régimen de información establecido en el artículo 44 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, resultará de aplicación a las remuneraciones derivadas de las participaciones preferentes que cumplan los requisitos previstos en la Disposición adicional primera de la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito, cualquiera que sea la calificación contable.

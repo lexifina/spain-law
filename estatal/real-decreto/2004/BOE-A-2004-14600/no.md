@@ -1,0 +1,1 @@
+Téngase en cuenta que esta norma continúa vigente, en tanto no se oponga a lo previsto en la Ley 27/2014, de 27 de noviembre Ref. BOE-A-2014-12328, según establece la disposición derogatoria única.3 de la indicada disposición.

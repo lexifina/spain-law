@@ -1,0 +1,3 @@
+## Disposición transitoria octava. Régimen fiscal de las transmisiones de activos realizadas en cumplimiento de disposiciones con rango de Ley de la normativa de defensa de la competencia.
+
+Las transmisiones de elementos patrimoniales que se hayan realizado en los términos establecidos en la Disposición adicional cuarta del Texto Refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, según redacción vigente en períodos impositivos iniciados con anterioridad a 1 de enero de 2015, se regirán por lo en ella establecido, aun cuando la reinversión y demás requisitos se produzcan en períodos impositivos iniciados a partir de dicha fecha.

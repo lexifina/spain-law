@@ -1,0 +1,3 @@
+## Disposición transitoria trigésima quinta. Régimen fiscal aplicable a activos intangibles adquiridos con anterioridad a 1 de enero de 2015.
+
+El régimen fiscal establecido en los artículos 12.2 y 13.3 de esta Ley no resultará de aplicación a los activos intangibles, incluido el fondo de comercio, adquiridos en períodos impositivos iniciados con anterioridad a 1 de enero de 2015, a entidades que formen parte con la adquirente del mismo grupo de sociedades según los criterios establecidos en el artículo 42 del Código de Comercio, con independencia de la residencia y de la obligación de formular cuentas anuales consolidadas.

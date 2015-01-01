@@ -1,0 +1,3 @@
+## Disposición adicional duodécima. Grupos fiscales con entidad dominante sometida a la normativa foral de la Comunidad Autónoma del País Vasco.
+
+A efectos del régimen de consolidación fiscal establecido en el Capítulo VI del Título VII de esta Ley, los grupos fiscales en los que la entidad dominante sea una entidad residente en territorio español y sometida a la normativa foral en el Impuesto sobre Sociedades de conformidad con el Concierto Económico con la Comunidad Autónoma del País Vasco, se equipararán en su tratamiento fiscal a los grupos fiscales en los que la entidad dominante sea no residente en territorio español.
