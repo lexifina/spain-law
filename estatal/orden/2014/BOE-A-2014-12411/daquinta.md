@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Conexión con los Registros de Víctimas de Accidentes de Tráfico de las comunidades autónomas con competencias ejecutivas en materia de tráfico.
+
+La Dirección General de Tráfico determinará, de manera coordinada con las comunidades autónomas con competencias ejecutivas en materia de tráfico y circulación de vehículos a motor que, conforme a lo dispuesto en el artículo 94.2 del texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, hayan creado en sus respectivos ámbitos territoriales sus propios Registros de Víctimas de Accidentes de Tráfico, los procesos necesarios para incluir la información sobre accidentes en el Registro Nacional de Víctimas de Accidentes de Tráfico.
