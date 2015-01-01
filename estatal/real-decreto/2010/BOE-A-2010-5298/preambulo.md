@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 118, de 14 de mayo de 2010. Ref. BOE-A-2010-7713
+Norma derogada, con efectos desde el 1 de enero de 2015, por la disposición derogatoria única.1 del Real Decreto 774/2014, de 12 de septiembre. Ref. BOE-A-2014-9337.
