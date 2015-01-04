@@ -1,0 +1,1 @@
+Norma derogada, con la excepción de la disposición adicional primera que se mantendrá en vigor en todo aquello que resulte aplicable de acuerdo con la Ley Orgánica 2/2006, de 3 de mayo, en su redacción dada por la Ley Orgánica 8/2013, de 9 de diciembre, por la disposición derogatoria única.b) del Real Decreto 1105/2014, de 26 de diciembre. Ref. BOE-A-2015-37.
