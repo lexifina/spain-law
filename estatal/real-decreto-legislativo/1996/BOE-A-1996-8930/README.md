@@ -221,6 +221,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 157 bis](a157bis.md)
 - [Artículo 158](a158.md)
 - [Artículo 158 bis](a158bis.md)
+- [Artículo 158 ter](a158ter.md)
 - [Artículo 159](a159.md)
 - [LIBRO IV](liv-2.md)
 - [TÍTULO V](tv-3.md)
