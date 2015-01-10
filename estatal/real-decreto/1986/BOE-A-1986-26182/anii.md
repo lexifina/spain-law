@@ -1,46 +1,36 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_036.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_037.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_037.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_038.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_038.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_039.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_039.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_040.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_040.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_041.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_041.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_042.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_042.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_043.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_043.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_044.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_044.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_045.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_045.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_046.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_046.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_047.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_047.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_048.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_048.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_049.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_049.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_050.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_050.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_051.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_051.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_052.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_053.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_054.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_055.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/158/06799_056.png)
+> Se modifica por la Orden IET/2556/2014, de 26 de diciembre. Ref. BOE-A-2015-182.
 
 > Se modifica por la Orden IET/1105/2014, de 26 de junio. Ref. BOE-A-2014-6799.
 
