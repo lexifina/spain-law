@@ -1,0 +1,7 @@
+## Disposición adicional tercera. Alquiler de embarcaciones de recreo españolas.
+
+1. Las embarcaciones de recreo españolas se podrán alquilar a cualquier persona física siempre que ésta disponga de un título de recreo o un certificado habilitante en vigor, pudiendo ejercer el gobierno de dichas embarcaciones dentro de las atribuciones que el título o el certificado le confieran; el cual, deberá estar expedido por el país de su nacionalidad o el de su residencia y siempre que éstos pertenezca al espacio económico europeo o estén recogidos en el anexo IX de este real decreto.
+
+2. En el supuesto de expedición por el país de residencia, ésta se deberá acreditar en el país otorgante del título en el momento de la expedición de éste, para lo cual, el interesado deberá aportar cualquier documento que en derecho justifique la residencia, y en concreto, para los ciudadanos españoles, de acuerdo con lo dispuesto en el artículo 2 del Real Decreto 3425/2000, de 15 de diciembre, sobre inscripción de ciudadanos españoles en los registros de matrícula de oficinas consulares en el extranjero.
+
+3. Las embarcaciones españolas también se podrán alquilar sin tripulación y para la navegación de recreo, a ciudadanos en posesión de un título profesional en vigor expedido por un país firmante del Convenio STCW, según los requisitos de su capítulo II, sin que en ningún caso se puedan sobrepasar las atribuciones que le otorga el título profesional.

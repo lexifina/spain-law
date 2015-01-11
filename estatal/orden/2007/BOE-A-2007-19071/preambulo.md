@@ -1,1 +1,1 @@
-> Incluye las correcciones de errores publicadas en BOE núms. 47, de 23 de febrero de 2008. Ref. BOE-A-2008-3418. y 55, de 4 de marzo de 2008. Ref. BOE-A-2008-4139.
+Norma derogada, con efectos desde el 11 de enero de 2015, por la disposición derogatoria única del Real Decreto 875/2014, de 10 de octubre. Ref. BOE-A-2014-10344. Téngase en cuenta las excepciones recogidas en la disposición final 4 del citado Real Decreto.
