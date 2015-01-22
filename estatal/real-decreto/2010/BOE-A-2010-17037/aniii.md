@@ -32,7 +32,11 @@
 
 1.4.3 El material rodante y los sistemas de alimentación de energía deben concebirse y fabricarse de modo que sean compatibles desde el punto de vista electromagnético con las instalaciones, los equipos y las redes públicas o privadas con las que pudieran interferir.
 
-1.4.4 La explotación del sistema ferroviario debe respetar los niveles reglamentarios en materia de molestias sonoras.
+1.4.4 El diseño y la explotación del sistema ferroviario no debe dar lugar a la generación de un nivel de ruido inadmisible:
+
+– en las zonas cercanas a infraestructuras ferroviarias, según se definen en el artículo 3 de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, y
+
+– en la cabina del conductor.
 
 1.4.5 La explotación del sistema ferroviario no debe provocar en el suelo un nivel de vibraciones inadmisible para las actividades y el medio por el que discurra, en las proximidades de la infraestructura y en estado normal de mantenimiento.
 
@@ -149,5 +153,7 @@ Para estas aplicaciones telemáticas se garantizará: que las bases de datos, lo
 2.7.5 Accesibilidad.
 
 2.7.5.1 Deben adoptarse las medidas oportunas para garantizar que el subsistema de aplicaciones telemáticas al servicio de los pasajeros ofrezca la funcionalidad necesaria exigida para asegurar la accesibilidad de las personas con discapacidad y las personas de movilidad reducida.
+
+> Se modifica el apartado 1.4.4 por el art. único de la Orden FOM/22/2015, de 19 de enero. Ref. BOE-A-2015-466.
 
 > Se modifica por el artículo único de la Orden FOM/421/2014, de 13 de marzo. Ref. BOE-A-2014-2924.
