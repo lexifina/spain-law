@@ -30,7 +30,7 @@ m) La Orden del Ministerio de Agricultura, Pesca y Alimentación de 4 de agosto 
 
 n) La Orden del Ministerio de Agricultura, Pesca y Alimentación de 29 de noviembre de 1995 por la que se establecen los principios uniformes para la evaluación y autorización de productos fitosanitarios.
 
-ñ) La Orden del Ministerio de Agricultura, Pesca y Alimentación de 11 de diciembre de 1995 por la que se establecen las disposiciones relativas a las autorizaciones de ensayos y experiencias con productos fitosanitarios
+ñ) (Suprimido)
 
 o) La Orden del Ministerio de la Presidencia de 28 de marzo de 1996, por la que se establecen normas para la evaluación de sustancias activas de productos fitosanitarios para su inclusión en la lista comunitaria del Anexo I de la Directiva 91/414/CEE del Consejo, de 15 de julio, relativa a la comercialización de los productos fitosanitarios.
 
@@ -39,3 +39,5 @@ p) La Orden del Ministerio de Agricultura, Pesca y Alimentación de 14 de abril 
 q) La Resolución de la Dirección General de Agricultura de 8 de mayo de 1967 por la que se dan instrucciones para la redacción de etiquetas de productos fitosanitarios.
 
 r) La Resolución de la Dirección General de la Producción Agraria de 15 de septiembre de 1976, sobre registro de productos fitosanitarios.
+
+> Se suprime el apartado ñ) por la disposición final 1 del Real Decreto 9/2015, de 16 de enero. Ref. BOE-A-2015-710.

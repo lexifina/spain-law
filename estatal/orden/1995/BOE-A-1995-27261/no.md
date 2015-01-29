@@ -1,1 +1,1 @@
-Norma derogada, con efectos de 4 de diciembre de 2014, por la disposición derogatoria única.ñ) del Real Decreto 971/2014, de 21 de noviembre. Ref. BOE-A-2014-12561
+> Esta norma recupera su vigencia, con efectos de 29 de enero de 2015, por la supresión de la letra ñ) de la disposición derogatoria única del Real Decreto 971/2014, de 21 de noviembre. Ref. BOE-A-2014-12561, que la derogaba, según establece la disposición final 1 del Real Decreto 9/2015, de 16 de enero. Ref. BOE-A-2015-710#df
