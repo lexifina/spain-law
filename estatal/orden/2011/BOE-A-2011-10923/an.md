@@ -8,15 +8,11 @@ Las embarcaciones que accedan a la reserva marina para la práctica de actividad
 
 A) Pesca marítima profesional.
 
-1.º La actividad pesquera profesional dentro de la reserva marina no estará permitida los sábados, domingos ni festivos de ámbito nacional y autonómico andaluz. Los artes deberán ser retirados el viernes a mediodía o al mediodía de la víspera del día festivo, y podrán volver a ser calados el domingo a partir de las 16:00 horas o a partir de las 16:00 del día festivo anterior al día laborable.
+1.º El esfuerzo pesquero a realizar por los buques de pesca profesional en el ámbito de la reserva marina, se atendrá a lo establecido en el artículo 3.2 del Real Decreto 395/2006, de 31 de marzo, por el que se establecen medidas de ordenación de la flota pesquera que opera con artes fijos y artes menores en el Mediterráneo, por lo que el periodo autorizado para ejercer la pesca con artes fijos o artes menores será, para cada buque, de cinco días por semana y 16 horas por día. Los horarios de entrada y salida de puerto serán los establecidos en la correspondiente normativa de jornadas y horarios de la actividad de pesca profesional. En todo caso, los aparejos y artes de pesca deberán ser retirados de su calamento durante 41 horas continuadas por semana y transportados a puerto.
 
 2.º Todas las capturas que tengan lugar dentro de la reserva marina están sometidas a la limitación de tallas y especies de captura prohibida, según la normativa que regule estos aspectos en el Caladero Nacional del Mediterráneo y el resto de normativa ambiental aplicable.
 
 3.º La definición y las medidas técnicas de los artes y aparejos permitidos en la Reserva Marina son las establecidas en la normativa que las regula en el caladero nacional del Mediterráneo.
-
-Calamento del trasmallo y del palangrillo: A rumbo de playa (siguiendo cota).
-
-Tiempo máximo de calada: 16 horas.
 
 B) Pesca marítima de recreo.
 
@@ -120,5 +116,7 @@ Deberán informar al servicio de la reserva marina de las inmersiones que preten
 | --- | --- | --- |
 | Los Burros-Los Amarillos | 36º43,831’ N; 002º07,120’ W | 2.000 |
 | El Vapor | 36º42,670’ N; 002º12,340’ W | 2.000 |
+
+> Se modifica la letra A) del apartado 2 por el art. único de la Orden AAA/77/2015, de 21 de enero. Ref. BOE-A-2015-820
 
 > Se modifica el punto 7 del apartado 2.B) por el art. único de la Orden AAA/529/2013, de 2 de abril. Ref. BOE-A-2013-3623
