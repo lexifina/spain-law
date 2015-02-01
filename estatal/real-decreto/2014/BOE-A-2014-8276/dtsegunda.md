@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Permisos de conducción y autorizaciones especiales para transportar mercancías peligrosas expedidos conforme al modelo previsto en el Real Decreto 1257/1999, de 16 de julio.
+
+Los permisos de conducción y las autorizaciones especiales para transportar mercancías peligrosas expedidos conforme al modelo previsto en el Real Decreto 1257/1999, de 16 de julio, continuarán siendo válidos en las mismas condiciones que fueron expedidos hasta que finalice su período de vigencia y se ajustarán a la equivalencia prevista en la disposición transitoria segunda del Reglamento General de Conductores.

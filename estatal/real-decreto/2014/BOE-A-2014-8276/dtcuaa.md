@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Procedimientos de obtención o prórroga de permisos de conducción iniciados con anterioridad a la entrada en vigor de este real decreto.
+
+Aquellos procedimientos para la obtención o prórroga del permiso de conducción de vehículos de las Fuerzas Armadas o de la Guardia Civil o de las autorizaciones especiales para conducir esa clase de vehículos cuando transporten mercancías peligrosas, iniciados con anterioridad a la entrada en vigor de este real decreto, se tramitarán conforme a la normativa vigente en el momento en que se iniciaron, expidiéndose el permiso de conducción o su prórroga conforme al modelo previsto en el anexo I de este real decreto.

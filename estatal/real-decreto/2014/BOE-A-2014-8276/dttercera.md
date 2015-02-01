@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Escuelas y organismos de las Fuerzas Armadas y de la Dirección General de la Guardia Civil facultados para expedir la autorización especial para conducir vehículos que transporten mercancías peligrosas y el permiso de conducción de la clase F.
+
+1. Hasta que se establezca por orden del Ministro del Interior las escuelas y organismos militares y de la Dirección General de la Guardia Civil facultados para expedir la autorización especial para conducir vehículos que transporten mercancías peligrosas, dichas autorizaciones se expedirán por las escuelas y organismos que se determinan en la Orden de 30 de diciembre de 1997 y en la Orden INT/2130/2008, de 9 de julio, respectivamente.
+
+2. Hasta que se establezcan por orden de los Ministros del Interior en el ámbito de la Guardia Civil, o de Defensa en el ámbito de las Fuerzas Armadas, las escuelas y organismos facultados para expedir el permiso de conducción de la clase F, dichos permisos se expedirán por las escuelas y organismos que se determinan por la Orden de 30 de diciembre de 1997 y por la Orden INT/2130/2008, de 9 de julio, respectivamente.
