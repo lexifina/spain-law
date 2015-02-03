@@ -1,0 +1,9 @@
+La Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos, contempla la creación de registros electrónicos en sus artículos 24, 25 y 26, regulación que, según recoge la Exposición de Motivos, persigue posibilitar la presentación por medios electrónicos de cualquier escrito o solicitud ante las Administraciones Públicas.
+
+La Resolución de 8 de septiembre de 2008, de la Presidencia del Comisionado para el Mercado de Tabacos, reguló el registro electrónico en el Comisionado para el Mercado de Tabacos.
+
+El Real Decreto 256/2012, de 27 de enero, por el que se desarrolla la estructura orgánica básica del Ministerio de Hacienda y Administraciones Públicas, en su artículo 18.11.a) adscribe al Ministerio de Hacienda y Administraciones Públicas, a través de la Subsecretaría, entre otros organismos públicos, al Comisionado para el Mercado de Tabacos.
+
+Posteriormente, la Orden HAP/547/2013, de 2 de abril, por la que se crea y regula el Registro Electrónico del Ministerio de Hacienda y Administraciones Públicas, en su artículo 1.2 delimita el ámbito de aplicación del mismo, del que quedan excluidos la Agencia Estatal de Administración Tributaria y los restantes organismos públicos dependientes o adscritos al Ministerio de Hacienda y Administraciones Públicas, si bien éstos podrán utilizar el registro electrónico que regula dicha Orden, previa suscripción de un convenio con la Subsecretaría del Ministerio de Hacienda y Administraciones Públicas y el Presidente del correspondiente organismo, que se publicará en el «Boletín Oficial del Estado» y en las sedes electrónicas correspondientes.
+
+En aplicación de lo dispuesto en el artículo 1.2.a) de la Orden HAP/547/2013, de 2 de abril, el Presidente del Comisionado para el Mercado de Tabacos y la Subsecretaria de Hacienda y Administraciones Públicas acuerdan lo siguiente:
