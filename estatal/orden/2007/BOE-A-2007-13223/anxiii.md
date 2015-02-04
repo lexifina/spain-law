@@ -86,137 +86,125 @@ RECHAZO DE LA TRANSMISIÓN
 | Dato específico no capturado cuando sea exigido | LEVE |
 | TIPO DE REGISTRO 3 (REGISTRO DE DETALLE) |  |
 | (Liquidaciones) |  |
-| Tipo de registro distinto de 3 | GRAVE |
-| Número de secuencia con saltos en la numeración | GRAVE |
-| Código de modelo distinto a 002, 003, 004 ,008, 010, 012, 031, 032, 060, 061 o 069 | GRAVE |
-| Clave de justificante |  |
-| – No se ajusta a la configuración definida para cada código de modelo | GRAVE |
+| Tipo de registro distinto de 3: | GRAVE |
+| Número de secuencia con saltos en la numeración: | GRAVE |
+| Código de modelo distinto a 002, 003, 004 ,008, 010, 031, 032, 060, 061 o 069: | GRAVE |
+| Clave de justificante: |  |
+| – No se ajusta a la configuración definida para cada código de modelo: | GRAVE |
 
-Modelo 002 Clave de justificante (13 posiciones)
+Modelo 002. Clave de justificante (13 posiciones).
 
-Posiciones 1-2: Delegación (01 a 56)
+Posiciones 1-2: Delegación (01 a 56).
 
-Posiciones 3-4: Numérico
+Posiciones 3-4: Numérico.
 
-Posiciones 5-6: Valores permitidos:
+Posiciones 5-6: Valores permitidos: ''00 a 12'', ''28'' y ''60''.
 
-00 a 12 y 28
+Posiciones 7-12: Numérico.
 
-Posiciones 7-12: Numérico
+Posición 13: Carácter de control.
 
-Posición 13: Carácter de control
+Modelo 003. Clave de justificante (13 posiciones).
 
-Modelo 003 Clave de justificante (13 posiciones)
+Posiciones 1-2: Delegación (01 a 56).
 
-Posiciones 1-2: Delegación (01 a 56)
+Posiciones 3-4: Numérico.
 
-Posiciones 3-4: Numérico
+Posiciones 5-6: Siempre ''20''.
 
-Posiciones 5-6: Siempre "20">Posiciones 5-6: Siempre "20"
+Posiciones 7-12: Numérico.
 
-Posiciones 7-12: Numérico
+Posición 13: Carácter de control.
 
-Posición 13: Carácter de control
+Modelo 004. Clave de justificante (13 posiciones).
 
-Modelo 004 Clave de justificante (13 posiciones)
+Posiciones 1-2: Delegación (01 a 56).
 
-Posiciones 1-2 Delegación (01 a 56)
+Posiciones 3-4: Numérico.
 
-Posiciones 3-4: Numérico
+Posiciones 5-6: ''70'' y ''71''.
 
-Posiciones 5-6: 70 y 71
+Posiciones 7-12: Numérico.
 
-Posiciones 7-12: Numérico
+Posición 13: Dígito de control.
 
-Posición 13: Dígito de control
+Modelo 008. Clave de justificante (13 posiciones).
 
-Modelo 008 Clave de justificante (13 posiciones)
+Posiciones 1-2: Delegación (01 a 56).
 
-Posiciones 1-2:Delegación (01 a 56)
+Posiciones 3-4: Numérico.
 
-Posiciones 3-4: Numérico
+Posiciones 5-6: ''22'', ''25'', ''27'', ''30'' y ''60''.
 
-Posiciones 5-6: 22, 25 y 27
+Posiciones 7-12: Numérico.
 
-Posiciones 7-12: Numérico
+Posición 13: Carácter de control.
 
-Posición 13: Carácter de control
+Modelo 010. Clave de justificante (13 posiciones).
 
-Modelo 010 Clave de justificante (13 posiciones)
+Posiciones 1-2: Delegación (01 a 56).
 
-Posiciones 1-2:Delegación (01 a 56)
+Posiciones 3-4: Numérico.
 
-Posiciones 3-4: Numérico
+Posiciones 5-6: ''13 a 19'', ''22'', ''25'', ''27'' y del ''60'' al ''64''.
 
-Posiciones 5-6: “13 a 19”, “22”,“25”, “27” y del “60” al “65
+Posiciones 7-12: Numérico.
 
-Posiciones 7-12: Numérico
+Posición 13: Carácter de control.
 
-Posición 13: Carácter de control
+Modelo 031. Clave de justificante (13 posiciones).
 
-Modelo 012 Clave de justificante (13 posiciones)
+Posiciones 1-2: Delegación (01 a 99).
 
-Posiciones 1-2: Delegación(01 a 56)
+Posiciones 3-4: Numérico.
 
-Posiciones 3-4: Numérico
+Posición 5: ''5''.
 
-Posiciones 5-6: Siempre "12">Posiciones 5-6: Siempre "12"
+Posiciones 6-12: Numérico.
 
-Posiciones 7-12: Numérico
+Posición 13: Carácter de control.
 
-Posición 13: Carácter de control
+Modelo 032. Clave de justificante (13 posiciones).
 
-Modelo 031 Clave de justificante (13 posiciones)
+Posiciones 1-2: Delegación (91 ó 92).
 
-Posiciones 1-2: Delegación (01 a 99)
+Posiciones 3-4: Numérico.
 
-Posiciones 3-4: Numérico
+Posición 5: ''5''.
 
-Posiciones 5-6: «50, 51 y 59»
+Posiciones 6-12: Numérico.
 
-Posiciones 7-12: Numérico
+Posición 13: Carácter de control.
 
-Posición 13: Carácter de control
+Modelo 060. Clave de justificante (13 posiciones).
 
-Modelo 032 Clave de justificante (13 posiciones)
+Posiciones 1-12: Numérico.
 
-Posiciones 1-2: Delegación (91 ó 92)
+Posición 13: Carácter de control.
 
-Posiciones 3-4: Numérico
+Modelo 061. Clave de justificante (13 posiciones).
 
-Posiciones 5-6: "52 y 58">Posiciones 5-6: "52 y 58"
+Posiciones 1-12: Numérico.
 
-Posiciones 7-12: Numérico
+Posición 13: Carácter de control.
 
-Posición 13: Carácter de control
+Modelo 069. Clave de justificante (13 posiciones).
 
-Modelo 060 Clave de justificante (13 posiciones)
+Posiciones 1-12: Numérico.
 
-Posiciones 1-12: Numérico
+Posición 13: Carácter de control.
 
-Posición 13: Carácter de control
-
-Modelo 061 Clave de justificante (13 posiciones)
-
-Posiciones 1-12: Numérico
-
-Posición 13: Carácter de control
-
-Modelo 069 Clave de justificante (13 posiciones)
-
-Posiciones 1-12: Numérico
-
-Posición 13: Carácter de control
-
-| Justificante no cumple rutina carácter de control | GRAVE |
+| Justificante no cumple rutina carácter de control: | GRAVE |
 | --- | --- |
-| Justificante no reconocido por el sistema (excepto modelos 060, 061 y 069) | LEVE |
-| Fecha de ingreso ilógica | GRAVE |
-| Importe del ingreso |  |
-| – Igual a cero | GRAVE |
-| – Distinto al que figura en el justificante de los modelos 002, 004, 010, 012, 031, 032, 060, 061 y 069 | LEVE |
-| Código de sucursal del ingreso desconocida | GRAVE |
-| Código de NIF no existe o con dígito de control erróneo | LEVE |
+| Justificante no reconocido por el sistema (excepto modelos 060, 061 y 069): | LEVE |
+| Fecha de ingreso ilógica: | GRAVE |
+| Importe del ingreso: |  |
+| – Igual a cero: | GRAVE |
+| – Distinto al que figura en el justificante de los modelos 002, 004, 010, 031, 032, 060, 061 y 069: | LEVE |
+| Código de sucursal del ingreso desconocida: | GRAVE |
+| Código de NIF no existe o con dígito de control erróneo: | LEVE |
+
+> Téngase en cuenta que esta redacción del apartado "Tipo de Registro 3 (Registro de detalle) (Liquidaciones)" establecida por el art. único.7 de la Orden HAP/122/2015, de 23 de enero. Ref. BOE-A-2015-939. no será de aplicación hasta que, en los términos previstos en el art. 29 del Reglamento General de Recaudación Ref. BOE-A-2005-14803#a29., se inicie la segunda quincena recaudatoria de mayo de 2015, según establece la disposición final 2 de la citada Orden.
 
 TIPO DE REGISTRO 3 (REGISTRO DE DETALLE)
 
@@ -302,3 +290,7 @@ Cualquier error de los descritos se considerará error grave y provocará rechaz
 | Código de Entidad Transmisora es distinta a la del registro tipo 01 | GRAVE |
 | Contador total del número de Entidades Colaboradoras no cuadra | GRAVE |
 | Número total de registros no coincide con los recibidos en la transmisión | GRAVE |
+
+> Se modifica por el art. único.7 de la Orden HAP/122/2015, de 23 de enero. Ref. BOE-A-2015-939.
+
+> Téngase en cuenta que esta modificación no será de aplicación hasta que, en los términos previstos en el art. 29 del Reglamento General de Recaudación Ref. BOE-A-2005-14803#a29., se inicie la segunda quincena recaudatoria de mayo de 2015, según establece la disposición final 2 de la citada Orden.

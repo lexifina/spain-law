@@ -10,6 +10,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 ## Bloques
 
+- [co](co.md)
 - [preambulo](preambulo.md)
 - [CAPITULO I](ci.md)
 - [Artículo 1](a1.md)
@@ -59,3 +60,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [ANEXO XIII](anxiii.md)
 - [ANEXO XIV](anxiv.md)
 - [ANEXO XV](anxv.md)
+- [ANEXO XVI](anxvi.md)
+- [ANEXO XVII](ax.md)
