@@ -2,7 +2,7 @@
 
 A la Escuela Militar de Idiomas, le corresponden las siguientes funciones:
 
-1. Impartir a los militares profesionales y, en su caso, a aquellos alumnos de la enseñanza militar de formación que se determinen, la enseñanza de idiomas extranjeros de interés para las Fuerzas Armadas que se disponga, así como coordinar y unificar los criterios para su enseñanza.
+1. Impartir a los militares profesionales, la enseñanza de idiomas extranjeros de interés para las Fuerzas Armadas que se disponga, así como coordinar y unificar los criterios para su enseñanza.
 
 2. Evaluar los niveles de conocimiento de los idiomas en las Fuerzas Armadas, de acuerdo con las normas que a tal efecto se determinen.
 
@@ -27,3 +27,5 @@ e) Actualización y adecuación de las exigencias requeridas para los grados y n
 7. Promover, normalizar y controlar la enseñanza a distancia de los idiomas en el ámbito de las Fuerzas Armadas.
 
 8. Cuantas otras funciones, en el ámbito de la enseñanza de idiomas, se le encomienden.
+
+> Se modifica el apartado 1 por el art. único de la Orden DEF/143/2015, de 27 de enero. Ref. BOE-A-2015-1055.
