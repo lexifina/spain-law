@@ -1,9 +1,5 @@
 ## ANEXO XII.B
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2010/190/12621_021.png)
+(Derogado)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2010/190/12621_022.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2010/190/12621_023.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2010/190/12621_024.png)
+> Se deroga por la disposición derogatoria única del Real Decreto 22/2015, de 23 de enero. Ref. BOE-A-2015-1158.
