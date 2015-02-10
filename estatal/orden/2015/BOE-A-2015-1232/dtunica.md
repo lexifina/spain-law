@@ -1,0 +1,3 @@
+## Disposición transitoria única. Unidades existentes.
+
+Las unidades de los Cuarteles Generales, de la Fuerza y del Apoyo a la Fuerza actualmente existentes, no contempladas en esta orden ministerial, pasarán a depender de las unidades ahora establecidas en función de las misiones, funciones y cometidos encomendados a éstas, con arreglo a lo que dispongan el JEMAD y los Jefes de Estado Mayor del Ejército de Tierra, de la Armada y del Ejército del Aire, y continuarán ejerciendo sus funciones y cometidos hasta que entren en vigor las disposiciones que complementen o apliquen esta orden ministerial, se produzcan las adaptaciones orgánicas necesarias y se transfieran dichas funciones y cometidos a las nuevas unidades.
