@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación parcial de la Orden FOM/ 233/2006, de 31 de enero, por la que se regulan las condiciones para la homologación del material rodante ferroviario y de los centros de mantenimiento y se fijan las cuantías de la tasa por certificación de dicho material.
+
+Queda derogada parcialmente la Orden FOM/233/2006, de 31 de enero, por la que se regulan las condiciones para la homologación del material rodante ferroviario y de los centros de mantenimiento y se fijan las cuantías de la tasa por certificación de dicho material, en concreto los artículos 3 y 4 del título I, el título II, el título III, el título IV, los artículos 15, 16, 18 y 19 del título V, y el título VII, así como las disposiciones adicionales.
