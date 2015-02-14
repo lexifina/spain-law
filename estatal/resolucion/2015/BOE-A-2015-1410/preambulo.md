@@ -1,0 +1,19 @@
+La Comisión Nacional del Mercado de Valores (CNMV), creada por la Ley 24/1988, de 28 de julio, del Mercado de Valores, es un ente de derecho público con personalidad jurídica propia y plena capacidad pública y privada.
+
+El artículo 24 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, establece que los recursos de la CNMV estarán integrados, entre otros, por las tasas que perciba por la realización de sus actividades o la prestación de sus servicios.
+
+El artículo 13 de la Ley 22/1993, de 29 de diciembre, de Medidas Fiscales, de Reforma del Régimen Jurídico de la Función Pública y de la Protección por Desempleo, tras determinar los elementos esenciales de dichas tasas, autoriza al Gobierno a acordar su aplicación y desarrollar su regulación.
+
+En virtud de la citada autorización se han dictado diversas normas regulatorias de las tasas de la CNMV, manteniéndose de entre todas ellas en vigor hasta el 31 de diciembre de 2014 el Real Decreto 1732/1998, de 31 de julio, sobre tasas aplicables por las actividades y servicios prestados por la CNMV.
+
+A partir del 1 de enero de 2015 entra en vigor la Ley 16/2014, de 30 de septiembre, por la que se regulan las tasas de la CNMV y, sin perjuicio de lo dispuesto en su disposición transitoria, quedan derogados a partir de esa fecha el citado artículo 13 de la Ley 22/1993, de 29 de diciembre, y el Real Decreto 1732/1998, de 31 de julio.
+
+El artículo 84 de la Ley 16/2014, de 30 de septiembre, establece que la gestión y recaudación de las tasas aplicables por la realización de actividades y prestación de servicios corresponderá a la CNMV. Asimismo en aplicación de lo dispuesto en el artículo 85 de la citada ley, con fecha 22 de enero de 2015, el Ministerio de Economía y Competitividad ha aprobado, mediante la Orden ECC/51/2015, los modelos oficiales de liquidación y autoliquidación de las tasas establecidas por la Ley 16/2014, de 30 de septiembre.
+
+Por otra parte, el artículo 45 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, prevé el empleo y aplicación de las técnicas y medios electrónicos, informáticos y telemáticos por las Administraciones Públicas en el desarrollo de su actividad y el ejercicio de sus funciones. Tal previsión ha sido desarrollada por el Real Decreto 263/1996, de 16 de febrero, por el que se regula la utilización de técnicas electrónicas, informáticas y telemáticas por la Administración General del Estado.
+
+La Orden HAC/729/2003, de 28 de marzo, establece los supuestos y las condiciones generales para el pago por vía telemática de las tasas que constituyen recursos de la Administración General del Estado y sus Organismos Públicos.
+
+Esta Orden es aplicable al pago de tasas gestionadas por Organismos Públicos, vinculados a la Administración General del Estado, distintos de los Organismos Autónomos que se citan en la Orden, como es la CNMV y siempre que sean autorizados para ello por el Director del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria (AEAT). Dicha autorización determina que el pago de las tasas que gestione el Organismo Público se pueda hacer efectivo en las entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria que tiene encomendada la AEAT al amparo de lo establecido en los artículos 17 a 19 del Reglamento General de Recaudación y sus normas de desarrollo, en especial las Órdenes de 4 de junio de 1998 y de 11 de diciembre de 2001.
+
+En consecuencia, al objeto de poder llevar a cabo el pago de las tasas de la CNMV por medios telemáticos y en entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria, de acuerdo con lo previsto en las disposiciones tercera y quinta de la Orden HAC/729/2003, de 28 de marzo, y previa autorización de la Directora del Departamento de Recaudación de la AEAT, de fecha 12 de diciembre de 2014, dispongo:
