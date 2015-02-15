@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 53, de 1 de marzo de 2008. Ref. BOE-A-2008-3956.
+Norma derogada, con excepción de aquellas disposiciones relativas a empresas de servicios de inversión, por la disposición derogatoria única b) del Real Decreto 84/2015, de 13 de febrero. Ref. BOE-A-2015-1455.

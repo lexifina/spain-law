@@ -36,24 +36,8 @@ b) La suma de:
 
 4. La diferencia no dará un resultado negativo.
 
-## Método 3: método del valor contable/deducción de los requisitos
+## Método 3: Método combinado.
 
-1. El cálculo de los requisitos de la adecuación del capital adicional de las entidades reguladas de un conglomerado financiero se efectuará sobre la base de las cuentas de cada una de las entidades del grupo.
+El cálculo de los requisitos de la adecuación del capital adicional de las entidades reguladas de un conglomerado financiero se podrá efectuar mediante la combinación de los dos métodos anteriores.
 
-2. Los requisitos de la adecuación del capital adicional se calculará como la diferencia entre:
-
-a) Los recursos propios de la empresa dominante o de la entidad que encabece el conglomerado financiero; los elementos admisibles serán los que se consideren aptos de acuerdo con las normas sectoriales pertinentes, y
-
-b) La suma de:
-
-1.º El requisito de solvencia de la empresa dominante o de la entidad que encabece el conglomerado mencionada en el párrafo a) anterior, y
-
-2.º El mayor entre el valor contable de la participación de aquella en otras entidades del grupo y los requisitos de solvencia de estas entidades; los requisitos de solvencia de estas últimas se tendrán en cuenta en relación con su parte proporcional, de conformidad con lo dispuesto en el artículo 6.3 y en el artículo 7.
-
-3. En el caso de las entidades no reguladas del sector financiero, se calculará un requisito de solvencia teórico. Al valorar los elementos admisibles para el cálculo de los requisitos de la adecuación del capital adicional, las participaciones podrán ser valoradas por el método de puesta en equivalencia.
-
-4. La diferencia no dará un resultado negativo.
-
-## Método 4: combinación de los métodos
-
-El cálculo de los requisitos de la adecuación del capital adicional de las entidades reguladas de un conglomerado financiero se podrá efectuar mediante la combinación de dos o de los tres métodos anteriores.
+> Se modifica por la disposición final 3.12 del Real Decreto 84/2015, de 13 de febrero. Ref. BOE-A-2015-1455.

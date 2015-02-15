@@ -4,7 +4,7 @@ La ley incorpora de forma parcial a nuestro ordenamiento interno la Directiva 20
 
 Sin embargo, la ley estableció una trasposición parcial de la directiva que debe ser completada a través de este real decreto, en virtud de la habilitación al Gobierno para el desarrollo reglamentario que realizó la disposición final segunda de la ley.
 
-El capítulo I del real decreto se dedica al establecimiento del ámbito de aplicación de la regulación, con la delimitación de las entidades sometidas al régimen de supervisión adicional, su régimen de identificación y la determinación de las autoridades competentes relevantes. A este respecto, se debe realizar una especial referencia a la existencia en España desde 1995 de un régimen de supervisión para lo que nuestro ordenamiento denominaba «grupos mixtos no consolidables»; en este sentido, el real decreto adapta su régimen de información en la línea fijada por la regulación de la Ley 5/2005, de 22 de abril, que permitía que el Gobierno extendiera todas o algunas de las obligaciones previstas para los conglomerados financieros a los grupos mixtos no consolidables que no cumplieran el requisito de diversificación sectorial significativa.
+El capítulo I del real decreto se dedica al establecimiento del ámbito de aplicación de la regulación, con la delimitación de las entidades sometidas al régimen de supervisión adicional, su régimen de identificación y la determinación de las autoridades competentes relevantes.
 
 El capítulo II establece los elementos de los que constará la supervisión adicional: políticas de adecuación de capital, operaciones intragrupo, concentración y gestión de riesgos, mecanismos de control interno y honorabilidad y experiencia de los directivos de las sociedades financieras mixtas de cartera.
 
@@ -21,3 +21,5 @@ Asimismo, en el ámbito asegurador se utilizan las modificaciones normativas inc
 En su virtud, a propuesta del Ministro de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de noviembre de 2005,
 
 DISPONGO:
+
+> Se modifica el cuarto párrafo por la disposición final 3.1 del Real Decreto 84/2015, de 13 de febrero. Ref. BOE-A-2015-1455.

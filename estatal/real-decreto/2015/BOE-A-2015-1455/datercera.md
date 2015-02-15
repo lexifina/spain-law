@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Actividades relacionadas con los mercados de valores.
+
+Cuando de los procedimientos administrativos previstos en el título I, capítulo I resulte que una entidad de crédito pretende realizar actividades relacionadas con los mercados de valores, el Banco de España pondrá esta circunstancia en conocimiento de la Comisión Nacional del Mercado de Valores, especificando las actividades a realizar, e indicando, en su caso, si se pretenden realizar como miembro de un mercado secundario oficial, de otro mercado regulado domiciliado en la Unión Europea o de un sistema multilateral de negociación.
