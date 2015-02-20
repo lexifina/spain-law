@@ -1,8 +1,12 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/61/04138_3722.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/43/01656_4793.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/61/04138_3795.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/43/01656_4911.png)
+
+> Se sustituye por el art. único.3 de la Orden HAP/258/2015, de 17 de febrero. Ref. BOE-A-2015-1656
+
+> Esta modificación surtirá efectos respecto de la presentación de las declaraciones formuladas que correspondan a la primera autoliquidación trimestral del ejercicio 2015 y siguientes, según establece la disposición final 3 de la citada Orden.
 
 > Se sustituye por el art. único y anexo I de la Orden EHA/580/2009, de 5 de marzo. Ref. BOE-A-2009-4138
 
