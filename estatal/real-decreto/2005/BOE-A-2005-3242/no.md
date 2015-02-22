@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 76, de 30 de marzo de 2005. Ref. BOE-A-2005-5039.
+Norma derogada por la disposición derogatoria única del Real Decreto 110/2015, de 20 de febrero. Ref. BOE-A-2015-1762.
