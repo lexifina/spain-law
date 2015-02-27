@@ -1,43 +1,35 @@
 ## Artículo 13 bis. Remisión del expediente a la Intervención a través de sistemas informáticos.
 
-1. Cuando la propuesta y el acto o resolución objeto de fiscalización o intervención previa se formalicen en documento electrónico, el resultado de la fiscalización o intervención previa se formalizará igualmente en documento electrónico que incorporará la firma electrónica reconocida del Interventor competente.
+1. Cuando la propuesta y el acto o resolución objeto de fiscalización o intervención previa se formalicen en documento electrónico, el resultado de la fiscalización o intervención previa se formalizará igualmente en documento electrónico que incorporará la firma electrónica del Interventor competente.
 
-2. La puesta del expediente a disposición de la Intervención para su fiscalización o intervención, así como la formalización de su resultado en documento electrónico y la remisión posterior de este y del expediente, se realizará exclusivamente a través de alguno de los siguientes sistemas de información y comunicación:
+En este caso, la firma electrónica estará basada en certificado electrónico de los previstos en el artículo 21.a) y b) del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, para los documentos firmados por las Administraciones públicas, y se ajustará igualmente a lo dispuesto en la Política de Firma Electrónica y de Certificados de la Administración General del Estado, publicada mediante Resolución de 29 de noviembre de 2012, de la Secretaría de Estado de Administraciones Públicas.
+
+2. La puesta del expediente a disposición de la Intervención para su fiscalización o intervención, así como la formalización de su resultado en documento electrónico y la remisión posterior de éste y del expediente, se realizará exclusivamente a través de alguno de los siguientes sistemas de información y comunicación:
 
 a) Mediante la utilización de una aplicación informática desarrollada específicamente por la Intervención General de la Administración del Estado, en la que el órgano gestor genera y tramita el expediente.
 
-Esta aplicación informática deberá ser objeto de aprobación mediante orden ministerial, de acuerdo con los artículos 5 y 9 del Real Decreto 263/1996, de 16 de febrero.
+Esta aplicación informática deberá ser objeto de aprobación mediante resolución de la Intervención General de la Administración del Estado que definirá los aspectos relativos a:
+
+1. Legalidad de la aplicación: adecuación del funcionamiento de la aplicación a los requisitos y trámites del procedimiento;
+
+2. Seguridad de aplicación: preservación de la disponibilidad, confidencialidad e integridad de los datos tratados por la aplicación;
+
+3. Normalización de los medios de acceso: especificaciones técnicas sobre los medios y formatos de acceso;
+
+4. Conservación de los soportes utilizados: proporción entre la durabilidad de los soportes y el tiempo en que deben mantenerse los datos en ellos incluidos.
 
 b) Mediante la utilización de una aplicación informática desarrollada específicamente por la Intervención General de la Administración del Estado para la citada finalidad, en los supuestos en que el órgano gestor genere y tramite el expediente mediante sistemas y aplicaciones propias.
 
-En estos casos, la aplicación informática de la Intervención General de la Administración del Estado deberá ser objeto de aprobación mediante resolución de la Intervención General de la Administración del Estado, de acuerdo con los artículos 5 y 9 del Real Decreto 263/1996, de 16 de febrero.
+Esta aplicación informática deberá ser objeto de aprobación mediante resolución de la Intervención General de la Administración del Estado en los mismos términos establecidos en el segundo párrafo del artículo 13 bis.2.a) anterior.
 
-El acceso por los órganos gestores a esta aplicación informática requerirá la disponibilidad de navegador en el puesto de trabajo, protocolo estándar http y certificado electrónico reconocido de persona física en los términos de la Ley 59/2003, de 19 de diciembre, de firma electrónica. La firma electrónica gestionada a través de esta aplicación se ajustará al estándar ETSI TS 101 903.
+Para facilitar la interoperabilidad de este sistema con los propios sistemas de gestión de los órganos gestores, la Intervención General de la Administración del Estado pondrá a su disposición un servicio web específico, ajustado a las Normas Técnicas de Interoperabilidad dictadas en desarrollo del Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica, que permita la comunicación, a tal efecto, entre dichos órganos gestores y su correspondiente órgano de control.
 
-Para facilitar la interoperabilidad de este sistema con los propios sistemas de gestión de los órganos gestores, la Intervención General de la Administración del Estado pondrá a su disposición un servicio web específico que permita la comunicación, a tal efecto, entre dichos órganos gestores y su correspondiente intervención delegada.
+3. El acceso y utilización por los órganos gestores de las aplicaciones desarrolladas por la Intervención General de la Administración del Estado, incluidas en los modelos de funcionamiento del apartado 2.a) y b), deberá ajustarse a lo establecido en las disposiciones sobre política de seguridad de los sistemas de información y procedimientos de control de accesos de la propia Intervención General de la Administración del Estado, basados en el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica, aprobado mediante Real Decreto 3/2010, de 8 de enero, y requerirá un certificado electrónico de los previstos en el artículo 21.a) y b) del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, cuando se trate de acceso personal, o de los previstos en el artículo 19 del mismo real decreto, cuando el acceso se efectúe desde otro sistema.
 
-c) Mediante la utilización opcional de una aplicación informática desarrollada por un órgano administrativo con competencias horizontales en el ámbito de la Administración General del Estado y sus organismos autónomos, distinto a la propia Intervención General de la Administración del Estado. En este supuesto, el órgano gestor genera y tramita el expediente mediante la citada aplicación.
+4. Los formatos admitidos para los documentos electrónicos incluidos en el expediente, así como los de su encapsulamiento, en los modelos de funcionamiento del apartado 2.a) y b), serán los que se establezcan en las disposiciones que aprueben las respectivas aplicaciones, y estarán dentro de los admitidos en la norma técnica de interoperabilidad del catálogo de estándares.
 
-La aplicación informática desarrollada al amparo del apartado 2.c), a los efectos del ejercicio de la función interventora por medios EIT, deberá satisfacer los siguientes requerimientos:
+> Se modifica por el art. único.3 del Real Decreto 109/2015, de 20 de febrero. Ref. BOE-A-2015-1949.
 
-1.º El acceso del personal de la Intervención a la aplicación de este apartado requerirá exclusivamente la disponibilidad de navegador en el puesto de trabajo, protocolo estándar http y certificado electrónico reconocido de persona física en los términos de la Ley 59/2003, de 19 de diciembre, de firma electrónica. La firma electrónica gestionada a través de esta aplicación se ajustará al estándar ETSI TS 101 903.
-
-2.º La aplicación estará dotada de un procedimiento de control de accesos que garantizará que sólo aquellos usuarios autorizados tengan acceso a los expedientes, y el órgano gestor deberá designar al responsable de la autorización de dichos accesos. Asimismo, esta aplicación podrá, en el caso de que el órgano gestor lo considere necesario, registrar los accesos y la información a la que se accede, para el conocimiento de dicho órgano gestor.
-
-Este procedimiento de control de accesos facilitará la asignación de un perfil de acceso ''Interventor'' a los exclusivos efectos del ejercicio de la función interventora.
-
-3.º La documentación constitutiva del expediente deberá estar incluida en el sistema e incorporar las firmas electrónicas necesarias, que se ajustarán al estándar ETSI TS 101 903, emitidas con certificados reconocidos de acuerdo a la Ley 59/2003, de 19 de diciembre, de firma electrónica.
-
-4.º El sistema deberá garantizar la inalterabilidad de la documentación constitutiva del expediente fiscalizado.
-
-En todo caso, dicha aplicación será objeto de auditorías de seguridad a los efectos del ejercicio de la citada función interventora, en los términos y en la forma que establezca la Intervención General de la Administración del Estado, para verificar el cumplimiento de las especificaciones anteriores. Cuando del resultado de la auditoría de seguridad se deduzca el incumplimiento de las especificaciones aprobadas, el Interventor General concederá un plazo para su adaptación que, en el caso de no ser atendido, suspenderá la utilización de la aplicación a los efectos del ejercicio de la función interventora. No obstante, el Interventor General, a la vista de la naturaleza del defecto y de las circunstancias concurrentes, podrá acordar la suspensión inmediata de la utilización de la aplicación a los efectos señalados. Todo ello, sin perjuicio de las actuaciones de revisión de los sistemas informáticos de gestión económico-financiera a desarrollar en el ámbito del control financiero permanente y la auditoría pública y que se extienden también a las previstas en los párrafos a) y b) de este apartado.
-
-3. El acceso y utilización por los órganos gestores de las aplicaciones desarrolladas por la Intervención General de la Administración del Estado, incluidas en los modelos de funcionamiento del apartado 2.a) y b), deberá ajustarse a lo establecido en la Resolución de la Secretaría de Estado de Presupuestos y Gastos, de 8 de julio de 2002, por la que se regula el control de accesos a las bases de datos de la Secretaría de Estado, y requerirá un certificado emitido por una entidad reconocida en los términos establecidos por la Ley 59/2003, de 19 de diciembre, de firma electrónica.
-
-4. Los formatos admitidos para los documentos electrónicos incluidos en el expediente, así como los de su encapsulamiento, en los modelos de funcionamiento del apartado 2.a) y b), serán los que se establezcan en las disposiciones que aprueben las respectivas aplicaciones.
-
-Al modelo de funcionamiento del apartado 2.c) le será de aplicación, en cuanto a los formatos admitidos para los documentos electrónicos incluidos en el expediente, así como los de su encapsulamiento, lo que se establezca a tal efecto para el modelo de funcionamiento del apartado 2.b).
-
-Mediante resolución de la Intervención General de la Administración del Estado podrán incorporarse o eliminarse los formatos admitidos de los párrafos anteriores.
+> Téngase en cuenta la disposición transitoria única del citado Real Decreto, en cuanto al plazo de adecuación de los sistemas de información a las Normas Técnicas de Interoperabilidad.
 
 > Se añade por el art. único.2 del Real Decreto 686/2005, de 10 de junio. Ref. BOE-A-2005-10816
