@@ -50,6 +50,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 27](a27.md)
 - [Artículo 28](a28.md)
 - [Artículo 29](a29.md)
+- [Artículo 30](a30.md)
 - [Disposición adicional primera](daprimera.md)
 - [Disposición adicional segunda](dasegunda.md)
 - [Disposición adicional tercera](datercera.md)

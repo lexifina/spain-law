@@ -16,6 +16,8 @@ ii. Ampliación del plazo de amortización hasta un total de 40 años a contar d
 
 iii. Reducción del tipo de interés aplicable a Euribor + 0,25 por cien durante el plazo de carencia.
 
+iv. En todo caso, se inaplicarán con carácter indefinido las cláusulas limitativas de la bajada del tipo de interés previstas en los contratos de préstamo hipotecario.
+
 Adicionalmente, las entidades podrán reunificar el conjunto de las deudas contraídas por el deudor.
 
 No conllevará costes por compensación la amortización anticipada del crédito o préstamo hipotecario solicitada durante los diez años posteriores a la aprobación del plan de reestructuración.
@@ -53,5 +55,7 @@ e) Esta medida no será aplicable en los supuestos que se encuentren en procedim
 4. Publicidad del Código de Buenas Prácticas.
 
 Las entidades garantizarán la máxima difusión del contenido del Código de Buenas Prácticas, en particular, entre sus clientes.
+
+> Se añade la letra b).iv al apartado 1 por el art. 2.3 del Real Decreto-ley 1/2015, de 27 de febrero. Ref. BOE-A-2015-2109#a2.
 
 > Se modifica por el art. 8.8 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.
