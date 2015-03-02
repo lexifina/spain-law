@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Referencias de la Orden Ministerial de 2 de junio de 1999, por la que se establecen las normas para la evaluación y clasificación del personal de la Guardia Civil.
+
+Las referencias del artículo 5.2 a) de la Orden Ministerial de 2 de junio de 1999, por la que se establecen las normas para la evaluación y clasificación del personal de la Guardia Civil respecto a las «Cualidades de carácter profesional» y las «Cualidades personales» de los informes personales de calificación se entenderán equivalentes, respectivamente, a las «Competencias de carácter profesional» y las «Competencias de carácter personal» que serán objeto de calificación conforme al modelo de IPECGUCI regulado en esta orden ministerial.

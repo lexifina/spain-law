@@ -4,39 +4,11 @@
 
 De conformidad con lo previsto en el apartado quinto de las presentes normas, los elementos de valoración y los factores determinantes de su entidad relativa serán los siguientes:
 
-## 1. Cualidades de carácter profesional y personal.
+## 1. Cualidades o competencias de carácter profesional y personal.
 
 Puntuación máxima a alcanzar: 90 puntos.
 
-La puntuación obtenida en este epígrafe será la suma de las alcanzadas en las Secciones 1.ª y 2.ª que la componen.
-
-Sección 1.ª Cualidades profesionales
-
-Generales: 0 a 10.
-
-Militares: 0 a 10.
-
-Policiales: 0 a 10.
-
-Comunes: 0 a 10.
-
-Particulares: 0 a 10.
-
-Como quiera que la suma máxima alcanza 50 puntos, la puntuación de cada miembro del conjunto de evaluados, quedará afectada por un coeficiente corrector, consistente en multiplicar la puntuación obtenida en esta sección, por el cociente resultante de dividir 50 por la mejor puntuación alcanzada entre los evaluados.
-
-Las cualidades de carácter profesional generales abarcarán la actitud ante el servicio, la lealtad, cooperación y la capacidad de trabajo. Las de carácter militar engloban la disciplina y la capacidad de decisión y mando. Las de tipo policial comprenderán la adecuación al ordenamiento jurídico y las relaciones con la comunidad. Las comunes informan de la competencia personal del calificado en las áreas generales profesionales y, finalmente, las de carácter particular informan del rendimiento en el trabajo y actuaciones personales del calificado.
-
-Sección 2.ª Cualidades Personales
-
-Intelectuales:0 a 10.
-
-Carácter:0 a 10.
-
-Sociales:0 a 10.
-
-Físicas:0 a 10.
-
-Dado que la suma máxima alcanza 40 puntos, la puntuación de cada miembro del conjunto de evaluados, quedará afectada por un coeficiente corrector, consistente en multiplicar la puntuación obtenida en esta sección, por el cociente resultante de dividir 40 por la mejor puntuación alcanzada entre los evaluados.
+Para determinar la puntuación en este epígrafe se calculará la media aritmética de las calificaciones finales de los informes personales de calificación considerados para cada evaluado. La cifra así obtenida quedará afectada por un índice corrector, consistente en multiplicar la citada puntuación por el coeficiente resultante de dividir 90 por la mejor puntuación alcanzada entre los evaluados.
 
 ## 2. Historial académico
 
@@ -153,5 +125,7 @@ Se valorarán en esta sección las actividades relevantes del evaluado no inclui
 Sección 3.ª Aptitudes: Hasta 10 puntos
 
 Esta sección sirve para valorar las aptitudes propias del interesado, que se han puesto de manifiesto en todos los destinos ocupados y que permiten una apreciación sobre cuál sería su comportamiento en relación al empleo, puesto o motivo objeto de la clasificación.
+
+> Se modifica el apartado 1 por la disposición final 1 de la Orden PRE/266/2015, de 17 de febrero. Ref. BOE-A-2015-1703.
 
 > Se modifica el apartado 3 por el art. único.6 de la Orden PRE/10/2013, de 16 de enero. Ref. BOE-A-2013-495.
