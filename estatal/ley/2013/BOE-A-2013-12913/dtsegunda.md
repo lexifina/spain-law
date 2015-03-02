@@ -9,3 +9,7 @@ La aplicación de la Disposición adicional tercera de la Ley 10/2001, de 5 de j
 3. Si en el inicio o en cualquier momento del período transitorio se alcanzase un nivel de existencias embalsadas de 900 hectómetros cúbicos, tanto el nuevo nivel de referencia de 400 hectómetros cúbicos como la curva de condiciones excepcionales entrarían en vigor de forma inmediata.
 
 4. La Comisión Central de Explotación del Acueducto Tajo-Segura velará por la aplicación de estos criterios y resolverá las incidencias que pudieran plantearse en el período de transición.
+
+> Se declara la inconstitucionalidad y nulidad, diferida por el plazo de un año según establece el Fundamento Jurídico 5, por Sentencia TC 13/2015, de 5 de febrero. Ref. BOE-A-2015-2259.
+
+> Se declara la inconstitucionalidad y nulidad, diferida por el plazo de un año según establece el Fundamento Jurídico 5, por Sentencia TC 13/2015, de 5 de febrero. Ref. BOE-A-2015-2259.

@@ -25,3 +25,7 @@ Los volúmenes cuyo trasvase haya sido autorizado se distribuirán entre abastec
 3. Con carácter previo a la primera reunión del año hidrológico de la Comisión Central de Explotación del Acueducto Tajo-Segura, y en todo caso, antes de la primera autorización del trasvase, exclusivamente en los niveles 1 y 2, la Dirección General del Agua elaborará, para su consideración por la Comisión Central de Explotación a efectos de las autorizaciones, un informe justificativo de las necesidades hídricas en las zonas y abastecimientos afectos al trasvase Tajo-Segura, que se referirá, para las zonas regables, a los cultivos planificados y, para los abastecimientos, a las demandas estimadas, así como a las posibilidades de regulación existentes para tales caudales.
 
 Este informe se elaborará por la Dirección General del Agua a partir de la información de la planificación hidrológica, y deberá actualizarse semestralmente, de acuerdo con lo dispuesto en el Reglamento de Planificación Hidrológica, sobre seguimiento de los planes hidrológicos.
+
+> Se declara la inconstitucionalidad y nulidad, diferida por el plazo de un año según establece el Fundamento Jurídico 5, por Sentencia TC 13/2015, de 5 de febrero. Ref. BOE-A-2015-2259.
+
+> Se declara la inconstitucionalidad y nulidad, diferida por el plazo de un año según establece el Fundamento Jurídico 5, por Sentencia TC 13/2015, de 5 de febrero. Ref. BOE-A-2015-2259.

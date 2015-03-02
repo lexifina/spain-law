@@ -11,3 +11,7 @@ Dos. Se introduce una nueva disposición adicional decimoquinta, con la siguient
 «Disposición adicional decimoquinta.
 
 Se llevarán a cabo con carácter de urgencia, y de acuerdo con criterios de viabilidad, las obras previstas en el Anexo al Plan Hidrológico Nacional que aún no hayan sido ejecutadas y que permitan a Castilla-La Mancha utilizar la infraestructura del trasvase Tajo-Segura, así como los recursos correspondientes que tenga asignados y reservados.»
+
+> Se declara la inconstitucionalidad y nulidad, diferida por el plazo de un año según establece el Fundamento Jurídico 5, por Sentencia TC 13/2015, de 5 de febrero. Ref. BOE-A-2015-2259.
+
+> Se declara la inconstitucionalidad y nulidad, diferida por el plazo de un año según establece el Fundamento Jurídico 5, por Sentencia TC 13/2015, de 5 de febrero. Ref. BOE-A-2015-2259.

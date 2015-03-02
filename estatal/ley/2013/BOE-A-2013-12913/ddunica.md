@@ -11,3 +11,7 @@ c) El Real Decreto 1131/1988, de 30 de septiembre, por el que se aprueba el Regl
 2. La derogación de las normas previstas en el apartado anterior, en su condición de normativa básica y respecto de las Comunidades Autónomas se producirá, en todo caso, en el plazo de un año desde la entrada en vigor de la presente ley. No obstante, si antes de que concluya este plazo, las Comunidades Autónomas aprueban nuevos textos normativos adaptados a esta ley, la derogación prevista en el apartado anterior se producirá en el momento en que las nuevas normas autonómicas entren en vigor.
 
 3. Queda derogada la Disposición adicional primera de la Ley 11/2005, de 22 de junio, por la que se modifica la Ley 10/2001, de 5 de julio de 2001, del Plan Hidrológico Nacional.
+
+> Se declara la inconstitucionalidad y nulidad del apartado 3, diferida por el plazo de un año según establece el Fundamento Jurídico 5, por Sentencia TC 13/2015, de 5 de febrero. Ref. BOE-A-2015-2259.
+
+> Se declara la inconstitucionalidad y nulidad del apartado 3, diferida por el plazo de un año según establece el Fundamento Jurídico 5, por Sentencia TC 13/2015, de 5 de febrero. Ref. BOE-A-2015-2259.

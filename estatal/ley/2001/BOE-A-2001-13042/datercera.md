@@ -4,6 +4,10 @@ En cuanto a las transferencias de agua aprobadas desde la cabecera del Tajo, se 
 
 Este volumen mínimo podrá revisarse en el futuro conforme a las variaciones efectivas que experimenten las demandas de la cuenca del Tajo, de acuerdo con los principios de eficiencia y sostenibilidad, de forma que se garantice en todo caso su carácter preferente, y se asegure que las transferencias desde cabecera nunca puedan suponer un límite o impedimento para el desarrollo natural de dicha cuenca.
 
+> Se declara la inconstitucionalidad y nulidad, diferida por el plazo de un año, en la redacción dada por la Ley 21/2013, de 9 de diciembre, según establece el Fundamento Jurídico 5, por Sentencia TC 13/2015, de 5 de febrero. Ref. BOE-A-2015-2259.
+
+> Se declara la inconstitucionalidad y nulidad, diferida por el plazo de un año, en la redacción dada por la Ley 21/2013, de 9 de diciembre, según establece el Fundamento Jurídico 5, por Sentencia TC 13/2015, de 5 de febrero. Ref. BOE-A-2015-2259.
+
 > Se modifica por la disposición final 3.1 de la Ley 21/2013, de 9 de diciembre. Ref. BOE-A-2013-12913.
 
 > Téngase en cuenta para su aplicación escalonada en el tiempo la disposición transitoria 2 de la citada Ley.
