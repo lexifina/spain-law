@@ -6,24 +6,28 @@ Los caracteres identificativos de la actividad que desarrolla la persona o entid
 
 Grupo I. Contribuyentes:
 
-GF: fabricantes, importadores y adquirentes intracomunitarios.
+GF: Fabricantes, importadores y adquirentes intracomunitarios de gases fluorados.
 
-GV: otros revendedores.
+GV: Otros revendedores.
 
-Grupo II. Beneficiarios no contribuyentes:
+GG: Gestores de residuos.
 
-GN: beneficiarios exención por incorporación en equipos o aparatos nuevos.
+Grupo II. Beneficiarios:
 
-GM: beneficiarios exención por medicamentos que se presenten como aerosoles.
+GN: Beneficiarios exención por incorporación en equipos o aparatos nuevos.
 
-GT: beneficiarios exención por utilización como materia prima en procesos de transformación química o para mezclas de otros gases fluorados.
+GM: Beneficiarios exención por medicamentos que se presenten como aerosoles.
 
-GI: beneficiarios exención parcial en sistemas fijos de extinción de incendios.
+GT: Beneficiarios exención por utilización como materia prima en procesos de transformación química o para mezclas de otros gases fluorados.
 
-GL: beneficiarios tipos reducidos poliuretano.
+GI: Beneficiarios exención parcial en sistemas fijos de extinción de incendios.
 
-GO: beneficiarios exención por envío o utilización fuera del ámbito territorial de aplicación del impuesto
+GL: Beneficiarios tipo reducido de poliuretano.
 
-Grupo III. Otras actividades:
+GO: Beneficiarios exención por envío o utilización fuera del ámbito territorial de aplicación del impuesto.
 
-GG: gestores de residuos.
+GC: Beneficiarios exención parcial por utilización en centros oficialmente reconocidos.
+
+GD: Beneficiarios exención parcial por envío a Fuerzas Armadas
+
+> Se modifica por la disposición final 2 de la Orden HAP/369/2015, de 27 de febrero. Ref. BOE-A-2015-2337.
