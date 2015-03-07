@@ -1,8 +1,8 @@
-## REGISTRO CENTRAL PARA LA PROTECCIÓN DE LAS VÍCTIMAS DE LA VIOLENCIA DOMÉSTICA: ANEXO A
+## REGISTRO CENTRAL PARA LA PROTECCIÓN DE LAS VÍCTIMAS DE LA VIOLENCIA DOMÉSTICA Y DE GÉNERO: ANEXO A
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/39/02507_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/56/02386_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/39/02507_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/56/02386_002.png)
 
 INSTRUCCIONES PARA LA CUMPLIMENTACIÓN DEL MODELO SENTENCIADO
 
@@ -10,17 +10,15 @@ INSTRUCCIONES PARA LA CUMPLIMENTACIÓN DEL MODELO SENTENCIADO
 
 (1) Este modelo deberá ser remitido preferentemente por fax a los siguientes números: 91 559 21 72, 91 559 25 36 o por correo certificado a la siguiente dirección:
 
-Registro Central para la Protección de las Víctimas de la Violencia Doméstica.
-
-Ministerio de Justicia.
+Registro Central para la Protección de las Víctimas de la Violencia Doméstica y de Género-Ministerio de Justicia.
 
 Calle San Bernardo n.º 19, 28071 Madrid.
 
 (2) Número de Identificación General del procedimiento. Deberá indicarse el asignado por el sistema de gestión procesal existente en el Juzgado Instructor.
 
-(3) Regístrese lo que proceda (según campo desplegable de la aplicación): juicio faltas, juicio de faltas inmediato, diligencias previas, procedimiento abreviado, diligencias urgentes, juicio rápido, sumario ordinario, ley del tribunal del jurado y diligencias indeterminadas.
+(3) Regístrese lo que proceda (según campo desplegable de la aplicación): juicio de faltas, juicio de faltas inmediato, diligencias previas, procedimiento abreviado, diligencias urgentes, juicio rápido, sumario ordinario, ley del tribunal del jurado y diligencias indeterminadas.
 
-(4) Indíquese cada uno de los delitos o faltas cometidos en el ámbito de la violencia doméstica, entre las personas relacionadas en el artículo 173.2 del CP.
+(4) Indíquese cada uno de los delitos o faltas cometidos en el ámbito de la violencia doméstica y de género, entre las personas relacionadas en el artículo 173.2 del CP.
 
 (5) Fecha de la resolución por la que se declara firme la sentencia.
 
@@ -67,3 +65,5 @@ Revocada.
 (15) Señálese el plazo acordado para la suspensión o sustitución.
 
 (16) Indíquese la fecha de la resolución judicial acordando la revocación.
+
+> Se sustituye por el art. único.1 de la Orden JUS/375/2015, de 26 de febrero. Ref. BOE-A-2015-2386.
