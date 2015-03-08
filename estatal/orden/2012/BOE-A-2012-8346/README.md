@@ -45,3 +45,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
 - [firma](firma.md)
+- [Anexo I](ani.md)
+- [Anexo II](anii.md)
+- [Anexo III](aniii.md)
