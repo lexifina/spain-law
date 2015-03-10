@@ -13,6 +13,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [(preambulo)](pr.md)
 - [Primero](pr-2.md)
 - [Disposición transitoria única](dtunica.md)
+- [Disposición transitoria primera](dtprimera.md)
+- [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición derogatoria única](dd.md)
 - [Disposición final única](df.md)
 - [(firma)](fi.md)

@@ -53,15 +53,16 @@ b. Posición de seccionamiento (tipo S) simultánea en gasoducto de transporte p
 
 (2) Una posición se realiza con simultaneidad cuando se incluye en el proyecto inicial o cuando se solicita su inclusión por parte del distribuidor o transportista al menos un año antes de la fecha de puesta en servicio de la línea.
 
-c. Estaciones de compresión en gasoductos de transporte primario.
+c. Estaciones de compresión en gasoductos de trasporte primario.
 
-| Potencia instalada menor o igual a 37.284 kW |
-| --- |
-| Término Fijo (€/ E.C.) | 8.030.190 |
-| Término Variable (€/kW) | 1.124,13 |
+|  | Con turbocompresor | Con motor eléctrico |
+| --- | --- | --- |
+| Potencia Instalada menor o igual a 37.284 kW |
+| Término Fijo (€/E.C.) | 8.030.190 | 2.618.414 |
+| Término Variable (€/kW) | 1.124,13 | 1.841,41 |
 | Potencia Instalada mayor de 37.284 kW |
-| Término Fijo (€/ E.C.) | 28.144.325 |
-| Término Variable (€/kW) | 584,63 |
+| Término Fijo (€/E.C.) | 28.144.325 | 22.732.549 |
+| Término Variable (€/kW) | 584,63 | 957,67 |
 
 d. Estaciones de regulación y medida (ERM) en un gasoducto de transporte primario.
 
@@ -126,9 +127,12 @@ Nota: incluyen los costes de operación de las posiciones asociadas
 
 b. Estaciones de compresión en gasoductos de transporte primario.
 
-| Término fijo (€/E.C.) | 154.771 |
-| --- | --- |
-| Término variable | 62,08 |
+|  | Con turbocompresor | Con motor eléctrico |
+| --- | --- | --- |
+| Término fijo (€/E.C.) | 154.771 | 623.998 |
+| Término variable (€/kWh) | 62,08 | – |
+
+En el caso de estaciones de compresión con motor eléctrico se abonará al titular la totalidad del coste del suministro eléctrico, excluyendo IVA).
 
 c. ERM en gasoductos de transporte primario.
 
@@ -165,3 +169,5 @@ IPC: variación anual en tanto por uno, entre octubre del año n-1 y octubre del
 IPRI bienes de equipo: variación anual en tanto por uno, entre octubre del año n-1 y octubre del año n-2, del índice de Precios Industriales, correspondiente a la clasificación por destino económico de los componentes de bienes de equipo.
 
 «x» e «y»: Coeficientes cuyos valores serán iguales 0,005 y 0,01 respectivamente.
+
+> Se modifica la letra c del apartado primero y la letra b del apartado tercero por la disposición final 3 de la Orden IET/389/2015, de 5 de marzo. Ref. BOE-A-2015-2495.
