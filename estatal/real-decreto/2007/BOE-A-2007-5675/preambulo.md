@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 138, de 9 de junio de 2007. Ref. BOE-A-2007-11445.
+Norma derogada por la disposición derogatoria única.1 del Real Decreto 140/2015, de 6 de marzo. Ref. BOE-A-2015-2494#ddunica.
