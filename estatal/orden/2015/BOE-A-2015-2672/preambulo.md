@@ -1,0 +1,13 @@
+La Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero, a través del artículo 53, apartado noveno, introdujo un nuevo artículo 23 en la Ley 19/1988, de 12 de julio, de Auditoría de Cuentas, creando la tasa del Instituto de Contabilidad y Auditoría de Cuentas por emisión de informes de auditoría de cuentas, actualmente recogida en el artículo 44 del texto refundido de la Ley de Auditoría de Cuentas, aprobado por el Real Decreto Legislativo 1/2011, de 1 de julio.
+
+En cumplimiento del artículo 23, apartado 7, de la Ley 19/1988, de 12 de julio, se dictó el Real Decreto 181/2003, de 14 de febrero, por el que se desarrolla el régimen de aplicación de la tasa del Instituto de Contabilidad y Auditoría de Cuentas por emisión de informes de auditoría de cuentas, en el que se determinaron reglamentariamente las normas de liquidación y pago de la tasa, estableciendo asimismo la obligación para los sujetos pasivos de autoliquidación e ingreso del importe fijado en la Ley 19/1988, de 12 de julio.
+
+El artículo 6 del citado Real Decreto prevé que el modelo de autoliquidación y pago de la citada tasa se determine por las normas de desarrollo, ajustándose al modelo de documento de ingreso que resulte aplicable de entre los aprobados por la Orden de 4 de junio de 1998, por la que se regulan determinados aspectos de la gestión recaudatoria de las tasas que constituyen derechos de la Hacienda Pública, modificada por la Orden de 11 de diciembre de 2001, habilitando para ello al Ministro de Economía, actualmente Ministro de Economía y Competitividad.
+
+En virtud de la anterior habilitación, mediante la Orden ECC/395/2014, de 7 de marzo, se aprobó el modelo de autoliquidación y pago de la tasa prevista en el artículo 44 del texto refundido de la Ley de Auditoría de Cuentas, en el que se actualizaron los importes de la tasa fijados en la Ley 22/2013, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2014.
+
+La disposición final décimoquinta de la Ley 36/2014, de 26 de diciembre, de Presupuestos Generales del Estado para el año 2015 modifica, a partir del 1 de enero de 2015, el apartado 4 del artículo 44 del texto refundido de la Ley de Auditoría de Cuentas, aprobado por el Real Decreto Legislativo 1/2011, de 1 de julio, estableciendo nuevos importes de la tasa por emisión de informes de auditoría de cuentas.
+
+Esta orden tiene por objeto la aprobación del modelo de autoliquidación y pago al que se refiere el artículo 6 del Real Decreto 181/2003, de 14 de febrero, actualizando los importes de la tasa por emisión de informes de auditoría de cuentas, conforme a lo establecido en la anterior Ley 36/2014, de 26 de diciembre, de Presupuestos Generales del Estado para el año 2015.
+
+En su virtud, dispongo:
