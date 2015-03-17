@@ -19,3 +19,7 @@ b) se elimina la partida c), «Otros ingresos tributarios».
 6. Se crea la partida 21, «Subvenciones para la financiación de operaciones financieras», con las cuentas 755 y 756, que figurará dentro del epígrafe III, «Resultado de las operaciones financieras».
 
 7. Se crean las líneas «±Ajustes en la cuenta del resultado del ejercicio anterior» y «Resultado del ejercicio anterior ajustado», que figurarán cuando tengan contenido, por este orden, después de la línea correspondiente al resultado neto, de acuerdo con lo previsto en las normas de formulación de la Cuenta del resultado económico patrimonial del PGCP.
+
+8. Los gastos correspondientes a las adquisiciones de bienes y servicios realizadas por la Administración General del Estado para otras entidades, mediante contratos centralizados financiados con cargo a los créditos del servicio presupuestario 05 "Dirección General de Racionalización y Centralización de la Contratación" de la Sección 31 "Gastos de Diversos Ministerios", figurarán en la partida 9, "Transferencias y subvenciones concedidas".
+
+> Se añade el apartado 8 por el art. único.1 de la Resolución de 10 de marzo de 2015. Ref. BOE-A-2015-2740

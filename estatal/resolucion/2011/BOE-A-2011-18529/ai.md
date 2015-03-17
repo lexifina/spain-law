@@ -1,6 +1,6 @@
 ## ANEXO I
 
-## Modificaciones en el cuadro de cuentas
+## Modificaciones en el Cuadro de Cuentas
 
 A) Se eliminan:
 
@@ -30,7 +30,7 @@ B) Se añaden las siguientes cuentas:
 
 1750. Moneda metálica aplicada al Presupuesto.
 
-1751. Moneda metálica emitida ingresada en Tesoro pendiente de aplicar a Presupuesto.
+1751. Moneda metálica pendiente de aplicar a Presupuesto.
 
 1752. Moneda metálica emitida pendiente de ingreso en la cuenta corriente del Tesoro.
 
@@ -236,7 +236,7 @@ B) Se añaden las siguientes cuentas:
 
 5859. Provisión para devolución de otros ingresos.
 
-6288. Gastos de acuñación de moneda.
+6288. Gastos de acuñación, retirada y desmonetización de moneda metálica.
 
 633. Tributos del exterior.
 
@@ -359,3 +359,5 @@ C) Se modifica la denominación de las siguientes cuentas:
 6628. Intereses de permutas financieras designadas instrumentos de cobertura de pasivos financieros.
 
 7628. Ingresos de permutas financieras designadas instrumentos de cobertura de pasivos financieros.
+
+> Se modifica la denominación de las cuentas 6288 y 1751 por el art. único.2 de la Resolución de 10 de marzo de 2015. Ref. BOE-A-2015-2740
