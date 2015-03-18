@@ -1,0 +1,5 @@
+## Séptimo. Conservación de la Cuenta de los tributos estatales y recursos de otras Administraciones y entes públicos.
+
+1. Una copia de los ficheros a que se refiere el apartado sexto anterior, quedará en poder de la AEAT, debiendo conservarse por ésta al menos durante un periodo de seis años contados desde la fecha de la remisión al Tribunal de Cuentas de la Cuenta de los tributos estatales y recursos de otras Administraciones y entes públicos, salvo que por norma de rango suficiente se establezcan otros plazos o se hubiera interrumpido el plazo de prescripción de la posible responsabilidad contable de acuerdo con lo que se establece en la disposición adicional tercera de la Ley 7/1988, de 5 de abril, de funcionamiento del Tribunal de Cuentas.
+
+2. Sin perjuicio de lo anterior, la IGAE obtendrá una copia o duplicado de los ficheros relativos a la Cuenta de los tributos estatales y recursos de otras Administraciones y entes públicos recibidos de la AEAT, quedando en su poder a efectos estadísticos.

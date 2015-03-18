@@ -1,0 +1,5 @@
+## Quinto. Del informe de auditoría de la Cuenta de los tributos estatales y recursos de otras Administraciones y entes públicos.
+
+1. Una vez concluida la auditoría de la Cuenta de los tributos estatales y recursos de otras Administraciones y entes públicos, el auditor pondrá a disposición del Presidente de la AEAT un fichero en formato «pdf» conteniendo el informe de auditoría referido a dicha cuenta como máximo el día 31 de mayo, o día hábil anterior, después del cierre del ejercicio a que la Cuenta se refiera, acreditándose dicho trámite mediante la correspondiente firma electrónica y utilizando los medios informáticos y telemáticos habilitados al efecto por la IGAE para la tramitación electrónica de controles financieros.
+
+2. Cuando con posterioridad a la emisión del informe de auditoría definitivo se proceda a la reformulación de la cuenta, deberá seguirse el procedimiento indicado en el apartado cuarto de esta Resolución, y se pondrá la nueva cuenta reformulada a disposición del auditor para la emisión de un nuevo informe de auditoría.
