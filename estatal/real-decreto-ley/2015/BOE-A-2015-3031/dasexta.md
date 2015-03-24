@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Financiación de las actividades de prospección y planificación.
+
+La financiación de las actividades previstas en los apartados 2 y 3 del artículo 28, así como las que se pudieran llevar a cabo para dar cumplimiento a lo establecido en las letras c) y d) del artículo 11.2, se realizará a través del presupuesto asignado a la Fundación Estatal para la Formación en el Empleo o de las administraciones competentes, según corresponda y su distribución se realizará en función de la actividad efectivamente realizada. Asimismo, se podrá indemnizar a los participantes en dichas actividades por sus gastos de desplazamiento, manutención y alojamiento.
