@@ -1,0 +1,1 @@
+Madrid, 30 de enero de 2015.–El Presidente del Instituto Nacional de Estadística, Gregorio Izquierdo Llanes.–El Director General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales, Ignacio Romero Sánchez.
