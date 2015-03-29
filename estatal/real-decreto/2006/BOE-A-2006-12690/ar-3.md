@@ -1,6 +1,12 @@
 ## Artículo 3. Funciones de las Consejerías de Turismo.
 
-1. Con carácter general, la actuación de las Consejerías de Turismo se centrará en el apoyo al ejercicio de las funciones que en materia turística corresponden a la Secretaría de Estado de Turismo y Comercio, a la Secretaría General de Turismo y al Instituto de Turismo de España, así como en el ejercicio de dichas funciones en el exterior.
+1. Con carácter general, la actuación de las Consejerías de Turismo, en el ámbito de la acción exterior en materia de turismo, se centrará en el apoyo al ejercicio en el exterior de las funciones que corresponden a la Secretaría de Estado de Turismo y al Instituto de Turismo de España conforme a la estrategia de acción exterior fijada por el Gobierno.
+
+En concreto, la actuación de las Consejerías de Turismo, en el ámbito de la acción exterior en materia de turismo, se orientará a la promoción de la imagen de España como destino turístico y a la planificación, desarrollo, ejecución y seguimiento de actividades de carácter promocional del sector turístico español en los mercados internacionales, así como al apoyo a la comercialización de productos turísticos españoles en el exterior.
+
+Asimismo, dicha acción incluirá el ejercicio de las relaciones turísticas internacionales tanto de carácter bilateral como con las organizaciones turísticas internacionales de carácter multilateral, así como el fomento de la cooperación turística internacional.
+
+También comprenderá la asistencia e información a las entidades y empresas turísticas españolas en su actividad internacional y el respaldo a su implantación en el exterior y contribuirá especialmente a la difusión en el exterior de la «Marca España» al ser la acción turística un aspecto decisivo de la imagen de España en el exterior.
 
 2. En particular, en el ámbito de los Estados receptores o mercados emisores de su demarcación, y conforme al principio de unidad de acción en el exterior, desempeñarán las funciones siguientes:
 
@@ -21,3 +27,5 @@ g) El desarrollo de la colaboración con comunidades autónomas, entes locales y
 h) Cualquier otra función que les sea encomendada en el marco de sus competencias por las autoridades turísticas del Estado.
 
 3. De las actividades que realicen las Consejerías de Turismo en el ejercicio de sus funciones se mantendrá debidamente informado al Jefe de la Misión Diplomática.
+
+> Se modifica el apartado 1 por el art. único.3 del Real Decreto 217/2015, de 27 de marzo. Ref. BOE-A-2015-3325
