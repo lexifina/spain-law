@@ -1,3 +1,5 @@
+> Téngase en cuenta que las modificaciones de los anejos 1, 2 y 3 introducidas por la norma 3 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entran en vigor el 1 de abril de 2015, salvo las letras a) y e) del apartado 9 de la citada circular, que entran en vigor el 31 de diciembre de 2014, según establece su disposición final única.c).
+
 ## ANEJO 1
 
 ## MÓDULOS DE DATOS
@@ -68,6 +70,8 @@ Número de identificación de extranjero (NIE)
 
 Código asignado por el Banco de España
 
+Código identificador de personas jurídicas (código LEI)
+
 ## PARTE 2 DATOS DE LOS TITULARES COLECTIVOS
 
 Código de la sociedad o AIE
@@ -126,6 +130,8 @@ Código ISIN
 
 Código SWIFT
 
+Código identificador de personas jurídicas (código LEI)
+
 Información cualitativa
 
 ## DATOS BÁSICOS DE LAS OPERACIONES Y DE LAS RELACIONES CON LAS PERSONAS
@@ -143,6 +149,8 @@ Naturaleza de la intervención en la operación
 Código de la operación
 
 Código del valor
+
+Código ISIN
 
 Localización de la actividad (país de la operación)
 
@@ -170,7 +178,7 @@ Fecha de vencimiento
 
 Origen de la operación
 
-Novaciones y refinanciaciones
+Estado de refinanciaciones y reestructuraciones
 
 Canal de contratación
 
@@ -192,6 +200,8 @@ Número de viviendas previstas
 
 Código de la promoción inmobiliaria
 
+Subvención de la operación
+
 ## DATOS DINÁMICOS DE LAS OPERACIONES
 
 ## C.1 DATOS DINÁMICOS DE LOS RIESGOS DIRECTOS
@@ -199,8 +209,6 @@ Código de la promoción inmobiliaria
 Código de la operación
 
 ## PARTE 1 DATOS DE TODOS LOS RIESGOS DIRECTOS
-
-Tipo de producto
 
 Moneda
 
@@ -223,6 +231,8 @@ Situación de la operación
 Fechas de incumplimiento
 
 Fecha del primer incumplimiento
+
+Pro memoria: fecha del primer incumplimiento antes de la refinanciación o reestructuración
 
 Fecha del último incumplimiento
 
@@ -250,6 +260,8 @@ Importe registrado en cuentas de orden
 
 Gastos exigibles asumidos por la entidad
 
+Pro memoria: importe vencido antes de la refinanciación o reestructuración asumido por la entidad
+
 Límite actual del riesgo asumido por la entidad
 
 Riesgo disponible asumido por la entidad
@@ -262,7 +274,9 @@ Disponibilidad condicionada
 
 Motivos por los que se reduce el importe de la deuda en el mes
 
-Principal cobrado en efectivo. Importe por el que se reduce el principal
+Principal vencido cobrado en efectivo
+
+Principal vencido subvencionado
 
 Amortización anticipada. Importe por el que se reduce el principal
 
@@ -315,6 +329,8 @@ Intereses y comisiones vencidos asumidos por el cesionario
 Intereses de demora asumidos por el cesionario
 
 Gastos exigibles asumidos por el cesionario
+
+Pro memoria: importe vencido antes de la refinanciación o reestructuración asumido por el cesionario
 
 Límite actual del riesgo asumido por el cesionario
 
@@ -410,7 +426,7 @@ Importe de las cargas previas comprometidas con terceros
 
 Última tasación completa
 
-Fecha de la última tasación
+Fecha de la tasación
 
 Código de la sociedad de tasación o valoración
 
@@ -435,6 +451,10 @@ Tipo de actualización (%)
 Tasa anualizada homogénea (%)
 
 Tasa anual media de variación del precio de mercado del activo (%)
+
+Importe positivo
+
+Importe negativo
 
 Plazo máximo para finalizar la construcción (meses)
 
@@ -664,7 +684,7 @@ Código de la operación
 
 Tipo de producto
 
-Fecha de formalización
+Fecha de formalización o emisión
 
 Fecha de vencimiento
 
@@ -716,13 +736,11 @@ Código de la operación
 
 Código de la contraparte directa
 
-Calificación crediticia original de la operación (contraparte directa)
+Calificación crediticia de la operación (contraparte directa)
 
-Calificación crediticia actual de la operación (contraparte directa)
+Clase de riesgo normal
 
-Fecha de calificación de la operación como dudosa
-
-Factor de conversión (CCF-SA) (%)
+Factor de conversión (CCF SA) (%)
 
 Excepciones a la cobertura por riesgo-país
 
@@ -740,43 +758,91 @@ Tipo de vínculo con el mercado hipotecario
 
 Código de la operación
 
-Valor contable (excluidos ajustes por valoración)
+Garantía real principal
 
-Importe de la garantía a efectos del cálculo del deterioro atribuido a la operación
+Plazo original
 
-Importe de la operación que excede el valor de la garantía real
+Situación del riesgo de crédito
 
-Correcciones de valor por deterioro de activos. Coberturas específicas
+Estado de cumplimiento
+
+Estado de refinanciaciones y reestructuraciones
+
+Estado de deterioro
+
+Plazo vencido
+
+Fecha de calificación de la operación como dudosa
+
+Importes
+
+Importe en libros
+
+Precio de adquisición
+
+Principal dispuesto
+
+Costes de transacción
+
+Descuento por deterioro en la fecha de adquisición
+
+Prima en la adquisición
+
+Descuento en la adquisición
+
+Ajustes por riesgo de crédito
+
+Deterioro de valor acumulado
 
 Riesgo cliente
 
-Riesgo-país
+Riesgo país
 
-Intereses devengados pendientes de vencimiento registrados en el activo
+Cambios acumulados en el valor razonable debidos al riesgo de crédito
 
-Comisiones pendientes de devengo
+Importe positivo
 
-Costes de transacción pendientes de devengo
+Importe negativo
 
-Prima en la adquisición pendiente de devengo
+Resto de ajustes por valoración
 
-Descuento en la adquisición pendiente de devengo
+Intereses devengados
 
-Importe actual del descuento por deterioro en la fecha de adquisición
+Cambios acumulados en el valor razonable no debidos al riesgo de crédito
 
-Activos a valor razonable
+Importe positivo
 
-Importe positivo de la variación de valor
+Importe negativo
 
-Importe negativo de la variación de valor no atribuible a cambios en el riesgo de crédito
-
-Importe de la variación de valor atribuible a cambios en el riesgo de crédito
+Comisiones
 
 Operaciones de microcobertura
 
-Saldo positivo
+Importe positivo
 
-Saldo negativo
+Importe negativo
+
+Garantías recibidas
+
+Importe de las garantías reales
+
+Importe máximo de las garantías sobre el importe en libros bruto que puede considerarse
+
+Garantías sobre inmuebles residenciales y comerciales
+
+Garantías sobre el resto de inmuebles
+
+Otras garantías reales
+
+Garantías personales eficaces
+
+Importe máximo de las garantías sobre el importe en libros bruto que puede considerarse a efectos del cálculo del deterioro
+
+Garantías reales
+
+Garantías personales sin riesgo apreciable
+
+Exceso del importe en libros bruto sobre el valor de las garantías reales y personales sin riesgo apreciable a efectos del cálculo del deterioro
 
 Arrendamientos financieros
 
@@ -784,19 +850,29 @@ Valor residual no garantizado
 
 Valor residual comprometido por terceros
 
-Riesgo disponible
-
-Importe a disposición de terceros
+Principal disponible. Importe a disposición de terceros
 
 ## H.4 DATOS DINÁMICOS COMPLEMENTARIOS DE LAS GARANTÍAS FINANCIERAS Y OTROS COMPROMISOS
 
 Código de la operación
 
-Provisiones específicas
+Fecha de calificación de la operación como dudosa
+
+Provisiones
 
 Riesgo cliente
 
-Riesgo-país
+Riesgo país
+
+Garantías recibidas
+
+Importe máximo de las garantías sobre el nominal que puede considerarse a efectos del cálculo del deterioro
+
+Garantías reales
+
+Garantías personales sin riesgo apreciable
+
+Exceso del nominal sobre el valor de las garantías reales y personales sin riesgo apreciable a efectos del cálculo del deterioro
 
 ## H.5 DATOS DINÁMICOS DE RIESGOS IMPUTADOS A CONTRAPARTES FINALES DISTINTAS DE LAS DIRECTAS
 
@@ -804,11 +880,15 @@ Código de la operación
 
 Código de la contraparte final
 
-Importe del riesgo asignado a la contraparte final
+Importe reclasificado a efectos de la actividad por países
 
-Calificación crediticia original de la operación (contraparte final)
+Calificación crediticia de la operación (riesgo país última contraparte)
 
-Calificación crediticia actual de la operación (contraparte final)
+Garantías recibidas
+
+Importe máximo de la garantía personal eficaz que puede considerarse
+
+Importe máximo de la garantía personal sin riesgo apreciable que puede considerarse a efectos del cálculo del deterioro
 
 ## H.6 DATOS DINÁMICOS RELATIVOS A REQUERIMIENTOS DE RECURSOS PROPIOS
 
@@ -898,15 +978,23 @@ Finalidad de la operación
 
 Provincia en la que se realiza la inversión
 
-Tipo de garantía personal principal
+Garantía real principal
 
-Tipo de garantía real principal
+Plazo original
 
-Plazo residual
+Situación del riesgo de crédito
 
-Calificación crediticia original de la operación (contraparte final)
+Calificación crediticia de la operación
 
-Calificación crediticia actual de la operación (contraparte final)
+Clase de riesgo normal
+
+Estado de cumplimiento
+
+Estado de refinanciaciones y reestructuraciones
+
+Estado de deterioro
+
+Plazo vencido
 
 Factor de conversión (CCF-SA) (%)
 
@@ -916,43 +1004,73 @@ Activos no corrientes en venta
 
 Importes
 
-Riesgo dispuesto
+Importe en libros
 
-Principal asumido por la entidad
+Precio de adquisición
 
-Importe no vencido
+Principal dispuesto
 
-Importe vencido
+Costes de transacción
 
-Intereses y comisiones vencidos asumidos por la entidad
+Descuento por deterioro en la fecha de adquisición
 
-Importe registrado en el activo
+Prima en la adquisición
 
-Importe registrado en cuentas de orden
+Descuento en la adquisición
 
-Intereses de demora asumidos por la entidad
+Ajustes por riesgo de crédito
 
-Importe registrado en el activo
-
-Importe registrado en cuentas de orden
-
-Gastos exigibles asumidos por la entidad
-
-Límite actual del riesgo asumido por la entidad
-
-Riesgo disponible asumido por la entidad
-
-Disponibilidad inmediata
-
-Intereses devengados pendientes de vencimiento registrados en el activo
-
-Valor contable (excluidos ajustes por valoración)
-
-Correcciones de valor por deterioro de activos. Coberturas específicas
+Deterioro de valor acumulado
 
 Riesgo cliente
 
-Riesgo-país
+Riesgo país
+
+Cambios acumulados en el valor razonable debidos al riesgo de crédito
+
+Importe positivo
+
+Importe negativo
+
+Resto de ajustes por valoración
+
+Intereses devengados
+
+Cambios acumulados en el valor razonable no debidos al riesgo de crédito
+
+Importe positivo
+
+Importe negativo
+
+Comisiones
+
+Operaciones de microcobertura
+
+Importe positivo
+
+Importe negativo
+
+Principal disponible
+
+Garantías recibidas
+
+Importe máximo de las garantías sobre el importe en libros bruto que puede considerarse
+
+Garantías sobre inmuebles residenciales y comerciales
+
+Garantías sobre el resto de inmuebles
+
+Otras garantías reales
+
+Garantías personales eficaces
+
+Importe máximo de las garantías sobre el importe en libros bruto que pueden considerarse a efectos del cálculo del deterioro
+
+Garantías reales
+
+Garantías personales sin riesgo apreciable
+
+Exceso del importe en libros bruto sobre el valor de las garantías reales y personales sin riesgo apreciable a efectos del cálculo del deterioro
 
 Número de operaciones
 
@@ -980,37 +1098,27 @@ Sector
 
 Tipo de producto
 
-Subordinación del producto
-
-Tipo de riesgo asociado a los derivados
-
 Moneda
 
 Finalidad de la operación
 
-Origen de la operación
-
-Novaciones y refinanciaciones
-
-Garantía personal principal
-
-Tipo de garantía personal principal
-
-Cobertura de la garantía personal principal
-
 Garantía real principal
 
-Tipo de garantía real principal
+Plazo original
 
-Tipo de activo recibido en garantía
+Situación del riesgo de crédito
 
-Cobertura de la garantía real (loan to value)
+Calificación crediticia de la operación
 
-Plazo residual
+Clase de riesgo normal
 
-Calificación crediticia original de la operación (contraparte final)
+Estado de cumplimiento
 
-Calificación crediticia actual de la operación (contraparte final)
+Estado de refinanciaciones y reestructuraciones
+
+Estado de deterioro
+
+Plazo vencido
 
 Factor de conversión (CCF-SA) (%)
 
@@ -1024,54 +1132,88 @@ Tipo de vínculo con el mercado hipotecario
 
 Importes
 
-Riesgo dispuesto
+Préstamos
 
-Principal asumido por la entidad
+Importe en libros
 
-Importe no vencido
+Precio de adquisición
 
-Importe vencido
+Principal dispuesto
 
-Intereses y comisiones vencidos asumidos por la entidad
+Costes de transacción
 
-Importe registrado en el activo
+Descuento por deterioro en la fecha de adquisición
 
-Importe registrado en cuentas de orden
+Prima en la adquisición
 
-Intereses de demora asumidos por la entidad
+Descuento en la adquisición
 
-Importe registrado en el activo
+Ajustes por riesgo de crédito
 
-Importe registrado en cuentas de orden
-
-Gastos exigibles asumidos por la entidad
-
-Límite actual del riesgo asumido por la entidad
-
-Riesgo disponible asumido por la entidad
-
-Disponibilidad inmediata
-
-Disponibilidad condicionada
-
-Intereses devengados pendientes de vencimiento registrados en el activo
-
-Valor contable (excluidos ajustes por valoración)
-
-Importe de la operación que excede el valor de la garantía real
-
-Correcciones de valor por deterioro de activos. Coberturas específicas
+Deterioro de valor acumulado
 
 Riesgo cliente
 
-Riesgo-país
+Riesgo país
 
-Provisiones específicas
+Cambios acumulados en el valor razonable debidos al riesgo de crédito
+
+Importe positivo
+
+Importe negativo
+
+Resto de ajustes por valoración
+
+Intereses devengados
+
+Cambios acumulados en el valor razonable no debidos al riesgo de crédito
+
+Importe positivo
+
+Importe negativo
+
+Comisiones
+
+Operaciones de microcobertura
+
+Importe positivo
+
+Importe negativo
+
+Principal disponible
+
+Garantías y otros compromisos prestados
+
+Nominal
+
+Provisiones
 
 Riesgo cliente
 
-Riesgo-país
+Riesgo país
+
+Garantías recibidas
+
+Importe máximo de las garantías sobre el importe en libros bruto que puede considerarse
+
+Garantías sobre inmuebles residenciales y comerciales
+
+Garantías sobre el resto de inmuebles
+
+Otras garantías reales
+
+Garantías personales eficaces
+
+Importe máximo de las garantías sobre el importe en libros bruto o el nominal que pueden considerarse a efectos del cálculo del deterioro
+
+Garantías reales
+
+Garantías personales sin riesgo apreciable
+
+Exceso del importe en libros bruto o del nominal sobre el valor de las garantías reales y personales sin riesgo apreciable a efectos del cálculo del deterioro
 
 Número de operaciones
+
+> Se modifican los módulos A.1, A.2, B.2, C.1, D.2, G.2, H.1 a H.5, I.1 e I.2 por la norma 3.8 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365.
 
 > Se modifican los módulos D.2 y H.6 por la norma 2.7 de la Circular 5/2013, de 30 de octubre. Ref. BOE-A-2013-11729.

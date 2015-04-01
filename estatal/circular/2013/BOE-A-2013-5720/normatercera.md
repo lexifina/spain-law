@@ -8,7 +8,13 @@ b) Las personas relacionadas con los titulares o con las operaciones en las que 
 
 La declaración de los titulares y demás personas declarables se efectuará conforme a lo dispuesto en la norma quinta.
 
-2. Los titulares de riesgos, con carácter general, son personas físicas o jurídicas. No obstante, también pueden ser titulares declarables las entidades sin personalidad jurídica que tengan asignado un código de identificación fiscal, tales como los fondos de titulización y las parroquias. Sin embargo, en los casos de las comunidades de bienes, uniones temporales de empresas y sociedades civiles sin personalidad jurídica, los titulares declarables serán exclusivamente las personas físicas o jurídicas que las integran, que se declararán como titulares mancomunados o solidarios de acuerdo con el riesgo que asuman en la operación.
+2. Los titulares de riesgos, con carácter general, son personas físicas o jurídicas. No obstante, también pueden ser titulares declarables las entidades sin personalidad jurídica que tengan asignado un número de identificación fiscal, tales como los fondos de titulización, las parroquias y las comunidades de propietarios. Sin embargo, en los casos de las restantes comunidades de bienes, uniones temporales de empresas y sociedades civiles sin personalidad jurídica, los titulares declarables serán exclusivamente las personas físicas o jurídicas que las integran, que se declararán como titulares mancomunados o solidarios de acuerdo con el riesgo que asuman en la operación.
+
+> Téngase en cuenta que esta última actualización del párrafo primero del apartado 2 establecida por la norma 3.2.a) de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
+
+> Redacción anterior:
+
+> "2. Los titulares de riesgos, con carácter general, son personas físicas o jurídicas. No obstante, también pueden ser titulares declarables las entidades sin personalidad jurídica que tengan asignado un código de identificación fiscal, tales como los fondos de titulización y las parroquias. Sin embargo, en los casos de las comunidades de bienes, uniones temporales de empresas y sociedades civiles sin personalidad jurídica, los titulares declarables serán exclusivamente las personas físicas o jurídicas que las integran, que se declararán como titulares mancomunados o solidarios de acuerdo con el riesgo que asuman en la operación."
 
 Cuando una operación tenga varios titulares, se tendrán que declarar todos a la CIR, indicando la naturaleza de su intervención y, cuando proceda, si son titulares mancomunados o solidarios.
 
@@ -28,7 +34,13 @@ b) En el crédito comercial sin recurso, los obligados al pago de los derechos d
 
 c) En los arrendamientos financieros, los arrendatarios por los importes que se hayan comprometido a pagar. Las personas diferentes de los arrendatarios que se hayan comprometido a adquirir los activos cedidos en caso de que no lo haga el arrendatario serán titulares de riesgo indirecto por los importes que se hayan comprometido a pagar.
 
-d) En las adquisiciones temporales de activos, los cedentes de los activos, sea cual sea el activo cedido.
+d) En los préstamos de recompra inversa, los cedentes de los activos, sea cual sea el activo cedido.
+
+> Téngase en cuenta que esta última actualización de la letra d) del apartado 4 establecida por la norma 3.2.b) de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
+
+> Redacción anterior:
+
+> "d) En las adquisiciones temporales de activos, los cedentes de los activos, sea cual sea el activo cedido."
 
 e) En los anticipos de pensiones y nóminas por cuenta de Administraciones Públicas, las personas a las que se anticipan los fondos.
 
@@ -83,5 +95,7 @@ g) Las entidades que actúan como agentes en los préstamos sindicados.
 h) Las entidades declarantes a la CIR con las que se tengan operaciones con códigos vinculados.
 
 i) Las entidades emisoras de instrumentos financieros adquiridos temporalmente, recibidos en garantía de operaciones o prestados a terceros.
+
+> Se modifica el primer párrafo del apartado 2 y la letra d) del apartado 4 por la norma 3.2 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365.
 
 > Se modifica el primer párrafo y la letra c) del apartado 5 por la norma 2.1 de la Circular 5/2013, de 30 de octubre. Ref. BOE-A-2013-11729.

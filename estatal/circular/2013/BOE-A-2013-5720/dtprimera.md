@@ -6,7 +6,13 @@ No obstante lo dispuesto en el párrafo anterior, las altas y las modificaciones
 
 2. La declaración de datos a la CIR con arreglo a lo dispuesto en la presente circular se realizará conforme al siguiente calendario:
 
-a) Los módulos B.1 y B.2, desde los datos correspondientes a 30 de abril de 2015, inclusive. No obstante, los datos de las operaciones que presumiblemente se tengan que declarar a dicha fecha, así como los de las nuevas personas que intervengan en ellas que no sean declarables conforme a lo dispuesto en la Circular 3/1995, se podrán comenzar a enviar desde el 1 de febrero de 2015.
+a) Los módulos B.1 y B.2, desde los datos correspondientes a 30 de abril inclusive. No obstante, los datos de las operaciones que presumiblemente se tengan que declarar a dicha fecha se podrán comenzar a declarar desde el 1 de abril de 2015.
+
+> Téngase en cuenta que esta última actualización de la letra a) del apartado 2 establecida por la norma 3.7 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
+
+> Redacción anterior:
+
+> "a) Los módulos B.1 y B.2, desde los datos correspondientes a 30 de abril de 2015, inclusive. No obstante, los datos de las operaciones que presumiblemente se tengan que declarar a dicha fecha, así como los de las nuevas personas que intervengan en ellas que no sean declarables conforme a lo dispuesto en la Circular 3/1995, se podrán comenzar a enviar desde el 1 de febrero de 2015."
 
 b) Los módulos F, G.1 y G.2, desde los datos correspondientes a 30 de abril de 2015, inclusive. No obstante, los datos de las operaciones que presumiblemente se tengan que declarar a dicha fecha se podrán comenzar a enviar desde el 1 de abril de 2015.
 
@@ -26,10 +32,22 @@ c) En el módulo G.1 no se vincularán las operaciones vivas a 30 de abril de 20
 
 d) Las operaciones vivas a 30 de abril de 2015 que hayan sido subrogadas o segregadas hasta dicha fecha, inclusive, se declararán con el valor ‟Carga inicial" en la dimensión ‟Origen de la operación" de la parte 2 del módulo B.2. Este mismo valor se puede utilizar para declarar el resto de las operaciones, siempre que la entidad declarante no pueda asignarlo a los otros valores.
 
-e) Las operaciones vivas a 30 de abril de 2015 se declararán en la dimensión ‟Novaciones y refinanciaciones" de la parte 2 del módulo B.2 con el valor ‟Carga inicial. Refinanciaciones", cuando la operación cumpla la definición de refinanciación o refinanciada, con el valor ‟Carga inicial. Reestructuraciones", cuando la operación cumpla la definición de reestructuración, y con el valor ‟Carga inicial. Resto de las operaciones", en los demás casos.
+e) Las operaciones vivas a 30 de abril de 2015 se declararán en la dimensión ‟Estado de refinanciaciones y reestructuraciones" de la parte 2 del módulo B.2 con el valor ‟Carga inicial. Refinanciaciones", cuando la operación cumpla la definición de refinanciación o refinanciada, con el valor ‟Carga inicial. Reestructuraciones", cuando la operación cumpla la definición de reestructuración, y con el valor ‟Carga inicial. Resto de las operaciones", en los demás casos.
+
+> Téngase en cuenta que esta última actualización de la letra e) del apartado 3 establecida por la norma 3.7 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
+
+> Redacción anterior:
+
+> "e) Las operaciones vivas a 30 de abril de 2015 se declararán en la dimensión ‟Novaciones y refinanciaciones" de la parte 2 del módulo B.2 con el valor ‟Carga inicial. Refinanciaciones", cuando la operación cumpla la definición de refinanciación o refinanciada, con el valor ‟Carga inicial. Reestructuraciones", cuando la operación cumpla la definición de reestructuración, y con el valor ‟Carga inicial. Resto de las operaciones", en los demás casos."
 
 f) Los datos de la parte 3 del módulo C.1 no se declararán en la declaración de dicho módulo correspondiente a datos de 30 de abril de 2015.
 
 g) En el módulo E, el importe de las comisiones que compensan costes directos relacionados se comenzará a declarar para las operaciones que se formalicen desde el 1 de noviembre de 2014.
+
+h) Cuando la entidad no pueda obtener fácilmente el dato de la dimensión "Financiación de construcciones o promociones inmobiliarias. Licencia" para las operaciones formalizadas antes del 31 de diciembre de 2014 podrá indicar el valor "Carga inicial. Dato no disponible"
+
+> Téngase en cuenta que la letra h) del apartado 3 añadida por la norma 3.7 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
+
+> Se modifican los apartados 2.a) y 3 por la norma 3.7 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365.
 
 > Se modifica por la norma 2.5 de la Circular 5/2013, de 30 de octubre. Ref. BOE-A-2013-11729.

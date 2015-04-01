@@ -6,7 +6,7 @@
 | --- | --- |
 | Naturaleza de la intervención en la operación | Naturaleza en la que interviene el titular en la operación: – Titular de riesgo directo – Garante – Compromiso de firma en efectos |
 | Solidario/colectivo | Indica si el titular participa de forma solidaria o colectiva (junto con otros socios colectivos o integrantes de agrupaciones de interés económico) en la operación: – Solidario (número de participes) – Colectivo (número de participes) |
-| Tipo de producto | Tipo básico de producto al que pertenece la operación: – Crédito comercial con recurso – Crédito comercial sin recurso – Crédito financiero – Arrendamiento financiero para el arrendatario – Adquisición temporal de activos – Valor representativo de deuda – Aval financiero – Depósitos a futuro – Avales y cauciones no financieros prestados – Créditos documentarios irrevocables – Disponible en otros compromisos – Valores prestados |
+| Tipo de producto | Tipo básico de producto al que pertenece la operación: – Crédito comercial con recurso – Crédito comercial sin recurso – Crédito financiero – Arrendamiento financiero para el arrendatario – Préstamo de recompra inversa – Valor representativo de deuda – Aval financiero – Depósitos a futuro – Avales y cauciones no financieros prestados – Créditos documentarios irrevocables – Disponible en otros compromisos – Valores prestados |
 | Moneda | Moneda en la que está denominada la operación: – Euro – Libra esterlina – Corona sueca – Corona danesa – Corona noruega – Dólar USA – Dólar canadiense – Yen – Franco suizo – Otras |
 | Plazo residual | Plazo entre la fecha a la que se refiere la declaración y la de vencimiento de la operación: – Hasta tres meses – Más de tres meses y hasta un año – Más de un año y hasta cinco años – Más de cinco años – Vencimiento indeterminado |
 | Garantía real principal. Tipo de garantía real principal | Tipo de garantía real que cubre las operaciones: – Sin garantía real – Hipoteca inmobiliaria – Garantía pignoraticia (activos financieros) – Resto de las garantías reales |
@@ -26,5 +26,7 @@
 | Del que: Importes vencidos | Importe del riesgo dispuesto garantizado vencido cuando la fecha del primer incumplimiento de la operación tenga una antigüedad de más de 90 días. |
 | Del que: Intereses de demora y gastos exigibles | Importe del riesgo dispuesto garantizado correspondiente a intereses de demora y gastos pendientes de cobro cuando la fecha del primer incumplimiento de la operación tenga una antigüedad de más de 90 días. |
 | Riesgo disponible | “Riesgo máximo garantizado” menos “Riesgo dispuesto garantizado”. |
+
+> Se modifica por la norma 3.10 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365.
 
 > Se modifica por la norma 2.9 de la Circular 5/2013, de 30 de octubre. Ref. BOE-A-2013-11729.

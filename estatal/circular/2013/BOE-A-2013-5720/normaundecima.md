@@ -14,7 +14,13 @@ c) La operación proceda de un crédito documentario irrevocable.
 
 d) Se utilice el disponible de una póliza de riesgo global-multiuso o línea de avales, créditos documentarios o créditos por disposiciones.
 
-e) Se trate de operaciones subvencionadas, segregadas o con titulares mancomunados.
+e) Se trate de operaciones segregadas o con titulares mancomunados.
+
+> Téngase en cuenta que esta última actualización de la letra e) del apartado 2 establecida por la norma 3.5 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
+
+> Redacción anterior:
+
+> "e) Se trate de operaciones subvencionadas, segregadas o con titulares mancomunados."
 
 f) Se cambie el código de la operación por motivos de gestión interna.
 
@@ -53,5 +59,7 @@ C) Datos dinámicos de las operaciones que se han de comunicar a otras entidades
 9. El módulo G.3, Datos dinámicos de las operaciones que se han de comunicar a otras entidades, se enviará para declarar los importes garantizados al final del mes al que se refieren los datos de las operaciones declaradas en el módulo G.2 por recibir una garantía financiera o contraaval de un aval o caución no financiero de otra entidad declarante.
 
 10. El Banco de España reenviará los datos del módulo G.3 a la entidad que haya garantizado o contraavalado las operaciones desde el momento en el que esta comunique en el módulo G.1, Datos básicos que vinculan códigos, que las ha garantizado o contraavalado.
+
+> Se modifica el letra e) del apartado 2 por la norma 3.5 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365.
 
 > Se modifican las letras b) y c) del apartado 7 por la norma 2.2 de la Circular 5/2013, de 30 de octubre. Ref. BOE-A-2013-11729.

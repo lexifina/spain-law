@@ -10,7 +10,13 @@ Los datos del módulo D.1 se enviarán cada vez que se declare una operación co
 
 3. Los importes de los préstamos sindicados que se han de declarar en el módulo D.1 serán los que le correspondan a la entidad declarante en función del porcentaje con el que participe en el importe total del préstamo.
 
-4. Las operaciones subvencionadas y las que tengan titulares mancomunados se declararán en el módulo D.1 solo una vez, siempre que, en el caso de los titulares mancomunados, las garantías reales recibidas cubran la totalidad de la operación, utilizando como código de operación el que se asigne en la dimensión «Código que se vincula» del módulo G.1, Datos básicos que vinculan códigos.
+4. Las operaciones que tengan titulares mancomunados se declararán en el módulo D.1 solo una vez siempre que las garantías reales recibidas cubran la totalidad de la operación, utilizando como código de operación el que se asigne en la dimensión "Código que se vincula" del módulo G.1, Datos básicos que vinculan códigos.
+
+> Téngase en cuenta que esta última actualización del apartado 4 establecida por la norma 3.4 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
+
+> Redacción anterior:
+
+> "4. Las operaciones subvencionadas y las que tengan titulares mancomunados se declararán en el módulo D.1 solo una vez, siempre que, en el caso de los titulares mancomunados, las garantías reales recibidas cubran la totalidad de la operación, utilizando como código de operación el que se asigne en la dimensión «Código que se vincula» del módulo G.1, Datos básicos que vinculan códigos."
 
 B) Datos básicos de los inmuebles recibidos en garantía:
 
@@ -47,3 +53,5 @@ D) Datos dinámicos que relacionan las operaciones con los activos recibidos en 
 E) Datos dinámicos de los edificios en construcción y de las promociones inmobiliarias recibidos en garantía:
 
 13. El módulo D.5, Datos dinámicos de los edificios en construcción y de las promociones inmobiliarias recibidos en garantía, se enviará con información de los activos recibidos en garantía que sean edificios en construcción o rehabilitación, así como de las financiaciones cuya finalidad sea la promoción inmobiliaria.
+
+> Se modifica el apartado 4 por la norma 3.4 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365.

@@ -16,11 +16,23 @@ i) Crédito comercial: Los préstamos concedidos sobre la base de derechos de co
 
 2) Operaciones sin recurso: Cuando el cedente transfiere sustancialmente todos los riesgos y beneficios de los derechos de cobro, o cuando, sin transferirlos ni retenerlos sustancialmente, la entidad declarante adquiere el control de sus flujos de efectivo.
 
-ii) Crédito financiero: Las operaciones que, siendo préstamos declarables a la CIR, no están instrumentadas como crédito comercial, arrendamiento financiero o adquisición temporal de activos.
+ii) Crédito financiero: Las operaciones que, siendo préstamos declarables a la CIR, no están instrumentadas como crédito comercial, arrendamiento financiero o préstamo de recompra inversa.
+
+> Téngase en cuenta que esta última actualización del apartado 1.a).ii) establecida por la norma 3.1.a) de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
+
+> Redacción anterior:
+
+> "ii) Crédito financiero: Las operaciones que, siendo préstamos declarables a la CIR, no están instrumentadas como crédito comercial, arrendamiento financiero o adquisición temporal de activos."
 
 iii) Arrendamientos financieros: Las operaciones de arrendamiento que la entidad declarante debe registrar contablemente como préstamos porque ha transferido sustancialmente todos los riesgos y beneficios inherentes a la propiedad del activo objeto del contrato, aunque tengan la consideración de arrendamiento operativo para el arrendatario. Este concepto comprende las cuotas que ha de pagar el arrendatario, el importe comprometido por terceros distintos del arrendatario y los valores residuales no garantizados.
 
-iv) Adquisiciones temporales de activos: Los préstamos concedidos a cambio de valores u oro transferidos temporalmente mediante una compra con retrocesión no opcional, así como los importes entregados como garantía en efectivo de valores recibidos en préstamo.
+iv) Préstamos de recompra inversa: Los préstamos concedidos a cambio de valores u oro transferidos temporalmente mediante una compra con retrocesión no opcional, así como los importes entregados como garantía en efectivo de valores recibidos en préstamo.
+
+> Téngase en cuenta que esta última actualización del apartado 1.a).iv) establecida por la norma 3.1.a) de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
+
+> Redacción anterior:
+
+> "iv) Adquisiciones temporales de activos: Los préstamos concedidos a cambio de valores u oro transferidos temporalmente mediante una compra con retrocesión no opcional, así como los importes entregados como garantía en efectivo de valores recibidos en préstamo."
 
 Las operaciones que se han de declarar como préstamos a la CIR no incluyen, aunque sean derechos de cobro a favor de la entidad, los importes pendientes de cobro por cheques, los saldos frente a cámaras y organismos liquidadores por operaciones en bolsa y mercados organizados, las fianzas dadas en efectivo, los dividendos pasivos exigidos, las comisiones por garantías financieras y demás saldos deudores que no tengan la naturaleza de préstamo a efectos de los requerimientos estadísticos de la Unión Económica y Monetaria.
 
@@ -42,7 +54,13 @@ b) Riesgos indirectos: Los riesgos contraídos con los garantes, vendedores de p
 
 3. Los riesgos declarables se deben declarar de forma individualizada a la CIR, es decir, operación a operación. Para ello, las entidades declarantes asignarán a cada operación –o a cada parte en la que se tenga que dividir conforme a lo dispuesto en la norma tercera, apartado 3– un código único que se debe mantener invariable durante su vida, salvo que por motivos de gestión interna fuese necesario modificarlo, en cuyo caso se comunicará dicha circunstancia conforme a lo dispuesto en la norma undécima, letra A). Dicho código no se podrá reutilizar en el futuro para declarar otras operaciones.
 
-No obstante lo indicado en el párrafo anterior, las operaciones se declararán de forma agregada, conforme a lo dispuesto en la norma decimotercera, letra A), cuando se trate de préstamos a plazo (siempre que su finalidad sea el consumo, su importe al inicio de la operación no supere los 3.000 euros y su plazo original sea igual o inferior a doce meses), tarjetas de crédito, descubiertos, anticipos de pensiones o nóminas o resto de préstamos a la vista, y, además, todos los titulares cumplan los siguientes criterios:
+No obstante lo indicado en el párrafo anterior, las operaciones se declararán de forma agregada, conforme a lo dispuesto en la norma decimotercera, letra A), cuando se trate de préstamos a plazo (siempre que su finalidad sea el consumo, su importe al inicio de la operación no supere los 3.000 euros y su plazo original sea igual o inferior a doce meses), factoring sin recurso cuyo límite acumulado por deudor no supere los 3.000 euros, tarjetas de crédito, descubiertos, anticipos de pensiones o nóminas o resto de los préstamos a la vista, y, además, todos los titulares cumplan los siguientes criterios:
+
+> Téngase en cuenta que esta última actualización del párrafo segundo del apartado 3 establecida por la norma 3.1.b) de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
+
+> Redacción anterior:
+
+> "No obstante lo indicado en el párrafo anterior, las operaciones se declararán de forma agregada, conforme a lo dispuesto en la norma decimotercera, letra A), cuando se trate de préstamos a plazo (siempre que su finalidad sea el consumo, su importe al inicio de la operación no supere los 3.000 euros y su plazo original sea igual o inferior a doce meses), tarjetas de crédito, descubiertos, anticipos de pensiones o nóminas o resto de préstamos a la vista, y, además, todos los titulares cumplan los siguientes criterios:"
 
 a) pertenezcan al sector hogares o sean sociedades no financieras, o instituciones sin fines de lucro al servicio de los hogares, en las que no participen, en su capital o vía derechos de voto, entidades que tengan la consideración de sector público español, conforme a lo dispuesto en el artículo 2 de la Ley Orgánica 2/2012, de 27 de abril, de estabilidad presupuestaria y sostenibilidad financiera;
 
@@ -57,3 +75,9 @@ d) no tengan importes calificados como subestándar o de dudoso cobro, o el impo
 5. No obstante lo señalado en los apartados anteriores, el Fondo de Garantía de Depósitos de Entidades de Crédito no declarará las garantías que preste ante entidades declarantes como consecuencia de esquemas de protección de activos comprendidos en planes de actuación o reestructuración, o en otras medidas de apoyo a entidades de crédito adoptadas conforme a la normativa que regula su funcionamiento.
 
 Por su parte, las sociedades de reafianzamiento no declararán las operaciones en las que reafiancen las garantías financieras y los avales y otras cauciones no financieros prestados por otras entidades declarantes a la CIR.
+
+6. Los préstamos y valores representativos de deuda impagados continuarán declarándose a la CIR hasta la extinción de todos los derechos de la entidad (por prescripción, por condonación o por otras causas) o hasta su recuperación.
+
+> Téngase en cuenta que el apartado 6 añadido por la norma 3.1.c) de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
+
+> Se modican los apartados 1.a).ii) y iv), párrafo segundo del 3 y se añade un 6 por la norma 3.1 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365.

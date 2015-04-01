@@ -24,7 +24,13 @@ D) Datos dinámicos complementarios de las garantías financieras y otros compro
 
 E) Datos dinámicos de riesgos imputados a contrapartes finales distintas de las directas:
 
-7. El módulo H.5, Datos dinámicos de riesgos imputados a contrapartes finales distintas de las directas, se enviará cuando la entidad impute en los estados financieros, conforme a la normativa contable, todo o parte del importe de una operación a uno o más titulares de riesgo indirecto.
+7. El módulo H.5, Datos dinámicos de riesgos imputados a contrapartes finales distintas de las directas, se enviará cuando la entidad impute en los estados financieros, conforme a la normativa contable, todo o parte del importe de una operación a otra contraparte porque cuente con garantía personal eficaz o pignoraticia.
+
+> Téngase en cuenta que esta última actualización del apartado 7 establecida por la norma 3.6 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
+
+> Redacción anterior:
+
+> "7. El módulo H.5, Datos dinámicos de riesgos imputados a contrapartes finales distintas de las directas, se enviará cuando la entidad impute en los estados financieros, conforme a la normativa contable, todo o parte del importe de una operación a uno o más titulares de riesgo indirecto."
 
 F) Datos dinámicos relativos a requerimientos de recursos propios:
 
@@ -43,3 +49,5 @@ c) Parte 3, Datos adicionales para operaciones a las que se aplica el método IR
 10. Cuando, en el cálculo del coeficiente de recursos propios, el importe de una operación se distribuya entre varias personas (titulares de los riesgos directos e indirectos o emisores de instrumentos financieros que se reciban con garantía real) porque se asigne a más de una «categoría de la exposición» a efectos del cálculo de las exposiciones ponderadas por riesgo de crédito, en el módulo H.6 se vinculará el código de cada persona con los importes y el tratamiento de la exposición que se les asigne. Por este motivo, si el importe de la exposición se asigna, total o parcialmente, a personas distintas de la contraparte directa, a esta solo se le imputarán los importes que, en su caso, se le asignen después de aplicar las técnicas de reducción del riesgo de crédito, y a cada una de las restantes personas, el importe de la operación que se les atribuya.
 
 11. En el módulo H.6 se declararán exclusivamente los importes de las operaciones transferidas, así como los de las adquiridas a terceros que continúen con su gestión frente a los titulares, que le correspondan a la entidad declarante para las que se calculen recursos propios de forma individualizada.
+
+> Se modifica el apartado 7 por la norma 3.6 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365.
