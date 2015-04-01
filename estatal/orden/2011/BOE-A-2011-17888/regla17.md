@@ -6,6 +6,8 @@ a) Registrar las operaciones de ejecución de la sección presupuestaria de la D
 
 b) Registrar las operaciones generadas y de competencia de la Dirección General del Tesoro y Política Financiera derivadas de la ejecución de los gastos del Presupuesto corriente hasta la propuesta de pago; la realización de los gastos de carácter plurianual a que se refiere el artículo 47 de la Ley General Presupuestaria; la tramitación anticipada de gastos; y la gestión y control de proyectos de gasto.
 
+b') Registrar en el sistema de información contable las operaciones de reconocimiento de la obligación y propuesta de pago generadas en el ámbito de la Secretaría General del Tesoro y Política Financiera relativas a contratos centralizados financiados con cargo a los créditos disponibles al efecto en la sección 31 "Gastos de Diversos Ministerios".
+
 c) Registrar las operaciones de ordenación de pagos que se realicen en el ámbito de la Dirección General del Tesoro y Política Financiera, así como los pagos que se efectúen en dicho ámbito.
 
 d) Registrar, en su caso, en relación con los ingresos no tributarios cuya gestión corresponda al ámbito de la Dirección General del Tesoro y Política Financiera o hayan de aplicarse de forma centralizada por la misma, las operaciones derivadas tanto de la ejecución del Presupuesto corriente, incluidas las propuestas de pago por devolución de ingresos, como de los derechos pendientes de cobro de presupuestos de ingresos cerrados, así como las operaciones relativas al control individualizado de liquidaciones de contraído previo.
@@ -24,8 +26,10 @@ j) Registrar datos en el fichero central de terceros, de acuerdo con las compete
 
 k) Expedir certificaciones de datos registrados en el SIC.
 
-k') La gestión del Registro contable de facturas, en relación con las facturas relativas a las operaciones del apartado b) anterior.
+k') La gestión del Registro contable de facturas, en relación con las facturas relativas a las operaciones de los apartados b) y b') anteriores.
 
 l) Aquellas otras funciones que le puedan ser encomendadas.
+
+> Se modifica por los arts. 4.5 y 4.6 de la Orden HAP/538/2015, de 23 de marzo. Ref. BOE-A-2015-3446.
 
 > Se añade la letra k') por el art. 4.5 de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.

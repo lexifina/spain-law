@@ -4,7 +4,7 @@
 
 Primero.–Las anualidades que correspondan al ejercicio que se inicia de compromisos plurianuales de gastos contraídos en años anteriores.
 
-Segundo.–Las retenciones de crédito realizadas de acuerdo con el procedimiento previsto en la disposición adicional decimonovena de la Ley General Presupuestaria que hubieran quedado pendientes de anular.
+Segundo.–Las retenciones de crédito realizadas de acuerdo con el procedimiento previsto en las disposiciones adicionales decimonovena y vigésima primera de la Ley General Presupuestaria que hubieran quedado pendientes de anular.
 
 Tercero.–Todos aquellos compromisos de gasto imputados al presupuesto del ejercicio anterior que hubieran quedado pendientes del reconocimiento de obligaciones, siempre que dichos compromisos estuviesen efectivamente contraídos con una persona o entidad claramente identificada en el correspondiente expediente y ajena a la Administración General del Estado.
 
@@ -23,6 +23,8 @@ Octavo.–Las anualidades que correspondan al ejercicio que se inicia de las ret
 3. Cuando en el presupuesto del ejercicio en curso no hubiera crédito o éste fuera insuficiente para imputar las operaciones de gasto a las que se refiere el apartado 1 anterior, la oficina de contabilidad obtendrá una relación de aquellas que no se hubiesen podido imputar al nuevo presupuesto, con la especificación de los distintos expedientes afectados, que remitirá al respectivo Servicio gestor con la indicación de que en el plazo de treinta días deberá comunicar a dicha oficina las actuaciones a realizar con respecto a las operaciones pendientes de registro contable incluidas en la relación.
 
 No obstante, en el caso de que no se puedan imputar al presupuesto del ejercicio en curso las anualidades que correspondan al ejercicio que se inicia de compromisos de gasto de carácter plurianual contabilizados en años anteriores, se seguirá el procedimiento regulado en la Disposición adicional decimonovena de la Ley General Presupuestaria.
+
+> Se modifica el apartado 1.segundo por el art. 1.1 de la Orden HAP/538/2015, de 23 de marzo. Ref. BOE-A-2015-3446.
 
 > Se modifica por el art. 1.2 de la Orden HAP/1357/2013, de 11 de julio. Ref. BOE-A-2013-7814.
 

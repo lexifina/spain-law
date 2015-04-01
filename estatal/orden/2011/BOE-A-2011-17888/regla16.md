@@ -4,6 +4,8 @@ Corresponde a las Oficinas de Contabilidad de las Intervenciones de las Delegaci
 
 a) Registrar las operaciones a que se refieren los apartados a) y d) de la regla anterior, generadas en su ámbito territorial, cuando así corresponda en función de los actos de delegación y desconcentración de competencias en los Servicios periféricos por los Servicios Centrales de los Departamentos Ministeriales.
 
+a') Registrar en el sistema de información contable las operaciones de reconocimiento de la obligación y propuesta de pago generadas en su ámbito territorial, relativas a contratos centralizados financiados con cargo a los créditos disponibles al efecto en la sección 31 "Gastos de Diversos Ministerios", cuando así corresponda en función de los actos de delegación y desconcentración de competencias en los servicios periféricos.
+
 b) Registrar, en su caso, en relación con los ingresos no tributarios, las operaciones derivadas de la ejecución del Presupuesto corriente, de los derechos pendientes de cobro de presupuestos de ingresos cerrados, y de la información necesaria para el control individualizado de liquidaciones de contraído previo; así como las propuestas de pago por devolución de ingresos cuya gestión corresponda al ámbito territorial de la Delegación de Economía y Hacienda.
 
 c) Registrar las operaciones no presupuestarias que se produzcan en el ámbito territorial de la Delegación, así como las que tengan lugar en relación con la Caja General de Depósitos.
@@ -21,5 +23,7 @@ h) Registrar datos en el fichero central de terceros, de acuerdo con las compete
 h') La gestión del Registro contable de facturas, en relación con las facturas relativas a gastos tramitados por los Servicios gestores del correspondiente Departamento ministerial.
 
 i) Aquellas otras funciones que les puedan ser encomendadas.
+
+> Se modifica por los arts. 4.3 y 4.4 de la Orden HAP/538/2015, de 23 de marzo. Ref. BOE-A-2015-3446.
 
 > Se añade la letra h') por el art. 4.4 de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.

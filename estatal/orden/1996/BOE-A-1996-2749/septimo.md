@@ -2,9 +2,11 @@
 
 1. Los documentos MC de «modificación de créditos» y RC-102 de «no disponibilidad» serán autorizados por el Director General de Presupuestos.
 
-2. Los demás documentos contables que se indican en el apartado anterior serán autorizados por el responsable del órgano que tenga encomendada la gestión de los créditos a los que se refieran las respectivas operaciones, excepto en los casos de documentos RC que deban ser expedidos por la oficina presupuestaria o por la Dirección General de Presupuestos, que se autorizarán por los responsables de las mismas; de documentos RC expedidos de oficio, que se autorizarán por el jefe de contabilidad; de documentos TR para tramitación anticipada, que se autorizarán por el jefe de la oficina de contabilidad que expida el documento; y de documentos PR para prescripción de obligaciones, que se autorizarán por el responsable del órgano que haya realizado la aprobación del expediente de prescripción.
+2. Los demás documentos contables que se indican en el apartado anterior serán autorizados por el responsable del órgano que tenga encomendada la gestión de los créditos a los que se refieran las respectivas operaciones, excepto en los casos de documentos RC que deban ser expedidos por la oficina presupuestaria o por la Dirección General de Presupuestos, que se autorizarán por los responsables de las mismas; de documentos RC expedidos de oficio, que se autorizarán por el jefe de contabilidad; de documentos PR para prescripción de obligaciones, que se autorizarán por el responsable del órgano que haya realizado la aprobación del expediente de prescripción; y de documentos OK relativos a contratos centralizados financiados con cargo a los créditos disponibles al efecto en la sección 31 "Gastos de Diversos Ministerios", que serán autorizados por el responsable del órgano en cuyo titular haya delegado el Ministro de Hacienda y Administraciones Públicas la competencia para el reconocimiento de la obligación y la propuesta de pago.
 
 En el caso de que se utilice el propio documento contable como soporte del acto administrativo por el que se ejecuta la correspondiente operación, en dicho documento deberán constar todos los requisitos necesarios para que dicho acto administrativo tenga validez.
+
+> Se modifica el primer párrafo del punto 2 por el art. 2 de la Orden HAP/538/2015, de 23 de marzo. Ref. BOE-A-2015-3446.
 
 > Se modifica el punto 1 por el art. 1.3 de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
 

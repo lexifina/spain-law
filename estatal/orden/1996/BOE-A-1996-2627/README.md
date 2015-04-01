@@ -133,6 +133,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Regla 77](regla77.md)
 - [Regla 78](regla78.md)
 - [Regla 78 bis](regla78bis.md)
+- [Regla 78 ter](regla78ter.md)
 - [Regla 79](regla79.md)
 - [Regla 80](regla80.md)
 - [SECCIÓN 3](s3-3.md)
