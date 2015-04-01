@@ -4,7 +4,7 @@
 
 2. La renta máxima inicial por metro cuadrado útil de las viviendas de protección oficial a que se refiere el apartado anterior, será el porcentaje del precio máximo de venta que corresponda de conformidad con la normativa estatal o autonómica aplicable.
 
-3. En todo caso, la revisión de las rentas de las viviendas de protección oficial, cualquiera que fuera la legislación a cuyo amparo estén acogidas, podrá practicarse anualmente en función de las variaciones porcentuales del Indice Nacional General del Sistema de Indices de Precios de Consumo.
+3. No se aplicará revisión de rentas de las viviendas de protección oficial salvo pacto explícito entre las partes. En caso de pacto expreso entre las partes sobre algún mecanismo de revisión de valores monetarios que no detalle el índice o metodología de referencia, la renta se revisará para cada anualidad por referencia a la variación anual del Índice de Garantía de Competitividad.
 
 4. Además de las rentas iniciales o revisadas, el arrendador podrá percibir el coste real de los servicios de que disfrute el arrendatario y satisfaga el arrendador.
 
@@ -17,3 +17,7 @@
 8. El arrendamiento de viviendas de protección oficial de promoción pública se regirá por las normas particulares de éstas respecto del plazo de duración del contrato, las variaciones de la renta, los límites de repercusión de cantidades por reparación de daños y mejoras, y lo previsto respecto del derecho de cesión y subrogación en el arrendamiento, y en lo no regulado por ellas por las de la presente ley, que se aplicará íntegramente cuando el arrendamiento deje de estar sometido a dichas disposiciones particulares.
 
 La excepción no alcanzará a las cuestiones de competencia y procedimiento en las que se estará por entero a lo dispuesto en la presente ley.
+
+> Se modifica el apartado 3 por la disposición final 1.2 de la Ley 2/2015, de 30 de marzo. Ref. BOE-A-2015-3443#dfprimera.
+
+> Téngase en cuenta que esta modificación será de aplicación exclusivamente a los contratos que se perfeccionen con posterioridad a su entrada en vigor, según establece la disposición transitoria.4 de la citada norma.
