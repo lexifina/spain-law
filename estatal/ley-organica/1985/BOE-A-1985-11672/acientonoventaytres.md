@@ -10,13 +10,15 @@ b) 0,54 euros por cada uno de los votos obtenidos por cada candidatura, uno de c
 
 3. Además de las subvenciones a que se refieren los apartados anteriores, el Estado subvencionará a los partidos, federaciones, coaliciones o agrupaciones los gastos electorales originados por el envío directo y personal a los electores de sobres y papeletas electorales o de propaganda y publicidad electoral de acuerdo con las reglas siguientes:
 
-a) Se abonarán 0,22 euros por elector en cada una de las circunscripciones en las que haya obtenido representación en las Corporaciones Locales de que se trate, siempre que la candidatura de referencia hubiese presentado listas en el 50 por 100 de los municipios de más de 10.000 habitantes de la provincia correspondiente y haya obtenido, al menos, representación en el 50 por 100 de los mismos.
+a) Se abonarán 0,18 euros por elector en cada una de las circunscripciones en las que haya obtenido representación en las Corporaciones Locales de que se trate, siempre que la candidatura de referencia hubiese presentado listas en el 50 por 100 de los municipios de más de 10.000 habitantes de la provincia correspondiente y haya obtenido, al menos, representación en el 50 por 100 de los mismos.
 
 b) La cantidad subvencionada no estará incluida dentro del límite previsto en el apartado 2 de este artículo, siempre que se haya justificado la realización efectiva de la actividad a la que se refiere este apartado.
 
 4. Las cantidades mencionadas en los apartados anteriores se refieren a euros constantes. Por Orden del Ministerio de Economía y Hacienda se fijan las cantidades actualizadas en los cinco días siguientes a la convocatoria.
 
 5. No habrá lugar al pago de las subvenciones en los supuestos establecidos en los apartados 2, 3 y 4 del artículo 127 de la presente Ley.
+
+> Se modifica el apartado 3.a) por la disposición final 4.5 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
 
 > Se modifica por el art. único.56 de la Ley Orgánica 2/2011, de 28 de enero. Ref. BOE-A-2011-1639.
 

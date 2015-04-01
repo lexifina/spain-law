@@ -10,19 +10,21 @@ b) 1,08 euros por cada uno de los votos obtenidos por cada candidatura, uno de c
 
 3. Además de las subvenciones a que se refieren los apartados anteriores, el Estado subvencionará a los partidos, federaciones, coaliciones o agrupaciones los gastos electorales originados por el envío directo y personal a los electores, en al menos una Comunidad autónoma, de sobres y papeletas electorales o de propaganda y publicidad electoral de acuerdo con las reglas siguientes:
 
-a) Se abonarán 0,16 euros por elector, siempre que la candidatura hubiera obtenido al menos un Diputado y como mínimo un 15 por 100 de los votos válidos emitidos.
+a) Se abonarán 0,13 euros por elector, siempre que la candidatura hubiera obtenido al menos un Diputado y como mínimo un 15 por 100 de los votos válidos emitidos.
 
-b) Se abonarán 0,11 euros por elector, siempre que la candidatura hubiera obtenido al menos un Diputado y como mínimo un 6 por 100 de los votos válidos emitidos.
+b) Se abonarán 0,09 euros por elector, siempre que la candidatura hubiera obtenido al menos un Diputado y como mínimo un 6 por 100 de los votos válidos emitidos.
 
-c) Se abonarán 0,03 euros por elector, siempre que la candidatura hubiera obtenido al menos un Diputado y como mínimo un 3 por 100 de los votos válidos emitidos.
+c) Se abonarán 0,025 euros por elector, siempre que la candidatura hubiera obtenido al menos un Diputado y como mínimo un 3 por 100 de los votos válidos emitidos.
 
-d) Se abonará 0,02 euros por elector, siempre que la candidatura hubiera obtenido al menos un Diputado y como mínimo un 1 por 100 de los votos válidos emitidos.
+d) Se abonará 0,016 euros por elector, siempre que la candidatura hubiera obtenido al menos un Diputado y como mínimo un 1 por 100 de los votos válidos emitidos.
 
 La cantidad subvencionada no estará incluida dentro del límite previsto en el apartado 2 de este artículo, siempre que se haya justificado la realización efectiva de la actividad a la que se refiere este apartado.
 
 4. Las cantidades mencionadas en los apartados anteriores se refieren a euros constantes. Por Orden del Ministerio de Economía y Hacienda se fijan las cantidades actualizadas en los cinco días siguientes a la convocatoria de elecciones.
 
 5. No habrá lugar al pago de las subvenciones en los supuestos establecidos en los apartados 2, 3 y 4 del artículo 127 de la presente Ley.
+
+> Se modifica el apartado 3 por la disposición final 4.6 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
 
 > Se modifica por el art. único.61 de la Ley Orgánica 2/2011, de 28 de enero. Ref. BOE-A-2011-1639.
 
