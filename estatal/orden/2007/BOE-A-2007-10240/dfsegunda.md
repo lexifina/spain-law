@@ -1,6 +1,6 @@
 ## Disposición final segunda.
 
-Las indemnizaciones recogidas en la presente Orden se aplicarán desde la fecha que se indica para cada misión:
+Las indemnizaciones recogidas en esta orden se aplicarán desde la fecha que se indica para cada misión:
 
 Congo: 25 de enero de 2007.
 
@@ -31,6 +31,22 @@ Níger: 4 de mayo de 2012.
 Libia: 15 de enero de 2012.
 
 Irak: 7 de marzo de 2012.
+
+Yibuti: 1 de junio de 2014.
+
+Kenia: 1 de junio de 2014.
+
+Somalia: 1 de junio de 2014.
+
+Seychelles: 1 de junio de 2014.
+
+Tanzania: 1 de junio de 2014.
+
+Liberia: 6 de julio de 2014.
+
+Ucrania: 22 de diciembre de 2014.
+
+> Se modifica por el apartado único.1 de la rden INT/577/2015, de 24 de marzo. Ref. BOE-A-2015-3652.
 
 > Se modifica por el apartado único.1 de la Orden INT/995/2012, de 27 de abril. Ref. BOE-A-2012-6367.
 

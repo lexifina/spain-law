@@ -56,7 +56,7 @@
 | Guinea Bissau: |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta de resto del mundo. | 55 |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta de resto del mundo. | 80 |
-| Mali: |
+| Mali |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta de resto del mundo, según R.D. 462/2002 de 24 de mayo. | 55 |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta de resto del mundo, según R.D. 462/2002 de 24 de mayo. | 80 |
 | Níger |
@@ -68,6 +68,29 @@
 | Irak |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta, según R.D. 462/2002 de 24 de mayo. | 55 |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta, según R.D. 462/2002 de 24 de mayo. | 80 |
+| Yibuti |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta, de resto del mundo según R. D. 462/2002, de 24 de mayo. | 55 |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta, de resto del mundo según R. D. 462/2002, de 24 de mayo. | 80 |
+| Kenia |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta, según R.D. 462/2002, de 24 de mayo. | 55 |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta, según R.D. 462/2002, de 24 de mayo. | 80 |
+| Somalia |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 55 |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 80 |
+| Seychelles |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 55 |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 80 |
+| Tanzania |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta, según R.D. 462/2002, de 24 de mayo. | 55 |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta, según R.D. 462/2002, de 24 de mayo. | 80 |
+| Liberia |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 55 |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 80 |
+| Ucrania |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 55 |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 80 |
+
+> Se modifica por el apartado único.2 de la Orden INT/577/2015, de 24 de marzo. Ref. BOE-A-2015-3652.
 
 > Se modifica por el apartado único.2 de la Orden INT/995/2012, de 27 de abril. Ref. BOE-A-2012-6367.
 
