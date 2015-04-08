@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Denominación de titulaciones académicas.
+
+Hasta que se produzca la implantación definitiva de los títulos de grado en el Sistema Nacional de Salud de acuerdo con la normativa de ordenación de las enseñanzas universitarias oficiales, todas las referencias que en este real decreto se hacen a los licenciados y diplomados sanitarios se entenderán realizadas a los graduados universitarios, debiéndose actualizar el catálogo homogéneo de equivalencias de las categorías profesionales de los servicios de salud una vez que se incorpore al ordenamiento jurídico sanitario dicha denominación en las titulaciones.
