@@ -1,17 +1,11 @@
 ## Disposición adicional tercera. Reconocimiento de las licencias de maquinistas expedidas por otros Estados miembros de la Unión Europea.
 
-1. Las licencias de maquinistas en vigor expedidas por los demás Estados miembros de la Unión Europea de conformidad con la normativa comunitaria serán válidas en el Estado español. Por razones de seguridad en la circulación deberán acreditar el requisito de conocimiento del idioma castellano correspondiente al nivel 3 del anexo VI, apartado 8, de la Directiva 2007/59, de 23 de octubre, por el cual el maquinista demuestre la capacidad de comunicarse de forma que:
+1. Las licencias de maquinistas en vigor expedidas por los demás Estados miembros de la Unión Europea de conformidad con la normativa comunitaria serán válidas en el Estado español. Por razones de seguridad en la circulación deberán acreditar el requisito de conocimiento del idioma castellano correspondiente al nivel B1, de acuerdo con lo dispuesto en la Directiva 2014/82/UE, de la Comisión de 24 de junio de 2014 que modifica la Directiva 2007/59/CE del Parlamento y del Consejo, en lo que respecta a los conocimientos profesionales generales, los requisitos médicos y las prescripciones relativas a la licencia.
 
-Pueda hacer frente a situaciones concretas en que exista un elemento imprevisto.
-
-Pueda describir.
-
-Pueda mantener una conversación sencilla.
-
-Con la finalidad de que las comunicaciones se realicen de manera segura y eficaz con todos sus interlocutores en el sistema ferroviario español.
-
-2. La acreditación del conocimiento del idioma castellano a que se refiere el apartado anterior podrá realizarse, entre otras formas, a través de un certificado expedido por un centro homologado de formación de personal ferroviario.
+2. La acreditación del conocimiento del idioma castellano a que se refiere el apartado anterior podrá realizarse, entre otras formas, mediante un certificado emitido por un centro de enseñanza de idiomas oficialmente reconocido o a través de un certificado expedido por un centro homologado de formación de personal ferroviario. Para ello, los centros homologados de formación podrán realizar a los interesados pruebas de evaluación, que permitan comprobar sus competencias lingüísticas en el campo ferroviario, en cuyo caso la prueba se realizará mediante un examinador reconocido específicamente en dicho ámbito.
 
 3. La validez de las licencias de los maquinistas expedidas por Estados no miembros de la Unión Europea dependerá de lo que se establezca en los correspondientes acuerdos bilaterales suscritos por el Estado español.
 
 4. Para el reconocimiento de las licencias de maquinista expedidas a ciudadanos de la Unión Europea en un Estado no miembro de la misma, les será de aplicación el régimen de reconocimiento de las cualificaciones profesionales establecido por el Real Decreto 1837/2008, de 8 de noviembre, que incorpora al ordenamiento jurídico español la Directiva 2005/36/CE del Parlamento Europeo y del Consejo de 7 de septiembre de 2005 y la Directiva 2006/100/CE, del Consejo de 20 de noviembre de 2006, relativas al reconocimiento de cualificaciones profesionales, así como a determinados aspectos de la profesión de abogado.
+
+> Se modifican los apartados 1 y 2 por el art. único.41 de la Orden FOM/679/2015, de 9 de abril. Ref. BOE-A-2015-4243.
