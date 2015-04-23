@@ -54,4 +54,8 @@ IV. Otras Facultades Eclesiásticas.
 
 Facultad de Literatura Cristiana y Clásica «San Justino» de la Universidad Eclesiástica «San Dámaso» (Madrid).
 
+Facultad de Historia, Arqueología y Artes Cristianas "Antonio Gaudí" de Cataluña (Barcelona).
+
+> Se modifica por el art. único.2 de la Orden ECD/699/2015, de 15 de abril. Ref. BOE-A-2015-4325.
+
 > Se modifica por la disposición final.1 del Real Decreto 477/2013, de 21 de junio. Ref. BOE-A-2013-7709.
