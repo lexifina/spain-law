@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Nota media del alumnado que ha cursado enseñanzas reguladas en la Orden ECI/2211/2007, de 12 de julio.
+
+Para el alumnado que haya cursado parte de las enseñanzas de Educación primaria según el currículo establecido en la Orden ECI/2211/2007, de 12 de julio, por la que se establece el currículo y se regula la ordenación de la Educación Primaria, el cálculo de la nota media a la que se refiere el artículo 3 de la presente orden se realizará teniendo en cuenta la siguiente correspondencia: Insuficiente = 4; Suficiente = 5,5; Bien = 6,5; Notable =7,5 y Sobresaliente = 9.
