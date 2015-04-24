@@ -42,4 +42,6 @@ d) Disponer del curso completo que recibirá el alumno y que deberá incluir los
 
 e) Disponer de una planificación de la actuación de los formadores que desarrolle la programación de cada módulo formativo del certificado de profesionalidad, que pueda ser utilizado como guía de aprendizaje y evaluación.
 
+> Se declara que el párrafo tercero del apartado 4, en la redacción dada por el Real Decreto 189/2013, de 15 de marzo, vulnera las competencias de la Generalitat de Cataluña, por Sentencia del TC 61/2015, de 18 de marzo. Ref. BOE-A-2015-4516
+
 > Se añade por el art. 1.7 del Real Decreto 189/2013, de 15 de marzo. Ref. BOE-A-2013-3092.
