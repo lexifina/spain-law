@@ -20,13 +20,13 @@ b) Aprobar los gastos con cargo a los créditos de los Capítulos 2 a 8 del serv
 
 c) Expedir los documentos contables procedentes en relación con la gestión de los créditos incluidos en los dos apartados precedentes y aprobar las cuentas relativas a dichos gastos.
 
-2. Con la previa aprobación prevista en la disposición adicional decimotercera de la Ley 6/1997, de 14 de abril, el Secretario de Estado de Infraestructuras, Transporte y Vivienda delega en los titulares de las respectivas Direcciones Generales, con las salvedades previstas en el apartado 3 siguiente y en los apartados decimoquinto y decimosexto de esta Orden, el ejercicio de las siguientes competencias:
+2. Con la previa aprobación prevista en la disposición adicional decimotercera de la Ley 6/1997, de 14 de abril, el Secretario de Estado de Infraestructuras, Transporte y Vivienda delega en los titulares de las respectivas Direcciones Generales, en el titular de la Subdirección General de Planificación Ferroviaria y, para el ejercicio 2015, en el Director de la Agencia Estatal de Seguridad Ferroviaria, en sus respectivos ámbitos funcionales, con las salvedades previstas en el apartado 3 siguiente y en los apartados decimoquinto y decimosexto de esta Orden, el ejercicio de las siguientes competencias:
 
-A) Aprobar los gastos con cargo a los créditos de sus respectivos servicios presupuestarios, excepto los del Capítulo 1.
+A) Aprobar los gastos con cargo a los créditos presupuestarios que tienen asignados, excepto los del Capítulo 1.
 
-B) Autorizar los compromisos y liquidaciones que procedan en relación con los gastos aprobados e interesar del Tesoro Público la ordenación de los oportunos pagos.
+B) Autorizar los compromisos y liquidaciones que procedan en relación con los gastos aprobados, reconocer las obligaciones e interesar del Tesoro Público la ordenación de los oportunos pagos.
 
-C) Expedir los documentos contables procedentes y aprobar las cuentas relativas a dichos gastos.
+C) Autorizar los documentos contables a que se refiere la normativa del Ministerio de Hacienda y Administraciones Públicas sobre operaciones contables de ejecución presupuestaria y aprobar las cuentas relativas a dichos gastos.
 
 3. Con la previa aprobación prevista en la disposición adicional decimotercera de la Ley 6/1997, de 14 de abril, el Secretario de Estado de Infraestructuras, Transporte y Vivienda delega, respectivamente, en los titulares de las Subdirecciones Generales de Política y Ayudas a la Vivienda, de Arquitectura y Edificación y de Coordinación y Gestión Administrativa, dependientes de la Dirección General de Arquitectura, Vivienda y Suelo, el ejercicio de las siguientes competencias para los gastos cuya cuantía no exceda de 100.000 euros, en sus respectivos ámbitos funcionales:
 
@@ -35,5 +35,7 @@ a) Aprobar los gastos con cargo a los créditos del servicio presupuestario de l
 b) Autorizar los compromisos y liquidaciones que procedan en relación con los gastos aprobados e interesar del Tesoro Público la ordenación de los oportunos pagos.
 
 c) Expedir los documentos contables procedentes y aprobar las cuentas relativas a dichos gastos.
+
+> Se modifica el apartado 2 por el art. único.3 de la Orden FOM/731/2015, de 17 de abril. Ref. BOE-A-2015-4467.
 
 > Se modifica el primer párrafo del apartado 1.A) por el apartado 1.2 de la Orden FOM/756/2014, de 8 de mayo. Ref. BOE-A-2014-4975.

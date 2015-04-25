@@ -25,3 +25,7 @@ B) En el caso de Cajas pagadoras periféricas, en los Jefes de las Demarcaciones
 4. Se delega en los Jefes de las Demarcaciones de Carreteras con Caja pagadora el ejercicio de la competencia atribuida al titular del Departamento para interesar del Tesoro Público los pagos que procedan para la dotación extrapresupuestaria o reposición de fondos del «anticipo de Caja fija», expidiendo los oportunos documentos contables, y para aprobar las correspondientes cuentas.
 
 5. El ejercicio de las competencias delegadas en este apartado quinto se entenderá sin perjuicio de las funciones de coordinación que corresponden a la Inspección General de Fomento respecto de las unidades y servicios periféricos del Departamento.
+
+6. Se delega en el Director de la Agencia Estatal de Seguridad Ferroviaria para el ejercicio 2015 el ejercicio de la competencia atribuida al titular del Departamento para acordar gastos y pagos con cargo a "anticipos de Caja Fija" con cargo a los créditos presupuestarios que tiene asignados de acuerdo con su ámbito funcional.
+
+> Se añade el apartado 6 por el art. único.4 de la Orden FOM/731/2015, de 17 de abril. Ref. BOE-A-2015-4467.

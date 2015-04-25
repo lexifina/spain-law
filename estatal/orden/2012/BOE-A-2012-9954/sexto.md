@@ -16,4 +16,6 @@ D) En la Comisión de Investigación de accidentes ferroviarios, cuando se trate
 
 E) En el titular de la Oficialía Mayor, en los casos restantes.
 
-4. Se delega en los titulares de las Direcciones Generales de Aviación Civil, de Carreteras y de Ferrocarriles, el ejercicio de las competencias que el ordenamiento jurídico atribuye al titular del Departamento en materia de expropiación forzosa, según se trate, respectivamente, de infraestructuras, obras e instalaciones aeroportuarias o necesarias para la navegación aérea, de carreteras o ferroviarias, con las salvedades previstas en el apartado decimosexto de esta Orden.
+4. Se delega en el titular de la Secretaría General de Infraestructuras y en los titulares de las Direcciones Generales de Aviación Civil y de Carreteras, el ejercicio de las competencias que el ordenamiento jurídico atribuye al titular del Departamento en materia de expropiación forzosa, según se trate respectivamente, de infraestructuras, obras e instalaciones ferroviarias, aeroportuarias o de carreteras, con las salvedades previstas en el apartado decimosexto de esta Orden.
+
+> Se modifica el apartado 4 por el art. único.5 de la Orden FOM/731/2015, de 17 de abril. Ref. BOE-A-2015-4467.

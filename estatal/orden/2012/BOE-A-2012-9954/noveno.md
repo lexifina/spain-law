@@ -14,4 +14,8 @@ A) En los titulares de las Secretarías Generales de Infraestructuras y de Trans
 
 B) En los titulares de las respectivas Direcciones Generales, para las encomiendas que afecten a sus respectivas competencias y cuya cuantía no exceda de 1.000.000 de euros.
 
+C) En el titular de la Subdirección General de Planificación Ferroviaria para las encomiendas que afecten a sus competencias cuya cuantía no exceda de 1.000.000 de euros.
+
 3. Se delega en el titular de la Subsecretaría el ejercicio de las competencias que el ordenamiento jurídico atribuye al titular del Departamento respecto a la aprobación de las tarifas de los servicios aplicables a la Administración General del Estado para la realización de encomiendas de gestión que presten las entidades que tengan la condición de medio propio y servicio técnico dependientes del Departamento.
+
+> Se añade el apartado 2.C) por el art. único.6 de la Orden FOM/731/2015, de 17 de abril. Ref. BOE-A-2015-4467.
