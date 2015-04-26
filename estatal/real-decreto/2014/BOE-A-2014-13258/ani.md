@@ -20,7 +20,7 @@ c) Árboles de frutos secos.
 
 d) Superficies de interés ecológico, según la definición del artículo 24 del Real Decreto 1075/2014, de 19 de diciembre, sobre la aplicación a partir de 2015 de los pagos directos a la agricultura y a la ganadería y otros regímenes de ayuda, así como sobre la gestión y control de los pagos directos y de los pagos al desarrollo rural.
 
-e) Particularidades topográficas o elementos del paisaje, según se definen en el artículo 2 d) del Real Decreto 1078/2014 de 19 de diciembre, por el que se establecen las normas de la condicionalidad que deben cumplir los beneficiarios que reciban pagos directos, determinadas primas anuales de desarrollo rural, o pagos en virtud de determinados programas de apoyo al sector vitivinícola.
+e) Particularidades topográficas o elementos del paisaje, según se definen en el artículo 2.e) del Real Decreto 1078/2014 de 19 de diciembre, por el que se establecen las normas de la condicionalidad que deben cumplir los beneficiarios que reciban pagos directos, determinadas primas anuales de desarrollo rural, o pagos en virtud de determinados programas de apoyo al sector vitivinícola.
 
 f) Regiones del Régimen de Pago Básico, según se definen en el artículo 7 del Real Decreto 1076/2014, de19 de diciembre, sobre asignación de derechos de régimen de pago básico de la política agrícola común.
 
@@ -65,3 +65,5 @@ Los requisitos de seguridad del sistema de comunicaciones serán elevados. Dicho
 a) Extranet: red basada en circuitos privados, y/o redes privadas virtuales sobre circuitos públicos, que permiten mantener la base de datos única, interconectando los diferentes sistemas de información que constituyen el SIGPAC. Permite la transferencia de datos relativos a procesos de consulta y actualización, de forma ágil y segura.
 
 b) Internet: red utilizada para la realización de consultas a la base de datos por los usuarios finales.
+
+> Se modifica la letra e) del epígrafe I.1.1 por el art. 3.4 del Real Decreto 320/2015, de 24 de abril. Ref. BOE-A-2015-4521.
