@@ -580,6 +580,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 422](a422.md)
 - [Artículo 423](a423.md)
 - [Artículo 424](a424.md)
+- [Artículo 424 bis](a424bis.md)
+- [Artículo 424 ter](a424ter.md)
 - [Artículo 425](a425.md)
 - [Artículo 426](a426.md)
 - [Artículo 427](a427.md)

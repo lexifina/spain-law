@@ -10,7 +10,7 @@ c) que la deuda sólo sea exigible por el acreedor y la garantía ejecutable cua
 
 d) que la vivienda hipotecada haya sido tasada y asegurada contra daños de acuerdo con los términos y los requisitos que se establecen en los artículos 7 y 8 de la Ley 2/1981, de 25 de marzo, de Regulación del Mercado Hipotecario.
 
-2. Las hipotecas a que se refiere esta disposición sólo podrán ser concedidas por las entidades de crédito y por las entidades aseguradoras autorizadas para operar en España, sin perjuicio de los límites, requisitos o condiciones que, a las entidades aseguradoras, imponga su normativa sectorial.
+2. Las hipotecas a que se refiere esta disposición sólo podrán ser concedidas por las entidades de crédito, los establecimientos financieros de crédito y por las entidades aseguradoras autorizadas para operar en España, sin perjuicio de los límites, requisitos o condiciones que a las entidades aseguradoras imponga su normativa sectorial.
 
 3. El régimen de transparencia y comercialización de la hipoteca inversa será el establecido por el Ministro de Economía y Hacienda.
 
@@ -31,5 +31,7 @@ En caso de que el bien hipotecado haya sido transmitido voluntariamente por el d
 10. Podrán, asimismo, instrumentarse hipotecas inversas sobre cualesquiera otros inmuebles distintos de la vivienda habitual del solicitante. A estas hipotecas inversas no les serán de aplicación los apartados anteriores de esta disposición.
 
 11. En lo no previsto en esta disposición y su normativa de desarrollo, la hipoteca inversa se regirá por lo dispuesto en la legislación que en cada caso resulte aplicable.
+
+> Se modifica el apartado 2 por la disposición final 8 de la Ley 5/2015, de 27 de abril. Ref. BOE-A-2015-4607.
 
 > Se modifcia la letra a) del apartado 1 por el art. 5 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.

@@ -1,6 +1,6 @@
 ## Artículo 31 bis. Autorización y revocación.
 
-1. Para dar comienzo a su actividad los mercados secundarios oficiales deberán obtener la autorización del Ministro de Economía y Hacienda, a propuesta de la Comisión Nacional del Mercado de Valores. El plazo para resolver el procedimiento de autorización será de seis meses desde que la solicitud o, en su caso, la información que completa la documentación requerida, haya tenido entrada en cualquiera de los registros del Ministerio de Economía y Hacienda. En ausencia de resolución expresa en dicho plazo, la solicitud se entenderá desestimada.
+1. Para dar comienzo a su actividad los mercados secundarios oficiales deberán obtener la autorización de la Comisión Nacional del Mercado de Valores. El plazo para resolver el procedimiento de autorización será de seis meses desde que la solicitud o, en su caso, la información que completa la documentación requerida, haya tenido entrada en el registro de la Comisión Nacional del Mercado de Valores. En ausencia de resolución expresa en dicho plazo, la solicitud se entenderá desestimada. La Comisión Nacional del Mercado de Valores comunicará al Ministerio de Economía y Competitividad la apertura del procedimiento de autorización indicando los elementos esenciales del expediente a tramitar, y la finalización del mismo, indicando el sentido de la resolución adoptada por la Comisión Nacional del Mercado de Valores.
 
 En el caso de mercados de ámbito autonómico, tal autorización será concedida por la Comunidad Autónoma con competencias en la materia.
 
@@ -22,7 +22,7 @@ g) Elaborar un proyecto de reglamento de mercado que contendrá como mínimo las
 
 3. Con las excepciones que reglamentariamente se señalen, la modificación de los estatutos sociales de la sociedad rectora o del reglamento del mercado requerirá la previa aprobación por la Comisión Nacional del Mercado de Valores o la Comunidad Autónoma con competencia en la materia, en el caso de mercados de ámbito autonómico.
 
-4. El Ministro de Economía y Competitividad podrá revocar la autorización concedida a un mercado secundario oficial cuando se dé alguno de estos supuestos:
+4. La Comisión Nacional del Mercado de Valores podrá revocar la autorización concedida a un mercado secundario oficial cuando se dé alguno de estos supuestos:
 
 a) El mercado no haga uso de la autorización en un plazo de doce meses o renuncie expresamente a la misma.
 
@@ -34,7 +34,7 @@ d) Deje de cumplir los requisitos a los que estaba supeditada la concesión de l
 
 e) Incurra en una infracción muy grave, de acuerdo con lo previsto en el título VIII de esta Ley.
 
-Toda revocación de una autorización será notificada a la Autoridad Europea de Valores y Mercados.
+La Comisión Nacional del Mercado de Valores comunicará la revocación de la autorización al Ministerio de Economía y Competitividad. Toda revocación de una autorización será notificada por la Comisión Nacional del Mercado de Valores a la Autoridad Europea de Valores y Mercados.
 
 5. Reglamentariamente se desarrollarán las normas precisas para la aplicación de este precepto.
 
@@ -43,6 +43,8 @@ Toda revocación de una autorización será notificada a la Autoridad Europea de
 7. Las operaciones sobre acciones y otros valores negociables equivalentes o que den derecho a adquirir acciones, realizadas en los segmentos de contratación multilateral de los mercados secundarios oficiales y de los sistemas multilaterales de negociación, estarán sujetas a mecanismos que permitan su ordenada liquidación y buen fin mediante la necesaria intervención de una entidad de contrapartida central.
 
 > Téngase en cuenta que el apartado 7 entra en vigor en la fecha que determinen las normas de desarrollo, según establece la disposición final 6 de la Ley 32/2011, de 4 de octubre. Ref. BOE-A-2011-15622.
+
+> Se modifican los apartados 1 y 4 por los arts. 94.5 y 94.6 de la Ley 5/2015, de 27 de abril. Ref. BOE-A-2015-4607#a94.
 
 > Se modifica el apartado 4 por el art. 3.4 del Real Decreto-ley 10/2012, de 23 de marzo. Ref. BOE-A-2012-4091.
 

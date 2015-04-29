@@ -1,0 +1,3 @@
+## Disposición transitoria octava. Régimen transitorio de las titulizaciones de derechos de crédito futuros.
+
+Hasta la determinación, por circular de la Comisión Nacional del Mercado de Valores, de los derechos de crédito futuros susceptibles de incorporarse a un fondo de titulización, continuará en vigor la Orden EHA/3536/2005, de 10 de noviembre, de determinación de derechos de crédito futuros susceptibles de incorporación a fondos de titulización de activos y de habilitación a la Comisión Nacional del Mercado de Valores para dictar reglas específicas en materia de contabilidad y obligaciones de información aplicables a los fondos de titulización de activos y sus sociedades gestoras.

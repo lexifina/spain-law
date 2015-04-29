@@ -4,8 +4,10 @@
 
 La Comisión Nacional del Mercado de Valores se opondrá a los cambios propuestos cuando existan razones objetivas y demostrables para creer que suponen una amenaza significativa para la gestión y el funcionamiento adecuado y prudente del mercado. Se entenderán aceptados los nuevos nombramientos si la Comisión Nacional del Mercado de Valores no se pronuncia en el plazo de tres meses desde la recepción de la comunicación.
 
-2. La sustitución de la sociedad rectora del mercado secundario oficial estará sujeta a autorización del Ministro de Economía y Hacienda, previo informe de la Comisión Nacional del Mercado de Valores. El plazo para resolver el procedimiento será de tres meses desde la presentación de la solicitud o desde que se complete la documentación requerida. En ausencia de resolución expresa en dicho plazo, la solicitud se entenderá desestimada.
+2. La sustitución de la sociedad rectora del mercado secundario oficial estará sujeta a autorización de la Comisión Nacional del Mercado de Valores. El plazo para resolver el procedimiento será de tres meses desde la presentación de la solicitud o desde que se complete la documentación requerida. En ausencia de resolución expresa en dicho plazo, la solicitud se entenderá desestimada. La Comisión Nacional del Mercado de Valores comunicará al Ministerio de Economía y Competitividad la apertura del procedimiento de autorización indicando los elementos esenciales del expediente a tramitar, y la finalización del mismo, indicando el sentido de la resolución adoptada por la Comisión Nacional del Mercado de Valores.
 
 En el caso de mercados de ámbito autonómico, tal autorización será concedida por la Comunidad Autónoma con competencias en la materia.
+
+> Se modifica el apartado 2 por el art. 94.7 de la Ley 5/2015, de 27 de abril. Ref. BOE-A-2015-4607#a94.
 
 > Se añade por el art. único.8 de la Ley 47/2007, de 19 de diciembre. Ref. BOE-A-2007-21913

@@ -1,3 +1,5 @@
-## Disposición final decimotercera. Régimen Sancionador.
+## Disposición final decimotercera. Actualización del importe de las sanciones.
 
-El Gobierno, en el plazo de un año, presentará un proyecto de ley, que regule las infracciones y sanciones aplicables a los casos de incumplimiento de las obligaciones previstas en esta Ley.
+El Gobierno podrá, mediante real decreto, actualizar periódicamente el importe de las sanciones pecuniarias.
+
+> Se modifica por la disposición final 5.3 de la Ley 5/2015, de 27 de abril. Ref. BOE-A-2015-4607#dfquinta.
