@@ -1,3 +1,5 @@
 ## Disposición adicional cuarta.
 
-La venta fuera del territorio nacional de los derechos de retransmisión televisada de las competiciones oficiales de carácter profesional, requerirá autorización de la Federación Deportiva Española correspondiente.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto-ley 5/2015, de 30 de abril. Ref. BOE-A-2015-4780.

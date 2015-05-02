@@ -1,0 +1,17 @@
+## Disposición adicional primera. Pago de las deudas con las Administraciones Públicas.
+
+1. La Liga Nacional de Fútbol Profesional podrá utilizar todos los derechos cuya comercialización tiene legalmente cedida como garantía para acceder a financiación, con la exclusiva finalidad de facilitar a los clubes y entidades participantes que la integran recursos para saldar sus deudas con las Administraciones Públicas.
+
+La Liga Nacional de Fútbol Profesional deberá repercutir sobre cada entidad participante cuyas deudas hayan sido canceladas, total o parcialmente, con estos recursos financieros el importe correspondiente, garantizándose la devolución del mismo.
+
+En tanto no se haya efectuado la referida cancelación del importe íntegro de las deudas con la financiación obtenida conforme al párrafo anterior, la Liga Nacional de Fútbol Profesional asegurará que el sistema de reparto finalmente acordado no significa un menoscabo de los derechos y garantías que ostentan tanto la Hacienda Pública como la Tesorería de la Seguridad Social en relación con su situación en fecha inmediatamente anterior a la promulgación del presente real decreto-ley.
+
+2. En ningún caso este sistema de reparto podrá significar una merma en los derechos y garantías de las deudas con la Hacienda Pública y con la Tesorería General de la Seguridad Social que mantienen los Clubes de Fútbol y Sociedades deportivas titulares de los derechos cuya comercialización regula el presente real decreto-ley.
+
+Mantendrán su plena vigencia todos los embargos, medidas cautelares, garantías o cualesquiera otras afecciones en virtud de los compromisos adquiridos por acuerdos de aplazamientos o fraccionamientos, suspensiones, acuerdos generales o singulares suscritos en el marco de un proceso concursal que recaigan sobre los derechos presentes y futuros a los que se refiere este real decreto-ley todo ello hasta la completa cancelación de las deudas cuyo pago garantizan.
+
+De ser necesaria la formalización de nuevas garantías, la Liga Nacional de Fútbol Profesional y la Real Federación Española de Fútbol, como entidades comercializadoras, se subrogarán en la obligación de formalizarlas por parte del deudor y responderán de la constitución de las mismas.
+
+Particularmente, en el caso de existir pignoración, garantía válidamente constituida o por constituir, o embargo que tengan por objeto derechos audiovisuales o créditos, efectos y valores de cualquier tipo constituidos sobre ellos, así como de existir acuerdos generales o singulares de pago suscritos en el marco de un proceso concursal, tanto de la Hacienda Pública como de la Tesorería de la Seguridad Social, la Liga Nacional de Fútbol Profesional y, en su caso, la Real Federación Española de Fútbol, responderán solidariamente del ingreso de las deudas tributarias hasta la completa satisfacción de la contraprestación en su día acordada, y lo harán en las mismas condiciones materiales y temporales en las que dicha satisfacción quedaba asegurada por la pignoración, garantía, embargo, acuerdo o cualquier otra afección, originariamente constituida.
+
+Las actuaciones de la Administración tributaria podrán entenderse directamente con el responsable, al que será exigible la deuda tributaria, sin que sea necesario el acto administrativo previo de derivación de responsabilidad, previsto en el artículo 41.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
