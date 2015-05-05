@@ -230,6 +230,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 162](a162.md)
 - [TÍTULO VI](tvi-3.md)
 - [Artículo 162 bis](a162bis.md)
+- [Artículo 162 ter](a162ter.md)
+- [Artículo 162 quater](a162quater.md)
 - [LIBRO IV](liv-3.md)
 - [Artículo 163](a163.md)
 - [Artículo 164](a164.md)
