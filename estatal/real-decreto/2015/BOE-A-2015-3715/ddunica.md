@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas todas aquellas disposiciones que se opongan, contradigan o resulten incompatibles con lo dispuesto en este real decreto, y en particular los siguientes artículos del Reglamento para la ejecución de la Ley 20/1986, Básica de Residuos Tóxicos y Peligrosos, aprobado por Real Decreto 833/1988, de 20 de julio: 1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 16, 17, 18, 19, 20, 21, 22.2, 22.3, 23, 24, 25, 26, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 46, 47, 48, 49, 52, 53, 54, 55, 57, 58, 59, 60, disposiciones transitorias primera, segunda, tercera, disposición adicional y disposición adicional segunda.

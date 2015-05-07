@@ -14,7 +14,7 @@ d) Residuos producidos en cada proceso caracterizados según el anexo III de est
 
 e) Las condiciones de almacenamiento en el lugar de producción.
 
-f) Las operaciones de tratamiento previstas para residuos y en el caso de los residuos peligrosos deberán incluir además el documento de aceptación por parte del gestor que va a llevar a cabo el tratamiento o en su caso declaración responsable de la empresa en la que haga constar su compromiso de entregar los residuos a un gestor autorizado.
+f) Las operaciones de tratamiento previstas para los residuos, el contrato de tratamiento con el gestor de los residuos, cuando disponga del mismo, o en su defecto declaración responsable del productor en la que haga constar su compromiso de celebrar con el gestor el correspondiente contrato de tratamiento.
 
 g) Cualquier otro dato de identificación necesario para la presentación electrónica de la comunicación.
 
@@ -43,3 +43,5 @@ b) Descripción de las actividades que van a realizar.
 c) Residuos identificados según el anexo 1 de la Orden/MAM/304/2002, de 8 de febrero.
 
 5. En la presentación de la comunicación se acompañará la documentación acreditativa de la suscripción de las garantías financieras exigibles conforme a las normas aplicables.
+
+> Se modifica el apartado 1.f) por la disposición final 1 del Real Decreto 180/2015, de 13 de marzo. Ref. BOE-A-2015-3715.
