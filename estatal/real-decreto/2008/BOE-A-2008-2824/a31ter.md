@@ -1,0 +1,25 @@
+## Artículo 31 ter. Obligaciones de publicidad en materia de gobierno corporativo y política de remuneraciones.
+
+1. Las empresas de servicios de inversión contarán con una página web en la que ofrecerán una información completa, clara, comprensible y comparable de la información en materia de gobierno corporativo prevista en los artículos 70 ter a 70 ter. Tres de la Ley 24/1988, de 28 de julio, del Mercado de Valores, y de la manera en que cumplen con sus obligaciones de gobierno corporativo y remuneraciones.
+
+2. El consejo de administración será responsable de mantener la información actualizada de la página web de la entidad.
+
+3. La información sobre la remuneración total devengada en cada ejercicio económico por los miembros del consejo de administración deberá reflejar la cifra total de la remuneración devengada y un desglose individualizado por conceptos retributivos con referencia al importe de los componentes fijos y dietas, así como a los conceptos retributivos de carácter variable.
+
+Esta información contendrá cualquier concepto retributivo devengado, cualquiera que sea su naturaleza o la entidad del grupo que lo satisfaga.
+
+4. Lo dispuesto en el apartado anterior incluirá, en su caso, las retribuciones devengadas por los miembros del consejo de administración por su pertenencia a consejos en otras sociedades del grupo o participadas en las que actúe en representación del grupo.
+
+5. No obstante lo anterior, este artículo no será de aplicación a las empresas de servicios de inversión que cumplan los requisitos siguientes:
+
+a) No estar autorizadas a prestar el servicio auxiliar al que se refiere el artículo 63.2.a) de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+
+b) Prestar únicamente uno o varios de los servicios o actividades de inversión enumerados en el artículo 63.1.a), b), d) y g) de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+
+c) No estar autorizadas para tener en depósito dinero o valores de sus clientes y que, por esta razón, nunca puedan hallarse en situación deudora respecto de dichos clientes.
+
+6. La Comisión Nacional del Mercado de Valores especificará los términos en que tiene que estar configurada la página web y la información relativa a gobierno corporativo y política de remuneraciones que las empresas de servicios de inversión, en función de su naturaleza, escala y complejidad, han de incluir en la misma, con arreglo a lo establecido en la Ley 24/1988, de 28 de julio, del Mercado de Valores, y en este capítulo.
+
+> Se añade por el art. único.10 del Real Decreto 358/2015, de 8 de mayo. Ref. BOE-A-2015-5164.
+
+> Véase, en cuanto al plazo para que las empresas de servicios de inversión proporcionen en su página web la información prevista en este artículo, la disposición final 4.2.b) de la citada norma.

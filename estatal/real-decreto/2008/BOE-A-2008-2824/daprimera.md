@@ -1,4 +1,4 @@
-## Disposición adicional única. De las comunicaciones de operaciones sobre instrumentos financieros.
+## Disposición adicional primera. De las comunicaciones de operaciones sobre instrumentos financieros.
 
 1. Conforme a lo dispuesto en el artículo 59 bis de la Ley 24/1988 de 28 de julio, del Mercado de Valores, las empresas de servicios de inversión y las entidades de crédito que ejecuten operaciones sobre instrumentos financieros deberán comunicar a la Comisión Nacional del Mercado de Valores la identidad de los clientes por cuenta de los cuales hayan ejecutado sus operaciones.
 
@@ -11,3 +11,5 @@ La identificación contendrá el nombre y apellidos o razón social del cliente.
 3. Cuando la entidad obligada a comunicar lo haga a través de alguno de los medios indirectos a los que se refiere el apartado 2 del artículo 59 bis de la Ley 24/1988 de 28 de julio, del Mercado de Valores, se asegurará de que se guardan las obligaciones de confidencialidad más estrictas respecto de los datos contenidos en las comunicaciones y, en especial, de los relativos a la identificación de los clientes respetando en todo caso lo dispuesto en la Ley 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 4. La Comisión Nacional del Mercado de Valores podrá establecer códigos o formatos de identificación suplementarios para los casos de personas, como los menores de edad o los que no tengan su domicilio fiscal en España, que carezcan de los mencionados en el apartado 2 anterior así como especificaciones técnicas de los envíos de las comunicaciones y procedimientos para su adecuada recepción y tratamiento.
+
+> Se numera por el art. único.13 del Real Decreto 358/2015, de 8 de mayo. Ref. BOE-A-2015-5164.
