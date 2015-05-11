@@ -278,7 +278,21 @@ u) Datos relativos a la solicitud de registro de marca y nombre comercial:
 
 1. Los datos relativos a la solicitud de registro marca o nombre comercial, de conformidad con los requisitos establecidos en artículos 1 y 4.2 del Real Decreto 687/2002, de 12 de julio, por el que se aprueba Reglamento para la ejecución de la Ley 17/2001, de 7 de diciembre, de Marcas.
 
+v) Comunicación de la apertura del centro de trabajo:
+
+1. Datos de la empresa solicitante.
+
+2. Datos del centro o centros de trabajo que se apertura.
+
+3. Datos de su representante.
+
+4. Datos a efectos de notificación.
+
 2. Cuando haya de figurar en el DUE un domicilio o el lugar donde se halle un establecimiento, se expresarán los datos necesarios para su correcta localización, tales como tipo de vía pública, nombre de la vía pública, carretera, kilómetro, número de identificación del piso o local, localidad, municipio, código postal, código municipal, provincia, número de teléfono, fax o dirección de correo electrónico. Si se encontrara fuera de poblado, se indicará el término municipal y el nombre del lugar o cualquier otro dato que permita su localización.
+
+> Téngase en cuenta que la letra v) del apartado 1, añadida por la disposición final 1.3 del Real Decreto 44/2015, de 2 de febrero. Ref. BOE-A-2015-1320., entra en vigor el 11 de mayo de 2015, según establece su disposición final 8.
+
+> Se añade la letra v) al apartado 1 por la disposición final 1.3 del Real Decreto 44/2015, de 2 de febrero. Ref. BOE-A-2015-1320.
 
 > Se añade las letras t) y u) al apartado 1 por la disposición final 1.4 del Real Decreto 368/2010, de 26 de marzo. Ref. BOE-A-2010-6044
 
