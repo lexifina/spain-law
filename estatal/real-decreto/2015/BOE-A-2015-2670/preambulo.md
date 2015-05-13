@@ -1,0 +1,15 @@
+Las escuelas de aviación y las actividades de deportes aéreos se encuentran sometidas a las prescripciones de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y de la Ley 21/2003, de 7 de julio, de Seguridad Aérea, disponiendo esta última que es competencia del Ministerio de Fomento la ordenación de la aviación recreativa.
+
+La regulación del vuelo deportivo en ultraligero y el régimen aplicable a los centros de vuelo y escuelas de ultraligeros están en la actualidad recogidos en la Orden del Ministerio de Transportes, Turismo y Comunicaciones, de 24 de abril de 1986, dictada en desarrollo del Real Decreto 2876/1982, de 15 de octubre, por el que se regula el registro y uso de aeronaves de estructura ultraligera y se modifica el registro de las aeronaves privadas no mercantiles.
+
+El tiempo transcurrido desde la adopción de estas disposiciones, junto a la evolución constante de esta actividad de vuelo y los avances técnicos de las aeronaves ultraligeras hacen necesario abordar la modificación urgente del régimen de la enseñanza y las licencias y habilitaciones para la práctica del vuelo en ultraligero para asegurar el mantenimiento de los estándares de seguridad de la operación. Con este objeto se adopta este real decreto.
+
+Además, se simplifican los requisitos exigibles para los certificados médicos de los pilotos de aeronaves ultraligeras remitiendo a los establecidos por el Reglamento (UE) n.º 1178/2011 de la Comisión de 3 de noviembre, por el que se establecen los requisitos técnicos y procedimientos administrativos relacionados con el personal de vuelo de la aviación civil en virtud del Reglamento (CE) n.º 216/2008 del Parlamento Europeo y del Consejo para las licencias de piloto de aeronave ligera (LAPL), aquéllas que habilitan para actuar sin remuneración como piloto al mando en operaciones no comerciales en aviones y helicópteros con una masa máxima de despegue de 2.000 kg o inferior, transportando un número máximo de 3 pasajeros.
+
+Se modifica el Real Decreto 2876/1982, de 15 de octubre, por el que se regula el registro y uso de aeronaves de estructura ligera y se modifica el registro de aeronaves privadas no mercantiles, para adecuar su régimen a lo previsto en esta norma y se derogan los capítulos de la Orden de 24 de abril de 1986, por la que se regula el vuelo de ultraligero, que regulaban las materias objeto de desarrollo mediante este real decreto.
+
+Este real decreto se dicta al amparo del artículo 149.1.20.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de control del espacio aéreo, tránsito y transporte aéreo y de conformidad con lo dispuesto en la disposición final cuarta de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea.
+
+En su virtud, a propuesta de la Ministra de Fomento, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 27 de febrero de 2015,
+
+DISPONGO:

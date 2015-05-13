@@ -1,3 +1,5 @@
 ## Artículo cuarto.
 
-Para la obtención del carné de tripulante de «ultraligeros» a que se refiere este Real Decreto se precisarán los siguientes requisitos: Edad mínima de dieciocho años, certificación médica de aptitud física para el vuelo y demostrar conocimientos suficientes del tipo de vehículo, limitaciones y legislación aplicable para poder volar en condiciones de seguridad.
+(Suprimido)
+
+> Se suprime por la disposición final 1.1. del Real Decreto 123/2015, de 27 de febrero. Ref. BOE-A-2015-2670#dfprimera.
