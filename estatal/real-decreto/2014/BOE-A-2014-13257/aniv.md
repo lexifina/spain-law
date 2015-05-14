@@ -6,7 +6,7 @@ I. Modelo de cláusula contractual privada adjunta al contrato de compraventa o 
 
 1. Régimen jurídico.
 
-1.1 El artículo 19, apartados 1 a) y 1 b), del Real Decreto de asignación de derechos de pago base establece la posibilidad de incorporar a un contrato de compraventa o arrendamiento de explotación o parte de ella, con tierras, formalizado en el periodo comprendido entre el 16 de mayo de 2014 y el 15 de mayo de 2015, la cláusula contractual contemplada por el artículo 24.8 del Reglamento 1307/2013, de 17 de diciembre, de modo que se verifique la transmisión del cumplimiento del requisito establecido por el artículo 24.1 b) del citado Reglamento, relativo a la percepción de algún pago directo con respecto a una solicitud de ayuda en 2013, del vendedor o arrendador al comprador o arrendatario a efectos de la solicitud de asignación de derechos de pago básico que corresponda.
+1.1 El artículo 19, apartados 1 a) y 1 b), del Real Decreto de asignación de derechos de pago base establece la posibilidad de incorporar a un contrato de compraventa o arrendamiento de explotación o parte de ella, con tierras, formalizado en el periodo comprendido entre el 16 de mayo de 2014 y el 15 de junio de 2015, la cláusula contractual contemplada por el artículo 24.8 del Reglamento 1307/2013, de 17 de diciembre, de modo que se verifique la transmisión del cumplimiento del requisito establecido por el artículo 24.1 b) del citado Reglamento, relativo a la percepción de algún pago directo con respecto a una solicitud de ayuda en 2013, del vendedor o arrendador al comprador o arrendatario a efectos de la solicitud de asignación de derechos de pago básico que corresponda.
 
 1.2 El artículo 19 1 a) considera también la aplicación de la cláusula contractual descrita en el artículo 20 del Reglamento Delegado 639/2014, de 11 de marzo, de la Comisión que permite que en las operaciones de compraventa de explotación o parte de ella, con tierras, efectuadas en el periodo citado, los agricultores vendedores puedan transmitir los derechos de pago que se les deben atribuir sobre las hectáreas vendidas, de modo que en virtud de dicha cláusula, los derechos de pago básico sean asignados al vendedor y directamente transferidos al comprador para ser tenidos en cuenta junto a las hectáreas transferidas en el cálculo de los derechos de pago de este último.
 
@@ -58,7 +58,7 @@ D. ..................................................................., en calid
 
 Ambos declaran conocer la normativa referenciada y en particular que:
 
-• Las hectáreas transmitidas mediante la compraventa/arrendamiento deben estar en posesión del comprador/arrendatario el 31 de mayo de 2015 y mantener la condición de admisible durante todo el año 2015.
+• Las hectáreas transmitidas mediante la compraventa/arrendamiento deben estar en posesión del comprador/arrendatario el 15 de junio de 2015 y mantener la condición de admisible durante todo el año 2015.
 
 • El número de derechos de pago que se transfieran del vendedor/arrendador al comprador/arrendatario por aplicación de la cláusula contractual correspondiente será igual al número de hectáreas que se transmiten en la operación de compraventa/arrendamiento de tierras.
 
@@ -175,3 +175,7 @@ Escritura pública o documento privado liquidado de impuestos del arrendamiento 
 Compromiso firmado de aportar las copias de las declaraciones del Impuesto sobre la Renta de las personas físicas, o alternativamente, del impuesto de sociedades de los años necesarios para comprobar la condición de agricultor activo del vendedor/arrendador y el comprador/arrendatario en el año 2015 o autorización a los órganos competentes de las Comunidades Autónomas para recabar directamente de la Agencia Tributaria o de la Tesorería General de la Seguridad Social dicha información.
 
 Otros documentos a especificar por los interesados ....................................................
+
+> Se modifican los plazos y fechas previstos en el apartado 1.1 y en el apartado 4 por el art. 2.3 y 4 de la Orden AAA/872/2015, de 12 de mayo. Ref. BOE-A-2015-5316.
+
+> Esta modificación será aplicable desde el 16 de mayo de 2015, inclusive, según establece la disposición final única de la citada Orden.
