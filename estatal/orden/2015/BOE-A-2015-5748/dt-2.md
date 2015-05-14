@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+En cumplimiento de la Disposición transitoria segunda de la Ley 4/2014, de 1 de abril, el Comité Ejecutivo, transcurrido un año desde la constitución del primer Pleno, le propondrá una lista de las empresas que considere deben ser renovadas como vocales del Pleno. En cualquier caso permanecerán como vocales del Pleno y, en su caso, como miembros del Comité Ejecutivo, las empresas o entidades que hayan realizado contribuciones iguales o superiores a las recomendadas por el Comité Ejecutivo. Las vacantes que se produzcan se cubrirán preferentemente por Vocales Colaboradores.
