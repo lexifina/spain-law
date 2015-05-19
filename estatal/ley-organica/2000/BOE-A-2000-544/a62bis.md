@@ -20,11 +20,15 @@ h) A ser asistido de intérprete si no comprende o no habla castellano y de form
 
 i) A tener en su compañía a sus hijos menores, siempre que el Ministerio Fiscal informe favorablemente tal medida y existan en el centro módulos que garanticen la unidad e intimidad familiar.
 
+> Téngase en cuenta que se declara inaplicable el inciso destacado en negrita de la letra i) por Sentencia del TS de 10 de febrero de 2015. Ref. BOE-A-2015-5487.
+
 j) A entrar en contacto con organizaciones no gubernamentales y organismos nacionales, internacionales y no gubernamentales de protección de inmigrantes.
 
 2. Los centros dispondrán de servicios de asistencia social y sanitaria con dotación suficiente. Las condiciones para la prestación de estos servicios se desarrollarán reglamentariamente.
 
 3. Las organizaciones constituidas legalmente en España para la defensa de los inmigrantes y los organismos internacionales pertinentes podrán visitar los centros de internamiento; reglamentariamente se desarrollarán las condiciones de las mismas.
+
+> Se declara inaplicable el inciso destacado en negrita del apartado 1.i) por Sentencia del TS de 10 de febrero de 2015. Ref. BOE-A-2015-5487.
 
 > Se modifica por el art. único.66 de la Ley Orgánica 2/2009, de 11 de diciembre. Ref. BOE-A-2009-19949.
 
