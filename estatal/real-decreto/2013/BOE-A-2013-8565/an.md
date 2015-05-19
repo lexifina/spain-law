@@ -62,7 +62,7 @@
 | Maireana brevifolia (R. Br.) P. G. Wilson. | Canarias. | Mato azul. |
 | Myriophyllum aquaticum (Vell.) Verdc. |  |  |
 | Nassella neesiana (Trin, & Rupr.) Barkworth. | Canarias. | Flechilla. |
-| Nicotiana glauca Graham. |  | Tabaco moruno. |
+|  |
 | Nymphaea mexicana Zucc. |  | Lirio Amarillo. |
 | Opuntia dillenii (Ker-Gawler) Haw. |  | Tunera india. |
 | Opuntia maxima Miller. |  | Tunera común. |
@@ -199,3 +199,5 @@
 – spp. Se refiere a todos los niveles taxonómicos infra-genéricos.
 
 1 Excepto Sciurus vulgaris.
+
+> Se declara nula la inclusión de la especie de flora Nicotiana glauca Graham o tabaco moruno por Sentencia TS de 21 de enero de 2015. Ref. BOE-A-2015-5485.
