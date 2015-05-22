@@ -1,0 +1,3 @@
+## Primero. Delegación de competencias.
+
+Se delega en el Director de Asistencia al Personal la competencia de expedir las autorizaciones a que se refiere el artículo 117 del Real Decreto 137/1993, de 29 de enero («Boletín Oficial del Estado» número 55), por el que se aprueba el Reglamento de Armas, que se otorga al Jefe de Estado Mayor del Ejército de Tierra en el apartado 1.1 del anexo a la Orden 81/1993, de 29 de julio («Boletín Oficial de Defensa» número 154), por la que se aprueban las Instrucciones para la aplicación del Reglamento de Armas en las Fuerzas Armadas, en el ámbito de su competencia.
