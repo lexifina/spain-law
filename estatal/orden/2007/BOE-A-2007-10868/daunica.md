@@ -4,7 +4,7 @@ Detalle de las garantías de origen en las facturas de los comercializadores a l
 
 1. La información que, de acuerdo con el apartado 2 del artículo 110 bis del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica, debe reflejar toda empresa comercializadora que venda electricidad a clientes finales en sus facturas se calculará a partir de la mezcla global de generación indicada en el párrafo a) del apartado 1 del citado artículo 110 bis y teniendo en cuenta las garantías de origen relativas a la energía del año anterior.
 
-A estos efectos, se deducirá, de la mezcla global de generación indicada, la parte correspondiente a las garantías de origen totales emitidas y, en su caso, se incluirá la correspondiente a las garantías de origen que a fecha 31 de marzo del año posterior al de producción de la energía obraran en la cuenta de dicha empresa y se deducirán las que hubieran sido redimidas a sus clientes hasta la citada fecha.
+A estos efectos, con objeto de reflejar la información relativa a la empresa comercializadora, se deducirá, de la mezcla global de generación indicada, la parte correspondiente a las garantías de origen totales emitidas y, en su caso, se incluirá la correspondiente a las garantías de origen que hasta 31 de marzo del año posterior al de producción de la energía hubieran obrado en la cuenta de dicha empresa.
 
 Igualmente en dicha información debe reflejar para cada cliente, en su caso, el número de garantías de origen que se hubieran redimido a su favor hasta la citada fecha, relativas a la energía del año anterior.
 
@@ -13,6 +13,8 @@ Igualmente en dicha información debe reflejar para cada cliente, en su caso, el
 Durante los meses de enero a marzo, ambos inclusive se reproducirá la misma información que en los meses precedentes del año anterior.
 
 3. En el caso de los comercializadores de último recurso, las garantías de origen que hubieran podido ser adquiridas o redimidas serán imputadas, exclusivamente a la actividad de suministro distinta de la de último recurso.
+
+> Se modifica el apartado 1 por el art. único.9 de la Orden IET/931/2015, de 24 de mayo. Ref. BOE-A-2015-5635.
 
 > Se añade por el art. único.12 de la Orden ITC/2914/2011, de 27 de octubre. Ref. BOE-A-2011-17070.
 
