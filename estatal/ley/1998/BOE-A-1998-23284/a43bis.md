@@ -8,9 +8,11 @@ b) No podrán contener cláusulas exclusivas que, de forma individual o conjunta
 
 2. Se considerarán nulas y se tendrán por no puestas aquellas cláusulas contractuales en las que se establezca una duración del contrato diferente a la recogida en el apartado 1, o que determinen el precio de venta del combustible en referencia a un determinado precio fijo, máximo o recomendado, o cualesquiera otras que contribuyan a una fijación indirecta del precio de venta.
 
-3. Los operadores al por mayor comunicarán a la Dirección General de Política Energética y Minas la suscripción de este tipo de contratos, incluyendo la fecha de su finalización, la cual será publicada en la web oficial del Ministerio de Industria, Energía y Turismo.
+3. Los operadores al por mayor comunicarán a la Dirección General de Política Energética y Minas la suscripción de este tipo de contratos, incluyendo la fecha de su finalización, la cual será publicada en la web oficial del Ministerio de Industria, Energía y Turismo. La Dirección General de Política Energética y Minas podrá solicitar en todo momento una copia de dichos contratos.
 
 4. Lo dispuesto en el presente artículo no será de aplicación cuando los bienes o servicios contractuales sean vendidos por el comprador desde locales y terrenos que sean plena propiedad del proveedor.
+
+> Se modifica el apartado 3 por el art. 2.4 de la Ley 8/2015, de 21 de mayo. Ref. BOE-A-2015-5633#a2.
 
 > Se modifica por el art. 39.3 de la Ley 11/2013, de 26 de julio. Ref. BOE-A-2013-8187.
 
