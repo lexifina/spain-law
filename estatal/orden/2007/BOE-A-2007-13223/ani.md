@@ -32,6 +32,7 @@
 | 368 | DECLARACIÓN-LIQUIDACIÓN PERIÓDICA DE LOS REGÍMENES ESPECIALES APLICABLES A LOS SERVICIOS DE TELECOMUNICACIONES, DE RADIODIFUSIÓN O DE TELEVISIÓN Y ELECTRÓNICOS EN EL IVA | 1T, 2T, 3T y 4T |
 | 380 | IVA EN OPERAC. ASIMILADAS A IMPORTACIONES | M, T , 0A |
 | 410 | PAGO A CUENTA DEL IMPUESTO SOBRE LOS DEPÓSITOS EN LAS ENTIDADES DE CRÉDITO. AUTOLIQUIDACIÓN | 0A |
+| 411 | IMPUESTO SOBRE LOS DEPÓSITOS EN LAS ENTIDADES DE CRÉDITO. AUTOLIQUIDACIÓN | 0A |
 | 440 | IMPUESTO GRAL. DEL TRÁFICO DE EMPRESAS | T |
 | 568 | IMPUESTO ESPECIAL SOBRE DETERMINADOS MEDIOS DE TRANSPORTE | T |
 |  |
@@ -61,6 +62,8 @@
 (2) Cuando la gestión corresponda al Estado.
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se añade el modelo 411 por la disposición final 3 de la Orden HAP/1230/2015, de 17 de junio. Ref. BOE-A-2015-7048.
 
 > Se añade el modelo 368 por la disposición final 1 de la Orden HAP/460/2015, de 10 de marzo. Ref. BOE-A-2015-2891.
 
