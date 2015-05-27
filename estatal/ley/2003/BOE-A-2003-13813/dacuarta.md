@@ -1,26 +1,26 @@
 ## Disposición adicional cuarta. Homologación de los acuerdos de refinanciación.
 
-1. Podrá homologarse judicialmente el acuerdo de refinanciación que habiendo sido suscrito por acreedores que representen al menos el 51 por ciento de los pasivos financieros, reúna en el momento de su adopción, las condiciones previstas en la letra a) y en los números 2.º y 3.º de la letra b) del apartado 1 del artículo 71 bis. Los acuerdos adoptados por la mayoría descrita no podrán ser objeto de rescisión conforme a lo dispuesto en el apartado 13 de esta Disposición. Para extender sus efectos serán necesarias las mayorías exigidas en los apartados siguientes de esta Disposición.
+1. Podrá homologarse judicialmente el acuerdo de refinanciación que habiendo sido suscrito por acreedores que representen al menos el 51 por ciento de los pasivos financieros, reúna en el momento de su adopción, las condiciones previstas en la letra a) y en los números 2.º y 3.º de la letra b) del apartado 1 del artículo 71 bis. Los acuerdos adoptados por la mayoría descrita no podrán ser objeto de rescisión conforme a lo dispuesto en el apartado 13. Para extender sus efectos serán necesarias las mayorías exigidas en los apartados siguientes.
 
-No se tendrán en cuenta, a efectos del cómputo de las mayorías indicadas en esta Disposición, los pasivos financieros titularidad de acreedores que tengan la consideración de persona especialmente relacionada conforme al apartado 2 del artículo 93 quienes, no obstante, podrán quedar afectados por la homologación prevista en esta Disposición adicional.
+No se tendrán en cuenta, a efectos del cómputo de las mayorías indicadas en esta disposición, los pasivos financieros titularidad de acreedores que tengan la consideración de persona especialmente relacionada conforme al apartado 2 del artículo 93 quienes, no obstante, podrán quedar afectados por la homologación prevista en esta disposición adicional.
 
-A los efectos de esta Disposición, tendrán la consideración de acreedores de pasivos financieros los titulares de cualquier endeudamiento financiero con independencia de que estén o no sometidos a supervisión financiera. Quedan excluidos de tal concepto los acreedores por créditos laborales, los acreedores por operaciones comerciales y los acreedores de pasivos de derecho público.
+A los efectos de esta disposición, tendrán la consideración de acreedores de pasivos financieros los titulares de cualquier endeudamiento financiero con independencia de que estén o no sometidos a supervisión financiera. Quedan excluidos de tal concepto los acreedores por créditos laborales, los acreedores por operaciones comerciales y los acreedores de pasivos de derecho público.
 
-A los efectos del cómputo de las mayorías necesarias para la homologación judicial de un acuerdo de refinanciación y la extensión de sus efectos a acreedores no participantes o disidentes, se entenderá, en caso de acuerdos sujetos a un régimen o pacto de sindicación que los acreedores suscriben el acuerdo de refinanciación cuando voten a su favor los que representen al menos el 75 por ciento del pasivo representado por el acuerdo, salvo que las normas que regulan la sindicación establezcan una mayoría inferior, en cuyo caso será de aplicación esta última.
+En caso de acuerdos sujetos a un régimen o pacto de sindicación, se entenderá que la totalidad de los acreedores sujetos a dicho acuerdo suscriben el acuerdo de refinanciación cuando voten a su favor los que representen al menos el 75 por ciento del pasivo afectado por el acuerdo de sindicación, salvo que las normas que regulan la sindicación establezcan una mayoría inferior, en cuyo caso será de aplicación esta última.
 
-Voluntariamente podrán adherirse al acuerdo de refinanciación homologado los demás acreedores que no lo sean de pasivos financieros ni de pasivos de derecho público. Estas adhesiones no se tendrán en cuenta a efectos del cómputo de las mayorías previstas en esta Disposición.
+Voluntariamente podrán adherirse al acuerdo de refinanciación homologado los demás acreedores que no lo sean de pasivos financieros ni de pasivos de derecho público. Estas adhesiones no se tendrán en cuenta a efectos del cómputo de las mayorías previstas en esta disposición.
 
-2. A los efectos de la presente Disposición se entenderá por valor de la garantía real de que goce cada acreedor el resultante de deducir, de los nueve décimos del valor razonable del bien sobre el que esté constituida dicha garantía, las deudas pendientes que gocen de garantía preferente sobre el mismo bien, sin que en ningún caso el valor de la garantía pueda ser inferior a cero ni superior al valor del crédito del acreedor correspondiente.
+2. A los efectos de la presente disposición se entenderá por valor de la garantía real de que goce cada acreedor el resultante de deducir, de los nueve décimos del valor razonable del bien o derecho sobre el que esté constituida dicha garantía, las deudas pendientes que gocen de garantía preferente sobre el mismo bien, sin que en ningún caso el valor de la garantía pueda ser inferior a cero ni superior al valor del crédito del acreedor correspondiente ni al valor de la responsabilidad máxima hipotecaria o pignoraticia que se hubiese pactado.
 
 A estos exclusivos efectos, se entiende por valor razonable:
 
-a) En caso de valores mobiliarios que coticen en un mercado secundario oficial o en otro mercado regulado o en instrumentos del mercado monetario, el precio medio ponderado al que hubieran sido negociados en uno o varios mercados regulados en el último trimestre anterior a la fecha de inicio de las negociaciones para alcanzar el acuerdo de refinanciación, de conformidad con la certificación emitida por la sociedad rectora del mercado secundario oficial o del mercado regulado de que se trate.
+a) En caso de valores mobiliarios que coticen en un mercado secundario oficial o en otro mercado regulado o de instrumentos del mercado monetario, el precio medio ponderado al que hubieran sido negociados en uno o varios mercados regulados en el último trimestre anterior a la fecha de inicio de las negociaciones para alcanzar el acuerdo de refinanciación, de conformidad con la certificación emitida por la sociedad rectora del mercado secundario oficial o del mercado regulado de que se trate.
 
 b) En caso de bienes inmuebles, el resultante de informe emitido por una sociedad de tasación homologada e inscrita en el Registro Especial del Banco de España.
 
 c) En caso de bienes distintos de los señalados en las letras anteriores, el resultante de informe emitido por experto independiente de conformidad con los principios y las normas de valoración generalmente reconocidos para esos bienes.
 
-Los informes previstos en las letras b) y c) no serán necesarios cuando dicho valor hubiera sido determinado por experto independiente, dentro de los seis meses anteriores a la fecha de inicio de las negociaciones para alcanzar el acuerdo de refinanciación.
+Los informes previstos en las letras b) y c) no serán necesarios cuando dicho valor hubiera sido determinado por experto independiente, dentro de los seis meses anteriores a la fecha de inicio de las negociaciones para alcanzar el acuerdo de refinanciación ni cuando se trate de efectivo, cuentas corrientes, dinero electrónico o imposiciones a plazo fijo.
 
 Si concurrieran nuevas circunstancias que pudieran modificar significativamente el valor razonable de los bienes, deberá aportarse nuevo informe de experto independiente.
 
@@ -28,7 +28,7 @@ La designación del experto independiente en los supuestos previstos en este apa
 
 En el caso de que la garantía a favor de un mismo acreedor recaiga sobre varios bienes, se sumará la resultante de aplicar sobre cada uno de los bienes la regla del párrafo primero, sin que el valor conjunto de las garantías pueda tampoco exceder del valor del crédito del acreedor correspondiente.
 
-En caso de garantía constituida en proindiviso a favor de dos o más acreedores, el valor de la garantía correspondiente a cada acreedor será el resultante de aplicar al valor total de la garantía la proporción que en la misma corresponda a cada uno de ellos, según las normas y acuerdos que rijan el proindiviso, sin perjuicio de las normas que, en su caso, resulten de aplicación a los préstamos sindicados.
+En caso de garantía constituida en proindiviso a favor de dos o más acreedores, el valor de la garantía correspondiente a cada acreedor será el resultante de aplicar al valor total de la garantía la proporción que en la misma corresponda a cada uno de ellos, según las normas y acuerdos que rijan el proindiviso, sin perjuicio de las normas que, en su caso, resulten de aplicación a los acuerdos sindicados.
 
 3. A los acreedores de pasivos financieros que no hayan suscrito el acuerdo de refinanciación o que hayan mostrado su disconformidad al mismo y cuyos créditos no gocen de garantía real o por la parte de los créditos que exceda del valor de la garantía real, se les extenderán, por la homologación judicial, los siguientes efectos acordados en el acuerdo de refinanciación:
 
@@ -91,6 +91,8 @@ c) Si la cantidad resultante de la ejecución fuese inferior a la resultante de 
 12. Solicitada una homologación no podrá solicitarse otra por el mismo deudor en el plazo de un año.
 
 13. No podrán ser objeto de acciones de rescisión los acuerdos de refinanciación homologados judicialmente. El ejercicio de las demás acciones de impugnación se someterá a lo dispuesto por el artículo 72.2.
+
+> Se modifican los apartados 1 y 2 por el art. único.Cuatro.4 de la Ley 9/2015, de 25 de mayo. Ref. BOE-A-2015-5744#aunico.
 
 > Se modifica por el art. único.23 de la Ley 17/2014, de 30 de septiembre. Ref. BOE-A-2014-9896.
 

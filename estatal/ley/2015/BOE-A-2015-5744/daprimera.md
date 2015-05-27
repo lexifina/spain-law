@@ -1,0 +1,5 @@
+## Disposición adicional primera. Medidas de saneamiento y procedimientos de insolvencia en situaciones preconcursales.
+
+A los efectos del Real Decreto-ley 5/2005, de 11 de marzo, de reformas urgentes para el impulso a la productividad y para la mejora de la contratación pública, las actuaciones que se deriven de la aplicación del artículo 5 bis y de la disposición adicional cuarta de la Ley 22/2003, de 9 de julio, Concursal, tendrán la consideración de medidas de saneamiento. Serán de aplicación a estas actuaciones los mismos efectos que establece para la apertura de concurso el capítulo II del título I de dicho Real Decreto-ley 5/2005, de 11 de marzo.
+
+A los efectos de la Ley 41/1999, de 12 de noviembre, sobre sistemas de pagos y de liquidación de valores, las actuaciones que se deriven de la aplicación del artículo 5 bis y de la disposición adicional cuarta de la Ley 22/2003, de 9 de julio, Concursal, tendrán la consideración de procedimientos de insolvencia. Serán de aplicación a estas actuaciones los efectos previstos en el capítulo IV de dicha Ley 41/1999, de 12 de noviembre.

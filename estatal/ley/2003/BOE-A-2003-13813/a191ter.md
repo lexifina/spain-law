@@ -10,4 +10,10 @@ En el auto por el que se apruebe el plan de liquidación el juez podrá acordar 
 
 3. En caso de suspenderse las operaciones de liquidación con motivo de las impugnaciones del inventario o de la lista de acreedores, el juez podrá requerir a los impugnantes para que presten una caución que garantice los posibles daños y perjuicios por la demora.
 
+4. En el caso de transmisión de unidades productivas, se tendrán en cuenta las especialidades previstas en los artículos 146 bis y 149.
+
+> Se añade el apartado 4 por el art. único.Dos.9 de la Ley 9/2015, de 25 de mayo. Ref. BOE-A-2015-5744#aunico.
+
+> Téngase en cuenta que esta modificación será de aplicación a los procedimientos concursales en tramitación en los que no se haya iniciado la fase de liquidación, según establece la disposición transitoria 1.6 de la citada norma.
+
 > Se añade por el art. único.107 de la Ley 38/2011, de 10 de octubre. Ref. BOE-A-2011-15938.

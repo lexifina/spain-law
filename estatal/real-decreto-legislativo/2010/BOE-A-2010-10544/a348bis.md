@@ -6,7 +6,9 @@
 
 3. Lo dispuesto en este artículo no será de aplicación a las sociedades cotizadas.
 
-> Téngase en cuenta que queda suspendida la aplicación hasta el 31 de diciembre de 2016, según establece la disposición final 1 del Real Decreto-ley 11/2014, de 5 de septiembre. Ref. BOE-A-2014-9133.
+> Téngase en cuenta que queda suspendida la aplicación de este artículo hasta el 31 de diciembre de 2016, según establece la disposición final 1.2 de la Ley 9/2015, de 25 de mayo. Ref. BOE-A-2015-5744#dfprimera.
+
+> Se suspende la aplicación hasta el 31 de diciembre de 2016 por la disposición final 1.2 de la Ley 9/2015, de 25 de mayo. Ref. BOE-A-2015-5744#dfprimera
 
 > Se suspende la aplicación hasta el 31 de diciembre de 2016 por la disposición final 1 del Real Decreto-ley 11/2014, de 5 de septiembre. Ref. BOE-A-2014-9133.
 

@@ -6,7 +6,9 @@ a) En virtud de éstos se proceda, al menos, a la ampliación significativa del 
 
 b) Con anterioridad a la declaración del concurso:
 
-1.º El acuerdo haya sido suscrito por acreedores cuyos créditos representen al menos tres quintos del pasivo del deudor en la fecha de adopción del acuerdo de refinanciación. En el caso de acuerdos de grupo, el porcentaje señalado se calculará tanto en base individual, en relación con todas y cada una de las sociedades afectadas, como en base consolidada, en relación con los créditos de cada grupo o subgrupo afectados y excluyendo en ambos casos del cómputo del pasivo los préstamos y créditos concedidos por sociedades del grupo.
+1.º El acuerdo haya sido suscrito por acreedores cuyos créditos representen al menos tres quintos del pasivo del deudor en la fecha de adopción del acuerdo de refinanciación. A los efectos del cómputo de esa mayoría de pasivo se entenderá que, en los acuerdos sujetos a un régimen o pacto de sindicación, la totalidad de los acreedores sujetos a dicho acuerdo suscriben el acuerdo de refinanciación cuando voten a su favor los que representen al menos el 75 por ciento del pasivo afectado por el acuerdo de sindicación, salvo que las normas que regulan la sindicación establezcan una mayoría inferior, en cuyo caso será de aplicación esta última.
+
+En el caso de acuerdos de grupo, el porcentaje señalado se calculará tanto en base individual, en relación con todas y cada una de las sociedades afectadas, como en base consolidada, en relación con los créditos de cada grupo o subgrupo afectados y excluyendo en ambos casos del cómputo del pasivo los préstamos y créditos concedidos por sociedades del grupo.
 
 2.º Se emita certificación del auditor de cuentas del deudor sobre la suficiencia del pasivo que se exige para adoptar el acuerdo. De no existir, será auditor el nombrado al efecto por el registrador mercantil del domicilio del deudor y, si éste fuera un grupo o subgrupo de sociedades, el de la sociedad dominante.
 
@@ -35,6 +37,10 @@ El cumplimiento de todas las condiciones anteriores deberá darse en el momento 
 El nombramiento de un experto independiente corresponderá al registrador mercantil del domicilio del deudor. Si el acuerdo de refinanciación afectara a varias sociedades del mismo grupo, el informe podrá ser único y elaborado por un solo experto, designado por el registrador del domicilio de la sociedad dominante, si estuviera afectada por el acuerdo o, en su defecto, por el del domicilio de cualquiera de las sociedades del grupo.
 
 El nombramiento se hará entre profesionales que resulten idóneos para la función. Dichos expertos quedarán sometidos a las condiciones del artículo 28 y a las causas de incompatibilidad establecidas para los auditores en la legislación de auditoría de cuentas.
+
+> Se modifica el número 1.º del apartado 1.b) por el art. único.Cuatro.3 de la Ley 9/2015, de 25 de mayo. Ref. BOE-A-2015-5744#aunico.
+
+> Véase, en cuanto al régimen transitorio, la disposición transitoria 1.1 de la citada norma.
 
 > Se modifica por el art. único.14 de la Ley 17/2014, de 30 de septiembre. Ref. BOE-A-2014-9896.
 
