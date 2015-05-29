@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Procedimientos aprobados previamente por la Administración.
+
+Los operadores que tuvieran implantados procedimientos previamente aprobados por la Comisión del Mercado de las Telecomunicaciones o por la Comisión Nacional de los Mercados y la Competencia para la suspensión de la interconexión de numeraciones por tráfico irregular, podrán seguir utilizando dichos procedimientos ante la Comisión Nacional de los Mercados y la Competencia en las mismas condiciones en las que lo venían haciendo durante un mes tras la entrada en vigor del presente real decreto.
+
+No obstante, los operadores que soliciten la autorización de criterios para la implantación de sistemas o procedimientos según lo establecido en el artículo 4 del presente real decreto en el plazo de un mes a contar desde su entrada en vigor, podrán seguir utilizando dichos procedimientos previamente aprobados hasta que la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información resuelva sobre esta solicitud.
