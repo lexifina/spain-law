@@ -45,6 +45,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 27](a27.md)
 - [Disposición adicional primera](daprimera.md)
 - [Disposición adicional segunda](dasegunda.md)
+- [Disposición adicional tercera](datercera.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
