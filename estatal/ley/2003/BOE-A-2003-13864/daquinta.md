@@ -1,3 +1,5 @@
 ## Disposición adicional quinta. Denominación Cava.
 
-La denominación Cava podrá acceder al nivel de denominación de origen calificada una vez acredite cumplir los requisitos establecidos en el artículo 23 de esta ley.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. Ref. BOE-A-2015-5288#ddunica.

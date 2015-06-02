@@ -1,5 +1,5 @@
 ## Disposición adicional tercera. Certificaciones del origen y procedencia.
 
-Los certificados de origen de los vinos amparados por un nivel de protección, entendiéndose por tales los que acreditan la calidad vinculada a un origen geográfico determinado, serán expedidos, en todo caso, a requerimiento de los interesados por el órgano encargado del control del nivel de protección correspondiente.
+(Derogada)
 
-Cuando se trate de vinos de mesa, su procedencia será certificada por las autoridades competentes de las comunidades autónomas, a requerimiento de los interesados.
+> Se deroga por la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. Ref. BOE-A-2015-5288#ddunica.
