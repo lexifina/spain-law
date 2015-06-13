@@ -41,6 +41,7 @@
 | 34 | TMA-2 | 2,4,5-trimetoxianfetamina |
 | 35 5-IT |  | 5-(2-aminopropil)indol |
 | 36 | 4-MA | 4-metilanfetamina |
+| 37 |  | 4-yodo-2,5-dimetoxi-N-(2-metoxibencil) fenetilamina (25I-NBOMe) |
 | Sustancias de la lista II |
 | 1 AMINEPTINA |  | Ácido 7-[10,11-dihidro-5H-dibenzo[a,d]ciclohepten-5-il)amino]heptanoico |
 | 2 ANFETAMINA |  | (±)-α-metilfenetilamina |
@@ -60,6 +61,8 @@
 | 16 RACEMATO DE METANFETAMINA |  | (±)-N,alfa-dimetilfenetilamina |
 | 17 SECOBARBITAL |  | Ácido 5-alil-5-(1-metilbutil)-barbitúrico |
 | 18 ZIPEPROL |  | [alfa -(alfametoxi-bencil)4-beta-metoxifenetil)-1-piperazinaetanol] y sus variantes estereoisómeras |
+| 19 |  | 3,4-metilendioxipirovalerona (MDPV) |
+| 20 |  | 2-(3-metoxifenil)-2-(etilamino)ciclohexanona (metoxetamina) |
 | Sustancias de la lista III |
 | 1 AMOBARBITAL |  | Ácido 5-etil-5-isopentilbarbitúrico |
 | 2 BUPRENORFINA |  | 2l-ciclopropil-7-α-[(S)-1-hidroxi-1,2,2-trimetilpropil]-6,14-endo-etano-6,7,8,14-tetrahidrooripavina |
@@ -135,11 +138,15 @@
 | 62 VINILBITAL |  | ácido 5-[1-metilbutil]-5-vinilbarbitúrico |
 | 63 ZOLPIDEM |  | [N,N,6-trimetil-2-p-tolilimidazol (1,2-α)piridina-3-acetamida] |
 
-> Véase el art. 1 de la Orden SSI/1478/2014, de 1 de agosto. Ref. BOE-A-2014-8521, en relación a la inclusión de sustancias en la lista I.
+> Véanse los arts. 1 y 2 de la Orden SSI/1091/2015, de 2 de junio Ref. BOE-A-2015-6496. en relación a la inclusión de sustancias en las listas I y II.
 
 > Téngase en cuenta para su aplicación la disposición adicional única.
 
-> Véanse los arts. 1 y 2 de la Orden SSI/806/2014, de 8 de mayo. Ref. BOE-A-2014-5265, en relación a la inclusión de sustancias en la lista I y a la transferencia de determinadas sustancias de la lista IV a la lista II.
+> Véase el art. 1 de la Orden SSI/1478/2014, de 1 de agosto Ref. BOE-A-2014-8521, en relación a la inclusión de sustancias en la lista I.
+
+> Téngase en cuenta para su aplicación la disposición adicional única.
+
+> Véanse los arts. 1 y 2 de la Orden SSI/806/2014, de 8 de mayo Ref. BOE-A-2014-5265, en relación a la inclusión de sustancias en la lista I y a la transferencia de determinadas sustancias de la lista IV a la lista II.
 
 > Téngase en cuenta para su aplicación la disposición adicional única.
 
