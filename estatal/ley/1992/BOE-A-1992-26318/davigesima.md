@@ -24,6 +24,10 @@ h) Tenga mayor número de habitantes o extensión territorial dependiendo de si 
 
 4. Los consorcios estarán sujetos al régimen de presupuestación, contabilidad y control de la Administración pública a la que estén adscritos, sin perjuicio de su sujeción a lo previsto en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera. En todo caso, se llevará a cabo una auditoría de las cuentas anuales que será responsabilidad del órgano de control de la Administración a la que se haya adscrito el consorcio. Los consorcios deberán formar parte de los presupuestos e incluirse en la cuenta general de la Administración pública de adscripción.
 
-5. El personal al servicio de los consorcios podrá ser funcionario o laboral procedente exclusivamente de una reasignación de puestos de trabajo de las Administraciones participantes, su régimen jurídico será el de la Administración pública de adscripción y sus retribuciones en ningún caso podrán superar las establecidas para puestos de trabajo equivalentes en aquélla.
+5. El personal al servicio de los consorcios podrá ser funcionario o laboral y habrá de proceder exclusivamente de las Administraciones participantes. Su régimen jurídico será el de la Administración Pública de adscripción y sus retribuciones en ningún caso podrán superar las establecidas para puestos de trabajo equivalentes en aquélla.
 
-> Se añade por la disposición final 2 de la Ley 27/2013, de 27 de diciembre. Ref. BOE-A-2013-13756dfsegunda.
+Excepcionalmente, cuando no resulte posible contar con personal procedente de las Administraciones participantes en el consorcio en atención a la singularidad de las funciones a desempeñar, el Ministerio de Hacienda y Administraciones Públicas u órgano competente de la Administración a la que se adscriba el consorcio, podrá autorizar la contratación directa de personal por parte del consorcio para el ejercicio de dichas funciones.
+
+> Se modifica el apartado 5 por la disposición final 2 de la Ley Orgánica 6/2015, de 12 de junio. Ref. BOE-A-2015-6517.
+
+> Se añade por la disposición final 2 de la Ley 27/2013, de 27 de diciembre. Ref. BOE-A-2013-13756#dfsegunda.

@@ -4,7 +4,7 @@ Uno. La actividad financiera de las Comunidades Autónomas se ejercerá en coord
 
 a) El sistema de ingresos de las Comunidades Autónomas, regulado en las normas básicas a que se refiere el artículo anterior, deberá establecerse de forma que no pueda implicar, en ningún caso, privilegios económicos o sociales ni suponer la existencia de barreras fiscales en el territorio español, de conformidad con el apartado 2 del artículo 157 de la Constitución.
 
-b) La garantía del equilibrio económico, a través de la política económica general, de acuerdo con lo establecido en los artículos 40.1, 131 y 138 de la Constitución, corresponde al Estado, que es el encargado de adoptar las medidas oportunas tendentes a conseguir la estabilidad económica interna y externa y la estabilidad presupuestaria, así como el desarrollo armónico entre las diversas partes del territorio español. A estos efectos, se entenderá por estabilidad presupuestaria la situación de equilibrio o de superávit, computada en términos de capacidad de financiación, de acuerdo con la definición establecida en el Sistema Europeo de Cuentas Nacionales y Regionales, en los términos contemplados en la normativa de estabilidad presupuestaria.
+b) La garantía del equilibrio económico, a través de la política económica general, de acuerdo con lo establecido en los artículos 40.1, 131 y 138 de la Constitución, corresponde al Estado, que es el encargado de adoptar las medidas oportunas tendentes a conseguir la estabilidad económica interna y externa, la estabilidad presupuestaria y la sostenibilidad financiera, así como el desarrollo armónico entre las diversas partes del territorio español. A estos efectos, se aplicarán los principios de estabilidad presupuestaria y sostenibilidad financiera definidos en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
 
 c) La garantía de un nivel base equivalente de financiación de los servicios públicos fundamentales, independientemente de la Comunidad Autónoma de residencia.
 
@@ -19,6 +19,8 @@ g) La lealtad institucional, que determinará el impacto, positivo o negativo, q
 Dos. Cada Comunidad Autónoma está obligada a velar por su propio equilibrio territorial y por la realización interna del principio de solidaridad.
 
 Tres. Las Comunidades Autónomas gozarán del tratamiento fiscal que la Ley establezca para el Estado.
+
+> Se modifica el apartado 1.b) por el art. 1.1 de la Ley Orgánica 6/2015, de 12 de junio. Ref. BOE-A-2015-6517.
 
 > Se modifica el apartado 1 por el art. único.1 de la Ley Orgánica 3/2009, de 18 de diciembre. Ref. BOE-A-2009-20374
 

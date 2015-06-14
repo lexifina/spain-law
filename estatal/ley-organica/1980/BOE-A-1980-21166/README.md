@@ -26,6 +26,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo decimoprimero](adecimoprimero.md)
 - [Artículo decimosegundo](adecimosegundo.md)
 - [Artículo decimotercero](adecimotercero.md)
+- [Artículo decimotercero bis](adecimotercerobis.md)
 - [Artículo decimocuarto](adecimocuarto.md)
 - [Artículo decimoquinto](adecimoquinto.md)
 - [Artículo decimosexto](adecimosexto.md)
