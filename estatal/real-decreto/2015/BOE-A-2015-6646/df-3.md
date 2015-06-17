@@ -1,0 +1,3 @@
+## Disposición final tercera. Derogación del Código de Conducta para la prestación de los servicios de tarificación adicional.
+
+Queda derogado el Código de Conducta para la prestación de los servicios de tarificación adicional de 23 de julio de 2004, así como el apartado 1 del artículo quinto de la Orden PRE/361/2002, de 14 de febrero, de desarrollo, en lo relativo a los derechos de los usuarios y a los servicios de tarificación adicional, del título IV del Real Decreto 1736/1998, de 31 de julio, por el que se aprueba el Reglamento por el que se desarrolla el título III de la Ley General de Telecomunicaciones.
