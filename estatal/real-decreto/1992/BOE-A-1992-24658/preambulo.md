@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 33 de 8 de febrero de 1993. Ref. BOE-A-1993-3301
+Norma derogada por la disposición derogatoria única del Real Decreto 460/2015, de 5 de junio. Ref. BOE-A-2015-6645#ddunica.

@@ -1,0 +1,19 @@
+## Disposición final segunda. Modificación del artículo 5 del Real Decreto 971/2007, de 13 de julio, sobre deportistas de alto nivel y alto rendimiento.
+
+Se modifica el artículo 5, que pasa a tener la siguiente redacción:
+
+«Artículo 5. Deportistas con discapacidad física, o intelectual o sensorial.
+
+1. Tendrán la consideración de deportistas de alto nivel los deportistas con licencia federativa estatal o con licencia autonómica homologada, con discapacidad física, intelectual o sensorial, que se encuentren en posesión de una licencia deportiva y que cumplan algunos de los siguientes requisitos:
+
+a) En el supuesto de modalidades o pruebas deportivas individuales, quienes se hayan clasificado entre los tres primeros puestos en cualquiera de las siguientes competiciones: los Juegos Paralímpicos, los Juegos Sordolímpicos, Campeonatos del Mundo, Campeonatos de Europa de su especialidad, organizados por el Comité Paralímpico Internacional, o por las Federaciones Internacionales reguladoras de cada deporte, y cuyas modalidades sean reconocidas por el Consejo Superior de Deportes, sin perjuicio de lo que pueda ser acordado excepcionalmente por la Comisión de Evaluación del Deporte de Alto Nivel.
+
+b) En el supuesto de modalidades o pruebas deportivas de equipo, quienes se hayan clasificado entre los tres primeros puestos en cualquiera de las siguientes competiciones: los Juegos Paralímpicos, Juegos Sordolímpicos, Campeonatos del Mundo, Campeonatos de Europa de su especialidad organizados por el Comité Paralímpico Internacional, o por las Federaciones Internacionales reguladoras de cada deporte, y cuyas modalidades sean reconocidas por el Consejo Superior de Deportes, sin perjuicio de lo que pueda ser acordado excepcionalmente por la Comisión de Evaluación del Deporte de Alto Nivel.
+
+2. Los deportistas de apoyo de los Deportistas con discapacidad física, intelectual o sensorial que tengan la consideración de deportistas de alto nivel, serán igualmente considerados deportistas de alto nivel siempre que hayan participado en este tipo de pruebas y que reúnan los siguientes requisitos:
+
+a) Que colaboren en los entrenamientos y en la competición de deportistas con discapacidad mediante esfuerzo físico de alta intensidad.
+
+b) Que la actuación sea simultánea a la de los deportistas con discapacidad y se desarrolle durante toda la prueba.
+
+c) Que los deportistas de apoyo figuren en la clasificación oficial del Campeonato con el resultado obtenido y reciban la medalla en el mismo acto de premiación que los deportistas con discapacidad.»
