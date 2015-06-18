@@ -46,6 +46,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 26](a26.md)
 - [Artículo 27](a27.md)
 - [Artículo 27 bis](a27bis.md)
+- [Artículo 27 ter](a27ter.md)
 - [Artículo 28](a28.md)
 - [Disposición adicional primera](daprimera.md)
 - [Disposición adicional segunda](dasegunda.md)

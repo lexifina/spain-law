@@ -1,0 +1,31 @@
+La Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, nació con el propósito de impulsar la acción de la Administración General del Estado en la vertebración y cohesión del sistema universitario, de profundizar las competencias de las comunidades autónomas en materia de enseñanza superior, de incrementar el grado de autonomía de las universidades constitucionalmente reconocido y consagrado, y de establecer los cauces necesarios para fortalecer las relaciones y vinculaciones recíprocas entre universidad y sociedad.
+
+El objetivo esencial de la citada ley fue, por tanto, la mejora de la calidad del sistema universitario en su conjunto, del que forman parte como pieza insustituible las universidades y centros universitarios.
+
+La Ley Orgánica 6/2001, de 21 de diciembre, regula en su título I la naturaleza, creación, reconocimiento y régimen jurídico de las universidades públicas y privadas, estableciendo a tal efecto las reglas para su puesta en marcha y funcionamiento. Junto a ello, el título II de la citada ley orgánica establece las reglas relativas a la estructura de las universidades públicas y privadas, con especial atención a la estructura de los centros y departamentos, así como de los institutos universitarios de investigación y los centros de educación superior adscritos a universidades.
+
+La regulación reglamentaria actualmente vigente en materia de universidades y centros, por su parte, data del año 1991, cuando se procedió, en desarrollo de la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria, a la aprobación del Real Decreto 557/1991, de 12 de abril, sobre creación y reconocimiento de universidades y centros universitarios, modificado por el Real Decreto 485/1995, de 7 abril.
+
+Dicho real decreto estableció una serie de normas básicas para la creación y reconocimiento de dichos centros, teniendo en cuenta las necesidades derivadas de la programación general de la enseñanza universitaria: se regulaban, a través del mismo, los requisitos comunes para la creación o reconocimiento de universidades, las previsiones concretas y específicas de los centros públicos y privados, el procedimiento de puesta en funcionamiento de los mismos, así como la adscripción de centros a universidades públicas y privadas o el establecimiento de centros extranjeros para impartir enseñanzas de nivel universitario en España, conforme a sistemas educativos vigentes en otros países.
+
+Sin embargo, el largo tiempo transcurrido, así como la aprobación de la Ley Orgánica 6/2001, de 21 de diciembre, y la importante modificación sufrida por la misma a través de la Ley Orgánica 4/2007, de 12 de abril, motivada fundamentalmente por los acuerdos que en materia de política de educación superior se adoptaron en el seno de la Unión Europea, y por el impulso que la misma pretende dar a la investigación en todos sus países miembros, aconsejan abordar una revisión profunda del régimen reglamentario de regulación de universidades y centros universitarios, públicos y privados.
+
+Las circunstancias ya expuestas, por tanto, recomiendan abordar la regulación integral de los requisitos básicos de creación y reconocimiento de universidades y centros universitarios públicos y privados, y el procedimiento para la autorización del inicio de los mismos, simplificando y racionalizando las exigencias hasta ahora establecidas en la normativa en vigor.
+
+Por otro lado, se regula la acreditación institucional de centros, como alternativa al modelo de acreditación de títulos vigente en la actualidad en nuestro país, que desde su definición en 2007, supuso la adaptación española a las propuestas de evaluación de la calidad derivadas del Espacio Europeo de Educación Superior.
+
+El actual modelo de acreditación de enseñanzas se definió sobre unas bases muy garantistas para los títulos implantados, en un proceso en tres etapas: verificación o acreditación ex ante, seguimiento de los títulos implantados y renovación de la acreditación de los títulos a los seis años en el caso de los grados y los doctorados y cuatro años para los másteres.
+
+Este proceso en tres etapas pone el acento en la «seguridad académica» del título autorizado tras su verificación y en el seguimiento de su implantación para reducir los riesgos al máximo en la renovación de la implantación.
+
+Se trata, por tanto, de un proceso costoso en su desarrollo por parte de las universidades y de las agencias, que deben acometer los procedimientos de evaluación derivados del mismo. Este hecho, unido al número tan elevado de títulos presentados por las universidades para su verificación e implantación, con la autorización previa preceptiva de los gobiernos autonómicos para los títulos de las universidades públicas, pone de relieve la conveniencia de intentar encontrar fórmulas más eficientes, alternativas al modelo vigente y alineadas con las exigencias del Espacio Europeo de Educación Superior y con la tendencia en otros sistemas de educación superior europeos, que incluye una dimensión institucional en el proceso de acreditación.
+
+Por ello, se modifica el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, para permitir a aquellos centros que hayan obtenido la acreditación institucional renovar la acreditación de las titulaciones oficiales que impartan sin necesidad de someterse al procedimiento previsto en dicho real decreto.
+
+Por otra parte, la existencia de diversos centros universitarios de la Defensa adscritos a universidades públicas de distintas comunidades autónomas aconseja dotarlos de una regulación uniforme en materia de personal docente y en cuanto a las competencias universitarias.
+
+En la elaboración del presente real decreto ha emitido informe el Consejo de Universidades, y ha sido sometido a consulta de las comunidades autónomas en el seno de la Conferencia General de Política Universitaria.
+
+En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte y del Ministro de Sanidad, Servicios Sociales e Igualdad, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 29 de mayo de 2015,
+
+DISPONGO:
