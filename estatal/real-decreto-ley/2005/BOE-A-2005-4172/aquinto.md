@@ -18,4 +18,8 @@ e) Las operaciones dobles o con pacto de recompra, cualesquiera que sean los act
 
 2.º Operaciones con pacto de recompra: aquellas en las que el titular de los valores los vende hasta la fecha de amortización, conviniendo simultáneamente la recompra de valores de idénticas características y por igual valor nominal, en una fecha determinada e intermedia entre la venta y la de amortización más próxima, aunque esta sea parcial o voluntaria.
 
+f) Operaciones de contado sobre los valores negociables previstos en el artículo 2, párrafo primero, de la Ley 24/1988, de 28 de julio, del Mercado de Valores admitidos a negociación en un mercado secundario oficial o en otro mercado regulado domiciliado en la Unión Europea o en un sistema multilateral de negociación.
+
+> Se añade el apartado 2.f) por la disposición final 7.3 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfseptima.
+
 > Se modifica el apartado 2.c) por el art. 2.3 de la Ley 7/2011, de 11 de abril. Ref. BOE-A-2011-6549.

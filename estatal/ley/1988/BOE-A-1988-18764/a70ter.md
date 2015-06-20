@@ -26,7 +26,7 @@ Asimismo deberán informar a la Comisión Nacional del Mercado de Valores, en la
 
 f) Adoptar las medidas adecuadas para proteger los instrumentos financieros que les confían sus clientes y evitar su utilización indebida. En particular, no podrán utilizar por cuenta propia los instrumentos financieros de los clientes, salvo cuando éstos manifiesten su consentimiento expreso. Asimismo, deberán mantener una separación efectiva entre los valores e instrumentos financieros de la empresa y los de cada cliente. Los registros internos de la entidad deberán permitir conocer, en todo momento y sin demora, y especialmente en caso de insolvencia de la empresa, la posición de valores y operaciones en curso de cada cliente.
 
-Iniciado el procedimiento concursal de una entidad depositaria de valores, la Comisión Nacional del Mercado de Valores, sin perjuicio de las competencias del Banco de España, podrá disponer de forma inmediata el traslado a otra entidad habilitada para desarrollar esta actividad, de los valores depositados por cuenta de sus clientes, incluso si tales activos se encuentran depositados en terceras entidades a nombre de la entidad que preste el servicio de depósito. A estos efectos, tanto el juez competente como los órganos del procedimiento concursal facilitarán el acceso de la entidad a la que vayan a traspasarle los valores a la documentación y registros contables e informáticos necesarios para hacer efectivo el traspaso. La existencia del procedimiento concursal no impedirá que se haga llegar al cliente titular de los valores el efectivo procedente del ejercicio de sus derechos económicos o de su venta.
+Iniciado el procedimiento concursal de una entidad depositaria de valores, la Comisión Nacional del Mercado de Valores, sin perjuicio de las competencias del Banco de España y del Fondo de Resolución Ordenada Bancaria, podrá disponer de forma inmediata y sin coste para el inversor el traslado a otra entidad habilitada para desarrollar esta actividad, de los valores depositados por cuenta de sus clientes, incluso si tales activos se encuentran depositados en terceras entidades a nombre de la entidad que preste el servicio de depósito. A estos efectos, tanto el juez competente como los órganos del procedimiento concursal facilitarán el acceso de la entidad a la que vayan a traspasarle los valores a la documentación y registros contables e informáticos necesarios para hacer efectivo el traspaso. La existencia del procedimiento concursal no impedirá que se hagan llegar al cliente, de acuerdo con las normas del sistema de compensación, liquidación y registro, los valores comprados o el efectivo procedente del ejercicio de los derechos económicos o de la venta de los valores.
 
 g) Elaborar y mantener actualizado un Plan general de viabilidad que contemple las medidas que se vayan a adoptar para restaurar la viabilidad y la solidez financiera de la empresa de servicios de inversión en caso de que estas sufran algún deterioro significativo. El plan será sometido a aprobación de la Comisión Nacional del Mercado de Valores que podrá exigir la modificación de su contenido.
 
@@ -70,8 +70,6 @@ d) El consejo de administración es responsable de garantizar una supervisión e
 
 e) El presidente del consejo de administración no podrá ejercer simultáneamente el cargo de consejero delegado, salvo que la entidad lo justifique y la Comisión Nacional del Mercado de Valores lo autorice.
 
-> Téngase en cuenta que la letra e) del apartado 7 será exigible a partir del 31 de octubre de 2014, según establece la disposición final 14.2.a).2º) de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
-
 8. Las empresas de servicios de inversión deberán contar, en condiciones proporcionadas al carácter, escala y complejidad de sus actividades, con unidades y procedimientos internos adecuados para llevar a cabo la selección y evaluación continua de los miembros de su consejo de administración y de sus directores generales o asimilados, y de las personas que asuman funciones de control interno u ocupen puestos claves para el desarrollo diario de la actividad de la empresa de servicios de inversión, conforme a lo establecido en este apartado.
 
 La valoración de la idoneidad de los cargos anteriores de conformidad con los criterios de honorabilidad, experiencia y buen gobierno establecidos en esta Ley se producirá tanto por la propia empresa de servicios de inversión, como por la Comisión Nacional del Mercado de Valores, en los términos que se prevean reglamentariamente.
@@ -81,6 +79,8 @@ Las empresas de servicios de inversión deberán velar en todo momento por el cu
 9. Las empresas de servicios de inversión contarán con una página web donde darán difusión a la información pública prevista en este Capítulo y comunicarán el modo en que cumplen las obligaciones de gobierno corporativo.
 
 10. A los efectos de lo previsto en esta Ley, se equiparará el consejo de administración a cualquier órgano equivalente de las empresas de servicios de inversión.
+
+> Se modifica el párrafo segundo de la letra f) del apartado 2 por la disposición final 1.A).17 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfprimera.
 
 > Se modifica por la disposición final 1.11 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
 

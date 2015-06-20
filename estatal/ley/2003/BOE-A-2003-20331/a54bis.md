@@ -1,10 +1,10 @@
-## Artículo 54 bis. Condiciones para la gestión transfronteriza de IIC por sociedades gestoras autorizadas en España de conformidad con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011.
+## Artículo 54 bis. Condiciones para la gestión transfronteriza de IIC por sociedades gestoras autorizadas en España de conformidad con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011 y para la prestación de servicios en otros Estados miembros.
 
-1. Las SGIIC autorizadas en España de conformidad con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, podrán gestionar IIC establecidas en otro Estado miembro, ya sea directamente o mediante el establecimiento de una sucursal, siempre que la SGIIC esté autorizada a gestionar ese tipo de IIC.
+1. Las SGIIC autorizadas en España de conformidad con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, podrán gestionar IIC establecidas en otro Estado miembro, ya sea directamente o mediante el establecimiento de una sucursal, siempre que la SGIIC esté autorizada a gestionar ese tipo de IIC. Adicionalmente podrá prestar en otro Estado miembro los servicios a los que se refiere el artículo 40.2 para los que haya sido autorizada.
 
 2. Toda gestora que se proponga gestionar IIC establecidas en otro Estado miembro por primera vez, comunicará a la Comisión Nacional del Mercado de Valores la siguiente información:
 
-a) El Estado miembro en el que se proponga gestionar las IIC directamente o mediante el establecimiento de una sucursal y
+a) El Estado miembro en el que se proponga gestionar las IIC directamente o mediante el establecimiento de una sucursal o si se van a prestar servicios a los que se refiere el artículo 40.2 para los que haya sido autorizada, y
 
 b) un programa de actividades en el que se indiquen, en particular, los servicios que se proponga prestar y se identifiquen las IIC que se proponga gestionar.
 
@@ -29,5 +29,7 @@ Si, como consecuencia de la modificación prevista, la gestión de la IIC por pa
 Si la modificación prevista se ha adoptado contraviniendo lo previsto en los párrafos primero y segundo, o si se ha producido un acontecimiento imprevisto que ha provocado una modificación, como consecuencia de la cual la gestión de la IIC por parte de la gestora pudiera dejar de ser conforme con esta Ley, o si la gestora pudiera dejar de cumplir esta Ley, la Comisión Nacional del Mercado de Valores adoptará todas las medidas oportunas.
 
 Si las modificaciones son aceptables, la Comisión Nacional del Mercado de Valores informará sin demora de dichas modificaciones a las autoridades competentes del Estado miembro de acogida.
+
+> Se modifican los apartados 1 y 2 por la disposición final 6 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfsexta.
 
 > Se añade por la disposición final 1.25 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.

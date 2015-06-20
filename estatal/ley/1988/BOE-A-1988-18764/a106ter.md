@@ -12,7 +12,7 @@ d) La gravedad y persistencia temporal del peligro ocasionado o del perjuicio ca
 
 e) Las pérdidas causadas a terceros por la infracción.
 
-f) Las ganancias obtenidas, en su caso, como consecuencia de los actos u omisiones constitutivos de la infracción.
+f) Las ganancias obtenidas o, en su caso, las pérdidas evitadas como consecuencia de los actos u omisiones constitutivos de la infracción, en la medida en que puedan determinarse.
 
 g) Las consecuencias desfavorables de los hechos para el sistema financiero o la economía nacional.
 
@@ -20,7 +20,7 @@ h) La circunstancia de haber procedido a la subsanación de la infracción por p
 
 i) La reparación de los daños o perjuicios causados.
 
-j) La colaboración con la Comisión Nacional del Mercado de Valores, siempre que la persona física o jurídica haya aportado elementos o datos relevantes para el esclarecimiento de los hechos investigados.
+j) La colaboración con la Comisión Nacional del Mercado de Valores, siempre que la persona física o jurídica haya aportado elementos o datos relevantes para el esclarecimiento de los hechos investigados, sin perjuicio de la necesidad de garantizar la restitución de los beneficios obtenidos o de las pérdidas evitadas por la misma.
 
 k) En el caso de insuficiencia de recursos propios, las dificultades objetivas que puedan haber concurrido para alcanzar o mantener el nivel legalmente exigido.
 
@@ -33,6 +33,8 @@ a) El grado de responsabilidad en los hechos que concurra en el interesado.
 b) La conducta anterior del interesado, en la misma o en otra entidad, en relación con las normas de ordenación y disciplina, tomando en consideración al efecto las sanciones firmes que le hubieran sido impuestas durante los últimos cinco años.
 
 c) El carácter de la representación que el interesado ostente.
+
+> Se modifican las letras f) y j) del apartado 1 por la disposición final 1.A).27 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfprimera.
 
 > Se modifica el apartado 1 por la disposición final 1.48 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
 

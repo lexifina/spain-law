@@ -18,7 +18,7 @@ e) Que los accionistas que vayan a tener una participación significativa en la 
 
 f) Que la sociedad rectora disponga del capital social mínimo y de los recursos propios mínimos que se establezcan reglamentariamente, atendiendo a la necesidad de asegurar su funcionamiento ordenado y teniendo en cuenta la naturaleza y el alcance de las operaciones que en él se realizan y el tipo y el grado de riesgo a que se expone.
 
-g) Elaborar un proyecto de reglamento de mercado que contendrá como mínimo las reglas aplicables en materia de instrumentos financieros negociables, miembros, régimen de garantías, negociación, registro, compensación y liquidación de transacciones y supervisión y disciplina del mercado y medidas de carácter organizativo relativas, entre otras materias, a los conflictos de interés y a la gestión de riesgos.
+g) Elaborar un proyecto de reglamento de mercado que contendrá como mínimo las reglas aplicables en materia de instrumentos financieros negociables, emisores, miembros, régimen de garantías, clases de operaciones, negociación, reglas sobre compensación, liquidación y registro de transacciones, distribución de dividendos y otros eventos corporativos, supervisión y disciplina del mercado y medidas de carácter organizativo relativas, entre otras materias, a los conflictos de interés y a la gestión de riesgos. Asimismo, deberá preverse la consulta a los emisores de instrumentos financieros admitidos a negociación en el mercado y a los miembros del mercado cuando se proponga una modificación sustancial de su reglamento.
 
 3. Con las excepciones que reglamentariamente se señalen, la modificación de los estatutos sociales de la sociedad rectora o del reglamento del mercado requerirá la previa aprobación por la Comisión Nacional del Mercado de Valores o la Comunidad Autónoma con competencia en la materia, en el caso de mercados de ámbito autonómico.
 
@@ -40,9 +40,13 @@ La Comisión Nacional del Mercado de Valores comunicará la revocación de la au
 
 6. Las Comunidades Autónomas con competencias en la materia y respecto de los mercados de ámbito autonómico, podrán establecer para aquellos las medidas organizativas adicionales que estimen oportunas.
 
-7. Las operaciones sobre acciones y otros valores negociables equivalentes o que den derecho a adquirir acciones, realizadas en los segmentos de contratación multilateral de los mercados secundarios oficiales y de los sistemas multilaterales de negociación, estarán sujetas a mecanismos que permitan su ordenada liquidación y buen fin mediante la necesaria intervención de una entidad de contrapartida central.
+7. Reglamentariamente se determinarán los valores negociables cuyas operaciones realizadas en los segmentos de contratación multilateral de los mercados secundarios oficiales, estarán sujetas a mecanismos que permitan su ordenada liquidación y buen fin mediante la necesaria intervención de una entidad de contrapartida central.
 
-> Téngase en cuenta que el apartado 7 entra en vigor en la fecha que determinen las normas de desarrollo, según establece la disposición final 6 de la Ley 32/2011, de 4 de octubre. Ref. BOE-A-2011-15622.
+8. Con objeto de atender la liquidación de las operaciones sobre valores negociables ejecutadas en mercados secundarios oficiales, sus sociedades rectoras suscribirán acuerdos con al menos un depositario central de valores y, en su caso, con una o varias entidades de contrapartida central, sin perjuicio del derecho de los emisores a disponer que sus valores sean registrados en cualquier depositario central de valores de conformidad con el artículo 49 del Reglamento (UE) n.º 909/2014 y del derecho de los miembros de los mercados secundarios oficiales a designar el sistema de liquidación conforme a lo establecido en el artículo 44 quinquies de esta Ley.
+
+> Se modifica la letra g) del apartado 2 y el apartado 7 y se añade el 8 por la disposición final 1.A).6 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfprimera.
+
+> Téngase en cuenta la disposición transitoria séptima de la citada Ley en cuanto a la aplicación de esta modificación.
 
 > Se modifican los apartados 1 y 4 por los arts. 94.5 y 94.6 de la Ley 5/2015, de 27 de abril. Ref. BOE-A-2015-4607#a94.
 

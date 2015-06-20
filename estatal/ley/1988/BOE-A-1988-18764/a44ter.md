@@ -2,11 +2,11 @@
 
 1. La autorización para prestar servicios de compensación en calidad de entidad de contrapartida central, su revocación y su funcionamiento cuando dichas entidades estén establecidas en España, se regirán por lo dispuesto en el Reglamento (UE) n.º 648/2012, del Parlamento Europeo y del Consejo, de 4 de julio de 2012, relativo a los derivados extrabursátiles, las entidades de contrapartida central y los registros de operaciones, por las disposiciones de esta Ley y cualquier otra normativa que resulte aplicable del ordenamiento jurídico o del Derecho de la Unión Europea.
 
-2. La entidad de contrapartida central deberá estar reconocida como sistema a los efectos de la Ley 41/1999, de 12 de noviembre, sobre sistemas de pagos y de liquidación de valores.
+2. La entidad de contrapartida central deberá revestir la forma de sociedad anónima y deberá estar reconocida como sistema a los efectos de la Ley 41/1999, de 12 de noviembre, sobre sistemas de pagos y de liquidación de valores.
 
-Para facilitar el ejercicio de sus funciones, las entidades de contrapartida central podrán acceder a la condición de participante o miembro de la Sociedad de Sistemas, de cualquier otra entidad nacional que tenga por función la llevanza del registro contable de valores representados por medio de anotaciones en cuenta autorizada de acuerdo con el artículo 44 bis.11, de las entidades extranjeras que ejerzan dicha función y la admitan como participante, de cualquier otro sistema de liquidación de valores e instrumentos financieros o de un mercado regulado o sistema multilateral de negociación, cuando cumplan con las condiciones que requiera cada sistema y la actuación de la entidad de contrapartida central en el mismo no comprometa la seguridad ni la solvencia de la misma.
+Para facilitar el ejercicio de sus funciones, las entidades de contrapartida central podrán acceder a la condición de participante de los depositarios centrales de valores que la admitan como tal, de cualquier otro sistema de liquidación de valores e instrumentos financieros o de un mercado regulado o sistema multilateral de negociación, cuando cumplan con las condiciones que requiera cada sistema y siempre que la participación de la entidad de contrapartida central en el mismo no comprometa la seguridad ni la solvencia de dicha entidad.
 
-3. Las entidades de contrapartida central revestirán la forma de sociedad anónima separada jurídicamente de la Sociedad de Sistemas, de cualquier otra entidad que tenga por función la llevanza del registro contable de valores representados por medio de anotaciones en cuenta, autorizadas de acuerdo con el artículo 44 bis.11 y de las entidades extranjeras que ejerzan dicha función.
+3. Las entidades de contrapartida central no podrán estar autorizadas como depositario central de valores.
 
 4. Las entidades de contrapartida central elaborarán sus estatutos sociales así como un reglamento interno, que tendrá el carácter de norma de ordenación y disciplina del mercado de valores.
 
@@ -49,6 +49,8 @@ Si la entidad de contrapartida central se viera sometida a un procedimiento conc
 8. La entidad de contrapartida central establecerá en su reglamento interno las reglas y procedimientos para hacer frente a las consecuencias que resulten de incumplimientos de sus miembros. Dichas reglas y procedimientos concretarán el modo en que se aplicarán los diversos mecanismos de garantía con que cuente la entidad de contrapartida central y las vías para reponerlos con el objetivo de permitir que la entidad de contrapartida central continúe operando de una forma sólida y segura.
 
 9. Con sujeción a lo dispuesto en esta Ley y en la restante normativa nacional o de la Unión Europea que resulte aplicable, la entidad de contrapartida central podrá establecer acuerdos con otras entidades residentes y no residentes, cuyas funciones sean análogas o que gestionen sistemas de compensación y liquidación de valores. Dichos acuerdos, así como los que pueda celebrar con mercados o sistemas multilaterales de negociación, requerirán la aprobación de la Comisión Nacional del Mercado de Valores, previo informe del Banco de España, y deberán cumplir con los requisitos que se determinen reglamentariamente y en el reglamento interno de la propia entidad.
+
+> Se modifican los apartados 2 y 3 por la disposición final 1.A).11 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfprimera.
 
 > Se modifica por la disposición final 1.1 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
 
