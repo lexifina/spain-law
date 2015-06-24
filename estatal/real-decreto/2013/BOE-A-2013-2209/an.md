@@ -42,7 +42,7 @@ Fecha de Resolución sancionadora, sanción económica, sanciones accesorias en 
 
 6. Fecha de la resolución donde se determinen estos extremos.
 
-7. Fecha de prescripción de la sanción, de acuerdo con lo dispuesto en el artículo 92.2 de la Ley 3/2001, de 26 de marzo.
+7. Fecha de prescripción de la sanción, de acuerdo con lo dispuesto en el artículo 93.2 de la Ley 3/2001, de 26 de marzo.
 
 8. En los casos en que la sanción impuesta sea por pesca INDNR y así se determine expresamente en la resolución sancionadora firme, se incorporará una referencia expresa a su inclusión en la lista señalada en el artículo 27 del Reglamento (CE) n.º 1005/2008 del Consejo, de 29 de septiembre de 2008.
 
@@ -61,3 +61,5 @@ g) Órganos responsables del fichero: Secretaría General de Pesca.
 h) Servicios o unidades ante los que pueden ejercerse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General de Pesca. Calle Velázquez, 144. 28006 Madrid.
 
 i) Nivel básico, medio o alto de seguridad que resulte exigible de acuerdo con lo establecido en el título VIII del RLOPD: Medio.
+
+> Se modifica el apartado c.1).7 por la disposición final 1.4 del Real Decreto 418/2015, de 29 de mayo. Ref. BOE-A-2015-6939#dfprimera.
