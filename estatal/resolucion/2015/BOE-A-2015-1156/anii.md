@@ -23,10 +23,8 @@ Todos los domingos y festivos (*) comprendidos entre el 3 de julio y el 13 de se
 | N-603 | 74,9 | Otero de Herreros. | 64 | San Rafael (enlace AP-6). | 21,00-23,00 | Entrada Madrid. |
 | M-501 | 59,5 | S. Martín de Valdeiglesias. | 0 | Madrid (enlace M-40). | 21,00-23,00 | Entrada Madrid. |
 | A-8 | 169 | Laredo. | 139,2 | Castro-Urdiales. | 16,00-22,00 | Bilbao. |
-| A-8 | 273,45 | Límite provincias Asturias-Cantabria. | 593 | Baamonde. | 18,00-23,00 | Ambos sentidos. |
-| A-64 | 0 | Villaviciosa (Grases). | 32 | Oviedo (Paredes). | 18,00-23,00 | Ambos sentidos. |
-| A-66 | 12 | Serín. | 65 | Campomanes. | 18,00-23,00 | Ambos sentidos. |
-| AS-I | 0 | Mieres. | 33 | Gijón. | 18,00-23,00 | Ambos sentidos. |
+| N-630 | 29,5 | Oviedo. | 87,1 | Límite provincias Asturias-León | 18,00-23,00 | Ambos sentidos. |
+| N-634 | 280,3 | Límite provincias Asturias-Cantabria. | 552,5 | Límite provincias Asturias-Lugo. | 18,00-23,00 | Ambos sentidos. |
 | N-634 | 552,53 | Límite provincias Lugo-Asturias. | 622 | Vilalba. | 18,00-23,00 | Ambos sentidos. |
 | N-340 | 329 | N-340 enlace con GR-14. | 355 | Castell de Ferro (enlace con A-7). | 17,00-24,00 | Ambos sentidos. |
 | GR-14 | 0 | Lobres (A-7). | 3,1 | Motril-oeste (N-340). | 17,00-24,00 | A-7 (dirección Granada). |
@@ -551,11 +549,8 @@ Lunes 12 de octubre (festividad de El Pilar)
 | M-501 | 59,5 | S. Martín de Valdeiglesias. | 0 | Madrid (enlace M-40). | 16,00-22,00 | Entrada Madrid. |
 | A-3 | 177 | Atalaya del Cañavate. | 352 | Valencia. | 13,00-22,00 | Entrada Valencia. |
 | A-3 | 352 | Valencia. | 298 | Requena. | 13,00-22,00 | Salida de Valencia. |
-| A-8 | 273,45 | Límite provincias Asturias-Cantabria. | 593 | Baamonde. | 18,00-23,00 | Ambos sentidos. |
-| A-64 | 0 | Villaviciosa (Grases). | 32 | Oviedo (Paredes). | 18,00-23,00 | Ambos sentidos. |
-| A-66 | 12 | Serín. | 65 | Campomanes. | 18,00-23,00 | Ambos sentidos. |
-| AP-66 | 65 | Campomanes. | 113 | La Magdalena. | 18,00-23,00 | Asturias. |
-| AS-I | 0 | Mieres. | 33 | Gijón. | 18,00-23,00 | Ambos sentidos. |
+| N-630 | 29,5 | Oviedo. | 87,1 | Límite provincias Asturias-León. | 18,00-23,00 | Ambos sentidos. |
+| N-634 | 280,3 | Límite provincias Asturias-Cantabria. | 552,5 | Límite provincias Asturias-Lugo. | 18,00-23,00 | Ambos sentidos. |
 | N-634 | 552,53 | Límite provincias Lugo-Asturias. | 622 | Vilalba. | 18,00-23,00 | Ambos sentidos. |
 | A-8 | 169 | Laredo. | 139,2 | Castro-Urdiales. | 16,00-22,00 | Bilbao. |
 
@@ -697,11 +692,8 @@ Martes 8 de diciembre (festividad Constitución e Inmaculada)
 | M-501 | 59,5 | S. Martín de Valdeiglesias. | 0 | Madrid (enlace M-40). | 16,00-22,00 | Entrada Madrid. |
 | A-3 | 177 | Atalaya del Cañavate. | 352 | Valencia. | 13,00-22,00 | Entrada Valencia. |
 | A-3 | 352 | Valencia. | 298 | Requena. | 13,00-22,00 | Salida de Valencia. |
-| A-8 | 273,45 | Límite provincias Asturias-Cantabria. | 593 | Baamonde. | 18,00-23,00 | Ambos sentidos. |
-| A-64 | 0 | Villaviciosa (Grases). | 32 | Oviedo (Paredes). | 18,00-23,00 | Ambos sentidos. |
-| A-66 | 12 | Serín. | 65 | Campomanes. | 18,00-23,00 | Ambos sentidos. |
-| AP-66 | 65 | Campomanes. | 113 | La Magdalena. | 18,00-23,00 | Asturias. |
-| AS-I | 0 | Mieres. | 33 | Gijón. | 18,00-23,00 | Ambos sentidos. |
+| N-630 | 29,5 | Oviedo. | 87,1 | Límite provincias Asturias-León. | 18,00-23,00 | Ambos sentidos. |
+| N-634 | 280,3 | Límite provincias Asturias-Cantabria. | 552,5 | Límite provincias Asturias-Lugo. | 18,00-23,00 | Ambos sentidos. |
 | N-634 | 552,53 | Límite provincias Lugo-Asturias. | 622 | Vilalba. | 18,00-23,00 | Ambos sentidos. |
 | A-8 | 169 | Laredo. | 139,2 | Castro-Urdiales. | 16,00-22,00 | Bilbao. |
 
@@ -726,3 +718,5 @@ Viernes 25 de diciembre (continuidad restricciones en Francia)
 | N-121 A | 65,5 | Bera. | 68,44 | Endarlatsa. | 00,00-22,00 | Guipúzcoa. |
 | N-121 B | 45 | Arraioz. | 73,26 | Dantxarinea. | 00,00-22,00 | Frontera Francia. |
 | N-135 | 21 | Zubiri. | 66,49 | Luzaide/Valcarlos. | 00,00-22,00 | Frontera Francia. |
+
+> Se modifican los apartados a) y b) por el art. único.1 y 2 de la Resolución de 18 de junio de 2015. Ref. BOE-A-2015-7049.

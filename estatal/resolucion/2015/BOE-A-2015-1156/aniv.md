@@ -79,7 +79,7 @@
 | N-240/A-21 | JACA - L.P. NAVARRA |
 | A-21 | L.P. ZARAGOZA - NOÁIN (AP-15) |
 | A-10 | ENLACE AP-15 / A-15 - ALSASUA (A-1) |
-| A-12 | CIZUR (A-15) - VIANA |
+| A-12 | CIZUR (A-15) - PK. 78,18 (LÍMITE DE COMUNIDADES NAVARRA-LA RIOJA) |
 | A-12 | LOGROÑO (LO-20) - STO. DOMINGO CALZADA |
 | AP-36 | OCAÑA - LA RODA |
 | A-31 | LA RODA - ALICANTE |
@@ -179,3 +179,5 @@
 | A-51 | CIRCUNVALACIÓN ÁVILA |
 
 (*) Solamente se podrá circular entre las 0:00 y 6:00 horas.
+
+> Se modifica por el art. único.3 de la Resolución de 18 de junio de 2015. Ref. BOE-A-2015-7049.
