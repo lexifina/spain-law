@@ -4,6 +4,8 @@ En aquellos municipios en los que no se haya realizado un procedimiento de valor
 
 Estos valores, en tanto no se aprueben las nuevas normas reglamentarias de valoración de inmuebles rústicos, se obtendrán por la aplicación de las reglas contenidas en la disposición transitoria primera, referidas a la ponencia de valores vigente en el municipio.
 
-Los valores tendrán efectividad el día 1 de enero del año siguiente a aquel en que se notifiquen o se entiendan notificados.
+Los valores tendrán efectividad el día 1 de enero siguiente a aquel en que se publique la mencionada resolución, con independencia de la fecha en que se notifiquen.
+
+> Se modifica por el art. 2.19 de la Ley 13/2015, de 24 de junio. Ref. BOE-A-2015-7046#asegundo.
 
 > Se añade por el art. 16.4 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
