@@ -34,6 +34,7 @@
 | 303 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre, y desde el día 1 hasta el 25 del mes de enero. |
 | 353 | Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre, y desde el día 1 hasta el 25 del mes de enero. |
 | 410 | Plazo: Desde el día 1 hasta el 26 del mes de julio. |
+| 411 | Plazo: Desde el día 1 hasta el 26 del mes de julio. |
 | 430 | Desde el día 1 hasta el 15 del mes siguiente a la finalización del correspondiente periodo de liquidación mensual, excepto la correspondiente al mes de julio, que se presentará durante el mes de agosto y los primeros quince días naturales del mes de septiembre. |
 | 560 | Obligación trimestral de presentación: Desde el día 1 al 15 del mes siguiente a aquel en que finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del mes siguiente al mes en que se han producido los devengos. Obligación anual de presentación: Desde el 1 al 15 del mes de abril del año siguiente al que se han producido los devengos. |
 | 561 | Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
@@ -49,6 +50,8 @@
 | 595 | Desde el día 1 al 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 | 714 | Desde el día 2 de mayo hasta el 25 de junio. |
 | (*) Sólo cuando el período impositivo finalice el día 31 de diciembre. |
+
+> Se añade el modelo 411 por la disposición final 4.2 de la Orden HAP/1230/2015, de 17 de junio. Ref. BOE-A-2015-7048.
 
 > Se modifica el modelo 560 por la disposición final 2 de la Orden HAP/2489/2014, de 29 de diciembre. Ref. BOE-A-2014-13678.
 

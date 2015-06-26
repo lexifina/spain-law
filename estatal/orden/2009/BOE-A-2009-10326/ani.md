@@ -34,6 +34,7 @@
 | 370 | (Suprimido) |
 | 371 | (Suprimido) |
 | 410 | Pago a cuenta del Impuesto sobre los Depósitos en las Entidades de Crédito. Autoliquidación. |
+| 411 | Impuesto sobre los Depósitos en las Entidades de Crédito. Autoliquidación. |
 | 430 | Declaración-liquidación Impuesto sobre las Primas de seguros. |
 | 560 | Impuesto sobre la Electricidad. Declaración-liquidación. |
 | 561 | Impuesto sobre la Cerveza. Declaración-liquidación. |
@@ -52,6 +53,8 @@
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
+
+> Se añade el modelo 411 por la disposición final 4.1 de la Orden HAP/1230/2015, de 17 de junio. Ref. BOE-A-2015-7048.
 
 > Se añade el modelo 588 por la disposición final 3 de la Orden HAP/2328/2014, de 11 de diciembre. Ref. BOE-A-2014-12972.
 
