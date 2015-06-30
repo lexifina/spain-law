@@ -1,3 +1,5 @@
 ## Disposición adicional.
 
-Las sociedades rectoras de los mercados oficiales de futuros y opciones sobre el Aceite de Oliva están sometidas a los deberes de información establecidos en la Circular 2/1992, de 15 de julio, de la CNMV, sobre normas contables, modelos reservados y públicos de los estados financieros, información estadística y cuentas anuales de carácter público de las sociedades rectoras de los mercados oficiales de futuros y opciones.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única de la Circular 1/2015, de 23 de junio. Ref. BOE-A-2015-7185.
