@@ -106,4 +106,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [ITC-BT-49](ib-49.md)
 - [ITC-BT-50](ib-50.md)
 - [ITC-BT-51](ib-51.md)
+- [ITC-BT-52](ib-52.md)
 - [(Información relacionada)](ir.md)

@@ -52,21 +52,23 @@ Las inspecciones podrán ser:
 
 4.1 Inspecciones iniciales.
 
-Serán objeto de inspección, una vez ejecutadas las instalaciones, sus ampliaciones o modificaciones de importancia y previamente a ser documentadas ante el Órgano competente de la Comunidad Autónoma, las siguientes instalaciones:
+Serán objeto de inspección, una vez ejecutadas las instalaciones, sus ampliaciones o modificaciones de importancia y previamente a ser documentadas ante el órgano competente de la Comunidad Autónoma, las siguientes instalaciones:
 
-a) Instalaciones industriales que precisen proyecto, con una potencia instalada superior a 100 kW;
+a) Instalaciones industriales que precisen proyecto, con una potencia instalada superior a 100 kW.
 
-b) Locales de Pública Concurrencia;
+b) Locales de pública concurrencia.
 
-c) Locales con riesgo de incendio o explosión, de clase I, excepto garajes de menos de 25 plazas;
+c) Locales con riesgo de incendio o explosión, de clase I, excepto aparcamientos o estacionamientos de menos de 25 plazas.
 
-d) Locales mojados con potencia instalada superior a 25 kW;
+d) Locales mojados con potencia instalada superior a 25 kW.
 
-e) Piscinas con potencia instalada superior a 10 kW;
+e) Piscinas con potencia instalada superior a 10 kW.
 
-g) Quirófanos y salas de intervención;
+f) Quirófanos y salas de intervención.
 
-h) Instalaciones de alumbrado exterior con potencia instalada superior 5 kW.
+g) Instalaciones de alumbrado exterior con potencia instalada superior 5 kW.
+
+h) Instalaciones de las estaciones de recarga para el vehículo eléctrico, que requieran la elaboración de proyecto para su ejecución.
 
 4.2 Inspecciones periódicas.
 
@@ -155,3 +157,5 @@ Dentro de este grupo y con carácter no exhaustivo, se consideran los siguientes
 6.3 Defecto Leve.
 
 Es todo aquel que no supone peligro para las personas o los bienes, no perturba el funcionamiento de la instalación y en el que la desviación respecto de lo reglamentado no tiene valor significativo para el uso efectivo o el funcionamiento de la instalación.
+
+> Se modifica el apartado 4.1, con efectos de 30 de junio de 2015, por la disposición final 3 del Real Decreto 1053/2014, de 12 de diciembre. Ref. BOE-A-2014-13681

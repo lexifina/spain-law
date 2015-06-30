@@ -1,0 +1,27 @@
+## Disposición final primera. Modificación de la Instrucción técnica complementaria (ITC) BT-02 del Reglamento electrotécnico de baja tensión.
+
+En la tabla de la Instrucción técnica complementaria (ITC) BT-02, «Normas de referencia en el Reglamento electrotécnico de baja tensión» del Reglamento electrotécnico de baja tensión, aprobado por Real Decreto 842/2002, de 2 de agosto, se añaden las siguientes normas:
+
+| Norma | Titulo |
+| --- | --- |
+| UNE-EN 50160: 2011 | Características de la tensión suministrada por las redes generales de distribución. |
+| UNE-EN 50470-1: 2007 | Equipos de medida de la energía eléctrica (c.a.). Parte 1: Requisitos generales, ensayos y condiciones de ensayo. Equipos de medida (índices de clase A, B y C). |
+| UNE-EN 50470-3: 2007 | Equipos de medida de la energía eléctrica (c.a). Parte 3: Requisitos particulares. Contadores estáticos de energía activa (índices de clasificación A, B y C). |
+| UNE-EN 61008-1: 2006 UNE-EN 61008-1/A11: 2008 UNE-EN 61008-1/A12: 2009 UNE-EN 61008-1/A13: 2013 | Interruptores automáticos para actuar por corriente diferencial residual, sin dispositivo de protección contra sobreintensidades, para usos domésticos y análogos (ID). Parte 1: Reglas generales. Esta norma dejará de aplicarse el 19/06/2017. |
+| UNE-EN 61008-1: 2013 | Interruptores automáticos para actuar por corriente diferencial residual, sin dispositivo de protección contra sobreintensidades, para usos domésticos y análogos (ID). Parte 1: Reglas generales. |
+| UNE-EN 61008-2-1: 1996 UNE-EN 61008-2-1/A11: 1999 | Interruptores automáticos para actuar por corriente diferencial residual, sin dispositivo de protección contra sobreintensidades, para usos domésticos y análogos (ID). Parte 2-1: Aplicabilidad de las reglas generales a los ID funcionalmente independientes de la tensión de alimentación. |
+| UNE-EN 61009-1: 2006 UNE-EN 61009-1 CORR. 2007 UNE-EN 61009-1/A11: 2008 UNE-EN 61009-1/A12: 2009 UNE-EN 61009-1/A13: 2009 UNE-EN 61009-1/A14: 2013 | Interruptores automáticos para actuar por corriente diferencial residual, con dispositivo de protección contra sobreintensidades incorporado, para usos domésticos y análogos (AD). Parte 1: reglas generales. Esta norma dejará de aplicarse el 18/06/2017. |
+| UNE-EN 61009-1: 2013 | Interruptores automáticos para actuar por corriente diferencial residual, con dispositivo de protección contra sobreintensidades incorporado, para usos doméstico y análogo (AD). Parte 1: Reglas generales. |
+| UNE-EN 61009-2-1: 1996 UNE-EN 61009-2-1/A11: 1999 | Interruptores automáticos para actuar por corriente diferencial residual, con dispositivo de protección contra sobreintensidades incorporado, para usos domésticos y análogos (AD). Parte 2-1: aplicación de las reglas generales a los AD funcionalmente independientes de la tensión de alimentación. |
+| UNE-EN 60898-1: 2004 UNE-EN 60898-1 ERRATUM 2009 UNE-EN 60898-1/A1: 2005 UNE-EN 60898-1/A11: 2006 UNE-EN 60898-1/A12: 2009 UNE-EN 60898-1/A13: 2013 | Accesorios eléctricos. Interruptores automáticos para instalaciones domésticas y análogas para la protección contra sobreintensidades. Parte 1: interruptores automáticos para funcionamiento en corriente alterna. |
+| UNE-EN 60898-2: 2007 | Accesorios eléctricos. Interruptores automáticos para instalaciones domésticas y análogas para la protección contra sobreintensidades. Parte 2: Interruptores automáticos para operación en corriente alterna y en corriente continua. (IEC 60898-2:2000 + A1:2003, modificada). |
+| UNE-EN 61643-11: 2005 UNE-EN 61643-11/A11: 2007 | Pararrayos de baja tensión. Parte 11: pararrayos conectados a sistemas eléctricos de baja tensión. Requisitos y ensayos. Esta norma dejará de aplicarse el 28/08/2015. |
+| UNE-EN 61643-11: 2013 | Dispositivos de protección contra sobretensiones transitorias de baja tensión. Parte 11: Dispositivos de protección contra sobretensiones transitorias conectados a sistemas eléctricos de baja tensión. Requisitos y métodos de ensayo. |
+| UNE-EN 62208: 2012 | Envolventes vacías destinadas a los conjuntos de aparamenta de baja tensión. Requisitos generales. |
+| UNE HD 60364-5-51: 2010 UNE HD 60364-5-51/A11:2013 | Instalaciones eléctricas en edificios. Parte 5-51: selección e instalación de materiales eléctricos. Reglas comunes. |
+| UNE EN 50550: 2012 UNE EN 50550/AC: 2012 | Dispositivos de protección contra sobretensiones a frecuencia industrial para usos domésticos y análogos (POP). |
+| UNE-EN 50557:2012 | Requisitos para los dispositivos de rearme automático (ARD) para interruptores automáticos, AD e ID de uso doméstico y análogo. |
+| UNE-EN 61851-1:2012 | Sistema conductivo de carga para vehículos eléctricos. Parte 1: Requisitos generales. |
+| UNE-EN 62196-1:2012 UNE-EN 62196-1/A11:2013 | Bases, clavijas, conectores de vehículo y entradas de vehículo. Carga conductiva de vehículos eléctricos. Parte 1: Requisitos generales. |
+| UNE-EN 62196-2:2012 UNE-EN 62196-2/A11:2013 UNE-EN 62196-2/A12:2014 | Bases, clavijas, conectores de vehículo y entradas de vehículo. Carga conductiva de vehículos eléctricos. Parte 2: Compatibilidad dimensional y requisitos de intercambiabilidad para los accesorios de espigas y alvéolos en corriente alterna. |
+| EN 62196-3:2014 | Bases, clavijas, conectores de vehículo y entradas de vehículo. Carga conductiva de vehículos eléctricos. Parte 3: Compatibilidad dimensional y requisitos de intercambiabilidad para acopladores de vehículo de espigas y alvéolos en corriente continua y corriente alterna/continua. |
