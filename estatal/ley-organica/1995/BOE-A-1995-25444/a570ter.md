@@ -6,9 +6,9 @@ a) Si la finalidad del grupo es cometer delitos de los mencionados en el apartad
 
 b) Con la pena de seis meses a dos años de prisión si la finalidad del grupo es cometer cualquier otro delito grave.
 
-c) Con la pena de tres meses a un año de prisión cuando se trate de cometer uno o varios delitos menos graves no incluidos en el apartado a) o de la perpetración reiterada de faltas, debiéndose imponer en este último caso la pena en su mitad inferior, salvo que la finalidad del grupo fuera la perpetración reiterada de la falta prevista en el número 1 del artículo 623, en cuyo caso podrá imponerse la pena en toda su extensión.
+c) Con la pena de tres meses a un año de prisión cuando se trate de cometer uno o varios delitos menos graves no incluidos en el apartado a) o de la perpetración reiterada de delitos leves.
 
-A los efectos de este Código se entiende por grupo criminal la unión de más de dos personas que, sin reunir alguna o algunas de las características de la organización criminal definida en el artículo anterior, tenga por finalidad o por objeto la perpetración concertada de delitos o la comisión concertada y reiterada de faltas.
+A los efectos de este Código se entiende por grupo criminal la unión de más de dos personas que, sin reunir alguna o algunas de las características de la organización criminal definida en el artículo anterior, tenga por finalidad o por objeto la perpetración concertada de delitos.
 
 2. Las penas previstas en el número anterior se impondrán en su mitad superior cuando el grupo:
 
@@ -19,5 +19,7 @@ b) disponga de armas o instrumentos peligrosos.
 c) disponga de medios tecnológicos avanzados de comunicación o transporte que por sus características resulten especialmente aptos para facilitar la ejecución de los delitos o la impunidad de los culpables.
 
 Si concurrieran dos o más de dichas circunstancias se impondrán las penas superiores en grado.
+
+> Se modifica el apartado 1 por el art. único.254 de la Ley Orgánica 1/2015, de 30 de marzo. Ref. BOE-A-2015-3439.
 
 > Se añade por el art. único.144 de la Ley Orgánica 5/2010, de 22 de junio. Ref. BOE-A-2010-9953

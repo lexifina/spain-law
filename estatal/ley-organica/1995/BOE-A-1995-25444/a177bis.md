@@ -1,12 +1,18 @@
 ## Artículo 177 bis.
 
-1. Será castigado con la pena de cinco a ocho años de prisión como reo de trata de seres humanos el que, sea en territorio español, sea desde España, en tránsito o con destino a ella, empleando violencia, intimidación o engaño, o abusando de una situación de superioridad o de necesidad o de vulnerabilidad de la víctima nacional o extranjera, la captare, transportare, trasladare, acogiere, recibiere o la alojare con cualquiera de las finalidades siguientes:
+1. Será castigado con la pena de cinco a ocho años de prisión como reo de trata de seres humanos el que, sea en territorio español, sea desde España, en tránsito o con destino a ella, empleando violencia, intimidación o engaño, o abusando de una situación de superioridad o de necesidad o de vulnerabilidad de la víctima nacional o extranjera, o mediante la entrega o recepción de pagos o beneficios para lograr el consentimiento de la persona que poseyera el control sobre la víctima, la captare, transportare, trasladare, acogiere, o recibiere, incluido el intercambio o transferencia de control sobre esas personas, con cualquiera de las finalidades siguientes:
 
-a) La imposición de trabajo o servicios forzados, la esclavitud o prácticas similares a la esclavitud o a la servidumbre o a la mendicidad.
+a) La imposición de trabajo o de servicios forzados, la esclavitud o prácticas similares a la esclavitud, a la servidumbre o a la mendicidad.
 
-b) La explotación sexual, incluida la pornografía.
+b) La explotación sexual, incluyendo la pornografía.
 
-c) La extracción de sus órganos corporales.
+c) La explotación para realizar actividades delictivas.
+
+d) La extracción de sus órganos corporales.
+
+e) La celebración de matrimonios forzados.
+
+Existe una situación de necesidad o vulnerabilidad cuando la persona en cuestión no tiene otra alternativa, real o aceptable, que someterse al abuso.
 
 2. Aun cuando no se recurra a ninguno de los medios enunciados en el apartado anterior, se considerará trata de seres humanos cualquiera de las acciones indicadas en el apartado anterior cuando se llevare a cabo respecto de menores de edad con fines de explotación.
 
@@ -14,11 +20,9 @@ c) La extracción de sus órganos corporales.
 
 4. Se impondrá la pena superior en grado a la prevista en el apartado primero de este artículo cuando:
 
-a) Con ocasión de la trata se ponga en grave peligro a la víctima;
+a) se hubiera puesto en peligro la vida o la integridad física o psíquica de las personas objeto del delito;
 
-b) la víctima sea menor de edad;
-
-c) la víctima sea especialmente vulnerable por razón de enfermedad, discapacidad o situación.
+b) la víctima sea especialmente vulnerable por razón de enfermedad, estado gestacional, discapacidad o situación personal, o sea menor de edad.
 
 Si concurriere más de una circunstancia se impondrá la pena en su mitad superior.
 
@@ -37,5 +41,7 @@ Cuando se trate de los jefes, administradores o encargados de dichas organizacio
 10. Las condenas de jueces o tribunales extranjeros por delitos de la misma naturaleza que los previstos en este artículo producirán los efectos de reincidencia, salvo que el antecedente penal haya sido cancelado o pueda serlo con arreglo al Derecho español.
 
 11. Sin perjuicio de la aplicación de las reglas generales de este Código, la víctima de trata de seres humanos quedará exenta de pena por las infracciones penales que haya cometido en la situación de explotación sufrida, siempre que su participación en ellas haya sido consecuencia directa de la situación de violencia, intimidación, engaño o abuso a que haya sido sometida y que exista una adecuada proporcionalidad entre dicha situación y el hecho criminal realizado.
+
+> Se modifican los apartados 1 y 4 por el art. único.94 de la Ley Orgánica 1/2015, de 30 de marzo. Ref. BOE-A-2015-3439.
 
 > Se añade por el art. único.40 de la Ley Orgánica 5/2010, de 22 de junio. Ref. BOE-A-2010-9953

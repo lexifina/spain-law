@@ -10,9 +10,7 @@ En todo caso, se considerará delito de lesa humanidad la comisión de tales hec
 
 2. Los reos de delitos de lesa humanidad serán castigados:
 
-1.º Con la pena de prisión de 15 a 20 años si causaran la muerte de alguna persona.
-
-Se aplicará la pena superior en grado si concurriera en el hecho alguna de las circunstancias previstas en el artículo 139.
+1.º Con la pena de prisión permanente revisable si causaran la muerte de alguna persona.
 
 2.º Con la pena de prisión de 12 a 15 años si cometieran una violación, y de cuatro a seis años de prisión si el hecho consistiera en cualquier otra agresión sexual.
 
@@ -22,7 +20,7 @@ Se aplicará la pena superior en grado si concurriera en el hecho alguna de las 
 
 5.º Con la pena de prisión de seis a ocho años si forzaran el embarazo de alguna mujer con intención de modificar la composición étnica de la población, sin perjuicio de la pena que corresponda, en su caso, por otros delitos.
 
-6.º Con la pena de prisión de 12 a 15 años cuando detuvieran a alguna persona y se negaran a reconocer dicha privación de libertad o a dar razón de la suerte o paradero de la persona detenida.
+6.º Con la pena de prisión de doce a quince años la desaparición forzada de personas. Se entenderá por desaparición forzada la aprehensión, detención o el secuestro o cualquier otra forma de privación de libertad que sean obra de agentes del Estado o por personas o grupos de personas que actúan con la autorización, el apoyo o la aquiescencia del Estado, seguida de la negativa a reconocer dicha privación de libertad o del ocultamiento de la suerte o el paradero de la persona desaparecida, sustrayéndola de la protección de la ley.
 
 7.º Con la pena de prisión de ocho a 12 años si detuvieran a otro, privándolo de su libertad, con infracción de las normas internacionales sobre la detención.
 
@@ -38,11 +36,15 @@ La pena prevista en este número se impondrá sin perjuicio de las penas que cor
 
 Se impondrá la pena de seis a ocho años a quienes trasladen a personas de un lugar a otro, con el propósito de su explotación sexual, empleando violencia, intimidación o engaño, o abusando de una situación de superioridad o de necesidad o de vulnerabilidad de la víctima.
 
-Cuando las conductas previstas en el párrafo anterior y en el artículo 188.1 se cometan sobre menores de edad o incapaces, se impondrán las penas superiores en grado.
+Cuando las conductas previstas en el párrafo anterior y en el artículo 188.1 se cometan sobre menores de edad o personas con discapacidad necesitadas de especial protección, se impondrán las penas superiores en grado.
 
 10.º Con la pena de prisión de cuatro a ocho años si sometieran a alguna persona a esclavitud o la mantuvieran en ella. Esta pena se aplicará sin perjuicio de las que, en su caso, correspondan por los concretos atentados cometidos contra los derechos de las personas.
 
 Por esclavitud se entenderá la situación de la persona sobre la que otro ejerce, incluso de hecho, todos o algunos de los atributos del derecho de propiedad, como comprarla, venderla, prestarla o darla en trueque.
+
+3. En todos los casos previstos en el apartado anterior se impondrá además la pena de inhabilitación especial para profesión u oficio educativos, en el ámbito docente, deportivo y de tiempo libre, por un tiempo superior entre tres y cinco años al de la duración de la pena de privación de libertad impuesta en su caso en la sentencia, atendiendo proporcionalmente a la gravedad del delito y a las circunstancias que concurran en el delincuente.
+
+> Se modifica el apartado 2 y se añade el 3 por el art. único.257 de la Ley Orgánica 1/2015, de 30 de marzo. Ref. BOE-A-2015-3439#aunico.
 
 > Se modifica el apartado 1.1º por el art. único.156 de la Ley Orgánica 5/2010, de 22 de junio. Ref. BOE-A-2010-9953
 

@@ -18,10 +18,14 @@ a) Que la persona jurídica sea reincidente.
 
 b) Que la persona jurídica se utilice instrumentalmente para la comisión de ilícitos penales. Se entenderá que se está ante este último supuesto siempre que la actividad legal de la persona jurídica sea menos relevante que su actividad ilegal.
 
+Cuando la responsabilidad de la persona jurídica, en los casos previstos en la letra b) del apartado 1 del artículo 31 bis, derive de un incumplimiento de los deberes de supervisión, vigilancia y control que no tenga carácter grave, estas penas tendrán en todo caso una duración máxima de dos años.
+
 Para la imposición con carácter permanente de las sanciones previstas en las letras b) y e), y para la imposición por un plazo superior a cinco años de las previstas en las letras e) y f) del apartado 7 del artículo 33, será necesario que se dé alguna de las dos circunstancias siguientes:
 
-a) Que se esté ante el supuesto de hecho previsto en la regla 5.ª del primer número del artículo 66.
+a) Que se esté ante el supuesto de hecho previsto en la regla 5.ª del apartado 1 del artículo 66.
 
-b) Que la persona jurídica se utilice instrumentalmente para la comisión de ilícitos penales. Se entenderá que se está ante este último supuesto siempre que la actividad legal de la persona jurídica sea menos relevante que su actividad ilegal
+b) Que la persona jurídica se utilice instrumentalmente para la comisión de ilícitos penales. Se entenderá que se está ante este último supuesto siempre que la actividad legal de la persona jurídica sea menos relevante que su actividad ilegal.
+
+> Se modifica la regla 2.ª por el art. único.32 de la Ley Orgánica 1/2015, de 30 de marzo. Ref. BOE-A-2015-3439.
 
 > Se añade por el art. único.18 de la Ley Orgánica 5/2010, de 22 de junio. Ref. BOE-A-2010-9953

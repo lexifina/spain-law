@@ -14,8 +14,22 @@ e) Cuando se trate de efectos que, sin sufrir deterioro material, se deprecien s
 
 f) Cuando, debidamente requerido el propietario sobre el destino del efecto judicial, no haga manifestación alguna.
 
-2. Cuando concurra alguno de los supuestos previstos en el apartado anterior, el Juez, de oficio o a instancia del Ministerio Fiscal o de las partes, y previa audiencia del interesado, podrá acordar la realización de los efectos judiciales. Cuando se solicite la realización a instancia del Ministerio Fiscal o del Abogado del Estado, el Juez deberá acordarla, salvo que aprecie motivadamente que la petición es infundada o que, de acceder a ella, se causarán perjuicios irreparables.
+2. Cuando concurra alguno de los supuestos previstos en el apartado anterior, el juez, de oficio o a instancia del Ministerio Fiscal, de las partes o de la Oficina de Recuperación y Gestión de Activos, y previa audiencia del interesado, acordará la realización de los efectos judiciales, salvo que concurra alguna de las siguientes circunstancias:
 
-3. No obstante lo dispuesto en los apartados anteriores, cuando el bien de que se trate esté embargado en ejecución de un acuerdo adoptado por una autoridad judicial extranjera en aplicación de la Ley para la eficacia en la Unión Europea de las resoluciones de embargo y de aseguramiento de pruebas en procedimientos penales, su realización no podrá llevarse a cabo sin obtener previamente la autorización de la autoridad judicial extranjera.
+a) Esté pendiente de resolución el recurso interpuesto por el interesado contra el embargo o decomiso de los bienes o efectos.
+
+b) La medida pueda resultar desproporcionada, a la vista de los efectos que pudiera suponer para el interesado y, especialmente, de la mayor o menor relevancia de los indicios en que se hubiera fundado la resolución cautelar de decomiso.
+
+3. No obstante lo dispuesto en los apartados anteriores, cuando el bien de que se trate esté embargado en ejecución de un acuerdo adoptado por una autoridad judicial extranjera en aplicación de la Ley de reconocimiento mutuo de resoluciones penales en la Unión Europea, su realización no podrá llevarse a cabo sin obtener previamente la autorización de la autoridad judicial extranjera.
+
+> Téngase en cuenta que esta última actualización de los apartados 2 y 3 establecida por la disposición final 2.4 de la Ley Orgánica 1/2015, de 30 de marzo. Ref. BOE-A-2015-3439. entra en vigor el 1 de julio de 2015.
+
+> Redacción anterior:
+
+> "2. Cuando concurra alguno de los supuestos previstos en el apartado anterior, el Juez, de oficio o a instancia del Ministerio Fiscal o de las partes, y previa audiencia del interesado, podrá acordar la realización de los efectos judiciales. Cuando se solicite la realización a instancia del Ministerio Fiscal o del Abogado del Estado, el Juez deberá acordarla, salvo que aprecie motivadamente que la petición es infundada o que, de acceder a ella, se causarán perjuicios irreparables.
+
+> 3. No obstante lo dispuesto en los apartados anteriores, cuando el bien de que se trate esté embargado en ejecución de un acuerdo adoptado por una autoridad judicial extranjera en aplicación de la Ley para la eficacia en la Unión Europea de las resoluciones de embargo y de aseguramiento de pruebas en procedimientos penales, su realización no podrá llevarse a cabo sin obtener previamente la autorización de la autoridad judicial extranjera."
+
+> Se modifican los apartados 2 y 3 por la disposición final 2.4 de la Ley Orgánica 1/2015, de 30 de marzo. Ref. BOE-A-2015-3439.
 
 > Se añade por la disposición final 1.2 de la Ley 18/2006, de 5 de junio de 2006. Ref. BOE-A-2006-9959.

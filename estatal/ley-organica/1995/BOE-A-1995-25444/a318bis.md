@@ -1,20 +1,28 @@
 ## Artículo 318 bis.
 
-1. El que, directa o indirectamente, promueva, favorezca o facilite el tráfico ilegal o la inmigración clandestina de personas desde, en tránsito o con destino a España, o con destino a otro país de la Unión Europea, será castigado con la pena de cuatro a ocho años de prisión.
+1. El que intencionadamente ayude a una persona que no sea nacional de un Estado miembro de la Unión Europea a entrar en territorio español o a transitar a través del mismo de un modo que vulnere la legislación sobre entrada o tránsito de extranjeros, será castigado con una pena de multa de tres a doce meses o prisión de tres meses a un año.
 
-2. Los que realicen las conductas descritas en el apartado anterior con ánimo de lucro o empleando violencia, intimidación, engaño, o abusando de una situación de superioridad o de especial vulnerabilidad de la víctima, o poniendo en peligro la vida, la salud o la integridad de las personas, serán castigados con las penas en su mitad superior. Si la víctima fuera menor de edad o incapaz, serán castigados con las penas superiores en grado a las previstas en el apartado anterior.
+Los hechos no serán punibles cuando el objetivo perseguido por el autor fuere únicamente prestar ayuda humanitaria a la persona de que se trate.
 
-3. En las mismas penas del apartado anterior y además en la de inhabilitación absoluta de seis a 12 años, incurrirán los que realicen los hechos prevaliéndose de su condición de autoridad, agente de ésta o funcionario público.
+Si los hechos se hubieran cometido con ánimo de lucro se impondrá la pena en su mitad superior.
 
-4. Se impondrán las penas superiores en grado a las previstas en los apartados 1 a 3 de este artículo, en sus respectivos casos, e inhabilitación especial para profesión, oficio, industria o comercio por el tiempo de la condena, cuando el culpable perteneciera a una organización o asociación, incluso de carácter transitorio, que se dedicase a la realización de tales actividades.
+2. El que intencionadamente ayude, con ánimo de lucro, a una persona que no sea nacional de un Estado miembro de la Unión Europea a permanecer en España, vulnerando la legislación sobre estancia de extranjeros será castigado con una pena de multa de tres a doce meses o prisión de tres meses a un año.
 
-Cuando se trate de los jefes, administradores o encargados de dichas organizaciones o asociaciones, se les aplicará la pena en su mitad superior, que podrá elevarse a la inmediatamente superior en grado.
+3. Los hechos a que se refiere el apartado 1 de este artículo serán castigados con la pena de prisión de cuatro a ocho años cuando concurra alguna de las circunstancias siguientes:
 
-Cuando de acuerdo con lo establecido en el artículo 31 bis una persona jurídica sea responsable de los delitos recogidos en este Título, se le impondrá la pena de multa de dos a cinco años, o la del triple al quíntuple del beneficio obtenido si la cantidad resultante fuese más elevada.
+a) Cuando los hechos se hubieran cometido en el seno de una organización que se dedicare a la realización de tales actividades. Cuando se trate de los jefes, administradores o encargados de dichas organizaciones o asociaciones, se les aplicará la pena en su mitad superior, que podrá elevarse a la inmediatamente superior en grado.
+
+b) Cuando se hubiera puesto en peligro la vida de las personas objeto de la infracción, o se hubiera creado el peligro de causación de lesiones graves.
+
+4. En las mismas penas del párrafo anterior y además en la de inhabilitación absoluta de seis a doce años, incurrirán los que realicen los hechos prevaliéndose de su condición de autoridad, agente de ésta o funcionario público.
+
+5. Cuando de acuerdo con lo establecido en el artículo 31 bis una persona jurídica sea responsable de los delitos recogidos en este Título, se le impondrá la pena de multa de dos a cinco años, o la del triple al quíntuple del beneficio obtenido si la cantidad resultante fuese más elevada.
 
 Atendidas las reglas establecidas en el artículo 66 bis, los jueces y tribunales podrán asimismo imponer las penas recogidas en las letras b) a g) del apartado 7 del artículo 33.
 
-5. Los tribunales, teniendo en cuenta la gravedad del hecho y sus circunstancias, las condiciones del culpable y la finalidad perseguida por éste, podrán imponer la pena inferior en un grado a la respectivamente señalada.
+6. Los tribunales, teniendo en cuenta la gravedad del hecho y sus circunstancias, las condiciones del culpable y la finalidad perseguida por éste, podrán imponer la pena inferior en un grado a la respectivamente señalada.
+
+> Se modifica por el art. único.170 de la Ley Orgánica 1/2015, de 30 de marzo. Ref. BOE-A-2015-3439.
 
 > Se suprime el apartado 2, se renumeran del 3 al 6 como 2 a 5 y se modifican los nuevos 2 y 4 por el art. único.87 de la Ley Orgánica 5/2010, de 22 de junio. Ref. BOE-A-2010-9953
 

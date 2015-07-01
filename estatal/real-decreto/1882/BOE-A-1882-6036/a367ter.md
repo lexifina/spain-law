@@ -6,9 +6,17 @@ Cuando se trate de drogas tóxicas, estupefacientes o sustancias psicotrópicas,
 
 2. En todo caso, el Secretario judicial extenderá la oportuna diligencia y, si se hubiera acordado la destrucción, deberá quedar constancia en los autos de la naturaleza, calidad, cantidad, peso y medida de los efectos destruidos. Si no hubiese tasación anterior, también se dejará constancia de su valor cuando su fijación fuere imposible después de la destrucción.
 
-3. Lo dispuesto en los dos apartados anteriores será también aplicable a los efectos intervenidos en relación con la comisión de delitos contra la propiedad intelectual e industrial, una vez que tales efectos hayan sido examinados pericialmente.
+3. Lo dispuesto en los dos apartados anteriores será también aplicable a los efectos intervenidos en relación con la comisión de delitos contra la propiedad intelectual e industrial. Podrá igualmente procederse a su destrucción anticipada una vez que tales efectos hayan sido examinados pericialmente, asegurando la conservación de las muestras que resulten necesarias para garantizar ulteriores comprobaciones o investigaciones, salvo que la autoridad judicial acuerde mediante resolución motivada su conservación íntegra en el plazo de un mes desde la solicitud de destrucción.
+
+> Téngase en cuenta que esta última actualización del apartado 3 establecida por la disposición final 2.3 de la Ley Orgánica 1/2015, de 30 de marzo. Ref. BOE-A-2015-3439. entra en vigor el 1 de julio de 2015.
+
+> Redacción anterior:
+
+> "3. Lo dispuesto en los dos apartados anteriores será también aplicable a los efectos intervenidos en relación con la comisión de delitos contra la propiedad intelectual e industrial, una vez que tales efectos hayan sido examinados pericialmente."
 
 4. Si los objetos no pudieren, por su naturaleza, conservarse en su forma primitiva, el Juez resolverá lo que estime conveniente para conservarlos del mejor modo posible.
+
+> Se modifica el apartado 3 por la disposición final 2.3 de la Ley Orgánica 1/2015, de 30 de marzo. Ref. BOE-A-2015-3439.
 
 > Se modifica el apartado 1 por el art. 4 del Real Decreto-ley 3/2013, de 22 de febrero. Ref. BOE-A-2013-2029.
 
