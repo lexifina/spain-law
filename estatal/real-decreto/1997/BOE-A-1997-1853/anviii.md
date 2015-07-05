@@ -22,9 +22,9 @@ Salvo si existen pruebas de que la trabajadora embarazada está suficientemente 
 
 c) Agentes químicos:
 
-Las sustancias etiquetadas R60 y R61, por el Reglamento sobre clasificación, envasado y etiquetado de sustancias peligrosas, aprobado por el Real Decreto 363/1995, de 10 de marzo, o etiquetadas como H360F, H360D, H360FD, H360Fd y H360Df por el Reglamento (CE) n.º 1272/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas.
+Las sustancias etiquetadas como H360, H360D, H360F, H360FD, H360Fd, H360Df y H370 por el Reglamento (CE) n.º 1272/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas.
 
-Las sustancias cancerígenas y mutágenas incluidas en la tabla 2 relacionadas en el “Documento sobre límites de exposición profesional para agentes químicos en España” publicado por el Instituto Nacional de Seguridad e Higiene en el Trabajo para las que no haya valor límite de exposición asignado, conforme a la tabla III del citado documento.
+Las sustancias cancerígenas y mutágenas, de categoría 1A y 1B incluidas en la parte 3 del Anexo VI del Reglamento (CE) n.º 1272/2008, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas.
 
 Plomo y derivados, en la medida en que estos agentes sean susceptibles de ser absorbidos por el organismo humano.
 
@@ -34,12 +34,14 @@ B. Trabajadoras en período de lactancia.
 
 1. Agentes químicos:
 
-Las sustancias etiquetadas R 64, por el Reglamento sobre clasificación, envasado y etiquetado de sustancias peligrosas, aprobado por el Real Decreto 363/1995, de 10 de marzo, o H362 por el Reglamento (CE) n.º 1272/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas.
+Las sustancias etiquetadas como H362 por el Reglamento (CE) n.º 1272/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas.
 
-Las sustancias cancerígenas y mutágenas incluidas en la tabla 2 relacionadas en el “Documento sobre límites de exposición profesional para agentes químicos en España” publicado por el Instituto Nacional de Seguridad e Higiene en el Trabajo para las que no haya valor límite de exposición asignado, conforme a la tabla III del citado documento.
+Las sustancias cancerígenas y mutágenas, de categoría 1A y 1B incluidas en la parte 3 del Anexo VI del Reglamento (CE) n.º 1272/2008, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas.
 
 Plomo y derivados, en la medida en que estos agentes sean susceptibles de ser absorbidos por el organismo humano.
 
 2. Condiciones de trabajo.–Trabajos de minería subterráneos.
+
+> Se modifican el apartado 1.c) de la parte A y el apartado 1 de la parte B, por el art. 1.3 y 4 del Real Decreto 598/2015, de 3 de julio. Ref. BOE-A-2015-7458.
 
 > Se añade por el art. único.3 del Real Decreto 298/2009, de 6 de marzo. Ref. BOE-A-2009-3905

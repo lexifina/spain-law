@@ -28,9 +28,9 @@
 
 Forma triangular. Pictograma negro sobre fondo amarillo (el amarillo deberá cubrir como mínimo el 50 por 100 de la superficie de la señal), bordes negros.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1997/97/08668_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/159/08668_001.png)
 
-Como excepción, el fondo de la señal sobre «materias nocivas o irritantes» será de color naranja, en lugar de amarillo, para evitar confusiones con otras señales similares utilizadas para la regulación del tráfico por carretera.
+La señal de "Peligro en general" no se utilizará para advertir a las personas de la existencia de sustancias o mezclas peligrosas, excepto en los casos en que se use conforme al tercer párrafo del punto 4.º del apartado 4 del anexo VII, para indicar el almacenamiento de sustancias o mezclas peligrosas.
 
 2.º Señales de prohibición.
 
@@ -55,3 +55,5 @@ Forma rectangular o cuadrada. Pictograma blanco sobre fondo rojo (el rojo deber�
 Forma rectangular o cuadrada. Pictograma blanco sobre fondo verde (el verde deberá cubrir como mínimo el 50 por 100 de la superficie de la señal).
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1997/97/08668_005.png)
+
+> Se modifica el apartado 3.1º por el art. 2.2 del Real Decreto 598/2015, de 3 de julio. Ref. BOE-A-2015-7458.

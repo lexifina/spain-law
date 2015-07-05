@@ -1,6 +1,6 @@
 ## ANEXO I
 
-## Lista de sustancias, preparados y procedimientos
+## Lista de sustancias, mezclas y procedimientos
 
 [Párrafo b) del artículo 2]
 
@@ -13,5 +13,7 @@
 4. Procedimiento con ácido fuerte en la fabricación de alcohol isopropílico.
 
 5. Trabajos que supongan exposición a polvo de maderas duras.
+
+> Se modifica el título por el art. 3.5 del Real Decreto 598/2015, de 3 de julio. Ref. BOE-A-2015-7458.
 
 > Se añade el apartado 5 por el art. único.6 del Real Decreto 349/2003, de 21 de marzo. Ref. BOE-A-2003-6934.

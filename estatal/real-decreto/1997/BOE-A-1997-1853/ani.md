@@ -2,7 +2,7 @@
 
 a) Trabajos con exposición a radiaciones ionizantes en zonas controladas según Real Decreto 53/1992, de 24 de enero, sobre protección sanitaria contra radiaciones ionizantes.
 
-b) Trabajos con exposición a agentes tóxicos y muy tóxicos, y en particular a agentes cancerígenos, mutagénicos o tóxicos para la reproducción, de primera y segunda categoría, según Real Decreto 363/1995, de 10 de enero, que aprueba el Reglamento sobre notificación de sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas, así como Real Decreto 1078/1993, de 2 de julio, sobre clasificación, envasado y etiquetado de preparados peligrosos y las normas de desarrollo y adaptación al progreso de ambos.
+b) Trabajos con exposición a sustancias o mezclas causantes de toxicidad aguda de categoría 1, 2 y 3, y en particular a agentes cancerígenos, mutagénicos o tóxicos para la reproducción, de categoría 1A y 1B, según el Reglamento (CE) n.º 1272/2008, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas.
 
 c) Actividades en que intervienen productos químicos de alto riesgo y son objeto de la aplicación del Real Decreto 886/1988, de 15 de julio, y sus modificaciones, sobre prevención de accidentes mayores en determinadas actividades industriales.
 
@@ -23,3 +23,5 @@ j) Producción de gases comprimidos, licuados o disueltos o utilización signifi
 k) Trabajos que produzcan concentraciones elevadas de polvo silíceo.
 
 l) Trabajos con riesgos eléctricos en alta tensión.
+
+> Se modifica la letra b) por el art. 1.1 del Real Decreto 598/2015, de 3 de julio. Ref. BOE-A-2015-7458.

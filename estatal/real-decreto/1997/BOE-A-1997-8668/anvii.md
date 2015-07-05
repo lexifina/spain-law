@@ -22,19 +22,23 @@ La señalización dirigida a advertir a los trabajadores de la presencia de un r
 
 2.º Las vías exteriores permanentes que se encuentren en los alrededores inmediatos de zonas edificadas deberán estar delimitadas cuando resulte necesario, salvo que dispongan de barreras o que el propio tipo de pavimento sirva como delimitación.
 
-4. Tuberías, recipientes y áreas de almacenamiento de sustancias y preparados peligrosos
+4. Tuberías, recipientes y áreas de almacenamiento de sustancias y mezclas peligrosas.
 
-1.º Los recipientes y tuberías visibles que contengan o puedan contener productos a los que sea de aplicación la normativa sobre comercialización de sustancias o preparados peligrosos deberán ser etiquetados según lo dispuesto en la misma. Se podrán exceptuar los recipientes utilizados durante corto tiempo y aquellos cuyo contenido cambie a menudo, siempre que se tomen medidas alternativas adecuadas, fundamentalmente de formación e información, que garanticen un nivel de protección equivalente.
+1.º Los recipientes y tuberías visibles que contengan o puedan contener productos a los que sea de aplicación la normativa sobre comercialización de sustancias o mezclas peligrosas deberán ser etiquetados según lo dispuesto en la misma. Se podrán exceptuar los recipientes utilizados durante corto tiempo y aquellos cuyo contenido cambie a menudo, siempre que se tomen medidas alternativas adecuadas, en particular de información y/o formación, que garanticen un nivel de protección equivalente.
 
 2.º Las etiquetas se pegarán, fijarán o pintarán en sitios visibles de los recipientes o tuberías. En el caso de éstas, las etiquetas se colocarán a lo largo de la tubería en número suficiente, y siempre que existan puntos de especial riesgo, como válvulas o conexiones, en su proximidad. Las características intrínsecas y condiciones de utilización de las etiquetas deberán ajustarse, cuando proceda, a lo dispuesto para los paneles en los apartados 1.3.º y 2 del anexo III.
 
-La información de la etiqueta podrá complementarse con otros datos, tales como el nombre o fórmula de la sustancia o preparado peligroso o detalles adicionales sobre el riesgo.
+La información de la etiqueta podrá complementarse con otros datos, tales como el nombre o fórmula de la sustancia o mezcla peligrosa o detalles adicionales sobre el riesgo.
 
-3.º El etiquetado podrá ser sustituido por las señales de advertencia contempladas en el anexo III, con el mismo pictograma o símbolo; en el caso del transporte de recipientes dentro del lugar de trabajo, podrá sustituirse o complementarse por señales en forma de panel de uso reconocido, en el ámbito comunitario, para el transporte de sustancias o preparados peligrosos.
+3.º El etiquetado podrá ser sustituido por las señales de advertencia contempladas en el anexo III, con el mismo pictograma o símbolo. Si no existe señal de advertencia equivalente en el anexo III, se deberá utilizar el pictograma de peligro correspondiente, conforme al anexo V del Reglamento (CE) n.º 1272/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008.
 
-4.º Las zonas, locales o recintos utilizados para almacenar cantidades importantes de sustancias o preparados peligrosos deberán identificarse mediante la señal de advertencia apropiada, de entre las indicadas en el anexo III, o mediante la etiqueta que corresponda, de acuerdo con la normativa mencionada en el aparta do 4.1.º, colocadas, según el caso, cerca del lugar de almacenamiento o en la puerta de acceso al mismo. Ello no será necesario cuando las etiquetas de los distintos embalajes y recipientes, habida cuenta de su tamaño, hagan posible por sí mismas dicha identificación.
+En el caso del transporte de recipientes dentro del lugar de trabajo, podrá sustituirse o complementarse por señales que sean de aplicación en toda la Unión Europea, para el transporte de sustancias o mezclas peligrosas.
 
-El almacenamiento de diversas sustancias o preparados peligrosos puede indicarse mediante la señal de advertencia «peligro en general».
+4.º Las zonas, locales o recintos utilizados para almacenar cantidades importantes de sustancias o mezclas peligrosas deberán identificarse mediante la señal de advertencia apropiada, de entre las indicadas en el anexo III, o mediante la etiqueta que corresponda, de acuerdo con la normativa mencionada en el apartado 4.1.º, colocadas, según el caso, cerca del lugar de almacenamiento o en la puerta de acceso al mismo. Ello no será necesario cuando las etiquetas de los distintos embalajes y recipientes, habida cuenta de su tamaño, hagan posible dicha identificación.
+
+Si no existe señal de advertencia equivalente en el anexo III para advertir a las personas de la existencia de sustancias o mezclas peligrosas, se deberá utilizar el pictograma de peligro correspondiente, conforme al anexo V del Reglamento (CE) n.º 1272/2008 del Parlamento Europeo y del Consejo.
+
+El almacenamiento de diversas sustancias o mezclas peligrosas puede indicarse mediante la señal de advertencia "peligro en general".
 
 5. Equipos de protección contra incendios
 
@@ -53,3 +57,5 @@ La señalización dirigida a alertar a los trabajadores o a terceros de la apari
 8. Maniobras peligrosas
 
 La señalización que tenga por objeto orientar o guiar a los trabajadores durante la realización de maniobras peligrosas que supongan un riesgo para ellos mismos o para terceros se realizará mediante señales gestuales o comunicaciones verbales. A igualdad de eficacia podrá optarse por cualquiera de ellas, o podrán emplearse de forma combinada.
+
+> Se modifica el apartado 4 por el art. 2.3 del Real Decreto 598/2015, de 3 de julio. Ref. BOE-A-2015-7458.
