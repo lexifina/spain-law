@@ -1,0 +1,3 @@
+## Disposición final tercera. Incorporación de derecho de la Unión Europea.
+
+Mediante esta Ley se incorpora al derecho español la Decisión Marco 2009/948/JAI del Consejo, de 30 de noviembre de 2009, sobre la prevención y resolución de conflictos de ejercicio de jurisdicción en los procesos penales, y se adapta el ordenamiento jurídico a la Decisión 2009/426/JAI, de 16 de diciembre de 2008, por la que se refuerza Eurojust y se modifica la Decisión 2002/187/JAI, por la que se crea Eurojust para reforzar la lucha contra las formas graves de delincuencia, y a la Decisión 2008/976/JAI, del Consejo, de 16 de diciembre de 2008, sobre la Red Judicial Europea.

@@ -1,0 +1,7 @@
+## Disposición transitoria. Vigencia de los nombramientos.
+
+A la entrada en vigor de esta Ley, el actual miembro nacional de España en Eurojust verá su mandato extendido hasta la fecha en que se cumplan cuatro años contados desde el momento de su nombramiento inicial, conforme a los plazos previstos en el artículo 3.1. En cualquier caso, la duración completa de su mandato, incluyendo el tiempo transcurrido con antelación a la entrada en vigor de esta Ley, no podrá exceder del plazo total de ocho años previsto en dicho artículo.
+
+Por su parte, el actual asistente del miembro nacional, a la entrada en vigor de esta Ley, asumirá la condición de miembro nacional suplente en los términos y condiciones que figuran en el artículo 6. La duración de su mandato se extenderá hasta la fecha en que se cumplan cuatro años contados desde el momento de su nombramiento inicial como asistente del miembro nacional. En cualquier caso, la duración completa de su mandato como miembro nacional suplente, incluyendo el tiempo ejercido como asistente con antelación a la entrada en vigor de esta Ley, no podrá exceder del plazo total de ocho años previsto en dicho artículo.
+
+Los puntos de contacto de las diferentes redes internacionales de cooperación, el coordinador nacional y el corresponsal de herramientas de la Red Judicial Europea, el coordinador nacional de la Red de Equipos Conjuntos de investigación, el corresponsal nacional de Eurojust y el corresponsal nacional de terrorismo seguirán desempeñando sus funciones mientras no sean expresamente relevados.
