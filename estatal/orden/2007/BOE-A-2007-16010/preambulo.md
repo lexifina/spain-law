@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada por Orden ECI/2890/2007, de 2 de octubre. Ref. BOE-A-2007-17493.
+Téngase en cuenta que esta norma quedará derogada cuando se lleven a cabo las modificaciones indicadas en la disposición final primera de la Orden ECD/1361/2015, de 3 de julio. Ref. BOE-A-2015-7662#ddunica, según establece la disposición derogatoria única.d) de la citada disposición.
