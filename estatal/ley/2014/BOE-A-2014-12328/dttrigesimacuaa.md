@@ -122,4 +122,6 @@ n) El porcentaje a que se refiere el apartado 3 del artículo 40 de esta Ley ser
 
 – El resultado de multiplicar por diecinueve veinteavos el tipo de gravamen redondeado por exceso, cuando en esos 12 meses el importe neto de la cifra de negocios sea al menos 60 millones de euros.
 
-ñ) El porcentaje de retención o ingreso a cuenta a que se refiere la letra a) del apartado 6 del artículo 128 de esta Ley se eleva al 20 por ciento.
+ñ) (Derogada).
+
+> Se deroga, con efectos desde el 1 de enero de 2015, la letra ñ) por el art. 2.1 del Real Decreto-ley 9/2015, de 10 de julio. Ref. BOE-A-2015-7765.

@@ -1,0 +1,3 @@
+## Disposición adicional única. Formalización al vigente presupuesto de la Sección 34 «Relaciones Financieras con la Unión Europea» de anticipos pendientes de aplicar al Presupuesto a 31 de diciembre de 2014.
+
+Se autoriza la formalización al vigente presupuesto de la Sección 34 “Relaciones Financieras con la Unión Europea” del anticipo pendiente de aplicar al presupuesto a 31 de diciembre de 2014, efectuado para atender al pago a la Unión Europea de intereses de demora derivados del retraso en la puesta a disposición de determinados Recursos Propios Tradicionales, por importe de 3.172.388,46 euros. El anticipo se aplicará al crédito dotado en el Servicio 01, Programa 943M, concepto 352 Intereses de demora.

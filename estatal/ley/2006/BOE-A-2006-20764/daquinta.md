@@ -32,4 +32,8 @@ e) La percepción de indemnizaciones públicas, a causa del sacrificio obligator
 
 No se integrarán en la base imponible de este Impuesto, las ayudas públicas percibidas para compensar el desalojo temporal o definitivo por idénticas causas de la vivienda habitual del contribuyente o del local en el que el titular de la actividad económica ejerciera la misma.
 
+4. No se integrarán en la base imponible de este Impuesto, las ayudas concedidas en virtud de lo dispuesto en el Real Decreto 920/2014, de 31 de octubre, por el que se regula la concesión directa de subvenciones destinadas a compensar los costes derivados de la recepción o acceso a los servicios de comunicación audiovisual televisiva en las edificaciones afectadas por la liberación del dividendo digital.
+
+> Se añade el apartado 4, con efectos desde el 1 de enero de 2015, por el art. 1.2 del Real Decreto-ley 9/2015, de 10 de julio. Ref. BOE-A-2015-7765.
+
 > Se modifica el apartado 1, con efectos desde el 1 de enero de 2007 por la disposición final 14.4 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765
