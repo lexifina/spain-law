@@ -1,1 +1,1 @@
-Téngase en cuenta que esta norma continúa vigente, en tanto no se oponga a lo previsto en la Ley 27/2014, de 27 de noviembre Ref. BOE-A-2014-12328, según establece la disposición derogatoria única.3 de la indicada disposición.
+Norma derogada, con efectos de 12 de julio de 2015, por la disposición derogatoria única del Real Decreto 634/2015, de 10 de julio, excepto lo establecido en la disposición final 3 del mismo, con efectos para los periodos impositivos iniciados a partir de 1 de enero de 2016. Ref. BOE-A-2015-7771#ddunica.
