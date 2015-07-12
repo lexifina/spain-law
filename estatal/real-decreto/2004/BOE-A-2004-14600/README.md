@@ -8,6 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+BOE records this act as repealed with effect from 2015-07-12. The recorded cause is disposición derogatoria única del Real Decreto 634/2015, de 10 de julio, excepto lo establecido en la disposición final 3 del mismo, con efectos para los periodos impositivos iniciados a partir de 1 de enero de 2016 (BOE-A-2015-7771). See the publisher notice for qualifications and transitional provisions. Earlier wording remains available in the history.
+
 ## Bloques
 
 - [no](no.md)
