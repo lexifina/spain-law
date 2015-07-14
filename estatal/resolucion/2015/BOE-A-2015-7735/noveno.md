@@ -1,0 +1,11 @@
+## Noveno. Procedimiento de comunicación telemática de la designación de representante de la IGAE.
+
+1. La resolución de la designación o no de representante de la IGAE será firmada electrónicamente mediante certificado electrónico de los previstos en el artículo 21.a) y b) del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, y se ajustará a lo dispuesto en la Política de Firma Electrónica y de Certificados de la Administración General del Estado, publicada mediante Resolución de 29 de noviembre de 2012, de la Secretaría de Estado de Administraciones Públicas, utilizando el estándar XAdES previsto en la misma.
+
+El certificado electrónico utilizado para la firma electrónica será uno de los admitidos por la plataforma de verificación establecida en el artículo 25.1 del Real Decreto 1671/ 2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio.
+
+2. La comunicación de la designación o no de representante de la IGAE que deba efectuarse al Centro gestor y, en su caso, al representante de la Intervención y al Delegado o Delegados de asesores se realizará por medios telemáticos a través de la aplicación COREnet, con sello electrónico de los previstos en el artículo 18 de la Ley 11/2007, de 22 de junio, ajustado a lo dispuesto en la Política de Firma Electrónica y de Certificados de la Administración General del Estado, publicada mediante Resolución de 29 de noviembre de 2012, de la Secretaría de Estado de Administraciones Públicas, utilizando el estándar XAdES previsto en la misma.
+
+El certificado electrónico utilizado para el sello electrónico será de los admitidos por la plataforma de verificación establecida en el artículo 25.1 del Real Decreto 1671/ 2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio.
+
+3. El Centro gestor o unidad de tramitación, así como, en su caso, el representante de la Intervención, y el Delegado o Delegados de asesores designados, deberán acceder a la aplicación COREnet para la visualización de las comunicaciones y la consulta de las solicitudes y designaciones de recepción que correspondan, a efectos de su seguimiento.
