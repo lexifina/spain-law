@@ -1,3 +1,5 @@
 ## Disposición adicional vigesimotercera. Otras modificaciones de la Ley 20/2011, de 21 de julio, del Registro Civil.
 
-El Gobierno promoverá, en el plazo más breve posible, las modificaciones de la Ley 20/2011, de 21 de julio, del Registro Civil, necesarias para su adecuación a la llevanza del Registro Civil por los Registradores de la Propiedad y Mercantiles que en cada momento tengan a su cargo las oficinas del Registro Mercantil, incluyendo las reglas de competencia para la inscripción de los hechos y actos que deban acceder al Registro Civil y el régimen del personal al servicio de la Administración de Justicia destinado actualmente en el Registro Civil.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 19/2015, de 13 de julio. Ref. BOE-A-2015-7851#ddunica.
