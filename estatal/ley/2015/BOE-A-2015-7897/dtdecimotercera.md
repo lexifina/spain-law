@@ -1,0 +1,3 @@
+## Disposición transitoria decimotercera. Régimen transitorio de las modificaciones introducidas en la Ley de Contrato de Seguro a través de la disposición final primera de esta Ley.
+
+Las entidades aseguradoras dispondrán de un plazo de seis meses para adaptar las pólizas que se comercialicen a partir de la entrada en vigor de esta Ley a las modificaciones introducidas a través de la disposición final primera de la misma en la Ley 50/1980, de 8 de octubre, de Contrato de Seguro. Transcurrido el mismo y durante un plazo máximo de un año, las entidades de seguros adaptarán, a su renovación, las pólizas correspondientes a los contratos vigentes. No obstante, serán de aplicación directa aquellos preceptos que tengan carácter imperativo desde la entrada en vigor de esta Ley.
