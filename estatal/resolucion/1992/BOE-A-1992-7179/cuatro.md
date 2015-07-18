@@ -180,13 +180,15 @@ a) Que su volumen de operaciones supere la cifra de 6.010.121,04 euros durante e
 
 b) Que así lo ordene el Delegado Especial de la Agencia Tributaria, previo informe favorable de los Directores de los Departamentos de Gestión Tributaria e Inspección Financiera y Tributaria, en atención a la importancia o complejidad de sus operaciones en el ámbito de la Delegación Especial respectiva o por su vinculación o relación con los anteriores o con otros obligados tributarios a los que extienda su competencia la Unidad de Gestión de Grandes Empresas.
 
-c) Que se trate de sociedades dominantes de un grupo fiscal o de entidades dominantes de un grupo de entidades que haya ejercitado la opción que se establece en el artículo 163 sexies.cinco de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
+c) Que se trate de entidades representantes de un grupo que tribute en el régimen de consolidación fiscal del Impuesto sobre Sociedades o de entidades dominantes que tributen en el régimen especial del grupo de entidades del Impuesto sobre el Valor Añadido y se haya ejercitado la opción que se establece en el artículo 163 sexies. cinco de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido. Estas entidades continuarán adscritas a la Unidad de Gestión de Grandes Empresas, en caso de que dejen de tributar por los citados regímenes especiales y aun cuando no tengan la condición de gran empresa, hasta el año natural siguiente al que se produzca la presentación del modelo de declaración consolidada o agregada del grupo correspondiente al último periodo de vigencia de los aludidos regímenes.
 
-Las Unidades de Gestión de Grandes Empresas de las Dependencias Regionales de Inspección tendrán en este ámbito las competencias atribuidas a las Dependencias de Gestión Tributaria por la Resolución de 19 de febrero de 2004 de la Presidencia de la Agencia Estatal de Administración Tributaria sobre organización y atribución de funciones en el ámbito de competencias del Departamento de Gestión Tributaria y, en general, las propias del ámbito de la gestión tributaria.
+Las Unidades de Gestión de Grandes Empresas de las Dependencias Regionales de Inspección tendrán en este ámbito las competencias atribuidas a las Dependencias de Gestión Tributaria por la Resolución de 19 de febrero de 2004, de la Presidencia de la Agencia Estatal de la Administración Tributaria sobre organización y atribución de funciones en el ámbito de competencias del Departamento de Gestión Tributaria y, en general, las propias del ámbito de la gestión tributaria.
 
 El Jefe de la Dependencia Regional de Inspección y los Inspectores Regionales Adjuntos ejercerán, respecto a las personas o entidades adscritas a la misma, las competencias de gestión tributaria atribuidas a los Jefes de Dependencia Regional de Gestión Tributaria.
 
 Sin perjuicio de lo anterior, los obligados tributarios podrán, en cualquier caso, presentar sus declaraciones, recursos, consultas y cualquier otro documento con trascendencia tributaria en la Delegación o Administración que corresponda a su domicilio fiscal.
+
+> Se modifica el punto 7 por el art. único.1 de la Resolución de 16 de julio de 2015. Ref. BOE-A-2015-7997.
 
 > Se modifican los puntos 4.1, 4.2, y se sustituyen determinados términos por el art.único.2 y 5 de la Resolución de 7 de mayo de 2014. Ref. BOE-A-2014-5049.
 
