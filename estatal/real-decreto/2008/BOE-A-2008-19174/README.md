@@ -28,6 +28,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional sexta](dasexta.md)
 - [Disposición adicional séptima](daseptima.md)
 - [Disposición adicional octava](daoctava.md)
+- [Disposición adicional novena](danovena.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición transitoria tercera](dttercera.md)
@@ -42,4 +43,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [ANEXO III](aniii.md)
 - [ANEXO IV](aniv.md)
 - [ANEXO V](anv.md)
+- [ANEXO VI](anvi.md)
 - [(Información relacionada)](informacionrelacionada.md)

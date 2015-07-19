@@ -1,44 +1,34 @@
 ## ANEXO III
 
-## Asignación de materias de la Educación Secundaria Obligatoria a las especialidades docentes de los Cuerpos de Catedráticos de Enseñanza Secundaria y de Profesores de Enseñanza Secundaria
+## Asignación de materias de la Educación Secundaria Obligatoria a las especialidades docentes de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria
 
-| Especialidades de los Cuerpos | Materias de la Educación Secundaria Obligatoria |
+| Especialidades de los cuerpos | Materias de la Educación Secundaria Obligatoria |
 | --- | --- |
-| Alemán. | Lengua extranjera (Alemán). |
-| Biología y Geología. | Biología y Geología. |
-| Ciencias de la Naturaleza. |
-| Alimentación, Nutrición y Salud. |
-| Dibujo. | Educación Plástica y Visual. |
-| Economía. | Orientación Profesional e Iniciativa Emprendedora. |
-| Educación Física. | Educación Física. |
-| Filosofía. | Educación Ético-Cívica. |
-| Educación para la Ciudadanía y los Derechos Humanos. |
-| Historia y Cultura de las Religiones. |
-| Física y Química. | Física y Química. |
-| Ciencias de la Naturaleza. |
-| Ciencias Aplicadas a la Actividad Profesional. |
-| Francés. | Lengua extranjera (Francés). |
-| Geografía e Historia. | Ciencias Sociales, Geografía e Historia. |
-| Orientación Profesional e Iniciativa Emprendedora. |
-| Educación para la Ciudadanía y los Derechos Humanos. |
-| Historia y Cultura de las Religiones. |
+| Alemán. | Primera Lengua Extranjera Alemán. Segunda Lengua Extranjera Alemán. |
+| Biología y geología. | Biología y Geología. Cultura Científica. |
+| Dibujo. | Educación Plástica, Visual y Audiovisual. |
+| Economía. | Economía. Iniciación a la Actividad Emprendedora y Empresarial. (En los centros en los que exista profesorado de la especialidad de Economía, Formación y Orientación Laboral, y Organización y Gestión Comercial, se seguirá este orden de prelación para impartir las materias Economía e Iniciación a la Actividad Emprendedora y Empresarial.). |
+| Educación física. | Educación Física. |
+| Filosofía. | Filosofía Valores Éticos. |
+| Física y química. | Ciencias Aplicadas a la Actividad Profesional Física y Química. |
+| Formación y orientación laboral. | Iniciación a la Actividad Emprendedora y Empresarial. |
+| Francés. | Primera Lengua Extranjera Francés. Segunda Lengua Extranjera Francés. |
+| Geografía e historia. | Geografía e Historia. |
 | Griego. | Cultura Clásica. |
-| Inglés. | Lengua extranjera (Inglés). |
-| Italiano. | Lengua extranjera (Italiano). |
-| Latín. | Latín. |
-| Cultura Clásica. |
-| Lengua Castellana y Literatura. | Lengua Castellana y Literatura. |
-| Matemáticas. | Matemáticas. |
-| Música. | Música. |
-| Orientación Educativa. | Orientación Profesional e Iniciativa Emprendedora. |
-| Portugués. | Lengua extranjera (Portugués). |
-| Tecnología. | Tecnologías. |
-| Tecnología. |
-| Informática. |
-| Informática. | Informática. |
-| Formación y Orientación Laboral. | Orientación Profesional e Iniciativa Emprendedora. |
+| Informática. | Tecnologías de la Información y la Comunicación. (En los centros en los que exista profesorado de la especialidad de Informática, este tendrá preferencia sobre el de la especialidad de Tecnología para impartir la materia Tecnologías de la Información y la Comunicación.). |
+| Inglés. | Primera Lengua Extranjera Inglés. Segunda Lengua Extranjera Inglés. |
+| Italiano. | Primera Lengua Extranjera Italiano. Segunda Lengua Extranjera Italiano. |
+| Lengua castellana y literatura. | Lengua Castellana y Literatura. Artes Escénicas y Danza. |
+| Latín. | Latín. Cultura Clásica. |
+| Matemáticas. | Matemáticas Orientadas a las Enseñanzas Académicas. Matemáticas Orientadas a las Enseñanzas Aplicadas. Matemáticas. |
+| Música. | Música. Artes Escénicas y Danza. (Para impartir la materia Artes Escénicas y Danza tendrá preferencia el profesorado de la especialidad de Música.). |
+| Organización y gestión comercial. | Iniciación a la Actividad Emprendedora y Empresarial. |
+| Portugués. | Primera Lengua Extranjera Portugués. Segunda Lengua Extranjera Portugués. |
+| Tecnología. | Tecnología. Tecnologías de la Información y la Comunicación. |
 
-Nota: En los centros en los que haya Profesores de la especialidad de Informática, éstos tendrán preferencia sobre los de Tecnología para impartir la materia de Informática. En los centros en los que haya Profesores de la especialidad de Economía, Orientación Educativa, Formación y Orientación Laboral y Geografía e Historia, se seguirá este orden de prelación para impartir la materia de Orientación Profesional e Iniciativa Emprendedora.
+> Se modifica por el art. 1.4 del Real Decreto 665/2015, de 17 de julio. Ref. BOE-A-2015-8043.
+
+> Téngase en cuenta para su aplicación la disposición final 1 del citado decreto.
 
 > Se modifica por el art. 2 del Real Decreto 1146/2011, de 29 de julio. Ref. BOE-A-2011-13117.
 
