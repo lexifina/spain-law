@@ -1,0 +1,13 @@
+## Disposición adicional quinta. Cuerpo de Subinspectores Laborales.
+
+1. El Cuerpo de Subinspectores de Empleo y Seguridad Social pasa a denominarse Cuerpo de Subinspectores Laborales.
+
+2. Los funcionarios pertenecientes al Cuerpo de Subinspectores de Empleo y Seguridad Social a la entrada en vigor de esta ley quedan integrados en el Cuerpo de Subinspectores Laborales, dentro de la Escala de Empleo y Seguridad Social, con los cometidos y atribuciones que esta ley les reconoce y con todos los derechos adquiridos en su Cuerpo de procedencia.
+
+3. Para el ingreso en la Escala de Empleo y Seguridad Social del Cuerpo de Subinspectores Laborales será necesario disponer de título universitario oficial de Graduado adscrito a la rama del conocimiento de ciencias sociales y jurídicas. Asimismo, seguirán siendo válidos para el acceso a dicha Escala los títulos de la ordenación universitaria anterior en los términos previstos en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, siempre que se trate de títulos que se correspondan con dichas ramas o áreas de conocimiento.
+
+Para el ingreso en la Escala de Seguridad y Salud Laboral del Cuerpo de Subinspectores Laborales será necesario disponer de título universitario oficial de Graduado adscrito a la rama del conocimiento de ciencias, ciencias de la salud, o ingeniería y arquitectura. Asimismo, seguirán siendo válidos para el acceso a dicha Escala los títulos de la ordenación universitaria anterior en los términos previstos en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, siempre que se trate de títulos que se correspondan con dichas ramas o áreas de conocimiento.
+
+4. La dotación y el despliegue territorial de los Subinspectores Laborales de la Escala de Seguridad y Salud Laboral se realizarán en función de los criterios aprobados por el Consejo Rector del Organismo Estatal Inspección de Trabajo y Seguridad Social, de acuerdo con las competencias atribuidas al mismo por el artículo 29.2.g).
+
+5. Sin perjuicio de lo dispuesto en el apartado anterior y de acuerdo con las respectivas ofertas de empleo público y lo establecido en los convenios de colaboración, los funcionarios públicos de las Comunidades Autónomas que a la fecha de entrada en vigor de esta ley dispusieran de la habilitación para el ejercicio de funciones comprobatorias a que se refiere la disposición adicional decimoquinta de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, podrán integrarse en el Cuerpo de Subinspectores Laborales, en la Escala de Seguridad y Salud Laboral, siempre que dispongan de la titulación exigible y superen las pruebas selectivas correspondientes, en los términos y condiciones que reglamentariamente se determinen.
