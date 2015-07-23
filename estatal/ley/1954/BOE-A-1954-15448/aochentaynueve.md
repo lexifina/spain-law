@@ -1,6 +1,6 @@
 ## Artículo ochenta y nueve.
 
-En la hipoteca de establecimientos mercantiles se observarán, además de las reglas establecidas en los artículos ochenta y cuatro y ochenta y siete, las siguientes:
+En la hipoteca de establecimientos mercantiles se observarán, además de las reglas establecidas anteriormente, las siguientes:
 
 Primera. Se notificará por acta notarial al arrendador del inmueble la iniciación del procedimiento.
 
@@ -23,3 +23,5 @@ b) Si el propietario ejercitare su derecho de preferencia, consignará el import
 Ejercitado el derecho de preferencia, si el precio pagado por el arrendador fuera suficiente para cubrir la cantidad reclamada y los gastos, podrá el adjudicatario, dentro de los tres días siguientes, renunciar a la adjudicación de los restantes bienes, que quedarán para el deudor, devolviéndose a aquél el total que hubiere consignado.
 
 c) Si transcurriera el plazo señalado por la Ley de Arrendamientos Urbanos sin que el propietario de la finca hubiere ejercitado sus derechos, se dictará el auto u otorgará la escritura de adjudicación y se devolverá al adjudicatario la cantidad retenida como participación de aquél en el precio de traspaso. El adjudicatario se atendrá a lo dispuesto en la Ley de Arrendamientos Urbanos.
+
+> Se modifica el párrafo primero por la disposición final 13.5 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfdecimotercera.

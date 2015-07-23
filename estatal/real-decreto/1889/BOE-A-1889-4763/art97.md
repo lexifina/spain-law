@@ -22,7 +22,9 @@ A falta de acuerdo de los cónyuges, el Juez, en sentencia, determinará su impo
 
 9.ª Cualquier otra circunstancia relevante.
 
-En la resolución judicial se fijarán las bases para actualizar la pensión y las garantías para su efectividad.
+En la resolución judicial o en el convenio regulador formalizado ante el Secretario judicial o el Notario se fijarán la periodicidad, la forma de pago, las bases para actualizar la pensión, la duración o el momento de cese y las garantías para su efectividad.
+
+> Se modifica el último párrafo por la disposición final 1.25 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfprimera.
 
 > Se modifica por el art.1.9 de la Ley 15/2005, de 8 de julio. Ref. BOE-A-2005-11864.
 

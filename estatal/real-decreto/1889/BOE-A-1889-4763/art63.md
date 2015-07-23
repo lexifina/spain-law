@@ -1,8 +1,10 @@
 ## Artículo 63.
 
-La inscripción del matrimonio celebrado en España en forma religiosa se practicará con la simple presentación de la certificación de la Iglesia o confesión respectiva, que habrá de expresar las circunstancias exigidas por la legislación del Registro Civil.
+La inscripción del matrimonio celebrado en España en forma religiosa se practicará con la simple presentación de la certificación de la iglesia, o confesión, comunidad religiosa o federación respectiva, que habrá de expresar las circunstancias exigidas por la legislación del Registro Civil.
 
-Se denegará la práctica del asiento cuando de los documentos presentados o de los asientos del Registro conste que el matrimonio no reúne los requisitos que para su validez se exigen en este título.
+Se denegará la práctica del asiento cuando de los documentos presentados o de los asientos del Registro conste que el matrimonio no reúne los requisitos que para su validez se exigen en este Título.
+
+> Se modifica por la disposición final 1.14 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfprimera.
 
 > Se modifica por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.
 

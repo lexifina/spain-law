@@ -1,0 +1,5 @@
+## Disposición final vigésima. Título competencial.
+
+La presente Ley se dicta al amparo de la competencia que, en materia de legislación procesal, corresponde al Estado conforme al artículo 149.1.6.ª de la Constitución.
+
+Se exceptúan de lo anterior las disposiciones finales primera, cuarta, quinta, sexta, séptima, octava, décima, decimocuarta y decimoctava, que se dictan al amparo de la competencia que corresponde al Estado en materia de legislación civil conforme al artículo 149.1.8.ª de la Constitución. Asimismo, la disposición adicional cuarta y las disposiciones finales undécima, duodécima y decimotercera, que se dictan al amparo de la competencia que corresponde al Estado en materia de ordenación de los registros e instrumentos públicos, conforme al artículo 149.1.8.ª de la Constitución. Finalmente, las disposiciones finales segunda, novena, decimoquinta y decimosexta, que se dictan al amparo de la competencia que corresponde al Estado en materia de legislación mercantil, conforme al artículo 149.1.6.ª de la Constitución.
