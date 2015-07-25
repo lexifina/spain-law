@@ -1,0 +1,11 @@
+## Séptimo. Solicitud de designación por los centros gestores.
+
+1. Los órganos gestores deberán solicitar de la Intervención General la designación de representante para su asistencia potestativa a la comprobación material de la inversión, en todos los contratos o negocios incluidos en el ámbito objetivo descrito en el apartado Cuarto de esta Resolución, cuando el importe de ésta sea igual o superior a 50.000 euros, con exclusión del Impuesto sobre el Valor Añadido o impuesto equivalente, con una antelación de treinta días hábiles a la fecha prevista para la terminación de la prestación objeto del contrato o encargo, entendiéndose por tal la fecha de entrega o realización total de la inversión. Si la solicitud se refiere a recepciones que deban efectuarse en el exterior (Unión Europea y/o resto del mundo), el citado plazo será de cuarenta y cinco días hábiles.
+
+El plazo de treinta días también regirá en la solicitud que deba efectuar el Centro gestor, cuando de acuerdo con lo dispuesto en el artículo 168 del vigente Reglamento General de la Ley de Contratos de las Administraciones Públicas, aprobado por Real Decreto 1098/2001, de 12 de octubre, aprecie razones excepcionales de interés público para proceder a la ocupación efectiva de obras o a su puesta en servicio para uso público.
+
+Cuando de conformidad con los documentos que rijan la ejecución de la inversión, se prevea la existencia de «entregas parciales», el plazo de treinta días se contará tomando como referencia la fecha de recepción prevista para la primera entrega o prestación a ejecutarse. En este supuesto, se tramitará una única solicitud comprensiva del importe total de la inversión, esto es, el que derive de la totalidad de las entregas parciales previstas.
+
+Lo dispuesto en el párrafo anterior sobre entregas parciales resulta asimismo aplicable en aquellos casos en que el contrato o encargo acumule distintas prestaciones, tales como: contratación conjunta de redacción del proyecto y de ejecución de las obras correspondientes; contratación conjunta de redacción del proyecto y de dirección y control de las obras, o sus asimilables.
+
+2. La solicitud de representante de la Intervención General deberá ajustarse al procedimiento y modelo normalizado aprobado a tales efectos por Resolución del Interventor General de la Administración del Estado.
