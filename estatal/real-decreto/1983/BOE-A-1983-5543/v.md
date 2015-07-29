@@ -80,7 +80,7 @@ Negativa.
 
 Índice de saponificación:
 
-Aceites de oliva vírgenes y refinados: de 184 a 196.
+Aceites de oliva vírgenes y refinados; de 184 a 196.
 
 Aceites refinados de orujo de aceituna: de 182 a 193.
 
@@ -366,19 +366,11 @@ Por tanto, los aceites refinados de girasol deberán cumplir o bien el conjunto 
 
 (Derogado)
 
-5. Aditivos y coadyuvantes tecnológicos.
+5. Coadyuvantes tecnológicos.
 
-La Subsecretaría para la Sanidad publicará mediante Resolución las Listas Positivas de Aditivos y Coadyuvantes Tecnológicos que podrán utilizarse en los productos regulados en la presente Reglamentación.
+El Gobierno aprobará la lista positiva de coadyuvantes tecnológicos que podrán utilizarse en los productos regulados en la presente Reglamentación.
 
-En concreto, los disolventes utilizados para la extracción de aceites deberán cumplir, junto con las especificaciones fijadas para cada uno de ellos, las siguientes condiciones generales:
-
-a) Deberán ser productos de características químicas bien definidas sin que exista la posibilidad de que contengan impurezas que tengan una acción nociva sobre el organismo.
-
-b) Deberán ser fácilmente separables, por destilación con o sin arrastre de vapor, de la mezcla grasa disolvente, pudiéndose eliminar hasta los últimos residuos, sin someter el aceite a calentamientos excesivos.
-
-c) Destilarán, como mínimo, en un 99,99 por 100 a una temperatura que no sobrepase los 95º centígrados.
-
-d) No contendrán residuos de azufre y metálicos, especialmente plomo, que puedan quedar retenidos por el aceite, en cantidades superiores a las que se establezcan.
+> Se modifica el apartado 5 por la disposición final 2 del Real Decreto 640/2015, de 10 de julio. Ref. BOE-A-2015-8443.
 
 > Se derogan los apartados 1 y 4 por el art. 20 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.
 
