@@ -1,0 +1,13 @@
+La Comisión para la Reforma de las Administraciones Públicas (CORA), fue creada mediante Acuerdo de Consejo de Ministros de 26 de octubre de 2012, con el objetivo de convertir nuestras Administraciones Públicas en un factor de competitividad de la economía española, para lo cual propuso más de 200 medidas de racionalización de estructuras, procedimientos y recursos, plasmadas en su informe final presentado al Gobierno de España en junio de 2013.
+
+Más de la mitad de las citadas medidas son, directa o indirectamente, actuaciones relativas a Tecnologías de la Información y las Comunicaciones (TIC). Numerosos estudios avalan una fuerte correlación entre este proceso de digitalización y las mejoras de competitividad y productividad globales de las sociedades y los países. Por ello puede afirmarse que el informe CORA persigue, de modo decidido, la aceleración del proceso de digitalización de las Administraciones Públicas españolas en su conjunto.
+
+Una de las actuaciones más importantes ya emprendidas en esa línea, es la implantación de un nuevo modelo de Gobernanza de las TIC en la Administración General del Estado (AGE), desarrollada, en primer lugar, con la creación, mediante Real Decreto 695/2013 de 20 de septiembre, de una nueva figura directiva de alto nivel con competencias transversales para toda la AGE y sus Organismos Públicos, la Dirección de Tecnologías de la Información y las Comunicaciones (DTIC), con rango de Subsecretaría, luego reestructurada e integrada orgánicamente en el Ministerio de Hacienda y Administraciones Públicas por el Real Decreto 802/2014, de 19 de septiembre.
+
+Y en segundo lugar, mediante el desarrollo orgánico de ese nuevo modelo de Gobernanza, a través del Real Decreto 806/2014, de 19 de septiembre que, junto a la figura ya citada de la DTIC, define una serie de órganos colegiados y de unidades que implementarán las políticas de racionalización y transformación de las TIC en el ámbito del Sector Público Administrativo Estatal.
+
+Entre esos órganos figurarán las Comisiones Ministeriales de Administración Digital, herederas de las actuales Comisiones Ministeriales de Administración Electrónica, y que se convertirán en las unidades responsables de implantar, a nivel ministerial, las políticas comunes TIC previamente definidas por los órganos competentes, así como de la transformación digital de cada departamento ministerial y sus organismos públicos adscritos.
+
+La norma ha sido sometida a informe de las Direcciones Generales del Ministerio de Fomento y organismos públicos adscritos al Departamento, y cuenta con la aprobación previa del Ministerio de Hacienda y Administraciones Públicas.
+
+A propuesta de la Inspección General de Fomento, con la conformidad del Subsecretario, dispongo:
