@@ -104,5 +104,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición final tercera](tercera-3.md)
 - [Disposición final cuarta](cuarta-3.md)
 - [Disposición final quinta](quinta-2.md)
+- [Disposición final sexta](sexta-2.md)
 - [Disposición derogatoria](dd.md)
 - [firma](firma.md)
