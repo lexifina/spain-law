@@ -8,6 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+BOE records this act as repealed with effect from 2015-07-30. The recorded cause is disposición derogatoria única.a) del Real Decreto 1192/2012, de 3 de agosto Ref. BOE-A-2012-10477#ddunica y en su totalidad por la disposición derogatoria de la Ley 25/2015, de 28 de julio (BOE-A-2015-8469). See the publisher notice for qualifications and transitional provisions. Earlier wording remains available in the history.
+
 ## Bloques
 
 - [no](no.md)
