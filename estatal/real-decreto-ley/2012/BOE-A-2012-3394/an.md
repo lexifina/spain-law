@@ -56,6 +56,10 @@ e) Esta medida no será aplicable en los supuestos que se encuentren en procedim
 
 Las entidades garantizarán la máxima difusión del contenido del Código de Buenas Prácticas, en particular, entre sus clientes.
 
+> Se añade la letra b).iv al apartado 1 por el art. 2.3 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#a2.
+
+> Téngase en cuenta que esta incorporación ya fue realizada por el Real Decreto-ley 1/2015, de 27 de febrero.
+
 > Se añade la letra b).iv al apartado 1 por el art. 2.3 del Real Decreto-ley 1/2015, de 27 de febrero. Ref. BOE-A-2015-2109#a2.
 
 > Se modifica por el art. 8.8 de la Ley 1/2013, de 14 de mayo. Ref. BOE-A-2013-5073.

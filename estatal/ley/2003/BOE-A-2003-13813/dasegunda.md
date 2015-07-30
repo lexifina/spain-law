@@ -18,7 +18,13 @@ f) La disposición adicional tercera de la Ley 1/1999, de 5 de enero, reguladora
 
 g) Ley 41/1999, de 12 de noviembre, sobre sistemas de pagos y de liquidación de valores.
 
-h) Los artículos 26 a 37, ambos inclusive, 39 y 59 del Texto Refundido de la Ley de Ordenación y Supervisión de los Seguros Privados, aprobado por el Real Decreto Legislativo 6/2004, de 29 de octubre, y el Texto Refundido del Estatuto Legal del Consorcio de Compensación de Seguros, aprobado por el Real Decreto Legislativo 7/2004, de 29 de octubre.
+h) Los títulos VI y VII de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de entidades aseguradoras y reaseguradoras; y el texto refundido del Estatuto Legal del Consorcio de Compensación de Seguros, aprobado por el Real Decreto Legislativo 7/2004 de, 29 de octubre.
+
+> Téngase en cuenta que la modificación de la letra h) entra en vigor el 1 de enero de 2016, según establece la disposición final 21.1 de la Ley 20/2015, de 14 de julio Ref. BOE-A-2015-7897#dfquinta., que no entra en vigor hasta el 1 de enero de 2016.
+
+> Redacción anterior:
+
+> "h) Los artículos 26 a 37, ambos inclusive, 39 y 59 del Texto Refundido de la Ley de Ordenación y Supervisión de los Seguros Privados, aprobado por el Real Decreto Legislativo 6/2004, de 29 de octubre, y el Texto Refundido del Estatuto Legal del Consorcio de Compensación de Seguros, aprobado por el Real Decreto Legislativo 7/2004, de 29 de octubre".
 
 i) El Capítulo II del Título I del Real Decreto Ley 5/2005, de 11 de marzo, de reformas urgentes para el impulso a la productividad y para la mejora de la contratación pública.
 
@@ -28,7 +34,17 @@ k) La Ley 11/2015, de 18 de junio, de recuperación y resolución de entidades d
 
 l) El artículo 34 de la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización.
 
+m) La Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva.
+
+n) La Ley 22/2014, de 12 de noviembre, por la que se regulan las entidades de capital-riesgo, otras entidades de inversión colectiva de tipo cerrado y las sociedades gestoras de entidades de inversión colectiva de tipo cerrado, y por la que se modifica la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva.
+
+ñ) El Texto Refundido de la Ley de Regulación de los Planes y Fondos de Pensiones, aprobado por Real Decreto Legislativo 1/2002, de 29 de noviembre.
+
 3. Las normas legales mencionadas en el apartado anterior se aplicarán con el alcance subjetivo y objetivo previsto en las mismas a las operaciones o contratos que en ellas se contemplan y, en particular, las referidas a las operaciones relativas a los sistemas de pagos y de liquidación y compensación de valores, operaciones dobles, operaciones con pacto de recompra o se trate de operaciones financieras relativas a instrumentos derivados.
+
+> Se añaden las letras m), n) y ñ) al apartado 2 por el art. 1.3.2 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#a1.
+
+> Se modifica el apartado 2.h) por la disposición final 5.2 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfquinta.
 
 > Se modifica por la disposicion final 5 de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dfquinta.
 

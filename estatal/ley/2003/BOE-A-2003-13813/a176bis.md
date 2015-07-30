@@ -26,13 +26,17 @@ La conclusión por insuficiencia de masa se acordará por auto. Si en el plazo d
 
 4. También podrá acordarse la conclusión por insuficiencia de masa en el mismo auto de declaración de concurso cuando el juez aprecie de manera evidente que el patrimonio del concursado no será presumiblemente suficiente para la satisfacción de los previsibles créditos contra la masa del procedimiento ni es previsible el ejercicio de acción de reintegración, de impugnación o de responsabilidad de terceros.
 
-Si el concursado fuera persona natural, el juez designará un administrador concursal que deberá liquidar los bienes existentes y pagar los créditos contra la masa siguiendo el orden del apartado 2. Una vez concluida la liquidación, el deudor podrá solicitar la exoneración del pasivo insatisfecho ante el Juez del concurso. La tramitación de la solicitud, los requisitos para beneficiarse de la exoneración y sus efectos se regirán por lo dispuesto en el artículo 178 bis.
+Si el concursado fuera persona natural, el juez designará un administrador concursal que deberá liquidar los bienes existentes y pagar los créditos contra la masa siguiendo el orden del apartado 2. Una vez concluida la liquidación, el deudor podrá solicitar la exoneración del pasivo insatisfecho ante el juez del concurso. La tramitación de la solicitud, los requisitos para beneficiarse de la exoneración y sus efectos se regirán por lo dispuesto en el artículo 178 bis.
 
 Contra este auto podrá interponerse recurso de apelación.
 
 5. Hasta la fecha en que se dicte el auto de conclusión del concurso, los acreedores y cualquier otro legitimado podrán solicitar la reanudación del concurso siempre que justifiquen indicios suficientes para considerar que pueden ejercitarse acciones de reintegración o aportando por escrito hechos relevantes que pudieran conducir a la calificación de concurso culpable y que justifiquen el depósito o consignación ante el juzgado de una cantidad suficiente para la satisfacción de los créditos contra la masa previsibles. El depósito o consignación podrá hacerse también mediante aval solidario de duración indefinida y pagadero a primer requerimiento emitido por entidad de crédito o sociedad de garantía recíproca o cualquier otro medio que, a juicio del tribunal, garantice la inmediata disponibilidad de la cantidad.
 
 El secretario judicial admitirá a trámite la solicitud si cumplen las condiciones de tiempo y contenido establecidas en esta ley. Si entiende que no concurren las condiciones o que no se han subsanado, el secretario judicial dará cuenta al juez para que dicte auto aceptando o denegando la solicitud. Reanudado el concurso, el instante estará legitimado para el ejercicio de la acción de reintegración o de impugnación, estando en cuanto a las costas y gastos a lo dispuesto en el artículo 54.4.
+
+> Se modifican los apartados 3 y 4 por el art. 1.1.3 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#a1.
+
+> Téngase en cuenta para su aplicación la disposición transitoria 1.3 de la citada Ley.
 
 > Se modifican los apartados 3 y 4 por el art. 1.1.3 del Real Decreto-ley 1/2015, de 27 de febrero. Ref. BOE-A-2015-2109#a1.
 

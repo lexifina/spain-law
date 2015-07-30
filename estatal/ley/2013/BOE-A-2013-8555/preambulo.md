@@ -71,3 +71,7 @@ También se incide en el ámbito de actuación de la cooperativa agroalimentaria
 Además, se resalta la actuación de las cooperativas agroalimentarias en el entorno territorial y social propio de su ubicación, diversificando su actividad en beneficio de sus habitantes, tanto socios como terceros no socios.
 
 Por lo que respecta al artículo 9 de la Ley 20/1990, de 19 de diciembre, sobre Régimen Fiscal de las Cooperativas, las modificaciones que se establecen respecto a su ámbito subjetivo eliminan la referencia a las personas físicas, por obsolescencia en el contexto actual. Esta limitación genera no pocos problemas para la transmisión generacional de las explotaciones en gestión cooperativa y supone un importante obstáculo para la generación de grupos cooperativos agrarios competitivos, sin que aporte ningún valor añadido en términos de finalidades públicas a incentivar, principios cooperativos o mutualismo.
+
+Finalmente, resulta conveniente adecuar el texto de esta Ley al contenido de la Sentencia del Tribunal Constitucional 85/2015, de 30 de abril de 2015 en relación con el recurso de inconstitucionalidad número 6228-2013, interpuesto por la Generalitat de Cataluña, facilitando la participación de las Comunidades Autónomas en el procedimiento de reconocimiento, mediante su consulta, informando sobre modificaciones y simplificando el Registro Nacional de Entidades Asociativas Prioritarias.
+
+> Se añade un párrafo final por la disposición final 10.1 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#dfdecima.

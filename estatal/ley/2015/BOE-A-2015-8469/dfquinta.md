@@ -1,0 +1,21 @@
+## Disposición final quinta. Modificación del Real Decreto 8/2008, de 11 de enero, por el que se regula la prestación por razón de necesidad a favor de los españoles residentes en el exterior y retornados.
+
+Se modifica el artículo 26 del Real Decreto 8/2008, de 11 de enero, por el que se regula la prestación por razón de necesidad a favor de los españoles residentes en el exterior y retornados, que queda redactado como sigue:
+
+«Artículo 26. Asistencia sanitaria para españoles de origen retornados y para los trabajadores y pensionistas españoles de origen residentes en el exterior desplazados temporalmente al territorio nacional y para los familiares de los anteriores que se establezcan con ellos o les acompañen.
+
+1. Los españoles de origen residentes en el exterior que retornen a España así como los trabajadores por cuenta ajena y por cuenta propia y los pensionistas españoles de origen residentes en el exterior en sus desplazamientos temporales a nuestro país tendrán derecho a la asistencia sanitaria cuando, de acuerdo con las disposiciones de la legislación de Seguridad Social española, las del Estado de procedencia o las normas o Convenios Internacionales de Seguridad Social establecidos al efecto, no tuvieran prevista esta cobertura.
+
+2. Los familiares de los españoles de origen retornados que se establezcan con ellos en España, y los de los pensionistas y trabajadores por cuenta ajena y por cuenta propia españoles de origen, residentes en el exterior, que les acompañen en sus desplazamientos temporales a España, tendrán igualmente derecho a la asistencia sanitaria en España, a través del Sistema Nacional de Salud, cuando, de acuerdo con las disposiciones de Seguridad Social española, las del Estado de procedencia o las normas o Convenios internacionales de Seguridad Social establecidos al efecto, estos familiares no tuvieran prevista esta cobertura.
+
+A los efectos indicados, se entenderá que son familiares con derecho a asistencia sanitaria:
+
+a) El cónyuge de las personas indicadas en el apartado 1 o quien conviva con ellas con una relación de afectividad análoga a la conyugal, constituyendo una pareja de hecho.
+
+b) Los descendientes de las personas indicadas en el apartado 1 o los de su cónyuge o los de su pareja de hecho, que estén a cargo de aquellas y sean menores de 26 años o mayores de dicha edad con una discapacidad reconocida en un grado igual o superior al 65 por ciento.
+
+3. El reconocimiento del derecho a la asistencia sanitaria en todos estos supuestos corresponde al Instituto Nacional de la Seguridad Social, el cual expedirá el documento acreditativo del derecho. Este derecho se conservará hasta que el beneficiario reúna los requisitos establecidos para obtenerlo de acuerdo con las disposiciones de Seguridad Social española, las del Estado de procedencia o las normas o Convenios Internacionales de Seguridad Social.
+
+Los españoles de origen retornados justificarán su condición mediante la presentación de la baja consular en el país de residencia y el certificado de empadronamiento en el municipio donde hayan fijado su residencia en nuestro país.»
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 296, de 11 de diciembre de 2015. Ref. BOE-A-2015-13432.

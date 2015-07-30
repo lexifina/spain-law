@@ -8,10 +8,14 @@ b) Los contribuyentes con derecho a la aplicación de estas deducciones podrán 
 
 c) No resultará de aplicación el límite previsto en el apartado 1 del artículo 60 bis del Reglamento del Impuesto ni, en el caso de que se hubiera cedido a su favor el derecho a la deducción, lo dispuesto en la letra c) del apartado 5 del artículo 60 bis del Reglamento del Impuesto.
 
-2. El Servicio Público de Empleo Estatal, la Seguridad Social, y las mutualidades de previsión social alternativas a las de la Seguridad Social y cualquier otro organismo que abonen las prestaciones y pensiones a que se refiere el sexto párrafo del apartado 1 del artículo 81 bis de esta Ley, estarán obligados a suministrar por vía electrónica a la Agencia Estatal de Administración Tributaria durante los diez primeros días de cada mes los datos de las personas a las que hayan satisfecho las citadas prestaciones o pensiones durante el mes anterior.
+2. El Servicio Público de Empleo Estatal, la Seguridad Social y las mutualidades de previsión social alternativas a las de la Seguridad Social y cualquier otro organismo que abonen las prestaciones y pensiones a que se refiere el sexto párrafo del apartado 1 del artículo 81 bis de esta Ley, estarán obligados a suministrar por vía electrónica a la Agencia Estatal de Administración Tributaria durante los diez primeros días de cada mes los datos de las personas a las que hayan satisfecho las citadas prestaciones o pensiones durante el mes anterior.
 
 El formato y contenido de la información serán los que, en cada momento, consten en la sede electrónica de la Agencia Estatal de Administración Tributaria en Internet.
 
 3. Lo establecido en el apartado 1 de esta disposición adicional, así como el plazo, contenido y formato de la declaración informativa a que se refiere el apartado 2 de esta disposición adicional, podrá ser modificado reglamentariamente.
+
+> Se añade, con efectos desde el 1 de enero de 2015, por el art. 4.2 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#a4.
+
+> Téngase en cuenta que esta disposición ya fue añadida por el Real Decreto-ley 1/2015, de 27 de febrero.
 
 > Se añade, con efectos desde el 1 de enero de 2015, por el art. 4.2 del Real Decreto-ley 1/2015, de 27 de febrero. Ref. BOE-A-2015-2109#a4.

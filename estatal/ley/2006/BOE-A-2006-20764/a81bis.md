@@ -28,6 +28,8 @@ En este caso, a efectos del cálculo de la deducción a que se refiere el aparta
 
 Se entenderá que no existe transmisión lucrativa a efectos fiscales por esta cesión.
 
+> Se modifican los apartados 1 y 2, con efectos desde el 1 de enero de 2015, por el art. 4.1 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#a4.
+
 > Se modifican los apartados 1 y 2, con efectos desde el 1 de enero de 2015, por el art. 4.1 del Real Decreto-ley 1/2015, de 27 de febrero. Ref. BOE-A-2015-2109#a4.
 
 > Se añade por el art. 1.56 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327.

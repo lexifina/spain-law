@@ -1,12 +1,12 @@
 ## Artículo 242 bis. Especialidades del acuerdo extrajudicial de pagos de personas naturales no empresarios.
 
-1. El acuerdo extrajudicial de pagos de personas naturales no empresarios se regirá por lo dispuesto en este título con las siguientes especialidades:
+1. El acuerdo extrajudicial de pagos de personas naturales no empresarios se regirá por lo dispuesto en este Título con las siguientes especialidades:
 
-1.º La solicitud deberá presentarse ante el notario del domicilio del deudor
+1.º La solicitud deberá presentarse ante el notario del domicilio del deudor.
 
 2.º El notario, una vez constatada la suficiencia de la documentación aportada y la procedencia de la negociación del acuerdo extrajudicial de pagos deberá, de oficio, comunicar la apertura de las negociaciones al juzgado competente para la declaración del concurso.
 
-3.º El notario impulsará las negociaciones entre el deudor y sus acreedores, salvo que designase, si lo estimase conveniente pudiendo designar, en su caso, un mediador concursal. El nombramiento del mediador concursal deberá realizarse en los cinco días siguientes a la recepción por el notario de la solicitud del deudor, debiendo el mediador aceptar el cargo en un plazo de cinco días.
+3.º El notario impulsará las negociaciones entre el deudor y sus acreedores, pudiendo designar, si lo estima conveniente o lo solicita el deudor, un mediador concursal. El nombramiento del mediador concursal deberá realizarse en los cinco días siguientes a la recepción por el notario de la solicitud del deudor, debiendo el mediador aceptar el cargo en un plazo de cinco días.
 
 4.º Las actuaciones notariales o registrales descritas en el artículo 233 no devengarán retribución arancelaria alguna.
 
@@ -23,5 +23,9 @@
 10.º El concurso consecutivo se abrirá directamente en la fase de liquidación.
 
 2. Reglamentariamente se determinará régimen de responsabilidad de los notarios que intervengan en los acuerdos extrajudiciales de pagos de las personas naturales no empresarios. Su retribución será la prevista para los mediadores concursales.
+
+> Se añade por el art. 1.2.13 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#a1.
+
+> Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 1/2015.
 
 > Se añade por el art. 1.2.13 del Real Decreto-ley 1/2015, de 27 de febrero. Ref. BOE-A-2015-2109#a1.

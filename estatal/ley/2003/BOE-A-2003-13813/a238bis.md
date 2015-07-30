@@ -10,4 +10,8 @@ a) Del 65 por ciento, cuando se trate de las medidas previstas en el apartado 1 
 
 b) Del 80 por ciento, cuando se trate de las medidas previstas en el apartado 1 b) del artículo anterior.
 
+> Se añade por el art. 1.2.8 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#a1.
+
+> Téngase en cuenta que este artículo ya fue añadido por el Real Decreto-ley 1/2015.
+
 > Se añade por el art. 1.2.8 del Real Decreto-ley 1/2015, de 27 de febrero. Ref. BOE-A-2015-2109#a1.
