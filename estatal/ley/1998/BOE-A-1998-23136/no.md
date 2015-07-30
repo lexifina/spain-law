@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Ley 33/1998, de 5 de octubre, de prohibición total de minas antipersonal, municiones en racimo y armas de efecto similar", según establece el art. único.1 de la Ley 27/2015, de 28 de julio . Ref. BOE-A-2015-8471.
