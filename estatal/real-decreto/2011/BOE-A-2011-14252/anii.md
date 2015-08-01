@@ -280,7 +280,7 @@ Lista de sustancias CMR y sus usos autorizados de conformidad con el anexo II, p
 
 | Sustancia | Clasificación | Uso autorizado |
 | --- | --- | --- |
-| Níquel | CMR 2 | De acero inoxidable |
+| Níquel | CMR 2 | En los juguetes y en los componentes de juguetes fabricados con acero inoxidable. En los componentes de juguetes destinados a conducir la corriente eléctrica. |
 
 Apéndice B
 
@@ -364,6 +364,23 @@ A partir del 1 de junio de 2015, las disposiciones del artículo 46, apartado 3 
 
 Apéndice C
 
-Valores límite específicos para productos químicos utilizados en juguetes destinados a niños menores de 36 meses o en otros juguetes destinados a introducirse en la boca, adoptados de conformidad con el artículo 46, apartado 2 de la Directiva 2009/48/CE del Parlamento Europeo y del Consejo, de 18 de junio de 2009.
+Valores límites específicos para sustancias químicas utilizadas en juguetes destinados a niños menores de 36 meses o en otros juguetes destinados a introducirse en la boca
+
+| Sustancia | No CAS | Valor límite |
+| --- | --- | --- |
+| TCEP. | 115-96-8. | 5 mg/kg (límite de contenido). |
+| TCPP. | 13674-84-5. | 5 mg/kg (límite de contenido). |
+| TDCP. | 13674-87-8. | 5 mg/kg (límite de contenido). |
+| Bisfenol A. | 80-05-7. | 0,1 mg/l (límite de migración), con arreglo a los métodos definidos en las normas EN 71-10:2005 y EN 71-11:2005.» |
+
+> Téngase en cuenta que la última actualización del apéndice C entra en vigor el 21 de diciembre de 2015, conforme a la disposición final 2 de la Orden PRE/1567/2015 de 28 de julio. Ref. BOE-A-2015-8570.
+
+> Redacción anterior:
+
+> "Valores límite específicos para productos químicos utilizados en juguetes destinados a niños menores de 36 meses o en otros juguetes destinados a introducirse en la boca, adoptados de conformidad con el artículo 46, apartado 2 de la Directiva 2009/48/CE del Parlamento Europeo y del Consejo, de 18 de junio de 2009."
+
+> Se modifican los apéndices A y C por el art. único.1 y 2 de la Orden PRE/1567/2015, de 28 de julio. Ref. BOE-A-2015-8570.
+
+> Téngase en cuenta que la modificación del apéndice C entra en vigor el 21 de diciembre de 2015, según establece la disposición final 2 de la Orden PRE/1567/2015, de 28 de julio.
 
 > Se modifica el punto 13 de la parte III por el art. único de la Orden PRE/193/2013, de 7 de febrero. Ref. BOE-A-2013-1555.
