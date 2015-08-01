@@ -64,7 +64,7 @@ Quedarán excluidas de la aplicación de esta ley las entregas de producto que s
 
 Sin embargo, serán también operaciones comerciales sujetas a lo dispuesto en esta ley, las que se realicen entre operadores de la cadena agroalimentaria en los procesos de envasado, transformación o acopio para su posterior comercialización, y en todo caso, las compras de los animales vivos, los piensos y todas las materias primas e ingredientes utilizados para alimentación animal. Por tanto, no será de aplicación esta ley a las relaciones comerciales que afecten a los restantes insumos agroalimentarios.
 
-Asimismo, el ámbito de aplicación del Capítulo I del Título II de esta ley se circunscribe a las relaciones comerciales de los operadores que realicen transacciones comerciales, continuadas o periódicas, cuyo precio sea superior a 2.500 euros, siempre que éstos se encuentren en algunas de las siguientes situaciones de desequilibrio:
+Asimismo, el ámbito de aplicación del capítulo I del título II de esta ley se circunscribe a las relaciones comerciales de los operadores que realicen transacciones comerciales, continuadas o periódicas, cuyo precio sea superior a 2.500 euros, siempre que estos se encuentren en alguna de las siguientes situaciones de desequilibrio:
 
 a) Que uno de los operadores tenga la condición de PYME y el otro no.
 
@@ -129,3 +129,5 @@ La Disposición final primera, procede a la reforma de la Ley 38/1994, de 30 de 
 Por lo que se refiere, a la Disposición final segunda, modifica la Ley 2/2000, de 7 de enero, Reguladora de los contratos-tipo de productos agroalimentarios. Esta modificación responde a la necesidad de mejorar estos instrumentos esenciales en la construcción de un sector agroalimentario competitivo, eficaz y transparente. Por este motivo, es necesario actualizar el régimen de contratos-tipo en el ámbito agroalimentario, para dotar de una mayor estabilidad a los mercados, adaptando las producciones en cantidad y calidad a las demandas de los mercados exterior e interior y mejorando la transparencia y la competencia del mercado.
 
 Las principales modificaciones al texto de esta ley se refieren a la posibilidad de tener en cuenta, en su caso, a la hora de fijar el precio, indicadores de precios o costes, siendo, en cualquier caso, el precio a percibir así como los indicadores que se apliquen, libremente fijados entre las partes. Estos indicadores deberán ser objetivos, transparentes y verificables, y no manipulables y se fijarán teniendo en cuenta la normativa sobre competencia. Asimismo, se procede a actualizar las infracciones y sanciones aplicables por incumplimiento de lo dispuesto en la ley.
+
+> Se modifica el párrafo séptimo de la parte III por la disposición final 1.1 de la Ley 28/2015, de 30 de julio. Ref. BOE-A-2015-8563#dfprimera.

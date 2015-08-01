@@ -1,5 +1,5 @@
-## Disposición adicional segunda.
+## Disposición adicional segunda. Concesión directa.
 
-1. A partir de la entrada en vigor de la presente Ley se realizarán los estudios necesarios para establecer el primer plan de seguros anual, de forma que ya en el ejercicio mil novecientos setenta y nueve puedan arbitrarse los recursos que el Estado aporte para la puesta en marcha del citado plan.
+Las aportaciones del Estado al importe global de las primas a satisfacer por los agricultores se concederán de forma directa a los agricultores, tal y como establece el artículo 22.2.b) de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, relativo al procedimiento de concesión de subvenciones.
 
-2. La creación de la Entidad Estatal de Seguros Agrarios a que se refiere el artículo diecisiete, se hará de forma tal que pare mil novecientos ochenta se cumpla lo prevenido en el artículo quinto.
+> Se modifica por la disposición final 3 de la Ley 28/2015, de 30 de julio. Ref. BOE-A-2015-8563#dftercera.
