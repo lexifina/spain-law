@@ -1,0 +1,7 @@
+## Disposición adicional tercera. Retribución a la operación de las instalaciones tipo existentes no incluidas en el ámbito de aplicación de esta orden.
+
+1. La retribución a la operación de las instalaciones tipo para las que no haya sido aprobado por orden ministerial un valor de la retribución a la operación o cuando el valor aprobado de la retribución a la operación tome como valor cero, se calcularán según lo previsto en el Real Decreto 413/2014, de 6 de junio, por el que se regula la actividad de producción de energía eléctrica a partir de fuentes de energía renovables, cogeneración y residuos y en la Orden IET/1045/2014, de 16 de junio, por la que se aprueban los parámetros retributivos de las instalaciones tipo aplicables a determinadas instalaciones de producción de energía eléctrica a partir de fuentes de energía renovables, cogeneración y residuos.
+
+2. Los valores de la retribución a la operación, correspondientes al 2015, de las instalaciones tipo que fueron definidas en la Orden IET/1045/2014, de 16 de junio, para las que no se estableció retribución a la operación por tener fecha de autorización de explotación definitiva posterior a 2014, se establecen por primera vez en esta orden y se incluyen en el anexo III. Para dichas instalaciones tipo no se incluyen los parámetros A’, B’, C’ por no ser de aplicación.
+
+Estos valores de retribución a la operación serán de aplicación desde la fecha de inicio de devengo del régimen retributivo específico de conformidad con lo establecido en el Real Decreto 413/2014, de 6 de junio.
