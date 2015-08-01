@@ -1,0 +1,3 @@
+## Disposición adicional primera. Exenciones para los sujetos obligados.
+
+En atención al principio de proporcionalidad y de simplificación de cargas administrativas, en el caso de que el sujeto al que aplica esta Circular tenga la obligación de aportar otra información regulatoria de costes ante la CNMC en cumplimiento de la Circular 4/2014 de la Comisión Nacional de los Mercados y la Competencia, de petición de información a las empresas distribuidoras de energía eléctrica [Formulario 26, 26 bis, 26 c), 26 d), 26 e) y 28] o Circular que la sustituya, quedará exento de remitir los Formularios 7, 8, 9 y 17.

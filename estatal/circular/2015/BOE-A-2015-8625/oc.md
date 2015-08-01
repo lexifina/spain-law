@@ -1,0 +1,5 @@
+## Octavo. Agrupación de los OFC por proyectos.
+
+1. Los OFC de inversión de activos regulados se asignarán a proyectos, de manera que se refleje la realidad de la ejecución de las inversiones. Cada activo regulado ha de estar englobado dentro de uno de los proyectos definidos por el sujeto obligado, el cual podrá incorporar otros activos. Los costes del proyecto podrán asignarse a los OFC de inversión dentro del mismo proyecto, de forma agregada en uno o varios de los OFC de inversión del proyecto, y presentarse así en el momento de la declaración en fases del proyecto sin suficiente definición, que sufran posteriores modificaciones durante su ejecución. Esta flexibilidad se considera necesaria atendiendo a los largos plazos de ejecución de los proyectos, que presentan distintos estados de definición.
+
+2. El Sistema IRC permite reclasificar en ejercicios posteriores los costes localizados en los OFC de inversión dentro un proyecto, para asignar correctamente los costes en cada OFC del proyecto en el momento de la puesta en servicio. La declaración de dicha reclasificación de costes será anual.
