@@ -1,6 +1,6 @@
 ## ANEXO XI
 
-## Los requisitos de titulación del profesorado en centros privados y de titularidad pública de Administraciones distintas a la educativa
+## Requisitos de titulación del profesorado de los módulos de enseñanza deportiva de los ciclos inicial y final de grado medio, en centros privados y de titularidad pública de Administraciones distintas a la educativa
 
 Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
 
@@ -9,16 +9,16 @@ Módulos del bloque común: Ciclo inicial y finales
 | Módulos comunes de enseñanza deportiva | Titulaciones |
 | --- | --- |
 | Ciclo inicial |
-| MED-C101:Bases del comportamiento deportivo. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
-| MED-C102: Primeros auxilios. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Licenciado o Graduado en Medicina. Diplomado o Graduado en Enfermería. |
-| MED-C103: Actividad física adaptada y discapacidad. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Maestro especialista en educación física. |
+| MED-C101:Bases del comportamiento deportivo. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Licenciado o Graduado en Psicología. Maestro especialista en Educación Física. Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
+| MED-C102: Primeros auxilios. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Licenciado o Graduado en Medicina. Diplomado o Graduado en Enfermería. Diplomado o Graduado en Fisioterapia. |
+| MED-C103: Actividad física adaptada y discapacidad. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Maestro especialista en Educación Física. Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
 | MED-C104:Organización deportiva. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
 | Ciclo final |
-| MED-C201: Bases del aprendizaje deportivo. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
+| MED-C201: Bases del aprendizaje deportivo. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Licenciado o Graduado en Psicología. Maestro especialista en Educación Física. Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
 | MED-C202: Bases del entrenamiento deportivo. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
 | MED-C203: Deporte adaptado y discapacidad. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
 | MED-C204: Organización y legislación deportiva. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Licenciado o Graduado en Derecho. |
-| MED-C205: Género y Deporte. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Maestro especialista en educación física. |
+| MED-C205: Género y Deporte. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Maestro especialista en Educación Física. Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
 
 Módulos del bloque específico: Ciclo inicial y finales
 
@@ -41,5 +41,7 @@ Módulos del bloque específico: Ciclo inicial y finales
 | MED-VEAL209: Perfeccionamiento técnico-táctico de la vela con AL. | Técnico Deportivo Superior en Vela con aparejo libre. |
 | MED-VEAL210: Puesta a punto del material de AL. | Técnico Deportivo Superior en Vela con aparejo libre. |
 | MED-VEAL211: Formación práctica. | Técnico Deportivo Superior en Vela con aparejo fijo. Técnico Deportivo Superior en Vela con aparejo libre. |
+
+> Se modifica por el art. 4 del Real Decreto 737/2015, de 31 de julio. Ref. BOE-A-2015-8645
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 245, de 9 de octubre de 2010. Ref. BOE-A-2010-15435
