@@ -1,0 +1,1212 @@
+## ANEXO XIX
+
+## CLASIFICACIÓN DE LAS VARIEDADES DE VID
+
+## Variedades de uva de vinificación
+
+1. Comunidad Autónoma de Andalucía
+
+Provincias: Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga, Sevilla:
+
+Variedades autorizadas:
+
+Airén, B.
+
+Albariño, B.
+
+Bobal, T.
+
+Cabernet Franc, T.
+
+Cabernet Sauvignon, T.
+
+Colombard, B.
+
+Chardonnay, B.
+
+Doradilla, B.
+
+Garnacha Tinta, T.
+
+Garrido Fino, B.
+
+Gewürztraminer, B.
+
+Graciano, T.
+
+Jaén Tinto, T.
+
+Lairen, B.
+
+Listán del Condado, B.
+
+Macabeo, Viura, B.
+
+Malbec, T.
+
+Malvasía Aromática, B.
+
+Mencía, T.
+
+Merlot, T.
+
+Molinera, T.
+
+Mollar Cano, T.
+
+Monastrell, T.
+
+Montúa, Chelva, B.
+
+Moscatel de Alejandría, Moscatel de Málaga, B.
+
+Moscatel de Grano Menudo, Moscatel Morisco, B.
+
+Moscatel Negro, T.
+
+Palomino Fino, Listán Blanco, B.
+
+Palomino, B.
+
+Pardina, Baladí, Baladí Verdejo, Calagraño, Jaén Blanco, B.
+
+Pedro Ximénez, B.
+
+Perruno, B.
+
+Petit Verdot, T.
+
+Pinot Noir, T.
+
+Prieto Picudo, T.
+
+Riesling, B.
+
+Rome, B.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo, T.
+
+Tintilla de Rota, T.
+
+Tinto Velasco, Frasco, T.
+
+Torrontés, B.
+
+Verdejo, B.
+
+Vermentino, B.
+
+Vijariego Blanco, Bigiriego, B.
+
+Viognier, B.
+
+Zalema, B.
+
+2. Comunidad Autónoma de Aragón
+
+Provincias: Huesca, Teruel, Zaragoza:
+
+Variedades autorizadas:
+
+Agudelo, Chenin Blanc, B.
+
+Alarije, Malvasía Riojana, Rojal, B.
+
+Alcañón, B.
+
+Bobal, T.
+
+Cabernet Franc, T.
+
+Cabernet Sauvignon, T.
+
+Chardonnay, B.
+
+Derechero, T.
+
+Garnacha Blanca, B.
+
+Garnacha Peluda, T.
+
+Garnacha Roja, Garnacha Gris, T.
+
+Garnacha Tinta, T.
+
+Garnacha Tintorera, T.
+
+Gewürztraminer, B.
+
+Graciano, T.
+
+Macabeo, Viura, B.
+
+Mazuela, Cariñena, T.
+
+Merlot, T.
+
+Miguel del Arco, T.
+
+Monastrell, T.
+
+Moristel, Juan Ibáñez, Concejón, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Pardina, Robal, B.
+
+Parellada, B.
+
+Parraleta, T.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo, Cencibel, T.
+
+Verdejo, B.
+
+Vidadillo, T.
+
+Xarello, B.
+
+3. Comunidad Autónoma del Principado de Asturias
+
+Variedades autorizadas:
+
+Albarín Blanco, B.
+
+Albillo Mayor, B.
+
+Bruñal, Albarín Tinto, T.
+
+Carrasquín, T.
+
+Garnacha Tintorera, T.
+
+Gewürztraminer, B.
+
+Godello, B.
+
+Mencía, T.
+
+Merlot, T.
+
+Moscatel de Grano Menudo, B.
+
+Picapoll Blanco, Extra, B.
+
+Pinot Noir, T.
+
+Syrah, T.
+
+Verdejo Negro, T.
+
+4. Comunidad Autónoma de Islas Baleares
+
+Variedades autorizadas:
+
+Cabernet Sauvignon, T.
+
+Callet, T.
+
+Chardonnay, B.
+
+Fogoneu, T.
+
+Garnacha Blanca, B.
+
+Garnacha Tinta, T.
+
+Giró Ros, B.
+
+Gorgollassa, T.
+
+Macabeo, Viura, B.
+
+Malvasía Aromática, Malvasía de Banyalbufar, B.
+
+Manto Negro, T.
+
+Merlot, T.
+
+Moll, Pensal Blanca, Prensal, B.
+
+Monastrell, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Parellada, B.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo, T.
+
+Viognier, B.
+
+5. Comunidad Autónoma de Canarias
+
+Provincias: Las Palmas, Santa Cruz de Tenerife:
+
+Variedades autorizadas:
+
+Albillo Criollo, B.
+
+Bastardo Blanco, Baboso Blanco, B.
+
+Bastardo Negro, Baboso Negro, T.
+
+Bermejuela, Marmajuelo, B.
+
+Breval, B.
+
+Burrablanca, B.
+
+Cabernet Sauvignon, T.
+
+Castellana Negra, T.
+
+Doradilla, B.
+
+Forastera Blanca, B.
+
+Gual, B.
+
+Listán Blanco de Canarias, B.
+
+Listán Negro, Almuñeco, T.
+
+Listán Prieto, T.
+
+Malvasía Aromática, B.
+
+Malvasía Rosada, T.
+
+Malvasía Volcánica, B.
+
+Merlot, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel Negro, T.
+
+Negramoll, T.
+
+Pedro Ximénez, B.
+
+Pinot Noir, T.
+
+Ruby Cabernet, T.
+
+Sabro, B.
+
+Syrah, T.
+
+Tempranillo, T.
+
+Tintilla, T.
+
+Torrontés, B.
+
+Verdello, B.
+
+Vijariego Blanco, Diego, B.
+
+Vijariego Negro, T.
+
+6. Comunidad Autónoma de Cantabria
+
+Variedades autorizadas:
+
+Albarín Blanco, B.
+
+Albariño, B.
+
+Cabernet Sauvignon, T.
+
+Carrasquín, T.
+
+Chardonnay, B.
+
+Garnacha Tinta, T.
+
+Gewürztraminer, B.
+
+Godello, B.
+
+Graciano, T.
+
+Hondarrabi Beltza, Ondarrabi Beltza, T.
+
+Hondarrabi Zuri, Ondarrabi Zuri, B.
+
+Mencía, T.
+
+Merlot, T.
+
+Palomino, B.
+
+Riesling, B.
+
+Syrah, T.
+
+Tempranillo, Tinta de Toro, T.
+
+Treixadura, B.
+
+7 Comunidad Autónoma de Castilla-La Mancha
+
+Provincias: Albacete, Ciudad Real, Cuenca, Guadalajara, Toledo:
+
+Variedades autorizadas:
+
+Airén, B.
+
+Alarije, B.
+
+Albariño, B.
+
+Albillo Real, B.
+
+Bobal, T.
+
+Cabernet Franc, T.
+
+Cabernet Sauvignon, T.
+
+Colombard, B.
+
+Coloraillo, T.
+
+Chardonnay, B.
+
+Forcallat Tinta, T.
+
+Garnacha Peluda, T.
+
+Garnacha Tinta, T.
+
+Garnacha Tintorera, T.
+
+Gewürztraminer, B.
+
+Graciano, T.
+
+Macabeo, Viura, B.
+
+Malbec, T.
+
+Malvar, B.
+
+Malvasía Aromática, B.
+
+Mazuela, Cariñena, T.
+
+Mencía, T.
+
+Merlot, T.
+
+Merseguera, B.
+
+Monastrell, T.
+
+Montúa, Chelva, B.
+
+Moravia Agria, T.
+
+Moravia Dulce, Crujidera, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Palomino, B.
+
+Pardillo, Marisancho, B.
+
+Pardina, Jaén Blanco, B.
+
+Parellada, B.
+
+Pedro Ximénez, B.
+
+Petit Verdot, T.
+
+Pinot Noir, T.
+
+Prieto Picudo, T.
+
+Riesling, B.
+
+Rojal Tinta, T.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo, Cencibel, T.
+
+Tinto de la Pámpana Blanca, T.
+
+Tinto Velasco, Frasco, T.
+
+Torrontés, B.
+
+Verdejo, B.
+
+Verdoncho, B.
+
+Viognier, B.
+
+8. Comunidad Autónoma de Castilla y León
+
+Provincias: Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid, Zamora:
+
+Variedades autorizadas:
+
+Alarije, Rojal, Malvasía Riojana, B.
+
+Albarín Blanco, B.
+
+Albariño, B.
+
+Albillo Mayor, B.
+
+Albillo Real, B.
+
+Bruñal, Albarín Tinto, T
+
+Cabernet Sauvignon, T.
+
+Chardonnay, B.
+
+Doña Blanca, Malvasía Castellana, B.
+
+Garnacha Roja, Garnacha Gris, T.
+
+Garnacha Tinta, T.
+
+Garnacha Tintorera, T.
+
+Gewürztraminer, B.
+
+Godello, B.
+
+Graciano, T.
+
+Hondarrabi Beltza, T.
+
+Hondarrabi Zuri, B.
+
+Juan Garcia, Mouratón, T.
+
+Macabeo, Viura, B.
+
+Malbec, T.
+
+Mencía, T.
+
+Merenzao, T.
+
+Merlot, T.
+
+Montúa, Chelva, B.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Palomino, B.
+
+Petit Verdot, T.
+
+Pinot Noir, T.
+
+Prieto Picudo, T.
+
+Riesling, B.
+
+Rufete, T.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo, Tinto Fino, Tinta del País, Tinta de Toro, T.
+
+Treixadura, B.
+
+Verdejo, B.
+
+Viognier, B.
+
+9. Comunidad Autónoma de Cataluña
+
+Provincias: Barcelona, Girona, Lleida, Tarragona:
+
+Variedades autorizadas:
+
+Agudelo, Chenin Blanc, B.
+
+Airén, B.
+
+Alarije, Subirat Parent, B.
+
+Albariño, B.
+
+Bobal, T.
+
+Cabernet Franc, T.
+
+Cabernet Sauvignon, T.
+
+Chardonnay, B.
+
+Garnacha Blanca, Lladoner Blanco, B.
+
+Garnacha Peluda, T.
+
+Garnacha Roja, Garnacha Gris, T.
+
+Garnacha Tinta, Lladoner, T
+
+Garnacha Tintorera, T.
+
+Garro, T.
+
+Gewürztraminer, B.
+
+Godello, B.
+
+Graciano, T.
+
+Macabeo, Viura, B.
+
+Malbec, T
+
+Malvasía Aromática, Malvasía de Sitges, B.
+
+Mazuela, Samsó, T.
+
+Merlot, T.
+
+Merseguera, Sumoll Blanco, B.
+
+Monastrell, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Parellada, Montonec, Montonega, B.
+
+Pedro Ximénez, B.
+
+Petit Verdot, T.
+
+Picapoll Blanco, B.
+
+Picapoll Negro, T.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Sauvignon Blanc, B.
+
+Sumoll Tinto, T.
+
+Syrah, T.
+
+Tempranillo, Ull de Llebre, T.
+
+Trepat, T.
+
+Verdejo, B.
+
+Vinyater, B.
+
+Viognier, B
+
+Xarello, Cartoixa, Pansal, Pansa Blanca, B
+
+10. Comunidad Autónoma de Extremadura
+
+Provincias: Badajoz, Cáceres:
+
+Variedades autorizadas:
+
+Alarije, Subirat parent,B.
+
+Beba, Eva, B.
+
+Bobal, T.
+
+Borba, B.
+
+Cabernet Sauvignon, T.
+
+Cayetana Blanca, B.
+
+Chardonnay, B.
+
+Doña Blanca, Cigüente, B.
+
+Garnacha Tinta, T.
+
+Garnacha Tintorera, T.
+
+Gewürztraminer, B.
+
+Graciano, T.
+
+Jaén Tinto, T.
+
+Macabeo, Viura, B.
+
+Malvar, B.
+
+Mazuela, T.
+
+Merlot, T.
+
+Monastrell, T.
+
+Montúa, Chelva, B.
+
+Morisca, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Pardina, Jaén Blanco, B.
+
+Parellada, B.
+
+Pedro Ximénez, B.
+
+Perruno, B.
+
+Petit Verdot, T.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo, Cencibel, Tinto Fino, T.
+
+Tinto de la Pámpana Blanca, T.
+
+Torrontés, B.
+
+Verdejo, B.
+
+Viognier, B.
+
+Xarello, B.
+
+11 Comunidad Autónoma de Galicia
+
+Provincias: A Coruña, Lugo, Ourense y Pontevedra:
+
+Variedades autorizadas:
+
+Agudelo, Chenin Blanc, B.
+
+Albarín Blanco, Branco Lexítimo, B.
+
+Albariño, B.
+
+Albillo Real, B.
+
+Blanca de Monterrei, B.
+
+Brancellao, T.
+
+Caíño Blanco, B.
+
+Caíño Bravo, T.
+
+Caíño Longo, T.
+
+Caíño Tinto, T.
+
+Castañal, T.
+
+Doña Blanca, Dona Branca, B.
+
+Espadeiro, Torneiro, T.
+
+Ferrón, T.
+
+Garnacha Tintorera, T.
+
+Godello, B.
+
+Gran Negro, T.
+
+Juan García, Mouratón, T.
+
+Lado, B.
+
+Loureira, Loureiro Blanco, Marqués, B.
+
+Loureiro Tinto, T.
+
+Macabeo, Viura, B.
+
+Mencía, T.
+
+Merenzao, María Ordoña, T.
+
+Palomino, B.
+
+Pedral, Dozal, T.
+
+Sousón, T.
+
+Tempranillo, T.
+
+Torrontés, B.
+
+Treixadura, B.
+
+12. Comunidad Autónoma de Madrid
+
+Variedades autorizadas:
+
+Airén, B.
+
+Albillo Real, B.
+
+Cabernet Sauvignon, T.
+
+Garnacha Tinta, T.
+
+Garnacha Tintorera, T.
+
+Graciano, T.
+
+Macabeo, Viura, B.
+
+Malvar, B.
+
+Merlot, T.
+
+Monastrell, T.
+
+Moscatel de Grano Menudo, B.
+
+Pardina, Jaén Blanco, B.
+
+Parellada, B.
+
+Petit Verdot, T.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo, Cencibel, Tinto Fino, T.
+
+Torrontés, B.
+
+13. Comunidad Autónoma de la Región de Murcia
+
+Variedades autorizadas:
+
+Airén, B.
+
+Bonicaire, T.
+
+Cabernet Franc, T.
+
+Cabernet Sauvignon, T.
+
+Chardonnay, B.
+
+Forcallat Blanca, B.
+
+Forcallat Tinta, T.
+
+Garnacha Tinta, T.
+
+Garnacha Tintorera, T.
+
+Gewürztraminer, B.
+
+Graciano, T.
+
+Macabeo, Viura, B.
+
+Malvasía Aromática, Malvasía de Sitges, B.
+
+Mencía, T.
+
+Merlot, T.
+
+Merseguera, B.
+
+Monastrell, T.
+
+Moravia Dulce, Crujidera, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Pedro Ximénez, B.
+
+Petit Verdot, T.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Rojal Tinta, T.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo, Cencibel, T.
+
+Verdejo, B.
+
+Verdil, B.
+
+Viognier, B.
+
+14. Comunidad Autónoma de Navarra
+
+Variedades autorizadas:
+
+Alarije, Malvasía Riojana, B.
+
+Albariño,B.
+
+Albillo Mayor, Turruntés, B.
+
+Bobal, T.
+
+Cabernet Franc,T.
+
+Cabernet Sauvignon, T.
+
+Chardonnay, B.
+
+Garnacha Blanca, B.
+
+Garnacha Tinta, T.
+
+Gewürztraminer, B.
+
+Graciano, T.
+
+Gros Manseng, B.
+
+Hondarrabi Zuri, B.
+
+Macabeo, Viura, B.
+
+Malbec,T.
+
+Maturana Blanca, B.
+
+Maturana Tinta, T.
+
+Mazuela, Mazuelo, T.
+
+Merlot, T.
+
+Monastrell, T.
+
+Moscatel de Grano Menudo, B.
+
+Parellada, B.
+
+Petit Courbu, B.
+
+Petit Manseng, B.
+
+Petit Verdot,T.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Sauvignon Blanc, B.
+
+Syrah, T.
+
+Tempranillo Blanco, B.
+
+Tempranillo, T.
+
+Verdejo, B.
+
+Viognier, B.
+
+Xarello, B.
+
+15. Comunidad Autónoma del País Vasco
+
+Provincias: Álava, Guipúzkoa, Bizkaia:
+
+Variedades autorizadas:
+
+Alarije, Malvasía Riojana, B.
+
+Albillo Mayor, Turruntés, B.
+
+Cabernet Sauvignon, T.
+
+Chardonnay, B.
+
+Folle Blanche, B.
+
+Garnacha Blanca, B.
+
+Garnacha Tinta, T.
+
+Graciano, T.
+
+Gros Manseng, B.
+
+Hondarrabi Beltza, Ondarrabi Beltza, T.
+
+Hondarrabi Zuri, Ondarrabi Zuri, B.
+
+Macabeo, Viura, B.
+
+Maturana Blanca, B.
+
+Maturana Tinta, T.
+
+Mazuela, Mazuelo, T.
+
+Monastrell, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Parellada, B.
+
+Petit Courbu, B.
+
+Petit Manseng, B.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Sauvignon Blanc, B.
+
+Tempranillo Blanco, B.
+
+Tempranillo, T.
+
+Verdejo, B.
+
+Xarello, B.
+
+16. Comunidad Autónoma de La Rioja
+
+Variedades autorizadas:
+
+Alarije, Malvasía Riojana, B.
+
+Albariño, B.
+
+Albillo Mayor, Turruntés, B.
+
+Chardonnay, B.
+
+Garnacha Blanca, B.
+
+Garnacha Tinta, T.
+
+Gewürztraminer, B.
+
+Graciano, T.
+
+Hondarrabi Zuri, B.
+
+Macabeo, Viura, B.
+
+Maturana Blanca, B.
+
+Maturana Tinta, T.
+
+Mazuela, Mazuelo, T.
+
+Monastrell, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Parellada, B.
+
+Pinot Noir, T.
+
+Riesling, B.
+
+Sauvignon Blanc, B.
+
+Tempranillo Blanco, B.
+
+Tempranillo, T.
+
+Verdejo, B.
+
+Viognier, B.
+
+Xarello, B.
+
+17. Comunidad Valenciana
+
+Provincias: Alicante, Castellón, Valencia:
+
+Variedades autorizadas:
+
+Airén, B.
+
+Alarije, Malvasía Riojana, Subirat Parent, B.
+
+Albariño, B.
+
+Bobal, T.
+
+Bonicaire, Embolicaire, T.
+
+Cabernet Franc, T.
+
+Cabernet Sauvignon, T.
+
+Chardonnay, B.
+
+Forcallat Blanca, B.
+
+Forcallat Tinta, T.
+
+Garnacha Blanca, B.
+
+Garnacha Tinta, Gironet, T.
+
+Garnacha Tintorera, T.
+
+Gewürztraminer, B.
+
+Graciano, T.
+
+Macabeo, Viura, B.
+
+Malbec, T.
+
+Marselan, T.
+
+Mazuela, T.
+
+Mencía, T.
+
+Merlot, T.
+
+Merseguera, Exquitsagos, Verdosilla, B.
+
+Monastrell, T.
+
+Moscatel de Alejandría, B.
+
+Moscatel de Grano Menudo, B.
+
+Parellada, B.
+
+Pedro Ximénez, B.
+
+Petit Verdot, T.
+
+Pinot Noir, T.
+
+Planta Fina de Pedralba, B.
+
+Planta Nova, Tardana, B.
+
+Prieto Picudo, T.
+
+Riesling, B.
+
+Sauvignon Blanc, B.
+
+Semillon, B.
+
+Syrah, T.
+
+Tempranillo, Cencibel, Tinto Fino, T.
+
+Tortosí, B.
+
+Trepat,T.
+
+Verdejo, B.
+
+Verdil, B.
+
+Viognier, B.
+
+Xarello, B.
+
+## Variedades de portainjertos
+
+Todas las Comunidades Autónomas
+
+Variedades recomendadas:
+
+|  | Sinónimos |
+| --- | --- |
+| 1 Blanchard = Berlandieri x Colombard | BCI |
+| 196-17 Castel=1203 Couderc (Mourviedro x Rupestris Martin) x Riparia Gloria | 196-17 CL |
+| 6736 Castel = Riparia x Rupestris de Lot | 6 736 CL |
+| 161-49 Couderc = Riparia x Berlandieri | 161-49 C |
+| 1616 Couderc = Solonis x Riparia | 1616 C |
+| 3 309 Couderc = Riparia Tomentosa x Rupestris Martín | 3 309 C |
+| 333 Escuela Montpellier = Cabernet Sauvignon x Berlandieri | 333 EM |
+| 13-5 E.V.E. Jerez = Descendencia de Berlandieri Resseguier n.º 2 | 13-5 EVEX |
+| Fercal | – |
+| 5 A Martínez Zaporta = Autofecundación de 41-B | 5A MZ |
+| 41 B Millardet-Grasset = Chasselas x Berlandieri | 41B M |
+| 420 Millardet-Grasset = Berlandieri Grasset x Riparia | 420A M |
+| 19-62 Millardet-Grasset = Malbec x Berlandieri | 19-62 M |
+| 101-14 Millardet-Grasset, (6) | 101-14M |
+| 1 103 Paulsen = Berlandieri Resseguier n.º 2 x Rupestris de Lot | 1 103 P |
+| 31 Richter = Berlandieri Resseguier n.º 2 x Novo Mexicana | 31 R |
+| 99 Richter = Berlandieri Las Sorres x Rupestres de Lot | 99 R |
+| 110 Richter = Berlandieri Resseguier n.º 2 x Rupestres Martín | 110 R |
+| 140 Ruggeri = Berlandieri Resseguier n.º 2 x Rupestris de Lot | 140 Ru |
+| 5 BB Teleki-Kober = Berlandieri x Riparia | 5 BB T |
+| Selección Oppenheim del Teleki n.º 4 = Berlandieri x Riparia | SO4 |
+| Rupestris du Lot | R de Lot.» |

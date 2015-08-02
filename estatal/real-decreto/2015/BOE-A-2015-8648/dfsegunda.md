@@ -1,0 +1,5 @@
+## Disposición final segunda. Título competencial.
+
+1. Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+2. No tendrán carácter básico los artículos 9.1, 14.3, 15.5, 20.2 y 22.5 ni los anexos II y V a VIII, en lo relativo a los modelos que establecen, pudiendo las Comunidades Autónomas establecer los suyos propios, si bien en este último caso, en dichos modelos se incluirán, al ser básicos, los datos que figuran en los anexos del presente real decreto, y las aplicaciones informáticas de dichos modelos deberán posibilitar que la parte referida a los datos mínimos de los anexos del presente real decreto sea accesible y reusable mediante sistemas entendibles por máquinas conforme a los protocolos y estándares de interoperabilidad que apruebe el Ministerio de Agricultura, Alimentación y Medio Ambiente, corriendo los costes de la interoperabilidad a cargo de las comunidades autónomas de que se trate.
