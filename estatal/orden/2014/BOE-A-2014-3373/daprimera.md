@@ -54,4 +54,6 @@ b) A las facturas, electrónicas y en papel, emitidas por los proveedores a los 
 
 7. Fichero de Protección de Datos.
 
-En cumplimiento de lo previsto en el artículo 20 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, se crea el fichero de datos personales, «Registro contable de facturas de la AGE», cuya titularidad corresponde a la Intervención General de la Administración del Estado, válido a efectos del ejercicio por parte de los ciudadanos de los derechos previstos por dicha ley. El contenido del fichero se recoge en el anexo de la presente Orden.
+En cumplimiento de lo previsto en el artículo 20 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, se crea el fichero de datos personales, «Registro Contable de Facturas de la AGE», cuya titularidad corresponde a la Intervención General de la Administración del Estado, válido a efectos del ejercicio por parte de los ciudadanos de los derechos previstos por dicha ley. El contenido del fichero se recoge en el anexo I de la presente Orden.
+
+> Se modifica el apartado 7 por el art. 1.2 de la Orden HAP/1650/2015, de 31 de julio. Ref. BOE-A-2015-8844.

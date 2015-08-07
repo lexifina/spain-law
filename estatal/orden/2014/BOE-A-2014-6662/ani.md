@@ -1,4 +1,4 @@
-## ANEXO
+## ANEXO I
 
 ## Campos factura
 
@@ -6,7 +6,7 @@
 
 2. Dentro del documento de factura electrónica será obligatorio, para la correcta remisión de la factura al órgano destinatario final, informar del órgano gestor, la unidad tramitadora y la oficina contable destinatarios. Y opcionalmente, del órgano proponente.
 
-Las unidades deberán ir codificadas bajo la etiqueta de centros administrativos del «<BuyerParty>» de la factura
+Las unidades deberán ir codificadas bajo la etiqueta de centros administrativos del «» de la factura
 
 | ROL | RoleTypeCode | CentreCode | Descripción | Tipo |
 | --- | --- | --- | --- | --- |
@@ -15,8 +15,10 @@ Las unidades deberán ir codificadas bajo la etiqueta de centros administrativos
 | Pagador | 03 | Código de la unidad en DIRECTORIO | Unidad Tramitadora | Obligatorio |
 | Comprador | 04 | Código de la unidad en DIRECTORIO | Órgano proponente | Opcional |
 
-El código del centro <CentreCode> será el código de dicha unidad en el sistema «Directorio Común de Unidades Orgánicas y Oficinas DIR3» recogido en el artículo 9 del Esquema Nacional de Interoperabilidad (Real Decreto 4/2010).
+El código del centro será el código de dicha unidad en el sistema «Directorio Común de Unidades Orgánicas y Oficinas DIR3» recogido en el artículo 9 del Esquema Nacional de Interoperabilidad (Real Decreto 4/2010).
 
 Ejemplo de XML todos los roles de centros administrativos rellenos:
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/154/06662_001.png)
+
+> Se renumera por el art. 2.7 de la Orden HAP/1650/2015, de 31 de julio. Ref. BOE-A-2015-8844.

@@ -1,4 +1,4 @@
-## ANEXO
+## ANEXO I
 
 ## Fichero de datos de carácter personal
 
@@ -63,3 +63,5 @@ Transferencias internacionales previstas a terceros países, con indicación, en
 Servicios o unidades ante los que pueden ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Subdirección General de Gestión Contable de la Intervención General de la Administración del Estado del Ministerio de Hacienda y Administraciones Públicas, calle María de Molina, número 50, 28071, Madrid.
 
 Nivel básico, medio o alto de seguridad: Nivel básico.
+
+> Se renumera por el art. 1.3 de la Orden HAP/1650/2015, de 31 de julio. Ref. BOE-A-2015-8844.
