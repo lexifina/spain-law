@@ -951,6 +951,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 776](a776.md)
 - [Artículo 777](a777.md)
 - [Artículo 778](a778.md)
+- [Artículo 778 bis](a778bis.md)
+- [Artículo 778 ter](a778ter.md)
 - [CAPÍTULO IV BIS](civbis.md)
 - [Artículo 778 quáter](a778quater.md)
 - [Artículo 778 quinquies](a778quinquies.md)
