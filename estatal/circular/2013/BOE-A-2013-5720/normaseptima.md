@@ -18,10 +18,12 @@ d) Parte 4, Datos de los riesgos directos asumidos por los cesionarios: esta par
 
 B) Datos dinámicos de los riesgos indirectos:
 
-4. El módulo C.2, Datos dinámicos de los riesgos indirectos, se enviará para declarar los importes que hayan garantizado o comprometido cada uno de los titulares de riesgos indirectos de las operaciones vivas a final de mes, excepto los importes de las operaciones de arrendamiento financiero que se hayan comprometido a pagar terceros para adquirir los activos cedidos cuando no lo hagan los arrendatarios, que se declararán en el módulo H.3, Datos dinámicos complementarios de los préstamos, y los garantizados por las partes que venden protección en las operaciones titulizadas sintéticamente.
+4. El módulo C.2, Datos dinámicos de los riesgos indirectos, se enviará para declarar los importes que hayan garantizado o comprometido cada uno de los titulares de riesgos indirectos de las operaciones vivas a final de mes, excepto los importes de las operaciones de arrendamiento financiero que se hayan comprometido a pagar terceros para adquirir los activos cedidos cuando no lo hagan los arrendatarios y los garantizados por las partes que venden protección en las operaciones titulizadas sintéticamente.
 
 5. El módulo C.2 tiene las siguientes partes:
 
 a) Parte 1, Datos de los riesgos indirectos asumidos por la entidad declarante: en esta parte se declaran los importes de las operaciones garantizados por cada uno de los titulares de riesgo indirecto que correspondan al riesgo que asume la entidad declarante en las operaciones.
 
 b) Parte 2, Datos de los riesgos indirectos asumidos por los cesionarios: en esta parte se declararán los importes de las operaciones garantizados por cada uno de los titulares de riesgo indirecto que correspondan al riesgo asumido por los cesionarios como consecuencia de transferencias de activos en las que la entidad continúe con la gestión frente a los titulares.
+
+> Se modifica el apartado 4 por la norma 2.5 de la Circular 3/2015, de 29 de julio. Ref. BOE-A-2015-9054.

@@ -56,7 +56,7 @@ j) En los préstamos de valores, las contrapartes a las que se prestan los valor
 
 k) En las operaciones subvencionadas, las personas que subvencionan el principal o el interés por el importe que subvencionan.
 
-5. Los titulares de riesgos, directos e indirectos, se declararán de forma individualizada a la CIR, cualquiera que sea el importe de su riesgo en la entidad declarante, excepto cuando sus operaciones sean declarables de forma agregada, conforme a lo dispuesto en la norma segunda, apartado 3. Excepcionalmente, se podrán excluir de la declaración del riesgo indirecto a nombre de un titular los efectos en los que haya comprometido su firma, siempre que su importe sea inferior a 6.000 euros y formen parte de una operación de crédito comercial con recurso.
+5. Los titulares de riesgos, directos e indirectos, se declararán de forma individualizada a la CIR, cualquiera que sea el importe de su riesgo en la entidad declarante, excepto cuando sus operaciones no sean declarables, conforme a lo dispuesto en la norma segunda, apartado 3. Excepcionalmente, se podrán excluir de la declaración del riesgo indirecto a nombre de un titular los efectos en los que haya comprometido su firma, siempre que su importe sea inferior a 6.000 euros y formen parte de una operación de crédito comercial con recurso.
 
 Los datos de los titulares, incluidos los de sus operaciones, cuyo riesgo acumulado en la entidad declarante sea inferior a 9.000 euros se declaran exclusivamente con la finalidad prevista en el artículo 60, apartado cuarto, letra a), de la Ley 44/2002. A estos efectos, el riesgo acumulado es el importe de las operaciones en las que la persona intervenga como titular de riesgo, directo o indirecto, con las siguientes precisiones:
 
@@ -95,6 +95,8 @@ g) Las entidades que actúan como agentes en los préstamos sindicados.
 h) Las entidades declarantes a la CIR con las que se tengan operaciones con códigos vinculados.
 
 i) Las entidades emisoras de instrumentos financieros adquiridos temporalmente, recibidos en garantía de operaciones o prestados a terceros.
+
+> Se modifica el primer párrafo del apartado 5 por la norma 2.3 de la Circular 3/2015, de 29 de julio. Ref. BOE-A-2015-9054.
 
 > Se modifica el primer párrafo del apartado 2 y la letra d) del apartado 4 por la norma 3.2 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365.
 

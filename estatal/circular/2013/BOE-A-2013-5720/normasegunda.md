@@ -54,13 +54,7 @@ b) Riesgos indirectos: Los riesgos contraídos con los garantes, vendedores de p
 
 3. Los riesgos declarables se deben declarar de forma individualizada a la CIR, es decir, operación a operación. Para ello, las entidades declarantes asignarán a cada operación –o a cada parte en la que se tenga que dividir conforme a lo dispuesto en la norma tercera, apartado 3– un código único que se debe mantener invariable durante su vida, salvo que por motivos de gestión interna fuese necesario modificarlo, en cuyo caso se comunicará dicha circunstancia conforme a lo dispuesto en la norma undécima, letra A). Dicho código no se podrá reutilizar en el futuro para declarar otras operaciones.
 
-No obstante lo indicado en el párrafo anterior, las operaciones se declararán de forma agregada, conforme a lo dispuesto en la norma decimotercera, letra A), cuando se trate de préstamos a plazo (siempre que su finalidad sea el consumo, su importe al inicio de la operación no supere los 3.000 euros y su plazo original sea igual o inferior a doce meses), factoring sin recurso cuyo límite acumulado por deudor no supere los 3.000 euros, tarjetas de crédito, descubiertos, anticipos de pensiones o nóminas o resto de los préstamos a la vista, y, además, todos los titulares cumplan los siguientes criterios:
-
-> Téngase en cuenta que esta última actualización del párrafo segundo del apartado 3 establecida por la norma 3.1.b) de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
-
-> Redacción anterior:
-
-> "No obstante lo indicado en el párrafo anterior, las operaciones se declararán de forma agregada, conforme a lo dispuesto en la norma decimotercera, letra A), cuando se trate de préstamos a plazo (siempre que su finalidad sea el consumo, su importe al inicio de la operación no supere los 3.000 euros y su plazo original sea igual o inferior a doce meses), tarjetas de crédito, descubiertos, anticipos de pensiones o nóminas o resto de préstamos a la vista, y, además, todos los titulares cumplan los siguientes criterios:"
+No obstante lo indicado en el párrafo anterior, no se declararán de forma individualizada las operaciones cuando se trate de préstamos a plazo (siempre que su finalidad sea el consumo, su importe al inicio de la operación no supere los 3.000 euros y su plazo original sea igual o inferior a veinticuatro meses), factoring sin recurso cuyo límite acumulado por deudor no supere los 3.000 euros, tarjetas de crédito, descubiertos, anticipos de pensiones o nóminas, o resto de préstamos a la vista, y, además, todos los titulares cumplan los siguientes criterios:
 
 a) pertenezcan al sector hogares o sean sociedades no financieras, o instituciones sin fines de lucro al servicio de los hogares, en las que no participen, en su capital o vía derechos de voto, entidades que tengan la consideración de sector público español, conforme a lo dispuesto en el artículo 2 de la Ley Orgánica 2/2012, de 27 de abril, de estabilidad presupuestaria y sostenibilidad financiera;
 
@@ -79,5 +73,7 @@ Por su parte, las sociedades de reafianzamiento no declararán las operaciones e
 6. Los préstamos y valores representativos de deuda impagados continuarán declarándose a la CIR hasta la extinción de todos los derechos de la entidad (por prescripción, por condonación o por otras causas) o hasta su recuperación.
 
 > Téngase en cuenta que el apartado 6 añadido por la norma 3.1.c) de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
+
+> Se modifica el párrafo 2 del apartado 3 por la norma 2.2 de la Circular 3/2015, de 29 de julio. Ref. BOE-A-2015-9054.
 
 > Se modican los apartados 1.a).ii) y iv), párrafo segundo del 3 y se añade un 6 por la norma 3.1 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365.
