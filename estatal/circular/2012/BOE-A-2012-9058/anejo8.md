@@ -22,15 +22,13 @@ nb, nca = El número de bancos y cajas de ahorros declarantes.
 
 Para el cálculo de este índice no se tendrán en cuenta los tipos de interés comunicados por las cajas de ahorros que no ejerzan directamente la actividad financiera.
 
-2. Tipo medio de los préstamos hipotecarios entre uno y cinco años, para adquisición de vivienda libre, concedidos por las entidades de crédito en la zona del euro
+2. Tipo medio de los préstamos hipotecarios entre uno y cinco años, para adquisición de vivienda libre, concedidos por las entidades de crédito en la zona del euro.
 
 Se define como la media aritmética ponderada por el volumen de operaciones de los tipos de interés aplicados a las nuevas operaciones de préstamo o crédito a la vivienda en las que se prevea un período de fijación del tipo de interés inicial de entre uno y cinco años, realizadas en euros con los hogares residentes en la zona del euro durante el mes de referencia, que será el segundo mes anterior a aquel en el que tenga lugar la publicación de dicho valor.
 
-Esta media será la calculada por el Banco Central Europeo conforme a lo establecido en el Reglamento (CE) n.º 63/2002 del Banco Central Europeo, de 20 de diciembre de 2001, sobre las estadísticas de los tipos de interés que las instituciones financieras monetarias aplican a los depósitos y préstamos frente a los hogares y las sociedades no financieras, publicada en el «Boletín Mensual» de dicha institución, bajo la rúbrica «Lending for house purchase; By initial rate fixation; Over 1 and up to 5 years», del cuadro 2 «Interest rates on loans to households (new business)», del apartado 4.5 «MFI Interest rates on euro-denominated deposits from and loans to euro area residents», que figura en el punto 4 «Financial Markets» del capítulo «Euro Area Statistics» de dicho Boletín.
+Esta media será la calculada por el Banco Central Europeo conforme a lo establecido en el Reglamento (CE) n.º 63/2002 del Banco Central Europeo, de 20 de diciembre de 2001, sobre las estadísticas de los tipos de interés que las instituciones financieras monetarias aplican a los depósitos y préstamos frente a los hogares y las sociedades no financieras, publicada por el Banco Central Europeo en su página web o, en ausencia de dicha publicación, en cualquier medio electrónico o físico por el que difunda dicha información.
 
-En caso de que el día 16 de cada mes no hubiera tenido aún lugar la publicación del citado «Boletín Mensual», se tomará como valor de la media aritmética antes definida el que el Banco Central difunda en la nota de prensa «Estadísticas de los tipos de interés aplicados por las IFM de la zona del euro» publicada dicho mes. Este valor será el recogido en la tabla 4 «Tipos de interés aplicados por las IFM a los nuevos préstamos y créditos denominados en euros concedidos a los hogares de la zona euro», para los «Préstamos y créditos a los hogares. Crédito para adquisición de vivienda. Más de un año y hasta cinco años de fijación del tipo inicial».
-
-El índice publicado en la Resolución del Banco de España no se corregirá incluso en el caso de que el Banco Central Europeo modificara posteriormente el tipo que hubiese publicado inicialmente.
+El índice publicado en la Resolución del Banco de España no se corregirá incluso en caso de que el Banco Central Europeo modificara posteriormente el tipo que hubiese publicado inicialmente.
 
 3. Tipo de rendimiento interno en el mercado secundario de la deuda pública de plazo entre dos y seis años
 
@@ -123,3 +121,5 @@ n = El número de operaciones cruzadas en el día
 IDI = El tipo míbor a un año
 
 t = El número de días hábiles en el mercado interbancario
+
+> Se modifica el apartado 2 por la norma 3 de la Circular 4/2015, de 29 de julio. Ref. BOE-A-2015-9107.
