@@ -1,0 +1,7 @@
+## Artículo 179 sexies. Abono de las pensiones de orfandad, en determinados supuestos.
+
+En el caso de que los hijos de quien fuera condenado por sentencia firme por la comisión de un delito doloso de homicidio en cualquiera de sus formas, en los términos señalados en el artículo 179 ter, siendo menores de edad o personas con capacidad judicialmente modificada, fueran beneficiarios de pensión de orfandad causada por la víctima, dicha pensión no le será abonable a la persona condenada.
+
+En todo caso, la Entidad Gestora pondrá en conocimiento del Ministerio Fiscal la existencia de la pensión de orfandad, así como toda resolución judicial de la que se deriven indicios racionales de que el progenitor es responsable de un delito doloso de homicidio para que, en cumplimiento de lo dispuesto en el artículo 158 del Código Civil, proceda, en su caso, a instar la adopción de las medidas oportunas en relación con la persona física o institución tutelar del menor o persona con capacidad judicialmente modificada a las que debe abonarse la pensión de orfandad. Adoptadas dichas medidas con motivo de dicha situación procesal, la Entidad Gestora, cuando así proceda, comunicará también al Ministerio Fiscal la resolución por la que se ponga fin al proceso y la firmeza o no de la resolución judicial en que se acuerde.
+
+> Se añade por la disposición final 10.4 de la Ley 26/2015, de 28 de julo. Ref. BOE-A-2015-8470#dfdecima.

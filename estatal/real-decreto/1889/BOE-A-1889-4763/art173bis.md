@@ -1,13 +1,15 @@
 ## Artículo 173 bis.
 
-El acogimiento familiar, podrá adoptar las siguientes modalidades atendiendo a su finalidad:
+1. El acogimiento familiar podrá tener lugar en la propia familia extensa del menor o en familia ajena, pudiendo en este último caso ser especializado.
 
-1.º Acogimiento familiar simple, que tendrá carácter transitorio, bien porque de la situación del menor se prevea la reinserción de éste en su propia familia bien en tanto se adopte una medida de protección que revista un carácter más estable.
+2. El acogimiento familiar podrá adoptar las siguientes modalidades atendiendo a su duración y objetivos:
 
-2.º Acogimiento familiar permanente, cuando la edad u otras circunstancias del menor y su familia así lo aconsejen y así lo informen los servicios de atención al menor. En tal supuesto, la entidad pública podrá solicitar del Juez que atribuya a los acogedores aquellas facultades de la tutela que faciliten el desempeño de sus responsabilidades, atendiendo en todo caso al interés superior del menor.
+a) Acogimiento familiar de urgencia, principalmente para menores de seis años, que tendrá una duración no superior a seis meses, en tanto se decide la medida de protección familiar que corresponda.
 
-3.º Acogimiento familiar preadoptivo, que se formalizará por la entidad pública cuando ésta eleve la propuesta de adopción del menor, informada por los servicios de atención al menor, ante la autoridad judicial, siempre que los acogedores reúnan los requisitos necesarios para adoptar, hayan sido seleccionados y hayan prestado ante la entidad pública su consentimiento a la adopción, y se encuentre el menor en situación jurídica adecuada para su adopción.
+b) Acogimiento familiar temporal, que tendrá carácter transitorio, bien porque de la situación del menor se prevea la reintegración de éste en su propia familia, o bien en tanto se adopte una medida de protección que revista un carácter más estable como el acogimiento familiar permanente o la adopción. Este acogimiento tendrá una duración máxima de dos años, salvo que el interés superior del menor aconseje la prórroga de la medida por la previsible e inmediata reintegración familiar, o la adopción de otra medida de protección definitiva.
 
-La entidad pública podrá formalizar, asimismo, un acogimiento familiar preadoptivo cuando considere, con anterioridad a la presentación de la propuesta de adopción, que fuera necesario establecer un período de adaptación del menor a la familia. Este período será lo más breve posible y, en todo caso, no podrá exceder del plazo de un año.
+c) Acogimiento familiar permanente, que se constituirá bien al finalizar el plazo de dos años de acogimiento temporal por no ser posible la reintegración familiar, o bien directamente en casos de menores con necesidades especiales o cuando las circunstancias del menor y su familia así lo aconsejen. La Entidad Pública podrá solicitar del Juez que atribuya a los acogedores permanentes aquellas facultades de la tutela que faciliten el desempeño de sus responsabilidades, atendiendo, en todo caso, al interés superior del menor.
+
+> Se modifica por el art. 2.17 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#asegundo.
 
 > Se añade por la disposición final 7 de la Ley Orgánica 1/1996, de 15 de enero. Ref. BOE-A-1996-1069.

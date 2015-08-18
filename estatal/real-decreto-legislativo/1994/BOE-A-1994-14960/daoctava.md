@@ -1,6 +1,6 @@
 ## Disposición adicional octava. Normas de desarrollo y aplicación a Regímenes Especiales.
 
-1. Será de aplicación a todos los regímenes que integran el sistema de la Seguridad Social lo dispuesto en los artículos 137, apartados 2 y 3; 138; 140, apartados 1, 2 y 3; 143; 161, apartados 1, 2 y 3; 161 bis, apartado 1 y apartado 2. B); 162, apartados 1.1, 2, 3, 4 y 5; 163; 165; 174; 174 bis; 175; 176, apartado 4; 177, apartado 1, segundo párrafo; y 179. Igualmente serán de aplicación las normas sobre las prestaciones familiares contenidas en el Capítulo IX del Título II; las disposiciones adicionales séptima bis y cuadragésima tercera y quincuagésima novena y las disposiciones transitorias cuarta, párrafo primero, quinta, apartado 1, quinta bis, sexta bis y decimosexta.
+1. Será de aplicación a todos los regímenes que integran el sistema de la Seguridad Social lo dispuesto en los artículos 137, apartados 2 y 3; 138; 140, apartados 1, 2 y 3; 143; 161, apartados 1, 2 y 3; 161 bis, apartado 1 y apartado 2. B); 162, apartados 1.1, 2, 3, 4 y 5; 163; 165; 174; 174 bis; 175; 176, apartado 4; 177, apartado 1, segundo párrafo; 179, 179 ter, 179 quáter, 179 quinquies y 179 sexies. Igualmente, serán de aplicación las normas sobre las prestaciones familiares contenidas en el capítulo IX del título II; las disposiciones adicionales séptima bis, cuadragésima tercera y quincuagésima novena y las disposiciones transitorias quinta, apartado 1, quinta bis, sexta bis y decimosexta.
 
 No obstante lo dispuesto en el párrafo anterior, se exceptúa la aplicación a los regímenes especiales de lo previsto en el artículo 138 en el último párrafo de su apartado 2, así como lo regulado por su apartado 5.
 
@@ -13,6 +13,10 @@ No obstante lo dispuesto en el párrafo anterior, se exceptúa la aplicación a 
 5. Lo previsto en el último párrafo del apartado 2 y en el apartado 4 del artículo 139 será de aplicación a todos los regímenes que integran el sistema de la Seguridad Social. A efectos de determinar el importe mínimo de la pensión y del cálculo del complemento a que se refieren, respectivamente, dichos apartados se tomará en consideración como base mínima de cotización la vigente en cada momento en el Régimen General, cualquiera que sea el régimen con arreglo a cuyas normas se reconozcan las pensiones de incapacidad permanente total y de gran invalidez.
 
 6. No obstante lo indicado en los apartados precedentes, lo dispuesto en el artículo 166.3, en lo que se refiere a la reducción del 0,50 por 100 prevista en su segundo inciso, y la escala de edades incluida en el artículo 166.2 a) no será de aplicación a los trabajadores a que se refiere la norma 2.ª de la disposición transitoria tercera del Decreto 1867/1970, de 9 de julio, por el que se aprueba el Reglamento General de la Ley 116/1969, de 30 de diciembre, por el que se regula el Régimen Especial de la Seguridad Social de los Trabajadores del Mar.
+
+> Téngase en cuenta que se declara la inconstitucionalidad y nulidad del apartado 6, con los efectos indicados en el fundamento jurídico 11, añadido por la disposición final 1.3 del Real Decreto-ley 5/2013, de 15 de marzo, por Sentencia del TC 61/2018, de 7 de junio. Ref. BOE-A-2018-9537
+
+> Se modifica el apartado 1 por la disposición final 10.5 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#dfdecima.
 
 > Se añade el apartado 6 por la disposición final 1.3 del Real Decreto-ley 5/2013, de 15 de marzo. Ref. BOE-A-2013-2874.
 

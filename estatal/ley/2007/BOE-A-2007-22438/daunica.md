@@ -1,3 +1,5 @@
 ## Disposición adicional única. Entidades Públicas de Protección de Menores.
 
-Las Entidades Públicas de Protección de Menores mencionadas en esta Ley son las designadas por las Comunidades Autónomas y las Ciudades de Ceuta y Melilla, de acuerdo con sus respectivas normas de organización.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#atercero.

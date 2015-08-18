@@ -1,0 +1,3 @@
+## Disposición final decimocuarta. Eficacia en la aplicación de las modificaciones legales.
+
+Las modificaciones introducidas en la Ley General de la Seguridad Social, en la ley de Clases Pasivas del Estado, en la Ley de Enjuiciamiento Criminal y en la Ley reguladora de la Jurisdicción Social por medio de las disposiciones finales décima a decimotercera de la presente Ley, serán de aplicación a los hechos causantes de las prestaciones del sistema de la Seguridad Social y del Régimen especial de Clases Pasivas del Estado producidos a partir de la fecha de su entrada en vigor, siempre que los hechos delictivos hayan ocurrido, asimismo, a partir de la misma fecha.

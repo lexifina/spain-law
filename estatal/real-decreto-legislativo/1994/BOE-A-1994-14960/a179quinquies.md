@@ -1,0 +1,13 @@
+## Artículo 179 quinquies. Incremento de las pensiones de orfandad y en favor de familiares, en determinados supuestos.
+
+1. Cuando, a tenor de lo establecido en el artículo 179 ter, el condenado por sentencia firme por la comisión de un delito doloso de homicidio en cualquiera de sus formas no pudiese adquirir la condición de beneficiario de la pensión de viudedad, o la hubiese perdido, los hijos del mismo que sean titulares de la pensión de orfandad causada por la víctima del delito tendrán derecho al incremento previsto reglamentariamente para los casos de orfandad absoluta.
+
+Los titulares de la pensión en favor de familiares podrán, en esos mismos supuestos, ser beneficiarios del incremento previsto reglamentariamente, siempre y cuando no haya otras personas con derecho a pensión de muerte y supervivencia causada por la víctima.
+
+2. Los efectos económicos del citado incremento se retrotraerán a la fecha de efectos del reconocimiento inicial de la pensión de orfandad o en favor de familiares, cuando no se hubiera reconocido previamente la pensión de viudedad a quien resulte condenado por sentencia firme. En otro caso, dichos efectos económicos se iniciarán a partir de la fecha en que hubiera cesado el pago de la pensión de viudedad, como consecuencia de la revisión de su reconocimiento por la Entidad gestora conforme a lo previsto en el artículo 179 ter o, en su caso, a partir de la fecha de la suspensión cautelar contemplada en el artículo 179 quáter.
+
+En todo caso, el abono del incremento de la pensión de orfandad o en favor de familiares por los períodos en que el condenado hubiera percibido la pensión de viudedad solo podrá llevarse a cabo una vez que este haga efectivo su reintegro, sin que la Entidad Gestora, de no producirse el reintegro, sea responsable subsidiaria ni solidaria del abono al pensionista de orfandad o en favor de familiares del incremento señalado, ni venga obligada a su anticipo.
+
+De las cantidades que correspondan en concepto de incremento de la pensión de orfandad o en favor de familiares se descontará, en su caso, el importe que por alimentos hubiera percibido su beneficiario a cargo de la pensión de viudedad suspendida, conforme a lo dispuesto en el artículo 179 quáter.
+
+> Se añade por la disposición final 10.3 de la Ley 26/2015, de 28 de julo. Ref. BOE-A-2015-8470#dfdecima.

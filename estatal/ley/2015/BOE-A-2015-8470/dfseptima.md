@@ -1,0 +1,9 @@
+## Disposición final séptima. Modificación de la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa.
+
+Uno. El apartado sesenta del artículo único de la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa queda modificado del modo que el primer párrafo del apartado 2 del artículo 84 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, tendrá el siguiente contenido:
+
+«Cuando no existan plazas suficientes, el proceso de admisión se regirá por los criterios prioritarios de existencia de hermanos matriculados en el centro, padres, madres o tutores legales que trabajen en el mismo, proximidad del domicilio o del lugar de trabajo de alguno de sus padres, madres o tutores legales, renta per cápita de la unidad familiar y condición legal de familia numerosa, situación de acogimiento familiar del alumno o alumna, y concurrencia de discapacidad en el alumno o alumna o en alguno de sus padres, madres o hermanos, sin que ninguno de ellos tenga carácter excluyente y sin perjuicio de lo establecido en el apartado 7 de este artículo.»
+
+Dos. El apartado sesenta del artículo único de la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa queda modificado del modo que el apartado 2 del artículo 87 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, tendrá el siguiente contenido:
+
+«Asimismo, podrán autorizar un incremento de hasta un diez por ciento del número máximo de alumnos y alumnas por aula en los centros públicos y privados concertados de una misma área de escolarización, bien por necesidades que vengan motivadas por traslado de la unidad familiar en período de escolarización extraordinaria debido a la movilidad forzosa de cualquiera de los padres, madres o tutores legales, o debido al inicio de una medida de acogimiento familiar en el alumno o la alumna.»

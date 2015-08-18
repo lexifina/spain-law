@@ -1,0 +1,3 @@
+## Disposición final decimosexta. Desarrollo reglamentario de las Ciudades de Ceuta y Melilla.
+
+De conformidad con lo dispuesto en el apartado tercero de la disposición adicional cuarta de la Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local, las Ciudades de Ceuta y Melilla, en ejercicio de su potestad reglamentaria, podrán desarrollar el contenido de la presente ley de acuerdo con los criterios y circunstancias en ella contenidos, al objeto de ajustarlo a las condiciones particulares de éstas, en desarrollo de su capacidad reglamentaria y dentro del alcance de la misma.
