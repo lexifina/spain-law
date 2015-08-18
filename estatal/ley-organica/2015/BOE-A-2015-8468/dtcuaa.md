@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Régimen transitorio de permanencia en el servicio activo de los miembros de la Policía Nacional acogidos a la opción del artículo 4 del Real Decreto-ley 14/2011.
+
+Los funcionarios de la Policía Nacional que, acogiéndose a la opción prevista en el artículo 4 del Real Decreto-ley 14/2011, de 16 de septiembre, de medidas complementarias en materia de políticas de empleo y de regulación del régimen de actividad de las Fuerzas y Cuerpos de Seguridad del Estado, hubieran optado por permanecer en servicio activo, podrán continuar en esa situación hasta el cumplimiento de los sesenta y cinco años de edad, siempre que reúnan las adecuadas condiciones exigidas para el desempeño de las funciones atribuidas.

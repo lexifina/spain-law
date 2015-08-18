@@ -1,5 +1,5 @@
 ## Artículo veinticuatro.
 
-1. Las organizaciones sindicales responderán por los actos o acuerdos adoptados por sus órganos estatutarios en la esfera de sus respectivas competencias.
+(Derogado)
 
-2. Dichas organizaciones responderán por los actos de sus afiliados, cuando aquéllos se produzcan en el ejercicio regular de las funciones representativas o se pruebe que dichos afiliados actuaban por cuenta de las organizaciones sindicales.
+> Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. Ref. BOE-A-2015-8468#ddunica

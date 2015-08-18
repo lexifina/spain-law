@@ -110,6 +110,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 80](a80.md)
 - [Artículo 81](a81.md)
 - [Artículo 82](a82.md)
+- [Artículo 82 bis](a82bis.md)
 - [Artículo 83](a83.md)
 - [Artículo 84](a84.md)
 - [TÍTULO VI](tvi.md)
