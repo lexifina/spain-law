@@ -1,0 +1,3 @@
+## Disposición adicional única. Obligación de consolidar de determinadas entidades del sector público estatal.
+
+Las entidades públicas empresariales y otras entidades del sector público estatal, con excepción de las sociedades mercantiles estatales, sometidas a la normativa mercantil en materia contable que, dominando a otras entidades sometidas a dicha normativa, formen un grupo de acuerdo con los criterios previstos en las Normas para la Formulación de Cuentas Anuales consolidadas, aprobadas por Real Decreto 1159/2010, de 17 de septiembre, formularán sus cuentas anuales consolidadas a efectos de la elaboración de la Cuenta General del Estado, con arreglo a los criterios establecidos en dichas Normas.
