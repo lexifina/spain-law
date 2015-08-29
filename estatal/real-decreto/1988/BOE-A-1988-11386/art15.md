@@ -1,3 +1,7 @@
 ## Artículo 15.
 
-Por la Presidencia del Gobierno, a iniciativa de los Ministros interesados, se dictaran las disposiciones necesarias para el desarrollo del presente Real Decreto.
+1. La actividad contractual de la Casa de S.M. el Rey se inspirará en los principios de concurrencia, transparencia, eficiencia, agilidad, simplicidad y coordinación.
+
+2. Por la Jefatura de la Casa se aprobarán las Instrucciones que deban regir la contratación, las cuales se publicarán en su página web.
+
+> Se modifica por el art. único.10 del Real Decreto 772/2015, de 28 de agosto. Ref. BOE-A-2015-9460.

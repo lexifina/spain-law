@@ -1,15 +1,15 @@
 ## Artículo 8.
 
-El Personal de la Casa de Su Majestad el Rey podrá ser de las siguientes clases.
+El Personal de la Casa de Su Majestad el Rey podrá ser de las siguientes clases:
 
-a) De Alta Dirección.
+a) De alta dirección.
 
-b) De Dirección.
+b) De dirección.
 
-c) Funcionarios de carrera de la Administración Civil o Militar del Estado, de las Comunidades Autónomas, de la Administración Institucionales y de la Seguridad Social, así como del Poder Judicial y Carrera Fiscal.
+c) Funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades Locales.
 
-d) Funcionamos comprendidos en la disposición transitoria del Decreto-ley 6/1976, de 16 de junio.
+d) Funcionarios eventuales.
 
-e) Funcionarios eventuales
+e) Personal laboral.
 
-f) Personal laboral.
+> Se modifica por el art. único.3 del Real Decreto 772/2015, de 28 de agosto. Ref. BOE-A-2015-9460.
