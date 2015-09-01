@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 127, de 26 de mayo de 2004. Ref. BOE-A-2004-9770
+Norma derogada por la disposición derogatoria única.1.a) del Real Decreto 738/2015, de 31 de julio. Ref. BOE-A-2015-8646.

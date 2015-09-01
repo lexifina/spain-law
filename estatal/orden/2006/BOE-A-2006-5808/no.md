@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm.124, de 25 de mayo de 2006. Ref. BOE-A-2006-9085.
+Norma derogada por la disposición derogatoria única.c) del Real Decreto 738/2015, de 31 de julio. Ref. BOE-A-2015-8646.

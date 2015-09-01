@@ -6,11 +6,9 @@ a) Se realizará en primer lugar la liquidación de las cantidades correspondien
 
 b) Una vez realizada la anterior liquidación, se procederá a incorporar la novena parte de los derechos de cobro u obligaciones de pago resultantes de la aplicación de la metodología establecida en el presente real decreto a la energía producida desde la entrada en vigor del Real Decreto-ley 9/2013, de 12 de julio, hasta la entrada en vigor de las disposiciones necesarias para la plena aplicación del nuevo régimen retributivo.
 
-En caso de que esta cantidad suponga una obligación de ingreso al sistema de liquidaciones, en ningún caso podrá ser superior al 50 por ciento de la suma de la cantidad que resulte de lo dispuesto en el apartado a) anterior y del derecho de cobro de la liquidación del mercado diario del mes al que se refiera la liquidación.
+En caso de que esta cantidad suponga una obligación de ingreso al sistema de liquidaciones, y supere el límite del 50 por ciento de la suma de la cantidad que resulte de lo dispuesto en el apartado a) anterior y del derecho de cobro de la energía entregada al sistema valorada al precio del mercado diario del mes al que se refiera la liquidación, la cantidad a incorporar como obligación de ingreso al sistema de liquidaciones será el máximo entre dicho límite y la doceava parte de las obligaciones de pago, resultantes de la aplicación de la metodología establecida en el presente real decreto a la energía producida desde la entrada en vigor del Real Decreto-ley 9/2013, de 12 de julio, hasta la entrada en vigor de las disposiciones necesarias para la plena aplicación del nuevo régimen retributivo.
 
-En caso de que la cuantía supere dicho límite, la cantidad a incorporar como obligación de ingreso al sistema de liquidaciones tomará dicho valor máximo.
-
-c) La cantidad que no se hubiera ingresado por encima del límite establecido en el apartado b), se añadirá en la siguiente liquidación a la novena parte definida en el primer párrafo de dicho apartado.
+c) La cantidad que no se hubiera ingresado por encima de los límites establecidos en el segundo párrafo del apartado b), se añadirá en la siguiente liquidación a la novena parte definida en el primer párrafo de dicho apartado.
 
 d) A efectos del cálculo de las obligaciones de pago y derechos de cobro resultantes de la aplicación de lo dispuesto en la disposición transitoria tercera.2 del Real Decreto-ley 9/2013, se tendrá en cuenta lo siguiente en relación con las liquidaciones realizadas a cuenta:
 
@@ -32,7 +30,7 @@ El derecho de cobro con el cual se realice la citada compensación se minorará 
 
 5. En aquellos casos en que el incumplimiento de la obligación de ingreso que corresponda a un sujeto productor o a su representante indirecto, no hubiera sido satisfecha en su totalidad de acuerdo con lo previsto en los apartados anteriores, podrá ser compensada con las cuantías correspondientes a la participación en el mercado de la energía proveniente de las instalaciones de producción de la titularidad del primero en los términos previstos a continuación.
 
-a) En aquellos casos en que en un plazo de 30 días desde la emisión de la factura correspondiente a la obligación de ingreso, no hubiera sido satisfecho el pago de los importes de la liquidación, el órgano encargado de la liquidación notificará al operador del mercado el importe del impago de las instalaciones de cada generador, especificando la fecha en la que dicho importe comenzó a devengar intereses de demora.
+a) El órgano encargado de las liquidaciones notificará al operador del mercado el importe del impago de las instalaciones de cada generador, especificando la fecha en la que dicho importe comenzó a devengar intereses de demora.
 
 b) El operador del mercado, en la primera liquidación posterior a la notificación por el órgano encargado de la liquidación, incluirá una obligación de pago a cada instalación por el importe del impago notificado por dicho órgano, incrementado en el montante de los intereses de demora que correspondan conforme a la normativa de aplicación.
 
@@ -45,5 +43,7 @@ En ningún caso la obligación de pago podrá ser superior al 40 por ciento del 
 c) Los importes detraídos por el operador del mercado conforme a lo establecido en los apartados anteriores serán transferidos al órgano encargado de la liquidación.
 
 6. En aquellos casos en que el incumplimiento de la obligación de ingreso que corresponda a un sujeto productor o a su representante indirecto, no hubiera sido satisfecha en su totalidad de acuerdo con lo previsto en los apartados anteriores, será compensada con las cuantías liquidadas por el operador del sistema que correspondan al mismo sujeto productor.
+
+> Se modifican los apartados 1.b), 1.c) y 5.a) por la disposición final 5.2 del Real Decreto 738/2015, de 31 de julio. Ref. BOE-A-2015-8646.
 
 > Se añade el apartado 6 por la disposición final 6.8 del Real Decreto 1054/2014, de 12 de diciembre. Ref. BOE-A-2014-12973.
