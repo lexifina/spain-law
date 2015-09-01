@@ -11,4 +11,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 ## Bloques
 
 - [Disposición adicional decimosexta](dadecimosexta.md)
+- [Disposición transitoria cuarta](dtcuaa.md)
+- [Disposición transitoria décima](dtdecima.md)
 - [Disposición transitoria decimotercera](dtdecimotercera.md)
