@@ -5,6 +5,9 @@
 | Nombre científico | Nombre común | Población referida | Categoría del Catálogo |
 | --- | --- | --- | --- |
 | FLORA |  |  |  |
+| TRACHEOPHYTA |  |  |  |
+| Ophioglossaceae |  |  |  |
+| Botrychium matricariifolium |  |  | En peligro de extinción |
 | PTERIDOPHYTA |  |  |  |
 | Aspleniaceae |  |  |  |
 | Asplenium hemionitis | Hierba candíl |  |  |
@@ -32,10 +35,13 @@
 | Pteridaceae |  |  |  |
 | Pteris incompleta | Helecha de monte | Canarias | Vulnerable |
 | Pteris incompleta | Helecha de monte | Península | En peligro de extinción |
+| Pellaea calomelanos. |  |  | En peligro de extinción |
 | Psilotaceae |  |  |  |
 | Psilotum nudum subsp. molesworthiae | Helecho escoba |  | En peligro de extinción |
 | Thelypteridaceae |  |  |  |
 | Christella dentata | Helecha |  | En peligro de extinción |
+| Woodsiaceae |  |  |  |
+| Woodsia pulchella |  |  | En peligro de extinción |
 | GIMNOSPERMAS |  |  |  |
 | Cupressaceae |  |  |  |
 | Juniperus cedrus |  |  | Vulnerable |
@@ -60,9 +66,12 @@
 | Ceropegia chrysantha |  |  |  |
 | Ceropegia dichotoma subsp.krainzii | Cardoncillo gomero |  |  |
 | Boraginaceae |  |  |  |
+| Cerinthe glabra |  |  | En peligro de extinción |
 | Echium gentianoides | Taginaste palmero de cumbre |  |  |
 | Echium pininana | Pininana |  |  |
 | Echium handiense | Taginaste de Jandía |  | En peligro de extinción |
+| Glandora oleifolia (=Lithodora oleifolia) |  |  | Vulnerable |
+| Lappula deflexa |  |  | En peligro de extinción |
 | Lithodora nitida |  |  | En peligro de extinción |
 | Omphalodes littoralis subsp. gallaecica |  |  |  |
 | Campanulaceae |  |  |  |
@@ -81,6 +90,7 @@
 | Silene hifacensis | Silene de Ifach | Península | En peligro de extinción |
 | Silene mariana |  |  |  |
 | Silene nocteolens | Canutillo del Teide |  | Vulnerable |
+| Silene sennenii |  |  | En peligro de extinción |
 | Cistaceae |  |  |  |
 | Cistus chinamadensis | Amagante de Chinamada |  |  |
 | Cistus heterophyllus (=C.h.carthaginensis) | Jara de Cartagena |  | En peligro de extinción |
@@ -124,7 +134,10 @@
 | Helichrysum alucense | Yesquera de Aluce |  | En peligro de extinción |
 | Helichrysum gossypinum | Yesquera amarilla |  |  |
 | Helichrysum monogynum | Yesquera roja |  |  |
+| Hieracium queraltense |  |  | Vulnerable |
+| Hieracium recoderi |  |  | Vulnerable |
 | Hieracium texedense |  |  | En peligro de extinción |
+| Hieracium vinyasianum |  |  | Vulnerable |
 | Hymenostemma pseudoanthemis |  |  |  |
 | Hypochoeris oligocephala | Lechuguilla de El Fraile |  | En peligro de extinción |
 | urinea fontqueri |  |  | En peligro de extinción |
@@ -187,8 +200,10 @@
 | Gentianaceae |  |  |  |
 | Centaurium rigualii |  |  |  |
 | Centaurium somedanum |  |  |  |
+| Gentiana angustifolia, subsp. angustifolia |  |  | En peligro de extinción |
 | Geraniaceae |  |  |  |
 | Erodium astragaloides |  |  | En peligro de extinción |
+| Erodium foetidum |  |  | En peligro de extinción |
 | Erodium paularense | Geranio del Paular, Erodio de Cañamares |  | Vulnerable |
 | Erodium rupicola | Alfirelillo de Sierra Nevada |  | Vulnerable |
 | Globulariaceae |  |  |  |
@@ -218,6 +233,7 @@
 | Sideritis javalambrensis |  |  |  |
 | Sideritis marmorea | Chajorra de Aluce |  |  |
 | Sideritis serrata |  |  | En peligro de extinción |
+| Stachys maritima |  |  | En peligro de extinción |
 | Teucrium charidemi |  |  |  |
 | Teucrium turredanum |  |  |  |
 | Teucrium lepicephalum |  |  | Vulnerable |
@@ -268,6 +284,7 @@
 | Spiranthes aestivalis |  |  |  |
 | Orobanchaceae |  |  |  |
 | Orobanche densiflora |  |  |  |
+| Pedicularis comosa, subsp. asparagoides |  |  | Vulnerable |
 | Paeoniaceae |  |  |  |
 | Paeonia cambessedesi |  |  |  |
 | Papaveraceae |  |  |  |
@@ -277,6 +294,7 @@
 | Sarcocapnos speciosa | Hierba de la Lucía |  | En peligro de extinción |
 | Plantaginaceae |  |  |  |
 | Plantago algarbiensis |  |  |  |
+| Plantago cornuti |  |  | En peligro de extinción |
 | Plantago famarae | Pinillo de Famara |  | Vulnerable |
 | Plumbaginaceae |  |  |  |
 | Armeria euscadiensis |  |  |  |
@@ -285,7 +303,8 @@
 | Limonium dendroides | Siempreviva gigante |  | En peligro de extinción |
 | Limonium dodarti |  |  |  |
 | Limonium fruticans | Siempreviva de El Fraile |  |  |
-| Limonium magallufianum | Saladina |  | En peligro de extinción |
+| Limonium geronense |  |  | Vulnerable |
+| Limonium magallufianum | Saladina |  |  |
 | Limonium majoricum | Siempreviva |  |  |
 | Limonium malacitanum | Siempreviva malagueña |  | En peligro de extinción |
 | Limonium ovalifolium | Acelga salvaje |  |  |
@@ -295,8 +314,11 @@
 | Limonium preauxii | Siempreviva lunaria |  |  |
 | Limonium spectabile | Siempreviva de Guelgue |  | En peligro de extinción |
 | Limonium sventenii | Siempreviva azul |  | Vulnerable |
+| Limonium vigoi |  |  | En peligro de extinción |
 | Posidoniaceae |  |  |  |
 | Posidonia oceanica1 | Posidonia oceánica | Mediterráneo |  |
+| Poligalaceae |  |  |  |
+| Polygala vayredae |  |  | Vulnerable |
 | Polygonaceae |  |  |  |
 | Rumex rupestris | Labaça de ribeira |  |  |
 | Primulaceae |  |  |  |
@@ -305,10 +327,14 @@
 | Lysimachia minoricensis | Lisimaquia menorquina |  | En peligro de extinción |
 | Soldanela villosa |  |  |  |
 | Ranunculaceae |  |  |  |
+| Aquilegia paui |  |  | En peligro de extinción |
 | Aquilegia pyrenaica subsp.cazorlensis | Aguileña de Cazorla |  | En peligro de extinción |
 | Delphinium bolosi | Esperó de Bolós |  | En peligro de extinción |
+| Delphinium montanum |  |  | Vulnerable |
 | Ranunculus parnassifolius |  |  |  |
 | Ranunculus weylerii | Botó d’or |  | Vulnerable |
+| Resedaceae |  |  |  |
+| Reseda jacquinii, subsp. litigiosa |  |  | Vulnerable |
 | Rosaceae |  |  |  |
 | Bencomia brachystachya | Bencomia de Tirajana |  | En peligro de extinción |
 | Bencomia exstipulata | Bencomia de cumbre |  | En peligro de extinción |
@@ -341,6 +367,7 @@
 | Solanum lidi | Pimentero de Temisas |  | En peligro de extinción |
 | Solanum vespertilio subsp. doramae | Rejalgadera de Doramas |  | En peligro de extinción |
 | Thymelaeaceae |  |  |  |
+| Daphne alpina |  |  | En peligro de extinción |
 | Daphne rodriguezi | Dafne menorquí |  | Vulnerable |
 | Thymelaea broteriana | Pajarera portuguesa |  |  |
 | Thymelaea lythroides |  |  | Vulnerable |
@@ -352,6 +379,8 @@
 | Ferula latipinna | Cañaheja herreña |  |  |
 | Laserpitium longiradium |  |  | En peligro de extinción |
 | Naufraga balearica | Naufraga |  | En peligro de extinción |
+| Peucedanum schottii |  |  | En peligro de extinción |
+| Seseli farrenyii |  |  | En peligro de extinción |
 | Seseli intricatum |  |  | Vulnerable |
 | Thorella verticillatinundata |  |  |  |
 | Violaceae |  |  |  |
@@ -479,7 +508,6 @@
 | Patela ferruginea | Lapa ferruginea |  | En peligro de extinción |
 | Patella ulyssiponensis aspera |  |  |  |
 | Schilderia achatidea |  | Mediterráneo |  |
-| Theodoxus velascoi |  |  | En peligro de extinción |
 | Tonna galea | Tonel | Mediterráneo |  |
 | Vertigo angustior |  |  |  |
 | Vertigo moulinsiana |  |  |  |
@@ -493,7 +521,8 @@
 | Unionoida |  |  |  |
 | Margaritifera auricularia | Margaritona |  | En peligro de extinción |
 | Margaritifera margaritifera | Mejillón de río |  |  |
-| Unio tumidiformis (antes U. crassus) |  |  |  |
+| Unio ravoisieri, (antes U. elongatulus). | Náyade del noroeste |  | En peligro de extinción |
+| Unio tumidiformis (antes U. crassus) | Náyade túmida |  | Vulnerable |
 | ECHINODERMATA |  |  |  |
 | Asterina pancerii | Estrella del capitán pequeña |  |  |
 | Centrostephanus longispinus |  |  |  |
@@ -521,10 +550,14 @@
 | Petromyzon marinus | Lamprea marina | Ríos Guadiana, Guadalquivir y Ebro y Cuenca Sur | En peligro de extinción |
 | CARCHARHINIFORMES |  |  |  |
 | Sphyrnidae2 |  |  |  |
+| Triakidae |  |  |  |
+| Galeorhinus galeus | Cazón | Mediterráneo |  |
 | LAMNIFORMES |  |  |  |
 | Lamnidae |  |  |  |
 | Carcharias taurus (Rafinesque, 1810) | Tiburón toro, Toro bacota | Mediterráneo |  |
 | Carcharodon carcharias | Tiburón blanco | Mediterráneo |  |
+| Isurus oxyrinchus | Marrajo común | Mediterráneo |  |
+| Lamna nasus | Cailón | Mediterráneo |  |
 | Cetorhinidae |  |  |  |
 | Cetorhinus maximus | Tiburón peregrino | Mediterráneo y Atlántico ibérico |  |
 | Alopiidae2 |  |  |  |
@@ -533,7 +566,12 @@
 | RAJIFORMES |  |  |  |
 | Rajidae |  |  |  |
 | Dipturus batis (Linnaeus, 1758) | Noriega | Mediterráneo |  |
+| Leucoraja circularis | Raya falsa vela | Mediterráneo |  |
+| Leucoraja melitensis | Raya de Malta | Mediterráneo |  |
 | Rostroraja alba (Lacépéde, 1803) | Raya blanca, Raya bramante | Mediterráneo |  |
+| Rhinobatidae |  |  |  |
+| Rhinobatos cemiculus | Guitarra barbanegra | Mediterráneo |  |
+| Rhinobatos rhinobatos | Guitarra común | Mediterráneo |  |
 | Gymnuridae |  |  |  |
 | Gymnura altavela (Linnaeus, 1758) | Raya mariposa, Mantellina | Mediterráneo |  |
 | Pristidae |  |  |  |
@@ -734,6 +772,8 @@
 | Phalacrocorax aristotelis | Cormorán moñudo |  | Vulnerable |
 | Sulidae |  |  |  |
 | Morus bassanus | Alcatraz atlántico |  |  |
+| Threskiornithidae |  |  |  |
+| Geronticus eremita | Ibis eremita. |  |  |
 | CICONIFORMES |  |  |  |
 | Ardeidae |  |  |  |
 | Ardea cinerea | Garza real |  |  |
@@ -799,6 +839,8 @@
 | Falco tinnunculus | Cernícalo común |  |  |
 | Falco vespertinus | Cernícalo patirrojo |  |  |
 | GALLIFORMES |  |  |  |
+| Phasianidae |  |  |  |
+| Bonasa bonasia | Grévol. |  |  |
 | Tetraonidae |  |  |  |
 | Lagopus muta | Lagópodo alpino |  | Vulnerable |
 | Tetrao urogalus aquitanicus | Urogallo pirenaico |  | Vulnerable |
@@ -1188,6 +1230,8 @@
 2 Todas las especies de las Familias Sphyrnidae (géneros Sphyrna y Eusphyra) y Alopiidae (género Alopias).
 
 (2) Incluyen todas las especies del género.
+
+> Se modifica por el art. único de la Orden AAA/1771/2015, de 31 de agosto. Ref. BOE-A-2015-9550.
 
 > Se modifica por el apartado 1 y el anexo de la Orden AAA/75/2012, de 12 de enero. Ref. BOE-A-2012-923.
 
