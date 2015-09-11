@@ -1,0 +1,129 @@
+## Disposición final tercera. Modificación del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto.
+
+El texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, queda modificado en los siguientes términos:
+
+Uno. Los apartados 2 y 3 del artículo 2 quedan redactados en los siguientes términos:
+
+«2. Los empresarios, trabajadores por cuenta propia o ajena o asimilados, perceptores y solicitantes de las prestaciones de Seguridad Social, las entidades de formación o aquellas que asuman la organización de las acciones de formación profesional para el empleo programada por las empresas, de forma individual o en agrupación de empresas y los solicitantes y beneficiarios de las ayudas y subvenciones públicas de formación profesional para el empleo, las Mutuas Colaboradoras con la Seguridad Social y demás entidades colaboradoras en la gestión, en el ámbito de la relación jurídica de Seguridad Social, así como las entidades o empresas responsables de la gestión de prestaciones en cuanto a sus obligaciones en relación con el Registro de Prestaciones Sociales Públicas y demás sujetos obligados a facilitar información de trascendencia recaudatoria en materia de Seguridad Social.
+
+3. Los empresarios, los trabajadores, los solicitantes de ayudas y subvenciones públicas y, en general, las personas físicas o jurídicas, respecto de la normativa de colocación, fomento del empleo y de formación profesional para el empleo.»
+
+Dos. El apartado 1 del artículo 5 queda redactado en los siguientes términos:
+
+«1. Son infracciones laborales las acciones u omisiones de los empresarios contrarias a las normas legales, reglamentarias y cláusulas normativas de los convenios colectivos en materia de relaciones laborales, tanto individuales como colectivas, de colocación, empleo, formación profesional para el empleo, de trabajo temporal y de inserción sociolaboral, tipificadas y sancionadas de conformidad con la presente ley. Asimismo, tendrán dicha consideración las demás acciones u omisiones de los sujetos responsables en las materias que se regulan en el presente capítulo.»
+
+Tres. El título de la subsección 1.ª de la sección 3.ª del capítulo II queda redactado en los siguientes términos:
+
+«Infracciones de los empresarios, de las agencias de colocación, de las entidades de formación o aquellas que asuman la organización de las acciones de formación profesional para el empleo programada por las empresas y de los beneficiarios de ayudas y subvenciones en materia de empleo y ayudas al fomento del empleo en general.»
+
+Cuatro. El apartado 4 del artículo 14 queda redactado como sigue:
+
+«4. Incumplir, los empresarios, las entidades de formación o aquellas que asuman la organización de las acciones formativas programadas por las empresas y los solicitantes y beneficiarios de las ayudas y subvenciones públicas, las obligaciones de carácter formal o documental exigidas en la normativa específica sobre formación profesional para el empleo, siempre que no estén tipificadas como graves o muy graves.»
+
+Cinco. El apartado 6 del artículo 15 queda redactado como sigue:
+
+«6. Incumplir, los empresarios, las entidades de formación o aquellas que asuman la organización de las acciones formativas programadas por las empresas y los beneficiarios de ayudas y subvenciones públicas, las obligaciones establecidas en la normativa específica sobre formación profesional para el empleo, salvo que haya dado lugar al disfrute indebido de bonificaciones en el pago de las cuotas sociales, mediante cualquiera de las acciones siguientes:
+
+a) Ejecutar acciones formativas en los términos, forma y contenido distintos a los previamente preavisados, cuando no se hubiera notificado en tiempo y forma su cancelación o modificación al órgano competente.
+
+b) Ejecutar acciones formativas que no guarden relación con la actividad empresarial.
+
+c) Incumplir las obligaciones en materia de control de asistencia de los participantes en las acciones formativas, así como incumplir la obligación de seguimiento de la participación de los alumnos, su aprendizaje y evaluación.
+
+d) Expedir certificaciones de asistencia o diplomas sin el contenido mínimo exigido, que no se ajusten a las acciones formativas, aprobadas y/ o realizadas o cuando no se hayan impartido las mismas, así como negar su entrega o realizar su remisión fuera de plazo, a pesar de haber sido requerido en tal sentido por los órganos de vigilancia y control.
+
+e) Incumplir las obligaciones relativas a la comunicación del inicio y finalización de cada acción formativa en los plazos, forma o contenidos previstos en su normativa aplicable así como no comunicar las transformaciones, fusiones, escisiones o cambios de titularidad que se produzcan en la empresa.
+
+f) No identificar en cuenta separada o epígrafe específico de su contabilidad todos los gastos de ejecución de las acciones formativas, así como las bonificaciones que se apliquen y la cofinanciación, en su caso, del Fondo Social Europeo u otras ayudas e iniciativas europeas, bajo la denominación de Formación profesional para el Empleo.
+
+g) Incumplir las obligaciones relativas a la custodia y entrega de la documentación relacionada con la organización, gestión e impartición de las acciones formativas.
+
+h) Imputar como coste objeto de financiación pública los bienes, productos, materiales o servicios que sean entregados, puestos a disposición o prestados por las entidades de formación o las entidades organizadoras de la formación y que no resulten estrictamente necesarios para la impartición de la actividad formativa.
+
+i) Incumplir las obligaciones relativas al derecho de información y consulta de la representación legal de los trabajadores.
+
+Se entenderá una infracción por cada empresa y por cada acción formativa para los supuestos previstos en las letras a), b) y c) de este apartado.»
+
+Seis. El artículo 16 queda redactado en los siguientes términos:
+
+«Artículo 16. Infracciones muy graves.
+
+1. Son infracciones muy graves:
+
+a) Ejercer actividades de intermediación laboral, de cualquier clase y ámbito funcional, que tengan por objeto la colocación de trabajadores sin haber presentado, con carácter previo a la actuación como agencia de colocación, una declaración responsable, de reunir los requisitos establecidos en la Ley 56/2003, de 16 de diciembre, de Empleo, y su normativa de desarrollo, o exigir a los trabajadores precio o contraprestación por los servicios prestados.
+
+b) En el caso de las empresas de trabajo temporal que hubieran presentado una declaración responsable para actuar como agencias de colocación de reunir los requisitos establecidos en la Ley 56/2003, de 16 de diciembre, de Empleo, y su normativa de desarrollo, incumplir los mismos.
+
+c) Solicitar datos de carácter personal en los procesos de selección o establecer condiciones, mediante la publicidad, difusión o por cualquier otro medio, que constituyan discriminaciones para el acceso al empleo por motivos de sexo, origen, incluido el racial o étnico, edad, estado civil, discapacidad, religión o convicciones, opinión política, orientación sexual, afiliación sindical, condición social y lengua dentro del Estado.
+
+d) Obtener o disfrutar indebidamente de subvenciones, ayudas de fomento del empleo o cualesquiera establecidas en programas de apoyo a la creación de empleo o formación profesional para el empleo concedidas, financiadas o garantizadas, en todo o en parte, por el Estado, las comunidades autónomas o el Fondo Social Europeo u otras ayudas e iniciativas europeas, en el marco de la ejecución de la legislación laboral, ajenas al régimen económico de la Seguridad Social.
+
+e) La no aplicación o las desviaciones en la aplicación de las ayudas o subvenciones de fomento del empleo, de reinserción de demandantes de empleo, de la formación profesional para el empleo, concedidas, financiadas o garantizadas, en todo o en parte, por el Estado, las comunidades autónomas o el Fondo Social Europeo u otras ayudas e iniciativas europeas, en el marco de la ejecución de la legislación laboral, ajenas al régimen económico de la Seguridad Social.
+
+f) Incumplir los empresarios, las entidades de formación o aquellas que asuman la organización de las acciones formativas programadas por las empresas y los beneficiarios de ayudas y subvenciones públicas, las obligaciones establecidas en la normativa específica sobre formación profesional para el empleo, salvo que haya dado lugar al disfrute indebido de bonificaciones en el pago de cuotas sociales, mediante cualquiera de las acciones siguientes:
+
+1.º Solicitar cantidades a los participantes para pagar total o parcialmente las iniciativas de formación profesional para el empleo, cuando las acciones formativas sean financiables con fondos públicos y gratuitas para los mismos.
+
+2.º Simular la contratación laboral con la finalidad de que los trabajadores participen en acciones formativas.
+
+3.º El falseamiento de documentos, así como la simulación de la ejecución de la acción formativa, incluida la teleformación, para la obtención o disfrute indebido de ayudas o subvenciones públicas para sí o para un tercero en materia de formación profesional para el empleo.
+
+4.º Impartir formación sin estar acreditadas o, en su caso, sin haber presentado la declaración responsable de acuerdo con la normativa específica.
+
+5.º Realizar subcontrataciones indebidas, tanto en lo que respecta a la impartición como a la organización de las acciones formativas.
+
+g) La aplicación indebida o la no aplicación a los fines previstos legal o reglamentariamente de las donaciones y acciones de patrocinio recibidas de las empresas por fundaciones y asociaciones de utilidad pública, como medida alternativa al cumplimiento de la obligación de reserva de empleo a favor de las personas con discapacidad.
+
+En las infracciones señaladas en los párrafos 2.º, 3.º, 4.º y 5.º de la letra f), las entidades que asuman la organización de las acciones formativas programadas por las empresas, las entidades que impartan formación, y los beneficiarios de ayudas y subvenciones públicas, responderán solidariamente de la devolución de las cantidades indebidamente obtenidas por cada empresa y acción formativa.
+
+Se entenderá una infracción por cada empresa y acción formativa para los supuestos previstos en las letras d), e) y párrafos 2.º, 3.º, 4.º y 5.º de la letra f).»
+
+Siete. El título de la sección 1.ª del Capítulo III queda redactado como sigue:
+
+«Infracciones de los empresarios, entidades de formación, entidades que asuman la organización de las acciones de formación profesional para el empleo programada por las empresas, trabajadores por cuenta propia y asimilados.»
+
+Ocho. Se modifica el apartado 9 del artículo 22 en los siguientes términos:
+
+«9. Obtener o disfrutar indebidamente cualquier tipo de reducciones, bonificaciones o incentivos en relación con el importe de las cuotas sociales que corresponda, entendiendo producida una infracción por cada trabajador afectado, salvo que se trate de bonificaciones de formación profesional para el empleo y reducciones de las cotizaciones por contingencias profesionales a las empresas que hayan contribuido especialmente a la disminución y prevención de la siniestralidad laboral, en la que se entenderá producida una infracción por cada empresa y acción formativa.»
+
+Nueve. Se añade un nuevo apartado 15 al artículo 22, con la siguiente redacción:
+
+«15. Incumplir, las entidades de formación o aquellas que asuman la organización de las acciones formativas programadas por las empresas, los requisitos de cada acción formativa establecidos por la normativa específica sobre formación profesional para el empleo, cuando haya dado lugar al disfrute indebido de bonificaciones en el pago de cuotas, salvo cuando la infracción sea calificada como muy grave de acuerdo con el artículo siguiente.
+
+Dichas entidades responderán solidariamente de la devolución de las cantidades indebidamente bonificadas por cada empresa y acción formativa.
+
+Se entenderá una infracción por cada empresa y por cada acción formativa.»
+
+Diez. La letra h) del apartado 1 del artículo 23 queda redactada del siguiente modo:
+
+«h) Incurrir los empresarios, las entidades de formación o aquellas que asuman la organización de las acciones formativas programadas por las empresas, en el falseamiento de documentos o en la simulación de la ejecución de la acción formativa, incluida la teleformación, para la obtención o disfrute indebido de bonificaciones en materia de formación profesional para el empleo.
+
+Se entenderá una infracción por cada empresa y por cada acción formativa.»
+
+Once. Se añade un nuevo párrafo al apartado 2 del artículo 23, con la siguiente redacción:
+
+«En las infracciones señaladas en el apartado 1.h), las entidades de formación o aquellas que asuman la organización de las acciones formativas programadas por las empresas y los solicitantes o beneficiarios de subvenciones y ayudas públicas, responderán solidariamente de la devolución de las cantidades disfrutadas de forma indebida por cada acción formativa.»
+
+Doce. El último párrafo del artículo 40.1.f) queda redactado en los siguientes términos:
+
+«Las sanciones impuestas por las infracciones muy graves tipificadas en las letras d), e) y f) del apartado 1 del artículo 16, y en las letras a) y h) del apartado 1 del artículo 23, así como las sanciones por obstrucción calificadas como muy graves en el párrafo anterior, una vez firmes, se harán públicas en la forma que se prevea reglamentariamente.»
+
+Trece. Se modifica el título de la subsección 3.ª de la sección 2.ª del capítulo VI, que queda redactado del siguiente modo:
+
+«Sanciones accesorias a los empresarios, entidades de formación o aquellas que asuman la organización de las acciones formativas programadas por las empresas en materia de empleo, ayudas de fomento del empleo, subvenciones y ayudas para la formación profesional para el empleo y protección por desempleo.»
+
+Catorce. La rúbrica y el apartado 1 del artículo 46 quedan redactados en los siguientes términos:
+
+«Artículo 46. Sanciones accesorias.
+
+1. Sin perjuicio de las sanciones a que se refiere el artículo 40.1 y, salvo lo establecido en el artículo 46 bis de esta ley, los empresarios que hayan cometido las infracciones graves previstas en los apartados 3 y 6 del artículo 15 o las infracciones muy graves tipificadas en los artículos 16 y 23 de esta ley, en materia de empleo, formación profesional para el empleo y protección por desempleo:
+
+a) Perderán, automáticamente, y de forma proporcional al número de trabajadores afectados por la infracción, las ayudas, bonificaciones y, en general, los beneficios derivados de la aplicación de los programas de empleo o formación profesional para el empleo, con efectos desde la fecha en que se cometió la infracción.
+
+La pérdida de estas ayudas, subvenciones, bonificaciones y beneficios derivados de la aplicación de los programas de empleo o formación profesional para el empleo afectará a los de mayor cuantía, con preferencia sobre los que la tuvieren menor en el momento de la comisión de la infracción. Este criterio ha de constar necesariamente en el acta de infracción, de forma motivada.
+
+b) Podrán ser excluidos del acceso a tales ayudas, subvenciones, bonificaciones y beneficios por un período máximo de dos años, con efectos desde la fecha de la resolución que imponga la sanción.
+
+Se excluirá en todo caso del acceso a tales ayudas, subvenciones, bonificaciones y beneficios por un periodo de cinco años, cuando la infracción cometida estuviera tipificada como muy grave en las letras d), e) y f) del apartado 1 del artículo 16 y en la letra h) del apartado 1 del artículo 23 de esta ley, con efectos desde la fecha de la resolución que imponga la sanción.
+
+c) En los supuestos previstos en las letras d), e) y f) del artículo 16.1, quedan obligados, en todo caso, a la devolución de las cantidades obtenidas indebidamente y las no aplicadas o aplicadas incorrectamente.»
