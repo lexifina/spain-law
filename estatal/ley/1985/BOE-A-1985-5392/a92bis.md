@@ -14,7 +14,7 @@ a) Secretaría, a la que corresponden las funciones contenidas en el apartado 1.
 
 b) Intervención-tesorería, a la que corresponden las funciones contenidas en el apartado 1.b).
 
-c) Secretaría-intervención a la que corresponden las funciones contenidas en los apartados 1.a) y 1.b), salvo la función de tesorería.
+c) Secretaría-intervención a la que corresponden las funciones contenidas en los apartados 1.a) y 1.b).
 
 3. Los funcionarios de las subescalas de Secretaría e Intervención-tesorería estarán integrados en una de estas dos categorías: entrada o superior.
 
@@ -69,5 +69,7 @@ La sanción impuesta se ejecutará en sus propios términos, aun cuando en el mo
 La sanción de destitución implicará la pérdida del puesto de trabajo, con la prohibición de obtener destino en la misma Corporación en la que tuvo lugar la sanción, en el plazo que se fije, con el máximo de seis años, para las faltas muy graves, y de tres años para las faltas graves.
 
 La sanción de suspensión de funciones tendrá una duración máxima de seis años, para las faltas muy graves, y de tres años para las faltas graves.
+
+> Se modifica el apartado 2 por el art. 3 del Real Decreto-ley 10/2015, de 11 de septiembre. Ref. BOE-A-2015-9801.
 
 > Se añade por el art. 1.25 de la Ley 27/2013, de 27 de diciembre. Ref. BOE-A-2013-13756.
