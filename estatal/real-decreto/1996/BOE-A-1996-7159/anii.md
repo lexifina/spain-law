@@ -16,7 +16,7 @@ Podrán tenerse en cuenta los siguientes elementos en la consideración del nutr
 
 2.º Estuarios, bahías y otras aguas marítimas que tengan un intercambio de aguas escaso o que reciban gran cantidad de nutrientes. Los vertidos de aglomeraciones pequeñas tienen normalmente poca importancia en dichas zonas, pero para las grandes aglomeraciones deberá incluirse la eliminación de fósforo y/o nitrógeno a menos que se demuestre que su eliminación no tendrá consecuencias sobre el nivel de eutrofización.
 
-b) Aguas continentales superficiales destinadas a la obtención de agua potable que podrían contener una concentración de nitratos superior a la que establecen las disposiciones pertinentes del Real Decreto 927/1988, de 29 de julio, por el que se aprueba el Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica.
+b) Aguas continentales superficiales destinadas a la obtención de agua potable que podrían contener una concentración de nitratos superior a 50 mg/l.
 
 c) Masas de agua en las que sea necesario un tratamiento adicional al tratamiento secundario establecido en el artículo 5 del Real Decreto-ley y en este Real Decreto para cumplir lo establecido en la normativa comunitaria.
 
@@ -29,3 +29,5 @@ Al determinar las zonas menos sensibles, se tomará en consideración el riesgo 
 Para determinar las zonas menos sensibles se tendrán en cuenta los siguientes elementos:
 
 Bahías abiertas, estuarios y otras aguas marítimas con un intercambio de agua bueno y que no tengan eutrofización o agotamiento del oxígeno, o en las que se considere que es improbable que lleguen a desarrollarse fenómenos de eutrofización o de agotamiento del oxígeno por el vertido de aguas residuales urbanas.
+
+> Se modifica el apartado I.b) por la disposición final 5 del Real Decreto 817/2015, de 11 de septiembre. Ref. BOE-A-2015-9806.
