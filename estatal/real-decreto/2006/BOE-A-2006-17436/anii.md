@@ -12,17 +12,7 @@ La denominación «queso fundido» queda reservada al producto que contenga un e
 
 La denominación «queso fundido» podrá completarse, según corresponda, con las siguientes indicaciones:
 
-2.1 De acuerdo con su contenido en grasa, expresado en porcentaje en masa/masa sobre el extracto seco total, los quesos fundidos se podrán denominar:
-
-Extragraso: el que contenga un mínimo de 60 por ciento.
-
-Graso: el que contenga un mínimo de 45 y menos de 60 por ciento.
-
-Semigraso: el que contenga un mínimo de 25 y menos de 45 por ciento.
-
-Semidesnatado: el que contenga un mínimo de 10 y menos de 25 por ciento.
-
-Desnatado: el que contenga menos de 10 por ciento.
+2.1 (Suprimido)
 
 2.2 El nombre de una variedad de queso, siempre que esta constituya al menos el 50 por ciento de las materias primas. El queso de la citada variedad deberá representar como mínimo el 75 por ciento de la mezcla de quesos utilizados en la elaboración del producto, debiendo pertenecer el 25 por ciento restante a una variedad o variedades similares.
 
@@ -52,13 +42,7 @@ Para quesos fundidos sin las adiciones contempladas en el apartado 3.2.3 y 3.2.4
 
 4. Aditivos autorizados.
 
-4.1 Colorantes.
-
-Podrán utilizarse los colorantes autorizados para los quesos fundidos por el Real Decreto 2001/1995, de 7 de diciembre, por el que se aprueba la lista positiva de aditivos colorantes autorizados para su uso en la elaboración de productos alimenticios, así como sus condiciones de utilización.
-
-4.2 Aditivos distintos de colorantes y edulcorantes.
-
-Podrán utilizarse los aditivos autorizados para los quesos fundidos por el Real Decreto 142/2002, de 1 de febrero, por el que se aprueba la lista positiva de aditivos distintos de colorantes y edulcorantes para su uso en la elaboración de productos alimenticios, así como sus condiciones de utilización.
+(Suprimido)
 
 5. Prohibiciones.
 
@@ -70,7 +54,7 @@ Queda expresamente prohibido:
 
 6. Etiquetado.
 
-El etiquetado de los quesos debe cumplir la Norma General de Etiquetado, Presentación y Publicidad de los productos alimenticios, aprobada por Real Decreto 1334/1999, y lo establecido en otras disposiciones de la Unión Europea aplicables en la materia, con las siguientes particularidades:
+Sin perjuicio del cumplimiento de los requisitos establecidos en la normativa relativa a la información alimentaria facilitada al consumidor, el etiquetado de los quesos fundidos se ajustará además a las especificaciones que se indican en los siguientes apartados.
 
 6.1 Denominación de venta.
 
@@ -84,4 +68,10 @@ Cuando se incorpore algún ingrediente de los indicados en el punto 3.2.4, la de
 
 Se indicará el contenido mínimo de materia grasa por cien gramos de producto acabado que se corresponderá con el que contenga el producto a la salida de fábrica. Sin embargo, esta mención no es exigible cuando forme parte del etiquetado nutricional.
 
-Dicha indicación podrá sustituirse por las «denominaciones de acuerdo con el contenido en grasa», previstas en el punto 2.1.
+6.3 El etiquetado de los productos definidos en esta norma, además de las declaraciones nutricionales acordes con el Reglamento (CE) 1924/2006, de 20 de diciembre de 2006, relativo a las declaraciones nutricionales y de propiedades saludables en los alimentos, podrá incluir, facultativamente, las menciones, graso y extragraso, de acuerdo con las siguientes condiciones:
+
+Graso: cuando el queso contenga un mínimo de 45 y menos de 60 por ciento de materia grasa sobre el extracto seco total.
+
+Extragraso: cuando el queso contenga un mínimo de 60 por ciento de materia grasa sobre el extracto seco total.
+
+> Se suprime el apartado 2.1 y el apartado 4 y se modifica el 6 por el art. 2 del Real Decreto 818/2015, de 11 de septiembre. Ref. BOE-A-2015-9807.
