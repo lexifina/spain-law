@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Normas sobre organización y funciones de los Centros docentes de la Enseñanza Militar de Formación.
+
+La Academia Central de la Defensa se ajustará a lo dispuesto en las Normas sobre organización y funciones de los Centros docentes de la Enseñanza Militar de Formación, aprobadas por la Orden 80/1993, de 29 de julio, hasta que no entren en vigor las Normas generales que regulan la organización y funciones, el régimen interior y la programación de los centros docentes militares, a determinar por orden del Ministro de Defensa, establecidas en el artículo 54.1 de la Ley 39/2007, de 19 de noviembre, de la carrera militar.

@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Funciones de la Escuela Militar de Ciencias de la Educación.
+
+Las funciones de la Escuela Militar de Ciencias de la Educación establecidas en el apartado segundo de la Orden Ministerial 89/1992, de 24 de noviembre, por la que se regula la denominación, adscripción y funcionamiento de la Escuela Militar de Ciencias de la Educación, seguirán vigentes hasta que entren en vigor las disposiciones que complementen o apliquen esta orden ministerial, se produzcan las adaptaciones orgánicas necesarias y se transfieran dichas funciones a las nuevas unidades y estructuras.

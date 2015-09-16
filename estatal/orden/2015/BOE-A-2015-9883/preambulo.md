@@ -1,0 +1,11 @@
+El artículo 54.1 de la Ley 39/2007, de 19 de noviembre, de la carrera militar, faculta al Ministro de Defensa para establecer las normas generales que regulen, entre otras materias, la organización y funciones de los centros docentes militares.
+
+El Gobierno de España ha puesto en marcha un importante y ambicioso programa de reformas entre cuyos ejes se sitúan medidas de racionalización administrativa, simplificación y eliminación de duplicidades y trabas burocráticas. Y la Comisión para la Reforma de las Administraciones Públicas (CORA), creada mediante Acuerdo de Consejo de Ministros de 26 de octubre de 2012, ha llevado a cabo una intensa labor de revisión integral de la Administración Pública, dirigida a conseguir una mejora en la eficacia y eficiencia de la actividad pública.
+
+En esta línea, la Directiva de Política de Defensa, de octubre de 2012, establece, entre sus fines, la simplificación de la organización de las Fuerzas Armadas y la racionalización de las estructuras orgánicas existentes en el Ministerio de Defensa.
+
+Así mismo, la disposición adicional tercera del Real Decreto 524/2014, de 20 de junio, que modifica el Real Decreto 454/2012, de 5 de marzo, por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa, en su apartado 1, establece la creación de la Academia Central de la Defensa, como centro docente militar de formación, y en su apartado 3, que «el Ministro de Defensa determinará la estructura interna y funciones de esta academia militar en la que se integrarán la Escuela Militar de Estudios Jurídicos, la Escuela Militar de Intervención, la Escuela Militar de Sanidad, la Escuela de Músicas Militares, la Escuela Militar de Idiomas y la Escuela Militar de Ciencias de la Educación, de forma que se mantengan sus actuales denominaciones y cometidos».
+
+Uno de estos cometidos es el de llevar a cabo la evaluación de la competencia lingüística en los idiomas extranjeros considerados de interés para las Fuerzas Armadas. La importancia creciente que se reconoce a la competencia lingüística en idiomas, exige que el sistema de evaluación de la competencia lingüística mejore y evolucione continuamente. Para el desarrollo de este cometido, se creará un órgano de evaluación de la competencia lingüística.
+
+En su virtud, dispongo:
