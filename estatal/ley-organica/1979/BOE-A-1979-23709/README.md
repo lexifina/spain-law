@@ -116,6 +116,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO PRIMERO](cprimero-5.md)
 - [Artículo setenta y ocho](asetentayocho.md)
 - [CAPÍTULO II](cii-5.md)
+- [TÍTULO VI BIS](tvibis.md)
 - [Artículo setenta y nueve](asetentaynueve.md)
 - [TÍTULO VII](tvii.md)
 - [Artículo ochenta](aochenta.md)
