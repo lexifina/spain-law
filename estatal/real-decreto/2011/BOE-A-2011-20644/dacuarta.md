@@ -14,4 +14,8 @@ d) Dirección General de Arquitectura, Vivienda y Suelo.
 
 e) Dirección General de Comunicación.
 
+f) Oficina Española de Cambio Climático del Ministerio de Agricultura, Alimentación y Medio Ambiente
+
 3. Queda suprimida la excepción prevista en el artículo 18.2 de la ley 6/1997, de 14 de abril, para el titular de la Dirección General de Apoyo a Víctimas del Terrorismo.
+
+> Se añade la letra f) al apartado 2 por el art. 1 del Real Decreto 846/2015, de 28 de septiembre. Ref. BOE-A-2015-10391.
