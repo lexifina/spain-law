@@ -98,123 +98,43 @@ El contacto continuado con la literatura en francés es un instrumento esencial 
 
 1) Los profesores consultarán detenidamente las Instructions officielles de la enseñanza del francés en el liceo, así como los Documents d’accompagnement. El conjunto de textos reglamentarios, orientativos en este caso, figura en la página web EduSCOL del Ministère de l’Education Nationales: http://eduscol.education.fr/D0011/LLPDPR01.htm.
 
-A-1. Contenidos:
+A-1. Currículo de Lengua y Literatura Francesa
 
-1. Escuchar, hablar y conversar:
+Bloque 1. Comprensión de textos orales
 
-Escuchar y comprender:
+| Contenidos | Criterios de evaluación | Estándares de aprendizaje evaluable |
+| --- | --- | --- |
+| • Estrategias de comprensión: – Movilización de información previa sobre tipo de tarea y tema. – Identificación del tipo textual, adaptando la comprensión al mismo. – Distinción de tipos de comprensión (sentido general, información esencial, puntos principales, detalles relevantes, implicaciones). – Formulación de hipótesis sobre contenido y contexto. • Inferencia y formulación de hipótesis sobre significados a partir de la comprensión de elementos significativos, lingüísticos y paralingüísticos. • Reformulación de hipótesis a partir de la comprensión de nuevos elementos. • Aspectos socioculturales y sociolingüísticos: convenciones sociales, normas de cortesía y registros; costumbres, valores, creencias y actitudes; lenguaje no verbal. • Funciones comunicativas: – Gestión de relaciones sociales en el ámbito personal, público, académico y profesional. – Descripción y apreciación de cualidades físicas y abstractas de personas, objetos, lugares, actividades, procedimientos y procesos. – Narración de acontecimientos pasados puntuales y habituales, descripción de estados y situaciones presentes, y expresión de predicciones y de sucesos futuros a corto, medio y largo plazo. – Intercambio de información, indicaciones, opiniones, creencias y puntos de vista, consejos, advertencias y avisos. – Expresión de la curiosidad, el conocimiento, la certeza, la confirmación, la duda, la conjetura, el escepticismo y la incredulidad. – Expresión de la voluntad, la intención, la decisión, la promesa, la orden, la autorización y la prohibición, la exención y la objeción. – Expresión del interés, la aprobación, el aprecio, el elogio, la admiración, la satisfacción, la esperanza, la confianza, la sorpresa, y sus contrarios. – Formulación de sugerencias, deseos, condiciones e hipótesis. – Establecimiento y gestión de la comunicación y organización del discurso. • Estructuras gramaticales, léxicas y sintáctico-discursivas, patrones sonoros, acentuales, rítmicos y de entonación (1). | Identificar las ideas principales, información detallada e implicaciones generales de textos de cierta longitud, bien organizados y lingüísticamente complejos, en una variedad de lengua francesa estándar y articulados a velocidad normal, que traten de temas tanto concretos como abstractos, incluso si son de carácter técnico cuando estén dentro del propio campo de especialización o de interés en los ámbitos personal, público, académico y laboral/profesional, siempre que las condiciones acústicas sean buenas y se puedan confirmar ciertos detalles. Conocer y saber aplicar las estrategias adecuadas para comprender el sentido general; la información esencial; los puntos principales; los detalles relevantes; información, ideas y opiniones tanto implícitas como explicitas del texto, formuladas de manera clara; y matices como la ironía o el humor, o el uso poético o estético de la lengua francesa cuando la imagen facilita la comprensión. Conocer con la profundidad debida y aplicar eficazmente a la comprensión del texto los conocimientos sociolingüísticos relativos a la estructuración social, a las relaciones interpersonales en diversos contextos (desde informal hasta institucional) y las convenciones sociales (incluyendo creencias y estereotipos) predominantes en las culturas en que se utiliza la lengua francesa, así como los conocimientos culturales más relevantes (p. e. históricos o artísticos) que permitan captar las alusiones más directas sobre estos aspectos que pueda contener el texto. Distinguir la función o funciones comunicativas tanto principales como secundarias del texto y apreciar las diferencias de significación de distintos exponentes de las mismas, así como distinguir los significados generales asociados al uso de distintos patrones discursivos típicos por lo que respecta a la presentación y organización de la información (entre otros, topicalización (p. e. uso de estructuras pasivas o enfáticas), contraste, digresión, o recapitulación). Distinguir y aplicar a la comprensión del texto oral los significados y funciones específicos generalmente asociados a diversas estructuras sintácticas de uso común según el contexto de comunicación (p. e. estructura interrogativa para expresar admiración). Reconocer léxico oral común y más especializado, relacionado con los propios intereses y necesidades en el ámbito personal, público, académico y laboral/profesional, y expresiones y modismos de uso habitual, así como las connotaciones más discernibles en el uso humorístico o poético del idioma cuando el contexto o el apoyo visual facilitan su comprensión. Discriminar patrones sonoros, acentuales, rítmicos y de entonación de uso común y más específicos, y reconocer sus significados e intenciones comunicativas expresas, así como algunas de carácter implícito (incluyendo la ironía y el humor) cuando la articulación es clara. | 1. Comprende instrucciones, anuncios, declaraciones y mensajes detallados, dados cara a cara o por otros medios, sobre temas concretos, en lenguaje estándar y a velocidad normal (p. e. declaraciones o mensajes institucionales). 2. Entiende los detalles de lo que se le dice en transacciones y gestiones que surgen mientras viaja, organiza el viaje o trata con las autoridades, así como en situaciones menos habituales en hoteles, tiendas, agencias de viajes, centros de salud, trabajo o estudios (p. e. para recibir asistencia sanitaria como turista o como residente, cambiar una reserva de hotel, anular billetes, o cambiar un artículo defectuoso), siempre que pueda pedir confirmación. 3. Identifica las ideas principales, los detalles relevantes y las implicaciones generales de conversaciones y debates relativamente extensos y animados entre varios interlocutores que tienen lugar en su presencia, sobre temas generales, de actualidad o de su interés, siempre que el discurso esté estructurado y no se haga un uso muy idiomático de la lengua francesa. 4. Comprende, en debates y conversaciones informales sobre temas habituales o de su interés, la postura o punto de vista de sus interlocutores, así como algunos sentidos implícitos y matices como la ironía o el humor. 5. Comprende, en una conversación formal en la que participa, en el ámbito académico u ocupacional, información detallada y puntos de vista y opiniones sobre temas de su especialidad y relativos a líneas de actuación y otros procedimientos abstractos, siempre que pueda confirmar lo que el interlocutor ha querido decir y conseguir aclaraciones sobre los aspectos ambiguos. 6. Comprende la línea argumental, las ideas principales, los detalles relevantes y las implicaciones generales en presentaciones, conferencias o seminarios de cierta extensión y complejidad sobre temas académicos o profesionales de su área de interés, tanto concretos como abstractos, siempre que haya marcadores que estructuren el discurso y guíen la comprensión. 7. Comprende el contenido de la información de la mayoría del material grabado o retransmitido en los medios de comunicación, relativo a temas de interés personal, identificando el estado de ánimo, el tono e incluso el humor del hablante, siempre que el discurso esté articulado con claridad, en una variedad de lengua francesa estándar y a velocidad normal. |
 
-Comprender la idea general y específica, el tema, el contenido de un texto oral mantenido por otros (relato breve, conferencia, diálogo, debate…);
+Bloque 2. Producción de textos orales: Expresión e interacción
 
-Seguir las distintas etapas de una conversación o de una argumentación siempre que el tema sea relativamente conocido;
+| Contenidos | Criterios de evaluación | Estándares de aprendizaje evaluable |
+| --- | --- | --- |
+| • Estrategias de producción: – Planificación. Concebir el mensaje con claridad, distinguiendo su idea o ideas principales y su estructura básica. Adecuar el texto al destinatario, contexto y canal, aplicando el registro y la estructura de discurso adecuados a cada caso. – Ejecución. Expresar el mensaje con claridad y coherencia, estructurándolo adecuadamente y ajustándose, en su caso, a los modelos y fórmulas de cada tipo de texto. Reajustar la tarea (emprender una versión más modesta de la tarea) o el mensaje (hacer concesiones en lo que realmente le gustaría expresar), tras valorar las dificultades y los recursos disponibles. Apoyarse en y sacar el máximo partido de los conocimientos previos (utilizar lenguaje «prefabricado», etc.). Compensar las carencias lingüísticas mediante procedimientos lingüísticos, paralingüísticos o paratextuales: a) Lingüísticos. a. Modificar palabras de significado parecido. b. Definir o parafrasear un término o expresión. b) Paralingüísticos y paratextuales. a. Pedir ayuda. b. Señalar objetos, usar deícticos o realizar acciones que aclaran el significado. c. Usar lenguaje corporal culturalmente pertinente (gestos, expresiones faciales, posturas, contacto visual o corporal, prosémica). d. Usar sonidos extralingüísticos y cualidades prosódicas convencionales. • Aspectos socioculturales y sociolingüísticos: convenciones sociales, normas de cortesía y registros; costumbres, valores, creencias y actitudes; lenguaje no verbal. • Funciones comunicativas: – Gestión de relaciones sociales en el ámbito personal, público, académico y profesional. – Descripción y apreciación de cualidades físicas y abstractas de personas, objetos, lugares, actividades, procedimientos y procesos. – Narración de acontecimientos pasados puntuales y habituales, descripción de estados y situaciones presentes, y expresión de predicciones y de sucesos futuros a corto, medio y largo plazo. | Construir textos claros y con el detalle suficiente, bien organizados y adecuados al interlocutor y propósito comunicativo, sobre temas diversos, generales y más específicos dentro del propio campo de especialidad o de interés, y defender un punto de vista sobre temas generales o relacionados con la propia especialidad, indicando los pros y los contras de las distintas opciones, así como tomar parte activa en conversaciones formales o informales de cierta longitud, desenvolviéndose con un grado de corrección y fluidez que permita mantener la comunicación. Conocer, seleccionar con cuidado, y saber aplicar eficazmente y con cierta naturalidad, las estrategias adecuadas para producir textos orales de diversos tipos y de cierta longitud, planificando el discurso según el propósito, la situación, los interlocutores y el canal de comunicación; recurriendo a la paráfrasis o a circunloquios cuando no se encuentra la expresión precisa, e identificando y corrigiendo los errores que puedan provocar una interrupción de la comunicación. Integrar en la propia competencia intercultural, para producir textos orales bien ajustados al contexto específico, los aspectos socioculturales y sociolingüísticos más relevantes de la lengua y culturas francesas relativos a costumbres, usos, actitudes, valores y creencias, y superar las diferencias con respecto a las lenguas y culturas propias y los estereotipos, demostrando confianza en el uso de diferentes registros u otros mecanismos de adaptación contextual, y evitando errores serios de formulación o comportamiento que puedan conducir a situaciones potencialmente conflictivas. Planificar y articular el texto oral según la función o funciones comunicativas principales y secundarias en cada caso, seleccionando los diferentes exponentes de dichas funciones según sus distintos matices de significación, y los distintos patrones discursivos de los que se dispone para presentar y organizar la información, dejando claro lo que se considera importante (p. e. mediante estructuras enfáticas), o los contrastes o digresiones con respecto al tema principal. Utilizar correctamente, sin errores que conduzcan a malentendidos, las estructuras morfosintácticas, los patrones discursivos y los elementos de coherencia y de cohesión de uso común y más específico, seleccionándolos en función del propósito comunicativo en el contexto concreto (p. e. el uso de la voz pasiva en presentaciones de carácter académico, o de frases de relativo para hacer una descripción detallada). Conocer, y saber seleccionar y utilizar léxico oral común y expresiones y modismos de uso habitual, y más especializado según los propios intereses y necesidades en el ámbito personal, público, académico y laboral/profesional, así como un reducido repertorio de palabras y expresiones que permita un uso humorístico, poético o estético sencillo del idioma. Reproducir, ajustándose debidamente a alguna variedad estándar de la lengua francesa, patrones sonoros, acentuales, rítmicos y de entonación de uso común y más específicos, seleccionándolos en función de las propias intenciones comunicativas, incluyendo la expresión sencilla de la ironía y del humor. | 1. Hace presentaciones de cierta duración sobre temas de su interés académico o relacionados con su especialidad (p. e. el desarrollo de un experimento científico, o un análisis de aspectos históricos, sociales o económicos), con una estructura clara que ayuda a los oyentes a fijarse en los aspectos más importantes, y demostrando seguridad a la hora de contestar preguntas del auditorio formuladas con claridad y a velocidad normal. 2. Se desenvuelve con seguridad en transacciones y gestiones cotidianas y menos habituales, ya sea cara a cara, por teléfono u otros medios técnicos, solicitando información detallada, ofreciendo explicaciones claras y detalladas y desarrollando su argumentación de manera satisfactoria en la resolución de los problemas que hayan surgido. 3. Participa con soltura en conversaciones informales cara a cara o por teléfono u otros medios técnicos, en las que describe con detalle hechos, experiencias, sentimientos y reacciones, sueños, esperanzas y ambiciones, y responde adecuadamente a los sentimientos que expresan sus interlocutores; describe con detalle experiencias personales y sus reacciones ante las mismas; expresa con convicción creencias, acuerdos y desacuerdos, y explica y justifica de manera persuasiva sus opiniones y proyectos. 4. Toma parte adecuadamente en conversaciones formales, entrevistas, reuniones y debates de carácter académico u ocupacional, aportando y pidiendo información relevante y detallada sobre aspectos concretos y abstractos de temas cotidianos y menos habituales en estos contextos; explicando los motivos de un problema complejo y pidiendo y dando instrucciones o sugerencias para resolverlo; desarrollando argumentos de forma comprensible y convincente y comentando las contribuciones de los interlocutores; opinando, y haciendo propuestas justificadas sobre futuras actuaciones. |
+| – Intercambio de información, indicaciones, opiniones, creencias y puntos de vista, consejos, advertencias y avisos. – Expresión de la curiosidad, el conocimiento, la certeza, la confirmación, la duda, la conjetura, el escepticismo y la incredulidad. – Expresión de la voluntad, la intención, la decisión, la promesa, la orden, la autorización y la prohibición, la exención y la objeción. – Expresión del interés, la aprobación, el aprecio, el elogio, la admiración, la satisfacción, la esperanza, la confianza, la sorpresa, y sus contrarios. – Formulación de sugerencias, deseos, condiciones e hipótesis. – Establecimiento y gestión de la comunicación y organización del discurso. • Estructuras gramaticales, léxicas y sintáctico-discursivas, patrones sonoros, acentuales, rítmicos y de entonación (1). | Expresarse con relativa facilidad y naturalidad, y con un grado de fluidez que permita desarrollar el discurso sin mucha ayuda del interlocutor, aunque puedan darse algunos problemas de formulación que ralenticen algo el discurso o que requieran plantear de manera distinta lo que se quiere decir. Gestionar la interacción de manera eficaz en situaciones habituales, respetando y tomando el turno de palabra con amabilidad y cuando se desea, y ajustando la propia contribución a la de los interlocutores percibiendo sus reacciones, así como defenderse en situaciones menos rutinarias, e incluso difíciles, p. e. cuando el interlocutor acapara el turno de palabra, o cuando su contribución es escasa y haya que rellenar las lagunas comunicativas o animarle a participar. |  |
 
-Escuchar y comprender casi todas las noticias emitidas en diferido (radio, televisión...);
+Bloque 3. Comprensión de textos escritos
 
-Comprender la mayoría de las películas y canciones con un nivel de lengua estándar.
+| Contenidos | Criterios de evaluación | Estándares de aprendizaje evaluable |
+| --- | --- | --- |
+| • Estrategias de comprensión: – Movilización de información previa sobre tipo de tarea y tema. – Identificación del tipo textual, adaptando la comprensión al mismo. – Distinción de tipos de comprensión (sentido general, información esencial, puntos principales, detalles relevantes, implicaciones). – Formulación de hipótesis sobre contenido y contexto. – Inferencia y formulación de hipótesis sobre significados a partir de la comprensión de elementos significativos, lingüísticos y paralingüísticos. – Reformulación de hipótesis a partir de la comprensión de nuevos elementos. • Aspectos socioculturales y sociolingüísticos: convenciones sociales, normas de cortesía y registros; costumbres, valores, creencias y actitudes; lenguaje no verbal. • Funciones comunicativas: – Gestión de relaciones sociales en el ámbito personal, público, académico y profesional. – Descripción y apreciación de cualidades físicas y abstractas de personas, objetos, lugares, actividades, procedimientos y procesos. – Narración de acontecimientos pasados puntuales y habituales, descripción de estados y situaciones presentes, y expresión de predicciones y de sucesos futuros a corto, medio y largo plazo. – Intercambio de información, indicaciones, opiniones, creencias y puntos de vista, consejos, advertencias y avisos. – Expresión de la curiosidad, el conocimiento, la certeza, la confirmación, la duda, la conjetura, el escepticismo y la incredulidad. – Expresión de la voluntad, la intención, la decisión, la promesa, la orden, la autorización y la prohibición, la exención y la objeción. – Expresión del interés, la aprobación, el aprecio, el elogio, la admiración, la satisfacción, la esperanza, la confianza, la sorpresa, y sus contrarios. – Formulación de sugerencias, deseos, condiciones e hipótesis. – Establecimiento y gestión de la comunicación y organización del discurso. • Estructuras gramaticales, léxicas y sintáctico-discursivas (1). • Léxico escrito común y más especializado (recepción), dentro de las propias áreas de interés en los ámbitos personal, público, académico y ocupacional, relativo a la descripción de personas y objetos, tiempo y espacio, estados, eventos y acontecimientos, actividades, procedimientos y procesos; relaciones personales, sociales, académicas y profesionales; educación y estudio; trabajo y emprendimiento; bienes y servicios; lengua y comunicación intercultural; ciencia y tecnología; historia y cultura. • Patrones gráficos y convenciones ortográficas (1). | Identificar las ideas principales, información detallada e implicaciones generales de textos de cierta longitud, bien organizados y lingüísticamente complejos, en una variedad de lengua francesa estándar y que traten de temas tanto concretos como abstractos, incluso si son de carácter técnico cuando estén dentro del propio campo de especialización o de interés, en los ámbitos personal, público, académico y laboral/profesional, siempre que se puedan releer las secciones difíciles. Conocer y saber aplicar las estrategias adecuadas para comprender el sentido general; la información esencial; los puntos principales; los detalles relevantes; información, ideas y opiniones tanto implícitas como explícitas del texto si están claramente señalizadas; y matices como la ironía o el humor, o el uso poético o estético de la lengua francesa, formulados de manera clara. Conocer con la profundidad debida y aplicar eficazmente a la comprensión del texto los conocimientos sociolingüísticos relativos a la estructuración social, a las relaciones interpersonales en diversos contextos (desde informal hasta institucional) y las convenciones sociales (incluyendo creencias y estereotipos) predominantes en las culturas en que se utiliza la lengua francesa, así como los conocimientos culturales más relevantes (p. e. históricos o artísticos) que permitan captar las alusiones más directas sobre estos aspectos que pueda contener el texto. Distinguir la función o funciones comunicativas tanto principales como secundarias del texto y apreciar las diferencias de significación de distintos exponentes de las mismas, así como distinguir los significados generales asociados al uso de distintos patrones discursivos típicos por lo que respecta a la presentación y organización de la información y las ideas (p. e. uso de estructuras pasivas o enfáticas, contraste, digresión o recapitulación). Distinguir y aplicar a la comprensión del texto escrito los significados y funciones específicos generalmente asociados a diversas estructuras sintácticas de uso común según el contexto de comunicación (p. e. estructura interrogativa para expresar admiración). Reconocer léxico escrito común y más especializado relacionado con los propios intereses y necesidades en el ámbito personal, público, académico y laboral/profesional, y expresiones y modismos de uso habitual, así como las connotaciones más discernibles en el uso humorístico, poético o estético del idioma cuando el contexto o el apoyo visual facilitan su comprensión. Reconocer los valores asociados a convenciones de formato, tipográficas, ortográficas y de puntuación comunes y menos habituales, así como abreviaturas y símbolos de uso común y más específico (p. e. §, ≤). | 1. Comprende instrucciones extensas y complejas dentro de su área de interés o su especialidad, incluyendo detalles sobre condiciones y advertencias, siempre que pueda volver a leer las secciones difíciles (p. e. acerca de instrumentos de medición o de procedimientos científicos). 2. Entiende detalles relevantes e implicaciones de anuncios y material de carácter publicitario sobre asuntos de su interés personal (p. e. afiches, flyers, pancartas, grafitti), académico (p. e. pósteres científicos) o profesional (p. e. boletines informativos, documentos oficiales). 3. Comprende la información, la intención y las implicaciones de notas y correspondencia personal en cualquier soporte, incluidos foros y blogs, en los que se transmiten y justifican de manera detallada información, ideas y opiniones sobre temas concretos y abstractos de carácter personal y dentro de su área de interés. 4. Comprende los detalles relevantes y las implicaciones de correspondencia formal de instituciones públicas o entidades privadas como universidades, empresas o compañías de servicios, sobre temas concretos y abstractos de carácter personal y académico dentro de su área de interés o su especialidad. 5. Comprende la información, e ideas y opiniones implícitas, en noticias y artículos periodísticos y de opinión bien estructurados y de cierta longitud que tratan de una variedad de temas de actualidad o más especializados, tanto concretos como abstractos, dentro de su área de interés, y localiza con facilidad detalles relevantes en esos textos. 6. Entiende, en textos de referencia y consulta, tanto en soporte papel como digital, información detallada sobre temas de su especialidad en los ámbitos académico u ocupacional, así como información concreta relacionada con cuestiones prácticas en textos informativos oficiales, institucionales, o corporativos. 7. Comprende los aspectos principales, detalles relevantes, algunas ideas implícitas y el uso poético de la lengua francesa en textos literarios que presenten una estructura accesible y un lenguaje no muy idiomático, y en los que el desarrollo del tema o de la historia, los personajes centrales y sus relaciones, o el motivo poético, estén claramente señalizados con marcadores lingüísticos fácilmente reconocibles. |
 
-Hablar y conversar:
+Bloque 4. Producción de textos escritos: Expresión e interacción
 
-Tomar la palabra en público; respetando las reglas de cortesía y de pertinencia;
+| Contenidos | Criterios de evaluación | Estándares de aprendizaje evaluable |
+| --- | --- | --- |
+| • Estrategias de producción: – Planificación: Movilizar y coordinar las propias competencias generales y comunicativas con el fin de realizar eficazmente la tarea (repasar qué se sabe sobre el tema, qué se puede o se quiere decir, etc.) Localizar y usar adecuadamente recursos lingüísticos o temáticos (uso de un diccionario o gramática, obtención de ayuda, etc.) – Ejecución: Expresar el mensaje con claridad ajustándose a los modelos y fórmulas de cada tipo de texto. Reajustar la tarea (emprender una versión más modesta de la tarea) o el mensaje (hacer concesiones en lo que realmente le gustaría expresar), tras valorar las dificultades y los recursos disponibles. Apoyarse en y sacar el máximo partido de los conocimientos previos (utilizar lenguaje «prefabricado», etc.) • Aspectos socioculturales y sociolingüísticos: convenciones sociales, normas de cortesía y registros; costumbres, valores, creencias y actitudes; lenguaje no verbal. • Funciones comunicativas: – Gestión de relaciones sociales en el ámbito personal, público, académico y profesional. – Descripción y apreciación de cualidades físicas y abstractas de personas, objetos, lugares, actividades, procedimientos y procesos. – Narración de acontecimientos pasados puntuales y habituales, descripción de estados y situaciones presentes, y expresión de predicciones y de sucesos futuros a corto, medio y largo plazo. – Intercambio de información, indicaciones, opiniones, creencias y puntos de vista, consejos, advertencias y avisos. – Expresión de la curiosidad, el conocimiento, la certeza, la confirmación, la duda, la conjetura, el escepticismo y la incredulidad. – Expresión de la voluntad, la intención, la decisión, la promesa, la orden, la autorización y la prohibición, la exención y la objeción. – Expresión del interés, la aprobación, el aprecio, el elogio, la admiración, la satisfacción, la esperanza, la confianza, la sorpresa, y sus contrarios. – Formulación de sugerencias, deseos, condiciones e hipótesis. – Establecimiento y gestión de la comunicación y organización del discurso. • Estructuras gramaticales, léxicas y sintáctico-discursivas, patrones sonoros, acentuales, rítmicos y de entonación (1). | Escribir, en cualquier soporte, textos bien estructurados sobre una amplia serie de temas relacionados con los propios intereses o especialidad, haciendo descripciones claras y detalladas; sintetizando información y argumentos extraídos de diversas fuentes y organizándolos de manera lógica; y defendiendo un punto de vista sobre temas generales, o más específico, indicando los pros y los contras de las distintas opciones, utilizando para ello los elementos lingüísticos adecuados para dotar al texto de cohesión y coherencia y manejando un léxico adaptado al contexto y al propósito comunicativo que se persigue. Conocer, seleccionar y aplicar las estrategias más adecuadas para elaborar textos escritos bien estructurados y de cierta longitud, p. e. integrando de manera apropiada información relevante procedente de fuentes diversas, o reajustando el registro o el estilo (incluyendo léxico, estructuras sintácticas y patrones discursivos) para adaptar el texto al destinatario y contexto específicos. Integrar en la propia competencia intercultural, para producir textos escritos bien ajustados al contexto específico, los aspectos socioculturales y sociolingüísticos más relevantes de la lengua y culturas francesas relativos a costumbres, usos, actitudes, valores y creencias, y superar las diferencias con respecto a las lenguas y culturas propias y los estereotipos, demostrando confianza en el uso de diferentes registros u otros mecanismos de adaptación contextual, y evitando errores serios de formulación o presentación textual que puedan conducir a malentendidos o situaciones potencialmente conflictivas. Planificar y articular el texto escrito según la función o funciones comunicativas principales y secundarias en cada caso, seleccionando los diferentes exponentes de dichas funciones según sus distintos matices de significación, y los distintos patrones discursivos de los que se dispone para presentar y organizar la información, dejando claro lo que se considera importante (p. e. mediante estructuras enfáticas), o los contrastes o digresiones con respecto al tema principal. Utilizar correctamente, sin errores que conduzcan a malentendidos, las estructuras morfosintácticas, los patrones discursivos y los elementos de coherencia y de cohesión de uso común y más específico, seleccionándolos en función del propósito comunicativo en el contexto concreto (p. e. el uso de la voz pasiva en presentaciones de carácter académico, o de frases de relativo para hacer una descripción detallada). | 1. Completa un cuestionario detallado con información personal, académica o laboral (p. e. para matricularse en una universidad, solicitar un trabajo, abrir una cuenta bancaria, o tramitar un visado). 2. Escribe, en cualquier soporte o formato, un curriculum vitae detallado, junto con una carta de motivación (p. e. para ingresar en una universidad extranjera, o presentarse como candidato a un puesto de trabajo). 3. Toma notas, con el suficiente detalle, durante una conferencia, charla o seminario, y elabora un resumen con información relevante y las conclusiones adecuadas, siempre que el tema esté relacionado con su especialidad y el discurso esté bien estructurado. 4. Escribe notas, anuncios, mensajes y comentarios, en cualquier soporte, en los que transmite y solicita información detallada, explicaciones, reacciones y opiniones sobre temas personales, académicos u ocupacionales, respetando las convenciones y normas de cortesía y de la netiqueta. 5. Escribe informes en formato convencional y de estructura clara relacionados con su especialidad (p. e. el desarrollo y conclusiones de un experimento, sobre un intercambio lingüístico, unas prácticas o un trabajo de investigación), o menos habituales (p. e. un problema surgido durante una estancia en el extranjero), desarrollando un argumento; razonando a favor o en contra de un punto de vista concreto; explicando las ventajas y desventajas de varias opciones, y aportando conclusiones justificadas. 6. Escribe correspondencia personal, en cualquier soporte, y se comunica con seguridad en foros y blogs, transmitiendo emoción, resaltando la importancia personal de hechos y experiencias, y comentando de manera personal y detallada las noticias y los puntos de vista de las personas a las que se dirige. Escribe, en cualquier soporte, cartas formales de carácter académico o profesional, dirigidas a instituciones públicas o privadas y a empresas, en las que da y solicita información; describe su trayectoria académica o profesional y sus competencias; y explica y justifica con el suficiente detalle los motivos de sus acciones y planes (p. e. carta de motivación para matricularse en una universidad extranjera, o para solicitar un puesto de trabajo), respetando las convenciones formales y de cortesía propias de este tipo de textos. |
+|  | Conocer, y saber seleccionar y utilizar léxico escrito común y expresiones y modismos de uso habitual, y más especializado según los propios intereses y necesidades en el ámbito personal, público, académico y laboral/profesional, así como un reducido repertorio de palabras y expresiones que permita un uso humorístico y estético sencillo del idioma. Ajustarse con consistencia a los patrones ortográficos, de puntuación y de formato de uso común, y algunos de carácter más específico (p. e. abreviaturas o asteriscos); saber manejar procesadores de textos para resolver, p. e., dudas sobre variantes ortográficas en diversos estándares de la lengua francesa, y utilizar con soltura las convenciones escritas que rigen en la comunicación por Internet. |  |
 
-Participar en un diálogo, un debate o una conversación con un nivel de fluidez y espontaneidad que permita la comunicación normal con hablantes nativos;
+Bloque 5. Estudio literario (2)
 
-Tener en cuenta los propósitos del otro y explicar un punto de vista, exponiendo las ventajas y los inconvenientes;
+| Contenidos | Criterios de evaluación | Estándares de aprendizaje evaluable |
+| --- | --- | --- |
+| Estudio de las obras más representativas de la literatura francófona desde el siglo XVI hasta el siglo XXI a través de la lectura y análisis de las obras completas y «conjuntos» de textos más significativos. Análisis de «conjuntos de texto» y obras completas más significativas de la literatura francófona desde el siglo XVI hasta el siglo XXI, identificando sus principales características temáticas y formales, en relación con su contexto histórico- sociológico. Interpretación crítica de «conjuntos» de textos y obras significativas de la literatura francófona desde el siglo XVI hasta el siglo XXI, detectando las ideas que manifiestan la relación de la obra con su contexto histórico- sociológico. Desarrollo del interés por la lectura y el conocimiento de obras literarias, filosóficas, prensa, etc. del mundo francófono. | Realizar el estudio de las obras más representativas de la literatura francófona desde el siglo XVI hasta el siglo XXI a través de la lectura y análisis de «conjuntos» de textos y obras significativas. Leer y analizar «conjuntos» de textos u obras completas significativas desde el siglo XVI al siglo XXI, identificando sus principales características temáticas y formales relacionándolas con su contexto histórico-sociológico. Interpretar críticamente «conjuntos» de textos u obras significativas de la literatura francófona desde el siglo XVI al siglo XXI, detectando las ideas que manifiestan la relación de la obra con su contexto histórico- sociológico. Comentar e interpretar razonadamente y con una solvente competencia escrita, textos de la literatura francófona de los siglos XIX, XX y XXI. Elaborar un ensayo relacionado con el tema de estudio previamente fijado y con una solvente competencia escrita, a partir del programa de literatura relativo a las obras y autores de los siglos XIX, XX y XXI. | 1. Lee y analiza «conjuntos» de textos y obras significativas de la literatura francófona desde el siglo XVI hasta el siglo XXI. 2. Identifica las principales características temáticas y formales relacionándolas con su contexto histórico-sociológico. 3. Interpreta críticamente «conjuntos» de textos y obras significativas desde el siglo XVI hasta el siglo XXI. 4. Detecta las ideas que manifiestan la relación de los textos o de las obra con su contexto histórico-sociológico. 5. Comenta e interpreta de forma razonada fragmentos de textos de la literatura francófona de los siglos XIX, XX y XXI. 6. Escribe una redacción de forma organizada sobre un tema estrechamente relacionado con el texto propuesto, expresando de forma justificada su punto de vista. 7. Elabora y planifica de manera adecuada un texto de carácter argumentativo, basándose en el estudio de las obras previamente fijadas. |
 
-Explicar un trabajo individual o colectivo (exposiciones, experiencias, demostraciones...) de manera clara y detallada sobre una amplia serie de temas relacionados con sus intereses;
+(1) Referidas a los contenidos de A-2. Lista de nociones para el estudio de la lengua.
 
-Reformular un texto o un mensaje leído o pronunciado por un tercero.
-
-Adaptar su mensaje (actitud y nivel de lengua) a la situación de comunicación (lugar, destinatario, efecto buscado);
-
-Expresarse con una pronunciación y una entonación adecuadas.
-
-2. Leer y escribir:
-
-Leer y comprender:
-
-Manifestar una buena comprensión de textos variados: literarios, científicos, periodísticos, administrativos...
-
-Comprender las ideas esenciales de un texto leído y analizar los elementos constitutivos de une frase, un párrafo o un texto, con el fin de esclarecer su significado;
-
-Leer breves obras literarias integrales francesas y de expresión francesa, fundamentalmente de los siglos XX y XXI, y dar cuenta de su lectura;
-
-Comentar las formas, los efectos de estilo más relevantes y el propósito o intención de un texto o de una obra literaria integral;
-
-Leer en voz alta, de manera expresiva, un texto en prosa o en verso (con un ritmo y una entonación adecuados.
-
-Escribir:
-
-Escribir textos claros y detallados sobre una amplia serie de temas relacionados con sus intereses;
-
-Tomar notas y escribir cartas destacando el valor que se da a determinados hechos y experiencias
-
-Responder a una cuestión de manera argumentada exponiendo los motivos que apoyan o refutan una opinión particular;
-
-Redactar un trabajo coherente, bien estructurado, correctamente puntuado, respetando las consignas dadas (carta, informe, crítica, ensayo…);
-
-Adaptar el propósito o intención al destinatario y al efecto buscado;
-
-Respetar las reglas de ortografía léxica y gramatical;
-
-Respetar las consignas relativas a las diferentes evaluaciones certificativas.
-
-3. Conocimiento de la lengua:
-
-La expresión escrita y la expresión oral deberán trabajarse constantemente a lo largo de los dos cursos del bachillerato.
-
-El enriquecimiento del léxico, el dominio de la ortografía y de la gramática deberán conducir a los alumnos a comprender y a verificar que el respeto de las reglas de expresión favorece un pensamiento preciso y un razonamiento riguroso. El alumno deberá adquirir progresivamente los instrumentos de la lengua como son el vocabulario, la gramática y la ortografía para poder leer, comprender y escribir textos en diferentes contextos; el dominio de los instrumentos de la lengua sirve igualmente en la práctica del oral, la comprensión de las palabras de los otros y la expresión personal. La expresión escrita y la expresión oral permiten la reutilización de los aprendizajes y la evaluación regular de los progresos de dicho aprendizaje.
-
-El léxico:
-
-Durante los años de formación en el bachillerato se desarrollará en el alumnado una buena competencia léxica, asegurando progresivamente la adquisición de un repertorio léxico cada vez más amplio.
-
-Los alumnos y alumnas deberán estar atentos a la elección de la palabra justa, del vocabulario pertinente que emplean, a las expresiones idiomáticas o coloquiales, e incluso a la polisemia de las palabras y a su connotación.
-
-En efecto, un vocabulario extenso y progresivamente enriquecido favorece el acceso a los textos y a las obras, así como la comunicación con los demás. Deberá trabajarse especialmente el vocabulario referido a la abstracción, la afectividad, y el léxico literario (géneros, registros, movimientos).
-
-La gramática:
-
-La competencia gramatical concierne dos niveles: la frase y el texto, en una dimensión discursiva. La gramática del discurso (que concierne a la vez el texto y la frase) participa en la construcción del contenido, y se desarrolla gracias a la lectura de textos, a los trabajos de escritura y a las diferentes formas de comunicación oral.
-
-La sintaxis y el análisis de la frase.
-
-Estaremos especialmente atentos a la estructuración de la oración compleja, con el dominio de los conectores sintácticos, como los que rigen las proposiciones principales y subordinadas en el interior de las frases: relaciones temporales y relaciones lógicas (causa / consecuencia / concesión / finalidad / comparación / suposición).
-
-El texto y la intención enunciativa.
-
-Se cuidará particularmente la organización del texto y todo lo que asegure su cohesión, fundamentalmente los términos de repetición (anáforas), las progresiones (tema intención) y las conexiones (encadenamientos de las frases de un mismo texto).
-
-Si consideramos el texto en su dimensión discursiva, es decir, la «puesta en práctica del lenguaje», se tendrán en cuenta tres criterios: el de la enunciación, el de la interacción y el del uso (del género, que codifica el discurso).
-
-La pronunciación.
-
-Se acordará una gran importancia a la corrección fonética. La pronunciación y la entonación deberán alcanzar una corrección suficiente que no entorpezca la comunicación.
-
-Sería conveniente utilizar algunos signos del alfabeto fonético internacional para mejorar la pronunciación de forma autónoma.
-
-Deberán reproducirse diferentes patrones de acentuación, ritmo y entonación, necesarios para la expresión y comprensión de distintas actitudes y sentimientos.
-
-La ortografía.
-
-Se cuidará el desarrollo de la competencia ortográfica a través de las lecturas y sobre todo de las producciones escritas variadas, con el fin de que el alumnado presente escritos que tengan el menor número posible de errores. La utilización del corrector ortográfico integrado en los programas de tratamiento de textos será objeto de un aprendizaje razonado.
-
-Se espera además un muy buen dominio de la presentación, de la organización de las ideas en párrafos y de la puntuación. En este aspecto, el recurso a los programas de tratamiento de textos será una ayuda muy valiosa.
-
-4. Aspectos socio-culturales y conciencia intercultural:
-
-El interés por la lengua como instrumento de reflexión, de comunicación y de inserción en otras culturas potencia:
-
-la apertura a la comunicación, al diálogo y al debate;
-
-la consideración y el respeto hacia el interlocutor y hacia otros puntos de vista;
-
-el deseo de exactitud en la expresión escrita y oral;
-
-el gusto por el enriquecimiento del vocabulario y de las estructuras lingüísticas;
-
-el interés por la lectura y el conocimiento de obras literarias, filosóficas, prensa... de otros países;
-
-el reconocimiento de los efectos expresivos, los juegos de palabras, las metáforas, y de la fuerza emotiva de las lenguas.
+(2) Referidas a la relación de géneros y autores de B-1. Textos literarios.
 
 A-2. Lista de nociones para el estudio de la lengua:
 
@@ -240,175 +160,201 @@ En 2.º de Bachillerato deberán prepararse especialmente textos de los siglos X
 
 Siglos XVI y XVII:
 
-Rabelais: Gargantua, Pantagruel (fragmentos)
+− Rabelais: Gargantua, Pantagruel (fragmentos).
 
-Perrault: Les Contes
+− Perrault: Les Contes.
 
 Siglo XVIII:
 
-Montesquieu: Les Lettres persanes (fragmentos)
+− Montesquieu: Les Lettres persanes (fragmentos).
 
-Voltaire: Contes
+− Voltaire: Contes.
 
-Rousseau: La Nouvelle Héloïse (fragmentos)
+− Rousseau: La Nouvelle Héloïse (fragmentos).
 
-Bernardin de St Pierre: Paul et Virginie
+− Bernardin de St Pierre: Paul et Virginie.
 
-Prévost: Histoire du Chevalier des Grieux et de Manon Lescaut
+− Prévost: Histoire du Chevalier des Grieux et de Manon Lescaut.
 
-Lesage: Histoire de Gil Blas de Santillane (fragmentos)
+− Lesage: Histoire de Gil Blas de Santillane (fragmentos).
 
-Diderot: Contes
+− Diderot: Contes.
 
 Siglo XIX:
 
-Hugo: Les Misérables (fragmentos)
+− Hugo: Les Misérables (fragmentos).
 
-Stendhal: Le Rouge et le Noir, La Chartreuse de Parme
+− Stendhal: Le Rouge et le Noir, La Chartreuse de Parme.
 
-Balzac: Eugénie Grandet, Le Père Goriot, La Cousine Bette
+− Balzac: Eugénie Grandet, Le Père Goriot, La Cousine Bette.
 
-Dumas: Les Trois mousquetaires
+− Dumas: Les Trois mousquetaires.
 
-Mérimée: La Vénus d’Ille, Carmen
+− Mérimée: La Vénus d’Ille, Carmen.
 
-Théophile Gautier: Contes et récits fantastiques
+− Théophile Gautier: Contes et récits fantastiques.
 
-Flaubert: Madame Bovary
+− Flaubert: Madame Bovary.
 
-Zola: L’Assommoir, Germinal, Thérèse Raquin
+− Zola: L’Assommoir, Germinal, Thérèse Raquin, Nana.
 
-Jules Verne: Le Tour du monde en 80 jours
+− Jules Verne: Le Tour du monde en 80 jours.
+
+− Guy de Maupassant: Les bijoux, La parure.
 
 Siglos XX y XXI:
 
-Proust: Un Amour de Swann (fragmentos)
+− Proust: Un Amour de Swann (fragmentos); À la recherche du temps perdu.
 
-Saint- Exupéry: Le petit prince, Vol de nuit, Terre des hommes
+− Saint- Exupéry: Le petit prince, Vol de nuit, Terre des hommes.
 
-Camus: L’Etranger, La Peste
+− Camus: L’Etranger, La Peste.
 
-Gide: La symphonie pastorale
+− Gide: La symphonie pastorale.
 
-Simenon: Le Chien Jaune, Le Bourgmestre de Furnes
+− Simenon: Le Chien Jaune, Le Bourgmestre de Furnes.
 
-Albert Cohen: Les valeureux, Le livre de ma mère (fragmentos)
+− Albert Cohen: Les valeureux, Le livre de ma mère (fragmentos).
 
-Tournier: Vendredi ou les limbes du Pacifique
+− Tournier: Vendredi ou les limbes du Pacifique.
 
-Le Clézio: Mondo et autres histoires, La Ronde et autres faits divers, Le chercheur d’or….
+− Le Clézio: Mondo et autres histoires, La Ronde et autres faits divers, Le chercheur d’or…
 
-Duras: Un Barrage contre le Pacifique
+− Duras: Un Barrage contre le Pacifique.
 
-Yourcenar: Mémoires d’Hadrien, Nouvelles orientales
+− Yourcenar: Mémoires d’Hadrien, Nouvelles orientales.
 
-Raymond Queneau: Zazie dans le métro
+− Raymond Queneau: Zazie dans le métro.
 
-Boris Vian: L’Écume des jours
+− Boris Vian: L’Écume des jours.
 
-Modiano: La ronde de nuit, Villa triste
+− Modiano: La ronde de nuit, Villa triste.
 
-Pennac: La petite marchande de prose, Chagrin d’école
+− Pennac: La petite marchande de prose, Chagrin d’école.
 
-Ben Jelloun: L’Enfant de sable, La Nuit sacrée
+− Ben Jelloun: L’Enfant de sable, La Nuit sacrée.
 
-Maalouf: Léon l’Africain
+− Maalouf: Léon l’Africain.
 
-Nothomb: Stupeur et tremblements
+− Nothomb: Stupeur et tremblements.
 
-Dai Sijie: Balzac et la petite tailleuse chinoise
+− Dai Sijie: Balzac et la petite tailleuse chinoise.
 
-Assia Djebar: Nulle part dans la maison de mon père
+− Assia Djebar: Nulle part dans la maison de mon père.
 
-Éric-Emmanuel Schmitt: Monsieur Ibrahim et les fleurs du Coran
+− Éric-Emmanuel Schmitt: Monsieur Ibrahim et les fleurs du Coran.
 
-Irène Némirovsky: Suite française
+− Irène Némirovsky: Suite française.
 
-Anna Gavalda: Ensemble, c’est tout
+− Anna Gavalda: Ensemble, c’est tout.
 
-Pascal Quignard: Tous les matins du monde
+− Pascal Quignard: Tous les matins du monde.
 
-Sylvie Germain: Magnus, Le Livre des nuits
+− Sylvie Germain: Magnus, Le Livre des nuits.
+
+− Jean Giono: L’homme qui plantait des arbres.
+
+− Jules Romain: Knock ou le triomphe de la médecine.
+
+− François Mauriac: Nœud de vipères, Thérèse Desqueyroux.
+
+− Vercors: Le silence de la mer.
+
+− Romain Gary: La vie devant soi.
+
+− Françoise Sagan: Bonjour tristesse.
+
+− Louis Ferdinand Céline: Voyage au bout de la nuit.
+
+− Erik Orsenna: Madame Bâ.
+
+− Laurent Gaudé: Le Soleil des Scorta.
+
+− Pierre Rabbi: Du Sahara aux Cévennes. Itinéraire d’un homme au service de la Terre-Mer.
+
+− Yasmina Khadra: Les hirondelles de Kaboul, L’attentat, Les sirènes de Bagdad.
+
+− Marc Lévy: Toutes ces choses qu’on ne s’est pas dites, Le voleur d´ombres.
 
 2. Teatro:
 
 Siglo XVII:
 
-Corneille: Le Cid
+− Corneille: Le Cid.
 
-Molière: Le Malade imaginaire, L’Avare, Dom Juan, Tartuffe
+− Molière: Le Malade imaginaire, L’Avare, Dom Juan, Tartuffe.
 
-Racine: Phèdre, Andromaque, Bérénice
+− Racine: Phèdre, Andromaque, Bérénice.
 
 Siglo XVIII:
 
-Beaumarchais: Le Barbier de Séville, Le Mariage de Figaro
+− Beaumarchais: Le Barbier de Séville, Le Mariage de Figaro.
 
 Siglo XIX:
 
-Hugo: Ruy Blas, Hernani
+− Hugo: Ruy Blas, Hernani.
 
-Rostand: Cyrano de Bergerac
+− Rostand: Cyrano de Bergerac.
 
 Siglos XX y XXI:
 
-Giraudoux: La Guerre de Troie n’aura pas lieu, Electre
+− Giraudoux: La Guerre de Troie n’aura pas lieu, Electre.
 
-Anouilh: Le voyageur sans bagages, Antigone
+− Anouilh: Le voyageur sans bagages, Antigone.
 
-Ionesco: Rhinocéros, La Cantatrice chauve, Le Roi se meurt
+− Ionesco: Rhinocéros, La Cantatrice chauve, Le Roi se meurt.
 
-Sartre: Les Mouches, Huis clos, Les Mains sales
+− Sartre: Les Mouches, Huis clos, Les Mains sales.
 
-Beckett: En attendant Godot
+− Beckett: En attendant Godot.
 
-Yasmina Reza: Art
+− Yasmina Reza: Art.
 
-Nathalie Sarraute: Pour un oui ou pour un non
+− Nathalie Sarraute: Pour un oui ou pour un non.
 
 3. Poesía:
 
-Siglos XVI y XVII: Du Bellay; Ronsard; La Fontaine
+− Siglos XVI y XVII: Du Bellay; Ronsard; La Fontaine.
 
-Siglo XIX: Hugo; Musset; Lamartine; Baudelaire; Verlaine; Rimbaud
+− Siglo XIX: Hugo; Musset; Lamartine; Baudelaire; Verlaine; Rimbaud.
 
-Siglos XX y XXI: Apollinaire; Valéry; Eluard; Aragon; Breton; Desnos; Prévert; Michaux; Ponge; Bonnefoy; S. Senghor; A. Césaire…
+− Siglos XX y XXI: Apollinaire; Valéry; Eluard; Aragon; Breton; Desnos; Prévert; Michaux; Ponge; Bonnefoy; S. Senghor; A. Césaire…
 
 4. Autobiografía:
 
-Rousseau: Les Confessions (fragmentos), Les Rêveries du promeneur solitaire
+− Rousseau: Les Confessions (fragmentos), Les Rêveries du promeneur solitaire.
 
-Chateaubriand: Mémoires d’Outre-tombe (fragmentos)
+− Chateaubriand: Mémoires d’Outre-tombe (fragmentos).
 
-Sartre: Les Mots (fragmentos)
+− Sartre: Les Mots (fragmentos).
 
-Perec: W ou le souvenir d’enfance (fragmentos)
+− Perec: W ou le souvenir d’enfance (fragmentos).
 
-Andréï Makine: Le Testament français
+− Andreï Makine: Le Testament français.
 
-Sarraute: Enfance (fragmentos)
+− Sarraute: Enfance (fragmentos).
 
-Patrick Chamoiseau: Une enfance créole
+− Patrick Chamoiseau: Une enfance créole.
 
-5. Ensayo literario o filosófico, textos argumentativos o de civilización
+5. Ensayo literario o filosófico, textos argumentativos o de civilización:
 
-Voltaire: Lettres philosophiques, Dictionnaire philosophique (fragmentos)
+− Voltaire: Lettres philosophiques, Dictionnaire philosophique (fragmentos).
 
-L’Encyclopédie (artículos)
+− L’Encyclopédie (artículos).
 
-Rousseau: Discours sur l’origine et le fondement de l’inégalité parmi les hommes (fragmentos)
+− Rousseau: Discours sur l’origine et le fondement de l’inégalité parmi les hommes (fragmentos).
 
-Valéry: Regards sur le monde actuel (fragmentos)
+− Valéry: Regards sur le monde actuel (fragmentos).
 
-Sartre: L’existentialisme est un humanisme (fragmentos)
+− Sartre: L’existentialisme est un humanisme (fragmentos).
 
-Camus: Le Mythe de Sisyphe (fragmentos)
+− Camus: Le Mythe de Sisyphe (fragmentos).
 
-Antonin Artaud: Le théâtre et son double
+− Antonin Artaud: Le théâtre et son double.
 
-Lévi-Strauss: Tristes Tropiques
+− Lévi-Strauss: Tristes Tropiques.
 
-Tzvetan Todorov: Nous et les autres
+− Tzvetan Todorov: Nous et les autres.
 
 B-2. Textos y civilización:
 
@@ -430,6 +376,8 @@ Los grandes retos europeos: cultura, transporte, energía, desarrollo sostenible
 
 C. Criterios de evaluación.
 
-Los criterios de evaluación de la materia específica Lengua y literatura francesas serán los mismos que los de Lengua extranjera en bachillerato, teniendo en cuenta que al finalizar dicha etapa el alumnado deberá alcanzar el nivel de usuario avanzado o independiente (B2), establecido en el Marco de referencia europeo y requerido en la prueba específica para lograr la titulación francesa de Baccalauréat.
+Los criterios de evaluación y los estándares de aprendizaje evaluables de la materia específica Lengua y Literatura Francesas, que figuran en el apartado A-1. del anexo I-A, Lengua y Literatura Francesas, deberán aplicarse teniendo en cuenta que al finalizar dicha etapa el alumnado deberá alcanzar el nivel de usuario avanzado o independiente (B2), establecido en el Marco de referencia europeo y requerido en la prueba específica para lograr la titulación francesa de Baccalauréat.
 
 La escala global de los niveles comunes de referencia dispone, para este nivel, que el alumno será capaz de entender las ideas principales de textos complejos que traten de temas tanto concretos como abstractos, incluso si son de carácter técnico, siempre que estén dentro de su campo de especialización; que podrá relacionarse con hablantes nativos con un grado suficiente de fluidez y naturalidad, de modo que la comunicación se realice sin esfuerzo por parte de ninguno de los interlocutores; que podrá producir textos claros y detallados sobre temas diversos, así como defender un punto de vista sobre temas generales, indicando los pros y los contras de las distintas opciones.
+
+> Se modifican los apartados A-1, B-1 y C de la sección V por el art. único.5. 6 y 7 de la Orden ECD/1961/2015, de 24 de septiembre. Ref. BOE-A-2015-10392
