@@ -1,0 +1,11 @@
+## Disposición adicional primera. Administración general de las infraestructuras ferroviarias.
+
+1. La titularidad y la administración de las infraestructuras ferroviarias integradas en la Red Ferroviaria de Interés General, fuera de las zonas de servicios de los puertos de interés general o de las líneas o tramos gestionadas en régimen de concesión, corresponden a las entidades públicas empresariales Administrador de Infraestructuras Ferroviarias (ADIF) y Administrador de Infraestructuras Ferroviarias de Alta Velocidad (ADIF-Alta Velocidad), conforme a lo establecido en el Real Decreto-ley 15/2013 y en la Orden PRE/2443/2013.
+
+Mediante acuerdo de Consejo de Ministros se podrán producir traspasos de infraestructuras ferroviarias entre ADIF y ADIF-Alta Velocidad cuando existan razones de explotación o de desarrollo de la Red Ferroviaria de Interés General que así lo aconsejen. La transferencia de activos entre ambas entidades se efectuará y registrará por el valor contable por el que figuren registrados en la contabilidad de la entidad cedente, fijándose por el Consejo de Ministros los términos de la referida transmisión.
+
+2. ADIF-Alta Velocidad y ADIF podrán encomendarse la realización de determinadas actividades mediante la suscripción de un convenio. En dicho convenio se determinará la compensación económica correspondiente a la prestación de los servicios encomendados. En particular, ambas entidades podrán encomendarse la gestión de la capacidad de infraestructuras y, debido a la interconexión de las redes cuya administración tienen atribuidas ambas entidades, y como excepción a lo previsto en el artículo 19.1, también la gestión de los sistemas de control, de circulación y de seguridad.
+
+En el caso de que una de dichas entidades encomiende a la otra la realización de tareas relacionadas con la seguridad ciudadana y la protección civil, el responsable de dichas materias será el mismo en ambas entidades.
+
+3. El Ministerio de Fomento establecerá las directrices básicas que hayan de presidir la administración de las redes de titularidad de cada una de dichas entidades, señalando los objetivos, fines y costes que se deben alcanzar y los niveles de calidad en la prestación del servicio.

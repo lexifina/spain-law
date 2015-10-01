@@ -1,0 +1,3 @@
+## Disposición adicional decimoquinta. Relación de servicios complementarios y auxiliares.
+
+Se habilita al Ministro de Fomento para modificar la calificación de determinados servicios complementarios contenidos en el apartado 18 del anexo I de esta ley, para incluirlos en la relación de servicios auxiliares contenida en el apartado 19, cuando las circunstancias técnicas y las condiciones de seguridad permitan su prestación por empresa o entidad distinta del administrador de infraestructuras sin menoscabo del normal desarrollo del servicio ferroviario en términos de prestación eficaz y segura, cuando ello no resulte contrario a la legislación comunitaria.

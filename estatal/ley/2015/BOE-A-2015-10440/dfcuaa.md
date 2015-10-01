@@ -1,0 +1,3 @@
+## Disposición final cuarta. Evaluación de la capacidad financiera de los solicitantes de una licencia de empresa ferroviaria.
+
+Se autoriza al Gobierno para modificar, mediante Real decreto, los elementos determinantes de la evaluación de la capacidad financiera de los solicitantes de una licencia de empresa ferroviaria previstos en el artículo 51.2, conforme a las resoluciones que adopte a tal efecto la Comisión Europea con arreglo a lo previsto en la Directiva 2012/34/UE del Parlamento Europeo y del Consejo, de 21 de noviembre de 2012, por la que se establece un espacio ferroviario único europeo.

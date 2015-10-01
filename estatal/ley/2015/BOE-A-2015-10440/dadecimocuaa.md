@@ -1,0 +1,3 @@
+## Disposición adicional decimocuarta. Colaboración entre la Comisión Nacional de los Mercados y la Competencia y la Agencia Estatal de Seguridad Ferroviaria.
+
+Sin perjuicio de la independencia de cada organismo en el marco de sus respectivas competencias, la Comisión Nacional de los Mercados y la Competencia y la Agencia Estatal de Seguridad Ferroviaria colaborarán entre sí, intercambiarán información y podrán transmitirse recomendaciones sobre sus actividades con vistas a prevenir posibles efectos negativos para la competencia o la seguridad ferroviaria. Tales recomendaciones serán tenidas en cuenta antes de adoptar la decisión que, en su caso, corresponda.
