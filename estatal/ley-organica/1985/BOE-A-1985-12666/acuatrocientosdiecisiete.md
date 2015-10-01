@@ -10,7 +10,7 @@ Son faltas muy graves:
 
 4. La intromisión, mediante órdenes o presiones de cualquier clase, en el ejercicio de la potestad jurisdiccional de otro juez o magistrado.
 
-5. Las acciones y omisiones que hayan dado lugar en sentencia firme a una declaración de responsabilidad civil contraída en el ejercicio de la función por dolo o culpa grave conforme al artículo 411 de esta ley.
+5. Las acciones y omisiones que hayan dado lugar, en sentencia firme o en resolución firme dictada por el Consejo General del Poder Judicial, a una declaración de responsabilidad civil contraída en el ejercicio de la función por dolo o culpa grave conforme al apartado 2 del artículo 296.
 
 6. El ejercicio de cualquiera de las actividades incompatibles con el cargo de juez o magistrado, establecidas en el artículo 389 de esta ley, salvo las que puedan constituir falta grave con arreglo a lo dispuesto en el artículo 418.14 de la misma.
 
@@ -33,6 +33,8 @@ Son faltas muy graves:
 15. La absoluta y manifiesta falta de motivación de las resoluciones judiciales que la precisen, siempre que dicha falta haya sido apreciada en resolución judicial firme. Si la resolución inmotivada no fuese recurrible, será requisito para proceder la denuncia de quien fue parte en el procedimiento.
 
 16. La comisión de una falta grave cuando el juez o magistrado hubiere sido anteriormente sancionado por otras dos graves, que hayan adquirido firmeza, sin que hubieran sido canceladas o procedido la cancelación de las correspondientes anotaciones, conforme a lo establecido en el artículo 427 de esta ley.
+
+> Se modifica el punto 5 por el art. único.53 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. único.113 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

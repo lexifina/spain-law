@@ -4,16 +4,18 @@
 
 Cuando se trate de puestos de carácter directivo o de especial responsabilidad, podrán cubrirse por el procedimiento de libre designación.
 
-El nombramiento de secretarios judiciales para puestos de trabajo radicados en el ámbito territorial de una comunidad autónoma con competencias asumidas, que hayan de cubrirse por este procedimiento, requerirá el informe previo del órgano competente de dicha comunidad.
+Los puestos de trabajo de Letrado de la Administración de Justicia en el Tribunal Supremo se cubrirán por el sistema de libre designación entre aquellos candidatos que pertenezcan a la primera o segunda categoría, con una antigüedad de al menos veinte años en una de ellas o entre ambas y quince años de servicio en el orden jurisdiccional correspondiente.
 
-En todo caso, el sistema de provisión deberá estar determinado en las correspondientes relaciones de puestos de trabajo.
+El nombramiento de Letrados de la Administración de Justicia para puestos de trabajo radicados en el ámbito territorial de una Comunidad Autónoma con competencias asumidas, que hayan de cubrirse por este procedimiento, requerirá el informe previo del órgano competente de dicha Comunidad. En todo caso, el sistema de provisión deberá estar determinado en las correspondientes relaciones de puestos de trabajo.
 
 2. Excepcionalmente y cuando las necesidades del servicio lo requieran, los puestos de trabajo también podrán cubrirse de forma temporal mediante adscripción provisional o en comisión de servicios.
 
 3. Reglamentariamente se establecerán las normas y requisitos a los que habrán de ajustarse los procedimientos de provisión de puestos de trabajo.
 
-En todo caso, para poder concursar deberá haber transcurrido un período mínimo de dos años, a contar desde la fecha de la resolución por la que se convocó el concurso de traslados en el que el funcionario obtuvo su último destino definitivo, desde el que participa, o desde la fecha de la resolución en la que se le adjudicó destino definitivo, si se trata de funcionarios de nuevo ingreso. Los secretarios judiciales que no tenga destino definitivo, obligados a participar en los concursos de acuerdo con la normativa vigente, están excluidos de esta limitación temporal.
+En todo caso, para poder concursar deberá haber transcurrido un período mínimo de dos años, a contar desde la fecha de la resolución por la que se convocó el concurso de traslados en el que el funcionario obtuvo su último destino definitivo, desde el que participa, o desde la fecha de la resolución en la que se le adjudicó destino definitivo, si se trata de funcionarios de nuevo ingreso. Los letrados de la Administración de Justicia que no tenga destino definitivo, obligados a participar en los concursos de acuerdo con la normativa vigente, están excluidos de esta limitación temporal.
 
 4. En aquellas comunidades autónomas que gocen de derecho civil, foral o especial, y de idioma oficial propios, el conocimiento de los mismos se valorará como mérito.
+
+> Se modifica el apartado 1 y la referencia a los "Secretarios judiciales" del apartado 3 por el art. único.65 y la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167.
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -1,6 +1,6 @@
 ## Artículo 534.
 
-1. Los secretarios judiciales y los funcionarios de los cuerpos a que se refiere este libro estarán sujetos a responsabilidad disciplinaria y serán sancionados en los supuestos y de acuerdo con los principios que se establecen en esta ley orgánica.
+1. Los letrados de la Administración de Justicia y los funcionarios de los cuerpos a que se refiere este libro estarán sujetos a responsabilidad disciplinaria y serán sancionados en los supuestos y de acuerdo con los principios que se establecen en esta ley orgánica.
 
 2. Además de los autores, serán responsables disciplinariamente los superiores que consintieren, así como quienes indujeran o encubrieran, las faltas muy graves y graves cuando de dichos actos se deriven graves daños para la Administración o los ciudadanos.
 
@@ -19,5 +19,7 @@ Sólo podrá recaer sanción penal y disciplinaria sobre los mismos hechos, cuan
 6. Durante la tramitación del procedimiento se podrá acordar la suspensión provisional como medida cautelar, que requerirá resolución motivada.
 
 7. Las sanciones disciplinarias serán anotadas en el registro de personal, con expresión de los hechos imputados. Dichas anotaciones serán canceladas por el transcurso de los plazos que se determinen reglamentariamente.
+
+> Se modifica la referencia a los "Secretarios judiciales" por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
 > Se añade por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

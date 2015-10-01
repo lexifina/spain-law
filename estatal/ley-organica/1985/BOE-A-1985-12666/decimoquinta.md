@@ -20,7 +20,7 @@ d) 50 euros, si el recurso fuera el de casación, incluido el de casación para 
 
 e) 50 euros, si fuera revisión.
 
-4. Asimismo, para la interposición de recursos contra resoluciones dictadas por el Juez o Tribunal que no pongan fin al proceso ni impidan su continuación en cualquier instancia será precisa la consignación como depósito de 25 euros. El mismo importe deberá consignar quien recurra en revisión las resoluciones dictadas por el Secretario Judicial.
+4. Asimismo, para la interposición de recursos contra resoluciones dictadas por el Juez o Tribunal que no pongan fin al proceso ni impidan su continuación en cualquier instancia será precisa la consignación como depósito de 25 euros. El mismo importe deberá consignar quien recurra en revisión las resoluciones dictadas por el Letrado de la Administración de Justicia.
 
 Se excluye de la consignación de depósito la formulación del recurso de reposición que la ley exija con carácter previo al recurso de queja.
 
@@ -51,5 +51,7 @@ De no efectuarlo, se dictará auto que ponga fin al trámite del recurso, o que 
 13. La exigencia de este depósito será compatible con el devengo de la tasa exigida por el ejercicio de la potestad jurisdiccional.
 
 14. El depósito previsto en la presente disposición no será aplicable para la interposición de los recursos de suplicación o de casación en el orden jurisdiccional social, ni de revisión en el orden jurisdiccional civil, que continuarán regulándose por lo previsto, respectivamente, en la Ley de Procedimiento Laboral y en la Ley de Enjuiciamiento Civil.
+
+> Se modifica la referencia a los "Secretarios judiciales" en el apartado 4 por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
 > Se añade por el art. 1.19 de la Ley Orgánica 1/2009, de 3 de noviembre. Ref. BOE-A-2009-17492.

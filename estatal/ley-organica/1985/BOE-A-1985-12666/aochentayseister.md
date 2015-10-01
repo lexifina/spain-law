@@ -1,8 +1,8 @@
 ## Artículo 86 ter.
 
-1. Los juzgados de lo mercantil conocerán de cuantas cuestiones se susciten en materia concursal, en los términos previstos en su Ley reguladora. En todo caso, la jurisdicción del juez del concurso será exclusiva y excluyente en las siguientes materias:
+1. Los Juzgados de lo mercantil conocerán de cuantas cuestiones se susciten en materia concursal, en los términos previstos en su Ley reguladora y sin perjuicio de lo dispuesto en el artículo 85.6. En todo caso, la jurisdicción del juez del concurso será exclusiva y excluyente en las siguientes materias:
 
-1.º Las acciones civiles con trascendencia patrimonial que se dirijan contra el patrimonio del concursado con excepción de las que se ejerciten en los procesos sobre capacidad, filiación, matrimonio y menores a las que se refiere el título I del Libro IV de la Ley de Enjuiciamiento Civil. Con el mismo alcance conocerá de la acción a que se refiere el artículo 17.1 de la Ley Concursal.
+1.º Las acciones civiles con trascendencia patrimonial que se dirijan contra el patrimonio del concursado, con excepción de las que se ejerciten en los procesos sobre capacidad, filiación, matrimonio y menores a las que se refiere el título I del libro IV de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil. Con el mismo alcance conocerá de la acción a que se refiere el artículo 17.1 de la Ley 22/2003, de 9 de julio, Concursal.
 
 2.º Las acciones sociales que tengan por objeto la extinción, modificación o suspensión colectivas de los contratos de trabajo en los que sea empleador el concursado, así como la suspensión o extinción de contratos de alta dirección, sin perjuicio de que cuando estas medidas supongan modificar las condiciones establecidas en convenio colectivo aplicable a estos contratos se requerirá el acuerdo de los representantes de los trabajadores. En el enjuiciamiento de estas materias, y sin perjuicio de la aplicación de las normas específicas de la Ley Concursal, deberán tenerse en cuenta los principios inspiradores de la ordenación normativa estatutaria y del proceso laboral.
 
@@ -14,23 +14,23 @@
 
 6.º Las acciones tendentes a exigir responsabilidad civil a los administradores sociales, a los auditores o, en su caso, a los liquidadores, por los perjuicios causados al concursado durante el procedimiento.
 
-2. Los juzgados de lo mercantil conocerán, asimismo, de cuantas cuestiones sean de la competencia del orden jurisdiccional civil, respecto de:
+2. Los Juzgados de lo Mercantil conocerán, asimismo, de cuantas cuestiones sean de la competencia del orden jurisdiccional civil, respecto de:
 
 a) Las demandas en las que se ejerciten acciones relativas a competencia desleal, propiedad industrial, propiedad intelectual y publicidad, así como todas aquellas cuestiones que dentro de este orden jurisdiccional se promuevan al amparo de la normativa reguladora de las sociedades mercantiles y cooperativas.
 
 b) Las pretensiones que se promuevan al amparo de la normativa en materia de transportes, nacional o internacional.
 
-c) Aquellas pretensiones relativas a la aplicación del Derecho Marítimo.
+c) Aquellas pretensiones relativas a la aplicación del Derecho marítimo.
 
-d) Las acciones relativas a condiciones generales de la contratación en los casos previstos en la legislación sobre esta materia.
+d) Las acciones colectivas previstas en la legislación relativa a condiciones generales de la contratación y a la protección de consumidores y usuarios.
 
 e) Los recursos contra las resoluciones de la Dirección General de los Registros y del Notariado en materia de recurso contra la calificación del Registrador Mercantil, con arreglo a lo dispuesto en la Ley Hipotecaria para este procedimiento.
 
-f) De los procedimientos de aplicación de los artículos 81 y 82 del Tratado constitutivo de la Comunidad Europea y su derecho derivado, así como los procedimientos de aplicación de los artículos que determine la Ley de Defensa de la Competencia.
-
-g) (Derogada)
+f) De los procedimientos de aplicación de los artículos 81 y 82 del Tratado constitutivo de la Comunidad Europea y su Derecho derivado, así como los procedimientos de aplicación de los artículos que determine la Ley de Defensa de la Competencia.
 
 3. Los Juzgados de lo Mercantil tendrán competencia para el reconocimiento y ejecución de sentencias y demás resoluciones judiciales extranjeras, cuando éstas versen sobre materias de su competencia, a no ser que, con arreglo a lo acordado en los tratados y otras normas internacionales, corresponda su conocimiento a otro Juzgado o Tribunal.
+
+> Se modifican los apartados 1 y 2 por el art. único.23 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifican los apartados 1.4º y 3 y se deroga el 2.g) por el art. único.3 y disposición derogatoria de la Ley Orgánica 5/2011, de 20 de mayo. Ref. BOE-A-2011-8846.
 

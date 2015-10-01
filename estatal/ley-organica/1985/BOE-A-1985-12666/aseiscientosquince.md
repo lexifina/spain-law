@@ -6,8 +6,10 @@
 
 3. El Jefe del Servicio de Inspección será nombrado y separado en la misma forma que el Promotor de la Acción Disciplinaria. El elegido permanecerá en situación de servicios especiales y tendrá la consideración, durante el tiempo que permanezca en el cargo, de Magistrado de Sala del Tribunal Supremo.
 
-4. Integrarán, además, el Servicio de Inspección el número de Magistrados y Secretarios Judiciales que determine el Reglamento de Organización y Funcionamiento del Consejo General del Poder Judicial.
+4. Integrarán, además, el Servicio de Inspección el número de Magistrados y Letrados de la Administración de Justicia que determine el Reglamento de Organización y Funcionamiento del Consejo General del Poder Judicial.
 
-5. Los Magistrados o Secretarios Judiciales que presten sus servicios en el Servicio de Inspección quedarán en situación de servicios especiales.
+5. Los Magistrados o Letrados de la Administración de Justicia que presten sus servicios en el Servicio de Inspección quedarán en situación de servicios especiales.
+
+> Se modifica la referencia a los "Secretarios judiciales" por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
 > Se añade por el art. único.1 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.

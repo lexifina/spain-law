@@ -1,16 +1,18 @@
 ## Artículo 468.
 
-1. Los secretarios judiciales estarán sujetos a responsabilidad disciplinaria, en los supuestos y de acuerdo con los principios que se establecen en el libro VI de esta ley orgánica para los funcionarios de los Cuerpos al servicio de la Administración de Justicia y serán objeto de iguales sanciones.
+1. Los Letrados de la Administración de Justicia estarán sujetos a responsabilidad disciplinaria, en los supuestos y de acuerdo con los principios que se establecen en este Libro.
 
-2. No podrá imponerse sanción por la comisión de una falta grave o muy grave, sino en virtud de expediente disciplinario instruido al efecto, mediante el procedimiento que se establezca en el Reglamento General de Régimen Disciplinario de los funcionarios al servicio de la Administración de Justicia.
+2. No podrá imponerse sanción por la comisión de una falta grave o muy grave, sino en virtud de expediente disciplinario instruido al efecto, mediante el procedimiento que se establezca en el reglamento orgánico del Cuerpo de Letrados de la Administración de Justicia que se dicte en desarrollo de esta Ley.
 
 Para la imposición de sanciones por faltas leves, no será preceptiva la previa instrucción del expediente, salvo el trámite de audiencia al interesado.
 
 Además de los autores, serán responsables disciplinariamente los superiores que teniendo conocimiento de los hechos, los consintieren, así como quienes indujeran o encubrieran las faltas muy graves y graves cuando de dichos actos se deriven graves daños para la Administración o los ciudadanos.
 
-3. Las comunidades autónomas con competencias asumidas podrán promover la responsabilidad disciplinaria de los secretarios judiciales con destino en órganos judiciales radicados en su territorio ante las autoridades competentes para la incoación y tramitación de los expedientes disciplinarios, quienes darán cuenta a aquéllas de las decisiones que se adopten.
+3. Las Comunidades Autónomas con competencias asumidas podrán poner en conocimiento de los superiores jerárquicos de los Letrados de la Administración de Justicia con destino en oficinas judiciales radicadas en su territorio, aquellas conductas de los mismos que puedan ir en detrimento del deber de colaboración establecido en esta Ley Orgánica con las Comunidades Autónomas.
 
-4. El procedimiento disciplinario que se establezca en desarrollo de esta ley orgánica deberá garantizar al secretario judicial expedientado, además de los reconocidos por el artículo 35 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, los siguientes derechos:
+La autoridad competente para la incoación y tramitación de los expedientes disciplinarios dará cuenta a aquéllas de las decisiones que se adopten.
+
+4. El procedimiento disciplinario que se establezca en desarrollo de esta ley orgánica deberá garantizar al letrado de la Administración de Justicia expedientado, además de los reconocidos por el artículo 35 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, los siguientes derechos:
 
 a) A la presunción de inocencia.
 
@@ -31,5 +33,7 @@ f) A poder actuar en el procedimiento asistido de letrado o de los representante
 En todo caso, la declaración de hechos probados contenida en la resolución que pone término al procedimiento penal, vinculará a la resolución que se dicte en el expediente disciplinario, sin perjuicio de la distinta calificación jurídica que pueda merecer una y otra vía.
 
 Sólo podrá recaer sanción penal y disciplinaria sobre los mismos hechos cuando no hubiere identidad de fundamento jurídico y bien jurídico protegido.
+
+> Se modifican los apartados 1, 2 y 3 y la referencia a los "Secretarios judiciales" por el art. único.76 y la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167.
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

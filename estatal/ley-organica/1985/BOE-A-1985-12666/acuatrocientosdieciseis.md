@@ -2,12 +2,14 @@
 
 1. Las faltas cometidas por los Jueces y Magistrados en el ejercicio de sus cargos podrán ser muy graves, graves y leves.
 
-2. Las faltas muy graves prescribirán a los dos años, las graves al año y las leves en el plazo previsto en el Código Penal para la prescripción de las faltas.
+2. Las faltas muy graves prescribirán a los dos años, las graves al año y las leves a los seis meses.
 
-El plazo de prescripción comenzará a contarse desde que la falta se hubiera cometido. No obstante, en el supuesto previsto en el artículo 417.5, el plazo de prescripción se iniciará a partir de la firmeza de la sentencia que declare la responsabilidad civil del Juez o Magistrado.
+El plazo de prescripción comenzará a contarse desde que la falta se hubiera cometido. No obstante, en el supuesto previsto en el artículo 417.5, el plazo de prescripción se iniciará a partir de la firmeza de la sentencia o de la resolución dictada por el Consejo General del Poder Judicial que declare la responsabilidad civil del Juez o Magistrado.
 
 3. La prescripción se interrumpirá desde la fecha de notificación del acuerdo de iniciación del procedimiento disciplinario o, en su caso, de las diligencias informativas relacionadas con la conducta investigada del Juez o Magistrado.
 
 El plazo de prescripción vuelve a correr si las diligencias o el procedimiento permanecen paralizados durante seis meses por causa no imputable al Juez o Magistrado sujeto al expediente disciplinario.
+
+> Se modifica el apartado 2 por el art. único.52 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. 7.2 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

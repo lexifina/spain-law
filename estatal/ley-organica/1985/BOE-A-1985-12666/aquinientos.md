@@ -10,13 +10,15 @@ Los funcionarios deberán ejercer su actividad en los términos que exijan las n
 
 La incorporación de los funcionarios a la jornada de mañana y tarde será voluntaria y deberá ir acompañada de medidas incentivadoras.
 
-4. La distribución de la jornada y la fijación de los horarios se determinará a través del calendario laboral que, con carácter anual, se aprobará por el órgano competente del Ministerio de Justicia y de las comunidades autónomas con competencias asumidas, en sus respectivos ámbitos, previo informe favorable del Consejo General del Poder Judicial y negociación con las organizaciones sindicales. El calendario laboral se determinará en función del número de horas anuales de trabajo efectivo. Podrán establecerse flexibilidades horarias a la entrada y salida del trabajo, garantizándose en todo caso un número de horas de obligada concurrencia continuada.
+4. La distribución de la jornada y la fijación de los horarios se determinará a través del calendario laboral que, con carácter anual, se aprobará por el órgano competente del Ministerio de Justicia y de las Comunidades Autónomas con competencias asumidas, en sus respectivos ámbitos, previo informe del Consejo General del Poder Judicial y negociación con las organizaciones sindicales. El calendario laboral se determinará en función del número de horas anuales de trabajo efectivo. Podrán establecerse flexibilidades horarias a la entrada y salida del trabajo, garantizándose en todo caso un número de horas de obligada concurrencia continuada.
 
 Los horarios que se establezcan deberán respetar en todo caso el horario de audiencia pública.
 
 5. Cuando las peculiaridades de algunos servicios u órganos jurisdiccionales así lo aconsejen, podrán establecerse horarios especiales, que figurarán en las relaciones de puestos de trabajo y serán objeto del complemento retributivo que se determine.
 
 6. El incumplimiento de la jornada dará lugar al descuento automático de las retribuciones correspondientes al tiempo no trabajado, calculado en la forma establecida por la normativa de aplicación. A estos efectos, se considera trabajo efectivo el prestado dentro del horario establecido en la forma que se determine, teniendo en cuenta las compensaciones horarias que procedan y el que corresponda a permisos retribuidos, así como los créditos de horas retribuidas por funciones sindicales.
+
+> Se modifica el apartado 4 por el art. único.95 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

@@ -10,4 +10,8 @@ A tal efecto, el Reglamento General de Ingreso, Provisión de Puestos de Trabajo
 
 4. En los concursos se ofertarán las plazas vacantes que determinen las Administraciones competentes y las que resulten del propio concurso, siempre que no esté prevista su amortización.
 
+5. Con carácter excepcional, se podrán convocar con antelación suficiente concursos de traslados sin resultas para los órganos judiciales de nueva creación al objeto de que a su entrada en funcionamiento estén dotados de personal.
+
+> Se añade el apartado 5 por el art. único.101 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
+
 > Se añade por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

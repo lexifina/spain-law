@@ -18,7 +18,11 @@ Los candidatos aprobados, de acuerdo con las plazas convocadas, optarán, según
 
 Iguales facultades que el Ministerio de Justicia, ostentarán las comunidades autónomas con competencias en la materia.
 
-8. También se reservará en la convocatoria un cupo no inferior al cinco por ciento de las vacantes para ser cubiertas entre personas con discapacidad en grado igual o superior al 33 por ciento, siempre que superen las pruebas selectivas y que acrediten el grado de discapacidad y la compatibilidad para el desempeño de las funciones y tareas correspondientes en la forma que se determine reglamentariamente. El ingreso de las personas con discapacidad en las Carreras Judicial y Fiscal se inspirará en los principios de igualdad de oportunidades, no discriminación y compensación de desventajas, procediéndose, en su caso, a la adaptación de los procesos selectivos a las necesidades especiales y singularidades de estas personas.
+8. También se reservará en la convocatoria un cupo no inferior al cinco por ciento de las vacantes para ser cubiertas entre personas con discapacidad en grado igual o superior al 33 por ciento, siempre que superen las pruebas selectivas y que acrediten el grado de discapacidad y la compatibilidad para el desempeño de las funciones y tareas correspondientes en la forma que se determine reglamentariamente. El ingreso de las personas con discapacidad en las Carreras judicial y fiscal se inspirará en los principios de igualdad de oportunidades, no discriminación y compensación de desventajas, procediéndose, en su caso, a la adaptación de los procesos selectivos a las necesidades especiales y singularidades de estas personas, mediante las adaptaciones y ajustes razonables de tiempos y medios en los procesos selectivos.
+
+Asimismo, una vez superados dichos procesos, se procederá a las adaptaciones y ajustes razonables para las necesidades de las personas con discapacidad de cualquier tipo en los puestos de trabajo y en el entorno laboral del centro o dependencia pública donde desarrollen su actividad.
+
+> Se modifica el apartado 8 por el art. único.44 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. único.66 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

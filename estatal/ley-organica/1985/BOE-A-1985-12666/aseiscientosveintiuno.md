@@ -6,8 +6,10 @@
 
 3. Los Letrados de carácter permanente, que deberán estar en posesión del título de Licenciado en Derecho o del Título de Grado en Derecho equivalente, ingresarán mediante concurso-oposición que se adecuará a los criterios que sean aprobados por el Pleno y publicados en el "Boletín Oficial del Estado".
 
-4. Los Letrados de carácter temporal, que deberán ser miembros de la carrera judicial o fiscal, pertenecer al Cuerpo de Secretarios Judiciales o ser funcionarios de carrera de un cuerpo incluido en el Subgrupo A1 de las distintas Administraciones Públicas, ingresarán mediante concurso de méritos y serán nombrados por un período inicial de dos años, pudiendo luego ser renovados anualmente, sin que en ningún caso pueda extenderse más allá de un total de diez años de prestación de servicios.
+4. Los Letrados de carácter temporal, que deberán ser miembros de la carrera judicial o fiscal, pertenecer al Cuerpo de Letrados de la Administración de Justicia o ser funcionarios de carrera de un cuerpo incluido en el Subgrupo A1 de las distintas Administraciones Públicas, ingresarán mediante concurso de méritos y serán nombrados por un período inicial de dos años, pudiendo luego ser renovados anualmente, sin que en ningún caso pueda extenderse más allá de un total de diez años de prestación de servicios.
 
 5. Quienes se hallen en servicio activo en el Cuerpo de Letrados del Consejo General del Poder Judicial por ocupar una de las plazas del Cuerpo de Letrado que tenga carácter permanente, quedarán en situación de excedencia voluntaria en cualquier otro cuerpo o carrera a que pertenezcan. Los demás Letrados al servicio del Consejo General del Poder Judicial serán declarados en servicios especiales en su Administración de origen.
+
+> Se modifica la referencia a los "Secretarios judiciales" por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
 > Se añade por el art. único.1 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.

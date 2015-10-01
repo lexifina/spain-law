@@ -1,15 +1,17 @@
 ## Artículo 35.
 
-1. La demarcación judicial, que determinará la circunscripción territorial de los órganos judiciales, se establecerá por ley.
+1. La demarcación judicial, que determinará la circunscripción territorial de los órganos judiciales, se establecerá por ley o, en los casos expresamente contemplados en esta norma, por real decreto.
 
-2. A tal fin, las Comunidades Autónomas participarán en la organización de la demarcación judicial de sus territorios respectivos, remitiendo al Gobierno, a solicitud de este, una propuesta de la misma en la que fijarán los partidos judiciales.
+2. A tal fin, las Comunidades Autónomas participarán en la organización de la demarcación judicial de sus territorios respectivos, remitiendo al Gobierno, a solicitud de éste, una propuesta de la misma en la que fijarán los partidos judiciales.
 
-3. El Ministerio de Justicia, vistas las propuestas de las Comunidades Autónomas, redactará un anteproyecto, que será informado por el Consejo General del Poder Judicial en el plazo de dos meses.
+3. El Ministerio de Justicia, vistas las propuestas de las Comunidades Autónomas, redactará la correspondiente disposición normativa, que será informada por el Consejo General del Poder Judicial en el plazo de dos meses.
 
-4. Emitido el precitado informe, el Gobierno aprobará el oportuno proyecto de Ley, que, en unión de las propuestas de las Comunidades Autónomas y del informe del Consejo General del Poder Judicial, remitirá a las Cortes Generales para su tramitación.
+4. Emitidos los precitados informes, el Gobierno procederá a la tramitación del oportuno proyecto normativo.
 
 5. La demarcación judicial será revisada cada cinco años o antes si las circunstancias lo aconsejan, mediante ley elaborada conforme al procedimiento anteriormente establecido.
 
-6. Las Comunidades Autónomas, previo informe del Consejo General del Poder Judicial, determinarán, por Ley, la capitalidad de los partidos judiciales.
+6. Las Comunidades Autónomas, previo informe del Consejo General del Poder Judicial, determinarán, por ley, la capitalidad de los partidos judiciales.
+
+> Se modifica por el art. único.14 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica el apartado 6 por el art. 9.1 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

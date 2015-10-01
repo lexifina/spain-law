@@ -16,6 +16,10 @@ e) El desempeño de aquellas jefaturas que en las relaciones de puestos de traba
 
 f) La posibilidad de ocupar puestos de las unidades administrativas, siempre que se reúnan los requisitos y conocimientos necesarios exigidos para su desempeño en las relaciones de puestos de trabajo de las mismas.
 
-g) La realización de todas aquellas funciones que legal o reglamentariamente se establezcan y de cualesquiera otras funciones de naturaleza análoga a las anteriores que, inherentes al puesto de trabajo que se desempeñe, sean encomendadas por los superiores jerárquicos, orgánicos o funcionales, en el ejercicio de sus competencias.
+g) Cuantas funciones puedan asumir en orden a la protección y apoyo a las víctimas, así como de apoyo a actuaciones de justicia restaurativa y de solución extraprocesal.
+
+h) La realización de todas aquellas funciones que legal o reglamentariamente se establezcan y de cualesquiera otras funciones de naturaleza análoga a las anteriores que, inherentes al puesto de trabajo que se desempeñe, sean encomendadas por los superiores jerárquicos, orgánicos o funcionales, en el ejercicio de sus competencias.
+
+> Se modifica la letra g) y se añade la h) por el art. único.85 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

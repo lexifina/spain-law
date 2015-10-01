@@ -10,7 +10,7 @@ Las cuestiones procesales no previstas en el Reglamento (CE) n.º 861/2007 se re
 
 El cómputo de los plazos se regirá por el Reglamento 1182/71 del Consejo, de 3 de junio de 1971, por el que se determinan las normas aplicables a los plazos, fechas y términos, sin que se excluyan los días inhábiles.
 
-3. Las cuestiones a que se refieren los apartados 3 y 4 del artículo 4 del Reglamento (CE) n.º 861/2007 se decidirán mediante decreto del secretario judicial, salvo que implique la desestimación de la demanda, en cuyo caso resolverá el juez mediante auto. En ambos casos se concederá un plazo de diez días al demandante para que manifieste lo que a su derecho convenga en relación con dicho artículo.
+3. Las cuestiones a que se refieren los apartados 3 y 4 del artículo 4 del Reglamento (CE) n.º 861/2007 se decidirán mediante decreto del Letrado de la Administración de Justicia, salvo que implique la desestimación de la demanda, en cuyo caso resolverá el juez mediante auto. En ambos casos se concederá un plazo de diez días al demandante para que manifieste lo que a su derecho convenga en relación con dicho artículo.
 
 4. Si el demandado adujese inadecuación del procedimiento por superar la reclamación de demanda no pecuniaria el valor establecido en el apartado 1 del artículo 2 del Reglamento (CE) n.º 861/2007, el juez decidirá por auto en el plazo de treinta días, contado desde que se diera traslado al demandante para que formule alegaciones, si la demanda ha de tramitarse por el presente procedimiento o bien transformarse en el procedimiento correspondiente conforme a las normas procesales españolas. Contra este auto no cabrá recurso alguno, sin perjuicio de reproducir su alegación en la apelación contra la sentencia dictada en otro procedimiento.
 
@@ -31,5 +31,7 @@ La tramitación de la denegación de la ejecución de la sentencia, así como la
 9. Cuando deba ejecutarse en España una sentencia dictada en otro Estado miembro de la Unión Europea que ponga fin a un proceso europeo de escasa cuantía, el demandante deberá presentar ante el Juzgado competente una traducción oficial al castellano o a la lengua oficial de la Comunidad Autónoma en cuyo territorio tengan lugar las actuaciones judiciales del certificado de dicha sentencia, certificada en la forma prevista en el apartado 2 del artículo 21 del Reglamento (CE) n.º 861/2007.
 
 10. Los originales de los formularios contenidos en los anexos del Reglamento (CE) n.º 861/2007, integrarán los autos tanto en los casos en los que sea un tribunal español el que resuelva el proceso europeo de escasa cuantía como en los casos en los que España sea Estado de ejecución del mismo. A los efectos oportunos, se expedirán las copias testimoniadas que correspondan.
+
+> Se modifican las referencias a "Secretarios judiciales" por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
 > Se añade por el art. 1.8 de la Ley 4/2011, de 24 de marzo. Ref. BOE-A-2011-5392.

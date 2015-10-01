@@ -2,12 +2,14 @@
 
 1. El Pleno del Consejo General del Poder Judicial elegirá anualmente a los Vocales integrantes de la Comisión de Asuntos Económicos y, de entre ellos, designará a su Presidente.
 
-2. La Comisión de Asuntos Económicos estará integrada por cinco Vocales.
+2. La Comisión de Asuntos Económicos estará integrada por tres Vocales.
 
-3. La Comisión de Asuntos Económicos deberá actuar con la asistencia, al menos, de tres de sus componentes.
+3. La Comisión de Asuntos Económicos deberá actuar con la asistencia de todos sus componentes.
 
 4. Corresponde a la Comisión de Asuntos Económicos la realización de estudios y proyectos de carácter económico y financiero que le sean encomendados por el Pleno del Consejo, el control de la actividad financiera y contable de la gerencia y aquellas otras que resulten necesarias para el correcto desempeño de las funciones del Consejo General del Poder Judicial en materia económica.
 
 5. Asimismo, la Comisión Permanente podrá delegar en la Comisión de Asuntos Económicos la elaboración del borrador de proyecto del presupuesto anual del Consejo, cuya aprobación corresponderá, en todo caso, a la Comisión Permanente antes de su elevación al Pleno.
+
+> Se modifican los apartados 2 y 3 por el art. único.114 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se añade por el art. único.1 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.

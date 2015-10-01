@@ -20,7 +20,7 @@ Estas licencias darán derecho a percibir las retribuciones básicas y las prest
 
 5. La enfermedad o accidente que impida el normal desempeño de las funciones, darán lugar a licencias por enfermedad.
 
-Sin perjuicio de la obligación de comunicar, en la forma que reglamentariamente se determine, la imposibilidad de asistencia al trabajo por razón de enfermedad durante la jornada laboral del día en que ésta se produzca, los funcionarios deberán solicitar de la autoridad competente la licencia por enfermedad.
+Sin perjuicio de la obligación de comunicar, en la forma que reglamentariamente se determine, la imposibilidad de asistencia al trabajo por razón de enfermedad durante la jornada laboral del día en que ésta se produzca, los funcionarios deberán solicitar de la autoridad competente la licencia por enfermedad en el cuarto día consecutivo desde que se produjo la ausencia en el puesto de trabajo.
 
 La licencia inicial se concederá por el tiempo que el facultativo haya considerado como previsible para la curación y, en ningún caso, por período superior a 15 días. Si el estado de enfermedad persistiera, la licencia inicial se prorrogará automáticamente en la forma que se determine por la autoridad competente para su concesión, quedando sin efecto si con anterioridad se produce la curación.
 
@@ -40,7 +40,9 @@ En ningún caso los funcionarios adscritos a los regímenes especiales de seguri
 
 Las referencias a días incluidas en el presente número se entenderán realizadas a días naturales.
 
-En cualquier caso, el responsable de personal podrá solicitar únicamente de la correspondiente inspección médica, la revisión de un proceso para determinar que las causas que originaron la concesión de la licencia continúan subsistiendo.
+La ausencia al trabajo por causa de enfermedad o accidente que no dé lugar a una situación de incapacidad temporal, comportará la aplicación del descuento en nómina en los términos y condiciones que se establezcan por la normativa específica que al efecto se dicte.
+
+> Se modifican los párrafos segundo y último del apartado 5 por el art. único.97 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica el apartado 5 por el art. único.27 y 28 de la Ley Orgánica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.
 

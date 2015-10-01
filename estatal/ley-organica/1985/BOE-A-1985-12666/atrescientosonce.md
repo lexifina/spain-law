@@ -6,13 +6,13 @@ El Magistrado así ascendido podrá optar por continuar en la plaza que venía o
 
 La tercera vacante se proveerá, entre Jueces, por medio de pruebas selectivas en los órdenes jurisdiccionales civil y penal, y de especialización en los órdenes contencioso-administrativo, social y mercantil.
 
-La cuarta vacante se proveerá por concurso entre juristas de reconocida competencia y con más de diez años de ejercicio profesional que superen el curso de formación al que se refiere el apartado 5 del artículo 301. A su vez, una tercera parte de estas vacantes se reservará a miembros del Cuerpo de Secretarios Judiciales de primera o segunda categoría.
+La cuarta vacante se proveerá por concurso entre juristas de reconocida competencia y con más de diez años de ejercicio profesional que superen el curso de formación al que se refiere el apartado 5 del artículo 301. A su vez, una tercera parte de estas vacantes se reservará a miembros del Cuerpo de Letrados de la Administración de Justicia de primera o segunda categoría.
 
 Por este procedimiento sólo podrá convocarse un número de plazas que no supere el total de las efectivamente vacantes más las previsibles que vayan a producirse durante el tiempo en que se prolongue la resolución del concurso.
 
 En las Comunidades Autónomas en las que exista más de una lengua oficial o tengan Derecho Civil propio se aplicarán, para la provisión de estas plazas, las previsiones establecidas a tal efecto en la presente Ley.
 
-2. Para el ascenso por escalafón será necesario que hayan prestado tres años de servicios efectivos como jueces. Para presentarse a las pruebas selectivas o de especialización bastará, sin embargo, con dos años de servicios efectivos, cualquiera que fuere la situación administrativa del candidato. Podrán presentarse también a las pruebas de especialización en los órdenes contencioso-administrativo y social, los miembros de la Carrera Judicial con categoría de magistrado y, como forma de acceso a la Carrera Judicial, los de la Carrera Fiscal ; en ambos casos, será necesario haber prestado al menos dos años de servicios efectivos en sus respectivas carreras. Igual exigencia se requerirá a quienes se presenten a las pruebas selectivas a las que se refiere el apartado 4 del artículo 329.
+2. Para el ascenso por escalafón será necesario que hayan prestado tres años de servicios efectivos como jueces. Para presentarse a las pruebas selectivas o de especialización bastará, sin embargo, con dos años de servicios efectivos, cualquiera que fuere la situación administrativa del candidato. Podrán presentarse también a las pruebas de especialización en los órdenes contencioso-administrativo y social, los miembros de la Carrera Judicial con categoría de magistrado y, como forma de acceso a la Carrera Judicial, los de la Carrera Fiscal; en ambos casos, será necesario haber prestado al menos dos años de servicios efectivos en sus respectivas carreras. Igual exigencia se requerirá a quienes se presenten a las pruebas selectivas a las que se refiere el apartado 4 del artículo 329.
 
 3. El Consejo General del Poder Judicial podrá realizar por especialidades todas o algunas de las convocatorias de concurso para el acceso a la Carrera Judicial por la categoría de magistrado de juristas de reconocida competencia, limitando aquéllas a la valoración de méritos relativos a la materia correspondiente y reservando al efecto plazas de características adecuadas dentro de la proporción general establecida en el apartado 1.
 
@@ -25,6 +25,8 @@ En las Comunidades Autónomas en las que exista más de una lengua oficial o ten
 7. Las vacantes que no resultaren cubiertas por este procedimiento acrecerán al turno de pruebas selectivas y de especialización, si estuvieren convocadas, o, en otro caso, al de antigüedad.
 
 8. En los órdenes contencioso-administrativo y social, el número de plazas de magistrado especialista que se convoquen no podrá ser superior al del número de vacantes a la fecha de la convocatoria.
+
+> Se modifica la referencia a los "Secretarios judiciales" en el apartado 1 por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
 > Se modifica el apartado 1 por el art. 1.6 de la Ley Orgánica 1/2009, de 3 de noviembre. Ref. BOE-A-2009-17492.
 

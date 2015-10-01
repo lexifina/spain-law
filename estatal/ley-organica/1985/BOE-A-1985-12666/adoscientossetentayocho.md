@@ -1,13 +1,13 @@
 ## Artículo 278.
 
-1. Si se acredita la existencia de reciprocidad o se ofrece ésta por la autoridad judicial extranjera requirente, la prestación de cooperación internacional sólo será denegada por los Juzgados y Tribunales españoles:
+1. La prestación de cooperación internacional sólo será denegada por los Juzgados y Tribunales españoles:
 
-1.º Cuando el proceso de que dimane la solicitud de cooperación sea de la exclusiva competencia de la jurisdicción española.
+1.º Cuando el objeto o finalidad de la cooperación solicitada sea manifiestamente contrario al orden público.
 
-2.º Cuando el contenido del acto a realizar no corresponda a las atribuciones propias de la autoridad judicial española requerida. En tal caso, ésta remitirá la solicitud a la autoridad judicial competente, informando de ello a la autoridad requirente.
+2.º Cuando el proceso de que dimane la solicitud de cooperación sea de la exclusiva competencia de la jurisdicción española.
 
-3.º Cuando la comunicación que contenga la solicitud de cooperación no reúna los requisitos de autenticidad suficiente o se halle redactada en idioma que no sea el castellano.
+3.º Cuando el contenido del acto a realizar no corresponda a las atribuciones propias de la autoridad judicial española requerida. En tal caso, ésta remitirá la solicitud a la autoridad judicial competente, informando de ello a la autoridad judicial requirente.
 
-4.º Cuando el objeto de la cooperación solicitada sea manifiestamente contrario al orden publico español.
+4.º Cuando la solicitud de cooperación internacional no reúna el contenido y requisitos mínimos exigidos por las leyes para su tramitación.
 
-2. La determinación de la existencia de reciprocidad con el estado requirente corresponderá al Gobierno, a través del Ministerio de Justicia.
+> Se modifica por el art. único.41 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.

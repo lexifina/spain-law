@@ -8,11 +8,11 @@ Los funcionarios que se encuentren en comisión de servicio, conservarán su pue
 
 Si la comisión tiene carácter forzoso y las retribuciones del puesto que se desempeña fuesen inferiores al de origen, se garantizarán, en todo caso, las retribuciones complementarias que resulten superiores.
 
-2. Con carácter excepcional podrán ser cubiertos temporalmente mediante sustitución los puestos de trabajo que se encuentren vacantes o cuando su titular esté ausente por el disfrute de licencias o permisos de larga duración.
+2. Con carácter excepcional podrán ser cubiertos temporalmente mediante sustitución los puestos de trabajo que se encuentren vacantes o cuando su titular esté ausente.
 
 Para ser nombrado sustituto se deberán reunir los requisitos establecidos para el desempeño del puesto de trabajo de que se trate en la relación de puestos de trabajo.
 
-Reglamentariamente se establecerán los supuestos y el procedimiento aplicable a las sustituciones. Cuando se trate de un puesto de trabajo adscrito al Cuerpo de Secretarios Judiciales el procedimiento y requisitos aplicables a la sustitución será el establecido expresamente para el nombramiento de secretarios sustitutos.
+Reglamentariamente se establecerán los supuestos y el procedimiento aplicable a las sustituciones. Cuando se trate de un puesto de trabajo adscrito al Cuerpo de Letrados de la Administración de Justicia el procedimiento y requisitos aplicables a la sustitución será el establecido expresamente para el nombramiento de secretarios sustitutos.
 
 Asimismo, los puestos de trabajo se podrán desempeñar temporalmente mediante adscripción provisional, en los supuestos de cese y renuncia.
 
@@ -23,5 +23,7 @@ Los titulares de un puesto de trabajo obtenido por concurso específico o por li
 En los anteriores supuestos, los funcionarios serán adscritos provisionalmente, en tanto no obtengan otro con carácter definitivo, a un puesto de trabajo correspondiente a su cuerpo, dentro del mismo municipio y con efectos del día siguiente al de la resolución del cese o aceptación de la renuncia.
 
 También podrán ser adscritos provisionalmente a un puesto de trabajo correspondiente a su cuerpo, los funcionarios de carrera que reingresen al servicio activo desde situaciones que no comportaran reserva de puesto de trabajo. En este supuesto, la adscripción estará condicionada a las necesidades del servicio.
+
+> Se modifica el párrafo primero del apartado 2 y la referencia a los "Secretarios judiciales" por el art. único.100 y la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se añade por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

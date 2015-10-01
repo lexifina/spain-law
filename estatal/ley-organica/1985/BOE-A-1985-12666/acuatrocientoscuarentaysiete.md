@@ -12,13 +12,13 @@ b) El complemento específico, único para cada puesto de trabajo y destinado a 
 
 c) El complemento de productividad, destinado a retribuir el especial rendimiento, la actividad extraordinaria y el interés o iniciativa con que el funcionario desempeñe su trabajo, así como su participación en los programas concretos de actuación y en la consecución de los objetivos que se determinen por el Ministerio de Justicia, oído el Consejo General del Poder Judicial, y negociados con las organizaciones sindicales más representativas.
 
-También se podrá retribuir mediante este complemento la participación de los secretarios judiciales en los programas o en la consecución de los objetivos que se hayan determinado por los órganos competentes de las comunidades autónomas con competencias asumidas para las oficinas judiciales de su territorio, siempre que exista autorización previa del Ministerio de Justicia.
+También se podrá retribuir mediante este complemento la participación de los letrados de la Administración de Justicia en los programas o en la consecución de los objetivos que se hayan determinado por los órganos competentes de las comunidades autónomas con competencias asumidas para las oficinas judiciales de su territorio, siempre que exista autorización previa del Ministerio de Justicia.
 
 A tal efecto, se establecerán los mecanismos de coordinación necesarios entre las Administraciones competentes.
 
 d) Las gratificaciones, destinadas a retribuir los servicios de carácter extraordinario prestados fuera de la jornada normal de trabajo.
 
-4. Además de las retribuciones señaladas anteriormente, los secretarios judiciales podrán percibir las siguientes retribuciones, que tienen la condición de especiales:
+4. Además de las retribuciones señaladas anteriormente, los letrados de la Administración de Justicia podrán percibir las siguientes retribuciones, que tienen la condición de especiales:
 
 a) Las correspondientes a desempeño de servicios de guardia.
 
@@ -26,9 +26,11 @@ b) Las correspondientes a sustituciones que impliquen el desempeño conjunto de 
 
 Estas retribuciones serán compatibles con todos los conceptos retributivos previstos anteriormente.
 
-5. Los secretarios sustitutos no profesionales percibirán las retribuciones correspondientes al puesto de trabajo desempeñado.
+5. Los Letrados de la Administración de Justicia sustitutos percibirán las retribuciones correspondientes al puesto de trabajo desempeñado.
 
 Se reconocerán los trienios correspondientes a los servicios prestados que tendrán efectos retributivos conforme a lo establecido en la normativa vigente para los funcionarios de la Administración General del Estado. Este reconocimiento se efectuará previa solicitud del interesado.
+
+> Se modifica el primer párrafo del apartado 5 y la referencia a los "Secretarios judiciales" de los apartados 3 y 4 por el art. único.64 y la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167.
 
 > Se modifica el apartado 5 por la disposición final 1.3 de la Ley Orgánica 13/2007, de 19 de noviembre. Ref. BOE-A-2007-19879.
 

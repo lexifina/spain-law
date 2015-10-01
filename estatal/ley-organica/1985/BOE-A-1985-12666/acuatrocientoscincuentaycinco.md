@@ -1,6 +1,8 @@
 ## Artículo 455.
 
-Será responsabilidad del secretario judicial la dación de cuenta, que se realizará en los términos establecidos en las leyes procesales.
+Será responsabilidad del Letrado de la Administración de Justicia organizar la dación de cuenta, que se realizará en los términos establecidos en las leyes procesales.
+
+> Se modifica por el art. único.67 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

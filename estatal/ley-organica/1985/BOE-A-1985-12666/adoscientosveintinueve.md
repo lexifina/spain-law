@@ -6,7 +6,9 @@
 
 3. Estas actuaciones podrán realizarse a través de videoconferencia u otro sistema similar que permita la comunicación bidireccional y simultánea de la imagen y el sonido y la interacción visual, auditiva y verbal entre dos personas o grupos de personas geográficamente distantes, asegurando en todo caso la posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa, cuando así lo acuerde el juez o tribunal.
 
-En estos casos, el secretario judicial del juzgado o tribunal que haya acordado la medida acreditará desde la propia sede judicial la identidad de las personas que intervengan a través de la videoconferencia mediante la previa remisión o la exhibición directa de documentación, por conocimiento personal o por cualquier otro medio procesal idóneo.
+En estos casos, el letrado de la Administración de Justicia del juzgado o tribunal que haya acordado la medida acreditará desde la propia sede judicial la identidad de las personas que intervengan a través de la videoconferencia mediante la previa remisión o la exhibición directa de documentación, por conocimiento personal o por cualquier otro medio procesal idóneo.
+
+> Se modifica la referencia a los "Secretarios judiciales" en el apartado 3 por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
 > Se modifica el apartado 2 por el art. único.52 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

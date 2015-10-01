@@ -2,7 +2,7 @@
 
 1. La ordenación del personal y su integración en las distintas unidades que conforman la estructura de las Oficinas judiciales se realizará a través de las relaciones de puestos de trabajo que se aprueben y que, en todo caso, serán públicas.
 
-2. Las relaciones de puestos de trabajo contendrán la dotación de todos los puestos de trabajo de las distintas unidades que componen la Oficina judicial, incluidos aquellos que hayan de ser desempeñados por Secretarios Judiciales, e indicarán su denominación, ubicación, los requisitos exigidos para su desempeño, el complemento general de puesto y el complemento específico.
+2. Las relaciones de puestos de trabajo contendrán la dotación de todos los puestos de trabajo de las distintas unidades que componen la Oficina judicial, incluidos aquellos que hayan de ser desempeñados por Letrados de la Administración de Justicia, e indicarán su denominación, ubicación, los requisitos exigidos para su desempeño, el complemento general de puesto y el complemento específico.
 
 3. Las relaciones de puestos de trabajo deberán contener necesariamente las siguientes especificaciones:
 
@@ -16,13 +16,7 @@ Cada uno de los servicios comunes procesales.
 
 El conjunto de unidades procesales de apoyo directo a órganos judiciales que radiquen en el mismo municipio.
 
-(Inciso suprimido).
-
-> Téngase en cuenta que este inciso se suprime a partir del 22-07-2014
-
-> Redacción vigente:
-
-> "El Registro Civil Central y los Registros Civiles Únicos de cada localidad, donde los hubiese."
+El Registro Civil Central y los Registros Civiles Únicos de cada localidad, donde los hubiese.
 
 Cada una de las Fiscalías o Adscripciones de Fiscalías.
 
@@ -34,7 +28,7 @@ La Mutualidad General Judicial.
 
 Cada Oficina judicial de apoyo directo a Juzgados de Paz de más de 7.000 habitantes o de menos de 7.000 habitantes, dotados de plantilla funcionarial en razón de su carga de trabajo.
 
-El Gabinete Técnico de Información y Documentación del Tribunal Supremo.
+El Gabinete Técnico del Tribunal Supremo.
 
 Las Secretarías de Gobierno.
 
@@ -61,6 +55,8 @@ Los puestos de trabajo de las relaciones de puestos de trabajo de las Oficinas j
 4.º Conocimientos informáticos cuando sean necesarios para el desempeño del puesto.
 
 5.º Aquellas otras condiciones que se consideren relevantes en el contenido del puesto o su desempeño.
+
+> Se modifica la letra A) del apartado 3 y la referencia a los "Secretarios judiciales" del apartado 2 por el art. único.99 y la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se suprime un inciso del apartado 3.A) por el art. único.5 de la Ley Orgánica 8/2011. de 21 de julio. Ref. BOE-A-2011-12627.
 

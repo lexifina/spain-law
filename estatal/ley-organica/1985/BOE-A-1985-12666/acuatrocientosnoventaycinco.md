@@ -16,19 +16,21 @@ e) A ser informados por sus jefes o superiores de las tareas o cometidos a desem
 
 f) Al respeto de su intimidad y a la consideración debida a su dignidad, comprendida la protección frente a ofensas verbales o físicas de naturaleza sexual.
 
-g) A vacaciones, permisos y licencias.
+g) A la no discriminación por razón de nacimiento, origen racial o étnico, género, sexo u orientación sexual, religión o convicciones, opinión, discapacidad, edad o cualquier otra condición o circunstancia personal o social.
 
-h) A recibir protección en materia de seguridad y salud en el trabajo, para lo cual las Administraciones competentes adoptarán aquellas medidas que sean necesarias para la aplicación efectiva de la normativa vigente sobre prevención de riesgos y salud laboral, procediendo a la evaluación de los riesgos iniciales y al establecimiento de planes de emergencia, así como a la creación de servicios de prevención y de un Comité Central de Seguridad y Salud.
+h) A vacaciones, permisos y licencias.
 
-i) A la jubilación.
+i) A recibir protección en materia de seguridad y salud en el trabajo, para lo cual las Administraciones competentes adoptarán aquellas medidas que sean necesarias para la aplicación efectiva de la normativa vigente sobre prevención de riesgos y salud laboral, procediendo a la evaluación de los riesgos iniciales y al establecimiento de planes de emergencia, así como a la creación de servicios de prevención y de un Comité Central de Seguridad y Salud.
 
-j) A un régimen de seguridad social, que para los funcionarios de carrera y funcionarios en prácticas, estará integrado por los siguientes mecanismos de cobertura:
+j) A la jubilación.
 
-1.º El Régimen de Clases Pasivas del Estado, que se regirá por sus normas específicas.
+k) A un régimen de Seguridad Social, que para los funcionarios de carrera y funcionarios en prácticas estará integrado por el Régimen General de la Seguridad Social o el Régimen de Clases Pasivas del Estado, en función de la fecha en la que hayan adquirido tal condición, y el Mutualismo Judicial, regulado por Real Decreto Legislativo 3/2000, de 23 de junio, y disposiciones de desarrollo.
 
-2.º El Mutualismo Judicial, regulado por Real Decreto Legislativo 3/2000, de 23 de junio, y disposiciones de desarrollo.
+l) A los derechos previstos en el artículo 444.2 de esta Ley.
 
 2. El régimen de derechos contenido en el apartado anterior será aplicable a los funcionarios interinos en la medida que la naturaleza del derecho lo permita, quedando integrados, a efectos de seguridad social, en el Régimen General de la Seguridad Social.
+
+> Se modifica el apartado 1 por el art. único.92 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

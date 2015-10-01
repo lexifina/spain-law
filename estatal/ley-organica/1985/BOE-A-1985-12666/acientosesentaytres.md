@@ -1,6 +1,8 @@
 ## Artículo 163.
 
-En el Tribunal Supremo, y bajo la dependencia directa de su Presidente, funcionará un Gabinete Técnico de Información y Documentación. El Ministerio de Justicia, oída la Sala de Gobierno del Tribunal Supremo y previo informe del Consejo General del Poder Judicial, determinará su composición y plantilla.
+(Suprimido)
+
+> Se suprime por el art. único.27 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. único.22 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

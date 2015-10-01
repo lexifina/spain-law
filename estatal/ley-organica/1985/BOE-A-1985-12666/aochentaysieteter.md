@@ -2,17 +2,19 @@
 
 1. Los Juzgados de Violencia sobre la Mujer conocerán, en el orden penal, de conformidad en todo caso con los procedimientos y recursos previstos en la Ley de Enjuiciamiento Criminal, de los siguientes supuestos:
 
-a) De la instrucción de los procesos para exigir responsabilidad penal por los delitos recogidos en los títulos del Código Penal relativos a homicidio, aborto, lesiones, lesiones al feto, delitos contra la libertad, delitos contra la integridad moral, contra la libertad e indemnidad sexuales o cualquier otro delito cometido con violencia o intimidación, siempre que se hubiesen cometido contra quien sea o haya sido su esposa, o mujer que esté o haya estado ligada al autor por análoga relación de afectividad, aun sin convivencia, así como de los cometidos sobre los descendientes, propios o de la esposa o conviviente, o sobre los menores o incapaces que con él convivan o que se hallen sujetos a la potestad, tutela, curatela, acogimiento o guarda de hecho de la esposa o conviviente, cuando también se haya producido un acto de violencia de género.
+a) De la instrucción de los procesos para exigir responsabilidad penal por los delitos recogidos en los títulos del Código Penal relativos a homicidio, aborto, lesiones, lesiones al feto, delitos contra la libertad, delitos contra la integridad moral, contra la libertad e indemnidad sexuales, contra la intimidad y el derecho a la propia imagen, contra el honor o cualquier otro delito cometido con violencia o intimidación, siempre que se hubiesen cometido contra quien sea o haya sido su esposa, o mujer que esté o haya estado ligada al autor por análoga relación de afectividad, aun sin convivencia, así como de los cometidos sobre los descendientes, propios o de la esposa o conviviente, o sobre los menores o personas con la capacidad modificada judicialmente que con él convivan o que se hallen sujetos a la potestad, tutela, curatela, acogimiento o guarda de hecho de la esposa o conviviente, cuando también se haya producido un acto de violencia de género.
 
 b) De la instrucción de los procesos para exigir responsabilidad penal por cualquier delito contra los derechos y deberes familiares, cuando la víctima sea alguna de las personas señaladas como tales en la letra anterior.
 
 c) De la adopción de las correspondientes órdenes de protección a las víctimas, sin perjuicio de las competencias atribuidas al Juez de Guardia.
 
-d) Del conocimiento y fallo de las faltas contenidas en los títulos I y II del libro III del Código Penal, cuando la víctima sea alguna de las personas señaladas como tales en la letra a) de este apartado.
+d) Del conocimiento y fallo de los delitos leves que les atribuya la ley cuando la víctima sea alguna de las personas señaladas como tales en la letra a) de este apartado.
 
 e) Dictar sentencia de conformidad con la acusación en los casos establecidos por la ley.
 
 f) De la emisión y la ejecución de los instrumentos de reconocimiento mutuo de resoluciones penales en la Unión Europea que les atribuya la ley.
+
+g) De la instrucción de los procesos para exigir responsabilidad penal por el delito de quebrantamiento previsto y penado en el artículo 468 del Código Penal cuando la persona ofendida por el delito cuya condena, medida cautelar o medida de seguridad se haya quebrantado sea o haya sido su esposa, o mujer que esté o haya estado ligada al autor por una análoga relación de afectividad aun sin convivencia, así como los descendientes, propios o de la esposa o conviviente, o sobre los menores o personas con la capacidad modificada judicialmente que con él convivan o que se hallen sujetos a la potestad, tutela, curatela, acogimiento o guarda de hecho de la esposa o conviviente.
 
 2. Los Juzgados de Violencia sobre la Mujer podrán conocer en el orden civil, en todo caso de conformidad con los procedimientos y recursos previstos en la Ley de Enjuiciamiento Civil, de los siguientes asuntos:
 
@@ -43,6 +45,8 @@ d) Que se hayan iniciado ante el Juez de Violencia sobre la Mujer actuaciones pe
 4. Cuando el Juez apreciara que los actos puestos en su conocimiento, de forma notoria, no constituyen expresión de violencia de género, podrá inadmitir la pretensión, remitiéndola al órgano judicial competente.
 
 5. En todos estos casos está vedada la mediación.
+
+> Se modifican las letras a) y d) y se añade la g) al apartado 1 por el art. único.25 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se añade la letra f) al apartado 1 por el art. único.3 de la Ley Orgánica 6/2014, de 29 de octubre. Ref. BOE-A-2014-11063.
 

@@ -1,15 +1,21 @@
 ## Artículo 441.
 
-1. En el Cuerpo de Secretarios Judiciales existirán tres categorías, teniendo lugar el ingreso en el mismo por la tercera categoría.
+1. Los puestos de trabajo cuyo desempeño esté reservado al Cuerpo de Letrados de la Administración de Justicia, se clasifican en tres categorías, teniendo lugar el ingreso en el mismo por la tercera categoría.
 
-2. Todo secretario judicial poseerá una categoría personal. En ningún caso un secretario judicial de la tercera categoría podrá optar a una plaza de la primera.
+2. Todo Letrado de la Administración de Justicia poseerá una categoría personal.
 
-3. La consolidación de una categoría personal exige el desempeño de puestos de trabajo correspondiente a dicha categoría al menos durante cinco años continuados o siete con interrupción.
+La consolidación de la categoría personal exige el desempeño de puestos de trabajo correspondientes a dicha categoría al menos durante cinco años continuados o siete con interrupción.
 
-4. No se podrá comenzar a consolidar una categoría superior sin previamente haber consolidado la inferior.
+3. No se podrá comenzar a consolidar una categoría superior sin previamente haber consolidado la inferior, si bien el tiempo de desempeño de un puesto de categoría superior será computable a efectos de la consolidación de la inferior.
 
-5. La categoría consolidada determina la percepción del sueldo correspondiente a la misma, con independencia del puesto de trabajo que se desempeñe.
+4. No será posible utilizar el mismo periodo de tiempo para consolidar categorías diferentes.
 
-6. A estos efectos, el Ministerio de Justicia establecerá los tres grupos en los que se clasificarán los puestos de trabajo a desempeñar por los secretarios judiciales.
+5. En ningún caso un Letrado de la Administración de Justicia de la tercera categoría podrá optar a una plaza de la primera.
+
+6. La categoría consolidada solo opera como garantía de la percepción del sueldo correspondiente a la misma, cuando se ocupe un puesto de inferior categoría.
+
+7. El Ministerio de Justicia establecerá los tres grupos en los que se clasificarán los puestos de trabajo a desempeñar por los Letrados de la Administración de Justicia.
+
+> Se modifica por el art. único.57 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

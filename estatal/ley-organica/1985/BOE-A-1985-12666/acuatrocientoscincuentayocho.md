@@ -1,11 +1,17 @@
 ## Artículo 458.
 
-1. Los secretarios judiciales serán responsables del Archivo Judicial de Gestión, en el que, de conformidad con la normativa establecida al efecto, se conservarán y custodiarán aquellos autos y expedientes cuya tramitación no esté finalizada, salvo el tiempo en que estuvieren en poder del juez o del magistrado ponente u otros magistrados integrantes del tribunal.
+1. Los letrados de la Administración de Justicia serán responsables del Archivo Judicial de Gestión, en el que, de conformidad con la normativa establecida al efecto, se conservarán y custodiarán aquellos autos y expedientes cuya tramitación no esté finalizada, salvo el tiempo en que estuvieren en poder del juez o del magistrado ponente u otros magistrados integrantes del tribunal.
 
 2. Por real decreto se establecerán las normas reguladoras de la ordenación y archivo de autos y expedientes que no estuviesen pendientes de actuación alguna, así como del expurgo de los archivos judiciales.
 
+Con carácter general se procederá a la destrucción de autos y expedientes judiciales transcurridos seis años desde la firmeza de la resolución que de manera definitiva puso término al procedimiento que dio lugar a la formación de aquéllos. Se exceptúan de lo anterior aquéllos formados para la instrucción de causas penales seguidas por delito, así como los supuestos que reglamentariamente pudiesen ser contemplados, especialmente en atención al valor cultural, social o histórico de lo archivado.
+
+Previamente, el Letrado de la Administración de Justicia concederá audiencia por un tiempo no inferior a quince días a las partes que estuvieron personadas para que interesen, en su caso, el desglose de aquellos documentos originales que hubiesen aportado o ejerciten los derechos que esta Ley les reconoce en los artículos 234 y 235.
+
 3. Corresponde al Ministerio de Justicia la determinación de los libros de registro que han de existir en los juzgados y tribunales y establecer las normas reguladoras de la llevanza de los mismos mediante los reglamentos oportunos.
 
-4. El secretario judicial será responsable de la llevanza de los libros de registro a través de las aplicaciones informáticas correspondientes y, en su defecto, manualmente, impartiendo las oportunas instrucciones al personal de él dependiente.
+4. El letrado de la Administración de Justicia será responsable de la llevanza de los libros de registro a través de las aplicaciones informáticas correspondientes y, en su defecto, manualmente, impartiendo las oportunas instrucciones al personal de él dependiente.
+
+> Se modifica el apartado 2 y la referencia a los "Secretarios judiciales" por el art. único.69 y la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167.
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

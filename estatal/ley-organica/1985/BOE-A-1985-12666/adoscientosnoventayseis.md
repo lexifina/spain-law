@@ -1,3 +1,9 @@
 ## Artículo 296.
 
-El estado responderá también de los daños que se produzcan por dolo o culpa grave de los Jueces y Magistrados, sin perjuicio del derecho que le asiste de repetir contra los mismos por los cauces del proceso declarativo que corresponda ante el Tribunal competente. En estos procesos será siempre parte el Ministerio Fiscal.
+1. Los daños y perjuicios causados por los Jueces y Magistrados en el ejercicio de sus funciones darán lugar, en su caso, a responsabilidad del Estado por error judicial o por funcionamiento anormal de la Administración de Justicia sin que, en ningún caso, puedan los perjudicados dirigirse directamente contra aquéllos.
+
+2. Si los daños y perjuicios provinieren de dolo o culpa grave del Juez o Magistrado, la Administración General del Estado, una vez satisfecha la indemnización al perjudicado, podrá exigir, por vía administrativa a través del procedimiento reglamentariamente establecido, al Juez o Magistrado responsable el reembolso de lo pagado sin perjuicio de la responsabilidad disciplinaria en que éste pudiera incurrir, de acuerdo con lo dispuesto en esta Ley.
+
+El dolo o culpa grave del Juez o Magistrado se podrá reconocer en sentencia o en resolución dictada por el Consejo General del Poder Judicial conforme al procedimiento que éste determine. Para la exigencia de dicha responsabilidad se ponderarán, entre otros, los siguientes criterios: el resultado dañoso producido y la existencia o no de intencionalidad.
+
+> Se modifica por el art. único.42 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.

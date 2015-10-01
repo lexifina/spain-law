@@ -1,0 +1,3 @@
+## Disposición adicional primera. Referencias en las normas de fecha anterior.
+
+A partir de la entrada en vigor de esta Ley, todas las referencias que se contengan en la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, así como en otras normas jurídicas, a Secretarios judiciales, Secretarios sustitutos profesionales, Instituto de Medicina Legal e Instituto Nacional de Toxicología, deberán entenderse hechas, respectivamente, a Letrados de la Administración de Justicia, Letrados de la Administración de Justicia suplentes, Instituto de Medicina Legal y Ciencias Forenses e Instituto Nacional de Toxicología y Ciencias Forenses.

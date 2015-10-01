@@ -10,14 +10,20 @@ c) Traslado forzoso fuera del municipio de destino.
 
 d) Separación del servicio.
 
+e) Cese en el puesto de trabajo.
+
 Las sanciones de los párrafos b) y c) podrán imponerse por la comisión de faltas graves y muy graves, graduándose su duración en función de las circunstancias que concurran en el hecho objeto de sanción.
 
 La sanción de separación de servicio sólo podrá imponerse por faltas muy graves.
 
-La suspensión de funciones impuesta por la comisión de una falta muy grave no podrá ser superior a seis años ni inferior a tres años. Si se impone por falta grave, no excederá de tres años.
+La suspensión de funciones impuesta por la comisión de una falta muy grave no podrá ser superior a tres años ni inferior a un año. Si se impone por falta grave, no excederá de un año.
 
 Los funcionarios a los que se sancione con traslado forzoso no podrán obtener nuevo destino en el municipio de origen durante tres años, cuando hubiese sido impuesta por falta muy grave, y durante uno, cuando hubiera correspondido a la comisión de una falta grave.
 
+La sanción de cese en el puesto de trabajo, sólo será aplicable a los funcionarios interinos por comisión de faltas graves o muy graves.
+
 Las faltas leves sólo podrán ser corregidas con apercibimiento.
+
+> Se modifica por el art. único.103 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se añade por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -20,7 +20,7 @@ Para el conocimiento de los recursos contra resoluciones de los Juzgados de Inst
 
 Para el conocimiento de los recursos contra resoluciones de los Juzgados de Primera Instancia que se sigan por los trámites del juicio verbal por razón de la cuantía, la Audiencia se constituirá con un solo Magistrado, mediante un turno de reparto.
 
-2.º De los recursos que establezca la ley contra las resoluciones dictadas en primera instancia por los Juzgados de lo Mercantil, salvo las que se dicten en incidentes concursales que resuelvan cuestiones de materia laboral, debiendo especializarse a tal fin una o varias de sus Secciones, de conformidad con lo previsto en el artículo 98 de la presente Ley Orgánica.
+2.º De los recursos que establezca la ley contra las resoluciones dictadas en primera instancia por los Juzgados de lo Mercantil, salvo las que se dicten en incidentes concursales que resuelvan cuestiones de materia laboral, debiendo especializarse a tal fin una o varias de sus Secciones, de conformidad con lo previsto en el artículo 98 de la presente Ley Orgánica. Estas Secciones especializadas conocerán también de los recursos que establezca la ley contra las resoluciones dictadas por los Juzgados de primera instancia en los procedimientos relativos a concursos de personas físicas y a acciones individuales relativas a condiciones generales de la contratación.
 
 3.º Asimismo, la Sección o Secciones de la Audiencia Provincial de Alicante que se especialicen al amparo de lo previsto en el párrafo anterior conocerán, además, en segunda instancia y de forma exclusiva, de todos aquellos recursos a los que se refiere el artículo 101 del Reglamento n.º 40/94, del Consejo de la Unión Europea, de 20 de diciembre de 1993, sobre la marca comunitaria, y el Reglamento 6/2002, del Consejo de la Unión Europea, de 12 de diciembre de 2001, sobre los dibujos y modelos comunitarios. En el ejercicio de esta competencia extenderán su jurisdicción a todo el territorio nacional, y a estos solos efectos se denominarán Tribunales de Marca Comunitaria.
 
@@ -31,6 +31,8 @@ Para el conocimiento de los recursos contra resoluciones de los Juzgados de Prim
 1.º De las cuestiones de competencia en materia civil y penal que se susciten entre juzgados de la provincia que no tengan otro superior común.
 
 2.º De las recusaciones de sus Magistrados, cuando la competencia no esté atribuida a la Sala especial existente a estos efectos en los Tribunales Superiores de Justicia.
+
+> Se modifica el apartado 2.2 por el art. único.21 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. 1.2 de la Ley Orgánica 1/2009, de 3 de noviembre. Ref. BOE-A-2009-17492.
 

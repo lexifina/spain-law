@@ -2,7 +2,11 @@
 
 1. Se garantiza la promoción interna, mediante el ascenso desde un cuerpo para cuyo ingreso se ha exigido determinada titulación a otro cuerpo para cuyo acceso se exige la titulación inmediata superior o, en el caso de los Cuerpos Especiales, mediante la posibilidad de acceder a las diferentes especialidades de un mismo cuerpo.
 
-2. Se reservarán, para su provisión por promoción interna, un cincuenta por ciento de las plazas vacantes incluidas, para cada cuerpo, en la oferta de empleo público. Las plazas que no se cubran por el proceso de promoción interna acrecerán al turno libre.
+2. Además de las plazas que se incluyan para la incorporación de nuevo personal en la Oferta de Empleo Público de conformidad con lo previsto en el artículo 482, el Ministerio de Justicia convocará anualmente procesos de promoción interna para la cobertura de un número de plazas equivalente al treinta por ciento de las vacantes que, para cada Cuerpo, sean objeto de dicha oferta de empleo público.
+
+Con independencia de lo señalado en el párrafo anterior, el Ministerio de Justicia, con carácter extraordinario y previa autorización del Ministerio de Hacienda y Administraciones Públicas, podrá convocar procesos de promoción interna específicos cuando las circunstancias en la Administración de Justicia lo aconsejen.
+
+En ambos casos, las plazas convocadas por el turno de promoción interna que no resulten cubiertas, no podrán en ningún caso acrecer a las convocadas por turno libre ni incorporarse a la Oferta de Empleo Público.
 
 3. La promoción interna se efectuará mediante el sistema de concurso-oposición en los términos que se establezcan en el real decreto por el que se apruebe el reglamento de ingreso, provisión de puestos y promoción profesional. En todo caso, se respetarán los principios de igualdad, mérito, capacidad y publicidad.
 
@@ -13,5 +17,9 @@
 Los funcionarios que accedan por promoción interna tendrán, en todo caso, preferencia para los puestos de trabajo vacantes ofertados sobre los aspirantes que no procedan de este turno.
 
 Las convocatorias podrán establecer la exención de las pruebas encaminadas a acreditar los conocimientos ya exigidos para el acceso al cuerpo de origen, pudiendo valorarse los cursos y programas de formación superados.
+
+6. Los funcionarios del Cuerpo de Técnicos Especialistas del Instituto Nacional de Toxicología y Ciencias Forenses podrán acceder mediante promoción interna al Cuerpo de Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses, siempre que reúnan los requisitos para ello.
+
+> Se modifica el apartado 2 y se añade el 6 por el art. único.91 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

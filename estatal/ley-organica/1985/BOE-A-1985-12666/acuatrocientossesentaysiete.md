@@ -2,7 +2,7 @@
 
 Bajo la dependencia directa del Secretario de Gobierno, el Secretario Coordinador ejercerá las siguientes competencias:
 
-1. Dictar instrucciones de servicio a los secretarios judiciales de su ámbito territorial para el adecuado funcionamiento de los servicios que tienen encomendados.
+1. Dictar instrucciones de servicio a los Letrados de la Administración de Justicia de su ámbito territorial para el adecuado funcionamiento de los servicios que tienen encomendados.
 
 2. Controlar la correcta ejecución de las circulares e instrucciones de servicio que dicte el Secretario de Gobierno del que dependa.
 
@@ -12,11 +12,17 @@ Bajo la dependencia directa del Secretario de Gobierno, el Secretario Coordinado
 
 5. Coordinar el funcionamiento de cuantos servicios comunes procesales se encuentren ubicados en su territorio, o en su caso, asumir directamente su dirección cuando exista un único servicio común procesal provincial.
 
-6. Proponer al Ministerio de Justicia las comisiones de servicio de secretarios judiciales que, dentro de su territorio, sean precisas para el correcto funcionamiento de las oficinas judiciales.
+6. Proponer al Ministerio de Justicia las comisiones de servicio de Letrados de la Administración de Justicia que, dentro de su territorio, sean precisas para el correcto funcionamiento de las oficinas judiciales.
 
-7. Resolver las sustituciones de los secretarios judiciales de su ámbito valorando, en su caso, los requisitos a satisfacer por el sustituto en relación con el puesto que deba sustituir.
+7. Resolver las suplencias y sustituciones de los Letrados de la Administración de Justicia de su ámbito.
 
-8. Las demás que establezcan las leyes y su propio reglamento orgánico.
+8. Resolver los incidentes de abstención de los Letrados de la Administración de Justicia que de él dependan de acuerdo con lo previsto en esta Ley.
+
+9. Conceder, por delegación del Secretario de Gobierno, los permisos y licencias a los Letrados de la Administración de Justicia de su territorio.
+
+10. Las demás que establezcan las leyes y su propio reglamento orgánico.
+
+> Se modifican los apartados 7 y 8 y la referencia a los "Secretarios judiciales" y se añaden los apartados 9 y 10 por el art. único.75 y la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167.
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

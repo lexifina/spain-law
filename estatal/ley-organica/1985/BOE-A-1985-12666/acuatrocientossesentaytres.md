@@ -1,15 +1,19 @@
 ## Artículo 463.
 
-1. Bajo la superior dependencia del Ministerio de Justicia el Cuerpo de Secretarios Judiciales se ordena jerárquicamente en la forma que se determine en las relaciones de puestos de trabajo. En este sentido, realizarán todas aquellas funciones de naturaleza análoga a las que les son propias, inherentes al puesto de trabajo que ocupen y que les sean encomendadas por sus superiores.
+1. Bajo la superior dependencia del Ministerio de Justicia el Cuerpo de Letrados de la Administración de Justicia se ordena jerárquicamente en la forma que se determine en las relaciones de puestos de trabajo. En este sentido, realizarán todas aquellas funciones de naturaleza análoga a las que les son propias, inherentes al puesto de trabajo que ocupen y que les sean encomendadas por sus superiores.
 
-2. Los órganos superiores son:
+2. Los órganos superiores de gobierno del Cuerpo de Letrados de la Administración de Justicia son, por orden jerárquico, los siguientes:
 
-a) El Secretario de Gobierno.
+a) El Secretario General de la Administración de Justicia.
 
-b) El Secretario Coordinador Provincial.
+b) Los Secretarios de Gobierno.
 
-3. Cuando en un servicio común procesal prestaren servicios varios secretarios judiciales, la relación de puestos de trabajo determinará su dependencia jerárquica y funcional.
+c) Los Secretarios Coordinadores Provinciales.
 
-4. Como instrumento de participación democrática del colectivo del Cuerpo de Secretarios Judiciales, se constituirá un Consejo del Secretariado en el seno del Ministerio de Justicia, con funciones consultivas en las materias que afecten al mencionado cuerpo. Su organización, funcionamiento y competencias se desarrollarán reglamentariamente.
+3. Cuando en un servicio común procesal prestaren servicios varios letrados de la Administración de Justicia, la relación de puestos de trabajo determinará su dependencia jerárquica y funcional.
+
+4. Como instrumento de participación democrática del colectivo del Cuerpo de Letrados de la Administración de Justicia, se constituirá un Consejo del Secretariado en el seno del Ministerio de Justicia, con funciones consultivas en las materias que afecten al mencionado cuerpo. Su organización, funcionamiento y competencias se desarrollarán reglamentariamente.
+
+> Se modifica el apartado 2 y la referencia a los "Secretarios judiciales" por el art. único.71 y la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167.
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

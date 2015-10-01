@@ -6,9 +6,9 @@ La competencia territorial se determinará con arreglo a lo dispuesto en el Regl
 
 2. La petición de requerimiento europeo de pago se presentará a través del formulario A que figura en el anexo I del Reglamento (CE) n.º 1896/2006, sin necesidad de aportar documentación alguna, que en su caso será inadmitida.
 
-3. Formulada una petición de requerimiento europeo de pago, el secretario judicial mediante decreto y en la forma prevista en el formulario B del anexo II del Reglamento (CE) n.º 1896/2006, podrá instar al demandante para que complete o rectifique su petición, salvo que ésta sea manifiestamente infundada o inadmisible, de acuerdo con lo dispuesto en el artículo 9 del citado Reglamento, en cuyo caso resolverá el juez mediante auto.
+3. Formulada una petición de requerimiento europeo de pago, el Letrado de la Administración de Justicia mediante decreto y en la forma prevista en el formulario B del anexo II del Reglamento (CE) n.º 1896/2006, podrá instar al demandante para que complete o rectifique su petición, salvo que ésta sea manifiestamente infundada o inadmisible, de acuerdo con lo dispuesto en el artículo 9 del citado Reglamento, en cuyo caso resolverá el juez mediante auto.
 
-4. Si los requisitos establecidos en los artículos 2, 3, 4, 6 y 7 del Reglamento (CE) n.º 1896/2006 se dan únicamente respecto de una parte de la petición, el secretario judicial dará traslado al juez, quien, en su caso, mediante auto y en la forma prevista en el formulario C del anexo III planteará al demandante aceptar o rechazar una propuesta de requerimiento europeo de pago por el importe que especifique, de acuerdo con lo dispuesto en el artículo 10 del citado Reglamento.
+4. Si los requisitos establecidos en los artículos 2, 3, 4, 6 y 7 del Reglamento (CE) n.º 1896/2006 se dan únicamente respecto de una parte de la petición, el Letrado de la Administración de Justicia dará traslado al juez, quien, en su caso, mediante auto y en la forma prevista en el formulario C del anexo III planteará al demandante aceptar o rechazar una propuesta de requerimiento europeo de pago por el importe que especifique, de acuerdo con lo dispuesto en el artículo 10 del citado Reglamento.
 
 En la propuesta se deberá informar al demandante de que, si no envía la respuesta o la misma es de rechazo, se desestimará íntegramente la petición del requerimiento europeo de pago, sin perjuicio de la posibilidad de formular la reclamación del crédito a través del juicio que corresponda con arreglo a las normas procesales nacionales o comunitarias.
 
@@ -24,11 +24,11 @@ El plazo de treinta días no comprenderá el tiempo empleado por el demandante p
 
 En la notificación del requerimiento se advertirá al demandado que el cómputo de los plazos se regirá por el Reglamento 1182/71 del Consejo, de 3 de junio de 1971, por el que se determinan las normas aplicables a los plazos, fechas y términos, sin que se excluyan los días inhábiles.
 
-8. En el caso de que se presente escrito de oposición en el plazo señalado, el secretario judicial comunicará al demandante que ha de instar la continuación del asunto por el procedimiento que corresponda con arreglo a las normas procesales españolas ante el Juzgado de Primera Instancia, de lo Mercantil o de lo Social que corresponda, a menos que ya hubiera solicitado expresamente que, en dicho supuesto, se ponga fin al proceso.
+8. En el caso de que se presente escrito de oposición en el plazo señalado, el Letrado de la Administración de Justicia comunicará al demandante que ha de instar la continuación del asunto por el procedimiento que corresponda con arreglo a las normas procesales españolas ante el Juzgado de Primera Instancia, de lo Mercantil o de lo Social que corresponda, a menos que ya hubiera solicitado expresamente que, en dicho supuesto, se ponga fin al proceso.
 
-En el caso de que en el plazo señalado no se haya formulado oposición o no se haya pagado la deuda, el secretario judicial pondrá fin al proceso monitorio declarando ejecutivo el requerimiento europeo de pago mediante decreto y en la forma prevista en el formulario G del anexo VII del Reglamento (CE) n.º 1896/2006, de conformidad con lo dispuesto en el artículo 18 del citado Reglamento.
+En el caso de que en el plazo señalado no se haya formulado oposición o no se haya pagado la deuda, el Letrado de la Administración de Justicia pondrá fin al proceso monitorio declarando ejecutivo el requerimiento europeo de pago mediante decreto y en la forma prevista en el formulario G del anexo VII del Reglamento (CE) n.º 1896/2006, de conformidad con lo dispuesto en el artículo 18 del citado Reglamento.
 
-El requerimiento europeo de pago se entregará al demandante debidamente testimoniado por el secretario judicial, bien sobre el original bien sobre la copia, haciendo constar esta circunstancia.
+El requerimiento europeo de pago se entregará al demandante debidamente testimoniado por el Letrado de la Administración de Justicia, bien sobre el original bien sobre la copia, haciendo constar esta circunstancia.
 
 9. La competencia para la revisión de un requerimiento europeo de pago corresponde al órgano jurisdiccional que lo haya expedido. El procedimiento para la revisión de un requerimiento europeo de pago por las causas previstas en el artículo 20.1 del Reglamento (CE) n.º 1896/2006 se tramitará y resolverá de conformidad con lo previsto para la rescisión de sentencias firmes a instancia del litigante rebelde en los artículos 501 y concordantes de esta Ley.
 
@@ -49,6 +49,8 @@ Igualmente, le corresponderá la denegación de la ejecución del requerimiento 
 La tramitación de la denegación de la ejecución del requerimiento europeo de pago, así como la limitación de la ejecución, su suspensión o la constitución de garantía, se llevarán a cabo con arreglo a lo dispuesto en los artículos 556 y siguientes de esta Ley, y se resolverán mediante auto no susceptible de recurso.
 
 15. Cuando deba ejecutarse en España un requerimiento europeo de pago, el demandante deberá presentar ante el Juzgado competente una traducción oficial al castellano o a la lengua oficial de la Comunidad Autónoma en cuyo territorio tengan lugar las actuaciones judiciales de dicho requerimiento, certificada en la forma prevista en el artículo 21 del Reglamento (CE) n.º 1896/2006.
+
+> Se modifican las referencias a "Secretarios judiciales" por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
 > Se modifica por el art. 1.7 de la Ley 4/2011, de 24 de marzo. Ref. BOE-A-2011-5392.
 

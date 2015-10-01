@@ -14,9 +14,11 @@ e) Separación.
 
 El Juez o Magistrado sancionado con traslado forzoso no podrá concursar en el plazo de uno a tres años. La duración de la prohibición de concursar habrá de determinarse necesariamente en la resolución que ponga fin al procedimiento.
 
-2. Las faltas leves sólo podrán sancionarse con advertencia o multa de hasta cincuenta mil pesetas o con ambas; las graves con multa de cincuenta mil una a quinientas mil pesetas, y las muy graves con suspensión, traslado forzoso o separación.
+2. Las faltas leves sólo podrán sancionarse con advertencia o multa de hasta 500 euros o con ambas; las graves con multa de 501 a 6.000 euros, y las muy graves con suspensión, traslado forzoso o separación.
 
 3. Las sanciones impuestas por faltas muy graves prescribirán a los dos años; las impuestas por faltas graves al año, y por faltas leves en el plazo previsto en el Código Penal para la prescripción de las faltas. Dichos plazos de prescripción comenzarán a computarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impusieron las sanciones.
+
+> Se modifica el apartado 2 por el art. único.54 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica la letra b) del apartado 1 por el art. único.116 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

@@ -2,7 +2,7 @@
 
 Las faltas podrán ser muy graves, graves y leves.
 
-A) Se consideran faltas muy graves:
+a) Se consideran faltas muy graves:
 
 1. El incumplimiento del deber de fidelidad a la Constitución en el ejercicio de la función pública.
 
@@ -20,7 +20,7 @@ A) Se consideran faltas muy graves:
 
 8. La utilización de las facultades que tenga atribuidas, para influir en procesos electorales de cualquier naturaleza y ámbito.
 
-9. El incumplimiento de las decisiones judiciales cuya ejecución tengan encomendadas.
+9. El incumplimiento grave de las decisiones judiciales cuya ejecución tengan encomendadas.
 
 10. La desobediencia grave o reiterada a las órdenes o instrucciones verbales o escritas de un superior emitidas por éste en el ejercicio de sus competencias, referidas a funciones o tareas propias del puesto de trabajo del interesado, salvo que sean manifiestamente ilegales.
 
@@ -44,7 +44,7 @@ A) Se consideran faltas muy graves:
 
 20. La comisión de una falta grave cuando hubiere sido anteriormente sancionado por otras dos graves que hayan adquirido firmeza, sin que hubieren sido canceladas o procedido la cancelación de las anotaciones correspondientes.
 
-B) Se consideran faltas graves:
+b) Se consideran faltas graves:
 
 1. La desobediencia expresa a las órdenes o instrucciones de un superior, emitidas por éste en el ejercicio de sus competencias, referidas a funciones o tareas propias del puesto de trabajo del interesado, salvo que sean manifiestamente ilegales.
 
@@ -78,7 +78,7 @@ B) Se consideran faltas graves:
 
 16. La comisión de una falta de carácter leve habiendo sido sancionado anteriormente por resolución firme por otras dos leves, sin que hubieran sido canceladas o procedido la cancelación de las correspondientes anotaciones.
 
-C) Se consideran faltas leves:
+c) Se consideran faltas leves:
 
 1. La falta de consideración con los superiores, iguales o subordinados, así como con los profesionales o ciudadanos, cuando no constituya una infracción más grave.
 
@@ -89,5 +89,7 @@ C) Se consideran faltas leves:
 4. La ausencia injustificada por un día.
 
 5. El incumplimiento del horario de trabajo sin causa justificada cuando no constituya falta grave.
+
+> Se modifica por el art. único.102 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se añade por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -4,7 +4,7 @@
 
 2. Sólo podrá recaer en quienes reúnan las condiciones necesarias para el ingreso en la Carrera Judicial, excepto las derivadas de la jubilación por edad. No podrá ser propuesto ni actuar como suplente quien haya alcanzado la edad de 70 años y, para el Tribunal Supremo, quien no tenga, como mínimo, 15 años de experiencia jurídica.
 
-3. Tendrán preferencia los que hayan desempeñado funciones judiciales o de Secretarios Judiciales o de sustitución en la Carrera Fiscal, con aptitud demostrada o ejercido profesiones jurídicas o docentes, siempre que estas circunstancias no resulten desvirtuadas por otras que comporten su falta de idoneidad. En ningún caso recaerá el nombramiento en quienes ejerzan las profesiones de abogado o procurador.
+3. Tendrán preferencia los que hayan desempeñado funciones judiciales o de Letrados de la Administración de Justicia o de sustitución en la Carrera Fiscal, con aptitud demostrada o ejercido profesiones jurídicas o docentes, siempre que estas circunstancias no resulten desvirtuadas por otras que comporten su falta de idoneidad. En ningún caso recaerá el nombramiento en quienes ejerzan las profesiones de abogado o procurador.
 
 4. El cargo de Magistrado suplente será sujeto al régimen de incompatibilidades y prohibiciones regulado en los artículos 389 a 397 de esta Ley. Se exceptúa:
 
@@ -21,6 +21,8 @@ b) Por renuncia, aceptada por el Consejo General del Poder Judicial.
 c) Por cumplir la edad de setenta y dos años.
 
 d) Por acuerdo del Consejo General del Poder Judicial, previa una sumaria información con audiencia del interesado y del Ministerio Fiscal, cuando se advirtiere en ellos falta de aptitud o idoneidad para el ejercicio de cargo, incurrieren en causa de incapacidad o de incompatibilidad o en la infracción de una prohibición, o dejaren de atender diligentemente los deberes del cargo.
+
+> Se modifica la referencia a los "Secretarios judiciales" en el apartado 3 por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
 > Se modifica el apartado 2 por el art. único.37 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

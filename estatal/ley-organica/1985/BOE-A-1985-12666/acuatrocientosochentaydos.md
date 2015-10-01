@@ -8,7 +8,9 @@
 
 4. Aprobada la oferta de empleo público, el Ministerio de Justicia procederá a la convocatoria de los procesos selectivos.
 
-5. En las ofertas de empleo público se reservará un cupo no inferior al cinco por ciento de las vacantes para ser cubiertas entre personas con discapacidad en grado igual o superior al 33 por ciento, siempre que superen las pruebas selectivas y que acrediten el grado de discapacidad y la compatibilidad para el desempeño de las funciones y tareas correspondientes en la forma que se determine reglamentariamente.
+5. En las ofertas de empleo público se reservará un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad, consideradas como tales las definidas en el apartado 2 del artículo 4 del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de Derechos de las Personas con Discapacidad y de su Inclusión Social, siempre que superen las pruebas selectivas y que acrediten el grado de discapacidad y la compatibilidad para el desempeño de las funciones y tareas correspondientes en la forma que se determine reglamentariamente.
+
+> Se modifica el apartado 5 por el art. único.89 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

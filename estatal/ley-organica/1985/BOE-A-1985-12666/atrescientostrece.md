@@ -12,7 +12,7 @@ c) Años de ejercicio efectivo de la abogacía ante los juzgados y tribunales, d
 
 d) Años de servicio efectivo como catedráticos o como profesores titulares de disciplinas jurídicas en universidades públicas o en categorías similares en universidades privadas, con dedicación a tiempo completo.
 
-e) Años de servicio como funcionario de carrera en cualesquiera otros cuerpos de las Administraciones públicas para cuyo ingreso se exija expresamente estar en posesión del título de Doctor o Licenciado en Derecho e impliquen intervención ante los Tribunales de Justicia, en la Carrera Fiscal o en el Cuerpo de Secretarios Judiciales, destinos servidos y funciones desempeñadas en los mismos.
+e) Años de servicio como funcionario de carrera en cualesquiera otros cuerpos de las Administraciones públicas para cuyo ingreso se exija expresamente estar en posesión del título de Doctor o Licenciado en Derecho e impliquen intervención ante los Tribunales de Justicia, en la Carrera Fiscal o en el Cuerpo de Letrados de la Administración de Justicia, destinos servidos y funciones desempeñadas en los mismos.
 
 f) Años de ejercicio efectivo de funciones judiciales sin pertenecer a la Carrera Judicial y número de resoluciones dictadas, valorándose además la calidad de las mismas.
 
@@ -43,6 +43,8 @@ Dicha valoración tendrá como límite el aumento o disminución de la puntuaci�
 10. En las bases se establecerá el procedimiento a que se ajustará el tribunal para excluir a un candidato por no concurrir en él la cualidad de jurista de reconocida competencia, ya por insuficiencia o falta de aptitud deducible de los datos objetivos del expediente, ya por existir circunstancias que supongan un demérito incompatible con aquella condición, aun cuando hubiese superado, a tenor del baremo fijado, la puntuación mínima exigida. En este caso, el acuerdo del tribunal se motivará por separado de la propuesta, a la que se acompañará, y se notificará al interesado por el Consejo General del Poder Judicial.
 
 11. El Consejo podrá de forma motivada rechazar a un candidato, previa audiencia, pese a la propuesta favorable del tribunal calificador, siempre que, con posterioridad a la misma, se haya tenido conocimiento de alguna circunstancia que suponga un demérito insuperable.
+
+> Se modifica la referencia a los "Secretarios judiciales" en el apartado 2.e) por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
 > Se modifica por el art. único.74 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

@@ -1,0 +1,1 @@
+Téngase en cuenta que las referencias hechas a los Secretarios Judiciales se entenderán realizadas a los Letrados de la Administración de Justicia, según establece la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera

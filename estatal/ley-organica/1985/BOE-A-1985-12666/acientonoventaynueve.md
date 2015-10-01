@@ -14,7 +14,7 @@ En quinto lugar, los del mismo órgano en el turno que se establezca, en el que 
 
 En último término y excepcionalmente, cuando no resulte posible la formación de Sala con un miembro de la carrera judicial de conformidad con lo anterior y exista disponibilidad presupuestaria, se llamará a un magistrado suplente no profesional conforme a lo previsto en la presente Ley.
 
-2. En la Audiencia Nacional y en el Tribunal Supremo, cuando no asistieren magistrados en número suficiente para constituir Sala, concurrirán para completarla otros magistrados que designe el Presidente de la Sala o, en su caso, del Tribunal respectivo, con arreglo a un turno en el que serán preferidos los que se hallaren libres de señalamiento y, entre éstos, los más modernos. En su defecto, aquellos llamarán a un magistrado suplente de conformidad con lo previsto en el número 2 del artículo siguiente.
+2. En la Audiencia Nacional, cuando no asistieren Magistrados en número suficiente para constituir Sala, concurrirán para completarla otros Magistrados que designe el Presidente de la Sala o, en su caso, del Tribunal, con arreglo a un turno en el que serán preferidos los que se hallaren libres de señalamiento y, entre éstos, los más modernos. En su defecto, se llamará a un Magistrado suplente de conformidad con lo previsto en el apartado 2 del artículo siguiente.
 
 3. Cuantas dudas puedan surgir en la aplicación de las anteriores reglas se resolverán dando preferencia en todo caso a la sustitución profesional entre miembros de la carrera judicial y atendiendo al criterio de máximo aprovechamiento de los recursos públicos.
 
@@ -25,5 +25,7 @@ En último término y excepcionalmente, cuando no resulte posible la formación 
 6. El Consejo General del Poder Judicial antes del día uno de enero deberá haber aprobado las relaciones a las que se refieren los apartados anteriores, que le fueran remitidas por las Salas de Gobierno correspondientes con arreglo a lo dispuesto en el artículo 152 de la presente Ley.
 
 7. Dentro de los límites del llamamiento o adscripción, los magistrados designados actuarán, como miembros de la Sala que sean llamados a formar, con los mismos derechos y deberes que los magistrados titulares.
+
+> Se modifica el apartado 2 por el art. único.29 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. único.6 de la Ley Orgánica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.

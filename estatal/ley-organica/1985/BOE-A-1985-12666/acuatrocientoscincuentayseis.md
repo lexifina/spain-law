@@ -1,20 +1,30 @@
 ## Artículo 456.
 
-1. El secretario judicial impulsará el proceso en los términos que establecen las leyes procesales.
+1. El Letrado de la Administración de Justicia impulsará el proceso en los términos que establecen las leyes procesales.
 
-2. A tal efecto, dictará las resoluciones necesarias para la tramitación del proceso, salvo aquéllas que las leyes procesales reserven a jueces o tribunales. Estas resoluciones se denominarán diligencias, que podrán ser de ordenación, de constancia, de comunicación o de ejecución. Las diligencias de ordenación serán recurribles ante el juez o el ponente, en los casos y formas previstos en las leyes procesales.
+2. A tal efecto, dictará las resoluciones necesarias para la tramitación del proceso, salvo aquéllas que las leyes procesales reserven a Jueces o Tribunales. Estas resoluciones se denominarán diligencias, que podrán ser de ordenación, de constancia, de comunicación o de ejecución.
 
-3. Los secretarios judiciales cuando así lo prevean las leyes procesales tendrán competencias en las siguientes materias:
+3. Se llamará decreto a la resolución que dicte el Letrado de la Administración de Justicia con el fin de admitir la demanda, poner término al procedimiento del que tenga atribuida exclusiva competencia, o cuando sea preciso o conveniente razonar su decisión. Será siempre motivado y contendrá, en párrafos separados y numerados, los antecedentes de hecho y los fundamentos de derecho en que se basa.
 
-a) La ejecución salvo aquellas competencias que exceptúen las leyes procesales por estar reservadas a jueces y magistrados.
+4. Las diligencias de ordenación y los decretos serán recurribles en los casos y formas previstos en las leyes procesales.
+
+5. Las resoluciones de carácter gubernativo de los Letrados de la Administración de Justicia se denominarán acuerdos.
+
+6. Los Letrados de la Administración de Justicia, cuando así lo prevean las leyes procesales, tendrán competencias en las siguientes materias:
+
+a) Ejecución, salvo aquellas competencias que exceptúen las leyes procesales por estar reservadas a Jueces y Magistrados.
 
 b) Jurisdicción voluntaria, asumiendo su tramitación y resolución, sin perjuicio de los recursos que quepa interponer.
 
-c) Conciliaciones, llevando a cabo la labor mediadora que les sea propia.
+c) Conciliación, llevando a cabo la labor mediadora que les sea propia.
 
-d) Cualesquiera otras que expresamente se prevean.
+d) Tramitación y, en su caso, resolución de los procedimientos monitorios.
 
-4. Se llamará decreto a la resolución que dicte el secretario judicial con el fin de poner término al procedimiento del que tenga atribuida exclusiva competencia, o cuando sea preciso o conveniente razonar su decisión. Será siempre motivado y contendrá, en párrafos separados y numerados, los antecedentes de hecho y los fundamentos de derecho en que se basa.
+e) Mediación.
+
+f) Cualesquiera otras que expresamente se prevean.
+
+> Se modifica por el art. único.68 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

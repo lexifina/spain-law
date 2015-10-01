@@ -8,7 +8,9 @@
 
 Esta excedencia constituye un derecho individual de los funcionarios. En caso de que dos funcionarios generasen el derecho a disfrutarlo por el mismo sujeto causante, la Administración podrá limitar su ejercicio simultáneo por razones justificadas relacionadas con el funcionamiento de los servicios.
 
-El período de permanencia en esta situación será computable a efectos de trienios, y derechos pasivos. Durante el primer año, los funcionarios tendrán derecho a la reserva del puesto de trabajo que desempeñaban y podrán reincorporarse a su puesto de trabajo sin necesidad de solicitar el reingreso, así como participar en los concursos que se convoquen. Transcurrido este período, dicha reserva lo será para un puesto en la misma localidad y de igual retribución, debiendo solicitar en el mes anterior a la finalización del período máximo de permanencia en la misma, el reingreso al servicio activo y, de no hacerlo, será declarado de oficio en la situación de excedencia voluntaria por interés particular.
+El tiempo de permanencia en esta situación será computable a efectos de trienios, carrera y derechos en el régimen de Seguridad Social que sea de aplicación. El puesto desempeñado se reservará al menos dos años. Transcurrido este periodo, dicha reserva lo será a un puesto en la misma localidad y de igual retribución. Los funcionarios en esta situación podrán participar en los cursos de formación que convoque la Administración.
+
+> Se modifica el párrafo tercero del apartado 3 por el art. único.98 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica el apartado 2 por la disposición final 1.5 de la Ley Orgánica 13/2007, de 19 de noviembre. Ref. BOE-A-2007-19879.
 

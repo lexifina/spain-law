@@ -6,7 +6,7 @@
 
 a) Los que ostenten el título de Doctor en Derecho.
 
-b) Los que hayan ejercido funciones judiciales, de Secretarios Judiciales o de sustitución en la Carrera Fiscal con aptitud demostrada o ejercido otras profesiones jurídicas.
+b) Los que hayan ejercido funciones judiciales, de Letrados de la Administración de Justicia o de sustitución en la Carrera Fiscal con aptitud demostrada o ejercido otras profesiones jurídicas.
 
 c) Los que hubieran aprobado oposiciones para el desempeño de puestos de trabajo en cualquier Administración Pública en las que se exija el título de licenciado en Derecho.
 
@@ -19,6 +19,8 @@ f) En las Comunidades Autónomas con derecho o con lengua y derecho propios su c
 Los anteriores méritos serán valorados de forma que ninguno de ellos, por sí solo, pueda superar la valoración conjunta de otros dos.
 
 3. De los nombramientos efectuados se dará cuenta al Consejo General, que los dejará sin efecto si no se ajustaren a la ley.
+
+> Se modifica la referencia a los "Secretarios judiciales" en el apartado 2.b) por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
 > Se modifican los apartados 1 y 2 por el art. 4.14 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
 

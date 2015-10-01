@@ -26,9 +26,9 @@ Asimismo, tomar conocimiento, aprobar provisionalmente y remitir al Consejo Gene
 
 11.º Recibir el juramento o promesa legalmente prevenidos de los magistrados que integran los respectivos tribunales y darles posesión.
 
-12.º Recibir informes del Secretario de Gobierno, por iniciativa de éste o de la propia Sala, en todos aquellos asuntos que, por afectar a las oficinas judiciales o secretarios judiciales que de él dependan, exijan de algún tipo de actuación. En este caso, el Secretario de Gobierno tendrá voto en el acuerdo que pueda llegar a adoptarse.
+12.º Recibir informes del Secretario de Gobierno, por iniciativa de éste o de la propia Sala, en todos aquellos asuntos que, por afectar a las oficinas judiciales o letrados de la Administración de Justicia que de él dependan, exijan de algún tipo de actuación. En este caso, el Secretario de Gobierno tendrá voto en el acuerdo que pueda llegar a adoptarse.
 
-13.º Promover ante el órgano competente la exigencia de las responsabilidades disciplinarias que procedan de secretarios judiciales, del personal al servicio de la Administración de Justicia o de cualquier otro que, sin ostentar esta condición, preste sus servicios de forma permanente u ocasional en ésta.
+13.º Promover ante el órgano competente la exigencia de las responsabilidades disciplinarias que procedan de letrados de la Administración de Justicia, del personal al servicio de la Administración de Justicia o de cualquier otro que, sin ostentar esta condición, preste sus servicios de forma permanente u ocasional en ésta.
 
 14.º En general, cumplir las demás funciones que las leyes atribuyan a los órganos de gobierno interno de los tribunales y que no estén atribuidas expresamente a los Presidentes.
 
@@ -43,6 +43,8 @@ Excepcionalmente, de forma motivada, y cuando las necesidades del servicio así 
 3.º Expedir los nombramientos de los Jueces de Paz.
 
 4.º Tomar conocimiento de los planes anuales de sustitución elaborados por las Juntas de Jueces, aprobarlos provisionalmente en los términos y, en su caso, con las correcciones que procedan y remitirlos al Consejo General del Poder Judicial para su aprobación definitiva. Además, velarán por su cumplimiento.
+
+> Se modifican las referencias a los "Secretarios judiciales" en los apartados 12 y 13 por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
 > Se modifica el apartado 1.4º y añade el 2.4º por el art. único.2 y 3 de la Ley Orgánica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.
 

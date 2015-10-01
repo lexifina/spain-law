@@ -12,11 +12,13 @@
 
 6. Si el tribunal advirtiese, en las sentencias o autos que dictara, las omisiones a que se refiere el apartado anterior, podrá, en el plazo de cinco días a contar desde la fecha en que se dicten, proceder de oficio, mediante auto, a completar su resolución, pero sin modificar ni rectificar lo que hubiere acordado.
 
-7. Del mismo modo al establecido en los apartados anteriores se procederá por el Secretario Judicial cuando se precise aclarar, rectificar, subsanar o completar los decretos que hubiere dictado.
+7. Del mismo modo al establecido en los apartados anteriores se procederá por el Letrado de la Administración de Justicia cuando se precise aclarar, rectificar, subsanar o completar los decretos que hubiere dictado.
 
-8. No cabrá recurso alguno contra los autos o decretos en que se resuelva acerca de la aclaración, rectificación, subsanación o complemento a que se refieren los anteriores apartados de este artículo, sin perjuicio de los recursos que procedan, en su caso, contra la sentencia, auto o decreto a que se refiera la solicitud o actuación de oficio del Tribunal o del Secretario Judicial.
+8. No cabrá recurso alguno contra los autos o decretos en que se resuelva acerca de la aclaración, rectificación, subsanación o complemento a que se refieren los anteriores apartados de este artículo, sin perjuicio de los recursos que procedan, en su caso, contra la sentencia, auto o decreto a que se refiera la solicitud o actuación de oficio del Tribunal o del Letrado de la Administración de Justicia.
 
 9. Los plazos para los recursos que procedan contra la resolución de que se trate se interrumpirán desde que se solicite su aclaración, rectificación, subsanación o complemento y, en todo caso, comenzarán a computarse desde el día siguiente a la notificación del auto o decreto que reconociera o negase la omisión del pronunciamiento y acordase o denegara remediarla.
+
+> Se modifican las referencias a los "Secretarios judiciales" en los apartados 7 y 8 por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
 > Se modifican los apartados 7 y 8 y se añade el apartado 9 por el art. 1.5 de la Ley Orgánica 1/2009, de 3 de noviembre. Ref. BOE-A-2009-17492.
 

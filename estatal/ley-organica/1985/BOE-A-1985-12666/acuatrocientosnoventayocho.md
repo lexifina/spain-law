@@ -20,15 +20,19 @@ a) Por lo que se refiere a Cuerpos Especiales:
 
 b) Por lo que se refiere a Cuerpos Generales:
 
-1.º El ejercicio de la Abogacía, Procuraduría y empleos al servicio de abogados y procuradores o cualquier otra profesión que habilite para actuar ante juzgados y tribunales.
+1.º El ejercicio de la abogacía, procuraduría, o de la profesión de Graduado Social y empleos al servicio de Abogados, Procuradores y Graduados Sociales o cualquier otra profesión que habilite para actuar ante Juzgados y Tribunales.
 
-2.º La condición de agentes de seguros y la de empleado de los mismos o de una compañía de seguros.
+2.º El desempeño de todo tipo de asesoramiento jurídico, sea retribuido o no.
 
-3.º El desempeño de los cargos de gerentes, consejeros o asesores de empresas que persigan fines lucrativos.
+3.º La condición de agentes de seguros y la de empleado de los mismos o de una compañía de seguros.
 
-4.º El desempeño de servicios de gestoría administrativa, ya sea como titular o como empleado de tales oficinas.
+4.º El desempeño de los cargos de gerentes, consejeros o asesores de empresas que persigan fines lucrativos.
 
-5.º El ejercicio de funciones periciales privadas ante los tribunales y juzgados.
+5.º El desempeño de servicios de gestoría administrativa, ya sea como titular o como empleado de tales oficinas.
+
+6.º El ejercicio de funciones periciales privadas ante los Tribunales y Juzgados.
+
+> Se modifica la letra b) del apartado 3 por el art. único.94 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

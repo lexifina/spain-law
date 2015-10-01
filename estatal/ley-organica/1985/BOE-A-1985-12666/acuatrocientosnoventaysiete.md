@@ -24,7 +24,9 @@ j) Dar a conocer su identidad y categoría a los interesados que lo requieran, s
 
 k) Velar por la conservación y uso correcto de los locales, material, documentos e información a su cargo, no utilizando los medios propiedad de la Administración en provecho propio ni ejercer sus cometidos de forma que puedan beneficiar ilegítimamente a sí mismos o a otras personas.
 
-l) Tratar con corrección y consideración a los superiores jerárquicos, compañeros y subordinados.
+l) Tratar con corrección y consideración a los superiores jerárquicos, compañeros y subordinados, así como a Abogados, Procuradores y Graduados Sociales.
+
+> Se modifica la letra l) por el art. único.93 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

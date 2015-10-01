@@ -1,23 +1,39 @@
 ## Artículo 479.
 
-1. Los médicos forenses son funcionarios de carrera que constituyen un Cuerpo Nacional de Titulados Superiores al servicio de la Administración de Justicia.
+1. Los Institutos de Medicina Legal y Ciencias Forenses son órganos técnicos adscritos al Ministerio de Justicia, o en su caso a aquellas Comunidades Autónomas con competencia en la materia, cuya misión principal es auxiliar a la Administración de Justicia en el ámbito de su disciplina científica y técnica.
 
-2. Son funciones de los médicos forenses la asistencia técnica a juzgados, tribunales, fiscalías y oficinas del Registro Civil en las materias de su disciplina profesional, tanto en el campo de la patología forense y prácticas tanatológicas como en la asistencia o vigilancia facultativa de los detenidos, lesionados o enfermos, que se hallaren bajo la jurisdicción de aquellos, en los supuestos y en la forma que determinen las leyes.
+2. Existirá un Instituto de Medicina Legal y Ciencias Forenses en cada ciudad donde tenga su sede oficial un Tribunal Superior de Justicia.
 
-A estos efectos, emitirán informes y dictámenes médicos legales en el marco del proceso judicial, realizarán el control periódico de los lesionados y la valoración de los daños corporales que sean objeto de actuaciones procesales. Igualmente realizarán funciones de investigación y colaboración que deriven de su propia función.
+No obstante, el Gobierno, a propuesta del Ministerio de Justicia, previa petición, en su caso, de una Comunidad Autónoma con competencia en la materia, podrá autorizar que dicha sede sea la de la capitalidad administrativa de la Comunidad Autónoma de que se trate, cuando sea distinta de la del Tribunal Superior de Justicia.
 
-En el curso de las actuaciones procesales o de investigación de cualquier naturaleza incoadas por el Ministerio Fiscal, estarán a las órdenes de los jueces, magistrados, fiscales y encargados del Registro Civil, ejerciendo sus funciones con plena independencia y bajo criterios estrictamente científicos.
+Asimismo, el Gobierno podrá autorizar, previa petición, en su caso, de una Comunidad Autónoma con competencia en la materia, el establecimiento de Institutos de Medicina Legal y Ciencias Forenses en las restantes ciudades del ámbito territorial del Tribunal Superior de Justicia de que se trate, con el ámbito de actuación que se determine.
 
-3. Los médicos forenses estarán destinados en un Instituto de Medicina Legal o en el Instituto Nacional de Toxicología y Ciencias Forenses.
+Con sede en Madrid existirá un Instituto de Medicina Legal y Ciencias Forenses que prestará servicio a los diversos órganos de jurisdicción estatal.
 
-Excepcionalmente, y cuando las necesidades del servicio lo requieran, podrán ser adscritos a órganos jurisdiccionales, fiscalías u oficinas del Registro Civil.
+3. Mediante real decreto, a propuesta del Ministro de Justicia y previo informe del Consejo General del Poder Judicial y de las Comunidades Autónomas que han recibido los traspasos de medios para el funcionamiento de la Administración de Justicia, se determinarán las normas generales de organización y funcionamiento de los Institutos de Medicina Legal y Ciencias Forenses y de actuación de los médicos forenses y del resto del personal funcionario o laboral adscrito a los mismos, pudiendo el Ministerio de Justicia o el órgano competente de la Comunidad Autónoma dictar, en el ámbito de sus respectivas competencias, las disposiciones pertinentes para su desarrollo y aplicación. En todo caso los Institutos de Medicina Legal y Ciencias Forenses contarán con unidades de valoración forense integral, de las que podrán formar parte los psicólogos y trabajadores sociales que se determinen para garantizar, entre otras funciones, la asistencia especializada a las víctimas de violencia de género y el diseño de protocolos de actuación global e integral en casos de violencia de género. Asimismo dentro de los Institutos podrán integrarse el resto de equipos psicosociales que prestan servicios a la Administración de Justicia, incluyendo los equipos técnicos de menores, cuyo personal tendrá formación especializada en familia, menores, personas con discapacidad y violencia de género y doméstica. Su formación será orientada desde la perspectiva de la igualdad entre hombres y mujeres.
 
-4. Existirá un Instituto de Medicina Legal en las capitales de provincia en las que tenga su sede un Tribunal Superior de Justicia, así como en aquellas en las que tengan su sede Salas de los Tribunales Superiores de Justicia con jurisdicción en una o más provincias.
+4. Los médicos forenses son funcionarios de carrera que constituyen un Cuerpo Nacional de Titulados Superiores al servicio de la Administración de Justicia.
 
-No obstante, el Gobierno, a propuesta del Ministerio de Justicia, previa petición, en su caso, de una comunidad autónoma con competencia en la materia, podrá autorizar que dicha sede sea la de la capitalidad administrativa de la comunidad autónoma de que se trate, cuando sea distinta de la del Tribunal Superior de Justicia.
+5. Son funciones de los médicos forenses:
 
-Asimismo, el Gobierno podrá autorizar el establecimiento de Institutos de Medicina Legal en las restantes ciudades del ámbito territorial del Tribunal Superior de Justicia de que se trate, con el ámbito de actuación que se determine.
+a) La asistencia técnica a Juzgados, Tribunales y Fiscalías en las materias de su disciplina profesional, emitiendo informes y dictámenes en el marco del proceso judicial o en las actuaciones de investigación criminal que aquellos soliciten.
 
-Mediante real decreto, a propuesta del Ministro de Justicia y previo informe del Consejo General del Poder Judicial y de las comunidades autónomas que han recibido los traspasos de medios para el funcionamiento de la Administración de Justicia, se determinarán las normas generales de organización y funcionamiento de los Institutos de Medicina Legal y de actuación de los médicos forenses, pudiendo el Ministerio de Justicia o el órgano competente de la comunidad autónoma dictar, en el ámbito de sus respectivas competencias, las disposiciones pertinentes para su desarrollo y aplicación.
+b) La asistencia o vigilancia facultativa de los detenidos, lesionados o enfermos, que se hallaren bajo la jurisdicción de Juzgados, Tribunales y Fiscalías, en los supuestos y en la forma que determinen las leyes.
+
+c) La emisión de informes y dictámenes a solicitud del Registro Civil, en los supuestos y condiciones que determine su legislación específica.
+
+d) La emisión de informes y dictámenes, a solicitud de particulares en las condiciones que se determinen reglamentariamente.
+
+e) La realización de funciones de docencia, periciales o de investigación, por motivos de interés general, de acuerdo con las instrucciones que establezca el Ministerio de Justicia o la Comunidad Autónoma con competencias en materia de Justicia, en el marco de posibles acuerdos o convenios.
+
+f) La realización de funciones de investigación y colaboración que deriven de su propia función, en los términos contemplados reglamentariamente.
+
+6. En el curso de las actuaciones procesales o de investigación de cualquier naturaleza incoadas por el Ministerio Fiscal, el personal destinado en los Institutos de Medicina Legal y Ciencias Forenses estará a las órdenes de los Jueces y Fiscales, ejerciendo sus funciones con plena independencia y bajo criterios estrictamente científicos.
+
+7. Los médicos forenses estarán destinados en un Instituto de Medicina Legal y Ciencias Forenses o en el Instituto Nacional de Toxicología y Ciencias Forenses. Asimismo, en los Institutos de Medicina Legal y Ciencias Forenses estará destinado el personal funcionario que se determine en las relaciones de puestos de trabajo. También podrán prestar servicios en los citados Institutos los psicólogos, trabajadores sociales y resto de personal laboral que se determine.
+
+> Se modifica por el art. único.86 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
+
+> Téngase en cuenta la disposición transitoria 6 de la citada Ley orgánica para los casos en que no estén constituidos los Institutos de Medicina Legal y Ciencias Forenses.
 
 > Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

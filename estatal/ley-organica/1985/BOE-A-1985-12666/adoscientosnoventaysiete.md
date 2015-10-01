@@ -1,3 +1,5 @@
 ## Artículo 297.
 
-Lo dispuesto en los artículos anteriores no obstará a la exigencia de responsabilidad civil a los Jueces y Magistrados, por los particulares, con arreglo a lo dispuesto en esta Ley.
+(Suprimido)
+
+> Se suprime por el art. único.43 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.

@@ -1,9 +1,11 @@
 ## Artículo 449.
 
-1. Los funcionarios que se encuentren en periodo de prácticas o desarrollando cursos selectivos a los que se refiere el artículo 485 serán nombrados funcionarios en prácticas y percibirán una retribución equivalente al sueldo y las pagas extraordinarias correspondientes al Cuerpo de Secretarios Judiciales de la tercera categoría.
+1. Los funcionarios que se encuentren en periodo de prácticas o desarrollando cursos selectivos a los que se refiere el artículo 485 serán nombrados funcionarios en prácticas y percibirán una retribución equivalente al sueldo y las pagas extraordinarias correspondientes al Cuerpo de Letrados de la Administración de Justicia de la tercera categoría.
 
 2. Los funcionarios en prácticas que ya estuviesen prestando servicios remunerados en la Administración de Justicia, durante el periodo de prácticas no podrán percibir remuneración alguna por el puesto de trabajo de origen y podrán optar por una remuneración de igual importe a la que les correspondía en el puesto de trabajo de origen o por la que les corresponda como funcionario en prácticas, de acuerdo con lo dispuesto en el apartado anterior.
 
 3. Si las prácticas se realizasen desempeñando un puesto de trabajo, el importe señalado en el apartado primero se incrementará en las retribuciones complementarias de dicho puesto.
+
+> Se modifica la referencia a los "Secretarios judiciales" en el apartado 1 por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

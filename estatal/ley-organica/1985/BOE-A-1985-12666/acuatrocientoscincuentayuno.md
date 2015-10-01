@@ -1,11 +1,17 @@
 ## Artículo 451.
 
-1. Las sustituciones por ausencia, enfermedad, suspensión o vacante de secretarios judiciales serán cubiertas por quien designe su inmediato superior jerárquico.
+1. Las suplencias por ausencia, enfermedad, suspensión o vacante de Letrados de la Administración de Justicia serán cubiertas por quien designe su inmediato superior jerárquico.
 
-2. Esta designación únicamente podrá recaer en otro secretario judicial o en un secretario judicial sustituto, quien ejercerá las funciones previstas en esta ley orgánica para los secretarios judiciales aún sin pertenecer a dicho cuerpo, sin carácter de profesionalidad y con inamovilidad temporal, ostentando los mismos derechos y deberes que su titular y con idéntica amplitud que éste.
+2. Esta designación deberá recaer en otro Letrado de la Administración de Justicia, que se denominará Letrado suplente. A tal efecto los Secretarios de Gobierno elaborarán una relación de los miembros del Cuerpo de Letrados de la Administración de Justicia que voluntariamente quieran participar en los planes anuales de suplencias. De no existir voluntario, se designará, con carácter forzoso, al suplente ordinario que se designe conforme a lo previsto en el número anterior. Los llamamientos que tengan lugar conforme a lo establecido en este precepto serán retribuidos en los casos y cuantía que se determinen reglamentariamente.
 
-En este segundo caso, el Ministerio de Justicia determinará los requisitos y procedimiento para su nombramiento y cese.
+3. Excepcionalmente, cuando no hubiera suficiente número de Letrados de la Administración de Justicia, en los supuestos de entradas y registros en lugares cerrados acordados por un único órgano judicial de la Audiencia Nacional y que deban ser realizados de forma simultánea, podrán los funcionarios del Cuerpo de Gestión Procesal y Administrativa, en sustitución del Letrado de la Administración de Justicia, intervenir en calidad de fedatarios y levantar la correspondiente acta.
 
-3. Excepcionalmente, cuando no hubiera suficiente número de secretarios judiciales, en los supuestos de entradas y registros en lugares cerrados acordados por un único órgano judicial de la Audiencia Nacional y que deban ser realizados de forma simultánea, podrán los funcionarios del Cuerpo de Gestión Procesal y Administrativa, en sustitución del secretario judicial, intervenir en calidad de fedatarios y levantar la correspondiente acta.
+4. Cuando no fuera posible proceder a la suplencia conforme a lo previsto en los apartados 1 y 2, y exista disponibilidad presupuestaria, podrá procederse al nombramiento de un Letrado de la Administración de Justicia sustituto, siempre que cumpla los requisitos de titulación exigidos para el ingreso en el Cuerpo de Letrados de la Administración de Justicia.
+
+5. A los Letrados de la Administración de Justicia sustitutos se les aplicará el mismo régimen jurídico que a los titulares, en la medida en que su naturaleza lo permita, quedando integrados en el Régimen General de la Seguridad Social.
+
+6. De existir funcionarios pertenecientes al Cuerpo de Gestión Procesal y Administrativa incluidos en la correspondiente bolsa, serán llamados como Letrados de la Administración de Justicia sustitutos con preferencia sobre el resto de sustitutos, manteniendo su inclusión obligatoria tanto en el régimen de la Seguridad Social que resulte aplicable como en el Mutualismo Judicial.
+
+> Se modifica por el art. único.66 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

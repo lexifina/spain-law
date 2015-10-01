@@ -10,4 +10,8 @@
 
 5. En ningún caso podrá recaer la designación de Vocales del Consejo General del Poder Judicial en Vocales del Consejo saliente.
 
+6. El cómputo de los plazos en los procedimientos de designación de Vocales del Consejo General del Poder Judicial y de elección del Presidente del Tribunal Supremo y del Consejo General del Poder Judicial, así como del Vicepresidente del Tribunal Supremo, se realizará por días hábiles cuando el plazo se señale por días, empezando a computarse desde el día siguiente, y de fecha a fecha cuando se fije en meses o años. Cuando en el mes del vencimiento no hubiera día equivalente al inicial del cómputo se entenderá que el plazo expira el último del mes.
+
+> Se añade el apartado 6 por el art. único.110 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
+
 > Se añade por el art. único.1 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.

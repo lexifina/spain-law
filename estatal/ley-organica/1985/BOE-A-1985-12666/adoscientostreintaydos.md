@@ -2,4 +2,8 @@
 
 1. Las actuaciones judiciales serán públicas, con las excepciones que prevean las leyes de procedimiento.
 
-2. Excepcionalmente, por razones de orden público y de protección de los derechos y libertades, los Jueces y Tribunales, mediante resolución motivada, podrán limitar el ámbito de la publicidad y acordar el carácter secreto de todas o parte de las actuaciones.
+2. La relación de señalamientos del órgano judicial deberá hacerse pública. Los Letrados de la Administración de Justicia velarán por que los funcionarios competentes de la Oficina judicial publiquen en un lugar visible al público, el primer día hábil de cada semana, la relación de señalamientos correspondientes a su respectivo órgano judicial, con indicación de la fecha y hora de su celebración, tipo de actuación y número de procedimiento.
+
+3. Excepcionalmente, por razones de orden público y de protección de los derechos y libertades, los Jueces y Tribunales, mediante resolución motivada, podrán limitar el ámbito de la publicidad y acordar el carácter secreto de todas o parte de las actuaciones.
+
+> Se modifica el apartado 2 y se añade el 3 por el art. único.33 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.

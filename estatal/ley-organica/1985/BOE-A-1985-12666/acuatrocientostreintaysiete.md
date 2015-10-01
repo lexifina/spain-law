@@ -4,10 +4,12 @@
 
 2. Existirán tantas unidades procesales de apoyo directo como juzgados, o en su caso, salas o secciones de tribunales estén creados y en funcionamiento, integrando junto a sus titulares el respectivo órgano judicial.
 
-3. Las unidades procesales de apoyo directo contarán con un secretario judicial que ejercerá las competencias y funciones que le son propias. Por motivos de racionalización del servicio, un mismo secretario judicial podrá actuar en más de una de estas unidades.
+3. Las unidades procesales de apoyo directo contarán con un letrado de la Administración de Justicia que ejercerá las competencias y funciones que le son propias. Por motivos de racionalización del servicio, un mismo letrado de la Administración de Justicia podrá actuar en más de una de estas unidades.
 
 4. Cada unidad contará, además, con los puestos de trabajo necesarios para la atención del órgano de que se trate, de acuerdo con el orden jurisdiccional al que pertenezca, que se determinarán en las respectivas relaciones de puestos de trabajo.
 
 5. El Ministerio de Justicia, previo informe del Consejo General del Poder Judicial y de las comunidades autónomas con competencias asumidas, determinará las dotaciones básicas de estas unidades procesales de apoyo directo, que garantizarán, en todo caso, el correcto funcionamiento del órgano jurisdiccional.
+
+> Se modifica la referencia a los "Secretarios judiciales" en el apartado 3 por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
