@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Intereses de la defensa nacional.
+
+1. Con carácter previo a la aprobación definitiva de los estudios de carreteras del Estado y de las dependientes de otras administraciones que incidan sobre zonas declaradas de interés para la defensa nacional o bien sobre terrenos, edificaciones e instalaciones, incluidas sus zonas de seguridad, vinculados a los fines de la defensa nacional, deberá solicitarse informe del Ministerio de Defensa respecto a dicha incidencia. El informe tendrá carácter vinculante y deberá ser evacuado en el plazo de dos meses, entendiéndose desfavorable si no fuera emitido, en lo que afecta a la defensa nacional.
+
+2. Las sujeciones y limitaciones impuestas para la zona de protección de las carreteras no serán de aplicación a los terrenos expresamente declarados de interés para la seguridad y la defensa nacional o vinculados a esta última conforme a su legislación específica, si bien en tales supuestos y previo acuerdo con el Ministerio de Defensa, también deberá tenerse en cuenta cualquier implicación que se derive para la seguridad vial.

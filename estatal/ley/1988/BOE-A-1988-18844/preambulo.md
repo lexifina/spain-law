@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 272, de 12 de noviembre de 1988. Ref. BOE-A-1988-25940.
+Norma derogada por la disposición derogatoria única de la Ley 37/2015, de 29 de septiembre. Ref. BOE-A-2015-10439#ddunica.
