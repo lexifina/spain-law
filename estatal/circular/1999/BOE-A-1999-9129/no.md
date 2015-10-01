@@ -1,0 +1,1 @@
+Téngase en cuenta que a partir del 1 de octubre de 2015 esta Circular no sera de aplicación ni al control financiero permanente ni a la auditoría pública según se establece en las disposiciones derogatorias de las Resoluciones de 30 de julio de 2015. Ref. BOE-A-2015-8938. y Ref. BOE-A-2015-8939. respectivamente.

@@ -1,0 +1,13 @@
+## Decimoquinta. Informes globales anuales.
+
+1. En el curso del primer trimestre del año siguiente al que se refiera el plan de control, los interventores delegados en los ministerios, organismos y entidades, con el fin de facilitar una valoración global de la gestión deberán elaborar un informe comprensivo de los resultados más relevantes de las actuaciones de control financiero permanente realizadas en ejecución del correspondiente plan anual.
+
+2. El contenido del informe incluirá los aspectos que resulten significativos por su relevancia cuantitativa o cualitativa, por su reiteración, por su novedad, o por cualquier otra circunstancia que el interventor delegado considere oportuno y deberá estar basado en los informes que a lo largo del ejercicio se hayan remitido a los gestores directos de la actividad controlada. Igualmente, incluirá los aspectos que se deriven de las actuaciones y resultados de seguimiento de las comprobaciones materiales de la inversión a que se refiere el apartado cuarto de la disposición vigesimotercera de la resolución de 14 de julio de 2015, de la Intervención General de la Administración del Estado, sobre el desarrollo de la función interventora en el ámbito de la comprobación material de la inversión.
+
+3. Cuando en alguno de los aspectos que se trasladan al informe global, el órgano gestor en sus alegaciones mantenga opiniones contrarias a las del interventor delegado, que se estime deban ser conocidas por los destinatarios del informe global, se hará referencia a tal circunstancia y se explicarán los argumentos de la intervención para ratificar su opinión, pero en ningún caso se acompañarán alegaciones al informe global.
+
+4. Cuando en el informe global anual se pongan de manifiesto situaciones que requieran la elaboración, por parte del correspondiente departamento ministerial, de un plan de acción, de acuerdo con lo dispuesto en el artículo 161 de la Ley General Presupuestaria, se actuará conforme a lo dispuesto en la sección 5.ª de la presente resolución.
+
+5. Los informes globales elaborados por los interventores delegados se pondrán a disposición de la Oficina Nacional de Auditoría antes del 31 de marzo de cada año.
+
+6. El Interventor General de la Administración del Estado remitirá antes del 30 de abril de cada año a cada ministro el informe relativo al ministerio y los de los organismos y entidades dependientes o adscritas que estén sometidas a control financiero permanente. Igualmente, antes de la citada fecha, remitirá todos los informes globales al Ministro de Hacienda y Administraciones Públicas y al Secretario de Estado de Presupuestos y Gastos.

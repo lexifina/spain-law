@@ -1,0 +1,11 @@
+## Quinta. Elaboración, aprobación y publicidad del plan anual de control financiero permanente.
+
+1. Para la elaboración del plan de actuaciones de control financiero permanente de cada ejercicio, la Oficina Nacional de Auditoría solicitará a los interventores delegados en ministerios, organismos y entidades la remisión de la propuesta de las actuaciones de control a incluir, sobre la base de un análisis de riesgos consistente con los objetivos que se pretendan conseguir, las prioridades establecidas para cada ejercicio y los medios disponibles.
+
+2. La Oficina Nacional de Auditoría determinará la metodología a utilizar para seleccionar las actuaciones a incluir y los modelos, plazos y procedimientos de remisión de las propuestas.
+
+3. El plan anual de actuaciones de control financiero permanente se aprobará por Resolución de la Intervención General de la Administración del Estado, a propuesta del Director de la Oficina Nacional de Auditoría, del Interventor General de la Defensa y del Interventor General de la Seguridad Social, e incluirá como anexo las actuaciones de control a realizar por cada intervención delegada en ministerios, centros directivos, organismos y entidades, incluyendo, en su caso, las actuaciones de control a realizar por las intervenciones regionales y territoriales respecto de la gestión realizada por los servicios periféricos y el alcance de los trabajos a efectuar.
+
+4. El plan anual de control financiero permanente, una vez aprobado, se remitirá por la Intervención General de la Administración del Estado, al Tribunal de Cuentas, al Ministro de Hacienda y Administraciones Públicas, al Secretario de Estado de Presupuestos y Gastos y a los titulares de los departamentos ministeriales en la parte que corresponda al ámbito de sus respectivas competencias.
+
+5. La Intervención General de la Administración del Estado publicará en el portal de la Administración Presupuestaria la Resolución que apruebe el plan anual de actuaciones de control financiero permanente, siempre que su publicación no suponga un perjuicio para las funciones de control. La misma información se publicará en el Portal de Transparencia en los términos establecidos en la normativa que resulte de aplicación.
