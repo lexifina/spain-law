@@ -8,39 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2015-10-01 by BOE-A-2015-8938. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [co](co.md)
-- [preambulo](preambulo.md)
-- [Sección primera](sprimera.md)
-- [1.](A1.md)
-- [2.](A2.md)
-- [3.](A3.md)
-- [4.](A4.md)
-- [Sección segunda](ssegunda.md)
-- [5.](A5.md)
-- [6.](A6.md)
-- [7.](A7.md)
-- [Sección tercera](stercera.md)
-- [8.](A8.md)
-- [9.](A9.md)
-- [10.](A10.md)
-- [11.](A11.md)
-- [12.](A12.md)
-- [Sección cuarta](scuaa.md)
-- [13.](A13.md)
-- [14.](A14.md)
-- [15.](A15.md)
-- [16.](A16.md)
-- [17.](A17.md)
-- [Sección quinta](squinta.md)
-- [18.](A18.md)
-- [19.](A19.md)
-- [Disposición adicional](da.md)
-- [Disposición transitoria primera](dtprimera.md)
-- [Disposición transitoria segunda](dtsegunda.md)
-- [Disposición derogatoria](dd.md)
-- [Disposición final](df.md)
-- [firma](firma.md)
-- [ANEXO I](ani.md)
-- [ANEXO II](anii-2.md)
+- [BOE publisher notice](co.md)
