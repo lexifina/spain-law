@@ -14,3 +14,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria cuarta](dtcuaa.md)
 - [Disposición transitoria décima](dtdecima.md)
 - [Disposición transitoria decimotercera](dtdecimotercera.md)
+- [Disposición final duodécima](dfduodecima.md)
