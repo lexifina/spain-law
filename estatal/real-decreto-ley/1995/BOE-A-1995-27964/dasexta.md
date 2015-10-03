@@ -18,7 +18,25 @@ b) Actuar como instrumento de ejecución de determinadas medidas de política ec
 
 En todo caso, el Consejo de Ministros o la Comisión Delegada del Gobierno para Asuntos Económicos, al dar instrucciones al Instituto de Crédito Oficial para que realice una operación, deberá especificar si la misma se ha de llevar a cabo en el ejercicio de las funciones a que se refiere el párrafo a) o si se ha de realizar en cumplimiento de las enunciadas en el párrafo b).
 
-Tres. Recursos.
+Tres. Consejo General.
+
+1. El Instituto de Crédito Oficial estará regido por un Consejo General, que tendrá a su cargo la superior dirección de su administración y gestión.
+
+2. El Consejo General estará formado por el Presidente de la entidad, que lo será también del Consejo, y diez Vocales, y estará asistido por el Secretario y, en su caso, el Vicesecretario del mismo.
+
+Todos los integrantes del Consejo General actuarán siempre en interés del Instituto de Crédito Oficial en el ejercicio de sus funciones como miembros del Consejo General.
+
+3. El nombramiento y cese de los Vocales del Consejo General corresponde al Consejo de Ministros, a propuesta del Ministro de Economía y Competitividad, que los designará entre personas de reconocido prestigio y competencia profesional en el ámbito de actividad del Instituto de Crédito Oficial.
+
+4. Cuatro de los diez Vocales del Consejo serán independientes. A tal efecto, se entenderá independiente aquél que no sea personal al servicio del Sector Público.
+
+5. El mandato de los vocales independientes será de tres años, tras el cual cabrá una sola reelección.
+
+Reglamentariamente se establecerán las causas de cese de dichos Vocales, así como el régimen jurídico al que quedan sometidos los integrantes del Consejo General.
+
+6. Cada uno de los Vocales independientes dispondrá de dos votos exclusivamente para la adopción de acuerdos relativos a operaciones financieras de activo y pasivo propias del negocio del Instituto.
+
+Cuatro. Recursos.
 
 1. El nivel de recursos propios del Instituto de Crédito Oficial será el exigido en cada momento por la normativa reguladora de las Entidades de Crédito, con las excepciones que se establezcan reglamentariamente.
 
@@ -34,7 +52,7 @@ c) La captación de fondos en los mercados nacionales o extranjeros, mediante la
 
 3. Las deudas que el Instituto de Crédito Oficial contraiga para la captación de fondos según se expresa en el párrafo c) del apartado 2 anterior gozarán frente a terceros de la garantía del Estado. Asimismo, las captaciones de fondos realizadas por el Instituto de Crédito Oficial fuera del territorio nacional y para no residentes tendrán el mismo régimen fiscal de la deuda del Estado.
 
-Cuatro. Fondo de provisión.
+Cinco. Fondo de provisión.
 
 1. El Instituto de Crédito Oficial creará, con cargo a los recursos del préstamo del Estado al que se refiere el apartado cuarto del número 1 del Acuerdo de Consejo de Ministros de 11 de diciembre de 1987, un Fondo por importe de 25.000 millones de pesetas destinado a provisionar y cargar, con arreglo a las normas en vigor para las entidades de crédito, los importes correspondientes a créditos morosos y fallidos que surjan en el ejercicio de las funciones enumeradas en el párrafo a) del apartado 2 del número dos de esta disposición.
 
@@ -42,11 +60,11 @@ Cuatro. Fondo de provisión.
 
 3. Sin perjuicio de la aplicación de las normas a las que se refiere el apartado 1 anterior, el Consejo de Ministros o la Comisión Delegada del Gobierno para Asuntos Económicos podrán autorizar al Instituto de Crédito Oficial el cargo al fondo de provisión de los quebrantos surgidos en el ejercicio de las funciones expresadas en el número 2 del apartado dos de esta disposición adicional, siempre que los mismos no hayan sido objeto de específica consignación en los Presupuestos Generales del Estado.
 
-Cinco. Régimen de Personal.
+Seis. Régimen de Personal.
 
 El personal al servicio del Instituto de Crédito Oficial se regirá por lo establecido en el Estatuto de los Trabajadores y demás disposiciones reguladoras de la relación laboral.
 
-Seis. Operaciones financieras.
+Siete. Operaciones financieras.
 
 Se autoriza al Instituto de Crédito Oficial para destinar parte de su patrimonio a cancelar la deuda vencida contraída por el Estado con el ICO como consecuencia de determinados créditos y avales concedidos por las antiguas Entidades Oficiales de Crédito y por el propio Instituto, con garantía del Estado cuantificada por la Intervención General de la Administración del Estado a 31 de diciembre de 1998, en 267.306 millones de pesetas.
 
@@ -63,6 +81,8 @@ El Instituto de Crédito Oficial destinará los resultados generados por las ant
 Las anteriores operaciones, de cancelación y todas las provisiones vinculadas a las mismas se realizarán sin perjuicio de lo establecido en la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades.
 
 Queda sin efecto la disposición adicional quinta de la Ley 13/1996, de 30 de diciembre.
+
+> Se renumeran los apartados 3 a 6 como 4 a 7 y se añade el 3 por la disposición final 2.1 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dfsegunda.
 
 > Se modifica el apartado 6 por la disposición adicional 11 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965#daundecima.
 
