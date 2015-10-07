@@ -1,0 +1,5 @@
+## Disposición final sexta. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+
+Se modifica el apartado 1 del artículo 20 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, que queda redactado del siguiente modo:
+
+«1. Las víctimas de violencia de género tienen derecho a recibir asesoramiento jurídico gratuito en el momento inmediatamente previo a la interposición de la denuncia, y a la defensa y representación gratuitas por abogado y procurador en todos los procesos y procedimientos administrativos que tengan causa directa o indirecta en la violencia padecida. En estos supuestos, una misma dirección letrada deberá asumir la defensa de la víctima, siempre que con ello se garantice debidamente su derecho de defensa. Este derecho asistirá también a los causahabientes en caso de fallecimiento de la víctima, siempre que no fueran partícipes en los hechos. En todo caso, se garantizará la defensa jurídica, gratuita y especializada de forma inmediata a todas las víctimas de violencia de género que lo soliciten.»

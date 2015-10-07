@@ -12,7 +12,7 @@ d) El administrador.
 
 En los estatutos, o por acuerdo mayoritario de la Junta de propietarios, podrán establecerse otros órganos de gobierno de la comunidad, sin que ello pueda suponer menoscabo alguno de las funciones y responsabilidades frente a terceros que esta Ley atribuye a los anteriores.
 
-2. El presidente será nombrado, entre los propietarios, mediante elección o, subsidiariamente, mediante turno rotatorio o sorteo. El nombramiento será obligatorio, si bien el propietario designado podrá solicitar su relevo al juez dentro del mes siguiente a su acceso al cargo, invocando las razones que le asistan para ello. El juez, a través del procedimiento establecido en el artículo 17.3.ª, resolverá de plano lo procedente, designando en la misma resolución al propietario que hubiera de sustituir, en su caso, al presidente en el cargo hasta que se proceda a nueva designación en el plazo que se determine en la resolución judicial.
+2. El presidente será nombrado, entre los propietarios, mediante elección o, subsidiariamente, mediante turno rotatorio o sorteo. El nombramiento será obligatorio, si bien el propietario designado podrá solicitar su relevo al juez dentro del mes siguiente a su acceso al cargo, invocando las razones que le asistan para ello. El juez, a través del procedimiento establecido en el artículo 17.7.ª, resolverá de plano lo procedente, designando en la misma resolución al propietario que hubiera de sustituir, en su caso, al presidente en el cargo hasta que se proceda a nueva designación en el plazo que se determine en la resolución judicial.
 
 Igualmente podrá acudirse al juez cuando, por cualquier causa, fuese imposible para la Junta designar presidente de la comunidad.
 
@@ -33,5 +33,7 @@ El cargo de administrador y, en su caso, el de secretario-administrador podrá s
 Los designados podrán ser removidos de su cargo antes de la expiración del mandato por acuerdo de la Junta de propietarios, convocada en sesión extraordinaria.
 
 8. Cuando el número de propietarios de viviendas o locales en un edificio no exceda de cuatro podrán acogerse al régimen de administración del artículo 398 del Código Civil, si expresamente lo establecen los estatutos.
+
+> Se modifica el apartado 2 por la disposición final 2 de la Ley 42/2015, de 5 de octubre. Ref. BOE-A-2015-10727#dfsegunda.
 
 > Se modifica por el art. 9 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858
