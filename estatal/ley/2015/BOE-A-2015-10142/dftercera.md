@@ -1,0 +1,3 @@
+## Disposición final tercera. Incorporación del Derecho de la Unión Europea.
+
+Esta ley incorpora al ordenamiento jurídico español la Directiva 92/43/CEE, de 21 de mayo, relativa a la conservación de los hábitats naturales y de la fauna y flora silvestres, la Directiva 2009/147/CE del Parlamento Europeo y del Consejo, de 30 de noviembre de 2009, relativa a la conservación de las aves silvestres, y el Reglamento 511/2014 del Parlamento Europeo y del Consejo, de 16 de abril de 2014, relativo a las medidas de cumplimiento de los usuarios del Protocolo de Nagoya sobre al acceso a los recursos genéticos y participación justa y equitativa en los beneficios que se deriven de su utilización en la Unión.
