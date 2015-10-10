@@ -1,7 +1,7 @@
 ## Disposición transitoria tercera. Adaptación de los contratos vigentes de los trabajadores autónomos económicamente dependientes en el sector del transporte y el sector de los agentes de seguros.
 
-Los contratos suscritos con anterioridad a la entrada en vigor de la presente Ley entre el trabajador autónomo económicamente dependiente y el cliente a los que se refiere la disposición adicional undécima y los contratos celebrados por los agentes de seguros que les resulte de aplicación el capítulo tercero de la presente Ley, deberán adaptarse a las previsiones contenidas en la misma dentro del plazo de dieciocho meses desde la entrada en vigor de las disposiciones reglamentarias que se dicten en su desarrollo, salvo que en dicho periodo alguna de las partes opte por rescindir el contrato.
+(Derogada)
 
-El trabajador autónomo en el que concurra la circunstancia de ser económicamente dependiente en el supuesto al que se refiere la disposición adicional undécima y en el supuesto del agente de seguros, deberá comunicarlo al cliente respecto al que adquiera esta condición, en el plazo comprendido desde la entrada en vigor de la presente ley hasta un año después de la entrada en vigor de las citadas disposiciones reglamentarias.
+> Se deroga por la disposición derogatoria única.1 de la Ley 31/2015, de 9 de septiembre. Ref. BOE-A-2015-9735#ddunica.
 
 > Se modifica el párrafo segundo por la disposición final 4 de la Ley 15/2009, de 11 de noviembre. Ref. BOE-A-2009-18004

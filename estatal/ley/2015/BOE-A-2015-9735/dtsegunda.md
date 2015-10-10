@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Aplicatoriedad de las modificaciones previstas por los apartados uno, dos y tres del artículo segundo de la presente ley.
+
+Los periodos de tiempo previstos para la suspensión de la prestación por desempleo en el artículo 212.1.d) y 4.b) y para la extinción de dicha prestación en el artículo 213.1.d) del texto refundido de la Ley General de la Seguridad Social, serán también de aplicación a aquellos beneficiarios que a la fecha de entrada en vigor de esta norma tuviesen suspendida su prestación o subsidio por desempleo por la realización de un trabajo por cuenta propia.

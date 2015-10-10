@@ -1,3 +1,5 @@
 ## Disposición adicional decimosexta. Campaña de difusión del Régimen Especial de los Trabajadores Autónomos.
 
-En el plazo de un año, el Gobierno realizará, en colaboración con las entidades más representativas de trabajadores autónomos, una campaña de difusión e información sobre la normativa y las características del Régimen Especial del Trabajador Autónomo.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 31/2015, de 9 de septiembre. Ref. BOE-A-2015-9735#ddunica.

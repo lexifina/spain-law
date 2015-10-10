@@ -1,3 +1,5 @@
 ## Disposición adicional novena. Pago único de la prestación por desempleo.
 
-El Gobierno en el plazo de un año elaborará un estudio sobre la evolución de la medida de pago único de la prestación por desempleo para el inicio de actividades por cuenta propia, si el resultado es favorable en cuanto a creación de empleo autónomo, ampliará los porcentajes actuales de la capitalización de la prestación de desempleo destinados a financiar la inversión.
+Con carácter bienal, el Gobierno evaluará el impacto de las medidas previstas en los artículos 33 y 34 de esta ley, con el objeto de analizar su impacto en el autoempleo y su posible actualización.
+
+> Se modifica por el art. 1.10 de la Ley 31/2015, de 9 de septiembre. Ref. BOE-A-2015-9735#aprimero.

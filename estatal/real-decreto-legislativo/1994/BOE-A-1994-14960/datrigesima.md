@@ -12,9 +12,7 @@ El Ministerio de Trabajo y Asuntos Sociales determinará las bases de cotizació
 
 2. Los empresarios, excluida la Administración Pública y las entidades, organismos y empresas del sector público, dedicados a actividades encuadradas en los Sectores de Agricultura, Pesca y Acuicultura; Industria, excepto Energía y Agua; Comercio; Turismo; Hostelería y resto de servicios, excepto el Transporte Aéreo, Construcción de Edificios, Actividades Financieras y de Seguros y Actividades Inmobiliarias, en las Ciudades de Ceuta y Melilla, respecto de los trabajadores que presten servicios en sus centros de trabajo ubicados en el territorio de dichas ciudades, tendrán derecho a una bonificación del 50 por ciento en sus aportaciones a las cuotas de la Seguridad Social por contingencias comunes, así como por los conceptos de recaudación conjunta de desempleo, formación profesional y fondo de garantía salarial.
 
-Asimismo, los trabajadores encuadrados en el Régimen Especial de Trabajadores por Cuenta Propia o Autónomos dedicados a actividades encuadradas en los sectores descritos en el párrafo anterior, que residan y ejerzan su actividad en las Ciudades de Ceuta y Melilla, tendrán derecho a una bonificación del 50 por ciento en sus aportaciones a las cuotas de la Seguridad Social por contingencias comunes.
-
-La implementación y efectiva aplicación de las bonificaciones previstas en los párrafos anteriores será de manera progresiva durante las tres primeras anualidades de vigencia de la norma. Siendo el primer año del 43 por ciento, el segundo del 46 por ciento y el tercero y sucesivos del 50 por ciento.
+> Se modifica el apartado 2 por el art. 2.4 de la Ley 31/2015, de 9 de septiembre. Ref. BOE-A-2015-9735#asegundo.
 
 > Se modifica el apartado 2, con efectos desde el 1 de enero de 2012 por la disposición adicional 1 de la Ley 31/2011, de 4 de octubre. Ref. BOE-A-2011-15621.
 
