@@ -18,10 +18,14 @@ De igual manera, las entidades de crédito exigirán la comunicación del númer
 
 Reglamentariamente se establecerá la forma en que las entidades de crédito deberán dejar constancia y comunicar a la Administración tributaria los datos a que se refieren los párrafos anteriores.
 
-4. La publicación de la revocación del número de identificación fiscal asignado a las personas jurídicas o entidades en el Boletín Oficial del Estado determinará que el registro público correspondiente, en función del tipo de entidad de que se trate, proceda a extender en la hoja abierta a la entidad a la que afecte la revocación una nota marginal en la que se hará constar que, en lo sucesivo, no podrá realizarse inscripción alguna que afecte a esta, salvo que se rehabilite dicho número o se asigne un nuevo número de identificación fiscal.
+4. La publicación de la revocación del número de identificación fiscal asignado en el “Boletín Oficial del Estado”, determinará la pérdida de validez a efectos identificativos de dicho número en el ámbito fiscal.
 
-Asimismo, determinará que las entidades de crédito no realicen cargos o abonos en las cuentas o depósitos de que dispongan las personas jurídicas o entidades sin personalidad a quienes se revoque el número de identificación fiscal, en tanto no se produzca la rehabilitación de dicho número o la asignación a la persona jurídica o entidad afectada de un nuevo número de identificación fiscal.
+Asimismo, la publicación anterior determinará que las entidades de crédito no realicen cargos o abonos en las cuentas o depósitos bancarios en que consten como titulares o autorizados los titulares de dichos números revocados, salvo que se rehabilite dicho número o se asigne un nuevo número de identificación fiscal.
 
-Lo dispuesto en este apartado se entenderá sin perjuicio del cumplimiento por la entidad de las obligaciones tributarias pendientes, para lo que se utilizará transitoriamente el número de identificación fiscal revocado.
+Cuando la revocación se refiera a una entidad, la publicación anterior también determinará que el registro público en que esté inscrita, en función del tipo de entidad de que se trate, proceda a extender en la hoja abierta a la entidad a la que afecte la revocación una nota marginal en la que se hará constar que, en lo sucesivo, no podrá realizarse inscripción alguna que afecte a esta, salvo que se rehabilite dicho número o se asigne un nuevo número de identificación fiscal.
+
+Lo dispuesto en este apartado no impedirá a la Administración Tributaria exigir el cumplimiento de las obligaciones tributarias pendientes. No obstante, la admisión de las autoliquidaciones, declaraciones, comunicaciones o escritos en los que conste un número de identificación fiscal revocado quedará condicionada, en los términos reglamentariamente establecidos, a la rehabilitación del citado número de identificación fiscal o, en su caso, a la obtención de un nuevo número.
+
+> Se modifica el apartado 4 por el art. único.61 de la Ley 34/2015, de 21 de septiembre. Ref. BOE-A-2015-10143#aunico.
 
 > Se añade un apartado 4 por el art. 5.17 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843

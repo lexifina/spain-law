@@ -701,6 +701,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 612](a612.md)
 - [Artículo 613](a613.md)
 - [Artículo 614](a614.md)
+- [Artículo 614 bis](a614bis.md)
 - [TÍTULO X](tx-2.md)
 - [Artículo 615](a615.md)
 - [Artículo 616](a616.md)
