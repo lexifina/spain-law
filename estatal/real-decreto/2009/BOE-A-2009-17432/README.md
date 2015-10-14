@@ -38,6 +38,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 20](a20.md)
 - [CAPÍTULO VI](cvi.md)
 - [Artículo 21](a21.md)
+- [Disposición adicional única](daunica.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
