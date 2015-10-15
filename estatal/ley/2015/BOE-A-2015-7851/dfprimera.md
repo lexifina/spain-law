@@ -1,0 +1,5 @@
+## Disposición final primera. Modificación del Código de Comercio para la transposición de la Directiva 2012/17/UE del Parlamento Europeo y del Consejo, de 13 de junio de 2012, por la que se modifican la Directiva 89/666/CEE del Consejo y las Directivas 2005/56/CE y 2009/101/CE del Parlamento Europeo y del Consejo, en lo que respecta a la interconexión de los registros centrales, mercantiles y de sociedades.
+
+Se añade un nuevo apartado 5 al artículo 17 del Código de Comercio, con la siguiente redacción:
+
+«5. El Registro Mercantil asegurará la interconexión con la plataforma central europea en la forma que se determine por las normas de la Unión Europea y las normas reglamentarias que las desarrollen. El intercambio de información a través del sistema de interconexión facilitará a los interesados la obtención de información sobre las indicaciones referentes al nombre y forma jurídica de la sociedad, su domicilio social, el Estado miembro en el que estuviera registrada y su número de registro.»
