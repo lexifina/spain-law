@@ -24,11 +24,17 @@ Para los que, a la entrada en vigor de esta ley, se encuentren en situación de 
 
 4. Los oficiales en retiro a la entrada en vigor de esta ley procedentes de estas escalas podrán solicitar en el plazo de seis meses a partir de la publicación de la reordenación definitiva, el empleo y antigüedad asignados al que les siguiera en el curso de aptitud para el acceso a dichas escalas que figure en esa reordenación por encontrarse en servicio activo o reserva y siempre con el límite de que no suponga un empleo y antigüedad posteriores a la fecha en que el afectado cumplió 61 años de edad.
 
+Los suboficiales procedentes de los Cuerpos de Suboficiales en retiro por incapacidad permanente podrán solicitar el empleo y antigüedad asignados al que le siguiera en el curso de aptitud para el acceso a dichas escalas o en el escalafón y que figure en esa reordenación por encontrarse en servicio activo o reserva y siempre con el límite de que las fechas de antigüedad en los empleos resultantes de la reordenación sean anteriores a la fecha en que cada uno pasó a la situación de retiro y de que no suponga un empleo y antigüedad posteriores a la fecha en que el afectado cumplió 61 años de edad.
+
 5. La aplicación de estas medidas al personal procedente de reserva transitoria quedará supeditada a que las fechas de antigüedad en los empleos resultantes de la reordenación sean anteriores a la fecha en que cada uno se integró en la reserva transitoria. A partir de ese cambio de situación sólo se le reconocerá un ascenso en aplicación del Real Decreto 1000/1985, de 19 de junio, por el que se establece la situación de reserva transitoria en el Ejército de Tierra.
 
 6. Los que, con anterioridad a la entrada en vigor de esta ley, tuvieran limitación legal para alcanzar determinados empleos o hubiesen perdido puestos en el escalafón por aplicación de la legislación vigente mantendrán estas limitaciones.
 
 7. Cualquiera de las nuevas situaciones generadas en aplicación de esta disposición no tendrá para ninguno de los interesados efectos económicos anteriores a la fecha de entrada en vigor de esta ley y, en el caso de los de servicio activo, ninguno anterior a la fecha de su pase a reserva.
+
+> Se añade el segundo párrafo al apartado 4 por el art. único.11 de la Ley 46/2015, de 14 de octubre. Ref. BOE-A-2015-11073.
+
+> El personal afectado por esta modificación tendrá un plazo de 6 meses para solicitar la asignación de los empleos correspondientes, según establece la disposición adicional 1 de la citada ley.
 
 > Se modifica el párrafo primero del apartado 1 por el artículo 17 de la Ley 26/2011, de 1 de agosto. Ref. BOE-A-2011-13241.
 

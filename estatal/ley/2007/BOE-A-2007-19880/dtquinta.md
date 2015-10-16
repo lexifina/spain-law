@@ -26,8 +26,12 @@ Se podrán alcanzar los empleos de capitán y comandante a los que se ascenderá
 
 Les serán de aplicación las situaciones administrativas reguladas para los militares de carrera y, en consecuencia, pasarán a reserva en condiciones análogas a las establecidas para los componentes de las escalas a extinguir de oficiales a las que se hace referencia en la disposición transitoria anterior.
 
+El Gobierno, analizadas las necesidades específicas de las Fuerzas Armadas, dotará las plazas necesarias para facilitar la permanencia de los militares de complemento.
+
 8. El Ministro de Defensa, teniendo en cuenta lo previsto en esta disposición, determinará las plantillas por empleos de los militares de complemento adscritos a los diversos cuerpos y escalas, diferenciando las de militares de carrera.
 
 9. Los reservistas de especial disponibilidad, tanto los procedentes de militar de complemento como de tropa y marinería, mantendrán, si lo solicitan, una especial relación con las Fuerzas Armadas, mediante su adscripción a la unidad militar que elijan, previa conformidad del Mando o Jefatura de Personal del Ejército correspondiente. Podrán asistir a actos y ceremonias militares en los que dicha unidad participe, usar el uniforme en actos militares y sociales solemnes y disponer de la correspondiente tarjeta de identificación. Se les facilitará el acceso a información sobre prestaciones a las que tienen derecho y otros asuntos que puedan ser de su interés.
+
+> Se añade el cuarto párrafo al apartado 7 por el art. único.13 de la Ley 46/2015, de 14 de octubre. Ref. BOE-A-2015-11073.
 
 > Se modifica el segundo párrafo del apartado 5, con efectos de 1 de enero de 2010 por la disposición adicional 62.2 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765.
