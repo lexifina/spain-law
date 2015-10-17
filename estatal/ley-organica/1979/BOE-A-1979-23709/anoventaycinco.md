@@ -10,10 +10,8 @@ Dos. El Tribunal podrá imponer las costas que se derivaren de la tramitación d
 
 Tres. El Tribunal podrá imponer a quien formulase recursos de inconstitucionalidad o de amparo, con temeridad o abuso de derecho, una sanción pecuniaria de 600 a 3.000 euros.
 
-Cuatro. Podrá imponer multas coercitivas de 600 a 3.000 euros a cualquier persona, investida o no de poder público, que incumpla los requerimientos del Tribunal dentro de los plazos señalados y reiterar estas multas hasta el total cumplimiento de los interesados, sin perjuicio de cualquier otra responsabilidad a que hubiera lugar.
+Cuatro. Los límites de la cuantía de estas sanciones o de las multas previstas en la letra a) del apartado 4 del artículo 92 podrán ser revisados, en todo momento, mediante ley ordinaria.
 
-> Los apartados 3 y 4 de este artículo figuran redactados conforme a la Ley Orgánica 6/2007, de 24 de mayo (Ref. BOE-A-2007-10483).
-
-Cinco. Los límites de la cuantía de estas sanciones o multas podrán ser revisados, en todo momento, mediante Ley ordinaria.
+> Se modifica el apartado 4 y se suprime el 5 por el art. único.4 de la ley Orgánica 15/2015, de 16 de octubre. Ref. BOE-A-2015-11160.
 
 > Se modifican los apartados 3 y 4 por el art. único.29 de la Ley Orgánica 6/2007, de 24 de mayo. Ref. BOE-A-2007-10483.
