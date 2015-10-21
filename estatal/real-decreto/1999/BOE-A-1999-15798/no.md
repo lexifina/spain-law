@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 264, de 4 de noviembre de 1999. Ref. BOE-A-1999-21407
+Norma derogada por la disposición derogatoria única del Real Decreto 840/2015, de 21 de septiembre. Ref. BOE-A-2015-11268#ddunica.
