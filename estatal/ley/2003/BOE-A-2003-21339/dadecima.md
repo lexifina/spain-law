@@ -1,9 +1,7 @@
-## Disposición adicional décima. Gestión de montes pro indiviso.
+## Disposición adicional décima. Introducción en el mercado de madera y productos derivados de la madera.
 
-1. Para la gestión de los montes cuya titularidad corresponda pro indiviso a más de diez propietarios conocidos, podrá constituirse una junta gestora que administrará los intereses de todos los copropietarios.
+1. Las Administraciones Públicas cooperarán en el ámbito de sus competencias para asegurar la legalidad de la madera y productos derivados introducidos en el mercado en España, y dar así cumplimiento a la normativa comunitaria en esta materia, derivada del Plan sobre Aplicación de las Leyes Forestales, Gobernanza y Comercio de la Unión Europea.
 
-2. Para la constitución de la junta gestora a la que se refiere el apartado anterior, el órgano forestal de la comunidad autónoma convocará a todos los copropietarios garantizando la máxima difusión y publicidad de la citada convocatoria, siendo suficiente el acuerdo de la totalidad de los asistentes a la misma para que dicha constitución se considere válida.
+2. En el ámbito del Reglamento (UE) n.º 995/2010 del Parlamento Europeo y del Consejo, de 20 de octubre de 2010, por el que se establecen obligaciones de los agentes que comercializan madera y productos de la madera, los agentes que opten por un sistema individual para ejercer la diligencia debida deberán presentar una declaración responsable ante el órgano autonómico competente. El contenido mínimo de esta declaración responsable se establecerá reglamentariamente. La omisión de la presentación de esta declaración supondrá una infracción leve a los efectos del título VII.
 
-3. La junta gestora que se constituya podrá autorizar los actos de administración ordinaria y extraordinaria, gestión y disfrute del monte y de todos sus productos, y la enajenación de toda clase de aprovechamientos forestales, energéticos y mineros, así como cualquier otro acto para el que estén habilitados los propietarios de acuerdo con esta ley. Asimismo, podrá realizar contratos con la Administración, salvaguardando siempre los derechos de todos los copropietarios.
-
-4. Los beneficios que se generen correspondientes a las partes de la propiedad no esclarecidas deberán invertirse en la mejora del monte. En caso de no poder identificarse la propiedad no esclarecida, deberá invertirse en dicha mejora al menos el 15 por ciento del beneficio total obtenido por los copropietarios.
+> Se modifica por el art. único.87 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.

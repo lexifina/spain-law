@@ -1,17 +1,11 @@
-## Artículo 24 bis. Declaración de otras figuras de especial protección de montes.
+## Artículo 24 bis. Gestión de montes protectores.
 
-1. Las comunidades autónomas podrán establecer otras figuras de especial protección de los montes de titularidad pública o privada que presenten, entre otras, algunas de las siguientes características:
+1. La gestión de los montes protectores corresponde a sus propietarios, sin perjuicio de lo dispuesto en la legislación específica. El gestor deberá presentar a la Administración forestal de la comunidad autónoma el correspondiente proyecto de ordenación de montes o plan dasocrático, en caso de no disponer de un instrumento de planificación de ordenación de recursos naturales o forestal vigente en la zona.
 
-a) Que contribuyan a la conservación de la diversidad biológica, a través del mantenimiento de los sistemas ecológicos, la protección de la flora y la fauna o la preservación de la diversidad genética.
+2. Las limitaciones que se establezcan en la gestión de los montes protectores por razón de las funciones ecológicas, de protección o sociales que cumplen podrán ser compensadas económicamente en los términos previstos en el capítulo III del título VI.
 
-b) Que constituyan o formen parte de espacios naturales protegidos, áreas de la Red Natura 2000, reservas de la biosfera u otras figuras legales de protección, o se encuentren en sus zonas de influencia, así como los que constituyan elementos relevantes del paisaje.
+> Se modifica y se renumera por el art. único.33 y 34 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
 
-c) Que estén incluidos dentro de las zonas de alto riesgo de incendio conforme a lo establecido en el artículo 48.
-
-d) Por la especial significación de sus valores forestales.
-
-e) Aquellos otros que se determinen por la legislación autonómica.
-
-2. La declaración de otras figuras de especial protección de montes se hará por la Administración forestal de la comunidad autónoma correspondiente, previo expediente en el que, en todo caso, deberán ser oídos los propietarios y la entidad local donde radiquen. Igual procedimiento se seguirá para la desclasificación una vez que las circunstancias que determinaron su inclusión hubieran desaparecido.
+> Su anterior numeración era art. 24 quáter.
 
 > Se añade por el art. único.14 de la Ley 10/2006, de 28 de abril. Ref. BOE-A-2006-7678.

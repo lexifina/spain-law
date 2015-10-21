@@ -1,10 +1,12 @@
 ## Disposición adicional tercera. Trasvase Tajo-Segura.
 
-En cuanto a las transferencias de agua aprobadas desde la cabecera del Tajo, se considerarán aguas excedentarias todas aquellas existencias embalsadas en el conjunto de Entrepeñas-Buendía que superen los 400 hm3. Por debajo de esta cifra no se podrán efectuar trasvases en ningún caso.
+En cuanto a las transferencias de agua aprobadas desde la cabecera del Tajo, se considerarán aguas excedentarias todas aquellas existencias embalsadas en el conjunto de Entrepeñas-Buendía que superen los 400 hectómetros cúbicos. Por debajo de esta cifra no se podrán efectuar trasvases en ningún caso.
 
 Este volumen mínimo podrá revisarse en el futuro conforme a las variaciones efectivas que experimenten las demandas de la cuenca del Tajo, de acuerdo con los principios de eficiencia y sostenibilidad, de forma que se garantice en todo caso su carácter preferente, y se asegure que las transferencias desde cabecera nunca puedan suponer un límite o impedimento para el desarrollo natural de dicha cuenca.
 
-> Se declara la inconstitucionalidad y nulidad, diferida por el plazo de un año, en la redacción dada por la Ley 21/2013, de 9 de diciembre, según establece el Fundamento Jurídico 5, por Sentencia TC 13/2015, de 5 de febrero. Ref. BOE-A-2015-2259.
+> Se modifica, para dar cumplimiento a la Sentencia TC 13/2015, de 5 de febrero, por la disposición final 2.1 de la Ley 21/2015, de 20 de julio Ref. BOE-A-2015-8146#dfsegunda.
+
+> Téngase en cuenta para su aplicación la disposición transitoria única de la citada ley.
 
 > Se declara la inconstitucionalidad y nulidad, diferida por el plazo de un año, en la redacción dada por la Ley 21/2013, de 9 de diciembre, según establece el Fundamento Jurídico 5, por Sentencia TC 13/2015, de 5 de febrero. Ref. BOE-A-2015-2259.
 

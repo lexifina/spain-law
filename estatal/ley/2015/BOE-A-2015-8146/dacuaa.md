@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Caza y pesca.
+
+1. El Ministerio de Agricultura, Alimentación y Medio Ambiente, con la participación de las comunidades autónomas, elaborará una Estrategia Nacional de Gestión Cinegética que constituya el marco orientativo y de coordinación para la ordenación a escala nacional del aprovechamiento cinegético. Será aprobada por la Conferencia Sectorial de Agricultura y Desarrollo Rural y las comunidades autónomas podrán referirse a ella en su legislación específica.
+
+2. A efectos informativos se crea el Registro Español de Infractores de Caza y Pesca. Las comunidades autónomas remitirán al Ministerio de Agricultura, Alimentación y Medio Ambiente la información relativa a los asientos que se produzcan en sus correspondientes registros de infractores de caza y pesca, incluidos los relativos a la suspensión y extinción de validez de las licencias, en particular los derivados de infracciones penales y de un procedimiento sancionador, de acuerdo con lo establecido en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.

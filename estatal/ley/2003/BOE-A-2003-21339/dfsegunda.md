@@ -6,12 +6,14 @@
 
 3. Los siguientes preceptos y disposiciones se dictan al amparo de títulos competenciales exclusivos del Estado:
 
-a) Los artículos 18, apartados 1, 2 y 3, 19, 22, 25 y la disposición adicional décima, que se dictan al amparo del artículo 149.1.8.ª de la Constitución, sin perjuicio de la conservación, modificación y desarrollo por las comunidades autónomas de los derechos civiles, forales o especiales, allí donde existan.
+a) Los artículos 18, apartados 1 y 2, 19, 22, 25 y 27 bis, que se dictan al amparo del artículo 149.1.8.ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de legislación civil, sin perjuicio de la conservación, modificación y desarrollo por las comunidades autónomas de los derechos civiles, forales o especiales, allí donde existan.
 
-b) El capítulo I del título V, por dictarse al amparo del artículo 149.1.15.ª de la Constitución.
+b) Los artículos 18.3 y 18 bis se dictan al amparo del artículo 149.1.8.ª de la Constitución que atribuye al Estado competencia exclusiva en materia de ordenación de los registros.
 
-c) La disposición adicional novena, por dictarse al amparo del artículo 149.1.14.ª de la Constitución.
+c) El capítulo I del título V, salvo el artículo 56.1, se dicta al amparo del artículo 149.1.15.ª de la Constitución que atribuye al Estado competencia exclusiva en materia de fomento y coordinación general de la investigación científica y técnica.
 
-> Téngase en cuenta que se declara la inconstitucionalidad de esta disposición, con el alcance del fundamento jurídico 7, según establece la Sentencia del TC 49/2013, de 28 de febrero. Ref. BOE-A-2013-3325.
+d) La disposición adicional novena se dicta al amparo del artículo 149.1.14.ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de Hacienda general y Deuda del Estado.
+
+> Se modifica el apartado 3 por el art. único.95 de la Ley 21/2015, de 20 de julio. Ref. BOE-A-2015-8146#aunico.
 
 > Se declara la inconstitucionalidad, con el alcance del fundamento jurídico 7, por Sentencia TC 49/2013, de 28 de febrero. Ref. BOE-A-2013-3325.
