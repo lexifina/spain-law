@@ -1,0 +1,11 @@
+La Orden EHA/1030/2009, de 23 de abril, estableció el límite exento de la obligación de aportar garantías en las solicitudes de aplazamiento o fraccionamiento en 18.000 euros.
+
+La presente orden tiene como objeto mantener la finalidad última de la exención prevista, que no es sólo la agilización del procedimiento de gestión de estas solicitudes, impulsando su gestión automatizada, sino también otorgar facilidades al obligado al pago para el cumplimiento de sus obligaciones de derecho público ante dificultades económico financieras de carácter transitorio. A este respecto se considera necesario elevar el límite de la citada exención de la obligación de aportar garantías.
+
+Por otra parte, hay que tener en cuenta que el tiempo transcurrido denota cierta obsolescencia del límite actualmente vigente, por lo que se requiere su actualización.
+
+El ámbito de aplicación de la presente orden se refiere a las solicitudes de aplazamiento y fraccionamiento de pago de las deudas gestionadas por la Agencia Estatal de Administración Tributaria y por los órganos u organismos de la Hacienda Pública Estatal por tanto, el límite exento de la obligación de prestar garantía en solicitudes de aplazamiento o fraccionamiento cuya gestión corresponda a otras Administraciones Tributarias continuará regulándose de acuerdo a lo previsto en la disposición adicional segunda del Real Decreto 1065/2007, de 27 de julio, por el que se aprueba el Reglamento General de las Actuaciones y los Procedimientos de Gestión e Inspección Tributaria y de Desarrollo de las Normas Comunes de los Procedimientos de Aplicación de los Tributos.
+
+Conforme a las razones expuestas se dicta esta orden, haciendo uso de las competencias conferidas en virtud de lo establecido en los artículos 82.2.a) de la Ley 58/2003, de 17 de diciembre, General Tributaria, 13.1 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria y la disposición adicional segunda del Real Decreto 1065/2007, de 27 de julio, por el que se aprueba el Reglamento General de las Actuaciones y los Procedimientos de Gestión e Inspección Tributaria y de Desarrollo de las Normas Comunes de los Procedimientos de Aplicación de los Tributos.
+
+En su virtud, dispongo:
