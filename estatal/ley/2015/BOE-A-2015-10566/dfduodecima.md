@@ -1,0 +1,5 @@
+## Disposición final duodécima. Restitución o compensación a los partidos políticos de bienes y derechos incautados en aplicación de la normativa sobre responsabilidades políticas.
+
+El reconocimiento de los derechos previstos en la Ley 50/2007, de 26 de diciembre, de modificación de la Ley 43/1998, de 15 de diciembre, de restitución o compensación a los partidos políticos de bienes y derechos incautados en aplicación de la normativa sobre responsabilidades políticas del periodo 1936-1939, así como la tramitación y resolución de los procedimientos iniciados al amparo de dicha Ley, seguirán suspendidos hasta que se verifiquen las condiciones que permitan atender las prestaciones que la Ley reconoce sin menoscabo de la financiación de otras actuaciones públicas prioritarias.
+
+Una vez se constate la concurrencia de las expresadas condiciones, el Gobierno aprobará el Reglamento de desarrollo de la Ley, el cual fijará un nuevo plazo para la presentación de las solicitudes de restitución o compensación.
