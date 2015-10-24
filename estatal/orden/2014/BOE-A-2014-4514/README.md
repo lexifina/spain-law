@@ -31,6 +31,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 18](a1-10.md)
 - [Artículo 19](a1-11.md)
 - [Artículo 20](a2-2.md)
+- [Disposición adicional única](da.md)
 - [Disposición transitoria única](dt.md)
 - [Disposición derogatoria única](dd.md)
 - [Disposición final primera](df.md)
