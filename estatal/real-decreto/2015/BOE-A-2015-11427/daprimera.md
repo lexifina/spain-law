@@ -1,0 +1,5 @@
+## Disposición adicional primera. Relación con el Plan Nacional sobre Drogas.
+
+Quedan excluidos del ámbito objetivo de aplicación de esta norma, los bienes y los frutos o intereses que éstos produzcan, que hayan sido previamente decomisados por sentencia judicial firme y que deban integrarse en el fondo regulado por la Ley 17/2003, de 29 de mayo, por la que se regula el Fondo de Bienes Decomisados por tráfico ilícito de drogas y otros delitos relacionados, los cuales quedarán sometidos al régimen específico establecido en dicha ley y en su normativa de desarrollo.
+
+No obstante, la Oficina de Recuperación y Gestión de Activos podrá firmar un convenio de colaboración con la Delegación del Gobierno para el Plan Nacional sobre Drogas a fin de articular las relaciones entre ambos, que podrá incluir fórmulas de cooperación en las funciones de asesoramiento, gestión y realización de efectos procedentes de actividades delictivas a los que se refiere el apartado anterior; asimismo, podrá hacer referencia al intercambio de información y a la coordinación de acciones, cuando resulte apropiado.
