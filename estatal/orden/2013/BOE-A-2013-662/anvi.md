@@ -2,17 +2,18 @@
 
 ## Unidades de Extranjería y Documentación
 
-| Unidad de Extranjería y Documentación | Órgano al que está adscrito |
+| Unidad de Extranjería | Órgano al que está adscrito |
 | --- | --- |
 | Alcañices. | Comisaría Provincial de Zamora. |
 | Arganda del Rey. | Jefatura Superior de Policía de Madrid. |
 | Camprodón. | Comisaría Provincial de Girona. |
 | Canfranc. | Comisaría Provincial de Huesca. |
 | Caya/Elvas. | Jefatura Superior de Policía de Badajoz. |
-| Castro Urdiales. | Jefatura Superior de Policía de Cantabria. |
+| Castro Urdiales. | Jefatura Superior de Cantabria. |
 | Collado Villalba. | Jefatura Superior de Policía de Madrid. |
 | Chiclana de la Frontera. | Comisaría Provincial de Cádiz. |
 | Dancharinea. | Jefatura Superior de Policía de Navarra. |
+| Fraga. | Comisaría Provincial de Huesca. |
 | Irún. | Comisaría Local de Irún. |
 | Lalín. | Comisaría Provincial de Pontevedra. |
 | La Junquera. | Comisaría Provincial de Girona. |
@@ -31,6 +32,8 @@
 | Valcarlos. | Jefatura Superior de Policía de Navarra. |
 | Valencia de Alcántara. | Comisaría Provincial de Cáceres. |
 | Verín. | Comisaría Provincial de Ourense. |
+
+> Se modifica por el art. único de la Orden INT/2251/2015, de 14 de octubre. Ref. BOE-A-2015-11597.
 
 > Se modifica por el art. único de la Orden INT/504/2015, de 23 de marzo. Ref. BOE-A-2015-3181.
 
