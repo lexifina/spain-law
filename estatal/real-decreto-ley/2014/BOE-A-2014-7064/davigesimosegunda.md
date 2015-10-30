@@ -1,3 +1,5 @@
 ## Disposición adicional vigesimosegunda. Otras modificaciones de la Ley 20/2011, de 21 de julio.
 
-El Gobierno promoverá, en el plazo más breve posible, las modificaciones de la Ley 20/2011, de 21 de julio, necesarias para su adecuación a la llevanza del Registro Civil por los Registradores de la Propiedad y Mercantiles que en cada momento tengan a su cargo las oficinas del Registro Mercantil, incluyendo las reglas de competencia para la inscripción de los hechos y actos que deban acceder al Registro Civil y el régimen del personal al servicio de la Administración de Justicia destinado actualmente en el Registro Civil.
+(Anulada)
+
+> Se declara la inconstitucionalidad y nulidad por Sentencia del TC 199/2015, de 24 de septiembre. Ref. BOE-A-2015-11713.
