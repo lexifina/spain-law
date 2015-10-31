@@ -8,6 +8,10 @@ En los municipios menores de 5.000 habitantes, esta publicación podrá realizar
 
 3. Cuando una alteración de la ordenación urbanística, que no se efectúe en el marco de un ejercicio pleno de la potestad de ordenación, incremente la edificabilidad o la densidad o modifique los usos del suelo, deberá hacerse constar en el expediente la identidad de todos los propietarios o titulares de otros derechos reales sobre las fincas afectadas durante los cinco años anteriores a su iniciación, según conste en el registro o instrumento utilizado a efectos de notificaciones a los interesados de conformidad con la legislación en la materia.
 
+> Se añade por la disposición adicional 9.2 de la Ley del Suelo y Rehabilitación Urbana, texto refundido aprobado por Real Decreto Legislativo 7/2015, de 30 de octubre. Ref. BOE-A-2015-11723#danovena.
+
+> Téngase en cuenta que este artículo ya fue añadido por la Ley 8/2007, de 28 de mayo.
+
 > Se añade por la disposición adicional 9.2 del Real Decreto Legislativo 2/2008, de 20 de junio. Ref. BOE-A-2008-10792
 
 > Téngase en cuenta que este artículo ya había sido añadido por la Ley 8/2007, de 28 de mayo.

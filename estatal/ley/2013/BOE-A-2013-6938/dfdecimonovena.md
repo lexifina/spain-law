@@ -21,3 +21,7 @@
 8.º Las disposiciones finales decimocuarta y decimoquinta, al amparo de lo dispuesto en al artículo 149.1.11.ª de la Constitución, que atribuye al Estado la competencia en materia de bases de la ordenación de crédito, banca y seguros.
 
 3. Lo dispuesto en esta Ley se aplicará sin perjuicio de los regímenes civiles, forales o especiales, allí donde existen.
+
+> Téngase en cuenta que esta disposición se deroga, en la medida en que se refiera a alguno de los preceptos derogados por el Real Decreto Legislativo 7/2015, de 30 de octubre Ref. BOE-A-2015-11723#ddunica., según establece su disposición derogatoria única.b)
+
+> Se deroga, en la medida en que se refiera a alguno de los preceptos derogados por el Real Decreto Legislativo 7/2015, de 30 de octubre Ref. BOE-A-2015-11723#ddunica., según establece su disposición derogatoria única.b)
