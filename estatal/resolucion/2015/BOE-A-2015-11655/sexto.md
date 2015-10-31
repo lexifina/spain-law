@@ -1,0 +1,9 @@
+## Sexto. Requisitos técnicos del suministro de información en otros supuestos de alteración de los inmuebles.
+
+Los registradores de la propiedad remitirán telemáticamente a la Dirección General del Catastro, además de la información prevista en los apartados anteriores, la relativa a las inscripciones practicadas en las que consten los siguientes hechos, actos o negocios: declaraciones de obra nueva en los bienes inmuebles; la constitución o variación del régimen de división horizontal sobre las fincas y cualesquiera otros susceptibles de inscripción en el Catastro Inmobiliario, en el plazo de cinco días desde la inscripción.
+
+Dicha remisión comprenderá los siguientes datos: código de finca registral, la identificación de la inscripción registral y su fecha; datos de identificación y fecha de la escritura pública o del acto de aprobación del expediente en el que se han formalizado las alteraciones y autoridad que lo haya dictado; la clasificación de los actos de que se trate y del tipo de alteración, identificación de los transmitentes, adquirentes o titulares de los derechos inscritos, la referencia catastral del inmueble si ésta fuera aportada, así como los datos de localización y superficie del inmueble.
+
+En el caso de inscripción de edificaciones o instalaciones, habrá de remitirse también las coordenadas de referenciación geográfica de la porción de suelo ocupada por las mismas, conforme al artículo 202 de la Ley Hipotecaria, así como la indicación de si el libro del edificio consta o no archivado en el Registro, y en caso afirmativo, incluyendo el enlace de acceso al correspondiente ejemplar electrónico.
+
+En toda la información remitida por los Registradores se consignará si se ha incumplido la obligación de los otorgantes del título de aportar la referencia catastral establecida en el texto refundido de la Ley del Catastro Inmobiliario.

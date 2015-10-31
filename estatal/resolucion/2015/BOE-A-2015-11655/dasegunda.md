@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Formato informático del libro del edificio.
+
+A fin de facilitar la consulta, tratamiento, archivo y publicidad registral del libro del edificio, conforme al artículo 202 de la Ley Hipotecaria, y su puesta a disposición del Catastro, conforme a lo previsto en la presente resolución, el citado libro del edificio, con el contenido regulado en el artículo 7 de la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación, deberá presentarse al Registro de la Propiedad, en soporte informático, en formato PDF y autenticado por el promotor con su firma electrónica o por otro medio fehaciente.
