@@ -1,6 +1,6 @@
 ## ANEXO II
 
-Se considera que el Servicio de Prevención Ajeno debe contar, en el ámbito territorial de actuación en el que desee prestar sus servicios, con los siguientes recursos:
+Se considera que el Servicio de Prevención Ajeno debe contar con los siguientes recursos:
 
 1.º Recursos instrumentales mínimos para desarrollar las actividades habituales en las distintas disciplinas preventivas:
 
@@ -29,3 +29,5 @@ Asimismo, cada servicio de prevención debe disponer en su sistema de gestión d
 Respecto de los equipos a disposición del servicio de prevención ajeno que no sean de su propiedad, debido a la utilización esporádica de los mismos, y que resulte necesario alquilar, el servicio de prevención ajeno deberá garantizar y poder demostrar que dichos equipos cumplen los mismos requisitos de calibración y control que los equipos propios, debiendo quedar igualmente referenciados en los informes.
 
 3.º Las instalaciones necesarias para realizar los análisis y evaluaciones habituales en la práctica de las especialidades, así como las instalaciones con los medios precisos para la impartición de actividades formativas y divulgativas básicas (art. 18.2.c) del RSP).
+
+> Se modifica el primer párrafo por el art. único.8 de la Orden ESS/2259/2015, de 22 de octubre. Ref. BOE-A-2015-11654.
