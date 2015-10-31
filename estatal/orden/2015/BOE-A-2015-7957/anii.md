@@ -8,7 +8,7 @@ a) En la Comunidad Autónoma de Andalucía:
 
 2. En la provincia de Granada: la comarca de Motril.
 
-3. En la provincia de Jaén: las comarcas veterinarias de Alcalá la Real, Andújar, Huelma, Jaén, Linares, Santiesteban del Puerto y Úbeda.
+3. La provincia de Jaén.
 
 b) En la Comunidad Autónoma de Castilla-La Mancha:
 
@@ -21,6 +21,8 @@ b) En la Comunidad Autónoma de Castilla-La Mancha:
 3. En la comarca veterinaria de Talavera de la Reina: Los municipios de Almendral de la Cañada, Buenaventura, Calera y Chozas, Castillo de Bayuela, Cazalegas, Cervera de los Montes, El Real de San Vicente, Hinojosa de San Vicente, Marrupe, Mejorada, Montesclaros, Navamorcuende, Pepino, La Iglesuela, La Pueblanueva, Las Herencias, San Román de los Montes, Sartajada, Segurilla, Sotillo de las Palomas, Talavera de la Reina y Velada.
 
 2.º En la provincia de Ciudad Real: Las comarcas veterinarias de Almadén, Almodóvar del Campo y Piedrabuena (antiguas comarcas de Piedrabuena y Horcajo de los Montes).
+
+3.º En la provincia de Albacete: Las comarcas veterinarias de Alcaraz y Yeste.
 
 c) En la Comunidad Autónoma de Castilla y León:
 
@@ -39,3 +41,5 @@ d) En la Comunidad Autónoma de Extremadura:
 2. En la comarca veterinaria de Cáceres: los municipios de Garrovillas, Hinojal, Monroy, Santiago de Campo y Talaván.
 
 3. En la comarca veterinaria de Navalmoral: los municipios de Aldeanueva de la Vera, Almaraz, Belvís de Monroy, Berrocalejo, Bohonal de Ibor, Carrascalejo, Casatejada, Collado, Cuacos de Yuste, El Gordo, Garganta la Olla, Guijo de Santa Bárbara, Jaraiz de la Vera, Jarandilla de la Vera, Losar de la Vera, Madrigal de la Vera, Majadas, Mesas de Ibor, Millanes, Navalmoral de la Mata, Peraleda de la Mata, Robledillo de la Vera, Romangordo, Rosalejo, Saucedilla, Serrejón, Talaveruela de la Vera, Talayuela, Toril, Torremenga, Valdecañas de Tajo, Valdelacasa del Tajo, Valdehúncar, Valverde de la Vera, Viandar de la Vera, Villanueva de la Vera y Villar del Pedroso.
+
+> Se modifica por Resolución de 29 de octubre de 2015. Ref. BOE-A-2015-11728.

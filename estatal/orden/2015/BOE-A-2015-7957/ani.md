@@ -8,7 +8,7 @@ Se considerará zona restringida frente al serotipo 4 del virus de la lengua azu
 
 a) Provincias de Córdoba, Cádiz, Huelva, Málaga y Sevilla.
 
-b) En la provincia de Jaén: Las comarcas veterinarias de Alcalá la Real, Huelma, Úbeda, Linares, Andújar, Jaén y Santiesteban del Puerto.
+b) La provincia de Jaén.
 
 c) En la provincia de Granada: la comarca veterinaria de Motril (Costa de Granada).
 
@@ -22,4 +22,6 @@ b) En la provincia de Salamanca: las comarcas veterinarias de Béjar y Sequeros.
 
 4. La Comunidad Autónoma de Extremadura.
 
-5. En la Comunidad Autónoma de Madrid: Las comarcas veterinarias de Aranjuez, Arganda del Rey, Alcalá de Henares, Colmenar Viejo, El Escorial, municipio de Madrid, Navalcarnero, San Martín de Valdeiglesias, Torrelaguna y Villarejo de Salvanés.
+5. En la Comunidad Autónoma de Madrid: Las comarcas veterinarias de Aranjuez, Arganda del Rey, Alcalá de Henares, Colmenar Viejo, El Escorial, municipio de Madrid, Navalcarnero, San Martín de Valdeiglesias, Torrelaguna y Villarejo de Salvanés
+
+> Se modifica por Resolución de 26 de octubre de 2015. Ref. BOE-A-2015-11728.
