@@ -16,7 +16,7 @@ Se integran:
 
 – En el Cuerpo de Maestros de Taller de Escuelas de Maestría Industrial, los funcionarios de las Escalas de Profesores de Prácticas y Actividades de Enseñanzas Integradas y docente «B» de la AISS.
 
-> Téngase en cuenta que queda derogado el contenido de los cuatro guiones del párrafo 2.º del apartado 2, en cuanto se oponga a la Ley Orgánica 1/1990, de 3 de octubre. Ref. BOE-A-1990-24172 según establece su disposición final 4.1
+> Téngase en cuenta que queda derogado el contenido de los cuatro guiones del párrafo 2.º del apartado 2, en cuanto se oponga a la Ley Orgánica 1/1990, de 3 de octubre, Ref. BOE-A-1990-24172, según establece su disposición final 4.1
 
 Quienes no se integren en los Cuerpos citados permanecerán en sus Escalas de origen, que se declaran a extinguir, sin perjuicio del derecho a ser integrados en su día en otros Cuerpos o Escalas docentes, siempre que reúnan las condiciones exigidas para ello. Hasta tanto conservarán sus actuales derechos, reconociéndoseles a efectos económicos los mismos que los a funcionarios que, procedentes de estas Escalas, se integran en los Cuerpos citados.
 
@@ -62,7 +62,11 @@ En el plazo de seis meses, el Gobierno, a propuesta de los Ministros de Educaci�
 
 10. En el marco de las competencias en materia educativa atribuidas por sus respectivos Estatutos de Autonomía, las Comunidades Autónomas ordenarán su función pública docente, de conformidad con lo que se establezca en las normas básicas que regulen los aspectos señalados en el punto 2 de esta disposición adicional.
 
-> Téngase en cuenta que esta disposición se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+> Téngase en cuenta que esta disposición ha sido derogada por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+
+> Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+
+> Téngase en cuenta que esta disposición ya fue derogada en la misma forma por la Ley 7/2007, de 12 de abril.
 
 > Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
 

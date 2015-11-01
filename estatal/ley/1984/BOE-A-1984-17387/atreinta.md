@@ -2,7 +2,7 @@
 
 1. Se concederán permisos por las siguientes causas justificadas:
 
-a) Por el nacimiento, acogimiento, o adopción de un hijo, quince días a disfrutar por el padre a partir de la fecha del nacimiento, de la decisión administrativa o judicial de acogimiento o de la resolución judicial por la que se constituya la adopción.
+a) Por el nacimiento, acogimiento, o adopción de un hijo, cuatro semanas a disfrutar por el padre a partir de la fecha del nacimiento, de la decisión administrativa o judicial de acogimiento o de la resolución judicial por la que se constituya la adopción.
 
 a bis) Por el fallecimiento, accidente o enfermedad graves de un familiar dentro del primer grado de consanguinidad o afinidad, tres días hábiles cuando el suceso se produzca en la misma localidad, y cinco días hábiles cuando sea en distinta localidad.
 
@@ -67,6 +67,14 @@ Dicha reducción de jornada podrá ser solicitada y obtenida, de manera temporal
 5. En los casos en los que las funcionarias víctimas de violencia de género tuvieran que ausentarse por ello de su puesto de trabajo, estas faltas de asistencia, totales o parciales, tendrán la consideración de justificadas por el tiempo y en las condiciones en que así lo determinen los servicios sociales de atención o salud, según proceda.
 
 Las funcionarias víctimas de violencia sobre la mujer, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrán derecho a la reducción de la jornada con disminución proporcional de la retribución, o a la reordenación del tiempo de trabajo, a través de la adaptación del horario, de la aplicación del horario flexible o de otras formas de ordenación del tiempo de trabajo que sean aplicables, en los términos que para estos supuestos establezca la Administración Pública competente en cada caso.
+
+> Téngase en cuenta que los apartados 3 y 5 han sido derogados por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrán vigentes en tanto no se opongan a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+
+> Se derogan los apartados 3 y 5 por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrán vigentes en tanto no se opongan a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+
+> Téngase en cuenta que estos apartados ya fueron derogados en la misma forma por la Ley 7/2007, de 12 de abril.
+
+> Se modifica el apartado 1.a), con efectos de 1 de enero de 2017, por el art. 2 de la Ley 9/2009, de 6 de octubre. Ref. BOE-A-2009-15958
 
 > Se derogan los apartados 3 y 5, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
 

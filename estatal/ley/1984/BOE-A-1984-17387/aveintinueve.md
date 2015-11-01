@@ -32,7 +32,7 @@ k) Cuando cumplan el servicio militar o prestación sustitutoria equivalente.
 
 l) (Anulada)
 
-m) Cuando sean nombrados Subsecretarios, Secretarios generales técnicos o Directores generales.
+m)Cuando sean nombrados Subsecretarios, Secretarios generales técnicos o Directores generales.
 
 n) Cuando sean nombrados Subdelegados del Gobierno en las Provincias o Directores Insulares de la Administración General del Estado y no opten por permanecer en la situación de servicio activo en su Administración de origen.
 
@@ -130,7 +130,11 @@ Igualmente, durante los dos primeros meses de esta excedencia la funcionaria ten
 
 Esto no obstante, cuando de las actuaciones de tutela judicial resultase que la efectividad del derecho de protección de la víctima lo exigiere, se podrá prorrogar por períodos de tres meses, con un máximo de dieciocho, el período en el que, de acuerdo con el párrafo anterior, se tendrá derecho a la reserva del puesto de trabajo, con idénticos efectos a los señalados en dicho párrafo.
 
-> Téngase en cuenta que este artículo, excepto el último párrafo de los apartados 5, 6 y 7, se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+> Téngase en cuenta que este artículo ha sido derogado, a excepción del último párrafo de los apartados 5, 6 y 7, por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+
+> Se deroga, a excepción del último párrafo de los apartados 5, 6 y 7, por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+
+> Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
 
 > Se deroga excepto el último párrafo de los apartados 5, 6 y 7, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
 
