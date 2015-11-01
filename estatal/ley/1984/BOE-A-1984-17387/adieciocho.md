@@ -42,7 +42,11 @@ La Oferta de Empleo Público será aprobada por el Gobierno a propuesta del Mini
 
 Anualmente, y de acuerdo con las prioridades de la política económica y las necesidades de la planificación de los recursos humanos, las Leyes de Presupuestos señalarán los criterios aplicables a la Oferta de Empleo en el Sector Público Estatal incluido en el capítulo II del título III de las Leyes de Presupuestos Generales del Estado y en el artículo 6.5 de la Ley General Presupuestaria.
 
-> Téngase en cuenta que los apartados 1 a 5 se mantendrán en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+> Téngase en cuenta que los apartados 1 a 5 han sido derogados por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrán vigentes en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+
+> Se derogan los apartados 1 a 5 por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrán vigentes en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+
+> Téngase en cuenta que estos apartados ya fueron derogados en la misma forma por la Ley 7/2007, de 12 de abril.
 
 > Se derogan los apartados 1 a 5, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
 

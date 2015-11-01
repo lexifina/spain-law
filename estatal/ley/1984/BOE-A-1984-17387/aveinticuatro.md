@@ -6,11 +6,15 @@ El sueldo de los funcionarios del grupo A no podrá exceder en más de tres vece
 
 2. La cuantía de las retribuciones básicas, de los complementos de destino asignados a cada puesto de trabajo y de los complementos específicos y de productividad, en su caso, deberá reflejarse para cada ejercicio presupuestario en la correspondiente Ley de Presupuestos Generales del Estado y figurar en los Presupuestos de las demás Administraciones Públicas.
 
-> Téngase en cuenta que se suspende y deja sin efecto la aplicación de este artículo, en lo que resulte estrictamente necesario para la aplicación de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612., según establece la disposición adicional 12.3 de la citada ley.
+> Téngase en cuenta que este artículo ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
 
-> Téngase en cuenta que este artículo se mantendrá en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece la disposición final 4 de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+> Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
 
-> Véase la disposición adicional 12.3 de la Ley 36/2014, de 26 de diciembre, Ref. BOE-A-2014-13612, sobre la suspensión de este artículo en lo que resulte estrictamente necesario para a aplicación de esta disposición.
+> Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+
+> Véase la disposición adicional 12.Tres de la Ley 48/2015, de 29 de octubre, Ref. BOE-A-2015-11644, sobre la suspensión de este artículo en lo que resulte estrictamente necesario para a aplicación de esta disposición.
+
+> Véase la disposición adicional 12.Tres de la Ley 36/2014, de 26 de diciembre, Ref. BOE-A-2014-13612, sobre la suspensión de este artículo en lo que resulte estrictamente necesario para la aplicación de la presente disposición.
 
 > Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
 

@@ -1,4 +1,4 @@
-Norma derogada, excepto el art. 7 y los preceptos contemplados en la disposición transitoria 5 de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788#ddunica., por su disposición derogatoria única.c) y con el alcance establecido en su disposición final 4.
+Norma derogada, excepto su art. 7 y con la excepción contemplada en la disposición transitoria 5 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre. Ref. BOE-A-2015-11719#ddunica-2., según establece su disposición derogatoria única.c) y con el alcance establecido en su disposición final 4.
 
 Disposición transitoria quinta. Procedimiento Electoral General.
 

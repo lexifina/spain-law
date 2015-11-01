@@ -1,0 +1,7 @@
+## Disposición final novena. Modificación de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.13 del Real Decreto Legislativo 5/2015, de 30 de octubre. Ref. BOE-A-2015-11719#ddunica.
+
+> Redactada conforme a la corrección de errores publicada en el BOE núm. 278, de 20 de noviembre de 2015. Ref. BOE-A-2015-12525.

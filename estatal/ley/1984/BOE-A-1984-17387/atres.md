@@ -22,6 +22,10 @@ h) Aprobar la estructura en grados del personal de la Administración del Estado
 
 i) El ejercicio de las otras competencias que le estén legalmente atribuidas.
 
-> Téngase en cuenta que los apartados 2.e) y f) se mantendrán en vigor hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo.
+> Téngase en cuenta que los apartados 2.e) y f), han sido derogados por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrán vigentes en tanto no se opongan a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+
+> Se derogan los apartados 2.e) y f) por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrán vigentes en tanto no se opongan a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+
+> Téngase en cuenta que este apartado ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
 
 > Se deroga el apartado 2.e) y f), con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
