@@ -156,6 +156,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional decimoquinta](dadecimoquinta.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
+- [Disposición transitoria tercera](dttercera.md)
 - [Disposición transitoria cuarta](dtcuaa.md)
 - [Disposición transitoria quinta](dtquinta.md)
 - [Disposición transitoria sexta](dtsexta.md)
