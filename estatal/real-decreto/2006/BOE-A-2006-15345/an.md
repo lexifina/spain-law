@@ -102,93 +102,93 @@ Una declaración como la que sigue:
 
 «El distribuidor responsable de la puesta en servicio de la instalación certifica que han sido efectuadas las pruebas y comprobaciones indicadas por la reglamentación vigente, que el resultado de las mismas es correcto, y que la instalación queda en disposición de servicio.»
 
-CERTIFICADO DE INSPECCIÓN DE INSTALACIÓN COMÚN, INSTALACIÓN INDIVIDUAL DE GAS Y APARATOS
-
-## (Inspección periódica de instalaciones alimentadas desde redes de distribución)
+CERTIFICADO DE INSPECCIÓN DE INSTALACIÓN COMÚN, INSTALACIÓN INDIVIDUAL DE GAS Y APARATOS (Inspección periódica de instalaciones alimentadas desde redes de distribución).
 
 Debe contener la siguiente información:
 
-Datos del usuario y de la instalación:
+• Datos del usuario y de la instalación:
 
-Código de identificación del punto de suministro para instalaciones de gas natural.
+– Código de identificación del punto de suministro para instalaciones de gas natural.
 
-Número de póliza para instalaciones de GLP.
+– Número de póliza para instalaciones de GLP.
 
-Nombre del usuario.
+– Nombre del usuario.
 
-Dirección.
+– Dirección.
 
-Distribuidor.
+– Distribuidor.
 
-Suministrador.
+– Suministrador.
 
-Tipo de gas.
+– Tipo de gas.
 
-Datos de la entidad autorizada y de la persona acreditada que realiza las operaciones:
+• Datos de la empresa habilitada (empresa instaladora/distribuidora) y de la persona habilitada autorizada y de la que realiza las operaciones:
 
-Nombre, DNI o NIE (o, en su defecto, número de pasaporte).
+– Razón social y NIF de la empresa distribuidora.
 
-Razón social, CIF.
+– Nombre del instalador.
 
-Tipo de entidad.
+– DNI o NIE (o, en su defecto, número de pasaporte).
 
-Otros datos:
+– Tipo de habilitación y categoría del instalador.
 
-Fecha.
+– Razón social y NIF de la empresa habilitada.
 
-Plazo de validez del certificado.
+– Tipo de entidad y categoría.
 
-Firma del técnico y sello del distribuidor.
+• Otros datos:
 
-Firma del cliente o representante.
+– Fecha del informe.
 
-INFORME DE ANOMALÍAS EN INSPECCIÓN DE INSTALACIÓN COMÚN, INSTALACIÓN INDIVIDUAL DE GAS Y APARATOS
+– Situación en que queda la instalación.
 
-## (Inspección periódica de instalaciones alimentadas desde redes de distribución)
+– Firma del instalador y sello de la empresa instaladora o distribuidor, según proceda.
+
+– Firma del cliente o representante.
+
+INFORME DE ANOMALIAS EN INSPECCIÓN DE INSTALACIÓN COMÚN, INSTALACIÓN INDIVIDUAL DE GAS Y APARATOS (inspección periódica de instalaciones alimentadas desde redes de distribución)
 
 Debe contener la siguiente información:
 
-Datos del usuario y de la instalación:
+• Datos del usuario y de la instalación:
 
-Código de identificación del punto de suministro para instalaciones de gas natural.
+– Código de identificación del punto de suministro para instalaciones de gas natural.
 
-Número de póliza para instalaciones de GLP.
+– Número de póliza para instalaciones de GLP.
 
-Nombre del usuario.
+– Nombre del usuario.
 
-Dirección.
+– Dirección.
 
-Distribuidor.
+– Distribuidor.
 
-Suministrador.
+– Suministrador.
 
-Tipo de gas.
+– Tipo de gas.
 
-Datos de la entidad autorizada y de la persona acreditada que realiza las operaciones:
+• Datos de la empresa habilitada (empresa instaladora/distribuidora) y de la persona habilitada autorizada y de la que realiza las operaciones:
 
-Nombre, DNI o NIE (o, en su defecto, número de pasaporte).
+– Razón social y NIF de la empresa distribuidora.
 
-Razón social, CIF.
+– Nombre del instalador.
 
-Tipo de entidad.
+– DNI o NIE (o, en su defecto, número de pasaporte).
 
-Relación de anomalías detectadas:
+– Tipo de habilitación y categoría del instalador.
 
-Anomalías principales.
+– Razón social y NIF de la empresa habilitada.
 
-Anomalías secundarias.
+– Tipo de entidad y categoría.
 
-Plazo para corrección de anomalías (cuando proceda).
+• Otros datos:
 
-Otros datos:
+– Fecha del informe.
 
-Fecha del informe.
+– Situación en que queda la instalación.
 
-Situación en que queda la instalación.
+– Firma del instalador y sello de la empresa instaladora o distribuidor, según proceda.
 
-Firma del técnico y sello del distribuidor.
-
-Firma del cliente o representante.
+– Firma del cliente o representante.
 
 INFORME DE ANOMALÍAS EN REVISIÓN PERIÓDICA DE INSTALACIÓN INDIVIDUAL DE GAS Y APARATOS NO ALIMENTADOS DESDE REDES DE DISTRIBUCIÓN
 
@@ -273,3 +273,5 @@ Situación en que queda la instalación.
 Firma del técnico y sello de la empresa.
 
 Firma del cliente o representante.
+
+> Se modifica por la disposición final 3.7 y 8 del Real Decreto 984/2015, de 30 de octubre. Ref. BOE-A-2015-11725#dftercera.

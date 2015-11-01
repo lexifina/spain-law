@@ -152,6 +152,8 @@ El titular deberá tener siempre en su poder un ejemplar del certificado de la �
 
 No podrá suministrarse GLP a ninguna instalación, si el titular no acredita ante el suministrador la realización de las revisiones indicadas en esta ITC, en los plazos oportunos y con resultado favorable.
 
+De igual modo, los operadores al por mayor de GLP deben exigir a cualquier comercializador al por menor de GLP y a los titulares de todas las instalaciones a las que suministren, la documentación acreditativa de que sus instalaciones cumplen la normativa vigente.
+
 6.2.1 Comprobaciones a realizar en la revisión periódica.–Para la realización de la revisión periódica se deberá verificar su correcta estanquidad y aptitud de uso. Para ello se comprobarán los siguientes puntos:
 
 1. Comprobación del último certificado o acta de inspección suscrito por el organismo de control autorizado.
@@ -280,5 +282,7 @@ Una instalación deberá ser retirada de servicio por deseo expreso del titular,
 Se entenderá que una instalación cesa en su actividad si transcurren dos años consecutivos sin que se efectúe consumo alguno, no exista contrato de mantenimiento de la misma o transcurran cinco años sin la realización del mantenimiento oportuno, salvo causas de fuerza mayor.
 
 En el caso en que una instalación sea retirada de servicio, el titular de la instalación será responsable de encargar la realización y certificación a una empresa instaladora del inertizado con nitrógeno, u otro gas inerte, o del desgasificado mediante agua de la misma. Asimismo, el titular deberá entregar copia de dicho certificado al órgano competente de la Comunidad Autónoma.
+
+> Se añade un párrafo al apartado 6.2 por la disposición final 3.3 del Real Decreto 984/2015, de 30 de octubre. Ref. BOE-A-2015-11725#dftercera.
 
 > Se sustituye la expresión «empresa instaladora autorizada» por «empresa instaladora» e «instalador autorizado» por «instalador» por el art. 13.1 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#adecimotercero.

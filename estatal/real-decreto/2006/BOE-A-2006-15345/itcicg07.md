@@ -102,7 +102,7 @@ En el resto de instalaciones no alimentadas desde redes de distribución el sumi
 
 El distribuidor o, en el caso de instalaciones no alimentadas desde redes de distribución, el suministrador, deberá archivar un ejemplar del certificado de instalación y del certificado de pruebas previas y puesta en servicio de la instalación de gas, de forma que los documentos puedan ser consultados en todo momento por el órgano competente de la Comunidad Autónoma.
 
-En la reapertura de instalaciones después de una resolución de contrato, que entren de nuevo en servicio tras un período de interrupción de suministro de más de un año se actuará de igual forma que en las nuevas instalaciones.
+En la reapertura de instalaciones después de una resolución de contrato, que entren de nuevo en servicio tras un periodo de interrupción de suministro de más de un año se actuará de igual forma que en las nuevas instalaciones. La empresa distribuidora procederá a verificar la existencia del certificado de la instalación individual archivado, procediendo a continuación a verificar, emitir y archivar por parte de la distribuidora el certificado de pruebas previas y puesta en servicio conforme a lo indicado en la ITC.
 
 3.5.2 Instalaciones receptoras individuales sin contrato de suministro domiciliario.–En este caso, una vez concluida la instalación, la empresa instaladora encargada del montaje realizará las pruebas y verificaciones para la entrega de la instalación descritas en el apartado 3.3 y emitirá, en todos los casos, el correspondiente certificado de instalación, del cual entregará una copia al titular.
 
@@ -114,7 +114,7 @@ El titular de la instalación o en su defecto los usuarios, serán los responsab
 
 Las modificaciones de las instalaciones deberán ser realizadas en todos los casos por instaladores quienes, una vez finalizadas, emitirán el correspondiente certificado que quedará en poder del usuario.
 
-4.1 Inspección periódica de las instalaciones receptoras alimentadas desde redes de distribución.–Cada cinco años, y dentro del año natural de vencimiento de este período, los distribuidores de gases combustibles por canalización deberán efectuar una inspección de las instalaciones receptoras de sus respectivos usuarios, repercutiéndoles el coste derivado de aquéllas, según se establezca reglamentariamente, y teniendo en cuenta lo siguiente:
+4.1 Inspecciones periódicas de las instalaciones receptoras alimentadas desde redes de distribución.–Cada cinco años, y dentro del año natural de vencimiento de este periodo desde la fecha de puesta en servicio de la instalación o, en su caso, desde la última inspección periódica, las empresas instaladoras de gas habilitadas o los distribuidores de gases combustibles por canalización deberán efectuar una inspección de las instalaciones receptoras de los usuarios, repercutiéndoles el coste de la misma que, en caso de que la inspección sea realizada por el distribuidor, no podrá superar los costes regulados y teniendo en cuenta lo siguiente:
 
 En instalaciones de hasta 70 kW de potencia instalada, la inspección comprenderá desde la llave de usuario hasta los aparatos de gas, incluidos estos.
 
@@ -122,31 +122,55 @@ En instalaciones centralizadas de calefacción e instalaciones de más de 70 kW 
 
 De forma general, y con independencia de la potencia instalada, en las instalaciones suministradas a una presión máxima de operación superior a 5 bar la inspección comprenderá desde la llave de acometida hasta la conexión de los aparatos de gas, excluidos estos. El mantenimiento de los aparatos será responsabilidad del titular de la instalación y deberá contemplarse en los planes generales de mantenimiento de la planta.
 
-Adicionalmente, los distribuidores a cuyas instalaciones se hallen conectadas las instalaciones receptoras individuales de los usuarios procederán a inspeccionar la parte común de las mismas con una periodicidad de cinco años.
+Adicionalmente, las empresas instaladoras de gas habilitadas o los distribuidores a cuyas instalaciones se hallen conectadas las instalaciones receptoras individuales de los usuarios, procederán a inspeccionar la parte común de las mismas con una periodicidad de cinco años.
 
 La inspección periódica de una instalación receptora alimentada desde una red de distribución de presión igual o inferior a 5 bares, consistirá básicamente en la comprobación de la estanquidad de la instalación receptora y la verificación del buen estado de conservación de la misma, la combustión higiénica de los aparatos y la correcta evacuación de los productos de la combustión, de acuerdo con el procedimiento descrito en las normas UNE 60670-12 y UNE 60670-13.
 
 La inspección periódica de una instalación receptora alimentada desde una red de presión superior a 5 bar, se realizará de acuerdo con los procedimientos descritos en la norma UNE 60620-6.
 
-En cualquier caso se requerirá que el personal que realice la inspección esté formado y acreditado en los términos indicados en el Reglamento.
+En cualquier caso, se requerirá que el personal que realice la inspección sea instalador habilitado de gas en los términos que se establecen en la ITC-ICG 09.
 
 4.1.1 Procedimiento general de actuación.
 
-a) El distribuidor deberá comunicar a los usuarios, con una antelación mínima de cinco días, la fecha de la visita de inspección que realizará, solicitando que se le facilite el acceso a la instalación el día indicado.
+a) El distribuidor deberá comunicar a los usuarios, con una antelación de tres meses, la obligación de que en su instalación se debe realizar la inspección, pudiéndola realizar una empresa instaladora habilitada o él mismo.
 
-b) La inspección será realizada por personal propio o contratado por el distribuidor. El personal contratado deberá someterse a un proceso previo de formación que lo faculte para dicha tarea.
+b) La inspección será realizada por:
 
-c) Si no fuera posible efectuar la inspección por encontrarse ausente el usuario, el distribuidor notificará a aquel la fecha de una segunda visita.
+b.1 En el caso de empresa instaladora de gas habilitada, por instaladores categoría A, B o C para instalaciones individuales, e instaladores categorías A o B para instalaciones comunes.
 
-d) Para el caso particular de instalaciones receptoras alimentadas desde redes de distribución de presión igual o inferior a 5 bar, cuando la visita arroje un resultado favorable, se cumplimentará y entregará al usuario un certificado de inspección, según modelo que figura en el anexo de esta ITC. En el caso de que se detecten anomalías de las indicadas en la norma UNE 60670 o UNE 60620, según corresponda, se cumplimentará y entregará al usuario un informe de anomalías, que incluirá los datos mínimos que se indican en el anexo de esta ITC. Dichas anomalías deberán ser corregidas por el usuario. El distribuidor deberá informar mensualmente al suministrador, por medios telemáticos, sobre las anomalías detectadas.
+b.2 En el caso de empresa distribuidora, por personal propio o contratado por el distribuidor. Tanto el personal contratado como el propio deberán disponer de las habilitaciones correspondientes según se indica en el apartado b.1 o estar debidamente certificado para esta actividad por una entidad acreditada para la certificación de personas según el Real Decreto 2200/1995, de 28 de diciembre. Asimismo, el personal contratado deberá actuar en el seno de una empresa instaladora habilitada.
 
-En el caso de que se detecte una anomalía principal, si esta no puede ser corregida en el mismo momento, se deberá interrumpir el suministro de gas y se precintará la parte de la instalación pertinente o el aparato afectado, según proceda. A estos efectos se considerarán anomalías principales las contenidas en la norma UNE 60670 o UNE 60620, según corresponda. Todas las fugas detectadas en instalaciones de GLP serán consideradas como anomalía principal.
+c) Procedimiento general de actuación realizada por empresa instaladora habilitada de gas:
 
-En el caso de faltas de estanquidad consideradas anomalías secundarias se dará un plazo de quince días naturales para su corrección. A estos efectos se considerarán anomalías secundarias las contenidas en la norma UNE 60670 o UNE 60620, según corresponda.
+c.1. Si por elección del cliente, la empresa instaladora habilitada de gas realiza la inspección con resultado favorable, emitirá el correspondiente certificado de inspección, entregando una copia al titular de la instalación, remitiendo otra copia a la empresa distribuidora por los medios que se determinen, asimismo, mantendrá otra copia en su poder. El certificado deberá estar firmado por el instalador habilitado y con el sello de la empresa instaladora responsable.
 
-e) El distribuidor dispondrá de una base de datos, permanentemente actualizada, que contenga, entre otras informaciones, la fecha de la última inspección de las instalaciones receptoras individuales, así como su resultado, conservando esta información durante diez años. Todo el sistema deberá poder ser consultado por el órgano competente de la Comunidad Autónoma, cuando este lo considere conveniente.
+c.2. Si la empresa instaladora realiza la inspección, y en la misma se detectan anomalías, se procederá del siguiente modo:
 
-f) El titular o, en su defecto, el usuario, es el responsable de la corrección de las anomalías detectadas en la instalación, incluyendo la acometida interior enterrada, y en los aparatos de gas, utilizando para ello los servicios de un instalador de gas o de un servicio técnico, que entregará al usuario un justificante de corrección de anomalías según el modelo incluido en el anexo de esta ITC, y enviará copia al distribuidor.
+Se remitirá a la empresa distribuidora el informe de anomalías, en el que se indica el plazo máximo de corrección de las mismas, y se entregará una copia al titular de la instalación, no pudiendo proceder a la reparación de las anomalías la misma empresa o instalador que realice la inspección. Resueltas las anomalías se emitirá el correspondiente certificado, entregando una copia al titular de la instalación al finalizar la inspección, remitiendo otra copia a la empresa distribuidora por los medios que se determinen al efecto, asimismo, mantendrá otra copia en su poder.
+
+d) Procedimiento general de actuación realizada por empresa distribuidora.
+
+d.1. Si la empresa distribuidora realiza la inspección por elección del cliente, avisará con una antelación mínima de 5 días, la fecha de la visita de inspección y solicitará que se facilite el acceso a la instalación el día indicado.
+
+Si el resultado es favorable, se emitirá el certificado correspondiente de inspección entregando una copia al titular y manteniendo una copia en su poder.
+
+Si se detectan anomalías al finalizar la inspección se entregará el correspondiente informe de anomalías, indicando el plazo de corrección de las mismas, no pudiendo proceder a la reparación de las anomalías por la misma empresa o instalador. Resueltas las anomalías se emitirá el correspondiente certificado de inspección entregando una copia al titular y manteniendo otra en su poder.
+
+d.2. En caso de que la distribuidora no reciba el certificado de inspección periódica de las instalaciones en la fecha límite indicada en la comunicación del distribuidor, se entenderá que el titular desea que la inspección sea realizada por el propio distribuidor, quien comunicará la fecha y hora de la inspección con una antelación mínima de cinco días.
+
+e) En el caso de que sea la empresa distribuidora quien realice la inspección, si no fuera posible efectuar la inspección por encontrarse ausente el usuario, el distribuidor notificará a aquél la fecha de una segunda visita.
+
+f) En el caso de que se detecten anomalías de las indicadas en la norma UNE 60670 o UNE 60620, según corresponda, se cumplimentará y entregará al usuario un informe de anomalías, que incluirá los datos mínimos que se indican en el anexo de esta ITC. Dichas anomalías deberán ser corregidas por el usuario.
+
+En el caso de que se detecte una anomalía principal, si ésta no puede ser corregida en el mismo momento, se deberá interrumpir el suministro de gas y se precintará la parte de la instalación pertinente o el aparato afectado, según proceda. A estos efectos se considerarán anomalías principales las contenidas en la norma UNE 60670 o UNE 60620, según corresponda. Todas las fugas detectadas en instalaciones de gas serán consideradas como anomalía principal.
+
+En el caso de faltas de estanquidad consideradas anomalías secundarias se dará un plazo de quince días hábiles para su corrección. A estos efectos se considerarán anomalías secundarias las contenidas en la norma UNE 60670 o UNE 60620, según corresponda.
+
+g) El distribuidor dispondrá de una base de datos, permanentemente actualizada, que contenga, entre otras informaciones, la fecha de la última inspección de las instalaciones receptoras así como su resultado, conservando ésta información durante diez años. Todo el sistema deberá poder ser consultado por el órgano competente de la Comunidad Autónoma, cuando éste lo considere conveniente.
+
+h) El titular, o en su defecto, el usuario, es el responsable de la corrección de las anomalías detectadas en la instalación, incluyendo la acometida interior enterrada, y en los aparatos de gas, utilizando para ello los servicios de un instalador habilitado de gas o de un servicio técnico según corresponda, que entregará al usuario un justificante de corrección de anomalías según el modelo incluido en el anexo de esta ITC, y enviará copia al distribuidor.
+
+i) Cuando la empresa instaladora habilitada haya resuelto las anomalías principales que ocasionaron el precintado de la instalación, podrá proceder al desprecintado y a dejar la instalación en funcionamiento, comunicándoselo a la empresa Distribuidora mediante la presentación del correspondiente certificado de subsanación.
 
 4.2 Revisión periódica de las instalaciones receptoras no alimentadas desde redes de distribución.–Los titulares o, en su defecto, los usuarios actuales de las instalaciones receptoras no alimentadas desde redes de distribución, son responsables de encargar una revisión periódica de su instalación, utilizando para dicho fin los servicios de una empresa instaladora de gas de acuerdo con lo establecido en la ITC-ICG 09.
 
@@ -171,5 +195,7 @@ Las anomalías secundarias se comunicarán al usuario para que proceda a su corr
 Siempre que se modifique una instalación receptora, la empresa instaladora que realice los trabajos deberá comunicar tal circunstancia al suministrador. A estos efectos, se entenderá por modificación de una instalación receptora cualquier modificación de la instalación de gas que conlleve un cambio de material o de trazado en una longitud superior a 1 m, así como cualquier ampliación de consumo o sustitución de aparatos por otros de diferentes características técnicas.
 
 Una vez comunicada la modificación al suministrador, este solicitará el enganche al distribuidor, quien realizará las pruebas previas establecidas reglamentariamente, repercutiéndose el coste de los derechos de enganche al usuario final.
+
+> Se modifican los apartados 3.5.1, 4.1 y 4.1.1 por la disposición final 3.4 a 6 del Real Decreto 984/2015, de 30 de octubre. Ref. BOE-A-2015-11725#dftercera.
 
 > Se sustituye la expresión «empresa instaladora autorizada» por «empresa instaladora» e «instalador autorizado» por «instalador» por el art. 13.1 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#adecimotercero.

@@ -40,7 +40,7 @@ Verificación, realizando los ensayos y pruebas reglamentarias, de las instalaci
 
 Puesta en servicio de las instalaciones receptoras que no precisen contrato de suministro domiciliario.
 
-Inspección de instalaciones receptoras alimentadas desde redes de distribución, de acuerdo con las condiciones establecidas en el epígrafe 4.1.1.b) de la ITC-ICG 07.
+Inspección de instalaciones receptoras alimentadas desde redes de distribución, de acuerdo con las condiciones establecidas en el 4.1.1 de la ITC-ICG 07.
 
 Revisiones de aquellas instalaciones en donde lo establezcan las correspondientes ITCs.
 
@@ -65,6 +65,8 @@ Conexión y montaje de aparatos de gas.
 Puesta en marcha, mantenimiento y reparación de aparatos de gas no conducidos (aparatos de tipo A) y de aparatos de gas conducidos (aparatos de tipo B y C) de potencia útil hasta 24,4 kW inclusive, que estén adaptados al tipo de gas suministrado, con la excepción de las vitrocerámicas a gas de fuegos cubiertos.
 
 Puesta en marcha, mantenimiento y reparación de aparatos de gas conducidos (aparatos de tipo B y C) de potencia útil superior a 24,4 kW y vitrocerámicas a gas de fuegos cubiertos, que estén adaptados al tipo de gas suministrado, cumpliendo requisitos específicos, según se indica el apartado 2.1.2.
+
+Adecuación de aparatos por cambio de familia de gas.
 
 Instalador de gas de categoría C. Los instaladores de gas de categoría C podrán realizar las operaciones señaladas en el apartado 2.1, únicamente en instalaciones receptoras individuales que no requieren proyecto ni cambio de familia de gas y limitadas a:
 
@@ -168,7 +170,11 @@ h) Asistir a las inspecciones iniciales de las instalaciones establecidas por el
 
 i) Garantizar, durante un período de cuatro años, las deficiencias atribuidas a una mala ejecución de las operaciones que les hayan sido encomendadas, así como de las consecuencias que de ellas se deriven.
 
-j) Mantener un registro de los certificados emitidos, a disposición de los órganos competentes de las comunidades autónomas.
+j) Mantener un registro de los certificados emitidos y, en su caso, de los informes de anomalías emitidos, a disposición de los órganos competentes de las comunidades autónomas.
+
+k) Mantener un registro de los informes de anomalías emitidos en controles periódicos, a disposición de las empresas distribuidoras de gas o comercializadores de GLP, según proceda.
+
+l) Realizar las inspecciones de las instalaciones receptoras de acuerdo con un procedimiento previamente establecido por la propia empresa instaladora habilitada.
 
 4. Requisitos adicionales de los instaladores para la puesta en marcha, mantenimiento, reparación y adecuación de aparatos.
 
@@ -195,5 +201,7 @@ c) Disponer de un título de formación profesional o de un certificado de profe
 d) Tener reconocida una competencia profesional adquirida por experiencia laboral, de acuerdo con lo estipulado en el Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, en las materias que se indican en el anexo 2 de esta Instrucción Técnica Complementaria.
 
 e) Poseer una certificación otorgada por entidad acreditada para la certificación de personas, según lo establecido en el Real Decreto 2200/1995, de 28 de diciembre, que incluya los contenidos que se indican en el anexo 2 de esta Instrucción Técnica Complementaria.
+
+> Se modifican los apartados 2.1.1, 2.2 y 3.12 por la disposición final 3.9 a 11 del Real Decreto 984/2015, de 30 de octubre. Ref. BOE-A-2015-11725#dftercera.
 
 > Se modifica por el art. 13, apartados 1 y del 10 al 17, del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#adecimotercero.

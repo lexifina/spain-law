@@ -1,0 +1,15 @@
+## Disposición adicional cuarta. Procedimientos regulados en el título II de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos.
+
+En lo que se refiere a procedimientos asociados a autorizaciones de exploración, permisos de investigación y concesiones de explotación de hidrocarburos regulados en la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, cuando sean competencia de la Administración General del Estado, resultarán de aplicación adicional las reglas que se indican a continuación:
+
+a) Previamente al otorgamiento de una concesión de explotación de hidrocarburos o de almacenamiento será condición necesaria que el órgano ambiental haya concluido el procedimiento de evaluación de impacto ambiental en sentido favorable, de acuerdo con la normativa que le resulte de aplicación.
+
+b) La titularidad de un permiso de investigación o de una concesión de explotación de hidrocarburos no eximirá de la obligación de obtener la correspondiente autorización administrativa para la ejecución de los trabajos asociados, respectivamente, a su plan de investigación o plan general de explotación, cuando así lo establezca la normativa vigente o cuando estén sujetos a evaluación de impacto ambiental de acuerdo con la normativa ambiental de aplicación. Se exceptúan de la obligación anterior aquellos trabajos que tengan la consideración de actividades libres de acuerdo con el artículo 13 de la Ley 34/1998, de 7 de octubre y con el artículo 12.1 del Real Decreto 2362/1976, de 30 de julio, por el que se aprueba el Reglamento de la Ley sobre Investigación y Exploración de Hidrocarburos de 27 de junio de 1974.
+
+c) Con carácter previo a la resolución del expediente de autorización, deberá haberse resuelto, en su caso, el procedimiento de evaluación de impacto ambiental.
+
+d) Las solicitudes de prórroga de concesiones de explotación, sujetas o acogidas al régimen establecido en la Ley 34/1998, de 7 de octubre, cuyo plazo inicial de vigencia efectiva, como consecuencia de lo previsto en el artículo 30.2.6 del Real Decreto 2362/1976, de 30 de julio, sea inferior a treinta años, podrán formularse en cualquier momento anterior al de su vencimiento.
+
+e) En cualquier caso, el cómputo de la vigencia de la prórroga se realizará a partir del día siguiente al de vencimiento de la vigencia de la concesión que figurase en el otorgamiento inicial.
+
+f) En el plazo de quince días hábiles con posterioridad a producirse el devengo del canon de superficie al que hace referencia el artículo 21 de la Ley 8/2015, de 21 de mayo, por la que se modifica la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, y por la que se regulan determinadas medidas tributarias y no tributarias en relación con la exploración, investigación y explotación de hidrocarburos, la Administración competente para el otorgamiento de las autorizaciones de exploración, permisos de investigación o concesiones de explotación que hayan dado origen al devengo del mismo, deberán notificarlo al órgano competente para su recaudación.
