@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Declaración de funcionamiento.
+
+En el plazo de seis meses desde la entrada en vigor de la norma, se pondrá a disposición de las entidades inscritas el formulario electrónico al que se refiere el artículo 29 de este real decreto, a fin de proceder a la primera declaración de funcionamiento y comunicar al Registro los datos siguientes: domicilio a efectos de notificaciones, ámbito territorial, teléfono y correo electrónico. Transcurrido el plazo sin haber realizado dicha comunicación, se procederá, por parte del Registro, a practicar la anotación marginal correspondiente sin perjuicio de su posterior cancelación una vez comunicados dichos datos.
