@@ -174,9 +174,7 @@ La confirmación metrológica generalmente incluye la calibración y verificaci�
 
 1.4.1 Año de gas.-Período de tiempo que comienza el 1 de enero y termina el 31 de diciembre del mismo año y en el que se efectúan las operaciones programadas para ese período.
 
-1.4.2 Día de gas.-Período de tiempo que comienza a las 0 horas y termina a las 24 horas del mismo día natural y en el que se efectúan las operaciones programadas para ese período. Es la unidad temporal de referencia para todas las actividades diarias que incluyen estas Normas.
-
-En el caso de las conexiones internacionales por gasoducto con Europa se podrán admitir otros períodos de tiempo para el día de gas, siempre que se encuentren recogidos en el manual de operación acordado por los transportistas interconectados. En dichos casos, en el sistema de transporte español, las cantidades nominadas, medidas y repartidas en dichos puntos, se considerarán a todos los efectos como cantidades nominadas, medidas y repartidas en el sistema español de 0 horas a 24 horas.
+1.4.2 Día de gas.-Período de tiempo que comienza a las 5 horas UTC y termina a las 5 horas UTC del día siguiente en invierno, y entre las 4 horas UTC de un día y las 4 horas UTC del día siguiente en verano, y en el que se efectúan las operaciones programadas para ese período. Es la unidad temporal de referencia para todas las actividades diarias que incluyen estas Normas.
 
 1.4.3 Día posterior de gas.-Es el día posterior al día de gas.
 
@@ -280,6 +278,8 @@ La unidad de temperatura es el ºC.
 Estas unidades serán de uso obligatorio para efectuar balances, mediciones y facturación entre sujetos.
 
 1.6 Clasificación de buques metaneros.–A efectos de estas normas se consideran buques pequeños aquellos cuya capacidad de transporte es inferior a 60.000 m3 de GNL; buques medianos aquellos cuya capacidad de transporte se encuentra comprendida entre 60.000 m3 de GNL y 110.000 m3 de GNL; y buques grandes aquellos cuya capacidad de descarga excede los 110.000 m3 de GNL.
+
+> Se modifica el apartado 1.4.2 por la disposición final 1 de la Orden IET/2355/2014, de 12 de diciembre. Ref. BOE-A-2014-13057.
 
 > Se modifica el apartado 1.4.2 por el apartado primero de la Resolución de 17 de septiembre de 2012. Ref. BOE-A-2012-12811.
 
