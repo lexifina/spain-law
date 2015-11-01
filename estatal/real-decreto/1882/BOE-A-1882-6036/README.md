@@ -601,6 +601,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO IV](civ-3.md)
 - [Artículo 520](a520.md)
 - [Artículo 520 bis](a520bis.md)
+- [Artículo 520 ter](a520ter.md)
 - [Artículo 521](a521.md)
 - [Artículo 522](a522.md)
 - [Artículo 523](a523.md)
