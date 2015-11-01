@@ -1,0 +1,3 @@
+## Disposición transitoria única. Procedimientos iniciados bajo la anterior regulación.
+
+Todos los procedimientos regulados en el Título VI de la Ley Hipotecaria, así como los derivados de los supuestos de doble inmatriculación que se encuentren iniciados a la fecha de entrada en vigor de la presente Ley, continuarán tramitándose hasta su resolución definitiva conforme a la normativa anterior. A efectos de la inmatriculación a obtener por el procedimiento recogido en el artículo 205 o en el artículo 206, sólo se tendrá dicho procedimiento por iniciado si a la fecha de entrada en vigor de la presente Ley estuviese presentado el título público inmatriculador en el Registro de la propiedad.

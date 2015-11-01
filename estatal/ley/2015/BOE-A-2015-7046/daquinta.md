@@ -1,0 +1,5 @@
+## Disposición adicional quinta.
+
+1. Los municipios, en el plazo de tres meses desde la publicación de esta Ley, pondrán a disposición de los Registradores, para su incorporación a la aplicación informática auxiliar a que se refiere el artículo 9 de la Ley Hipotecaria, un acceso mediante servicio de mapas web a todos los planes urbanísticos generales y de desarrollo, debidamente georreferenciados y metadatados, así como a sus modificaciones aprobadas definitivamente y en vigor.
+
+2. Excepcionalmente, aquellos municipios que no pudieran cumplir lo dispuesto en el apartado anterior por falta de disponibilidades técnicas o presupuestarias, deberán notificarlo así al Colegio de Registradores en el referido plazo y, en todo caso, poner a disposición del Colegio de Registradores, para que a su vez lo haga a los Registradores territorialmente competentes, un ejemplar certificado y en soporte electrónico de todos los planes urbanísticos generales y de desarrollo, así como de sus modificaciones aprobadas definitivamente y en vigor, inscritos en el Libro-registro de instrumentos de planeamiento de cada Ayuntamiento.
