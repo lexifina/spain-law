@@ -38,23 +38,22 @@ e) Selección de las medidas de seguridad apropiadas de entre las contenidas en 
 
 4. La correspondencia entre los niveles de seguridad exigidos en cada dimensión y las medidas de seguridad, es la que se indica en la tabla siguiente:
 
-| Dimensiones | MEDIDAS DE SEGURIDAD |
+| Dimensiones | Medidas de seguridad |
 | --- | --- |
 | Afectadas | B | M | A |
+|  |  |  |  |  |  |
 |  |  |  |  | org | Marco organizativo |
 | categoría | aplica | = | = | org.1 | Política de seguridad |
 | categoría | aplica | = | = | org.2 | Normativa de seguridad |
 | categoría | aplica | = | = | org.3 | Procedimientos de seguridad |
 | categoría | aplica | = | = | org.4 | Proceso de autorización |
-| Dimensiones | MEDIDAS DE SEGURIDAD |
-| --- | --- |
-| Afectadas | B | M | A |
+|  |  |  |  |  |  |
 |  |  |  |  | op | Marco operacional |
 |  |  |  |  | op.pl | Planificación |
 | categoría | aplica | + | ++ | op.pl.1 | Análisis de riesgos |
-| categoría | aplica | = | = | op.pl.2 | Arquitectura de seguridad |
+| categoría | aplica | + | ++ | op.pl.2 | Arquitectura de seguridad |
 | categoría | aplica | = | = | op.pl.3 | Adquisición de nuevos componentes |
-| D | n.a. | aplica | = | op.pl.4 | Dimensionamiento / Gestión de capacidades |
+| D | n.a. | aplica | = | op.pl.4 | Dimensionamiento/Gestión de capacidades |
 | categoría | n.a. | n.a. | aplica | op.pl.5 | Componentes certificados |
 |  |  |  |  | op.acc | Control de acceso |
 | A T | aplica | = | = | op.acc.1 | Identificación |
@@ -71,9 +70,9 @@ e) Selección de las medidas de seguridad apropiadas de entre las contenidas en 
 | categoría | aplica | = | = | op.exp.4 | Mantenimiento |
 | categoría | n.a. | aplica | = | op.exp.5 | Gestión de cambios |
 | categoría | aplica | = | = | op.exp.6 | Protección frente a código dañino |
-| categoría | n.a. | aplica | = | op.exp.7 | Gestión de incidencias |
-| T | n.a. | n.a. | aplica | op.exp.8 | Registro de la actividad de los usuarios |
-| categoría | n.a. | aplica | = | op.exp.9 | Registro de la gestión de incidencias |
+| categoría | n.a. | aplica | = | op.exp.7 | Gestión de incidentes |
+| T | aplica | + | ++ | op.exp.8 | Registro de la actividad de los usuarios |
+| categoría | n.a. | aplica | = | op.exp.9 | Registro de la gestión de incidentes |
 | T | n.a. | n.a. | aplica | op.exp.10 | Protección de los registros de actividad |
 | categoría | aplica | + | = | op.exp.11 | Protección de claves criptográficas |
 |  |  |  |  | op.ext | Servicios externos |
@@ -85,11 +84,9 @@ e) Selección de las medidas de seguridad apropiadas de entre las contenidas en 
 | D | n.a. | n.a. | aplica | op.cont.2 | Plan de continuidad |
 | D | n.a. | n.a. | aplica | op.cont.3 | Pruebas periódicas |
 |  |  |  |  | op.mon | Monitorización del sistema |
-| categoría | n.a. | n.a. | aplica | op.mon.1 | Detección de intrusión |
+| categoría | n.a. | aplica | = | op.mon.1 | Detección de intrusión |
 | categoría | n.a. | n.a. | aplica | op.mon.2 | Sistema de métricas |
-| Dimensiones | MEDIDAS DE SEGURIDAD |
-| --- | --- |
-| Afectadas | B | M | A |
+|  |  |  |  |  |  |
 |  |  |  |  | mp | Medidas de protección |
 |  |  |  |  | mp.if | Protección de las instalaciones e infraestructuras |
 | categoría | aplica | = | = | mp.if.1 | Áreas separadas y con control de acceso |
@@ -122,7 +119,7 @@ e) Selección de las medidas de seguridad apropiadas de entre las contenidas en 
 | I C | n.a. | aplica | + | mp.si.2 | Criptografía |
 | categoría | aplica | = | = | mp.si.3 | Custodia |
 | categoría | aplica | = | = | mp.si.4 | Transporte |
-| C | n.a. | aplica | = | mp.si.5 | Borrado y destrucción |
+| C | aplica | + | = | mp.si.5 | Borrado y destrucción |
 |  |  |  |  | mp.sw | Protección de las aplicaciones informáticas |
 | categoría | n.a. | aplica | = | mp.sw.1 | Desarrollo |
 | categoría | aplica | + | ++ | mp.sw.2 | Aceptación y puesta en servicio |
@@ -133,10 +130,10 @@ e) Selección de las medidas de seguridad apropiadas de entre las contenidas en 
 | I A | aplica | + | ++ | mp.info.4 | Firma electrónica |
 | T | n.a. | n.a. | aplica | mp.info.5 | Sellos de tiempo |
 | C | aplica | = | = | mp.info.6 | Limpieza de documentos |
-| D | n.a. | aplica | = | mp.info.9 | Copias de seguridad (backup) |
+| D | aplica | = | = | mp.info.9 | Copias de seguridad (backup) |
 |  |  |  |  | mp.s | Protección de los servicios |
 | categoría | aplica | = | = | mp.s.1 | Protección del correo electrónico |
-| categoría | aplica | = | = | mp.s.2 | Protección de servicios y aplicaciones web |
+| categoría | aplica | = | + | mp.s.2 | Protección de servicios y aplicaciones web |
 | D | n.a. | aplica | + | mp.s.8 | Protección frente a la denegación de servicio |
 | D | n.a. | n.a. | aplica | mp.s.9 | Medios alternativos |
 
@@ -232,6 +229,8 @@ f) Utilización de soportes de información.
 
 g) Utilización de equipos móviles. Se entenderá por equipos móviles ordenadores portátiles, PDA, u otros de naturaleza análoga.
 
+h) Utilización de servicios de terceros, bajo contrato o Convenio.
+
 ## 4. Marco operacional [op]
 
 El marco operacional está constituido por las medidas a tomar para proteger la operación del sistema como conjunto integral de componentes para un fin.
@@ -285,46 +284,54 @@ e) Identifique y valore el riesgo residual.
 
 4.1.2 Arquitectura de seguridad [op.pl.2].
 
-| dimensiones | todas |
+| dimensiones | Todas |
 | --- | --- |
 | categoría | básica | media | alta |
-|  | aplica | = | = |
+|  | aplica | + | + |
 
 La seguridad del sistema será objeto de un planteamiento integral detallando, al menos, los siguientes aspectos:
 
+Categoría BÁSICA
+
 a) Documentación de las instalaciones:
 
-1.º Áreas.
+1. Áreas.
 
-2.º Puntos de acceso.
+2. Puntos de acceso.
 
 b) Documentación del sistema:
 
-1.º Equipos.
+1. Equipos.
 
-2.º Redes internas y conexiones al exterior.
+2. Redes internas y conexiones al exterior.
 
-3.º Puntos de acceso al sistema (puestos de trabajo y consolas de administración).
+3. Puntos de acceso al sistema (puestos de trabajo y consolas de administración).
 
 c) Esquema de líneas de defensa:
 
-1.º Puntos de interconexión a otros sistemas o a otras redes, en especial si se trata de Internet.
+1. Puntos de interconexión a otros sistemas o a otras redes, en especial si se trata de Internet o redes públicas en general.
 
-2.º Cortafuegos, DMZ, etc.
+2. Cortafuegos, DMZ, etc.
 
-3.º Utilización de tecnologías diferentes para prevenir vulnerabilidades que pudieran perforar simultáneamente varias líneas de defensa.
+3. Utilización de tecnologías diferentes para prevenir vulnerabilidades que pudieran perforar simultáneamente varias líneas de defensa.
 
 d) Sistema de identificación y autenticación de usuarios:
 
-1.º Uso de claves concertadas, contraseñas, tarjetas de identificación, biometría, u otras de naturaleza análoga.
+1. Uso de claves concertadas, contraseñas, tarjetas de identificación, biometría, u otras de naturaleza análoga.
 
-2.º Uso de ficheros o directorios para autenticar al usuario y determinar sus derechos de acceso.
+2. Uso de ficheros o directorios para autenticar al usuario y determinar sus derechos de acceso.
 
-e) Controles técnicos internos:
+Categoría MEDIA
 
-1.º Validación de datos de entrada, salida y datos intermedios.
+e) Sistema de gestión, relativo a la planificación, organización y control de los recursos relativos a la seguridad de la información.
 
-f) Sistema de gestión con actualización y aprobación periódica.
+Categoría ALTA
+
+f) Sistema de gestión de seguridad de la información con actualización y aprobación periódica.
+
+g) Controles técnicos internos:
+
+1. Validación de datos de entrada, salida y datos intermedios.
 
 4.1.3 Adquisición de nuevos componentes [op.pl.3].
 
@@ -364,18 +371,18 @@ f) Necesidades de instalaciones y medios auxiliares.
 
 4.1.5 Componentes certificados [op.pl.5].
 
-| dimensiones | todas |
+| dimensiones | Todas |
 | --- | --- |
 | categoría | básica | media | alta |
 |  | no aplica | no aplica | aplica |
 
 Categoría ALTA
 
-Se utilizarán preferentemente sistemas, productos o equipos cuyas funcionalidades de seguridad y su nivel hayan sido evaluados conforme a normas europeas o internacionales y que estén certificados por entidades independientes de reconocida solvencia.
+Se utilizarán sistemas, productos o equipos cuyas funcionalidades de seguridad y su nivel hayan sido evaluados conforme a normas europeas o internacionales y cuyos certificados estén reconocidos por el Esquema Nacional de Evaluación y Certificación de la Seguridad de las Tecnologías de la Información.
 
 Tendrán la consideración de normas europeas o internacionales, ISO/IEC 15408 u otras de naturaleza y calidad análogas.
 
-Tendrán la consideración de entidades independientes de reconocida solvencia las recogidas en los acuerdos o arreglos internacionales de reconocimiento mutuo de los certificados de la seguridad de la tecnología de la información u otras de naturaleza análoga.
+Una instrucción técnica de seguridad detallará los criterios exigibles.
 
 4.2 Control de acceso. [op.acc].
 
@@ -412,19 +419,31 @@ Cuando se interconecten sistemas en los que la identificación, autenticación y
 
 La identificación de los usuarios del sistema se realizará de acuerdo con lo que se indica a continuación:
 
-a) Se asignará un identificador singular para cada entidad (usuario o proceso) que accede al sistema, de tal forma que:
+1. Se podrán utilizar como identificador único los sistemas de identificación previstos en la normativa de aplicación.
 
-1.º Se puede saber quién recibe y qué derechos de acceso recibe.
+2. Cuando el usuario tenga diferentes roles frente al sistema (por ejemplo, como ciudadano, como trabajador interno del organismo y como administrador de los sistemas) recibirá identificadores singulares para cada uno de los casos de forma que siempre queden delimitados privilegios y registros de actividad.
 
-2.º Se puede saber quién ha hecho algo y qué ha hecho.
+3. Cada entidad (usuario o proceso) que accede al sistema, contará con un identificador singular de tal forma que:
 
-b) Las cuentas de usuario se gestionarán de la siguiente forma:
+a) Se puede saber quién recibe y qué derechos de acceso recibe.
 
-1.º Cada cuenta estará asociada a un identificador único.
+b) Se puede saber quién ha hecho algo y qué ha hecho.
 
-2.º Las cuentas deben ser inhabilitadas en los siguientes casos: cuando el usuario deja la organización; cuando el usuario cesa en la función para la cual se requería la cuenta de usuario; o, cuando la persona que la autorizó, da orden en sentido contrario.
+4. Las cuentas de usuario se gestionarán de la siguiente forma:
 
-3.º Las cuentas se retendrán durante el periodo necesario para atender a las necesidades de trazabilidad de los registros de actividad asociados a las mismas. A este periodo se le denominará periodo de retención.
+a) Cada cuenta estará asociada a un identificador único.
+
+b) Las cuentas deben ser inhabilitadas en los siguientes casos: cuando el usuario deja la organización; cuando el usuario cesa en la función para la cual se requería la cuenta de usuario; o, cuando la persona que la autorizó, da orden en sentido contrario.
+
+c) Las cuentas se retendrán durante el periodo necesario para atender a las necesidades de trazabilidad de los registros de actividad asociados a las mismas. A este periodo se le denominará periodo de retención.
+
+5. En los supuestos contemplados en el Capítulo IV relativo a "Comunicaciones Electrónicas", las partes intervinientes se identificarán de acuerdo a los mecanismos previstos en la legislación europea y nacional en la materia, con la siguiente correspondencia entre los niveles de la dimensión de autenticidad de los sistemas de información a los que se tiene acceso y los niveles de seguridad (bajo, sustancial, alto) de los sistemas de identificación electrónica previstos en el Reglamento n.º 910/2014, del Parlamento Europeo y del Consejo, de 23 de julio de 2014, relativo a la identificación electrónica y los servicios de confianza para las transacciones electrónicas en el mercado interior y por el que se deroga la Directiva 1999/93/CE:
+
+– Si se requiere un nivel BAJO en la dimensión de autenticidad (anexo I): Nivel de seguridad bajo, sustancial o alto (artículo 8 del Reglamento n.º 910/2014)
+
+– Si se requiere un nivel MEDIO en la dimensión de autenticidad (anexo I): Nivel de seguridad sustancial o alto (artículo 8 del Reglamento n.º 910/2014)
+
+– Si se requiere un nivel ALTO en la dimensión de autenticidad (anexo I): Nivel de seguridad alto (artículo 8 del Reglamento n.º 910/2014).
 
 4.2.2 Requisitos de acceso [op.acc.2].
 
@@ -477,61 +496,72 @@ c) Capacidad de autorizar. Sólo y exclusivamente el personal con competencia pa
 
 4.2.5 Mecanismo de autenticación [op.acc.5].
 
-| dimensiones | I C A T |
+| dimensiones | ICAT |
 | --- | --- |
 | nivel | bajo | medio | alto |
 |  | aplica | + | ++ |
 
-Los mecanismos de autenticación frente al sistema se adecuarán al nivel del sistema atendiendo a las consideraciones que siguen.
+Los mecanismos de autenticación frente al sistema se adecuarán al nivel del sistema atendiendo a las consideraciones que siguen, pudiendo usarse los siguientes factores de autenticación:
 
-Las guías CCN-STIC desarrollarán los mecanismos concretos adecuados a cada nivel.
+– "algo que se sabe": contraseñas o claves concertadas.
+
+– "algo que se tiene": componentes lógicos (tales como certificados software) o dispositivos físicos (en expresión inglesa, tokens).
+
+– "algo que se es": elementos biométricos.
+
+Los factores anteriores podrán utilizarse de manera aislada o combinarse para generar mecanismos de autenticación fuerte.
+
+Las guías CCN-STIC desarrollarán los mecanismos concretos adecuados para cada nivel.
+
+Las instancias del factor o los factores de autenticación que se utilicen en el sistema, se denominarán credenciales.
+
+Antes de proporcionar las credenciales de autenticación a los usuarios, estos deberán haberse identificado y registrado de manera fidedigna ante el sistema o ante un proveedor de identidad electrónica reconocido por la Administración. Se contemplan varias posibilidades de registro de los usuarios:
+
+– Mediante la presentación física del usuario y verificación de su identidad acorde a la legalidad vigente, ante un funcionario habilitado para ello.
+
+– De forma telemática, mediante DNI electrónico o un certificado electrónico cualificado.
+
+– De forma telemática, utilizando otros sistemas admitidos legalmente para la identificación de los ciudadanos de los contemplados en la normativa de aplicación.
 
 Nivel BAJO
 
-a) Se admitirá el uso de cualquier mecanismo de autenticación: claves concertadas, o dispositivos físicos (en expresión inglesa »tokens») o componentes lógicos tales como certificados software u otros equivalentes o mecanismos biométricos.
+a) Como principio general, se admitirá el uso de cualquier mecanismo de autenticación sustentado en un solo factor.
 
-b) En el caso de usar contraseñas se aplicarán reglas básicas de calidad de las mismas.
+b) En el caso de utilizarse como factor "algo que se sabe", se aplicarán reglas básicas de calidad de la misma.
 
-c) Se atenderá a la seguridad de los autenticadores de forma que:
+c) Se atenderá a la seguridad de las credenciales de forma que:
 
-1.º Los autenticadores se activarán una vez estén bajo el control efectivo del usuario.
+1. Las credenciales se activarán una vez estén bajo el control efectivo del usuario.
 
-2.º Los autenticadores estarán bajo el control exclusivo del usuario.
+2. Las credenciales estarán bajo el control exclusivo del usuario.
 
-3.º El usuario reconocerá que los ha recibido y que conoce y acepta las obligaciones que implica su tenencia, en particular el deber de custodia diligente, protección de su confidencialidad e información inmediata en caso de pérdida.
+3. El usuario reconocerá que las ha recibido y que conoce y acepta las obligaciones que implica su tenencia, en particular, el deber de custodia diligente, protección de su confidencialidad e información inmediata en caso de pérdida.
 
-4.º Los autenticadores se cambiarán con una periodicidad marcada por la política de la organización, atendiendo a la categoría del sistema al que se accede.
+4. Las credenciales se cambiarán con una periodicidad marcada por la política de la organización, atendiendo a la categoría del sistema al que se accede.
 
-5.º Los autenticadores se retirarán y serán deshabilitados cuando la entidad (persona, equipo o proceso) que autentican termina su relación con el sistema.
+5. Las credenciales se retirarán y serán deshabilitadas cuando la entidad (persona, equipo o proceso) que autentican termina su relación con el sistema.
 
 Nivel MEDIO
 
-a) No se recomendará el uso de claves concertadas.
+a) Se exigirá el uso de al menos dos factores de autenticación.
 
-b) Se recomendará el uso de otro tipo de mecanismos del tipo dispositivos físicos (tokens) o componentes lógicos tales como certificados software u otros equivalentes o biométricos.
+b) En el caso de utilización de "algo que se sabe" como factor de autenticación, se establecerán exigencias rigurosas de calidad y renovación.
 
-c) En el caso de usar contraseñas se aplicarán políticas rigurosas de calidad de la contraseña y renovación frecuente.
+c) Las credenciales utilizadas deberán haber sido obtenidas tras un registro previo:
+
+1. Presencial.
+
+2. Telemático usando certificado electrónico cualificado.
+
+3. Telemático mediante una autenticación con una credencial electrónica obtenida tras un registro previo presencial o telemático usando certificado electrónico cualificado en dispositivo cualificado de creación de firma.
 
 Nivel ALTO
 
-a) Los autenticadores se suspenderán tras un periodo definido de no utilización.
+a) Las credenciales se suspenderán tras un periodo definido de no utilización.
 
-b) No se admitirá el uso de claves concertadas.
+b) En el caso del uso de utilización de "algo que se tiene", se requerirá el uso de elementos criptográficos hardware usando algoritmos y parámetros acreditados por el Centro Criptológico Nacional.
 
-c) Se exigirá el uso de dispositivos físicos (tokens) personalizados o biometría.
-
-d) En el caso de utilización de dispositivos físicos (tokens) se emplearán algoritmos acreditados por el Centro Criptológico Nacional.
-
-e) Se emplearán, preferentemente, productos certificados [op.pl.5].
-
-Tabla resumen de mecanismos de autenticación admisibles
-
-|  |  | Nivel |
-| --- | --- | --- |
-|  |  | BAJO | MEDIO | ALTO |
-| algo que se sabe | claves concertadas | sí | Con cautela | no |
-| algo que se tiene | Tokens | si | sí | criptográficos |
-| algo que se es | Biometría | sí | sí | + doble factor |
+c) Las credenciales utilizadas deberán haber sido obtenidas tras un registro previo presencial o telemático usando certificado electrónico cualificado en dispositivo cualificado de creación de firma.
 
 4.2.6 Acceso local [op.acc.6].
 
@@ -619,7 +649,7 @@ c) Se aplicará la regla de «seguridad por defecto»:
 
 4.3.3 Gestión de la configuración [op.exp.3].
 
-| dimensiones | todas |
+| dimensiones | Todas |
 | --- | --- |
 | categoría | básica | media | alta |
 |  | no aplica | aplica | = |
@@ -628,15 +658,15 @@ Categoría MEDIA
 
 Se gestionará de forma continua la configuración de los componentes del sistema de forma que:
 
-a) Se mantenga en todo momento la regla de «funcionalidad mínima» ([op.exp.2]).
+a) Se mantenga en todo momento la regla de "funcionalidad mínima" ([op.exp.2]).
 
-b) Se mantenga en todo momento la regla de «seguridad por defecto» ([op.exp.2]).
+b) Se mantenga en todo momento la regla de "seguridad por defecto" ([op.exp.2]).
 
 c) El sistema se adapte a las nuevas necesidades, previamente autorizadas ([op.acc.4]).
 
 d) El sistema reaccione a vulnerabilidades reportadas ([op.exp.4]).
 
-e) El sistema reaccione a incidencias (ver [op.exp.7]).
+e) El sistema reaccione a incidentes (ver [op.exp.7]).
 
 4.3.4 Mantenimiento [op.exp.4].
 
@@ -683,9 +713,9 @@ Se considera código dañino: los virus, los gusanos, los troyanos, los programa
 
 Se dispondrá de mecanismos de prevención y reacción frente a código dañino con mantenimiento de acuerdo a las recomendaciones del fabricante.
 
-4.3.7 Gestión de incidencias [op.exp.7].
+4.3.7 Gestión de incidentes [op.exp.7].
 
-| dimensiones | todas |
+| dimensiones | Todas |
 | --- | --- |
 | categoría | básica | media | alta |
 |  | no aplica | aplica | = |
@@ -694,7 +724,7 @@ Categoría MEDIA
 
 Se dispondrá de un proceso integral para hacer frente a los incidentes que puedan tener un impacto en la seguridad del sistema, incluyendo:
 
-a) Procedimiento de reporte de incidentes reales o sospechosos, detallando el escalado de la notificación.
+a) Procedimiento de reporte de eventos de seguridad y debilidades, detallando los criterios de clasificación y el escalado de la notificación.
 
 b) Procedimiento de toma de medidas urgentes, incluyendo la detención de servicios, el aislamiento del sistema afectado, la recogida de evidencias y protección de los registros, según convenga al caso.
 
@@ -704,11 +734,11 @@ d) Procedimientos para informar a las partes interesadas, internas y externas.
 
 e) Procedimientos para:
 
-1.º Prevenir que se repita el incidente.
+1. Prevenir que se repita el incidente.
 
-2.º Incluir en los procedimientos de usuario la identificación y forma de tratar el incidente.
+2. Incluir en los procedimientos de usuario la identificación y forma de tratar el incidente.
 
-3.º Actualizar, extender, mejorar u optimizar los procedimientos de resolución de incidencias.
+3. Actualizar, extender, mejorar u optimizar los procedimientos de resolución de incidentes.
 
 La gestión de incidentes que afecten a datos de carácter personal tendrá en cuenta lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, y normas de desarrollo, sin perjuicio de cumplir, además, las medidas establecidas por este real decreto.
 
@@ -717,36 +747,46 @@ La gestión de incidentes que afecten a datos de carácter personal tendrá en c
 | dimensiones | T |
 | --- | --- |
 | nivel | bajo | medio | alto |
-|  | no aplica | no aplica | aplica |
+|  | aplica | + | ++ |
+
+Se registrarán las actividades de los usuarios en el sistema, de forma que:
+
+a) El registro indicará quién realiza la actividad, cuándo la realiza y sobre qué información.
+
+b) Se incluirá la actividad de los usuarios y, especialmente, la de los operadores y administradores en cuanto puedan acceder a la configuración y actuar en el mantenimiento del sistema.
+
+c) Deberán registrarse las actividades realizadas con éxito y los intentos fracasados.
+
+d) La determinación de qué actividades deben registrarse y con qué niveles de detalle se adoptará a la vista del análisis de riesgos realizado sobre el sistema ([op.pl.1]).
+
+Nivel BAJO
+
+Se activarán los registros de actividad en los servidores.
+
+Nivel MEDIO
+
+Se revisarán informalmente los registros de actividad buscando patrones anormales.
 
 Nivel ALTO
 
-Se registrarán todas las actividades de los usuarios en el sistema, de forma que:
+Se dispondrá de un sistema automático de recolección de registros y correlación de eventos; es decir, una consola de seguridad centralizada.
 
-a) El registro indicará quién realiza la actividad, cuando la realiza y sobre qué información.
+4.3.9 Registro de la gestión de incidentes [op.exp.9].
 
-b) Se incluirá la actividad de los usuarios y, especialmente, la de los operadores y administradores del sistema en cuanto pueden acceder a la configuración y actuar en el mantenimiento del mismo.
-
-c) Deben registrarse las actividades realizadas con éxito y los intentos fracasados.
-
-d) La determinación de qué actividades debe en registrarse y con qué niveles de detalle se determinará a la vista del análisis de riesgos realizado sobre el sistema ([op.pl.1]).
-
-4.3.9 Registro de la gestión de incidencias [op.exp.9].
-
-| dimensiones | todas |
+| dimensiones | Todas |
 | --- | --- |
 | categoría | básica | media | alta |
 |  | no aplica | aplica | = |
 
 Categoría MEDIA
 
-Se registrarán todas las actuaciones relacionadas con la gestión de incidencias, de forma que:
+Se registrarán todas las actuaciones relacionadas con la gestión de incidentes, de forma que:
 
 a) Se registrará el reporte inicial, las actuaciones de emergencia y las modificaciones del sistema derivadas del incidente.
 
 b) Se registrará aquella evidencia que pueda, posteriormente, sustentar una demanda judicial, o hacer frente a ella, cuando el incidente pueda llevar a actuaciones disciplinarias sobre el personal interno, sobre proveedores externos o a la persecución de delitos. En la determinación de la composición y detalle de estas evidencias, se recurrirá a asesoramiento legal especializado.
 
-c) Como consecuencia del análisis de las incidencias, se revisará la determinación de los eventos auditables.
+c) Como consecuencia del análisis de los incidentes, se revisará la determinación de los eventos auditables.
 
 4.3.10 Protección de los registros de actividad [op.exp.10].
 
@@ -769,7 +809,7 @@ d) Las copias de seguridad, si existen, se ajustarán a los mismos requisitos.
 
 4.3.11 Protección de claves criptográficas [op.exp.11].
 
-| dimensiones | todas |
+| dimensiones | Todas |
 | --- | --- |
 | categoría | básica | media | alta |
 |  | aplica | + | = |
@@ -784,7 +824,7 @@ b) Las claves retiradas de operación que deban ser archivadas, lo serán en med
 
 Categoría MEDIA
 
-a) Se usarán programas evaluados o dispositivos criptográficos certificados.
+a) Se usarán programas evaluados o dispositivos criptográficos certificados conforme a lo establecido en [op.pl.5].
 
 b) Se emplearán algoritmos acreditados por el Centro Criptológico Nacional.
 
@@ -809,7 +849,7 @@ Previa a la utilización de recursos externos se establecerán contractualmente 
 
 4.4.2 Gestión diaria [op.ext.2].
 
-| dimensiones | todas |
+| dimensiones | Todas |
 | --- | --- |
 | categoría | básica | media | alta |
 |  | no aplica | aplica | = |
@@ -822,7 +862,7 @@ a) Un sistema rutinario para medir el cumplimiento de las obligaciones de servic
 
 b) El mecanismo y los procedimientos de coordinación para llevar a cabo las tareas de mantenimiento de los sistemas afectados por el acuerdo.
 
-c) El mecanismo y los procedimientos de coordinación en caso de incidencias y desastres (ver [op.exp.7]).
+c) El mecanismo y los procedimientos de coordinación en caso de incidentes y desastres (ver [op.exp.7]).
 
 4.4.3 Medios alternativos [op.ext.9].
 
@@ -890,31 +930,41 @@ El sistema estará sujeto a medidas de monitorización de su actividad.
 
 4.6.1 Detección de intrusión [op.mon.1].
 
-| dimensiones | todas |
+| dimensiones | Todas |
 | --- | --- |
 | categoría | básica | media | alta |
-|  | no aplica | no aplica | aplica |
+|  | no aplica | aplica | = |
 
-Categoría ALTA
+Categoría MEDIA
 
 Se dispondrán de herramientas de detección o de prevención de intrusión.
 
 4.6.2 Sistema de métricas [op.mon.2].
 
-| dimensiones | todas |
+| dimensiones | Todas |
 | --- | --- |
 | categoría | básica | media | alta |
-|  | no aplica | no aplica | aplica |
+|  | aplica | + | ++ |
+
+Categoría BÁSICA:
+
+Se recopilarán los datos necesarios atendiendo a la categoría del sistema para conocer el grado de implantación de las medidas de seguridad que apliquen de las detalladas en el Anexo II y, en su caso, para proveer el informe anual requerido por el artículo 35.
+
+Categoría MEDIA:
+
+Además, se recopilaran datos para valorar el sistema de gestión de incidentes, permitiendo conocer
+
+– Número de incidentes de seguridad tratados.
+
+– Tiempo empleado para cerrar el 50% de los incidentes.
+
+– Tiempo empleado para cerrar el 90% de las incidentes.
 
 Categoría ALTA
 
-Se establecerá un conjunto de indicadores que mida el desempeño real del sistema en materia de seguridad, en los siguientes aspectos:
+Se recopilarán datos para conocer la eficiencia del sistema de seguridad TIC:
 
-a) Grado de implantación de las medidas de seguridad.
-
-b) Eficacia y eficiencia de las medidas de seguridad.
-
-c) Impacto de los incidentes de seguridad.
+– Recursos consumidos: horas y presupuesto.
 
 ## 5. Medidas de protección [mp]
 
@@ -1064,7 +1114,7 @@ c) Se establecerá el procedimiento de resolución de incidentes relacionados co
 
 5.2.3 Concienciación [mp.per.3].
 
-| dimensiones | todas |
+| dimensiones | Todas |
 | --- | --- |
 | categoría | básica | media | alta |
 |  | aplica | = | = |
@@ -1077,7 +1127,7 @@ a) La normativa de seguridad relativa al buen uso de los sistemas.
 
 b) La identificación de incidentes, actividades o comportamientos sospechosos que deban ser reportados para su tratamiento por personal especializado.
 
-c) El procedimiento de reporte de incidencias de seguridad, sean reales o falsas alarmas.
+c) El procedimiento de reporte de incidentes de seguridad, sean reales o falsas alarmas.
 
 5.2.4 Formación [mp.per.4].
 
@@ -1139,22 +1189,22 @@ Pasado un cierto tiempo, superior al anterior, se cancelarán las sesiones abier
 
 5.3.3 Protección de portátiles [mp.eq.3].
 
-| dimensiones | todas |
+| dimensiones | Todas |
 | --- | --- |
 | categoría | básica | media | alta |
 |  | aplica | = | + |
 
 Categoría BÁSICA
 
-Los equipos que abandonen las instalaciones de la organización y no puedan beneficiarse de la protección física correspondiente, con un riesgo manifiesto de pérdida o robo, serán protegidos adecuadamente.
+Los equipos que sean susceptibles de salir de las instalaciones de la organización y no puedan beneficiarse de la protección física correspondiente, con un riesgo manifiesto de pérdida o robo, serán protegidos adecuadamente.
 
 Sin perjuicio de las medidas generales que les afecten, se adoptarán las siguientes:
 
 a) Se llevará un inventario de equipos portátiles junto con una identificación de la persona responsable del mismo y un control regular de que está positivamente bajo su control.
 
-b) Se establecerá un canal de comunicación para informar, al servicio de gestión de incidencias, de pérdidas o sustracciones.
+b) Se establecerá un canal de comunicación para informar, al servicio de gestión de incidentes, de pérdidas o sustracciones.
 
-c) Se establecerá un sistema de protección perimetral que minimice la visibilidad exterior y controle las opciones de acceso al interior cuando el equipo se conecte a redes, en particular si el equipo se conecta a redes públicas.
+c) Cuando un equipo portátil se conecte remotamente a través de redes que no están bajo el estricto control de la organización, el ámbito de operación del servidor limitará la información y los servicios accesibles a los mínimos imprescindibles, requiriendo autorización previa de los responsables de la información y los servicios afectados. Este punto es de aplicación a conexiones a través de Internet y otras redes que no sean de confianza.
 
 d) Se evitará, en la medida de lo posible, que el equipo contenga claves de acceso remoto a la organización. Se considerarán claves de acceso remoto aquellas que sean capaces de habilitar un acceso a otros equipos de la organización, u otras de naturaleza análoga.
 
@@ -1211,7 +1261,7 @@ Nivel ALTO
 
 a) Se emplearán, preferentemente, dispositivos hardware en el establecimiento y utilización de la red privada virtual.
 
-b) Se emplearán, preferentemente, productos certificados [op.pl.5].
+b) Se emplearán productos certificados conforme a lo establecido en [op.pl.5].
 
 5.4.3 Protección de la autenticidad y de la integridad [mp.com.3].
 
@@ -1222,15 +1272,17 @@ b) Se emplearán, preferentemente, productos certificados [op.pl.5].
 
 Nivel BAJO
 
-a) Se asegurará la autenticidad del otro extremo de un canal de comunicación antes de intercambiar información alguna (ver [op.acc.5]).
+a) Se asegurará la autenticidad del otro extremo de un canal de comunicación antes de intercambiar información (ver [op.acc.5]).
 
 b) Se prevendrán ataques activos, garantizando que al menos serán detectados. y se activarán los procedimientos previstos de tratamiento del incidente Se considerarán ataques activos:
 
-1.º La alteración de la información en transito
+1. La alteración de la información en tránsito.
 
-2.º La inyección de información espuria
+2. La inyección de información espuria.
 
-3.º El secuestro de la sesión por una tercera parte
+3. El secuestro de la sesión por una tercera parte.
+
+c) Se aceptará cualquier mecanismo de autenticación de los previstos en normativa de aplicación.
 
 Nivel MEDIO
 
@@ -1238,11 +1290,15 @@ a) Se emplearán redes privadas virtuales cuando la comunicación discurra por r
 
 b) Se emplearán algoritmos acreditados por el Centro Criptológico Nacional.
 
+c) Se aceptará cualquier mecanismo de autenticación de los previstos en la normativa de aplicación. En caso de uso de claves concertadas se aplicarán exigencias medias en cuanto a su calidad frente a ataques de adivinación, diccionario o fuerza bruta.
+
 Nivel ALTO
 
-a) Se valorará positivamente en empleo de dispositivos hardware en el establecimiento y utilización de la red privada virtual.
+a) Se valorará positivamente el empleo de dispositivos hardware en el establecimiento y utilización de la red privada virtual.
 
-b) Se emplearán, preferentemente, productos certificados [op.pl.5].
+b) Se emplearán productos certificados conforme a lo establecido en [op.pl.5].
+
+c) Se aceptará cualquier mecanismo de autenticación de los previstos en normativa de aplicación. En caso de uso de claves concertadas se aplicarán exigencias altas en cuanto a su calidad frente a ataques de adivinación, diccionario o fuerza bruta.
 
 5.4.4 Segregación de redes [mp.com.4].
 
@@ -1291,7 +1347,7 @@ Los soportes de información se etiquetarán de forma que, sin revelar su conten
 
 Los usuarios han de estar capacitados para entender el significado de las etiquetas, bien mediante simple inspección, bien mediante el recurso a un repositorio que lo explique.
 
-5.5.2 Criptografía. [mp.si.2].
+5.5.2 Criptografía [mp.si.2].
 
 | dimensiones | I C |
 | --- | --- |
@@ -1308,7 +1364,7 @@ Nivel ALTO
 
 a) Se emplearán algoritmos acreditados por el Centro Criptológico Nacional.
 
-b) Se emplearán, preferentemente, productos certificados [op.pl.5].
+b) Se emplearán productos certificados conforme a lo establecido en [op.pl.5].
 
 5.5.3 Custodia [mp.si.3].
 
@@ -1346,32 +1402,34 @@ e) Se gestionarán las claves según [op.exp.11].
 
 5.5.5 Borrado y destrucción [mp.si.5].
 
-| dimensiones | C |
+| dimensiones | D |
 | --- | --- |
 | nivel | bajo | medio | alto |
-|  | no aplica | aplica | = |
-
-Nivel MEDIO
+|  | no aplica | + | = |
 
 La medida de borrado y destrucción de soportes de información se aplicará a todo tipo de equipos susceptibles de almacenar información, incluyendo medios electrónicos y no electrónicos.
 
-a) Los soportes que vayan a ser reutilizados para otra información o liberados a otra organización serán objeto de un borrado seguro de su anterior contenido.
+Nivel BAJO
+
+a) Los soportes que vayan a ser reutilizados para otra información o liberados a otra organización serán objeto de un borrado seguro de su contenido.
+
+Nivel MEDIO
 
 b) Se destruirán de forma segura los soportes, en los siguientes casos:
 
-1.º Cuando la naturaleza del soporte no permita un borrado seguro.
+1. Cuando la naturaleza del soporte no permita un borrado seguro.
 
-2.º Cuando así lo requiera el procedimiento asociado al tipo de la información contenida,.
+2. Cuando así lo requiera el procedimiento asociado al tipo de información contenida.
 
-c) Se emplearán, preferentemente, productos certificados [op.pl.5].
+c) Se emplearán productos certificados conforme a lo establecido en ([op. pl.5]).
 
 5.6 Protección de las aplicaciones informáticas [mp.sw].
 
 5.6.1 Desarrollo de aplicaciones [mp.sw.1].
 
-| dimensiones | todas |
+| dimensiones | Todas |
 | --- | --- |
-| categoría | básica | media | alta |
+| categoría | bajo | medio | alto |
 |  | no aplica | aplica | = |
 
 Categoría MEDIA
@@ -1385,6 +1443,8 @@ b) Se aplicará una metodología de desarrollo reconocida que:
 2.º Trate específicamente los datos usados en pruebas.
 
 3.º Permita la inspección del código fuente.
+
+4.º Incluya normas de programación segura.
 
 c) Los siguientes elementos serán parte integral del diseño del sistema:
 
@@ -1505,53 +1565,39 @@ c) Para el uso de criptografía en los soportes de información, se estará a lo
 | nivel | bajo | medio | alto |
 |  | aplica | + | ++ |
 
-La firma electrónica es un mecanismo de prevención del repudio; es decir, previene frente a la posibilidad de que en el futuro el signatario pudiera desdecirse de la información firmada.
+Se empleará la firma electrónica como un instrumento capaz de permitir la comprobación de la autenticidad de la procedencia y la integridad de la información ofreciendo las bases para evitar el repudio.
 
-La firma electrónica garantiza la autenticidad del signatario y la integridad del contenido.
+La integridad y la autenticidad de los documentos se garantizarán por medio de firmas electrónicas con los condicionantes que se describen a continuación, proporcionados a los niveles de seguridad requeridos por el sistema.
 
-Cuando se emplee firma electrónica:
-
-a) El signatario será la parte que se hace responsable de la información, en la medida de sus atribuciones.
-
-b) Se dispondrá de una Política de Firma Electrónica, aprobada por el órgano superior competente que corresponda.
+En el caso de que se utilicen otros mecanismos de firma electrónica sujetos a derecho, el sistema debe incorporar medidas compensatorias suficientes que ofrezcan garantías equivalentes o superiores en lo relativo a prevención del repudio, usando el procedimiento previsto en el punto 5 del artículo 27.
 
 Nivel BAJO
 
-Se empleará cualquier medio de firma electrónica de los previstos en la legislación vigente.
+Se empleará cualquier tipo de firma electrónica de los previstos en la legislación vigente.
 
 Nivel MEDIO
 
-1. Los medios utilizados en la firma electrónica serán proporcionados a la calificación de la información tratada. En todo caso:
+a) Cuando se empleen sistemas de firma electrónica avanzada basados en certificados, estos serán cualificados.
 
-a) Se emplearán algoritmos acreditados por el Centro Criptológico Nacional.
+b) Se emplearán algoritmos y parámetros acreditados por el Centro Criptológico Nacional.
 
-b) Se emplearán, preferentemente, certificados reconocidos.
+c) Se garantizará la verificación y validación de la firma electrónica durante el tiempo requerido por la actividad administrativa que aquélla soporte, sin perjuicio de que se pueda ampliar este período de acuerdo con lo que establezca la Política de Firma Electrónica y de Certificados que sea de aplicación. Para tal fin:
 
-c) Se emplearán, preferentemente, dispositivos seguros de firma.
+d) Se adjuntará a la firma, o se referenciará, toda la información pertinente para su verificación y validación:
 
-2. Se garantizará la verificación y validación de la firma electrónica durante el tiempo requerido por la actividad administrativa que aquélla soporte, sin perjuicio de que se pueda ampliar este período de acuerdo con lo que establezca la política de firma electrónica y de certificados que sea de aplicación. Para tal fin:
+1. Certificados.
 
-a) Se adjuntará a la firma, o se referenciará, toda la información pertinente para su verificación y validación:
+2. Datos de verificación y validación.
 
-1.º Certificados.
+e) El organismo que recabe documentos firmados por el administrado verificará y validará la firma recibida en el momento de la recepción, anexando o referenciando sin ambigüedad la información descrita en los epígrafes 1 y 2 del apartado d).
 
-2.º Datos de verificación y validación.
-
-b) Se protegerán la firma y la información mencionada en el apartado anterior con un sello de tiempo.
-
-c) El organismo que recabe documentos firmados por el administrado verificará y validará la firma recibida en el momento de la recepción, anexando o referenciando sin ambigüedad la información descrita en los epígrafes a) y b).
-
-d) La firma electrónica de documentos por parte de la Administración anexará o referenciará sin ambigüedad la información descrita en los epígrafes a) y b).
+f) La firma electrónica de documentos por parte de la Administración anexará o referenciará sin ambigüedad la información descrita en los epígrafes 1 y 2.
 
 Nivel ALTO
 
-Se aplicarán las medidas de seguridad referentes a firma electrónica exigibles en la nivel Medio, además de las siguientes:
+1. Se usará firma electrónica cualificada, incorporando certificados cualificados y dispositivos cualificados de creación de firma.
 
-a) Se usarán certificados reconocidos.
-
-b) Se usarán dispositivos seguros de creación de firma.
-
-c) Se emplearán, preferentemente, productos certificados [op.pl.5].
+2. Se emplearán productos certificados conforme a lo establecido en [op.pl.5].
 
 5.7.5 Sellos de tiempo [mp.info.5].
 
@@ -1570,9 +1616,9 @@ Los sellos de tiempo prevendrán la posibilidad del repudio posterior:
 
 3. Se renovarán regularmente los sellos de tiempo hasta que la información protegida ya no sea requerida por el proceso administrativo al que da soporte.
 
-4. Se utilizarán productos certificados (según [op.pl.5]) o servicios externos admitidos.
+4. Se utilizarán productos certificados (según [op.pl.5]) o servicios externos admitidos (véase [op.exp.10]).
 
-Véase [op.exp.10].
+5. Se emplearán "sellos cualificados de tiempo electrónicos" acordes con la normativa europea en la materia.
 
 5.7.6 Limpieza de documentos [mp.info.6].
 
@@ -1598,23 +1644,21 @@ c) A la buena imagen de la organización que difunde el documento por cuanto dem
 | dimensiones | D |
 | --- | --- |
 | nivel | bajo | medio | alto |
-|  | no aplica | aplica | = |
+|  | aplica | = | = |
 
-Nivel MEDIO
+Se realizarán copias de seguridad que permitan recuperar datos perdidos, accidental o intencionadamente con una antigüedad determinada.
 
-Se realizarán copias de respaldo que permitan recuperar datos perdidos accidental o intencionadamente con una antigüedad determinada.
+Estas copias poseerán el mismo nivel de seguridad que los datos originales en lo que se refiere a integridad, confidencialidad, autenticidad y trazabilidad. En particular, se considerará la conveniencia o necesidad, según proceda, de que las copias de seguridad estén cifradas para garantizar la confidencialidad.
 
-Las copias de respaldo disfrutarán de la misma seguridad que los datos originales en lo que se refiere a integridad, confidencialidad, autenticidad y trazabilidad. En particular, se considerará la conveniencia o necesidad de que las copias de seguridad estén cifradas para garantizar la confidencialidad.
+Las copias de seguridad deberán abarcar:
 
-Las copias de respaldo deberán abarcar:
+g) Información de trabajo de la organización.
 
-a) Información de trabajo de la organización.
+h) Aplicaciones en explotación, incluyendo los sistemas operativos.
 
-b) Aplicaciones en explotación, incluyendo los sistemas operativos.
+i) Datos de configuración, servicios, aplicaciones, equipos, u otros de naturaleza análoga.
 
-c) Datos de configuración, servicios, aplicaciones, equipos, u otros de naturaleza análoga.
-
-d) Claves utilizadas para preservar la confidencialidad de la información.
+j) Claves utilizadas para preservar la confidencialidad de la información.
 
 5.8 Protección de los servicios [mp.s].
 
@@ -1647,10 +1691,10 @@ d) Se establecerán normas de uso del correo electrónico por parte del personal
 
 5.8.2 Protección de servicios y aplicaciones web [mp.s.2].
 
-| dimensiones | todas |
+| dimensiones | Todas |
 | --- | --- |
-| categoría | básica | media | alta |
-|  | aplica | = | = |
+| nivel | básica | media | alta |
+|  | aplica | = | + |
 
 Los subsistemas dedicados a la publicación de información deberán ser protegidos frente a las amenazas que les son propias.
 
@@ -1660,15 +1704,23 @@ a) Cuando la información tenga algún tipo de control de acceso, se garantizar�
 
 2.º Se prevendrán ataques de manipulación de URL.
 
-3.º Se prevendrán ataques de manipulación de fragmentos de información que se almacena en el disco duro del visitante de una página web a través de su navegador, a petición del servidor de la página, conocido en terminología inglesa como «cookies».
+3.º Se prevendrán ataques de manipulación de fragmentos de información que se almacena en el disco duro del visitante de una página web a través de su navegador, a petición del servidor de la página, conocido en terminología inglesa como "cookies".
 
 4.º Se prevendrán ataques de inyección de código.
 
 b) Se prevendrán intentos de escalado de privilegios.
 
-c) Se prevendrán ataques de «cross site scripting».
+c) Se prevendrán ataques de "cross site scripting".
 
-d) Se prevendrán ataques de manipulación de programas o dispositivos que realizan una acción en representación de otros, conocidos en terminología inglesa como «proxies» y, sistemas especiales de almacenamiento de alta velocidad, conocidos en terminología inglesa como «cachés».
+d) Se prevendrán ataques de manipulación de programas o dispositivos que realizan una acción en representación de otros, conocidos en terminología inglesa como "proxies" y, sistemas especiales de almacenamiento de alta velocidad, conocidos en terminología inglesa como "cachés".
+
+Nivel BAJO
+
+Se emplearán "certificados de autenticación de sitio web" acordes a la normativa europea en la materia.
+
+Nivel ALTO
+
+Se emplearán "certificados cualificados de autenticación del sitio web" acordes a la normativa europea en la materia.
 
 5.8.3 Protección frente a la denegación de servicio [mp.s.8].
 
@@ -1711,5 +1763,7 @@ Las medidas de seguridad se desarrollarán y complementarán según lo estableci
 ## 7. Interpretación
 
 La interpretación del presente anexo se realizará según el sentido propio de sus palabras, en relación con el contexto, antecedentes históricos y legislativos, entre los que figura lo dispuesto en las instrucciones técnicas CCN-STIC correspondientes a la implementación y a diversos escenarios de aplicación tales como sedes electrónicas, servicios de validación de certificados electrónicos, servicios de fechado electrónico y validación de documentos fechados, atendiendo el espíritu y finalidad de aquellas.
+
+> Se modifican los apartados 2 a 5 por el art. único.13 y 14 del Real Decreto 951/2015, de 23 de octubre. Ref. BOE-A-2015-11881.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 61, de 11 de marzo de 2010. Ref. BOE-A-2010-4054

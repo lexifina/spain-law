@@ -1,5 +1,7 @@
-## Disposición adicional segunda. Instituto Nacional de Tecnologías de la Comunicación (INTECO) y organismos análogos.
+## Disposición adicional segunda. Comité de Seguridad de la Información de las Administraciones Públicas.
 
-El Instituto Nacional de Tecnologías de la Comunicación (INTECO), como centro de excelencia promovido por el Ministerio de Industria, Turismo y Comercio para el desarrollo de la sociedad del conocimiento, podrá desarrollar proyectos de innovación y programas de investigación dirigidos a la mejor implantación de las medidas de seguridad contempladas en el presente real decreto.
+El Comité de Seguridad de la Información de las Administraciones Públicas, dependiente del Comité Sectorial de Administración electrónica, contará con un representante de cada una de las entidades presentes en dicho Comité Sectorial. Tendrá funciones de cooperación en materias comunes relacionadas con la adecuación e implantación de lo previsto en el Esquema Nacional de Seguridad y en las normas, instrucciones, guías y recomendaciones dictadas para su aplicación.
 
-Asimismo, las Administraciones públicas podrán disponer de entidades análogas para llevar a cabo dichas actividades u otras adicionales en el ámbito de sus competencias.
+> Se modifica por el art. único.11 del Real Decreto 951/2015, de 23 de octubre. Ref. BOE-A-2015-11881.
+
+> Su anterior numeración era la disposición adicional 3.

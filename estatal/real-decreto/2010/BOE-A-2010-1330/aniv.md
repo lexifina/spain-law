@@ -18,7 +18,7 @@ Disponibilidad. Propiedad o característica de los activos consistente en que la
 
 Firma electrónica. Conjunto de datos en forma electrónica, consignados junto a otros o asociados con ellos, que pueden ser utilizados como medio de identificación del firmante.
 
-Gestión de incidentes. Plan de acción para atender a las incidencias que se den. Además de resolverlas debe incorporar medidas de desempeño que permitan conocer la calidad del sistema de protección y detectar tendencias antes de que se conviertan en grandes problemas.
+Gestión de incidentes. Plan de acción para atender a los incidentes que se den. Además de resolverlos debe incorporar medidas de desempeño que permitan conocer la calidad del sistema de protección y detectar tendencias antes de que se conviertan en grandes problemas.
 
 Gestión de riesgos. Actividades coordinadas para dirigir y controlar una organización con respecto a los riesgos.
 
@@ -63,3 +63,5 @@ CERT: Computer Emergency Reaction Team.
 INTECO: Instituto Nacional de Tecnologías de la Comunicación.
 
 STIC: Seguridad de las Tecnologías de Información y Comunicaciones.
+
+> Se modifica la definición "Gestión de incidentes" por el art. único.16 del Real Decreto 951/2015, de 23 de octubre. Ref. BOE-A-2015-11881.
