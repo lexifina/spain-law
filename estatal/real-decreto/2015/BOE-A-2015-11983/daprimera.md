@@ -1,0 +1,3 @@
+## Disposición adicional primera. Actividades de formación deportiva.
+
+El CESED tendrá la consideración de entidad promotora de actividades de formación deportiva a los efectos de lo establecido en la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, ajustándose a lo establecido para las actividades promovidas por los órganos competentes en materia deportiva de las Comunidades autónomas en la Orden ECD/158/2014, de 5 de febrero, por la que se regulan los aspectos curriculares, los requisitos generales y los efectos de las actividades de formación deportiva, a los que se refiere la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre.
