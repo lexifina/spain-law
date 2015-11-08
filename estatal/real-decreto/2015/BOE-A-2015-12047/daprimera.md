@@ -1,0 +1,5 @@
+## Disposición adicional primera. Pago de tasas.
+
+El pago de la tasa por la iniciación del procedimiento para obtener la nacionalidad española por residencia, prevista en el apartado 4 de la disposición final séptima de la Ley 19/2015, de 13 de julio, de medidas de reforma administrativa en el ámbito de la Administración de Justicia y del Registro Civil, se efectuará por el interesado o por su representante, previa cumplimentación del correspondiente formulario de pago, en la forma que determine el Ministerio de Justicia. El modelo normalizado de pago de la tasa se encontrará disponible en la página web del Ministerio de Justicia.
+
+Dicha tasa no incluye los precios de las pruebas de examen DELE ni de conocimientos constitucionales y socioculturales de España (CCSE), diseñadas y administradas por el Instituto Cervantes de conformidad con el penúltimo párrafo del apartado 3 de la disposición final séptima de la Ley 19/2015, de 13 de julio. Los precios de tales pruebas se regirán por lo establecido en la normativa específica de dicho organismo público.
