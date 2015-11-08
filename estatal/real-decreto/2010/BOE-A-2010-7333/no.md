@@ -1,0 +1,1 @@
+Norma derogada por la disposición derogatoria única.a) del Real Decreto 989/2015, de 30 de octubre. Ref. BOE-A-2015-12054#ddunica, sin perjuicio de su aplicación en los términos previstos en las disposiciones transitorias primera, segunda y tercera y en la disposición final cuarta de la citada norma.

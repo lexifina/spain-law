@@ -1,0 +1,111 @@
+## INSTRUCCIÓN TÉCNICA COMPLEMENTARIA NÚMERO 2
+
+## Requisitos esenciales de seguridad de artificios pirotécnicos, otros artículos pirotécnicos y dispositivos de ignición
+
+1. Objeto
+
+Esta ITC tiene por objeto establecer los requisitos esenciales de seguridad que han de cumplir tanto los artificios de pirotecnia, otros artículos pirotécnicos y los dispositivos de ignición.
+
+2. Requisitos esenciales de seguridad
+
+2.1 Todo artículo pirotécnico deberá cumplir las características de funcionamiento especificadas por el fabricante al organismo notificado con el fin de garantizar la máxima seguridad y fiabilidad.
+
+2.2 Todo artículo pirotécnico deberá diseñarse y fabricarse de tal manera que pueda ser eliminado en condiciones seguras mediante procedimiento adecuado con un impacto mínimo para el medio ambiente.
+
+2.3 Todo artículo pirotécnico deberá funcionar correctamente cuando sea utilizado para los fines previstos.
+
+Todo artículo pirotécnico deberá probarse en condiciones realistas. Si esto no fuera posible en un laboratorio, los ensayos deberán efectuarse en las condiciones correspondientes a la utilización prevista del artículo pirotécnico.
+
+Deberán considerarse o someterse a ensayos, cuando proceda, las siguientes propiedades e información:
+
+a) Diseño, fabricación y propiedades características, incluida la composición química (masa, porcentaje de materias utilizadas) y dimensiones.
+
+b) Estabilidad física y química del artículo pirotécnico en todas las condiciones medioambientales normales o previsibles.
+
+c) Sensibilidad al transporte y a la manipulación en condiciones normales o previsibles.
+
+d) Compatibilidad de todos los componentes en lo que se refiere a su estabilidad química.
+
+e) Resistencia del artículo pirotécnico a la humedad cuando se tenga la intención de utilizarlo en condiciones de humedad o mojado, y cuando su seguridad o fiabilidad puedan verse adversamente afectadas por la humedad.
+
+f) Resistencia a altas y bajas temperaturas cuando se tenga intención de mantener o utilizar el artículo pirotécnico a dichas temperaturas y su seguridad o fiabilidad puedan verse adversamente afectadas al enfriar o calentar un componente o artículo pirotécnico en su conjunto.
+
+g) Dispositivo de seguridad para prevenir una iniciación o ignición fortuita o extemporánea.
+
+h) Instrucciones convenientes y, en su caso, marcados relativas a la seguridad de manipulación, almacenamiento, utilización (incluidas las distancias de seguridad) y eliminación redactadas al menos en castellano.
+
+i) Capacidad del artículo pirotécnico, de su envoltura o de otros componentes para resistir el deterioro en condiciones normales o previsibles de almacenamiento.
+
+j) Indicación de todos los dispositivos y accesorios necesarios e instrucciones de manejo para un funcionamiento fiable y seguro del artículo pirotécnico.
+
+Durante el transporte y las manipulaciones normales, salvo que hayan sido especificadas en las instrucciones del fabricante, los artículos pirotécnicos deberán contener la composición pirotécnica.
+
+2.4 Los artículos pirotécnicos no contendrán explosivos detonantes que no sean pólvora negra o composición detonante, salvo los artículos de las categorías P1, P2 o T2 y los artificios de pirotecnia de la categoría F4 que cumplan las siguientes condiciones:
+
+a) El explosivo detonante no podrá extraerse fácilmente del artículo.
+
+b) En el caso de la categoría P1, el artículo no podrá funcionar con efecto detonante ni podrá, por su diseño y fabricación, iniciar explosivos secundarios.
+
+c) En el caso de las categorías F4, T2 y P2, el artículo no estará diseñado para funcionar con efecto detonante ni destinado a hacerlo o, si está diseñado para detonar, no podrá, por su diseño y fabricación, iniciar explosivos secundarios.
+
+2.5 Los diversos grupos de artículos pirotécnicos deberán asimismo cumplir como mínimo los requisitos siguientes:
+
+A. Artificios de pirotecnia:
+
+1. El fabricante clasificará los artificios de pirotécnica en diferentes categorías de conformidad con el artículo 8 del Reglamento de artículos pirotécnicos y cartuchería, según su contenido neto explosivo, distancia de seguridad, niveles sonoros y similares. La categoría se indicará claramente en la etiqueta:
+
+a) Para los artificios de categoría F1, se deberán cumplir las siguientes condiciones:
+
+i. La distancia de seguridad deberá ser igual o superior a 1 metro. No obstante, si procede, la distancia de seguridad podrá ser inferior.
+
+ii. El nivel sonoro máximo no podrá exceder de los 120 dB (A, imp) o valor equivalente de nivel sonoro medido por otro medio apropiado, a la distancia de seguridad.
+
+iii. La categoría F1 no incluirá petardos, baterías de petardos, petardos de destello ni baterías de petardos de destello.
+
+iv. Los truenos de impacto de categoría F1 no contendrán más de 2,5 mg de fulminato de plata.
+
+b) Para los artificios de pirotecnia de categoría F2, se deberán cumplir las siguientes condiciones:
+
+i. La distancia de seguridad deberá ser igual o superior a 8 metros. No obstante, si procede, la distancia de seguridad podría ser inferior.
+
+ii. El nivel sonoro máximo no podrá exceder de los 120 dB (A, imp) o un valor equivalente de nivel sonoro medido por otro método apropiado, a la distancia de seguridad.
+
+c) Para los artificios de pirotécnica de categoría F3, se deberán cumplir las siguientes condiciones:
+
+i. La distancia de seguridad deberá ser igual o superior a 15 metros. No obstante, si procede, la distancia de seguridad podrá ser inferior.
+
+ii. El nivel sonoro máximo no podrá exceder de los 120 dB (A, imp) o valor equivalente de nivel sonoro medido por otro medio apropiado, a la distancia de seguridad.
+
+2. Los artificios de pirotécnica sólo podrán estar fabricados con materiales que supongan un riesgo mínimo para la salud, la propiedad y el medio ambiente en materia de residuos.
+
+3. El dispositivo de ignición debe ser claramente visible o deberá estar indicado mediante etiquetado o instrucciones.
+
+4. Los artificios de pirotecnia no se moverán de manera errática ni imprevisible.
+
+5. Los artificios de pirotecnia de las categorías F1, F2 y F3 deberán estar protegidos contra la ignición fortuita, bien mediante una cobertura protectora, mediante el embalaje, o bien como parte del diseño del propio producto. Los artificios de pirotecnia de la categoría F4 deberán estar protegidos contra la ignición fortuita por métodos especificados por el fabricante.
+
+B. Otros artículos pirotécnicos:
+
+1. Los artículos pirotécnicos deberán estar diseñados de tal manera que representen un riesgo mínimo para la salud, la propiedad y el medio ambiente en condiciones normales de uso.
+
+2. El dispositivo de ignición deberá ser claramente visible o deberá estar indicado mediante etiquetado o instrucciones.
+
+3. Los artículos pirotécnicos deberán estar diseñados de tal manera que los residuos del producto representen un riesgo mínimo para la salud, la propiedad y el medio ambiente cuando se produzca una iniciación involuntaria.
+
+4. En su caso, el artículo pirotécnico deberá funcionar de manera adecuada hasta la fecha de caducidad del producto especificada por el fabricante.
+
+C. Dispositivos de ignición:
+
+1. Los dispositivos de ignición deberán ser capaces de iniciarse de manera fiable y tener una capacidad de iniciación suficiente en condiciones de uso normales o previsibles.
+
+2. Los dispositivos de ignición deberán estar protegidos contra las descargas electrostáticas en condiciones de almacenamiento y uso normales o previsibles.
+
+3. Los sistemas de ignición electrónica deberán estar protegidos contra los campos electromagnéticos en condiciones de almacenamiento y uso normales o previsibles.
+
+4. La cubierta de las mechas deberá poseer la suficiente resistencia mecánica y proteger adecuadamente el contenido de explosivo cuando se expongan a una tensión mecánica normal o previsible.
+
+5. Los parámetros de los tiempos de combustión de las mechas deberán suministrarse con el artículo pirotécnico.
+
+6. Las características eléctricas (por ejemplo, corriente de no ignición, resistencia, etc.) de los sistemas de ignición eléctrica deberán suministrarse con el artículo pirotécnico.
+
+7. Los cables de los sistemas de ignición eléctrica deberán estar suficientemente aislados y poseer la suficiente resistencia mecánica, incluida la solidez de la unión al iniciador, habida cuenta del uso previsto.
