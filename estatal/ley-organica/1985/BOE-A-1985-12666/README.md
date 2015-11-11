@@ -340,6 +340,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo doscientos treinta y cuatro](adoscientostreintaycuatro.md)
 - [Artículo doscientos treinta y cinco](adoscientostreintaycinco.md)
 - [Artículo doscientos treinta y cinco bis](adoscientostreintaycincobis.md)
+- [Artículo doscientos treinta y cinco ter](adoscientostreintaycincoter.md)
 - [Artículo doscientos treinta y seis](adoscientostreintayseis.md)
 - [CAPÍTULO I BIS](cibis.md)
 - [Artículo doscientos treinta y seis bis](adoscientostreintayseisbis.md)
