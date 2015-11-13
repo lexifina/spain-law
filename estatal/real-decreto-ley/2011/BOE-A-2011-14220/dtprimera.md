@@ -1,3 +1,5 @@
 ## Disposición transitoria primera. Contratos para la formación vigentes.
 
-Los contratos para la formación concertados con anterioridad a la entrada en vigor de este real decreto-ley se regirán por la normativa legal o convencional vigente en la fecha en que se celebraron.
+(Derogada).
+
+> Se deroga por la disposición derogatoria única.5 del Real Decreto Legislativo 2/2015, de 23 de octubre. Ref. BOE-A-2015-11430#ddunica.

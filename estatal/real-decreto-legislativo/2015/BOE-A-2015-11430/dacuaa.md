@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Conceptos retributivos.
+
+Las modificaciones introducidas por la Ley 11/1994, de 19 de mayo, por la que se modifican determinados artículos del Estatuto de los Trabajadores, y del texto articulado de la Ley de Procedimiento Laboral y de la Ley sobre Infracciones y Sanciones en el Orden Social, en la regulación legal del salario no afectarán a los conceptos retributivos que tuvieran reconocidos los trabajadores hasta el 12 de junio de 1994, que se mantendrán en los mismos términos que rigieran en ese momento hasta que por convenio colectivo se establezca un régimen salarial que conlleve la desaparición o modificación de dichos conceptos.

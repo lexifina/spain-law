@@ -1,3 +1,5 @@
 ## Disposición adicional sexta. Medidas de apoyo a la Comisión Consultiva Nacional de Convenios Colectivos.
 
-Para el desarrollo de las funciones establecidas en esta Ley, la Comisión Consultiva Nacional de Convenios Colectivos, adscrita a la Dirección General de Empleo del Ministerio de Empleo y Seguridad Social, será reforzada en sus actuaciones por la citada Dirección General de Empleo, sin perjuicio de lo que se establezca en las normas de desarrollo reglamentario, previa consulta con las organizaciones sindicales y empresariales más representativas.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.6 del Real Decreto Legislativo 2/2015, de 23 de octubre. Ref. BOE-A-2015-11430#ddunica.
