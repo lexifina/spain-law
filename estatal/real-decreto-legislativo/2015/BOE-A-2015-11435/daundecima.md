@@ -1,0 +1,3 @@
+## Disposición adicional undécima. Supervisión de la comisión de auditoría de entidades de interés público.
+
+La supervisión del cumplimiento de lo establecido en la disposición adicional tercera de la Ley 22/2015, de 20 de julio, de Auditoría de cuentas, respecto a la comisión de auditoría de entidades de interés público, corresponde a la Comisión Nacional del Mercado de Valores de conformidad con lo dispuesto en el título VIII de este texto refundido. Esta competencia se entiende sin perjuicio de la que ostenta el Instituto de Contabilidad y Auditoría de Cuentas en materia de supervisión de la actividad de auditoría de cuentas.

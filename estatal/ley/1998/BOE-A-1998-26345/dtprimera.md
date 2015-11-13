@@ -1,3 +1,5 @@
 ## Disposición transitoria primera.
 
-Los valores negociables representados mediante títulos admitidos a cotización en un mercado secundario oficial podrán seguir representados de dicha forma, en tanto la normativa de desarrollo de esta Ley no imponga su representación mediante anotaciones en cuenta.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 4/2015, de 23 de octubre. Ref. BOE-A-2015-11435#ddunica.

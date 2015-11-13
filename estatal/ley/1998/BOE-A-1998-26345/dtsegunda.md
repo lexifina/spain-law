@@ -1,3 +1,5 @@
 ## Disposición transitoria segunda.
 
-Las emisiones de valores de entidades y sociedades públicas distintas de las señaladas en el artículo 55 de esta Ley que se negocian en el Mercado de Deuda Pública en Anotaciones continuarán negociándose en dicho Mercado hasta su vencimiento.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto Legislativo 4/2015, de 23 de octubre. Ref. BOE-A-2015-11435#ddunica.
