@@ -1,3 +1,5 @@
 ## Disposición transitoria duodécima. Entrada en vigor de los nuevos límites para las prestaciones salariales en especie.
 
-Lo previsto en la redacción dada por esta Ley al artículo 26.1 del Estatuto de los Trabajadores será también de aplicación a los contratos de trabajo vigentes a la fecha de entrada en vigor de aquélla, si bien únicamente a partir de dicha fecha.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.4 del Real Decreto Legislativo 2/2015, de 23 de octubre. Ref. BOE-A-2015-11430#ddunica.

@@ -1,5 +1,5 @@
 ## Disposición adicional primera. Identificación de la Conferencia Sectorial de Empleo y Asuntos Laborales.
 
-La Conferencia Sectorial de Asuntos Laborales pasa a denominarse Conferencia Sectorial de Empleo y Asuntos Laborales.
+(Derogada).
 
-En consecuencia con lo anterior, todas las referencias que en la legislación vigente se efectúan a la Conferencia Sectorial de Asuntos Laborales o a sus funciones deben entenderse realizadas a la Conferencia Sectorial de Empleo y Asuntos Laborales.
+> Se deroga por la disposición derogatoria única.c) del Decreto Legislativo 3/2015, de 23 de octubre. Ref. BOE-A-2015-11431#ddunica.

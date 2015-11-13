@@ -6,4 +6,4 @@ Durante el año 2011, su realización estará dirigida prioritariamente a los co
 
 Durante el año 2012, la prioridad en la realización de los itinerarios se determinará en el Plan Anual de Política de Empleo para dicho ejercicio.
 
-A partir de enero de 2013, la elaboración de estos itinerarios se extenderá a toda la población desempleada.
+> Se deroga el último párrafo por la disposición derogatoria única.c) del Decreto Legislativo 3/2015, de 23 de octubre. Ref. BOE-A-2015-11431#ddunica.
