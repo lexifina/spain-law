@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Adaptación de Estatutos.
+
+Las sociedades laborales deberán adaptar sus estatutos a las previsiones de la presente ley en el plazo máximo de dos años desde su entrada en vigor. Transcurrido el plazo, no se inscribirá en el Registro Mercantil documento alguno de la sociedad laboral hasta que no se haya inscrito la adaptación de los estatutos sociales. Se exceptúan de la prohibición de inscripción el acuerdo de adaptación a la presente ley, los títulos relativos al cese o dimisión de administradores, gerentes, directores generales y liquidadores, y la revocación o renuncia de poderes, así como a la transformación de la sociedad o a su disolución, nombramiento de liquidadores, liquidación y extinción de la sociedad, y los asientos ordenados por la autoridad judicial o administrativa.
+
+El contenido de la escritura pública y estatutos de las sociedades laborales calificadas e inscritas al amparo de la normativa que ahora se deroga no podrá ser aplicado en oposición a lo dispuesto en esta ley.

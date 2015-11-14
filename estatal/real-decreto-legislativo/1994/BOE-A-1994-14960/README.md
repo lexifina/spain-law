@@ -412,6 +412,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional vigésima quinta](davigesimaquinta.md)
 - [Disposición adicional vigésima sexta](davigesimasexta.md)
 - [Disposición adicional vigésima séptima](davigesimaseptima.md)
+- [Disposición adicional vigésima séptima bis](davigesimaseptimabis.md)
 - [Disposición adicional vigésima octava](davigesimaoctava.md)
 - [Disposición adicional vigésima novena](davigesimanovena.md)
 - [Disposición adicional trigésima](datrigesima.md)
