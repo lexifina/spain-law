@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Aplicación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+En tanto no entren en vigor la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, serán de aplicación las disposiciones que correspondan de la Ley 30/1992 de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, a los supuestos en los que este real decreto hace referencia a las anteriores.
