@@ -1,20 +1,22 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/306/13180_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/276/12436_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/306/13180_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/276/12436_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/306/13180_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/276/12436_003.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/306/13180_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/276/12436_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/306/13180_009.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/276/12436_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/306/13180_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/276/12436_006.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/306/13180_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/276/12436_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/306/13180_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/276/12436_008.png)
+
+> Se sustituye por el art. 2 y el Anexo de la Orden HAP/2429/2015, de 10 de noviembre. Ref. BOE-A-2015-12436.
 
 > Se sustituye por el art. 2.2 y el Anexo II de la Orden HAP/2373/2014, de 9 de diciembre. Ref. BOE-A-2014-13180.
 
