@@ -22,7 +22,7 @@ Las unidades motrices térmicas o eléctricas,
 
 Los coches de viajeros, los vagones de mercancías, incluidos los vehículos diseñados para el transporte de camiones.
 
-Podrá incluirse el material de construcción y mantenimiento de infraestructuras ferroviarias móviles.
+Podrá incluirse el material móvil de construcción y mantenimiento de infraestructuras ferroviarias.
 
 Cada una de estas categorías podrá subdividirse en:
 
@@ -71,3 +71,5 @@ Reducción de los costes de inversión, de mantenimiento y de funcionamiento deb
 Beneficios en materia de medio ambiente, gracias a las mejoras técnicas introducidas en el sistema ferroviario,
 
 Aumento de la seguridad de funcionamiento. Además, la evaluación indicará el posible impacto para todos los operadores y agentes económicos participantes.
+
+> Se modifica el párrafo segundo del apartado 1.2 por el art. único.1 de la Orden FOM/2437/2015, de 13 de noviembre. Ref. BOE-A-2015-12473.
