@@ -1,0 +1,9 @@
+## Norma decimotercera. Uso del fondo de reserva.
+
+1. La fundación bancaria deberá hacer uso del fondo de reserva para atender las necesidades de solvencia de la entidad de crédito participada que no puedan ser cubiertas con otros recursos. Se entenderá que la entidad de crédito participada tiene necesidades de solvencia cuando incumpla los requerimientos relativos a fondos propios exigidos por la normativa aplicable o cuando haya sufrido una disminución significativa de los recursos propios que, a juicio del Banco de España, pudiera poner en peligro el cumplimiento de la normativa de solvencia.
+
+2. En los casos en que, por haberse utilizado el fondo de reserva en los términos indicados en el apartado anterior, o por haberse incrementado su importe mínimo objetivo, la dotación del fondo quede por debajo del aludido importe, la fundación bancaria deberá remitir al Banco de España una modificación del plan financiero que, considerando el nuevo importe mínimo objetivo del fondo que resulte de la situación de la entidad de crédito participada, incluya un nuevo calendario de dotaciones a dicho fondo hasta alcanzar el citado importe, calculado con arreglo a lo indicado en el artículo 4 del Real Decreto 877/2015.
+
+3. La fundación bancaria podrá disponer totalmente del fondo de reserva, desafectando los activos que lo constituyen, en aquellos supuestos en que dejen de concurrir las circunstancias que, de conformidad con lo establecido en la norma novena, obligan a la presentación del plan financiero reforzado.
+
+Asimismo, cuando, una vez constituido en su integridad el fondo de reserva que corresponda, su importe mínimo objetivo se reduzca por modificación de las variables que lo determinan, la fundación bancaria podrá disponer parcialmente, por el importe de la citada reducción y previa comunicación al Banco de España, de los recursos del fondo.
