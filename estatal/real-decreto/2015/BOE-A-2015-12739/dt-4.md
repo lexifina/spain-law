@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Profesor especialista de los centros privados y de titularidad pública de administraciones distintas de la educativa.
+
+De forma excepcional, durante los cursos académicos establecidos en la Disposición transitoria primera para la extinción del periodo transitorio, podrán ser profesores del bloque específico de los ciclos inicial de grado medio en piragüismo, final de grado medio en piragüismo de aguas bravas, final de grado medio en piragüismo de aguas tranquilas, y final de grado medio en piragüismo recreativo guía en aguas bravas, aquellos no titulados, que acrediten la experiencia en el ámbito laboral y deportivo, o la experiencia docente detallada en el anexo XIII-B.
