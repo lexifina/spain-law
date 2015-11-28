@@ -28,7 +28,11 @@ g) Resolver el procedimiento relativo a planes de amortización, planes de gasto
 
 h) Iniciar y resolver los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo. Asimismo, les corresponderá designar al Jefe de Equipo, Jefe de Unidad o funcionario que deba instruir dichos procedimientos sancionadores.
 
-i) Cualesquiera otras competencias y funciones que les atribuya la normativa legal y reglamentaria y demás disposiciones que sean de aplicación.
+i) Ordenar el inicio y resolver los procedimientos de recuperación de ayudas de Estado en supuestos de regularización de los elementos de la obligación tributaria.
+
+j) Dictar las liquidaciones de los elementos de la obligación tributaria vinculados con un posible delito contra la Hacienda Pública, así como el acuerdo motivado que justifique la decisión administrativa de la no procedencia de tales liquidaciones.
+
+k) Cualesquiera otras competencias y funciones que les atribuya la normativa legal y reglamentaria y demás disposiciones que sean de aplicación.
 
 3. En caso de vacante, ausencia o enfermedad se actuará de la siguiente manera:
 
@@ -41,6 +45,8 @@ c) El Jefe de la Oficina Nacional de Fiscalidad Internacional designará al sust
 d) El Delegado Especial de la Agencia Tributaria designará al sustituto del Jefe de la Dependencia Regional de Inspección.
 
 e) El Jefe de la Dependencia Regional de Inspección designará al sustituto de los Inspectores Regionales Adjuntos, de los Inspectores Coordinadores y del Jefe de la Oficina Técnica.
+
+> Se modifica el punto 2 por el art. único.3 de la Resolución de 17 de noviembre de 2015. Ref. BOE-A-2015-12812.
 
 > Se modifica el punto 2 por el art. único.2 de la Resolución de 16 de julio de 2015. Ref. BOE-A-2015-7997.
 

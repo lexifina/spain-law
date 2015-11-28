@@ -14,13 +14,15 @@ d) Realizar las actuaciones de estudio, informe y asesoramiento en cuestiones de
 
 e) Ejecutar los acuerdos resultantes de los procedimientos amistosos en materia de imposición directa.
 
-f) Cualquier otra función atribuida normativamente a la Inspección de los Tributos con los obligados tributarios a los que extienda su competencia.
+f) Llevar a cabo los procedimientos de recuperación de ayudas de Estado en supuestos de regularización de los elementos de la obligación tributaria.
+
+g) Cualquier otra función atribuida normativamente a la Inspección de los Tributos con los obligados tributarios a los que extienda su competencia.
 
 Asimismo, las Dependencias Regionales de Inspección de las Delegaciones Especiales de la Agencia Estatal de la Administración Tributaria, en relación con las personas o entidades a que se refiere el número 2.4 del apartado siguiente, tienen atribuida la función de tramitar y resolver los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo, salvo que corresponda a otros órganos.
 
 2. Ámbito de actuación.
 
-2.1 Las funciones señaladas en el apartado anterior se extenderán a todos los obligados tributarios, con domicilio fiscal en el ámbito de la respectiva Delegación Especial de la Agencia Tributaria, sobre los que la Delegación Central de Grandes Contribuyentes, la Oficina Nacional de Investigación del Fraude o la Oficina Nacional de Fiscalidad Internacional no ejerzan su competencia, sin perjuicio de lo dispuesto en el número 2.2 siguiente.
+2.1 Las funciones señaladas en el apartado anterior se extenderán a todos los obligados tributarios, con domicilio fiscal en el ámbito de la respectiva Delegación Especial de la Agencia Tributaria, sobre los que la Delegación Central de Grandes Contribuyentes o la Oficina Nacional de Investigación del Fraude no ejerzan su competencia, sin perjuicio de lo dispuesto en el número 2.2 siguiente.
 
 2.2 Las Dependencias Regionales de Inspección extenderán asimismo su competencia sobre los siguientes obligados tributarios:
 
@@ -28,11 +30,13 @@ a) Los obligados tributarios que concurran en el presupuesto de hecho de una obl
 
 b) Los sucesores de personas físicas fallecidas y de las personas jurídicas y demás entidades disueltas o extinguidas que, sin estar domiciliados en el ámbito territorial de la respectiva Delegación Especial o estando adscritos a la Delegación Central de Grandes Contribuyentes, comparezcan en las actuaciones o procedimientos iniciados por la Dependencia Regional de Inspección con relación a alguno o algunos de los sucesores sobre los que tenga competencia de acuerdo con lo señalado en el número 2.1 anterior.
 
-c) Los obligados tributarios en los que concurra alguna de las circunstancias previstas en el artículo 16.2 del Real Decreto Legislativo 4/2004, por el que se aprueba el texto refundido de la Ley del Impuesto sobre Sociedades, sin estar domiciliados en el ámbito territorial de la respectiva Delegación Especial o estando adscritos a la Delegación Central de Grandes Contribuyentes, cuando proceda la realización de actuaciones o procedimientos coordinados con otras actuaciones o procedimientos iniciados por la Dependencia Regional de Inspección frente a alguno o algunos de los obligados tributarios sobre los que tenga competencia de acuerdo con lo previsto en el número 2.1 anterior.
+c) Los obligados tributarios en los que concurra alguna de las circunstancias previstas en el artículo 18.2 de la Ley 27/2014 del Impuesto sobre Sociedades, sin estar domiciliados en el ámbito territorial de la respectiva Delegación Especial o estando adscritos a la Delegación Central de Grandes Contribuyentes, cuando proceda la realización de actuaciones o procedimientos coordinados con otras actuaciones o procedimientos iniciados por la Dependencia Regional de Inspección frente a alguno o algunos de los obligados tributarios sobre los que tenga competencia de acuerdo con lo previsto en el número 2.1 anterior.
 
 d) Los obligados tributarios personas físicas o jurídicas no establecidos en el territorio de aplicación del Impuesto sobre el Valor Añadido y sin obligación de nombrar a un representante, salvo en el caso de los domiciliados en Canarias, Ceuta y Melilla, cuando la entrega de bienes o la prestación de servicios se realice en el ámbito de la Delegación Especial.
 
-2.3 La competencia de la Dependencia Regional de Inspección podrá abarcar igualmente a las obligaciones tributarias derivadas de los hechos imponibles que correspondan a personas físicas o jurídicas no residentes y sin establecimiento permanente en España, cuando en relación con dichos hechos imponibles el representante, responsable, retenedor, depositario o gestor de los bienes o derechos, o el pagador de las rentas del no residente sea un obligado tributario incluido en su ámbito de competencia y, a falta de cualquiera de ellos, cuando radique en dicho ámbito algún inmueble titularidad del obligado tributario no residente.»
+e) Los obligados tributarios que, sin estar domiciliados en el ámbito territorial de la respectiva Delegación Especial, realicen una actividad económica en dicho ámbito territorial, a través de uno o varios locales afectos en los que preste servicio personal asalariado, cuando se estén desarrollando por la Dependencia Regional de Inspección actuaciones o procedimientos frente a alguno o algunos de los obligados tributarios, con los que aquellos tengan relación económica, sobre los que tenga competencia de acuerdo con lo previsto en el número 2.1 anterior. Lo dispuesto en esta letra no resultará de aplicación respecto de los obligados tributarios adscritos a la Delegación Central de Grandes Contribuyentes.
+
+2.3 La competencia de la Dependencia Regional de Inspección podrá abarcar igualmente a las obligaciones tributarias derivadas de los hechos imponibles que correspondan a personas físicas o jurídicas no residentes y sin establecimiento permanente en España, cuando en relación con dichos hechos imponibles el representante, responsable, retenedor, depositario o gestor de los bienes o derechos, o el pagador de las rentas del no residente sea un obligado tributario incluido en su ámbito de competencia y, a falta de cualquiera de ellos, cuando radique en dicho ámbito algún inmueble titularidad del obligado tributario no residente.
 
 2.4 La función consistente en tramitar y resolver los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo señalada en el apartado anterior se extenderá a todas las personas o entidades, con domicilio fiscal en el ámbito de la respectiva Delegación Especial de la Agencia Tributaria, sobre los que la Delegación Central de Grandes Contribuyentes no ejerza su competencia. Asimismo, podrá extender su competencia al resto de las partes intervinientes en la operación objeto del procedimiento sancionador.
 
@@ -187,6 +191,8 @@ Las Unidades de Gestión de Grandes Empresas de las Dependencias Regionales de I
 El Jefe de la Dependencia Regional de Inspección y los Inspectores Regionales Adjuntos ejercerán, respecto a las personas o entidades adscritas a la misma, las competencias de gestión tributaria atribuidas a los Jefes de Dependencia Regional de Gestión Tributaria.
 
 Sin perjuicio de lo anterior, los obligados tributarios podrán, en cualquier caso, presentar sus declaraciones, recursos, consultas y cualquier otro documento con trascendencia tributaria en la Delegación o Administración que corresponda a su domicilio fiscal.
+
+> Se modifican los puntos 1 y 2 por el art. único.1 y 2 de la Resolución de 17 de noviembre de 2015. Ref. BOE-A-2015-12812.
 
 > Se modifica el punto 7 por el art. único.1 de la Resolución de 16 de julio de 2015. Ref. BOE-A-2015-7997.
 

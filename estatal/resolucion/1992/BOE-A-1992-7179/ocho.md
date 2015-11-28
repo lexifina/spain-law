@@ -40,7 +40,7 @@ No podrá asignarse la firma a los Técnicos de Hacienda cuando se aprecie en el
 
 Los funcionarios de la Inspección de los Tributos procederán, igualmente, a evacuar cuantas comunicaciones e informes sean preceptivos. En el supuesto de que estos últimos deban ser emitidos por un Equipo o Unidad, serán suscritos por el Jefe de los mismos.
 
-Los informes que hayan de emitirse cuando se aprecie que la conducta del obligado tributario pudiera ser constitutiva de delito contra la Hacienda Pública serán firmados por el Jefe de Equipo o de Unidad, así como, tratándose de actuaciones desarrolladas por Unidades de Inspección, por el Inspector de Hacienda al que corresponda la supervisión de las mismas.
+Las propuestas de liquidación de los elementos de la obligación tributaria vinculados con un posible delito contra la Hacienda Pública y, en su caso, los informes que hayan de emitirse cuando se aprecie que la conducta del obligado tributario pudiera ser constitutiva de delito contra la Hacienda Pública serán firmados por el Jefe de Equipo o de Unidad, así como, tratándose de actuaciones desarrolladas por Unidades de Inspección, por el Inspector de Hacienda al que corresponda la supervisión de las mismas.
 
 La firma de los acuerdos de inicio y propuestas de resolución de los procedimientos sancionadores iniciados como consecuencia de un procedimiento de inspección corresponderá al Jefe de Equipo, Jefe de Unidad o funcionario que haya suscrito o vaya a suscribir las actas, conforme a lo dispuesto en los números 2 y 3 anteriores, siempre que el inicio y la tramitación corresponda al mismo Equipo o Unidad que haya desarrollado o esté desarrollando las actuaciones de comprobación o investigación. En otro caso, corresponderá la firma del acuerdo de inicio y la propuesta de resolución del expediente sancionador al Jefe del Equipo, Jefe de Unidad o funcionario que haya sido designado por el Inspector Jefe.
 
@@ -49,6 +49,10 @@ En las Unidades de Gestión de Grandes Empresas de las Dependencias Regionales d
 La firma del acuerdo de inicio y de la propuesta de liquidación o resolución de los procedimientos de comprobación limitada o de declaración de responsabilidad tramitados por los Equipos o Unidades de Inspección corresponderá al Jefe de los mismos.
 
 La firma de la propuesta de resolución de los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo corresponderá al Jefe de Equipo, Jefe de Unidad o funcionario que haya sido designado como instructor por el Inspector Jefe.
+
+La firma del acuerdo de inicio y de la propuesta de liquidación de los procedimientos de recuperación de ayudas de Estado en supuestos de regularización de los elementos de la obligación tributaria tramitados por los Equipos o Unidades corresponderá al Jefe de los mismos.
+
+> Se modifica el punto 4 por el art. único.4 de la Resolución de 17 de noviembre de 2015. Ref. BOE-A-2015-12812.
 
 > Se modifican los puntos 2 y 3 por el art.único.4 de la Resolución de 7 de mayo de 2014. Ref. BOE-A-2014-5049.
 
