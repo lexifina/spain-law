@@ -8,13 +8,17 @@ Equipos Nacionales de Recaudación.
 
 En caso de vacante, ausencia o enfermedad, el titular de la Dependencia designará a los sustitutos de sus Adjuntos y de los Inspectores Coordinadores.
 
-2. Funciones y competencias. La Dependencia de Asistencia y Servicios Tributarios tendrá atribuidas, en el ámbito de actuación de la Delegación Central de Grandes Contribuyentes, las funciones de aplicación de los tributos cuya competencia corresponde a la Agencia Tributaria, a través de las actuaciones y procedimientos de gestión tributaria y de recaudación. Asimismo le corresponderá el inicio, la tramitación y la resolución de los procedimientos sancionadores que se deriven de aquellas actuaciones y procedimientos.
+2. Funciones y competencias.
+
+La Dependencia de Asistencia y Servicios Tributarios tendrá atribuidas, en el ámbito de actuación de la Delegación Central de Grandes Contribuyentes, las funciones de aplicación de los tributos cuya competencia corresponde a la Agencia Tributaria, a través de las actuaciones y procedimientos de gestión tributaria y de recaudación. Asimismo le corresponderá el inicio, la tramitación y la resolución de los procedimientos sancionadores que se deriven de aquellas actuaciones y procedimientos.
 
 En relación con las personas físicas y entidades no residentes en territorio español que obtengan rendimientos en España sin mediación de establecimiento permanente y no estén adscritas a la Delegación Central, esta Dependencia realizará las funciones de gestión tributaria indicadas en el párrafo anterior cuando el representante, el pagador de los rendimientos o el depositario o gestor de los bienes o derechos del no residente esté adscrito a la Delegación Central, todo ello de acuerdo con lo dispuesto en la normativa que regula la gestión de dichos no residentes.
 
 Asimismo, llevará a cabo, respecto a los obligados tributarios adscritos a la Delegación Central, la gestión recaudatoria de los demás recursos de naturaleza pública que corresponda a la Agencia conforme a la normativa vigente.
 
 También asumirá, respecto a los actos objeto de reclamación económico-administrativa cuya resolución corresponda al Tribunal Económico-Administrativo Central, las competencias atribuidas por la normativa vigente a los órganos de recaudación en materia de suspensión y de reembolso del coste de las garantías constituidas, el control de la formalización de las garantías y la custodia de las garantías formalizadas, la comunicación con los Tribunales Económico-Administrativos en estas materias y el seguimiento y control de las suspensiones acordadas por órganos administrativos y Contencioso-Administrativos.
+
+Así mismo, le corresponderá tramitar los procedimientos de recuperación de ayudas de Estado en aquellos supuestos que tengan origen exclusivamente en actos de recaudación y a los que sea de aplicación lo dispuesto en el Capítulo III del Título VII de la Ley General Tributaria.
 
 El titular de la Dependencia ejercerá, en el ámbito de actuación de la Delegación Central de Grandes Contribuyentes, las siguientes funciones y competencias:
 
@@ -114,6 +118,8 @@ b) Acordar la resolución de las solicitudes de reembolso del coste de las garan
 
 c) Resolver las solicitudes de suspensión del ingreso de las deudas asociadas a los procedimientos amistosos.
 
+d) Dictar las resoluciones que procedan en el seno de los procedimientos de recuperación de ayudas de Estado, relativos a los contribuyentes que estén adscritos a la Delegación Central, en aquellos supuestos que tengan origen exclusivamente en actos de recaudación y a los que sea de aplicación lo dispuesto en el Capítulo III del Título VII de la Ley General Tributaria, salvo que la competencia para dictar dichos actos de recaudación hubiese correspondido al titular del Departamento de Recaudación o al de la Delegación Central. En este último supuesto será el titular de la Delegación Central el competente para dictar la resolución que proceda, siendo necesario además recabar, en su caso, la autorización previa a que se refiere la letra h) del número Quinto.2 de esta Resolución.
+
 Los Adjuntos y los Inspectores Coordinadores asistirán al titular de la Dependencia en el ejercicio de sus funciones y podrán ejercer las funciones y competencias relacionadas en este número con respecto a los obligados tributarios que aquél les asigne.
 
 Los Inspectores Coordinadores a los efectos de la presente Resolución podrán ejercer las competencias del apartado séptimo.4 respecto de los expedientes y actuaciones que se les encomienden.
@@ -136,9 +142,11 @@ e) La formación y mantenimiento de los censos tributarios de la Delegación Cen
 
 En los casos de vacante, ausencia o enfermedad de los Jefes de Unidad, su sustitución será ejercida por otros Jefes de Unidad o por los Inspectores que designe el titular de la Dependencia.
 
-4. Equipos Nacionales de Recaudación. Las actuaciones de gestión recaudatoria atribuidas a la Dependencia de Asistencia y Servicios Tributarios serán desarrolladas, con carácter general, por los Equipos Nacionales de Recaudación.
+4. Equipos Nacionales de Recaudación.
 
-Los Equipos Nacionales de Recaudación, dirigidos por Jefes de Equipo, estarán integrados por los funcionarios que en cada momento se determinen por el titular de la Dependencia, sus Adjuntos o los Inspectores Coordinadores.
+Las actuaciones de gestión recaudatoria atribuidas a la Dependencia de Asistencia y Servicios Tributarios serán desarrolladas, con carácter general, por los Equipos Nacionales de Recaudación.
+
+Los Equipos Nacionales de Recaudación estarán dirigidos por un Jefe de Equipo Inspector de Hacienda y estarán integrados por los funcionarios que en cada caso se determine por el titular de la Dependencia o sus Adjuntos.
 
 Los Jefes de los Equipos Nacionales de Recaudación tendrán, en el ámbito de actuación de la Delegación Central de Grandes Contribuyentes, las siguientes funciones y competencias:
 
@@ -214,9 +222,13 @@ a) Resolver las solicitudes de suspensión de la ejecución de los actos en los 
 
 b) Acordar la resolución de las solicitudes de reembolso del coste de las garantías aportadas a la Administración para obtener la suspensión, de acuerdo con lo dispuesto en el artículo 33 de la Ley General Tributaria, cuando se refiera a actos objeto de reclamación económico-administrativa cuya resolución corresponda al Tribunal Económico-Administrativo Central o de recurso de reposición cuando no hayan sido objeto de reclamación en vía económico-administrativa y su resolución corresponda a un órgano de la Delegación Central.
 
+c) Iniciar y tramitar los procedimientos de recuperación de ayudas de Estado de acuerdo con lo dispuesto en el Capítulo III del Título VII de la Ley General Tributaria y que tengan origen exclusivamente en actos de recaudación, así como elevar al titular de la Dependencia las propuestas de resolución que resulten procedentes.
+
 Los Inspectores integrados en los Equipos Nacionales de Recaudación podrán ejercer las competencias relacionadas en este número con respecto a los obligados tributarios que el Jefe del Equipo les asigne.
 
 En los casos de vacante, ausencia o enfermedad de los Jefes de Equipo, su sustitución será ejercida por otros Jefes de Equipo o por los Inspectores que designe el titular de la Dependencia.
+
+> Se modifican los puntos 2 y 4 por el art. único.4 y 5 de la Resolución de 17 de noviembre de 2015. Ref. BOE-A-2015-12813.
 
 > Se modifica el punto 2 y 4 por el art. único.8 y 9 de la Resolución de 22 de enero de 2013. Ref. BOE-A-2013-698.
 
