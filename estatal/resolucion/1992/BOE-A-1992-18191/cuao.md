@@ -18,7 +18,15 @@ d) Realizar los requerimientos individualizados de obtención de información, a
 
 e) Autorizar el inicio de los expedientes sancionadores en aquellos casos en los que la normativa reglamentaria exija dicha autorización, y dictar los actos de imposición de sanción.
 
-f) Realizar actuaciones de comprobación e investigación cuando así lo acuerde el Director del Departamento de Aduanas e Impuestos Especiales. En general realizarán cualesquiera otras competencias y funciones que les atribuya la normativa legal y reglamentaria y demás disposiciones que sean de aplicación.
+f) Realizar actuaciones de comprobación e investigación cuando así lo acuerde el Director del Departamento de Aduanas e Impuestos Especiales.
+
+g) Ordenar el inicio y resolver los procedimientos de recuperación de ayudas de Estado en supuestos de regularización de los elementos de la obligación tributaria.
+
+h) Dictar las liquidaciones de los elementos de la obligación tributaria vinculados con un posible delito contra la Hacienda Pública o con un posible delito de contrabando o, en su caso, dictar el acuerdo motivado que justifique la decisión administrativa de no proceder a la práctica de tales liquidaciones.
+
+En general realizarán cualesquiera otras competencias y funciones que les atribuya la normativa legal y reglamentaria y demás disposiciones que sean de aplicación.
+
+> Se modifica el punto 2 por el apartado 1 de la Resolución de 17 de noviembre de 2015. Ref. BOE-A-2015-12814.
 
 > Se modifica por los apartados 2 y 3 de la Resolución de 12 de diciembre de 2007. Ref. BOE-A-2007-22251.
 
