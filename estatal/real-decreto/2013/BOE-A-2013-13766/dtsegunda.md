@@ -1,68 +1,54 @@
 ## Disposición transitoria segunda. Cálculo del valor de inversión con derecho a retribución a cargo del sistema asociado a determinadas instalaciones.
 
-1. Las instalaciones puestas en servicio con anterioridad a 1 de enero de 1998 y que a fecha 31 de diciembre del año n-2, siendo n el año de inicio del primer periodo regulatorio, aún continúen en servicio se considerarán como una única instalación j, de valor de inversión con derecho a retribución a cargo del sistema por el hecho de estar en servicio el año n-2 y de vida residual promedio reconocida a 31 de diciembre del año n-2.
+1. Las instalaciones puestas en servicio con anterioridad a 1 de enero de 1998 y que a fecha 31 de diciembre del año n-2, siendo n el año de inicio del primer periodo regulatorio, aún continúen en servicio se considerarán como una única instalación j, de valor de inversión con derecho a retribución a cargo del sistema por el hecho de estar en servicio el año n-2 VI j,pre–1998 y de vida residual promedio reconocida VR j,pre–1998 a 31 de diciembre del año n-2.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_099.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_100.png)
-
-El valor se calculará de acuerdo a la siguiente formulación:
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_101.png)
-
-donde:
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_102.png)
-
-Valor de la inversión con derecho a retribución a cargo del sistema de todas las instalaciones de la empresa i puestas en servicio con anterioridad a 1 de enero de 1998 y que aún se encuentran en servicio a 31 de diciembre del año n-2.
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_103.png)
-
-Retribución a la inversión reconocida a la empresa transportista i el año n-1 asociado a todas las instalaciones puestas en servicio con anterioridad a 1 de enero de 1998 y que aún se encuentran en servicio a 31 de diciembre del año n-3.
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_104.png)
-
-Vida útil regulatoria de las instalaciones de la empresa transportista i.
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_105.png)
-
-es la tasa de retribución financiera aplicada el año n-1 para el cálculo de la retribución de las instalaciones de transporte de energía eléctrica.
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_106.png)
-
-Es la vida residual promedio reconocida a 31 de diciembre del año n-2 de las instalaciones de la empresa i puestas en servicio con anterioridad a 1998 y que aún se encuentran en servicio en el año n-2. Este valor se calculará de acuerdo a la siguiente expresión:
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_107.png)
+El valor VI j,pre–1998 se calculará de acuerdo a la siguiente formulación:
 
 ; donde:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_108.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/285/12896_007.png)
 
-; vida residual de las instalaciones puestas en servicio antes de 1998 de la empresa transportista i en el año n-2, siendo n el año de inicio del primer periodo regulatorio.
+VI j,pre–1998 Valor de la inversión con derecho a retribución a cargo del sistema de todas las instalaciones de la empresa i puestas en servicio con anterioridad a 1 de enero de 1998 y que aún se encuentran en servicio a 31 de diciembre del año n-2.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_109.png)
+Retribución a la inversión reconocida a la empresa transportista i el año anterior al de inicio del primer periodo regulatorio. Este valor será el recogido en el expediente de la orden en la que se hubiera establecido la retribución del año anterior al de inicio del primer periodo regulatorio resultante de la aplicación para las instalaciones puestas en servicio con anterioridad a 1998 del contenido del anexo IV del Real Decreto-ley 9/2013, de 12 de julio, por el que se adoptan medidas urgentes para garantizar la estabilidad financiera del sistema eléctrico.
 
-; vida residual de las instalaciones puestas en servicio antes de 1 de enero de 1998 de la empresa transportista i en el año 2013 empleada en la Orden por la que se establecen las retribuciones del segundo periodo de 2013 para las actividades de transporte y distribución de energía eléctrica y se establecen otras medidas en relación con la retribución de las actividades de transporte y distribución de años anteriores.
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/285/12896_008.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_110.png)
+VU ipre–1998 Vida útil regulatoria de las instalaciones puestas en servicio antes del año 1998 de la empresa transportista i. Este parámetro tomará un valor de 40 años.
 
-; valor en el calendario del año n-2, siendo n el año de inicio del primer periodo regulatorio.
+TRFn–1 es la tasa de retribución financiera aplicada el año n-1 para el cálculo de la retribución de las instalaciones de transporte de energía eléctrica.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_111.png)
+; vida residual promedio a 31 de diciembre del año n-3 correspondiente a las instalaciones de la empresa transportista i puestas en servicio antes de 1998 y que aún se encuentran en servicio el año n-3, siendo n el año de inicio del primer periodo regulatorio. Esta expresión se calculará como:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/285/12896_009.png)
+
+= +1 ; donde: +1 ; donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/285/12896_010.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/285/12896_011.png)
+
+VR j,pre–1998 Es la vida residual promedio reconocida a 31 de diciembre del año n-2 de las instalaciones de la empresa i puestas en servicio con anterioridad a 1998 y que aún se encuentran en servicio en el año n-2, siendo n el año de inicio del primer periodo regulatorio. Este valor se calculará de acuerdo a la siguiente expresión:
+
+; donde:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/285/12896_012.png)
+
+; vida residual de las instalaciones puestas en servicio antes de 1 de enero de 1998 de la empresa transportista i utilizada en el cálculo de la retribución del año 2013 empleada en la Orden IET/2442/2013, de 26 de diciembre, por la que se establecen las retribuciones del segundo periodo de 2013 para las actividades de transporte y distribución de energía eléctrica y se establecen otras medidas en relación con la retribución de las actividades de transporte y distribución de años anteriores, que recoge la vida residual promedio a 31 de diciembre de 2011 de las instalaciones de la empresa i puestas en servicio con anterioridad a 1998 y que aún se encuentran en servicio en el año 2011.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/285/12896_013.png)
+
+Año n–2; valor en el calendario del año n-2, siendo n el año de inicio del primer periodo regulatorio.
 
 : Incremento de la vida residual de las instalaciones puestas en servicio antes de 1 de enero de 1998 por renovación y mejora calculado de acuerdo a la disposición transitoria tercera del presente real decreto.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_112.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/285/12896_014.png)
 
 Para el cálculo del valor neto de inversión de las instalaciones puestas en servicio con anterioridad a 1 de enero de 1998 y que a fecha 31 de diciembre del año n-2 continúen en servicio se aplicará la formulación prevista en el artículo 7.2 con la particularidad de que k tomará el valor que se expresa a continuación:
 
-k= +2; donde:
+k = VU i – VR j,pre–1998 +2; donde:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_113.png)
-
-son los términos ya señalados.
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/312/13766_114.png)
+VU i y VR j,pre–1998 los términos ya señalados.
 
 2. El valor del activo con derecho a retribución a cargo del sistema de cada una de las instalaciones j no catalogadas de singulares puestas en servicio entre el 1 de enero de 1998 y el 31 de diciembre de dos años antes del inicio del primer periodo regulatorio y que a dicha fecha continúen en servicio denominado, se calculará de acuerdo a la siguiente expresión:
 
@@ -143,3 +129,5 @@ Con carácter general la vida útil regulatoria de las instalaciones singulares 
 4. El cálculo del valor de inversión con derecho a retribución a cargo del sistema recogida en los apartados anteriores sólo será efectuada el primer año del primer periodo regulatorio en que sea de aplicación el presente real decreto, siendo el valor de inversión con derechos a retribución a cargo del sistema resultante el empleado para los cálculos de retribución a la inversión del artículo 7.2 durante la vida residual de los activos.
 
 5. En todo caso la retribución por operación y mantenimiento se calculará por aplicación de lo recogido en el artículo 7.3 de manera individualizada a cada una de las instalaciones.
+
+> Se modifica el apartado 1 por el art. 1.7 del Real Decreto 1073/2015, de 27 de noviembre. Ref. BOE-A-2015-12896.
