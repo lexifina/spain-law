@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Garantía de continuidad en la ejecución de la política de financiación, evaluación y seguimiento.
+
+1. Los procedimientos correspondientes a actividades de carácter plurianual desarrolladas en el marco del VI Plan Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica 2008-2011, prorrogado para el año 2012, y del Plan Estatal de Investigación Científica y Técnica y de Innovación para el período 2013-2016, continuarán tramitándose conforme a su propia normativa y por las unidades y autoridades que correspondan, de acuerdo con el régimen transitorio establecido en este real decreto.
+
+2. El seguimiento científico-técnico y económico-financiero de todas las actuaciones derivadas del VI Plan Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica 2008-2011 y del Plan Estatal de Investigación Científica y Técnica y de Innovación para el período 2013-2016, aún vigentes a la fecha de constitución de la Agencia continuará tramitándose por las unidades y autoridades que correspondan, de acuerdo con el régimen transitorio establecido en este real decreto.
