@@ -90,7 +90,7 @@ Se aportará, al menos, la siguiente información referida a los distintos escen
 
 En otro caso, la información prevista en el apartado 3.1.1.
 
-3.2.2 Relación de usuarios autorizados para el uso del aeródromo y procedimiento establecido para la modificación de la misma.
+3.2.2 En el caso de aeródromos restringidos de uso privado, relación de usuarios autorizados para el uso del aeródromo y procedimiento establecido para su modificación.
 
 4. Certificado de compatibilidad del espacio aéreo de los helipuertos.
 
@@ -127,5 +127,7 @@ En otro caso, la documentación prevista en el apartado 4.1.
 – Para el caso de operaciones instrumentales, propuesta de estructuras de espacio aéreo asociadas a la infraestructura: aerovías, CTAs/TMAs, CTRs, ATZs previstos.
 
 4.2.2 En el caso de helipuertos de uso restringido, además, la documentación establecida en el apartado 3.2.2 de este anexo.
+
+> Se modifica el apartado 3.2.2 por la disposición final 1.4 del Real Decreto 1070/2015, de 27 de noviembre. Ref. BOE-A-2015-12893.
 
 > Redactado el apartado 1.1 conforme a la corrección de errores publicada en BOE núm. 297, de 10 de diciembre de 2011.Ref. BOE-A-2011-19363.
