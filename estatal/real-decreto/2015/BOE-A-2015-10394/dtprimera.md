@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Sujetos obligados a la inscripción.
+
+Los prestadores de servicios de comunicación audiovisual de ámbito nacional que hasta la entrada en vigor de la Ley 7/2010, de 31 de marzo, General de la Comunicación Audiovisual no tuvieran la obligación de realizar la comunicación previa a la prestación del servicio, así como aquellos otros que hayan iniciado su actividad y no estén inscritos en ninguno de los registros, dispondrán de un plazo de tres meses a partir de la entrada en vigor de este real decreto para comunicarlo al Ministerio de Industria, Energía y Turismo a efectos de su inscripción en el Registro Estatal de Prestadores de Servicios de Comunicación Audiovisual.
