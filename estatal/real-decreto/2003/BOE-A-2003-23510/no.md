@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 307, 24 de diciembre de 2003. Ref. BOE-A-2003-23587
+Norma derogada, con efectos de 1 de diciembre de 2015, por la disposición derogatoria única del Real Decreto 949/2015, de 23 de octubre. Ref. BOE-A-2015-11429#ddunica.
