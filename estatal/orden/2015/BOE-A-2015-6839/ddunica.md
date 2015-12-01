@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Normas que se derogan.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a la presente orden y, expresamente, la Orden de 6 de abril de 1983, por la que se dictan normas a efectos de control de la situación de incapacidad laboral transitoria en el sistema de la Seguridad Social; la Orden de 19 de junio de 1997, por la que se desarrolla el Real Decreto 575/1997, de 18 de abril, y la Orden TAS/399/2004, de 12 de febrero, sobre presentación en soporte informático de los partes médicos de baja, confirmación de la baja y alta correspondientes a procesos de incapacidad temporal.
