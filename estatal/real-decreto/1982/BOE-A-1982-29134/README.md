@@ -10,6 +10,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 ## Bloques
 
+- [co](co.md)
 - [preambulo](preambulo.md)
 - [Artículo primero](aprimero.md)
 - [Artículo segundo](asegundo.md)
@@ -17,6 +18,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo cuarto](acuao.md)
 - [Artículo quinto](aquinto.md)
 - [Artículo sexto](asexto.md)
+- [Artículos séptimo a decimotercero](as.md)
 - [Artículo séptimo](aseptimo.md)
 - [Artículo octavo](aoctavo.md)
 - [Artículo noveno](anoveno.md)

@@ -1,6 +1,8 @@
 ## Artículo 18.
 
-Las marcas de matrícula consistirán, además de las letras EC, en un grupo de otras tres letras que, empezando por las letras Y, Z o X, deberán pintarse sobre la aeronave en la forma reglamentaria.
+(Derogado).
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto 384/2015, de 22 de mayo. Ref. BOE-A-2015-6704.
 
 > Se modifica por el art. único de la Orden FOM/646/2008, de 28 de febrero. Ref. BOE-A-2008-4726
 
