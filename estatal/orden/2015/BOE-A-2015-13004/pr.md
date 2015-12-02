@@ -1,0 +1,19 @@
+El artículo 36 de la Ley 50/2002, de 26 de diciembre, de Fundaciones, dispuso la existencia de un Registro de fundaciones de competencia estatal dependiente del Ministerio de Justicia, en el que se inscribirán los actos relativos a las fundaciones que desarrollen su actividad en todo el territorio del Estado o principalmente en el territorio de más de una Comunidad Autónoma.
+
+De forma complementaria, la disposición adicional primera del Real Decreto 1337/2005, de 11 de noviembre, por el que se aprueba el Reglamento de Fundaciones de Competencia Estatal, señala que el Registro de Fundaciones de Competencia Estatal se regirá por su normativa específica y la disposición transitoria cuarta de la Ley 50/2002, de 26 de diciembre, prevé que en tanto no entre en funcionamiento el Registro de Fundaciones, subsistirán los Registros de fundaciones actualmente existentes, declaración que en términos similares reitera la disposición transitoria única del Real Decreto 1337/2005, de 11 de noviembre.
+
+Por otro lado mediante el Real Decreto 1611/2007, de 7 de diciembre, por el que se aprueba el Reglamento del Registro de Fundaciones de Competencia Estatal, se permite la puesta en funcionamiento de dicho registro, al desarrollar sus funciones, su estructura, su funcionamiento y efectos, de acuerdo con las líneas maestras enunciadas en el capítulo VIII de la Ley 50/2002, de 26 de diciembre.
+
+Junto a todo lo anterior, el Real Decreto 1611/2007, de 7 de diciembre, antes citado, también aborda el régimen de las cargas duraderas, el régimen de las actuaciones anteriores a la entrada en funcionamiento del Registro de Fundaciones de Competencia Estatal y adscribe dicho registro a la Dirección General de los Registros y del Notariado, disponiendo que radicará en Madrid y tendrá carácter único para todo el territorio del Estado.
+
+Por último, la disposición final segunda de dicho real decreto, regula la facultad de desarrollo, disponiendo en su apartado 2 que la fecha de entrada en funcionamiento del Registro de Fundaciones de Competencia Estatal se dispondrá mediante orden conjunta del Ministro de Economía y Hacienda y del Ministro de Justicia. Asimismo, se refiere, en su apartado 4 a que la Comisión Ejecutiva de la Comisión Interministerial de Retribuciones procederá a la aprobación de la nueva Relación de Puestos de Trabajo del Ministerio de Justicia derivada de lo dispuesto en el presente real decreto.
+
+Por su parte, cabe señalar que el Real Decreto 453/2012, de 5 de marzo, por el que se desarrolla la estructura orgánica básica del Ministerio de Justicia y se modifica el Real Decreto 1887/2011, de 30 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales establece en su artículo 9 que corresponde a la Dirección General de los Registros y del Notariado la llevanza del Registro de Fundaciones.
+
+A pesar de las previsiones normativas citadas, el Registro de Fundaciones de Competencia Estatal no ha entrado en funcionamiento hasta el momento.
+
+En este contexto, el Consejo de Ministros acordó el 26 de octubre de 2012 la creación de una Comisión para la Reforma de las Administraciones Públicas, que debía elaborar un informe con propuestas de medidas que dotaran a la Administración del tamaño, eficiencia y flexibilidad que demandan los ciudadanos y la economía del país. Este informe preveía entre sus medidas, la implantación efectiva del Registro de Fundaciones de Competencia Estatal.
+
+De conformidad con lo establecido en el apartado 2 de la disposición final segunda del citado Real Decreto 1611/2007, de 7 de diciembre, y el artículo 25.f) de la Ley 50/1997, de 27 de noviembre, del Gobierno, se dicta la presente orden ministerial.
+
+En su virtud, a propuesta de los Ministros de Justicia y de Hacienda y Administraciones Públicas, dispongo:
