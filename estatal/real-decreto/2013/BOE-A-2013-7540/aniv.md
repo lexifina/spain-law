@@ -18,6 +18,8 @@ Materiales relacionados en la lista europea de residuos. Decisión 2001/118/CE d
 
 02 01 07 Residuos de la silvicultura
 
+02 01 99 Residuos no especificados en otra categoría: sustrato agotado y posteriormente higienizado del cultivo de setas.
+
 02 02 Residuos de la preparación y elaboración de carne, pescado y otros alimentos de origen animal (salvo lo exceptuado en el Reglamento 1069/2009)
 
 02 02 01 Lodos de lavado y limpieza
@@ -145,3 +147,5 @@ Materiales relacionados en la lista europea de residuos. Decisión 2001/118/CE d
 20 03 02 Residuos de mercados de origen vegetal y animal
 
 20 03 04 Lodos de fosas sépticas
+
+> Se modifica el punto 02 01 por el art. único.4 de la Orden AAA/2564/2015, de 27 de noviembre. Ref. BOE-A-2015-13094.

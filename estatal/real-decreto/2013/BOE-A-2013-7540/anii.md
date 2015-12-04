@@ -1,6 +1,6 @@
 ## ANEXO II
 
-## DISPOSICIONES GENERALES DE IDENTIFICACIÓN Y ETIQUETADO
+## Disposiciones generales de identificación y etiquetado
 
 Las únicas indicaciones relativas al producto que se admitirán en etiquetas y documentos de acompañamiento serán las siguientes:
 
@@ -156,6 +156,8 @@ En los de fermentación, en su caso, el microorganismo utilizado.
 
 En los de síntesis, el método utilizado.
 
+g) En los productos fertilizantes de los grupos 2, 3 y 6 que utilicen como materia prima el sustrato agotado de setas, deberá declararse la conductividad eléctrica.
+
 4. Respecto a las instrucciones de uso y aplicación.-
 
 Las instrucciones específicas sobre dosis a emplear y método de aplicación, para el suelo y el cultivo en que se utilizará el producto fertilizante, serán de exclusiva responsabilidad del fabricante, y respetarán las normas fijadas en este real decreto.
@@ -186,7 +188,7 @@ e) La indicación de la cantidad expresada en masa (kilogramos) neta o bruta. En
 
 f) El número de inscripción en el Registro de Productos Fertilizantes, en su caso.
 
-g) En los productos fertilizantes de los grupos 2, 3 y 6, la denominación comercial, en la que no se podrán utilizar cifras o expresiones que induzcan a confusión sobre el tipo de producto, riquezas o contenidos, así como el empleo de palabras o prefijos como «biológico», «ecológico», «abono ecológico», «natural», «bio», «eco», etc., sin el correspondiente certificado de conformidad emitido por las entidades certificadoras de insumos autorizados en agricultura ecológica.
+g) En los productos fertilizantes de los grupos 2, 3 y 6, la denominación comercial, en la que no se podrán utilizar cifras o expresiones que induzcan a confusión sobre el tipo de producto, riquezas o contenidos, así como el empleo de palabras o prefijos como «biológico», «ecológico», «abono ecológico», «bio» o «eco», sin el correspondiente certificado de conformidad emitido por las entidades certificadoras de insumos autorizados en agricultura ecológica.
 
 h) El nombre o razón social y la dirección de la persona física o jurídica responsable de la puesta en el mercado (productor, importador, envasador etc.), de acuerdo con el punto 46 del articulo 2.
 
@@ -198,7 +200,7 @@ Los envases, etiquetas y documentos de acompañamiento podrán llevar las siguie
 
 a) La marca del fabricante.
 
-b) En los productos fertilizantes de los grupos 1, 4, 5 y 7, la denominación comercial, en la que no se podrán utilizar cifras o expresiones que induzcan a confusión sobre el tipo de producto, riquezas o contenidos, así como el empleo de palabras o prefijos como «biológico», «ecológico», «abono ecológico», «natural», «bio», «eco», etc., sin el correspondiente certificado de conformidad emitido por las entidades certificadoras de insumos autorizados en agricultura ecológica.
+b) En los productos fertilizantes de los grupos 2, 3 y 6, la denominación comercial, en la que no se podrán utilizar cifras o expresiones que induzcan a confusión sobre el tipo de producto, riquezas o contenidos, así como el empleo de palabras o prefijos como «biológico», «ecológico», «abono ecológico», «bio» o «eco», sin el correspondiente certificado de conformidad emitido por las entidades certificadoras de insumos autorizados en agricultura ecológica.
 
 c) No podrá utilizarse la denominación «abono de liberación lenta», «abono de liberación gradual» o similares, salvo en el caso de los abonos de los grupos 1, 3 y 4, formulados a base de urea de baja solubilidad (tipos A.1.10, A.1.11 y A.1.12 del Anexo I del Reglamento (CE) n.º 2003/2003) o los abonos con inhibidores de la nitrificación o de la ureasa autorizados.
 
@@ -208,9 +210,9 @@ e) El contenido en P2O5 soluble en agua en los productos fosfatados del grupo 3,
 
 f) El contenido en micronutrientes, salvo en el caso de boro (B), en los grupos 2, 3 y 4, cuando sean ingredientes normales de materias primas destinadas a aportar nutrientes principales y secundarios, siempre que estén presentes en cantidades iguales o superiores a los contenidos mínimos que figuran en el apartado 1.3.4 del Anexo I y se declarará conforme a lo especificado en el punto A.2.3. d) de este anexo.
 
-g) El contenido en materia orgánica en los productos del grupo 2 (abonos orgánicos).
+g) El contenido en materia orgánica en los productos de los grupos 2 (abonos orgánicos) y 3 (abonos órgano-minerales).
 
-h) El contenido en materia orgánica en los productos del grupo 3 (abonos organo-minerales), determinada con el contenido en carbono orgánico por el factor 1,724 (coeficiente de Waksman).
+h) (Suprimido)
 
 i) El contenido en ácidos fúlvicos en los productos del grupo 6 (enmiendas orgánicas).
 
@@ -221,3 +223,5 @@ k) Las instrucciones de almacenamiento y manipulación para los productos sólid
 l) La indicación «pobre en cloruro» sólo podrá incluirse cuando el contenido en cloruro sea inferior al 2 %. Así mismo, la indicación «libre de cloruro» sólo podrá incluirse cuando el contenido en cloruro sea inferior al 0,3%.
 
 m) Valor del pH en aquellos productos que no sea obligatoria su mención.
+
+> Se modifican los apartados A.3, A.5, B.b) y B.g) y se elimina el B.h) por el art. único.2 de la Orden AAA/2564/2015, de 27 de noviembre. Ref. BOE-A-2015-13094.
