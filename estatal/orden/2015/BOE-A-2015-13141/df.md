@@ -1,0 +1,7 @@
+## Disposición final primera. Modificación de la Orden ECC/461/2013, de 20 de marzo, por la que se determinan el contenido y la estructura del informe anual de gobierno corporativo, del informe anual sobre remuneraciones y de otros instrumentos de información de las sociedades anónimas cotizadas, de las cajas de ahorros y de otras entidades que emitan valores admitidos a negociación en mercados oficiales de valores.
+
+La disposición final segunda de la Orden ECC/461/2013, de 20 de marzo, por la que se determinan el contenido y la estructura del informe anual de gobierno corporativo, del informe anual sobre remuneraciones y de otros instrumentos de información de las sociedades anónimas cotizadas, de las cajas de ahorros y de otras entidades que emitan valores admitidos a negociación en mercados oficiales de valores, queda redactada como sigue:
+
+«Disposición final segunda. Habilitación a la Comisión Nacional del Mercado de Valores.
+
+La Comisión Nacional del Mercado de Valores queda habilitada para detallar mediante Circular el contenido y estructura de los informes de gobierno corporativo y de remuneraciones de conformidad con lo previsto en el texto refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2012, de 2 de julio, y en esta orden ministerial, a cuyos efectos podrá establecer modelos o impresos con arreglo a los cuales las diferentes entidades deberán hacer públicos los mismos.»
