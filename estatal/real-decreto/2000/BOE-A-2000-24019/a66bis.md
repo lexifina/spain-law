@@ -1,16 +1,24 @@
-## Artículo 66 bis. Avales para tramitar la solicitud de acceso a la red de distribución de nuevas instalaciones de producción en régimen especial.
+## Artículo 66 bis. Garantía económica para tramitar la solicitud de acceso a la red de distribución de instalaciones de producción.
 
-Para las nuevas instalaciones de producción en régimen especial, el solicitante, antes de realizar la solicitud de acceso a la red de distribución deberá haber presentado un aval por una cuantía equivalente a 20 €/kW para las instalaciones a las que les sea aplicable la normativa específica reguladora de la conexión a red de las instalaciones de producción de energía eléctrica de pequeña potencia, de 500 €/kW instalado para las instalaciones fotovoltaicas no incluidas en el ámbito de aplicación de la citada normativa o 20 €/kW para el resto de instalaciones. Estas cuantías podrán ser modificadas por orden del Ministro de Industria, Turismo y Comercio.
+1. Para las instalaciones de producción, el solicitante, antes de realizar la solicitud de acceso a la red de distribución deberá presentar, ante el órgano competente para otorgar la autorización de la instalación, resguardo acreditativo de haber depositado una garantía económica por una cuantía equivalente a 10 €/kW instalados. En el caso de instalaciones competencia de la Administración General del Estado dicha garantía se depositará ante la Caja General de Depósitos Por orden del Ministro de Industria, Energía y Turismo podrá modificarse dicha cuantía, así como establecer cuantías diferenciadas por potencia.
 
-Quedarán exentas de la presentación de este aval las instalaciones de potencia igual o inferior a 10 kW.
+Quedarán exentas de la presentación de esta garantía las instalaciones de potencia igual o inferior a 10 kW, o aquellas instalaciones de generación destinadas al autoconsumo que no tengan la consideración de instalaciones de producción,
 
-La presentación de este aval será requisito imprescindible para la iniciación de los procedimientos de acceso y conexión a la red de distribución por parte del gestor de la red de distribución.
+La presentación de este resguardo será requisito imprescindible para la iniciación de los procedimientos de conexión y acceso a la red de distribución por parte del gestor de la red de distribución.
 
-El aval será cancelado cuando el peticionario obtenga el acta de puesta en servicio de la instalación.
+La garantía se constituirá en la modalidad de efectivo o aval prestado por entidades de crédito o sociedades de garantía recíproca, de acuerdo con lo previsto en el Real Decreto 161/1997, de 7 de febrero, por el que se aprueba el Reglamento de la Caja General de Depósitos.
 
-En el caso de las instalaciones en las que no sea necesaria la obtención de una autorización administrativa, la cancelación será realizada cuando se realice la inscripción definitiva de la instalación.
+La finalidad de la garantía será la obtención de la autorización de explotación.
 
-Si a lo largo del procedimiento, el solicitante desiste voluntariamente de la tramitación administrativa de la instalación o no responde a los requerimientos de la Administración de información o actuación realizados en el plazo de tres meses, se procederá a la ejecución del aval. Se tendrá en cuenta a la hora de valorar el desistimiento del promotor, el resultado de los actos administrativos previos que puedan condicionar la viabilidad del proyecto.
+Deberá indicarse expresamente en el resguardo de constitución de la garantía que ésta es depositada a los efectos del cumplimiento de lo establecido en el presente artículo.
+
+2. La garantía económica será cancelada cuando el peticionario obtenga la autorización de explotación definitiva de la instalación.
+
+El desistimiento en la construcción de la instalación, la caducidad de los procedimientos de autorización administrativa de la instalación o el incumplimiento de los plazos previstos en las autorizaciones preceptivas supondrá la ejecución de la garantía. Ello no obstante, el órgano competente podrá exceptuar la ejecución de la garantía depositada por el titular de una instalación, si el desistimiento en la construcción de la misma viene dado por circunstancias impeditivas que no fueran ni directa ni indirectamente imputables al interesado y así fuera solicitado por éste a dicho órgano.
+
+3. El desistimiento en la construcción, la caducidad de los procedimientos de autorización administrativa de la instalación o la ejecución de la garantía supondrá la pérdida de los derechos de acceso y conexión correspondientes y será comunicado, en el caso de instalaciones competencia de la Administración General del Estado, por la Dirección General de Política Energética y Minas al operador del sistema y gestor de la red de distribución a los efectos oportunos.
+
+> Se modifica por el art. 1.2 del Real Decreto 1074/2015, de 27 de noviembre. Ref. BOE-A-2015-13140.
 
 > Se modifica por la disposición final 1.1 del Real Decreto 1699/2011, de 18 de noviembre. Ref. BOE-A-2011-19242.
 

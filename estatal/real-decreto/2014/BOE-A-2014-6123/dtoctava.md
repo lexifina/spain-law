@@ -8,6 +8,10 @@ b) Una vez realizada la anterior liquidación, se procederá a incorporar la nov
 
 En caso de que esta cantidad suponga una obligación de ingreso al sistema de liquidaciones, y supere el límite del 50 por ciento de la suma de la cantidad que resulte de lo dispuesto en el apartado a) anterior y del derecho de cobro de la energía entregada al sistema valorada al precio del mercado diario del mes al que se refiera la liquidación, la cantidad a incorporar como obligación de ingreso al sistema de liquidaciones será el máximo entre dicho límite y la doceava parte de las obligaciones de pago, resultantes de la aplicación de la metodología establecida en el presente real decreto a la energía producida desde la entrada en vigor del Real Decreto-ley 9/2013, de 12 de julio, hasta la entrada en vigor de las disposiciones necesarias para la plena aplicación del nuevo régimen retributivo.
 
+Como excepción a lo dispuesto en el párrafo anterior, para las instalaciones que desde la entrada en vigor de este real decreto hasta el 30 de noviembre de 2015 hayan tenido un número de horas equivalentes de funcionamiento inferior al umbral de funcionamiento al que hace referencia el artículo 21.3 de este real decreto, con independencia de que hubieran solicitado la renuncia temporal al régimen retributivo específico, el órgano encargado de las liquidaciones podrá fraccionar, a solicitud del interesado, el pago de los derechos de cobro u obligaciones de pago resultantes referidos anteriormente. Esta solicitud se podrá dirigir al órgano encargado de la liquidación hasta el 31 de enero de 2016.
+
+El fraccionamiento se realizará en los siguientes términos en función del importe total de la deuda: 1.º hasta 25.000 euros por MW, el plazo máximo de devolución pasará a ser treinta y seis meses, 2.º de 25.000 euros por MW a 200.000 euros por MW, el plazo máximo pasará a ser cuarenta y ocho meses, 3.º superiores a 200.000 euros por MW, el plazo máximo pasará a ser sesenta meses.
+
 c) La cantidad que no se hubiera ingresado por encima de los límites establecidos en el segundo párrafo del apartado b), se añadirá en la siguiente liquidación a la novena parte definida en el primer párrafo de dicho apartado.
 
 d) A efectos del cálculo de las obligaciones de pago y derechos de cobro resultantes de la aplicación de lo dispuesto en la disposición transitoria tercera.2 del Real Decreto-ley 9/2013, se tendrá en cuenta lo siguiente en relación con las liquidaciones realizadas a cuenta:
@@ -43,6 +47,8 @@ En ningún caso la obligación de pago podrá ser superior al 40 por ciento del 
 c) Los importes detraídos por el operador del mercado conforme a lo establecido en los apartados anteriores serán transferidos al órgano encargado de la liquidación.
 
 6. En aquellos casos en que el incumplimiento de la obligación de ingreso que corresponda a un sujeto productor o a su representante indirecto, no hubiera sido satisfecha en su totalidad de acuerdo con lo previsto en los apartados anteriores, será compensada con las cuantías liquidadas por el operador del sistema que correspondan al mismo sujeto productor.
+
+> Se añaden los dos últimos párrafos al apartado 1.b) por el art. 5.2 del Real Decreto 1074/2015, de 27 de noviembre. Ref. BOE-A-2015-13140.
 
 > Se modifican los apartados 1.b), 1.c) y 5.a) por la disposición final 5.2 del Real Decreto 738/2015, de 31 de julio. Ref. BOE-A-2015-8646.
 

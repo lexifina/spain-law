@@ -50,7 +50,7 @@ p: Primer año del semiperiodo regulatorio «j».
 
 Tasa de actualización con la que se calcularon los parámetros retributivos en el semiperiodo regulatorio anterior «j-1».
 
-Ingfi,j-1: Estimación de los ingresos de explotación futuros de la instalación tipo que se consideró en el cálculo de los parámetros retributivos del semiperiodo «j-1» para el año «i», por unidad de potencia, expresado en €/MW.
+Ingfi,j-1: Estimación de los ingresos de explotación futuros de la instalación tipo que se consideraron en el cálculo de los parámetros retributivos del semiperiodo «j-1» para el año «i», que incluían los ingresos procedentes de la venta de la energía en el mercado y, en su caso, los ingresos derivados de la retribución a la operación y los ingresos regulados en los apartados 2 y 3 del artículo 24, a los que se añaden los ingresos derivados de la retribución a la inversión, expresado en €/MW.
 
 Cexpi,j-1:Estimación del coste futuro de explotación de la instalación tipo que se consideró en el cálculo de los parámetros retributivos del semiperiodo «j-1» para el año «i», por unidad de potencia, expresado en €/MW.
 
@@ -106,7 +106,7 @@ sm: Número de años del semiperiodo retributivo, toma valor 3 en virtud del art
 
 tj-1: Tasa de actualización con la que se calcularon los parámetros retributivos en el semiperiodo regulatorio anterior «j-1».
 
-Ingfi,j-1:Estimación de los ingresos de explotación futuros de la instalación tipo que se consideró en el cálculo de los parámetros retributivos del semiperiodo «j-1» para el año «i», por unidad de potencia, expresado en €/MW.
+Ingfi,j-1: Estimación de los ingresos de explotación futuros de la instalación tipo que se consideraron en el cálculo de los parámetros retributivos del semiperiodo «j-1» para el año «i», que incluían los ingresos procedentes de la venta de la energía en el mercado y, en su caso, los ingresos derivados de la retribución a la operación y los ingresos regulados en los apartados 2 y 3 del artículo 24, a los que se añaden los ingresos derivados de la retribución a la inversión, expresado en €/MW.
 
 Cexpi,j-1:Estimación del coste futuro de explotación de la instalación tipo que se consideró en el cálculo de los parámetros retributivos del semiperiodo «j-1» para el año «i», por unidad de potencia, expresado en €/MW.
 
@@ -115,3 +115,5 @@ Vajdrn i,j-1: Valor de ajuste por desviaciones en el precio del mercado en el a�
 En ningún caso el valor neto del activo será negativo. Si de la anterior formulación se obtuviera una valor negativo, se considerará que el valor neto del activo (VNAj,a) toma como valor cero.
 
 4.b) Coeficiente de ajuste. Para su cálculo se utilizará la metodología definida en el apartado 3.b del presente anexo.
+
+> Se modifican los apartados 3.a) y 4.a) por el art. 5.3 del Real Decreto 1074/2015, de 27 de noviembre. Ref. BOE-A-2015-13140.

@@ -26,7 +26,9 @@ El régimen retributivo específico aplicable a cada instalación será el corre
 
 Para las instalaciones tipo, cuando sin haber finalizado su vida útil regulatoria, se obtenga una retribución a la inversión nula en aplicación de la metodología establecida en el presente real decreto, la retribución a la operación, que en su caso se establezca, se aplicará desde la entrada en vigor del citado real decreto-ley.
 
-6. Para las instalaciones definidas en esta disposición se considerará que la fecha de inicio para la contabilización de la vida útil regulatoria es el 1 de enero del año siguiente al de la autorización de explotación definitiva de la instalación.
+6. Para las instalaciones definidas en esta disposición se considerará que la fecha de inicio para la contabilización de la vida útil regulatoria será el 1 de enero del año siguiente al de la autorización de explotación definitiva de la instalación.
+
+No obstante lo anterior, el órgano encargado de las liquidaciones no reclamará a los titulares cantidades por encima de lo que le hubiera correspondido reclamar aplicando el régimen retributivo específico desde el primer día del mes siguiente al de la autorización de explotación definitiva hasta el 31 de diciembre de ese año.
 
 7. A las instalaciones incluidas en esta disposición que estén ubicadas en los territorios no peninsulares, no les será de aplicación lo establecido en la disposición adicional decimocuarta.2.
 
@@ -39,3 +41,5 @@ b) Para el cálculo del rendimiento eléctrico equivalente se considerará como 
 A estos efectos remitirán al organismo encargado de la liquidación la información que acredite, según proceda, la cantidad equivalente de purines de cerdo del 95 por ciento de humedad o bien la cantidad de lodos al 70 por ciento de humedad.
 
 En el caso de las instalaciones de tratamiento y secado de lodos derivados de la producción de aceite de oliva, la valoración del calor útil se realizará considerando el combustible utilizado para dicho proceso de tratamiento y secado con anterioridad a la utilización de la instalación.
+
+> Se modifica el apartado 6 por el art. 5.1 del Real Decreto 1074/2015, de 27 de noviembre. Ref. BOE-A-2015-13140.
