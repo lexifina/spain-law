@@ -26,6 +26,8 @@ c) El conocimiento de los recursos de apelación contra las resoluciones dictada
 
 d) La decisión de las cuestiones de competencia entre órganos jurisdiccionales del orden penal con sede en la comunidad autónoma que no tengan otro superior común.
 
+e) De los procedimientos de decomiso autónomo por los delitos para cuyo conocimiento sean competentes.
+
 4. Para la instrucción de las causas a que se refieren los párrafos a) y b) del apartado anterior se designará de entre los miembros de la Sala, conforme a un turno preestablecido, un instructor que no formará parte de la misma para enjuiciarlas.
 
 5. Le corresponde, igualmente, la decisión de las cuestiones de competencia entre Juzgados de Menores de distintas provincias de la comunidad autónoma.
@@ -33,6 +35,10 @@ d) La decisión de las cuestiones de competencia entre órganos jurisdiccionales
 6. En el caso de que el número de asuntos lo aconseje, podrán crearse una o más Secciones e incluso Sala de lo Penal con su propia circunscripción territorial en aquellas capitales que ya sean sedes de otras Salas del Tribunal Superior, a los solos efectos de conocer los recursos de apelación a los que se refiere la letra c) del apartado 3 de este artículo y aquellas otras apelaciones atribuidas por las leyes al Tribunal Superior de Justicia.
 
 Los nombramientos para Magistrados de estas Secciones o Salas, a propuesta del Consejo General del Poder Judicial, recaerán en aquellos Magistrados que, ostentando la condición de especialista en el orden penal obtenida mediante la superación de las pruebas selectivas que reglamentariamente determine el Consejo General del Poder Judicial, tengan mejor puesto en su escalafón. A falta de éstos, recaerá en aquellos Magistrados que habiendo prestado sus servicios en el orden jurisdiccional penal durante diez años dentro de los quince años inmediatamente anteriores a la fecha de la convocatoria, tengan mejor puesto en el escalafón. La antigüedad en órganos mixtos se computará de igual manera a estos efectos. En su defecto, se nombrará a quien ostente mejor puesto en el escalafón.
+
+> Téngase en cuenta que la letra e) añadida al apartado 3 por la disposición final 1.3 de la Ley Orgánica 13/2015, de 5 de octubre Ref. BOE-A-2015-10725. entra en vigor el 6 de diciembre de 2015, según determina su disposición final 4.
+
+> Se añade la letra e) al apartado 3 por la disposición final 1.3 de la Ley Orgánica 13/2015, de 5 de octubre Ref. BOE-A-2015-10725.
 
 > Se modifica el apartado 6 por el art. único.20 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 

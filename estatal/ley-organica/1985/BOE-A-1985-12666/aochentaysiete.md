@@ -4,7 +4,7 @@
 
 a) De la instrucción de las causas por delito cuyo enjuiciamiento corresponda a las Audiencias Provinciales y a los Juzgados de lo Penal, excepto de aquellas causas que sean competencia de los Juzgados de Violencia sobre la Mujer.
 
-b) Les corresponde asimismo dictar sentencia de conformidad con la acusación en los casos establecidos por la Ley.
+b) Les corresponde asimismo dictar sentencia de conformidad con la acusación en los casos establecidos por la Ley y en los procesos por aceptación de decreto.
 
 c) Del conocimiento y fallo de los juicios de faltas, salvo los que sean competencia de los Jueces de Paz, o de los Juzgados de Violencia sobre la Mujer.
 
@@ -16,7 +16,17 @@ f) De la adopción de la orden de protección a las víctimas de violencia sobre
 
 g) De la emisión y la ejecución de los instrumentos de reconocimiento mutuo de resoluciones penales en la Unión Europea que les atribuya la ley.
 
+h) De los procedimientos de decomiso autónomo por los delitos para cuyo conocimiento sean competentes.
+
 2. Asimismo, los juzgados de instrucción conocerán de la autorización del internamiento de extranjeros en los centros de internamiento, así como del control de la estancia de éstos en los mismos y en las salas de inadmisión de fronteras. También conocerán de las peticiones y quejas que planteen los internos en cuanto afecten a sus derechos fundamentales.
+
+> Téngase en cuenta que esta última actualización de las letras b) y h) del apartado 1 establecida por la disposición final 1.5 de la Ley Orgánica 13/2015, de 5 de octubre Ref. BOE-A-2015-10725. entra en vigor el 6 de diciembre de 2015, según determina su disposición final 4.
+
+> Redacción anterior:
+
+> "b) Les corresponde asimismo dictar sentencia de conformidad con la acusación en los casos establecidos por la Ley."
+
+> Se modifica la letra b) y se añade la h) al apartado 1 por la disposición final 1.5 de la Ley Orgánica 13/2015, de 5 de octubre Ref. BOE-A-2015-10725.
 
 > Se modifica la letra g) del apartado 1 por el art. único.2 de la Ley Orgánica 6/2014, de 29 de octubre. Ref. BOE-A-2014-11063.
 

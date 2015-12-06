@@ -6,13 +6,15 @@
 
 2.º De los recursos que establezca la ley contra las resoluciones dictadas por los Juzgados de Instrucción y de lo Penal de la provincia.
 
-Para el conocimiento de los recursos contra resoluciones de los Juzgados de Instrucción en juicio de faltas la audiencia se constituirá con un solo Magistrado, mediante un turno de reparto.
+Para el conocimiento de los recursos contra resoluciones de los Juzgados de Instrucción en juicios por delitos leves la Audiencia se constituirá con un solo Magistrado, mediante un turno de reparto.
 
 3.º De los recursos que establezca la ley contra las resoluciones en materia penal dictadas por los Juzgados de Violencia sobre la Mujer de la provincia. A fin de facilitar el conocimiento de estos recursos, y atendiendo al número de asuntos existentes, deberán especializarse una o varias de sus secciones de conformidad con lo previsto en el artículo 98 de la presente Ley Orgánica. Esta especialización se extenderá a aquellos supuestos en que corresponda a la Audiencia Provincial el enjuiciamiento en primera instancia de asuntos instruidos por los Juzgados de Violencia sobre la Mujer de la provincia.
 
 4.º Las Audiencias Provinciales conocerán también de los recursos contra las resoluciones de los Juzgados de Menores con sede en la provincia y de las cuestiones de competencia entre los mismos.
 
 5.º De los recursos que establezca la ley contra las resoluciones de los Juzgados de Vigilancia Penitenciaria, cuando la competencia no corresponda a la Sala de lo Penal de la Audiencia Nacional.
+
+6.º De los procedimientos de decomiso autónomo por los delitos para cuyo conocimiento sean competentes.
 
 2. Las Audiencias Provinciales conocerán en el orden civil:
 
@@ -31,6 +33,16 @@ Para el conocimiento de los recursos contra resoluciones de los Juzgados de Prim
 1.º De las cuestiones de competencia en materia civil y penal que se susciten entre juzgados de la provincia que no tengan otro superior común.
 
 2.º De las recusaciones de sus Magistrados, cuando la competencia no esté atribuida a la Sala especial existente a estos efectos en los Tribunales Superiores de Justicia.
+
+> Téngase en cuenta que esta última actualización de los números 2 y 6 del apartado 1 establecida por la disposición final 1.4 de la Ley Orgánica 13/2015, de 5 de octubre Ref. BOE-A-2015-10725. entra en vigor el 6 de diciembre de 2015, según determina su disposición final 4.
+
+> Redacción anterior:
+
+> "2.º De los recursos que establezca la ley contra las resoluciones dictadas por los Juzgados de Instrucción y de lo Penal de la provincia.
+
+> Para el conocimiento de los recursos contra resoluciones de los Juzgados de Instrucción en juicio de faltas la audiencia se constituirá con un solo Magistrado, mediante un turno de reparto."
+
+> Se modifica el párrafo 2 del número 2 y se añade el número 6 al apartado 1 por la disposición final 1.4 de la Ley Orgánica 13/2015, de 5 de octubre. Ref. BOE-A-2015-10725.
 
 > Se modifica el apartado 2.2 por el art. único.21 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 

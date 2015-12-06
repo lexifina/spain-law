@@ -26,7 +26,17 @@ En todo caso, la Sala de lo penal de la Audiencia Nacional extenderá su compete
 
 6.º De los recursos contra las resoluciones dictadas por los Juzgados Centrales de Vigilancia Penitenciaria de conformidad con lo previsto en la disposición adicional quinta.
 
-7.º De cualquier otro asunto que le atribuyan las leyes.
+7.º De los procedimientos de decomiso autónomo por los delitos para cuyo conocimiento sean competentes.
+
+8.º De cualquier otro asunto que le atribuyan las leyes.
+
+> Téngase en cuenta que esta última actualización de los números 7 y 8 establecida por la disposición final 1.2 de la Ley Orgánica 13/2015, de 5 de octubre Ref. BOE-A-2015-10725. entra en vigor el 6 de diciembre de 2015, según determina su disposición final 4.
+
+> Redacción anterior:
+
+> "7.º De cualquier otro asunto que le atribuyan las leyes."
+
+> Se renumera el número 7 como 8 y se añade el 7 por la disposición final 1.2 de la Ley Orgánica 13/2015, de 5 de octubre Ref. BOE-A-2015-10725.
 
 > Se modifica el número 4º por el art. único.1 de la Ley Orgánica 6/2014, de 29 de octubre. Ref. BOE-A-2014-11063.
 

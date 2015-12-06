@@ -30,21 +30,15 @@ Estas medidas podrán consistir en la atribución del uso y disfrute de la vivie
 
 Las medidas de carácter civil contenidas en la orden de protección tendrán una vigencia temporal de 30 días. Si dentro de este plazo fuese incoado a instancia de la víctima o de su representante legal un proceso de familia ante la jurisdicción civil, las medidas adoptadas permanecerán en vigor durante los treinta días siguientes a la presentación de la demanda. En este término las medidas deberán ser ratificadas, modificadas o dejadas sin efecto por el Juez de primera instancia que resulte competente.
 
-> Téngase en cuenta que esta última actualización del apartado 7, establecida por la disposición final 1.13 de la Ley 4/2015, de 27 de abril. Ref. BOE-A-2015-4606#dfprimera., entra en vigor el 28 de octubre de 2015, según la disposición final 6 de la citada Ley.
-
-> Redacción anterior:
-
-> "7. Las medidas de naturaleza civil deberán ser solicitadas por la víctima o su representante legal, o bien por el Ministerio Fiscal cuando existan hijos menores o incapaces, siempre que no hubieran sido previamente acordadas por un órgano del orden jurisdiccional civil, y sin perjuicio de las medidas previstas en el artículo 158 del Código Civil. Estas medidas podrán consistir en la atribución del uso y disfrute de la vivienda familiar, determinar el régimen de custodia, visitas, comunicación y estancia con los hijos, el régimen de prestación de alimentos, así como cualquier disposición que se considere oportuna a fin de apartar al menor de un peligro o de evitarle perjuicios.
-
-> Las medidas de carácter civil contenidas en la orden de protección tendrán una vigencia temporal de 30 días. Si dentro de este plazo fuese incoado a instancia de la víctima o de su representante legal un proceso de familia ante la jurisdicción civil las medidas adoptadas permanecerán en vigor durante los treinta días siguientes a la presentación de la demanda. En este término las medidas deberán ser ratificadas, modificadas o dejadas sin efecto por el juez de primera instancia que resulte competente."
-
 8. La orden de protección será notificada a las partes, y comunicada por el Secretario judicial inmediatamente, mediante testimonio íntegro, a la víctima y a las Administraciones públicas competentes para la adopción de medidas de protección, sean éstas de seguridad o de asistencia social, jurídica, sanitaria, psicológica o de cualquier otra índole. A estos efectos se establecerá reglamentariamente un sistema integrado de coordinación administrativa que garantice la agilidad de estas comunicaciones.
 
-9. La orden de protección implicará el deber de informar permanentemente a la víctima sobre la situación procesal del imputado así como sobre el alcance y vigencia de las medidas cautelares adoptadas. En particular, la víctima será informada en todo momento de la situación penitenciaria del presunto agresor. A estos efectos se dará cuenta de la orden de protección a la Administración penitenciaria.
+9. La orden de protección implicará el deber de informar permanentemente a la víctima sobre la situación procesal del investigado o encausado así como sobre el alcance y vigencia de las medidas cautelares adoptadas. En particular, la víctima será informada en todo momento de la situación penitenciaria del presunto agresor. A estos efectos se dará cuenta de la orden de protección a la Administración penitenciaria.
 
 10. La orden de protección será inscrita en el Registro Central para la Protección de las Víctimas de la Violencia Doméstica y de Género.
 
-11. En aquellos casos en que durante la tramitación de un procedimiento penal en curso surja una situación de riesgo para alguna de las personas vinculadas con el imputado por alguna de las relaciones indicadas en el apartado 1 de este artículo, el Juez o Tribunal que conozca de la causa podrá acordar la orden de protección de la víctima con arreglo a lo establecido en los apartados anteriores.
+11. En aquellos casos en que durante la tramitación de un procedimiento penal en curso surja una situación de riesgo para alguna de las personas vinculadas con el investigado o encausado por alguna de las relaciones indicadas en el apartado 1 de este artículo, el Juez o Tribunal que conozca de la causa podrá acordar la orden de protección de la víctima con arreglo a lo establecido en los apartados anteriores.
+
+> Se sustituye el sustantivo "imputado" por "investigado o encausado" por el art. único.21.2 de la Ley Orgánica 13/2015, de 5 de octubre. Ref. BOE-A-2015-10725.
 
 > Se modifica el apartado 7 por la disposición final 1.13 de la Ley 4/2015, de 27 de abril. Ref. BOE-A-2015-4606#dfprimera.
 

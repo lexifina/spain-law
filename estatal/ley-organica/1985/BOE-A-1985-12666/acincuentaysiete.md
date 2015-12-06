@@ -10,8 +10,14 @@
 
 4.º De los demás asuntos que le atribuya esta Ley.
 
+5.º De los procedimientos de decomiso autónomo por los delitos para cuyo conocimiento sean competentes.
+
 2. En las causas a que se refieren los números segundo y tercero del párrafo anterior se designará de entre los miembros de la Sala, conforme a un turno preestablecido, un instructor, que no formará parte de la misma para enjuiciarlas.
 
-> Se añade el número 4.º al apartado 1 por el artículo único.2 la Ley Orgánica 1/2014, de 13 de marzo. Ref. BOE-A-2014-2709.
+> Téngase en cuenta que el número 5 añadido al apartado 1 por la disposición final 1.1 de la Ley Orgánica 13/2015, de 5 de octubre Ref. BOE-A-2015-10725. entra en vigor el 6 de diciembre de 2015, según determina su disposición final 4.
+
+> Se añade el número 5 al apartado 1 por la disposición final 1.1. de la Ley Orgánica 13/2015, de 5 de octubre. Ref. BOE-A-2015-10725.
+
+> Se añade el número 4 al apartado 1 por el artículo único.2 la Ley Orgánica 1/2014, de 13 de marzo. Ref. BOE-A-2014-2709.
 
 > Se añade el apartado 2 y se numera el contenido existente como apartado 1 por el art. 1.2 de la Ley Orgánica 7/1988, de 28 de diciembre. Ref. BOE-A-1988-29621

@@ -6,13 +6,29 @@
 
 A fin de facilitar el conocimiento de los asuntos instruidos por los Juzgados de Violencia sobre la Mujer, y atendiendo al número de asuntos existentes, deberán especializarse uno o varios Juzgados en cada provincia, de conformidad con lo previsto en el artículo 98 de la presente Ley.
 
-Corresponde asimismo a los Juzgados de lo Penal la ejecución de las sentencias dictadas en causas por delito por los Juzgados de Instrucción, y el reconocimiento y ejecución de las resoluciones que impongan sanciones pecuniarias transmitidas por las autoridades competentes de otros Estados miembros de la Unión Europea, cuando las mismas deban cumplirse en territorio español.
+Corresponde asimismo a los Juzgados de lo Penal la ejecución de las sentencias dictadas en causas por delito grave o menos grave por los Juzgados de Instrucción, el reconocimiento y ejecución de las resoluciones que impongan sanciones pecuniarias transmitidas por las autoridades competentes de otros Estados miembros de la Unión Europea, cuando las mismas deban cumplirse en territorio español, y los procedimientos de decomiso autónomo por los delitos para cuyo conocimiento sean competentes.
 
 3. En la Villa de Madrid, con jurisdicción en toda España, habrá uno o varios Juzgados Centrales de lo Penal que conocerán, en los casos en que así lo establezcan las leyes procesales, de las causas por los delitos a que se refiere el artículo 65 y de los demás asuntos que señalen las leyes.
 
-Corresponde asimismo a los Juzgados Centrales de lo Penal la ejecución de las sentencias dictadas en causas por delito por los Juzgados Centrales de Instrucción.
+Corresponde asimismo a los Juzgados Centrales de lo Penal la ejecución de las sentencias dictadas en causas por delito grave o menos grave por los Juzgados Centrales de Instrucción, y los procedimientos de decomiso autónomo por los delitos para cuyo conocimiento sean competentes.
 
 4. Corresponde a los Juzgados de lo Penal la emisión y la ejecución de los instrumentos de reconocimiento mutuo de resoluciones penales en la Unión Europea que les atribuya la ley.
+
+> Téngase en cuenta que esta última actualización de los apartados 2 y 3 establecida por la disposición final 1.6 y 7 de la Ley Orgánica 13/2015, de 5 de octubre Ref. BOE-A-2015-10725. entra en vigor el 6 de diciembre de 2015, según determina su disposición final 4.
+
+> Redacción anterior:
+
+> "2. Los Juzgados de lo Penal enjuiciarán las causas por delito que la ley determine.
+
+> A fin de facilitar el conocimiento de los asuntos instruidos por los Juzgados de Violencia sobre la Mujer, y atendiendo al número de asuntos existentes, deberán especializarse uno o varios Juzgados en cada provincia, de conformidad con lo previsto en el artículo 98 de la presente Ley.
+
+> Corresponde asimismo a los Juzgados de lo Penal la ejecución de las sentencias dictadas en causas por delito por los Juzgados de Instrucción, y el reconocimiento y ejecución de las resoluciones que impongan sanciones pecuniarias transmitidas por las autoridades competentes de otros Estados miembros de la Unión Europea, cuando las mismas deban cumplirse en territorio español.
+
+> 3. En la Villa de Madrid, con jurisdicción en toda España, habrá uno o varios Juzgados Centrales de lo Penal que conocerán, en los casos en que así lo establezcan las leyes procesales, de las causas por los delitos a que se refiere el artículo 65 y de los demás asuntos que señalen las leyes.
+
+> Corresponde asimismo a los Juzgados Centrales de lo Penal la ejecución de las sentencias dictadas en causas por delito por los Juzgados Centrales de Instrucción."
+
+> Se modifican los apartados 2 y 3 por la disposición final 1.6 y 7 de la Ley Orgánica 13/2015, de 5 de octubre Ref. BOE-A-2015-10725.
 
 > Se modifica el apartado 4 por el art. único.5 de la Ley Orgánica 6/2014, de 29 de octubre. Ref. BOE-A-2014-11063.
 

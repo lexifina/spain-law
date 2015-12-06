@@ -48,6 +48,16 @@ o) Delitos contra el patrimonio histórico previstos en el artículo 2.1.e de la
 
 Para poder proceder penalmente contra el mismo por las actuaciones realizadas a los fines de la investigación, el Juez competente para conocer la causa deberá, tan pronto tenga conocimiento de la actuación de algún agente encubierto en la misma, requerir informe relativo a tal circunstancia de quien hubiere autorizado la identidad supuesta, en atención al cual resolverá lo que a su criterio proceda.
 
+6. El juez de instrucción podrá autorizar a funcionarios de la Policía Judicial para actuar bajo identidad supuesta en comunicaciones mantenidas en canales cerrados de comunicación con el fin de esclarecer alguno de los delitos a los que se refiere el apartado 4 de este artículo o cualquier delito de los previstos en el artículo 588 ter a.
+
+El agente encubierto informático, con autorización específica para ello, podrá intercambiar o enviar por sí mismo archivos ilícitos por razón de su contenido y analizar los resultados de los algoritmos aplicados para la identificación de dichos archivos ilícitos.
+
+7. En el curso de una investigación llevada a cabo mediante agente encubierto, el juez competente podrá autorizar la obtención de imágenes y la grabación de las conversaciones que puedan mantenerse en los encuentros previstos entre el agente y el investigado, aun cuando se desarrollen en el interior de un domicilio.
+
+> Téngase en cuenta que los apartados 6 y 7, añadidos por el art. único.2 de la Ley Orgánica 13/2015, de 5 de octubre. Ref. BOE-A-2015-10725., entran en vigor el 6 de diciembre de 2015, según establece la disposición final 4 de la citada ley orgánica.
+
+> Se añaden los apartados 6 y 7 por el art. único.2 de la Ley Orgánica 13/2015, de 5 de octubre. Ref. BOE-A-2015-10725.
+
 > Se modifica el apartado 4 por la disposición final 1.2 de la Ley Orgánica 5/2010, de 22 de junio. Ref. BOE-A-2010-9953.
 
 > Se añade la letra d) al apartado 4 y se reordenan las antiguas letras como e), f), g), h), i), j), k) y l) por la disposición final 1.1.a) de la Ley Orgánica 15/2003, de 25 de noviembre. Ref. BOE-A-2003-21538.
