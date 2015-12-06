@@ -1,0 +1,3 @@
+## Disposición adicional primera. Fomento de la protección y defensa de la propiedad intelectual.
+
+Con el fin de contribuir a la prevención de las actividades vulneradoras de los derechos de propiedad intelectual, que señala el artículo 19.1 h) de la Ley 55/2007, de 28 de diciembre, y dentro del marco de las medidas de fomento establecidas en el artículo 33 de dicha ley, el Instituto de la Cinematografía y de las Artes Audiovisuales podrá suscribir convenios con bancos y entidades de crédito cuya finalidad específica sea facilitar a las empresas la financiación que permita el desarrollo de infraestructuras necesarias para la creación de portales web de descargas y/o visionados legales de contenidos cinematográficos y de otras obras audiovisuales.
