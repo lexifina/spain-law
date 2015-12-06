@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Obligación de Información de la Comisión Nacional de los Mercados y la Competencia y la Corporación de Reservas Estratégicas de Productos Petrolíferos sobre ventas de energía.
+
+La Comisión Nacional de los Mercados y la Competencia así como la Corporación de Reservas Estratégicas de Productos Petrolíferos, enviarán a la Dirección General de Política Energética y Minas, antes del 30 de septiembre de cada año y en formato electrónico, la información sobre las ventas de energía correspondientes al año anterior, expresadas en GWh, de los sujetos obligados en el marco del sistema nacional de obligaciones de eficiencia energética, regulados en el capítulo IV del título III de la Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia.
+
+Para la cumplimentación de dicha información se deberán tener en cuenta las definiciones y los factores de conversión establecidos en la normativa vigente respecto al procedimiento de envío de información de los sujetos obligados del sistema de obligaciones de eficiencia energética en lo relativo a sus ventas de energía.
