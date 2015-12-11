@@ -492,6 +492,8 @@ Todo ello sin perjuicio de las acciones civiles que aquellos puedan ejercitar en
 
 A estos terrenos les será de aplicación el régimen dispuesto en la presente Ley para la zona de servidumbre de protección.»
 
+> Téngase en cuenta que se declara inconstitucional y nulo el apartado 39, en cuanto introduce un nuevo apartado 5 en la disposición transitoria 1 de la Ley 22/1988, por Sentencia del TC 233/2015, de 5 de noviembre. Ref. BOE-A-2015-13480.
+
 Cuarenta. Se modifican las letras a), b) y c) del apartado 2 de la disposición transitoria cuarta, y se introduce un nuevo apartado 3 que quedan redactados del siguiente modo:
 
 «a) Si ocupan terrenos de dominio público marítimo-terrestre, serán demolidas al extinguirse la concesión.
@@ -543,3 +545,5 @@ Cuarenta y tres. Se introduce una nueva disposición adicional duodécima que qu
 «Disposición adicional duodécima.
 
 La incorporación de los bienes inmuebles en el Catastro Inmobiliario, así como de las alteraciones de sus características, que deban realizarse como consecuencia de lo dispuesto en esta Ley, se efectuarán en los términos previstos en el texto refundido de la Ley del Catastro Inmobiliario, aprobado por Real Decreto Legislativo 1/2004, de 5 de marzo, en particular en lo que se refiere a la utilización de la referencia catastral y las obligaciones de comunicación, colaboración y suministro de información a través de medios telemáticos. Mediante Orden del Ministro de Hacienda y Administraciones Públicas, se establecerán los requisitos técnicos para dar cumplimiento a las obligaciones citadas.»
+
+> Se declara inconstitucional y nulo el apartado 39, en cuanto introduce un nuevo apartado 5 en la disposición transitoria 1 de la Ley 22/1988, por Sentencia del TC 233/2015, de 5 de noviembre. Ref. BOE-A-2015-13480.

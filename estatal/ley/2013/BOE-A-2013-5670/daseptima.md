@@ -7,3 +7,5 @@
 3. La escritura pública de transmisión será título suficiente para rectificar las situaciones contradictorias que aparezcan en el Registro de la Propiedad y en el Catastro.
 
 4. La efectividad de la exclusión declarada en el apartado 1 de este artículo estará condicionada a la formalización de los correspondientes negocios de transmisión.
+
+> Se declara que no es inconstitucional esta disposición, siempre que se interprete en los términos establecidos en el fundamento jurídico 14 de la Sentencia del TC 233/2015, de 5 de noviembre. Ref. BOE-A-2015-13480.

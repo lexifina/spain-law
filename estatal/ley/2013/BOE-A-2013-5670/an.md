@@ -57,3 +57,5 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2013/129/05670_015.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2013/129/05670_016.png)
+
+> Se declara que no es inconstitucional este anexo, siempre que se interprete en los términos establecidos en el fundamento jurídico 14, por Sentencia del TC 233/2015, de 5 de noviembre. Ref. BOE-A-2015-13480.

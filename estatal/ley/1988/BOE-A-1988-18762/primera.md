@@ -14,6 +14,8 @@ Todo ello sin perjuicio de las acciones civiles que aquellos puedan ejercitar en
 
 4. En los tramos de costa en que esté completado el deslinde del dominio público marítimo-terrestre a la entrada en vigor de esta Ley, pero haya de practicarse uno nuevo para adecuarlo a las características establecidas en aquélla para los distintos bienes, los terrenos que resulten comprendidos entre la antigua y la nueva delimitación quedarán sujetos al régimen establecido en el apartado primero de esta disposición, computándose el plazo de un año para la solicitud de la concesión a que el mismo se refiere a partir de la fecha de aprobación del correspondiente deslinde.
 
-5. No obstante lo dispuesto en los apartados anteriores, si los terrenos, a que estos se refieren, hubieran sido inundados artificial y controladamente como consecuencia de obras o instalaciones realizadas al efecto y estuvieran destinados a actividades de cultivo marino o a salinas marítimas se excluirán del dominio público marítimo-terrestre, aun cuando sean naturalmente inundables.
+5. (Anulado)
+
+> Se declara inconstitucional y nulo el apartado 5, en la redacción dada por el art. 1.39 de la Ley 2/2013, de 29 de mayo, por Sentencia del TC 233/2015, de 5 de noviembre. Ref. BOE-A-2015-13480.
 
 > Se modifican los apartados 2 y 3 y se añade el apartado 5 por el art. 1.39 de la Ley 2/2013, de 29 de mayo. Ref. BOE-A-2013-5670.
