@@ -44,6 +44,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo XXIV](ar-24.md)
 - [Artículo XXV](ar-25.md)
 - [Artículo XXVI](ar-26.md)
+- [Artículo XXVI-A](aa.md)
 - [Artículo XXVII](ar-27.md)
 - [Artículo XXVIII](ar-28.md)
 - [VII](vi-2.md)

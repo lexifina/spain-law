@@ -28,6 +28,12 @@ h) La expresión «nacional» significa:
 
 (ii) Cualquier persona jurídica, sociedad de personas y asociación constituida de acuerdo con la legislación en vigor en un Estado Contratante.
 
-i) La expresión «Tráfico internacional» significa cualquier transporte efectuado por un buque o aeronave explotado por una empresa cuya sede de dirección efectiva esté situada en un Estado Contratante, a menos que la explotación se efectúe únicamente entre puntos situados en el otro Estado Contratante.
+i) la expresión “tráfico internacional” significa cualquier transporte efectuado por un buque o aeronave explotado por una empresa de un Estado contratante, a menos que dicho transporte se efectúe únicamente entre puntos situados en el otro Estado contratante;
+
+j) el término “empresa” se aplica a la realización de cualquier actividad económica;
+
+k) la expresión “actividad económica” incluye la prestación de servicios profesionales y la realización de otras actividades de carácter independiente.
 
 2. Para la aplicación del presente Convenio por un Estado Contratante, cualquier expresión no definida de otra manera tendrá a menos que el texto exija una interpretación diferente, el significado que se atribuya por la legislación de este Estado Contratante relativa a los impuestos que son objeto del presente Convenio.
+
+> Se modifica la letra i) y se añaden las letras j) y k) por el art. 2 del Protocolo de 18 de noviembre de 2014. Ref. BOE-A-2015-10793

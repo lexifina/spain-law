@@ -12,10 +12,6 @@ c) Si viviera de manera habitual en ambos Estados Contratantes o no lo hiciera e
 
 d) Si fuera nacional de ambos Estados Contratantes o no lo fuera de ninguno de ellos, las autoridades competentes de los Estados Contratantes resolverán el caso de común acuerdo.
 
-3. Cuando, según la disposición del párrafo 1, una sociedad sea considerada como residente de ambos Estados Contratantes, se resolverá el caso de la siguiente manera:
+3. Cuando en virtud de las disposiciones del apartado 1 una persona que no sea una persona física sea residente de ambos Estados contratantes, las autoridades competentes de los Estados contratantes harán lo posible para determinar mediante acuerdo amistoso el Estado del que debe considerársela residente, teniendo en cuenta su sede de dirección efectiva, el lugar de constitución, y cualquier otro factor pertinente. En caso de que las autoridades competentes no pudieran dirimir esta cuestión mediante acuerdo amistoso, se esforzarán por determinar mediante acuerdo amistoso el modo de aplicación de este Convenio a esa persona.
 
-a) Se considerará residente del Estado Contratante del que posea la nacionalidad.
-
-b) Si no tuviera la nacionalidad de ninguno de los Estados Contratantes, se considerará residente del Estado Contratante en que se encuentre su sede de dirección efectiva.
-
-4. Cuando, según la disposición del párrafo 1, una persona, que no sea una persona física o una sociedad, sea residente de ambos Estados Contratantes, las Autoridades competentes de los Estados Contratantes intentarán de mutuo acuerdo resolver la cuestión y determinar la aplicación del presente Convenio a dicha persona.
+> Se modifica el apartado 3 y se suprime el 4 por el art. 3 del Protocolo de 18 de noviembre de 2014. Ref. BOE-A-2015-10793

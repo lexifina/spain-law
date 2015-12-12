@@ -4,22 +4,24 @@
 
 2. Se consideran impuestos sobre la renta y sobre el patrimonio los que gravan la totalidad de la renta o del patrimonio o cualquier parte de los mismos, incluidos los impuestos sobre las ganancias derivadas de la enajenación de bienes muebles o inmuebles, los impuestos sobre el importe de sueldos pagados por las Empresas, así como los impuestos sobre las plusvalías.
 
-3. Los impuestos actuales a los que concretamente se aplica este Convenio son:
+3. Los impuestos actuales a los que se aplica este Convenio son, en particular:
 
-a) En lo que se refiere al Canadá:
+a) en España:
 
-Los impuestos sobre la renta exigibles por el Gobierno del Canadá (denominados en lo sucesivo «impuestos canadienses»).
+(i) el Impuesto sobre la Renta de las Personas Físicas;
 
-b) En lo que se refiere a España:
+(ii) el Impuesto sobre Sociedades;
 
-El impuesto general sobre la renta de las personas físicas.
+(iii) el Impuesto sobre la Renta de No Residentes;
 
-El impuesto general sobre la renta de sociedades y demás Entidades jurídicas.
+(iv) los impuestos locales sobre la renta; y
 
-Los siguientes impuestos a cuenta: la contribución territorial rústica y pecuaria, la contribución territorial urbana, los rendimientos del trabajo personal; el impuesto sobre las rentas del capital y el impuesto sobre actividades y beneficios comerciales e industriales.
+(v) el Impuesto sobre el Patrimonio,
 
-El canon de superficie y el impuesto sobre los beneficios regulados por la Ley de 27 de junio de 1974, aplicable a las empresas que se dedican a la investigación y explotación de hidrocarburos.
+(denominados en lo sucesivo “impuesto español”);
 
-(Denominados en lo sucesivo «impuestos españoles»).
+b) en Canadá, los impuestos exigibles por el Gobierno de Canadá conforme a la Ley del Impuesto sobre la Renta (denominados en lo sucesivo “impuesto canadiense”).
 
 4. El presente Convenio se aplicará a los impuestos futuros de naturaleza idéntica o análoga y a los impuestos sobre el patrimonio (que entren en vigor después de la firma de este Convenio) que se añadan a los actuales o que los sustituyan. Los Estados Contratantes se comunicarán las modificaciones que se hayan introducido en sus respectivas legislaciones fiscales.
+
+> Se modifica el apartado 3 por el art. 1 del Protocolo de 18 de noviembre de 2014. Ref. BOE-A-2015-10793

@@ -6,4 +6,6 @@
 
 3. Las disposiciones del párrafo 1 se aplican a las rentas derivadas de la utilización directa, del arrendamiento o de cualquier otra forma de explotación de los bienes inmuebles y a los beneficios provenientes de la enajenación de los mismos.
 
-4. Las disposiciones de los párrafos 1 y 3 se aplican igualmente a las rentas derivadas de los bienes inmuebles de una empresa y de los bienes inmuebles utilizados para la prestación de servicios profesionales.
+4. Las disposiciones de los apartados 1 y 3 se aplican igualmente a las rentas derivadas de los bienes inmuebles de una empresa.
+
+> Se modifica el apartado 4 por el art. 7.1.a) del Protocolo de 18 de noviembre de 2014. Ref. BOE-A-2015-10793
