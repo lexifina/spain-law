@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Régimen transitorio de determinadas referencias normativas.
+
+En tanto no se produzca la entrada en vigor del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, las referencias efectuadas en los artículos 3.2, 6.1.a), 8.1 y 9 de este real decreto a los artículos 196.4, 194, y 200.2 de dicho texto refundido, se entenderán efectuadas a los artículos 139.4, 137 y 143.2, respectivamente, del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio.
+
+Asimismo, las referencias efectuadas en la parte expositiva de este real decreto a la disposición adicional tercera del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, habrán de entenderse efectuadas al artículo 20 del Real Decreto-ley 13/2010, de 3 de diciembre, de actuaciones en el ámbito fiscal, laboral y liberalizadoras para fomentar la inversión y la creación de empleo.
