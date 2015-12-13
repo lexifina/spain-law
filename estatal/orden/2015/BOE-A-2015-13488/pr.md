@@ -1,0 +1,53 @@
+I
+
+La Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, establece en su artículo 14 que las metodologías de retribución de las actividades de transporte y distribución se establecerán reglamentariamente atendiendo a los costes necesarios para construir, operar y mantener las instalaciones de acuerdo al principio de realización de la actividad al menor coste para el sistema eléctrico según lo dispuesto en el artículo 1.1.
+
+La metodología de retribución ha sido aprobada por el Real Decreto 1048/2013, de 27 de diciembre, por el que se establece la metodología para el cálculo de la retribución de la actividad de distribución de energía eléctrica. Esta norma recoge todos los principios retributivos legales introducidos en la actividad de distribución de energía eléctrica en la nueva ley del sector eléctrico y establece una formulación para retribuir los activos de distribución clara, estable y predecible que contribuye a aportar estabilidad regulatoria y con ello a reducir los costes de financiación de la actividad de distribución y los del sistema eléctrico.
+
+En la formulación contenida en dicho real decreto, se realiza:
+
+a) El cálculo de la retribución de la operación y mantenimiento por aplicación de unos valores unitarios de referencia sobre las instalaciones en servicio.
+
+b) Una valoración a coste de reposición de los activos en servicio no amortizados hasta el año que se toma como base (dos años antes del inicio del primer periodo regulatorio), empleando para ello unos valores unitarios de referencia de inversión.
+
+c) Una valoración del inmovilizado con derecho de retribución a cargo del sistema de los activos puestos en servicio con posterioridad al año base. Para ello se ha recogido una formulación que pondera el valor de inversión en que ha incurrido la empresa y el valor del activo empleando valores unitarios de referencia de inversión.
+
+El Real Decreto 1048/2013, de 27 de diciembre, regula en su Capítulo V el procedimiento de establecimiento de los valores unitarios de referencia y la actualización de los mismos. Así en el artículo 19, dispone que por orden del Ministro de Industria, Energía y Turismo, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos y a propuesta de la Comisión Nacional de los Mercados y la Competencia, se establecerán los valores unitarios de referencia para las instalaciones de distribución ubicadas en la península. Los valores unitarios peninsulares de referencia se determinarán de acuerdo con los valores medios representativos del coste de las infraestructuras cuyo diseño técnico y condiciones operativas se adapten a los estándares utilizados en el sistema eléctrico peninsular. Prescribe también este artículo que los valores unitarios de referencia serán únicos para todo el territorio español.
+
+No obstante lo anterior, el Real Decreto 1048/2013, de 27 de diciembre, prevé el establecimiento de unos valores unitarios de referencia para aquellas instalaciones que tengan consideración de red de distribución en los sistemas eléctricos no peninsulares, que podrán ser diferentes para cada uno de los subsistemas que se determinen a estos efectos por las especificidades derivadas de su ubicación territorial. Las particularidades de estos valores unitarios respecto a los peninsulares sólo atenderán a las especificidades derivadas de su ubicación territorial y de su carácter aislado. Por este motivo, en la presente orden se establecen valores unitarios por una parte para las Islas Baleares y Canarias y por otra parte para las ciudades de Ceuta y Melilla.
+
+La Comisión Nacional de los Mercados y la Competencia remitió al Ministerio de Industria, Energía y Turismo una «Propuesta de valores unitarios de referencia para los costes de inversión y de operación y mantenimiento para la instalaciones de distribución de energía eléctrica» aprobado por la sala de supervisión regulatoria en su sesión de fecha 26 de junio de 2014. Una vez analizada la misma, el Ministerio de Industria, Energía y Turismo solicitó información adicional a la Comisión Nacional de los Mercados y Competencia. Como consecuencia de dicha petición, la referida Comisión remitió el «Informe sobre la solicitud de información de la DGPEM en relación con los valores unitarios de referencia de inversión y de operación y mantenimiento de las instalaciones de transporte y distribución de energía eléctrica» aprobado por la sala de supervisión regulatoria en su sesión de fecha 13 de noviembre de 2014.
+
+A diferencia del transporte, en el caso de la distribución no existían valores unitarios. Por ello, la propuesta de la Comisión Nacional de los Mercados y la Competencia había definido unas instalaciones tipo, asignándoles una serie de elementos constructivos. Una vez realizado este diseño de instalaciones tipo y asignados los elementos que constituyen cada una de ellas, se dio una valoración económica a estas partidas para obtener así los valores unitarios de inversión y de operación y mantenimiento de cada una de las instalaciones tipo.
+
+Una vez analizados en detalle los valores unitarios definidos en la propuesta inicial de junio de 2014 de la Comisión Nacional de los Mercados y la Competencia, se consideró adecuado ampliar el catálogo de instalaciones en función del nivel de tensión.
+
+De igual modo, se consideró adecuado introducir un factor, tan determinante en el coste de las líneas, como es la sección de los conductores.
+
+Por otra parte, con el fin minimizar el impacto ambiental y para incentivar el uso intensivo de los pasillos eléctricos se incrementan en un diez por ciento los valores unitarios de inversión y de operación y mantenimiento de las líneas aéreas de múltiples circuitos.
+
+Una vez realizado el trámite de audiencia y recibido el informe sobre esta propuesta de la Comisión Nacional de los Mercados y la Competencia, la citada Comisión ha considerado adecuadas las medidas señaladas en los apartados precedentes si bien con algunos cambios, principalmente en relación con los niveles de tensión establecidos para adecuarlos a los recogidos en las normas UNE.
+
+II
+
+El artículo 6 del Real Decreto 1048/2013, de 27 de diciembre, establece que el año anterior al del inicio de cada periodo regulatorio, el Ministro de Industria, Energía y Turismo, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, establecerá el conjunto de parámetros técnicos y económicos que se utilizarán para el cálculo de la retribución de la actividad de distribución durante todo el periodo regulatorio. Entre los parámetros que podrán ser fijados por dicha orden ministerial, se recogen expresamente «los valores unitarios de referencia que se emplean en el cálculo de la retribución por otras tareas reguladas recogidas en el artículo 13».
+
+La Comisión Nacional de los Mercados y la Competencia, en el «Informe sobre la solicitud de información de la DGPEM en relación con los valores unitarios de referencia de inversión y de operación y mantenimiento de las instalaciones de transporte y distribución de energía eléctrica» de fecha 13 de noviembre de 2014 antes mencionado, ha realizado una propuesta para el cálculo de la retribución de los distintos términos que la componen. Tomando como punto de partida esta propuesta, y toda la información asociada a la misma, en la presente orden se establecen unos valores unitarios por cliente que se emplearán para el cálculo de esta retribución.
+
+Por otra parte, la Comisión Nacional de los Mercados y la Competencia, en su informe de 16 de octubre relativo a la propuesta de orden remitida a trámite de audiencia señaló como necesario «incorporar en la orden que finalmente se apruebe un nuevo artículo en el que se establezcan los parámetros técnicos y económicos o en su caso la metodología de cálculo de los mismos». En línea con lo anterior, recogía seguidamente determinados parámetros y metodologías de cálculo de los mismos que se han incorporado en la presente orden.
+
+III
+
+El artículo 21 del Real Decreto 1048/2013, de 27 de diciembre, define, a los efectos previstos en el mismo, la «Extensión natural de las redes de distribución» como los refuerzos o adecuaciones de instalaciones de distribución existentes necesarias para atender nuevos suministros o ampliación de los existente que respondan al crecimiento vegetativo de la demanda y que deben realizar y costear las empresas distribuidoras para su posterior reconocimiento retributivo. En este mismo artículo se definen las «Instalaciones de nueva extensión de red» como aquellas nuevas infraestructuras necesarias para atender nuevos suministros o ampliaciones de los existentes que no responden al crecimiento vegetativo de la demanda, así como, los refuerzos que tengan por objeto incrementar la capacidad de un elemento de la red de distribución existente, con el mismo nivel de tensión que el del punto de conexión, que supongan un aumento relevante en la potencia del elemento a reforzar. En este sentido, dicho artículo establece que los conceptos de crecimiento vegetativo de la demanda y aumento relevante en la potencia del elemento a reforzar deberán ser definidos mediante orden del Ministro de Industria, Energía y Turismo previo acuerdo de la Comisión Delegada para Asuntos Económicos y a propuesta de la Comisión Nacional de los Mercados y la Competencia.
+
+Atendiendo a la propuesta de la Comisión Nacional de los Mercados y la Competencia relativa a la definición de los términos de «crecimiento vegetativo de la demanda» y de «aumento relevante en la potencia del elemento a reforzar», de fecha 22 de enero de 2015 en el capítulo IV de la presente orden se definen dichos conceptos.
+
+IV
+
+Finalmente, se introduce un capítulo V con un solo artículo con el fin de establecer, de acuerdo con lo previsto en el artículo 26 del Real Decreto 1048/2013, de 27 de diciembre, la compensación a los propietarios por la obligación de cesión de locales para la implantación de centros de transformación.
+
+De acuerdo con lo establecido en el artículo 5.2 a) de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, lo dispuesto en la presente orden ha sido informado por la Comisión Nacional de los Mercados y la Competencia con fecha 16 de octubre de 2015. Asimismo se realiza trámite de audiencia mediante la publicación de anuncio en el «Boletín Oficial del Estado».
+
+Mediante acuerdo de 25 de noviembre de 2015, la Comisión Delegada del Gobierno para Asuntos Económicos ha autorizado al Ministro de Industria, Energía y Turismo a dictar la presente orden.
+
+En su virtud, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dispongo:
