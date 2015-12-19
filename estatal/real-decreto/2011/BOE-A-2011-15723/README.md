@@ -73,6 +73,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO VIII](cviii.md)
 - [Artículo 46](a46.md)
 - [Artículo 47](a47.md)
+- [Disposición adicional única](daunica.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
