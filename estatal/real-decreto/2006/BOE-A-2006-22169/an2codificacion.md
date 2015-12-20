@@ -49,6 +49,7 @@
 |  |  | 04 | C404 | Afecciones respiratorias, en concreto asma, causadas por sustancias irritativas no recogidas en el cuadro de enfermedades profesionales. |
 |  | 5 |  |  | Enfermedades de la piel causadas por sustancias y agentes no comprendidos en otros grupos: |
 |  |  | 01 | C501 | Afecciones cutáneas alérgicas y ortoérgicas no recogidas en el cuadro de enfermedades profesionales. |
-|  | 6 |  |  | Enfermedades provocadas por agentes carcinogénicos: |
-|  |  | 01 | C601 | Cáncer de laringe producido por la inhalación de polvo de amianto. |
-|  |  | 02 | C602 | Enfermedades provocadas por agentes carcinogénicos no incorporadas en apartados anteriores, con la clasificación C1 (sustancias carcinogénicas de primera categoría, es decir, que se sabe que son carcinogénicas para el hombre) y C2 (sustancias carcinogénicas de segunda categoría, respecto de las cuales existe una presunción de que pueden considerarse carcinogénicas para el hombre) dada por el RD 1124/2000, de 16 de junio, que modifica el RD 665/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes cancerígenos durante el trabajo. |
+|  | 6 |  |  | Enfermedades provocadas por agentes carcinogénos |
+|  |  | 01 | C601 | Enfermedades provocadas por agentes carcinógenos no incorporadas en apartados anteriores, con la clasificación C1 (sustancias carcinógenas de primera categoría, es decir, que se sabe que son carcinógenas para el hombre) y C2 (sustancias carcinógenas de segunda categoría, respecto de las cuales existe una presunción de que pueden considerarse carcinógenas para el hombre) dada por el RD 1124/2000, de 16 de junio, que modifica el RD 665/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes cancerígenos durante el trabajo. |
+
+> Se modifica el grupo 6 por el art. único.2 del Real Decreto 1150/2015, de 18 de diciembre. Ref. BOE-A-2015-13874.

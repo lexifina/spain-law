@@ -1577,6 +1577,20 @@
 |  |  |  | 10 | 6A0510 | Trabajos de reparación de vehículos automóviles. |
 |  |  |  | 11 | 6A0511 | Aserrado de fibrocemento. |
 |  |  |  | 12 | 6A0512 | Trabajos que impliquen la eliminación de materiales con amianto. |
+|  |  | 06 |  |  | – Cáncer de laringe |
+|  |  |  | 01 | 6A0601 | Industrias en las que se utiliza amianto (por ejemplo, minas de rocas amiantíferas, industria de producción de amianto, trabajos de aislamientos, trabajos de construcción, construcción naval, trabajos en garajes, etc.). |
+|  |  |  |  |  | Trabajos expuestos a la inhalación de polvos de amianto (asbesto) y especialmente: |
+|  |  |  | 02 | 6A0602 | – Trabajos de extracción, manipulación y tratamiento de minerales o rocas amiantíferas. |
+|  |  |  | 03 | 6A0603 | – Fabricación de tejidos, cartones y papeles de amianto. |
+|  |  |  | 04 | 6A0604 | – Tratamiento preparatorio de fibras de amianto (cardado, hilado, tramado, etc.). |
+|  |  |  | 05 | 6A0605 | – Aplicación de amianto a pistola (chimeneas, fondos de automóviles y vagones). |
+|  |  |  | 06 | 6A0606 | – Trabajos de aislamiento térmico en construcción naval y de edificios. |
+|  |  |  | 07 | 6A0607 | – Fabricación de guarniciones para frenos y embragues, de productos de fibrocemento, de equipos contra incendios, de filtros y cartón de amianto, de juntas de amianto y caucho. |
+|  |  |  | 08 | 6A0608 | – Desmontaje y demolición de instalaciones que contengan amianto. |
+|  |  |  | 09 | 6A0609 | – Limpieza, mantenimiento y reparación de acumuladores de calor u otras máquinas que tengan componentes de amianto. |
+|  |  |  | 10 | 6A0610 | – Trabajos de reparación de vehículos automóviles. |
+|  |  |  | 11 | 6A0611 | – Aserrado de fibrocemento. |
+|  |  |  | 12 | 6A0612 | – Trabajos que impliquen la eliminación de materiales con amianto. |
 |  | B |  |  |  | Aminas aromáticas |
 |  |  | 01 |  |  | Neoplasia maligna de vejiga |
 |  |  |  |  |  | Fabricación y empleo de aminas aromáticas, y especialmente: |
@@ -1945,3 +1959,5 @@
 |  |  |  | 12 | 6Q0112 | Fabricación de colorantes, pigmentos plásticos y fibras sintéticas. |
 |  |  |  | 13 | 6Q0113 | Emisiones gaseosas en los altos hornos, hornos de coque o combustión de espumas de poliuretano. |
 |  |  |  | 14 | 6Q0114 | Uso en laboratorio. |
+
+> Se añade el subagente 06 al agente A del grupo 6 por el art. único.1 del Real Decreto 1150/2015, de 18 de diciembre. Ref. BOE-A-2015-13874.
