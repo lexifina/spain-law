@@ -6,4 +6,6 @@ El extracto de los expedientes deberá remitirse en el plazo de tres meses desde
 
 V.b) Las relaciones anuales, así como los extractos de los expedientes y cuantas comunicaciones y documentos deban enviarse al Tribunal se remitirán por procedimiento telemático a través de la Plataforma de Contratación y en la forma establecida en la misma.
 
-Para su admisión, todos los documentos deberán estar firmados electrónicamente, de conformidad con lo establecido en la Ley 11/2007, de acceso electrónico de los ciudadanos a los servicios públicos. Las relaciones anuales mediante firma electrónica reconocida y los demás documentos y comunicaciones mediante firma electrónica consistente en la utilización de claves concertadas en un registro previo como usuario.
+Para su admisión, todos los documentos deberán estar firmados electrónicamente, de conformidad con lo establecido en la Ley 11/2007, de acceso electrónico de los ciudadanos a los servicios públicos, mediante firma electrónica consistente en la utilización de claves concertadas en un registro previo como usuario.
+
+> Se modifica el último párrafo del apartado V.b) por Resolución de 23 de diciembre de 2015. Ref. BOE-A-2015-14288.
