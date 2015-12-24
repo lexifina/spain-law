@@ -75,3 +75,7 @@ t) Suspensión o inhabilitación para el ejercicio profesional: si el profesiona
 – Copia de las resoluciones sancionadoras de las administraciones públicas que afecten a la situación de suspensión o inhabilitación de los profesionales sanitarios para el ejercicio profesional, cuando estas se adopten o sean efectivas desde la fecha de entrada en vigor de este real decreto.
 
 – Copia de las resoluciones sancionadoras de las corporaciones colegiales que suspendan o inhabiliten para el ejercicio profesional impuestas por ellas, cuando una ley estatal establezca para este ejercicio la obligación de estar colegiado, siempre que se adopten o sean efectivas desde la fecha de entrada en vigor de este real decreto.
+
+u) Acreditación para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano.
+
+> Se añade la letra u) por la disposición final 4.3 del Real Decreto 954/2015, de 23 de octubre. Ref. BOE-A-2015-14028.

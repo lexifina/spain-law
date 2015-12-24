@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Reconocimiento de acreditación a profesionales de enfermería procedentes de Estados miembros de la Unión Europea y de terceros países.
+
+Podrá reconocerse la acreditación a los enfermeros procedentes de otros Estados miembros de la Unión Europea y de terceros países para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano, tanto en el ámbito de los cuidados generales como en el ámbito de los cuidados especializados, previa justificación del cumplimiento de las previsiones y de los requisitos de acreditación regulados en este real decreto.

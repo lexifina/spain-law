@@ -88,7 +88,7 @@ Por los hospitales, en la asistencia sanitaria privada, así como por las Admini
 
 Cuarto. Orden de dispensación.
 
-La orden de dispensación a la que se refiere el artículo 1 apartado c) de este real decreto, con carácter general, se atendrá a los criterios básicos establecidos en este anexo para la receta médica y se adecuará a las características que se describen en el correspondiente modelo.
+La orden de dispensación a la que se refiere el artículo 1.c) de este real decreto, con carácter general, se atendrá a los criterios básicos establecidos en este anexo para la receta médica y se adecuará a las características que se describen en el correspondiente modelo. En todo caso, deberán figurar en las órdenes de dispensación los datos correspondientes al enfermero, a su acreditación, y en los supuestos referidos a medicamentos sujetos a prescripción médica, el código de identificación y la denominación del correspondiente protocolo o guía de práctica clínica y asistencial y su denominación.
 
 En particular, la orden de dispensación oficial del Sistema Nacional de Salud incluida la de las Mutualidades de Funcionarios se atendrá a los criterios básicos establecidos en el punto primero, mientras que la orden de dispensación para la asistencia sanitaria privada deberá atenerse a los criterios básicos establecidos en el punto segundo.
 
@@ -96,10 +96,12 @@ En particular, la orden de dispensación oficial del Sistema Nacional de Salud i
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/34/01331_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/34/01331_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/306/14028_001.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/34/01331_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/306/14028_002.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/34/01331_005.png)
+
+> Se modifica el apartado 4 por la disposición final 5.2 y 3 del Real Decreto 954/2015, de 23 de octubre. Ref. BOE-A-2015-14028.
 
 > Se modifica por la disposición final 1.4 del Real Decreto 81/2014, de 7 de febrero. Ref. BOE-A-2014-1331.

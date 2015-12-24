@@ -1,0 +1,3 @@
+## Disposición adicional primera. Particularidad relativa a las matronas.
+
+Las previsiones de este real decreto se entienden sin perjuicio de lo dispuesto en el Real Decreto 1837/2008, de 8 de noviembre, por el que se incorporan al ordenamiento jurídico español la Directiva 2005/36/CE del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, y la Directiva 2006/100/CE del Consejo, de 20 de noviembre de 2006, relativas al reconocimiento de cualificaciones profesionales, así como a determinados aspectos del ejercicio de la profesión de abogado, el cual atribuye a las matronas actividades para el diagnóstico, supervisión, asistencia del embarazo, parto, posparto o de recién nacido normal, mediante los medios técnicos y clínicos adecuados.
