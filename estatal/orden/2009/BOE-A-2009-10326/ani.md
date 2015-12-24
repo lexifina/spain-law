@@ -17,6 +17,7 @@
 | 130 | Impuesto sobre la Renta de las Personas Físicas. Actividades económicas en estimación directa. Pago fraccionado. Declaración. |
 | 131 | Impuesto sobre la Renta de las Personas Físicas. Actividades Económicas en estimación objetiva. Pago fraccionado. Declaración. |
 | 136 | Impuesto sobre la Renta de las Personas Físicas e Impuesto sobre la Renta de no Residentes. Gravamen Especial sobre los Premios de determinadas Loterías y Apuestas. Autoliquidación. Período de ingreso: T. |
+| 151 | Declaración del Impuesto sobre la Renta de las Personas Físicas. Régimen especial aplicable a los trabajadores desplazados a territorio español. |
 | 200 (*) | Impuesto sobre Sociedades e Impuesto sobre la Renta de no Residentes. Declaración anual (establecimientos permanentes y entidades en régimen de atribución de rentas constituidas en el extranjero con presencia en territorio español). |
 | 202 | Impuesto sobre Sociedades. Impuesto sobre la Renta de no Residentes (establecimientos permanentes y entidades en régimen de atribución de rentas constituidas en el extranjero con presencia en territorio español). Pago fraccionado. |
 | 206 (*) | Impuesto sobre la Renta de no Residentes (establecimientos permanentes y entidades en régimen de atribución de rentas constituidas en el extranjero con presencia en territorio español). Documento de ingreso. |
@@ -53,6 +54,8 @@
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
+
+> Se añade el modelo 151 por la disposición final 4.1 de la Orden HAP/2783/2015, de 21 de diciembre. Ref. BOE-A-2015-14021.
 
 > Se añade el modelo 411 por la disposición final 4.1 de la Orden HAP/1230/2015, de 17 de junio. Ref. BOE-A-2015-7048.
 

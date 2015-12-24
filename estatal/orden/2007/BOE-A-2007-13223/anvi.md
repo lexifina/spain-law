@@ -6,6 +6,7 @@
 | --- | --- | --- |
 | 100 | Devolución IRPF ordinario y borrador | 0A |
 | 150 | Devolución IRPF régimen especial aplicable a los trabajadores desplazados a territorio español | 0A |
+| 151 | Declaración del Impuesto sobre la Renta de las Personas Físicas. Régimen especial aplicable a los trabajadores desplazados a territorio español. | 0A |
 | 200 | Devolución Impuesto sobre Sociedades. | 0A |
 | 206 | Devolución Impuesto Renta no Residentes (establecimiento permanente) | 0A |
 | 303 | Devolución IVA. Autoliquidación | 4T |
@@ -13,6 +14,10 @@
 | 311 | (Suprimido) |  |
 | 371 | (Suprimido) |  |
 | 695 | Tasa por el ejercicio de la potestad jurisdiccional en los órdenes civil, contencioso-administrativo y social. Solicitud de devolución por solución extrajudicial del litigio y por acumulación de procesos. | 0A |
+
+> Se añade el modelo 151 por la disposición final 3.2 de la Orden HAP/2783/2015, de 21 de diciembre. Ref. BOE-A-2015-14021.
+
+> Téngase en cuenta para su aplicación la disposición final 6 de la citada Orden.
 
 > Se suprimen los modelos 311 y 371 por la disposición final 1 de la Orden HAP/2215/2013, de 26 de noviembre. Ref. BOE-A-2013-12489.
 

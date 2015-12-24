@@ -15,6 +15,7 @@
 | 131 | IRPF PAGO FRACCIONADO. ACTIVIDADES ECONOMICAS EN ESTIMACIÓN OBJETIVA | T |
 | 136 | IMPUESTO SOBRE LA RENTA DE LAS PERSONAS FÍSICAS E IMPUESTO SOBRE LA RENTA DE NO RESIDENTES. GRAVAMEN ESPECIAL SOBRE LOS PREMIOS DE DETERMINADAS LOTERÍAS Y APUESTAS. AUTOLIQUIDACIÓN. | T |
 | 150 | IRPF-RÉGIMEN ESPECIAL DE TRIBUTACIÓN POR EL IRNR. | 0A |
+| 151 | DECLARACIÓN DEL IMPUESTO SOBRE LA RENTA DE LAS PERSONAS FÍSICAS. RÉGIMEN ESPECIAL APLICABLE A LOS TRABAJADORES DESPLAZADOS A TERRITORIO ESPAÑOL VIGENTE DESDE 1 DE ENERO DE 2015. | 0A |
 | 200 | IS. E IRNR. DECLARACIÓN ANUAL | 0A |
 | 202 | IS. PAGO FRACCIONADO | 1P,2P,3P |
 | 206 | IMP. RENTA NO RESIDENTES (EST. PERMANENTE) | 0A |
@@ -62,6 +63,10 @@
 (2) Cuando la gestión corresponda al Estado.
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se añade el modelo 151 por la disposición final 3.1 de la Orden HAP/2783/2015, de 21 de diciembre. Ref. BOE-A-2015-14021.
+
+> Téngase en cuenta para su aplicación la disposición final 6 de la citada Orden.
 
 > Se añade el modelo 411 por la disposición final 3 de la Orden HAP/1230/2015, de 17 de junio. Ref. BOE-A-2015-7048.
 

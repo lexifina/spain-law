@@ -22,6 +22,7 @@
 | 130 | Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. |
 | 131 | Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. |
 | 136 | Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. |
+| 151 | Desde el inicio del plazo hasta el 25 del mes de junio. |
 | 200 (*) | Desde el día 1 hasta el 20 del mes de julio. |
 | 202 | Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre. |
 | 206 (*) | Desde el día 1 hasta el 20 del mes de julio. |
@@ -50,6 +51,8 @@
 | 595 | Desde el día 1 al 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 | 714 | Desde el día 2 de mayo hasta el 25 de junio. |
 | (*) Sólo cuando el período impositivo finalice el día 31 de diciembre. |
+
+> Se añade el modelo 151 por la disposición final 4.2 de la Orden HAP/2783/2015, de 21 de diciembre. Ref. BOE-A-2015-14021.
 
 > Se añade el modelo 411 por la disposición final 4.2 de la Orden HAP/1230/2015, de 17 de junio. Ref. BOE-A-2015-7048.
 
