@@ -136,6 +136,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [3. Dimensiones máximas autorizadas a los vehículos para poder circular, incluida la carga](A3-3.md)
 - [4. Masas remolcables para vehículos no agrícolas](A4-3-2.md)
 - [5. Masas remolcables para vehículos agrícolas](A5-2.md)
+- [6. Condiciones de circulación de los conjuntos en configuración euro-modular](A6-2.md)
 - [ANEXO X](anx.md)
 - [1. Definiciones](A1-6.md)
 - [2. Dispositivos de alumbrado y señalización óptica](A2-6.md)
