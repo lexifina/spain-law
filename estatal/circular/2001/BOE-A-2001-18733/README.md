@@ -8,15 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2015-12-25 by BOE-A-2015-14084. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no](no.md)
-- [preambulo](preambulo.md)
-- [Norma primera](normaprimera.md)
-- [Norma segunda](normasegunda.md)
-- [Norma tercera](normatercera.md)
-- [Norma cuarta](normacuaa.md)
-- [Norma final](normafinal.md)
-- [firma](firma.md)
-- [ANEJO](anejo.md)
-- [ANEJO II](anejoii.md)
+- [BOE publisher notice](no.md)
