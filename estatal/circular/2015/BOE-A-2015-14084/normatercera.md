@@ -1,0 +1,7 @@
+## Norma tercera. Criterios de valoración.
+
+A los efectos de calcular la base para determinar las aportaciones al FGD a que se refiere el artículo 3 del Real Decreto 2606/1996, los criterios de valoración que deberán aplicar las entidades serán los siguientes:
+
+a) Los depósitos dinerarios se valorarán por su nominal o principal más los intereses devengados a la fecha a la que se refieran los datos, según se definen dichos criterios de valoración en la Circular del Banco de España 4/2004, de 22 de diciembre, a entidades de crédito, sobre normas de información financiera pública y reservada, y modelos de estados financieros. En los depósitos híbridos o estructurados, el principal será el importe desembolsado por las contrapartes antes de segregar los derivados implícitos.
+
+b) Los valores y otros instrumentos financieros garantizados, incluidos los cedidos temporalmente en pactos de recompra que sigan anotados o registrados en la entidad cedente, se valorarán por su valor de cotización el último día de negociación del trimestre al que se refieran los datos. Cuando se trate de valores o instrumentos financieros no negociados en un mercado secundario, se valorarán por su valor razonable, salvo que este no se pueda estimar de forma fiable, en cuyo caso se valorarán por su valor nominal o por el de reembolso, el que resulte más propio del tipo de instrumento de que se trate, según se definen dichos criterios de valoración en la Circular del Banco de España 4/2004.
