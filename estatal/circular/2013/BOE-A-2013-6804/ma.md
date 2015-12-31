@@ -122,23 +122,7 @@ A.13 Explique las acciones adoptadas por la sociedad en relación con el sistema
 
 ## B POLÍTICA DE REMUNERACIONES PREVISTA PARA EJERCICIOS FUTUROS
 
-B.1 Realice una previsión general de la política de remuneraciones para ejercicios futuros que describa dicha política con respecto a: componentes fijos y dietas y retribuciones de carácter variable, relación entre la remuneración y los resultados, sistemas de previsión, condiciones de los contratos de consejeros ejecutivos, y previsión de cambios más significativos de la política retributiva con respecto a ejercicios precedentes.
-
-| Previsión general de la política de remuneraciones |
-| --- |
-|  |
-
-B.2 Explique el proceso de toma de decisiones para la configuración de la política de remuneraciones prevista para los ejercicios futuros, y el papel desempeñado, en su caso, por la comisión de retribuciones.
-
-| Explique el proceso de tomas de decisiones para la configuración de la política de remuneraciones |
-| --- |
-|  |
-
-B.3 Explique los incentivos creados por la sociedad en el sistema de remuneración para reducir la exposición a riesgos excesivos y ajustarlo a los objetivos, valores e intereses a largo plazo de la sociedad.
-
-| Explique los incentivos creados para reducir riesgos |
-| --- |
-|  |
+(Derogado)
 
 ## C RESUMEN GLOBAL DE CÓMO SE APLICÓ LA POLÍTICA DE RETRIBUCIONES DURANTE EL EJERCICIO CERRADO
 
@@ -346,3 +330,5 @@ Sociedades del grupo: A los efectos de esta circular, se estará a la definició
 ## A POLÍTICA DE REMUNERACIONES DE LA SOCIEDAD PARA EL EJERCICIO EN CURSO
 
 A.9 En este apartado únicamente se incluirá información sobre aquellas operaciones que supongan condiciones ajenas a las habituales o a las del mercado.
+
+> Se deroga el apartado B por la disposición derogatoria única de la Circular 7/2015, de 22 de diciembre. Ref. BOE-A-2015-14289.
