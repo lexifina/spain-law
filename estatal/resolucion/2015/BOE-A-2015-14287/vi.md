@@ -1,0 +1,5 @@
+## VI. Requisitos de envío.
+
+La información contractual se recibirá a través del Registro Telemático de este Tribunal, conforme a los criterios dispuestos en el Acuerdo de la Comisión de Gobierno del Tribunal de Cuentas de 30 de marzo de 2007, regulador del referido Registro.
+
+El procedimiento de remisión telemática de esta información se ajustará a lo previsto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, así como a los estándares establecidos en la Ley 11/2007, de 22 de junio, de Acceso de los Ciudadanos a los Servicios Públicos y en las Normas que la desarrollan. Tan pronto entre en vigor la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas, una vez transcurrido el plazo de un año de vacancia desde su publicación, en los términos establecidos en su disposición final séptima y en su disposición derogatoria única, serán de aplicación esta Ley y sus disposiciones de desarrollo en relación con los procedimientos electrónicos, quedando derogadas en este punto las disposiciones anteriormente referidas.
