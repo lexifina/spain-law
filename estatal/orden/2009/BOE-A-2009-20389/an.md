@@ -74,7 +74,7 @@ Cooperación Cultural
 
 30. Ayudas a la promoción del turismo cultural.
 
-31. Programa IBEREX de prácticas formativas para jóvenes profesionales en el sector cultural.
+31. Programa IBEREX de prácticas formativas para jóvenes profesionales en el sector cultural
 
 32. Subvenciones nominativas de la Subdirección General de Promoción Exterior de la Cultura.
 
@@ -106,7 +106,7 @@ Libro, Lectura y Letras
 
 44. Subvenciones para la promoción de la lectura y las letras españolas.
 
-45. Ayudas para entidades sin fines de lucro que promueven y fortalecen la industria editorial.
+45. Ayudas para entidades sin fines de lucro que promueven y fortalecen la industria editorial
 
 46. Subvenciones para la revalorización cultural y modernización de las librerías.
 
@@ -156,7 +156,7 @@ Premios
 
 64. Premio Alfabetización Audiovisual.
 
-65. Premio Luso-Español de Arte y Cultura.
+65. Premio Luso-Español de Arte y Cultura
 
 Recursos y reclamaciones
 
@@ -208,89 +208,93 @@ Artes Escénicas y Música
 
 85. Asignación del prefijo editorial ISMN, Número Normalizado para Música Escrita.
 
+86. Solicitud del certificado previsto en el artículo 36.3 de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades.
+
 Cine y Audiovisuales
 
-86. Aprobación de coproducciones hispano-extranjeras.
+87. Aprobación de coproducciones hispano-extranjeras.
 
-87. Calificación de películas y certificado de nacionalidad española.
+88. Calificación de películas y certificado de nacionalidad española.
 
-88. Comunicación de fecha de estreno de una película.
+89. Comunicación de fecha de estreno de una película.
 
-89. Comunicación de fechas de inicio y de fin de rodaje de una película.
+90. Comunicación de fechas de inicio y de fin de rodaje de una película.
 
-90. Cumplimiento de las obligaciones de control de asistencia y declaración de rendimientos por parte de las salas de exhibición.
+91. Cumplimiento de las obligaciones de control de asistencia y declaración de rendimientos por parte de las salas de exhibición.
 
-91. Expedición del certificado cultural para la solicitud de las ayudas del Instituto de la Cinematografía y de las Artes Audiovisuales.
+92. Expedición del certificado cultural para la solicitud de las ayudas del Instituto de la Cinematografía y de las Artes Audiovisuales.
 
-92. Homologación de buzones para salas de exhibición informatizadas.
+93. Homologación de buzones para salas de exhibición informatizadas.
 
-93. Homologación a efectos del cómputo de espectadores en el marco de festivales y certámenes celebrados en España.
+94. Homologación a efectos del cómputo de espectadores en el marco de festivales y certámenes celebrados en España.
 
-94. Homologación a efectos del cómputo de accesos a una película a través de Internet y otras redes de comunicaciones electrónicas mediante sistemas basados en la demanda del espectador.
+95. Homologación a efectos del cómputo de accesos a una película a través de Internet y otras redes de comunicaciones electrónicas mediante sistemas basados en la demanda del espectador.
 
-95. Homologación a efectos de certificación del cómputo de espectadores a través de la venta minorista y arrendamiento de obras cinematográficas en soporte físico.
+96. Homologación a efectos de certificación del cómputo de espectadores a través de la venta minorista y arrendamiento de obras cinematográficas en soporte físico.
 
-96. Inscripción en el registro de empresas cinematográficas y audiovisuales del Instituto de la Cinematografía y de las Artes Audiovisuales.
+97. Inscripción en el registro de empresas cinematográficas y audiovisuales del Instituto de la Cinematografía y de las Artes Audiovisuales.
 
-97. Reconocimiento de coste de películas.
+98. Reconocimiento de coste de películas.
 
-98. Procedimiento para la imposición de sanciones por infracciones leves en materia cinematográfica y videográfica.
+99. Procedimiento para la imposición de sanciones por infracciones leves en materia cinematográfica y videográfica.
 
-99. Procedimiento para la imposición de sanciones por infracciones graves en materia cinematográfica y videográfica.
+100. Procedimiento para la imposición de sanciones por infracciones graves en materia cinematográfica y videográfica.
 
-100. Procedimiento para la imposición de sanciones por infracciones muy graves en materia cinematográfica y videográfica.
+101. Procedimiento para la imposición de sanciones por infracciones muy graves en materia cinematográfica y videográfica.
 
 Museos
 
-101. Utilización de espacios en museos de titularidad estatal gestionados por la Dirección General de Bellas Artes y Bienes Culturales y de Archivos y Bibliotecas.
+102. Utilización de espacios en museos de titularidad estatal gestionados por la Dirección General de Bellas Artes y Bienes Culturales y de Archivos y Bibliotecas.
 
 Patrimonio histórico
 
-102. Adquisición de bienes muebles del patrimonio histórico español.
+103. Adquisición de bienes muebles del patrimonio histórico español.
 
-103. Autorización de exportación de bienes del Patrimonio Histórico Español.
+104. Autorización de exportación de bienes del Patrimonio Histórico Español.
 
-104. Autorización de obras en Bienes de Interés Cultural adscritos a servicios públicos gestionados por la Administración General del Estado (A.G.E.) y en el entorno de los mismos.
+105. Autorización de obras en Bienes de Interés Cultural adscritos a servicios públicos gestionados por la Administración General del Estado (A.G.E.) y en el entorno de los mismos.
 
-105. Declaración de importación de bienes culturales.
+106. Declaración de importación de bienes culturales.
 
-106. Inclusión de bienes del estado en bienes de interés cultural e inventario general.
+107. Inclusión de bienes del estado en bienes de interés cultural e inventario general.
 
-107. Transmisión de la propiedad de un bien de interés cultural o bien inventariado.
+108. Transmisión de la propiedad de un bien de interés cultural o bien inventariado.
 
 Propiedad intelectual
 
-108. Autorización de modificación de estatutos propuesta por las entidades de gestión de los derechos de propiedad intelectual.
+109. Autorización de modificación de estatutos propuesta por las entidades de gestión de los derechos de propiedad intelectual.
 
-109. Autorización para el uso del sello de la campaña Cultura en Positivo.
+110. Autorización para el uso del sello de la campaña Cultura en Positivo.
 
-110. Mediación en materia de propiedad intelectual.
+111. Mediación en materia de propiedad intelectual.
 
-111. Procedimiento de arbitraje ante la Sección Primera de la Comisión de Propiedad Intelectual.
+112. Procedimiento de arbitraje ante la Sección Primera de la Comisión de Propiedad Intelectual.
 
-112. Procedimiento de arbitraje ante la Sección Primera de la Comisión de Propiedad Intelectual para fijar una cantidad sustitutoria de las tarifas generales establecidas por entidades de gestión.
+113. Procedimiento de arbitraje ante la Sección Primera de la Comisión de Propiedad Intelectual para fijar una cantidad sustitutoria de las tarifas generales establecidas por entidades de gestión.
 
-113. Salvaguarda de los derechos de propiedad intelectual en Internet.
+114. Salvaguarda de los derechos de propiedad intelectual en Internet.
 
-114. Procedimiento sancionador por falta de retirada de contenidos vulneradores de derechos de propiedad intelectual en Internet.
+115. Procedimiento sancionador por falta de retirada de contenidos vulneradores de derechos de propiedad intelectual en Internet.
 
-115. Procedimiento de determinación de tarifas ante la Sección Primera de la Comisión de Propiedad Intelectual.
+116. Procedimiento de determinación de tarifas ante la Sección Primera de la Comisión de Propiedad Intelectual.
 
-116. Procedimiento en la función de control de tarifas generales establecidas por entidades de gestión ante la Sección Primera de la Comisión de Propiedad Intelectual.
+117. Procedimiento en la función de control de tarifas generales establecidas por entidades de gestión ante la Sección Primera de la Comisión de Propiedad Intelectual.
 
 Asuntos taurinos
 
-117. Primera inscripción como profesional taurino.
+118. Primera inscripción como profesional taurino.
 
-118. Cambio de categoría profesional.
+119. Cambio de categoría profesional.
 
-119. Expedición de duplicado de carné profesional.
+120. Expedición de duplicado de carné profesional.
 
-120. Renovación de carné profesional por caducidad.
+121. Renovación de carné profesional por caducidad.
 
-121. Inscripción de una empresa ganadera de reses de lidia.
+122. Inscripción de una empresa ganadera de reses de lidia.
 
-122. Modificación y baja de una inscripción registral de una empresa ganadera de reses de lidia.
+123. Modificación y baja de una inscripción registral de una empresa ganadera de reses de lidia.
+
+> Se modifica por el art. 3 de la Orden ECD/2837/2015, de 18 de diciembre. Ref. BOE-A-2015-14271.
 
 > Se modifica por el art. 3 de la Orden ECD/254/2015, de 10 de febrero. Ref. BOE-A-2015-1621.
 
