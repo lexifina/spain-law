@@ -1,0 +1,7 @@
+## Disposición final segunda. Modificación de la Orden EHA/97/2010, de 25 de enero, por la que se aprueba el modelo 170 de declaración de las operaciones realizadas por los empresarios o profesionales adheridos al sistema de gestión de cobros a través de tarjetas de crédito o de débito, así como los diseños físicos y lógicos para la presentación en soporte directamente legible por ordenador y se establecen las condiciones y el procedimiento para su presentación telemática.
+
+Se modifica el artículo 6 de la Orden EHA/97/2010, de 25 de enero, por la que se aprueba el modelo 170 de declaración de las operaciones realizadas por los empresarios o profesionales adheridos al sistema de gestión de cobros a través de tarjetas de crédito o de débito, así como los diseños físicos y lógicos para la presentación en soporte directamente legible por ordenador y se establecen las condiciones y el procedimiento para su presentación telemática.
+
+«Artículo 6. Plazo de presentación del modelo 170.
+
+La presentación de la declaración informativa de operaciones realizadas por los empresarios o profesionales adheridos al sistema de gestión de cobros a través de tarjetas de crédito o de débito, modelo 170, se realizará en el plazo correspondiente al mes de febrero de cada año, en relación con las operaciones que correspondan al año natural anterior, sin perjuicio de lo dispuesto en el artículo 10.2 de esta Orden.»
