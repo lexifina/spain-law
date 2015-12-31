@@ -2,12 +2,11 @@
 
 ## Pruebas a realizar por los solicitantes de las distintas autorizaciones
 
-## A) Cuadro de pruebas a realizar para obtener permiso o licencia de conducción
+## A) Cuadro de pruebas a realizar para obtener permiso o licencia de conducción.
 
-Pruebas
-
+| PRUEBAS |
+| --- |
 | Clase de permiso | Aptitud psicofísica | Control de conocimientos | Control de aptitudes y comportamientos |
-| --- | --- | --- | --- |
 | Común | Específica | En circuito cerrado | En circulación |
 | AM | X |  | X | X |  |
 | A1 | X | X | X | X | X |
@@ -23,15 +22,12 @@ Pruebas
 | D1 + E | X |  | X | X | X |
 | D | X |  | X | X | X |
 | D + E | X |  | X | X | X |
-| BTP (1) | X |  | X |  | X |
-| LCM (2) | X |  | X | X |  |
-| LVA (3) | X |  | X | X |  |
+| LCM (1) | X |  | X | X |  |
+| LVA (2) | X |  | X | X |  |
 
-(1) BTP: La prueba de control de aptitudes y comportamientos en circulación sólo será para los que carezcan del año de experiencia en la conducción de vehículos a que autoriza el permiso de clase B.
+(1) LCM: Licencia para conducir vehículos para personas de movilidad reducida.
 
-(2) LCM: Licencia para conducir vehículos para personas de movilidad reducida.
-
-(3) LVA: Licencia para conducir vehículos especiales agrícolas autopropulsados y sus conjuntos.
+(2) LVA: Licencia para conducir vehículos especiales agrícolas autopropulsados y sus conjuntos.
 
 ## B) Pruebas a realizar según la clase de permiso o licencia de conducción solicitados
 
@@ -47,7 +43,7 @@ Pruebas
 
 5.ª Los principios relativos al respeto de las distancias de seguridad entre vehículos, a la distancia de frenado y a la estabilidad del vehículo en la vía teniendo en cuenta las diferentes condiciones meteorológicas o ambientales, las características de los distintos tipos y tramos de vía y el estado de la calzada.
 
-6.ª Los riesgos de la conducción vinculados a los diferentes estados de la calzada y especialmente sus variaciones según las condiciones atmosféricas, la hora del día o de la noche. La conducción segura en túneles.
+6.ª Los riesgos de la conducción asociados a los diferentes estados de la calzada especialmente cuando varíen en función de las condiciones atmosféricas y de la hora del día o de la noche. La seguridad de la conducción en los túneles.
 
 7.ª La vía: clases y partes de la vía. Sus características y disposiciones legales referidas a ella.
 
@@ -93,11 +89,7 @@ f) La técnica de conducción de motocicletas, triciclos y cuatriciclos.
 
 g) Factores y cuestiones de seguridad vial concernientes a los conductores.
 
-3.º Permiso de conducción de la clase BTP:
-
-a) Factores y cuestiones de seguridad vial concernientes a los conductores, a los vehículos que realicen transporte escolar, prioritarios y turismos destinados al transporte público de viajeros y a la carga del vehículo.
-
-b) La normativa específica relativa a la circulación de estos vehículos así como a las personas transportadas, paradas y estacionamientos.
+3.º (Suprimido)
 
 4.º Permiso de conducción de las clases C1 y C:
 
@@ -293,7 +285,7 @@ g) Cambios de dirección: girar a la izquierda y a la derecha; cambiar de carril
 
 h) Entrar y salir de una autopista (caso de existir): incorporación desde el carril de aceleración; salir por el carril de deceleración.
 
-i) Otros componentes viales (caso de existir): glorietas, pasos ferroviarios a nivel, paradas de tranvía o autobús, pasos de peatones, conducción cuesta arriba o cuesta abajo en pendientes prolongadas.
+i) Otros componentes viales (caso de existir): glorietas, pasos ferroviarios a nivel, paradas de tranvía o autobús, pasos de peatones, conducción cuesta arriba o cuesta abajo en pendientes prolongadas, túneles.
 
 j) Tomar las precauciones necesarias al abandonar el vehículo.
 
@@ -336,8 +328,6 @@ Comprobar el estado de las ruedas, tornillos de fijación de estas, guardabarros
 Conducir de forma que se garantice la seguridad y se reduzcan el consumo de combustible y las emisiones durante la aceleración, desaceleración, conducción en cuesta arriba y cuesta abajo, si procede seleccionando las marchas manualmente.
 
 5. Los aspirantes al permiso de la clase D, además de las operaciones exigidas con carácter general, deberán ser capaces de adoptar las disposiciones particulares relativas a la seguridad del vehículo y de las personas transportadas.
-
-6. Los aspirantes al permiso de la clase BTP que carecieran de la experiencia a que se refiere el artículo 5.6, párrafo primero, además de las operaciones exigidas con carácter general deberán ser capaces de realizar con la habilidad, soltura y seguridad que proporciona la experiencia, las relacionadas con la utilización de los diversos sistemas de frenado y de reducción de velocidad, detenciones, paradas, estacionamientos, adelantamientos, comportamiento en intersecciones y curvas, y la adopción de las disposiciones particulares relativas a la seguridad del vehículo, de los demás usuarios y, en su caso, de las personas transportadas.
 
 ## C) Pruebas a realizar por los solicitantes de la autorización especial para vehículos que transporten mercancías peligrosas
 
@@ -422,6 +412,8 @@ d) Extinción de incendios. Utilización de los medios disponibles: manejo de ex
 2. Los conductores que soliciten ampliación de la autorización para conducir vehículos cisterna, vehículos batería o unidades de transporte que transporten mercancías peligrosas en cisternas o contenedores cisterna, deberán poseer una formación práctica y realizar unos ejercicios prácticos sobre obturación de grietas y soluciones de emergencia en ruta frente a averías que produzcan escapes, derrames u otras emergencias, con especial atención al manejo del equipo de «tapafugas», así como sobre las operaciones de carga y descarga de cisternas, baterías de recipientes y contenedores cisterna.
 
 3. Los conductores de vehículos que soliciten ampliación de la autorización para conducir vehículos que transporten materias de las clases 1 ó 7, deberán poseer una formación práctica y realizar unos ejercicios prácticos sobre las cuestiones contenidas en el punto 1. párrafos a), b) y d), en lo que sean especialmente aplicables a las materias de las mencionadas clases.
+
+> Se modifica por el art. único.15 del Real Decreto 1055/2015, de 20 de noviembre. Ref. BOE-A-2015-12572.
 
 > Se modifica el apartado B) por el art. único.3 a 6 de la Orden INT/2229/2013, de 25 de noviembre. Ref. BOE-A-2013-12566.
 

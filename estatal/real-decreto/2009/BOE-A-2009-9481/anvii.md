@@ -70,7 +70,7 @@ Si están propulsadas por un motor eléctrico, la relación potencia/peso será,
 
 Para el permiso de la clase B con autorización para conducir conjuntos de vehículos cuya masa máxima autorizada exceda de 3.500 kg sin rebasar los 4.250 kg, un conjunto formado por un turismo de las características indicadas en el párrafo anterior y un remolque de masa máxima autorizada superior a 750 kg.
 
-6. Para el permiso de la clase BTP, un turismo de las características indicadas en el número anterior de una longitud superior a 4 metros.
+6. (Suprimido)
 
 7. Para el permiso de la clase B + E, un conjunto compuesto por un vehículo de turismo de las características indicadas en el número 5, o un vehículo mixto o un camión, todos ellos de longitud no inferior a 3,50 metros y masa máxima autorizada no superior a 3.500 kg, y un remolque de masa máxima autorizada no inferior a 1.000 kg, que pueda alcanzar una velocidad de al menos 100 km/h y que no entre en la categoría B. La caja del remolque puede ser también ligeramente menos ancha que el vehículo tractor, a condición de que la visión trasera sólo sea posible utilizando los espejos retrovisores exteriores del vehículo. Su longitud, excluida la lanza o el sistema de enganche o acoplamiento, no será inferior a 2,50 metros. El peso total real mínimo del remolque será de 800 kg. Como excepción a lo dispuesto en el apartado A). 7 se podrán utilizar remolques de un sólo eje central.
 
@@ -103,5 +103,7 @@ El compartimento de carga del remolque tendrá al menos 2 metros de ancho y 2 me
 17. Para la licencia de conducción que autorice a conducir los vehículos especiales agrícolas autopropulsados a que se refiere el artículo 6.1.b) se utilizará un conjunto compuesto por un tractor agrícola de ruedas, que tenga una masa en vacío superior a 1.000 kg y una longitud mínima de 3 metros, y un remolque agrícola de anchura no inferior a 2 metros, longitud, excluida la lanza, no inferior a 4 metros y una masa máxima autorizada superior a 750 kg.
 
 18. Como excepción a lo dispuesto en el apartado A). 7, para el permiso de las clases C1 + E, D1 + E y D + E, se podrán utilizar remolques de ejes centrales fijos.
+
+> Se suprime el punto 6 del apartado B) por el art. único.17 del Real Decreto 1055/2015, de 20 de noviembre. Ref. BOE-A-2015-12572.
 
 > Se modifica por el art. único.8 a 11 de la Orden INT/2229/2013, de 25 de noviembre. Ref. BOE-A-2013-12566.

@@ -66,11 +66,11 @@ Códigos 100 y posteriores códigos nacionales válidos únicamente en circulaci
 
 Página 1
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2012/155/08674_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/279/12572_001.png)
 
 Página 2
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2012/155/08674_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/279/12572_002.png)
 
 ## B) Códigos de la Unión Europea Armonizados y Códigos Nacionales
 
@@ -231,6 +231,8 @@ Códigos nacionales
 | 200 |  | Anexo al permiso o licencia de conducción. El titular deberá llevar un documento expedido por la Jefatura Provincial de Tráfico en el que figuran las condiciones de utilización del vehículo. |
 | 201 |  | Anexo al permiso o licencia de conducción. El permiso o licencia no serán válidos sin un documento en el que figure el texto de la resolución que determina los períodos de tiempo en los que deberá cumplirse la sanción de suspensión de la autorización. |
 | 202 |  | Limitado a la conducción de vehículos policiales y de los colectivos a los que se refiere el artículo 74.1, válido hasta el (1.1.2012) (por ejemplo: 202.01.01.2012) (artículo 74.2 Reglamento General de Conductores). |
+
+> Se sustituye el modelo de tarjeta del apartado A) por el art. único.13 del Real Decreto 1055/2015, de 20 de noviembre. Ref. BOE-A-2015-12572.
 
 > Se modifica el apartado B) por el art. único.1 y 2 de la Orden INT/2229/2013, de 25 de noviembre. Ref. BOE-A-2013-12566.
 

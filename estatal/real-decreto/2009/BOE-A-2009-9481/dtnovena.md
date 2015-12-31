@@ -1,3 +1,5 @@
 ## Disposición transitoria novena. Obtención de permiso de conducción de clase AM.
 
-Hasta el 1 de septiembre de 2010 podrá obtenerse el permiso de conducción de la clase AM a partir de los catorce años cumplidos, si bien éste no autorizará a transportar pasajeros hasta que su titular tenga dieciocho años cumplidos.
+(Suprimida)
+
+> Se suprime por el art. único.12 del Real Decreto 1055/2015, de 20 de noviembre. Ref. BOE-A-2015-12572.

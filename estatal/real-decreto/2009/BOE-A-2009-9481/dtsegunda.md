@@ -12,10 +12,12 @@ a) El permiso de la clase A1, al de la clase A1, si bien autorizará a conducir 
 
 b) El permiso de la clase A limitado a la conducción de motocicletas con una potencia de hasta 25 kW o una relación potencia/peso de hasta 0,16 kW/kg, o motocicletas con sidecar con una relación potencia/peso de hasta 0,16 kW/kg, al de la clase A, si bien no autorizará la conducción de motocicletas superiores a las indicadas hasta que tenga una antigüedad de dos años desde que aquél fuera expedido.
 
-c) La autorización a que se refería el artículo 7.3, al de la clase BTP.
+c) (Suprimida)
 
 d) La licencia de conducción de ciclomotores, al permiso de la clase AM.
 
 e) La licencia que autoriza a conducir vehículos para personas de movilidad reducida, a la licencia que autoriza a conducir vehículos para personas de movilidad reducida.
 
 f) La licencia para conducir vehículos especiales agrícolas autopropulsados y sus conjuntos, a la licencia para conducir vehículos especiales agrícolas autopropulsados y sus conjuntos, si bien autorizará su conducción aunque su velocidad máxima por construcción exceda de 45 km/h.
+
+> Se suprime la letra c) del apartado 2 por el art. único.10 del Real Decreto 1055/2015, de 20 de noviembre. Ref. BOE-A-2015-12572.

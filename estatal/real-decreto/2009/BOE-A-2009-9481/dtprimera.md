@@ -10,7 +10,7 @@ b) El permiso de la clase A2, al de la clase A.
 
 c) El permiso de la clase B1, al de la clase B.
 
-d) El permiso de la clase B2, al de la clase BTP.
+d) (Suprimida)
 
 e) El permiso de la clase C1 que autoriza a conducir camiones de masa máxima autorizada no superior a 7500 kg, al de la clase C1.
 
@@ -22,7 +22,7 @@ h) El permiso de las clases C2 y C2 complementado con el de la clase E implicar�
 
 i) El permiso de la clase B1 complementado con el de la clase E, al de la clase B + E.
 
-j) El permiso de la clase B2 complementado con el de la clase E, al de las clases B + E y BTP.
+j) El permiso de la clase B2 complementado con el de la clase E, al de la clase B + E.
 
 k) El permiso de la clase C1 complementado con el de la clase E que autoriza a conducir turismos y camiones de hasta 7.500 kg de masa máxima autorizada con un remolque enganchado de más de 750 kg de masa máxima autorizada, al de la clase C1 + E.
 
@@ -31,3 +31,5 @@ l) El permiso de la clase C1, que autoriza a conducir camiones de hasta 16.000 k
 m) El permiso de la clase B1 (TA) que autoriza a conducir tractores y maquinaria agrícola automotriz, a la licencia de conducción que autoriza a conducir vehículos especiales agrícolas autopropulsados, aunque su masa o dimensiones máximas autorizadas excedan de los límites establecidos para los vehículos ordinarios en las normas reguladoras de los vehículos.
 
 n) La licencia de conducción de ciclomotores, al permiso de conducción de la clase AM y a las licencias que autorizan a conducir vehículos para personas de movilidad reducida y vehículos especiales agrícolas autopropulsados y sus conjuntos cuya masa o dimensiones máximas no excedan de los límites establecidos para los vehículos ordinarios en las normas reguladoras de los vehículos o aunque su velocidad máxima por construcción sea superior a 45 km/h.
+
+> Se suprime la letra d) y se modifica la letra j) del apartado 2 por el art. único.9 del Real Decreto 1055/2015, de 20 de noviembre. Ref. BOE-A-2015-12572.

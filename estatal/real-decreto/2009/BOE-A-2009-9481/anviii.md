@@ -122,7 +122,7 @@ Técnicas de examen.
 
 Prácticas de examen en situaciones reales.
 
-2. Para los permisos de las clases BTP, C, D y E:
+2. Para los permisos de las clases C, D y E:
 
 Reglamentación de vehículos pesados.
 
@@ -172,4 +172,4 @@ El personal examinador que pretenda ser habilitado para calificar las pruebas de
 
 La formación, evaluación y calificación de las pruebas serán realizadas por la Dirección General de Tráfico.
 
-> Este anexo se aplicará el 19 de enero de 2013, según establece la disposición transitoria 12.
+> Se modifica el punto 2 del apartado C) por el art. único.18 del Real Decreto 1055/2015, de 20 de noviembre. Ref. BOE-A-2015-12572.
