@@ -1,0 +1,1 @@
+Téngase en cuenta que el presente Real Decreto produce efectos durante el período comprendido entre el 1 de enero y el 31 de diciembre de 2016, según establece su disposición final segunda, por lo que ha perdido su vigencia.
