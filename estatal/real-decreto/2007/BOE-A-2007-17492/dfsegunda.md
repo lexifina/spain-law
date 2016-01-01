@@ -1,3 +1,7 @@
 ## Disposición final segunda. Inicio del proceso de acreditación.
 
-Las solicitudes de acreditación a las que se refiere este real decreto podrán presentarse a partir de los 30 días contados desde la constitución de la correspondiente Comisión.
+(Sin contenido)
+
+> Se deja sin contenido por el art. único.17 del Real Decreto 415/2015, de 29 de mayo. Ref. BOE-A-2015-6705.
+
+> Téngase en cuenta la disposición final 4 del citado Real Decreto en cuanto a su entrada en vigor.

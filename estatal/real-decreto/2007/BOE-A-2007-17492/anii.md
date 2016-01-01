@@ -1,83 +1,92 @@
-## ANEXO
+## ANEXO II
 
-A. Criterios de evaluación.
+## A. Méritos evaluables
 
-1. Actividad investigadora.
+1. Actividad investigadora
 
-1.A Calidad y difusión de resultados de la actividad investigadora.-Publicaciones científicas, creaciones artísticas profesionales, congresos, conferencias, seminarios, etcétera.
+• Calidad y difusión de resultados de la actividad investigadora: publicaciones científicas, creaciones artísticas profesionales, congresos, conferencias, seminarios, tesis doctorales dirigidas (si no se alegan como méritos de actividad docente).
 
-1.B Calidad y número de proyectos y contratos de investigación
+• Calidad y número de proyectos competitivos y contratos de investigación con resultados constatables.
 
-1.C Calidad de la transferencia de los resultados.-Patentes y productos con registro de propiedad intelectual, transferencia de conocimiento al sector productivo, etcétera.
+• Movilidad: estancias en centros de investigación con resultados constatables.
 
-1.D Movilidad del profesorado.-Estancias en centros de investigación, etc.
+• Otros méritos investigadores.
 
-1.E Otros méritos.
+2. Actividad docente
 
-2. Actividad docente o profesional.
+• Dedicación docente: amplitud, diversidad, intensidad, responsabilidad, ciclos, tipo de docencia universitaria, tesis doctorales dirigidas (si no se alegan como méritos de actividad investigadora).
 
-2.A Dedicación docente.-Amplitud, diversidad, intensidad, responsabilidad, ciclos, tipo de docencia universitaria, dirección de tesis doctorales, etc.
+• Calidad de la actividad docente: evaluaciones positivas de la actividad, elaboración de material docente original, publicaciones docentes, proyectos de innovación docente con resultados destacables.
 
-2.B Calidad de la actividad docente.-Evaluaciones positivas de su actividad, material docente original, publicaciones docentes, proyectos de innovación docente, etcétera.
+• Formación docente.
 
-2.C Calidad de la formación docente.-Participación, como asistente o ponente, en congresos orientados a la formación docente universitaria, estancias en centros docentes, etc.
+• Otros méritos docentes.
 
-2.D Calidad y dedicación a actividades profesionales, en empresas, instituciones, organismos públicos de investigación u hospitales, distintas a las docentes o investigadoras.-Dedicación, evaluaciones positivas de su actividad, etc.
+3. Formación académica (solo para la acreditación de profesores titulares de universidad)
 
-2.E Otros méritos.
+• Calidad de la formación predoctoral y doctoral: becas, premios, otros títulos, etc. Tesis doctoral: premio extraordinario de doctorado y otros premios, mención de doctorado europeo o internacional, mención de calidad o excelencia del programa de doctorado.
 
-3. Formación académica.
+• Calidad de la formación posdoctoral: becas o contratos posdoctorales.
 
-3.A Calidad de la formación predoctoral.-Becas, premios, otros títulos, etc.
+• Otros méritos de formación académica.
 
-3.B Calidad de la formación posdoctoral.-Becas posdoctorales, tesis doctoral, premio extraordinario de doctorado, mención de doctorado europeo, mención de calidad del programa de doctorado.
+4. Transferencia de conocimiento y experiencia profesional
 
-3.C Otros méritos de formación académica.
+• Patentes y productos con registro de propiedad intelectual, transferencia de conocimiento al sector productivo, implicación en empresas de base tecnológica, etcétera.
 
-4. Experiencia en gestión y administración educativa, científica, tecnológica y otros méritos.
+• Calidad y dedicación a actividades profesionales en empresas, instituciones, organismos públicos de investigación u hospitales, distintas a las docentes o investigadoras.
 
-4.A Desempeño de cargos unipersonales de responsabilidad en gestión universitaria recogidos en los estatutos de las universidades, o que hayan sido asimilados, u organismos públicos de investigación durante al menos un año.
+• Contratos de transferencia o prestación de servicios profesionales con empresas, Administraciones públicas y otras instituciones suscritos al amparo del artículo 83 de la Ley Orgánica 6/2001, de Universidades.
 
-4.B Desempeño de puestos en el entorno educativo, científico o tecnológico dentro de la Administración General del Estado o de las comunidades autónomas durante al menos un año.
+• Otros méritos de transferencia de conocimiento y experiencia profesional.
 
-4.C Otros méritos.
+5. Experiencia en gestión y administración educativa, científica y tecnológica
 
-B. Baremo.
+• Desempeño de cargos unipersonales de responsabilidad en la gestión universitaria recogidos en los estatutos de las universidades, o que hayan sido asimilados a ellos; o en organismos públicos de investigación.
 
-Para el cuerpo de Profesores Titulares de Universidad.
+• Desempeño de puestos en el entorno educativo, científico o tecnológico dentro de la Administración General del Estado o de las comunidades autónomas.
 
-El baremo será, para cada uno de los criterios del apartado A:
+• Otros méritos de gestión.
 
-a) Actividad investigadora: un máximo de 50 puntos.
+## B. Baremo
 
-b) Actividad docente o profesional: un máximo de 40 puntos.
+La evaluación de los méritos aducidos y debidamente justificados dará lugar a una calificación alfabética de la A a la E. En cada uno de las dimensiones esta calificación tendrá el siguiente significado:
 
-c) Formación académica: un máximo de 5 puntos.
+– A, excepcional.
 
-d) Experiencia en gestión y administración educativa, científica, tecnológica y otros méritos: un máximo de 5 puntos.
+– B, bueno.
 
-Para obtener la evaluación positiva han de cumplirse simultáneamente las siguientes condiciones:
+– C, compensable.
 
-a) Alcanzar un mínimo de 60 puntos sumando los obtenidos en los apartados «1. Actividad investigadora» y «2. Actividad docente o profesional».
+– D, insuficiente.
 
-b) Conseguir un mínimo de 65 puntos como suma de todos los apartados.
+– E, circunstancia especial.
 
-Para el cuerpo de Catedráticos de Universidad.
+En la acreditación para el Cuerpo de Catedráticos de Universidad no se tomará en consideración la formación académica, y obtendrán una resolución positiva los solicitantes cuya evaluación obtenga, al menos, la combinación de calificaciones que se detalla en la siguiente tabla:
 
-El baremo será, para cada uno de los criterios del apartado A:
+|  | Investigación | Docencia | Transferencia/ Actividad profesional | Gestión |
+| --- | --- | --- | --- | --- |
+| Calificación mínima | B | B |  |  |
+| Calificación mínima | A | C, E1 |  |  |
+| Calificación mínima | B | C | B |  |
+| Calificación mínima | B | C |  | B |
+| Calificación mínima | C | B | A |  |
+| Calificación mínima | C | B |  | A |
 
-a) Actividad investigadora: un máximo de 55 puntos.
+1 El nivel E solo es válido para la acreditación cuando un solicitante haya desarrollado su carrera principalmente en una institución no universitaria o en una universidad no española donde el cómputo y los instrumentos de medición de la calidad de la actividad docente resulten difíciles de trasladar al sistema español.
 
-b) Actividad docente o profesional: un máximo de 35 puntos.
+En la acreditación para el Cuerpo de Profesores Titulares de Universidad obtendrán una resolución positiva los solicitantes cuya evaluación obtenga, al menos, la combinación de calificaciones que se detalla en la siguiente tabla:
 
-c) Experiencia en gestión y administración educativa, científica, tecnológica y otros méritos: un máximo de 10 puntos.
+|  | Investigación | Docencia | Transferencia/ Actividad profesional | Gestión | Formación |
+| --- | --- | --- | --- | --- | --- |
+| Calificación mínima | B | B |  |  |  |
+| Calificación mínima | A | C, E2 |  |  | B |
+| Calificación mínima | B | C | B |  | B |
+| Calificación mínima | B | C |  | B | B |
+| Calificación mínima | C | B | A |  | B |
 
-Para obtener la evaluación positiva han de cumplirse simultáneamente las siguientes condiciones:
+2 El nivel E solo es válido para la acreditación cuando un solicitante haya desarrollado su carrera principalmente en una institución no universitaria o en una universidad no española donde el cómputo y los instrumentos de medición de la calidad de la actividad docente resulten difíciles de trasladar al sistema español.
 
-a) Conseguir un mínimo de 80 puntos como suma de todos los criterios.
+> Se modifica y se numera por el art. único.19 del Real Decreto 415/2015, de 29 de mayo. Ref. BOE-A-2015-6705.
 
-b) Conseguir al menos 20 puntos en el segundo criterio.
-
-Para la evaluación de la experiencia investigadora.
-
-En el caso de la valoración del apartado 1 «Actividad investigadora», la aportación de un periodo de actividad investigadora reconocido de acuerdo con las previsiones del Real Decreto 1086/1989, de 28 de agosto, de retribuciones del profesorado universitario, tendrá una valoración de 15 puntos.
+> Téngase en cuenta la disposición final 4 del citado Real Decreto en cuanto a su entrada en vigor.
