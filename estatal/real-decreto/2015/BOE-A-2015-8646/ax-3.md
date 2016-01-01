@@ -6,7 +6,7 @@
 
 El valor de la anualidad de la retribución por inversión (CIn) para el año 2015 desde la entrada en vigor del presente real decreto para cada uno de los grupos será la establecida en la siguiente tabla:
 
-| N.º Registro | Denominación oficial | CIn 2015 (desde entrada en vigor del RD) |
+| N.º Registro | Denominación oficial | CIn 2015(desde la entrada en vigor del RD)M€ |
 | --- | --- | --- |
 | RO1-1064 | ALCUDIA 1, GRUPO N.º 1 | 0,000 |
 | RO1-1065 | ALCUDIA 2, GRUPO N.º 2 | 0,000 |
@@ -35,8 +35,6 @@ El valor de la anualidad de la retribución por inversión (CIn) para el año 20
 | RO2-0201 | IBIZA 22, TURBINA DE GAS N.º 5 | 1,559 |
 | RO2-0202 | IBIZA 23, TURBINA DE GAS N.º 6 | 1,696 |
 | RO2-0208 | IBIZA 24, TURBINA DE GAS N.º 6B |  |
-| RO2-0209 | IBIZA 25, TURBINA DE GAS N.º 7A |  |
-| RO2-0210 | IBIZA 26, TURBINA DE GAS N.º 7B |  |
 | RO2-0037 | MAHÓN 9, BURMEISTER N.º 1 | 0,793 |
 | RO2-0041 | MAHÓN 10, BURMEISTER N.º 2 | 0,754 |
 | RO2-0042 | MAHÓN 11, BURMEISTER N.º 3 | 0,766 |
@@ -59,7 +57,7 @@ El valor de la anualidad de la retribución por inversión (CIn) para el año 20
 | RO1-2012 | CA'S TRESORER TG3, CC2 | 7,023 |
 | RO1-2013 | CA'S TRESORER TG4, CC2 | 7,061 |
 | RO1-2014 | CA'S TRESORER TV2, CC2 | 7,344 |
-| N.º Registro | Denominación oficial | CIn 2015 (desde entrada en vigor del RD) |
+| N.º Registro | Denominación oficial | CIn 2015(desde la entrada en vigor del RD)M€ |
 | --- | --- | --- |
 | RO2-0089 | BARRANCO DE TIRAJANA 1, GAS 1 | 0,428 |
 | RO2-0090 | BARRANCO DE TIRAJANA 2, GAS 2 | 0,602 |
@@ -124,7 +122,7 @@ El valor de la anualidad de la retribución por inversión (CIn) para el año 20
 | RO1-1087 | GRANADILLA 9, VAPOR, 3 (CC1) | 5,652 |
 | RO1-2015 | GRANADILLA 10, TG5 (CC2) | 8,301 |
 | RO1-2016 | GRANADILLA 11, TG6 (CC2) | 8,316 |
-| RO1-1063 | GRANADILLA 12, VAPOR 4 (CC2) | PDTE |
+| RO1-1063 | GRANADILLA 12, VAPOR 4 (CC2) | 8,799 |
 | RO2-0105 | ARONA 1, GAS 1 | 1,190 |
 | RO2-0106 | ARONA 2, GAS 2 | 1,234 |
 | RO2-0127 | LOS GUINCHOS 6, DIÉSEL 6 | 0,000 |
@@ -156,9 +154,8 @@ El valor de la anualidad de la retribución por inversión (CIn) para el año 20
 | RO2-0148 | LLANOS BLANCOS 15, DIÉSEL 13 | 0,077 |
 | RO2-0176 | LLANOS BLANCOS 16, DIÉSEL, 14 | 0,319 |
 | RO2-0186 | LLANOS BLANCOS 17, DIÉSEL 15 | 0,325 |
-| RO2-0213 | LLANOS BLANCOS 18, DIÉSEL 16 | PDTE |
 | RO3-0018 | EL MULATO, HIDRÁULICA 1 | 0,015 |
-| N.º Registro | Denominación oficial | CIn 2015 (desde entrada en vigor del RD) |
+| N.º Registro | Denominación oficial | CIn 2015(desde la entrada en vigor del RD)M€ |
 | --- | --- | --- |
 | RO2-0020 | MELILLA 5, G-5 | 0,000 |
 | RO2-0021 | MELILLA 6, G-6 | 0,000 |
@@ -237,7 +234,7 @@ El parámetro «k» aplicable a Canarias tomará el valor de la tabla de Baleare
 | Grupos Diésel - 4T | 14 ≤ Potencia < 24 | 66.778 | 76.550 | 76.550 |
 | Turbinas de gas aeroderivadas | Potencia < 50 | 21.540 | 24.693 | 24.693 |
 | Turbinas de gas heavy duty | Potencia < 13 | 36.194 | 41.491 | 41.491 |
-| Turbinas de gas heavy duty | 13 ≤ Potencia < 25 | 27.633 | 31.678 |  |
+| Turbinas de gas heavy duty | 13 ≤ Potencia < 25 | 27.633 | 31.678 | 31.678 |
 | Turbinas de gas heavy duty | 25 ≤ Potencia < 50 | 19.072 | 21.864 |  |
 | Turbinas de gas heavy duty | Potencia ≥ 50 | 13.017 | 14.923 |  |
 | Turbinas de vapor de Carbón |  | 46.065 |  |  |
@@ -348,7 +345,7 @@ El parámetro «d» de las instalaciones tipo, a aplicar para el cálculo de la 
 | Grupos Diésel - 4T | 4 ≤ Potencia < 14 |  | 153,911 | 154,485 |
 | Grupos Diésel - 4T | 14 ≤ Potencia < 24 | 175,387 | 201,379 |  |
 | Turbinas de gas aeroderivadas | Potencia < 50 | 731,686 | 797,395 |  |
-| Turbinas de gas heavy duty | Potencia < 13 | 3.575,019 |  | 3.773,491 |
+| Turbinas de gas heavy duty | Potencia < 13 | 3.575,019 | 3.773.491 | 3.773,491 |
 | Turbinas de gas heavy duty | 13 ≤ Potencia < 25 | 3.389,509 | 3.773,491 | 3.773,491 |
 | Turbinas de gas heavy duty | 25 ≤ Potencia < 50 | 3.596,939 | 3.784,699 |  |
 | Turbinas de gas heavy duty | Potencia ≥ 50 | 10.830,217 | 12.844,058 |  |
@@ -365,3 +362,5 @@ El parámetro «d» de las instalaciones tipo, a aplicar para el cálculo de la 
 | Funcionamiento 1 TG+1 TV |  | 31.548,368 |  |  |
 | Funcionamiento 2 TG+1 TV |  | 31.548,368 |  |  |
 | Funcionamiento 3 TG+1 TV |  | 31.548,368 |  |  |
+
+> Se modifican los apartados 1, 3 y 7 por la disposición final 3.1 a 4 y 29 de la Orden IET/2735/2015, de 17 de diciembre. Ref. BOE-A-2015-13782

@@ -102,7 +102,7 @@ Los valores unitarios de operación y mantenimiento variable a aplicar durante l
 | Grupos Diésel - 4T | 4 ≤ Potencia < 14 |  | 157,984 | 158,573 |
 | Grupos Diésel - 4T | 14 ≤ Potencia < 24 | 180,028 | 206,707 |  |
 | Turbinas de gas aeroderivadas | Potencia < 50 | 751,045 | 818,493 |  |
-| Turbinas de gas heavy duty | Potencia < 13 | 3.669,609 |  | 3.873,332 |
+| Turbinas de gas heavy duty | Potencia < 13 | 3.669,609 | 3.873,332 | 3.873,332 |
 | Turbinas de gas heavy duty | 13 ≤ Potencia < 25 | 3.479,191 | 3.873,332 | 3.873,332 |
 | Turbinas de gas heavy duty | 25 ≤ Potencia < 50 | 3.692,109 | 3.884,837 |  |
 | Turbinas de gas heavy duty | Potencia ≥ 50 | 11.116,770 | 13.183,894 |  |
@@ -371,8 +371,6 @@ c) En el precio del combustible se deberá incluir, en su caso, los costes deriv
 | RO2-0201 | IBIZA 22, TURBINA DE GAS N.º 5 | 1,817 | 1,854 | 1,645 |
 | RO2-0202 | IBIZA 23, TURBINA DE GAS N.º 6 | 1,976 | 2,018 | 1,789 |
 | RO2-0208 | IBIZA 24, TURBINA DE GAS N.º 6B | PDTE | PDTE | PDTE |
-| RO2-0209 | IBIZA 25, TURBINA DE GAS N.º 7A | PDTE | PDTE | PDTE |
-| RO2-0210 | IBIZA 26, TURBINA DE GAS N.º 7B | PDTE | PDTE | PDTE |
 | RO2-0037 | MAHÓN 9, BURMEISTER N.º 1 | 0,961 | 0,922 | 0,846 |
 | RO2-0041 | MAHÓN 10, BURMEISTER N.º 2 | 0,913 | 0,876 | 0,804 |
 | RO2-0042 | MAHÓN 11, BURMEISTER N.º 3 | 0,928 | 0,890 | 0,816 |
@@ -460,7 +458,7 @@ c) En el precio del combustible se deberá incluir, en su caso, los costes deriv
 | RO1-1087 | GRANADILLA 9, VAPOR, 3 (CC1) | 6,621 | 6,704 | 5,971 |
 | RO1-2015 | GRANADILLA 10, TG 5 (CC2) | 9,662 | 9,882 | 8,755 |
 | RO1-2016 | GRANADILLA 11, TG 6 (CC2) | 9,679 | 9,900 | 8,771 |
-| RO1-1063 | GRANADILLA 12, VAPOR 4 (CC2) | PDTE | PDTE | PDTE |
+| RO1-1063 | GRANADILLA 12, VAPOR 4 (CC2) | 10,229 | 10,483 | 9,277 |
 | RO2-0105 | ARONA 1, GAS 1 | 1,397 | 1,409 | 1,258 |
 | RO2-0106 | ARONA 2, GAS 2 | 1,449 | 1,462 | 1,305 |
 | RO2-0127 | LOS GUINCHOS 6, DIÉSEL 6 | 0,000 | 0,000 | 0,000 |
@@ -529,7 +527,7 @@ c) En el precio del combustible se deberá incluir, en su caso, los costes deriv
 
 La anualidad de la retribución por inversión CIn (i) de cada grupo i para los meses del año 2015 en los que sea de aplicación la disposición transitoria séptima será la siguiente:
 
-| N.º Registro | Denominación oficial | CIn 2015 |
+| N.º Registro | Denominación oficial | CIn 2015 M€ |
 | --- | --- | --- |
 | RO1-1064 | ALCUDIA 1, GRUPO N.º 1 | 0,000 |
 | RO1-1065 | ALCUDIA 2, GRUPO N.º 2 | 0,000 |
@@ -558,8 +556,6 @@ La anualidad de la retribución por inversión CIn (i) de cada grupo i para los 
 | RO2-0201 | IBIZA 22, TURBINA DE GAS N.º 5 | 1,372 |
 | RO2-0202 | IBIZA 23, TURBINA DE GAS N.º 6 | 1,489 |
 | RO2-0208 | IBIZA 24, TURBINA DE GAS N.º 6B | PDTE |
-| RO2-0209 | IBIZA 25, TURBINA DE GAS N.º 7A | PDTE |
-| RO2-0210 | IBIZA 26, TURBINA DE GAS N.º 7B | PDTE |
 | RO2-0037 | MAHÓN 9, BURMEISTER N.º 1 | 0,779 |
 | RO2-0041 | MAHÓN 10, BURMEISTER N.º 2 | 0,741 |
 | RO2-0042 | MAHÓN 11, BURMEISTER N.º 3 | 0,754 |
@@ -582,7 +578,7 @@ La anualidad de la retribución por inversión CIn (i) de cada grupo i para los 
 | RO1-2012 | CA'S TRESORER TG3, CC2 | 6,168 |
 | RO1-2013 | CA'S TRESORER TG4, CC2 | 6,197 |
 | RO1-2014 | CA'S TRESORER TV2, CC2 | 6,434 |
-| N.º Registro | Denominación oficial | CIn 2015 |
+| N.º Registro | Denominación oficial | CIn 2015 M€ |
 | --- | --- | --- |
 | RO2-0089 | BARRANCO DE TIRAJANA 1, GAS 1 | 0,415 |
 | RO2-0090 | BARRANCO DE TIRAJANA 2, GAS 2 | 0,568 |
@@ -647,7 +643,7 @@ La anualidad de la retribución por inversión CIn (i) de cada grupo i para los 
 | RO1-1087 | GRANADILLA 9, VAPOR, 3 (CC1) | 5,044 |
 | RO1-2015 | GRANADILLA 10, TG5 (CC2) | 7,269 |
 | RO1-2016 | GRANADILLA 11, TG6 (CC2) | 7,281 |
-| RO1-1063 | GRANADILLA 12, VAPOR 4 (CC2) | PDTE |
+| RO1-1063 | GRANADILLA 12, VAPOR 4 (CC2) | 7,676 |
 | RO2-0105 | ARONA 1, GAS 1 | 1,069 |
 | RO2-0106 | ARONA 2, GAS 2 | 1,109 |
 | RO2-0127 | LOS GUINCHOS 6, DIÉSEL 6 | 0,000 |
@@ -730,7 +726,7 @@ La anualidad de la retribución por inversión CIn (i) de cada grupo i para los 
 | Grupos Diésel - 4T | 14 ≤ Potencia < 24 | 68.476 | 78.496 | 78.496 |
 | Turbinas de gas aeroderivadas | Potencia < 50 | 22.088 | 25.321 | 25.321 |
 | Turbinas de gas heavy duty | Potencia < 13 | 37.115 | 42.546 | 42.546 |
-| Turbinas de gas heavy duty | 13 ≤ Potencia < 25 | 28.336 | 32.483 |  |
+| Turbinas de gas heavy duty | 13 ≤ Potencia < 25 | 28.336 | 32.483 | 32.483 |
 | Turbinas de gas heavy duty | 25 ≤ Potencia < 50 | 19.557 | 22.420 |  |
 | Turbinas de gas heavy duty | Potencia ≥ 50 | 13.348 | 15.302 |  |
 | Turbinas de vapor de Carbón |  | 47.236 |  |  |
@@ -752,8 +748,8 @@ La anualidad de la retribución por inversión CIn (i) de cada grupo i para los 
 | Grupos Diésel - 4T | 4 ≤ Potencia < 14 |  | 118.490 | 118.490 |
 | Grupos Diésel - 4T | 14 ≤ Potencia < 24 | 67.983 | 77.931 | 77.931 |
 | Turbinas de gas aeroderivadas | Potencia < 50 | 21.929 | 25.138 | 25.138 |
-| Turbinas de gas heavy duty | Potencia < 14 | 36.847 | 42.240 | 42.240 |
-| Turbinas de gas heavy duty | 14 ≤ Potencia < 25 | 28.132 | 32.249 |  |
+| Turbinas de gas heavy duty | Potencia < 13 | 36.847 | 42.240 | 42.240 |
+| Turbinas de gas heavy duty | 13 ≤ Potencia < 25 | 28.132 | 32.249 | 32.249 |
 | Turbinas de gas heavy duty | 25 ≤ Potencia < 50 | 19.417 | 22.258 |  |
 | Turbinas de gas heavy duty | Potencia ≥ 50 | 13.252 | 15.192 |  |
 | Turbinas de vapor de Carbón |  | 46.896 |  |  |
@@ -776,7 +772,7 @@ La anualidad de la retribución por inversión CIn (i) de cada grupo i para los 
 | Grupos Diésel - 4T | 14 ≤ Potencia < 24 | 67.358 | 77.214 | 77.214 |
 | Turbinas de gas aeroderivadas | Potencia < 50 | 21.727 | 24.907 | 24.907 |
 | Turbinas de gas heavy duty | Potencia < 13 | 36.508 | 41.851 | 41.851 |
-| Turbinas de gas heavy duty | 13 ≤ Potencia < 25 | 27.873 | 31.952 |  |
+| Turbinas de gas heavy duty | 13 ≤ Potencia < 25 | 27.873 | 31.952 | 31.952 |
 | Turbinas de gas heavy duty | 25 ≤ Potencia < 50 | 19.238 | 22.054 |  |
 | Turbinas de gas heavy duty | Potencia ≥ 50 | 13.130 | 15.052 |  |
 | Turbinas de vapor de Carbón |  | 46.464 |  |  |
@@ -851,3 +847,5 @@ Los valores de k y l aplicables a Baleares se muestran en la tabla siguiente:
 El parámetro l aplicable a Canarias, Ceuta y Melilla tomará el valor de la tabla de Baleares.
 
 El parámetro «k» aplicable a Canarias tomará el valor de la tabla de Baleares multiplicado por 1,15, y el parámetro «k» aplicable a Ceuta y Melilla se obtendrá de multiplicar el valor correspondiente a Baleares por 1,1.
+
+> Se modifica por la disposición final 3.22 a 29 de la Orden IET/2735/2015, de 17 de diciembre. Ref. BOE-A-2015-13782

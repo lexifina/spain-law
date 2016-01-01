@@ -4,7 +4,7 @@
 
 A dichas instalaciones les serán de aplicación los requisitos y procedimientos establecidos en dicho real decreto y en la presente orden, a excepción de los referidos al mecanismo de subasta, de conformidad con la disposición transitoria duodécima de la Ley 24/2013, de 26 de diciembre.
 
-Los parámetros retributivos de las instalaciones tipo aplicables durante el primer semiperiodo regulatorio serán los establecidos en el anexo II.
+Los parámetros retributivos de las instalaciones tipo serán los establecidos en el anexo II.
 
 2. Los requisitos que deberán cumplir los titulares de las instalaciones para solicitar este régimen serán los siguientes:
 
@@ -49,6 +49,8 @@ b) "Datos de identificación de la instalación tipo".
 c) Titular.
 
 10. Los parámetros retributivos de las instalaciones tipo serán revisados y actualizados de acuerdo con lo previsto en el Real Decreto 413/2014, de 6 de junio.
+
+> Se modifica el apartado 1, párrafo tercero por la disposición final 1.1 de la Orden IET/2735/2015, de 17 de diciembre. Ref. BOE-A-2015-13782.
 
 > Se modifica por el art. único de la Orden IET/1953/2015, de 24 de septiembre. Ref. BOE-A-2015-10359.
 
