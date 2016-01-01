@@ -1,0 +1,7 @@
+## Disposición adicional octava. Antigüedad de las aportaciones en caso de cobro o movilización parcial e inembargabilidad en los planes de pensiones y en los sistemas de previsión social complementaria análogos a los planes de pensiones.
+
+1. Cuando se realicen cobros parciales de derechos económicos por contingencias o por los supuestos de liquidez regulados en el texto refundido de la Ley de Regulación de los Planes y Fondos de Pensiones y en este reglamento, o se efectúen movilizaciones parciales de los citados derechos, la solicitud del asegurado deberá incluir indicación referente a si los derechos económicos que desea percibir o movilizar corresponden a primas anteriores o posteriores a 1 de enero de 2007, si las hubiera. Los derechos económicos a movilizar se calcularán de forma proporcional según correspondan a primas anteriores y posteriores a dicha fecha, cuando éstas existan, y el asegurado no haya realizado la indicación señalada anteriormente.
+
+En caso de que el asegurado, mutualista o beneficiario sea titular de derechos susceptibles de embargo en varios planes de pensiones, planes de previsión asegurados y planes de previsión social empresarial, serán embargables en primer lugar los derechos en planes de pensiones del sistema individual y asociado y planes de previsión asegurados, y en último término los derechos en planes de pensiones de empleo, planes de previsión social empresarial.
+
+> Se añade por la disposición final 4.27 del Real Decreto 1060/2015, de 20 de noviembre. Ref. BOE-A-2015-13057#dfcuaa.

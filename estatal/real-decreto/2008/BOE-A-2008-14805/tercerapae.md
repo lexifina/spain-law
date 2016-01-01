@@ -4,7 +4,7 @@ Normas de elaboración de las cuentas anuales.
 
 1ª Documentos que integran las cuentas anuales.
 
-Las cuentas anuales comprenden el balance, la cuenta de pérdidas y ganancias, el estado de cambios en el patrimonio neto, el estado de flujos de efectivo y la memoria. Estos documentos forman una unidad y deben ser redactados de conformidad con lo dispuesto en el artículo 20 del texto refundido de la Ley de ordenación y supervisión de los seguros privados, aprobado por Real Decreto Legislativo 6/2004, de 29 de octubre, por el que se aprueba el y en el presente Plan, con la finalidad de mostrar la imagen fiel del patrimonio, de la situación financiera y de los resultados de la entidad.
+Las cuentas anuales comprenden el balance, la cuenta de pérdidas y ganancias, el estado de cambios en el patrimonio neto, el estado de flujos de efectivo y la memoria. Estos documentos forman una unidad y deben ser redactados de conformidad con lo dispuesto en el artículo 83 de la Ley 20/2015, de 14 de julio, de ordenación supervisión y solvencia de entidades aseguradoras y reaseguradoras y en el presente Plan, con la finalidad de mostrar la imagen fiel del patrimonio, de la situación financiera y de los resultados de la entidad.
 
 2ª Formulación de cuentas anuales.
 
@@ -16,11 +16,11 @@ Las cuentas anuales comprenden el balance, la cuenta de pérdidas y ganancias, e
 
 4. Las cuentas anuales se elaborarán expresando sus valores en euros; no obstante lo anterior, podrán expresarse los valores en miles o millones de euros cuando la magnitud de las cifras así lo aconseje, debiendo indicarse esta circunstancia en las cuentas anuales.
 
-5 Las entidades que operen simultáneamente en el ramo de vida y en los ramos distintos del de vida deberán llevar contabilidad separada para ambos tipos de actividad, con referencia a los siguientes conceptos:
+5. Las entidades que operen simultáneamente en el ramo de vida y en los ramos distintos del de vida deberán llevar contabilidad separada para ambos tipos de actividad, con referencia a los siguientes conceptos:
 
 a) Cuentas técnicas de pérdidas y ganancias.
 
-b) Los elementos integrantes del margen de solvencia y del fondo de garantía.
+b) Los fondos propios admisibles para la cobertura del capital mínimo obligatorio.
 
 c) Las provisiones técnicas y su inversión.
 
@@ -230,7 +230,7 @@ En caso de existir una operación de inversión que implique una contraprestaci�
 
 9ª Memoria.
 
-La memoria, por una parte, completa, amplía y comenta la información contenida en los otros documentos que integran las cuentas anuales y, por otra, incluye los estados de cobertura de las provisiones técnicas, de margen de solvencia y de fondo de garantía, con la debida separación, en su caso, de las actividades de vida y no vida. Se formulará teniendo en cuenta que:
+La memoria, completa, amplía y comenta la información contenida en los otros documentos que integran las cuentas anuales. Se formulará teniendo en cuenta que:
 
 1. El modelo de la memoria recoge la información mínima a cumplimentar; no obstante, en aquellos casos en que la información que se solicita no sea significativa no se cumplimentarán los apartados correspondientes.
 
@@ -2028,9 +2028,11 @@ Se entiende por sociedad de mayor activo aquella que en el momento de su incorpo
 
 6. Cuando la sociedad no sea la de mayor activo del conjunto de sociedades sometidas a una unidad de decisión en los términos señalados en el punto anterior, indicará la unidad de decisión a la que pertenece y el Registro Mercantil donde estén depositadas las cuentas anuales de la sociedad que contiene la información exigida en el punto anterior.
 
-7. En el caso de que la entidad pertenezca a un grupo consolidable de entidades aseguradoras, conforme a lo dispuesto en el artículo 21 del texto refundido de la Ley de ordenación y supervisión de los seguros privados, se indicará el nombre del grupo y el de la entidad obligada a presentar la Documentación Estadístico-Contable Consolidada en la Dirección General de Seguros y Fondos de Pensiones, la descripción de las sociedades incluidas a estos efectos en el perímetro de la consolidación y el objeto social y métodos de consolidación aplicados a cada una de estas sociedades. Además, en el caso del que el grupo consolidable de entidades aseguradoras no coincida con el grupo de sociedades previsto en el artículo 42 del Código de Comercio, se proporcionará la información contenida en el apartado 10.2.3 c) de la memoria, referida a dicho grupo consolidable de entidades aseguradoras.
+7. En el caso de que la entidad pertenezca a un grupo de entidades aseguradoras y reaseguradoras, conforme a lo dispuesto en el artículo 84.3 de Ley 20/2015, de 14 de julio, de ordenación supervisión y solvencia de entidades aseguradoras y reaseguradoras, se indicará el nombre del grupo y el de la entidad obligada a presentar la información a efectos estadísticos y contables en la Dirección General de Seguros y Fondos de Pensiones, la descripción de las sociedades incluidas a estos efectos en el perímetro de la consolidación, el objeto social y los métodos de consolidación aplicados a cada una de estas sociedades.
 
-Asimismo se facilitará información sobre la sujeción del grupo a lo dispuesto en la Ley 5/2005, de 22 de abril, de supervisión de los conglomerados financieros y por lo que se modifican otras leyes del sector financiero y en el Real Decreto 1332/2005, de 11 de noviembre, que desarrolla la anterior, por concurrir en el mismo las circunstancias previstas en las citadas normas a efectos de su constitución como conglomerado financiero o grupo mixto no consolidable.
+Además, en el caso de que la entidad pertenezca a un grupo sujeto a supervisión, de acuerdo a lo previsto en el artículo 132 de la Ley 20/2015, de 14 de julio, se indicará el nombre del grupo y el de la entidad obligada a presentar la información a efectos de supervisión en la Dirección General de Seguros y Fondos de Pensiones, el ámbito de aplicación de la supervisión de grupo, el objeto social de las entidades incluidas en el mismo, el método de cálculo de la solvencia del grupo y el método de valoración aplicado a cada entidad del grupo.
+
+Asimismo, se facilitará información sobre la sujeción del grupo a lo dispuesto en la Ley 5/2005, de 22 de abril, de supervisión de los conglomerados financieros y por la que se modifican otras leyes del sector financiero y en el Real Decreto 1332/2005, de 11 de noviembre, que desarrolla la anterior, por concurrir en el mismo las circunstancias previstas en las citadas normas a efectos de su constitución como conglomerado financiero o grupo mixto no consolidable.
 
 25. Información segmentada.
 
@@ -2135,43 +2137,15 @@ Sólo para ramos en los que las primas emitidas superen los 2.000.000 de euros; 
 
 4. Si conforme al apartado 3 de la norma de registro y valoración 9 la entidad reconociese a través del patrimonio neto o de la cuenta de pérdidas y ganancias activos o pasivos correctores de asimetrías contables, incluirá cumplida información en la memoria de los apuntes realizados para cada tipo de operaciones de seguros, así como la conciliación del saldo de los activos y pasivos correctores de asimetrías contables al inicio y al cierre del ejercicio.
 
-27. Estado de cobertura de provisiones técnicas.
+27. (Suprimido)
 
-Deberán reproducirse en este apartado los modelos que sobre los estados de Cobertura de Provisiones Técnicas las entidades deben confeccionar a efectos de la cumplimentación de la Documentación Estadístico-Contable.
-
-Respecto de dichos estados se deberá indicar:
-
-• Criterios de valoración empleados.
-
-• Se incluirá el correspondiente al ejercicio anterior. En caso de estados financieros intermedios se aportará el del período anterior.
-
-• En caso de déficit, motivos que a juicio de la entidad lo han originado y medidas adoptadas o a adoptar para superar dicha situación, con indicación en su caso de bienes que aun no reuniendo los requisitos de aptitud, podrían afectarse de modo transitorio hasta obtener dichos requisitos.
-
-• Modificaciones en la asignación de bienes aptos de la actividad de vida a no vida y/o viceversa.
-
-28. Estado del margen de solvencia y de fondo de garantía.
-
-Deberá reproducirse en este apartado el modelo que sobre el Estado de Margen de Solvencia y de Fondo de Garantía que las entidades deben confeccionar a efectos de la cumplimentación de la Documentación Estadístico-Contable.
-
-Deberá asimismo indicarse:
-
-• Criterios de valoración empleados.
-
-• Se incluirá el correspondiente al ejercicio anterior. En caso de estados financieros intermedios se aportará el del período anterior.
-
-• Principales variaciones en cuanto a la cuantía mínima exigible respecto del ejercicio anterior.
-
-• En caso de pertenencia a un grupo consolidable de entidades aseguradoras, indicación de la cuantía mínima del margen de solvencia consolidado y del patrimonio consolidado no comprometido.
-
-• En caso de déficit, circunstancias que a juicio de la entidad lo han originado y medidas adoptadas o a adoptar para paliar dicha situación.
-
-• Modificaciones en la asignación de partidas del margen de solvencia de la actividad de vida a no vida y/o viceversa.
+28. (Suprimido)
 
 B. CONTENIDO DE LA MEMORIA ABREVIADA.
 
 En la memoria abreviada se incluirán los desgloses de información requeridos en los apartados que a continuación se precisan referidos al contenido de la memoria normal:
 
-1. Actividad de la entidad.
+"1. Actividad de la entidad.
 
 2. Bases de presentación de las cuentas anuales.
 
@@ -2191,7 +2165,7 @@ En la memoria abreviada se incluirán los desgloses de información requeridos e
 
 16. Retribuciones a largo plazo al personal.
 
-17. Transacciones con pagos basados en instrumentos de patrimonio .
+17. Transacciones con pagos basados en instrumentos de patrimonio.
 
 18. Subvenciones, donaciones y legados.
 
@@ -2207,11 +2181,7 @@ En la memoria abreviada se incluirán los desgloses de información requeridos e
 
 24. Otra información.
 
-25. Información segmentada.
-
-27. Estado de Cobertura de provisiones técnicas.
-
-28. Estado de margen de solvencia y fondo de garantía.
+25. Información segmentada."
 
 En lo que al resto de apartados se refiere, en la memoria abreviada se cumplimentará y detallará la información que se establece a continuación.
 
@@ -2332,6 +2302,8 @@ d) Saldo final.
 4. Se informará asimismo sobre la naturaleza y amplitud de las diferencias entre la provisión para prestaciones constituida al comienzo del ejercicio por los siniestros pendientes a esa fecha y la suma de los importes pagados durante el ejercicio por los siniestros incluidos en aquélla y el de la provisión constituida al final del ejercicio por dichos siniestros pendientes.
 
 No obstante, si existe alguna información significativa que no se incluye en ninguno de los apartados anteriores, deberá asimismo contemplarse.
+
+> Se modifican las normas 1.ª, 2.ª y 9.ª, los apartados V).A.24.7 y V).B y se suprimen los apartados V).A.27 y V).A.28 por la disposición final 5.8 a 13 del Real Decreto 1060/2015, de 20 de noviembre. Ref. BOE-A-2015-13057#dfquinta.
 
 > Se modifica la norma 4ª y el modelo de memoria por el art. único.5 a 12 del Real Decreto 1736/2010, de 23 de diciembre. Ref. BOE-A-2010-20052.
 

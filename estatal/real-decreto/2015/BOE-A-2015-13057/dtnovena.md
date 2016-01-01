@@ -1,0 +1,3 @@
+## Disposición transitoria novena. Informe sobre la situación financiera y de solvencia.
+
+Sin perjuicio de la información que obligatoriamente deba publicarse en virtud de cualesquiera otros requisitos legales o reglamentarios, hasta el 31 de diciembre de 2020 no será obligatorio que las entidades aseguradoras o reaseguradoras incluyan, en la descripción de la gestión del capital contenida en el informe sobre la situación financiera y de solvencia al que se refiere el artículo 92, la indicación separada de la exigencia de capital de solvencia obligatorio adicional o el impacto de los parámetros específicos que la entidad aseguradora o reaseguradora debe utilizar por desviaciones significativas frente a las hipótesis de base del cálculo de la fórmula estándar.

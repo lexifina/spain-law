@@ -4,7 +4,7 @@ Los asegurados de los planes de previsión social empresarial únicamente podrá
 
 Para la movilización, el asegurado deberá dirigirse a la entidad aseguradora o gestora de destino, para iniciar su traspaso.
 
-A tal fin, el asegurado deberá acompañar a su solicitud la identificación del plan de previsión social empresarial y entidad aseguradora de origen desde el que se realizará la movilización, así como, en su caso, el importe a movilizar y una autorización del asegurado a la aseguradora o entidad gestora de destino para que, en su nombre, pueda solicitar a la aseguradora del plan de previsión social empresarial de origen la movilización de los derechos económicos, así como toda la información financiera y fiscal necesaria para realizarlo.
+A tal fin, el asegurado deberá acompañar a su solicitud la identificación del plan de previsión social empresarial y entidad aseguradora de origen desde el que se realizará la movilización, así como, en su caso, el importe a movilizar y una autorización del asegurado a la aseguradora o entidad gestora de destino para que, en su nombre, pueda solicitar a la aseguradora del plan de previsión social empresarial de origen la movilización de los derechos económicos, así como toda la información financiera y fiscal necesaria para realizarlo. En caso de movilización parcial de derechos económicos, la solicitud del asegurado deberá incluir indicación referente a si los derechos económicos que desea movilizar corresponden a primas anteriores o posteriores a 1 de enero de 2007, si las hubiera. Los derechos económicos a movilizar se calcularán de forma proporcional según correspondan a primas anteriores y posteriores a dicha fecha, cuando éstas existan, y el asegurado no haya realizado la indicación señalada anteriormente.
 
 La solicitud deberá realizarse mediante escrito firmado por el asegurado o cualquier otro medio del que quede constancia, para aquel y para la entidad receptora, de su contenido y presentación.
 
@@ -19,5 +19,7 @@ No se podrán movilizar los derechos económicos cuando, en orden a instrumentar
 Asimismo, los asegurados podrán ejercer su derecho de rescate en los casos de desempleo de larga duración y enfermedad grave en los términos y condiciones previstas para los planes de pensiones.
 
 En los procedimientos de movilizaciones a que se refiere este apartado se autoriza que la transmisión de la solicitud de traspaso, la transferencia de efectivo y la transmisión de la información entre las entidades intervinientes, puedan realizarse a través del Sistema Nacional de Compensación Electrónica, mediante las operaciones que, para estos supuestos, se habiliten en dicho sistema.
+
+> Se modifica el párrafo tercero por la disposición final 4.25 del Real Decreto 1060/2015, de 20 de noviembre. Ref. BOE-A-2015-13057#dfcuaa.
 
 > Se añade por el art. 1.73 del Real Decreto 681/2014, de 1 de agosto. Ref. BOE-A-2014-8367.

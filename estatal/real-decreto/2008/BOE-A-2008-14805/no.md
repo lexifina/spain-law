@@ -1,1 +1,1 @@
-> Incluye la corrección de errores y erratas publicada en BOE núm. 265, de 3 de noviembre de 2008. Ref. BOE-A-2008-17565.
+Esta norma pasa a denominarse "Real Decreto 1317/2008, de 24 de julio, por el que se aprueba el Plan de contabilidad de las entidades aseguradoras y reaseguradoras y normas sobre la formulación de las cuentas anuales consolidadas de los grupos de entidades aseguradoras y reaseguradoras", según establece la disposición final 5.1 del Real Decreto 1060/2015, de 20 de noviembre. Ref. BOE-A-2015-13057#dfquinta.

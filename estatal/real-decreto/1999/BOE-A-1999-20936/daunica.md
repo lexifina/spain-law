@@ -38,7 +38,7 @@ b) Con periodicidad al menos anual, la entidad aseguradora remitirá a cada aseg
 
 2.º Certificación a efectos fiscales del valor de las primas imputadas que, en cumplimiento del plan, haya satisfecho el tomador en el ejercicio anterior.
 
-3.º Valor de la provisión matemática a 31 de diciembre del ejercicio anterior.
+3.º Valor de la provisión matemática a 31 de diciembre del ejercicio anterior, distinguiéndose la parte correspondiente a primas pagadas antes del 1 de enero de 2007, si las hubiere.
 
 4.º Valor de rescate en caso de cese de la relación laboral y condiciones en las que se permite la movilización a otro instrumento de previsión social.
 
@@ -52,13 +52,21 @@ e) Además de las obligaciones establecidas en el apartado anterior, las entidad
 
 Para ello las entidades aseguradoras deberán articular las medidas necesarias y utilizar los medios precisos para garantizar el acceso de cualquier asegurado a dicha información. En todo caso las entidades aseguradoras remitirán la información periódica de carácter trimestral a los asegurados que expresamente la soliciten.
 
-5. El tomador de un plan de previsión social empresarial únicamente podrá ejercer el derecho de rescate para integrar todos los compromisos instrumentados en el plan de previsión social empresarial en otro plan de previsión social empresarial o en un plan de pensiones promovido por la empresa. En ambos casos la nueva aseguradora o el plan de pensiones asumirá la cobertura total de los compromisos por pensiones transferidos. El importe el derecho de rescate deberá ser abonado directamente a la nueva aseguradora del nuevo plan de previsión social empresarial o al fondo de pensiones en el que se integre el plan de pensiones. Será admisible que el pago del valor de rescate se realice mediante el traspaso de los activos, neto de los gastos precisos para efectuar los correspondientes cambios de titularidad.
+5. El tomador de un plan de previsión social empresarial únicamente podrá ejercer el derecho de rescate para integrar todos los compromisos instrumentados en el plan de previsión social empresarial en otro plan de previsión social empresarial o en un plan de pensiones promovido por la empresa. En ambos casos, la nueva aseguradora o el plan de pensiones, asumirán la cobertura total de los compromisos por pensiones transferidos. El importe del derecho de rescate deberá ser abonado directamente a la nueva aseguradora del nuevo plan de previsión social empresarial o al fondo de pensiones en el que se integre el plan de pensiones.
+
+Será admisible que el pago del valor de rescate se realice mediante el traspaso de los activos, neto de los gastos precisos para efectuar los correspondientes cambios de titularidad.
+
+Cuando se realicen cobros parciales de derechos económicos por contingencias o por los supuestos excepcionales de liquidez regulados en el texto refundido de la Ley de Planes y Fondos de Pensiones, o se efectúen movilizaciones parciales de los citados derechos, la solicitud del asegurado deberá incluir indicación referente a si los derechos económicos que desea percibir o movilizar corresponden a primas anteriores o posteriores a 1 de enero de 2007, si las hubiera.
+
+En el supuesto de movilizaciones parciales, los derechos económicos a movilizar se calcularán de forma proporcional según correspondan a primas anteriores y posteriores a dicha fecha, cuando éstas existan, y el asegurado no haya realizado la indicación señalada en el párrafo anterior.
 
 6. Los asegurados de los planes de previsión social empresarial únicamente podrán ejercer el derecho de rescate en el supuesto de extinción de la relación laboral y sólo si estuviese previsto en las condiciones generales, especiales o particulares de la póliza, pudiendo integrar sus derechos económicos en otros planes de previsión social empresarial, en planes de previsión asegurados o en planes de pensiones.
 
 A efectos de lo previsto en el párrafo anterior, se aplicará el procedimiento de movilización de derechos de los planes de previsión social empresarial regulado en la disposición adicional sexta del Reglamento de Planes y Fondos de Pensiones.
 
 7. En todo lo que no contradiga esta disposición adicional resultará aplicable a los planes de previsión social empresarial el contenido de los artículos 26.1, 27.1, 27.3, 28.1, 28.3. 28.4, 29.2, 30, 31 y 33 de este Reglamento.
+
+> Se modifican los apartados 4.b) y 5 por la disposición final 1.4 y 5 del Real Decreto 1060/2015, de 20 de noviembre. Ref. BOE-A-2015-13057#dfprimera.
 
 > Se modifica por el art. 2.3 y 4 del Real Decreto 681/2014, de 1 de agosto. Ref. BOE-A-2014-8367.
 

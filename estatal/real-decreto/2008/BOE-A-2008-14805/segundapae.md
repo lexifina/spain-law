@@ -86,7 +86,7 @@ Los créditos por venta de inmovilizado se valorarán de acuerdo con lo dispuest
 
 4. Valor razonable de los inmuebles.
 
-Se entenderá, a los efectos de esta norma y de las subsiguientes, que el valor razonable de los inmuebles será el valor de tasación otorgado por una entidad tasadora autorizada para la valoración de bienes en el mercado hipotecario, con arreglo a las normas específicas para la valoración de inmuebles aptos para la cobertura de las provisiones técnicas de las entidades aseguradoras aprobadas por el Ministerio de Economía y Hacienda.
+Se entenderá, a los efectos de esta norma y de las subsiguientes, que el valor razonable de los inmuebles será el valor de tasación otorgado por una entidad tasadora autorizada para la valoración de bienes en el mercado hipotecario, con arreglo a las normas de valoración de bienes inmuebles y de determinados derechos para ciertas finalidades financieras aprobadas por el Ministerio de Economía y Competitividad.
 
 3ª Normas particulares sobre inmovilizado material e inversiones inmobiliarias.
 
@@ -614,7 +614,7 @@ Se entenderá por suceso aislado ajeno al control de la entidad, entre otros, lo
 
 a) Un deterioro significativo en la solvencia del emisor.
 
-b) Cambios en los requerimientos de capitales económicos o en los límites de diversificación y dispersión de los activos.
+b) Cambios en los requerimientos de capitales económicos.
 
 c) Rescates de pólizas que excedan de las estimaciones de rescates realizadas por la entidad en base a proyecciones que contemplen su experiencia en los 5 últimos ejercicios y la realidad de variables financieras observables en los mercados.
 
@@ -916,11 +916,11 @@ Los instrumentos de cobertura se valorarán y registrarán de acuerdo con su nat
 
 1. Marco general de los contratos de seguros.
 
-Todo contrato calificado como contrato de seguro conforme al texto refundido de la Ley de ordenación y supervisión de los seguros privados, la Ley de Contrato de Seguro y demás disposiciones de desarrollo, se contabilizará según lo dispuesto en la quinta parte de este Plan para los contratos de seguros.
+Todo contrato calificado como contrato de seguro conforme a la Ley de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras, la Ley de contrato de seguro y demás disposiciones de desarrollo, se contabilizará según lo dispuesto en la quinta parte de este Plan para los contratos de seguros.
 
 2. Provisiones técnicas.
 
-La valoración de las provisiones técnicas se efectuará conforme a lo dispuesto en la normativa aplicable de ordenación y supervisión de los seguros privados. Dicha cuantía no se modificará por los distintos criterios de valoración aplicables a los instrumentos financieros.
+La valoración de las provisiones técnicas se efectuará conforme a lo dispuesto en la disposición adicional quinta del Real Decreto 1060/2015, de 20 de noviembre, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras. La cuantía resultante no se modificará por los distintos criterios de valoración aplicables a los instrumentos financieros.
 
 Atendiendo a lo establecido en la quinta parte de este Plan, la reserva de estabilización se reconocerá en el patrimonio neto. Anualmente su importe se incrementará, en la cuantía exigida en la normativa de ordenación y supervisión de los seguros privados, con cargo al patrimonio neto. Su importe únicamente podrá ser dispuesto para compensar las desviaciones de la siniestralidad del ejercicio de propia retención. El recargo de seguridad no será objeto de periodificación contable.
 
@@ -1703,5 +1703,7 @@ En todo caso, en la formulación de las cuentas anuales deberá tenerse en cuent
 Se entenderá por estados intermedios al conjunto de la información financiera que se refiera a un período contable inferior al ejercicio económico anual de la entidad. Tendrán tal carácter, los elaborados para el ejercicio de la supervisión financiera.
 
 A las correcciones valorativas por deterioro: (i) del fondo de comercio, (ii) de los derechos económicos derivados de carteras de pólizas adquiridas a un mediador, (iii) de las inversiones en instrumentos de patrimonio incluidas en la categoría de activos financieros disponibles para la venta y (iv) de los activos financieros valorados al coste distintos de las inversiones en el patrimonio de entidades del grupo, multigrupo y asociadas, que hubiesen sido reconocidos en los estados financieros intermedios, se les aplicará el régimen contable que disponen las normas de registro y valoración correspondientes a efectos de su posible reversión.
+
+> Se modifican las normas de registro y valoración 2.ª, 8.ª y 9.ª por la disposición final 5.5 a 7 del Real Decreto 1060/2015, de 20 de noviembre. Ref. BOE-A-2015-13057#dfquinta.
 
 > Se modifican las normas de registro y valoración 8ª, 12ª, 18ª y 20ª por el art. único.1 a 4 del Real Decreto 1736/2010, de 23 de diciembre. Ref. BOE-A-2010-20052.

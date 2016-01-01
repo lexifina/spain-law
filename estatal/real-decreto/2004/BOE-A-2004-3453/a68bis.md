@@ -1,0 +1,19 @@
+## Artículo 68 bis. Canalización de recursos de un plan de pensiones individual o asociado adscrito a un fondo a otros fondos de pensiones abiertos.
+
+El promotor de un plan de pensiones individual o la comisión de control de un plan de pensiones asociado adscrito a un fondo podrán acordar la canalización de recursos de su cuenta de posición a otros fondos de pensiones personales autorizados para operar como abiertos, en las siguientes condiciones:
+
+a) El plan de pensiones individual o asociado inversor mantendrá una cuenta de participación en el fondo personal abierto que podrá ser movilizable a otro fondo personal abierto, o reintegrable en el fondo en el que esté integrado el plan inversor.
+
+Corresponde a la comisión de control del fondo abierto aceptar la apertura de dicha cuenta de participación, pudiendo delegar tal facultad en alguno de sus miembros, en una subcomisión o en su gestora. A falta de comisión de control del fondo abierto, dicha facultad le corresponde a la entidad gestora.
+
+b) La cuenta de participación del plan en el fondo abierto se considerará un activo del fondo personal al que esté adscrito el plan inversor, asignado individualmente a la cuenta de posición de éste.
+
+En el activo del fondo al que esté adscrito el plan inversor, a la cuenta de participación del plan no le serán aplicables los límites de diversificación de inversiones previstos en este reglamento. En cuanto a las comisiones de gestión y depósito imputables a dicha cuenta, se estará a lo previsto al efecto en el artículo 84.
+
+El fondo personal abierto no podrá garantizar una rentabilidad mínima por la participación de un plan inversor.
+
+c) La instrumentación del cobro de aportaciones y pago de prestaciones del plan se realizará en el fondo al que esté adscrito, correspondiendo a su gestora la certificación y movilización de los derechos consolidados, el reconocimiento y abono de las prestaciones y la cuantificación de la cuenta de posición del plan.
+
+La gestora del fondo abierto deberá informar al promotor del plan de pensiones individual o a la comisión de control del plan asociado inversor de los cambios en las normas de funcionamiento y en la política de inversión del fondo abierto, y con la periodicidad que se pacte, que será como mínimo anual, informará a dicho promotor o comisión de control del plan sobre el estado y movimientos de la cuenta de participación y sobre las inversiones del fondo de pensiones abierto. Asimismo, la gestora del fondo de pensiones abierto deberá facilitar diariamente la referida información a la gestora del fondo al que está adscrito el plan inversor.
+
+> Se añade por la disposición final 4.13 del Real Decreto 1060/2015, de 20 de noviembre. Ref. BOE-A-2014-8367#dfcuaa.
