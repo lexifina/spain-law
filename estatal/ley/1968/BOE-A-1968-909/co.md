@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 1 de enero de 2016, por la disposición derogatoria 3 de la Ley 38/1999, de 5 de noviembre, Ref. BOE-A-1999-21567#ddtercera. en la redacción dada por la disposición final 3.4 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dftercera.

@@ -8,21 +8,25 @@ b) Cuando el contrato se concluya en cumplimiento de una obligación de asegurar
 
 2. En los contratos de seguro por grandes riesgos las partes tendrán libre elección de la ley aplicable.
 
-Se consideran grandes riesgos los siguientes:
+> Téngase en cuenta que se deroga la definición de grandes riesgos establecida en el apartado 2 por la disposición derogatoria.a) de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dd. con efectos de 1 de enero de 2016.
 
-a) Los de vehículos ferroviarios, vehículos aéreos, vehículos marítimos, lacustres y fluviales, mercancías transportadas (comprendidos los equipajes y demás bienes transportados), la responsabilidad civil en vehículos aéreos (comprendida la responsabilidad del transportista) y la responsabilidad civil de vehículos marítimos, lacustres y fluviales (comprendida la responsabilidad civil del transportista).
+> Redacción anterior:
 
-b) Los de crédito y de caución cuando el tomador ejerza a título profesional una actividad industrial, comercial o liberal y el riesgo se refiera a dicha actividad.
+> "Se consideran grandes riesgos los siguientes:
 
-c) Los de vehículos terrestres (no ferroviarios), incendio y elementos naturales, otros daños a los bienes, responsabilidad civil en vehículos terrestres automóviles (comprendida la responsabilidad del transportista), responsabilidad civil en general, y pérdidas pecuniarias diversas, siempre que el tomador supere los límites de, al menos, dos de los tres criterios siguientes:
+> a) Los de vehículos ferroviarios, vehículos aéreos, vehículos marítimos, lacustres y fluviales, mercancías transportadas (comprendidos los equipajes y demás bienes transportados), la responsabilidad civil en vehículos aéreos (comprendida la responsabilidad del transportista) y la responsabilidad civil de vehículos marítimos, lacustres y fluviales (comprendida la responsabilidad civil del transportista).
 
-- Total del balance: 6.200.000 ecus.
+> b) Los de crédito y de caución cuando el tomador ejerza a título profesional una actividad industrial, comercial o liberal y el riesgo se refiera a dicha actividad.
 
-- Importe neto del volumen de negocios: 12.800.000 ecus.
+> c) Los de vehículos terrestres (no ferroviarios), incendio y elementos naturales, otros daños a los bienes, responsabilidad civil en vehículos terrestres automóviles (comprendida la responsabilidad del transportista), responsabilidad civil en general, y pérdidas pecuniarias diversas, siempre que el tomador supere los límites de, al menos, dos de los tres criterios siguientes:
 
-- Número medio de empleados durante el ejercicio: 250 empleados.
+> - Total del balance: 6.200.000 ecus.
 
-Si el tomador del seguro formara parte de un conjunto de empresas cuyo balance consolidado se establezca con arreglo a lo dispuesto en los artículos 42 a 49 del Código de Comercio, los criterios mencionados anteriormente se aplicarán sobre la base del balance consolidado.
+> - Importe neto del volumen de negocios: 12.800.000 ecus.
+
+> - Número medio de empleados durante el ejercicio: 250 empleados.
+
+> Si el tomador del seguro formara parte de un conjunto de empresas cuyo balance consolidado se establezca con arreglo a lo dispuesto en los artículos 42 a 49 del Código de Comercio, los criterios mencionados anteriormente se aplicarán sobre la base del balance consolidado".
 
 3. Fuera de los casos previstos en los dos números anteriores, regirán las siguientes normas para determinar la ley aplicable al contrato de seguro contra daños:
 
@@ -37,6 +41,8 @@ c) Cuando la garantía de los riesgos que estén localizados en territorio espa�
 5. La elección por las partes de la ley aplicable, cuando sea posible, deberá expresarse en el contrato o desprenderse claramente de su contenido. Si faltare la elección, el contrato se regirá por la ley del Estado de entre los mencionados en los números 2 y 3 de este artículo, con el que presente una relación más estrecha. Sin embargo, si una parte del contrato fuera separable del resto del mismo y presentara una relación más estrecha con algún otro Estado de los referidos en este número, podrá, excepcionalmente, aplicarse a esta parte del contrato la ley de ese Estado. Se presumirá que existe relación más estrecha con el Estado miembro del Espacio Económico Europeo en que esté localizado el riesgo.
 
 6. Lo dispuesto en los números precedentes se entenderá sin perjuicio de las normas de orden público contenidas en la ley española, cualquiera que sea la ley aplicable al contrato de seguro contra daños. Sin embargo, si el contrato cubre riesgos localizados en varios Estados miembros del Espacio Económico Europeo se considerará que existen varios contratos a los efectos de lo previsto en este número y que corresponden cada uno de ellos únicamente a un Estado.
+
+> Se deroga la definición de grandes riesgos del apartado 2 por la disposición derogatoria.a) de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897.
 
 > Se modifica por la disposición adicional 6.7 de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262
 

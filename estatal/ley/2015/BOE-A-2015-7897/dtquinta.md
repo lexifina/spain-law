@@ -1,0 +1,7 @@
+## Disposición transitoria quinta. Régimen de determinadas operaciones de seguro realizadas por mutualidades de previsión social al amparo del texto refundido de la Ley de ordenación y supervisión de los seguros privados, aprobado por el Real Decreto Legislativo 6/2004, de 29 de octubre. Excepción de límites a prestaciones en forma de capital.
+
+1. Las mutualidades de previsión social autorizadas con anterioridad a la entrada en vigor de esta Ley que, sin tener autorización para ampliación de prestaciones, vinieran realizando operaciones de seguro de defensa jurídica o asistencia, o prestasen ayudas familiares para subvenir a necesidades motivadas por hechos o actos jurídicos que impidan temporalmente el ejercicio de la profesión, podrán seguir realizando estas operaciones con carácter indefinido.
+
+Las coberturas de riesgos que se realicen incumpliendo lo dispuesto en el párrafo anterior tendrán la consideración de operaciones prohibidas conforme lo dispuesto por el artículo 5 de esta Ley.
+
+2. Las mutualidades de previsión social que, al amparo de la legislación anterior a esta Ley, viniesen garantizando legalmente prestaciones a las personas en cuantía superior a los límites fijados en el artículo 44.1 de esta Ley, podrán seguir garantizando las prestaciones que tuvieran establecidas, pero no podrán adoptar acuerdos de aumento o revalorización de las prestaciones mientras sigan siendo superiores a los límites mencionados en el referido precepto, ni incorporar nuevos mutualistas a esas pólizas o reglamentos de prestaciones.

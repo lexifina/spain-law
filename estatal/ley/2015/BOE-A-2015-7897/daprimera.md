@@ -1,0 +1,3 @@
+## Disposición adicional primera. Régimen aplicable a los Estados del Espacio Económico Europeo que no formen parte de la Unión Europea.
+
+Las disposiciones de esta Ley que hacen referencia a los Estados miembros de la Unión Europea, a las entidades aseguradoras y reaseguradoras en ellos domiciliadas o a la actividad en ellos de las entidades aseguradoras y reaseguradoras españolas serán también aplicables a los Estados parte del Acuerdo del Espacio Económico Europeo que no son miembros de la Unión Europea, a las entidades aseguradoras y reaseguradoras en ellos domiciliadas y a la actividad de las entidades aseguradoras y reaseguradoras españolas en esos Estados.

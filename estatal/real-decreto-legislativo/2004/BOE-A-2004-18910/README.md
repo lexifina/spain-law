@@ -53,5 +53,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 25](a25.md)
 - [Artículo 26](a26.md)
 - [Disposición adicional única](daunica-2.md)
+- [Disposición transitoria](dt.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)

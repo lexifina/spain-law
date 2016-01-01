@@ -4,6 +4,16 @@ Los derechos económicos de los asegurados o mutualistas derivados de primas, ap
 
 En el caso de los planes de previsión social empresarial y los concertados con mutualidades de previsión social para los trabajadores de las empresas, la disposición anticipada de derechos derivados de primas, aportaciones o contribuciones realizadas con al menos diez años de antigüedad será posible si así lo permite el compromiso y se prevé en la correspondiente póliza de seguro o reglamento de prestaciones. En el caso de que la entidad aseguradora cuente con inversiones afectas el derecho de disposición anticipada se valorará por el valor de mercado de los activos asignados.
 
-> Téngase en cuenta que esta disposición añadida por la disposición final 1.4 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327. entra en vigor el 1 de enero de 2015.
+En las Mutualidades de Previsión Social que, en virtud de lo establecido en la disposición adicional decimoquinta de la Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros Privados, actúen como sistema alternativo al alta en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, no se podrán hacer efectivos los derechos económicos de los productos o seguros utilizados para cumplir con dicha función alternativa en los supuestos de liquidez previstos en los párrafos primero y segundo del apartado 8 del artículo 8 de esta Ley.
+
+> Téngase en cuenta que esta última actualización establecida por la disposición final 4.14 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa. entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1
+
+> Redacción anterior:
+
+> "Los derechos económicos de los asegurados o mutualistas derivados de primas, aportaciones y contribuciones abonadas a planes de previsión asegurados, planes de previsión social empresarial y contratos de seguro concertados con mutualidades de previsión social contemplados en el artículo 51 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no residentes y sobre el Patrimonio, podrán hacerse efectivos anticipadamente en los supuestos excepcionales de liquidez y de disposición anticipada previstos para los planes de pensiones en el apartado 8 del artículo 8 de esta Ley, en los términos y condiciones establecidos en dicho precepto y en las normas que lo desarrollan reglamentariamente.
+
+> En el caso de los planes de previsión social empresarial y los concertados con mutualidades de previsión social para los trabajadores de las empresas, la disposición anticipada de derechos derivados de primas, aportaciones o contribuciones realizadas con al menos diez años de antigüedad será posible si así lo permite el compromiso y se prevé en la correspondiente póliza de seguro o reglamento de prestaciones. En el caso de que la entidad aseguradora cuente con inversiones afectas el derecho de disposición anticipada se valorará por el valor de mercado de los activos asignados."
+
+> Se modifica por la disposición final 4.14 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfcuaa.
 
 > Se añade por la disposición final 1.4 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327.

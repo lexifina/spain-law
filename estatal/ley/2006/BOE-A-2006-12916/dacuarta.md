@@ -2,7 +2,13 @@
 
 1. Constituye el hecho imponible de la tasa:
 
-a) La inscripción en el Registro administrativo especial de mediadores de seguros, corredores de reaseguros y de sus altos cargos, de las personas que ejerzan como agentes de seguros u operadores de banca-seguros, ya sean exclusivos o vinculados, como corredores de seguros, como sus auxiliares-asesores o como corredores de reaseguros.
+a) La inscripción en el Registro administrativo especial de mediadores de seguros, corredores de reaseguros y de sus altos cargos, de las personas que ejerzan como agentes de seguros u operadores de banca-seguros, ya sean exclusivos o vinculados, como corredores de seguros o corredores de reaseguros.
+
+> Téngase en cuenta que esta última actualización del apartado 1.a) establecida por la disposición final 10.10 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfdecima . entra en vigor el 1 de enero de 2016, según se indica en su disposición final 21.1.
+
+> Redacción anterior:
+
+> "1.a) La inscripción en el Registro administrativo especial de mediadores de seguros, corredores de reaseguros y de sus altos cargos, de las personas que ejerzan como agentes de seguros u operadores de banca-seguros, ya sean exclusivos o vinculados, como corredores de seguros, como sus auxiliares-asesores o como corredores de reaseguros."
 
 b) La inscripción de los cargos de administración y de dirección responsables de las actividades de mediación de seguros o de reaseguros de las personas jurídicas inscritas como mediadores de seguros, sus auxiliares-asesores o corredores de reaseguros que, con arreglo a esta Ley y a sus disposiciones reglamentarias de desarrollo, deban ser inscritos.
 
@@ -37,6 +43,8 @@ f) Por la expedición de certificados relativos a la información incluida en el
 8. La administración, liquidación y recaudación en periodo voluntario de la tasa corresponde a la Dirección General de Seguros y Fondos de Pensiones. La recaudación en periodo ejecutivo corresponde a la Agencia Estatal de Administración Tributaria, de acuerdo con la legislación vigente.
 
 9. Los importes de la tasa podrán actualizarse por la Ley de Presupuestos Generales del Estado.
+
+> Se modifica el apartado 1a) por la disposición final 10.10 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfdecima
 
 > Se modifica el apartado 4 por el art. 81 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
 

@@ -6,7 +6,13 @@ La póliza del contrato deberá redactarse, a elección del tomador del seguro, 
 
 2. El concepto en el cual se asegura.
 
-3. Naturaleza del riesgo cubierto.
+3. Naturaleza del riesgo cubierto, describiendo, de forma clara y comprensible, las garantías y coberturas otorgadas en el contrato, así como respecto a cada una de ellas, las exclusiones y limitaciones que les afecten destacadas tipográficamente.
+
+> Téngase en cuenta que esta última actualización del apartado 3 establecida por la disposición final 1.1 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897. entra en vigor el 1 de enero de 2016 según se indica en la disposición final 21.1.
+
+> Redacción anterior:
+
+> "3. Naturaleza del riesgo cubierto."
 
 4. Designación de los objetos asegurados y de su situación.
 
@@ -23,6 +29,10 @@ La póliza del contrato deberá redactarse, a elección del tomador del seguro, 
 En caso de póliza flotante, se especificará, además, la forma en que debe hacerse la declaración del abono.
 
 Si el contenido de la póliza difiere de la proposición de seguro o de las cláusulas acordadas, el tomador del seguro podrá reclamar a la Entidad aseguradora en el plazo de un mes a contar desde la entrega de la póliza para que subsane la divergencia existente. Transcurrido dicho plazo sin efectuar la reclamación, se estará a lo dispuesto en la póliza. Lo establecido en este párrafo se insertará en toda póliza del contrato de seguro.
+
+> Se modifica el apartado 3 por la disposición final 1.1 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897.
+
+> Téngase en cuenta para su aplicación la disposición transitoria 13.
 
 > Se modifica el apartado 9 por la disposición adicional 10.1 de la Ley 26/2006, de 17 de julio. Ref. BOE-A-2006-12916
 

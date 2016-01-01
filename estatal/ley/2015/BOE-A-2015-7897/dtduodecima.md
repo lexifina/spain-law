@@ -1,0 +1,3 @@
+## Disposición transitoria duodécima. Vigencia temporal.
+
+Sin perjuicio de lo dispuesto en la disposición adicional decimoctava, hasta que se dicten las disposiciones reglamentarias de desarrollo de esta Ley, mantendrán su vigencia el Reglamento de ordenación y supervisión de los seguros privados, aprobado por el Real Decreto 2486/1998, de 20 diciembre; el Reglamento de mutualidades de previsión social, aprobado por el Real Decreto 1430/2002, de 27 de diciembre; el Plan de contabilidad de las entidades aseguradoras, aprobado por el Real Decreto 1317/2008, de 24 de julio; y las demás disposiciones de carácter general dictadas en desarrollo del texto refundido de la Ley de ordenación y supervisión de los seguros privados, en todo lo que no se opongan a esta Ley.

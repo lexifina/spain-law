@@ -1,0 +1,5 @@
+## Disposición final decimoquinta. Incorporación de Derecho de la Unión Europea.
+
+Mediante esta Ley se incorpora parcialmente al derecho español la Directiva 2009/138/CE del Parlamento Europeo y del Consejo, de 25 de noviembre de 2009, sobre el seguro de vida, el acceso a la actividad de seguro y de reaseguro y su ejercicio (Solvencia II) modificada por la Directiva 2014/51/UE del Parlamento Europeo y del Consejo, de 16 de abril de 2014, por la que se modifican las Directivas 2003/71/CE y 2009/138/CE y los Reglamentos (CE) n.º 1060/2009, (UE) n.º 1094/2010 y (UE) n.º 1095/2010 en lo que respecta a los poderes de la Autoridad Europea de Supervisión (Autoridad Europea de Seguros y Pensiones de Jubilación) y de la Autoridad Europea de Supervisión (Autoridad Europea de Valores y Mercados) (Ómnibus II).
+
+Igualmente se incorpora la Directiva 2011/89/UE del Parlamento Europeo y del Consejo, de 16 de diciembre de 2011 por la que se modifican las Directivas 98/78/CE, 2002/67/CE, 2006/48/CE y 2009/138/CE, en lo relativo a la supervisión adicional de las entidades financieras que forman parte de un conglomerado financiero.

@@ -34,15 +34,7 @@ k) La Ley 11/2015, de 18 de junio, de recuperación y resolución de entidades d
 
 l) El artículo 34 de la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización.
 
-m) La Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva.
-
-n) La Ley 22/2014, de 12 de noviembre, por la que se regulan las entidades de capital-riesgo, otras entidades de inversión colectiva de tipo cerrado y las sociedades gestoras de entidades de inversión colectiva de tipo cerrado, y por la que se modifica la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva.
-
-ñ) El Texto Refundido de la Ley de Regulación de los Planes y Fondos de Pensiones, aprobado por Real Decreto Legislativo 1/2002, de 29 de noviembre.
-
 3. Las normas legales mencionadas en el apartado anterior se aplicarán con el alcance subjetivo y objetivo previsto en las mismas a las operaciones o contratos que en ellas se contemplan y, en particular, las referidas a las operaciones relativas a los sistemas de pagos y de liquidación y compensación de valores, operaciones dobles, operaciones con pacto de recompra o se trate de operaciones financieras relativas a instrumentos derivados.
-
-> Se añaden las letras m), n) y ñ) al apartado 2 por el art. 1.3.2 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#a1.
 
 > Se modifica el apartado 2.h) por la disposición final 5.2 de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897#dfquinta.
 

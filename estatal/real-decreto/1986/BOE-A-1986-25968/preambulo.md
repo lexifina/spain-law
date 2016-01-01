@@ -1,1 +1,1 @@
-> Incluye la corrección de errores y erratas publicadas en BOE núms. 238, de 4 de octubre de 1986. Ref. BOE-A-1986-26317 y 287, de 1 de diciembre de 1986. Ref. BOE-A-1986-31608
+Norma derogada, con efectos de 1 de enero de 2016, por la disposición derogatoria.b) de la Ley 20/2015, de 14 de julio. Ref. BOE-A-2015-7897.
