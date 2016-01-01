@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Incorporación de los administradores concursales al sistema LexNET.
+
+Los administradores concursales, hasta el día siguiente a la publicación del desarrollo reglamentario sobre el régimen de la administración concursal previsto en la disposición transitoria segunda de la Ley 17/2014, de 30 de septiembre, por la que se adoptan medidas urgentes en materia de refinanciación y reestructuración de deuda empresarial, seguirán comunicándose con la Administración de Justicia por medio de soporte papel. A partir de esa fecha estarán obligados a la presentación de escritos y a la recepción de las comunicaciones y notificaciones por el sistema LexNET.
