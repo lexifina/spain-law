@@ -136,7 +136,7 @@ Arroz: Rendimiento grano pelado, rendimiento grano elaborado y tipo de grano.
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2014, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2016, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV (1):
 
@@ -148,10 +148,12 @@ Especies que cumplen con los protocolos de examen de la OCVV (1):
 | Hordeum vulgare L. | Cebada | TP 19/3 de 21.3.2012 |
 | Secale cerale L. | Centeno | TP 58/1 de 31.10.2002 |
 | Triticum aestivum L. | Trigo blando | TP 3/4 rev 2 de 16.2.2011 |
-| Triticum durum Desf. | Trigo duro | TP 120/2 de 6.11.2003 |
+| Triticum durum Desf. | Trigo duro | TP 120/3 de 19.3.2014 |
 | Triticosecale Wittm x A. Camus. | Triticale (Híbridos del cruce de una especie del géneroTriticum con una especie del género Secale | TP 121/2 rev 1 de 16.02.2011 |
 
 (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+
+> Se modifica el apartado 6, con efectos de 1 de enero de 2016, por el art. único.1 de la Orden AAA/2505/2015, de 19 de noviembre. Ref. BOE-A-2015-12818.
 
 > Se modifica el apartado 6 por el art. único.1 de la Orden AAA/1170/2013, de 21 de junio. Ref. BOE-A-2013-6904.
 

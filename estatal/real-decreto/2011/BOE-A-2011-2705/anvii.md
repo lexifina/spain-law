@@ -280,7 +280,7 @@ Zanahoria: 50 gramos.
 
 5. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Las variedades de las especies que se citan a continuación, si con anterioridad al 1 de julio de 2014 han iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en este Protocolo de examen o, en su caso, en el Protocolo de examen que se encontraba en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2016, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV (1):
 
@@ -294,7 +294,7 @@ Especies que cumplen con los protocolos de examen de la OCVV (1):
 | Apium graveolens L. | Apionabo | TP 74/1 de 13.3.2008 |
 | Solanum melongena L. | Berenjena | TP 117/1 de 13.3.2008 |
 | Brassica oleracea L. | Bróculi o brécol | TP 151/2 de 21.3.2007 |
-| Cucurbita pepo L. | Calabacín | TP 119/1 de 25.3.2004 |
+| Cucurbita pepo L. | Calabacín | TP 119/1 rev. de 19.3.2014 |
 | Valerianella locusta (L.) Laterr. | Canónigo o hierba de los canónigos | TP 75/2 de 21.3.2007 |
 | Allium cepa L. (var. Cepa) | Cebolla | TP 46/2 de 1.04.2009 |
 | Allium cepa L. (var. Aggregatum) | Chalota | TP 46/2 de 1.04.2009 |
@@ -307,7 +307,7 @@ Especies que cumplen con los protocolos de examen de la OCVV (1):
 | Brassica oleracea L. | Col de Milán, repollo y lombarda | TP 48/3 de 16.1.2011 |
 | Brassica oleracea L. | Coliflor | TP 45/2 de 11.03.2010 |
 | Brassica oleracea L. | Colirrábano | TP 65/1 de 25.3.2004 |
-| Cichorium endivia L. | Escarola y endivia | TP 118/2 de 1.12.2005 |
+| Cichorium endivia L. | Escarola y endivia | TP 118/3 de 19.3.2014 |
 | Asparagus officinalis L. | Espárrago | TP 130/2 de 16.2.2011 |
 | Spynacia oleracea L. | Espinaca | TP 55/5 de 27.2.2013 |
 | Pisum sativum L. (partim) | Guisante de grano rugoso, guisante de grano liso redondo y guisante cometodo | TP 7/2 de 11.3.2010 |
@@ -324,11 +324,11 @@ Especies que cumplen con los protocolos de examen de la OCVV (1):
 | Capsicum annuum L. | Pimiento | TP 76/2 de 21.3.2007 |
 | Allium porrum L. | Puerro | TP 85/2 de 1.4.2009 |
 | Raphanus sativus L. | Rábano o rabanito y rábano de invierno o rábano negro | TP 64/2 de 27.2.2013 |
-| Citrullus lanatus (Thunb.) Matsum. et Nakai | Sandía | TP 142/1 de 21.3.2007 |
-| Solanum lycopersicum L | Tomate | TP 44/4 rev.1 de 27.2.2013 |
+| Citrullus lanatus (Thunb.) Matsum. et Nakai | Sandía | TP 142/2 de 19.3.2014 |
+| Solanum lycopersicum L. × Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. × Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. × Solanum cheesmaniae (L. Ridley) Fosberg | Portainjertos de tomate | TP 294/1 de 19.3.2014 |
 | Daucus carota L. | Zanahoria de mesa | TP 49/3 de 13.3.2008 |
 
-El texto de este protocolo puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
 Especies que cumplen con las directrices de examen de la UPOV (2):
 
@@ -352,9 +352,11 @@ Especies que cumplen con las directrices de examen de la UPOV (2):
 | Solanum cheesmaniae (L. Ridley) |  |  |
 | Fosberg |  |  |
 
-(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
-
 (2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Se modifica el apartado 5, con efectos de 1 de enero de 2016, por el art. único.3 de la Orden AAA/2505/2015, de 19 de noviembre. Ref. BOE-A-2015-12818.
+
+> Aunque la Orden citada establece que se modifica el apartado 6, entendemos que se refiere al apartado 5.
 
 > Se modifica el apartado 5 por el art. único.4 del Real Decreto 626/2014, de 18 de julio. Ref. BOE-A-2014-7655.
 
