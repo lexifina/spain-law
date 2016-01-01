@@ -76,4 +76,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 38](a38.md)
 - [Artículo 39](a39.md)
 - [Artículo 40](a40.md)
+- [Disposición transitoria única](dtunica.md)
 - [Disposición final única](dfunica.md)
