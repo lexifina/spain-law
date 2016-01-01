@@ -1,3 +1,5 @@
+> Norma derogada por Resolución de 17 de diciembre de 2015. Ref. BOE-A-2015-14216.
+
 El artículo 4 de la Ley Orgánica 3/2013, de 20 de junio, de protección de la salud del deportista y lucha contra el dopaje en la actividad deportiva, establece la obligación del Consejo Superior de Deportes de publicar en el Boletín Oficial del Estado, mediante Resolución de su Presidencia, la lista de sustancias y métodos prohibidos en el deporte cuando se introduzcan cambios en la misma. Asimismo, el citado artículo prevé que dicha publicación se realizará en el marco de los compromisos y obligaciones internacionales asumidas por España, y en particular en el marco de la Convención Antidopaje de la UNESCO.
 
 De acuerdo con el procedimiento específico del artículo 34 de la Convención Internacional contra el dopaje en el deporte, hecho en París el 18 de noviembre de 2005 (publicado en el «Boletín Oficial del Estado» de 16 de febrero de 2007), la Conferencia de las Partes de la Convención ha aprobado la modificación al anexo I, la Lista de sustancias y métodos prohibidos en el deporte.
