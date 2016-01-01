@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Reintegro de becas y ayudas al estudio personalizadas.
+
+Los ingresos derivados de los reintegros de becas y ayudas al estudio personalizadas concedidas por el Ministerio de Educación, Cultura y Deporte en las distintas convocatorias realizadas por dicho departamento ministerial conforme a lo dispuesto en el Real Decreto 1721/2007, de 21 de diciembre, por el que se establece el régimen de las becas y ayudas al estudio personalizadas, que se produzcan durante el ejercicio presupuestario, podrán generar crédito en la aplicación 18.07.323M.482.07 del estado de gastos.

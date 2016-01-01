@@ -2,7 +2,9 @@
 
 En los diez años siguientes a la entrada en vigor de esta Ley, lo dispuesto en el artículo 28.1 de la misma se entenderá referido a los bienes muebles integrantes del Patrimonio Histórico Español en posesión de las instituciones eclesiásticas.
 
-> Téngase en cuenta que el plazo indicado se prorroga hasta el 1 de enero de 2016, según establece la disposición adicional 94 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+> Téngase en cuenta que el plazo indicado se prorroga hasta el 1 de enero de 2017, según establece la disposición adicional 95 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644.
+
+> Se prorroga el plazo por un año a partir del 1 de enero de 2016 por la disposición adicional 95 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644.
 
 > Se prorroga el plazo por un año a partir del 1 de enero de 2015 por la disposición adicional 94 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
 

@@ -8,7 +8,7 @@ b) Las disposiciones adicionales decimoctava y cuadragésima, que entrarán en v
 
 c) El apartado Tres del artículo 3, que entrará en vigor el 1 de enero de 2014.
 
-d) La disposición final décima, que entrará en vigor el 1 de enero de 2016.
+d) La Disposición final décima, que entrará en vigor el 1 de enero de 2017.
 
 2. Se seguirá aplicando la regulación de la pensión de jubilación, en sus diferentes modalidades, requisitos de acceso, condiciones y reglas de determinación de prestaciones, vigentes antes de la entrada en vigor de esta Ley, a las pensiones de jubilación que se causen antes de 1 de enero de 2019, en los siguientes supuestos:
 
@@ -20,7 +20,9 @@ c) Quienes hayan accedido a la pensión de jubilación parcial con anterioridad 
 
 En aquellos supuestos a que se refieren los apartados b) y c) en que la aplicación de la legislación anterior tenga su origen en decisiones adoptadas o en planes de jubilación parcial incluidos en acuerdos colectivos de empresa, será condición indispensable que los indicados acuerdos colectivos de empresa se encuentren debidamente registrados en el Instituto Nacional de la Seguridad Social o en el Instituto Social de la Marina, en su caso, en el plazo que reglamentariamente se determine.
 
-> Se modifica el apartado 1.d) por la disposición final 16 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
+> Se modifica la letra d) del apartado 1 por la disposición final 14 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644#dfdecimacuaa.
+
+> Se modifica la letra d) del apartado 1 por la disposición final 16 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
 
 > Se modifica el apartado 1 por la disposición final 27 de la Ley 22/2013, de 23 de diciembre. Ref. BOE-A-2013-13616.
 
