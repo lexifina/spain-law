@@ -26,12 +26,14 @@ La presentación de este documento podrá ser sustituida por una autorización a
 
 a. Circunstancias excepcionales relacionadas con el programa nacional para el fomento de actividades agrícolas específicas que reporten mayores beneficios agroambientales en determinadas especies del sector de los frutos de cáscara establecido, en el año 2013, en el Real Decreto 202/2012, de 23 de enero.
 
-b. No presentación de la solicitud única en 2013 por causas atribuibles a la entidad colaboradora.
+b. No presentación de la solicitud única en 2013 o en 2015, por causas atribuibles a la entidad colaboradora.
 
 – Además de la documentación relacionada en el anexo Ill de este real decreto que proceda en cada caso, se aportarán los documentos justificativos de las causas de fuerza mayor o circunstancias excepcionales descritas en el presente anexo:
 
 1. Declaración jurada sobre la rotación de cultivos en la explotación el año 2013 que justifique la imposibilidad de solicitar la ayuda específica ese año.
 
 2. Liquidación del seguro de responsabilidad civil por parte de la entidad colaboradora y declaración jurada sobre la omisión cometida por parte de la misma.
+
+> Se modifica la letra b) del apartado 3) por el art. 2.8 del Real Decreto 1172/2015, de 29 de diciembre. Ref. BOE-A-2015-14282.
 
 > Se modifica el apartado 1 por el art. 2 del Real Decreto 320/2015, de 24 de abril. Ref. BOE-A-2015-4521.

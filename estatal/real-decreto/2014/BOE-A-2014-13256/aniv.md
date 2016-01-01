@@ -16,14 +16,18 @@ Para pastos arbolados y arbustivos
 
 Se admitirán las siguientes labores sobre los pastos arbolados y arbustivos:
 
-– Pastoreo anual de las superficies declaradas con animales de las especies vacuna, ovina, caprina, equina y porcina (esta última solo en explotaciones calificadas por su sistema productivo como extensivo o mixto en REGA)
-
 – Labores de desbroce necesarias para mantener el pasto en condiciones adecuadas evitando su degradación e invasión por el matorral.
 
 Para pastizales y praderas
 
 Se admitirán las siguientes labores sobre los prados, tierras arables (destinadas a la producción de hierbas y otros forrajes herbáceos) y pastizales:
 
-– Pastoreo anual de las superficies declaradas con animales de las especies vacuna, ovina, caprina, equina y porcina.
+– Siega
 
-– Siega en las parcelas dedicadas a producción de forrajes para el ganado.
+– Mantenimiento de un adecuado drenaje para evitar encharcamientos
+
+Para todo tipo de pastos
+
+– El estercolado o fertilización con fines exclusivos de mantenimiento homogéneo del pasto en toda o la mayor parte de la superficie.
+
+> Se modifica por el art. 1.43 del Real Decreto 1172/2015, de 29 de diciembre. Ref. BOE-A-2015-14282.

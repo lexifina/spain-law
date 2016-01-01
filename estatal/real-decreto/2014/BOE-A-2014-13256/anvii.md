@@ -4,7 +4,7 @@
 
 I. Información general
 
-1. La identificación del agricultor: NIF, apellidos y nombre del agricultor y de su cónyuge y régimen matrimonial, en su caso, o razón social, fecha de nacimiento si procede, domicilio (tipo de vía y su número, código postal, municipio y provincia), teléfono y apellidos y nombre del representante legal en su caso, con su NIF. En caso de persona física, indicación de si la titularidad de la explotación es compartida mediante la inscripción previa en el registro correspondiente. Si procede, la comprobación de los datos relativos a la identidad se realizará de oficio por el órgano instructor, si así se autoriza por el solicitante. En caso de no presentar dicha autorización, el solicitante deberá aportar el correspondiente documento.
+1. La identificación del agricultor: NIF, apellidos y nombre del agricultor y, si procede, de su cónyuge y régimen matrimonial, en su caso, o razón social, fecha de nacimiento si procede, domicilio (tipo de vía y su número, código postal, municipio y provincia), teléfono y apellidos y nombre del representante legal en su caso, con su NIF. En caso de persona física, indicación de la si la titularidad de la explotación es compartida mediante la inscripción en el registro previo correspondiente. Si procede, la comprobación de los datos relativos a la identidad se realizará de oficio por el órgano instructor, si así se autoriza por el solicitante. En caso de no presentar dicha autorización, el solicitante deberá aportar el correspondiente documento.
 
 2. Los datos bancarios, con reseña de la entidad financiera así como de las cifras correspondientes al código IBAN, de banco y al de sucursal, los dos dígitos de control y el número de la cuenta corriente, libreta, etc., donde se quieran recibir los pagos.
 
@@ -24,7 +24,7 @@ I. Información general
 
 10. Las advertencias contenidas en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y demás normativa vigente.
 
-11. Declaración de todas las parcelas agrarias de la explotación, incluidas aquéllas para las que no se solicite ningún régimen de ayuda, indicándose en todo caso y para cada parcela, lo recogido en los puntos 1 a 4 del epígrafe III del presente anexo. Para cada recinto se indicará el régimen de tenencia, es decir, si el mismo es propiedad del solicitante; se explota en régimen de arrendamiento o aparcería, indicando en estos casos el NIF del arrendador o cedente aparcero; usufructo o se trata de una superficie comunal asignada por una autoridad pública gestora de la misma, en cuyo caso deberá aportar la documentación relativa a dicha asignación. En el caso de la ayudas por superficie de los programas de desarrollo rural se incluirán las superficies no agrícolas por la que se solicita dicha ayuda.
+11. Declaración de todas las parcelas agrarias de la explotación, incluidas aquéllas para las que no se solicite ningún régimen de ayuda, indicándose en todo caso y para cada parcela, lo recogido en los puntos 1 a 4 del epígrafe III del presente anexo. Para cada recinto se indicará el régimen de tenencia, es decir, si el mismo es propiedad del solicitante, se explota en régimen de arrendamiento o aparcería, indicando en estos casos, para recintos mayores de 2 hectáreas, el NIF del arrendador o cedente aparcero, usufructo o si se trata de una superficie comunal asignada por una entidad gestora de la misma, en cuyo caso deberá aportar la documentación relativa a dicha asignación. En el caso de la ayudas por superficie de los programas de desarrollo rural se incluirán las superficies no agrícolas por la que se solicita dicha ayuda. La indicación del NIF del arrendador o cedente aparcero podrá no realizarse en aquellas comunidades autónomas que tengan implementado un sistema que permita a los propietarios de las parcelas indicar que parcelas no pueden ser solicitadas al no estar arrendadas, evitando así la utilización fraudulenta de las mismas.
 
 12. Declaración expresa de que conoce los usos y delimitaciones que figuran en la base de datos del SIGPAC (visor) para las parcelas agrícolas declaradas y que estos se corresponden con los usos y aprovechamientos que realiza en su explotación, presentando en caso contrario la alegación de cambio de uso SIGPAC o delimitación que corresponda.
 
@@ -52,7 +52,7 @@ Deberán declararse todas las parcelas agrícolas de la explotación, indicándo
 
 3. Los regímenes para los que se solicita la ayuda.
 
-4. La utilización de las parcelas, indicándose en todo caso el producto cultivado, los pastos permanentes, otras superficies forrajeras, el barbecho y tipo del mismo, los cultivos permanentes, las superficies plantadas con árboles forestales de ciclo corto, etc. En el caso de los recintos de pastos, se indicará si las parcelas van a ser objeto de mantenimiento mediante pastoreo u otras técnicas. El solicitante declarará de forma expresa que los cultivos y aprovechamientos, así como las actividades de mantenimiento declaradas son veraces y constituyen un fiel reflejo de su actividad agraria.
+4. La utilización de las parcelas, indicándose en todo caso el producto cultivado, los pastos permanentes, otras superficies forrajeras, el barbecho y tipo del mismo, los cultivos permanentes, las superficies plantadas con plantas forestales de ciclo corto, etc. En el caso de los recintos de pastos, se indicará si las parcelas van a ser objeto de producción con pastoreo, siega o mantenimiento mediante otras técnicas. En el caso de las tierras de cultivo, si procede, se podrá declarar más de un producto por campaña y parcela, indicando siempre como producto principal aquel que se vaya a utilizar para la medida de diversificación establecida en el artículo 20. El solicitante declarará de forma expresa que los cultivos y aprovechamientos, así como las actividades de mantenimiento declaradas son veraces y constituyen un fiel reflejo de su actividad agraria.
 
 5. Se declarará por separado el barbecho medioambiental con arreglo al Reglamento (CE) N.º 1698/2005 del Consejo, de 20 de septiembre de 2005, y la repoblación forestal conforme al mismo Reglamento o al Reglamento (CE) N.º 1257/1999 del Consejo, de 17 de mayo de 1999, sobre la ayuda al desarrollo rural a cargo del Fondo Europeo de Orientación y de Garantía Agrícola (FEOGA) y por el que se modifican y derogan determinados Reglamentos.
 
@@ -74,13 +74,13 @@ Deberán declararse todas las parcelas agrícolas de la explotación, indicándo
 
 10. En el caso de la ayuda asociada a los cultivos proteicos a que se refiere la sección 3.ª del capítulo I del título IV, la superficie por la que se solicita el pago deberá desglosarse por especie y, cuando corresponda, por variedad cultivada.
 
-11. En el caso de la ayuda asociada a los frutos de cáscara a que se refiere la sección 4.ª del capítulo I del título IV, las especies y el número de árboles de cada una de las especies existentes beneficiarias de dicha ayuda.
+11. En el caso, tanto de la ayuda asociada a los frutos de cáscara a que se refiere la sección 4.ª del capítulo I del título IV, como de la ayuda nacional a los frutos de cáscara a que se refiere la disposición adicional primera, las especies y el número de árboles de cada una de las especies existentes beneficiarias de dicha ayuda.
 
 12. En el caso del pago específico al cultivo del algodón a que se refiere la sección 8.ª del capítulo I del título IV, deberá indicar, en su caso, la organización interprofesional autorizada a la que pertenece.
 
 IV. Ayuda asociada a los ganaderos, medidas de ayuda relacionadas con los animales y ayudas a los agricultores que ejerzan actividad ganadera
 
-1. Descripción completa de todas las unidades de producción que constituyen la explotación y en las que se mantendrán animales objeto de solicitudes de ayuda o que deben ser tenidos en cuenta para la percepción de éstas. Se incluirá referencia expresa al código de identificación asignado a cada unidad de producción en virtud del Real Decreto 479/2004, de 26 de marzo, por el que se establece y regula el Registro General de Explotaciones Ganaderas.
+1. Declaración del solicitante, de que todas las unidades de producción que constituyen la explotación y en las que mantendrán animales objeto de solicitudes de ayuda o que deben ser tenidas en cuenta para la percepción de éstas, se corresponden con las incluidas en la base de datos informatizada según lo establecido en el Real Decreto 479/2004, de 26 de marzo.
 
 2. Para todas las ayudas a los ganaderos que ejerzan actividad ganadera el productor debe solicitar que le sea concedida esta ayuda por el máximo número de animales que cumplan los requisitos.
 
@@ -94,9 +94,9 @@ De acuerdo con el apartado 4 del artículo 21 del Reglamento de Ejecución (UE) 
 
 V. Información y documentación adicional
 
-1. Croquis de las parcelas agrícolas cuando el productor no declare la totalidad de un recinto SIGPAC, excepto en el caso de pastos permanentes de uso común y en el caso de que la titularidad de la parcela sea en régimen de aparcería.
+1. Croquis de las parcelas agrícolas cuando el productor no declare la totalidad de un recinto SIGPAC, o cuando declare en un recinto productos diferentes o variedades distintas de un mismo producto siempre que la distinción entre las distintos productos y variedades tenga un impacto en la admisibilidad de la ayuda que se está solicitando. Lo anterior no será de aplicación en el caso de pastos permanentes de uso común y en el caso de que la titularidad de la parcela sea en régimen de aparcería.
 
-2. Para la justificación de la actividad agraria establecida en el artículo 11, en los casos en los que el productor vaya a recibir ayudas en superficies de pastos y no sea titular de una explotación ganadera inscrita en REGA, conforme a lo establecido en las letras a) y b) del apartado 5 del artículo 11, deberá, cuando así lo establezca la autoridad competente, presentar pruebas de que realiza las labores de mantenimiento descritas en el Anexo IV en la superficie de pastos declarada.
+2. Para la justificación de la actividad agraria establecida en el artículo 11, en los casos en los que el productor vaya a recibir ayudas en superficies de pastos y no sea titular de una explotación ganadera inscrita en REGA, conforme a lo establecido en las letras a) y b) del apartado 6 del artículo 11, deberá, cuando así lo establezca la autoridad competente, presentar pruebas de que realiza siega o las labores de mantenimiento descritas en el Anexo IV en la superficie de pastos declarada.
 
 3. En el caso de la ayuda asociada a la remolacha azucarera a que se refiere la sección 6.ª del capítulo I del título IV, deberá aportar una copia del contrato de suministro con la industria azucarera.
 
@@ -106,6 +106,10 @@ V. Información y documentación adicional
 
 6. En el caso de la ayuda asociada para las explotaciones de vacuno de leche a que se refiere la sección 4.ª del capítulo II del título IV, justificación documental que acredite haber realizado ventas directas en el año anterior al año de solicitud, para el caso de que la explotación no realice entregas a compradores.
 
-7. Sin perjuicio de lo establecido en los párrafos anteriores, cuando la autoridad competente tenga acceso a la documentación exigida en este apartado V, se eximirá al solicitante de la necesidad de presentación de dicha documentación, sustituyéndose en su caso por una autorización expresa a la autoridad competente para acceder a dicha información.
+7. En el caso de las ayudas asociadas para las explotaciones de vacas nodrizas, vacuno de leche, ovino y caprino a las que se refieren las secciones 2.ª, 4.ª, 5.ª, 6.ª, 7.ª y 9.ª del capítulo II del título IV, cuando el ganadero realice entregas de leche a un primer comprador cuya residencia o domicilio social no estuviese en España, justificación documental de dichas entregas.
 
-8. Cualquier otra información, en concepto de «otra declaración», establecida por la comunidad autónoma para las medidas de desarrollo rural en el ámbito del Sistema Integrado.
+8. Sin perjuicio de lo establecido en los párrafos anteriores, cuando la autoridad competente tenga acceso a la documentación exigida en este apartado V, se eximirá al solicitante de la necesidad de presentación de dicha documentación, sustituyéndose en su caso por una autorización expresa a la autoridad competente para acceder a dicha información.
+
+9. Cualquier otra información, en concepto de "otra declaración", establecida por la comunidad autónoma para las medidas de desarrollo rural en el ámbito del Sistema Integrado.
+
+> Se modifican los apartados I y III a V por el art. 1.44 del Real Decreto 1172/2015, de 29 de diciembre. Ref. BOE-A-2015-14282.

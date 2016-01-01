@@ -32,6 +32,8 @@ IGP Lenteja Pardina de Tierra de Campos.
 
 IGP Garbanzo de Escacena.
 
+DOP Fesols de Santa Pau.
+
 Otras denominaciones de calidad:
 
 Alubia de Guernika.
@@ -45,3 +47,5 @@ Garbanzo de Pedrosillo.
 Judión de la Granja.
 
 Alubia de Anguiano.
+
+> Se modifica por el art. 1.46 del Real Decreto 1172/2015, de 29 de diciembre. Ref. BOE-A-2015-14282.
