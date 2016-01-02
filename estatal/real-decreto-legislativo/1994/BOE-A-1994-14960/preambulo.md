@@ -1,1 +1,1 @@
-Téngase en cuenta que las referencias a la "invalidez permanente" se entenderán efectuadas a la "incapacidad permanente", y la expresión "profesión habitual" aplicada a la incapacidad permanente se entenderá como "profesión que ejercía el interesado o del grupo profesional, en que aquella estaba encuadrada", según establece el art. 8.5 de la Ley 24/1997, de 15 de julio. Ref. BOE-A-1997-15810.
+Norma derogada, con efectos de 2 de enero de 2016, por la disposición derogatoria única.1 del Real Decreto Legislativo 8/2015, de 30 de octubre. Ref. BOE-A-2015-11724#ddunica.

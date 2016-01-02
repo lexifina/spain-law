@@ -1,3 +1,5 @@
 ## Disposición adicional quincuagésima segunda. Cónyuges de titulares de establecimientos familiares.
 
-En aquellos supuestos en que quede acreditado que uno de los cónyuges ha desempeñado, durante el tiempo de duración del matrimonio, trabajos a favor del negocio familiar sin que se hubiese cursado la correspondiente alta en la Seguridad Social, en el régimen que correspondiese, el juez que conozca del proceso de separación, divorcio o nulidad comunicará tal hecho a la Inspección de Trabajo y Seguridad Social, al objeto de que por ésta se lleven a cabo las actuaciones que correspondan. Las cotizaciones no prescritas que, en su caso, se realicen por los períodos de alta que se reconozcan surtirán todos los efectos previstos en el ordenamiento, a efectos de causar las prestaciones de Seguridad Social. El importe de tales cotizaciones será imputado al negocio familiar y, en consecuencia, su abono correrá por cuenta del titular del mismo.
+(Derogada)
+
+> Se deroga, con efectos de 2 de enero de 2016, por la disposición derogatoria única.22 del Real Decreto Legislativo 8/2015, de 30 de octubre. Ref. BOE-A-2015-11724#ddunica.

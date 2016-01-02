@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Régimen de la asistencia sanitaria de los funcionarios procedentes del extinguido Régimen Especial de Funcionarios de la Administración Local.
+
+La cobertura de la asistencia sanitaria de los funcionarios procedentes del extinguido Régimen Especial de Funcionarios de la Administración Local, así como del personal procedente de esta última, que vinieran percibiendo la prestación del Sistema Nacional de Salud y con cargo a las corporaciones, instituciones o entidades que integran la Administración Local, queda a todos los efectos sometida al régimen jurídico y económico aplicable a la contingencia comprendida en la acción protectora del Régimen General de la Seguridad Social.

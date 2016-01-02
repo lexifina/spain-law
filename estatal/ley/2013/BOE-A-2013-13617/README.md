@@ -12,6 +12,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 - [preambulo](preambulo.md)
 - [CAPÍTULO I](ci.md)
+- [Artículos 1 a 6](as1a6.md)
 - [Artículo 1](a1.md)
 - [Artículo 2](a2.md)
 - [Artículo 3](a3.md)
@@ -20,6 +21,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 6](a6.md)
 - [CAPÍTULO II](cii.md)
 - [Artículo 7](a7.md)
+- [Disposiciones adicionales primera a cuarta](daprimeraacuaa.md)
 - [Disposición adicional primera](daprimera.md)
 - [Disposición adicional segunda](dasegunda.md)
 - [Disposición adicional tercera](datercera.md)

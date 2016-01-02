@@ -1,5 +1,13 @@
 ## Disposición adicional segunda. Cuantía de la base mínima de cotización para determinados trabajadores autónomos.
 
-Para los trabajadores incluidos en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos que en algún momento de cada ejercicio económico y de manera simultánea hayan tenido contratado a su servicio un número de trabajadores por cuenta ajena igual o superior a diez, la base mínima de cotización para el ejercicio siguiente tendrá una cuantía igual a la correspondiente para los trabajadores encuadrados en el grupo de cotización 1 del Régimen General.
+(Derogado).
 
-Dicha base mínima de cotización será también aplicable en cada ejercicio económico a los trabajadores autónomos incluidos en este régimen especial al amparo de lo establecido en la disposición adicional vigésima séptima del texto refundido de la Ley General de la Seguridad Social y del artículo 21.3 de la Ley 4/1997, de 24 de marzo, de Sociedades Laborales, a excepción de aquellos que causen alta inicial en el mismo, durante los 12 primeros meses de su actividad, a contar desde la fecha de efectos de dicha alta.
+> Téngase en cuenta que esta última modificación introducida por la disposición derogatoria única.27 del Real Decreto Legislativo 8/2015, de 30 de octubre. Ref. BOE-A-2015-11724#ddunica., entrará en vigor el 2 de enero de 2016.
+
+> Redacción anterior:
+
+> "Para los trabajadores incluidos en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos que en algún momento de cada ejercicio económico y de manera simultánea hayan tenido contratado a su servicio un número de trabajadores por cuenta ajena igual o superior a diez, la base mínima de cotización para el ejercicio siguiente tendrá una cuantía igual a la correspondiente para los trabajadores encuadrados en el grupo de cotización 1 del Régimen General.
+
+> Dicha base mínima de cotización será también aplicable en cada ejercicio económico a los trabajadores autónomos incluidos en este régimen especial al amparo de lo establecido en la disposición adicional vigésima séptima del texto refundido de la Ley General de la Seguridad Social y del artículo 21.3 de la Ley 4/1997, de 24 de marzo, de Sociedades Laborales, a excepción de aquellos que causen alta inicial en el mismo, durante los 12 primeros meses de su actividad, a contar desde la fecha de efectos de dicha alta."
+
+> Se deroga por la disposición derogatoria única.27 del Real Decreto Legislativo 8/2015, de 30 de octubre. Ref. BOE-A-2015-11724#ddunica.

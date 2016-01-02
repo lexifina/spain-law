@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 254, de 21 de octubre de 2011. Ref. BOE-A-2011-16533.
+Norma derogada, salvo la disposición adicional 7 y final 4, por la disposición derogatoria única.23 del Real Decreto Legislativo 8/2015, de 30 de octubre, Ref. BOE-A-2015-11724#ddunica. con efectos de 2 de enero de 2016.

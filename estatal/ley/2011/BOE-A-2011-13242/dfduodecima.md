@@ -10,15 +10,11 @@ c) El apartado Tres del artículo 3, que entrará en vigor el 1 de enero de 2014
 
 d) La Disposición final décima, que entrará en vigor el 1 de enero de 2017.
 
-2. Se seguirá aplicando la regulación de la pensión de jubilación, en sus diferentes modalidades, requisitos de acceso, condiciones y reglas de determinación de prestaciones, vigentes antes de la entrada en vigor de esta Ley, a las pensiones de jubilación que se causen antes de 1 de enero de 2019, en los siguientes supuestos:
+2. (Derogado)
 
-a) Las personas cuya relación laboral se haya extinguido antes de 1 de abril de 2013, siempre que con posterioridad a tal fecha no vuelvan a quedar incluidas en alguno de los regímenes del sistema de la Seguridad Social.
+> Se deroga el apartado 2, con efectos de 2 de enero de 2016, por la disposición derogatoria única.22 del Real Decreto Legislativo 8/2015, de 30 de octubre. Ref. BOE-A-2015-11724#ddunica.
 
-b) Las personas con relación laboral suspendida o extinguida como consecuencia de decisiones adoptadas en expedientes de regulación de empleo, o por medio de convenios colectivos de cualquier ámbito, acuerdos colectivos de empresa así como por decisiones adoptadas en procedimientos concursales, aprobados, suscritos o declarados con anterioridad a 1 de abril de 2013, siempre que la extinción o suspensión de la relación laboral se produzca con anterioridad a 1 de enero de 2019.
-
-c) Quienes hayan accedido a la pensión de jubilación parcial con anterioridad a 1 de abril de 2013, así como las personas incorporadas antes de dicha fecha a planes de jubilación parcial recogidos en convenios colectivos de cualquier ámbito o acuerdos colectivos de empresa con independencia de que el acceso a la jubilación parcial se haya producido con anterioridad o posterioridad a 1 de abril de 2013.
-
-En aquellos supuestos a que se refieren los apartados b) y c) en que la aplicación de la legislación anterior tenga su origen en decisiones adoptadas o en planes de jubilación parcial incluidos en acuerdos colectivos de empresa, será condición indispensable que los indicados acuerdos colectivos de empresa se encuentren debidamente registrados en el Instituto Nacional de la Seguridad Social o en el Instituto Social de la Marina, en su caso, en el plazo que reglamentariamente se determine.
+> Redactado conforme a la corrección de errores publicada en BOE núm. 36, de 11 de febrero de 2016. Ref. BOE-A-2016-1320.
 
 > Se modifica la letra d) del apartado 1 por la disposición final 14 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644#dfdecimacuaa.
 
