@@ -34,23 +34,23 @@ d) Establecer de conformidad con lo dispuesto en el artículo 7 los criterios y 
 
 Asimismo, recabar cuanta información considere precisa para verificar el volumen de las emisiones realizadas, la recaudación obtenida, los premios pagados, los premios caducados y cuantos datos sean precisos para verificar el cumplimiento de los acuerdos de autorización.
 
-e) Ser informado documentalmente, durante el mes de diciembre del año anterior, de los presupuestos ordinarios de la organización, y en su momento, de las modificaciones a los mismos, así como de los presupuestos extraordinarios cuando se produzcan.
+e) Ser informado documentalmente, durante el mes de diciembre del año anterior, de los presupuestos ordinarios de la Organización, y en su momento, de las modificaciones a los mismos, así como de los presupuestos extraordinarios cuando se produzcan.
 
-Dichos presupuestos contendrán las previsiones y grandes magnitudes del ejercicio respecto de la Corporación Empresarial ONCE (CEOSA), así como los criterios y cuantías de los flujos económicos entre la ONCE y su corporación empresarial.
+Dichos presupuestos contendrán las Grandes Magnitudes del Grupo Empresarial de la ONCE y su Fundación, así como los criterios y cuantías de los flujos económicos entre la ONCE y dicho Grupo Empresarial.
 
-f) Simultáneamente a la presentación e información de las cuentas anuales de la organización, ser informado por el Consejo General sobre los mecanismos y procedimientos adoptados para ejercer el control sobre CEOSA, al objeto de que ésta cumpla adecuadamente los objetivos empresariales o sociales que la ONCE le ha asignado, y sobre el cumplimiento de los criterios de funcionamiento de CEOSA que, en su caso, pudiera fijar el Consejo de Ministros.
+f) Simultáneamente a la presentación e información de las cuentas anuales de la organización, ser informado por el Consejo General sobre los mecanismos y procedimientos adoptados para ejercer el control sobre el Grupo Empresarial de la ONCE y su Fundación, al objeto de que éste cumpla adecuadamente los objetivos empresariales y sociales que la ONCE le ha asignado.
 
 g) Ser informado de las inversiones realizadas por la organización, así como de los actos de disposición que afecten al patrimonio de la misma, a partir de la cuantía que establezca el Consejo de Protectorado.
 
 h) Ser informado, dentro de los seis meses siguientes al del cierre del ejercicio económico, sobre los programas de los servicios sociales realizados por la organización durante ese ejercicio, para efectuar la evaluación correspondiente en función de los resultados de dichos programas.
 
-i) Ser informado documentalmente, dentro de los seis meses siguientes al del cierre del ejercicio económico, sobre las cuentas y balances consolidados de la ONCE así como de la liquidación del presupuesto y, en general, de la situación económica, financiera y patrimonial de la organización incluida CEOSA.
+i) Ser informado, dentro de los seis meses siguientes al del cierre del ejercicio económico, sobre las cuentas anuales individuales y consolidadas de la ONCE, sobre la liquidación del presupuesto de la ONCE y sobre las cuentas anuales consolidadas del Grupo Empresarial de la ONCE y su Fundación.
 
 j) Elaborar planes y proponer convenios de cooperación para el desarrollo de actividades relacionadas con los fines de la ONCE en la que estén interesados otros organismos de la Administración del Estado, ya sea por iniciativa propia o a propuesta de otros organismos de la Administración del Estado o del Consejo General de la ONCE.
 
-k) Conocer y analizar los informes de auditoría sobre las cuentas anuales individuales y consolidadas de la organización, y de CEOSA que se realizarán con periodicidad anual y serán encargados por aquélla a una empresa auditora independiente.
+k) Conocer y analizar los informes de auditoría sobre las cuentas anuales de la ONCE y del Grupo Empresarial de la ONCE y su Fundación que se realizarán con periodicidad anual y que serán encargados por aquélla a una empresa auditora independiente.
 
-El contenido y alcance de las auditorías comprenderán necesariamente los elementos que permitan expresar una opinión sobre los estados contables y financieros, el grado de rentabilidad económica de las inversiones, los procedimientos de control interno, el grado de cumplimiento de la legalidad vigente y los demás extremos que sean ordinarios en el sistema de control de auditorías.
+El contenido y alcance de las auditorías anteriores será el determinado por la Ley 22/2015, de 20 de julio, de Auditoría de Cuentas, y normativa de desarrollo.
 
 Asimismo, el Consejo de Protectorado, en el ejercicio de sus funciones, podrá determinar la realización de auditorías por empresa auditora independiente, a los fines que el mismo determine en el ámbito de sus competencias.
 
@@ -65,6 +65,8 @@ n) Informar con carácter previo a la aceptación de herencias, legados y donaci
 o) Verificar, con carácter previo, los acuerdos con otros operadores a que se refiere el apartado 5 del artículo 7 de este real decreto.
 
 p) Cualquier otra competencia o función que se le asigne legal o reglamentariamente, le confiera el Consejo de Ministros o le atribuya el Acuerdo General entre el Gobierno y la ONCE a que se refiere la disposición adicional vigésima de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986. y en general, realizar cuantas actuaciones sean necesarias para el ejercicio de la tutela y control en la materia, el mejor desenvolvimiento de la ONCE, la correcta consecución de sus objetivos y la coordinación más idónea con la Administración General del Estado.
+
+> Se modifican las letras e), f), i) y k) del apartado 3 por el art. único.3 del Real Decreto 1152/2015, de 18 de diciembre. Ref. BOE-A-2016-4.
 
 > Se modifican los apartados 2.b), 3.c) y 3.h) por el art. 1.4 a 6 del Real Decreto 1146/2012, de 27 de julio. Ref. BOE-A-2012-11211.
 

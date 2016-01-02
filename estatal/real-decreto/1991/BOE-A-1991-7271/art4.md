@@ -54,13 +54,13 @@ n) Resolver todas las reclamaciones y recursos contra sus actos, sin perjuicio d
 
 o) Convocar elecciones al Consejo General y a los Consejos Territoriales de la organización, conforme a la normativa electoral aprobada previamente al efecto por el propio Consejo General.
 
-p) Nominar a las personas que serán propuestas para desempeñar los cargos de máxima responsabilidad ejecutiva en CEOSA, en la Fundación ONCE y, en su caso, en aquellas otras personas jurídicas con las que la ONCE tenga una fuerte vinculación societaria o institucional.
+p) Nominar a las personas que serán propuestas para desempeñar los cargos de máxima responsabilidad ejecutiva en el Grupo Empresarial de la ONCE y su Fundación, en la Fundación ONCE y, en su caso, en aquellas otras personas jurídicas con las que la ONCE tenga una fuerte vinculación societaria o institucional.
 
 Asimismo, procederá a nombrar a los representantes de la ONCE en los órganos de administración de las entidades a que se refiere el párrafo anterior.
 
-q) Conocer las cuentas anuales y las auditorías de CEOSA, de la Fundación ONCE y, en su caso, de las personas jurídicas con las que la ONCE tenga una fuerte vinculación societaria o institucional.
+q) Conocer las cuentas anuales y las auditorías del Grupo Empresarial de la ONCE y su Fundación, de la Fundación ONCE y, en su caso, de las personas jurídicas con las que la ONCE tenga una fuerte vinculación societaria o institucional.
 
-Asimismo, el Consejo General deberá recibir información suficiente y adecuada de CEOSA y de la Fundación ONCE en materia de planificación estratégica, planes anuales de actuación, presupuestos anuales, inversiones, liquidación de presupuestos y cualquier otra materia de gran relevancia. A tal fin, el Consejo General articulará los procedimientos o mecanismos adecuados de coordinación, supervisión y control.
+Asimismo, el Consejo General deberá recibir información suficiente y adecuada del Grupo Empresarial de la ONCE y su Fundación y de la Fundación ONCE en materia de planificación estratégica, planes anuales de actuación, presupuestos anuales, inversiones, liquidación de presupuestos y cualquier otra materia de gran relevancia. A tal fin, el Consejo General articulará los procedimientos o mecanismos adecuados de coordinación, supervisión y control.
 
 r) Otorgar y revocar los apoderamientos, con el alcance que en cada caso se determine, a favor de los altos ejecutivos de la organización.
 
@@ -71,6 +71,8 @@ t) Aprobar la remisión al Consejo de Protectorado de informes donde se recojan 
 u) Adoptar todas las medidas que se estimen oportunas para el correcto funcionamiento de la organización respecto de cualquier materia o asunto que no haya sido atribuido a otro órgano en el presente Real Decreto.
 
 v) Cualquier otra competencia que le sea atribuida por los estatutos de la ONCE.
+
+> Se modifican los apartados 4.p) y q) por el art. único.1 del Real Decreto 1152/2015, de 18 de diciembre. Ref. BOE-A-2016-4.
 
 > Se modifican los apartados 2 y 3 y se añade el apartado 4.v) por el art. único.3 del Real Decreto 394/2011, de 18 de marzo. Ref. BOE-A-2011-5198.
 

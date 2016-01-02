@@ -18,9 +18,9 @@ c) Cuando se trate de modalidades y productos de juego de naturaleza activa, ins
 
 4. La ONCE explotará una modalidad de lotería de ámbito estatal, denominada lotería instantánea o presorteada, en los términos, condiciones, alcance y plazos previstos en el Real Decreto 1336/2005, de 11 de noviembre, modificado por el Real Decreto 1706/2011, de 18 de noviembre, por el que se autoriza a la Organización Nacional de Ciegos Españoles la explotación de una lotería instantánea o presorteada.
 
-5. El Consejo General de la ONCE podrá suscribir, previa verificación por el Consejo de Protectorado, acuerdos con otros operadores de juego habilitados para operar en países del Espacio Económico Europeo, relativos a la comercialización simultánea de productos comunes de lotería.
+5. El Consejo General de la ONCE podrá suscribir, previa verificación por el Consejo de Protectorado, acuerdos con otros operadores de juego habilitados para operar en países del Espacio Económico Europeo, relativos a la comercialización simultánea o conjunta de productos comunes de lotería.
 
-Asimismo, el Consejo General de la ONCE podrá suscribir, previa verificación por el Consejo de Protectorado, acuerdos de comercialización conjunta de productos comunes de lotería con otros operadores de juego habilitados para operar en aquellos países europeos que hayan solicitado su incorporación a la Unión Europea y sobre los que exista un pronunciamiento favorable del Consejo, en los términos previstos por el artículo 49 del Tratado de la Unión Europea.
+Asimismo, el Consejo General de la ONCE podrá suscribir, previa verificación por el Consejo de Protectorado, acuerdos de comercialización simultánea o conjunta de productos comunes de lotería con operadores habilitados en aquellos países europeos que hayan solicitado su incorporación a la Unión Europea y sobre los que exista un pronunciamiento favorable del Consejo, en los términos previstos por el artículo 49 del Tratado de la Unión Europea; y con operadores de juego habilitados para operar en otros países, con el alcance que se determine en el Acuerdo General entre el Gobierno de la Nación y la ONCE.
 
 La suscripción de acuerdos de comercialización conjunta de productos comunes de lotería con operadores de otros países distintos de los previstos en los párrafos anteriores requerirá autorización puntual y específica al efecto del Consejo de Ministros.
 
@@ -47,6 +47,8 @@ A la vista de la propuesta y del citado informe, que deberá ser emitido en el p
 7. En la explotación y comercialización de las modalidades de juego autorizadas, la ONCE cooperará con el Estado para erradicar los juegos ilegales, para proteger los intereses del Estado contra los riesgos de fraude y criminalidad y para evitar los efectos perniciosos del juego sobre los consumidores.
 
 Asimismo, la ONCE dará cumplimiento a la normativa sobre juego responsable que resulte aplicable y, en particular, aquella que implique la prohibición del juego de los menores de edad, y la prevención del juego excesivo, del fraude y del blanqueo de capitales. Además la ONCE suscribirá y cumplirá los estándares de juego responsable establecidos en cada momento por las asociaciones internacionales de las que forme parte, en especial en lo que afecten a las citadas materias.
+
+> Se modifica el apartado 5 por el art. único.2 del Real Decreto 1152/2015, de 18 de diciembre. Ref. BOE-A-2016-4.
 
 > Se modifican los apartados 5 y 6 por el art. único.1 y 2 del Real Decreto 3/2013, de 11 de enero. Ref. BOE-A-2013-496.
 
