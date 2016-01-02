@@ -1,5 +1,0 @@
-## CAPÍTULO IX
-
-## Prestaciones familiares
-
-> Se modifica por el art. 19.3 de la Ley 52/2003, de 10 de diciembre. Ref. BOE-A-2003-22716.
