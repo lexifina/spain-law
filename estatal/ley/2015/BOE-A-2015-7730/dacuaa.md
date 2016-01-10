@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Ayudas para situaciones no declaradas como zona afectada gravemente por una emergencia de protección civil.
+
+La normativa reglamentaria estatal en materia de subvenciones derivadas de situaciones de emergencia o de naturaleza catastrófica será de aplicación a las ayudas derivadas de situaciones en las que no se haya producido la declaración de zona afectada gravemente por una emergencia de protección civil, así como a las ayudas por daños personales del artículo 22 y por daños materiales contenidas en el artículo 21 y en los párrafos a), b) c) y d) del apartado 1 del artículo 24. En la tramitación de estas subvenciones será de aplicación lo dispuesto en el apartado 4 del artículo 21 de esta ley.
