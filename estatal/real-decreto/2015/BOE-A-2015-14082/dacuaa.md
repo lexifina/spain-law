@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Órganos colegiados de la Agencia Española de Medicamentos y Productos Sanitarios.
+
+En el plazo de un año a partir de la entrada en vigor de este real decreto, la Agencia Española de Medicamentos y Productos Sanitarios planteará al Ministerio de Hacienda y Administraciones Públicas una propuesta de racionalización de los órganos colegiados de ella dependientes, de acuerdo con lo previsto en el Real Decreto 776/2011, de 3 de junio, por el que se suprimen determinados órganos colegiados y se establecen criterios para la normalización en la creación de órganos colegiados en la Administración General del Estado y sus Organismos públicos.

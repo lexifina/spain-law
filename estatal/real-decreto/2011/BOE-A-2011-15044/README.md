@@ -61,6 +61,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 26](a26.md)
 - [Artículo 27](a27.md)
 - [Artículo 28](a28.md)
+- [Artículo 28 bis](a28bis.md)
 - [Artículo 29](a29.md)
 - [Sección 5](s5.md)
 - [Artículo 30](a30.md)
