@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Informes de compatibilidad en expedientes ya informados y no resueltos.
+
+En la tramitación de expedientes que todavía se encuentren pendientes de resolución final, la Oficina de Planificación de la correspondiente Confederación Hidrográfica o la unidad que desempeñe esas funciones en la Comunidad Autónoma del País Vasco dentro de su ámbito competencial deberá ratificar aquellos informes de compatibilidad con el plan hidrológico que hubiera realizado con anterioridad a la entrada en vigor de este real decreto. En caso de no ratificación, deberá emitirse un nuevo informe de compatibilidad, procediéndose según el caso de conformidad con el artículo 108.3 y 4 del RDPH.
