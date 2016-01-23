@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Condiciones para la realización de actuaciones promovidas por la Administración General del Estado.
+
+Las actuaciones promovidas por la Administración General del Estado y previstas en los planes de gestión de riesgo de las respectivas demarcaciones serán sometidas, previamente a su realización, a un análisis sobre su viabilidad técnica, económica y ambiental. En cualquier caso, estas actuaciones se supeditarán a la normativa vigente sobre evaluación de impacto ambiental, a las disponibilidades presupuestarias y a los correspondientes planes sectoriales, cuando su normativa específica así lo prevea. La ejecución de las medidas previstas en el Plan en ningún caso podrá superar las disponibilidades presupuestarias provenientes de fondos nacionales o comunitarios.
+
+Las medidas incluidas en este real decreto no podrán suponer incremento de dotaciones ni de retribuciones ni de otros gastos de personal.
