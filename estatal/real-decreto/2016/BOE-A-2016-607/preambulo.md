@@ -1,0 +1,27 @@
+Año tras año, las inundaciones en Europa y en España constituyen el riesgo natural que a lo largo del tiempo ha producido los mayores daños tanto materiales como en pérdida de vidas humanas, por lo que la lucha contra los efectos negativos de las inundaciones ha sido desde hace muchos años una constante en la política de aguas y de protección civil.
+
+En el ámbito europeo, ha sido objeto de desarrollo específico mediante la Directiva 2007/60/CE del Parlamento Europeo y del Consejo, de 23 de octubre de 2007, relativa a la evaluación y gestión de los riesgos de inundación, incorporada al ordenamiento jurídico español a través del Real Decreto 903/2010, de 9 de julio, de evaluación y gestión de riesgos de inundación, los cuales establecieron tres fases esenciales en la implantación de esta Directiva.
+
+La primera, la evaluación preliminar del riesgo de inundación en aplicación del artículo 6 del Real Decreto 903/2010, de 9 de julio, que seleccionó, en cada demarcación hidrográfica, las áreas de riesgo potencial significativo de inundación (ARPSIs).
+
+La segunda fase consistió en la elaboración de los mapas de peligrosidad y riesgo de inundación en estas áreas de riesgo potencial significativo de inundación, y la tercera fase consiste en la elaboración y aprobación de los planes de gestión del riesgo de inundación (PGRI), cuyo contenido se centra en la prevención, protección y preparación, incluidos la previsión de inundaciones y los sistemas de alerta temprana, teniendo en cuenta las características de la cuenca o subcuenca hidrográfica considerada y su coordinación con los Planes hidrológicos de cuenca.
+
+El artículo 13 del Real Decreto 903/2010, de 9 de julio, establece el procedimiento de elaboración y aprobación de estos planes, en virtud del cual los distintos Organismos de cuenca, con la cooperación del Comité de Autoridades Competentes, coordinadamente con las autoridades de Protección Civil, han integrado en sus respectivos PGRI los programas de medidas elaborados por cada administración competente, garantizando la adecuada coordinación y compatibilidad entre los mismos para alcanzar los objetivos del plan y les han dotado del contenido establecido en el anexo parte A del Real Decreto 903/2010, 9 de julio.
+
+Los Planes de gestión del riesgo de inundación de las demarcaciones hidrográficas del Tinto, Odiel y Piedras; del Guadalete y Barbate; y de las Cuencas Mediterráneas Andaluzas junto con sus programas de medidas, se sometieron a consulta e información pública desde el 10 de enero de 2015 al 10 de abril de 2015, de acuerdo con los períodos abiertos de consulta pública por la Junta de Andalucía y coordinadamente con los planes hidrológicos de las demarcaciones internas de Andalucía.
+
+Una vez analizadas las alegaciones, la Administración Hidráulica de la Junta de Andalucía ha procedido a incorporar en los Planes de gestión aquellas observaciones y aportaciones que fueron aceptadas. Tras ello y con fecha 9 de septiembre de 2015, los Planes fueron informados por unanimidad por la Comisión de Autoridades Competentes y en esa misma fecha por el Consejo Andaluz del Agua con informe favorable de la totalidad de sus miembros, excepto una abstención. Por su parte, la Permanente de la Comisión de Protección Civil de Andalucía con fecha 22 de septiembre de 2015 elevó los Planes de gestión del riesgo de inundación de las cuencas internas de Andalucía al Pleno de dicha Comisión que en su sesión del 28 de septiembre de 2015 los informó por unanimidad de forma favorable.
+
+Con fecha 20 de octubre de 2015, el Consejo de Gobierno de la Junta de Andalucía aprobó los Planes de gestión del riesgo de inundación de las cuencas internas de Andalucía: demarcaciones hidrográficas del Tinto, Odiel y Piedras; del Guadalete y Barbate; y de las Cuencas Mediterráneas Andaluzas junto con sus programas de medidas y acordó remitirlos al Gobierno de la Nación para su correspondiente tramitación.
+
+Estos PGRI han sido informados por el Consejo Nacional del Agua, con fecha 28 de octubre de 2015 y por la Comisión Nacional de Protección Civil con fecha 29 de octubre de 2015.
+
+En relación con los Planes hidrológicos de las correspondientes demarcaciones hidrográficas y de acuerdo con el artículo 14 del Real Decreto 903/2010, de 9 de julio, los PGRI se han redactado de forma coordinada con los Planes hidrológicos, incluyendo, un resumen del estado y los objetivos ambientales de cada masa de agua con riesgo potencial significativo por inundación, compatibilizando las medidas incluidas en los respectivos planes.
+
+En relación con su evaluación ambiental estratégica, de acuerdo con la Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental, todo el proceso ha sido elaborado conjuntamente, y en coordinación con los Planes hidrológicos de cuenca, formulándose la Memoria Ambiental con fecha 5 de octubre de 2015 de todos los Planes, que ha sido tenida en cuenta en la versión final de cada uno de los PGRI.
+
+El presente real decreto se dicta al amparo del artículo 149.1.13.ª de la Constitución que atribuye al Estado la competencia exclusiva para dictar las bases y coordinación de la planificación general de la actividad económica.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Alimentación y Medio Ambiente y del Ministro del Interior, y previa deliberación del Consejo de Ministros en su reunión del día 15 de enero de 2016,
+
+DISPONGO:
