@@ -28,11 +28,11 @@ Esta simplificación es incompatible con la prevista en el apartado 2.5.1 de est
 
 Procedimiento:
 
-La empresa expedidora deberá incluir en su factura la expresión «T2LF - Mercancía sin declaración de expedición».
+La empresa expedidora deberá incluir en su factura u otro documento comercial o de transporte, su intención de acogerse al procedimiento incluyendo en el mismo la expresión “T2LF – Mercancía sin declaración de expediciónˮ.
 
-El expedidor podrá obtener un T2LF electrónico si lo requiere el destinatario a efectos de la solicitud de un certificado de ayuda REA. En este caso deberá incluir en la casilla 44 esa misma mención, «T2LF - Mercancía sin declaración de expedición».
+El expedidor podrá obtener un T2LF electrónico si lo requiere el destinatario a efectos de la solicitud de un certificado de ayuda REA. En este caso deberá incluir en la casilla 44 esa misma mención, “T2LF – Mercancía sin declaración de expediciónˮ (código 9012).
 
-La factura o el T2LF electrónico hará las veces de documento de embarque/salida, así como de justificante del estatuto de mercancía de la unión.
+El documento previsto en los párrafos anteriores hará las veces de documento de embarque/salida, así como el justificante del estatuto de mercancía de la Unión.
 
 En el DUA o DVD de introducción de la mercancía deberá tenerse en cuenta:
 
@@ -69,3 +69,5 @@ En el DUA de introducción deberán incluirse los datos siguientes:
 | 1015 | «Autorización de despacho, declaración por cuenta del expedidor». |
 | --- | --- |
 | 9011 | «Solicitud de certificado de salida». |
+
+> Se modifica el apartado A por el apartado primero.27 de la Resolución de 14 de enero de 2016. Ref. BOE-A-2016-646

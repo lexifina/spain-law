@@ -113,7 +113,7 @@ C.3) Sistema de reintegro.
 
 1. Inclusión en el régimen: DUA de importación con la clave de régimen 41.00. Si se trata de mercancía objeto de los Impuestos Especiales cuyo perfeccionamiento se realice en régimen suspensivo de dicho impuesto, el código de régimen será 02.
 
-2. Ultimación del régimen: DUA de exportación con la clave 3141 o 3102.
+2. Ultimación del régimen: DUA de exportación con la clave 1041.
 
 D) Reimportaciones de mercancía.
 
@@ -134,8 +134,9 @@ Deberán tenerse en cuenta las claves adicionales previstas por la normativa com
 
 Asimismo deberán tenerse en cuenta las claves para solicitar la exención de IVA como puede ser:
 
-| 105 | reimportaciones con exención de IVA prevista en el artículo 63 de la Ley 37/1992, de 28 de diciembre. En este caso, sería 6121 B02 104, ya que la exención de IVA exige la exención de los derechos de importación que están previstos para las reparaciones en garantía. |
+| 105 | (Suprimido) |
 | --- | --- |
+| 104 | reimportaciones con exención de IVA, prevista en el artículo 63 de la Ley 37/1992, de 28 de diciembre. En este caso, sería 6121 B02 104, ya que la exención de IVA exige la exención de los derechos de importación que están previstos para las reparaciones en garantía. |
 | 103 | exención de IVA, artículo 27 puntos 2 a 6 y 11. Por ejemplo, mercancías que van a incorporarse en buques. |
 
 E) Mercancía de retorno.
@@ -213,9 +214,11 @@ G) Vinculación a DDA de mercancía fuera del ámbito de los Impuestos Especiale
 | Descripción | Tipo | Régimen |
 | --- | --- | --- |
 | Mercancía comunitaria procedente de territorio IVA (ámbito territorial Directiva 2006/112/CE. | DVD | 73 |
-| Mercancía comunitaria procedente de fuera del territorio IVA. | DUA | 49 |
+| Mercancía comunitaria procedente de fuera del territorio IVA. | DUA | 49xx 112 |
 | Mercancía no comunitaria procedente de fuera del territorio de la Unión. | DUA | 07 |
 | Reimportación de mercancía. | DUA | 61xx 112 |
 | Mercancía en RPA (materia prima modalidad exportación anticipada. | DUA | 5111 112 |
 
 En caso de exportación de mercancía vinculada a un DDA con el código 112, deberá declararse el régimen 1007.
+
+> Se suprime el código 105 y se añade el código 104 al apartado D y se modifican los apartados C.3).2 y G por el apartado primero.24 a 26 de la Resolución de 14 de enero de 2016. Ref. BOE-A-2016-646

@@ -162,8 +162,10 @@ El mensaje de modificación tendrá una de las siguientes respuestas:
 
 Fuera de los supuestos anteriores, en el caso de que proceda realizar una modificación de la declaración de exportación, ésta se efectuará por la Aduana correspondiente.
 
-E. Anulación de declaraciones de exportación.
+E. Comunicación de no salida del territorio de la Unión de la mercancía declarada de exportación.
 
 La comunicación prevista en el artículo 792 bis del Reglamento (CEE) n.º 2454/1993, apartado 1.º podrá ser realizada por el interesado en Sede electrónica cuando la mercancía despachada de exportación no haya salido del territorio de la Unión.
 
 Esta solicitud de anulación podrá utilizarse también cuando se trate de corregir errores de hecho de una declaración con salida indirecta mediante su sustitución por otra.
+
+> Se modifica el título del apartado E por el apartado primero.23 de la Resolución de 14 de enero de 2016. Ref. BOE-A-2016-646

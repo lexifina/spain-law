@@ -54,7 +54,7 @@ En el resto de las importaciones, cuando sea aplicable la exención de IVA de fo
 
 B. A la exportación.
 
-En el caso de productos objeto de Impuestos Especiales cuya circulación se ampare hasta la aduana de exportación con un Documento Administrativo Electrónico, cada uno de tales documentos dará lugar a un DUA de exportación y por cada partida de orden de dichos documentos se cumplimentará una partida de orden del DUA.
+En el caso de productos objeto de Impuestos especiales cuya circulación se ampare hasta la aduana de exportación con un Documento Administrativo Electrónico (e-DA), un mismo DUA de exportación podrá contener las referencias de varios Documentos Administrativos Electrónicos correspondientes a un mismo expedidor, si bien un mismo Documento Administrativo Electrónico no podrá figurar como referencia en más de un DUA. Por cada partida de e-DA se cumplimentará una partida de orden del DUA, salvo en el caso de DUA recapitulativos (código ‘‘Y’’en casilla 1.2), en los que se admitirá más de un e-DA por partida de DUA.
 
 Cuando no se haya producido el devengo o el exportador solicite la devolución de los Impuestos Especiales de fabricación, se tendrán en cuenta las siguientes instrucciones para cumplimentar el DUA de exportación:
 
@@ -81,13 +81,15 @@ En los casos que a continuación se citan es obligatorio consignar los códigos 
 
 Casilla 40:
 
-Cuando los productos hayan circulado hasta la aduana de exportación mediante un documento administrativo electrónico que tenga como destino la exportación, deberá referenciarse en esta casilla el documento administrativo electrónico que ampare la circulación de los productos hasta la aduana de salida, consignando la clave AAD seguida de AACCNNNNNNNNNNNNNNNND-PPP (donde los 21 primeros caracteres son el «ARC» ‒compuesto por los dos últimos dígitos del año en curso, por los dos dígitos del código ISO del país, por los dieciséis dígitos del número del documento y por un dígito de control‒ y los 3 últimos dígitos se corresponden con la partida de orden).
+Cuando los productos hayan circulado hasta la aduana de exportación mediante un documento administrativo electrónico que tenga como destino la exportación, deberá referenciarse en esta casilla el documento administrativo electrónico que ampare la circulación de los productos hasta la aduana de salida, consignando la clave ZAAD seguida de AACCNNNNNNNNNNNNNNNND-PPP (donde los 21 primeros caracteres son el ‘‘ARC’’ -compuesto por los dos últimos dígitos del año en curso, por los dos dígitos del código ISO del país, por los dieciséis dígitos del número del documento y por un dígito de control- y los 3 últimos dígitos se corresponden con la partida de orden). En los DUA recapitulativos («Y») los e-DAs se declararán en la casilla 44.
 
 Casilla 44:
 
 1. En el caso de que los exportadores estén obligados a inscribirse en el Registro Territorial, se hará constar su C.A.E. (Código de Actividad y de Establecimiento), código casilla 44, 5004.
 
 2. Deberá hacerse constar, en el caso de exportación de bebidas derivadas o de cigarrillos que hubieran llevado incorporadas precintas de circulación, si se ha procedido a su inutilización o a su destrucción, así como el lugar y la fecha en que tuvo lugar una u otra (códigos casilla 44, 1400 y 1401).
+
+3. En los DUA recapitulativos, cuando los productos hayan circulado hasta la aduana de exportación mediante uno o varios documentos administrativos electrónicos con destino la exportación, deberá referenciarse en esta casilla el o los e-DA que amparen la circulación de los productos hasta la aduana de exportación, consignando el código C651 y, a continuación, el código administrativo de referencia (‘‘ARC’’) de cada e-DA y su número de partida de la forma siguiente: AACCNNNNNNNNNNNNNNNND-PPP (donde los 21 primeros caracteres son el ‘‘ARC’’ -compuesto por los dos últimos dígitos del año en curso, por los dos dígitos del código ISO del país, por los dieciséis dígitos del número del documento y por un dígito de control- y los 3 últimos dígitos se corresponden con el número de partida).
 
 C. En el tránsito común.
 
@@ -104,3 +106,5 @@ Deberá indicarse, con toda claridad, que los productos son objeto de los Impues
 ‒ Una copia del DAT deberá quedar en poder del expedidor de tales productos.
 
 ‒ Una copia del DAT, deberá enviarse al expedidor por el receptor de los productos.
+
+> Se modifica el apartado B, primer párrafo y casillas 40 y 44 por el apartado primero.20 a 22 de la Resolución de 14 de enero de 2016. Ref. BOE-A-2016-646
