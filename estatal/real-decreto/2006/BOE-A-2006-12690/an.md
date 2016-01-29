@@ -22,6 +22,8 @@ Consejería de Turismo en Pekín.
 
 Consejería de Turismo en Copenhague.
 
+Consejería de Turismo en Abu Dabi.
+
 Consejería de Turismo en Nueva York.
 
 Consejería de Turismo en Chicago.
@@ -65,6 +67,8 @@ Consejería de Turismo en Estocolmo.
 Consejería de Turismo en Zúrich.
 
 Consejería de Turismo en Viena.
+
+> Se añade la Consejería de Turismo en Abu Dabi por la disposición final 1 del Real Decreto 14/2016, de 15 de enero. Ref. BOE-A-2016-771
 
 > Se modifica por el art. único.14 del Real Decreto 217/2015, de 27 de marzo. Ref. BOE-A-2015-3325
 
