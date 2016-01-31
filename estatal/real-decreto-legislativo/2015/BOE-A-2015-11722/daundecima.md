@@ -1,0 +1,3 @@
+## Disposición adicional undécima. Integración y coordinación de notificaciones a través del Tablón Edictal de Sanciones de Tráfico (TESTRA) y de la Dirección Electrónica Vial (DEV).
+
+El Tablón Edictal de Sanciones de Tráfico (TESTRA) podrá integrarse en el Tablón Edictal Único cuando razones justificadas de eficiencia en la prestación del servicio así lo aconsejen para los anuncios de notificaciones edictales de los procedimientos sancionadores en materia de tráfico. Por estos mismos motivos, y cumpliendo las funciones que la ley recoge, la Dirección Electrónica Vial (DEV) podrá integrarse o coordinarse con la Dirección Electrónica Habilitada (DEH).
