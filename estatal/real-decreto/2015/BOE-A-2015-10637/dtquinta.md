@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Informe sobre pagos efectuados a las administraciones públicas al que se refiere la disposición adicional décima de la Ley 22/2015, de 20 de julio, de Auditoría de Cuentas.
+
+Las obligaciones que resultaren de la consideración del informe sobre pagos efectuados a las administraciones públicas al que se refiere la disposición adicional décima de la Ley 22/2015, de 20 de julio, de Auditoría de Cuentas como información regulada del artículo 2 del Real Decreto 1362/2007, de 19 de octubre, sólo serán exigibles en relación a las actividades desarrolladas en los ejercicios económicos que empiecen a partir del 1 de enero de 2016.

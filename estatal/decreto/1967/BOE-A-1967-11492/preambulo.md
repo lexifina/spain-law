@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm 191, de 11 de agosto de 1967. Ref. BOE-A-1967-13577.
+Norma derogada, con efectos de 3 de febrero de 2016, por la disposición derogatoria única.b) del Real Decreto 878/2015, de 2 de octubre. Ref. BOE-A-2015-10637#ddunica.

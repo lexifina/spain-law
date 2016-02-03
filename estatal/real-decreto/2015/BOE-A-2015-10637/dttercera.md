@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Elección del Estado miembro de origen para emisores cuyos valores hayan sido admitidos a negociación antes del 27 de noviembre de 2015.
+
+En relación con el apartado dos de la disposición final segunda por el que se modifica el artículo 2 del Real Decreto 1362/2007, de 19 de octubre, para los emisores cuyos valores ya hayan sido admitidos a negociación en un mercado secundario oficial español y no hayan comunicado su elección de Estado miembro de origen a la autoridad competente de dicho Estado, antes del 27 de noviembre de 2015, el plazo de tres meses al que se refiere el artículo 2.7 de dicho real decreto empezará a contar el 27 de noviembre de 2015.

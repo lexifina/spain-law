@@ -1,0 +1,9 @@
+## Disposición final sexta. Aplicación de otras normas.
+
+1. De conformidad con lo dispuesto en la disposición transitoria sexta de la Ley 11/2015, de 18 de junio, de recuperación y resolución de entidades de crédito y empresas de servicios de inversión, el apartado 3 del artículo 53 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, según la redacción efectuada por el apartado seis, letra B) de la disposición final primera de la Ley 11/2015, será de aplicación a partir de la fecha establecida en el apartado 4 de la disposición final séptima de este real decreto.
+
+2. De conformidad con lo dispuesto en la disposición transitoria séptima de la Ley 11/2015, de 18 de junio:
+
+a) Las modificaciones introducidas por los apartados cuatro a ocho, doce, trece, quince, veintiuno, veintidós y veintinueve de la letra A) de la disposición final primera serán de aplicación a partir de la fecha establecida en el apartado 1 de la disposición final séptima de este real decreto. No obstante, las modificaciones del apartado doce no serán de aplicación a los valores de renta fija admitidos a negociación en mercados secundarios oficiales.
+
+b) La nueva redacción del artículo 44 bis de la Ley 24/1988, de 28 de julio, dada por el apartado diez de la referida disposición final será de aplicación el día siguiente al de la publicación de este real decreto en el Boletín Oficial del Estado, sin perjuicio de que de acuerdo con el apartado 2 de la disposición transitoria séptima de la Ley 11/2015, de 18 de junio, la disposición adicional decimoséptima de la Ley 24/1988, de 28 de julio y el artículo 69.4 del Reglamento (UE) n.º 909/2014, de 23 de julio de 2014, la Sociedad de Gestión de los Sistemas de Registro, Compensación y Liquidación de Valores seguirá estando autorizada como depositario central de valores conforme a la normativa nacional hasta que no reciba la autorización en virtud del mencionado Reglamento (UE) n.º 909/2014, de 23 de julio de 2014.
