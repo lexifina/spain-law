@@ -1,3 +1,0 @@
-## CAPÍTULO XVI
-
-## Subastas bursátiles
