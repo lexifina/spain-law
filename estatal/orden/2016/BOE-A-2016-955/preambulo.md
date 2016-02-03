@@ -1,0 +1,15 @@
+La Convención sobre los derechos de las personas con discapacidad y su Protocolo Facultativo fueron aprobados el 13 de diciembre de 2006 en la Sede de las Naciones Unidas en Nueva York. La Convención se concibió como un instrumento de derechos humanos con una dimensión explícita de desarrollo social. En España entró en vigor el 3 de mayo de 2008, con el propósito de promover, proteger y asegurar el disfrute pleno y en condiciones de igualdad, de todos los derechos humanos y libertades fundamentales para las personas con discapacidad y promover el respeto de su dignidad.
+
+Su transposición normativa en el ámbito nacional se llevó a cabo a través de la Ley 26/2011, de 1 de agosto, de adaptación normativa a la Convención Internacional sobre los derechos de las personas con discapacidad y del Real Decreto 1276/2011, de 16 de septiembre, de adaptación normativa a la Convención Internacional sobre los derechos de las personas con discapacidad.
+
+Así mismo, se refundieron varias normas relativas a la discapacidad en el Texto Refundido de la Ley General de Derechos de las personas con discapacidad y de su inclusión social, aprobado por Real Decreto Legislativo 1/2013, de 29 de noviembre.
+
+Por otro lado, el artículo 4 de la Ley Orgánica 9/2011, de 27 de julio, de derechos y deberes de los miembros de las Fuerzas Armadas desarrolla el principio de igualdad. A su vez, en su artículo 20.4, se determina que al militar que se le reconozca una incapacidad que conlleve una limitación para ocupar determinados destinos, se le garantizará el principio de igualdad de trato en los destinos que pueda acceder.
+
+Con la finalidad de fortalecer el compromiso de las Fuerzas Armadas con las personas con discapacidad y potenciar su integración y el desarrollo personal y profesional, la Subsecretaria de Defensa aprobó el 30 de julio de 2015 el Plan integral de apoyo a la discapacidad en las Fuerzas Armadas, publicado por Resolución 430/12509/15 en el «Boletín Oficial de Defensa», n.º 185, de 22 de septiembre de 2015 y que prevé, en su ámbito organizativo, la creación de la Oficina de Atención a la Discapacidad en las Fuerzas Armadas.
+
+En el citado Plan se prevé también la elaboración de protocolos de integración de las personas con discapacidad que serán desarrollados por cada uno de los ejércitos. Dichos protocolos reflejarán las características, necesidades e idiosincrasia de los mismos y estarán orientados por los contenidos mínimos que fije la Oficina de Atención a la Discapacidad de las Fuerzas Armadas, con el fin de alcanzar una base común y homogénea en la integración del personal con discapacidad.
+
+Finalmente, el artículo 10.2 de la Ley 6/1997, de 14 de abril de Organización y Funcionamiento en la Administración General del Estado, establece que los órganos de nivel inferior a Subdirección General se crean, modifican y suprimen por orden del Ministro respectivo, previa aprobación del Ministro de Administraciones Públicas.
+
+En su virtud, con la aprobación previa del Ministro de Hacienda y Administraciones públicas, dispongo:
