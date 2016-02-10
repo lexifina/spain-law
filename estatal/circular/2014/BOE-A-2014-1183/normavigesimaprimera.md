@@ -1,3 +1,5 @@
 ## Norma vigésima primera. Índices bursátiles.
 
-De acuerdo con lo previsto en el artículo 344.2 del Reglamento (UE) n.º 575/2013, las entidades podrán seguir aplicando el tratamiento contemplado en los artículos 344.3 y 344.4 del Reglamento (UE) n.º 575/2013.
+(Derogada)
+
+> Se deroga por la letra b) de la disposición derogatoria de la Circular 2/2016, de 2 de febrero. Ref. BOE-A-2016-1238.
