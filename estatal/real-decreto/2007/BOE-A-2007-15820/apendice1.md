@@ -18,6 +18,8 @@ Biomasa: cualquier combustible sólido, líquido o gaseoso, no fósil, compuesto
 
 Biocombustibles sólidos: aquellos combustibles sólidos no fósiles compuestos por materia vegetal o animal, o producidos a partir de la misma mediante procesos físicos o químicos, susceptibles de ser utilizados en aplicaciones energéticas, como por ejemplo los huesos de aceituna, las cáscaras de almendra, los pelets, las astillas y los orujillos.
 
+Bomba de calor: Máquina, dispositivo o instalación que transfiere calor del entorno natural, como el aire, el agua o la tierra, al edificio o a aplicaciones industriales invirtiendo el flujo natural de calor, de modo que fluya de una temperatura más baja a una más alta. En el caso de las bombas de calor reversible, también pueden trasladar calor del edificio al entorno natural.
+
 Caldera: equipo a presión en el que el calor procedente de cualquier fuente de energía se transfiere a los usos térmicos del edificio por medio de un circuito de agua cerrado. No se incluyen en esta definición aquellos equipos basados en motores de combustión interna o externa, los de cogeneración o bomba de calor.
 
 Calefacción: proceso por el que se controla solamente la temperatura del aire de los espacios con carga negativa.
@@ -95,6 +97,8 @@ IDA 3: aire de calidad mediocre.
 IDA 4: aire de calidad baja.
 
 Instalaciones centralizadas: aquellas en las que la producción de calor es única para todo el edificio, realizándose su distribución desde la central generadora a las correspondientes viviendas y/ó locales por medio de fluidos térmicos.
+
+Instalación de aire acondicionado: Combinación de elementos necesarios para proporcionar un tipo de tratamiento del aire interior, mediante el cual la temperatura está controlada o puede bajarse.
 
 Instalador autorizado: toda persona física acreditada mediante el correspondiente carné profesional expedido por el órgano competente de la Comunidad Autónoma.
 
@@ -191,5 +195,7 @@ Puertas y zonas de tránsito: 100 cm.
 No tienen la consideración de zona ocupada los lugares en los que puedan darse importantes variaciones de temperatura con respecto a la media y pueda haber presencia de corriente de aire en la cercanía de las personas, como: zonas de tránsito, zonas próximas a puertas de uso frecuente, zonas próximas a cualquier tipo de unidad terminal que impulse aire y zonas próximas a aparatos con fuerte producción de calor.
 
 Zona térmica: es el conjunto de locales en los que sus temperaturas pueden considerarse idénticas, siendo atendidas por un mismo subsistema de climatización. En cada local pueden existir sistemas de control que ajusten las aportaciones térmicas.
+
+> Se modifica por la disposición final 3.2 del Real Decreto 56/2016, de 12 de febrero. Ref. BOE-A-2016-1460.
 
 > Se modifica por el art. 2.38 y 39 del Real Decreto 238/2013, de 5 de abril. Ref. BOE-A-2013-3905.

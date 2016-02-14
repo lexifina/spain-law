@@ -26,7 +26,7 @@ CHP Eη: es la eficiencia eléctrica de la producción mediante cogeneración de
 
 Ref Eη: es el valor de referencia de la eficiencia para la producción separada de electricidad.
 
-c) Cálculo del ahorro de energía utilizando un método de cálculo alternativo con arreglo a lo dispuesto en el apartado 2 del artículo 7.
+c) Cálculo del ahorro de energía utilizando un método de cálculo alternativo con arreglo a lo dispuesto en el apartado 2 del artículo 6.
 
 Cuando el ahorro de energía primaria en un proceso se calcule con arreglo a lo establecido en el apartado 2 del artículo 7, se utilizará la fórmula que figura en el párrafo b) del presente anexo sustituyendo:
 
@@ -43,3 +43,5 @@ Eç: Es la eficiencia del proceso en términos de producción de electricidad, d
 d) En el caso de las unidades de microcogeneración, el cálculo del ahorro de energía primaria podrá basarse en datos certificados.
 
 e) Valores de referencia de la eficiencia de la producción separada de calor y electricidad. Los principios aplicables a la definición de los valores de referencia de la eficiencia para la producción separada de calor y electricidad mencionados en el artículo 4 y en la fórmula que figura en el párrafo b) del presente anexo establecerán la eficiencia de explotación de la producción separada de calor y electricidad que se pretende sustituir por la cogeneración.
+
+> Se modifica el inicio de la letra c) por la disposición final 2.9 del Real Decreto 56/2016, de 12 de febrero. Ref. BOE-A-2016-1460.
