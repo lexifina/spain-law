@@ -1,0 +1,5 @@
+La Ley 7/2015, de 12 de mayo, por la que se crea el Consejo General de Colegios Oficiales de Pedagogos y Psicopedagogos, dispone en su disposición adicional primera, la constitución de una Comisión Gestora que elaborará, en el plazo de seis meses, unos Estatutos provisionales reguladores de los órganos de gobierno del Consejo General de Pedagogos y Psicopedagogos, que se remitirán al Ministerio de Educación, Cultura y Deporte que verificará su adecuación a la legalidad y ordenará, en su caso, su publicación en el «Boletín Oficial del Estado».
+
+La Comisión Gestora ha elaborado los Estatutos provisionales del Consejo General de Colegios Oficiales de Pedagogos y Psicopedagogos, que servirán como instrumento de funcionamiento del Consejo hasta que se elaboren los Estatutos previstos en los artículos 6.2 y 9.1.b) de la Ley 2/1974, de 13 de febrero, de Colegios Profesionales.
+
+En su virtud, una vez verificada su adecuación a la legalidad, dispongo la publicación de los Estatutos provisionales del Consejo General de Colegios Oficiales de Pedagogos y Psicopedagogos, que se insertan a continuación.
