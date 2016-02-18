@@ -2,7 +2,7 @@
 
 El titular de la Secretaría General de Instituciones Penitenciarias por delegación de las autoridades que se expresan, ejercerá las facultades siguientes:
 
-1. Del Titular del Departamento, las atribuidas por la Ley y el Reglamento de Expropiación Forzosa.
+1. Del Titular del Departamento, las atribuidas por la Ley y el Reglamento de Expropiación Forzosa, así como asumir la representación del Departamento en la interposición de recursos y reclamaciones administrativos frente a otras administraciones públicas, en materia de sanidad penitenciaria.
 
 2. Del Secretario de Estado de Seguridad, en relación con los créditos de los servicios presupuestarios del ámbito de competencias de la Secretaría General:
 
@@ -27,6 +27,8 @@ El titular de la Secretaría General de Instituciones Penitenciarias por delegac
 3.3 La iniciativa, concesión y acreditación del otorgamiento al personal, de menciones honoríficas y medallas al mérito penitenciario y al mérito social penitenciario con excepción de las medallas de oro.
 
 4. Del Subsecretario del Interior, en relación con el personal adscrito a la Secretaría General de Instituciones Penitenciarias: acordar la adopción de medidas provisionales en materia de régimen disciplinario.
+
+> Se modifica el apartado 1 por el art. único.3 de la Orden INT/175/2016, de 11 de febrero. Ref. BOE-A-2016-1617.
 
 > Se modifica el punto 2.2 por el art. único.2 de la Orden INT/1797/2010, de 2 de julio. Ref. BOE-A-2010-10665.
 

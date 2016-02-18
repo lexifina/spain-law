@@ -6,7 +6,7 @@ El Subsecretario del Interior ejercerá por delegación de las autoridades que s
 
 1.1 Las atribuidas al Titular del Departamento en la Ley y en el Reglamento de Expropiación Forzosa, salvo las delegadas en la Secretaría General de Instituciones Penitenciarias
 
-1.2 Asumir la representación del Departamento en la interposición de recursos administrativos frente a otras Administraciones Públicas.
+1.2 Asumir la representación del Departamento en la interposición de recursos y reclamaciones administrativos frente a otras administraciones públicas, sin perjuicio de lo delegado en otras autoridades.
 
 1.3 La aprobación de los expedientes de modificaciones de crédito en los casos en que corresponda al Titular del Departamento, así como la autorización y remisión de las propuestas de modificación de créditos cuya autorización corresponda al Ministro de Economía y Hacienda.
 
@@ -79,6 +79,8 @@ El Subsecretario del Interior ejercerá por delegación de las autoridades que s
 2.3 El nombramiento y el cese del personal eventual.
 
 3. Del Secretario de Estado de Seguridad, la resolución de los recursos que se interpongan contra resoluciones de las autoridades centrales del Departamento, en cualesquiera de las materias objeto de la competencia del mismo, así como la declaración de lesividad de los actos administrativos cuando le corresponda.
+
+> Se modifica el apartado 1.2 por el art. único.2 de la Orden INT/175/2016, de 11 de febrero. Ref. BOE-A-2016-1617.
 
 > Se añade el punto 1.29 y renumera el anterior como 1.30 por el apartado único.1 de la Orden INT/1797/2010, de 2 de julio. Ref. BOE-A-2010-10665.
 

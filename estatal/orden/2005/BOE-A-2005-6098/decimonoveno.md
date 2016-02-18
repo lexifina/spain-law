@@ -78,7 +78,9 @@ El Subdirector General de Personal, Costes y Planificación de Recursos Humanos 
 
 2.7 La movilidad por razones de salud o rehabilitación y por razón de violencia de género.
 
-3. Del Secretario de Estado de Seguridad, en relación con los funcionarios destinados en el Departamento y sin perjuicio de lo delegado en otras autoridades, la convocatoria y resolución de concursos para la provisión de puestos de trabajo.
+3. Del Secretario de Estado de Seguridad, en relación con los funcionarios destinados en la Secretaría de Estado de Seguridad y sin perjuicio de lo delegado en otras autoridades, la convocatoria y resolución de concursos para la provisión de puestos de trabajo, excepto en lo referente a los puestos de trabajo de los catálogos de las unidades adscritas a dicha Secretaría de Estado, incluida la Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado.
+
+> Se modifica el apartado 3 por el art. único.4 de la Orden INT/175/2016, de 11 de febrero. Ref. BOE-A-2016-1617.
 
 > Se modifica por el apartado único.6 de la Orden INT/1797/2010, de 2 de julio. Ref. BOE-A-2010-10665.
 
