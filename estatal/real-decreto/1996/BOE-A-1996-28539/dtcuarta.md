@@ -1,6 +1,6 @@
 ## Disposición transitoria cuarta. Vacunación contra la brucelosis.
 
-1. Sin perjuicio de lo dispuesto en el apartado 1 del artículo 14, hasta el 31 de diciembre de 2014 podrá autorizarse, como excepción en lo referente a la brucelosis bovina, cuando la situación epidemiológica de la enfermedad valorada en cada región así lo aconseje, la vacunación de hembras, en determinadas áreas o explotaciones, con la vacuna RB-51 respecto de la infección con Brucella abortus, o con la vacuna REV-1 respecto de la infección con Brucella melitensis.
+1. Sin perjuicio de lo dispuesto en el artículo 14.1, hasta el 31 de diciembre de 2018 podrá autorizarse, como excepción en lo referente a la brucelosis bovina, cuando la situación epidemiológica de la enfermedad valorada en cada región así lo aconseje, la vacunación de hembras, en determinadas áreas o explotaciones, con la vacuna RB-51 respecto de la infección con Brucella abortus, o con la vacuna REV-1 respecto de la infección con Brucella melitensis.
 
 2. Los órganos competentes de las comunidades autónomas que deseen acogerse a estas excepciones lo someterán a la aprobación del Comité Nacional del Sistema de Alerta Sanitaria Veterinaria regulado en el Real Decreto 1440/2001, de 21 de diciembre, por el que se establece el sistema de alerta sanitaria veterinaria, en función de la competencia que le corresponde según lo establecido en el artículo 5 de dicho real decreto.
 
@@ -25,6 +25,10 @@ h) Los órganos competentes de las comunidades autónomas velarán porque los an
 i) (Suprimido)
 
 j) Los órganos competentes en materia de sanidad animal de las comunidades autónomas informarán a los órganos competentes en materia de salud pública de la respectiva comunidad acerca del uso de las vacunas y de los sistemas disponibles de diagnóstico y terapéuticos que se apliquen.
+
+> Se modifica el apartado 1 por el art. 1 del Real Decreto 71/2016, de 19 de febrero. Ref. BOE-A-2016-1738.
+
+> Esta modificación es de aplicación desde el 1 de enero de 2016, según establece la disposición final única.
 
 > Se modifica el apartado 1 y se suprime el 3.i) por el art. único.7 del Real Decreto 727/2011, de 20 de mayo. Ref. BOE-A-2011-10458.
 
