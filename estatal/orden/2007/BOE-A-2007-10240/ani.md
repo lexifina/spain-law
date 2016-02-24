@@ -89,6 +89,11 @@
 | Ucrania |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 55 |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 80 |
+| República Centroafricana |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 55 |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 80 |
+
+> Se modifica por el apartado único.2 de la Orden INT/203/2016, de 17 de febrero. Ref. BOE-A-2016-1838.
 
 > Se modifica por el apartado único.2 de la Orden INT/577/2015, de 24 de marzo. Ref. BOE-A-2015-3652.
 
