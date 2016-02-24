@@ -54,6 +54,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 32](a32.md)
 - [Artículo 33](a33.md)
 - [Artículo 34](a34.md)
+- [Disposición adicional única](daunica.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
