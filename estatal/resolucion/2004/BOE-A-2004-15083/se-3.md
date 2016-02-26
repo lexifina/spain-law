@@ -1,6 +1,10 @@
-## Séptima. Resoluciones sobre desistimiento.
+## Séptima. Restitución del sobrante de actuaciones de ejecución forzosa.
 
-Cuando deba dictarse resolución de desistimiento conforme a lo dispuesto en el artículo 71.1 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico para las Administraciones Públicas y del Procedimiento Administrativo Común, la competencia para ello corresponderá al mismo órgano que fuese competente para dictar la resolución estimatoria o desestimatoria al respecto según lo establecido en las Instrucciones anteriores, con independencia de que sea el órgano que tramite la solicitud el que deba practicar el requerimiento a que se refiere el mencionado precepto legal.
+Cuando como consecuencia de las actuaciones de ejecución forzosa se produjese un exceso de cobro respecto del importe de la deuda apremiada, serán competentes para proceder a la inmediata restitución del sobrante al apremiado o, en su caso, a quien conste como titular del bien o derecho en cuya ejecución se haya producido, salvo que medie embargo u orden de retención, los mismos órganos de la Tesorería General de la Seguridad Social determinados en la anterior instrucción quinta para la resolución de las devoluciones de ingresos indebidos, en función del importe en cada caso a restituir.
+
+> Se modifica por el apartado 1.1 de la Resolución de 10 de febrero de 2016. Ref. BOE-A-2016-1918
+
+> Su anterior contenido pasa a ser la Octava.
 
 > Se renumera por la instrucción primera.4 de la Resolución de 4 de julio de 2005. Ref. BOE-A-2005-12460
 

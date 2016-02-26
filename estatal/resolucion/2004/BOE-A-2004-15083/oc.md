@@ -1,16 +1,10 @@
-## Octava. Actuaciones en procedimientos concursales.
+## Octava. Resoluciones sobre desistimiento.
 
-La gestión de los procedimientos concursales se llevará a cabo por la dirección provincial de la Tesorería General de la Seguridad Social en cuyo ámbito territorial radique el Juzgado de lo Mercantil que haya dictado el auto de declaración de concurso del deudor de la Seguridad Social; asimismo, se le encomienda la elaboración de los distintos certificados de deuda para su presentación en el concurso de acreedores.
+Cuando deba dictarse resolución de desistimiento conforme a lo dispuesto en el artículo 71.1 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico para las Administraciones Públicas y del Procedimiento Administrativo Común, la competencia para ello corresponderá al mismo órgano que fuese competente para dictar la resolución estimatoria o desestimatoria al respecto según lo establecido en las Instrucciones anteriores, con independencia de que sea el órgano que tramite la solicitud el que deba practicar el requerimiento a que se refiere el mencionado precepto legal.
 
-La Dirección General de la Tesorería General de la Seguridad Social, a través de la Subdirección General de Procedimientos Ejecutivos y Especiales de Recaudación, podrá asumir directamente la dirección de las actuaciones en los procedimientos concursales, en los supuestos en que se estime necesario.
+> Se renumera por el apartado 1.2 de la Resolución de 10 de febrero de 2016. Ref. BOE-A-2016-1918
 
-Las direcciones provinciales de la Tesorería General de la Seguridad Social serán competentes para la adhesión, solo por el crédito ordinario, a los convenios generales de acreedores previstos en la Ley 22/2003, de 9 de julio, Concursal, siempre que en la propuesta de convenio concurran las siguientes circunstancias:
-
-a) Que la quita no exceda del 30 por ciento del crédito ordinario, siempre que dicho porcentaje no supere los 200.000 euros.
-
-b) Que la espera no exceda, en ningún caso, de los cinco años y no contenga más de dos años de carencia total de pago.
-
-En los demás supuestos se requerirá la previa autorización expresa del Director General de la Tesorería General de la Seguridad Social.
+> Su anterior numeración era Séptima.
 
 > Se modifica por el apartado 1.4 de la Resolución de 8 de mayo de 2013. Ref. BOE-A-2013-5316
 
