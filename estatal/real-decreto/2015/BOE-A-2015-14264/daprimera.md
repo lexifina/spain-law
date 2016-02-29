@@ -1,0 +1,3 @@
+## Disposición adicional primera. Incorporación de datos relativos a penas y medidas de seguridad anteriores a la entrada en vigor de este real decreto.
+
+Los datos relativos a penas y medidas de seguridad por delitos contra la libertad e indemnidad sexuales, así como por trata de seres humanos con fines de explotación sexual, incluyendo la pornografía, que figuren inscritos en el Registro Central de Penados y en el Registro Central de Sentencias de Responsabilidad Penal de los Menores con anterioridad a la entrada en vigor del presente real decreto, se remitirán automáticamente al Registro Central de Delincuentes Sexuales en el estado en que se encuentren.

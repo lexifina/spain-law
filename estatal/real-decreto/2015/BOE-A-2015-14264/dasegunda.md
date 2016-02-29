@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Colaboración entre las Administraciones públicas y otras instituciones.
+
+1. El Ministerio de Justicia colaborará con las Administraciones públicas y otras Instituciones a fin de favorecer la aplicación del presente real decreto durante el ejercicio de las profesiones, oficios y actividades que impliquen contacto habitual con menores, estableciendo a tal fin los convenios que resulten necesarios en aquellos ámbitos donde la actividad se desarrolle con menores de edad.
+
+2. En el plazo de seis meses a partir de la entrada en vigor de este real decreto, el Ministerio de Justicia adoptará las medidas necesarias, en colaboración con los Ministerios de Educación, Cultura y Deporte, de Sanidad, Servicios Sociales e Igualdad, y de Empleo y Seguridad Social y, en su caso, promoverá las adaptaciones reglamentarias que sean precisas para facilitar el cumplimiento de la prohibición establecida en el apartado 5 del artículo 13 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, durante el ejercicio de las profesiones, oficios y actividades que impliquen contacto habitual con menores.
