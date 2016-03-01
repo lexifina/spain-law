@@ -200,6 +200,18 @@ b.1) la cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de ga
 
 b.2) la cuenta correspondiente de inmovilizado a la formalización de la enajenación del inmueble o a la subcuenta 5597 «Otras partidas transitorias», en el caso de aplicarse transitoriamente.
 
+186. Ingresos anticipados a largo plazo.
+
+Ingresos contabilizados cuyo devengo se producirá en ejercicios posteriores al de su registro.
+
+Figurará en el pasivo no corriente del balance, en el epígrafe V, «Ajustes por periodificación a largo plazo», que deberá crearse para tal fin.
+
+Su movimiento es el siguiente:
+
+a) Se abonará con cargo, generalmente, a la cuenta representativa del activo recibido como contraprestación al ingreso cuyo devengo no se ha producido, en el ejercicio en el que se cumplan los requisitos para el reconocimiento del activo.
+
+b) Se cargará con abono a la cuenta 485, «Ingresos anticipados», por el traspaso al corto plazo del importe del ingreso recibido de forma anticipada, cuyo devengo vaya a producirse en el corto plazo. En el ejercicio en que se produzca el devengo del ingreso, la cuenta 485 se cargará con abono a la cuenta del grupo 7, «Ventas e ingresos por naturaleza», que corresponda en función de la naturaleza del ingreso.
+
 20. INMOVILIZACIONES INTANGIBLES.
 
 200. Inversión en investigación.
@@ -1425,5 +1437,9 @@ Se abonará con cargo a:
 – La subcuenta 0030 «Créditos disponibles», por el importe de la retención efectuada. En el caso de que tal retención se anule, el asiento será de signo negativo.
 
 – La subcuenta 0028 «Bajas y rectificaciones de créditos», por el importe de los créditos que se minoran. Este asiento será de signo negativo.
+
+> Se añade la cuenta 186 por la disposición adicional 1.2 de la Resolución de 22 de febrero de 2016. Ref. BOE-A-2016-2015
+
+> Esta modificación será aplicable a las cuentas anuales del año 2015 y siguientes, según establece la disposición final única de la citada Resolución.
 
 > Se modifican las cuentas 1750, 1751 y 6288 por el art. único.3 de la Resolución de 10 de marzo de 2015. Ref. BOE-A-2015-2740

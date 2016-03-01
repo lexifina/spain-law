@@ -46,6 +46,8 @@ B) Se añaden las siguientes cuentas:
 
 1859. Otros depósitos.
 
+186. Ingresos anticipados a largo plazo.
+
 2100. Terrenos y bienes naturales CIBI.
 
 2102. Terrenos y bienes naturales gestionados por DGVAU.
@@ -150,11 +152,11 @@ B) Se añaden las siguientes cuentas:
 
 5063. Intereses a corto plazo de obligaciones y bonos al coste amortizado en moneda distinta del euro.
 
+5130. Deudas a corto plazo con Entidades del sector público estatal por cesión temporal de liquidez.
+
 5200. Deudas a corto plazo con entidades de crédito en euros.
 
 5201. Deudas a corto plazo con entidades de crédito en moneda distinta del euro.
-
-5210. Deudas a corto plazo con Organismos y Agencias estatales por subastas de liquidez.
 
 5219. Otras deudas a corto plazo.
 
@@ -336,6 +338,8 @@ C) Se modifica la denominación de las siguientes cuentas:
 
 1565. Intereses a largo plazo de otros valores negociables en euros.
 
+18. Fianzas y depósitos recibidos y ajustes por periodificación a largo plazo.
+
 293. Deterioro de valor de inversiones militares.
 
 2930. Deterioro de valor de inversiones militares de carácter intangible.
@@ -359,5 +363,9 @@ C) Se modifica la denominación de las siguientes cuentas:
 6628. Intereses de permutas financieras designadas instrumentos de cobertura de pasivos financieros.
 
 7628. Ingresos de permutas financieras designadas instrumentos de cobertura de pasivos financieros.
+
+> Se modifican los apartados B) y C) por la disposición adicional 1.1 de la Resolución de 22 de febrero de 2016. Ref. BOE-A-2016-2015
+
+> Esta modificación será aplicable a las cuentas anuales del año 2015 y siguientes, según establece la disposición final única de la citada Resolución.
 
 > Se modifica la denominación de las cuentas 6288 y 1751 por el art. único.2 de la Resolución de 10 de marzo de 2015. Ref. BOE-A-2015-2740
