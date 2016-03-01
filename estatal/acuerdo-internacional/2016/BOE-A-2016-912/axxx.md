@@ -1,0 +1,11 @@
+## Artículo XXX. Declaraciones relativas a determinadas disposiciones.
+
+1. Un Estado contratante puede declarar, en el momento de la ratificación, aceptación o aprobación del presente Protocolo, o en el de la adhesión al mismo, que aplicará uno o más de los artículos VIII, XII y XIII del presente Protocolo.
+
+2. Un Estado contratante podrá declarar, en el momento de la ratificación, aceptación o aprobación del presente Protocolo, o en el de la adhesión al mismo, que aplicará el artículo X del presente Protocolo, total o parcialmente. Si así lo declara con respecto al párrafo 2 del artículo X, especificará el período allí requerido.
+
+3. Un Estado contratante podrá declarar en el momento de la ratificación, aceptación o aprobación del presente Protocolo, o en el de la adhesión al mismo, que aplicará íntegramente la Opción A o íntegramente la Opción B del artículo XI y, en tal caso, especificará los tipos de procedimiento de insolvencia, si corresponde, a los que se aplicará la Opción A y los tipos de procedimiento de insolvencia, si corresponde, a los que se aplicará la Opción B. Un Estado contratante que formule una declaración en cumplimiento de este párrafo especificará el período requerido en el artículo XI.
+
+4. Los tribunales de los Estados contratantes aplicarán el artículo XI de conformidad con la declaración formulada por el Estado contratante que sea la jurisdicción de insolvencia principal.
+
+5. Un Estado contratante podrá declarar, en el momento de la ratificación, aceptación o aprobación del presente Protocolo o en el de la adhesión al mismo, que no aplicará las disposiciones del artículo XXI, total o parcialmente. En la declaración se especificará en qué condiciones se aplicará el artículo pertinente, en el caso en que se aplique parcialmente, o bien qué otros tipos de medidas provisionales se aplicarán.

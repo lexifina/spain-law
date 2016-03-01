@@ -1,0 +1,9 @@
+## Artículo XVI. Disposiciones relativas al deudor.
+
+1. En caso de que no haya incumplimiento según lo previsto en el artículo 11 del Convenio, el deudor tendrá derecho a la libre posesión y uso del objeto de conformidad con el contrato:
+
+a) frente a su acreedor y al titular de toda garantía respecto a la cual el deudor está libre en virtud del párrafo 4 del artículo 29 del Convenio o, en calidad de comprador, del párrafo 1 del artículo XIV del presente Protocolo, a menos y en la medida en que el deudor haya acordado otra cosa por escrito; y
+
+b) frente al titular de toda garantía a la cual estén sujetos el derecho o la garantía del deudor en virtud del párrafo 4 del artículo 29 del Convenio o, en calidad de comprador, del párrafo 2 del artículo XIV del presente Protocolo, pero únicamente en la medida, si así fuera, en que el titular lo haya acordado por escrito.
+
+2. Ninguna de las disposiciones del Convenio o del presente Protocolo afectará a la responsabilidad del acreedor por incumplimiento del contrato en virtud de la ley aplicable, en la medida en que dicho contrato esté relacionado con un objeto aeronáutico.
