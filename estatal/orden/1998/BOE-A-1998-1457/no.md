@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 44, de 20 de febrero de 1998. Ref. BOE-A-1998-3943
+Téngase en cuenta que quedan derogadas aquellas disposiciones de la presente Orden que se opongan a lo establecido en la Orden FOM/273/2016, de 19 de febrero, según establece su disposición derogatoria única. Ref. BOE-A-2016-2217
