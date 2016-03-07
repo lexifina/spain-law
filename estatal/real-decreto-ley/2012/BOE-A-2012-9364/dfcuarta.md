@@ -16,6 +16,10 @@ Los artículos 35 y 36, en virtud de lo dispuesto en el artículo 149.1 13 de la
 
 El Título VII del presente real decreto-ley tiene carácter básico al dictarse al amparo de las competencias que corresponden al Estado en el artículo 149.1.13ª y 25ª de la Constitución Española, que atribuye al Estado la competencia exclusiva para determinar las bases y coordinación de la planificación general de la actividad económica y las bases del régimen minero y energético, respectivamente.
 
+> Téngase en cuenta que esta disposición se declara contraria al orden constitucional de distribución de competencias en los términos establecidos en el fj. 11 por Sentencia del TC 18/2016, de 4 de febrero. Ref. BOE-A-2016-2335.
+
+> Se declara contraria al orden constitucional de distribución de competencias en los términos establecidos en el fj. 11 por Sentencia del TC 18/2016, de 4 de febrero. Ref. BOE-A-2016-2335.
+
 > Se modifica el párrafo primero por la disposición final 29.2 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 172, de 19 de julio de 2012. Ref. BOE-A-2012-9654.
