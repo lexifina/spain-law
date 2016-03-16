@@ -8,44 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2016-03-16 by BOE-A-2016-2578. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [co](co.md)
-- [preambulo](preambulo.md)
-- [CAPITULO I](ci.md)
-- [Artículo 1](a1.md)
-- [Artículo 2](a2.md)
-- [Artículo 3](a3.md)
-- [Artículo 4](a4.md)
-- [Artículo 5](a5.md)
-- [CAPITULO II](cii.md)
-- [Artículo 6](a6.md)
-- [Artículo 7](a7.md)
-- [CAPITULO III](ciii.md)
-- [Artículo 8](a8.md)
-- [Disposición adicional primera](primera.md)
-- [Disposición adicional segunda](segunda.md)
-- [Disposición transitoria única](unica.md)
-- [Disposición derogatoria única](unica-2.md)
-- [Disposición final primera](primera-2.md)
-- [Disposición final segunda](segunda-2.md)
-- [Disposición final tercera](tercera.md)
-- [firma](firma.md)
-- [ANEXO I](ani.md)
-- [ANEXO II](anii.md)
-- [ANEXO III](aniii.md)
-- [ANEXO IV](aniv.md)
-- [ANEXO V](anv.md)
-- [ANEXO VI](anvi.md)
-- [ANEXO VII](anvii.md)
-- [ANEXO VIII](anviii.md)
-- [ANEXO IX](anix.md)
-- [ANEXO X](anx.md)
-- [ANEXO XI](anxi.md)
-- [ANEXO XII](anxii.md)
-- [ANEXO XIII](anxiii.md)
-- [ANEXO XIV](anxiv.md)
-- [ANEXO XV](anxv.md)
-- [ANEXO XVI](anxvi.md)
-- [ANEXO XVII](anxvii.md)
-- [ANEXO XVIII](anxviii.md)
+- [BOE publisher notice](co.md)
