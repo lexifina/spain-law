@@ -42,4 +42,8 @@ Modelo 130. «Impuesto sobre la Renta de las Personas Físicas. Actividades econ
 
 Modelo 131. «Impuesto sobre la Renta de las Personas Físicas. Actividades económicas en estimación objetiva. Pago fraccionado. Declaración.»
 
+4. Para la presentación del modelo 100 correspondiente a ejercicios anteriores a 2015 se podrá seguir utilizando el procedimiento regulado en el artículo 5 de la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones, declaraciones informativas, declaraciones censales, comunicaciones y solicitudes de devolución, de naturaleza tributaria, en la redacción vigente hasta la entrada en vigor de esta orden.
+
+> Se añade el apartado 4 por la disposición final 1.5 de la Orden HAP/365/2016, de 17 de marzo. Ref. BOE-A-2016-2824.
+
 > Se modifica el párrafo primero del apartado 2 por el art. único.17 de la Orden HAP/1846/2014, de 8 de octubre. Ref. BOE-A-2014-10301.
