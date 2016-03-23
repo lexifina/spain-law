@@ -3,3 +3,5 @@
 1. El Ministerio de Agricultura, Alimentación y Medio Ambiente procederá, en el plazo de dos años desde la entrada en vigor de la presente Ley, a elaborar una estrategia para la adaptación de la costa a los efectos del cambio climático, que se someterá a Evaluación Ambiental Estratégica, en la que se indicarán los distintos grados de vulnerabilidad y riesgo del litoral y se propondrán medidas para hacer frente a sus posibles efectos.
 
 2. Igualmente las Comunidades Autónomas a las que se hayan adscrito terrenos de dominio público marítimo-terrestre, de acuerdo con el artículo 49 de la Ley 22/1988, de 28 de julio, de Costas, presentarán en el mismo plazo señalado en el apartado anterior, al Ministerio de Agricultura, Alimentación y Medio Ambiente, para su aprobación, un Plan de adaptación de dichos terrenos y de las estructuras construidas sobre ellos para hacer frente a los posibles efectos del cambio climático.
+
+> Se declara que no es inconstitucional el apartado 2, siempre que se interprete en los términos establecidos en el fundamento jurídico 7 de la Sentencia del TC 28/2016, de 18 de febrero. Ref. BOE-A-2016-2909.
