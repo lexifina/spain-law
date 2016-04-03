@@ -14,9 +14,9 @@
 | 1.1.6 Ámbito de actuación de la EAP superior a cinco provincias. | 1 |
 | 1.1.7 Por contener, al menos, un 25% de mujeres en el Consejo de dirección. | 2 |
 | 1.1.8 Por contener, al menos, un 10% de menores de 35 años en el Consejo de dirección. | 2 |
-| 1.2 Valoración respecto a la capacidad de la EAP para realizar la inversión (máximo 20 puntos): |  |
-| 1.2.1 EAP con ratio patrimonio neto/activo no corriente superior o igual a 0,5 e inferior a 0,7 (en el año anterior a presentar la solicitud de inversión). | 7 |
-| 1.2.2 EAP con ratio patrimonio neto/activo no corriente superior o igual a 0,7 (en el año anterior a presentar la solicitud de inversión). | 13 |
+| 1.2 Valoración respecto a la capacidad de la EAP para realizar la inversión (Máximo 20 puntos). |  |
+| 1.2.1 EAP con ratio patrimonio neto/activo no corriente superior o igual a 0,5 e inferior a 0,7 (en el año anterior a presentar la solicitud de inversión). | 10 |
+| 1.2.2 EAP con ratio patrimonio neto/activo no corriente superior o igual a 0,7 (en el año anterior a presentar la solicitud de inversión). | 20 |
 | 1.3 Valoración del grado de coincidencia entre los objetivos de la inversión y los propuestos por la EAP (máximo 5 puntos): |  |
 | 1.3.1 Inversión de la EAP coincidente con alguno de los fines constitutivos de la misma, en cuanto a los fines empresariales. | 5 |
 | 1.4 Ayudas recibidas con anterioridad para inversiones, dirigidos a los profesionales del medio rural y financiados por el Fondo Europeo Agrario de Desarrollo Rural (FEADER) y el Ministerio de Agricultura, Alimentación y Medio Ambiente. Cuando la EAP no haya sido beneficiaria con anterioridad de ayudas con destino a la inversión (máximo 5 puntos): |  |
@@ -51,3 +51,5 @@
 | 2.7.8 Si el proyecto de inversión contribuye a la mejora de la sostenibilidad, la reducción de los impactos ambientales y/o la mitigación al cambio climático. | 2 |
 | 2.8 Las inversiones deberán tener en cuenta las mejoras o nuevas técnicas disponibles (MTD) propias de su sector de actividad que consigan mejores niveles productivos con menor consumo de recursos. Para acreditar esto, en la memoria que acompañe a la solicitud de ayuda se justificará expresamente y de forma razonada en qué medida las inversiones han tenido en cuenta las MTD (máximo 11 puntos): |  |
 | 2.8.1 Si el proyecto de inversión contempla las mejoras o nuevas técnicas disponibles (MTD) propias de su sector de actividad. | 11 |
+
+> Se modifica el apartado 1.2 por la disposición final 2.5 del Real Decreto 126/2016, de 1 de abril. Ref. BOE-A-2016-3159#df-2
