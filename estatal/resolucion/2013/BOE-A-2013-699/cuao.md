@@ -62,13 +62,15 @@ f) Dar traslado de lo actuado al Servicio Jurídico de la Agencia en los casos d
 
 g) Resolver los recursos de reposición contra actos dictados de forma automatizada cuando así se disponga en la Resolución por la que se aprueben las aplicaciones informáticas para las actuaciones administrativas automatizadas correspondientes.
 
-h) Cualesquiera otras funciones y competencias que les atribuyan la normativa legal y reglamentaria y demás disposiciones que sean de aplicación.
+h) Dictar, en relación con los actos que hubiese acordado previamente en el ejercicio de sus competencias o aquellos otros que hubiesen sido dictados por los titulares de las Delegaciones de la Agencia Tributaria, las resoluciones que procedan en el seno de los procedimientos de recuperación de ayudas de Estado, relativos a los contribuyentes que estén adscritos a la Delegación Especial, cuando tengan su origen exclusivamente en actos de recaudación a los que sea de aplicación lo dispuesto en el capítulo III del Título VII de la Ley General Tributaria, a propuesta del Jefe de Equipo Regional de Recaudación al que se atribuya la tramitación, salvo que se trate de actos que hubiesen sido dictados por el titular del Departamento de Recaudación o que la competencia corresponda al titular de la Dependencia Regional de Recaudación.
+
+El Delegado Especial recabará la autorización previa del titular del Departamento de Recaudación cuando el acto de recaudación originario hubiera estado sujeto a autorización.
+
+i) Cualesquiera otras funciones y competencias que les atribuyan la normativa legal y reglamentaria y demás disposiciones que sean de aplicación.
 
 2. Competencias de los titulares de las Delegaciones de la Agencia Tributaria en materia de recaudación.
 
-Los titulares de las Delegaciones de la Agencia Tributaria asumirán las competencias atribuidas a los Delegados Especiales respecto de las deudas de las personas o entidades adscritas a los Equipos y a los Grupos Regionales de Recaudación ubicadas en alguna de las sedes situadas en la Delegación de la que sea titular, con excepción de las previstas en el apartado Cuarto 1.1, Cuarto 1.2, Cuarto 1.3, Cuarto 1.4 b), Cuarto 1.5 y Cuarto 1.6.
-
-Los titulares de las Delegaciones de la Agencia Tributaria ejercerán las competencias atribuidas a los Jefes de Dependencia Regional Adjuntos de Recaudación en el apartado Tercero.4 de esta Resolución, en relación con los expedientes asignados a los Grupos Regionales de Recaudación situados en la correspondiente Delegación, siempre que en ninguna de dichas sedes exista un Jefe o Jefa de Dependencia Regional Adjunto y sin perjuicio de las competencias que estén atribuidas al Técnico Jefe de Gestión Recaudatoria.
+Los titulares de las Delegaciones de la Agencia Tributaria asumirán las competencias atribuidas a los Delegados Especiales respecto de las deudas de las personas o entidades adscritas a los Equipos y a los Grupos Regionales de Recaudación ubicadas en alguna de las sedes situadas en la Delegación de la que sea titular, con excepción de las previstas en el apartado cuarto 1.1, cuarto 1.2, cuarto 1.3, cuarto 1.4 b), cuarto 1.5, cuarto 1.6 y cuarto 1.7.h).
 
 3. Competencias de los titulares de las Administraciones de la Agencia Tributaria y de los Inspectores Coordinadores en materia de recaudación.
 
@@ -139,3 +141,5 @@ Además, cuando las personas o entidades no resulten asignadas a los Equipos y G
 En aquellas Administraciones donde existan, los Inspectores Coordinadores planificarán, dirigirán, supervisarán, coordinarán y controlarán las actuaciones de los Equipos y Grupos Regionales de Recaudación que les sean encomendados por el titular de la Administración dentro de los asignados a la Administración por el titular de la Dependencia Regional de Recaudación.
 
 Los Inspectores Coordinadores ejercerán respecto de las personas o entidades asignadas a los referidos Equipos y Grupos Regionales de Recaudación las competencias reconocidas al titular de la Administración en este apartado con excepción de las identificadas con las letras a) y b).
+
+> Se modifican los apartados 1.7 y 2 por el art. único.2 de la Resolución de 1 de abril de 2016. Ref. BOE-A-2016-3228.
