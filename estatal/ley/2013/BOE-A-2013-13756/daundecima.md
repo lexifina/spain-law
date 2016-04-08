@@ -1,3 +1,5 @@
 ## Disposición adicional undécima. Compensación de deudas entre Administraciones por asunción de servicios y competencias.
 
-Realizada la asunción de los servicios y competencias a la que se refieren las disposiciones transitorias primera y segunda, en sus respectivos apartados segundos, las Comunidades Autónomas, con referencia a cada Municipio de su ámbito territorial, la comunicarán al Ministerio de Hacienda y Administraciones Públicas, junto con el importe de las obligaciones que tuvieren reconocidas pendientes de pago a los citados Municipios, al objeto de la realización, en los términos que se determinen reglamentariamente, de compensaciones entre los derechos y las obligaciones recíprocos, y el posterior ingreso del saldo resultante a favor de la Administración Pública a la que corresponda, y, en su caso, recuperación mediante la aplicación de retenciones en el sistema de financiación de la Administración Pública que resulte deudora.
+(Anulada)
+
+> Se declara inconstitucional y nula por Sentencia del TC 41/2016, de 3 de marzo. Ref. BOE-A-2016-3407.

@@ -316,11 +316,7 @@ Diecisiete. Se incluye un nuevo artículo 57 bis con la siguiente redacción:
 
 «Artículo 57 bis. Garantía de pago en el ejercicio de competencias delegadas.
 
-1. Si las Comunidades Autónomas delegan competencias o suscriben convenios de colaboración con las Entidades Locales que impliquen obligaciones financieras o compromisos de pago a cargo de las Comunidades Autónomas, será necesario que éstas incluyan una cláusula de garantía del cumplimiento de estos compromisos consistente en la autorización a la Administración General del Estado a aplicar retenciones en las transferencias que les correspondan por aplicación de su sistema de financiación. La citada cláusula deberá establecer, en todo caso, los plazos para la realización de los pagos comprometidos, para la reclamación por parte de la Entidad Local en caso de incumplimiento por parte de la Comunidad Autónoma de la obligación que hubiere contraído y para la comunicación a la Administración General del Estado de haberse producido dicho incumplimiento, teniendo en cuenta el plazo que, en su caso, se pueda establecer mediante la Orden del Ministerio de Hacienda y Administraciones Públicas a la que se refiere el apartado 3 de este artículo. Para la aplicación de esta cláusula no será precisa la autorización previa a la que hace referencia la disposición adicional septuagésima segunda de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013.
-
-2. Los acuerdos de delegación de competencias y convenios de colaboración que, a la entrada en vigor de la presente norma, hayan sido objeto de prórroga, expresa o tácita, por tiempo determinado, sólo podrán volver a prorrogarse en el caso de que se incluyan en los mismos la cláusula de garantía a la que hace referencia el apartado anterior. Esta norma será de aplicación a aquellos acuerdos que se puedan prorrogar, expresa o tácitamente, por vez primera con posterioridad a la citada entrada en vigor.
-
-3. El procedimiento para la aplicación de las retenciones mencionadas en el apartado 1 anterior y la correspondiente puesta a disposición a favor de las Entidades Locales de los fondos retenidos a las Comunidades Autónomas se regulará mediante Orden del Ministerio de Hacienda y Administraciones Públicas a la que se refiere la disposición adicional septuagésima segunda de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013.»
+(Anulado)
 
 Dieciocho. Se introduce un nuevo artículo 75 bis con la siguiente redacción:
 
@@ -767,3 +763,5 @@ c) Los planes de saneamiento de la Corporación Local o los planes de reducción
 d) La entrada de la Corporación Local en los mecanismos extraordinarios de financiación vigentes a los que se refiere la Ley Orgánica 2/2012, de 27 de abril, y, en particular, el acceso a las medidas extraordinarias de apoyo a la liquidez previstas en el Real Decreto-ley 8/2013, de 28 de junio, de medidas urgentes contra la morosidad de las administraciones públicas y de apoyo a Entidades Locales con problemas financieros.
 
 2. La Junta de Gobierno Local dará cuenta al Pleno en la primera sesión que se celebre con posterioridad a la adopción de los acuerdos mencionados en el apartado anterior, los cuales serán objeto de publicación de conformidad con las normas generales que les resulten de aplicación.»
+
+> Se declara inconstitucional y nulo el apartado 17, por Sentencia del TC 41/2016, de 3 de marzo. Ref. BOE-A-2016-3407.

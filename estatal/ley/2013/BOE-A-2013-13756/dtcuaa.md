@@ -11,3 +11,5 @@ La disolución en todo caso conllevará:
 a) Que el personal que estuviera al servicio de la entidad disuelta quedará incorporado en el Ayuntamiento en cuyo ámbito territorial esté integrada.
 
 b) Que el Ayuntamiento del que dependa la entidad de ámbito territorial inferior al municipio queda subrogado en todos sus derechos y obligaciones.
+
+> Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado del apartado 3 por Sentencia del TC 41/2016, de 3 de marzo. Ref. BOE-A-2016-3407.

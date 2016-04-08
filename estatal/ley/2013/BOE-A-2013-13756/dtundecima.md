@@ -9,3 +9,5 @@ El expediente para la disolución será iniciado y resuelto por el Órgano de Go
 a) Que el personal que estuviera al servicio de la mancomunidad disuelta quedará incorporado en las Entidades Locales que formaran parte de ella de acuerdo con lo previsto en sus estatutos.
 
 b) Las Entidades Locales que formaran parte de la mancomunidad disuelta quedan subrogadas en todos sus derechos y obligaciones.
+
+> Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado del párrafo tercero por Sentencia del TC 41/2016, de 3 de marzo. Ref. BOE-A-2016-3407.
