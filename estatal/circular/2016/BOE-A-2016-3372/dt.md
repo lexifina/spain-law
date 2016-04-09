@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Doble cómputo.
+
+Para el cálculo de los porcentajes establecidos en el apartado cuarto de la presente Circular, se considerará que la contribución, en términos energéticos, de los biocarburantes obtenidos a partir de las materias primas incluidas en la Resolución de 2 de abril de 2014, de la Secretaría de Estado de Energía, o norma que en el futuro la sustituya, equivale al doble de la de los otros biocarburantes, solamente a partir de la entrada en vigor de la circular del organismo responsable de la expedición de certificados de consumo y venta de biocarburantes, por la que se ha de establecer la información y documentación que demuestre la procedencia y origen de las materias primas o el biocarburante correspondiente.
