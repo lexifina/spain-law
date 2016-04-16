@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Colaboración con Comunidades Autónomas.
+
+En el caso que las comunidades autónomas dispongan de plataformas de tramitación con funciones de ventanilla única, se garantizará que las comunicaciones relacionadas con la extinción y el cese de actividad realizada desde estas plataformas surtan los efectos oportunos en los trámites de competencia estatal. Para este propósito, se definirán los mecanismos de coordinación necesarios entre las comunidades autónomas y el Ministerio de Industria, Energía y Turismo para integrar la información entre sus respectivas plataformas de forma bidireccional.
