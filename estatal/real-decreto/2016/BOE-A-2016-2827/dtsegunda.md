@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Certificados expedidos con anterioridad con arreglo al Real Decreto 1495/1991, de 11 de octubre.
+
+Los certificados expedidos con anterioridad a la entrada en vigor de este real decreto, por organismos de control autorizados con arreglo al Real Decreto 1495/1991, de 11 de octubre, por el que se dictan las disposiciones de aplicación de la Directiva 87/404/CEE, del Consejo, de 25 de junio de 1987, relativa a la aproximación de las legislaciones de los Estados miembros en materia de recipientes a presión simples, serán válidos con arreglo al presente real decreto.

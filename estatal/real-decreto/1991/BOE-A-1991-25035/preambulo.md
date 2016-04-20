@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 282, de 25 de noviembre de 1991. Ref. BOE-A-1991-28425.
+Norma derogada, con efectos de 20 de abril de 2016, por la disposición derogatoria única del Real Decreto 108/2016, de 18 de marzo. Ref. BOE-A-2016-2827#ddunica.
