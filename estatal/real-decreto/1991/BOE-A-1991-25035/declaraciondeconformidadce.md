@@ -1,1 +1,0 @@
-## Declaración de conformidad CE

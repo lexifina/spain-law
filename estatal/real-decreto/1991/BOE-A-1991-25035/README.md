@@ -8,38 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2016-04-20 by BOE-A-2016-2827. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [preambulo](preambulo.md)
-- [pr](pr.md)
-- [CAPÍTULO I](ci.md)
-- [Art 1](art1.md)
-- [Art 2](art2.md)
-- [Art 3](art3.md)
-- [Art 4](art4.md)
-- [Art 5](art5.md)
-- [CAPÍTULO II](cii.md)
-- [Art 6](art6.md)
-- [Art 7](art7.md)
-- [Examen CE de tipo](examencedetipo.md)
-- [Art 8](art8.md)
-- [Verificacion CE](verificacionce.md)
-- [Art 9](art9.md)
-- [Declaración de conformidad CE](declaraciondeconformidadce.md)
-- [Art 10](art10.md)
-- [Art 11](art11.md)
-- [Art 12](art12.md)
-- [CAPÍTULO III](ciii.md)
-- [Art 13](art13.md)
-- [Art 14](art14.md)
-- [DISPOSICIÓN ADICIONAL](da.md)
-- [DISPOSICIÓN TRANSITORIA](dt.md)
-- [DISPOSICIONES FINALES](df.md)
-- [Primera](primera.md)
-- [Segunda](segunda.md)
-- [Tercera](tercera.md)
-- [Cuarta](cuarta.md)
-- [firma](firma.md)
-- [ANEXO I](ani.md)
-- [ANEXO II](anii.md)
-- [ANEXO III](aniii.md)
+- [BOE publisher notice](preambulo.md)
