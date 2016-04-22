@@ -228,9 +228,8 @@ Sábado 30 de abril (festividad 1.º de mayo)
 | R-5 | 15 | Arroyomolinos (enlace AP-41). | 30,5 | Navalcarnero. | 8,00-15,00 | Salida Madrid. |
 | N-VI | 42,5 | Collado Villalba. | 62,5 | San Rafael. | 8,00-15,00 | Salida Madrid. |
 | M-501 | 4 | Madrid (enlace M-50). | 59,5 | San Martín de Valdeiglesias. | 8,00-15,00 | Salida Madrid. |
-| A-382 | 0 | Enlace con AP-4. | 11 | Jerez de la Frontera. | 08,00-18,00 | Ambos sentidos. |
 
-Domingo 1 de mayo (festividad 1.º de mayo)
+Sábado 23 de abril y Domingo 24 de abril
 
 | Ctra. | Inicio | Final | Duración | Sentido |
 | --- | --- | --- | --- | --- |
@@ -525,7 +524,7 @@ Martes 1 de noviembre (festividad de todos los Santos)
 | N-122 | 466 | Zamora (A-11). | 538 | Trabazos (frontera Portugal). | 16,00-23,00 | Ambos sentidos. |
 | N-610 | 74 | Límite provincias Valladolid-Zamora. | 99 | Castrogonzalo (A-6). | 16,00-23,00 | Ambos sentidos. |
 
-Sábado 5 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)
+Sábado 12 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)
 
 | Ctra. | Inicio | Final | Duración | Sentido |
 | --- | --- | --- | --- | --- |
@@ -533,7 +532,7 @@ Sábado 5 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)
 | A-3 | 352 | Valencia. | 319 | Buñol. | 07,00-15,00 | Salida Valencia. |
 | A-3 | 177 | Atalaya del Cañavate. | 352 | Valencia. | 14,00-20,00 | Entrada Valencia. |
 
-Domingo 6 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)
+Domingo 13 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)
 
 | Ctra. | Inicio | Final | Duración | Sentido |
 | --- | --- | --- | --- | --- |
@@ -631,3 +630,5 @@ Domingo 11 de diciembre (festividad Constitución e Inmaculada)
 | A-3 | 352 | Valencia. | 298 | Requena. | 13,00-22,00 | Salida de Valencia. |
 | N-630 | 29,5 | Oviedo. | 87,1 | Límite provincias Asturias-León. | 18,00-23,00 | Ambos sentidos. |
 | N-634 | 552,53 | Límite provincias Lugo-Asturias. | 622 | Vilalba. | 18,00-23,00 | Ambos sentidos. |
+
+> Se modifica por el art. único.4 a 5 de la Resolución de 13 de abril de 2016. Ref. BOE-A-2016-3828.

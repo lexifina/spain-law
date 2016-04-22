@@ -66,7 +66,7 @@ B.3.2 Exenciones:
 
 C) Carriles reservados para determinados tipos de vehículos:
 
-C.1 Carriles reservados para la circulación de vehículos con alta ocupación (VAO):
+C.1 Carriles reservados para la circulación de vehículos con alta ocupación (VAO).
 
 Tienen tal consideración:
 
@@ -74,15 +74,21 @@ Tienen tal consideración:
 
 – Los carriles izquierdos de ambos sentidos de la carretera GR-3211 (de Granada (A-395) a la Zubia), entre los kilómetros 0+115 al 1+410 en sentido creciente y entre los kilómetros 0+105 al 1+530 en sentido decreciente, cuando así lo disponga la señalización existente.
 
-En todos ellos, el número mínimo de ocupantes por vehículo será de dos, incluido el conductor, quedando limitada su utilización a motocicletas, turismos y vehículos mixtos adaptables.
+En todos ellos, el número mínimo de ocupantes por vehículo será de dos, incluido el conductor, quedando limitada su utilización a motocicletas de dos o tres ruedas, turismos, autobuses con masa máxima autorizada superior a 3.500 kilogramos, autobuses articulados y vehículos mixtos adaptables.
 
-Pueden ser utilizados, también, aun cuando sólo lo ocupe su conductor, por:
+En consecuencia, está prohibida su utilización por el resto de vehículos y conjunto de vehículos, incluidos los turismos con remolque, los ciclos y los ciclomotores.
 
-– Los vehículos citados anteriormente si ostentan la señal V-15, por los titulares de permiso de conducción con limitación física acreditada si figura consignado el código nacional 200 y se disponga autorización en anexo expedido por la Jefatura Provincial de Tráfico, por motocicletas de dos ruedas.
+No obstante, podrán ser utilizados, también, aun cuando sólo lo ocupe su conductor, por:
 
-– Por los turismos clasificados en el Registro de Vehículos de la Dirección General de Tráfico como cero emisiones, que a tal efecto serán los clasificados en la tarjeta de inspección técnica como vehículos eléctricos de batería (BEV), vehículo eléctrico de autonomía extendida (REEV), vehículo eléctrico híbrido enchufable (PHEV) con una autonomía mínima de 40 kilómetros, identificados por el adhesivo que a tal efecto se ha configurado y cuyo modelo se recoge en el anexo VIII.
+– Los vehículos citados anteriormente si ostentan la señal V-15, por los titulares de permiso de conducción con limitación física acreditada si figura consignado el código nacional 200 y se disponga autorización en anexo expedido por la Jefatura Provincial de Tráfico.
 
-– Por autobuses con masa máxima autorizada superior a 3.500 kilogramos y autobuses articulados, por lo que está prohibida la circulación del resto de vehículos y conjunto de vehículos, incluidos los turismos con remolque, así como los ciclos y ciclomotores.
+– Por motocicletas de dos o tres ruedas.
+
+– Por los turismos clasificados en el Registro de Vehículos de la Dirección General de Tráfico como cero emisiones. Además, por los turismos clasificados en el Registro de Vehículos de la Dirección General de Tráfico como ECO, C o B, solamente cuando en los paneles de mensaje variable de acceso a los carriles VAO se indique tal extremo. En todos los casos, los vehículos deberán ir identificados por el adhesivo que a tal efecto se ha configurado, colocado en el ángulo inferior derecho del parabrisas – o en defecto de éste, en lugar visible-.
+
+Los modelos de los adhesivos y las características de los vehículos incluidos dentro de la clasificación: cero emisiones, ECO, C y B, del Registro de Vehículos, se especifican en el anexo VIII.
+
+– Por autobuses con masa máxima autorizada superior a 3.500 kilogramos y autobuses articulados.
 
 C.2 Carril reservado para la circulación de vehículos destinados al servicio público de viajeros:
 
@@ -129,3 +135,5 @@ F) Restricciones a la ejecución de obras en la vía:
 En razón de las circunstancias o características especiales del tráfico, durante el calendario de Operaciones de Tráfico con motivo de los desplazamientos masivos de vehículos previstos durante el año 2016, y con el objeto de mejorar la seguridad vial y fluidez de la circulación, el Organismo Autónomo Jefatura Central de Tráfico solicitará, en todo caso, a los Organismos titulares de vías afectadas, que lleven a efecto la interrupción de las obras en los términos previstos en el anexo VI.
 
 No obstante, por motivos justificados, los Organismos titulares de las vías podrán autorizar de manera excepcional, previa comunicación al Organismo Autónomo Jefatura Central de Tráfico, la realización de obras en las fechas y vías recogidas en el anexo VI.
+
+> Se modifica el apartado C.1 del punto primero por el art. único.1 de la Resolución de 13 de abril de 2016. Ref. BOE-A-2016-3828.

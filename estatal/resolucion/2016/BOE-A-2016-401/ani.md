@@ -58,9 +58,7 @@ a) En las carreteras N-IV, N-340, N-351, N-443, A-314, A-383, A-390, A-396, A-47
 
 b) En todas las carreteras de la provincia:
 
-– Desde el viernes 29 de abril, a las cero horas, hasta el domingo 1 de mayo, a las veinticuatro horas.
-
-– El domingo 18 de septiembre, de cero a veinticuatro horas.
+– Desde el viernes 22 de abril, a las cero horas, hasta el domingo 24 de abril, a las veinticuatro horas.
 
 Provincia de Córdoba
 
@@ -494,7 +492,7 @@ a) En todas las carreteras de la provincia:
 
 – El domingo 9 de octubre, de cero a veinticuatro horas.
 
-– Desde el viernes 4 de noviembre, a las cero horas, hasta el domingo 6 de noviembre, a las veinticuatro horas.
+– Desde el viernes 11 de noviembre, a las cero horas, hasta el domingo 13 de noviembre, a las veinticuatro horas.
 
 b) En la carretera N-332:
 
@@ -505,3 +503,5 @@ c) En la carretera CV-500:
 – Todos los sábados y domingos del mes de mayo, de cero a veinticuatro horas.
 
 – Todos los días de los meses de junio, julio, agosto y septiembre, de cero a veinticuatro horas.
+
+> Se modifica por el art. único.2 y 3 de la Resolución de 13 de abril de 2016. Ref. BOE-A-2016-3828.
