@@ -58,4 +58,6 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2013/129/05670_016.png)
 
+> Se declara que no es inconstitucional este anexo, siempre que se interprete en los términos establecidos en el fundamento jurídico noveno, por Sentencia del TC 57/2016, de 17 de marzo. Ref. BOE-A-2016-3910
+
 > Se declara que no es inconstitucional este anexo, siempre que se interprete en los términos establecidos en el fundamento jurídico 14, por Sentencia del TC 233/2015, de 5 de noviembre. Ref. BOE-A-2015-13480.

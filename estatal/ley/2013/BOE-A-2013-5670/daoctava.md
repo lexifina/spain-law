@@ -4,4 +4,6 @@
 
 2. Igualmente las Comunidades Autónomas a las que se hayan adscrito terrenos de dominio público marítimo-terrestre, de acuerdo con el artículo 49 de la Ley 22/1988, de 28 de julio, de Costas, presentarán en el mismo plazo señalado en el apartado anterior, al Ministerio de Agricultura, Alimentación y Medio Ambiente, para su aprobación, un Plan de adaptación de dichos terrenos y de las estructuras construidas sobre ellos para hacer frente a los posibles efectos del cambio climático.
 
+> Se declara que el apartado 2 es conforme con el orden constitucional de distribución de competencias, interpretado en los términos del fundamento jurídico décimo, por Sentencia del TC 57/2016, de 17 de marzo. Ref. BOE-A-2016-3910
+
 > Se declara que no es inconstitucional el apartado 2, siempre que se interprete en los términos establecidos en el fundamento jurídico 7 de la Sentencia del TC 28/2016, de 18 de febrero. Ref. BOE-A-2016-2909.
