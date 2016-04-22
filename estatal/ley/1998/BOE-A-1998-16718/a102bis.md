@@ -14,6 +14,8 @@ Cabrá recurso directo de revisión contra los decretos por los que se ponga fin
 
 Cabrá interponer igualmente recurso directo de revisión contra los decretos en aquellos casos en que expresamente se prevea.
 
+> Téngase en cuenta que se declara la inconstitucionalidad y nulidad del primer párrafo del apartado 2, en la redacción dada por la Ley 13/2009, de 3 de noviembre, por Sentencia 58/2016, de 17 de marzo. Ref. BOE-A-2016-3911.
+
 3. El recurso de revisión deberá interponerse en el plazo de cinco días mediante escrito en el que deberá citarse la infracción en que la resolución hubiera incurrido.
 
 Cumplidos los anteriores requisitos, el Secretario judicial, mediante diligencia de ordenación, admitirá el recurso, concediendo a las demás partes personadas un plazo común de cinco días para impugnarlo, si lo estiman conveniente.
@@ -25,5 +27,7 @@ Transcurrido el plazo para impugnación, háyanse presentado o no escritos, el J
 Contra las resoluciones sobre admisión o inadmisión no cabrá recurso alguno.
 
 4. Contra el auto dictado resolviendo el recurso de revisión únicamente cabrá recurso de apelación y de casación en los supuestos previstos en los artículos 80 y 87 de esta Ley, respectivamente.
+
+> Se declara la inconstitucionalidad y nulidad del primer párrafo del apartado 2, en la redacción dada por la Ley 13/2009, de 3 de noviembre, por Sentencia 58/2016, de 17 de marzo. Ref. BOE-A-2016-3911.
 
 > Se añade por el art. 14.45 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.

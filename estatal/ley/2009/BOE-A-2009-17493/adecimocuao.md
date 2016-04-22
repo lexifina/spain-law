@@ -366,6 +366,8 @@ Contra las resoluciones sobre admisión o inadmisión no cabrá recurso alguno.
 
 4. Contra el auto dictado resolviendo el recurso de revisión únicamente cabrá recurso de apelación y de casación en los supuestos previstos en los artículos 80 y 87 de esta Ley, respectivamente.
 
+> Téngase en cuenta que se declara la inconstitucionalidad y nulidad del apartado 45 en cuanto a la modificación del primer párrafo del apartado 2 del art. 102 bis de la Ley 29/1998, de 13 de julio. Ref. BOE-A-1998-16178., por Sentencia 58/2016, de 17 de marzo. Ref. BOE-A-2016-3911.
+
 Cuarenta y seis. El apartado 1 del artículo 104 queda redactado como sigue:
 
 «Artículo 104.
@@ -493,3 +495,5 @@ Sesenta y siete. Se introduce una disposición adicional octava con el siguiente
 «Octava. Referencias al recurso de súplica.
 
 Las referencias en el articulado de esta Ley al recurso de súplica se entenderán hechas al recurso de reposición.»
+
+> Se declara la inconstitucionalidad y nulidad del apartado 45 en cuanto a la modificación del primer párrafo del apartado 2 del art. 102 bis de la Ley Ley 29/1998, de 13 de julio. Ref. BOE-A-1998-16178., por Sentencia 58/2016, de 17 de marzo. Ref. BOE-A-2016-3911.
