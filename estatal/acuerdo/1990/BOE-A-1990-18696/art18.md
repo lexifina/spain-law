@@ -1,6 +1,6 @@
 ## Art. 18.
 
-1. La Presidencia estará asistida por un Gabinete cuyo Jefe será nombrado libremente por el Presidente. El Jefe del Gabinete tendrá el carácter de funcionario eventual, con el mismo rango y retribuciones que los letrados.
+1. La Presidencia estará asistida por un Gabinete cuyo Jefe será nombrado libremente por el Presidente. El Jefe del Gabinete tendrá el carácter de funcionario eventual.
 
 2. Corresponden al Jefe del Gabinete de la Presidencia las siguientes funciones:
 
@@ -16,7 +16,7 @@ e) Impartir las instrucciones oportunas en orden al protocolo y cuidar de la org
 
 f) Cualesquiera otras tareas específicas que le sean encomendadas por el Presidente.
 
-> Artículo redactado conforme al Acuerdo del Pleno de 1 de abril de 2011 (Ref. BOE-A-2011-6009.).
+> Se modifica el apartado 1 por el art. único.1 del Acuerdo de 21 de abril de 2016. Ref. BOE-A-2016-4039.
 
 > Se modifica por el art. único.5 del Acuerdo de 1 de abril de 2011. Ref. BOE-A-2011-6009.
 
