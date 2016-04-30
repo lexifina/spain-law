@@ -65,4 +65,8 @@ Por lo que respecta a las variedades de Hordeum vulgare oficialmente clasificada
 
 Para los híbridos de avenas, cebada, arroz, trigo blando, trigo duro, escanda menor y triticale autógamo, la pureza varietal mínima de las semillas de categoría «semilla certificada» deberá ser del 90 por 100. Dicha pureza deberá ser examinada en las pruebas oficiales de post-control sobre una proporción adecuada de muestras.
 
+En el caso de semillas de variedades híbridas de cebada empleando el método CMS, la pureza varietal mínima deberá ser del 85 %. Las impurezas, con excepción de la línea restauradora, no excederán del 2 %. Dicha pureza deberá ser examinada en las pruebas oficiales de post-control sobre una proporción adecuada de muestras.
+
+> Se modifica por el art. único.2 de la Orden AAA/616/2016, de 26 de abril. Ref. BOE-A-2016-4093.
+
 > Se corrigen errores por la Orden ARM/2552/2011, de 21 de septiembre. Ref. BOE-A-2011-15169.

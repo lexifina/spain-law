@@ -23,6 +23,12 @@ Las siembras de parcelas destinadas a la producción de semilla de prebase de la
 
 Tercera.–Aislamientos: Los aislamientos se refieren a siembras de otro cereal de la misma especie. No se exige aislamiento alguno si el campo está rodeado por otro de la misma variedad, sembrado con semilla de la misma categoría o de la inmediata inferior a la utilizada en la parcela destinada a producción de semilla.
 
+En la producción de semillas de variedades híbridas de cebada obtenidas utilizando la esterilidad masculina citoplasmática, el cultivo deberá ajustarse a los siguientes requisitos referentes a las distancias respecto a las fuentes de polen vecinas, las cuales pueden dar lugar a polinizaciones no deseadas:
+
+Para la producción de semillas de base, 100 metros.
+
+Para la producción de semillas certificadas, 50 metros.
+
 En la producción de semilla de alpiste y centeno, excepto sus híbridos, la distancia mínima en metros será de 300 para las semillas de base y generaciones anteriores, y de 250 para la certificada.
 
 Para la producción de semilla de variedades autógamas de triticale, la distancia mínima en metros será de 50 para la semilla de base, y 20 para las certificadas R-1 y R-2.
@@ -73,6 +79,22 @@ Uno por cada 10 metros cuadrados dedicados a la producción de semilla certifica
 
 2. En lo que respecta a las semillas de base, si se utiliza la esterilidad masculina, el índice de esterilidad de componente sin actividad masculina será del 98 por 100 como mínimo.
 
+En la producción de semillas de variedades híbridas de cebada empleando el método de esterilidad masculina citoplasmática (CMS), el cultivo poseerá un grado suficiente de identidad y pureza en lo que concierne a las características de sus componentes, y además cumplirá los siguientes requisitos que serán examinados en una prueba oficial de post-control:
+
+1. El número de plantas de la especie cultivada que, según pueda apreciarse, no reúna las condiciones exigibles a los componentes no será superior a:
+
+En los cultivos utilizados para producir semillas de base, del 0,1 % para la línea mantenedora y la línea restauradora y del 0,2 % para el componente femenino de la CMS;
+
+En los cultivos utilizados para producir semillas certificadas, del 0,3 % para la línea restauradora y el componente femenino de la CMS y del 0,5 % en caso de que el componente femenino de la CMS sea un híbrido único.
+
+2. El índice de esterilidad masculina del componente femenino será:
+
+Para la producción de semillas de base, del 99,7 % como mínimo.
+
+Para la producción de semillas certificadas, del 99,5 % como mínimo.
+
+3. Las semillas certificadas podrán producirse en un cultivo mixto de un componente femenino androestéril con un componente masculino que restaure la fertilidad.
+
 Quinta.–Plantas de otras especies cultivadas: Se consideran únicamente las especies cultivadas de difícil separación mecánica en la manipulación de las semillas y en especial de otros cereales.
 
 Se podrá diferir la aceptación o anulación de una parcela en el caso de que se sobrepasen los máximos fijados, hasta que se haya procedido a la selección mecánica y análisis de las muestras, cuando el productor lo solicite y siempre que quede garantizado que la semilla de la parcela considerada no se haya mezclado con la de otras parcelas.
@@ -92,6 +114,8 @@ En los campos de producción de semillas de arroz, el número de plantas reconoc
 8 por cada 200 m² para la producción de semillas certificadas de segunda generación.
 
 Séptima.–El cumplimiento de las normas antes citadas se comprobará mediante inspecciones oficiales de campo en el caso de las semillas de base y, en el de las semillas certificadas, mediante inspecciones oficiales de campo o inspecciones llevadas a cabo bajo supervisión oficial. El número de inspecciones será de al menos 1.
+
+> Se modifica por el art. único.1 de la Orden AAA/616/2016, de 26 de abril. Ref. BOE-A-2016-4093.
 
 > Se modifica por el art. único de la Orden AAA/1079/2012, de 22 de mayo. Ref. BOE-A-2012-6811.
 
