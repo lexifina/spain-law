@@ -17,6 +17,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 4](a4.md)
 - [Artículo 5](a5.md)
 - [Disposición final única](dfunica-2.md)
+- [Disposición final primera](dfprimera.md)
+- [Disposición final segunda](dfsegunda.md)
 - [firma](firma.md)
 - [ANEXO I](ani.md)
 - [ANEXO II A](aniia.md)
