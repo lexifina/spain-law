@@ -1,5 +1,5 @@
-## Disposición transitoria única. Unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General.
+## Disposición transitoria única. Gestión del sistema unificado de información del sector lácteo.
 
-Las unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General continuarán subsistentes y serán retribuidos con cargo a los mismos créditos, hasta que se apruebe la relación de puestos de trabajo adaptada a la estructura orgánica prevista en el Estatuto. Dicha adaptación, en ningún caso, podrá suponer incremento de gasto público.
+La gestión y coordinación del sistema unificado de información en el sector lácteo y el análisis de las declaraciones efectuadas por los obligados a facilitar datos periódicos en el ámbito de la gestión y mantenimiento de los sistemas de información y seguimiento de la leche cruda, y de la leche de líquida envasada de vaca, en tanto no se atribuya a la AICA.
 
-Las unidades y puestos de trabajo encuadrados en los órganos suprimidos por este Real Decreto se adscribirán provisionalmente, mediante Resolución del Subsecretario de Agricultura, Pesca y Alimentación, hasta tanto entre en vigor la nueva relación de puestos de trabajo, a los órganos regulados en el Estatuto, en función de las atribuciones que éstos tengan asignadas.
+> Se modifica por la disposición final 4 del Real Decreto 153/2016, de 15 de abril. Ref. BOE-A-2016-3652.
