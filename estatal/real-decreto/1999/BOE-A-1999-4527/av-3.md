@@ -1,68 +1,40 @@
 ## ANEXO VII
 
-## Documento de control del contenido del botiquín de antídotos y certificado de revisión
+## Documento de control del contenido del botiquín de antídotos (*) y certificado de revisión
 
-A) CONTROL DEL CONTENIDO DEL BOTIQUÍN DE ANTÍDOTOS GENERALES
+A) CONTROL DEL CONTENIDO DEL BOTIQUÍN DE ANTÍDOTOS
 
-– NOMBRE DEL BUQUE: …………………………………………………………… MATRÍCULA ………………………………………………….……….……….……….…………
-
-– NOMBRE DEL PROPIETARIO O EMPRESA ARMADORA: ………………………………………………………..………………………………………………………………………………
-
-– PUERTO-BASE: ………………………………………………………………………………………………………………………………………………………………………………………….…
-
-– NOMBRE Y APELLIDOS DEL RESPONSABLE SANITARIO A BORDO (RSB ): ……………………………………………………………………………………………….………………
-
-– DNI/PASAPORTE DEL RSB ………………………………………………………………………………………………………………………………..……………………………………………
-
-Antídotos generales
-
-| CÓDIGO ATC | PRINCIPIO ACTIVO | PRESENTACIÓN | CANTIDAD EXIGIDA | CANTIDAD A BORDO | CADUCIDAD |
-| --- | --- | --- | --- | --- | --- |
-| C03CA01 | FUROSEMIDA | Comprimido de 40 mg. | 2 envases |  |  |
-| 5 ampollas de 2 mg. | 2 envases |  |  |
-| B02BA01 | FITOMENADIONA | 3 ampollas | 2 envases |  |  |
-|  | HIDRÓXIDO DE ALUMINIO + MAGNESIO | Solución de 300 ml. | 2 envases |  |  |
-| A03FA01 | METOCLOPRAMIDA | 12 ampollas | 2 envases |  |  |
-| A07BA01 | CARBÓN ACTIVADO | Frascos granulado 25 gr. | 10 envases |  |  |
-| N02BE01 | PARACETAMOL | 20 comprimidos de 500 mg. | 2 envases |  |  |
-| N02BA01 | ACIDO ACETILSALICILICO | 20 comprimidos de 500 mg. | 2 envases |  |  |
-| N02AD01 | PENTAZOCINA | 5 ampollas de 30 mg | 1 envase |  |  |
-| N05BA01 | DIAZEPAN | 5 microenemas de 10 mg | 2 envases |  |  |
-| R06AD02 | PROMETAZINA | 5 ampollas de 2 mg. | 2 envases |  |  |
-| R06AB02 | DEXCLORFENIRAMINA | 5 ampollas de 5 mg | 2 envases |  |  |
-| R03CC02 | SALBUTAMOL | Aerosol inhalador | 1 envase |  |  |
-| R03BA01 | BECLOMETASONA | 50 mcg/puls aero 200 dos | 1 envase |  |  |
-| J01CA04 | AMOXICILINA | 12 cápsulas de 500 mg | 2 envases |  |  |
-| Vial 1 gr. | 8 viales |  |  |
-|  | COTRIMOXAZOL | 20 comprimidos | 2 envases |  |  |
-| S01AA12 | TOBRAMICINA | Colirio | 2 envases |  |  |
-
-OBSERVACIONES ………………………………………………………………………………………………………………………………..
-
-………………………………………………………………………………………………………………………………………………………….
-
-………………………………………………………………………………………………………………………………………………………….
-
-:
-
-Firma y Sello del responsable de la revisión
-
-B) CONTROL DEL BOTIQUÍN DE ANTÍDOTOS ESPECÍFICOS
-
-| CÓDIGO ATC | PRINCIPIO ACTIVO | PRESENTACIÓN | CANTIDAD EXIGIDA | CANTIDAD A BORDO | CADUCIDAD |
-| --- | --- | --- | --- | --- | --- |
-|  | DIMERCAPROL | 100 mg. Vial | 25 viales |  |  |
-|  | HIDROXICOBALAMINA | Frascos 2,5 gr./100 ml. | 4 envases |  |  |
-| A12AA03 | GLUCONATO DE CALCIO 2% | Crema de 25 gr. | 3 unidades |  |  |
-|  | AZUL DE METILENO al 1% | Ampollas bebibles de 10 ml. | 15 ampollas |  |  |
-|  | ALCOHOL ETÍLICO al 10% | Solución de 500 ml. | 2 envases |  |  |
-|  | SULFATO DE ATROPINA | Ampollas 1 mg, 10 ampollas | 1 envase |  |  |
-|  | POLIETILENGLICOL Peso molecular 300 | Frasco de 1 litro | 1 litro |  |  |
+| NOMBRE DEL BUQUE: MATRICULA: NIB: NOMBRE DEL PROPIETARIO O EMPRESA ARMADORA: PUERTO BASE: NOMBRE Y APELLIDOS DEL RESPONSABLE SANITARIO BORDO(RSB): DNI/NIE/PASAPORTE DEL RSB: FECHA DEL CONTROL: |
+| --- |
+| ANTIDOTOS GENERALES |
+| Código ATC | Principio Activo | Presentación | Cantidad Exigida | Cantidad a Bordo | Caducidad |
 |  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| OBSERVACIONES DE RESPONSABLE DE LA REVISIÓN (ISM) |
+| Firma del RSB | Firma y sello del responsable de la revisión |
+| --- | --- |
+| ANTIDOTOS GENERALES |
+| --- |
+| Código ATC | Principio Activo | Presentación | Cantidad Exigida | Cantidad a Bordo | Caducidad |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| OBSERVACIONES DE RESPONSABLE DE LA REVISIÓN (ISM) |
+| Firma del RSB | Firma y sello del responsable de la revisión |
+| --- | --- |
 
-OBSERVACIONES: ………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………… ……………………………………………………………………………………………………………………………………………
-
-Firma y Sello del responsable de la revisión
+(*) Este documento puede obtenerse en formato electrónico, previa descarga, en la dirección de internet http://www.seg-social.es/Internet_1/Trabajadores/Trabajadoresdelmar/SanidadMaritima/MedicinaPreventiva/index.htm#35307 o en formato de etiqueta adhesiva que será facilitada gratuitamente en los Centros de Sanidad Marítima del Instituto Social de la Marina.
 
 B) CERTIFICADO DE REVISIÓN DE BOTIQUÍN DE ANTÍDOTOS
 
@@ -107,6 +79,8 @@ En caso de disconformidad con el resultado de la revisión del botiquín a bordo
 PROTECCIÓN DE DATOS
 
 En cumplimento del artículo 5 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, se informa de que los datos de la revisión del botiquín van a ser incorporados al fichero «FARMAR», para la gestión y control de los mismos, cuya titularidad es del Instituto Social de la Marina. Asimismo se informa que podrá ejercerse el derecho de acceso, rectificación, cancelación y oposición mediante escrito dirigido a la Secretaria General del Instituto Social de la Marina y/o Direcciones Provinciales del ISM.
+
+> Se sustituye la sección A por la que figura como apartado D) del anexo de la Orden PRE/2315/2015, de 3 de noviembre, según establece su art. único.4. Ref. BOE-A-2015-11931
 
 > Se sustituye por el que figura en el anexo VII del Real Decreto 568/2011, de 20 de abril, según establece su art. único.10. Ref. BOE-A-2011-8342
 
