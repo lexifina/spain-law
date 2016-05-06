@@ -1,0 +1,5 @@
+## Disposición final primera. Adaptación de la terminología de las Ayudas de la Política Agraria Común vigente en 2015.
+
+El segundo párrafo de la instrucción 2.1 del anexo I de la Orden HAP/2222/2014, de 27 de noviembre, por la que se desarrollan para el año 2015 el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido, queda redactado en los siguientes términos:
+
+«Las ayudas directas desacopladas de la Política Agraria Común (pago básico, pago para prácticas agrícolas beneficiosas para el clima y el medio ambiente, pago para jóvenes agricultores y, en su caso, pago del régimen simplificado para pequeños agricultores) se acumularán a los ingresos procedentes de los cultivos o explotaciones del perceptor en proporción a sus respectivos importes. No obstante, cuando el perceptor de la ayuda directa no haya obtenido ingresos por actividades agrícolas y ganaderas, el índice de rendimiento neto a aplicar será el 0,56.»

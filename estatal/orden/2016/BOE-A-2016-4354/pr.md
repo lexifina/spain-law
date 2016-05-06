@@ -1,0 +1,17 @@
+En el anexo I de la Orden HAP/2222/2014, de 27 de noviembre, por la que se desarrollan para el año 2015 el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido, se aprobaron los signos, índices o módulos aplicables a las actividades agrícolas, ganaderas y forestales que determinen el rendimiento neto de su actividad económica con arreglo a dicho método.
+
+En el artículo 37.4.1.º del Reglamento del Impuesto sobre la Renta de las Personas Físicas, aprobado por el Real Decreto 439/2007, de 30 de marzo, se establece que cuando el desarrollo de actividades económicas, a las que fuese de aplicación el método de estimación objetiva, se viese alterado por incendios, inundaciones u otras circunstancias excepcionales que afectasen a un sector o zona determinada, el Ministro de Hacienda y Administraciones Públicas podrá autorizar, con carácter excepcional, la reducción de los signos, índices o módulos.
+
+A este respecto, el Ministerio de Agricultura, Alimentación y Medio Ambiente ha emitido informe por el que se pone de manifiesto que durante 2015 se han producido circunstancias excepcionales en el desarrollo de actividades agrícolas y ganaderas que aconsejan hacer uso de la autorización contenida en el citado artículo 37.4.1.º del Reglamento del Impuesto sobre la Renta de las Personas Físicas.
+
+De esta forma, en el artículo 1 esta Orden se aprueba la reducción de los índices de rendimiento neto aplicables en 2015 por las actividades agrícolas y ganaderas afectadas por circunstancias excepcionales, las cuales se localizan en determinadas zonas geográficas.
+
+Por razones de una mayor claridad para aplicar esta medida se ha optado por englobar estas reducciones en un anexo, en el cual se agrupan las reducciones por Comunidades Autónomas, Provincias, ámbitos territoriales y actividades.
+
+En segundo lugar, como consecuencia del elevado impacto que ha tenido la sequía en el consumo de piensos durante el período impositivo 2015, el artículo 2 reduce, para dicho ejercicio, el índice corrector por piensos adquiridos a terceros aplicable a las actividades ganaderas, previsto en la instrucción 2.3.d) del anexo I de la citada Orden HAP/2222/2014.
+
+Por su parte, con una finalidad meramente aclaratoria, la disposición final primera modifica el párrafo segundo de la instrucción 2.1 del el anexo I de la mencionada Orden HAP/2222/2014, de 27 de noviembre, con el fin de adaptarse, en los mismos términos que en la Orden HAP/2430/2015, de 12 de noviembre, que desarrolla el método de estimación objetiva para el año 2016, a la nueva terminología de las ayudas de la Política Agraria Común, aplicable desde 2015.
+
+Por último, y sin relación con el contenido principal de la Orden, se incluye una disposición final segunda que modifica el artículo 3.a) de la Orden HAP/572/2015, de 1 de abril. Esta modificación tiene por objeto, de conformidad con los informes emitidos por la Abogacía General del Estado al respecto, alinear este precepto con lo establecido en el artículo 193.3.a) de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, según la redacción dada al mismo en la disposición final cuarta de la Ley Orgánica 3/2015, de 30 de marzo, cuya entrada en vigor se produjo el 1 de abril de 2015, que redujo de 0,22 a 0,18 euros la cuantía de la subvención prevista para gastos de envío directo y personal a los electores de sobres y papeletas electorales o de propaganda y publicidad electoral.
+
+En su virtud, dispongo:
