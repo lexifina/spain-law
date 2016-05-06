@@ -93,6 +93,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 58](a58.md)
 - [Artículo 59](a59.md)
 - [Disposición adicional única](daunica-2.md)
+- [Disposición adicional primera](daprimera.md)
+- [Disposición adicional segunda](dasegunda.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición transitoria tercera](dttercera.md)
