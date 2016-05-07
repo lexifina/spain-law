@@ -8,18 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2016-05-07 by BOE-A-2016-4371. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no](no.md)
-- [preambulo](preambulo.md)
-- [firma](firma.md)
-- [CIRCULAR N](circularn.md)
-- [JUSTIFICACIÓN](justificacion.md)
-- [1](A1.md)
-- [2](A2.md)
-- [3](A3.md)
-- [4](A4.md)
-- [5](A5.md)
-- [6](A6.md)
-- [7](A7.md)
-- [firma-2](firma-2.md)
+- [BOE publisher notice](no.md)
