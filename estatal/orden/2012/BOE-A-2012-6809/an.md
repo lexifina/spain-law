@@ -2,7 +2,7 @@
 
 ## Pruebas físicas y marcas a alcanzar en cada una de ellas para el ingreso en los centros docentes militares de formación y para la superación de los planes de estudios de la enseñanza de formación
 
-## Primero. Escalas de oficiales y de suboficiales de los Cuerpos Generales del Ejército de Tierra, de la Armada, del Ejército del Aire y del Cuerpo de Infantería de Marina de la Armada.
+## Primero. Escalas de oficiales y de suboficiales de los Cuerpos Generales y de los Cuerpos de Intendencia del Ejército de Tierra, de la Armada, del Ejército del Aire y del Cuerpo de Infantería de Marina de la Armada.
 
 1. Se establecen las siguientes pruebas y marcas para superar los procesos de selección y los planes de estudios de la enseñanza de formación.
 
@@ -31,7 +31,7 @@
 
 5. En los procesos de selección por promoción sin exigencia de titulación las marcas a superar para el ingreso y para la superación de los planes de estudios, serán, dependiendo de la escala que se trate, las mismas que figuran en el cuadro del apartado 1 anterior.
 
-## Segundo. Escalas de oficiales de los Cuerpos de Intendencia del Ejército de Tierra, de la Armada y del Ejército del Aire y de oficiales y técnica de oficiales del Cuerpo de Ingenieros Politécnicos del Ejército de Tierra, de Ingenieros de la Armada y del Ejército del Aire. Escalas de oficiales de los Cuerpos Jurídico Militar y Militar de Intervención, Escalas de oficiales y de oficiales enfermeros del Cuerpo Militar de Sanidad y Escalas de oficiales y suboficiales del Cuerpo de Músicas Militares.
+## Segundo. Escalas de oficiales y técnica de oficiales del Cuerpo de Ingenieros Politécnicos del Ejército de Tierra, de Ingenieros de la Armada y del Ejército del Aire. Escalas de oficiales de los Cuerpos Jurídico Militar y Militar de Intervención, Escalas de oficiales y de oficiales enfermeros del Cuerpo Militar de Sanidad y Escalas de oficiales y suboficiales del Cuerpo de Músicas Militares.
 
 1. Se establecen las siguientes pruebas y marcas para superar los procesos de selección y los planes de estudios de la enseñanza de formación:
 
@@ -117,5 +117,7 @@ Se establecen las siguientes pruebas y marcas a alcanzar en cada una de ellas an
 6. Circuito de agilidad (6). Consistirá en medir la agilidad de movimientos del aspirante mediante la realización de un circuito, cuya estructura será la que se determine en la correspondiente convocatoria.
 
 7. Complementaria de resistencia (7). Consistirá en la ejecución de una carrera de 6.000 metros lisos, se podrá realizar en pista de atletismo o sobre otra superficie de suficiente consistencia y en terreno sensiblemente llano, con señales que permitan al alumno el cálculo de la distancia pendiente de completar.
+
+> Se modifica el título de los apartados 1 y 2 los arts. único.3 y 4 de la Orden DEF/675/2016, de 21 de mayo. Ref. BOE-A-2016-4441.
 
 > Se modifican los apartados 1 y 2 por el art. 5. 1 a 3 de la Orden DEF/778/2013, de 29 de abril. Ref. BOE-A-2013-4824.
