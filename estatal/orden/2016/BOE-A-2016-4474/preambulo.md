@@ -1,0 +1,11 @@
+El Real Decreto 589/2005, de 20 de mayo, por el que se reestructuran los órganos colegiados responsables de la Administración electrónica, previó la existencia en cada departamento ministerial de las Comisiones Ministeriales de Administración Electrónica, como instrumentos para la coordinación interna de cada departamento en materia de tecnologías de la información y de Administración electrónica.
+
+En cumplimiento de la disposición transitoria segunda de este real decreto que establecía que su composición y funcionamiento se regularía mediante orden ministerial, y tras la reestructuración de los departamentos ministeriales llevada a cabo por el Real Decreto 1823/2011, de 21 de diciembre, se dicta la Orden ECC/1251/2012, de 13 de junio, por la que se crea la Comisión Ministerial de Administración Electrónica del Ministerio de Economía y Competitividad y se regula su composición y funciones.
+
+Posteriormente, el Real Decreto 806/2014, de 19 de septiembre, sobre organización e instrumentos operativos de las tecnologías de la información y las comunicaciones en la Administración General del Estado y sus Organismos Públicos, elaborado en el contexto del nuevo modelo de gobernanza de las TIC como una de las actuaciones de la CORA, prevé a través de su artículo 7, la creación de las Comisiones Ministeriales de Administración Digital como órganos colegiados de ámbito departamental responsables del impulso y de la coordinación interna en cada departamento en materia de Administración digital y deroga el Real Decreto 589/2005, de 20 de mayo.
+
+La disposición transitoria segunda de este real decreto concede un plazo de cuatro meses desde su entrada en vigor para la aprobación de las correspondientes órdenes ministeriales reguladoras de las Comisiones Ministeriales de Administración Digital.
+
+Así esta orden deroga la Orden ECC/1251/2012, de 13 de junio, y se dicta de acuerdo con la disposición transitoria segunda del propio Real Decreto 806/2014, de 19 de septiembre, y el artículo 40.2 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+En su virtud, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, dispongo:

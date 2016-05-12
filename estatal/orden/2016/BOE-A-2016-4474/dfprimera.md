@@ -1,0 +1,3 @@
+## Disposición final primera. Normativa aplicable.
+
+En lo no previsto por esta orden, la CMAD, en Pleno o Comisión Permanente, se ajustará en su funcionamiento a lo establecido en la sección 3.ª del capítulo II, de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. Hasta la entrada en vigor de dicha Ley, será de aplicación lo establecido en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en la disposición adicional primera de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
