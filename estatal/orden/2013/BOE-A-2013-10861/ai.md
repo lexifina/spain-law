@@ -447,3 +447,5 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2013/249/10861_43396.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2013/249/10861_43477.png)
+
+> Téngase en cuenta que se amplía la oferta de certificados de profesionalidad susceptibles de impartirse en la modalidad de teleformación, quedando constituida dicha oferta por los certificados incluidos en este Anexo y los contenidos en el Anexo de la Orden ESS/722/2016, de 9 de mayo, según establece su art. único. Ref. BOE-A-2016-4636
