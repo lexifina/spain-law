@@ -1,0 +1,11 @@
+Este real decreto, que se dicta en desarrollo de lo previsto en el artículo 81 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, contiene una regulación sobre la devolución de ingresos indebidos de naturaleza pública y privada no tributarios ni aduaneros de la Hacienda Pública estatal.
+
+En concreto, por una parte, regula la devolución de estos ingresos de naturaleza pública cuando sean declarados indebidos en un procedimiento administrativo o judicial de revisión del acto del que dimane la obligación de ingreso. La prolija regulación de esta materia viene exigida por la complejidad de la distribución competencial. Ésta deriva de la necesidad de prever todos los supuestos que pueden surgir de las distintas configuraciones de distribución de competencias de liquidación de estos derechos, de recaudación (tanto en el período voluntario como en el ejecutivo) así como de la titularidad del rendimiento.
+
+Por otra parte, recoge otros supuestos de devolución de ingresos indebidos de naturaleza pública y privada no tributarios ni aduaneros. En concreto, establece el procedimiento para el reconocimiento del derecho a la devolución de ingresos de naturaleza pública y privada y su ejecución en determinados supuestos distintos de la revisión del acto de liquidación. Con ello se colma la laguna existente en la normativa actual en el ámbito de los ingresos no tributarios y se sustituye la aplicación del procedimiento recogido en los artículos 17 y siguientes del Reglamento general de desarrollo de la Ley 58/2003, de 17 de diciembre, General Tributaria, en materia de revisión en vía administrativa, aprobado por el Real Decreto 520/2005, de 13 de mayo, que venía establecida con carácter supletorio en su disposición adicional segunda para el caso en que no existiera regulación específica.
+
+De acuerdo con lo previsto en la disposición final cuarta de la Ley 47/2003, de 26 de noviembre, el desarrollo del artículo 81 corresponde al Gobierno que puede dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de dicha ley.
+
+En su virtud, a propuesta del Ministro de Economía y Competitividad y del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 6 de mayo de 2016,
+
+DISPONGO:
