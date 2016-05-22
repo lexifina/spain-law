@@ -156,4 +156,10 @@ La exención expira en las fechas siguientes:
 
 40. Plomo en cerámica dieléctrica de condensadores con una tensión nominal inferior a 125 V CA o 250 V CC para instrumentos industriales de vigilancia y control. Expira el 31 de diciembre de 2020. Podrá utilizarse después de esa fecha en piezas de repuesto para instrumentos industriales de vigilancia y control introducidos en el mercado antes del 1 de enero de 2021.
 
+41. Plomo como estabilizador térmico en el cloruro de polivinilo (PVC) empleado como material de base en los sensores electroquímicos amperimétricos, potenciométricos y conductimétricos que se utilizan en los productos sanitarios de diagnóstico in vitro para el análisis de sangre y otros gases y fluidos corporales. Expira el 31 de diciembre de 2018.
+
+42. Mercurio en conectores eléctricos rotatorios utilizados en sistemas de obtención de imágenes de ultrasonido intravascular capaces de modos de funcionamiento de alta frecuencia (> 50 MHz). Expira el 30 de junio de 2019.
+
+> Se añaden los apartados 41 y 42 por el art. único de la Orden PRE/772/2016, de 19 de mayo. Ref. BOE-A-2016-4860.
+
 > Se modifica por el art. único.2 de la Orden PRE/1349/2014, de 25 de julio. Ref. BOE-A-2014-7971.
