@@ -1,0 +1,3 @@
+## Tercero.
+
+Se delegan en las Juntas Electorales Provinciales y en las Juntas Electorales de Ceuta y Melilla las competencias reconocidas a la Junta Electoral Central por la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, para la distribución de espacios gratuitos de propaganda electoral en las programaciones regionales de los medios de comunicación de titularidad estatal y de aquellos otros medios de ámbito similar, que tengan también el carácter de públicos; cuando la programación sea de ámbito superior al provincial, la delegación se entiende hecha a favor de la Junta Electoral Provincial en cuyo ámbito territorial radique el medio o el centro emisor.
