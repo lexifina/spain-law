@@ -124,7 +124,7 @@ c) Teniendo en cuenta las instrucciones del fabricante, según lo dispuesto por 
 
 Las empresas conservadoras deberán realizar visitas para el mantenimiento preventivo de los ascensores, al menos, en los siguientes plazos:
 
-5.3.2.1 Ascensores en viviendas unifamiliares y ascensores con velocidad no superior a 0,15 m/s: cada cuatro meses;
+5.3.2.1 Ascensores en viviendas unifamiliares y ascensores puestos en servicio mediante declaración de conformidad CE según el Real Decreto 1644/2008, de 10 de octubre, por el que se establecen las normas para la comercialización y puesta en servicio de las máquinas: cada cuatro meses;
 
 A estos efectos, se entiende por vivienda unifamiliar la situada en parcela independiente que sirve de residencia habitual, permanente o temporal, para una sola familia.
 
@@ -149,6 +149,8 @@ c. accidentes,
 d. reparaciones y cambios de piezas, y
 
 e. modificaciones importantes.
+
+c) Con el fin de facilitar y asegurar la trazabilidad de los componentes de seguridad de una instalación, las empresas conservadoras, deberán reflejar en el "Registro de Mantenimiento" las características de los componentes de seguridad, incluyendo al menos el tipo de componente y su número de tipo, lote o serie o cualquier otro elemento que permita su identificación, que se sustituyan en los ascensores. La incorporación de esta información en el Registro de mantenimiento se hará con carácter permanente, debiendo mantenerse hasta la sustitución del componente de seguridad.
 
 6. Empresas conservadoras de ascensores. Declaración responsable y requisitos.
 
@@ -447,5 +449,7 @@ El anexo VII contiene una lista no exhaustiva de casos particulares, que podrá 
 15. Infracciones y sanciones.
 
 Las infracciones a lo dispuesto en esta instrucción técnica complementaria se clasificarán y sancionarán de acuerdo con lo dispuesto en el título V de la Ley 21/1992, de 16 de julio, de Industria.
+
+> Se modifica el apartado 5.3.2.1 y se añade la letra c) al apartado 5.4 por la disposición final 1 del Real Decreto 203/2016, de 20 de mayo. Ref. BOE-A-2016-4953#dfprimera.
 
 > Redactado el epígrafe 10.2 conforme a la corrección de errores publicada en el BOE núm. 111, de 9 de mayo de 2013. Ref. BOE-A-2013-4827.
