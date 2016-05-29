@@ -122,7 +122,7 @@ c) Personas asintomáticas que han visitado zonas endémicas: se excluirán dura
 
 d) Personas con antecedentes de afección febril no diagnosticada durante una visita a zona endémica o en los seis meses posteriores: se excluirán durante tres años tras la desaparición de los síntomas. Se podrá reducir a cuatro meses si una prueba inmunológica o genómica molecular validada para el diagnóstico de paludismo resulta negativa.
 
-2.1.11 Virus del Nilo Occidental*: exclusión durante 28 días tras abandonar una zona en la que se detectan casos de transmisión a humanos.
+2.1.11 Virus del Nilo Occidental*: exclusión durante 28 días tras abandonar una zona en la que se detectan casos de transmisión a humanos, a menos que se realice una prueba individual de detección del VNO mediante tecnología de amplificación genómica del ácido nucleico –NAT– y su resultado sea negativo.
 
 2.2 Exposición al riesgo de contraer una infección transmisible por transfusión.
 
@@ -191,3 +191,5 @@ d) Marcadores positivos para HTLV I/II.
 2. Exclusión temporal.
 
 2.1 Infección bacteriana activa.
+
+> Se modifica el párrafo 2.1.11 del apartado B por el art. único de la Orden SSI/795/2016, de 24 de mayo. Ref. BOE-A-2016-5050.
