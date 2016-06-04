@@ -26,6 +26,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 13](a13.md)
 - [Artículo 14](a14.md)
 - [Artículo 15](a15.md)
+- [Artículo 15 bis](a15bis.md)
 - [Artículo 16](a16.md)
 - [Disposición adicional primera](daprimera.md)
 - [Disposición adicional segunda](dasegunda.md)

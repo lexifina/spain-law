@@ -18,6 +18,12 @@
 
 9. La Conferencia General de Política Universitaria aprobará los criterios de coordinación, cooperación y reconocimiento mutuo para la participación en el procedimiento a que se refiere este artículo.
 
+10. Las Universidades no podrán tramitar un nuevo título con la misma o equivalente denominación que el título que no ha superado la renovación de la acreditación en los dos años naturales siguientes al momento en que no se superó la renovación de la acreditación.
+
+Esta prohibición también será de aplicación a aquellas titulaciones universitarias que tengan la misma o equivalente denominación que otras titulaciones universitarias que no habiendo seguido el procedimiento de renovación de la acreditación se declaren a extinguir. El plazo de dos años naturales se computará a partir del momento en que se declare la extinción de la titulación universitaria que tendría que haber seguido el procedimiento de renovación de la acreditación.
+
+> Se añade el apartado 10 por la disposición final 1.2 del Real Decreto 195/2016, de 13 de mayo. Ref. BOE-A-2016-5339#df.
+
 > Se modifica por la disposición final 2.2 del Real Decreto 420/2015, de 29 de mayo. Ref. BOE-A-2015-6708.
 
 > Se añade por el art. único.15 del Real Decreto 861/2010, de 2 de julio. Ref. BOE-A-2010-10542.
