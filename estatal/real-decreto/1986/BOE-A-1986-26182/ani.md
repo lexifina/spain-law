@@ -1,84 +1,112 @@
 ## ANEXO I
 
-1. Vehículos automóviles y sus partes y piezas
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_4830.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_4908.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_4981.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_5054.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_5128.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_5201.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_5275.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_5349.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_5424.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_009.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_5498.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_5641.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_5716.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_5789.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_5863.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_5938.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_015.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_6012.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_016.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_6086.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_017.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_6160.png)
 
-2. Vehículos agrícolas o forestales
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_6234.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_018.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_6308.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_019.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_6382.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_020.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_6455.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_021.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_6529.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_022.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_6602.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_023.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_6675.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_024.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_6750.png)
 
-3. Vehículos de 2 ó 3 ruedas y cuatriciclos
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_6824.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_025.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_6903.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_026.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_6979.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_027.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_7053.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_028.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_7128.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_029.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_7203.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_030.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_7276.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_031.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_7350.png)
 
-4. Varios
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_7441.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_032.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_7515.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_033.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_7590.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_034.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_7664.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_035.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_7738.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/8/00182_036.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_7812.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_7887.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_7961.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_8035.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_8108.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_8182.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_8255.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_8328.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_8403.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_8478.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_8553.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_8628.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_8704.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/140/05665_8778.png)
+
+> Se modifica por el art. único de la Orden IET/904/2016, de 2 de junio. Ref. BOE-A-2016-5665.
 
 > Se modifica por la Orden IET/2556/2014, de 26 de diciembre. Ref. BOE-A-2015-182.
 
