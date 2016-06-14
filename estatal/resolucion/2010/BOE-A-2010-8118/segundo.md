@@ -20,4 +20,10 @@ Los apoderamientos a los que se refiere esta Resolución surtirán efecto desde 
 
 3. En cualquier momento el apoderado podrá renunciar al apoderamiento siempre que acredite que antes de presentar a la Agencia Tributaria su renuncia se ha comunicado de manera fehaciente al representado, no produciéndose hasta entonces su baja en el Registro.
 
+4. También se incorporarán al Registro los apoderamientos otorgados por las Administraciones públicas a favor de sus empleados públicos para mantener actualizado su censo de empleados públicos autorizados a realizar trámites a través de Internet en representación de los obligados tributarios.
+
+En el documento de acreditación del apoderamiento se identificará a la Administración pública otorgante y a los empleados públicos a cuyo favor se otorga el apoderamiento, debiendo constar la firma de la autoridad competente por razón de la materia.
+
+> Se modifica por el apartado 1.2 de la Resolución de 8 de junio de 2016. Ref. BOE-A-2016-5737.
+
 > Se modifica el punto 3 por el apartado 1.1 de la Resolución de 24 de enero de 2012. Ref. BOE-A-2012-1577.
