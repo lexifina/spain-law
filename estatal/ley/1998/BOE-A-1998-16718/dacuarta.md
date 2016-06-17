@@ -12,6 +12,12 @@ Serán recurribles:
 
 5. Los actos y disposiciones dictados por la Agencia Española de Protección de Datos, Comisión Nacional de los Mercados y la Competencia, Consejo Económico y Social, Instituto Cervantes, Consejo de Seguridad Nuclear, Consejo de Universidades y Sección Segunda de la Comisión de Propiedad Intelectual, directamente, ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
 
+6. Las resoluciones del Ministro de Economía y Competitividad que resuelvan recursos de alzada contra actos dictados por el Instituto de Contabilidad y Auditoría de Cuentas, así como las resoluciones de carácter normativo dictadas por el Instituto de Contabilidad y Auditoría de Cuentas directamente, en única instancia, ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
+
+> Téngase en cuenta que el apartado 6, añadido por la disposición final 3 de la Ley 22/2015, de 20 de julio. Ref. BOE-A-2015-8147#dftercera., entra en vigor el 17 de junio de 2016, según establece la disposición final 14 de la citada Ley.
+
+> Se añade el apartado 6 por la disposición final 3 de la Ley 22/2015, de 20 de julio. Ref. BOE-A-2015-8147#dftercera.
+
 > Se deroga el apartado 7 y se modifica el apartado 5 por la disposición derogatoria y la disposición final 2, respectivamente, de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.
 
 > Se modifica el apartado 5 por la disposición final 2 del Real Decreto-ley 11/2011, de 26 de agosto. Ref. BOE-A-2011-14221.
