@@ -2,6 +2,8 @@
 
 | Especie | Ámbito de aplicación | Nombre común |
 | --- | --- | --- |
+| Hongos |
+| Batrachocytrium dendrobatidis |  | Quitridio |
 | Algas |
 | Acrothamnion preissii (Sonder) Wollaston. |  |  |
 | Asparagopsis armata (Harvey, 1855). |  |  |
@@ -15,6 +17,7 @@
 | Lophocladia lallemandii (Montagne) F. Schmitz 1893. |  |  |
 | Sargassum muticum [(Yendo) Fensholt, 1955]. |  |  |
 | Stypopodium schimperi [(Buchinger ex Kützing) Verlaque & Boudouresque, 1991]. |  |  |
+| Undaria pinnatifida |  | Wakame |
 | Womersleyella setacea (Hollenberg) R. E. Norris 1992. |  |  |
 | Flora |
 | Acacia dealbata Link. | Excepto Canarias y Baleares. | Mimosa, acacia, acacia francesa. |
@@ -54,6 +57,7 @@
 | Fallopia japonica (Houtt.) (= Reynoutria japonica Houtt.). |  | Hierba nudosa japonesa. |
 | Furcraea foetida (L.) Haw. | Canarias. | Pitera abierta. |
 | Hedychium gardnerianum Shepard ex Ker Gawl. |  | Jengibre blanco. |
+| Helianthus tuberosus |  | Pataca o tupinambo. |
 | Heracleum mantegazzianum Somm. & Lev. |  | Perejil gigante. |
 | Hydrocotyle ranunculoides L. f. |  | Redondita de agua. |
 | Ipomoea indica (Burn). | Canarias y Baleares. | Campanilla morada, batatilla de Indias. |
@@ -132,6 +136,7 @@
 | Peces |
 | Alburnus alburnus (Linnaeus, 1758). |  | Alburno. |
 | Ameiurus melas (Rafinesque, 1820). |  | Pez gato negro. |
+| Cyprinus carpio |  | Carpa o carpa común. |
 | Channa spp. |  | Pez Cabeza de Serpiente del norte. |
 | Esox lucius Linnaeus, 1758. |  | Lucio. |
 | Fundulus heteroclitus (Linnaeus, 1766). |  | Fúndulo, Pez momia. |
@@ -141,6 +146,7 @@
 | Lepomis gibbosus (Linnaeus, 1758). |  | Percasol, pez sol. |
 | Micropterus salmoides (Lacépède, 1802). |  | Perca americana. |
 | Misgurnus anguillicaudatus (Cantor, 1842). |  | Dojo. |
+| Oncorhynchus mykiss |  | Trucha Arco Iris. |
 | Perca fluviatilis Linnaeus, 1758. |  | Perca de río. |
 | Pseudorasbora parva (Temminck et Schlegel, 1846). |  | Pseudorasbora. |
 | Pterois volitans (Linnaeus, 1758). |  | Pez escorpión, pez león. |
@@ -178,7 +184,7 @@
 | Streptopelia roseogrisea (Sundevall, 1857). |  | Tórtola rosígris. |
 | Threskiornis aethiopicus (Latham, 1790). |  | Ibis sagrado. |
 | Mamíferos |
-| Ammotragus lervia (Pallas, 1777). | Excepto la población de Murcia. | Arruí. |
+| Ammotragus lervia (Pallas, 1777). |  | Arruí. |
 | Atelerix albiventris (Wagner, 1841). |  | Erizo pigmeo africano. |
 | Hemiechinus auritus (Gmelin, 1770). |  | Erizo egipcio u orejudo. |
 | Herpestes javanicus (É. Geoffroy Saint-Hilaire, 1818). |  | Mangosta pequeña asiática. |
@@ -200,4 +206,6 @@
 
 1 Excepto Sciurus vulgaris.
 
-> Se declara nula la inclusión de la especie de flora Nicotiana glauca Graham o tabaco moruno por Sentencia TS de 21 de enero de 2015. Ref. BOE-A-2015-5485.
+> Se declara la nulidad de la exclusión en el Catálogo de las especies Batrachocytrium dendrobatidis, Udaria pinnatifida, Helianthus tuberosus, Cyprinus carpio y Oncorhynchus mykiss, debiendo quedar incluidas, así como la exclusión de la población murciana del bóvido Ammotragus lervia, debiendo quedar dicha especie incluida sin excepciones, por Sentencia del TS de 16 de marzo de 2016. Ref. BOE-A-2016-5901.
+
+> Se declara nula la inclusión de la especie de flora Nicotiana glauca Graham o tabaco moruno por Sentencia del TS de 21 de enero de 2015. Ref. BOE-A-2015-5485.
