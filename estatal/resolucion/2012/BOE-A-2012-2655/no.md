@@ -1,0 +1,1 @@
+Téngase en cuenta que el V Acuerdo sobre solución autónoma de conflictos laborales se ha denunciado por Acuerdo de 23 de junio de 2016, publicado por Resolución de la Dirección General de Empleo de 8 de julio de 2016, Ref. BOE-A-2016-7043, si bien se extiende su vigencia durante todo el tiempo que duren las negociaciones hasta que se alcance el nuevo Acuerdo.
