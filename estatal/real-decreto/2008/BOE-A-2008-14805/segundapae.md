@@ -128,9 +128,11 @@ En ningún caso se reconocerán como inmovilizados intangibles los gastos ocasio
 
 2. Valoración posterior.
 
-La entidad apreciará si la vida útil de un inmovilizado intangible es definida o indefinida. Un inmovilizado intangible tendrá una vida útil indefinida cuando, sobre la base de un análisis de todos los factores relevantes, no haya un límite previsible del período a lo largo del cual se espera que el activo genere entradas de flujos netos de efectivo para la entidad.
+Los inmovilizados intangibles son activos de vida útil definida y, por lo tanto, deberán ser objeto de amortización sistemática en el periodo durante el cual se prevé, razonablemente, que los beneficios económicos inherentes al activo produzcan rendimientos para la empresa.
 
-Un elemento de inmovilizado intangible con una vida útil indefinida no se amortizará, aunque deberá analizarse su eventual deterioro siempre que existan indicios del mismo y al menos anualmente. La vida útil de un inmovilizado intangible que no esté siendo amortizado se revisará cada ejercicio para determinar si existen hechos y circunstancias que permitan seguir manteniendo una vida útil indefinida para ese activo. En caso contrario, se cambiará la vida útil de indefinida a definida, procediéndose según lo dispuesto en relación con los cambios en la estimación contable, salvo que se tratara de un error.
+Cuando la vida útil de estos activos no pueda estimarse de manera fiable se amortizarán en un plazo de diez años, sin perjuicio de los plazos establecidos en las normas particulares sobre el inmovilizado intangible.
+
+En todo caso, al menos anualmente, deberá analizarse si existen indicios de deterioro de valor para, en su caso, comprobar su eventual deterioro.
 
 5ª Normas particulares sobre el inmovilizado intangible.
 
@@ -150,13 +152,19 @@ b) Propiedad industrial. Se contabilizarán en este concepto, los gastos de desa
 
 c) Fondo de comercio. Sólo podrá figurar en el activo, cuando su valor se ponga de manifiesto en virtud de una adquisición onerosa, en el contexto de una combinación de negocios.
 
-Su importe se determinará de acuerdo con lo indicado en la norma relativa a combinaciones de negocios y deberá asignarse desde la fecha de adquisición entre cada una de las unidades generadoras de efectivo o grupos de unidades generadoras de efectivo de la entidad, sobre los que se espere que recaigan los beneficios de las sinergias de la combinación de negocios.
+Su importe se determinará de acuerdo con lo indicado en la norma relativa a combinaciones de negocios y deberá asignarse desde la fecha de adquisición entre cada una de las unidades generadoras de efectivo de la empresa, sobre las que se espere que recaigan los beneficios de las sinergias de la combinación de negocios.
 
-El fondo de comercio no se amortizará. En su lugar, las unidades generadoras de efectivo o grupos de unidades generadoras de efectivo a las que se haya asignado el fondo de comercio, se someterán, al menos anualmente, a la comprobación del deterioro del valor, procediéndose, en su caso, al registro de la corrección valorativa por deterioro, de acuerdo con lo indicado en el apartado 2.2 de la norma relativa al inmovilizado material e inversiones inmobiliarias.
+Con posterioridad al reconocimiento inicial, el fondo de comercio se valorará por su precio de adquisición menos la amortización acumulada y, en su caso, el importe acumulado de las correcciones valorativas por deterioro reconocidas.
+
+El fondo de comercio se amortizará durante su vida útil. La vida útil se determinará de forma separada para cada unidad generadora de efectivo a la que se le haya asignado fondo de comercio.
+
+Se presumirá, salvo prueba en contrario, que la vida útil del fondo de comercio es de diez años y que su recuperación es lineal.
+
+Además, al menos anualmente, se analizará si existen indicios de deterioro de valor de las unidades generadoras de efectivo a las que se haya asignado un fondo de comercio, y, en caso de que los haya, se comprobará su eventual deterioro de valor de acuerdo con lo indicado en el apartado 2.2 de la norma relativa al inmovilizado material e inversiones inmobiliarias.
 
 Las correcciones valorativas por deterioro reconocidas en el fondo de comercio no serán objeto de reversión en los ejercicios posteriores.
 
-Cuando se trate de una cesión de cartera, la entidad aseguradora adquirente medirá, por su valor razonable los activos que haya adquirido y, conforme a la norma relativa a los contratos de seguros los pasivos asumidos. El exceso del precio convenido sobre la diferencia entre el valor de dichos activos y pasivos, tal y como queda delimitado en la norma de registro y valoración 18ª relativa a «combinaciones de negocios», se reconocerá como fondo de comercio.
+Cuando se trate de una cesión de cartera, la entidad aseguradora adquirente medirá, por su valor razonable los activos que haya adquirido y, conforme a la norma relativa a los contratos de seguros los pasivos asumidos. El exceso del precio convenido sobre la diferencia entre el valor de dichos activos y pasivos, tal y como queda delimitado en la norma de registro y valoración 18.ª relativa a “combinaciones de negocios”, se reconocerá como fondo de comercio.
 
 d) Derechos económicos derivados de carteras de pólizas adquiridas a un mediador. Se activará como inmovilizado intangible el importe satisfecho en la adquisición, amortizándose de modo sistemático, en función del mantenimiento de los contratos de dicha cartera y del patrón de consumo esperado de los beneficios económicos futuros derivados de la misma. Deberán quedar adecuadamente justificadas y suficientemente contrastadas las hipótesis utilizadas en el momento de la activación. El importe activado estará sujeto al régimen general de deterioro previsto para los inmovilizados intangibles, sin que su importe pueda ser objeto de reversión.
 
@@ -1703,6 +1711,8 @@ En todo caso, en la formulación de las cuentas anuales deberá tenerse en cuent
 Se entenderá por estados intermedios al conjunto de la información financiera que se refiera a un período contable inferior al ejercicio económico anual de la entidad. Tendrán tal carácter, los elaborados para el ejercicio de la supervisión financiera.
 
 A las correcciones valorativas por deterioro: (i) del fondo de comercio, (ii) de los derechos económicos derivados de carteras de pólizas adquiridas a un mediador, (iii) de las inversiones en instrumentos de patrimonio incluidas en la categoría de activos financieros disponibles para la venta y (iv) de los activos financieros valorados al coste distintos de las inversiones en el patrimonio de entidades del grupo, multigrupo y asociadas, que hubiesen sido reconocidos en los estados financieros intermedios, se les aplicará el régimen contable que disponen las normas de registro y valoración correspondientes a efectos de su posible reversión.
+
+> Se modifican las normas de registro y valoración 4ª, apartado 2 y 5ª, letra c) por el art. 2.1 y 2 del Real Decreto 583/2017, de 12 de junio, con efectos desde el 1 de enero de 2016 en los términos establecidos en su disposición adicional única. Ref. BOE-A-2017-7167
 
 > Se modifican las normas de registro y valoración 2.ª, 8.ª y 9.ª por la disposición final 5.5 a 7 del Real Decreto 1060/2015, de 20 de noviembre. Ref. BOE-A-2015-13057#dfquinta.
 

@@ -377,9 +377,9 @@ Las entidades aseguradoras registrarán las operaciones realizadas por sus sucur
 | 2101, 2111, 212, 215, 216, 217, 218, 219, 23, (281), (291) | I. | Inmovilizado material |
 | 2102, 2112, (282), (292) | II. | Inversiones inmobiliarias |
 |  | A-10) Inmovilizado intangible |
-| 204 | I. | Fondo de comercio |
+| 204, 2801 | I. | Fondo de comercio |
 | 207 | II. | Derechos económicos derivados de carteras de pólizas adquiridas a mediadores |
-| 200, 201, 202, 203, 205, 206, 209, (280), (290) | III. | Otros activos intangible |
+| 200, 201, 202, 203, 205, 206, 209, (2807), (290) | III. | Otro inmovilizado intangible |
 |  | A-11) Participaciones en entidades del grupo y asociadas |
 | 2404, (2494), (2934) | I. | Participaciones en empresas asociadas |
 | 2404, (2494), (2934) | II. | Participaciones en empresas multigrupo |
@@ -395,7 +395,7 @@ Las entidades aseguradoras registrarán las operaciones realizadas por sus sucur
 | 580, 581, 582, 583, (599) | A-14) Activos mantenidos para venta |
 |  | TOTAL ACTIVO |
 
-(*) Los números de cuentas incluidos en cada rúbrica del activo tienen carácter orientativo.
+(*) Los números de cuenta incluidos en cada rúbrica del activo son orientativos.
 
 |  | PASIVO Y PATRIMONIO NETO |
 | --- | --- |
@@ -914,11 +914,9 @@ Se indicarán los criterios contables aplicados en relación con las siguientes 
 
 1. Inmovilizado intangible; indicando los criterios utilizados de capitalización o activación, amortización y correcciones valorativas por deterioro.
 
-Justificación de las circunstancias que han llevado a calificar como indefinida la vida útil de un inmovilizado intangible.
+En su caso, deberá indicarse de forma detallada el criterio de valoración seguido para calcular el importe recuperable de las unidades generadoras de efectivo a las que se haya asignado el fondo de comercio y de los gastos de cesión de cartera.
 
-En particular, deberá indicarse de forma detallada el criterio de valoración seguido para calcular el valor recuperable del fondo de comercio y de los gastos de cesión de cartera, así como del resto de inmovilizados intangibles con vida útil indefinida.
-
-En todo caso, para los derechos económicos derivados de carteras de pólizas adquiridas a un mediador, deberá quedar adecuadamente justificado el período de amortización estimado de acuerdo a lo dispuesto en la norma de registro y valoración relativa al inmovilizado intangible.
+En todo caso, para los derechos económicos derivados de carteras de pólizas adquiridas a un mediador, deberá quedar adecuadamente justificado el periodo de amortización estimado de acuerdo a lo dispuesto en la norma de registro y valoración relativa al inmovilizado intangible.
 
 2. Inmovilizado material e inversiones inmobiliarias; indicando los criterios sobre amortización, correcciones valorativas por deterioro y reversión de las mismas, capitalización de gastos financieros, costes de ampliación, modernización y mejoras, costes de desmantelamiento o retiro, así como los costes de rehabilitación del lugar donde se asiente un activo y los criterios sobre la determinación del coste de los trabajos efectuados por la entidad para su inmovilizado.
 
@@ -1136,7 +1134,7 @@ n) El resultado del ejercicio derivado de la enajenación o disposición por otr
 
 o) El importe agregado de los desembolsos por investigación y desarrollo que se hayan reconocido como gastos durante el ejercicio, así como la justificación de las circunstancias que soportan la capitalización de gastos de investigación y desarrollo.
 
-p) Se detallarán los inmovilizados con vida útil indefinida distintos del fondo de comercio y de los contemplados en el epígrafe 7.3 de la memoria, señalando su importe, naturaleza y las razones sobre las que se apoya la estimación de dicha vida útil indefinida.
+p) Se detallarán los inmovilizados cuya vida útil no se puede determinar con fiabilidad, señalando su importe, naturaleza y las circunstancias que provocan la falta de fiabilidad en la estimación de dicha vida útil.
 
 q) Cualquier otra circunstancia de carácter sustantivo que afecte al inmovilizado intangible tales como: arrendamientos, seguros, litigios, embargos y situaciones análogas.
 
@@ -1152,7 +1150,7 @@ Esta información también deberá expresarse para las combinaciones de negocios
 
 2. La empresa realizará una conciliación entre el importe en libros del fondo de comercio al principio y al final del ejercicio, mostrando por separado:
 
-a) El importe bruto del mismo y las correcciones valorativas por deterioro acumuladas al principio del ejercicio.
+a) El importe bruto del mismo, las amortizaciones practicadas y las correcciones valorativas por deterioro acumuladas al principio del ejercicio.
 
 b) El fondo de comercio adicional reconocido durante el periodo, diferenciando el fondo de comercio incluido en un grupo enajenable de elementos que se haya clasificado como mantenido para la venta, de acuerdo con las normas de registro y valoración. Asimismo se informará sobre el fondo de comercio dado de baja durante el periodo sin que hubiera sido incluido previamente en ningún grupo enajenable de elementos clasificado como mantenido para la venta.
 
@@ -1160,9 +1158,11 @@ c) Las correcciones valorativas por deterioro reconocidas durante el ejercicio.
 
 d) Cualesquiera otros cambios en el importe en libros durante el ejercicio, y
 
-e) El importe bruto del fondo de comercio y las correcciones valorativas por deterioro acumuladas al final del ejercicio.
+e) El importe bruto del fondo de comercio, las amortizaciones practicadas y las correcciones valorativas por deterioro acumuladas al final del ejercicio.
 
-3. Descripción de los factores que hayan contribuido al registro del fondo de comercio así como, se justificará e indicará el importe del fondo de comercio y de otros inmovilizados intangibles de vida útil indefinida, atribuidos a cada unidad generadora de efectivo.
+3. Descripción de los factores que hayan contribuido al registro del fondo de comercio y justificación e importe del fondo de comercio y de otros inmovilizados intangibles atribuidos a cada unidad generadora de efectivo.
+
+En particular se informará sobre las estimaciones realizadas para determinar la vida útil del fondo de comercio y el método de amortización empleado.
 
 4. Para cada pérdida por deterioro de cuantía significativa del fondo de comercio, se informará de lo siguiente:
 
@@ -2000,11 +2000,13 @@ r) Todas aquéllas que afecten o se refieran a bienes y derechos aptos para la c
 
 5. No será necesario informar en el caso de operaciones que, perteneciendo al tráfico ordinario de la entidad, se efectúen en condiciones normales de mercado, sean de escasa importancia cuantitativa y carezcan de relevancia para expresar la imagen fiel del patrimonio, de la situación financiera y de los resultados de la entidad.
 
-6. No obstante, en todo caso deberá informarse sobre el importe de los sueldos, dietas y remuneraciones de cualquier (dinerarias o en especie) clase devengados en el curso del ejercicio por el personal de alta dirección y los miembros del órgano de administración, cualquiera que sea su causa, así como de las obligaciones contraídas en materia de pensiones o de pago de primas de seguros de vida respecto de los miembros antiguos y actuales del órgano de administración y personal de alta dirección. Asimismo, se incluirá información sobre indemnizaciones por cese y pagos basados en instrumentos de patrimonio. Cuando los miembros del órgano de administración sean personas jurídicas, los requerimientos anteriores se referirán a las personas físicas que los representen. Estas informaciones se podrán dar de forma global por concepto retributivo, recogiendo separadamente los correspondientes al personal de alta dirección de los relativos a los miembros del órgano de administración.
+6. No obstante, en todo caso deberá informarse sobre el importe de los sueldos, dietas y remuneraciones de cualquier clase devengados en el curso del ejercicio por el personal de alta dirección y los miembros del órgano de administración, cualquiera que sea su causa, así como de las obligaciones contraídas en materia de pensiones o de pago de primas de seguros de vida respecto de los miembros antiguos y actuales del órgano de administración y personal de alta dirección. Asimismo, se incluirá información sobre indemnizaciones por cese y pagos basados en instrumentos de patrimonio. Estos requerimientos serán aplicables igualmente cuando los miembros del órgano de administración sean personas jurídicas, en cuyo caso, además de informar de la retribución satisfecha a la persona jurídica administradora, esta última deberá informar en sus cuentas anuales de la concreta remuneración que corresponde a la persona física que la represente. Estas informaciones se podrán dar de forma global por concepto retributivo, recogiendo separadamente los correspondientes al personal de alta dirección de los relativos a los miembros del órgano de administración.
 
-También deberá informarse sobre el importe de los anticipos y créditos concedidos al personal de alta dirección y a los miembros de los órganos de administración, con indicación del tipo de interés, sus características esenciales y los importes eventualmente devueltos, así como las obligaciones asumidas por cuenta de ellos a título de garantía. Cuando los miembros del órgano de administración sean personas jurídicas, los requerimientos anteriores se referirán a las personas físicas que los representen. Estas informaciones se podrán dar de forma global por cada categoría, recogiendo separadamente los correspondientes al personal de alta dirección de los relativos a los miembros del órgano de administración.
+En el caso de que la empresa hubiera satisfecho, total o parcialmente, la prima del seguro de responsabilidad civil de todos los administradores o de alguno de ellos por daños ocasionados por actos u omisiones en el ejercicio del cargo, se indicará expresamente con indicación de la cuantía de la prima.
 
-7. Las entidades que se organicen bajo la forma jurídica de sociedad anónima, deberán especificar la participación de los administradores en el capital de otra sociedad con el mismo, análogo o complementario género de actividad al que constituya el objeto social, así como los cargos o las funciones que en ella ejerzan, así como la realización por cuenta propia o ajena, del mismo, análogo o complementario género de actividad del que constituya el objeto social de la entidad.
+También deberá informarse sobre el importe de los anticipos y créditos concedidos al personal de alta dirección y a los miembros de los órganos de administración, con indicación del tipo de interés, sus características esenciales y los importes eventualmente devueltos, así como las obligaciones asumidas por cuenta de ellos a título de garantía. Estos requerimientos serán aplicables igualmente cuando los miembros del órgano de administración sean personas jurídicas, en cuyo caso además de informar de los anticipos y créditos concedidos a la persona jurídica administradora, esta última deberá informar en sus cuentas anuales de la concreta participación que corresponde a la persona física que la represente. Estas informaciones se podrán dar de forma global por cada categoría, recogiendo separadamente los correspondientes al personal de alta dirección de los relativos a los miembros del órgano de administración.
+
+7. Las empresas que se organicen bajo la forma jurídica de sociedad anónima o sociedad anónima europea deberán informar de las situaciones de conflicto de interés en que incurran los administradores o las personas vinculadas a ellos, en los términos regulados en el artículo 229 del texto refundido de la Ley de Sociedades de Capital.
 
 8. En el caso de pertenecer a un grupo de entidades, se describirá la estructura financiera del grupo.
 
@@ -2015,6 +2017,8 @@ Se incluirá información sobre:
 1. El número medio de personas empleadas en el curso del ejercicio, expresado por categorías.
 
 La distribución por sexos al término del ejercicio del personal de la sociedad, desglosado en un número suficiente de categorías y niveles, entre los que figurarán el de altos directivos y el de consejeros.
+
+El número medio de personas empleadas en el curso del ejercicio con discapacidad mayor o igual al treinta y tres por ciento, indicando las categorías a que pertenecen.
 
 2. Las sociedades que hayan emitido valores admitidos a cotización en un mercado regulado de cualquier Estado miembro de la Unión Europea, y que de acuerdo con la normativa en vigor, únicamente publiquen cuentas anuales individuales, vendrán obligadas a informar sobre las principales variaciones que se originarían en el patrimonio neto y en la cuenta de pérdidas y ganancias si se hubieran aplicado las normas internacionales de información financiera adoptadas por los Reglamentos de la Unión Europea, indicando los criterios de valoración que hayan aplicado.
 
@@ -2033,6 +2037,8 @@ Se entiende por sociedad de mayor activo aquella que en el momento de su incorpo
 Además, en el caso de que la entidad pertenezca a un grupo sujeto a supervisión, de acuerdo a lo previsto en el artículo 132 de la Ley 20/2015, de 14 de julio, se indicará el nombre del grupo y el de la entidad obligada a presentar la información a efectos de supervisión en la Dirección General de Seguros y Fondos de Pensiones, el ámbito de aplicación de la supervisión de grupo, el objeto social de las entidades incluidas en el mismo, el método de cálculo de la solvencia del grupo y el método de valoración aplicado a cada entidad del grupo.
 
 Asimismo, se facilitará información sobre la sujeción del grupo a lo dispuesto en la Ley 5/2005, de 22 de abril, de supervisión de los conglomerados financieros y por la que se modifican otras leyes del sector financiero y en el Real Decreto 1332/2005, de 11 de noviembre, que desarrolla la anterior, por concurrir en el mismo las circunstancias previstas en las citadas normas a efectos de su constitución como conglomerado financiero o grupo mixto no consolidable.
+
+8. La conclusión, la modificación o la extinción anticipada de cualquier contrato entre una sociedad mercantil y cualquiera de sus socios o administradores o persona que actúe por cuenta de ellos, cuando se trate de una operación ajena al tráfico ordinario de la sociedad o que no se realice en condiciones normales.
 
 25. Información segmentada.
 
@@ -2143,165 +2149,9 @@ Sólo para ramos en los que las primas emitidas superen los 2.000.000 de euros; 
 
 B. CONTENIDO DE LA MEMORIA ABREVIADA.
 
-En la memoria abreviada se incluirán los desgloses de información requeridos en los apartados que a continuación se precisan referidos al contenido de la memoria normal:
+(Suprimido)
 
-"1. Actividad de la entidad.
-
-2. Bases de presentación de las cuentas anuales.
-
-3. Aplicación de resultados.
-
-4. Normas de registro y valoración.
-
-8. Comisiones activadas y otros gastos de adquisición activados.
-
-11. Moneda Extranjera.
-
-13. Ingresos y gastos.
-
-14. Provisiones y contingencias.
-
-15. Información sobre medio ambiente.
-
-16. Retribuciones a largo plazo al personal.
-
-17. Transacciones con pagos basados en instrumentos de patrimonio.
-
-18. Subvenciones, donaciones y legados.
-
-19. Combinaciones de negocios.
-
-20. Negocios conjuntos.
-
-21. Activos en venta y operaciones interrumpidas.
-
-22. Hechos posteriores al cierre.
-
-23. Operaciones con partes vinculadas.
-
-24. Otra información.
-
-25. Información segmentada."
-
-En lo que al resto de apartados se refiere, en la memoria abreviada se cumplimentará y detallará la información que se establece a continuación.
-
-– Referente a los apartados 5, 6 y 7, relativos al inmovilizado material, inversiones inmobiliarias e inmovilizado intangible:
-
-1. Análisis del movimiento durante el ejercicio de cada uno de estos epígrafes del balance y de sus correspondientes amortizaciones acumuladas y correcciones valorativas por deterioro de valor acumuladas; indicando lo siguiente:
-
-a. Saldo inicial.
-
-b. Entradas.
-
-c. Salidas.
-
-d. Saldo final.
-
-En particular, se detallarán los inmovilizados intangibles con vida útil indefinida y las razones sobre las que se apoya la estimación de dicha vida útil indefinida.
-
-También se especificará la información relativa a inversiones inmobiliarias, incluyéndose además una descripción de las mismas.
-
-Si hubiera algún epígrafe significativo, por su naturaleza o por su importe, se facilitará la pertinente información adicional.
-
-2. Sobre el fondo de comercio y los gastos de adquisición de carteras y de derechos económicos derivados de carteras de pólizas adquiridas a un mediador, las principales hipótesis y parámetros que hayan servido de base para su estimación y que justifique los importes por el que figuran en el balance.
-
-– Referente al apartado 9, relativo a arrendamientos y otras operaciones de naturaleza similar:
-
-1. Sobre los arrendamientos financieros y otras operaciones de naturaleza similar, se precisará, de acuerdo con las condiciones del contrato, coste del bien en origen, duración del contrato, años transcurridos, cuotas satisfechas en años anteriores y en el ejercicio, cuotas pendientes y, en su caso, valor de la opción de compra.
-
-2. Sobre los arrendamientos operativos, se precisarán sus aspectos más significativos, tanto jurídicos como económicos.
-
-– Referente al apartado 10, relativo a los instrumentos financieros:
-
-1. Se revelará el valor en libros, con referencia a cada una de las categorías de activos financieros y pasivos financieros señalados en la norma de registro y valoración relativa a los instrumentos financieros, de los distintos instrumentos financieros en cada una de ellas incluidos, agrupados por tipologías, informando de la variación respecto al ejercicio anterior. Se detallarán los instrumentos financieros cuyo riesgo de inversión es asumido por los tomadores de seguros, inversiones afectas a operaciones preparatorias de contratos de seguros y los vinculados a participación en beneficios de los tomadores. Se dará cumplimiento a los cuadros descriptivos previstos en los apartados a.1) y a.2) del epígrafe 10.2.1.
-
-2. Además, con relación a los pasivos financieros, se informará de su importe, vencimiento, garantías e intereses y, respecto al importe disponible en las líneas de descuento, así como las pólizas de crédito concedidas a la entidad con sus límites respectivos, precisando la parte dispuesta.
-
-3. Se deberá suministrar toda la información acerca de los traspasos o reclasificaciones entre las diferentes categorías de activos financieras que se hayan producido en el ejercicio. En particular, se informará sobre los importes de dicha reclasificación por cada categoría de instrumentos financieros y se incluirá una justificación de la misma.
-
-4. Se presentará para cada clase de activos financieros, un análisis del movimiento de las cuentas correctoras representativas de las pérdidas por deterioro originadas por el riesgo de crédito.
-
-5. Cuando los activos financieros se hayan valorado por su valor razonable, se indicará:
-
-a) Si el valor razonable se determina, en su totalidad o en parte, tomando como referencia los precios cotizados en mercados activos o se estiman utilizando modelos y técnicas de valoración. En este último caso, se señalarán los principales supuestos en que se basan los citados modelos y técnicas de valoración.
-
-b) Por categoría de activos financieros, el valor razonable, las variaciones en el valor registradas, en su caso, en la cuenta de pérdidas y ganancias, así como las consignadas directamente en el patrimonio neto.
-
-c) Con respecto a los instrumentos financieros derivados, distintos de los que se califiquen como instrumentos de cobertura, se informará sobre la naturaleza de los instrumentos y las condiciones importantes que puedan afectar al importe, al calendario y a la certidumbre de los futuros flujos de efectivo.
-
-6. Empresas del grupo, multigrupo y asociadas.
-
-a) Denominación, domicilio y forma jurídica de las entidades del grupo, especificando para cada una de ellas:
-
-– Actividades que ejercen.
-
-– Fracción de capital y de los derechos de voto que se posee directa e indirectamente, distinguiendo entre ambos.
-
-– Importe del capital, reservas, otras partidas del patrimonio neto y resultado del último ejercicio, diferenciando el resultado de explotación.
-
-– Valor según libros de la participación en capital.
-
-– Dividendos recibidos en el ejercicio.
-
-– Indicación de si las acciones cotizan o no en Bolsa y, en su caso, cotización media del último trimestre del ejercicio y cotización al cierre del ejercicio.
-
-b) La misma información que la del punto anterior respecto de las entidades multigrupo, asociadas, aquellas en las que aún poseyendo más del 20% del capital la entidad no se ejerza influencia significativa y aquellas en las que la sociedad sea socio colectivo. Asimismo, se informará sobre las contingencias en las que se haya incurrido en relación con dichas entidades. Si la entidad ejerce influencia significativa sobre otra poseyendo un porcentaje inferior al 20% del capital o si poseyendo más del 20% del capital no se ejerce influencia significativa, se explicarán las circunstancias que afectan a dichas relaciones.
-
-c) Se detallarán las adquisiciones realizadas durante el ejercicio que hayan llevado a calificar a una entidad como dependiente, indicándose la fracción de capital y el porcentaje de derechos de voto adquiridos.
-
-d) Notificaciones efectuadas, en cumplimiento de lo dispuesto en el artículo 86 del Texto Refundido de la Ley de Sociedades Anónimas, a las sociedades participadas, directa o indirectamente, en más de un 10%.
-
-e) Importe de las correcciones valorativas por deterioro registradas en las distintas participaciones, diferenciando las reconocidas en el ejercicio de las acumuladas. Asimismo se informará, en su caso, sobre las dotaciones y reversiones de las correcciones valorativas por deterioro cargadas y abonadas, respectivamente, contra la partida del patrimonio neto que recoja los ajustes valorativos, en los términos indicados en la norma de registro y valoración.
-
-f) Desgloses de información requeridos en la letra g) del epígrafe 10.2.3.c) del modela normal.
-
-7. Los desgloses sobre otro tipo de información recogida en el apartado 10.2.3.d) y la información sobre la naturaleza y el nivel de riesgo procedente de instrumentos financieros recogida en el apartado 10.3 ambos del modelo normal de la memoria.
-
-8. Fondos propios:
-
-a) Cuando existan varias clases de acciones en el capital, se indicará el número y el valor nominal de cada una de ellas, distinguiendo por clases, así como los derechos otorgados a las mismas y las restricciones que puedan tener. También, en su caso, se indicará para cada clase los desembolsos pendientes, así como la fecha de exigibilidad. Esta misma información se requerirá respecto a otros instrumentos de patrimonio distintos del capital.
-
-b) Circunstancias específicas que restringen la disponibilidad de las reservas.
-
-c) Número, valor nominal y precio medio de adquisición de las acciones propias en poder de la sociedad o de un tercero que obre por cuenta de ésta, especificando su destino final previsto e importe de la reserva por adquisición de acciones de la sociedad dominante. También se informará sobre el número, valor nominal e importe de la reserva correspondiente a las acciones propias aceptadas en garantía. En su caso, se informará igualmente en lo que corresponda, respecto a otros instrumentos de patrimonio distintos del capital.
-
-– Referente al apartado 12, sobre la situación fiscal:
-
-1. Impuestos sobre beneficios.
-
-a) Información relativa a las diferencias temporarias deducibles e imponibles registradas en el balance al cierre del ejercicio.
-
-b) Antigüedad y plazo previsto de recuperación fiscal de los créditos por bases imponibles negativas.
-
-c) Incentivos fiscales aplicados en el ejercicio y compromisos asumidos en relación con los mismos.
-
-d) Provisiones derivadas del impuesto sobre beneficios así como sobre las contingencias de carácter fiscal y sobre acontecimientos posteriores al cierre que supongan una modificación de la normativa fiscal que afecta a los activos y pasivos fiscales registrados. En particular se informará de los ejercicios pendientes de comprobación.
-
-e) Cualquier otra circunstancia de carácter sustantivo en relación con la situación fiscal.
-
-2. Otros tributos.
-
-Se informará sobre cualquier circunstancia de carácter significativo en relación con otros tributos, en particular cualquier contingencia de carácter fiscal, así como los ejercicios pendientes de comprobación.
-
-– Referente al apartado 26, sobre información técnica:
-
-1. Análisis del movimiento de cada una de las provisiones técnicas que figuren en el balance de la entidad, indicando:
-
-a) Saldo inicial.
-
-b) Dotaciones.
-
-c) Aplicaciones.
-
-d) Saldo final.
-
-2. En particular, en relación con la reserva de estabilización, se indicarán los ramos o modalidades en que se constituya.
-
-3. Cuando resulte procedente la dotación de las provisiones para participación en beneficios y para extornos se indicarán los motivos por los que procede su constitución.
-
-4. Se informará asimismo sobre la naturaleza y amplitud de las diferencias entre la provisión para prestaciones constituida al comienzo del ejercicio por los siniestros pendientes a esa fecha y la suma de los importes pagados durante el ejercicio por los siniestros incluidos en aquélla y el de la provisión constituida al final del ejercicio por dichos siniestros pendientes.
-
-No obstante, si existe alguna información significativa que no se incluye en ninguno de los apartados anteriores, deberá asimismo contemplarse.
+> Se modifican los apartados I) Balance y V.A) y se suprime el V.B) por el art. 2.3 a 10 del Real Decreto 583/2017, de 12 de junio, con efectos desde el 1 de enero de 2016 en los términos establecidos en su disposición adicional única. Ref. BOE-A-2017-7167
 
 > Se modifican las normas 1.ª, 2.ª y 9.ª, los apartados V).A.24.7 y V).B y se suprimen los apartados V).A.27 y V).A.28 por la disposición final 5.8 a 13 del Real Decreto 1060/2015, de 20 de noviembre. Ref. BOE-A-2015-13057#dfquinta.
 

@@ -566,6 +566,10 @@ Inmovilizado e inversiones
 
 280. Amortización acumulada del inmovilizado intangible.
 
+2801 Amortización acumulada del fondo de comercio.
+
+2807 Amortización acumulada de otro inmovilizado intangible.
+
 281. Amortización acumulada del inmovilizado material.
 
 282. Amortización acumulada de las inversiones inmobiliarias.
@@ -1418,6 +1422,10 @@ Gastos
 
 680. Amortización del inmovilizado intangible.
 
+6801 Amortización del fondo de comercio.
+
+6807 Amortización de otro inmovilizado intangible.
+
 681. Amortización del inmovilizado material.
 
 682. Amortización de las inversiones inmobiliarias.
@@ -1953,5 +1961,7 @@ Ingresos imputados al patrimonio neto.
 993. Transferencia por deterioro de ajustes valorativos negativos previos, empresas del grupo.
 
 994. Transferencia por deterioro de ajustes valorativos negativos previos, empresas asociadas.
+
+> Se modifican las cuentas 280 y 680 por el art. 2.11 y 12 del Real Decreto 583/2017, de 12 de junio, con efectos desde el 1 de enero de 2016 en los términos establecidos en su disposición adicional única. Ref. BOE-A-2017-7167
 
 > Redactado conforme a la corrección de errores y erratas publicada en BOE núm. 265, de 3 de noviembre de 2008. Ref. BOE-A-2008-17565.
