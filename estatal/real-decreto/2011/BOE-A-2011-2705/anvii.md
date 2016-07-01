@@ -280,7 +280,7 @@ Zanahoria: 50 gramos.
 
 5. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2016, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de julio de 2016, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV (1):
 
@@ -295,12 +295,15 @@ Especies que cumplen con los protocolos de examen de la OCVV (1):
 | Solanum melongena L. | Berenjena | TP 117/1 de 13.3.2008 |
 | Brassica oleracea L. | Bróculi o brécol | TP 151/2 de 21.3.2007 |
 | Cucurbita pepo L. | Calabacín | TP 119/1 rev. de 19.3.2014 |
+| Cucurbita máxima Duchesne. | Calabaza | TP 155/1 de 11.3.2015 |
 | Valerianella locusta (L.) Laterr. | Canónigo o hierba de los canónigos | TP 75/2 de 21.3.2007 |
 | Allium cepa L. (var. Cepa) | Cebolla | TP 46/2 de 1.04.2009 |
 | Allium cepa L. (var. Aggregatum) | Chalota | TP 46/2 de 1.04.2009 |
 | Alium fistulosum L. | Cebolleta | TP 161/1 de 11.3.2010 |
-| Alium schoenoprasum L. | Cebollino | TP 198 de 1.4.2009 |
+| Alium schoenoprasum L. | Cebollino | TP 198/2 de 11.3.2015 |
 | Beta vulgaris L. | Remolacha de mesa | TP 60/1/ de 1.4.2009 |
+| Beta vulgaris L. | Acelga | TP/106/1 de 11.3. 2015 |
+| Brassica napus L. var. napobrassica (L.) Rchb | Colinabo | TP 89/1 de 11.3.2015 |
 | Brassica oleracea L. | Col de Bruselas | TP 54/2 de 1.12.2005 |
 | Brassica rapa L. | Col de China | TP 105/1 de 13.3.2008 |
 | Brassica oleracea L. | Col forrajera o berza | TP 90/1 de 16.2.2011 |
@@ -310,7 +313,7 @@ Especies que cumplen con los protocolos de examen de la OCVV (1):
 | Cichorium endivia L. | Escarola y endivia | TP 118/3 de 19.3.2014 |
 | Asparagus officinalis L. | Espárrago | TP 130/2 de 16.2.2011 |
 | Spynacia oleracea L. | Espinaca | TP 55/5 de 27.2.2013 |
-| Pisum sativum L. (partim) | Guisante de grano rugoso, guisante de grano liso redondo y guisante cometodo | TP 7/2 de 11.3.2010 |
+| Pisum sativum L. (partim) | Guisante de grano rugoso, guisante de grano liso redondo y guisante cometodo | TP 7/2 rev. de 11.3.2015 |
 | Vicia faba L. (partim) | Haba | TP Broadbean/1 de 25.3.2004 |
 | Foeniculum vulgare Mill. | Hinojo | TP 183/1 de 25.3.2004 |
 | Phaseolus vulgaris L. | Judía de mata baja y judía de enrame | TP 12/4 de 27.02.2013 |
@@ -323,10 +326,11 @@ Especies que cumplen con los protocolos de examen de la OCVV (1):
 | Nyman ex A. W. Hill |  |  |
 | Capsicum annuum L. | Pimiento | TP 76/2 de 21.3.2007 |
 | Allium porrum L. | Puerro | TP 85/2 de 1.4.2009 |
-| Raphanus sativus L. | Rábano o rabanito y rábano de invierno o rábano negro | TP 64/2 de 27.2.2013 |
+| Raphanus sativus L. | Rábano o rabanito y rábano de invierno o rábano negro | TP 64/2 rev. de 11.3.2015 |
 | Citrullus lanatus (Thunb.) Matsum. et Nakai | Sandía | TP 142/2 de 19.3.2014 |
 | Solanum lycopersicum L. × Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. × Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. × Solanum cheesmaniae (L. Ridley) Fosberg | Portainjertos de tomate | TP 294/1 de 19.3.2014 |
 | Daucus carota L. | Zanahoria de mesa | TP 49/3 de 13.3.2008 |
+| Scorzonera hispanica L. | Escorzonera o salsifí negro | TP 116/1 de 11.3.2015 |
 
 (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
@@ -334,15 +338,11 @@ Especies que cumplen con las directrices de examen de la UPOV (2):
 
 | Nombre científico | Nombre común | Protocolo |
 | --- | --- | --- |
-| Beta vulgaris L. | Acelga | TG/116/4 de 31.3. 2004 |
-| Brassica napus L. var. napobrassica L. Rchb | Colinabo | + 1.4.2009 |
 | Brassica rapa L. | Nabo | TG/37/10 de 4.4.2001 |
 | Cichorium intybus L. | Achicoria industrial o italiana | TG/154/3 de 18.10.1996 |
-| Cucúrbitamaxima | Calabaza | TG/155/4 Rev 28.3.2007 |
 | Duchesne |  | + 1.4.2009 |
 | Raphanus sativus L. | Rábano de invierno o rábano negro | TG/63/6 de 24.3.1999 |
 | Rheum rhabarbum L. | Ruibarbo | TG/62/6 de 24.3.1999 |
-| Scorzonera hispanica L | Escorzonera o salsifí negro | TG/116/4 de 24.10.2010 |
 | Solanum lycopersicum L. | Portainjertos de tomate. | TG/294/1 de 20.3.2013 |
 | X Solanum habrochaites S. |  |  |
 | Knapp et D.M. Spooner. |  |  |
@@ -353,6 +353,8 @@ Especies que cumplen con las directrices de examen de la UPOV (2):
 | Fosberg |  |  |
 
 (2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Se modifica el apartado 5, con efectos de 1 de julio de 2016, por el art. único.2 de la Orden AAA/765/2016, de 13 de mayo. Ref. BOE-A-2016-4809.
 
 > Se modifica el apartado 5, con efectos de 1 de enero de 2016, por el art. único.3 de la Orden AAA/2505/2015, de 19 de noviembre. Ref. BOE-A-2015-12818.
 

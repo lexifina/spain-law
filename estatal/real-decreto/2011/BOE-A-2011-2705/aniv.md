@@ -130,9 +130,9 @@ Variedades cespitosas: la finura de las hojas, densidad del césped, persistenci
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de la especie que se cita a continuación, que con anterioridad al 1 de julio de 2014, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en las Directrices de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de julio de 2016, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
-Especies que cumplen con los protocolos de examen de la OCVV:
+Especies que cumplen con los protocolos de examen de la OCVV (1):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
@@ -140,9 +140,11 @@ Especies que cumplen con los protocolos de examen de la OCVV:
 | Lolium multiflorum Lam. | Ray grass Italiano | TP 4/1 de 23.6.2011. |
 | Lolium perenne L. | Ray-grass Inglés | TP 4/1 de 23.6.2011. |
 | Lolium x boucheanum Kunth | Ray-grass híbrido | TP 4/1 de 23.6.2011. |
-| Pisum sativum L. | Guisante forrajero | TP 7/2 de 11.3.2010 |
+| Pisum sativum L. | Guisante forrajero | TP 7/2 rev. de 11.3.2015 |
 
-Especies que cumplen con las directrices de examen de la UPOV:
+(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+
+Especies que cumplen con las directrices de examen de la UPOV (2):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
@@ -156,7 +158,7 @@ Especies que cumplen con las directrices de examen de la UPOV:
 | Festuca arundinacea Schreber | Festuca alta | TG/39/8 de 17.4.2002 |
 | Festuca pratensis Huds. | Festuca pratense | TG/39/8 de 17.4.2002 |
 | Festuca rubra L. | Festuca roja | TG/67/5 de 5.4.2006 |
-| Poa pratensis L. | Poa de los prados | TG/33/6 de 12.10.1990 |
+| Poa pratensis L. | Poa de los prados | TG/33/7 de 9.4.2014 |
 | Lolium multiflorum Lam. | Ray grass Italiano | TG/4/8 de 5.4.2006 |
 | Lolium perenne | Ray-grass Inglés | TG/4/8 de 5.4.2006 |
 | Lolium x boucheanum Kunth | Ray-grass híbrido | TG/4/8 de 5.4.2006 |
@@ -168,9 +170,9 @@ Especies que cumplen con las directrices de examen de la UPOV:
 | Cicer arietinum L. | Garbanzo | TG/143/4 de 6.04.2005 |
 | Lens culinaris medik | Lenteja | TG/21/01 de 9.04.2003 |
 
-1 El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+(2) El texto de estos protocolos puede consultarse en la web de la UPOV (www.upov.int).
 
-2 El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+> Se modifica el apartado 6, con efectos de 1 de julio de 2016, por el art. único.1 de la Orden AAA/765/2016, de 13 de mayo. Ref. BOE-A-2016-4809.
 
 > Se modifica el apartado 6 por el art. único.2 del Real Decreto 626/2014, de 18 de julio. Ref. BOE-A-2014-7655.
 
