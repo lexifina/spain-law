@@ -5,24 +5,25 @@
 | Titular del órgano en el que se delega | Ámbito |
 | --- | --- |
 | Director General del Servicio Exterior. | Ministerio de Asuntos Exteriores y de Cooperación. |
-| Director del Instituto Cervantes. | Instituto Cervantes. |
+| Vicesecretaría Técnica del Instituto Cervantes. | Instituto Cervantes. |
 | Departamento de Gestión Económica. | Agencia Española de Cooperación Internacional para el Desarrollo. |
-| Subsecretaría del Ministerio de Justicia. | Ministerio de Justicia - Resto del Departamento Ministerial. |
+| Subdirección General de Contratación y Servicios. | Ministerio de Justicia - Resto del Departamento Ministerial. |
 | Dirección General de Relaciones con la Administración de Justicia del Ministerio de Justicia. | Ministerio de Justicia - Dirección General de Relaciones con la Administración de Justicia. |
 | Secretaría General de la Abogacía General del Estado del Ministerio de Justicia. | Ministerio de Justicia - Abogacía General del Estado. |
 | Secretaría General de la Mutualidad General Judicial. | Mutualidad General Judicial. |
 | Secretaría General de la Agencia Española de Protección de Datos. | Agencia Española de Protección de Datos. |
 | Jefatura de Área de Servicios Económicos de la Subdirección General de Servicios Económicos y Pagadurías. | Ministerio de Defensa - Resto de Ministerio. |
 | Jefatura de Asuntos Económicos del Estado Mayor de la Defensa. | Estado Mayor de la Defensa. |
-| Secretaría General del INTA. | Instituto Nacional de Técnica Aeroespacial «Esteban Terradas». |
+| Secretaría General del INTA. | Instituto Nacional de Técnica Aeroespacial “Esteban Terradas”. |
 | Subdirección General Económico Financiero del INVIED. | Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa. |
 | Subdirección General Económico Financiero de ISFAS. | Instituto Social de las Fuerzas Armadas. |
 | Dirección de Asuntos Económicos del Ejército de Tierra. | Ejército de Tierra. |
-| Jefatura de la Sección de Coordinación Económica de la DAE. | Armada. |
+| Jefatura de la Sección de Gestión Económica y Tesorería de la DAE. | Armada. |
 | Jefatura de la Sección Económico-Administrativa 15 - Agrupación del Cuartel General del Ejército del Aire. | Ejercito de Aire. |
 | Jefatura de Administración Económica del Cuarto Militar de S.M. El Rey y Guardia Real. | Cuarto Militar de S.M el Rey y Guardia Real. |
 | Subdirección General de Servicios y Coordinación Territorial del Ministerio de Hacienda y Administraciones Públicas. | Ministerio de Hacienda y Administraciones Públicas - Resto del Departamento Ministerial. |
 | Subdirección General de Servicios y Coordinación Territorial del Ministerio de Hacienda y Administraciones Públicas. | Ministerio de Hacienda y Administraciones Públicas - Delegaciones de Economía y Hacienda. |
+| Subdirección General de Presupuestos y Gestión Financiera. | AEAT- Servicios Centrales y Periféricos. |
 | Dirección General del Catastro. | Ministerio de Hacienda y Administraciones Públicas - Dirección General del Catastro. |
 | Presidencia del Tribunal Económico Administrativo Central. | Ministerio de Hacienda y Administraciones Públicas - Tribunales Económico-Administrativos. |
 | Dirección General del Instituto de Estudios Fiscales. | Instituto de Estudios Fiscales. |
@@ -81,7 +82,7 @@
 | Subdirección General de Programación y Gestión Económico-Financiera del Ministerio de Sanidad, Servicios Sociales e Igualdad. | Ministerio de Sanidad, Servicios Sociales e Igualdad. |
 | Subdirección General de Programas del Instituto de la Mujer y para la Igualdad de Oportunidades. | Instituto de la Mujer y para la Igualdad de Oportunidades. |
 | Secretaría General de la Agencia Estatal de Medicamentos y Productos Sanitarios. | Agencia Estatal de Medicamentos y Productos Sanitarios. |
-| Secretaría General del Instituto de la Juventud. | Instituto de la Juventud. |  |
+| Secretaría General del Instituto de la Juventud. | Instituto de la Juventud. |
 | Oficialía Mayor. | Ministerio de Economía y Competitividad - Resto del Ministerio. |
 | Dirección General del Tesoro. | Ministerio de Economía y Competitividad: Secretaría General del Tesoro y Política Financiera. |
 | Dirección General de Seguros y Fondos de Pensiones. | Ministerio de Economía y Competitividad: Dirección General de Seguros y Fondos de Pensiones. |
@@ -94,6 +95,8 @@
 | Secretaría General del Instituto de Salud Carlos III. | Instituto de Salud Carlos III. |
 | Secretaría General de la Comisión Nacional de los Mercados y la Competencia. | Comisión Nacional de los Mercados y la Competencia. |
 | Secretaría General del Consejo Superior de Investigaciones Científicas. | Consejo Superior de Investigaciones Científicas. |
+
+> Se modifica por el art. único.3 de la Orden HAP/1135/2016, de 8 de julio. Ref. BOE-A-2016-6671.
 
 > Se modifica por el art. único de la Orden HAP/1671/2015, de 30 de julio. Ref. BOE-A-2015-8893.
 

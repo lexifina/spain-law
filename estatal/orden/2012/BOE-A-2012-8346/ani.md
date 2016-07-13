@@ -19,7 +19,7 @@
 | Dirección de Unidad de Coordinación del Servicio Español para la internacionalización de la Educación. | Servicio Español para la Internacionalización de la Educación. |
 | Jefatura del Departamento de Gerencia de la Agencia Española de Protección de la Salud en el Deporte. | Agencia Española de Protección de la Salud en el Deporte. |
 | Secretaría General del Consejo Superior de Deportes. | Consejo Superior de Deportes. |
-| Subsecretaría del Ministerio de Justicia. | Ministerio de Justicia. |
+| Subdirección General de Contratación y Servicios. | Ministerio de Justicia. |
 | Secretaría General de la Mutualidad General Judicial. | Mutualidad General Judicial. |
 | Dirección del Centro de Estudios Jurídicos. | Centro de Estudios Jurídicos. |
 | Dirección General del Servicio Exterior. | Ministerio, Subsecretaria y Servicios Generales-Exteriores. |
@@ -36,7 +36,9 @@
 | Dirección Ejecutiva de la Agencia Española de Consumo, Seguridad Alimentaria y Nutrición. | Agencia Española de Consumo, Seguridad Alimentaria y Nutrición. |
 | Secretaría General de la Agencia Española de Medicamentos y Productos Sanitarios. | Agencia Española de Medicamentos y Productos Sanitarios. |
 | Subdirección General de Programas del Instituto de la Mujer y para la Igualdad de Oportunidades. | Instituto de la Mujer y para la Igualdad de Oportunidades. |
-| Direccion del Real Patronato Sobre Discapacidad. | Real Patronato sobre la Discapacidad. |
+| Dirección del Real Patronato Sobre Discapacidad. | Real Patronato sobre la Discapacidad. |
 | Presidencia Instituto de Contabilidad y Auditoría de Cuentas. | Instituto de Contabilidad y Auditoría de Cuentas. |
+
+> Se modifica por el art. único.2 de la Orden HAP/1135/2016, de 8 de julio. Ref. BOE-A-2016-6671.
 
 > Se añade por el art. único de la Orden HAP/386/2015, de 6 de marzo. Ref. BOE-A-2015-2474.

@@ -5,16 +5,16 @@
 | Titular del órgano en el que se delega | Ámbito |
 | --- | --- |
 | Departamento de gestión económica de la Agencia Española de Cooperación Internacional para el Desarrollo. | Agencia Española de Cooperación Internacional para el Desarrollo. |
-| Dirección del Instituto Cervantes. | Instituto Cervantes. |
+| Vicesecretaría Técnica del Instituto Cervantes. | Instituto Cervantes. |
 | Dirección General del Servicio Exterior. | Ministerio, Subsecretaria y Servicios Generales - Ministerio de Asuntos Exteriores y Cooperación. |
 | Subsecretaría del Ministerio de Justicia. | Abogacía General del Estado - Dirección del Servicio Jurídico del Estado. |
 | Secretaría General de la Agencia Española de Protección de Datos. | Agencia Española de Protección de Datos. |
 | Dirección General del Centro de Estudios Jurídicos. | Centro de Estudios Jurídicos. |
-| Subsecretaría del Ministerio de Justicia. | Ministerio, Subsecretaria y Servicios Generales - Ministerio de Justicia. |
+| Subdirección General de Contratación y Servicios | Ministerio, Subsecretaria y Servicios Generales - Ministerio de Justicia. |
 | Dirección General de relaciones con la Administración de Justicia. | Secretaría General de la Administración de Justicia. |
 | Intendencia de Madrid. | Armada Española. |
 | Jefatura de Asuntos Económicos del Estado Mayor de la Defensa. | Cuartel General del Estado Mayor de la Defensa. |
-| Jefatura de Asuntos Económicos del Estado Mayor del Ejercito. | Ejército de Tierra. |
+| Jefatura de Asuntos Económicos del Estado Mayor del Ejército. | Ejército de Tierra. |
 | Sección Económica-Administrativa 15 de la Agrupación del Cuartel del Estado Mayor del Aire. | Ejército del Aire. |
 | Sección Económica Administrativa 16 del Cuartel General del Magen. | Mando Aéreo General-Magen. |
 | Jefatura de Área de Servicios Económicos de la Subdirección General de Servicios Económicos y Pagadurías. | Ministerio y Subsecretaría - Ministerio de Defensa. |
@@ -85,6 +85,8 @@
 | Secretaría General del Instituto de la Juventud. | Instituto de la Juventud. |
 | Secretaría General de la Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado. | Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado. |
 | Secretaría General de la Agencia Estatal de Seguridad Aérea. | Agencia Estatal de Seguridad Aérea. |
+
+> Se modifica por el art. único.4 de la Orden HAP/1135/2016, de 8 de julio. Ref. BOE-A-2016-6671.
 
 > Se modifica por el art. único de la Orden HAP/1671/2015, de 30 de julio. Ref. BOE-A-2015-8893.
 
