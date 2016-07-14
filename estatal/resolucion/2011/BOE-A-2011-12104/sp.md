@@ -1114,7 +1114,7 @@ b.2) En el caso de que una disminución en el pasivo exceda el valor contable qu
 
 b.3) Del cambio en la partida específica de patrimonio que surja de un cambio en el pasivo se dará información en la memoria.
 
-1.4.2.2 La provisión para contingencias en tramitación comprenderá la parte no reasegurada del importe presunto de las prestaciones por incapacidad permanente, muerte y supervivencia que, habiéndose iniciado las actuaciones necesarias en orden a su concesión a los accidentados o afectados de enfermedad profesional, o a sus beneficiarios, se encuentren pendientes de reconocimiento al final del ejercicio.
+1.4.2.2 La provisión para contingencias en tramitación comprenderá la parte no reasegurada del importe presunto de las prestaciones por incapacidad permanente, muerte y supervivencia que, habiéndose iniciado las actuaciones necesarias en orden a su concesión a los accidentados o afectados de enfermedad profesional, o a sus beneficiarios, se encuentren pendientes de reconocimiento al final del ejercicio, todo ello de conformidad con la normativa específica que regula esta provisión.
 
 En el caso de prestaciones de incapacidad permanente y con carácter general, se entenderá que se han iniciado dichas actuaciones cuando la entidad haya presentado la correspondiente propuesta formal, con especificación del grado de incapacidad previsto, ante el órgano competente de la Administración, para su evaluación y, en su caso, reconocimiento.
 
@@ -1334,6 +1334,10 @@ Los hechos posteriores al cierre del ejercicio que pongan de manifiesto condicio
 
 En todo caso deberá incluirse información sobre los hechos posteriores que afecte a la aplicación del principio de gestión continuada.
 
-> Se modifica la norma de reconocimiento y valoración 15.ª por la disposición única.uno de la Resolución de 9 de mayo de 2012. Ref. BOE-A-2012-6329
+> Se modifica la norma de reconocimiento y valoración 14ª por el apartado primero.2 de la Resolución de 5 de julio de 2016. Ref. BOE-A-2016-6695
+
+> Téngase en cuenta, para su aplicación, la disposición final única de la citada Resolución.
+
+> Se modifica la norma de reconocimiento y valoración 15ª por la disposición única.uno de la Resolución de 9 de mayo de 2012. Ref. BOE-A-2012-6329
 
 > Esta modificación será aplicable a la formación y rendición de las cuentas anuales correspondientes al ejercicio 2011 y siguientes.

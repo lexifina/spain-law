@@ -196,8 +196,6 @@ El estado de flujos de efectivo informa sobre el origen y destino de los movimie
 
 Se entiende por efectivo y otros activos líquidos equivalentes los que como tales figuran en el epígrafe B.VII del activo del balance, es decir, la tesorería depositada en la caja de la entidad y los depósitos bancarios a la vista; también formarán parte los activos financieros que sean convertibles en efectivo y que en el momento de su adquisición, su vencimiento no fuera superior a tres meses, siempre que no exista riesgo significativo de cambios de valor y formen parte de la política de gestión normal de la tesorería de la entidad.
 
-En el caso de las MATEPSS, dada la importancia cuantitativa que tienen sobre el conjunto de sus actividades, los flujos de efectivo asociados a las transacciones administradas por parte de la Tesorería General de la Seguridad Social realizadas por medio de la cuenta corriente no bancaria mantenida con ésta, también se tratarán como flujos y saldos de efectivo de la entidad.
-
 Los movimientos de efectivo y otros activos líquidos equivalentes se muestran en el estado de flujos de efectivo agrupados por tipos de actividades. No se recogen en el estado de flujos de efectivo los pagos por adquisición, ni cobros por amortización o vencimiento de activos financieros a los que se les ha dado la consideración de activos líquidos equivalentes a efectivo. Tampoco se recogen los movimientos internos de tesorería.
 
 Las agrupaciones del estado de flujos de efectivo son las que se indican a continuación:
@@ -560,25 +558,27 @@ CONTENIDO DE LA MEMORIA
 
 16. Presentación por actividades de la cuenta del resultado económico patrimonial.
 
-17. Operaciones no presupuestarias.
+17. Flujos asociados a las transacciones administradas.
 
-18. Contratación administrativa. Procedimientos de adjudicación.
+18. Operaciones no presupuestarias.
 
-19. Información presupuestaria.
+19. Contratación administrativa. Procedimientos de adjudicación.
 
-20. Información sobre reservas y su materialización.
+20. Información presupuestaria.
 
-21. Indicadores financieros, patrimoniales y presupuestarios.
+21. Información sobre reservas y su materialización.
 
-22. Información sobre el coste de las actividades.
+22. Indicadores financieros, patrimoniales y presupuestarios.
 
-23. Indicadores de gestión.
+23. Información sobre el coste de las actividades.
 
-24. Información sobre medio ambiente.
+24. Indicadores de gestión.
 
-25. Hechos posteriores al cierre.
+25. Información sobre medio ambiente.
 
-26. Patrimonio privativo.
+26. Hechos posteriores al cierre.
+
+27. Patrimonio privativo.
 
 Contenido de la memoria
 
@@ -916,6 +916,10 @@ d) Para el caso de las MATEPSS, se informará, en su caso, de las participacione
 | TOTAL PARTICIPACIONES EN ENTIDADES MANCOMUNADAS |  |  |  |  |
 | TOTAL PARTICIPACIONES EN ENTES MANCOMUNADOS |  |  |  |  |
 
+e) Activos financieros entregados en garantía.
+
+La entidad informará del valor contable de los activos financieros entregados en garantía así como de la clase de activos financieros a la que pertenecen.
+
 2. Información relacionada con la cuenta del resultado económico-patrimonial.
 
 La entidad informará sobre:
@@ -993,6 +997,19 @@ SITUACIÓN PATRIMONIAL EJERCICIO N
 
 — Variación patrimonial experimentada en el ejercicio de estos activos, distinguiendo la procedencia de los mismos, y su tipología.
 
+| Activos financieros | Valor razonable a 31 de diciembre N | Valor razonable a 31 de diciembre N-1 | Variación ejercicio N |
+| --- | --- | --- | --- |
+| Cartera Nacional: |  |  |  |
+| Largo Plazo. |  |  |  |
+| Corto Plazo. |  |  |  |
+| Cartera Eurozona: |  |  |  |
+| Largo Plazo. |  |  |  |
+| Corto Plazo. |  |  |  |
+| Otros Activos: |  |  |  |
+| Largo Plazo. |  |  |  |
+| Corto Plazo. |  |  |  |
+| Total. |  |  |  |
+
 VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE RESERVA DE LA SEGURIDAD SOCIAL
 
 VARIACIÓN DE ACTIVOS FINANCIEROS EJERCICIO N
@@ -1005,7 +1022,7 @@ VARIACIÓN DE ACTIVOS FINANCIEROS EJERCICIO N
 | Cartera Eurozona |  |  |  |
 | — Largo Plazo |  |  |  |
 | — Corto Plazo |  |  |  |
-| Cartera Zona No Euro |  |  |  |
+| Otros activos |  |  |  |
 | — Largo Plazo |  |  |  |
 | — Corto Plazo |  |  |  |
 | TOTAL |  |  |  |
@@ -1024,7 +1041,7 @@ AMORTIZACIÓN/ENAJENACIÓN DE ACTIVOS FINANCIEROS
 | Cartera Eurozona |  |  |  |
 | — Largo Plazo |  |  |  |
 | — Corto Plazo |  |  |  |
-| Cartera Zona No Euro |  |  |  |
+| Otros activos |  |  |  |
 | — Largo Plazo |  |  |  |
 | — Corto Plazo |  |  |  |
 | TOTAL |  |  |  |
@@ -1041,7 +1058,7 @@ ADQUISICIÓN DE ACTIVOS FINANCIEROS
 | Cartera Eurozona |  |  |  |  |
 | — Largo Plazo |  |  |  |  |
 | — Corto Plazo |  |  |  |  |
-| Cartera Zona No Euro |  |  |  |  |
+| Otros activos |  |  |  |  |
 | — Largo Plazo |  |  |  |  |
 | — Corto Plazo |  |  |  |  |
 | TOTAL |  |  |  |  |
@@ -1060,16 +1077,16 @@ RENDIMIENTOS
 | Cartera Eurozona |  |  |  |  |  |
 | — Largo Plazo |  |  |  |  |  |
 | — Corto Plazo |  |  |  |  |  |
-| Cartera Zona No Euro |  |  |  |  |  |
+| Otros activos |  |  |  |  |  |
 | — Largo Plazo |  |  |  |  |  |
 | — Corto Plazo |  |  |  |  |  |
 | TOTAL |  |  |  |  |  |
 
-5. Para los valores representativos de deuda afectos al Fondo de Prevención y Rehabilitación, se informará sobre:
+5. Para los valores representativos de deuda afectos al Fondo de Contingencias Profesionales de la Seguridad Social, se informará sobre:
 
 — Variación patrimonial experimentada en el ejercicio de las cuentas representativas de estos activos.
 
-VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
+VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE CONTINGENCIAS PROFESIONALES DE LA SEGURIDAD SOCIAL
 
 SITUACIÓN PATRIMONIAL EJERCICIO N
 
@@ -1081,11 +1098,24 @@ SITUACIÓN PATRIMONIAL EJERCICIO N
 | Activos financieros con vencimiento a corto plazo |  |  |  |
 | Intereses a corto plazo de valores representativos de deuda |  |  |  |
 | Deterioro de valor de valores representativos de deuda a corto plazo |  |  |  |
-| SITUACIÓN DEL FONDO DE PREVENCIÓN Y REHABILITACIÓN |  |  |  |
+| SITUACIÓN DEL FONDO DE CONTINGENCIAS PROFESIONALES DE LA SEGURIDAD SOCIAL |  |  |  |
 
 — Variación patrimonial experimentada en el ejercicio de estos activos, distinguiendo la procedencia de los mismos, y su tipología.
 
-VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
+| Activos financieros | Valor razonable a 31 de diciembre N | Valor razonable a 31 de diciembre N-1 | Variación ejercicio N |
+| --- | --- | --- | --- |
+| Cartera Nacional: |  |  |  |
+| Largo Plazo. |  |  |  |
+| Corto Plazo. |  |  |  |
+| Cartera Eurozona: |  |  |  |
+| Largo Plazo. |  |  |  |
+| Corto Plazo. |  |  |  |
+| Otros Activos: |  |  |  |
+| Largo Plazo. |  |  |  |
+| Corto Plazo. |  |  |  |
+| Total. |  |  |  |
+
+VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE CONTINGENCIAS PROFESIONALES DE LA SEGURIDAD SOCIAL
 
 VARIACIÓN DE ACTIVOS FINANCIEROS EJERCICIO N
 
@@ -1097,14 +1127,14 @@ VARIACIÓN DE ACTIVOS FINANCIEROS EJERCICIO N
 | Cartera Eurozona |  |  |  |
 | — Largo Plazo |  |  |  |
 | — Corto Plazo |  |  |  |
-| Cartera Zona No Euro |  |  |  |
+| Otros activos |  |  |  |
 | — Largo Plazo |  |  |  |
 | — Corto Plazo |  |  |  |
 | TOTAL |  |  |  |
 
 — Amortización/enajenación y adquisición de valores distinguiendo su procedencia.
 
-VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
+VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE CONTINGENCIAS PROFESIONALES DE LA SEGURIDAD SOCIAL
 
 AMORTIZACIÓN/ENAJENACIÓN DE ACTIVOS FINANCIEROS
 
@@ -1116,12 +1146,12 @@ AMORTIZACIÓN/ENAJENACIÓN DE ACTIVOS FINANCIEROS
 | Cartera Eurozona |  |  |  |
 | — Largo Plazo |  |  |  |
 | — Corto Plazo |  |  |  |
-| Cartera Zona No Euro |  |  |  |
+| Otros activos |  |  |  |
 | — Largo Plazo |  |  |  |
 | — Corto Plazo |  |  |  |
 | TOTAL |  |  |  |
 
-VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
+VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE CONTINGENCIAS PROFESIONALES DE LA SEGURIDAD SOCIAL
 
 ADQUISICIÓN DE ACTIVOS FINANCIEROS
 
@@ -1133,14 +1163,14 @@ ADQUISICIÓN DE ACTIVOS FINANCIEROS
 | Cartera Eurozona |  |  |  |  |
 | — Largo Plazo |  |  |  |  |
 | — Corto Plazo |  |  |  |  |
-| Cartera Zona No Euro |  |  |  |  |
+| Otros activos |  |  |  |  |
 | — Largo Plazo |  |  |  |  |
 | — Corto Plazo |  |  |  |  |
 | TOTAL |  |  |  |  |
 
 — Rendimientos devengados y pendientes de cobro del ejercicio anterior, cupón corrido de los activos adquiridos en el año, intereses devengados, intereses imputados al presupuesto e intereses devengados pendientes de cobro a fin de ejercicio, distinguiendo en todo caso por la procedencia y vencimiento a corto o largo plazo, de los valores que los generan.
 
-VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
+VALORES REPRESENTATIVOS DE DEUDA AFECTOS AL FONDO DE CONTINGENCIAS PROFESIONALES DE LA SEGURIDAD SOCIAL
 
 RENDIMIENTOS
 
@@ -1152,12 +1182,14 @@ RENDIMIENTOS
 | Cartera Eurozona |  |  |  |  |  |
 | — Largo Plazo |  |  |  |  |  |
 | — Corto Plazo |  |  |  |  |  |
-| Cartera Zona No Euro |  |  |  |  |  |
+| Otros activos |  |  |  |  |  |
 | — Largo Plazo |  |  |  |  |  |
 | — Corto Plazo |  |  |  |  |  |
 | TOTAL |  |  |  |  |  |
 
-6. Otra información.
+6. Para los valores representativos de deuda afectos a cualquier otro Fondo existente, se cumplimentarán los mismos cuadros que los establecidos en el punto 5 para los valores representativos de deuda afectos al Fondo de Contingencias Profesionales de la Seguridad Social.
+
+7. Otra información.
 
 Cualquier otra información de carácter sustantivo que afecte a los activos financieros.
 
@@ -1319,7 +1351,11 @@ Se facilitará una descripción detallada de los activos en estado de venta cuan
 
 3. Las cuentas señaladas en el punto anterior tendrán la misma estructura que la Cuenta del Resultado económico-patrimonial, representada en el Punto 2 «Modelos de cuentas anuales» de la Tercera Parte «Cuentas anuales» de la presente adaptación del Plan General de Contabilidad Pública a las entidades que integran el Sistema de la Seguridad Social, cumplimentando únicamente aquellos gastos e ingresos que deriven de la gestión de cada tipo de prestación.
 
-## 17. Operaciones no presupuestarias.
+## 17. Flujos asociados a las transacciones administradas.
+
+Se informará sobre el importe y naturaleza de las transacciones administradas por la Tesorería General de la Seguridad Social, a favor o a cargo de la Mutua, por cada uno de los tipos principales de actividad, en los mismos términos que se informa sobre los flujos de efectivo en su correspondiente Estado de las cuentas anuales.
+
+## 18. Operaciones no presupuestarias.
 
 Se informará sobre las operaciones no presupuestarias que comprenden aquellas operaciones realizadas durante el ejercicio que hayan dado lugar al nacimiento o extinción de:
 
@@ -1413,7 +1449,7 @@ b) DE LOS PAGOS PENDIENTES DE APLICACIÓN
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |
 
-## 18. Contratación administrativa. Procedimientos de adjudicación.
+## 19. Contratación administrativa. Procedimientos de adjudicación.
 
 Información por tipos de contrato, sobre los importes adjudicados según los diferentes procedimientos establecidos en la normativa vigente sobre contratación.
 
@@ -1424,11 +1460,11 @@ I. CONTRATACIÓN ADMINISTRATIVA. PROCEDIMIENTOS Y FORMAS DE ADJUDICACIÓN
 | MULTIPLIC. CRITERIOS | ÚNICO CRITERIO | MULTIPLIC. CRITERIOS | ÚNICO CRITERIO | CON PUBLICIDAD | SIN PUBLICIDAD |
 | — De obras — De suministro — Patrimoniales — De gestión de servicios públicos — De servicios — De concesión de obra pública — De colaboración entre el sector público y el sector privado — De carácter administrativo especial — Otros |  |  |  |  |  |  |  |  |  |  |
 
-## 19. Información presupuestaria.
+## 20. Información presupuestaria.
 
 La información a suministrar versará sobre los siguientes aspectos y se presentará, al menos, al mismo nivel de desagregación que en el Estado de liquidación del Presupuesto:
 
-19.1 Presupuesto corriente.
+20.1 Presupuesto corriente.
 
 1. Presupuesto de gastos.
 
@@ -1593,7 +1629,7 @@ b) Devoluciones de ingresos
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |
 
-19.2 Presupuestos cerrados.
+20.2 Presupuestos cerrados.
 
 1. Presupuesto de gastos. Obligaciones de presupuestos cerrados.
 
@@ -1693,7 +1729,7 @@ Para el cálculo de la variación de obligaciones de presupuestos cerrados pendi
 | 2. TOTAL VARIACIÓN OPERACIONES FINANCIERAS (c + d) |  |  |  |
 | TOTAL (1+2) |  |  |  |
 
-19.3 Compromisos de gasto con cargo a presupuestos de ejercicios posteriores.
+20.3 Compromisos de gasto con cargo a presupuestos de ejercicios posteriores.
 
 Información sobre los compromisos de gasto adquiridos durante el ejercicio, así como en los precedentes, imputables a presupuestos de ejercicios sucesivos, con indicación de su descripción, importe y año al que se refieran.
 
@@ -1705,7 +1741,7 @@ COMPROMISOS DE GASTO CON CARGO A PRESUPUESTOS DE EJERCICIOS POSTERIORES
 |  |  |  |  |  |  |  |
 | TOTAL |  |  |  |  |  |  |
 
-19.4 Gastos con financiación afectada.
+20.4 Gastos con financiación afectada.
 
 Se informará para cada gasto con financiación afectada de:
 
@@ -1744,7 +1780,7 @@ GASTOS CON FINANCIACIÓN AFECTADA
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
 
-19.5 Remanente de Tesorería.
+20.5 Remanente de Tesorería.
 
 El remanente de tesorería constituye un recurso presupuestario obtenido, con carácter general, por la acumulación de los resultados presupuestarios de los ejercicios anteriores y del ejercicio que se cierra. Como tal recurso, puede utilizarse para financiar el gasto presupuestario de los ejercicios siguientes.
 
@@ -1808,7 +1844,7 @@ ESTADO DEL REMANENTE DE TESORERÍA
 | 298, 490, 598 | III. Saldos de dudoso cobro |  | _______ |  | _______ |
 |  | IV. Remanente de tesorería no afectado = (I – II – III) |  | _______ |  | _______ |
 
-19.6 Derechos presupuestarios pendientes de cobro según su grado de exigibilidad.
+20.6 Derechos presupuestarios pendientes de cobro según su grado de exigibilidad.
 
 Información sobre la situación de los derechos pendientes de cobro indicando tanto para los de presupuesto corriente como para los derivados de presupuestos cerrados:
 
@@ -1831,7 +1867,33 @@ DERECHOS PRESUPUESTARIOS PENDIENTES DE COBRO SEGÚN SU GRADO DE EXIGIBILIDAD
 | SOLICITADO | CONCEDIDO |
 |  |  |  |  |  |  |  |  |  |
 
-19.7 Gastos de Administración.
+20.7 Balance de resultados e informe de gestión.
+
+Balances de resultados e informes de gestión que los centros gestores del gasto responsables de los distintos programas presupuestarios deben formular, debiendo informar, dentro de cada programa, del grado de realización de los objetivos, los costes en términos de gasto presupuestario (previsto y realizado) en los que se ha incurrido para su realización y las desviaciones físicas y financieras, tanto absolutas como en porcentaje de lo realizado sobre lo previsto, que, en su caso, se hubiera producido.
+
+BALANCE DE RESULTADOS E INFORME DE GESTIÓN
+
+EJERCICIO...
+
+CLASIFICACIÓN ORGÁNICA........................................................
+
+CLASIFICACIÓN POR PROGRAMAS...................
+
+A) GRADO DE REALIZACIÓN DE OBJETIVOS
+
+| OBJETIVO | ACTIVIDADES | INDICADOR | PREVISTO | REALIZADO | DESVIACIONES |
+| --- | --- | --- | --- | --- | --- |
+| ABSOLUTAS | % |
+|  |  |  |  |  |  |  |
+
+B) COSTE DE LOS OBJETIVOS REALIZADOS
+
+| OBJETIVO | ACTIVIDADES | COSTE PREVISTO (CRÉDITOS DEFINITIVOS) | COSTE REALIZADO (OBLIGACIONES RECONOCIDAS) | DESVIACIONES |
+| --- | --- | --- | --- | --- |
+| ABSOLUTAS | % |
+|  |  |  |  |  |
+
+20.8 Gastos de Administración.
 
 Se dará información de los gastos de administración derivados de la gestión de AT y EP así como los correspondientes a la gestión de la prestación económica de IT derivada de contingencias comunes de los trabajadores al servicio de sus empresas asociadas.
 
@@ -1843,7 +1905,7 @@ GASTOS DE ADMINISTRACIÓN
 | 1. Gastos presupuestarios. 2. Gastos por amortizaciones. |  |  |  |
 | TOTAL |  |  |  |
 
-19.8 Prestaciones concedidas por la Comisión de prestaciones especiales.
+20.9 Prestaciones concedidas por la Comisión de prestaciones especiales.
 
 Se dará información sobre el tipo de prestación concedida y su importe.
 
@@ -1856,32 +1918,32 @@ EJERCICIO....
 |  |  |
 | TOTAL |  |
 
-## 20. Información sobre reservas y su materialización.
+## 21. Información sobre reservas y su materialización.
 
-20.1 Enumeración y justificación de las dotaciones y aplicaciones de las Reservas, a efectuar como consecuencia del resultado obtenido en el ejercicio.
+21.1 Enumeración y justificación de las dotaciones y aplicaciones de las Reservas, a efectuar como consecuencia del resultado obtenido en el ejercicio.
 
 ENUMERACIÓN Y JUSTIFICACIÓN DE LAS DOTACIONES Y APLICACIONES DE LAS RESERVAS, A EFECTUAR COMO CONSECUENCIA DEL RESULTADO OBTENIDO EN EL EJERCICIO N
 
 |  |
 | --- |
 
-20.2 Materialización del Fondo de prevención y rehabilitación correspondiente al ejercicio anterior.
+21.2 Materialización del Fondo de Contingencias Profesionales correspondiente al ejercicio anterior.
 
-MATERIALIZACIÓN DEL FONDO DE PREVENCIÓN Y REHABILITACIÓN CORRESPONDIENTE AL EJERCICIO ANTERIOR
+MATERIALIZACIÓN DEL FONDO DE CONTINGENCIAS PROFESIONALES CORRESPONDIENTE AL EJERCICIO ANTERIOR
 
 MUTUA: N.º
 
 | DENOMINACIÓN | SALDO A 31-12 | DISPONIBILIDADES LÍQUIDAS PENDIENTES DE INGRESO EN EL BANCO DE ESPAÑA | PARTICIPACIÓN EN CENTROS MANCOMUNADOS | OTROS ACTIVOS |
 | --- | --- | --- | --- | --- |
-| Fondo de prevención y rehabilitación |  |  |  |  |
+| Fondo de Contingencias Profesionales |  |  |  |  |
 
-INMOVILIZADO FINANCIADO CON CARGO AL FONDO DE PREVENCIÓN Y REHABILITACIÓN
+INMOVILIZADO FINANCIADO CON CARGO AL FONDO DE CONTINGENCIAS PROFESIONALES
 
 | PARTIDA DE BALANCE | DESCRIPCIÓN | SALDO INICIAL | ENTRADAS | AUMENTOS POR TRASPASOS DE OTRAS PARTIDAS | SALIDAS | DISMINUCIONES POR TRASPASOS DE OTRAS PARTIDAS | CORRECCIONES VALORATIVAS NETAS POR DETERIORO DEL EJERCICIO | AMORTIZACIONES DEL EJERCICIO | INCREMENTO POR REVALORIZACIÓN EN EL EJERCICIO | SALDO FINAL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |  |  |
 
-## 21. Indicadores financieros, patrimoniales y presupuestarios.
+## 22. Indicadores financieros, patrimoniales y presupuestarios.
 
 1. Indicadores financieros y patrimoniales.
 
@@ -2031,7 +2093,7 @@ c) De presupuestos cerrados:
 
 ![imagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcEAAAAqCAYAAADLT+AdAAAEd0lEQVR4nO2cUZLcIAxEff9LJTebfG3K6wHRLcDG9ntVVGWwkAQCemdnJ9sGAAAAAHASn6sTAAAAUPlU2rb5grYfCwAAsDQ10TqKoesTAABgaRSRQwQBAOBxqO/yEEEAAHgcWREsfW5YG+PaOXF6fl0LAAAvJisgNTGq+Y/sSn+AE/0xzqfy71o8AACAIhkRjGxbgufYKXHccQAAAP+5uwi27AAAAKo8QQR/XiOGAABgc2cRRAwBAKAL9d2g8j/HXC2CrXEAAABfqF9hqL2e0afYKn99CgAAIHH8Tl5LGJV3kc73/Nzn6vcQAQAAAAAAAABeyh8ajUaj0V7UfvGXRqPRaLQXNQAAAAAAAIDBfG4QKzOuZ15nrskduXJ9Rsa+Q52jHD/b91crrprTHdbyjsxY11VrZeX1CVrGh2L3BjLreBw7mtXW/8p8RgvgSuu6bV5OR+FbbS7QR89ddFdsEex2Yox5UyG27dx3rFf6zXJFPqNjrramP2RFEJ7J22orzxcRnAsiGLOqCLq/CVmRjAjCc3ljnaU5j3ybjAh+gwjGnJ3PaGFY+ddMiCDseWOdLRFUBSyyLfUrnzW6n0UqOdQ+6I/GlZ63csqsScvPqHUa5fe4pu7YbL1GxSjFO9tub1ubj7o/VZuWb9e+NK6Gk2upvzVm1n7K3ofuveHEzNxptZyy8e9cK6kO6iXTctyyyfopPXMuw32fk7cSK/JT61PiZ9Zyht/jmkZrWRobxVJyaq2puy7OxTTaTj3Io89atI8jX7POePa8Kbm4+8nZzyWUS94ZO2JOka9M/NLrO9VKPaNyYmqfklDPZeVMuPdizha61qc8zwrIDL/uWtfycveWsj/cNR8pbsol2fKZPUf7Zz217h3vnpWMD6eePfEz53c/PjNuRF+PCLp+71grSwRrQd4mgq5Pt095fsw5arP9tjajk5eSpyOCLTs1ntpavjKxo77VRVDx5dZq1sWq1Na+MLf83rijCLoxsvFH1ipT0zDB6JJ7kwjun6lr4vguiZXDSL/RXnDjq75bPkp17K2la1fLwRHNp4ng3ra0DitcrEr8zHnLCmnmDhkhgq34T6lV+FxNOHOgny6CPZec8hwRzAnAzLycOKrPp4lg61ysfLFmf7A62mbG1HJQ+rL1e0utmvPIitXTRbB3/i3/TnzHbobfTIye+D0iqI5rka2bO+YJIuiclYyPURdrK37m/JZse/bY2SLY6/cOtZJEMJOM0jfKpsRIEezdLG5fZlzmkI7ym9mMyroqfcrznoOYtTtLBGfbOP0jzsoV560Vf9/v7KWaD8d+RF80n8jPW2oV1mT/k8uxRYGPdtH4aFzNppWz4mdE/FlrosxLyVM5cL1+M2uQGav21Ta+s84KkZ269qUxzlxr46PDrrTIvhWrJ4+WD3evRc/VvuO8a2NUevZFzx5R6qiuxZNqlakhwOPhYMAs2FtrQT0ACnAwYAbsq7WgHgABHBAYDXtqHagFgAAHBXrp+fwQ5kE9AAAAAAAAAAAAALbtHzCUJit5uSWIAAAAAElFTkSuQmCC)
 
-## 22. Información sobre el coste de las actividades 1.
+## 23. Información sobre el coste de las actividades 1.
 
 1) RESUMEN GENERAL DE COSTES DE LA ENTIDAD.
 
@@ -2161,7 +2223,7 @@ RESUMEN DE COSTES DE ACTIVIDADES FECHA...................
 | Transporte de personal |  |  |
 | TOTAL |  |  |
 
-## 23. Indicadores de gestión1.
+## 24. Indicadores de gestión1.
 
 Los indicadores de gestión son instrumentos de medición elegidos como variables relevantes que pretenden informar sobre aspectos globales o concretos de la organización, atendiendo, especialmente, a la evaluación de la eficacia, eficiencia y economía en la prestación de, al menos, los servicios o actividades financiados con tasas o precios públicos.
 
@@ -2221,7 +2283,7 @@ Dichos ajustes serán desarrollados, en su caso, en documentos o notas informati
 
 Persona Equivalente: Parámetro que hace homogénea la relación persona/tiempo atendiendo las situaciones individuales (baja, absentismo, lactancia, reducción de jornada, etc.). Esa relación hace que se considere como base de proporción (una persona equivalente) la prestación de la jornada que en cada caso se considere como normal o habitual.
 
-## 24. Información sobre medio ambiente.
+## 25. Información sobre medio ambiente.
 
 Se facilitará información sobre:
 
@@ -2229,7 +2291,7 @@ Se facilitará información sobre:
 
 2. Inversiones realizadas durante el ejercicio por razones medioambientales.
 
-## 25. Hechos posteriores al cierre.
+## 26. Hechos posteriores al cierre.
 
 La entidad informará de:
 
@@ -2239,11 +2301,11 @@ b) Los hechos posteriores que pongan de manifiesto circunstancias que ya existí
 
 c) Los hechos posteriores que muestren condiciones que no existían al cierre del ejercicio y que sean de tal importancia que, si no se suministra información al respecto, podría afectar a la capacidad de evaluación de los usuarios de las cuentas anuales.
 
-## 26. Patrimonio privativo.
+## 27. Patrimonio privativo.
 
 Se incluirá la siguiente documentación:
 
-26.1 Actividades.
+27.1 Actividades.
 
 ACTIVIDADES
 
@@ -2252,7 +2314,9 @@ MUTUA: N.º
 |  |
 | --- |
 
-26.2 Inventario del inmovilizado intangible, material, inversiones inmobiliarias e inversiones financieras.
+27.2 Aplicación del resultado del ejercicio.
+
+27.3 Inventario del inmovilizado intangible, material, inversiones inmobiliarias e inversiones financieras.
 
 INMOVILIZADO INTANGIBLE
 
@@ -2298,7 +2362,7 @@ A CORTO PLAZO
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
 
-26.3 Fianza reglamentaria.
+27.4 Fianza reglamentaria.
 
 Se indicará cuantía y modalidad de la fianza constituida.
 
@@ -2310,7 +2374,7 @@ MUTUA: N.º
 | --- | --- |
 |  |  |
 
-26.4 Otra información relevante.
+27.5 Otra información relevante.
 
 OTRA INFORMACIÓN RELEVANTE
 
@@ -2319,83 +2383,9 @@ MUTUA N.º
 |  |
 | --- |
 
-26.5 Información relativa a las operaciones realizadas por la sociedad de prevención, vinculadas con la gestión del patrimonio de la Seguridad Social y con la gestión del patrimonio privativo.
+> Se modifica por el apartado primero.3 y 4 de la Resolución de 5 de julio de 2016. Ref. BOE-A-2016-6695
 
-SOCIEDAD DE PREVENCIÓN CONSTITUIDA AL AMPARO DEL REAL DECRETO 688/2005, DE 10 DE JUNIO
-
-Operaciones vinculadas con la gestión del patrimonio de la Seguridad Social y con la gestión del patrimonio privativo.
-
-Créditos y débitos recíprocos
-
-MUTUA N.º
-
-I. Deudor: Gestión del patrimonio de la Seguridad Social
-
-| DESCRIPCIÓN | SALDO A 1 DE ENERO | CARGOS REALIZADOS EN EL EJERCICIO | TOTAL CRÉDITOS | ABONOS REALIZADOS EN EL EJERCICIO | CRÉDITOS PENDIENTES DE COBRO A 31 DE DICIEMBRE |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-
-MUTUA N.º
-
-II. Deudor: Gestión del patrimonio privativo
-
-| DESCRIPCIÓN | SALDO A 1 DE ENERO | CARGOS REALIZADOS EN EL EJERCICIO | TOTAL CRÉDITOS | ABONOS REALIZADOS EN EL EJERCICIO | CRÉDITOS PENDIENTES DE COBRO A 31 DE DICIEMBRE |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-
-MUTUA N.º
-
-III. Acreedor: Gestión del patrimonio de la Seguridad Social
-
-| DESCRIPCIÓN | SALDO A 1 DE ENERO | ABONOS REALIZADOS EN EL EJERCICIO | TOTAL DÉBITOS | CARGOS REALIZADOS EN EL EJERCICIO | DÉBITOS PENDIENTES DE PAGO A 31 DE DICIEMBRE |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-
-MUTUA N.º
-
-IV. Acreedor: Gestión del patrimonio privativo
-
-| DESCRIPCIÓN | SALDO A 1 DE ENERO | ABONOS REALIZADOS EN EL EJERCICIO | TOTAL DÉBITOS | CARGOS REALIZADOS EN EL EJERCICIO | DÉBITOS PENDIENTES DE PAGO A 31 DE DICIEMBRE |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-
-Gastos e ingresos por operaciones internas
-
-MUTUA N.º
-
-I. Gastos por operaciones internas con el patrimonio de la Seguridad Social
-
-| DESCRIPCIÓN | TOTAL GASTOS DEVENGADOS EN EL EJERCICIO |
-| --- | --- |
-| PAGADOS | PENDIENTES DE PAGO | TOTAL |
-|  |  |  |  |
-
-MUTUA N.º
-
-II. Gastos por operaciones internas con el patrimonio privativo
-
-| DESCRIPCIÓN | TOTAL GASTOS DEVENGADOS EN EL EJERCICIO |
-| --- | --- |
-| PAGADOS | PENDIENTES DE PAGO | TOTAL |
-|  |  |  |  |
-
-MUTUA N.º
-
-III. Ingresos por operaciones internas con el patrimonio de la Seguridad Social
-
-| DESCRIPCIÓN | TOTAL INGRESOS DEVENGADOS EN EL EJERCICIO |
-| --- | --- |
-| COBRADOS | PENDIENTES DE COBRO | TOTAL |
-|  |  |  |  |
-
-MUTUA N.º
-
-IV. Ingresos por operaciones internas con el patrimonio privativo
-
-| DESCRIPCIÓN | TOTAL INGRESOS DEVENGADOS EN EL EJERCICIO |
-| --- | --- |
-| COBRADOS | PENDIENTES DE COBRO | TOTAL |
-|  |  |  |  |
+> Téngase en cuenta, para su aplicación, la disposición final única de la citada Resolución.
 
 > Se modifica por la disposición única.dos a cuatro de la Resolución de 9 de mayo de 2012. Ref. BOE-A-2012-6329
 

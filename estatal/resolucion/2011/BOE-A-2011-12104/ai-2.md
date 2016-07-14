@@ -2,22 +2,8 @@
 
 ## Balance de Resultados e Informe de Gestión
 
-EJERCICIO . . .
+(Suprimido)
 
-CLASIFICACIÓN ORGÁNICA........................................................
+> Se suprime por el apartado primero.7 de la Resolución de 5 de julio de 2016. Ref. BOE-A-2016-6695
 
-CLASIFICACIÓN POR PROGRAMAS...................
-
-A) GRADO DE REALIZACIÓN DE OBJETIVOS
-
-| OBJETIVO | ACTIVIDADES | INDICADOR | PREVISTO | REALIZADO | DESVIACIONES |
-| --- | --- | --- | --- | --- | --- |
-| ABSOLUTAS | % |
-|  |  |  |  |  |  |  |
-
-B) COSTE DE LOS OBJETIVOS REALIZADOS
-
-| OBJETIVO | ACTIVIDADES | COSTE PREVISTO (CRÉDITOS DEFINITIVOS) | COSTE REALIZADO (OBLIGACIONES RECONOCIDAS) | DESVIACIONES |
-| --- | --- | --- | --- | --- |
-| ABSOLUTAS | % |
-|  |  |  |  |  |  |
+> Téngase en cuenta, para su aplicación, la disposición final única de la citada Resolución.

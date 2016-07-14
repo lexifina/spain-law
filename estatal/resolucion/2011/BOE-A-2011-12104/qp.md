@@ -76,15 +76,17 @@ b) Se cargará, a la devolución de la aportación a la entidad o entidades prop
 
 110. Fondo de Estabilización.
 
-112. Reserva de estabilización por contingencias profesionales.
+111. Reservas de Estabilización.
 
-113. Reserva de estabilización por contingencias comunes.
+112. Reserva Complementaria.
 
-114. Reserva por cese de actividad de trabajadores autónomos.
+113. Reserva de Asistencia Social.
 
-115. Fondo de prevención y rehabilitación.
+114. Reserva Complementaria de Estabilización por Cese de Actividad.
 
-116. Fondo de excedentes de contingencias comunes.
+115. Fondo de Contingencias Profesionales de la Seguridad Social.
+
+116. Fondo de Excedentes de Contingencias Comunes.
 
 117. Reservas voluntarias.
 
@@ -106,103 +108,151 @@ a) La cuenta 129 «Resultado del ejercicio», cuando proceda la incorporación d
 
 b) La cuenta 120 «Resultados de ejercicios anteriores» cuando la incorporación de los resultados se efectúe en forma diferida.
 
-112. Reserva de estabilización por contingencias profesionales.
+111. Reservas de Estabilización.
 
-Las MATEPSS la constituirán en cumplimiento de lo dispuesto en el Reglamento sobre colaboración.
+Esta cuenta recoge las reservas a constituir por la mutuas colaboradoras con la gestión de la Seguridad Social, en cumplimiento de lo dispuesto en el texto refundido de la Ley General de la Seguridad Social y su normativa de desarrollo a partir del resultado económico positivo obtenido anualmente en cada uno de los ámbitos de la gestión atribuida a estas entidades.
 
-Su movimiento será el siguiente:
+1110. Reserva de Estabilización de Contingencias Profesionales.
 
-a) Se abonará por la cuantía que reglamentariamente proceda:
-
-a.1) Con cargo a la cuenta 129 «Resultado del Ejercicio».
-
-a.2) Con cargo, a las cuentas del subgrupo 11 «Reservas», cuando corresponda de acuerdo con la normativa vigente.
-
-b) Se cargará:
-
-b.1) Con abono a la cuenta 129 «Resultado del ejercicio», para cubrir el resultado negativo que se produzca en esta gestión.
-
-b.2) Con abono a las cuentas del subgrupo 11 «Reservas» que en cada caso correspondan, de acuerdo con la normativa vigente, por la aplicación del exceso.
-
-b.3) Con abono a la cuenta 120 «Resultados de ejercicios anteriores», por la regularización de los resultados negativos de ejercicios anteriores.
-
-113. Reserva de estabilización por contingencias comunes.
-
-Las MATEPSS la constituirán en cumplimiento de lo dispuesto en el Reglamento sobre colaboración.
+Esta cuenta recoge la reserva que deben constituir las mutuas colaboradoras con la Seguridad Social a partir del resultado positivo obtenido en la gestión de las contingencias de accidentes de trabajo y de las enfermedades profesionales, de la prestación económica por riesgo durante el embarazo o la lactancia natural, de la prestación por cuidado de menores afectados de cáncer u otra enfermedad grave y de las actividades preventivas de la Seguridad Social.
 
 Su movimiento será el siguiente:
 
-a) Se abonará por la cuantía que reglamentariamente proceda:
+a) Se abonará por la cuantía que legalmente proceda:
 
-a.1) Con cargo a la cuenta 129 «Resultado del Ejercicio».
+a.1) Con cargo a la cuenta 129 “Resultado del ejercicio”, por la dotación anual.
 
-a.2) Con cargo, a las cuentas del subgrupo 11 «Reservas», cuando corresponda de acuerdo con la normativa vigente.
+a.2) Con cargo a las cuentas 112 “Reserva Complementaria” o 1111 “Reserva de Estabilización de Contingencias Comunes”, que en cada caso corresponda de acuerdo con la normativa vigente.
 
 b) Se cargará:
 
-b.1) Con abono a la cuenta 129 «Resultado del ejercicio», para cubrir el resultado negativo que se produzca en esta gestión.
+b.1) Con abono a la cuenta 129 “Resultado del ejercicio” o 120 “Resultados de ejercicios anteriores” para cubrir, respectivamente, el resultado negativo que se produzca en esta gestión en el ejercicio o en ejercicios anteriores.
 
-b.2) Con abono a las cuentas del subgrupo 11 «Reservas» que en cada caso correspondan, de acuerdo con la normativa vigente, por la aplicación del exceso.
+b.2) Con abono, a la cuenta 1111 “Reserva de Estabilización de Contingencias Comunes”, para cubrir el nivel mínimo establecido legalmente.
 
-b.3) Con abono a la cuenta 120 «Resultados de ejercicios anteriores», por la regularización de los resultados negativos de ejercicios anteriores.
+b.3) Por la aplicación del exceso, con abono a las cuentas del subgrupo 11 “Reservas” que en cada caso correspondan, de acuerdo con la normativa vigente.
 
-114. Reserva por cese de actividad de trabajadores autónomos.
+1111. Reserva de Estabilización de Contingencias Comunes.
 
-Esta cuenta recoge la parte del excedente obtenido por las MATEPSS en la gestión de la prestación por cese de actividad de trabajadores autónomos tanto la parte constituida o pendiente de constituir en la Tesorería General de la Seguridad Social, como la parte constituida en la propia Mutua.
+Esta cuenta recoge la reserva que deben constituir las mutuas colaboradoras con la Seguridad Social a partir del resultado positivo obtenido en la gestión de la prestación por incapacidad temporal derivada de contingencias comunes.
 
-En la Tesorería General, esta cuenta se abonará, al cierre de ejercicio, con cargo a la cuenta 750 «Transferencias», por el importe de los derechos reconocidos, derivados de los ingresos realizados por las MATEPSS.
+Su movimiento será el siguiente:
 
-En la Tesorería General de la Seguridad Social su saldo reflejará la parte del excedente obtenido por las MATEPSS, en la gestión de la prestación por cese de actividad de trabajadores autónomos constituida en la propia Tesorería.
+a) Se abonará por la cuantía que legalmente proceda:
 
-En las MATEPSS el movimiento será el siguiente:
+a.1) Con cargo a la cuenta 129 “Resultado del ejercicio”, por la dotación anual.
 
-a) Se abonará, con cargo a la cuenta 129 «Resultado del ejercicio» por el excedente que resulte de la gestión de las prestaciones económicas por cese de actividad de trabajadores autónomos, una vez atendidas las obligaciones reglamentarias.
+a.2) Con cargo a las cuentas 112 “Reserva Complementaria” o 1110 “Reserva de Estabilización de Contingencias Profesionales”, que en cada caso corresponda de acuerdo con la normativa vigente.
 
-b) Se cargará, al cierre del ejercicio, con abono a la cuenta 650 «Transferencias», por el importe de las obligaciones reconocidas, derivadas de los ingresos realizados por las MATEPSS en la Tesorería General de la Seguridad Social.
+b) Se cargará:
 
-En las MATEPSS, su saldo reflejará tanto la parte de excedentes por cese de actividad de trabajadores autónomos pendientes de ingresar en la Tesorería, como la parte constituida en la propia Mutua.
+b.1) Con abono a la cuenta 129 “Resultado del ejercicio” o 120 “Resultados de ejercicios anteriores” para cubrir el resultado negativo que se produzca en esta gestión en el ejercicio o en ejercicios anteriores, respectivamente.
 
-No obstante lo anterior, en caso de que sea necesario, tanto en las MATEPSS, como en la Tesorería General de la Seguridad Social, la aplicación de esta reserva por insuficiencia financiera, se realizará con abono a las cuentas que en cada caso correspondan y de conformidad con el desarrollo reglamentario que se establezca.
+b.2) Con abono a la cuenta 1110 “Reserva de Estabilización de Contingencias Profesionales”, para cubrir el mínimo previsto legalmente.
 
-115. Fondo de prevención y rehabilitación.
+b.3) Por la aplicación del exceso, con abono a las cuentas del subgrupo 11 “Reservas” que en cada caso correspondan, de acuerdo con la normativa vigente.
 
-Esta cuenta recoge las reservas dotadas por las MATEPSS para la constitución del Fondo de prevención y rehabilitación, establecido legalmente.
+1112. Reserva de Estabilización por Cese de Actividad.
 
-En la Tesorería General, el movimiento de esta cuenta será el siguiente:
+Esta cuenta recoge la reserva que deben constituir las mutuas colaboradoras con la Seguridad Social a partir del resultado positivo obtenido en la gestión de la protección por cese de actividad de los trabajadores por cuenta propia.
 
-a) Se abonará, al cierre del ejercicio, con cargo a la cuenta 750 «Transferencias», por el importe de los derechos reconocidos, derivados de los ingresos realizados por las MATEPSS en la cuenta del Banco de España afecta al Fondo de prevención y rehabilitación, cuya titularidad corresponde a la Tesorería General de la Seguridad Social.
+Su movimiento será el siguiente:
 
-b) Se cargará, al cierre del ejercicio, con abono a la cuenta 650 «Transferencias», por el importe de las obligaciones reconocidas, derivadas principalmente de las disposiciones realizadas sobre el Fondo de prevención y rehabilitación a favor de la MATEPSS, para su materialización en el activo, o bien para otras disposiciones que pudieran establecerse.
+a) Se abonará por la cuantía que legalmente proceda:
 
-En la Tesorería General de la Seguridad Social su saldo reflejará el Fondo de prevención y rehabilitación constituido en la Cuenta Única del Banco de España, por las MATEPSS para la financiación de actividades de prevención y rehabilitación.
+a.1) Con cargo a la cuenta 129 “Resultado del ejercicio”, por la dotación anual.
 
-En las MATEPSS el movimiento será el siguiente:
+a.2) Con cargo a la cuenta 114 “Reserva Complementaria de Estabilización por Cese de Actividad” por la cuantía necesaria para cubrir el nivel mínimo de dotación establecido legalmente.
+
+b) Se cargará:
+
+b.1) Con abono a la cuenta 129 “Resultado del ejercicio” o 120 “Resultados de ejercicios anteriores” para cubrir, respectivamente, el resultado negativo que se produzca en esta gestión en el ejercicio o en ejercicios anteriores.
+
+b.2) Por la aplicación del exceso, con abono a las cuentas del subgrupo 11 “Reservas” que en cada caso correspondan, de acuerdo con la normativa vigente.
+
+112. Reserva complementaria.
+
+Recogerá la reserva a constituir por las mutuas colaboradoras en aplicación de lo dispuesto en el texto refundido de la Ley General de la Seguridad Social y su normativa de desarrollo.
+
+El movimiento de la cuenta será el siguiente:
+
+a) Se abonará por la dotación del ejercicio con cargo a la cuenta 129 “Resultado del ejercicio”.
+
+b) Se cargará:
+
+b.1) Con abono a las cuentas 1110 “Reserva de Estabilización de Contingencias Profesionales” y 1111 “Reserva de Estabilización de Contingencias Comunes”, de acuerdo con lo previsto en la normativa vigente.
+
+b.2) Al cierre del ejercicio, por las disposiciones legalmente establecidas para esta reserva, con abono a la cuenta 7772 "Ingresos procedentes de la Reserva Complementaria".
+
+113. Reserva de Asistencia Social.
+
+Esta cuenta recoge la reserva constituida por las mutuas colaboradoras según lo dispuesto en el texto refundido de la Ley General de la Seguridad Social y su normativa de desarrollo.
+
+Su movimiento será el siguiente:
+
+a) Se abonará por las cantidades que corresponda dotar en cada ejercicio con cargo a la cuenta 129 “Resultados del ejercicio”.
+
+b) Se cargará, al cierre del ejercicio, con abono a la cuenta 7771 “Ingresos procedentes de la Reserva de Asistencia Social”, por el importe de las aplicaciones de la reserva efectuadas durante el ejercicio.
+
+114. Reserva Complementaria de Estabilización por Cese de Actividad.
+
+Recogerá el excedente obtenido por las mutuas colaboradoras en la gestión de la protección por cese de actividad de los trabajadores por cuenta propia, que se destinará a constituir, en la Tesorería General de la Seguridad Social, la Reserva Complementaria de Estabilización por Cese de Actividad de acuerdo con lo dispuesto en el texto refundido de la Ley General de la Seguridad Social.
+
+En la Tesorería General el movimiento de esta cuenta será el siguiente:
+
+a) Se abonará, al cierre del ejercicio, con cargo a la cuenta 750 “Transferencias”, por el importe de los derechos reconocidos, derivados de los ingresos realizados por las mutuas colaboradoras para la dotación de la reserva.
+
+b) Se cargará, al cierre del ejercicio, con abono a la cuenta 650 “Transferencias”, por el importe de las obligaciones reconocidas, derivadas de las disposiciones realizadas sobre la reserva a favor de las mutuas colaboradoras, para las finalidades previstas legalmente.
+
+En las mutuas colaboradoras su movimiento será el siguiente:
+
+a) Se abonará:
+
+a.1) Con cargo a la cuenta 129 “Resultado del ejercicio” por el excedente que resulte de la gestión de la protección por cese de actividad, una vez dotada la correspondiente Reserva de Estabilización.
+
+a.2) Con cargo a la cuenta 750 “Transferencias”, al cierre del ejercicio, por el importe de los derechos reconocidos, derivados de las disposiciones realizadas sobre la reserva a favor de las mutuas colaboradoras, para las finalidades previstas en la Ley.
+
+b) Se cargará:
+
+b.1) Al cierre del ejercicio, con abono a la cuenta 650 “Transferencias”, por el importe de las obligaciones reconocidas, derivadas de los ingresos realizados a favor de la Tesorería General de la Seguridad Social para la dotación de la reserva.
+
+b.2) Con abono, en su caso, a las cuentas 1112 “Reserva de Estabilización por Cese de Actividad” o 129 “Resultado del ejercicio”.
+
+115. Fondo de Contingencias Profesionales de la Seguridad Social.
+
+Esta cuenta recoge las reservas dotadas por las mutuas colaboradoras para la constitución del Fondo de Contingencias Profesionales de la Seguridad Social, de acuerdo con lo dispuesto en el texto refundido de la Ley General de la Seguridad Social.
+
+En la Tesorería General el movimiento de esta cuenta será el siguiente:
+
+a) Se abonará, al cierre del ejercicio, con cargo a la cuenta 750 “Transferencias”, por el importe de los derechos reconocidos, derivados de los ingresos realizados por las mutuas colaboradoras en la cuenta del Banco de España afecta al Fondo de Contingencias Profesionales, cuya titularidad corresponde a la Tesorería General de la Seguridad Social.
+
+b) Se cargará, al cierre del ejercicio, con abono a la cuenta 650 “Transferencias”, por el importe de las obligaciones reconocidas, derivadas de las disposiciones realizadas sobre el Fondo de Contingencias Profesionales a favor de las mutuas colaboradoras, o a la cuenta que corresponda según la disposición que se haga del Fondo de acuerdo con la normativa vigente.
+
+En la Tesorería General de la Seguridad Social su saldo reflejará el Fondo de Contingencias Profesionales constituido en la Cuenta Única del Banco de España por las mutuas colaboradoras.
+
+En las mutuas colaboradoras el movimiento será el siguiente:
 
 a) Se abonará con cargo a:
 
-a.1) La cuenta 129 «Resultado del ejercicio».
+a.1) La cuenta 129 “Resultado del ejercicio”.
 
-a.2) La cuenta 750 «Transferencias», al cierre del ejercicio, por el importe de los derechos reconocidos, derivados de las disposiciones realizadas sobre el Fondo de prevención y rehabilitación a favor de la MATEPSS, para su materialización en el activo, o bien para otras disposiciones que pudieran establecerse
+a.2) La cuenta 750 “Transferencias”, al cierre del ejercicio, por el importe de los derechos reconocidos, derivados de las disposiciones realizadas sobre el Fondo de Contingencias Profesionales a favor de las mutuas colaboradoras.
 
-b) Se cargará, al cierre del ejercicio, con abono a la cuenta 650 «Transferencias», por el importe de las obligaciones reconocidas, derivadas de los ingresos realizados por las MATEPSS en la Cuenta Única del Banco de España afecta al Fondo de prevención y rehabilitación, cuya titularidad corresponde a la Tesorería General de la Seguridad Social.
+b) Se cargará, a fin de ejercicio, con abono a la cuenta 650 “Transferencias”, por el importe de las obligaciones reconocidas durante el ejercicio, derivadas de los ingresos realizados por las Mutuas Colaboradoras en la cuenta del Banco de España afecta al Fondo de Contingencias Profesionales, cuya titularidad corresponde a la Tesorería General de la Seguridad Social.
 
-En las MATEPSS su saldo reflejará el Fondo de prevención y rehabilitación constituido por la entidad, que se encuentre pendiente de ingreso en el Banco de España o materializado en cuentas de activo.
+En las mutuas colaboradoras su saldo reflejará el Fondo de Contingencias Profesionales constituido en la entidad, que se encuentre pendiente de ingreso en el Banco de España o materializado en cuentas de activo.
 
-116. Fondo de excedentes de contingencias comunes.
+116. Fondo de Excedentes de Contingencias Comunes.
 
-Esta cuenta recoge el excedente de contingencias comunes obtenido por las MATEPSS que se destinará a dotar el Fondo de Reserva de la Seguridad Social de acuerdo con lo dispuesto en el Reglamento sobre colaboración.
+Esta cuenta recoge el excedente de contingencias comunes obtenido por las mutuas colaboradoras que se destinará a dotar el Fondo de Reserva de la Seguridad Social de acuerdo con lo dispuesto en el texto refundido de la Ley General de la Seguridad Social.
 
-En la Tesorería General, esta cuenta sólo admite abonos al cierre del ejercicio con cargo a la cuenta 750 «Transferencias», por el importe de los derechos reconocidos, derivados de los ingresos realizados por las MATEPSS en la Cuenta Única del Banco de España afecta al Fondo de Reserva de la Seguridad Social.
+En la Tesorería General, esta cuenta sólo admite abonos al cierre del ejercicio con cargo a la cuenta 750 “Transferencias”, por el importe de los derechos reconocidos, derivados de los ingresos realizados por las mutuas colaboradoras en la Cuenta Única del Banco de España afecta al Fondo de Reserva de la Seguridad Social.
 
-En la Tesorería General, su saldo reflejará la parte del Fondo de Reserva de la Seguridad Social, financiada exclusivamente a través de las aportaciones de las MATEPSS.
+En las mutuas colaboradoras el movimiento será el siguiente:
 
-En las MATEPSS el movimiento será el siguiente:
+a) Se abonará con cargo a la cuenta 129 “Resultado del ejercicio” por el excedente que resulte de la gestión de la prestación económica de incapacidad temporal por contingencias comunes, una vez dotada la correspondiente Reserva de Estabilización.
 
-a) Se abonará, con cargo a la cuenta 129 «Resultado del ejercicio» por el excedente que resulte de la gestión de las prestaciones económicas de contingencias comunes, una vez atendidas las obligaciones reglamentarias.
-
-b) Se cargará, al cierre del ejercicio, con abono a la cuenta 650 «Transferencias», por el importe de las obligaciones reconocidas, derivadas de los ingresos realizados por las MATEPSS en la cuenta del Banco de España afecta al Fondo de Reserva de la Seguridad Social, cuya titularidad corresponde a la Tesorería General de la Seguridad Social.
-
-En las MATEPSS, su saldo reflejará la parte de excedentes de contingencias comunes pendientes de ingresar en la Cuenta Única del Banco de España afecta al Fondo de Reserva de la Seguridad Social.
+b) Se cargará, al cierre del ejercicio, con abono a la cuenta 650 “Transferencias”, por el importe de las obligaciones reconocidas, derivadas de los ingresos realizados por las mutuas colaboradoras en la cuenta del Banco de España afecta al Fondo de Reserva de la Seguridad Social, cuya titularidad corresponde a la Tesorería General de la Seguridad Social.
 
 117. Reservas voluntarias.
 
@@ -276,7 +326,7 @@ d) En las MATEPSS, a los solos efectos de establecer los excedentes que habrán 
 
 En las MATEPSS, recogerá el 1 de enero, dentro de la actividad de colaboración en la gestión de la Seguridad Social, el excedente neto generado por las cuotas de cualquier naturaleza que al final del ejercicio anterior se hallen pendientes de cobro.
 
-Se calculará por la diferencia existente entre las cuotas pendientes de cobro a fin del ejercicio anterior menos el deterioro de valor de créditos correspondiente a dichas cuotas.
+Se calculará por la diferencia existente entre las cuotas pendientes de cobro a fin del ejercicio anterior menos el deterioro de valor de créditos correspondiente a dichas cuotas, así como los demás gastos asociados a la recaudación de las mismas.
 
 Su movimiento es el siguiente:
 
@@ -908,7 +958,7 @@ Edificaciones en general. Se incluyen, entre otros, los edificios administrativo
 
 Maquinaria: Conjunto de máquinas o bienes de equipo que se utilizan para la prestación de servicios que constituyen la actividad del sujeto contable.
 
-Se incluirán aquellos elementos de transporte interno que se destinen al traslado de personal, dentro de centros, sin salir al exterior.
+Se incluirán aquellos elementos de transporte interno que se destinen al traslado de personal, materiales y mercaderías, dentro de centros, hospitales, etc., sin salir al exterior.
 
 Utillaje: Conjunto de utensilios o herramientas que se pueden utilizar autónomamente o conjuntamente con la maquinaria, incluidos los moldes y las plantillas.
 
@@ -1130,7 +1180,7 @@ b) Se abonará por las enajenaciones y, en general por su baja del activo, con c
 
 25101. Fondo Reserva de la Seguridad Social. Cartera eurozona.
 
-25102. Fondo Reserva de la Seguridad Social Cartera zona no euro.
+25102. Fondo de Reserva de la Seguridad Social. Otros activos.
 
 25103. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -1148,7 +1198,7 @@ b) Se abonará por las enajenaciones y, en general por su baja del activo, con c
 
 25111. Fondo Reserva de la Seguridad Social. Cartera Eurozona.
 
-25112. Fondo Reserva de la Seguridad Social. Cartera zona no euro.
+25112. Fondo de Reserva de la Seguridad Social. Otros activos.
 
 25113. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -1186,7 +1236,7 @@ b) Se abonará por las enajenaciones y, en general por su baja del activo, con c
 
 2561. Intereses a largo plazo. Fondo de Reserva de la Seguridad Social. Cartera Eurozona.
 
-2562. Intereses a largo plazo. Fondo de Reserva de la Seguridad Social. Cartera Zona no Euro.
+2562. Intereses a largo plazo. Fondo de Reserva de la Seguridad Social. Otros activos.
 
 2563. Intereses a largo plazo. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -1298,9 +1348,9 @@ En la TGSS, recoge los activos financieros públicos, representativos de deuda p
 
 En la TGSS, recoge los activos financieros públicos, representativos de la deuda pública emitida por estados, entidades u organismos públicos de la zona euro distintos al mercado español, en que se materializa el Fondo de Reserva de la Seguridad Social previsto en el artículo 91.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de julio.
 
-25102. Fondo de Reserva de la Seguridad Social. Cartera zona no euro.
+25102. Fondo de Reserva de la Seguridad Social. Otros activos.
 
-En la TGSS, recoge los activos financieros públicos, representativos de la deuda pública emitida por estados, entidades u organismos públicos no integrantes de la zona euro, en que se materializa el Fondo de Reserva de la Seguridad Social previsto en el artículo 91.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de julio.
+En la TGSS, recoge los activos financieros representativos de deuda distintos de los recogidos en otras subcuentas o divisionarias de éstas en que pueda materializarse el Fondo de Reserva de la Seguridad Social previsto en el artículo 91.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de julio.
 
 25103. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -1372,9 +1422,9 @@ En la TGSS, recoge los activos financieros públicos, representativos de deuda p
 
 En la TGSS, recoge los activos financieros públicos, representativos de la deuda pública emitida por estados, entidades u organismos públicos de la zona euro distintos al mercado español, en que se materializa el Fondo de Reserva de la Seguridad Social previsto en el artículo 91.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de julio.
 
-25112. Fondo de Reserva de la Seguridad Social. Cartera zona no euro.
+25112. Fondo de Reserva de la Seguridad Social. Otros activos.
 
-En la TGSS, recoge los activos financieros públicos, representativos de la deuda pública emitida por estados, entidades u organismos públicos no integrantes de la zona euro, en que se materializa el Fondo de Reserva de la Seguridad Social previsto en el artículo 91.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de julio.
+En la TGSS, recoge los activos financieros representativos de deuda distintos de los recogidos en otras subcuentas o divisionarias de éstas en que pueda materializarse el Fondo de Reserva de la Seguridad Social previsto en el artículo 91.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de julio.
 
 25113. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -1506,9 +1556,9 @@ En la TGSS, recoge el importe de los intereses a cobrar con vencimiento superior
 
 En la TGSS, recoge el importe de los intereses a cobrar con vencimiento superior a un año, de valores representativos de deuda emitidos por Estados, entidades u organismos públicos de la zona euro distintos al mercado español afectos al Fondo de Reserva de la Seguridad Social.
 
-2562. Intereses a largo plazo. Fondo de Reserva de la Seguridad Social. Cartera zona no euro.
+2562. Intereses a largo plazo. Fondo de Reserva de la Seguridad Social. Otros activos.
 
-En la TGSS, recoge el importe de los intereses a cobrar con vencimiento superior a un año, de valores representativos de deuda emitidos por estados, entidades u organismos públicos no integrantes de la zona euro afectos al Fondo de Reserva de la Seguridad Social.
+En la TGSS, recoge el importe de los intereses a cobrar con vencimiento superior a un año, de valores representativos de deuda distintos de los recogidos en otras subcuentas, afectos al Fondo de Reserva de la Seguridad Social.
 
 2563. Intereses a largo plazo. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -1594,25 +1644,41 @@ La parte de fianzas y depósitos constituidos a largo plazo que tenga vencimient
 
 Efectivo entregado como garantía del cumplimiento de una obligación, a plazo superior a un año.
 
-Su movimiento es el siguiente:
+Funcionará a través de sus divisionarias.
 
-a) Se cargará, a la constitución, por el efectivo entregado, con abono a la cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», o a cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes», cuando la operación la realice el patrimonio privativo de las MATEPSS.
+En el supuesto de constituirse con aplicación al presupuesto de gastos se imputarán a la divisionaria 2600 “Fianzas constituidas a largo plazo. Operaciones presupuestarias” y su movimiento será el siguiente:
+
+a) Se cargará, a la constitución, por el efectivo entregado, con abono a la cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente».
 
 b) Se abonará con cargo a:
 
-b.1) La subcuenta 5526 «Órdenes de cobro», o a cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes», cuando la operación la realice el patrimonio privativo de las MATEPSS.
+b.1) La subcuenta 5526 «Órdenes de cobro».
 
 b.2) La cuenta 678 «Gastos excepcionales», por incumplimiento de la obligación afianzada que determine pérdidas en la fianza.
+
+En el supuesto de tratarse como una operación no presupuestaria se imputarán a la divisionaria 2601 “Fianzas constituidas a largo plazo. Operaciones no presupuestarias” y su movimiento será el siguiente:
+
+a) Se cargará, a su constitución, con abono a la cuenta 5522 “Pagos realizados por cuenta de relaciones internas” o a cuentas del subgrupo 57 “Efectivo y activos líquidos equivalentes”, cuando la operación corresponda al patrimonio privativo de las mutuas colaboradoras.
+
+b) Se abonará, a la devolución, con cargo a la subcuenta 5529 “Formalización de ingresos por cuenta de relaciones internas” o a cuentas del subgrupo 57 “Efectivo y activos líquidos equivalentes”, cuando la operación la realice el patrimonio privativo de las mutuas colaboradoras.
 
 265. Depósitos constituidos a largo plazo.
 
 Efectivo entregado en concepto de depósito irregular, a plazo superior a un año.
 
-Su movimiento es el siguiente:
+Funcionará a través de sus divisionarias.
 
-a) Se cargará, a la constitución, por el efectivo entregado, con abono a la cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», o a cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes», cuando la operación la realice el patrimonio privativo de las MATEPSS.
+En el supuesto de constituirse con aplicación al presupuesto de gastos se imputarán a la divisionaria 2650 “Depósitos constituidos a largo plazo. Operaciones presupuestarias” y su movimiento será el siguiente:
 
-b) Se abonará, a la cancelación anticipada, con cargo a la subcuenta 5526 «Órdenes de cobro», o a cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes», según proceda.
+a) Se cargará, a la constitución, por el efectivo entregado, con abono a la cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente».
+
+b) Se abonará, a la cancelación anticipada, con cargo a la subcuenta 5526 «Órdenes de cobro».
+
+En el supuesto de tratarse como una operación no presupuestaria se imputarán a la divisionaria 2651 “Depósitos constituidos a largo plazo. Operaciones no presupuestarias” y su movimiento será el siguiente:
+
+a) Se cargará, a su constitución, con abono a la cuenta 5522 “Pagos realizados por cuenta de relaciones internas” o a cuentas del subgrupo 57 “Efectivo y activos líquidos equivalentes”, cuando la operación corresponda al patrimonio privativo de las mutuas colaboradoras.
+
+b) Se abonará, a la devolución, con cargo a la subcuenta 5529 “Formalización de ingresos por cuenta de relaciones internas” o a cuentas del subgrupo 57 “Efectivo y activos líquidos equivalentes”, cuando la operación corresponda al patrimonio privativo de las mutuas colaboradoras.
 
 28. Amortización acumulada del inmovilizado.
 
@@ -3514,7 +3580,7 @@ Su movimiento es análogo al señalado para la cuenta 527 «Intereses a corto pl
 
 54101. Fondo de Reserva de la Seguridad Social. Cartera eurozona.
 
-54102. Fondo de Reserva de la Seguridad Social. Cartera zona no euro.
+54102. Fondo de Reserva de la Seguridad Social. Otros activos.
 
 54103. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -3576,7 +3642,7 @@ Su movimiento es análogo al señalado para la cuenta 527 «Intereses a corto pl
 
 5461. Intereses a corto plazo. Fondo de Reserva de la Seguridad Social. Cartera eurozona.
 
-5462. Intereses a corto plazo. Fondo de Reserva de la Seguridad Social. Cartera zona no euro.
+5462. Intereses a corto plazo. Fondo de Reserva de la Seguridad Social. Otros activos.
 
 5463. Intereses a corto plazo. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -3696,9 +3762,9 @@ En la TGSS, recoge los activos financieros públicos, representativos de deuda p
 
 En la TGSS, recoge los activos financieros públicos, representativos de la deuda pública emitida por estados, entidades u organismos públicos de la zona euro distintos al mercado español, en que se materializa el Fondo de Reserva de la Seguridad Social previsto en el artículo 91.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de julio.
 
-54102. Fondo de Reserva de la Seguridad Social. Cartera zona no euro.
+54102. Fondo de Reserva de la Seguridad Social. Otros activos.
 
-En la TGSS, recoge los activos financieros públicos, representativos de la deuda pública emitida por estados, entidades u organismos públicos no integrantes de la zona euro, en que se materializa el Fondo de Reserva de la Seguridad Social previsto en el artículo 91.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de julio.
+En la TGSS, recoge los activos financieros representativos de deuda distintos de los recogidos en otras subcuentas o divisionarias de éstas en que pueda materializarse el Fondo de Reserva de la Seguridad Social previsto en el artículo 91.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de julio.
 
 54103. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -3770,9 +3836,9 @@ En la TGSS, recoge los activos financieros públicos, representativos de deuda p
 
 En la TGSS, recoge los activos financieros públicos, representativos de la deuda pública emitida por estados, entidades u organismos públicos de la zona euro distintos al mercado español, en que se materializa el Fondo de Reserva de la Seguridad Social previsto en el artículo 91.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de julio.
 
-54112. Fondo de Reserva de la Seguridad Social. Cartera zona no euro.
+54112. Fondo de Reserva de la Seguridad Social. Otros activos.
 
-En la TGSS, recoge los activos financieros públicos, representativos de la deuda pública emitida por estados, entidades u organismos públicos no integrantes de la zona euro, en que se materializa el Fondo de Reserva de la Seguridad Social previsto en el artículo 91.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de julio.
+En la TGSS, recoge los activos financieros representativos de deuda distintos de los recogidos en otras subcuentas o divisionarias de estas en que pueda materializarse el Fondo de Reserva de la Seguridad Social previsto en el artículo 91.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de julio.
 
 54113. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -3904,9 +3970,9 @@ En la TGSS, recoge el importe de los intereses a cobrar con vencimiento no super
 
 En la TGSS, recoge el importe de los intereses a cobrar con vencimiento no superior a un año, de valores representativos de deuda emitidos por estados, entidades u organismos públicos de la zona euro distintos al mercado español afectos al Fondo de Reserva de la Seguridad Social.
 
-5462. Intereses a corto plazo. Fondo de Reserva de la Seguridad Social. Cartera zona no euro.
+5462. Intereses a corto plazo. Fondo de Reserva de la Seguridad Social. Otros activos.
 
-En la TGSS, recoge el importe de los intereses a cobrar con vencimiento no superior a un año, de valores representativos de deuda emitidos por estados, entidades u organismos públicos no integrantes de la zona euro afectos al Fondo de Reserva de la Seguridad Social.
+En la TGSS, recoge el importe de los intereses a cobrar con vencimiento no superior a un año, de valores representativos de deuda distintos de los recogidos en otras subcuentas, afectos al Fondo de Reserva de la Seguridad Social.
 
 5463. Intereses a corto plazo. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -4502,15 +4568,23 @@ Efectivo entregado como garantía del cumplimiento de una obligación, a plazo n
 
 Figurará en el activo corriente del balance en el epígrafe V «Inversiones financieras a corto plazo».
 
-Su movimiento será el siguiente:
+Funcionará a través de sus divisionarias.
 
-a) Se cargará a la constitución, por el efectivo entregado, con abono a la cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente» o a cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes», cuando las constituya el patrimonio privativo de las MATEPSS.
+En el supuesto de constituirse con aplicación al presupuesto de gastos se imputarán a la divisionaria 5650 “Fianzas constituidas a corto plazo. Operaciones presupuestarias” y su movimiento será el siguiente:
+
+a) Se cargará a la constitución, por el efectivo entregado, con abono a la cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente».
 
 b) Se abonará con cargo a:
 
-b.1) La subcuenta 5526 «Órdenes de cobro», por su cancelación o a cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes», cuando la operación corresponda al patrimonio privativo de las MATEPSS.
+b.1) La subcuenta 5526 «Órdenes de cobro», por su cancelación.
 
 b.2) La cuenta 678 «Gastos excepcionales», por incumplimiento de la obligación afianzada que determine pérdidas en la fianza.
+
+En el supuesto de tratarse como una operación no presupuestaria se imputarán a la divisionaria 5651 “Fianzas constituidas a corto plazo. Operaciones no presupuestarias” y su movimiento será el siguiente:
+
+a) Se cargará, a su constitución, con abono a la cuenta 5522 “Pagos realizados por cuenta de relaciones internas” o a cuentas del subgrupo 57 “Efectivo y activos líquidos equivalentes”, cuando la operación corresponda al patrimonio privativo de las mutuas colaboradoras.
+
+b) Se abonará, a la devolución, con cargo a la subcuenta 5529 “Formalización de ingresos por cuenta de relaciones internas” o a cuentas del subgrupo 57 “Efectivo y activos líquidos equivalentes”, cuando la operación corresponda al patrimonio privativo de las mutuas colaboradoras.
 
 566. Depósitos constituidos a corto plazo.
 
@@ -4522,9 +4596,9 @@ Funcionará a través de sus divisionarias.
 
 En el supuesto de constituirse con aplicación al presupuesto de gastos se imputarán a la divisionaria 5660 «Depósitos constituidos a corto plazo. Operaciones presupuestarias» y su movimiento será el siguiente:
 
-a) Se cargará, a su constitución, con abono a la cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente» o a cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes», cuando la operación corresponda al patrimonio privativo de las MATEPSS.
+a) Se cargará, a su constitución, con abono a la cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente».
 
-b) Se abonará, a la cancelación, con cargo a la subcuenta 5526 «Órdenes de cobro» o a cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes», cuando la operación corresponda al patrimonio privativo de las MATEPSS.
+b) Se abonará, a la cancelación, con cargo a la subcuenta 5526 «Órdenes de cobro».
 
 En el supuesto de tratarse como una operación no presupuestaria se imputarán a la divisionaria 5661 «Depósitos constituidos a corto plazo. Operaciones no presupuestarias» y su movimiento será el siguiente:
 
@@ -4756,21 +4830,33 @@ Inversiones financieras de gran liquidez, que cumplan todas las condiciones sigu
 
 Se realizan con el objetivo de rentabilizar excedentes temporales de efectivo y forman parte de la gestión normal de la liquidez de la entidad.
 
-En el momento de su formalización tienen un vencimiento inferior a 3 meses.
+En el momento de su formalización tienen un vencimiento inferior a tres meses.
 
 Son fácilmente convertibles en importes determinados de efectivo sin incurrir en penalizaciones significativas.
 
 Están sujetas a un riesgo poco significativo de cambios en su valor.
 
-Su movimiento, con carácter general, es el siguiente:
+Funcionará a través de sus divisionarias.
+
+Su movimiento es el siguiente:
 
 a) Se cargará:
 
-a.1) A la formalización o en fin de ejercicio por el incremento de este tipo de activos a lo largo del ejercicio, con abono, generalmente, a la cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente» o a las cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes» si la operación la efectúa el patrimonio privativo de las MATEPSS.
+a.1) A la formalización o en fin de ejercicio por el incremento de este tipo de activos a lo largo del ejercicio, con abono, generalmente, a la cuenta 400 “Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente” o a las cuentas del subgrupo 57 “Efectivo y activos líquidos equivalentes” si la operación la efectúa el patrimonio privativo de las mutuas.
 
-a.2) Por los intereses explícitos o implícitos devengados, con abono generalmente a la cuenta 769 «Otros ingresos financieros».
+a.2) Por los intereses explícitos o implícitos devengados, con abono generalmente a la cuenta 769 “Otros ingresos financieros”.
 
-b) Se abonará, por el importe recibido en el momento de la enajenación o liquidación de la inversión o en fin de ejercicio por la disminución de este tipo de activos a lo largo del ejercicio, con cargo, generalmente, a la subcuenta 5526 «Órdenes de cobro» o a las cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes» si la operación la efectúa el patrimonio privativo de las MATEPSS.
+b) Se abonará, por el importe recibido en el momento de la enajenación o liquidación de la inversión o en fin de ejercicio por la disminución de este tipo de activos a lo largo del ejercicio, con cargo, generalmente, a la subcuenta 5526 “Órdenes de cobro” o a las cuentas del subgrupo 57 “Efectivo y activos líquidos equivalentes” si la operación la efectúa el patrimonio privativo de las mutuas.
+
+El contenido de sus subcuentas es el siguiente:
+
+5770. Activos líquidos equivalentes al efectivo afectos al Fondo de Reserva de la Seguridad Social.
+
+En la TGSS, recoge aquellos activos líquidos equivalentes al efectivo en que se materializa el Fondo de Reserva de la Seguridad Social previsto en el artículo 91.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de julio.
+
+5779. Otros activos líquidos equivalentes al efectivo.
+
+Recoge el importe de aquellos otros activos líquidos equivalentes al efectivo no contemplados en otras subcuentas de esta cuenta.
 
 58. Provisiones a corto plazo.
 
@@ -4794,7 +4880,7 @@ El movimiento de las cuentas 582 «Provisión a corto plazo para responsabilidad
 
 584. Provisión para contingencias en tramitación.
 
-Provisión para gastos futuros de prestaciones económicas, pendientes de reconocimiento al cierre del ejercicio.
+Provisión para gastos futuros de prestaciones económicas, pendientes de reconocimiento al cierre del ejercicio, calculada con arreglo a lo dispuesto en la normativa aplicable.
 
 Su movimiento es el siguiente:
 
@@ -6252,6 +6338,26 @@ El contenido y movimiento de las subcuentas que comprende es el siguiente:
 
 Su movimiento es análogo al señalado para la cuenta 775 «Ingresos por servicios diversos».
 
+7771. Ingresos procedentes de la Reserva de Asistencia Social.
+
+Recogerá el importe de las aplicaciones de la Reserva de Asistencia Social que las mutuas destinen a la financiación de las prestaciones de asistencia social.
+
+Su movimiento será el siguiente:
+
+a) Se abonará con cargo a la cuenta 113 “Reserva de Asistencia Social”, por el importe de las aplicaciones de la reserva efectuadas.
+
+b) Se cargará, por su saldo, al cierre del ejercicio, con abono a la cuenta 129 “Resultado del ejercicio”.
+
+7772. Ingresos procedentes de la Reserva Complementaria.
+
+Recogerá el importe de las aplicaciones de la Reserva Complementaria que se destinen a los fines previstos en la normativa de aplicación.
+
+Su movimiento será el siguiente:
+
+a) Se abonará con cargo a la cuenta 112 “Reserva Complementaria”, por el importe de las aplicaciones de la reserva efectuadas.
+
+b) Se cargará, por su saldo, al cierre del ejercicio, con abono a la cuenta 129 “Resultado del ejercicio”.
+
 7779. Otros ingresos.
 
 Su movimiento es análogo al señalado para la cuenta 775 «Ingresos por servicios diversos».
@@ -7111,6 +7217,10 @@ b) Se abonará con cargo a la cuenta 000 «Presupuesto ejercicio corriente», en
 Su saldo, deudor, recogerá, antes del cierre, las previsiones definitivas de ingresos.
 
 Nota: Las rectificaciones a todas estas cuentas de control presupuestario se efectuarán mediante asientos análogos a los descritos, pero de signo contrario, al objeto de no desvirtuar el significado de las sumas del debe y del haber de las cuentas.
+
+> Se modifica por el apartado primero.6 de la Resolución de 5 de julio de 2016. Ref. BOE-A-2016-6695
+
+> Téngase en cuenta, para su aplicación, la disposición final única de la citada Resolución.
 
 > Se modifica por la disposición única.seis de la Resolución de 9 de mayo de 2012. Ref. BOE-A-2012-6329
 

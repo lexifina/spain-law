@@ -28,13 +28,21 @@
 
 110. Fondo de Estabilización.
 
-112. Reserva de estabilización por contingencias profesionales.
+111. Reservas de Estabilización.
 
-113. Reserva de estabilización por contingencias comunes.
+1110. Reserva de Estabilización de Contingencias Profesionales.
 
-114. Reserva por cese de actividad de trabajadores autónomos.
+1111. Reserva de Estabilización de Contingencias Comunes.
 
-115. Fondo de prevención y rehabilitación.
+1112. Reserva de Estabilización por Cese de Actividad.
+
+112. Reserva Complementaria.
+
+113. Reserva de Asistencia Social.
+
+114. Reserva Complementaria de Estabilización por Cese de Actividad.
+
+115. Fondo de Contingencias Profesionales de la Seguridad Social.
 
 116. Fondo de excedentes de contingencias comunes.
 
@@ -230,7 +238,7 @@
 
 25101. Fondo Reserva de la Seguridad Social. Cartera eurozona.
 
-25102. Fondo Reserva de la Seguridad Social Cartera zona no euro.
+25102. Fondo Reserva de la Seguridad Social. Otros activos.
 
 25103. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -238,7 +246,7 @@
 
 25105. Cartera MATEPSS. Emisor privado nacional.
 
-25108. Valores afectos al Fondo de Prevención y Rehabilitación.
+25108. Valores afectos al Fondo de Contingencias Profesionales.
 
 25109. Otros valores representativos de deuda a largo plazo.
 
@@ -248,7 +256,7 @@
 
 25111. Fondo Reserva de la Seguridad Social. Cartera Eurozona.
 
-25112. Fondo Reserva de la Seguridad Social. Cartera zona no euro.
+25112. Fondo Reserva de la Seguridad Social. Otros activos.
 
 25113. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -256,7 +264,7 @@
 
 25115. Cartera MATEPSS. Emisor privado nacional.
 
-25118. Valores afectos al Fondo de Prevención y Rehabilitación.
+25118. Valores afectos al Fondo de Contingencias Profesionales.
 
 25119. Otros valores representativos de deuda a largo plazo.
 
@@ -286,7 +294,7 @@
 
 2561. Intereses a largo plazo. Fondo de Reserva de la Seguridad Social. Cartera Eurozona.
 
-2562. Intereses a largo plazo. Fondo de Reserva de la Seguridad Social. Cartera Zona no Euro.
+2562. Intereses a largo plazo. Fondo de Reserva de la Seguridad Social. Otros activos.
 
 2563. Intereses a largo plazo. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -294,7 +302,7 @@
 
 2565. Intereses a largo plazo. Cartera MATEPSS. Emisor privado nacional.
 
-2568. Intereses a largo plazo de valores afectos al Fondo de Prevención y Rehabilitación.
+2568. Intereses a largo plazo de valores afectos al Fondo de Contingencias Profesionales.
 
 2569. Intereses a largo plazo de otros valores representativos de deuda.
 
@@ -312,7 +320,15 @@
 
 260. Fianzas constituidas a largo plazo.
 
+2600. Fianzas constituidas a largo plazo. Operaciones presupuestarias.
+
+2601. Fianzas constituidas a largo plazo. Operaciones no presupuestarias.
+
 265. Depósitos constituidos a largo plazo.
+
+2650. Depósitos constituidos a largo plazo. Operaciones presupuestarias.
+
+2651. Depósitos constituidos a largo plazo. Operaciones no presupuestarias.
 
 28. Amortización acumulada del inmovilizado.
 
@@ -790,7 +806,7 @@
 
 54101. Fondo de Reserva de la Seguridad Social. Cartera eurozona.
 
-54102. Fondo de Reserva de la Seguridad Social. Cartera zona no euro.
+54102. Fondo Reserva de la Seguridad Social. Otros activos.
 
 54103. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -798,7 +814,7 @@
 
 54105. Cartera MATEPSS. Emisor privado nacional.
 
-54108. Valores afectos al Fondo de Prevención y Rehabilitación.
+54108. Valores afectos al Fondo de Contingencias Profesionales.
 
 54109. Otros valores representativos de deuda a corto plazo.
 
@@ -808,7 +824,7 @@
 
 54111. Fondo de Reserva de la Seguridad Social. Cartera eurozona.
 
-54112. Fondo de Reserva de la Seguridad Social. Cartera zona no euro.
+54112. Fondo Reserva de la Seguridad Social. Otros activos.
 
 54113. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -816,7 +832,7 @@
 
 54115. Cartera MATEPSS. Emisor privado nacional.
 
-54118. Valores afectos al Fondo de Prevención y Rehabilitación.
+54118. Valores afectos al Fondo de Contingencias Profesionales.
 
 54119. Otros valores representativos de deuda a corto plazo.
 
@@ -852,7 +868,7 @@
 
 5461. Intereses a corto plazo. Fondo de Reserva de la Seguridad Social. Cartera eurozona.
 
-5462. Intereses a corto plazo. Fondo de Reserva de la Seguridad Social. Cartera zona no euro.
+5462. Intereses a corto plazo. Fondo de Reserva de la Seguridad Social. Otros activos.
 
 5463. Intereses a corto plazo. Cartera MATEPSS. Emisor Tesoro Público.
 
@@ -860,7 +876,7 @@
 
 5465. Intereses a corto plazo. Cartera MATEPSS. Emisor privado nacional.
 
-5468. Intereses a corto plazo de valores afectos al Fondo de Prevención y Rehabilitación.
+5468. Intereses a corto plazo de valores afectos al Fondo de Contingencias Profesionales.
 
 5469. Intereses a corto plazo de otros valores representativos de deuda.
 
@@ -956,6 +972,10 @@
 
 565. Fianzas constituidas a corto plazo.
 
+5650. Fianzas constituidas a corto plazo. Operaciones presupuestarias.
+
+5651. Fianzas constituidas a corto plazo. Operaciones no presupuestarias.
+
 566. Depósitos constituidos a corto plazo.
 
 5660. Depósitos constituidos a corto plazo. Operaciones presupuestarias.
@@ -988,7 +1008,7 @@
 
 5714. Banco de España. Fondo de Reserva de la Seguridad Social. Cuenta compensadora de activo fijo de carácter financiero.
 
-5718. Banco de España. Fondo de Prevención y Rehabilitación.
+5718. Banco de España. Fondo de Contingencias Profesionales de la Seguridad Social.
 
 573. Bancos e instituciones de crédito. Cuentas restringidas de recaudación.
 
@@ -1000,8 +1020,6 @@
 
 5738. De operaciones de valores.
 
-574. Bancos e instituciones de crédito. Cuentas bancarias virtuales.
-
 575. Bancos e instituciones de crédito. Cuentas restringidas de pagos.
 
 5750. Del fondo de maniobra.
@@ -1011,6 +1029,10 @@
 5752. Pagos a justificar.
 
 577. Activos líquidos equivalentes al efectivo.
+
+5770. Activos líquidos equivalentes al efectivo afectos al Fondo de Reserva de la Seguridad Social.
+
+5779. Otros activos líquidos equivalentes al efectivo.
 
 58. Provisiones a corto plazo.
 
@@ -1106,7 +1128,11 @@
 
 6070. Asistencia sanitaria concertada.
 
+6071. Asistencia sanitaria no concertada.
+
 6075. Asistencia social concertada.
+
+6076. Asistencia social no concertada.
 
 6079. Otros trabajos.
 
@@ -1598,7 +1624,7 @@
 
 7613. Ingresos de valores representativos de deuda. Cartera MATEPSS.
 
-7618. Ingresos de valores representativos de deuda afectos al Fondo de Prevención y Rehabilitación.
+7618. Ingresos de valores representativos de deuda afectos al Fondo de Contingencias Profesionales de la Seguridad Social.
 
 7619. Ingresos de otros valores representativos de deuda.
 
@@ -1643,6 +1669,10 @@
 777. Otros ingresos.
 
 7770. Descuento de la industria farmacéutica.
+
+7771. Ingresos procedentes de la Reserva de Asistencia Social.
+
+7772. Ingresos procedentes de la Reserva Complementaria.
 
 7779. Otros ingresos.
 
@@ -1889,6 +1919,10 @@
 007. Presupuesto de ingresos: modificaciones de previsiones.
 
 008. Presupuesto de ingresos: previsiones definitivas.
+
+> Se modifica por el apartado primero.5 de la Resolución de 5 de julio de 2016. Ref. BOE-A-2016-6695
+
+> Téngase en cuenta, para su aplicación, la disposición final única de la citada Resolución.
 
 > Se modifica la cuenta 597 por la disposición única.cinco de la Resolución de 9 de mayo de 2012. Ref. BOE-A-2012-6329
 
