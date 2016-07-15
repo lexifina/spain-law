@@ -14,6 +14,10 @@ d) Aprobación del proyecto por el Pleno de la Entidad local.
 
 Recaído acuerdo de la Corporación, se elevará el expediente completo al órgano competente de la Comunidad Autónoma. El Consejo de Gobierno de ésta deberá resolver sobre su aprobación en el plazo de tres meses.
 
+> Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado, en la redacción dada por la disposición final 1 de la Ley 27/2013, de 27 de diciembre. Ref. BOE-A-2013-13756#dfprimera., por Sentencia del TC 111/2016, de 9 de junio. Ref. BOE-A-2016-6839.
+
 Si se solicitase dictamen del Consejo de Estado o del órgano consultivo superior del Consejo de Gobierno de la Comunidad Autónoma, donde existiese, no se computará el tiempo invertido en evacuar la consulta.
 
-> Se modifica el apartado 2 por la disposición final 1 de la Ley 27/2013, de 27 de diciembre. Ref. BOE-A-2013-13756.
+> Se declara inconstitucional y nulo el inciso destacado del párrafo segundo del apartado 2, en la redacción dada por la disposición final 1 de la Ley 27/2013, de 27 de diciembre, por Sentencia del TC 111/2016, de 9 de junio. Ref. BOE-A-2016-6839.
+
+> Se modifica el apartado 2 por la disposición final 1 de la Ley 27/2013, de 27 de diciembre. Ref. BOE-A-2013-13756#dfprimera.

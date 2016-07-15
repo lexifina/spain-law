@@ -7,3 +7,7 @@ Se modifica el apartado segundo del artículo 97 del texto refundido de las Disp
 Recaído acuerdo de la Corporación, se elevará el expediente completo al órgano competente de la Comunidad Autónoma. El Consejo de Gobierno de ésta deberá resolver sobre su aprobación en el plazo de tres meses.
 
 Si se solicitase dictamen del Consejo de Estado o del órgano consultivo superior del Consejo de Gobierno de la Comunidad Autónoma, donde existiese, no se computará el tiempo invertido en evacuar la consulta.»
+
+> Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado, por Sentencia del TC 111/2016, de 9 de junio. Ref. BOE-A-2016-6839.
+
+> Se declara inconstitucional y nulo el inciso destacado, por Sentencia del TC 111/2016, de 9 de junio. Ref. BOE-A-2016-6839.

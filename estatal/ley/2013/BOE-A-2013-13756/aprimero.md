@@ -172,6 +172,8 @@ f) Alumbrado público.
 
 Para coordinar la citada prestación de servicios la Diputación propondrá, con la conformidad de los municipios afectados, al Ministerio de Hacienda y Administraciones Públicas la forma de prestación, consistente en la prestación directa por la Diputación o la implantación de fórmulas de gestión compartida a través de consorcios, mancomunidades u otras fórmulas. Para reducir los costes efectivos de los servicios el mencionado Ministerio decidirá sobre la propuesta formulada que deberá contar con el informe preceptivo de la Comunidad Autónoma si es la Administración que ejerce la tutela financiera.
 
+> Téngase en cuenta que se declaran inconstitucionales y nulos los incisos destacados, por Sentencia del TC 111/2016, de 9 de junio. Ref. BOE-A-2016-6839.
+
 Cuando el municipio justifique ante la Diputación que puede prestar estos servicios con un coste efectivo menor que el derivado de la forma de gestión propuesta por la Diputación provincial o entidad equivalente, el municipio podrá asumir la prestación y coordinación de estos servicios si la Diputación lo considera acreditado.
 
 Cuando la Diputación o entidad equivalente asuma la prestación de estos servicios repercutirá a los municipios el coste efectivo del servicio en función de su uso. Si estos servicios estuvieran financiados por tasas y asume su prestación la Diputación o entidad equivalente, será a ésta a quien vaya destinada la tasa para la financiación de los servicios.
@@ -752,16 +754,8 @@ Treinta y ocho. Se incorpora una nueva disposición adicional decimosexta con la
 
 «Disposición adicional decimosexta. Mayoría requerida para la adopción de acuerdos en las Corporaciones Locales.
 
-1. Excepcionalmente, cuando el Pleno de la Corporación Local no alcanzara, en una primera votación, la mayoría necesaria para la adopción de acuerdos prevista en esta Ley, la Junta de Gobierno Local tendrá competencia para aprobar:
+(Anulado).
 
-a) El presupuesto del ejercicio inmediato siguiente, siempre que previamente exista un presupuesto prorrogado.
-
-b) Los planes económico-financieros, los planes de reequilibrio y los planes de ajuste a los que se refiere la Ley Orgánica 2/2012, de 27 de abril.
-
-c) Los planes de saneamiento de la Corporación Local o los planes de reducción de deudas.
-
-d) La entrada de la Corporación Local en los mecanismos extraordinarios de financiación vigentes a los que se refiere la Ley Orgánica 2/2012, de 27 de abril, y, en particular, el acceso a las medidas extraordinarias de apoyo a la liquidez previstas en el Real Decreto-ley 8/2013, de 28 de junio, de medidas urgentes contra la morosidad de las administraciones públicas y de apoyo a Entidades Locales con problemas financieros.
-
-2. La Junta de Gobierno Local dará cuenta al Pleno en la primera sesión que se celebre con posterioridad a la adopción de los acuerdos mencionados en el apartado anterior, los cuales serán objeto de publicación de conformidad con las normas generales que les resulten de aplicación.»
+> Se declaran inconstitucionales y nulos los incisos destacados del apartado 9 y con los efectos señalados en el fundamento jurídico 8.f), el apartado 38 y que no es inconstitucional el apartado 13, interpretado en los términos de los fundamentos jurídicos 11 y 12.c), por Sentencia del TC 111/2016, de 9 de junio. Ref. BOE-A-2016-6839.
 
 > Se declara inconstitucional y nulo el apartado 17, por Sentencia del TC 41/2016, de 3 de marzo. Ref. BOE-A-2016-3407.
