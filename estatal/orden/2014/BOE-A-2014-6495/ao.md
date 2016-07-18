@@ -2,6 +2,8 @@
 
 > Anexos I a VIII omitidos. Consulte el PDF oficial, y sus modificaciones:
 
+> - Se declara la nulidad de lo indicado de los Anexos II, III y VIII, por Sentencias del TS de 20 de junio de 2016. Ref. BOE-A-2016-6874 y Ref. BOE-A-2016-6875
+
 > - Se modifica el anexo I, por Orden IET/2735/2015, de 17 de diciembre. Ref. BOE-A-2015-13782
 
 > - Se modifica lo indicado del anexo I.6, por Orden IET/1344/2015, de 2 de julio. Ref. BOE-A-2015-7593
