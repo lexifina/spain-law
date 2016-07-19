@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Período transitorio para la comercialización y puesta en servicio de equipos a presión y conjuntos que cumplan con lo establecido en el Real Decreto 769/1999, de 7 de mayo.
+
+1. Los equipos a presión y los conjuntos que cumplan con lo establecido en el Real Decreto 769/1999, de 7 de mayo, por el que se dictan las disposiciones de aplicación de la Directiva del Parlamento Europeo y del Consejo, 97/23/CE, relativa a los equipos de presión y se modifica el Real Decreto 1244/1979, de 4 de abril, que aprobó el Reglamento de aparatos a presión, podrán seguir comercializándose hasta el 19 de julio de 2016, excepto en lo relativo al artículo 9 del Real Decreto 769/1999, de 7 de mayo, en cuyo caso se deberá cumplir lo establecido en el artículo 13 del presente real decreto desde la fecha de entrada en vigor del mismo. La puesta en servicio de dichos equipos a presión y conjuntos podrá realizarse una vez superada dicha fecha.
+
+2. Los certificados y decisiones expedidos por organismos de control con arreglo al Real Decreto 769/1999, de 7 de mayo serán válidos con arreglo al presente real decreto.
