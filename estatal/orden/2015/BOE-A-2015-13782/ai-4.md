@@ -8,6 +8,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | IT-00591 | 30 | 149.756 | 8,630 | - | - | - |
 | IT-01526 | 25 | - | 52,617 | - | 560 | 180 |
+| IT-02077 | 25 | – | 0,000 | – | 560 | 180 |
 
 Los valores de la retribución a la inversión, de las horas de funcionamiento máximo para la percepción de la Ro, del número de horas equivalentes de funcionamiento mínimo y de los umbrales de funcionamiento, son los correspondientes al periodo del 14 de julio de 2013 al 31 de diciembre de 2013.
 
@@ -29,3 +30,9 @@ Para las instalaciones con autorización de explotación definitiva en 2013 cuya
 | Código IT | Parámetro A’ 2.º sem. 2015 | Parámetro B’ 2.º sem. 2015 | Parámetro C’ 2.º sem. 2015 | Retribución a la operación 2.º sem. 2015 (€/MWhE) | Parámetro A 1.º sem. 2016 | Parámetro B 1.º sem. 2016 | Parámetro C 1.º sem. 2016 | Retribución a la operación 1.º sem. 2016 (€/MWhE) | Parámetro A 2.º sem. 2016 | Parámetro B 2.º sem. 2016 | Parámetro C 2.º sem. 2016 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | IT-01526 | 1,789 | 1,000 | -0,838 | 49,908 | 1,791 | 1,000 | 0,247 | 46,340 | 1,791 | 1,000 | 0,000 |
+| Código de identificación | Vida útil regulatoria (años) | Coeficiente de ajuste C1,a | Retribución a la inversión Rinv 2014-2016 (€/MW) | Retribución a la operación Ro (€/MWh) 2014 y primer semestre 2015 | Horas de funcionamiento máximo para la percepción de Ro (h) | N.º horas equivalentes de funcionamiento mínimo Nh anual 2014-2016 (h) | Umbral de funcionamiento Uf anual 2014-2016 (h) | Porcentajes aplicables a Nh y Uf anuales, para el cálculo del n.º de horas equivalentes de funcionamiento mínimo y del umbral de funcionamiento de los periodos de 3, 6 y 9 meses (%) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  | 3 meses | 6 meses | 9 meses |
+| IT-02077 | 25 | – | – | 0,000 | – | 2.760 | 840 | 15% | 30% | 45% |
+
+> Se modifica por la disposición final 2 de la Orden IET/1209/2016, de 20 de julio. Ref. BOE-A-2016-6995#df-2
