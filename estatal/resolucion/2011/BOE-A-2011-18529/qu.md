@@ -73,3 +73,9 @@ c) se añade la partida 4, «Acreedores por administración de recursos por cuen
 13. En la partida 3, «Derivados financieros», del epígrafe V, «Inversiones financieras a corto plazo», se sustituye la cuenta 543 por las cuentas 5430, 5431, 5436 y 5437.
 
 14. En la partida 2, «Tesorería», del epígrafe VII, «Efectivo y activos líquidos equivalentes», se elimina la cuenta 570 y se añade la cuenta 572.
+
+15. Se crea en el pasivo no corriente el epígrafe B.V, “Ajustes por periodificación a largo plazo”, con la cuenta 186, “Ingresos anticipados a largo plazo”.
+
+> Se añade el apartado 15 por el art. único.1 de la Resolución de 18 de julio de 2016. Ref. BOE-A-2016-7155
+
+> Esta modificación será aplicable a las cuentas anuales del ejercicio 2015 y siguientes, según establece la disposición final única de la citada Resolución.

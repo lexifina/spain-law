@@ -16,6 +16,8 @@ A) Se eliminan:
 
 B) Se añaden las siguientes cuentas:
 
+114. Reserva de estabilización FRRI.
+
 1500. Obligaciones y bonos en euros.
 
 1501. Obligaciones y bonos en moneda distinta del euro.
@@ -278,6 +280,14 @@ B) Se añaden las siguientes cuentas:
 
 6699. Otros gastos financieros.
 
+677. Otros gastos.
+
+6770. Gastos por bienes muebles no activados.
+
+6771. Otros gastos actividad FRRI.
+
+6779. Otros.
+
 687. Amortización de las inversiones militares.
 
 6870. Amortización de inversiones militares de carácter intangible.
@@ -293,6 +303,10 @@ B) Se añaden las siguientes cuentas:
 6941. Pérdidas por deterioro de inversiones militares en infraestructuras y otros bienes.
 
 6942. Pérdidas por deterioro de inversiones militares asociadas al funcionamiento de los servicios.
+
+695. Dotación para otras provisiones.
+
+6951. Dotaciones a las provisiones técnicas FRRI.
 
 7280. Impuesto sobre la renta de no residentes.
 
@@ -363,6 +377,10 @@ C) Se modifica la denominación de las siguientes cuentas:
 6628. Intereses de permutas financieras designadas instrumentos de cobertura de pasivos financieros.
 
 7628. Ingresos de permutas financieras designadas instrumentos de cobertura de pasivos financieros.
+
+> Se añaden cuentas y subcuentas por el art. único.3 de la Resolución de 18 de julio de 2016. Ref. BOE-A-2016-7155
+
+> Esta modificación será aplicable a las cuentas anuales del ejercicio 2015 y siguientes, según establece la disposición final única de la citada Resolución.
 
 > Se modifican los apartados B) y C) por la disposición adicional 1.1 de la Resolución de 22 de febrero de 2016. Ref. BOE-A-2016-2015
 
