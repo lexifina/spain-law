@@ -20,4 +20,6 @@ Los referidos conflictos se tramitarán y resolverán con arreglo al procedimien
 
 > Añadida por la Ley Orgánica 1/2010, de 19 de febrero (Ref. BOE-A-2010-2739).
 
-> Se añade por el art. 1 de la Ley Orgánica 1/2010, de 19 de febrero. Ref. BOE-A-2010-2739.
+> Véase la Sentencia del TC 118/2016, de 23 de junio, que declara la no inconstitucionalidad del art. 1 de la Ley Orgánica 1/2010, de 19 de febrero, que añadió la disposición adicional 5, siempre que se interprete en los términos del fundamento jurídico 3 d). Ref. BOE-A-2016-7295.
+
+> Se añade por el art. 1 de la Ley Orgánica 1/2010, de 19 de febrero. Ref. BOE-A-2010-2739#aprimero.
