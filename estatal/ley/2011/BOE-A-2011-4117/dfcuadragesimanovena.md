@@ -11,3 +11,5 @@ Dos. Con efectos desde el 1 de enero de 2011 se añade una nueva disposición ad
 «Disposición adicional trigésima segunda. Escala autonómica aplicable a los residentes en Ceuta y Melilla.
 
 La escala prevista en la disposición transitoria decimoquinta de esta Ley resultará de aplicación a los contribuyentes que tengan su residencia habitual en Ceuta o Melilla.»
+
+> Se declara inconstitucional y nulo el inciso destacado del apartado 1 que da redacción a la disposición adicional 31 de la Ley 35/2006, de 28 de noviembre, por Sentencia del TC 121/2016, de 23 de junio. Ref. BOE-A-2016-7298.
