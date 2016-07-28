@@ -164,6 +164,8 @@
 | 16-Olmedo-Medina-Zamora-Ourense-Santiago de Compostela |  |  |  |  |  |
 | 16-082-Ourense (Bif. Coto da Torre)-Santiago Compostela (Bif. a Grandeira). | 1.668 | Galicia. | 25.000 V CA | 2 | 84,1 |
 
+> Téngase en cuenta que se declara la nulidad de los incisos destacados, por Sentencia del TC 124/2016, de 23 de junio. Ref. BOE-A-2016-7301.
+
 ## 2. Redes portuarias y sus accesos
 
 | Línea | Administrador | Comunidad Autónoma |
@@ -197,3 +199,5 @@
 | Línea | Administrador | Ancho de vía (mm) | Comunidad Autónoma | Electrificación | N.º vías | Longitud (Km) |
 | --- | --- | --- | --- | --- | --- | --- |
 | I001. Límite ADIF/TP Ferro-Frontera Francesa. | TPFERRO. | 1.435 | Cataluña. | 25.000 V CA | 2 | 19,8 |
+
+> Se anulan los incisos destacados por Sentencia del TC 124/2016, de 23 de junio. Ref. BOE-A-2016-7301.
