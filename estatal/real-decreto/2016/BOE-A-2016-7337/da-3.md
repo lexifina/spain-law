@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Admisión a enseñanzas universitarias.
+
+Las universidades podrán adoptar como procedimiento de admisión a las enseñanzas universitarias oficiales de Grado cualquiera de los previstos en el artículo 10 del Real Decreto 412/2014, de 6 de junio, y entre ellos, la evaluación de conocimientos de determinas materias relacionadas con las enseñanzas universitarias que pretendan cursarse.
+
+Con objeto de garantizar la objetividad de las pruebas y la utilización eficiente de recursos, las universidades podrán utilizar para esta evaluación la calificación obtenida en las materias correspondientes en la evaluación final de Bachillerato. A estos efectos, los estudiantes en posesión de los títulos establecidos en los artículos 9.1 y 9.2 del Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado, podrán participar en las pruebas de dichas materias en la evaluación final de Bachillerato y obtendrán una certificación oficial de la calificación obtenida.
