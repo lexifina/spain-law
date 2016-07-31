@@ -10,12 +10,12 @@
 
 | Parámetro | Valor paramétrico (UFC) |
 | --- | --- |
-| Escherichia coli (E-coli) | 0/250 ml. |
-| Estreptococos fecales | 0/250 ml. |
-| Pseudomonas aeruginosa | 0/250 ml. |
-| Recuento de colonias a 22 °C/Incubación 72 horas | 100 ml. |
-| Recuento de colonias a 37 °C/Incubación 24 horas | 20 ml. |
-| Anaerobios sulfito reductores esporulados | 0/50 ml. |
+| Escherichia coli (E-coli) | 0/250 ml |
+| Estreptococos fecales | 0/250 ml |
+| Pseudomonas aeruginosa | 0/250 ml |
+| Recuento de colonias a 22 ºC/Incubación 72 horas | 100/ml |
+| Recuento de colonias a 37 ºC/Incubación 24 horas | 20/ml |
+| Anaerobios sulfito reductores esporulados | 0/50 ml |
 
 ## Parte B
 
@@ -53,12 +53,12 @@
 
 | Parámetro | Valor paramétrico (UFC) |
 | --- | --- |
-| Escherichia coli (E-coli) | 0/250 ml. |
-| Estreptococos fecales | 0/250 ml. |
-| Pseudomonas aeruginosa | 0/250 ml. |
-| Recuento de colonias a 22 °C/Incubación 72 horas | 100 ml. |
-| Recuento de colonias a 37 °C/Incubación 24 horas | 20 ml. |
-| Anaerobios sulfito reductores esporulados | 0/50 ml. |
+| Escherichia coli (E-coli) | 0/250 ml |
+| Estreptococos fecales | 0/250 ml |
+| Pseudomonas aeruginosa | 0/250 ml |
+| Recuento de colonias a 22 ºC/Incubación 72 horas | 100/ml |
+| Recuento de colonias a 37 ºC/Incubación 24 horas | 20/ml |
+| Anaerobios sulfito reductores esporulados | 0/50 ml |
 
 ## Parte B
 
@@ -112,13 +112,20 @@
 
 ## Parte D
 
-## Radiactividad
+## Valores paramétricos para el radón, el tritio y la dosis indicativa (DI) de las aguas de manantial envasadas para consumo humano
 
 | Parámetro | Valor paramétrico | Unidad | Notas |
 | --- | --- | --- | --- |
-| Tritio | 100 | Bq/l. | Nota 1. |
-| Dosis indicativa total | 0,10 | mSv/año. | Nota 2. |
+| Radón | 500 | Bq/l | Nota 1. |
+| Tritio | 100 | Bq/l | Nota 2. |
+| DI | 0,10 | mSv |  |
 
-Nota 1: la periodicidad del control se indica en la letra b) del apartado 2 del artículo 14.
+Nota 1:
 
-Nota 2: excluido el tritio, el potasio-40, el radón y los productos de desintegración del radón. La periodicidad del control, los métodos de control y los lugares más adecuados para la toma de muestras se indican en la letra b) del apartado 2 del artículo 14.
+a) Cuando los niveles de radón estén por debajo de 500 Bq/l y por encima de 100 Bq/l se ha de continuar la optimización de la protección.
+
+b) Se consideran justificadas las medidas de corrección por motivos de protección radiológica, sin otra consideración, cuando las concentraciones de radón superen los 1 000 Bq/l. La periodicidad del control se indica en el artículo 14.2.b).
+
+Nota 2: unos niveles de tritio elevados pueden ser indicio de la presencia de otros radionucleidos artificiales. En caso de que la concentración de tritio sea superior a su valor paramétrico, se requerirá un análisis de la presencia de otros radionucleidos artificiales. La periodicidad del control se indica en el artículo 14.2.b).
+
+> Se modifican la parte A del apartado 1 y las partes A y D del apartado 2 por el art. 2.4 a 6 del Real Decreto 314/2016, de 29 de julio. Ref. BOE-A-2016-7340.

@@ -94,13 +94,20 @@ Nota 3: Para las aguas naturalmente ricas en dióxido de carbono o con adición 
 
 ## Parte D
 
-## Radiactividad
+## Valores paramétricos para el radón, el tritio y la dosis indicativa (DI) de las aguas preparadas envasadas para consumo humano
 
 | Parámetro | Valor paramétrico | Unidad | Notas |
 | --- | --- | --- | --- |
-| Tritio | 100 | Bq/l | Nota 1. |
-| Dosis indicativa total | 0,10 | mSv/año | Nota 2. |
+| Radón | 500 | Bq/l | Nota 1. |
+| Tritio | 100 | Bq/l | Nota 2. |
+| DI | 0,10 | mSv |  |
 
-Nota 1: La periodicidad del control se indicará en el artículo 11.
+Nota 1:
 
-Nota 2: Excluido el tritio, el potasio-40, el radón y los productos de desintegración del radón. La periodicidad del control, los métodos de control y los lugares más adecuados para la toma de muestras se indicarán en el artículo 11.
+a) Cuando los niveles de radón estén por debajo de 500 Bq/l y por encima de 100 Bq/l se ha de continuar la optimización de la protección.
+
+b) Se consideran justificadas las medidas de corrección por motivos de protección radiológica, sin otra consideración, cuando las concentraciones de radón superen los 1 000 Bq/l. La periodicidad del control se indica en el artículo 11.b).
+
+Nota 2: unos niveles de tritio elevados pueden ser indicio de la presencia de otros radionucleidos artificiales. En caso de que la concentración de tritio sea superior a su valor paramétrico, se requerirá un análisis de la presencia de otros radionucleidos artificiales. La periodicidad del control se indica en el artículo 11.b).
+
+> Se modifica la parte D por el art. 3.4 del Real Decreto 314/2016, de 29 de julio. Ref. BOE-A-2016-7340.

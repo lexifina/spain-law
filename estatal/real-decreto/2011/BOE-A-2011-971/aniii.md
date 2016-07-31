@@ -1,6 +1,6 @@
 ## ANEXO III
 
-## Exigencias específicas del etiquetado de las aguas minerales naturales complementarias de las generales establecidas en el artículo 2 de este real decreto
+## Exigencias específicas del etiquetado de las aguas minerales naturales complementarias de las generales establecidas en el artículo 9
 
 Se autoriza la utilización de las menciones que figuran a continuación, siempre que respeten los correspondientes criterios fijados y a condición de su establecimiento sobre la base de análisis fisicoquímicos y, si fuera necesario, de exámenes farmacológicos, fisiológicos y clínicos efectuados según métodos científicamente reconocidos, con arreglo a lo dispuesto en el apartado 1 del anexo II.
 
@@ -13,8 +13,8 @@ Se autoriza la utilización de las menciones que figuran a continuación, siempr
 | Bicarbonatada. | Más de 600 mg/l de bicarbonato. |
 | Sulfatada. | Más de 200 mg/l de sulfatos. |
 | Clorurada. | Más de 200 mg/l de cloruro. |
-| Cálcica. | Más de 150 mg/l de calcio. |
-| Magnésica. | Más de 50 mg/l de magnesio. |
+| Cálcica, o que contiene calcio. | Más de 150 mg/l de calcio. |
+| Magnésica, o que contiene magnesio. | Más de 50 mg/l de magnesio. |
 | Fluorada, o que contiene flúor. | Más de 1 mg/l de flúor. |
 | Ferruginosa, o que contiene hierro. | Más de 1 mg/l de hierro bivalente. |
 | Acidulada. | Más de 250 mg/l de CO2 libre. |
@@ -23,3 +23,5 @@ Se autoriza la utilización de las menciones que figuran a continuación, siempr
 | Indicada para dietas pobres en sodio. | Hasta 20 mg/l de sodio. |
 | Puede tener efectos laxantes. |  |
 | Puede ser diurética. |  |
+
+> Se sustituye por el art. 2.3 del Real Decreto 314/2016, de 29 de julio. Ref. BOE-A-2016-7340.

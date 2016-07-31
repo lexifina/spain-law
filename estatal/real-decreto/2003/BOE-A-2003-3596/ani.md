@@ -164,19 +164,6 @@ El resultado de calcular el Índice de Langelier debería estar comprendido entr
 
 (6) Para la industria alimentaria, el valor mínimo podrá reducirse a 4,5 unidades de pH.
 
-D. Radiactividad
-
-| Parámetro | Valor paramétrico | Notas |
-| --- | --- | --- |
-| 50. Dosis indicativa total | 0,10 mSv/año | 1 |
-| 51. Tritio | 100 Bq/l |  |
-| 52. Actividad α total | 0,1 Bq/l |  |
-| 53. Actividad β resto | 1 Bq/l | 2 |
-
-Notas:
-
-(1) Excluidos el tritio, el potasio40, el radón y los productos de desintegración del radón.
-
-(2) Excluidos el potasio40 y el tritio.
+> Se suprime el apartado D por el art. 1.14 del Real Decreto 314/2016, de 29 de julio. Ref. BOE-A-2016-7340.
 
 > Redactado el anexo I, apartado D conforme a la corrección de erratas publicada en BOE núm. 54, de 4 de marzo de 2003. Ref. BOE-A-2003-4377.
