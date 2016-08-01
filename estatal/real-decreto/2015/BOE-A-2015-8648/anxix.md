@@ -1,12 +1,12 @@
 ## ANEXO XIX
 
-## CLASIFICACIÓN DE LAS VARIEDADES DE VID
+## Clasificación de las variedades de vid
 
 ## Variedades de uva de vinificación
 
 1. Comunidad Autónoma de Andalucía
 
-Provincias: Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga, Sevilla:
+Provincias: Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga, Sevilla
 
 Variedades autorizadas:
 
@@ -108,7 +108,7 @@ Zalema, B.
 
 2. Comunidad Autónoma de Aragón
 
-Provincias: Huesca, Teruel, Zaragoza:
+Provincias: Huesca, Teruel, Zaragoza
 
 Variedades autorizadas:
 
@@ -250,6 +250,8 @@ Moscatel de Grano Menudo, B.
 
 Parellada, B.
 
+Petit Verdot, T
+
 Pinot Noir, T.
 
 Riesling, B.
@@ -264,7 +266,7 @@ Viognier, B.
 
 5. Comunidad Autónoma de Canarias
 
-Provincias: Las Palmas, Santa Cruz de Tenerife:
+Provincias: Las Palmas, Santa Cruz de Tenerife
 
 Variedades autorizadas:
 
@@ -372,9 +374,9 @@ Tempranillo, Tinta de Toro, T.
 
 Treixadura, B.
 
-7 Comunidad Autónoma de Castilla-La Mancha
+7. Comunidad Autónoma de Castilla-La Mancha
 
-Provincias: Albacete, Ciudad Real, Cuenca, Guadalajara, Toledo:
+Provincias: Albacete, Ciudad Real, Cuenca, Guadalajara, Toledo
 
 Variedades autorizadas:
 
@@ -478,7 +480,7 @@ Viognier, B.
 
 8. Comunidad Autónoma de Castilla y León
 
-Provincias: Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid, Zamora:
+Provincias: Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid, Zamora
 
 Variedades autorizadas:
 
@@ -560,7 +562,7 @@ Viognier, B.
 
 9. Comunidad Autónoma de Cataluña
 
-Provincias: Barcelona, Girona, Lleida, Tarragona:
+Provincias: Barcelona, Girona, Lleida, Tarragona
 
 Variedades autorizadas:
 
@@ -571,6 +573,8 @@ Airén, B.
 Alarije, Subirat Parent, B.
 
 Albariño, B.
+
+Alcañon, B
 
 Bobal, T.
 
@@ -594,6 +598,8 @@ Garro, T.
 
 Gewürztraminer, B.
 
+Giró Ros, B
+
 Godello, B.
 
 Graciano, T.
@@ -603,6 +609,8 @@ Macabeo, Viura, B.
 Malbec, T
 
 Malvasía Aromática, Malvasía de Sitges, B.
+
+Marselán, T
 
 Mazuela, Samsó, T.
 
@@ -642,15 +650,21 @@ Trepat, T.
 
 Verdejo, B.
 
+Vermentino,B.
+
+Vidadillo, T.
+
 Vinyater, B.
 
 Viognier, B
 
 Xarello, Cartoixa, Pansal, Pansa Blanca, B
 
+Xarello rosado, T
+
 10. Comunidad Autónoma de Extremadura
 
-Provincias: Badajoz, Cáceres:
+Provincias: Badajoz, Cáceres
 
 Variedades autorizadas:
 
@@ -728,9 +742,9 @@ Viognier, B.
 
 Xarello, B.
 
-11 Comunidad Autónoma de Galicia
+11. Comunidad Autónoma de Galicia
 
-Provincias: A Coruña, Lugo, Ourense y Pontevedra:
+Provincias: A Coruña, Lugo, Ourense y Pontevedra
 
 Variedades autorizadas:
 
@@ -900,7 +914,7 @@ Verdil, B.
 
 Viognier, B.
 
-14. Comunidad Autónoma de Navarra
+14. Comunidad Foral de Navarra
 
 Variedades autorizadas:
 
@@ -974,7 +988,7 @@ Xarello, B.
 
 15. Comunidad Autónoma del País Vasco
 
-Provincias: Álava, Guipúzkoa, Bizkaia:
+Provincias: Álava, Guipúzkoa, Bizkaia
 
 Variedades autorizadas:
 
@@ -1090,7 +1104,7 @@ Xarello, B.
 
 17. Comunidad Valenciana
 
-Provincias: Alicante, Castellón, Valencia:
+Provincias: Alicante, Castellón, Valencia
 
 Variedades autorizadas:
 
@@ -1180,33 +1194,4 @@ Viognier, B.
 
 Xarello, B.
 
-## Variedades de portainjertos
-
-Todas las Comunidades Autónomas
-
-Variedades recomendadas:
-
-|  | Sinónimos |
-| --- | --- |
-| 1 Blanchard = Berlandieri x Colombard | BCI |
-| 196-17 Castel=1203 Couderc (Mourviedro x Rupestris Martin) x Riparia Gloria | 196-17 CL |
-| 6736 Castel = Riparia x Rupestris de Lot | 6 736 CL |
-| 161-49 Couderc = Riparia x Berlandieri | 161-49 C |
-| 1616 Couderc = Solonis x Riparia | 1616 C |
-| 3 309 Couderc = Riparia Tomentosa x Rupestris Martín | 3 309 C |
-| 333 Escuela Montpellier = Cabernet Sauvignon x Berlandieri | 333 EM |
-| 13-5 E.V.E. Jerez = Descendencia de Berlandieri Resseguier n.º 2 | 13-5 EVEX |
-| Fercal | – |
-| 5 A Martínez Zaporta = Autofecundación de 41-B | 5A MZ |
-| 41 B Millardet-Grasset = Chasselas x Berlandieri | 41B M |
-| 420 Millardet-Grasset = Berlandieri Grasset x Riparia | 420A M |
-| 19-62 Millardet-Grasset = Malbec x Berlandieri | 19-62 M |
-| 101-14 Millardet-Grasset, (6) | 101-14M |
-| 1 103 Paulsen = Berlandieri Resseguier n.º 2 x Rupestris de Lot | 1 103 P |
-| 31 Richter = Berlandieri Resseguier n.º 2 x Novo Mexicana | 31 R |
-| 99 Richter = Berlandieri Las Sorres x Rupestres de Lot | 99 R |
-| 110 Richter = Berlandieri Resseguier n.º 2 x Rupestres Martín | 110 R |
-| 140 Ruggeri = Berlandieri Resseguier n.º 2 x Rupestris de Lot | 140 Ru |
-| 5 BB Teleki-Kober = Berlandieri x Riparia | 5 BB T |
-| Selección Oppenheim del Teleki n.º 4 = Berlandieri x Riparia | SO4 |
-| Rupestris du Lot | R de Lot.» |
+> Se modifica por el art. 2.20 y el anexo del Real Decreto 313/2016, de 29 de julio. Ref. BOE-A-2016-7339.

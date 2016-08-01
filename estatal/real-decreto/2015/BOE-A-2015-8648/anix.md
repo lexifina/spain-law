@@ -12,7 +12,7 @@
 
 **** Esta superficie deberá desglosarse por la DOP o IGP a la que pertenece.
 
-Fecha límite de la comunicación: 15 octubre (para la primera vez: a más tardar el 15 de octubre de 2016).
+Fecha límite de la comunicación: 1 octubre (para la primera vez: a más tardar el 1 de octubre de 2016).
 
 ## Cuadro B. Autorizaciones concedidas para nuevas plantaciones
 
@@ -26,7 +26,7 @@ Fecha límite de la comunicación: 15 octubre (para la primera vez: a más tarda
 
 **** Esta superficie deberá desglosarse por la DOP o IGP a la que pertenece.
 
-Fecha límite de la comunicación: 15 octubre (para la primera vez: a más tardar el 15 de octubre de 2016).
+Fecha límite de la comunicación: 1 octubre (para la primera vez: a más tardar el 1 de octubre de 2016).
 
 ## Cuadro C. Autorizaciones para nuevas plantaciones y rechazadas por los solicitantes [artículo 11(5)]
 
@@ -40,7 +40,7 @@ Fecha límite de la comunicación: 15 octubre (para la primera vez: a más tarda
 
 **** Esta superficie deberá desglosarse por la DOP o IGP a la que pertenece.
 
-Fecha límite de la comunicación: 15 octubre (para la primera vez: a más tardar el 15 de octubre de 2016).
+Fecha límite de la comunicación: 1 octubre (para la primera vez: a más tardar el 1 de octubre de 2016).
 
 ## Cuadro D. Autorizaciones para nuevas plantaciones en zonas con limitaciones
 
@@ -48,4 +48,6 @@ Fecha límite de la comunicación: 15 octubre (para la primera vez: a más tarda
 
 * Año en el que se abrió el plazo de solicitudes para autorizaciones de nuevas plantaciones del artículo 8 de este Real Decreto.
 
-Fecha límite de la comunicación: 15 octubre (para la primera vez: a más tardar el 15 de octubre de 2016).
+Fecha límite de la comunicación: 1 octubre (para la primera vez: a más tardar el 1 de octubre de 2016).
+
+> Se modifica la fecha límite de la comunicación por el art. 2.21 del Real Decreto 313/2016, de 29 de julio. Ref. BOE-A-2016-7339.

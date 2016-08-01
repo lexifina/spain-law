@@ -12,4 +12,6 @@
 
 **** Valores a introducir en esta columna: (7) = (2) + (4) + (5) + (6).
 
-Fecha de comunicación: 15 de septiembre (para la primera vez: a más tardar el 15 de septiembre de 2015).
+Fecha de comunicación: 1 de octubre (para la primera vez: a más tardar el 1 de octubre de 2015).
+
+> Se modifica la fecha de comunicación por el art. 2.22 del Real Decreto 313/2016, de 29 de julio. Ref. BOE-A-2016-7339.

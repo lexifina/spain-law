@@ -1,23 +1,29 @@
 ## ANEXO XIV
 
-## Inventario de potencial vitícola
+## Cuadro A. Plantaciones y arranques realizados
 
-Cuadro A. Potencial vitícola a 31.07.2015
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/183/07339_10558.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08648_8399.png)
+(1) Número de hectáreas plantadas situadas en superficies que pueden ser admisibles a la producción de vino con DOP, vino con IGP o vino sin DOP/IGP.
 
-Fecha límite de la comunicación: 15 de septiembre de 2015 (datos referidos a 31.07.2015).
+(2) Número de hectáreas arrancadas situadas en superficies que pueden ser admisibles a la producción de vino con DOP, vino con IGP o vino sin DOP/IGP.
 
-Cuadro B. Derechos de plantación a 31.12.2015
+Fecha límite de comunicación: 1 de octubre (para la primera vez: a más tardar el 1 de octubre de 2016).
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08648_8597.png)
+(*) Datos referidos a la campaña vitícola precedente a la de la comunicación.
 
-Fecha límite de la comunicación: 20 de enero de 2016 (datos referidos a 31.12.2015).
+## Cuadro B. Información sobre derechos de plantación inscritos a 31 de diciembre de 2015 en el registro vitícola y sin convertir en autorizaciones a 31 de julio de la campaña precedente a la de la comunicación
 
-Cuadro C. Inventario de autorizaciones de plantación concedidas y no ejercidas
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/183/07339_10709.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08648_8793.png)
+Fecha de comunicación: 1 de octubre (para la primera vez: a más tardar el 1 de octubre de 2016).
 
-Fecha límite de la comunicación: 15 septiembre [para la primera vez: la columna (4) a más tardar el 15 de septiembre de 2016 y las columnas (1) a (3) a más tardar el 15 de septiembre de 2017].
+## Cuadro C. Inventario de autorizaciones de plantación concedidas y no ejercidas
 
-Datos referidos a 31 de julio de la campaña vitícola anterior.
+![imagen](https://www.boe.es/datos/imagenes/disp/2016/183/07339_10883.png)
+
+Fecha límite de la comunicación: 1 de octubre (para la primera vez: a más tardar el 1 de octubre de 2016 a excepción de la columna (1) a más tardar el 1 de octubre de 2017).
+
+Datos referidos a 31 de julio de la campaña precedente a la de la comunicación.
+
+> Se modifica por el art. 2.20 y el anexo del Real Decreto 313/2016, de 29 de julio. Ref. BOE-A-2016-7339.

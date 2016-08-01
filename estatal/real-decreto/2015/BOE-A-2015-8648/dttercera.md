@@ -1,5 +1,5 @@
 ## Disposición transitoria tercera. Solicitudes de autorización de replantación y de conversión de derechos realizadas antes de que sean públicas las restricciones de plantación del apartado 2 del artículo 16 y del apartado 4 del artículo 21 en 2016.
 
-La eficacia de las resoluciones de las autorizaciones a la replantación y de conversión cuyas solicitudes fueron presentadas con anterioridad a la fecha en la que se hagan públicas, en su caso, las restricciones a la plantación de autorizaciones de replantación y conversión de acuerdo al apartado 2 del artículo 16 y al apartado 4 del artículo 21, estará condicionada a esas eventuales restricciones decididas, de manera que no podrá procederse a la replantación o al ejercicio de los derechos inherentes a la conversión en las zonas cubiertas por ámbito de una DO o una IGP hasta tanto no se haga pública la citada restricción.
+(Sin contenido)
 
-El solicitante cuya solicitud iba dirigida a la obtención de una autorización de plantación en una zona que finalmente tiene una restricción para ese año, podrá rechazar dicha autorización en el plazo de un mes desde la fecha de restricción, y no se le aplicarán sanciones y, en el caso de conversión, el derecho de plantación podrá volver a ser utilizado en otra solicitud.
+> Se deja sin contenido por el art. 2.19 del Real Decreto 313/2016, de 29 de julio. Ref. BOE-A-2016-7339.
