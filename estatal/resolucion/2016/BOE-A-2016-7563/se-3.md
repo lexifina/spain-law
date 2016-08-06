@@ -1,0 +1,11 @@
+## Séptimo.
+
+La presente resolución surtirá efectos desde el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Las garantías para la contratación de capacidad y para desbalance en el Punto Virtual de Balance serán exigibles desde el 1 de octubre de 2016. Hasta el 30 de enero de 2017, el parámetro dusu definido en el Anexo VIII, tomará el valor inicial de 0,05.
+
+La Plataforma de Gestión de Garantías deberá estar disponible a partir del 1 de octubre de 2016. Las garantías vigentes a 30 de septiembre de 2016 constituidas a favor de MIBGAS para respaldar las operaciones realizadas en el Mercado Organizado de Gas se entenderán válidas en el Gestor de Garantías, quedando asignadas a la Cuenta de Asignación del Mercado hasta el 30 de noviembre de 2016, fecha en la que, en todo caso, perderán su vigencia.
+
+En el plazo máximo de dos meses desde que surta efectos la presente resolución, el Operador de Mercado, implementará las modificaciones de las Reglas del Mercado del Gas. La fecha de entrada en funcionamiento de dichas modificaciones se comunicará a los agentes del mercado mediante una instrucción de mercado, con al menos tres días de antelación.
+
+La presente resolución agota la vía administrativa, de acuerdo con lo dispuesto en el artículo 109 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en relación con la disposición adicional decimoquinta de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado. Contra la misma podrá interponerse recurso contencioso-administrativo, ante la Sala de lo Contencioso administrativo de la Audiencia Nacional, en el plazo de dos meses, a contar desde el día siguiente al de la publicación de la presente resolución, de conformidad con la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa. También podrá interponerse potestativamente recurso de reposición ante el Secretario de Estado de Energía, en el plazo de un mes, contado a partir del día siguiente al de la publicación, significando que, en caso de presentar recurso de reposición, no se podrá interponer recurso contencioso-administrativo hasta que se resuelva expresamente el recurso de reposición o se produzca la desestimación presunta del mismo.
