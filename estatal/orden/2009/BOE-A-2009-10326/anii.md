@@ -48,9 +48,12 @@
 | 583 | Obligación trimestral de presentación: desde el día 1 hasta el 15 de los meses de mayo, septiembre, noviembre y febrero. Obligación anual de presentación: desde el día 1 hasta el 25 del mes de noviembre. |
 | 587 | Desde el día 1 al 15 de los meses de mayo, septiembre y enero. |
 | 588 | Desde el día 1 hasta el 25 del mes de noviembre. |
+| 589 | Obligación semestral de presentación: desde el día 1 hasta el 15 del mes de octubre. Obligación anual de presentación: desde el día 1 hasta el 15 del mes de abril. |
 | 595 | Desde el día 1 al 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 | 714 | Desde el día 2 de mayo hasta el 25 de junio. |
 | (*) Sólo cuando el período impositivo finalice el día 31 de diciembre. |
+
+> Se añade el modelo 589 por la disposición final 2.2 de la Orden HAP/1349/2016, de 28 de julio. Ref. BOE-A-2016-7590.
 
 > Se añade el modelo 151 por la disposición final 4.2 de la Orden HAP/2783/2015, de 21 de diciembre. Ref. BOE-A-2015-14021.
 

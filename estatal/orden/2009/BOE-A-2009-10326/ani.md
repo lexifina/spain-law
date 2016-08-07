@@ -48,12 +48,15 @@
 | 583 | Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación y Pagos Fraccionados. |
 | 587 | Impuesto sobre los gases fluorados de efecto invernadero. Autoliquidación. |
 | 588 | Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación por cese de actividad de enero a octubre. |
+| 589 | Impuesto sobre el Valor de la Extracción de Gas, Petróleo y Condensados. Autoliquidación y pago fraccionado. |
 | 595 | Impuesto Especial sobre el Carbón. Declaración-liquidación. |
 | 714 | Impuesto sobre el Patrimonio. Declaración anual. |
 
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
+
+> Se añade el modelo 589 por la disposición final 2.1 de la Orden HAP/1349/2016, de 28 de julio. Ref. BOE-A-2016-7590.
 
 > Se añade el modelo 151 por la disposición final 4.1 de la Orden HAP/2783/2015, de 21 de diciembre. Ref. BOE-A-2015-14021.
 
