@@ -199,7 +199,7 @@
 | Euphorbia transtagana |  |  |  |
 | Gentianaceae |  |  |  |
 | Centaurium rigualii |  |  |  |
-| Centaurium somedanum |  |  |  |
+| Centaurium somedanum | Centaura de Somiedo |  | Vulnerable |
 | Gentiana angustifolia, subsp. angustifolia |  |  | En peligro de extinción |
 | Geraniaceae |  |  |  |
 | Erodium astragaloides |  |  | En peligro de extinción |
@@ -277,6 +277,8 @@
 | Kosteletzkya pentacarpos |  |  |  |
 | Myricaceae |  |  |  |
 | Myrica rivas-martinezi | Faya herreña |  | En peligro de extinción |
+| Nymphaeaceae |  |  |  |
+| Nuphar pumila subsp.pumila | Nenúfar amarillo pequeño |  | En peligro de extinción |
 | Orchidaceae |  |  |  |
 | Cypripedium calceolus | Zapatito de dama, Esclops |  | En peligro de extinción |
 | Himantoglossum metlesicsianum | Orquídea de Tenerife |  | En peligro de extinción |
@@ -375,7 +377,7 @@
 | Apium repens |  |  |  |
 | Apium bermejoi | Api d’En Bermejo |  | En peligro de extinción |
 | Bupleurum handiense | Anís de Jandía |  |  |
-| Eryngium viviparum |  |  |  |
+| Eryngium viviparum | Cardillo de laguna, cardillo vivíparo |  | Vulnerable |
 | Ferula latipinna | Cañaheja herreña |  |  |
 | Laserpitium longiradium |  |  | En peligro de extinción |
 | Naufraga balearica | Naufraga |  | En peligro de extinción |
@@ -388,6 +390,7 @@
 | Viola jaubertiana |  |  |  |
 | Zannichelliaceae |  |  |  |
 | Cymodocea nodosa | Seba | Mediterráneo y Atlántico de la península Ibérica |  |
+| Cymodocea nodosa | Seba | Canarias | Vulnerable |
 | Zosteraceae |  |  |  |
 | Zostera marina |  | Mediterráneo |  |
 | Nanozostera noltii | Seba de mar estrecha, Seba fina | Canarias | Vulnerable |
@@ -520,9 +523,10 @@
 | Pinna rudis |  | Mediterráneo |  |
 | Unionoida |  |  |  |
 | Margaritifera auricularia | Margaritona |  | En peligro de extinción |
-| Margaritifera margaritifera | Mejillón de río |  |  |
+| Margaritifera margaritifera | Náyade de río, madreperla de río |  | En peligro de extinción |
 | Unio ravoisieri, (antes U. elongatulus). | Náyade del noroeste |  | En peligro de extinción |
 | Unio tumidiformis (antes U. crassus) | Náyade túmida |  | Vulnerable |
+| Unio mancus | Náyade mediterránea |  | Vulnerable |
 | ECHINODERMATA |  |  |  |
 | Asterina pancerii | Estrella del capitán pequeña |  |  |
 | Centrostephanus longispinus |  |  |  |
@@ -778,7 +782,7 @@
 | Ardeidae |  |  |  |
 | Ardea cinerea | Garza real |  |  |
 | Ardea purpurea | Garza imperial |  |  |
-| Ardeola raloides | Garcilla cangrejera |  | Vulnerable |
+| Ardeola ralloides | Garcilla cangrejera |  | Vulnerable |
 | Bubulcus ibis | Garcilla bueyera |  |  |
 | Botaurus stellaris | Avetoro común |  | En peligro de extinción |
 | Egretta alba | Garceta grande |  |  |
@@ -815,7 +819,7 @@
 | Aquila adalberti | Águila imperial ibérica |  | En peligro de extinción |
 | Aquila chrysaetos | Águila real |  |  |
 | Buteo buteo | Ratonero común |  |  |
-| Circaetus galicus | Águila culebrera |  |  |
+| Circaetus gallicus | Águila culebrera |  |  |
 | Circus aeruginosus | Aguilucho lagunero occidental |  |  |
 | Circus cyaneus | Aguilucho pálido |  |  |
 | Circus pygargus | Aguilucho cenizo |  | Vulnerable |
@@ -1230,6 +1234,8 @@
 2 Todas las especies de las Familias Sphyrnidae (géneros Sphyrna y Eusphyra) y Alopiidae (género Alopias).
 
 (2) Incluyen todas las especies del género.
+
+> Se modifica por el art. únio de la Orden AAA/1351/2016, de 29 de julio. Ref. BOE-A-2016-7603.
 
 > Se modifica por el art. único de la Orden AAA/1771/2015, de 31 de agosto. Ref. BOE-A-2015-9550.
 
