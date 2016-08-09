@@ -1,6 +1,20 @@
 ## Decimosexto. Carreteras.
 
-1. Se delega en el titular de la Secretaría de Estado de Infraestructuras, Transporte y Vivienda la aprobación de los expedientes de información pública a que se refiere el artículo 10.4 de la Ley 25/1988, de 29 de julio, de Carreteras, así como la aprobación definitiva de los estudios y proyectos prevista en el artículo 32.3 del Reglamento General de Carreteras, aprobado por Real Decreto 1812/1994, de 2 de septiembre, y sus modificaciones, incluidas las modificaciones de los proyectos de construcción.
+1. Se delega el ejercicio de las siguientes competencias atribuidas al titular del Departamento en materia de desarrollo, gestión y explotación de la Red de Carreteras del Estado:
+
+A) En el titular de la Secretaria de Estado de Infraestructuras, Transporte y Vivienda:
+
+a) La aprobación de los expedientes de información pública a que se refiere el artículo 12 de la Ley 37/2015, de 29 de septiembre, de Carreteras.
+
+b) La aprobación definitiva de los estudios de carreteras a que se refiere el artículo 12 de la Ley 37/2015, de 29 de septiembre, de Carreteras, cuyo expediente haya sido sometido al trámite de información pública.
+
+c) La aprobación de los pliegos de cláusulas administrativas particulares para la ejecución de las obras y la explotación de las áreas de servicio, de conformidad con lo establecido en el artículo 27.1, letra c), de la Ley 37/2015, de 29 de septiembre.
+
+d) La resolución de los expedientes de contratación y el otorgamiento de concesiones de áreas de servicio, de conformidad con lo establecido en el artículo 27.1, letra d), de la Ley 37/2015, de 29 de septiembre, y en el artículo 62.3 del Reglamento General de Carreteras, así como autorizar la transmisión de concesiones de áreas de servicio, a que se refiere el artículo 63 del Reglamento General de Carreteras.
+
+e) Ejercitar las facultades establecidas en el apartado 3 del artículo 33 de la Ley 37/2015, de 29 de septiembre, en materia de establecimiento de la línea de edificación, así como aprobar los expedientes para el establecimiento de la línea límite de edificación a una distancia inferior a la fijada con carácter general, a los que se refiere el artículo 85.4 del Reglamento General de Carreteras.
+
+B) En el titular de la Dirección General de Carreteras, la aprobación definitiva de los estudios y proyectos de carreteras a que se refiere el artículo 12 de la Ley 37/2015, de 29 de septiembre, de Carreteras, cuyo expediente no haya sido sometido al trámite de información pública.
 
 2. Con la previa aprobación prevista en la disposición adicional decimotercera de la Ley 6/1997, de 14 de abril, el Secretario de Estado de Infraestructuras, Transporte y Vivienda delega el ejercicio de las siguientes competencias en materia de carreteras:
 
@@ -28,7 +42,7 @@ C) En los Jefes de las Demarcaciones de Carreteras:
 
 a) El ejercicio de las competencias que el ordenamiento jurídico atribuye al órgano de contratación para contratos de obras y de servicios cuyo importe no exceda de 50.000 euros, que correspondan a gastos previamente autorizados y que no contemplen más de una anualidad, debiendo solicitar, con carácter previo al inicio de cualquier expediente de contratación, la autorización del titular de la Dirección General de Carreteras.
 
-b) La aprobación del programa de trabajo y la ampliación del plazo de ejecución, cuando no lleve aparejado un cambio de anualidad.
+b) (Suprimido).
 
 c) Las facultades de nombrar a los Coordinadores de Seguridad y Salud, así como aprobar los planes de seguridad y salud, con aviso a la autoridad laboral.
 
@@ -101,5 +115,7 @@ f) Las resoluciones, en el ámbito de su competencia territorial, en el resto de
 g) La emisión de las órdenes de estudio, así como sus modificaciones y anulaciones y la aprobación de los estudios y proyectos que correspondan a actuaciones en las que tienen delegadas las competencias como órgano de contratación.
 
 4. El ejercicio de las competencias delegadas en este apartado decimosexto se entenderá sin perjuicio de las funciones de coordinación que corresponden a la Inspección General de Fomento respecto de las unidades y servicios periféricos del Departamento.
+
+> Se modifica el apartado 1 y se suprime el apartado 2.C).b) por el art. único.5 y 6 de la Orden FOM/1356/2016, de 23 de julio. Ref. BOE-A-2016-7634.
 
 > Se modifica el apartado 1 por el apartado 1.4 de la Orden FOM/756/2014, de 8 de mayo. Ref. BOE-A-2014-4975.

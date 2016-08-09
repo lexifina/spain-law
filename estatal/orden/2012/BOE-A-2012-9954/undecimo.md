@@ -4,17 +4,17 @@
 
 2. Se delega en el titular de la Secretaría General de Infraestructuras el ejercicio de las competencias que el ordenamiento jurídico atribuye al titular del Departamento sobre:
 
-A) La resolución de los recursos de reposición contra las resoluciones relativas a expedientes sancionadores por infracciones muy graves de las previstas en la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, así como contra las resoluciones relativas a expedientes sancionadores por infracciones muy graves de las previstas en la Ley 25/1988, de 29 de julio, de Carreteras.
+A) La resolución de los recursos de reposición contra las resoluciones relativas a expedientes sancionadores por infracciones muy graves de las previstas en la Ley 37/2015, de 29 de septiembre, de Carreteras.
 
-B) La resolución de los expedientes de revisión de oficio y de declaración de lesividad de los actos de la entidad pública empresarial Administrador de Infraestructuras Ferroviarias (ADIF).
+B) La resolución de los expedientes de declaración de lesividad de los actos de la entidad pública empresarial Administrador de Infraestructuras Ferroviarias (ADIF).
 
-3. Se delega en el titular de la Secretaría General de Transporte el ejercicio de las competencias que el ordenamiento jurídico atribuye al titular del Departamento sobre la resolución de los expedientes de revisión de oficio y de declaración de lesividad de los actos de las entidades públicas empresariales RENFE-Operadora y Aeropuertos Españoles y Navegación Aérea (AENA), así como los de los entes públicos Puertos del Estado y Autoridades Portuarias.
+3. Se delega en el titular de la Secretaría General de Transporte el ejercicio de las competencias que el ordenamiento jurídico atribuye al titular del Departamento sobre la resolución de los expedientes de declaración de lesividad de los actos de la entidades públicas empresariales RENFE-Operadora y ENAIRE, así como los de los entes públicos Puertos del Estado y Autoridades Portuarias.
 
 4. Con la previa aprobación prevista en la disposición adicional decimotercera de la Ley 6/1997, de 14 de abril, el Secretario de Estado de Infraestructuras, Transporte y Vivienda delega, respectivamente, en los titulares de las Secretarías Generales de Infraestructuras y de Transporte, el ejercicio de las competencias que el ordenamiento jurídico le atribuye sobre la revisión de oficio y la declaración de lesividad de las resoluciones dictadas por los órganos dependientes de las citadas Secretarías Generales, sin perjuicio de lo establecido en el apartado segundo de esta Orden en materia de contratación.
 
 5. Se delega en el titular de la Subsecretaría el ejercicio de las siguientes competencias que el ordenamiento jurídico atribuye al titular del Departamento:
 
-A) Dentro de su ámbito funcional, la resolución de los recursos administrativos, de las revisiones de oficio, de las declaraciones de lesividad, de la revocación de actos, y de los requerimientos previos a los recursos contencioso-administrativos de otras Administraciones Públicas.
+A) Dentro de su ámbito funcional, la resolución de los recursos administrativos, de las declaraciones de lesividad, de la revocación de actos, y de los requerimientos previos a los recursos contencioso-administrativos de otras Administraciones Públicas.
 
 B) La resolución de las reclamaciones previas al ejercicio de acciones civiles.
 
@@ -31,3 +31,5 @@ En los procedimientos en los que el importe de la indemnización reclamada sea i
 8. La delegación de funciones en materia de recursos y otros procedimientos de revisión prevista en este apartado undécimo incluye la de la facultad de resolver sobre la suspensión de la ejecución de los actos cuya revisión se pretende y las restantes facultades que corresponde ejercer en dichos procedimientos al órgano delegante.
 
 Con excepción de los supuestos de delegación establecidos en este apartado undécimo, se entenderán excluidas de las delegaciones en otros órganos previstas en esta Orden las facultades para resolver los recursos, ya sean de alzada, reposición o extraordinario de revisión.
+
+> Se modifican los apartados 2, 3 y 5 A) por el art. único.2 de la Orden FOM/1356/2016, de 23 de julio. Ref. BOE-A-2016-7634.
