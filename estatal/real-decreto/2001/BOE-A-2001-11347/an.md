@@ -62,6 +62,14 @@ Sabueso Español.
 
 Villano de las Encartaciones.
 
+Podenco Paternino
+
+Podenco Valenciano
+
+Perro Leonés de Pastor
+
+> Se modifica por el art. 2 de la Orden AAA/1357/2016, de 29 de julio. Ref. BOE-A-2016-7639.
+
 > Se modifica por el art. 2 de la Orden AAA/251/2012, de 9 de febrero. Ref. BOE-A-2012-2254.
 
 > Se modifica por el art. único de la Orden ARM/573/2010, de 4 de marzo. Ref. BOE-A-2010-4133.

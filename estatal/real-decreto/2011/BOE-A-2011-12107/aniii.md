@@ -47,6 +47,7 @@
 | Terreña | BTÑ |
 | Tudanca | BTU |
 | Vianesa | BVN |
+| Pallaresa | BPL |
 | Razas integradas en España |  |
 | Blonda de Aquitania | BD* |
 | Charolesa | CH* |
@@ -107,6 +108,7 @@
 | Talaverana | OTV |
 | Xalda | OXL |
 | Xisqueta | OXQ |
+| Merina Variedad Montes Universales | OMEMU |
 | Razas integradas en España |  |
 | Berrichon du Cher | OBE |
 | Charmoise | OCI |
@@ -149,6 +151,7 @@
 | Pirenaica | CPI |
 | Retinta | CRE |
 | Verata | CVE |
+| Blanca de Rasquera | CBR |
 | Razas de la Unión Europea |  |
 | Alpina | CAL |
 
@@ -199,6 +202,7 @@
 | Menorquina | EME |
 | Monchina | EMO |
 | Pottoka | EPO |
+| Caballo de las Retuertas | ERE |
 | Razas integradas en España |  |
 | Árabe | EAR |
 | Anglo-Árabe | EAA |
@@ -218,5 +222,7 @@
 | Catalana | ECT |
 | Majorera | EMJ |
 | Zamorano-Leonés | EZL |
+
+> Se modifica por el art. 3 de la Orden AAA/1357/2016, de 29 de julio. Ref. BOE-A-2016-7639.
 
 > Se modifica por el art. 3 de la Orden AAA/251/2012, de 9 de febrero. Ref. BOE-A-2012-2254.
