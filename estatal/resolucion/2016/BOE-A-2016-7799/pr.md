@@ -1,0 +1,21 @@
+El Real Decreto 134/2010, de 12 de febrero, por el que se establece el procedimiento de resolución de restricciones por garantía de suministro y se modifica el Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de producción de energía eléctrica, regula el citado mecanismo y define las centrales que quedan obligadas a participar en el mismo como unidades vendedoras, así como la metodología de cálculo del precio de retribución de la energía y la manera de fijar los volúmenes máximos de producción anuales que pueden ser programados en el proceso de resolución de restricciones por garantía de suministro.
+
+El anexo II.1 del citado Real Decreto 134/2010, de 12 de febrero, determina:
+
+«La Secretaría de Estado de Energía podrá fijar por resolución las distintas actuaciones que deberá llevar a cabo la Comisión Nacional de Energía para determinar el coste real de los parámetros fijados en el apartado 3.2.
+
+Antes del 15 de julio los titulares de las centrales deberán remitir a la Comisión Nacional de Energía la auditoría de cuentas con los requisitos exigidos en el párrafo anterior. La Comisión Nacional de Energía, de acuerdo con la auditoría y la metodología que se establece en el apartado 3.2, efectuará el cálculo de los costes reales correspondiente al volumen de energía eléctrica producida por la central, y lo comunicará al operador del sistema quien liquidará el exceso o defecto de retribución por este concepto a cada central.»
+
+Para el año 2013, resultan de aplicación la Resolución de 13 de febrero de 2013, de la Secretaría de Estado de Energía, por la que se fijan las cantidades de carbón, el volumen máximo de producción y los precios de retribución de la energía, para el año 2013, a aplicar en el proceso de resolución de restricciones por garantía de suministro y la Resolución de 20 de marzo de 2013, de la Secretaría de Estado de Energía, por la que se modifica la de 13 de febrero de 2013.
+
+En las mismas se establece que los parámetros contenidos en dichas resoluciones serán revisados por la Comisión Nacional de Energía, actualmente Comisión Nacional de los Mercados y la Competencia, quien determinará el coste real de aquellos parámetros fijados en sus anexos que requieran de los datos de la auditoría de las centrales.
+
+Asimismo, se contempla que la Secretaría de Estado de Energía establecerá, entre otros, el procedimiento de cálculo de la liquidación definitiva de la energía producida por dichas centrales bajo el amparo del Real Decreto 134/2010, de 12 de febrero.
+
+En la presente resolución se da cumplimiento a lo previsto en la normativa citada, de forma que se establece el procedimiento de cálculo de los costes reales para la realización de la liquidación definitiva anual del año 2013, correspondiente a la aplicación del Real Decreto 134/2010, de 12 de febrero, por el que se establece el procedimiento de resolución de restricciones por garantía de suministro y se modifica el Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de producción de energía eléctrica.
+
+Por otro lado, el artículo 1 del Real Decreto-ley 2/2013, de 1 de febrero, de medidas urgentes en el sistema eléctrico y en el sector financiero, determina que, con efectos desde el 1 de enero de 2013, en todas las metodologías que, estando vinculadas al Índice de Precios de Consumo, rigieran la actualización de las retribuciones, tarifas y primas que perciban los sujetos del sistema eléctrico por aplicación de la normativa sectorial, se sustituirá dicho índice por el Índice de Precios de Consumo a impuestos constantes sin alimentos no elaborados ni productos energéticos. En la presente resolución se tiene en cuenta lo previsto en el citado artículo 1 del Real Decreto-ley 2/2013, de 1 de febrero, en la revisión del coste unitario de operación y mantenimiento fijo.
+
+La presente resolución ha sido sometida a trámite de audiencia mediante su envío a los interesados como titulares de las instalaciones sometidas al Real Decreto 134/2010, de 12 de febrero, así como a Red Eléctrica de España, S.A., como operador del sistema, y a la Comisión Nacional de los Mercados y la Competencia. Se han recibido alegaciones de la mayor parte de las empresas titulares de las instalaciones y de la Comisión Nacional de los Mercados y la Competencia.
+
+En su virtud, resuelvo:
