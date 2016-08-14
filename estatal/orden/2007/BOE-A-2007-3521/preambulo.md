@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 99, de 25 de abril de 2007. Ref. BOE-A-2007-8578.
+Norma derogada, con efectos de 14 de agosto de 2016, por la disposición derogatoria única de la Orden AEC/1372/2016, de 19 de julio. Ref. BOE-A-2016-7861#dd.
