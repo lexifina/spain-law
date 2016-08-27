@@ -1,0 +1,94 @@
+## ANEXO V
+
+## Porcentaje inicial de cuota de boquerón de la zona IXa para los buques de cerco del Golfo de Cádiz para el primer año de vigencia de la orden (de acuerdo al artículo 2.3.A)
+
+El presente anexo sólo tiene por función expresar y determinar los beneficiarios de las cuotas y porcentajes de pesca en función de los criterios descritos en el artículo 2.3.a). Por ello deberá estarse a efectos del conocimiento de las cuotas y porcentajes de cada año a la correspondiente Resolución de la Secretaría General de Pesca aprobada en aplicación del artículo 2.3.b) y 2.3.c) de la presente orden y publicada en el «Boletín Oficial del Estado».
+
+| CFPO | Nombre | Porcentaje de cuota individual |
+| --- | --- | --- |
+| 25181 | NUEVO EL PORTUGUES | 1,75 |
+| 24357 | RODRIGUEZ SILVA | 1,38 |
+| 27093 | ANTONIO EL MORO | 1,29 |
+| 23993 | NUEVO AL ANDALUS | 1,19 |
+| 10002 | VICTORIA DE ANTONIOELMORO | 1,04 |
+| 23416 | SANTA MARIA PRIMERO | 0,95 |
+| 26358 | DE LA MAR | 0,89 |
+| 25180 | EL BELLIDO | 0,79 |
+| 24783 | PESNIMAR | 0,73 |
+| 26241 | JOVEN YANQUI | 0,63 |
+| 25238 | NUEVO AUDAZ | 0,41 |
+| 25624 | CANITO GARCÍA | 0,56 |
+| 24875 | NUEVO HERMANOS SILVA | 0,40 |
+| 24943 | DOMINGO REYES | 0,89 |
+| 1503 | SAN ANTONIO | 0,39 |
+| 25235 | NUEVO PURIFICACION | 1,38 |
+| 25964 | SANLUCAR BARRAMEDA UNO | 1,09 |
+| 25670 | CARRYMAR SEGUNDO | 0,75 |
+| 26996 | CABACO | 0,73 |
+| 11046 | NUEVO RICARDIN | 0,48 |
+| 27107 | NUEVO GOMEZ PLANA | 0,80 |
+| 26665 | JOSE MIGUEL CINCO | 0,63 |
+| 911 | TOMASIN | 0,45 |
+| 22215 | NICOLAS GALLARDO | 0,35 |
+| 5261 | PEDRO VIDAL | 0,42 |
+| 27096 | QUINTINO | 2,30 |
+| 26722 | CARABINA Y FARRUCO | 1,63 |
+| 27211 | NUEVA PRONTITUD | 2,55 |
+| 25621 | ELVIMAR | 2,00 |
+| 23425 | NAZARENO | 1,58 |
+| 24016 | HERMANOS INFANTE | 0,39 |
+| 5148 | RAMONA DE JOYA | 0,38 |
+| 24101 | NUEVO FRANCISCO ISABEL | 2,35 |
+| 4180 | HERMANOS PASTOR | 2,29 |
+| 25092 | NUEVO CARMEN ASUNCION | 2,09 |
+| 27101 | ANGEL CUSTODIO | 2,02 |
+| 25920 | PLAYA YERBABUENA | 1,99 |
+| 26179 | PESQUERO BENAMAHOMA | 1,97 |
+| 24212 | NUREMAR | 1,64 |
+| 27104 | NUEVO LUCERO MAR | 1,25 |
+| 25382 | JUAN Y MANOLI | 0,87 |
+| 25324 | FEBEL DOCE | 2,48 |
+| 25968 | BOQUERON BLANCO | 2,07 |
+| 25703 | NUEVO MONTE SINAI | 1,93 |
+| 25460 | SEGUNDO RAFAEL CARMEN | 1,79 |
+| 24803 | HERMANOS SERRANO GONZALEZ | 1,37 |
+| 22110 | SEGUNDO HERMANOS VENTURA | 1,25 |
+| 24688 | HERMANOS RIVERO | 1,24 |
+| 24762 | MARIA TERESA PRIMERO | 1,20 |
+| 23582 | RAFAEL Y CARMEN | 1,17 |
+| 25929 | NUEVO VELERO | 1,17 |
+| 27003 | NUEVO RIO JORDAN | 1,10 |
+| 25245 | SANLUCAR BARRAMEDA DOS | 1,02 |
+| 24886 | JUANA Y MANUEL | 0,95 |
+| 23733 | RAUL QUINTO | 0,84 |
+| 24299 | BRIGOMAR | 0,75 |
+| 25074 | SEGUNDO HERMANOS ALONSO | 0,69 |
+| 24394 | JESUS Y MIGUEL | 0,64 |
+| 23801 | BUENA SUERTE DOS | 0,56 |
+| 14421 | HERMANOS REYES | 0,48 |
+| 25713 | FLOR SUR UNO | 0,44 |
+| 1990 | PALOMA DE LA PAZ | 0,35 |
+| 9471 | TORPEDO PRIMERO | 0,36 |
+| 4526 | COLOSO | 0,39 |
+| 24861 | HERMANOS DIAZ VAZQUEZ | 0,35 |
+| 26323 | NUEVO SIRENA MAR | 1,44 |
+| 25110 | RUMBO A HIGUERAS | 1,35 |
+| 25981 | NUEVO ANTEQUERA | 1,33 |
+| 26060 | NUEVO ESTRELLA BAJOGUIA | 1,16 |
+| 26436 | EL COMIA | 0,97 |
+| 27190 | NUEVO GALATEA | 0,69 |
+| 27437 | NUEVO PAPI | 0,52 |
+| 22124 | EL CHUBASCO | 0,52 |
+| 11042 | MILAGRO DE LA VIRGEN | 0,46 |
+| 24669 | HERMANOS LOPEZ PEREZ | 0,44 |
+| 25173 | MI NUEVA LOLA | 0,57 |
+| 24704 | SIEMPRE VIRGEN REGLA | 2,06 |
+| 27193 | NUEVO SOCORRITO | 0,40 |
+| 23751 | EL TORERO | 0,66 |
+| 23672 | NUEVO AYACAM | 2,21 |
+| 5221 | EL PILOTO | 2,02 |
+| 14419 | MOBY DICK | 2,54 |
+| 25054 | NUEVO NAUTILUS | 2,85 |
+| 25755 | SEBASTIAN Y GUILLERMA | 1,81 |
+| 25675 | ZAID PESCA | 1,84 |
+| 26033 | NUEVO MARI TERE | 1,91 |

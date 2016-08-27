@@ -1,0 +1,5 @@
+## Disposición final tercera. Modificación de la Orden AAA/1512/2014, de 30 de julio, por la que se establece un plan de gestión para la sardina (Sardina pilchardus) de las aguas ibéricas (VIIIc y IXa) y se modifica la Orden AAA/1307/2013, de 1 de julio, por la que se establece un plan de gestión para los buques de los censos del Caladero Nacional del Cantábrico y Noroeste.
+
+El artículo 6.1 de la Orden AAA/1512/2014, de 30 de julio, por la que se establece un plan de gestión para la sardina (Sardina pilchardus) de las aguas ibéricas (VIIIc y IXa) y se modifica la Orden AAA/1307/2013, de 1 de julio, por la que se establece un plan de gestión para los buques de los censos del Caladero Nacional del Cantábrico y Noroeste queda redactado como sigue:
+
+«1. El periodo autorizado para ejercer la pesca de sardina será de cinco días a la semana cada buque, debiendo cesar dicha actividad como mínimo 48 horas continuadas en el caladero del Cantábrico y Noroeste y 56 horas continuadas en el caladero del Golfo de Cádiz.»
