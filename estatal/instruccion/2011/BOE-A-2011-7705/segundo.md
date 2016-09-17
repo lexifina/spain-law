@@ -6,6 +6,8 @@
 
 2.ª La situación de discapacidad, declarada de acuerdo con el artículo 7 de la Ley 13/1982, de integración Social de Minusválidos.
 
+La aportación por el interesado de la declaración de discapacidad, cualquiera que sea el grado de ésta, bastará para la aceptación de la excusa por la Junta Electoral de Zona, sin que resulte necesario aportar certificado médico en el que se detallen las limitaciones que impidan o dificulten el desempeño de las funciones de miembro de una Mesa Electoral.
+
 3.ª La condición de pensionista de incapacidad permanente absoluta y gran invalidez, declarada de acuerdo con el artículo 137 y concordantes de la Ley General de la Seguridad Social (LGSS).
 
 4.ª La situación de incapacidad temporal para el trabajo (artículo 128.1 LGSS), acreditada mediante la correspondiente baja médica.
@@ -29,5 +31,7 @@
 6.ª El cambio de la residencia habitual a un lugar situado en otra Comunidad Autónoma cuando, además de dicha circunstancia, se justifique la dificultad de poder formar parte de una mesa electoral.
 
 7.ª Haber formado parte de una Mesa electoral con anterioridad, al menos en tres ocasiones en los últimos diez años, siempre que con la aceptación de esta excusa quede garantizada la exigencia establecida en el artículo 26.2 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, de que una Mesa electoral esté formada por personas incluidas en la lista electoral de esa Mesa.
+
+> Se modifica la causa 2ª del apartado 1 por el apartado 1 de la Instrucción 3/2016, de 14 de septiembre. Ref. BOE-A-2016-8484.
 
 > Se añade el punto 7 al apartado 2 por el apartado 1 de la Instrucción 2/2014, de 11 de diciembre. Ref. BOE-A-2014-13263.
