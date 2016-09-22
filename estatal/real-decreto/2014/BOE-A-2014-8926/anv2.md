@@ -4,78 +4,76 @@
 
 LISTA DE DESTINOS PERMITIDOS
 
-Unión Europea:
+Unión Europea
 
-Alemania.
+Alemania
 
-Austria.
+Austria
 
-Bélgica.
+Bélgica
 
-Bulgaria.
+Bulgaria
 
-Chipre.
+Chipre
 
-Croacia.
+Croacia
 
-Dinamarca.
+Dinamarca
 
-Eslovaquia.
+Eslovaquia
 
-Eslovenia.
+Eslovenia
 
-Estonia.
+Estonia
 
-Finlandia.
+Finlandia
 
-Francia.
+Francia
 
-Grecia.
+Grecia
 
-Holanda.
+Holanda
 
-Hungría.
+Hungría
 
-Irlanda.
+Irlanda
 
-Italia.
+Italia
 
-Lituania.
+Lituania
 
-Letonia.
+Letonia
 
-Luxemburgo.
+Luxemburgo
 
-Malta.
+Malta
 
-Polonia.
+Polonia
 
-Portugal.
+Portugal
 
-República.
+República Checa
 
-Checa.
+Reino Unido
 
-Reino.
+Rumania
 
-Unido.
+Suecia
 
-Rumania.
+Otros países
 
-Suecia.
+Australia
 
-Otros países:
+Canadá
 
-Australia.
+Estados Unidos
 
-Canadá.
+Japón
 
-Estados Unidos.
+Nueva Zelanda
 
-Japón.
+Noruega
 
-Nueva Zelanda.
+Suiza
 
-Noruega.
-
-Suiza.
+> Se modifica por el art. único y Anexo V.2 de la Orden ECC/1493/2016, de 19 de septiembre. Ref. BOE-A-2016-8633.
