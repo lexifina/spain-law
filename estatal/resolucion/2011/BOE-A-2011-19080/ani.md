@@ -19,6 +19,7 @@
 | ECI | Estados contables y estadísticos de Sociedades Gestoras de IIC. |
 | ECR | Estados financieros de Entidades de Capital Riesgo. |
 | ECS | Estados financieros de los grupos consolidables de Sociedades y Agencias de Valores. |
+| EEA | Expedientes de Emisión y Admisión. |
 | EEI | Estados Estadísticos de IIC extranjeras. |
 | EFF | Estados financieros de Fondos y Sociedades de Inversión Inmobiliaria. |
 | EFI | Estados financieros de Fondos y Sociedades de Inversión Mobiliaria. |
@@ -27,8 +28,10 @@
 | EIT | Extractos de Informes de Tasación. |
 | ERI | Estatutos y reglamentos de IIC. |
 | ESR | Estados de información reservada y pública de las Sociedades Rectoras. |
+| EXD | Documentación de Expedientes de Entidades. |
 | FAB | Información periódica de Fondos de Activos Bancarios. |
 | FAI | Función de auditoría interna. |
+| FIA | Información de Fondos de Inversión Alternativa. |
 | FOI | Folletos de IIC. |
 | FTA | Informes de Fondos de Titulización. |
 | HSR | Hecho Significativo o Relevante. |
@@ -61,7 +64,9 @@
 | WAR | Características de Warrants agrupados en una emisión. |
 | ZZZ | Envío de un documento con formato libre. |
 
-> Se modifica por el apartado 1 de la Resolución de12 de marzo de 2014. Ref. BOE-A-2014-3521.
+> Se modifica por el apartado 1 de la Resolución de 23 de septiembre de 2016. Ref. BOE-A-2016-8874.
+
+> Se modifica por el apartado 1 de la Resolución de 12 de marzo de 2014. Ref. BOE-A-2014-3521.
 
 > Se modifica por el apartado 1 de la Resolución de 4 de octubre de 2013. Ref. BOE-A-2013-10723.
 
