@@ -532,25 +532,43 @@ Finca rústica con expectativas urbanísticas
 
 ## PARTE 5 DATOS DEL VALOR DE LAS GARANTÍAS
 
-Valor de la garantía a efectos del cálculo del loan to value
+Valor de la garantía a efectos del cálculo del loan to value.
 
-Importe de la garantía
+Importe de la garantía.
 
-Forma de obtención
+Forma de obtención.
 
-Valor de la garantía a efectos del cálculo del deterioro
+Valor de la garantía a efectos del cálculo del deterioro.
 
-Importe de la garantía
-
-Forma de obtención
+Importe de la garantía.
 
 Porcentaje de descuento (%)
 
-Fecha de la escritura de compraventa del activo recibido en garantía
+> Téngase en cuenta que la modificación de esta parte 5 del módulo D.2 entra en vigor el 1 de octubre de 2016, según establece la disposición final única de la Circular 4/2016, de 27 de abril. Ref. BOE-A-2016-4356.
 
-Importe del coste de adquisición del activo recibido en garantía
+> Redacción anterior:
 
-Importe del coste de adquisición ajustado del activo recibido en garantía
+> "PARTE 5 DATOS DEL VALOR DE LAS GARANTÍAS
+
+> Valor de la garantía a efectos del cálculo del loan to value
+
+> Importe de la garantía
+
+> Forma de obtención
+
+> Valor de la garantía a efectos del cálculo del deterioro
+
+> Importe de la garantía
+
+> Forma de obtención
+
+> Porcentaje de descuento (%)
+
+> Fecha de la escritura de compraventa del activo recibido en garantía
+
+> Importe del coste de adquisición del activo recibido en garantía
+
+> Importe del coste de adquisición ajustado del activo recibido en garantía".
 
 ## D.3 DATOS BÁSICOS DE LOS ACTIVOS FINANCIEROS RECIBIDOS EN GARANTÍA
 
@@ -697,6 +715,8 @@ Fechas de incumplimiento
 Fecha del primer incumplimiento
 
 Fecha del último incumplimiento
+
+> Se modifica la parte 5 del módulo D.2 por la Norma 4.a) de la Circular 4/2016, de 27 de abril. Ref. BOE-A-2016-4356.
 
 > Se suprimen los módulos E, H e I por la norma 2.10 de la Circular 3/2015, de 29 de julio. Ref. BOE-A-2015-9054.
 
