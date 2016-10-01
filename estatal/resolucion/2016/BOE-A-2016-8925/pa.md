@@ -1,0 +1,1 @@
+Contra la presente resolución, cabe interponer recurso de alzada ante el Sr. Secretario de Estado de Energía, en el plazo de un mes, de acuerdo con lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
