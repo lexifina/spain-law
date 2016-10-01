@@ -2,141 +2,119 @@
 
 3. Programaciones
 
-3.1 Concepto de programación.-Información que debe emitir cualquiera de los sujetos que hace uso de las instalaciones del sistema gasista en relación con el gas que estima introducir, extraer, almacenar, suministrar o consumir en un período determinado.
+3.1 Definiciones: Información que deben emitir los sujetos que hacen uso de las instalaciones del sistema gasista en relación con el gas que estiman introducir, extraer, almacenar, suministrar o consumir en un período determinado.
 
-Las programaciones tendrán carácter informativo, salvo las programaciones mensuales de entrada al sistema gasista por conexiones internacionales, por conexiones con yacimientos en producción, que tendrán carácter vinculante para los dos meses siguientes y en el caso de descarga de buques de GNL que tendrán carácter vinculante para un período entre mes y medio y dos meses en función de la capacidad del buque.
+3.2 Sujetos implicados son:
 
-Se establecerán modelos o formularios estándares donde se recogerán las programaciones.
+– Los usuarios con cartera de balance habilitados por el Gestor Técnico del Sistema (GTS) para el envío de notificaciones de transferencias de titularidad de gas bilaterales o de plataforma de comercio. Los comercializadores y/o consumidores directos en mercado podrán agruparse para constituirse como un único usuario.
 
-3.2 Sujetos obligados a realizar programaciones.-Todos los sujetos que utilicen las instalaciones de los operadores del sistema gasista, incluidos los responsables de suministrar al mercado a tarifa regulado, estarán obligados a realizar programaciones para que dichos operadores puedan organizar la gestión de las mismas y, en especial, para que el Gestor Técnico del Sistema pueda desarrollar las funciones asignadas como responsable de la gestión técnica del sistema gasista.
+– Los usuarios del resto de instalaciones gasistas de acuerdo con la definición del apartado 2.1 de la NGTS-02.
 
-Será necesario realizar programaciones relacionadas con:
+Un comercializador o un consumidor directo en mercado, puede constituir diferentes usuarios. En cualquier caso, a cada usuario le corresponde una única cartera de balance.
 
-El consumo en los puntos de suministro.
+Los agentes registrados como usuarios estarán obligados a realizar programaciones para que los operadores de las instalaciones puedan organizar la gestión de las mismas y, en especial, para que el GTS pueda desarrollar las funciones asignadas como responsable de la gestión técnica del sistema gasista.
 
-La distribución: por los puntos de conexión de las redes de transporte con las redes de distribución.
+3.3 Condiciones generales: Las programaciones tendrán carácter informativo, salvo las programaciones de descarga de buques de GNL, que tendrán carácter vinculante según lo dispuesto en el protocolo de detalle PD-07 «Programaciones, nominaciones y renominaciones en infraestructuras del sistema».
 
-El transporte: la entrada de gas por los puntos de entrada de las redes de transporte.
+Será necesario realizar al menos programaciones relacionadas con:
 
-La utilización de los almacenamientos.
+• Demanda convencional.
 
-La descarga de buques de GNL en plantas de regasificación y la utilización de estas plantas.
+• Demanda para la generación de energía eléctrica.
 
-Los titulares de las infraestructuras de transporte y de distribución, a través del Gestor Técnico del Sistema, enviarán periódicamente al Ministerio de Industria, Turismo y Comercio y a la Comisión Nacional de Energía la siguiente información:
+• El transporte: la entrada o salida de gas por los puntos de conexión de las redes de transporte con plantas de regasificación, yacimientos, conexiones internacionales y almacenamientos subterráneos.
 
-1. Programaciones realizadas, validadas y rechazadas y concedidas.
+• La utilización de los almacenamientos subterráneos.
 
-2. Capacidad programada y disponible para cada instalación.
+• La utilización de las plantas de GNL.
 
-3.3 Programación de redes de distribución.-El operador de cada red de distribución recibirá las programaciones asociadas a los puntos de salida por parte de los usuarios de sus redes.
+• El gas para autoconsumos necesario para el funcionamiento de las distintas infraestructuras del Sistema y el nivel mínimo de llenado de las nuevas infraestructuras. El alcance y la periodicidad de las programaciones de gas para autoconsumos y para el nivel mínimo de llenado, se realizará conforme a lo establecido en la Resolución de 23 de diciembre de 2015, de la Secretaría de Estado de Energía, por la que se desarrolla el procedimiento de adquisición de gas de operación o cualquier otra que la modifique.
 
-En el caso de conexiones entre redes de distribución, los distribuidores entregarán la información agregada al distribuidor situado aguas arriba.
+Las programaciones, su procesamiento y su posterior confirmación o viabilidad (en el caso de buques y cisternas) se realizarán con la periodicidad y alcance recogidos en el protocolo de detalle PD-07 «Programaciones, nominaciones y renominaciones en infraestructuras del sistema».
 
-Los operadores de cada red de distribución, teniendo en cuenta los datos proporcionados por los comercializadores y por los consumidores que aportan gas al sistema, añadiendo, en su caso, el consumo correspondiente a los clientes a tarifa y aportando el dato del distribuidor aguas abajo si lo hubiese, validarán la programación.
+Toda la información y comunicación relativa a los procesos de programación se realizará a través del Sistema Logístico de Acceso de Terceros a la Red (SL-ATR).
 
-Cuando la programación sea viable, el operador confirmará su viabilidad a los sujetos implicados y enviará su programación al operador de la red de transporte a la que está conectada su red de distribución.
+El usuario emitirá una programación por cada punto del sistema gasista y para los servicios que correspondan del que pretenda hacer uso dentro de los períodos de programación establecidos. El usuario emitirá una cantidad para cada combinación de los siguientes conceptos: día, punto/servicio, sujeto contraparte (donde aplique) y sentido del flujo (donde aplique).
 
-En el caso de redes de distribución dependientes de plantas satélites de GNL, el operador de la red de distribución enviará la programación viable al operador de la planta de regasificación de GNL de la que dependa.
+El reparto de las cantidades confirmadas o viables entre los contratos se realizará conforme a lo establecido en el PD-07 «Programaciones, nominaciones y renominaciones en infraestructuras del sistema».
 
-Las programaciones relativas a las redes de distribución y su viabilidad se realizarán con la periodicidad y alcance establecidos en el protocolo de detalle PD-08 «Programaciones y nominaciones de consumos en redes de distribución».
+El GTS dará acceso al Ministerio de Industria, Energía y Turismo y a la Comisión Nacional de los Mercados y la Competencia a la siguiente información:
 
-3.4 Programación de redes de transporte.-El operador de una red de transporte recibirá las programaciones asociadas a los puntos de entrada a la red de transporte por parte de los sujetos implicados y la de los puntos de salida de la red de transporte por parte de los operadores de las redes de distribución o grupo distribuidor. Por tanto, deberán enviarle programaciones:
+– Programaciones realizadas, confirmadas, viables y rechazadas.
 
-Los operadores de las siguientes instalaciones conectadas a su red:
+– Capacidad programada y disponible para cada instalación.
 
-Almacenamientos.
+3.4 Programación de redes de transporte:
 
-Redes de transporte de otros transportistas.
+Las programaciones de demanda tanto para el sector convencional como para la generación de energía eléctrica a través de ciclos combinados o centrales térmicas, serán enviadas por parte de los usuarios para que estén a disposición del GTS.
 
-Plantas de regasificación.
+Los usuarios enviarán las programaciones asociadas al resto de puntos de entrada o salida de la red de transporte y de los servicios que se oferten, de acuerdo a lo establecido en el protocolo de detalle PD-07 «Programaciones, nominaciones y renominaciones en infraestructuras del sistema», para que el operador de la red, en los servicios que corresponda, y el GTS, dispongan de dichas programaciones.
 
-Redes de distribución.
+3.5 Programación de almacenamientos subterráneos:
 
-Las conexiones de los gasoductos internacionales y yacimientos.
+Los usuarios de los almacenamientos subterráneos enviarán sus programaciones de acuerdo a lo establecido en el protocolo de detalle PD-07. El GTS dispondrá de dicha información, que incluirá al menos las inyecciones y extracciones correspondientes del período de programación.
 
-Igualmente deberán enviar programaciones los usuarios por el consumo que se vaya a realizar en las líneas directas.
+Las programaciones de los almacenamientos subterráneos básicos se harán sobre la base de un almacenamiento único.
 
-Los operadores de cada red de transporte, teniendo en cuenta los datos proporcionados, simularán la viabilidad de la programación para la red de transporte.
+Una vez confirmada la programación global de los almacenamientos subterráneos, el GTS comunicará a los operadores el programa físico de inyección y extracción por cada almacenamiento.
 
-Cuando la programación de la red de transporte sea viable, el operador confirmará su viabilidad a los sujetos implicados.
+3.6 Programación de plantas de regasificación de GNL:
 
-Las programaciones para las instalaciones de las redes de transporte y su viabilidad se realizarán con la periodicidad y alcance recogidos en el protocolo de detalle PD-07 «Programaciones y nominaciones en infraestructuras de transporte».
+El GTS, con la información suministrada por los operadores de plantas de regasificación, informará en los plazos establecidos en las normas de gestión técnica del sistema de las fechas de mantenimientos programados, así como de otros condicionantes adicionales, tales como días afectados por mareas vivas y restricciones nocturnas.
 
-Los transportistas deberán proceder a casar las entradas y salidas de gas en los puntos de conexión de las distintas redes de transporte.
+Los usuarios de las plantas de regasificación, enviarán programaciones asociadas a los servicios que se presten conforme a lo establecido en el protocolo de detalle PD-07 para que el operador de la instalación y el GTS dispongan de dicha información.
 
-Cuando la programación no sea viable, el operador se lo comunicará a los usuarios correspondientes para que estos revisen los excesos de programación con respecto a las reservas de capacidad.
+El operador de la planta de regasificación simulará el conjunto de programaciones antes de confirmarlas.
 
-En el caso de programaciones vinculantes, la programación de entrada sólo podrá ser modificada o eliminada por causas justificadas y previo conocimiento y aceptación del titular del punto de entrada y del Gestor Técnico del Sistema, salvo que se ponga en peligro la seguridad del sistema.
+Cuando la programación no sea confirmada, el operador se lo comunicará a los usuarios correspondientes para que cambien su programación. Cuando la programación sea confirmada, el operador lo comunicará a los usuarios implicados.
 
-3.5 Programación de almacenamientos subterráneos.-Los usuarios enviarán al operador de cada almacenamiento subterráneo la programación de sus actividades, que incluirá, como mínimo, la siguiente información:
+La programación anual definitiva debe incluir al menos las fechas tentativas de descarga para cada uno de los grandes buques dedicados de forma continua al tráfico desde largas distancias y con un mismo origen, con la finalidad de facilitar en todo lo posible y con carácter prioritario la continuidad del empleo de estos buques a los tráficos asignados. En el caso de que se trate de cargamentos compartidos por distintos usuarios, cada uno especificará la cantidad de GNL que le corresponda.
 
-Gas almacenado al inicio del período.
+La asignación de las fechas de descarga de buques en las programaciones de plantas de regasificación se realizará conforme a lo dispuesto en el protocolo de detalle PD-13 «Asignación de fechas de descarga de buques en plantas de regasificación».
 
-Inyecciones y extracciones correspondientes al alcance de programación en cada caso.
+La programación de descarga de un buque sólo podrá ser modificada o eliminada por causas justificadas y previo conocimiento y aceptación del operador de la planta de regasificación y del GTS, salvo que se ponga en peligro la seguridad del sistema.
 
-Cuando la programación del almacenamiento subterráneo no sea viable, el operador se lo comunicará a los usuarios correspondientes para que cambien su programación.
+Se publicará un registro en el SL-ATR, mantenido por el GTS, de las ventanas de descarga asignadas, no asignadas y libres de cada una de las plantas.
 
-Cuando la programación del almacenamiento subterráneo sea viable, el operador confirmará su viabilidad a los sujetos implicados y enviará su programación al operador de la red de transporte a la que esté conectado.
+Cuando el operador de cada planta de regasificación confirme la programación trimestral, fijará y comunicará la fecha de descarga de cada buque (ventana). Cada usuario recibirá la información relativa a sus correspondientes buques.
 
-Las programaciones, nominaciones y balances relativos a los almacenamientos subterráneos se harán sobre la base de un almacenamiento único.
+El procedimiento de descarga de buques se detalla en el protocolo de detalle PD-06 «Regla operativa de las actividades de descarga de buques metaneros».
 
-Las programaciones para los almacenamientos subterráneos se realizarán con la periodicidad y alcance recogidos en el protocolo de detalle PD-07 «Programaciones y nominaciones en infraestructuras de transporte».
+Diariamente, los usuarios proporcionarán a los operadores de las plantas de regasificación y al GTS cualquier modificación sobre el programa de descargas de buques (fecha, buque y cantidad), utilizando para ello el SL-ATR.
 
-3.6 Programación de plantas de regasificación de GNL.
+La confirmación descrita en los párrafos anteriores no es aplicable a la regasificación pero se tendrá en cuenta para confirmar la programación de la planta en su conjunto, pudiendo condicionar la confirmación de la descarga de buques.
 
-El GTS, con la información suministrada por los titulares de plantas de regasificación informará en los plazos establecidos en las Normas de Gestión Técnica del Sistema de las fechas de mantenimientos programados, así como de otros condicionantes adicionales, tales como días afectados por mareas vivas y restricciones nocturnas.
+3.6.1 Cargos económicos por exceso de GNL en plantas:
 
-Los usuarios de las plantas de regasificación, enviarán al titular de la instalación las programaciones asociadas a la descarga de los buques, y a la regasificación y salida de gas desde la planta de regasificación a la red de transporte correspondiente, utilizando para ello el Sistema Logístico de Acceso de Terceros a la Red (SL-ATR).
+A los efectos de conseguir una gestión eficiente de las instalaciones y para evitar eventuales situaciones de acaparamiento, el GTS aplicará a los usuarios los cargos que se calcularán de acuerdo con lo establecido a continuación.
 
-Asimismo, el operador de la planta de regasificación de GNL recibirá y tendrá en cuenta la solicitud de carga de cisternas que abastecen las redes de distribución y clientes industriales suministrados a través de las plantas satélites de GNL.
+El GTS determinará diariamente y de forma global para el conjunto de las plantas, las existencias de GNL de cada usuario, calculadas como la media móvil de treinta días (incluyendo el día actual). Se entenderá como un mismo usuario al conjunto de usuarios que pertenezcan a un mismo grupo empresarial.
 
-El operador de la planta de regasificación de GNL simulará la viabilidad del programa.
+En el caso de que dicho valor supere la energía equivalente a quince veces la capacidad de regasificación contratada, el GTS aplicará diariamente a las existencias de dicho usuario que superen el límite anterior, el siguiente cargo diario:
 
-Cuando la programación no sea viable, el operador se lo comunicará a los usuarios correspondientes para que cambien su programación.
+Exceso inferior o igual a cuatro días: dos veces y medio el canon de almacenamiento de GNL en vigor.
 
-Cuando la programación sea viable, el operador confirmará su viabilidad a los sujetos implicados y la enviará a los operadores afectados.
-
-Las programaciones para las plantas de regasificación se realizarán con la periodicidad y alcance recogidos en el protocolo de detalle "PD-07 Programaciones y nominaciones en infraestructuras de transporte".
-
-La programación anual definitiva debe incluir al menos las fechas tentativas de descarga para cada uno de los grandes buques dedicados de forma continua al tráfico desde largas distancias y con un mismo origen, con la finalidad de facilitar en todo lo posible y con carácter prioritario la continuidad del empleo de estos buques a los tráficos asignados. En el caso de que se trate de cargamentos compartidos con otras comercializadoras, cada una especificará la cantidad de GNL que le corresponda.
-
-La asignación de las fechas de descarga de buques en las programaciones de plantas de regasificación se realizará conforme a lo dispuesto en el protocolo de detalle "PD-13 Asignación de Fechas de Descarga de Buques en Plantas de Regasificación".
-
-La programación de descarga de un buque sólo podrá ser modificada o eliminada por causas justificadas y previo conocimiento y aceptación del titular de la planta de regasificación y del Gestor Técnico del Sistema, salvo que se ponga en peligro la seguridad del sistema.
-
-Se creará un registro, mantenido por el Gestor Técnico del Sistema, de ventanas de descarga de buques asignadas, no asignadas y libres en cada una de las plantas, de libre acceso para los titulares de las plantas y los comercializadores.
-
-Cuando el operador de cada planta de regasificación de GNL declare viable la programación trimestral, fijará y comunicará la fecha de descarga de cada buque (ventana). Cada usuario recibirá la información relativa a sus correspondientes buques.
-
-El procedimiento de descarga de buques se detallará en el protocolo de detalle correspondiente.
-
-Diariamente, los usuarios proporcionarán a los operadores de las plantas de regasificación cualquier modificación sobre el programa mensual de descargas asignado, utilizando para ello el Sistema Logístico de Acceso de Terceros a la Red (SL-ATR).
-
-3.6.1 A los efectos de conseguir una gestión eficiente de las instalaciones y para evitar eventuales situaciones de acaparamiento, el Gestor Técnico del Sistema aplicará a los usuarios los cargos que se calcularán de acuerdo con lo establecido a continuación.
-
-El Gestor Técnico del Sistema determinará diariamente y de forma global para el conjunto de las plantas, las existencias de GNL de cada usuario, calculadas como la media móvil de treinta días (incluyendo el día actual). Se entenderá como un mismo usuario al conjunto de usuarios que pertenezcan a un mismo grupo empresarial.
-
-En el caso de que dicho valor supere la energía equivalente a quince veces la capacidad de regasificación contratada, el Gestor Técnico del Sistema aplicará diariamente a las existencias de dicho usuario que superen el límite anterior, el siguiente cargo diario:
-
-a) Exceso inferior o igual a cuatro días: Dos veces y medio el canon de almacenamiento de GNL en vigor.
-
-b) Exceso superior a cuatro días: Diez veces el canon de almacenamiento de GNL en vigor.
+Exceso superior a cuatro días: diez veces el canon de almacenamiento de GNL en vigor.
 
 Para aquellos usuarios para los que la energía equivalente a quince días de la capacidad de regasificación contratada sea inferior a 300 GWh, se empleará este último valor como límite.
 
 Para aquellos usuarios que hayan realizado cargas de buques y hubieran incurrido en desbalance de exceso de GNL, dicho desbalance, será minorado en una cantidad igual a las existencias cargadas en el mes, hasta un valor límite de 300 GWh, priorizando el tramo de precio superior.
 
-Estos pagos serán adicionales al canon diario de almacenamiento de GNL facturado por el titular de la planta de regasificación y tendrán la consideración de ingresos liquidables del sistema.
+Estos pagos serán adicionales al canon diario de almacenamiento de GNL facturado por el operador de la planta de regasificación y tendrán la consideración de ingresos liquidables del sistema.
 
 Se faculta a la Dirección General de Política Energética y Minas a modificar el procedimiento de cálculo anterior en función de la evolución del mercado y la capacidad de almacenamiento.
 
-3.6.2 Publicación de las programaciones de descarga de buques. Una vez declarada viable la programación mensual de descarga de buques de gas natural licuado en las plantas de regasificación por los operadores, el Gestor Técnico del Sistema publicará la siguiente información para cada planta:
+3.6.2 Publicación de las programaciones de descarga de buques:
+
+Una vez confirmada la programación mensual de descarga de buques de los usuarios, el GTS publicará en el SL-ATR la siguiente información para cada planta:
 
 • Buques previstos, indicando clasificación de buque según su tamaño.
 
 • Cantidad de gas a descargar.
 
-• Ventanas libres de descarga si las hubiera, indicando para cada mes los días concretos en los que podrían haber posibilidad de descarga de nuevos buques y posibles tamaños admisibles.
+• Ventanas libres de descarga si las hubiera, indicando para cada mes los días concretos en los que podrían descargar nuevos buques y sus tamaños admisibles. Esta información también se publicará en la página web del GTS y de los operadores de las plantas de regasificación.
+
+> Se modifica por el apartado primero, en los términos que se indican en el Anexo I, de la Resolución de 28 de septiembre de 2016. Ref. BOE-A-2016-8928
 
 > Se modifica el apartado 3.6.1 por la disposición final 1 de la Orden IET/2446/2013, de 27 de diciembre. Ref. BOE-A-2013-13768#df.
 
