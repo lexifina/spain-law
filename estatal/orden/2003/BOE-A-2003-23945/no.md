@@ -1,1 +1,1 @@
-Esta Orden pasa a denominarse "Orden PRE/3662/2003, de 29 de diciembre, que regula un nuevo procedimiento de recaudación de los ingresos no tributarios recaudados por las Delegaciones de Economía y Hacienda y de los ingresos en efectivo en la Caja General de Depósitos y sus sucursales", según establece el apartado único.1 de la Orden EHA/1999/2005, de 21 de junio. Ref. BOE-A-2005-11037.
+Norma derogada, con efectos desde el 2 de octubre de 2016, por la disposición derogatoria única de la Orden PRE/1064/2016, de 29 de junio. Ref. BOE-A-2016-6416#dd.
