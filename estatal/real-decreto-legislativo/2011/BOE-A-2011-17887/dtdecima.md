@@ -1,0 +1,9 @@
+## Disposición transitoria décima. Prohibición de contratar por incumplimiento de la cuota de reserva de puestos de trabajo para personas con discapacidad.
+
+1. La prohibición de contratar establecida en el artículo 60.1.d) relativa al incumplimiento de la cuota de reserva de puestos de trabajo del 2 por ciento para personas con discapacidad no será efectiva en tanto no se desarrolle reglamentariamente y se establezca qué ha de entenderse por el cumplimiento de dicho requisito a efectos de la prohibición de contratar y cómo se acreditará el mismo, que, en todo caso, será bien mediante certificación del órgano administrativo correspondiente, con vigencia mínima de seis meses, o bien mediante certificación del correspondiente Registro de Licitadores, en los casos en que dicha circunstancia figure inscrita en el mismo.
+
+2. Hasta el momento en que se produzca la aprobación del desarrollo reglamentario a que se refiere el apartado anterior, los órganos de contratación ponderarán en los supuestos que ello sea obligatorio, que los licitadores cumplen lo dispuesto en el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, en relación con la obligación de contar con un dos por ciento de trabajadores con discapacidad o adoptar las medidas alternativas correspondientes, de conformidad con lo dispuesto en la disposición adicional cuarta.
+
+> Téngase en cuenta que esta disposición añadida por la disposición final 9.13 de la Ley 40/2015, de 1 de octubre Ref. BOE-A-2015-10566#dfnovena. entra en vigor el 2 de octubre 2016, según determina su disposición final 18.1.
+
+> Se añade, con efectos de 2 de octubre de 2016, por la disposición final 9.13 de la Ley 40/2015, de 1 de octubre. Ref. BOE-A-2015-10566#dfnovena.

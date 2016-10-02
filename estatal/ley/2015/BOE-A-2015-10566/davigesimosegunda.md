@@ -1,0 +1,3 @@
+## Disposición adicional vigesimosegunda. Actuación administrativa de los órganos constitucionales del Estado y de los órganos legislativos y de control autonómicos.
+
+La actuación administrativa de los órganos competentes del Congreso de los Diputados, del Senado, del Consejo General del Poder Judicial, del Tribunal Constitucional, del Tribunal de Cuentas, del Defensor del Pueblo, de las Asambleas Legislativas de las Comunidades Autónomas y de las instituciones autonómicas análogas al Tribunal de Cuentas y al Defensor del Pueblo, se regirá por lo previsto en su normativa específica, en el marco de los principios que inspiran la actuación administrativa de acuerdo con esta Ley.

@@ -550,6 +550,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria séptima](dtseptima.md)
 - [Disposición transitoria octava](dtoctava.md)
 - [Disposición transitoria novena](dtnovena.md)
+- [Disposición transitoria décima](dtdecima.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
 - [Disposición final tercera](dftercera.md)
