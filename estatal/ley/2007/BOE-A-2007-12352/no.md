@@ -1,0 +1,3 @@
+Norma derogada, con efectos de 2 de octubre de 2016, por la disposición derogatoria única.2.b) de la Ley 39/2015, de 1 de octubre. Ref. BOE-A-2015-10565#ddunica.
+
+Téngase en cuenta que la disposición final 7 de la citada ley establece un plazo de dos años desde su entrada en vigor para que produzcan efectos las previsiones relativas al registro electrónico de apoderamientos, registro electrónico, punto de acceso general electrónico de la Administración y archivo único electrónico, y por tanto, hasta ese momento, se mantendrán en vigor los artículos de la presente ley que traten sobre las materias citadas.

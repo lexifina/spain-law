@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 136, de 8 de junio de 1993. Ref. BOE-A-1993-14660
+Norma derogada, con efectos de 2 de octubre de 2016, por la disposición derogatoria única.2.d) de la Ley 39/2015, de 1 de octubre. Ref. BOE-A-2015-10565#ddunica.
