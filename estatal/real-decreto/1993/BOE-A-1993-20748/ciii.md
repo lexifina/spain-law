@@ -1,3 +1,0 @@
-## Capítulo III
-
-## Instrucción

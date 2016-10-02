@@ -1,3 +1,0 @@
-## Capítulo V
-
-## Procedimiento simplificado
