@@ -5,3 +5,5 @@
 2. El Director de la Agencia Española de Cooperación Internacional para el Desarrollo resolverá sobre la idoneidad de la adaptación de las entidades inscritas en el plazo de seis meses desde su solicitud.
 
 3. En los casos en los que la entidad solicitante de la adaptación no cumpla con los requisitos necesarios para la inscripción, el Registro de Organizaciones No Gubernamentales de Desarrollo resolverá la cancelación de la misma, previo trámite de audiencia.
+
+> Se amplía en seis meses el plazo máximo para dictar y notificar la resolución del procedimiento de inscripción en el Registro de ONGD desde la entrada de la solicitud en el Registro general de la AECID, según establece el apartado primero de la Resolución de 19 de septiembre de 2016. Ref. BOE-A-2016-9208.
