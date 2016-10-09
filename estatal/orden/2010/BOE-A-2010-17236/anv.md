@@ -662,13 +662,21 @@ Para tal fin, se incluirán al menos los siguientes contenidos:
 
 V.1.3.4 Conocimientos lingüísticos.
 
-Prueba lingüística:
+Prueba Lingüística:
 
-El presente apartado será exigible para los certificados de categoría A o B.
+1. El presente apartado será exigible para los certificados de categoría A o B.
 
-Los maquinistas que deban comunicarse con el administrador de infraestructuras sobre cuestiones críticas de seguridad deben tener las competencias lingüísticas en castellano (el idioma indicado por el administrador de infraestructuras). Sus habilidades lingüísticas deben ser tales que puedan comunicarse de manera activa y eficaz en situaciones rutinarias, adversas y de emergencia.
+2. Los maquinistas que deban comunicarse con el administrador de la infraestructura sobre cuestiones esenciales relacionadas con la seguridad deberán poseer la necesaria competencia lingüística en castellano (correspondiente al oficial para los administradores de infraestructuras de la Red Ferroviaria de Interés General). Dicha competencia lingüística deberá permitirles comunicarse de manera activa y eficaz en situaciones tanto rutinarias como degradadas y de emergencia. Deberán poder emplear los mensajes y el método de comunicación especificados en las ETI «Explotación y gestión del tráfico».
 
-Deberán ser capaces de emplear los mensajes y el método de comunicación especificados en la "Explotación y gestión del tráficoˮ ETI. Los maquinistas deberán ser capaces de comunicarse oralmente y por escrito de acuerdo con el nivel B1 del Marco Común Europeo de Referencia para los Idiomas (MCER), establecido por el Consejo de Europa.
+3. A fin de satisfacer los requisitos enumerados en el apartado anterior, los maquinistas deberán tener una capacidad de comprensión oral y escrita y de comunicación oral y escrita correspondiente al nivel B1 del Marco Común Europeo de Referencia para las Lenguas (MCER) establecido por el Consejo de Europa.
+
+4. En el caso de los tramos entre las fronteras y las estaciones situadas en su proximidad y designadas para operaciones transfronterizas, los maquinistas pueden ser eximidos por el administrador de infraestructuras de la obligación de cumplir los requisitos previstos en el apartado 3, a condición de que se aplique el procedimiento siguiente:
+
+a) La empresa ferroviaria solicitará una excepción del administrador de infraestructuras para los maquinistas interesados. A fin de garantizar el tratamiento justo y equitativo de los solicitantes, el administrador de infraestructuras aplicará a todas las solicitudes de excepción presentadas el mismo procedimiento de evaluación, que formará parte de la declaración sobre la red;
+
+b) El administrador de infraestructuras concederá una excepción si la empresa ferroviaria puede demostrar que ha establecido mecanismos suficientes para garantizar la comunicación entre los maquinistas interesados y el personal del administrador de infraestructuras en situaciones tanto rutinarias como degradadas y de emergencia, con arreglo al apartado 2;
+
+c) Las empresas ferroviarias y los administradores de infraestructuras garantizarán que el personal interesado conozca dichas normas y mecanismos y reciba formación adecuada a través de sus propios sistemas de gestión de la seguridad.
 
 V.2) Pruebas de evaluación de licencias y certificados
 
@@ -693,5 +701,7 @@ De manera general, dichos cursos incluirán, al menos, formación sobre los sigu
 – Procedimientos de actuación en materia de protección civil y prevención de riesgos.
 
 – Entrenamiento en situaciones degradas y situaciones críticas, teniendo en cuenta el retorno de la experiencia de sucesos o incidentes registrados, incluyendo la realización de simulaciones de operaciones con material rodante en situaciones de incidentes y averías.
+
+> Se modifica el apartado 1.3.4 por el art. único.1 de la Orden FOM/1613/2016, de 4 de octubre. Ref. BOE-A-2016-9243.
 
 > Se modifica por el art. único.59 de la Orden FOM/679/2015, de 9 de abril. Ref. BOE-A-2015-4243.
