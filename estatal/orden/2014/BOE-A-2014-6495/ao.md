@@ -2,6 +2,8 @@
 
 > Anexos I a VIII omitidos. Consulte el PDF oficial, y sus modificaciones:
 
+> - Se anulan las determinaciones relativas a la IT-01427, por Sentencia del TS de 26 de julio de 2016. Ref. BOE-A-2016-9280
+
 > - Se anulan las determinaciones relativas a la IT-01415, por Sentencia del TS de 26 de julio de 2016. Ref. BOE-A-2016-9124
 
 > - Se declara la nulidad de lo indicado de los Anexos II, III y VIII, por Sentencias del TS de 20 de junio de 2016. Ref. BOE-A-2016-6874 y Ref. BOE-A-2016-6875
