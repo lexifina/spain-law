@@ -1,0 +1,3 @@
+## Norma adicional.
+
+El modelo de informe para los fondos de inversión recogido en el anexo 1 de la Circular 4/2008, de 11 de septiembre, de la Comisión Nacional del Mercado de Valores, sobre el contenido de los informes trimestrales, semestral y anual de instituciones de inversión colectiva y del estado de posición, queda sustituido por el modelo contenido en el anexo B de la presente Circular, a efectos de recoger en la tabla contenida en el apartado 2.2.B) las nuevas vocaciones inversoras aprobadas tras la publicación de la Circular 1/2009, de 4 de febrero, de la CNMV, sobre las categorías de instituciones de inversión colectiva en función de su vocación inversora.

@@ -20,6 +20,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Norma 5](norma5.md)
 - [Sección tercera](stercera.md)
 - [Norma 6](norma6.md)
+- [Norma 6 bis](norma6bis.md)
 - [Norma 7](norma7.md)
 - [Sección cuarta](scuaa.md)
 - [Norma 8](norma8.md)

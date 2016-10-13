@@ -1,0 +1,3 @@
+## Norma primera. Ámbito de aplicación.
+
+La presente Circular será de aplicación a los depositarios de Instituciones de Inversión Colectiva, en adelante IIC, a los que se refiere el Título V de la Ley 35/2003, de 4 de noviembre, de IIC. También, será de aplicación a los depositarios de aquellas entidades reguladas en la Ley 22/2014, de 12 de noviembre, por la que se regulan las entidades de capital-riesgo, otras entidades de inversión colectiva de tipo cerrado y las sociedades gestoras de entidades de inversión colectiva de tipo cerrado, y por la que se modifica la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva.
