@@ -1,0 +1,1 @@
+Madrid, 13 de octubre de 2016.–El Director General de la Agencia Estatal de Administración Tributaria, Santiago Menéndez Menéndez.–La Secretaria General del Tesoro y Política Financiera, Rosa María Sánchez-Yebra Alonso.
