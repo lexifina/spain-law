@@ -99,3 +99,5 @@ Términos de energía (€/KWh)
 | 6.3 | 0,014635 | 0,010929 | 0,005823 | 0,002897 | 0,001871 | 0,001173 |
 | 6.4 | 0,008227 | 0,006825 | 0,003912 | 0,002221 | 0,001434 | 0,000989 |
 | 6.5 | 0,008227 | 0,006825 | 0,003912 | 0,002221 | 0,001434 | 0,000989 |
+
+> Téngase en cuenta que se declara que este anexo no es conforme al ordenamiento jurídico en la medida en que no incluye entre los costes que han de sufragar los peajes de acceso para el segundo periodo de 2013 los suplementos territoriales a los que se refiere el apartado cuarto del artículo 17 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, según la redacción dada por el artículo 38 del Real Decreto-ley 20/2012, por sentencia del TS de 22 de septiembre de 2016. Ref. BOE-A-2016-10117
