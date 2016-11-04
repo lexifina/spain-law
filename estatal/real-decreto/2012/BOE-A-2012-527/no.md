@@ -1,1 +1,1 @@
-> Incluye las correcciones de errores publicadas en BOE núm. 16, de 19 de enero de 2012. Ref. BOE-A-2012-806. y 63, de 14 de marzo de 2012. Ref. BOE-A-2012-3618.
+Téngase en cuenta, en relación a la Secretaría de Estado de Comunicación, la disposición adicional 3 del Real Decreto 415/2016, de 3 de noviembre. Ref. BOE-A-2016-10167#da-3.

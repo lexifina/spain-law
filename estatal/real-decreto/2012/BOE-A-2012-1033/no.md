@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 29, de 3 de febrero de 2012. Ref. BOE-A-2012-1643.
+Téngase en cuenta, sobre reestructuración y estructura orgánica básica de los departamentos ministeriales; el Real Decreto 415/2016, de 3 de noviembre. Ref. BOE-A-2016-10167. y el Real Decreto 424/2016, de 11 de noviembre. Ref. BOE-A-2016-10459.
