@@ -2,21 +2,25 @@
 
 ## Tabla de códigos ministeriales
 
-| Ministerios | Códigos |
+| Ministerio | Códigos |
 | --- | --- |
-| Ministerio de Asuntos Exteriores y Cooperación | AEC |
+| Ministerio de Asuntos Exteriores y de Cooperación | AEC |
 | Ministerio de Justicia | JUS |
 | Ministerio de Defensa | DEF |
-| Ministerio de Hacienda y Administraciones Públicas | HAP |
+| Ministerio de Hacienda y Función Pública | HFP |
 | Ministerio del Interior | INT |
 | Ministerio de Fomento | FOM |
 | Ministerio de Educación, Cultura y Deporte | ECD |
 | Ministerio de Empleo y Seguridad Social | ESS |
-| Ministerio de Industria, Energía y Turismo | IET |
-| Ministerio de Agricultura, Alimentación y Medio Ambiente | AAA |
-| Ministerio de la Presidencia | PRE |
-| Ministerio de Economía y Competitividad | ECC |
+| Ministerio de Energía, Turismo y Agenda Digital | ETU |
+| Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente | APM |
+| Ministerio de la Presidencia y para las Administraciones Territoriales | PRA |
+| Ministerio de Economía, Industria y Competitividad | EIC |
 | Ministerio de Sanidad, Servicios Sociales e Igualdad | SSI |
+
+> Se modifica por Resolución de 4 de noviembre de 2016. Ref. BOE-A-2016-10206.
+
+> Téngase en cuenta que los nuevos códigos ministeriales se aplican desde el 4 de noviembre de 2016, fecha de la entrada en vigor del Real Decreto 415/2016, de 3 de noviembre, según establece el apartado segundo de la citada Resolución.
 
 > Se modifica por Resolución de 26 de diciembre de 2011. Ref. BOE-A-2011-20371.
 
