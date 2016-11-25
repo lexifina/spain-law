@@ -756,6 +756,8 @@ Treinta y ocho. Se incorpora una nueva disposición adicional decimosexta con la
 
 (Anulado).
 
+> Se declara que el apartado 13 no es inconstitucional, interpretado en los términos del fundamento jurídico 3.d), por Sentencia del TC 180/2016, de 20 de octubre. Ref. BOE-A-2016-11127
+
 > Se declaran inconstitucionales y nulos los incisos destacados del apartado 9 y con los efectos señalados en el fundamento jurídico 8.f), el apartado 38 y que no es inconstitucional el apartado 13, interpretado en los términos de los fundamentos jurídicos 11 y 12.c), por Sentencia del TC 111/2016, de 9 de junio. Ref. BOE-A-2016-6839.
 
 > Se declara inconstitucional y nulo el apartado 17, por Sentencia del TC 41/2016, de 3 de marzo. Ref. BOE-A-2016-3407.
