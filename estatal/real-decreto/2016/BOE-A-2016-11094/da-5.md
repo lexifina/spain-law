@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Información a los consumidores sobre la facturación electrónica.
+
+Las COR deberán comunicar a sus clientes, durante el año 2017, la posibilidad de recibir las facturas en formato electrónico. En el caso de clientes que tengan, a los efectos del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre, la condición de consumidores, deberán recabar su consentimiento de forma expresa para la implementación efectiva de este servicio, de acuerdo con el artículo 63 del citado texto legal.
