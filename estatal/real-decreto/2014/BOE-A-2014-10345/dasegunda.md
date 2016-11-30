@@ -28,8 +28,10 @@ b) Tránsito peatonal y rodado, paralelo al canal, en una anchura no inferior a 
 
 9. En las urbanizaciones marítimo-terrestres existentes a la entrada en vigor de la Ley 22/1988, de 28 de julio, se tendrá en cuenta lo siguiente:
 
-a) A efectos de aplicación de lo establecido para los estacionamientos náuticos individuales o colectivos y privados en la letra a) del apartado 4, el propietario colindante deberá acreditar la existencia de título de propiedad, debidamente inscrito en el Registro de la Propiedad, a la entrada en vigor de la Ley 22/1988, de 28 de julio.
+a) (Anulada)
 
 b) Se presumirá la existencia del título administrativo necesario según la legislación de puertos y costas, a los efectos previstos en la letra a) del apartado 4, salvo prueba en contrario, para las construcciones existentes a la entrada en vigor de este Reglamento.
 
 c) Las distancias establecidas en el apartado 5 para el acceso público y el tránsito podrán variarse en aquellos casos en que la exigencia de estas distancias supusiera una división de las fincas urbanas edificadas.
+
+> Se anula la letra a) del apartado 9 por Sentencia del TS de 8 de septiembre de 2016. Ref. BOE-A-2016-11280.
