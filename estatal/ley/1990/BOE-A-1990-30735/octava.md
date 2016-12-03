@@ -10,7 +10,9 @@ No obstante, la compensación de cuotas negativas de ejercicios anteriores, para
 
 La limitación a la compensación de cuotas negativas no resultará de aplicación en el importe de las rentas correspondientes a quitas y esperas consecuencias de un acuerdo con los acreedores no vinculados con el contribuyente.
 
-2. El limite a que se refiere el apartado 1 del artículo 24 de esta Ley será del 60 por ciento para los períodos impositivos que se inicien en el año 2016.
+2. En el caso de cooperativas a las que no resulte de aplicación la disposición adicional octava de esta Ley, el límite a que se refiere el apartado 1 del artículo 24 de esta Ley será del 60 por ciento para los períodos impositivos que se inicien en el año 2016.
+
+> Se modifica el apartado 2, con efectos para los períodos impositivos que se inicien a partir de 1 de enero de 2016, por el art. 1.2 del Real Decreto-Ley 3/2016, de 2 de diciembre. Ref. BOE-A-2016-11475#a1.
 
 > Se modifica, con efectos para los períodos impositivos iniciados a partir de 1 de enero de 2015, por la disposición final 4.3.2 de la Ley 27/2014, de 27 de noviembre, en la redacción dada por la disposición final 6.7 de la Ley 34/2015, de 21 de septiembre. Ref. BOE-A-2015-10143#dfsexta.
 
