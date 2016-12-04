@@ -20,6 +20,8 @@ Ingenieros: Los militares con esta especialidad desarrollan actividades directam
 
 Transmisiones: Los militares con esta especialidad desarrollan actividades directamente relacionadas con el mando, la preparación y el empleo de las unidades de transmisiones.
 
+Aviación del Ejército de Tierra: Los militares con esta especialidad desarrollan actividades directamente relacionadas con el mando, la preparación, la seguridad y el empleo de las unidades del Ejército de Tierra que dispongan de medios aéreos.
+
 Escala de suboficiales:
 
 Infantería Ligera: Los militares con esta especialidad desarrollan actividades directamente relacionadas con el mando, la preparación y el empleo de las unidades de infantería ligera.
@@ -36,13 +38,11 @@ Ingenieros: Los militares con esta especialidad desarrollan actividades directam
 
 Transmisiones: Los militares con esta especialidad desarrollan actividades directamente relacionadas con el mando, la preparación y el empleo de las unidades de transmisiones.
 
-Helicópteros: Los militares con esta especialidad desarrollan actividades directamente relacionadas con el mando, la preparación, la seguridad y el empleo de las unidades de helicópteros.
+Aviación del Ejército de Tierra: Los militares con esta especialidad desarrollan actividades directamente relacionadas con el mando, la preparación, la seguridad y el empleo de las unidades del Ejército de Tierra que dispongan de medios aéreos.
 
 Electrónica y Telecomunicaciones: Los militares con esta especialidad desarrollan actividades técnicas específicas vinculadas con el mantenimiento electrónico de los respectivos sistemas de armas, equipos y materiales, así como los sistemas y equipos de telecomunicaciones y de guerra electrónica.
 
-Mantenimiento y Montaje de Equipos: Los militares con esta especialidad desarrollan actividades técnicas específicas vinculadas con el mantenimiento en el campo de las obras y del mantenimiento y montaje de instalaciones fijas y temporales, maquinaria y equipos de subsistencias, así como todos los sistemas de conducción de fluidos, energéticos, de transporte, seguridad, depuración y especiales.
-
-Electricidad: Los militares con esta especialidad desarrollan actividades técnicas específicas vinculadas con el mantenimiento de las instalaciones eléctricas de los sistemas, equipos y materiales, excepto los referidos a las telecomunicaciones y guerra electrónica.
+Mantenimiento y Montaje de Equipos: Los militares con esta especialidad desarrollan actividades técnicas específicas vinculadas con el mantenimiento en el campo de las obras y de las instalaciones eléctricas de los sistemas, equipos y materiales, excepto los referidos a las telecomunicaciones y guerra electrónica, y con el mantenimiento y montaje de instalaciones fijas y temporales, maquinaria y equipos de subsistencias, así como todos los sistemas de conducción de fluidos, electricidad, energéticos, de transporte, seguridad, depuración y especiales.
 
 Informática: Los militares con esta especialidad desarrollan actividades técnicas específicas vinculadas con el diseño y desarrollo de programas de aplicación, elaboración de documentación necesaria para el mantenimiento y explotación de sus aplicaciones, así como la solución a los problemas de uso de las citadas aplicaciones y la configuración, administración y mantenimiento de los sistemas informáticos.
 
@@ -80,11 +80,11 @@ Mantenimiento Electrónico y de Telecomunicaciones: Los militares con esta espec
 
 Chapa y Soldadura: Los militares con esta especialidad desarrollan actividades específicas relativas al mantenimiento de los vehículos en lo referente a los elementos fijos y móviles, metálicos y sintéticos, del chasis y de la carrocería, los relacionados con el mantenimiento y ejecución de construcciones metálicas, y los que exijan la aplicación de técnicas básicas de mecanizado.
 
-Montador Electricista: Los militares con esta especialidad desarrollan actividades específicas relativas al mantenimiento eléctrico y, en su caso, instalación eléctrica de los respectivos sistemas y redes de energía eléctrica.
-
-Montador de Equipos: Los militares con esta especialidad desarrollan actividades específicas relativas al montaje, mantenimiento y reparación de instalaciones fijas y temporales, maquinaria y equipos de subsistencias, así como todos los sistemas de conducción de fluidos, energéticos, de transporte, seguridad, depuración y especiales.
+Montador de Equipos: Los militares con esta especialidad desarrollan actividades específicas relativas al montaje, mantenimiento y reparación de instalaciones fijas y temporales, maquinaria y equipos de subsistencias e instalaciones eléctricas, así como todos los sistemas de conducción de fluidos, electricidad, energéticos, de transporte, seguridad, depuración y especiales.
 
 Música: Los militares con esta especialidad desarrollan actividades específicas relacionadas con la ejecución musical, mediante los instrumentos específicos de las músicas militares.
+
+Hostelería: Los militares de esta especialidad desarrollan actividades específicas relativas a la elaboración y distribución de menús, así como la prestación de servicios de restauración y hosteleros.
 
 2. Cuerpo de Intendencia
 
@@ -104,10 +104,10 @@ Telecomunicaciones y electrónica: Los militares con esta especialidad desarroll
 
 Escala técnica:
 
-Mecánica: Los militares con esta especialidad desarrollan actividades de carácter técnico y logístico en el ámbito del mantenimiento, en relación con la mecánica de materiales, equipos y sistemas de armas, de acuerdo con las facultades de la escala.
-
-Química: Los militares con esta especialidad desarrollan actividades de carácter técnico y logístico en el ámbito del mantenimiento, en relación con la química de explosivos, materiales energéticos y materiales especiales, de acuerdo con las facultades de la escala.
+Mecánica: Los militares con esta especialidad desarrollan actividades de carácter técnico y logístico en el ámbito del mantenimiento, en relación con la mecánica de materiales, equipos y sistemas de armas, así como la química de explosivos, materiales energéticos y materiales especiales, de acuerdo con las facultades de la escala.
 
 Construcción: Los militares con esta especialidad desarrollan actividades de carácter técnico y logístico en el ámbito del mantenimiento, en relación con la construcción de fortificaciones permanentes, infraestructura e instalaciones, de acuerdo con las facultades de la escala.
 
 Telecomunicaciones y electrónica: Los militares con esta especialidad desarrollan actividades de carácter técnico y logístico en el ámbito del mantenimiento, en relación con las telecomunicaciones, la electrónica, los sistemas de armas y equipos, así como de los sistemas informáticos.
+
+> Se modifican los apartados 1 y 3 por el art. único.8 a 16 del Real Decreto 595/2016, de 2 de diciembre. Ref. BOE-A-2016-11478.
