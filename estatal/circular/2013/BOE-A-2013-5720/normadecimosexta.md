@@ -14,6 +14,8 @@ Con objeto de imputar a los titulares exclusivamente el riesgo de crédito conso
 
 3. Se incluirán como riesgo de las empresas las operaciones declaradas a nombre de sus sucursales. Sin embargo, en los informes de riesgos de las sucursales solo se incluirán las operaciones declaradas a su nombre.
 
+Las operaciones cuyo tipo de producto sea “Derechos de cobro sobre tarifas reguladas” no se incluirán en la información que se facilita a las entidades declarantes.
+
 b) Previa solicitud en la que consten el nombre del titular y su código de identificación, el Banco de España proporcionará información de cualquier titular que haya solicitado una operación de riesgo o que figure como obligado al pago o garante en los documentos cambiarios o de crédito cuya adquisición o negociación haya sido solicitada a la entidad. Las entidades declarantes únicamente podrán tratar la información que les facilite el Banco de España para la valoración del riesgo relacionado con las operaciones que justifican la solicitud del informe, no pudiendo emplear los datos para ninguna otra finalidad.
 
 Los datos que se facilitarán serán los indicados en la letra a) anterior correspondientes a la última declaración mensual cerrada y a la declaración cerrada seis meses antes.
@@ -39,3 +41,5 @@ c) Tan pronto como reciba declaraciones complementarias con rectificaciones o ca
 4. Todas las solicitudes y comunicaciones de informes de riesgos entre las entidades declarantes y la CIR se realizarán por vía telemática, de conformidad con las especificaciones técnicas que se comuniquen al efecto.
 
 5. La información que remite el Banco de España a las entidades declarantes tiene carácter confidencial y solo podrá ser usada o cedida conforme a lo dispuesto en el artículo 62 de la Ley 44/2002 y en la normativa de protección de datos de carácter personal.
+
+> Se añade un párrafo a la letra a) del apartado 1 por la disposición final 2.a) de la Circular de 29 de noviembre de 2016. Ref. BOE-A-2016-11483.
