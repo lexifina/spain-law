@@ -1,0 +1,21 @@
+## ANEXO XVIII
+
+## Modelo de datos para la medida de innovación
+
+SOLICITANTE / BENEFICIARIO
+
+| TIPO | – SOCIEDADES CIVILES PARTICULARES – COMUNIDAD DE BIENES – PERSONA JURÍDICA: • COOPERATIVA • OTRAS: S.A.T. S.A. S.L. Otras – Organizaciones de productores de vino, reconocidas de acuerdo con el artículo 152 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013. – Asociación temporal o permanente de dos o más productores. |
+| --- | --- |
+| IDENTIFICACIÓN | – NIF – Domicilio Social – Domicilio Fiscal |
+
+SOLICITUD
+
+| IDENTIFICACIÓN | – FECHA DE PRESENTACIÓN • Admitida • No Admitida – FECHA DE RESOLUCIÓN – FECHA DE ACEPTACIÓN, RENUNCIA O DESISTIMIENTO – FECHA DE PAGO POR ANUALIDAD – Pago final |
+| --- | --- |
+
+PROYECTO
+
+| PROYECTO | – OBJETIVO FINAL – ANUAL O PLURIANUAL: – PRESUPUESTO POR ANUALIDAD – AYUDA POR ANUALIDAD |
+| --- | --- |
+| CARACTERÍSTICAS DE LA INVERSIÓN | – PRODUCTOS: • MENCIONADOS EN EL ANEXO VII PARTE II • RELACIONADOS CON LOS MENCIONADOS EN EL ANEXO VII PARTE II |
+| MODIFICACIONES | – FECHA DE SOLICITUD – CALENDARIO DE EJECUCIÓN – PRESUPUESTO AL ALZA SIN MODIFICAR SUBVENCIÓN – PRESUPUESTO A LA BAJA CON REDUCCIÓN DE LA SUBVENCIÓN |

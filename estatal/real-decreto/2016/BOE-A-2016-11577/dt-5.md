@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Referencias normativas.
+
+Las referencias contenidas en este real decreto a la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas, y a la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, para las solicitudes presentadas con anterioridad al 2 de octubre de 2016, se entenderán hechas, según proceda, a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y a la Ley 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos.
