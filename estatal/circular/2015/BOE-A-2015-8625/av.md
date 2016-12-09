@@ -24,11 +24,11 @@ Asimismo, resultan de aplicación a los trabajos de auditoría previstos en la p
 
 2. Competencias profesionales del auditor.
 
-El informe deberá ser emitido por un auditor de cuentas o por una sociedad de auditoría de cuentas, definidos conforme al artículo 2 de la Ley de Auditoría de Cuentas, aprobado por Real Decreto Legislativo 1/2011 de 1 de julio, o norma que lo sustituya. Las referencias contenidas en la presente Circular al término «auditor» han de tenderse referidas, de forma indistinta, tanto a un auditor designado de forma individual como a una sociedad de auditoría de cuentas.
+El informe deberá ser emitido por un auditor de cuentas o por una sociedad de auditoría de cuentas, definidos conforme al artículo 3 de la Ley 22/2015, de 20 de julio, de Auditoría de Cuentas, o norma que lo sustituya. Las referencias contenidas en la presente Circular al término «auditor» han de entenderse referidas, de forma indistinta, tanto a un auditor designado de forma individual como a una sociedad de auditoría de cuentas.
 
 Adicionalmente, el trabajo debe llevarse a cabo por una persona o personas que tengan la formación técnica y la capacidad profesional necesarias de acuerdo con la naturaleza, dimensión y complejidad del tipo de entidades cuya información se pretende auditar. En particular, deberán disponer de un adecuado conocimiento y experiencia contrastable en: (i) el campo de la auditoría, (ii) el campo de la contabilidad y (iii) los aspectos técnicos asociados a las actividades desarrolladas por los sujetos obligados.
 
-3. carta de encargo o contrato.
+3. Carta de encargo o contrato.
 
 La carta de encargo o contrato del encargo de verificación sobre la información solicitada para el Sistema IRC deberá realizarse por escrito, estar firmada por el auditor y por el sujeto obligado y deberá contener como mínimo los siguientes extremos:
 
@@ -123,7 +123,7 @@ En la siguiente tabla se identifica cada prueba con un código único, el objeto
 | A-P1-4 | Procedimiento efectivo seguido por la empresa en el ejercicio y efectividad de los controles identificados. | 1. Determinar si se ha seguido el procedimiento descrito en el manual para el proceso de elaboración de la declaración objeto de revisión. 2. Comprobar quien es la persona/s encargada de elaborar la declaración y quien es la persona encargada de supervisarla. 3. Comprobar mediante pruebas de cumplimiento el efectivo funcionamiento de los controles que figuren en el manual. En todo caso, se deberá realizar esta comprobación para los controles que se indican en las siguientes pruebas y de cuantos otros controles haya identificado en el procedimiento que considere oportuno verificar (creando pruebas adicionales AA-P1-4-X). | E F C | Indagación. Inspección: documentación soporte de efectiva aplicación del procedimiento en el ejercicio y del control. |
 | A-P1-4-1 | Procedimientos de control interno: ejecución protocolo de validación. | 1. Comprobar que el sujeto obligado haya aplicado el protocolo de validación del apartado 5 del Anexo IV Instrucciones y haya subsanado todos los posibles errores u omisiones detectados, con carácter previo a la entrega de la declaración al auditor. Inspección de la evidencia de haber aplicado este control 2. Observar la re-ejecución de este control y que efectivamente se hubieran subsanado los errores u omisiones. | E F C | Indagación Inspección Observación. |
 | A-P1-4-2 | Procedimientos de control interno: control del volcado de datos desde los sistemas a los Formularios. | 1. En caso de que los datos de los formularios se obtengan automáticamente desde sus sistemas informáticos, comprobar que no hay diferencias entre el resultado obtenido por la re-ejecución del volcado de datos desde sus sistemas (referido a la fecha de cierre del ejercicio) y los ficheros.txt entregados por el sujeto obligado al auditor. 2. Si se produjeran diferencias, inspeccionar documentación soporte justificativa de las mismas e indagar si existe un mecanismo de control sobre los ajustes manuales introducidos en los ficheros txt. 3. En caso de que no se realice volcado automático de datos desde sus sistemas, revisar el procedimiento aplicado para la cumplimentación de los formularios.txt y evaluar la efectividad de los controles para garantizar su fiabilidad. | E F C | Indagación. Re-ejecución. Inspección documentación soporte justificativa de las diferencias y de la aplicación efectiva del control. |
-| A-P1-4-3 | Procedimientos de control interno: conciliaciones con sistemas. | 1. Comprobar si el sujeto obligado ha realizado conciliaciones entre la información recogida en los ficheros txt y la información recogida en sus sistemas contables en la fecha de elaboración de la declaración. 2. Revisión conceptual por parte del auditor de las partidas conciliatorias identificadas por el sujeto obligado. 3. Comprobar que las conciliaciones hayan sido supervisadas por persona adecuada, diferente de la encargada de su confección. | E F C | Indagación Observación. Inspección documentación soporte de las conciliaciones y. |
+| A-P1-4-3 | Procedimientos de control interno: conciliaciones con sistemas. | 1. Comprobar si el sujeto obligado ha realizado conciliaciones entre la información recogida en los ficheros txt y la información recogida en sus sistemas contables en la fecha de elaboración de la declaración. 2. Revisión conceptual por parte del auditor de las partidas conciliatorias identificadas por el sujeto obligado. 3. Comprobar que las conciliaciones hayan sido supervisadas por persona adecuada, diferente de la encargada de su confección. | E F C | Indagación Observación. Inspección documentación soporte de las conciliaciones y revisiones. |
 | A-P1-5 | Ajuste del procedimiento a los criterios fijados en la Circular 1/2015. | Evaluar la adecuación del procedimiento aplicado por el sujeto obligado para proporcionar información que se ajuste a los criterios y desgloses establecidos en la Circular 1/2015 que permita una adecuada cumplimentación de los formularios. | P&D | Indagación. Inspección procedimiento. |
 | A-P1-6 | Criterios para la separación contable entre actividades reguladas declarados en el Procedimiento_Sis tema_IRC.pdf. | 1. Comprobar que los criterios de asignación y de imputación de activos, gastos e ingresos entre cada una de las actividades para las que se exige llevar una contabilidad separada coincidan con los criterios declarados en la memoria de las cuentas anuales auditadas del ejercicio, conforme a lo exigido en el artículo 20.3 de la Ley 24/2013 y en el artículo 62.3 de la Ley 34/1998. 2. Evaluar si dichos criterios o indicadores responden a criterios objetivos y siguen la orientación de que los gastos e ingresos imputados a cada actividad sean lo más paralelos al coste o costes que tengan una relación funcional más importante con las actividades realizadas. 3. Comprobar que dichos criterios aplicados en el ejercicio sean uniformes respecto del ejercicio anterior. Indagar cualquier cambio de criterio realizado e inspeccionar su justificación y cuantificar la incidencia de dichos cambios, considerando que dichos cambios se producen a inicio del ejercicio. P&D |  | Indagación. Inspección documentación soporte. |
 | A-P1-7 | Estructura organizativa declarada en Procedimiento_Sis tema_IRC.pdf. | Evaluar la coherencia entre las funciones de los centros de coste definidos en el Sistema IRC con las funciones de los CECOS de la estructura organizativa del sujeto obligado, al objeto de identificar, en caso de diferencias significativas, las reclasificaciones de costes que sea preciso efectuar entre los diferentes CECOS. | P&D | Indagación Inspección organigramas y procedimientos internos. |
@@ -136,18 +136,17 @@ El auditor deberá realizar las pruebas de cumplimiento de atributos de los acti
 
 Las pruebas de revisión se han establecido de forma separada por actividad y por tipo de población de activos regulados que presentan características homogéneas. En la siguiente tabla se describen los tipos de población:
 
-| Tipo de población | Descripción de la población | Estado3 | Unidad de muestreo |
+| Tipo de población | Descripción de la población | Estado2 | Unidad de muestreo |
 | --- | --- | --- | --- |
-| I | Activos CUAR declarados en servicio en la primera declaración (2014) puestos en servicio en ejercicios anteriores a la primera declaración, distribuidos para cada ejercicio de verificación conforme a las siguientes reglas por actividad: ‒ Transporte electricidad: comprende para cada ejercicio una quinta parte de los activos con fecha de puesta en marcha anterior al 31/12/2013, comenzando preferiblemente por los de fecha de puesta en marcha más antigua, hasta revisar el 100%. ‒ Transporte de gas: comprende para cada ejercicio la mitad de los activos con fecha de puesta en marcha anterior al 31/12/2013, comenzando preferiblemente por los de fecha de puesta en marcha más antigua, hasta revisar el 100%, salvo las estaciones de compresión que se revisarán al 100% en el primer ejercicio de verificación. ‒ Regasificación y almacenamiento subterráneo: comprende el 100% de dichos activos en el primer ejercicio de verificación. ‒ Para los activos del OS/GTS, comprende el 100% de dichos activos en el primer ejercicio de verificación. | S | CUAR (S) fecha PEM o fecha contable anterior o igual a 2013. |
-| II | Activos CUAR puestos en servicio en el ejercicio de la declaración (nuevos activos en servicio), incluyendo compras de activos regulados en servicio. Para los activos CUAR del OS/GTS se tendrá en cuenta la fecha de registro contable en vez de fecha de puesta en marcha. | S, X, Y | CUAR (S, X, Y) fecha PEM o fecha contable en el ejercicio de la declaración. |
-| III | Activos CUAR cerrados o en desmantelamiento en el ejercicio. | C/M | CUAR (C) o CUAR (M). |
-| IV | Activos CUAR transferidos o desmantelados en el ejercicio. | T/U | CUAR (T) o CUAR (U). |
-| V | Activos CUAR en estudio o en desarrollo desarrollados por la empresa durante el ejercicio. | E/D | CUAR (E) o CUAR (D). |
-| VI | Activos CUAR en estudio o en desarrollo comprados en el ejercicio. | E/D | CUAR (E) o CUAR (D). |
-| VII | Activos CUAR en estudio o en desarrollo descartados en el ejercicio. | R | CUAR (C). |
-| VIII | Activos CUAR transferidos en el ejercicio. | T | CUAR (T). |
-
-3 Estado o grado de materialización del activo regulado de acuerdo con el Anexo III de Codificación.
+| I | Activos CUAR declarados en servicio en la primera declaración (2014) puestos en servicio en ejercicios anteriores a la primera declaración, distribuidos para cada ejercicio de verificación conforme a las siguientes reglas por actividad: ‒ Transporte electricidad: comprende para cada ejercicio una quinta parte de los activos con fecha de puesta en marcha anterior al 31/12/2013, comenzando preferiblemente por aquellos activos para los que se haya declarado el correspondiente «Código Base de Datos Instalaciones Eléctricas» en el Bloque F1-E8 y de estos empezando por los de fecha de puesta en marcha más antigua, hasta revisar el 100%. ‒ Transporte de gas: comprende para cada ejercicio la mitad de los activos con fecha de puesta en marcha anterior al 31/12/2013, comenzando preferiblemente por los de fecha de puesta en marcha más antigua, hasta revisar el 100%, salvo las estaciones de compresión que se revisarán al 100% en el primer ejercicio de verificación. ‒ Regasificación y almacenamiento subterráneo: comprende el 100% de dichos activos en el primer ejercicio de verificación. ‒ Para los activos del OS/GTS, comprende el 100% de dichos activos en el primer ejercicio de verificación. | S, H | CUAR (S, H) fecha PEM o fecha contable anterior o igual a 2013 |
+| II | Activos CUAR puestos en servicio en el ejercicio de la declaración (nuevos activos en servicio), incluyendo compras de activos regulados en servicio. Para los activos CUAR del OS/GTS se tendrá en cuenta la fecha de registro contable en vez de fecha de puesta en marcha. | S, H, X, Y | CUAR (S, H, X, Y) fecha PEM o fecha contable en el ejercicio de la declaración |
+| III | Activos CUAR cerrados o en desmantelamiento en el ejercicio | C/M | CUAR (C) o CUAR (M) |
+| IV | Activos CUAR transferidos o desmantelados en el ejercicio | T/U | CUAR (T) o CUAR (U) |
+| V | Activos CUAR en estudio o en desarrollo desarrollados por la empresa durante el ejercicio | E/D | CUAR (E ) o CUAR (D) |
+| VI | Activos CUAR en estudio o en desarrollo comprados en el ejercicio | E/D | CUAR (E ) o CUAR (D) |
+| VII | Activos CUAR en estudio o en desarrollo descartados en el ejercicio | R | CUAR (C) |
+| VIII | Activos CUAR transferidos en el ejercicio | T | CUAR (T) |
+| 2 Estado o grado de materialización del activo regulado de acuerdo con el Anexo III de Codificación. |
 
 5.3.1 Activos regulados de transporte de electricidad.
 
@@ -208,29 +207,29 @@ En la siguiente prueba el auditor deberá comprobar para cada uno de los centros
 
 En cada una de las pruebas de la siguiente tabla, el auditor deberá comprobar para cada uno de los activos de la población analizada (examen 100%) el cumplimiento de un conjunto de atributos distribuidos en los siguientes Bloques:
 
-| Código prueba | Tipo población | Ubicación población | Tipo de activo | F2-GT1 | F2-GT2 | F2-GT3 | F2-GT4 | F2-GT5 | F2-GT6 | F2-GT7 | F2-G1 | F5-G1 | F5-G2 | F5-G3 | F10-P2 | F10-P4 | F10-P5 | F12-GT1 a GT7 | F14-ARX | F16-U1 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| A-F2-GT1-1 | I | F5-G1 | GT1 | X |  |  |  |  |  |  | X | X |  |  |  |  |  |  |  | X |
-| A-F2-GT1-2 | II | F5-G1 | GT1 | X |  |  |  |  |  |  | X | X | X |  | X | X |  |  |  | X |
-| A-F2-GT2-1 | I | F5-G1 | GT2 |  | X |  |  |  |  |  | X | X |  |  |  |  |  |  |  | X |
-| A-F2-GT2-2 | II | F5-G1 | GT2 |  | X |  |  |  |  |  | X | X | X |  | X | X |  |  |  | X |
-| A-F2-GT3-1 | I | F5-G1 | GT3 |  |  | X |  |  |  |  | X | X |  |  |  |  |  |  |  | X |
-| A-F2-GT3-2 | II | F5-G1 | GT3 |  |  | X |  |  |  |  | X | X | X |  | X | X |  |  |  | X |
-| A-F2-GT4-1 | I | F5-G1 | GT4 |  |  |  | X |  |  |  | X | X |  |  |  |  |  |  |  | X |
-| A-F2-GT4-2 | II | F5-G1 | GT4 |  |  |  | X |  |  |  | X | X | X |  | X | X |  |  |  | X |
-| A-F2-GT5-1 | I | F5-G1 | GT5 |  |  |  |  | X |  |  | X | X |  |  |  |  |  |  |  | X |
-| A-F2-GT5-2 | II | F5-G1 | GT5 |  |  |  |  | X |  |  | X | X | X |  | X | X |  |  |  | X |
-| A-F2-GT6-1 | I | F5-G1 | GT6 |  |  |  |  |  | X |  |  | X |  |  |  |  |  |  |  |  |
-| A-F2-GT6-2 | II | F5-G1 | GT6 |  |  |  |  |  | X |  |  | X |  |  | X |  |  |  |  |  |
-| A-F2-GT7-1 | I | F5-G1 | GT7 |  |  |  |  |  |  | X | X | X |  |  |  |  |  |  |  | X |
-| A-F2-GT7-2 | II | F5-G1 | GT7 |  |  |  |  |  |  | X | X | X | X |  | X | X |  |  |  | X |
-| A-F2-GTX-1 | III | F5-G1 | GT1-GT5/GT7 |  |  |  |  |  |  |  |  |  |  | X | X |  |  |  |  |  |
-| A-F2-GTX-2 | IV | F2 | GT1-GT5/GT7 |  |  |  |  |  |  |  |  |  | X | X |  |  |  |  |  |  |
-| A-F12-GTX-1 | V | F10-P2 | GT1-GT5/GT7 |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |
-| A-F12-GTX-2 | VI | F10-P5 | GT1-GT5/GT7 |  |  |  |  |  |  |  |  |  |  |  | X |  | X |  |  |  |
-| A-F12-GTX-3 | VII | F12 | GT1-GT5/GT7 |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |
-| A-F12-GTX-4 | VIII | F12 | GT1-GT5/GT7 |  |  |  |  |  |  |  |  |  |  |  |  | X | X |  |  |  |
-| Control |  |  |  | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 12 | 14 | 7 | 2 | 10 | 8 | 7 | a | a | 12 |
+| Código prueba | Tipo población | Ubicación población | Tipo de activo | F2-GT1 | F2-GT2 | F2-GT3 | F2-GT4 | F2-GT5 | F2-GT6 | F2-GT7 | F2-G1 | F5-G1 | F5-G2 | F5-G3 | F6-AR1 | F10-P2 | F10-P4 | F10-P5 | F12-GT1 a GT7 | F14-ARX | F16-D1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| A-F2-GT1-1 | I | F5-G1 | GT1 | X |  |  |  |  |  |  | X | X |  |  |  |  |  |  |  |  | X |
+| A-F2-GT1-2 | II | F5-G1 | GT1 | X |  |  |  |  |  |  | X | X | X |  |  | X | X |  |  |  | X |
+| A-F2-GT2-1 | I | F5-G1 | GT2 |  | X |  |  |  |  |  | X | X |  |  |  |  |  |  |  |  | X |
+| A-F2-GT2-2 | II | F5-G1 | GT2 |  | X |  |  |  |  |  | X | X | X |  |  | X | X |  |  |  | X |
+| A-F2-GT3-1 | I | F5-G1 | GT3 |  |  | X |  |  |  |  | X | X |  |  |  |  |  |  |  |  | X |
+| A-F2-GT3-2 | II | F5-G1 | GT3 |  |  | X |  |  |  |  | X | X | X |  |  | X | X |  |  |  | X |
+| A-F2-GT4-1 | I | F5-G1 | GT4 |  |  |  | X |  |  |  | X | X |  |  |  |  |  |  |  |  | X |
+| A-F2-GT4-2 | II | F5-G1 | GT4 |  |  |  | X |  |  |  | X | X | X |  |  | X | X |  |  |  | X |
+| A-F2-GT5-1 | I | F5-G1 | GT5 |  |  |  |  | X |  |  | X | X |  |  | X |  |  |  |  |  | X |
+| A-F2-GT5-2 | II | F5-G1 | GT5 |  |  |  |  | X |  |  | X | X | X |  | X | X | X |  |  |  | X |
+| A-F2-GT6-1 | I | F5-G1 | GT6 |  |  |  |  |  | X |  |  | X |  |  |  |  |  |  |  |  |  |
+| A-F2-GT6-2 | II | F5-G1 | GT6 |  |  |  |  |  | X |  |  | X |  |  |  | X |  |  |  |  |  |
+| A-F2-GT7-1 | I | F5-G1 | GT7 |  |  |  |  |  |  | X | X | X |  |  |  |  |  |  |  |  | X |
+| A-F2-GT7-2 | II | F5-G1 | GT7 |  |  |  |  |  |  | X | X | X | X |  |  | X | X |  |  |  | X |
+| A-F2-GTX-1 | III | F5-G1 | GT1-GT5/GT7 |  |  |  |  |  |  |  |  |  |  | X |  | X |  |  |  |  |  |
+| A-F2-GTX-2 | IV | F2 | GT1-GT5/GT7 |  |  |  |  |  |  |  |  |  | X | X |  |  |  |  |  |  |  |
+| A-F12-GTX-1 | V | F10-P2 | GT1-GT5/GT7 |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |
+| A-F12-GTX-2 | VI | F10-P5 | GT1-GT5/GT7 |  |  |  |  |  |  |  |  |  |  |  |  | X |  | X |  |  |  |
+| A-F12-GTX-3 | VII | F12 | GT1-GT5/GT7 |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |
+| A-F12-GTX-4 | VIII | F12 | GT1-GT5/GT7 |  |  |  |  |  |  |  |  |  |  |  |  |  | X | X |  |  |  |
+| Control |  |  |  | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 12 | 14 | 7 | 2 | 2 | 10 | 8 | 2 | NA | NA | 12 |
 
 5.3.5 Activos regulados del Gestor Técnico del Sistema (GTS).
 
@@ -340,11 +339,11 @@ En la siguiente prueba el auditor deberá comprobar para cada uno de los element
 
 5.3.9 Terrenos asociados a los activos regulados.
 
-En la siguiente prueba el auditor deberá comprobar para cada elemento de la muestra seleccionada el cumplimiento de un conjunto de atributos distribuidos en los siguientes Bloques:
+En la siguiente prueba el auditor deberá comprobar para cada elemento de la muestra seleccionada el cumplimiento de un conjunto de atributos en los siguientes Bloques:
 
-| Código prueba | Población | Ubicación | Tipo de revisión | F6-AR4 | F6-AR5 | F6-AR5 |
-| --- | --- | --- | --- | --- | --- | --- |
-| A-F6-AR-3 | Terrenos identificados con ID. | F10-P3 | Muestreo estadístico. | X | X | X |
+| Código prueba | Población | Ubicación | Tipo de revisión | F6-AR3 | F6-AR4 |
+| --- | --- | --- | --- | --- | --- |
+| A-F6-AR-3 | Terrenos identificados con ID | F6-AR3 | Muestreo estadístico | X | X |
 
 5.3.10 Activos planificados.
 
@@ -365,49 +364,60 @@ A través de las pruebas para esta área se pretende sostener, entre otras, las 
 | Valoración (V). | El auditor debe comprobar que los activos están registrados por el valor que les corresponde. |
 | Integridad (I). | El auditor debe comprobar que se hayan declarado toda la información solicitada y que es completa. |
 
+5.3.11 Disponibilidad y mantenimiento de los activos y Datos de uso
+
+En las siguientes pruebas el auditor deberá comprobar para cada elemento de la muestra seleccionada el cumplimiento de un conjunto de atributos distribuidos en los siguientes Bloques:
+
+| Código prueba | Tipo población | Ubicación población | Tipo de activo | F15-D1 | F15-U1 | F16-D1 | F16-U1 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| A-F15-D1- | 100% en S o Y | F1-E1, F1-E3, F1-E4 | F1-E1, F1-E3, F1-E4 | X |  |  |  |
+| A-F15-U1- | 100% en S o Y | F15-U1 | F1-E1,F1-E2,F1-E3, F1-E4 |  | X |  |  |
+| A-F16-D1- | 100% en S | F2, F3 | F2 |  |  | X |  |
+| A-F16-U1- | 100% | F16-U1 | Tablas 17, 18, 19 |  |  |  | X |
+| Control |  |  |  | 1 | 1 | 1 | 1 |
+
 En la siguiente tabla se describe la forma de realizar las comprobaciones del cumplimiento de los atributos comprendidos en los Bloques, las afirmaciones que se pretenden sostener así como las técnicas de comprobación que como mínimo debe aplicar el auditor:
 
-| Bloque | ID | Comprobaciones | AF | Técnica de comprobación6 |
+| Bloque | ID | Comprobaciones | AF | Técnica de comprobación3 |
 | --- | --- | --- | --- | --- |
-| Bloques Formulario 1 (excepto F1-E8) y Formulario 2 (excepto F2-G1, F2-GT6, F2-AS5, F2 R21) | A | Coherencia de las referencias a Tablas maestras y a campos de otros bloques (que no se comprueben automáticamente mediante reglas de validación). | P&D | Inspección: revisión de la coherencia y concordancia entre registros. |
-| B | Comprobación de los datos técnicos y de interrelación con otros activos regulados. | D&O P&D | Inspección: registros técnicos, documentación interna (proyectos de construcción y modificación disponibles, etc.) y documentación externa (Actas de Puesta en Servicio, Autorizaciones Públicas de Instalación, Actas de Inspección de la Delegación de Industria, etc.). |
-| EE&O | Inspección física. Solo para poblaciones: – Tipo I para transporte de electricidad. – Centros de mantenimiento de gas (A-F2-GT5). |
-| C | Coherencia de la ubicación del centro de mantenimiento, al que esté asociado cada uno de los activos de la muestra, con la ubicación geográfica de estos últimos. | EE&O | Indagación personal técnico. Inspección: registros técnicos, documentación interna. |
-| D | Comprobación de los números de referencia catastral de los bienes inmuebles asociados a los activos seleccionados. | EE&O | Inspección: certificaciones catastrales o documentos acreditativos publicados por la Dirección General del Catastro. |
-| E | Comprobación de la correspondencia entre la ubicación de los centros de mantenimiento declarada en F1-E6 y en F2-GT5 con cada una de las áreas/zonas/demarcaciones en las que el sujeto obligado ha dividido sus actividades de operación y mantenimiento de las instalaciones en el ejercicio. | EE&O | Indagación. Inspección: procedimiento de gestión de las actividades de operación y mantenimiento de la sociedad. |
-| F1-E8 F2-G1 | A | Comprobación del/los código(s) de la base de datos de la CNMC que se declara(n) para cada activo. | P&D | Inspección: comunicaciones previas de la CNMC, auditorías de inventario de instalaciones de transporte de electricidad. |
-| F2-GT6 F2-AS5 F2-R11 | A | Comprobación cantidad comprada y precio de adquisición. | A/V | Inspección: registros y documentación soporte de la compra (factura, albarán). |
-| F3-GRI | A | Comprobación que los activos declarados coincidan con los incluidos en el contrato de GRI. | O | Indagación. Inspección: contratos GRI. |
-| Bloques Formulario F4 | A | Comprobación de los campos de los bloques. | D&O P&D | Inspección: escritura de propiedad, certificación catastral, facturas de compra, etc. |
-| F5-G1 | A | Coherencia de las referencias a Tablas maestras y a campos de otros bloques (no comprobado mediante reglas de validación automáticas). | P&D | Inspección: revisión de la coherencia y concordancia entre registros. |
-| B | Comprobación de la naturaleza singular. | D&O | Inspección: Resolución administrativa de autorización. |
-| C | Comprobación fechas (PEM, fecha cierre, desmantelamiento, etc.). | O | Inspección: registros contables y documentación soporte externa (actas administrativas, etc.). |
-| D | Comprobación valor reconocido y vida útil regulatoria. | V | Inspección: documentación soporte (comunicación del Ministerio, etc.). |
-| E | Comprobación valor declarado, subvenciones, instalaciones cedidas (No aplicable para activos regulados cuya fecha de PEM fuera anterior al 2008). | V | Inspección: documentación soporte (auditorías de acreditación del valor de inversión). |
-| F | Comprobación de la forma de incorporación al patrimonio. | O | Inspección: registros y documentación soporte (contrato de compraventa, de cesión, etc.). |
-| F5-G2 | A | Comprobación datos de la compraventa (fecha, importe, sujetos...). | A/V | Indagación. Inspección: contrato compra–venta, autorización administrativa de la transmisión, etc. |
+| Formulario 1 (excepto F1-E8) y Formulario 2 (excepto F2-G1, F2-GT6, F2- AS5, F2- R21) | A | Coherencia de las referencias a Tablas maestras y a campos de otros bloques (que no se comprueben automáticamente mediante reglas de validación). | P&D | Inspección: revisión de la coherencia y concordancia entre registros |
+| B | Comprobación de los datos técnicos y de interrelación con otros activos regulados. | D&O P&D | Inspección: registros técnicos, documentación interna (proyectos de construcción y modificación disponibles, etc.) y documentación externa (Actas de Puesta en Servicio, Autorizaciones Públicas de Instalación, Actas de Inspección de la Delegación de Industria, etc.) |
+| EE&O | Inspección física. Solo para poblaciones: – Tipo I para transporte de electricidad – Centros de mantenimiento de gas (A-F2-GT5). |
+| C | Coherencia de la ubicación del centro de mantenimiento, al que esté asociado cada uno de los activos de la muestra, con la ubicación geográfica de estos últimos. | EE&O | Indagación personal técnico. Inspección: registros técnicos, documentación interna |
+|  | D | Comprobación de los números de referencia catastral de los bienes inmuebles asociados a los activos seleccionados. | EE&O | Inspección: certificaciones catastrales o documentos acreditativos publicados por la Dirección General del Catastro. |
+|  | E | Comprobación de la correspondencia entre la ubicación de los centros de mantenimiento declarada en F1-E6 y en F2-GT5 con cada una de las áreas/zonas/demarcaciones en las que el sujeto obligado ha dividido sus actividades de operación y mantenimiento de las instalaciones en el ejercicio. | EE&O | Indagación. Inspección: procedimiento de gestión de las actividades de operación y mantenimiento de la sociedad |
+| F1-E8 F2-G1 | A | Comprobación del/los código(s) de la base de datos de la CNMC que se declara(n) para cada activo | P&D | Inspección: comunicaciones previas de la CNMC, auditorías de inventario de instalaciones de transporte de electricidad |
+| F2-GT6 F2-AS5 F2-R11 | A | Comprobación cantidad comprada y precio de adquisición | A/V | Inspección: registros y documentación soporte de la compra (factura, albarán) |
+| F3-GRI | A | Comprobación que los activos declarados coincidan con los incluidos en el contrato de GRI | O | Indagación. Inspección: contratos GRI. |
+| Formulario 4 | A | Comprobación de los campos de los bloques | D&O P&D | Inspección: escritura de propiedad, certificación catastral, facturas de compra, etc. |
+| F5-G1 | A | Coherencia de las referencias a Tablas maestras y a campos de otros bloques (no comprobado mediante reglas de validación automáticas) | P&D | Inspección: revisión de la coherencia y concordancia entre registros |
+| B | Comprobación de la naturaleza singular | D&O | Inspección: Resolución administrativa de autorización. |
+| C | Comprobación fechas (PEM, fecha cierre, desmantelamiento, etc.) | O | Inspección: registros contables y documentación soporte externa (actas administrativas, etc.). |
+| D | Comprobación valor reconocido y vida útil regulatoria | V | Inspección: documentación soporte (comunicación del Ministerio, etc.). |
+| E | Comprobación valor declarado, subvenciones, instalaciones cedidas (No aplicable para activos regulados cuya fecha de PEM fuera anterior al 2008) | V | Inspección: documentación soporte (auditorías de acreditación del valor de inversión). |
+| F | Comprobación de la forma de incorporación al patrimonio | O | Inspección: registros y documentación soporte (contrato de compraventa, de cesión, etc.) |
+| F5-G2 | A | Comprobación datos de la compraventa (fecha, importe, sujetos…) | A/V | Indagación. Inspección: contrato compra- venta, autorización administrativa de la transmisión, etc. |
 | B | Comprobación que el coste de la compra se ha localizado en el OFC de inversión de actividades no reguladas en el Bloque F7-L3. | O/V | Inspección: revisión de la coherencia y concordancia entre registros. |
-| F5-G3 | A | Coherencia del cambio de estado declarado conforme a instrucciones. | P&D | Inspección: revisión registros. |
-| B | Coherencia de la fecha del cambio de estado con el ejercicio de la declaración. | P&D | Inspección. |
-| C | Comprobación de la fecha del cambio de estado. | O | Inspección: registros técnicos y documentación soporte (autorización administrativa de cierre, desmantelamiento, transmisión, actas de cierre, de desmantelamiento, etc.). |
-| Formulario 6 | A | Comprobación que el método de georreferenciación empleado sea uno de los admitidos en el Anexo IV Instrucciones. | P&D | Inspección: revisión registros. |
+| F5-G3 | A | Coherencia del cambio de estado declarado conforme a instrucciones | P&D | Inspección: revisión registros. |
+| B | Coherencia de la fecha del cambio de estado con el ejercicio de la declaración | P&D | Inspección. |
+| C | Comprobación de la fecha del cambio de estado | O | Inspección: registros técnicos y documentación soporte (autorización administrativa de cierre, desmantelamiento, transmisión, actas de cierre, de desmantelamiento, etc.). |
+| Formulario 6 | A | Comprobación que el método de georreferenciación empleado sea uno de los admitidos en el Anexo IV Instrucciones. | P&D | Inspección: revisión registros |
 | B | Correspondencia entre la ubicación física según coordenadas geográficas y el emplazamiento técnico del CUAR. | P&D | Observación (validación automática). En caso contrario, re-ejecución. |
-| C | Comprobación de las coordenadas de los activos regulados. | P&D | Inspección: documental: base cartográfica actualizada del sujeto obligado. |
-| EE&O | Inspección física. Solo para poblaciones: – Tipo I para transporte de electricidad. – Centros de mantenimiento de gas (A-F2-GT5). |
+| C | Comprobación de las coordenadas de los activos regulados. | P&D | Inspección documental: base cartográfica actualizada del sujeto obligado. |
+| EE&O | Inspección física. Solo para poblaciones: – Tipo I para transporte de electricidad – Centros de mantenimiento de gas (A-F2-GT5). |
 | D | Coherencia coordenadas geográficas de los terrenos con la ubicación geográfica a la que están asociados los activos (No aplicable para obras lineales de gasoductos y las líneas). | EE&O | Inspección documental: base cartográfica actualizada del sujeto obligado, proyecto de construcción. |
 | F10-P2 | A | Verificación que los activos CUAR declarados en F10-P2 hubieran recibido costes de inversión en el ejercicio de la declaración (Bloque F7-L3). | P&D | Inspección Bloque F7-L3. |
 | B | Verificación que dichos activos han sido declarados en el estado final en el que se encontrasen a cierre del ejercicio. | P&D | Inspección Bloque F7-L3. |
-| C | En el caso de compras realizadas en el ejercicio de gas talón, colchón o gas mínimo de llenado, verificación que se han localizado en los CUAR correspondientes a dichos tipos de activos, en estado S en el Bloque F7-L3. | P&D | Inspección Bloque F7-L3. |
-| F10-P1 F1 0-P 2 | A | Verificación de los datos relativos al proyecto de detalle aprobado en el que está incluida la inversión en el CUAR examinado. Verificar las fechas y los importes presupuestados para la inversión realizada en el CUAR. | E | Inspección del proyecto de detalle de la instalación aprobado (artículo 70 R D 1434/20 02 para sector gas o D artículo 02.1b) de le Leyr 2as2o1el Sector Eléctrico). |
+| C | En el caso de compras realizadas en el ejercicio de gas talón, colchón o gas mínimo de llenado, verificación que se han localizado en los CUAR correspondientes a dichos tipos de activos, en estado S en el Bloque F7-L3. | P&D | Inspección Bloque F7-L3 |
+| F10-P1 F10-P2 | A | Verificación de los datos relativos al proyecto de detalle aprobado en el que está incluida la inversión en el CUAR examinado. Verificar las fechas y los importes presupuestados para la inversión realizada en el CUAR | E | Inspección del proyecto de detalle de la instalación aprobado (artículo 70 RD 1434/2002 para sector gas o el artículo 53.1b) de la Ley 24/2013 Sector Eléctrico) |
 | F10-P3 | A | Verificación que los activos planificados declarados estén incluidos en el documento de Planificación aprobado por el Ministerio de Industria, Turismo y Consumo que corresponda. | EE&O | Inspección: registros de planificación. |
 | F10-P4 | A | Coherencia de las recodificaciones por cambio de estado con las instrucciones. Comprobación que los cambios de estado por venta de activos estén declarados también en el F10-P2. | P&D I | Observación (validación automática). En caso contrario, re-ejecución. |
 | B | Verificación que las recodificaciones por motivos diferentes a cambios de estado estén debidamente justificadas y cuando proceda, que el reparto de los costes entre los activos resultantes esté declarado en F8-R1. | I | Indagación e inspección. |
-| F10-P5 | A | Verificación que las compras de activos regulados en desarrollo se hubieran localizado en el OFC de inversión de actividades no reguladas en el Bloque F7-L3. | P&D | Inspección Bloque F7-L3. |
+| F10-P5 | A | Verificación que las compras de activos regulados en desarrollo se hubieran localizado en el OFC de inversión de actividades no reguladas en el Bloque F7-L3. | P&D | Inspección Bloque F7-L3 |
 | B | Verificación de los datos declarados para la compraventa (incluyendo el código CUAR anterior) mediante la inspección de la documentación soporte de la operación. | I | Inspección documentación soporte de la transacción. |
-| F15 | A | Verificación de los datos declarados sobre disponibilidad y mantenimiento en el ejercicio. | O | Indagación e inspección documentación soporte: partes de averías, informes internos etc. |
-| F16 | A | Coherencia parámetros de uso declarados para cada tipo de instalación. | P&D | Inspección: revisión de la coherencia y concordancia entre registros. |
-
-6 Se deberán utilizar como mínimo las técnicas de comprobación indicadas en la tabla, entendidas conforme a las definiciones de la norma internacional de auditoría 500 «Evidencia de auditoría», adaptada para su aplicación en España mediante Resolución del Instituto de Contabilidad y Auditoría, de 15 de octubre de 2013 (NIA-ES 500). en lo que resulte aplicable, sin que esto suponga en ningún caso que este trabajo suponga una auditoría de cuentas.
+| F15-D1 F16-D1 | A | Verificación de los datos declarados sobre disponibilidad y mantenimiento en el ejercicio. | O | Indagación e inspección documentación soporte: partes de averías, informes internos etc. En particular se ha de comprobar que se ha declarado la información correspondiente a todos los CUAR con indisponibilidad |
+| F15-U1 F16-U1 | A | Coherencia parámetros de uso declarados para cada tipo de instalación. | P&D | Inspección: revisión de la coherencia y concordancia entre registros |
+| 3 Se deberán utilizar como mínimo las técnicas de comprobación indicadas en la tabla, entendidas conforme a las definiciones de la norma internacional de auditoría 500 «Evidencia de auditoría», adaptada para su aplicación en España mediante Resolución del Instituto de Contabilidad y Auditoría, de 15 de octubre de 2013 (NIA-ES 500) en lo que resulte aplicable, sin que esto suponga en ningún caso que este trabajo suponga una auditoría de cuentas. |
 
 En el anexo A al informe el auditor deberá indicar, para cada una de las pruebas aplicadas, el método de revisión, las características del muestreo aplicado en su caso, los resultados obtenidos y cuando proceda, la justificación de haber aplicado un criterio diferente al establecido en este apartado.
 
@@ -433,9 +443,9 @@ En la siguiente tabla se identifica para cada prueba con un código único, la p
 | Código prueba | Descripción de la prueba | AF | Técnica de comprobación |
 | --- | --- | --- | --- |
 | A-F7-L1 | Población. | Unidades monetarias del conjunto de filas declaradas en el Bloque F7-L1. | P&D V&E T R A C | Indagación. Inspección registros contables y documentación soporte. Re-cálculo. |
-| Tipo de revisión. | Muestreo estadístico (muestreo por unidad monetaria MUM recomendado) o por combinación de muestreo de. |
+| Tipo de revisión. | Muestreo estadístico (en este caso, se recomienda muestreo por unidad monetaria MUM o por combinación de muestreo de elementos específicos (significativos y/o excepcionales) y muestreo estadístico. |
 | Unidad de muestreo. | Unidades monetarias declaradas en cada fila en caso MUM o filas del Bloque para otros tipos de muestreo. |
-| Comprobaciones. | Para los costes localizados en cada una de las filas seleccionadas se deberán comprobar los siguientes aspectos: 1. Se correspondan con la actividad declarada en la fila. Indagar el criterio aplicado para el reparto del tipo de coste en cada CECO por actividades y evaluar su coherencia con el criterio de asignación de gastos entre cada una de las actividades para las que se exige llevar una contabilidad separada (conforme artículo 20.2 de la Ley 24/2013 del Sector Eléctrico y en el artículo 62.2 de la Ley 34/1998, del Sector de Hidrocarburos) declarado en el «Procedimiento_Sistema_IRC.pdf» (exigido en apdo.2.2 Anexo IV). 2. No tengan la consideración de costes no localizables según apdo. 4.7.3 Anexo IV. 3. Se correspondan con la naturaleza del tipo de coste declarado en la fila (conforme definiciones apdo.3 Anexo IV). 4. Se hayan localizado en el CECO auxiliar o principal que les corresponda, atendiendo a las funciones definidas para. cada CECO y las reglas de localización para cada tipo de coste en el apdo. 4.7.4 Anexo IV. 5. Se encontrasen registrados en la cuenta contable indicada en la fila. Inspección registros contables. 6. Su valor monetario coincida con la información que figura en los registros contables o en su caso, estuviera conciliado. con dicha información y estuviera debidamente justificado con documentación soporte. En concreto, cuando correspondan al Tipo de coste CC-01, inspeccionar la documentación soporte de la compra realizada y su recepción (factura o contrato y albarán de entrada en almacén).por el importe declarado en F7-L1. 7. La clave o criterio de reparto utilizado para la localización del tipo de coste examinado al CECO sea medida razonable. del consumo cuantitativo que dicho CECO realiza respecto de dicho tipo de coste y coincida con el criterio declarado por el sujeto obligado en el «Procedimiento_Sistema_IRC.pdf. Cuando correspondan a los Tipos de coste CC-23, CC-25, CC-26 y CC-27, adicionalmente se deberá: a) Re-calcular el importe del coste con los datos que figuran en los registros y cuando proceda, con los partes de tiempo del personal. b) Comprobar que el coste de los tiempos improductivos de la mano de obra (sub-actividad) y el coste del personal dedicado a actividades de investigación y desarrollo se hubieran localizado en CC-P7 (conforme apdo. 4.7.5.1 y apdo. 4.7.4.1.15 Anexo IV respectivamente). 8. Cuando tengan origen en una operación con parte vinculada, adicionalmente se deberá comprobar: a) Que los costes generados por la misma se hubieran declarado en filas separadas atendiendo a su naturaleza (tipo de coste), con independencia de que se hubieran registrado conjuntamente en una misma cuenta contable (p.e. Fees o cargos por recepción de servicios corporativos prestados por otra sociedad del grupo, cargo por gastos diversos incurridos por una parte vinculada por cuenta del sujeto obligado, etc.). Inspección documentación soporte de la transacción. b) Que estén identificados en la fila por el código asignado a la operación en el Bloque F9-DC7. c) Que el tipo de coste declarado sea coherente con el tipo de operación que se declara en F9-DC7. 9. Cuando correspondan a actividades de investigación y desarrollo se hayan localizado en el CECO CC-P3-000. 10. No se correspondan con estimaciones de costes futuros provisionados. |
+| Comprobaciones. | Para los costes localizados en cada una de las filas seleccionadas se deberán comprobar los siguientes aspectos: 1. Se correspondan con la actividad declarada en la fila. Indagar el criterio aplicado para el reparto del tipo de coste en cada CECO por actividades y evaluar su coherencia con el criterio de asignación de gastos entre cada una de las actividades para las que se exige llevar una contabilidad separada (conforme artículo 20.2 de la Ley 24/2013 del Sector Eléctrico y en el artículo 62.2 de la Ley 34/1998, del Sector de Hidrocarburos) declarado en el «Procedimiento_Sistema_IRC.pdf» (exigido en apdo.2.2 Anexo IV). 2. No tengan la consideración de costes no localizables según apdo. 4.7.3 Anexo IV. 3. Se correspondan con la naturaleza del tipo de coste declarado en la fila (conforme definiciones apdo.3 Anexo IV). 4. Se hayan localizado en el CECO auxiliar o principal que les corresponda, atendiendo a las funciones definidas para. cada CECO y las reglas de localización para cada tipo de coste en el apdo. 4.7.4 Anexo IV. 5. Se encontrasen registrados en la cuenta contable indicada en la fila. Inspección registros contables. 6. Su valor monetario coincida con la información que figura en los registros contables o en su caso, estuviera conciliado. con dicha información y estuviera debidamente justificado con documentación soporte. En concreto, cuando correspondan al Tipo de coste CC-01, inspeccionar la documentación soporte de la compra realizada y su recepción (factura o contrato y albarán de entrada en almacén).por el importe declarado en F7-L1. 7. La clave o criterio de reparto utilizado para la localización del tipo de coste examinado al CECO sea medida razonable. del consumo cuantitativo que dicho CECO realiza respecto de dicho tipo de coste y coincida con el criterio declarado por el sujeto obligado en el «Procedimiento_Sistema_IRC.pdf. Cuando correspondan a los Tipos de coste CC-23, CC-25, CC-26 y CC-27, adicionalmente se deberá: a) Recalcular el importe del coste con los datos que figuran en los registros y cuando proceda, con los partes de tiempo del personal. b) Comprobar que el coste de los tiempos improductivos de la mano de obra (sub-actividad) y el coste del personal dedicado a actividades de investigación y desarrollo se hubieran localizado en CC-P7 (conforme apdo. 4.7.5.1 y apdo. 4.7.4.1.15 Anexo IV respectivamente). 8. Cuando tengan origen en una operación con parte vinculada, adicionalmente se deberá comprobar: a) Que los costes generados por la misma se hubieran declarado en filas separadas atendiendo a su naturaleza (tipo de coste), con independencia de que se hubieran registrado conjuntamente en una misma cuenta contable (p.e. Fees o cargos por recepción de servicios corporativos prestados por otra sociedad del grupo, cargo por gastos diversos incurridos por una parte vinculada por cuenta del sujeto obligado, etc.). Inspección documentación soporte de la transacción. b) Que estén identificados en la fila por el código asignado a la operación en el Bloque F9-DC7. c) Que el tipo de coste declarado sea coherente con el tipo de operación que se declara en F9-DC7. 9. Cuando correspondan a actividades de investigación y desarrollo se hayan localizado en el CECO CC-P3-000. 10. No se correspondan con estimaciones de costes futuros provisionados. |
 | A-F7-L2 | Población. | Unidades monetarias del conjunto de filas declaradas en el Bloque F7-L2. | P&D V&E T | Indagación. Inspección registros contables y documentación soporte. |
 | Tipo de revisión. | Examen 100%. |
 | Unidad de muestreo. | Unidades monetarias declaradas en cada fila. |
@@ -468,10 +478,6 @@ En la siguiente tabla se identifica para cada prueba con un código único, la p
 | Tipo de revisión. | Examen 100%. |
 | Unidad de muestreo. | Cada fila del Bloque F7-R1 para los indicadores IC-3 y IC-4. |
 | Comprobaciones. | Comprobar los valores declarados para estos indicadores en cada CECO a través de la inspección en los sistemas del número de pedidos realizados y su importe por el CECO principal de compras y aprovisionamiento al CECO auxiliar, teniendo en cuenta su equivalencia con los CECOS reales del sujeto obligado. |
-| A-F7-R1-5 | Población. | Valores declarados para el indicador IC-5 e IC-6 para cada CECO principal en el Bloque F7-R1. | P&D TI | Indagación. Inspección. Re-cálculo. |
-| Tipo de revisión. | Examen 100%. |
-| Unidad de examen. | Cada fila del Bloque F7-R1 para los indicadores IC-5 y IC-6. |
-| Comprobaciones. | Comprobar a través de los sistemas información el número de equipos TIC asignados a cada CECO del Sistema IRC y el número de incidencias TIC generadas por el CECO durante el ejercicio, teniendo en cuenta su equivalencia con los CECOS reales del sujeto obligado. |
 | A-F7-R2 | Población. | Valores declarados para los % de nivel de dedicación de los CECOS auxiliares a los CECOS de destino. | P&D T R | Indagación. Inspección. Re-cálculo. |
 | Tipo de revisión. | Examen 100%. |
 | Unidad de examen. | Cada fila del Bloque F7-R2. |
@@ -545,7 +551,7 @@ Se considerará que se produce un error en un elemento seleccionado cuando se pr
 | A-F9-DC10 | Tipo de inversiones en instrumentos financieros en F9-DC10. |  | Examen 100% Tipo de inversión. | Cotejar la información declarada en este Bloque con la información que figura a este respecto en las cuentas anuales del ejercicio y en sus en sus registros contables | T | Inspección. |
 | A-F9-DI1 | Valor del inmovilizado y amortización acumulada por actividades declarado en F9-DI1. | Examen 100%. | Filas de F9-DI1. | 1. Comprobar que la suma del valor bruto menos la suma de la amortización del inmovilizado por cada actividad regulada coincida con el valor neto por actividad regulada del epígrafe de Inmovilizado en el Balance de Situación separado por actividades. 2. Comprobar el que valor bruto total del inmovilizado y la amortización acumulada a cierre del ejercicio coincida con la información declarada en las cuentas anuales en las notas referidas al inmovilizado. 3. Inspeccionar el método de la empresa para asignar el coste del inmovilizado y la amortización acumulada por actividad. 4. Cotejar los criterios aplicados para el reparto del inmovilizado por actividad con los Criterios para el reparto de los activos por actividad declarados en el «Procedimiento_Sistema_IRC». | T P&D SC | Inspección. Re-cálculo. |
 | A-F9-DI2 | Movimiento del inmovilizado. | Examen 100%. | Filas del F9-DI2. | Verificar que coincide de forma agregada con el movimiento del inmovilizado declarado en la memoria de las cuentas anuales del ejercicio. Cotejar los datos declarados con los que figuran en sus registros contables (a nivel agrupado). Que el reparto efectuado para el inmovilizado por actividad sea coherente con el efectuado en el Bloque F9-DI1. | T | Inspección. |
-| A-F9-DI3 A-F9-DI4 | Activos CUAR declarados en F9-DI3. | Examen 100%. | CUAR (filas Bloque F9-DI3). | 1. Verificar la información declarada a través de los registros auxiliares del inmovilizado y sus registros contables. a) Revisión total para los CUAR puestos en servicio en el ejercicio y en curso (Población tipo II,V y VI) b) Revisión de los activos de la base de datos a 31.12.2014 que estuvieran en servicio el 31.12.2013 que hubieran sido seleccionados para las pruebas específicas de la base de datos de activos antiguos (Población Tipo I). 2. Comprobar que la suma del valor bruto contable a cierre del ejercicio para los activos regulados coincida con el valor bruto contable de los activos regulados declarados en los bloques F9-DI2 y F9-DI1. | V&E T P&D | Inspección registros contables. |
+| A-F9-DI3 A-F9-DI4 | Activos CUAR declarados en F9-DI3. | Examen 100%. | CUAR (filas Bloque F9-DI3). | Verificar la información declarada a través de los registros auxiliares del inmovilizado y sus registros contables. a) Revisión total para los CUAR puestos en servicio en el ejercicio y en curso (Población tipo II,V y VI) b) Revisión de los activos de la base de datos a 31.12.2014 que estuvieran en servicio el 31.12.2013 que hubieran sido seleccionados para las pruebas específicas de la base de datos de activos antiguos (Población Tipo I). | V&E T P&D | Inspección registros contables. |
 | A-F9-SI1 A-F9-SI4 | Subvenciones de capital pendientes de imputar a resultados declaradas en F9-S1. | Examen 100%. | Código operación y código CUAR. | Verificar la información declarada a través de la información que figura en sus registros contables y en documentación soporte. | T V&E | Inspección. |
 | A-F9-SI2 A-F9-SI3 A-F9-SI4 | Instalaciones cedidas y financiadas por terceros declaradas en F9-SI2 y SI-3. | Examen 100%. | Código operación. | Verificar la información declarada a través de la información que figura en sus registros contables y en documentación soporte. | T V&E | Inspección. |
 | A-F9-PC1 | Facturación anual recibida de proveedores declarados en F9-DC1. | Muestreo estadístico. | Código proveedor. | Solicitar un detalle de los proveedores clasificado por importe de las transacciones realizadas en el ejercicio y comprobar que dichos proveedores están declarados en el Bloque F9-PC1. Comprobar los datos declarados con los datos que figuran para una muestra de proveedores, a través de los registros contables de la empresa. | T | Inspección. |
@@ -587,7 +593,7 @@ j) Limitaciones de uso. El informe deberá indicar que ha sido preparado con el 
 
 k) Conclusión del auditor sobre la fiabilidad de que la información solicitada para el Sistema IRC, objeto de revisión en el ejercicio, haya sido elaborada conforme a los criterios establecidos en la Circular 1/2015 y sus anexos y no contenga errores significativos, emitida en términos de seguridad positiva. El auditor podrá expresar una conclusión favorable, con salvedades, adversa o denegada. El auditor deberá enumerar y cuantificar las salvedades identificadas en su informe y proporcionar determinada información adicional sobre las mismas en el anexo B al informe.
 
-l) Indicación que el trabajo realizado no tiene la naturaleza de auditoría de cuentas ni se encuentra sometido al Real Decreto Legislativo 1/2011 por el que se aprueba el texto refundido de la Ley de Auditoría de Cuentas, o norma que lo sustituya.
+l) Indicación de que el trabajo realizado no tiene la naturaleza de auditoría de cuentas ni se encuentra sometido a la Ley 22/2015, de 20 de julio, de Auditoría de Cuentas, o norma que lo sustituya.
 
 m) Identificación del auditor firmante. Nombre y firma del auditor responsable del informe y su dirección.
 
@@ -739,3 +745,5 @@ b) Constancia de la evidencia obtenida por el auditor, con indicación del medio
 9. Deber de conservación y custodia.
 
 El auditor deberá conservar y custodiar la documentación justificativa del trabajo realizado durante un periodo mínimo 5 años a contar desde la fecha de emisión del informe.
+
+> Se modifica por el art. único.7 y 8.2 y 3 de la Circular 3/2016, de 16 de noviembre. Ref. BOE-A-2016-11706

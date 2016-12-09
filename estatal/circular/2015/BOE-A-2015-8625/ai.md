@@ -23,39 +23,43 @@ Sector de aplicación: Eléctrico.
 
 Este Formulario contiene la base de datos de activos regulados y sus características técnicas a 31 de diciembre del ejercicio de declaración.
 
-1.1 Bloque F1-E1: Líneas eléctricas.
+1.1 Bloque F1-E1: Líneas eléctricas
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | CUAR. | Código Único de Activo Regulado. | C(33) | Coherencia del CUAR. |
-| Nombre. | Nombre de la Línea. | C(≤25) |  |
+| Nombre. | Nombre de la Línea. | C(≤255) |  |
 | Tipo. | Tipo de línea. 1. Aérea. 2. Subterránea. 3. Submarina. | NP(1,0) | Número de la lista. |
 | Corriente. | Tipo de corriente de la línea. 1. Alterna. 2. Continua. | NP(1,0) | Número de la lista. |
 | N.º circuitos. | Número de circuitos de la línea: 1. Simple. 2. Doble. 3. Triple. 4. Cuádruple. 5. Simple sobre apoyos de doble circuito. 6. Segundo circuito en línea con apoyos para doble circuito. | NP(1,0) | Número de la lista. |
-| N.º conductores. | Número de conductores de la línea: 1. Simplex. 2. Dúplex. 3. Triplex. 4. Otros. | NP(1,0) | Número de la lista. |
+| N.º conductores. | Número de conductores de la línea: 1. Simplex. 2. Dúplex. 3. Tríplex. 4. Otros. | NP(1,0) | Número de la lista. |
 | Tensión. | Tensión de la línea. 1. 400kV≤U. 2. 220kV≤U<400kV. 3. 132kV≤U<220kV. 4. 66kV≤U<132kV. 5. Otras. | NP(1,0) | Número de la lista. |
 | Sección. | Sección de la línea. 1. S≤50 mm2. 2. 50<S≤60 mm2. 3. 60<S≤100 mm2. 4. 100<S≤125 mm2. 5. 125<S≤150 mm2. 6. 150<S≤200 mm2. 7. 200<S≤300 mm2. 8. 300<S≤400 mm2. 9. 400<S≤500 mm2. 10. 500<S≤630 mm2. 11. 630<S≤800 mm2. 12. 800<S≤1100 mm2. 13. 1100<S≤1200 mm2. 14. 1200<S≤2000 mm2. 15. 2000<S≤2500 mm2. 16. 2500 mm2<S. | NP(2,0) | Número de la lista. |
 | Material. | Material de la línea. 1. Aluminio. 2. Cobre. 3. Otros materiales y aleaciones. | NP(1,0) | Número de la lista. |
 | Repotenciación. | Si es una repotenciación de una línea, Sí, en caso contrario No. | B |  |
 | CUAR repotenciación. | En caso de ser una repotenciación, CUAR de la línea repotenciada. En caso contrario, NA. | C(≤33) | Si es un CUAR, debe estar declarado en el mismo Bloque. |
 | Viento de diseño. | Viento máximo de diseño de la línea, en km/h. | NP(3,0) |  |
-| CUAR origen 1. | CUAR de origen de la línea. Debe ser el de otra Línea o de una Posición/Transformador/Máquina. | C(33) | El CUAR debe estar declarado en los Bloques F1-E1, F1-E2, F1-E3, o en el F1-E4. |
-| CUAR origen 2. | En el caso de una línea de doble circuito, CUAR de origen del mimo. Debe ser el de otra Línea o de una Posición/Transformador/Máquina. En caso contrario, NA. | C (≤33) | En el caso de CUARdebe estar declarado en los Bloques F1-E1, F1-E2, F1-E3, o en el F1-E4. |
-| CUAR fin 1. | CUAR de fin de la línea. Debe ser el de otra Línea o de una Posición/Transformador/Máquina. En el caso de conexión internacional indicar: PT: Portugal. FR: Francia. MR: Marruecos. AN: Andorra. | C(≤33) | El CUAR debe estar declarado en los Bloques F1-E1, F1-E2, F1-E3, o en el F1-E4. |
-| CUAR fin 2. | En el caso de una línea de doble circuito, CUAR fin del mismo. Debe ser el de otra Línea o de una Posición/Transformador/Máquina. En caso contrario, NA. En el caso de conexión internacional indicar: PT: Portugal. FR: Francia. MR: Marruecos. AN: Andorra. | C(≤33) | En el caso de CUAR debe estar declarado en los Bloques F1-E1, F1-E2, F1-E3, o en el F1-E4. |
+| CUAR origen 1. | CUAR de origen de la línea. Debe ser el de otra Línea o de una Posición/Transformador/Máquina. En el caso de tener como origen una subestación con configuración interruptor y medio, se declarará el CUAR de la posición no compartida. En el caso de que el CUAR origen de línea no pertenezca a la empresa indicar: NP: No perteneciente a la empresa. | C(33) | El CUAR debe estar declarado en los Bloques F1-E1, F1-E2, F1-E3, o en el F1-E4, o en los correspondientes Bloques del Formulario 11, solo en el caso de ser de la misma empresa. |
+| CUAR origen 2. | En el caso de una línea de dos circuitos o más, CUAR de origen del mismo. Debe ser el de otra Línea o de una Posición/Transformador/Máquina. En el caso de tener como origen una subestación con configuración interruptor y medio, se declarará el CUAR de la posición no compartida. En caso contrario, NA. En el caso de que el CUAR origen de línea no pertenezca a la empresa indicar: NP: No perteneciente a la empresa. | C (≤33) | En el caso de CUAR debe estar declarado en los Bloques F1-E1, F1-E2, F1-E3, o en el F1-E4, o en los correspondientes Bloques del Formulario 11, solo en el caso de ser de la misma empresa. |
+| CUAR origen 3. | CUAR de origen una línea de tres circuitos o más, CUAR de origen del mismo. Debe ser el de otra Línea o de una Posición/Transformador/Máquina. En el caso de tener como origen una subestación con configuración interruptor y medio, se declarará el CUAR de la posición no compartida. En caso contrario, NA. En el caso de que el CUAR origen de línea no pertenezca a la empresa indicar: NP: No perteneciente a la empresa. | C(33) | El CUAR debe estar declarado en los Bloques F1-E1, F1-E2, F1-E3, o en el F1-E4, o en los correspondientes Bloques del Formulario 11, solo en el caso de ser de la misma empresa. |
+| CUAR origen 4. | CUAR de origen una línea de cuatro circuitos, CUAR de origen del mismo. Debe ser el de otra Línea o de una Posición/Transformador/Máquina. En el caso de tener como origen una subestación con configuración interruptor y medio, se declarará el CUAR de la posición no compartida. En caso contrario, NA. En el caso de que el CUAR origen de línea no pertenezca a la empresa indicar: NP: No perteneciente a la empresa. | C (≤33) | En el caso de CUAR debe estar declarado en los Bloques F1-E1, F1-E2, F1-E3, o en el F1-E4, o en los correspondientes Bloques del Formulario 11, solo en el caso de ser de la misma empresa. |
+| CUAR fin 1. | CUAR de fin de la línea. Debe ser el de otra Línea o de una Posición/Transformador/Máquina En el caso de tener como fin una subestación con configuración interruptor y medio, se declarará el CUAR de la posición no compartida. En el caso de conexión internacional indicar: PT: Portugal. FR: Francia. MR: Marruecos. AN: Andorra. En el caso de que el CUAR fin de línea no pertenezca a la empresa indicar: NP: No perteneciente a la empresa. | C(≤33) | En el caso de declarar CUAR, el mismo debe estar declarado en los Bloques F1-E1, F1-E2, F1-E3, o en el F1-E4, o en los correspondientes Bloques del Formulario 11, solo en el caso de ser de la misma empresa. |
+| CUAR fin 2. | En el caso de una línea de dos circuitos o más, CUAR fin del mismo. Debe ser el de otra Línea o de una Posición/Transformador/Máquina. En el caso de tener como fin una subestación con configuración interruptor y medio, se declarará el CUAR de la posición no compartida. En caso contrario, NA. En el caso de conexión internacional indicar: PT: Portugal. FR: Francia. MR: Marruecos. AN: Andorra. En el caso de que el CUAR fin de línea no pertenezca a la empresa indicar: NP: No perteneciente a la empresa. | C(≤33) | En el caso de declarar CUAR, el mismo debe estar declarado en los Bloques F1-E1, F1-E2, F1-E3, o en el F1-E4, o en los correspondientes Bloques del Formulario 11, solo en el caso de ser de la misma empresa. |
+| CUAR fin 3. | En el caso de una línea de tres circuitos o más, CUAR fin del mismo. Debe ser el de otra Línea o de una Posición/Transformador/Máquina. En el caso de tener como fin una subestación con configuración interruptor y medio, se declarará el CUAR de la posición no compartida. En caso contrario, NA. En el caso de conexión internacional indicar: PT: Portugal. FR: Francia. MR: Marruecos. AN: Andorra. En el caso de que el CUAR fin de línea no pertenezca a la empresa indicar: NP: No perteneciente a la empresa. | C(≤33) | En el caso de declarar CUAR, el mismo debe estar declarado en los Bloques F1-E1, F1-E2, F1-E3, o en el F1-E4, o en los correspondientes Bloques del Formulario 11, solo en el caso de ser de la misma empresa. |
+| CUAR fin 4. | En el caso de una línea de cuatro circuitos, CUAR fin del mismo. Debe ser el de otra Línea o de una Posición/Transformador/Máquina. En el caso de tener como fin una subestación con configuración interruptor y medio, se declarará el CUAR de la posición no compartida. En caso contrario, NA. En el caso de conexión internacional indicar: PT: Portugal. FR: Francia. MR: Marruecos. AN: Andorra. En el caso de que el CUAR fin de línea no pertenezca a la empresa indicar: NP: No perteneciente a la empresa. | C(≤33) | En el caso de declarar CUAR, el mismo debe estar declarado en los Bloques F1-E1, F1-E2, F1-E3, o en el F1-E4, o en los correspondientes Bloques del Formulario 11 solo en el caso de ser de la misma empresa. |
 | Municipio origen. | Código INE del municipio de origen de la línea. | NP(5,0) | Valor válido de un municipio. |
 | Municipio fin. | Código INE del municipio de fin de la línea. | NP(5,0) | Valor válido de un municipio. |
 | Capacidad. | Capacidad de transporte, en MVA, de la línea. | NP(5,0) |  |
 | Longitud. | Longitud admitida de la línea, en metros. | NP(6,2) |  |
 | Centro mantenimiento. | Centro de mantenimiento desde el cual se realiza el mantenimiento de la línea. | C(9) | Valor declarado en el Bloque F1-E6. |
 
-1.2 Bloque F1-E2: Posiciones.
+1.2 Bloque F1-E2: Posiciones
 
 Descripción de los campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | CUAR. | Código Único de Activo Regulado. | C(33) | Coherencia CUAR. |
 | Denominación. | Nombre de la posición. | C(≤255) |  |
@@ -66,25 +70,28 @@ Descripción de los campos:
 | Intensidad. | Intensidad de la Posición. 1. 63kA. 2. 50 kA. 3. 40 kA. 4. 31,5 kA. | NP(1,0) | Número de la lista. |
 | Equipamiento. | Equipamiento de la Posición. 1. Posición equipada. 2. Posición de reserva sin equipar. 3. Equipamiento de posición de reserva. | NP(1,0) | Número de la lista. |
 | Centro mantenimiento. | Código del Centro de mantenimiento desde el que se mantiene la posición. En caso de posición móvil se declarará el centro de mantenimiento al que este asociada la posición al cierre del ejercicio. | C(9) | Valor declarado en el Bloque F1-E6. |
+| CUAR de reserva equipada. | En caso de ser un equipamiento de una posición de reserva, CUAR de la posición de reserva equipada. En caso contrario, NA. | C(33) | Valor declarado en el F1-E2. |
+| Código de Subestación. | Código de la subestación. | C(5) | Declarado en el F1-E10. |
 
-1.3 Bloque F1-E3: Transformadores.
+1.3 Bloque F1-E3: Transformadores
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | CUAR. | Código CUAR del activo regulado. | C(33) | Coherencia CUAR. |
 | Denominación. | Nombre del transformador. | C(≤255) |  |
-| Relación Transformación. | Relación de transformación. 1. 400/220 kV. 2. 400/220/132-110 kV. 3. 400/132-1 1 0 kV. 4. 220/132 kV. 5. 220/132/66 kV. 6. 220/66 kV. 7. 132/66 kV. 8. 66 kV/MT. | NP(1,0) | Número de la lista. |
+| Relación Transformación. | Relación de transformación. 1. 400/220 kV. 2. 400/220/132-110 kV. 3. 400/132-110 kV. 4. 220/132 kV. 5. 220/132/66 kV. 6. 220/66 kV. 7. 132/66 kV. 8. 66 kV/MT. | NP(1,0) | Número de la lista. |
 | Fases. | Número de fases del transformador. 1. Monofásico. 2. Trifásico. | NP(1,0) | Número de la lista. |
 | Potencia. | Indicar la potencia, en MVA, del transformador. | NP(5,0) |  |
 | Centro mantenimiento. | Código del Centro de mantenimiento desde el que se mantiene. En caso de transformador móvil se declarará el centro de mantenimiento al que este asociada la posición al cierre del ejercicio. | NP(3,0) | Valor declarado en el Bloque F1-E6. |
+| Código de Subestación. | Código de la subestación. En caso de transformador móvil se declarará NA. | C(5) | Declarado en el F1-E10. |
 
-1.4 Bloque F1-E4: Máquinas.
+1.4 Bloque F1-E4: Máquinas
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | CUAR. | Código CUAR del activo regulado. | C(33) | Coherencia CUAR. |
 | Denominación. | Nombre de la máquina. | C(≤255) |  |
@@ -92,16 +99,18 @@ Descripción de campos:
 | Tensión. | Tensión de la máquina. 1. 400 kV. 2. 220 kV. 3. 132 kV. 4. 66 kV. 5. Otras. | NP(1,0) | Número de la lista. |
 | Capacidad. | Capacidad de la máquina en MVA o MVAr. | NP(5,0) |  |
 | Centro mantenimiento. | Código del Centro de mantenimiento desde el que se mantiene. | C(9) | Valor declarado en el Bloque F1-E6. |
+| Código de Subestación. | Código de la subestación. En caso de no estar situado en una subestación se declarará NA. | C(5) | Declarado en el F1-E10. |
 
-1.5 Bloque F1-E5: Despachos.
+1.5 Bloque F1-E5: Despachos
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | CUAR. | Código CUAR del activo regulado. | C(33) | Coherencia CUAR. |
 | Denominación. | Descripción de la actuación que se realiza sobre el activo. | C(≤255) |  |
-| CUAR asociado. | Código CUAR del activo sobre el que se realiza la actuación. |  |  |
+| Año de actuación. | Ejercicio de puesta en servicio de la actuación. | NP(4,0) |  |
+| CUAR asociado. | Código CUAR del activo sobre el que se realiza la actuación. Para años anteriores al 2015 indicar NA. | C(33) | Declarado en el los Bloques F1-E1 a F1-E4. |
 
 1.6 Bloque F1-E6: Centros de mantenimiento.
 
@@ -143,92 +152,104 @@ Descripción de campos:
 | CUAR 1. | CUAR de la línea dividida. | C(33) | Contenido en F1-E1. |
 | CUAR 2. | CUAR de la línea de Entrada/Salida. En caso de que la línea dividida sea de múltiple circuito y que la entrada y salida se haga sobre un circuito, para el circuito en el que no se realiza la apertura indicar NA. | C(33) | Contenido en F1-E1. |
 
+1.10 Bloque F1-E10: Subestaciones
+
+Descripción de campos:
+
+| Campo | Descripción | Tipo Dato | Reglas de validación |
+| --- | --- | --- | --- |
+| Código Subestación. | Código de la subestación asignado según las instrucciones del Bloque 2 del CUAR. | C(5) |  |
+| Denominación. | Nombre de la Subestación. | C(≤255) |  |
+| Municipio. | Código INE del término municipal donde está ubicada la subestación. | NP(5,0) | Valor válido del término municipal de la lista del INE. |
+| ID Terreno. | Código del terreno sobre el que se asientan la subestación. | C(5) | Valor declarado en el Bloque F6-AR3. |
+
 2. Formulario 2: F2 Activos G.
 
 Sector de aplicación: Gas.
 
 Este Formulario contiene la base de datos de activos regulados con acta de puesta en servicio y sus características técnicas a 31 de diciembre del año de declaración.
 
-2.1 Bloque F2-GT1: Gasoductos.
+2.1 Bloque F2-GT1: Gasoductos
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | CUAR. | Código CUAR de la Obra Lineal de gasoducto. | C(33) | Coherencia CUAR. |
 | Descriptivo del CUAR. | Descriptivo de la instalación asociada al CUAR. | C(≤255) |  |
 | CUAR Modificada. | En caso de que el CUAR sea una modificación o actuación complementaria, indicar el CUAR de la instalación sobre la que se realiza. En caso contrario, NA. | C(≤33) | En el caso de declarar CUAR, debe estar declarado en el mismo Bloque F2-GT1. |
 | Centro de mantenimiento. | Código del centro de mantenimiento al que está asignada la instalación. | C(9) | Existencia en la Tabla 6. |
-| CUAR origen. | CUAR de la Posición inicial a la que la Obra Lineal del gasoducto está conectada. En el supuesto que el inicio se corresponda con un límite provincial, se indicará el CUAR de la Obra Lineal a la que se conecta. | C(33) | Existencia de CUAR en el Bloque F2-GT1 o F2-GT2. |
-| CUAR fin. | CUAR de la Posición final a la que la Obra Lineal del gasoducto está conectada. En el supuesto que el final se corresponda con un límite provincial, se indicará el CUAR de la Obra Lineal a la que se conecta. | C(33) | Existencia de CUAR en el Bloque F2-GT1 o F2-GT2. |
+| CUAR origen. | CUAR de la Posición inicial a la que la Obra Lineal del gasoducto está conectada. En el supuesto que el inicio se corresponda con: a) Un límite provincial, se indicará el CUAR de la Obra Lineal a la que se conecta. b) Una bifurcación mediante picaje, T u otra figura, se indicará el CUAR de la Obra Lineal a la que se conecta. c) Un almacenamiento subterráneo, se indicará el CUAR de las instalaciones terrestres de superficie correspondientes. d) Una planta de regasificación, se indicará el CUAR de la ERM o EM de regasificación correspondiente. | C(33) | Existencia de CUAR en el Bloque F2-GT1, F2-GT2, F2-AS1, o F2-R5, o en los correspondientes Bloques del Formulario 12, en caso de tratarse de un activo del que el sujeto es titular. |
+| CUAR fin. | CUAR de la Posición final a la que la Obra Lineal del gasoducto está conectada. En el supuesto que el final se corresponda con: a) Un límite provincial, se indicará el CUAR de la Obra Lineal a la que se conecta. b) Una bifurcación mediante picaje, T u otra figura, se indicará el CUAR de la Obra Lineal a la que se conecta. c) Una conexión internacional, se indicará: PT: Portugal. FR: Francia. MR: Marruecos. AN: Andorra. AR: Argelia. d) Un Punto de Suministro, se indicará CL. | C(33) | Existencia de CUAR en el Bloque F2-GT1 o F2-GT2, o en los correspondientes Bloques del Formulario 12, en caso de tratarse de un activo del que el sujeto es titular. |
 | Provincia. | Código INE de la provincia en la que se encuentra ubicada la Obra Lineal del CUAR. | NP(2,0) | Valor válido de la provincia de la lista del INE. |
 | Municipio origen. | Código INE del término municipal de la instalación inicial a la que la Obra Lineal del gasoducto está conectada. | NP(5,0) | Valor válido del término municipal de la lista del INE. |
 | Municipio fin. | Código INE del término municipal de la instalación final a la que la Obra Lineal del gasoducto está conectada. | NP(5,0) | Valor válido del término municipal de la lista del INE. |
 | Titular de Operación. | Operación del activo. 1. Activo operado por el titular. 2. Activo operado por un GRI. | NP(1,0) | Número de la lista. |
-| Tipo gasoducto. | Tipo de gasoducto: 1. Transporte primario troncal. 2. Transporte primario no troncal. 3. Transporte secundario. 4. Transporte gasoducto submarino. | NP(1,0) | Número de la lista. |
+| Tipo gasoducto. | Tipo de gasoducto: 1. Transporte primario troncal. 2. Transporte primario no troncal. 3. Transporte secundario. 4. Transporte gasoducto submarino. 5. Acometida de transporte primario. 6. Acometida de transporte secundario. | NP(1,0) | Número de la lista. |
 | Longitud. | Longitud real, en metros, del gasoducto. | NP(6,3) |  |
 | Presión. | Presión máxima autorizada en bar. | NP(3,3) |  |
 | Diámetro. | Diámetro del gasoducto. | C(6) | Contenido en la Tabla 62. |
 
-2.2 Bloque F2-GT2: Posiciones.
+2.2 Bloque F2-GT2: Posiciones
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | CUAR. | Código CUAR de la posición/modificación posición. | C(33) | Coherencia CUAR. |
 | Descriptivo del CUAR. | Descriptivo de la unidad constructiva asociada al CUAR. | C(≤255) |  |
 | Tipo. | Tipo de posición. En el caso de modificación indicar tipo tras la modificación. 1. Tipo S. 2. Tipo D. 3. Tipo T. | NP(1,0) | Número de la lista. |
 | Tipo de actuación. | Tipo de actuación. 1. Instalación simultánea junto con gasoducto. 2. Instalación en gasoducto existente. 3. Transformación de una Tipo S a Tipo D. 4. Transformación de una Tipo S a Tipo T. 5. Transformación de una Tipo D a Tipo T. 6. Nueva derivación en posición existente Tipo D. 7. Nueva derivación en posición existente Tipo T. | NP(1,0) | Número de la lista. |
 | CUAR Modificada. | Código CUAR a rellenar cuando es modificación, ampliación o transformación de un CUAR (posición) previo existente. En caso contrario, NA. | C(≤33) | En el caso de CUAR, declarado en el mismo Bloque. |
-| Diámetro. | Diámetro del gasoducto. | C(6) | Contenido en la Tabla 62. |
-| CUAR. Instalación Conectada. | Código CUAR de la unidad constructiva a la que está conectada: Se indicará el CUAR del gasoducto sobre el que está instalada. | C(33) | Declarado en el Bloque Gasoductos F2-GT1. |
-| Tipo gasoducto. | Tipo de gasoducto: 1. Transporte primario troncal. 2. Transporte primario no troncal. 3. Transporte secundario. 4. Transporte gasoducto submarino. | NP(1,0) | Número de la lista. |
+| Diámetro. | Diámetro del gasoducto sobre el que se construye la posición. | C(6) | Contenido en la Tabla 62. |
+| CUAR Instalación Conectada. | Código CUAR de la unidad constructiva a la que está conectada: se indicará el CUAR del gasoducto sobre el que se construye. | C(33) | Declarado en el Bloque F2-GT1 Gasoductos o en los correspondientes Bloques del Formulario 12. |
+| Tipo gasoducto. | Tipo de gasoducto: 1. Transporte primario troncal. 2. Transporte primario no troncal. 3. Transporte secundario. 4. Transporte gasoducto submarino. 5. Acometida de transporte primario. 6. Acometida de transporte secundario. | NP(1,0) | Número de la lista. |
 | Titular de la Operación. | Operación del activo. 1. Activo operado por el titular. 2. Activo operado por un GRI. | NP(1,0) | Número de la lista. |
 | Centro de mantenimiento. | Código del centro de mantenimiento al que está asignada la instalación. | C(9) | Existencia en la Tabla 6. |
+| Seguridad patrimonial. | Indicar si incorpora recinto vallado y dotado de sistemas de seguridad patrimonial: SI/NO. | B |  |
 
-2.3 Bloque F2-GT3: ERM/EM/ERP/ERC.
+2.3 Bloque F2-GT3: ERM/EM/ERP/ERC
 
 Descripción de campos:
 
-| Nombre código | Descripción | Tipo dato | Reglas de validación |
+| Nombre código | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | CUAR. | Código CUAR de la ERM/EM/ERP/ERC. | C(33) | Coherencia CUAR. |
 | Descriptivo del CUAR. | Descriptivo de la unidad constructiva asociada al CUAR. | C(≤255) |  |
 | Tipo. | Tipo de estación. 1. ERM. 2. EM. 3. ERC. 4. ERP. | NP(1,0) | Número de la lista. |
-| Tipo G. | Para ERM/EM se indicará el Tipo de G de la turbina de medición que se lista a continuación. En el caso de instalaciones con medición por ultrasonidos se corresponderá con el Tipo G de una ERM clásica equivalente. En el caso de modificación indicar tipo tras la modificación. | C(6) | Contenido en Tabla 63. |
-| Ultrasonidos. | Indicar si ultrasonidos: Sí/No. | B |  |
-| Tipo gasoducto. | Tipo de gasoducto: 1. Transporte primario troncal. 2. Transporte primario no troncal. 3. Transporte secundario. 4. Transporte gasoducto submarino. | NP(1,0) | Número de la lista. |
+| Tipo G. | Para ERM/EM se indicará el Tipo G de la turbina de medición. En el caso de instalaciones con medición por ultrasonidos se indicará el Tipo G de una ERM de turbina equivalente. En el caso de ampliación por línea adicional indicar el Tipo G de la línea adicional. En el caso de modificación/ampliación por sustitución de equipos, indicar tipo G final resultante. | C(6) | Contenido en Tabla 63. |
+| Ultrasonidos. | Indicar si tiene medición por ultrasonidos SI/NO. | B |  |
+| Tipo gasoducto. | Tipo de gasoducto: 1. Transporte primario troncal. 2. Transporte primario no troncal. 3. Transporte secundario. 4. Transporte gasoducto submarino. 5. Acometida de transporte primario. 6. Acometida de transporte secundario. | NP(1,0) | Número de la lista. |
 | Tipo de actuación. | Tipo de actuación. 1. Instalación simultánea junto con gasoducto. 2. Instalación en gasoducto existente. 3. Línea adicional. 4. Sustitución de equipos de medición existentes. | NP(1,0) | Número de la lista. |
-| Número de líneas en operación. | Indicar el número de líneas en operación que dispone la ERM. En caso de línea adicional y sustitución de equipos indicar la actuación. | NP(1,0) |  |
-| Número de líneas en reserva. | Indicar el número de líneas en reserva que dispone la ERM. En caso de línea adicional y sustitución de equipos indicar la actuación. | NP(1,0) |  |
+| Número de líneas en operación. | Indicar el número de líneas en operación que dispone la ERM. En caso de línea adicional se indicará «1», y en caso de sustitución de equipos se indicará el número de líneas implicadas en la actuación. | NP(1,0) |  |
+| Número de líneas en reserva. | Indicar el número de líneas en reserva que dispone la ERM. En caso de línea adicional se indicará «0», y en caso de sustitución de equipos se indicará el número de líneas implicadas en la actuación. | NP(1,0) |  |
 | CUAR Modificada. | Código CUAR a rellenar cuando es modificación, ampliación o transformación de un CUAR existente. En caso contrario, NA. | C(≤33) | Declarado en el mismo Bloque. |
-| CUAR Instalación Conectada. | Se indicará el CUAR de la Posición a la que está Conectada. | C(33) | Declarado en Bloque Posiciones F2-GT2. |
-| Sistema de calentamiento. | Indicar si incorpora sistema de calentamiento, con calderas situadas en otro recinto y cambiadores de calor sobre las líneas de regulación: SÍ/NO. | B |  |
-| Equipamiento telemático. | Indicar si incorpora equipamiento telemático: Sí/No. | B |  |
-| Edificio/Caseta. | Tipo de edificio /caseta. 1, edificio cerrado/caseta. 2, intemperie / techo de protección. 3. Armario. | NP(1,0) | Número de la lista. |
-| Seguridad patrimonial. | Indicar si incorpora recinto vallado y dotado, en su caso, de sistemas de seguridad patrimonial (aplicable sólo a casetas y posiciones de válvulas): Sí/No. | B |  |
+| CUAR Instalación Conectada. | Se indicará el CUAR de la Posición aguas arriba a la que está Conectada. En el caso de estar conectada aguas arriba directamente con la Obra Lineal de un gasoducto, se indicará el CUAR de ésta. | C(33) | Declarado en Bloque Posiciones F2-GT2 o F2-GT1, en caso de tratarse de un activo del que el sujeto es titular, o en los correspondientes Bloques del Formulario 12. |
+| Sistema de calentamiento. | Indicar si incorpora sistema de calentamiento, con calderas situadas en otro recinto y cambiadores de calor sobre las líneas de regulación: SI/NO. | B |  |
+| Equipamiento telemático. | Indicar si incorpora equipamiento telemático: SI/NO. | B |  |
+| Edificio/Caseta. | Tipo de edificio /caseta. 1. Edificio cerrado/caseta. 2. Intemperie / techo de protección. 3. Armario. 4. Enterrada. | NP(1,0) | Número de la lista. |
+| Seguridad patrimonial. | Indicar si incorpora recinto vallado y dotado de sistemas de seguridad patrimonial: SI/NO. | B |  |
 | Presión aguas arriba. | Presión autorizada del gasoducto aguas arriba de la Estación, en bar. | NP(3,3) |  |
 | Presión aguas abajo. | Presión autorizada del gasoducto aguas abajo de la Estación, en bar. | NP(3,3) |  |
 | Titular de la operación. | Operación del activo. 1. Activo operado por el titular. 2. Activo operado por un GRI. | NP(1,0) | Número de la lista. |
 | Centro de mantenimiento. | Código del centro de mantenimiento al que está asignada la instalación. | C(9) | Existencia en la Tabla 6. |
 
-2.4 Bloque F2-GT4: Estaciones de Compresión.
+2.4 Bloque F2-GT4: Estaciones de Compresión
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | CUAR. | Código CUAR de la unidad constructiva. | C(33) | Coherencia CUAR. |
 | Descriptivo del CUAR. | Descriptivo de la unidad constructiva asociada al CUAR. | C(≤255) |  |
 | Tipo. | Tipo de EC: 1. Tubocompresores de gas. 2. Motores eléctricos. | NP(1,0) |  |
 | CUAR Modificada. | Código CUAR a rellenar cuando es modificación, ampliación o transformación de un CUAR existente. En caso contrario, NA. | C(≤33) | Declarado en el mismo Bloque. |
-| Tipo de actuación. | Tipo de actuación. 1 Instalación adicional. 2 Sustitución/modificación de instalaciones existentes. | NP(1,0) | Número de la lista. |
+| Tipo de actuación. | Tipo de actuación. 1 Instalación nueva o adicional. 2 Modificación de instalaciones existentes. 3 Sustitución de instalaciones existentes. | NP(1,0) | Número de la lista. |
 | Titular de la Operación. | Operación del activo. 1. Activo operado por el titular. 2. Activo operado por un GRI. | NP(1,0) | Número de la lista. |
-| Número Turbo Compresores/motores eléctricos en Operación. | Número de turbocompresores para operación. Indicar sobre los que se realiza la actuación. | NP(1,0) |  |
-| Potencia En Operación. | Potencia total de los turbocompresores para operación, en kW. Indicar instalada en la actuación. | NP(9,0) |  |
-| Número Turbo Compresores en Reserva. | Número de turbocompresores para reserva Indicar sobre los que se realiza la actuación. | NP(1,0) |  |
-| Potencia en Reserva. | Potencia total de los turbocompresores para reserva, en kW. Indicar la instalada en la actuación. | NP(9,0) |  |
+| Número Turbo Compresores/m otores eléctricos en Operación. | En instalaciones nuevas o adicionales, número de turbocompresores/motores para operación. En caso de sustitución/modificación se indicará el número de turbocompresores/motores sobre los que se realiza la actuación. | NP(1,0) |  |
+| Potencia en Operación. | En instalaciones nuevas o adicionales, potencia total de los turbocompresores/motores para operación, en kW. En caso de modificación de instalaciones existentes se indicará la potencia incremental, en kW, instalada en la actuación. En caso de sustituciones de instalaciones existentes se indicará la potencia final, en kW, instalada en la actuación. | NP(9,0) |  |
+| Número Turbo Compresores en Reserva. | En instalaciones nuevas o adicionales, número de turbocompresores/motores para reserva. En caso de sustitución/modificación se indicará el número de turbocompresores/motores sobre los que se realiza la actuación. | NP(1,0) |  |
+| Potencia en Reserva. | En instalaciones nuevas o adicionales, potencia total de los turbocompresores/motores para reserva, en kW. En caso de modificación de instalaciones existentes se Indicará la potencia incremental, en kW, instalada en la actuación. En caso de sustituciones de instalaciones existentes se Indicará la potencia final, en kW, instalada en la actuación. | NP(9,0) |  |
 | Centro de mantenimiento. | Código del centro de mantenimiento al que está asignada la instalación. | C(9) | Existencia en la Tabla 6. |
 
 2.5 Bloque F2-GT5: Centros de Mantenimiento o CMOCS.
@@ -247,17 +268,17 @@ Descripción de campos:
 | N.º Referencia Catastral de la Finca. | Se indicará el N.º Referencia Catastral de la finca donde se ubique. En caso de ubicarse sobre varias fincas, se indicará el N.º Referencia de Catastral de la finca con mayor superficie. www.catastro.meh.es/esp/referencia_catastral_1.asp. | C(20) |  |
 | Código Centro de Mantenimiento. | Código del CECOS Principal al que corresponde el centro de mantenimiento. | C(9) | Existencia en la Tabla 6. |
 
-2.6 Bloque F2-GT6: Gas de llenado.
+2.6 Bloque F2-GT6: Gas de llenado
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | CUAR. | Código CUAR del activo regulado. | C(33) | Coherencia CUAR. |
 | Descriptivo del CUAR. | Descriptivo de la instalación asociado al CUAR. | C(≤255) |  |
-| CUAR asociado. | CUAR del activo asociado al que se destina el gas de llenado. | C(33) | CUAR declarado en el Bloque F2-GT1. |
+| CUAR asociado. | CUAR del activo asociado al que se destina el gas de llenado. | C(33) | CUAR declarado en el Bloque F2-GT1, o el en correspondiente Bloque del Formulario 12. |
 | Cantidad de Gas. | Cantidad de Gas adquirida en kWh. | NP(9,0) |  |
-| Precio de Adquisición. | Precio de Adquisición (€/MWh). | NP(6,2) |  |
+| Precio de Adquisición. | Precio de Adquisición (€/MWh). | NP(6,5) |  |
 
 2.7 Bloque F2-GT7: Otras instalaciones o servicios de transporte.
 
@@ -330,26 +351,26 @@ Descripción de campos:
 | Estado operativo de la unidad. | Indicar si la unidad está en: 1. Operación. 2. Reserva. | NP(1,0) | Número de la lista. |
 | Centro de mantenimiento. | Código del centro de mantenimiento al que está asignada la instalación. | C(9) | Existencia en la Tabla 6. |
 
-2.12 Bloque F2-R5: Sistema de medida y odorización (ERM/EM).
+2.12 Bloque F2-R5: Sistema de medida y odorización (ERM/EM)
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | CUAR. | Código CUAR de la Unidad Constructiva. | C(33) | Coherencia CUAR. |
 | Descriptivo del CUAR. | Nombre de la Unidad Constructiva. | C(≤255) |  |
 | CUAR unidad constructiva Modificada. | Código CUAR a rellenar cuando es modificación, ampliación o transformación de un CUAR existente. En caso contrario, NA. | C(≤33) | En el caso de CUAR, declarado en el mismo Bloque. |
-| Tipo de actuación. | Tipo de actuación. 1. Instalación simultánea junto con gasoducto. 2. Instalación en gasoducto existente. 3. Línea adicional. 4. Sustitución de equipos de medición existente. | NP(1,0) | Número de la lista. |
-| CUAR de la Instalación Vinculada con Retribución Reconocida. | Para instalaciones PEM antes de 2012, Código CUAR de la unidad constructiva asociada a esta unidad que tiene Retribución Reconocida individualizada y que fue PEM de forma coetánea/simultánea (Tanque GNL, Vaporizador, Cargadero GNL, Atraque). Cuando se trate de la propia instalación con retribución reconocida, se indicará su CUAR. En caso contrario, NA. | C(≤33) | En el caso de CUAR, declarado en Bloques F2- Rx. |
+| Tipo de actuación. | Tipo de actuación. 1. Instalación simultánea junto con Planta de Regasificación. 2. Instalación en Planta de Regasificación existente. 3. Línea adicional. 4. Sustitución de equipos de medición existente. | NP(1,0) | Número de la lista. |
+| CUAR de la Instalación Vinculada con Retribución Reconocida. | Para instalaciones PEM antes de 2012, Código CUAR de la unidad constructiva asociada a esta unidad que tiene Retribución Reconocida individualizada y que fue PEM de forma coetánea/simultanea (Tanque GNL, Vaporizador, Cargadero GNL, Atraque). Cuando se trate de la propia instalación con retribución reconocida, se indicará su CUAR. Para instalaciones PEM desde 2012, indicar NA. | C(≤33) | En el caso de CUAR, declarado en Bloques F2-Rx. |
 | Estado operativo de la unidad. | Indicar si la unidad está en: 1. Operación. 2. Reserva. | NP(1,0) | Número de la lista. |
-| Ultrasonido. | Indicar si tiene medición por ultrasonidos: Sí/No. | B |  |
-| Tipo G líneas. | Para cada línea de medición se indicará el Tipo de G de la turbina de medición que se lista a continuación. En el caso de instalaciones con medición por ultrasonidos se corresponderá con el Tipo G de una línea clásica equivalente. | C(6) | Contenido en Tabla 63. |
-| Número de líneas en operación. | Indicar el número de líneas en operación que dispone la ERM. En caso de línea adicional y sustitución de equipos indicar la actuación. | NP(1,0) |  |
-| Número de líneas en reserva. | Indicar el número de líneas en reserva que dispone la ERM. En caso de línea adicional y sustitución de equipos indicar la actuación. | NP(1,0) |  |
-| Sistema de calentamiento. | Indicar si incorpora sistema de calentamiento, con calderas situadas en otro recinto y cambiadores de calor sobre las líneas de regulación: Sí/No. | B |  |
-| Equipamiento telemático. | Indicar si incorpora equipamiento telemático: Sí/No. | B |  |
-| Edificio/Caseta. | Tipo de edificio /caseta. 1, edificio cerrado/caseta. 2, intemperie /techo de protección Armario. | NP(1,0) | Número de la lista. |
-| Seguridad patrimonial. | Indicar si incorpora recinto vallado y dotado, en su caso, de sistemas de seguridad patrimonial (aplicable sólo a casetas y posiciones de válvulas): Sí/No. | B |  |
+| Ultrasonido. | Indicar si tiene medición por ultrasonidos: SI/NO. | B |  |
+| Tipo G líneas. | Para cada ERM/EM se indicará el Tipo de G de la turbina de medición. En el caso de instalaciones con medición por ultrasonidos se indicará el Tipo G de una línea clásica equivalente. En el caso de ampliación por línea adicional se indicará el Tipo de G de la línea adicional. En el caso de modificación/ampliación por sustitución de equipos, se indicará el Tipo de G final resultante. | C(6) | Contenido en Tabla 63. |
+| Número de líneas en operación. | Indicar el número de líneas en operación que dispone la ERM. En caso de línea adicional se indicará «1», y en caso de sustitución de equipos se indicará el número de líneas implicadas en la actuación. | NP(1,0) |  |
+| Número de líneas en reserva. | Indicar el número de líneas en reserva que dispone la ERM. En caso de línea adicional se indicará «0», y en caso de sustitución de equipos se indicará el número de líneas implicadas en la actuación. | NP(1,0) |  |
+| Sistema de calentamiento. | Indicar si incorpora sistema de calentamiento, con calderas situadas en otro recinto y cambiadores de calor sobre las líneas de regulación: SI/NO. | B |  |
+| Equipamiento telemático. | Indicar si incorpora equipamiento telemático: SI/NO. | B |  |
+| Edificio/Caseta. | Tipo de edificio /caseta. 1. Edificio cerrado/caseta. 2. Intemperie / techo de protección. 3. Armario. 4. Enterrada. | NP(1,0) | Número de la lista. |
+| Seguridad patrimonial. | Indicar si incorpora recinto vallado y dotado de sistemas de seguridad patrimonial independiente de la Planta: SI/NO. | B |  |
 | Presión aguas arriba. | Presión aguas arriba de la Estación, en bar. | NP(3,3) |  |
 | Presión aguas abajo. | Presión autorizada del gasoducto aguas abajo de la Estación, en bar. | NP(3,3) |  |
 | Centro de mantenimiento. | Código del centro de mantenimiento al que está asignada la instalación. | C(9) | Existencia en la Tabla 6. |
@@ -649,17 +670,17 @@ Descripción de campos:
 | CUAR de la Instalación Vinculada con Retribución Reconocida. | Para instalaciones PEM antes de 2013, Código CUAR de la unidad constructiva asociada a esta unidad que tiene Retribución Reconocida individualizada y que fue PEM de forma coetánea/simultánea. Cuando se trate de la propia instalación con retribución reconocida, se indicará su CUAR. En caso contrario, NA. | C(≤33) | En el caso de CUAR, declarado en Bloques F2 -ASx. |
 | Autorización administrativa permiso investigación /exploración. | Identificación del permiso (Fecha de BOE, y número BOE de la disposición). | C(≤255) |  |
 
-2.33 Bloque F2-AS5: Gas Colchón.
+2.33 Bloque F2-AS5: Gas colchón
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
-| CUAR. | Código CUAR del activo regulado. | C(33). | Coherencia CUAR. |
-| Descriptivo del CUAR. | Descriptivo de la instalación asociado al CUAR. | C(≤255). |  |
-| CUAR asociado. | CUAR del activo asociado al que se destina el gas. | C(33). | CUAR declarado en el Bloque F2-AS3. |
-| Cantidad de Gas. | Cantidad de Gas adquirida en kWh. | NP(9,0). |  |
-| Precio de Adquisición. | Precio de Adquisición (€/MWh). | NP(6,2). |  |
+| CUAR. | Código CUAR del activo regulado. | C(33) | Coherencia CUAR. |
+| Descriptivo del CUAR. | Descriptivo de la instalación asociado al CUAR. | C(≤255) |  |
+| CUAR asociado. | CUAR del activo asociado al que se destina el gas. | C(33) | CUAR declarado en el Bloque F2-AS3. |
+| Cantidad de Gas. | Cantidad de Gas adquirida en kWh. | NP(11,0) |  |
+| Precio de Adquisición. | Precio de Adquisición (€/MWh). | NP(6,5) |  |
 
 2.34 Bloque F2-G1: Correspondencia SIDRA.
 
@@ -744,21 +765,21 @@ Sector de aplicación: Electricidad y gas.
 
 Este Formulario contiene información relativa a los activos regulados puestos en servicio y con acta de cierre o desmantelamiento.
 
-5.1 Bloque F5-G1: Datos Generales.
+5.1 Bloque F5-G1: Datos Generales
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | CUAR. | Código CUAR del activo regulado. | C(33) | Se deben declarar todos los CUAR declarados en los Formularios 1 para electricidad (salvo Y y Z), 2 para gas y 4 para el OS/GTS. |
 | Singular. | Indicar si la instalación es singular o no: SI/ NO. | B |  |
-| Fecha de Puesta en marcha/ cierre/desmantelamiento /Ejecución. | En el caso de Instalaciones con Acta de puesta en servicio/cierre o desmantelamiento, fecha del Acta correspondiente. En el caso de Inversiones en investigación y exploración, fecha de presentación de la solicitud. En el caso de gas mínimo de llenado, gas talón o gas colchón indicar la fecha de registro contable de la compra. Para los activos del OS/GTS, y resto de activos de los que no se disponga de acta poner fecha de registro contable. | F |  |
-| Valor reconocido. | Valor reconocido, en €, a efectos de retribución, si aplica. En el caso de activos regulados que no tienen un valor retributivo reconocido, reflejar 0 (cero). | NP(10,0) |  |
+| Fecha de Puesta en marcha/cierre/desmantelamiento. | En el caso de Instalaciones con Acta de puesta en servicio/cierre o desmantelamiento, fecha del Acta correspondiente. En el caso de líneas eléctricas puestas en servicio con anterioridad al 2016, indicar la fecha de puesta en servicio del tramo más representativo. En el caso de Inversiones en investigación y exploración de AASS, fecha de devengo de derechos retributivos. En el caso de gas mínimo de llenado, gas talón o gas colchón indicar la fecha de registro contable de la compra, salvo cuando haya una fecha de inicio de devengo de derechos retributivos reconocida por el modelo retributivo diferente, en cuyo caso la fecha a declarar será esta última. Para los activos del OS/GTS poner fecha de registro contable. Para el resto de activos de los que no se disponga de acta poner fecha de registro contable en el caso de ser una inversión realizada directamente por el titular. En caso contrario, indicar como fecha el 1 de julio del año de puesta en servicio de la instalación o en su defecto, la fecha utilizada en la retribución del activo. | F |  |
+| Valor reconocido. | Valor de inversión reconocido, en €, a efectos de retribución, según aplique (provisional, a cuenta o definitivo). En el caso de activos pendientes de reconocer el valor de su inversión para determinar su retribución provisional, a cuenta o definitiva, indicar NA. Cuando el valor de inversión a declarar esté comprendido en el importe inversión reconocido para un conjunto de activos, se procederá según indica el Anexo IV de esta Circular. En aquellos casos que no pueda aplicarse lo recogido en el Anexo IV, o en el caso de activos que no tienen un valor de inversión reconocido por el modelo retributivo, reflejar 0 (cero). | NP(10,0) |  |
 | Vida útil regulatoria. | Vida útil regulatoria, en años, reconocida del activo regulado. En el caso de no tener una vida útil regulatoria definida, reflejar 0 (cero). | NP(2,0) |  |
-| Valor declarado. | Valor bruto declarado de la inversión, en €, declarado en la auditoría, sin descontar posibles subvenciones o instalaciones cedidas y financiadas por terceros. En el caso de no tener un valor declarado, reflejar 0 (cero). | NP(10,0) |  |
+| Valor declarado. | Valor bruto declarado de la inversión, en €, en la auditoría utilizada en el procedimiento de inclusión en el régimen retributivo o, en su caso, valor considerado en el proceso de inclusión, sin descontar posibles subvenciones o instalaciones cedidas y financiadas por terceros. Cuando el valor de inversión a declarar esté comprendido en el importe inversión declarado para un conjunto de activos, se procederá según indica el Anexo IV de esta Circular. En el caso de no tener un valor declarado, reflejar 0 (cero). | NP(10,0) |  |
 | Subvenciones. | Importe total, en €, de las subvenciones declaradas en la auditoría de inversión asociadas al activo regulado, si aplica. En el caso de no existir subvenciones o no tener auditoría de inversión, reflejar 0 (cero). | NP(10,0) |  |
 | Instalaciones cedidas. | Importe, en €, de las instalaciones cedidas y financiadas por terceros declaradas en la auditoría de inversión asociadas al activo regulado. | NP(10,0) |  |
-| Forma incorporación al Inmovilizado. | Indicar si es: 1. Inversión realizada directamente por el titular. 2. Adquisición mediante compra a un tercero. 3. Adquisición a título gratuito (Cesión y financiación por terceros). 4. Activo no Incorporado al inmovilizado (imputado en la Cuenta de Resultados). 5. Combinación de negocios. 6. Aportación de capital no dineraria. | NP(1,0) | Número de la lista. |
+| Forma incorporación al Inmovilizado. | Indicar si es: 1. Inversión realizada directamente por el titular. 2. Adquisición mediante compra a un tercero. 3. Adquisición a título gratuito (Cesión y financiación por terceros). 4. Activo no Incorporado al inmovilizado (imputado en la Cuenta de Resultados). 5. Combinación de negocios. 6. Aportación de capital no dineraria. 7. Asignación de la administración del activo mediante Real Decreto-ley. | NP(1,0) | Número de la lista. |
 
 5.2 Bloque F5-G2: Compra-Venta de Activos Regulados.
 
@@ -791,38 +812,41 @@ Sector de aplicación: Electricidad y gas.
 
 En este Formulario se identifican las coordenadas de los activos regulados.
 
-6.1 Bloque F6-AR1: Coordenadas de los Activos Punto.
+6.1 Bloque F6-AR1: Coordenadas de los Activos Punto
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
-| CUAR. | Código CUAR del activo regulado. | C(33) | Declarado en el Formulario 1 para electricidad, 2 para gas y Bloque F4-A1 para el OS. Coherencia de activos Punto. |
-| X. | Coordenada X de la localización del activo. | NP(10,2) |  |
-| Y. | Coordenada Y de la localización del activo. | NP(10,2) |  |
-| Z. | Coordenada Z de la localización del activo. | NP(10,2) |  |
+| CUAR. | Código CUAR del activo regulado. | C(33) | Declarado en el Formulario 1 para electricidad, 2 para gas y Bloque F4-A1 para el OS/GTS. Coherencia de activos. Punto. |
+| X | Coordenada X de la localización del activo. | NP(10,2) |  |
+| Y | Coordenada Y de la localización del activo. | NP(10,2) |  |
+| Z | Coordenada Z de la localización del activo. | NP(10,2) |  |
+| Huso UTM. | Huso 30 para los datos referidos a la Península, 28 para Canarias y 31 para Baleares. | NP(2,0) |  |
 
-6.2 Bloque F6-AR2: Coordenadas de los Activos Tramo.
+6.2 Bloque F6-AR2: Coordenadas de los Activos Tramo
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
-| CUAR. | Código CUAR del activo regulado. | C(33) | Declarado en los Formularios 1 para electricidad en estado declarado S o Y, y en el Formulario 2 para gas. Coherencia de activos Tramo. |
-| X. | Coordenada X de la localización del activo. | NP(10,2) |  |
-| Y. | Coordenada Y de la localización del activo. | NP(10,2) |  |
-| Z. | Coordenada Z de la localización del activo. | NP(10,2) |  |
+| CUAR. | Código CUAR del activo regulado. | C(33) | Declarado en los Formularios 1 para electricidad en estado declarado S o Y, y en el Formulario 2 para gas. Coherencia de activos. Tramo. |
+| X | Coordenada X de la localización del activo. | NP(10,2) |  |
+| Y | Coordenada Y de la localización del activo. | NP(10,2) |  |
+| Z | Coordenada Z de la localización del activo. | NP(10,2) |  |
+| Huso UTM. | Huso 30 para los datos referidos a la Península, 28 para Canarias y 31 para Baleares. | NP(2,0) |  |
 
-6.3 Bloque F6-AR3: Coordenadas de los Terrenos.
+6.3 Bloque F6-AR3: Coordenadas de los Terrenos
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | ID Terreno. | Código del terreno sobre la que se asientan los activos regulados. Se construirá como un secuencial de hasta cinco (5) dígitos empezando por el 00001. | C(5) | La identificación de los terreno se mantendrá de un ejercicio al siguiente y se utilizarán códigos nuevos para nuevos terrenos. |
-| X. | Coordenada X de la localización del vértice del terreno. | NP(10,2) |  |
-| Y. | Coordenada Y de la localización del vértice del terreno. | NP(10,2) |  |
-| Z. | Coordenada Z de la localización del vértice del terreno. | NP(10,2) |  |
+| X | Coordenada X de la localización del vértice del terreno. | NP(10,2) |  |
+| Y | Coordenada Y de la localización del vértice del terreno. | NP(10,2) |  |
+| Z | Coordenada Z de la localización del vértice del terreno. | NP(10,2) |  |
+| Huso UTM. | Huso 30 para los datos referidos a la Península, 28 para Canarias y 31 para Baleares. | NP(2,0) |  |
 
 6.4 Bloque F6-AR4: Correlación Activos-Terreno.
 
@@ -843,12 +867,12 @@ En este formulario el sujeto obligado debe declarar la localización de los cost
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
-| Código Actividad. | Código de la actividad a la que está asociado el coste. | C(≤7) | Contenido en las Tabla 1 para Electricidad y Tabla 2 para Gas. |
+| Código Actividad. | Código de la actividad a la que está asociado el coste. | C(7) | Contenido en las Tabla 1 para Electricidad y Tabla 2 para Gas. |
 | Código CECOS. | Código del CECOS en el que se localiza el coste. | C(≤9) | Contenido en las Tablas 3 a 6. Para los Centros de Mantenimiento de electricidad declarados en el Bloque F1-E6. |
-| Importe. | Importe del coste localizado, en €. | N(10,0) | Todos los importes localizados por Cuenta de BSS y Tipo de coste en los Bloques F7-L1, F7-L3 y F7-L5 no pueden superar el saldo de dicha cuenta (Bloque F9-DC1) y tipo (Bloque F9-DC4). |
-| Cuenta BSS. | Número de cuenta a 10 dígitos del BSS donde está contabilizado el coste. | NP(10,0) | Contenida en campo «Cuenta BSS» del Bloque F9-DC1. |
+| Importe. | Importe del coste localizado, en €. | N(10,2) | Todos los importes localizados por Cuenta de BSS y Tipo de coste en los Bloques F7-L1, F7-L3 y F7-L5 no pueden superar el saldo de dicha cuenta (Bloque F9-DC1) y tipo (Bloque F9-DC4). |
+| Cuenta BSS. | Número de cuenta a 10 dígitos del BSS donde está contabilizado el coste. | C(10) | Contenida en campo «Cuenta BSS» del Bloque F9-DC1. |
 | Tipo Coste. | Código del tipo de coste localizado. | C(5) | Contenido en la Tabla 9. |
 | Código Operación. | En el caso de provenir el coste de una operación con partes vinculadas, indicar el código de la operación. En caso contrario COD-OP-0. | C(8) | En caso de operación, contenido en el Bloque F9-DC7. |
 
@@ -925,15 +949,13 @@ Descripción de campos:
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | Cod CECOS. | Código del CECOS principal del que se declaran los parámetros. | C(≤9) | Contenido en las Tablas 4 a 6. Para los Centros de Mantenimiento de electricidad declarados en el Bloque F1-E6. |
-| IC-1. | Número medio de personas del CECOS durante el ejercicio. | NP(8,0) |  |
-| IC-2. | Número de personas equivalentes del CECOS durante el ejercicio. | NP(8,0) |  |
-| IC-3. | Número de pedidos generados por el CECOS Principal al CECOS auxiliar de Compras y Aprovisionamientos durante el ejercicio. | NP(8,0) |  |
-| IC-4. | Importe total de pedidos generados por el CECOS Principal al CECOS auxiliar de Compras y Aprovisionamientos durante el ejercicio durante el ejercicio. | NP(8,0) |  |
-| IC-5. | Número de equipos TIC corporativos asignados al CECOS. | NP(8,0) |  |
-| IC-6. | Número de incidencias TIC generadas por el CECOS durante el ejercicio. | NP(8,0) |  |
+| IC-1 | Número medio de personas del CECOS durante el ejercicio. | NP(8,1) |  |
+| IC-2 | Número de personas equivalentes del CECOS durante el ejercicio. | NP(8,1) |  |
+| IC-3 | Número de pedidos generados por el CECOS Principal al CECOS auxiliar de Compras y Aprovisionamientos durante el ejercicio. | NP(8,0) |  |
+| IC-4 | Importe total de pedidos generados por el CECOS Principal al CECOS auxiliar de Compras y Aprovisionamientos durante el ejercicio durante el ejercicio. | NP(8,2) |  |
 
 7.8 Bloque F7-R2: Reparto primario. Modo de Referencia. Dedicación CECOS Asesoría jurídica y Regulación.
 
@@ -985,11 +1007,9 @@ Descripción de campos:
 
 7.12 Bloque F7-R6: Contratos ATR.
 
-Descripción de campos:
-
-| Campo | Declarados en los bloques correspondientes | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
-| Código Actividad. | Declarados en los Bloques correspondientes. | C(5) | Contenido en las Tablas 1 (electricidad) o 2 (gas). |
+| Código Actividad. | Declarados en los Bloques correspondientes. | C(7) | Contenido en las Tablas 1 (electricidad) o 2 (gas). |
 | N.º contratos. | Número de contratos celebrados durante el año. | NP(4,0) |  |
 
 7.13 Bloque F7-R7: Reparto secundario a OFC Inversión. Modo Separación de Actividades.
@@ -1056,18 +1076,18 @@ Sector de aplicación: Electricidad y Gas Natural.
 
 En este formulario el sujeto obligado deberá aportar información económico-financiera general de la empresa que permita comprobar las asignaciones anteriores así como la traza de otra información enviada a la CNMC.
 
-9.1 Bloque F9-DC1: Balance de sumas y saldos.
+9.1 Bloque F9-DC1: Balance de sumas y saldos
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
-| Cuenta BSS. | Número de cuenta contable, de 10 dígitos, del balance de sumas y saldos de la empresa. | NP(10,0) |  |
+| Cuenta BSS. | Número de cuenta contable, de 10 dígitos, del balance de sumas y saldos de la empresa. | C(10) |  |
 | Nombre. | Nombre de la cuenta contable en la contabilidad de la empresa. | C(≤255) |  |
-| Saldo Inicial. | Saldo, en €, al inicio del ejercicio de la cuenta contable Los saldos deudores con signo positivo, y los acreedores con negativo. | N(10,0) | La columna debe sumar cero. |
-| Debe. | Importe total, en €, de las anotaciones al Debe de la cuenta contable durante el ejercicio. Los incrementos de los saldos deudores en signo positivo. | N(10,0) |  |
-| Haber. | Importe total, en €, de las anotaciones al Haber de la cuenta contable durante el ejercicio. Los incrementos en los saldos acreedores serán negativos. | N(10,0) |  |
-| Saldo final. | Saldo, en €, al final del ejercicio de la cuenta contable. Los saldos deudores con signo positivo, y los acreedores con negativo. | N(10,0) | Igual de Saldo inicial+Debe-Haber. La columna debe sumar cero. |
+| Saldo Inicial. | Saldo, en €, al inicio del ejercicio de la cuenta contable Los saldos deudores con signo positivo, y los acreedores con negativo. | N(10,2) | La columna debe sumar cero. |
+| Debe. | Importe total, en €, de las anotaciones al Debe de la cuenta contable durante el ejercicio. Los incrementos de los saldos deudores en signo positivo. | N(10,2) |  |
+| Haber. | Importe total, en €, de las anotaciones al Haber de la cuenta contable durante el ejercicio. Los incrementos en los saldos acreedores serán negativos. | N(10,2) |  |
+| Saldo final. | Saldo, en €, al final del ejercicio de la cuenta contable. Los saldos deudores con signo positivo, y los acreedores con negativo. | N(10,2) | Igual de Saldo inicial+Debe+Haber. La columna debe sumar cero. |
 
 9.2 Bloque F9-DC2: Correspondencia BSS-SICSE Balance.
 
@@ -1181,78 +1201,78 @@ Descripción de campos:
 | Valoración. | Valor contable a cierre de ejercicio. | NP(9,0) |  |
 | Cuenta BSS. | Número de cuenta a 10 dígitos del BSS donde está contabilizada la inversión. | NP(10,0) | Contenida en campo «Cuenta BSS» del Bloque F9-DC1. |
 
-9.11 Bloque F9-DI1: Clasificación del inmovilizado por actividades.
+9.11 Bloque F9-DI1: Clasificación del inmovilizado por actividades
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | Código Actividad. | Código de la actividad a la que está asociado el inmovilizado. | C(7) | Contenido en las Tabla 1 para Electricidad y Tabla 2 para Gas. |
-| Tipo. | Seleccione el tipo de inmovilizado. 1. Activo Regulado. 2. Activo No Regulado. | NP(2,0) | Número de la lista. |
-| Inmovilizado bruto. | Importe, en €, del inmovilizado, material, inmaterial o en curso, incluyendo el totalmente amortizado, a 31 de diciembre del ejercicio. | NP(10,0) |  |
-| Cuenta BSS IB. | Número de cuenta a 10 dígitos del BSS donde está registrado el inmovilizado anterior. | NP(10,0) | Contenida en Campo «Cuenta BSS» del Bloque F9-DC 1. |
-| Amortización Acumulada. | Importe, en €, de la amortización acumulada del inmovilizado anterior a 31 de diciembre del ejercicio. En caso de inmovilizado no amortizable, se indicará 0. | N(10,0) |  |
-| Cuenta BSS AA. | Número de cuenta a 10 dígitos del BSS donde está registrada la amortización acumulada anterior. En caso de inmovilizado no amortizable, se indicará 0. | NP(10,0) | Contenida en Campo «Cuenta BSS» del Bloque F9-DC 1. |
+| Tipo. | Seleccione el tipo de inmovilizado. 1. Activo con CUAR. 2. Activo sin CUAR. | NP(2,0) | Número de la lista. |
+| Inmovilizado bruto. | Importe, en €, del inmovilizado, material, inmaterial o en curso, incluyendo el totalmente amortizado, a 31 de diciembre del ejercicio. | NP(11,2) |  |
+| Cuenta BSS IB. | Número de cuenta a 10 dígitos del BSS donde está registrado el inmovilizado anterior. | C(10) | Contenida en campo «Cuenta BSS» del Bloque F9-DC1. |
+| Amortización Acumulada. | Importe, en €, de la amortización acumulada del inmovilizado anterior a 31 de diciembre del ejercicio. En caso de inmovilizado no amortizable, se indicará 0. | N(10,2) |  |
+| Cuenta BSS AA. | Número de cuenta a 10 dígitos del BSS donde está registrada la amortización acumulada anterior. En caso de inmovilizado no amortizable, se indicará 0. | C(10) | Contenida en campo «Cuenta BSS» del Bloque F9-DC1. |
 
-9.12 Bloque F9-DI2: Movimiento del inmovilizado por actividades.
+9.12 Bloque F9-DI2: Movimiento del inmovilizado por actividades
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | Código Actividad. | Código de la actividad a la que está asociado el inmovilizado. | C(7) | Contenido en las Tabla 1 para Electricidad y Tabla 2 para Gas. |
 | Estado. | Seleccione el estado del inmovilizado: 1. En funcionamiento. 2. En curso. | NP(1,0) | Número de la lista. |
-| Tipo. | Seleccione el tipo del inmovilizado: 1. Activo Regulado. 2. Activo No Regulado. | NP(1,0) | Número de la lista. |
-| Valor al inicio. | Importe, en €, del inmovilizado correspondiente (para la actividad, estado y tipo), al inicio del ejercicio, incluyendo los activos totalmente amortizados. | NP(10,0) |  |
-| Altas. | Importe, en €, de las altas del inmovilizado correspondiente (para la actividad, estado y tipo), durante el ejercicio. | NP(10,0) |  |
-| Bajas. | Importe, en €, de las bajas del inmovilizado correspondiente (para la actividad, estado y tipo), durante el ejercicio. | NP(10,0) |  |
-| Traspasos. | Importe, en €, de los traspasos de inmovilizado correspondiente (para la actividad, estado y tipo), durante el ejercicio. | N(10,0) |  |
-| Valor al cierre. | Importe, en €, del inmovilizado bruto correspondiente (para la actividad, estado y tipo), al final del ejercicio, incluyendo los activos totalmente amortizados. | NP(10,0) |  |
-| AA Valor al inicio. | Importe, en €, de la amortización acumulada del inmovilizado correspondiente (para la actividad, estado y tipo), al inicio del ejercicio. | N(10,0) |  |
-| AA Dotaciones. | Importe, en €, de las dotaciones a la amortización del inmovilizado (para la actividad, estado y tipo), durante el ejercicio. | N(10,0) |  |
-| AA Bajas. | Importe, en €, de las bajas de amortización acumulada del inmovilizado correspondiente (para la actividad, estado y tipo), durante el ejercicio. | N(10,0) |  |
-| AA Traspasos. | Importe, en €, de los traspasos de amortización acumuladas del inmovilizado correspondiente (para la actividad, estado y tipo), durante el ejercicio. | N(10,0) |  |
-| AA Valor al cierre. | Importe, en €, de la amortización acumulada del inmovilizado bruto correspondiente (para la actividad, estado y tipo), al final del ejercicio. | N(10,0) |  |
-| Deterioro inicio. | Importe, en €, de la provisión por deterioro del inmovilizado (para actividad, estado y tipo) al inicio del ejercicio. | N(10.0) |  |
-| Dotaciones deterioro. | Importe, en €, de la dotación por deterioro del inmovilizado correspondiente y revalorizaciones (para la actividad, estado y tipo), durante el ejercicio. | N(10,0) |  |
-| Traspasos. | Importe, en €, de los aumentos o disminuciones por traspasos de la provisión por deterioro del inmovilizado correspondiente (para la actividad, estado y tipo), durante el ejercicio. | N(10,0) |  |
-| Aplicaciones. | Importe, en €, de las disminuciones por aplicaciones de la provisión por deterioro del inmovilizado correspondiente (para la actividad, estado y tipo), durante el ejercicio. | N(10,0) |  |
-| Deterioro cierre. | Importe, en €, de la provisión por deterioro del inmovilizado (para actividad, estado y tipo) al cierre del ejercicio. | N(10,0) |  |
+| Tipo. | Seleccione el tipo del inmovilizado: 1. Activo con CUAR. 2. Activo sin CUAR. | NP(1,0) | Número de la lista. |
+| Valor al inicio. | Importe, en €, del inmovilizado correspondiente (para la actividad, estado y tipo), al inicio del ejercicio, incluyendo los activos totalmente amortizados. | NP(11,2) |  |
+| Altas. | Importe, en €, de las altas del inmovilizado correspondiente (para la actividad, estado y tipo), durante el ejercicio. | NP(10,2) |  |
+| Bajas. | Importe, en €, de las bajas del inmovilizado correspondiente (para la actividad, estado y tipo), durante el ejercicio. | NP(10,2) |  |
+| Traspasos. | Importe, en €, de los traspasos de inmovilizado correspondiente (para la actividad, estado y tipo), durante el ejercicio. | N(10,2) |  |
+| Valor al cierre. | Importe, en €, del inmovilizado bruto correspondiente (para la actividad, estado y tipo), al final del ejercicio, incluyendo los activos totalmente amortizados. | NP(11,2) |  |
+| AA Valor al inicio. | Importe, en €, de la amortización acumulada del inmovilizado correspondiente (para la actividad, estado y tipo), al inicio del ejercicio. | N(10,2) |  |
+| AA Dotaciones. | Importe, en €, de las dotaciones a la amortización del inmovilizado (para la actividad, estado y tipo), durante el ejercicio. | N(10,2) |  |
+| AA Bajas. | Importe, en €, de las bajas de amortización acumulada del inmovilizado correspondiente (para la actividad, estado y tipo), durante el ejercicio. | N(10,2) |  |
+| AA Traspasos. | Importe, en €, de los traspasos de amortización acumuladas del inmovilizado correspondiente (para la actividad, estado y tipo), durante el ejercicio. | N(10,2) |  |
+| AA Valor al cierre. | Importe, en €, de la amortización acumulada del inmovilizado bruto correspondiente (para la actividad, estado y tipo), al final del ejercicio. | N(10,2) |  |
+| Deterioro inicio. | Importe, en €, de la provisión por deterioro del inmovilizado (para actividad, estado y tipo) al inicio del ejercicio. | N(10.2) |  |
+| Dotaciones deterioro. | Importe, en €, de la dotación por deterioro del inmovilizado correspondiente y revalorizaciones (para la actividad, estado y tipo), durante el ejercicio. | N(10,2) |  |
+| Traspasos. | Importe, en €, de los aumentos o disminuciones por traspasos de la provisión por deterioro del inmovilizado correspondiente (para la actividad, estado y tipo), durante el ejercicio. | N(10,2) |  |
+| Aplicaciones. | Importe, en €, de las disminuciones por aplicaciones de la provisión por deterioro del inmovilizado correspondiente (para la actividad, estado y tipo), durante el ejercicio. | N(10,2) |  |
+| Deterioro cierre. | Importe, en €, de la provisión por deterioro del inmovilizado (para actividad, estado y tipo) al cierre del ejercicio. | N(10,2) |  |
 
-9.13 Bloques F9-DI3: Correlación de Activos regulados - Activos contables.
+9.13 Bloques F9-DI3: Correlación de Activos con CUAR – Activos contables
 
 Descripción de campos:
 
-| Nombre campo | Descripción | Tipo dato | Reglas de validación |
+| Nombre Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
-| CUAR. | Código único asignado al activo según reglas de codificación establecidas. | C(33) | Declarado en los Formularios 1 (declarados en estado S o X), 2 y 4 y en los Formularios 11, 12 y 13. |
-| Cuentas BSS. | Número de cuenta a diez dígitos de inmovilizado del Balance de Sumas y Saldos en la que se encuentra registrada la inversión realizada en el activo regulado. | NP(10) | Contenida en campo «Cuenta BSS» del Bloque F9-DC1. |
+| CUAR. | Código único asignado al activo según reglas de codificación establecidas. | C(33) | Declarado en los Formularios 1 (declarados en estado S, X, C, M o U), 2 y 4 y en los Formularios 11, 12 y 13. |
+| Cuenta BSS. | Número de cuenta a diez dígitos de inmovilizado del Balance de Sumas y Saldos en la que se encuentra registrada la inversión realizada en el activo regulado. | NP(10) | Contenida en campo «Cuenta BSS» del Bloque F9-DC1. |
 | Código interno. | Código asignado por la empresa en el registro auxiliar de inmovilizado a cada uno de los elementos contables que componen el activo regulado. En su defecto, partida contable en la que se encuentra registrado el activo regulado. | C(≤25) |  |
-| Denominación | Denominación del elemento contable que compone el activo regulado. | C(≤255) |  |
+| Denominación. | Denominación del elemento contable que compone el activo regulado. | C(≤255) |  |
 
-9.14 Bloques F9-DI4: Información de los activos contables regulados.
+9.14 Bloque F9-DI4: Información de los activos contables asociados a activos con CUAR que no se encuentren en curso.
 
 Descripción de campos:
 
-| Nombre campo | Descripción | Tipo dato | Reglas de validación |
+| Nombre Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | Código interno. | Código asignado por la empresa en el registro auxiliar de inmovilizado a cada uno de los elementos contables que componen el activo regulado. En su defecto, partida contable en la que se encuentra registrado el activo regulado. | C(≤25) | Declarado en Bloque F9-DI3. |
-| Valor contable alta. | Coste de producción o precio de adquisición, en €, de las partidas contables. | NP(10,0) |  |
+| Valor contable alta. | Coste de producción o precio de adquisición, en €, de las partidas contables. | NP(10,2) |  |
 | Fecha alta. | Fecha de registro contable del activo: fecha de adquisición del activo o fecha de reclasificación del activo de inmovilizado en curso a inmovilizado terminado. | F |  |
-| Valor contable cierre. | Valor bruto contable, en €, del elemento contable a fecha de cierre del ejercicio. | NP(10,0) |  |
-| Amortización acumulada. | Importe de la amortización acumulada, en €, correspondiente al elemento contable a cierre del ejercicio. | N(10,0) |  |
-| Valor neto contable. | Valor neto contable, en €, del elemento contable a fecha de cierre del ejercicio. | NP(10,0) |  |
+| Valor contable cierre. | Valor bruto contable, en €, del elemento contable a fecha de cierre del ejercicio. | NP(10,2) |  |
+| Amortización acumulada. | Importe de la amortización acumulada, en €, correspondiente al elemento contable a cierre del ejercicio. | N(10,2) |  |
+| Valor neto contable. | Valor neto contable, en €, del elemento contable a fecha de cierre del ejercicio. | NP(10,2) |  |
 | Método de amortización. | Seleccione el método de amortización utilizado, vigente en el ejercicio de la declaración. 1. Lineal. 2. Otro. | NP(1,0) |  |
 | Vida útil. | Número de años de vida útil, en años, del elemento contable, vigente en el ejercicio de la declaración. | NP(10,2) |  |
-| Revalorizaciones anteriores a 1996. | Importe, en €, de las revalorización anteriores al año 1996 por leyes de Actualización de Balances. | NP(10,0) |  |
-| Revalorizaciones 1996. | Importe, en €, de la revalorización incluida en el valor contable bruto a cierre del ejercicio para el elemento contable, que se haya contabilizado por la ley de Actualización de Balances (RD-Ley 7/1996). | NP(10,0) |  |
-| Revalorizaciones 2013. | Importe de la revalorización incluida en el valor contable bruto a cierre del ejercicio para el elemento contable, que se hayan contabilizado por la ley de Actualización de Balances (Ley 12/2012). | NP(10,0) |  |
-| Costes por desmantelamiento. | Importe, en €, de la estimación por costes de desmantelamiento activada como mayor valor contable bruto del activo. | NP(10,0) |  |
-| Modificaciones. | Importe de las modificaciones (valor total acumulado) que haya experimentado el valor contable bruto del elemento contable desde la fecha de alta en el inmovilizado hasta la fecha de cierre del ejercicio. | NP(10,0) |  |
+| Revalorizaciones anteriores a 1996. | Importe, en €, de las revalorización anteriores al año 1996 por leyes de Actualización de Balances. | NP(10,2) |  |
+| Revalorizaciones 1996. | Importe, en €, de la revalorización incluida en el valor contable bruto a cierre del ejercicio para el elemento contable, que se haya contabilizado por la ley de Actualización de Balances (RD-Ley 7/1996). | NP(10,2) |  |
+| Revalorizaciones 2013. | Importe de la revalorización incluida en el valor contable bruto a cierre del ejercicio para el elemento contable, que se hayan contabilizado por la ley de Actualización de Balances (Ley 12/2012). | NP(10,2) |  |
+| Costes por desmantelamiento. | Importe, en €, de la estimación por costes de desmantelamiento activada como mayor valor contable bruto del activo. | NP(10,2) |  |
+| Modificaciones. | Importe de las modificaciones (valor total acumulado) que haya experimentado el valor contable bruto del elemento contable desde la fecha de alta en el inmovilizado hasta la fecha de cierre del ejercicio. | N(10,2) |  |
 | Motivo. | Descripción de las modificaciones que hayan tenido lugar en el ejercicio de la declaración. Si no hay modificaciones, NA. | C(≤255) |  |
-| Deterioros. | Importe de los deterioros (valor total acumulado) asociados al activo. | N(10,0) |  |
-| Motivo Deterioros. | Descripción del motivo del deterioro del inmovilizado que haya tenido lugar en el ejercicio de la declaración. | C(≤255) |  |
-| Subvenciones. | Importe bruto, en €, de las subvenciones de capital concedidas para financiar el elemento contable (sin tener en cuenta el efecto impositivo). | N(10,0) |  |
+| Deterioros. | Importe de los deterioros (valor total acumulado) asociados al activo. | N(10,2) |  |
+| Motivo Deterioros. | Descripción del motivo del deterioro del inmovilizado que haya tenido lugar en el ejercicio de la declaración. Si no hay deterioros, NA. | C(≤255) |  |
+| Subvenciones. | Importe bruto, en €, de las subvenciones de capital concedidas para financiar el elemento contable (sin tener en cuenta el efecto impositivo). | N(10,2) |  |
 | Origen. | Indicar el origen de los elementos contables correspondientes a cada activo regulado: 1. Construcción propia. 2. Adquirido a terceros a título oneroso. 3. Adquirido a título gratuito o cedido por terceros. 4. Combinaciones de negocios. 5. Aportación no dineraria. | NP(1,0) |  |
 
 9.15 Bloque F9-SI1: Desglose subvenciones de capital a cierre del ejercicio.
@@ -1307,34 +1327,35 @@ Descripción de campos:
 | Código Operación. | Código de la operación que se asigna al CUAR. | C(8) | Declaradas en los Bloques F9-SI1, F9-SI2 y F9-SI3. |
 | Importe. | Importe bruto, en €, de la operación que se asigna al CUAR. | NP(9,0) | La suma de los importes por código de operación no pueden superar el importe de la misma. |
 
-9.19 Bloque F9-PC1: Identificación de proveedores.
+9.19 Bloque F9-PC1: Identificación de proveedores
 
 Descripción de campos:
 
-| Nombre campo | Descripción | Tipo dato | Reglas de validación |
+| Nombre Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
-| Código Proveedor. | Código asignado por la empresa para la identificación del proveedor. La empresa deberá crear un código secuencial para su identificación empezando por el PRO-0001. | C(8) | El código de proveedor se debe mantener de un ejercicio al siguiente. |
+| Código Proveedor. | Código asignado por la empresa para la identificación del proveedor. La empresa deberá crear un código secuencial para su identificación empezando por el PRO-000001. | C(10) | El código de proveedor se debe mantener de un ejercicio al siguiente. |
 | Razón Social. | Razón social o denominación del proveedor. | C(≤255) |  |
-| CIF-NIF. | CIF o NIF del proveedor, según aplique. | C(9) |  |
+| CIF-NIF. | CIF o NIF del proveedor, según aplique. | C(≤15) |  |
 | Tipo de suministro. | Explicación de los tipos de suministro que realiza el proveedor. | C(≤255) |  |
-| Importe gasto. | Importe, en €, contabilizado como gasto en el ejercicio. | NP(9,0) |  |
-| Importe inversión. | Importe total, en €, contabilizado como inversión en el ejercicio. | NP(9,0) |  |
-| Parte vinculada. | Indicar si el proveedor es una parte vinculada: Sí/No. | B |  |
+| Importe gasto. | Importe, en €, contabilizado como gasto en el ejercicio. | N(9,2) |  |
+| Importe inversión. | Importe total, en €, contabilizado como inversión en el ejercicio. | N(9,2) |  |
+| Parte vinculada. | Indicar si el proveedor es una parte vinculada: SI/NO. | B |  |
+| Proveedor extranjero. | Indicar si el proveedor es extranjero: SI/NO. | B |  |
 
-9.20 Bloque F9-PC2: Identificación de Contratos/pedidos principales.
+9.20 Bloque F9-PC2: Identificación de Contratos/pedidos principales
 
 Descripción de campos:
 
-| Nombre campo | Descripción | Tipo dato | Reglas de validación |
+| Nombre Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
-| Código Contrato. | Código asignado por la empresa para la identificación del contrato/pedido. La empresa deberá crear un código secuencial para su identificación empezando por el CTP-0001. | C(8) | El código se debe mantener de un ejercicio al siguiente, si aplica. |
+| Código Contrato. | Código asignado por la empresa para la identificación del contrato/pedido. La empresa deberá crear un código secuencial para su identificación empezando por el CTP-000001. | C(10) | El código se debe mantener de un ejercicio al siguiente, si aplica. |
 | Objeto contrato/ pedido. | Descripción del objeto contrato/pedido. | C(≤255) |  |
 | Fecha Inicio. | Fecha de inicio. | F |  |
 | Razón social. | Razón social de la empresa contratada. | C(≤255) |  |
-| CIF. | CIF de la empresa contratada. | C(9) |  |
-| Importe Total previsto. | Importe, en €, total previsto del contrato/pedido. | NP(8,0) |  |
-| Importe ejecutado en el ejercicio. | Importe, en €, ejecutado en el ejercicio con cargo al contrato/pedido. | NP(8,0) |  |
-| Importe ejecutado acumulado. | Importe, en €, ejecutado acumulado con cargo al contrato/pedido. | NP(8,0) |  |
+| CIF. | CIF de la empresa contratada. | C(15) | Declarado en el Bloque F9-PC1. |
+| Importe Total previsto. | Importe, en €, total previsto del contrato/pedido. | NP(8,2) |  |
+| Importe ejecutado en el ejercicio. | Importe, en €, ejecutado en el ejercicio con cargo al contrato/pedido. | NP(8,2) |  |
+| Importe ejecutado acumulado. | Importe, en €, ejecutado acumulado con cargo al contrato/pedido. | NP(8,2) |  |
 
 10. Formulario 10: F10_Proyectos de inversión.
 
@@ -1376,35 +1397,36 @@ Descripción de campos:
 | Instalaciones cedidas. | Importe previsto de instalaciones cedidas asociadas al activo. | NP(9,0) |  |
 | Instalaciones financiadas. | Importe previsto de instalaciones financiadas por terceros asociadas al activo. | NP(9,0) |  |
 
-10.3 Bloque F10-P3: Activos planificados.
+10.3 Bloque F10-P3: Activos planificados
 
 Descripción de campos:
 
-| Nombre código | Descripción | Tipo dato | Reglas de validación |
+| Nombre Código | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | Código planificación. | Código asignado al activo planificado. | C(13) | Corresponde a los Bloques 1 y 2 del código CUAR. |
 | Nombre. | Descriptivo de activo. | C(≤255) |  |
 | Código Proyecto. | Código del proyecto al que está asociado el activo. | C(5) | Declarado en Bloque F10-P1. |
 | Fecha comienzo. | Fecha prevista de inicio (ejercicio m). | F |  |
 | Fecha fin. | Fecha de finalización prevista del proyecto. | F |  |
-| Presupuesto total. | Presupuesto total de ejecución del activo, sin descontar subvenciones ni instalaciones cedidas y financiadas por terceros. | NP(9,0) |  |
-| Presupuesto n+1. | Presupuesto de ejecución previsto para el ejercicio n+1. | NP(9,0) |  |
-| Presupuesto n+2. | Presupuesto de ejecución previsto para el ejercicio n+2. | NP(9,0) |  |
-| Presupuesto n+3. | Presupuesto de ejecución previsto para el ejercicio n+3. | NP(9,0) |  |
-| Resto presupuesto. | Presupuesto de ejecución previsto hasta la finalización a partir del n+4 (incluido n+4). | NP(9,0) |  |
-| Subvenciones. | Importe de las subvenciones previstas de recibir para la construcción del activo regulado. | NP(9,0) |  |
+| Presupuesto. total. | Presupuesto total de ejecución del activo, sin descontar subvenciones ni instalaciones cedidas y financiadas por terceros. | NP(9,2) |  |
+| Presupuesto n+1. | Presupuesto de ejecución previsto para el ejercicio n+1. | NP(9,2) |  |
+| Presupuesto n+2. | Presupuesto de ejecución previsto para el ejercicio n+2. | NP(9,2) |  |
+| Presupuesto n+3. | Presupuesto de ejecución previsto para el ejercicio n+3. | NP(9,2) |  |
+| Resto presupuesto. | Presupuesto de ejecución previsto hasta la finalización a partir del n+4 (incluido n+4). | NP(9,2) |  |
+| Subvenciones. | Importe de las subvenciones previstas de recibir para la construcción del activo regulado. | NP(9,2) |  |
 | Tipo Organismo. | Tipo de organismo que concede la Subvención: 1. NA. No hay prevista subvención. 2. Administración General del Estado. 3. Comunidad Autónoma. 4. Administración local. 5. Unión Europea. 6. Otros. | NP(1,0) | Número de la lista. |
-| Instalaciones cedidas. | Importe previsto de instalaciones cedidas asociadas al activo. | NP(9,0) |  |
-| Instalaciones financiadas. | Importe previsto de instalaciones financiadas por terceros asociadas al activo. | NP(9,0) |  |
-| Código TA. | Tipo de Actuación en función de la necesidad y la probabilidad: 0. NA (Gas). 1. A: Actuaciones programadas sin ningún tipo de condicionante. 2. B1: Actuaciones conexión condicionadas con incertidumbre moderada en cuanto a su ejecución. 3. B2:Actuaciones de conexión condicionadas con incertidumbre media-alta en cuanto a su ejecución. 4. R:Retrasada. | NP(1,0) | Número de la lista. |
-| MRDT. | Indicar si la motivación de la actuación es debido a Mallado de la red de Transporte: 0. NA (Gas). 1. Sí. 2. No. | NP(1,0) | Número de la lista. |
-| CINT. | Indicar si la motivación de la actuación es debido Conexión internacional: 0. NA (Gas). 1. Sí. 2. No. | NP(1,0) | Número de la lista. |
-| ATA. | Indicar si la motivación de la actuación es debido a Alimentación del Tren de Alta velocidad: 0. NA (Gas). 1. Sí. 2. No. | NP(1,0) | Número de la lista. |
-| EVRO. | Indicar si la motivación de la actuación es debido a Evacuación de régimen ordinario: 0. NA (Gas). 1. Sí. 2. No. | NP(1,0) | Número de la lista. |
-| EVRE. | Indicar si la motivación de la actuación es debido a Evacuación de régimen especial: 0. NA (Gas). 1. Sí. 2. No. | NP(1,0) | Número de la lista. |
-| APD. | Indicar si la motivación de la actuación es debido a Apoyo a la distribución o demanda de grandes consumidores (excepto ATA): 0. NA (Gas). 1. Sí. 2. No. | NP(1,0) | Número de la lista. |
-| Código función. | 0. NA (Gas). 1. Estructural. 2. De conexión. | NP(1,0) | Número de la lista. |
-| Código actuación. | 0. NA (Gas). 1. Actuación nueva. 2. Ampliación. 3. Renovación. | NP(1,0) | Número de la lista. |
+| Instalaciones cedidas. | Importe previsto de instalaciones cedidas asociadas al activo. | NP(9,2) |  |
+| Instalaciones financiadas. | Importe previsto de instalaciones financiadas por terceros asociadas al activo. | NP(9,2) |  |
+| RRTT. | Indicar si la motivación de la actuación es debida a resolución de restricciones técnicas: 0. NA (Gas). 1. Sí. 2. No. | NP(1,0) | Número de la lista. |
+| SdS. | Indicar si la motivación de la actuación es debida a seguridad de suministro: 0. NA (Gas). 1. Sí. 2. No. | NP(1,0) | Número de la lista. |
+| Fiab. | Indicar si la motivación de la actuación es debida a fiabilidad: 0. NA (Gas). 1. Sí. 2. No. | NP(1,0) | Número de la lista. |
+| Int. | Indicar si la motivación de la actuación es debida a conexiones internacionales, conexiones Península-sistemas no peninsulares e interconexiones entre sistemas insulares: 0. NA (Gas). 1. Sí. 2. No. | NP(1,0) | Número de la lista. |
+| ATA. | Indicar si la motivación de la actuación es debida a alimentación del Tren de Alta velocidad: 0. NA (Gas). 1. Sí. 2. No. | NP(1,0) | Número de la lista. |
+| EvCo. | Indicar si la motivación de la actuación es debida a evacuación de generación convencional: 0. NA (Gas). 1. Sí. 2. No. | NP(1,0) | Número de la lista. |
+| EvRe. | Indicar si la motivación de la actuación es debida a evacuación de generación renovable, cogeneración y residuos: 0. NA (Gas). 1. Sí. 2. No. | NP(1,0) | Número de la lista. |
+| Alm. | Indicar si la motivación de la actuación es debida a acceso de nuevas instalaciones de almacenamiento de energía: 0. NA (Gas). 1. Sí. 2. No. | NP(1,0) | Número de la lista. |
+| ApD. | Indicar si la motivación de la actuación es debida a apoyo a la distribución o demanda de grandes consumidores (excepto ATA): 0. NA (Gas). 1. Sí. 2. No. | NP(1,0) | Número de la lista. |
+| Código actuación. | 0. NA (Gas). 1. Instalación Nueva. 2. Repotenciación. 3. Incremento capacidad. 4. Cambio cable. 5. Nueva E/S. 6. Ampliación. 7. Renovación. 8. Otros. | NP(1,0) | Número de la lista. |
 
 10.4 Bloque F10-P4: Recodificación de activos en curso.
 
@@ -1454,6 +1476,8 @@ Bloque F11-E4: Máquinas.
 Bloque F11-E5: Despachos.
 
 Bloque F11-E7: Otros activos.
+
+Bloque F11-E10: Subestaciones.
 
 12. Formulario 12: F12_Activos_G en curso.
 
@@ -1587,16 +1611,19 @@ Descripción de campos:
 | Indisponibilidad Modificaciones no programadas. | Número de horas de indisponibilidad del activo causado por actuaciones no programadas debido a circunstancias fortuitas previstas en las condiciones de diseño. | NP(4,0) |  |
 | Indisponibilidad Modificaciones programadas. | Número de horas de indisponibilidad programadas por modificaciones/mejoras en el activo. | NP(4,0) |  |
 
-15.2 Bloque F15-U1: Datos de Uso.
+15.2 Bloque F15-U1: Datos de Uso
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas validación |
+| Campo | Descripción | Tipo Dato | Reglas validación |
 | --- | --- | --- | --- |
-| Código CUAR. | Código CUAR del activo regulado sobre el que se declara. | C(33) | Para todos los activos declarado en los Bloques F1-E1 / E2 / E3 y E4. |
+| Código CUAR. | Código CUAR del activo regulado sobre el que se declara. | C(33) | Para todos los activos declarado en los Bloques F1-E1 (estado S y Y)/ E2/ E3 y E4. |
 | Parámetro de uso 1. | Indicar el parámetro de uso 1. Podrá ser el de la Tabla 60, u otro que el sujeto obligado utilice para definir sus programas de mantenimiento preventivo en función del uso. | C(≤255) |  |
+| Valor 1. | Indicar el valor que ha tomado el parámetro de uso 1 definido en el campo anterior. | NP(10,2) |  |
 | Parámetro de uso 2. | Indicar el parámetro de uso 2. Podrá ser el de la Tabla 60, u otro que el sujeto obligado utilice para definir sus programas de mantenimiento preventivo en función del uso. | C(≤255) |  |
+| Valor 2. | Indicar el valor que ha tomado el parámetro de uso 2 definido en el campo anterior. | NP(10,2) |  |
 | Parámetro de uso 3. | Indicar el parámetro de uso 3. Podrá ser el de la Tabla 60, u otro que el sujeto obligado utilice para definir sus programas de mantenimiento preventivo en función del uso. | C(≤255) |  |
+| Valor 3. | Indicar el valor que ha tomado el parámetro de uso 3 definido en el campo anterior. | NP(10,2) |  |
 
 16. Formulario 16: F16_Disponibilidad y mantenimiento.
 
@@ -1604,23 +1631,23 @@ Sector de aplicación: Gas.
 
 En este formulario se facilita información relativa a la disponibilidad de los activos titularidad del sujeto obligado así como relativa al uso de los mismos durante el ejercicio.
 
-16.1 Bloque F16-D1: Disponibilidad y mantenimiento.
+16.1 Bloque F16-D1: Disponibilidad y mantenimiento
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
-| Código CUAR. | Código CUAR del activo regulado sobre el que se declara. | C(33) | Declarado en Bloque F2, en servicio, excepto F2-GT6, F2- R21 y F2-AS5. |
+| Código CUAR. | Código CUAR del activo regulado sobre el que se declara. | C(33) | Declarado en Bloque F2 o F3, en estado S o H, |
 | N.º Averías. | Número de actuaciones realizadas sobre el activo debido a mantenimiento correctivo. | NP(3,0) |  |
 | N.º Incidencias. | Número de actuaciones por causas de fuerza mayor o acciones de terceros realizadas sobre el activo debido a incidencias. | NP(3,0) |  |
 | N.º Preventivo. | Número de actuaciones realizadas sobre el activo debido a mantenimientos preventivos y predictivos. | NP(3,0) |  |
 | N.º modificaciones. | Número de actuaciones realizadas sobre el activo debido a modificaciones. | NP(3,0) |  |
-| Indisponibilidad Averías. | Número de horas de indisponibilidad del activo causado por actuaciones no programadas debido a mantenimiento correctivo. | NP(4,0) |  |
-| Indisponibilidad Incidencias No programadas. | Número de horas de indisponibilidad del activo causado por actuaciones no programadas por causas de fuerza mayor o acciones de terceros correctivo. | NP(4,0) |  |
-| Indisponibilidad Incidencias programadas. | Número de horas de indisponibilidad del activo causado por actuaciones programadas ajenas al mantenimiento. | NP(4,0) |  |
-| Indisponibilidad Preventivo. | Número de horas de indisponibilidad del activo debido a mantenimientos preventivos y predictivos. | NP(4,0) |  |
-| Indisponibilidad Modificaciones no programadas. | Número de horas de indisponibilidad del activo causado por actuaciones no programadas debido a circunstancias previstas en las condiciones de diseño. | NP(4,0) |  |
-| Indisponibilidad Modificaciones programadas. | Número de horas de indisponibilidad programadas por modificaciones/mejoras en el activo. | NP(4,0) |  |
+| Indisponibilidad Averías. | Número de horas de indisponibilidad del activo causado por actuaciones no programadas debido a mantenimiento correctivo. | NP(4,2) |  |
+| Indisponibilidad Incidencias No programadas. | Número de horas de indisponibilidad del activo causado por actuaciones no programadas por causas de fuerza mayor o acciones de terceros correctivo. | NP(4,2) |  |
+| Indisponibilidad Incidencias programadas. | Número de horas de indisponibilidad del activo causado por actuaciones programadas ajenas al mantenimiento. | NP(4,2) |  |
+| Indisponibilidad Preventivo. | Número de horas de indisponibilidad del activo debido a mantenimientos preventivos y predictivos. | NP(4,2) |  |
+| Indisponibilidad Modificaciones no programadas. | Número de horas de indisponibilidad del activo causado por actuaciones no programadas debido a circunstancias previstas en las condiciones de diseño. | NP(4,2) |  |
+| Indisponibilidad Modificaciones programadas. | Número de horas de indisponibilidad programadas por modificaciones/mejoras en el activo. | NP(4,2) |  |
 
 16.2 Bloque F16-U1: Datos de Uso.
 
@@ -1639,18 +1666,21 @@ Descripción de campos:
 | Parámetro de uso 7. | Indicar el parámetro de uso 7 según la Tabla 61. | NP(9,0) |  |
 | Parámetro de uso 8. | Indicar el parámetro de uso 8 según la Tabla 61. | NP(9,0) |  |
 
-17 Formulario 17: Activos en curso antes de la primera declaración.
+17. Formulario 17: Activos en curso antes de la primera declaración.
 
 Sector de aplicación: Electricidad y Gas Natural.
 
 Este formulario deberá ser cumplimentado por los sujetos obligados únicamente el primer ejercicio del Sistema IRC. Contiene los costes acumulados descontados los ingresos incorporables correspondientes en los diferentes OFC de inversión a fecha de 31 de diciembre del ejercicio anterior a la primera declaración.
 
-17.1 Bloque F17-AC1: Declaración de costes a CUAR iniciados antes de la primera declaración.
+17.1 Bloque F17-AC1: Declaración de costes a CUAR en curso iniciados antes del año 2016
 
 Descripción de campos:
 
-| Campo | Descripción | Tipo dato | Reglas de validación |
+| Campo | Descripción | Tipo Dato | Reglas de validación |
 | --- | --- | --- | --- |
 | CUAR. | Código CUAR del activo regulado del que se declaran los costes. | C(33) | Coherencia CUAR. |
-| Importe. | Importe de los costes declarados acumulados a 31 de diciembre del ejercicio anterior a la primera declaración. | NP(10,0) |  |
+| Importe. | Importe de los costes declarados acumulados a 31 de diciembre de 2015. | NP(10,2) |  |
 | Concepto de Coste. | Concepto de coste del que se reparten los costes en los nuevos CUAR. | C(≤13) | Contenido en las Tablas 23-25 para electricidad o 28 para gas. |
+| Materiales y equipos. | En el caso de que el Concepto de coste sea «Materiales y equipos», identificar el código del mismo. En caso contrario NA. | C(8) | Contenido en las Tablas de Materiales y equipos correspondientes. |
+
+> Se modifica por el art. único.4 de la Circular 3/2016, de 16 de noviembre. Ref. BOE-A-2016-11706

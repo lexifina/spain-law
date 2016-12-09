@@ -59,17 +59,19 @@ En el apartado 4.7.5 del Anexo IV se describen las funciones y tareas que se aso
 | Administración y finanzas. | Magnitud costes localizados en los CECOS Principales. | El criterio empleado para el reparto de los costes a los CECOS Principales es proporcional al importe de los costes localizados inicialmente en cada uno de los CECOS Principales. |
 | Calidad y RSC. |
 
-4. Posteriormente, los costes localizados en los CECOS Principales se trasladan íntegramente a los OFC (OFC de actividades reguladas, OFC distribución, OFC otras reguladas y OFC de actividades no reguladas), aplicando los «Criterios de Reparto Secundarios», que son los siguientes:
+4. Posteriormente, los costes localizados en los CECOS principales se trasladan íntegramente a los OFC (OFC de actividades reguladas, OFC distribución, OFC otras reguladas y OFC de actividades no reguladas), aplicando los «criterios de reparto secundarios», que son los siguientes:
 
 | CECOS Principales | Criterio de reparto | Funcionamiento |
 | --- | --- | --- |
 | Ingeniería. | Nivel de dedicación a los OFC. | El criterio empleado es el porcentaje de dedicación a cada uno de los OFC. |
 | Construcción. |
-| Almacén y logística. | Magnitud de los costes localizados en los OFC. | El criterio empleado para el reparto de los costes a los OFC es proporcional al importe de los costes directos localizados en cada uno de ellos. |
+| Almacén y logística. | Magnitud de los costes localizados en los OFC. | El criterio empleado para el reparto de los costes a los OFC de OyM es proporcional al importe de los costes directos localizados en cada uno de ellos. |
 | Operación y Mantenimiento. | Magnitud de los costes localizados por centro de mantenimiento y sus OFC asociados. | El criterio empleado para el reparto de los costes a los OFC es proporcional al importe de los costes directos localizados en cada centro de mantenimiento y sus OFC asociados. |
 | Centros de mantenimiento. | Nivel de dedicación a los OFC. | El criterio empleado es el porcentaje de dedicación de los CECOS a cada uno de los OFC. |
 | OS/GTS. | Nivel de dedicación a los OFC. | Los costes del OS/GTS se transfieren en función del nivel de dedicación a cada OFC. |
-| Gestión ATR. | Número de contratos de acceso de cada actividad. | Los costes de Gestión ATR se transfieren en función del número de contratos de acceso de cada actividad y por el valor de reposición de los activos de los OFC de O&M. |
+| Gestión ATR. | Número de contratos de acceso de cada actividad. | Los costes de Gestión ATR se transfieren en función del número de contratos de acceso de cada actividad y por el valor neto contable de los activos de los OFC de O&M. |
 | Desarrollo de negocio, Negocios no regulados y Relaciones Institucionales. | Se reparte a los OFC de no reguladas. |  |
 
 5. Una vez finalizado el proceso de reparto, los OFC son los conjuntos de costes, que constituyen, a su vez, las salidas del modelo, donde se localizan los Costes Directos, y donde finalmente se acumulan todos los Costes Indirectos que proceden de los CECOS Auxiliares y CECOS Principales mediante los Criterios de Reparto Primario y los Criterios de Reparto Secundario.
+
+> Se modifica el apartado 4 por el art. único.1 de la Circular 3/2016, de 16 de noviembre. Ref. BOE-A-2016-11706

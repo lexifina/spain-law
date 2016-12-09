@@ -24,11 +24,11 @@ Tabla 2: Listado de actividades de gas
 | AR-G-02 | Transporte. |
 | AR-G-03 | Regasificación. |
 | AR-G-04 | Almacenamientos subterráneos básicos (AASS). |
-| AR-G-05.001 | Gestor de red independiente (GRI) de la empresa SAGGAS. |
-| AR-G-05.002 | Gestor de red independiente (GRI) de la empresa ETN. |
 | AR-G-06 | Distribución. |
 | AR-G-07 | Otras actividades reguladas. |
 | AR-G-08 | Actividades no reguladas. |
+| AR-G-20 | Gestor de red independiente (GRI) de la empresa SAGGAS. |
+| AR-G-21 | Gestor de red independiente (GRI) de la empresa ETN. |
 
 Tabla 3: Listado de CECOS Auxiliares
 
@@ -104,7 +104,6 @@ Tabla 6: Listado de CECOS principales: Centros de mantenimiento sector gas
 | CC-P3.039 | CT de Coruña. |
 | CC-P3.040 | CT de Durango. |
 | CC-P3.041 | CT de Granada. |
-| CC-P3.042 | CT de Haro. |
 | CC-P3.043 | CT de Huelva. |
 | CC-P3.044 | CT de Jaén. |
 | CC-P3.045 | CT de Cádiz / Medina Sidonia. |
@@ -113,7 +112,7 @@ Tabla 6: Listado de CECOS principales: Centros de mantenimiento sector gas
 | CC-P3.048 | CT de Pontevedra. |
 | CC-P3.049 | CT de Almodóvar / Puertollano. |
 | CC-P3.050 | CT de Ribadeo. |
-| CC-P3.051 | CT de Sabiñánigo. |
+| CC-P3.051 | CT de Sabiñanigo. |
 | CC-P3.052 | CT de San Fernando de Henares. |
 | CC-P3.053 | CT de Villapresente / Santander. |
 | CC-P3.054 | CT de Segovia. |
@@ -138,9 +137,26 @@ Tabla 6: Listado de CECOS principales: Centros de mantenimiento sector gas
 | CC-P3.073 | CT de Villar de Arnedo. |
 | CC-P3.074 | CT de Yela. |
 | CC-P3.075 | CT de Chinchilla. |
-| CC-P3.076 | CT de Denia. |
-| CC-P3.077 | CT de Algete. |
 | CC-P3.078 | CT de Guipúzcoa. |
+| CC-P3.501 | EC Alcázar de San Juan. |
+| CC-P3.502 | EC Algete. |
+| CC-P3.503 | EC Almendralejo. |
+| CC-P3.504 | EC Almodóvar. |
+| CC-P3.505 | EC de Bañeras. |
+| CC-P3.506 | EC Chinchilla. |
+| CC-P3.507 | EC Córdoba. |
+| CC-P3.508 | EC Crevillente. |
+| CC-P3.509 | EC Euskadour. |
+| CC-P3.510 | EC Denia. |
+| CC-P3.511 | EC Haro. |
+| CC-P3.512 | EC Lumbier. |
+| CC-P3.513 | EC Montesa. |
+| CC-P3.514 | EC Paterna. |
+| CC-P3.515 | EC Sevilla. |
+| CC-P3.516 | EC Tivisa. |
+| CC-P3.517 | EC Villar de Arnedo. |
+| CC-P3.518 | EC Zamora. |
+| CC-P3.519 | EC Zaragoza. |
 | CC-P3.997 | Otros Centros de Mantenimiento. |
 | CC-P3.998 | Activos cedido a un GRI. |
 | CC-P3.999 | Centro de Mantenimiento reservado para los activos en proyecto o en construcción sin asignación definitiva a uno de los anteriores. |
@@ -153,9 +169,6 @@ Tabla 7: Parámetros CECOS
 | IC-2 | Número de personas equivalentes. |
 | IC-3 | Número de pedidos generados. |
 | IC-4 | Importe total de pedidos generados. |
-| IC-5 | Número de equipos TIC asignados. |
-| IC-6 | Número de incidencias TIC. |
-| IC-7 | m2 de superficie ocupados. |
 
 Tabla 8: Tipos de ingresos
 
@@ -700,7 +713,7 @@ Tabla 15: OFC de O&M de transporte electricidad
 | OFC-E-OM-T-015 | Líneas aéreas 220 kV más de dos circuitos resto Islas Canarias. |
 | OFC-E-OM-T-016 | Líneas aéreas 132 kV Simple circuito Islas Baleares. |
 | OFC-E-OM-T-017 | Líneas aéreas 132 kV Doble circuito Islas Baleares. |
-| OFC-E-OM-T-018 | Líneas aéreas 132 kV Más de dos circuitos Islas Baleares. |
+| OFC-E-OM-T-018 | Líneas aéreas 132 kV más de dos circuitos Islas Baleares. |
 | OFC-E-OM-T-019 | Líneas aéreas 132 kV Simple circuito Gran Canaria y Tenerife. |
 | OFC-E-OM-T-020 | Líneas aéreas 132 kV Doble circuito Gran Canaria y Tenerife. |
 | OFC-E-OM-T-021 | Líneas aéreas 132 kV más de dos circuitos Gran Canaria y Tenerife. |
@@ -738,7 +751,7 @@ Tabla 15: OFC de O&M de transporte electricidad
 | OFC-E-OM-T-053 | Línea subterránea 66 kV Doble circuito resto Islas Canarias. |
 | OFC-E-OM-T-054 | Línea subterránea 320 kVc.c y estaciones conversoras 400 kVc.a/320 kV c.c. |
 | OFC-E-OM-T-055 | Línea submarina 400 kV Doble circuito c.a. |
-| OFC-E-OM-T-056 | Línea submarina 250 kVc.c y estaciones conversoras 250 kVc.c /220 kVc.a.c.c. |
+| OFC-E-OM-T-056 | Línea submarina 250 kVc.c y estaciones conversoras 250 kVc.c /220 kVc.a. |
 | OFC-E-OM-T-057 | Línea submarina 220 kV Simple circuito. |
 | OFC-E-OM-T-058 | Línea submarina 220 kV Doble circuito. |
 | OFC-E-OM-T-059 | Línea submarina 132 kV Simple circuito. |
@@ -779,7 +792,7 @@ Tabla 15: OFC de O&M de transporte electricidad
 | OFC-E-OM-T-094 | Transformadores trifásicos (132/66 kV) Gran Canaria y Tenerife. |
 | OFC-E-OM-T-095 | Transformadores trifásicos (132/66 kV) resto Islas Canarias. |
 | OFC-E-OM-T-096 | Reactancias 400 kV Península. |
-| OFC-E-OM-T-097 | Reactancias 220 kV. |
+| OFC-E-OM-T-097 | Reactancias 220 kV Península. |
 | OFC-E-OM-T-098 | Reactancias 220 kV Islas Baleares. |
 | OFC-E-OM-T-099 | Reactancias 220 kV Gran Canaria y Tenerife. |
 | OFC-E-OM-T-100 | Reactancias 220 kV resto Islas Canarias. |
@@ -800,17 +813,17 @@ Tabla 15: OFC de O&M de transporte electricidad
 | OFC-E-OM-T-115 | Condensadores 66 kV Islas Baleares. |
 | OFC-E-OM-T-116 | Condensadores 66 kV Gran Canaria y Tenerife. |
 | OFC-E-OM-T-117 | Condensadores 66 kV resto Islas Canarias. |
-| OFC-E-OM-T-118 | Transformador móvil monofásicos (400/220 kV). |
-| OFC-E-OM-T-119 | Transformador móvil trifásico (400/220/132 kV). |
-| OFC-E-OM-T-120 | Transformador móvil trifásico (220/132 kV) Islas Baleares. |
-| OFC-E-OM-T-121 | Transformador móvil trifásico (220/132 kV) Gran Canaria y Tenerife. |
-| OFC-E-OM-T-122 | Transformador móvil trifásico (220/132 kV) resto Islas Canarias. |
-| OFC-E-OM-T-123 | Transformador móvil trifásico (220/66 kV) Islas Baleares. |
-| OFC-E-OM-T-124 | Transformador móvil trifásico (220/66 kV) Gran Canaria y Tenerife. |
-| OFC-E-OM-T-125 | Transformador móvil trifásico (220/66 kV) resto Islas Canarias. |
-| OFC-E-OM-T-126 | Transformador móvil trifásico (132/66 kV Islas Baleares). |
-| OFC-E-OM-T-127 | Transformador móvil trifásico (132/66 kV) Gran Canaria y Tenerife. |
-| OFC-E-OM-T-128 | Transformador móvil trifásico (132/66 kV) resto Islas Canarias. |
+| OFC-E-OM-T-118 | Transformador móvil monofásicos (400/220 kV) Península. |
+| OFC-E-OM-T-119 | Transformador móvil trifásico (400/220/132 kV) Península. |
+| OFC-E-OM-T-120 | Transformador móvil monofásico (220/132 kV) Islas Baleares. |
+| OFC-E-OM-T-121 | Transformador móvil monofásico (220/132 kV) Gran Canaria y Tenerife. |
+| OFC-E-OM-T-122 | Transformador móvil monofásico (220/132 kV) resto Islas Canarias. |
+| OFC-E-OM-T-123 | Transformador móvil monofásico (220/66 kV) Islas Baleares. |
+| OFC-E-OM-T-124 | Transformador móvil monofásico (220/66 kV) Gran Canaria y Tenerife. |
+| OFC-E-OM-T-125 | Transformador móvil monofásico (220/66 kV) resto Islas Canarias. |
+| OFC-E-OM-T-126 | Transformador móvil monofásico (132/66 kV Islas Baleares). |
+| OFC-E-OM-T-127 | Transformador móvil monofásico (132/66 kV) Gran Canaria y Tenerife. |
+| OFC-E-OM-T-128 | Transformador móvil monofásico (132/66 kV) resto Islas Canarias. |
 | OFC-E-OM-T-129 | Posición móvil 400 kV Península. |
 | OFC-E-OM-T-130 | Posición móvil 220 kV Península. |
 | OFC-E-OM-T-131 | Posición móvil 220 kV Islas Baleares. |
@@ -827,7 +840,7 @@ Tabla 15: OFC de O&M de transporte electricidad
 | OFC-E-OM-T-142 | Desfasadores 220 kV Islas Baleares. |
 | OFC-E-OM-T-143 | Desfasadores 220 kV Gran Canaria y Tenerife. |
 | OFC-E-OM-T-144 | Desfasadores 220 kV resto Islas Canarias. |
-| OFC-E-OM-T-145 | Inversiones singulares. |
+| OFC-E-OM-T-145 | Otras inversiones singulares. |
 | OFC-E-OM-T-146 | Otros. |
 
 Tabla 16: OFC de O&M de GTS
@@ -836,8 +849,11 @@ Tabla 16: OFC de O&M de GTS
 | --- | --- |
 | OFC-G-GTS-01 | Operación del Sistema Gasista. |
 | OFC-G-GTS-02 | Liquidaciones del Sistema Gasista. |
-| OFC-G-GTS-03 | Gestión con Terceros. |
-| OFC-G-GTS-04 | Estudios. |
+| OFC-G-GTS-03 | Coordinación de Garantías. |
+| OFC-G-GTS-04 | Mantenimiento SL-ATR. |
+| OFC-G-GTS-05 | Predicción de Demanda. |
+| OFC-G-GTS-06 | Estudios. |
+| OFC-G-GTS-07 | Plataforma de Contratación. |
 
 Tabla 17: OFC de O&M de transporte de gas
 
@@ -852,9 +868,11 @@ Tabla 17: OFC de O&M de transporte de gas
 | OFC-G-OM-T-07 | EM-MUS primarias. |
 | OFC-G-OM-T-08 | EM-MUS secundarias. |
 | OFC-G-OM-T-09 | ERP y ERC. |
-| OFC-G-OM-T-10 | Estaciones de compresión. |
-| OFC-G-OM-T-11 | ERM/EM singulares. |
-| OFC-G-OM-T-12 | Estación de compresión singular. |
+| OFC-G-OM-T-10 | Estaciones de compresión turbina. |
+| OFC-G-OM-T-11 | Estaciones de compresión motor eléctrico. |
+| OFC-G-OM-T-12 | ERM/EM singulares. |
+| OFC-G-OM-T-13 | Estación de compresión singular. |
+| OFC-G-OM-T-14 | Gasoducto singular. |
 
 Tabla 18: OFC de O&M de regasificación
 
@@ -1290,6 +1308,7 @@ Tabla 59: Conceptos de coste de O&M de carga/descarga de GNL
 | CDC-OM-CDB-06 | Operación transvase de GNL planta-buque. |
 | CDC-OM-CDB-07 | Operación transvase de GNL buque-buque. |
 | CDC-OM-CDB-08 | Operación puesta en frío de buque. |
+| CDC-OM-CDB-09 | Operación de transvase de GNL planta-buque a pequeña escala. |
 
 Tabla 60: Parámetros de uso electricidad
 
@@ -1365,4 +1384,7 @@ Tabla 63: Tipo de G de las EM/ERM
 | G-G-09 | Tipo G 2500 |
 | G-G-10 | Tipo G 4000 |
 | G-G-11 | Tipo G 6500 |
-| G-G-12 | Otros tamaños de turbina |
+| G-G-12 | Tipo G 10000 |
+| G-G-13 | Otros tamaños de turbina |
+
+> Se modifica por el art. único.5 de la Circular 3/2016, de 16 de noviembre. Ref. BOE-A-2016-11706
