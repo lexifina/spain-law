@@ -1190,37 +1190,37 @@ h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
 18. FICHERO: GESACCES.
 
-a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
+a) Identificación del fichero o tratamiento:
 
 a.1) Identificación del fichero: GESACCES.
 
-a.2) Finalidad: Gestionar la identificación y autenticación, así como el control de todos los accesos a las aplicaciones informáticas de la Dirección General de la Policía y de la Guardia Civil (ámbito del Cuerpo Nacional de Policía), residenciadas en el Centro de Proceso de Datos de El Escorial.
+a.2) Finalidad: Gestionar la identificación y autenticación, así como el control de todos los accesos a las aplicaciones informáticas de la Dirección General de la Policía, residenciadas en el Centro de Proceso de Datos de El Escorial.
 
-a.3) Usos previstos: auditoría e inspección sobre el uso de los datos informatizados. Se prevé el control de todos los ficheros policiales y, en su caso, investigación de aquellos usos contrarios a la deontología profesional y constitutivos de infracción.
+a.3) Usos previstos: Auditoría e inspección sobre el uso de los datos informatizados. Se prevé el control de todos los ficheros policiales y, en su caso, investigación de aquellos usos contrarios a la deontología profesional y constitutivos de infracción.
 
-b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
+b) Origen de los datos:
 
-b.1) Colectivo: Todos los usuarios autorizados a acceder a las aplicaciones informáticas residenciadas en el Área de Informática de la Dirección General de la Policía y de la Guardia Civil (ámbito del Cuerpo Nacional de Policía).
+b.1) Colectivo: Todos los usuarios autorizados a acceder a las aplicaciones informáticas residenciadas en el Área de Informática de la Dirección General de la Policía.
 
 b.2) Procedencia y procedimiento de recogida: Se recogen del propio interesado, directamente en soporte papel o a través de vía telemática. Los datos de los accesos se graban automáticamente.
 
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+c) Estructura básica del fichero:
 
 c.1) Descripción de los datos:
 
-Datos de identificación del usuario: Documento nacional de identidad, nombre, apellidos, clave y contraseña de acceso a las aplicaciones, plantilla de destino, cuerpo al que pertenece y número del carné profesional.
+Datos de identificación del usuario: Documento nacional de identidad, nombre, apellidos, clave y contraseña de acceso a las aplicaciones, plantilla de destino, cuerpo al que pertenece y número del carné profesional, fecha cambio clave, fecha de autorización, fecha de baja, datos certificado DNI, organismo de pertenencia del funcionario.
 
 Datos de conexión (fecha y hora de conexión y desconexión de la aplicación, tipo de acceso, registro accedido, etc.) necesarios para hacer un control efectivo de seguridad.
 
 c.2) Sistema de tratamiento: Automatizado.
 
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: No se prevé cesión de datos.
+d) Comunicaciones de datos previstas: No se prevén.
 
-e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
+e) Transferencias internacionales de datos previstas a terceros países: No se prevén.
 
-f) Órgano responsable del fichero: División de Coordinación Económica y Técnica, calle Julián González Segador, sin número, 28043 Madrid.
+f) Órgano responsable del fichero: Subdirección General de Logística, calle Julián González Segador, sin número, 28043 Madrid.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General de la División de Coordinación Económica y Técnica, calle Julián González Segador, sin número, 28043 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General de la Subdirección General de Logística, calle Julián González Segador, sin número, 28043 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
@@ -2198,41 +2198,35 @@ h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
 8. FICHERO: EMBARCACIONES.
 
-a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
+a) Identificación del fichero o tratamiento:
 
-a.1) Identificación del fichero: Embarcaciones.
+a.1) Identificación del fichero: Embarques.
 
-a.2) Finalidad: Ejercicio de la función de Resguardo Fiscal del Estado y de la custodia de las costas, mediante el control y seguimiento del tráfico marítimo.
+a.2) Finalidad: Ejercicio de la función de Resguardo Fiscal del Estado y de la vigilancia y custodia de las costas, fronteras, espacio marítimo de jurisdicción nacional, puertos y aeródromos, mediante el control y seguimiento del tráfico marítimo y de aeronaves.
 
-a.3) Usos previstos: Apoyo a las investigaciones policiales de la Guardia Civil.
+a.3) Usos previstos: Actuaciones en el marco de la seguridad pública y apoyo a las investigaciones policiales.
 
-b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
+b) Origen de los datos:
 
-b.1) Colectivo: Propietarios y usuarios de embarcaciones.
+b.1) Colectivo: Propietarios y usuarios de embarcaciones y aeronaves, y propietarios y gestores de instalaciones portuarias y de aeródromos.
 
-b.2) Procedencia y procedimiento de recogida: Manualmente por las unidades de la Guardia Civil a partir de formularios o documentos cumplimentados por ellas, en soporte papel, informático o telemático.
+b.2) Procedencia y procedimiento de recogida: Manualmente o mediante incorporación automática de datos provenientes de otras basas de datos con finalidad similar, por las unidades de la Guardia Civil a partir de formularios o documentos en soporte papel, informático o telemático.
 
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+c) Estructura básica del fichero:
 
 c.1) Descripción de los datos:
 
-Datos relativos a la comisión de infracciones penales o administrativas: Infracciones penales y administrativas.
-
-Datos de carácter identificativo: DNI/NIF, nombre y apellidos, dirección postal y teléfono.
-
-Datos de características personales.
-
-Datos de detalle de empleo.
+Datos de carácter identificativo: DNI/NIF/NIE/pasaporte, nombre y apellidos, fecha y lugar de nacimiento, nacionalidad, sexo, dirección postal, dirección de correo electrónico y teléfono.
 
 c.2) Sistema de tratamiento: Automatizado.
 
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: Autoridades judiciales, Ministerio Fiscal, otras Fuerzas y Cuerpos de Seguridad, y aquellas otras necesarias en virtud de la cooperación y coordinación judicial a nivel nacional, a tenor de lo establecido en los artículos 3 y 45 de la Ley Orgánica 2/1986, de 13 de marzo, disposición adicional 1.ª de la Ley Orgánica 12/1995, de 12 de diciembre, de Represión del Contrabando, y de conformidad con los artículos 11 y 21 de la Ley Orgánica 15/1999, de 13 de diciembre.
+d) Comunicaciones de datos previstas: Autoridades judiciales, Ministerio Fiscal, otras Fuerzas y Cuerpos de Seguridad, Agencia Tributaria y aquellas otras necesarias en virtud de la cooperación y coordinación de órganos de la Administración y judiciales a nivel nacional, a tenor de lo establecido en los artículos 3 y 45 de la Ley Orgánica 2/1986, de 13 de marzo; disposición adicional 1.ª de la Ley Orgánica 12/1995, de 12 de diciembre, de Represión del Contrabando, y de conformidad con los artículos 11 y 21 de la Ley Orgánica 15/1999, de 13 de diciembre.
 
-e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: A organismos internacionales y países extranjeros en los términos establecidos en los tratados y convenios en los que España sea parte (Interpol, Europol, Sistema de Información Schengen, Unión Europea y convenios bilaterales).
+e) Transferencias internacionales de datos previstas a terceros países: A oficiales de enlace extranjeros en materia fiscal, aduanera y fronteriza y organismos internacionales, en los términos establecidos en los tratados y convenios en los que España sea parte (Interpol, Europol, Olaf, Sistema de Información Schengen, Organización Mundial de Aduanas y Unión Europea).
 
-f) Órgano responsable del fichero: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil), c/ Guzmán el Bueno, 110, 28003 Madrid.
+f) Órgano responsable del fichero: Dirección General de la Guardia Civil, calle Guzmán el Bueno, 110, 28003 Madrid.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil) – Servicio Fiscal, c/ Guzmán el Bueno, 110, 28003 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Guardia Civil, Servicio Fiscal, calle Guzmán el Bueno, 110, 28003 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
@@ -2360,49 +2354,47 @@ h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
 12. FICHERO: GESTIÓN DE DATOS ACADÉMICOS.
 
-a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
+a) Identificación del fichero o tratamiento:
 
 a.1) Identificación del fichero: Gestión de datos académicos.
 
-a.2) Finalidad: Realizar un seguimiento de los alumnos inscritos en los distintos procesos formativos de la Jefatura de Enseñanza y centros docentes de la Guardia Civil, así como en el Sistema de Teleformación, tanto a nivel de identificación personal como de la evolución académica registrada durante todos los cursos realizados en cada uno de ellos.
+a.2) Finalidad: Realizar un seguimiento de los alumnos inscritos en los distintos procesos formativos de la Jefatura de Enseñanza, centros docentes de la Guardia Civil y Centro Universitario de la Guardia Civil (CUGC), así como en el Sistema de Teleformación, tanto a nivel de identificación personal como de la evolución académica registrada durante todos los cursos realizados en cada uno de ellos. Gestionar al personal docente colaborador que imparten docencia en las actividades académicas que organiza los centros docentes de la Guardia Civil y el CUGC.
 
 a.3) Usos previstos: Administrativo.
 
-b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
+b) Origen de los datos:
 
-b.1) Colectivo: Alumnos y profesorado de cada Centro.
+b.1) Colectivo: Alumnos y profesorado de cada centro.
 
-b.2) Procedencia y procedimiento de recogida: Se recogen del propio interesado, de publicaciones oficiales y de fuentes accesibles al público mediante formularios en soporte papel y magnético de otros ficheros de la Dirección General de la Policía y de la Guardia Civil (ámbito Guardia Civil), creados para la selección y gestión de recursos humanos.
+b.2) Procedencia y procedimiento de recogida: Se recogen del propio interesado, o su representante legal, de publicaciones oficiales y de fuentes accesibles al público mediante formularios en soporte papel y magnético de otros ficheros de la Dirección General de la Guardia Civil, creados para la selección y gestión de recursos humanos.
 
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+c) Estructura básica del fichero:
 
 c.1) Descripción de los datos:
 
-Datos especialmente protegidos: Salud.
-
 Datos de carácter identificativo: DNI/NIF, nombre y apellidos, dirección postal, teléfono, imagen/voz y número de registro de personal.
 
-Datos de características personales.
+Datos de características personales: Datos de familia, fecha de nacimiento, lugar de nacimiento, nacionalidad, edad, sexo, y características físicas o antropométricas.
 
-Datos de circunstancias sociales.
+Datos de circunstancias sociales: Situación familiar.
 
-Datos académicos y profesionales.
+Datos académicos y profesionales: Formación, titulaciones, historial del estudiante, experiencia profesional.
 
-Datos de detalle de empleo.
+Datos de detalle de empleo: Cuerpo/Escala, categoría/grado, puesto de trabajo.
 
-Datos económico-financieros y de seguros.
+Datos bancarios.
 
 c.2) Sistema de tratamiento: Parcialmente automatizado.
 
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: A los órganos competentes en materia de intervención y control de las cuentas públicas, así como a la Agencia Estatal de Administración Tributaria y a las entidades financieras en la que se efectúe el correspondiente abono.
+d) Comunicaciones de datos previstas: A los órganos competentes en materia de intervención y control de las cuentas públicas, a la Agencia Estatal de Administración Tributaria y a las entidades financieras en la que se efectúe el correspondiente abono, así como a las Universidades a las cuales el CUGC se adscriba.
 
-e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
+e) Transferencias internacionales de datos previstas a terceros países: No se prevén.
 
-f) Órgano responsable del fichero: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil). C/ Guzmán el Bueno, 110, 28003 Madrid.
+f) Órgano responsable del fichero: Dirección General de la Guardia Civil. Calle Guzmán el Bueno, 110, 28003 Madrid.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil) – Jefatura de Enseñanza, c/ Guzmán el Bueno, 110, 28003 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Guardia Civil, Jefatura de Enseñanza, calle Guzmán el Bueno, 110, 28003 Madrid.
 
-h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
+h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
 13. FICHERO: INCOMPATIBILIDADES.
 
@@ -3082,7 +3074,7 @@ g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, re
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
-30. FICHERO: Expedientes.
+30. FICHERO: EXPEDIENTES.
 
 a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
 
@@ -3410,47 +3402,47 @@ h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
 38. FICHERO: ARMAS.
 
-a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
+a) Identificación del fichero o tratamiento:
 
 a.1) Identificación del fichero: Armas.
 
-a.2) Finalidad: Control de las materias tipificadas en el Reglamento de Armas, aprobado por el Real Decreto 137/1993, de 29 de enero, Reglamento de explosivos, aprobado por el Real Decreto 230/1998, de 16 de febrero, y Reglamento de artículos pirotécnicos y cartuchería, aprobado por el Real Decreto 563/2010, de 7 de mayo.
+a.2) Finalidad: Mantenimiento de la seguridad pública mediante el control de las materias tipificadas en el Reglamento de Armas, aprobado por el Real Decreto 137/1993, de 29 de enero, Reglamento de Explosivos, aprobado por el Real Decreto 230/1998, de 16 de febrero, y Reglamento de artículos pirotécnicos y cartuchería, aprobado por el Real Decreto 989/2015, de 30 de octubre.
 
-a.3) Usos previstos: Administrativo y de investigación policial.
+a.3) Usos previstos: Control de las materias reglamentadas (armas, explosivos, artículos pirotécnicos y cartuchería), gestión de los procedimientos de concesión, renovación y revocación de licencias, permisos y autorizaciones, procedimientos sancionadores, elaboración de estadísticas y análisis de los datos para detección de cualquier circunstancia de interés policial, como las relacionadas con el tráfico o empleo ilícito, pérdida o sustracción de armas o documentaciones, decomisos, enajenaciones o cualesquiera otras que afectaran a su tenencia y uso, a efectos de descubrimiento y persecución de actos delictivos o infracciones.
 
-b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
+b) Origen de los datos:
 
 b.1) Colectivo: Personas físicas o jurídicas que solicitan o realizan trámites administrativos relacionados con la normativa de armas, explosivos y de artículos pirotécnicos y cartuchería, así como los incursos en procedimientos sancionadores relacionados con la materia.
 
 b.2) Procedencia y procedimiento de recogida: Del propio interesado o su representante legal mediante formularios, impresos y documentación, procesando los datos en el fichero informático directamente por las distintas unidades interventoras de armas y explosivos a todos los niveles.
 
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+c) Estructura básica del fichero:
 
 c.1) Descripción de los datos:
 
-Datos especialmente protegidos: Salud.
+Datos especialmente protegidos: Salud (Informe de aptitud psicofísica).
 
-Datos de infracciones penales o administrativas: Infracciones administrativas.
+Datos de infracciones penales o administrativas: Infracciones penales y administrativas e informe de conducta y antecedentes.
 
 Datos de carácter identificativo: DNI/NIF, nombre y apellidos, dirección postal y teléfono, dirección de correo electrónico y otros documentos identificativos.
 
-Datos de características personales.
+Datos de características personales: Datos de filiación, fecha, lugar y país de nacimiento, edad, sexo, y nacionalidad.
 
-Datos de circunstancias sociales.
+Datos de circunstancias sociales: Pertenencia a clubes, asociaciones, etc. Categoría deportiva.
 
-Datos de detalle de empleo.
+Datos de detalle de empleo: Cuerpo, escala, categoría, grado, puesto de trabajo, situación administrativa.
 
-Datos de información comercial.
+Datos de información comercial: Establecimientos relacionados con la fabricación, adquisición, almacenamiento, circulación, transporte, comercio, tenencia y uso de armas, sus municiones, explosivos y artículos pirotécnicos.
 
 c.2) Sistema de tratamiento: Parcialmente automatizado.
 
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: A las Autoridades Judiciales y Ministerio Fiscal, de conformidad con lo establecido en el artículo 11.2.d) de la Ley Orgánica 15/1999, de 13 de diciembre. A otras Fuerzas y Cuerpos de Seguridad y organismos nacionales, conforme a lo establecido en los artículos 11.2.a) y 21.1 de la Ley Orgánica 15/1999, de 13 de diciembre, y la Ley Orgánica 2/1986, de 13 de marzo.
+d) Comunicaciones de datos previstas: A las Autoridades Judiciales y Ministerio Fiscal, de conformidad con lo establecido en el artículo 11.2.d) de la Ley Orgánica 15/1999, de 13 de diciembre. A otras Fuerzas y Cuerpos de Seguridad y organismos nacionales, conforme a lo establecido en el artículo 11.2.a) de la Ley Orgánica 15/1999, de 13 de diciembre, y la Ley Orgánica 2/1986, de 13 de marzo.
 
-e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: A organismos internacionales y países extranjeros, en los términos establecidos en los acuerdos suscritos por España (Protocolo contra la fabricación y el tráfico ilícitos de armas de fuego, sus piezas y componentes y municiones, que complementa la Convención de las Naciones Unidas contra la Delincuencia Organizada Transnacional, Instrumento internacional sobre marcado y rastreo de armas pequeñas y ligeras, Directiva 91/477/CEE del Consejo, de 18 de junio de 1991, sobre el control de la adquisición y tenencia de armas, modificada por la Directiva 2008/51/CE del Parlamento Europeo y del Consejo, de 21 de mayo de 2008, acuerdos bilaterales, Interpol, Europol, Sistema Información Schengen, Unión Europea y convenios bilaterales).
+e) Transferencias internacionales de datos previstas a terceros países: A organismos internacionales y países extranjeros, en los términos establecidos en los acuerdos suscritos por España (Protocolo contra la fabricación y el tráfico ilícitos de armas de fuego, sus piezas y componentes y municiones, que complementa la Convención de las Naciones Unidas contra la Delincuencia Organizada Transnacional, Instrumento internacional sobre marcado y rastreo de armas pequeñas y ligeras, Directiva 91/477/CEE, del Consejo, de 18 de junio de 1991, sobre el control de la adquisición y tenencia de armas, modificada por la Directiva 2008/51/CE, del Parlamento Europeo y del Consejo, de 21 de mayo de 2008, Directiva 93/15/CEE, del Consejo, de 5 de abril de 1993, relativa a la armonización de las disposiciones sobre la puesta en el mercado y el control de los explosivos con fines civiles, Directiva 2008/43/CE, de la Comisión, de 4 de abril de 2008, por la que se establece, con arreglo a la Directiva 93/15/CEE, del Consejo, un sistema de identificación y trazabilidad de explosivos con fines civiles, Directiva 2012/4/UE, de la Comisión, de 22 de febrero de 2012, que modifica la Directiva 2008/43/CE, Directiva 2007/23/CE, del Parlamento Europeo y del Consejo, de 23 de mayo de 2007, sobre la puesta en el mercado de artículos pirotécnicos, Reglamento (UE) 98/2013, del Parlamento Europeo y del Consejo, de 15 de enero de 2013, sobre la comercialización y la utilización de precursores de explosivos, acuerdos bilaterales, Interpol, Europol, Sistema Información Schengen, Unión Europea y convenios bilaterales).
 
-f) Órgano responsable del fichero: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil), C/ Guzmán el Bueno, 110, 28003 Madrid.
+f) Órgano responsable del fichero: Dirección General de la Guardia Civil, calle Guzmán el Bueno, 110, 28003 Madrid.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil) – Intervención Central de Armas y Explosivos, C/ Guzmán el Bueno, 110, 28003 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección de la Guardia Civil-Intervención Central de Armas y Explosivos, calle Batalla de Salado, 32, 28045 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
@@ -3492,39 +3484,39 @@ h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
 40. FICHERO: CONSEJO DE LA GUARDIA CIVIL.
 
-a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
+a) Identificación del fichero o tratamiento:
 
 a.1) Identificación del fichero: Consejo de la Guardia Civil.
 
-a.2) Finalidad: Gestión del procedimiento de elección de los representantes de los miembros del Cuerpo en el Consejo de la Guardia Civil, así como de las propuestas o sugerencias planteadas por los guardias civiles al citado Consejo y a la Oficina de Atención al Guardia Civil.
+a.2) Finalidad: Gestión del procedimiento de elección de los representantes de los miembros del Cuerpo en el Consejo de la Guardia Civil, y de las propuestas o sugerencias planteadas por los guardias civiles al citado Consejo y a la Oficina de Atención al Guardia Civil, así como la gestión de la elaboración y difusión de las actas de las sesiones del Consejo, y de las reuniones de las Comisiones y Grupos de Trabajo.
 
 a.3) Usos previstos: Administrativo.
 
-b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
+b) Origen de los datos:
 
-b.1) Colectivo: Personal de la Guardia Civil, participantes en los procesos de elección del Consejo de la Guardia Civil, conforme a la legislación que regule el proceso electoral (Representantes de la Administración, Delegados de las distintas Asociaciones Profesionales de la Guardia Civil, Censo electoral, Candidatos, Junta Electoral etc.); así como de todo aquel que formule ante el mismo o a la Oficina de Atención al Guardia Civil, cuestiones, propuestas o sugerencias.
+b.1) Colectivo: Personal de la Guardia Civil, participantes en los procesos de elección del Consejo de la Guardia Civil, conforme a la legislación que regule el proceso electoral (Representantes de la Administración, Delegados de las distintas Asociaciones Profesionales de la Guardia Civil, Censo electoral, Candidatos, Junta Electoral etc.), Vocales del Consejo y otro personal respecto de sus intervenciones en las sesiones de Pleno y de las Comisiones dependientes de aquél, así como todo aquél que dirija al Consejo o a la Oficina de Atención al Guardia Civil, cuestiones, propuestas o sugerencias.
 
-b.2) Procedencia y procedimiento de recogida: Del propio interesado, en formularios, soporte papel y vía telemática. Del fichero de Gestión de Personal. De la Orden Comunicada del Ministro del Interior en cada convocatoria electoral, donde se regule la composición de la Junta Electoral.
+b.2) Procedencia y procedimiento de recogida: Del propio interesado, en formularios, soporte papel y vía telemática. Del fichero de Gestión de Personal. De la Orden Comunicada del Ministro del Interior en cada convocatoria electoral, en la que se regule la composición de la Junta Electoral.
 
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+c) Estructura básica del fichero:
 
 c.1) Descripción de los datos:
 
 Datos de carácter identificativo: DNI/NIF, nombre y apellidos, dirección postal, dirección electrónica, teléfono, imagen/voz, número de registro personal y firma electrónica.
 
-Datos de circunstancias sociales.
+Datos de circunstancias sociales: Situación militar.
 
-Datos de detalle del empleo.
+Datos de detalle del empleo: Cuerpo/Escala, categoría/grado, puesto de trabajo.
 
 c.2) Sistema de tratamiento: Parcialmente automatizado.
 
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: No se prevé comunicación de datos.
+d) Comunicaciones de datos previstas: No se prevé comunicación de datos.
 
-e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
+e) Transferencias internacionales de datos previstas a terceros países: No se tiene previsto efectuar transferencias internacionales de datos.
 
-f) Órgano responsable del fichero: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil), C/ Guzmán el Bueno, 110, 28003 Madrid.
+f) Órgano responsable del fichero: Dirección General de la Guardia Civil, calle Guzmán el Bueno, 110, 28003 Madrid.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil) – Subdirección General de Personal, C/ Guzmán el Bueno, 110, 28003 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Guardia Civil, Subdirección General de Personal, calle Guzmán el Bueno, 110, 28003 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
@@ -3572,45 +3564,45 @@ h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
 42. FICHERO: GESTIÓN DE PERSONAL.
 
-a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
+a) Identificación del fichero o tratamiento:
 
 a.1) Identificación del fichero: Gestión de personal.
 
-a.2) Finalidad: Gestión de los recursos humanos de la Dirección General de la Policía y de la Guardia Civil (ámbito Guardia Civil).
+a.2) Finalidad: Gestión de los recursos humanos de la Dirección General de la Guardia Civil y del Centro Universitario de la Guardia Civil (CUGC).
 
-a.3) Usos previstos: Administrativo, incluido el relativo a planes de pensiones.
+a.3) Usos previstos: Administrativo, incluido el relativo a planes de pensiones y adopción de medidas de conciliación y agrupamiento familiar.
 
-b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
+b) Origen de los datos:
 
-b.1) Colectivo: La totalidad de los componentes y personas titulares de puestos de trabajo de la Dirección General de la Policía y de la Guardia Civil (ámbito Guardia Civil).
+b.1) Colectivo: La totalidad de los componentes y personas titulares de puestos de trabajo de la Dirección General de la Guardia Civil y del CUGC.
 
-b.2) Procedencia y procedimiento de recogida: Del propio interesado, de publicaciones oficiales, de fuentes accesibles al publico y de la resolución de los expedientes respectivos, mediante formularios en soporte papel.
+b.2) Procedencia y procedimiento de recogida: Del propio interesado o su representante legal, de publicaciones oficiales, de fuentes accesibles al público y de la resolución de los expedientes respectivos, mediante formularios en soporte papel.
 
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+c) Estructura básica del fichero:
 
 c.1) Descripción de los datos:
 
 Datos de carácter identificativo: DNI/NIF, nombre y apellidos, dirección habitual (vía, número y población), dirección electrónica, teléfono y número de registro personal.
 
-Datos de características personales.
+Datos de circunstancias sociales: Estado civil, datos de familia.
 
-Datos de circunstancias sociales.
+Datos profesionales: Formación, titulaciones/experiencia profesional.
 
-Datos profesionales.
+Datos de detalle de empleo: Cuerpo/Escala, categoría/grado y organización/funciones.
 
-Datos de detalle de empleo.
+Datos económico-financieros y de seguros: Datos bancarios, Número de la Seguridad Social/Mutualidad.
 
-Datos económico-financieros y de seguros.
+Otros datos de personas vinculadas: DNI/NIF, nombre y apellidos, dirección habitual, dirección de correo electrónico, teléfonos de contacto y vínculo familiar de familiares designados para su pronta localización y aviso en supuestos de especial gravedad u otro tipo de contingencias.
 
 c.2) Sistema de tratamiento: Parcialmente automatizado.
 
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: Al Ministerio Fiscal, Jueces y Tribunales, de conformidad con los artículos 11 y 21 de la Ley Orgánica 15/1999, de 13 de diciembre. Al Instituto Social de la Fuerzas Armadas (ISFAS), en virtud de lo establecido en los artículos 3 y 4 del Real Decreto Legislativo 1/2000, de 9 de junio, por el que se aprueba el Texto Refundido de la Ley sobre Seguridad Social de las Fuerzas Armadas. A las entidades gestoras y depositarias, y a la Comisión de Control, del Plan de Pensiones de la Administración General del Estado, de conformidad con el artículo 19 de la Ley 61/2003, de 30 de diciembre de Presupuestos Generales del Estado, para el año 2004 y el Texto Refundido de la Ley de Regulación de los Planes y Fondos de Pensiones, aprobado por el Real Decreto Legislativo 1/2002, de 29 de noviembre.
+d) Comunicaciones de datos previstas: Al Ministerio Fiscal, Jueces y Tribunales, de conformidad con los artículos 11 y 21 de la Ley Orgánica 15/1999, de 13 de diciembre. Al Instituto Social de la Fuerzas Armadas (ISFAS), en virtud de lo establecido en los artículos 3 y 4 del Real Decreto Legislativo 1/2000, de 9 de junio, por el que se aprueba el Texto Refundido de la Ley sobre Seguridad Social de las Fuerzas Armadas. A las entidades gestoras y depositarias, y a la Comisión de Control del Plan de Pensiones de la Administración General del Estado, de conformidad con el artículo 19 de la Ley 61/2003, de 30 de diciembre de Presupuestos Generales del Estado para el año 2004 y el Texto Refundido de la Ley de Regulación de los Planes y Fondos de Pensiones, aprobado por el Real Decreto Legislativo 1/2002, de 29 de noviembre.
 
-e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
+e) Transferencias internacionales de datos previstas a terceros países: No se prevén.
 
-f) Órgano responsable del fichero: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil), C/ Guzmán el Bueno, 110, 28003 Madrid.
+f) Órgano responsable del fichero: Dirección General de la Guardia Civil, calle Guzmán el Bueno, 110, 28003 Madrid.
 
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Policía y de la Guardia Civil (Ámbito Guardia Civil) - Jefatura de Personal, C/ Guzmán el Bueno, 110, 28003 Madrid.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Guardia Civil, Jefatura de Personal, calle Guzmán el Bueno, 110, 28003 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
@@ -7197,6 +7189,8 @@ f) Órgano responsable del fichero: Secretaría General Técnica.
 g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica. Subdirección General de Recursos. Amador de los Ríos, n.º 5, 28071 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
+
+> Se modifica por el art. único de la Orden INT/1865/2016, de 30 de noviembre. Ref. BOE-A-2016-11797.
 
 > Se modifica por el art. único de la Orden INT/2023/2015, de 4 de septiembre. Ref. BOE-A-2015-10615.
 

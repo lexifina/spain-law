@@ -370,37 +370,45 @@ h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
 10. FICHERO: PDyRH.
 
-a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
+a) Identificación del fichero o tratamiento:
 
 a.1) Identificación del fichero: PDyRH.
 
-a.2) Finalidad y usos previstos: Averiguación de personas desaparecidas y cadáveres/restos humanos sin identificar, con el fin de poder resolver las investigaciones relacionadas con las desapariciones de personas, buscando la colaboración entre las Fuerzas y Cuerpos de Seguridad, tanto nacionales como autonómicas.
+a.2) Finalidad: Identificación de personas desaparecidas y cadáveres/restos humanos sin identificar, con la finalidad de poder resolver el máximo número de investigaciones relacionadas con las desapariciones de personas, buscando la colaboración entre las Fuerzas y Cuerpos de Seguridad, tanto nacionales como autonómicas.
 
-b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
+a.3) Usos previstos: Averiguación de personas desaparecidas y la identificación de restos cadavéricos.
+
+b) Origen de los datos:
 
 b.1) Colectivo: Personas desaparecidas, cadáveres y restos humanos sin identificar.
 
-b.2) Procedencia y procedimiento de recogida: Denuncias por desaparición de personas y diligencias policiales de hallazgo de cadáveres o restos humanos sin identificar.
+b.2) Procedencia y procedimiento de recogida: Denuncias por desaparición de personas, diligencias policiales de hallazgo de cadáveres o restos humanos sin identificar y cotejo con fichero automatizado ADDNIFIL, del que se obtendrán las impresiones dactilares y fotografía de personas desaparecidas o halladas a partir de los datos identificativos que se estimen necesarios. No se admitirán consultas masivas.
 
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos y, en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+c) Estructura básica del fichero:
 
 c.1) Descripción de los datos:
 
-– en relación con el colectivo del apartado b.1): Datos identificativos, datos relativos a la salud, datos de características personales.
+c.1.1) Datos relativos al colectivo del apartado b.1):
 
-– datos relativos a las personas que denuncian la desaparición: Datos identificativos.
+Datos identificativos: Nombre y apellidos, apodo, sexo, fecha y lugar de nacimiento, nombre de los progenitores, nacionalidad, número, fecha y país de expedición del documento de identificación, domicilio.
+
+Datos relativos a la salud: Amnesia (sí/no).
+
+Datos de características personales: Dentadura, peso, constitución física, cabello, ojos, piel, nariz, mentón, cara, presencia de gafas, tatuajes, cicatrices, lunares o verrugas, malformaciones, implantes estéticos, «piercing» o perforaciones, amputaciones.
+
+c.1.2) Datos identificativos de las personas que denuncian la desaparición: Nombre y apellidos, fecha y lugar de nacimiento, número de documento de identificación, nacionalidad, nombre de los progenitores, domicilio, teléfono, grado de parentesco.
 
 c.2) Sistema de tratamiento: Automatizado.
 
-d) Comunicaciones de datos previstas, indicando, en su caso, los destinatarios o categorías de destinatarios: Dirección General de la Policía, Dirección General de la Guardia Civil, Policías Autonómicas.
+d) Comunicaciones de datos previstas: Dirección General de la Policía, Dirección General de la Guardia Civil y Policías de las Comunidades Autónomas.
 
-e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
+e) Transferencias internacionales de datos previstas a terceros países: No se prevén.
 
 f) Órgano responsable del fichero: Secretaría de Estado de Seguridad.
 
 g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Subdirección General de Sistemas de Información y Comunicaciones para la Seguridad, calle López Santos, 4, 28230 Las Rozas (Madrid).
 
-h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
+h) Nivel de seguridad exigible: Alto.
 
 11. FICHERO: SIMASC.
 
@@ -441,6 +449,38 @@ f) Órgano responsable del fichero: Secretaría de Estado de Seguridad.
 g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Subdirección General de Sistemas de Información y Comunicaciones para la Seguridad, calle López Santos, 4 y 6, 28230 Las Rozas (Madrid).
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
+
+12. FICHERO: ACREDITACIONES.
+
+a) Identificación del fichero o tratamiento:
+
+a.1) Identificación del fichero: Acreditaciones.
+
+a.2) Finalidad: Creación de un canal de comunicación, a través de una plataforma web (portal), de datos identificativos para la posterior verificación de idoneidad, por parte de las Fuerzas y Cuerpos de Seguridad (FCS), para el acceso de personas a zonas restringidas de seguridad o de influencia para la seguridad ciudadana.
+
+a.3) Usos previstos: El portal Acreditaciones concentrará en un único lugar los datos de las personas que deberán ser acreditadas para el acceso a zonas restringidas de seguridad o zonas de influencia para la seguridad para la seguridad ciudadana. Será la propia persona a acreditar, representante, contratante o responsable de emitir las correspondientes acreditaciones o cualquier otro interviniente con la información necesaria, siendo informado en estos casos el propio interesado de tal extremo, quien introduzca la información necesaria para que por parte de las FCS procedan a la verificación de idoneidad. Las FCS podrán interactuar con el portal mediante la descarga de los datos en él introducidos, garantizando la confidencialidad a terceros (ajenos a FCS) de los datos en él contenidos, especialmente aquellos referentes a antecedentes penales o policiales.
+
+b) Origen de los datos:
+
+b.1) Colectivo: Ciudadanos nacionales o extranjeros, no pertenecientes a FCS, que por razones profesionales deban tener acceso a zonas restringidas de seguridad o de influencia para la seguridad ciudadana.
+
+b.2) Procedencia y procedimiento de recogida: Los datos serán recabados a través de un portal vía web mediante registro voluntario de los interesados, representante, contratante o responsable de emitir las correspondientes acreditaciones o por cualquier otro interviniente con la información necesaria, siendo informado, en estos casos, el propio interesado de tal extremo.
+
+c) Estructura básica del fichero:
+
+c.1) Descripción de los datos: Nombre y apellidos, DNI, NIE, NIF o pasaporte, fecha, localidad y provincia de nacimiento, nacionalidad, nombre de los progenitores, dirección postal de domicilio y fotografía (subida por el usuario).
+
+c.2) Sistema de tratamiento: Automatizado.
+
+d) Comunicaciones de datos previstas: Fuerzas y Cuerpos de Seguridad.
+
+e) Transferencias internacionales de datos previstas a terceros países: No se prevén.
+
+f) Órgano responsable del fichero: Secretaría de Estado de Seguridad.
+
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Subdirección General de Sistemas de Información y Comunicaciones para la Seguridad, calle López Santos, 6, 28230 Las Rozas (Madrid).
+
+h) Nivel de seguridad exigible: Alto.
 
 ## Dirección General de la Policía.
 
@@ -716,7 +756,7 @@ g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, re
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
-8. Fichero: DIFO.
+8. FICHERO: DIFO.
 
 a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
 
@@ -747,6 +787,78 @@ f) Órgano responsable del fichero: Comisaría General de Policía Judicial, cal
 g) Servicio o unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General de la Comisaría General de Policía Judicial, calle Julián González Segador, sin número, 28043 Madrid.
 
 h) Nivel de seguridad exigible: Alto
+
+9. FICHERO: FALSIFI
+
+a) Identificación del fichero o tratamiento:
+
+a.1) Identificación del fichero: FALSIFI.
+
+a.2) Finalidad: Registrar todos aquellos datos que aparezcan en los documentos de identidad y de viaje falsos interceptados que puedan ser considerados falsos, falsificados en la página biográfica, uso indebido, robados en blanco, obtenidos fraudulentamente, dañados, alterados en sus páginas interiores, falsificación de dispositivo electrónico auténtico conteniendo documento falso u otras alteraciones, tales como documentos y cartas de identidad, pasaportes, permisos de residencia o estancia para extranjeros y cédulas de identidad, permisos de conducir, autorizaciones de regreso, libretas de marino, visados, documentos de viaje para apátridas, refugiados y asilados, sellos de control fronterizo, billetes de pasajero, tarjetas de embarque y certificados.
+
+a.3) Usos previstos: Investigación policial.
+
+b) Origen de los datos:
+
+b.1) Colectivo: Personas portadoras de documentos de identidad y de viaje falsos.
+
+b.2) Procedencia y procedimiento de recogida: Se grabarán los datos de los documentos de identidad y de viaje falsos señalados en el apartado a.2), localizados en un control fronterizo, en cualquier otro control policial o en el marco de las investigaciones sobre redes de inmigración ilegal y falsificación de documentos.
+
+c) Estructura básica del fichero:
+
+c.1) Descripción de los datos:
+
+Datos identificativos: Nombre, apellidos, sexo, domicilio, lugar y fecha de nacimiento, nombre de los progenitores.
+
+Datos reales o ficticios relacionados con el documento: Fechas de expedición y caducidad, número de soporte del documento, fotografía, medidas de seguridad alteradas, sellos húmedos o secos y etiquetas adheridas.
+
+Datos relacionados con la detección del documento de viaje o identidad falso: Control policial o fronterizo en el que se hubiera detectado, organismo en el que se hubiera realizado o intentado realizar el trámite de extranjería o la investigación policial con expresión de lugar, motivo fecha, hora y duración.
+
+c.2) Sistema de tratamiento: Parcialmente automatizado.
+
+d) Comunicaciones de datos previstas: A otras Fuerzas y Cuerpos de Seguridad en virtud de lo previsto en los artículos 3 y 45 de la Ley Orgánica 2/1986, de 13 de marzo; a los órganos jurisdiccionales y Ministerio Fiscal, de conformidad con lo establecido en el artículo 11.2.d) de la Ley Orgánica 15/1999, de 13 de diciembre.
+
+e) Transferencias internacionales de datos previstas a terceros países: A Organismos Internacionales y países extranjeros en los términos establecidos en los tratados y convenios en los que España sea parte (Interpol, Europol, Sistema de Información Schengen, etc.).
+
+f) Órgano responsable del fichero: Comisaría General de Extranjería y Fronteras, calle General Pardiñas, 90, 28006 Madrid.
+
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General de la Comisaría General de Extranjería y Fronteras, calle General Pardiñas, 90, 28006 Madrid.
+
+h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
+
+10. FICHERO: VIDEOVIGILANCIA.
+
+a) Identificación del fichero o tratamiento:
+
+a.1) Identificación del fichero: Videovigilancia.
+
+a.2) Finalidad: Garantizar la seguridad y protección interior y exterior de las Comisarías del Cuerpo Nacional de Policía y de los edificios, instalaciones y centros vigilados por el mismo.
+
+a.3) Usos previstos: Seguridad y protección.
+
+b) Origen de los datos:
+
+b.1) Colectivo: Personas que se encuentren en zonas videovigiladas de las Comisarías del Cuerpo Nacional de Policía o de los edificios, instalaciones y centros vigilados por el mismo.
+
+b.2) Procedencia y procedimiento de recogida: Circuito cerrado de televisión.
+
+c) Estructura básica del fichero:
+
+c.1) Descripción de los datos:
+
+Datos de carácter identificativo: Imagen/voz.
+
+c.2) Sistema de tratamiento: Automatizado.
+
+d) Comunicaciones de datos previstas: órganos judiciales, Ministerio Fiscal y otros servicios del Cuerpo Nacional de Policía para el ejercicio de las funciones legalmente encomendadas, así como a otras Fuerzas y Cuerpos de Seguridad para el ejercicio de sus funciones de protección de la seguridad pública, conforme a lo establecido en el artículo 22.2 de Ley Orgánica 15/1999, de 13 de diciembre, en cumplimiento de los principios de colaboración, mutuo auxilio y cooperación e información recíprocas que establece la Ley Orgánica 2/1986, de 13 de marzo.
+
+e) Transferencias internacionales de datos previstas a terceros países: No se prevén.
+
+f) Órgano responsable del fichero: Subdirección General de Logística, calle Julián González Segador, sin número, 28043 Madrid.
+
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General de la Subdirección General de Logística, calle Julián González Segador, sin número, 28043 Madrid.
+
+i) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
 
 ## Dirección General de la Guardia Civil.
 
@@ -909,6 +1021,42 @@ e) Transferencias internacionales de datos previstas a terceros países, con ind
 f) Órgano responsable del fichero: Dirección General de la Guardia Civil, calle de Guzmán el Bueno 110, 28003 Madrid.
 
 g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Guardia Civil, Jefatura de Asistencia al Personal, calle de Guzmán el Bueno, 110, 28003 Madrid.
+
+h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
+
+5. FICHERO: USUARIOS BIBLIOTECA.
+
+a) Identificación del fichero o tratamiento:
+
+a.1) Identificación del fichero: Usuarios Biblioteca.
+
+a.2) Finalidad: Registro de usuarios de las bibliotecas existentes en los distintos centros dependientes de la Dirección General de la Guardia Civil y firma del recibo de préstamo de fondos bibliográficos.
+
+a.3) Usos previstos: Administrativos.
+
+b) Origen de los datos:
+
+b.1) Colectivo: Cualquier persona que quiera hacer uso de los fondos bibliográficos, bien directamente (personal de la Guardia Civil y familiares, personal en reserva, personal retirado y familiares, o cualquier otro personal que realice su trabajo en dependencias de la Guardia Civil), o previa autorización.
+
+b.2) Procedencia y procedimiento de recogida: Del propio interesado, mediante ficha-recibo firmado en papel y ficha informática.
+
+c) Estructura básica del fichero:
+
+c.1) Descripción de los datos:
+
+Datos de carácter identificativo: Nombre y apellidos, DNI/NIF, dirección, teléfono, firma.
+
+Datos académicos y profesionales: Cuerpo/escala, categoría/grado, puesto de trabajo.
+
+c.2) Sistema de tratamiento: Parcialmente automatizado.
+
+d) Comunicaciones de datos previstas: No se prevé comunicación de datos.
+
+e) Transferencias internacionales de datos previstas a terceros países: No se prevén.
+
+f) Órgano responsable del fichero: Dirección General de la Guardia Civil, calle Guzmán el Bueno, 110, 28003 Madrid.
+
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Dirección General de la Guardia Civil, Jefatura de Asistencia al Personal, calle Guzmán el Bueno 110, 28003 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
@@ -1665,6 +1813,10 @@ f) Órgano responsable del fichero: Secretaría General Técnica.
 g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica. Subdirección General de Asociaciones, Documentación y Publicaciones, calle Cea Bermúdez, 35-37, 28071 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
+
+> Se modifica por el art. único de la Orden INT/1865/2016, de 30 de noviembre. Ref. BOE-A-2016-11797.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 20, de 24 de enero de 2017. Ref. BOE-A-2017-735.
 
 > Se modifica por el art. único de la Orden INT/2956/2015, de 28 de diciembre. Ref. BOE-A-2016-712.
 
