@@ -1,0 +1,23 @@
+Los medicamentos veterinarios están sometidos a una estricta regulación con el objetivo de garantizar su calidad, seguridad y eficacia.
+
+Esta regulación aparece recogida concretamente en la siguiente normativa: el texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, aprobado mediante Real Decreto Legislativo 1/2015, de 24 de julio; la Ley 8/2003, de 24 de abril, de sanidad animal; el Real Decreto 109/1995, de 27 de enero, sobre medicamentos veterinarios; y el Real Decreto 1246/2008, de 18 de julio, por el que se regula el procedimiento de autorización, registro y farmacovigilancia de los medicamentos veterinarios fabricados industrialmente.
+
+Por otro lado, en los últimos años, ha surgido una creciente demanda por parte de los ciudadanos del posible uso de medios electrónicos, especialmente Internet, para facilitar la adquisición de estos medicamentos.
+
+Se ha producido en los últimos años una extraordinaria expansión de las redes de telecomunicaciones y, en especial, de internet como vehículo de transmisión e intercambio de todo tipo de información así como medio en el que se efectúa de forma creciente la compraventa de todo tipo de productos, incluidos los medicamentos, y por ello se estableció un marco europeo para estas actividades en la Directiva 2000/31/CE, del Parlamento Europeo y del Consejo, de 8 de junio, relativa a determinados aspectos de los servicios de la sociedad de la información, en particular, el comercio electrónico en el mercado interior. Esta disposición se incorporó al ordenamiento jurídico nacional, mediante la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico. Esta ley establece, en su disposición adicional segunda, que la prestación de servicios de la sociedad de la información relacionados con los medicamentos y los productos sanitarios se regirá por lo dispuesto en su legislación específica.
+
+Al respecto, el texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios limita la venta por correspondencia y por procedimientos telemáticos a los medicamentos no sujetos a prescripción en su artículo 3.5, estableciendo que el Gobierno desarrollaría esta modalidad de venta, siempre teniendo en cuenta que, en el caso de los medicamentos veterinarios, se dispensen por uno de los establecimientos descritos en los párrafos a) y b) del artículo 38.2, con la intervención de un farmacéutico, debiendo asimismo cumplir con los requisitos establecidos en la Ley 34/2002, de 11 de julio.
+
+Por ello, a través de este real decreto se realiza el correspondiente desarrollo reglamentario del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, en lo relativo a la venta a distancia de medicamentos veterinarios de manera que esta se realice con las necesarias garantías sanitarias.
+
+Por otro lado, es de aplicación subsidiaria a esta normativa, el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado mediante Real Decreto Legislativo 1/2007, de 16 de noviembre.
+
+En lo que se refiere a la Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado, este proyecto se adecua a la misma, por cuanto una vez que un establecimiento detallista o una oficina de farmacia haya presentado a la comunidad autónoma en que radica el establecimiento, la comunicación previa de su intención de proceder a la venta a distancia, puede operar en todo el territorio nacional. La previsión de la citada comunicación previa se estima necesaria y proporcionada, dado que concurre la razón imperiosa de la protección de la salud pública.
+
+Este real decreto tiene la condición de legislación sobre productos farmacéuticos y se dicta al amparo de lo dispuesto en el artículo 149.1.16.ª, tercer inciso, de la Constitución Española, según se recoge en la disposición final primera del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, y en la disposición final primera de la Ley 8/2003, de 24 de abril.
+
+En el proceso de elaboración de este real decreto se ha consultado a las comunidades autónomas, y se ha dado audiencia a los sectores afectados. Asimismo, se ha sometido a informe de la Agencia Española de Protección de Datos.
+
+En su virtud, a propuesta de la Ministra de Agricultura y Pesca, Alimentación y Medio Ambiente y de la Ministra de Sanidad, Servicios Sociales e Igualdad, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 25 de noviembre de 2016,
+
+DISPONGO:

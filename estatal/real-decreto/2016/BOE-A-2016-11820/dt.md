@@ -1,0 +1,3 @@
+## Disposición transitoria única. Inicio de la venta a distancia a través de sitios web.
+
+La inclusión de datos en las páginas web, o la creación de los sitios web mencionados en los artículos 6, 7 y 8, determinará el momento en el que podrá llevarse a cabo la venta a distancia mediante estos sitios. No obstante, si en dos meses desde la publicación de este real decreto no se hubiera creado aún alguno de los sitios web de la Administración General del Estado, las oficinas de farmacia y establecimientos comerciales detallistas de medicamentos veterinarios que hubieran presentado la comunicación a que se refiere el artículo 4 podrán iniciar la actividad de venta al público regulada en esta disposición.
