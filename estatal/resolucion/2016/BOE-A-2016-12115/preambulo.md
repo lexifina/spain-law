@@ -1,0 +1,3 @@
+El Consejo de Ministros en su reunión del día 16 de diciembre de 2016 ha adoptado un Acuerdo por el que se instruye a las entidades del sector público estatal para dar publicidad a determinados contratos no sujetos a regulación armonizada, en el contexto normativo del vigente Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre.
+
+A los efectos de dar publicidad al mencionado Acuerdo, esta Dirección General del Patrimonio del Estado, en el ejercicio de sus funciones en materia de contratación pública, ha resuelto disponer la publicación del mismo en el «Boletín Oficial del Estado» como anexo a la presente Resolución.
