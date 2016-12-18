@@ -8,44 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2016-12-18 by BOE-A-2016-11951. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [preambulo](preambulo.md)
-- [pr](pr.md)
-- [Artículo único](aunico.md)
-- [DISPOSICIONES TRANSITORIAS](dt.md)
-- [Primera](primera.md)
-- [Segunda](segunda.md)
-- [Tercera](tercera.md)
-- [Cuarta](cuarta.md)
-- [DISPOSICIÓN DEROGATORIA](dd.md)
-- [firma](firma.md)
-- [REGLAMENTACIÓN](reglamentacion.md)
-- [TÍTULO PRELIMINAR](tpreliminar.md)
-- [Art 1](art1.md)
-- [TÍTULO I](ti.md)
-- [Art 2](art2.md)
-- [TÍTULO II](tii.md)
-- [Art 3](art3.md)
-- [Art 4](art4.md)
-- [Art 5](art5.md)
-- [Art 6](art6.md)
-- [Art 7](art7.md)
-- [Art 8](art8.md)
-- [TÍTULO III](tiii.md)
-- [Art 9](art9.md)
-- [TÍTULO IV](tiv.md)
-- [Art 10](art10.md)
-- [Art 11](art11.md)
-- [TÍTULO V](tv.md)
-- [Art 12](art12.md)
-- [Art 13](art13.md)
-- [TÍTULO VI](tvi.md)
-- [Art 14](art14.md)
-- [Art 15](art15.md)
-- [TÍTULO VII](tvii.md)
-- [Art 16](art16.md)
-- [Art 17](art17.md)
-- [Art 18](art18.md)
-- [TÍTULO VIII](tviii.md)
-- [Art 19](art19.md)
+- [BOE publisher notice](preambulo.md)
