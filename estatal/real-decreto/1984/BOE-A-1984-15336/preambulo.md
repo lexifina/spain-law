@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 189, de 8 de agosto de 1984. Ref. BOE-A-1984-17658.
+Norma derogada, con efectos de 18 de diciembre de 2016, por la disposición derogatoria única del Real Decreto 677/2016, de 16 de diciembre. Ref. BOE-A-2016-11951#dd.
