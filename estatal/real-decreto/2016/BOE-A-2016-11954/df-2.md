@@ -1,0 +1,3 @@
+## Disposición final segunda. Tratamiento contable de los «Títulos habilitantes» de la Sociedad Estatal Loterías y Apuestas del Estado, S.A.
+
+En atención a sus especiales características, y teniendo en cuenta lo dispuesto en el artículo 34, apartado 4 del Código de Comercio, los títulos habilitantes de la Sociedad Estatal Loterías y Apuestas del Estado, S.A. que reflejan el derecho de dicha sociedad a explotar los juegos cuya explotación le fue cedida por el Estado, no serán objeto de amortización en los términos previstos en el apartado 2 de la Norma de Registro y Valoración 5.ª del Plan General de Contabilidad, debiendo ser objeto de análisis al menos anualmente su eventual deterioro.

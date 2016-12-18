@@ -2,9 +2,9 @@
 
 ## 1.ª Documentos que integran las cuentas anuales.
 
-Las cuentas anuales de las pequeñas y medianas empresas comprenden el balance, la cuenta de pérdidas y ganancias, el estado de cambios en el patrimonio neto y la memoria. Estos documentos forman una unidad y deben ser redactados de conformidad con lo previsto en el Código de Comercio, en el Texto Refundido de la Ley de Sociedades Anónimas, en la Ley de Sociedades de Responsabilidad Limitada y en este Plan General de Contabilidad de Pequeñas y Medianas Empresas; en particular, sobre la base del Marco Conceptual de la Contabilidad y con la finalidad de mostrar la imagen fiel del patrimonio, de la situación financiera y de los resultados de la empresa.
+Las cuentas anuales de las pequeñas y medianas empresas comprenden el balance, la cuenta de pérdidas y ganancias y la memoria. Estos documentos forman una unidad y deben ser redactados de conformidad con lo previsto en el Código de Comercio y el texto refundido de la Ley de Sociedades de Capital y en este Plan General de Contabilidad de Pequeñas y Medianas Empresas; en particular, sobre la base del Marco Conceptual de la Contabilidad y con la finalidad de mostrar la imagen fiel del patrimonio, de la situación financiera y de los resultados de la empresa.
 
-Sin perjuicio de lo anterior estas empresas podrán incorporar en sus cuentas anuales un estado de flujos de efectivo, que se elaborará y presentará de acuerdo con lo establecido en el Plan General de Contabilidad.
+Sin perjuicio de lo anterior, estas empresas podrán incorporar en sus cuentas anuales un estado de cambios en el patrimonio neto, y un estado de flujos de efectivo que se elaborará y presentará de acuerdo con lo establecido en el Plan General de Contabilidad.
 
 ## 2.ª Formulación de cuentas anuales.
 
@@ -20,7 +20,7 @@ Sin perjuicio de lo anterior estas empresas podrán incorporar en sus cuentas an
 
 1. Las cuentas anuales de las empresas que apliquen este Plan General de Contabilidad de Pequeñas y Medianas Empresas se adaptarán a los modelos para pequeñas y medianas empresas.
 
-2. El contenido de la memoria que se incluye en esta tercera parte del Plan General de Contabilidad de Pequeñas y Medianas Empresas, tiene carácter de información mínima a cumplimentar por las empresas que puedan utilizarla. Adicionalmente, siempre que dichas empresas realicen operaciones cuya información en memoria esté regulada en los modelos normal o abreviado de las cuentas anuales incluidos en la tercera parte del Plan General de Contabilidad, habrán de incluir dicha información en su memoria. Entre estas operaciones pueden mencionarse: coberturas contables, combinaciones de negocios e información sobre el medio ambiente, entre otras.
+2. Cuando el contenido de la memoria que se incluye en esta tercera parte del Plan General de Contabilidad de Pequeñas y Medianas Empresas, no sea suficiente para mostrar la imagen fiel del patrimonio, de la situación financiera y de los resultados de la empresa, se suministrarán las informaciones complementarias precisas para alcanzar ese resultado.
 
 ## 4.ª Normas comunes al balance, la cuenta de pérdidas y ganancias y el estado de cambios en el patrimonio neto.
 
@@ -233,3 +233,7 @@ b) Los ascendientes, descendientes y hermanos y los respectivos cónyuges o pers
 c) Los ascendientes, descendientes y hermanos del cónyuge o persona con análoga relación de afectividad; y
 
 d) Las personas a su cargo o a cargo del cónyuge o persona con análoga relación de afectividad.
+
+> Se modifican los apartados 1 y 3.2 por el art. 2.4 y 5 del Real Decreto 602/2016, de 2 de diciembre. Ref. BOE-A-2016-11954#as.
+
+> Esta modificación produce efectos desde el 1 de enero de 2016 en los términos establecidos en la disposición adicional 2 del citado Real Decreto.

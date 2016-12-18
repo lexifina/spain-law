@@ -475,9 +475,7 @@ En particular, se informará de los criterios empleados para reconocer y valorar
 
 4. Inmovilizado intangible; indicando los criterios utilizados de capitalización o activación, amortización y correcciones valorativas por deterioro.
 
-Justificación de las circunstancias que han llevado a calificar como indefinida la vida útil de un inmovilizado intangible.
-
-En particular, deberá indicarse de forma detallada el criterio empleado en el cálculo y deterioro del fondo de comercio contabilizado en las cuentas anuales individuales de las sociedades incluidas en la consolidación, así como en el resto de inmovilizados intangibles con vida útil indefinida.
+En particular, deberá indicarse de forma detallada el criterio empleado en el cálculo y deterioro del fondo de comercio contabilizado en las cuentas anuales individuales de las sociedades incluidas en la consolidación, así como en el resto de inmovilizados intangibles.
 
 5. Inmovilizado material; indicando los criterios sobre amortización, correcciones valorativas por deterioro y reversión de las mismas, capitalización de gastos financieros, costes de ampliación, modernización y mejoras, costes de desmantelamiento o retiro, así como los costes de rehabilitación del lugar donde se asiente un activo y los criterios sobre la determinación del coste de los trabajos efectuados por el grupo para su inmovilizado.
 
@@ -641,19 +639,19 @@ Esta información también deberá expresarse para las combinaciones de negocios
 
 2. La empresa realizará una conciliación entre el importe en libros del fondo de comercio al principio y al final del ejercicio, mostrando por separado:
 
-a) El importe bruto del mismo y las correcciones valorativas por deterioro acumuladas al principio del ejercicio.
+a) El importe bruto del mismo, el importe de las amortizaciones acumuladas y las correcciones valorativas por deterioro acumuladas al principio del ejercicio.
 
 b) El fondo de comercio adicional reconocido durante el periodo, diferenciando el fondo de comercio incluido en un grupo enajenable de elementos que se haya clasificado como mantenido para la venta, de acuerdo con las normas de registro y valoración. Asimismo se informará sobre el fondo de comercio dado de baja durante el periodo sin que hubiera sido incluido previamente en ningún grupo enajenable de elementos clasificado como mantenido para la venta.
 
 c) Los ajustes que procedan del reconocimiento posterior de activos por impuesto diferido efectuado durante el periodo provisional de valoración.
 
-d) Las correcciones valorativas por deterioro reconocidas durante el ejercicio.
+d) La amortización del ejercicio y, en su caso, las correcciones valorativas por deterioro reconocidas durante el ejercicio. En particular se informará sobre las estimaciones realizadas para determinar la vida útil del fondo de comercio, y el método de amortización empleado.
 
 e) Cualesquiera otros cambios en el importe en libros durante el ejercicio, y
 
-f) El importe bruto del fondo de comercio y las correcciones valorativas por deterioro acumuladas al final del ejercicio.
+f) El importe bruto del fondo de comercio, el importe de las amortizaciones acumuladas, y las correcciones valorativas por deterioro acumuladas al final del ejercicio.
 
-3. Descripción de los factores que hayan contribuido al registro del fondo de comercio así como, se justificará e indicará el importe del fondo de comercio y de otros inmovilizados intangibles de vida útil indefinida, atribuidos a cada unidad generadora de efectivo.
+3. Descripción de los factores que hayan contribuido al registro del fondo de comercio así como, se justificará e indicará el importe del fondo de comercio y de otros inmovilizados intangibles, atribuidos a cada unidad generadora de efectivo.
 
 4. Para cada pérdida por deterioro de cuantía significativa del fondo de comercio, se informará de lo siguiente:
 
@@ -901,7 +899,7 @@ m) El resultado del ejercicio derivado de la enajenación o disposición por otr
 
 n) El importe agregado de los desembolsos por investigación y desarrollo que se hayan reconocido como gastos durante el ejercicio, así como la justificación de las circunstancias que soportan la capitalización de gastos de investigación y desarrollo.
 
-o) Se detallarán los inmovilizados con vida útil indefinida distintos del fondo de comercio, señalando su importe, naturaleza y las razones sobre las que se apoya la estimación de dicha vida útil indefinida.
+o) Se detallarán los inmovilizados cuya vida útil no se puede determinar con fiabilidad, señalando su importe, naturaleza y las circunstancias que provocan la falta de fiabilidad en la estimación de dicha vida útil.
 
 p) Cualquier otra circunstancia de carácter sustantivo que afecte al inmovilizado intangible tales como: arrendamientos, seguros, litigios, embargos y situaciones análogas.
 
@@ -1597,7 +1595,7 @@ También deberá informarse sobre el importe de los anticipos y créditos conced
 
 Igualmente se indicarán los anticipos y créditos concedidos al personal de alta dirección y a los miembros de los órganos de administración de la sociedad dominante por las sociedades multigrupo y asociadas.
 
-7. Para las empresas que se organicen bajo la forma jurídica de sociedad anónima, se deberá especificar la participación de los administradores de la sociedad dominante en el capital de otra sociedad con el mismo, análogo o complementario género de actividad al que constituya el objeto social, así como los cargos o las funciones que en ella ejerzan, así como la realización por cuenta propia o ajena, del mismo, análogo o complementario género de actividad del que constituya el objeto social de la sociedad dominante.
+7. Para las empresas que se organicen bajo la forma jurídica de sociedad de capital se deberá informar de las situaciones de conflicto de interés en que incurran los administradores de la sociedad dominante o las personas vinculadas a ellos, en los términos regulados en el artículo 229 del texto refundido de la Ley de Sociedades de Capital.
 
 ## 29. Otra información
 
@@ -1652,5 +1650,9 @@ ESTADOS FINANCIEROS SEGMENTADOS
 | Activos del segmento Pasivos del segmento |  |  |  |  |  |  |
 | Flujos netos de efectivo de las actividades de – Operación – Inversión – Financiación |  |  |  |  |  |  |
 | Adquisiciones de activos no corrientes en el ejercicio |  |  |  |  |  |  |
+
+> Se modifica el punto 4 del apartado 4, los puntos 2 y 3 del apartado 6.1, el punto 2.o) del apartado 14 y el punto 7 del apartado 28 por el art. 3.7 a 10 del Real Decreto 602/2016, de 2 de diciembre. Ref. BOE-A-2016-11954#ap.
+
+> Esta modificación produce efectos desde el 1 de enero de 2016 en los términos establecidos en la disposición adicional 2 del citado Real Decreto.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 53, de 3 de marzo de 2011. Ref. BOE-A-2011-4036.

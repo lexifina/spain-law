@@ -1,4 +1,4 @@
-BALANCE AL CIERRE DEL EJERCICIO 200X
+## BALANCE AL CIERRE DEL EJERCICIO 200X
 
 | N° CUENTAS | ACTIVO | NOTAS de la MEMORIA | 200X | 200X-1 |
 | --- | --- | --- | --- | --- |
@@ -7,7 +7,7 @@ BALANCE AL CIERRE DEL EJERCICIO 200X
 | 201, (2801), (2901) | 1. Desarrollo. |  |  |  |
 | 202, (2802), (2902) | 2. Concesiones. |  |  |  |
 | 203, (2803), (2903) | 3. Patentes, licencias, marcas y similares. |  |  |  |
-| 204 | 4. Fondo de comercio. |  |  |  |
+| 204, (2804) | 4. Fondo de comercio. |  |  |  |
 | 206, (2806), (2906) | 5. Aplicaciones informáticas. |  |  |  |
 | 205, 209, (2805), (2905) | 6. Otro inmovilizado intangible. |  |  |  |
 |  | II. Inmovilizado material. |  |  |  |
@@ -125,6 +125,10 @@ BALANCE AL CIERRE DEL EJERCICIO 200X
 | 438 | 7. Anticipos de clientes. |  |  |  |
 | 485,568 | VI. Periodificaciones a corto plazo. |  |  |  |
 |  | TOTAL PATRIMONIO NETO Y PASIVO (A + B + C) |  |  |  |
+
+> Se modifica por el art. 1.6 del Real Decreto 602/2016, de 2 de diciembre. Ref. BOE-A-2016-11954#ap.
+
+> Esta modificación produce efectos desde el 1 de enero de 2016 en los términos establecidos en la disposición adicional 2 del citado Real Decreto.
 
 > Se modifica por el art. 4.6.1 del Real Decreto 1159/2010, de 17 de septiembre. Ref. BOE-A-2010-14621#a4.
 

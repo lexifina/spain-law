@@ -30,23 +30,25 @@ La formulación y aprobación de las cuentas anuales y, en su caso, la posterior
 
 2. Las entidades sin fines lucrativos podrán utilizar los modelos de cuentas anuales abreviados en los siguientes casos:
 
-a) Balance y memoria abreviados: las entidades en las que a la fecha de cierre del ejercicio concurran, al menos, dos de las circunstancias siguientes:
+a) Balance y memoria abreviados: las entidades en las que, a la fecha de cierre del ejercicio, concurran, al menos, dos de las circunstancias siguientes:
 
-– Que el total de las partidas del activo no supere los dos millones ochocientos cincuenta mil euros. A estos efectos, se entenderá por total activo el total que figura en el modelo del balance.
+Que el total de las partidas del activo no supere los cuatro millones de euros. A estos efectos, se entenderá por total activo el total que figura en el modelo del balance.
 
-– Que el importe neto de su volumen anual de ingresos no supere los cinco millones setecientos mil euros. A estos efectos se entenderá por importe neto del volumen anual de ingresos la suma de las partidas 1. «Ingresos de la actividad propia» y, en su caso, el importe neto de la cifra anual de negocios de la actividad mercantil.
+Que el importe neto de su volumen anual de ingresos no supere los ocho millones de euros. A estos efectos se entenderá por importe neto del volumen anual de ingresos la suma de las partidas 1. “Ingresos de la entidad por la actividad propia” y, en su caso, del importe neto de la cifra anual de negocios de la actividad mercantil.
 
-– Que el número medio de trabajadores empleados durante el ejercicio no sea superior a 50.
+Que el número medio de trabajadores empleados durante el ejercicio no sea superior a 50.
 
 b) Cuenta de resultados abreviada: las entidades en las que a la fecha de cierre del ejercicio concurran, al menos, dos de las circunstancias siguientes:
 
-– Que el total de las partidas del activo no supere los once millones cuatrocientos mil euros. A estos efectos, se entenderá por total activo el total que figura en el modelo del balance.
+Que el total de las partidas del activo no supere los once millones cuatrocientos mil euros. A estos efectos, se entenderá por total activo el total que figura en el modelo del balance.
 
-– Que el importe neto de su volumen anual de ingresos no supere los veintidós millones ochocientos mil euros. A estos efectos se entenderá por importe neto del volumen anual de ingresos la suma de las partidas 1. «Ingresos de la actividad propia» y, en su caso, el importe neto de la cifra anual de negocios de la actividad mercantil.
+Que el importe neto de su volumen anual de ingresos no supere los veintidós millones ochocientos mil euros. A estos efectos se entenderá por importe neto del volumen anual de ingresos la suma de las partidas 1. “Ingresos de la entidad por la actividad propia” y, en su caso, del importe neto de la cifra anual de negocios de la actividad mercantil.
 
-– Que el número medio de trabajadores empleados durante el ejercicio no sea superior a 250.
+Que el número medio de trabajadores empleados durante el ejercicio no sea superior a 250.
 
 Cuando una entidad, en la fecha de cierre del ejercicio, pase a cumplir dos de las circunstancias antes indicadas o bien cese de cumplirlas, tal situación únicamente producirá efectos en cuanto a lo señalado en este apartado si se repite durante dos ejercicios consecutivos.
+
+Si la entidad formase parte de un grupo de empresas en los términos descritos en la norma de elaboración de las cuentas anuales 11.ª Entidades del grupo, multigrupo y asociadas contenida en esta tercera parte, para la cuantificación de los importes se tendrá en cuenta la suma del activo, del importe neto del volumen anual de ingresos y del número medio de trabajadores del conjunto de las entidades que conformen el grupo, teniendo en cuenta las eliminaciones e incorporaciones reguladas en las normas de consolidación aprobadas en desarrollo de los principios contenidos en el Código de Comercio.
 
 3. Lo establecido en las normas siguientes para los modelos normales deberá adecuarse a las características propias de los modelos abreviados.
 
@@ -1710,8 +1712,6 @@ Se indicarán los criterios contables aplicados en relación con las siguientes 
 
 1. Inmovilizado intangible; indicando los criterios para determinar la naturaleza de los activos no generadores de flujos de efectivo, los utilizados para la capitalización o activación, amortización y correcciones valorativas por deterioro, así como para la cesión de estos activos.
 
-Justificación de las circunstancias que han llevado a calificar como indefinida la vida útil de un inmovilizado intangible
-
 2. Inmovilizado material; indicando los criterios sobre amortización, correcciones valorativas por deterioro y reversión de las mismas, capitalización de gastos financieros, costes de ampliación, modernización y mejoras, costes de desmantelamiento o retiro, así como los costes de rehabilitación del lugar donde se asiente un activo y los criterios sobre la determinación del coste de los trabajos efectuados por la entidad para su inmovilizado. En particular se indicarán los criterios seguidos para contabilizar los activos no generadores de flujos de efectivo.
 
 3. Se señalará el criterio para calificar los terrenos y construcciones como inversiones inmobiliarias, especificando para éstas los criterios señalados en el apartado anterior.
@@ -1754,7 +1754,7 @@ e. Los criterios empleados en la determinación de los ingresos o gastos procede
 
 5. Inmovilizado material, intangible e inversiones inmobiliarias
 
-1. Se detallarán los inmovilizados intangibles con vida útil indefinida y las razones por las que se apoya la estimación de dicha vida útil indefinida.
+1. Se detallarán el plazo y el método de amortización de los inmovilizados intangibles.
 
 También se especificará la información relativa a inversiones inmobiliarias, incluyéndose además una descripción de las mismas.
 
@@ -2109,5 +2109,9 @@ A tal efecto se confeccionará un documento en el que se indicará para los dist
 – Pérdidas por deterioro, amortizaciones y cualquier otra partida compensadora que afecte al elemento patrimonial.
 
 – Cualquier otra circunstancia de carácter significativo que afecte al elemento patrimonial, tales como gravámenes, afectación a fines propios o si forman parte de la dotación fundacional.
+
+> Se modifica por el art. 4.2 a 4 Real Decreto 602/2016, de 2 de diciembre. Ref. BOE-A-2016-11954#ac.
+
+> Esta modificación produce efectos desde el 1 de enero de 2016 en los términos establecidos en la disposición adicional segunda del citado Real Decreto.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 88, de 12 de abril de 2012. Ref. BOE-A-2012-4961.

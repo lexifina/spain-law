@@ -71,6 +71,7 @@
 |  |  | 2801. | Amortización acumulada de desarrollo |
 |  |  | 2802. | Amortización acumulada de concesiones administrativas |
 |  |  | 2803. | Amortización acumulada de propiedad industrial |
+|  |  | 2804 | Amortización acumulada de fondo de comercio |
 |  |  | 2805. | Amortización acumulada de derechos de traspaso |
 |  |  | 2806. | Amortización acumulada de aplicaciones informáticas |
 |  | 281. | Amortización acumulada del inmovilizado material |
@@ -119,3 +120,7 @@
 |  |  | 2955. | Deterioro de valor de créditos a largo plazo a otras partes vinculadas |
 |  | 297. | Deterioro de valor de valores representativos de deuda a largo plazo |
 |  | 298. | Deterioro de valor de créditos a largo plazo |
+
+> Se modifica el subgrupo 28 por el art. 1.14 del Real Decreto 602/2016, de 2 de diciembre. Ref. BOE-A-2016-11954#ap.
+
+> Esta modificación produce efectos desde el 1 de enero de 2016 en los términos establecidos en la disposición adicional 2 del citado Real Decreto.
