@@ -12,9 +12,9 @@
 
 5. Comisión de Defensa.
 
-6. Comisión de Economía y Competitividad.
+6. Comisión de Economía, Industria y Competitividad.
 
-7. Comisión de Hacienda y Administraciones Públicas.
+7. Comisión de Hacienda y Función Pública.
 
 8. Comisión de Presupuestos.
 
@@ -24,7 +24,7 @@
 
 11. Comisión de Empleo y Seguridad Social.
 
-12. Comisión de Industria, Energía y Turismo.
+12. Comisión de Energía, Turismo y Agenda Digital.
 
 13. Comisión de Agricultura, Alimentación y Medio Ambiente.
 
@@ -36,6 +36,10 @@
 
 17. Comisión de Igualdad.
 
+18. Comisión para el Estudio del Cambio Climático.
+
+19. Comisión para las Políticas Integrales de la Discapacidad.
+
 2. Son también Comisiones Permanentes aquellas que deban constituirse por disposición legal y las siguientes:
 
 1ª. Reglamento.
@@ -45,6 +49,8 @@
 3ª. Peticiones.
 
 3. Las Comisiones Permanentes a que se refieren los apartados anteriores deberán constituirse dentro de los diez días siguientes a la sesión constitutiva del Congreso.
+
+> Se modifica el apartado 1 por el art. único de la Reforma del Reglamento de 15 de diciembre de 2016. Ref. BOE-A-2016-12270.
 
 > Se modifica el apartado 1 por el art. único de la Reforma del Reglamento de 11 de enero de 2012. Ref. BOE-A-2012-767.
 
