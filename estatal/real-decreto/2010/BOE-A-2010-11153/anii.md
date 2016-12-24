@@ -32,6 +32,8 @@ b) Respecto a contenidos y características:
 
 4.º Deberá indicarse la clasificación a que corresponda (A o B), de acuerdo con el anexo VI y añadirse: «Contenido en metales pesados inferior a los límites autorizados para esta clasificación».
 
+5.º En el caso del sustrato de mezcla a demanda, deberá incluirse como documento de acompañamiento una declaración responsable del fabricante respecto a las características del sustrato, acorde a la solicitud del usuario.
+
 c) Respecto a las instrucciones de uso y aplicación:
 
 Se indicará cualquier información, declaración o modo de empleo necesario para el manejo seguro y un uso correcto del producto.
@@ -76,6 +78,8 @@ h) Fecha de caducidad.
 
 i) No recomendación de almacenamiento.
 
+j) Sustrato elaborado por (entidad/persona que ha realizado la mezcla) para (entidad/persona) que la pone en el mercado.
+
 3. Presentación del etiquetado.–El conjunto de las indicaciones del etiquetado obligatorio, deben estar agrupadas en la misma cara del envase, en el mismo campo visual, dentro de un cuadro y con el siguiente orden:
 
 a) La mención «SUSTRATO DE CULTIVO».
@@ -107,6 +111,10 @@ Las mezclas de sustratos formuladas por un fabricante a demanda del usuario fina
 1. Denominación de los sustratos o componentes de sustratos que componen la mezcla final, con su porcentaje volumétrico correspondiente.
 
 2. Especificaciones del producto final, reflejando sus declaraciones obligatorias y opcionales, según las indicadas para el tipo de producto 5.1 «sustratos de mezcla» del anexo I.
+
+> Se modifican los apartados 1.b) y 2 por el art. único.2 de la Orden PRA/1943/2016, de 22 de diciembre. Ref. BOE-A-2016-12222.
+
+> Téngase en cuenta para su aplicación la disposición transitoria única de la citada Orden.
 
 > Se modifica por el art. único.2 del Real Decreto 1039/2012, de 6 de julio. Ref. BOE-A-2012-10153.
 

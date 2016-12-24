@@ -10,7 +10,7 @@ Los márgenes de tolerancia son los incluidos en la tabla del presente anexo. En
 
 | pH | 1 (salvo en los productos clasificados como peligrosos, en los que no se admitirá tolerancia alguna). |
 | --- | --- |
-| Conductividad eléctrica | 50%. |
+| Conductividad eléctrica | 100 % si la conductividad eléctrica es < 50 mS/m. 50 % si la conductividad eléctrica está comprendida entre 50-200 mS/m. 25 % si la conductividad eléctrica es > 200 mS/m. |
 | Humedad | 20%. |
 | Materia seca | 20%. |
 | Densidad aparente compactada en laboratorio | 20%. |
@@ -28,3 +28,7 @@ Los márgenes de tolerancia son los incluidos en la tabla del presente anexo. En
 | Cantidad en volumen | 5% volumen total de sustrato. 10% para los % de los componentes principales. |
 | Capacidad de intercambio catiónico | 15%. |
 | Cantidad de aditivos | 0,3% en valor absoluto hasta 3 gr/l. 10% si >3 gr/l. |
+
+> Se modifica por el art. único.3 de la Orden PRA/1943/2016, de 22 de diciembre. Ref. BOE-A-2016-12222.
+
+> Téngase en cuenta para su aplicación la disposición transitoria única de la citada Orden.
