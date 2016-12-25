@@ -1,0 +1,11 @@
+## Disposición transitoria única. Mecanismo para la financiación transitoria del coste del bono social previsto en el artículo 45 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+
+1. Desde la entrada en vigor de este real decreto-ley y hasta que tenga lugar el desarrollo reglamentario previsto en el artículo 45.4 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, en la redacción dada por el presente real decreto-ley, resultarán de aplicación a efectos de la financiación del bono social, los porcentajes de reparto previstos en el anexo.
+
+Las aportaciones que deban realizar cada una de dichas sociedades se depositarán en una cuenta específica en régimen de depósito creada al efecto por el organismo encargado de las liquidaciones, que será responsable de su gestión. En el caso de sociedades que formen parte de un grupo de sociedades, corresponderá a la respectiva matriz o sociedad dominante, determinada con arreglo a lo previsto en el artículo 42.1 del Código de Comercio, realizar la aportación que resulte de la agregación de los porcentajes de reparto individuales de cada una de las sociedades comercializadoras que integran dicho grupo.
+
+A estos efectos antes del día 15 de cada mes, los comercializadores de referencia deberán presentar a la Comisión Nacional de los Mercados y la Competencia la información de la facturación correspondiente al mes anterior de los consumidores a quienes han aplicado el bono social, con desglose de períodos y facturación, para determinar la cuantía total del bono social aplicado y las liquidaciones asociadas. Las aportaciones que deban realizar cada una de dichas sociedades se depositarán en una cuenta específica en régimen de depósito creada al efecto por el organismo encargado de las liquidaciones, que será responsable de su gestión.
+
+El primer período de desglose comprenderá desde la entrada en vigor de este real decreto-ley hasta el 31 de diciembre de 2016.
+
+2. En dicho desarrollo reglamentario se establecerá el mecanismo para regularizar, en sentido positivo o negativo, las cantidades que sean aportadas para la financiación del bono social con arreglo a lo previsto en esta disposición transitoria, así como para reconocer, en su caso, los derechos de cobro u obligaciones de pago que correspondan.
