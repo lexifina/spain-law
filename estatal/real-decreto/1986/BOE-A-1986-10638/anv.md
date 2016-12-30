@@ -167,15 +167,17 @@ B) Dotaciones de vertido en litros por habitante y día, según la población ab
 | 50.000-250.000 | 280 | 250 | 220 |
 | > 250.000 | 330 | 300 | 260 |
 
-C) Coste del tratamiento del vertido para evitar la contaminación (CTECr) expresado en euros por tonelada (€/T) según el tipo de residuo en estado líquido o lodo vertido (en aplicación del artículo 326 ter.2).
+C) Coste del tratamiento del vertido para evitar la contaminación (CTECr) expresado en euros por tonelada (€/T) según el tipo de residuo vertido en estado líquido o en forma de lodos, o los producidos por descargas o derrames de tipo puntual y no continuado y de carácter contaminante (en aplicación del artículo 326 ter.2).
 
 Si un residuo puede catalogarse en varios tipos, se tomará el coste de referencia más elevado.
 
-| Tipo de residuo | (€/t) |
+| Tipo de residuo | €/T |
 | --- | --- |
-| Residuos clasificados como peligrosos en estado líquido.Lixiviados de vertederos de residuos peligrosos.Lodos clasificados como peligrosos. | 1.000 |
-| Residuos no peligrosos en estado líquido que contienen sustancias del Grupo A o B enumeradas en el apartado A) de este anexo.Lixiviados de vertederos de residuos no peligrosos.Lodos no peligrosos con sustancias del Grupo A o B enumeradas en el apartado A) de este anexo. | 400 |
-| Purines o estiércol líquido procedente del ganado.Residuos líquidos de la industria alimentaria.Otros residuos líquidos con alto contenido en materia orgánica.Lixiviados de vertederos de materiales inertes.Lodos residuales de estaciones de depuración que traten aguas residuales domésticas, urbanas o de composición similar. | 150. |
+| Residuos clasificados como peligrosos en estado líquido. Lixiviados de vertederos de residuos peligrosos. Lodos clasificados como peligrosos. | 1.000 |
+| Residuos no peligrosos en estado líquido que contienen sustancias del grupo A o B enumeradas en el apartado A) de este anexo. Lixiviados de vertederos de residuos no peligrosos. Lodos no peligrosos con sustancias del grupo A o B enumeradas en el apartado A) de este anexo. Descargas o derrames de tipo puntual y no continuado con sustancias del grupo A o B enumeradas en el apartado A) de este anexo. | 400 |
+| Purines o estiércol líquido procedente del ganado. Residuos líquidos de la industria alimentaria. Otros residuos líquidos con alto contenido en materia orgánica. Lixiviados de vertederos de materiales inertes. Lodos residuales de estaciones de depuración que traten aguas residuales domésticas, urbanas o de composición similar. Descargas o derrames de tipo puntual y no continuado sin sustancias del grupo A o B enumeradas en el apartado A) de este anexo. | 150 |
+
+> Se modifica el apartado C) por el art. 1.35 del Real Decreto 638/2016, de 9 de diciembre. Ref. BOE-A-2016-12466.
 
 > Se añade por el art. único.27 del Real Decreto 670/2013, de 6 de septiembre. Ref. BOE-A-2013-9775.
 
