@@ -329,3 +329,5 @@
 | R1-364 | SAMPOL ENERGÍA, SL | 139.286 |
 | R1-365 | ELECTRA REDENERGÍA, S.L. | 1.277.394 |
 | TOTAL | 329.339.633 |
+
+> Se declara la nulidad de este anexo II en relación con la determinación aplicativa del coeficiente «α», reconociendo el derecho de las empresas distribuidoras de menos de 100.000 clientes a percibir la retribución que corresponda, en los términos fundamentados, por Sentencia del TS de 2 de noviembre de 2016. Ref. BOE-A-2016-12609
