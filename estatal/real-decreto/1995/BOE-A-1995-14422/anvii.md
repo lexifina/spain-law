@@ -42,22 +42,7 @@ Los campos de producción estarán aislados, como mínimo, 100 metros de cualqui
 
 Las variedades estarán claramente separadas entre sí, igual que lo fijado para las plantas de base.
 
-4. Requisitos de sanidad.
-
-Las plantas certificadas y generaciones anteriores tendrán que estar libres de organismos nocivos con los porcentajes máximos de plantas infectadas que figuran en el cuadro 1.
-
-Para el resto de plagas y enfermedades se tendrán en cuenta los tratamientos efectuados, pudiendo rechazarse las parcelas o partidas de plantas que presenten un ataque grave.
-
-CUADRO 1
-
-| Organismos nocivos | Porcentaje máximo plantas infectadas admitida |
-| --- | --- |
-| Prebase | Base | Certificada | CAC |
-| Enfermedades producidas por virus o similares (moteado, amarillamientos) | 0 | 0 | 0,5 | 2 |
-| Verticillium y Phytophthora cactorum | 0 | 0 | 1 | 5 |
-| Steneotarsonemus pallidus | 0 | 0 | 1 | 2 |
-| Aphelenchoides fragariae, Ditylenchus dipsaci y Pratylenchus | 0 | 0 | 1 | 2 |
-| Gnomonia spp | 0 | 0 | 1 | 2 |
+4. (Derogado)
 
 5. Pureza varietal.
 
@@ -86,3 +71,5 @@ Nematodos.–Las inspecciones para la detección de nematodos serán obligatoria
 Otros parásitos y hongos.–El control se efectuará tanto visual como apoyándose en medios de laboratorio.
 
 2.º Precontrol y postcontrol.–Estos controles se ejercerán por sondeo sobre la producción de plantas de prebase, base y certificada.
+
+> Se deroga el art. 4 por el art. único.25.d) del Real Decreto 744/2016, de 30 de diciembre. Ref. BOE-A-2016-12603

@@ -4,21 +4,7 @@
 
 1. Requisitos para la producción y mantenimiento de material inicial
 
-1. Las plantas madre de material inicial comprenden la planta cabeza de clon, las plantas de reserva y las plantas de partida.
-
-2. Para la obtención de las plantas de reserva y de partida se enraizarán al menos cinco estaquillas de la planta cabeza de clon.
-
-Se cultivarán dos de ellas sobre substrato estéril y al abrigo de vectores, constituyendo las plantas de reserva.
-
-El resto se podrá cultivar en campo, en condiciones de aislamiento que aseguren la ausencia de contaminación por enfermedades y permitan la expresión de los caracteres varietales constituyendo las plantas de partida.
-
-El terreno de plantación estará libre de "verticillium dahliae" y de nematodos transmisores de virosis.
-
-3. Cada planta madre de material inicial tendrá comprobado por inspección oficial que se encuentra libre de los organismos nocivos que figuran en cuadro A, mediante toma de muestras, en su caso, y su análisis por técnicas apropiadas y aprobadas por el organismo oficial responsable y que sus características varietales coinciden con la descripción oficial de la variedad.
-
-4. Anualmente se comprobará el estado sanitario de las plantas madres de material inicial para las enfermedades y virosis fácilmente transmisibles.
-
-La tolerancia será del 0 por 100.
+1 a 4 (Derogados)
 
 5. La descendencia de cada cabeza de clon se identificará con un código, llamado número de clon, que se mantendrá a lo largo de su multiplicación y comercialización junto a la denominación de la variedad.
 
@@ -36,17 +22,13 @@ La tolerancia será del 0 por 100.
 
 3. Requisitos para la producción de material de multiplicación y plantas de vivero certificadas
 
-1. Las plantas madres de material de multiplicación certificado, en adelante plantas madre de certificado, se obtendrán directamente de material de multiplicación base o de material de multiplicación inicial.
+1. (Derogado)
 
 2. Las plantas madre de certificado se podrán cultivar en campo, en condiciones de aislamiento que aseguren la ausencia de contaminación de enfermedades y al menos con las distancias de aislamiento señaladas en el cuadro B. Estas distancias se podrán reducir si se establecen otras medidas de aislamiento eficaces, aprobadas por el organismo oficial responsable.
 
 El substrato o el suelo de plantación estará libre de "verticillium dahliae" y de nematodos transmisores de virosis.
 
-3. Las plantas madres y los viveros estarán libres, al menos por observación visual, de síntomas de los organismos nocivos que figuran en cuadro A.
-
-4. Las plantas madre de certificado tendrán comprobada su identidad varietal al menos por observación visual de caracteres.
-
-5. La pureza varietal de las plantas de vivero certificadas se comprobará, al menos, por inspección visual y será del 99,99 por 100 como mínimo.
+3 a 5 (Derogados)
 
 6. Los productores deberán realizar las oportunas depuraciones para que las plantas de vivero cumplan con los requisitos de pureza varietal y estado sanitario. Sólo se admitirá la falta de hasta un 5 por 100 de plantas depuradas por causas fitosanitarias o varietales.
 
@@ -54,12 +36,7 @@ El substrato o el suelo de plantación estará libre de "verticillium dahliae" y
 
 ## CUADRO A
 
-| Organismos nocivos |
-| --- |
-| Hongos: "Verticillium dahliae". |
-| Bacterias: "Pseudomonas savastanoi" (Tuberculosis). |
-|  |
-| Virosis o similares: Mosaico del Arabis (ArMv). Enrollado del ciruelo (CLRV). Mosaico del pepino (CMV). Virus latente de las manchas anulares de la fresa (SLRV). |
+## (Derogado)
 
 ## CUADRO B
 
@@ -89,6 +66,8 @@ El substrato o el suelo de plantación estará libre de "verticillium dahliae" y
 9. Durante la fase de adaptación al cultivo in vivo y posteriores se seguirán las normas de este reglamento para la producción de plantas certificadas, especialmente en lo relativo a trazabilidad, aislamientos, controles y cumplimiento de los requisitos sanitarios y varietales.
 
 10. En la etiqueta de las plantas figurará la expresión "producida in vitro".
+
+> Se derogan los apartados 1 a 4 del art. 1 y 3 al 5 del art. 3 por el art. único.25.e) del Real Decreto 744/2016, de 30 de diciembre. Ref. BOE-A-2016-12603
 
 > Se añade el apartado 4 por el art. único.6 del Real Decreto 895/2014, de 17 de octubre. Ref. BOE-A-2014-11275.
 
