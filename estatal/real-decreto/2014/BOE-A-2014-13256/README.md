@@ -154,6 +154,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional segunda](dasegunda.md)
 - [Disposición adicional tercera](datercera.md)
 - [Disposición transitoria primera](dtprimera-2.md)
+- [Disposición transitoria única](dtunica.md)
 - [Disposición transitoria segunda](dtsegunda-2.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)

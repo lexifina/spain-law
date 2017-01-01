@@ -51,9 +51,12 @@ Usos no agrícolas
 
 | Uso SIGPAC | Descripción |
 | --- | --- |
-| AG | Corrientes y superficies de agua. |
-| CA | Viales. |
-| ED | Edificaciones. |
-| FO | Forestal. |
-| IM | Improductivos. |
-| ZU | Zona urbana. |
+| AG. | Corrientes y superficies de agua. |
+| CA. | Viales. |
+| ED. | Edificaciones. |
+| FO. | Forestal. |
+| IM. | Improductivos. |
+| ZU. | Zona urbana. |
+| EP. | Elemento del paisaje. |
+
+> Se modifica la última tabla por el art. 3 del Real Decreto 745/2016, de 30 de diciembre. Ref. BOE-A-2016-12604.

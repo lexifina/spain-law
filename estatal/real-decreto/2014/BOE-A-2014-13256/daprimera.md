@@ -2,7 +2,7 @@
 
 1. En uso de la previsión contemplada en el artículo 218 del Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se crea la organización común de mercados de los productos agrarios y por el que se derogan los Reglamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 y (CE) n.º 1234/2007, se mantienen los pagos nacionales en el sector de los frutos de cáscara con el fin de amortiguar los efectos de la disociación del antiguo régimen de ayudas de la Unión Europea para este tipo de frutos.
 
-2. En su virtud, los agricultores con plantaciones de almendro, avellano, nogal, pistachero y algarrobo, que cumplan las condiciones que se recogen en esta disposición, podrán beneficiarse de un pago nacional por superficie para los años 2015 y 2016.
+2. En su virtud, los agricultores con plantaciones de almendro, avellano, nogal, pistachero y algarrobo, que cumplan las condiciones que se recogen en esta disposición, podrán beneficiarse de un pago nacional por superficie para los años 2015, 2016 y 2017.
 
 3. Para tener derecho al pago nacional, las superficies deben cumplir los siguientes requisitos:
 
@@ -26,9 +26,7 @@ A estos efectos, el Ministerio de Agricultura, Alimentación y Medio Ambiente tr
 
 a) Antes del 15 de agosto del año de presentación de la solicitud, la superficie total por la que se ha solicitado la ayuda, desglosada por especies y por comunidades autónomas de ubicación de dicha superficie, así como los remanentes existentes de transferencias anteriores correspondientes a la ayuda del Ministerio de Agricultura, Alimentación y Medio Ambiente.
 
-b) Antes del 30 de octubre del año de presentación de la solicitud, la superficie total determinada, desglosada por especies.
-
-c) Antes del 31 de agosto del año siguiente al de presentación de la solicitud, la superficie total por la que se ha pagado la ayuda, desglosada por especies.
+b) Antes del 30 de octubre del año de presentación de la solicitud, la superficie total determinada, desglosada por especies y por comunidades autónomas de ubicación de dicha superficie.
 
 6. Los agricultores que deseen acogerse a estas ayudas deberán cumplimentar la información que se consigna al efecto en la solicitud única y presentar la siguiente documentación adicional:
 
@@ -37,5 +35,7 @@ c) Antes del 31 de agosto del año siguiente al de presentación de la solicitud
 2.º El compromiso del agricultor de realizar la entrega de su cosecha a la organización o agrupación de productores citada.
 
 7. En todo lo no previsto en esta disposición adicional, estas ayudas se regirán por lo establecido en el presente real decreto que le sea de aplicación, a excepción del capítulo I del título II.
+
+> Se modifican los apartados 2 y 5 por el art. 1.33 del Real Decreto 745/2016, de 30 de diciembre. Ref. BOE-A-2016-12604.
 
 > Se modifican los apartados 2 y 3.a) por el art. 1.37 del Real Decreto 1172/2015, de 29 de diciembre. Ref. BOE-A-2015-14282.

@@ -32,9 +32,11 @@ I. Información general
 
 14. En el caso de las sociedades, estas deberán declarar el nombre, NIF y fecha de nacimiento, si procede, de los socios participantes indicando el tanto por ciento de su participación en el capital social.
 
-15. En el caso de las personas jurídicas y grupos de personas físicas y jurídicas a las que se refiere la letra b) del apartado 4 del artículo 8, deberán declarar el total de ingresos agrarios percibidos en el periodo impositivo más reciente. La autoridad competente podrá determinar la obligatoriedad de realizar también la declaración correspondiente de los dos ejercicios fiscales anteriores.
+15. En el caso de las personas jurídicas y grupos de personas físicas y jurídicas a las que se refiere la letra b) del apartado 4 del artículo 9, deberán declarar el total de ingresos agrarios percibidos en el periodo impositivo más reciente. La autoridad competente podrá determinar la obligatoriedad de realizar también la declaración correspondiente de los dos ejercicios fiscales anteriores.
 
 16. Se incluirá referencia expresa al código de identificación asignado a cada unidad de producción en virtud del Real Decreto 479/2004, de 26 de marzo, por el que se establece y regula el Registro General de Explotaciones Ganaderas. Así mismo se deberá declarar el código de identificación asignado a la explotación en los registros que las autoridades competentes tengan dispuestos en base al artículo 6 del Reglamento (CE) n.º 852/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, relativo a la higiene de los productos alimenticios, en el momento de la solicitud. Sin perjuicio de anterior, cuando la autoridad competente tenga acceso a la información exigida en este punto, se eximirá al solicitante de la necesidad de cumplimentarla.
+
+17. Declaración expresa en la que el agricultor manifieste que no ejerce ninguna actividad que, conforme a la Clasificación Nacional de Entidades Económicas (CNAE) o conforme al Impuesto sobre Actividades Económicas (IAE), se corresponda con los códigos recogidos en el anexo III, ni es controlado por, ni tiene el control de ninguna entidad asociada, según se definen en el artículo 8, que realice alguna de estas actividades. Esta declaración se realizará en relación con las campañas 2015y 2016, siempre y cuando en las dos primeras se hubieran recibido pagos por ayudas directas, y en todos los casos en relación con la campaña 2017. En esta declaración se incluirá el NIF de las entidades asociadas con las que el agricultor tenga relación»
 
 II. Declaración expresa de lo que solicita
 
@@ -52,7 +54,7 @@ Deberán declararse todas las parcelas agrícolas de la explotación, indicándo
 
 3. Los regímenes para los que se solicita la ayuda.
 
-4. La utilización de las parcelas, indicándose en todo caso el producto cultivado, los pastos permanentes, otras superficies forrajeras, el barbecho y tipo del mismo, los cultivos permanentes, las superficies plantadas con plantas forestales de ciclo corto, etc. En el caso de los recintos de pastos, se indicará si las parcelas van a ser objeto de producción con pastoreo, siega o mantenimiento mediante otras técnicas. En el caso de las tierras de cultivo, si procede, se podrá declarar más de un producto por campaña y parcela, indicando siempre como producto principal aquel que se vaya a utilizar para la medida de diversificación establecida en el artículo 20. El solicitante declarará de forma expresa que los cultivos y aprovechamientos, así como las actividades de mantenimiento declaradas son veraces y constituyen un fiel reflejo de su actividad agraria.
+4. La utilización de las parcelas, indicándose en todo caso el producto cultivado, los pastos permanentes, otras superficies forrajeras, el barbecho y tipo del mismo, los cultivos permanentes, las superficies plantadas con plantas forestales de ciclo corto, etc. En el caso de los recintos de pastos, se indicará si las parcelas van a ser objeto de producción con pastoreo, siega o mantenimiento mediante otras técnicas. En el caso de las tierras de cultivo, se podrá declarar más de un producto por campaña y parcela, indicando siempre el cultivo declarado a efectos de la diversificación y, si procede, otro cultivo, tal y como quedan definidos en las letras c) y d) del apartado 1 del artículo 89. El solicitante declarará de forma expresa que los cultivos y aprovechamientos, así como las actividades de mantenimiento declaradas son veraces y constituyen un fiel reflejo de su actividad agraria.
 
 5. Se declarará por separado el barbecho medioambiental con arreglo al Reglamento (CE) N.º 1698/2005 del Consejo, de 20 de septiembre de 2005, y la repoblación forestal conforme al mismo Reglamento o al Reglamento (CE) N.º 1257/1999 del Consejo, de 17 de mayo de 1999, sobre la ayuda al desarrollo rural a cargo del Fondo Europeo de Orientación y de Garantía Agrícola (FEOGA) y por el que se modifican y derogan determinados Reglamentos.
 
@@ -100,16 +102,20 @@ V. Información y documentación adicional
 
 3. En el caso de la ayuda asociada a la remolacha azucarera a que se refiere la sección 6.ª del capítulo I del título IV, deberá aportar una copia del contrato de suministro con la industria azucarera.
 
-4. En el caso de la ayuda asociada al tomate para industria a que se refiere la sección 7.ª del capítulo I del título IV, copia del contrato suscrito con la industria que va a realizar la transformación.
+4. En el caso de la ayuda asociada al tomate para industria a que se refiere la sección 7ª del capítulo I del título IV, copia del contrato suscrito con la industria o del compromiso de entrega con la OP que va a realizar la transformación, salvo en el caso de que no sea exigible de acuerdo con lo previsto en el párrafo segundo del apartado 1 del artículo 50.
 
-5. En el caso de la ayuda asociada para las explotaciones que mantengan vacas nodrizas a que se refiere la sección 2.ª del capítulo II del título IV, certificado oficial sobre rendimiento lechero cuando sea necesario.
+5. En el caso del pago específico al cultivo del algodón a que se refiere la sección 8.ª del capítulo I del título IV, copia del contrato de suministro a una desmotadora autorizada.
 
-6. En el caso de la ayuda asociada para las explotaciones de vacuno de leche a que se refiere la sección 4.ª del capítulo II del título IV, justificación documental que acredite haber realizado ventas directas en el año anterior al año de solicitud, para el caso de que la explotación no realice entregas a compradores.
+6. En el caso de la ayuda asociada para las explotaciones que mantengan vacas nodrizas a que se refiere la sección 2.ª del capítulo II del título IV, certificado oficial sobre rendimiento lechero cuando sea necesario.
 
-7. En el caso de las ayudas asociadas para las explotaciones de vacas nodrizas, vacuno de leche, ovino y caprino a las que se refieren las secciones 2.ª, 4.ª, 5.ª, 6.ª, 7.ª y 9.ª del capítulo II del título IV, cuando el ganadero realice entregas de leche a un primer comprador cuya residencia o domicilio social no estuviese en España, justificación documental de dichas entregas.
+7. En el caso de la ayuda asociada para las explotaciones de vacuno de leche a que se refiere la sección 4.ª del capítulo II del título IV, justificación documental que acredite haber realizado ventas directas en el año anterior al año de solicitud, para el caso de que la explotación no realice entregas a compradores.
 
-8. Sin perjuicio de lo establecido en los párrafos anteriores, cuando la autoridad competente tenga acceso a la documentación exigida en este apartado V, se eximirá al solicitante de la necesidad de presentación de dicha documentación, sustituyéndose en su caso por una autorización expresa a la autoridad competente para acceder a dicha información.
+8. En el caso de las ayudas asociadas para las explotaciones de vacas nodrizas, vacuno de leche, ovino y caprino a las que se refieren las secciones 2.ª, 4.ª, 5.ª, 6.ª, 7.ª y 9.ª del capítulo II del título IV, cuando el ganadero realice entregas de leche a un primer comprador cuya residencia o domicilio social no estuviese en España, justificación documental de dichas entregas.
 
-9. Cualquier otra información, en concepto de "otra declaración", establecida por la comunidad autónoma para las medidas de desarrollo rural en el ámbito del Sistema Integrado.
+9. Sin perjuicio de lo establecido en los párrafos anteriores, cuando la autoridad competente tenga acceso a la documentación exigida en este apartado V, se eximirá al solicitante de la necesidad de presentación de dicha documentación, sustituyéndose en su caso por una autorización expresa a la autoridad competente para acceder a dicha información.
+
+10. Cualquier otra información, en concepto de "otra declaración", establecida por la comunidad autónoma para las medidas de desarrollo rural en el ámbito del Sistema Integrado.
+
+> Se modifican los apartados I, III y V por el art. 1.36 del Real Decreto 745/2016, de 30 de diciembre. Ref. BOE-A-2016-12604.
 
 > Se modifican los apartados I y III a V por el art. 1.44 del Real Decreto 1172/2015, de 29 de diciembre. Ref. BOE-A-2015-14282.

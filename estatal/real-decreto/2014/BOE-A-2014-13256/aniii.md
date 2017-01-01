@@ -1,8 +1,8 @@
 ## ANEXO III
 
-## Códigos CNAE o IAE de las actividades excluidas conforme a lo establecido en el artículo 10
+## Códigos CNAE o IAE de las actividades excluidas conforme a lo establecido en el artículo 8
 
-## Códigos CNAE de las actividades excluidas conforme a lo establecido en el artículo 10
+Códigos CNAE de las actividades excluidas conforme a lo establecido en el artículo 8
 
 Real Decreto 475/2007, de 13 de abril, por el que se aprueba la Clasificación Nacional de Actividades Económicas 2009 (CNAE-2009).
 
@@ -30,7 +30,7 @@ L68 (Actividades inmobiliarias).
 
 R93 (Actividades deportivas, recreativas y de entretenimiento).
 
-## Códigos IAE de las actividades excluidas conforme a lo establecido en el artículo 10
+Códigos IAE de las actividades excluidas conforme a lo establecido en el artículo 8
 
 – Aeropuertos:
 
@@ -89,5 +89,7 @@ Sección primera 989 (otras actividades relacionadas con el espectáculo y el tu
 989.3 – parques o recintos feriales.
 
 (*) aplicable a personas jurídicas o grupos de personas físicas o jurídicas.
+
+> Se modifica por el art. 1.35 del Real Decreto 745/2016, de 30 de diciembre. Ref. BOE-A-2016-12604.
 
 > Se añade el título al inicio del Anexo y un nuevo apartado por el art. 1.42 del Real Decreto 1172/2015, de 29 de diciembre. Ref. BOE-A-2015-14282.
