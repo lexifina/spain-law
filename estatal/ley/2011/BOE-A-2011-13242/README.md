@@ -84,6 +84,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición final séptima](dfseptima.md)
 - [Disposición final octava](dfoctava.md)
 - [Disposición final novena](dfnovena.md)
+- [Disposición final décima](dfdecima.md)
 - [Disposición final undécima](dfundecima.md)
 - [Disposición final duodécima](dfduodecima.md)
 - [firma](firma.md)
