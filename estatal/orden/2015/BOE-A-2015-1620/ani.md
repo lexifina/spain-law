@@ -70,7 +70,9 @@ Por matrimonio, quince días.
 
 ## Séptima. Permiso de paternidad.
 
-Por el nacimiento, acogimiento o adopción de un hijo, a partir de la fecha de nacimiento, de la decisión administrativa o judicial de acogimiento o de la resolución judicial por la que se constituye la adopción, quince días.
+Por el nacimiento, acogimiento, o adopción de un hijo, cuatro semanas a disfrutar por el padre a partir de la fecha del nacimiento, de la decisión administrativa o judicial de acogimiento o de la resolución judicial por la que se constituya la adopción.
+
+La duración indicada se ampliará en el supuesto de parto, adopción o acogimiento múltiple en dos días más por cada hijo a partir del segundo.
 
 ## Octava. Permiso por lactancia.
 
@@ -78,4 +80,6 @@ Por el nacimiento, acogimiento o adopción de un hijo, a partir de la fecha de n
 
 2. Se podrá sustituir la reducción de jornada por lactancia por un permiso que acumule en jornadas completas el tiempo correspondiente, con una duración máxima de cuatro semanas. Dicho permiso se incrementará proporcionalmente en los casos de parto múltiple.
 
-> Se añade el apartado 6 a la norma primera y se modifica la norma segunda por el art. único de la Resolución 430/13284/15, publicada en el Boletín Oficial del Ministerio de Defensa núm. 196, de 7 de octubre de 2015.
+> Se modifica la norma séptima por el artículo único de la Resolución 430/38026/2017, de 7 de febrero. Ref. BOE-A-2017-1520.
+
+> Se añade el apartado 6 a la norma primera y se modifica la norma segunda por el art. único de la Resolución 430/13284/18, publicada en el Boletín Oficial del Ministerio de Defensa núm. 196, de 7 de octubre de 2015.
