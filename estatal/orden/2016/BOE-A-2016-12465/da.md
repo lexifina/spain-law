@@ -1,0 +1,5 @@
+## Disposición adicional primera. Mandatos a la Comisión Nacional de los Mercados y la Competencia.
+
+La Comisión Nacional de los Mercados y la Competencia, en un plazo máximo de seis meses desde la entrada en vigor de esta disposición, remitirá al Ministerio de Energía, Turismo y Agenda Digital un estudio de las instalaciones de vaporización de las plantas de regasificación que han superado su vida útil regulatoria y que se encuentran en extensión de vida útil, a los efectos de determinar cuáles de las mismas pueden darse de baja sin menoscabo de la seguridad del sistema y del grado de cobertura necesario para cubrir las futuras necesidades de suministro del sistema gasista y los requerimientos de los planes de emergencia establecidos por el Ministerio de Energía, Turismo y Agenda Digital.
+
+El Gestor Técnico del Sistema y los operadores de las plantas de regasificación facilitarán toda la información necesaria a la Comisión Nacional de los Mercados y la Competencia para la realización de dicho estudio.

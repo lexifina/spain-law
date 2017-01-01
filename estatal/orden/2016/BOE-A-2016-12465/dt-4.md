@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta. Valores unitarios de referencia de inversión y de operación y mantenimiento.
+
+1. Los valores unitarios de referencia de inversión, de operación y mantenimiento fijos y variables en vigor serán los publicados en la Orden IET/2446/2013, de 27 de diciembre por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas.
+
+2. Una vez que se reciba el informe solicitado a la Comisión Nacional de los Mercados y la Competencia en la disposición adicional única de la Orden IET/389/2015, de 5 de marzo, por la que se actualiza el sistema de determinación automática de precios máximos de venta, antes de impuestos, de los gases licuados del petróleo envasados y se modifica el sistema de determinación automática de las tarifas de venta, antes de impuestos, de los gases licuados del petróleo por canalización, por Orden del Ministro de Energía, Turismo y Agenda digital, se revisarán los coeficientes en vigor.

@@ -142,23 +142,25 @@ A la facturación del término fijo del término de conducción le será de apli
 
 ## Noveno. Peaje aplicable a los contratos de acceso de duración inferior a un año.
 
-Los coeficientes a aplicar al término fijo de caudal de los peajes correspondientes a servicios de acceso a las instalaciones gasistas, contratados con una duración menor a un año, de acuerdo con lo establecido en el artículo 10 de la presente orden son los siguientes:
+Los coeficientes a aplicar al término fijo de caudal de los peajes correspondientes a servicios de acceso a las instalaciones gasistas, contratados con una duración menor al año, de acuerdo con lo establecido en el artículo 10 de la presente orden, son los siguientes:
 
-|  | Peaje diario | Peaje mensual |
-| --- | --- | --- |
-| Enero. | 0,10 | 2,00 |
-| Febrero. | 0,10 | 2,00 |
-| Marzo. | 0,10 | 2,00 |
-| Abril. | 0,06 | 1,00 |
-| Mayo. | 0,06 | 1,00 |
-| Junio. | 0,06 | 1,00 |
-| Julio. | 0,06 | 1,00 |
-| Agosto. | 0,06 | 1,00 |
-| Septiembre. | 0,06 | 1,00 |
-| Octubre. | 0,10 | 2,00 |
-| Noviembre. | 0,10 | 2,00 |
-| Diciembre. | 0,10 | 2,00 |
+|  | Producto intradiario | Producto diario | Producto mensual | Producto trimestral |
+| --- | --- | --- | --- | --- |
+| Enero | 0,25 | 0,15 | 2,30 | 1,91 |
+| Febrero | 0,22 | 0,13 | 2,00 |
+| Marzo | 0,21 | 0,13 | 1,90 |
+| Abril | 0,16 | 0,09 | 1,40 | 1,21 |
+| Mayo | 0,16 | 0,09 | 1,20 |
+| Junio | 0,13 | 0,08 | 1,00 |
+| Julio | 0,14 | 0,08 | 1,20 | 1,08 |
+| Agosto | 0,11 | 0,07 | 1,00 |
+| Septiembre | 0,13 | 0,08 | 1,20 |
+| Octubre | 0,15 | 0,09 | 1,30 | 1,36 |
+| Noviembre | 0,16 | 0,09 | 1,40 |
+| Diciembre | 0,18 | 0,11 | 1,60 |
 
-El término variable (Tvij) a aplicar es el del peaje correspondiente.
+El termino variable Tvij a aplicar es el del peaje correspondiente.
+
+> Se modifica el apartado 9 por la disposición final 2.5 de la Orden ETU/1977/2016, de 23 de diciembre. Ref. BOE-A-2016-12465.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 39, de 14 de febrero de 2014. Ref. BOE-A-2014-1584.
