@@ -2,80 +2,64 @@
 
 ## Municipios de la isla de Mallorca que comprende la zona de promoción económica
 
-Alaró.
+Alaró;
 
-Algaida.
+Ariany;
 
-Andratx.
+Artà;
 
-Ariany.
+Binissalem;
 
-Artà.
+Búger;
 
-Banyalbufar.
+Bunyola;
 
-Binissalem.
+Campanet;
 
-Búger.
+Capdepera;
 
-Bunyola.
+Consell;
 
-Campanet.
+Costitx;
 
-Campos.
+Distritos 01, 02 y 03 de Manacor;
 
-Consell.
+Inca;
 
-Costitx.
+Lloret de Vistalegre;
 
-Deià.
+Lloseta;
 
-Escorca.
+Llubí;
 
-Esporles.
+Mancor de la Vall;
 
-Estellencs.
+Maria de la Salut;
 
-Fornalutx.
+Montuïri;
 
-Inca.
+Muro;
 
-Lloret de Vistalegre.
+Petra;
 
-Lloseta.
+Pobla (Sa);
 
-Llubí.
+Sant Joan;
 
-Mancor de la Vall.
+Santa Eugènia;
 
-Maria de la Salut.
+Santa Margalida;
 
-Montuïri.
+Santa Maria del Camí;
 
-Petra.
+Secciones censales n.º 37 (UIB–Parc Bit), 38, 39 y 49 del distrito 03 de Palma de Mallorca;
 
-Pobla (Sa).
+Selva;
 
-Porreres.
+Sencelles;
 
-Puigpunyent.
-
-Sant Joan.
-
-Santa Eugènia.
-
-Santa Maria del Camí.
-
-Sección censal n.º 37 del distrito 03 de Palma de Mallorca (UIB-Parc Bit).
-
-Selva.
-
-Sencelles.
-
-Sineu.
-
-Sóller.
-
-Valldemossa.
+Sineu;
 
 Vilafranca de Bonany.
+
+> Se modifica por el art. único del Real Decreto 741/2016, de 30 de diciembre. Ref. BOE-A-2016-12596.
