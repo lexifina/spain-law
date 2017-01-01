@@ -906,7 +906,7 @@ Su movimiento es el siguiente en función de la alternativa adoptada por la enti
 
 a) Se cargará, por los pagos realizados, con abono a las subcuentas 5709, «Caja. Anticipos de caja fija», o 5751, «Bancos e instituciones de crédito. Anticipos de caja fija», según corresponda.
 
-b) Se abonará, a la reposición del anticipo de caja fija, con cargo a la cuenta representativa del gasto realizado o a la cuenta 413, «Acreedores por operaciones pendientes de aplicar a presupuesto», en caso de gastos que ya se hubiesen reconocido.
+b) Se abonará, a la reposición del anticipo de caja fija, con cargo a la cuenta representativa del gasto realizado o a la cuenta 413, “Acreedores por operaciones devengadas”, en caso de gastos que ya se hubieran reconocido.
 
 Su saldo deudor, recoge el importe de los pagos realizados con cargo al anticipo de caja fija que se encuentren pendientes de justificar.
 
@@ -1441,6 +1441,8 @@ Su movimiento es análogo al de la cuenta 594, «Deterioro de valor de valores r
 Correcciones valorativas por deterioro del valor de créditos a corto plazo concedidos a entidades que no son del grupo, multigrupo y asociadas.
 
 Su movimiento es análogo al de la cuenta 595, «Deterioro de valor de créditos a corto plazo a entidades del grupo, multigrupo y asociadas», utilizando como contrapartida las subcuentas 6971, «Pérdidas por deterioro de créditos a otras entidades», y 7971, «Reversión del deterioro de créditos a otras entidades».
+
+> Se modifica la cuenta 5581 por el art. único.3.d) de la Orden HFP/1970/2016, de 16 de diciembre. Ref. BOE-A-2016-12431
 
 > Se modifican las cuentas 522, 530, 545, 546 y 550 y las subcuentas 5301 y 5303 por el art. 3.6 y 7.f) a i) de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
 

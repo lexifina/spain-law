@@ -46,17 +46,15 @@ a.3) Cuentas del grupo 5, «Cuentas financieras», en los casos de reembolso del
 
 a.4) Cuentas del grupo 6, «Compras y gastos por naturaleza», por las compras de existencias, los gastos y las pérdidas.
 
-a.5) La cuenta 411, «Acreedores por periodificación de gastos presupuestarios», cuando al vencimiento de la obligación se expida el correspondiente acto de reconocimiento y liquidación.
+a.5) La cuenta 413, «Acreedores por operaciones devengadas», cuando se dicte el acto administrativo de reconocimiento y liquidación de la obligación presupuestaria.
 
-a.6) La cuenta 413, «Acreedores por operaciones pendientes de aplicar a presupuesto», cuando se reconozca y liquide la obligación que ha quedado pendiente de imputar a presupuesto.
+a.6) La cuenta 447, «Deudores por provisiones de fondos a justificar», en el momento de la tramitación de la propuesta de pago correspondiente a libramientos de fondos con el carácter de pagos a justificar, cuando el cajero pagador es un órgano ajeno a la entidad contable.
 
-a.7) La cuenta 447, «Deudores por provisiones de fondos a justificar», en el momento de la tramitación de la propuesta de pago correspondiente a libramientos de fondos con el carácter de pagos a justificar, cuando el cajero pagador es un órgano ajeno a la entidad contable.
+a.7) La subcuenta 5750, «Bancos e instituciones de crédito. Pagos a justificar», por los reintegros de pagos a justificar que, de acuerdo con la normativa que le sea de aplicación, se deban imputar a presupuesto de gastos. Este asiento tiene signo negativo.
 
-a.8) La subcuenta 5750, «Bancos e instituciones de crédito. Pagos a justificar», por los reintegros de pagos a justificar que, de acuerdo con la normativa que le sea de aplicación, se deban imputar a presupuesto de gastos. Este asiento tiene signo negativo.
+a.8) Las subcuentas 5584, «Libramientos para pagos a justificar pendientes de pago», o 5585, «Libramientos para la reposición de anticipos de caja fija pendientes de pago», por el libramiento de fondos con el carácter de «pagos a justificar» o para reposiciones de anticipos de caja fija respectivamente, cuando el cajero pagador se encuentra integrado orgánicamente en la entidad contable.
 
-a.9) Las subcuentas 5584, «Libramientos para pagos a justificar pendientes de pago», o 5585, «Libramientos para la reposición de anticipos de caja fija pendientes de pago», por el libramiento de fondos con el carácter de «pagos a justificar» o para reposiciones de anticipos de caja fija respectivamente, cuando el cajero pagador se encuentra integrado orgánicamente en la entidad contable.
-
-a.10) La cuenta 634, «Ajustes negativos en la imposición indirecta», por el importe de la regularización anual.
+a.9) La cuenta 634, «Ajustes negativos en la imposición indirecta», por el importe de la regularización anual.
 
 En el caso de anulación de obligaciones reconocidas el asiento a realizar será idéntico pero de signo negativo.
 
@@ -158,7 +156,7 @@ Su saldo, acreedor, representa las obligaciones reconocidas en ejercicios anteri
 
 410. Acreedores por IVA soportado.
 
-411. Acreedores por periodificación de gastos presupuestarios.
+411. (Suprimida)
 
 412. Acreedores por obligaciones reconocidas. Anticipos de Tesorería.
 
@@ -198,17 +196,7 @@ Su saldo, acreedor, recogerá el importe del IVA soportado que tiene la condici�
 
 411. Acreedores por periodificación de gastos presupuestarios.
 
-Cuenta acreedora que recoge las obligaciones no vencidas en fin de ejercicio derivadas de gastos devengados o bienes y servicios efectivamente recibidos durante el mismo.
-
-Figurará en el pasivo corriente del balance, en el epígrafe IV, «Acreedores y otras cuentas a pagar».
-
-Su movimiento es el siguiente:
-
-a) Se abonará por el importe de los bienes y servicios correspondientes con cargo a cuentas del grupo 6, «Compras y gastos por naturaleza», o del grupo 2, «Activo no corriente», representativas de los mismos.
-
-b) Se cargará con abono a cuentas del subgrupo 40, «Acreedores presupuestarios», por la expedición del acto formal administrativo de reconocimiento y liquidación de la obligación.
-
-Su saldo, acreedor, recogerá el importe de las obligaciones no vencidas a fin de ejercicio derivadas de gastos devengados o bienes y servicios efectivamente recibidos durante el mismo.
+(Suprimida)
 
 412. Acreedores por obligaciones reconocidas. Anticipos de Tesorería.
 
@@ -240,25 +228,25 @@ Su saldo, acreedor, recogerá las obligaciones reconocidas pendientes de pago co
 
 Nota: Los créditos consignados para la concesión de anticipos de tesorería no están sujetos a delimitación temporal, por lo que pueden ser utilizados hasta que dichos anticipos sean cancelados. Es por ello que en el asiento de apertura de un ejercicio esta cuenta figura por las sumas del debe y del haber que presentara antes del cierre del ejercicio anterior.
 
-413. Acreedores por operaciones pendientes de aplicar a presupuesto.
+413. Acreedores por operaciones devengadas.
 
-Cuenta acreedora que recoge las obligaciones derivadas de gastos realizados o bienes y servicios recibidos, para las que no se ha producido su aplicación a presupuesto, siendo procedente la misma.
+Deudas derivadas de operaciones devengadas no recogidas en otras cuentas de este Plan.
 
 Figurará en el pasivo corriente del balance, en el epígrafe IV, «Acreedores y otras cuentas a pagar».
 
 Su movimiento es el siguiente:
 
-a) Se abonará, al menos al 31 de diciembre, con cargo a las cuentas del grupo 6, «Compras y gastos por naturaleza», o a las cuentas de balance representativas de los gastos presupuestarios realizados.
+a) Se abonará, al devengo de la operación o al menos al final de cada mes, con cargo a la cuentas del grupo 6, «Compras y gastos por naturaleza», o a las cuentas de balance, representativas de las operaciones devengadas.
 
 b) Se cargará con abono a:
 
-b.1) La cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», cuando se produzca la aplicación a presupuesto.
+b.1) La cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», cuando se dicte el acto administrativo de reconocimiento y liquidación de la obligación presupuestaria.
 
 b.2) La cuenta 5581, «Provisiones de fondos para anticipos de caja fija pendientes de justificación», a la reposición del anticipo de caja fija, por los gastos del mismo reconocidos previamente, cuando la entidad haya optado por registrar de forma individualizada los pagos a terceros con cargo al anticipo.
 
 c) A fin de ejercicio, cuando la entidad haya optado por registrar los movimientos en las cuentas de tesorería relativas a anticipos de caja fija mediante regularizaciones periódicas, se abonará por los gastos devengados y no justificados a dicha fecha con cargo a cuentas del grupo 6, «Compras y gastos por naturaleza» y simultáneamente se cargará por los gastos devengados que se encontraban pendientes de justificación al finalizar el ejercicio anterior, con abono a las cuentas del grupo 6, «Compras y gastos por naturaleza» que corresponda.
 
-Su saldo, acreedor, recogerá las obligaciones pendientes de aplicar a presupuesto.
+Su saldo, acreedor, recogerá el importe de las obligaciones derivadas de gastos devengados no recogidas en otras cuentas del Plan.
 
 416. Anticipos para activos construidos o adquiridos para otras entidades.
 
@@ -948,9 +936,7 @@ b.1) La cuenta 453, «Entes públicos, por ingresos pendientes de liquidar», po
 
 b.2) La cuenta 554, «Cobros pendientes de aplicación», o a cuentas del subgrupo 57, «Efectivo y activos líquidos equivalentes», según corresponda, cuando las entregas a cuenta hayan sido superiores al importe de la recaudación líquida y proceda el reintegro de dichas cantidades, en el momento de efectuarse el mismo.
 
-457.
-
-Acreedores por devolución de ingresos por recursos de otros entes.
+457. Acreedores por devolución de ingresos por recursos de otros entes.
 
 Cuenta acreedora que recoge el reconocimiento de la obligación de pagar o devolver cantidades indebidamente recaudadas, cuando se trate de ingresos por recursos de otros entes.
 
@@ -1301,5 +1287,7 @@ b) Se cargará, igualmente al final del ejercicio, por la dotación realizada al
 a) Se abonará, a lo largo del ejercicio, por el importe de los riesgos que se vayan estimando, con cargo a la cuenta 697, «Pérdidas por deterioro de créditos», a través de la subcuenta que corresponda.
 
 b) Se cargará a medida que se vayan dando de baja los saldos de deudores para los que se dotó la cuenta correctora de forma individualizada o cuando desaparezca el riesgo, por el importe de la misma, con abono a la cuenta 797, «Reversión del deterioro de créditos», a través de la subcuenta que corresponda.
+
+> Se modifican las cuentas 400 y 413 y se suprime la 411 por el art. único.3.a) a c) de la Orden HFP/1970/2016, de 16 de diciembre. Ref. BOE-A-2016-12431
 
 > Se modifica la definición de las cuentas 400, 430 y 443 y el movimiento c) de la cuenta 413 por el art. 3.7.b) a e) de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.

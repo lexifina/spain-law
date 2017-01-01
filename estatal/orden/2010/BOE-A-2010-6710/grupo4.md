@@ -15,9 +15,9 @@
 | 41. ACREEDORES NO PRESUPUESTARIOS. |
 | --- |
 |  | 410. Acreedores por IVA soportado. |
-|  | 411. Acreedores por periodificación de gastos presupuestarios. |
+|  | 411. (Suprimida) |
 |  | 412. Acreedores por obligaciones reconocidas. Anticipos de Tesorería. |
-|  | 413. Acreedores por operaciones pendientes de aplicar a presupuesto. |
+|  | 413. Acreedores por operaciones devengadas. |
 |  | 416. Anticipos para activos construidos o adquiridos para otras entidades. |
 |  | 418. Acreedores por devolución de ingresos y otras minoraciones. |
 |  | 419. Otros acreedores no presupuestarios. |
@@ -118,3 +118,5 @@
 |  |  | 4901. Otras cuentas a cobrar. |
 |  |  | 4902. Inversiones financieras en entidades del grupo, multigrupo y asociadas. |
 |  |  | 4903. Otras inversiones financieras. |
+
+> Se suprime la cuenta 411 y se modifica la 413 por el art. único.2 de la Orden HFP/1970/2016, de 16 de diciembre. Ref. BOE-A-2016-12431
