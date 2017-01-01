@@ -1,0 +1,3 @@
+## Disposición final segunda. Fundamento constitucional.
+
+Este texto refundido tiene la consideración de legislación básica sobre protección del medio ambiente de acuerdo con lo establecido en el artículo 149.1.23.ª de la Constitución. Asimismo, lo establecido en la disposición final primera y las referencias a la gestión de las cuencas intercomunitarias tienen su fundamento constitucional en el artículo 149.1.22.ª de la Constitución, que otorga al Estado la competencia exclusiva sobre la legislación, ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurran por más de una comunidad autónoma.

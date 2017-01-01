@@ -1,0 +1,23 @@
+## Artículo 8. Información, comunicación y acceso a la información.
+
+1. La Administración General del Estado suministrará a las comunidades autónomas la información que obre en su poder sobre las mejores técnicas disponibles, sus prescripciones de control y su evolución, así como sobre la publicación de cualesquiera conclusiones relativas a las MTD, nuevas o actualizadas, poniendo además dicha información a disposición del público.
+
+2. Cada comunidad autónoma deberá disponer de información sistematizada y actualizada sobre:
+
+a) El inventario de las instalaciones sujetas a autorización ambiental integrada ubicadas en su territorio, con especificación de las altas y las bajas en él causadas;
+
+b) Las principales emisiones y los focos generadoras de las mismas;
+
+c) Las autorizaciones ambientales integradas concedidas, con el contenido mínimo establecido en el anexo IV del Real Decreto 508/2007, de 20 de abril, por el que se regula el suministro de información sobre emisiones del Reglamento E-PRTR y de las autorizaciones ambientales integradas;
+
+d) Los informes de inspección medioambiental de las visitas in situ con las conclusiones pertinentes respecto al cumplimiento de las condiciones de la autorización por la instalación, así como en relación a cualquier ulterior actuación necesaria.
+
+3. Los titulares de las instalaciones notificarán, al menos una vez al año, a las comunidades autónomas en las que estén ubicadas, los datos sobre las emisiones correspondientes a la instalación, con especificación de la metodología empleada en las mediciones, su frecuencia y los procedimientos empleados para evaluar las mediciones, y en todo caso la información incluida en el artículo 22.1.i).
+
+4. Las comunidades autónomas remitirán al Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente con una periodicidad mínima anual la siguiente información:
+
+a) La relativa a las letras a) y b) del apartado 2, a efectos de la elaboración del Registro Estatal de Emisiones y Fuentes Contaminantes PRTR-España y su comunicación a la Comisión Europea; y
+
+b) Los anejos a los condicionados de las autorizaciones otorgadas a las instalaciones en virtud del artículo 7.5 que documentan los motivos por los que se establecen valores límite de emisión menos estrictos.
+
+5. La información regulada en este artículo será pública de acuerdo con lo previsto en la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente.

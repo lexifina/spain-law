@@ -1,0 +1,81 @@
+## Artículo 3. Definiciones.
+
+A efectos de lo dispuesto en esta ley, y sus reglamentos de desarrollo, se entenderá por:
+
+1. «Aguas subterráneas»: Todas las aguas que se encuentran bajo la superficie del suelo en la zona de saturación y en contacto directo con el suelo o el subsuelo.
+
+2. «Autorización ambiental integrada»: la resolución escrita del órgano competente de la comunidad autónoma en la que se ubique la instalación, por la que se permite, a los efectos de la protección del medio ambiente y de la salud de las personas, explotar la totalidad o parte de una instalación, bajo determinadas condiciones destinadas a garantizar que la misma cumple el objeto y las disposiciones de esta ley. Tal autorización podrá ser válida para una o más instalaciones o partes de instalaciones que tengan la misma ubicación.
+
+3. «Autorización sustantiva»: La autorización de industrias o instalaciones industriales que estén legal o reglamentariamente sometidas a autorización administrativa previa, de conformidad con el artículo de la Ley 21/1992, de 16 de julio, de Industria. En particular, tendrán esta consideración las autorizaciones establecidas en la Ley 24/2013 de 26 de diciembre, del Sector Eléctrico; en la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, y en el capítulo IV de la Ley Orgánica 4/2015, de 30 de marzo, sobre protección de la seguridad ciudadana, en lo referente a las instalaciones químicas para la fabricación de explosivos.
+
+4. «Aves de corral»: Las aves de corral tal como se definen en el artículo 2.4 del Real Decreto 1888/2000, de 22 de noviembre, por el que se establecen condiciones de sanidad animal aplicables a los intercambios comunitarios y las importaciones de aves de corral y de huevos para incubar procedentes de países terceros.
+
+5. «Conclusiones sobre las Mejores Técnicas Disponibles (MTD)»: Decisión de la Comisión Europea que contiene las partes de un documento de referencia Mejores Técnicas Disponibles (MTD) donde se establecen las conclusiones sobre las mejores técnicas disponibles, su descripción, la información para evaluar su aplicabilidad, los niveles de emisión asociados a las mejores técnicas disponibles, las mediciones asociadas, los niveles de consumo asociados y, si procede, las medidas de rehabilitación del emplazamiento de que se trate.
+
+6. «Contaminación»: La introducción directa o indirecta, mediante la actividad humana, de sustancias, vibraciones, calor o ruido en la atmósfera, el agua o el suelo, que puedan tener efectos perjudiciales para la salud humana o la calidad del medio ambiente, o que puedan causar daños a los bienes materiales o deteriorar o perjudicar el disfrute u otras utilizaciones legítimas del medio ambiente.
+
+7. «Documento de referencia de Mejores Técnicas Disponibles (MTD)»: Documento resultante del intercambio de información organizado con arreglo al artículo 13 de la Directiva 2010/75/UE, del Parlamento Europeo y del Consejo, de 24 de noviembre, sobre las Emisiones Industriales, elaborado para determinadas actividades, en el que se describen, en particular, las técnicas aplicadas, las emisiones actuales y los niveles de consumo, las técnicas que se tienen en cuenta para determinar las mejores técnicas disponibles, así como las conclusiones relativas a las Mejores Técnicas Disponibles (MTD) y las técnicas emergentes, tomando especialmente en consideración los criterios que se enumeran en el anejo 3.
+
+8. «Emisión»: La expulsión a la atmósfera, al agua o al suelo de sustancias, vibraciones, calor o ruido procedentes de forma directa o indirecta de fuentes puntuales o difusas de la instalación.
+
+9. «Informe base o de la situación de partida»: Es el informe de la situación de partida que contiene la información sobre el estado de la contaminación del suelo y las aguas subterráneas por sustancias peligrosas relevantes.
+
+10. «Inspección ambiental»: Toda acción llevada a cabo por la autoridad competente o en nombre de ésta para comprobar, fomentar y asegurar la adecuación de las instalaciones a las condiciones de las autorizaciones ambientales integradas y controlar, en caso necesario, su repercusión ambiental. Se incluyen en esta definición, entre otras acciones: las visitas in situ, la medición de emisiones, la comprobación de informes internos y documentos de seguimiento, la verificación de autocontroles, la comprobación de técnicas usadas y la adecuación de la gestión ambiental de la instalación. El fin de la inspección es garantizar el cumplimiento de la normativa ambiental de las actividades o instalaciones bajo el ámbito de aplicación de esta norma.
+
+11. «Instalación»: Cualquier unidad técnica fija en donde se desarrolle una o más de las actividades industriales enumeradas en el anejo 1 de esta ley, así como cualesquiera otras actividades directamente relacionadas con aquellas que guarden relación de índole técnica con las actividades llevadas a cabo en dicho lugar y puedan tener repercusiones sobre las emisiones y la contaminación.
+
+12. «Mejores técnicas disponibles (MTD)»: La fase más eficaz y avanzada de desarrollo de las actividades y de sus modalidades de explotación, que demuestren la capacidad práctica de determinadas técnicas para constituir la base de los valores límite de emisión y otras condiciones de la autorización destinadas a evitar o, cuando ello no sea practicable, reducir las emisiones y el impacto en el conjunto del medio ambiente y la salud de las personas.
+
+A estos efectos se entenderá por:
+
+a) «Técnicas»: La tecnología utilizada junto con la forma en que la instalación esté diseñada, construida, mantenida, explotada y paralizada.
+
+b) «Técnicas disponibles»: Las técnicas desarrolladas a una escala que permita su aplicación en el contexto del sector industrial correspondiente, en condiciones económica y técnicamente viables, tomando en consideración los costes y los beneficios, tanto si las técnicas se utilizan o producen en España como si no, siempre que el titular pueda tener acceso a ellas en condiciones razonables.
+
+c) «Mejores técnicas»: Las técnicas más eficaces para alcanzar un alto nivel general de protección del medio ambiente en su conjunto.
+
+13. «Modificación no sustancial»: Cualquier modificación de las características o del funcionamiento, o de la extensión de la instalación, que, sin tener la consideración de sustancial, pueda tener consecuencias en la seguridad, la salud de las personas o el medio ambiente.
+
+14. «Modificación sustancial»: Cualquier modificación realizada en una instalación que, en opinión del órgano competente para otorgar la autorización ambiental integrada y de acuerdo con los criterios establecidos en el artículo 10.4 y 5, pueda tener repercusiones perjudiciales o importantes en las personas y el medio ambiente.
+
+15. «Niveles de emisión asociados con las mejores técnicas disponibles (MTD)»: El rango de niveles de emisión obtenido en condiciones normales de funcionamiento haciendo uso de una de las mejores técnicas disponibles o de una combinación de las mejores técnicas disponibles, según se describen en las conclusiones sobre las MTD, expresado como una media durante un determinado período de tiempo, en condiciones de referencia específicas.
+
+16. «Normas de calidad medioambiental»: El conjunto de requisitos establecidos por la normativa aplicable que deben cumplirse en un momento dado en un entorno determinado o en una parte determinada de éste.
+
+17. «Órgano competente para otorgar la autorización ambiental integrada»: El órgano designado por la comunidad autónoma en la que se ubique la instalación objeto de la autorización. En tanto no se produzca una designación específica por parte de la comunidad autónoma, se entenderá competente el órgano de dicha Administración que ostente las competencias en materia de medio ambiente.
+
+18. «Parámetros o medidas técnicas equivalentes»: Aquellos que, con carácter supletorio o complementario, se considerarán cuando las características de la instalación no permitan una determinación adecuada de valores límite de emisión o cuando no exista normativa aplicable.
+
+19. «Personas interesadas»:
+
+a) Todos aquéllos en quienes concurran cualquiera de las circunstancias previstas en el artículo 4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas..
+
+b) Cualesquiera personas jurídicas sin ánimo de lucro que cumplan los siguientes requisitos:
+
+1.º Que tengan entre los fines acreditados en sus estatutos la protección del medio ambiente en general o la de alguno de sus elementos en particular, y que tales fines puedan resultar afectados por la toma de una decisión sobre la concesión o revisión de la autorización ambiental integrada o de sus condiciones.
+
+2.º Que lleve dos años legalmente constituida y venga ejerciendo de modo activo las actividades necesarias para alcanzar los fines previstos en sus estatutos.
+
+3.º Que según sus estatutos desarrolle su actividad en un ámbito territorial que resulte afectado por la instalación para la que se solicita la autorización ambiental integrada.
+
+20. «Público»: Cualquier persona física o jurídica, así como sus asociaciones, organizaciones y grupos constituidos con arreglo a la normativa que les sea de aplicación.
+
+21. «Residuo»: Cualquier residuo, como queda definido en el artículo 3 a) de la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados.
+
+22. «Residuo peligroso»: Cualquier residuo peligroso, como se define en el artículo 3 e) de la Ley 22/2011, de 28 de julio.
+
+23. «Suelo»: La capa superior de la corteza terrestre, situada entre el lecho rocoso y la superficie, compuesta por partículas minerales, materia orgánica, agua, aire y organismos vivos y que constituye la interfaz entre la tierra, el aire y el agua, lo que le confiere capacidad de desempeñar tanto funciones naturales como de uso. No tendrán tal consideración aquellos permanentemente cubiertos por una lámina de agua superficial.
+
+24. «Sustancia»: Los elementos químicos y sus compuestos, con la excepción de las siguientes sustancias:
+
+a) Las sustancias radiactivas reguladas en la Ley 25/1964, de 29 de abril, sobre energía nuclear.
+
+b) Los organismos y microorganismos modificados genéticamente, tal como se definen en el artículo 2 de la Ley 9/2003, de 25 de abril, por la que se establece el régimen jurídico de la utilización confinada, liberación voluntaria y comercialización de organismos modificados genéticamente, y haciendo uso de las técnicas de modificación genéticas previstas en el artículo 3 del Real Decreto 178/2004, de 30 de enero, por el que se aprueba el reglamento general para el desarrollo y ejecución de la Ley 9/2003, de 25 de abril, por la que se establece el régimen jurídico de la utilización confinada, liberación voluntaria y comercialización de organismos modificados genéticamente.
+
+25. «Sustancias peligrosas»: Sustancias o mezclas definidas en el artículo 3 del Reglamento (CE) n.º 1272/2008, del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas.
+
+26. «Técnica emergente»: Una técnica novedosa para una actividad industrial que, si se desarrolla comercialmente, puede aportar un nivel general más alto de protección del medio ambiente o al menos el mismo nivel de protección del medio ambiente y unos ahorros de costes superiores a los que se obtendrían con las mejores técnicas disponibles actuales.
+
+27. «Titular»: Cualquier persona física o jurídica que explote total o parcialmente, o posea, la instalación.
+
+28. «Valores límite de emisión»: La masa o la energía expresada en relación con determinados parámetros específicos, la concentración o el nivel de una emisión, cuyo valor no debe superarse dentro de uno o varios períodos determinados.
