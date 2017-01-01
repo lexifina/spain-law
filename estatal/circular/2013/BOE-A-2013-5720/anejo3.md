@@ -11,9 +11,9 @@
 | Plazo residual | Plazo entre la fecha a la que se refiere la declaración y la de vencimiento de la operación: – Hasta tres meses – Más de tres meses y hasta un año – Más de un año y hasta cinco años – Más de cinco años – Vencimiento indeterminado |
 | Garantía real principal. Tipo de garantía real principal | Tipo de garantía real que cubre las operaciones: – Sin garantía real – Hipoteca inmobiliaria – Garantía pignoraticia (activos financieros) – Resto de las garantías reales |
 | Garantía real principal. Cobertura de la garantía real principal | Para el tipo de garantía de la dimensión “Tipo de garantía real principal”, indica si la cobertura es: – Total – Parcial |
-| Garantía personal principal. Tipo de garantía personal principal | Tipo de garantía personal, adicional a la de los titulares del riesgo directo, con la que cuente la operación en el propio contrato o en los efectos en los que se instrumente: – Sin garantía personal – Garantía de Administraciones Públicas – Garantía de CESCE o empresas públicas cuya actividad principal sea el aseguramiento o aval de crédito – Garantía de entidad declarante a la CIR – Resto de garantías personales |
+| Garantía personal principal. Tipo de garantía personal principal | Tipo de garantía personal, adicional a la de los titulares del riesgo directo, con la que cuenta la operación facilitada por garantes, salvo que la garantía sea sin conocimiento del titular, o comprometida en los efectos en los que se instrumente la operación: – Garantía de Administraciones Públicas. – Garantía de CESCE o empresas públicas cuya actividad principal sea el aseguramiento o aval de crédito. – Garantía de entidad declarante a la CIR. – Resto de las garantías personales. |
 | Garantía personal principal. Cobertura de la garantía personal principal | Para el tipo de garantía de la dimensión “Tipo de garantía personal principal”, indica si la cobertura es: – Total – Parcial |
-| Situación de la operación | Situación que corresponde a los importes que se informan: – Operación reestructurada al amparo del Real Decreto Ley 6/2012 – Operación de refinanciación, refinanciada o reestructurada por otros motivos – Operación incluida en un convenio de acreedores – Otras situaciones con incumplimientos entre más de 90 días y hasta cuatro años – Otras situaciones con incumplimientos de más de cuatro años – Operación en suspenso |
+| Situación de la operación | Situación que corresponde a los importes que se informan: – Operación en suspenso. – Operaciones con incumplimientos de más de cuatro años. – Operaciones con incumplimientos entre más de 90 días y hasta cuatro años. – Operación incluida en un convenio de acreedores. – Operación reestructurada o reunificada al amparo del Real Decreto-ley 6/2012. – Operación de refinanciación, refinanciada o reestructurada, fuera del Real Decreto-ley 6/2012. |
 | IMPORTES: RIESGOS DIRECTOS |
 | Riesgo dispuesto |  |
 | Total | Importe del riesgo correspondiente a principal vencido o no, intereses y comisiones vencidos, intereses de demora y gastos exigibles pendientes de cobro. |
@@ -26,6 +26,8 @@
 | Del que: Importes vencidos | Importe del riesgo dispuesto garantizado vencido cuando la fecha del primer incumplimiento de la operación tenga una antigüedad de más de 90 días. |
 | Del que: Intereses de demora y gastos exigibles | Importe del riesgo dispuesto garantizado correspondiente a intereses de demora y gastos pendientes de cobro cuando la fecha del primer incumplimiento de la operación tenga una antigüedad de más de 90 días. |
 | Riesgo disponible | “Riesgo máximo garantizado” menos “Riesgo dispuesto garantizado”. |
+
+> Se modifica por la disposición final 2.b) y el anejo 3 de la Circular de 29 de noviembre de 2016. Ref. BOE-A-2016-11483.
 
 > Se modifica por la norma 3.10 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365.
 
