@@ -219,15 +219,26 @@ e) 5. Inspecciones.–El número de inspecciones de campo será de tres como mí
 
 f) Requisitos de las semillas: Las semillas de las distintas categorías han de cumplir los requisitos que se señalan en el anejo número dos, salvo los correspondientes a pureza varietal de las semillas parental e híbrida de colza, que serán los que figuran en el apartado g).
 
-g) Requisitos especiales de la semilla parental e híbrida de colza: En el caso de híbridos de colza producidos utilizando androesterilidad, la semilla tendrá suficiente identidad y pureza en cuanto a las características varietales de sus componentes, incluyendo, según los casos, la androesterilidad o la restauración de la fertilidad.
+g) Requisitos especiales para la producción de semilla parental e híbrida de colza: En el caso de híbridos de colza producidos utilizando androesterilidad, la semilla tendrá suficiente identidad y pureza en cuanto a las características varietales de sus componentes, incluyendo, según los casos, la androesterilidad o la restauración de la fertilidad.
 
 La pureza varietal mínima de la semilla será la siguiente:
 
-| Tipo de semilla | Pureza varietal mínima (%) |
+| Tipo de semilla | Pureza varietal mínima – Porcentaje |
 | --- | --- |
 | Semilla de base (componente femenino) | 99,0 |
 | Semilla de base (componente masculino) | 99,9 |
-| Semilla certificada | 90,0 |
+| Semilla certificada de las variedades de colza de invierno | 90,0 |
+| Semilla certificada de las variedades de colza de primavera | 85,0 |
+
+> Téngase en cuenta que la última modificación de esta tabla, establecida por el art. único de la Orden AAA/785/2016, de 23 de mayo. Ref. BOE-A-2016-4971., produce efectos a partir del 1 de enero de 2017.
+
+> Redacción anterior:
+
+> | Tipo de semilla | Pureza varietal mínima (%) |
+> | --- | --- |
+> | Semilla de base (componente femenino) | 99,0 |
+> | Semilla de base (componente masculino) | 99,9 |
+> | Semilla certificada | 90,0 |
 
 Para poder precintar la semilla certificada será necesario disponer de resultados satisfactorios de un postcontrol oficial en campo realizado con muestras de semilla de base tomadas oficialmente y llevado a cabo durante el mismo período vegetativo en que se está produciendo la semilla certificada, con el fin de confirmar que las semillas de base cumplen los requisitos establecidos en cuanto a identidad y pureza, incluida la androesterilidad.
 
@@ -318,5 +329,7 @@ En las etiquetas de asociaciones varietales, en lugar del nombre de la variedad,
 ## IX. Semilla importada
 
 La semilla que se importe de países terceros deberá corresponder a especies y categorías para las cuales haya sido reconocida la equivalencia en los procesos de producción y de los requisitos de la semilla a nivel de la Unión Europea.
+
+> Se modifica la letra g) del apartado IV, con efectos de 1 de enero de 2017, por el art. único de la Orden AAA/785/2016, de 23 de mayo. Ref. BOE-A-2016-4971.
 
 > Se corrigen errores por ORDEN ARM/2555/2011, de 21 de septiembre. Ref. BOE-A-2011-15172.
