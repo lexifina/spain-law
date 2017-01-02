@@ -35,6 +35,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 21](a2-3.md)
 - [Artículo 22](a2-4.md)
 - [Artículo 23](a2-5.md)
+- [Artículo 24](a2-6.md)
 - [Disposición final primera](df.md)
 - [Disposición final segunda](df-2.md)
 - [Disposición final cuarta](df-3.md)
@@ -42,4 +43,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [ANEXO I](ai.md)
 - [ANEXO II](ai-2.md)
 - [ANEXO III](ai-3.md)
+- [ANEXO IV](ai-4.md)
 - [(Información relacionada)](ir.md)

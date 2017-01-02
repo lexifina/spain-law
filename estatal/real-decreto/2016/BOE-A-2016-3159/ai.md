@@ -10,7 +10,7 @@ A efectos de este real decreto se entenderá por coordinador al encargado de los
 
 Los otros gastos de personal no podrán exceder el 40 % del importe total de los gastos subvencionables de la actuación.
 
-2. Gastos de transporte y alojamiento.
+2. Gastos de transporte, alojamiento y manutención.
 
 Los gastos de desplazamiento, alojamiento y manutención estarán sujetos, cuando proceda, a lo dispuesto para el grupo 2 en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio, así como en la Resolución de 2 de diciembre de 2005, de la Secretaría de Estado de Hacienda y Presupuestos, por la que se hace público el Acuerdo de Consejo de Ministros de 2 de diciembre de 2005, por el que, en cumplimiento de lo dispuesto en la disposición final cuarta del Real Decreto 462/2002, de 24 de mayo, se revisa el importe de las dietas en territorio nacional establecidas en su anexo II.
 
@@ -23,8 +23,4 @@ En caso de desplazamiento en vehículo propio, la cuantía subvencionable será 
 
 Los gastos de transporte y alojamiento no podrán exceder el 60 % del importe total de los gastos subvencionables de la actuación.
 
-3. Otros gastos.
-
-Los gastos recogidos en este punto se justificarán mediante un certificado de la entidad beneficiaria que los detalle, la cual deberá conservar las facturas correspondientes a esos gastos y los documentos acreditativos de los pagos a disposición de los órganos de control público, tanto nacionales como comunitarios:
-
-Gastos de alquiler de instalaciones de terceros y de maquinaria requeridos por el desarrollo de la actividad.
+> Se modifica el apartado 2 y se suprime el 3 por el art. 2.6 del Real Decreto 702/2016, de 23 de diciembre. Ref. BOE-A-2016-12275

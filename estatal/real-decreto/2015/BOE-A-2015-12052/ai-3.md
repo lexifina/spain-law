@@ -20,12 +20,12 @@
 | 1.3 Valoración del grado de coincidencia entre los objetivos de la inversión y los propuestos por la EAP (máximo 5 puntos): |  |
 | 1.3.1 Inversión de la EAP coincidente con alguno de los fines constitutivos de la misma, en cuanto a los fines empresariales. | 5 |
 | 1.4 Ayudas recibidas con anterioridad para inversiones, dirigidos a los profesionales del medio rural y financiados por el Fondo Europeo Agrario de Desarrollo Rural (FEADER) y el Ministerio de Agricultura, Alimentación y Medio Ambiente. Cuando la EAP no haya sido beneficiaria con anterioridad de ayudas con destino a la inversión (máximo 5 puntos): |  |
-| 1.4.1 No haber recibido ayudas públicas para inversiones en el mismo periodo presupuestario FEADER, para esta medida. | 5 |
+| 1.4.1 No haber sido beneficiaria de la medida de inversiones del PNDR en el mismo periodo presupuestario FEADER. | 5 |
 | Características del proyecto (máximo 72 puntos) |  |
 | 2.1 Valoración respecto a la ubicación de la futura inversión (máximo 6 puntos): |  |
 | 2.1.1 En los casos de inversiones que tengan lugar en regiones insulares. | 2 |
 | 2.1.2 En los casos de inversiones que tengan lugar en zonas rurales. | 2 |
-| 2.1.3 En los casos de inversiones que supongan traslado de las instalaciones del interior de un casco urbano a otras zonas habilitadas para el uso proyectado. | 2 |
+| 2.1.3 En los casos de inversiones que supongan traslado de las instalaciones del interior de un casco urbano a una zona rural (fuera del casco urbano). | 2 |
 | 2.2 Valoración respecto a las repercusiones económicas y sociales (máximo 10 puntos): |  |
 | 2.2.1 Inversión de la EAP vinculada a la creación de empleo en la propia EAP. | 5 |
 | 2.2.2 Inversión de la EAP vinculada a la creación de empleo en el medio rural con influencia respecto a la EAP. | 5 |
@@ -51,5 +51,7 @@
 | 2.7.8 Si el proyecto de inversión contribuye a la mejora de la sostenibilidad, la reducción de los impactos ambientales y/o la mitigación al cambio climático. | 2 |
 | 2.8 Las inversiones deberán tener en cuenta las mejoras o nuevas técnicas disponibles (MTD) propias de su sector de actividad que consigan mejores niveles productivos con menor consumo de recursos. Para acreditar esto, en la memoria que acompañe a la solicitud de ayuda se justificará expresamente y de forma razonada en qué medida las inversiones han tenido en cuenta las MTD (máximo 11 puntos): |  |
 | 2.8.1 Si el proyecto de inversión contempla las mejoras o nuevas técnicas disponibles (MTD) propias de su sector de actividad. | 11 |
+
+> Se modifican los apartados 1.4.1 y 2.1.3 por el art. 1.9 del Real Decreto 702/2016, de 23 de diciembre. Ref. BOE-A-2016-12275
 
 > Se modifica el apartado 1.2 por la disposición final 2.5 del Real Decreto 126/2016, de 1 de abril. Ref. BOE-A-2016-3159#df-2
