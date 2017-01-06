@@ -216,6 +216,7 @@ ANEXO
 | XV-B | Códigos documentos casilla 44. |
 | XV-C | Formatos. |
 | XVI | Impresos y modelos. |
+| XVII | Códigos Ayuda Régimen Especial de Abastecimiento de Canarias (REA) |
 
 RESUMEN DE MODIFICACIONES
 
@@ -300,5 +301,7 @@ RESUMEN DE MODIFICACIONES
 | Actualización referencia legal códigos «C», E02 y 801 a 806. Nuevos códigos: F06, 110, 111, 112, 113, 128, 342 504. |
 | Anexo XV-B |
 | Actualización textos y referencias legales códigos. Nuevos códigos comunitarios: C048, C401 a C405 C691-C692, D017-D018, E020, U065 a U071, IJ092 a U094, Y044, Y047-Y048, Y051 a Y056, Y800, Y910, Y932 a Y936. Nuevos códigos nacionales: 1015, 1117-1118, 1223-1224, 5012, 5013, 9007, 9009 a 9013. Supresión códigos: A024 a A026, C031, C634, U030, Y005 e Y050. |
+
+> Se añade un anexo XVII por el que figura como anexo de la Resolución de 3 de enero de 2017, según establece su apartado primero. Ref. BOE-A-2017-159
 
 > Se añade el apartado 2.6 al capítulo 2º por el apartado primero.9 de la Resolución de 14 de enero de 2016. Ref. BOE-A-2016-646
