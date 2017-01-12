@@ -30,8 +30,10 @@ b) Tránsito peatonal y rodado, paralelo al canal, en una anchura no inferior a 
 
 a) (Anulada)
 
-b) Se presumirá la existencia del título administrativo necesario según la legislación de puertos y costas, a los efectos previstos en la letra a) del apartado 4, salvo prueba en contrario, para las construcciones existentes a la entrada en vigor de este Reglamento.
+b) (Anulada)
 
 c) Las distancias establecidas en el apartado 5 para el acceso público y el tránsito podrán variarse en aquellos casos en que la exigencia de estas distancias supusiera una división de las fincas urbanas edificadas.
+
+> Se anula la letra b) del apartado 9 por Sentencia del TS de 27 de octubre de 2016. Ref. BOE-A-2017-338.
 
 > Se anula la letra a) del apartado 9 por Sentencia del TS de 8 de septiembre de 2016. Ref. BOE-A-2016-11280.
