@@ -116,23 +116,11 @@ Reconocimiento de centros de formación para la expedición de licencias de arma
 
 Descripción: Remisión de la solicitud y aportación de la documentación necesaria para habilitar a centros de formación para impartir las pruebas de capacitación sobre conocimiento de armas, su cuidado y conservación, y sobre habilidad para su manejo y utilización, así como la acreditación del conocimiento del Reglamento de Armas.
 
-Sustitución vigilancia humana en depósitos comerciales y de consumo.
-
-Descripción: Remisión de la solicitud y aportación de la documentación necesaria para autorizar la sustitución de la vigilancia humana en depósitos comerciales y de consumo de explosivos.
-
 Procedimientos sobre procesos selectivos
 
 Ingreso en la Escala de Cabos y Guardias de la Guardia Civil:
 
 Descripción: Remisión de solicitud y aportación de la documentación necesaria para la realización de las pruebas selectivas para la incorporación a la Escala de Cabos y Guardias de Guardia Civil.
-
-Ingreso en la Escala Facultativa Superior de la Guardia Civil:
-
-Descripción; Remisión de solicitud y aportación de la documentación necesaria para la realización de las pruebas selectivas para el ingreso en la Escala Facultativa Superior de la Guardia Civil.
-
-Ingreso en la Escala Facultativa Técnica de la Guardia Civil:
-
-Descripción; Remisión de solicitud y aportación de la documentación necesaria para la realización de las pruebas selectivas para el ingreso en la Escala Facultativa Técnica de la Guardia Civil.
 
 Procedimientos sobre Seguridad Privada:
 
@@ -161,6 +149,12 @@ Descripción; Acceso del solicitante a sus datos personales- antecedentes polici
 Cancelación de antecedentes policiales en Guardia Civil:
 
 Descripción; Posibilidad de cancelar los datos personales- antecedentes policiales desfavorables incluidos en el fichero INTPOL de la Guardia Civil.
+
+Autorización de uso marca Guardia Civil.
+
+Descripción: Remisión de solicitud y aportación de la documentación necesaria para obtener la autorización de uso de la marca y los diseños industriales registrados propiedad de la Guardia Civil.
+
+> Se modifica por Resolución de 12 de enero de 2017. Ref. BOE-A-2017-763.
 
 > Se modifica por Resolución de 2 de febrero de 2012. Ref. BOE-A-2012-2335.
 
