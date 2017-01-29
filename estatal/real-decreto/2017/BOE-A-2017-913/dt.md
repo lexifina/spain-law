@@ -1,0 +1,3 @@
+## Disposición transitoria única. Programas seleccionados con anterioridad al 1 de diciembre de 2015.
+
+Las disposiciones de la Orden AAA/1548/2014, de 28 de agosto, por la que se establecen las bases reguladoras de las ayudas para programas de información y promoción de productos agrícolas en el mercado interior y en terceros países, previstas en el Reglamento (CE) n.º 3/2008 del Consejo, de 17 de diciembre de 2007, sobre acciones de información y de promoción de los productos agrícolas en el mercado interior y en terceros países, seguirán siendo de aplicación a aquellas medidas de información y de promoción para las cuales la Comisión haya decidido la financiación antes del 1 de diciembre de 2015.
