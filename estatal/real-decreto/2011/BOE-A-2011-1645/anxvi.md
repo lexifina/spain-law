@@ -1,73 +1,79 @@
 ## ANEXO XVI
 
-## Capítulo 1. Información que deben suministrar las Comunidades Autónomas y las Entidades Locales a la Dirección General de Calidad y Evaluación Ambiental en virtud del artículo 27
+## CAPÍTULO 1
 
-## Sección 1. Información general
+## Información que deben suministrar las Comunidades Autónomas y las Entidades Locales a la Dirección General de Calidad y Evaluación Ambiental y Medio Natural en virtud del artículo 27
 
-Con carácter general y con excepción del amoniaco, las comunidades autónomas y las entidades locales suministrarán:
+Sección 1. Información general
 
-1. La información sobre las designaciones a que se refiere el apartado 3.a) del artículo 3.
+El intercambio de información y la notificación sobre la calidad del aire ambiente se realizará de acuerdo a las disposiciones establecidas en la Decisión 2011/850/UE por la que se establecen disposiciones para las Directivas 2004/107/CE y 2008/50/CE del Parlamento Europeo y del Consejo en relación con el intercambio recíproco de información y la notificación sobre la calidad del aire ambiente.
 
-2. Las listas de las zonas y aglomeraciones contempladas en el apartado 2 del artículo 13, en los seis meses siguientes al final de cada año. En el caso de cambios en la zonificación, deberá acompañarse de un informe técnico que justifique dichos cambios.
+El suministro de información requerido por la Decisión 2011/850/UE se realizará de acuerdo a lo establecido en las Guías que la desarrollen, elaboradas por la Comisión Europea, así como en sus sucesivas actualizaciones.
 
-3. Antes del 30 de junio del año siguiente al que se refiere la información:
+Con carácter general, y con excepción del amoniaco, las comunidades autónomas y las entidades locales suministrarán:
 
-a) Intercambio de información de calidad del aire:
+1. La información sobre las designaciones a que se refiere el artículo 3, apartado 3.a).
 
-Los datos e informaciones requeridas por la Decisión del Consejo 97/101/CE, de 27 de enero de 1997, por la que se establece un intercambio recíproco de información y datos de las redes y estaciones aisladas de medición de la contaminación atmosférica, modificada por la Decisión 2001/752/CE de la Comisión, de 17 de octubre de 2001, o por la normativa europea que la sustituya.
+2. Antes del 30 de noviembre de cada año se enviará:
 
-b) Cuestionario de Evaluación:
+a) La lista provisional de las zonas y aglomeraciones contempladas en el artículo 13, apartado 2, necesarias para la evaluación del año siguiente al año en curso, o bien se indicará que no ha habido ningún cambio respecto a la última comunicación oficial.
 
-La información requerida por la Decisión 2004/461/CE de la Comisión, de 29 de abril del 2004, relativa al cuestionario que debe utilizarse para presentar información anual sobre la evaluación de la calidad del aire ambiente de conformidad con las Directivas 96/62/CE y 1999/30/CE del Consejo y con las Directivas 2000/69/CE y 2002/3/CE del Parlamento Europeo y el Consejo, o por la normativa europea que la sustituya.
+b) El sistema de evaluación provisional, según lo indicado en los artículos 7 y 9, aplicable a cada contaminante para cada zona y aglomeración en concreto, necesario para la evaluación del año siguiente al año en curso, o bien se indicará que no ha habido ningún cambio respecto a la última comunicación oficial.
 
-El suministro de información requerido por la Directiva 2004/107/CE se realizará a través de la ampliación del citado cuestionario de acuerdo a las guías elaboradas por la Comisión Europea para rellenar el cuestionario de calidad del aire y sus sucesivas actualizaciones.
+c) Cuando sean pertinentes, los planes de actuación contemplados en el artículo 24, incluyendo información sobre la contribución de fuentes, sobre el escenario de evaluación para el año de consecución, y sobre las medidas de mejora de calidad del aire. Toda esta información será relativa a los incumplimientos que hayan tenido lugar dos años antes del año en curso.
 
-c) Planes de calidad del aire:
+d) Cuando sean pertinentes, las medidas de mejora de la calidad del aire de los contaminantes de la Directiva 2004/107/CE, relativa al arsénico, el cadmio, el mercurio, el níquel y los hidrocarburos aromáticos policíclicos en el aire ambiente.
 
-Cuando sean pertinentes, los planes de actuación contemplados en el artículo 24, en el año y medio siguiente al final del año en que se hayan registrado los niveles. Los citados planes se transmitirán de acuerdo a la Decisión 2004/224/CE por la que se establecen las medidas para la presentación de información sobre planes o programas previstos en la Directiva 96/62/CE del Consejo en relación con los valores límite de determinados contaminantes del aire ambiente, o por la normativa europea que la sustituya.
+3. Antes del 30 de junio de cada año se enviará:
 
-En su caso, los planes a que se refiere el artículo 25, tan pronto como sea posible.
+a) La lista definitiva de las zonas y aglomeraciones contempladas en el artículo 13, apartado 2, necesarias para la evaluación del año anterior al año en curso. En el caso de cambios en la zonificación, deberá acompañarse de un informe técnico que justifique dichos cambios.
 
-4. La superación de los umbrales de alerta, niveles registrados y medidas adoptadas, al mismo tiempo que se informa a la población.
+b) El sistema de evaluación definitivo utilizado para el año anterior al año en curso, según lo indicado en los artículos 7 y 9, aplicable a cada contaminante para cada zona y aglomeración en concreto. En el caso de cambios significativos en el sistema de evaluación, respecto a la información provisional, deberá acompañarse de un informe técnico que justifique dichos cambios.
 
-5. Los informes de demostración de equivalencia, de acuerdo a la sección B del anexo VII.
+c) Métodos de evaluación utilizados para el año anterior al año en curso.
 
-6. Para cada mes, de abril a septiembre de cada año, y en la primera quincena del mes siguiente, los datos horarios provisionales de ozono y de dióxido de nitrógeno de las estaciones utilizadas para la protección de la población.
+d) Datos verificados relativos a la evaluación del año anterior al año en curso.
 
-7. Los métodos de medición y análisis de los COV del apartado 7 del artículo 11.
+e) Cumplimiento de objetivos medioambientales respecto al año anterior al año en curso.
 
-8. La información correspondiente a la contaminación significativa originada en otro Estado miembro de la Unión Europea o que, originada en una Comunidad Autónoma, pueda tener consecuencias en otro Estado, recogida en el artículo 26 de este Real Decreto.
+4. Los datos en tiempo real, correspondientes al año en curso, se enviarán a la Dirección General de Calidad y Evaluación Ambiental y Medio Natural con la frecuencia adecuada a cada método de evaluación y a la mayor brevedad posible, después de que la autoridad competente los haya puesto a disposición del público.
 
-9. La información necesaria para la actuación con otra Comunidad Autónoma cuando se sobrepasen los objetivos de calidad del aire fijados en un ámbito territorial superior al de la Comunidad Autónoma origen de la contaminación, para poner en marcha el mecanismo correspondiente de coordinación.
+5. Los datos básicos de partículas, medidos en las estaciones de referencia para su empleo en el descuento de los aportes de fuentes naturales se enviarán como datos verificados a más tardar el 28 de febrero del año en curso para la evaluación del año anterior.
 
-10. Cuando, de acuerdo con el artículo 23, las autoridades competentes soliciten de la Comisión Europea una prórroga del plazo de aplicación de los valores límite de NO2 y/o benceno o una exención del cumplimiento de los valores límite de PM10, la información requerida en dicho artículo.
+6. La superación de los umbrales de alerta, niveles registrados y medidas adoptadas, al mismo tiempo que se informa a la población.
 
-11. La adopción de niveles más estrictos que los correspondientes a los valores límite establecidos en el ordenamiento estatal.
+7. Los informes de demostración de equivalencia, de acuerdo a la sección B del anexo VII.
 
-12. Toda la información adicional que en su momento recojan las «Medidas de ejecución» que debe aprobar la Comisión Europea de acuerdo con el apartado 2 del artículo 28 de la Directiva 2008/50/CE y en el plazo estipulado por dichas medidas de ejecución.
+8. La información correspondiente a la contaminación significativa originada en otro Estado miembro de la Unión Europea o que, originada en una comunidad autónoma, pueda tener consecuencias en otro Estado, recogida en el artículo 26.
 
-13. La información sobre la metodología del IME a que hace referencia el anexo XIII.
+9. La información necesaria para la actuación con otra comunidad autónoma cuando se sobrepasen los objetivos de calidad del aire fijados en un ámbito territorial superior al de la comunidad autónoma origen de la contaminación, para poner en marcha el mecanismo correspondiente de coordinación.
 
-14. Cuando sea de aplicación, los resultados de la evaluación preliminar prevista en la disposición transitoria única.
+10. La adopción de niveles más estrictos que los correspondientes a los objetivos de calidad del aire establecidos en el ordenamiento estatal.
 
-15. En general, todas las informaciones referidas a contaminantes regulados que se señalan en los anexos anteriores del presente Real Decreto.
+11. Toda la información adicional que en su momento recojan las “Medidas de ejecución” que debe aprobar la Comisión Europea de acuerdo con el artículo 28, apartado 2 de la Directiva 2008/50/CE y en el plazo estipulado por dichas medidas de ejecución.
+
+12. En general, todas las informaciones referidas a contaminantes regulados que se señalan en los anexos anteriores del presente real decreto.
 
 Los criterios para agregar los datos y calcular los parámetros estadísticos establecidos en este anexo serán los que figuran en la sección J del anexo I.
 
-## Sección 2. Información referente al amoniaco.
+Sección 2. Información referente al amoniaco
 
-Con periodicidad anual, y antes del 30 de junio del año siguiente al que se refiere la información, las comunidades autónomas y, en su caso, las entidades locales, enviarán a la Dirección General de Calidad y Evaluación Ambiental la siguiente información:
+Con periodicidad anual, y antes del 30 de junio del año siguiente al que se refiere la información, las comunidades autónomas y, en su caso, las entidades locales, enviarán a la Dirección General de Calidad y Evaluación Ambiental y Medio Natural la siguiente información:
 
-1. Datos brutos obtenidos en las mediciones de amoniaco en estaciones de tráfico.
+1. Datos verificados obtenidos en las mediciones de amoniaco en estaciones de tráfico.
 
-## Capítulo 2. Información que debe suministrar el Ministerio de Medio Ambiente, y Medio Rural y Marino a las Comunidades Autónomas en virtud del artículo 27
+## CAPÍTULO 2
 
-El Ministerio de Medio Ambiente, y Medio Rural y Marino, a través de la Dirección General de Calidad y Evaluación Ambiental y en coordinación con la Agencia Estatal de Meteorología suministrará:
+## Información que debe suministrar el Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente a las Comunidades Autónomas en virtud del artículo 27
 
-1. Los datos procedentes de analizadores automáticos de las estaciones de la red EMEP/VAG/CAMP, en tiempo casi real.
+El Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente, a través de la Dirección General de Calidad y Evaluación Ambiental y Medio Natural y en coordinación con la Agencia Estatal de Meteorología suministrará:
 
-2. Antes del 28 de febrero del año siguiente al que se refiere la información, los datos de PM10 y PM2,5 de las estaciones de referencia para el descuento de los aportes de fuentes naturales.
+1. A solicitud de las autoridades competentes interesadas, los datos en tiempo real procedentes de analizadores de las estaciones de la red EMEP/VAG/CAMP.
 
-3. Antes del 31 de marzo del año siguiente al que se refiere la información, los datos estadísticos procedentes de analizadores automáticos de las estaciones de la red EMEP/VAG/CAMP, requeridos por la Decisión 2004/461/CE de la Comisión, de 29 de abril del 2004, relativa al cuestionario que debe utilizarse para presentar información anual sobre la evaluación de la calidad del aire ambiente de conformidad con las Directivas 96/62/CE y 1999/30/CE del Consejo y con las Directivas 2000/69/CE y 2002/3/CE del Parlamento europeo y el Consejo, o por la normativa europea que la sustituya.
+2. Antes del 15 de marzo del año siguiente al que se refiere la información, los datos verificados de PM10 y PM2,5 de las estaciones de referencia de la Red EMEP/VAG/CAMP y de las demás redes que participan en el descuento de los aportes de fuentes naturales.
 
-4. Antes del 30 de junio del año siguiente al que se refiere la información, los datos brutos de las mediciones indicativas de partículas PM2,5 a que se refiere el artículo 8; de las mediciones indicativas a que se refiere el artículo 9; y de las mediciones de amoniaco en estaciones rurales de fondo.
+3. Antes del 31 de marzo del año siguiente al que se refiere la información, los datos estadísticos procedentes de analizadores automáticos de las estaciones de las Redes de Calidad del Aire, requeridos por la Decisión 2011/850/UE por la que se establecen disposiciones para las Directivas 2004/107/CE y 2008/50/CE del Parlamento Europeo y del Consejo en relación con el intercambio recíproco de información y la notificación sobre la calidad del aire ambiente o por la normativa europea que la sustituya.
+
+4. Antes del 30 de junio del año siguiente al que se refiere la información, los datos verificados de las mediciones indicativas de partículas PM2,5 a que se refiere el artículo 8; de las mediciones indicativas a que se refiere el artículo 9; y de las mediciones de amoniaco en estaciones rurales de fondo.
+
+> Se modifica por el art. único.17 del Real Decreto 39/2017, de 27 de enero. Ref. BOE-A-2017-914.

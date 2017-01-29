@@ -10,17 +10,17 @@ Otro fin que se persigue con estas mediciones es aumentar los conocimientos sobr
 
 II. Sustancias
 
-Entre las sustancias precursoras de ozono que deberán medirse figurarán al menos los óxidos de nitrógeno y los compuestos orgánicos volátiles (COV) apropiados. A continuación figura una lista de los compuestos orgánicos volátiles cuya medición se recomienda.
+Entre las sustancias precursoras de ozono que deberán medirse figurarán al menos los óxidos de nitrógeno y los compuestos orgánicos volátiles (COV) apropiados. A continuación figura una lista de los compuestos orgánicos volátiles cuya medición se recomienda:
 
-|  | 1-Buteno | Isopreno | Etilbenceno |
+|  | 1-Buteno. | Isopreno. | Etilbenceno. |
 | --- | --- | --- | --- |
-| Etano | trans-2-Buteno | n-Hexano | m+p-Xileno |
-| Etileno | cis-2-Buteno | i-Hexeno | o-Xileno |
-| Acetileno | 1,3-Butadieno | n-Heptano | 1,2,4-Trimetilbenceno |
-| Propano | n-Pentano | n-Octano | 1,2,3-Trimetilbenceno |
-| Propeno | i-Pentano | i-Octano | 1,3,5-Trimetilbenceno |
-| n-Butano | 1-Penteno | Benceno | Formaldehído |
-| i-Butano | 2-Penteno | Tolueno | Hidrocarburos totales no metánicos |
+| Etano. | trans-2-Buteno. | n-Hexano. | m+p-Xileno. |
+| Etileno. | cis-2-Buteno. | i-Hexano. | o-Xileno. |
+| Acetileno. | 1,3-Butadieno. | n-Heptano. | 1,2,4-Trimetilbenceno. |
+| Propano. | n-Pentano. | n-Octano. | 1,2,3-Trimetilbenceno. |
+| Propeno. | i-Pentano. | i-Octano. | 1,3,5-Trimetilbenceno. |
+| n-Butano. | 1-Penteno. | Benceno. | Formaldehído. |
+| i-Butano. | 2-Penteno. | Tolueno. | Hidrocarburos totales no metánicos. |
 
 III. Emplazamiento
 
@@ -33,3 +33,5 @@ La captación pasiva de los compuestos orgánicos volátiles se realizará media
 Alternativamente, podrá usarse captación activa mediante canister y determinación mediante cromatografía de gases.
 
 Las determinaciones serán representativas de un período de medida diario o semanal. Se asegurará una cobertura temporal mínima del 14 %, con muestras repartidas homogéneamente a lo largo del año y, en el caso de mediciones diarias, en diferentes días de la semana.
+
+> Se modifica el apartado II por el art. único.16 del Real Decreto 39/2017, de 27 de enero. Ref. BOE-A-2017-914.

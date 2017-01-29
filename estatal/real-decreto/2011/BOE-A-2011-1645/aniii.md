@@ -54,24 +54,26 @@ Los puntos de medición dirigidos a la protección de los ecosistemas naturales 
 
 Deberá tenerse en cuenta la necesidad de evaluar la calidad del aire en las zonas insulares.
 
-III. Microimplantación de los puntos de muestreo
+III. Microimplantación de los puntos de medición. En la medida de lo posible, deberán seguirse las directrices siguientes:
 
-En la medida de lo posible, deberán seguirse las directrices siguientes:
+a) No deberán existir restricciones al flujo de aire alrededor del punto de entrada del sistema, ni obstáculos que afecten al flujo de aire en la vecindad del equipo de medición/captación (en general, libre en un arco de al menos 270° o de 180° en el caso de los puntos de medición de la línea de edificios). Por regla general, el punto de entrada de la toma de muestra se colocará a varios metros de edificios, balcones, árboles y otros obstáculos y, como mínimo, a 0,5 m del edificio más próximo en el caso de puntos de medición representativos de la calidad del aire en la línea de edificios.
 
-no deberán existir restricciones al flujo de aire alrededor del punto de entrada del sistema, ni obstáculos que afecten al flujo de aire en la vecindad del equipo de medición/captación. Por regla general, el punto de entrada del muestreo se colocará a varios metros de edificios, balcones, árboles y otros obstáculos, y, como mínimo, a 0,5 m del edificio más próximo en el caso de puntos de medición representativos de la calidad del aire en la línea de edificios;
+b) En general, el punto de entrada de la toma de muestra deberá estar situado entre 1,5 m, que equivale a la zona de respiración, y 4 m sobre el nivel del suelo. En algunos casos, si la estación es representativa de un área extensa podrá resultar adecuada una posición más elevada; en tal caso, esta excepción deberá estar documentada exhaustivamente.
 
-en general, el punto de entrada de medición deberá estar situado entre 1,5 m, que equivale a la zona de respiración, y 4 m sobre el nivel del suelo. En algunos casos podrá resultar necesaria una posición más elevada, de hasta 8 m. También pueden ser adecuadas posiciones más elevadas si la estación es representativa de un área extensa;
+c) El punto de entrada de la toma de muestra no deberá estar situado en las proximidades de fuentes de emisión para evitar la entrada directa de emisiones sin mezclar con el aire ambiente.
 
-el punto de entrada del muestreo no deberá estar situado en las proximidades de fuentes de emisión para evitar la entrada directa de emisiones sin mezclar con el aire ambiente;
+d) La salida del sistema de medición deberá colocarse de tal forma que se evite la recirculación del aire saliente hacia la entrada del sistema.
 
-la salida del sistema de medición/captación deberá colocarse de tal forma que se evite la recirculación del aire saliente hacia la entrada del sistema;
+e) En los emplazamientos de tráfico, para todos los contaminantes, los puntos de medición deberán estar, al menos, a 25 m del borde de los cruces principales y a una distancia no superior a 10 m del borde exterior de la acera. Se entiende como cruces principales aquellos que interrumpen el flujo del tráfico y provocan emisiones distintas (parada y arranque) de las que se producen en el resto de la carretera. Además, para el arsénico, el cadmio, el níquel y los hidrocarburos aromáticos policíclicos, deberán situarse, al menos, a 4 m del centro del carril de tráfico más próximo.
 
-en los emplazamientos de tráfico, para todos los contaminantes, los puntos de medición deberán estar al menos a 25 m del borde de los cruces principales y a una distancia no superior a 10 m del borde de la acera. Además, para el arsénico, el cadmio, el níquel y los hidrocarburos aromáticos policíclicos, deberán situarse al menos a 4 m del centro del carril de tráfico más próximo.
+f) Para las mediciones de depósitos de arsénico, cadmio, mercurio, níquel e hidrocarburos aromáticos policíclicos en zonas rurales, se aplicarán, en la medida de lo posible, las directrices y criterios del programa EMEP.
 
-para las mediciones de depósitos de arsénico, cadmio, mercurio, níquel e hidrocarburos aromáticos policíclicos en zonas rurales, se aplicarán, en la medida de lo posible, las directrices y criterios del programa EMEP.
+Además, podrán tenerse en cuenta los factores siguientes: fuentes de interferencias, seguridad, accesos, posibilidad de conexión a las redes eléctrica y telefónica, visibilidad del lugar en relación con su entorno, seguridad de la población y de los técnicos, interés de una implantación común de puntos de medición de distintos contaminantes y normas urbanísticas.
 
-Además podrán tenerse en cuenta los factores siguientes: fuentes de interferencias, seguridad, accesos, posibilidad de conexión a las redes eléctrica y telefónica, visibilidad del lugar en relación con su entorno, seguridad de la población y de los técnicos, interés de una implantación común de puntos de medición de distintos contaminantes y normas urbanísticas.
+Cualquier excepción a los criterios enumerados en el presente apartado deberá estar documentada exhaustivamente, de acuerdo con los procedimientos descritos en el apartado IV.
 
-IV. Documentación y reevaluación de la elección del emplazamiento
+IV. Documentación y reevaluación de la selección del emplazamiento.
 
-Los procedimientos de elección del emplazamiento deberán documentarse completamente en la fase de clasificación, por ejemplo, mediante fotografías del área circundante con indicación de la orientación y un mapa detallado. La elección del emplazamiento deberá revisarse a intervalos regulares con nueva documentación para cerciorarse de que los criterios de selección siguen siendo válidos.
+Las autoridades competentes responsables de la evaluación de la calidad del aire deberán documentar detalladamente, para cada una de las zonas y aglomeraciones, los procedimientos para la selección de los emplazamientos, así como registrar la información que justifique el diseño de la red y la elección de la ubicación de todos los puntos de medición. La documentación deberá incluir fotografías de la zona circundante de cada punto de medición con indicación de las coordenadas geográficas y mapas detallados. Si en una zona o aglomeración se utilizan métodos suplementarios, en la documentación deberán describirse esos métodos y se incluirá información sobre cómo se cumplen los criterios del artículo 7, apartado 3. La documentación deberá actualizarse si resulta necesario y revisarse al menos cada cinco años para que los criterios de selección, el diseño de la red y la ubicación de los puntos de medición sigan siendo válidos y óptimos a lo largo del tiempo. La documentación deberá presentarse a la Comisión Europea a más tardar a los tres meses de haber sido solicitada.
+
+> Se modifican los apartados III y IV por el art. único.8 del Real Decreto 39/2017, de 27 de enero. Ref. BOE-A-2017-914.

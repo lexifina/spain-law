@@ -50,6 +50,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO VI](cvi.md)
 - [Artículo 29](a29.md)
 - [Disposición adicional única](daunica-2.md)
+- [Disposición adicional primera](daprimera.md)
+- [Disposición adicional segunda](dasegunda.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)

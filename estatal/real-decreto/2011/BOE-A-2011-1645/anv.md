@@ -88,12 +88,18 @@ con respecto a los valores límite cuyo objeto es la protección de la salud hum
 
 Cuando sea posible, las Administraciones competentes deberán elaborar mapas que indiquen la distribución de las concentraciones dentro de cada zona o aglomeración.
 
-III. Garantía de calidad de la evaluación de la calidad del aire ambiente: Validación de los datos
+III. Garantía de calidad de la evaluación de la calidad del aire ambiente: Verificación de los datos.
 
-Con el fin de asegurar la exactitud de las mediciones y el cumplimiento de los objetivos de calidad de los datos fijados en el apartado I, las autoridades y organismos competentes designados en virtud del apartado 3.a) del artículo 3 deberán:
+Con el fin de asegurar la exactitud de las mediciones y el cumplimiento de los objetivos de calidad de los datos fijados en el apartado I, las autoridades y organismos competentes designados en virtud del artículo 3.3.a) deberán:
 
-garantizar la trazabilidad de todas las mediciones efectuadas en relación con la evaluación de la calidad del aire ambiente en virtud de los artículos 6, 8 y 10 de conformidad con los requisitos establecidos en el punto 5.6.2.2 de la norma UNE-EN ISO/IEC 17025,
+a) Garantizar la trazabilidad de todas las mediciones efectuadas en relación con la evaluación de la calidad del aire ambiente en virtud de los artículos 6, 8 y 10, de conformidad con los requisitos establecidos en la norma armonizada aplicable a los laboratorios de ensayo y calibración, es decir, la Norma UNE-EN ISO/IEC 17025: «Evaluación de la conformidad. Requisitos generales para la competencia de los laboratorios de ensayo y de calibración».
 
-asegurarse de que las instituciones responsables del funcionamiento de las redes y las estaciones individuales dispongan de un sistema de garantía y control de la calidad que incluya un mantenimiento periódico dirigido a asegurar la exactitud de los instrumentos de medición,
+b) Asegurarse de que las instituciones responsables del funcionamiento de las redes y de las estaciones individuales dispongan de un sistema de garantía y control de la calidad, que incluya un mantenimiento periódico dirigido a asegurar la exactitud constante de los instrumentos de medición. El Instituto de Salud Carlos III, como Laboratorio Nacional de Referencia, revisará el sistema de calidad cuando sea necesario y, como mínimo, cada cinco años.
 
-asegurar el establecimiento de un proceso de garantía y control de calidad para las actividades de compilación y comunicación de datos y la participación activa de las instituciones designadas para esa tarea en los programas afines de garantía de la calidad de la Comunidad.
+c) Asegurarse de que las entidades responsables del funcionamiento de las redes y estaciones individuales de entidades privadas dispongan de un sistema de garantía y control de la calidad, que incluya un mantenimiento periódico dirigido a asegurar la exactitud constante de los instrumentos de medición, siempre que sus datos vayan a ser utilizados por parte de la autoridad competente, para la evaluación de la calidad del aire, a efectos del cumplimiento del presente real decreto. Sin perjuicio de los controles del sistema de calidad que realicen los órganos competentes, laboratorios, institutos u organismos técnico-científicos, designados por las comunidades autónomas y las entidades locales con arreglo al artículo 3.3, el Instituto de Salud Carlos III, como Laboratorio Nacional de Referencia, revisará el sistema de calidad cuando sea necesario y, como mínimo, cada cinco años.
+
+d) Asegurar el establecimiento de un proceso de garantía y control de calidad para las actividades de compilación y comunicación de datos, así como la participación activa de las instituciones designadas para esa tarea en los programas afines de garantía de la calidad de la Unión Europea.
+
+Se dará por supuesta la validez de todos los datos facilitados con arreglo al artículo 27, salvo los provisionales, como los datos en tiempo real.
+
+> Se modifica el apartado III por el art. único.9 del Real Decreto 39/2017, de 27 de enero. Ref. BOE-A-2017-914.
