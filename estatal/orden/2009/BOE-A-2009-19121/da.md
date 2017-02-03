@@ -1,3 +1,5 @@
 ## Disposición adicional primera. Delegación de competencias.
 
-Se delega en el Director General de Transporte Terrestre la competencia para realizar la convocatoria de las ayudas reguladas en esta orden así como para resolver los procedimientos de reintegro.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.b) de la Orden FOM/64/2017, de 30 de enero. Ref. BOE-A-2017-1086
