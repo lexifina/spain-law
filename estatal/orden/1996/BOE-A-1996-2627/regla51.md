@@ -1,6 +1,8 @@
 ## Regla 51. Delimitación
 
-Se establece un periodo de cierre de la contabilidad económico-patrimonial del ejercicio hasta el 15 de febrero del ejercicio siguiente, en el que se registrarán como transacciones del ejercicio que se cierra, aquéllas respecto de las cuáles el acto administrativo de reconocimiento de la obligación no se hubiera podido aprobar en el mismo ejercicio en que se realizó la entrega del bien o la prestación del servicio.
+Se establece un periodo de cierre de la contabilidad económico-patrimonial de cada ejercicio, de acuerdo con lo establecido en las reglas siguientes de esta sección, en el que se registrarán como transacciones del ejercicio que se cierra aquéllas que se hayan devengado en el mismo y que a 31 de diciembre no hubieran sido objeto de registro contable.
+
+> Se modifica por el art. 2.4 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
 
 > Se modifica por el art.1.3 de la Orden HAP/883/2013, de 13 de mayo. Ref. BOE-A-2013-5392.
 
