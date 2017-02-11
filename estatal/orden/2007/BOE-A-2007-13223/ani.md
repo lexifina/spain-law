@@ -11,6 +11,7 @@
 | 102 | IRPF - SEGUNDO PLAZO | 0A |
 | 108 | GRAVAMEN ÚNICO SOBRE REVALORIZACIÓN DE ACTIVOS DE LA LEY 16/2012, PARA CONTRIBUYENTES DEL IRPF. AUTOLIQUIDACIÓN | 0A |
 | 111 | IRPF RETENCIONES E INGRESOS A CUENTA. RENDIMIENTOS DEL TRABAJO. ACTIVIDADES ECONÓMICAS, PREMIOS Y DETERMINADAS GANANCIAS PATRIMONIALES E IMPUTACIONES DE RENTAS | M-T |
+| 122 | IMPUESTO SOBRE LA RENTA DE LAS PERSONAS FÍSICAS. DEDUCCIONES POR FAMILIA NUMEROSA, POR PERSONAS CON DISCAPACIDAD A CARGO O POR ASCENDIENTE CON DOS HIJOS SEPARADO LEGALMENTE O SIN VÍNCULO MATRIMONIAL. REGULARIZACIÓN DEL DERECHO A LA DEDUCCIÓN POR CONTRIBUYENTES NO OBLIGADOS A PRESENTAR DECLARACIÓN | 0A |
 | 130 | IRPF PAGO FRACCIONADO. ACTIVIDADES ECONÓMICAS EN ESTIMACIÓN DIRECTA | T |
 | 131 | IRPF PAGO FRACCIONADO. ACTIVIDADES ECONOMICAS EN ESTIMACIÓN OBJETIVA | T |
 | 136 | IMPUESTO SOBRE LA RENTA DE LAS PERSONAS FÍSICAS E IMPUESTO SOBRE LA RENTA DE NO RESIDENTES. GRAVAMEN ESPECIAL SOBRE LOS PREMIOS DE DETERMINADAS LOTERÍAS Y APUESTAS. AUTOLIQUIDACIÓN. | T |
@@ -65,13 +66,17 @@
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
 
+> Se añade el modelo 122 por la disposición final 2 de la Orden HFP/105/2017, de 6 de febrero. Ref. BOE-A-2017-1334.
+
+> Téngase en cuenta para su aplicación lo dispuesto en la disposición final 3 de la citada Orden.
+
 > Se añade el modelo 217 por la disposición final 2 de la Orden HFP/1922/2016, de 19 de diciembre. Ref. BOE-A-2016-12113.
 
 > Esta modificación es aplicable para los periodos impositivos iniciados a partir del 1 de enero de 2013, según establece la disposición final 3.
 
 > Se añade el modelo 151 por la disposición final 3.1 de la Orden HAP/2783/2015, de 21 de diciembre. Ref. BOE-A-2015-14021.
 
-> Téngase en cuenta para su aplicación la disposición final 6 de la citada Orden.
+> Téngase en cuenta para su aplicación lo dispuesto en la la disposición final 6 de la citada Orden.
 
 > Se añade el modelo 411 por la disposición final 3 de la Orden HAP/1230/2015, de 17 de junio. Ref. BOE-A-2015-7048.
 
