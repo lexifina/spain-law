@@ -46,7 +46,11 @@ Liberia: 6 de julio de 2014.
 
 Ucrania: 22 de diciembre de 2014.
 
-República Centroafricana: 25 de octubre de 2015.
+República Centroafricana: 25 de octubre de 2015
+
+Colombia: 18 de noviembre de 2016.
+
+> Se modifica por el apartado único.1 de la Orden INT/110/2017, de 7 de febrero. Ref. BOE-A-2017-1408.
 
 > Se modifica por el apartado único.1 de la Orden INT/203/2016, de 17 de febrero. Ref. BOE-A-2016-1838.
 
