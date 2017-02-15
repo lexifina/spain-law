@@ -1,0 +1,1 @@
+Madrid, 9 de febrero de 2017.–La Vicepresidenta del Gobierno y Ministra de la Presidencia y para las Administraciones Territoriales, P.D. (Orden PRE/934/2012, de 24 de abril), el Subsecretario de la Presidencia y para las Administraciones Territoriales, José María Jover Gómez-Ferrer.
