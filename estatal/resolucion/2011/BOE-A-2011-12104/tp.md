@@ -1540,23 +1540,6 @@ c) Ejecución de proyectos de inversión
 | CONTRATOS ABONO TOTAL | RESTO CONTRATOS | CONTRATOS ABONO TOTAL | RESTO CONTRATOS | CONTRATOS ABONO TOTAL | RESTO CONTRATOS | CONTRATOS ABONO TOTAL | RESTO CONTRATOS |
 |  |  |  |  |  |  |  |  |
 
-d) Acreedores por operaciones pendientes de aplicar a presupuesto.
-
-Información para cada gasto efectuado sobre:
-
-— Ejercicio de procedencia
-
-— Aplicación presupuestaria a la que debiera de haberse imputado.
-
-— Importe.
-
-d) Acreedores por operaciones pendientes de aplicar a presupuesto
-
-| EJERCICIO DE PROCEDENCIA | PARTIDA PRESUPUESTARIA | DESCRIPCIÓN | IMPORTE |
-| --- | --- | --- | --- |
-|  |  |  |  |
-| TOTAL |  |
-
 2. Presupuesto de ingresos.
 
 Se presentará la siguiente información:
@@ -1917,6 +1900,17 @@ EJERCICIO....
 | --- | --- |
 |  |  |
 | TOTAL |  |
+
+20.10 Acreedores por operaciones devengadas.
+
+Información sobre los acreedores por operaciones devengadas a 31 de diciembre no recogida en otros apartados de la memoria, detallada en función de la cuenta representativa de la naturaleza de las operaciones:
+
+Acreedores por operaciones devengadas
+
+| Cuenta | Importe | Observaciones |
+| --- | --- | --- |
+|  |  |  |
+| Total.................................. |  |  |
 
 ## 21. Información sobre reservas y su materialización.
 
@@ -2382,6 +2376,8 @@ MUTUA N.º
 
 |  |
 | --- |
+
+> Se suprime el apartado 20.1.1.d) de la nota 20 del modelo de la Memoria y se añade el punto 20.10, con efectos de 1 de enero de 2017, por el art. único.1 de la Resolución de 9 de febrero de 2017. Ref. BOE-A-2017-1572
 
 > Se modifica por el apartado primero.3 y 4 de la Resolución de 5 de julio de 2016. Ref. BOE-A-2016-6695
 

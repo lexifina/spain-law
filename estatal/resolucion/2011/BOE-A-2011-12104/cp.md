@@ -594,9 +594,7 @@
 
 410. Acreedores por IVA soportado.
 
-411. Acreedores por periodificación de gastos presupuestarios.
-
-413. Acreedores por operaciones pendientes de aplicar a presupuesto.
+413. Acreedores por operaciones devengadas.
 
 418. Acreedores por devolución de ingresos y otras minoraciones.
 
@@ -1919,6 +1917,8 @@
 007. Presupuesto de ingresos: modificaciones de previsiones.
 
 008. Presupuesto de ingresos: previsiones definitivas.
+
+> Se suprime la cuenta 411 y se modifica la 413, con efectos de 1 de enero de 2017, por el art. único.2 de la Resolución de 9 de febrero de 2017. Ref. BOE-A-2017-1572
 
 > Se modifica por el apartado primero.5 de la Resolución de 5 de julio de 2016. Ref. BOE-A-2016-6695
 
