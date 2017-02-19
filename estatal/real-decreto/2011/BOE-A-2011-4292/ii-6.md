@@ -604,9 +604,9 @@ Los dispositivos de corte no deberán montarse en lugares angostos. En los siste
 
 Las válvulas de protección (seguridad y alivio) se tratan en la IF-08.
 
-4.3 Sistemas de detección de fugas de refrigerantes fluorados
+4.3 Sistemas de detección de fugas de refrigerantes fluorados.
 
-Las instalaciones que empleen refrigerantes fluorados deberán contar con sistemas de detección de fugas en cada sistema frigorífico de carga igual o superior a 300 kg. que deberán alertar al titular de la instalación y, en su caso, a la empresa mantenedora en el momento en que detecte una fuga. Dichas alarmas y la acción adoptada deberán consignarse en el cuadro de controles periódicos de fugas del libro de registro de la instalación frigorífica.
+Las instalaciones que empleen refrigerantes fluorados deberán contar con sistemas de detección de fugas en cada sistema frigorífico que contenga fluorados de efecto invernadero en cantidades de 500 toneladas equivalentes de CO2 o más que deberán alertar al titular de la instalación y, en su caso, a la empresa mantenedora en el momento que se detecte una fuga. Dichas alarmas y la acción adoptada deberán consignarse en el cuadro de controles periódicos de fugas del libro de registro de la instalación frigorífica.
 
 5. Instrumentos de indicación y medida.
 
@@ -673,3 +673,5 @@ y que puedan ser aislados del sistema deberán estar provistos de un indicador d
 5.2.3.3 Tubos de vidrio.
 
 No están permitidos indicadores de nivel de líquido construidos con tubo de vidrio (véase Norma UNE EN 12178).
+
+> Se modifica el punto 4.3 por la disposición final 1.1 del Real Decreto 115/2017, de 17 de febrero. Ref. BOE-A-2017-1679#df

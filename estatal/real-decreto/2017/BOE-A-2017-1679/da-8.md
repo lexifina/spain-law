@@ -1,0 +1,3 @@
+## Disposición adicional octava. Cursos realizados en otros Estados miembros de la Unión Europea.
+
+Se podrán admitir certificados de haber superado cursos realizados en otro Estado miembro de la Unión Europea, siempre y cuando dicho curso posibilite la obtención del certificado de igual ámbito en dicho Estado miembro, y conste de un contenido mínimo similar al especificado en este real decreto. En este caso, el interesado deberá presentar un certificado del órgano competente en la expedición de certificados del Estado miembro en cuestión que refleje claramente que se dan las condiciones enumeradas anteriormente. La administración competente podrá recabar esa información del Estado miembro de origen.
