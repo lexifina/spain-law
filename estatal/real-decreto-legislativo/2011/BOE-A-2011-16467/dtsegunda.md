@@ -40,13 +40,13 @@ a) La disposición transitoria segunda sobre valoraciones de la zona de servicio
 
 2. No obstante, el límite del 20 por ciento a que hace referencia el apartado 2 del artículo 178 de esta ley, sólo será de aplicación respecto de aquellas concesiones en las que la cuantía del canon por ocupación o aprovechamiento del dominio público portuario, de la tasa por ocupación privativa del dominio público portuario o de la tasa de ocupación, haya sido calculada de acuerdo a valoraciones de terrenos aprobadas con posterioridad a la entrada en vigor de la Ley 62/1997, de 26 de diciembre, de modificación de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante.
 
-b) La disposición transitoria duodécima sobre régimen de determinadas empresas exentas del servicio de manipulación de mercancías.
-
-Las empresas titulares de concesiones de dominio público exentas del servicio de estiba y desestiba al amparo del artículo 2.g) del Real Decreto-ley 2/1986 quedarán excluidas de la obligación de participar en las Sociedades Anónimas de Gestión de Estibadores Portuarios, hasta el término del período concesional, sin perjuicio de lo que se establece en los artículos 153 y 154 de esta ley respecto de la capacitación de su personal.
+b) (Derogada).
 
 c) La disposición transitoria decimoquinta sobre el régimen transitorio para el otorgamiento de bonificaciones para incentivar mejores prácticas medioambientales.
 
 Hasta que se aprueben las guías de buenas prácticas ambientales de la operativa de buques en los puertos, las Autoridades Portuarias otorgarán la bonificación prevista en el artículo 245.1.a) de esta ley, si la empresa Naviera que opera el buque dispone únicamente de la certificación del cumplimiento por el buque de unas determinadas condiciones de respeto al medio ambiente, mejorando las exigidas por las normas y convenios internacionales, emitida por una entidad de certificación acreditada para ello por organismos pertenecientes a la International Accreditation Forum.
+
+> Se deroga el apartado 2.b) por la disposición derogatoria única.a) del Real Decreto-ley 4/2017, de 24 de febrero. Ref. BOE-A-2017-1933#dd.
 
 > Se modifica el apartado 1.a).cinco por el art. 56.5 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
 
