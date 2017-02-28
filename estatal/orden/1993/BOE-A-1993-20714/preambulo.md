@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 194, de 14 de agosto de 1993. Ref. BOE-A-1993-21254
+Norma derogada, con efectos de 28 de febrero de 2017, por la disposición derogatoria única de la Orden DEF/85/2017, de 1 de febrero. Ref. BOE-A-2017-1249#dd.
