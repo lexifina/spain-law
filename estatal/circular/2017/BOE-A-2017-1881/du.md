@@ -1,0 +1,13 @@
+## Duodécimo. Cumplimiento de las obligaciones relativas a determinadas instalaciones con derecho a régimen retributivo específico.
+
+1. Con objeto de acreditar el cumplimiento de las obligaciones establecidas en la normativa vigente relativas al consumo de combustibles o a los requisitos de eficiencia energética, el representante de la instalación, o el propio titular, si este actúa como representante, deberá presentar la documentación requerida en el apartado decimocuarto.a).1 de la presente Circular, en el formato y plazo establecido en el mismo.
+
+2. En caso que una instalación no presente en el plazo establecido la documentación requerida, o bien la misma no cumpla los requisitos exigidos en los artículos 32, 33 y, en su caso, en la disposición transitoria novena del Real Decreto 413/2014, de 6 de junio, así como en la presente Circular, la instalación se considerará como incumplidora a los efectos de lo previsto en los artículos 32 y 33 del mencionado Real Decreto 413/2014, de 6 de junio.
+
+Específicamente, para las instalaciones con obligación de cumplimiento de los requisitos de eficiencia energética, que no hubieran presentado la documentación exigida, el valor del ratio de la energía eléctrica, será cero en el periodo afectado por el incumplimiento.
+
+Del mismo modo, las instalaciones con obligación de cumplimiento de límites de consumo de combustibles, que no hubieran presentado la documentación acreditativa correspondiente, no percibirán retribución específica para el periodo afectado, provocando, en su caso, las reliquidaciones correspondientes de dicho periodo.
+
+La Comisión Nacional de los Mercados y la Competencia notificará al interesado el incumplimiento y dará traslado de dicha notificación a la Dirección General de Política Energética y Minas.
+
+3. En caso que se produzca un segundo incumplimiento conforme a lo previsto en los artículos 32, 33 y en la disposición transitoria novena del Real Decreto 413/2014, de 6 de junio, de alguna de las obligaciones de las instalaciones descritas en los párrafos anteriores, la Comisión Nacional de los Mercados y la Competencia notificará al interesado el incumplimiento y comunicará dicha circunstancia a la Dirección General de Política Energética y Minas a los efectos oportunos. Asimismo, la Comisión Nacional de los Mercados y la Competencia procederá a la suspensión cautelar de la liquidación del régimen retributivo específico para las instalaciones afectadas, hasta la resolución del procedimiento de cancelación de la inscripción en el registro de régimen retributivo específico en estado de explotación por parte del Ministerio de Energía, Turismo y Agenda Digital.
