@@ -12,6 +12,8 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2013/169/07814_001.png)
 
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7740.png)
+
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_008.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_009.png)
@@ -30,17 +32,19 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2013/169/07814_004.png)
 
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7775.png)
+
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_016.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_017.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_018.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7842.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_019.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7876.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_020.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_021.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7910.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_022.png)
 
@@ -55,6 +59,10 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2008/51/03740_002.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/58/02486_001.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7808.png)
+
+> Se añaden los modelos "RC-110", "Anexo anualidades" y "Anexo imputación al presupuesto de operaciones devengadas" y se modifican los documentos OK, ADOK y K por el art. 1.5.1 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
 
 > Se modifica el modelo «Anexo información adicional» por el art. 1.4.a) y el Anexo I de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.
 

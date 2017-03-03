@@ -12,4 +12,8 @@ Una vez acordado el reconocimiento de la obligación, el Servicio gestor compete
 
 En estos supuestos, la propuesta de pago se expedirá por el Servicio gestor correspondiente, con posterioridad al reconocimiento de la obligación, de acuerdo con las normas de tramitación que se establecen en el capítulo III de la presente Instrucción, debiendo formularse al efecto el oportuno documento K, de propuesta de pago.
 
-5. En los documentos que incorporen la fase de reconocimiento de la obligación, deberán figurar las fechas en que se realizó el gasto y en que se dictó el acto administrativo de reconocimiento de la obligación, cumplimentadas de acuerdo con los criterios establecidos en la Orden por la que se aprueben los documentos contables a utilizar por la Administración General del Estado.
+5. En los documentos que incorporen la fase de reconocimiento de la obligación, deberán figurar las fechas en que se realizó el gasto y en que se dictó el acto administrativo de reconocimiento de la obligación, cumplimentadas de acuerdo con los criterios establecidos en la Orden Ministerial por la que se aprueban los documentos contables a utilizar por la Administración General del Estado.
+
+En ningún caso se podrá incluir en un mismo documento contable operaciones cuyas fechas de realización del gasto sean distintas.
+
+> Se modifica el apartado 5 por el art. 2.2 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.

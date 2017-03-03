@@ -1,8 +1,8 @@
-## Regla 53. Periodificación de gastos presupuestarios
+## Regla 53. Otras operaciones de fin de ejercicio.
 
-Cuando existan gastos que se liquiden por períodos que afecten a dos o más ejercicios contables, los servicios gestores deberán estimar al final de cada ejercicio los importes devengados y no vencidos de dichos gastos.
+A los efectos de que al cierre del ejercicio se puedan registrar en el Sistema de Información Contable la provisión para responsabilidades en los términos previstos en el PGCP, los servicios gestores deberán remitir a su respectiva oficina de contabilidad, hasta el 15 de febrero del ejercicio siguiente, los correspondientes documentos contables, “Soporte de asientos directos”, por los importes estimados de las indemnizaciones a las que probablemente deberá hacer frente la Administración General del Estado, acompañados de una memoria explicativa de la naturaleza de las obligaciones a las que se refieren los documentos contables adjuntos.
 
-Los Servicios gestores expedirán documentos de "Periodificación de gastos" en los que se incluirán las estimaciones indicadas en el apartado anterior. Dichos documentos se remitirán a las respectivas oficinas de contabilidad, sin necesidad de acompañar ningún justificante, antes del 15 de febrero del año siguiente, al que corresponda la periodificación.
+> Se modifica por el art. 2.4 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
 
 > Se modifica el segundo párrafo por el art.1.5 de la Orden HAP/883/2013, de 13 de mayo. Ref. BOE-A-2013-5392.
 

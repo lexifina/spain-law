@@ -28,33 +28,39 @@ a) Documento MC (Modificaciones de Crédito):
 
 095 Aumento por rectificaciones.
 
-b) Documento RC de ejercicio corriente (Solicitud de retenciones de crédito y registro de no disponibilidad):
+b) Documento RC de ejercicio corriente (Solicitud de retenciones de crédito, registro de no disponibilidad y registro del presupuesto del cajero de ACF):
 
-100 Retención de crédito para gastar.
+100 “Retención de crédito para gastar”.
 
-101 Retención de crédito para transferencias.
+101 “Retención de crédito para transferencias”.
 
-102 No disponibilidad.
+102 “No disponibilidad”.
 
-103 Retención 1% cultural (art. 58.3.a) del R.D. 111/1986).
+103 “Retención 1% cultural (art. 58.3.a) del R.D. 111/1986)”.
 
-104 Retención cautelar por operaciones pendientes de registro contable.
+104 “Retención cautelar por operaciones pendientes de registro contable”.
 
-105 (Suprimida)
+106 “Retención de crédito para bajas por anulación y otras minoraciones”.
 
-106 Retención de crédito para bajas por anulación y otras minoraciones.
+108 “Retención adicional del 10% de la adjudicación”
 
-108 Retención adicional del 10% de la adjudicación.
+109 “Retención 1% cultural (art. 58.3.b) del R.D. 111/1986)”.
 
-109 Retención 1% cultural (art. 58.3.b) del R.D. 111/1986).
+110 “Presupuesto del cajero de ACF”.
 
-c) Documento RC de ejercicios posteriores (solicitud de certificado de cumplimiento de límites del artículo 61 del TRLGP):
+111 “Retención sobre el presupuesto del cajero de ACF”.
 
-100 Retención de crédito para ejercicios posteriores.
+c) Documento RC de ejercicios posteriores (Solicitud de certificado de cumplimiento de límites del artículo 47 de la LGP):
 
-108 Retención adicional del 10% de la adjudicación.
+100 “Retención de crédito para ejercicios posteriores”.
 
-109 Retención 1% cultural (art. 58.3.b) del R.D. 111/1986).
+103 “Retención 1% cultural (art. 58.3.a) del R.D. 111/1986)”.
+
+104 “Retención cautelar de operaciones pendientes de registro”.
+
+108 “Retención adicional del 10% de la adjudicación”.
+
+109 “Retención 1% cultural (art. 58.3.b) del R.D. 111/1986)”.
 
 d) Documento A de ejercicio corriente y de ejercicios posteriores (autorizaciones de gasto):
 
@@ -78,27 +84,25 @@ f) Documento AD de ejercicio corriente y de ejercicios posteriores (autorizacion
 
 226 Cancelación de autorización y compromiso de gasto (Anticipos de Tesorería)
 
-g) Documentos de tramitación anticipada (RC, A, AD y D):
+g) Documentos de tramitación anticipada (RC y A):
 
-100 Retención de crédito para tramitación anticipada.
+100 “Retención de crédito para tramitación anticipada”.
 
-108 Retención adicional del 10% de la adjudicación para tramitación anticipada.
+103 “Retención 1% cultural (art. 58.3.a) del R.D. 111/1986)”.
 
-109 Retención 1% cultural (art. 58.3.b) del Real Decreto 111/1986) para tramitación anticipada.
+108 “Retención adicional del 10% de la adjudicación”.
 
-210 Autorización sobre crédito retenido para tramitación anticipada.
+109 “Retención 1% cultural (art. 58.3.b) del R.D. 111/1986)”.
 
-230 Autorización y compromiso de gasto sobre crédito retenido para tramitación anticipada.
+210 “Autorización sobre crédito retenido”.
 
-300 Compromiso de gasto de tramitación anticipada.
+h) Documento D de tramitación anticipada:
 
-h) Documento D de tramitación anticipada.
-
-300 Compromiso anticipado de gasto
+300 “Compromiso de gasto”.
 
 i) Documento AD de tramitación anticipada:
 
-220 Autorización y compromiso anticipados de gasto.
+230 “Autorización y compromiso de gasto sobre crédito retenido”.
 
 j) Documento OK (reconocimiento de obligaciones):
 
@@ -164,17 +168,17 @@ q) Documento CA (certificaciones anticipadas):
 
 426. Cesión del derecho de cobro de la certificación anticipada.
 
-r) Documento de periodificación de gastos:
+r) Documentos de operaciones devengadas y rectificación de operaciones devengadas:
 
-411 Periodificación de gastos.
+413 “Operaciones devengadas”.
+
+414 “Rectificación de operaciones devengadas”.
 
 3. Esta casilla se dejará en blanco cuando la operación sea de signo positivo y se consignará una barra (/) cuando sea de signo negativo.
 
 4. Signo: Se consignará en la primera casilla positivo y en la segunda 0 cuando la operación sea de signo positivo, y negativo y 1 cuando sea de signo negativo.
 
-5. En este recuadro se indicará el literal del tipo de operación del que se trate, según las denominaciones incluidas en la nota 2 anterior. Cuando las operaciones tengan signo negativo se incluirá al principio de cada una de dichas denominaciones: «Anulación de .......», excepto en los casos de operaciones de «Transferencias de crédito negativas», de «Rectificaciones del saldo inicial de obligaciones reconocidas-Disminución» y las operaciones de cancelación en Anticipos de Tesorería, en los que se incluirá «Anulación de .......» cuando las mismas tengan signo positivo.
-
-Los documentos contables del presupuesto de gastos, los de Anticipos de Tesorería, los PMP de propuestas de mandamientos de pago, los CA de certificaciones anticipadas y los de periodificación de gastos deberán llevar sombreado en color gris el recuadro situado en su esquina superior derecha cuando los mismos se refieran a operaciones de signo negativo.
+5. En este recuadro se indicará el literal del tipo de operación del que se trate, según las denominaciones incluidas en la nota (2) anterior. Cuando las operaciones tengan signo negativo se incluirá al principio de cada una de dichas denominaciones: “Anulación de …….”, excepto en los casos de operaciones de “Transferencias de crédito negativas”, de “Rectificaciones del saldo inicial de obligaciones reconocidas – Disminución” y las operaciones de cancelación en Anticipos de Tesorería, en los que se incluirá “Anulación de …….” cuando las mismas tengan signo positivo.
 
 6. Operación de enlace: En su caso, se deberá consignar el número de registro contable correspondiente a la fase anterior o a la que complementa la operación que se pretende registrar.
 
@@ -212,13 +216,13 @@ Cuando se utilicen documentos «Anexo Aplicaciones», en aquellos documentos a l
 
 20. Interesado: Se indicará el número de identificación fiscal y la denominación del acreedor directo o, en su caso, habilitado, cajero pagador u otro agente mediador en el pago.
 
-21. Anualidad: Se indicarán con cuatro dígitos las anualidades correspondientes a los ejercicios posteriores de gastos plurianuales o de tramitación anticipada.
+21. Anualidad: Se indicarán con cuatro dígitos las anualidades correspondientes a los ejercicios posteriores de gastos plurianuales o de tramitación anticipada, según corresponda. Cuando el número de anualidades sea superior a las 20 previstas en el documento principal, se cumplimentarán además los anexos de anualidades que sean necesarios.
 
 22. Importe: Importe en cifras correspondiente a cada anualidad a las que se refiere la nota 21 anterior.
 
 23. Cesionario: Se indicará el número de identificación fiscal y la denominación del cesionario, cuando se haya producido la transmisión del derecho de cobro del interesado frente a la Administración
 
-24. Ordinal del perceptor: Código identificativo de la cuenta bancaria del interesado o cesionario en la que debe abonarse el importe
+24. Iban del perceptor y Bic: Código Iban y código Bic de la cuenta bancaria del interesado o cesionario en la que debe abonarse el importe.
 
 25. Tipo de pago: Se indicará el código que corresponda de la tabla de «tipo de pago» del sistema de información contable, según que el pago se vaya a realizar al acreedor directo o a través de los distintos agentes mediadores en el pago que posibilite la normativa aplicable.
 
@@ -314,7 +318,7 @@ No obstante, en caso de demora manifiesta en la recepción, se consignará el d�
 
 d.2) Indemnizaciones: Fecha en la que adquiere firmeza la liquidación de la indemnización.
 
-Cuando en las certificaciones y liquidaciones a que se refieren los apartados anteriores se incluyan conceptos como revisiones de precios o intereses de demora que afecten a más de un ejercicio, los servicios gestores comunicarán a la oficina de contabilidad los importes que corresponden a cada ejercicio a fin de que dicha oficina expida el documento contable «soporte de asientos directos» para realizar los pertinentes ajustes en la contabilidad económico patrimonial.
+Cuando en las certificaciones y liquidaciones a que se refieren los apartados anteriores se incluyan conceptos como revisiones de precios o intereses de demora que afecten a más de un ejercicio, los servicios gestores deberán expedir un documento contable para cada ejercicio afectado y remitir todos los documentos de forma conjunta a la oficina de contabilidad. La fecha de realización del gasto a consignar en los documentos contables referidos a operaciones devengadas en ejercicios anteriores será el 31 de diciembre del ejercicio que corresponda.
 
 6. Deuda del Estado y otras deudas financieras:
 
@@ -348,7 +352,7 @@ b.4) Intereses de demora hasta la determinación del justiprecio: Día en que se
 
 b.5) Intereses de demora hasta el pago: Día del pago.
 
-Cuando los intereses de demora a que se refieren los apartados a) y b) anteriores afecten a más de un ejercicio, los servicios gestores comunicarán a la oficina de contabilidad los importes que corresponden a cada ejercicio a fin de que dicha oficina expida el documento contable "soporte de asientos directosˮ para realizar los pertinentes ajustes en la contabilidad económico patrimonial.
+Cuando los intereses de demora a que se refieren los apartados a) y b) anteriores afecten a más de un ejercicio, los servicios gestores deberán expedir un documento contable para cada ejercicio afectado y remitir todos los documentos de forma conjunta a la oficina de contabilidad. La fecha de realización del gasto a consignar en los documentos contables referidos a operaciones devengadas en ejercicios anteriores será el 31 de diciembre del ejercicio a que corresponda.
 
 8. Gastos de personal: Último día del mes o periodo al que correspondan.
 
@@ -844,7 +848,23 @@ Si en un documento contable se incluyen más de cuatro facturas se utilizarán t
 
 No obstante, si para un determinado libramiento a justificar se hubiera producido más de un reintegro, únicamente se cumplimentará el campo "Importe total reintegrado" y en el documento "Anexo control de pagos a justificarˮ se consignarán los datos de cada reintegro.
 
+240. Contenido: en el documento «Anexo imputación al presupuesto de operaciones devengadas» que deberá acompañar a los documentos OK y ADOK cuando la fecha de realización del gasto incorporada a los mismos corresponda a un ejercicio anterior al ejercicio corriente, se consignará una X en la casilla SI, si el documento tuviera contenido o una X en la casilla NO, si el documento no lo tuviera, ya que en cualquier caso debe expedirse el documento. Se considera que el documento tiene contenido siempre que el OK o ADOK al que se adjunta, incluya operaciones devengadas en ejercicios anteriores que fueron contabilizadas utilizando el documento contable «Operaciones devengadas».
+
+241. Cuenta PGCP utilizada: se consignará la cuenta del PGCP a la que se imputó la obligación cuando se registró el devengo de la operación, mediante el documento contable «Operaciones devengadas».
+
+242. Número de depósito: Recogerá el número de registro de la Caja General de Depósitos que identifica al depósito sobre el que se está efectuando la operación.
+
+243. Número operación de depósito: Recogerá el número asignado en el Subsistema de la Caja General de Depósitos a la operación.
+
+244 Ejercicio de gasto: Se consignará el año de realización del gasto de acuerdo con los criterios de la nota aclaratoria (34).
+
 (*) Unidad de cuenta: Se indicará la unidad de cuenta en la que ha sido tramitado el expediente de gasto: Pesetas (P) o euros (E).
+
+> Se modifica por el art. 1.4 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 69, de 22 de marzo de 2017. Ref. BOE-A-2017-3066
+
+> Véase la disposición transitoria única de la citada Orden en relación con la nota aclaratoria 24.
 
 > Se modifican las notas aclaratorias 28, 34, 233, y se añaden las notas aclaratorias 237, 238 y 239 por el art. 1.3 de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.
 

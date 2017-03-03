@@ -14,29 +14,29 @@ I. Información sobre la ejecución de los gastos públicos.
 
 4. Otros acreedores.
 
-5. Anticipos de Tesorería art.60 L.G.P.
+5. Anticipos de Tesorería art. 60 L.G.P
 
 6. Compromisos de gasto con cargo a presupuestos de ejercicios posteriores.
 
 7. Obligaciones de presupuestos corriente.
 
-a) Obligaciones pendientes de proponer el pago. (*)
+a) Obligaciones pendientes de proponer el pago. (1)
 
-b) Propuestas pendientes de pago. (*)
+b) Propuestas pendientes de pago. (1)
 
 8. Obligaciones de presupuestos cerrados.
 
-a) Obligaciones pendientes de proponer el pago.
+a) Obligaciones pendientes de proponer el pago. (1)
 
-b) Propuestas pendientes de pago.(*)
+b) Propuestas pendientes de pago. (1)
 
 II. Información sobre la ejecución de los ingresos públicos.
 
-1. Ejecución del Presupuesto de ingresos corriente por capítulos.(*)
+1. Ejecución del Presupuesto de ingresos corriente por capítulos. (2)
 
-2. Devoluciones de ingresos por capítulos.(*)
+2. Devoluciones de ingresos por capítulos. (2)
 
-3. Derechos a cobrar de presupuestos cerrados por capítulos.(*)
+3. Derechos a cobrar de presupuestos cerrados por capítulos. (2)
 
 III. Información sobre las inversiones financieras.
 
@@ -44,11 +44,13 @@ III. Información sobre las inversiones financieras.
 
 2. Créditos.
 
-IV. Información sobre la Deuda del Estado. (*)
+IV. Información sobre la Deuda del Estado. (1)
 
-V. Información sobre los avales concedidos. (*)
+V. Información sobre los avales concedidos. (1)
 
-(*) Solamente en la relación de modelos del Ministerio de Economía y Hacienda.
+(1) Solamente en la relación de modelos del Ministerio del que dependa la Secretaría General del Tesoro y Política Financiera.
+
+(2) Solamente en la relación de modelos del Ministerio del que dependan las Delegaciones de Economía y Hacienda.
 
 Ministerio de .............................................
 
@@ -321,25 +323,26 @@ Sección ........................
 | CRÉDITOS A CORTO PLAZO |  |  |  |  |  |  |
 | TOTAL |  |  |  |  |  |  |
 
-Ministerio de .............................................
+Ministerio de ........................................................................................................
 
-IV. Información sobre la Deuda del Estado
+IV. Información sobre la deuda del Estado
 
-Ejercicio ...............
+Ejercicio ....................................
 
 |  | DEUDA AL 1 DE ENERO | CREACIONES | INTERESES DEVENGADOS | INTERESES CANCELADOS | DIFERENCIAS DE CAMBIO | DISMINUCIONES | DEUDA A 31 DE DICIEMBRE |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | COSTE AMORTIZADO ó VALOR RAZONABLE (*) | INTERESES EXPLÍCITOS |
 | EUROS |  |  |  |  |  |  |  |  |
-| LETRAS DEL TESORO |  |  |  |  |  |  |  |  |
-| OBLIGACIONES Y BONOS |  |  |  |  |  |  |  |  |
-| PRÉSTAMOS RECIBIDOS |  |  |  |  |  |  |  |  |
-| OTRAS DEUDAS |  |  |  |  |  |  |  |  |
+| LETRAS DEL TESORO |
+| OBLIGACIONES Y BONOS |
+| PRÉSTAMOS RECIBIDOS |
+| OTRAS DEUDAS |
 | TOTAL DEUDA EN EUROS |  |  |  |  |  |  |  |  |
 | MONEDA DISTINTA DEL EURO |  |  |  |  |  |  |  |  |
-| OBLIGACIONES Y BONOS |  |  |  |  |  |  |  |  |
-| PRÉSTAMOS RECIBIDOS |  |  |  |  |  |  |  |  |
-| OTRAS DEUDAS |  |  |  |  |  |  |  |  |
+| OBLIGACIONES Y BONOS |
+| PRÉSTAMOS RECIBIDOS |
+| DEUDAS CON DERIVADOS FINANCIEROS VINCULADOS |
+| OTRAS DEUDAS |
 | TOTAL DEUDA EN MONEDA DISTINTA DEL EURO |  |  |  |  |  |  |  |  |
 | TOTAL |  |  |  |  |  |  |  |  |
 
@@ -359,3 +362,7 @@ Ejercicio ...............
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SUBTOTAL OTRAS ENTIDADES |  |  |  |  |  |  |  |  |  |  |
 | TOTAL |  |  |  |  |  |  |  |  |  |  |
+
+> Se modifica por el art. 4.2 y Anexo IV de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 69, de 22 de marzo de 2017. Ref. BOE-A-2017-3066

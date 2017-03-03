@@ -6,11 +6,13 @@ a) Documento MC: Se utilizará en las modificaciones presupuestarias que aumente
 
 b) Documento de desglose: Se utilizará en las operaciones de desglose de las aplicaciones presupuestarias. También se utilizará para el seguimiento contable de los créditos distribuidos a través del sistema de información contable, en caso de delegaciones y desconcentraciones de competencias a favor de servicios periféricos.
 
-c) Documento RC de ejercicio corriente: Se utilizará para solicitar certificado de existencia y retención de crédito en los expedientes de gasto, de transferencias, de bajas por anulación y otras minoraciones, de retención adicional del 10% de la adjudicación, y de retenciones del 1% cultural (art. 58.3 del Real Decreto 111/1986). Para el registro de los acuerdos de no disponibilidad se utilizará el documento específico ''RC-102''.
+c) Documento RC de ejercicio corriente: Se utilizará para solicitar certificado de existencia y retención de crédito en los expedientes de gasto, de transferencias, de bajas por anulación y otras minoraciones, de retención adicional del 10% de la adjudicación, y de retenciones del 1% cultural (art. 58.3 del Real Decreto 111/1986). Para el registro de los acuerdos de no disponibilidad se utilizará el documento específico “RC-102” y para el registro del presupuesto del cajero de ACF se utilizará el documento específico “RC-110”.
 
-d) Documento RC de ejercicios posteriores: Se utilizará para solicitar el certificado de cumplimiento de límites que establece el artículo 47 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, en los expedientes de gasto, de retención adicional del 10% de la adjudicación, y de retención del 1% cultural (art. 58.3.b) Real Decreto 111/1986).
+d) Documento RC de ejercicios posteriores: se utilizará para solicitar el certificado de cumplimiento de los límites que establece el artículo 47 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, en los expedientes de gasto, de retención adicional del 10% de la adjudicación, y de retención del 1% cultural (art. 58.3 Real Decreto 111/1986).
 
 d´) Documento RC "Retención de crédito de tramitación anticipada": Se utilizará en la tramitación anticipada de expedientes de gasto para solicitar el certificado de cumplimiento de límites que establece el artículo 47 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, de retención adicional del 10% de la adjudicación, y de retención del 1% cultural (art. 58 del Real Decreto 111/1986).
+
+d´´) Documento RC para el cajero de ACF: se utilizará opcionalmente para el registro y seguimiento de los presupuestos de los cajeros de Anticipos de Caja Fija, y para las retenciones de crédito que proceda efectuar sobre los presupuestos de dichos cajeros en las reposiciones de fondos de los Anticipos de Caja Fija.
 
 e) Documento A de ejercicio corriente: Se utilizará en las operaciones de autorización del gasto imputables al Presupuesto corriente.
 
@@ -29,6 +31,8 @@ k) Documento A de tramitación anticipada: Se utilizará en operaciones de autor
 l) Documento D de "tramitación anticipada": Se utilizará en operaciones de compromiso de gasto en el procedimiento de tramitación anticipada.
 
 l´) Documento AD de "tramitación anticipada": Se utilizará en operaciones que acumulen las fases de autorización y compromiso de gasto en el procedimiento de tramitación anticipada.
+
+l´´) Documento “Anexo anualidades”: Se utilizará para completar los documentos RC, A, D y AD de ejercicios posteriores y de tramitación anticipada mediante la incorporación de uno o más de estos documentos a los anteriores cuando el número de anualidades posteriores previsto sea superior a veinte.
 
 m) Documento ‘‘Reasignación’’: Se utilizará como soporte para registrar en contabilidad la operación de reasignación de créditos a que se refiere el punto 3 de la regla 10 ‘‘Desglose de aplicaciones presupuestarias y reasignación de créditos’’ de la Instrucción de operatoria contable a seguir en la ejecución del Gasto del Estado.
 
@@ -56,7 +60,13 @@ v) Documento “Modificación de distribución territorial del área origen del 
 
 w) Documento “Anexo información adicional”: Se utilizará para complementar los documentos contables del Presupuesto de Gastos, cuando para el registro de la operación sea necesario cumplimentar algún campo del mismo.
 
+w´) Documento “Anexo imputación al presupuesto de operaciones devengadas”: Se deberá utilizar acompañando a los documentos contables OK y ADOK, expedidos de acuerdo a lo previsto en el apartado 2 de la Regla 52 de la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado, cuando la fecha de realización del gasto incorporado en los mismos corresponda a un ejercicio anterior al ejercicio corriente.
+
+Con el fin de realizar el control y seguimiento de que las obligaciones que se han reconocido en la cuenta 413, “Acreedores por operaciones devengadas”, utilizando el documento contable “Operaciones devengadas” se imputen al presupuesto, es necesario que cuando se realice el registro contable de dicha aplicación al presupuesto mediante los correspondientes documentos contables OK o ADOK, se expida y acompañe a los anteriores este documento contable “Anexo imputación al presupuesto de operaciones devengadas” en el que deberá consignarse la aplicación presupuestaria que se consignó en el documento contable de “Operaciones devengadas” cuando se realizó su registro inicial, con independencia de cuál haya sido su imputación presupuestaria definitiva que podría ser distinta.
+
 2. Cuando se deba proceder a la anulación de cualquiera de las operaciones que se indican en el punto anterior, se expedirá un documento idéntico al confeccionado para el registro de la operación en cuestión pero de signo contrario.
+
+> Se modifican la letras c) y d) y se añaden las letras d''), l'') y w') al apartado 1 por el art. 1.1 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
 
 > Se añaden los puntos 1.d´), 1.l´) y se modifica el 1.l) por el art. 2.1 de la Orden HAP/1357/2013, de 11 de julio. Ref. BOE-A-2013-7814.
 

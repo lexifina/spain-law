@@ -8,7 +8,7 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_033.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_034.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7990.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_035.png)
 
@@ -16,17 +16,19 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2010/111/07252_005.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_037.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_8025.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_038.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2010/111/07252_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/276/17889_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_8059.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2010/111/07252_007.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/276/17889_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_8092.png)
+
+> Se modifican los modelos de los documentos contables «Propuesta de mandamiento de pago por devolución de ingresos», «Propuesta de mandamiento de pago no presupuestaria», «Anexo datos adicionales» y «Propuesta de mandamiento de pago por devolución de ingresos multiárea», por el art. 1.5.2 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
 
 > Se modifica el modelo de documento "Anexo datos adicionales" y se añade el modelo del documento "Propuesta de mandamiento de pago por devolución de ingresos multiárea" por el art. 1.6 y anexo de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
 

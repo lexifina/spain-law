@@ -6,11 +6,11 @@
 
 En el caso de créditos extraordinarios y suplementos de crédito constituirá justificación suficiente la inclusión en el propio documento contable de la oportuna referencia a la correspondiente norma legal, con indicación de la fecha de su publicación en el «Boletín Oficial del Estado».
 
-3. A los documentos RC no se unirá ningún justificante adicional.
+3. A los documentos RC positivos no se unirá ningún justificante adicional.
 
-Los documentos RC de signo negativo que se emitan como consecuencia de la renuncia a la tramitación del respectivo gasto o transferencia, se justificarán con el certificado de existencia de crédito relativo a la retención que se pretende anular.
+Los documentos RC de signo negativo que se emitan como consecuencia de la renuncia a la tramitación del respectivo gasto o transferencia se justificarán con la renuncia o desistimiento, si existiesen, o con una memoria justificativa de la anulación solicitada, debiéndose adjuntar además, el certificado de existencia de crédito, en soporte papel o electrónico, relativo a la retención que se pretende anular.
 
-El resto de documentos RC negativos se justificarán con el acuerdo de aprobación del gasto o de adjudicación por un importe inferior al de la retención de crédito efectuada. Dichos acuerdos quedarán unidos a los documentos A, D o AD que corresponda, expresándose en el texto libre del RC negativo una referencia a la contabilización de aquellos.
+El resto de documentos RC negativos se justificarán con el acuerdo de aprobación del gasto o de adjudicación por un importe inferior al de la retención de crédito efectuada. Dado que dichos acuerdos quedarán unidos a los documentos A, D o AD que corresponda, al documento RC negativo deberá adjuntársele una memoria justificativa de la anulación solicitada.
 
 4. A los documentos A de autorización de gasto se unirá el acuerdo o resolución que apruebe el gasto.
 
@@ -29,6 +29,8 @@ Los documentos D de signo negativo se justificarán con el acuerdo de revocació
 8. El documento PR se justificará con el acuerdo de prescripción de obligaciones.
 
 9. El criterio general de justificación de operaciones establecido en los números anteriores no será de aplicación a aquellos tipos de gasto para los que en el capítulo III de la presente Instrucción, o en sus normas reguladoras específicas, se establecen otros medios de justificación.
+
+> Se modifica el apartado 3 por el art. 2.5 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
 
 > Se modifica el apartado 1 por el punto 1.23 de la Orden HAC/1299/2002, de 23 de mayo. Ref. BOE-A-2002-10789
 

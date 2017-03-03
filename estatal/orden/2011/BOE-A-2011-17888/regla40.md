@@ -48,31 +48,31 @@ IV. Información sobre la Deuda del Estado.
 
 V. Información sobre los avales concedidos.
 
-Asimismo, podrán obtenerse cuantos informes se consideren necesarios para suministrar información relevante no prevista en la relación anterior, que se hubiera producido en el ámbito de los Departamentos Ministeriales.
+Así mismo, podrán obtenerse cuantos informes se consideren necesarios para suministrar información relevante no prevista en la relación anterior, que se hubiera producido en el ámbito de los Departamentos Ministeriales.
 
-La información relativa a los apartados I.7., I.8.b, II, IV y V anteriores sólo se incluirá en el Informe agregado del Ministerio de Economía y Hacienda, sin perjuicio de lo previsto en el párrafo anterior.
+La información relativa a los apartados I.7, I.8, IV y V anteriores sólo se incluirá en el Informe agregado del Ministerio del que dependa la Secretaría General del Tesoro y Política Financiera y la relativa al apartado II en el Informe agregado del Ministerio del que dependan las Delegaciones de Economía y Hacienda, sin perjuicio de lo previsto en el párrafo anterior.
 
-El contenido y formato de los «Informes agregados» de los Departamentos Ministeriales se habrá de ajustar a los modelos que se incluyen en el anexo II a la presente Instrucción.
+El contenido y formato de los “Informes agregados” de los Departamentos Ministeriales se habrá de ajustar a los modelos que se incluyen en el anexo II a la presente Instrucción.
 
-Los datos de los «Informes agregados» de los Departamentos Ministeriales podrán expresarse en una escala de cuenta distinta de la utilizada en los registros del SIC, la cual se fijará por la Intervención General de la Administración del Estado.
+Los datos de los “Informes agregados” de los Departamentos Ministeriales podrán expresarse en una escala de cuenta distinta de la utilizada en los registros del SIC, la cual se fijará por la Intervención General de la Administración del Estado.
 
-3. Una vez obtenidos los «Informes agregados» indicados en el punto anterior, se expedirán las diligencias que procedan, de acuerdo con la siguiente redacción, que se unirán al respectivo Informe agregado:
+3. Una vez obtenidos los “Informes agregados” indicados en el punto anterior, se expedirán las diligencias que procedan, de acuerdo con la siguiente redacción, que se unirán al respectivo Informe agregado:
 
-«DILIGENCIA:
+“DILIGENCIA:
 
-Para hacer constar que las operaciones de..............(indicar las operaciones a las que se refiere la diligencia de las incluidas en los apartados de los Informes agregados)...............registradas en el Sistema de Información Contable de la Administración General del Estado correspondientes al Ministerio de......................., con imputación al ejercicio de............., han sido reflejadas en el Informe agregado correspondiente a dicho ejercicio cuyas páginas están numeradas de la …..… a la ……….
+Para hacer constar que las operaciones de .............. (indicar las operaciones a las que se refiere la diligencia de las incluidas en los apartados de los Informes agregados) ............... registradas en el Sistema de Información Contable de la Administración General del Estado correspondientes al Ministerio de......................., con imputación al ejercicio de............., han sido reflejadas en el Informe agregado correspondiente a dicho ejercicio cuyas páginas están numeradas de la …..… a la ……….
 
-En.................................., a........ de........................... de...........
+En .................................., a ........ de ........................... de ...........
 
-El........................................
+El ........................................
 
 V.º B.º
 
-El.......................................»
+El .......................................”
 
-La diligencia anterior se expedirá por el Jefe de Contabilidad de cada Departamento Ministerial, con el visto bueno del correspondiente Interventor Delegado, cuando se trate de operaciones de inversiones financieras (III) y de operaciones de ejecución de los gastos públicos (I), excepto obligaciones de presupuesto corriente (I.7.) y propuestas pendientes de pago de presupuestos cerrados (I.8.b).
+La diligencia anterior se expedirá por el Jefe de Contabilidad de cada Departamento Ministerial, con el visto bueno del correspondiente Interventor Delegado, cuando se trate de operaciones de inversiones financieras (III) y de operaciones de ejecución de los gastos públicos (I), excepto obligaciones de presupuesto corriente (I.7) y obligaciones de presupuestos cerrados (I.8).
 
-La diligencia anterior se expedirá por el Subdirector General de Gestión Contable, con el visto bueno del Interventor General de la Administración del Estado, cuando se trate de operaciones sobre la ejecución de ingresos públicos (II), y por el correspondiente Jefe de Contabilidad de la Dirección General del Tesoro y Política Financiera, con el visto bueno del Interventor Delegado en dicha Dirección General, cuando se trate de operaciones sobre obligaciones de presupuesto corriente (I.7.), operaciones sobre propuestas pendientes de pago de presupuestos cerrados (I.8.b), operaciones de la Deuda del Estado (IV) y avales concedidos (V).
+La diligencia anterior se expedirá por el Jefe de la División de Gestión Contable de la Oficina Nacional de Contabilidad, con el visto bueno del Interventor General de la Administración del Estado, cuando se trate de operaciones sobre la ejecución de ingresos públicos (II), y por el correspondiente Jefe de Contabilidad de la Secretaría General del Tesoro y Política Financiera, con el visto bueno del Interventor Delegado en dicha Secretaría General, cuando se trate de operaciones sobre obligaciones de presupuesto corriente (I.7), operaciones sobre obligaciones de presupuestos cerrados (I.8), operaciones de la Deuda del Estado (IV) y avales concedidos (V).
 
 El responsable que expida cada una de las diligencias anteriores deberá firmar o rubricar todas y cada una de las páginas de los informes que forman parte del correspondiente Informe agregado al que se refiera dicha diligencia.
 
@@ -89,5 +89,9 @@ Firma.»
 6. Mediante Resolución de la Intervención General de la Administración del Estado se podrán sustituir las diligencias en soporte papel de los puntos 3 y 4 de esta regla por las correspondientes diligencias electrónicas.
 
 En este caso, no será necesario el trámite previsto en el último párrafo del punto 3 de esta regla, relativo a la firma y rúbrica de las páginas de los informes agregados.
+
+> Se modifican los apartados 2 y 3 por el art. 4.1 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 69, de 22 de marzo de 2017. Ref. BOE-A-2017-3066
 
 > Se modifica el apartado 5 por el art. 3 de la Orden HAP/883/2013, de 13 de mayo. Ref. BOE-A-2013-5392.
