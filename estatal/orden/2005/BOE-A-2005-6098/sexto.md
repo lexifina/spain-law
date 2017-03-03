@@ -14,12 +14,16 @@ Los Delegados del Gobierno en las Comunidades Autónomas uniprovinciales, en las
 
 2.2 Que habiéndose trasladado desde Ceuta y Melilla a otros lugares del territorio español, en virtud de autorización concedida en los términos del párrafo anterior, se encuentren no obstante en cualquiera de ambas Ciudades.
 
-3. Del Subsecretario del Interior respecto del personal laboral que preste servicios en los servicios periféricos del Departamento con excepción del de Instituciones Penitenciarias:
+3. El Delegado del Gobierno en Melilla, por delegación del Ministro, ejercerá en los territorios de las Islas Chafarinas y de los Peñones de Alhucemas y Vélez de la Gomera las mismas competencias que tenga atribuidas en materia de extranjería en su ámbito territorial.
 
-3.1 Dar posesión y cese en los puestos de trabajo.
+4. Del Subsecretario del Interior respecto del personal laboral que preste servicios en los servicios periféricos del Departamento con excepción del de Instituciones Penitenciarias:
 
-3.2 La concesión de permisos y licencias.
+4.1 Dar posesión y cese en los puestos de trabajo.
 
-3.3 El reconocimiento de trienios.
+4.2 La concesión de permisos y licencias.
 
-3.4 La incoación de expedientes disciplinarios y la imposición de sanciones por faltas leves.
+4.3 El reconocimiento de trienios.
+
+4.4 La incoación de expedientes disciplinarios y la imposición de sanciones por faltas leves.
+
+> Se añade el punto 3 y se renumera el anterior 3 como 4 por el art. 1.1 y 2 de la Orden INT/174/2017, de 1 de marzo. Ref. BOE-A-2017-2218.
