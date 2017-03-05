@@ -1,0 +1,7 @@
+## Disposición transitoria quinta. Plan de inspecciones de seguridad industrial y de seguridad y salud en el trabajo.
+
+1. Las fábricas de armas de guerra que incorporan explosivos autorizadas antes de la fecha de entrada en vigor de este real decreto, dispondrán de un plazo de tres años, a contar desde esa fecha, para adecuarse a los requisitos establecidos en el Reglamento de explosivos y sus instrucciones técnicas complementarias que se aprueban, en relación con la seguridad industrial y la seguridad y salud en el trabajo. A tal efecto, la Dirección General de Política Energética y Minas del Ministerio de Energía, Turismo y Agenda Digital (en adelante, Dirección General de Política Energética y Minas) y la Dirección General de Armamento y Material del Ministerio de Defensa (en adelante, Dirección General de Armamento y Material) aprobarán un plan de inspecciones que se llevarán a cabo durante la primera mitad del período transitorio, para evaluar el grado de cumplimento de dichos requisitos por las fábricas.
+
+2. Dichas inspecciones en materia de seguridad industrial y de seguridad y salud en el trabajo se realizarán por las Áreas Funcionales de Industria y Energía de las Delegaciones o Subdelegaciones del Gobierno. El personal de la Dirección General de Armamento y Material podrá estar presente durante la realización de las inspecciones.
+
+Del resultado de las inspecciones se informará en todo caso a la Dirección General de Armamento y Material.

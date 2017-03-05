@@ -1,0 +1,9 @@
+## Disposición transitoria cuarta. Adaptación a la nueva normativa sobre prevención de accidentes graves.
+
+1. Los puntos 1 y 2 del apartado 6 de la Instrucción complementaria número 10, «Prevención accidentes graves», no se aplicarán si, a la fecha de entrada en vigor de este real decreto, el industrial ya ha enviado una notificación a la autoridad competente en cumplimiento de los requisitos de la normativa anterior, y la información contenida en dicha notificación cumple lo dispuesto en el punto 1 del apartado 6, y no ha cambiado.
+
+2. El punto 1 del apartado 7 de la ITC número 10 no se aplicará si, con anterioridad a la entrada en vigor de este real decreto, el industrial ha establecido e implantado ya su política de prevención de accidentes graves en cumplimiento de los requisitos de la normativa anterior y la información contenida en ella cumple lo dispuesto en el punto 1 del apartado 7, y no ha cambiado.
+
+3. Los puntos 1, 2 y 3 del apartado 9 de la ITC número 10 no se aplicarán si el industrial, antes de la fecha de entrada en vigor de este real decreto, ya ha enviado el informe de seguridad en cumplimiento de los requisitos de la normativa anterior y la información contenida en él cumple lo dispuesto con los puntos 1 y 2, y no ha cambiado. Al objeto de dar cumplimiento a los puntos 1 y 2 del apartado 9, el industrial presentará todas las partes modificadas del informe de seguridad en la forma prescrita por la autoridad competente en los plazos mencionados en el punto 3 del citado apartado.
+
+4. Los puntos 1, 2 y 3 del apartado 11 de la ITC número 10 no se aplicarán si el industrial, antes de la fecha de entrada en vigor de este real decreto, ya ha elaborado un plan de emergencia o autoprotección en cumplimiento de los requisitos de la normativa anterior, y la información contenida en él cumple lo dispuesto con los puntos 1 y 2, y no ha cambiado.

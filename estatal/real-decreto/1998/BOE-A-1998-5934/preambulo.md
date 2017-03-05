@@ -1,1 +1,1 @@
-Téngase en cuenta que esta norma queda derogada en lo relativo a pirotecnia y cartuchería por la disposición derogatoria única.1 del Real Decreto 563/2010, de 7 de mayo. Ref. BOE-A-2010-7333.
+Norma derogada por la disposición derogatoria única.a) del Real Decreto 130/2017, de 24 de febrero, sin perjuicio de lo establecido en sus disposiciones transitorias. Ref. BOE-A-2017-2313#dd.

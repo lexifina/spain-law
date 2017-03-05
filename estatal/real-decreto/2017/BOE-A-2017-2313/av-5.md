@@ -1,0 +1,7 @@
+## ANEXO V
+
+## LIBRO-REGISTRO DE FABRICACIÓN EN MEMU Y EN EQUIPOS DE BOMBEO DE EMULSIONES, SUSPENSIONES O GELES, A GRANEL Y QUE SENSIBILICEN IN SITU
+
+NOMBRE DE LA EXPLOTACIÓN ___________________________________________
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/54/02313_40106.png)

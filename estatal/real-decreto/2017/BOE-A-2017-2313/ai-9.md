@@ -1,0 +1,23 @@
+## ANEXO I
+
+## Información contemplada en el apartado 7.5 y en el apartado 9 relativa al sistema de gestión de la seguridad y a la organización del establecimiento con miras a la prevención de accidentes graves
+
+Para la aplicación del sistema de gestión de la seguridad elaborado por el industrial se tendrán en cuenta los elementos que figuran a continuación:
+
+a) El sistema de gestión de la seguridad será proporcionado a los peligros, las actividades industriales y la complejidad de la organización existente en el establecimiento y estará basado en una evaluación de los riesgos. Debería integrar la parte del sistema de gestión general que incluye la estructura organizativa, las responsabilidades, las prácticas, los procedimientos, los procesos y los recursos que permiten definir y aplicar la política de prevención de accidentes graves;
+
+b) Se abordarán los siguientes aspectos en el marco del sistema de gestión de la seguridad:
+
+i. la organización y el personal: las funciones y responsabilidades del personal asociado a la gestión de los riesgos de accidente grave en todos los niveles de organización, junto con las medidas adoptadas para sensibilizar sobre la necesidad de mejora permanente; la determinación de las necesidades de formación de dicho personal y la organización de esa formación; y la participación de los empleados y del personal subcontratado que trabajen en el establecimiento que sean importantes desde el punto de vista de la seguridad,
+
+ii. la identificación y la evaluación de los riesgos de accidente grave: la adopción y la aplicación de procedimientos para la identificación sistemática de los riesgos de accidente grave que se puedan producir en caso de funcionamiento normal o anormal, incluidas, cuando proceda, las actividades subcontratadas, así como la evaluación de su probabilidad y su gravedad,
+
+iii. el control de explotación: la adopción y la aplicación de procedimientos e instrucciones para el funcionamiento en condiciones seguras, también incluido el mantenimiento, de las instalaciones, los procedimientos y el equipo, y para la gestión de las alarmas y las paradas temporales; teniendo en cuenta la información disponible sobre mejores prácticas en materia de seguimiento y control, con vistas a reducir el riesgo de fallo de los sistemas; gestión y control de los riesgos asociados al envejecimiento de los equipos de la instalación y a la corrosión: inventario de los equipos, estrategia y metodología del establecimiento en materia de seguimiento y control del estado de los equipos, medidas de seguimiento adecuadas y contramedidas necesarias,
+
+iv. la gestión de las modificaciones: la adopción y aplicación de procedimientos para la planificación de las modificaciones que deban efectuarse en las instalaciones, procesos o zonas de almacenamiento existentes o para el diseño de otros nuevos,
+
+v. la planificación de las situaciones de emergencia: la adopción y aplicación de procedimientos destinados a identificar las emergencias previsibles mediante un análisis sistemático, así como a elaborar, probar y revisar los planes para hacer frente a tales situaciones de emergencia y a proporcionar formación específica al personal interesado; esta formación se impartirá a todo el personal que trabaje en el establecimiento, incluido el personal subcontratado pertinente,
+
+vi. el seguimiento del funcionamiento: la adopción y aplicación de procedimientos para la evaluación permanente del cumplimiento de los objetivos fijados por el industrial en el marco de su política de prevención de accidentes graves y de su sistema de gestión de la seguridad, y la implantación de mecanismos de investigación y de corrección en caso de incumplimiento; los procedimientos deberán abarcar el sistema del industrial para la notificación de accidentes graves o conatos de accidente, en especial cuando se hayan producido fallos de las medidas de protección, la investigación realizada al respecto y la actuación consecutiva basadas en la experiencia adquirida; los procedimientos podrían incluir también indicadores de funcionamiento, tales como los indicadores del funcionamiento en materia de seguridad u otros indicadores pertinentes,
+
+vii. la auditoría y el análisis: la adopción y aplicación de procedimientos para la evaluación periódica sistemática de la política de prevención de accidentes graves y de la eficacia e idoneidad del sistema de gestión de la seguridad; el análisis documentado por la dirección del funcionamiento de la política aplicada, del sistema de gestión de la seguridad y de su actualización, incluida la consideración e incorporación de los cambios señalados como necesarios en el ejercicio de auditoría y el análisis.
