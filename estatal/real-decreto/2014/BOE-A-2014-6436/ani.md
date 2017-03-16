@@ -73,3 +73,13 @@ f) Actividad.
 a) Fecha de recepción.
 
 b) Cantidad recibida (peso o volumen).
+
+6. Datos de la carga a rellenar por las plantas intermedias y plantas de transformación que reciban animales muertos en explotación:
+
+a) Fecha de recepción.
+
+b) Cantidad recibida (peso).
+
+c) Identificación individual de cada animal en el caso de ganado vacuno.
+
+> Se añade el apartado 6 por el art. 4.3 del Real Decreto 198/2017, de 3 de marzo. Ref. BOE-A-2017-2780.
