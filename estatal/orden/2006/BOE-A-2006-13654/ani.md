@@ -4,88 +4,102 @@
 
 Comunidad Autónoma de Andalucía
 
-1. Parque Nacional de Doñana. Provincia de Huelva.
+Parque Nacional de Doñana. Provincia de Huelva.
 
-2. Parque Natural de Doñana y Cantaritas y Beta Adaliz. Provincias de Huelva y de Sevilla.
+Parque Natural de Doñana y Cantaritas y Beta Adaliz. Provincias de Huelva y de Sevilla.
 
-3. Parque Nacional de la bahía de Cádiz. Provincia de Cádiz.
+Parque Natural de la bahía de Cádiz. Provincia de Cádiz.
 
-4. Marismas del Odiel. Provincia de Huelva.
+Marismas del Odiel. Provincia de Huelva.
 
-5. Preparque Este-Parque Natural Entorno de Doñana. Provincia de Sevilla.
+Preparque Este-Parque Natural Entorno de Doñana. Provincia de Sevilla.
 
-6. Arrozales de Puebla y Villafranco. Provincia de Sevilla.
+Arrozales de Puebla y Villafranco. Provincia de Sevilla.
 
-7. Arrozales de Isla Menor. Provincia de Sevilla.
+Arrozales de Isla Menor. Provincia de Sevilla.
 
-8. Parque Natural de Doñana, Sector Sur. Provincia de Cádiz.
+Parque Natural de Doñana, Sector Sur. Provincia de Cádiz.
 
-9. Parque Natural de Doñana, Sector Norte. Provincia de Huelva.
+Parque Natural de Doñana, Sector Norte. Provincia de Huelva.
 
-10. Playa del Parque Nacional de Doñana. Provincia de Huelva.
+Playa del Parque Nacional de Doñana. Provincia de Huelva.
 
-11. Canal de Guadaira. Provincia de Sevilla.
+Canal de Guadaira. Provincia de Sevilla.
 
-12. Salinas del Cerrilo. Provincia de Almería.
+Salinas del Cerrilo. Provincia de Almería.
 
-13. Embalse de Barbate. Provincia de Cádiz.
+Embalse de Barbate. Provincia de Cádiz.
 
-14. Marismas de Isla Cristina. Provincia de Huelva.
+Marismas de Isla Cristina. Provincia de Huelva.
 
-15. Embalse de Puente Nuevo. Provincia de Córdoba.
+Embalse de Puente Nuevo. Provincia de Córdoba.
 
-16. Balsa de Don Melendo. Provincia de Sevilla.
+Balsa de Don Melendo. Provincia de Sevilla.
 
-17. Laguna de Fuentedepiedra. Provincias de Málaga y Sevilla.
+Laguna de Fuentedepiedra. Provincias de Málaga y Sevilla.
+
+Comunidad Autónoma de Castilla y León
+
+Laguna de la Nava de Fuentes. Provincia de Palencia.
+
+Reserva natural de las Lagunas de Villafáfila. Provincia de Zamora.
 
 Comunidad Autónoma de Cataluña
 
-1. Delta del Ebro. Provincia de Tarragona.
+Delta del Ebro. Provincia de Tarragona.
 
-2. Aiguamolls de l’Empordá. Provincia de Gerona.
+Aiguamolls de l’Empordá. Provincia de Gerona.
 
-3. Delta del Llobregat. Provincia de Barcelona.
+Delta del Llobregat. Provincia de Barcelona.
 
-Comunidad Valenciana
+Comunitat Valenciana
 
-1. Albufera de Valencia. Provincia de Valencia.
+Albufera de Valencia. Provincia de Valencia.
 
-2. La Marjal de Borrons (Xeresa). Provincia de Valencia.
+La Marjal de Borrons (Xeresa). Provincia de Valencia.
 
-3. La Marjal dels Moros. Provincia de Valencia.
+La Marjal dels Moros. Provincia de Valencia.
 
-4. Salinas de Santa Pola y Parque Natural de El Hondo de Elche. Provincia de Alicante.
+Salinas de Santa Pola y Parque Natural de El Hondo de Elche. Provincia de Alicante.
 
-5. La Marjal de Pego-Oliva. Provincia de Alicante.
+La Marjal de Pego-Oliva. Provincia de Alicante.
 
-6. La Mata de Torrevieja. Provincia de Alicante.
+La Mata de Torrevieja. Provincia de Alicante.
 
-7. El Prat de Cabanes. Provincia de Castellón.
+El Prat de Cabanes. Provincia de Castellón.
 
-8. La Marjal d’Almenara. Provincia de Castellón.
+La Marjal d’Almenara. Provincia de Castellón.
 
 Comunidad Autónoma de las Illes Balears
 
-1. Albuferas del Nord de Mallorca.
+Albuferas del Nord de Mallorca.
 
 Comunidad Autónoma de Cantabria
 
-1. Reserva Natural de las Marismas de Santoña y Noja.
+Reserva Natural de las Marismas de Santoña y Noja.
 
 Comunidad Autónoma de Galicia
 
-1. Complejo Intermareal de O Grove-Umia-Carreirón. Provincia de Pontevedra.
+Complejo Intermareal de Umia-O Grove-La Lanzada-Punta Carreirón-Laguna Bodeira. Provincia de Pontevedra.
 
-Comunidad Autónoma de la Región de Murcia
+Comunidad Autónoma de la Región Murcia
 
-1. Salinas de San Pedro del Pinatar.
+Salinas de San Pedro del Pinatar.
+
+Mar Menor.
+
+Lagunas de Campotéjar.
+
+Lagunas de las Moreras.
 
 Comunidad Autónoma del País Vasco
 
-1. Balsas de Salburúa. Provincia de Álava.
+Balsas de Salburúa. Provincia de Álava.
 
-2. Embalse de Zadorra. Provincia de Álava.
+Embalse de Zadorra. Provincia de Álava.
 
-3. Embalse de Santa Engracia. Provincia de Álava.
+Embalse de Santa Engracia. Provincia de Álava.
+
+> Se modifica por el art. único.1 de la Orden APM/233/2017, de 7 de marzo. Ref. BOE-A-2017-2865.
 
 > Se añade el último apartado por el art. único.2 de la Orden APA/2556/2006, de 3 de agosto. Ref. BOE-A-2006-14191.
