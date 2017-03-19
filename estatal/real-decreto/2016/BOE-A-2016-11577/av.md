@@ -40,7 +40,7 @@ El reparto de la puntuación se hará en base al porcentaje de presupuesto desti
 
 • Si al menos el 75 % del presupuesto está dirigido a países de los grupos 1 y/o del 2: mínimo 5 puntos; incrementando 1 punto hasta llegar a los 10 puntos por cada 5% de incremento en el presupuesto en esos destinos.
 
-• Si al menos el 75% del presupuesto está dirigido a países de los grupos 1, y/o del 2 y/o del 3: máximo 5 puntos; se concederá 1 punto hasta llegar a los 5 puntos por cada 5% de incremento en el presupuesto en esos destinos.
+• Si al menos el 75% del presupuesto está dirigido a países de los grupos 1, y/o del 2 y/o del 3: mínimo 3 puntos; se concederán 0,4 puntos por cada 5% de incremento en el presupuesto en esos destinos hasta llegar a un máximo de 5 puntos.
 
 • Programas con menos del 75% del presupuesto en los países prioritarios hasta un máximo de 3 puntos: 1 punto si el presupuesto en esos destinos supone entre el 1-24%, 2 puntos si supone entre el 25-49% y 3 puntos si supone entre 50-74%.
 
@@ -57,3 +57,5 @@ c) Alcance y cobertura del programa (15 puntos):
 a) Criterio a decidir por la comunidad autónoma (10 puntos).
 
 Solo será de aplicación aquellos criterios que estén basados en una estrategia territorial para el sector del vino, compatible con la estrategia y objetivos previstos en el Programa Nacional de Apoyo presentado a la Comisión Europea por España. Además deberán cumplir lo establecido en el artículo 11.2 del Reglamento Delegado (UE) 2016/1149, de la Comisión, de 15 de abril de 2016, en particular deberán ser objetivos y no discriminatorios y, no podrán estar vinculados con la ubicación territorial del beneficiario o sus instalaciones ni ir en contra de las prioridades establecidas por la Comisión para la medida de promoción.
+
+> Se modifica el tercer punto de la letra b) del apartado 2 por el art. único.4 del Real Decreto 266/2017, de 17 de marzo. Ref. BOE-A-2017-2989.
