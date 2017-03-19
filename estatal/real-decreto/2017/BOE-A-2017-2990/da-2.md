@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Régimen normativo.
+
+1. El presente real decreto desarrolla los artículos 48, 49, 50 y 51 del capítulo III «Programa Nacional de Conservación y Utilización Sostenible de los Recursos Fitogenéticos para la Agricultura y la Alimentación», del título IV «Recursos Fitogenéticos», de la Ley 30/2006, de 26 de julio, de Semillas y Plantas de Vivero y de Recursos Fitogenéticos.
+
+2. El desarrollo completo sobre las condiciones de acceso a los recursos fitogenéticos para la agricultura y la alimentación, las que deben cumplir los solicitantes, las autoridades responsables, las obligaciones que asume el Estado en materia de control de los recursos fitogenéticos utilizados en el Reino de España y provenientes de terceros países, las comunicaciones a los puntos focales del Tratado Internacional sobre los Recursos Fitogenéticos para la Alimentación y la Agricultura (TIRFAA) y del Protocolo de Nagoya, se regularán en un reglamento aprobado por real decreto, que incluirá las disposiciones contenidas en éste.
