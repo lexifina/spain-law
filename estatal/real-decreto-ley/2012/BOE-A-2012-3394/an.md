@@ -52,9 +52,19 @@ d) Las entidades podrán pactar con los deudores la cesión de una parte de la p
 
 e) Esta medida no será aplicable en los supuestos que se encuentren en procedimiento de ejecución en los que ya se haya anunciado la subasta, o en los que la vivienda esté gravada con cargas posteriores.
 
-4. Publicidad del Código de Buenas Prácticas.
+4. Derecho de alquiler en caso de ejecución de la vivienda habitual.
+
+El deudor hipotecario ejecutado cuyo lanzamiento haya sido suspendido de conformidad con lo dispuesto por el artículo 1.1 de la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social, podrá solicitar y obtener del acreedor ejecutante de la vivienda, o persona que actúe por su cuenta, el alquiler de la misma por una renta anual máxima del 3 por cien de su valor al tiempo de la aprobación del remate, determinado según tasación, aportada por el ejecutado y certificada por un tasador homologado de conformidad con lo previsto en la Ley 2/1981, de 25 de marzo de Regulación del Mercado Hipotecario.
+
+La solicitud a la que se refiere el párrafo anterior, podrá realizarse en el plazo de seis meses desde la entrada en vigor del Real Decreto-ley 5/2017, por el que se modifica el Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos y la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social, para aquellos ejecutados que ya fueran beneficiarios de la suspensión y desde que se produzca la suspensión para quienes se beneficiasen con posterioridad.
+
+Dicho arrendamiento tendrá duración anual, prorrogable a voluntad del arrendatario, hasta completar el plazo de cinco años. Por mutuo acuerdo entre el ejecutado y el adjudicatario podrá prorrogarse anualmente durante cinco años adicionales.
+
+5. Publicidad del Código de Buenas Prácticas.
 
 Las entidades garantizarán la máxima difusión del contenido del Código de Buenas Prácticas, en particular, entre sus clientes.
+
+> Se modifica el apartado 4 y se añade el 5 por el art. 1.2 del Real Decreto-ley 5/2017, de 17 de marzo. Ref. BOE-A-2017-2985.
 
 > Se añade la letra b).iv al apartado 1 por el art. 2.3 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#a2.
 
