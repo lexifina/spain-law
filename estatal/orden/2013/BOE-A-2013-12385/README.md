@@ -34,6 +34,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 20](a20.md)
 - [Artículo 21](a21.md)
 - [Artículo 22](a22.md)
+- [Artículo 23](a2-2.md)
 - [Disposición adicional única](daunica.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición derogatoria única](ddunica.md)
