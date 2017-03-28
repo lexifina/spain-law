@@ -1,13 +1,27 @@
 ## Segundo. Tipología de las estaciones radioeléctricas.
 
-Tipología de las estaciones radioeléctricas.–Al efecto de lo dispuesto en esta orden, las estaciones radioeléctricas se clasificarán dependiendo de su tipología en:
+2.1 Tipología de las estaciones radioeléctricas.
 
-ER1: estaciones radioeléctricas ubicadas en suelo urbano, de potencia isotrópica radiada equivalente superior a 10 W.
+Al efecto de lo dispuesto en esta orden, las estaciones radioeléctricas se clasificarán, según su potencia y entorno, en los siguientes tipos:
 
-ER2: estaciones radioeléctricas ubicadas en suelo urbano, de potencia isotrópica radiada equivalente inferior o igual a 10 W y superior a 1 W.
+a) ER1: Estaciones radioeléctricas con potencia isotrópica radiada equivalente máxima superior a 10 vatios, en entorno urbano.
 
-ER3: estaciones radioeléctricas ubicadas en suelo no urbano, de potencia isotrópica radiada superior a 10 W, en cuyo entorno existan áreas en las que puedan permanecer habitualmente personas.
+b) ER2: Estaciones radioeléctricas con potencia isotrópica radiada equivalente máxima inferior o igual a 10 vatios y superior a 1 vatio, en entorno urbano.
 
-ER4: estaciones radioeléctricas ubicadas en suelo no urbano, de potencia isotrópica radiada equivalente inferior o igual a 10 W y superior a 1 W, en cuyo entorno existan áreas en las que puedan permanecer habitualmente personas.
+c) ER3: Estaciones radioeléctricas con potencia isotrópica radiada equivalente máxima superior a 10 vatios, en cuyo entorno no urbano permanecen habitualmente personas.
+
+d) ER4: Estaciones radioeléctricas con potencia isotrópica radiada equivalente máxima inferior o igual a 10 vatios y superior a 1 vatio, en cuyo entorno no urbano permanecen habitualmente personas.
+
+e) ER5: Estaciones radioeléctricas con potencia isotrópica radiada equivalente máxima superior a 1 vatio, en cuyo entorno no urbano no permanecen habitualmente personas.
+
+f) ER6: Estaciones radioeléctricas con potencia isotrópica radiada equivalente máxima inferior o igual a 1 vatio.
+
+2.2 La permanencia habitual de personas en un entorno determinado consiste en la presencia, estable y prolongada en el tiempo, por parte de una misma persona o personas. Por lo tanto, la circulación o tránsito de personas por un lugar determinado no constituye permanencia habitual de personas.
+
+El entorno queda definido como el área en planta comprendida en un radio de 100 metros desde la estación radioeléctrica. Así, una estación situada en entorno urbano será aquella en la que en un radio de 100 metros haya suelo urbano.
+
+Para identificar el suelo urbano se podrá utilizar como referencia el Sistema de Información Urbana (SIU), conforme a la disposición adicional primera del Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana.
+
+> Se modifica por la disposición final 1.1 del Real Decreto 123/2017, de 24 de febrero. Ref. BOE-A-2017-2460#df.
 
 > Se modifica por el art. único.1 de la Orden ITC/749/2010, de 17 de marzo. Ref. BOE-A-2010-5032.

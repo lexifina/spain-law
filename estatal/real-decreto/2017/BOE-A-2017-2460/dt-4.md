@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Condiciones ligadas a las concesiones de uso de dominio público radioeléctrico.
+
+Las condiciones ligadas a los títulos habilitantes para el uso del dominio público radioeléctrico destinados a la explotación de redes o prestación de servicios de telecomunicaciones que impliquen el uso del dominio público radioeléctrico, y que se hubieran otorgado con anterioridad a la entrada en vigor del presente real decreto, y del reglamento que aprueba, a través de procedimientos de licitación pública, previstas en los pliegos reguladores de las licitaciones o en la oferta del operador, pasan a estar ligadas a las concesiones de uso privativo de dominio público radioeléctrico.

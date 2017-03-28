@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 250, de 19 de octubre de 1994. Ref. BOE-A-1994-22922
+Norma derogada, con efectos de 28 de marzo de 2017, por la disposición derogatoria única del Real Decreto 123/2017, de 24 de febrero. Ref. BOE-A-2017-2460#dd.
