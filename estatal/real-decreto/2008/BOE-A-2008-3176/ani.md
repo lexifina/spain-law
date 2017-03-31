@@ -4,128 +4,124 @@
 
 1. Especialidades médicas para cuyo acceso se exige estar en posesión de un título universitario oficial que habilite para el ejercicio en España de la profesión de médico:
 
-• Alergología.
+Alergología.
 
-• Anatomía Patológica.
+Anatomía Patológica.
 
-• Anestesiología y Reanimación.
+Anestesiología y Reanimación.
 
-• Angiología y Cirugía Vascular.
+Angiología y Cirugía Vascular.
 
-• Aparato Digestivo.
+Aparato Digestivo.
 
-• Cardiología.
+Cardiología.
 
-• Cirugía Cardiovascular.
+Cirugía Cardiovascular.
 
-• Cirugía General y del Aparato Digestivo.
+Cirugía General y del Aparato Digestivo.
 
-• Cirugía Oral y Maxilofacial.
+Cirugía Oral y Maxilofacial.
 
-• Cirugía Ortopédica y Traumatología.
+Cirugía Ortopédica y Traumatología.
 
-• Cirugía Pediátrica.
+Cirugía Pediátrica.
 
-• Cirugía Plástica, Estética y Reparadora.
+Cirugía Plástica, Estética y Reparadora.
 
-• Cirugía Torácica.
+Cirugía Torácica.
 
-• Dermatología Médico-Quirúrgica y Venereología.
+Dermatología Médico-Quirúrgica y Venereología.
 
-• Endocrinología y Nutrición.
+Endocrinología y Nutrición.
 
-• Farmacología Clínica.
+Farmacología Clínica.
 
-• Geriatría.
+Geriatría.
 
-• Hematología y Hemoterapia.
+Hematología y Hemoterapia.
 
-• Medicina del Trabajo.
+Medicina del Trabajo.
 
-• Medicina Familiar y Comunitaria.
+Medicina Familiar y Comunitaria.
 
-• Medicina Física y Rehabilitación.
+Medicina Física y Rehabilitación.
 
-• Medicina Intensiva.
+Medicina Intensiva.
 
-• Medicina Interna.
+Medicina Interna.
 
-• Medicina Nuclear.
+Medicina Nuclear.
 
-• Medicina Preventiva y Salud Pública.
+Medicina Preventiva y Salud Pública.
 
-• Nefrología.
+Nefrología.
 
-• Neumología.
+Neumología.
 
-• Neurocirugía.
+Neurocirugía.
 
-• Neurofisiología Clínica.
+Neurofisiología Clínica.
 
-• Neurología.
+Neurología.
 
-• Obstetricia y Ginecología.
+Obstetricia y Ginecología.
 
-• Oftalmología.
+Oftalmología.
 
-• Oncología Médica.
+Oncología Médica.
 
-• Oncología Radioterápica.
+Oncología Radioterápica.
 
-• Otorrinolaringología.
+Otorrinolaringología.
 
-• Pediatría y sus Áreas Específicas.
+Pediatría y sus Áreas Específicas.
 
-• Psiquiatría.
+Psiquiatría.
 
-• Psiquiatría del Niño y del Adolescente.
+Radiodiagnóstico.
 
-• Radiodiagnóstico.
+Reumatología.
 
-• Reumatología.
-
-• Urología.
+Urología.
 
 2. Especializaciones farmacéuticas para cuyo acceso se exige estar en posesión de un título universitario oficial que habilite para el ejercicio en España de la profesión de farmacéutico:
 
-• Farmacia Hospitalaria y de Atención Primaria.
+Farmacia Hospitalaria.
 
-3. Especialidades de Psicología para cuyo acceso se exige estar en posesión del título universitario oficial de graduado/licenciado en el ámbito de la Psicología:
+3. Especialidades de Psicología para cuyo acceso se exige estar en posesión del título universitario oficial de Grado en el ámbito de la Psicología o de Licenciado en Psicología:
 
-• Psicología Clínica.
+Psicología Clínica.
 
-4. Especialidades de Enfermería para cuyo acceso se exige estar en posesión de un título universitario oficial que habilite para el ejercicio en España de la profesión de Enfermera:
+4. Especialidades de Enfermería para cuyo acceso se exige estar en posesión de un título universitario oficial que habilite para el ejercicio en España de la profesión de enfermera:
 
-• Enfermería de Cuidados Médico-Quirúrgicos.
+Enfermería de Salud Mental.
 
-• Enfermería de Salud Mental.
+Enfermería de Cuidados Médico-Quirúrgicos
 
-• Enfermería del Trabajo.
+Enfermería del Trabajo.
 
-• Enfermería Familiar y Comunitaria.
+Enfermería Familiar y Comunitaria.
 
-• Enfermería Geriátrica.
+Enfermería Geriátrica.
 
-• Enfermería Obstétrico-Ginecológica (Matrona).
+Enfermería Obstétrico-Ginecológica (Matrona).
 
-• Enfermería Pediátrica.
+Enfermería Pediátrica.
 
-5. Especialidades pluridisciplinares para cuyo acceso se exige estar en posesión de los títulos que a continuación se especifican:
+5. Especialidades multidisciplinares para cuyo acceso se exige estar en posesión de los títulos universitarios oficiales de Grado, o en su caso de Licenciado, en cada uno de los ámbitos que a continuación se especifican:
 
-• Análisis Clínicos y Bioquímica Clínica: graduado/licenciado en Medicina, en Farmacia, o en el ámbito de la Biología y de la Química.
+Análisis Clínicos: Biología, Bioquímica, Farmacia, Medicina o Química.
 
-• Genética Clínica: graduado/licenciado en Medicina, en Farmacia o en el ámbito de la Biología y de la Química.
+Bioquímica Clínica: Biología, Bioquímica, Farmacia, Medicina o Química.
 
-• Inmunología: graduado/licenciado en Medicina, en Farmacia o en el ámbito de la Biología y de la Química.
+Inmunología: Biología, Bioquímica, Farmacia o Medicina.
 
-• Microbiología y Parasitología: graduado/licenciado en Medicina en Farmacia o en el ámbito de la Biología y de la Química.
+Microbiología y Parasitología: Biología, Bioquímica, Farmacia, Medicina o Química.
 
-• Radiofarmacia: graduado/licenciado en Farmacia o en el ámbito de la Biología y de la Química.
+Radiofarmacia: Biología, Bioquímica, Farmacia o Química.
 
-• Radiofísica Hospitalaria: graduado/licenciado en el ámbito de la Física u otras disciplinas científicas y tecnológicas.
+Radiofísica Hospitalaria: Física y otras disciplinas científicas y tecnológicas.
 
-> Véase en cuanto a la adscripción al sistema formativo troncal lo establecido en el anexo I del Real Decreto 639/2014, de 25 de julio. Ref. BOE-A-2014-8497#ani.
+> Se declara la nulidad del Real Decreto 639/2014, de 25 de julio, por Sentencia del TS de 12 de diciembre de 2016. Ref. BOE-A-2017-3480
 
 > Se modifica por la disposición final 1.6 del Real Decreto 639/2014, de 25 de julio. Ref. BOE-A-2014-8497#dfprimera.
-
-> Téngase en cuenta que el Real Decreto 639/2014, de 25 de julio, ha sido declarado nulo por Sentencia del TS de 12 de diciembre de 2016. Ref. BOE-A-2016-3480

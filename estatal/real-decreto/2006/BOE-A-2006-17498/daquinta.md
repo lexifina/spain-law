@@ -14,8 +14,8 @@ Si el acuerdo fuera mantener la evaluación negativa, en el mismo plazo, la comi
 
 Si se mantuviera la evaluación negativa, el interesado tendrá derecho a realizar una prueba extraordinaria ante la misma comisión, entre los seis meses como mínimo y un año como máximo a contar desde la prueba anterior. La comisión estará obligada a notificar al interesado la fecha de la prueba con un mes de antelación. La calificación se decidirá también por mayoría absoluta y será definitiva.
 
-3. (Derogado)
+3. Revisión de la calificación de la evaluación final positiva: En el supuesto de que la evaluación final sea positiva pero el interesado considere que la calificación le es desfavorable, tendrá derecho a realizar una prueba ante la comisión nacional de la especialidad correspondiente, con la finalidad de mejorar dicha calificación. El procedimiento será el mismo que el previsto para la primera prueba de la revisión de la evaluación final negativa. La decisión de la comisión será definitiva, sin posibilidad de prueba extraordinaria.
+
+> Se declara la nulidad del Real Decreto 639/2014, de 25 de julio, que derogaba el apartado 3, por Sentencia del TS de 12 de diciembre de 2016. Ref. BOE-A-2017-3480
 
 > Se deroga el apartado 3 por la disposición derogatoria única.b) del Real Decreto 639/2014, de 25 de julio. Ref. BOE-A-2014-8497.
-
-> Téngase en cuenta que el Real Decreto 639/2014, de 25 de julio, ha sido declarado nulo por Sentencia del TS de 12 de diciembre de 2016. Ref. BOE-A-2017-3480
