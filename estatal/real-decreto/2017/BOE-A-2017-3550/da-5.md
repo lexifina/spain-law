@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Informe pericial de la Oficina Española de Patentes y Marcas en virtud del artículo 120.7 de la Ley.
+
+1. El informe al que se refiere el artículo 120.7 de la Ley se realizará por quien se designe en el Departamento de Patentes y su contenido se circunscribirá a aquellos extremos concretos sobre los que sea requerido por el Juez o Tribunal. El informe se emitirá en el plazo de un mes desde que la persona designada para realizar el informe se reciba la correspondiente petición y documentación sobre la que tiene que emitir el informe y, en su caso, la tasa esté completamente abonada.
+
+2. En el supuesto de que el informe se solicite a instancia de parte, deberá abonarse la tasa correspondiente. En caso de que dicha tasa no hubiera sido abonada o no hubiera sido abonada en su totalidad, se concederá al solicitante un plazo de diez días a contar desde la publicación de falta de pago en el «Boletín Oficial de la Propiedad Industrial» para su abono, indicándole que de no hacerlo, se tendrá por desistida la solicitud.

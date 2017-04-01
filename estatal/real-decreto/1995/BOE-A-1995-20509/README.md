@@ -10,6 +10,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 ## Bloques
 
+- [(Nota inicial)](preambulo.md)
 - [pr](pr.md)
 - [CAPÍTULO I](ci.md)
 - [Artículo 1](a1.md)
