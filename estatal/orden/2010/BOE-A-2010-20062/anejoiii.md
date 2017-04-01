@@ -10,7 +10,7 @@ a) Para las semillas de categoría prebase, base y certificada:
 
 «Nombre del Organismo Oficial de Certificación» y «España».
 
-Número de lote.
+Número de lote y número de orden atribuido oficialmente.
 
 Mes y año de precintado.
 
@@ -38,7 +38,7 @@ b) Para las semillas de categoría comercial:
 
 «Nombre del Organismo Oficial de Certificación» y «España».
 
-Número de lote.
+Número de lote y número de orden atribuido oficialmente.
 
 Mes y año de precintado.
 
@@ -56,7 +56,7 @@ c) Para mezcla de semillas:
 
 «Nombre del Organismo Oficial de Certificación» y «España».
 
-Número de lote.
+Número de lote y número de orden atribuido oficialmente.
 
 Mes y año de precintado.
 
@@ -137,3 +137,5 @@ Indicaciones complementarias en todas las etiquetas del productor:
 Si las semillas han sido tratadas con algún producto, se indicará la materia activa del mismo y su posible toxicidad.
 
 En el caso en que se indique el peso y se empleen pesticidas granulados, sustancias de pildorado u otros aditivos sólidos, se deberá indicar la naturaleza del aditivo, así como la relación aproximada entre el peso de semillas puras y el peso total.
+
+> Se modifica el apartado A.a) a c) por el art. 1 de la Orden APM/283/2017, de 27 de marzo. Ref. BOE-A-2017-3414
