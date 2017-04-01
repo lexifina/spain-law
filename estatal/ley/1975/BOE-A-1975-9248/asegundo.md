@@ -12,4 +12,14 @@ Cuatro. Promover iniciativas y desarrollar actividades conducentes al mejor cono
 
 Cinco. Informar sobre los proyectos de Ley y demás disposiciones de carácter general que hayan de dictarse en materia de propiedad industrial y emitir dictámenes sobre cuestiones referentes a la misma cuando para ello sea requerida por las autoridades, tribunales o Entidades oficiales.
 
-Seis. Cualquier otra función que la legislación vigente atribuya actualmente al Registro de la Propiedad Industrial o las que, en lo sucesivo, le sean expresamente encomendadas en las materias propias de su competencia.
+Seis. Desempeñar como institución mediadora y arbitral, y de acuerdo con lo previsto en la Ley 5/2012, de 6 de julio, de mediación en asuntos civiles y mercantiles y Ley 60/2003, de 23 de diciembre, de Arbitraje, las funciones que por real decreto se le atribuyan para la solución de conflictos relativos a la adquisición, utilización, contratación y defensa de los derechos de Propiedad Industrial en aquellas materias no excluidas de la libre disposición de las partes conforme a derecho.
+
+Siete. Cualquier otra función que la legislación vigente atribuya actualmente a la Oficina Española de Patentes y Marcas o las que en lo sucesivo le sean expresamente encomendadas en las materias propias de su competencia.
+
+> Téngase en cuenta que esta última actualización del apartado 6 y el apartado 7 añadido por la disposición final 2 de la Ley 24/2015, de 24 de julio. Ref. BOE-A-2015-8328#dfsegunda. entra en vigor el 1 de abril de 2017, según establece su disposición final 9.
+
+> Redacción anterior:
+
+> "Seis. Cualquier otra función que la legislación vigente atribuya actualmente al Registro de la Propiedad Industrial o las que, en lo sucesivo, le sean expresamente encomendadas en las materias propias de su competencia."
+
+> Se modifica el apartado 6 y se añade el 7 por la disposición final 2 de la Ley 24/2015, de 24 de julio. Ref. BOE-A-2015-8328#dfsegunda.

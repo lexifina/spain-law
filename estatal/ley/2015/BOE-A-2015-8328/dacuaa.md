@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Tasas por la actuación de la Oficina Española de Patentes y Marcas en el marco del Tratado de cooperación en materia de patentes (PCT).
+
+La cuantía de las tasas que, según lo dispuesto en el Tratado de cooperación en materia de patentes (PCT), establece cada Oficina por su actuación como Oficina Receptora y Administración Internacional PCT será, en lo que a la Oficina Española de Patentes y Marcas se refiere, la indicada en el anexo de esta Ley.
+
+El resto de las tasas aplicables por la Oficina Española de Patentes y Marcas en el marco de este Tratado serán las establecidas en el Reglamento del Tratado PCT, en el Acuerdo entre la Oficina Española de Patentes y Marcas y la Oficina Internacional de la Organización Mundial de la Propiedad Intelectual relativo al funcionamiento de la Oficina Española de Patentes y Marcas como Administración Internacional PCT, así como en el Acuerdo Especial entre la Organización Europea de Patentes y el Gobierno del Reino de España relativo a la Cooperación en cuestiones relacionadas con el PCT, que estén vigentes cuando se solicite el servicio correspondiente.

@@ -1,0 +1,1 @@
+Norma derogada, dejando a salvo lo dispuesto en las disposiciones transitorias y con efectos de 1 de abril de 2017, por la disposición derogatoria única de la Ley 24/2015, de 24 de julio. Ref. BOE-A-2015-8328#ddunica.

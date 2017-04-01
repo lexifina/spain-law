@@ -8,13 +8,13 @@ Tarifa primera. Adquisición, defensa y mantenimiento de derechos.
 
 Por los diseños adicionales incluidos en la misma solicitud de registro a partir del décimo:
 
-– De 11 a 20 diseños: 63,00 euros.
+De 11 a 20 diseños: 63,00 euros.
 
-– De 21 a 30 diseños: 52,33 euros.
+De 21 a 30 diseños: 52,33 euros.
 
-– De 31 a 40 diseños: 41,87 euros.
+De 31 a 40 diseños: 41,87 euros.
 
-– De 41 a 50 diseños: 33,51 euros.
+De 41 a 50 diseños: 33,51 euros.
 
 1.2 Tasa de división de registro:
 
@@ -28,7 +28,25 @@ Por cada solicitud o registro divisional resultante: 52,81 euros.
 
 1.6 Modificaciones de la solicitud o del diseño autorizadas por la Ley: 22,50 euros.
 
-1.7 Oposiciones: por formulación de oposición: 42,00 euros.
+1.7 Oposiciones: por formulación de oposición: 43,70 euros.
+
+Por los diseños adicionales impugnados en la misma formulación de oposición a partir del décimo:
+
+De 11 a 20 diseños: 34,96 euros
+
+De 21 a 30 diseños: 27,96 euros
+
+De 31 a 40 diseños: 22,37 euros
+
+De 41 a 50 diseños: 17,89 euros.
+
+> Téngase en cuenta que esta última actualización del epígrafe 1.7 establecida por la disposición final 4 de la Ley 24/2015, de 24 de julio Ref. BOE-A-2015-8328#dfcuaa. entra en vigor el 1 de abril de 2017, según determina su disposición final 9.
+
+> Redacción anterior:
+
+> "Oposiciones: por formulación de oposición: 42,00 euros."
+
+2. La Oficina Española de Patentes y Marcas comprobará también si la solicitud presenta algún defecto no percibido en trámites anteriores que imposibilitara la publicación del diseño, clasificará los productos a los que vaya a aplicarse, o revisará en su caso la clasificación realizada por el solicitante, y verificará si las solicitudes multiples se ajustan a lo dispuesto en esta ley.
 
 1.8 Tasa de renovación del registro: 92,92 euros.
 
@@ -77,5 +95,7 @@ Tarifa cuarta. Publicaciones.
 4.1 Por la publicación en el Boletín Oficial de la Propiedad Industrial, a solicitud del recurrente, del anuncio de la interposición de un recurso contencioso-administrativo en materia de diseño: 138,06 euros.
 
 4.2 Por la publicación en el Boletín Oficial de la Propiedad Industrial, a instancia de parte, del fallo de un recurso contencioso-administrativo en materia de diseño: 138,06 euros.
+
+> Se modifica el epígrafe 1.7 por la disposición final 4 de la Ley 24/2015, de 24 de julio. Ref. BOE-A-2015-8328#dfcuaa.
 
 > Se modifica, con efectos de 1 de enero de 2011, por el art. 97 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
