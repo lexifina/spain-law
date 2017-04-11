@@ -21,3 +21,7 @@ h) Dirección General de Servicios para la Familia y la Infancia.
 i) Dirección General de Políticas de Apoyo a la Discapacidad.
 
 j) Dirección General de Cartera Básica de Servicios del Sistema Nacional de Salud y Farmacia.
+
+k) Dirección General de Arquitectura, Vivienda y Suelo.
+
+> Se añade la letra k) por la disposición final 1.2 del Real Decreto 362/2017, de 8 de abril. Ref. BOE-A-2017-3948#df
