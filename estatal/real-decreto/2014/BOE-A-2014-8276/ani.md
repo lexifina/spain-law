@@ -78,8 +78,14 @@ Los códigos se establecerán del siguiente modo:
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/186/08276_002.png)
 
-## Página 2 –REVERSO–
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/9/00307_4759.png)
 
-## Para las Fuerzas Armadas y para la Guardia Civil
+> Téngase en cuenta que esta representación gráfica de la página 2 "Reverso", establecida por el art. único.1 del Real Decreto 704/2016, de 23 de diciembre. Ref. BOE-A-2017-307., entra en vigor el 11 de abril de 2017.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/186/08276_003.png)
+> Representación anterior:
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2014/186/08276_003.png)
+
+> Se modifica la representación gráfica de la página 2 "Reverso" por el art. único.2 del Real Decreto 704/2016, de 23 de diciembre. Ref. BOE-A-2017-307.
+
+> Los permisos expedidos conforme al modelo anterior continuarán siendo válidos en las mismas condiciones que fueron expedidos hasta que finalice su periodo de vigencia, según establece la disposición transitoria única del citado Real Decreto.
