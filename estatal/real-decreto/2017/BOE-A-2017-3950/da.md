@@ -1,0 +1,5 @@
+## Disposición adicional primera. Calendario para la elaboración de los planes de ordenación del espacio marítimo.
+
+Los Departamentos ministeriales afectados remitirán el inventario de la distribución de las actividades y usos existentes y futuros mencionado en el artículo 7.1.a) a la Dirección General de Sostenibilidad de la Costa y del Mar antes del 31 de marzo de 2019. Las propuestas de planes de ordenación del espacio marítimo mencionadas en el artículo 7.1.c) se elevarán para aprobación mediante real decreto del Consejo de Ministros antes del 31 de marzo de 2021.
+
+Este calendario se alineará con el establecido en el artículo 15, apartados 1 y 4, de la Ley 42/2007, de 13 de diciembre, de Patrimonio Natural y de la Biodiversidad, en lo referente a los elementos marinos de la infraestructura verde citados en el artículo 10, apartado 2 de este real decreto, de modo que, a más tardar en el año 2021, se hayan establecido los elementos marinos de la infraestructura verde, y éstos se hayan tenido en cuenta en los planes de ordenación del espacio marítimo.
