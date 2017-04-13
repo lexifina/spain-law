@@ -20,4 +20,8 @@ b) En la Comunidad Autónoma de Cataluña:
 
 c) La Comunidad Foral de Navarra.
 
+d) La Comunidad Autónoma del País Vasco.
+
+> Se añade el apartado d) por el art. único.4 de la Orden APM/320/2017, de 11 de abril. Ref. BOE-A-2017-4023
+
 > Se añade por el art. único.6 de la Orden AAA/107/2016, de 2 de febrero. Ref. BOE-A-2016-1073.
