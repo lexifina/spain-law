@@ -1,8 +1,10 @@
 ## Quinto. Devolución de depósitos.
 
-1. Excepto en los casos a los que se refiere el punto 3 del presente apartado, la devolución de los depósitos constituidos telemáticamente a través del Portal de Subastas de la AEBOE únicamente podrá efectuarse por esa misma vía.
+1. La devolución de los depósitos constituidos telemáticamente a través del Portal de Subastas de la AEBOE únicamente podrá efectuarse por esa misma vía.
 
-Para ello, será necesario que el titular del depósito acceda por Internet a dicho Portal y proceder del modo siguiente:
+Conforme al artículo 3 del Real Decreto 1011/2015, de 6 de noviembre, por el que se regula el procedimiento para formalizar el sistema de consignaciones en sede electrónica de las cantidades necesarias para tomar parte en las subastas judiciales y notariales, en los casos en los que se deba proceder a la devolución de un depósito, el Portal de Subastas transmitirá a la Agencia Tributaria la información necesaria para que traspase a la cuenta del depositante el depósito constituido para participar en la subasta.
+
+Para ello será necesario que el Portal de Subastas, de forma automática y sin intervención del titular del depósito, proceda del modo siguiente:
 
 a) Capturará el NRC asignado al depósito cuya devolución desea obtener.
 
@@ -44,6 +46,4 @@ c) En aquellos casos en los que la devolución del depósito sea rechazada, se m
 
 2. El titular del depósito obligado no podrá exigir responsabilidad alguna a la Agencia Tributaria ni al Tesoro Público si la devolución se abona en la cuenta desde la que se llevó a cabo su constitución.
 
-3. En los casos de cancelación de la subasta o de suspensión de la misma por un plazo superior a quince días, la AEBOE lo comunicará telemáticamente a la pasarela de depósitos de la Agencia Tributaria, junto con el NRC asignado a cada uno de los depósitos constituidos en dichas subastas.
-
-En base a la información recibida, la pasarela de depósitos de la Agencia Tributaria se comunicará con las entidades de crédito en las que se constituyeron los depósitos, a efectos que éstas los traspasen a las cuentas de los depositantes respectivos.
+> Se modifican los dos primeros párrafos del punto 1 y se suprime el 3 por el apartado 1.4 y 5 de la Resolución de 28 de marzo de 2017. Ref. BOE-A-2017-4259

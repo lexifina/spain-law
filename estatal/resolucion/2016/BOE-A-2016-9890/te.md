@@ -24,7 +24,7 @@ Las entidades de crédito no podrán efectuar ninguna operación de adeudo sin c
 
 4. El incumplimiento del procedimiento regulado en la presente Resolución por parte de alguna de las entidades de crédito a él adheridas podrá suponer la exclusión del mismo para dichas entidades, sin perjuicio de la posible adopción contra ellas de las medidas restrictivas de su condición de colaboradoras en la gestión recaudatoria de la Agencia Tributaria previstas en el artículo 17.6 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio.
 
-5. Las entidades de crédito adheridas al procedimiento deberán mantener el servicio diariamente con un grado de calidad que garantice su funcionamiento y, salvo en casos de fuerza mayor, de modo ininterrumpido, en una banda horaria que la AEBOE considere suficiente.
+5. Las entidades de crédito adheridas al procedimiento deberán mantener el servicio diariamente con un grado de calidad y seguridad que garantice su funcionamiento y, salvo en casos de fuerza mayor, de modo ininterrumpido, en la misma banda horaria que las entidades tienen con la Agencia Tributaria.
 
 En caso de que alguna entidad de crédito no cumpliese este requisito, la Agencia Tributaria podrá impedir o restringir el acceso a los sistemas de dicha entidad.
 
@@ -39,3 +39,5 @@ Las entidades de crédito dispondrán hasta el día 31 de enero de 2017 para ada
 Dichas entidades deberán confirmar la adaptación de sus respectivos sistemas mediante comunicación expresa al Departamento de Informática Tributaria de la Agencia Tributaria.
 
 Si transcurrido el periodo a que se refiere el presente apartado alguna entidad no hubiera comunicado la adaptación de sus sistemas, el Departamento de Recaudación de la Agencia Tributaria podrá acordar su exclusión del procedimiento regulado en la presente Resolución y del regulado en la Resolución 5/2002, de 17 de mayo, de la Dirección General de la Agencia Estatal de Administración Tributaria.
+
+> Se modifica el punto 5 por el apartado 1.3 de la Resolución de 28 de marzo de 2017. Ref. BOE-A-2017-4259

@@ -12,6 +12,6 @@ El alta como usuario a que se refiere el párrafo anterior se efectuará por Int
 
 c) Ser titular de, al menos, una cuenta abierta en alguna de las entidades de crédito autorizadas para actuar como colaboradoras en la gestión recaudatoria de la Agencia Tributaria y que se encuentren adheridas al procedimiento regulado en esta Resolución.
 
-2. El órgano competente para acordar el procedimiento de enajenación deberá indicar expresamente, en el anuncio del mismo, que los licitadores interesados disponen de la posibilidad de participar en los términos previstos en la presente Resolución.
+2. Para que los procedimientos administrativos, judiciales y notariales de enajenación de bienes puedan realizarse en los términos establecidos en esta Resolución será imprescindible que esa posibilidad haya sido habilitada normativamente.
 
-3. Para que los procedimientos administrativos de enajenación de bienes puedan realizarse en los términos establecidos en esta Resolución será imprescindible que esa posibilidad haya sido habilitada normativamente.
+> Se modifica el punto 2 y se suprime el 3 por el apartado 1.1 y 2 de la Resolución de 28 de marzo de 2017. Ref. BOE-A-2017-4259
