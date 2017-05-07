@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Resultados de las pruebas de evaluación final de Educación Primaria.
+
+Las Administraciones educativas elaborarán un informe en el que reflejarán los resultados obtenidos en su ámbito de gestión, expresándolos en seis niveles de desarrollo competencial. Estos niveles se nombrarán del 1 al 6. Estos resultados se pondrán en conocimiento de la comunidad educativa mediante un resumen de los indicadores recogidos en el anexo I de esta orden, considerando los factores socioeconómicos y socioculturales del contexto.
+
+Las Administraciones educativas podrán elaborar informes para cada uno de los centros seleccionados, siempre que la muestra lo permita. Estos informes incluirán indicadores de entre los recogidos en el anexo II de la Resolución de 30 de marzo de 2016, de la Secretaría de Estado de Educación, Formación Profesional y Universidades, por la que se definen los cuestionarios de contexto y los indicadores comunes de centro para la evaluación final de Educación Primaria.
