@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 154, de 28 de junio de 2012. Ref. BOE-A-2012-8628.
+Norma derogada, con efectos de 13 de mayo 2017, excepto las disposiciones adicionales 2 y 3 que mantienen su vigencia, por la disposición derogatoria única del Real Decreto 485/2017, de 12 de mayo. Ref. BOE-A-2017-5271#dd.

@@ -1,0 +1,23 @@
+Con el objeto de impulsar los objetivos prioritarios para España, desarrollar el programa político del Gobierno y lograr la máxima eficacia en su acción y la mayor eficiencia en el funcionamiento de la Administración General del Estado, se aprobó el Real Decreto 415/2016, de 3 de noviembre, por el que se reestructuran los Departamentos ministeriales, cuyo artículo 14 dispone que corresponde al Ministerio de Sanidad, Servicios Sociales e Igualdad la propuesta y ejecución de la política del Gobierno en materia de salud, de planificación y asistencia sanitaria y de consumo, así como el ejercicio de las competencias de la Administración General del Estado para asegurar a los ciudadanos el derecho a la protección de la salud. Asimismo, le corresponde la propuesta y ejecución de la política del Gobierno en materia de cohesión e inclusión social, de familia, de protección del menor y de atención a las personas dependientes o con discapacidad y de igualdad.
+
+Posteriormente, el Real Decreto 424/2016, de 11 de noviembre, por el que se establece la estructura orgánica básica de los Departamentos ministeriales, desarrolla la estructura del Ministerio de Sanidad, Servicios Sociales e Igualdad en los órganos superiores y directivos que se indican en su artículo 13.
+
+El presente real decreto da cumplimiento a lo establecido en la disposición final segunda del Real Decreto 424/2016, de 11 de noviembre, desarrollando la estructura orgánica básica de los órganos superiores y directivos del Departamento, hasta el nivel de subdirección general, actualizando y reordenando las funciones atribuidas a los mismos.
+
+La actualización de funciones responde a la asunción de nuevas competencias establecidas, entre otras, por la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, o la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, mientras que la reordenación de funciones responde al objetivo de racionalizar el funcionamiento de los centros directivos y sus organismos dependientes y de incrementar la transparencia de la gestión.
+
+En base a lo anterior, la Comisión de Ayudas Sociales a los afectados por el Virus de Inmunodeficiencia Humana Adquirida, que anteriormente dependía de la Dirección General de Servicios para la Familia y la Infancia, se adscribe a la Dirección General de Salud Pública, Calidad e Innovación a quien también corresponde la gestión de ayudas sociales para las personas afectadas por la actividad en el sistema sanitario público.
+
+Asimismo, las funciones antes atribuidas a la Dirección General de Salud Pública, Calidad e Innovación en materia de Alta Inspección del Sistema Nacional de Salud se atribuyen ahora a la Dirección General de Ordenación Profesional, quien también se encargará de dar apoyo al Consejo Interterritorial del Sistema Nacional de Salud.
+
+Por otro lado, entre las funciones de la Subsecretaría se mencionan expresamente las que la Ley 19/2013, de 9 de diciembre, atribuye a las Unidades de Información, así como las correspondientes a la Unidad de Igualdad del Departamento previstas en el artículo 77 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+Finalmente, mediante este real decreto se modifica el Estatuto de la Organización Nacional de Trasplantes, aprobado por Real Decreto 1825/2009, de 27 de noviembre, con objeto de potenciar la estructura de este organismo y rentabilizar la posición hegemónica del OA Organización Nacional de Trasplantes como referente mundial en este ámbito.
+
+Con esta finalidad, se atribuye a la Dirección de dicho organismo autónomo el rango de Dirección General, pasando a adscribirse al Ministerio de Sanidad, Servicios Sociales e Igualdad a través de la Secretaría General de Sanidad y Consumo.
+
+Además, de conformidad con el artículo 66.2 de la Ley 40/2015, de 1 de octubre, se excepciona de la reserva funcionarial el nombramiento de la persona titular de la Dirección de dicho organismo autónomo, como consecuencia de la heterogeneidad existente en las relaciones de empleo en el ámbito sanitario y la necesidad evidente de que las funciones que estatutariamente vienen encomendadas a este organismo autónomo sean ejercidas tomando en consideración la especificidad del cada vez mayor número de actores intervinientes en el campo de los trasplantes.
+
+En su virtud, a iniciativa de la Ministra de Sanidad, Servicios Sociales e Igualdad, a propuesta del Ministro de Hacienda y Función Pública y previa deliberación del Consejo de Ministros en su reunión del día 12 de mayo de 2017,
+
+DISPONGO:
