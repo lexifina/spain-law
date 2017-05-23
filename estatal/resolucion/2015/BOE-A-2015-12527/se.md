@@ -6,10 +6,12 @@
 
 En el comienzo de su funcionamiento, y sin perjuicio de futuras ampliaciones, la sede electrónica se destinará a facilitar el procedimiento de liquidación y pago de la Tasa de supervisión, análisis y asesoramiento de la política fiscal, establecida por la Ley Orgánica 6/2013, de 14 de noviembre, de creación de la Autoridad Independiente de Responsabilidad Fiscal.
 
-2.3 La dirección electrónica de referencia de la sede será: https://www.sede.airef.gob.es.
+2.3 La dirección electrónica de referencia de la sede será: https://airef.sede.gob.es
 
 2.4 La titularidad de la sede electrónica corresponderá al ente de derecho público Autoridad Independiente de Responsabilidad Fiscal (AIReF).
 
 2.5 La gestión tecnológica de la sede será competencia de la División Jurídico-Institucional de la AIReF.
 
 2.6 Serán responsables de la gestión de los contenidos y de los servicios puestos a disposición a través de la sede, los Directores de las Divisiones de la AIReF en función de las competencias que cada uno tenga atribuidas. La gestión de los contenidos y servicios comunes corresponderá a la División Jurídico-Institucional de la AIReF.
+
+> Se modifica el apartado 2.3 por el apartado primero de la Resolución de 11 de mayo de 2017. Ref. BOE-A-2017-5624
