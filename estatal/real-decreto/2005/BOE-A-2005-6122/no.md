@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 111, de 10 de mayo de 2005. Ref. BOE-A-2005-7535.
+Norma derogada, con efectos de 25 de mayo de 2017, por la disposición derogatoria única.c) del Real Decreto 125/2017, de 24 de febrero. Ref. BOE-A-2017-1935.

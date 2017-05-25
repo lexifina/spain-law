@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Centros técnicos ya autorizados.
+
+Las autorizaciones de centros técnicos y las certificaciones necesarias para su obtención, así como las tarjetas de centro técnico, emitidas de conformidad con lo establecido en el Real Decreto 425/2005, de 15 de abril, por el que se establecen los requisitos técnicos y las normas de actuación que deben cumplir los centros técnicos para la instalación, verificación, control e inspección de tacógrafos digitales, seguirán siendo válidas hasta el final del periodo previsto en la misma. Para su renovación se estará a lo dispuesto en la disposición transitoria tercera.

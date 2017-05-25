@@ -1,0 +1,57 @@
+## Disposición final primera. Modificación de la Orden FOM/1190/2005, de 25 de abril, por la que se regula la implantación del tacógrafo digital.
+
+El artículo 15 de la Orden FOM/1190/2005, de 25 de abril, por la que se regula la implantación del tacógrafo digital, queda modificado como sigue:
+
+«Artículo 15. Expedición de las tarjetas de centro de ensayo-primera emisión.
+
+Podrán solicitar tarjetas de centro de ensayo los fabricantes de vehículos que tengan instalaciones productivas en España, en cuyos vehículos sea necesario colocar tacógrafos digitales; los fabricantes de carrocerías de autobuses y autocares en cuyas carrocerías sea necesario instalar tacógrafos digitales; los fabricantes de tacógrafos digitales y sus talleres concesionarios; los talleres de reparación de vehículos de las ramas de actividad mecánica o electricidad y, por último, las estaciones de inspección técnica de vehículos (ITV).
+
+Las solicitudes de otorgamiento de nuevas tarjetas de centro de ensayo o primera emisión de la tarjeta, deberán formularse ante el órgano competente en materia de transporte por carretera que corresponda al lugar en que el centro se encuentre ubicado, mediante escrito ajustado al modelo que figura como anexo III de esta orden. Si el centro de ensayo o su representante cuenta con un certificado de clase 2 con firma digital, emitido por autoridades reconocidas, podrá presentar las solicitudes vía Internet. En la solicitud se harán constar los siguientes datos:
+
+1. Nombre y apellidos o razón social, domicilio, teléfono y/o e-mail de contacto y número de identificación fiscal del solicitante. Cuando se trate de centros del tipo de actividad b) estos datos se aportarán tanto por el centro como por el responsable técnico o técnico del mismo, así como entidad expedidora del certificado de formación de dicho responsable técnico o técnico del centro y fecha de emisión.
+
+2. Tipo de centro:
+
+a) Fabricantes de vehículos con instalaciones productivas en España en cuyos vehículos sea necesario colocar tacógrafos digitales.
+
+b) Fabricantes de carrocerías de autobuses y autocares en cuyas carrocerías sea necesario instalar tacógrafos digitales.
+
+c) Fabricantes de tacógrafos digitales y sus talleres autorizados.
+
+d) Talleres de reparación de vehículos de las ramas de actividad mecánica o electricidad.
+
+e) Estaciones de inspección técnica de vehículos (ITV).
+
+3. Tipo de actividad:
+
+a) Exclusivamente instalación y activación.
+
+b) Instalación, activación, inspección de instalación y calibrado.
+
+4. Órgano que autorizó al centro y fecha de la autorización o su renovación: se consignará la fecha de primera autorización o en el caso de renovaciones, la de los certificados de sistemas de gestión o conformidad de producción que sirvieron como base a la autorización.
+
+5. Nombre y apellidos o razón social, domicilio, teléfono y/o e-mail de contacto y número de identificación fiscal de la persona que, en su caso, actúe en representación del solicitante.
+
+6. Lugar y fecha en que se formula la solicitud.
+
+7. Firma del solicitante o de la persona que actúa en su representación.
+
+8. Número de tarjetas que se solicitan (máximo 3 si la actividad no incluye calibrado, según haya autorizado el órgano competente en materia de industria).
+
+9. El recuadro denominado código de barras se podrá utilizar cuando el solicitante se conecte por Internet, rellenando el formulario en pantalla e imprimiendo todos sus datos. Para facilitar su captura, dichos datos se codificarán mediante el código de barras bidimensional ubicado a tales efectos.
+
+10. Especificar si la tarjeta ya confeccionada se entregará por correo y, en su caso, determinar un domicilio de envío.
+
+11. En la causa de la solicitud se hará constar que se trata de primera emisión de tarjeta de centro de ensayo.
+
+Junto con la solicitud, se aportará la siguiente documentación:
+
+a) D.N.I., T.I.E., o pasaporte, tanto del solicitante como del responsable o técnico del centro.
+
+b) Autorización expedida por el órgano competente en materia de industria de la comunidad autónoma en que esté ubicado el taller o centro.
+
+c) Certificado en vigor del sistema de gestión o conformidad de producción del centro técnico, exigido en su autorización.
+
+d) Certificado de formación del responsable técnico o técnico (este requisito no será necesario cuando los solicitantes limiten su actividad a la instalación y activación del tacógrafo digital).
+
+Una vez comprobada la adecuación de la documentación presentada por el solicitante a los requisitos mencionados, el órgano competente expedirá la correspondiente tarjeta o tarjetas de centro de ensayo, que se entregarán al solicitante en la oficina emisora o en el domicilio que se hubiera determinado al efecto.»
