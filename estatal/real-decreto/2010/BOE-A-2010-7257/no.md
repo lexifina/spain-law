@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 147, de 17 de junio de 2010. Ref. BOE-A-2010-9544
+Norma derogada, con efectos de 26 de mayo de 2017, por la disposición derogatoria única del Real Decreto 511/2017, de 22 de mayo. Ref. BOE-A-2017-5776#dd
