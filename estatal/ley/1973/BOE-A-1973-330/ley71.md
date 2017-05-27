@@ -20,9 +20,13 @@ Los hijos no matrimoniales podrán ejercitar la acción conducente a la declarac
 
 También podrá ser ejercitada la acción por los descendientes del hijo no matrimonial que hubiese fallecido durante su menor edad o en estado de incapacitación.
 
+> Téngase en cuenta que se declara la inconstitucionalidad del apartado b), en la redacción dada por el art. 1 de la Ley Foral 5/1987, de 1 de abril. Ref. BOE-A-1987-13331., en cuanto impide a los progenitores la reclamación de la filiación no matrimonial, con el alcance expuesto en el fundamento jurídico 4, por Sentencia del TC 41/2007, de 24 de abril. Ref. BOE-A-2017-5898
+
 ## Legitimación
 
 La acción para la declaración judicial de paternidad o maternidad, si el padre o la madre hubieren fallecido, podrá dirigirse contra sus herederos.
+
+> Se declara la inconstitucionalidad del apartado b), en la redacción dada por el art. 1 de la Ley Foral 5/1987, de 1 de abril, en cuanto impide a los progenitores la reclamación de la filiación no matrimonial, con el alcance expuesto en el fundamento jurídico 4, por Sentencia del TC 41/2007, de 24 de abril. Ref. BOE-A-2017-5898
 
 > Se modifica por el art. 1 de la Ley Foral 5/1987, de 1 de abril.Ref. BOE-A-1987-13331.
 
