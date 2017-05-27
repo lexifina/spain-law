@@ -2,60 +2,62 @@
 
 ## Información mínima exigida en el sistema de trazabilidad de origen a destino de las células y tejidos humanos obtenidos para su aplicación en humanos
 
-1. Información que debe guardar y custodiar el establecimiento de tejidos:
+1. Por los establecimientos de tejidos:
 
-a) Identificación del centro, unidad u organismo de obtención autorizado.
+a) Identificación del donante.
 
-b) Número identificativo único de donación.
+b) Identificación de la donación, que incluya como mínimo:
 
-c) Fecha de obtención.
+1.º Identificación del organismo de obtención (incluida la información de contacto) o el establecimiento de tejidos.
 
-d) Lugar de obtención.
+2.º Número único de identificación de la donación.
 
-e) Tipo de donación/obtención:
+3.º Fecha de obtención.
 
-1.º Fallecido –Vivo.
+4.º Lugar de la obtención.
 
-2.º Multitejido –Tejido/grupo celular único.
+5.º Tipo de donación (por ejemplo, uno o varios tejidos; autóloga o alogénica; donante vivo o fallecido).
 
-3.º Alogénico –Autólogo.
+c) Identificación del producto, que incluya, como mínimo:
 
-f) Identificación del establecimiento de tejidos.
+1.º Identificación del establecimiento de tejidos.
 
-g) Tipo de tejido o grupo celular.
+2.º Tipo de tejido y célula/producto (nomenclatura básica).
 
-h) Número de lote, si procede.
+3.º Número de grupo de lotes (en su caso).
 
-i) Número de subpartición, si procede.
+4.º Número de sublote (en su caso).
 
-j) Fecha de caducidad.
+5.º Fecha de caducidad (en su caso).
 
-k) Estatus del tejido/grupo celular:
+6.º Situación del tejido o las células (por ejemplo, en cuarentena, adecuado para el uso, etc.).
 
-1.º Disponible.
+7.º Descripción y origen de los productos, fases de procesamiento aplicadas, materiales y aditivos que entran en contacto con tejidos y células y tienen un efecto en su calidad y/o su seguridad.
 
-2.º Descartado.
+8.º Identificación de la instalación que expide la etiqueta final.
 
-3.º Cuarentena.
+d) Código único europeo (en su caso).
 
-l) Descripción del producto células o tejido: origen, fases de procesamiento o transformación aplicadas, materiales y aditivos que han estado o están en contacto con las células o tejidos y que pueden afectar a su calidad y/o seguridad o cuya presencia debe tenerse en cuenta por razones de seguridad para las personas en las que se apliquen (ie. presencia de antibióticos y posibles reacciones alérgicas).
+e) Identificación de la aplicación en seres humanos, que incluya, como mínimo:
 
-m) Etiquetado interno y externo del tejido o grupo celular.
+1.º Fecha de distribución/eliminación.
 
-n) Fecha de disponibilidad.
+2.º Identificación del médico o usuario/instalación final.
 
-ñ) Identificación del centro o unidad de aplicación.
+2. Por las organizaciones responsables de la aplicación en seres humanos:
 
-2. Información que debe guardar y custodiar el centro o unidad de aplicación:
+a) Identificación del establecimiento de tejidos proveedor.
 
-a) Identificación del establecimiento de tejido proveedor.
+b) Identificación del médico o usuario/instalación final.
 
-b) Identificación del responsable de la unidad o centro de aplicación.
-
-c) Tipo de tejido/grupo celular.
+c) Tipo de tejidos y células.
 
 d) Identificación del producto.
 
-e) Identificación del receptor o persona en la que se aplica el tejido o grupo celular.
+e) Identificación del receptor.
 
-f) Fecha de utilización, aplicación o en su caso descarte y causa de no utilización en este último supuesto.
+f) Fecha de aplicación.
+
+g) Código único europeo (en su caso).
+
+> Se modifica por el art. 5.17 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#aq

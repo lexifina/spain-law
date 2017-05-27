@@ -212,7 +212,9 @@ i) El etiquetado del contenedor primario de las células/tejidos debe mostrar:
 
 6) Cuando se conozca que las células/tejidos son positivos para algún marcador de enfermedad infecciosa, deberán ir identificados como muestras de riesgo: «riesgo biológico».
 
-Si, por razones de espacio, no es posible incluir la información referida en los puntos 4) y 5), ésta deberá ser facilitada en un documento añadido al contenedor primario. Dicho documento deberá ir embalado junto al contenedor primario de forma que se asegure que permanecen juntos.
+7) El código único europeo aplicable a los tejidos y las células que se distribuyen para su aplicación en seres humanos o la secuencia de identificación de la donación aplicable a los tejidos y las células puestos en circulación pero no distribuidos para su aplicación en seres humanos.
+
+En caso de que no se pueda incluir en la etiqueta del contenedor primario cualquiera de los datos a los que se ha hecho referencia en los puntos 4, 5 y 7, se facilitarán en una hoja separada que se adjuntará al contenedor primario. Esta hoja debe empaquetarse con el contenedor primario de manera que se garantice que permanezcan juntos.
 
 ii) La información que se detalla a continuación puede figurar en la etiqueta o bien en un documento adjunto:
 
@@ -222,17 +224,19 @@ ii) La información que se detalla a continuación puede figurar en la etiqueta 
 
 3) Fecha de distribución de las células/tejidos.
 
-3) Determinaciones biológicas que se han llevado a cabo en el donante y sus resultados.
+4) Determinaciones biológicas que se han llevado a cabo en el donante y sus resultados.
 
-4) Recomendaciones de almacenamiento.
+5) Recomendaciones de almacenamiento.
 
-5) Instrucciones para la apertura del contenedor, para el embalaje y para cualquier manipulación o reconstitución.
+6) Instrucciones para la apertura del contenedor, para el embalaje y para cualquier manipulación o reconstitución.
 
-6) Fechas de caducidad después de la apertura o manipulación del contenedor.
+7) Fechas de caducidad después de la apertura o manipulación del contenedor.
 
-7) Instrucciones para la comunicación de efectos o reacciones adversas.
+8) Instrucciones para la comunicación de efectos o reacciones adversas.
 
-8) Presencia de residuos potencialmente peligrosos (antibióticos, óxido de etileno, etc.).
+9) Presencia de residuos potencialmente peligrosos (antibióticos, óxido de etileno, etc.).
+
+10) En el caso de los tejidos y las células importados, el país de obtención y el país exportador (si es distinto del país de obtención).
 
 iii) Etiquetado externo para el contenedor de envío o transporte.
 
@@ -299,3 +303,5 @@ e) Actividades de implantes de segmentos vasculares: disponer de una Unidad de C
 f) Actividades de implante de tejido ocular, incluyendo córneas, limbocorneal, esclera y otros tejidos oculares: disponer de una Unidad de Cirugía especializada con al menos un especialista con experiencia en dichos trasplantes.
 
 g) Implantes de grupos celulares: disponer de la unidad y equipamientos necesarios para llevar a cabo los implantes específicos de que se trate.
+
+> Se modifica el 3.d)1º i) e ii) por el art. 5.15 y 16 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#aq

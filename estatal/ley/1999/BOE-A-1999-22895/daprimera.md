@@ -8,6 +8,10 @@
 
 4. Lo dispuesto en el apartado anterior no podrá dar lugar a que se sancionen las acciones u omisiones de los sujetos responsables que hayan sido ya sancionadas penal o administrativamente en el país de desplazamiento en los casos en que se aprecie identidad de sujeto, hecho y fundamento.
 
-5. A efectos de lo dispuesto en el artículo 13 de la Ley 42/1997, de 14 de noviembre, ordenadora de la Inspección de Trabajo y Seguridad Social, la Inspección de Trabajo y Seguridad Social podrá también iniciar de oficio el procedimiento sancionador en los supuestos previstos en los apartados anteriores en virtud de comunicación de las Administraciones públicas a las que corresponda en el lugar de desplazamiento la vigilancia del cumplimiento de las condiciones de trabajo.
+5. A efectos de lo dispuesto en el artículo 20 de la Ley 23/2015, de 21 de julio, Ordenadora del Sistema de Inspección de Trabajo y Seguridad Social, la Inspección de Trabajo y Seguridad Social podrá también iniciar de oficio el procedimiento sancionador en los supuestos previstos en los apartados anteriores en virtud de comunicación de las Administraciones públicas a las que corresponda en el lugar de desplazamiento la vigilancia del cumplimiento de las condiciones de trabajo.
 
 6. De acuerdo con la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, los órganos jurisdiccionales españoles del orden social serán competentes para conocer de los litigios a que se refiere esta disposición adicional producidos con ocasión del desplazamiento, sin perjuicio de la posibilidad de entablar una acción judicial en el territorio del Estado miembro en el que esté o haya estado desplazado el trabajador, de conformidad con lo que dispongan al respecto las legislaciones nacionales por las que se dé aplicación a lo establecido en el artículo 6 de la Directiva 96/71/CE, del Parlamento Europeo y del Consejo, de 16 de diciembre, sobre el desplazamiento de trabajadores efectuado en el marco de una prestación de servicios.
+
+> Se modifica el apartado 5 por el art. 6.10 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#as-2
+
+> Téngase en cuenta, para su aplicación, la disposición transitoria 3 del citado Real Decreto-ley.

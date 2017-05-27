@@ -1,19 +1,15 @@
 ## ANEXO VII
 
-## Sistema de codificación de células y tejidos
+## Formato y estructura del código único europeo.
 
-1. Información contenida:
+1. FORMATO DEL CÓDIGO ÚNICO EUROPEO
 
-1. Identificación de la donación:
+El código único europeo deberá estar en formato legible e ir precedido de las siglas “SEC”. Será posible el uso paralelo de otros sistemas de etiquetado y trazabilidad.
 
-a) Identificación de la donación.
+El código único europeo figurará impreso junto con la secuencia de identificación de la donación y la secuencia de identificación del producto, separado por un espacio único o en dos líneas sucesivas.
 
-b) Identificación del establecimiento de tejidos.
+2. ESTRUCTURA DEL CÓDIGO ÚNICO EUROPEO
 
-2. Identificación del producto:
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/126/05855_7218.png)
 
-a) Código de producto básico.
-
-b) Número de partición.
-
-c) Fecha de caducidad.
+> Se modifica por el art. 5.18 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#aq
