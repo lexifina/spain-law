@@ -1,0 +1,1 @@
+Téngase en cuenta que esta Orden seguirá siendo de aplicación, en lo que no se oponga al Reglamento aprobado por el Real Decreto 512/2017, de 22 de mayo. Ref. BOE-A-2017-5862#dt, hasta que se aprueben las correspondientes ordenes ministeriales de desarrollo, según establece la disposición transitoria 1 del citado Real Decreto.
