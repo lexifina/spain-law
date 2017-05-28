@@ -12,4 +12,8 @@ Respecto de los MDF cuyos titulares presenten dicha información en el plazo de 
 
 a) Si de la información proporcionada por la empresa, o en el certificado del fabricante o del boletín de análisis a que se refiere el párrafo primero de este apartado, se deriva la existencia en el producto de una sustancia activa incluida en el Reglamento de Ejecución (UE) n.º 540/2011 de la Comisión, de 25 de mayo de 2011, o cuya inclusión en el mismo se haya rechazado por la Comisión Europea, o que el producto incluya al menos un tipo de los previstos en el anexo I del Real Decreto 506/2013, de 28 de junio, o en el anexo I del Reglamento (CE) n.º 2003/2003, se preverá un plazo de dos meses para la comercialización y venta del producto, y un total de cuatro para su uso.
 
-b) En el resto de supuestos, se preverá un plazo de dieciocho meses para la fabricación, comercialización, venta y uso del producto.
+b) En el caso de los bioestimulantes de las plantas, existirá un plazo de treinta y seis meses para la fabricación, comercialización, venta y uso del producto, contados desde la fecha de notificación de la resolución de cancelación de la inscripción del producto en el registro.
+
+> Se modifica el apartado 2.b) por el art. único.4 del Real Decreto 534/2017, de 26 de mayo. Ref. BOE-A-2017-5863
+
+> Téngase en cuenta para su aplicación la disposición transitoria única del citado Real Decreto.
