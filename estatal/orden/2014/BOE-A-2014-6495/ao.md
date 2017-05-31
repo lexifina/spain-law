@@ -2,6 +2,8 @@
 
 > Anexos I a VIII omitidos. Consulte el PDF oficial, y sus modificaciones:
 
+> - Se declara la nulidad de lo indicado de los anexos II y VIII, por Sentencia del TS de 24 de abril de 2017. Ref. BOE-A-2017-6018
+
 > - Se declara la nulidad de lo indicado del anexo II, por Sentencia del TS de 16 de marzo de 2017. Ref. BOE-A-2017-4486
 
 > - Se declara la nulidad de lo indicado de los anexos II, VII y VIII, por Sentencia del TS de 19 de septiembre de 2016. Ref. BOE-A-2016-10116
