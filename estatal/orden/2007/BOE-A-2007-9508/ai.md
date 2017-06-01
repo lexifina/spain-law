@@ -1,44 +1,46 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_4946.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_14606.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_5067.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_14641.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_5140.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_14674.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_5213.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_14707.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_5287.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_14741.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_5360.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_14775.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_5434.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_14809.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_5508.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_14844.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_5584.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_14877.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_5657.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_14911.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_5730.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_14946.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_5804.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_14980.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_5877.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_15014.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_5950.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_15047.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_6025.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_15080.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_6100.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_15115.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_6175.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_15148.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_6249.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_15182.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_6323.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_15219.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/316/13673_6397.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_15253.png)
+
+> Se sustituye por la disposición final 1.1 de la Orden HFP/417/2017, de 12 de mayo. Ref. BOE-A-2017-5312#df
 
 > Se sustituye por el art. único.1 de la Orden HAP/2484/2014, de 29 de diciembre. Ref. BOE-A-2014-13673
 
