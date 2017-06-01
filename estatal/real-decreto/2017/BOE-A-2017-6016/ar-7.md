@@ -1,0 +1,3 @@
+## Artículo 7. Información y documentación a presentar anualmente.
+
+1. Las organizaciones de productores y las asociaciones de organizaciones de productores con programa operativo en ejecución, tal y como se establece en el artículo 26 del Reglamento Delegado (UE) 2017/891 de la Comisión, de 13 de marzo de 2017, y en el artículo 6 Reglamento de Ejecución (UE) 2017/892 de la Comisión, de 13 de marzo de 2017, deberán comunicar anualmente al órgano competente a más tardar el 15 de septiembre, en su caso, al mismo tiempo que presentan los proyectos de programas operativos o las solicitudes de modificación de los mismos para la anualidad siguiente, la información y documentación contenida en el anexo II del presente real decreto.
