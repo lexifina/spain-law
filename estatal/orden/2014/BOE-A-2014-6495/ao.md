@@ -2,6 +2,8 @@
 
 > Anexos I a VIII omitidos. Consulte el PDF oficial, y sus modificaciones:
 
+> - Se declara la nulidad de las disposiciones relativas a la IT-01426, por Sentencia del TS, de 5 de mayo de 2017. Ref. BOE-A-2017-6251
+
 > - Se declara la nulidad de lo indicado, por Sentencia de 4 de mayo de 2017. Ref. BOE-A-2017-6175
 
 > - Se declara la nulidad de lo indicado de los anexos II y VIII, por Sentencia del TS de 24 de abril de 2017. Ref. BOE-A-2017-6018
