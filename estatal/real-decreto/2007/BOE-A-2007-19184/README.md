@@ -8,6 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+BOE records this act as repealed with effect from 2017-06-04. The recorded cause is disposición derogatoria única.b) del Real Decreto 1105/2014, de 26 de diciembre Ref. BOE-A-2015-37, y en su totalidad por la disposición derogatoria única.b) del Real Decreto 562/2017, de 2 de junio (BOE-A-2017-6250). See the publisher notice for qualifications and transitional provisions. Earlier wording remains available in the history.
+
 ## Bloques
 
 - [no](no.md)
