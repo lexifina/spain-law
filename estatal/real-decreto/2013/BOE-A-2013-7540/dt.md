@@ -1,0 +1,9 @@
+## Disposición transitoria quinta. Regularización de los productos fertilizantes en cuya composición se incluyan residuos de conformidad con el artículo 17.
+
+1. Hasta que se publiquen la “Lista de otros residuos” y los criterios aplicables a los productos fertilizantes elaborados a partir de los mismos, no se podrán utilizar residuos en la fabricación de fertilizantes, ni “abonos CE”, ni productos fertilizantes contemplados en el anexo I de este real decreto, salvo los residuos incluidos en la “Lista de residuos orgánicos biodegradables” del anexo IV, conforme a lo establecido en el artículo 18.
+
+2. En el caso de los productos fertilizantes en cuya fabricación se empleen residuos no incluidos en el anexo IV, que hubieran sido autorizados por la autoridad medioambiental competente con anterioridad a la entrada en vigor de esta disposición transitoria, el fabricante dispondrá de un plazo de dieciocho meses a partir de la publicación de la presente modificación para continuar con su fabricación, comercialización y venta, sin perjuicio del cumplimiento de lo establecido en el artículo 4 de este real decreto y en la Ley 22/2011, de 28 de julio.
+
+No obstante lo anterior, si dentro del plazo de dieciocho meses mencionado para la fabricación, comercialización y venta, se publicaran la “Lista de otros residuos” y los criterios aplicables a los productos fertilizantes elaborados con estos residuos, y el residuo utilizado en la fabricación del producto fertilizante estuviera incluido en dicha lista y cumpliera con los criterios establecidos, y de ello no se derivara ninguna modificación en sus condiciones de comercialización o uso, dicho producto fertilizante podrá seguir comercializándose durante un plazo adicional de un año, plazo en el que se actualizarán las autorizaciones previstas en el artículo 17.
+
+> Se añade por el art. único.2 del Real Decreto 535/2017, de 26 de mayo. Ref. BOE-A-2017-6291
