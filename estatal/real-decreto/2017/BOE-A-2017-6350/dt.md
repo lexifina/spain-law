@@ -1,0 +1,7 @@
+## Disposición transitoria única. Obtención del certificado y obligación de exhibir la etiqueta de eficiencia energética en edificios protegidos oficialmente.
+
+1. La presentación o puesta a disposición de los compradores o arrendatarios del certificado de eficiencia energética de los edificios protegidos oficialmente que no estén excluidos por el artículo 2. 2, a) del Procedimiento básico para la certificación de la eficiencia energética de los edificios, aprobado por Real Decreto 235/2013, de 5 de abril, será exigible para los contratos de compraventa o arrendamiento celebrados una vez transcurrido el plazo de tres meses desde la entrada en vigor del presente real decreto.
+
+2. Los edificios protegidos oficialmente ocupados por una autoridad pública a los que se refiere el artículo 2.1.c) de dicho Procedimiento básico, que no estén excluidos por el citado artículo 2.2.a) del procedimiento básico, deberán obtener un certificado de eficiencia energética y tendrán la obligación de exhibir su etiqueta de eficiencia energética una vez transcurrido el plazo de seis meses desde la entrada en vigor del presente real decreto.
+
+3. Los edificios protegidos oficialmente a los que se refiere el artículo 13.1, del referido Procedimiento básico, que no estén excluidos por el citado artículo 2.2.a), tendrán obligación de exhibir su etiqueta de eficiencia energética una vez transcurrido el plazo de seis meses desde la entrada en vigor del presente real decreto.

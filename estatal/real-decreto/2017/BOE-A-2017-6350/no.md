@@ -1,0 +1,1 @@
+Téngase en cuenta que el Real Decreto 235/2013, de 5 de abril, ha sido derogado, con efectos de 3 de junio de 2021, por la disposición derogatoria única.1 del Real Decreto 390/2021, de 1 de junio, Ref. BOE-A-2021-9176#dd, por lo que debe entenderse que el presente Real Decreto ha sido implíticamente derogado.
