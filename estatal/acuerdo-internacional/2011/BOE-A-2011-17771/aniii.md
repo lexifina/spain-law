@@ -2,11 +2,13 @@
 
 ## Requisitos, procedimientos y prácticas recomendados en relación con la expedición de los documentos de identidad de la gente de mar
 
-En el presente anexo se enuncian los requisitos mínimos relativos a los procedimientos que, de conformidad con el artículo 5 del presente Convenio, han adoptado todos los Miembros para la expedición de los documentos de identidad de la gente de mar (en adelante «DIM»), incluidos los procedimientos de control de calidad.
+En el presente anexo se enuncian los requisitos mínimos relativos a los procedimientos que, de conformidad con el artículo 5 del presente Convenio, deberá adoptar cada Miembro para la expedición de los documentos de identidad de la gente de mar (“DIM”), incluidos los procedimientos de control de calidad.
 
 En la Parte A se enuncian los resultados obligatorios que, como mínimo, debe conseguir cada Miembro al aplicar un sistema de expedición de DIM.
 
-En la Parte B se recomiendan los procedimientos y prácticas que permitirán alcanzar dichos resultados. Aunque esta Parte no reviste carácter obligatorio, los Miembros deberán tenerla plenamente en cuenta.
+En la Parte B se recomiendan los procedimientos y prácticas que permitirán obtener dichos resultados. Aunque esta Parte no reviste carácter obligatorio, los Miembros deberán tenerla plenamente en cuenta.
+
+No obstante lo anterior, cada Miembro observará todos los requisitos obligatorios pertinentes previstos en el documento núm. 9303 de la Organización de Aviación Civil Internacional (OACI). El término “documento núm. 9303” se entenderá como referencia a la séptima edición (2015) del documento publicado por la OACI, con las posibles modificaciones que pudieran introducirse de conformidad con los procedimientos conexos de la OACI. Los Miembros también deberán tener plenamente en cuenta las recomendaciones u orientaciones pertinentes que figuren en el documento núm. 9303, concretamente en la parte 2 de dicho documento y en sus anexos.
 
 Parte A. Resultados obligatorios:
 
@@ -351,3 +353,5 @@ b) el interventor mencionado en la sección 5 infra y las personas nombradas par
 5.7 Se deberían instaurar procedimientos y procesos a fin de prevenir toda divulgación no autorizada de los informes facilitados por otros Miembros.
 
 5.8 En todos los procedimientos y procesos de comprobación se debería garantizar que las técnicas de producción y las prácticas de seguridad, inclusive los procedimientos de control de las existencias, son suficientes como para cumplir los requisitos enunciados en el presente anexo.
+
+> Se modifican los tres primeros párrafos por el apartado C de las Enmiendas de 2016 a los anexos I, II y III del Convenio. Ref. BOE-A-2018-15297
