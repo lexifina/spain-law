@@ -1,0 +1,1 @@
+Norma derogada, desde el 11 de junio de 2017, salvo los anexos VIII y X a los solos efectos de la aplicabilidad del sistema de reconocimiento, y hasta tanto concluyan los trabajos de revisión a que se refiere el artículo 81, por la disposición derogatoria única del Real Decreto 581/2017, de 9 de junio. Ref. BOE-A-2017-6586

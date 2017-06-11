@@ -78,4 +78,8 @@ t) Suspensión o inhabilitación para el ejercicio profesional: si el profesiona
 
 u) Acreditación para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano.
 
+v) Resoluciones de acceso parcial a una actividad profesional.
+
+> Se añade la letra v) por la disposición final 1.2 del Real Decreto 581/2017, de 9 de junio. Ref. BOE-A-2017-6586
+
 > Se añade la letra u) por la disposición final 4.3 del Real Decreto 954/2015, de 23 de octubre. Ref. BOE-A-2015-14028.

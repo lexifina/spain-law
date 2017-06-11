@@ -1,0 +1,5 @@
+## Disposición transitoria única. Procedimientos en tramitación.
+
+1. Los procedimientos de reconocimiento de cualificaciones profesionales iniciados con anterioridad a la entrada en vigor de este real decreto continuarán su tramitación y se resolverán de acuerdo con la normativa vigente en el momento de su iniciación.
+
+2. Hasta tanto se dicten las normas de desarrollo de este real decreto seguirán aplicándose, en cuanto no se opongan al mismo, las disposiciones dictadas para el desarrollo y aplicación del real decreto citado en la disposición derogatoria siguiente.
