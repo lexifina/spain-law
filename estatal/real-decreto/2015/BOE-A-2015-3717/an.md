@@ -2,6 +2,8 @@
 
 ## Catálogo homogéneo de equivalencias de las categorías profesionales de personal estatutario del SNS
 
+> Téngase en cuenta que se anula, exclusivamente en lo que atañe al catálogo de equivalencia profesionales del Anexo relativo al personal sanitario técnico grupo C1 denominación Técnico Superior Especialista en las 13 denominaciones, por no haberle sometido al trámite de audiencia, por Sentencia del TS de 23 de marzo de 2017. Ref. BOE-A-2017-6607
+
 | G.C P. | CLASIFICACIÓN DE PERSONAL ESTATUTARIO | DENOMINACIÓN DE LA CATEGORÍA DE REFERENCIA | CATEGORÍAS EQUIVALENTES |
 | --- | --- | --- | --- |
 | A1 | P. LICENCIADO SANITARIO (LOPS) | TITULADO ESPECIALISTA EN CIENCIAS DE LA SALUD (*) : | FACULTATIVO ESPECIALISTA DE ÁREA (FEA), FACULTATIVO ESPECIALISTA (FE), LICENCIADO ESPECIALISTA (LE), EN: |
@@ -163,5 +165,7 @@
 (*) NOTA FINAL:
 
 El acceso a estas categorías de referencia por movilidad, precisará en primer lugar que el aspirante se encuentre encuadrado, en la especialidad o categoría específica en la que ostente nombramiento como personal estatutario fijo, en una de las categorías sobre las que se establece equivalencia; que se oferten plazas y así se describan y enumeren las plazas concretas ofertadas por cada servicio de salud que promueva la convocatoria, de modo y manera que no se pueda producir, en ningún caso, el acceso de un efectivo de una especialidad a la de otra. Por ello, tanto en las categoría de referencia de «Titulado Especialista en» como en la de «Técnico Superior Especialista en» o en la de «Técnico de Salud Pública en» deberá atenderse a la titulación y especialidad concreta de cada profesional. Por ello habrá de observarse en éstas que, aun compartiendo la denominación genérica en la categoría de referencia, sólo podrá optarse por movilidad a la categoría equivalente de la misma especialidad y titulación de acceso a la categoría en la que se ostenta nombramiento estatutario fijo. Así, en ningún caso, podrá acceder un Titulado Superior especialista en una especialidad concreta a una plaza de Titulado Superior Especialista de otra especialidad o, un Técnico Superior Especialista en una disciplina concreta a una Plaza de Técnico Superior Especialista de otra titulación.
+
+> Se anula, exclusivamente en lo que atañe al catálogo de equivalencia profesionales del Anexo relativo al personal sanitario técnico grupo C1 denominación Técnico Superior Especialista en las 13 denominaciones, por no haberle sometido al trámite de audiencia, por Sentencia del TS de 23 de marzo de 2017. Ref. BOE-A-2017-6607
 
 > Se actualiza por el art. 2 de la Orden SSI/2420/2015, de 11 de noviembre. Ref. BOE-A-2015-12403.
