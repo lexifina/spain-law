@@ -1,0 +1,3 @@
+## Disposición transitoria única. Aplicación transitoria de determinados preceptos de la Orden APA/3465/2004, de 20 de octubre.
+
+Durante el periodo de vigencia de la autorización provisional para ejercer como organismo de control, mientras se encuentre en proceso de acreditación para la norma UNE-EN ISO/IEC 17065/2012, el Consejo Regulador se podrá regir en su actuación de verificación y control por lo dispuesto en los artículos 15 y 17 del anexo I y en el anexo II de la Orden APA/3465/2004, de 20 de octubre, por la que se aprueba el Reglamento de la Denominación de Origen Calificada «Rioja» y de su Consejo Regulador.

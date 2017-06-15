@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación de Orden APA/3465/2004, de 20 de octubre, por la que se aprueba el Reglamento de la Denominación de Origen Calificada «Rioja» y de su Consejo Regulador.
+
+Se deroga la Orden APA/3465/2004, de 20 de octubre, por la que se aprueba el Reglamento de la Denominación de Origen Calificada «Rioja» y de su Consejo Regulador, salvo lo dispuesto en artículos 4, 9.1, 14, 22.apartados 2 y 3, 31 y 34 del Anexo I, que permanecerán en vigor en tanto no se incorporen sus contenidos en el pliego de condiciones de la Denominación de Origen Calificada Rioja, todo ello sin perjuicio de lo dispuesto en la disposición transitoria única.
