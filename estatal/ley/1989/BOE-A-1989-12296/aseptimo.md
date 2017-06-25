@@ -12,6 +12,14 @@ En ningún caso, las personas jurídicas que no tengan la condición de Sociedad
 
 Las aportaciones no podrán presentar entre sí privilegio alguno en su prelación en caso de concurso o liquidación de la cooperativa.
 
+5. Los límites mencionados en el apartado 3 no se tendrán en cuenta en el caso de la participación por cualquier medio en el capital social de una Cooperativa de Crédito por parte del fondo de garantía privado constituido ex ante en el marco de un sistema institucional de protección de los previstos en el artículo 113.7 del Reglamento (UE) 575/2013, de 26 de junio, del Parlamento Europeo y del Consejo, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012.
+
+Asimismo, dichos límites no se tendrán en cuenta cuando se adopten algunas de las medidas previstas en la Ley 11/2015, de 18 de junio, de recuperación y resolución de entidades de crédito y empresas de servicios de inversión.
+
+Cuando el fondo de garantía privado se encuentre en el supuesto descrito en el párrafo primero, deberá presentar al Banco de España, para su aprobación, un plan de actuación a efectos de garantizar la viabilidad que contenga medidas concretas dirigidas a permitir la desinversión del fondo en la Cooperativa de Crédito, en condiciones adecuadas para todas las entidades integrantes del sistema institucional de protección.
+
+> Se añade el apartado 5 por el art. 1.2 del Real Decreto-ley 11/2017, de 23 de junio. Ref. BOE-A-2017-7230#ap
+
 > Se modifica el apartado 4 por la disposición final 2 de la Ley 10/2014, de 26 de junio. Ref. BOE-A-2014-6726.
 
 > Se modifica el apartado 4 por la disposición adicional 4 B) de la Ley 20/1990, de 19 de diciembre. Ref. BOE-A-1990-30735
