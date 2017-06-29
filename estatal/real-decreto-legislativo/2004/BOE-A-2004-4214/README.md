@@ -376,4 +376,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria decimonovena](dtdecimonovena.md)
 - [Disposición transitoria vigésima](dtvigesima.md)
 - [Disposición transitoria vigésima primera](dtvigesimaprimera.md)
+- [Disposición transitoria vigésima segunda](dt.md)
 - [Disposición final única](dfunica-2.md)

@@ -10,21 +10,25 @@
 
 5. Sujetos pasivos: Las personas físicas o jurídicas que soliciten la prestación de servicios que constituyen el hecho imponible de las mismas.
 
-6. Determinación de la cuota:
+6. Determinación de la cuota.
 
-Uno. La cuantía de la tasa a ingresar será:
+La cuantía de la tasa a ingresar será:
 
-a) Por Permisos CITES de importación de hasta 4 especies: 20 euros que se incrementará en 5 euros más por especie.
+a) Por permisos CITES de importación con un anexo: 20 euros que se incrementará en 15 euros más por anexo.
 
-b) Por Permisos CITES de exportación de hasta 4 especies: 20 euros que se incrementará en 5 euros más por especie.
+b) Por permisos CITES de exportación con un anexo: 20 euros que se incrementará en 15 euros más por anexo.
 
-c) Por Certificados CITES de reexportación de hasta 4 especies: 20 euros que se incrementará en 5 euros más por especie.
+c) Por certificados CITES de reexportación con un anexo: 20 euros que se incrementará en 15 euros más por anexo.
 
-d) Por Certificados de propiedad privada de hasta 4 especies: 30 euros que se incrementará en 5 euros más por especie.
+d) Por certificados de propiedad privada: 30 euros.
 
-e) Por Certificados de uso comunitario: 20 euros.
+e) Por certificados de uso comunitario: 20 euros.
 
-f) Por Certificados de exhibición itinerante: 10 euros.
+f) Por certificados de exhibición itinerante: 20 euros.
+
+g) Por certificados de colección de muestras: 20 euros.
+
+h) Por certificados de instrumentos musicales: 20 euros.
 
 7. Exenciones: Quedan exentos del abono de tasas los organismos e instituciones oficiales pertenecientes a cualquiera de las Administraciones Públicas.
 
@@ -35,3 +39,5 @@ Uno. La tasa será objeto de autoliquidación por parte del sujeto pasivo, que h
 Dos. El pago de la tasa se realizará en efectivo por el procedimiento establecido en la normativa que regula la gestión recaudatoria de las tasas de la Hacienda Pública.
 
 9. Gestión y recaudación: La gestión de la tasa se llevará a cabo por la Secretaría General de Comercio Exterior del Ministerio de Industria, Turismo y Comercio.
+
+> Se modifica el apartado 6 por la disposición final 15 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387#df-16

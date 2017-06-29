@@ -21,3 +21,9 @@ b) Los pensionistas de jubilación anteriores a 30 de junio de 1990 procedentes 
 a) Los funcionarios procedentes de los Cuerpos Generales Administrativo, Auxiliar y Subalterno de la Administración Militar integrados en los Cuerpos de la Administración Civil del Estado, en virtud de lo dispuesto en el apartado uno de la disposición adicional novena de la Ley de Medidas para la reforma de la Función Pública, que presten servicios en la Administración Militar o en sus organismos públicos.
 
 b) Los titulares de las plazas no escalafonadas a extinguir de Matronas de la Dirección General de la Guardia Civil.
+
+4. Los funcionarios a los que se refiere el apartado 3 del artículo 7 que se hallen incluidos en el Régimen General de la Seguridad Social y que, en el momento en el que accedieron por promoción interna a Cuerpos o Escalas propios de la Comunidad Autónoma de destino o a Escalas interdepartamentales o departamentales de Organismos Autónomos, hubieran pertenecido al Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado, podrán optar por una sola vez y hasta el 31 de diciembre de 2017, por recuperar su condición de mutualistas de la Mutualidad General de Funcionarios Civiles del Estado, con efectos jurídicos desde el 1 de enero de 2018, siempre que mantengan la condición de funcionarios en la fecha que ejerciten la opción, y sin perjuicio de su situación de excedencia voluntaria en el Cuerpo de la Administración Civil del Estado.
+
+La inclusión de dichos funcionarios en el Mutualismo Administrativo no comportará en ningún caso, su inclusión en el Régimen de Clases Pasivas del Estado, a efectos de derechos pasivos.
+
+> Se añade el apartado 4 por la disposición final 6.3 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387

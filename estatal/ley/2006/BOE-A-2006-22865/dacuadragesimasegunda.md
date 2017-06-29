@@ -16,8 +16,22 @@ Seis. El Fondo de apoyo al sector pesquero y acuícola será gestionado por la s
 
 En todas las actuaciones relativas a este Fondo, la entidad gestora actuará en nombre propio y por cuenta del citado Fondo. De igual manera, la entidad gestora actuará como depositaria de los contratos representativos de las operaciones realizadas con cargo al Fondo. Todas las operaciones efectuadas serán registradas en una contabilidad específica, separada e independiente de la propia entidad gestora, de acuerdo con lo establecido en la Ley General de Presupuestos.
 
-Siete. SEPIDES ingresará en el Tesoro Público la dotación percibida con cargo a los Presupuestos Generales del Estado, menos el importe correspondiente a los préstamos fallidos y los gastos derivados de la gestión del Fondo, más los rendimientos financieros que puedan generar las cantidades aportadas por el Ministerio de Agricultura, Pesca y Alimentación en el plazo máximo de 10 años, a contar desde la fecha de transferencia por parte del Ministerio de Agricultura, Pesca y Alimentación del presupuesto anual destinado al Fondo.
+Siete. SEPIDES ingresará en el Tesoro Público la dotación percibida con cargo a los Presupuestos Generales del Estado, menos el importe correspondiente a los préstamos fallidos y los gastos derivados de la gestión del Fondo, más los rendimientos financieros que puedan generar las cantidades aportadas por el Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente atendiendo al siguiente calendario:
+
+– 31 de diciembre de 2017: El importe correspondiente a los 2 primeros millones de euros invertidos en préstamos asignados a la primera anualidad transferida en 2008.
+
+– 31 de diciembre de 2018: El importe correspondiente a los 3 primeros millones de euros invertidos en préstamos asignados a la anualidad transferida en 2008.
+
+– 31 de diciembre de 2019: El importe correspondiente a los 5 millones de euros invertidos en préstamos asignados a la anualidad transferida en 2009.
+
+– 31 de diciembre de 2020: El importe correspondiente a los 5 millones de euros invertidos en préstamos asignados a la anualidad transferida en 2010.
+
+– 31 de diciembre de 2024: El importe correspondiente a los 4 últimos millones de euros invertidos en préstamos asignados a la primera anualidad transferida en 2008 y el importe correspondiente a los 2 últimos millones de euros invertidos en préstamos asignados a la segunda anualidad transferida en 2008.»
 
 Ocho. Este Fondo carece de personalidad jurídica. Las responsabilidades del Fondo se limitarán exclusivamente a aquéllas que la entidad gestora haya contraído por cuenta del mismo. Igualmente, los posibles acreedores del Fondo no podrán hacer efectivos sus créditos contra el patrimonio de la entidad gestora, cuya responsabilidad se limita al importe de sus aportaciones al Fondo.
 
 Los posibles fallidos que se generen por la aplicación del Fondo reducirán la cuantía del mismo en el momento de la liquidación al final del plazo de reembolso de la dotación. El Fondo de apoyo a la acuicultura en Galicia, previsto en el artículo 121 de la Ley 62/2003, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, se integrará a todos los efectos en el presente Fondo.
+
+Nueve. Las amortizaciones que se produzcan durante el periodo de vigencia del Fondo podrán utilizarse para prestar apoyo financiero a nuevos proyectos siempre que permitan cumplir el calendario previsto en el apartado Siete anterior.
+
+> Se modifica el apartado 7 y se añade el 9 por la disposición final 16.1 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387#df-17

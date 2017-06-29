@@ -22,7 +22,9 @@ Para aplicar lo previsto en el párrafo anterior, además será necesario que el
 
 5. En relación con ejercicios posteriores a 2014, mediante Ley de Presupuestos Generales del Estado se podrá habilitar, atendiendo a la coyuntura económica, la prórroga del plazo de aplicación previsto en este artículo.
 
-> Téngase en cuenta que, según se establece en la disposición adicional 82 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644., la aplicación de las reglas contenidas en esta disposición se prorroga para el año 2016.
+> Téngase en cuenta que se prorroga para 2017 la aplicación de las reglas contenidas en esta disposición, según establece la disposición adicional 96 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+
+> Se prorroga su aplicación para 2017 por la disposición adicional 96 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
 
 > Se prorroga su aplicación para 2016 por la disposición adicional 82 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644.
 

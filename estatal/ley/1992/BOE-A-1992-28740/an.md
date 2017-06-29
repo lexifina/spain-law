@@ -34,29 +34,11 @@ El régimen de depósito distinto de los aduaneros a que se refiere esta letra b
 
 Los titulares de los depósitos a que se refiere este precepto serán responsables subsidiarios del pago de la deuda tributaria que corresponda a la salida o abandono de los bienes de estos depósitos, con excepción de aquéllos a que se refiere la letra a) de esta disposición, independientemente de que puedan actuar como representantes fiscales de los empresarios o profesionales no establecidos en el ámbito espacial del impuesto.
 
-> Téngase en cuenta que esta modificación del apartado 5 establecida por el art. 41 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329. es aplicable a partir del 1 de enero de 2016.
+Sexto. Liquidación del impuesto en los casos comprendidos en el artículo 19, número 5º, párrafo segundo, de esta Ley.
 
-> Redacción anterior:
+La liquidación del impuesto en los casos comprendidos en el artículo 19, número 5º, párrafo segundo de esta Ley, se ajustará a las siguientes normas:
 
-> Quinto. Régimen de depósito distinto de los aduaneros:
-
-> Definición del régimen:
-
-> a) En relación con los bienes objeto de Impuestos Especiales, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable en los supuestos de fabricación, transformación o tenencia de los productos objeto de los Impuestos Especiales de fabricación en fábricas o depósitos fiscales, de circulación de los referidos productos entre dichos establecimientos y de importación de los mismos con destino a fábrica o depósito fiscal.
-
-> Lo dispuesto en el párrafo anterior resultará igualmente aplicable al gas natural entregado a través de una red situada en el territorio de la Comunidad o de cualquier red conectada a dicha red.
-
-> b) En relación con los demás bienes, el régimen de depósito distinto de los aduaneros será el régimen suspensivo aplicable a los bienes excluidos del régimen de depósito aduanero por razón de su origen o procedencia con sujeción, en lo demás, a las mismas normas que regulan el mencionado régimen aduanero.
-
-> También se incluirán en este régimen los bienes que se negocien en mercados oficiales de futuros y opciones basados en activos no financieros, mientras los referidos bienes no se pongan a disposición del adquirente.
-
-> El régimen de depósito distinto de los aduaneros a que se refiere este párrafo b) no será aplicable a los bienes destinados a su entrega a personas que no actúen como empresarios o profesionales con excepción de los destinados a ser introducidos en las tiendas libres de impuestos.
-
-Sexto. Liquidación del impuesto en los casos comprendidos en el artículo 19, número 5.o, párrafo segundo, de esta Ley.
-
-La liquidación del impuesto en los casos comprendidos en el artículo 19, número 5.o, párrafo segundo de esta Ley, se ajustará a las siguientes normas:
-
-1.º Cuando los bienes salgan de las áreas o abandonen los regímenes comprendidos en los ar tículos 23 y 24 se producirá la obligación de liquidar el impuesto correspondiente a las operaciones que se hubiesen beneficiado previamente de la exención por su entrada en las áreas o vinculación a los regímenes indicados, de acuerdo con las siguientes reglas:
+1.º Cuando los bienes salgan de las áreas o abandonen los regímenes comprendidos en los artículos 23 y 24 se producirá la obligación de liquidar el impuesto correspondiente a las operaciones que se hubiesen beneficiado previamente de la exención por su entrada en las áreas o vinculación a los regímenes indicados, de acuerdo con las siguientes reglas:
 
 a) Si los bienes hubiesen sido objeto de una o varias entregas exentas previas, el impuesto a ingresar será el que hubiere correspondido a la última entrega exenta efectuada.
 
@@ -94,13 +76,13 @@ Los lingotes de chatarra son generalmente de hierro o acero muy aleado, toscamen
 
 | Cód. NCE | Designación de la mercancía |
 | --- | --- |
-| 7402 | Cobre sin refinar ; ánodos de cobre para refinado. |
+| 7402 | Cobre sin refinar; ánodos de cobre para refinado. |
 | 7403 | Cobre refinado en forma de cátodos y secciones de cátodo. |
 | 7404 | Desperdicios y desechos de cobre. |
 | 7407 | Barras y perfiles de cobre. |
 | 7408.11.00 | Alambre de cobre refinado, en el que la mayor dimensión de la sección transversal sea T6 mm. |
 | 7408.19.10 | Alambre de cobre refinado, en el que la mayor dimensión de la sección transversal sea de T 05 mm, pero R= 6 mm. |
-| 7502 | Niquel |
+| 7502 | Níquel |
 | 7503 | Desperdicios y desechos de níquel. |
 | 7601 | Aluminio en bruto. |
 | 7602 | Desperdicios y desechos de aluminio. |
@@ -120,7 +102,7 @@ Los lingotes de chatarra son generalmente de hierro o acero muy aleado, toscamen
 
 Octavo. Relación de bienes a que se refiere el artículo 91.Uno.1.6.ºc) de esta Ley.
 
-– Las gafas, lentes de contacto graduadas y los productos necesarios para su uso, cuidado y mantenimiento.
+– Las gafas, monturas para gafas graduadas, lentes de contacto graduadas y los productos necesarios para su uso, cuidado y mantenimiento.
 
 – Dispositivos de punción, dispositivos de lectura automática del nivel de glucosa, dispositivos de administración de insulina y demás aparatos para el autocontrol y tratamiento de la diabetes.
 
@@ -198,6 +180,8 @@ Décimo. Entregas de plata, platino, paladio, así como la entrega de teléfonos
 | 9504 50 | Videoconsolas y máquinas de videojuego excepto las de la subpartida 950430. Exclusivamente por lo que se refiere a las consolas de videojuego |
 | 8471 30 | Máquinas automáticas para tratamiento o procesamiento de datos, portátiles, de peso inferior a 10 kg, que estén constituidas, al menos, por una unidad central de proceso, un teclado y un visualizador. Exclusivamente por lo que se refiere a ordenadores portátiles y tabletas digitales. |
 
+> Se modifica el primer guión del apartado 8 por el art. 61 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+
 > Se añaden los apartados 8 y 10 y se modifica el 5 por el art. 1.41 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
 
 > La modificación del apartado 5 es aplicable a partir del 1 de enero de 2016 según establece la disposición final 5.
@@ -224,4 +208,4 @@ Décimo. Entregas de plata, platino, paladio, así como la entrega de teléfonos
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 40, de 16 de febrero de 1995. Ref. BOE-A-1995-4035.
 
-> Redactado el punto 2 conforme a la correción de errores publicada en BOE núm. 33, de 8 de febrero de 1993. Ref. BOE-A-1993-3297
+> Redactado el punto 2 conforme a la corrección de errores publicada en BOE núm. 33, de 8 de febrero de 1993. Ref. BOE-A-1993-3297

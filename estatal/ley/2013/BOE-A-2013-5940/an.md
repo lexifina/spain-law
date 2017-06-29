@@ -24,7 +24,7 @@ Las empresas que presten simultáneamente servicios postales incluidos en el ám
 
 4. Cuantías.
 
-La cuota a ingresar será de 400 euros, que deberá abonarse en el momento en que se realice la inscripción en el Registro o la renovación de la misma.
+La cuota a ingresar será de 325 euros, que deberá abonarse en el momento en que se realice la inscripción en el Registro o la renovación de la misma.
 
 5. Gestión.
 
@@ -199,3 +199,5 @@ II. Prestaciones patrimoniales de carácter público
 1. Aportaciones a realizar por los operadores de telecomunicaciones y por los prestadores privados del servicio de comunicación audiovisual televisiva, de ámbito geográfico estatal o superior al de una Comunidad Autónoma, reguladas en los artículos 5 y 6 de la Ley 8/2009, de 28 de agosto, de financiación de la Corporación Radio y Televisión Española.
 
 2. Contribución postal regulada en el artículo 31 de la Ley 43/2010, de 30 de diciembre.
+
+> Se modifica el punto 4 del epígrafe I.1.A) por la disposición final 24 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387#df-25

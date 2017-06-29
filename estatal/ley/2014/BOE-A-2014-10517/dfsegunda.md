@@ -16,4 +16,6 @@ A la entrada en vigor de la referida norma reglamentaria quedará sin vigencia e
 
 7. Se autoriza al Gobierno para que, mediante real decreto, establezca la obligación de contabilización de consumos de calor, frío y agua caliente sanitaria, en edificios existentes derivada de la transposición de la Directiva 2012/27/UE del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, relativa a la eficiencia energética, por la que se modifican las Directivas 2009/125/CE y 2010/30/UE, y por la que se derogan las Directivas 2004/8/CE y 2006/32/CE.
 
+> Se modifica el apartado 4 por la disposición final 28.1 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387#df-29
+
 > Se modifica el apartado 4 por la disposición final 2.1 del Real Decreto-ley 7/2017, de 28 de abril. Ref. BOE-A-2017-4678
