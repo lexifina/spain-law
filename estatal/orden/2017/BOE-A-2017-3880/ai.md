@@ -86,7 +86,7 @@ Exclusivamente a los efectos de la aplicación de la metodología del proceso de
 
 3.1 Coeficientes mIT_j,a de las instalaciones tipo con autorización de explotación definitiva en los años 2017, 2018 y 2019.
 
-| Tecnología | Código de identificación de la instalación tipo de referencia | Grupo/subgrupo (art. 2 Real Decreto 413/2014) | Año de autorización de explotación definitiva «a» | Código de identificación de la instalación tipo | mITR_j,a |
+| Tecnología | Código de identificación de la instalación tipo de referencia | Grupo/subgrupo (art. 2 Real Decreto 413/2014) | Año de autorización de explotación definitiva «a» | Código de identificación de la instalación tipo de la subasta convocada por el Real Decreto 359/2017, de 31 de marzo. | mITR_j,a |
 | --- | --- | --- | --- | --- | --- |
 | Eólica | ITR-0103 | b.2 | 2017 | IT-04013 | 115.786 |
 | 2018 | IT-04014 | 115.786 |
@@ -99,3 +99,18 @@ Exclusivamente a los efectos de la aplicación de la metodología del proceso de
 | 2019 | IT-04021 | 192.977 |
 
 Los parámetros retributivos de la instalación tipo se calcularán a partir de los parámetros de la instalación tipo de referencia y del resultado de la subasta de conformidad con lo establecido en la presente orden y en el Real Decreto 413/2014, de 6 de junio.
+
+3.2. Coeficientes mIT_j,a de las instalaciones tipo con autorización de explotación definitiva en los años 2017, 2018 y 2019 y códigos de las instalaciones tipo correspondientes al cupo de potencia establecido en el Real Decreto 650/2017, de 16 de junio, por el que se establece un cupo de 3.000 MW de potencia instalada, de nuevas instalaciones de producción de energía eléctrica a partir de fuentes de energía renovables en el sistema eléctrico peninsular, al que se podrá otorgar el régimen retributivo específico.
+
+| Tecnología | Código de Identificación de la Instalación Tipo de Referencia | Grupo / Subgrupo (Art. 2 Real Decreto 413/2014) | Año de Autorización de Explotación Definitiva «a» | Código de Identificación de la Instalación Tipo convocada por el Real Decreto 650/2017, de 16 de junio. | mITR_j,a |
+| --- | --- | --- | --- | --- | --- |
+| Eólica. | ITR-0103 | b.2 | 2017 | IT-04022 | 115.786 |
+| 2018 | IT-04023 | 115.786 |
+| 2019 | IT-04024 | 115.786 |
+| Fotovoltaica. | ITR-0104 | b.1.1 | 2017 | IT-04025 | 115.786 |
+| 2018 | IT-04026 | 115.786 |
+| 2019 | IT-04027 | 115.786 |
+
+Los parámetros retributivos de la instalación tipo se calcularán a partir de los parámetros de la instalación tipo de referencia y del resultado de la subasta de conformidad con lo establecido en la presente orden y en el Real Decreto 413/2014, de 6 de junio.
+
+> Se modifica la cabecera de la quinta columna de la tabla del apartado 3.1 y se añade el apartado 3.2 por la disposición final 1 de la Orden ETU/615/2017, de 27 de junio. Ref. BOE-A-2017-7389#df
