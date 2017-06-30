@@ -70,9 +70,9 @@ El poder se extinguirá por la revocación del poderdante, por la renuncia del a
 
 Nueve. El artículo 56 queda redactado del siguiente modo:
 
-«Quienes deseen contraer matrimonio acreditarán previamente en acta o expediente tramitado conforme a la legislación del Registro Civil, que reúnen los requisitos de capacidad y la inexistencia de impedimentos o su dispensa, de acuerdo con lo previsto en este Código.
+«Quienes deseen contraer matrimonio acreditarán previamente en acta o expediente tramitado conforme a la legislación del Registro Civil, que reúnen los requisitos de capacidad o la inexistencia de impedimentos o su dispensa, de acuerdo con lo previsto en este Código.
 
-Si alguno de los contrayentes estuviere afectado por deficiencias mentales, intelectuales o sensoriales, se exigirá por el Secretario judicial, Notario, Encargado del Registro Civil o funcionario que tramite el acta o expediente, dictamen médico sobre su aptitud para prestar el consentimiento.»
+El Letrado de la Administración de Justicia, Notario, Encargado del Registro Civil o funcionario que tramite el acta o expediente, cuando sea necesario, podrá recabar de las Administraciones o entidades de iniciativa social de promoción y protección de los derechos de las personas con discapacidad, la provisión de apoyos humanos, técnicos y materiales que faciliten la emisión, interpretación y recepción del consentimiento del o los contrayentes. Solo en el caso excepcional de que alguno de los contrayentes presentare una condición de salud que, de modo evidente, categórico y sustancial, pueda impedirle prestar el consentimiento matrimonial pese a las medidas de apoyo, se recabará dictamen médico sobre su aptitud para prestar el consentimiento.»
 
 Diez. El artículo 57 queda redactado del siguiente modo:
 
@@ -619,3 +619,5 @@ Noventa y siete. El artículo 1392 queda redactado de la forma siguiente:
 Noventa y ocho. El artículo 1442 queda redactado de la forma siguiente:
 
 «Declarado un cónyuge en concurso, serán de aplicación las disposiciones de la legislación concursal.»
+
+> Se modifica el apartado 9 por el art. único.2 de la Ley 4/2017, de 28 de junio. Ref. BOE-A-2017-7483

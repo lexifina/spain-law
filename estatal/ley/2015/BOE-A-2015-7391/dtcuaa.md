@@ -2,7 +2,7 @@
 
 1. Las adopciones que se inicien hasta la entrada en vigor de la Ley de modificación del sistema de protección a la infancia y a la adolescencia, se regirán por las disposiciones de la Ley de Enjuiciamiento Civil aprobada por Real Decreto de 3 de febrero de 1881.
 
-2. Los expedientes matrimoniales que se inicien antes del 30 de junio del 2017 se seguirán tramitando por el Encargado del Registro Civil conforme a las disposiciones del Código Civil y de la Ley del Registro Civil de 8 de junio de 1957.
+2. Los expedientes matrimoniales que se inicien antes de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil se seguirán tramitando por el Encargado del Registro Civil conforme a las disposiciones del Código Civil y de la Ley del Registro Civil de 8 de junio de 1957.
 
 Resuelto favorablemente el expediente matrimonial por el Encargado del Registro Civil, el matrimonio se podrá celebrar, a elección de los contrayentes, ante:
 
@@ -19,3 +19,5 @@ La prestación del consentimiento deberá realizarse en la forma prevista en el 
 El matrimonio celebrado ante el Encargado del Registro Civil, Juez de Paz, Alcalde o Concejal en quien este delegue o ante el Secretario judicial se hará constar en acta; el que se celebre ante Notario constará en escritura pública. En ambos casos deberá ser firmada, además de por aquel ante el que se celebra, por los contrayentes y dos testigos.
 
 Extendida el acta o autorizada la escritura pública, se entregará a cada uno de los contrayentes copia acreditativa de la celebración del matrimonio y se remitirá por el autorizante, en el mismo día y por medios telemáticos, testimonio o copia autorizada electrónica del documento al Registro Civil para su inscripción, previa calificación del Encargado del Registro Civil.
+
+> Se modifica el párrafo primero del apartado 2 por el art. único.1 de la Ley 4/2017, de 28 de junio. Ref. BOE-A-2017-7483

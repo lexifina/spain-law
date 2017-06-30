@@ -6,11 +6,13 @@ Uno. Los apartados 1, 2, 5, 6, 7, 8, 9, 10 y 12 del artículo 58 quedan redactad
 
 2. La celebración del matrimonio requerirá la previa tramitación o instrucción de un acta o expediente a instancia de los contrayentes para acreditar el cumplimiento de los requisitos de capacidad y la inexistencia de impedimentos o su dispensa, o cualquier otro obstáculo, de acuerdo con lo previsto en el Código Civil. La tramitación del acta competerá al Notario del lugar del domicilio de cualquiera de los contrayentes. La instrucción del expediente corresponderá al Secretario judicial o Encargado del Registro Civil del domicilio de uno de los contrayentes.
 
-5. El Secretario judicial, Notario o Encargado del Registro Civil oirá a ambos contrayentes reservadamente y por separado para cerciorarse de su capacidad y de la inexistencia de cualquier impedimento. Asimismo, se podrán solicitar los informes y practicar las diligencias pertinentes, sean o no propuestas por los requirentes, para acreditar el estado, capacidad o domicilio de los contrayentes o cualesquiera otros extremos necesarios para apreciar la validez de su consentimiento y la veracidad del matrimonio. Si alguno de los contrayentes estuviere afectado por deficiencias mentales, intelectuales o sensoriales se exigirá dictamen médico sobre su aptitud para prestar el consentimiento.
+5. El Letrado de la Administración de Justicia, Notario o Encargado del Registro Civil oirá a ambos contrayentes reservadamente y por separado para cerciorarse de su capacidad y de la inexistencia de cualquier impedimento. Asimismo, se podrán solicitar los informes y practicar las diligencias pertinentes, sean o no propuestas por los requirentes, para acreditar el estado, capacidad o domicilio de los contrayentes o cualesquiera otros extremos necesarios para apreciar la validez de su consentimiento y la veracidad del matrimonio.
+
+El Letrado de la Administración de Justicia, Notario, Encargado del Registro Civil o funcionario que tramite el acta o expediente, cuando sea necesario, podrá recabar de las Administraciones o entidades de iniciativa social de promoción y protección de los derechos de las personas con discapacidad, la provisión de apoyos humanos, técnicos y materiales que faciliten la emisión, interpretación y recepción del consentimiento del o los contrayentes. Solo en el caso excepcional de que alguno de los contrayentes presentare una condición de salud que, de modo evidente, categórico y sustancial, pueda impedirle prestar el consentimiento matrimonial pese a las medidas de apoyo, se recabará dictamen médico sobre su aptitud para prestar el consentimiento.
 
 De la realización de todas estas actuaciones se dejará constancia en el acta o expediente, archivándose junto con los documentos previos a la inscripción de matrimonio.
 
-Pasado un año desde la publicación de los anuncios o de las diligencias sustitutorias sin que se haya contraído el matrimonio, no podrá celebrarse éste sin nueva publicación o diligencias.
+Pasado un año desde la publicación de los anuncios o de las diligencias sustitutorias sin que se haya contraído el matrimonio, no podrá celebrarse este sin nueva publicación o diligencias.
 
 6. Realizadas las anteriores diligencias, el Secretario judicial, Notario o Encargado del Registro Civil que haya intervenido finalizará el acta o dictará resolución haciendo constar la concurrencia o no en los contrayentes de los requisitos necesarios para contraer matrimonio, así como la determinación del régimen económico matrimonial que resulte aplicable y, en su caso, la vecindad civil de los contrayentes, entregando copia a éstos. La actuación o resolución deberá ser motivada y expresar, en su caso, con claridad la falta de capacidad o el impedimento que concurra.
 
@@ -116,8 +118,12 @@ Doce. La disposición final décima queda redactada del siguiente modo:
 
 «Disposición final décima. Entrada en vigor.
 
-La presente Ley entrará en vigor el 30 de junio de 2017, excepto las disposiciones adicionales séptima, octava y las disposiciones finales tercera y sexta, que entrarán en vigor el día siguiente al de su publicación en el “Boletín Oficial del Estado”.
+La presente Ley entrará en vigor el 30 de junio de 2018, excepto las disposiciones adicionales séptima y octava y las disposiciones finales tercera y sexta, que entrarán en vigor el día siguiente al de su publicación en el “Boletín Oficial del Estado”, y excepto los artículos 49.2 y 53 del mismo texto legal, que entrarán en vigor el día 30 de junio de 2017.
 
-Hasta la entrada en vigor de la presente Ley, el Gobierno, a través del Ministerio de Justicia, adoptará las medidas y los cambios normativos necesarios que afecten a la organización y funcionamiento de los Registros Civiles dentro del proceso de modernización de la Justicia.»
+Lo dispuesto en el párrafo anterior se entiende sin perjuicio de la entrada en vigor el 15 de octubre de 2015 de los artículos 44, 45, 46, 47, 49.1 y 4, 64, 66, 67.3 y disposición adicional novena, en la redacción dada por el artículo segundo de la Ley 19/2015, de 13 de julio, de medidas de reforma administrativa en el ámbito de la Administración de Justicia y del Registro Civil.
+
+Hasta la completa entrada en vigor de esta Ley, el Gobierno adoptará las medidas y los cambios normativos necesarios que afecten a la organización y funcionamiento de los Registros Civiles.»
+
+> Se modifica el apartado 1, en lo relativo al apartado 5 del art. 58 de la Ley 20/2011, y el apartado 12 por el art. único.3 y 4 de la Ley 4/2017, de 28 de junio. Ref. BOE-A-2017-7483
 
 > Redactado el apartado 2 conforme a la corrección de errores publicada en el BOE núm. 210, de 2 de septiembre de 2015. Ref. BOE-A-2015-9524.
