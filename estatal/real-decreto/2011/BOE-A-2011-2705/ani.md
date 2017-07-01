@@ -136,22 +136,26 @@ Arroz: Rendimiento grano pelado, rendimiento grano elaborado y tipo de grano.
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2016, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de julio de 2017, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV (1):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Oryza sativa L. | Arroz. | TP 16/2 de 21.3.2012 |
-| Avena nuda L. | Avena desnuda | TP 20/1 de 6.11.2003 |
-| Avena sativa L. (incluida la A. byzantina K. Koch). | Avena y Avena roja | TP 20/1 de 6.11.2003 |
-| Hordeum vulgare L. | Cebada | TP 19/3 de 21.3.2012 |
+| Oryza sativa L. | Arroz. | TP 16/3 DE 1.10.2015 |
+| Avena nuda L. | Avena desnuda, avena descascarillada. | TP 20/2 de 1.10.2015 |
+| Avena sativa L. (incluye A. bizantina K. Koch). | Avena y Avena roja | TP 20/2 de 1.10.2015 |
+| Hordeum vulgare L. | Cebada | TP 19/4 DE 1.10.2015 |
 | Secale cerale L. | Centeno | TP 58/1 de 31.10.2002 |
 | Triticum aestivum L. | Trigo blando | TP 3/4 rev 2 de 16.2.2011 |
 | Triticum durum Desf. | Trigo duro | TP 120/3 de 19.3.2014 |
 | Triticosecale Wittm x A. Camus. | Triticale (Híbridos del cruce de una especie del géneroTriticum con una especie del género Secale | TP 121/2 rev 1 de 16.02.2011 |
 
 (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+
+> Téngase en cuenta que la modificación del apartado 6, efectuada por el art. único.1 de la Orden APM/383/2017, de 21 de abril. Ref. BOE-A-2017-4871 entra en vigor el 1 de julio de 2017.
+
+> Se modifica el apartado 6, con efectos de 1 de julio de 2017, por el art. único.1 de la Orden APM/383/2017, de 21 de abril. Ref. BOE-A-2017-4871
 
 > Se modifica el apartado 6, con efectos de 1 de enero de 2016, por el art. único.1 de la Orden AAA/2505/2015, de 19 de noviembre. Ref. BOE-A-2015-12818.
 

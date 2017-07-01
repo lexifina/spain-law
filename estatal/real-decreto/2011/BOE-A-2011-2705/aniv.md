@@ -130,17 +130,20 @@ Variedades cespitosas: la finura de las hojas, densidad del césped, persistenci
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de julio de 2016, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de julio de 2017, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV (1):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
 | Festuca rubra L. | Festuca roja | TP 67/1/ de 23.6.2011. |
+| Festuca arundinacea Schreb. | Festuca alta. | TP 39/1 de 1.10.2015. |
+| Festuca pratensis Huds. | Festuca pratense. | TP 39/1 de 1.10.2015. |
 | Lolium multiflorum Lam. | Ray grass Italiano | TP 4/1 de 23.6.2011. |
 | Lolium perenne L. | Ray-grass Inglés | TP 4/1 de 23.6.2011. |
 | Lolium x boucheanum Kunth | Ray-grass híbrido | TP 4/1 de 23.6.2011. |
 | Pisum sativum L. | Guisante forrajero | TP 7/2 rev. de 11.3.2015 |
+| Vicia sativa L. | Veza común. | TP 32/1 de 19.4.2016. |
 
 (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
@@ -170,7 +173,11 @@ Especies que cumplen con las directrices de examen de la UPOV (2):
 | Cicer arietinum L. | Garbanzo | TG/143/4 de 6.04.2005 |
 | Lens culinaris medik | Lenteja | TG/21/01 de 9.04.2003 |
 
-(2) El texto de estos protocolos puede consultarse en la web de la UPOV (www.upov.int).
+(2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Téngase en cuenta que la modificación del apartado 6, efectuada por el art. único.3 de la Orden APM/383/2017, de 21 de abril. Ref. BOE-A-2017-4871 entra en vigor el 1 de julio de 2017.
+
+> Se modifica el apartado 6, con efectos de 1 de julio de 2017, por el art. único.3 de la Orden APM/383/2017, de 21 de abril. Ref. BOE-A-2017-4871
 
 > Se modifica el apartado 6, con efectos de 1 de julio de 2016, por el art. único.1 de la Orden AAA/765/2016, de 13 de mayo. Ref. BOE-A-2016-4809.
 

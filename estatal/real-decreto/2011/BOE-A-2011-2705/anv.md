@@ -148,7 +148,7 @@ Las variedades de Cáñamo que superen el 0,2 por ciento de contenido en THC no 
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2016, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de julio de 2017, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV (1):
 
@@ -156,10 +156,11 @@ Especies que cumplen con los protocolos de examen de la OCVV (1):
 | --- | --- | --- |
 | Cannabis sativa L. | Cáñamo. | TP 276/1 de 28.11.2012 |
 | Brassica napus L. | Colza. | TP 36/2 de 16.11.2011 |
+| Gossypium spp. | Algodón. | TP 88/1 de 19.4.2016 |
 | Helianthus annus L. | Girasol. | TP 81/1 de 31.10.2002 |
 | Linum usitatissimum L. | Lino. | TP 57/2 de 19.3.2014 |
 
-(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu)
+(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
 Especies que cumplen con los protocolos de examen de la UPOV (2):
 
@@ -171,6 +172,10 @@ Especies que cumplen con los protocolos de examen de la UPOV (2):
 | Glycine max L. Merrill | Soja. | TG/80/6 de 1.4.1998 |
 
 (2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Téngase en cuenta que la modificación del apartado 6, efectuada por el art. único.4 de la Orden APM/383/2017, de 21 de abril. Ref. BOE-A-2017-4871 entra en vigor el 1 de julio de 2017.
+
+> Se modifica el apartado 6, con efectos de 1 de julio de 2017, por el art. único.4 de la Orden APM/383/2017, de 21 de abril. Ref. BOE-A-2017-4871
 
 > Se modifica el apartado 6, con efectos de 1 de enero de 2016, por el art. único.2 de la Orden AAA/2505/2015, de 19 de noviembre. Ref. BOE-A-2015-12818.
 

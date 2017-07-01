@@ -280,7 +280,7 @@ Zanahoria: 50 gramos.
 
 5. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de julio de 2016, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de julio de 2017, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV (1):
 
@@ -312,13 +312,13 @@ Especies que cumplen con los protocolos de examen de la OCVV (1):
 | Brassica oleracea L. | Colirrábano | TP 65/1 de 25.3.2004 |
 | Cichorium endivia L. | Escarola y endivia | TP 118/3 de 19.3.2014 |
 | Asparagus officinalis L. | Espárrago | TP 130/2 de 16.2.2011 |
-| Spynacia oleracea L. | Espinaca | TP 55/5 de 27.2.2013 |
+| Spinacia oleracea L. | Espinaca | TP 55/5 rev. de 19.4.2016 |
 | Pisum sativum L. (partim) | Guisante de grano rugoso, guisante de grano liso redondo y guisante cometodo | TP 7/2 rev. de 11.3.2015 |
 | Vicia faba L. (partim) | Haba | TP Broadbean/1 de 25.3.2004 |
 | Foeniculum vulgare Mill. | Hinojo | TP 183/1 de 25.3.2004 |
 | Phaseolus vulgaris L. | Judía de mata baja y judía de enrame | TP 12/4 de 27.02.2013 |
 | Phaseolus coccineus L. | Judía escarlata | TP 9/1 de 21.3.2007 |
-| Lactuca sativa L. | Lechuga | TP 13/5 de 16.2.2011 |
+| Lactuca sativa L. | Lechuga | TP 13/5 rev. de 19.4.2016 |
 | Zea mays L. (partim) | Maíz dulce y maíz para palomitas | TP 2/3 de 11.3.2010 |
 | Cucumis melo L. | Melón | TP 104/2 de 21.3.2007 |
 | Cucumis sativus L. | Pepino y pepinillo | TP 61/2 de 13.3.2008 |
@@ -328,9 +328,11 @@ Especies que cumplen con los protocolos de examen de la OCVV (1):
 | Allium porrum L. | Puerro | TP 85/2 de 1.4.2009 |
 | Raphanus sativus L. | Rábano o rabanito y rábano de invierno o rábano negro | TP 64/2 rev. de 11.3.2015 |
 | Citrullus lanatus (Thunb.) Matsum. et Nakai | Sandía | TP 142/2 de 19.3.2014 |
-| Solanum lycopersicum L. × Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. × Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. × Solanum cheesmaniae (L. Ridley) Fosberg | Portainjertos de tomate | TP 294/1 de 19.3.2014 |
+| Solanum lycopersicum L. × Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. × Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. × Solanumcheesmaniae (L. Ridley) Fosberg | Portainjertos de tomate | TP 294/1 rev. de 19.4.2016 |
 | Daucus carota L. | Zanahoria de mesa | TP 49/3 de 13.3.2008 |
 | Scorzonera hispanica L. | Escorzonera o salsifí negro | TP 116/1 de 11.3.2015 |
+| Solanum lycopersicum L. | Tomate | TP 44/rev.2. de 19.4.2016 |
+| Rheumrha barbarum L. | Ruibarbo | TP 62/1 de 19.4.2016 |
 
 (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
@@ -351,8 +353,13 @@ Especies que cumplen con las directrices de examen de la UPOV (2):
 | Solanum lycopersicum L. x |  |  |
 | Solanum cheesmaniae (L. Ridley) |  |  |
 | Fosberg |  |  |
+| Cucurbita maxima x Cucurbita Moschata. | Híbridos interespecíficos de Cucurbita maxima Duch. x Cucurbita moschata Duch. destinados a ser utilizados como portainjertos. | TG/311/1 de 25.3.2015 |
 
 (2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Téngase en cuenta que la modificación del apartado 5, efectuada por el art. único.5 de la Orden APM/383/2017, de 21 de abril. Ref. BOE-A-2017-4871 entra en vigor el 1 de julio de 2017.
+
+> Se modifica el apartado 5, con efectos de 1 de julio de 2017, por el art. único.5 de la Orden APM/383/2017, de 21 de abril. Ref. BOE-A-2017-4871
 
 > Se modifica el apartado 5, con efectos de 1 de julio de 2016, por el art. único.2 de la Orden AAA/765/2016, de 13 de mayo. Ref. BOE-A-2016-4809.
 
