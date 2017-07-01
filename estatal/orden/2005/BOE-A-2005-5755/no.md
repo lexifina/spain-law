@@ -1,7 +1,1 @@
-Téngase en cuenta que la disposición transitoria 4 de la Ley 38/2015, de 29 de septiembre, del sector ferroviario, Ref. BOE-A-2015-10440. establece:
-
-"Disposición transitoria cuarta. Aplicación provisional de los cánones ferroviarios y de las tarifas de los servicios complementarios.
-
-Hasta tanto no se fijen de conformidad con las reglas establecidas en el título VI, los cánones ferroviarios y las tarifas de los servicios complementarios en las instalaciones de servicio dependientes de los administradores de infraestructuras a los que se refiere el artículo 22, seguirán siendo aplicables las vigentes a la entrada en vigor de esta ley.
-
-La adecuación de los cánones ferroviarios a lo dispuesto en el título VI se incluirá, en todo caso, en el primer proyecto de ley de Presupuestos Generales del Estado que se tramite después de la entrada en vigor de esta ley."
+Téngase en cuenta que, según establece el art. 70 de la Ley 3/2017, de 27 de junio, de Presupuestos Generales del Estado para el año 2017, a partir del 1 de julio de 2017 entra en vigor el nuevo sistema de cánones ferroviarios previsto en los arts. 97 y 98 de la Ley 38/2015, de 29 de septiembre, del Sector Ferroviario, con las cuantías unitarias que se establecen en los arts. 71 y 72 de la citada Ley de Presupuestos para 2017 Ref. BOE-A-2017-7387#a7-2, por lo que dejaría de aplicarse la presente Orden.
