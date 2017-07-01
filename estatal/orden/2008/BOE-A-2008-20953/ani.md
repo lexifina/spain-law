@@ -1,12 +1,18 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/306/13180_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_16863.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/306/13180_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_16956.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/306/13180_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_17030.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/306/13180_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_17105.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_17178.png)
+
+> Téngase en cuenta que esta última actualización del modelo 303, establecida por la disposición final 3.1 y el Anexo V de la Orden HFP/417/2017, de 12 de mayo. Ref. BOE-A-2017-5312, entra en vigor el 1 de julio de 2017.
+
+> Se sustituye, con efectos de 1 de julio de 2017, por la disposición final 3.1 y el Anexo V de la Orden HFP/417/2017, de 12 de mayo. Ref. BOE-A-2017-5312
 
 > Se sustituye por el art. 1.1 y el Anexo I de la Orden HAP/2373/2014, de 9 de diciembre. Ref. BOE-A-2014-13180.
 
