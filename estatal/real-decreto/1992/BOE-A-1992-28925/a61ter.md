@@ -8,13 +8,23 @@ No obstante, en caso de que alguna de dichas declaraciones-liquidaciones individ
 
 En caso de que una entidad que quede excluida del régimen especial del grupo de entidades cumpla los requisitos que se establecen en el artículo 30, podrá optar por el procedimiento especial de devolución que se regula en el mismo.
 
-3. El Ministro de Hacienda y Administraciones Públicas aprobará los modelos de declaración-liquidación individual y agregada que procedan para la aplicación del régimen especial. Estas declaraciones-liquidaciones deberán presentarse durante los veinte primeros días naturales del mes siguiente al correspondiente periodo de liquidación mensual.
+3. El Ministro de Hacienda y Función Pública aprobará los modelos de declaración-liquidación individual y agregada que procedan para la aplicación del régimen especial. Estas declaraciones-liquidaciones deberán presentarse durante los primeros treinta días naturales del mes siguiente al correspondiente periodo de liquidación mensual, o hasta el último día del mes de febrero en el caso de la declaración-liquidación mensual correspondiente al mes de enero.
 
-Sin embargo, la declaración-liquidación correspondiente al último período del año, deberá presentarse durante los treinta primeros días naturales del mes de enero.
+Sin perjuicio de lo establecido en el párrafo anterior, el Ministro de Hacienda y Función Pública, atendiendo a razones fundadas de carácter técnico, podrá ampliar el plazo correspondiente a las declaraciones que se presenten por vía electrónica.
 
-Sin perjuicio de lo establecido en los párrafos anteriores de este apartado, el Ministro de Hacienda y Administraciones Públicas, atendiendo a razones fundadas de carácter técnico, podrá ampliar el plazo correspondiente a las declaraciones que se presenten por vía telemática.
+> Téngase en cuenta que esta última actualización del apartado 3 por el art. 1.3 del Real Decreto 596/2016, de 2 de diciembre. Ref. BOE-A-2016-11575. entra en vigor el 1 de julio de 2017.
+
+> Redacción anterior:
+
+> "3. El Ministro de Hacienda y Administraciones Públicas aprobará los modelos de declaración-liquidación individual y agregada que procedan para la aplicación del régimen especial. Estas declaraciones-liquidaciones deberán presentarse durante los veinte primeros días naturales del mes siguiente al correspondiente periodo de liquidación mensual.
+
+> Sin embargo, la declaración-liquidación correspondiente al último período del año, deberá presentarse durante los treinta primeros días naturales del mes de enero.
+
+> Sin perjuicio de lo establecido en los párrafos anteriores de este apartado, el Ministro de Hacienda y Administraciones Públicas, atendiendo a razones fundadas de carácter técnico, podrá ampliar el plazo correspondiente a las declaraciones que se presenten por vía telemática."
 
 4. Los empresarios o profesionales que apliquen el régimen especial no podrán acogerse al sistema de cuenta corriente en materia tributaria que se regula en los artículos 138 a 143 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio.
+
+> Se modifica, con efectos desde el 1 de julio de 2017, el apartado 3 por el art. 1.3 del Real Decreto 596/2016, de 2 de diciembre. Ref. BOE-A-2016-11575.
 
 > Se modifica el apartado 3 por la disposición final 4 del Real Decreto 1042/2013, de 27 de diciembre. Ref. BOE-A-2013-13759.
 
