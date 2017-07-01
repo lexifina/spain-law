@@ -26,6 +26,7 @@
 | 213 | Gravamen Especial sobre Bienes Inmuebles de Entidades no Residentes. |
 | 216 | Impuesto sobre la Renta de no Residentes. Rentas obtenidas sin mediación de establecimiento permanente. Retenciones e ingresos a cuenta. Declaración-documento de ingreso. |
 | 220 (*) | Impuesto sobre Sociedades. Régimen de consolidación fiscal correspondiente a los grupos fiscales. Declaración anual. |
+| 221 | Autoliquidación de la prestación patrimonial por conversión de activos por impuesto diferido en crédito exigible frente a la administración tributaria. |
 | 222 | Pago fraccionado. Régimen de consolidación fiscal. |
 | 230 | Impuesto sobre la Renta de las Personas Físicas e Impuesto sobre la Renta de no Residentes: Retenciones e ingresos a cuenta del Gravamen Especial sobre los premios de determinadas loterías y apuestas; Impuesto sobre Sociedades: Retenciones e ingresos a cuenta sobre los premios de determinadas loterías y apuestas. Autoliquidación. Período de ingreso: M. |
 | 303 | Impuesto sobre el Valor Añadido. Autoliquidación. |
@@ -55,6 +56,8 @@
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
+
+> Se añade el modelo 221 por la disposición final 3.1 de la Orden HFP/550/2017, de 15 de junio. Ref. BOE-A-2017-6857
 
 > Se añade el modelo 589 por la disposición final 2.1 de la Orden HAP/1349/2016, de 28 de julio. Ref. BOE-A-2016-7590.
 
