@@ -6,6 +6,8 @@ Uno. Se añade un nuevo párrafo al apartado 1 del artículo 4, que tendrá la s
 
 «Las entidades que pretendan desarrollar cualquier actividad de promoción y publicidad en apoyo de la donación de células y tejidos humanos deberán solicitar la autorización previa de las Administraciones sanitarias competentes. A tales efectos, se entenderá por administración sanitaria competente la correspondiente a la comunidad autónoma donde se pretenda desarrollar la actividad, y la Organización Nacional de Trasplantes cuando las actividades pretendidas superen dicho ámbito. En todo caso, el procedimiento para resolver sobre la autorización o denegación del desarrollo de dichas actividades se regirá por lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.»
 
+> Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado del apartado 1, por Sentencia del TC 63/2017, de 25 de mayo. Ref. BOE-A-2017-7639
+
 Dos. Se añade un artículo 30 bis, que tendrá la siguiente redacción:
 
 «Artículo 30 bis. Registro de donantes de progenitores hematopoyéticos.
@@ -15,3 +17,5 @@ Dos. Se añade un artículo 30 bis, que tendrá la siguiente redacción:
 2. Las unidades de coordinación de trasplantes de las comunidades autónomas deberán comunicar en tiempo real a la Organización Nacional de Trasplantes información relativa a los donantes de progenitores hematopoyéticos incluidos en sus respectivos registros.
 
 3. La persona titular del Ministerio de Sanidad, Servicios Sociales e Igualdad podrá encomendar la gestión de esta información a entidades públicas o privadas que desarrollen su actividad en el ámbito de la promoción y publicidad en apoyo de la donación de células y tejidos humanos.»
+
+> Se declara inconstitucional y nulo el inciso destacado del apartado 1, por Sentencia del TC 63/2017, de 25 de mayo. Ref. BOE-A-2017-7639
