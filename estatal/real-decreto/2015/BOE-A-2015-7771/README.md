@@ -126,4 +126,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria tercera](dttercera.md)
 - [Disposición transitoria cuarta](dtcuaa.md)
 - [Disposición transitoria quinta](dtquinta.md)
+- [Disposición transitoria sexta](dt.md)
+- [Disposición transitoria séptima](dt-2.md)
+- [Disposición transitoria octava](dt-3.md)
 - [Disposición final única](dfunica.md)
