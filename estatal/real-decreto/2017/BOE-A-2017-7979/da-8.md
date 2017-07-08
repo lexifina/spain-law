@@ -1,0 +1,3 @@
+## Disposición adicional octava. Excepción en los nombramientos de Directores Generales.
+
+Se mantiene la vigencia de la excepción de la condición de funcionario en el nombramiento de los titulares de la Dirección General del Trabajo Autónomo, de la Economía Social y de la Responsabilidad Social de las Empresas, la Dirección General de Ordenación de la Seguridad Social y la Dirección General de Migraciones, de conformidad con los párrafos d) y e) y f) de la disposición adicional cuarta del Real Decreto 424/2016, de 11 de noviembre, por los motivos expuestos en el preámbulo de este real decreto.
