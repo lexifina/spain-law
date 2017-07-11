@@ -35,3 +35,9 @@ Contratos administrativos especiales de cuantía superior a 150.000,00 euros, IV
 Contratos de concesiones de obras públicas, de gestión de servicios públicos y de colaboración entre el sector público y el sector privado, cualquiera que sea su cuantía.
 
 Igualmente, dentro de los tres meses siguientes a la fecha en que se produzcan deberán comunicarse al Tribunal las modificaciones, prórrogas o variaciones de plazos, las variaciones de precio y el importe final, la nulidad y la extinción normal o anormal de los referidos contratos. La comunicación de estas incidencias se realizará remitiendo los documentos de aprobación y, en su caso, de formalización.
+
+De conformidad con lo dispuesto en el artículo 53 de la Ley 40/2015, dentro de los tres meses siguientes a la suscripción de cualquier convenio cuyos compromisos económicos asumidos superen los 600.000 euros, deberá remitirse telemáticamente al Tribunal de Cuentas copia del documento de formalización y la memoria justificativa sobre la necesidad e impacto económico, a la que se refiere el artículo 50 del mismo cuerpo legal.
+
+Igualmente se comunicarán al Tribunal de Cuentas las modificaciones, prórrogas o variaciones de plazos, alteración de los importes de los compromisos económicos asumidos y la extinción de los convenios indicados.
+
+> Se añaden dos párrafos al apartado II.2 por el apartado 1 de la Resolución de 14 de junio de 2017. Ref. BOE-A-2017-7078
