@@ -37,3 +37,7 @@ Se prohíbe temporalmente la pesca para la modalidad de arrastre entre el 15 de 
 Podrán establecerse periodos adicionales de paralización temporal de la actividad pesquera, en función de la evolución de la pesquería en cada campaña de pesca.
 
 Estas paradas podrán en su caso, ser objeto de financiación con cargo al Fondo Europeo Marítimo y de Pesca.
+
+Se prohíbe temporalmente la pesca de pulpo con artes de arrastre de fondo, desde el día 1 de mayo al 15 de junio, ambos inclusive, de cada año.
+
+> Se añade un párrafo al apartado 5 por el art. único.3 de la Orden APM/664/2017, de 12 de julio. Ref. BOE-A-2017-8214
