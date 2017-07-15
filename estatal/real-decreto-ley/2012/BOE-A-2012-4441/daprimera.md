@@ -26,6 +26,14 @@ En ningún caso serán fiscalmente deducibles las pérdidas por deterioro o corr
 
 Cuando sean objeto de declaración bienes o derechos cuya titularidad se corresponda parcialmente con rentas declaradas, los citados bienes o derechos mantendrán a efectos fiscales el valor que tuvieran con anterioridad a la presentación de la declaración especial.
 
+> Se declara la inconstitucionalidad y nulidad, con los efectos señalados en el fundamento jurídico 6 (no son susceptibles de ser revisadas las situaciones jurídico-tributarias firmes producidas a su amparo), por Sentencia del TC 73/2017, de 8 de junio. Ref. BOE-A-2017-8345
+
+> Téngase en cuenta que el objeto del proceso constitucional se contrae exclusivamente a la disposición adicional primera en su redacción originaria (apartados primero a quinto), según se señala en el fundamento jurídico 1 de la citada sentencia, puesto que los apartados sexto y séptimo fueron añadidos por la Ley 12/2012, de 26 de diciembre.
+
+> Se declara la inconstitucionalidad y nulidad, con los efectos señalados en el fundamento jurídico 6, por Sentencia del TC 73/2017, de 8 de junio. Ref. BOE-A-2017-8345
+
+> Téngase en cuenta que el objeto del proceso constitucional se contrae exclusivamente a la disposición adicional primera en su redacción originaria (apartados primero a quinto), según se señala en el fundamento jurídico 1 de la citada sentencia.
+
 > Se añaden los apartados 6 y 7, con efectos desde el 31 de marzo de 2012, por la disposición final 3 de la Ley 12/2012, de 26 de diciembre. Ref. BOE-A-2012-15595.
 
 > Se añaden los apartados 6 y 7, con efectos desde el 31 de marzo de 2012, por la disposición final 3 del Real Decreto-ley 19/2012, de 25 de mayo. Ref. BOE-A-2012-6929.
