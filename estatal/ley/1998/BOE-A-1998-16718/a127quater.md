@@ -8,6 +8,10 @@ Formulada la solicitud se dará traslado de la misma a la Comisión Nacional de 
 
 Evacuado el anterior trámite, el tribunal resolverá lo que estime procedente mediante auto en los cinco días siguientes.
 
+> Téngase en cuenta que se declara inconstitucional y nulo el apartado 2, únicamente en su aplicación a actos o disposiciones de las Comunidades Autónomas, por Sentencia del TC 79/2017, de 22 de junio de 2017. Ref. BOE-A-2017-8464
+
 3. La solicitud de cualquier otra medida cautelar se tramitará en la forma prevista en el Capítulo II del Título VI.
+
+> Se declara inconstitucional y nulo el apartado 2, únicamente en su aplicación a actos o disposiciones de las Comunidades Autónomas, por Sentencia del TC 79/2017, de 22 de junio de 2017. Ref. BOE-A-2017-8464
 
 > Se añade por la disposición final 1.3 de la Ley 20/2013, de 9 de diciembre. Ref. BOE-A-2013-12888.

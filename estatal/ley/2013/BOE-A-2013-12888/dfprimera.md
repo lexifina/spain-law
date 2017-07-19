@@ -80,4 +80,8 @@ Evacuado el anterior trámite, el tribunal resolverá lo que estime procedente m
 
 3. La solicitud de cualquier otra medida cautelar se tramitará en la forma prevista en el Capítulo II del Título VI.»
 
+> Téngase en cuenta que se declara inconstitucional y nulo el apartado 2 del art. 127 quáter de la Ley 29/1998, de 13 de julio, en la redacción dada por el punto tres, únicamente en su aplicación a actos o disposiciones de las Comunidades Autónomas, por Sentencia del TC 79/2017, de 22 de junio. Ref. BOE-A-2017-8464 y Sentencia 111/2017, de 5 de octubre. Ref. BOE-A-2017-12203
+
+> Se declara inconstitucional y nulo el apartado 2 del art. 127 quáter de la Ley 29/1998, de 13 de julio, en la redacción dada por el punto tres, únicamente en su aplicación a actos o disposiciones de las Comunidades Autónomas, por Sentencia del TC 79/2017, de 22 de junio. Ref. BOE-A-2017-8464 y Sentencia 111/2017, de 5 de octubre. Ref. BOE-A-2017-12203
+
 > Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 85, de 8 de abril de 2014. Ref. BOE-A-2014-3716.
