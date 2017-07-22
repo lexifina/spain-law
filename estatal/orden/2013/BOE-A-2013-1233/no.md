@@ -1,0 +1,1 @@
+Téngase en cuenta que se entenderán suprimidas todas las referencias a las entidades mancomunadas realizadas en la presente Orden, según establece la disposición adicional única de la Orden ESS/685/2017, de 20 de julio. Ref. BOE-A-2017-8619
