@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Becas para primer curso de Grado.
+
+Para obtener las cuantías a que se refieren los párrafos a), b), c) y d) del artículo 4.1 de este real decreto, quienes se matriculen por primera vez de estudios oficiales de Grado y, estando en posesión del título de bachiller o equivalente, accedan a través de la Evaluación de Bachillerato para el Acceso a la Universidad, deberán acreditar una nota de acceso a la universidad de 6,50 puntos, con exclusión de la calificación obtenida en las pruebas de las materias de opción del bloque de las asignaturas troncales. En cualquier otro caso, deberán acreditar una nota de 6,50 puntos en la prueba o en la enseñanza que les permita el acceso a la universidad.
