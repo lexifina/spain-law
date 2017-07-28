@@ -1,720 +1,842 @@
-> Téngase en cuenta que las modificaciones de los anejos 1, 2 y 3 introducidas por la norma 3 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entran en vigor el 1 de abril de 2015, salvo las letras a) y e) del apartado 9 de la citada circular, que entran en vigor el 31 de diciembre de 2014, según establece su disposición final única.c).
-
 ## ANEJO 1
 
 ## MÓDULOS DE DATOS
 
-## DATOS DE PERSONAS Y SOLICITUD DE CÓDIGO
+## A. Datos de personas y solicitud de código
 
-## A.1 DATOS QUE IDENTIFICAN A LAS PERSONAS
+A.1 DATOS QUE IDENTIFICAN A LAS PERSONAS
 
-## PARTE 1 DATOS DE LA PERSONA
+## PARTE 1. DATOS DE LA PERSONA.
 
-Código de la persona
+• Código de la persona.
 
-Motivo por el que se declara a la persona
+• Motivo por el que se declara a la persona.
 
-Nombre
+• Nombre.
 
-Sector
+• Domicilio.
 
-Parte vinculada
+• Provincia de la persona.
 
-Datos adicionales para los titulares de riesgos
+• Sector institucional.
 
-Actividad económica
+• Parte vinculada.
 
-Provincia de la persona
+• Actividad económica.
 
-Situación de la persona
+• Estado del procedimiento legal.
 
-Domicilio
+• Fecha de incoación del procedimiento legal.
 
-Vinculación con Administraciones Públicas españolas
+DATOS ADICIONALES PARA LAS PERSONAS FÍSICAS.
 
-Código del grupo económico
+• Fecha de nacimiento.
 
-Datos adicionales para las personas físicas
+• País de nacimiento.
 
-Fecha de nacimiento
+• Sexo.
 
-País de nacimiento
+DATOS ADICIONALES PARA LAS PERSONAS JURÍDICAS Y ENTIDADES SIN PERSONALIDAD JURÍDICA.
 
-Sexo
+• Forma jurídica.
 
-Datos adicionales para las empresas
+• Código identificador de personas jurídicas (código LEI).
 
-Forma social
+• Sede central.
 
-Datos adicionales para las sucursales
+• Código de la entidad matriz inmediata.
 
-Código de la entidad a la que pertenece la sucursal
+• Código de la entidad matriz última.
 
-Datos adicionales para los titulares que sean sociedades no financieras
+• Vinculación con Administraciones Públicas españolas.
 
-Tamaño de la empresa
+DATOS ADICIONALES PARA EMPRESAS.
 
-Fecha de los datos financieros consolidados
+• Tamaño de la empresa.
 
-Importe neto de la cifra de negocio en los estados financieros consolidados
+• Fecha del tamaño de la empresa.
 
-Fecha de los datos financieros individuales
+• Número de empleados.
 
-Importe neto de la cifra de negocio en los estados financieros individuales
+• Balance total.
 
-Datos adicionales para las personas con varios códigos
+• Importe neto de la cifra de negocio en los estados financieros individuales.
 
-Número de identificación fiscal (NIF)
+• Fecha de los datos financieros individuales.
 
-Número de identificación de extranjero (NIE)
+• Importe neto de la cifra de negocio en los estados financieros consolidados.
 
-Código asignado por el Banco de España
+• Fecha de los datos financieros consolidados.
 
-Código identificador de personas jurídicas (código LEI)
+DATOS ADICIONALES PARA LAS PERSONAS CON VARIOS CÓDIGOS.
 
-## PARTE 2 DATOS DE LOS TITULARES COLECTIVOS
+• Número de Identificación Fiscal (NIF).
 
-Código de la sociedad o AIE
+• Número de Identificación de Extranjero (NIE).
 
-Código del socio colectivo o integrante de la AIE
+• Código asignado por el Banco de España.
 
-## PARTE 3 DATOS QUE RELACIONAN A LOS TITULARES CON LAS ENTIDADES QUE INTEGRAN EL SECTOR PÚBLICO ESPAÑOL
+## PARTE 2. DATOS DE LOS TITULARES COLECTIVOS.
 
-Código del titular
+• Código de la sociedad o AIE.
 
-Código de la entidad que integra el sector público español
+• Código del socio colectivo o integrante de la AIE.
 
-## PARTE 4 DATOS QUE VINCULAN A LOS TITULARES CON LOS GRUPOS DE CLIENTES RELACIONADOS
+## PARTE 3. DATOS QUE RELACIONAN A LOS TITULARES CON LAS ENTIDADES QUE INTEGRAN EL SECTOR PÚBLICO ESPAÑOL.
 
-Código del titular
+• Código del titular.
 
-Código del grupo de clientes relacionados
+• Código de la entidad que integra el sector público español.
 
-## A.2 SOLICITUD DE CÓDIGO DE IDENTIFICACIÓN DE PERSONAS NO RESIDENTES EN ESPAÑA
+## PARTE 4. DATOS QUE VINCULAN A LOS TITULARES CON LOS GRUPOS DE CLIENTES RELACIONADOS.
 
-Motivo por el que se solicita un código para la persona
+• Código del titular.
 
-Naturaleza de la persona
+• Código del grupo de clientes relacionados.
 
-Nombre
+A.2 SOLICITUD DE CÓDIGO DE IDENTIFICACIÓN DE PERSONAS NO RESIDENTES EN ESPAÑA
 
-Sector
+• Motivo por el que se solicita un código para la persona.
 
-Domicilio
+• Naturaleza de la persona.
 
-País de residencia
+• Nombre.
 
-Código NIE o NIF
+• Domicilio.
 
-Código de identificación fiscal o asimilado
+• Sector institucional.
 
-Datos adicionales para las personas físicas
+• País de residencia.
 
-Fecha de nacimiento
+DATOS ADICIONALES PARA LAS PERSONAS FÍSICAS.
 
-País de nacimiento
+• Fecha de nacimiento.
 
-Sexo
+• País de nacimiento.
 
-Número de pasaporte o de identidad válido en el país de origen de la persona
+• Sexo.
 
-Código asignado por el Banco de España
+• Número de pasaporte o de identidad válido en el país de origen de la persona.
 
-Datos adicionales para las empresas
+• Código NIE o NIF.
 
-Forma social (abreviatura)
+• Código asignado por el Banco de España.
 
-Datos adicionales para las personas jurídicas
+DATOS ADICIONALES PARA LAS PERSONAS JURÍDICAS Y ENTIDADES SIN PERSONALIDAD JURÍDICA.
 
-Código ISIN
+• Código identificador de personas jurídicas (código LEI).
 
-Código SWIFT
+• Identificador nacional.
 
-Código identificador de personas jurídicas (código LEI)
+• Tipo de identificador.
 
-Información cualitativa
+• Forma jurídica (código).
 
-## DATOS BÁSICOS DE LAS OPERACIONES Y DE LAS RELACIONES CON LAS PERSONAS
+• Forma jurídica (abreviatura).
 
-## B.1 DATOS BÁSICOS QUE RELACIONAN A LAS PERSONAS CON LAS OPERACIONES
+• Código SWIFT.
 
-Código de la operación
+DATOS ADICIONALES PARA EMISORES DE VALORES COTIZADOS.
 
-Código de la persona
+• Código ISIN.
 
-Naturaleza de la intervención en la operación
+OTROS DATOS.
 
-## B.2 DATOS BÁSICOS DE LAS OPERACIONES
+• Información cualitativa.
 
-Código de la operación
+## B. Datos básicos de las operaciones y de las relaciones con las personas
 
-Código del valor
+B.1 DATOS BÁSICOS QUE RELACIONAN A LAS PERSONAS CON LAS OPERACIONES
 
-Código ISIN
+## PARTE 1. DATOS BÁSICOS QUE RELACIONAN A LOS TITULARES DE RIESGOS CON LAS OPERACIONES.
 
-Localización de la actividad (país de la operación)
+• Código de la operación.
 
-## PARTE 1 DATOS QUE DEBEN DECLARAR TODAS LAS ENTIDADES DECLARANTES
+• Código de la persona.
 
-Tipo de producto
+• Naturaleza de la intervención en la operación.
 
-Subordinación del producto
+## PARTE 2. DATOS BÁSICOS QUE RELACIONAN A LAS PERSONAS DISTINTAS DE LOS TITULARES DE RIESGOS CON LAS OPERACIONES.
 
-Tipo de riesgo asociado a los derivados
+• Código de la operación.
 
-Finalidad de la operación
+• Código de la persona.
 
-Trámites legales realizados para recuperar la operación
+• Naturaleza de la intervención en la operación.
 
-Principal o nocional al inicio de la operación
+B.2 DATOS BÁSICOS DE LAS OPERACIONES
 
-Límite máximo a disposición del prestatario al inicio de la operación
+• Código de la operación.
 
-Fecha de formalización o emisión
+• Relación entre contrato y operación.
 
-Fecha de vencimiento
+• Código del valor.
 
-## PARTE 2 DATOS ADICIONALES QUE DEBEN DECLARAR LAS ENTIDADES DE CRÉDITO
+• Código ISIN.
 
-Origen de la operación
+• Localización de la actividad (país de la operación).
 
-Estado de refinanciaciones y reestructuraciones
+## PARTE 1. DATOS QUE DEBEN DECLARAR TODAS LAS ENTIDADES DECLARANTES.
 
-Canal de contratación
+• Tipo de producto.
 
-Provincia en la que se realiza la inversión
+• Subordinación del producto.
 
-Esquema de amortización
+• Operación para la financiación de un proyecto.
 
-Porcentaje de participación en los préstamos sindicados (%)
+• Tipo de riesgo asociado a los derivados.
 
-Valores adquiridos temporalmente o prestados. Nominal
+• Finalidad de la operación.
 
-Financiación de construcciones o promociones inmobiliarias
+• Trámites legales realizados para recuperar la operación.
 
-Estado de la construcción
+• Principal o nocional al inicio de la operación.
 
-Licencia
+• Límite máximo a disposición del prestatario al inicio de la operación.
 
-Número de viviendas previstas
+• Fecha de formalización o emisión.
 
-Código de la promoción inmobiliaria
+• Fecha de vencimiento.
 
-Subvención de la operación
+## PARTE 2. DATOS ADICIONALES QUE DEBEN DECLARAR LAS ENTIDADES DE CRÉDITO, LAS SUCURSALES EN ESPAÑA DE ENTIDADES DE CRÉDITO EXTRANJERAS Y LOS ESTABLECIMIENTOS FINANCIEROS DE CRÉDITO.
 
-## DATOS DINÁMICOS DE LAS OPERACIONES
+• Origen de la operación.
 
-## C.1 DATOS DINÁMICOS DE LOS RIESGOS DIRECTOS
+• Estado de refinanciaciones y reestructuraciones.
 
-Código de la operación
+• Canal de contratación.
 
-## PARTE 1 DATOS DE TODOS LOS RIESGOS DIRECTOS
+• Provincia en la que se realiza la inversión.
 
-Moneda
+• Esquema de amortización.
 
-Plazo residual
+• Porcentaje de participación en los préstamos sindicados (%).
 
-Garantía real principal
+• Valores adquiridos temporalmente o prestados. Nominal.
 
-Tipo de garantía real principal
+• Financiación de construcciones o promociones inmobiliarias. Estado de la construcción.
 
-Cobertura de la garantía real principal
+• Financiación de construcciones o promociones inmobiliarias. Licencia.
 
-Garantía personal principal
+• Financiación de construcciones o promociones inmobiliarias. Número de viviendas previstas.
 
-Tipo de garantía personal principal
+• Financiación de construcciones o promociones inmobiliarias. Código de la promoción inmobiliaria.
 
-Cobertura de la garantía personal principal
+• Subvención de la operación.
 
-Situación de la operación
+B.3 DATOS BÁSICOS COMPLEMENTARIOS DE LOS PRÉSTAMOS A PERSONAS JURÍDICAS
 
-Fechas de incumplimiento
+• Código de la operación.
 
-Fecha del primer incumplimiento
+• Clasificación de las operaciones de la norma segunda, 1 bis.
 
-Pro memoria: fecha del primer incumplimiento antes de la refinanciación o reestructuración
+• Importe del compromiso al inicio.
 
-Fecha del último incumplimiento
+• Identificador de contrato sindicado.
 
-## PARTE 2 DATOS DE LOS RIESGOS DIRECTOS ASUMIDOS POR LA ENTIDAD DECLARANTE
+• Instrumento fiduciario.
 
-Riesgo dispuesto asumido por la entidad
+• Recurso.
 
-Principal asumido por la entidad
+• Derechos de reembolso.
 
-Importe no vencido
+• Fecha de liquidación.
 
-Importe vencido
+• Frecuencia de pago.
 
-Intereses y comisiones vencidos asumidos por la entidad
+• Cambios en el valor razonable debidos a cambios en el riesgo crediticio antes de la adquisición.
 
-Importe registrado en el activo
+## C. Datos dinámicos de las operaciones
 
-Importe registrado en cuentas de orden
+C.1 DATOS DINÁMICOS DE LOS RIESGOS DIRECTOS
 
-Intereses de demora asumidos por la entidad
+• Código de la operación.
 
-Importe registrado en el activo
+## PARTE 1. DATOS DE TODOS LOS RIESGOS DIRECTOS.
 
-Importe registrado en cuentas de orden
+• Moneda.
 
-Gastos exigibles asumidos por la entidad
+• Plazo residual.
 
-Pro memoria: importe vencido antes de la refinanciación o reestructuración asumido por la entidad
+• Garantía real principal. Tipo de garantía real principal.
 
-Límite actual del riesgo asumido por la entidad
+• Garantía real principal. Cobertura de la garantía real principal.
 
-Riesgo disponible asumido por la entidad
+• Garantía personal principal. Tipo de garantía personal principal.
 
-Disponibilidad inmediata
+• Garantía personal principal. Cobertura de la garantía personal principal.
 
-Disponibilidad condicionada
+• Situación de la operación.
 
-## PARTE 3 DATOS QUE DEBEN DECLARAR LAS ENTIDADES DE CRÉDITO PARA LOS PRÉSTAMOS
+• Fecha del primer incumplimiento.
 
-Motivos por los que se reduce el importe de la deuda en el mes
+• Pro memoria: fecha del primer incumplimiento antes de la refinanciación o reestructuración.
 
-Principal vencido cobrado en efectivo
+• Fecha del último incumplimiento.
 
-Principal vencido subvencionado
+## PARTE 2. DATOS DE LOS RIESGOS DIRECTOS ASUMIDOS POR LA ENTIDAD DECLARANTE.
 
-Amortización anticipada. Importe por el que se reduce el principal
+• Principal asumido por la entidad. Importe no vencido.
 
-Condonación o prescripción del derecho de cobro. Importe por el que se reduce la deuda
+• Principal asumido por la entidad. Importe vencido.
 
-Activos adjudicados o recibidos en pago
+• Intereses y comisiones vencidos asumidos por la entidad. Importe registrado en el activo.
 
-Tipo de activo
+• Intereses y comisiones vencidos asumidos por la entidad. Importe registrado en cuentas de orden.
 
-Importe por el que se reduce la deuda
+• Intereses de demora asumidos por la entidad. Importe registrado en el activo.
 
-Operación subrogada o segregada
+• Intereses de demora asumidos por la entidad. Importe registrado en cuentas de orden.
 
-Tipo de subrogación o segregación
+• Gastos exigibles asumidos por la entidad.
 
-Importe por el que se reduce la deuda
+• Límite actual del riesgo asumido por la entidad.
 
-Refinanciación o renovación
+• Riesgo disponible asumido por la entidad. Disponibilidad inmediata.
 
-Tipo de refinanciación o renovación
+• Riesgo disponible asumido por la entidad. Disponibilidad condicionada.
 
-Importe por el que se reduce la deuda
+• Pro memoria: importe vencido antes de la refinanciación o reestructuración asumido por la entidad.
 
-Operación transferida incluida la gestión. Importe por el que se reduce la deuda
+## PARTE 3. DATOS QUE DEBEN DECLARAR LAS ENTIDADES DE CRÉDITO, LAS SUCURSALES EN ESPAÑA DE ENTIDADES DE CRÉDITO EXTRANJERAS, LOS ESTABLECIMIENTOS FINANCIEROS DE CRÉDITO Y LA SAREB, PARA LOS PRÉSTAMOS.
 
-Fechas de liquidación de principal e intereses
+• Principal vencido cobrado en efectivo.
 
-Fecha de la última liquidación de intereses
+• Principal vencido subvencionado.
 
-Fecha de la próxima liquidación de intereses
+• Amortización anticipada. Importe por el que se reduce el principal.
 
-Fecha de la última liquidación de principal
+• Condonación o prescripción del derecho de cobro. Importe por el que se reduce la deuda.
 
-Fecha de la próxima liquidación de principal
+• Activos adjudicados o recibidos en pago. Tipo de activo.
 
-Número de cuotas impagadas
+• Activos adjudicados o recibidos en pago. Importe por el que se reduce la deuda.
 
-## PARTE 4 DATOS DE LOS RIESGOS DIRECTOS ASUMIDOS POR LOS CESIONARIOS
+• Operación subrogada o segregada. Tipo de subrogación o segregación.
 
-Riesgo dispuesto asumido por el cesionario
+• Operación subrogada o segregada. Importe por el que se reduce la deuda.
 
-Principal asumido por el cesionario
+• Refinanciación o renovación. Tipo de refinanciación o renovación.
 
-Importe no vencido
+• Refinanciación o renovación. Importe por el que se reduce la deuda.
 
-Importe vencido
+• Operación transferida, incluida la gestión. Importe por el que se reduce la deuda.
 
-Intereses y comisiones vencidos asumidos por el cesionario
+• Fecha de la última liquidación de intereses.
 
-Intereses de demora asumidos por el cesionario
+• Fecha de la próxima liquidación de intereses.
 
-Gastos exigibles asumidos por el cesionario
+• Fecha de la última liquidación de principal.
 
-Pro memoria: importe vencido antes de la refinanciación o reestructuración asumido por el cesionario
+• Fecha de la próxima liquidación de principal.
 
-Límite actual del riesgo asumido por el cesionario
+• Número de cuotas impagadas.
 
-Riesgo disponible asumido por el cesionario
+• Tipo efectivo de definición restringida (TEDR).
 
-Disponibilidad inmediata
+• Signo del tipo efectivo de definición restringida (TEDR).
 
-Disponibilidad condicionada
+• Fecha de la próxima revisión del tipo de interés.
 
-## C.2 DATOS DINÁMICOS DE LOS RIESGOS INDIRECTOS
+## PARTE 4. DATOS DE LOS RIESGOS DIRECTOS ASUMIDOS POR TERCEROS.
 
-Código de la operación
+• Principal asumido por el cesionario. Importe no vencido.
 
-Código del titular del riesgo indirecto
+• Principal asumido por el cesionario. Importe vencido.
 
-## PARTE 1 DATOS DE LOS RIESGOS INDIRECTOS ASUMIDOS POR LA ENTIDAD DECLARANTE
+• Intereses y comisiones vencidos asumidos por el cesionario.
 
-Riesgo máximo garantizado asumido por la entidad
+• Intereses de demora asumidos por el cesionario.
 
-Riesgo dispuesto garantizado asumido por la entidad
+• Gastos exigibles asumidos por el cesionario.
 
-Importe total
+• Pro memoria: importe vencido antes de la refinanciación o reestructuración asumido por el cesionario.
 
-Importe vencido
+• Límite actual del riesgo asumido por el cesionario.
 
-Intereses de demora y gastos exigibles
+• Riesgo disponible asumido por el cesionario. Disponibilidad inmediata.
 
-## PARTE 2 DATOS DE LOS RIESGOS INDIRECTOS ASUMIDOS POR LOS CESIONARIOS
+• Riesgo disponible asumido por el cesionario. Disponibilidad condicionada.
 
-Riesgo máximo garantizado asumido por el cesionario
+C.2 DATOS DINÁMICOS DE LOS RIESGOS INDIRECTOS
 
-Riesgo dispuesto garantizado asumido por el cesionario
+• Código de la operación.
 
-Importe total
+• Código del titular del riesgo indirecto.
 
-Importe vencido
+## PARTE 1. DATOS DE LOS RIESGOS INDIRECTOS ASUMIDOS POR LA ENTIDAD DECLARANTE.
 
-Intereses de demora y gastos exigibles
+• Riesgo máximo garantizado asumido por la entidad.
 
-## DATOS SOBRE GARANTÍAS REALES
+• Riesgo dispuesto garantizado asumido por la entidad. Importe total.
 
-## D.1 DATOS BÁSICOS QUE RELACIONAN LAS OPERACIONES CON LOS ACTIVOS RECIBIDOS EN GARANTÍA
+• Riesgo dispuesto garantizado asumido por la entidad. Importe vencido.
 
-Código de la operación
+• Riesgo dispuesto garantizado asumido por la entidad. Intereses de demora y gastos exigibles.
 
-Tipo de garantía real
+## PARTE 2. DATOS DE LOS RIESGOS INDIRECTOS ASUMIDOS POR TERCEROS.
 
-Alcance de la garantía real
+• Riesgo máximo garantizado asumido por el cesionario.
 
-Código de la garantía real
+• Riesgo dispuesto garantizado asumido por el cesionario. Importe total.
 
-Código del activo recibido en garantía
+• Riesgo dispuesto garantizado asumido por el cesionario. Importe vencido.
 
-Orden de prelación de la garantía
+• Riesgo dispuesto garantizado asumido por el cesionario. Intereses de demora y gastos exigibles.
 
-Importe de la responsabilidad hipotecaria
+C.3 DATOS DINÁMICOS FINANCIEROS DE LOS PRÉSTAMOS A PERSONAS JURÍDICAS
 
-Principal
+• Código de la operación.
 
-Intereses y costas
+• Importe transferido.
 
-Activos en garantía de financiaciones de promociones inmobiliarias
+• Situación de impago (default) de la operación.
 
-Tipo de activo recibido en garantía (activos no financieros distintos de inmuebles)
+• Fecha de la situación de impago (default) de la operación.
 
-## D.2 DATOS BÁSICOS DE LOS INMUEBLES RECIBIDOS EN GARANTÍA
+• Importes vencidos de la operación.
 
-Código del activo recibido en garantía
+• Saldo vivo nominal.
 
-## PARTE 1 DATOS PARA LOS INMUEBLES
+• Saldo fuera de balance.
 
-Identificación del inmueble
+• Interés devengado.
 
-Tipo de activo (inmueble)
+C.4 DATOS DE LOS PRÉSTAMOS A PERSONAS JURÍDICAS SOBRE LAS RESPONSABILIDADES CONJUNTAS
 
-Consideración del inmueble en la normativa europea aplicable para el cálculo del coeficiente de recursos propios
+• Código de la operación.
 
-Localización del inmueble
+• Código de la persona.
 
-País
+• Importe de la responsabilidad conjunta.
 
-Código postal
+## D. Datos sobre garantías
 
-Inmueble integrado por varias fincas
+D.1 DATOS BÁSICOS QUE RELACIONAN LAS OPERACIONES CON LAS GARANTÍAS RECIBIDAS
 
-Identificador Único de Finca Registral (IDUFIR)
+• Código de la operación.
 
-Identificador registral
+• Tipo de garantía.
 
-Referencia catastral
+• Alcance de la garantía real.
 
-Importe de las cargas previas comprometidas con terceros
+• Código de la garantía real de máximo.
 
-Última tasación completa
+• Código de la garantía recibida.
 
-Fecha de la tasación
+• Orden de prelación de la garantía.
 
-Código de la sociedad de tasación o valoración
+• Importe de la responsabilidad hipotecaria. Principal.
 
-Número de tasación
+• Importe de la responsabilidad hipotecaria. Intereses y costas.
 
-Conforme a la Ley del Mercado Hipotecario
+• Activos en garantía de financiaciones de promociones inmobiliarias.
 
-Método de valoración (valor)
+• Tipo de activo recibido en garantía (activos no financieros distintos de inmuebles).
 
-Condicionantes
+D.2 DATOS BÁSICOS DE LOS INMUEBLES RECIBIDOS EN GARANTÍA
 
-Advertencias
+• Código de la garantía recibida.
 
-Visita al interior del inmueble
+• Consideración del inmueble en la normativa europea aplicable para el cálculo del coeficiente de recursos propios.
 
-Tipo de datos utilizados de inmuebles comparables
+• Localización del inmueble. País.
 
-Método residual dinámico
+• Localización del inmueble. Código postal.
 
-Tipo de actualización (%)
+## PARTE 1. DATOS PARA LOS INMUEBLES.
 
-Tasa anualizada homogénea (%)
+• Tipo de activo (inmuebles).
 
-Tasa anual media de variación del precio de mercado del activo (%)
+• Inmueble integrado por varias fincas.
 
-Importe positivo
+• Identificador Único de Finca Registral (IDUFIR).
 
-Importe negativo
+• Identificador registral.
 
-Plazo máximo para finalizar la construcción (meses)
+• Referencia catastral.
 
-Plazo máximo para finalizar la comercialización (meses)
+• Importe de las cargas previas comprometidas con terceros.
 
-Método residual estático
+• Última tasación completa. Fecha de la última tasación.
 
-Margen de beneficio del promotor (%)
+• Última tasación completa. Código de la sociedad de tasación o valoración.
 
-Valor de tasación
+• Última tasación completa. Número de tasación.
 
-Valor hipotecario
+• Última tasación completa. Conforme a la Ley del Mercado Hipotecario.
 
-Valor en hipótesis de edificio terminado
+• Última tasación completa. Método de valoración (valor).
 
-Valor del terreno
+• Última tasación completa. Condicionantes.
 
-Última tasación por métodos estadísticos
+• Última tasación completa. Advertencias.
 
-Fecha de la última tasación
+• Última tasación completa. Visita al interior del inmueble.
 
-Código de la sociedad de tasación o valoración
+• Última tasación completa. Tipo de datos utilizados de inmuebles comparables.
 
-Número de tasación
+• Última tasación completa. Método residual dinámico. Tipo de actualización (%).
 
-Método de valoración
+• Última tasación completa. Método residual dinámico. Tasa anualizada homogénea (%).
 
-Valor de tasación
+• Última tasación completa. Método residual dinámico. Tasa anual media de variación del precio de mercado del activo (%). Importe positivo.
 
-## PARTE 2 DATOS ADICIONALES PARA LOS EDIFICIOS Y ELEMENTOS DE EDIFICIOS
+• Última tasación completa. Método residual dinámico. Tasa anual media de variación del precio de mercado del activo (%). Importe negativo.
 
-Fecha de la construcción
+• Última tasación completa. Método residual dinámico. Plazo máximo para finalizar la construcción (meses).
 
-Fecha de la última rehabilitación integral
+• Última tasación completa. Método residual dinámico. Plazo máximo para finalizar la comercialización (meses).
 
-Estado de la construcción
+• Última tasación completa. Método residual estático. Margen de beneficio del promotor (%).
 
-Licencia
+• Última tasación completa. Valor de tasación.
 
-Vivienda habitual del prestatario
+• Última tasación completa. Valor hipotecario.
 
-Valor del terreno ajustado
+• Última tasación completa. Valor en hipótesis de edificio terminado.
 
-Número de viviendas
+• Última tasación completa. Valor del terreno.
 
-## PARTE 3 DATOS ADICIONALES PARA EL SUELO URBANO Y URBANIZABLE
+• Última tasación por métodos estadísticos. Fecha de la tasación.
 
-Tipo de suelo
+• Última tasación por métodos estadísticos. Código de la sociedad de tasación o valoración.
 
-Desarrollo del planeamiento
+• Última tasación por métodos estadísticos. Número de tasación.
 
-Sistema de gestión
+• Última tasación por métodos estadísticos. Método de valoración.
 
-Fase de gestión
+• Última tasación por métodos estadísticos. Valor de tasación.
 
-Paralización de la urbanización
+## PARTE 2. DATOS ADICIONALES PARA LOS EDIFICIOS Y ELEMENTOS DE EDIFICIOS.
 
-Porcentaje de la urbanización ejecutado (%)
+• Fecha de la construcción.
 
-Porcentaje del ámbito valorado (%)
+• Fecha de la última rehabilitación integral.
 
-Proximidad respecto del núcleo urbano
+• Estado de la construcción.
 
-Proyecto de obra
+• Licencia.
 
-Superficie del terreno (m2)
+• Vivienda habitual del prestatario.
 
-Aprovechamiento (m2)
+• Valor del terreno ajustado.
 
-Producto que se prevé desarrollar
+• Número de viviendas.
 
-## PARTE 4 DATOS ADICIONALES PARA LAS FINCAS RÚSTICAS
+## PARTE 3. DATOS ADICIONALES PARA EL SUELO URBANO Y URBANIZABLE.
 
-Finca rústica con expectativas urbanísticas
+• Tipo de suelo.
 
-## PARTE 5 DATOS DEL VALOR DE LAS GARANTÍAS
+• Desarrollo del planeamiento.
 
-Valor de la garantía a efectos del cálculo del loan to value.
+• Sistema de gestión.
 
-Importe de la garantía.
+• Fase de gestión.
 
-Forma de obtención.
+• Paralización de la urbanización.
 
-Valor de la garantía a efectos del cálculo del deterioro.
+• Porcentaje de la urbanización ejecutado (%).
 
-Importe de la garantía.
+• Porcentaje del ámbito valorado (%).
 
-Porcentaje de descuento (%)
+• Proximidad respecto del núcleo urbano.
 
-> Téngase en cuenta que la modificación de esta parte 5 del módulo D.2 entra en vigor el 1 de octubre de 2016, según establece la disposición final única de la Circular 4/2016, de 27 de abril. Ref. BOE-A-2016-4356.
+• Proyecto de obra.
 
-> Redacción anterior:
+• Superficie del terreno (m2).
 
-> "PARTE 5 DATOS DEL VALOR DE LAS GARANTÍAS
+• Aprovechamiento (m2).
 
-> Valor de la garantía a efectos del cálculo del loan to value
+• Producto que se prevé desarrollar.
 
-> Importe de la garantía
+## PARTE 4. DATOS ADICIONALES PARA LAS FINCAS RÚSTICAS.
 
-> Forma de obtención
+• Finca rústica con expectativas urbanísticas.
 
-> Valor de la garantía a efectos del cálculo del deterioro
+## PARTE 5. DATOS DEL VALOR DE LAS GARANTÍAS.
 
-> Importe de la garantía
+• Valor de la garantía a efectos del cálculo del loan to value. Importe de la garantía.
 
-> Forma de obtención
+• Valor de la garantía a efectos del cálculo del loan to value. Forma de obtención.
 
-> Porcentaje de descuento (%)
+• Valor de la garantía a efectos del cálculo del deterioro. Importe de la garantía.
 
-> Fecha de la escritura de compraventa del activo recibido en garantía
+• Valor de la garantía a efectos del cálculo del deterioro. Porcentaje de descuento (%).
 
-> Importe del coste de adquisición del activo recibido en garantía
+## PARTE 6. DATOS ADICIONALES SOBRE LOS INMUEBLES RECIBIDOS EN GARANTÍA DE PRÉSTAMOS A PERSONAS JURÍDICAS.
 
-> Importe del coste de adquisición ajustado del activo recibido en garantía".
+• Código del proveedor de la garantía.
 
-## D.3 DATOS BÁSICOS DE LOS ACTIVOS FINANCIEROS RECIBIDOS EN GARANTÍA
+• Valor de la garantía.
 
-Código del activo recibido en garantía
+• Tipo de valor de la garantía.
 
-Tipo de activo (activos financieros)
+• Método de valoración de la garantía.
 
-Código del emisor de los activos financieros recibidos en garantía
+• Fecha del valor de la garantía.
 
-Código del valor
+• Fecha de vencimiento de la garantía.
 
-Cotización
+• Valor original de la garantía.
 
-Nominal
+• Fecha de la valoración original de la garantía.
 
-## D.4 DATOS DINÁMICOS QUE RELACIONAN LAS OPERACIONES CON LOS ACTIVOS RECIBIDOS EN GARANTÍA
+D.3 DATOS BÁSICOS DE LOS ACTIVOS FINANCIEROS RECIBIDOS EN GARANTÍA
 
-Código de la operación
+• Código de la garantía recibida.
 
-Código del activo recibido en garantía
+## PARTE 1. DATOS SOBRE LOS ACTIVOS FINANCIEROS.
 
-Importe de la garantía a efectos del cálculo del loan to value atribuido a la operación
+• Tipo de activo (activos financieros).
 
-## D.5 DATOS DINÁMICOS DE LOS EDIFICIOS EN CONSTRUCCIÓN Y DE LAS PROMOCIONES INMOBILIARIAS RECIBIDOS EN GARANTÍA
+• Código del emisor de los activos financieros recibidos en garantía.
 
-Código del activo recibido en garantía
+• Código del valor.
 
-Edificios en construcción o rehabilitación
+• Cotización.
 
-Fecha del último grado de avance estimado
+• Nominal.
 
-Código de la sociedad de tasación o valoración que estimó el grado de avance
+## PARTE 2. DATOS ADICIONALES DE LOS ACTIVOS FINANCIEROS RECIBIDOS EN GARANTÍA DE PRÉSTAMOS A PERSONAS JURÍDICAS.
 
-Porcentaje construido (%)
+• Código del proveedor de la garantía.
 
-Importe de los gastos de desarrollo
+• Valor de la garantía.
 
-Promociones inmobiliarias
+• Tipo de valor de la garantía.
 
-Porcentaje de ventas formalizadas (%)
+• Método de valoración de la garantía.
 
-Porcentaje de subrogaciones o cancelaciones por entrega de vivienda a comprador final (%)
+• Fecha del valor de la garantía.
 
-## E (Suprimido)
+• Fecha de vencimiento de la garantía.
 
-## DATOS DE TRANSFERENCIAS Y TITULIZACIONES SINTÉTICAS DE ACTIVOS FINANCIEROS
+• Valor original de la garantía.
 
-## F DATOS DE TRANSFERENCIAS Y TITULIZACIONES SINTÉTICAS DE ACTIVOS FINANCIEROS
+• Fecha de la valoración original de la garantía.
 
-## PARTE 1 DATOS QUE IDENTIFICAN A LAS TRANSFERENCIAS Y TITULIZACIONES SINTÉTICAS
+D.4 DATOS DINÁMICOS QUE RELACIONAN LAS OPERACIONES CON LAS GARANTÍAS RECIBIDAS
 
-Código de la transferencia
+• Código de la operación.
 
-Código del cesionario o vendedor de protección
+• Código de la garantía recibida.
 
-Fecha de la transferencia
+## PARTE 1. DATOS PARA LAS OPERACIONES GARANTIZADAS CON INMUEBLES Y ACTIVOS FINANCIEROS.
 
-Tipo de transferencia
+• Importe de la garantía a efectos del cálculo del loan to value atribuido a la operación.
 
-Forma jurídica de la transferencia
+## PARTE 2. DATOS ADICIONALES SOBRE LAS GARANTÍAS DE LOS PRÉSTAMOS A PERSONAS JURÍDICAS.
 
-Operaciones transferidas
+• Valor asignado a la garantía.
 
-Tratamiento contable
+• Derechos de cobro preferentes de terceros contra la garantía.
 
-Tratamiento a efectos de recursos propios
+D.5 DATOS DINÁMICOS DE LOS EDIFICIOS EN CONSTRUCCIÓN Y DE LAS PROMOCIONES INMOBILIARIAS RECIBIDOS EN GARANTÍA
 
-## PARTE 2 DATOS QUE VINCULAN LAS TRANSFERENCIAS Y TITULIZACIONES SINTÉTICAS CON LAS OPERACIONES
+• Código de la garantía recibida.
 
-Código de la transferencia
+• Edificios en construcción o rehabilitación. Fecha del último grado de avance estimado.
 
-Código de la operación transferida
+• Edificios en construcción o rehabilitación. Código de la sociedad de tasación o valoración que estimó el grado de avance.
 
-Porcentaje transferido de la operación (%)
+• Edificios en construcción o rehabilitación. Porcentaje construido (%).
 
-## VINCULACIÓN DE CÓDIGOS
+• Edificios en construcción o rehabilitación. Importe de los gastos de desarrollo.
 
-## G.1 DATOS BÁSICOS QUE VINCULAN CÓDIGOS
+• Promociones inmobiliarias. Porcentaje de ventas formalizadas (%).
 
-Tipo de código que se vincula
+• Promociones inmobiliarias. Porcentaje de subrogaciones o cancelaciones por entrega de vivienda a comprador final (%).
 
-Código que se vincula
+D.6 DATOS BÁSICOS DEL RESTO DE LAS GARANTÍAS RECIBIDAS DISTINTAS DE INMUEBLES Y ACTIVOS FINANCIEROS DE PRÉSTAMOS A PERSONAS JURÍDICAS
 
-Tipo de vinculación
+• Código de la garantía recibida.
 
-Código REN de la entidad declarante del código vinculado
+• Tipo de garantía.
 
-Código vinculado
+• Código del proveedor de la garantía.
 
-## G.2 DATOS BÁSICOS DE LAS OPERACIONES QUE SE HAN DE COMUNICAR A OTRAS ENTIDADES
+• Valor de la garantía.
 
-Código REN de la entidad con la que se vincula la operación
+• Tipo de valor de la garantía.
 
-Tipo de vinculación
+• Método de valoración de la garantía.
 
-Código de la contraparte directa
+• Fecha del valor de la garantía.
 
-Nombre de la contraparte directa
+• Fecha de vencimiento de la garantía.
 
-Código de la operación
+• Valor original de la garantía.
 
-Tipo de producto
+• Fecha de la valoración original de la garantía.
 
-Fecha de formalización o emisión
+## E. Datos sobre tipos de interés de los préstamos
 
-Fecha de vencimiento
+• Código de la operación.
 
-Principal o nocional al inicio de la operación
+• Modalidad de tipo de interés.
 
-Porcentaje transferido de la operación (%)
+• Frecuencia de revisión del tipo de interés.
 
-## G.3 DATOS DINÁMICOS DE LAS OPERACIONES QUE SE HAN DE COMUNICAR A OTRAS ENTIDADES
+• Tipo de referencia.
 
-Código REN de la entidad con la que se vincula la operación
+• Tipo de referencia. Vencimiento.
 
-Código de la operación
+• Tipo de referencia sustitutivo.
 
-Importes
+• Diferencial/margen del tipo de interés.
 
-Riesgo dispuesto garantizado
+• Signo del diferencial/margen del tipo de interés.
 
-Principal garantizado
+• Tipo de interés máximo.
 
-Importe no vencido
+• Tipo de interés mínimo.
 
-Importe vencido
+• Fecha final del período de solo interés.
 
-Intereses y comisiones vencidos garantizados
+## F. Datos de transferencias y titulizaciones sintéticas de activos financieros
 
-Intereses de demora garantizados
+## PARTE 1. DATOS QUE IDENTIFICAN LAS TRANSFERENCIAS Y TITULIZACIONES SINTÉTICAS.
 
-Gastos exigibles garantizados
+• Código de la transferencia.
 
-Límite actual del riesgo garantizado
+• Código del cesionario o vendedor de protección.
 
-Riesgo disponible garantizado
+• Fecha de la transferencia.
 
-Disponibilidad inmediata
+• Tipo de transferencia.
 
-Disponibilidad condicionada
+• Forma jurídica de la transferencia.
 
-Fechas de incumplimiento
+• Operaciones transferidas. Tratamiento contable.
 
-Fecha del primer incumplimiento
+• Operaciones transferidas. Tratamiento a efectos de recursos propios.
 
-Fecha del último incumplimiento
+## PARTE 2. DATOS QUE VINCULAN LAS TRANSFERENCIAS Y TITULIZACIONES SINTÉTICAS CON LAS OPERACIONES.
+
+• Código de la transferencia.
+
+• Código de la operación transferida.
+
+• Porcentaje transferido de la operación (%).
+
+## G. Vinculación de códigos
+
+G.1 DATOS BÁSICOS QUE VINCULAN CÓDIGOS
+
+• Tipo de código que se vincula.
+
+• Código que se vincula.
+
+• Tipo de vinculación.
+
+• Código REN de la entidad declarante del código vinculado.
+
+• Código vinculado.
+
+G.2 DATOS BÁSICOS DE LAS OPERACIONES QUE SE HAN DE COMUNICAR A OTRAS ENTIDADES
+
+• Código REN de la entidad con la que se vincula la operación.
+
+• Tipo de vinculación.
+
+• Código de la contraparte directa.
+
+• Nombre de la contraparte directa.
+
+• Código de la operación.
+
+• Tipo de producto.
+
+• Fecha de formalización o emisión.
+
+• Fecha de vencimiento.
+
+• Principal o nocional al inicio de la operación.
+
+• Porcentaje transferido de la operación (%).
+
+G.3 DATOS DINÁMICOS DE LAS OPERACIONES QUE SE HAN DE COMUNICAR A OTRAS ENTIDADES
+
+• Código REN de la entidad con la que se vincula la operación.
+
+• Código de la operación.
+
+• Principal garantizado. Importe no vencido.
+
+• Principal garantizado. Importe vencido.
+
+• Intereses y comisiones vencidos garantizados.
+
+• Intereses de demora garantizados.
+
+• Gastos exigibles garantizados.
+
+• Límite actual del riesgo garantizado.
+
+• Riesgo disponible garantizado. Disponibilidad inmediata.
+
+• Riesgo disponible garantizado. Disponibilidad condicionada.
+
+• Fecha del primer incumplimiento.
+
+• Fecha del último incumplimiento.
+
+## H. Información prudencial complementaria
+
+H.1 DATOS CONTABLES DE LOS PRÉSTAMOS A PERSONAS JURÍDICAS
+
+• Código de la operación.
+
+• Clasificación contable de las operaciones.
+
+• Activos no corrientes en venta.
+
+• Reconocimiento en el balance.
+
+• Fallidos acumulados.
+
+• Deterioro del valor acumulado.
+
+• Tipo de deterioro del valor.
+
+• Método de evaluación del deterioro del valor.
+
+• Fuentes de carga.
+
+• Cambios acumulados en el valor razonable debidos al riesgo crediticio.
+
+• Situación de cumplimiento (performing) de la operación.
+
+• Fecha de la situación de cumplimiento (performing) de la operación.
+
+• Provisiones asociadas a exposiciones fuera de balance.
+
+• Estado de reestructuración o refinanciación y renegociación.
+
+• Fecha del estado de reestructuración o refinanciación y renegociación.
+
+• Importes recuperados acumulados desde la situación de impago.
+
+• Cartera prudencial.
+
+• Importe en libros.
+
+H.2 DATOS SOBRE EL RIESGO DE LOS TITULARES DE LOS PRÉSTAMOS QUE SEAN PERSONAS JURÍDICAS
+
+• Código de la persona.
+
+• Probabilidad de impago (default).
+
+H.3 DATOS SOBRE LA SITUACIÓN DE IMPAGO (DEFAULT) DE LOS TITULARES DE RIESGO DE LOS PRÉSTAMOS QUE SEAN PERSONAS JURÍDICAS
+
+• Código de la persona.
+
+• Situación de impago (default) de la persona.
+
+• Fecha de la situación de impago (default) de la persona.
+
+> Se sustituye por el que se incluye como Anejo A según establece la norma única.14 de la Circular de 30 de junio de 2017. Ref. BOE-A-2017-7985
 
 > Se modifica la parte 5 del módulo D.2 por la Norma 4.a) de la Circular 4/2016, de 27 de abril. Ref. BOE-A-2016-4356.
 

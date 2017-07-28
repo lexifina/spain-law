@@ -2,19 +2,13 @@
 
 1. Las personas declarables a la CIR, con las precisiones que se indican en los siguientes apartados, son:
 
-a) Los titulares de riesgos directos e indirectos, cualesquiera que sean su naturaleza, forma jurídica, sector o país de residencia.
+a) Los titulares de riesgos directos e indirectos, cualesquiera que sean su naturaleza, forma jurídica, sector institucional o país de residencia.
 
 b) Las personas relacionadas con los titulares o con las operaciones en las que intervengan.
 
 La declaración de los titulares y demás personas declarables se efectuará conforme a lo dispuesto en la norma quinta.
 
 2. Los titulares de riesgos, con carácter general, son personas físicas o jurídicas. No obstante, también pueden ser titulares declarables las entidades sin personalidad jurídica que tengan asignado un número de identificación fiscal, tales como los fondos de titulización, las parroquias y las comunidades de propietarios. Sin embargo, en los casos de las restantes comunidades de bienes, uniones temporales de empresas y sociedades civiles sin personalidad jurídica, los titulares declarables serán exclusivamente las personas físicas o jurídicas que las integran, que se declararán como titulares mancomunados o solidarios de acuerdo con el riesgo que asuman en la operación.
-
-> Téngase en cuenta que esta última actualización del párrafo primero del apartado 2 establecida por la norma 3.2.a) de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
-
-> Redacción anterior:
-
-> "2. Los titulares de riesgos, con carácter general, son personas físicas o jurídicas. No obstante, también pueden ser titulares declarables las entidades sin personalidad jurídica que tengan asignado un código de identificación fiscal, tales como los fondos de titulización y las parroquias. Sin embargo, en los casos de las comunidades de bienes, uniones temporales de empresas y sociedades civiles sin personalidad jurídica, los titulares declarables serán exclusivamente las personas físicas o jurídicas que las integran, que se declararán como titulares mancomunados o solidarios de acuerdo con el riesgo que asuman en la operación."
 
 Cuando una operación tenga varios titulares, se tendrán que declarar todos a la CIR, indicando la naturaleza de su intervención y, cuando proceda, si son titulares mancomunados o solidarios.
 
@@ -32,15 +26,9 @@ a) En el crédito comercial con recurso, el cedente de los derechos de cobro. La
 
 b) En el crédito comercial sin recurso, los obligados al pago de los derechos de cobro.
 
-c) En los arrendamientos financieros, los arrendatarios por los importes que se hayan comprometido a pagar. Las personas diferentes de los arrendatarios que se hayan comprometido a adquirir los activos cedidos en caso de que no lo haga el arrendatario serán titulares de riesgo indirecto por los importes que se hayan comprometido a pagar.
+c) En los arrendamientos financieros, los arrendatarios, por los importes que se hayan comprometido a pagar. Las personas diferentes de los arrendatarios que se hayan comprometido a adquirir los activos cedidos, en caso de que no lo haga el arrendatario, serán titulares de riesgo indirecto por los importes que se hayan comprometido a pagar.
 
 d) En los préstamos de recompra inversa, los cedentes de los activos, sea cual sea el activo cedido.
-
-> Téngase en cuenta que esta última actualización de la letra d) del apartado 4 establecida por la norma 3.2.b) de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
-
-> Redacción anterior:
-
-> "d) En las adquisiciones temporales de activos, los cedentes de los activos, sea cual sea el activo cedido."
 
 e) En los anticipos de pensiones y nóminas por cuenta de Administraciones Públicas, las personas a las que se anticipan los fondos.
 
@@ -54,7 +42,7 @@ i) En el resto de compromisos, las personas que tengan derecho a efectuar las di
 
 j) En los préstamos de valores, las contrapartes a las que se prestan los valores.
 
-k) En las operaciones subvencionadas, las personas que subvencionan el principal o el interés por el importe que subvencionan.
+k) En las operaciones subvencionadas, las personas que subvencionan el principal o el interés, por el importe que subvencionan.
 
 5. Los titulares de riesgos, directos e indirectos, se declararán de forma individualizada a la CIR, cualquiera que sea el importe de su riesgo en la entidad declarante, excepto cuando sus operaciones no sean declarables, conforme a lo dispuesto en la norma segunda, apartado 3. Excepcionalmente, se podrán excluir de la declaración del riesgo indirecto a nombre de un titular los efectos en los que haya comprometido su firma, siempre que su importe sea inferior a 6.000 euros y formen parte de una operación de crédito comercial con recurso.
 
@@ -66,7 +54,7 @@ b) El importe del riesgo directo asumido en las operaciones es la suma de los im
 
 c) El importe del riesgo indirecto que computa como riesgo acumulado es el riesgo máximo que garantiza el titular de las operaciones en las que interviene exclusivamente como garante o porque haya comprometido su firma en operaciones de cartera comercial o efectos financieros. Cuando el titular haya comprometido su firma en efectos que forman parte de operaciones de cartera comercial con recurso que no se declaren a la CIR conforme a lo dispuesto en el primer párrafo de este apartado, el riesgo no declarado por este motivo no se computará a estos efectos.
 
-d) En los préstamos sindicados y demás préstamos en los que varios prestamistas participan de forma mancomunada, cada entidad declarante computará como riesgo acumulado exclusivamente el importe del riesgo que asuma de las operaciones. En los diferentes módulos se declarará exclusivamente el importe del riesgo que la entidad asuma en estos préstamos, sin perjuicio del tratamiento específico para las garantías reales con las que, en su caso, cuenten, que se declararán conforme a lo señalado en la norma octava, apartados 3, 8 y 11.
+d) En los préstamos sindicados y demás préstamos en los que varios prestamistas participan de forma mancomunada, cada entidad declarante computará como riesgo acumulado exclusivamente el importe del riesgo que asuma de las operaciones. En los diferentes módulos se declarará exclusivamente el importe del riesgo que la entidad asuma en estos préstamos, sin perjuicio del tratamiento específico para las garantías con las que, en su caso, cuenten, que se declararán conforme a lo señalado en la norma octava, apartados 3, 8 y 11.
 
 e) En las garantías financieras y avales y cauciones no financieros prestados concedidos solidariamente por varias entidades, cada entidad declarante computará como riesgo acumulado el importe total de la operación.
 
@@ -74,27 +62,37 @@ f) En el riesgo acumulado, además de los importes que asume directamente la ent
 
 g) En el riesgo acumulado de las entidades que hayan adquirido operaciones que continúe declarando a la CIR otra entidad, también se incluyen los importes que hayan asumido en dichas operaciones, aunque, conforme a lo dispuesto en la norma decimocuarta, letra B), no los declaren a la CIR como datos dinámicos de los riesgos directos e indirectos.
 
-6. No obstante lo señalado en el apartado anterior, el Banco de España, el Fondo de Garantía de Depósitos de Entidades de Crédito y la Sociedad Anónima Estatal de Caución Agraria (SAECA) solo declararán las operaciones cuyos titulares pertenezcan a los sectores hogares, sociedades no financieras o instituciones sin fines de lucro al servicio de los hogares cuyo riesgo acumulado sea igual o superior a 9.000 euros.
+h) En el riesgo acumulado no se incluirán los importes de las operaciones a las que se refiere la norma segunda, apartado 1 bis.
+
+6. No obstante lo señalado en el apartado anterior, el Banco de España, el Fondo de Garantía de Depósitos de Entidades de Crédito y la Sociedad Anónima Estatal de Caución Agraria (SAECA) solo declararán las operaciones cuyos titulares pertenezcan a los sectores institucionales hogares, sociedades no financieras o instituciones sin fines de lucro al servicio de los hogares cuyo riesgo acumulado sea igual o superior a 9.000 euros.
 
 7. Las personas que, no siendo titulares de riesgos directos o indirectos, se deben declarar a la CIR por estar relacionadas con los titulares de los riesgos o con las operaciones en las que intervienen son:
 
-a) Las entidades dominantes de los grupos económicos y las cabeceras de los grupos de clientes relacionados a los que, en su caso, pertenezcan los titulares.
+a) Los acreedores y los administradores de los préstamos.
 
-b) Las entidades que, teniendo la consideración de sector público español, posean derechos de voto o participen en el capital de empresas o instituciones sin fines de lucro al servicio de los hogares que no tengan la consideración de sector público.
+b) Los originadores de los préstamos en el caso de titulizaciones y los proveedores de garantías reales de los préstamos que sean personas jurídicas.
 
-c) Las entidades a las que pertenezcan las sucursales declarables cuya sede social radique en otro país.
+c) Las entidades dominantes, inmediata y última de los titulares de riesgos directos o indirectos y de los proveedores de garantías reales.
 
-d) Las sociedades instrumentales residentes en España integradas en el grupo consolidable de la entidad declarante en las que están contabilizadas las operaciones declaradas.
+d) Las cabeceras de los grupos de clientes relacionados a los que, en su caso, pertenezcan los titulares de riesgos directos o indirectos.
 
-e) Las entidades, declarantes o no a la CIR, que gestionan las operaciones frente a los titulares.
+e) Las entidades que, teniendo la consideración de sector público español, posean derechos de voto o participen en el capital de empresas o instituciones sin fines de lucro al servicio de los hogares que no tengan la consideración de sector público.
 
-f) Los cesionarios de operaciones transferidas a terceros.
+f) Las entidades a las que pertenezcan las sucursales declarables cuya sede social radique en otro país.
 
-g) Las entidades que actúan como agentes en los préstamos sindicados.
+g) Las sociedades instrumentales residentes en España integradas en el grupo consolidable de la entidad declarante, en las que están contabilizadas las operaciones declaradas.
 
-h) Las entidades declarantes a la CIR con las que se tengan operaciones con códigos vinculados.
+h) Los cesionarios de operaciones transferidas a terceros.
 
-i) Las entidades emisoras de instrumentos financieros adquiridos temporalmente, recibidos en garantía de operaciones o prestados a terceros.
+i) Las entidades que actúan como agentes en los préstamos sindicados.
+
+j) Las entidades declarantes a la CIR con las que se tengan operaciones con códigos vinculados.
+
+k) Las entidades emisoras de instrumentos financieros adquiridos temporalmente, recibidos en garantía de operaciones o prestados a terceros.
+
+l) Las sociedades gestoras de los fondos de inversión que, siendo titulares de riesgos o proveedores de garantías reales, residan en un Estado miembro informador.
+
+> Se modifica por la norma única.3 de la Circular de 30 de junio de 2017. Ref. BOE-A-2017-7985
 
 > Se modifica el primer párrafo del apartado 5 por la norma 2.3 de la Circular 3/2015, de 29 de julio. Ref. BOE-A-2015-9054.
 

@@ -16,13 +16,11 @@ d) Se utilice el disponible de una póliza de riesgo global-multiuso o línea de
 
 e) Se trate de operaciones segregadas o con titulares mancomunados.
 
-> Téngase en cuenta que esta última actualización de la letra e) del apartado 2 establecida por la norma 3.5 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
-
-> Redacción anterior:
-
-> "e) Se trate de operaciones subvencionadas, segregadas o con titulares mancomunados."
-
 f) Se cambie el código de la operación por motivos de gestión interna.
+
+2 bis) El código de la operación se vinculará con el código del contrato en caso de que la entidad asigne a la operación un código de contrato distinto al “Código de la operación” declarado en el módulo B.2, Datos básicos de las operaciones.
+
+En el caso de las pólizas de riesgo global-multiuso, las líneas de avales, las líneas de créditos documentarios y los créditos por disposiciones, se informará sobre su código de contrato conforme al párrafo anterior. Sin embargo, para las operaciones procedentes de tales pólizas, líneas o créditos por disposiciones no se tendrá que declarar esta vinculación de código de contrato.
 
 3. El código de una operación de la entidad declarante se vinculará con los códigos de operaciones declaradas a la CIR por otras entidades cuando:
 
@@ -34,11 +32,11 @@ c) Las operaciones tengan como origen una fusión, traspaso de la actividad fina
 
 d) Las operaciones en las que el deudor hace una subrogación del acreedor o tengan como origen la refinanciación de una operación u operaciones de otra entidad declarante que pertenezca a su mismo grupo económico.
 
-4. En el módulo G.1 también se vincularán los códigos que se utilicen para identificar los códigos de los valores, transferencias de activos, garantías reales, activos recibidos en garantía y promociones inmobiliarias cuando se tengan que modificar.
+4. En el módulo G.1 también se vincularán los códigos que se utilicen para identificar los códigos de los valores, transferencias de activos, garantías reales de máximo, garantías recibidas y promociones inmobiliarias cuando se tengan que modificar.
 
 5. El Banco de España, siempre que sea necesario para facilitar la gestión de los datos que le declaren las entidades, podrá solicitarles que vinculen en el módulo G.1 cualquier código nuevo con el que se hubiese utilizado para declararlo previamente por ella u otra entidad.
 
-6. Cuando en el módulo G.1 se vinculen dos códigos de operación por cambio de código por razones de gestión, fusión, traspaso total de la actividad financiera o adquisición de negocio, no se declarará como variación de datos el nuevo código de la operación en los restantes módulos.
+6. Cuando en el módulo G.1, por razones de gestión, fusión, traspaso total de la actividad financiera o adquisición de negocio, se vinculen por cambio de código dos códigos de operación, de garantías recibidas o de activos adjudicados, el nuevo código no se declarará como variación de datos en los restantes módulos.
 
 B) Datos básicos de las operaciones que se han de comunicar a otras entidades:
 
@@ -59,6 +57,8 @@ C) Datos dinámicos de las operaciones que se han de comunicar a otras entidades
 9. El módulo G.3, Datos dinámicos de las operaciones que se han de comunicar a otras entidades, se enviará para declarar los importes garantizados al final del mes al que se refieren los datos de las operaciones declaradas en el módulo G.2 por recibir una garantía financiera o contraaval de un aval o caución no financiero de otra entidad declarante.
 
 10. El Banco de España reenviará los datos del módulo G.3 a la entidad que haya garantizado o contraavalado las operaciones desde el momento en el que esta comunique en el módulo G.1, Datos básicos que vinculan códigos, que las ha garantizado o contraavalado.
+
+> Se añade el apartado 2 bis) y se modifican los apartados 4 y 6 por la norma única.10 de la Circular de 30 de junio de 2017. Ref. BOE-A-2017-7985
 
 > Se modifica el letra e) del apartado 2 por la norma 3.5 de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365.
 

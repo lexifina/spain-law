@@ -18,21 +18,9 @@ i) Crédito comercial: Los préstamos concedidos sobre la base de derechos de co
 
 ii) Crédito financiero: Las operaciones que, siendo préstamos declarables a la CIR, no están instrumentadas como crédito comercial, arrendamiento financiero o préstamo de recompra inversa.
 
-> Téngase en cuenta que esta última actualización del apartado 1.a).ii) establecida por la norma 3.1.a) de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
-
-> Redacción anterior:
-
-> "ii) Crédito financiero: Las operaciones que, siendo préstamos declarables a la CIR, no están instrumentadas como crédito comercial, arrendamiento financiero o adquisición temporal de activos."
-
 iii) Arrendamientos financieros: Las operaciones de arrendamiento que la entidad declarante debe registrar contablemente como préstamos porque ha transferido sustancialmente todos los riesgos y beneficios inherentes a la propiedad del activo objeto del contrato, aunque tengan la consideración de arrendamiento operativo para el arrendatario. Este concepto comprende las cuotas que ha de pagar el arrendatario, el importe comprometido por terceros distintos del arrendatario y los valores residuales no garantizados.
 
 iv) Préstamos de recompra inversa: Los préstamos concedidos a cambio de valores u oro transferidos temporalmente mediante una compra con retrocesión no opcional, así como los importes entregados como garantía en efectivo de valores recibidos en préstamo.
-
-> Téngase en cuenta que esta última actualización del apartado 1.a).iv) establecida por la norma 3.1.a) de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
-
-> Redacción anterior:
-
-> "iv) Adquisiciones temporales de activos: Los préstamos concedidos a cambio de valores u oro transferidos temporalmente mediante una compra con retrocesión no opcional, así como los importes entregados como garantía en efectivo de valores recibidos en préstamo."
 
 Las operaciones que se han de declarar como préstamos a la CIR no incluyen, aunque sean derechos de cobro a favor de la entidad, los importes pendientes de cobro por cheques, los saldos frente a cámaras y organismos liquidadores por operaciones en bolsa y mercados organizados, las fianzas dadas en efectivo, los dividendos pasivos exigidos, las comisiones por garantías financieras y demás saldos deudores que no tengan la naturaleza de préstamo a efectos de los requerimientos estadísticos de la Unión Económica y Monetaria.
 
@@ -46,29 +34,31 @@ e) Otros compromisos con riesgo de crédito: Los compromisos que cumplen la defi
 
 f) Préstamos de valores: Las operaciones en las que la entidad declarante cede al prestatario la plena titularidad de unos valores con el compromiso de devolver otros de la misma clase que los recibidos sin efectuar ningún desembolso, salvo el pago de comisiones. Cuando en una operación de préstamo de valores ambas entidades intercambien valores, se considerará entidad prestamista la que cobre las comisiones.
 
+1 bis) Las entidades de crédito y las sucursales en España de entidades de crédito extranjeras también declararán a la CIR:
+
+a) Los préstamos concedidos por la sede central a sus sucursales en el extranjero, así como los que estas tengan con la sede central u otras sucursales de la entidad.
+
+b) Los préstamos no originados por la entidad que sean administrados por alguno de sus agentes observados residente en un Estado miembro informador, siempre que: i) un deudor, al menos, sea una persona jurídica o entidad sin personalidad jurídica, y ii) el acreedor sea una persona jurídica distinta de un agente observado residente en un Estado miembro informador.
+
+c) Los préstamos fiduciarios gestionados por los agentes observados, siempre que un deudor, al menos, sea una persona jurídica. A estos efectos, préstamos fiduciarios son aquellos en los que el agente observado actúa en nombre propio pero por cuenta y riesgo de un tercero distinto de un agente observado residente en un Estado miembro informador.
+
 2. Los riesgos declarables se clasificarán, en función de la naturaleza en la que intervengan los titulares en la operación, en:
 
 a) Riesgos directos: Los riesgos contraídos con los primeros obligados al pago de los préstamos (con las precisiones que se indican en la norma tercera, apartado 4), los emisores de valores representativos de deuda, las personas sobre las que se ha concedido una garantía financiera u otro tipo de aval o caución, y las contrapartes de los restantes compromisos y de los préstamos de valores.
 
 b) Riesgos indirectos: Los riesgos contraídos con los garantes, vendedores de protección en titulizaciones sintéticas o derivados de crédito, aseguradores, afianzadores, personas que no siendo titulares de riesgos directos hayan comprometido su firma en operaciones de cartera comercial o efectos financieros y demás personas que respondan del riesgo en caso de incumplimiento de los titulares de los riesgos directos, así como los terceros que se hayan comprometido a adquirir el activo cedido en operaciones de arrendamiento financiero si no lo hacen los arrendatarios.
 
-3. Los riesgos declarables se deben declarar de forma individualizada a la CIR, es decir, operación a operación. Para ello, las entidades declarantes asignarán a cada operación –o a cada parte en la que se tenga que dividir conforme a lo dispuesto en la norma tercera, apartado 3– un código único que se debe mantener invariable durante su vida, salvo que por motivos de gestión interna fuese necesario modificarlo, en cuyo caso se comunicará dicha circunstancia conforme a lo dispuesto en la norma undécima, letra A). Dicho código no se podrá reutilizar en el futuro para declarar otras operaciones.
+3. Los riesgos declarables se deben declarar de forma individualizada a la CIR, es decir, operación a operación. Para ello, las entidades declarantes asignarán a cada operación –o a cada parte en la que se tenga que dividir conforme a lo dispuesto en la norma tercera, apartado 3– un código único, que se debe mantener invariable durante su vida. Dicho código no se podrá reutilizar en el futuro para declarar otras operaciones. Cuando, por motivos de gestión interna, resulte estrictamente necesario, el Banco de España podrá permitir un cambio de código. En este caso, las entidades se atendrán a lo dispuesto en la norma undécima, letra A).
 
 No obstante lo indicado en el párrafo anterior, no se declararán de forma individualizada las operaciones cuando se trate de préstamos a plazo (siempre que su finalidad sea el consumo, su importe al inicio de la operación no supere los 3.000 euros y su plazo original sea igual o inferior a veinticuatro meses), factoring sin recurso cuyo límite acumulado por deudor no supere los 3.000 euros, tarjetas de crédito, descubiertos, anticipos de pensiones o nóminas, o resto de préstamos a la vista, y, además, todos los titulares cumplan los siguientes criterios:
 
-a) pertenezcan al sector hogares o sean sociedades no financieras, o instituciones sin fines de lucro al servicio de los hogares, en las que no participen, en su capital o vía derechos de voto, entidades que tengan la consideración de sector público español, conforme a lo dispuesto en el artículo 2 de la Ley Orgánica 2/2012, de 27 de abril, de estabilidad presupuestaria y sostenibilidad financiera;
+a) pertenezcan al sector institucional hogares o sean sociedades no financieras, o instituciones sin fines de lucro al servicio de los hogares, en las que no participen, en su capital o vía derechos de voto, entidades que tengan la consideración de sector público español, conforme a lo dispuesto en el artículo 2 de la Ley Orgánica 2/2012, de 27 de abril, de estabilidad presupuestaria y sostenibilidad financiera;
 
 b) no tengan otro tipo de operaciones declarables a la CIR;
 
 c) su riesgo acumulado, directo e indirecto, en la entidad declarante sea inferior a 6.000 euros, y
 
 d) no tengan importes calificados como normales en vigilancia especial o dudosos, o el importe total de las operaciones con dichas calificaciones sea inferior a 100 euros.
-
-> Téngase en cuenta que la modificación de la letra d) del apartado 3 entra en vigor el 1 de octubre de 2016, según establece la disposición final única de la Circular 4/2016, de 27 de abril. Ref. BOE-A-2016-4356.
-
-> Redacción anterior:
-
-> "d) no tengan importes calificados como subestándar o de dudoso cobro, o el importe total de las operaciones con dichas calificaciones sea inferior a 100 euros."
 
 4. Los riesgos transferidos y los adquiridos a terceros en los que la entidad cedente continúe con su gestión ante los titulares se declararán a la CIR conforme a lo dispuesto en la norma decimocuarta.
 
@@ -78,7 +68,7 @@ Por su parte, las sociedades de reafianzamiento no declararán las operaciones e
 
 6. Los préstamos y valores representativos de deuda impagados continuarán declarándose a la CIR hasta la extinción de todos los derechos de la entidad (por prescripción, por condonación o por otras causas) o hasta su recuperación.
 
-> Téngase en cuenta que el apartado 6 añadido por la norma 3.1.c) de la Circular 5/2014, de 28 de noviembre. Ref. BOE-A-2014-13365. entra en vigor el 1 de abril de 2015, según establece la disposición final única.c) de la citada Circular.
+> Se añade el apartado 1 bis) y se modifica el primer párrafo y la letra a) del apartado 3 por la norma única.2 de la Circular de 30 de junio de 2017. Ref. BOE-A-2017-7985
 
 > Se modifica el apartado 3.d) por la Norma 3 de la Circular 4/2016, de 27 de abril. Ref. BOE-A-2016-4356.
 

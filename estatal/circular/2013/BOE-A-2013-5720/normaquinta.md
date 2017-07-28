@@ -26,10 +26,12 @@ Los datos de las entidades cabecera también se han de declarar en la parte 1 de
 
 3. Cuando la entidad declarante tenga conocimiento de que la persona declarada dispone de otro u otros códigos de identificación personal por los que pueda estar declarada al Banco de España [por ejemplo, porque pueda haber sido declarada con anterioridad con un número de identificación fiscal (NIF), número de identificación de extranjero (NIE) o código de no residente asignado por el Banco de España, o por haber cambiado su forma social o pasado de ser un no residente a un residente, o viceversa], además del código por el que declare a dicha persona a la CIR, que deberá ser el vigente a la fecha de la declaración, informará de los códigos anteriores que pueda tener dicha persona de los que tenga constancia documental.
 
-4. Cuando una entidad declarante deje de declarar operaciones de forma individualizada a nombre de una persona y transcurra, cuando proceda, el plazo de seis meses que establece la norma sexta, apartado 7, para los productos mencionados en ella, el Banco de España dará de baja a dicha persona del módulo A.1 y se lo comunicará a la entidad declarante, siempre que no continúe siendo declarable al Banco de España por otro motivo. Si posteriormente la entidad tiene que volver a declarar operaciones para la misma persona, tendrá que darla de alta de nuevo en el módulo A.1.
+4. (Suprimido)
 
 B) Solicitud de código de identificación de personas no residentes en España:
 
 5. El módulo A.2, Solicitud de código de identificación de personas no residentes en España, se enviará para solicitar códigos de identificación para las personas, físicas o jurídicas, y entidades sin personalidad jurídica no residentes en España.
 
-6. Cuando las entidades declarantes dispongan del código de identificación de una persona, física o jurídica, o de una entidad sin personalidad jurídica no residente, deberán enviar una actualización de los datos previamente comunicados en el módulo A.2, siempre que tengan constancia de su variación, así como cuando les corresponda declarar datos adicionales en dicho módulo en función del motivo por el que se declaren dichas personas al Banco de España, con independencia de que también se puedan actualizar voluntariamente dichos datos en el módulo A.1, Datos que identifican a las personas.
+6. Cuando las entidades declarantes dispongan del código de identificación de una persona, física o jurídica, o de una entidad sin personalidad jurídica no residente, deberán enviar una actualización de los datos previamente comunicados en el módulo A.2, siempre que tengan constancia de su variación, así como cuando les corresponda declarar datos adicionales en dicho módulo en función del motivo por el que se declaren dichas personas al Banco de España.
+
+> Se suprime el apartado 4 y se modifica el apartado 6 por la norma única.5 de la Circular de 30 de junio de 2017. Ref. BOE-A-2017-7985
