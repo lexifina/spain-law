@@ -1,0 +1,11 @@
+El Real Decreto 415/2016, de 3 de noviembre, reestructuró los departamentos ministeriales con el objeto de impulsar los objetivos prioritarios para España, desarrollar el programa político del Gobierno y lograr la máxima eficacia en su acción y la mayor eficiencia en el funcionamiento de la Administración General del Estado. Dicho Real Decreto asigna al Ministerio de Asuntos Exteriores y de Cooperación la dirección de la política exterior y la de la cooperación internacional al desarrollo, de conformidad con las directrices del Gobierno y en aplicación del principio de unidad de acción en el exterior.
+
+Por su parte, el artículo 1 del Real Decreto 424/2016, de 11 de noviembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales, establece la estructura orgánica básica del Ministerio de Asuntos Exteriores y de Cooperación. Su disposición final segunda establece que el Ministro de Hacienda y Función Pública, a iniciativa de los ministerios interesados, elevará al Consejo de Ministros los proyectos de reales decretos por los que se adapta la estructura orgánica de los diferentes departamentos ministeriales y organismos autónomos a las previsiones en él contenidas.
+
+En el marco establecido por los reales decretos citados, debe desarrollarse la estructura orgánica básica del Ministerio de Asuntos Exteriores y de Cooperación, hasta el nivel de subdirección general o equivalente, teniendo en cuenta a tal efecto los criterios de contención del gasto y racionalización de las estructuras en la Administración General del Estado.
+
+Este real decreto procede también a la modificación del Real Decreto 424/2016, de 11 de noviembre, ya citado, al modificar la denominación y organización de las distintas direcciones generales del departamento, con los objetivos de impulsar y fortalecer las relaciones de España con el continente africano, dar una mejor respuesta a los desafíos en el ámbito de la Unión Europea, especialmente en lo referido al proceso de salida del Reino Unido, impulsar las relaciones con el área del Caribe y fusionar la actividad de comunicación del departamento.
+
+En su virtud, a iniciativa del Ministro de Asuntos Exteriores y de Cooperación, a propuesta del Ministro de Hacienda y Función Pública y previa deliberación del Consejo de Ministros en su reunión del día 28 de julio de 2017,
+
+DISPONGO:
