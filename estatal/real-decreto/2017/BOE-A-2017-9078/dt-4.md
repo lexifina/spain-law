@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Pase a reserva de los miembros de la escala de cabos y guardias que pertenecían a dicha escala a la entrada en vigor de la Ley 42/1999, de 25 de noviembre.
+
+A los miembros de la escala de cabos y guardias que pertenecían a dicha escala a la entrada en vigor de la Ley 42/1999, de 25 de noviembre, les seguirá siendo de aplicación el régimen transitorio de pase a la situación de reserva que establece la disposición transitoria tercera de la ley mencionada, pudiendo solicitar su permanencia en activo hasta los sesenta y cinco años de edad, de acuerdo con lo previsto en los artículos 44 y siguientes.

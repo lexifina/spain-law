@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Rehabilitación en las escalas de oficiales de la Ley 42/1999, de 25 de noviembre, de Régimen del Personal del Cuerpo de la Guardia Civil.
+
+1. Los guardias civiles que hubiesen pertenecido a la escala de oficiales, escala facultativa superior o escala facultativa técnica de la Ley 42/1999, de 25 de noviembre, y se les conceda la rehabilitación, se incorporarán en aquéllas.
+
+2. Los guardias civiles que hubiesen pertenecido a la escala superior de oficiales de la Ley 42/1999, de 25 de noviembre, y se les conceda la rehabilitación, se incorporarán a la escala de oficiales de la Ley 29/2014, de 28 de noviembre, de Régimen del Personal de la Guardia Civil, en la última posición del escalafón correspondiente a la antigüedad equivalente al tiempo de servicios efectivos que tuviera en el empleo antes de su cese en la relación de servicios y conforme a los criterios de proporcionalidad recogidos en la disposición transitoria séptima de la Ley 29/2014, de 28 de noviembre.
