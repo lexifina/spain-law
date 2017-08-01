@@ -1,3 +1,5 @@
 ## Disposición adicional tercera. Revisión de las cantidades del artículo 25.5.
 
-Se faculta a los Ministros de Cultura, de Industria y Energía y de Comercio y Turismo para adecuar, cada dos años, las cantidades establecidas en el artículo 25.5 de esta Ley a la realidad del mercado, a la evolución tecnológica y al índice oficial de precios al consumo.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única del Real Decreto-ley 12/2017, de 3 de julio. Ref. BOE-A-2017-7718
