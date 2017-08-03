@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden ESS 1338/2013, de 11 de julio, por la que se establecen las bases reguladoras de la concesión de subvenciones a las actividades de promoción del trabajo autónomo, de la economía social y de la responsabilidad social de las empresas y para sufragar los gastos de funcionamiento de las asociaciones de trabajadores autónomos, de cooperativas, de sociedades laborales, de empresas de inserción y de otros entes representativos de la economía social de ámbito estatal y se convoca su concesión para el año 2013, modificada por la Orden ESS/419/2015, de 26 de febrero.
