@@ -756,6 +756,8 @@ Treinta y ocho. Se incorpora una nueva disposición adicional decimosexta con la
 
 (Anulado).
 
+> Se declara que el apartado 13 no es inconstitucional, interpretado en los términos del fundamento jurídico 2, por Sentencias del TC 93/2017, de 6 de julio, Ref. BOE-A-2017-9652 y 101/2017, de 20 de julio. Ref. BOE-A-2017-9660
+
 > Se declara inconstitucional y nulo el apartado 28.3 y 4 y que no es inconstitucional el apartado 13, interpretado en los términos del fundamento jurídico 2, por Sentencia del TC 54/2017, de 11 de mayo. Ref. BOE-A-2017-6850
 
 > Se declara que el apartado 13 no es inconstitucional, interpretado en los términos del fundamento jurídico 2, por Sentencia del TC 44/2017, de 27 de abril. Ref. BOE-A-2017-5901
