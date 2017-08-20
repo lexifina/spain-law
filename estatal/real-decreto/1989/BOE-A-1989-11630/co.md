@@ -1,1 +1,1 @@
-Norma derogada en todo aquello que sea de aplicación a los miembros de la Guardia Civil, con efectos de 21 de marzo de 2017, por la disposición derogatoria única del Real Decreto 232/2017, de 10 de marzo. Ref. BOE-A-2017-3022#dd.
+Norma derogada, con efectos de 20 de agosto de 2017, por la disposición derogatoria única del Real Decreto 719/2017, de 14 de julio. Ref. BOE-A-2017-9077#dd
