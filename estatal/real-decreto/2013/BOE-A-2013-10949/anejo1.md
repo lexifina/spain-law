@@ -1,10 +1,10 @@
 ## ANEJO 1
 
-## Categorías de actividades e instalaciones contempladas en el artículo 2 de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación
+## Categorías de actividades e instalaciones contempladas en el artículo 2 del Texto Refundido de la Ley de prevención y control integrados de la contaminación
 
-Nota: los valores umbral mencionados en cada una de las actividades relacionadas en la siguiente tabla se refieren, con carácter general, a capacidades de producción o a productos. Si un mismo titular realiza varias actividades de la misma categoría en la misma instalación, se sumarán las capacidades de dichas actividades. Para las actividades de gestión de residuos este cálculo se aplicará a las instalaciones incluidas en los epígrafes 5.1, 5.3 y 5.4.
+Nota: los valores umbral mencionados en cada una de las actividades relacionadas en la siguiente tabla se refieren, con carácter general, a capacidades de producción o a productos. Si en la misma instalación se realizan varias actividades de la misma categoría, se sumarán las capacidades de dichas actividades. Para las actividades de gestión de residuos, este cálculo se aplicará a las instalaciones incluidas en los epígrafes 5.1, 5.3 y 5.4. La lista de actividades desglosadas en la columna derecha no es excluyente, su objetivo es clarificar el tipo de actividades afectadas.
 
-| ACTIVIDADES DE LA LEY 16/2002, de 1 de julio. | TIPO DE INDUSTRIAS E INSTALACIONES INCLUIDAS |
+| Actividades del Texto Refundido de la Ley de prevención y control integrados de la contaminación | Tipo de industrias e instalaciones incluidas |
 | --- | --- |
 | 1. INSTALACIONES DE COMBUSTIÓN |
 | 1.1 Instalaciones de combustión con una potencia térmica nominal total igual o superior a 50 MW: | Instalaciones dedicadas a la producción de energía térmica mediante la combustión de cualquier tipo de combustible fósil y los diferentes tipos de biomasa, así como mediante la coincineración de residuos. La energía térmica obtenida puede ser utilizada directamente en forma de calor o transformada en otras formas útiles de energía (mecánica, eléctrica,..) mediante ciclos térmicos determinados. |
@@ -52,10 +52,22 @@ Nota: los valores umbral mencionados en cada una de las actividades relacionadas
 | 4.5 Instalaciones químicas que utilicen un procedimiento químico o biológico para la fabricación de medicamentos, incluidos los productos intermedios. | Instalaciones para la fabricación, por procedimientos químicos o biológicos, de principios activos y otros productos destinados a la fabricación de medicamentos, cualquiera que sea la materia prima de partida o el proceso seguido. |
 | 4.6 Instalaciones químicas para la fabricación de explosivos. | Industrias químicas que cuenten con instalaciones para la producción de cualquier tipo de explosivo, cuando impliquen transformación química. |
 | 5. GESTIÓN DE RESIDUOS |
-| 5.1 Instalaciones para la valorización o eliminación de residuos peligrosos, con una capacidad de más de 10 toneladas por día que realicen uno o más de las siguientes actividades: a) Tratamiento biológico; b) Tratamiento físico-químico; c) Combinación o mezcla previas a las operaciones mencionadas en los epígrafes 5.1 y 5.2; d) Reenvasado previo a cualquiera de las operaciones mencionadas en los epígrafes 5.1 y 5.2; e) Recuperación o regeneración de disolventes; f) Reciclado o recuperación de materias inorgánicas que no sean metales o compuestos metálicos; g) Regeneración de ácidos o de bases; h) Valorización de componentes utilizados para reducir la contaminación; i) Valorización de componentes procedentes de catalizadores; j) Regeneración o reutilización de aceites; k) Embalse superficial (por ejemplo, vertido de residuos líquidos o lodos en pozos, estanques o lagunas, etc.). | Instalaciones incluidas en el ámbito de aplicación de la Ley 22/2011, de 28 de julio, que realicen alguna de las siguientes actividades de valorización o eliminación de residuos peligrosos, enumeradas en sus anexos I y II: – Recuperación o regeneración de disolventes (R2). – Recuperación o reciclado de materiales inorgánicos diferentes de los metálicos (R5), incluyendo la limpieza del suelo que tenga como resultado la valorización del suelo y el reciclado de materiales de construcción inorgánicos. – Regeneración de ácidos o bases (R6). – Valorización de componentes utilizados para reducir la contaminación (R7). – Valorización de componentes procedentes de catalizadores (R8). – Regeneración u otro nuevo empleo de aceites, como por ejemplo lubricantes (R9). – Tratamientos biológicos previos a otros procesos de eliminación (D8). – Tratamientos físico-químicos previos a otros procesos de eliminación (D9). – Embalse superficial (por ejemplo, vertido de residuos líquidos o lodos en pozos, estanques o lagunas, etc.) (D 4). – Combinación o mezcla previas a las operaciones mencionadas en los epígrafes 5.1 y 5.2 (D 13). – Reenvasado previo a cualquiera de las operaciones mencionadas en los epígrafes 5.1 y 5.2 (D 14). – R12 combinación, mezcla, reenvasado, previas a valorización. |
-| 5.2 Instalaciones para la valorización o eliminación de residuos en plantas de incineración o coincineración de residuos: | Instalaciones de incineración de residuos urbanos, cualquiera que sea la forma de recogida, tengan o no recuperación energética, de conformidad con lo establecido en el Real Decreto 653/2003, de 30 de mayo, sobre incineración de residuos, dentro de los límites especificados. |
-| a) Para los residuos no peligrosos con una capacidad superior a tres toneladas por hora; |  |
-| b) Para residuos peligrosos con una capacidad superior a 10 toneladas por día. |
+| 5.1 Instalaciones para la valorización o eliminación de residuos peligrosos, con una capacidad de más de 10 toneladas por día que realicen una o más de las siguientes actividades | Instalaciones incluidas en el ámbito de aplicación de la Ley 22/2011, de 28 de julio, que realicen alguna de las siguientes actividades de valorización o eliminación de residuos peligrosos, enumeradas en sus anexos I y II: |
+| a) Tratamiento biológico | Tratamientos biológicos previos a otros procesos de eliminación (D8). |
+| b) Tratamiento físico-químico; | Tratamientos físico-químicos previos a otros procesos de eliminación (D9). |
+| c) Combinación o mezcla previas a las operaciones mencionadas en los epígrafes 5.1 y 5.2; | Combinación o mezcla previas a las operaciones mencionadas en los epígrafes 5.1 y 5.2 (D13). |
+| Combinación, mezcla, reenvasado, previas a valorización. R12 |
+| d) Reenvasado previo a cualquiera de las operaciones mencionadas en los epígrafes 5.1 y 5.2; | Reenvasado previo a cualquiera de las operaciones mencionadas en los epígrafes 5.1 y 5.2 (D14). |
+| e) Recuperación o regeneración de disolventes | Recuperación o regeneración de disolventes (R2). |
+| f) Reciclado o recuperación de materias inorgánicas que no sean metales o compuestos metálicos | Recuperación o reciclado de materiales inorgánicos diferentes de los metálicos incluyendo la limpieza del suelo que tenga como resultado la valorización del suelo y el reciclado de materiales de construcción inorgánicos (R5). |
+| g) Regeneración de ácidos o de bases; | Regeneración de ácidos o bases (R6). |
+| h) Valorización de componentes utilizados para reducir la contaminación; | Valorización de componentes procedentes de catalizadores (R8). |
+| i) Valorización de componentes procedentes de catalizadores; | Valorización de componentes utilizados para reducir la contaminación (R7). |
+| j) Regeneración o reutilización de aceites; | Regeneración u otro nuevo empleo de aceites, como por ejemplo lubricantes (R9). |
+| k) Embalse superficial (por ejemplo, vertido de residuos líquidos o lodos en pozos, estanques o lagunas, etc.). | Embalse superficial (por ejemplo, vertido de residuos líquidos o lodos en pozos, estanques o lagunas, etc.) (D4). |
+| 5.2 Instalaciones para la valorización o eliminación de residuos en plantas de incineración o coincineración de residuos: | Instalaciones de incineración y coincineración de residuos, de conformidad con lo establecido en el capítulo IV. |
+| a) Para los residuos no peligrosos con una capacidad superior a tres toneladas por hora; b) Para residuos peligrosos con una capacidad superior a 10 toneladas por día. | Valorización energética mediante incineración y coincineración (R1). |
+| Eliminación mediante incineración y coincineración (D10). |
 | 5.3 Instalaciones para la eliminación de los residuos no peligrosos con una capacidad de más de 50 toneladas por día, que incluyan una o más de las siguientes actividades, excluyendo las incluidas en el Real Decreto-ley 11/1995, de 28 de diciembre, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas: |  |
 | a) Tratamiento biológico; |
 | b) Tratamiento físico-químico; |
@@ -63,20 +75,20 @@ Nota: los valores umbral mencionados en cada una de las actividades relacionadas
 | d) Tratamiento de escorias y cenizas; |
 | e) Tratamiento en trituradoras de residuos metálicos, incluyendo residuos eléctricos y electrónicos, y vehículos al final de su vida útil y sus componentes. |
 | 5.4 Valorización, o una mezcla de valorización y eliminación, de residuos no peligrosos con una capacidad superior a 75 toneladas por día que incluyan una o más de las siguientes actividades, excluyendo las incluidas en el Real Decreto-ley 11/1995, de 28 de diciembre, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas: |  |
-| a) Tratamiento biológico; |
-| b) Tratamiento previo a la incineración o coincineración; |
-| c) Tratamiento de escorias y cenizas; |
-| d) Tratamiento en trituradoras de residuos metálicos, incluyendo residuos eléctricos y electrónicos, y vehículos al final de su vida útil y sus componentes. |
-| Cuando la única actividad de tratamiento de residuos que se lleve a cabo en la instalación sea la digestión anaeróbica, los umbrales de capacidad para esta actividad serán de 100 toneladas al día. |
+| a) Tratamiento biológico; | Tratamientos biológicos previos a otros procesos de eliminación (D8). |
+| Compostaje, digestión anaerobia y tratamiento mecánico biológicos (R3). |
+| b) Tratamiento previo a la incineración o coincineración; | Tratamiento de preparación de residuos como combustible para valorización (R12) o para eliminación (D8). |
+| c) Tratamiento de escorias y cenizas; | Tratamientos físico-químicos previos a otros procesos de valorización (R12). |
+| d) Tratamiento en trituradoras de residuos metálicos, incluyendo residuos eléctricos y electrónicos, y vehículos al final de su vida útil y sus componentes. | Tratamientos físico-químicos previos a otros procesos de valorización (R12). |
+| Cuando la única actividad de tratamiento de residuos que se lleve a cabo en la instalación sea la digestión anaeróbica, los umbrales de capacidad para esta actividad serán de 100 toneladas al día. |  |
 | 5.5 Vertederos de todo tipo de residuos que reciban más de 10 toneladas por día o que tengan una capacidad total de más de 25.000 toneladas con exclusión de los vertederos de residuos inertes. | Vertederos de residuos peligrosos y de residuos no peligrosos, incluidos, en este último caso, aquellos en los que se depositen residuos urbanos o municipales, tal como se definen en el Real Decreto 1481/2001, de 27 de diciembre, por el que se regula la eliminación de residuos mediante depósito en vertedero. |
-| 5.6 Almacenamiento temporal de los residuos peligrosos no incluidos en el epígrafe 5.5 en espera de la aplicación de alguno de los tratamientos mencionados en el epígrafe 5.1, 5.2, 5.5 y 5.7, con una capacidad total superior a 50 toneladas, excluyendo el almacenamiento temporal, pendiente de recogida, en el sitio donde el residuo es generado. |  |
-| 5.7 Almacenamiento subterráneo de residuos peligrosos con una capacidad total superior a 50 toneladas. |  |
+| 5.6 Almacenamiento temporal de los residuos peligrosos no incluidos en el epígrafe 5.5 en espera de la aplicación de alguno de los tratamientos mencionados en el epígrafe 5.1, 5.2, 5.5 y 5.7, con una capacidad total superior a 50 toneladas, excluyendo el almacenamiento temporal, pendiente de recogida, en el sitio donde el residuo es generado. | Almacenamiento de residuo en espera de tratamiento para su posterior valorización (R13) o posterior eliminación (D15). |
 | 6. INDUSTRIA DERIVADA DE LA MADERA |
 | 6.1 Instalaciones industriales destinadas a la fabricación de: | Instalaciones que produzcan pasta de papel de cualquier tipo (blanqueada, semiblanqueada, o cruda) mediante procedimientos mecánicos o químicos, a partir de materias primas naturales como madera y otras fibras naturales o a partir de fibras recuperadas. |
 | a) Pasta de papel a partir de madera o de otras materias fibrosas. |
 | b) Papel o cartón con una capacidad de producción de más de 20 toneladas diarias. | Instalaciones destinadas a la producción de: – Cualquier tipo de papel a partir de pasta de papel de cualquiera de los tipos señalados en el punto anterior con la posible presencia de otros aditivos. – Cualquier tipo de cartón a partir de pasta de papel y otros aditivos, destinado a usos industriales tales como a envases y embalajes etc. Las instalaciones a las que se refiere esta categoría pueden estar o no integradas en fábricas de pasta de papel. |
 | 6.2 Instalaciones de producción de celulosa con una capacidad de producción superior a 20 toneladas diarias. | Instalaciones destinadas a la producción de celulosa a partir de madera o fibras vegetales. |
-| 6.3 Instalaciones industriales destinadas a la fabricación de uno o más de los siguientes tableros derivados de la madera: tableros de virutas de madera orientadas, tableros aglomerados o tableros de cartón comprimido, con una capacidad de producción superior a 600 m3 diarios. |  |
+| 6.3 Instalaciones industriales destinadas a la fabricación de uno o más de los siguientes tableros derivados de la madera: tableros de virutas de madera orientadas, tableros aglomerados, tableros de cartón comprimido o tableros de fibras, con una capacidad de producción superior a 600 m3 diarios. |  |
 | 7. INDUSTRIA TEXTIL |
 | 7.1 Instalaciones para el tratamiento previo (operaciones de lavado, blanqueo, mercerización) o para el tinte de fibras o productos textiles cuando la capacidad de tratamiento supere las 10 toneladas diarias. | Instalaciones para la preparación y pretratamiento de fibras naturales y sintéticas, así como productos textiles o aquellas para el tinte y tratamientos de acabado. |
 | 8. INDUSTRIA DEL CUERO |
@@ -99,12 +111,14 @@ Nota: los valores umbral mencionados en cada una de las actividades relacionadas
 | 11. INDUSTRIA DEL CARBONO |
 | 11.1 Instalaciones para fabricación de carbono sinterizado o electrografito por combustión o grafitación. | Entre estas instalaciones están las de fabricación de electrodos de grafito para su utilización en hornos eléctricos o fabricación de fibra de carbono para construcciones especiales, etc. |
 | 12. INDUSTRIA DE CONSERVACIÓN DE LA MADERA |
-| 12.1 Conservación de la madera y de los productos derivados de la madera utilizando productos químicos, con una capacidad de producción superior a 75 m3 diarios, distinta de tratamientos para combatir la albura exclusivamente. |  |
+| 12.1 Conservación de la madera y de los productos derivados de la madera utilizando productos químicos, con una capacidad de producción superior a 75 m3 diarios, se excluye el tratamiento para combatir las alteraciones cromógenas exclusivamente. |  |
 | 13. TRATAMIENTO DE AGUAS |
 | 13.1 Tratamiento independiente de aguas residuales, no contemplado en la legislación sobre aguas residuales urbanas, y vertidas por una instalación contemplada en el presente anejo. |  |
 | 14. CAPTURA DE CO2 |
 | 14.1 Captura de flujos de CO2 procedentes de instalaciones incluidas en el presente anejo con fines de almacenamiento geológico con arreglo a la Ley 40/2010, de 29 de diciembre, de almacenamiento geológico de dióxido de carbono. |  |
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2013/251/10949_image2.png)
+
+> Se modifica el título y la nota al pie del título y los epígrafes 5, apartados 1,2,4 y 6, epígrafe 6.3 y epígrafe 12.1 por el art. 5.22 a 25 del Real Decreto 773/2017, de 28 de julio. Ref. BOE-A-2017-10054
 
 > Se modifica el apartado 4.4, columna derecha, por la disposición final 1 del Real Decreto 231/2014, de 4 de abril. Ref. BOE-A-2014-3656.

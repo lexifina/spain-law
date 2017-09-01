@@ -2,7 +2,7 @@
 
 ## Disposiciones técnicas para las instalaciones de incineración o coincineración
 
-Parte 1. Factores de equivalencia para las dibenzo-para-dioxinas y los dibenzofuranos
+## Parte 1. Factores de equivalencia para las dibenzo-para-dioxinas y los dibenzofuranos
 
 Para determinar la concentración total (ET) de dioxinas y furanos, se multiplicarán las concentraciones en masa de las siguientes dibenzo-para-dioxinas y dibenzofuranos por los siguientes factores de equivalencia antes de hacer la suma total:
 
@@ -26,25 +26,25 @@ Para determinar la concentración total (ET) de dioxinas y furanos, se multiplic
 | 1,2,3,4,7,8,9 Heptaclorodibenzofurano (HpCDF) | 0,01 |
 | - Octaclorodibenzofurano (OCDF) | 0,001 |
 
-Parte 2. Determinación de los valores límite de emisión a la atmósfera para la coincineración de residuos
+## Parte 2. Determinación de los valores límite de emisión a la atmósfera para la coincineración de residuos
 
 Se aplicará la siguiente fórmula (regla de mezcla) cuando un valor límite de emisión total específico C no se haya establecido en un cuadro de este anejo.
 
 El valor límite para cada contaminante de que se trate y para el CO en los gases residuales procedentes de la coincineración de residuos deberá calcularse del siguiente modo:
 
-(Vresiduo x Cresiduo + Vproceso x Cproceso) / (Vresiduo + Vproceso) = C
+(Vresiduo × Cresiduo + Vproceso × Cproceso) / (Vresiduo + Vproceso) = C
 
-• Vresiduo: el volumen de gases residuales procedentes de la incineración de residuos determinado únicamente a partir de los residuos con el menor valor calorífico especificado en la autorización y referido a las condiciones establecidas en el capítulo IV.
+– Vresiduo: el volumen de gases residuales procedentes de la incineración de residuos determinado únicamente a partir de los residuos con el menor valor calorífico especificado en la autorización y referido a las condiciones establecidas en el capítulo IV del presente Real Decreto.
 
 Si el calor generado por la incineración de residuos peligrosos es inferior al 10% del calor total generado en la instalación, Vresiduo deberá calcularse a partir de una cantidad (teórica) de residuos que, al ser incinerados, generasen el 10% de calor, manteniendo constante el calor total generado.
 
-• Cresiduo: los valores límite de emisión establecidos en la parte 5 respecto de las instalaciones de incineración de residuos
+– Cresiduo: los valores límite de emisión establecidos en la parte 5 respecto de las instalaciones de incineración de residuos
 
-• Vproceso: el volumen de gases residuales procedentes del proceso realizado en la instalación, incluida la quema de los combustibles autorizados utilizados normalmente en la instalación (con exclusión de los residuos), determinado según el contenido de oxígeno en el que deben normalizarse las emisiones con arreglo a lo dispuesto en las normativas comunitarias o nacionales. A falta de normativa para esta clase de instalaciones, deberá utilizarse el contenido real de oxígeno de los gases residuales, sin que se diluya mediante inyección de aire innecesario para el proceso.
+– Vproceso: el volumen de gases residuales procedentes del proceso realizado en la instalación, incluida la quema de los combustibles autorizados utilizados normalmente en la instalación (con exclusión de los residuos), determinado según el contenido de oxígeno en el que deben normalizarse las emisiones con arreglo a lo dispuesto en las normativas comunitarias o nacionales. A falta de normativa para esta clase de instalaciones, deberá utilizarse el contenido real de oxígeno de los gases residuales, sin que se diluya mediante inyección de aire innecesario para el proceso.
 
-• Cproceso: los valores límite de emisión establecidos en las tablas del presente anejo para determinadas actividades industriales o, a falta de tales tablas o valores, los valores límite de emisión de las instalaciones que cumplan las disposiciones legales, reglamentarias y administrativas nacionales aplicables a dichas instalaciones cuando queman los combustibles autorizados normalmente (con exclusión de los residuos). A falta de dichas medidas, se utilizarán los valores límite de emisión que establezca la autorización. A falta de éstos, se utilizarán los valores correspondientes a las concentraciones reales en masa.
+– Cproceso: los valores límite de emisión establecidos en las tablas del presente anejo para determinadas actividades industriales o, a falta de tales tablas o valores, los valores límite de emisión de las instalaciones que cumplan las disposiciones legales, reglamentarias y administrativas nacionales aplicables a dichas instalaciones cuando queman los combustibles autorizados normalmente (con exclusión de los residuos). A falta de dichas medidas, se utilizarán los valores límite de emisión que establezca la autorización. A falta de éstos, se utilizarán los valores correspondientes a las concentraciones reales en masa.
 
-• C: los valores límite de emisión totales a un contenido de oxígeno establecidos en las tablas de este anejo para determinadas actividades industriales y determinados contaminantes o, a falta de tales tablas o valores, los valores límite de emisión totales que sustituyen a los valores límite de emisión establecidos en las partes correspondientes de este anejo. El contenido total de oxígeno que sustituirá al contenido de oxígeno para la normalización se calculará con arreglo al contenido anterior, respetando los volúmenes parciales.
+– C: los valores límite de emisión totales a un contenido de oxígeno establecidos en las tablas de este anejo para determinadas actividades industriales y determinados contaminantes o, a falta de tales tablas o valores, los valores límite de emisión totales que substituyen a los valores límite de emisión establecidos en las partes correspondientes de este anejo. El contenido total de oxígeno que substituirá al contenido de oxígeno para la normalización se calculará con arreglo al contenido anterior, respetando los volúmenes parciales.
 
 Todos los valores límite de emisión se calcularán a una temperatura de 273,15 K, una presión de 101,3 kPa y previa corrección del contenido en vapor de agua de los gases residuales.
 
@@ -86,7 +86,7 @@ El órgano competente podrá fijar los valores límite de emisión para el CO.
 
 2. Disposiciones especiales para instalaciones de combustión que coincineren residuos.
 
-2.1 Cproceso expresado como valores medios diarios (mg/Nm3) válido hasta la fecha indicada en Disposición transitoria primera, apartado 5.
+2.1 Cproceso expresado como valores medios diarios (mg/Nm3) válido hasta la fecha indicada en Disposición transitoria única, apartado 4.
 
 Para la determinación de la potencia térmica total de las instalaciones de combustión, se aplicarán las normas de adición definidas en el artículo 43. Los valores medios semihorarios solo serán necesarios para calcular los valores medios diarios.
 
@@ -110,13 +110,13 @@ Cproceso para los combustibles líquidos (contenido de O2 3%):
 
 | Contaminantes | < 50 MWth | 50 a 100 MWth | 100 a 300 MWth | > 300 MWth |
 | --- | --- | --- | --- | --- |
-| SO2 |  | 850 | 400 a 200 (disminución lineal de 100 300 MWth) | 200 |
+| SO2 |  | 850 | 400 a 200 (disminución lineal de 100 300 MWh). | 200 |
 | NOx |  | 400 | 200 | 200 |
 | Partículas | 50 | 50 | 30 | 30 |
 
-2.2 Cproceso expresado como valores medios diarios (mg/Nm3) válido a partir de la fecha indicada en la Disposición transitoria primera, apartado 6.
+2.2 Cproceso expresado como valores medios diarios (mg/Nm3) válido a partir de la fecha indicada en la Disposición transitoria única, apartado 5.
 
-Para la determinación de la potencia térmica total de las instalaciones de combustión, se aplicarán las normas de adición definidas en el artículo 43. Los valores medios semihorarios solo serán necesarios para calcular los valores medios diarios.
+Para la determinación de la potencia térmica total de las instalaciones de combustión, se aplicarán las normas de adición definidas en el artículo 43. Los valores medios semihorarios sólo serán necesarios para calcular los valores medios diarios.
 
 2.2.1 Cproceso para las instalaciones de combustión a que se refiere el artículo 44.2, con excepción de las turbinas de gas y los motores de gas:
 
@@ -186,20 +186,20 @@ Cproceso para los combustibles líquidos (contenido de O2 3%):
 
 3. Disposiciones especiales para instalaciones de coincineración de residuos en sectores industriales no incluidos en el apartado 1 ni en el apartado 2 anteriores.
 
-1.1 C: Valores límite de emisión totales (mg/Nm3) para dioxinas y furanos expresados como valor medio medido a lo largo de un período de muestreo de un mínimo de 6 horas y un máximo de 8 horas.
+1.1.C. Valores límite de emisión totales (ng/Nm³) para dioxinas y furanos expresados como valor medio medido a lo largo de un período de muestreo de un mínimo de 6 horas y un máximo de 8 horas.
 
 | Contaminante | C |
 | --- | --- |
 | Dioxinas y furanos | 0,1 |
 
-1.2 C: valores límite de emisión totales (mg/Nm3) para metales pesados expresados como valores medios medidos a lo largo de un período de muestreo de un mínimo de 30 minutos y un máximo de 8 horas:
+1.2.C. Valores límite de emisión totales (mg/Nm³) para metales pesados expresados como valores medios medidos a lo largo de un período de muestreo de un mínimo de 30 minutos y un máximo de 8 horas:
 
 | Contaminante | C |
 | --- | --- |
-| Cd + Tl | 0,05 |
+| Cd+Tl | 0,05 |
 | Hg | 0,05 |
 
-Parte 3. Técnicas de medición
+## Parte 3. Técnicas de medición
 
 1. Las mediciones para determinar las concentraciones de sustancias contaminantes de la atmósfera y del agua se llevarán a cabo de manera representativa.
 
@@ -221,7 +221,7 @@ Cloruro de hidrógeno: 40%.
 
 Fluoruro de hidrógeno: 40%.
 
-Parte 4. Valores límite de emisión para vertidos de aguas residuales procedentes de la depuración de gases de escape
+## Parte 4. Valores límite de emisión para vertidos de aguas residuales procedentes de la depuración de gases de escape
 
 | Sustancias contaminantes | Valores límite de emisión expresados en concentraciones en masa para muestras no filtradas |
 | --- | --- |
@@ -237,11 +237,11 @@ Parte 4. Valores límite de emisión para vertidos de aguas residuales procedent
 | 10. Zinc y sus compuestos, expresados en zinc (Zn). | 1,5 mg/l |
 | 11. Dioxinas y furanos, definidos como la suma de las distintas dioxinas y furanos evaluados con arreglo al anejo 1. | 0,3 ng/l |
 
-Parte 5. Valores límite de emisión a la atmósfera para las instalaciones de incineración de residuos
+## Parte 5. Valores límite de emisión a la atmósfera para las instalaciones de incineración de residuos
 
 a) Todos los valores límite de emisión relativos a los apartados siguientes se calcularán a una temperatura de 273,15 K, una presión de 101,3 kPa y previa corrección del contenido en vapor de agua de los gases residuales.
 
-Están normalizados al 11 % de oxígeno en el gas residual excepto en el caso de la incineración de aceites minerales usados según lo definido en el artículo 3 f) de la Ley 22/2011, de 28 de julio, normalizados al 3% de oxígeno, y en los casos a que se refiere el artículo 13.8.
+Están normalizados al 11% de oxígeno en el gas residual excepto en el caso de la incineración de aceites minerales usados según lo definido en el artículo 3 f) de la Ley 22/2011, de 28 de julio, normalizados al 3% de oxígeno, y en los casos a que se refiere el artículo 37.8.
 
 b) Valores medios diarios (mg/Nm3).
 
@@ -283,9 +283,9 @@ d) Todos los valores medios medidos a lo largo de un período de muestreo de un 
 
 Estos valores medios se refieren a las emisiones correspondientes de metales pesados, así como de sus compuestos, tanto en estado gaseoso como de vapor.
 
-e) Todos los valores medios medidos a lo largo de un período de muestreo de un mínimo de 6 horas y un máximo de 8 horas. El valor límite de emisión se refiere a la concentración total de dioxinas y furanos calculada utilizando el concepto de equivalencia tóxica de conformidad con el anejo 1.
+e) Todos los valores medios medidos a lo largo de un período de muestreo de un mínimo de 6 horas y un máximo de 8 horas. El valor límite de emisión se refiere a la concentración total de dioxinas y furanos calculada utilizando el concepto de equivalencia tóxica de conformidad con la parte 1.
 
-| Dioxinas y furanos | 0,1 ng/Nm3 |
+| Dioxinas y furanos | 0,1 ng/Nm³ |
 | --- | --- |
 
 f) No podrán superarse en los gases residuales los siguientes valores límite de emisión de las concentraciones de monóxido de carbono (CO):
@@ -298,7 +298,7 @@ f) No podrán superarse en los gases residuales los siguientes valores límite d
 
 El órgano competente podrá autorizar exenciones para instalaciones de incineración de residuos que utilicen la tecnología de combustión en lecho fluido, siempre y cuando la autorización establezca un valor límite de emisión para el monóxido de carbono (CO) igual o inferior a 100 mg/Nm3 como valor medio horario.
 
-Parte 6. Fórmula para calcular la concentración corregida de emisiones de contaminantes en función del contenido de oxígeno, de acuerdo con el artículo 37
+## Parte 6. Fórmula para calcular la concentración corregida de emisiones de contaminantes en función del contenido de oxígeno, de acuerdo con el artículo 37
 
 Es = [(21 - Os) / (21 - Om)] x Em
 
@@ -311,3 +311,5 @@ Os = concentración de oxígeno de referencia, según lo señalado en el anejo 2
 Om = concentración de oxígeno medida, referida a gas seco en condiciones normalizadas, expresada en % en volumen.
 
 Las concentraciones “Es” así obtenidas serán las que deban compararse con los valores límite de emisión, C total, establecidos en el anejo 2 partes 2 y 5.
+
+> Se modifican las partes 2 y 5 por el art. 5.26 a 29 del Real Decreto 773/2017, de 28 de julio. Ref. BOE-A-2017-10054

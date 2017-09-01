@@ -6,14 +6,16 @@
 
 3. En relación con las instalaciones de combustión a que se refiere el artículo 44.2 los órganos competentes aplicarán, a partir del 1 de enero de 2016, las disposiciones normativas adoptadas de conformidad con el presente reglamento, para ajustarse al capítulo V y al anejo 3.
 
-4. En relación con las instalaciones de combustión que coincineran residuos del anejo 2, parte 4, punto 3.1, se aplicará:
+4. En relación con las instalaciones de combustión que coincineran residuos, el anejo 2, parte 2, punto 2.1, se aplicará:
 
 a) Hasta el 31 de diciembre de 2015, a las instalaciones de combustión a que se refiere el artículo 44.2.
 
 b) A partir de la entrada en vigor de este reglamento, a las instalaciones de combustión a que se refiere el artículo 44.3.
 
-5. En relación con las instalaciones de combustión que coincineran residuos del anejo 2, parte 4, punto 3.2, se aplicará:
+5. En relación con las instalaciones de combustión que coincineran residuos, el anejo 2, parte 2, punto 2.2, se aplicará:
 
 a) A partir del 1 de enero de 2016, a las instalaciones de combustión a que se refiere el artículo 44.2.
 
 b) A partir de la entrada en vigor de este reglamento, a las instalaciones de combustión a que se refiere el artículo 44.3.
+
+> Se modifican los apartados 4 y 5 por el art. 5.2 del Real Decreto 773/2017, de 28 de julio. Ref. BOE-A-2017-10054
