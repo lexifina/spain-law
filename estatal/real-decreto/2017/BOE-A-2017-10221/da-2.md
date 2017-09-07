@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Modificaciones del ámbito territorial de los Colegios.
+
+El régimen de segregación, fusión o cualquier otra operación de alteración del ámbito territorial de un Colegio será el establecido en los Estatutos Particulares de cada Colegio. No obstante, toda propuesta de alteración del ámbito territorial requerirá del acuerdo de la Junta General del Colegio o Colegios afectados, previo informe del Consejo General, y será comunicada al órgano de la Administración que deba proceder a su aplicación, de conformidad con lo dispuesto en la correspondiente legislación sobre Colegios Profesionales.
