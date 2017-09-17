@@ -38,6 +38,10 @@
 | Subdirección General de Programas del Instituto de la Mujer y para la Igualdad de Oportunidades. | Instituto de la Mujer y para la Igualdad de Oportunidades. |
 | Dirección del Real Patronato Sobre Discapacidad. | Real Patronato sobre la Discapacidad. |
 | Presidencia Instituto de Contabilidad y Auditoría de Cuentas. | Instituto de Contabilidad y Auditoría de Cuentas. |
+| Subdirección General de Administración Financiera y Patrimonio de la Administración Periférica del Ministerio de la Presidencia y para las Administraciones Territoriales. | Ministerio de la Presidencia y para las Administraciones Territoriales - Delegación del Gobierno en Madrid. |
+| Oficina Presupuestaria y de Gestión Económica del Ministerio de la Presidencia y para las Administraciones Territoriales. | Ministerio de la Presidencia y para las Administraciones Territoriales. |
+
+> Se modifica por el art. único de la Orden HFP/880/2017, de 14 de septiembre. Ref. BOE-A-2017-10627
 
 > Se modifica por el art. único.2 de la Orden HAP/1135/2016, de 8 de julio. Ref. BOE-A-2016-6671.
 
