@@ -22,23 +22,39 @@ e) En el caso de Labores del Tabaco, el valor de las mismas calculado según su 
 
 Casilla 33:
 
-Se consignará, en la subcasilla 5.ª, un código alfanumérico de 4 dígitos (código adicional nacional) formado por el correspondiente al producto, de 3 dígitos, según la tabla del Anexo VII y, a continuación, una de las claves siguientes:
+Se consignará, en la subcasilla 5.ª, un código alfanumérico de 4 dígitos (código adicional nacional) formado por el correspondiente al producto, de 3 dígitos, según la tabla del anexo VII y, a continuación, una de las claves siguientes:
 
-| S | importación que se vincula al régimen suspensivo de Impuestos Especiales por destinarse los productos, directamente desde la Aduana de importación, a su introducción en una fábrica o un depósito fiscal; |
-| --- | --- |
-| E | importación acogida a alguno de los supuestos de exención previstos en la Ley de Impuestos Especiales, excepto cuando proceda el código B; |
-| B | importación acogida al supuesto de exención previsto en el artículo 42.6 de la Ley de Impuestos Especiales; |
-| N | introducción en islas Canarias de cerveza, productos intermedios, alcohol o bebidas derivadas, procedentes de la Península o de las islas Baleares, en los que no se produce el devengo del Impuesto Especial por haber sido ya devengado en la parte del territorio nacional de procedencia; |
-|  | introducción/importación en las Islas Canarias de vinos y bebidas fermentadas; |
-|  | introducción en la Península e islas Baleares de cerveza procedente de las islas Canarias, en que no se produce el devengo del impuesto especial por haberse devengado ya en las islas Canarias. |
-| D | introducción en la Península e Islas Baleares de alcohol o bebidas alcohólicas procedentes de las Islas Canarias, cuando corresponda ingresar las cuotas resultantes de aplicar la diferencia de tipos impositivos existentes entre dichos territorios en el momento de la introducción; |
-| O | (cero) en el resto de los casos. |
+S: Importación que se vincula al régimen suspensivo de Impuestos Especiales por destinarse los productos, directamente desde el ADT o lugar autorizado donde se despache la mercancía a libre práctica, a su introducción en una fábrica o un depósito fiscal;
+
+Introducción en Canarias de alcohol o bebidas alcohólicas, excepto vino y bebidas fermentadas, procedentes del resto de la UE, con vinculación al régimen suspensivo de Impuestos Especiales;
+
+Introducción en Canarias de alcohol o bebidas alcohólicas, excepto vino y bebidas fermentadas, procedentes de la Península e Islas Baleares en régimen suspensivo;
+
+Introducción en el territorio peninsular e Islas Baleares productos objeto de los Impuestos Especiales de fabricación, procedentes de Canarias, en régimen suspensivo;
+
+E: Importación/introducción acogida a alguno de los supuestos de exención previstos en la Ley de Impuestos Especiales, excepto cuando proceda el código B;
+
+B: Importación/introducción acogida al supuesto de exención previsto en el artículo 42.6 de la Ley de Impuestos Especiales;
+
+N: Introducción en islas Canarias de cerveza, productos intermedios, alcohol o bebidas derivadas, procedentes de la Península o de las islas Baleares, en los que no se produce el devengo del Impuesto Especial por haber sido ya devengado en la parte del territorio nacional de procedencia;
+
+Introducción/importación en las Islas Canarias de vinos y bebidas fermentadas;
+
+Introducción en la Península e islas Baleares de cerveza procedente de las islas Canarias, en que no se produce el devengo del impuesto especial por haberse devengado ya en las islas Canarias;
+
+D: Introducción en la Península e Islas Baleares de alcohol o bebidas alcohólicas procedentes de las Islas Canarias, cuando corresponda ingresar las cuotas resultantes de aplicar la diferencia de tipos impositivos existentes entre dichos territorios en el momento de la introducción;
+
+0 (cero): En el resto de los casos.
 
 Casilla 44:
 
-En el caso de que los productos importados tengan por destino establecimientos obligados a inscribirse en el Registro Territorial, se hará constar en esta casilla su C.A.E. (Código de Actividad y de Establecimiento), código casilla 44, 5004.
+En el caso de que los productos importados tengan por destino establecimientos obligados a inscribirse en el Registro Territorial, se hará constar en esta casilla su CAE (Código de Actividad y de Establecimiento), código casilla 44, 5004.
 
-Cuando se trate de bebidas derivadas o cigarrillos que no lleven adheridas las marcas fiscales y el importador opte por colocarlas en destino, debe indicarse esta circunstancia mediante el código 1402 (artículo 26.8 del Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio).
+Asimismo, deberá incluirse el CAE del expedidor registrado (código 5016) que vaya a emitir el e-DA, en el supuesto de importaciones que se vinculen al régimen suspensivo de impuestos especiales o por las que se aplique una exención o un tipo impositivo reducido.
+
+En el caso de que se acoja a exención (claves E y B) deberá indicar el artículo y apartado de la Ley de II.EE que aplica, con el código de documento 3006.
+
+Cuando se trate de bebidas derivadas o cigarrillos que no lleven adheridas las marcas fiscales y el importador, en los supuestos de despacho de importación a tipo pleno, o el expedidor registrado, en el supuesto de despacho de importación con aplicación de una exención, opten por colocarlas en destino, debe indicarse esta circunstancia mediante el código 1402 (art. 26.8 a) 2.º Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio).
 
 Caso especial:
 
@@ -106,5 +122,7 @@ Deberá indicarse, con toda claridad, que los productos son objeto de los Impues
 ‒ Una copia del DAT deberá quedar en poder del expedidor de tales productos.
 
 ‒ Una copia del DAT, deberá enviarse al expedidor por el receptor de los productos.
+
+> Se modifica el apartado A, casillas 33 y 34 por el apartado primero.9 de la Resolución de 25 de agosto de 2017. Ref. BOE-A-2017-10089
 
 > Se modifica el apartado B, primer párrafo y casillas 40 y 44 por el apartado primero.20 a 22 de la Resolución de 14 de enero de 2016. Ref. BOE-A-2016-646

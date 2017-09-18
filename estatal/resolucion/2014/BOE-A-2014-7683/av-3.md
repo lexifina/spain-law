@@ -1,224 +1,199 @@
 ## APÉNDICE VII
 
-## Utilización de determinadas claves de régimen aduanero
+## Declaraciones comerciales simplificadas de importación
 
-Se incluyen, a continuación, instrucciones más detalladas de las que figuran en los respectivos capítulos, relativas a la utilización de las claves de régimen aduanero para determinadas operaciones, con el fin de unificar criterios.
+Las declaraciones simplificadas se regulan en los artículos 166 y 167 del CAU, 145 a 147 del RDCAU y 223 a 225 del RECAU.
 
-A) Importaciones de mercancías para su expedición inmediata a otro Estado Miembro, con petición de exención de IVA.
+Este apéndice se refiere a las declaraciones simplificadas de importación para despachos comerciales mientras que en el apéndice IX se recogen las instrucciones para las declaraciones simplificadas de pequeños envíos sin valor estimable.
 
-| 42 | Se trata de una operación sujeta al IVA pero exenta (si concurren los requisitos previstos en el artículo 27.12 de la Ley 37/92, de 28 de diciembre). Esta operación no está considerada por la Comunidad como una operación de las contempladas en las claves 0 y por tanto no debe emplearse ni el régimen 01 ni el 07. |
-| --- | --- |
+En los citados artículos se contempla la posibilidad de presentar declaraciones simplificadas consistentes en:
 
-Debe incluirse en la casilla 17 a) el Estado miembro de destino de la mercancía y en la casilla 44 el número de identificación fiscal a efectos de IVA del destinatario de la mercancía en el país declarado en la casilla 17 a) y el NIF IVA español del importador, o de su representante fiscal. En este último caso, deberá incluirse en la declaración, la aceptación de dicha representación por parte del representante fiscal (código de documento 1008) a los efectos previstos en el artículo 86. Tres de la Ley 38/1992, de 28 de diciembre. Dicha aceptación podrá acreditarse, entre otros, mediante el modelo de aceptación de la representación fiscal a efectos del artículo 86. Tres de Ley del IVA colgado en la web de la AEAT.
+• Declaración con menos datos.
 
-Además deberá referenciarse, en la casilla 44, el documento de transporte correspondiente al envío de la mercancía desde la aduana de importación hasta el Estado miembro declarado en la casilla 17 a) utilizando para ello uno de los códigos siguientes:
+• Declaración con falta de documentos.
 
-| 1010 | Régimen 42 o 63, título de transporte desde la aduana al Estado miembro de destino de la mercancía. |
-| --- | --- |
-| 1011 | Régimen 42 o 63, titulo de transporte marítimo o aéreo directo desde tercer país hasta el Estado miembro de destino declarado en la casilla 17. |
-| 1012 | Régimen 42 o 63: título de transporte combinado desde tercer país hasta el Estado miembro de destino declarado en la casilla 17 |
-| 1013 | Régimen 42 o 63: título de transporte cuando esté prevista alguna interrupción propia de la logística del transporte en el ámbito territorial interno del IVA. |
+Estas declaraciones pueden ser, a su vez, de dos tipos:
 
-Esto es también de aplicación para el régimen 63, reimportación con despacho a consumo y a libre práctica simultáneo de mercancías, que se acojan a la exención del artículo 27.12 de la Ley 37/1992, de 28 de diciembre, y para la comunicación «salida de depósito distinto del aduanero (SDD) cuando el régimen sea» 2 - entrega a otro Estado miembro.
+• De uso habitual. Requiere autorización.
 
-B) Claves de libre práctica.
+• De uso ocasional. No requiere autorización.
 
-Las claves 01 y 07, deben utilizarse exclusivamente en las operaciones descritas en el texto de las mismas, es decir:
+La normativa no contiene un criterio definitorio de la habitualidad. La única referencia a este respecto es la contenida en las guías publicadas por TAXUD que contemplan la posibilidad de vincular la autorización a la posibilidad de presentar declaración complementaria de carácter periódico. La aduana española adopta en la presente resolución dicho criterio. Los cambios introducidos por la nueva normativa se pueden resumir en:
 
-| 01 | Se utilizaría en el caso de despacho de importación de una mercancía en una Aduana de la península o Baleares para su envío inmediato a Canarias o a otro territorio aduanero CE donde no se aplique el IVA, pero nunca para su envío a Francia u otro Estado Miembro. |
-| --- | --- |
-| 07 | Importación de mercancía tercera e inclusión simultánea en el régimen de depósito distinto del aduanero o en depósito REF. |
+• Desaparición de las declaraciones incompletas.
 
-C) Régimen de perfeccionamiento activo.
+• Modificación de los plazos para completar las declaraciones simplificadas.
 
-C.1) Modalidad de suspensión, excepto la exportación anticipada.
+• Cambios en los datos.
 
-1. Inclusión en el régimen.
+En tanto los sistemas de la aduana española no estén ajustados a los datos del anexo B del RDCAU y RECAU, el régimen transitorio de las declaraciones simplificadas queda como se indica en este Apéndice.
 
-1.1 En el caso del régimen aduanero de perfeccionamiento activo, sistema de suspensión, excepto la modalidad de exportación anticipada: DUA importación con régimen 5100.
+A. Declaración simplificada por falta de documentos.
 
-1.2 En el caso anterior, si la mercancía hubiera estado previamente vinculada al mismo régimen y existiera una autorización sucesiva del mismo: DUA importación con régimen 5154.
+En este supuesto todos los datos de la declaración normal están en poder del declarante, sin embargo alguno o algunos de los documentos que justifican tal dato, no está en poder del mismo en el momento de la presentación de la declaración.
 
-1.3 Mercancía que se vincula al régimen fiscal de perfeccionamiento activo: DUA de importación con clave 5100 A04.
+Ejemplos:
 
-1.4 Deberán tenerse en cuenta el resto de claves adicionales previstas por la normativa comunitaria referentes a operaciones específicas de perfeccionamiento activo y que están relacionadas en el Anexo XIV-B. Estas claves comienzan por el dígito A.
+• El declarante tiene fotocopia del certificado de origen, pero aún no le ha llegado el original.
 
-2. Ultimación de los regímenes anteriores.
+• El declarante tiene el precio pagado por la mercancía, pero aún no ha recibido la factura comercial.
 
-2.1 Exportación a un tercer país (excepto países con acuerdos preferenciales para los que se desee justificar el origen).
+• El declarante tiene el peso real de la mercancía, pero aún no ha recibido la nota de pesaje.
 
-2.1.1 El producto exportado-producto compensador contiene alguna materia previamente vinculada al régimen aduanero de perfeccionamiento activo: DUA de exportación posición estadística correspondiente al producto compensador y régimen 3151.
+Características según el tipo de autorización:
 
-2.1.2 El producto compensador no contiene mercancía en régimen aduanero de perfeccionamiento activo pero si de régimen fiscal de perfeccionamiento activo: DUA exportación y régimen 3151.
+1. Sin autorización.
 
-2.1.3 Deberán tenerse en cuenta el resto de claves adicionales previstas por la normativa de la Unión Europea referentes a operaciones específicas de perfeccionamiento activo y que están relacionadas en el Anexo XIV-B. Estas claves comienzan por el dígito A.
+1.1 Forma de declarar:
 
-2.2 Exportación a un tercer país con acuerdos preferenciales para los que se desee justificar el origen comunitario (artículo 216 del Reglamento (CEE) n.º 2913/1992, de 12 de octubre de 1992).
+Casilla 1.2: «B» procedimiento simplificado por falta de documentos.
 
-2.2.1 DUA de exportación referida al producto compensador con régimen 1051 y liquidación complementaria de exportación por los derechos correspondientes al despacho a libre práctica de la materia vinculada al régimen aduanero de perfeccionamiento activo. Si se desea amparar su circulación en un documento de tránsito por enviarse la mercancía a un país firmante de los acuerdos de tránsito común, éste será un T2, excepto que ese mismo producto se acoja a restitución, en cuyo caso sería Tl.
+Casilla 37.2: código específico nacional para indicar el documento que falta.
 
-2.2.2 Si el producto compensador no contuviera mercancía vinculada al régimen aduanero de perfeccionamiento activo sino únicamente al fiscal: DUA de exportación con régimen 10.51. Si se desea amparar su circulación en un documento de tránsito, éste será un T2, excepto que tenga derecho a restitución
+1.2 Declarante: No hay restricción.
 
-2.3 Expedición a otro Estado miembro.
+1.3 Plazo para completar la declaración: 10 días con posibilidad de prórroga, a solicitud del declarante, de hasta 120 días. Podrá exigirse al operador autorización de declaración simplificada cuando de forma reiterada solicite prorroga.
 
-2.3.1 Transito T1 o documento de transferencia dentro del régimen.
+1.4 Contracción: Se contrae de acuerdo a lo declarado en el DUA B.
 
-2.3.2 Si se prefiere despachar la mercancía vinculada al régimen aduanero de PA: DUA de importación referida a dicha mercancía con régimen 4251 (exención de IVA prevista en el artículo 27.12 de la Ley 37/1992, de 28 de diciembre). La mercancía expedida a otro Estado miembro debe incluirse en la declaración correspondiente de INTRASTAT.
+1.5 Garantía por declaración simplificada: Se deberá presentar garantía adicional por la diferencia de derechos que existiría si no se llegara a presentar el documento que falta. En el caso de falta de tiquets de pesajes, no se retendrá garantía.
 
-Si no corresponde calcular la liquidación de derechos basándose en los elementos de imposición correspondientes al momento en que incluyó la mercancía en el RPA: régimen 4251 F42 (artículo 121 y 122 del Reglamento (CEE) n.º 2913/1992, de 12 de octubre de 1992).
+1.6 Declaración complementaria: El declarante o su representante deberá presentar una declaración complementaria (tipo procedimiento «X»), dentro del plazo indicado en el punto 1.3, para incorporar a la casilla 44 la documentación pendiente. Si no ha obtenido en plazo dicha documentación o la obtenida no se corresponde con lo declarado, deberá indicarlo así en la declaración complementaria que hará las veces de solicitud de regularización y/o rectificación de lo declarado previamente.
 
-Si no corresponde aplicar intereses compensatorios: régimen 4251 F43 (artículo 589 del Reglamento (CEE) n.º 2454/1993).
+2. Con autorización, igual que lo anterior salvo lo siguiente:
 
-En la casilla 40 del DUA deberá declararse el DUA de vinculación y la fecha prevista de ultimación del régimen.
+2.1 Forma de declarar: además de las indicaciones anteriores, deberá incluir el número de la autorización de la casilla 44.
 
-2.3.3 Y si se prefiere remitir el producto compensador que contuviera mercancía vinculada al régimen fiscal de perfeccionamiento activo, como mercancía comunitaria: DUA de importación referida a dicha mercancía con régimen 4251 (exención de IVA prevista en el artículo 27.12 de la Ley 37/1992, de 28 de diciembre). La mercancía expedida a otro Estado miembro debe incluirse en la declaración correspondiente de INTRASTAT.
+2.2 Plazo para completar la declaración: el previsto en la autorización dentro de lo previsto en el artículo 147 RDCAU).
 
-2.4 Expedición a Canarias.
+2.3 La autorización podrá prever que la declaración complementaria sea recapitulativa de varias declaraciones. En este caso se podrán agrupar aquellas que deban ser completadas con el mismo/s documento/s.
 
-2.4.1 Tránsito T1 o documento de transferencia dentro del régimen.
+3. Empresas con autorización de inscripción en los registros (EIR):
 
-En la casilla 40 del DUA deberá declararse el DUA de vinculación.
+En el supuesto especial de que la necesidad de declaración simplificada por falta de documentos se presente en una empresa titular de la autorización de inscripción en los registros (EIR), el procedimiento se ajustará a las siguientes condiciones:
 
-2.4.2 Si se prefiere despachar la mercancía vinculada al régimen aduanero de PA: DUA de importación referida a dicha mercancía con régimen 0151 (la normativa comunitaria prevé esta posibilidad para despachos realizados en el territorio de aplicación del IVA para mercancía que se expide a continuación a Andorra, a San Marino, o a aquellas partes del territorio aduanero de la Unión donde no es de aplicación la Directiva 2006/112/CE.
+3.1 En la autorización de EIR se incluirá la posibilidad de que el operador inscriba los datos de una declaración simplificada por falta de documentos. Asimismo, se fijará el plazo de que dispone el titular para la presentación de los documentos faltantes.
 
-Además debe realizarse un DUA de exportación con régimen 1051 referido al producto que se expide a Canarias y T2F en su caso.
+3.2 Las declaraciones recapitulativas Z, en su caso, podrán completar anotaciones contables con falta de documentos.
 
-Si no corresponde calcular la liquidación de derechos basándose en los elementos de imposición correspondientes al momento en que incluyó la mercancía en el RPA: régimen 0151 F42 (artículo 121 y 122 del Reglamento (CEE) n.º 2913/1992, de 12 de octubre de 1992).
+3.3 La empresa notificará a su Aduana de control, en el plazo previsto para ello, que ya está en posesión del documento correspondiente, y en su caso, solicitará la regularización y/o rectificación de lo declarado previamente.
 
-Si no corresponde aplicar intereses compensatorios: régimen 0151 F43 (art. 589 del Reglamento (CEE) n.º 2454/1993).
+B. Declaración simplificada por falta de datos.
 
-En la casilla 40 del DUA deberá declararse el DUA de vinculación y la fecha límite autorizada de ultimación del régimen.
+Los distintos supuestos de hecho que en la práctica han venido obligando a utilizar este tipo de declaraciones, se podrían agrupar en los siguientes bloques:
 
-2.4.3 En el caso de un producto compensador con mercancía en régimen fiscal de perfeccionamiento activo: DUA de importación con régimen 0151 y DUA de exportación con régimen 1051 y T2F en su caso.
+• Pesos provisionales en graneles.
 
-2.5 Consumo local.
+• Ventas en consignación.
 
-2.5.1 Mercancía vinculada al régimen aduanero de PA: DUA importación con régimen 4051.
+• Multinacionales con precios de transferencia.
 
-Si no corresponde calcular la liquidación de derechos basándose en los elementos de imposición correspondientes al momento en que incluyó la mercancía en el RPA: régimen 4051 F43 (artículo 121 y 122 del Reglamento (CEE) n.º 2913/1992, de 12 de octubre de 1992).
+• Productos donde el valor de transacción es desconocido en el momento del despacho a libre práctica.
 
-Si no corresponde aplicar intereses compensatorios: régimen 4051 F44 (artículo 589 del Reglamento (CEE) n.º 2454/1993).
+1. Ausencia del dato de peso por mercancía en granel:
 
-En la casilla 40 del DUA deberá declararse el DUA de vinculación y la fecha prevista de ultimación del régimen.
+En todos estos supuestos, el despacho de mercancías debe ajustarse a las siguientes reglas:
 
-2.5.2 Mercancía vinculada al régimen fiscal de PA: DUA importación con régimen 4051.
+a) Con carácter general, la declaración de las mercancías para un régimen aduanero debe realizarse cuando se disponga de todos los datos y documentos previstos en el artículo 162 y 163 del CAU.
 
-C.2) Exportación anticipada.
+El artículo 134.2 del CAU permite, previa autorización de la autoridad aduanera, examinar la mercancía bajo vigilancia aduanera, tomar muestras o realizar análisis para determinar su clasificación y valor.
 
-1. lnclusión en el régimen: DUA de exportación con la clave 1100 (esta clave comunitaria sustituye a la clave nacional 3200).
+Además, las actividades de análisis de mercancías, así como las actividades de pesaje, son manipulaciones usuales permitidas en depósito temporal con arreglo a lo previsto en el Anexo 71-03 del RDCAU.
 
-2. Ultimación del régimen: DUA importación con la clave 5111 o 5111 9EA, cuando estuviera pendiente la presentación del estado de liquidación.
+b) En el supuesto de que no haya instalaciones con capacidad suficiente para realizar los pesajes con la mercancía en depósito temporal o en depósito aduanero, se podrá despachar la mercancía a granel por el 95 por 100 del peso contratado en el documento de transporte, ajustando al peso real con un segundo DUA.
 
-C.3) Sistema de reintegro.
+c) También será posible la utilización de la declaración simplificada prevista en el artículo 166 del CAU. El plazo para la presentación de la declaración complementaria está establecido en el artículo 146 del RDCAU y deberá ajustarse a las siguientes condiciones:
 
-1. Inclusión en el régimen: DUA de importación con la clave de régimen 41.00. Si se trata de mercancía objeto de los Impuestos Especiales cuyo perfeccionamiento se realice en régimen suspensivo de dicho impuesto, el código de régimen será 02.
+Caso de contracción individual (régimen normal, artículo 146.1 RDCAU):
 
-2. Ultimación del régimen: DUA de exportación con la clave 1041.
+• No será necesario autorización de declaración simplificada.
 
-D) Reimportaciones de mercancía.
+• La forma de declarar será de acuerdo a lo previsto en el apartado 2.4.1 y 2.4.2 de esta Resolución.
 
-| 61 | reimportación de mercancías tras una exportación temporal o régimen de perfeccionamiento pasivo. |
-| --- | --- |
-| 63 | reimportación de mercancía tras una exportación temporal o régimen de perfeccionamiento pasivo con destino inmediato otro Estado miembro. |
+• Deberá aportarse garantía en la declaración simplificada.
 
-Para la declaración del régimen 63, deberán seguirse las mismas indicaciones que para el régimen 42 visto en el apartado A) anterior.
+• Las cantidades declaradas en el DUA simplificado serán las correspondientes a lo indicado en el título de transporte.
 
-Ambos códigos deberán ir combinados con el código de régimen precedente que corresponda (21, 22 o 23).
+• El plazo para presentar la declaración complementaria es de 10 días máximo desde el levante del DUA simplificado.
 
-Deberán tenerse en cuenta las claves adicionales previstas por la normativa comunitaria referentes a operaciones de reimportación tras un perfeccionamiento pasivo aduanero (6121 o 6321) y que están relacionadas en el Anexo XIV-B. Estas claves comienzan por el dígito B. Cabe destacar:
+Caso de contracción única:
 
-| B02 | reparaciones bajo garantía. |
-| --- | --- |
-| B03 | sustitución bajo garantía. |
-| B05 | cálculo de los derechos utilizando los costes de perfeccionamiento (art. 591 DAC). Es decir, que en vez de utilizar la regla general para el cálculo de los derechos por diferencia de cuotas correspondientes al producto compensador y a la materia prima exportada, se aplica el tipo correspondiente al producto compensador sobre el valor correspondiente a la transformación realizada en el exterior del territorio aduanero de la Unión. |
+• La forma de declarar será de acuerdo a lo previsto en el apartado 2.4.1 y 2.4.2 de esta Resolución.
 
-Asimismo deberán tenerse en cuenta las claves para solicitar la exención de IVA como puede ser:
+• Será necesario autorización de declaración simplificada de uso habitual a nombre del importador.
 
-| 105 | (Suprimido) |
-| --- | --- |
-| 104 | reimportaciones con exención de IVA, prevista en el artículo 63 de la Ley 37/1992, de 28 de diciembre. En este caso, sería 6121 B02 104, ya que la exención de IVA exige la exención de los derechos de importación que están previstos para las reparaciones en garantía. |
-| 103 | exención de IVA, artículo 27 puntos 2 a 6 y 11. Por ejemplo, mercancías que van a incorporarse en buques. |
+• Deberá contar, asimismo con autorización de contracción única (artículo 105, párrafo 2.º del CAU).
 
-E) Mercancía de retorno.
+• Deberá aportar garantía en la declaración simplificada.
 
-En los supuestos de mercancía exportada definitivamente que regrese al territorio aduanero de la Unión, acogiéndose a lo previsto en los artículos 185 a 186 del Reglamento (CEE) n.º 2913/1992, de 12 de octubre de 1992, las claves de régimen que deben ser utilizadas son las siguientes:
+• Plazo para presentar la declaración complementaria (un DUA complementario por cada declaración simplificada): plazo máximo 10 días siguientes a la finalización del mes natural dentro del cual se han presentado los DUAs simplificados.
 
-| 6110 F01 | Si no tiene derecho a exención de IVA. |
-| --- | --- |
-| 6110 F01 104 | Si tiene exención de IVA en aplicación del artículo 63 de la Ley 37/1992. |
+2. Ausencia del dato de valor.
 
-Además deberá tenerse en cuenta:
+2.1 Ventas en consignación:
 
-Casilla 1.1: IM o EU dependiendo del país de procedencia.
+Tanto en el supuesto de mercancías importadas en consignación, como en mercancías importadas por intermediarios que no las compran pero las venden, el Comité Técnico de Valoración en Aduana exige que se acuda a un método secundario de valoración.
 
-Casilla 15: el país de donde procede la mercancía.
+En aras a facilitar este proceso de valoración, la Comisión fija dos sistemas de precios para determinados productos perecederos:
 
-Casilla 16 y 34: el país comunitario origen de la mercancía.
+a) Precios unitarios. El artículo 142.6 del Reglamento de Ejecución dispone que:
 
-Casilla 36: (preferencia) deberá declararse la clave 100.
+«6. El valor en aduana de determinadas mercancías perecederas mencionadas en el anexo 23-02 importadas en el régimen comercial de la venta en consignación podrá determinarse directamente de conformidad con el artículo 74, apartado 2, letra c), del Código. Para ello, los Estados miembros notificarán los precios unitarios a la Comisión, que los dará a conocer mediante el TARIC, de conformidad con el artículo 6 del Reglamento (CEE) no 2658/87 del Consejo.
 
-Casilla 44: indicación del DUA con el que se documentó la exportación.
+Esos precios unitarios podrán utilizarse para determinar el valor en aduana de las mercancías importadas a lo largo de períodos de catorce días. Cada período dará comienzo el viernes.
 
-También deberán tenerse en cuenta otras claves comunitarias (F02, F03) para supuestos especiales de retorno: mercancía agrícola, productos compensadores, etc.
+Los precios unitarios se calcularán y notificarán de la siguiente manera:
 
-F) Retorno de productos compensadores.
+(…).»
 
-El retorno de productos compensadores está contemplado en el artículo 187 del Reglamento (CEE) n.º 2913/1992, de 12 de octubre de 1992.
+b) Precios de entrada. La nota informativa NI GA 04/2015 de 27 de mayo, relativa a la Importación de Productos Sujetos a Precio de Entrada (anexo XVI del Reglamento de Ejecución (UE) n.º 543/2011), detalla este procedimiento.
 
-F.1) Sistema de suspensión: suspensión estricta y compensación por equivalencia.
+Otros supuestos de venta en consignación: podrá utilizarse la declaración simplificada prevista en el apartado 2.4.1 y 2.4.2 de esta Resolución en aquellos casos en que pueda aportarse el valor definitivo en el plazo previsto en el artículo 146 del RDCAU.
 
-Deberán solicitarse con los códigos de régimen siguientes:
+2.2 Precios de transferencia.
 
-| 6131 F04 | Si no tiene derecho a exención de IVA. |
-| --- | --- |
-| 6131 F04 104 | Si tiene exención de IVA en aplicación del artículo 63 de la Ley 37/1992. |
+En los despachos a libre práctica donde exista vinculación entre el comprador y el vendedor, de acuerdo con la definición de vinculación contemplada en el artículo 127 del RECAU, se aplicará el valor de transacción siempre que tal vinculación no haya tenido influencia en el precio. A sensu contrario, cuando la vinculación sí hubiera afectado al precio, el declarante deberá usar métodos secundarios de valoración.
 
-En la casilla 44 debe incluirse el DUA de reexportación (N830) de la mercancía que retorna y el DUA vinculación al régimen de la materia prima (1201), la autorización de perfeccionamiento activo y el certificado de la Aduana de control justificando la situación.
+Por su parte el artículo 134 del RECAU contiene una serie de normas para determinar los supuestos en los que la vinculación no ha influido en el precio.
 
-Se liquidará conforme a las reglas del régimen de perfeccionamiento activo, incluidos los intereses compensatorios (artículo 515 del Reglamento (CEE) n.º 2454/93) correspondientes al periodo transcurrido desde que se realizó la vinculación al régimen hasta la fecha de la reexportación.
+Los grupos multinacionales que aplican una determinada política de precios de transferencia deben analizar, según las Directrices de precios de transferencias dadas por la OCDE, la plena aplicación del principio de libre competencia. Es decir, deben asegurar que sus operaciones vinculadas se valoran a precio de mercado.
 
-F.2) Exportación anticipada.
+Dado que este mismo principio de valoración es el que subyace al valor de transacción, y siguiendo la recomendación dada por la Organización Mundial de Aduanas en su «Guía sobre valoración aduanera y precios de transferencia», las autoridades aduaneras tendrá en consideración los estudios de precios de transferencia de las compañías.
 
-En este caso pueden darse dos situaciones:
+Teniendo en cuenta lo anterior, las empresas cuyas operaciones con otras con las que tengan vinculación, determinen el precio de sus transacciones, que cumpla con lo previsto en el artículo 70 del CAU, con posterioridad a la realización de las mismas, podrán:
 
-a) Que se hayan realizado importaciones beneficiándose del RPA con cargo a la exportación del producto compensador del que se solicita el retorno.
+a. Solicitar una autorización de declaración simplificada del artículo 166.2 del CAU. En dicha solicitud deberán explicar su operativa, el valor de transacción provisional que quieren utilizar, cómo lo han determinado y el plazo en el que tendrán el valor definitivo.
 
-b) Que no se hayan realizado importaciones de materia prima con cargo a dicha exportación.
+b. El solicitante deberá ser el importador.
 
-Dichas situaciones deberán acreditarse mediante el certificado del estado de liquidación de la aduana de control (código de documento 1223).
+c. La autorización, en su caso, incluirá el valor en aduana que debe incluirse en las declaraciones iniciales y el plazo para presentar la declaración complementaria, teniendo en cuenta lo previsto en el artículo 147.3 del RDCAU, así como si se autoriza que esta sea recapitulativa.
 
-Deberán solicitarse con los códigos de régimen siguientes:
+d. Las declaraciones simplificadas se presentarán de acuerdo a lo previsto en el apartado 2.4.3 y 2.4.4 de esta Resolución.
 
-a) Se han efectuado importaciones:
+2.3 Productos donde el valor de transacción es desconocido en el momento del despacho a libre práctica.
 
-| 6111 F04 | Si no tiene derecho a exención de IVA. |
-| --- | --- |
-| 6111 F04 104 | Si tiene exención de IVA en aplicación del artículo 63 de la Ley 37/1992. |
+Dentro de este grupo se encontrarían los productos con precios referenciados a mercados de futuros, con precio condicionado a los resultados de un análisis, etc.
 
-En la casilla 44 debe incluirse el DUA de exportación (N830) de la mercancía que retorna y el DUA de importación y ultimación del régimen de RPA (1201), la autorización de perfeccionamiento y el certificado de la Aduana de control justificando la situación.
+En relación con estas operaciones se procederá de la forma siguiente:
 
-Se liquidará conforme a las reglas del régimen de perfeccionamiento activo, incluidos los intereses compensatorios correspondientes al periodo transcurrido desde la fecha del DUA de importación con ultimación del régimen y la fecha de admisión de la declaración de retorno.
+2.3.1 Si el plazo para obtener la información definitiva es superior al previsto en el artículo 146 del RDCAU,
 
-b) No se han efectuado importaciones:
+a. Será necesario solicitar una autorización de declaración simplificada del artículo 166.2 del CAU. En dicha solicitud deberán explicar su operativa, el valor de transacción provisional que quieren a utilizar, cómo lo han determinado y el plazo en el que tendrán el valor definitivo.
 
-| 6111 504 | Si no tiene derecho a exención de IVA. |
-| --- | --- |
-| 6111 504 104 | Si tiene exención de IVA en aplicación del artículo 63 de la Ley 37/1992. |
+b. El solicitante deberá ser el importador.
 
-En la casilla 44 debe incluirse el DUA de exportación (N830) de la mercancía que retorna, la autorización de perfeccionamiento y el certificado de la Aduana de control justificando la situación.
+c. La autorización, en su caso, incluirá el valor en aduana que debe incluirse en las declaraciones iniciales y el plazo para presentar la declaración complementaria, teniendo en cuenta lo previsto en el artículo 147.3 del RDCAU, así como si se autoriza que esta sea recapitulativa.
 
-Se aplicará la exención por retorno de los derechos arancelarios, y en su caso, del IVA.
+d. Las declaraciones simplificadas se presentarán de acuerdo a lo previsto en el apartado 2.4.3 y 2.4.4 de esta Resolución.
 
-G) Vinculación a DDA de mercancía fuera del ámbito de los Impuestos Especiales.
+2.3.2 Si el plazo para obtener la información no es superior al previsto en el artículo 146 del RDCAU,
 
-| Descripción | Tipo | Régimen |
-| --- | --- | --- |
-| Mercancía comunitaria procedente de territorio IVA (ámbito territorial Directiva 2006/112/CE. | DVD | 73 |
-| Mercancía comunitaria procedente de fuera del territorio IVA. | DUA | 49xx 112 |
-| Mercancía no comunitaria procedente de fuera del territorio de la Unión. | DUA | 07 |
-| Reimportación de mercancía. | DUA | 61xx 112 |
-| Mercancía en RPA (materia prima modalidad exportación anticipada. | DUA | 5111 112 |
+a. No será necesaria autorización de declaración simplificada.
 
-En caso de exportación de mercancía vinculada a un DDA con el código 112, deberá declararse el régimen 1007.
+b. Se presentará una declaración siguiendo las instrucciones del apartado 2.4.1 y 2.4.2.
+
+c. Para acogerse al plazo previsto en el artículo 146.2, el importador deberá tener autorización de contracción única (artículo 105, párrafo 2.º del CAU).
+
+> Se sustituye por el que figura como anexo 3º de la Resolución de 25 de agosto de 2017, según establece su apartado primero.12. Ref. BOE-A-2017-10089
 
 > Se suprime el código 105 y se añade el código 104 al apartado D y se modifican los apartados C.3).2 y G por el apartado primero.24 a 26 de la Resolución de 14 de enero de 2016. Ref. BOE-A-2016-646

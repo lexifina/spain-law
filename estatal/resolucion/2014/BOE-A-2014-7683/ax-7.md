@@ -2,11 +2,11 @@
 
 ## Simplificaciones en los intercambios nacionales de mercancía comunitaria con las Islas Canarias
 
-A) Operaciones inferiores a 3.000 euros o transferencias dentro de una empresa.
+A) Operaciones inferiores a 6.000 euros o transferencias dentro de una empresa.
 
 No se exigirá el DUA de expedición en los intercambios comerciales de mercancía de la Unión entre la Península y Baleares con las Islas Canarias y viceversa, cuando se cumplan las condiciones siguientes:
 
-a) El valor facturado del envío, con independencia de las condiciones de entrega, no supere los 3.000 € o se trate de transferencias dentro de la misma empresa.
+a) El valor facturado del envío, con independencia de las condiciones de entrega, no supere los 6.000 € o se trate de transferencias dentro de la misma empresa.
 
 b) La mercancía se incluya en un régimen aduanero en el plazo previsto de depósito temporal.
 
@@ -69,5 +69,7 @@ En el DUA de introducción deberán incluirse los datos siguientes:
 | 1015 | «Autorización de despacho, declaración por cuenta del expedidor». |
 | --- | --- |
 | 9011 | «Solicitud de certificado de salida». |
+
+> Se incrementa de 3.000 a 6.000 € el umbral previsto en este apéndice para acogerse al sistema simplificado de intercambios nacionales con las Islas Canarias, por el apartado primero.16 de la Resolución de 25 de agosto de 2017. Ref. BOE-A-2017-10089
 
 > Se modifica el apartado A por el apartado primero.27 de la Resolución de 14 de enero de 2016. Ref. BOE-A-2016-646

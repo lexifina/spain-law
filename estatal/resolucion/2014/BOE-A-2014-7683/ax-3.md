@@ -1,85 +1,67 @@
 ## APÉNDICE XII
 
-## Despacho centralizado
+## Despacho Centralizado
 
-El artículo 201.3 del Reglamento (CEE) n.º 2454/1993 establece la posibilidad de que los Estados miembros concedan autorizaciones de despacho centralizado, entendiendo por tal la presentación de la declaración aduanera en una aduana distinta de aquella donde se encuentra la mercancía. Teniendo en cuenta la organización territorial de la AEAT, la actual situación de desarrollo informático de los procedimientos de gestión tributaria y la especial consideración de los Operadores Económicos Autorizados, se establecen las siguientes modalidades de despacho centralizado:
+El artículo 179 del CAU dispone que:
+
+«1. Previa solicitud, las autoridades aduaneras podrán autorizar a una persona a presentar en la aduana competente del lugar en el que esa persona esté establecida una declaración en aduana relativa a las mercancías que se presenten en otra aduana.
+
+Podrá eximirse del requisito de autorización que contempla el párrafo primero cuando la declaración en aduana y las mercancías se presenten en aduana bajo responsabilidad de una sola autoridad aduanera.»
+
+Haciendo uso de la habilitación legal contemplada en este párrafo segundo del artículo 179.1 CAU y siempre que la declaración en aduana sea normal (excluyéndose por tanto las declaraciones simplificadas y la inscripción en los registros del declarante), se establecen las siguientes dos modalidades de despacho centralizado dentro de España. En todo caso, esta simplificación no perjudica el uso del procedimiento normal de declaración.
 
 A) Autorización de despacho centralizado regional o provincial.
 
-Este procedimiento podrá ser también solicitado en el marco de la VEXCAN.
-
 1. Procedimiento de concesión de la autorización.
 
-1.1 Ámbito.
+Se entiende por esta autorización la que habilita a la presentación de la declaración en aduanas ante una aduana distinta de aquella donde se encuentre la mercancía, cuando ambas aduanas dependen de la misma Dependencia Regional de Aduanas.
 
-La autorización de despacho podrá tener ámbito regional o provincial, en función de las aduanas de importación/introducción y/o exportación/expedición afectadas, y la sede de la Dependencia en donde se pretenden centralizar las declaraciones de importación, dvd o exportación.
+Este procedimiento podrá ser también solicitado en el marco de la VEXCAN.
 
-1.2 Solicitud.
+Los operadores económicos que soliciten esta decisión, deberán presentarla a través de la SEDE electrónica de la Agencia Tributaria.
 
-Las personas físicas o jurídicas interesadas en esta autorización de despacho centralizado deberán solicitarlo al Jefe de la Dependencia Provincial o Regional correspondiente, especificando las Aduanas por donde van a ser introducidas o expedidas las mercancías y la sede de la Dependencia en donde se pretenden centralizar las declaraciones de importación/vinculación a depósito o de exportación.
+Por parte del interesado se indicará el lugar en donde se pretende realizar el despacho centralizado (dato XIII/4), que podrá no ser admitido por la Dependencia correspondiente cuando se perjudiquen sus funciones de control aduanero.
 
-1.3 Lugar de centralización.
+La presente autorización será concedida cuando:
 
-Por parte del interesado se indicará el lugar en donde se pretende realizar el despacho centralizado, que podrá no ser admitido por la Dependencia correspondiente cuando se perjudiquen sus funciones de control aduanero.
+a) Se cumpla el requisito previsto en el artículo 39 a) del CAU.
 
-1.4 Denegación.
+b) Las autoridades aduaneras puedan ejercer la vigilancia aduanera requerida sin verse obligadas a poner en marcha un dispositivo administrativo que sea desproporcionado respecto a las necesidades económicas correspondientes.
 
-La Dependencia competente podrá denegar la solicitud respecto de aquel operador que hubiera incumplido la normativa aduanera y/o, en su caso, no tuviera un historial satisfactorio de cumplimiento de la normativa aduanera. Del mismo modo se podrá denegar la solicitud cuando la centralización suponga un perjuicio para las Aduanas afectadas a la vista de los medios materiales y humanos de que dispongan.
-
-1.5 Autorización.
-
-Acordada la autorización por el Jefe de la Dependencia competente, se notificará al interesado, el cual por tal motivo se encontrará ante la Administración en una relación de «sujeción especial».
-
-1.6 Revocación.
-
-La autorización podrá ser revocada de oficio por el Jefe de la Dependencia que hubiera otorgado la autorización en el caso de incumplimiento de las condiciones establecidas en la misma o en el caso de incumplimiento de la normativa aduanera.
+Las declaraciones de tránsito no podrán ser objeto de despacho centralizado.
 
 2. Procedimiento de despacho.
 
 El procedimiento será válido, exclusivamente, para las declaraciones de importación, exportación y vinculación a depósito aduanero.
 
-Las declaraciones de tránsito no resultarán afectadas por este procedimiento de despacho centralizado. Por lo tanto, las declaraciones de tránsito se presentarán en la Aduana competente del lugar en el que se inicie la circulación.
+Las declaraciones aduaneras se presentarán por vía telemática con el código de aduana de centralización que se haya indicado en la autorización.
 
-Las declaraciones aduaneras se presentarán por vía telemática con el código de recinto aduanero de centralización que se haya indicado en la autorización.
+La aduana de centralización tendrá las funciones que le atribuye el artículo 179.3 del CAU y su normativa de desarrollo. Asimismo las aduanas de presentación ejercerán las funciones que el artículo 179.4 del CAU y su normativa de desarrollo les reconoce.
 
-Si la declaración es asignada a canal naranja o rojo, el interesado deberá presentar electrónicamente la documentación y certificados pertinentes siguiendo las instrucciones del apartado 6.3.3.1 relativo al despacho sobre documentación escaneada.
-
-En los casos en que fuera necesario efectuar el reconocimiento físico de la mercancía éste se realizará por el funcionario competente en el recinto aduanero en donde se encuentre la mercancía, de lo que se dejará constancia en diligencia que se comunicará a la Aduana de despacho. En caso de toma de muestras, las mismas serán extraídas por el funcionario competente de la Aduana donde se encuentre la mercancía que asimismo formalizará el boletín de análisis en la aplicación informática.
+En concreto, cuando fuera necesario efectuar el reconocimiento físico de la mercancía éste se realizará por el funcionario competente en el aduana de presentación de las mercancías, de lo que se dejará constancia en diligencia que se comunicará a la Aduana de centralización. En caso de toma de muestras, las mismas serán extraídas por el funcionario competente de la Aduana donde se encuentre la mercancía que asimismo formalizará el boletín de análisis en la aplicación informática.
 
 El declarante podrá hacerse representar en los reconocimientos físicos por cualquier persona física siempre que previamente lo haya comunicado a la Aduana centralizadora mediante el «modelo de representación ante la aduana a efectos del control físico de las mercancías al amparo de una autorización de despacho centralizado» disponible en la web de la AEAT. Las representaciones tendrán carácter indefinido hasta que no se solicite expresamente su baja.
 
-La aduana registrará en el sistema informático las representaciones mencionadas para que estén a disposición de la aduana que practique el reconocimiento físico. Una vez obtenido el levante, cualquiera que hubiera sido el circuito asignado, el interesado imprimirá el ejemplar 9 con el código de autenticación para su entrega al Resguardo del recinto público o al ADT donde se encuentre la mercancía.
+Con arreglo a lo previsto en el artículo 6 del CAU todo intercambio de información, en caso de control de la declaración, se realizará mediante técnicas de tratamiento de datos por lo que la remisión de cualquier tipo de documentación necesaria para el despacho se remitirá por medios electrónicos.
 
-B) Autorización especial de despacho centralizado nacional de importación, vinculación a depósito y exportación.
+B) Autorización de despacho centralizado nacional.
 
-Esta modalidad sólo podrá ser solicitada por personas físicas o jurídicas que sean titulares de un certificado OEA de simplificaciones aduaneras o de un certificado OEA de simplificaciones aduaneras/protección y seguridad.
+Se entiende por esta autorización la que habilita a la presentación de la declaración en aduanas ante una aduana distinta de aquella donde se encuentre la mercancía, dentro de todo el ámbito nacional (salvo Canarias, Ceuta y Melilla).
 
-3. Procedimiento de concesión de la autorización.
+Los operadores económicos que soliciten esta decisión, deberán presentarla a través de la SEDE electrónica de la Agencia Tributaria.
 
-3.1 Ámbito.
+Por parte del interesado se indicará el lugar en donde se pretende realizar el despacho centralizado (dato XIII/4), que podrá no ser admitido por el órgano competente cuando se perjudiquen las funciones de control aduanero.
 
-La autorización de despacho centralizado nacional afecta a todas las aduanas de la Península e Islas Baleares. Se excluyen las Islas Canarias debido a su diferente régimen fiscal y al acuerdo de ventanilla única con la Administración Tributaria Canaria (VEXCAN) y Ceuta y Melilla por no formar parte del territorio aduanero de la Unión.
+La presente autorización será concedida cuando:
 
-La autorización de despacho centralizado nacional es excluyente de otras autorizaciones de despacho centralizado que afecten a su ámbito de aplicación. No obstante, el operador podrá seguir presentando declaraciones aduaneras mediante el procedimiento normal.
+a) El solicitante sea un operador económico autorizado de simplificaciones aduaneras.
 
-La autorización de centralización del despacho de importación incluye la autorización de centralización de declaraciones de vinculación a depósito.
+b) Las autoridades aduaneras puedan ejercer la vigilancia aduanera requerida sin verse obligadas a poner en marcha un dispositivo administrativo que sea desproporcionado respecto a las necesidades económicas correspondientes.
 
-3.2 Solicitud.
+Las declaraciones de tránsito no podrán ser objeto de despacho centralizado.
 
-El OEA interesado deberá solicitarlo por escrito al Director del Departamento de Aduanas e Impuestos Especiales y presentarse ante la aduana solicitada como centralizadora, que remitirá dicha solicitud al Departamento junto con informe de disponibilidad de medios para gestionar la autorización solicitada.
+1. Procedimiento de despacho.
 
-3.3 Lugar de centralización.
+El procedimiento de despacho es el mismo que el descrito en el punto 2 del apartado A).
 
-La Aduana de centralización deberá pertenecer a la Dependencia Provincial donde el operador tenga su domicilio fiscal o desarrolle la mayor parte de su actividad aduanera, salvo que el Departamento de Aduanas e Impuestos Especiales, en la concesión de la autorización o en cualquier momento posterior, designe otra aduana de centralización por motivos de eficacia.
-
-3.4 Autorización.
-
-Acordada la autorización se notificará al interesado.
-
-3.5 Revocación.
-
-La revocación o la suspensión temporal del certificado OEA supondrá (implicará) la revocación o suspensión temporal de la autorización especial de despacho centralizado nacional.
-
-4 Procedimiento de despacho.
-
-El procedimiento de despacho es el mismo que el descrito en el punto 2.
+> Se sustituye por el que figura como anexo 4º de la Resolución de 25 de agosto de 2017, según establece su apartado primero.13. Ref. BOE-A-2017-10089

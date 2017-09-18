@@ -1,398 +1,158 @@
 ## APÉNDICE I
 
-## Normas de utilización del documento único en los supuestos de exportación de productos agrícolas acogidos al beneficio de las restituciones
+## Instrucciones en relación a las garantías
 
-1. Datos declarables y documentos a incorporar.
+Los artículos 89 a 100 del CAU contienen el nuevo marco legal para las garantías que pueden presentarse en la aduana para avalar la deuda aduanera. La nueva normativa supone un cambio total en la forma de gestionar dichas garantías que hace necesario que durante el periodo transitorio puedan convivir las garantías presentadas antes del 1 de mayo de 2016 (hasta que sean revaluadas por la Autoridad Aduanera) con las nuevas solicitudes presentadas por los operadores.
 
-En los supuestos de exportaciones de productos agrícolas acogidas al beneficio de las «Restituciones», se procederá como a continuación se expone:
+Como se indica, los cambios respecto al sistema anterior son significativos:
 
-1.1 Datos a declarar con carácter general.
+a) Las garantías globales requieren autorización previa.
 
-1.1.1 Datos que deben incluirse en la casilla 31 del DUA.
+b) El aplazamiento de pago por deuda real que supone tener presentada una garantía es de 10 días. Puede prorrogarse a 30 días si es expresamente autorizado a solicitud del operador.
 
-Además de los datos exigidos con carácter general, en la casilla de descripción de la mercancía, se detallará:
+c) Un aval, un seguro de caución, depósito u otro forma de garantía aportada por el interesado corresponderá a una autorización de garantía global, o a una garantía individual. Un operador podrá tener las garantías que considere necesario a su nombre y, por tanto, en una declaración aduanera podrá consignarse el número de garantías que sean necesarias para avalar la deuda aduanera.
 
-‒ Cantidad de producto que se exporta expresada en las unidades de medida en que venga definido el tipo de la restitución cuando sean distintas al peso neto.
+A. Definiciones:
 
-‒ Descripción de la mercancía de acuerdo con la nomenclatura utilizada en los Reglamentos de restituciones.
+GRN: Número de la garantía. En el supuesto de autorización de garantía global que cubran distintos regímenes o Estados miembros, habrá un GRN por cada régimen y por cada Estado.
 
-‒ Composición de las mezclas de productos de los capítulos 2, 10 y 11 de la Nomenclatura Combinada.
+Garantía individual: La constituida para una única declaración. No necesita autorización previa, sin perjuicio de la posible autorización de aplazamiento de pago, y su importe debe cubrir el 100% de la deuda correspondiente.
 
-‒ Composición del producto cuando este dato sea necesario para la determinación del tipo de la restitución.
+Garantía global: La constituida para dos o más operaciones, declaraciones o regímenes aduaneros. Requiere autorización previa.
 
-‒ Declaración del exportador acogiéndose a los beneficios de la restitución
+Deuda real: La deuda aduanera ya nacida.
 
-1.1.2 Datos que deben incluirse en la casilla 37.2.
+Deuda potencial: La deuda aduanera que pueda nacer. En el marco de las declaraciones aduaneras, la deuda potencial se refiere habitualmente a la que pueda dar lugar el incumplimiento de un régimen especial o de la autorización de un ADT.
 
-Sin perjuicio de la información incluida en la casilla 31, sólo se entenderá que existe una solicitud del beneficio de la restitución a la exportación si se incluye en la casilla 37.2 uno de los códigos comunitarios previstos para ello en el Anexo XIV (E51 a E63).
+Deuda real sin determinar: Deuda aduanera ya nacida pero de la que se desconoce el importe, por ejemplo, la nacida por un despacho a libre práctica pendiente de aportar el certificado de origen la que pueda derivarse de una comprobación.
 
-1.1.3 Datos que deben incluirse en la casilla 44 del DUA.
+Importe de referencia: Importe de deuda cubierta por la garantía. No tiene por qué coincidir con el importe del aval/depósito/certificado de seguro de caución a aportar en aquéllos casos en que el operador pueda beneficiarse de reducciones en el nivel de garantía.
 
-Además de los datos exigidos con carácter general, se harán constar en esta casilla (indicaciones especiales, documentos presentados, etc.) las siguientes indicaciones:
+B. Autorización de garantía global:
 
-a) El importe de la restitución solicitada mediante la utilización del código de documento 7001 con el importe de la restitución.
+En aquéllos casos en que el interesado desee que una garantía se refiera a dos o más operaciones, declaraciones o regímenes aduaneros, podrá solicitar la autorización de una garantía global para cuya tramitación se verificará el cumplimiento de las condiciones previstas en el artículo 95 del citado Reglamento:
 
-b) El tipo de la restitución de la forma siguiente:
+a) Estar establecidas en el territorio aduanero de la Unión,
 
-‒ Se incluirá el código Y913, con el tipo de la restitución expresado con 5 dígitos (2 enteros y 3 decimales), por la unidad de medida en la que venga determinada la restitución.
+b) Cumplir los criterios establecidos en el artículo 39, letra a),
 
-El tipo de restitución en euros por unidad del producto es el correspondiente a la fecha de la fijación anticipada o, en caso de no haberse fijado por anticipado, el que se haya determinado sobre la base de restituciones anteriores de los mismos productos (artículo 9 Reglamento (CE) n.º 612/2009).
+c) Utilizar habitualmente los regímenes aduaneros de que se trate o ser operadores de instalaciones de depósito temporal o cumplir los criterios establecidos en el artículo 39, letra d).
 
-‒ Si el importe de la restitución solicitada es inferior a 1000 euros y se opta por indicar la mención a que hace referencia el apartado tercero del artículo 9 del Reglamento (CE) n.º 612/2009, «restitución inferior a 1000 euros», se incluirá el código Y914, junto con el literal de dicha mención.
+El operador que desee solicitar una autorización de garantía global ante las autoridades españolas deberá utilizar el formulario disponible a estos efectos en la Sede Electrónica de la AEAT.
 
-Cuando se trate de productos PAT con varias mercancías de base con derecho a restitución, deberán incluirse tantos documentos Y913 o Y914 como mercancías de base.
+El importe de referencia de la garantía global se fijará por las autoridades aduaneras, partiendo del importe de referencia propuesto por el operador en su solicitud de garantía global, de conformidad con el artículo 155 del RECAU.
 
-c) En las exportaciones de productos agrícolas transformados que se efectúen con certificado de restitución «mercancías no incluidas en el Anexo l» expedidos en euros (Reglamento (UE) n.º 578/2010 de la Comisión, de 29 de junio, se indicará en la casilla 44 la mención «9005» y el número de certificado (no exigible el certificado por la Aduana para realizar la exportación).
+Una vez autorizada la garantía global, en aplicación del artículo 156 del RECAU, el operador tiene la obligación de asegurarse de que el importe de los derechos correspondientes a la deuda aduanera y otros gravámenes cubiertos por la garantía global exigibles o que pueda llegar a serlo, no supera en ningún momento el importe de referencia. Deberá disponer de un registro electrónico que le permita efectuar este control y hacer una referencia al tipo de registro y su funcionamiento en la casilla 8/2 de la solicitud de garantía global.
 
-d) En todos aquellos casos en los que no sea necesario un certificado de exportación con fijación anticipada de la restitución, se indicará «mercancía acogida a restitución sin certificado de exportación, artículo 4 Reglamento (CE) n.º 612/2009» haciendo constar el caso concreto a que corresponden (Anexo II del Reglamento (CE) n.º 376/08, avituallamiento, etc.).
+Es posible autorizar garantías globales por importe reducido o con dispensa en función del tipo de deuda aduanera y de los requisitos que cumpla el operador interesado:
 
-La presentación e imputación de los certificados se realizará ante el Fondo Español de Garantía Agraria (FEGA), al no ser de aplicación el artículo 24 del Reglamento (CE) n.º 376/2008, de la Comisión, de 9 de junio de 2000.
+– Garantía para deuda existente o real: de acuerdo con el artículo 95.3. del CAU así como con el artículo 158.2.del RECAU, se podrá autorizar, previa solicitud, a un operador económico autorizado de simplificaciones aduaneras a utilizar una garantía global con una reducción al 30% del importe de referencia determinado
 
-Con los DUAS que se remitan decenalmente al Fondo Español de Garantía Agraria (FEGA), deberá acompañarse una fotocopia de los certificados consignados en la casilla 44, al objeto de que por este Organismo se puedan efectuar las comprobaciones necesarias para el pago de la restitución solicitada.
+– Garantía para deuda que pueda nacer o potencial: de acuerdo con el artículo 95.2. del CAU, así como con el artículo 158.1 del RECAU, se podrá autorizar a un operador económico a utilizar una garantía global con una reducción al 50%, 30% o 0% del importe de referencia determinado, en la medida en que se cumplan las condiciones previstas en el los apartados 1, 2 y 3 del artículo 84 del RDCAU.
 
-1.2 Datos a declarar en casos especiales.
+El mismo régimen de reducciones se aplicará en lo relativo a la parte de la garantía global que se refiera a otros gravámenes tales como IVA o Impuestos Especiales. Los sujetos pasivos que ingresen las cuotas de IVA de importación según lo dispuesto en al segundo párrafo del artículo 167.Dos de la Ley del IVA (IVA diferido) no tendrán que incluir en el cálculo de los importes de referencia las cantidades correspondientes al Impuesto sobre el Valor Añadido, salvo que la garantía vaya a ser utilizada en el régimen de tránsito de la Unión o bien, pueda ser empleada en más de un Estado miembro.
 
-1.2.1 Animales vivos de la especie bovina.
+La garantía individual no puede ser objeto de reducción de ningún tipo.
 
-Restituciones reguladas por el Reglamento (UE) n.º 817/2010 de la Comisión, de 16 de septiembre de 2010.
+C. Finalidades de una garantía global:
 
-Las exportaciones de animales vivos de la especie bovina de código NC 0102, deberán ir acompañadas de un certificado expedido por el veterinario oficial del punto de salida en el que debe figurar la diligencia «Resultados de los controles de conformidad con el artículo 2 del Reglamento (UE) n.º 817/2010, satisfactorios», el número total de animales en relación con los cuales se haya aceptado una declaración de exportación una vez realizadas las deducciones establecidas en el artículo 2.4, del citado Reglamento y el número de DUA al que debe imputarse dicha certificación.
+De acuerdo con las especificaciones que establece la normativa vigente, es necesario indicar en la solicitud de garantía global cuáles son las finalidades para las que se pretende utilizar dicha garantía, así como indicar el importe de referencia correspondiente a cada una de ellas y el nivel de garantía que le correspondería (100, 50%, 30% o 0% según el caso).
 
-1.2.2 Carnes de bovino.
+Los códigos de finalidades previstas se incluyen en el apartado D de este Apéndice.
 
-1.2.2.1 Restituciones reguladas por el Reglamento (CE) n.º 433/2007 de la Comisión (carnes de bovinos pesados machos de más de 300 Kgs.)
+Es importante tener en cuenta, que al seleccionar el nivel de garantía en la solicitud de garantía global, el operador está igualmente indicando si esa garantía cubrirá una deuda real o una deuda de tipo potencial. Determinados regímenes pueden ser susceptibles de generar tanto deuda real como potencial (por ejemplo, el destino final o el perfeccionamiento activo), por lo que debe prestarse especial atención a este punto ya que el DUA validará la coincidencia entre el tipo de deuda y el tipo de garantía de que se trate.
 
-La admisión de los códigos de restituciones seguidamente indicados está supeditada a la presentación, en unión de la declaración de exportación ‒DUA‒, de un certificado (original y copia), según modelo que figura como DOC-1 del Anexo XVI de esta Resolución, expedido por la Delegación o Subdelegación del Gobierno (Director o Jefe del Área Funcional de Agricultura) de la provincia donde radique el matadero en el cual van a sacrificarse los animales. De la incorporación de dicho certificado se dejará constancia en la casilla 44 del Documento.
+D. Identificación de las garantías:
 
-| 0201.10.00.9110 |  | 0201.20.30.9110 |
-| --- | --- | --- |
-| 0201.10.00.9130 |  | 0201.20.50.9110 |
-| 0201.20.20.9110 |  | 0201.20.50.9130 |
+Durante el periodo transitorio previsto para la revaluación de las autorizaciones previas al CAU y la adaptación de los programas informáticos convivirá el sistema de garantías autorizadas antes del 1 de mayo de 2016 con las autorizadas con posterioridad a esa fecha.
 
-Una vez efectuado el despacho de la mercancía, se visará por la Aduana el original del certificado para su unión al certificado que se expide a efectos de restitución. En la declaración quedará unida una copia.
+Debe tenerse en cuenta:
 
-1.2.2.2 Restituciones reguladas por el Reglamento (CE) n.º 1359/2007 de la Comisión (carnes deshuesadas de bovinos pesados machos).
+• Para poder incluir una garantía registrada con GRN es necesario que la versión del mensaje electrónico del DUA de importación este adaptada a la versión ICS006. Esta versión admite los dos formatos de garantía.
 
-La admisión de los códigos de restituciones 0201.30.00.9100 y 0201.30.00.9120, está supeditada a la presentación, en unión del DUA de exportación, de un certificado (original y copia), conforme a los modelos que figuran como DOC-2 y DOC-3 del Anexo XVI de esta Resolución, según se trate de cuartos delanteros o cuartos traseros machos, cumplimentado por el operador económico, numerado, sellado, fechado y firmado en la Jefatura Provincial del FEGA donde radique la sala de despiece en la que se va a realizar la operación de deshuesado. Asimismo, se acompañará junto con estos modelos copia del correspondiente certificado según modelo 1 del Reglamento (CE) n.º 433/07, previo a la operación de deshuesar los cuartos delanteros o de deshuesar los cuartos traseros procedentes de bovinos pesados machos. De la incorporación de los certificados de los Reglamentos (CE) n.º 433/2007 y n.º 1359/2007 se dejará constancia en la casilla 44 del DUA reseñando sus números y fechas de emisión.
+• En una misma declaración no es posible declarar una garantía anterior al CAU con garantías ya con GRN.
 
-Efectuado el despacho, la Aduana realizará las imputaciones correspondientes en las casillas 10 y 11 del Certificado que será unido al certificado a efectos de restitución. En el supuesto de certificados con saldo pendiente, los ejemplares se devolverán al interesado para posibilitar su posterior utilización, quedando unida, en este caso al DUA de exportación, fotocopia del certificado diligenciada.
+1. Identificación de garantías autorizadas de acuerdo con el CAU.
 
-En el caso de que se declaren los códigos de restituciones mencionados en este epígrafe 1.2.1.1 y no se presente el certificado correspondiente, el funcionario actuario deberá proceder al cambio del código como resultado del despacho.
+Las garantías se identificarán en las declaraciones aduaneras mediante su GRN, cuya estructura (17 dígitos) es la siguiente:
 
-1.2.2.3 Exportación de carnes deshuesadas previamente incluidas en el régimen de depósito aduanero reguladas por el Reglamento (CE) n.º 1741/06 de la Comisión, en el que se establecen las condiciones de concesión de la restitución.
+• Dos últimos dígitos del año en curso.
 
-La declaración de entrada en almacenamiento debe incluir la denominación de los productos según el código de la nomenclatura de restituciones a la exportación, su peso neto y todos los datos necesarios para la identificación precisa de las carnes y los lugares donde se almacenarán hasta su exportación. Igualmente deben incluirse la fecha de la aceptación de entrada y los números de certificación/es de las carnes deshuesadas de bovino pesado macho que deben acompañar a las carnes, así como un vínculo con el número de cajas por tipo de cortes, la identificación y el peso de dichas carnes.
+• Dos dígitos del Estado miembro (código ISO Alpha 2).
 
-La fecha de aceptación de la declaración de entrada, su número y el peso de las carnes se reseñarán inmediatamente en las casillas 10 y 11 de la/s certificación/es de las carnes deshuesadas.
+El contenido de los 13 dígitos siguientes lo decide cada Estado miembro y en el caso de España es el siguiente:
 
-La declaración de entrada debe presentarse acompañada de la/s certificación/es de carne deshuesada y del ejemplar número 1 del certificado de exportación válido.
+• Dígito para diferenciar la Administración: A para la AEAT y C para la Administración Tributaria Canaria.
 
-1.2.3 Carnes de porcino.
+• Tipo de garantía: G para las globales, I para las individuales y R para garantías de recursos de reposición.
 
-Restituciones reguladas por el Reglamento (CE) n.º 903/2008 de la Comisión, de 17 de septiembre de 2008, para determinados productos del sector de la carne de porcino.
+• Finalidad (régimen) para la que se ha autorizado la garantía:
 
-En las exportaciones de productos correspondientes a los códigos de restitución:
+| Valor | Finalidad |
+| --- | --- |
+| L | Libre práctica. Deuda real de los regímenes 01 07 40 42 44* 48 49 51 53 61 63. |
+| P | Potencial régimen 44.* |
+| Q | Potencial régimen 48. |
+| R | Potencial régimen 51. Incluye el RPA fiscal. |
+| S | Potencial régimen 53. Incluye el IT fiscal. |
+| T | Potencial régimen 71. |
+| D | Potencial Depósito Distinto del Aduanero. |
+| W | Potencial Depósito Temporal. |
 
-| 160100919120 |  | 160241109130 |
-| --- | --- | --- |
-| 160100919190 |  | 160242109110 |
-| 160100999110 |  | 160242109130 |
-| 160100999190 |  | 160249199130 |
-| 160241109110 |  |  |
+* El código 44 (régimen de Destino Final). Este código no se utilizará hasta que este adaptado el mensaje de la declaración de importación al CAU. Hasta entonces en el DUA seguirá utilizándose los códigos correspondientes de la casilla 36.
 
-Para acogerse a los beneficios de la restitución, deberá consignarse en la casilla no 44 del DUA, además de los datos generales a que se refiere el apartado 1.1 la expresión «mercancías conformes al Reglamento (CE) 903/2008», con el código 9006.
+• Código de la Aduana contable de registro de la garantía (3 dígitos).
 
-1.2.4 Productos transformados no incluidos en el Anexo I del Tratado de Roma (artículos de confitería sin cacao, chocolate, limonadas, vermuts... a que se refiere el Reglamento (UE) n.º 578/2010 de la Comisión, de 29 de junio.
+• Número (6 dígitos).
 
-Se procederá como se expresa:
+• Dígito de control.
 
-1.2.4.1 Exportaciones de mercancías comprendidas en el anexo II del Reglamento n.º 578/2010 (chicle, chocolate, helados, productos de panadería...). A efectos de declarar la composición de dichas mercancías deberá presentarse, en unión del DUA de exportación, original y copia de una «Hoja de Detalle», según modelo que figura al final de este Apéndice.
+2. Identificación de garantías previas al CAU.
 
-Efectuado el despacho, el original de la «Hoja de Detalle» quedará en poder de la Aduana para su unión al certificado de restitución.
+Deberá identificarse la garantía mediante el n.º de registro dado por la Aduana correspondiente que tendrá la siguiente estructura (16 dígitos):
 
-Asimismo deberá presentarse en unión del DUA de exportación, la factura comercial.
+• Código de la Aduana contable de registro (3 dígitos)
 
-En el caso de utilización del procedimiento de declaración previa de la fórmula de fabricación establecido en el artículo 10.4 del Reglamento (UE) n.º 578/2010, el exportador hará constar, en la casilla 31 del DUA, el número de identificación dado a la mercancía en la correspondiente autorización. Si se utilizara mantequilla a precio reducido según lo dispuesto en el Reglamento (CE) n.º 1898/2005, a este número se añadirá la letra «R».
+• Tipo (1 dígito):
 
-En este caso, si han sido utilizados productos despachados a libre práctica en la Comunidad, deberá declararse el origen de los mismos.
+O: (Por operación), si se trata de una garantía por una única operación,
 
-En virtud de lo establecido en el artículo 49 del Reglamento (UE) n.º 578/2010, para las mercancías incluidas en los códigos 04052010, 04052030, 18069060 a 18069090, en el código 1901 y en el código 21069098 de la Nomenclatura Combinada que tengan un contenido de 51 kilogramos o más de productos lácteos de los códigos 04021019, 04022119, 040500 y 0406 por cada 100 kilogramos de producto exportado, la parte interesada deberá declarar en la hoja de detalle:
+G: (Global), si se trata de una garantía que cubre un número indeterminado de operaciones dentro de un periodo determinado,
 
-‒ que ninguna de las cantidades de productos lácteos contenidos han sido importados de países terceros al amparo de acuerdos que prevén un arancel reducido, o
+N: (Sin garantía) dispensa de garantía expresamente autorizada al importador para un régimen suspensivo u otro tipo de pendencia específica.
 
-‒ que las cantidades de productos lácteos han sido importadas de países terceros al amparo de acuerdos especiales que prevén un arancel reducido.
+• Año (1 dígito): último dígito del año en que se registró la garantía.
 
-1.2.4.2 Exportaciones de mercancías comprendidas en el Anexo III del Reglamento (UE) n.º 578/2010 (pastas alimenticias, cervezas, antibióticos...).
+• Número: Número de registro de la garantía si es por operación o NIF o código del Agente si es global.
 
-Para estos productos no es necesaria la especificación de su composición, pero deberán declararse, en la casilla 31, los componentes y, en su caso, las cantidades y las menciones necesarias en los supuestos en que las notas a pie de página del citado anexo los soliciten, imprescindibles para realizar los ajustes necesarios de los porcentajes de productos de base fijados en dicho Anexo III.
+• Código identificativo:
 
-Para las exportaciones a los Estado Unidos de América de pastas alimenticias de los códigos N.C. 1902.11.00, 1902.19.10 y 1902.19.90, el operador económico deberá presentar en la Aduana, en unión del DUA, el certificado P.2 para su visado según modelo que figura como DOC-4 del Anexo XVI de esta Resolución (Reglamento (CE) n.º 88/2007), indicando en la casilla 44 del DUA, el número de orden y la fecha de expedición del mismo.
+L: Garantía de carácter general. Puede utilizarse para toda deuda a que dé lugar un DUA.
 
-1.2.5 Leche y productos lácteos.
+P: Garantía para pendencias. Sólo podrá utilizarse para avalar la deuda suspendida de declaraciones con pendencias. Se utilizará esta misma clave para el registro de garantías presentadas a la ATC con esta finalidad.
 
-En la casilla 31 del DUA se deberá consignar la composición del producto exportado y, en especial, los datos que se exigen para cada caso en los Reglamentos de la Unión Europea de aplicación, así como los productos indicados en las distintas notas a pie de página del Reglamento (CEE) n.º 3846/1987, en los productos afectados por las mismas.
+F: Únicamente para despachos de importación temporal en el supuesto de que un tercero, el organizador de una feria, exposición etc., garantice los despachos de importación temporal de los participantes en la misma.
 
-En la mayor parte de los productos de código NC 0406 (quesos y requesón), deberán declararse, igualmente, los porcentajes máximo de agua en relación al peso del producto y mínimo de materias grasas en la materia seca. Igualmente deberá declararse en la casilla 31 el origen de la sacarosa añadida a los productos lácteos azucarados.
+D: Garantía global para el procedimiento simplificado de domiciliación.
 
-1.2.6 Sector de los huevos.
+I: Garantía global para cubrir las deudas aduaneras y fiscales de declarantes representados bajo modalidad de representación directa.
 
-En lo que se refiere a los huevos para incubar de los códigos NC 04070011 y 04070019, los operadores declararán, al efectuar los trámites aduaneros de exportación, que tienen la intención de solicitar la restitución a la exportación, tal y como se establece en el artículo 8 del Reglamento (UE) n.º 1178/2010 de la Comisión, de 13 de diciembre de 2010.
+H: Garantía global para cubrir las deudas aduaneras y fiscales de los declarantes representados bajo cualquier modalidad.
 
-1.2.7 Sector de la carne de aves de corral.
+C: Garantía presentada ante la Agencia Tributaria Canaria.
 
-En cuanto a los pollitos de los códigos NC 010511, 010512 y 010519, los operadores declararán, en el momento en que se lleven a cabo las formalidades aduaneras de exportación, que tienen la intención de solicitar la restitución por exportación de acuerdo con el procedimiento previsto en el artículo 8 del Reglamento (UE) n.º 90/2011 de la Comisión, de 3 de febrero de 2011.
+En el caso de garantías previas al CAU, sólo es posible declarar una única garantía en la declaración aduanera, salvo que el DUA tenga deuda real y real sin determinar o potencial en los que podrá declararse dos garantías. En este caso:
 
-1.2.8 Sector del azúcar.
+• Si no se consigna otra garantía distinta a la correspondiente a la modalidad de pago declarada en la casilla 47, se tomará ésta.
 
-Se estará a lo dispuesto en el Reglamento (CE) n.º 1234/2007 del Consejo, de 22 de octubre de 2007 y en el Reglamento (CE) n.º 951/2006 de la Comisión, de 30 de junio de 2006.
+• Podrá estar una a nombre del destinatario (casilla 8) y la otra a nombre del representante (casilla 14).
 
-2. Prueba acreditativa de la exportación.
+• Si la garantía declarada por deuda suspendida no tuviera saldo suficiente y:
 
-2.1 Principio.
+– El titular de ambas garantías es la misma persona, se retendrá la totalidad de las cantidades resultantes del despacho, de la garantía correspondiente a la modalidad de pago declarada (casilla 47);
 
-El pago de la restitución está supeditado al cumplimiento de las formalidades aduaneras de exportación y a que la mercancía haya salido del territorio aduanero de la Unión en el plazo de los sesenta días siguientes al de la admisión del DUA por la aduana de exportación, en el mismo estado en que fue despachada.
+– Corresponde a titular distinto, se rechazará el DUA.
 
-2.2 Certificado de la declaración de exportación.
+• En caso de que se declaren dos garantías y sea necesario identificar ambas en esta casilla, se pondrán en líneas separadas. La primera se corresponderá con la modalidad de pago declarada en el casilla 47.
 
-El documento para justificar el cumplimiento de las condiciones mencionadas en el apartado anterior ante el Fondo Español de Garantía Agraria (FEGA) o ante el Fondo de Regulación y Ordenación del Mercado de Productos Marinos (FROMPM) consistirá en una fotocopia diligenciada del ejemplar para la Aduana del DUA (ejemplar n.º 1). La diligencia se extenderá en el dorso de la fotocopia según el modelo que figura como CERT-I de este Apéndice.
-
-De la expedición de la fotocopia diligenciada se dejará constancia en el ejemplar para la Aduana del DUA.
-
-La declaración por parte del operador económico, en las casillas correspondientes del DUA (31 y 37), de acogerse al beneficio de la restitución, servirá de solicitud del certificado de restitución que será expedido incluso en los casos en que se observe la omisión de alguno de los datos indicados en el apartado primero del presente Apéndice. Salvo que se reciba criterio favorable previamente por este Departamento, no se expedirán cuando el exportador no hubiera declarado acogerse al beneficio de la restitución. A tal fin, la instrucción que dicte este Departamento no será vinculante y contra la resolución de la Aduana procederá recurso de alzada ante el Delegado de la A.E.A.T.
-
-En todos los casos en los que se hayan obtenido muestras para análisis será indicado de forma visible en el certificado expedido haciéndose constar la partida de orden a que se refiere.
-
-2.3 Modalidades de salida de la mercancía.
-
-2.3.1 Salidas directas del territorio aduanero de la Unión.
-
-Cuando la salida del territorio aduanero de la Unión se efectúe por la Aduana de exportación, se podrá diligenciar, una vez se tenga constancia de la salida efectiva de la mercancía mediante diligencia del Resguardo en la que conste la fecha en que se produjo dicha salida, la fotocopia del ejemplar para la Aduana que servirá para tramitar la correspondiente solicitud de restitución.
-
-2.3.2 Salidas indirectas (salida efectiva por una Aduana, Aduana de salida, distinta de la Aduana de exportación).
-
-En este caso se precisa la expedición del documento de control T-5 para asegurar la salida efectiva de la mercancía. El operador lo presentará junto con la exportación debidamente cumplimentado. En la casilla B, en «A devolver», deberá incluir la siguiente dirección:
-
-Fondo Español de Garantía Agraria (FEGA).
-
-Calle Beneficencia, n.º 8.
-
-28004 Madrid (España).
-
-Si el transporte se realiza por vía aérea y se efectúa un transbordo en un aeropuerto comunitario, no será necesaria la expedición del documento de control T-5, pero sí lo será de un T1 o documento equivalente.
-
-Si el transporte se realiza por vía marítima por un servicio regular autorizado (artículo 313 bis del Reglamento (CEE) n.º 2454/93) y debe transbordar en un puerto comunitario, la mercancía deberá ir amparada en un T1.
-
-Cuando el transporte de la mercancía se inicie en una estación comunitaria y termine en una estación de un país tercero y se ampare mediante tránsito comunitario simplificado por ferrocarril (Reglamento (CEE) n.º 1062/87), no será preciso la expedición del T-5 siempre que en la casilla n.º 44 (indicaciones especiales) del DUA se haya hecho constar el siguiente texto:
-
-«Salida del territorio aduanero de la Unión bajo el régimen de tránsito comunitario simplificado por ferrocarril o en grandes contenedores.»
-
-La Aduana de exportación, al realizar el despacho de la mercancía, deberá comprobar que se ha referenciado el documento T-5 en la casilla 44 del DUA. Efectuado el despacho de la mercancía, se diligenciará la fotocopia del ejemplar 1 (ver modelo CERT-I). Esta certificación servirá para tramitar la correspondiente solicitud de restitución, una vez se tenga constancia de la salida de la mercancía.
-
-Cuando la Aduana de exportación tenga conocimiento de que la mercancía no ha salido del territorio aduanero de la Unión en los plazos previstos, se comunicará tal hecho al FEGA, remitiéndose copia del oficio a la Subdirección General de Inspección e Investigación de este Departamento.
-
-2.4 Duplicados de certificados de la declaración de exportación.
-
-En el caso de pérdida o extravío de la fotocopia diligenciada del ejemplar para la Aduana del DUA, a solicitud escrita del interesado, se podrá expedir un duplicado haciéndose constar este carácter en el anverso del documento que se expide y anotando su expedición en el ejemplar del DUA existente en la Aduana.
-
-3. Operaciones asimiladas a una exportación a los efectos del beneficio de la restitución.
-
-3.1 Operaciones de aprovisionamiento.
-
-3.1.1 Principio.
-
-Se asimilarán a exportaciones, a los efectos de los beneficios de restitución, las entregas para avituallamiento en la Unión Europea de:
-
-‒ Los buques destinados a la navegación marítima;
-
-‒ las aeronaves que sirvan las líneas internacionales incluidas las intracomunitarias, y
-
-‒ los buques y las aeronaves que sirvan líneas con Ceuta y Melilla.
-
-El concepto de navegación marítima incluye los buques que se dedican a la navegación tanto internacional como intracomunitaria, comprendiendo esta última la navegación de cabotaje efectuada en el mismo Estado miembro y la pesca de bajura.
-
-3.1.2 Formalidades.
-
-Para tener derecho a restitución se deberá formalizar el correspondiente DUA completo o simplificado según proceda.
-
-El documento que debe remitirse al FEGA, a los efectos del cobro de la restitución, consistirá en una fotocopia diligenciada del ejemplar para la Aduana del DUA. La diligencia se extenderá en el dorso de la citada fotocopia, según el modelo que figura como CERT-5 de este Apéndice.
-
-3.1.2.1 Con carácter general.
-
-a) Cuando el embarque se realice en la Aduana de exportación, se estará a lo establecido en el punto 2.3.1.
-
-b) Si el embarque se produce en una Aduana distinta de la de exportación, se estará a lo establecido en el punto 2.3.2., consignándose en la casilla 104 la mención siguiente:
-
-«Suministros para abastecimiento. Reglamento (CEE) n.º 612/2009.»
-
-3.1.2.2 En el caso de avituallamiento de buques dedicados a la navegación de cabotaje y pesca de bajura:
-
-a) En la casilla 31 del DUA se hará constar, además de los datos exigidos con carácter general, la mención siguiente:
-
-«Operación no exenta de IVA e Impuestos Especiales.»
-
-b) La diligencia que se extenderá al dorso de la fotocopia del ejemplar para la aduana del DUA, será la que figura como CERT-3.
-
-3.2 Entregas a organizaciones internacionales establecidas en un territorio de la comunidad.
-
-3.2.1 Principio.
-
-Tienen derecho al beneficio de la restitución para productos agrícolas los suministros a Organizaciones Internacionales situadas en un Estado miembro.
-
-3.2.2 Formalidades.
-
-3.2.2.1 Situadas en la demarcación geográfica de la Aduana de exportación.
-
-Toda operación para la que se solicite el beneficio de una restitución deberá documentarse con DUA. El justificante ante el FECA del destino final de la operación consistirá en fotocopia diligenciada del ejemplar para la Aduana de dicho documento. La Aduana no diligenciará esta fotocopia hasta que no se compruebe el destino efectivo de la mercancía, para lo cual el interesado deberá presentar una factura firmada y sellada, con el correspondiente recibí de conformidad, por la autoridad del Organismo Internacional encargada de recibir estos envíos.
-
-3.2.2.2 Situadas en la demarcación geográfica de otra Aduana comunitaria.
-
-Una vez efectuado el despacho de la mercancía para el que se deberá presentar, además de una declaración de exportación + tránsito (T1), el documento de control T5, será diligenciada la fotocopia del ejemplar para la Aduana del DUA que servirá para tramitar la correspondiente solicitud de restitución. En la casilla 104 del T5 se hará constar:
-
-«Suministros a (nombre de la Organización Internacional) Reglamento (CEE) n.º 612/2009.»
-
-3.3 Entregas a fuerzas armadas.
-
-3.3.1 Principio.
-
-Tienen derecho al beneficio de la restitución las entregas a fuerzas armadas estacionadas en el territorio de un Estado miembro y que no estén bajo su bandera.
-
-3.3.2 Formalidades.
-
-Se seguirá el procedimiento indicado en el apartado 3.2.2, anterior, excepto cuando sea necesario expedir un documento T-5 en cuyo caso se hará constar, en su casilla n.º 104, la mención siguiente:
-
-«Suministros a FF.AA. Reglamento 612/2009.»
-
-3.4 Entregas a plataformas marinas.
-
-3.4.1 Principio.
-
-Tienen derecho al beneficio de la restitución las operaciones de avituallamiento de las plataformas de sondeo o explotación, incluidas las estructuras auxiliares que prestan apoyo a tales operaciones, situadas en la plataforma continental europea, o en la plataforma continental de la parte no europea de la Comunidad, pero más allá de una zona de 3 millas a partir de la línea de base que sirva para medir la anchura del mar territorial de un Estado miembro.
-
-3.4.2 Formalidades.
-
-Toda operación de avituallamiento de plataformas marinas para la que se soliciten los beneficios de la restitución se documentará mediante el correspondiente DUA.
-
-La fotocopia del ejemplar para la Aduana del DUA no será diligenciada hasta que no se presente un certificado de la recepción a bordo de las provisiones firmado por la persona responsable de los aprovisionamientos de la plataforma.
-
-En el supuesto de expedición de un T5 porque la aduana de salida sea distinta de la aduana de exportación, en su casilla 104 se consignará el siguiente texto:
-
-«Suministro para abastecimiento de plataformas. Reglamento (CEE) n.º 612/2009.»
-
-El exportador y el propietario del buque o helicóptero avituallador, deberán llevar un libro registro donde anotarán, por cada operación, las cantidades de productos de cada sector que se entreguen a las plataformas y que se acojan a los beneficios de la restitución.
-
-Los Servicios de Aduanas podrán revisar los libros registros citados.
-
-3.5 Entregas a barcos de guerra.
-
-3.5.1 Principio.
-
-Tienen derecho al beneficio de la restitución los envíos a buques militares y buques auxiliares situados en alta mar que lleven el pabellón de un Estado de la Unión Europea.
-
-3.5.2 Formalidades.
-
-Se deberá presentar el correspondiente DUA. La fotocopia del ejemplar para la Aduana del DUA se diligenciará tan pronto como la Aduana haya recibido el certificado de recepción de las provisiones firmado por la autoridad militar competente.
-
-4. Restituciones anticipadas.
-
-4.1 Principio.
-
-Una vez que el DUA haya sido admitido por los Servicios de Aduanas, el interesado puede obtener del Organismo Interventor (FEGA) el pago de la restitución antes de que se hayan cumplido todas las condiciones o requisitos necesarios para tener el derecho al cobro de la misma.
-
-En consecuencia, en el supuesto planteado, han de distinguirse dos momentos, el del cumplimiento de las formalidades aduaneras de exportación, que permite el cobro anticipado de la restitución, y el de la salida del territorio aduanero de la Unión, exigido para tener derecho a la Restitución.
-
-4.2 Certificado de la admisión de la declaración por los servicios de aduanas.
-
-Una vez registrado el DUA y a solicitud del interesado, podrá expedirse fotocopia diligenciada del ejemplar para la Aduana del documento, a los efectos de justificar ante el FEGA la admisión de la declaración con objeto del cobro, por el exportador, de la restitución anticipada. La diligencia certificatoria se extenderá según modelo que figura como CERT-2 del presente Apéndice.
-
-4.3 Formalidades.
-
-Para justificar la exportación de las mercancías se seguirá el procedimiento general del apartado 2.
-
-5. Almacenes de avituallamiento.
-
-Los Estados miembros podrán anticipar al exportador el importe de la restitución cuando se aporte la prueba de que los productos han sido depositados, en un plazo de treinta días a partir de la aceptación de la declaración de exportación, en locales sometidos a control aduanero, para el avituallamiento en la Comunidad:
-
-‒ de buques destinados a la navegación marítima, o
-
-‒ de aeronaves que cubran líneas internacionales incluidas las intracomunitarias, o
-
-‒ de plataformas de perforación o explotación.
-
-La autorización de almacén de avituallamiento será concedida por la Aduana en cuya demarcación se encuentre situado el almacén para el que se solicita dicha autorización, de conformidad con lo establecido en la Instrucción 28/97 del Departamento de Aduanas e Impuestos Especiales, y podrá ser revocada cuando no se cumplan los requisitos establecidos en los artículos 37 a 40 del Reglamento (CE) 612/2009. Tanto las autorizaciones como las revocaciones deberán ser comunicadas al Departamento de Aduanas e Impuestos Especiales.
-
-El periodo de permanencia de las mercancías en los almacenes es ilimitado. La Aduana procederá al menos una vez al año a un control físico de los productos depositados en dicho almacén. En caso de comprobarse que los mismos no han recibido el destino previsto se procederá a la liquidación de los derechos correspondientes incrementados en un 20%.
-
-La diligencia certificatoria que figura al reverso de la fotocopia del ejemplar del DUA para la Aduana, se extenderá en el modelo que figura como CERT-4.
-
-La salida de mercancía de un almacén de avituallamiento con destino a otro almacén de avituallamiento, se efectuará mediante el documento de control T-5.
-
-6. Envíos a Ceuta y Melilla.
-
-En caso de envíos a Ceuta y Melilla de mercancías con tipos de restitución diferentes en función del país o territorio de destino, a petición del interesado, se expedirá, por la Intervención del Registro del Territorio Franco correspondiente, como prueba del cumplimiento de las formalidades aduaneras de despacho a consumo:
-
-a) para las mercancías procedentes de la Península, una fotocopia diligenciada de la fotocopia recibida del ejemplar 3 del DUA de exportación.
-
-b) para las mercancías procedentes de los demás países comunitarios, una fotocopia del ejemplar para la Aduana del DUA de importación de esos productos en dichos territorios.
-
-En ambas se indicará que la fotocopia es fiel reflejo del original que se expide para surtir efectos ante el organismo pagador y que la mercancía ha sido despachada a consumo.
-
-7. Las restituciones y el perfeccionamiento activo (PA).
-
-Cuando se soliciten, en el caso de un mismo producto compensador exportado, los beneficios del régimen de PA para algunos productos de base a él incorporados y los de restituciones para otros productos de base, se deberá hacer constar en la casilla n.º 44 del DUA cuáles son los productos de base acogidos a restitución, con declaración expresa de su origen.
-
-En el caso de que los productos de base para los que se solicita la restitución tengan reconocido el derecho a beneficiarse del régimen de PA, deberá hacerse constar, en la casilla n.º 44 del DUA, la renuncia expresa a tal beneficio. Los servicios de Aduanas tomarán las medidas oportunas a fin de evitar que sean expedidos los documentos que cancelen operaciones de PA (sistema de suspensión o de devolución de derechos) o con derecho a importar los productos que se acogen a restitución.
-
-En el caso de exportaciones que cancelen una operación de importación temporal, se estará a lo establecido en los párrafos precedentes.
-
-HOJA DE DETALLE
-
-N.º de DUA:
-
-Denominación comercial de la mercancía:
-
-Código de la nomenclatura combinada (N.C.):
-
-Descripción de la mercancía según la N.C.:
-
-Cantidad de mercancía exportada en KG.:
-
-Mantequilla a precio reducido Reglamento (CE) NO 1898/2005:
-
-| Productos de base, asimilados o Intermedios (1) | Cantidades en kg por 100 kg de mercancía | Coeficientes (7) | Cantidades productos de base en kg/100 kg (8) | Descripción productos de base (9) |
-| --- | --- | --- | --- | --- |
-| Cantidad al inicio del proceso productivo (2) | Pérdidas (3) | Residuos (4) | Cantidades productos atribuibles a subproductos (5) | Cantidades con derecho a restitución (6) |
-|  |  |  |  |  |  |  |  |  |
-
-Sello, fecha y firma del funcionario Fecha y firma del declarante
-
-NOTAS:
-
-(1) Los productos de base, productos asimilados según el artículo 1 del Reglamento (UE) n.º 578/2010 y productos intermedios, con los datos necesarios para el cálculo de la restitución (por ejemplo: almidones, su extracto seco; harinas, su materia grasa, etc.).
-
-(2) Cantidades de los productos de la columna (1) necesarias para la obtención de la mercancía exportada.
-
-(3) Cantidades de los productos de la columna (1) descritas como pérdidas según el art. 2 del Reglamento (UE) 578/2010. A tales efectos no se computarán las pérdidas inferiores al 2% o superiores admitidas por el Departamento de Aduanas e Impuestos Especiales, ni las pérdidas normales sufridas a lo largo del proceso de fabricación (vapor, humo, cenizas no recuperables) según el apartado 4.a del citado artículo.
-
-(4) Cantidades de los productos de la columna (1) que son atribuibles a residuos según el art. 2 del Reglamento (UE) n.º 578/2010.
-
-(5) Cantidades de los productos de la columna (1) que son atribuibles a los subproductos obtenidos en la fabricación de la mercancía exportada y definidos en el Reglamento (UE) n.º 578/2010.
-
-(6) Cantidades con derecho a restitución. Será igual a la cantidad declarada en la columna (2) menos las cantidades declaradas en las columnas (3) y (5).
-
-(7) Coeficientes de transformación de los productos asimilados o intermedios en productos de base del Anexo I del Reglamento (UE) 578/2010 según el art. 3 del citado Reglamento.
-
-(8) Cantidad de productos de base con derecho a restitución. A tales efectos, cuando el producto que figure en la columna 1 sea un producto intermedio o un producto asimilado, se consignará el resultado de multiplicar la columna 6 por la columna 7. En los demás casos se consignará la cantidad que figura en la columna 6.
-
-(9) Descripción de los productos de base según el Anexo I del Reglamento (UE) n.º 578/2010.
-
-(10) Se cumplimentará cuando en la fabricación de la mercancía objeto de la declaración de exportación haya sido utilizada mantequilla a precio reducido según el Reglamento (CE) n.º 1898/2005.
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499930_image34.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499930_image35.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499930_image36.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499930_image37.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499930_image38.png)
+> Se sustituye por el que figura como anexo 1º de la Resolución de 25 de agosto de 2017, según establece su apartado primero.8. Ref. BOE-A-2017-10089

@@ -68,7 +68,9 @@ Se considerará declarante y, en su caso, deudor, al destinatario. No obstante, 
 
 b) Los operadores que realicen un servicio integrado de recogida, transporte, despacho de aduanas y entrega urgente en un plazo concreto, manteniendo localizada y bajo control la mercancía durante toda la duración del servicio y que sean operador económico autorizado (OEA) de simplificaciones podrán ser autorizados a utilizar el procedimiento descrito en el punto anterior.
 
-En este caso, la declaración tendrá la consideración de declaración simplificada en los términos del artículo 76 del Reglamento (CEE) n.º 2913/1992, de 12 de octubre de 1992.
+En este caso, la declaración tendrá la consideración de declaración simplificada en los términos del artículo 166 del CAU.
+
+Para las introducciones en las Islas Canarias de mercancías de la Unión que no estén sujetos a otro tipo de restricciones o prohibiciones, en el marco del Convenio VEXCAN, podrán ser autorizados a utilizar dicho procedimiento los operadores que asumen la responsabilidad por el transporte de las mercancías después de su introducción en este territorio, sin que se exija que se trate de un operador económico autorizado (OEA) de simplificaciones.
 
 2.2 Pequeños envíos.
 
@@ -143,3 +145,5 @@ No podrán incluirse en estas posiciones estadísticas:
 ‒ cuando se acojan a los beneficios de las restituciones o a la devolución de los Impuestos Especiales, o
 
 ‒ aquellas mercancías cuyo valor supere el umbral estadístico.
+
+> Se modifica la letra b) del apartado 2.1 por el apartado primero.11 de la Resolución de 25 de agosto de 2017. Ref. BOE-A-2017-10089
