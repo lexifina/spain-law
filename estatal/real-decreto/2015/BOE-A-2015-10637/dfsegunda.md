@@ -6,13 +6,13 @@ Uno. Se modifica el apartado 2 y se introduce un nuevo apartado 3 en el artícul
 
 «2. La información regulada incluye:
 
-a) La información periódica regulada en los artículos 35 y 35 bis, de la Ley 24/1988, de 28 de junio, del Mercado de Valores.
+a) La información periódica regulada en los artículos 118 a 123 del texto refundido de la Ley del Mercado de Valores, aprobado por el Real Decreto Legislativo 4/2015, de 23 de octubre.
 
-b) La relativa a las participaciones significativas y a las operaciones de los emisores sobre sus propias acciones en los términos de los artículos 53 y 53 bis de la Ley 24/1988 de 28 de julio, del Mercado de Valores.
+b) La relativa a las participaciones significativas y a las operaciones de los emisores sobre sus propias acciones en los términos de los artículos 125 y 126 del texto refundido de la Ley del Mercado de Valores, aprobado por el Real Decreto Legislativo 4/2015, de 23 de octubre.
 
-c) La relativa al número total de derechos de voto y de capital al término de cada mes natural durante el cual se haya producido un incremento o disminución, como resultado de los cambios del número total de derechos de voto a los que se refiere el segundo párrafo del apartado 1 del artículo 53 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, y de acuerdo con lo establecido en dicho párrafo.
+c) La relativa al número total de derechos de voto y de capital al término de cada mes natural durante el cual se haya producido un incremento o disminución, como resultado de los cambios del número total de derechos de voto a los que se refiere el segundo párrafo del apartado 1 del artículo 125 del texto refundido de la Ley del Mercado de Valores, aprobado por el Real Decreto Legislativo 4/2015, de 23 de octubre.
 
-d) La información relevante a la que se refiere el artículo 82 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+d) La información relevante a la que se refiere el artículo 228 del texto refundido de la Ley del Mercado de Valores, aprobado por el Real Decreto Legislativo 4/2015, de 23 de octubre.
 
 e) El informe sobre pagos efectuados a las administraciones públicas al que se refiere la disposición adicional décima de la Ley 22/2015, de 20 de julio, de Auditoría de Cuentas.
 
@@ -207,3 +207,5 @@ Doce. Se añade un nuevo apartado 6 al artículo 44, con la siguiente redacción
 «6. En todo caso, será necesaria por parte del emisor la divulgación de la información de conformidad con las normas del Estado de origen, así como su comunicación, en los términos señalados en este real decreto a la Comisión Nacional del Mercado de Valores.
 
 La información cubierta por los requisitos establecidos en el tercer país estará sometida al control y registro al que se refiere el artículo 6 y será objeto de comunicación y difusión de conformidad con los artículos 37, 38 y 42.»
+
+> Se actualizan las referencias del apartado 1 por el art. único.43 del Real Decreto 827/2017, de 1 de septiembre. Ref. BOE-A-2017-10141
