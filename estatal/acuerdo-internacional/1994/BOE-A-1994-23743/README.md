@@ -42,6 +42,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 27](a27.md)
 - [Artículo 28](a28.md)
 - [Artículo 29](a29.md)
+- [Artículo 30](a3-2.md)
+- [Artículo 31](a3-3.md)
 - [firma-2](firma-2.md)
 - [Protocolo](protocolo.md)
 - [firma-3](firma-3.md)
