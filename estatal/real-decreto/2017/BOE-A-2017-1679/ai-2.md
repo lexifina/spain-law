@@ -82,7 +82,7 @@ Número mínimo de horas del curso: 30 horas, (10 horas de contenidos prácticos
 
 «Los programas formativos correspondientes a las especialidades relacionadas con este programa de formación, incluidos en el Catálogo de Especialidades Formativas del Servicio Público de Empleo Estatal, se considerarán equivalentes al programa formativo CURSO COMPLEMENTARIO SOBRE MANIPULACIÓN DE EQUIPOS CON SISTEMAS FRIGORÍFICOS DE CUALQUIER CARGA DE REFRIGERANTES FLUORADOS cuando se adecuen sus contenidos al mismo.»
 
-Programa formativo 2. Curso básico sobre manipulación de equipos con sistemas frigoríficos d e cua lquier carga de refrigerantes fluorados
+## Programa formativo 2. Curso básico sobre manipulación de equipos con sistemas frigoríficos de cualquier carga de refrigerantes fluorados
 
 Temario
 
@@ -204,7 +204,7 @@ Número mínimo de horas del curso: 90 horas, (55 horas de contenidos prácticos
 
 «Los programas formativos correspondientes a las especialidades relacionadas con este programa de formación, incluidos en el Catálogo de Especialidades Formativas del Servicio Público de Empleo Estatal, se considerarán equivalentes al programa formativo CURSO BÁSICO SOBRE MANIPULACIÓN DE EQUIPOS CON SISTEMAS FRIGORÍFICOS DE CUALQUIER CARGA DE REFRIGERANTES FLUORADOS cuando se adecuen sus contenidos al mismo.»
 
-Programa formativo 3. Curso complementario sobre manipulación de equipos con sistemas frigoríficos de carga menor de 3 kg de refrigerantes fluorados
+## Programa formativo 3. Curso complementario sobre manipulación de equipos con sistemas frigoríficos de carga menor de 3 kg de refrigerantes fluorados
 
 Temario parte A
 
@@ -322,7 +322,7 @@ Efectuar/comprobar los soportes de canalizaciones y componentes.
 
 Número mínimo de horas del curso: 80 horas (50 horas de contenidos prácticos, 25 horas de contenidos teóricos y 5 horas de evaluación).
 
-Programa formativo 4. Curso sobre manipulación de equipos con sistemas frigoríficos de carga menor d e 3 kg de refrigerantes fluorados
+## Programa formativo 4. Curso sobre manipulación de equipos con sistemas frigoríficos de carga menor de 3 kg de refrigerantes fluorados
 
 Temario
 
@@ -468,7 +468,7 @@ Comprender las ventajas y desventajas, sobre todo en relación con la eficiencia
 
 Número mínimo de horas del curso: 320 horas, (220 horas de contenidos prácticos, 90 horas de contenidos teóricos y 10 horas de evaluación).
 
-Programa formativo 5. Curso sobre manipulación de sistemas frigoríficos que empleen refrigerantes fluorados destinados a confort térmico de personas instalados en vehículos
+## Programa formativo 5. Curso sobre manipulación de sistemas frigoríficos que empleen refrigerantes fluorados destinados a confort térmico de personas instalados en vehículos
 
 Temario
 
@@ -604,7 +604,7 @@ Número mínimo de horas del curso: 44 horas (16 horas de contenidos prácticos,
 
 «Los programas formativos correspondientes a las especialidades relacionadas con este programa de formación, incluidos en el Catálogo de Especialidades Formativas del Servicio Público de Empleo Estatal, se considerarán equivalentes al programa formativo CURSO SOBRE MANIPULACIÓN DE SISTEMAS FRIGORÍFICOS QUE EMPLEEN REFRIGERANTES FLUORADOS DESTINADOS A CONFORT TÉRMICO DE PERSONAS INSTALADOS EN VEHÍCULOS cuando se adecuen sus contenidos al mismo.»
 
-Programa formativo 6. Curso sobre manipulación de equipos de protección contra incendios que empleen gases fluorados como agente extintor
+## Programa formativo 6. Curso sobre manipulación de equipos de protección contra incendios que empleen gases fluorados como agente extintor
 
 Temario
 
@@ -640,7 +640,7 @@ Condiciones de seguridad en el manejo de estas tecnologías.
 
 Número mínimo de horas del curso: 18 horas (6 horas de contenidos prácticos, 10 horas de contenidos teóricos, 2 horas de evaluación).
 
-Programa formativo 7. Curso sobre manipulación de disolventes que contengan gases fluorados y equi pos que los emplean
+## Programa formativo 7. Curso sobre manipulación de disolventes que contengan gases fluorados y equipos que los emplean
 
 Temario
 
@@ -662,7 +662,7 @@ Condiciones de seguridad en el manejo de estas tecnologías.
 
 Número mínimo de horas del curso: 11 horas (3 horas de contenidos prácticos, 7 horas de contenidos teóricos, 1 hora de evaluación).
 
-Programa formativo 8. Curso sobre recuperación de SF6 de equipos d e con mutación de alta tensión
+## Programa formativo 8. Curso sobre manipulación de conmutadores eléctricos fijos que contengan gases fluorados de efecto invernadero.
 
 Temario
 
@@ -676,7 +676,7 @@ Usos del SF6 en los equipos eléctricos (aislamiento, enfriamiento del arco volt
 
 Calidad, control de calidad y toma de muestras del SF6 según las normas industriales.
 
-Almacenamiento y transporte de SF6
+Almacenamiento y transporte de SF6.
 
 Manejo de equipos de extracción, recuperación del SF6, y manejo de sistemas estancos de perforación.
 
@@ -690,10 +690,12 @@ Fin de vida de equipos con atmósfera de SF6.
 
 Seguimiento del SF6 y obligaciones de registro de los datos oportunos en virtud del Derecho nacional o comunitario o de acuerdos internacionales.
 
-Evaluación Teórica y Práctica.
+Reducción de fugas y controles de fugas.
 
-Tecnologías alternativas para sustituir o reducir el uso de gases fluorados de efecto invernadero y la manera segura de manipularlos
+Tecnologías alternativas para sustituir o reducir el uso de gases fluorados de efecto invernadero y la manera segura de manipularlos.
 
 Condiciones de seguridad en el manejo de estas tecnologías.
 
-Número mínimo de horas del curso: 18 horas, (6 horas de contenidos prácticos, 10 horas de contenidos teóricos, 2 horas de evaluación).
+Número mínimo de horas del curso: 18 horas (seis horas de contenidos prácticos, 10 horas de contenidos teóricos, dos horas de evaluación).
+
+> Se modifica el programa formativo 8 por el art. único.2 de la Orden PRA/905/2017, de 21 de septiembre. Ref. BOE-A-2017-10960

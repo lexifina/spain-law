@@ -164,11 +164,19 @@ b) Estar en posesión de cualquier título de formación profesional o certifica
 
 c) Estar en posesión de cualquier título universitario oficial que acredite la adquisición de las competencias y conocimientos mínimos establecidos en el Programa Formativo 7 del anexo II.
 
-6. Certificado acreditativo de la competencia para la recuperación de hexafluoruro de azufre de equipos de conmutación de alta tensión
+6. Certificado acreditativo de la competencia para la manipulación de conmutadores eléctricos fijos que contengan gases fluorados de efecto invernadero.
 
 6.1 Actividades habilitadas:
 
-a) Recuperación de hexafluoruro de azufre de equipos de conmutación de alta tensión.
+a) Instalación.
+
+b) Mantenimiento o revisión.
+
+c) Manipulación de contenedores de gas.
+
+d) Desmontaje.
+
+e) Recuperación del gas.
 
 6.2 Condiciones para otorgar la certificación:
 
@@ -177,3 +185,5 @@ a) Acreditación de haber superado un curso de formación con los contenidos del
 b) Estar en posesión de cualquier título de formación profesional o certificado de profesionalidad que cubra las competencias y conocimientos mínimos establecidos en el Programa Formativo 8 del anexo II.
 
 c) Estar en posesión de cualquier título universitario oficial que acredite la adquisición de las competencias y conocimientos mínimos establecidos en el Programa Formativo 8 del anexo II.
+
+> Se modifica el título del apartado 6 y el apartado 6.1 por el art. único.1 de la Orden PRA/905/2017, de 21 de septiembre. Ref. BOE-A-2017-10960
