@@ -65,6 +65,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 41](a41.md)
 - [CAPÍTULO VII](cvii.md)
 - [Artículo 42](a42.md)
+- [Artículo 43](a4-2.md)
 - [Disposición adicional primera](daprimera.md)
 - [Disposición adicional segunda](dasegunda.md)
 - [Disposición adicional tercera](datercera.md)
