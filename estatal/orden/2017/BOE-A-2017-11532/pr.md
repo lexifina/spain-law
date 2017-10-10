@@ -1,0 +1,25 @@
+Con fecha 23 de diciembre de 2016 se aprobó el Real Decreto-ley 7/2016, de 23 de diciembre, por el que se regula el mecanismo de financiación del coste del bono social y otras medidas de protección al consumidor vulnerable de energía eléctrica, cuya finalidad ha sido aumentar las medidas de protección de los consumidores vulnerables y establecer un nuevo mecanismo de financiación del bono social.
+
+La disposición final segunda del citado real decreto-ley instaba al Gobierno al desarrollo de lo dispuesto en su artículo 1 por el que se modifica la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, mediante real decreto.
+
+Atendiendo a lo anterior, ha sido aprobado el Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica.
+
+En el referido real decreto se define la figura del consumidor vulnerable asociado a un determinado umbral de renta referenciado al Indicador Público de Renta de Efectos Múltiples (IPREM), que tiene en cuenta, en su caso, el número de miembros que compongan la unidad familiar, y que puede verse incrementado si se acreditan determinadas circunstancias especiales en las que pueda encontrarse el consumidor o uno de los miembros de la unidad familiar. Adicionalmente, se contemplan determinados colectivos con derecho a la percepción del bono social, con independencia de su nivel de renta.
+
+Asimismo, dentro de los consumidores vulnerables se establece un bono social de mayor cuantía para los consumidores vulnerables severos, definidos a partir de unos umbrales de renta más bajos que los umbrales generales y además, dentro de los consumidores vulnerables severos, se crea la nueva categoría de consumidores en riesgo de exclusión social, que serán aquellos que, cumpliendo los umbrales de renta previstos, por sus especiales características, estén siendo atendido por los servicios sociales de una administración autonómica o local en los términos previstos en el real decreto. Para tales consumidores, cuando el coste de su factura eléctrica sea cofinanciado por la Administración Pública correspondiente y por las matrices de los grupos de sociedades que desarrollen la actividad de comercialización de energía eléctrica, o las propias sociedades que así lo hagan si no forman parte de ningún grupo societario, el real decreto recoge la imposibilidad de que su suministro sea suspendido, en determinadas condiciones.
+
+Además de lo anterior, el mencionado real decreto establece el procedimiento para que el consumidor pueda solicitar el bono social y el comercializador de referencia (COR) compruebe el cumplimiento de los requisitos para ser consumidor vulnerable, lo que realizará a través de la correspondiente aplicación telemática disponible en la sede electrónica del Ministerio de Energía, Turismo y Agenda Digital.
+
+Se recogen así los aspectos relativos a la aplicación del bono social, las condiciones para su renovación y la obligación de que el consumidor comunique cualquier cambio en las condiciones que dan derecho a su percepción.
+
+El artículo 7 del real decreto habilita al Ministro de Energía, Turismo y Agenda Digital a detallar por orden, los términos en que los consumidores titulares de los puntos de suministro podrán solicitar la aplicación del bono social, y en particular, a establecer el modelo de solicitud de aplicación de bono social, la documentación acreditativa del cumplimiento de los requisitos, los criterios de cómputo del requisito de renta y los mecanismos con los que se comprobarán los requisitos establecidos en el real decreto para ser consumidor vulnerable y vulnerable severo y percibir el bono social.
+
+Asimismo, el real decreto otorga un plazo de seis meses desde la entrada en vigor de la presente orden para que los consumidores que a día de hoy perciben el bono social, sigan percibiéndolo en las mismas condiciones, sin perjuicio de que durante ese periodo puedan solicitar su renovación bajo las nuevas condiciones establecidas.
+
+De conformidad con el artículo 26.6 de la Ley 50/1997, de 27 de noviembre, del Gobierno, el trámite de audiencia de esta orden ha sido evacuado mediante consulta a los representantes del Consejo Consultivo de Electricidad, de acuerdo a lo previsto en la disposición transitoria décima de la citada Ley 3/2013, de 4 de junio y, por otra parte, esta orden ha sido sometida a información pública, en el portal web del Ministerio de Energía, Turismo y Agenda Digital.
+
+De acuerdo con lo establecido en el artículo 5.2 a) de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, lo dispuesto en la presente orden ha sido informado por la Comisión Nacional de los Mercados y la Competencia.
+
+Asimismo, de conformidad con lo dispuesto en los artículos 37 h) de la Ley Orgánica, de 13 de diciembre, de Protección de datos de Carácter Personal, y 5 b) del Estatuto de la Agencia, aprobado por Real Decreto 428/1993, de 26 de marzo, la presente orden ha sido informada por la Agencia Española de Protección de Datos.
+
+En su virtud, dispongo:
