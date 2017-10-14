@@ -1,0 +1,11 @@
+## Disposición final primera. Modificación del Real Decreto 1270/1997, de 24 de julio, por el que se regula la Oficina Española de Patentes y Marcas.
+
+Se modifica el artículo 1 del Real Decreto 1270/1997, de 24 de julio, por el que se regula la Oficina Española de Patentes y Marcas, cuya redacción será la siguiente:
+
+«Artículo 1. Naturaleza y régimen jurídico.
+
+1. La Oficina Española de Patentes y Marcas es un organismo autónomo de los previstos en el artículo 98 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, adscrito al Ministerio de Energía, Turismo y Agenda Digital, a través de la Subsecretaría, a quien corresponderá realizar la dirección estratégica, la evaluación y el control de eficacia sobre sus actuaciones, en los términos previstos en los artículos 85 y 98.2 de la citada Ley.
+
+2. La Oficina Española de Patentes y Marcas tiene personalidad jurídica propia y capacidad de obrar para el cumplimiento de sus fines y se rige por la Ley 17/1975, de 2 de mayo, sobre creación del organismo autónomo Registro de la Propiedad Industrial, así como por lo establecido en la Ley General Presupuestaria y en las demás normas legales y reglamentarias de aplicación a los organismos autónomos de la Administración General del Estado.
+
+3. Su denominación es Oficina Española de Patentes y Marcas, O.A.»
