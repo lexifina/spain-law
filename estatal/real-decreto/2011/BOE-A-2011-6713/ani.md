@@ -2,7 +2,7 @@
 
 ## Ganado vacuno
 
-1. El baremo será del 75 por cien de los valores siguientes, en función de la aptitud de los animales:
+1. El baremo será del 85 por cien de los valores siguientes, en función de la aptitud de los animales:
 
 Vacuno de aptitud cárnica
 
@@ -60,4 +60,10 @@ Vacuno de aptitud lechera
 | Superior a 48 meses e igual o inferior a 72 meses | 514,47 |
 | Superior a 72 meses | 257,23 |
 
-3. El baremo será del 100 por cien en caso de vacío sanitario. Asimismo, la cuantía resultante en cada caso se incrementará en un diez por cien en los casos de pertenencia de la explotación a una Agrupación de Defensa Sanitaria Ganadera.
+3. El baremo será del 100 por cien en caso de vacío sanitario.
+
+La cuantía resultante en cada caso se incrementará en un diez por cien en los casos de pertenencia de la explotación a una Agrupación de Defensa Sanitaria Ganadera, y en un cinco por ciento adicional si se trata de razas autóctonas de las incluidas en el Catálogo Oficial de Razas de Ganado en España previsto en el anexo I del Real Decreto 2129/2008, de 26 de diciembre, por el que se establece el Programa nacional de conservación, mejora y fomento de las razas ganaderas, siempre que se trate de animales inscritos en el correspondiente libro genealógico.
+
+No obstante lo anterior, las comunidades autónomas podrán limitar la cuantía final a percibir en un máximo de 1.500.000 euros por explotación.
+
+> Se modifican los apartados 1 y 3 por el art. 1.3 del Real Decreto 904/2017, de 13 de octubre. Ref. BOE-A-2017-11754
