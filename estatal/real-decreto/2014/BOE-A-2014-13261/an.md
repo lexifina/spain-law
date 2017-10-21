@@ -8,17 +8,7 @@ La composición del Comité Nacional de Seguimiento será la siguiente:
 
 2. Vocales:
 
-1.º Un representante de cada una de las Subdirecciones Generales de la Dirección General de Desarrollo Rural y Política Forestal del Ministerio de Agricultura, Alimentación y Medio Ambiente:
-
-a) Subdirección General de Programación y Coordinación.
-
-b) Subdirección General de Modernización de Explotaciones.
-
-c) Subdirección General de Fomento del Desarrollo del Medio Rural.
-
-d) Subdirección General de Silvicultura y Montes.
-
-e) Subdirección General de Regadíos y Economía del Agua.
+1.º Un representante de cada una de las Subdirecciones Generales de la Dirección General de Desarrollo Rural y Política Forestal del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente.
 
 2.º Un representante de la Dirección General de Sanidad de la Producción Agraria del Ministerio de Agricultura, Alimentación y Medio Ambiente.
 
@@ -191,3 +181,5 @@ r) Programa nacional de desarrollo rural 2014-2020.
 68.º Un representante de la Federación Española de Empresas con Productos Ecológicos (FEPECO).
 
 3. Secretario: Un Subdirector General a designar por el titular de la Dirección General de Desarrollo Rural y Política Forestal del Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+> Se modifica el apartado 2.1º por la disposición final 15 del Anexo, por Real Decreto 895/2017, de 6 de octubre. Ref. BOE-A-2017-11984#df-15

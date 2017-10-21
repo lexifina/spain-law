@@ -1,1 +1,1 @@
-Téngase en cuenta, sobre reestructuración y estructura orgánica básica de los departamentos ministeriales; el Real Decreto 415/2016, de 3 de noviembre. Ref. BOE-A-2016-10167. y el Real Decreto 424/2016, de 11 de noviembre. Ref. BOE-A-2016-10459.
+Norma derogada, con efectos de 21 de octubre de 2017, por la disposición derogatoria única del Real Decreto 895/2017, de 6 de octubre. Ref. BOE-A-2017-11984#dd
