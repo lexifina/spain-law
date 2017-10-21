@@ -18,6 +18,8 @@ c) Academia de Artillería.
 
 d) Academia de Ingenieros.
 
+e) Academia de Aviación del Ejército de Tierra.
+
 3. En el Ejército del Aire, la formación específica de vuelo se completará en alguna de las siguientes unidades que, a estos efectos, tendrán también la consideración de centros docentes militares de formación:
 
 a) Ala 23.
@@ -47,6 +49,8 @@ c) Escuela Militar de Sanidad.
 d) Escuela de Músicas Militares.
 
 Por la Subsecretaría de Defensa se adoptarán las medidas necesarias para coordinar las actuaciones en las escuelas mencionadas.
+
+> Se modifica el apartado 2 por la disposición final 1 del Real Decreto 894/2017, de 6 de octubre. Ref. BOE-A-2017-11983
 
 > Se modifica el apartado 2 por el art. único.1 del Real Decreto 1141/2012, de 27 de julio. Ref. BOE-A-2012-10265.
 
