@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 251, de 19 de octubre de 2001. Ref. BOE-A-2001-19483.
+Norma derogada, con efectos de 25 de octubre de 2017, por la disposición derogatoria única 1.b) del Real Decreto 656/2017, de 23 de junio. Ref. BOE-A-2017-8755#dd
