@@ -1,0 +1,1 @@
+Véase la Resolución de 3 de octubre de 2017. Ref. BOE-A-2017-12243 que actualiza las cuantías de las indemnizaciones para el año 2017 y que acuerda hacer públicas en el sitio web de la Dirección General de Seguros y Fondos de Pensiones.
