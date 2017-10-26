@@ -566,5 +566,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición final cuarta](dfcuaa.md)
 - [Disposición final quinta](dfquinta.md)
 - [Disposición final sexta](dfsexta.md)
+- [Disposición final sexta bis](df.md)
 - [Disposición final séptima](dfseptima.md)
 - [Disposición final octava](dfoctava.md)

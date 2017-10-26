@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Estudio del concepto de habitualidad a efectos de la inclusión en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos.
+
+En el ámbito de la Subcomisión para el estudio de la reforma del Régimen Especial de Trabajadores por Cuenta Propia o Autónomos constituida en el Congreso de los Diputados, y oídos los representantes de los trabajadores autónomos, se procederá a la determinación de los diferentes elementos que condicionan el concepto de habitualidad a efectos de la incorporación a dicho régimen. En particular, se prestará especial atención a los trabajadores por cuenta propia cuyos ingresos íntegros no superen la cuantía del salario mínimo interprofesional, en cómputo anual.

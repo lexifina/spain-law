@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Trabajadores autónomos y cotización a tiempo parcial.
+
+En el ámbito de la Subcomisión para el estudio de la reforma del Régimen Especial de Trabajadores por Cuenta Propia o Autónomos, constituida en el Congreso de los Diputados, y oídos los representantes de los trabajadores autónomos, se procederá a la determinación de los diferentes elementos que hagan posible la implantación de un sistema de cotización a tiempo parcial para los trabajadores autónomos, mediante el oportuno desarrollo reglamentario del artículo 25 de la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo, para las actividades o colectivos que se consideren, y en todo caso vinculado a periodos concretos de su vida laboral.

@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Constitución del Consejo del Trabajo Autónomo.
+
+El Gobierno procederá a la constitución efectiva y puesta en funcionamiento del Consejo del Trabajo Autónomo en el plazo máximo de un año tras la entrada en vigor de la presente Ley, en los términos previstos en el artículo 22 de la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo, así como en el Real Decreto 1613/2010,de 7 de diciembre, por el que se crea y regula el Consejo de la representatividad de las asociaciones profesionales de trabajadores autónomos en el ámbito estatal y se establece la composición y régimen de funcionamiento y organización del Consejo del Trabajo Autónomo.
+
+Para constituir dicho Consejo el Gobierno deberá en el plazo de seis meses desde la entrada en vigor de esta Ley, en el marco del diálogo con las organizaciones representativas de trabajadores autónomos y las organizaciones empresariales y sindicales más representativas, desarrollar los criterios objetivos de representatividad de las organizaciones profesionales de trabajadores autónomos que establece el artículo 21 de la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo.
