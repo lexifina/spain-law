@@ -1,0 +1,7 @@
+## Disposición final primera. Modificación de la ITC MI-IP 05 «Instaladores o reparadores y empresas instaladoras o reparadoras de productos petrolíferos líquidos», aprobada por el Real Decreto 365/2005, de 8 de abril.
+
+Se modifican los apartados 2 y 3 del artículo 3 que quedan redactados del siguiente modo:
+
+«3.2 Los instaladores habilitados y las empresas instaladoras de PPL de categoría I podrán realizar, modificar y mantener instalaciones de hidrocarburos de las clases C y D, con un límite de almacenamiento de 10.000 litros, pero una vez puesta en funcionamiento la instalación, en ningún caso podrán acceder al interior del tanque, ni soldar o desmontar la boca de hombre. Únicamente podrán acceder al interior de la arqueta de boca de hombre, una vez puesta en funcionamiento la instalación, si disponen del sistema de rescate necesario (trípode, rescatador y arnés), exposímetro y sistema de ventilación adecuado.
+
+3.3 Los instaladores habilitados y las empresas instaladoras de PPL de categoría II podrán realizar, modificar y mantener instalaciones de hidrocarburos de las clases B, C y D sin límite de almacenamiento, pero una vez puesta en funcionamiento la instalación, en ningún caso podrán acceder al interior del tanque, ni soldar o desmontar la boca de hombre. Únicamente podrán acceder al interior de la arqueta de la boca de hombre, una vez puesta en funcionamiento la instalación, si disponen de sistema de rescate (trípode, rescatador y arnés), exposímetro y sistema de ventilación adecuado.»

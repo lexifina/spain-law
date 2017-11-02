@@ -39,6 +39,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 10](a10.md)
 - [CAPITULO VI](cvi.md)
 - [Artículo 11](a11.md)
+- [Artículo 12](a1-4.md)
 - [INSTRUCCIÓN TÉCNICA COMPLEMENTARIA MI-IP 01 «REFINERIAS»](instrucciontecnicacomplementariamiip01-refinerias.md)
 - [CAPITULO I](ci-2.md)
 - [Artículo 1](a1-2.md)

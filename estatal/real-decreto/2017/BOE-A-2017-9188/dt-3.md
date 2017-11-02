@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Instalaciones enterradas existentes con tuberías en aspiración.
+
+Las instalaciones enterradas existentes, a la entrada en vigor del presente real decreto, que tengan las tuberías de extracción de productos del tanque en aspiración y con la válvula de retención antirretorno instalada en la boca de hombre del tanque, y con el fin de que se descargue la tubería en caso de fuga y evitar que se pueda contaminar el terreno, dispondrán, desde la entrada en vigor del presente real decreto, de tres años para la instalación de la válvula de retención antirretorno a la entrada del surtidor, eliminando o anulando la que se encuentre en la boca de hombre del tanque.
