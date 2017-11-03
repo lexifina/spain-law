@@ -23,6 +23,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional tercera](da-3.md)
 - [Disposición adicional cuarta](da-5.md)
 - [Disposición transitoria](dt.md)
+- [Disposición transitoria primera](dt-2.md)
+- [Disposición transitoria segunda](dt-3.md)
 - [Disposición final primera](df.md)
 - [Disposición final segunda](df-2.md)
 - [Disposición final tercera](df-3.md)
