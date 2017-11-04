@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 183, de 30 de julio de 2009. Ref. BOE-A-2009-12591.
+Norma derogada, con efectos de 4 de noviembre de 2017, por la disposición derogatoria única de la Orden APM/1057/2017, de 30 de octubre. Ref. BOE-A-2017-12614
