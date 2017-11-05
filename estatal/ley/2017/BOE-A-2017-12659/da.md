@@ -1,0 +1,7 @@
+## Disposición adicional primera. Las entidades de resolución alternativa en el ámbito de la actividad financiera.
+
+1. Para la resolución, con carácter vinculante o no, de litigios de consumo en el sector financiero, será creada por ley, y comunicada a la Comisión Europea, tras su acreditación por la autoridad competente, una única entidad, con competencias en este ámbito. Esta ley obligará a las entidades financieras a participar en los procedimientos ante dicha entidad de resolución alternativa de litigios para el ámbito de su actividad. El resto de entidades acreditadas que den cobertura a reclamaciones de consumo de todos los sectores económicos, podrán conocer igualmente de este tipo de litigios, siempre que ambas partes se hayan sometido voluntariamente al procedimiento.
+
+2. A estos efectos, el Gobierno remitirá a las Cortes Generales, en el plazo de ocho meses desde la entrada en vigor de esta ley, un proyecto de ley que regule el sistema institucional de protección del cliente financiero, así como su organización y funciones.
+
+3. Hasta que entre en vigor la ley prevista en el apartado anterior, los servicios de reclamaciones regulados en el artículo 30 de la Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero, acomodarán su funcionamiento y procedimiento a lo previsto en la presente ley y, en especial, se garantizará su independencia organizativa y funcional en el seno del organismo donde están incardinados con el fin de poder ser acreditados como entidad de resolución alternativa de litigios financieros.
