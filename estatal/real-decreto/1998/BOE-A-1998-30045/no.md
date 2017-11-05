@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 56, de 6 de marzo de 1999. Ref. BOE-A-1999-5468.
+Norma derogada, desde el 5 de noviembre de 2017, por la disposición derogatoria única.7 del Real Decreto 956/2017, de 3 de noviembre. Ref. BOE-A-2017-12663#dd, con efectos desde el 1 de enero de 2014, según establece su disposición final 4.
