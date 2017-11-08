@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Real Decreto 1058/2005, de 8 de septiembre, por el que se aprueban los Estatutos de la Real Academia de Jurisprudencia y Legislación de España" según establece el art. único.1 del Real Decreto 919/2017, de 23 de octubre. Ref. BOE-A-2017-12797
