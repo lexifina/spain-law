@@ -38,9 +38,9 @@ b) Elaborar el Plan Director de la Red Nacional de Caminos Naturales como su pri
 
 c) Decidir sobre la inclusión de nuevos itinerarios en la Red Nacional de Caminos Naturales. Asimismo, decidir sobre la exclusión de alguno de ellos.
 
-d) Ejecutar las obras y realizar el mantenimiento de los caminos naturales promovidos por el Ministerio de Agricultura, Alimentación y Medio Ambiente.
+d) (Anulado)
 
-e) Asumir la ejecución de las obras de los Caminos Naturales de nueva incorporación a la Red, salvo acuerdo distinto con las administraciones competentes.
+e) (Anulado)
 
 f) Gestionar la marca registrada «Caminos Naturales» e «Itinerarios Naturales No Motorizados».
 
@@ -63,3 +63,7 @@ k) Establecer el modelo de funcionamiento con el resto de las administraciones t
 8. El Ministerio de Agricultura, Alimentación y Medio Ambiente podrá acordar la incorporación de otros itinerarios construidos por otras Administraciones a la Red Nacional de Caminos Naturales.
 
 9. Reglamentariamente se determinarán los requisitos y procedimientos para la actuación del Ministerio de Agricultura, Alimentación y Medio Ambiente en la construcción de caminos naturales de carácter básico y los de carácter secundario.
+
+> Téngase en cuenta que se declara la inconstitucionalidad y nulidad de los subapartados d) y e) del apartado 4, los incisos destacados de los apartados 6 y 7 y la constitucionalidad del apartado 5, interpretado conforme al fundamento jurídico 6, por Sentencia del TC 118/2017, de 19 de octubre. Ref. BOE-A-2017-13222
+
+> Se declara la inconstitucionalidad y nulidad de los subapartados d) y e) del apartado 4, los incisos destacados de los apartados 6 y 7 y la constitucionalidad del apartado 5, interpretado conforme al fundamento jurídico 6, por Sentencia del TC 118/2017, de 19 de octubre. Ref. BOE-A-2017-13222
