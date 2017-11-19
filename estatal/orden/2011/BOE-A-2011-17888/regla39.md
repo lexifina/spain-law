@@ -34,20 +34,22 @@ Los datos del «Resumen de la Cuenta de la Administración General del Estado» 
 
 La Intervención General de la Administración del Estado podrá modificar el contenido del Resumen con el fin de adecuarlo a los posibles cambios que se pudiesen producir en los criterios de tratamiento de las operaciones o de presentación de la información contable, así como en la adaptación del PGCP a la Administración General del Estado.
 
-4. El Subdirector General de Gestión Contable expedirá la siguiente diligencia con el visto bueno del Interventor General de la Administración del Estado, que se unirá al «Resumen de la Cuenta de la Administración General del Estado» regulado en el punto anterior:
+4. El Jefe de la División de Gestión de la Contabilidad de la Oficina Nacional de Contabilidad expedirá la siguiente diligencia con el visto bueno del Interventor General de la Administración del Estado, que se unirá al “Resumen de la Cuenta de la Administración General del Estado” regulado en el punto anterior:
 
-«DILIGENCIA:
+“DILIGENCIA:
 
-Para hacer constar que las operaciones registradas en el Sistema de Información Contable de la Administración General del Estado, con imputación al ejercicio de..........., han sido reflejadas en la Cuenta de la Administración General del Estado correspondiente a dicho ejercicio.
+Para hacer constar que las operaciones registradas en el Sistema de Información Contable de la Administración General del Estado, con imputación al ejercicio de ..........., han sido reflejadas en la Cuenta de la Administración General del Estado correspondiente a dicho ejercicio.
 
-En......................., a........... de............................ de...........
+En ......................., a ........... de ............................ de ...........
 
-El Subdirector General de Gestión Contable.
+El Jefe de la División de Gestión de la Contabilidad.
 
 V.º B.º
 
-El Interventor General de la Administración del Estado.»
+El Interventor General de la Administración del Estado.”
 
-Asimismo, el Subdirector General de Gestión Contable deberá firmar o rubricar todas y cada una de las páginas de los distintos informes y estados que formen parte del Resumen al que se refiere el punto anterior, debiendo estar dichas páginas numeradas correlativamente.
+Asimismo, el Jefe de la División de Gestión de la Contabilidad deberá firmar o rubricar todas y cada una de las páginas de los distintos informes y estados que formen parte del Resumen al que se refiere el punto anterior, debiendo estar dichas páginas numeradas correlativamente.
 
 Mediante Resolución de la Intervención General de la Administración del Estado se podrá sustituir la diligencia anterior en soporte papel por una diligencia electrónica.
+
+> Se modifica el apartado 4 por el art. 4.4 de la Orden HFP/1105/2017, de 16 de noviembre. Ref. BOE-A-2017-13278

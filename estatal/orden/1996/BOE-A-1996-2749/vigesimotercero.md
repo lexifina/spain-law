@@ -16,9 +16,11 @@ Posteriormente se remitirá siempre que se produzca alguna modificación de los 
 
 Las operaciones de modificación, baja y cancelación deberán ser registradas por la misma oficina de contabilidad que registró el alta, por tanto si el respectivo documento se recibe en otra oficina deberá ésta remitirlo a la oficina que registró el correspondiente alta.
 
-e) Documento “Rectificación de operaciones devengadas”: Se utilizará para modificar los errores producidos en cualquiera de los datos consignados en el documento contable “Operaciones devengadas” previsto en el epígrafe b) de este apartado.
+e) Documento «Rectificación de operaciones devengadas»: Se utilizará para disminuir el saldo de la cuenta 4130 cuando, por errores, excesos de estimación u otras causas que no permitan el uso del «Anexo de imputación al presupuesto de operaciones devengadas», se disponga de mejor información en un ejercicio posterior al de contabilización del Documento de «Operaciones devengadas».
 
 2. Cuando se deba proceder a la anulación de las operaciones indicadas en las letras a) y b) del punto anterior se utilizarán los mismos documentos contables pero con signo negativo.
+
+> Se modifica la letra e) del apartado 1 por el art. 1.1 de la Orden HFP/1105/2017, de 16 de noviembre. Ref. BOE-A-2017-13278
 
 > Se modifica la letra b) y se añade la letra e) en el apartado 1 por el art. 1.2 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
 

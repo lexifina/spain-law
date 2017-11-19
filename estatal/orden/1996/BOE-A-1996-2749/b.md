@@ -1,12 +1,14 @@
 ## B) DOCUMENTOS CONTABLES DE LOS PAGOS A JUSTIFICAR Y ANTICIPOS DE CAJA FIJA
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/58/02486_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/280/13278_6140.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/58/02486_003.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_027.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_028.png)
+
+> Se modifica el documento "Control de pagos a justificar" por el art. 1.3 y el Anexo II de la Orden HFP/1105/2017, de 16 de noviembre. Ref. BOE-A-2017-13278
 
 > Se modifica el modelo «Control de pagos a justificar» y se crea el modelo «Anexo control de pagos a justificar» por el art. 1.4.b) y los Anexos II y III de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.
 

@@ -296,29 +296,27 @@ Se informará del importe a 31 de diciembre de los valores recibidos en garantí
 
 19. En la nota 22, «Información presupuestaria», se realizan las siguientes modificaciones:
 
-a) En el punto 22.1.1.d), «Acreedores por operaciones pendientes de aplicar a presupuesto», se elimina el último guión, relativo a las observaciones, así como la última columna, «Observaciones», del cuadro que figura a continuación.
-
-b) El primer párrafo del punto 22.2.2, «Presupuesto de ingresos. Derechos a cobrar de presupuestos cerrados», tendrá la siguiente redacción:
+a) El primer párrafo del punto 22.2.2, «Presupuesto de ingresos. Derechos a cobrar de presupuestos cerrados», tendrá la siguiente redacción:
 
 «Se informará de:»
 
-c) En el punto 22.2.3, «Variación de resultados presupuestarios de ejercicios anteriores», se elimina el último párrafo, que hace referencia a las operaciones comerciales.
+b) En el punto 22.2.3, «Variación de resultados presupuestarios de ejercicios anteriores», se elimina el último párrafo, que hace referencia a las operaciones comerciales.
 
-c') En el apartado 22.3, "Compromisos de gasto con cargo a presupuestos de ejercicios posteriores", se realizan las siguientes modificaciones:
+c) En el apartado 22.3, «Compromisos de gasto con cargo a presupuestos de ejercicios posteriores», se realizan las siguientes modificaciones:
 
 a) El contenido actual de dicho apartado pasará a ser el punto 1 del mismo.
 
 b) Se añade un nuevo punto 2 con el siguiente contenido:
 
-2. Compromisos de gasto de carácter plurianual que no se hayan podido imputar al presupuesto corriente.
+«2. Compromisos de gasto de carácter plurianual que no se hayan podido imputar al presupuesto corriente.
 
 Se informará sobre los compromisos de gasto de carácter plurianual que no se hayan podido imputar al presupuesto corriente por falta de crédito adecuado o suficiente y se encuentren en esa situación a fin de ejercicio, con detalle de:
 
-a) aplicación presupuestaria a la que debería haberse imputado el compromiso.
+a) Aplicación presupuestaria a la que debería haberse imputado el compromiso.
 
-b) importe.
+b) Importe.
 
-c) número de operaciones incluidas en cada aplicación presupuestaria.
+c) Número de operaciones incluidas en cada aplicación presupuestaria.»
 
 d) El primer párrafo del apartado 22.4, «Gastos con financiación afectada», tendrá la siguiente redacción:
 
@@ -326,19 +324,17 @@ d) El primer párrafo del apartado 22.4, «Gastos con financiación afectada», 
 
 e) En el apartado 22.5, «Remanente de tesorería», se realizan las siguientes modificaciones:
 
-1.º El punto 2 del segundo párrafo tendrá la siguiente redacción:
+1. El punto 2 del segundo párrafo tendrá la siguiente redacción:
 
 «2. Los fondos líquidos, incluyen los saldos disponibles en cuentas bancarias, salvo aquéllos que se hayan dotado con imputación al presupuesto, así como los excedentes temporales de tesorería que se hayan materializado en inversiones financieras de carácter no presupuestario, que reúnan el suficiente grado de liquidez. A estos efectos, no se tendrá en cuenta la parte del saldo de la cuenta 575, «Bancos e instituciones de crédito. Cuentas restringidas de pagos», que corresponda a pagos a justificar.»
 
-2.º Se elimina el último párrafo de los puntos 3 y 4, relativos a los derechos y obligaciones derivados de operaciones comerciales, así como los dos epígrafes relativos a las operaciones comerciales que figuran en el Estado del Remanente de Tesorería.
+2. Se elimina el último párrafo de los puntos 3 y 4, relativos a los derechos y obligaciones derivados de operaciones comerciales, así como los dos epígrafes relativos a las operaciones comerciales que figuran en el Estado del Remanente de Tesorería.
 
-f) El apartado 22.6 pasará denominarse «Derechos presupuestarios pendientes de cobro según su grado de exigibilidad y deterioro de valor de los deudores presupuestarios» y tendrá el siguiente contenido:
+f) El apartado 22.6 pasará a denominarse «Derechos presupuestarios pendientes de cobro según su grado de exigibilidad y deterioro de valor de los deudores presupuestarios» y tendrá el siguiente contenido:
 
 «22.6 Derechos presupuestarios pendientes de cobro según su grado de exigibilidad y deterioro de valor de los deudores presupuestarios.
 
-1. Derechos presupuestarios pendientes de cobro según su grado de exigibilidad.
-
-Esta información pondrá de manifiesto la situación de exigibilidad que presenten los saldos pendientes de cobro a fin de ejercicio en los conceptos del presupuesto de ingresos corriente y de presupuestos de ingresos cerrados cuya gestión corresponda a la Administración General del Estado.
+1. Derechos presupuestarios pendientes de cobro según su grado de exigibilidad. Esta información pondrá de manifiesto la situación de exigibilidad que presenten los saldos pendientes de cobro a fin de ejercicio en los conceptos del presupuesto de ingresos corriente y de presupuestos de ingresos cerrados cuya gestión corresponda a la Administración General del Estado.
 
 Para los saldos relativos a los conceptos cuya gestión corresponda a la Agencia Estatal de Administración Tributaria, la información sobre la situación de exigibilidad de los mismos formará parte de la cuenta de los tributos estatales y recursos de otras Administraciones y Entes Públicos que se ha de elaborar por dicho Ente.
 
@@ -370,11 +366,9 @@ D) Saldos pendientes de cobro de presupuestos cerrados según su grado de exigib
 
 A la anterior información se acompañarán «resúmenes por capítulos» que, con la misma estructura y contenido, detallen la información a nivel de los distintos capítulos del presupuesto de ingresos.
 
-2. Deterioro de valor de los deudores presupuestarios.
+2. Deterioro de valor de los deudores presupuestarios. Se informará sobre el deterioro de valor registrado en los deudores tributarios, cuya gestión de cobro corresponde a la Agencia Estatal de Administración Tributaria, así como en los deudores no tributarios cuya recaudación en vía ejecutiva está encomendada a dicha Agencia, indicando para cada una de las circunstancias que motivan el registro contable del deterioro, la siguiente información:
 
-Se informará sobre el deterioro de valor registrado en los deudores tributarios, cuya gestión de cobro corresponde a la Agencia Estatal de Administración Tributaria, así como en los deudores no tributarios cuya recaudación en vía ejecutiva está encomendada a dicha Agencia, indicando para cada una de las circunstancias que motivan el registro contable del deterioro, la siguiente información:
-
-− Número de deudas.
+– Número de deudas.
 
 − Importe en periodo voluntario.
 
@@ -392,25 +386,46 @@ Se informará sobre el deterioro de valor registrado en los deudores tributarios
 
 − Variación del deterioro en el ejercicio.»
 
-g) Se añade el apartado 22.7, «Balance de resultados e informe de gestión», con el siguiente contenido:
+g) En el apartado 22.7, «Acreedores por operaciones devengadas», se elimina la columna de observaciones y tendrá el siguiente contenido:
 
-«22.7 Balance de resultados e informe de gestión.
+| Cuenta | Importe |
+| --- | --- |
+|  |  |
+| Total |  |
+
+h) Se añade el apartado 22.8, «Balance de resultados e informe de gestión», con el siguiente contenido:
+
+«22.8 Balance de resultados e informe de gestión.
 
 Se incluirán los balances de resultados e informes de gestión que los centros gestores del gasto responsables de los distintos programas presupuestarios deben formular, en los que se informará, dentro de cada programa, del grado de realización de los objetivos, los costes en términos de gasto presupuestario (previsto y realizado) en los que se ha incurrido para su realización y las desviaciones físicas y financieras, tanto absolutas como en porcentaje de lo realizado sobre lo previsto, que, en su caso, se hubieran producido.
 
-A) Grado de Realización de Objetivos
+A) GRADO DE REALIZACIÓN DE OBJETIVOS
 
 | CLASIFICAC. ORGÁNICA | CLASIFICACIÓN POR PROGRAMAS | OBJETIVO | ACTIVIDADES | INDICADOR | PREVISTO | REALIZADO | DESVIACIONES |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| PROGRAMA | DESCRIPC. | ABSOLUTAS | % |
+| PROGRAMA | DESCRIPC. | ABSOLUTAS | %» |
 |  |  |  |  |  |  |  |  |  |  |
 
-B) Coste de los Objetivos Realizados
+B) COSTE DE LOS OBJETIVOS REALIZADOS
 
 | CLASIFICAC. ORGÁNICA | CLASIFICACIÓN POR PROGRAMAS | OBJETIVO | ACTIVIDADES | COSTE PREVISTO (CRÉDITOS DEFINITIVOS) | COSTE REALIZADO (OBLIGACIONES RECONOCIDAS) | DESVIACIONES |
 | --- | --- | --- | --- | --- | --- | --- |
 | PROGRAMA | DESCRIPC. | ABSOLUTAS | % |
 |  |  |  |  |  |  |  |  |  |
+
+i) Se añade el apartado 22.9, «Antigüedad de los derechos presupuestarios pendientes de cobro», con el siguiente contenido:
+
+«22.9 Antigüedad de los derechos presupuestarios pendientes de cobro.
+
+Se incluirá información sobre la antigüedad de los derechos de presupuestos cerrados que estén pendientes de cobro a fin de ejercicio, indicando para cada aplicación presupuestaria:
+
+– Código y descripción de la aplicación presupuestaria.
+
+– Importe pendiente de cobro de los derechos reconocidos en cada uno de los cinco ejercicios anteriores al que se refieren las cuentas anuales.
+
+– Importe pendiente de cobro de los derechos reconocidos en los restantes ejercicios.
+
+– Importe total pendiente de cobro.»
 
 20. En el apartado 2.a), «Indicadores presupuestarios. Del presupuesto de gastos corriente», de la nota 23, «Indicadores financieros, patrimoniales y presupuestarios», se sustituye la referencia a «la entidad» por la referencia al «ámbito territorial» en los indicadores 3) GASTO POR HABITANTE y 4) INVERSIÓN POR HABITANTE.
 
@@ -421,6 +436,8 @@ B) Coste de los Objetivos Realizados
 a) Las reorganizaciones ministeriales.
 
 b) La creación, modificación o extinción de entidades dependientes de la Administración General del Estado.»
+
+> Se modifica el apartado 19 por el art. 4.3 de la Orden HFP/1105/2017, de 16 de noviembre. Ref. BOE-A-2017-13278
 
 > Se añade la letra c') al apartado 19 por el art. 4.6 de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.
 

@@ -38,11 +38,11 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_017.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7842.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/280/13278_5805.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7876.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/280/13278_5963.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_020.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/280/13278_6036.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7910.png)
 
@@ -61,6 +61,8 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/58/02486_001.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7808.png)
+
+> Se modifican los documentos OK, ADOK y O por el art. 1.3 y el Anexo I de la Orden HFP/1105/2017, de 16 de noviembre. Ref. BOE-A-2017-13278
 
 > Se añaden los modelos "RC-110", "Anexo anualidades" y "Anexo imputación al presupuesto de operaciones devengadas" y se modifican los documentos OK, ADOK y K por el art. 1.5.1 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
 

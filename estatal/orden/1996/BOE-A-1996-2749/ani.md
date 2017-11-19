@@ -858,7 +858,23 @@ No obstante, si para un determinado libramiento a justificar se hubiera producid
 
 244 Ejercicio de gasto: Se consignará el año de realización del gasto de acuerdo con los criterios de la nota aclaratoria (34).
 
+245 Número de certificado de inventario Sorolla (NCIS): Se indicará el número asignado por el módulo de gestión de inventario de la aplicación Sorolla (en adelante, inventario Sorolla) al certificado que se genere en el inventario Sorolla como garantía de la inclusión en el mismo de los activos incluidos en el documento contable.
+
+Dicho certificado distinguirá en relación con las inversiones incluidas en el documento contable en el que se incorpore, los importes relativos a las tres categorías siguientes:
+
+– Los activos inventariados en el inventario Sorolla, que se encuentren por encima del umbral de activación en contabilidad de acuerdo a los criterios establecidos por la IGAE.
+
+− Los activos inventariados en el inventario Sorolla que se encuentren por debajo del umbral de activación, de acuerdo a los criterios establecidos por la IGAE y que, por tanto, se deberán registrar como gasto.
+
+– Los importes incluidos en el documento contable que, al no tener la naturaleza de activo, no han sido incorporados al inventario Sorolla.
+
+La cumplimentación del NCIS será obligatoria en los documentos contables que contengan la fase “O” de reconocimiento de la obligación, relativos al capítulo VI, “Inversiones reales” del presupuesto de gastos, siempre que no incorporen como clave de tipo de pago la de pagos a justificar ni se refieran a elementos patrimoniales que se integren en el inventario CIBI.
+
+Asimismo, será obligatoria la cumplimentación del NCIS en los documentos contables de “Control de pagos a justificar” que se refieran a la fase de “presentación” de la cuenta justificativa cuando la cuenta justificativa presentada incluya operaciones del capítulo VI, “inversiones reales” del presupuesto de gastos, que no deban incluirse en el sistema de inventario CIBI.
+
 (*) Unidad de cuenta: Se indicará la unidad de cuenta en la que ha sido tramitado el expediente de gasto: Pesetas (P) o euros (E).
+
+> Se añade la nota aclaratoria 245 por el art. 1.2 de la Orden HFP/1105/2017, de 16 de noviembre. Ref. BOE-A-2017-13278
 
 > Se modifica por el art. 1.4 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
 

@@ -12,7 +12,7 @@ I.2 Ejecución del Presupuesto de gastos corriente por capítulos.
 
 I.3 Ejecución de proyectos de inversión.
 
-I.4 Otros acreedores.
+I.4 Acreedores por operaciones devengadas.
 
 I.5 Anticipos de tesorería art. 60 de la Ley General Presupuestaria.
 
@@ -72,7 +72,7 @@ El .......................................”
 
 La diligencia anterior se expedirá por el Jefe de Contabilidad de cada Departamento Ministerial, con el visto bueno del correspondiente Interventor Delegado, cuando se trate de operaciones de inversiones financieras (III) y de operaciones de ejecución de los gastos públicos (I), excepto obligaciones de presupuesto corriente (I.7) y obligaciones de presupuestos cerrados (I.8).
 
-La diligencia anterior se expedirá por el Jefe de la División de Gestión Contable de la Oficina Nacional de Contabilidad, con el visto bueno del Interventor General de la Administración del Estado, cuando se trate de operaciones sobre la ejecución de ingresos públicos (II), y por el correspondiente Jefe de Contabilidad de la Secretaría General del Tesoro y Política Financiera, con el visto bueno del Interventor Delegado en dicha Secretaría General, cuando se trate de operaciones sobre obligaciones de presupuesto corriente (I.7), operaciones sobre obligaciones de presupuestos cerrados (I.8), operaciones de la Deuda del Estado (IV) y avales concedidos (V).
+La diligencia anterior se expedirá por el Jefe de la División de Gestión de la Contabilidad de la Oficina Nacional de Contabilidad, con el visto bueno del Interventor General de la Administración del Estado, cuando se trate de operaciones sobre la ejecución de ingresos públicos (II), y por el correspondiente Jefe de Contabilidad de la Secretaria General del Tesoro y Política Financiera, con el visto bueno del Interventor Delegado en dicha Secretaría General, cuando se trate de operaciones sobre obligaciones de presupuesto corriente (I.7), operaciones sobre obligaciones de presupuestos cerrados (I.8), operaciones de la Deuda del Estado (IV) y avales concedidos (V).
 
 El responsable que expida cada una de las diligencias anteriores deberá firmar o rubricar todas y cada una de las páginas de los informes que forman parte del correspondiente Informe agregado al que se refiera dicha diligencia.
 
@@ -89,6 +89,8 @@ Firma.»
 6. Mediante Resolución de la Intervención General de la Administración del Estado se podrán sustituir las diligencias en soporte papel de los puntos 3 y 4 de esta regla por las correspondientes diligencias electrónicas.
 
 En este caso, no será necesario el trámite previsto en el último párrafo del punto 3 de esta regla, relativo a la firma y rúbrica de las páginas de los informes agregados.
+
+> Se modifican los apartados 1 y 2 por el art. 4.5 de la Orden HFP/1105/2017, de 16 de noviembre. Ref. BOE-A-2017-13278
 
 > Se modifican los apartados 2 y 3 por el art. 4.1 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
 

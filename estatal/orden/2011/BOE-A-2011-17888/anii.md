@@ -12,7 +12,7 @@ I. Información sobre la ejecución de los gastos públicos.
 
 3. Ejecución de proyectos de inversión.
 
-4. Otros acreedores.
+4. Acreedores por operaciones devengadas.
 
 5. Anticipos de Tesorería art. 60 L.G.P
 
@@ -69,7 +69,7 @@ Sección ........................
 
 Ministerio de .............................................
 
-I. Información sobre la Ejecución de los Gastos Públicos
+I. Información sobre la ejecución de los gastos públicos
 
 Ejercicio ...............
 
@@ -97,7 +97,7 @@ Sección ........................
 
 Ministerio de .............................................
 
-I. Información sobre la Ejecución de los Gastos Públicos
+I. Información sobre la ejecución de los gastos públicos
 
 Ejercicio ...............
 
@@ -112,25 +112,24 @@ Sección ........................
 
 Ministerio de .............................................
 
-I. Información sobre la Ejecución de los Gastos Públicos
+I. Información sobre la ejecución de los gastos públicos
 
 Ejercicio ...............
 
-I.4. Otros acreedores
+I.4. Acreedores por operaciones devengadas
 
-Sección ........................
+Ministerio de .......................................................................................
 
-| OTROS ACREEDORES | IMPORTE |
+I. Información sobre la ejecución de los gastos públicos
+
+Ejercicio .............................
+
+I.4 Acreedores por operaciones devengadas
+
+| Cuenta | Importe |
 | --- | --- |
-| POR OPERACIONES PENDIENTES DE APLICAR A PRESUPUESTO |  |
-| POR PERIODIFICACIÓN DE GASTOS PRESUPUESTARIOS |  |
-| TOTAL |  |
-
-Ministerio de .............................................
-
-I. Información sobre la Ejecución de los Gastos Públicos
-
-Ejercicio ...............
+|  |  |
+| Total |  |
 
 I.5. Anticipos de Tesorería Art. 60 L.G.P.
 
@@ -143,7 +142,7 @@ Sección ........................
 
 Ministerio de .............................................
 
-I. Información sobre la Ejecución de los Gastos Públicos
+I. Información sobre la ejecución de los gastos públicos
 
 Ejercicio ...............
 
@@ -159,7 +158,7 @@ Sección ........................
 
 Ministerio de .............................................
 
-I. Información sobre la Ejecución de los Gastos Públicos
+I. Información sobre la ejecución de los gastos públicos
 
 Ejercicio ...............
 
@@ -174,7 +173,7 @@ Sección ........................
 
 Ministerio de .............................................
 
-I. Información sobre la Ejecución de los Gastos Públicos
+I. Información sobre la ejecución de los gastos públicos
 
 Ejercicio ...............
 
@@ -187,7 +186,7 @@ I.7.B. Propuestas pendientes de pago de presupuesto corriente.
 
 Ministerio de .............................................
 
-I. Información sobre la Ejecución de los Gastos Públicos
+I. Información sobre la ejecución de los gastos públicos
 
 Ejercicio ...............
 
@@ -202,7 +201,7 @@ Sección ........................
 
 Ministerio de .............................................
 
-I. Información sobre la Ejecución de los Gastos Públicos
+I. Información sobre la ejecución de los gastos públicos
 
 Ejercicio ...............
 
@@ -215,7 +214,7 @@ I.8.B. Propuestas pendientes de pago de presupuestos cerrados.
 
 Ministerio de .............................................
 
-II. Información sobre la Ejecución de los Ingresos Públicos
+II. Información sobre la ejecución de los ingresos públicos
 
 Ejercicio ...............
 
@@ -240,7 +239,7 @@ II.1. Ejecución del presupuesto de ingresos corriente por capítulos
 
 Ministerio de .............................................
 
-II. Información sobre la Ejecución de los Ingresos Públicos
+II. Información sobre la ejecución de los ingresos públicos
 
 Ejercicio ...............
 
@@ -265,7 +264,7 @@ II.2. Devoluciones de ingresos por capítulos
 
 Ministerio de .............................................
 
-II. Información sobre la Ejecución de los Ingresos Públicos
+II. Información sobre la ejecución de los ingresos públicos
 
 Ejercicio ...............
 
@@ -309,7 +308,7 @@ III.1. Inversiones financieras en capital, patrimonio y valores representativos 
 
 Ministerio de .............................................
 
-III. Información sobre las Inversiones Financieras
+III. Información sobre las inversiones financieras
 
 Ejercicio ...............
 
@@ -350,7 +349,7 @@ Ejercicio ....................................
 
 Ministerio de .............................................
 
-V. Información sobre los Avales Concedidos
+V. Información sobre los avales concedidos
 
 Ejercicio ...............
 
@@ -362,6 +361,8 @@ Ejercicio ...............
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SUBTOTAL OTRAS ENTIDADES |  |  |  |  |  |  |  |  |  |  |
 | TOTAL |  |  |  |  |  |  |  |  |  |  |
+
+> Se modifica por el art. 4.7 y Anexo III de la Orden HFP/1105/2017, de 16 de noviembre. Ref. BOE-A-2017-13278
 
 > Se modifica por el art. 4.2 y Anexo IV de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
 
