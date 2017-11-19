@@ -18,4 +18,8 @@ Tres. El consumo de dispositivos susceptibles de liberación de nicotina y produ
 
 Cuatro. En los centros o dependencias en los que existe prohibición legal de consumo de dispositivos susceptibles de liberación de nicotina y productos similares deberán colocarse en su entrada, en lugar visible, carteles que anuncien esta prohibición y los lugares, en los que, en su caso, se encuentren las zonas habilitadas para su consumo. Estos carteles estarán redactados en castellano y en la lengua cooficial con las exigencias requeridas por las normas autonómicas correspondientes.
 
+Cinco. Se prohíbe la venta a distancia transfronteriza de dispositivos susceptibles de liberación de nicotina y envases de recarga.
+
+> Se añade el apartado 5 por el art. único.6 del Real Decreto-ley 17/2017, de 17 de noviembre. Ref. BOE-A-2017-13277
+
 > Se añade por la disposición final 12.2 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.
