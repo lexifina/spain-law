@@ -24,4 +24,8 @@ j) Dirección General de Cartera Básica de Servicios del Sistema Nacional de Sa
 
 k) Dirección General de Arquitectura, Vivienda y Suelo.
 
+l) Dirección General de Infraestructura.
+
+> Se añadela letra l) por la disposición final 1.2 del Real Decreto 998/2017, de 24 de noviembre. Ref. BOE-A-2017-13645#df
+
 > Se añade la letra k) por la disposición final 1.2 del Real Decreto 362/2017, de 8 de abril. Ref. BOE-A-2017-3948#df

@@ -1,0 +1,3 @@
+## Disposición final cuarta. Inclusión del Centro Nacional de Inteligencia a efectos de las subvenciones en el ámbito de la cooperación internacional en materia de Defensa, de seguridad y de inteligencia.
+
+A los solos efectos del Real Decreto 1265/2007, de 21 de septiembre, por el que se establecen las normas especiales sobre subvenciones en el ámbito de la cooperación internacional en materia de Defensa, de seguridad y de inteligencia, se entenderá que el Centro Nacional de Inteligencia continúa incluido entre los organismos públicos del Ministerio de Defensa, sin perjuicio de su actual adscripción al Ministerio de la Presidencia y para las Administraciones Territoriales, de acuerdo con la disposición adicional segunda del Real Decreto 415/2016, de 3 de noviembre.

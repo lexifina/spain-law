@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Servicio Militar de Construcciones.
+
+El Organismo Autónomo Servicio Militar de Construcciones que, conforme a lo dispuesto en el artículo 1 de la Ley 15/2014, de 16 de septiembre, de racionalización del Sector Público y otras medidas de reforma administrativa, se encuentra integrado y depende orgánica y funcionalmente del Organismo Autónomo Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa (INVIED), se extinguirá mediante real decreto por el que se apruebe el Estatuto del organismo autónomo Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa.
