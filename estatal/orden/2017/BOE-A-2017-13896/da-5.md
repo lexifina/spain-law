@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Índice de rendimiento neto aplicable en 2017 por la actividad agrícola de obtención de arroz.
+
+El índice de rendimiento neto aplicable en el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas en 2017 por la actividad agrícola de obtención de arroz será, en sustitución del establecido en el anexo I de la Orden HFP/1823/2016, de 25 de noviembre, por la que se desarrollan para el año 2017 el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido, el 0,32.
