@@ -136,9 +136,11 @@ g) Las indicaciones que figuran con carácter general como notas en el apartado 
 
 h) En la etiqueta del envase, en lo que respecta a los productos incluidos en el apartado 1.3 del Anexo I, con excepción de los del tipo 1.3.4, debajo de las indicaciones obligatorias o facultativas, deberá aparecer el texto siguiente: «Utilícese solamente en caso de reconocida necesidad. No sobrepasar las dosis adecuadas.»
 
+2.4. Se indicarán todas las especies de microorganismos que entren a formar parte del producto fertilizante, siempre y cuando estén presentes en una cantidad mínima que garantice su eficacia agronómica en las condiciones de los ensayos que se presenten de acuerdo con lo exigido en el anexo VIII. El contenido se expresará en el caso de las bacterias como ufc/ml en productos líquidos, o ufc/g en productos sólidos y en el caso de los hongos como n.º propágulos/ml en productos líquidos o n.º propágulos/g en productos sólidos.
+
 3. Respecto a otros contenidos y características.-
 
-a) En los productos líquidos, el contenido en nutrientes se expresará en porcentaje en masa, pudiendo también incluirse el equivalente de la masa en relación con el volumen (kilogramos por hectolitro o gramos por litro).
+a) En los productos líquidos y en el tipo 6.05 Enmienda orgánica vermicompost, el contenido en nutrientes se expresará en porcentaje en masa, pudiendo también incluirse el equivalente de la masa en relación con el volumen (kilogramos por hectolitro o gramos por litro).
 
 b) En los productos fertilizantes elaborados con materias primas de origen orgánico deberán declararse los ingredientes que intervienen en su fabricación, con el porcentaje en masa que corresponde a cada uno de ellos.
 
@@ -161,6 +163,8 @@ g) En los productos fertilizantes de los grupos 2, 3 y 6 que utilicen como mater
 4. Respecto a las instrucciones de uso y aplicación.-
 
 Las instrucciones específicas sobre dosis a emplear y método de aplicación, para el suelo y el cultivo en que se utilizará el producto fertilizante, serán de exclusiva responsabilidad del fabricante, y respetarán las normas fijadas en este real decreto.
+
+En el caso de los productos del grupo 4.4., se hará mención a las condiciones de uso para las que dicho producto ha sido autorizado de acuerdo con los requisitos fijados en el presente real decreto y los resultados de los ensayos que la empresa haya presentado para la inscripción del producto en el Registro de productos fertilizantes mencionado en el artículo 21. Esta información incluirá también las incompatibilidades conocidas, de acuerdo con lo establecido en el artículo 24. También se incluirá fecha de caducidad que en ningún caso podrá superar un año desde la fecha de fabricación. Además, en caso de que los productos necesiten condiciones especiales de almacenamiento deberán indicarse también en la etiqueta.
 
 Cuando una Comunidad Autónoma haya regulado la utilización de determinados fertilizantes o establecido zonas de especial protección, el fabricante deberá facilitar al agricultor una información adicional a la etiqueta con estos requisitos.
 
@@ -194,6 +198,8 @@ h) El nombre o razón social y la dirección de la persona física o jurídica r
 
 i) La identificación de la partida o lote, para documentar su trazabilidad, de acuerdo con lo establecido en el artículo 15.
 
+j) En el caso de los productos del apartado 4 del grupo 4, se debe de incorporar la frase Contiene microorganismos. Puede provocar reacciones de sensibilización. Se recomienda la utilización de equipo de protección respiratoria (respirador desechable o careta filtrante, al menos EN 149 FFP3 o equivalente) al manipular el preparado o aplicar el producto.
+
 B. IDENTIFICACIONES Y MENCIONES FACULTATIVAS
 
 Los envases, etiquetas y documentos de acompañamiento podrán llevar las siguientes indicaciones:
@@ -223,5 +229,7 @@ k) Las instrucciones de almacenamiento y manipulación para los productos sólid
 l) La indicación «pobre en cloruro» sólo podrá incluirse cuando el contenido en cloruro sea inferior al 2 %. Así mismo, la indicación «libre de cloruro» sólo podrá incluirse cuando el contenido en cloruro sea inferior al 0,3%.
 
 m) Valor del pH en aquellos productos que no sea obligatoria su mención.
+
+> Se modifican los apartados A.2, A.3, A.4 y A.5 por el art. único.10 del Real Decreto 999/2017, de 24 de noviembre. Ref. BOE-A-2017-14332
 
 > Se modifican los apartados A.3, A.5, B.b) y B.g) y se elimina el B.h) por el art. único.2 de la Orden AAA/2564/2015, de 27 de noviembre. Ref. BOE-A-2015-13094.

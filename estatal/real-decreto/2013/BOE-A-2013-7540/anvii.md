@@ -46,7 +46,7 @@ Para poder verificar el contenido mínimo de principios activos y otras exigenci
 
 Sí la determinación no dispone de método oficial, se deberá especificar el método de análisis propuesto. En este caso se utilizarán prioritariamente métodos o normas EN, ISO, OCDE, AOAC o UNE. Cualquier otra alternativa deberá justificarse, adjuntando una versión completa del mismo, incluido el método de preparación de las muestras.
 
-Con el fin de completar la información, se adjuntará una relación de resultados de los distintos análisis del producto realizados por un laboratorio acorde con el artículo 35.
+Con el fin de completar la información, se adjuntará una relación de resultados de los distintos análisis del producto realizados por un laboratorio acorde con el apartado 5 del artículo 31.
 
 f) INFORMACIÓN COMPLEMENTARIA Y BIBLIOGRAFÍA.
 
@@ -65,3 +65,5 @@ Elaborar una propuesta de inclusión en la relación de tipos del Anexo I, y fac
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
+
+> Se modifica el apartado e) por el art. único.13 del Real Decreto 999/2017, de 24 de noviembre. Ref. BOE-A-2017-14332

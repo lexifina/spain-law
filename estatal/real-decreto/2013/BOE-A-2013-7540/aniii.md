@@ -171,8 +171,6 @@ Para cada uno de los aminoácidos libres declarados en el aminograma: 25% del va
 
 Extracto húmico total.15% del valor declarado, con un máximo del 3% en valor absoluto.
 
-Contenido en ácidos orgánicos: 20% del valor declarado hasta un máximo del 3% en valor absoluto.
-
 Contenido en ácido algínico: 10% del valor declarado.
 
 Contenido en manitol: 10% del valor declarado.
@@ -252,6 +250,8 @@ Cuando existan diferentes formas de nitrógeno o distintas solubilidades del pen
 Conductividad eléctrica: ± 4,0 dS/m (± 4.000,0 µs/cm).
 
 pH: ± 1,0 salvo en los productos clasificados como peligrosos, en los que no se admitirá tolerancia alguna.
+
+> Se modifica el apartado 4 por el art. único.11 del Real Decreto 999/2017, de 24 de noviembre. Ref. BOE-A-2017-14332
 
 > Se sustituye por el art. único.3 y Anexo II de la Orden AAA/2564/2015, de 27 de noviembre. Ref. BOE-A-2015-13094.
 
