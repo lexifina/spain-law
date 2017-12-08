@@ -4,8 +4,6 @@ GRUPO I
 
 Museo Nacional del Prado.
 
-Museo Nacional Centro de Arte Reina Sofía.
-
 Museo Arqueológico Nacional.
 
 Museo Nacional de Antropología.
@@ -75,3 +73,5 @@ Teatro María Guerrero.
 GRUPO III
 
 Los restantes Museos, Archivos, Bibliotecas y otros equipamientos culturales dependientes de la Secretaría de Estado de Cultura y de sus organismos autónomos.
+
+> Se modifica el Grupo I por la disposición derogatoria única.b) de la Orden PRA/1194/2017, de 24 de noviembre. Ref. BOE-A-2017-14414
