@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 109, de 7 de mayo de 1994. Ref. BOE-A-1994-10418.
+Norma derogada, con efectos de 12 de diciembre de 2017, por la disposición derogatoria única.1 del Real Decreto 513/2017, de 22 de mayo. Ref. BOE-A-2017-6606#dd

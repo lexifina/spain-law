@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Cobertura de seguro u otra garantía equivalente suscritos en otro Estado.
+
+1. Se considerará cumplida la exigencia establecida en los artículos 10 y 15 de este Reglamento cuando la empresa instaladora o mantenedora, que se establece o ejerce la actividad en España, ya esté cubierta por un seguro de responsabilidad civil profesional u otra garantía equivalente o comparable en lo esencial en cuanto a su finalidad y a la cobertura que ofrezca en términos de riesgo asegurado, suma asegurada o límite de la garantía en otro Estado miembro en el que ya esté establecida.
+
+2. Si la equivalencia con los requisitos es solo parcial, la empresa instaladora o mantenedora deberá ampliar el seguro o garantía equivalente hasta completar las condiciones exigidas. En el caso de seguros u otras garantías suscritas con entidades aseguradoras y entidades de crédito autorizadas en otro Estado miembro, se aceptarán a efectos de acreditación los certificados emitidos por éstas.
