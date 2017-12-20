@@ -10,6 +10,8 @@ Para el cálculo del valor , coeficiente en base uno que refleja para la empresa
 
 • Tomando como punto de partida las Auditorías sobre las inversiones en instalaciones de distribución de energía eléctrica presentadas por las empresas distribuidoras en cada uno de los ejercicios, se obtendrá de las mismas la inversión anual en instalaciones de distribución excluyendo los «Contadores y Equipos de Medida» y los «Otros Activos».
 
+> Téngase en cuenta que se declara nulo el inciso final destacado, por Sentencia del TS de 25 de octubre de 2017. Ref. BOE-A-2017-15094
+
 • De las auditorías señaladas en el apartado anterior, se obtendrá el importe pagado por terceros, el cual incluirá los siguientes conceptos que se desglosan en los mencionados informes de Auditoría:
 
 − Cesiones de instalaciones por terceros (en unidades físicas, así como su valor económico cuantificado por la empresa distribuidora).
@@ -39,3 +41,5 @@ IBaño_origen_a_31–12–1997; es el inmovilizado puesto en servicio en el peri
 IB1998–año_base_a_año_base; es el inmovilizado puesto en servicio en el periodo transcurrido desde el año 1998 hasta el año base, referenciado al año base.
 
 IBa_año_base Es el inmovilizado puesto en servicio desde el año origen hasta el año base, referenciado al año base.
+
+> Se declara la nulidad del inciso final destacado del primer punto, por Sentencia del TS de 25 de octubre de 2017. Ref. BOE-A-2017-15094
