@@ -1,12 +1,12 @@
 ## ANEXO V
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/68/03052_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/307/15022_ANEXO_V_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/68/03052_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/307/15022_ANEXO_V_2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/68/03052_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/307/15022_ANEXO_V_3.png)
 
-## Tabla de Territorios
+## TABLA DE TERRITORIOS
 
 | AF | AFGANISTÁN | AFGANA. |
 | --- | --- | --- |
@@ -224,7 +224,7 @@
 | Z | ZAMBIA | ZAMBIANA. |
 | RSR | ZIMBABWE | ZIMBABUESA. |
 
-## Tabla de provincias españolas
+## TABLA DE PROVINCIAS ESPAÑOLAS
 
 | ÁLAVA | 01 |
 | --- | --- |
@@ -280,5 +280,7 @@
 | CEUTA | 51 |
 | MELILLA | 52 |
 | EXTRANJERO | 60 |
+
+> Se modifica por el art. único.4 de la Orden ECD/1237/2017, de 11 de diciembre. Ref. BOE-A-2017-15022
 
 > Se modifica por el art. único.7 de la Orden ECD/445/2013, de 13 de marzo. Ref. BOE-A-2013-3052.
