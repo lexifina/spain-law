@@ -8,10 +8,12 @@
 
 4. Los informes y dictámenes de la Junta se efectuarán:
 
-Sobre la documentación clínica aportada por la Sanidad Militar, cuando la Junta lo estime suficiente.
+Sobre la documentación clínica aportada por la Sanidad Militar o por la Sanidad de la Guardia Civil, cuando la Junta lo estime suficiente.
 
 Excepcionalmente, por reconocimiento del interesado, en el curso de la sesión de la Junta, que habrá de ser citado con la antelación oportuna.
 
 En los casos de hospitalización psiquiátrica deberá solicitarse la autorización del interesado. De no acceder éste, se levantará acta en la que constará dicha negativa y se comunicará a la autoridad correspondiente.
 
 5. Las deliberaciones de la Junta tendrán el carácter de confidencialidad que debe reunir todo acto médico.
+
+> Se modifica el segundo párrafo del apartado 4 por el art. único.6 de la Orden PRA/1242/2017, de 11 de diciembre. Ref. BOE-A-2017-15080
