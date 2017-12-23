@@ -2,7 +2,7 @@
 
 ## Volúmenes mínimos de facturación requeridos para el reconocimiento
 
-a) Volúmenes mínimos para el reconocimiento por producto
+a) Volúmenes mínimos para el reconocimiento por producto:
 
 | Reconocimiento por producto | Facturación total de la entidad2 (millones de euros) |
 | --- | --- |
@@ -13,6 +13,8 @@ a) Volúmenes mínimos para el reconocimiento por producto
 | Algodón. | 0116 | Cultivo de plantas para fibras textiles. | 20 |
 | Alimentación animal. | 1091 | Alimentación animal | 225 |
 | 1092 | Fabricación de productos para la alimentación de animales de compañía. |
+| Alimentación animal (excluyendo animales de compañía). | 1091 | Piensos para especies de producción. | 217 |
+| Fabricación de productos para la alimentación de animales de compañía. | 1092 | Piensos para animales de compañía. | 8 |
 | Apícola. | 0149 | Otras explotaciones de ganado. | 20 |
 | Arroz. | 0112 | Cultivo de arroz. | 60 |
 | Avicultura de carne. | 0147 | Avicultura. | 350 |
@@ -20,6 +22,10 @@ a) Volúmenes mínimos para el reconocimiento por producto
 | 0147 | Avicultura. |
 | Carne de conejo. | 0149 | Otras explotaciones de ganado. | 35 |
 | Cultivos herbáceos (excepto arroz). | 0111 | Cultivo de cereales (excepto arroz), leguminosas y semillas oleaginosas. | 300 |
+| Cereales (excepto arroz). | 0111 | Cereales (excepto arroz). | 255 |
+| Leguminosas. | 0111 | Leguminosas. | 12 |
+| Oleaginosas. | 0111 | Semillas oleaginosas. | 33 |
+| Trigo duro. | 0111 | Trigo duro. | 23 |
 | Flores y plantas de vivero. | 0130 | Propagación de plantas. | 25 |
 | 0128 | Cultivo de especias, plantas aromáticas, medicinales y farmacéuticas. |
 | Forrajes deshidratados. | 0119 | Otros cultivos no perennes. | 50 |
@@ -80,12 +86,18 @@ a) Volúmenes mínimos para el reconocimiento por producto
 
 1 Incluidos en cada apartado los códigos CNAE en materia de transformación y comercialización correspondientes a los productos objeto de reconocimiento.
 
-2 Facturación total de la entidad y de sus entidades participadas (importe neto cifra de negocios) los valores de facturación se reducirán un 30% cuando la entidad solicitante sea una cooperativa agroalimentaria de primer grado.
+2 Facturación total de la entidad y de sus entidades participadas (importe neto cifra de negocios). Los valores de facturación se reducirán un 30% cuando la entidad solicitante sea una sociedad cooperativa agroalimentaria de primer grado.
 
-b) Volúmenes mínimos para un reconocimiento genérico
+b) Volúmenes mínimos para un reconocimiento genérico:
 
 | Reconocimiento genérico | Facturación total de la entidad3 (millones de euros) |
 | --- | --- |
 | Conjunto de productos comercializados por la entidad. | 750 |
 
 3 Facturación total de la entidad y de sus entidades participadas (importe neto cifra de negocios) Los valores de facturación se reducirán un 30% cuando la entidad solicitante sea una cooperativa agroalimentaria de primer grado.
+
+c) Volúmenes mínimos para las integraciones verticales en el reconocimiento por producto:
+
+En aquellas entidades asociativas de carácter agroalimentario, cuyas actividades cooperativizadas estén referidas a varias y distintas producciones de las mencionadas en el apartado a) del anexo I y en las que se lleve a cabo una integración vertical en la cadena de suministro, el volumen mínimo exigido para el reconocimiento será el 50 % de la facturación establecida por los distintos subsectores para los que se solicita el reconocimiento.
+
+> Se modifica la letra a) y se añade la c) por el art. único de la Orden APM/1259/2017, de 20 de diciembre. Ref. BOE-A-2017-15285
