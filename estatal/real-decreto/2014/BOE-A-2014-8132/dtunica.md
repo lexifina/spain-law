@@ -1,5 +1,5 @@
 ## Disposición transitoria única. Publicación del período medio de pago a proveedores en comunidades autónomas y corporaciones locales.
 
-Mientras no se produzca la modificación de la Orden HAP/2105/2012, de 1 de octubre, las comunidades autónomas y las corporaciones locales incluidas en el ámbito subjetivo definido en los artículos 111 y 135 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo, remitirán al Ministerio de Hacienda y Administraciones Públicas, para su publicación y seguimiento, y publicarán antes del día treinta de cada mes en su portal web, la información a la que se refiere el artículo 6 referida al mes anterior. El resto de corporaciones locales publicarán y comunicarán al Ministerio de Hacienda y Administraciones Públicas esta información referida a cada trimestre del año antes del día treinta del mes siguiente a la finalización de dicho trimestre.
+(Derogada).
 
-La primera publicación mensual de la información prevista en este real decreto tendrá lugar en el mes de octubre de 2014 referida a los datos del mes de septiembre de 2014, y la primera publicación trimestral será en el mes de octubre de 2014 referida al trimestre anterior.
+> Se deroga por la disposición derogatoria única del Real Decreto 1040/2017, de 22 de diciembre. Ref. BOE-A-2017-15364
