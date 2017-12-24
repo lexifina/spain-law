@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 24 de diciembre de 2017, por la disposicion derogatoria única del Real Decreto 1041/2017, de 22 de diciembre. Ref. BOE-A-2017-15367#dd, sin perjuicio de que sea aplicable en función de lo que resulte del calendario de implantación establecido en la disposición final primera del citado Real Decreto.

@@ -1,0 +1,25 @@
+## Artículo 7. Certificación de los niveles Intermedio y Avanzado.
+
+1. Siguiendo las recomendaciones del Consejo de Europa sobre el fomento del plurilingüismo, se podrán diversificar las modalidades de certificación de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2. Además de la certificación de competencia general, que incluirá las actividades de comprensión de textos orales y escritos, de producción y coproducción de textos orales y escritos, y de mediación para cada nivel, se podrán certificar igualmente competencias parciales correspondientes a una o más de dichas actividades de lengua. En todos los casos los certificados tendrán carácter oficial y validez en todo el territorio nacional.
+
+2. Para obtener los certificados de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 será necesaria la superación de unas pruebas específicas de certificación.
+
+3. Las Administraciones educativas regularán la organización de las pruebas de certificación, que se elaborarán, administrarán y evaluarán según unos estándares que garanticen su validez, fiabilidad, viabilidad, equidad, transparencia e impacto positivo, así como el derecho del alumnado a ser evaluado con plena objetividad. El Gobierno, previa consulta con las Comunidades Autónomas, establecerá los principios básicos comunes de evaluación con el fin de garantizar el cumplimiento de los requisitos de calidad mencionados.
+
+4. Las Administraciones educativas organizarán, al menos, una convocatoria anual de pruebas para la obtención de los certificados de competencia general de los niveles e idiomas impartidos en las escuelas oficiales de idiomas en su ámbito de gestión.
+
+5. Corresponde al profesorado de las escuelas oficiales de idiomas, en los términos que establezcan las respectivas Administraciones educativas, la elaboración, administración, y evaluación de las pruebas para la obtención de los certificados de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2.
+
+6. En el diseño y en la evaluación de las pruebas de certificación se tomarán como referencia los objetivos, las competencias, los contenidos y los criterios de evaluación establecidos para cada nivel y actividad de lengua en los currículos que establezcan las Administraciones educativas para cada uno de los idiomas a los que se refiere el artículo 1.1, currículos que deberán incluir, en todo caso, el currículo básico fijado en el anexo I de este real decreto para los respectivos niveles.
+
+7. En el caso del alumnado con discapacidad, el diseño, la administración y la evaluación de las pruebas para la obtención de los certificados habrán de basarse en los principios de igualdad de oportunidades, no discriminación, accesibilidad universal y compensación de desventajas. Los procedimientos de evaluación contendrán las medidas que resulten necesarias para su adaptación a las necesidades especiales de este alumnado.
+
+8. Siguiendo las recomendaciones del Consejo de Europa sobre el uso del Portfolio Europeo de las Lenguas, a los alumnos que no superen la totalidad de las pruebas correspondientes al certificado de competencia general de los niveles Intermedio B1, Intermedio B2, Avanzado C1, o Avanzado C2 las Administraciones educativas podrán expedir, a petición de aquellos, una certificación académica de haber alcanzado el grado de dominio requerido en aquellas actividades de lengua que las pruebas respectivas evalúen, de acuerdo con las condiciones que las Administraciones educativas determinen.
+
+9. Los certificados de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 deberán incluir, como mínimo, los datos siguientes: denominación del certificado (en la modalidad de certificación parcial, se añadirán la actividad o actividades de lengua evaluadas), órgano que lo expide, datos del alumno (nombre y apellidos; DNI o NIE o, en su defecto, número de pasaporte; fecha y lugar de nacimiento), idioma, nivel (Intermedio B1, Intermedio B2, Avanzado C1, o Avanzado C2) y fecha de expedición.
+
+10. Las Administraciones educativas determinarán la valoración de los certificados de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, en los procedimientos de reconocimiento de méritos que gestionen.
+
+11. A los titulares de los certificados de los niveles Intermedio B1, Intermedio B2, Avanzado C1, o Avanzado C2 se les podrá eximir de las pruebas de competencias en idiomas que establezcan las Administraciones públicas u otros organismos públicos y que correspondan a los niveles de competencia consignados.
+
+12. Los certificados de competencia general de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de español como lengua extranjera expedidos a través de las escuelas oficiales de idiomas y los diplomas de español como lengua extranjera (DELE) de los niveles B1, B2, C1, y C2 serán, respectivamente, equivalentes a todos los efectos en los procedimientos que establezcan las Administraciones públicas u otros organismos públicos en los que se deban acreditar competencias en dicho idioma a los mencionados niveles.
