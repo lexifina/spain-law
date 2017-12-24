@@ -12,7 +12,7 @@ a.e.a.: actividades especificadas en el epígrafe anterior
 
 c.c.d.: capacidad de consumo de disolvente
 
-"–" : sin grupo asignado
+«-» : sin grupo asignado
 
 | ACTIVIDAD | GRUPO | CÓDIGO |
 | --- | --- | --- |
@@ -21,14 +21,16 @@ c.c.d.: capacidad de consumo de disolvente
 | Calderas de P.t.n. >= 300 MWt | A | 01 01 01 00 |
 | a.e.a., de P.t.n. < 300 MWt y >= 50 MWt | A | 01 01 02 00 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 01 01 03 01 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt(1) | B | 01 01 03 02 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt f(1) | C | 01 01 03 03 |
-| a.e.a., de P.t.n.. < 70 kWt | – | 01 01 03 04 |
+| Calderas de P.t.n. <= 20 MWt y >= 5 MWt(1) | B | 01 01 03 02 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 01 01 03 03 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1) | C | 01 01 03 04 |
+| a.e.a., de P.t.n. < 250 KWt | – | 01 01 03 05 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 01 01 04 01 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 01 01 04 02 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt | B | 01 01 04 03 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt | C | 01 01 04 04 |
-| a.e.a., de P.t.n. < 70 kWt | – | 01 01 04 05 |
+| Turbinas de gas de P.t.n. <= 20 MWt y >= 5 MWt | B | 01 01 04 03 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 01 01 04 04 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt | C | 01 01 04 05 |
+| a.e.a., de P.t.n. < 250 kWt | – | 01 01 04 06 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 01 01 05 01 |
 | a.e.a., de P.t.n. <= 20 MWt y > 5 MWt | B | 01 01 05 02 |
 | a.e.a., de P.t.n. <= 5 MWt y >= 1 MWt | C | 01 01 05 03 |
@@ -37,14 +39,16 @@ c.c.d.: capacidad de consumo de disolvente
 | Calderas de P.t.n. >= 300 MWt | A | 01 02 01 00 |
 | a.e.a., de P.t.n. < 300 MWt y >= 50 MWt | A | 01 02 02 00 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 01 02 03 01 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt(1) | B | 01 02 03 02 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt(1) | C | 01 02 03 03 |
-| a.e.a., de P.t.n.. < 70 kWt | – | 01 02 03 04 |
+| Calderas de P.t.n. <=20 MWt y >= 5 MWt(1) | B | 01 02 03 02 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 01 02 03 03 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1) | C | 01 02 03 04 |
+| a.e.a., de P.t.n. < 250 KWt | – | 01 02 03 05 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 01 02 04 01 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 01 02 04 02 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt | B | 01 02 04 03 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt | C | 01 02 04 04 |
-| a.e.a., de P.t.n. < 70 kWt | – | 01 02 04 05 |
+| Turbinas de gas de P.t.n. <= 20 MWt y >= 5 MWt | B | 01 02 04 03 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 KWt | C | 01 02 04 04 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt | C | 01 02 04 05 |
+| a.e.a., de P.t.n. < 250 KWt | – | 01 02 04 06 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 01 02 05 01 |
 | a.e.a., de P.t.n. <= 20 MWt y > 5 MWt | B | 01 02 05 02 |
 | a.e.a., de P.t.n. <= 5 MWt y >= 1 MWt | C | 01 02 05 03 |
@@ -53,13 +57,16 @@ c.c.d.: capacidad de consumo de disolvente
 | Calderas de P.t.n. >= 300 MWt | A | 01 03 01 00 |
 | a.e.a., de P.t.n. < 300 MWt y >= 50 MWt | A | 01 03 02 00 |
 | Calderas de P.t.n. < 50 MWt y > 20 MWt | B | 01 03 03 01 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt(1) | B | 01 03 03 02 |
-| a.e.a., de P.t.n <= 2,3 MWt y >=70 kWt(1) | C | 01 03 03 03 |
-| a.e.a., de P.t.n. < 70 kWt | – | 01 03 03 04 |
+| Calderas de P.t.n. <= 20 MWt y >= 5 MWt(1) | B | 01 03 03 02 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 01 03 03 03 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1) | C | 01 03 03 04 |
+| a.e.a., de P.t.n. < 250 kWt | – | 01 03 03 05 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 01 03 04 01 |
-| a.e.a., de P.t.n. < 50 MWt y > 2,3 MWt | B | 01 03 04 02 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt | C | 01 03 04 03 |
-| a.e.a., de P.t.n. < 70 kWt | – | 01 03 04 04 |
+| Turbinas de gas de P.t.n. < 50 MWt y > 20 MWt | B | 01 03 04 02 |
+| a.e.a., de P.t.n. <= 20 MWt y >= 5 MWt | B | 01 03 04 03 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 01 03 04 04 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt | C | 01 03 04 05 |
+| a.e.a., de P.t.n. < 250 kWt | – | 01 03 04 06 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 01 03 05 01 |
 | a.e.a., de P.t.n. <= 20 MWt y > 5 MWt | B | 01 03 05 02 |
 | a.e.a., de P.t.n. <= 5 MWt y >= 1 MWt | C | 01 03 05 03 |
@@ -70,14 +77,16 @@ c.c.d.: capacidad de consumo de disolvente
 | Calderas de P.t.n. >= 300 MWt | A | 01 04 01 00 |
 | a.e.a., de P.t.n. < 300 MWt y >= 50 MWt | A | 01 04 02 00 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 01 04 03 01 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt(1) | B | 01 04 03 02 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt(1) | C | 01 04 03 03 |
-| a.e.a., de P.t.n. < 70 kWt | – | 01 04 03 04 |
+| Calderas de P.t.n. <= 20 MWt y >= 5 MWt(1) | B | 01 04 03 02 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 01 04 03 03 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1) | C | 01 04 03 04 |
+| a.e.a., de P.t.n. < 250 KWt | – | 01 04 03 05 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 01 04 04 01 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 01 04 04 02 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt | B | 01 04 04 03 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt | C | 01 04 04 04 |
-| a.e.a., de P.t.n. < 70 kWt | – | 01 04 04 05 |
+| Turbinas de gas de P.t.n. < =20 MWt y >= 5 MWt | B | 01 04 04 03 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 01 04 04 04 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt | C | 01 04 04 05 |
+| a.e.a., de P.t.n. < 250 kWt | – | 01 04 04 06 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 01 04 05 01 |
 | a.e.a., de P.t.n. <= 20 MWt y > 5 MWt | B | 01 04 05 02 |
 | a.e.a., de P.t.n. <= 5 MWt y >= 1 MWt | C | 01 04 05 03 |
@@ -89,92 +98,100 @@ c.c.d.: capacidad de consumo de disolvente
 | Calderas de P.t.n. >= 300 MWt | A | 01 05 01 00 |
 | a.e.a., de P.t.n. < 300 MWt y >= 50 MWt | A | 01 05 02 00 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 01 05 03 01 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt(1) | B | 01 05 03 02 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt(1) | C | 01 05 03 03 |
-| a.e.a., de P.t.n.. < 70 kWt | – | 01 05 03 04 |
+| Calderas de P.t.n. <= 20 MWt y >= 5 MWt(1) | B | 01 05 03 02 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 01 05 03 03 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1) | C | 01 05 03 04 |
+| a.e.a., de P.t.n.. < 250 kWt | – | 01 05 03 05 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 01 05 04 01 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 01 05 04 02 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt | B | 01 05 04 03 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt | C | 01 05 04 04 |
-| a.e.a., de P.t.n. < 70 kWt | – | 01 05 04 05 |
+| Turbinas de gas de P.t.n. <= 20 MWt y >= 5 MWt | B | 01 05 04 03 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 KWt | C | 01 05 04 04 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt | C | 01 05 04 05 |
+| a.e.a., de P.t.n. < 250 kWt | – | 01 05 04 06 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 01 05 05 01 |
 | a.e.a., de P.t.n. <= 20 MWt y > 5 MWt | B | 01 05 05 02 |
 | a.e.a., de P.t.n. <= 5 MWt y >= 1 MWt | C | 01 05 05 03 |
 | a.e.a., de P.t.n. < 1 MWt | – | 01 05 05 04 |
 | Turbinas de P.t.n. >= 50 MWt o motores de combustión interna de P.t.n. >= 20 MWt utilizados para accionar compresores | A | 01 05 06 01 |
-| Turbinas de P.t.n. < 50 MWt y > 2,3 MWt o motores de combustión interna de P.t.n. < 20 MWt y > 5 MWt utilizados para accionar compresores | B | 01 05 06 02 |
-| Turbinas de P.t.n. <= 2,3 MWt y >= 70 kWt o motores de combustión interna de P.t.n. <= 5 MWt y >= 1 MWt utilizados para accionar compresores | C | 01 05 06 03 |
-| Turbinas de P.t.n. < 70 kWt o motores de P.t.n. < 1 MWt utilizados para accionar compresores | – | 01 05 06 04 |
+| Turbinas de P.t.n. < 50 MWt y > 5 MWt, o motores de combustión interna de P.t.n. < 20 MWt y > 5 MWt utilizados para accionar compresores | B | 01 05 06 02 |
+| Turbinas de P.t.n. <= 5 MWt y >= 1 MWt, o motores de combustión interna de P.t.n. <= 5 MWt y >= 1 MWt utilizados para accionar compresores | C | 01 05 06 03 |
+| Turbinas de P.t.n. < 1MWt y >= 250 kWt | C | 01 05 06 04 |
+| Turbinas de P.t.n. < 250KWt, o motores de combustión interna de P.t.n. < 1 MWt utilizados para accionar compresores | – | 01 05 06 05 |
 | COMBUSTIÓN EN SECTORES NO INDUSTRIALES |  | 02 |
 | COMERCIAL E INSTITUCIONAL |  | 02 01 |
 | Calderas de P.t.n. >= 300 MWt | A | 02 01 01 00 |
 | a.e.a., de P.t.n. < 300 MWt y >= 50 MWt | A | 02 01 02 00 |
 | a.e.a., de P.t.n. < 50 MWt y >20 MWt | B | 02 01 03 01 |
-| a.e.a., de P.t.n. < =20 MWt y >= 2,3 MWt | C | 02 01 03 02 |
-| a.e.a., de P.t.n. < 2,3 MWt | – | 02 01 03 03 |
+| Calderas de P.t.n. <= 20 MWt y >= 1 MWt | C | 02 01 03 02 |
+| Calderas de P.t.n. < 1MWt | _ | 02 01 03 03 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 02 01 04 01 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 02 01 04 02 |
-| a.e.a., de P.t.n. <= 20 MWt y >= 2,3 MWt | C | 02 01 04 03 |
-| a.e.a., de P.t.n. < 2,3 MWt | – | 02 01 04 04 |
+| Turbinas de gas de P.t.n. <= 20 MWt y >= 1 MWt | C | 02 01 04 03 |
+| Turbinas de gas de P.t.n. < 1 MWt | – | 02 01 04 04 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 02 01 05 01 |
 | a.e.a., de P.t.n. < =20 MWt y > 5 MWt | B | 02 01 05 02 |
 | a.e.a., de P.t.n <= 5 MWt y >= 1 MWt | C | 02 01 05 03 |
 | a.e.a., de P.t.n < 1 MWt | – | 02 01 05 04 |
-| Otros equipos combustión no especificados anteriormente de P.t.n. >= 2,3 MWt | C | 02 01 06 01 |
-| a.e.a., de P.t.n < 2,3 MWt | – | 02 01 06 02 |
+| Otros equipos de combustión no especificados anteriormente de P.t.n. >= 1 MWt | C | 02 01 06 01 |
+| Otros equipos de combustión no especificados anteriormente de P.t.n. < 1 MW | – | 02 01 06 02 |
 | RESIDENCIAL |  | 02 02 |
 | Calderas de P.t.n. >= 50 MWt | A | 02 02 01 00 |
 | a.e.a., de P.t.n. < 50 MWt y >20 MWt | B | 02 02 02 01 |
-| a.e.a., de P.t.n. < =20 MWt y >= 2,3 MWt | C | 02 02 02 02 |
-| a.e.a., de P.t.n. < 2,3 MWt | – | 02 02 02 03 |
+| Calderas de P.t.n. <= 20 MWt y >= 1 MWt | C | 02 02 02 02 |
+| Calderas de P.t.n. < 1 MWt | _ | 02 02 02 03 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 02 02 03 01 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 02 02 03 02 |
-| a.e.a., de P.t.n. <= 20 MWt y >= 2,3 MWt | C | 02 02 03 03 |
-| a.e.a., de P.t.n. < 2,3 MWt | – | 02 02 03 04 |
+| Turbinas de gas de P.t.n. <= 20 MWt y >= 1 MWt | C | 02 02 03 03 |
+| Turbinas de gas de P.t.n. < 1 MWt | – | 02 02 03 04 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 02 02 04 01 |
 | a.e.a., de P.t.n. < =20 MWt y > 5 MWt | B | 02 02 04 02 |
 | a.e.a., de P.t.n <= 5 MWt y >= 1 MWt | C | 02 02 04 03 |
 | a.e.a., de P.t.n < 1 MWt | – | 02 02 04 04 |
-| Otros equipos combustión no especificados anteriormente de P.t.n. >= 2,3 MWt | C | 02 02 05 01 |
-| a.e.a., de P.t.n < 2,3 MWt | – | 02 02 05 02 |
+| Otros equipos combustión no especificados anteriormente de P.t.n. >= 1 MWt | C | 02 02 05 01 |
+| Otros equipos de combustión no especificados anteriormente de P.t.n. < 1 MWt | – | 02 02 05 02 |
 | SECTOR AGRARIO (AGRICULTURA, GANADERÍA, SILVICULTURA Y ACUICULTURA) |  | 02 03 |
 | Calderas de P.t.n. >= 50 MWt | A | 02 03 01 00 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 02 03 02 01 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt(1) | B | 02 03 02 02 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 500 kWt (1) | C | 02 03 02 03 |
-| a.e.a., de P.t.n.. < 500 kWt | – | 02 03 02 04 |
+| Calderas de P.t.n. <= 20 MWt y >=5 MWt (1) | B | 02 03 02 02 |
+| a.e.a., de P.t.n. < 5 MWt y >=1 MWt | C | 02 03 02 03 |
+| a.e.a., de P.t.n. < 1 MWt y >= 500 kWt (1) | C | 02 03 02 04 |
+| a.e.a., de P.t.n. < 500 kWt | _ | 02 03 02 05 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 02 03 03 01 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 02 03 03 02 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt | B | 02 03 03 03 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 500 kWt | C | 02 03 03 04 |
-| a.e.a., de P.t.n. < 500 kWt | – | 02 03 03 05 |
+| Turbinas de gas de P.t.n. <= 20 MWt y >= 5 MWt | B | 02 03 03 03 |
+| a.e.a., de P.t.n. < 5 MWt y >=1 MWt | C | 02 03 03 04 |
+| a.e.a., de P.t.n. < 1 MWt y >= 500 KWt | C | 02 03 03 05 |
+| a.e.a., de P.t.n. < 500 kWt | _ | 02 03 03 06 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 02 03 04 01 |
 | a.e.a., de P.t.n. < =20 MWt y > 5 MWt | B | 02 03 04 02 |
 | a.e.a., de P.t.n <= 5 MWt y >= 1 MWt | C | 02 03 04 03 |
-| a.e.a., de P.t.n < 1 MWt | – | 02 03 04 04 |
+| a.e.a., de P.t.n < 1 MWt | - | 02 03 04 04 |
 | Otros equipos de combustión no especificados anteriormente de P.t.n. >= 500 kWt | C | 02 03 05 01 |
 | a.e.a., de P.t.n. < 500 kWt | – | 02 03 05 02 |
 | PROCESOS INDUSTRIALES CON COMBUSTIÓN |  | 03 |
-| CALDERAS DE COMBUSTIÓN, TURBINAS DE GAS, MOTORES Y OTROS |  | 03 01 |
+| CALDERAS, TURBINAS DE GAS, MOTORES Y OTROS |  | 03 01 |
 | Calderas de P.t.n. >= 300 MWt | A | 03 01 01 00 |
 | a.e.a., de P.t.n. < 300 MWt y >= 50 MWt | A | 03 01 02 00 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 03 01 03 01 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt(1) | B | 03 01 03 02 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt (1) | C | 03 01 03 03 |
-| a.e.a., de P.t.n.. < 70 kWt | – | 03 01 03 04 |
+| Calderas de P.t.n. <= 20 MWt y >= 5 MWt (1) | B | 03 01 03 02 |
+| a.e.a., de P.t.n. < 5 MWt y >=1 MWt | C | 03 01 03 03 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1) | C | 03 01 03 04 |
+| a.e.a., de P.t.n. < 250 kWt | – | 03 01 03 05 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 03 01 04 01 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 03 01 04 02 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt | B | 03 01 04 03 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt | C | 03 01 04 04 |
-| a.e.a., de P.t.n. < 70 kWt | – | 03 01 04 05 |
+| Turbinas de gas de P.t.n. <= 20 MWt y >= 5 MWt | B | 03 01 04 03 |
+| a.e.a., de P.t.n. < 5 MWt y >=1 MWt | C | 03 01 04 04 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 kWt | C | 03 01 04 05 |
+| a.e.a., de P.t.n. < 250 kWt | – | 03 01 04 06 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 03 01 05 01 |
 | a.e.a., de P.t.n. < =20 MWt y > 5 MWt | B | 03 01 05 02 |
 | a.e.a., de P.t.n <= 5 MWt y >= 1 MWt | C | 03 01 05 03 |
 | a.e.a., de P.t.n < 1 MWt | – | 03 01 05 04 |
 | Otros equipos de combustión no especificados anteriormente de P.t.n. >= 50 MWt | A | 03 01 06 01 |
-| a.e.a., de P.t.n. < 50 MWt y > 2,3 MWt | B | 03 01 06 02 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 100 kWt | C | 03 01 06 03 |
-| a.e.a., de P.t.n. < 100 kWt | – | 03 01 06 04 |
+| Otros equipos de combustión no especificados anteriormente de P.t.n. < 50 MWt y >= 5 MWt(1) | B | 03 01 06 02 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 03 01 06 03 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 kWt (1) | C | 03 01 06 04 |
+| a.e.a., de P.t.n. < 250 kWt | – | 03 01 06 05 |
 | HORNOS DE PROCESOS SIN CONTACTO |  | 03 02 |
 | Estufas de Horno Alto | A | 03 02 03 00 |
 | Hornos de yeso (c.p. > 50 t/día) | A | 03 02 04 01 |
@@ -466,12 +483,18 @@ c.c.d.: capacidad de consumo de disolvente
 | a.e.a., con capacidad de manipulación de estos materiales >= 200 t/ día y < 1.000 t/día | C(2) | 04 06 16 51 |
 | a.e.a., con capacidad de manipulación de estos materiales < 200 t/día | -(2) | 04 06 16 52 |
 | HALOCARBUROS Y HEXAFLUORURO DE AZUFRE |  | 04 08 |
-| Producción de subproductos de hidrocarburos halogenados En aquellas actividades en las que se generen como subproductos gases fluorados se tomarán todas las medidas necesarias para limitar las emisiones de estos gases. A partir del 11 de junio de 2015 se prohíben las emisiones de HFC-23 como subproducto que deberá ser recuperado o destruido conforme a las mejores tecnologías disponibles con independencia del destino donde se comercialicen los gases fluorados producidos. | A | 04 08 01 00 |
-| Producción de hidrocarburos halogenados y emisiones fugitivas de su producción De manera general, queda prohibido el venteo y emisión directa a la atmósfera de todo fluido de GWP mayor que 150 o PAO mayor de 0,001 no permitiéndose diluciones para rebajar dicho valor. Se deberá disponer de sistemas de control de fugas automáticos y se realizarán controles periódicos de fugas complementarios debiéndose reparar a la mayor brevedad toda fuga detectada. | A | 04 08 02 00 |
-| Manipulación, almacenamiento o utilización en procesos no especificados en otros epígrafes de hidrocarburos halogenados Los productores de compuestos fluorados tomarán todas las medidas necesarias para limitar las emisiones de gases fluorados de efecto invernadero generados como subproducto. Se deberá disponer de sistemas de control de fugas automáticos y se realizarán controles periódicos de fugas complementarios en los sistemas de trasiego y almacenamiento de gases fluorados, debiéndose reparar a la mayor brevedad toda fuga detectada. En los procesos de llenado y trasvase de contenedores de dichos gases, se emplearán sistemas que minimicen las emisiones debiéndose recuperar los fluidos remanentes en todo contenedor que vaya a ser retirado o no vaya a ser llenado con el mismo tipo de fluido de manera que no quede más del 0,5% en peso del contenido máximo del recipiente para el fluido en cuestión. | A | 04 08 03 00 |
-| Producción de subproductos de hexafluoruro de azufre Los subproductos como SF4, SF2, S2F2, S2F10, formados en el proceso de producción de SF6, así como el propio SF6 contenidos en fluidos residuales que vayan a ser emitidos a la atmósfera, deberán ser recuperados o destruidos de la corriente de fluido residual antes de su emisión. | A | 04 08 04 00 |
-| Producción de hexafluoruro de azufre y emisiones fugitivas de su producción Serán de aplicación los requisitos establecidos para el 04 08 02 00 | A | 04 08 05 00 |
-| Manipulación, almacenamiento o utilización en procesos no especificados en otros epígrafes de hexafluoruro de azufre Serán de aplicación los requisitos establecidos para el 04 08 03 00 | A | 04 08 06 00 |
+| Producción de subproductos de hidrocarburos halogenados | A | 04 08 01 00 |
+| En aquellas actividades en las que se generen como subproductos gases fluorados se tomarán todas las medidas necesarias para limitar las emisiones de estos gases. A partir del 11 de junio de 2015 se prohíben las emisiones de HFC-23 como subproducto que deberá ser recuperado o destruido conforme a las mejores tecnologías disponibles con independencia del destino donde se comercialicen los gases fluorados producidos. |  |
+| Producción de hidrocarburos halogenados y emisiones fugitivas de su producción | A | 04 08 02 00 |
+| De manera general, queda prohibido el venteo y emisión directa a la atmósfera de todo fluido de GWP mayor que 150 o PAO mayor de 0,001 no permitiéndose diluciones para rebajar dicho valor. Se deberá disponer de sistemas de control de fugas automáticos y se realizarán controles periódicos de fugas complementarios debiéndose reparar a la mayor brevedad toda fuga detectada. |  |
+| Manipulación, almacenamiento o utilización en procesos no especificados en otros epígrafes de hidrocarburos halogenados | A | 04 08 03 00 |
+| Los productores de compuestos fluorados tomarán todas las medidas necesarias para limitar las emisiones de gases fluorados de efecto invernadero generados como subproducto. Se deberá disponer de sistemas de control de fugas automáticos y se realizarán controles periódicos de fugas complementarios en los sistemas de trasiego y almacenamiento de gases fluorados, debiéndose reparar a la mayor brevedad toda fuga detectada. En los procesos de llenado y trasvase de contenedores de dichos gases, se emplearán sistemas que minimicen las emisiones debiéndose recuperar los fluidos remanentes en todo contenedor que vaya a ser retirado o no vaya a ser llenado con el mismo tipo de fluido de manera que no quede más del 0,5% en peso del contenido máximo del recipiente para el fluido en cuestión. |  |
+| Producción de subproductos de hexafluoruro de azufre | A | 04 08 04 00 |
+| Los subproductos como SF4, SF2, S2F2, S2F10, formados en el proceso de producción de SF6, así como el propio SF6 contenidos en fluidos residuales que vayan a ser emitidos a la atmósfera, deberán ser recuperados o destruidos de la corriente de fluido residual antes de su emisión. |  |
+| Producción de hexafluoruro de azufre y emisiones fugitivas de su producción | A | 04 08 05 00 |
+| Serán de aplicación los requisitos establecidos para el 04 08 02 00 |  |
+| Manipulación, almacenamiento o utilización en procesos no especificados en otros epígrafes de hexafluoruro de azufre | A | 04 08 06 00 |
+| Serán de aplicación los requisitos establecidos para el 04 08 03 00 |  |
 | EXTRACCIÓN Y DISTRIBUCIÓN DE COMBUSTIBLES FÓSILES Y ENERGÍA GEOTÉRMICA |  | 05 |
 | EXTRACCIÓN Y PRIMER TRATAMIENTO DE COMBUSTIBLES FÓSILES SÓLIDOS |  | 05 01 |
 | Minería a cielo abierto | B | 05 01 01 00 |
@@ -665,9 +688,10 @@ c.c.d.: capacidad de consumo de disolvente
 | Incineración de residuos industriales no peligrosos para generación de electricidad para su distribución por la red pública | A | 09 02 02 01 |
 | a.e.a. con valorización energética no incluidos en el apartado anterior | A | 09 02 02 02 |
 | a.e.a. sin valorización energética (excepto antorchas) | A | 09 02 02 03 |
-| Incineración de residuos peligrosos para generación de electricidad para su distribución por la red pública a.e.a. con valorización energética no incluidos en el apartado anterior a.e.a. sin valorización energética (excepto antorchas) Se obtendrán eficiencias del 99,99% en la eliminación de residuos que contengan fluidos de GWP mayor que 150 o PAO mayor de 0,001, entendiéndose incluidas las tecnologías de tratamiento térmico de dichos gases, no permitiéndose diluciones para rebajar dicho valor. En los casos de destrucción de fuentes originalmente diluidas o fuentes de gases fluorados contenidas en la matriz de un sólido (por ejemplo, espumas), la eficiencia de la destrucción será superior al 95%. En cualquier caso, estas instalaciones independientemente de su capacidad deberán cumplir los requisitos del texto refundido de la Ley de prevención y control integrados de la contaminación y la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados, y del Real Decreto 815/2013 de 18 de octubre, por el que se aprueba el Reglamento de emisiones industriales y de desarrollo del texto refundido de la Ley de prevención y control integrados de la contaminación. | A A A | 09 02 02 04 09 02 02 05 09 02 02 06 |
-|  |
-|  |
+| Incineración de residuos peligrosos para generación de electricidad para su distribución por la red pública | A | 09 02 02 04 |
+| a.e.a. con valorización energética no incluidos en el apartado anterior | A | 09 02 02 05 |
+| a.e.a. sin valorización energética (excepto antorchas) | A | 09 02 02 06 |
+| Se obtendrán eficiencias del 99,99% en la eliminación de residuos que contengan fluidos de GWP mayor que 150 o PAO mayor de 0,001, entendiéndose incluidas las tecnologías de tratamiento térmico de dichos gases, no permitiéndose diluciones para rebajar dicho valor. En los casos de destrucción de fuentes originalmente diluidas o fuentes de gases fluorados contenidas en la matriz de un sólido (por ejemplo, espumas), la eficiencia de la destrucción será superior al 95%. En cualquier caso, estas instalaciones independientemente de su capacidad deberán cumplir los requisitos del texto refundido de la Ley de prevención y control integrados de la contaminación y la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados, y del Real Decreto 815/2013 de 18 de octubre, por el que se aprueba el Reglamento de emisiones industriales y de desarrollo del texto refundido de la Ley de prevención y control integrados de la contaminación. |  |
 | Antorchas en refinerías de petróleo | A | 09 02 03 00 |
 | Antorchas en otras instalaciones industriales no especificadas en otros epígrafes 09 02 | B | 09 02 04 00 |
 | Antorchas en las plantas de extracción de petróleo o gas | A | 09 02 06 01 |
@@ -700,9 +724,9 @@ c.c.d.: capacidad de consumo de disolvente
 | Secado de purines | B | 09 10 05 02 |
 | Producción de biogás o plantas de biometanización | B | 09 10 06 00 |
 | Producción de combustibles líquidos a partir de residuos plásticos | A | 09 10 08 00 |
-| Valorización no energética de residuos peligrosos con capacidad > 10 t/día Valorización no energética de residuos peligrosos con capacidad <= 10 t/día o de residuos no peligrosos con capacidad > 50 t /día Las plantas de tratamiento de residuos de gases fluorados o equipos que los contengan indicadas en este epígrafe tratarán exclusivamente los residuos para los que están autorizadas, dichos residuos corresponderán a los códigos LER correspondientes 16.02.13* (Equipos desechados que contienen componentes peligrosos, distintos de los especificados en los códigos 16 02 09 a 16 02 12) y 16.05.04* (Gases en recipientes a presión (incluidos los halones) que contienen sustancias peligrosas). Queda prohibido el tratamiento de residuos de aparatos eléctricos y electrónicos, de envases a presión o productos similares que contengan gases fluorados, CFCs, HCFCs y HFCs, sin su previa recuperación, de manera que se consiga una recuperación del 99% de los gases fluorados del circuito de refrigeración y que el contenido de gases fluorados en el aceite del comprensor sea inferior al 0,2% en peso. El tratamiento de residuos de aparatos eléctricos y electrónicos o de residuos similares que contengan que contengan clorofluorocarbonos (CFC), hidroclorofluorocarbonos (HCFC), hidrofluorocarbonos (HFC) o hidrocarburos (HC), se deberá realizar de acuerdo con las prescripciones técnicas derivadas del anexo XIII del Real Decreto 110/2015, de 20 de febrero, sobre residuos de aparatos eléctricos y electrónicos. En el caso que gases fluorados estén presentes en las espumas aislantes de aparatos eléctricos y electrónicos quedará igualmente prohibido su tratamiento sin la previa recuperación de estos gases de manera que el contenido de gases fluorados en la espuma sea inferior al 0,2% en peso. Queda prohibido el tratamiento de residuos de equipos eléctricos que contengan gas SF6 sin la previa recuperación del mismo, de manera que la presión parcial de gas SF6 en el momento de la apertura de cada compartimento que lo contenga no sea superior a 2 kPa. Todos los fluidos recuperados se gestionarán de acuerdo a la normativa de residuos aplicable, así como los compartimentos de los aparatos eléctricos que han contenido SF6 serán previamente descontaminados antes de tratamiento final, a fin de garantizar la neutralización de los productos de descomposición del SF6. | A B | 09 10 09 01 09 10 09 02 |
-|  |
-|  |
+| Valorización no energética de residuos peligrosos con capacidad > 10 t/día | A | 09 10 09 01 |
+| Valorización no energética de residuos peligrosos con capacidad <= 10 t/día o de residuos no peligrosos con capacidad > 50 t /día | B | 09 10 09 02 |
+| Las plantas de tratamiento de residuos de gases fluorados o equipos que los contengan indicadas en este epígrafe tratarán exclusivamente los residuos para los que están autorizadas, dichos residuos corresponderán a los códigos LER correspondientes 16.02.13* (Equipos desechados que contienen componentes peligrosos, distintos de los especificados en los códigos 16 02 09 a 16 02 12) y 16.05.04* (Gases en recipientes a presión (incluidos los halones) que contienen sustancias peligrosas). Queda prohibido el tratamiento de residuos de aparatos eléctricos y electrónicos, de envases a presión o productos similares que contengan gases fluorados, CFCs, HCFCs y HFCs, sin su previa recuperación, de manera que se consiga una recuperación del 99% de los gases fluorados del circuito de refrigeración y que el contenido de gases fluorados en el aceite del comprensor sea inferior al 0,2% en peso. El tratamiento de residuos de aparatos eléctricos y electrónicos o de residuos similares que contengan que contengan clorofluorocarbonos (CFC), hidroclorofluorocarbonos (HCFC), hidrofluorocarbonos (HFC) o hidrocarburos (HC), se deberá realizar de acuerdo con las prescripciones técnicas derivadas del anexo XIII del Real Decreto 110/2015, de 20 de febrero, sobre residuos de aparatos eléctricos y electrónicos. En el caso que gases fluorados estén presentes en las espumas aislantes de aparatos eléctricos y electrónicos quedará igualmente prohibido su tratamiento sin la previa recuperación de estos gases de manera que el contenido de gases fluorados en la espuma sea inferior al 0,2% en peso. Queda prohibido el tratamiento de residuos de equipos eléctricos que contengan gas SF6 sin la previa recuperación del mismo, de manera que la presión parcial de gas SF6 en el momento de la apertura de cada compartimento que lo contenga no sea superior a 2 kPa. Todos los fluidos recuperados se gestionarán de acuerdo a la normativa de residuos aplicable, así como los compartimentos de los aparatos eléctricos que han contenido SF6 serán previamente descontaminados antes de tratamiento final, a fin de garantizar la neutralización de los productos de descomposición del SF6. |  |
 | Valorización no energética de residuos no peligrosos con capacidad <= 50 t/día | C | 09 10 09 03 |
 | Valorización energética de residuos no considerada como incineración | A | 09 10 09 04 |
 | Tratamientos térmicos de animales muertos o deshechos cárnicos incluidos subproductos animales no aptos para el consumo humano o de sus corrientes residuales incluso con obtención de harinas o grasas | A | 09 10 09 05 |
@@ -805,7 +829,7 @@ c.c.d.: capacidad de consumo de disolvente
 | Almacenamiento sólido o apilamiento en seco (cantidades anuales equivalentes a las generadas por alguna de las actividades en epígrafes 10 05 clasificadas como grupo B) | B | 10 09 03 00 |
 | Otras operaciones | – | 10 09 04 00 |
 
-(1) Los equipos que formen parte íntegramente de instalaciones incluidas en el ámbito de aplicación del Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios pertenecerán al grupo B cuando su P.t.n. < 50 MWt y >20 MWt, al grupo C cuando su P.t.n. < =20 MWt y >= 2,3 MWt y no estarán asignados a ningún grupo cuando su P.t.n. < 2,3 MWt
+(1) Los equipos que formen parte íntegramente de instalaciones incluidas en el ámbito de aplicación del Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios pertenecerán al grupo B cuando su P.t.n. < 50 MWt y >20 MWt, al grupo C cuando su P.t.n. < =20 MWt y >= 1 MWt y no estarán asignados a ningún grupo cuando su P.t.n. < 1 MWt.
 
 (2) Las actividades pertenecientes al grupo B pasarán a considerarse como grupo A, las pertenecientes a grupo C pasarán a considerarse grupo B y las actividades sin grupo pasarán a considerarse grupo C a criterio del órgano competente de la comunidad autónoma, en el caso en que se utilicen sustancias peligrosas o la actividad se desarrolle a menos de 500 m de alguno de los siguientes espacios:
 
@@ -827,7 +851,11 @@ c.c.d.: capacidad de consumo de disolvente
 
 (4) Los umbrales especificados se refieren a instalaciones de ganadería intensiva y a la parte intensiva de las instalaciones con ganadería mixta (intensiva + extensiva).
 
-(5) A criterio del órgano competente de la comunidad autónoma, en el caso en que la actividad se desarrolle a menos de 500 m de un núcleo de población las actividades pertenecientes al grupo C pasarán a considerarse como grupo B.
+(5) A criterio del órgano competente de la comunidad autónoma, en el caso en que la actividad se desarrolle a menos de 500 m de un núcleo de población las actividades pertenecientes al grupo C pasarán a considerarse como grupo B
+
+> Se actualiza el catálogo según establece la disposición final 1 del Real Decreto 1042/2017, de 22 de diciembre. Ref. BOE-A-2017-15368#df
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 65, de 15 de marzo de 2018. Ref. BOE-A-2018-3587
 
 > Se modifica por la disposición final 2 del Real Decreto 115/2017, de 17 de febrero. Ref. BOE-A-2017-1679#df-2.
 

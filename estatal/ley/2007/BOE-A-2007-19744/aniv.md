@@ -12,7 +12,7 @@ a.e.a.: actividades especificadas en el epígrafe anterior
 
 c.c.d.: capacidad de consumo de disolvente
 
-«–» : sin grupo asignado
+«-» : sin grupo asignado
 
 | ACTIVIDAD | GRUPO | CÓDIGO |
 | --- | --- | --- |
@@ -21,14 +21,16 @@ c.c.d.: capacidad de consumo de disolvente
 | Calderas de P.t.n. >= 300 MWt | A | 01 01 01 00 |
 | a.e.a., de P.t.n. < 300 MWt y >= 50 MWt | A | 01 01 02 00 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 01 01 03 01 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt(1) | B | 01 01 03 02 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt f(1) | C | 01 01 03 03 |
-| a.e.a., de P.t.n.. < 70 kWt | – | 01 01 03 04 |
+| Calderas de P.t.n. <= 20 MWt y >= 5 MWt(1) | B | 01 01 03 02 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 01 01 03 03 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1) | C | 01 01 03 04 |
+| a.e.a., de P.t.n. < 250 KWt | – | 01 01 03 05 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 01 01 04 01 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 01 01 04 02 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt | B | 01 01 04 03 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt | C | 01 01 04 04 |
-| a.e.a., de P.t.n. < 70 kWt | – | 01 01 04 05 |
+| Turbinas de gas de P.t.n. <= 20 MWt y >= 5 MWt | B | 01 01 04 03 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 01 01 04 04 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt | C | 01 01 04 05 |
+| a.e.a., de P.t.n. < 250 kWt | – | 01 01 04 06 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 01 01 05 01 |
 | a.e.a., de P.t.n. <= 20 MWt y > 5 MWt | B | 01 01 05 02 |
 | a.e.a., de P.t.n. <= 5 MWt y >= 1 MWt | C | 01 01 05 03 |
@@ -37,14 +39,16 @@ c.c.d.: capacidad de consumo de disolvente
 | Calderas de P.t.n. >= 300 MWt | A | 01 02 01 00 |
 | a.e.a., de P.t.n. < 300 MWt y >= 50 MWt | A | 01 02 02 00 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 01 02 03 01 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt(1) | B | 01 02 03 02 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt(1) | C | 01 02 03 03 |
-| a.e.a., de P.t.n.. < 70 kWt | – | 01 02 03 04 |
+| Calderas de P.t.n. <=20 MWt y >= 5 MWt(1) | B | 01 02 03 02 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 01 02 03 03 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1) | C | 01 02 03 04 |
+| a.e.a., de P.t.n. < 250 KWt | – | 01 02 03 05 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 01 02 04 01 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 01 02 04 02 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt | B | 01 02 04 03 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt | C | 01 02 04 04 |
-| a.e.a., de P.t.n. < 70 kWt | – | 01 02 04 05 |
+| Turbinas de gas de P.t.n. <= 20 MWt y >= 5 MWt | B | 01 02 04 03 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 KWt | C | 01 02 04 04 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt | C | 01 02 04 05 |
+| a.e.a., de P.t.n. < 250 KWt | – | 01 02 04 06 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 01 02 05 01 |
 | a.e.a., de P.t.n. <= 20 MWt y > 5 MWt | B | 01 02 05 02 |
 | a.e.a., de P.t.n. <= 5 MWt y >= 1 MWt | C | 01 02 05 03 |
@@ -53,13 +57,16 @@ c.c.d.: capacidad de consumo de disolvente
 | Calderas de P.t.n. >= 300 MWt | A | 01 03 01 00 |
 | a.e.a., de P.t.n. < 300 MWt y >= 50 MWt | A | 01 03 02 00 |
 | Calderas de P.t.n. < 50 MWt y > 20 MWt | B | 01 03 03 01 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt(1) | B | 01 03 03 02 |
-| a.e.a., de P.t.n <= 2,3 MWt y >=70 kWt(1) | C | 01 03 03 03 |
-| a.e.a., de P.t.n. < 70 kWt | – | 01 03 03 04 |
+| Calderas de P.t.n. <= 20 MWt y >= 5 MWt(1) | B | 01 03 03 02 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 01 03 03 03 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1) | C | 01 03 03 04 |
+| a.e.a., de P.t.n. < 250 kWt | – | 01 03 03 05 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 01 03 04 01 |
-| a.e.a., de P.t.n. < 50 MWt y > 2,3 MWt | B | 01 03 04 02 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt | C | 01 03 04 03 |
-| a.e.a., de P.t.n. < 70 kWt | – | 01 03 04 04 |
+| Turbinas de gas de P.t.n. < 50 MWt y > 20 MWt | B | 01 03 04 02 |
+| a.e.a., de P.t.n. <= 20 MWt y >= 5 MWt | B | 01 03 04 03 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 01 03 04 04 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt | C | 01 03 04 05 |
+| a.e.a., de P.t.n. < 250 kWt | – | 01 03 04 06 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 01 03 05 01 |
 | a.e.a., de P.t.n. <= 20 MWt y > 5 MWt | B | 01 03 05 02 |
 | a.e.a., de P.t.n. <= 5 MWt y >= 1 MWt | C | 01 03 05 03 |
@@ -70,14 +77,16 @@ c.c.d.: capacidad de consumo de disolvente
 | Calderas de P.t.n. >= 300 MWt | A | 01 04 01 00 |
 | a.e.a., de P.t.n. < 300 MWt y >= 50 MWt | A | 01 04 02 00 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 01 04 03 01 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt(1) | B | 01 04 03 02 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt(1) | C | 01 04 03 03 |
-| a.e.a., de P.t.n. < 70 kWt | – | 01 04 03 04 |
+| Calderas de P.t.n. <= 20 MWt y >= 5 MWt(1) | B | 01 04 03 02 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 01 04 03 03 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1) | C | 01 04 03 04 |
+| a.e.a., de P.t.n. < 250 KWt | – | 01 04 03 05 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 01 04 04 01 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 01 04 04 02 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt | B | 01 04 04 03 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt | C | 01 04 04 04 |
-| a.e.a., de P.t.n. < 70 kWt | – | 01 04 04 05 |
+| Turbinas de gas de P.t.n. < =20 MWt y >= 5 MWt | B | 01 04 04 03 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 01 04 04 04 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt | C | 01 04 04 05 |
+| a.e.a., de P.t.n. < 250 kWt | – | 01 04 04 06 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 01 04 05 01 |
 | a.e.a., de P.t.n. <= 20 MWt y > 5 MWt | B | 01 04 05 02 |
 | a.e.a., de P.t.n. <= 5 MWt y >= 1 MWt | C | 01 04 05 03 |
@@ -89,92 +98,100 @@ c.c.d.: capacidad de consumo de disolvente
 | Calderas de P.t.n. >= 300 MWt | A | 01 05 01 00 |
 | a.e.a., de P.t.n. < 300 MWt y >= 50 MWt | A | 01 05 02 00 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 01 05 03 01 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt(1) | B | 01 05 03 02 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt(1) | C | 01 05 03 03 |
-| a.e.a., de P.t.n.. < 70 kWt | – | 01 05 03 04 |
+| Calderas de P.t.n. <= 20 MWt y >= 5 MWt(1) | B | 01 05 03 02 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 01 05 03 03 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1) | C | 01 05 03 04 |
+| a.e.a., de P.t.n.. < 250 kWt | – | 01 05 03 05 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 01 05 04 01 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 01 05 04 02 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt | B | 01 05 04 03 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt | C | 01 05 04 04 |
-| a.e.a., de P.t.n. < 70 kWt | – | 01 05 04 05 |
+| Turbinas de gas de P.t.n. <= 20 MWt y >= 5 MWt | B | 01 05 04 03 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 KWt | C | 01 05 04 04 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt | C | 01 05 04 05 |
+| a.e.a., de P.t.n. < 250 kWt | – | 01 05 04 06 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 01 05 05 01 |
 | a.e.a., de P.t.n. <= 20 MWt y > 5 MWt | B | 01 05 05 02 |
 | a.e.a., de P.t.n. <= 5 MWt y >= 1 MWt | C | 01 05 05 03 |
 | a.e.a., de P.t.n. < 1 MWt | – | 01 05 05 04 |
 | Turbinas de P.t.n. >= 50 MWt o motores de combustión interna de P.t.n. >= 20 MWt utilizados para accionar compresores | A | 01 05 06 01 |
-| Turbinas de P.t.n. < 50 MWt y > 2,3 MWt o motores de combustión interna de P.t.n. < 20 MWt y > 5 MWt utilizados para accionar compresores | B | 01 05 06 02 |
-| Turbinas de P.t.n. <= 2,3 MWt y >= 70 kWt o motores de combustión interna de P.t.n. <= 5 MWt y >= 1 MWt utilizados para accionar compresores | C | 01 05 06 03 |
-| Turbinas de P.t.n. < 70 kWt o motores de P.t.n. < 1 MWt utilizados para accionar compresores | – | 01 05 06 04 |
+| Turbinas de P.t.n. < 50 MWt y > 5 MWt, o motores de combustión interna de P.t.n. < 20 MWt y > 5 MWt utilizados para accionar compresores | B | 01 05 06 02 |
+| Turbinas de P.t.n. <= 5 MWt y >= 1 MWt, o motores de combustión interna de P.t.n. <= 5 MWt y >= 1 MWt utilizados para accionar compresores | C | 01 05 06 03 |
+| Turbinas de P.t.n. < 1MWt y >= 250 kWt | C | 01 05 06 04 |
+| Turbinas de P.t.n. < 250KWt, o motores de combustión interna de P.t.n. < 1 MWt utilizados para accionar compresores | – | 01 05 06 05 |
 | COMBUSTIÓN EN SECTORES NO INDUSTRIALES |  | 02 |
 | COMERCIAL E INSTITUCIONAL |  | 02 01 |
 | Calderas de P.t.n. >= 300 MWt | A | 02 01 01 00 |
 | a.e.a., de P.t.n. < 300 MWt y >= 50 MWt | A | 02 01 02 00 |
 | a.e.a., de P.t.n. < 50 MWt y >20 MWt | B | 02 01 03 01 |
-| a.e.a., de P.t.n. < =20 MWt y >= 2,3 MWt | C | 02 01 03 02 |
-| a.e.a., de P.t.n. < 2,3 MWt | – | 02 01 03 03 |
+| Calderas de P.t.n. <= 20 MWt y >= 1 MWt | C | 02 01 03 02 |
+| Calderas de P.t.n. < 1MWt | _ | 02 01 03 03 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 02 01 04 01 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 02 01 04 02 |
-| a.e.a., de P.t.n. <= 20 MWt y >= 2,3 MWt | C | 02 01 04 03 |
-| a.e.a., de P.t.n. < 2,3 MWt | – | 02 01 04 04 |
+| Turbinas de gas de P.t.n. <= 20 MWt y >= 1 MWt | C | 02 01 04 03 |
+| Turbinas de gas de P.t.n. < 1 MWt | – | 02 01 04 04 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 02 01 05 01 |
 | a.e.a., de P.t.n. < =20 MWt y > 5 MWt | B | 02 01 05 02 |
 | a.e.a., de P.t.n <= 5 MWt y >= 1 MWt | C | 02 01 05 03 |
 | a.e.a., de P.t.n < 1 MWt | – | 02 01 05 04 |
-| Otros equipos combustión no especificados anteriormente de P.t.n. >= 2,3 MWt | C | 02 01 06 01 |
-| a.e.a., de P.t.n < 2,3 MWt | – | 02 01 06 02 |
+| Otros equipos de combustión no especificados anteriormente de P.t.n. >= 1 MWt | C | 02 01 06 01 |
+| Otros equipos de combustión no especificados anteriormente de P.t.n. < 1 MW | – | 02 01 06 02 |
 | RESIDENCIAL |  | 02 02 |
 | Calderas de P.t.n. >= 50 MWt | A | 02 02 01 00 |
 | a.e.a., de P.t.n. < 50 MWt y >20 MWt | B | 02 02 02 01 |
-| a.e.a., de P.t.n. < =20 MWt y >= 2,3 MWt | C | 02 02 02 02 |
-| a.e.a., de P.t.n. < 2,3 MWt | – | 02 02 02 03 |
+| Calderas de P.t.n. <= 20 MWt y >= 1 MWt | C | 02 02 02 02 |
+| Calderas de P.t.n. < 1 MWt | _ | 02 02 02 03 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 02 02 03 01 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 02 02 03 02 |
-| a.e.a., de P.t.n. <= 20 MWt y >= 2,3 MWt | C | 02 02 03 03 |
-| a.e.a., de P.t.n. < 2,3 MWt | – | 02 02 03 04 |
+| Turbinas de gas de P.t.n. <= 20 MWt y >= 1 MWt | C | 02 02 03 03 |
+| Turbinas de gas de P.t.n. < 1 MWt | – | 02 02 03 04 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 02 02 04 01 |
 | a.e.a., de P.t.n. < =20 MWt y > 5 MWt | B | 02 02 04 02 |
 | a.e.a., de P.t.n <= 5 MWt y >= 1 MWt | C | 02 02 04 03 |
 | a.e.a., de P.t.n < 1 MWt | – | 02 02 04 04 |
-| Otros equipos combustión no especificados anteriormente de P.t.n. >= 2,3 MWt | C | 02 02 05 01 |
-| a.e.a., de P.t.n < 2,3 MWt | – | 02 02 05 02 |
+| Otros equipos combustión no especificados anteriormente de P.t.n. >= 1 MWt | C | 02 02 05 01 |
+| Otros equipos de combustión no especificados anteriormente de P.t.n. < 1 MWt | – | 02 02 05 02 |
 | SECTOR AGRARIO (AGRICULTURA, GANADERÍA, SILVICULTURA Y ACUICULTURA) |  | 02 03 |
 | Calderas de P.t.n. >= 50 MWt | A | 02 03 01 00 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 02 03 02 01 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt(1) | B | 02 03 02 02 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 500 kWt (1) | C | 02 03 02 03 |
-| a.e.a., de P.t.n.. < 500 kWt | – | 02 03 02 04 |
+| Calderas de P.t.n. <= 20 MWt y >=5 MWt (1) | B | 02 03 02 02 |
+| a.e.a., de P.t.n. < 5 MWt y >=1 MWt | C | 02 03 02 03 |
+| a.e.a., de P.t.n. < 1 MWt y >= 500 kWt (1) | C | 02 03 02 04 |
+| a.e.a., de P.t.n. < 500 kWt | _ | 02 03 02 05 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 02 03 03 01 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 02 03 03 02 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt | B | 02 03 03 03 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 500 kWt | C | 02 03 03 04 |
-| a.e.a., de P.t.n. < 500 kWt | – | 02 03 03 05 |
+| Turbinas de gas de P.t.n. <= 20 MWt y >= 5 MWt | B | 02 03 03 03 |
+| a.e.a., de P.t.n. < 5 MWt y >=1 MWt | C | 02 03 03 04 |
+| a.e.a., de P.t.n. < 1 MWt y >= 500 KWt | C | 02 03 03 05 |
+| a.e.a., de P.t.n. < 500 kWt | _ | 02 03 03 06 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 02 03 04 01 |
 | a.e.a., de P.t.n. < =20 MWt y > 5 MWt | B | 02 03 04 02 |
 | a.e.a., de P.t.n <= 5 MWt y >= 1 MWt | C | 02 03 04 03 |
-| a.e.a., de P.t.n < 1 MWt | – | 02 03 04 04 |
+| a.e.a., de P.t.n < 1 MWt | - | 02 03 04 04 |
 | Otros equipos de combustión no especificados anteriormente de P.t.n. >= 500 kWt | C | 02 03 05 01 |
 | a.e.a., de P.t.n. < 500 kWt | – | 02 03 05 02 |
 | PROCESOS INDUSTRIALES CON COMBUSTIÓN |  | 03 |
-| CALDERAS DE COMBUSTIÓN, TURBINAS DE GAS, MOTORES Y OTROS |  | 03 01 |
+| CALDERAS, TURBINAS DE GAS, MOTORES Y OTROS |  | 03 01 |
 | Calderas de P.t.n. >= 300 MWt | A | 03 01 01 00 |
 | a.e.a., de P.t.n. < 300 MWt y >= 50 MWt | A | 03 01 02 00 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 03 01 03 01 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt(1) | B | 03 01 03 02 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt (1) | C | 03 01 03 03 |
-| a.e.a., de P.t.n.. < 70 kWt | – | 03 01 03 04 |
+| Calderas de P.t.n. <= 20 MWt y >= 5 MWt (1) | B | 03 01 03 02 |
+| a.e.a., de P.t.n. < 5 MWt y >=1 MWt | C | 03 01 03 03 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 KWt(1) | C | 03 01 03 04 |
+| a.e.a., de P.t.n. < 250 kWt | – | 03 01 03 05 |
 | Turbinas de gas de P.t.n. >= 50 MWt | A | 03 01 04 01 |
 | a.e.a., de P.t.n. < 50 MWt y > 20 MWt | B | 03 01 04 02 |
-| a.e.a., de P.t.n. <= 20 MWt y > 2,3 MWt | B | 03 01 04 03 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 70 kWt | C | 03 01 04 04 |
-| a.e.a., de P.t.n. < 70 kWt | – | 03 01 04 05 |
+| Turbinas de gas de P.t.n. <= 20 MWt y >= 5 MWt | B | 03 01 04 03 |
+| a.e.a., de P.t.n. < 5 MWt y >=1 MWt | C | 03 01 04 04 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 kWt | C | 03 01 04 05 |
+| a.e.a., de P.t.n. < 250 kWt | – | 03 01 04 06 |
 | Motores de combustión interna de P.t.n. > 20 MWt | A | 03 01 05 01 |
 | a.e.a., de P.t.n. < =20 MWt y > 5 MWt | B | 03 01 05 02 |
 | a.e.a., de P.t.n <= 5 MWt y >= 1 MWt | C | 03 01 05 03 |
 | a.e.a., de P.t.n < 1 MWt | – | 03 01 05 04 |
 | Otros equipos de combustión no especificados anteriormente de P.t.n. >= 50 MWt | A | 03 01 06 01 |
-| a.e.a., de P.t.n. < 50 MWt y > 2,3 MWt | B | 03 01 06 02 |
-| a.e.a., de P.t.n. <= 2,3 MWt y >= 100 kWt | C | 03 01 06 03 |
-| a.e.a., de P.t.n. < 100 kWt | – | 03 01 06 04 |
+| Otros equipos de combustión no especificados anteriormente de P.t.n. < 50 MWt y >= 5 MWt(1) | B | 03 01 06 02 |
+| a.e.a., de P.t.n. < 5 MWt y >= 1 MWt | C | 03 01 06 03 |
+| a.e.a., de P.t.n. < 1 MWt y >= 250 kWt (1) | C | 03 01 06 04 |
+| a.e.a., de P.t.n. < 250 kWt | – | 03 01 06 05 |
 | HORNOS DE PROCESOS SIN CONTACTO |  | 03 02 |
 | Estufas de Horno Alto | A | 03 02 03 00 |
 | Hornos de yeso (c.p. > 50 t/día) | A | 03 02 04 01 |
@@ -812,7 +829,7 @@ c.c.d.: capacidad de consumo de disolvente
 | Almacenamiento sólido o apilamiento en seco (cantidades anuales equivalentes a las generadas por alguna de las actividades en epígrafes 10 05 clasificadas como grupo B) | B | 10 09 03 00 |
 | Otras operaciones | – | 10 09 04 00 |
 
-(1) Los equipos que formen parte íntegramente de instalaciones incluidas en el ámbito de aplicación del Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios pertenecerán al grupo B cuando su P.t.n. < 50 MWt y >20 MWt, al grupo C cuando su P.t.n. < =20 MWt y >= 2,3 MWt y no estarán asignados a ningún grupo cuando su P.t.n. < 2,3 MWt
+(1) Los equipos que formen parte íntegramente de instalaciones incluidas en el ámbito de aplicación del Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios pertenecerán al grupo B cuando su P.t.n. < 50 MWt y >20 MWt, al grupo C cuando su P.t.n. < =20 MWt y >= 1 MWt y no estarán asignados a ningún grupo cuando su P.t.n. < 1 MWt.
 
 (2) Las actividades pertenecientes al grupo B pasarán a considerarse como grupo A, las pertenecientes a grupo C pasarán a considerarse grupo B y las actividades sin grupo pasarán a considerarse grupo C a criterio del órgano competente de la comunidad autónoma, en el caso en que se utilicen sustancias peligrosas o la actividad se desarrolle a menos de 500 m de alguno de los siguientes espacios:
 
@@ -834,7 +851,11 @@ c.c.d.: capacidad de consumo de disolvente
 
 (4) Los umbrales especificados se refieren a instalaciones de ganadería intensiva y a la parte intensiva de las instalaciones con ganadería mixta (intensiva + extensiva).
 
-(5) A criterio del órgano competente de la comunidad autónoma, en el caso en que la actividad se desarrolle a menos de 500 m de un núcleo de población las actividades pertenecientes al grupo C pasarán a considerarse como grupo B.
+(5) A criterio del órgano competente de la comunidad autónoma, en el caso en que la actividad se desarrolle a menos de 500 m de un núcleo de población las actividades pertenecientes al grupo C pasarán a considerarse como grupo B
+
+> Se modifica por la disposición final 1 del Real Decreto 1042/2017, de 22 de diciembre. Ref. BOE-A-2017-15368#df
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 65, de 15 de marzo de 2018. Ref. BOE-A-2018-3587
 
 > Se modifica por el anexo del Real Decreto 100/2011, de 28 de enero, en la redacción dada por la disposición final 2 del Real Decreto 115/2017, de 17 de febrero. Ref. BOE-A-2017-1679
 
