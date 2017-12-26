@@ -282,7 +282,7 @@ B) Se añaden las siguientes cuentas:
 
 677. Otros gastos.
 
-6770. Gastos por bienes muebles no activados.
+6770. Gastos por bienes muebles e intangibles no activados.
 
 6771. Otros gastos actividad FRRI.
 
@@ -377,6 +377,10 @@ C) Se modifica la denominación de las siguientes cuentas:
 6628. Intereses de permutas financieras designadas instrumentos de cobertura de pasivos financieros.
 
 7628. Ingresos de permutas financieras designadas instrumentos de cobertura de pasivos financieros.
+
+> Se modifica la denominación de la cuenta 6770 por el apartado 1.1 de la Resolución de 18 de diciembre de 2017. Ref. BOE-A-2017-15430
+
+> Esta modificación será aplicable a las cuentas anuales del ejercicio 2017 y siguientes, según establece la disposicion final única de la citada Resolución.
 
 > Se añaden cuentas y subcuentas por el art. único.3 de la Resolución de 18 de julio de 2016. Ref. BOE-A-2016-7155
 
