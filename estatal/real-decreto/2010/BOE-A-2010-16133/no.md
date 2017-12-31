@@ -1,1 +1,1 @@
-Téngase en cuenta que, mediante Sentencia del TS de 27 de abril de 2017, Ref. BOE-A-2017-6174 se declara la nulidad del Real Decreto 924/2015, de 16 de octubre, que había derogado esta norma, a excepción de la disposición final primera de la misma. Ref. BOE-A-2015-11161#ddunica.
+Norma derogada, a excepción de la disposición final 1, con efectos de 31 de diciembre de 2017, por la disposición derogatoria única.1 del Real Decreto 1080/2017, de 29 de diciembre. Ref. BOE-A-2017-15855#dd

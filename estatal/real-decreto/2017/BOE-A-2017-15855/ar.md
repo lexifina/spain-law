@@ -1,0 +1,3 @@
+## Artículo 1. Integración del Servicio Militar de Construcciones en el organismo autónomo Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa.
+
+De acuerdo con lo dispuesto en el artículo 1 de la Ley 15/2014, de 16 de septiembre, de racionalización del Sector Público y otras medidas de reforma administrativa, y producida, con fecha 1 de enero de 2015, la integración efectiva del Servicio Militar de Construcciones (SMC) en el Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa (INVIED O.A.), mediante este real decreto se establecen las condiciones y forma de dicha integración, así como la extinción del SMC.
