@@ -1,16 +1,20 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_16863.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/317/15844_8314.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_16956.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/317/15844_8387.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_17030.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/317/15844_8458.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_17105.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/317/15844_8529.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/115/05312_17178.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/317/15844_8600.png)
 
-> Téngase en cuenta que esta última actualización del modelo 303, establecida por la disposición final 3.1 y el Anexo V de la Orden HFP/417/2017, de 12 de mayo. Ref. BOE-A-2017-5312, entra en vigor el 1 de julio de 2017.
+> Téngase en cuenta que los nuevos modelos de autoliquidación aprobados por el art. 3.2 de la Orden HFP/1307/2017, de 29 de diciembre. Ref. BOE-A-2017-15844 se utilizarán a partir del periodo de liquidación correspondiente a febrero de 2018, según se establece en la disposición final única.b) de la citada Orden.
+
+> Se sustituye por el art. 3.2 de la Orden HFP/1307/2017, de 29 de diciembre. Ref. BOE-A-2017-15844
+
+> Téngase en cuenta que los nuevos modelos de autoliquidación aprobados en esta última actualización se utilizarán a partir del periodo de liquidación correspondiente a febrero de 2018, según se establece en la disposición final única.b) de la citada Orden.
 
 > Se sustituye, con efectos de 1 de julio de 2017, por la disposición final 3.1 y el Anexo V de la Orden HFP/417/2017, de 12 de mayo. Ref. BOE-A-2017-5312
 
