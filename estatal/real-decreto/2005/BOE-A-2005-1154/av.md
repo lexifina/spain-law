@@ -16,7 +16,7 @@ I. Vegetales, productos vegetales y otros objetos que pueden ser portadores de o
 
 1.3. Vegetales de las especies de Solanum L., o sus híbridos que formen vástagos o tubérculos, destinados a la plantación.
 
-1.4. Vegetales de Fortunella Swingle, Poncirus Raf., y sus híbridos, Casimiroa La Llave, Clausena Burm f., Vepris Comm., Zanthoxylum L. y Vitis L., excepto los frutos y las semillas.
+1.4. Vegetales de Choisya Kunth, Fortunella Swingle, Poncirus Raf. y sus híbridos, Casimiroa La Llave, Clausena Burm. f., Murraya J. Koenig ex L., Vepris Comm., Zanthoxylum L. y Vitis L., excepto los frutos y semillas.
 
 1.5. Sin perjuicio de lo dispuesto en el punto 1.6, vegetales de Citrus L., y sus híbridos, excepto los frutos y las semillas.
 
@@ -32,13 +32,13 @@ b) corresponda a alguna de las siguientes designaciones de la parte 2 del anexo 
 
 | Código NC | Designación de la mercancía |
 | --- | --- |
-| 4401 10 00 | Leña, en trozos, leños, leña menuda, haces de ramillas o formas similares |
-| 4401 22 00 | Madera de plantas distintas de las coníferas, en plaquitas o partículas |
-| ex 4401 30 80 | Desperdicios y desechos de madera (distintos del serrín), sin aglomerar en forma de bolas, briquetas, leños o formas similares |
-| 4403 10 00 | Madera en bruto, incluso descortezada, desalburada o escuadrada, tratada con pintura, tinte, creosota u otros agentes de conservación. |
-| ex 4403 99 | Madera distinta de la de coníferas (que no sea madera tropical contemplada en la nota de subpartida 1 del capítulo 44, u otra madera tropical, de roble (Quercus spp.) o de haya (Fagus spp.)), en bruto, incluso descortezada, desalburada o escuadrada, no tratada con pintura, tinte, creosota u otros agentes de conservación |
-| ex 4404 20 00 | Rodrigones hendidos procedentes de vegetales distintos de las coníferas; estacas y estaquillas de madera, apuntadas sin aserrar longitudinalmente |
-| ex 4407 99 | Madera distinta de la de coníferas (que no sea madera tropical contemplada en la nota de subpartida 1 del capítulo 44, u otra madera tropical, de roble (Quercus spp.)) o de haya (Fagus spp.), madera aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm; |
+| 4401 12 00 | Leña distinta de la de coníferas, en trozos, leños, leña menuda, haces de ramillas o formas similares. |
+| 4401 22 00 | Madera distinta de la de coníferas, en plaquitas o partículas. |
+| 4401 40 90 | Desperdicios y desechos de madera (excepto el serrín), sin aglomerar. |
+| Ex 4403 12 00 | Madera en bruto distinta de la de coníferas, tratada con pintura, tinte, creosota u otros agentes de conservación, incluso descortezada, desalburada o escuadrada. |
+| Ex 4403 99 00 | Madera distinta de la de coníferas [que no sea madera tropical, roble (Quercus spp.), haya (Fagus spp.), abedul (Betula spp.), chopo y álamo (Populus spp.) o eucalipto (Eucalyptus spp.)], en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación. |
+| Ex 4404 20 00 | Rodrigones hendidos procedentes de vegetales distintos de las coníferas: estacas y estaquillas de madera, apuntadas sin aserrar longitudinalmente. |
+| Ex 4407 99 | Madera distinta de la de coníferas [que no sea madera tropical, roble (Quercus spp.), haya (Fagus spp.), arce (Acer spp.), cerezo (Prunus spp.), fresno (Fraxinus spp.), abedul (Betula spp.) o chopo y álamo (Populus spp.)], aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm. |
 
 1.8. Corteza aislada de Castanea Mill.
 
@@ -46,7 +46,7 @@ b) corresponda a alguna de las siguientes designaciones de la parte 2 del anexo 
 
 2. Vegetales, productos vegetales y demás objetos elaborados por productores cuya producción y venta esté autorizada a personas dedicadas profesional mente al cultivo de vegetales, distintos de los vegetales, productos vegetales y demás objetos preparados y listos para la venta al consumidor final, y para los cuales los organismos responsables oficiales de los Estados miembros garanticen que la producción ha tenido efecto de manera claramente separada de la de otros productos.
 
-2.1. Vegetales destinados a la plantación, excepto las semillas, de los géneros Abies Mill., Apium graveolens L., Argyranthemum spp., Asparagus officinalis L., Aster spp., Brassica spp., Castanea Mill., Cucumis spp., Dendranthema (DC.) Des Moul., Dianthus L. y sus híbridos, Exacum spp., Fragaria L., Gerbera Cass., Gypsophila L., todas las variedades de híbridos de Nueva Guinea de Impatiens L., Lactuca spp., Larix Mill., Leucanthemum L., Lupinus L., Pelargonium l'Hérit. ex Ait., Picea A. Dietr., Pinus L., Platanus L., Populus L., Prunus laurocerasus L., Prunus lusitanica L., Pseudotsuga Carr., Quercus L., Rubus L., Spinacia L., Tanacetum L., Tsuga Carr., Verbena L. y otros vegetales de especies herbáceas, excepto los de la familia Gramineae, destinados a la plantación, y excepto los bulbos, los cormos, los rizomas, las semillas y los tubérculos.
+2.1. Vegetales destinados a la plantación, excepto las semillas, de los géneros Abies Mill., Apium graveolens L., Argyranthemum spp., Asparagus officinalis L., Aster spp., Brassica spp., Castanea Mill., Cucumis spp., Dendranthema (DC.) Des Moul., Dianthus L. e híbridos, Exacum spp., Fragaria L., Gerbera Cass., Gypsophila L., todas las variedades de híbridos de Nueva Guinea de Impatiens L., Lactuca spp., Larix Mill., Leucanthemum L., Lupinus L., Pelargonium l’Hérit. ex Ait., Picea A. Dietr., Pinus L., Platanus L., Populus L., Prunus laurocerasus L., Prunus lusitanica L., Pseudotsuga Carr., Quercus L., Rubus L., Spinacia L., Tanacetum L., Tsuga Carr., Ulmus L., Verbena L. y otros vegetales de especies herbáceas, excepto los de la familia Gramineae, destinados a la plantación, y excepto los bulbos, los cormos, los rizomas, las semillas y los tubérculos.
 
 2.2. Solanáceas, salvo las mencionadas en el punto 1.3, destinadas a la plantación, excepto sus semillas.
 
@@ -70,9 +70,11 @@ Además de los vegetales, productos vegetales y otros objetos enumerados en la p
 
 1.1. Vegetales de Abies Mill., Larix Mill., Picea A. Dietr., Pinus L. y Pseudotsuga Carr.
 
-1.2. Vegetales de Platanus L., Populus L. y Beta vulgaris L. destinados a la plantación, excepto las semillas.
+1.2. Vegetales destinados a la plantación, excepto las semillas, de Beta vulgaris L., Platanus L., Populus L., Prunus L. y Quercus spp., distintos de Quercus suber y Ulmus L.
 
 1.3. Vegetales, excepto frutos y semillas, de Amelanchier Med., Castanea Mill., Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Eucalyptus L’Herit., Malus Mill., Mespilus L., Photinia davidiana (Dcne.) Cardot, Pyracantha Roem., Pyrus L., Sorbus L. y Vitis L.
+
+1.3.1 Vegetales de Palmae, destinados a la plantación, con un diámetro del tallo en la base superior a 5 cm, y pertenecientes a los taxones siguientes: Areca catechu L., Arenga pinnata (Wurmb) Merr., Bismarckia Hildebr. & H. Wendl., Borassus flabellifer L., Brahea Mart., Butia Becc., Calamus merrillii Becc., Caryota maxima Blume, Caryota cumingii Lodd. ex Mart., Chamaerops L., Cocos nucifera L., Copernicia Mart., Corypha utan Lam., Elaeis guineensis Jacq., Howea forsteriana Becc., Jubaea Kunth, Livistona R. Br., Metroxylon sagu Rottb., Phoenix L., Pritchardia Seem. & H. Wendl., Ravenea rivularis Jum. & H. Perrier, Roystonea regia (Kunth) O. F. Cook, Sabal Adans., Syagrus Mart., Trachycarpus H. Wendl., Trithrinax Mart., Washingtonia Raf.
 
 1.4. Polen vivo para polinización de Amelanchier Med, Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne.) Cardo, Pyracantha Roem., Pyrus L. y Sorbus L.
 
@@ -100,23 +102,30 @@ b) responda a alguna de las siguientes designaciones que figuran en la parte 2 d
 
 | Código NC | Designación de la mercancía |
 | --- | --- |
-| 4401 10 00 | Leña, en trozos, leños, leña menuda, haces de ramillas o formas similares |
-| 4401 21 00 | Madera de coníferas en plaquitas o partículas |
-| 4401 22 00 | Madera de vegetales distintos de las coníferas, en plaquitas o partículas |
-| ex 4401 30 | Desperdicios y desechos de madera (excepto el serrín), sin aglomerar en forma de bolas, briquetas, leños o formas similares |
-| ex 4403 10 00 | Madera en bruto, no descortezada, desalburada o escuadrada, tratada con pintura, tinte, creosota u otros agentes de conservación |
-| ex 4403 20 | Madera de coníferas, en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación. |
-| ex 4403 99 | Madera distinta de la de coníferas (que no sea madera tropical contemplada en la nota de subpartida 1 del capítulo 44, u otra madera tropical, de roble (Quercus spp.) o de haya (Fagus spp.)), en bruto, incluso descortezada, desalburada o escuadrada, no tratada con pintura, tinte, creosota u otros agentes de conservación. |
-| ex 4404 | Rodrigones hendidos: estacas y estaquillas de madera, apuntadas sin aserrar longitudinalmente |
-| 4406 | Traviesas (durmientes) de madera para vías férreas o similares |
-| 4407 10 | Madera de coníferas, aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm |
-| ex 4407 99 | Madera distinta de la de coníferas (que no sea madera tropical contemplada en la nota de subpartida 1 del capítulo 44, u otra madera tropical, de roble (Quercus spp.)) o de haya (Fagus spp.), aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm; |
+| 4401 10 00 | Leña de coníferas en trozos, leños, leña menuda, haces de ramillas o formas similares. |
+| 4401 12 00 | Leña distinta de la de coníferas, en trozos, leños, leña menuda, haces de ramillas o formas similares. |
+| 4401 21 00 | Madera de coníferas, en plaquitas o partículas. |
+| 4401 22 00 | Madera distinta de la de coníferas, en plaquitas o partículas. |
+| 4401 40 90 | Desperdicios y desechos de madera (excepto el serrín), sin aglomerar. |
+| Ex 4403 11 00 | Madera de coníferas en bruto, tratada con pintura, tinte, creosota u otros agentes de conservación, incluso descortezada, desalburada o escuadrada. |
+| Ex 4403 12 00 | Madera en bruto distinta de la de coníferas, tratada con pintura, tinte, creosota u otros agentes de conservación, incluso descortezada, desalburada o escuadrada. |
+| Ex 4403 21 | Madera de pino (Pinus spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, cualquiera de cuyas secciones transversales sea de 15 cm o más. |
+| Ex 4403 22 00 | Madera de pino (Pinus spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, distinta de aquella cuyas secciones transversales sean de 15 cm o más. |
+| Ex 4403 23 | Madera de abeto (Abies spp.) y pícea (Picea spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, cualquiera de cuyas secciones transversales sea de 15 cm o más. |
+| Ex 4403 24 00 | Madera de abeto (Abies spp.) y pícea (Picea spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, distinta de aquella cuyas secciones transversales sean de 15 cm o más. |
+| Ex 4403 25 | Madera de coníferas, excepto la de pino (Pinus spp.), abeto (Abies spp.) o pícea (Picea spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, cualquiera de cuyas secciones transversales sea de 15 cm o más. |
+| Ex 4403 26 00 | Madera de coníferas, excepto la de pino (Pinus spp.), abeto (Abies spp.) o pícea (Picea spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, distinta de aquella cuyas secciones transversales sean de 15 cm o más. |
+| Ex 4403 99 00 | Madera distinta de la de coníferas [que no sea madera tropical, roble (Quercus spp.), haya (Fagus spp.), abedul (Betula spp.), chopo y álamo (Populus spp.) o eucalipto (Eucalyptus spp.)], en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación. |
+| Ex 4404 | Rodrigones hendidos; estacas y estaquillas de madera, apuntadas sin aserrar longitudinalmente. |
+| 4406 | Traviesas (durmientes) de madera para vías férreas o similares. |
+| Ex 4407 | Madera de coníferas, aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm. |
+| Ex 4407 99 | Madera distinta de la de coníferas [que no sea madera tropical, roble (Quercus spp.), haya (Fagus spp.), arce (Acer spp.), cerezo (Prunus spp.), fresno (Fraxinus spp.), abedul (Betula spp.) o chopo y álamo (Populus spp.)], aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm. |
 
 1.11. Corteza aislada de Castanea Mill. y coníferas (Coniferales).
 
 2. Vegetales, productos vegetales y demás objetos elaborados por productores cuya producción y venta esté autorizada a personas dedicadas profesionalmente al cultivo de vegetales, distintos de los vegetales, productos vegetales y demás objetos preparados y listos para la venta al consumidor final, y para los cuales los organismos responsables oficiales de los Estados miembros garanticen que la producción ha tenido efecto de manera claramente separada de la de otros productos.
 
-2.1. Vegetales de Begonia L., destinados a la plantación, excepto los cormos, las semillas, los tubérculos y los vegetales de Euphorbia pulcherrima Willd., Ficus L. e Hibiscus L., destinados a la plantación, excepto las semillas.
+2.1. Vegetales de Begonia L., destinados a la plantación, excepto las semillas, los tubérculos y los cormos, y vegetales de Dipladenia A.DC., Euphorbia pulcherrima Willd., Ficus L. Hibiscus L., Mandevilla Lindl. y Nerium oleander L., destinados a la plantación, excepto las semillas.
 
 PARTE B
 
@@ -124,13 +133,13 @@ PARTE B
 
 I. Vegetales, productos vegetales y otros objetos que puedan ser portadores de organismos nocivos para todo el territorio de la Comunidad
 
-1. Vegetales destinados a la plantación (a excepción de las semillas), incluidas las semillas de Cruciferae, Gramineae, Trifolium spp., originarios de Argentina, Australia, Bolivia, Chile, Nueva Zelanda y Uruguay, género Triticum, Secale y X Triticosecale, originarios de Afganistán, India, Irán, Iraq, México, Nepal, Pakistán, Sudáfrica y Estados Unidos, Citrus L., Fortunella Swingle y Poncirus Raf., y sus híbridos, Capsicum spp., Helianthus annuus L., Solanum lycopersicum L., Medicago sativa L., Prunus L., Rubus L., Oryza spp., Zea mais L., Allium ascalonicum L., Allium cepa L., Allium porrum L., Allium schoenoprasum L. y Phaseolus L.
+1. Vegetales destinados a la plantación (a excepción de las semillas), incluidas las semillas de Cruciferae, Gramineae, Trifolium spp., originarios de Argentina, Australia, Bolivia, Chile, Nueva Zelanda y Uruguay, género Triticum, Secale y X Triticosecale, originarios de Afganistán, India, Irán, Iraq, México, Nepal, Pakistán, Sudáfrica y Estados Unidos, Citrus L., Fortunella Swingle y Poncirus Raf., y sus híbridos, Capsicum spp., Helianthus annuus L., Solanum lycopersicum L., Medicago sativa L., Prunus L., Rubus L., Oryza spp., Zea mays L., Allium ascalonicum L., Allium cepa L., Allium porrum L., Allium schoenoprasum L. y Phaseolus L.
 
 2. Partes de vegetales, excepto los frutos y semillas, de:
 
 – Castanea Mill., Dendranthema (DC.) Des Moul., Dianthus L., Gypsophila L., Pelargonium l'Herit. ex Ait, Phoenix spp., Populus L., Quercus L., Solidago L. y flores cortadas de Orchidaceae,
 
-– coníferas (Coniferales),
+– Coníferas (Coniferales),
 
 – Acer saccharum Marsh. originaria de Estados Unidos y Canadá,
 
@@ -146,17 +155,19 @@ I. Vegetales, productos vegetales y otros objetos que puedan ser portadores de o
 
 – Ramas cortadas de Fraxinus L., Juglans ailantifolia Carr., Juglans mandshurica Maxim., Ulmus davidiana Planch. y Pterocarya rhoifolia Siebold & Zucc., con o sin follaje, originarias de Canadá, China, República Popular Democrática de Corea, Japón, Mongolia, República de Corea, Rusia, Taiwán y Estados Unidos,
 
-– Amiris P. Browne, Casimiroa La Llave, Citropsis Swingle & Kellerman, Eremocitrus Swingle, Esenbeckia Kunth., Glycosmis Corrêa, Merrillia Swingle, Naringi Adans., Tetradium Lour., Toddalia Juss. y Zanthoxylum L.
+– Amyris P. Browne, Casimiroa La Llave, Citropsis Swingle & Kellerman, Eremocitrus Swingle, Esenbeckia Kunth., Glycosmis Corrêa, Merrillia Swingle, Naringi Adans., Tetradium Lour., Toddalia Juss. y Zanthoxylum L.
 
 2.1 Partes de vegetales, excluidos los frutos pero incluidas las semillas, de Aegle Corrêa, Aeglopsis Swingle, Afraegle Engl., Atalantia Corrêa, Balsamocitrus Stapf, Burkillanthus Swingle, Calodendrum Thunb., Choisya Kunth, Clausena Burm. f., Limonia L., Microcitrus Swingle, Murraya J. Koenig ex L., Pamburus Swingle, Severinia Ten., Swinglea Merr., Triphasia Lour y Vepris Comm.
 
 3. Frutos de:
 
-– Citrus L., Fortunella Swingle, Poncirus Raf. y sus híbridos, Momordica L. y Solanum melongena L.
+– Citrus L., Fortunella Swingle, Poncirus Raf., Microcitrus Swingle, Naringi Adans., Swinglea Merr. y sus híbridos, Momordica L., Solanum lycopersicum L., y Solanum melongena L.
 
 – Annona L., Cydonia Mill. Diospyros L., Malus Mill., Mangifera L., Passiflora L., Prunus L., Psidium L., Pyrus L., Ribes L. Syzygium Gaertn., y Vaccinium L., originarios de países no europeos.
 
 – Capsicum L.
+
+– Punica granatum L. originario de países del continente africano, Cabo Verde, Santa Helena, Madagascar, La Reunión, Mauricio e Israel.
 
 4. Tubérculos de Solanum tuberosum L.
 
@@ -188,33 +199,46 @@ a) se haya obtenido en su totalidad o en parte de los órdenes, géneros o espec
 
 – Betula L., incluida la madera que no ha conservado su superficie redondeada habitual, originaria de Canadá y Estados Unidos;
 
+– Amelanchier Medik., Aronia Medik., Cotoneaster Medik., Crataegus L., Cydonia Mill., Malus Mill., Prunus L., Pyracantha M. Roem., Pyrus L. y Sorbus L., incluida la madera que no conserve su superficie redondeada habitual, excepto serrín o virutas, originaria de Canadá o los EE. UU.
+
 y
 
 b) responda a alguna de las siguientes designaciones establecidas en la parte 2 del anexo I del Reglamento (CEE) n.º 2658/87 del Consejo:
 
 | Código NC | Descripción |
 | --- | --- |
-| 4401 10 00 | Leña, madera en plaquitas o partículas o formas similares |
-| 4401 21 00 | Madera de coníferas, en plaquitas o partículas |
-| 4401 22 00 | Madera distinta de la de coníferas, en plaquitas o partículas |
-| ex 4401 30 40 | Serrín, sin aglomerar, en leños, briquetas, «pellets» o formas similares; |
-| ex 4401 30 80 | Otros desperdicios y desechos, de madera, sin aglomerar, en leños, briquetas, «pellets» o formas similares |
-| 4403 10 00 | Madera en bruto, tratada con pintura, creosota u otros agentes de conservación, no descortezada, desalburada ni escuadrada |
-| 4403 20 | Madera de coníferas en bruto, distinta de la tratada con pintura, creosota u otros agentes de conservación, incluso descortezada, desalburada o escuadrada |
-| 4403 91 | Madera de roble (Quercus spp.) en bruto, distinta de la tratada con pintura, creosota u otros agentes de conservación, incluso descortezada, desalburada o escuadrada |
-| ex 4403 99 | Madera distinta de la de coníferas [que no sea la madera tropical contemplada en la nota de subpartida 1 del capítulo 44 u otra madera tropical, de roble (Quercus spp.), de haya (Fagus spp.) o de abedul (Betula L.)], en bruto, incluso descortezada, desalburada o escuadrada, distinta de la tratada con pintura, tinte, creosota u otros agentes de conservación |
-| 4403 99 51 | Madera en rollo para serrar de abedul (Betula L.) en bruto, incluso descortezada, desalburada o escuadrada |
-| 4403 99 59 | Madera de abedul (Betula L.) en bruto, incluso descortezada, desalburada o escuadrada |
-| ex 4404 | Rodrigones hendidos; estacas y estaquillas de madera, apuntadas sin aserrar longitudinalmente |
-| 4406 | Traviesas (durmientes) de madera para vías férreas o similares |
-| 4407 10 | Madera de coníferas, aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm |
-| 4407 91 | Madera de encina, roble, alcornoque y demás belloteros (Quercus spp.) aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm |
-| ex 4407 93 | Madera de Acer saccharum Marsh, aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm |
-| 4407 95 | Madera de fresno (Fraxinus spp.), aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm |
-| ex 4407 99 | Madera distinta de la de coníferas [que no sea la madera tropical contemplada en la nota de subpartida 1 del capítulo 44 u otra madera tropical, de roble (Quercus spp.), de haya (Fagus spp.), de arce (Acer spp.), de cerezo (Prunus spp.) o de fresno (Fraxinus spp.)], aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm |
-| 4408 10 | Hojas de coníferas para chapado, incluidas las obtenidas por cortado de madera estratificada, para contrachapado o para maderas estratificadas similares y demás maderas aserradas longitudinalmente, cortadas o desenrolladas, incluso cepilladas, lijadas, unidas longitudinalmente o por los extremos, de espesor inferior o igual a 6 mm |
-| 4416 00 00 | Barriles, cubas, tinas y demás manufacturas de tonelería y sus partes, de madera, incluidas las duelas |
-| 9406 00 20 | Construcciones prefabricadas de madera», |
+| 4401 10 00 | Leña de coníferas en trozos, leños, leña menuda, haces de ramillas o formas similares. |
+| 4401 12 00 | Leña distinta de la de coníferas, en trozos, leños, leña menuda, haces de ramillas o formas similares. |
+| 4401 21 00 | Madera de coníferas, en plaquitas o partículas. |
+| 4401 22 00 | Madera distinta de la de coníferas, en plaquitas o partículas. |
+| 4401 40 10 | Serrín, sin aglomerar. |
+| 4401 40 90 | Desperdicios y desechos de madera (excepto el serrín), sin aglomerar. |
+| Ex 4403 11 00 | Madera de coníferas en bruto, tratada con pintura, tinte, creosota u otros agentes de conservación, incluso descortezada, desalburada o escuadrada. |
+| Ex 4403 12 00 | Madera en bruto distinta de la de coníferas, tratada con pintura, tinte, creosota u otros agentes de conservación, incluso descortezada, desalburada o escuadrada. |
+| Ex 4403 21 | Madera de pino (Pinus spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, cualquiera de cuyas secciones transversales sea de 15 cm o más. |
+| Ex 4403 22 00 | Madera de pino (Pinus spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, distinta de aquella cuyas secciones transversales sean de 15 cm o más. |
+| Ex 4403 23 | Madera de abeto (Abies spp.) y pícea (Picea spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, cualquiera de cuyas secciones transversales sea de 15 cm o más. |
+| Ex 4403 24 00 | Madera de abeto (Abies spp.) y pícea (Picea spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, distinta de aquella cuyas secciones transversales sean de 15 cm o más. |
+| Ex 4403 25 | Madera de coníferas, excepto la de pino (Pinus spp.), abeto (Abies spp.) o pícea (Picea spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, cualquiera de cuyas secciones transversales sea de 15 cm o más. |
+| Ex 4403 26 00 | Madera de coníferas, excepto la de pino (Pinus spp.), abeto (Abies spp.) o pícea (Picea spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, distinta de aquella cuyas secciones transversales sean de 15 cm o más. |
+| 4403 91 00 | Madera de roble (Quercus spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación. |
+| 4403 95 | Madera de abedul (Betula spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, cualquiera de cuyas secciones transversales sea de 15 cm o más. |
+| 4403 96 00 | Madera de abedul (Betula spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, distinta de aquella cuyas secciones transversales sean de 15 cm o más. |
+| 4403 97 00 | Madera de chopo y álamo (Populus spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación. |
+| Ex 4403 99 00 | Madera distinta de la de coníferas [que no sea madera tropical, roble (Quercus spp.), haya (Fagus spp.), abedul (Betula spp.), chopo y álamo (Populus spp.) o eucalipto (Eucalyptus spp.)], en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación. |
+| Ex 4404 | Rodrigones hendidos; estacas y estaquillas de madera, apuntadas sin aserrar longitudinalmente. |
+| 4406 | Traviesas (durmientes) de madera para vías férreas o similares. |
+| Ex 4407 | Madera de coníferas, aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm. |
+| 4407 91 | Madera de roble (Quercus spp.) aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm. |
+| Ex 4407 93 | Madera de Acer saccharum Marsh, aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm. |
+| 4407 94 | Madera de cerezo (Prunus spp.), aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm. |
+| 4407 95 | Madera de fresno (Fraxinus spp.), aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm. |
+| 4407 96 | Madera de abedul (Betula spp.), aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm. |
+| 4407 97 | Madera de chopo y álamo (Populus spp.), aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm. |
+| Ex 4407 99 | Madera distinta de la de coníferas [que no sea madera tropical, roble (Quercus spp.), haya (Fagus spp.), arce (Acer spp.), cerezo (Prunus spp.), fresno (Fraxinus spp.), abedul (Betula spp.) o chopo y álamo (Populus spp.)], aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm. |
+| 4408 10 | Hojas de coníferas para chapado, incluidas las obtenidas por cortado de madera estratificada, para contrachapado o para maderas estratificadas similares y demás maderas aserradas longitudinalmente, cortadas o peladas, incluso cepilladas, lijadas, unidas longitudinalmente o por los extremos, de espesor inferior o igual a 6 mm. |
+| 4416 00 00 | Barriles, cubas, tinas y demás manufacturas de tonelería y sus partes, de madera, incluidas las duelas. |
+| 9406 10 00 | Construcciones prefabricadas de madera. |
 
 7. a) La tierra y el medio de cultivo, formado total o parcialmente de tierra o sustancias orgánicas sólidas como partes de vegetales, humus con turba o cortezas, excepto el compuesto en su totalidad de turba.
 
@@ -256,23 +280,32 @@ b) responda a alguna de las siguientes designaciones de la parte 2 del anexo I d
 
 | Código NC | Designación de la mercancía |
 | --- | --- |
-| 4401 10 00 | Leña, en trozos, leños, leña menuda, haces de ramillas o formas similares |
-| 4401 21 00 | Madera de coníferas, en plaquitas o partículas |
-| 4401 22 00 | Madera que no sea de coníferas, en plaquitas o partículas |
-| ex 4401 30 | Desperdicios y desechos de madera (excepto el serrín), sin aglomerar en forma de bolas, briquetas, leños o formas similares |
-| 4403 10 00 | Madera en bruto, que no esté descortezada, desalburada o escuadrada y tratada con pintura, tinte, creosota u otros agentes de conservación |
-| 4403 20 | Madera de conífera en bruto, que no esté descortezada, desalburada o escuadrada y no esté tratada con pintura, tinte, creosota u otros agentes de conservación |
-| ex 4403 99 | Madera distinta de la de coníferas (que no sea madera tropical contemplada en la nota de subpartida 1 del capítulo 44, u otra madera tropical, de roble (Quercus spp.)) o de haya (Fagus spp.), en bruto, incluso descortezada, desalburada o escuadrada, no tratada con pintura, tinte, creosota u otros agentes de conservación. |
-| ex 4404 | Rodrigones hendidos; estacas y estaquillas de madera, apuntadas sin aserrar longitudinalmente |
-| 4406 | Traviesas (durmientes) de madera para vías férreas o similares |
-| 4404 10 | Madera de coníferas, aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm |
-| ex 4407 99 | Madera distinta de la de coníferas (que no sea madera tropical contemplada en la nota de subpartida 1 del capítulo 44, u otra madera tropical, de roble (Quercus spp.) o de haya (Fagus spp.)), aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm |
-| 4415 | Cajones, cajas, jaulas, tambores y embalajes similares, de madera; carretes para cables, de madera; paletas, paletas caja y demás plataformas para carga, de madera; collarines para paletas, de madera: |
-| 9406 00 20 | Construcciones prefabricadas de madera. |
+| 4401 11 00 | Leña de coníferas en trozos, leños, leña menuda, haces de ramillas o formas similares. |
+| 4401 12 00 | Leña distinta de la de coníferas, en trozos, leños, leña menuda, haces de ramillas o formas similares. |
+| 4401 21 00 | Madera de coníferas, en plaquitas o partículas. |
+| 4401 22 00 | Madera distinta de la de coníferas, en plaquitas o partículas. |
+| 4401 40 90 | Desperdicios y desechos de madera (excepto el serrín), sin aglomerar. |
+| Ex 4403 11 00 | Madera de coníferas en bruto, tratada con pintura, tinte, creosota u otros agentes de conservación, incluso descortezada, desalburada o escuadrada. |
+| Ex 4403 12 00 | Madera en bruto distinta de la de coníferas, tratada con pintura, tinte, creosota u otros agentes de conservación, incluso descortezada, desalburada o escuadrada. |
+| Ex 4403 21 | Madera de pino (Pinus spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, cualquiera de cuyas secciones transversales sea de 15 cm o más. |
+| Ex 4403 22 00 | Madera de pino (Pinus spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, distinta de aquella cuyas secciones transversales sean de 15 cm o más. |
+| Ex 4403 23 | Madera de abeto (Abies spp.) y pícea (Picea spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, cualquiera de cuyas secciones transversales sea de 15 cm o más. |
+| Ex 4403 24 00 | Madera de abeto (Abies spp.) y pícea (Picea spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, distinta de aquella cuyas secciones transversales sean de 15 cm o más. |
+| Ex 4403 25 | Madera de coníferas, excepto la de pino (Pinus spp.), abeto (Abies spp.) o pícea (Picea spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, cualquiera de cuyas secciones transversales sea de 15 cm o más. |
+| Ex 4403 26 00 | Madera de coníferas, excepto la de pino (Pinus spp.), abeto (Abies spp.) o pícea (Picea spp.), en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación, distinta de aquella cuyas secciones transversales sean de 15 cm o más. |
+| Ex 4403 99 00 | Madera distinta de la de coníferas [que no sea madera tropical, roble (Quercus spp.), haya (Fagus spp.), abedul (Betula spp.), chopo y álamo (Populus spp.) o eucalipto (Eucalyptus spp.)], en bruto, incluso descortezada, desalburada o escuadrada, que no ha sido tratada con pintura, tinte, creosota u otros agentes de conservación. |
+| Ex 4404 | Rodrigones hendidos; estacas y estaquillas de madera, apuntadas sin aserrar longitudinalmente. |
+| 4406 | Traviesas (durmientes) de madera para vías férreas o similares. |
+| Ex 4407 | Madera de coníferas, aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm. |
+| Ex 4407 99 | Madera distinta de la de coníferas [que no sea madera tropical, roble (Quercus spp.), haya (Fagus spp.), arce (Acer spp.), cerezo (Prunus spp.), fresno (Fraxinus spp.), abedul (Betula spp.) o chopo y álamo (Populus spp.)], aserrada o desbastada longitudinalmente, cortada o desenrollada, incluso cepillada, lijada o unida por los extremos, de espesor superior a 6 mm. |
+| 4415 | Cajones, cajas jaulas, tambores y envases similares, de madera; carretes para cables, de madera; paletas, paletas caja y demás plataformas para carga, de madera; collarines para paletas, de madera. |
+| 9406 10 00 | Construcciones prefabricadas de madera. |
 
 8. Partes de vegetales de Eucalyptus l’Hérit.
 
 9. Corteza aislada de coníferas (Coniferales), originaria de terceros países europeos.
+
+> Se modifica por el art. único.5 de la Orden APM/1211/2017, de 4 de diciembre. Ref. BOE-A-2017-14565
 
 > Se modifica por el art. único.5 de la Orden AAA/1703/2014, de 18 de septiembre. Ref. BOE-A-2014-9668
 

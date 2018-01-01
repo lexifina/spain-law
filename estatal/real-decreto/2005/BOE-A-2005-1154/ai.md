@@ -26,9 +26,11 @@ a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 
 4.1. Anoplophora glabripennis (Motschulsky).
 
-5. Anoplophora malasiaca (Forster)
+5. (Suprimido).
 
 6. Arrhenodes minutus Drury
+
+6.1 Bactericera cockerelli (Sulc.).
 
 7. Bemisia tabaci Genn. (poblaciones no europeas) portadoras de los virus siguientes:
 
@@ -74,6 +76,8 @@ c) Graphocephala atropunctata (Signoret)
 
 11.1. Hirschmanniella spp., distinta de Hirschmanniella gracilis (de Man) Luc & Goodey
 
+11.2 Keiferia lycopersicella (Walsingham).
+
 12. Liriomyza sativae Blanchard
 
 13. Longidorus diadecturus Eveleigh et Alien
@@ -93,6 +97,8 @@ c) Graphocephala atropunctata (Signoret)
 19. Pseudopityophthorus pruinosus (Eichhoff)
 
 19.1 Rhynchophorus palmarum (L.).
+
+19.2 Saperda candida Fabricius.
 
 20. Scaphoideus luteolus (Van Duzee)
 
@@ -152,6 +158,8 @@ v) Rhagoletis ribicola Doane
 
 w) Rhagoletis suavis (Loew)
 
+25.1 Thaumatotibia leucotreta (Meyrick).
+
 26. Xiphinema americanum Cobb sensu lato (poblaciones no europeas)
 
 27. Xiphinema californicum Lamberti et Bleve-Zacheo
@@ -160,7 +168,11 @@ b) Bacterias
 
 0.1. Candidatus Liberibacter spp., agente causante del huanglongbing o greening de los cítricos
 
-1. Xylella fastidiosa (Well et Raju)
+1. (Suprimido).
+
+2. Xanthomonas citri pv. aurantifolii.
+
+2.1 Xanthomonas citri pv. citri.
 
 c) Hongos
 
@@ -188,7 +200,9 @@ c) Hongos
 
 12. Phoma andina Turkensteen
 
-13. Phyllosticta solitaria Eli. et Ev.
+12.1 Phyllosticta citricarpa (McAlpine) Van der Aa.
+
+13. Phyllosticta solitaria Ellis & Everhart.
 
 14. Septoria lycopersici Speg. var. malagutii Ciccarone et Boerema
 
@@ -200,7 +214,7 @@ c) Hongos
 
 d) Virus y organismos afines
 
-1. Elm phlóem necrosis mycoplasm
+1. (Suprimido).
 
 2. Virus y organismos afines de la patata, tales como:
 
@@ -212,7 +226,7 @@ c) Arracacha virus B, oca strain
 
 d) Potato black ringspot virus
 
-e) Potato spindle tuber viroid
+e) (Suprimido).
 
 f) Potato virus T
 
@@ -294,7 +308,7 @@ a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 
 7. Opogona sacchari (Bojer)
 
-8. Popilia japónica Newman
+8. Popillia japonica Newman
 
 8.1. Rhizoecus hibisci Kawai & Takagi
 
@@ -308,6 +322,8 @@ b) Bacterias
 
 2. Ralstonia solanacearum (Smith) Yabuuchi et al.
 
+3. Xylella fastidiosa (Wells et al.).
+
 c) Hongos
 
 1. Melampsora medusae Thümen
@@ -320,6 +336,8 @@ d) Virus y organismos afines
 
 2. Apricot chlorotic leafroll mycoplasm
 
+2.1 Candidatus Phytoplasma ulmi.
+
 3. Pear decline mycoplasm
 
 PARTE B
@@ -330,20 +348,23 @@ a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 
 | Especies | Zonas protegidas |
 | --- | --- |
-| 1. Bemisia tabaci Genn. (poblaciones europeas) | IRL, P [Azores, Beira Interior, Beira Litoral, Entre Douro e Minho, Ribatejo e Oeste (municipios de Alcobaça, Alenquer, Bombarral, Cadaval, Caldas da Rainha, Lourinhã, Nazaré, Obidos, Peniche y Torres Vedras) y Trás-os-Montes], UK, S, FIN |
+| 1. Bemisia tabaci Genn. (Poblaciones europeas). | IRL, P (Azores, Beira Interior, Beira Litoral, Entre Douro e Minho y Trás-os-Montes), FI, S, UK. |
 | 1.1. Daktulosphaira vitifoliae (Fitch) | CY |
-| 1.2. Dryocosmus kuriphilus Yasumatsu | IRL, P, UK |
-| 2. Globodera pallida (Stone) Behrens | FIN, LV, SI, SK |
-| 3. Leptinotarsa decemlineata Say. | E (Ibiza y Menorca), IRL., CY, M, P (Azores y Madeira), UK, S (Blekinge, Gotland, Halland, Kalmar, Skåne), Fl (los distritos de Åland, Turku, Uusimaa, Kymi, Häme, Pirkanmaa, Satakunta) |
+| 1.2 Dryocosmus kuriphilus Yasumatsu | IRL, UK. |
+| 2. Globodera pallida (Stone) Behrens | FI, LV, P (Azores), SI, SK. |
+| 2.1 Globodera rostochiensis (Wollenweber) Behrens | P (Azores). |
+| 3. Leptinotarsa decemlineata Say. | E (Ibiza y Menorca), IRL, CY, M, P (Azores y Madeira), UK, S (los distritos de Blekinge, Gotland, Halland, Kalmar y Skåne), FI (los distritos de Åland, Häme, Kymi, Pirkanmaa, Satakunta, Turku y Uusimaa). |
 | 4. Liriomyza bryoniae (Kaltenbach). | IRL y UK (Irlanda del Norte). |
-| 5. Thaumatopoea processionea L. | IRL y UK (excepto las entidades locales de Barnet; Brent; Bromley; Camden; City of London; City of Westminster; Croydon; Ealing; Elmbridge District; Epsom and Ewell District; Hackney; Hammersmith & Fulham; Haringey; Harrow; Hillingdon; Hounslow; Islington; Kensington & Chelsea; Kingston upon Thames; Lambeth; Lewisham; Merton; Reading; Richmond Upon Thames; Runnymede District; Slough; South Oxfordshire; Southwark; Spelthorne District; Sutton; Tower Hamlets; Wandsworth; y West Berkshire) |
+| 5. Thaumetopoea processionea L. | IRL, UK (excepto las entidades locales de Barnet; Brent; Bromley; Camden; City of London; City of Westminster; Croydon; Ealing; Elmbridge District; Epsom and Ewell District; Guildford; Hackney; Hammersmith & Fulham; Haringey; Harrow; Hillingdon; Hounslow; Islington; Kensington & Chelsea; Kingston upon Thames; Lambeth; Lewisham; Merton; Reading; Richmond upon Thames; Runnymede District; Slough; South Oxfordshire; Southwark; Spelthorne District; Sutton; Tower Hamlets; Wandsworth; West Berkshire and Woking). |
 
 b) Virus y organismos afines
 
 | Especies | Zonas protegidas |
 | --- | --- |
 | 1. Beet necrotic yellow vein virus. | F (Bretaña), FIN, IRL, P (Azores), UK (Irlanda del Norte).». |
-| 2. Tomato spotted wilt virus. | S, FIN. |
+| 2. Tomato spotted wilt virus. | S |
+
+> Se modifica por el art. único.1 de la Orden APM/1211/2017, de 4 de diciembre. Ref. BOE-A-2017-14565
 
 > Se modifica por el art. único.1 de la Orden AAA/1703/2014, de 18 de septiembre. Ref. BOE-A-2014-9668
 
