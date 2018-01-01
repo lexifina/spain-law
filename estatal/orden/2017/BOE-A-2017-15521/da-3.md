@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Cierre de los saldos excedentarios de las cuentas abiertas en régimen de depósitos por la Comisión Nacional de los Mercados y la Competencia, destinadas a planes de mejora de calidad y a planes de limpieza de vegetación.
+
+Los saldos de las cuentas en régimen de depósito abiertas por la Comisión Nacional de los Mercados y Competencia destinados a la realización de planes de mejora de calidad de servicio y a planes para realizar la limpieza de la vegetación de las márgenes por donde discurran líneas eléctricas de distribución, pasarán a incorporarse como ingresos de actividades reguladas correspondientes al año 2017 en la primera liquidación realizada con posterioridad a la entrada en vigor de la presente orden.
