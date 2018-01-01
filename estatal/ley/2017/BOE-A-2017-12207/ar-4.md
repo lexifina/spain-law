@@ -1,0 +1,21 @@
+## Artículo 4. Beneficios en la cotización para personas con discapacidad, víctimas de violencia de género y víctimas de terrorismo que emprendan o reemprendan una actividad por cuenta propia.
+
+Se modifica el artículo 32 de la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo, que queda redactado como sigue:
+
+«Artículo 32. Reducciones y bonificaciones de cuotas a la Seguridad Social para las personas con discapacidad, víctimas de violencia de género y víctimas del terrorismo que se establezcan como trabajadores por cuenta propia.
+
+1. La cuota por contingencias comunes, incluida la incapacidad temporal, de las personas con un grado de discapacidad igual o superior al 33 por ciento, las víctimas de violencia de género y las víctimas del terrorismo, que causen alta inicial o que no hubieran estado en situación de alta en los 2 años inmediatamente anteriores, a contar desde la fecha de efectos del alta, en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, se reducirá a la cuantía de 50 euros mensuales durante los 12 meses inmediatamente siguientes a la fecha de efectos del alta, en el caso de que opten por cotizar por la base mínima que les corresponda.
+
+Alternativamente, aquellos trabajadores por cuenta propia o autónomos que, cumpliendo los requisitos previstos en el párrafo anterior, optasen por una base de cotización superior a la mínima que les corresponda, podrán aplicarse durante los 12 primeros meses inmediatamente siguientes a la fecha de efectos del alta, una reducción sobre la cuota por contingencias comunes, siendo la cuota a reducir el 80 por ciento del resultado de aplicar a la base mínima de cotización que corresponda el tipo mínimo de cotización vigente en cada momento, incluida la incapacidad temporal.
+
+Con posterioridad al periodo inicial de 12 meses previsto en los dos párrafos anteriores, y con independencia de la base de cotización elegida, los trabajadores por cuenta propia que disfruten de la medida prevista en este artículo podrán aplicarse una bonificación sobre la cuota por contingencias comunes, siendo la cuota a bonificar el 50 por ciento del resultado de aplicar a la base mínima de cotización que corresponda el tipo mínimo de cotización vigente en cada momento, incluida la incapacidad temporal, por un período máximo de hasta 48 meses, hasta completar un periodo máximo de 5 años desde la fecha de efectos del alta.
+
+2. El período de baja en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, exigido en el apartado anterior para tener derecho a los beneficios en la cotización en él previstos en caso de reemprender una actividad por cuenta propia, será de 3 años cuando los trabajadores autónomos hubieran disfrutado de dichos beneficios en su anterior período de alta en el citado régimen especial.
+
+3. En el supuesto de que la fecha de efectos de las altas a que se refiere el apartado 1 no coincidiera con el día primero del respectivo mes natural, el beneficio correspondiente a dicho mes se aplicará de forma proporcional al número de días de alta en el mismo.
+
+4. Lo dispuesto en los apartados anteriores será también de aplicación, cuando cumplan los requisitos en ellos establecidos, a los trabajadores por cuenta propia que queden incluidos en el grupo primero de cotización del Régimen Especial de la Seguridad Social de los Trabajadores del Mar y a los socios de sociedades laborales y a los socios trabajadores de cooperativas de trabajo asociado que queden encuadrados en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos o en el Régimen Especial de la Seguridad Social de los Trabajadores del Mar, dentro del grupo primero de cotización.
+
+5. Lo previsto en el presente artículo resultará de aplicación aun cuando los beneficiarios de esta medida, una vez iniciada su actividad, empleen a trabajadores por cuenta ajena.
+
+6. Las bonificaciones de cuotas previstas en este artículo se financiarán con cargo a la correspondiente partida presupuestaria del Servicio Público de Empleo Estatal y las reducciones de cuotas se soportarán por el presupuesto de ingresos de la Seguridad Social, respectivamente.»
