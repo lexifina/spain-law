@@ -1,6 +1,6 @@
 ## Artículo 56 bis. Desalcoholización parcial de productos gravados.
 
-1. Cuando, como consecuencia de las operaciones de desalcoholización de la cerveza, vino u otras bebidas fermentadas y productos intermedios, se obtuviere residualmente alcohol, tal circunstancia deberá ser previamente autorizada por la oficina gestora, a solicitud de los interesados, y previo informe de los servicios de intervención.
+1. Cuando, como consecuencia de las operaciones de desalcoholización llevadas a cabo en fábricas de cerveza, vino u otras bebidas fermentadas o de productos intermedios, se obtuviere residualmente alcohol, tal circunstancia deberá ser previamente autorizada por la oficina gestora, a solicitud de los interesados, y previo informe de los servicios de intervención.
 
 La solicitud se presentará ante la oficina gestora acompañada de una memoria técnica descriptiva de los procesos en que se produce la desalcoholización y de las instalaciones, elementos y aparatos de producción utilizados. En dicha memoria se hará constar la cantidad de producto que constituye la mezcla hidroalcohólica que se obtenga así como el contenido y graduación alcohólica en dicho producto y el destino del alcohol obtenido.
 
@@ -42,7 +42,7 @@ d) Salida del establecimiento de obtención.
 
 La salida del producto desde el establecimiento deberá realizarse con cumplimiento de los requisitos que en materia de circulación de productos objeto de Impuestos Especiales se establecen en el presente Reglamento.
 
-Si la salida se produce con destino a un gestor de residuos, siguiéndose el procedimiento previsto en el apartado 10 del artículo 75 de este Reglamento sin perjuicio de la desnaturalización de la mezcla hidroalcohólica, de igual forma a lo dispuesto en el apartado 3 b de este artículo.
+Si la salida se produce con destino a un gestor de residuos, deberá seguirse el procedimiento previsto en el artículo 75 bis de este Reglamento, sin perjuicio de la desnaturalización de la mezcla hidroalcohólica de igual forma a lo dispuesto en el apartado 3.b de este artículo.
 
 4. Sin perjuicio de lo dispuesto en el artículo 50, además de los libros propios de la actividad principal del establecimiento, se llevará un libro de desalcoholización en el que, en el cargo, constará la cantidad puesta en producción con el detalle del tipo de producto en volumen real de producto, grado y litros absolutos y, en la data, la cantidad de volumen real de producto, grado y litros de la mezcla hidroalcohólica obtenida.
 
@@ -53,5 +53,7 @@ Los Servicios de Intervención podrán exigir los libros auxiliares del proceso 
 5. A los establecimientos en que tengan lugar estos procesos de desalcoholización les será de aplicación lo dispuesto en el apartado 2.b.1.º del artículo 43 de este Reglamento, en relación con el alcohol que salga de los mismos en los casos previstos en el apartado 3.d) anterior.
 
 Los establecimientos desde los que se produzcan estas salidas serán inscritos en el registro de la oficina gestora correspondiente con una clave de actividad diferenciada.
+
+> Se modifican los apartados 1 y 3.d) por el art. 3.17 del Real Decreto 1075/2017, de 29 de diciembre. Ref. BOE-A-2017-15843
 
 > Se añade por el art. único.49 del Real Decreto 1715/2012, de 28 de diciembre. Ref. BOE-A-2012-15700.

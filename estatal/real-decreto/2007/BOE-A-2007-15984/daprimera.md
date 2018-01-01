@@ -178,7 +178,7 @@ Uno. Los procedimientos que se relacionan a continuación podrán entenderse des
 
 88. Procedimiento de autorización para que en las facturas simplificadas no consten determinadas menciones del artículo 7.1 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre, de acuerdo con lo previsto en el artículo 7.4.b) del citado reglamento.
 
-89. (Derogado)
+89. Procedimiento de autorización de otros procedimientos de rectificación de facturas, de acuerdo con lo previsto en el artículo 15.4, segundo párrafo, del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.
 
 90. (Derogado)
 
@@ -215,6 +215,8 @@ Dos. Los procedimientos que se relacionan a continuación deberán entenderse es
 > Dos.
 
 > 2. Procedimiento para el reconocimiento de la condición de entidades o establecimiento de carácter social, regulado en el artículo 6 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
+
+> Se añade el apartado 1.89 por el art. 7 del Real Decreto 1075/2017, de 29 de diciembre. Ref. BOE-A-2017-15843
 
 > Se modifican los apartados 1, 2.2 y se derogan los apartados 1.89, 90, 92, 93 y 2.1 y 3 por el art. 3.1 y disposición derogatoria única del Real Decreto 828/2013, de 25 de octubre. Ref. BOE-A-2013-11216.
 

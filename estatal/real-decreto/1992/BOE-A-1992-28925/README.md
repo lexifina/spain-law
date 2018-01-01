@@ -185,3 +185,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria tercera](dttercera.md)
 - [Disposición transitoria cuarta](dt.md)
 - [Disposición transitoria quinta](dt-2.md)
+- [Disposición transitoria sexta](dt-3.md)

@@ -51,6 +51,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO VI](cv-2.md)
 - [Artículo 21](a2-3.md)
 - [Artículo 22](a2-4.md)
+- [Disposición adicional primera](da-2.md)
 - [Disposición transitoria primera](dt.md)
 - [Disposición transitoria segunda](dt-2.md)
 - [Disposición transitoria tercera](dt-3.md)
