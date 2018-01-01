@@ -74,6 +74,12 @@ No podrán quemarse rastrojos en todo el ámbito nacional, salvo que, por razone
 
 Cuando se eliminen restos de cosecha de cultivos herbáceos y de los de poda de cultivos leñosos deberá realizarse, en su caso, con arreglo a la normativa establecida.
 
+La aplicación de purín en las superficies agrícolas no podrá realizarse mediante sistemas de plato o abanico ni cañones, pudiendo las comunidades autónomas establecer excepciones, atendiendo a las características específicas de las superficies afectadas, incluidas las condiciones orográficas y climáticas, u otros motivos, debiendo las mismas quedar debidamente justificadas.
+
+Los estiércoles sólidos deberán enterrarse después de su aplicación en el menor plazo de tiempo posible. No obstante, se podrán exceptuar de esta obligación, si la comunidad autónoma así lo establece, los tipos de cultivo mediante siembra directa o mínimo laboreo, los pastos y cultivos permanentes, y cuando la aportación del estiércol sólido se realice en cobertera con el cultivo ya instalado.
+
+> Téngase en cuenta que estos dos últimos párrafos al final de la BCAM 6, añadidos por el art. 4 del Real Decreto 980/2017, de 10 de noviembre. Ref. BOE-A-2017-12981, entran en vigor el 1 de enero de 2018, según establece su disposición final única.
+
 3. ASPECTO PRINCIPAL: PAISAJE, NIVEL MÍNIMO DE MANTENIMIENTO
 
 BCAM 7. Mantenimiento de las particularidades topográficas y prohibición de cortar setos y árboles durante la temporada de cría y reproducción de las aves.
@@ -99,6 +105,8 @@ No obstante, teniendo en cuenta que los elementos del paisaje protegidos formar�
 No obstante lo anterior, queda prohibido cortar tanto setos como árboles durante la temporada de cría y reproducción de las aves, salvo autorización expresa de la autoridad medioambiental. Se tomará como referencia el periodo comprendido entre los meses de marzo a julio, pudiendo este ser modificado de forma justificada por las comunidades autónomas.
 
 Se exceptúan de la obligación establecida en el primer párrafo, la construcción de paradas para corrección de ramblas, regueros y bancales, así como las operaciones de refinado de tierras que se realicen en aquellas parcelas que se vayan a dedicar al cultivo del arroz y otros de regadío.
+
+> Se añaden dos párrafos al final de la BCAM 6 del apartado 2 por el art. 4 del Real Decreto 980/2017, de 10 de noviembre. Ref. BOE-A-2017-12981
 
 > Se modifica el BCAM 7 por el art. 4 del Real Decreto 745/2016, de 30 de diciembre. Ref. BOE-A-2016-12604.
 

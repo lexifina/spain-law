@@ -36,7 +36,11 @@ I. Información general
 
 16. Se incluirá referencia expresa al código de identificación asignado a cada unidad de producción en virtud del Real Decreto 479/2004, de 26 de marzo, por el que se establece y regula el Registro General de Explotaciones Ganaderas. Así mismo se deberá declarar el código de identificación asignado a la explotación en los registros que las autoridades competentes tengan dispuestos en base al artículo 6 del Reglamento (CE) n.º 852/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, relativo a la higiene de los productos alimenticios, en el momento de la solicitud. Sin perjuicio de anterior, cuando la autoridad competente tenga acceso a la información exigida en este punto, se eximirá al solicitante de la necesidad de cumplimentarla.
 
-17. Declaración expresa en la que el agricultor manifieste que no ejerce ninguna actividad que, conforme a la Clasificación Nacional de Entidades Económicas (CNAE) o conforme al Impuesto sobre Actividades Económicas (IAE), se corresponda con los códigos recogidos en el anexo III, ni es controlado por, ni tiene el control de ninguna entidad asociada, según se definen en el artículo 8, que realice alguna de estas actividades. Esta declaración se realizará en relación con las campañas 2015y 2016, siempre y cuando en las dos primeras se hubieran recibido pagos por ayudas directas, y en todos los casos en relación con la campaña 2017. En esta declaración se incluirá el NIF de las entidades asociadas con las que el agricultor tenga relación»
+17. Declaración expresa en la que el agricultor manifieste que no ejerce ninguna actividad que, conforme a la Clasificación Nacional de Entidades Económicas (CNAE) o conforme al Impuesto sobre Actividades Económicas (IAE), se corresponda con los códigos recogidos en el anexo III, ni es controlado por, ni tiene el control de ninguna entidad asociada, según se definen en el artículo 8, que realice alguna de estas actividades. Esta declaración se realizará en relación con las campañas 2015y 2016, siempre y cuando en las dos primeras se hubieran recibido pagos por ayudas directas, y en todos los casos en relación con la campaña 2017. En esta declaración se incluirá el NIF de las entidades asociadas con las que el agricultor tenga relación.
+
+18. En el caso de explotaciones agrícolas que realicen venta directa al consumidor final, declaración de dicha práctica, entendiéndose como tal cualquier forma de transferencia, a título oneroso o gratuito, realizada directamente por el productor a la persona consumidora final.
+
+> Téngase en cuenta que el punto 18, añadido por el art. 1.22 del Real Decreto 980/2017, de 10 de noviembre. Ref. BOE-A-2017-12981, entra en vigor el 1 de enero de 2018, según determina su disposición final única.
 
 II. Declaración expresa de lo que solicita
 
@@ -64,21 +68,43 @@ Deberán declararse todas las parcelas agrícolas de la explotación, indicándo
 
 8. Superficies de interés ecológico:
 
-– Relación de parcelas en barbecho, superficies forestadas y superficies dedicadas a agrosilvicultura, tal y como éstas se describen en el artículo 24 del presente real decreto.
+– Relación de parcelas en barbecho que el solicitante desea que le computen como superficie de interés ecológico, superficies forestadas y superficies dedicadas a agrosilvicultura, tal y como éstas se describen en el artículo 24 del presente real decreto
 
-– Relación de parcelas de cultivos fijadores de nitrógeno, dedicadas a cada uno de los siguientes cultivos:
+– Relación de parcelas de cultivos fijadores de nitrógeno, dedicadas a los cultivos referenciados en la parte II del anexo VIII, que el solicitante desea que le computen como superficie de interés ecológico.
 
-• Leguminosas para consumo humano o animal, diferenciando, en su caso, entre las siguientes especies: judía, garbanzo, lenteja, guisante, habas, altramuz, algarroba, titarros, almorta, veza, yeros, alholva, alverja, alverjón, esparceta y zulla.
-
-• Alfalfa.
+– Declaración responsable del solicitante de que es conocedor de la prohibición del empleo de productos fitosanitarios en la superficie de barbecho y de cultivo fijador de nitrógeno que ha decidido computar como superficie de interés ecológico.
 
 9. En el caso de que el productor justifique que en una parcela realiza un método de producción ecológica según lo establecido en el artículo 17.3 deberá aportar un certificado que permita comprobar dicha declaración. Cuando la autoridad competente tenga acceso a la información exigida en este punto, se eximirá al solicitante de la necesidad de adjuntarla con su solicitud.
 
-10. En el caso de la ayuda asociada a los cultivos proteicos a que se refiere la sección 3.ª del capítulo I del título IV, la superficie por la que se solicita el pago deberá desglosarse por especie y, cuando corresponda, por variedad cultivada.
+10. Ayuda Asociada a los cultivos proteicos a que se refiere la sección 3ª capítulo I título IV:
+
+– La superficie por la que se solicita el pago, desglosada por especie y, cuando corresponda, por variedad cultivada.
+
+– Declaración responsable del solicitante que es conocedor de los requisitos recogidos en el artículo 35.
+
+> Téngase en cuenta que esta última actualización de los puntos 8 y 10, establecida por el art. 1.23 del Real Decreto 980/2017, de 10 de noviembre. Ref. BOE-A-2017-12981, entra en vigor el 1 de enero de 2018, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "8. Superficies de interés ecológico:
+
+> – Relación de parcelas en barbecho, superficies forestadas y superficies dedicadas a agrosilvicultura, tal y como éstas se describen en el artículo 24 del presente real decreto.
+
+> – Relación de parcelas de cultivos fijadores de nitrógeno, dedicadas a cada uno de los siguientes cultivos:
+
+> • Leguminosas para consumo humano o animal, diferenciando, en su caso, entre las siguientes especies: judía, garbanzo, lenteja, guisante, habas, altramuz, algarroba, titarros, almorta, veza, yeros, alholva, alverja, alverjón, esparceta y zulla.
+
+> • Alfalfa.
+
+> 10. En el caso de la ayuda asociada a los cultivos proteicos a que se refiere la sección 3.ª del capítulo I del título IV, la superficie por la que se solicita el pago deberá desglosarse por especie y, cuando corresponda, por variedad cultivada."
 
 11. En el caso, tanto de la ayuda asociada a los frutos de cáscara a que se refiere la sección 4.ª del capítulo I del título IV, como de la ayuda nacional a los frutos de cáscara a que se refiere la disposición adicional primera, las especies y el número de árboles de cada una de las especies existentes beneficiarias de dicha ayuda.
 
 12. En el caso del pago específico al cultivo del algodón a que se refiere la sección 8.ª del capítulo I del título IV, deberá indicar, en su caso, la organización interprofesional autorizada a la que pertenece.
+
+13. En el caso de la ayuda asociada al tomate para industria sección 7ª capítulo I título IV, una declaración responsable del solicitante de que es conocedor de los requisitos recogidos en el artículo 49.
+
+> Téngase en cuenta que el punto 13, añadido por el art. 1.23 del Real Decreto 980/2017, de 10 de noviembre. Ref. BOE-A-2017-12981, entra en vigor el 1 de enero de 2018, según determina su disposición final única.
 
 IV. Ayuda asociada a los ganaderos, medidas de ayuda relacionadas con los animales y ayudas a los agricultores que ejerzan actividad ganadera
 
@@ -115,6 +141,8 @@ V. Información y documentación adicional
 9. Sin perjuicio de lo establecido en los párrafos anteriores, cuando la autoridad competente tenga acceso a la documentación exigida en este apartado V, se eximirá al solicitante de la necesidad de presentación de dicha documentación, sustituyéndose en su caso por una autorización expresa a la autoridad competente para acceder a dicha información.
 
 10. Cualquier otra información, en concepto de "otra declaración", establecida por la comunidad autónoma para las medidas de desarrollo rural en el ámbito del Sistema Integrado.
+
+> Se modifican los apartados I y III, con efectos de 1 de enero de 2018, por el art. 1.22 y 23 del Real Decreto 980/2017, de 10 de noviembre. Ref. BOE-A-2017-12981
 
 > Se modifican los apartados I, III y V por el art. 1.36 del Real Decreto 745/2016, de 30 de diciembre. Ref. BOE-A-2016-12604.
 
