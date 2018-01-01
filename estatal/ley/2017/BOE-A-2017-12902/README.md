@@ -10,6 +10,11 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 ## Bloques
 
+- [Artículo 20](a2-2.md)
+- [Artículo 21](a2-3.md)
+- [Artículo 22](a2-4.md)
+- [Artículo 23](a2-5.md)
+- [Artículo 318](a3-30.md)
 - [Artículo 328](a3-40.md)
 - [Artículo 329](a3-41.md)
 - [Artículo 330](a3-42.md)
