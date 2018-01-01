@@ -12,6 +12,10 @@ Así mismo, se modifican las obligaciones de remisión de documentación de la I
 
 Finalmente, se elimina el requisito de la inscripción en el Registro de la Comisión Nacional del Mercado de Valores de compartimentos, y se amplía el contenido de la comunicación a efectuar a la CNMV de acuerdo con el artículo 52 del Reglamento del IRPF, de manera que se incluyan los datos de los compartimentos y/o clases a que se refiere la información fiscal.
 
-En cuanto a las IIC no armonizadas, se elimina la obligación de remitir la información por vía telemática.
+> Téngase en cuenta que la norma única.2 de la Circular 2/2017, de 25 de octubre de 2017. Ref. BOE-A-2017-12800 ha suprimido, con efectos de 1 de enero de 2018, el siguiente párrafo:
+
+> "En cuanto a las IIC no armonizadas, se elimina la obligación de remitir la información por vía telemática."
 
 En su virtud, el Consejo de la Comisión Nacional del Mercado de Valores, previo informe del Comité Consultivo, en su reunión de 9 de junio de 2011, ha dispuesto:
+
+> Se modifica, con efectos de 1 de enero de 2018, por la norma única.2 de la Circular 2/2017 de 25 de octubre de 2017. Ref. BOE-A-2017-12800
