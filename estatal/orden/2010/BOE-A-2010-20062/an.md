@@ -2,6 +2,8 @@
 
 ## Reglamento Técnico de Control y Certificación de Semillas de Plantas Forrajeras
 
+> Téngase en cuenta que las modificaciones introducidas en los epígrafes I.1 y II.2 del Anexo y en los Anejos I y II por la Orden APM/902/2017, de 22 de septiembre. Ref. BOE-A-2017-10928 entran en vigor el 1 de enero de 2018.
+
 I. Especies sujetas al reglamento técnico
 
 I.1 Quedan incluidas en el ámbito de aplicación de este Reglamento Técnico las semillas de plantas de las especies y variedades botánicas que figuran a continuación:
@@ -24,7 +26,7 @@ I.1 Quedan incluidas en el ámbito de aplicación de este Reglamento Técnico la
 | Festuca trachyphylla (Hack.) Krajina. | Festuca dura. |
 | Lolium multiflorum Lam. | Ray-grass italiano (incluido el Ray-grass Westerwold). |
 | Lolium perenne L. | Ray-grass inglés. |
-| Lolium x boucheanum Kunth. | Ray-grass híbrido. |
+| Lolium x hybridum Hausskn | Ray-grass híbrido. |
 | Phalaris aquatica L. | Falaris. |
 | Phleum nodosum L. | Fleo pequeño. |
 | Phleum pratense L. | Fleo de los prados. |
@@ -36,34 +38,56 @@ I.1 Quedan incluidas en el ámbito de aplicación de este Reglamento Técnico la
 | Trisetum flavescens (L.) P. Beauv. | Avena rubia. |
 | xFestulolium Asch. y Graebn. | Híbridos resultantes del cruce de una especie del género Festuca con una especie del género Lolium. |
 | b) Fabaceae (Leguminosae): | b) Leguminosas: |
+| Biserrula pelecinus L. | Biserrula. |
 | Galega orientalis Lam. | Galega forrajera. |
 | Hedysarum coronarium L. | Zulla. |
+| Lathyrus cicera L. | Almorta de monte. |
 | Lathyrus sativus L. | Almortas, guijas, titos o muelas. |
 | Lotus corniculatus L. | Loto de los prados. |
 | Lupinus albus L. | Altramuz blanco. |
 | Lupinus angustifolius L. | Altramuz de hoja estrecha. |
 | Lupinus luteus L. | Altramuz amarillo. |
+| Medicago doliata Carmign. | Medicago doliata. |
+| Medicago italica (Mill.) Fiori | Medicago italica. |
+| Medicago littoralis Rohde ex Loisel. | Medicago littoralis. |
 | Medicago lupulina L. | Lupulina. |
+| Medicago murex Willd. | Medicago murex. |
+| Medicago polymorpha L. | Carretón de amores; trébol de carretilla. |
+| Medicago rugosa Desr. | Medicago rugosa. |
 | Medicago sativa L. | Alfalfa. |
-| Medicago x varia T. Martín. | Alfalfa de arena. |
+| Medicago scutellata (L.) Mill. | Medicago scutellata. |
+| Medicago truncatula Gaertn. | Medicago truncatula. |
+| Medicago × varia T. Martyn Sand | Alfalfa de arena. |
 | Onobrychis viciifolia Scop. | Esparceta. |
-| Pisum sativum L. (partim). | Guisante forrajero. |
+| Ornithopus compressus L. | Pie de pájaro. |
+| Ornithopus sativus Brot. | Serradella; serradela rosada. |
+| Pisum sativum L. (partim) | Guisante forrajero. |
 | Trifolium alexandrinum L. | Trébol de Alejandría. |
+| Trifolium fragiferum L. | Trébol fresero. |
+| Trifolium glanduliferum Boiss. | Trifolium glanduliferum. |
+| Trifolium hirtum All. | Trébol rosa. |
 | Trifolium hybridum L. | Trébol híbrido. |
 | Trifolium incarnatum L. | Trébol encarnado. |
+| Trifolium isthmocarpum Brot. | Trifolium isthmocarpum. |
+| Trifolium michelianum Savi | Trébol balansa. |
 | Trifolium pratense L. | Trébol violeta. |
 | Trifolium repens L. | Trébol blanco. |
 | Trifolium resupinatum L. | Trébol persa. |
-| Trigonella Foenumgraecum L. | Alholva. |
-| Vicia ervilia (L.) Willd. | Yeros. |
-| Vicia faba L. (partim). | Haba pienso. |
-| Vicia monanthos Desf. | Algarroba. |
-| Vicia pannonica Crantz. | Veza húngara. |
+| Trifolium squarrosum L. | Trifolium squarrosum. |
+| Trifolium subterraneum L. | Trébol subterráneo. |
+| Trifolium vesiculosum Savi | Trébol vesiculoso. |
+| Trigonella foenum-graecum L. | Alholva. |
+| Vicia benghalensis L. | Veza atropurpúrea. |
+| Vicia ervilia (L) Willd. | Yeros. |
+| Vicia faba L.(partim) | Haba pienso. |
+| Vicia monanthos L.Desf. | Algarroba. |
+| Vicia pannonica Crantz | Veza húngara. |
 | Vicia sativa L. | Veza común. |
-| Vicia villosa Roth. | Veza vellosa. |
+| Vicia villosa Roth | Veza vellosa. |
 | c) Otras especies: |  |
 | Brassica napus L. var. napobrassica (L.) Rchb. | Colinabo. |
 | Brassica oleracea L. convar. acephala (DC.) Alef. var. medullosa Thell. + var. viridis L. | Berza, col forrajera o col caballar. |
+| Plantago lanceolata L. | Llantén menor |
 | Raphanus sativus L. var. oleiformis Pers. | Rábano forrajero. |
 
 I.2 Sólo podrá denominarse «semilla» de las plantas mencionadas en el apartado I.1 la que proceda de cultivos controlados por los servicios oficiales correspondientes y que haya sido obtenida según las disposiciones de este Reglamento; de la Ley 30/2006, de 26 de julio, de Semillas y Plantas de Vivero y Recursos Fitogenéticos, en el Decreto 3767/1972, de 23 de diciembre, por el que se aprueba el Reglamento General sobre Producción de Semillas y Plantas de Vivero y modificaciones posteriores y de la Orden de 23 de mayo de 1986, por la que se aprueba el Reglamento General de Control y Certificación de Semillas y Plantas de Vivero, y modificaciones posteriores.
@@ -116,7 +140,7 @@ Lolium multiflorum Lam.
 
 Lolium perenne L.
 
-Lolium x boucheanum Kunth.
+Lolium x hybridum Hausskn.
 
 Phleum nodosum L.
 
@@ -434,6 +458,8 @@ VIII.3 Los lotes de semilla que cumplan las condiciones establecidas en el anexo
 VIII.4 Comercialización de semilla certificada a granel.
 
 Se podrá comercializar semilla de categoría certificada a granel, de las especies: Habas y haboncillos [Vicia faba (partim)] y guisante [Pisum sativum (partim)], destinadas directamente al consumidor final, siempre que se cumplan los requisitos establecidos en los apartados 40 y 40 bis del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero.
+
+> Se modifican los epígrafes I.1 y II.2 por el artículo único.1 y 2 de la Orden APM/902/2017, de 22 de septiembre. Ref. BOE-A-2017-10928
 
 > Se modifica el párrafo 3 del epígrafe V.3 por el art. único.1 de la Orden AAA/30/2012, de 10 de enero. Ref. BOE-A-2012-530.
 
