@@ -33,6 +33,7 @@
 | 250 | GRAVAMEN ESPECIAL SOBRE DIVIDENDOS Y RENTAS DE FUENTE EXTRANJERA DERIVADAS DE LA TRANSMISIÓN DE VALORES REPRESENTATIVOS DE LOS FONDOS PROPIOS DE ENTIDADES NO RESIDENTES EN TERRITORIO ESPAÑOL. | 0A |
 | 303 | IMPUESTO SOBRE EL VALOR AÑADIDO. AUTOLIQUIDACIÓN. | M-T |
 | 309 | IVA DECL. LIQUID. NO PERIÓDICA | 1T,2T,3T,4T y 0A |
+| 353 | GRUPO DE ENTIDADES. MODELO AGREGADO. AUTOLIQUIDACIÓN MENSUAL. | M |
 | 368 | DECLARACIÓN-LIQUIDACIÓN PERIÓDICA DE LOS REGÍMENES ESPECIALES APLICABLES A LOS SERVICIOS DE TELECOMUNICACIONES, DE RADIODIFUSIÓN O DE TELEVISIÓN Y ELECTRÓNICOS EN EL IVA | 1T, 2T, 3T y 4T |
 | 380 | IVA EN OPERAC. ASIMILADAS A IMPORTACIONES | M, T , 0A |
 | 410 | PAGO A CUENTA DEL IMPUESTO SOBRE LOS DEPÓSITOS EN LAS ENTIDADES DE CRÉDITO. AUTOLIQUIDACIÓN | 0A |
@@ -66,6 +67,10 @@
 (2) Cuando la gestión corresponda al Estado.
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se añade el modelo 353 por la disposición final 1.1 de la Orden HFP/1247/2017, de 20 de diciembre. Ref. BOE-A-2017-15190
+
+> Téngase en cuenta para su entrada en vigor lo establecido en la letra b) de la disposición final segunda de la citada Orden.
 
 > Se añade el modelo 221 por la disposición final 2 de la Orden HFP/550/2017, de 15 de junio. Ref. BOE-A-2017-6857
 

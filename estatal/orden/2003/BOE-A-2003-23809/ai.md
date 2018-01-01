@@ -1,13 +1,9 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/312/23809_4591.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/309/15190_4832.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/312/23809_4707.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/309/15190_4988.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/312/23809_4782.png)
+> Se sustituye por el art. 1 de la Orden HFP/1247/2017, de 20 de diciembre. Ref. BOE-A-2017-15190
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/312/23809_4855.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/312/23809_4928.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/312/23809_5001.png)
+> El modelo aprobado será utilizado para presentar las autoliquidaciones correspondientes al ejercicio 2018 y siguientes, según establece la disposición final 2 de la citada Orden.
