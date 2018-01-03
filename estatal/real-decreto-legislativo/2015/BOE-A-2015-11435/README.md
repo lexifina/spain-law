@@ -385,6 +385,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [TÍTULO X](tx.md)
 - [CAPÍTULO I](ci-8.md)
 - [Artículo 317](a317.md)
+- [Artículos 317 a 319](a3-2.md)
 - [Artículo 318](a318.md)
 - [Artículo 319](a319.md)
 - [Artículo 320](a320.md)

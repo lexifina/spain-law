@@ -1,0 +1,3 @@
+## Disposición adicional tercera. De los mercados regulados existentes.
+
+Las Bolsas de Valores de Madrid, Barcelona, Bilbao y Valencia, incluido el Sistema de Interconexión Bursátil, así como los demás mercados regulados existentes a la fecha de entrada en vigor de este real decreto-ley se entenderán automáticamente autorizados a los efectos previstos en el artículo 2 del presente real decreto-ley, sin perjuicio de que les sea de aplicación todo lo previsto en este real decreto-ley para los mercados regulados y en las disposiciones de dicho texto refundido. La CNMV se asegurará, en particular, de que dichos mercados cumplen cuantos requisitos resulten exigibles para la autorización de mercados regulados.
