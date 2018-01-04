@@ -80,7 +80,7 @@ t = Número de días con negociación en el período considerado
 
 4 . Referencia interbancaria a un año (euríbor).
 
-Se define como la media aritmética simple de los valores diarios de los días con mercado de cada mes, del tipo de contado publicado por la Federación Bancaria Europea para las operaciones de depósito en euros a plazo de un año calculado a partir del ofertado por una muestra de bancos para operaciones entre entidades de similar calificación (euríbor).
+Se define como la media aritmética simple mensual de los valores diarios del índice de referencia euríbor® que figura en el Anexo del Reglamento de ejecución (UE) 2016/1368 de la Comisión de 11 de agosto de 2016, por el que se establece una lista de los índices de referencia cruciales utilizados en los mercados financieros, de conformidad con el Reglamento (UE) 2016/1011 del Parlamento Europeo y del Consejo. El índice se refiere al euríbor® al plazo de doce meses.
 
 5. Permuta de intereses/Interest Rate Swap (IRS) al plazo de cinco años.
 
@@ -88,7 +88,7 @@ Se define como la media simple mensual de los tipos de interés diarios Mid Spot
 
 6. El tipo interbancario a un año (también conocido como tipo míbor a un año).
 
-Se define como la media simple de los tipos de interés diarios a los que se han cruzado operaciones a plazo de un año en el mercado de depósitos interbancario, durante los días hábiles del mes natural correspondiente. No obstante, en los días hábiles en los que no se hayan cruzado operaciones a un año en el mercado de depósitos interbancario español, se tomará como dato para calcular la media mensual el tipo de contado publicado por la Federación Bancaria Europea para las operaciones de depósitos en euros a plazo de un año, calculado a partir del ofertado por una muestra de bancos para operaciones entre entidades de similar calificación (euríbor).
+Se define como la media simple de los tipos de interés diarios a los que se han cruzado operaciones a plazo de un año en el mercado de depósitos interbancario, durante los días hábiles del mes natural correspondiente. No obstante, en los días hábiles en los que no se hayan cruzado operaciones a un año en el mercado de depósitos interbancario español, se tomará como dato para calcular la media mensual el índice de referencia euríbor® que figura en el Anexo del Reglamento de ejecución (UE) 2016/1368 de la Comisión de 11 de agosto de 2016, por el que se establece una lista de los índices de referencia cruciales utilizados en los mercados financieros, de conformidad con el Reglamento (UE) 2016/1011 del Parlamento Europeo y del Consejo.
 
 Para el cálculo del tipo de interés diario en el mercado interbancario español, se tendrán en cuenta las siguientes reglas:
 
@@ -121,5 +121,7 @@ n = El número de operaciones cruzadas en el día
 IDI = El tipo míbor a un año
 
 t = El número de días hábiles en el mercado interbancario
+
+> Se modifican los apartados 4 y 6 por la norma primera.1 y 2 de la Circular de 22 de diciembre de 2017. Ref. BOE-A-2018-51
 
 > Se modifica el apartado 2 por la norma 3 de la Circular 4/2015, de 29 de julio. Ref. BOE-A-2015-9107.
