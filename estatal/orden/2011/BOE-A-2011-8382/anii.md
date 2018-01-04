@@ -4278,47 +4278,29 @@ h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
 10. FICHERO: CONTROL HORARIO.
 
-a) Identificación del fichero o tratamiento, indicando su denominación, así como la descripción de su finalidad y usos previstos:
-
-a.1) Identificación del fichero: Control horario.
-
-a.2) Finalidad: Gestión y control de centros e instituciones penitenciarias.
-
-a.3) Usos previstos: Control horario.
-
-b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos y su procedencia:
-
-b.1) Colectivo: Funcionarios, laborales y otro personal empleado en la Secretaría General de Instituciones Penitenciarias.
+a.3) Usos previstos: Control horario en servicios centrales, Centros Penitenciarios y Centros de Inserción Social (incluidos Servicios de Gestión de Penas y Medidas Alternativas).
 
 b.2) Procedencia y procedimiento de recogida:
 
-Procedencia de los datos: El propio interesado.
+Procedencia: El propio interesado.
 
-Procedimiento de recogida: Formularios.
+Procedimiento de recogida: Formularios y medios electrónicos.
 
-Soporte utilizado para la obtención: Soporte papel.
-
-c) Estructura básica del fichero mediante la descripción detallada de los datos identificativos, y en su caso, de los datos especialmente protegidos, así como de las restantes categorías de datos de carácter personal incluidas en el mismo y el sistema de tratamiento utilizado en su organización:
+Soporte utilizado para la obtención: Soporte papel y digital.
 
 c.1) Descripción de los datos:
 
-Datos de carácter identificativo: DNI, nombre y apellidos.
+– datos de carácter identificativos: NIF/NIE, nombre, apellidos, número de carnet profesional, huella y foto.
 
-Datos de detalle del empleo: Categoría, puestos de trabajo.
+– datos de detalle del empleo: Categoría y puesto de trabajo.
 
-Datos de características personales: Datos relativos al cumplimiento horario.
+– datos de características personales: Datos relativos al cumplimiento horario del colectivo indicado en el presente fichero.
 
-c.2) Sistema de tratamiento: Parcialmente automatizado.
+f) Órgano responsable del fichero: Secretaría General de Instituciones Penitenciarias. Calle Alcalá, 38-40. 28014 Madrid.
 
-d) Comunicaciones de datos previstas, indicando en su caso, los destinatarios o categorías de destinatarios: No se prevé comunicación de datos.
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General de Instituciones Penitenciarias. Calle Alcalá, 38-40. 28014 Madrid, Centros Penitenciarios y Centros de Inserción Social.
 
-e) Transferencias internacionales de datos previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No se tiene previsto efectuar transferencias internacionales de datos.
-
-f) Órgano responsable del fichero: Secretaría General de Instituciones Penitenciarias.
-
-g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General de Instituciones Penitenciarias, calle Alcalá, 38-40, 28014, Madrid.
-
-h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
+(http://www.institucionpenitenciaria.es/web/portal/centrosPenitenciarios/localizacion.html)
 
 11. FICHERO: TERCEROS.
 
@@ -7189,6 +7171,8 @@ f) Órgano responsable del fichero: Secretaría General Técnica.
 g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica. Subdirección General de Recursos. Amador de los Ríos, n.º 5, 28071 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Alto.
+
+> Se modifica el fichero «Control horario» por el art. único.1 y anexo de la Orden INT/1321/2017, de 21 de diciembre. Ref. BOE-A-2018-84
 
 > Se modifican los ficheros «BDSN», «Violencia doméstica y de género» e «Historias clínicas en Centros Penitenciarios» por el art. único y el Anexo de la Orden INT/867/2017, de 28 de agosto. Ref. BOE-A-2017-10442
 

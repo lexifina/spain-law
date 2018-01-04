@@ -1382,6 +1382,50 @@ g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, re
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
 
+7. GESTIÓN DE AUTORIZACIONES Y CONTROL DE ACCESO DE PERSONAL AJENO, PROVEEDORES Y VEHÍCULOS, PARA LA REALIZACIÓN DE ACTIVIDADES EN LOS CENTROS PENITENCIARIOS..
+
+a) Identificación del fichero o tratamiento:
+
+a.1) Identificación del fichero: Gestión de autorizaciones y control de acceso de personal ajeno, proveedores y vehículos, para la realización de actividades en los Centros Penitenciarios.
+
+a.2) Finalidad: Controlar y gestionar todas las autorizaciones de acceso de personas externas (proveedores y personal ajeno) en todos los Centros Penitenciarios dependientes de la Secretaría General de Instituciones Penitenciarias, así como controlar y gestionar la entrada y salida de las personas pertenecientes a estos colectivos al interior de los citados Centros.
+
+a.3) Usos previstos: Labores de seguridad de los Centros Penitenciarios.
+
+b) Origen de los datos:
+
+b.1) Colectivo: Personas, empresas y vehículos que deban acceder al interior del Centro para el desarrollo de actividades laborales, formativas, deportivas, educacionales, etc. y personas o empresas que suministren productos al establecimiento y, por tanto, sus transportistas y vehículos deban acceder al muelle de carga y descarga.
+
+b.2) Procedencia y procedimiento de recogida: Los datos referentes a las personas y vehículos, a las que se les conceda una autorización para acceder al interior de un Centro, así como los datos relativos a los accesos al Centro, se introducen mediante formularios cumplimentados con los datos facilitados por las personas que acceden.
+
+c) Estructura básica del fichero:
+
+c.1) Descripción de los datos:
+
+– datos de carácter identificativo: Extraídos de documentos oficiales de identificación.
+
+– datos de características personales: Los que figuren en los documentos oficiales de identificación.
+
+– datos relativos a la autorización de acceso: Fecha de inicio y fin de la autorización, días y horario autorizado, tipo de autorización (habitual o puntual), tipo de personal (ajeno o proveedor), empresa o entidad a la que pertenece, tipo de actividad a desarrollar en el interior del establecimiento, dependencias o lugares a los que tiene autorizado el acceso, persona encargada de recibir y acompañar en su caso y datos de vehículos autorizados al interesado (matrícula, marca, modelo, etc.), en su caso.
+
+– datos relativos al acceso: Fecha y hora de entrada y salida, fecha y hora de paso por los distintos puntos de control, datos del vehículo (matrícula, marca, modelo, color, etc.) y, en su caso, número de tarjeta de acceso.
+
+– datos de usuarios autorizados a acceder a la aplicación: Nombre y apellidos, NIF/NIE o número de funcionario, fechas de alta y baja en la aplicación, contraseña y perfil de usuario.
+
+c.2) Sistema de tratamiento: Automatizado.
+
+d) Comunicaciones de datos previstas: No se prevén.
+
+e) Transferencias internacionales de datos previstas a terceros países: No se prevén.
+
+f) Órgano responsable del fichero: Secretaría General de Instituciones Penitenciarias. Calle Alcalá, 38-40. 28014 Madrid.
+
+g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Centros Penitenciarios y Centros de Inserción Social, dependientes de la Secretaría General de Instituciones Penitenciarias.
+
+(http://www.institucionpenitenciaria.es/web/portal/centrosPenitenciarios/localizacion.html).
+
+h) Nivel de seguridad exigible: Básico.
+
 ## Subsecretaría del Interior
 
 1. Fichero: Base de datos unificada de personal adscrito-PERSA:
@@ -1913,6 +1957,8 @@ f) Órgano responsable del fichero: Secretaría General Técnica.
 g) Servicio o Unidad ante el que pudiesen ejercitarse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General Técnica. Subdirección General de Asociaciones, Documentación y Publicaciones, calle Cea Bermúdez, 35-37, 28071 Madrid.
 
 h) Nivel básico, medio o alto de seguridad que resulte exigible: Básico.
+
+> Se añade el fichero 7 a la Secretaría General de Instituciones Penitenciarias por el art. único.1 y anexo de la Orden INT/1321/2017, de 21 de diciembre. Ref. BOE-A-2018-84
 
 > Se añade el fichero 2 a la Subsecretaría del Interior por el art. único y el anexo de la Orden INT/1067/2017, de 18 de octubre. Ref. BOE-A-2017-12764
 
