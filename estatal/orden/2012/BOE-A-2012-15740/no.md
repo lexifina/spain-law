@@ -1,0 +1,1 @@
+Queda prorrogado el plan de gestión integral establecido en la presente Orden, con efectos de 1 de enero de 2018, hasta la aprobación de un nuevo plan de gestión o, en todo caso, hasta el 31 de diciembre de 2018, por el art. único de la Orden APM/1322/2017, de 29 de diciembre. Ref. BOE-A-2018-90
