@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Colaboración de la Oficina de Coordinación y Calidad Normativa con la Comisión General de Codificación.
+
+El Ministerio de la Presidencia y para las Administraciones Territoriales y el Ministerio de Justicia promoverán los oportunos cauces de cooperación entre la Oficina de Coordinación y Calidad Normativa y la Comisión General de Codificación, tanto en el ámbito de la técnica legislativa como en otros que se determinen, mediante, en su caso, la modificación de los Estatutos de la Comisión General de Codificación, aprobados por Real Decreto 845/2015, de 28 de septiembre, o la celebración de convenios, a efectos de cumplir con el mandato de este real decreto.
