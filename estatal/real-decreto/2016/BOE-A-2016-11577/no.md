@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 22, de 26 de enero de 2017. Ref. BOE-A-2017-811.
+Norma derogada, con efectos de 14 de enero de 2018, por la disposición derogatoria única del Real Decreto 5/2018, de 12 de enero. Ref. BOE-A-2018-433#dd. No obstante téngase en cuenta lo establecido en las disposiciones transitorias 1 a 4 del citado Real Decreto.

@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Aplicación normativa.
+
+No obstante lo previsto en la disposición derogatoria única, las ayudas concedidas con arreglo al Real Decreto 597/2016, de 5 de diciembre, para la aplicación de las medidas del programa de apoyo 2014-2018 al sector vitivinícola, y que se encuentren en ejecución o no hayan sido abonadas en el momento de la entrada en vigor de este real decreto, o que estén vinculadas al mantenimiento durante un período determinado de las condiciones en función de las cuales se otorgaron, se regirán por lo previsto en dicho Real Decreto 597/2016, de 5 de diciembre.
