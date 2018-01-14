@@ -1,0 +1,3 @@
+## Disposición adicional única. Derecho supletorio.
+
+En lo no previsto en este real decreto será de aplicación a las previsiones del mismo relativas a las ayudas y subvenciones concedidas por el Consejo Superior de Deportes la Ley 38/2003, de 17 de noviembre, General de Subvenciones, así como su Reglamento de desarrollo, aprobado por el Real Decreto 887/2006, de 21 de julio, y las demás normas vigentes que resulten de aplicación, en especial la Orden ECD/2681/2012, de 12 de diciembre, por la que se aprueban las bases reguladoras para la concesión de subvenciones y ayudas por el Consejo Superior de Deportes.
