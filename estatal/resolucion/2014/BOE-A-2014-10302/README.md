@@ -23,3 +23,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [4. Seguridad de los sistemas de información](A4.md)
 - [5. Sistema de control interno e inspección](A5.md)
 - [6. Registros y logs del sistema técnico de juego](A6.md)
+- [7. Juego ofertado en un entorno de liquidez internacional](A7.md)

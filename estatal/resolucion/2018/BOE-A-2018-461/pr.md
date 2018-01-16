@@ -1,0 +1,13 @@
+El régimen jurídico relativo a la liquidez internacional de las actividades de juego se encuentra recogido en la disposición adicional tercera del Real Decreto 1614/2011, de 14 de noviembre, por el que se desarrolla la Ley 13/2011, de 27 de mayo, de regulación del juego, en lo relativo a licencias, autorizaciones y registros del juego.
+
+El apartado 2 de dicha disposición señala que se podrá autorizar el desarrollo con liquidez distinta a la propia de la participación de los usuarios con registro de usuario español previo acuerdo de las autoridades españolas con las autoridades competentes en materia de juego de otros Estados integrantes del Espacio Económico Europeo o cuando concurran circunstancias excepcionales, debidamente justificadas, que aconsejen su autorización.
+
+En fecha 6 de julio de 2017 la Dirección General de Ordenación del Juego y las autoridades reguladoras de juego online de Francia, Italia y Portugal suscribieron un Acuerdo sobre liquidez compartida en el juego de póquer online.
+
+Siendo Francia, Italia y Portugal Estados integrantes del Espacio Económico Europeo, este Acuerdo otorga el presupuesto habilitante para que la Dirección General de Ordenación del Juego, mediante la presente resolución, autorice de forma expresa el desarrollo del juego de póquer online con una modalidad de liquidez distinta a la que deriva de la participación de los usuarios con registro de usuario español, de acuerdo a las condiciones expresamente previstas en la misma.
+
+Además, con vistas a que la Dirección General de Ordenación del Juego realice una correcta supervisión y monitorización de las actividades de juego ofertadas en un entorno de liquidez internacional, tanto para el póquer online como para otros juegos cuyo desarrollo en liquidez internacional se autorizase en el futuro, se modifica, por un lado, la Resolución de 6 de octubre de 2014, de la Dirección General de Ordenación del Juego, por la que se aprueba la disposición por la que se desarrollan las especificaciones técnicas de juego, trazabilidad y seguridad que deben cumplir los sistemas técnicos de juego de carácter no reservado objeto de licencias otorgadas al amparo de la Ley 13/2011, de 27 de mayo, de regulación del juego, y, por otro, la Resolución de 6 de octubre de 2014, por la que se aprueba el modelo de datos del sistema de monitorización de la información correspondiente a los registros de operaciones de juego.
+
+Esta resolución cuenta con el informe de la Agencia Española de Protección de Datos.
+
+En su virtud, y previo informe favorable de la Abogacía del Estado en la Secretaría de Estado de Hacienda del Ministerio de Hacienda y Función Pública, esta Dirección General resuelve:
