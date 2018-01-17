@@ -11,3 +11,7 @@ El Servicio Público de Empleo Estatal será también competente para desarrolla
 2. Las comunidades autónomas, que han asumido el traspaso de la gestión realizada por el antiguo Instituto Nacional de Empleo, actual Servicio Público de Empleo Estatal, en el ámbito del trabajo, el empleo y la formación, serán competentes para asignar el itinerario individual y personalizado de empleo y las acciones de mejora de la empleabilidad para la realización de este programa, de conformidad con lo previsto en los reales decretos de traspaso.
 
 3. El Instituto Social de la Marina ejercerá las competencias atribuidas al Servicio Público de Empleo Estatal relativas a la gestión del programa de activación cuando se aplique a los desempleados procedentes del Régimen Especial de la Seguridad Social de los Trabajadores del Mar.
+
+> Téngase en cuenta que se declaran inconstitucionales y nulas las referencias al "Servicio Público de Empleo Estatal" de esta disposición, por Sentencia del TC 153/2017, de 21 de diciembre. Ref. BOE-A-2018-615
+
+> Se declaran inconstitucionales y nulas las referencias al "Servicio Público de Empleo Estatal" por Sentencia del TC 153/2017, de 21 de diciembre. Ref. BOE-A-2018-615
