@@ -8,6 +8,8 @@ En el caso de que alguno de los proponentes de la moción de censura formara o h
 
 Este mismo supuesto será de aplicación cuando alguno de los concejales proponentes de la moción haya dejado de pertenecer, por cualquier causa, al grupo político municipal al que se adscribió al inicio de su mandato.
 
+> Téngase en cuenta que se declara la inconstitucionalidad y nulidad del párrafo tercero del apartado 1.a), con el alcance establecido en el fundamento jurídico 8, por Sentencia del TC 151/2017, de 21 de diciembre. Ref. BOE-A-2018-613
+
 b) El escrito en el que se proponga la moción de censura deberá incluir las firmas debidamente autenticadas por Notario o por el Secretario general de la Corporación y deberá presentarse ante éste por cualquiera de sus firmantes. El Secretario general comprobará que la moción de censura reúne los requisitos exigidos en este artículo y extenderá en el mismo acto la correspondiente diligencia acreditativa.
 
 c) El documento así diligenciado se presentará en el Registro General de la Corporación por cualquiera de los firmantes de la moción, quedando el Pleno automáticamente convocado para las doce horas del décimo día hábil siguiente al de su registro. El Secretario de la Corporación deberá remitir notificación indicativa de tal circunstancia a todos los miembros de la misma en el plazo máximo de un día, a contar desde la presentación del documento en el Registro, a los efectos de su asistencia a la sesión, especificando la fecha y hora de la misma.
@@ -36,8 +38,10 @@ e) La Mesa de edad concederá la palabra solamente al candidato a la Alcaldía y
 
 6. Los cambios de Alcalde como consecuencia de una moción de censura en los municipios en los que se aplique el sistema de concejo abierto no tendrán incidencia en la composición de las Diputaciones Provinciales.
 
+> Se declara la inconstitucionalidad y nulidad del párrafo tercero del apartado 1.a), con el alcance establecido en el fundamento jurídico 8, por Sentencia del TC 151/2017, de 21 de diciembre. Ref. BOE-A-2018-613
+
 > Se modifica el apartado 1 por el art. único.57 de la Ley Orgánica 2/2011, de 28 de enero. Ref. BOE-A-2011-1639.
 
-> Se modifica por el art. único .1 de la Ley Orgánica 8/1999, de 21 de abril. Ref. BOE-A-1999-8928.
+> Se modifica por el art. único.1 de la Ley Orgánica 8/1999, de 21 de abril. Ref. BOE-A-1999-8928.
 
-> Se modifica por el art. único. 63 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.
+> Se modifica por el art. único.63 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.
