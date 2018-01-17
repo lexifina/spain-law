@@ -1,3 +1,5 @@
 ## Disposición adicional primera. Cálculos previstos en este real decreto-ley.
 
-A efectos de la realización de los cálculos que se deriven de la aplicación de este real decreto-ley, los valores en miles de euros se expresarán con dos decimales y los tipos de interés en tanto por uno con 5 decimales.
+(Anulada)
+
+> Se declara inconstitucional y nula por Sentencia del TC 152/2017, de 21 de diciembre. Ref. BOE-A-2018-614
