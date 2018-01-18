@@ -49,7 +49,7 @@ Para las instalaciones con autorización de explotación definitiva en 2013 cuya
 | IT-01426 | 15 | 1,0000 | 63.868 | 4.140 | 1.260 | 15% | 30% | 45% |
 | IT-01427 | 15 | 1,0000 | 53.704 | 4.140 | 1.260 | 15% | 30% | 45% |
 
-> Téngase en cuenta que el apartado 2 se anula, en lo que se refiere al número de horas equivalentes de funcionamiento mínimo, por Auto del TS de 20 de noviembre de 2017. Ref. BOE-A-2017-15461
+> Téngase en cuenta que el apartado 2 se anula, en lo que se refiere al número de horas equivalentes de funcionamiento mínimo, por Autos del TS de 20 de noviembre de 2017. Ref. BOE-A-2017-15461 y de 8 de noviembre de 2017. Ref. BOE-A-2018-622
 
 3. Retribución a la operación y número de horas de funcionamiento máximo para la percepción de la retribución a la operación aplicables a los años 2014, 2015 y 2016.
 

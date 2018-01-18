@@ -34,4 +34,4 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/144/06898_13683.png)
 
-> Téngase en cuenta que este anexo se anula, en lo que se refiere a las horas equivalentes de funcionamiento, por Auto del TS de 20 de noviembre de 2017. Ref. BOE-A-2017-15461
+> Téngase en cuenta que este anexo se anula, en lo que se refiere a las horas equivalentes de funcionamiento, por Autos del TS de 20 de noviembre de 2017. Ref. BOE-A-2017-15461 y de 8 de noviembre de 2017. Ref. BOE-A-2018-622
