@@ -13,8 +13,8 @@
 | 1.1.3.b) En el caso de entidades asociativas prioritarias, con menos de 2000 socios cooperativistas de base. |
 | 1.2 Valoración respecto a la presencia femenina (los apartados son excluyentes) | 1.2.1 Con presencia femenina en el cuadro directivo con un porcentaje superior al 15 % y como máximo el 25 %. | 2 |
 | 1.2.2 Con presencia femenina en el cuadro directivo con un porcentaje superior al 25 %. | 3 |
-| 1.3 Valoración respecto a la presencia de jóvenes (los apartados son excluyentes) | 1.3.1 Con presencia de jóvenes menores de 35 años en el cuadro directivo con un porcentaje superior al 15 % y como máximo el 25 %. | 2 |
-| 1.3.2 Con presencia de jóvenes menores de 35 años en el cuadro directivo con un porcentaje superior al 25 %. | 3 |
+| 1.3 Valoración respecto a la presencia de jóvenes (los apartados son excluyentes) | 1.3.1 Con presencia de jóvenes menores de 41 años en el cuadro directivo con un porcentaje superior al 15 por cien y como máximo el 25 por cien | 2 |
+| 1.3.2 Con presencia de jóvenes menores de 41 años en el cuadro directivo con un porcentaje superior al 25 por cien. | 3 |
 | 1.4 Ámbito de actuación superior a dos Comunidades Autónomas. | 3 |
 | 1.5 Que la entidad se encuentre inscrita en el Registro Estatal de Buenas Prácticas Mercantiles en la Contratación Alimentaria. | 2 |
 | 2. Características del proyecto de cooperación (máximo 90 puntos) 2.1 Valoración del potencial de integración asociativa y/o de dinamización industrial del proyecto de cooperación (máximo 15 puntos) (los apartados son sumatorios) |  |
@@ -37,3 +37,5 @@
 | 2.6 Valoración respecto a las repercusiones económicas y sociales (máximo 10 puntos) (los apartados son sumatorios): |  |
 | 2.6.1 Proyecto de cooperación vinculado a la creación de empleo en los participantes. | 5 |
 | 2.6.2 Proyecto de cooperación vinculado a la creación de empleo en el medio rural con influencia respecto a los participantes. | 5 |
+
+> Se modifican los epígrafes 1.3.1 y 1.3.2 por el art. 4.11 del Real Decreto 21/2018, de 19 de enero. Ref. BOE-A-2018-716

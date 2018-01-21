@@ -8,7 +8,11 @@
 
 3. La compra de edificios que vayan a ser derribados. Si la compra de un edificio es objeto de ayuda, el valor del terreno construido, y el del que rodea el edificio, valorado por técnico competente, no se considera subvencionable.
 
-4. La compra de edificios o locales si los mismos han sido subvencionados en los últimos diez años. Tampoco serán subvencionables las inversiones en reformas de locales que hubieran sido subvencionados anteriormente por las administraciones públicas y no hayan transcurrido cinco años desde su finalización. Para ello se adjuntará declaración de las subvenciones recibidas por el edificio o el local durante los últimos diez años.
+4. La compra de bienes inmuebles, instalaciones (sin incluir maquinaria y equipos) o centros logísticos si los mismos han sido subvencionados en los últimos diez años. Tampoco serán subvencionables las inversiones en reformas de locales que hubieran sido subvencionados anteriormente por las administraciones públicas y no hayan transcurrido cinco años desde su finalización.
+
+No serán susceptibles de apoyo la maquinaria y equipos existentes en la compra de instalaciones o centros logísticos que hubieran sido subvencionados anteriormente por otro fondo comunitario o cualquier otra ayuda procedente de las administraciones públicas. Las operaciones destinadas a ampliar la capacidad o mejorar las prestaciones de la maquinaria y equipos de segunda mano objeto de subvención no podrán ser auxiliadas nuevamente en un periodo de cinco años.
+
+Para ello se adjuntará declaración de las subvenciones recibidas durante los últimos diez años.
 
 5. En los casos de arrendamiento con opción a compra, no serán gastos subvencionables los demás costes relacionados con los contratos de arrendamiento con opción de compra tales como el margen del arrendador, los costes de refinanciación de los intereses, los gastos generales y los gastos de seguro.
 
@@ -18,9 +22,9 @@
 
 8. Las inversiones que figuren en la contabilidad como gastos.
 
-9. La compra e instalación de maquinaria y equipos de segunda mano.
+9. La compra e instalación de maquinaria y equipos de segunda mano, salvo que ésta forme parte de la adquisición al completo de unas instalaciones en funcionamiento según lo establecido en el punto 4.
 
-10. Los gastos relativos al traslado de maquinaria ya existente hasta el local o emplazamiento en el que se va a realizar el proyecto.
+10. Los gastos relativos al traslado de maquinaria ya existente hasta el local o emplazamiento en el que se va a realizar el proyecto, salvo en el supuesto del traslado de maquinaria ya existente hasta el local o emplazamiento en el que se vaya a realizar el proyecto para ampliar su capacidad o mejorar sus prestaciones según lo establecido en el punto 4.
 
 11. Las reparaciones y obras de mantenimiento. No tienen la consideración de reparaciones las operaciones realizadas sobre maquinaria instalada para ampliar su capacidad o mejorar sus prestaciones.
 
@@ -58,12 +62,16 @@ a) Honorarios técnicos, gastos de estudios de viabilidad económica, técnica, 
 
 b) Evaluación ambiental.
 
-25. El importe de las inversiones y conceptos que superen los módulos máximos y limitaciones establecidas en el anexo II.
+25. El importe de las inversiones y conceptos que superen los límites máximos establecidas en el anexo II.
 
-26. No tendrán la consideración de gastos auxiliables los impuestos, las tasas, las contribuciones, a excepción de lo establecido en el punto 12 de este Anexo.
+26. No tendrán la consideración de gastos subvencionables los impuestos, las tasas, las contribuciones, a excepción de lo establecido en los puntos 12 y 24.a) de este anexo.
 
 27. Inversiones relacionadas con medidas de seguridad tales como alarmas, sistemas antirrobo, barreras de seguridad y similares.
 
 28. Inversiones relativas exclusivamente a la promoción y publicidad. Salvo las previsiones de publicidad mencionadas en el artículo 23, de presente real decreto.
+
+> Se modifican los apartados 4, 9, 10, 25 y 26 por el art. 1.15 del Real Decreto 21/2018, de 19 de enero. Ref. BOE-A-2018-716
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
 
 > Redactado el punto 16 conforme a la corrección de errores publicada en BOE núm. 312, de 30 de diciembre de 2015. Ref. BOE-A-2015-14284

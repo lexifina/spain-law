@@ -6,15 +6,21 @@
 
 1. Gastos de coordinación y personal docente.
 
-Dentro de esta partida se diferenciará entre el coordinador y el personal docente del curso, pudiendo ser una única persona la que desempeñe ambas funciones.
+Dentro de esta partida se diferenciará entre el coordinador y el personal docente del curso, pudiendo ser una única persona la que desempeñe ambas funciones. Asimismo, el personal docente podrá incluir tanto el encargado de la propia impartición, como la figura del tutor o docente de apoyo. A efectos de consideración del tutor o docente de apoyo dentro del programa de formación su participación deberá estar garantizada en un mínimo del 50 por cien de las horas que componen el programa.
 
-A efectos de este real decreto se entenderá por coordinador al encargado de los aspectos organizativos de la actividad formativa de que se trate, desde el inicio hasta la entrega de la documentación correspondiente en la Dirección General de la Industria Alimentaria. La subvención de los gastos de las actividades propias de coordinación será de 300 € por taller, 600 € por actividad formativa y 300 € por el aprendizaje o entrenamiento.
+A efectos de este real decreto se entenderá por coordinador al encargado de los aspectos organizativos de la actividad formativa de que se trate, desde el inicio hasta la justificación del pago. La subvención de los gastos de las actividades propias de coordinación será de 300 € por taller y 1.000 € por actividad de formación y aprendizaje y 600 € por entrenamiento. Estos máximos se incrementarán proporcionalmente cuando el taller exceda de 6 horas, el curso de 50 horas o el entrenamiento de 10 horas.
 
-Se entenderá por personal docente, el encargado de la impartición de las distintas unidades didácticas de las que se compongan los talleres, y las actividades de aprendizaje y entrenamiento. En este caso la subvención máxima será de 90 €/hora.
+Se entenderá por personal docente, el encargado de la impartición de las distintas unidades didácticas de las que se compongan los talleres, y las actividades de aprendizaje y entrenamiento. En este caso la subvención máxima será de 90 €/hora. Dentro del programa de formación y a efectos del cálculo de los costes directos del personal docente dedicado a la impartición, podrán contabilizarse las horas de preparación hasta un límite de 1,5 horas por hora presencial impartida (taller, actuación de formación o refuerzo de los conocimientos). Adicionalmente, podrá contemplarse hasta una hora adicional por hora presencial impartida correspondiente al tutor o docente de apoyo.
+
+En el caso de que el coste horario del personal propio sea inferior al coste incurrido por la empresa para esa actuación y trabajador se deberá aportar justificante de pago de esos costes adicionales.
 
 2. Gastos en medios y material didáctico.
 
-Máximo subvencionable de 3 €/alumno y hora de actividad formativa.
+Máximo subvencionable de 6 €/alumno y hora de actividad formativa.
+
+Con respecto a los costes de comunicación establecidos en el apartado 1.h) del artículo 8 se establece un límite de 1.500 € por Programa de Formación.
+
+Gastos de creación y mantenimiento de entornos virtuales formativos (aula virtual). Máximo subvencionable 4.500 €.
 
 3. Gastos de transporte, alojamiento y manutención.
 
@@ -38,5 +44,7 @@ Actividades de formación y aprendizaje:
 – Curso de más de 50 horas: 550 €.
 
 – “Coaching” (no se especifica duración): 200 €.
+
+> Se modifican los apartados 1 y 2 por el art. 5.9 del Real Decreto 21/2018, de 19 de enero. Ref. BOE-A-2018-716
 
 > Se modifican los apartados 1, 3 y 4 del Real Decreto 702/2016, de 23 de diciembre. Ref. BOE-A-2016-12275

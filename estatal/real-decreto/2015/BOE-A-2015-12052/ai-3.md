@@ -9,11 +9,11 @@
 | 1.1.1 EAP con más de 2.000 socios cooperativistas de base. | 1 |
 | 1.1.2 EAP con más de 20.000 socios cooperativistas de base (adicional al apartado anterior) | 1 |
 | 1.1.3 EAP con empleo femenino superior al 15%. | 2 |
-| 1.1.4 EAP con empleo de jóvenes menores de 35 años con un porcentaje superior al 15%. | 2 |
+| 1.1.4 EAP con empleo de jóvenes menores de 41 años con un porcentaje superior al 15 por cien. | 2 |
 | 1.1.5 Ámbito de actuación de la EAP superior al ámbito de dos comunidades autónomas. | 1 |
 | 1.1.6 Ámbito de actuación de la EAP superior a cinco provincias. | 1 |
 | 1.1.7 Por contener, al menos, un 25% de mujeres en el Consejo de dirección. | 2 |
-| 1.1.8 Por contener, al menos, un 10% de menores de 35 años en el Consejo de dirección. | 2 |
+| 1.1.8 Por contener, al menos, un 10 por cien de menores de 41 años en el Consejo de dirección. | 2 |
 | 1.2 Valoración respecto a la capacidad de la EAP para realizar la inversión (Máximo 20 puntos). |  |
 | 1.2.1 EAP con ratio patrimonio neto/activo no corriente superior o igual a 0,5 e inferior a 0,7 (en el año anterior a presentar la solicitud de inversión). | 10 |
 | 1.2.2 EAP con ratio patrimonio neto/activo no corriente superior o igual a 0,7 (en el año anterior a presentar la solicitud de inversión). | 20 |
@@ -31,7 +31,7 @@
 | 2.2.2 Inversión de la EAP vinculada a la creación de empleo en el medio rural con influencia respecto a la EAP. | 5 |
 | 2.3 Valoración respecto a presencia de jóvenes y mujeres (máximo 5 puntos): |  |
 | 2.3.1 En los casos de solicitudes que generen empleo femenino de al menos un 25% en los empleados. | 2.5 |
-| 2.3.2 En los casos de solicitudes que cogeneren empleo de jóvenes menores de 35 años en al menos un 25% de los empleos. | 2.5 |
+| 2.3.2 En los casos de solicitudes que cogeneren empleo de jóvenes menores de 41 años en al menos un 25 por cien de los empleos. | 2.5 |
 | 2.4 Sector agroalimentario que representara la futura inversión (máximo 10 puntos): |  |
 | 2.4.1 Proyecto de inversión que se destina a una mayor transformación industrial. | 5 |
 | 2.4.2 Proyecto de inversión que conlleve una integración vertical, esto es, que el proyecto de inversión sea parte o todo de un proyecto global que integre la cadena alimentaria, propiciando que el valor añadido que permanezca en la EAP sea el máximo. | 5 |
@@ -51,6 +51,10 @@
 | 2.7.8 Si el proyecto de inversión contribuye a la mejora de la sostenibilidad, la reducción de los impactos ambientales y/o la mitigación al cambio climático. | 2 |
 | 2.8 Las inversiones deberán tener en cuenta las mejoras o nuevas técnicas disponibles (MTD) propias de su sector de actividad que consigan mejores niveles productivos con menor consumo de recursos. Para acreditar esto, en la memoria que acompañe a la solicitud de ayuda se justificará expresamente y de forma razonada en qué medida las inversiones han tenido en cuenta las MTD (máximo 11 puntos): |  |
 | 2.8.1 Si el proyecto de inversión contempla las mejoras o nuevas técnicas disponibles (MTD) propias de su sector de actividad. | 11 |
+
+> Se modifica los apartados 1.1.4, 1.1.8 y 2.3.2 por el art. 1.16 del Real Decreto 21/2018, de 19 de enero. Ref. BOE-A-2018-716
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
 
 > Se modifican los apartados 1.4.1 y 2.1.3 por el art. 1.9 del Real Decreto 702/2016, de 23 de diciembre. Ref. BOE-A-2016-12275
 

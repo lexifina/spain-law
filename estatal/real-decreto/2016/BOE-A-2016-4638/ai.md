@@ -4,7 +4,7 @@
 
 Serán subvencionables los costes directamente relacionados con las actividades de funcionamiento del proyecto de cooperación de acuerdo con los siguientes límites:
 
-I. Costes de mantenimiento de la contratación del personal técnico que figure como participante en el proyecto de cooperación.
+I. Costes de mantenimiento de la contratación del personal que figure como participante en el proyecto de cooperación.
 
 Sólo serán subvencionables los gastos de personal hasta el límite de las retribuciones fijadas para los correspondientes grupos profesionales en el Convenio Colectivo Único para el personal laboral de la Administración General del Estado.
 
@@ -16,7 +16,7 @@ Sólo serán subvencionables los gastos de personal hasta el límite de las retr
 | 4 | Formación Profesional de Técnico, Educación Secundaria Obligatoria y equivalentes. |
 | 5 | Certificado de Escolaridad y equivalente. |
 
-II. Costes de personal técnico permanente del beneficiario que participe en el proyecto de cooperación.
+II. Costes de personal permanente del beneficiario que participe en el proyecto de cooperación.
 
 A efectos de la determinación de los gastos de personal permanente del beneficiario, se calculará la tarifa horaria aplicable dividiendo los últimos costes salariales anuales brutos documentados de los empleados concretos que hayan trabajado en el proyecto entre 1720 horas.
 
@@ -30,3 +30,7 @@ Los gastos de desplazamiento, alojamiento y manutención estarán sujetos, cuand
 | Grupo 2. | 65,97 | 37,40 | 103,37 |
 
 En caso de desplazamientos en vehículo propio, la cuantía subvencionable será de 0,19 €/km recorrido de acuerdo con la Orden EHA/3771/2005, de 2 de diciembre, por la que se revisa la cuantía de los gastos de locomoción y de las dietas en el Impuesto sobre la Renta de las Personas Físicas.
+
+> Se modifican los apartados I y II por el art. 3.10 del Real Decreto 21/2018, de 19 de enero. Ref. BOE-A-2018-716
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto

@@ -38,6 +38,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 24](a2-6.md)
 - [Disposición final primera](df.md)
 - [Disposición final segunda](df-2.md)
+- [Disposición final tercera](df-4.md)
 - [Disposición final cuarta](df-3.md)
 - [(firma)](fi.md)
 - [ANEXO I](ai.md)
