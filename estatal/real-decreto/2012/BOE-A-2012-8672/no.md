@@ -1,0 +1,1 @@
+El Alto Comisionado del Gobierno para la Marca España pasa a denominarse Alto Comisionado del Gobierno para la Marca España y la promoción del español, según establece la disposición final 1 del Real Decreto 49/2018, de 1 de febrero. Ref. BOE-A-2018-1417
