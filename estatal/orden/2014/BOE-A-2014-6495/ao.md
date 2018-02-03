@@ -2,6 +2,8 @@
 
 > Anexos I a VIII omitidos. Consulte el PDF oficial, y sus modificaciones:
 
+> - Se declara la nulidad de lo indicado, por Sentencia del TS de 20 de diciembre de 2017. Ref. BOE-A-2018-1488
+
 > - Se declara la nulidad de lo indicado del Anexo I.6, en la redacción dada por la disposición final 1.1 de la Orden IET/1344/2015, de 2 de julio, por Sentencia de 10 de octubre de 2017. Ref. BOE-A-2017-13544
 
 > - Se declara la nulidad de lo indicado del Anexo I.6, en la redacción dada por la disposición final 1.1 de la Orden IET/1344/2015, de 2 de julio, por Sentencia de 6 de octubre de 2017. Ref. BOE-A-2017-12726
