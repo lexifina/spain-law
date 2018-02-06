@@ -10,7 +10,7 @@
 
 5. El nivel de ingresos y de renta del solicitante deberá acreditarse con la aportación de la siguiente documentación:
 
-a) Última declaración del Impuesto sobre la Renta de las Personas Físicas (IRPF) incluida, si se ha efectuado, la declaración complementaria o, en su caso, comunicación emitida o liquidación girada a efectos de devolución, por la Administración Tributaria.
+a) La última declaración del Impuesto sobre la Renta de las Personas Físicas (IRPF) a la fecha de la solicitud, incluida, si se ha efectuado, la declaración complementaria o, en su caso, comunicación emitida o liquidación girada a efectos de devolución, por la Administración Tributaria.
 
 Alternativamente, si no existe obligación de declarar y no se ha solicitado devolución, se podrán presentar certificaciones de la Administración Tributaria acreditativas, por un lado, del hecho de no haber presentado declaración del Impuesto y, por otro, de las imputaciones íntegras de ingresos que consten en dicha Administración Tributaria.
 
@@ -19,5 +19,9 @@ b) Declaración responsable de las pensiones o prestaciones que estén exentas o
 Con la documentación económica que en cada caso corresponda, se calculará la renta de la unidad familiar que permitirá determinar el cumplimiento de los requisitos relativos a la capacidad económica establecidos para las situaciones o estados de necesidad a que está llamado a atender el FAS.
 
 > Téngase en cuenta, que además de la documentación prevista en esta Resolución, con efectos desde el 1 de enero de 2014, habrá de aportarse certificado de empadronamiento, según establece la Resolución de 27 de diciembre de 2013. Ref. BOE-A-2014-866.
+
+> Se modifica el apartado 5, letra a), párrafo primero por el apartado único de la Resolución de 29 de enero de 2018. Ref. BOE-A-2018-1534
+
+> Esta modificación será aplicable a las ayudas por gastos producidos desde el día 1 de enero de 2018, según determina la disposición final de la citada Resolución.
 
 > Véase la Resolución de 27 de diciembre de 2013. Ref. BOE-A-2014-866 , que establece, con efectos desde 1 de enero de 2014, la documentación a aportar por los interesados.
