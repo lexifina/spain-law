@@ -1,7 +1,7 @@
 ## Artículo setenta y seis e).
 
-El asegurado tendrá derecho a someter a arbitraje cualquier diferencia que pueda surgir entre él y el asegurador sobre el contrato de seguro.
+(Anulado).
 
-La designación de árbitros no podrá hacerse antes de que surja la cuestión disputada.
+> Se declara la inconstitucionalidad y nulidad por Sentencia del TC 1/2018, de 11 de enero. Ref. BOE-A-2018-1677
 
 > Se añade por el art. 6 de la Ley 21/1990, de 19 de diciembre. Ref. BOE-A-1990-30736.
