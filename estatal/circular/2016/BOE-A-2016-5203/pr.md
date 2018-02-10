@@ -68,6 +68,16 @@ Real Decreto 2606/1996
 
 Real Decreto 2606/1996, de 20 de diciembre, sobre fondos de garantía de depósitos de entidades de crédito.
 
-Circular 4/2004
+Circular 4/2017
 
-Circular del Banco de España 4/2004, de 22 de diciembre, a entidades de crédito, sobre normas de información financiera pública y reservada, y modelos de estados financieros.
+Circular 4/2017, de 27 de noviembre, del Banco de España, a entidades de crédito, sobre normas de información financiera pública y reservada, y modelos de estados financieros.
+
+Ley 10/2014
+
+Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de las entidades de crédito.
+
+Circular 8/2015
+
+Circular 8/2015, de 18 de diciembre, del Banco de España, a las entidades y sucursales adscritas al Fondo de Garantía de Depósitos de Entidades de Crédito, sobre información para determinar las bases de cálculo de las aportaciones al Fondo de Garantía de Depósitos de Entidades de Crédito.
+
+> Se modifican las referencias normativas por la norma primera.1 de la Circular 1/2018, de 31 de enero. Ref. BOE-A-2018-1749
