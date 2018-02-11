@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación de la Orden del Ministerio de Agricultura, Pesca y Alimentación de 14 de noviembre de 1991, así como de las órdenes modificativas de la misma o del Reglamento de la Denominación «Cava» y de su Consejo Regulador.
+
+Se deroga la Orden del Ministerio de Agricultura, Pesca y Alimentación de 14 de noviembre de 1991 por la que se aprueba el Reglamento de la Denominación «Cava» y de su Consejo Regulador, salvo el artículo 30 de su anexo, el cual permanecerá en vigor en tanto no se incorpore su contenido en el pliego de condiciones de la Denominación de Origen Cava. Todo ello sin perjuicio de lo dispuesto en la disposición transitoria cuarta.

@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Aplicación transitoria de determinados preceptos del Reglamento de la Denominación «Cava» y de su Consejo Regulador, aprobado por Orden de 11 de noviembre de 1991.
+
+Durante el periodo de vigencia de la autorización provisional obtenida como organismo de control en proceso de acreditación, prevista en la disposición adicional primera del Real Decreto 267/2017, de 17 de marzo, el Consejo Regulador se regirá en su actuación de verificación y control por lo dispuesto en el artículo 29 del anexo I de la Orden de 14 de noviembre de 1991, en la redacción establecida mediante Orden APA/415/2007, de 23 de febrero.
