@@ -1,16 +1,18 @@
 ## Artículo 85 ter. Operaciones vinculadas.
 
-1. Se consideran operaciones vinculadas las que realizan las personas que se enumeran a continuación con relación a las operaciones a las que se refiere el apartado 2.
+1. Se consideran operaciones vinculadas, las que realizan las personas que se enumeran a continuación, con relación a las operaciones a las que se refiere el apartado 2.
 
-a) Por las entidades gestoras y las entidades depositarias entre sí cuando afectan a un fondo de pensiones respecto del que actúan como gestora y depositario respectivamente, y las que se realizan entre las entidades gestoras y quienes desempeñan en ellas cargos de administración y dirección.
+a) Por las entidades gestoras y las entidades depositarias, entre sí, cuando afectan a un fondo de pensiones respecto del que actúan como gestora y depositario respectivamente, y las que se realizan entre las entidades gestoras y quienes desempeñan en ellas cargos de administración y dirección.
 
-b) Por las entidades gestoras o depositarias con quienes desempeñan en ellas cargos de administración y dirección cuando afectan a un fondo de pensiones respecto del que actúan como gestora o depositario.
+b) Por las entidades gestoras o depositarias, con quienes desempeñan en ellas cargos de administración y dirección, cuando afectan a un fondo de pensiones respecto del que actúan como gestora o depositario.
 
-c) Por las entidades gestoras, cuando afectan a un fondo de pensiones respecto del que actúan como gestora; y por las entidades depositarias cuando afectan a un fondo de pensiones respecto del que actúan como depositario, con cualquier otra entidad que pertenezca a su mismo grupo, según se define en el artículo 42 del Código de Comercio.
+c) Por las entidades gestoras, cuando afectan a un fondo de pensiones respecto del que actúan como gestora; y por las entidades depositarias, cuando afectan a un fondo de pensiones respecto del que actúan como depositario, con cualquier otra entidad que pertenezca a su mismo grupo.
 
-d)Por las entidades gestoras, cuando afectan a un fondo de pensiones respecto del que actúan como gestora; y por las entidades depositarias cuando afectan a un fondo de pensiones respecto del que actúan como depositario, con cualquier promotor o entidad de su grupo, que lo sea de planes de pensiones adscritos a dicho fondo de pensiones o con los miembros de la comisión de control del fondo de pensiones o de los planes de pensiones en el integrados.
+d) Por las entidades gestoras, cuando afectan a un fondo de pensiones respecto del que actúan como gestora; y por las entidades depositarias cuando afectan a un fondo de pensiones respecto del que actúan como depositario, con cualquier promotor o entidad de su grupo, que lo sea de planes de pensiones adscritos a dicho fondo de pensiones, o con los miembros de la comisión de control del fondo de pensiones o de los planes de pensiones en él integrados.
 
-e) Por las entidades gestoras y las entidades depositarias con aquellas entidades en las que se hayan delegado funciones, cuando afectan a un fondo de pensiones respecto del que actúan como gestora y depositaria respectivamente.
+e) Por las entidades gestoras y las entidades depositarias, con aquellas entidades en las que se hayan delegado funciones, cuando afectan a un fondo de pensiones respecto del que actúan como gestora y depositaria respectivamente.
+
+A los efectos de lo previsto en este artículo, se considerarán pertenecientes a un mismo grupo las sociedades que se encuentren en los supuestos contemplados en el artículo 42 del Código de Comercio.
 
 2. Serán operaciones vinculadas las siguientes:
 
@@ -18,13 +20,13 @@ a) El cobro de remuneraciones por la prestación de servicios a un fondo de pens
 
 b) La obtención por un fondo de pensiones de financiación o la constitución de depósitos.
 
-c) La adquisición por un fondo de pensiones de valores o instrumentos emitidos o avalados por alguna de las personas definidas en el apartado anterior o en cuya emisión alguna de dichas personas actúe como colocador, asegurador, director o asesor.
+c) La adquisición por un fondo de pensiones de valores o instrumentos emitidos o avalados por alguna de las personas definidas en el apartado anterior, o perteneciente a su mismo grupo, o en cuya emisión alguna de dichas personas actúe como colocador, asegurador, director o asesor.
 
 d) Las compraventas de valores.
 
-e) Cualesquiera negocios, transacciones o prestaciones de servicios en los que intervenga un fondo de pensiones y cualquier empresa del grupo económico de la gestora, del depositario o de los promotores de los planes de pensiones adscritos o de alguno de los miembros de sus respectivos consejos de administración; cualquier miembro de las comisiones de control del fondo de pensiones o de los planes de pensiones adscritos; u otro fondo de pensiones o patrimonio gestionados por la misma entidad gestora u otra gestora del grupo.
+e) Cualesquiera negocios, transacciones o prestaciones de servicios en los que intervenga un fondo de pensiones y cualquier empresa del grupo económico de la gestora, del depositario o de los promotores de los planes de pensiones adscritos, o de alguno de los miembros de sus respectivos consejos de administración; cualquier miembro de las comisiones de control del fondo de pensiones, o de los planes de pensiones adscritos; u otro fondo de pensiones, o patrimonio gestionados por la misma entidad gestora u otra gestora del grupo.
 
-También tendrán la consideración de operaciones vinculadas las operaciones previstas en este apartado cuando se lleven a cabo por medio de personas o entidades interpuestas, en los términos que, a efectos de la interposición de personas o entidades, se describen en el apartado 9 del artículo 70 de este Reglamento.
+También tendrán la consideración de operaciones vinculadas, las operaciones previstas en este apartado, cuando se lleven a cabo por medio de personas o entidades interpuestas, en los términos que, a efectos de la interposición de personas o entidades, se describen en el apartado 9 del artículo 70.
 
 3. Para que una entidad gestora pueda realizar las operaciones vinculadas previstas en este artículo, deberán cumplirse los siguientes requisitos:
 
@@ -47,6 +49,8 @@ d) El acuerdo deberá ser adoptado por mayoría de dos tercios del total de cons
 e) Una vez celebrada la votación y proclamado el resultado, será válido hacer constar en el acta las reservas o discrepancias de los consejeros respecto al acuerdo adoptado.
 
 La Dirección General de Seguros y Fondos de Pensiones deberá determinar qué se entenderá, a efectos de este artículo, por volumen de negocio significativo atendiendo a la dimensión de la entidad gestora, el patrimonio administrado y la cuantía y características de la operación vinculada.
+
+> Se modifican los apartados 1 y 2 por el art. 2.18 del Real Decreto 62/2018, de 9 de febrero. Ref. BOE-A-2018-1832
 
 > Se modifican los apartados 1 y 4 por el art. 1.62 y 63 del Real Decreto 681/2014, de 1 de agosto. Ref. BOE-A-2014-8367.
 

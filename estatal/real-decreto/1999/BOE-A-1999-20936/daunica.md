@@ -42,6 +42,8 @@ b) Con periodicidad al menos anual, la entidad aseguradora remitirá a cada aseg
 
 4.º Valor de rescate en caso de cese de la relación laboral y condiciones en las que se permite la movilización a otro instrumento de previsión social.
 
+5.º En el caso de que el condicionado del plan de previsión social empresarial prevea la posibilidad de disposición anticipada de derechos económicos correspondientes a primas pagadas con al menos diez años de antigüedad regulada en el artículo 9.4, disposición adicional octava y disposición transitoria séptima del Reglamento de planes y fondos de pensiones, aprobado por el Real Decreto 304/2004, de 20 de febrero, deberá indicarse la cuantía del derecho económico al final del año natural susceptible de hacerse efectivo por dicho supuesto de disposición anticipada.
+
 c) Una vez producida y comunicada la contingencia el beneficiario del plan de previsión social empresarial deberá recibir información apropiada sobre la prestación y sus posibles reversiones, sobre las opciones de cobro correspondientes, en su caso, y respecto del grado de garantía o del riesgo de cuenta del beneficiario.
 
 En su caso se le hará entrega al beneficiario del certificado de seguro o garantía de su prestación emitido por la entidad aseguradora. Con periodicidad al menos anual, la entidad aseguradora remitirá a los beneficiarios una certificación sobre el valor de sus derechos económicos al final de cada año natural.
@@ -52,11 +54,11 @@ e) Además de las obligaciones establecidas en el apartado anterior, las entidad
 
 Para ello las entidades aseguradoras deberán articular las medidas necesarias y utilizar los medios precisos para garantizar el acceso de cualquier asegurado a dicha información. En todo caso las entidades aseguradoras remitirán la información periódica de carácter trimestral a los asegurados que expresamente la soliciten.
 
-5. El tomador de un plan de previsión social empresarial únicamente podrá ejercer el derecho de rescate para integrar todos los compromisos instrumentados en el plan de previsión social empresarial en otro plan de previsión social empresarial o en un plan de pensiones promovido por la empresa. En ambos casos, la nueva aseguradora o el plan de pensiones, asumirán la cobertura total de los compromisos por pensiones transferidos. El importe del derecho de rescate deberá ser abonado directamente a la nueva aseguradora del nuevo plan de previsión social empresarial o al fondo de pensiones en el que se integre el plan de pensiones.
+5. El tomador de un plan de previsión social empresarial únicamente podrá ejercer el derecho de rescate para integrar todos los compromisos instrumentados en el plan de previsión social empresarial en otro plan de previsión social empresarial, o en un plan de pensiones promovido por la empresa. En ambos casos, la nueva aseguradora o el plan de pensiones, asumirán la cobertura total de los compromisos por pensiones transferidos. El importe del derecho de rescate deberá ser abonado directamente a la nueva aseguradora del nuevo plan de previsión social empresarial o al fondo de pensiones en el que se integre el plan de pensiones.
 
 Será admisible que el pago del valor de rescate se realice mediante el traspaso de los activos, neto de los gastos precisos para efectuar los correspondientes cambios de titularidad.
 
-Cuando se realicen cobros parciales de derechos económicos por contingencias o por los supuestos excepcionales de liquidez regulados en el texto refundido de la Ley de Planes y Fondos de Pensiones, o se efectúen movilizaciones parciales de los citados derechos, la solicitud del asegurado deberá incluir indicación referente a si los derechos económicos que desea percibir o movilizar corresponden a primas anteriores o posteriores a 1 de enero de 2007, si las hubiera.
+Cuando se realicen cobros parciales de derechos económicos por contingencias o por los supuestos excepcionales de liquidez o disposición anticipada regulados en el texto refundido de la Ley de Planes y Fondos de Pensiones, o se efectúen movilizaciones parciales de los citados derechos, la solicitud del asegurado deberá incluir indicación referente a si los derechos económicos que desea percibir o movilizar corresponden a primas anteriores o posteriores a 1 de enero de 2007, si las hubiera.
 
 En el supuesto de movilizaciones parciales, los derechos económicos a movilizar se calcularán de forma proporcional según correspondan a primas anteriores y posteriores a dicha fecha, cuando éstas existan, y el asegurado no haya realizado la indicación señalada en el párrafo anterior.
 
@@ -65,6 +67,8 @@ En el supuesto de movilizaciones parciales, los derechos económicos a movilizar
 A efectos de lo previsto en el párrafo anterior, se aplicará el procedimiento de movilización de derechos de los planes de previsión social empresarial regulado en la disposición adicional sexta del Reglamento de Planes y Fondos de Pensiones.
 
 7. En todo lo que no contradiga esta disposición adicional resultará aplicable a los planes de previsión social empresarial el contenido de los artículos 26.1, 27.1, 27.3, 28.1, 28.3. 28.4, 29.2, 30, 31 y 33 de este Reglamento.
+
+> Se modifican los apartados 4.b) y 5 por el art. 1.2 del Real Decreto 62/2018, de 9 de febrero. Ref. BOE-A-2018-1832
 
 > Se modifican los apartados 4.b) y 5 por la disposición final 1.4 y 5 del Real Decreto 1060/2015, de 20 de noviembre. Ref. BOE-A-2015-13057#dfprimera.
 

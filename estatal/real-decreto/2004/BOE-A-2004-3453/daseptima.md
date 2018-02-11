@@ -4,13 +4,17 @@
 
 2. Sin perjuicio de lo dispuesto en el apartado anterior, con periodicidad anual las entidades aseguradoras remitirán a cada tomador de los planes de previsión asegurados una certificación sobre el total de las primas pagadas en cada año natural y el valor, al final del año natural, de la participación en beneficios que se le haya asignado, en su caso, y de su provisión matemática distinguiéndose la parte correspondiente a primas abonadas antes del 1 de enero de 2007, si las hubiera.
 
-Si el contrato cuenta con inversiones afectas se deberá advertir expresamente y de manera destacada de que pudiera existir una eventual diferencia entre el valor de mercado de los activos correspondientes y el importe de la provisión matemática para el caso de movilización o disposición anticipada.
+La referida certificación anual, deberá indicar también la cuantía de la provisión matemática al final del año natural susceptible de disposición anticipada por corresponder a primas abonadas con al menos diez años de antigüedad, de acuerdo con lo previsto en el artículo 9.4, disposición adicional octava y disposición transitoria séptima.
+
+Si el contrato cuenta con inversiones afectas, se deberá advertir expresamente y de manera destacada que puede existir una eventual diferencia entre el valor de mercado de los activos correspondientes y el importe de la provisión matemática para el caso de movilización o disposición anticipada.
 
 Cuando ello proceda, la certificación indicará la cuantía de los excesos de primas advertidos sobre el límite financiero legalmente establecido y el deber de comunicar el medio para el abono de la devolución.
 
 3. Las mutualidades de previsión social deberán igualmente, con carácter anual, remitir a cada mutualista un certificado con el contenido regulado en el apartado 2 anterior en relación con los contratos de seguro contemplados en el artículo 51.2 de la Ley 35/2006, de 28 de noviembre.
 
 No obstante, la información anual a los mutualistas relativa a los contratos de seguro que instrumentan compromisos por pensiones, a los que se refiere el punto 3.º de la letra a) de dicho artículo 51.2, se regirá por lo dispuesto en el Reglamento sobre la instrumentación de los compromisos por pensiones de las empresas con los trabajadores y beneficiarios, aprobado por Real Decreto 1588/1999, de 15 de octubre.
+
+> Se modifica el apartado 2 por el art. 2.24 del Real Decreto 62/2018, de 9 de febrero. Ref. BOE-A-2018-1832
 
 > Se modifica por la disposición final 4.26 del Real Decreto 1060/2015, de 20 de noviembre. Ref. BOE-A-2015-13057#dfcuaa.
 
