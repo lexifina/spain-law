@@ -1,1 +1,1 @@
-Véase la Resolución de 3 de octubre de 2017. Ref. BOE-A-2017-12243 que actualiza las cuantías de las indemnizaciones para el año 2017 y que acuerda hacer públicas en el sitio web de la Dirección General de Seguros y Fondos de Pensiones.
+Véase la Resolución de la Dirección General de Seguros y Fondos de Pensiones, de 31 de enero de 2018, Ref. BOE-A-2018-2030, que actualiza las cuantías indemnizatorias vigentes durante el año 2018 y acuerda hacerlas públicas en su sitio web http://www.dgsfp.mineco.es/
