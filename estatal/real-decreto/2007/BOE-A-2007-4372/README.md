@@ -117,6 +117,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria única](dtunica.md)
 - [Disposición transitoria primera](dtprimera-2.md)
 - [Disposición transitoria segunda](dtsegunda-2.md)
+- [Disposición transitoria tercera](dt.md)
 - [ANEXO I](ani.md)
 - [ANEXO II](anii.md)
 - [ANEXO III](aniii.md)
