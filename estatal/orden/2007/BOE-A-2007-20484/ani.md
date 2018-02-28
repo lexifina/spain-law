@@ -1,12 +1,12 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/317/15844_7737.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/51/02690_4598.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/317/15844_7851.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/51/02690_4590.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/317/15844_7923.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/51/02690_4580.png)
 
-> Téngase en cuenta que esta última actualización del modelo 322, establecida por el art. 2.1 de la Orden HFP/1307/2017, de 29 de diciembre. Ref. BOE-A-2017-1584 se utilizarán a partir del periodo de liquidación correspondiente a febrero de 2018, según establece la disposición final única.b) de la citada Orden
+> Se sustituye, según establece la disposición final 1, por el que figura como Anexo II de la Orden HFP/187/2018, de 22 de febrero. Ref. BOE-A-2018-2690.
 
 > Se modifica el apartado 1 por el art. 2.1 de la Orden HFP/1307/2017, de 29 de diciembre. Ref. BOE-A-2017-1584
 
