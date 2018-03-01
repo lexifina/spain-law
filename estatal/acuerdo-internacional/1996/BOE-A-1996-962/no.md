@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 96 de 20 de abril de 1996. Ref. BOE-A-1996-8879.
+Téngase en cuenta que, con efectos de 1 de marzo de 2018, quedan derogadas las disposiciones del presente Convenio no contempladas en el ámbito de aplicación material del artículo 2 del Convenio Complementario de Revisión de 24 de julio de 2012. Ref. BOE-A-2018-6510, según se establece en su art. 6.
