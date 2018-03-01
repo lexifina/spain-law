@@ -43,7 +43,12 @@ Protóxido de nitrógeno.
 | Diclorometano | Descafeinado o supresión de los elementos irritantes y amargos del café y del té. | 2 mg/kg en el café torrefacto y 5 mg/kg en el té. |  |
 | Metanol | Todos los usos. | 10 mg/kg. |  |
 | Propan-2-ol | Todos los usos. | 10 mg/kg. |  |
-| Éter dimetílico | Preparación de productos a base de proteínas animales desgrasadas. | 0,009 mg/kg en el producto a base de proteínas desgrasadas. |  |
+| Éter dimetílico | Preparación de productos a base de proteínas animales desgrasadas, incluida la gelatina (1) | 0,009 mg/kg en el caso de los productos a base de proteínas animales desgrasadas, incluida la gelatina |  |
+| Preparación de colágeno (2) y productos derivados del colágeno, excepto la gelatina | 3 mg/kg en el caso del colágeno y los productos derivados del colágeno, excepto la gelatina |  |
+
+(1) Se entiende por “gelatina”, la proteína natural, soluble, gelificante o no, obtenida mediante la hidrólisis parcial de colágeno producido a partir de huesos, pieles, tendones y nervios de animales, de conformidad con los requisitos pertinentes del Reglamento (CE) n.º 853/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, por el que se establecen normas específicas de higiene de los alimentos de origen animal.
+
+(2) Se entiende por “colágeno”, el producto a base de proteína obtenido a partir de huesos, pieles, tendones y nervios de animales y fabricado de conformidad con las disposiciones pertinentes del Reglamento (CE) n.º 853/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, por el que se establecen normas específicas de higiene de los alimentos de origen animal.
 
 ## PARTE III
 
@@ -63,5 +68,7 @@ Protóxido de nitrógeno.
 | 1,1,1,2-tetrafluoroetano. | 0,02 mg/kg |  |
 | Metanol. | 1,5 mg/kg |  |
 | Propan-2-ol | 1 mg/kg |  |
+
+> Se modifica la parte II por el art. único de la Orden SSI/194/2018, de 22 de febrero. Ref. BOE-A-2018-2761
 
 > Redactada la parte III conforme a la corrección de errores, publicada en BOE núm. 56, de 5 de marzo de 2016. Ref. BOE-A-2016-2262.
