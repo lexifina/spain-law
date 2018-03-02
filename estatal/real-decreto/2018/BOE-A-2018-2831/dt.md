@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Régimen transitorio de aplicación de las nuevas fórmulas.
+
+La revisión de precios de los contratos derivados de expedientes de contratación que se hubieran iniciado a la entrada en vigor de la presente disposición estará sujeta a los índices o fórmulas de revisión de precios fijados en los pliegos. A estos efectos se entenderá que los expedientes de contratación han sido iniciados si se hubiera publicado la convocatoria del procedimiento de adjudicación del contrato. En el caso de procedimientos no sujetos a publicidad, para determinar el momento de su iniciación se tomará en cuenta la fecha de aprobación del expediente.
