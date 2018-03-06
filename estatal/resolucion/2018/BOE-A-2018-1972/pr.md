@@ -1,0 +1,7 @@
+El Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio, establece la normativa aplicable en esta materia, señalando los supuestos que dan origen a indemnización o compensación, así como las condiciones y límites que rigen los mismos.
+
+Independientemente de que el artículo 4.1 de la indicada disposición determina, como órganos competentes para la designación de las comisiones de servicio, a los Subsecretarios de cada Departamento ministerial o a la autoridad superior del Organismo o Entidad correspondiente, estableciendo asimismo singularidades para la designación de dichas comisiones en el Ministerio de Defensa, se considera adecuado dictar la presente Instrucción para que, en el marco del Real Decreto 462/2002, de 24 de mayo, ya citado, se apliquen iguales criterios de actuación ante supuestos idénticos.
+
+Por otra parte, el citado Real Decreto establece en su Disposición final quinta la posibilidad de que el actual Ministerio de Hacienda y Función Pública, en el ámbito de sus competencias, dicte cuantas disposiciones complementarias sean precisas para la aplicación de lo dispuesto en el mismo.
+
+En este marco se dictan las presentes instrucciones de las Secretarías de Estado de Presupuestos y Gastos y Función Pública, y a iniciativa del Ministerio de Justicia en su ámbito, para establecer los criterios comunes de buenas prácticas en la gestión de las comisiones de servicio que se tramiten en el ámbito de la Administración General del Estado.
