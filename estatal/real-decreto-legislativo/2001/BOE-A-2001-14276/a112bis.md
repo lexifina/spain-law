@@ -20,6 +20,8 @@ En caso de celebrarse el convenio con la Agencia Estatal de Administración Trib
 
 El 2 por ciento del canon recaudado será considerado un ingreso del Organismo de cuenca, y el 98 por ciento restante será ingresado en el Tesoro Público por el organismo recaudador.
 
+> Se modifican los apartados 5 y 7 por el art. 10 de la Ley 1/2018, de 6 de marzo. Ref. BOE-A-2018-3171#a1-2
+
 > Se modifica por el art. 4 del Real Decreto-ley 10/2017, de 9 de junio. Ref. BOE-A-2017-6578
 
 > Téngase en cuenta, para la liquidación del canon en el ejercicio 2017, lo dispuesto en la disposición transitoria única del citado Real Decreto-ley.
