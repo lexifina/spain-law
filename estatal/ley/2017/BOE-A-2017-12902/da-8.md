@@ -1,0 +1,13 @@
+## Disposición adicional octava. Contratos celebrados en los sectores del agua, de la energía, de los transportes y de los servicios postales.
+
+1. La adjudicación de los contratos de las Administraciones Públicas que tengan por objeto alguna de las actividades enumeradas en el ámbito de aplicación objetiva de la legislación vigente sobre procedimientos de contratación en los sectores del agua, la energía, los transportes y los servicios postales, se regirá por la presente Ley, resultando de aplicación la mencionada legislación vigente únicamente para determinar qué contratos tendrán la consideración de contratos sujetos a regulación armonizada.
+
+2. La adjudicación por las entidades del sector público que no tengan el carácter de Administraciones Públicas de contratos que tengan por objeto alguna de las actividades enumeradas en el ámbito de aplicación objetiva de la legislación vigente sobre procedimientos de contratación en los sectores del agua, la energía, los transportes y los servicios postales, se regirá por dicha legislación, salvo que una Ley sujete estos contratos al régimen previsto en la presente Ley, en cuyo caso se les aplicarán las normas previstas para los contratos sujetos a regulación armonizada.
+
+A los contratos destinados a la realización de varias actividades en los que al menos una de ellas esté comprendida en el ámbito de la Ley sobre procedimientos de contratación en los sectores del agua, la energía, los transportes y los servicios postales, se les aplicará el régimen jurídico de la actividad a la que se destinen principalmente.
+
+En el supuesto de que no fuera objetivamente posible determinar a qué actividad se destina principalmente el contrato, se aplicará la presente Ley.
+
+Los contratos excluidos de la aplicación de la legislación vigente sobre procedimientos de contratación en los sectores del agua, la energía, los transportes y los servicios postales, que se celebren en los sectores del agua, la energía, los transportes y los servicios postales por las entidades del sector público que no tengan el carácter de Administraciones Públicas, se regirán por las disposiciones pertinentes de la presente Ley, sin que les sean aplicables, en ningún caso, las normas que en esta se establecen exclusivamente para los contratos sujetos a regulación armonizada.
+
+3. La adjudicación de los contratos que celebren las entidades a que se refiere el apartado anterior, que no tengan por objeto alguna de las actividades enumeradas en el ámbito de aplicación objetiva de la legislación vigente sobre procedimientos de contratación en los sectores del agua, la energía, los transportes y los servicios postales, se regirán por lo establecido en la presente Ley, en los términos establecidos en la misma.

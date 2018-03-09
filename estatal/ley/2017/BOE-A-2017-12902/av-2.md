@@ -1,0 +1,87 @@
+## ANEXO VI
+
+## Códigos CPV de los servicios y suministros a los que se refiere la disposición adicional cuarta relativa a los contratos reservados
+
+Servicios de limpieza:
+
+90610000-6, 90611000-3, 77211500-7, 77310000-6, 77311000-3, 77313000-7, 77314000-4, 90917000-8, 77211400-6, 90910000-9, 90911300-9, 90919200-4, 90690000-0.
+
+Servicio de recogida y reciclaje:
+
+90511300-5, 90511400-6, 90531000-8.
+
+Servicios forestales:
+
+77200000-2, 77231000-8, 77231800-6, 77312000-0, 77312100-1, 79930000-2.
+
+Servicios de lavandería:
+
+98311100-7, 98311200-8, 98312100-4, 98314000-7, 98315000-4, 98311000-6.
+
+Servicio de hostelería y catering:
+
+79952000-2, 55130000-0, 79952100-3, 55120000-7, 79950000-8, 55512000-2, 55330000-2, 55400000-4, 55410000-7.
+
+Servicios de transporte:
+
+60112000-6.
+
+Servicios de imprenta:
+
+79824000-6, 79821000-5, 79820000-8, 79800000-2, 79810000-5, 79823000-9, 79971000-1, 79971200-3, 79971100-2.
+
+Servicios sociales:
+
+85320000-8, 85312000-9, 85300000-2, 85310000-5.
+
+Servicios de almacenamiento y reparto:
+
+63100000-0, 63120000-6, 63121100-4.
+
+Servicios de hospedaje y turismo rural:
+
+63500000-4, 75125000-8.
+
+Servicios de trabajos administrativos:
+
+92500000-6, 92510000-9, 92511000-6, 92512000-3, 79500000-9, 98341120-2, 98341130-5, 79511000-9, 92520000-2, 92521000-9, 92521100-0, 72312000-5.
+
+Servicios de gestión y trabajos auxiliares:
+
+45233294-6, 45316000-5, 79993100-2, 79993000-1.
+
+Servicios de correo y publicidad:
+
+79571000-7, 79340000-9, 79341000-6, 64121100-1, 64121200-2, 79520000-5, 79920000-9, 79921000-6.
+
+Servicios de mantenimiento y reparación:
+
+45422000-1, 45420000-7, 50850000-8, 45262500-6, 45262520-2, 50000000-5, 71314100-3, 45330000-9, 45442100-8, 50232200-2, 45262680-1, 45259000-7, 50115000-4.
+
+Producción y venta de plantas de temporada, de compost, de planta y arbusto, de mobiliario de jardín…
+
+03121100-6, 03451300-9, 39142000-9, 03110000-5.
+
+Producción y venta de jabones de mano:
+
+33711900-6, 33741100-7, 39831700-3.
+
+Producción y venta de herramientas de cocina de madera:
+
+39220000-0, 44410000-7, 39221100-8, 39221180-2, 39141000-2.
+
+Producción y venta de mobiliario de carpintería:
+
+39100000-3, 03419100-1, 37800000-6, 37810000-9.
+
+Venta y distribución:
+
+30199000-0, 39000000-2.
+
+Artículos para eventos:
+
+18530000-3.
+
+Regalos y obsequios de empresa:
+
+39516000-2, 39295500-1, 39561140-5, 39200000-4, 39290000-1, 39170000-4, 44111300-4, 39298900-6, 44812400-9.

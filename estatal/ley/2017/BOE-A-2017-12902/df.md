@@ -1,0 +1,23 @@
+## Disposición final primera. Títulos competenciales.
+
+1. El artículo 27 se dicta al amparo de la regla 6.ª del artículo 149.1 de la Constitución, que atribuye al Estado la competencia sobre «legislación procesal, sin perjuicio de las necesarias especialidades que en este orden se deriven de las particularidades del derecho sustantivo de las Comunidades Autónomas».
+
+2. Los artículos que se indican a continuación se dictan al amparo de las competencias exclusivas que corresponden al Estado para dictar la legislación civil y mercantil en virtud de lo dispuesto en el artículo 149.1.6.ª y 8.ª de la Constitución, artículo 271.1, artículo 272.1 y 2, artículo 273.1, artículo 274, artículo 275 y artículo 276.
+
+3. El apartado 3 del artículo 347 constituye legislación básica y se dicta al amparo del artículo 149.1.18 de la Constitución en materia de «bases del régimen jurídico de las Administraciones Públicas». Por su parte, los restantes artículos de la presente Ley constituyen legislación básica dictada al amparo del artículo 149.1.18.ª de la Constitución en materia de legislación básica sobre contratos y concesiones administrativas y, en consecuencia, son de aplicación general a todas las Administraciones Públicas y organismos y entidades dependientes de ellas.
+
+No obstante, no tendrán carácter básico los siguientes artículos o partes de los mismos: letra a) del apartado 1 del artículo 21; letra a) del apartado 1 del artículo 22; artículo 30; la letra c) del apartado 6 del artículo 32; artículo 45 y 46.1 a 46.3; artículo 69.3; artículo 71.1.f); artículo 76; artículo 83; artículo 95; artículo 104; artículo 105; párrafo segundo del apartado 1 del artículo 107; segundo párrafo del apartado 3 y apartado 5 del artículo 116; artículo 118.2; letras a) y c) del apartado 2 del artículo 119; letra b) del artículo 120.1; apartado 1 del artículo 121; apartados 5, 6 y 7 del artículo 122; artículo 123 y 124; cuarto párrafo del apartado 4 del artículo 149; artículo 153; apartado 2 del artículo 154; artículo 191.2; artículo 192.2 y 3; artículo 193.2 a 5; artículo 194; apartados 2 y 5 del artículo 212; apartado 8 del artículo 215; artículo 228; apartados 1, 2, 5, el párrafo segundo del apartado 6, y apartados 7 y 8 del artículo 229; artículo 230; apartados 1.e) y 4 del artículo 233; artículo 234; artículo 235; artículo 236; artículo 237; artículo 238.2; artículo 240; apartado 1 del artículo 241; el apartado 4, salvo la previsión de la letra b) del primer párrafo y el segundo párrafo, y 5 del artículo 242; artículo 243; artículo 253; artículo 256; artículo 260; apartados 2 y 3 del artículo 263; artículo 266; apartado 5 del artículo 267; artículo 268; artículo 272.6; artículo 273.2; artículo 294.b; artículo 298; apartados 2 y 3 del artículo 300; artículo 302; artículo 303; artículo 304; artículo 305; apartados 2 y 3 del artículo 307; apartados 2 y 3 del artículo 313; apartados 3, 4, 5 y 6 del artículo 314; artículo 315; artículo 323; artículo 324; artículo 325; artículos 326 y 327; artículo 328, salvo el apartado 4; artículo 335.4; apartados 1, 2 y 7 del artículo 347; letra a) y segundo párrafo de la letra f) del apartado 1 de la disposición adicional primera; el párrafo tercero, apartado 1 de la disposición adicional cuarta; disposición adicional decimocuarta; disposición adicional décimo novena; disposición adicional vigésima; disposición adicional vigésimo cuarta; disposición adicional vigésimo novena; disposición adicional trigésima; disposición transitoria primera; disposición final séptima; y disposición final octava.
+
+A los mismos efectos previstos en el párrafo anterior tendrán la consideración de mínimas las exigencias que para los contratos menores se establecen en el artículo 118.1 y tendrán la consideración de máximos los siguientes porcentajes, cuantías o plazos:
+
+El porcentaje del 3 por 100 del artículo 106.2.
+
+El porcentaje del 5 por 100 del artículo 107.1 y 2.
+
+Las cuantías del artículo 131.4.
+
+Los plazos de un mes establecidos en los apartados 2 y 4 del artículo 210.
+
+4. Las previsiones de esta Ley serán de aplicación a las Comunidades Autónomas de acuerdo con lo establecido en los apartados 1, 2 y 3 anteriores, sin perjuicio de las posiciones singulares que en materia de sistema institucional, y en lo que respecta a las competencias exclusivas y compartidas, en materia de función pública y de auto organización, en cada caso resulten de aplicación en virtud de lo dispuesto en la Constitución Española y en los Estatutos de Autonomía.
+
+> Redactado conforme a la corrección de errores publicada en BOE, núm. 126, de 24 de mayo de 2018. Ref. BOE-A-2018-6892
