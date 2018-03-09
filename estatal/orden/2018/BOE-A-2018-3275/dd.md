@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación de las Órdenes del Ministerio de Agricultura, Pesca y Alimentación de 13 de julio de 1993 y de 8 de octubre de 2003.
+
+Se derogan la Orden del Ministerio de Agricultura, Pesca y Alimentación de 13 de julio de 1993, por la que se aprueba el Reglamento de la Denominación Específica «Espárrago de Navarra» y de su Consejo Regulador; Colegio Oficial de Gestores Administrativos así como la Orden APA/2926/2003, de 8 de octubre, por la que se aprueba la modificación del Reglamento de la Denominación Específica «Espárrago de Navarra» y de su Consejo Regulador.
