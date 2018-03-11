@@ -24,6 +24,8 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2013/225/09708_011.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/225/09708_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/61/03360_5092.png)
+
+> Se modifica el modelo de solicitud de Concesión de Condecoración por el art. único.6 del Real Decreto 107/2018, de 9 de marzo. Ref. BOE-A-2018-3360
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 225, de 19 de septiembre de 2013. Ref. BOE-A-2013-9708.
