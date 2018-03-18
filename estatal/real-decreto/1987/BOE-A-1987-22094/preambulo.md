@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 249, de 17 de octubre de 1987. Ref. BOE-A-1987-23479
+Norma derogada, con efectos de 18 de marzo de 2018, por la disposición derogatoria única del Real Decreto 128/2018, de 16 de marzo. Ref. BOE-A-2018-3760#dd

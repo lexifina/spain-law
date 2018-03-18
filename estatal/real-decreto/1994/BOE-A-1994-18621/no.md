@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 228, de 23 de septiembre de 1994. Ref. BOE-A-1994-20940
+Norma derogada, con efectos de 18 de marzo de 2018, por la disposición derogatoria única del Real Decreto 128/2018, de 16 de marzo. Ref. BOE-A-2018-3760 #dd
