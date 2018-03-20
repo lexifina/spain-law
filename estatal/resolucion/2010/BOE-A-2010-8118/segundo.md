@@ -10,7 +10,7 @@ Si el poderdante es una persona jurídica o una de las entidades carentes de per
 
 b) Poder otorgado mediante documento público o documento privado con firma notarialmente legitimada presentado ante la Agencia Tributaria. En estos casos el documento de acreditación del apoderamiento deberá ajustarse al contenido recogido en el formulario del Anexo I.
 
-c) Poder otorgado por Internet, mediante el uso de alguno de los sistemas de identificación y autenticación previstos en el artículo 13 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos. El otorgamiento de poder se realizará empleando el formulario disponible en la Sede Electrónica de la Agencia Estatal de Administración Tributaria cuyo contenido será el mismo que el del Anexo I de esta Resolución, a excepción de los datos asociados a documento público o privado con firma notarialmente legitimada.
+c) Poder otorgado por Internet, mediante el uso de alguno de los sistemas de identificación y firma previstos en los artículos 9 y 10 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. El otorgamiento del poder se realizará empleando el formulario disponible en la Sede Electrónica de la Agencia Estatal de Administración Tributaria cuyo contenido será el mismo que el del Anexo I de esta Resolución, a excepción de los datos asociados a documento público o privado con firma notarialmente legitimada.
 
 2. En el caso de apoderamientos otorgados mediante comparecencia en las oficinas de la Agencia Tributaria o en documento público o documento privado con firma notarialmente legitimada, la incorporación del apoderamiento al Registro se realizará por el funcionario debidamente cualificado y autorizado por el titular de la Delegación Central de Grandes Contribuyentes o por los titulares de las Delegaciones Especiales y Delegaciones de la Agencia.
 
@@ -23,6 +23,8 @@ Los apoderamientos a los que se refiere esta Resolución surtirán efecto desde 
 4. También se incorporarán al Registro los apoderamientos otorgados por las Administraciones públicas a favor de sus empleados públicos para mantener actualizado su censo de empleados públicos autorizados a realizar trámites a través de Internet en representación de los obligados tributarios.
 
 En el documento de acreditación del apoderamiento se identificará a la Administración pública otorgante y a los empleados públicos a cuyo favor se otorga el apoderamiento, debiendo constar la firma de la autoridad competente por razón de la materia.
+
+> Se modifica el punto 1.c) por el apartado 1.2 de la Resolución de 9 de marzo de 2018. Ref. BOE-A-2018-3804
 
 > Se modifica por el apartado 1.2 de la Resolución de 8 de junio de 2016. Ref. BOE-A-2016-5737.
 

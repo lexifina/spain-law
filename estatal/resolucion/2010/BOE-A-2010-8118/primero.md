@@ -4,6 +4,8 @@
 
 2. Podrán otorgar apoderamiento las personas físicas, personas jurídicas, Administraciones públicas y entidades carentes de personalidad jurídica a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
-3. El apoderamiento podrá ser otorgado a una o varias personas tanto físicas como jurídicas, salvo en el caso de apoderamientos para la recepción electrónica de comunicaciones y notificaciones que únicamente podrá ser otorgado a una sola persona física o jurídica.
+3. El apoderamiento podrá ser otorgado a una o varias personas tanto físicas como jurídicas.
+
+> Se modifica el punto 3 por el apartado 1.1 de la Resolución de 9 de marzo de 2018. Ref. BOE-A-2018-3804
 
 > Se modifica por el apartado 1.1 de la Resolución de 8 de junio de 2016. Ref. BOE-A-2016-5737.

@@ -1,5 +1,7 @@
 ## ANEXO III
 
-## Realización de trámites y actuaciones por Internet por los sucesores o por los representantes legales de los incapacitados
+## Realización de trámites y actuaciones por Internet por sucesores/as o por representantes legales de incapacitados/as
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2010/124/08118_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/68/03804_5368.png)
+
+> Se modifica por el apartado 2 de la Resolución de 9 de marzo de 2018. Ref. BOE-A-2018-3804
