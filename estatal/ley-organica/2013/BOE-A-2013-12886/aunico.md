@@ -1654,6 +1654,8 @@ Corresponderá al Ministerio de Educación, Cultura y Deporte la comprobación d
 
 La obligación financiera del Ministerio de Educación, Cultura y Deporte tendrá carácter excepcional y se extinguirá con la adopción por la Administración educativa competente de medidas adecuadas para garantizar los derechos lingüísticos individuales de los alumnos y alumnas. A estos efectos, no se considerarán adecuadas las medidas que supongan la atención individualizada en castellano o la separación en grupos por razón de la lengua habitual.
 
+> Téngase en cuenta que se declaran inconstitucionales y nulos los párrafos destacados del punto 4.c) del apartado 99, con los efectos previstos en el fundamento jurídico 11 c) por Sentencia del TC 14/2018, de 20 de febrero. Ref. BOE-A-2018-4146
+
 5. Corresponderá a la Alta Inspección del Estado velar por el cumplimiento de las normas sobre utilización de lengua vehicular en las enseñanzas básicas.
 
 6. Aquellas Comunidades Autónomas en las que existan lenguas no oficiales que gocen de protección legal las ofertarán, en su caso, en el bloque de asignaturas de libre configuración autonómica, en los términos que determine su normativa reguladora.»
@@ -1708,14 +1710,16 @@ Ciento siete. La disposición final quinta queda redactada de la siguiente maner
 
 2. Los artículos 29, 31, 36 bis y 37 se dictan al amparo de la competencia exclusiva del Estado sobre la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.»
 
+> Téngase en cuenta que se declara inconstitucional y nulo el apartado 107, en los términos precisados en el fundamento jurídico 14, por Sentencia del TC 14/2018, de 20 de febrero. Ref. BOE-A-2018-4146
+
 Ciento ocho. La disposición final séptima queda redactada de la siguiente manera:
 
 «Tienen carácter de Ley Orgánica el capítulo I del título preliminar, los artículos 3; 4; 5.1, 5.2; el capítulo III del título preliminar; los artículos 16; 17; 18.1,18.2, 18.3, 18.4 y 18.6; 19.1; 22; 23; 23 bis; 24; 25; 27; 30; 38; 68; 71; 74; 78; 79 bis; 80; 81.3 y 81.4; 82.2; 83; 84.1, 84.2, 84.3, 84.4, 84.5, 84.6, 84.7, 84.8 y 84.9; 85; 108; 109; 115; el capítulo IV del título IV; los artículos 118; 119; 126.1 y 126.2; 127; 128; 129; las disposiciones adicionales decimosexta, decimoséptima, trigésima tercera y trigésima sexta; la disposición transitoria sexta, apartado tercero; la disposición transitoria décima; las disposiciones finales primera y séptima, y la disposición derogatoria única.»
 
 Ciento nueve. Se añade una nueva disposición final séptima bis, con la siguiente redacción:
 
-«Disposición final séptima bis. Bases de la educación plurilingüe.
+(Anulado)
 
-El Gobierno establecerá las bases de la educación plurilingüe desde segundo ciclo de Educación Infantil hasta Bachillerato, previa consulta a las Comunidades Autónomas.»
+> Se declaran inconstitucionales y nulos los párrafos destacados del punto 4.c) del apartado 99, con los efectos previstos en el fundamento jurídico 11 c), el apartado 107, en los términos precisados en el fundamento jurídico 14 y el apartado 109, por Sentencia del TC 14/2018, de 20 de febrero. Ref. BOE-A-2018-4146
 
 > Se modifican los apartados 60 y 66 por la disposición final 7 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#dfseptima.

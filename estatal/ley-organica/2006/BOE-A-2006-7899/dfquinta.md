@@ -4,4 +4,8 @@
 
 2. Los artículos 29, 31, 36 bis y 37 se dictan al amparo de la competencia exclusiva del Estado sobre la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.
 
+> Téngase en cuenta que se declara inconstitucional y nula, en los términos precisados en el fundamento jurídico 14, por Sentencia del TC 14/2018, de 20 de febrero. Ref. BOE-A-2018-4146
+
+> Se declara inconstitucional y nula, en los términos precisados en el fundamento jurídico 14, por Sentencia del TC 14/2018, de 20 de febrero. Ref. BOE-A-2018-4146
+
 > Se modifica por el art. único.107 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886#aunica.

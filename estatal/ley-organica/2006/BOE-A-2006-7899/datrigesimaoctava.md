@@ -24,8 +24,12 @@ Corresponderá al Ministerio de Educación, Cultura y Deporte la comprobación d
 
 La obligación financiera del Ministerio de Educación, Cultura y Deporte tendrá carácter excepcional y se extinguirá con la adopción por la Administración educativa competente de medidas adecuadas para garantizar los derechos lingüísticos individuales de los alumnos y alumnas. A estos efectos, no se considerarán adecuadas las medidas que supongan la atención individualizada en castellano o la separación en grupos por razón de la lengua habitual.
 
+> Téngase en cuenta que se declaran inconstitucionales y nulos los tres últimos párrafos del apartado 4.c), con los efectos previstos en el fundamento jurídico 11 c), por Sentencia del TC 14/2018, de 20 de febrero. Ref. BOE-A-2018-4146
+
 5. Corresponderá a la Alta Inspección del Estado velar por el cumplimiento de las normas sobre utilización de lengua vehicular en las enseñanzas básicas.
 
 6. Aquellas Comunidades Autónomas en las que existan lenguas no oficiales que gocen de protección legal las ofertarán, en su caso, en el bloque de asignaturas de libre configuración autonómica, en los términos que determine su normativa reguladora.
+
+> Se declaran inconstitucionales y nulos los tres últimos párrafos del apartado 4.c), con los efectos previstos en el fundamento jurídico 11 c), por Sentencia del TC 14/2018, de 20 de febrero. Ref. BOE-A-2018-4146
 
 > Se añade por el art. único.99 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886#aunico.
