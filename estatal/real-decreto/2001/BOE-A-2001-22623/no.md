@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 9, de 10 de enero de 2002. Ref. BOE-A-2002-481.
+Norma derogada, con efectos de 23 de marzo de 2018, por la disposición derogatoria única del Real Decreto 848/2017, de 22 de septiembre. Ref. BOE-A-2017-10832#dd
