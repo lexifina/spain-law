@@ -22,7 +22,9 @@ Para aplicar lo previsto en el párrafo anterior, además será necesario que el
 
 5. En relación con ejercicios posteriores a 2014, mediante Ley de Presupuestos Generales del Estado se podrá habilitar, atendiendo a la coyuntura económica, la prórroga del plazo de aplicación previsto en este artículo.
 
-> Téngase en cuenta que se prorroga para 2017 la aplicación de las reglas contenidas en esta disposición, según establece la disposición adicional 96 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+> Téngase en cuenta que se prorroga para 2018 la aplicación de las reglas contenidas en esta disposición, según establece el art. 1 del Real Decreto-ley 1/2018, de 23 de marzo. Ref. BOE-A-2018-4152
+
+> Se prorroga su aplicación para 2018 por el art. 1 del Real Decreto-ley 1/2018, de 23 de marzo. Ref. BOE-A-2018-4152
 
 > Se prorroga su aplicación para 2017 por la disposición adicional 96 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
 
