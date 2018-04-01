@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Incorporación al sistema de notificación electrónica.
+
+Los sujetos responsables comprendidos en el ámbito de aplicación subjetivo previsto en el artículo 3.2 de la Orden ESS/485/2013, de 26 de marzo, que en la fecha de entrada en vigor de esta orden aún no hubieran sido incluidos en el sistema de notificación electrónica conforme a lo indicado en los apartados 1 y 2 de la disposición adicional única de aquella orden, quedarán incorporados en ese sistema de forma obligatoria mediante su comparecencia en la SEDESS, en los términos previstos en el último párrafo del citado artículo 3.2 de la Orden ESS/485/2013, de 26 de marzo, para lo cual dispondrán del plazo de dos meses a partir de aquel en que tenga lugar esa entrada en vigor.
