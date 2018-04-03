@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada por Resolución de 31 de mayo de 2010. Ref. BOE-A-2010-9157.
+Norma derogada por el apartado 3 de la Resolución de 23 de marzo de 2018. Ref. BOE-A-2018-4480#te.
