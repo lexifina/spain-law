@@ -4,7 +4,7 @@
 
 2. Dicho registro incluirá información relativa al menos a: nombre acrónimo del grupo operativo, componentes en fase de redacción de proyecto de innovación (diferenciando entre los beneficiarios de las ayudas, los subcontratados y los colaboradores sin participación económica), fecha de alta, nombre de su proyecto de innovación, importe de la ayuda otorgada por el PNDR a la creación del grupo, fecha prevista y real de presentación de proyecto de innovación preparado, referencia de convocatoria de subvención y PDR nacional o autonómico a los que concurren para ejecución del proyecto de innovación, importe y fecha de ayuda otorgada para ejecución de proyecto de innovación, componentes en fase de ejecución del proyecto de innovación (en caso de presentar alguna diferencia respecto a la fase anterior) y fechas prevista y real de finalización del proyecto de innovación y de justificación de esta última subvención, o de baja en el registro por algunas de las demás causas especificadas en el apartado 4.
 
-3. Los coordinadores del grupo operativo comunicarán a la Dirección General de Desarrollo Rural y Política Forestal los datos del registro relativos a su eventual concurrencia a convocatorias autonómicas para ejecución de proyectos de innovación, en el plazo de cinco días desde la ocurrencia del correspondiente acontecimiento.
+3. El representante de la agrupación de beneficiarios comunicará a la Dirección General de Desarrollo Rural y Política Forestal los datos del registro relativos a su eventual concurrencia a convocatorias autonómicas para ejecución de proyectos de innovación, en el plazo de cinco días desde la ocurrencia del correspondiente acontecimiento.
 
 4. Los grupos operativos registrados en la AEI-agri pasarán a darse de baja en el Registro:
 
@@ -19,3 +19,7 @@ c) De forma automática, transcurridos dos años desde la justificación de la s
 6. Este registro no substituye al equivalente u otras obligaciones de información que la Comisión Europea pudiera establecer a escala comunitaria para los grupos operativos de la EIP-agri. La Dirección General de Desarrollo Rural y Política Forestal del Ministerio de Agricultura, Alimentación y Medio Ambiente, en su calidad de Autoridad de Gestión del Programa Nacional de Desarrollo Rural, podrá acordar con la Comisión Europea fórmulas de colaboración para su mantenimiento.
 
 7. La consideración y tratamiento dado en esta disposición a los grupos operativos se entiende únicamente a efectos del registro de la AEI-agri, sin perjuicio de las obligaciones que la Ley 38/2003, de 17 de noviembre, atribuye a los beneficiarios de las ayudas, incluidas las relativas a la fase posterior a su justificación.
+
+> Se modifica el apartado 3 por el art. único.21 del Real Decreto 170/2018, de 23 de marzo. Ref. BOE-A-2018-4552
+
+> Téngase en cuenta la cláusula suspensiva de la disposición adicional única del citado Real Decreto.

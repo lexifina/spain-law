@@ -1,21 +1,27 @@
 ## ANEXO III
 
-## Criterios de selección para la creación y funcionamiento de grupos operativos supraautonómicos
+## Listado no exhaustivo de gastos no subvencionables
 
-Criterios de selección. M16.1. AEI. Ayudas para la creación de grupos operativos en materia de productividad y sostenibilidad agrícolas
+No se considerarán gastos subvencionables los siguientes conceptos:
 
-| Criterio | Descripción del criterio | Puntuación máxima | Graduación del valor de la puntuación |
-| --- | --- | --- | --- |
-| A) Composición del grupo operativo propuesto (máximo 25 puntos) |
-| A1) Idoneidad de los miembros del grupo. | El objetivo de este criterio es evaluar individualmente la vinculación, capacitación y experiencia de los miembros del grupo operativo con el ámbito/temática del futuro proyecto a ejecutar. | 9 | • 100 % de los miembros idóneos: 9 puntos. • 100 %-75 % de miembros idóneos: 5 puntos. • 75 %-50 % de los miembros idóneos: 2 puntos. • <50 % de los miembros idóneos: 0 puntos. |
-| A2) Repercusión del beneficio potencial. | Se valorará la presencia en el grupo de una asociación relacionada con la materia en cuestión. | 9 | • Más de una asociación:9 puntos. • Una asociación: 5 puntos. • Ninguna asociación: 2 puntos. |
-| A3) Colaboración con otros grupos operativos. | Previsión de realización de actividades conjuntas con otros grupos operativos. | 2 | • Colaboración: 2 puntos. • No colaboración: 0 puntos. |
-| A4) Complementariedad de perfiles. | Este criterio valorará la complementariedad de los perfiles de los distintos componentes del grupo operativo entre sí, de modo que queden representados en el grupo distintos ámbitos de trabajo y/o experiencias profesionales en relación a la materia a abordar por el mismo. | 5 | • Presencia de perfiles complementarios en el grupo: 5 puntos. • Ausencia de perfiles complementarios en el grupo: 0 puntos. |
-| B) Objetivo del grupo operativo propuesto (máximo 60 puntos) |
-| B1) Situación de partida. | B1.1) Evaluación de la situación de partida y del Estado del Arte de la cuestión que aborda el grupo (conocimiento, experiencias previas, pruebas, investigaciones relacionadas, etc. B1.2) Acreditación del conocimiento y experiencia previa del grupo operativo con proyectos o experiencias previas relacionadas. | 10 | • Análisis exhaustivo: 6 puntos. • Análisis medio: 3 puntos. • Análisis bajo: 1 puntos. • Ningún análisis: 0 puntos. • Conexión a proyectos/ experiencias previas: 4 puntos. • No vinculación con proyectos/experiencias previas: 0 puntos. |
-| B2) Necesidad del proyecto. | Se evaluará la justificación de la necesidad teniendo en cuenta la relevancia de los resultados potenciales del proyecto para los usuarios finales que podrían beneficiarse de los mismos. | 20 | • Muy relevante:20 puntos. • Medianamente relevante:15 puntos. • Poco relevante:10 puntos. |
-| B3) Objetivos del grupo operativo. | Se pretende evaluar el grado de definición de los objetivos a alcanzar por el grupo operativo (claridad y concreción). | 15 | • Muy definidos:15 puntos. • Medianamente definidos:10 puntos. • Poco definidos: 5 puntos. |
-| B4) Plan de divulgación. | El criterio evaluará el alcance del plan de divulgación y la calidad del mismo según las actuaciones incluidas, para dar difusión a los resultados del trabajo realizado por el grupo (páginas web, talleres formativos, jornadas, folletos). | 15 | • Alto alcance:15 puntos. • Medio alcance: 10 puntos. • Bajo alcance: 5 puntos. |
-| C) Presupuesto (15 puntos) |
-| C1) Presupuesto. | Grado de coherencia y equilibrio entre el presupuesto previsto para la creación del grupo operativo y las tareas y objetivo del grupo operativo. | 15 | • Alta:15 puntos. • Media: 8 puntos. • Baja:0 puntos. |
-| Puntuación máxima: 100 puntos. Puntuación mínima exigible: 50 puntos, con un mínimo de 12 puntos en el apartado A), 30 puntos en el apartado B) y 8 puntos en el apartado C). |
+1. Los gastos que se realicen fuera del periodo subvencionable.
+
+2. Los gastos que no hayan sido materialmente realizados.
+
+3. Los gastos de actividades que no estén directamente relacionados con la creación del grupo operativo y la elaboración de su proyecto innovador, estando contemplados en el presupuesto y la memoria descriptiva de la idea de proyecto innovador presentada, y siendo conformes con las condiciones particulares de la resolución de concesión de la ayuda.
+
+4. Los gastos de actividades que no estén orientadas a la aplicación práctica del conocimiento de investigación, como por ejemplo las actividades de investigación.
+
+5. El impuesto sobre el valor añadido (IVA) recuperable por el beneficiario y los demás impuestos, tasas y precios públicos.
+
+6. Los gastos notariales.
+
+7. Los gastos por transacciones financieras, intereses deudores o de demora, las comisiones por cambio de divisas y las pérdidas, así como otros gastos puramente financieros.
+
+8. Las multas, sanciones financieras y gastos de procedimientos legales.
+
+9. Los gastos de tramitación administrativa.
+
+> Se modifica por el art. único.22 del Real Decreto 170/2018, de 23 de marzo. Ref. BOE-A-2018-4552
+
+> Téngase en cuenta la cláusula suspensiva de la disposición adicional única del citado Real Decreto.

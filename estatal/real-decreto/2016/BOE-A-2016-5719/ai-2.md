@@ -1,39 +1,19 @@
 ## ANEXO II
 
-## Estructura y contenido del proyecto de innovación a presentar por el grupo operativo supraautonómico
+## Áreas focales en las que pueden tener efectos los proyectos innovadores planteados
 
-Extensión máxima del proyecto 100 páginas.
+• 2A. Mejorar los resultados económicos de todas las explotaciones y facilitar la reestructuración y modernización de las mismas, en particular con objeto de incrementar su participación y orientación hacia el mercado, así como la diversificación agrícola.
 
-Tipo y tamaño del texto: Arial 12.
+• 3A. Mejorar la competitividad de los productores primarios integrándolos mejor en la cadena agroalimentaria a través de regímenes de calidad, añadir valor a los productos agrícolas, promoción en mercados locales y en circuitos de distribución cortos, agrupaciones y organizaciones de productores y organizaciones interprofesionales.
 
-Interlineado: Simple.
+• P4. Restaurar, preservar y mejorar los ecosistemas relacionados con la agricultura y la selvicultura, haciendo especial hincapié en: a) restaurar, preservar y mejorar la biodiversidad (incluido en las zonas Natura 2000 y en las zonas con limitaciones naturales u otras limitaciones específicas), los sistemas agrarios de alto valor natural, así como el estado de los paisajes europeos; b) mejorar la gestión del agua, incluyendo la gestión de los fertilizantes y de los plaguicidas; c) prevenir la erosión de los suelos y mejorar la gestión de los mismos.
 
-Márgenes izq. dcho, superior e inferior: 2,5 cm.
+• 5A. Lograr un uso más eficiente del agua en la agricultura.
 
-1. Preámbulo: Al objeto de cumplir con los requisitos de publicidad del FEADER, el preámbulo deberá incluir el siguiente texto:
+• 5C. Facilitar el suministro y el uso de fuentes renovables de energía, subproductos, desechos y residuos y demás materia prima no alimentaria para impulsar el desarrollo de la bioeconomía.
 
-«Se redacta la presente idea de proyecto al objeto de ser financiada en el marco del Programa Nacional de Desarrollo Rural, financiado por el Ministerio de Agricultura, Alimentación y Medio Ambiente (MAGRAMA) y por el Fondo Europeo Agrícola de Desarrollo Rural (FEADER). Su presupuesto incluye una partida para eventual publicidad de la contribución del FEADER a su financiación, para el caso de que resultase finalmente seleccionado.»
+> Se renumera por el art. único.22 del Real Decreto 170/2018, de 23 de marzo. Ref. BOE-A-2018-4552
 
-2. Nombre del grupo operativo supraautonómico (máximo 10 palabras).
+> Su anterior numeración era anexo V.
 
-3. Producto, sector o ámbito de trabajo afectados por las innovaciones planteadas por el potencial grupo operativo (máximo 20 palabras).
-
-4. Objetivos a alcanzar por el proyecto y breve descripción del mismo.
-
-5. Evaluación de la situación de partida de la materia a abordar. Estado del conocimiento y la técnica disponible y justificación de la necesidad del proyecto de innovación. Principales problemas a resolver y oportunidades a aprovechar.
-
-6. Composición del grupo operativo supraautonómico: identificación de los miembros que participarán en la ejecución futura del proyecto, pudiendo en su caso, plantear la necesidad de reajustar o modificar la composición del grupo propuesto inicialmente en el momento de la solicitud.
-
-7. Programa de trabajo: especificar secuencialmente las actividades a desarrollar para ejecutar el proyecto de innovación, detallando su contenido e identificando qué miembro del grupo será responsable de su ejecución. Conceptos innovadores a desarrollar, proceso de evaluación y prueba y otras actividades a ejecutar para su posible implantación.
-
-8. Cronograma detallado de las actuaciones.
-
-9. Plan de divulgación de los resultados del proyecto, complementario a la divulgación obligatoria a través de la Red Rural Nacional y red EIP-agri.
-
-10. Presupuesto de ejecución del proyecto innovador (incluye el relativo al programa de actuaciones y al plan de divulgación).
-
-11. Hitos temporales y resultados esperados en cada una de las actuaciones. Indicadores de seguimiento y control del proyecto.
-
-12. Tipo, extensión e intensidad de los potenciales impactos, sobre el sector / ámbito.
-
-13. Impacto esperado del proyecto sobre el sector o ámbito a escala nacional y sobre las áreas focales del FEADER 2A, 3A, P4, 5A, y 5C.
+> Téngase en cuenta la cláusula suspensiva de la disposición adicional única del citado Real Decreto.
