@@ -8,6 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+BOE records this act as repealed with effect from 2018-04-08. The recorded cause is disposición derogatoria única.c) de la Orden INT/359/2018, de 6 de abril, Ref. BOE-A-2018-4747#dd, y por la disposición derogatoria única.c) de la Orden INT/26/2021, de 15 de enero (BOE-A-2021-897). See the publisher notice for qualifications and transitional provisions. Earlier wording remains available in the history.
+
 ## Bloques
 
 - [no](no.md)
