@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Créditos presupuestarios.
+
+Conforme a lo dispuesto en la disposición transitoria primera de la Ley 23/2015, de 21 de julio, Ordenadora del Sistema de Inspección de Trabajo y Seguridad Social, hasta tanto se apruebe el presupuesto del Organismo Autónomo Organismo Estatal Inspección de Trabajo y Seguridad Social, integrado en los Presupuestos Generales del Estado, los créditos presupuestarios para financiar las actuaciones de la Inspección de Trabajo se seguirán gestionando por los servicios hasta ahora competentes del Ministerio de Empleo y Seguridad Social, y el pago del personal al servicio del Organismo Estatal se efectuará con cargo a los créditos de procedencia.
