@@ -25,14 +25,19 @@
 | AEAG4 | Equivalente proteico (gramo) | 1,2587 |
 | AEAH1 | Equivalente proteico (gramo) | 1,1734 |
 | AEAH2 | Equivalente proteico (gramo) | 1,4475 |
+| AEAH3 | Equivalente proteico (gramo) | 1,1440 |
 | AEAH4 | Equivalente proteico (gramo) | 1,3524 |
+| AEAI1 | Equivalente proteico (gramo) | 1,1734 |
 | AEAI2 | Equivalente proteico (gramo) | 1,4475 |
+| AEAI3 | Equivalente proteico (gramo) | 1,1440 |
 | AEAI4 | Equivalente proteico (gramo) | 1,3524 |
 | AEAK1 | Equivalente proteico (gramo) | 1,1734 |
 | AEAK2 | Equivalente proteico (gramo) | 1,4475 |
 | AEAK3 | Equivalente proteico (gramo) | 1,1440 |
 | AEAK4 | Equivalente proteico (gramo) | 1,3524 |
+| AEAL1 | Equivalente proteico (gramo) | 1,1734 |
 | AEAL2 | Equivalente proteico (gramo) | 1,4475 |
+| AEAL3 | Equivalente proteico (gramo) | 1,1440 |
 | AEAL4 | Equivalente proteico (gramo) | 1,3524 |
 | AMAA1 | Equivalente proteico (gramo) | 0,8546 |
 | AMAA2 | Equivalente proteico (gramo) | 1,4262 |
@@ -113,6 +118,8 @@
 | MPAA16 | Gramo de L-serina. | 0,6701 |
 | MPEN1 | Gramo de proteína | 0,0828 |
 | MPPE1 | Gramo de equivalente proteico | 0,1381 |
+
+> Se modifica por el art. 2.2 de la Orden SSI/366/2018, de 5 de abril. Ref. BOE-A-2018-4786
 
 > Se modifica por el art. 2.3 de la Orden SSI/1329/2014, de 22 de julio. Ref. BOE-A-2014-7879.
 

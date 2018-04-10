@@ -25,15 +25,20 @@
 | AEAG4 | Fórmulas exentas de isoleucina, leucina y valina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos. |
 | AEAH | Fórmulas exentas de leucina. | AEAH1 | Fórmulas exentas de leucina que contienen sólo aminoácidos. |
 | AEAH2 | Fórmulas exentas de leucina que, además de aminoácidos, llevan otros macro o micronutrientes. Para lactantes. |
+| AEAH3 | Fórmulas exentas de leucina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos. |
 | AEAH4 | Fórmulas exentas de leucina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos. |
-| AEAI | Fórmulas exentas de isoleucina, metionina, treonina y valina. | AEAI2 | Fórmulas exentas de isoleucina, metionina, treonina y valina, que además de aminoácidos llevan otros macro o micronutrientes. Para lactantes. |
+| AEAI | Fórmulas exentas de isoleucina, metionina, treonina y valina. | AEAI1 | Fórmulas exentas de isoleucina, metionina, treonina y valina, que contienen sólo aminoácidos. |
+| AEAI2 | Fórmulas exentas de isoleucina, metionina, treonina y valina, que además de aminoácidos llevan otros macro o micronutrientes. Para lactantes. |
+| AEAI3 | Fórmulas exentas de isoleucina, metionina, treonina y valina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos. |
 | AEAI4 | Fórmulas exentas de isoleucina, metionina, treonina y valina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos. |
 | AEAK | Fórmulas exentas de lisina y de bajo contenido en triptófano. | AEAK1 | Fórmulas exentas de lisina y de bajo contenido en triptófano, que contienen sólo aminoácidos. |
 | AEAK2 | Fórmulas exentas de lisina y de bajo contenido en triptófano que, además de aminoácidos, llevan otros macro o micronutrientes. Para lactantes. |
 | AEAK3 | Fórmulas exentas de lisina y de bajo contenido en triptófano que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos. |
 | AEAK4 | Fórmulas exentas de lisina y de bajo contenido en triptófano que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos. |
-| AEAL | Fórmulas exentas de lisina. | AEAL2 | Fórmulas exentas de lisina. Para lactantes. |
-| AEAL4 | Fórmulas exentas de lisina. Para niños y adultos. |
+| AEAL | Fórmulas exentas de lisina. | AEAL1 | Fórmulas exentas de lisina que contienen sólo aminoácidos. |
+| AEAL2 | Fórmulas exentas de lisina que, además de aminoácidos, llevan otros macro o micronutrientes. Para lactantes. |
+| AEAL3 | Fórmulas exentas de lisina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos. |
+| AEAL4 | Fórmulas exentas de lisina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos. |
 | AMAA | Fórmulas exentas de fenilalanina y tirosina. | AMAA1 | Fórmulas exentas de fenilalanina y tirosina que contienen sólo aminoácidos. |
 | AMAA2 | Fórmulas exentas de fenilalanina y tirosina que, además de aminoácidos, llevan otros macro o micronutrientes. Para lactantes. |
 | AMAA3 | Fórmulas exentas de fenilalanina y tirosina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos. |
@@ -129,6 +134,8 @@ a) Productos con fibra para niños: Aquellos cuya cantidad de fibra añadida es 
 b) Productos con fibra para adultos: Aquellos cuya cantidad de fibra añadida es igual o superior a 1,4 gramos por 100 mililitros. En el caso de los productos que se presenten en forma de polvo, la cantidad de fibra se referirá a 100 mililitros de la solución estándar.
 
 5. Solución estándar: Gramos de producto por 100 ml de solución.
+
+> Se modifica por el art. 2.1 a 3 de la Orden SSI/366/2018, de 5 de abril. Ref. BOE-A-2018-4786
 
 > Se modifica por el art. 2.1 de la Orden SSI/1329/2014, de 22 de julio. Ref. BOE-A-2014-7879.
 
