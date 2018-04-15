@@ -1,3 +1,7 @@
 ## TÍTULO IV
 
-## Las entidades de gestión de los derechos reconocidos en la Ley
+## Gestión colectiva de los derechos reconocidos en la ley
+
+> Se modifica por el art. único.7 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
+
+> Véase la disposición adicional 2 del citado Real Decreto-ley.
