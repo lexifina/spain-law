@@ -1,15 +1,11 @@
-## ANEXO XVI
+## ANEXO XVII
 
-## MODELOS DE INGRESO Y CONFIGURACIONES DE JUSTIFICANTES NO ANULABLES O RECTIFICABLES POR LAS ENTIDADES COLABORADORAS
+## MODELOS DE AUTOLIQUIDACIÓN CUYO INGRESO EN EL BANCO DE ESPAÑA DEBE SER ANTICIPADO POR LAS ENTIDADES COLABORADORAS
 
-| Modelo | Denominación | Configuración del justificante no anulable |
+| Modelo | Denominación | Periodos ingreso |
 | --- | --- | --- |
-| 002 | LIQUIDACIÓN AEAT: VOLUNTARIA Y EJECUTIVA. | Cuando las posiciones 5 y 6 del nº de justificante sean ''60''. |
-| 008 | DOCUMENTO DE INGRESO ASOCIADO A DILIGENCIAS DE EMBARGO. | Cuando las posiciones 5 y 6 del nº de justificante sean ''60'' |
-| 010 | LIQUIDACIÓN AEAT: INGRESOS PARCIALES O FUERA DE PLAZO. | Cuando las posiciones 5 y 6 del nº de justificante sean ''60''. |
+| 303 | Impuesto sobre el Valor Añadido. Autoliquidación. | M (01 a 12) |
+| 303 | Impuesto sobre el Valor Añadido. Autoliquidación | 4T |
+| 353 | Impuesto sobre el Valor Añadido. Grupo de entidades. Modelo agregado. Autoliquidación mensual. | M (01 a 12) |
 
-> Téngase en cuenta que este Anexo, añadido por el art. único.8 de la Orden HAP/122/2015, de 23 de enero. Ref. BOE-A-2015-939., no será de aplicación hasta que, en los términos previstos en el art. 29 del Reglamento General de Recaudación Ref. BOE-A-2005-14803#a29., se inicie la segunda quincena recaudatoria de mayo de 2015, según establece la disposición final 2 de la citada Orden.
-
-> Se añade por el art. único.8 de la Orden HAP/122/2015, de 23 de enero. Ref. BOE-A-2015-939.
-
-> Téngase en cuenta que esta modificación no será de aplicación hasta que, en los términos previstos en el art. 29 del Reglamento General de Recaudación Ref. BOE-A-2005-14803#a29., se inicie la segunda quincena recaudatoria de mayo de 2015, según establece la disposición final 2 de la citada Orden.
+> Se añade por el art. único.7 de la Orden HFP/386/2018, de 13 de abril. Ref. BOE-A-2018-5227
