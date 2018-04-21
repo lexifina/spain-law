@@ -4,238 +4,384 @@
 
 Curso de formación sanitaria específica inicial
 
-Un aula amplia, bien ventilada, con posibilidad de iluminación natural y artificial, que disponga de pizarra, retroproyector de transparencias, proyector de diapositivas, pantalla de proyección, televisión, videorreproductor, mesas y sillas móviles en número suficiente para el máximo de alumnos y que disponga del siguiente material para prácticas:
+Un aula amplia, bien ventilada, con posibilidad de iluminación natural y artificial, con mesas y sillas móviles en número suficiente para el máximo de alumnos y profesores.
 
-Un torso anatómico desmontable.
+El aula debe disponer de dispositivos de visionado adecuado al tipo de material didáctico de apoyo que se utilice durante la impartición de las clases teóricas y prácticas.
 
-Un esqueleto.
+El Centro deberá contar con el siguiente equipamiento:
 
-Linterna: una por cada dos alumnos.
+• Manual del alumno, cuyo contenido se ajuste a los objetivos establecidos en el anexo I.
 
-Termómetro médico digital de hipo e hipertermia: uno por cada dos alumnos.
+• Material audio visual de apoyo.
 
-Dos maniquíes de reanimación cardio-pulmonar con dispositivo electrónico de señales luminosas.
+Equipos para las clases prácticas:
 
-Un juego de cánulas orofaríngeas de varios tamaños.
+• Un esqueleto.
 
-Un botiquín C completo.
+• Un torso anatómico bisexo desmontable (28 partes) con espalda abierta.
 
-Vendas de gasa orillada de 7,5 cm × 5 m: una por alumno.
+• Dos maniquíes de reanimación cardio pulmonar con dispositivo electrónico de señales luminosas.
 
-Vendas de gasa orilladas de 5 cm × 5 m: dos por alumno.
+• Un simulador de inyección muscular en nalga.
 
-Compresas de gasa estériles de 20 cm × 20 cm en sobres monodosis: dos sobres por alumno.
+• Un torso de desobstrucción de la vía aérea.
 
-Gasas vaselinadas en sobres unidosis: una por alumno.
+• Un sistema emisor-receptor de fonía para prácticas de consulta radio-médica simulada.
 
-Esparadrapo hipoalérgico de 5 cm × 10 m: uno por cada cuatro alumnos.
+• Una carcasa de botiquín C hasta 60 millas y un envase de cada uno de los fármacos y material sanitario integrantes del mismo.
 
-Povidona yodada 10% solución dérmica: un envase de 125 cc por cada cuatro alumnos.
+Pequeño utillaje sanitario:
 
-Tijera de acero inoxidable recta aguda de 15 cm: una por cada dos alumnos.
+• Nueve linternas de exploración con pilas.
 
-Suturas adhesivas en sobres de 6 mm × 100 mm: un sobre por alumno.
+• Nueve termómetros médicos digitales de hipo e hipertermia.
 
-Cepillo para uñas: uno por alumno.
+• Un juego de cánulas orofaríngeas de varios tamaños (cánulas de Guedel).
 
-Collarín cervical para inmovilización: uno por cada cuatro alumnos.
+• Nueve tijeras rectas agudas de acero inoxidable.
 
-Venda elástica autoadhesiva de 7,5 cm de ancho: una por alumno.
+Material fungible por curso:
 
-Dos mantas.
+• Treinta y seis vendas elásticas de 7,5 cm × 5 m.
 
-Una camilla de transporte de heridos tipo Neil-Robertson.
+• Dieciocho vendas elásticas de 5 cm × 5 m.
 
-Material para improvisar una camilla y para improvisar férulas.
+• Dos cajas de gasas estériles de 20 cm × 20 cm (20 sobres de 5 gasas).
 
-Un juego de férulas hinchables.
+• Dieciocho sobres unidosis de gasa vaselinada de 7 × 9 cm.
 
-Férula digital aluminio látex de 2 cm × 50 cm: una por cada dos alumnos.
+• Diez unidades de esparadrapo hipoalérgico de 5 cm × 10 m.
 
-Un maniquí para prácticas de enfermería.
+• Cuatro envases de 125 cc de povidona yodada 10% solución dérmica.
 
-Jeringas estériles de 5 cc: una por alumno.
+• Dieciocho sobres de sutura cutánea adhesiva de 6 mm × 100 mm.
 
-Agujas de 0,8 mm × 40 mm: 2 por alumno.
+• Dieciocho jeringuillas de 5 cc.
 
-Jeringas estériles de 1 cc: una por alumno.
+• Dieciocho jeringuillas precargadas de 1 cc.
 
-Agujas de 0,5 mm × 16 mm: una por alumno.
+• Treinta y seis agujas de 0,8 × 40 mm.
 
-Medicación inyectable liofilizada (soluto + disolvente): una por alumno.
+• Dieciocho envases de medicación para prácticas de inyectable por vía intramuscular (soluto+ disolvente).
 
-Guantes de látex desechables: dos pares por alumno.
+• Una caja de guantes de vinilo desechables de la talla 8-9 de 100 unidades.
 
-Un libro registro de administración de fármacos a bordo.
+• Dieciocho cepillos para uñas.
 
-Un sistema emisor-receptor de fonía para prácticas de consulta radio-médica simulada.
+• Solución jabonosa para lavado de manos.
 
-Dos ejemplares de la Guía Sanitaria a bordo.
+• Ocho férulas de aluminio látex maleable de 2 cm × 50 cm.
 
-Curso de formación sanitaria específica avanzado
+• Dos mantas oro-plata.
 
-Dos aulas dedicadas permanentemente a impartir este tipo de cursos:
+Otro material:
 
-Aula de teoría: será amplia, bien ventilada, con iluminación natural y artificial y posibilidad de oscurecerse, que disponga de pizarra, televisión, videorreproductor, retroproyector de transparencias, proyector de diapositivas, pantalla de proyección y mesas y sillas en número suficiente para el máximo de alumnos.
+• Una lámina anatómica de los principales vasos sanguíneos.
 
-Aula de prácticas: será amplia, bien ventilada, con iluminación natural y artificial, que disponga de pizarra, mesas y sillas móviles en número suficiente para el máximo de alumnos, instalación de agua corriente caliente y fría y que disponga del siguiente material:
+• Una lámina anatómica de la piel.
 
-Dos torsos anatómicos desmontables.
+• Once tiras de tejido (sábana) de al menos 10 cm × 1 m.
 
-Dos esqueletos.
+• Once objetos sólidos para improvisar torniquete (cucharas de madera).
 
-Linternas: una por cada 2 alumnos.
+• Dos mantas.
 
-Termómetro médico digital de hipo e hipertermia: uno por cada dos alumnos.
+• Cuatro contenedores para la recogida de material punzante.
 
-Depresores linguales: dos por alumno.
+• Un juego de férulas hinchables.
 
-Fonendoscopios: uno por cada dos alumnos.
+• Cuatro collarines cervicales rígidos graduables.
 
-Esfigmomanómetros: uno por cada dos alumnos.
+• Material para improvisar camilla.
 
-Cuatro maniquíes de reanimación cardio-pulmonar, dos con dispositivo electrónico de señales luminosas y dos con monitor apto para evaluar la secuencia de reanimación, que dispongan de máscaras intercambiables y esterilizables.
+• Material para improvisar una férula.
 
-Dos insufladores manuales tipo ambú.
+• Un insuflador manual (Ambú).
 
-Dos maletines con equipo de reanimación que consten de botella de oxigenoterapia, sistema de aspiración, conexiones y mascarillas.
+• Una guía sanitaria versión reducida.
 
-Un juego de cánulas orofaríngeas de varios tamaños.
+• Una guía sanitaria completa.
 
-Cepillo para uñas: uno por alumno.
+• Nueve láminas de situación de síntomas.
 
-Guantes de látex desechables: 8 pares por alumno.
+• Un libro de registro de administración de fármacos.
 
-Guantes de látex estériles: un par por alumno.
+• Documentos de control de contenido de los botiquines.
 
-Cuatro bateas de acero inoxidable arriñonada con solapa de 25 cm.
+• Dos carpetas de documentación médica con su contenido:
 
-Povidona yodada al 10 % solución dérmica, envase de 125 cc: un envase por cada dos alumnos.
+○ Quince etiquetas informativas adhesivas para evacuación enfermos.
 
-Caja para instrumental de acero inoxidable de 20 × 10 × 5 cm: una por alumno.
+○ Quince fichas médicas de evacuación.
 
-Pinzas portagujas tipo Mayo: una por alumno.
+○ Quince sobres de información médica confidencial.
 
-Pinzas de disección rectas sin dientes: una por alumno.
+○ Veinticinco hojas de control de temperatura.
 
-Tijera recta aguda: una por alumno.
+• Etiquetas de revisión de botiquín.
 
-Tijera recta roma: una por alumno.
+• Etiquetas de señalización de botiquín.
 
-Bisturí desechable con mango: 2 por curso.
+• Etiquetas de señalización de la camilla.
 
-Sutura de seda trenzada con aguja triangular curva 3/0: 3 por alumno.
+• Etiquetas identificativas de botiquín C.
 
-Grapadora desechable para sutura: una por alumno.
+• Material para la limpieza de los equipos de prácticas.
 
-Tijeras quitagrapas: una por alumno.
+Curso de formación sanitaria específica avanzada
 
-Sutura adhesiva en sobres de 6 × 100 mm: un sobre por alumno.
+Para cada curso se debe disponer de dos aulas:
 
-Compresas de gasa estéril de 20 × 20 cm en sobres monodosis: 5 por alumno.
+Aula de teoría: Un aula amplia, bien ventilada, con posibilidad de iluminación natural y artificial, con mesas y sillas móviles en número suficiente para el máximo de alumnos y profesores.
 
-Vendas de gasa orillada de 5 cm × 5 m: 2 por alumno.
+El aula debe disponer de dispositivos de visionado adecuado al tipo de material didáctico de apoyo que se utilice durante la impartición de las clases teóricas y prácticas.
 
-Vendas de gasa orillada de 7,5 cm × 5 m: 3 por alumno.
+Aula de prácticas: Un aula amplia, bien ventilada, con posibilidad de iluminación natural y artificial, deberá contar además con agua corriente caliente y fría, jabón y toallas desechables para el secado.
 
-Vendas de gasa orillada de 10 cm × 5 m: 2 por alumno.
+El Centro deberá contar con el siguiente equipamiento:
 
-Vendas de gasa orillada de 10 cm × 10 m: 2 por alumno.
+• Manual del alumno, cuyo contenido se ajuste a los objetivos establecidos en el anexo I.
 
-Venda elástica autoadhesiva de 4,5 cm de ancho: una por alumno.
+• Material audio visual de apoyo.
 
-Venda elástica autoadhesiva de 7,5 cm de ancho: una por alumno.
+Equipos para las clases prácticas:
 
-Alcohol de 70 grados: medio litro.
+• Dos esqueletos.
 
-Algodón hidrófilo, paquete de 500 gr: 8 paquetes.
+• Dos torso anatómico bisexo desmontables (28 partes) con espalda abierta.
 
-Gasas vaselinadas de 7 × 9 cm en sobres unidosis: una por alumno.
+• Dos maniquíes de reanimación cardio pulmonar con dispositivo electrónico de señales luminosas, con máscaras intercambiables y esterilizables.
 
-Venda de gasa tubular para dedos: una por curso.
+• Dos maniquíes de reanimación cardio pulmonar con monitor, con máscaras intercambiables y esterilizables.
 
-Un aplicador de venda de gasa tubular para dedos.
+• Un torso de desobstrucción de la vía aérea.
 
-Esparadrapo hipoalérgico de 5 cm × 5 m: uno por cada dos alumnos.
+• Dos maletines con equipo de reanimación que conste al menos de: botella de oxigenoterapia y mascarillas.
 
-Esparadrapo hipoalérgico de 10 cm × 10 m: uno por cada cuatro alumnos.
+• Un simulador de inyección muscular en nalga.
 
-Un cabestrillo o una venda triangular.
+• Dos maniquíes de prácticas de enfermería.
 
-Férula de aluminio látex maleable de 2 × 50 cm: una por cada dos alumnos.
+• Cuatro brazos de infusión.
 
-Férula de aluminio látex maleable de 8 × 50 cm: una por cada dos alumnos.
+• Un maniquí simulador de parto.
 
-Férula de Cramer de 10 × 100 cm: una por cada dos alumnos.
+• Una pierna de entrenamiento adulto para prácticas con pistola de punción intraósea.
 
-Cuatro juegos de férulas hinchables.
+• Un kit de entrenamiento semiautomático para pistola intraósea (B.I.G.) que incluya:
 
-Collar cervical para inmovilización tallas mediana y grande: 4 juegos.
+○ Una pistola recargable BIG adulto.
 
-Dos camillas para evacuación de heridos tipo Neil-Robertson.
+○ Un cargador.
 
-Un colchón inmovilizador de moldeo al vacío.
+• Un sistema emisor-receptor de fonía para prácticas de consulta radio-médica simulada.
 
-Material necesario para improvisar una camilla.
+• Dos tableros espinales largos con inmovilizador lateral de cabeza-cuello y sistema de sujeción.
 
-Cuatro mantas.
+• Un colchón inmovilizador de moldeo al vacío.
 
-Cuatro brazos de infusión.
+• Armarios reglamentarios de botiquín tipo A y un envase de cada uno de los fármacos y material sanitario integrantes del mismo.
 
-Dos maniquíes de prácticas de enfermería.
+• Armarios reglamentarios de botiquín tipo B y un envase de cada uno de los fármacos y material sanitario integrantes del mismo.
 
-Medicación inyectable liofilizada (soluto + disolvente) para vía intramuscular: una por alumno.
+• Una carcasa de botiquín C hasta 60 millas y un envase de cada uno de los fármacos y material sanitario integrantes del mismo.
 
-Medicación inyectable liofilizada (soluto + disolvente) para vía intravenosa: una por alumno.
+• Una carcasa de botiquín C hasta 10 millas/bote salvavidas y un envase de cada uno de los fármacos y material sanitario integrantes del mismo.
 
-Jeringuillas de 5 cc: una por alumno.
+• Una carcasa de botiquín de antídotos y un envase de cada uno de los fármacos y material sanitario integrantes del mismo.
 
-Jeringuillas de 1 cc: una por alumno.
+Pequeño utillaje sanitario:
 
-Jeringuillas de 2 cc: una por alumno.
+• Nueve linternas de exploración con pilas.
 
-Agujas de 0,8 × 40 mm: 2 por alumno.
+• Nueve termómetros médicos digitales de hipo e hipertermia.
 
-Agujas de 0,9 × 25 mm: una por alumno.
+• Nueve fonendoscopios.
 
-Agujas de 0,5 × 16 mm: una por alumno.
+• Nueve esfigmomanómetros digitales.
 
-Tubuladura desechable para perfusión: una por alumno.
+• Nueve pulsioxímetros.
 
-Agujas epicraneales de 21 × 0,8 mm: una por alumno.
+• Cuatro bateas de acero inoxidable.
 
-Suero fisiológico, 250 cc: uno por alumno.
+• Dieciocho kits de sutura compuestos por:
 
-Banda elástica de velcro o compresor de goma elástica: uno por cada dos alumnos.
+○ Una caja de instrumental de acero inoxidable 20 × 10 × 5.
 
-Envase estéril para recogida de orina: uno por alumno.
+○ Una pinza porta agujas tipo mayo.
 
-Tiras reactivas para análisis de orina de 9 parámetros: una por alumno.
+○ Una pinza de disección recta sin dientes.
 
-Tiras reactivas para análisis de glucemia: una por alumno.
+○ Una tijera recta aguda.
 
-Lancetas: dos por alumno.
+○ Una tijera recta roma.
 
-Test rápido para paludismo: una caja con 20 test.
+• Un juego de cánulas orofaríngeas de varios tamaños (cánulas de Guedel).
 
-Apósitos adhesivos plásticos: 2 por alumno.
+• Dos glucómetros.
 
-Maniquí para simulación de partos.
+Material fungible:
 
-Un botiquín A completo.
+• Treinta y seis vendas elásticas tipo crepe de 7,5 cm × 5 m.
 
-Un botiquín B completo.
+• Treinta y seis vendas elásticas tipo crepe de 5 cm × 5 m.
 
-Un botiquín C completo.
+• Treinta y seis vendas elásticas tipo crepe de 10 cm × 10 m.
 
-Un botiquín de antídotos completo.
+• Dieciocho vendas de gasa orillada de 10 cm × 10 m.
 
-Un libro registro de administración de fármacos a bordo según modelo del RD 258/1999.
+• Un rollo de venda de gasa tubular para dedos.
 
-Un sistema emisor-receptor de fonía para prácticas de consulta radio-médica simulada.
+• Cuatro aplicadores de venda de gasa tubular para dedos.
 
-Dos ejemplares de la Guía Sanitaria a bordo.
+• Dos cajas de gasas estériles de 20 cm × 20 cm (20 sobres de 5 gasas).
 
-Fichas médicas de evacuación según modelo RD 258/1999.
+• Dieciocho sobres unidósis de gasa vaselinada e 7 × 9 cm.
 
-Hoja de temperatura según modelo del RD 258/1999.
+• Dieciséis unidades de esparadrapo hipoalérgico de 5 cm × 5 m.
+
+• Dieciséis unidades de esparadrapo hipoalérgico de 10 cm × 10 m.
+
+• Treinta y seis apósitos adhesivos plásticos.
+
+• Nueve envases de 125 cc de povidona yodada 10% solución dérmica.
+
+• Dieciocho sobres de sutura cutánea adhesiva de 6 × 100 mm.
+
+• Cincuenta suturas de seda trenzada con aguja triangular curva 3/0.
+
+• Dieciocho grapadoras desechables para sutura.
+
+• Dieciocho tijeras quita grapas.
+
+• Dos bisturíes desechables con mango.
+
+• Treinta y seis lancetas.
+
+• Ocho férulas de aluminio látex maleable de 2 cm × 50 cm.
+
+• Ocho férulas de aluminio látex maleable de 8 cm × 50 cm.
+
+• Ocho férulas de Cramer de 10 cm × 100 cm.
+
+• Dieciocho jeringuillas de 10 cc.
+
+• Dieciocho jeringuillas de 5 cc.
+
+• Dieciocho jeringuillas precargadas de 1 cc.
+
+• Treinta y seis agujas de 0,8 × 40 mm.
+
+• Dieciocho agujas de 0,9 × 25 mm.
+
+• Dieciocho agujas epicraneales de 0,8 × 21 mm.
+
+• Dieciocho envases de medicación para prácticas de inyectable por vía intramuscular (soluto + disolvente).
+
+• Dieciocho envases de medicación para prácticas de inyectable por vía intravenosa (soluto + disolvente).
+
+• Dieciséis jeringas de 10 ml con aguja.
+
+• Dieciocho tubuladuras desechables para perfusión.
+
+• Doce envases de suero fisiológico 250 ml.
+
+• Dos cajas de guantes de vinilo desechables de la talla 8-9 de 100 unidades.
+
+• Treinta y seis pares de guantes quirúrgicos estériles de varias tallas.
+
+• Dieciocho cepillos para uñas.
+
+• Solución jabonosa para lavado de manos.
+
+• Un litro de alcohol 70º.
+
+• Ocho paquetes de 500 gr de algodón hidrófilo.
+
+• Dieciocho envases estériles para recogida de orina.
+
+• Dieciocho tiras reactivas para análisis de orina de ocho parámetros.
+
+• Dieciocho tiras reactivas para análisis de glucemia.
+
+• Una caja con 20 test rápido para detección de paludismo.
+
+• Treinta y seis depresores linguales.
+
+• Dos mantas oro-plata.
+
+Otro material:
+
+• Una lámina anatómica de los principales vasos sanguíneos.
+
+• Una lámina anatómica de la piel.
+
+• Nueve láminas de situación de síntomas para consulta radio-médica.
+
+• Once tiras de tejido (sábana) de al menos 10 cm × 1 m.
+
+• Once objetos sólidos para improvisar torniquete (cucharas de madera).
+
+• Material para improvisar camilla.
+
+• Material para improvisar una férula.
+
+• Material para la realización de prácticas de sutura (cuartos de pollo, manos frescas de cerdo, etc.).
+
+• Cuatro contenedores plástico para la recogida de material punzante y material biocontaminado.
+
+• Cuatro juegos de férulas hinchables.
+
+• Cuatro cabestrillos o vendas triangulares.
+
+• Cuatro collarines cervicales rígidos graduables.
+
+• Dos insufladores manuales tipo Ambú que permita conexión de oxígeno.
+
+• Nueve bandas elásticas de velcro o compresor de goma elástica.
+
+• Dos guías sanitarias versión reducida.
+
+• Dos guías sanitarias completas.
+
+• Un libro de registro de administración de fármacos.
+
+• Documentos de control de contenido de los botiquines.
+
+• Dos carpetas de documentación médica con su contenido:
+
+○ Quince etiquetas informativas adhesivas para evacuación enfermos.
+
+○ Quince fichas médicas de evacuación.
+
+○ Quince sobres de información médica confidencial.
+
+○ Veinticinco hojas de control de temperatura.
+
+• Etiquetas de revisión de botiquín.
+
+• Etiquetas de señalización de botiquín.
+
+• Etiquetas de señalización de la camilla.
+
+• Etiquetas identificativas de botiquín C.
+
+• Cuatro mantas.
+
+• Dos toallas suaves.
+
+• Dos hules de protección.
+
+• Dos jarras de agua.
+
+• Dos juegos de sabanas.
+
+• Dos cunas improvisadas.
+
+• Dos cuñas.
+
+• Material para la limpieza de los equipos de prácticas.
+
+> Se modifica por el apartado 1.2 de la Resolución de 2 de abril de 2018. Ref. BOE-A-2018-5427
+
+> Téngase en cuenta, sobre periodo transitorio, el apartado 2 de la citada Resolución.
