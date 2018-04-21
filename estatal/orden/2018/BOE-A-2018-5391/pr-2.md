@@ -1,0 +1,3 @@
+## Primero.
+
+De conformidad con lo dispuesto en el artículo 131.1.a) del Reglamento General de la Ley de Contratos de las Administraciones Públicas, aprobado por Real Decreto 1098/2001, de 12 de octubre, en los proyectos de obras promovidos por el Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente se aplicará el 13 % sobre el presupuesto de ejecución material, en concepto de gastos generales de la empresa, gastos financieros, cargas fiscales, Impuesto sobre el Valor Añadido excluido, tasas de la Administración legalmente establecidas que incidan sobre el coste de las obras y demás derivadas de las obligaciones del contrato.
