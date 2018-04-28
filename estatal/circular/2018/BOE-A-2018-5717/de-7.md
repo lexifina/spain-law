@@ -1,0 +1,3 @@
+## Decimoctavo. Confidencialidad.
+
+De conformidad con el artículo 28.2 de la Ley 3/2013, de 4 de junio, de creación de la CNMC, los datos e informaciones obtenidos por la Comisión Nacional de los Mercados y la Competencia en aplicación de la presente Circular que tengan carácter confidencial por tratarse de materias protegidas por el secreto comercial, industrial o estadístico, sólo podrán ser cedidos al Ministerio competente, a las Comunidades Autónomas, a la Comisión Europea y a las autoridades de otros Estados miembros de la Unión Europea en el ámbito de sus competencias, así como a los tribunales en los procesos judiciales correspondientes.
