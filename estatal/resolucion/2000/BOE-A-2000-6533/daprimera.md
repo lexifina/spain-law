@@ -28,8 +28,10 @@ d) Por jubilación como empleado.
 
 e) Por pase a la situación de cualquier tipo de excedencia o permiso sin sueldo, que le impida asistir a cualquier sesión del Consejo como empleado en activo.
 
-10. Caso de producirse vacante por cualquiera de las anteriores causas o por fallecimiento, se iniciará inmediatamente un nuevo proceso electoral. No hay sustitución automática en el puesto de representante del personal con derecho a asistencia al Consejo de Gobierno.
+10. En caso de producirse vacante por cualquiera de las anteriores causas o por fallecimiento, se iniciará inmediatamente un nuevo proceso electoral. Únicamente en el supuesto de que el cese se produzca por expiración del plazo de cuatro años para el que fue elegido, el proceso electoral se iniciará dos meses antes de la fecha prevista del cese por expiración del mandato. No hay sustitución automática en el puesto de representante del personal con derecho a asistencia al Consejo de Gobierno.
 
 11. El representante del personal, por carecer de la condición de Consejero, no podrá ejercitar las facultades inherentes a la misma. Tiene voz y no voto.
 
 12. Percibirá las dietas que le correspondan por su asistencia a los Consejos, sin perjuicio de su retribución como empleado del Banco de España. Serán a cargo del Banco de España los gastos que se vea obligado a realizar para el adecuado ejercicio de sus funciones.
+
+> Se modifica el apartado 10 por el art. único.14 de la Resolución de 24 de abril de 2018. Ref. BOE-A-2018-5716

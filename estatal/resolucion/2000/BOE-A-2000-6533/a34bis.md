@@ -1,11 +1,7 @@
-## Artículo 34 bis. Normas sobre el uso de recursos materiales.
+## Artículo 34 bis. Las entidades instrumentales del Banco de España.
 
-1. Los altos cargos del Banco de España gestionarán los medios materiales de la Institución siguiendo los principios de eficiencia y sostenibilidad, en particular en lo relativo a los gastos de representación y atenciones protocolarias, así como respecto de la utilización de vehículos oficiales.
+Las entidades instrumentales del Banco de España a las que se refiere la disposición adicional octava de la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España, estarán sujetas al control de eficacia y supervisión continua de este. Por norma interna del Banco de España se desarrollarán los procedimientos para el ejercicio efectivo de aquellos.
 
-2. La utilización de vehículos oficiales por quienes ejerzan un alto cargo del Banco de España estará vinculada con las obligaciones de desplazamiento derivadas del desempeño de sus funciones.
-
-3. Las cuantías presupuestadas para gastos de representación y atenciones protocolarias solo podrán utilizarse para sufragar actos de esta naturaleza en el desempeño de las funciones de los altos cargos del Banco de España, tanto en territorio nacional como en el extranjero, siempre que dichos gastos redunden en beneficio o utilidad del Banco de España, estén debidamente justificados y se acredite su necesidad para el desempeño de las funciones inherentes al ejercicio del alto cargo. No podrá abonarse con cargo a ellos ningún tipo de retribución, en metálico o en especie, para los altos cargos del Banco de España.
-
-4. La Comisión Ejecutiva podrá autorizar el uso de tarjetas de crédito como medio de pago de los gastos de viaje realizados por altos cargos del Banco de España en el desarrollo de sus funciones, estableciendo el procedimiento para su justificación y los límites correspondientes. Asimismo, podrá determinar los supuestos en que ocasionalmente podrán ser utilizadas como medio de pago de gastos de representación, de acuerdo con lo dispuesto en el apartado 3 anterior.
+> Se modifica por el art. único.8 de la Resolución de 24 de abril de 2018. Ref. BOE-A-2018-5716
 
 > Se añade por el art. único.1 de la Resolución de 29 de enero de 2016. Ref. BOE-A-2016-1270.
