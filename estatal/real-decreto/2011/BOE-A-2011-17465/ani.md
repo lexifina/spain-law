@@ -108,23 +108,29 @@ Una forma adecuada de tener en cuenta las emisiones de N2O procedentes de los su
 
 La metodología para el «cultivo» permite recurrir como alternativa a la utilización de valores reales, a medias calculadas para zonas geográficas más reducidas que las utilizadas en el cálculo de los valores por defecto. Dentro de la UE, las medidas deberían corresponder a las zonas NUTS 2 o a un nivel más detallado. Lógicamente, un nivel semejante también será adecuado fuera de la UE.
 
-7. Las emisiones anualizadas procedentes de las modificaciones en las reservas de carbono causadas por un uso diferente del suelo, el, se calcularán dividiendo las emisiones totales por igual a lo largo de 20 años. Para el cálculo de estas emisiones, se aplicará la siguiente fórmula:
+7. Las emisiones anualizadas procedentes de las modificaciones en las reservas de carbono causadas por un cambio del uso de la tierra, el, se calcularán dividiendo las emisiones totales por igual a lo largo de 20 años. Para el cálculo de esas emisiones, se aplicará la siguiente fórmula:
 
-el = (CSR – CSA) × 3,664 × 1/20 × 1/P – eB2
+el = (CSR – CSA) × 3,664 × 1/20 × 1/P – eB (*)
 
 Siendo:
 
-– el: Las emisiones anualizadas de gases de efecto invernadero procedentes de las modificaciones en las reservas de carbono causadas por el cambio de uso del suelo (expresadas como masa equivalente de CO2 por unidad de energía producida por biocarburantes).
+el = Las emisiones anualizadas de gases de efecto invernadero procedentes de las modificaciones en las reservas de carbono causadas por el cambio de uso de la tierra [expresadas como masa equivalente (gramos) de CO2 por unidad de energía producida por biocarburantes o biolíquidos (megajulios)]. “Las tierras de cultivo” (**) y las tierras usadas para “cultivos vivaces” (***) se considerarán un único uso de la tierra.
 
-– CSR: Las reservas de carbono por unidad de superficie asociadas al uso del suelo de referencia (expresadas como masa de carbono por unidad de superficie, incluidos tanto el suelo como la vegetación). El uso del suelo de referencia será el uso del suelo en enero de 2008, o bien 20 años antes de que se obtuvieran las materias primas si esta fecha es más reciente.
+(*) Al dividir el peso molecular del CO2 (44,010 g/mol) por el peso atómico del carbono (12,011 g/mol) se obtiene un cociente de 3,664.
 
-- CSA: Las reservas de carbono por unidad de superficie asociadas al uso del suelo real (expresadas como masa de carbono por unidad de superficie, incluidos tanto el suelo como la vegetación). En los casos en que las reservas de carbón se acumulen durante un periodo superior a un año, el valor de CSA será el de las reservas estimadas por unidad de superficie después de 20 años, o cuando el cultivo alcance madurez, si esta fecha es más reciente.
+(**) Tierras de cultivo definidas por el Grupo Intergubernamental de Expertos sobre el Cambio Climático.
 
-- P: Productividad de los cultivos (medida como la energía producida por los biocarburantes y biolíquidos por unidad de superficie al año).
+(***) Los cultivos vivaces se definen como cultivos multianuales cuyo tallo no se recoge anualmente, como el monte bajo de rotación corta y la palmera de aceite.
 
-- eB: Prima de 29 g CO2eq/MJ para el biocombustible o biolíquido cuya biomasa se obtiene de tierras degradadas restauradas según las condiciones establecidas en el punto 8.
+CSR = Las reservas de carbono por unidad de superficie asociadas al uso de la tierra de referencia [expresadas como masa de carbono (toneladas) por unidad de superficie, incluidos tanto el suelo como la vegetación]. El uso de la tierra de referencia será el uso de la tierra en enero de 2008, o bien 20 años antes de que se obtuvieran las materias primas, si esta fecha es posterior.
 
-El cambio del uso del suelo debe entenderse como referido a los cambios relativos a la cobertura del suelo entre las seis categorías que distingue el IPCC (tierras forestales, pastizales, tierras de cultivo, humedales, asentamientos y otras tierras), más una séptima categoría de cultivos vivaces, es decir, cultivos multianuales cuyo tallo no se recoge anualmente, como el monte bajo de rotación corta y la palmera de aceite, porque dichas tierras presentan características propias tanto de las tierras de cultivo como de las tierras forestales. Esto significa, por ejemplo, que un cambio de pastizal a tierra de cultivo es un cambio en el uso del suelo, mientras que un cambio de un cultivo (como el maíz) a otro (como la colza) no lo es. Las tierras de cultivo incluyen las tierras en barbecho (es decir, tierras retiradas de la producción durante uno o varios años antes de ser cultivadas de nuevo). Un cambio de las actividades de gestión, la práctica de la labranza o la práctica del abonado no se consideran un cambio en el uso del suelo.
+CSA = Las reservas de carbono por unidad de superficie asociadas al uso real de la tierra [expresadas como masa de carbono (toneladas) por unidad de superficie, incluidos tanto el suelo como la vegetación]. En los casos en que las reservas de carbono se acumulen durante un período superior a un año, el valor de CSA será el de las reservas estimadas por unidad de superficie después de 20 años, o cuando el cultivo alcance su madurez, si esta fecha es anterior.
+
+P = La productividad de los cultivos (medida como la energía producida por los biocarburantes y biolíquidos por unidad de superficie al año).
+
+eB = Prima de 29 g CO2 eq/MJ para el biocarburante o biolíquido cuya biomasa se obtiene de tierras degradadas restauradas según las condiciones establecidas en el punto 8.
+
+El cambio del uso de la tierra debe entenderse como referido a los cambios relativos a la cobertura del suelo entre las seis categorías que distingue el IPCC (tierras forestales, pastizales, tierras de cultivo, humedales, asentamientos y otras tierras), más una séptima categoría de cultivos vivaces. Esto significa, por ejemplo, que un cambio de pastizal a tierra de cultivo es un cambio en el uso del suelo, mientras que un cambio de un cultivo (como el maíz) a otro (como la colza) no lo es. Las tierras de cultivo incluyen las tierras en barbecho (es decir, tierras retiradas de la producción durante uno o varios años antes de ser cultivadas de nuevo). Un cambio de las actividades de gestión, la práctica de la labranza o la práctica del abonado no se consideran un cambio en el uso del suelo.
 
 8. La prima de 29 g CO2 eq /MJ se asignará siempre que se demuestre que la tierra en cuestión:
 
@@ -381,5 +387,7 @@ Total para cultivo, transformación, transporte y distribución
 | Metanol de residuos de madera | 5 | 5 |
 | Metanol de madera cultivada | 7 | 7 |
 | Parte del MTBE (metil-terc-butil-éter) procedente de fuentes renovables | Iguales a los del proceso de producción de metanol utilizado. |
+
+> Se modifica el punto 7 de la parte C por la disposición final 1.12 del Real Decreto 235/2018, de 27 de abril. Ref. BOE-A-2018-5890
 
 > Redactada la letra C conforme a la corrección de errores publicada en BOE núm. 297, de 10 de diciembre de 2011. Ref. BOE-A-2011-19361
