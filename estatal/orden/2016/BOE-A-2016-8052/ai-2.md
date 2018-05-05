@@ -32,12 +32,16 @@ Se adoptarán las siguientes medidas de esfuerzo pesquero:
 
 5. Vedas temporales.
 
-Se prohíbe temporalmente la pesca para la modalidad de arrastre entre el 15 de septiembre y el 30 de octubre de cada año.
+Se prohíbe temporalmente la pesca para la modalidad de arrastre entre el 16 de septiembre y el 31 de octubre de cada año.
 
 Podrán establecerse periodos adicionales de paralización temporal de la actividad pesquera, en función de la evolución de la pesquería en cada campaña de pesca.
 
-Estas paradas podrán en su caso, ser objeto de financiación con cargo al Fondo Europeo Marítimo y de Pesca.
+Estas paradas podrán en su caso, ser objeto de financiación con cargo al Fondo Europea Marítimo y de Pesca.
 
 Se prohíbe temporalmente la pesca de pulpo con artes de arrastre de fondo, desde el día 1 de mayo al 15 de junio, ambos inclusive, de cada año.
+
+> Se modifica el apartado 5 por el art. único.12 de la Orden APM/453/2018, de 25 de abril. Ref. BOE-A-2018-6036
+
+> Se corrigen errores en el apartado 5 por el apartado 1 de la Orden APM/515/2018, de 14 de mayo. Ref. BOE-A-2018-6885
 
 > Se añade un párrafo al apartado 5 por el art. único.3 de la Orden APM/664/2017, de 12 de julio. Ref. BOE-A-2017-8214
