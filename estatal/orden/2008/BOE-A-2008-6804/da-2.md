@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Coordinación de la vigencia de determinados contratos.
+
+La Administración General del Estado y demás entidades comprendidas en el ámbito subjetivo obligatorio de la Central de Contratación del Estado deberán recabar el informe favorable de la Dirección General de Racionalización y Centralización de la Contratación para tramitar contratos cuya duración sea superior a un año, prorrogable por un año adicional, cuando su objeto consista en aquellos suministros, obras y servicios que, por Resolución de la citada Dirección General, se identifiquen como susceptibles de ser próximamente declarados de contratación centralizada por el Ministro de Hacienda y Función Pública, de conformidad con lo dispuesto en el artículo 229.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
+
+> Se añade por el art. único.2 de la Orden HFP/457/2018, de 30 de abril. Ref. BOE-A-2018-6081
