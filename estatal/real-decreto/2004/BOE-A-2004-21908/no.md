@@ -1,0 +1,1 @@
+Téngase en cuenta que todas las referencias a la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario contenidas en el presente Real Decreto, deberán entenderse hechas a los preceptos que corresponda de la Ley 38/2015, de 29 de septiembre, del sector ferroviario, según establece la disposición adicional única del Real Decreto 271/2018, de 11 de mayo. Ref. BOE-A-2018-6372
