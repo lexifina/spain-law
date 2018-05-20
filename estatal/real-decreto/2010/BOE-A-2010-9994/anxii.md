@@ -74,9 +74,17 @@ El registro al que se refiere el artículo 4 de este real decreto establece las 
 
 – Cumplir con las exigencias relativas a la Conformidad de la Producción (COP).
 
-1.5 Una vez matriculados los vehículos y en el caso de los vehículos de la categoría O1, puestos en circulación, los duplicados de las tarjetas ITV sólo podrán expedirse previa inspección, en su caso, por la Administración competente, utilizando el modelo A, AT, AR y AL, según corresponda.
+1.5 Una vez matriculados los vehículos y en el caso de los vehículos de la categoría O1, puestos en circulación, los duplicados de las tarjetas ITV sólo podrán expedirse, en su caso por la Administración competente, utilizando el modelo A, AT, AR y AL, según corresponda, siempre que exista constancia de que el vehículo está al corriente de la inspección técnica periódica.
 
-En particular, cuando se trate de tarjetas ITV emitidas en soporte electrónico los duplicados de la copia en papel se expedirán por la Dirección General de Tráfico siempre que exista constancia de que el vehículo está al corriente de la inspección técnica periódica.
+Cuando se trate de tarjetas ITV emitidas en soporte electrónico, las sucesivas copias en papel se expedirán por la Dirección General de Tráfico. Dichas copias incluirán en todo caso, cualquier actualización o modificación que sobre sus datos hubieran anotado en el Registro de vehículos las entidades, organismos u autoridades competentes en la materia, conservando en todo caso el modelo de tarjeta expedida por el fabricante del vehículo.
+
+> Téngase en cuenta que esta última actualización del apartado 1.5, establecida por la disposición final 2.2 del Real Decreto 920/2017, de 23 de octubre. Ref. BOE-A-2017-12841#df-2, entra en vigor el 20 de mayo de 2018, según determina su disposición final 8.
+
+> Redacción anterior:
+
+> "1.5 Una vez matriculados los vehículos y en el caso de los vehículos de la categoría O1, puestos en circulación, los duplicados de las tarjetas ITV sólo podrán expedirse previa inspección, en su caso, por la Administración competente, utilizando el modelo A, AT, AR y AL, según corresponda.
+
+> En particular, cuando se trate de tarjetas ITV emitidas en soporte electrónico los duplicados de la copia en papel se expedirán por la Dirección General de Tráfico siempre que exista constancia de que el vehículo está al corriente de la inspección técnica periódica."
 
 1.6 Vehículos de motor y sus remolques, y máquinas autopropulsadas o remolcadas y vehículos agrícolas. Como norma general y dado que todos estos vehículos deben corresponder a tipos homologados, la expedición de las tarjetas ITV en formato papel, será realizada por el fabricante, según modelo correspondiente a cada categoría que figura en los apéndices del anexo 11. Los impresos de tarjetas de ITV serán adquiridas por el fabricante en el Servicio de Publicaciones del Ministerio de Industria, Turismo y Comercio, en número adecuado a cada caso y siempre que se cumpla lo previsto en la reglamentación vigente.
 
@@ -197,3 +205,5 @@ Obtención de la suma de los productos obtenidos al multiplicar el valor numéri
 y la suma de los productos el valor 44660.
 
 Finalmente el control del VIN se obtiene tomando el resto de dividir el valor anterior por 97. En el ejemplo 40.»
+
+> Se modifica el apartado 1.5, con efectos de 20 de mayo de 2018, por la disposición final 2.2 del Real Decreto 920/2017, de 23 de octubre. Ref. BOE-A-2017-12841#df-2

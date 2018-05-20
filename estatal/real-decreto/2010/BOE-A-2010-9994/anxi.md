@@ -2,7 +2,13 @@
 
 ## Modelo y especificaciones de las tarjetas de inspección técnica de vehículos (ITV)
 
-1. Las Tarjetas ITV a que se refiere el artículo 12 de este real decreto serán de los siguientes tipos y podrán emitirse, a elección del emisor de la misma, en soporte en papel o en soporte electrónico.
+1. Las Tarjetas ITV a que se refiere el artículo 12 de este real decreto serán de los siguientes tipos y podrán emitirse, a elección del emisor de la misma, en soporte en papel o en soporte electrónico, salvo en el caso de las tarjetas de inspección técnica tipo B para vehículos de categoría M o N, y tipo BL, que deberán emitirse de forma obligatoria en soporte electrónico.
+
+> Téngase en cuenta que esta última actualización del párrafo primero del apartado 1, establecida por la disposición final 2.1 del Real Decreto 920/2017, de 23 de octubre. Ref. BOE-A-2017-12841#df-2, entra en vigor el 20 de mayo de 2018, según determina su disposición final 8.
+
+> Redacción anterior:
+
+> "1. Las Tarjetas ITV a que se refiere el artículo 12 de este real decreto serán de los siguientes tipos y podrán emitirse, a elección del emisor de la misma, en soporte en papel o en soporte electrónico."
 
 – Tipo A, AT, AR y AL: Que documentan vehículos completos o completados.
 
@@ -95,3 +101,5 @@ Todas las tarjetas estarán impresas y fondeadas en tinta azul, con sus correspo
 ![imagen](https://www.boe.es/datos/imagenes/disp/2010/153/09994_017.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2010/153/09994_018.png)
+
+> Se modifica el párrafo primero del apartado 1, con efectos de 20 de mayo de 2018, por la disposición final 2.1 del Real Decreto 920/2017, de 23 de octubre. Ref. BOE-A-2017-12841#df-2

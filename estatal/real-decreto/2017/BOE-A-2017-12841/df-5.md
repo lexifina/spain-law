@@ -1,0 +1,3 @@
+## Disposición final quinta. Título competencial.
+
+El presente Real Decreto se dicta al amparo de lo dispuesto en la regla 21.ª del artículo 149.1 de la Constitución, que atribuye al Estado la competencia exclusiva en materia de tráfico y circulación de vehículos a motor, a excepción de los artículos 14 a 17 y 19, y 21 a 25 en lo referido al desarrollo de la Ley 21/1992, de 16 de julio, de Industria, que se dictan al amparo de lo dispuesto en la regla 13.ª del artículo 149.1 de la Constitución, que atribuye al Estado la competencia en materia de bases y coordinación de la planificación general de la actividad económica.

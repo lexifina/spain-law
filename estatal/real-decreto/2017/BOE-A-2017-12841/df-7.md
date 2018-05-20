@@ -1,0 +1,3 @@
+## Disposición final séptima. Incorporación de derecho de la Unión Europea.
+
+Mediante este real decreto se incorpora al ordenamiento jurídico español la Directiva 2014/45/UE, del Parlamento Europeo y del Consejo, de 3 de abril de 2014, estableciendo los requisitos mínimos para un régimen de inspecciones técnicas periódicas de vehículos utilizados para circular por la vía pública, y lo dispuesto en los apartados 1,4 y 5 del artículo 1 de la Directiva 2014/46/UE, del Parlamento Europeo y del Consejo de 3 de abril de 2014 por la que se modifica la Directiva 1999/37/CE, del Consejo, relativa a los documentos de matriculación de los vehículos.
