@@ -10,11 +10,13 @@ a) El Sistema de Referencia Geodésico, del que forman parte las redes nacionale
 
 b) El Sistema Oficial de Coordenadas, del que forman parte tanto las coordenadas geográficas que permiten referenciar de forma unívoca la información geográfica en el espacio como una serie de coordenadas (latitud, longitud y altura), como las coordenadas planas del Sistema de Proyección UTM, en escalas superiores a 1:500.000, o que permite referenciar de forma unívoca la información geográfica en el espacio como una serie de coordenadas (x, y, z), en ambos casos basándose en el Sistema de Referencia Geodésico.
 
-c) La toponimia oficial recogida en el Nomenclátor Geográfico Básico de España.
+c) Sistema de cuadrículas: El Sistema de cuadrículas geográficas y cartográficas está constituido por las cuadrículas armonizadas multirresolución con un punto de origen común y con ubicación y tamaños de cuadrícula normalizados.
 
-d) Las Delimitaciones Territoriales inscritas en el Registro Central de Cartografía.
+d) La toponimia oficial recogida en el Nomenclátor Geográfico Básico de España.
 
-e) El Inventario Nacional de Referencias Geográficas Municipales, que reflejará la situación geográfica de cada Entidad Local contenida en el Registro de Entidades Locales.
+e) Las Delimitaciones Territoriales inscritas en el Registro Central de Cartografía.
+
+f) El Inventario Nacional de Referencias Geográficas Municipales, que reflejará la situación geográfica de cada Entidad Local contenida en el Registro de Entidades Locales.
 
 2. Otros Nomenclátores y topónimos georreferenciados oficiales no incluidos en el Nomenclátor Geográfico Básico de España.
 
@@ -37,3 +39,5 @@ e) El Inventario Nacional de Referencias Geográficas Municipales, que reflejar�
 11. La localización geográfica de los bienes inmuebles basada en identificadores de direcciones, como por ejemplo el nombre de la vía pública, el número de la finca y el código postal.
 
 12. Las entidades de población.
+
+> Se modifica el apartado 1 por el art. único.5 de la Ley 2/2018, de 23 de mayo. Ref. BOE-A-2018-6891
