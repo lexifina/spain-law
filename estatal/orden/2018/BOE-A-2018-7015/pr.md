@@ -1,0 +1,27 @@
+El Reglamento (CE) n.º 1967/2006 del Consejo, de 21 de diciembre de 2006, relativo a las medidas de gestión para la explotación sostenible de los recursos pesqueros en el mar Mediterráneo y por el que se modifica el Reglamento (CE) n.º 2847/93 y se deroga el Reglamento (CE) n.º 1626/94, fija como objetivo principal establecer un marco de gestión eficaz para la protección estricta de determinadas especies marinas, así como la conservación de los hábitats naturales y la fauna y flora silvestres.
+
+Asimismo el referido Reglamento establece, en su artículo 19, que los Estados miembros elaborarán planes de gestión plurianuales en sus aguas territoriales para determinadas modalidades pesqueras.
+
+La Orden AAA/2008/2012, de 21 de diciembre, por la que se establece un Plan de Gestión Integral para la conservación de los recursos pesqueros en el Mediterráneo afectados por las pesquerías realizadas con redes de cerco, redes de arrastre y artes fijos y menores, para el período 2013-2017, aprobado en cumplimiento de esta obligación, contempla, entre otras medidas, en el apartado 2.c) de su artículo 15, la posibilidad de revisar la legislación nacional vigente a fin de adoptar nuevas medidas técnicas, en caso de que el ritmo de progreso no fuera suficiente y pudiera estimarse que al final del plazo previsto no fueran a alcanzarse los objetivos fijados. Dicho Plan de Gestión se ha prorrogado mediante la Orden APM/1322/2017, de 29 de diciembre, por la que se prorroga la vigencia de la Orden AAA/2808/2012, de 21 de diciembre.
+
+Para reforzar su eficacia, el plan general deberá ir acompañado de normas complementarias que, por afectar a pesquerías de carácter muy específico, estacional o de ámbito local, no hayan podido tener cabida en el mismo.
+
+La gamba rosada es una especie demersal que en el litoral de Palamós se captura exclusivamente con arte de arrastre de fondo, en profundidades comprendidas entre los 300 y los 1.000 metros, por una flota muy concreta y en áreas muy localizadas, por lo que, para esta modalidad, supone una pesquería bastante específica y selectiva; lo que unido al valor económico de las descargas, a la actual coyuntura y a la positiva disposición de los propios pescadores, la hace idónea para establecer sobre la misma unas medidas temporales de regulación especial que tiendan a garantizar su conservación y su desarrollo sostenible en el futuro, actuaciones entre las que se incluye la implantación de unas vedas temporales que, contribuyendo a los fines perseguidos, se realicen en fechas alternas, de forma que pueda garantizarse el necesario abastecimiento de los mercados.
+
+Con esta intención se publicó, con una vigencia de cinco años, la Orden AAA/923/2013, de 16 de mayo, por la que se regula la pesca de gamba rosada (Aristeus antennatus) con arte de arrastre de fondo en determinadas zonas marítimas próximas a Palamós.
+
+Produciéndose la finalización del período de vigencia de esta última norma el 27 de mayo de 2018 y a la vista de los positivos resultados obtenidos con su aplicación en cuanto al ajuste estructural de la flota, el aumento de la selectividad de los artes utilizados, la eficacia en el control del esfuerzo y la coordinación entre las partes afectadas por la actividad, se considera muy conveniente dar continuidad e incluso incrementar las medidas de gestión aplicadas hasta el momento, conforme se contiene en esta orden.
+
+Durante el periodo de vigencia de la orden que ahora se viene a substituir se ha procedido al análisis de sus efectos, que se ha plasmado en el estudio sobre sostenibilidad de la pesquería de gamba roja de Palamós, realizado por el Instituto de Ciencias del Mar del Consejo Superior de Investigaciones Científicas (ICM-CSIC) de 28 de septiembre de 2017.
+
+La Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado, incluye entre sus fines los de velar por la explotación equilibrada y responsable de los recursos pesqueros favoreciendo su desarrollo sostenible y adoptar las medidas precisas para proteger, conservar y regenerar dichos recursos y sus ecosistemas, adaptando el esfuerzo pesquero de la flota a la situación de los mismos.
+
+El Real Decreto 1440/1999, de 10 de septiembre, por el que se regula el ejercicio de la pesca con artes de arrastre de fondo en el caladero nacional del Mediterráneo, establece, en su disposición final segunda, que se faculta al titular del Departamento, para dictar, en el ámbito de sus competencias, las disposiciones necesarias para el cumplimiento y aplicación de lo dispuesto en el mismo y, en particular, para regular planes de pesca, con normativa específica y establecer vedas y fondos justificados por el estado de los recursos, todo ello de conformidad con el informe previo del Instituto Español de Oceanografía.
+
+El Instituto Español de Oceanografía ha emitido su preceptivo informe y se ha efectuado consulta previa a la Comunidad Autónoma de Cataluña y al sector pesquero afectado.
+
+Asimismo, en cumplimiento de lo previsto en la Ley 50/1997, de 27 de noviembre, del Gobierno, este proyecto ha sido sometido al procedimiento de información pública y se adecua a los principios de buena regulación a que se refiere el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+La presente orden se dicta en virtud del artículo 12 de la Ley 3/2001, de 26 de marzo, y de la disposición final segunda del Real Decreto 1440/1999, de 10 de septiembre.
+
+En su virtud, de acuerdo con el Consejo de Estado, dispongo:
