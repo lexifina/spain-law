@@ -9,3 +9,5 @@ Tanto en el supuesto contemplado en el párrafo anterior, como para aquéllas pl
 El Gobierno podrá restablecer reglamentariamente la tramitación de estas instalaciones.
 
 3. Esta disposición no será de aplicación a la ampliación de plantas de regasificación que ya estén en funcionamiento.
+
+> Téngase en cuenta que, a partir del 27 de mayo de 2018, queda restablecida la tramitación de las instalaciones afectadas por el apartado 2 de esta disposición, en los términos definidos en la disposición adicional 1 del Real Decreto 335/2018, de 25 de mayo. Ref. BOE-A-2018-6998, alzándose, en lo que a ellas concierne, la suspensión decretada en el apartado 1 de la presente disposición.
