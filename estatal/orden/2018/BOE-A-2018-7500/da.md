@@ -1,0 +1,7 @@
+## Disposición adicional primera. Seguimiento y evaluación.
+
+1. A efectos de verificar la eficacia de la aplicación del Plan, durante su vigencia se procederá a un análisis anual de sus resultados a partir de las oportunas campañas de evaluación y seguimiento por parte de los institutos científicos pertinentes en colaboración con la Secretaría General de Pesca.
+
+2. La Secretaría General de Pesca del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente, celebrará reuniones periódicas con representantes del Instituto Español de Oceanografía, de las Comunidades Autónomas y el sector pesquero afectado, para valorar los informes de evaluación y acordar la adopción de medidas adicionales para garantizar la utilidad del Plan de gestión y recuperación para la sardina ibérica (Sardina pilchardus) del stock de las aguas 8c y 9a y la consecución de los objetivos fijados.
+
+3. Se establece un sistema de observación científica a bordo de los buques de cerco para poder realizar un correcto seguimiento de la pesquería. Para ello, la Secretaría General de Pesca podrá designar, de común acuerdo con el sector, los buques que deberán embarcar un observador a bordo de las mareas dirigidas a sardina ibérica. En el supuesto de que no existan buques voluntarios para el embarque de observadores dicha Secretaría General podrá designar de oficio los buques en los que deberán embarcar los mismos.
