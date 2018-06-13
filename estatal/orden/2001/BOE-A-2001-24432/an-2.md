@@ -4,19 +4,27 @@
 
 | Ministerio | Códigos |
 | --- | --- |
-| Ministerio de Asuntos Exteriores y de Cooperación | AEC |
+| Ministerio de Asuntos Exteriores, Unión Europea y Cooperación | AUC |
 | Ministerio de Justicia | JUS |
 | Ministerio de Defensa | DEF |
-| Ministerio de Hacienda y Función Pública | HFP |
+| Ministerio de Hacienda | HAC |
 | Ministerio del Interior | INT |
 | Ministerio de Fomento | FOM |
-| Ministerio de Educación, Cultura y Deporte | ECD |
-| Ministerio de Empleo y Seguridad Social | ESS |
-| Ministerio de Energía, Turismo y Agenda Digital | ETU |
-| Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente | APM |
-| Ministerio de la Presidencia y para las Administraciones Territoriales | PRA |
-| Ministerio de Economía, Industria y Competitividad | EIC |
-| Ministerio de Sanidad, Servicios Sociales e Igualdad | SSI |
+| Ministerio de Educación y Formación Profesional | EFP |
+| Ministerio de Trabajo, Migraciones y Seguridad Social | TMS |
+| Ministerio de Industria, Comercio y Turismo | ICT |
+| Ministerio de Agricultura, Pesca y Alimentación | APA |
+| Ministerio de la Presidencia, Relaciones con las Cortes e Igualdad | PCI |
+| Ministerio de Política Territorial y Función Pública | TFP |
+| Ministerio para la Transición Ecológica | TEC |
+| Ministerio de Cultura y Deporte | CUD |
+| Ministerio de Economía y Empresa | ECE |
+| Ministerio de Sanidad, Consumo y Bienestar Social | SCB |
+| Ministerio de Ciencia, Innovación y Universidades | CNU |
+
+> Se modifica por Resolución de 11 de junio de 2018. BOE-A-2018-7916
+
+> Téngase en cuenta que los nuevos códigos ministeriales se aplican desde el 7 de junio de 2018, fecha de la entrada en vigor del Real Decreto 355/2018, de 6 de junio según establece el apartado segundo de la citada Resolución.
 
 > Se modifica por Resolución de 4 de noviembre de 2016. Ref. BOE-A-2016-10206.
 
