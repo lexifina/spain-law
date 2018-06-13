@@ -1,0 +1,3 @@
+## Disposición adicional primera. Personal pendiente de asignación de destino o en reserva sin destino.
+
+El personal de la Guardia Civil en servicio activo pendiente de asignación de destino que no ocupe temporalmente un puesto de trabajo o en reserva sin destino, podrá establecer libremente en cualquier municipio del territorio nacional su lugar de residencia habitual, con la única obligación de proporcionar los datos precisos para su localización en la unidad en la que quede encuadrado administrativamente, que a su vez lo participará al Mando de Personal y Formación de la Dirección General de la Guardia Civil.
