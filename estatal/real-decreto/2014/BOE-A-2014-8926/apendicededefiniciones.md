@@ -8,10 +8,6 @@ Nota 1 Las definiciones se aplican al conjunto de los anexos I, II, III, IV y V.
 
 Nota 2 Las palabras y los términos contenidos en la Lista de Definiciones sólo adoptan el significado definido cuando figuran indicados entre comillas dobles (“…”). Las definiciones de términos que figuran entre ‘comillas simples’ figuran en una nota técnica correspondiente a la entrada. En los demás casos, las palabras y los términos tienen los significados comúnmente aceptados (en los diccionarios).
 
-7 “Adaptados para utilización en guerra”
-
-Significa toda modificación o selección (como alteración de la pureza, caducidad, virulencia, características de diseminación o resistencia a la radiación UV) diseñadas para aumentar la eficacia para producir bajas en personas o animales, deteriorar material o dañar las cosechas o el medio ambiente.
-
 8 “Aditivos”
 
 Sustancias utilizadas en la formulación de un explosivo para mejorar sus propiedades.
@@ -41,6 +37,10 @@ Un conjunto de informaciones técnicas, cuya consulta permite aumentar el rendim
 ‘Enzimas’ que catalizan reacciones bioquímicas o químicas específicas u otros compuestos biológicos que se unen a los agentes para la guerra química y aceleran su degradación.
 
 Nota Técnica: Las ‘enzimas’ son “biocatalizadores” para reacciones bioquímicas o químicas específicas.
+
+7. “Agentes biológicos”
+
+Patógenos o toxinas, seleccionados o modificados (por ejemplo mediante alteración de la pureza, caducidad, virulencia, características de diseminación o resistencia a la radiación UV) a fin de producir bajas en personas o animales, degradar equipos o dañar las cosechas o el medio ambiente.
 
 7 “Biopolímeros”
 
@@ -88,13 +88,9 @@ Los “efectores terminales” comprenden las garras, las ‘herramientas activa
 
 Nota Técnica: Una ‘herramienta activa’ es un dispositivo destinado a aplicar a la pieza de trabajo la fuerza motriz, la energía necesaria para el proceso o los sensores.
 
-4, 11, 21 “Equipo lógico” (<software>)
+21. “Equipo lógico” (‛software’)
 
-Es una colección de uno o más ‘programas’ o ‘microprogramas’ fijada a cualquier soporte tangible de expresión.
-
-Nota Técnica: ‘Microprograma’ es una secuencia de instrucciones elementales, contenidas en una memoria especial, cuya ejecución se inicia mediante la introducción de su instrucción de referencia en un registro de instrucción.
-
-‘Programa’ es una secuencia de instrucciones para llevar a cabo un proceso, en, o convertible a, una forma ejecutable por un ordenador electrónico.
+Es una colección de uno o más “programas” o “microprogramas” fijada a cualquier soporte tangible de expresión.
 
 8 “Explosivos”
 
@@ -229,5 +225,7 @@ Satélites activos y pasivos y las sondas espaciales.
 10 “Vehículos más ligeros que el aire”
 
 Globos y “dirigibles” que se elevan mediante aire caliente u otros gases más ligeros que el aire, tales como el hidrógeno o el helio.
+
+> Se modifica por el art. único.7 a 9 de la Orden ICT/657/2018, de 13 de junio. Ref. BOE-A-2018-8383
 
 > Se modifica por el art. único de la Orden ECC/1493/2016, de 19 de septiembre. Ref. BOE-A-2016-8633.

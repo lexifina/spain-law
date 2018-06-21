@@ -306,9 +306,9 @@ NOTA ACLARATORIA:
 
 Los materiales no incluidos en el presente artículo pueden, sin embargo, estar sometidos a control en el Anexo II del presente Reglamento.
 
-## 7. AGENTES QUÍMICOS O BIOLÓGICOS TÓXICOS, “AGENTES ANTIDISTURBIOS”, MATERIALES RADIACTIVOS, EQUIPO RELACIONADO, COMPONENTES Y MATERIALES, SEGÚN SE INDICA:
+## 7. AGENTES QUÍMICOS, “AGENTES BIOLÓGICOS”, “AGENTES ANTIDISTURBIOS”, MATERIALES RADIACTIVOS, EQUIPO RELACIONADO, COMPONENTES Y MATERIALES, SEGÚN SE INDICA:
 
-a. Agentes biológicos y materiales radiactivos “adaptados para utilización en guerra” para producir bajas en la población o en los animales, degradación de equipos o daño en las cosechas o en el medio ambiente;
+a. “Agentes biológicos” o materiales radiactivos seleccionados o modificados a fin de aumentar su eficacia para producir bajas en la población o en los animales, degradar equipos o dañar las cosechas o el medio ambiente;
 
 b. Agentes para la guerra química (), incluyendo:
 
@@ -646,6 +646,8 @@ b. LAX-112 (3,6-diamino-1,2,4,5-tetrazina-1,4-dióxido);
 
 40. BTNEN (Bis(2,2,2-trinitroetil)-nitramina) (CAS 19836-28-3);
 
+41. FTDO (5,6-(3’,4’-furazano)- 1,2,3,4-tetrazina-1,3-dióxido).
+
 Nota: 8.a. incluye los ‘cocristales explosivos’.
 
 Nota técnica:
@@ -682,7 +684,17 @@ Nota: Los combustibles de “aeronaves” especificados en el subartículo 8.c.1
 
 2. Alano (hidruro de aluminio) (CAS 7784-21-6);
 
-3. Carboranos; decaborano (CAS 17702-41-9); pentaboranos (CAS 19624-22-7 y 18433-84-6) y derivados de ellos;
+3. Boranos, según se indica, y sus derivados:
+
+a. Carboranos;
+
+b. Homólogos del borano, según se indica:
+
+1. Decaborano (14) (CAS 17702-41-9);
+
+2. Pentaborano (9) (CAS 19624-22-7);
+
+3. Pentaborano (11) (CAS 18433-84-6);
 
 4. Hidrazina y sus derivados, según se indica (véase también los subartículos 8.d.8 y d.9 para derivados oxidantes de la hidrazina):
 
@@ -942,6 +954,8 @@ c. 1,1′-trimetiladipoil-bis (2-etilaziridina) (HX-877) (CAS 71463-62-2);
 
 22. TPB (Trifenil bismuto) (CAS 603-33-8);
 
+23. TEPB (Tris (etoxifenil) bismuto) (CAS 90591-48-3);
+
 g. “Precursores”, según se indica:
 
 N.B: En el subartículo 8.g las referencias son a “materiales energéticos”especificados manufacturados con estas substancias.
@@ -963,6 +977,40 @@ N.B: En el subartículo 8.g las referencias son a “materiales energéticos”e
 8. 1, 2, 4-trihidroxibutano (1, 2, 4-butanotriol) (CAS 3068-00-6) (véase también el subartículo 8.e.5);
 
 9. DADN (1,5-diacetil-3,7-dinitro-1, 3, 5, 7-tetraza-ciclooctano) (véase también el subartículo 8.a.13).
+
+h. Polvos y piezas de “materiales reactivos”, según se indica:
+
+1. Polvos de cualquiera de los siguientes materiales, con un tamaño de partículas inferior a 250 micras en cualquier dirección, no especificados en ninguna otra parte del artículo ML8:
+
+a. Aluminio;
+
+b. Niobio;
+
+c. Boro;
+
+d. Zirconio;
+
+e. Magnesio;
+
+f. Titanio;
+
+g. Tántalo;
+
+h. Wolframio;
+
+i. Molibdeno; o
+
+j. Hafnio;
+
+2. Piezas, no especificadas en los artículos 3, 4, 12 o 16, fabricadas a partir de polvos especificados en el artículo 8.h.1.
+
+Notas técnicas:
+
+1. Los “materiales reactivos” están concebidos para producir una reacción exotérmica únicamente a altas velocidades de cizallamiento y para ser utilizados como conos o carcasas para ojivas.
+
+2. Se producen polvos de “materiales reactivos”, por ejemplo, mediante procesos de molienda en molinos de bolas de alta energía.
+
+3. Se producen piezas de “materiales reactivos”, por ejemplo, mediante el sinterizado selectivo por láser.
 
 Nota 1: El artículo 8 no se aplica a las sustancias siguientes, salvo que estén compuestas o mezcladas con los “materiales energéticos” especificados en el subartículo 8.a o los polvos de metal especificados en el subartículo 8.c:
 
@@ -1436,15 +1484,15 @@ b. Equipos o aparatos de ensayo por centifrugación, que tengan cualquiera de la
 
 c. Prensas de deshidratación;
 
-d. Prensas extruidoras de husillo diseñadas especialmente o modificadas para la extrusión de explosivos militares;
+d. Prensas extruidoras de husillo diseñadas especialmente o modificadas para la extrusión de "explosivos" militares;
 
-e. Máquinas para el corte de propulsantes en forma de macarrón;
+e. Máquinas para el corte de "propulsantes" en forma de macarrón;
 
 f. Tambores amasadores (cubas giratorias) de 1,85 m de diámetro o más, y con una capacidad de producción de más de 227 kg;
 
-g. Mezcladores de acción continua para propulsantes sólidos;
+g. Mezcladores de acción continua para "propulsantes" sólidos;
 
-h. Molinos accionados por fluidos, para pulverizar o moler los ingredientes de explosivos militares;
+h. Molinos accionados por fluidos, para pulverizar o moler los ingredientes de "explosivos" militares;
 
 i. Equipos para obtener a la vez la esfericidad y uniformidad de tamaño de las partículas del polvo metálico citado en el subartículo 8.c.8;
 
@@ -1557,5 +1605,7 @@ a. La “tecnología” mínima necesaria para la instalación, el funcionamient
 b. La “tecnología” que sea “de conocimiento público”, de “investigación científica básica” o la información mínima necesaria para solicitudes de patentes.
 
 c. La “tecnología” para la inducción magnética para la propulsión continua de dispositivos de transporte civil.
+
+> Se modifica por el art. único.1 a 6 de la Orden ICT/657/2018, de 13 de junio. Ref. BOE-A-2018-8383
 
 > Se modifica por el art. único y Anexo I.1 de la Orden ECC/1493/2016, de 19 de septiembre. Ref. BOE-A-2016-8633.
