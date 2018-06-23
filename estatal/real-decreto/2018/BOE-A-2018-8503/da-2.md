@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Publicación de la incidencia combinada en los saldos y deudas de las administraciones públicas de los organismos y fondos que no formen parte de sus presupuestos ordinarios.
+
+En el marco de los procesos presupuestarios anuales y de los planes presupuestarios a medio plazo, se presentará por el Ministerio de Economía, Industria y Competitividad y por el Ministerio de Hacienda y Función Pública en el ámbito de sus competencias la incidencia combinada en los saldos y deudas de las Administraciones Públicas de todos los organismos y fondos de las mismas que no formen parte de los presupuestos ordinarios de los distintos subsectores.
