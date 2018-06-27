@@ -1,0 +1,17 @@
+## Disposición transitoria única. Advertencias en extractos de posición en relación con instrumentos financieros especialmente complejos que con carácter general no resultan adecuados para clientes minoristas o con instrumentos financieros que a su vez son pasivos admisibles para la recapitalización interna.
+
+Las entidades señaladas en la norma primera de la presente circular que a su entrada en vigor mantengan instrumentos financieros de clientes minoristas de los enumerados en sus normas segunda o tercera, deberán identificarlos claramente, según corresponda, como instrumentos cuya adquisición por clientes minoristas es considerada no adecuada por su complejidad con carácter general por la CNMV o como pasivos admisibles para la recapitalización interna en el primer extracto periódico de posiciones que deban remitir a dichos clientes minoristas con posterioridad a dicha entrada en vigor, de acuerdo a lo establecido en el artículo 70 del Real Decreto 217/2008, de 15 de febrero, sobre el régimen jurídico de las empresas de servicios de inversión y de las demás entidades que prestan servicios de inversión y por el que se modifica parcialmente el Reglamento de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva, aprobado por el Real Decreto 1309/2005, de 4 noviembre.
+
+Adicionalmente, deberán incluir en dichos extractos, según corresponda, las siguientes advertencias:
+
+«Advertencia:
+
+En el presente extracto se identifican determinados instrumentos financieros que son pasivos admisibles para la recapitalización interna. En caso de resolución del emisor de dichos instrumentos financieros (proceso aplicable cuando el emisor sea inviable o sea previsible que vaya a serlo en un futuro próximo y por razones de interés público y estabilidad financiera resulte necesario evitar su liquidación concursal), dichos productos podrían convertirse en acciones o ver reducido su principal y sus tenedores soportar pérdidas en su inversión como consecuencia de ello.»
+
+«Advertencia:
+
+Desde XX/XX/XX (fecha de entrada en vigor de la presente circular), resulta obligatorio advertir, antes de la contratación, de que la Comisión Nacional del Mercado de Valores (CNMV) considera que determinados instrumentos financieros no son sencillos y pueden ser difíciles de entender, por lo que debido a su complejidad, con carácter general, no considera adecuada su adquisición por clientes minoristas. En el presente extracto se identifican los instrumentos incluidos en dicha obligación.»
+
+Únicamente será obligatorio identificar en extractos periódicos de posiciones dichos instrumentos financieros una sola vez, y las advertencias incluidas en esta disposición transitoria afectarán exclusivamente a las posiciones mantenidas por clientes minoristas sobre las que deba informarse en el primer extracto de posición que deba remitirse con posterioridad a la entrada en vigor de la presente circular.
+
+No resultará necesario realizar la advertencia referida a instrumentos financieros que a su vez son pasivos admisibles para la recapitalización interna a que se refiere la presente norma transitoria cuando ya se haya informado al cliente minorista de ello, de acuerdo con lo recogido en el comunicado de 2 de junio de 2016 sobre prácticas MIFID para la comercialización de instrumentos financieros sujetos a la Directiva de resolución y recuperación bancaria (ESMA/2016/902) de la Autoridad Europea de Valores y Mercados.
