@@ -25,3 +25,7 @@ En el caso de no alcanzar el porcentaje que se determine, deberá justificarse e
 9. Realizar giras fuera de España, que obedecerán a principios de calidad, interés público y social, oportunidad, financiación y cooperación institucional.
 
 10. Desarrollar una función formativa y pedagógica, realizando talleres y cursos especializados, exposiciones, elaborando propuestas específicas para colectivos de jóvenes y mayores, centros educativos, colectivos del sector (actores, directores, cantantes, etc.) y ejecutando el número que se determine a través de su departamento de audiciones.
+
+> Se mantiene su vigencia por la disposición final 1.2.b) del Real Decreto 697/2018, de 29 de junio. Ref. BOE-A-2018-9032
+
+> Se deroga, con efectos desde el día que entre en vigor la Ley de Presupuestos Generales del Estado para 2018, por la disposición derogatoria única.2.b) del Real Decreto 229/2018, de 20 de abril. Ref. BOE-A-2018-5455#dd
