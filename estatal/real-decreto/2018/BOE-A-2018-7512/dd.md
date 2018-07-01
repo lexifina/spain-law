@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto y, expresamente, la Orden TAS/167/2008, de 24 de enero, por la que se regula la formación profesional marítima y sanitaria del Instituto Social de la Marina; la Resolución de 5 de junio de 2013, del Instituto Social de la Marina, que la desarrolla; la Resolución de 27 de octubre de 2010, del Instituto Social de la Marina, sobre abono de los gastos de viaje a los alumnos de cursos de formación, y la Resolución de 13 de mayo de 2011, del Instituto Social de la Marina, por la que se aprueban las normas de convivencia de los centros nacionales de formación dependientes del Instituto Social de la Marina.
