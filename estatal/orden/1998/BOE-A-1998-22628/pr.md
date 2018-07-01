@@ -8,8 +8,10 @@ Igualmente, se aprovecha la Orden para introducir una serie de modificaciones te
 
 Se ha solicitado informe del Instituto Español de Oceanografía, y han sido consultadas las Comunidades Autónomas y el sector afectado.
 
-Asimismo, conforme a lo establecido en el artículo 1.3 del Reglamento (CE) 1626/94 del Consejo, por el que se establecen determinadas medidas técnicas de conservación de los recursos pesqueros del Mediterráneo, ha sido informada la Comisión.
+Asimismo, conforme a lo establecido en el artículo 7.3 del Reglamento (CE) n.º 1967/2006 del Consejo, de 21 de diciembre de 2006, relativo a las medidas de gestión para la explotación sostenible de los recursos pesqueros en el mar Mediterráneo y por el que se modifica el Reglamento (CEE) n.º 2847/93 y se deroga el Reglamento (CE) n.º 1626/94 ha sido informada la Comisión.
 
 La presente Orden se dicta en virtud de la competencia exclusiva del Estado en materia de pesca marítima establecida en el artículo 149.1.19. a de la Constitución.
 
 En su virtud, dispongo:
+
+> Se modifica el párrafo sexto por el art. único.1 de la Orden APA/767/2018, de 19 de junio. Ref. BOE-A-2018-10097
