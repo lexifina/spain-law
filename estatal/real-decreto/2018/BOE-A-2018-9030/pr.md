@@ -1,0 +1,47 @@
+Con la aprobación por el Real Decreto Legislativo 1/1994, de 20 de junio, del texto refundido de la Ley General de la Seguridad Social, y de acuerdo con el Plan de modernización de la gestión de la Seguridad Social del entonces Ministerio de Trabajo y Seguridad Social, se procedió a abordar el desarrollo reglamentario de dicha ley en materia de ingresos y pagos del sistema de la Seguridad Social, así como a regular su circuito financiero. A tal efecto, mediante el Real Decreto 1391/1995, de 4 de agosto, se aprobó el vigente Reglamento general de la gestión financiera de la Seguridad Social.
+
+Transcurridas más de dos décadas desde la entrada en vigor del citado reglamento y tras la aprobación del actual texto refundido de la Ley General de la Seguridad Social por el Real Decreto Legislativo 8/2015, de 30 de octubre, que ha aglutinado gran parte de las normas con rango de ley que han incidido en los ingresos y pagos del sistema de la Seguridad Social, se hace necesario elaborar un nuevo reglamento general sobre la materia, adaptado a estos cambios producidos en el ámbito de la gestión de ingresos y pagos durante ese tiempo y a la actual estructura de la colaboración en el ámbito financiero, en la que las entidades financieras se configuran, prácticamente, como únicos colaboradores.
+
+Asimismo, la Ley 16/2009, de 13 de noviembre, de servicios de pago, mediante la que se ha incorporado al ordenamiento jurídico español la Directiva 2007/64/CE del Parlamento Europeo y del Consejo, de 13 de noviembre de 2007, ha incidido en los procedimientos que tramita la Tesorería General de la Seguridad Social en su condición de caja pagadora del sistema, aun manteniéndose el marco general de colaboración y de obligaciones y derechos con las entidades financieras.
+
+También ha de destacarse el actual escenario de pagos generado por los nuevos instrumentos de la zona única de pagos en euros, denominada SEPA («Single Euro Payments Area»), y por la aprobación del Reglamento (UE) n.º 260/2012 del Parlamento Europeo y del Consejo, de 14 de marzo de 2012, por el que se establecen requisitos técnicos y empresariales para las transferencias y los adeudos domiciliados en euros, y se modifica el Reglamento (CE) n.º 924/2009.
+
+Igualmente, mediante este nuevo reglamento general de la gestión financiera se completa, de forma actualizada, la regulación reglamentaria establecida en otros ámbitos de la gestión de la Tesorería General de la Seguridad Social relacionados con su condición de caja única del sistema de la Seguridad Social, así como de titular de su patrimonio único, contenida en el Reglamento general de recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio, y en el Real Decreto 1221/1992, de 9 de octubre, sobre el patrimonio de la Seguridad Social.
+
+De esa forma, se flexibiliza el circuito financiero de la Tesorería General de la Seguridad Social, atribuyendo mayores competencias a su Director General para la apertura de nuevas cuentas en función de su finalidad, recaudatoria o de pago, y adelantando los plazos de comunicación de los importes recaudados por cuotas y para el envío de la documentación recaudatoria correspondiente por parte de las entidades financieras.
+
+También se concretan las competencias que ostenta el Ordenador General de Pagos para realizar una gestión eficaz de tesorería mediante la concertación para los fondos disponibles de operaciones de adquisición de activos, subastas de liquidez, depósitos a plazos y fondos en cuentas tesoreras, con el objetivo de incorporar nuevas alternativas de gestión al actual depósito de fondos de la Seguridad Social en las cuentas abiertas en el Banco de España.
+
+Por otra parte, se actualizan los procedimientos, las formas y los medios de pago en el ámbito de la Seguridad Social, estableciendo la utilización de medios electrónicos en el procedimiento de pago de las obligaciones del sistema, de conformidad con lo previsto en las Leyes 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y en consonancia con el programa de automatización progresiva de la gestión de la Seguridad Social.
+
+Finalmente, la colaboración en la gestión de los ingresos y los pagos del sistema de la Seguridad Social por parte de las entidades financieras, y de sus agrupaciones o asociaciones, se regula de forma más amplia que en el reglamento anterior.
+
+La regulación contenida en este reglamento permite, asimismo, la armonización con la normativa reguladora del procedimiento de pagos en el ámbito de la Administración General del Estado.
+
+De acuerdo con ello, este nuevo reglamento se atiene a los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre. Así, la norma es respetuosa con los principios de necesidad, eficacia y proporcionalidad, en tanto que con ella se persigue el fin pretendido, como es el desarrollo de las referidas previsiones legales en esta materia de los ingresos y pagos del sistema de la Seguridad Social, al objeto de asegurar la efectiva aplicación de los cambios producidos en este ámbito y contribuir al objetivo de interés general de asegurar la efectiva aplicación de dichas previsiones legales, incorporando al texto diversos preceptos encaminados a mejorar la calidad, la gestión y el control adecuado de los mencionados procedimientos de ingresos y pagos, constituyendo el instrumento más adecuado para garantizar su consecución, ya que contiene la regulación imprescindible para atender las necesidades que pretende cubrir, no tratándose de una norma restrictiva de derechos.
+
+Asimismo, la iniciativa es coherente con el resto del ordenamiento jurídico tanto nacional como de la Unión Europea, sus objetivos se encuentran claramente definidos y no impone cargas administrativas, cumpliendo los principios de seguridad jurídica y eficiencia, puesto que se integra de manera coherente con el resto del ordenamiento del sistema de Seguridad Social nacional y de la Unión Europea, generando un marco normativo estable, predecible, integrado, claro y que da certidumbre tanto a la Administración de la Seguridad Social como a las entidades colaboradoras en relación con los procedimientos de ingresos y pagos y demás previsiones que se regulan.
+
+Finalmente, cumple el principio de transparencia, en tanto que conforme a lo previsto en el artículo 133 de la Ley 39/2015, de 1 de octubre, y en el artículo 26 de la Ley 50/1997, de 27 de noviembre, del Gobierno, se ha sustanciado el trámite de consulta pública previa y se ha sometido al trámite de audiencia e información pública mediante su publicación en el portal web del Departamento.
+
+El reglamento se estructura en cinco capítulos, el primero de los cuales se ocupa de las normas generales en materia de gestión financiera de la Seguridad Social, relativas al objeto y ámbito de aplicación de su regulación, a la atribución de funciones y a las normas comunes de procedimiento en cuanto a cómputo de plazos y aplicación de medios electrónicos.
+
+El capítulo II se dedica a la determinación de la estructura del circuito financiero de la Tesorería General de la Seguridad Social.
+
+En el capítulo III se regula el presupuesto monetario, los movimientos financieros y las operaciones de tesorería.
+
+Del proceso de ordenación de pagos de las obligaciones del sistema se ocupa el capítulo IV del reglamento, en el que junto a unas disposiciones generales sobre la materia, entre las que se incluye, como novedad en este reglamento, la normativa reguladora de la figura de los pagos a justificar, se contemplan las especialidades que presentan determinados pagos.
+
+En el capítulo V se regulan las relaciones con las entidades financieras, como principales colaboradoras en la gestión de ingresos y pagos de la Tesorería General de la Seguridad Social, fijando con más detalle el marco de esa colaboración, sus condiciones y procedimientos, así como el Registro de Colaboradores y la protección de datos en materia de gestión financiera.
+
+Se ha sustanciado una consulta pública al objeto de recabar la opinión de los sujetos y de las organizaciones más representativas potencialmente afectadas por la norma.
+
+En su proceso de tramitación, y en cumplimiento del trámite de audiencia e información pública, el proyecto ha sido publicado en el portal web del entonces Ministerio de Empleo y Seguridad Social, de acuerdo con lo establecido en el artículo 26.6 de la Ley 50/1997, de 27 de noviembre.
+
+Asimismo, ha sido informado por la Agencia Española de Protección de Datos, de acuerdo con lo previsto en el artículo 5.b) del Estatuto de la indicada Agencia, aprobado por el Real Decreto 428/1993, de 26 de marzo.
+
+Este real decreto se dicta en el ejercicio de la habilitación conferida al efecto en el artículo 5.2.a) y c) y en la disposición final octava del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, y de acuerdo con la competencia exclusiva en materia de régimen económico de la Seguridad Social, que el artículo 149.1.17.ª de la Constitución Española atribuye al Estado.
+
+En su virtud, a propuesta de la Ministra de Trabajo, Migraciones y Seguridad Social, con la aprobación previa del Ministro de Hacienda y Función Pública, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 29 de junio de 2018,
+
+DISPONGO:
