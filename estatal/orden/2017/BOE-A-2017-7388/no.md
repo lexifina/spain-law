@@ -1,1 +1,1 @@
-> Incluye corrección de erratas publicada en BOE núm. 94, de 18 de abril de 2018. Ref. BOE-A-2018-5266
+Norma derogada, con efectos de 1 de julio de 2018, por la disposición derogatoria única de la Orden HAC/692/2018, de 28 de junio. Ref. BOE-A-2018-9027
