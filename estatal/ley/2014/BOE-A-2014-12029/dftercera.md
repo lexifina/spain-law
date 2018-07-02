@@ -21,3 +21,7 @@ h) La Decisión Marco 2009/299/JAI, de 26 de febrero de 2009, por la que se modi
 i) La Decisión Marco 2009/829/JAI, de 23 de octubre de 2009, relativa a la aplicación, entre Estados miembros de la Unión Europea, del principio de reconocimiento mutuo a las resoluciones sobre medidas de vigilancia como sustitución de la prisión provisional.
 
 j) Y la Directiva 2011/99/UE, de 13 de diciembre de 2011, del Parlamento Europeo y del Consejo, sobre la orden europea de protección.
+
+k) La Directiva 2014/41/UE del Parlamento Europeo y del Consejo, de 3 de abril de 2014, relativa a la orden europea de investigación en materia penal.
+
+> Se añade la letra k) por el art. único.25 de la Ley 3/2018, de 11 de junio. Ref. BOE-A-2018-7831
