@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Préstamos del Estado a la Tesorería General de la Seguridad Social.
+
+Al objeto de proporcionar cobertura adecuada a las obligaciones de la Seguridad Social y posibilitar el equilibrio presupuestario de la misma, el Gobierno, previo informe de la Secretaría General del Tesoro y Política Financiera y de la Tesorería General de la Seguridad Social, podrá autorizar la concesión por parte del Estado de préstamos a la Tesorería General de la Seguridad Social por un importe de 13.830.090 miles de euros. Estos préstamos no devengarán intereses y su cancelación se producirá en un plazo máximo de diez años a partir de 2019.

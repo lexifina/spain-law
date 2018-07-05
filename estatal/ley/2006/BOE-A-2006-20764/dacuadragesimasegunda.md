@@ -12,7 +12,19 @@ c) No resultará de aplicación el límite previsto en el apartado 1 del artícu
 
 El formato y contenido de la información serán los que, en cada momento, consten en la sede electrónica de la Agencia Estatal de Administración Tributaria en Internet.
 
-3. Lo establecido en el apartado 1 de esta disposición adicional, así como el plazo, contenido y formato de la declaración informativa a que se refiere el apartado 2 de esta disposición adicional, podrá ser modificado reglamentariamente.
+3. En relación con la deducción establecida en el artículo 81 bis de esta Ley por cónyuge no separado legalmente con discapacidad y el incremento de la deducción previsto por cada uno de los hijos que excedan del número mínimo de hijos exigido para la adquisición de la condición de familia numerosa de categoría general o especial, se tendrán en cuenta las siguientes reglas especiales:
+
+a) A efectos del cómputo del número de meses para el cálculo del importe de la deducción, el estado civil del contribuyente y el número de hijos que exceda del número mínimo de hijos exigido para que la familia haya adquirido la condición de familia numerosa de categoría general o especial, se determinarán de acuerdo con la situación existente el último día de cada mes.
+
+b) El importe del abono mensual de la deducción de forma anticipada por cónyuge no separado legalmente con discapacidad será de 100 euros.
+
+En el caso de familias numerosas, las cuantías establecidas en la letra c) del numero 1.º del apartado 4 del referido artículo 60 bis se incrementarán en 50 euros mensuales por cada uno de los hijos que formen parte de la familia numerosa, que exceda del número mínimo de hijos exigido para que dicha familia haya adquirido la condición de familia numerosa de categoría general o especial, según corresponda.
+
+c) Para el abono anticipado de la deducción por cónyuge no separado legalmente, la cuantía de las rentas anuales a tomar en consideración serán las correspondientes al último período impositivo cuyo plazo de presentación de autoliquidación hubiera finalizado al inicio del ejercicio en el que se solicita su abono anticipado.
+
+4. Lo establecido en los apartados 1 y 3 de esta disposición adicional, así como el plazo, contenido y formato de la declaración informativa a que se refiere el apartado 2 de esta disposición adicional, podrán ser modificados reglamentariamente.
+
+> Se modifica el apartado 3 y se añade el 4 por el art. 62.2 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-62
 
 > Se añade, con efectos desde el 1 de enero de 2015, por el art. 4.2 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#a4.
 

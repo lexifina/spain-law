@@ -1,0 +1,19 @@
+## Artículo 1. Ámbito de los Presupuestos Generales del Estado.
+
+En los Presupuestos Generales del Estado para el ejercicio del año 2018 se integran:
+
+a) Los presupuestos con carácter limitativo de las siguientes entidades:
+
+1. Del Estado.
+
+2. De los organismos autónomos.
+
+3. De las integrantes del Sistema de la Seguridad Social.
+
+4. Del resto de entidades del sector público estatal a las que resulte de aplicación el régimen de especificaciones y de modificaciones regulado en la Ley 47/2003, de 26 de noviembre, General Presupuestaria, o cuya normativa específica confiera a su presupuesto carácter limitativo.
+
+b) Los presupuestos con carácter estimativo de las siguientes entidades:
+
+1. De las entidades públicas empresariales, de las sociedades mercantiles estatales, de las fundaciones del sector público estatal y del resto de entidades del sector público estatal que aplican los principios y normas de contabilidad recogidos en el Código de Comercio y el Plan General de Contabilidad de la empresa española, así como en sus adaptaciones y disposiciones que lo desarrollan.
+
+2. De los consorcios, las universidades públicas no transferidas, los fondos sin personalidad jurídica y de las restantes entidades de derecho público del sector público administrativo estatal con presupuesto estimativo.

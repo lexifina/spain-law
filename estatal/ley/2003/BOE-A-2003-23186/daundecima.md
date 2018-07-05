@@ -6,8 +6,6 @@ a) Los actos recaudatorios de la Agencia Estatal de Administración Tributaria r
 
 b) El reconocimiento o la liquidación por autoridades u organismos de los Ministerios de Hacienda y de Economía de obligaciones del Tesoro Público y las cuestiones relacionadas con las operaciones de pago por dichos órganos con cargo al Tesoro.
 
-c) El reconocimiento y pago de toda clase de pensiones y derechos pasivos que sea competencia del Ministerio de Hacienda.
-
 2. No se admitirán reclamaciones económico-administrativas con respecto a los siguientes actos:
 
 a) Los que den lugar a reclamación en vía administrativa previa a la judicial, civil o laboral o pongan fin a dicha vía.
@@ -37,3 +35,5 @@ e) Los organismos u órganos que hayan dictado el acto impugnado, así como cual
 7. Podrán interponer el recurso extraordinario de revisión las personas u órganos previstos en el apartado 3 de esta disposición adicional, y los órganos directivos de los Ministerios de Hacienda y de Economía que se determinen reglamentariamente en materias de su competencia.
 
 8. Salvo lo dispuesto en los apartados anteriores, en las reclamaciones económico-administrativas reguladas en la presente disposición adicional se aplicarán las normas reguladoras de las reclamaciones económicoadministrativas en materia tributaria contenidas en esta ley.
+
+> Se deroga la letra c) del apartado 1 por la disposición derogatoria.2 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#dd-3

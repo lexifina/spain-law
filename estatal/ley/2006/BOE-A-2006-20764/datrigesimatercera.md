@@ -8,7 +8,7 @@ b) Los premios de las loterías, apuestas y sorteos organizados por organismos p
 
 El gravamen especial se exigirá de forma independiente respecto de cada décimo, fracción o cupón de lotería o apuesta premiados.
 
-2. Estarán exentos del gravamen especial los premios cuyo importe íntegro sea igual o inferior a 2.500 euros. Los premios cuyo importe íntegro sea superior a 2.500 euros se someterán a tributación respecto de la parte del mismo que exceda de dicho importe.
+2. Estarán exentos del gravamen especial los premios cuyo importe íntegro sea igual o inferior a 40.000 euros. Los premios cuyo importe íntegro sea superior a 40.000 euros se someterán a tributación respecto de la parte del mismo que exceda de dicho importe.
 
 Lo dispuesto en el párrafo anterior será de aplicación siempre que la cuantía del décimo, fracción o cupón de lotería, o de la apuesta efectuada, sea de al menos 0,50 euros. En caso de que fuera inferior a 0,50 euros, la cuantía máxima exenta señalada en el párrafo anterior se reducirá de forma proporcional.
 
@@ -33,6 +33,8 @@ No obstante, no existirá obligación de presentar la citada autoliquidación cu
 8. No se integrarán en la base imponible del Impuesto los premios previstos en esta disposición adicional. Las retenciones o ingresos a cuenta practicados conforme a lo previsto en la misma no minorarán la cuota líquida total del impuesto ni se tendrán en cuenta a efectos de lo previsto en el artículo 103 de esta Ley.
 
 9. Lo establecido en esta disposición adicional no resultará de aplicación a los premios derivados de juegos celebrados con anterioridad a 1 de enero de 2013.
+
+> Se modifica el apartado 2 por el art. 67.1 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#a6-2
 
 > Se modifica, con efectos desde el 1 de enero de 2013, por el art. 2.3 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
 

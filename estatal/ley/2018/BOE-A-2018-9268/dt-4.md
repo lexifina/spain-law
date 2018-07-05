@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Registro de Prestaciones Sociales Públicas.
+
+El Registro de Prestaciones Sociales Públicas, constituido en el Instituto Nacional de la Seguridad Social y gestionado por el mismo, se mantendrá en vigor en los términos previstos en el artículo 72 del Texto Refundido de la Ley General de la Seguridad Social, así como en el Real Decreto 397/1996, de 1 de marzo, dando servicio a las entidades, organismos y empresas incluidas en el Catálogo a que se refiere el artículo 9 del citado Real Decreto, hasta la fecha que se determine en la norma reglamentaria que, en desarrollo de la disposición adicional centésima cuadragésima primera de la presente Ley, regule la Tarjeta Social Universal.
+
+A partir de su puesta en funcionamiento, quedará integrado en la Tarjeta Social Universal el contenido del actual Registro de Prestaciones Sociales Públicas, regulado por el artículo 72 del Texto Refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre, y por el Real Decreto 397/1996, de 1 de marzo.

@@ -8,9 +8,13 @@ La enajenación de los bienes inmuebles se realizará mediante subasta pública,
 
 3. El importe de la enajenación de bienes integrados en el Patrimonio Sindical Acumulado se destinará a la adquisición de bienes de valor equivalente, obras de construcción, conservación, reforma, acondicionamiento y mejora de los bienes del Patrimonio Sindical Acumulado y, en general, a las finalidades previstas en esta Ley y en su Reglamento ejecutivo.
 
+Asimismo, se destinará al pago de los arrendamientos a que se refiere la disposición adicional novena de la presente Ley.
+
 4. Asimismo podrán permutarse, mediante autorización del Ministerio de Trabajo y Seguridad Social, bienes inmuebles integrados en el Patrimonio Sindical Acumulado por bienes de valor equivalente pertenecientes a otras personas con igual finalidad que la expresada en el número anterior.
 
 5. La Comisión Consultiva Tripartita será oída, en todo caso, en los actos de disposición a que se refiere el presente artículo.
+
+> Se modifica el apartado 3 por la disposición final 1.1 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268
 
 > Se modifica por el art. 129 de la Ley 37/1988, de 28 de diciembre. Ref. BOE-A-1988-29563
 

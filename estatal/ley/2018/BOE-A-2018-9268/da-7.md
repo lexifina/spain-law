@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Traspaso del remanente de tesorería afectado al remanente de libre disposición del organismo autónomo Instituto Nacional de Administración Pública.
+
+Se autoriza al organismo autónomo Instituto Nacional de Administración Pública, dependiente del Ministerio de Hacienda y Función Pública, a traspasar de la parte afectada del remanente de tesorería a su componente no afectado en los importes no utilizados a final del ejercicio 2017, hasta un límite máximo de 302.410,00 euros, de los fondos destinados a ejecución de los Planes de Formación para el Empleo asignados al INAP como promotor, y de los destinados a las actividades complementarias que tengan relación con el programa de Formación para el Empleo en las Administraciones Públicas.

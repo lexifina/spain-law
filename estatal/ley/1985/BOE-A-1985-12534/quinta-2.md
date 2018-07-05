@@ -2,7 +2,9 @@
 
 En los diez años siguientes a la entrada en vigor de esta Ley, lo dispuesto en el artículo 28.1 de la misma se entenderá referido a los bienes muebles integrantes del Patrimonio Histórico Español en posesión de las instituciones eclesiásticas.
 
-> Téngase en cuenta que el plazo indicado se prorroga hasta el 29 de junio de 2018, según establece la disposición adicional 113 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
+> Téngase en cuenta que el plazo indicado, en esta disposición transitoria, se prorroga por un año según establece la disposición adicional 129 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#da-130
+
+> Se prorroga el plazo por un año, a partir del 5 de julio de 2018, por la disposición adicional 129 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#da-130
 
 > Se prorroga el plazo por un año a partir del 29 de junio de 2017 por la disposición adicional 113 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
 

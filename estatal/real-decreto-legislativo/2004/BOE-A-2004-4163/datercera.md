@@ -1,4 +1,4 @@
-## Disposición adicional tercera. Procedimiento de regularización catastral 2013-2016.
+## Disposición adicional tercera. Procedimiento de regularización catastral.
 
 1. Sin perjuicio de lo establecido en el artículo 11 de este Texto Refundido, la incorporación al Catastro Inmobiliario de los bienes inmuebles urbanos y de los bienes inmuebles rústicos con construcción, así como de las alteraciones de sus características, podrá realizarse mediante el procedimiento de regularización catastral.
 
@@ -6,7 +6,7 @@ Este procedimiento se iniciará de oficio en los supuestos de incumplimiento de 
 
 Será de aplicación el procedimiento de regularización, en lo no previsto por esta disposición, el régimen jurídico establecido en los artículos 11 y 12 de este Texto Refundido.
 
-2. El procedimiento de regularización se aplicará en aquellos municipios y durante el período que se determinen mediante resolución de la Dirección General del Catastro, que deberá publicarse en el “Boletín Oficial del Estado” con anterioridad al 31 de diciembre de 2016. No obstante, el plazo previsto en dicha resolución podrá ser ampliado por decisión motivada del mismo órgano, que igualmente habrá de ser publicada en el “Boletín Oficial del Estado”.
+2. El procedimiento de regularización se aplicará en aquellos municipios y durante el período que se determinen mediante resolución de la Dirección General del Catastro, que deberá publicarse en el “Boletín Oficial del Estado”. No obstante, el plazo previsto en dicha resolución podrá ser ampliado por decisión motivada del mismo órgano, que igualmente habrá de ser publicada en el “Boletín Oficial del Estado”.
 
 Una vez publicada en el “Boletín Oficial del Estado” la citada resolución y durante el período al que se refiere la misma, las declaraciones que se presenten fuera del plazo previsto por la correspondiente normativa no serán objeto de tramitación conforme al procedimiento de incorporación mediante declaraciones regulado en el artículo 13, sin perjuicio de que la información que en ellas se contenga y los documentos que las acompañen se entiendan aportados en cumplimiento del deber de colaboración previsto en el artículo 36 y sean tenidos en cuenta a efectos del procedimiento de regularización.
 
@@ -45,5 +45,7 @@ d) Cuantía: La cuantía de la tasa de regularización catastral será de 60 eur
 e) Gestión: La gestión de la tasa de regularización catastral corresponde a la Dirección General del Catastro.
 
 f) Recaudación: La recaudación de la tasa se efectuará conforme a lo dispuesto en el Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio, y su normativa de desarrollo.
+
+> Se modifica el título y el apartado 2 por la disposición final 20.2 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-21
 
 > Se añade por el art. 16.3 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.

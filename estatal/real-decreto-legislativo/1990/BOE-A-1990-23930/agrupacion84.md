@@ -80,8 +80,6 @@ Notas:
 
 2.ª Podrá realizarse, sin pago de cuota adicional alguna, la actividad relativa a la emisión y distribución de sellos de correos y demás signos de franqueo.
 
-3.ª La entidad pública empresarial Correos y Telégrafos satisfará el 50 por 100 de la cuota señalada, por la totalidad de los servicios a que se refiere este grupo.
-
 ## Grupo 849. Otros servicios prestados a las empresas n.c.o.p.
 
 Epígrafe 849.1 Cobros de deudas y confección de facturas.
@@ -127,6 +125,8 @@ Nota: Este epígrafe comprende la prestación por un mismo sujeto pasivo de una 
 Epígrafe 849.9 Otros servicios independientes n.c.o.p.
 
 Cuota de: 33.638 pesetas. (202,17 euros)
+
+> Se suprime la nota 3ª del epígrafe 847 por el art. 74.3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-70
 
 > Se modifica el epígrafe 849.5 por el art. 62.1.1 de la Ley 23/2001, de 27 de diciembre. Ref. BOE-A-2001-24964.
 

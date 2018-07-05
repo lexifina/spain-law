@@ -58,9 +58,13 @@ Si el consignatario de buques fuese al mismo tiempo consignatario o destinatario
 
 I) El pago de las cuotas correspondientes a la prestación de servicios recreativos en discotecas y salas de baile faculta para el suministro de bebidas en dichos locales.
 
+J) Sin perjuicio de lo dispuesto en el apartado 4 de esta regla, cualquiera de las rúbricas de las Tarifas faculta a los sujetos pasivos para prestar a sus clientes, por cuenta de las entidades financieras cuya actividad esté clasificada en los grupos 811 y 812 de la sección primera de las Tarifas, el servicio combinado de retirada de efectivo y pago por los bienes o servicios adquiridos (servicio de “cashback”).
+
 3. A efectos del Impuesto sobre Actividades Económicas, la expresión «almacenes y depósitos» incluye los almacenes frigoríficos.
 
 4. El hecho de figurar inscrito en la Matrícula o de satisfacer el Impuesto sobre Actividades Económicas no legitima el ejercicio de una actividad si para ello se exige en las disposiciones vigentes el cumplimiento de otros requisitos.
+
+> Se añade la letra J) al apartado 2 por el art. 74.4 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-70
 
 > Se modifica el apartado 2.A) por el art. 75.2 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
 

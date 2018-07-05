@@ -44,7 +44,7 @@ Ocho. Además de las obligaciones impuestas por la normativa reguladora de las s
 
 a) En el caso de las compañías aéreas, presentarán las liquidaciones mensuales de los cupones bonificados volados durante un mes en el transcurso de los dos meses siguientes, salvo autorización expresa de la Dirección General de Aviación Civil por razones excepcionales. Estas liquidaciones podrán contener aquellos cupones volados en los seis meses anteriores que no hayan podido ser incluidos, por causas justificadas, en los ficheros de meses pasados.
 
-En el caso de las compañías marítimas, presentarán las liquidaciones trimestrales en el transcurso de los dos meses siguientes, salvo autorización expresa de la Dirección General de la Marina Mercante por razones excepcionales. Estas liquidaciones podrán contener aquellos embarques bonificados en los seis meses anteriores que no hayan podido ser incluidos, por causas justificadas, en los ficheros de trimestres pasados.
+En el caso de las compañías marítimas, presentarán las liquidaciones en el transcurso de los dos meses siguientes al periodo reglamentario de liquidación, salvo autorización expresa de la Dirección General de la Marina Mercante por razones excepcionales. Estas liquidaciones podrán contener aquellos embarques bonificados en los seis meses anteriores que no hayan podido ser incluidos, por causas justificadas, en los ficheros de liquidaciones pasadas.
 
 b) En la documentación justificativa de la subvención desglosarán el precio y la identificación de todos los conceptos incluidos en el billete aéreo y marítimo, así como cualquier servicio adicional contratado por el pasajero incluido en el billete.
 
@@ -77,3 +77,5 @@ La relación mensual de todos los embarques reales producidos en cada puerto inc
 No podrá bonificarse ningún embarque contenido en el fichero informático que no esté incluido en la relación de embarques reales, salvo que se demuestre error u omisión.
 
 Trece. El Gobierno dictará las normas de aplicación y desarrollo de las bonificaciones al transporte, marítimo y aéreo, regular de pasajeros.»
+
+> Se modifica el apartado 8.a) por la disposición final 37 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-38

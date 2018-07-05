@@ -1,22 +1,26 @@
-## Disposición transitoria vigésima. Régimen transitorio de la reducción de ingresos procedentes de determinados activos intangibles.
+## Disposición transitoria vigésima. Régimen transitorio de la reducción de ingresos procedentes de determinados activos intangibles del contribuyente disponibles con anterioridad a 1 de julio de 2016.
 
-1. Las cesiones del derecho de uso o de explotación de activos intangibles que se hayan realizado con anterioridad a la entrada en vigor de la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización, podrán optar por aplicar en todos los períodos impositivos que resten hasta la finalización de los contratos correspondientes, el régimen establecido en el artículo 23 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, según redacción dada al mismo por la Disposición adicional octava.1.ocho de la Ley 16/2007, de 4 de julio, de reforma y adaptación de la legislación mercantil en materia contable para su armonización internacional con base en la normativa de la Unión Europea.
+1. Lo establecido en esta disposición resultará de aplicación para los activos intangibles del contribuyente disponibles con anterioridad a 1 de julio de 2016.
 
-2. Las cesiones del derecho de uso o de explotación que se hayan realizado o se realicen desde la entrada en vigor de la Ley 14/2013 hasta 30 de junio de 2016, podrán optar por aplicar en todos los períodos impositivos que resten hasta la finalización de los contratos correspondientes, el régimen establecido en el artículo 23 de la presente Ley, según redacción vigente a 1 de enero de 2015.
+2. Las cesiones del derecho de uso o de explotación de activos intangibles que se hayan realizado con anterioridad a la entrada en vigor de la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización, podrán optar por aplicar en todos los períodos impositivos que resten hasta la finalización de los contratos correspondientes, el régimen establecido en el artículo 23 del Texto Refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, según redacción dada al mismo por la disposición adicional octava.1.ocho de la Ley 16/2007, de 4 de julio, de reforma y adaptación de la legislación mercantil en materia contable para su armonización internacional con base en la normativa de la Unión Europea.
 
-3. Las opciones a que se refieren los dos apartados anteriores se ejercitarán a través de la declaración del período impositivo 2016.
+Lo dispuesto en este apartado resultará de aplicación hasta 30 de junio de 2021.
 
-4. Las transmisiones de activos intangibles que se realicen desde 1 de julio de 2016 hasta 30 de junio de 2021 podrán optar por aplicar el régimen establecido en el artículo 23 de la presente Ley, según redacción vigente a 1 de enero de 2015. Esta opción se ejercitará en la declaración correspondiente al período impositivo en que se realizó la transmisión.
+A partir de 1 de julio de 2021, las cesiones que se hayan realizado de acuerdo con lo señalado en este apartado deberán aplicar el régimen establecido en el artículo 23 de esta Ley, según redacción dada al mismo por la Ley 6/2018, de 3 de julio, de Presupuestos Generales del Estado para el año 2018.
 
-5. Lo dispuesto en los apartados 1 y 2 anteriores resultará de aplicación hasta 30 de junio de 2021. A partir de entonces, las cesiones que se hayan realizado de acuerdo con lo señalado en dichos apartados deberán aplicar el régimen establecido en el artículo 23 de esta Ley, según redacción dada al mismo por la Ley 48/2015, de 29 de octubre, de Presupuestos Generales del Estado para el año 2016.
+3. Las cesiones del derecho de uso o de explotación que se hayan realizado o se realicen desde la entrada en vigor de la Ley 14/2013 hasta 30 de junio de 2016, podrán optar por aplicar en todos los períodos impositivos que resten hasta la finalización de los contratos correspondientes, el régimen establecido en el artículo 23 de la presente Ley, según redacción vigente a 1 de enero de 2015.
 
-> Téngase en cuenta que esta última modificación introducida por el art. 64 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644., tendrá efectos desde el 1 de julio de 2016.
+Lo dispuesto en este apartado resultará de aplicación hasta 30 de junio de 2021, excepto en el caso de que los activos intangibles se hubieran adquirido entre 1 de enero y 30 de junio de 2016 directa o indirectamente a una entidad vinculada con el cedente y en el momento de la adquisición no hubieran estado acogidos a un régimen de reducción de las rentas procedentes de determinados activos intangibles, en cuyo caso lo dispuesto en este apartado resultará de aplicación hasta 31 de diciembre de 2017.
 
-> Redacción anterior:
+A partir de 1 de julio de 2021, o de 1 de enero de 2018, respectivamente, las cesiones que se hayan realizado de acuerdo con lo señalado en este apartado deberán aplicar el régimen establecido en el artículo 23 de esta Ley, según redacción dada al mismo por la Ley 6/2018, de 3 de julio, de Presupuestos Generales del Estado para el año 2018.
 
-> "Disposición transitoria vigésima. Régimen transitorio de la reducción de ingresos procedentes de determinados activos intangibles.
+4. Las opciones a que se refieren los dos apartados anteriores se ejercitarán a través de la declaración del período impositivo 2016.
 
-> Las cesiones del derecho de uso o de explotación de activos intangibles que se hayan realizado con anterioridad a la entrada en vigor de la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización, se regularán por lo establecido en el artículo 23 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, según redacción dada al mismo por la Disposición adicional octava.1.ocho de la Ley 16/2007, de 4 de julio, de reforma y adaptación de la legislación mercantil en materia contable para su armonización internacional con base en la normativa de la Unión Europea."
+5. Las transmisiones de activos intangibles que previamente hubieran sido objeto de cesiones para las que el contribuyente hubiera ejercitado la opción establecida en los apartados 2 o 3, que se realicen desde 1 de julio de 2016 hasta 30 de junio de 2021 podrán optar por aplicar el régimen establecido en el artículo 23 de la presente Ley, según redacción vigente a 1 de enero de 2015, excepto en el caso de que los activos intangibles se hubieran adquirido entre 1 de enero y 30 de junio de 2016 directa o indirectamente a una entidad vinculada con el transmitente y en el momento de la adquisición no hubieran estado acogidos a un régimen de reducción de las rentas procedentes de determinados activos intangibles, en cuyo caso, únicamente podrán aplicar dicho régimen las que se realicen hasta 31 de diciembre de 2017.
+
+Esta opción se ejercitará en la declaración correspondiente al período impositivo en que se realizó la transmisión.
+
+> Se modifica, con efectos desde el 1 de enero de 2018, por el art. 72 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-68
 
 > Se modifica, con efectos desde el 1 de julio de 2016, por el art. 64 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644.
 

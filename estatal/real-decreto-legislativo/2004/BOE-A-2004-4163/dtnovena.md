@@ -1,8 +1,14 @@
-## Disposición transitoria novena. Plazos para la aplicación en el ejercicio 2014 de los coeficientes previstos en el apartado 2 del artículo 32.
+## Disposición transitoria novena. Régimen transitorio para la determinación del valor de referencia de mercado.
 
-El plazo para que los Ayuntamientos comuniquen a la Dirección General del Catastro la solicitud de aplicación para el ejercicio 2014, de los coeficientes previstos en el apartado 2 del artículo 32, se amplía hasta el 15 de noviembre de 2013. Hasta dicha fecha los Ayuntamientos podrán comunicar al citado centro directivo el desistimiento de la solicitud que hubieran formulado.
+En tanto no se apruebe el desarrollo reglamentario previsto en la disposición final tercera de esta Ley, para la determinación del valor de referencia se elaborará un informe anual del mercado inmobiliario, base de la determinación de los diferentes módulos de valor.
 
-Asimismo, se amplía hasta el 15 de diciembre de 2013 el plazo para publicar en el ''Boletín Oficial del Estado'' la Orden ministerial que determine la relación de municipios en los que resultarán de aplicación los citados coeficientes.
+Las directrices y criterios específicos de aplicación se determinarán del siguiente modo:
+
+a) Para los bienes inmuebles urbanos, así como para las construcciones situadas en suelo rústico, con arreglo a las normas vigentes para el cálculo de los valores catastrales, fijándose anualmente para cada municipio los módulos de aplicación.
+
+b) Para el suelo rústico no ocupado por construcciones, por aplicación de los módulos de valor de cada cultivo, fijados anualmente para cada municipio, corregidos por factores objetivos de localización, agronómicos y socioeconómicos, cuando así se justifique por el mencionado informe anual del mercado inmobiliario.
+
+> Se modifica por la disposición final 20.3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-21
 
 > Se modifica por la disposición final 4 del Real Decreto-ley 7/2013, de 28 de junio. Ref. BOE-A-2013-7062.
 

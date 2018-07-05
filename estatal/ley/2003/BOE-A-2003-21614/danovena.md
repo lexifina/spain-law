@@ -6,9 +6,7 @@ Estas sociedades mercantiles quedarán obligadas a rendir sus cuentas anuales al
 
 Lo dispuesto en los párrafos anteriores será también de aplicación a las fundaciones públicas y otras formas jurídicas en las que la participación del sector público estatal sea igual o superior a la de cada una de las restantes administraciones públicas, sin perjuicio de lo establecido en la normativa propia de cada comunidad autónoma.
 
-Los consorcios adscritos a la Administración General del Estado según lo previsto en la disposición adicional vigésima de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, estarán sujetos al régimen presupuestario, financiero, contable y de control regulado en la presente Ley y su normativa de desarrollo.
-
-Los presupuestos de los consorcios adscritos a la administración pública estatal no sujetos a su poder de decisión por no concurrir ninguna de las circunstancias previstas en las letras a) a e) del punto 2 de la citada disposición adicional vigésima de la Ley 30/1992, de 26 de noviembre, formarán parte de los Presupuestos Generales del Estado en los términos que se determine por el Ministerio de Hacienda y Administraciones Públicas.
+> Se modifica por la disposición final 19.14 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-20
 
 > Se modifica por la disposición final 5 de la Ley Orgánica 6/2015, de 12 de junio. Ref. BOE-A-2015-6517.
 

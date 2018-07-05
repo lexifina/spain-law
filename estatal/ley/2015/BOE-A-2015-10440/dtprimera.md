@@ -8,6 +8,10 @@ A efectos de esta ley, tendrán la consideración de transporte ferroviario de v
 
 Mediante orden del Ministro de Fomento se regularán las condiciones de prestación de este tipo de servicios.
 
+Los servicios de transporte ferroviario de viajeros con finalidad prioritariamente turística se consideraran tipo de servicio VL1 del artículo 97 de la Ley.
+
+> Téngase en cuenta que este último párrafo, añadido por la disposición final 36.2 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-37 entra en vigor el 1 de agosto de 2018.
+
 3. Los servicios de transporte ferroviario interior de viajeros distintos a los regulados en el apartado 2 anterior y en el artículo 59 podrán ser prestados por aquellas empresas ferroviarias establecidas en España que obtengan un título habilitante.
 
 El Consejo de Ministros determinará el número de títulos habilitantes a otorgar para cada línea o conjunto de líneas en las que se prestará el servicio en régimen de concurrencia, así como el período de vigencia de dichos títulos habilitantes.
@@ -23,3 +27,5 @@ Será de aplicación subsidiaria a los citados títulos, en lo que resulte compa
 Renfe-Operadora dispondrá de un título habilitante para operar los servicios en todo el territorio sin necesidad de acudir al proceso de licitación.
 
 5. Las normas recogidas en esta disposición estarán en vigor hasta que, de conformidad con la legislación comunitaria, se acuerde la plena apertura al mercado del transporte ferroviario de viajeros.
+
+> Se añade un cuarto párrafo al apartado 2, con efectos de 1 de agosto de 2018, por la disposición final 36.2 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-37

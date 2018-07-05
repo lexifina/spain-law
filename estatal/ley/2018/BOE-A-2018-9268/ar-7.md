@@ -1,0 +1,11 @@
+## Artículo 7. Principios generales.
+
+Durante la vigencia de estos presupuestos, las modificaciones de los créditos presupuestarios autorizados en esta Ley se sujetarán a las siguientes reglas:
+
+Primera. Las modificaciones de créditos presupuestarios se ajustaran a lo dispuesto en esta Ley, y a lo que al efecto se dispone en la Ley 47/2003, de 26 de noviembre, General Presupuestaria, en los extremos que no resulten modificados por aquella.
+
+Segunda. Con independencia de los niveles de vinculación establecidos en los artículo 43 y 44 de la Ley General Presupuestaria, todo acuerdo de modificación presupuestaria deberá indicar expresamente la Sección, Servicio u órgano público a que se refiera así como el programa, artículo, concepto y subconcepto, en su caso, afectados por la misma.
+
+Tercera. Las transferencias de crédito y los libramientos que se realicen entre o con cargo a los artículos 40 a 43 y 70 a 73 de la clasificación económica del gasto deberán de efectuarse a través el programa presupuestario 000X «Transferencias internas».
+
+Cuarta. Los gastos que proceda efectuar en el marco de las convocatorias públicas realizadas en el ámbito de la política 46 «Investigación, desarrollo e innovación», cuando los destinatarios sean organismos autónomos u otras entidades del sector público administrativo estatal con presupuesto limitativo, habrán de imputarse desde el momento de la resolución de concesión de las correspondientes convocatorias, en todas sus fases de ejecución, tanto las relativas al presupuesto en vigor como las que afecten a presupuestos de ejercicios posteriores, al programa «000X Transferencias internas».

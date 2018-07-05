@@ -6,9 +6,11 @@ a) Por cada descendiente con discapacidad con derecho a la aplicación del míni
 
 b) Por cada ascendiente con discapacidad con derecho a la aplicación del mínimo por ascendientes previsto en el artículo 59 de esta Ley, hasta 1.200 euros anuales.
 
-c) Por ser un ascendiente, o un hermano huérfano de padre y madre, que forme parte de una familia numerosa conforme a la Ley 40/2003, de 18 de noviembre, de Protección a las Familias Numerosas, o por ser un ascendiente separado legalmente, o sin vínculo matrimonial, con dos hijos sin derecho a percibir anualidades por alimentos y por los que tenga derecho a la totalidad del mínimo previsto en el artículo 58 de esta Ley, hasta 1.200 euros anuales.
+c) Por ser un ascendiente, o un hermano huérfano de padre y madre, que forme parte de una familia numerosa conforme a la Ley 40/2003, de 18 de noviembre, de Protección a las Familias Numerosas, o por ser un ascendiente separado legalmente, o sin vínculo matrimonial, con dos hijos sin derecho a percibir anualidades por alimentos y por los que tenga derecho a la totalidad del mínimo previsto en el artículo 58 de esta Ley, hasta 1.200 euros anuales. En caso de familias numerosas de categoría especial, esta deducción se incrementará en un 100 por ciento. Este incremento no se tendrá en cuenta a efectos del límite a que se refiere el apartado 2 de este artículo.
 
-En caso de familias numerosas de categoría especial, esta deducción se incrementará en un 100 por ciento. Este incremento no se tendrá en cuenta a efectos del límite a que se refiere el apartado 2 de este artículo.
+La cuantía de la deducción a que se refiere el párrafo anterior se incrementará hasta en 600 euros anuales por cada uno de los hijos que formen parte de la familia numerosa que exceda del número mínimo de hijos exigido para que dicha familia haya adquirido la condición de familia numerosa de categoría general o especial, según corresponda. Este incremento no se tendrá en cuenta a efectos del límite a que se refiere el apartado 2 de este artículo.
+
+d) Por el cónyuge no separado legalmente con discapacidad, siempre que no tenga rentas anuales, excluidas las exentas, superiores a 8.000 euros ni genere el derecho a las deducciones previstas en las letras a) y b) anteriores, hasta 1.200 euros anuales.
 
 Asimismo podrán minorar la cuota diferencial del impuesto en las deducciones previstas anteriormente los contribuyentes que perciban prestaciones contributivas y asistenciales del sistema de protección del desempleo, pensiones abonadas por el Régimen General y los Regímenes especiales de la Seguridad Social o por el Régimen de Clases Pasivas del Estado, así como los contribuyentes que perciban prestaciones análogas a las anteriores reconocidas a los profesionales no integrados en el régimen especial de la Seguridad Social de los trabajadores por cuenta propia o autónomos por las mutualidades de previsión social que actúen como alternativas al régimen especial de la Seguridad Social mencionado, siempre que se trate de prestaciones por situaciones idénticas a las previstas para la correspondiente pensión de la Seguridad Social.
 
@@ -27,6 +29,8 @@ Asimismo, reglamentariamente se podrán determinar los supuestos de cesión del 
 En este caso, a efectos del cálculo de la deducción a que se refiere el apartado 2 de este artículo, se tendrá en cuenta de forma conjunta, tanto el número de meses en que se cumplan de forma simultánea los requisitos previstos en el apartado 1 de este artículo como las cotizaciones y cuotas totales a la Seguridad Social y Mutualidades correspondientes a todos los contribuyentes que tuvieran derecho a la deducción.
 
 Se entenderá que no existe transmisión lucrativa a efectos fiscales por esta cesión.
+
+> Se modifica el apartado 1 por el art. 62.1 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-62
 
 > Se modifican los apartados 1 y 2, con efectos desde el 1 de enero de 2015, por el art. 4.1 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#a4.
 

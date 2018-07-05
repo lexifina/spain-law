@@ -82,3 +82,5 @@ Las tasas y exacciones parafiscales unificadas a que se refiere el artículo dé
 | Tasa por transmisión de documento de prioridad | 29,69 |
 | Tasa de examen preliminar internacional | 583,65 |
 | Tasa adicional de examen preliminar internacional | 583,65 |
+
+> Véase, en cuanto a la modificación de los importes de las tasas contenidas en este Anexo, el art. 96 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-90
