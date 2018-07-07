@@ -1,0 +1,55 @@
+## Artículo 8. Secretaría General Técnica-Secretariado del Gobierno.
+
+1. Corresponde a la Secretaría General Técnica-Secretariado del Gobierno el ejercicio de las funciones que le atribuye la Ley 50/1997, de 27 de noviembre, y el artículo 65 de la Ley 40/2015, de 1 de octubre, y, en particular, el desempeño de las siguientes funciones:
+
+a) La realización de estudios e informes sobre las materias propias de la competencia del Departamento.
+
+b) El estudio e informe de los asuntos sobre los que hayan de deliberar el Consejo de Ministros, la Comisión General de Secretarios de Estado y Subsecretarios y las Comisiones Delegadas del Gobierno.
+
+c) La elaboración de los informes a que se refiere el artículo 26.5, párrafo cuarto, de la Ley 50/1997, de 27 de noviembre.
+
+d) La tramitación y, en su caso, elaboración de las disposiciones de carácter general en materias propias del Departamento. De igual forma, le corresponde el estudio, tramitación y, en su caso, elaboración de las órdenes del titular del Ministerio de la Presidencia, Relaciones con las Cortes e Igualdad dictadas a propuesta de los titulares de los ministerios interesados, de acuerdo con lo previsto en el artículo 24.1.f) de la Ley 50/1997, de 27 de noviembre.
+
+e) El informe, archivo, custodia y evaluación de la ejecución de los convenios que suscriba el Departamento.
+
+f) La tramitación de tratados o convenios de carácter internacional en materias que afecten al Departamento.
+
+g) La tramitación de recursos y reclamaciones de la competencia del Departamento. También le corresponden las relaciones del Ministerio con los Juzgados y Tribunales de Justicia, así como la tramitación de las peticiones recibidas en el Ministerio en ejercicio del derecho de petición previsto en el artículo 29 de la Constitución Española.
+
+h) La programación, coordinación y evaluación de las actividades editoriales de la Administración General del Estado, así como la propuesta y ejecución de la política editora del Departamento.
+
+i) La prestación de asistencia documental a los distintos servicios del Departamento, así como la clasificación, catalogación y custodia de los fondos bibliográficos, documentales y archivísticos.
+
+j) La realización de estudios e informes sobre los aspectos jurídico-administrativos generales derivados de la pertenencia a la Unión Europea.
+
+k) El seguimiento y la realización de informes sobre las cuestiones constitucionales que puedan suscitarse en relación con las distintas iniciativas parlamentarias, que le sean solicitados por la Secretaría de Estado de Relaciones con las Cortes.
+
+l) El análisis y recopilación de la legislación extranjera, en especial la relativa a los países miembros de la Unión Europea.
+
+m) La coordinación de la actividad del Ministerio en el ámbito de la cooperación y de las relaciones internacionales.
+
+n) La preparación de las reuniones del Consejo de Ministros, de las Comisiones Delegadas del Gobierno y de la Comisión General de Secretarios de Estado y Subsecretarios; la determinación de las disposiciones que deban tramitarse como conjuntas; la distribución del orden del día y de cuantos datos y antecedentes precisen los miembros de los órganos colegiados expresados para conocer los asuntos sometidos a deliberación, y la preparación y custodia de las actas de los acuerdos adoptados, velando por su ejecución.
+
+ñ) Velar por el cumplimiento de las instrucciones sobre la tramitación de los asuntos de los órganos colegiados del Gobierno, así como impulsar la implantación de nuevas tecnologías en este ámbito, en colaboración con la Subdirección General de Tecnologías y Servicios de Información.
+
+o) Velar por la mejora de la calidad técnica de las resoluciones y disposiciones emanadas de los órganos colegiados del Gobierno, a través de la elaboración, actualización y difusión de directrices.
+
+p) La ejecución de los acuerdos adoptados por el Consejo de Ministros en relación con los conflictos constitucionales y con los procedimientos de declaración de inconstitucionalidad.
+
+q) La ordenación y control de la publicación de las disposiciones y actos administrativos que deban insertarse en el «Boletín Oficial del Estado», velando especialmente por el orden de prioridad de las inserciones, la salvaguardia de las competencias de los distintos órganos de la Administración y el cumplimiento de los requisitos formales necesarios en cada caso.
+
+2. Dependen de la Secretaría General Técnica-Secretariado del Gobierno los siguientes órganos, con nivel orgánico de subdirección general:
+
+a) La Vicesecretaría General Técnica, que ejerce las competencias a las que se refieren las letras a), c), d) y e) del apartado 1 de este artículo.
+
+b) La Subdirección General de Informes y Estudios Internacionales, que desempeña las funciones a que se refieren las letras b), f), j), k), l) y m) del apartado 1 de este artículo.
+
+c) La Subdirección General de Publicaciones, Documentación y Archivo, a la que corresponde el ejercicio de las competencias indicadas en las letras h) y i) del apartado 1 de este artículo.
+
+d) La Oficina del Secretariado del Gobierno, que desempeña las funciones a que se refieren las letras n), ñ) y o) del apartado 1 de este artículo.
+
+e) La Subdirección General de Seguimiento de Acuerdos y Disposiciones, que ejerce las competencias señaladas en las letras p) y q) del apartado 1 de este artículo.
+
+f) La Subdirección General de Recursos y Relaciones con los Tribunales, que desempeña las funciones indicadas en la letra g) del apartado 1 de este artículo.
+
+3. Asimismo, la persona titular de la Secretaría General Técnica-Secretariado del Gobierno ejerce las funciones de secretario adjunto de la Comisión General del Secretarios de Estado y Subsecretarios.
