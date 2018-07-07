@@ -1,3 +1,5 @@
 ## Disposición transitoria única. Subsidio por desempleo para mayores de 55 años.
 
-A los titulares del derecho al subsidio por desempleo previsto en el artículo 215.1.3) del texto refundido de la Ley General de la Seguridad Social, cuyo nacimiento del derecho se haya iniciado con anterioridad a la entrada en vigor de este real decreto-ley, les será de aplicación la normativa sobre el requisito de carencia de rentas vigente en ese momento durante toda la duración del subsidio, siendo de aplicación lo previsto en el apartado uno de la disposición final primera de este real decreto-ley a aquellas solicitudes cuyo nacimiento del derecho al subsidio se inicie a partir de la fecha de su entrada en vigor.
+(Anulada).
+
+> Se declara la inconstitucionalidad y nulidad, con los efectos indicados en el fundamento jurídico 11, por Sentencia del TC 61/2018, de 7 de junio. Ref. BOE-A-2018-9537

@@ -11,3 +11,5 @@ La letra a) del apartado 1 del artículo 4 del Reglamento General sobre procedim
 Corresponderá la imposición de sanción a la Dirección Provincial del Servicio Público de Empleo Estatal o, en su caso, del Instituto Social de la Marina, cuando la sanción afecte a prestaciones por desempleo, en los supuestos previstos en el apartado 4 del artículo 21, en los apartados 4, 6, 8, 13 y 14 del artículo 22 y en las letras a), c), e) y g) del artículo 23.1.
 
 3.º La Dirección Provincial del Servicio Público de Empleo Estatal, en el supuesto previsto como infracción grave en el artículo 22. 9 cuando se trate de bonificaciones y como infracción muy grave en la letra h) del artículo 23.1.»
+
+> Véase la Sentencia del TC 61/2018, de 7 de junio. Ref. BOE-A-2018-9537, que declara la inconstitucionalidad y nulidad, con los efectos indicados en el fundamento jurídico 11, de esta disposición final.

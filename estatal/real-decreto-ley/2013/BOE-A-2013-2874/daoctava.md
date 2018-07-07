@@ -1,3 +1,5 @@
 ## Disposición adicional octava. Políticas activas de empleo para mayores de 55 años.
 
-Los trabajadores mayores de 55 años que hayan agotado la prestación por desempleo de nivel contributivo o cualquiera de los subsidios por desempleo establecidos en el texto refundido de la Ley General de Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, o no tengan derecho a los mismos, tendrán la condición de colectivo prioritario para su participación en las acciones y medidas de políticas activas de empleo que desarrollen los Servicios Públicos de Empleo a los efectos previstos en el artículo 19 octies de la Ley 56/2003, de 16 de diciembre, de Empleo.
+(Anulada).
+
+> Se declara la inconstitucionalidad y nulidad, con los efectos indicados en el fundamento jurídico 11, por Sentencia del TC 61/2018, de 7 de junio. Ref. BOE-A-2018-9537

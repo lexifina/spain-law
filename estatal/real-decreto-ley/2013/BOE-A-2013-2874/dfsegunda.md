@@ -9,3 +9,5 @@ Uno. El apartado 2 del artículo 6, queda redactado en los siguientes términos:
 Dos. La letra a) del apartado 1 del artículo 7, queda redactada en los siguientes términos:
 
 «a) Que el cónyuge del pensionista no sea, a su vez, titular de una pensión a cargo de un régimen básico público de previsión social, entendiendo comprendidos en dicho concepto las pensiones reconocidas por otro Estado, así como los subsidios de garantía de ingresos mínimos y de ayuda por tercera persona, ambos de la Ley 13/1982, de 7 de abril, de Integración Social de los Minusválidos, y las pensiones asistenciales reguladas en la Ley 45/1960, de 21 de julio.»
+
+> Véase la Sentencia del TC 61/2018, de 7 de junio. Ref. BOE-A-2018-9537, que declara la inconstitucionalidad y nulidad, con los efectos indicados en el fundamento jurídico 11, de esta disposición final.

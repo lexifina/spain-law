@@ -6,4 +6,6 @@ Las reglas 2.ª y 4.ª del apartado 1 de la disposición adicional primera del R
 
 «4.ª Una vez calculado por la Tesorería General de la Seguridad Social el importe total de la cotización a ingresar por este convenio especial, su abono se podrá realizar mediante un pago único o mediante un pago fraccionado en un número máximo de mensualidades igual al triple de aquellas por las que se formalice el convenio.»
 
+> Véase la Sentencia del TC 61/2018, de 7 de junio. Ref. BOE-A-2018-9537, que declara la inconstitucionalidad y nulidad, con los efectos indicados en el fundamento jurídico 11, de esta disposición final.
+
 > Redactado conforme a la corrección de errores y erratas publicada en BOE núm. 81, de 4 de abril de 2013. Ref. BOE-A-2013-3609.
