@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 7 de julio de 2018, en las materias competencia del Ministerio de Cultura y Deporte, por la disposición derogatoria única del Real Decreto 817/2018, de 6 de julio. Ref. BOE-A-2018-9465#dd

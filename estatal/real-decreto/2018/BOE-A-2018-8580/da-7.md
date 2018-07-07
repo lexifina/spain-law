@@ -20,8 +20,16 @@ h) Dirección General de Cartera Básica de Servicios del Sistema Nacional de Sa
 
 i) Dirección General del Instituto de la Mujer y para la Igualdad de Oportunidades.
 
-j) Presidencia del Centro de Investigaciones Sociológicas
+j) Presidencia del Centro de Investigaciones Sociológicas.
+
+k) Dirección General del Libro y Fomento de la Lectura.
+
+l) Dirección General de Industrias Culturales y Cooperación.
+
+m) Dirección General de Tráfico.
 
 2. De conformidad con lo previsto en el segundo párrafo del artículo 100.1 en relación con el artículo 66.2 de la Ley 40/2015, de 1 de octubre, no será preciso que la persona titular de la Dirección General del Instituto de Turismo de España (TURESPAÑA) (O.A.), ostente la condición de funcionario, en atención a las características específicas del organismo.
+
+> Se modifica el apartado 1 por la disposición final 4 del Real Decreto 817/2018, de 6 de julio. Ref. BOE-A-2018-9465#df-4
 
 > Se añaden las letras i) y j) al apartado 1 por el art. único.4 del Real Decreto 698/2018, de 29 de junio. Ref. BOE-A-2018-9033
