@@ -8,7 +8,7 @@
 
 Quienes tras haber desempeñado durante tres o más años el cargo de Secretario general o de Secretario general adjunto, o ambos sucesivamente, se mantuvieran al servicio del Tribunal como letrados percibirán un complemento específico igual al que corresponda a los letrados Jefes de Servicio.
 
-4. No obstante lo dispuesto en el número primero de este artículo, los trienios de los Letrados adscritos tendrán la regulación y cuantías correspondientes a los Cuerpos y Escalas de los que procedan.
+> Se deroga el apartado 4, con efectos de 1 de julio de 2018, por el art. único del Acuerdo de 2 de julio de 2018. Ref. BOE-A-2018-9543
 
 > Se modifica el apartado 3 por el art. único.36 del Acuerdo de 1 de abril de 2011. Ref. BOE-A-2011-6009.
 
