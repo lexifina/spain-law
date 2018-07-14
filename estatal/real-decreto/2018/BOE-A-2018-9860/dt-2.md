@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Gestión temporal de medios y servicios.
+
+De conformidad con lo dispuesto en la disposición transitoria tercera del Real Decreto 595/2018, de 22 de junio, por el que se establece la estructura orgánica básica de los departamentos ministeriales, hasta que se produzca la integración efectiva de los créditos presupuestarios y los medios materiales y personales adscritos a las funciones que hayan sido asignadas al Ministerio de Ciencia, Innovación y Universidades, los servicios comunes de los Ministerios de Educación y Formación Profesional y de Economía y Empresa seguirán prestando dichos servicios al Ministerio de Ciencia, Innovación y Universidades a los que correspondan dichas áreas de actividad.

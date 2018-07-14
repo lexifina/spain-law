@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 14 de julio de 2018, en aquéllas materias que han sido asumidas por el Ministerio de Ciencia, Innovación y Universidades por la disposición derogatoria única del Real Decreto 865/2018, de 13 de julio. Ref. BOE-A-2018-9860#dd
