@@ -2,11 +2,11 @@
 
 ## Tablas de devolución del Impuesto sobre el Valor Añadido a viajeros
 
-Operaciones gravadas al tipo general del 21 por 100:
+Operaciones gravadas al tipo general del 21 por 100
 
 | Valor de compra (en euros) (IVA incluido) | Devolución mínima | Valor de compra (en euros) (IVA incluido) | Devolución mínima |
 | --- | --- | --- | --- |
-| 90,16-100,00 | 10,50 | 625,01-650,00 | 82,50 |
+| Hasta 100,00 | 10,50 % | 625,01-650,00 | 82,50 |
 | 100,01-125,00 | 13,00 | 650,01-675,00 | 85,50 |
 | 125,01-150,00 | 16,50 | 675,01-700,00 | 89,50 |
 | 150,01-175,00 | 19,50 | 700,00-725,00 | 92,00 |
@@ -29,15 +29,17 @@ Operaciones gravadas al tipo general del 21 por 100:
 | 575,01-600,00 | 75,50 | >5.000,00 | 15,70 % |
 | 600,01-625,00 | 78,50 |  |  |
 
-Operaciones gravadas al tipo reducido del 10 por 100:
+Operaciones gravadas al tipo reducido del 10 por 100
 
 | Valor de compra (en euros) (IVA incluido) | Devolución mínima |
 | --- | --- |
-| 90,16-220,00 | 5 % |
+| Hasta 220,00 | 5 % |
 | >220,00 | 7 % |
 
-Operaciones gravadas al tipo reducido del 4 por 100:
+Operaciones gravadas al tipo reducido del 4 por 100
 
 | Valor de compra (en euros) (IVA incluido) | Devolución mínima |
 | --- | --- |
-| >90,15 | 2 % |
+| Valor de compra (en euros) (IVA incluido) | 2 % |
+
+> Se sustituye por el que figura como anexo de la Orden HAC/748/2018, de 4 de julio, según establece su art. único.2. Ref. BOE-A-2018-9855
