@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Consolidación de las Unidades de Tecnologías de la Información.
+
+En el ejercicio de las funciones de impulso, coordinación y racionalización de la política en materia de tecnologías de la información y comunicaciones del Ministerio y de sus diferentes organismos, la Subsecretaría de Política Territorial y Función Pública y la Secretaría General de Administración Digital promoverán, en colaboración con las Unidades competentes de los organismos públicos adscritos, la consolidación de los recursos humanos, económico-presupuestarios, técnicos y materiales vinculados.
