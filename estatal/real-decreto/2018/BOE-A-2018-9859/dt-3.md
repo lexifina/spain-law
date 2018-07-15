@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Integración de personal y medios
+
+Hasta que no se produzca la integración de personal y medios prevista en la disposición adicional tercera del Real Decreto 903/2017, de 13 de octubre, por el que se desarrolla la estructura orgánica básica del Ministerio de Energía, Turismo y Agenda Digital, y por Orden de la Ministra de la Presidencia, Relaciones con las Cortes e Igualdad se determine la fecha de ejercicio efectivo por el Ministerio para la Transición Ecológica de las funciones en materia de energía a que se hace referencia en esta disposición, de acuerdo con la disposición transitoria cuarta de la Ley 3/2013, de 4 de junio, tales funciones seguirán siendo desempeñadas por la Comisión Nacional de los Mercados y de la Competencia.
