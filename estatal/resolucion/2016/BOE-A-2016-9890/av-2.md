@@ -1,8 +1,8 @@
 ## ANEXO VI
 
-## Ingreso de depósitos: Registros en la pasarela de depósitos de subastas de la Agencia Tributaria
+## Ingreso de depósitos: Registros en la pasarela de Depósitos de Subastas de la Agencia Tributaria
 
-1. Registro de orden de cargo
+1. Registro de orden de cargo.
 
 | N.º | POS. | LONG. | Tipo | Descripción |
 | --- | --- | --- | --- | --- |
@@ -16,7 +16,7 @@
 | 8 | 40 | 9 | An | NIF del titular del depósito (XNNNNNNNX). |
 | 9 | 49 | 4 | N | Ceros. |
 | 10 | 53 | 13 | N | Importe del ingreso. (Ajustado a la derecha y relleno de ceros a la izquierda). |
-| 11 | 66 | 13 | N | Número de justificante. |
+| 11 | 66 | 13 | An | Número de justificante (en el caso de consulta irá a blancos). |
 | 12 | 79 | 20 | N | Reservado. |
 | 13 | 99 | 22 | An | NRC de la constitución del depósito. |
 | 14 | 121 | 8 | N | AAAAMMDD fecha constitución depósito. |
@@ -32,9 +32,9 @@ El MAC de 8 será generado a partir del contenido de las 128 primeras posiciones
 
 Existe la posibilidad de que los datos de los campos 4 en adelante se transmitan cifrados, además del cifrado que realiza el SSL. La clave y sistema de este cifrado se acordará entre la Entidad y la Agencia Tributaria.
 
-2. Registro de comunicación del NRC
+2. Registro de comunicación del NRC.
 
-| N.º | POS. | LONG. | Tipo | Descripción |
+| N.º | POS. | LONG. | TIPO | DESCRIPCIÓN |
 | --- | --- | --- | --- | --- |
 | 1 | 1 | 3 | An | Tipo de operación. 005 Ingreso de Depósitos. |
 | 2 | 4 | 2 | An | Alta 01, Consulta 02. |
@@ -44,7 +44,7 @@ Existe la posibilidad de que los datos de los campos 4 en adelante se transmitan
 | 6 | 24 | 4 | An | Letras de etiqueta en personas físicas. |
 | 7 | 28 | 5 | N | Ceros. |
 | 8 | 33 | 13 | N | Importe del ingreso. (Ajustado a la derecha y relleno de ceros a la izquierda). |
-| 9 | 46 | 13 | N | Número de justificante. |
+| 9 | 46 | 13 | An | Número de justificante (en el caso de consulta irá a blancos). |
 | 10 | 59 | 20 | N | Reservado. |
 | 11 | 79 | 11 | N | Ceros. |
 | 12 | 90 | 8 | N | Fecha de la operación (AAAAMMDD). |
@@ -54,3 +54,9 @@ Existe la posibilidad de que los datos de los campos 4 en adelante se transmitan
 | 16 | 123 | 34 | An | Código IBAN. |
 | 17 | 157 | 54 | An | Reservado para posibles ampliaciones. |
 | 18 | 211 | 189 | An | Libre. |
+
+> Téngase en cuenta que esta actualización, establecida por el apartado 1.4 de la Resolución de 4 de junio de 2018. Ref. BOE-A-2018-7835, será de aplicación desde el 16 de julio de 2018, según determina su apartado 2.
+
+> Se modifica por el apartado 1.4 de la Resolución de 4 de junio de 2018. Ref. BOE-A-2018-7835.
+
+> Esta modificación será de aplicación desde el 16 de julio de 2018, según determina el apartado 2 de la citada Resolución.
