@@ -1,7 +1,9 @@
-## Norma quinta. Forma de remisión del informe anual de gobierno corporativo.
+## Norma quinta. Instrucciones de cumplimentación.
 
-1. Para su difusión como Hecho Relevante y a los efectos del tratamiento de la información con fines estadísticos, así como la publicación de información prevista en el apartado 5 del artículo 61 bis de la Ley 24/1988 de 28 de julio, del Mercado de Valores, los informes previstos en las normas primera, segunda y tercera de la presente Circular serán objeto de presentación en el Registro Electrónico de la CNMV, de acuerdo con lo establecido en la Resolución del Presidente de la Comisión Nacional del Mercado de Valores de 16 de noviembre de 2011, por la que se crea y regula el Registro Electrónico de la CNMV, como documento electrónico normalizado a través del trámite habilitado a tal efecto en el servicio CIFRADOC/CNMV.
+Al elaborar los informes anuales de gobierno corporativo, las entidades tendrán en cuenta las instrucciones de cumplimentación que acompañan a cada uno de los respectivos modelos que les sean de aplicación, de los definidos en los anexos I, II, III y IV en la presente Circular.
 
-2. La obligación de remisión se entenderá cumplida cuando la entidad reciba por vía telemática de la CNMV un mensaje de incorporación correcta del correspondiente informe.
+Estas mismas instrucciones deberán tenerse en cuenta en la cumplimentación de los anexos estadísticos mencionados en la Norma sexta.
 
-3. No obstante lo dispuesto en los apartados anteriores y a solicitud de la entidad, la CNMV con carácter excepcional y por causas justificadas, podrá autorizar que los informes previstos en las normas primera, segunda y tercera de la presente Circular sean remitidos por otro medio en el modelo que proceda de conformidad con los anexos I, II y III, sin que ello exima a la entidad obligada de la posterior remisión del informe como documento electrónico normalizado a través del trámite habilitado a tal efecto en el servicio CIFRADOC/CNMV.
+> Se modifica por la norma segunda.5 de la Circular 2/2018, de 12 de junio. Ref. BOE-A-2018-9935
+
+> Téngase en cuenta la disposición final única para su aplicación. Su anterior numeración era norma cuarta.
