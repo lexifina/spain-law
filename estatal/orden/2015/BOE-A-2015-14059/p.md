@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada por Orden ECD/43/2016, de 22 de enero. Ref. BOE-A-2016-718.
+Norma derogada, con efectos de 20 de julio de 2018, por la disposición derogatoria única de la Orden CUD/769/2018, de 17 de julio, Ref. BOE-A-2018-10176#dd, sin perjuicio de lo establecido en la disposición transitoria primera de la misma.
