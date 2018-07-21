@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 230, de 23 de septiembre de 2017. Ref. BOE-A-2017-10830
+Norma derogada, con efectos de 21 de julio de 2018, por la disposición derogatoria única del Real Decreto 903/2018, de 20 de julio. Ref. BOE-A-2018-10244#dd
