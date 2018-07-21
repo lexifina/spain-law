@@ -71,6 +71,14 @@
 | 24 |  | (R,S)-1-(1,3-benzodioxol-5-ilo)-2-(metilamino)propano-1-ona (Metilona,beta-ceto-MDMA) |
 | 25 |  | α-pirrolidinovalerofenona (α-PVP) |
 | 26 |  | para-metil-4-metilaminorex (4,4´- DMAR) |
+| 27 |  | 4-metiletcatinona (4-MEC) |
+| 28 |  | etilona |
+| 29 |  | pentedrona |
+| 30 |  | etilfenidato |
+| 31 |  | metiopropamina (MPA) |
+| 32 |  | MDMB-CHMICA |
+| 33 |  | 5F-APINACA (5F-AKB-48) |
+| 34 |  | XLR-11 |
 | Sustancias de la lista III |
 | 1 AMOBARBITAL |  | Ácido 5-etil-5-isopentilbarbitúrico |
 | 2 BUPRENORFINA |  | 2l-ciclopropil-7-α-[(S)-1-hidroxi-1,2,2-trimetilpropil]-6,14-endo-etano-6,7,8,14-tetrahidrooripavina |
@@ -145,6 +153,10 @@
 | 61 TRIAZOLAM |  | 8-cloro-6-(o-clorofenil)-1-metil-4H-s-triazolo-[4,3-α][1,4]benzodiacepina |
 | 62 VINILBITAL |  | ácido 5-[1-metilbutil]-5-vinilbarbitúrico |
 | 63 ZOLPIDEM |  | [N,N,6-trimetil-2-p-tolilimidazol (1,2-α)piridina-3-acetamida] |
+
+> Véase el art. único de la Orden SCB/770/2018, de 12 de julio. Ref. BOE-A-2018-10185, en relación a la inclusión de ocho nuevas sustancias en la lista II.
+
+> Téngase en cuenta para su aplicación la disposición adicional única.
 
 > Véanse los arts. 1 y 2 de la Orden SSI/1070/2017, de 31 de octubre. Ref. BOE-A-2017-12842, en relación a la inclusión de sustancias en las listas II y IV.
 
