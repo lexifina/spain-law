@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Consejerías del Ministerio de Agricultura, Pesca y Alimentación en el exterior.
+
+En el marco de la Ley 2/2014, de 25 de marzo, de Acción Exterior del Estado, y dependientes de la Subsecretaría de Agricultura, Pesca y Alimentación existirán Consejerías de Agricultura, Pesca y Alimentación como órganos especializados de carácter técnico de las Embajadas y Representaciones Permanentes de España para el desarrollo de las funciones propias del Ministerio en el ámbito internacional. A estos efectos, le serán adscritas aquellas Consejerías en el exterior cuyas funciones estuvieran vinculadas a materias propias de este Departamento.

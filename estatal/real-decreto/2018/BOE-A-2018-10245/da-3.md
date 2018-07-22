@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Consolidación unidades de tecnologías de información y comunicaciones.
+
+En el ejercicio de las funciones de ejecución y desarrollo de la política en materia de tecnologías de la información y comunicaciones en el ámbito de competencias del Ministerio, la Subdirección General de Sistemas Informáticos y Comunicaciones promoverá, en colaboración con las unidades competentes del Ministerio y de sus organismos adscritos, la consolidación de los recursos humanos, económico-presupuestarios, técnicos y materiales vinculados.
+
+Asimismo, con el fin racionalizar del gasto y garantizar la no interrupción de los servicios básicos, se mantendrán en el Ministerio de Agricultura, Pesca y Alimentación los recursos TIC previamente consolidados en las unidades TIC del extinto Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente como Ministerio de origen y con independencia del Departamento al que estén adscritos, articulándose los acuerdos de colaboración que resulten necesarios para la prestación de los servicios.
