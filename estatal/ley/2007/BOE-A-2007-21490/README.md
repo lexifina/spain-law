@@ -105,6 +105,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO III](ciii-6.md)
 - [Artículo 64](a64.md)
 - [Artículo 64 bis](a64bis.md)
+- [Artículo 64 ter](a6-2.md)
+- [Artículo 64 quáter](a6-3.md)
 - [CAPÍTULO IV](civ-6.md)
 - [TÍTULO IV](tiv.md)
 - [CAPÍTULO I](ci-4.md)
