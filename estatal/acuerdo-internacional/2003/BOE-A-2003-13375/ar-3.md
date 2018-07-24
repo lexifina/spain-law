@@ -26,6 +26,8 @@ h) La expresión «autoridad competente» significa:
 
 1.º En el caso de España, el Ministro de Economía y Hacienda o su representante autorizado; y
 
-2.º En el caso de Bélgica, el Director General de impuestos directos.
+2.º En el caso de Bélgica, según el caso, el Ministro de Hacienda del Gobierno federal o del Gobierno de una región o de una comunidad, o su representante autorizado.
 
 2. Para la aplicación del Convenio por un Estado contratante cualquier expresión no definida en el mismo tendrá, a menos que de su contexto se infiera una interpretación diferente, el significado que le atribuya la legislación de ese Estado relativa a los impuestos que son objeto del Convenio.
+
+> Se modifica el apartado 1.h).2 por el art. I del Protocolo de 15 de abril de 2014. Ref. BOE-A-2018-10992
