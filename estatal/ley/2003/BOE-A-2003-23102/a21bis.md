@@ -12,6 +12,8 @@ Las agencias de colocación podrán iniciar su actividad desde el día de la pre
 
 La inexactitud o falsedad en cualquier dato, manifestación o documento, de carácter esencial, que se hubiera acompañado o incorporado a la declaración responsable, determinarán la imposibilidad de continuar con la actividad como agencia de colocación, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiere lugar.
 
+> Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado del apartado 2, en la redacción dada por la Ley 18/2014, de 15 de octubre, por Sentencia del TC 69/2018, de 21 de junio. Ref. BOE-A-2018-10511
+
 3. Reglamentariamente, se regulará un sistema electrónico común que permita integrar el conjunto de la información proporcionada por el Servicio Público de Empleo Estatal y por los Servicios Públicos de empleo de las Comunidades Autónomas respecto a las agencias de colocación de manera que éstos puedan conocer en todo momento las agencias que operan en su territorio.
 
 4. En todo caso, sin perjuicio de las obligaciones previstas en este Capítulo y de las específicas que se determinen reglamentariamente, las agencias de colocación deberán:
@@ -33,6 +35,8 @@ g) Garantizar, en su ámbito de actuación, el principio de igualdad en el acces
 5. Las agencias de colocación podrán ser consideradas entidades colaboradoras de los servicios públicos de empleo, con el alcance previsto en las normas de desarrollo de esta Ley.
 
 El instrumento jurídico en que se articule esta colaboración deberá regular los mecanismos de comunicación por parte de las agencias de colocación de los incumplimientos de las obligaciones de los trabajadores y de los solicitantes y beneficiarios de prestaciones por desempleo previstas en el artículo 231.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio.
+
+> Se declara inconstitucional y nulo el inciso destacado del apartado 2, en la redacción dada por la Ley 18/2014, de 15 de octubre, por Sentencia del TC 69/2018, de 21 de junio. Ref. BOE-A-2018-10511
 
 > Se suprime el apartado 4.c) y se modifica el 5 por la disposición final 5 del Real Decreto-ley 16/2014, de 19 de diciembre. Ref. BOE-A-2014-13249.
 
