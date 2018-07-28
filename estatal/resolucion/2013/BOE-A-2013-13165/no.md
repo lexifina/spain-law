@@ -1,0 +1,1 @@
+Esta disposición ha sido sustituida, con efectos de 28 de julio de 2018, por la Instrucción aprobada por Acuerdo de 28 de junio de 2018, publicado por Resolución de 20 de julio de 2018. Ref. BOE-A-2018-10655
