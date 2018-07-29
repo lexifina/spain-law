@@ -1,0 +1,3 @@
+## IV. Requerimiento de otra documentación
+
+Con independencia de la información y documentación señalada en los epígrafes anteriores, el Tribunal de Cuentas podrá requerir el envío de documentación adicional en relación con los contratos y convenios de cualquier naturaleza y cuantía, en aplicación del artículo 40.2 de la LFTCu, 335.3 de la LCSP y 53.3 de la Ley 40/2015. Los requerimientos deberán ser atendidos en los plazos y términos en ellos establecidos en cumplimiento del deber de colaboración con el Tribunal de Cuentas que tienen todas las entidades integrantes del sector público, consagrado en los artículos 7 de la LOTCu y 30 de la LFTCu.
