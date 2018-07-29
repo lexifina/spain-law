@@ -30,4 +30,8 @@ k) El seguimiento y control de los gastos con financiación afectada.
 
 l) Llevar la gestión del Registro contable de facturas.
 
+m) Llevar la gestión del Registro de cesiones de crédito de la Administración General del Estado.
+
+> Se añade la letra m) por el art. 3.1 de la Orden HAC/787/2018, de 25 de julio. Ref. BOE-A-2018-10649
+
 > Se añade la letra l) por el art. 4.1 de la Orden HAP/336/2014, de 4 de marzo. Ref. BOE-A-2014-2486.

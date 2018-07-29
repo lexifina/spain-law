@@ -220,7 +220,9 @@ Cuando se utilicen documentos «Anexo Aplicaciones», en aquellos documentos a l
 
 22. Importe: Importe en cifras correspondiente a cada anualidad a las que se refiere la nota 21 anterior.
 
-23. Cesionario: Se indicará el número de identificación fiscal y la denominación del cesionario, cuando se haya producido la transmisión del derecho de cobro del interesado frente a la Administración
+23. Cesionario: Se indicará el número de identificación fiscal y la denominación del cesionario, cuando se haya producido la transmisión del derecho de cobro del interesado frente a la Administración.
+
+También se cumplimentará este campo cuando así se establezca en el procedimiento contable para el caso de los pagos a través de los agentes mediadores en el pago y pagos a otros perceptores que no se deriven de contratos con la Administración. En este caso, no se deberá cumplimentar en el documento contable el «Número de Registro de cesiones de créditos.
 
 24. Iban del perceptor y Bic: Código Iban y código Bic de la cuenta bancaria del interesado o cesionario en la que debe abonarse el importe.
 
@@ -842,7 +844,9 @@ Se cumplimentará este código en los documentos contables que incorporen las fa
 
 238. Código del RCF: Se cumplimentará el código asignado en el Registro contable de facturas a cada factura incluida en el documento contable.
 
-Si en un documento contable se incluyen más de cuatro facturas se utilizarán tantos documentos "Anexo información adicionalˮ como sean necesarios para consignar el código del RCF relativo a dichas facturas.
+Si el documento contable incluye una o dos facturas, los códigos del RCF se consignarán en el “Anexo información adicional”.
+
+Si el documento contable incluye más de dos facturas, los códigos del RCF se consignarán en el “Anexo adicional de facturas”, debiendo utilizarse tantos documentos contables “Anexo adicional de facturas” como sean necesarios.
 
 239. Reintegros de pagos a justificar: En los campos de este apartado se consignará la fecha del reintegro, el número de justificante del ingreso y el importe total reintegrado.
 
@@ -872,7 +876,11 @@ La cumplimentación del NCIS será obligatoria en los documentos contables que c
 
 Asimismo, será obligatoria la cumplimentación del NCIS en los documentos contables de “Control de pagos a justificar” que se refieran a la fase de “presentación” de la cuenta justificativa cuando la cuenta justificativa presentada incluya operaciones del capítulo VI, “inversiones reales” del presupuesto de gastos, que no deban incluirse en el sistema de inventario CIBI.
 
+246. Número de Registro de cesiones de créditos: Número a incluir en el correspondiente documento contable por el Servicio gestor para indicar que la operación correspondiente a dicho documento contable ha sido objeto de cesión, correspondiendo dicho número al asignado por el Registro de cesiones de créditos.
+
 (*) Unidad de cuenta: Se indicará la unidad de cuenta en la que ha sido tramitado el expediente de gasto: Pesetas (P) o euros (E).
+
+> Se modifican las notas aclaratorias 23, 238 y se añade la nota aclaratoria 246 por el art. 1.3 de la Orden HAC/787/2018, de 25 de julio. Ref. BOE-A-2018-10649
 
 > Se añade la nota aclaratoria 245 por el art. 1.2 de la Orden HFP/1105/2017, de 16 de noviembre. Ref. BOE-A-2017-13278
 

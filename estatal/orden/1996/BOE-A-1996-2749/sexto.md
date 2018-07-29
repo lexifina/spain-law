@@ -64,7 +64,15 @@ w´) Documento “Anexo imputación al presupuesto de operaciones devengadas”:
 
 Con el fin de realizar el control y seguimiento de que las obligaciones que se han reconocido en la cuenta 413, “Acreedores por operaciones devengadas”, utilizando el documento contable “Operaciones devengadas” se imputen al presupuesto, es necesario que cuando se realice el registro contable de dicha aplicación al presupuesto mediante los correspondientes documentos contables OK o ADOK, se expida y acompañe a los anteriores este documento contable “Anexo imputación al presupuesto de operaciones devengadas” en el que deberá consignarse la aplicación presupuestaria que se consignó en el documento contable de “Operaciones devengadas” cuando se realizó su registro inicial, con independencia de cuál haya sido su imputación presupuestaria definitiva que podría ser distinta.
 
+x) Documento “Anexo adicional de facturas”: Se utilizará para completar los documentos contables que contengan la fase “O” de reconocimiento de la obligación del Presupuesto de gastos, con los códigos del Registro Contable de Facturas (RCF) correspondientes a las facturas incluidas en el documento contable a que acompaña, cuando el número de facturas incluidas en el mismo sea superior a dos.
+
+Se cumplimentarán tantos documentos contables “Anexo adicional de facturas” como sean necesarios para consignar el código de RCF relativo a dichas facturas.
+
+Si el número de facturas incluidas en el documento contable que contenga la fase “O” fuera solamente uno, o dos, no se utilizará este “Anexo adicional de facturas” para consignar los códigos del RCF de las facturas incluidas, sino que dichos códigos se incorporarán en el documento “Anexo Información Adicional”.
+
 2. Cuando se deba proceder a la anulación de cualquiera de las operaciones que se indican en el punto anterior, se expedirá un documento idéntico al confeccionado para el registro de la operación en cuestión pero de signo contrario.
+
+> Se añade la letra x) al apartado 1 por el art. 1.1 de la Orden HAC/787/2018, de 25 de julio. Ref. BOE-A-2018-10649
 
 > Se modifican la letras c) y d) y se añaden las letras d''), l'') y w') al apartado 1 por el art. 1.1 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
 

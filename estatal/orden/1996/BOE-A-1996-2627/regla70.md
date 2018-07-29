@@ -8,4 +8,8 @@ Si durante el ejercicio, dicha estimación resultase inadecuada, se expedirán l
 
 3. Sin perjuicio de lo indicado en los puntos anteriores, cuando por razones debidamente justificadas y siempre en orden a una más adecuada gestión en la ejecución de los créditos autorizados, se podrá aceptar la expedición de documentos ADOK por cada uno de los expedientes que se aprueben.
 
-4. El documento OK o, en su caso, ADOK, que contenga la respectiva propuesta de pago, se expedirá a favor del ente público que gestione las correspondientes aportaciones de cuotas sociales.
+4. El documento OK o, en su caso, ADOK, correspondiente a las aportaciones a los regímenes de la Seguridad Social, en aplicación del sistema de liquidación directa de cuotas por la Tesorería General de la Seguridad Social, se expedirá a favor de las correspondientes Habilitaciones o Pagadurías de Personal, a fin de que puedan efectuar el pago de dichas aportaciones, junto con las retenciones de las cuotas obreras, a favor de dicha Tesorería de acuerdo con los plazos previstos en dicho sistema.
+
+En la tramitación del resto de cuotas sociales a cargo de la Administración General del Estado, el documento OK o, en su caso, ADOK, se expedirá a favor del ente público que gestione dichas cuotas.
+
+> Se modifica el apartado 4 por el art. 2.2 de la Orden HAC/787/2018, de 25 de julio. Ref. BOE-A-2018-10649

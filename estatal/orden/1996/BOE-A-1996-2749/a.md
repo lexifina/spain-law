@@ -58,9 +58,13 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2008/51/03740_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/58/02486_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/182/10649_5116.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/182/10649_5340.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7808.png)
+
+> Se modifica el modelo «Anexo información adicional» y se añade el modelo «Anexo adicional de facturas» por el art. 1.4 y los anexos I y II de la Orden HAC/787/2018, de 25 de julio. Ref. BOE-A-2018-10649
 
 > Se modifican los documentos OK, ADOK y O por el art. 1.3 y el Anexo I de la Orden HFP/1105/2017, de 16 de noviembre. Ref. BOE-A-2017-13278
 

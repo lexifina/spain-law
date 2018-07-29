@@ -2,7 +2,7 @@
 
 1. En este capítulo se incluyen los siguientes documentos contables, cuyos modelos se han incorporado en el anexo II:
 
-a) Documento CA de «Certificaciones anticipadas»: Se utilizará para el registro de certificaciones de obra que se extiendan y aprueben excediendo del importe de la anualidad en curso, así como para la cesión de las mismas.
+a) Documento CA de “Certificaciones anticipadas”: Se utilizará para el registro de certificaciones de obra que se extiendan y aprueben excediendo del importe de la anualidad en curso, así como para la cesión de las mismas, en cuyo caso se complementará con el documento “Anexo información adicional”, regulado en el epígrafe w) del punto 1 del apartado Sexto de esta Orden, cumplimentado los datos relativos a la cesión en este documento.
 
 b) Documento “Operaciones devengadas”: se utilizará para el registro a 31 de diciembre de aquellas operaciones devengadas y no contabilizadas, de acuerdo a lo previsto en el apartado 2 de la regla 52 de la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado.
 
@@ -19,6 +19,8 @@ Las operaciones de modificación, baja y cancelación deberán ser registradas p
 e) Documento «Rectificación de operaciones devengadas»: Se utilizará para disminuir el saldo de la cuenta 4130 cuando, por errores, excesos de estimación u otras causas que no permitan el uso del «Anexo de imputación al presupuesto de operaciones devengadas», se disponga de mejor información en un ejercicio posterior al de contabilización del Documento de «Operaciones devengadas».
 
 2. Cuando se deba proceder a la anulación de las operaciones indicadas en las letras a) y b) del punto anterior se utilizarán los mismos documentos contables pero con signo negativo.
+
+> Se modifica la letra a) del apartado 1 por el art. 1.2 de la Orden HAC/787/2018, de 25 de julio. Ref. BOE-A-2018-10649
 
 > Se modifica la letra e) del apartado 1 por el art. 1.1 de la Orden HFP/1105/2017, de 16 de noviembre. Ref. BOE-A-2017-13278
 
