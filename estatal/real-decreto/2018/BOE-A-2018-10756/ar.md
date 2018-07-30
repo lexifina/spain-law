@@ -1,0 +1,13 @@
+## Artículo 1. Organización general del Departamento.
+
+1. Corresponde al Ministerio de Fomento la propuesta y ejecución de la política del Gobierno en los ámbitos de las infraestructuras de transporte terrestre, aéreo y marítimo, de competencia estatal; de control, ordenación y regulación administrativa de los servicios de transporte correspondientes; de acceso a la vivienda, de políticas urbanas y de suelo y de arquitectura, en el ámbito de las competencias de la Administración General del Estado; de ordenación normativa de los servicios postales; de impulso y dirección de los servicios estatales relativos a astronomía, geodesia, geofísica y cartografía; y de planificación y programación de las inversiones relativas a las infraestructuras, materias y servicios mencionados.
+
+2. El Ministerio de Fomento se estructura en los siguientes órganos directamente dependientes del titular del Departamento:
+
+a) La Secretaría de Estado de Infraestructuras, Transporte y Vivienda, de la que dependen la Secretaría General de Infraestructuras, la Secretaría General de Transporte y la Secretaría General de Vivienda.
+
+b) La Subsecretaría de Fomento.
+
+3. Como órgano de apoyo y asistencia inmediata al titular del Ministerio de Fomento existe un Gabinete, cuyo titular tiene el rango de director general, con la estructura que se establece en el artículo 18.2 del Real Decreto 595/2018, de 22 de junio, por el que se establece la estructura orgánica básica de los departamentos ministeriales.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 221, de 12 de septiembre de 2018. Ref. BOE-A-2018-12398

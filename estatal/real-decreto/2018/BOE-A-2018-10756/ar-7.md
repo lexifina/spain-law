@@ -1,0 +1,39 @@
+## Artículo 7. Dirección General de la Marina Mercante.
+
+1. La Dirección General de la Marina Mercante es el órgano competente para la ordenación general de la navegación marítima y de la flota civil española, en los términos establecidos en el texto refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por el Real Decreto Legislativo 2/2011, de 5 de septiembre, y le corresponden las siguientes funciones:
+
+a) El control del tráfico marítimo y del despacho. El registro y abanderamiento de buques; las instrucciones respecto del auxilio, salvamento, remolque, hallazgos y extracciones marítimas y la ejecución y control de la normativa de protección marítima, la seguridad de la navegación y del salvamento de la vida humana en la mar, homologación y control de centros de formación de enseñanzas profesionales marítimas, la participación en la Comisión de Faros u otros instrumentos de colaboración institucional en materia de señalización marítima, la coordinación de las emergencias marítimas, la activación de los equipos de evaluación de emergencias y el seguimiento y control de su actividad, así como de su formación y adiestramiento.
+
+b) La ordenación general de la actividad náutica de recreo, la gestión de las titulaciones náuticas, y el registro, control del personal marítimo civil y adecuación de las titulaciones profesionales de la marina mercante para el ejercicio en buques civiles.
+
+c) La expedición y renovación del Certificado de Trabajo Marítimo y la Declaración de Conformidad Laboral Marítima a que se refiere el Convenio de la Organización Internacional del Trabajo sobre el trabajo marítimo 2006, hecho en Ginebra el 23 de febrero de 2006.
+
+d) La dirección de la prevención y lucha contra la contaminación marina procedente de buques, embarcaciones y plataformas, así como de la limpieza de las aguas marinas.
+
+e) La composición mínima de las dotaciones de los buques civiles. La determinación del equipamiento mínimo de que deban ir provistos los buques y embarcaciones en función de los Convenios SOLAS, MARPOL y demás normas internacionales, supranacionales o nacionales derivadas de aquellos.
+
+f) La ordenación y ejecución de las inspecciones y controles técnicos, estructurales y de equipamiento de los buques civiles españoles, de los que se encuentran en construcción en España o en el extranjero y de los extranjeros cuando así se autorice por acuerdo internacional, en cumplimiento de la normativa mencionada en la letra anterior; la dirección y control de las inspecciones como Estado rector del puerto, y la supervisión de los sistemas de comunicaciones marítimas de acuerdo con los convenios internacionales, así como la realización de auditorías a las organizaciones reconocidas y autorizadas como entidades colaboradoras en materia de inspección marítima y la supervisión de seguridad de los operadores marítimos.
+
+g) La ordenación del establecimiento y aplicación del régimen tarifario y de prestación de servicios marítimos y la propuesta de establecimiento de obligaciones de servicio público y de contratos de servicio público.
+
+h) La elaboración y propuesta de la regulación sectorial, en particular la referida a despacho de buques; registro y abanderamiento; titulaciones que permitan el acceso a las profesiones de la marina mercante; inspección de buques.
+
+i) El asesoramiento jurídico interno, la tramitación de expedientes sancionadores, la emisión de informes y propuestas de resolución de recursos administrativos contra resoluciones de la Administración Marítima.
+
+j) La incorporación a derecho español de la legislación derivada de normas comunitarias europeas o de organizaciones internacionales. La coordinación de la actividad internacional de la Dirección General de la Marina Mercante, especialmente en lo relacionado con la Unión Europea y la Organización Marítima Internacional.
+
+k) La elaboración de la propuesta de anteproyecto de presupuestos y la gestión y tramitación de los créditos y gastos asignados al órgano directivo y la gestión de asuntos relativos a la contratación, la gestión de los servicios de régimen interior y del patrimonio inmobiliario utilizado por la Dirección General de la Marina Mercante, así como las Capitanías Marítimas y Distritos Marítimos, y la gestión administrativa del personal y la ordenación de los recursos humanos en dicho ámbito. El diseño, explotación y mantenimiento de los sistemas y medios electrónicos, informáticos y telemáticos precisos para el desarrollo de las funciones y la prestación de los servicios de información y asistencia al ciudadano; y el impulso y la gestión de la Administración electrónica; todo ello sin perjuicio de las competencias de la Subsecretaría de Fomento u otros órganos superiores o directivos del Departamento y en coordinación con ellos.
+
+l) La gestión y control de las bonificaciones al transporte marítimo de los residentes en las Comunidades Autónomas de Canarias, Illes Balears y las Ciudades Autónomas de Ceuta y Melilla, así como las de las familias numerosas.
+
+m) La gestión, en coordinación con la Dirección General de Aviación Civil, de las actuaciones que la normativa vigente asigna al Ministerio de Fomento relativas a las bonificaciones al transporte de mercancías con los territorios no peninsulares.
+
+n) La coordinación e impulso de las actuaciones que corresponde desarrollar a las Capitanías Marítimas y a los Distritos Marítimos, así como su inspección, evaluación y seguimiento.
+
+2. La Dirección General de la Marina Mercante se estructura en los siguientes órganos con rango de subdirección general:
+
+a) La Subdirección General de Seguridad, Contaminación e Inspección Marítima, a la que corresponde el ejercicio de las funciones descritas en el apartado 1.a), b), c), d), e), f) y g).
+
+b) La Subdirección General de Normativa Marítima y Cooperación Internacional, a la que corresponde el ejercicio de las funciones descritas en el apartado 1.h), i), j) y m).
+
+c) La Subdirección General de Coordinación y Gestión Administrativa, a la que corresponde el ejercicio de las funciones descritas en el apartado 1.k), l) y n).

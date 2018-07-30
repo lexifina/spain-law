@@ -1,0 +1,61 @@
+## Artículo 4. Dirección General de Carreteras.
+
+1. Corresponde a la Dirección General de Carreteras el ejercicio de las siguientes funciones en el ámbito de la Red de Carreteras del Estado:
+
+a) La actualización, seguimiento y control de la situación y funcionamiento de la Red de Carreteras del Estado, incluyendo el análisis, diagnosis y prognosis de la oferta vial y de la demanda del transporte.
+
+b) La elaboración y actualización de los inventarios de la Red de Carreteras del Estado, así como el establecimiento del sistema de gestión de la información de la Dirección General de Carreteras, además de la implantación, mantenimiento y explotación de sistemas inteligentes de transporte, sin perjuicio de las competencias del Ministerio del Interior y en coordinación con la Dirección General de Transporte Terrestre.
+
+c) La gestión de la cesión de los tramos de la Red de Carreteras del Estado que se transfieran a los Ayuntamientos y cambios de titularidad de carreteras existentes en virtud de acuerdo mutuo con otras administraciones públicas.
+
+d) El inventario, el análisis y el seguimiento de la accidentalidad, así como la elaboración de informes y estudios, además de la coordinación de los programas de formación inicial y de actualización periódica de conocimientos de los auditores de seguridad viaria y la gestión de los procedimientos de la seguridad de las infraestructuras viarias en servicio conforme al capítulo IV del Real Decreto 345/2011, de 11 de marzo, sobre gestión de la seguridad de las infraestructuras viarias en la Red de Carreteras del Estado, o procedimientos similares que la legislación comunitaria establezca, en el ámbito de las competencias del Departamento, sin perjuicio de las competencias del Ministerio del Interior.
+
+e) La elaboración de estudios e informes y la coordinación, inspección y control de las carreteras explotadas en concesión con peaje directo al usuario.
+
+f) La gestión del patrimonio vial y su defensa en las zonas de dominio público, de servidumbre y de afección.
+
+g) La gestión y seguimiento en materia de ruido, así como la elaboración de los mapas de ruido en la red de carreteras del Estado y su plan de acción.
+
+h) El proyecto y la coordinación, inspección y control de las concesiones de áreas de servicio.
+
+i) La elaboración, seguimiento, supervisión y control de la planificación de carreteras, así como de los estudios previos, informativos y de impacto ambiental, en el ámbito de su competencia.
+
+j) La elaboración, seguimiento, supervisión y control de los anteproyectos, proyectos básicos o de trazado y proyectos de construcción de carreteras estatales. Así como la realización de evaluaciones de impacto de las infraestructuras viarias en la seguridad y auditorías de seguridad viaria de los anteproyectos y proyectos, en el ámbito de las competencias del Departamento, sin perjuicio de las competencias del Ministerio del Interior.
+
+k) La gestión y seguimiento de las actividades de protección ambiental y sostenibilidad.
+
+l) El seguimiento de los convenios y protocolos en los que participe la Dirección General de Carreteras, excepto los relativos a cesión de tramos de carreteras a Ayuntamientos, y cambios de titularidad de carreteras existentes en virtud de acuerdo mutuo con otras administraciones públicas.
+
+m) La elaboración, control y supervisión de los estudios de viabilidad de concesiones de nuevos tramos de carretera, en coordinación con la Subdelegación del Gobierno en las Sociedades Concesionarias de Autopistas Nacionales de Peaje.
+
+n) La preservación del patrimonio vial, mediante el empleo de sistemas de gestión y planificación de actuaciones de rehabilitación, mejora y adecuación a normativa de los distintos elementos de la carretera.
+
+ñ) La gestión de la calidad del servicio vial, a través de las actividades de ayuda a la vialidad, la vialidad invernal y las actividades de conservación ordinaria y vigilancia de la vía.
+
+o) La elaboración, seguimiento, supervisión y control de los anteproyectos y proyectos de conservación y de seguridad vial para la realización de obras en carreteras estatales, así como de las auditorías de seguridad viaria en la fase inicial en servicio y de las inspecciones de seguridad viaria, en el ámbito de las competencias del Departamento, sin perjuicio de las competencias del Ministerio del Interior.
+
+p) La gestión, seguimiento y control técnico y económico de la construcción y de la calidad de las obras de seguridad vial, conservación y rehabilitación de la red vial, y sus incidencias.
+
+q) La coordinación, inspección y control de las concesiones de carreteras sin pago directo del usuario, desde el momento de su puesta en servicio, en coordinación con la Subdelegación del Gobierno en las Sociedades Concesionarias de Autopistas Nacionales de Peaje.
+
+r) La gestión y control de la construcción y de la calidad de las nuevas infraestructuras y de las obras de acondicionamiento, así como el seguimiento técnico y el control económico de las obras y sus incidencias. Así como la realización de auditorías de seguridad viaria de proyectos modificados, de la fase previa a la puesta en servicio, en el ámbito de las competencias del Departamento, sin perjuicio de las competencias del Ministerio del Interior.
+
+s) La elaboración de la propuesta de anteproyecto de presupuestos y la gestión y tramitación de los créditos y gastos asignados al órgano directivo, así como la gestión de los asuntos relativos a la licitación, contratación, adquisiciones y expropiaciones, sin perjuicio de las competencias de la Subsecretaría de Fomento u otros órganos superiores o directivos del Departamento y en coordinación con ellos.
+
+t) La aprobación de instrucciones relativas a todos los procedimientos tramitados por la Dirección General.
+
+u) La elaboración y propuesta de la normativa técnica de aplicación en la Red de Carreteras del Estado, así como la elaboración de estudios e informes de carácter técnico.
+
+v) La participación en las conferencias de direcciones generales de Europa e Iberoamérica y de las asociaciones mundiales de carreteras.
+
+2. La Dirección General de Carreteras se estructura en los siguientes órganos, con nivel orgánico de subdirección general:
+
+a) La Subdirección General de Explotación, a la que corresponde el ejercicio de las funciones descritas en el apartado 1.a), b), c), d), e), f), g) y h).
+
+b) La Subdirección General de Proyectos, a la que corresponde el ejercicio de las funciones descritas en el apartado 1.i), j), k), l), y m).
+
+c) La Subdirección General de Conservación, a la que corresponde el ejercicio de las funciones descritas en el apartado 1.n), ñ), o), p) y q).
+
+d) La Subdirección General de Construcción, a la que corresponde el ejercicio de las funciones descritas en el apartado 1.r).
+
+e) La Subdirección General de Coordinación, a la que corresponde el ejercicio de las funciones descritas en el apartado 1.s) y t).
