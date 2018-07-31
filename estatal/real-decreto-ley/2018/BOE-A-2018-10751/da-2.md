@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Publicación de resoluciones de la Agencia Española de Protección de Datos.
+
+La Agencia Española de Protección de Datos publicará las resoluciones de su Director que declaren haber lugar o no a la atención de los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679, las que pongan fin a los procedimientos de reclamación, las que archiven las actuaciones previas de investigación, las que sancionen con apercibimiento a las entidades a que se refiere el artículo 46 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, las que impongan medidas cautelares y las demás que disponga su Estatuto.
