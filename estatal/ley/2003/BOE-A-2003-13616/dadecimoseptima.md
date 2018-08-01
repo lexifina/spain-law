@@ -8,35 +8,17 @@ Están exentos del pago de esta prestación los operadores aéreos que para una 
 
 3. El importe de la prestación, “P”, es resultado de aplicar la siguiente fórmula:
 
-“P” = “q” x “m”
+“P” = “q” × “m”
 
 Donde:
 
-“q”, es la cuantía unitaria de 0,60 euros por franja horaria asignada y 0,30 euros por horario facilitado.
+“q”, es la cuantía unitaria de 0,45 € por franja horaria asignada y 0,23 € por horario facilitado.
 
 y “m”:
 
 a) Para cada gestor aeroportuario, el conjunto de franjas horarias asignadas u horarios facilitados en el correspondiente aeropuerto en la programación final de cada mes natural, conforme al registro del Coordinador.
 
 b) Para cada operador aéreo, el número total de franjas horarias asignadas u horarios facilitados de que dispongan en la programación final de cada mes natural, conforme al registro del Coordinador.
-
-> Téngase en cuenta que esta última actualización del apartado 3, establecida por la disposición final 9 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387, entra en vigor el 29 de octubre de 2017.
-
-> Redacción anterior:
-
-> "3. El importe de la prestación, "P", es resultado de aplicar la siguiente fórmula:
-
-> "P" = "q" × "m"
-
-> Donde:
-
-> "q", es la cuantía unitaria de 0,85 € por franja horaria asignada y 0,43 € por horario facilitado.
-
-> y "m":
-
-> a) Para cada gestor aeroportuario, el conjunto de franjas horarias asignadas u horarios facilitados en el correspondiente aeropuerto en la programación final de cada mes natural, conforme al registro del Coordinador.
-
-> b) Para cada operador aéreo, el número total de franjas horarias asignadas u horarios facilitados de que dispongan en la programación final de cada mes natural, conforme al registro del Coordinador."
 
 4. El devengo de la prestación se producirá por meses vencidos. En el plazo de los 15 días siguientes al devengo de la prestación se procederá a su liquidación y pago.
 
@@ -57,6 +39,8 @@ El gestor aeroportuario ingresará al Coordinador los importes recaudados de los
 6. El gestor aeroportuario y el Coordinador suscribirán, en el plazo de seis meses desde el inicio efectivo de las funciones del Coordinador, los acuerdos necesarios para la gestión y el cobro de la prestación patrimonial pública en aquellos casos en los que la coordinación de franjas horarias se haya de efectuar fuera del horario de oficina del Coordinador.
 
 7. La prestación patrimonial pública será exigible desde el inicio efectivo de las funciones del Coordinador y, en los casos contemplados en el apartado 6, una vez transcurrido el plazo para la suscripción de los acuerdos previstos en dicho apartado.
+
+> Se modifica, con efectos de 1 de agosto de 2018, el apartado 3 por la disposición final 16 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-17
 
 > Se modifica el apartado 3, con efectos de 29 de octubre de 2017, por la disposición final 9 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
 
