@@ -16,6 +16,7 @@
 | 14 Autobús o autocar mixto | El concebido y construido para transportar personas y mercancías simultánea y separadamente. |
 | 15 Trolebús | Automóvil destinado a transporte de personas con capacidad para 10, o más plazas, incluido el conductor, accionado por motor eléctrico con toma de corriente por trole, que circula por carriles. |
 | 16 Autobús o autocar de dos pisos | Autobús o autocar en el que los espacios destinados a los pasajeros están dispuestos, al menos parcialmente, en dos niveles superpuestos, de los cuales el superior no dispone de plazas sin asiento. |
+| 17 Pick-up | Vehículo cuya masa máxima no sea superior a 3.500 kg, en el que las plazas de asiento y la zona de carga no están situadas en un compartimento único y cuya altura no sea superior a 2 m. |
 | 20 Camión MMA ≤3.500 kg. | El que posee una cabina con capacidad hasta 9 plazas, no integrada en resto de la carrocería, y cuya masa máxima autoriza no exceda de 3.500 kg. |
 | 21 Camión 3.500 kg. < MMA ≤ 12.500 kg. | El que posee una cabina con capacidad hasta 9 plazas, no integrada en resto de la carrocería, y cuya masa máxima autorizada es superior a 3.500 kg, e igual o inferior a 12.000 kg. |
 | 22 Camión MMA > 12.000 kg. | El que posee una cabina con capacidad hasta 9 plazas, no integrada en resto de la carrocería, y cuya masa máxima autoriza sea superior a 12.000 kg. |
@@ -47,6 +48,8 @@
 | 66 QUAD-ATV | Vehículo especial de cuatro o más ruedas fabricado para usos específicos muy concretos, con utilización fundamentalmente fuera de carretera, con sistema de dirección mediante manillar en el que el conductor va sentado a horcajadas y dotado de un sistema de tracción adecuado al uso fuera de carretera y cuya velocidad puede estar limitada en función de sus características técnicas o uso. Se exceptúan de esta definición los vehículos incluidos en las categorías definidas en las Directivas europeas 92/61/CEE del Consejo, de 30 de junio de 1992, relativa a la recepción de los vehículos a motor de dos o tres ruedas, y 2002/24/CE del Parlamento Europeo y del Consejo, de 18 de marzo de 2002, relativa a la homologación de los vehículos a motor de dos o tres ruedas. |
 | 70 Militares. |  |
 | 80 Tren turístico | Vehículo especial constituido por un vehículo tractor y uno o varios remolques, concebido y construido para el transporte de personas con fines turísticos, con velocidad máxima limitada y sujeto a las limitaciones de circulación que imponga la autoridad competente en materia de tráfico. |
+
+> Se añade el apartado 17 por el art. único.1.b) de la Orden PCI/810/2018, de 27 de julio. Ref. BOE-A-2018-10856
 
 > Se añade el apartado 66 por el art. 5.1 del Real Decreto 711/2006, de 9 de junio. Ref. BOE-A-2006-11051.
 

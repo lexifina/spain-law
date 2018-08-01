@@ -1,12 +1,12 @@
 ## Cuadro 1
 
-| TIPO PLACA MATRÍCULA | Medidas (mm) | Caracteres (mm) | Sepa- ración entre carac- teres (mm) | Espacio entre grupos de carac- teres (mm) | Separación a bordes (mm) | Color | Tolerancia entre caracteres, grupo de caracteres y distancia a bordes |
+| TIPO PLACA MATRÍCULA | Medidas (mm) | Caracteres (mm) | Separación entre caracteres (mm) | Espacio entre grupos de caracteres (mm) | Separación a bordes (mm) | Color | Tolerancia entre caracteres, grupo de caracteres y distancia a bordes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Total | Superficie reflectante | Anchura | Altura | Grueso trazo | Hori- zontales | Entre líneas | Verticales línea superior | Verticales línea inferior | Fondo | Carac- teres |
+| Total | Superficie reflectante | Anchura | Altura | Grueso trazo | Horizontales | Entre líneas | Verticales línea superior | Verticales línea inferior | Fondo | Caracteres |
 | Izq. | Der. | Izq. | Der. |
-| Ordinaria larga (1) | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 41 | 11,5 | – | 62 | 22 | – | – | B | N | ± 3 mm |
-| Ordinaria alta (1) | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 10 | - | 15 | 26 | 80 | 40 | 87,5 | 87,5 | B | N |
-| Ordinaria larga delantera (2) | 340 × 110 | 330 × 100 | 30 | 60 | 6 | 8 | 24 | 20 | – | 48 | 8 | – | – | B | N |
+| Ordinaria larga (1) | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 41 | 11,5 | – | 62 | 22 | – | – | B/A(7) | N/B(7) | ± 3 mm |
+| Ordinaria alta (1) | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 10 | - | 15 | 26 | 80 | 40 | 87,5 | 87,5 | B/A(7) | N/B(7) |
+| Ordinaria larga delantera (2) | 340 × 110 | 330 × 100 | 30 | 60 | 6 | 8 | 24 | 20 | – | 48 | 8 | – | – | B/A(7) | N/B(7) |
 | Motocicletas ordinaria (4) | 220 × 160 | 210 × 150 | 30 | 60 | 6 | 10 | - | 10 | 10 | 50 | 10 | 50 | 50 | B | N |
 | Motocicletas corta (5) | 132 x 96 | 122 × 86 | 13 | 30 | 3,5 | 6 10 | - | 7 | 12 | 40 | 8 | 31,5 | 31,5 | B | N |
 | Ordinaria larga con siglas de provincia (1) * | 520 × 110 | 510 × 110 | 45 | 77 | 10 | 8 | 27 | 11,5 | - | 48 | 8 | - | - | B | N |
@@ -34,7 +34,7 @@
 | Temporal empresas larga (vehículos no matriculados) | 520 × 110 | 510 × 100 | 30 | 60 | 6 | 16 | 57,5 | 20 | – | 20 | 55 | – | – | R | B |
 | Temporal empresas larga (vehículos matriculados) | 520 × 110 | 510 × 100 | 30 | 60 | 6 | 16 | 57,5 | 20 | – | 20 | 55 | – | – | R | B |
 | Temporal empresas alta (vehículos no matriculados) | 280 × 200 | 270 × 190 | 30 | 60 | 6 | 12 | 19 | 20 | 30 | 15 | 50 | 60,5 | 95,5 | R | B |
-| Temporal empresas alta (vehículos matriculados) | 280 × 200 | 270 × 190 | 30 | 60 | 6 | 12 | 19 | 20 | 30 | 15 | 50 | 60,5 | 95,5 | R | B |
+| Temporal empresas alta (vehículos matriculados) | 280 × 200 | 270 × 190 | 30 | 60 | 6 | 12 | 19 | 20 | 30 | 15 | 50 | 60,5 | 95,5 | R | B | ± 3 mm |
 | Temporal empresas ciclomotores (vehículos no matriculados) | 100 × 168 | 90 × 158 | 13 | 30 | 3,5 | 10 | 10 | 12 32 | 12 | 27 | 27 | 15,5 | 15,5 | R | B |
 | Temporal empresas ciclomotores (vehículos matriculados) | 100 × 168 | 90 × 158 | 13 | 30 | 3,5 | 10 | 10 | 12 32 | 12 | 27 | 27 | 15,5 | 15,5 | R | B |
 
@@ -50,11 +50,15 @@
 
 (6) Para cuatriciclos ligeros y ciclomotores de tres ruedas. Cuando en estos vehículos, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa de cuatriciclos ligeros, se utilizará la placa de ciclomotores.
 
+(7) El fondo de las placas será de color blanco y los caracteres, de color negro mate, salvo las placas de matrícula traseras de los vehículos destinados al servicio de taxi y de alquiler con conductor de hasta nueve plazas, en que el fondo será de color azul y los caracteres, de color blanco mate.
+
 Cuando se indican dos cantidades en los apartados "Separación entre caracteres" y "Separación a bordes horizontales", se entiende que la cifra superior es para la línea de caracteres de arriba, y la inferior, para la de abajo.
 
 Espacio entre grupos de caracteres: cuando se indican dos cantidades, se entiende que la cifra superior se refiere a la distancia entre el primer y el segundo grupo de caracteres, y la cifra inferior, a la distancia entre el segundo y el tercer grupo de caracteres.
 
 * Placas de matrícula con arreglo a lo establecido en las disposiciones transitorias de la Orden de 15 de septiembre de 2000.
+
+> Se modifica por el art. único.3.b) de la Orden PCI/810/2018, de 27 de julio. Ref. BOE-A-2018-10856
 
 > Se modifica por el apartado único.5.c) y d) de la Orden PRE/52/2010, de 21 de enero. Ref. BOE-A-2010-1011.
 
