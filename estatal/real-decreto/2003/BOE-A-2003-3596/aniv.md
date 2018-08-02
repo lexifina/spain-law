@@ -1,130 +1,150 @@
 ## ANEXO IV
 
-## Métodos de ensayos
+## Métodos de análisis
 
-A. Parámetros para los que se especifican métodos de ensayo:
+Parte A. Parámetros microbiológicos para los que se especifican métodos de análisis
 
-Los siguientes métodos de ensayo se dan ya sea como referencia, en los casos de métodos UNE, ISO o CEN, o como guía, en espera de la posible adopción de nuevos métodos nacionales para dichos parámetros.
+Los métodos de análisis para los parámetros microbiológicos son los siguientes:
 
-Los laboratorios podrán emplear métodos alternativos, siempre que estén validados o acreditados o se haya demostrado su equivalencia y se cumpla lo dispuesto en el artículo 16.3.
+a) Escherichia coli (E. coli) y bacterias coliformes: (UNE-EN ISO 9308-1) o (UNE-EN ISO 9308-2) o los métodos alternativos contemplados en la Orden SCO/778/2009, de 17 de marzo, sobre métodos alternativos para el análisis microbiológico del agua de consumo humano.
 
-Bacterias coliformes y «Escherichia coli» (E. coli): UNE EN ISO 9308-1:2000.
+b) Enterococos: (UNE-EN ISO 7899-2).
 
-Enterococos: UNE EN ISO 7899-2:2001.
+c) Enumeración de microorganismos cultivables-recuento de colonias a 22 ºC: (UNE-EN ISO 6222).
 
-Enumeración de microorganismos cultivables-Recuento de colonias a 22 ºC: UNE EN ISO 6222:1999.
+d) Clostridium perfringens (incluidas las esporas): (UNE-EN ISO 14189).
 
-«Clostridium perfringens» (incluidas las esporas)
+Parte B. Parámetros químicos e indicadores para los que se especifican resultados característicos
 
-Filtrado sobre membrana e incubación anaerobia de la membrana en agar m-CP (nota 1) a (44 +/- 1) ºC durante (21 +/- 3) horas. Recuento de las colonias de color amarillo opaco que cambien a color rosa o rojo al cabo de 20 a 30 segundos de exposición a vapores de hidróxido amónico.
+En relación con los parámetros establecidos en el cuadro 1, los resultados característicos especificados suponen que el método de análisis utilizado será capaz, como mínimo, de medir concentraciones iguales al valor paramétrico con un límite de cuantificación igual o inferior al 30 % del valor paramétrico pertinente, como se define en el artículo 3 apartado 25, del Real Decreto 817/2015, de 11 de septiembre, por el que se establecen los criterios de seguimiento y evaluación del estado de las aguas superficiales y las normas de calidad ambiental; y una incertidumbre de medida como se especifica en el cuadro 1. El resultado se expresará empleando como mínimo el mismo número de cifras significativas que para el valor paramétrico considerado en las partes B y C del anexo I.
 
-Nota 1.
+La incertidumbre de medida establecida en el cuadro 1 no se utilizará como tolerancia adicional de los valores paramétricos establecidos en el anexo I.
 
-La composición del agar m-CP es:
+Cuadro 1. Resultados característicos mínimos respecto a la “Incertidumbre de medida”
 
-Medio de base:
+| Parámetros | Incertidumbre de medida (nota 1). % del valor paramétrico (excepto para el pH) | Notas |
+| --- | --- | --- |
+| Aluminio. | 25 |  |
+| Amonio. | 40 |  |
+| Antimonio. | 40 |  |
+| Arsénico. | 30 |  |
+| Benzo(a)pireno. | 50 | Nota 2. |
+| Benceno. | 40 |  |
+| Boro. | 25 |  |
+| Bromato. | 40 |  |
+| Cadmio. | 25 |  |
+| Cloruro. | 15 |  |
+| Cromo. | 30 |  |
+| Conductividad. | 20 |  |
+| Cobre. | 25 |  |
+| Cianuro. | 30 | Nota 3. |
+| 1,2-Dicloroetano. | 40 |  |
+| Fluoruro. | 20 |  |
+| Concentración de iones hidrógeno, expresada en unidades de pH. | 0,2 | Nota 4. |
+| Hierro. | 30 |  |
+| Plomo. | 25 |  |
+| Manganeso. | 30 |  |
+| Mercurio. | 30 |  |
+| Níquel. | 25 |  |
+| Nitrato. | 15 |  |
+| Nitrito. | 20 |  |
+| Oxidabilidad. | 50 | Nota 5. |
+| Plaguicidas. | 30 | Nota 6. |
+| Hidrocarburos aromáticos policíclicos. | 50 | Nota 7. |
+| Selenio. | 40 |  |
+| Sodio. | 15 |  |
+| Sulfato. | 15 |  |
+| Tetracloroeteno. | 30 | Nota 8. |
+| Tricloroeteno. | 40 | Nota 8. |
+| Trihalometanos-total. | 40 | Nota 7. |
+| Carbono orgánico total (COT). | 30 | Nota 9. |
+| Turbidez. | 30 | Nota 10. |
 
-Triptosa: 30 g.
+La acrilamida, la epiclorohidrina y el cloruro de vinilo deben controlarse mediante especificación del producto.
 
-Extracto de levadura: 20 g.
+Nota 1. Por incertidumbre de medida se entiende un parámetro no negativo que caracteriza la dispersión de los valores cuantitativos atribuidos a un mensurando, basándose en la información utilizada. El criterio de funcionamiento respecto a la incertidumbre de medida (k = 2) es el porcentaje del valor paramétrico establecido en el cuadro o mejor. La incertidumbre de medida se calculará al nivel del valor paramétrico, salvo que se especifique otra cosa.
 
-Sacarosa: 5 g.
+Nota 2. Si no se puede alcanzar el valor de incertidumbre de medida, debe seleccionarse la mejor técnica disponible (hasta el 60 %).
 
-Hidrocloruro de L-cisteína: 1 g.
+Nota 3. El método determina el cianuro total en todas las formas.
 
-MgSO4-7H2O: 0,1 g.
+Nota 4. Los valores respecto a la exactitud, precisión e incertidumbre de medida se expresan en unidades de pH.
 
-Púrpura de bromocresol: 40 mg.
+Nota 5. Método de referencia: UNE-EN ISO 8467.
 
-Agar: 15 g.
+Nota 6. Los resultados característicos de cada uno de los plaguicidas se ofrecen a título indicativo. Se pueden alcanzar valores respecto a la incertidumbre de medida de tan solo el 30 % con varios plaguicidas, y podrán permitirse valores más elevados, de hasta el 80 %, con una serie de plaguicidas.
 
-Agua: 1.000 ml.
+Nota 7. Los resultados característicos se aplican a cada una de las sustancias, especificadas al 25 % del valor paramétrico en el anexo I parte B.
 
-Disolver los ingredientes en el medio de base, ajustar el pH a 7,6 y mantener en el autoclave a 121 oC durante 15 minutos.
+Nota 8. Los resultados característicos se aplican a cada una de las sustancias, especificadas al 50 % del valor paramétrico en la el anexo I parte B.
 
-Dejar enfriar el medio y añadir:
+Nota 9. La incertidumbre de medida debe calcularse al nivel de 3 mg/l del carbono orgánico total (COT). Se utilizará la norma CEN 1484: Análisis del agua: Directrices para la determinación del carbono orgánico total (COT) y del carbono orgánico disuelto (COD).
 
-D-cicloserina: 400 mg.
+Nota 10. La incertidumbre de medida debe calcularse al nivel de 1,0 UNF (Unidad Nefelométrica de Turbidez) de conformidad con la norma UNE-EN ISO 7027.
 
-B-sulfato de polimixina: 25 mg.
+Cuadro 2. Resultados característicos mínimos respecto a “exactitud“, “precisión” y “límite de detección”
 
-ß-D-glucosuro de indoxyl deberá disolverse en 8 ml de agua destilada estéril antes de añadirse: 60 mg.
+| Parámetros | Exactitud (nota 1) % del valor paramétrico (excepto para pH) | Precisión (nota 2) % del valor paramétrico (excepto para pH) | Límite de detección (nota 3) % del valor paramétrico (excepto para pH) | Notas |
+| --- | --- | --- | --- | --- |
+| Aluminio. | 10 | 10 | 10 |  |
+| Amonio. | 10 | 10 | 10 |  |
+| Antimonio. | 25 | 25 | 25 |  |
+| Arsénico. | 10 | 10 | 10 |  |
+| Benzo(a)pireno. | 25 | 25 | 25 |  |
+| Benceno. | 25 | 25 | 25 |  |
+| Boro. | 10 | 10 | 10 |  |
+| Bromato. | 25 | 25 | 25 |  |
+| Cadmio. | 10 | 10 | 10 |  |
+| Cloruro. | 10 | 10 | 10 |  |
+| Cromo. | 10 | 10 | 10 |  |
+| Conductividad. | 10 | 10 | 10 |  |
+| Cobre. | 10 | 10 | 10 |  |
+| Cianuro. | 10 | 10 | 10 | Nota 4. |
+| 1,2-Dicloroetano. | 25 | 25 | 10 |  |
+| Fluoruro. | 10 | 10 | 10 |  |
+| Concentración de iones hidrógeno, expresada en unidades de pH. | 0,2 | 0,2 |  | Nota 5. |
+| Hierro. | 10 | 10 | 10 |  |
+| Plomo. | 10 | 10 | 10 |  |
+| Manganeso. | 10 | 10 | 10 |  |
+| Mercurio. | 20 | 10 | 20 |  |
+| Níquel. | 10 | 10 | 10 |  |
+| Nitrato. | 10 | 10 | 10 |  |
+| Nitrito. | 10 | 10 | 10 |  |
+| Oxidabilidad. | 25 | 25 | 10 | Nota 6. |
+| Plaguicidas. | 25 | 25 | 25 | Nota 7. |
+| Hidrocarburos aromáticos policíclicos. | 25 | 25 | 25 | Nota 8. |
+| Selenio. | 10 | 10 | 10 |  |
+| Sodio. | 10 | 10 | 10 |  |
+| Sulfato. | 10 | 10 | 10 |  |
+| Tetracloroeteno. | 25 | 25 | 10 | Nota 9. |
+| Tricloroeteno. | 25 | 25 | 10 | Nota 9. |
+| Trihalometanos-total. | 25 | 25 | 10 | Nota 8. |
+| Turbidez. | 25 | 25 | 25 |  |
 
-Solución de difosfato de fenolftaleína al 0,5 % esterilizada por filtración: 20 ml.
+La acrilamida, la epiclorohidrina y el cloruro de vinilo deben controlarse mediante especificación del producto.
 
-FeCl3-6H2O al 4,5 % esterilizada por filtración: 2 ml.
+Nota 1. Por exactitud se entiende la medida del error sistemático, es decir, la diferencia entre el valor medio del gran número de mediciones reiteradas y el valor exacto. En la norma ISO 5725 figuran otras especificaciones.
 
-B. Parámetros para los que se especifican las características de los resultados:
+Nota 2. Por precisión se entiende la medida del error aleatorio y se expresa habitualmente como la desviación típica (dentro de cada lote y entre lotes) de la dispersión de resultados respecto a la media. Se considera una precisión aceptable el doble de la desviación típica relativa. Este término se especifica con mayor detalle en la norma ISO 5725.
 
-1. En relación con los siguientes parámetros, las características que se especifican para los resultados suponen que, como mínimo, el método de ensayo utilizado tendrá el límite de detección indicado, y será capaz de medir concentraciones iguales al valor paramétrico (VP) con la exactitud y precisión especificadas.
+Nota 3. El límite de detección es bien:
 
-Sea cual fuere la sensibilidad del método de ensayo empleado, el resultado se expresará empleando como mínimo el mismo número de cifras decimales que para el valor paramétrico considerado en las partes B y C del anexo I.
+– El triple de la desviación típica dentro del lote de una muestra natural que contenga una baja concentración del parámetro, o bien
 
-| Parámetros | Exactitud Porcentaje en el VP (nota 1) | Precisión Porcentaje en el VP (nota 2) | Límite de detección Porcentaje del VP (nota 3) | Condiciones | Notas |
-| --- | --- | --- | --- | --- | --- |
-| Acrilamida |  |  |  | Controlar según la especificación del producto. |  |
-| Aluminio | 10 | 10 | 10 |  |  |
-| Amonio | 10 | 10 | 10 |  |  |
-| Antimonio | 25 | 25 | 25 |  |  |
-| Arsénico | 10 | 10 | 10 |  |  |
-| Benceno | 25 | 25 | 25 |  |  |
-| Benzo(a)pireno | 25 | 25 | 25 |  |  |
-| Boro | 10 | 10 | 10 |  |  |
-| Bromato | 25 | 25 | 25 |  |  |
-| Cadmio | 10 | 10 | 10 |  |  |
-| Cianuro | 10 | 10 | 10 |  | 4 |
-| Cloruro | 10 | 10 | 10 |  |  |
-| Cloruro de vinilo |  |  |  | Controlar según la especificación del producto. |  |
-| Cobre | 10 | 10 | 10 |  |  |
-| Conductividad | 10 | 10 | 10 |  |  |
-| Cromo | 10 | 10 | 10 |  |  |
-| 1,2-dicloroetano | 25 | 25 | 10 |  |  |
-| Epiclorhidrina |  |  |  | Controlar según la especificación del producto. |  |
-| Fluoruro | 10 | 10 | 10 |  |  |
-| Hierro | 10 | 10 | 10 |  |  |
-| HPA | 25 | 25 | 25 |  | 5 y 9 |
-| Manganeso | 10 | 10 | 10 |  |  |
-| Mercurio | 20 | 10 | 20 |  |  |
-| Níquel | 10 | 10 | 10 |  |  |
-| Nitrato | 10 | 10 | 10 |  |  |
-| Nitrito | 10 | 10 | 10 |  |  |
-| Oxidabilidad | 25 | 25 | 10 |  | 6 |
-| Plaguicidas | 25 | 25 | 25 |  | 7 y 9 |
-| Plomo | 10 | 10 | 10 |  |  |
-| Selenio | 10 | 10 | 10 |  |  |
-| Sodio | 10 | 10 | 10 |  |  |
-| Sulfato | 10 | 10 | 10 |  |  |
-| Tetracloroeteno | 25 | 25 | 10 |  | 8 |
-| THMs | 25 | 25 | 10 |  | 5 |
-| Tricloroeteno | 25 | 25 | 10 |  | 8 |
-| Turbidez | 25 | 25 | 25 |  |  |
+– el quíntuplo de la desviación típica de una muestra en blanco.
 
-Notas:
+Nota 4. El método determina el cianuro total en todas las formas.
 
-(1) Por exactitud se entiende el error sistemático y representa la diferencia entre el valor medio del gran número de mediciones reiteradas y el valor exacto. (*)
+Nota 5. Los valores respecto a la exactitud, precisión e incertidumbre de medida se expresan en unidades de pH.
 
-(2) Por precisión se entiende el error aleatorio y se expresa habitualmente como la desviación típica (dentro de cada lote y entre lotes) de la dispersión de resultados en torno a la media. Se considera una precisión aceptable el doble de la desviación típica relativa. (*)
+Nota 6. Método de referencia: UNE-EN ISO 8467.
 
-(*) Estos términos se definen con mayor detalle en la norma ISO 5725.
+Nota 7. Los resultados característicos de cada uno de los plaguicidas se ofrecen a título indicativo. Se pueden alcanzar valores respecto a la incertidumbre de medida de tan solo el 30 % con varios plaguicidas, y podrán permitirse valores más elevados, de hasta el 80 %, con una serie de plaguicidas.
 
-(3) El límite de detección es:
+Nota 8. Los resultados característicos se aplican a cada una de las sustancias, especificadas al 25 % del valor paramétrico en el anexo I parte B.
 
-Ya sea el triple de la desviación típica relativa dentro del lote de una muestra natural que contenga una baja concentración del parámetro, o bien el quíntuplo de la desviación típica relativa dentro del lote de una muestra en blanco.
+Nota 9. Los resultados característicos se aplican a cada una de las sustancias, especificadas al 50 % del valor paramétrico en el anexo I parte B.
 
-(4) El método debe determinar el cianuro total en todas sus formas, a partir del 1 de enero de 2004.
-
-(5) Las características que se especifican para los resultados se aplican a cada una de las sustancias especificadas al 25 por 100 del valor paramétrico en el anexo I.
-
-(6) La oxidación deberá efectuarse durante 10 minutos a ebullición en condiciones de acidez, utilizando permanganato.
-
-(7) Las características que se especifican para los resultados se aplican a cada uno de los plaguicidas y dependerán del plaguicida de que se trate.
-
-(8) Las características que se especifican para los resultados se aplican a cada una de las sustancias especificadas al 50 por 100 del valor paramétrico en el anexo I.
-
-(9) Aunque no sea posible, por el momento, cumplir con el límite de detección para algún plaguicida e hidrocarburo policíclico aromático, los laboratorios deberían tratar de cumplir esta norma.
-
-2. Con respecto a la concentración en ión hidrógeno, las características que se especifican para los resultados suponen que el método de ensayo aplicado puede medir concentraciones iguales al valor del parámetro con una exactitud de 0,2 unidades pH y una precisión de 0,2 unidades pH.
-
-C. Parámetros para los que no se especifica ningún método de ensayo: carbono orgánico total, cloro libre residual, cloro residual combinado, clostridium sulfito reductor, color, criptosporidium, microcistina, olor y sabor.
+> Se modifica por el art. 1.9 del Real Decreto 902/2018, de 20 de julio. Ref. BOE-A-2018-10940
 
 > Redactado el anexo IV, parte A, nota 1, conforme a la corrección de erratas publicada en BOE núm. 54, de 4 de marzo. Ref. BOE-A-2003-4377.
