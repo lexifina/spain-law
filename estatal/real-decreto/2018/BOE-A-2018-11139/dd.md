@@ -1,0 +1,5 @@
+## Disposición derogatoria única. Derogación normativa.
+
+1. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto y, en particular, el Real Decreto 903/2017, de 13 de octubre, por el que se desarrolla la estructura orgánica básica del Ministerio de Energía, Turismo y Agenda Digital.
+
+2. Asimismo por lo que se refiere a las materias relativas a la Secretaría de Estado de Comercio y a la Secretaria General de Industria y de la Pequeña y Mediana Empresa, queda derogado el Real Decreto 531/2017, de 26 de mayo, por el que se desarrolla la estructura orgánica básica del Ministerio de Economía, Industria y Competitividad; se modifica el Real Decreto 424/2016, de 11 de noviembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales; y se modifican los Estatutos de entidades del Departamento que tienen la condición de medio propio para adaptar su denominación a lo dispuesto en la Ley 40/2015, de 1 de octubre.

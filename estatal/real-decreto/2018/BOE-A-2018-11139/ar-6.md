@@ -1,0 +1,57 @@
+## Artículo 6. Secretaría General de Industria y de la Pequeña y Mediana Empresa.
+
+1. La Secretaría General de Industria y de la Pequeña y Mediana Empresa ejercerá, respecto de las unidades dependientes de ella, las atribuciones previstas en el artículo 64 de la Ley 40/2015, de 1 de octubre, en materia de industria y de desarrollo industrial, y de la Pequeña y Mediana Empresa (PYME). Corresponde a la Secretaría General de Industria y de la Pequeña y Mediana Empresa el ejercicio de las siguientes funciones:
+
+a) La propuesta, el desarrollo y el seguimiento de la política general del departamento en relación con la industria y la Pequeña y Mediana Empresa (PYME).
+
+b) El impulso, la programación y la supervisión de las actividades del departamento en materia de industria y de la PYME.
+
+c) La elaboración y ejecución de las políticas industriales y de la PYME, nacionales o emanadas de la Unión Europea, que afecten a las industrias sobre las cuales ejerza su competencia. Las propuestas de incorporación al ordenamiento jurídico de las políticas y actuaciones emanadas de la normativa internacional y de la Unión Europea, así como la coordinación y asesoramiento de los asuntos de ámbito europeo e internacional y cooperación técnica en las áreas de competencia de la Secretaría General de Industria y de la Pequeña y Mediana Empresa.
+
+d) La propuesta y ejecución de las políticas de apoyo y promoción de la PYME.
+
+e) Las funciones relativas a la cooperación y coordinación con las Comunidades Autónomas en materia de industria y las destinadas a favorecer e impulsar la actividad empresarial de la PYME.
+
+f) La propuesta, y en su caso ejecución de actuaciones que reduzcan las cargas administrativas de las empresas favoreciendo su creación y el desarrollo de su actividad, sin perjuicio de las competencias de la Dirección General de Política Económica.
+
+g) La propuesta y ejecución de actuaciones y programas dirigidos a mejorar la competitividad de la PYME, a facilitar su acceso a la financiación y a fomentar el espíritu emprendedor.
+
+h) La celebración de convenios de establecimiento de Puntos de Atención al Emprendedor y los de Adhesión a la plataforma «Emprende en 3» con Ayuntamientos y Comunidades Autónomas.
+
+i) La elaboración de políticas para el desarrollo de las empresas constituidas en los sectores industriales, de fomento del espíritu emprendedor, de creación de empresa y de mejora de los recursos de las empresas.
+
+j) La propuesta de iniciativas legislativas y reglamentarias de desarrollo en su ámbito de competencias.
+
+k) La elaboración de las políticas de apoyo y de impulso para facilitar a la industria un entorno favorable y las condiciones necesarias para mejorar su competitividad, así como las relativas a la transformación digital de las empresas industriales, sin perjuicio de las competencias atribuidas a otros departamentos ministeriales.
+
+l) La elaboración de políticas de impulso al desarrollo industrial que estimulen la generación y consolidación del tejido industrial español y la competitividad de las empresas, en colaboración con las Comunidades Autónomas.
+
+m) La interlocución con el sector empresarial industrial y las asociaciones empresariales para, entre otros fines, fomentar la cooperación entre empresas y asociaciones empresariales para realizar actuaciones de interés común vinculadas al desarrollo de actividades industriales que supongan demanda conjunta de servicios, su modernización o expansión internacional.
+
+n) La propuesta de actuaciones en planes y programas dirigidas a la mejora de la competitividad de las empresas de los sectores industriales sobre los que ejerce su competencia, así como a la creación de un entorno favorable que propicie la competitividad internacional de dichos sectores y la coordinación con otras Administraciones en aquellas materias que impacten directamente en la competitividad de la industria.
+
+ñ) El impulso, la dirección y el seguimiento de las acciones y programas relacionados con la industria aeronáutica y de los demás sectores estratégicos, incluidas la representación y la participación en los organismos y empresas internacionales. De igual manera, ejercerá funciones de impulso, dirección y seguimiento de las acciones y programas relacionados con la industria del espacio. Estas competencias se desarrollarán sin perjuicio de las atribuciones propias del Ministerio de Ciencia, Innovación y Universidades en materia espacial.
+
+o) El fomento y el impulso de la adaptación y compatibilidad de las actividades industriales a las exigencias medioambientales y de seguridad, sin perjuicio de las competencias que puedan corresponder a otros departamentos ministeriales, impulsando a las empresas al desarrollo e incorporación de las tecnologías adecuadas.
+
+p) La elaboración, de acuerdo con las Comunidades Autónomas, de programas e iniciativas en el ámbito de la calidad y seguridad industrial, que contribuyan a la competitividad y la eliminación de barreras técnicas y la elaboración y propuesta de las disposiciones reglamentarias de ordenación de las actividades industriales y de la infraestructura para la calidad y seguridad industrial.
+
+q) Cualquier otra actuación que la Ministra de Industria, Comercio y Turismo le encomiende en el ámbito de las competencias que le otorga la Ley 21/1992, de 16 de julio, de industria, y de sus normas de desarrollo.
+
+2. De la Secretaría General de Industria y de la Pequeña y Mediana Empresa depende la Dirección General de Industria y de la Pequeña y Mediana Empresa, que ejercerá las funciones que se determinan en el artículo 7.
+
+3. Depende de la Secretaría General de Industria y de la Pequeña y Mediana Empresa, un Gabinete Técnico, con nivel orgánico de subdirección general, como órgano de apoyo y asistencia inmediata a la persona titular de la Secretaría General de Industria y de la Pequeña y Mediana Empresa.
+
+4. La persona titular de la Secretaría General de Industria y de la Pequeña y Mediana Empresa será el vicepresidente del Consejo Estatal de la Pequeña y Mediana Empresa regulado por Real Decreto 962/2013, de 5 de diciembre. Le corresponde, asimismo, la asistencia a la Ministra en el referido Consejo Estatal de la Pequeña y Mediana Empresa.
+
+5. Corresponde a la Secretaría General de Industria y de la Pequeña y Mediana Empresa la asistencia a la Ministra en la Conferencia Sectorial de Industria y de la Pequeña y Mediana Empresa, para asuntos de industria y de la PYME.
+
+6. Quedan adscritos al Ministerio de Industria, Comercio y Turismo, a través de la Secretaría General de Industria y de la Pequeña y Mediana Empresa la Fundación Pública Escuela de Organización Industrial (EOI) F.S.P. y el Centro Español de Metrología (CEM) O.A.
+
+7. Las Áreas Funcionales de Industria y Energía integradas en las Delegaciones del Gobierno ejercerán las funciones que tienen atribuidas normativamente en materia de industria bajo la dependencia funcional de la Secretaría General de Industria y de la Pequeña y Mediana Empresa, de acuerdo con su ámbito competencial de actuación.
+
+8. Se vincularán al ejercicio de las funciones de la Secretaría General de Industria y de la Pequeña y Mediana Empresa, a través de la Dirección General de Industria y de la Pequeña y Mediana Empresa, las sociedades estatales Empresa Nacional de Innovación (ENISA), S.A. y Compañía Española de Reafianzamiento (CERSA), S.A.. En relación con ENISA, corresponderá a la Secretaría General de Industria y de la Pequeña y Mediana Empresa, a través de la Dirección General de Industria y de la Pequeña y Mediana Empresa, el ejercicio de las funciones de tutela conforme a lo previsto en los artículos 169.d) y 176 de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas. En relación con CERSA, el seguimiento de su actividad y la formulación de propuestas e iniciativas para facilitar la financiación de la pequeña y mediana empresa corresponderán a la Secretaría General de Industria y de la Pequeña y Mediana Empresa, a través de la Dirección General de Industria y de la Pequeña y Mediana Empresa. La presidencia de ambas compañías recaerá en el Director General de Industria y de la Pequeña y Mediana Empresa.
+
+9. Se adscribe a la Secretaría General de Industria y de la Pequeña y Mediana Empresa, a través de su Gabinete Técnico, la Secretaría General de la Autoridad Nacional para la Prohibición de las Armas Químicas, regulada por el Real Decreto 663/1997, de 12 de mayo.
+
+10. Para el asesoramiento jurídico de la Secretaría General de Industria y de la Pequeña y Mediana Empresa existirá una Abogacía del Estado, integrada orgánicamente en la del Departamento a la que se refiere el artículo 8.7.a) de este real decreto.

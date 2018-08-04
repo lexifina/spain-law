@@ -34,4 +34,6 @@ a) La Subdirección General de Cooperación Autonómica, a la que corresponde el
 
 b) La Subdirección General de Relaciones Bilaterales con las Comunidades Autónomas, a la que corresponde el ejercicio de las funciones enumeradas en las letras g) y h) del apartado 1 de este precepto.
 
-c) La Subdirección General de Cooperación Local, a la que corresponde el ejercicio de las funciones enumeradas en las letras k), l) y m) del apartado 1 de este artículo.
+c) La Subdirección General de Cooperación Local, a la que corresponde el ejercicio de las funciones enumeradas en las letras c), en lo referente a los convenios con entidades locales, i), j), k), l) y m) del apartado 1 de este artículo.
+
+> Se modifica el apartado 2.c) por la disposición final 4.1 del Real Decreto 998/2018, de 3 de agosto. Ref. BOE-A-2018-11139#df-4

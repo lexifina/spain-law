@@ -1,0 +1,71 @@
+## Artículo 7. Dirección General de Industria y de la Pequeña y Mediana Empresa.
+
+1. Corresponde a la Dirección General de Industria y de la Pequeña y Mediana Empresa el ejercicio de las siguientes funciones:
+
+a) La propuesta, ejecución, seguimiento y evaluación de la política industrial y de las políticas de apoyo y promoción de la actividad de la pequeña y mediana empresa encaminada a la mejora de su competitividad, así como las propuestas de incorporación de las iniciativas industriales y de pequeña y mediana empresa internacionales y de la Unión Europea al ámbito nacional.
+
+b) La elaboración, gestión y seguimiento de programas y actuaciones destinadas a mejorar la competitividad y eficiencia de los sectores productivos o que generen valor para las actividades industriales, sin perjuicio de las competencias que correspondan a otros departamentos ministeriales.
+
+c) El análisis, la propuesta y la defensa de los precios industriales máximos y precios regulados de los medicamentos y productos sanitarios que vayan a ser incluidos en la prestación farmacéutica del Sistema Nacional de Salud, con el objeto de establecer la posición del Ministerio de Industria, Comercio y Turismo en la Comisión Interministerial de Precios de Medicamentos.
+
+d) El análisis y la evaluación del impacto de las actuaciones derivadas de la aplicación, entre otras, de normativa técnica y medioambiental sobre la competitividad de los sectores industriales, así como la elaboración de planes de adaptación a las mismas.
+
+e) La representación del Ministerio de Industria, Comercio y Turismo en instituciones y grupos de trabajo que aborden aspectos que afecten a la competitividad de los sectores industriales, sin perjuicio de las competencias de otros órganos del departamento.
+
+f) La elaboración, seguimiento y desarrollo de programas y actuaciones en materia de calidad y seguridad industrial y el desarrollo de infraestructuras técnicas asociadas a éstas, así como la normalización, acreditación y certificación de las empresas y productos industriales.
+
+g) La elaboración y seguimiento de disposiciones reglamentarias en el ámbito de la calidad y seguridad industrial sobre productos e instalaciones industriales previstos en la Ley 21/1992, de 16 de julio, así como la elaboración, seguimiento y ejecución de las disposiciones reglamentarias sobre homologación de vehículos, sistemas y componentes previstos en el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, aprobado por el Real Decreto Legislativo 6/2015, de 30 de octubre.
+
+h) La gestión del Registro Integrado Industrial en el marco de lo establecido en la Ley 21/1992, de 16 de julio, así como las nuevas secciones que se vayan creando derivadas del desarrollo reglamentario.
+
+i) La elaboración, gestión y seguimiento de planes de apoyo específicos a sectores industriales, de actuaciones dirigidas a mejorar la competitividad y eficiencia de los sectores productivos o que generen valor para las actividades industriales, así como la coordinación de programas y actuaciones destinadas a promover la modernización tecnológica de las empresas.
+
+j) La propuesta de iniciativas legislativas y reglamentarias de desarrollo en su ámbito de competencias.
+
+k) La elaboración, gestión, seguimiento y coordinación de programas y actuaciones destinadas a promover la transformación digital de las empresas y la digitalización de la industria, sin perjuicio de las competencias atribuidas a otros departamentos ministeriales.
+
+l) La colaboración con otros departamentos ministeriales en la ejecución de la política estatal en materia de incentivos económicos regionales en sus aspectos industriales.
+
+m) La elaboración, gestión y seguimiento de los siguientes programas: programas dirigidos a la industria aeronáutica y espacial; programas estratégicos y programas de alto contenido tecnológico e innovación industrial; programas y actuaciones dirigidos a incrementar la competitividad de los sectores industriales; programas dirigidos a potenciar la implantación de sistemas de gestión e infraestructuras destinadas a incrementar la competitividad industrial; y programas de cooperación público-privada en áreas de importancia estratégica para los sectores industriales. El ejercicio de las competencias en materia espacial se entenderá, en todo caso, sin perjuicio de las atribuciones propias del Ministerio de Ciencia, Innovación y Universidades.
+
+n) La ejecución de programas dirigidos a fortalecer los distritos industriales y las redes de colaboración entre pequeñas y medianas empresas y la gestión del Registro Especial de Agrupaciones Empresariales Innovadoras del Ministerio de Industria, Comercio y Turismo, así como el apoyo a la constitución y consolidación de plataformas tecnológicas lideradas por la industria, en coordinación con otros departamentos u otras áreas de este departamento.
+
+ñ) El análisis y las propuestas de simplificación normativa y de reducción de cargas administrativas para las PYME. La cooperación con otros departamentos ministeriales, con las Comunidades Autónomas y Entidades Locales en la identificación y propuesta de actuaciones destinadas a simplificar y mejorar las relaciones de la PYME con la Administración.
+
+o) El análisis, las propuestas de mejora, desarrollo y la divulgación de las fuentes de financiación para las pequeñas y medianas empresas, así como el desarrollo de actuaciones y programas dirigidos a facilitar el acceso a la financiación de la PYME, bien directamente, o instrumentados a través de las sociedades CERSA y ENISA.
+
+p) La presidencia y la participación en la Comisión de evaluación por la que se establecen los requisitos a los que deberán ajustarse los Convenios de Promoción de Fondos de Titulización de Activos para favorecer la Financiación Empresarial (FTPYME), así como el resto de las que se le atribuyen en la normativa vigente a dichos Fondos.
+
+q) La asistencia técnica y administrativa a la Conferencia Sectorial de Industria y de la PYME. Así mismo, llevará a cabo las actuaciones a desarrollar en el marco del Consejo Estatal de la PYME regulado por el Real Decreto 943/2015, de 29 de julio.
+
+r) La ejecución y seguimiento de las políticas del Gobierno orientadas a facilitar la creación de empresas, gestión del Centro de Información y Red de Creación de Empresas (CIRCE) regulado por el Real Decreto 682/2003, de 7 de junio, y asesoramiento a los emprendedores y a pequeñas y medianas empresas.
+
+s) La titularidad, administración y gestión del Punto de Atención al Emprendedor electrónico del Ministerio de Industria, Comercio y Turismo, así como la gestión de la plataforma «Emprende en 3».
+
+t) La gestión y administración de la Ventanilla Única prevista en la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.
+
+u) El seguimiento de la evolución de la morosidad y resultados de la eficacia de la Ley 15/2010, de 5 de julio, de modificación de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales, sin perjuicio de las competencias que puedan corresponder a otros departamentos ministeriales.
+
+v) La participación en las actividades derivadas de la pertenencia de España a organismos internacionales y en general de las relaciones bilaterales y multilaterales en política industrial y de la pequeña y mediana empresa, así como el impulso y desarrollo de las actividades necesarias para dar cumplimiento a los compromisos y programas europeos e internacionales de apoyo a la industria y a la pequeña y mediana empresa, especialmente los que derivan de la «Ley de la Pequeña Empresa» europea, del Consejo Europeo y de la OCDE, además de a representación de la Administración General del Estado en los Comités de la OCDE y de la Unión Europea en su ámbito de competencia.
+
+w) El desarrollo de actuaciones del emprendimiento, así como la difusión de información de interés directo para las pequeñas y medianas empresas, la gestión y desarrollo del portal PYME, así como de otras páginas web de la Dirección General de Industria y de la Pequeña y Mediana Empresa relativas a emprendedores y PYME.
+
+x) La planificación, coordinación global y de la gestión administrativa y económico-financiera de los programas de ayudas públicas que sean competencia de la Dirección General de Industria y de la Pequeña y Mediana Empresa, así como el seguimiento y control centralizado con criterios coordinados y homogéneos del cumplimiento de las obligaciones contraídas por los beneficiarios de las ayudas, y el control del riesgo de las operaciones, así como la propuesta e implantación de las medidas necesarias para evitarlo.
+
+y) La realización de estudios, estadísticas, bases de datos, informes y análisis de la industria de ámbito sectorial, regional y agregado y para el seguimiento y evaluación de las políticas realizadas por la Dirección General de Industria y de la Pequeña y Mediana Empresa en materia de pequeña y mediana empresa.
+
+z) Cualesquiera otras actuaciones que le sean encomendadas por el Secretario General de Industria y de la Pequeña y Mediana Empresa.
+
+2. De la Dirección General de Industria y de la Pequeña y Mediana Empresa se estructura en las siguientes unidades con nivel orgánico de subdirección general:
+
+a) La Subdirección General de Políticas Sectoriales Industriales que ejercerá las funciones atribuidas en los párrafos a), j), q) y v), en el ámbito de la industria; b), c), d), e) e i) del apartado 1.
+
+b) La Subdirección General de Calidad y Seguridad Industrial, que ejercerá las funciones atribuidas en los párrafos a), j), q) y v) en el ámbito de la industria; b), f), g) y h), del apartado 1.
+
+c) La Subdirección General de Áreas y Programas Industriales que asume las funciones atribuidas en los párrafos a), j), q) y v) en el ámbito de industria, b), e), i) y m) del apartado 1.
+
+d) Subdirección General de Digitalización de la Industria y Entornos Colaborativos que ejercerá las funciones atribuidas en los párrafos a), e), i), j), k), h), q) y v) del apartado 1.
+
+e) Subdirección General de Apoyo a la PYME, que ejercerá las funciones atribuidas en los párrafos a), j), q), v) e y) en el ámbito de la pequeña y mediana empresa; ñ), o), p), r), s), t), u) y w) del apartado 1.
+
+f) La Subdirección General de Gestión y Ejecución de Programas que ejercerá las funciones atribuidas en los párrafos a), i) y q), en el ámbito de la industria, y x) del apartado 1.
