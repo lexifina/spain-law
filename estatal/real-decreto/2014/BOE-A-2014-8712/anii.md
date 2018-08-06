@@ -24,6 +24,8 @@
 | r) Colegiación profesional. | – Consejos y colegios profesionales. | – Consejos y colegios profesionales. |
 | s) Cobertura de responsabilidad civil en cada uno de los ámbitos de ejercicio profesional. | – Ministerios y entidades dependientes. – Consejerías de las CCAA y entidades dependientes. – INGESA. – Entidades que integran la administración local. | – Centros sanitarios privados y entidades de seguro. – Mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social. – Servicios de prevención de riesgos laborales. |
 | t) Suspensión o inhabilitación para el ejercicio profesional. | – Ministerios y entidades dependientes. – Consejerías de las CCAA y entidades dependientes. – INGESA. – Entidades que integran la administración local. – Consejos y colegios profesionales. – Juzgados y Tribunales. | – Consejos y colegios profesionales. – Juzgados y Tribunales. |
-| u) Acreditación para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano | – Ministerio de Sanidad, Servicios Sociales e Igualdad. | – Ministerio de Sanidad, Servicios Sociales e Igualdad. |
+| u) (Anulada) |  |  |
+
+> Se declara la inconstitucionalidad y nulidad, por vulneración de las competencias autonómicas, de la letra u), añadida por el Real Decreto 954/2015, de 23 de octubre. Ref. BOE-A-2015-14028, en los términos establecidos en el fj 9, por Sentencia del TC 76/2018, de 5 de julio. Ref. BOE-A-2018-11274
 
 > Se añade la letra u) por la disposición final 4.4 del Real Decreto 954/2015, de 23 de octubre. Ref. BOE-A-2015-14028.

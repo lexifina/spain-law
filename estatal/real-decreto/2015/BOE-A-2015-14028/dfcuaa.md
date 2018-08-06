@@ -6,15 +6,12 @@ Uno. Se añade un párrafo u) al artículo 5 con la siguiente redacción:
 
 «u) Acreditación para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano.»
 
-Dos. Se modifica el párrafo c) del artículo 6.1, que queda redactado del siguiente modo:
-
-«c) Los demás departamentos ministeriales y los organismos públicos vinculados o dependientes de estos y, en particular, el Ministerio de Justicia, el Ministerio del Interior, el Ministerio de Empleo y Seguridad Social y el Ministerio de Sanidad, Servicios Sociales e Igualdad, respecto a los profesionales sanitarios incluidos en sus registros de personal. En relación a este último departamento ministerial, también respecto a las acreditaciones para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano.»
+Dos. (Anulado)
 
 Tres. Se añade un párrafo u) en el anexo I con el siguiente contenido:
 
 «u) Acreditación para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano.»
 
-Cuatro. Se añade, en el anexo II, el siguiente contenido:
+Cuatro. (Anulado)
 
-| «u) Acreditación para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano | – Ministerio de Sanidad, Servicios Sociales e Igualdad. | – Ministerio de Sanidad, Servicios Sociales e Igualdad.» |
-| --- | --- | --- |
+> Se declara la inconstitucionalidad y nulidad, por vulneración de las competencias autonómicas, de los apartados Dos y Cuatro, con los efectos del fj 9, por Sentencia del TC 76/2018, de 5 de julio. Ref. BOE-A-2018-11274
