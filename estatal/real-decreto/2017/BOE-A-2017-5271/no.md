@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 25 de agosto de 2018, por la disposición derogatoria única del Real Decreto 1047/2018, de 24 de agosto. Ref. BOE-A-2018-11841#dd con excepción de lo establecido en sus disposiciones adicionales primera y segunda.

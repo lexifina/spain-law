@@ -1,0 +1,29 @@
+## Disposición final segunda. Modificación del Real Decreto 595/2018, de 22 de junio, por el que se establece la estructura orgánica básica de los departamentos ministeriales.
+
+El artículo 16 del Real Decreto 595/2018, de 22 de junio, por el que se establece la estructura orgánica básica de los departamentos ministeriales, queda redactado como sigue:
+
+«Artículo 16. Ministerio de Sanidad, Consumo y Bienestar Social.
+
+1. El Ministerio de Sanidad, Consumo y Bienestar Social se estructura en los siguientes órganos superiores y directivos:
+
+A) La Secretaría de Estado de Servicios Sociales, de la que dependen los siguientes órganos directivos:
+
+1.º La Dirección General de Servicios para las Familias y la Infancia.
+
+2.º La Dirección General de Políticas de Discapacidad.
+
+3.º La Delegación del Gobierno para el Plan Nacional sobre Drogas, con rango de Dirección General.
+
+B) La Secretaría General de Sanidad y Consumo, con rango de Subsecretaría, de la que dependen los siguientes órganos directivos:
+
+1.º La Dirección General de Salud Pública, Calidad e Innovación.
+
+2.º La Dirección General de Cartera Básica de Servicios del Sistema Nacional de Salud y Farmacia.
+
+3.º La Dirección General de Ordenación Profesional.
+
+4.º La Dirección General de Consumo.
+
+C) La Subsecretaría de Sanidad, Consumo y Bienestar Social, de la que depende la Secretaría General Técnica.
+
+2. Queda suprimida la Dirección General de Políticas de Apoyo a la Discapacidad y la Dirección General de Servicios para la Familia y la Infancia.»
