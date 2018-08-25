@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Coordinación con el O.A. Gerencia de Infraestructuras y Equipamientos de Cultura.
+
+Por los Ministerios de Educación y Formación Profesional, y de Cultura y Deporte, se establecerán los mecanismos de colaboración necesarios para que el Organismo Autónomo Gerencia de Infraestructuras y Equipamientos de Cultura ejerza aquellas funciones de gestión patrimonial, gestión de alquileres, supervisión de proyectos y ejecución de infraestructuras y equipamientos en los centros educativos y de apoyo administrativo a éstos, cuando sea preciso para una eficaz prestación de los servicios, y el Organismo cuente con la dotación presupuestaria adecuada.
