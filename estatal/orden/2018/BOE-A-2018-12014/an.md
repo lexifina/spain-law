@@ -1,0 +1,23 @@
+## ANEXO
+
+## Acuerdo de Consejo de Ministros por el que se crea un Consejo Asesor para la revisión de la Ley de Enjuiciamiento Criminal desde una perspectiva de género
+
+La elaboración de una nueva Ley de Enjuiciamiento Criminal es uno de los objetivos prioritarios del actual Gobierno. A tal fin, procede realizar una revisión en profundidad de los diversos proyectos existentes, con el objetivo de definir un texto que modernice y actualice la legislación procesal decimonónica, que, a pesar de las innumerables reformas, aún continúa en vigor.
+
+Uno de los ejes que ha de vertebrar el nuevo texto normativo es la perspectiva de género, en base a los motivos y razones que a continuación se ofrecen. Por ello, y con el objeto de introducir este enfoque en la norma, se hace necesario constituir un grupo de trabajo específico, como el que se regula en el presente Acuerdo, que permita contar con algunas de las voces más autorizadas en Derecho Procesal de nuestro país que colabore en la consecución de este objetivo.
+
+La igualdad de mujeres y hombres es un principio jurídico universal reconocido en diversos textos internacionales sobre derechos humanos, entre los que cabe destacar la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer (CEDAW) y la Declaración y Plataforma de Acción de Beijing.
+
+En el ámbito europeo la igualdad entre mujeres y hombres constituye un valor europeo fundamental, recogido en el Tratado de la UE, en su Tratado de Funcionamiento y en la Carta de los Derechos Fundamentales. En ese sentido, la Comisión Europea aprobó el Compromiso Estratégico para la igualdad entre mujeres y hombres 2016-2019 en línea con el Pacto Europeo para la Igualdad de Género 2011-2020.
+
+En España, la Constitución reconoce en el artículo 1 la igualdad como uno de los valores superiores del ordenamiento jurídico, correspondiendo a los poderes públicos promover, según el artículo 9.2, las condiciones para que la libertad y la igualdad del individuo sean reales y efectivas, estableciendo en el artículo 14 la igualdad ante la ley, sin que pueda prevalecer discriminación alguna por razón de sexo. Desde la aprobación de la Constitución, se han llevado a cabo reformas legislativas en los ámbitos civil, penal, laboral, económico, educativo, etc., para introducir la igualdad de trato y de oportunidades y eliminar discriminaciones por razón de sexo.
+
+La Ley Orgánica 3/2007, de 22 de marzo, para la Igualdad Efectiva de Mujeres y Hombres (LOIEMH) establece un marco jurídico para el logro de la igualdad de trato y de oportunidades entre mujeres y hombres y la eliminación de discriminación por razón de sexo en cualesquiera de los ámbitos de la vida, singularmente en las esferas política, civil, laboral, económica, social y cultural. Asimismo regula la transversalidad del principio de igualdad de trato entre mujeres y hombres, que informa la actuación de todos los poderes públicos y deber ser integrado de forma activa, entre otros, en la adopción y ejecución de sus disposiciones normativas.
+
+La Ministra de Justicia en su comparecencia ante la Comisión de Justicia del Congreso de los Diputados del pasado 11 de julio de 2018 señaló la necesidad de «(...) dar cumplimiento al mandato que salió de estas mismas Cortes hace ya más de una década, incorporando la perspectiva de género en nuestra justicia. No hacerlo supondrá que continuemos impartiendo una justicia deficiente y parcial, que trata igual a los que son desiguales y se aleja de la equidad a la que debemos aspirar como sociedad avanzada. Una justicia con perspectiva de género es una justicia que se abre a todo género de perspectivas igualitarias, que busca soluciones justas a situaciones desiguales, lo que no se consigue si seguimos aplicando el ordenamiento jurídico conforme a concepciones formalistas del mismo».
+
+Igualmente añadió la Ministra de Justicia que «hay que conseguir superar la denuncia que en este aspecto pronunció Victoria Kent: La mujer, en general, delinque poco, pero sufre un castigo mil veces más duro que el del hombre. Además, podríamos apostillar que incluso en su rol de testigo-víctima la mujer puede ser revictimizada solo por el hecho de serlo y denunciarlo».
+
+Por todo ello, en aplicación del artículo 22.3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, que recoge la posibilidad de que los diferentes Ministerios creen grupos o comisiones de trabajo se procede a constituir por el presente Acuerdo, el Consejo Asesor para la revisión de la Ley de Enjuiciamiento Criminal desde una perspectiva de género.
+
+En su virtud, a propuesta de la Ministra de Justicia, el Consejo de Ministros, en su reunión del día 31 de agosto de 2018, acuerda:
