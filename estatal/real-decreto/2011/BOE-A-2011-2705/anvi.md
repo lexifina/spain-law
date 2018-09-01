@@ -44,15 +44,17 @@ Profundidad de los ojos.
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de enero de 2012, hayan iniciado los exámenes oficiales para su admisión en Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de septiembre de 2018, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
-Especies que cumplen con los protocolos de examen de la OCVV:
+Especies que cumplen con los protocolos de examen de la OCVV (1):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Solanum tuberosum L. | Patata | TP 23/2 de 1.12.2005 |
+| Solanum tuberosum L. | Patata | TP 23/3 rev. de 15.3.2017. |
 
 1 El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+
+> Se modifica el apartado 6 por el art. único.4 de la Orden APA/894/2018, de 23 de agosto. Ref. BOE-A-2018-11904
 
 > Se modifica el apartado 6 por el art. único.9 de la Orden ARM/3383/2011, de 2 de diciembre. Ref. BOE-A-2011-19442.
 

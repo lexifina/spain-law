@@ -76,7 +76,7 @@ Pasto del Sudán e híbridos de Sorgo por Pasto del Sudán: contenido en materia
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de julio de 2017, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de septiembre de 2018, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV (1):
 
@@ -88,13 +88,14 @@ Especies que cumplen con las directrices de examen de la UPOV (2):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Sorghum bicolor (L.) Moench | Sorgo | TG/122/4 de 25.3.2015 |
+| Sorghum sudanense (Piper) Stapf. | Pasto del Sudán. | TG/122/4 de 25.3.2015. |
+| Sorghum bicolor (L.) Moench x Sorghum sudanense (Piper) Stapf. | Híbridos resultantes del cruce entre Sorghum bicolor y Sorghum sudanense. | TG/122/4 de 25.3.2015. |
 
 1 El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
-2 El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+2 El texto de estos protocolos puede consultarse en la web de la UPOV (www.upov.int).
 
-> Téngase en cuenta que la modificación del apartado 6, efectuada por el art. único.2 de la Orden APM/383/2017, de 21 de abril. Ref. BOE-A-2017-4871 entra en vigor el 1 de julio de 2017.
+> Se modifica el apartado 6 por el art. único.1 de la Orden APA/894/2018, de 23 de agosto. Ref. BOE-A-2018-11904
 
 > Se modifica el apartado 6, con efectos de 1 de julio de 2017, por el art. único.2 de la Orden APM/383/2017, de 21 de abril. Ref. BOE-A-2017-4871
 
