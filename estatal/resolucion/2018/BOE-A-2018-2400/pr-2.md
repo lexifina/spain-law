@@ -140,9 +140,7 @@ Por elevada concentración de vehículos en determinados lugares de especial pro
 
 D.2 Mejora de la Seguridad vial de tramos con elevada siniestralidad:
 
-D.2.1 Por características de los vehículos y tramos de vía:
-
-En orden a garantizar la seguridad vial, movilidad y fluidez de la circulación, así como por la peligrosidad intrínseca de la carga de ciertos vehículos, es necesario dictar medidas restrictivas que afectan a la circulación de determinados vehículos o conjuntos de vehículos de transporte de mercancías en los tramos de carreteras que se recogen en el anexo VII de esta Resolución, con la finalidad de disminuir su siniestralidad y mejorar la seguridad vial de todos los usuarios de los tramos en cuestión.
+D.2.1 Por características de los vehículos y tramos de vía: En orden a garantizar la seguridad vial, movilidad y fluidez de la circulación, así como por la peligrosidad intrínseca de la carga de ciertos vehículos, es necesario dictar medidas restrictivas que afectan a la circulación de determinados vehículos o conjuntos de vehículos de transporte de mercancías en los tramos de carreteras que se recogen en el anexo VII de esta Resolución, con la finalidad de disminuir su siniestralidad y mejorar la seguridad vial de todos los usuarios de los tramos en cuestión.
 
 Por este motivo, con carácter temporal hasta que futuras actuaciones específicas puedan garantizar la Seguridad vial de los usuarios, se reduce la proporción de vehículos pesados que circula por dichos tramos, teniendo en cuenta que existen itinerarios alternativos, que deberán ser utilizados por los vehículos afectados por esta restricción, por tener mejores características de trazado y mayor capacidad.
 
@@ -150,13 +148,13 @@ D.2.2 Exenciones:
 
 Quedan exceptuados de esta restricción:
 
-– Los vehículos o conjunto de vehículos en los que el origen o destino de las mercancías que transportan, de acuerdo con la carta de porte o documentación equivalente que lleven a bordo, se encuentren en las localidades a las que sólo puede accederse desde los tramos restringidos, en el trayecto imprescindible debidamente justificado.
+– Los vehículos o conjunto de vehículos en los que el origen o destino de las mercancías que transportan, de acuerdo con la carta de porte o documentación equivalente que lleven a bordo, se encuentren en las localidades a las que sólo puede accederse desde los tramos restringidos, en el trayecto mínimo imprescindible, debidamente justificado. De igual forma y en las mismas condiciones quedarán exentos de esta restricción los desplazamientos cuyo destino u origen sea la residencia habitual del conductor, el lugar de domiciliación del vehículos o base de la empresa transportista
 
 – Los vehículos dedicados al servicio de Auxilio en carretera.
 
-– Los vehículos o conjuntos de vehículos con autorización especial de circulación por razón de su carga indivisible o de las características constructivas de los vehículos con itinerario específico que incluya total o parcialmente el tramo afectado por esta restricción.
+– Los vehículos o conjuntos de vehículos con autorización especial de circulación por razón de su carga indivisible o de las características constructivas de los vehículos con itinerario específico que, por razones técnicas justificadas, incluya total o parcialmente el tramo afectado por esta restricción.
 
-– Los desplazamientos dentro del tramo restringido cuyo destino u origen sea la residencia habitual del conductor o el lugar de domiciliación del vehículo; para efectuar los descansos diario o semanal; para la realización de operaciones de reparación o mantenimiento del vehículo.
+– Los desplazamientos dentro del tramo restringido, en el trayecto mínimo imprescindible y volviendo necesariamente por el mismo itinerario; para efectuar los descansos diario o semanal; para la realización de operaciones de reparación o mantenimiento del vehículo; para avituallamiento o abastecimiento.
 
 – En situaciones excepcionales, de emergencia o de servicio público, los Agentes de la Autoridad responsables de la vigilancia y disciplina del tráfico, podrán permitir la circulación de los vehículos sometidos a la restricción referida.
 
@@ -173,3 +171,5 @@ F) Restricciones a la ejecución de obras en la vía:
 En razón de las circunstancias o características especiales del tráfico, durante el calendario de Operaciones de Tráfico con motivo de los desplazamientos masivos de vehículos previstos durante el año 2018, y con el objeto de mejorar la seguridad vial y fluidez de la circulación, el Organismo Autónomo Jefatura Central de Tráfico solicitará, en todo caso, a los Organismos titulares de vías afectadas, que lleven a efecto la interrupción de las obras en los términos previstos en el anexo VI.
 
 No obstante, por motivos justificados, los Organismos titulares de las vías podrán autorizar de manera excepcional, previa comunicación al Organismo Autónomo Jefatura Central de Tráfico, la realización de obras en las fechas y vías recogidas en el anexo VI.
+
+> Se modifica los apartados D.2.1. y D.2.2 por el apartado 1.1 y 2 de la Resolución de 30 de agosto de 2018. Ref. BOE-A-2018-12016
