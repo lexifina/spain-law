@@ -18,6 +18,8 @@ El artículo 38 se incardina en el artículo 149.1.31.ª de la Constitución sob
 
 El artículo 45 se dicta al amparo del artículo 149.1.18.ª de la Constitución sobre «legislación básica sobre contratos y concesiones administrativas».
 
-La Sección 2.ª del Título V y las disposiciones adicionales cuarta, quinta, sexta y séptima se dictan al amparo del artículo 149.1.2.ª de la Constitución en materia de nacionalidad, inmigración, extranjería y derecho de asilo.
+La Sección 2.ª del Título V y las disposiciones adicionales cuarta, quinta, sexta, séptima, decimoséptima, decimoctava y decimonovena se dictan al amparo del artículo 149.1.2.ª de la Constitución en materia de nacionalidad, inmigración, extranjería y derecho de asilo.
 
 Los artículos que constituyan modificación de normas vigentes, se considerarán dictados al amparo del título competencial que figure en las normas objeto de modificación.
+
+> Se modifica por el art. 3.7 del Real Decreto-ley 11/2018, de 31 de agosto. Ref. BOE-A-2018-12131#at

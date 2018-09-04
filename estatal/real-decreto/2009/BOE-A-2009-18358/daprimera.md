@@ -8,8 +8,16 @@
 
 4. (Derogado)
 
-> Quedan derogados los apartados 1, 2 y 4 por la disposición derogatoria única.2.g) de la Ley 39/2015, de 1 de octubre. Ref. BOE-A-2015-10565#ddunica. a partir del 2 de octubre de 2016, según establece su disposición final 7. No obstante, dichos apartados 1, 2 y 4 se mantendrán en vigor hasta que produzcan efectos las previsiones de la citada ley relativas a la materia que se deroga.
+> Téngase en cuenta que se derogan los apartados 1, 2 y 4 por la disposición derogatoria única.2.g) de la Ley 39/2015, de 1 de octubre. Ref. BOE-A-2015-10565#ddunica. No obstante, hasta que, de acuerdo con lo dispuesto en la disposición final séptima, en la redacción dada por la disposición final 9 del Real Decreto-ley 28/2020, de 22 de septiembre, Ref. BOE-A-2020-11043#df-9, produzcan efectos las previsiones relativas al registro electrónico de apoderamientos, registro electrónico, punto de acceso general electrónico de la Administración y archivo único electrónico, que será a partir del día 2 de abril de 2021, se mantendrán en vigor los artículos relativos a las materias mencionadas.
+
+> Redacción anterior:
+
+> "1. Lo dispuesto en este real decreto se entiende sin perjuicio de la regulación especial contenida en la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público y sus normas de desarrollo en relación con el perfil del contratante, Plataforma de Contratación del Estado y uso de medios electrónicos en los procedimientos relacionados con la contratación pública.
+
+> 2. La aplicación de las disposiciones de este real decreto sobre gestión electrónica de procedimientos en materia tributaria, de seguridad social y desempleo y de régimen jurídico de los extranjeros en España, se efectuará de conformidad con lo establecido en las disposiciones adicionales quinta, sexta, séptima y decimonovena de la Ley 30/1992, de 26 de noviembre.
+
+> 4. Lo dispuesto en este real decreto se entiende sin perjuicio de la regulación contenida en los reales decretos 181/2008, de 8 de febrero, de ordenación del diario oficial «Boletín Oficial del Estado» y 1979/2008, de 28 de noviembre, por el que se regula la edición electrónica del «Boletín Oficial del Registro Mercantil»."
 
 > Se derogan los apartados 1, 2 y 4 por la disposición derogatoria única.2.g) de la Ley 39/2015, de 1 de octubre. Ref. BOE-A-2015-10565#ddunica.
 
-> No obstante, hasta que, de acuerdo con lo dispuesto en la disposición final séptima, produzcan efectos las previsiones relativas al registro electrónico de apoderamientos, registro electrónico, punto de acceso general electrónico de la Administración y archivo único electrónico, se mantendrán en vigor los artículos relativos a las materias mencionadas.
+> No obstante, hasta que, de acuerdo con lo dispuesto en la disposición final séptima, en la redacción dada por la disposición final 9 del Real Decreto-ley 28/2020, de 22 de septiembre, Ref. BOE-A-2020-11043#df-9, produzcan efectos las previsiones relativas al registro electrónico de apoderamientos, registro electrónico, punto de acceso general electrónico de la Administración y archivo único electrónico, que será a partir del día 2 de abril de 2021, se mantendrán en vigor los artículos relativos a las materias mencionadas.
