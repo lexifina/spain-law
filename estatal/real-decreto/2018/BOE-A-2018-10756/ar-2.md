@@ -124,7 +124,7 @@ c) La Secretaría General de Vivienda.
 
 a) La Unidad de Emergencias y Coordinación y Gestión de Crisis, a la que corresponde la asistencia al Secretario de Estado en la definición, adopción, gestión, control y evaluación de las medidas y actuaciones necesarias, en el ámbito de competencias atribuidas al Ministerio de Fomento, para garantizar en los servicios de transporte y en las infraestructuras correspondientes el restablecimiento de la situación de normalidad.
 
-b) La Subdirección General de Planificación de Infraestructuras y Transporte, a la que corresponde el ejercicio de las funciones a que se refiere el apartado 5.g), h), i), j), k), l), m), n) y ñ).
+b) La Subdirección General de Planificación de Infraestructuras y Transporte, a la que corresponde el ejercicio de las funciones a que se refieren los apartados 5.g), h), i), j), k), l), m) y n), y 6.ñ).
 
 c) La Subdirección General de Relaciones Internacionales, a la que corresponde el ejercicio de las funciones a que se refiere el apartado 10.
 
@@ -143,5 +143,7 @@ e) La entidad pública empresarial Enaire.
 f) La entidad pública empresarial de Suelo (SEPES). Corresponde al titular de la Secretaría de Estado la presidencia de esta entidad.
 
 15. Depende del Ministerio de Fomento, a través de la Secretaría de Estado de Infraestructuras, Transporte y Vivienda, el organismo autónomo Centro de Estudios y Experimentación de Obras Públicas (CEDEX).
+
+> Se modifica el apartado 13.b) por la disposición final 2 del Real Decreto 1113/2018, de 7 de septiembre. Ref. BOE-A-2018-12265#df-2
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 221, de 12 de septiembre de 2018. Ref. BOE-A-2018-12398
