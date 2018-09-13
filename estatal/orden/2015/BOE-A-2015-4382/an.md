@@ -133,8 +133,6 @@
 | 08-770-Oviedo-Valdecilla La Marga. | 1.000 | Varias: Asturias; Cantabria. | 1.500 V CC / NO | 2 / 1 | 215,4 |
 | 08-778-Llovio-Ribadesella Puerto. | 1.000 | Asturias. | NO | 1 | 2,6 |
 | 08-780-Santander-Bilbao La Concordia. | 1.000 | Varias: Cantabria; País Vasco. | 1.500 V CC / NO | 2 / 1 | 118,5 |
-| 08-782-Basurto Hospital-Ariz. | 1.000 | País Vasco. | NO | 1 | 7,8 |
-| 08-784-Irauregui-Lutxana-Barakaldo. | 1.000 | País Vasco. | NO | 1 | 5,7 |
 | 08-786-Orejo-Liérganes. | 1.000 | Cantabria. | 1.500 V CC | 1 | 9,7 |
 | 08-788-Maliaño-Puerto de Raos. | 1.000 | Cantabria. | 1.500 V CC | 1 | 2,5 |
 | 08-790-Asunción Universidad-Aranguren. | 1.000 | Varias: Castilla y León; Cantabria; País Vasco. | NO | 1 | 308,3 |
@@ -163,8 +161,6 @@
 | 14-Enlaces, Ramales y Variantes. | 1.435 | Varias. |  |  | 4,8 |
 | 16-Olmedo-Medina-Zamora-Ourense-Santiago de Compostela |  |  |  |  |  |
 | 16-082-Ourense (Bif. Coto da Torre)-Santiago Compostela (Bif. a Grandeira). | 1.668 | Galicia. | 25.000 V CA | 2 | 84,1 |
-
-> Téngase en cuenta que se declara la nulidad de los incisos destacados, por Sentencia del TC 124/2016, de 23 de junio. Ref. BOE-A-2016-7301.
 
 ## 2. Redes portuarias y sus accesos
 
@@ -199,5 +195,7 @@
 | Línea | Administrador | Ancho de vía (mm) | Comunidad Autónoma | Electrificación | N.º vías | Longitud (Km) |
 | --- | --- | --- | --- | --- | --- | --- |
 | I001. Límite ADIF/TP Ferro-Frontera Francesa. | TPFERRO. | 1.435 | Cataluña. | 25.000 V CA | 2 | 19,8 |
+
+> Se modifica el punto 1 por el apartado 1 de la Orden FOM/925/2018, de 10 de septiembre. Ref. BOE-A-2018-12397
 
 > Se anulan los incisos destacados por Sentencia del TC 124/2016, de 23 de junio. Ref. BOE-A-2016-7301.
