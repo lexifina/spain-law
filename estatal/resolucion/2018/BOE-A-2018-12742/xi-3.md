@@ -1,0 +1,3 @@
+XIII. Comunicación a los Ayuntamientos del resultado de la estimación/desestimación de las alegaciones y de la propuesta de población que se elevará al Gobierno
+
+Una vez informadas las discrepancias por el Consejo de Empadronamiento, así como la propuesta de cifra de población que el Presidente del INE elevará al Gobierno, esta última será comunicada a cada Ayuntamiento informándose asimismo, en su caso, de la disponibilidad para su descarga a través de IDA-Padrón del fichero FppmmmIA.aaa, cuyo diseño de registro se incluye en el anexo V, con el resultado de la estimación/desestimación de las alegaciones.
