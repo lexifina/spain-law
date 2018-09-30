@@ -1,0 +1,3 @@
+## Disposición final primera. Habilitación normativa.
+
+Se autoriza a la Ministra de Política Territorial y Función Pública para desarrollar, en el ámbito de sus competencias, lo previsto en este real decreto y, en particular, para proceder mediante orden a la determinación de la fecha en que los interesados a los que es de aplicación este Reglamento tengan la obligación de relacionarse a través de medios electrónicos con la Oficina de Conflicto de Intereses en los procedimientos previstos en la Ley 3/2015, de 30 de marzo, y en este Reglamento, de acuerdo con el artículo 14.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
