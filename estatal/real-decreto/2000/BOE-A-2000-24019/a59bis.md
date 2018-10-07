@@ -1,6 +1,6 @@
 ## Artículo 59 bis. Garantía económica para tramitar la solicitud de acceso a la red de transporte de instalaciones de producción.
 
-1. Para las instalaciones de producción, el solicitante, antes de realizar la solicitud de acceso a la red de transporte deberá presentar, ante el órgano competente para otorgar la autorización de la instalación, resguardo acreditativo de haber depositado una garantía económica por una cuantía equivalente a 10 €/kW instalados.
+1. Para las instalaciones de producción, el solicitante, antes de realizar la solicitud de acceso a la red de transporte deberá presentar, ante el órgano competente para otorgar la autorización de la instalación, resguardo acreditativo de haber depositado una garantía económica por una cuantía equivalente a 40 €/kW instalados.
 
 En el caso de instalaciones competencia de la Administración General del Estado dicha garantía se depositará ante la Caja General de Depósitos. Por orden del Ministro de Industria, Energía y Turismo podrá modificarse dicha cuantía, así como establecer cuantías diferenciadas en función de la potencia.
 
@@ -17,6 +17,8 @@ Deberá indicarse expresamente en el resguardo de constitución de la garantía 
 El desistimiento en la construcción de la instalación, la caducidad de los procedimientos de autorización administrativa de la instalación o el incumplimiento de los plazos previstos en las autorizaciones preceptivas supondrá la ejecución de la garantía. Ello no obstante, la Dirección General de Política Energética y Minas podrá exceptuar la ejecución de la garantía depositada por el titular de una instalación, si el desistimiento en la construcción de la misma viene dado por circunstancias impeditivas que no fueran ni directa ni indirectamente imputables al interesado y así fuera solicitado por éste a la Dirección General de Política Energética y Minas.
 
 3. El desistimiento en la construcción, la caducidad de los procedimientos de autorización administrativa de la instalación o la ejecución de la garantía supondrá la pérdida de los derechos de acceso y conexión correspondientes y será comunicado, en el caso de instalaciones competencia de la Administración General del Estado, por la Dirección General de Política Energética y Minas al operador del sistema a los efectos oportunos.
+
+> Se modifica la cuantía del apartado 1 por la disposición adicional 3.1 del Real Decreto-Ley 15/2018, de 5 de octubre. Ref. BOE-A-2018-13593#da-3
 
 > Se modifica por el art. 1.1 del Real Decreto 1074/2015, de 27 de noviembre. Ref. BOE-A-2015-13140.
 

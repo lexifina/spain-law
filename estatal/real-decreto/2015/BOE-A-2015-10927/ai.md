@@ -20,18 +20,8 @@ Las energías y potencias a efectos de facturación y de liquidación definidas 
 
 8. Energía horaria neta generada: se obtendrá mediante el saldo neto horario obtenido a partir de los registros de energía saliente y entrante del equipo de medida que mide la energía generada neta, cuando dicho saldo neto horario sea generador. A los efectos de determinar la energía horaria neta generada, ésta se considerará nula cuando el saldo neto horario no sea generador.
 
-9. Potencia de aplicación de cargos se determina:
-
-a. Cuando se disponga de un equipo de medida en el circuito de consumo que registre la energía consumida total por el consumidor asociado la potencia de aplicación de cargos será la potencia que correspondería facturar a efectos de aplicación de los peajes de acceso en un periodo tarifario si el control de la potencia demandada se realizara utilizando dicho equipo de medida y control.
-
-b. Cuando no se disponga del equipo anterior, la potencia de aplicación de cargos será:
-
-1.º Cuando todas las instalaciones de generación sean no gestionables, la potencia de aplicación de cargos será la potencia que correspondería facturar a efectos de aplicación de los peajes de acceso en un periodo tarifario si el control de la potencia demandada se realizara utilizando el equipo de medida y control ubicado en el punto frontera.
-
-2.º En el resto de supuestos, la potencia de aplicación de cargos será la suma de la potencia que correspondería facturar a efectos de aplicación de los peajes de acceso en un periodo tarifario si el control de la potencia demandada se realizara utilizando el equipo de medida y control ubicado en el punto frontera más la potencia máxima de generación en el periodo tarifario.
-
-A estos efectos se considerarán instalaciones de generación no gestionables las instalaciones de tecnología eólica y fotovoltaica sin elementos de acumulación.
-
-En todos los casos se considerará una potencia de aplicación de cargos nula cuando el valor sea negativo.
+9. (Derogado)
 
 10. Vertido horario: se determina a partir del saldo neto horario de energía vertida a la red obtenido a partir de los registros de energía saliente y entrante del equipo de medida instalado en el punto frontera o, si no se dispone de dicho equipo, como la diferencia horaria entre la energía horaria neta generada menos la energía horaria consumida. En ambos casos se considerará nulo cuando el valor sea negativo.
+
+> Se deroga el apartado 9 por la disposición derogatoria única.c) del Real Decreto-Ley 15/2018, de 5 de octubre. Ref. BOE-A-2018-13593#dd
