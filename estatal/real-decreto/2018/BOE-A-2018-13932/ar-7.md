@@ -1,0 +1,21 @@
+## Artículo 7. Dirección General para América del Norte, Europa Oriental, Asia y Pacífico.
+
+1. Corresponde a la Dirección General para América del Norte, Europa Oriental, Asia y Pacífico el ejercicio de las siguientes competencias:
+
+a) La propuesta y ejecución de la política exterior de España en su área geográfica correspondiente.
+
+b) El impulso de las relaciones bilaterales con los países que engloba.
+
+c) El seguimiento de las iniciativas y foros multilaterales del área geográfica de su competencia.
+
+d) El impulso a las Fundaciones Consejo España-Estados Unidos, España-China, España-Japón, España-India y España-Australia.
+
+2. La Dirección General se estructura en los siguientes órganos directivos con nivel orgánico de subdirección general:
+
+a) La Subdirección General de América del Norte, a la que corresponde, en su ámbito geográfico, el ejercicio de las funciones enumeradas en las letras a), b) y c) del apartado anterior; el de la Vicepresidencia del Comité Permanente Hispano-Norteamericano; la coordinación de la ejecución y el seguimiento del Convenio de Cooperación para la Defensa entre el Reino de España y los Estados Unidos de América; y la elaboración y puesta en marcha del Plan de Acción hacia la Comunidad Hispana en EE.UU.
+
+b) La Subdirección General de Europa Oriental y Asia Central, a la que corresponde, en su ámbito geográfico, el ejercicio de las funciones enumeradas en las letras a) b) y c) del apartado anterior.
+
+c) La Subdirección General de Asia Meridional y Oriental, a la que corresponde, en su ámbito geográfico, el ejercicio de las funciones enumeradas en las letras a), b) y c) del apartado anterior.
+
+d) La Subdirección General de Pacífico, Sureste Asiático y Filipinas, a la que corresponde, en su ámbito geográfico, el ejercicio de las funciones enumeradas en las letras a), b) y c) del apartado anterior, el seguimiento de los asuntos de la ASEAN y otros foros regionales en Asia-Pacífico, y del proceso ASEM.

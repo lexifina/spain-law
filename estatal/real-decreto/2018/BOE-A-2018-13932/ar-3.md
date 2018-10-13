@@ -1,0 +1,35 @@
+## Artículo 3. Dirección General de Política Exterior y de Seguridad.
+
+1. La Dirección General de Política Exterior y de Seguridad ejecuta las directrices de la Secretaría de Estado de Asuntos Exteriores, de la que directamente depende, en las funciones de asistencia al Ministro de Asuntos Exteriores, Unión Europea y Cooperación en la formulación y ejecución de la política exterior en sus planteamientos y objetivos globales, y, especialmente, en la coordinación de la política exterior española con respecto a la Política Exterior y de Seguridad Común de la Unión Europea que, bajo las orientaciones del Consejo Europeo y de las decisiones aprobadas por el Consejo de Asuntos Exteriores, tiene al frente al Alto Representante apoyado por un Servicio Europeo de Acción Exterior.
+
+El Director General ejerce las competencias inherentes a su responsabilidad de dirección y aquellas que le sean delegadas por el Secretario de Estado e impulsa la consecución de los objetivos y la ejecución de los proyectos propios de la política exterior española en las áreas y campos indicados, controlando su cumplimiento, supervisando y coordinando la actividad de los órganos directivos adscritos e impartiendo instrucciones a sus titulares. Igualmente, en tanto que director político, representa a España en el Comité Político y de Seguridad de la Unión Europea. En particular, corresponden a la Dirección General de Política Exterior y de Seguridad las siguientes competencias:
+
+a) La asistencia al Secretario de Estado en la propuesta y ejecución de la política exterior en sus planteamientos y objetivos globales.
+
+b) La coordinación, en su calidad de Director Político, y sin perjuicio de las competencias propias de cada una de ellas, de las Direcciones Generales de Naciones Unidas y Derechos Humanos; para el Magreb, Mediterráneo y Oriente Próximo; para África; para América del Norte, Europa Oriental, Asia y Pacífico; de Europa Occidental, Central y Sudeste de Europa; y para Iberoamérica y el Caribe.
+
+c) La coordinación y seguimiento, en su calidad de Director Político, de la participación de España en la Política Exterior y de Seguridad Común de la Unión Europea, incluida la Política Común de Seguridad y de Defensa, la preparación y el seguimiento de las reuniones del Consejo de Asuntos Exteriores y del Comité Político y de Seguridad de la Unión Europea, y la representación de España en otras reuniones a nivel de Directores Políticos.
+
+d) El seguimiento y análisis de aquellas cuestiones de carácter global que afecten a la comunidad internacional en su conjunto y requieran una respuesta concertada de la misma, y la definición y coordinación de la posición de España, junto con los Departamentos ministeriales concernidos.
+
+e) La coordinación de las candidaturas que España presenta y apoya a órganos unipersonales o colegiados de organizaciones y foros internacionales en los que participa.
+
+f) La definición estratégica de la posición de España sobre cuestiones internacionales de seguridad, en los ámbitos tanto multilateral como bilateral.
+
+g) La coordinación de la representación institucional de España en los foros multilaterales en los que se aborde la no proliferación y el desarme, las actividades de índole política y jurídica relacionadas con estas materias, tanto de los órganos principales de las Naciones Unidas como de sus órganos subsidiarios, comités y grupos de trabajo dependientes; la coordinación general de la acción del Departamento en las iniciativas y el seguimiento de los asuntos estratégicos relacionados con la no proliferación, el desarme y las nuevas amenazas; el seguimiento de las actividades y negociaciones de desarme y de control de armamentos en el marco de las Naciones Unidas y de la Organización para la Seguridad y la Cooperación en Europa y de otros foros específicos en los que España participe; y el seguimiento de la verificación general de los acuerdos de desarme y de control de armamento de los que España forme parte, en colaboración con los restantes Departamentos competentes.
+
+h) La coordinación de la representación institucional de España en los foros multilaterales en que se aborden los asuntos de terrorismo, las actividades de índole política y jurídica relacionadas con esta materia, tanto de los órganos principales de las Naciones Unidas como de sus órganos subsidiarios, comités y grupos de trabajo dependientes, la coordinación de la acción del Departamento en las iniciativas y en el seguimiento de los asuntos internacionales de terrorismo, y el análisis continuado del terrorismo como elemento estratégico en la definición de las actuaciones del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.
+
+i) La coordinación de la representación institucional de España en los foros multilaterales en que se aborden los asuntos de seguridad, las actividades de índole política y jurídica relacionadas con esta materia, tanto de los órganos principales de las Naciones Unidas como de sus órganos subsidiarios, comités y grupos de trabajo dependientes, así como en la Organización del Tratado del Atlántico Norte, la Organización para la Seguridad y la Cooperación en Europa y otros organismos regionales de seguridad; y la coordinación de la acción del Departamento en las iniciativas y en el seguimiento de los asuntos internacionales de seguridad.
+
+j) El seguimiento de las operaciones de mantenimiento de la paz, y la coordinación de los distintos órganos del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación y de otros Departamentos ministeriales en relación con la participación de España en las mismas.
+
+2. La Dirección General de Política Exterior y de Seguridad se estructura en los siguientes órganos directivos con nivel orgánico de subdirección general:
+
+a) La Subdirección General de Política Exterior y de Seguridad Común, a la que corresponde el ejercicio de las funciones enumeradas en la letra c) del apartado anterior.
+
+b) La Subdirección General de Seguridad, a la que corresponde el ejercicio de las funciones enumeradas en las letras f), i) y j) del apartado anterior.
+
+c) La Subdirección General de No Proliferación y Desarme, a la que corresponde el ejercicio de las funciones enumeradas en la letra g) del apartado anterior.
+
+d) La Subdirección General de Cooperación Internacional contra el Terrorismo, las Drogas y la Delincuencia Organizada, a la que corresponde el ejercicio de las funciones enumeradas en la letra h) del apartado anterior.
