@@ -113,6 +113,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 72](a72.md)
 - [Artículo 73](a73.md)
 - [CAPÍTULO II](cii-4.md)
+- [Artículos 74 a 85](a7-2.md)
 - [Sección Primera](sprimera-3.md)
 - [Artículo 74](a74.md)
 - [Artículo 75](a75.md)

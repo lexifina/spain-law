@@ -1,3 +1,5 @@
 ## CAPÍTULO II
 
 ## La cooperación jurisdiccional internacional
+
+> Se deroga por la disposición derogatoria única del Acuerdo de 27 de septiembre de 2018. Ref. BOE-A-2018-14035
