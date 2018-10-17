@@ -184,6 +184,7 @@
 | Narcissus yellow stripe virus. |
 | Otros organismos nocivos: |
 | Cyperus esculentus. |
+| Palmae, en lo que respecta a los géneros o especies que se indican a continuación: – Areca catechu L. – Syagrus romanzoffiana (Cham.) Glassman – Arenga pinnata (Wurmb) Merr. – Bismarckia Hildebr. & H.Wendl. – Borassus flabellifer L. – Brahea armata S. Watson – Brahea edulis H.Wendl. – Butia capitata (Mart.) Becc. – Calamus merrillii Becc. – Caryota maxima Blume – Caryota cumingii Lodd. ex Mart. – Chamaerops humilis L. – Cocos nucifera L. – Corypha utan Lam. – Copernicia Mart. – Elaeis guineensis Jacq. – Howea forsteriana Becc. – Jubaea chilensis (Molina) Baill. – Livistona australis C.Martius – Livistona decora (W.Bull) Dowe – Livistona rotundifolia (Lam.) Mart. – Metroxylon sagu Rottb. – Roystonea regia (Kunth) O.F. Cook – Phoenix canariensis Chabaud – Phoenix dactylifera L. – Phoenix reclinata Jacq. – Phoenix roebelenii O’Brien – Phoenix sylvestris (L.) Roxb. – Phoenix theophrasti Greuter – Pritchardia Seem. & H.Wendl. – Ravenea rivularis Jum. & H.Perrier – Sabal palmetto (Walter) Lodd. ex Schult. & Schult.f. – Trachycarpus fortunei (Hook.) H.Wendl. – Washingtonia H.Wendl. | Insectos, ácaros y nematodos en todas sus fases de desarrollo. – Rhynchophorus ferrugineus (Olivier) |
 | Pelargonium L. | Insectos, ácaros y nematodos en todas sus fases de desarrollo: |
 | Aleurodidae, en particular Bemisia Tabaci. |
 | Lepidoptera. |
@@ -275,3 +276,5 @@
 | Apple mosaic virus. |
 | Arabis mosic nepovirus. |
 | Prunun necrotic ringspot virus. |
+
+> Se añade un género por el art. único.3 del Real Decreto 1270/2018, de 15 de octubre. Ref. BOE-A-2018-14113
