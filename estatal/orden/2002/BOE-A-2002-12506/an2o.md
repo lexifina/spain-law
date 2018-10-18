@@ -1,5 +1,9 @@
-## ANEXO 2
+## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/147/06709_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/251/14180_5716.png)
+
+> Se modifica y se renumera por el art. único.5 de la Orden PCI/1077/2018, de 15 de octubre. Ref. BOE-A-2018-14180
+
+> Su anterior numeración era Anexo 3.
 
 > Se modifica por el art. único.11 de la Orden PRE/1136/2013, de 19 de junio. Ref. BOE-A-2013-6709.

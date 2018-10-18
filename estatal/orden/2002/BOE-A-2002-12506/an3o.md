@@ -1,3 +1,7 @@
-## ANEXO 3
+## ANEXO III
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2002/152/12506_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/251/14180_5787.png)
+
+> Se modifica y se renumera por el art. único.5 de la Orden PCI/1077/2018, de 15 de octubre. Ref. BOE-A-2018-14180
+
+> Su anterior numeración era Anexo 4.
