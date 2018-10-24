@@ -34,17 +34,23 @@ Se realizarán repartos en los siguientes puntos del sistema gasista:
 
 – Puntos de conexión entre gasoductos de distribución de dos titulares diferentes (PCDD).
 
+– Puntos de conexión de plantas de producción de biogás con gasoductos de distribución (PPBD).
+
 – Puntos de conexión de carga de cisternas en plantas de regasificación (PCCC).
 
 – Puntos de carga o descarga de buques (PCDB).
 
-6.1.3 Responsables de la medida del gas transitado. El responsable de la medida del gas transitado a repartir será el titular de la unidad de medida, con las siguientes excepciones:
+6.1.3 Responsables de la medida del gas transitado.
+
+El responsable de la medida del gas transitado a repartir será el titular de la unidad de medida, con las siguientes excepciones:
 
 – En puntos de conexión de las redes de transporte con las redes de distribución (PCTD) la medida del gas transitado será responsabilidad del titular de la unidad de medida, salvo que exista otro acuerdo entre las partes.
 
 – En puntos de conexión entre gasoductos de distribución de dos titulares diferentes (PCDD) la medida del gas transitado será responsabilidad del titular de la unidad de medida, salvo que exista otro acuerdo entre las partes.
 
-– En puntos de conexión de gasoductos de transporte con líneas directas o clientes finales (PCLD) la medida del gas transitado será responsabilidad del transportista conectado aguas arriba, salvo que exista otro acuerdo entre las partes. Además, en los casos en que la unidad de medida del transportista no esté disponible, podrá utilizarse la unidad de medida del consumidor.
+– En puntos de conexión de plantas de producción de biogás con redes de distribución (PPBD), la medida del gas introducido en la red de distribución, será responsabilidad del distribuidor, salvo que exista otro acuerdo entre las partes.
+
+– En puntos de conexión de gasoductos de transporte con líneas directas o clientes finales (PCLD) la medida del gas tra nsitado será responsabilidad del transportista conectado aguas arriba, salvo que exista otro acuerdo entre las partes. Además, en los casos en que la unidad de medida del transportista no esté disponible, podrá utilizarse la unidad de medida del consumidor.
 
 – En puntos de carga o descarga de buques (PCDB) y puntos de conexión de carga de cisternas en plantas de regasificación (PCCC), la medida del gas transitado será responsabilidad del titular de la planta de regasificación donde ha tenido lugar la carga o la descarga.
 
@@ -60,6 +66,8 @@ El responsable de realizar el reparto del gas transitado será, con carácter ge
 
 – En puntos de conexión entre redes de distribución de dos titulares diferentes (PCDD) el responsable del reparto será el titular de la red situada aguas abajo.
 
+– En puntos de conexión de plantas de producción de biogás con redes de distribución (PPBD), el responsable del reparto será el titular de la red de distribución.
+
 – En puntos de conexión con gasoductos internacionales (PCI), el responsable del reparto se acordará entre los transportistas interconectados.
 
 – En puntos de conexión de gasoductos de transporte con plantas de regasificación (PCPR) el responsable del reparto será el Gestor Técnico del Sistema en colaboración con el titular de la planta de regasificación.
@@ -68,7 +76,7 @@ El responsable de realizar el reparto del gas transitado será, con carácter ge
 
 – En los puntos de conexión de los gasoductos de transporte con los almacenamientos subterráneos (PCAS) el responsable del reparto será el Gestor Técnico del Sistema en colaboración con los operadores de los almacenamientos subterráneos.
 
-El responsable del reparto asignará entre los usuarios la medida facilitada por el responsable de la medida y se la comunicará a través del SL- ATR.
+El responsable del reparto asignará entre los usuarios la medida facilitada por el responsable de la medida y se la comunicará a través del SL– ATR.
 
 El Gestor Técnico del Sistema publicará en el SL-ATR un listado actualizado de todos los puntos de reparto del sistema gasista, indicando el responsable del mismo.
 
@@ -76,7 +84,7 @@ El Gestor Técnico del Sistema publicará en el SL-ATR un listado actualizado de
 
 6.2.1 Criterios generales.
 
-Los procedimientos de reparto serán los establecidos en los correspondientes protocolos de detalle de las normas de gestión técnica del sistema. Cualquier modificación a los procedimientos de reparto será comunicada a los usuarios afectados con, al menos, un mes de antelación.
+Los procedimientos de reparto serán los establecidos en los correspondientes protocolos de detalle de las Normas de Gestión Técnica del Sistema. Cualquier modificación a los procedimientos de reparto será comunicada a los usuarios afectados con, al menos, un mes de antelación.
 
 El reparto se elaborará en los plazos establecidos en el apartado 6.4. Todos los envíos de información y la comunicación del reparto a los usuarios se realizarán a través del sistema SL-ATR.
 
@@ -92,7 +100,7 @@ En estos puntos se realizará un único reparto, el reparto diario (reparto d+1)
 
 Estos repartos diarios (repartos d+1) serán replicados como repartos m+3 y m+15 en estos puntos. En consecuencia, tanto el reparto m+3 como el reparto m+15 coincidirán con el reparto d+1.
 
-6.2.3 Repartos en los puntos de conexión transporte-distribución (PCTD) y distribución-distribución (PCDD).
+6.2.3 Repartos en los puntos de conexión transporte–distribución (PCTD) y distribución-distribución (PCDD).
 
 En estos puntos se realizarán los siguientes repartos:
 
@@ -110,15 +118,35 @@ Para la realización del reparto, los consumidores se clasificarán en:
 
 – Consumidores tipo 1 sin telemedida: son los consumidores con puntos de suministro que no disponen de telemedida, y que no pertenecen a los grupos de peaje 3.1, 3.2 y 3.3; a su vez, se clasifican en:
 
-o Pertenecientes al grupo de peaje 3.4.
+• Pertenecientes al grupo de peaje 3.4.
 
-o No pertenecientes al grupo de peaje 3.4.
+• No pertenecientes al grupo de peaje 3.4.
 
 – Consumidores tipo 2: son el resto de consumidores, representados por aquellos consumidores con puntos de suministro con peaje 3.1, 3.2 y 3.3.
 
 Finalmente, a los efectos de calcular estos repartos, en el caso de que exista una red de distribución alimentada mediante varios PCTDs/PCDDs, se considerará que todos ellos constituyen un único punto de conexión.
 
-6.2.4 Repartos en puntos de conexión de líneas directas (PCLD).
+6.2.4 Repartos en puntos de conexión de producción de biogás con redes de distribución (PPBD).
+
+En estos puntos, se asignará a los usuarios, una entrada en el PVB calculada mediante la siguiente expresión:
+
+Reparto Usuarioi PPBD = Emisión PPBD × Porcentaje Asignación Usuarioi
+
+Siendo:
+
+– Emisión PPBD: Cantidad de gas inyectada en la red de distribución desde la planta de producción de biogás en kWh.
+
+Porcentaje asignación usuarioi: El SL-ATR dispondrá de una asignación comercial por usuario y punto de conexión PPBD, expresada en porcentaje. Esta asignación, que podrá ser distinta en los repartos diarios provisionales, repartos diarios finales provisionales y repartos diarios finales definitivos, será definida en el SL-ATR por el distribuidor titular de la red de distribución a la que está conectada la planta de producción de biogás. Cualquier modificación en la asignación deberá ser notificada por los usuarios, con antelación suficiente, al titular de la red de distribución y al Gestor Técnico del Sistema.
+
+En estos puntos se realizarán los siguientes repartos:
+
+– Reparto diario provisional (reparto d+1), realizado el día posterior al día de gas, que asigna a los usuarios de la red de distribución la cantidad entregada desde la planta de producción de biogás en el día de gas.
+
+– Reparto diario final provisional (reparto m+3), realizado antes de la finalización del mes m+3 con la información disponible en ese momento, que asigna a los usuarios de la red de distribución la cantidad entregada desde la planta de producción de biogás para cada uno de los días de gas del mes m.
+
+– Reparto diario final definitivo (reparto m+15), realizado antes de la finalización del mes m+15 con la información disponible en ese momento, que asigna a los usuarios de la red de distribución la cantidad entregada desde la planta de producción de biogás para cada uno de los días de gas del mes m.
+
+6.2.5 Repartos en puntos de conexión de líneas directas (PCLD).
 
 El responsable del reparto identificará a través del SL-ATR a los usuarios afectados por el reparto en cada PCLD.
 
@@ -130,7 +158,7 @@ En estos puntos se realizarán los siguientes repartos:
 
 – Reparto diario final definitivo (reparto m+15), realizado antes de la finalización del mes m+15 con la información disponible en ese momento, que asigna al usuario el gas entregado en cada uno de los días de gas del mes m. El envío al SL-ATR del reparto diario final definitivo (reparto m+15) no será necesario si el responsable del reparto no modifica el reparto diario final provisional (reparto m+3).
 
-6.2.5 Repartos en los puntos de conexión de carga de cisternas en plantas de regasificación (PCCC).
+6.2.6 Repartos en los puntos de conexión de carga de cisternas en plantas de regasificación (PCCC).
 
 En estos puntos se realizarán los siguientes repartos:
 
@@ -154,7 +182,7 @@ Este tipo de ajustes corresponderán a reasignaciones del gas cargado entre los 
 
 Si un usuario tuviese ajustes pendientes de asignación, pero no va a continuar teniendo reparto, podrá acordar con otro usuario que se apliquen dichos ajustes sobre el reparto de este último. Tal acuerdo será comunicado por ambas partes al Gestor Técnico del Sistema y al responsable del reparto con una antelación mínima de 7 días con respecto a la fecha inicial de aplicación del ajuste al nuevo usuario.
 
-6.2.6 Repartos en los puntos de carga o descarga de buques (PCDB).
+6.2.7 Repartos en los puntos de carga o descarga de buques (PCDB).
 
 En estos puntos se realizarán los siguientes repartos:
 
@@ -164,7 +192,7 @@ En estos puntos se realizarán los siguientes repartos:
 
 Cuando el buque sea compartido por varios usuarios, con suficiente antelación al inicio de la carga o descarga, los usuarios afectados comunicarán el criterio de reparto libremente acordado entre ellos a través del SL-ATR. Dicho criterio deberá asegurar el reparto completo de las cantidades medidas en términos energéticos, debiendo definirse siempre un usuario a resto.
 
-El cálculo de la energía neta cargada o descargada y de las mermas asociadas se realizará de acuerdo a lo establecido en el protocolo de detalle PD-05. En caso de que no se disponga del cálculo en los términos anteriores, la cantidad a introducir por el responsable en el SL-ATR se obtendrá con la mejor información disponible de entre las siguientes:
+El cálculo de la energía neta cargada o descargada y de las mermas asociadas se realizará de acuerdo a lo establecido en el protocolo de detalle PD–05. En caso de que no se disponga del cálculo en los términos anteriores, la cantidad a introducir por el responsable en el SL-ATR se obtendrá con la mejor información disponible de entre las siguientes:
 
 a) Para la carga de buques:
 
@@ -228,7 +256,7 @@ En cualquier caso, los repartos m+1, m+3 y m+15, ya cerrados, deberán ser publi
 
 – Antes de las 7 horas y 45 minutos posteriores al cierre del día de gas, los usuarios, el Gestor Técnico del Sistema o los operadores podrán solicitar la revisión del reparto diario provisional d+1.
 
-– Antes de las 7 horas y 45 minutos posteriores al cierre del día de gas, los responsables de la medida comunicarán, a través del SL-TR, las revisiones de medidas que hayan de ser modificadas con respecto al envío inicial.
+– Antes de las 7 horas y 45 minutos posteriores al cierre del día de gas, los responsables de la medida comunicarán, a través del SL–TR, las revisiones de medidas que hayan de ser modificadas con respecto al envío inicial.
 
 – Antes de las 8 horas posteriores al cierre del día de gas, los responsables de realizar el reparto recibirán, en su caso, las nuevas medidas a repartir (envío de ficheros de mensajería desde el SL-ATR con las nuevas cantidades a repartir).
 
@@ -264,47 +292,53 @@ Las solicitudes de la revisión del reparto diario provisional d+1 serán comuni
 
 – Antes de la finalización del día 28 de cada mes m+1 el SL-ATR publicará el reparto en los puntos PCLD.
 
-– Antes de la finalización del día 5 del mes m+3 el responsable de medida de puntos PCTD y PCDD enviarán al SL-ATR, la medida de cada uno de los días del mes m, como medidas finales provisionales m+3. Este envío no será necesario si el responsable de la medida no modifica la medida previamente enviada.
+– Antes de la finalización del día 5 del mes m+3 el responsable de medida de puntos PCTD, PCDD y PPBD enviarán al SL-ATR, la medida de cada uno de los días del mes m, como medidas finales provisionales m+3. Este envío no será necesario si el responsable de la medida no modifica la medida previamente enviada.
 
-– Antes de la finalización del día 6 del mes m+3, el SL-ATR pondrá a disposición de los responsables del reparto las medidas diarias finales provisionales m+3 del mes m en cada PCTD y PCDD.
+– Antes de la finalización del día 6 del mes m+3, el SL-ATR pondrá a disposición de los responsables del reparto las medidas diarias finales provisionales m+3 del mes m en cada PCTD, PCDD y PPBD.
 
 – Antes de la finalización del día 15 de cada mes m+3, los responsables del reparto en PCTD, PCDD remitirán al SL-ATR los repartos m+3.
 
-– Antes de la finalización del día 16 de cada mes m+3, el SL-ATR publicará los repartos m+3 del mes m de puntos PCTD y PCDD.
+– Antes de la finalización del día 15 de cada mes m+3, los responsables del reparto en PPBD remitirán al SL-ATR los porcentajes de asignación de cada PPBD. Estos porcentajes serán empleados en el cálculo del reparto de cada uno de los días del mes m. Este envío no será necesario si el responsable del reparto no modifica el porcentaje de asignación previamente comunicado al SL-ATR.
 
-– Antes de la finalización del día 22 de cada mes m+3, los usuarios, operadores y el Gestor Técnico del Sistema podrán solicitar la revisión de reparto m+3 en puntos PCTD, PCDD y PCLD.
+– Antes de la finalización del día 16 de cada mes m+3, el SL-ATR publicará los repartos m+3 del mes m de puntos PCTD, PCDD y PPBD.
 
-– Antes de la finalización del día 23 de cada mes m+3, los responsables de las medidas podrán enviar rectificaciones diarias de las mismas en PCTD y PCDD correspondientes al mes m.
+– Antes de la finalización del día 22 de cada mes m+3, los usuarios, operadores y el Gestor Técnico del Sistema podrán solicitar la revisión de reparto m+3 en puntos PCTD, PCDD, PPBD y PCLD.
 
-– Antes de la finalización del día 24 del mes m+3, el SL-ATR pondrá a disposición de los responsables del reparto las nuevas medidas rectificadas en los PCTD y PCDD, si las hubiera.
+– Antes de la finalización del día 23 de cada mes m+3, los responsables de las medidas podrán enviar rectificaciones diarias de las mismas en PCTD, PCDD y PPBD correspondientes al mes m.
 
-– Antes de la finalización del día 27 de cada mes m+3, los responsables del reparto en PCTD, PCDD y PCLD remitirán al SL-ATR los repartos m+3, de todos los días del mes m. Este envío no será necesario si el responsable de reparto no realiza ninguna revisión con respecto a las ya informadas antes de la finalización del 15 del mes m+3.
+– Antes de la finalización del día 24 del mes m+3, el SL-ATR pondrá a disposición de los responsables del reparto las nuevas medidas rectificadas en los PCTD, PCDD y PPBD, si las hubiera.
 
-– Antes de la finalización del día 28 de cada mes m+3 y una vez se disponga de toda la información de repartos m+3 de puntos PCTD, PCDD y PCLD, el SL-ATR publicará dichos repartos diarios m+3 cerrados del mes m.
+– Antes de la finalización del día 27 de cada mes m+3, los responsables del reparto en PCTD, PCDD y PCLD remitirán al SL-ATR los repartos m+3, de todos los días del mes m. Los responsables del reparto también podrán enviar, al SL-ATR, las revisiones de los porcentajes de asignación en cada PPBD. Este envío no será necesario si el responsable de reparto no realiza ninguna revisión con respecto a las ya informadas antes de la finalización del 15 del mes m+3.
+
+– Antes de la finalización del día 28 de cada mes m+3 y una vez se disponga de toda la información de repartos m+3 de puntos PCTD, PCDD, PPBD y PCLD, el SL-ATR publicará dichos repartos diarios m+3 cerrados del mes m.
 
 6.4.4 Reparto m+15.
 
-– Antes de la finalización del día 1 de cada mes m+15 el responsable de medida de puntos PCTD y PCDD enviará al SL-ATR la medida de cada uno de los días del mes m, como medida diaria final definitiva. Si llegada la fecha límite, los responsables del reparto no hubieran actualizado el reparto diario final provisional m+3 de alguno de los días del mes m, se tomarán como repartos diarios finales definitivos m+15, los repartos diarios finales provisionales m+3.
+– Antes de la finalización del día 1 de cada mes m+15 el responsable de medida de puntos PCTD, PCDD y PPBD enviará al SL-ATR la medida de cada uno de los días del mes m, como medida diaria final definitiva. Si llegada la fecha límite, los responsables del reparto no hubieran actualizado el reparto diario final provisional m+3 de alguno de los días del mes m, se tomarán como repartos diarios finales definitivos m+15, los repartos diarios finales provisionales m+3.
 
-– Antes de la finalización del día 2 del mes m+15, el SL-ATR pondrá a disposición de los responsables del reparto las medidas diarias finales definitivas m+15 del mes m en cada PCTD y PCDD.
+– Antes de la finalización del día 2 del mes m+15, el SL-ATR pondrá a disposición de los responsables del reparto las medidas diarias finales definitivas m+15 del mes m en cada PCTD, PCDD y PPBD.
 
-– Antes de la finalización del día 5 del mes m+15, el responsable de medida podrá enviar al SL-ATR rectificaciones de las medidas diarias finales definitivas correspondientes al mes m en los puntos PCTD y PCDD.
+– Antes de la finalización del día 5 del mes m+15, el responsable de medida podrá enviar al SL-ATR rectificaciones de las medidas diarias finales definitivas correspondientes al mes m en los puntos PCTD, PCDD y PPBD.
 
-– Antes de la finalización del día 6 del mes m+15, el SL-ATR pondrá a disposición de los responsables del reparto las medidas diarias finales definitivas m+15 del mes m en cada PCTD y PCDD.
+– Antes de la finalización del día 6 del mes m+15, el SL-ATR pondrá a disposición de los responsables del reparto las medidas diarias finales definitivas m+15 del mes m en cada PCTD, PCDD y PPBD.
 
-– Antes del día 14 de cada mes m+15, los responsables del reparto en PCTD, PCDD y PCLD remitirán al SL-ATR los repartos diarios finales definitivos m+15 de todos los días del mes m. Si llegada la fecha límite, los responsables del reparto no hubieran actualizado el reparto m+3 de alguno de los días del mes m, se tomarán como m+15, los repartos m+3.
+– Antes del día 14 de cada mes m+15, los responsables del reparto en PCTD, PCDD, PPBD y PCLD remitirán al SL-ATR los repartos diarios finales definitivos m+15 de todos los días del mes m. Si llegada la fecha límite, los responsables del reparto no hubieran actualizado el reparto m+3 de alguno de los días del mes m, se tomarán como m+15, los repartos m+3.
 
-– Antes de la finalización del día 15 de cada mes m+15, el SL-ATR publicará los repartos m+15 del mes m de todos los puntos PCTD y PCDD.
+– Antes de la finalización del día 14 de cada mes m+15, los responsables del reparto en PPBD remitirán al SL-ATR los Porcentajes de Asignación de cada PPBD. Estos porcentajes serán empleados en el cálculo del reparto de cada uno de los días del mes m. Este envío no será necesario si el responsable del reparto no modifica el porcentaje de asignación previamente comunicado al SL-ATR en el mes m+3.
 
-– Antes de la finalización del día 24 de cada mes m+15, los usuarios, operadores y el Gestor Técnico del Sistema podrán solicitar la revisión de reparto m+15 en puntos PCTD, PCDD y PCLD.
+– Antes de la finalización del día 15 de cada mes m+15, el SL-ATR publicará los repartos m+15 del mes m de todos los puntos PCTD, PCDD y PPBD.
 
-– Antes de la finalización del día 27 de cada mes m+15, los responsables del reparto en PCTD, PCDD y PCLD remitirán al SL-ATR los repartos m+15 de todos los días del mes m. Este envío no será necesario si el responsable de reparto no realiza ninguna revisión con respecto a los repartos ya informados antes del 15 del mes m+15.
+– Antes de la finalización del día 24 de cada mes m+15, los usuarios, operadores y el Gestor Técnico del Sistema podrán solicitar la revisión de reparto m+15 en puntos PCTD, PCDD, PPBD y PCLD.
 
-– Antes de la finalización del día 28 de cada mes m+15 y una vez se disponga de toda la información de repartos m+15 de los puntos PCTD, PCDD y PCLD, el SL-ATR publicará dichos repartos diarios m+15 cerrados del mes m.
+– Antes de la finalización del día 27 de cada mes m+15, los responsables del reparto en PCTD, PCDD y PCLD remitirán al SL-ATR los repartos m+15 de todos los días del mes m. Este envío no será necesario si el responsable de reparto no realiza ninguna revisión con respecto a los repartos ya informados antes del 15 del mes m+15. Los responsables del reparto también podrán enviar al SL-ATR las revisiones de los porcentajes de asignación en cada PPBD.
+
+– Antes de la finalización del día 28 de cada mes m+15 y una vez se disponga de toda la información de repartos m+15 de los puntos PCTD, PCDD, PPBD y PCLD, el SL-ATR publicará dichos repartos diarios m+15 cerrados del mes m.
 
 6.5 Publicación de información sobre repartos.
 
 Los responsables del reparto y el GTS deberán poner a disposición de cada agente, en el SL-ATR, toda la información necesaria para la reproducción y trazabilidad del cálculo de los repartos d+1, m+1, m+3 y m+15.
+
+> Se modifica por el apartado primero, en los términos que se indican en el Anexo I, de la Resolución de 8 de octubre de 2018. Ref. BOE-A-2018-14557
 
 > Se modifica por el apartado primero, en los términos que se indican en el Anexo I, de la Resolución de 23 de septiembre de 2016. Ref. BOE-A-2016-8803
 

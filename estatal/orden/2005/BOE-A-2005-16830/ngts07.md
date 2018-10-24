@@ -1,6 +1,6 @@
-## NGTS-07. «Balance»
+## NGTS-07. «Balances»
 
-7. Balance
+7. Balances
 
 7.1 Balances físicos de las instalaciones.
 
@@ -30,7 +30,7 @@ El Gestor Técnico del Sistema publicará en el SL-ATR un listado actualizado de
 
 Se calculará un balance por instalación, de acuerdo con la siguiente expresión:
 
-Existencias iniciales + Entradas = Salidas + Existencias finales + Autoconsumos + Mermas reales
+Existencias iniciales + Entradas = Salidas + Existencias finales + Autoconsumos + + Mermas reales
 
 Siendo:
 
@@ -38,7 +38,7 @@ Siendo:
 
 – Entradas: descarga de buques durante el periodo considerado, en kWh.
 
-– Salidas: carga de buques, regasificación, carga de cisternas, «bunkering» y puesta en frío de buques («gassing up and cooling down») durante el periodo considerado, en kWh.
+– Salidas: carga de buques, regasificación, carga de cisternas, bunkering y puesta en frío de buques (gassing up and cooling down) durante el periodo considerado, en kWh.
 
 – Existencias finales: existencias finales de GNL en tanques en la planta al final del último día de gas del periodo considerado, en kWh.
 
@@ -50,7 +50,7 @@ Siendo:
 
 Se calculará un balance por el conjunto de redes de transporte de cada titular, conforme a la siguiente fórmula:
 
-Existencias iniciales + Entradas = Salidas + Existencias finales + Autoconsumos + Mermas reales
+Existencias iniciales + Entradas = Salidas + Existencias finales + Autoconsumos + + Mermas reales
 
 Siendo:
 
@@ -70,7 +70,7 @@ Siendo:
 
 Se calculará un balance por instalación, conforme a la siguiente fórmula:
 
-Existencias iniciales + Entradas = Salidas + Existencias finales + Autoconsumos + Mermas reales
+Existencias iniciales + Entradas = Salidas + Existencias finales + Autoconsumos + + Mermas reales
 
 Siendo:
 
@@ -94,7 +94,7 @@ Entradas = Salidas + Mermas reales
 
 Siendo:
 
-– Entradas: entradas al conjunto de las redes de distribución del titular desde la red de transporte (PCTD), redes de distribución de otros distribuidores (PCDD) y puntos de producción de biogás, en kWh.
+– Entradas: entradas al conjunto de las redes de distribución del titular desde la red de transporte (PCTD), redes de distribución de otros distribuidores (PCDD) y entradas en puntos de conexión de producción de biogás con redes de distribución (PPBD), en kWh.
 
 – Salidas: salidas del conjunto de las redes de distribución del titular a puntos de conexión con redes de distribución de otros distribuidores (PCDD) y puntos de consumo, en kWh.
 
@@ -102,21 +102,21 @@ Siendo:
 
 7.1.3 Calendario para la comunicación de medidas.
 
-La comunicación de las medidas correspondientes a los puntos de reparto seguirá el calendario establecido en la Norma NGTS-06. Con carácter adicional se comunicará la siguiente información:
+La comunicación de las medidas correspondientes a los puntos de reparto seguirá el calendario establecido en la Norma NGTS–06. Con carácter adicional se comunicará la siguiente información:
 
-– Antes de las 4 horas posteriores al cierre del día de gas d, se enviarán al SL-ATR las mediciones en los puntos PCI, PCY, PCAS, PCPR y PCTT. Adicionalmente, se enviarán al SL-ATR las medidas de existencias en redes de transporte y plantas de regasificación de cada titular, así como de autoconsumos en todas las instalaciones. Todas estas medidas podrán ser revisadas por el operador antes de las 7 horas y 45 minutos posteriores al cierre del día de gas.
+– Antes de las 4 horas posteriores al cierre del día de gas d, se enviarán al SL-ATR las mediciones en los puntos PCI, PCY, PCAS, PPBD, PCPR y PCTT. Adicionalmente, se enviarán al SL-ATR las medidas de existencias en redes de transporte y plantas de regasificación de cada titular, así como de autoconsumos en todas las instalaciones. Todas estas medidas podrán ser revisadas por el operador antes de las 7 horas y 45 minutos posteriores al cierre del día de gas.
 
 – Antes de la finalización del día 10 de cada mes m+1, los responsables de la medida en los puntos PCPR y PCAS enviarán las medidas diarias del mes m al SL-ATR en estos puntos. Adicionalmente, se enviarán al SL-ATR las medidas de existencias finales de GNL en tanques de cada planta de regasificación, así como, las medidas de autoconsumos de planta de regasificación y almacenamiento subterráneo para cada día del mes m. Este envío no será necesario si el responsable de la medida no modifica la medida remitida en el día posterior al día de gas.
 
 – Antes de la finalización del día 10 de cada mes m+ 1, los responsables de la medida de los puntos PCI y PCY enviarán las medidas diarias del mes m al SL-ATR. Adicionalmente, se enviarán al SL-ATR las medidas de existencias diarias y autoconsumos en redes de transporte de cada titular. Este envío no será necesario si el responsable de la medida no modifica la medida remitida en el día posterior al día de gas.
 
-– Antes de la finalización del día 25 del mes m+1, los responsables de las medidas de los puntos PCTD, PCDD y PCTT enviarán con detalle diario al SL- ATR la medida diaria de cada uno de los días del mes m.
+– Antes de la finalización del día 25 del mes m+1, los responsables de las medidas de los puntos PCTD, PCDD, PPBD y PCTT enviarán con detalle diario al SL– ATR la medida diaria de cada uno de los días del mes m.
 
-– Antes de la finalización del día 28 de cada mes m+1 el SL-ATR publicará las medidas diarias finales provisionales de los puntos PCTD, PCDD y PCTT.
+– Antes de la finalización del día 28 de cada mes m+1 el SL-ATR publicará las medidas diarias finales provisionales de los puntos PCTD, PCDD, PPBD y PCTT.
 
-– Antes de la finalización del día 22 de cada mes m+3, operadores y el Gestor Técnico del Sistema podrán solicitar la revisión de medidas de PCI, PCY, PCTD, PCDD y PCTT.
+– Antes de la finalización del día 22 de cada mes m+3, operadores y el Gestor Técnico del Sistema podrán solicitar la revisión de medidas de PCI, PCY, PCTD, PCDD, PPBD y PCTT.
 
-– Antes de la finalización del día 1 de cada mes m+15 el responsable de la medida de puntos PCI, PCY y PCTT enviará al SL-ATR, la medida de cada uno de los días del mes m. Adicionalmente, se enviarán al SL-ATR las medidas de existencias en redes de transporte de cada titular. Este envío no será necesario si el responsable de la medida no modifica la medida remitida en el día posterior al día de gas.
+– Antes de la finalización del día 1 de cada mes m+15 el responsable de la medida de puntos PCI, PCY, PPBD y PCTT enviará al SL-ATR, la medida de cada uno de los días del mes m. Adicionalmente, se enviarán al SL-ATR las medidas de existencias en redes de transporte de cada titular. Este envío no será necesario si el responsable de la medida no modifica la medida remitida en el día posterior al día de gas.
 
 7.2 Balances individuales de los usuarios.
 
@@ -136,7 +136,7 @@ Los balances se considerarán:
 
 En las plantas de regasificación se realizarán, para cada usuario presente en la misma, un balance diario final del día de gas (balance d+1), realizado el día posterior al día de gas, con la información de los repartos d+1 en los puntos de reparto PCDB, PCCC y PCPR contenidos en el SL-ATR. Este balance se calculará conforme a la siguiente fórmula:
 
-Existencias finales diarias = Existencias iniciales diarias + Entradas – Mermas retenidas – Salidas + Operaciones de compraventa
+Existencias finales diarias = Existencias iniciales diarias + Entradas – Mermas retenidas – – Salidas + Operaciones de compraventa
 
 Siendo:
 
@@ -170,7 +170,7 @@ Entradas – Salidas – Mermas retenidas = Desbalance del usuario
 
 Siendo:
 
-– Entradas: reparto d+1 del usuario en puntos PCPR, PCY, PCAS, PCI, entradas en puntos de inyección de biogás, así como compras realizadas por el usuario en el PVB en el día de gas, en kWh.
+– Entradas: reparto d+1 del usuario en puntos PCPR, PCY, PCAS, PCI y PPBD, así como compras realizadas por el usuario en el PVB en el día de gas, en kWh.
 
 – Salidas: reparto d+1 del usuario en puntos PCI, PCAS, en los puntos PCPR cuando se produce una salida de gas del PVB a planta de regasificación, en las salidas del PVB para lo que se tendrá en consideración los repartos en PCTD, PCDD y en PCLD en redes de transporte, así como ventas realizadas por el usuario en el PVB en el día de gas, en kWh.
 
@@ -186,7 +186,7 @@ Entradas – Salidas – Mermas retenidas = Desbalance del usuario
 
 Siendo:
 
-– Entradas: reparto m+3 del día de gas d del usuario en puntos PCPR, PCY, PCAS, PCI, entradas en puntos de inyección de biogás, así como compras realizadas por el usuario en el PVB en el día de gas, en kWh.
+– Entradas: reparto m+3 del día de gas d del usuario en puntos PCPR, PCY, PCAS, PCI y PPBD, así como compras realizadas por el usuario en el PVB en el día de gas, en kWh.
 
 – Salidas: reparto m+3 del día de gas d del usuario en puntos PCI, PCAS y en los puntos PCPR cuando se produce una salida de gas del PVB a planta de regasificación, reparto m+3 en las salidas del PVB para lo que se tendrá en consideración los repartos en PCTD, PCDD y PCLD en redes de transporte, así como ventas realizadas por el usuario en el PVB en el día de gas, en kWh.
 
@@ -200,7 +200,7 @@ Entradas – Salidas – Mermas retenidas = Desbalance del usuario
 
 Siendo:
 
-– Entradas: reparto m+15 del día de gas d del usuario en puntos PCPR, PCY, PCAS, PCI, entradas en puntos de inyección de biogás, así como compras realizadas por el usuario en el PVB en el día de gas, en kWh.
+– Entradas: reparto m+15 del día de gas d del usuario en puntos PCPR, PCY, PCAS, PCI y PPBD, así como compras realizadas por el usuario en el PVB en el día de gas, en kWh.
 
 – Salidas: reparto m+15 del día de gas d del usuario en puntos PCI, PCAS y en los puntos PCPR cuando se produce una salida de gas del PVB a planta de regasificación, reparto m+15 en las salidas del PVB para lo que se tendrá en consideración los repartos en PCTD, PCDD y PCLD en redes de transporte, así como ventas realizadas por el usuario en el PVB en el día de gas, en kWh.
 
@@ -210,7 +210,7 @@ Siendo:
 
 En el conjunto de los almacenamientos subterráneos se realizarán, para cada usuario presente en los mismos, un balance diario final del día de gas (balance d+1), realizado el día posterior al día de gas, con la información de los repartos d+1 en los puntos de reparto PCAS contenidos en el SL-ATR. Este balance se calculará conforme a la siguiente fórmula:
 
-Existencias finales diarias = Existencias iniciales diarias + Entradas – Salidas + Operaciones de compraventa
+Existencias finales diarias = Existencias iniciales diarias + Entradas – Salidas + + Operaciones de compraventa
 
 Siendo:
 
@@ -241,6 +241,8 @@ En el caso de los balances m+3 y m+15, si alguno de los hitos establecidos en lo
 7.3 Publicación de información sobre los balances.
 
 El Gestor Técnico del Sistema deberá poner a disposición de cada agente, en el SL-ATR, toda la información necesaria para la reproducción y trazabilidad del cálculo de los balances diarios d+1, m+1, m+3 y m+15.
+
+> Se modifica por el apartado segundo, en los términos que se indican en el Anexo II, de la Resolución de 8 de octubre de 2018. Ref. BOE-A-2018-14557
 
 > Se modifica por el apartado segundo, en los términos que se indican en el Anexo II, de la Resolución de 23 de septiembre de 2016. Ref. BOE-A-2016-8803
 
