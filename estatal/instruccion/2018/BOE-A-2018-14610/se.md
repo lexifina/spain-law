@@ -1,0 +1,3 @@
+## Segundo.
+
+Los padres de los menores de edad, actuando conjuntamente, o quienes ejerzan la tutela sobre los mismos, podrán solicitar la inscripción del cambio de nombre, que será atendida en el Registro Civil, con tal de que ante el encargado del Registro Civil, o bien en documento público, los representantes del menor actuando conjuntamente declaren que el mismo siente como propio el sexo correspondiente al nombre solicitado de forma clara e incontestable. La solicitud será también firmada por el menor, si tuviera más de doce años. Si el menor tuviera una edad inferior, deberá en todo caso ser oído por el encargado del Registro Civil, mediante una comunicación comprensible para el mismo y adaptada a su edad y grado de madurez.
