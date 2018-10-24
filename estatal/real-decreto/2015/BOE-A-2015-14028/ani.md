@@ -2,7 +2,7 @@
 
 ## Competencias necesarias para indicar, usar y autorizar la dispensación de medicamentos y productos sanitarios de uso humano y características de los programas formativos
 
-1. Competencias que deben poseer los enfermeros para ser acreditados:
+Competencias que deben poseer los enfermeros para ser acreditados:
 
 a) En el ámbito de los cuidados generales:
 
@@ -24,12 +24,4 @@ b) En el ámbito de los cuidados especializados, además de las competencias enu
 
 4.ª Aplicar las tecnologías y sistemas de información y comunicación de los cuidados de salud.
 
-2. Características y duración de los programas formativos.
-
-a) Características: Formación semipresencial, favoreciendo el autoaprendizaje tutorizado y teniendo en cuenta la singularidad del alumnado.
-
-b) Duración:
-
-1.º En el ámbito de los cuidados generales: 180 horas de formación o su equivalente en créditos ECTS.
-
-2.º En el ámbito de los cuidados especializados: 180 horas de formación o su equivalente en créditos ECTS, una vez superados o reconocidos los créditos o las horas de formación previstas para el ámbito de los cuidados generales.
+> Se suprime el apartado 2 por el art. único.13 del Real Decreto 1302/2018, de 22 de octubre. Ref. BOE-A-2018-14474

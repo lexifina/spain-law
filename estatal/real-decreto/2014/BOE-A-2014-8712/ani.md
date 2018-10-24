@@ -22,6 +22,8 @@ h) Titulación: en el caso de que se trate de titulados en España, denominació
 
 – Especialistas en formación: se indicará la especialidad, la fecha de incorporación y el centro/unidad docente acreditada de la Formación Sanitaria Especializada.
 
+– Acreditación para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano en el ámbito de los cuidados generales: Se indicará la fecha de la resolución prevista en el apartado 1 del artículo 8 del Real Decreto 954/2015, de 23 de octubre.
+
 i) Especialidad en Ciencias de la Salud:
 
 – Especialistas titulados en España: constará la denominación oficial de la especialidad, así como la fecha de obtención, centro/unidad docente y vía de acceso.
@@ -29,6 +31,8 @@ i) Especialidad en Ciencias de la Salud:
 – En el caso de homologación o reconocimiento de un título de especialista obtenido fuera de España (tanto de la UE como países terceros): figurará la especialidad que se reconoce, el país de obtención y la fecha de homologación/reconocimiento en España y autoridad competente.
 
 – Especialistas en formación en un Área de Capacitación Específica: se indicará el área, la fecha de incorporación y el centro/unidad docente acreditada de la Formación Sanitaria Especializada.
+
+– Acreditación para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano en el ámbito de los cuidados especializados: Se indicará la fecha de la resolución prevista en el apartado 1 del artículo 8 del Real Decreto 954/2015, de 23 de octubre.
 
 j) Diploma en Áreas de Capacitación Específica: denominación del diploma oficial, así como el centro/unidad docente, la fecha de obtención, y, en su caso, revalidación. En el caso de reconocimiento de un Diploma de Área de Capacitación Específica obtenido fuera de España (tanto UE como países terceros) figurará el país de obtención y la fecha de reconocimiento en España.
 
@@ -76,9 +80,11 @@ t) Suspensión o inhabilitación para el ejercicio profesional: si el profesiona
 
 – Copia de las resoluciones sancionadoras de las corporaciones colegiales que suspendan o inhabiliten para el ejercicio profesional impuestas por ellas, cuando una ley estatal establezca para este ejercicio la obligación de estar colegiado, siempre que se adopten o sean efectivas desde la fecha de entrada en vigor de este real decreto.
 
-u) Acreditación para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano.
+u) (Suprimida).
 
 v) Resoluciones de acceso parcial a una actividad profesional.
+
+> Se suprime la letra u) y se modifican la h) e i) por la disposición final 1.3,5 y 6 del Real Decreto 1302/2018, de 22 de octubre. Ref. BOE-A-2018-14474
 
 > Se añade la letra v) por la disposición final 1.2 del Real Decreto 581/2017, de 9 de junio. Ref. BOE-A-2017-6586
 

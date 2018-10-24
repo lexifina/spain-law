@@ -1,0 +1,3 @@
+Téngase en cuenta que las referencias que se realizan en este Real Decreto a las comunidades autónomas se entenderán efectuadas al Instituto Nacional de Gestión Sanitaria respecto a la situación específica de las Ciudades de Ceuta y Melilla, según establece la disposición adicional primera del Real Decreto 1302/2018, de 22 de octubre. Ref. BOE-A-2018-14474
+
+Las referencias realizadas a los términos enfermero y enfermeros, deberán entenderse realizadas a los términos enfermera y enfermero y enfermeras y enfermeros, respectivamente, según establece la disposición adicional tercera del citado Real Decreto 1302/2018.
