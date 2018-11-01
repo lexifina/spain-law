@@ -14,6 +14,14 @@ Notas de entrega emitidas dentro del procedimiento de ventas en ruta.
 
 Recibos y comprobantes de entrega utilizados en avituallamiento de aeronaves y embarcaciones.
 
+Borrador de albarán de circulación expedido en el procedimiento de ventas en ruta previsto en el artículo 27 del Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio.
+
+Información relativa a las notas de entrega expedidas con cargo al albarán de circulación en el procedimiento de ventas en ruta previsto en el artículo 27 del Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio.
+
+Información relativa a los comprobantes de entrega expedidos en avituallamientos de carburantes a aeronaves conforme a lo dispuesto en el artículo 101 del Reglamento de los Impuestos Especiales aprobado por Real Decreto 1165/1995, de 7 de julio.
+
+Solicitud de devolución por avituallamiento de gasóleo a embarcaciones conforme al artículo 110 del Reglamento de los Impuestos Especiales aprobado por Real Decreto 1165/1995, de 7 de julio.
+
 Modelo DDC. Impuesto sobre Hidrocarburos. Declaración de desglose de cuotas centralizadas.
 
 Modelo DCC. Impuestos Especiales sobre el Alcohol y Bebidas Alcohólicas, Labores del Tabaco y Electricidad. Declaración de desglose de cuotas centralizadas.
@@ -119,6 +127,10 @@ Modelo 591: Impuesto sobre el valor de la producción de la energía eléctrica.
 Modelo 380. Impuesto sobre el Valor Añadido. Operaciones asimiladas a las importaciones. Declaración-liquidación
 
 3. Las condiciones generales y el procedimiento para la presentación telemática de estas declaraciones serán, con carácter general, y sin perjuicio de lo dicho en el apartado anterior de esta disposición adicional, las que se establecen en las respectivas Órdenes por las que se aprobaron cada uno de estos modelos de declaración.
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden HAC/1147/2018, de 9 de octubre. Ref. BOE-A-2018-14900#df
+
+> Esta modificación es de aplicación a las expediciones y avituallamientos que se realicen a partir del 1 de julio de 2019, según establece la disposición final 2.
 
 > Se modifica el apartado 2 por el disposición final 1 de la Orden HAP/2328/2014, de 11 de diciembre. Ref. BOE-A-2014-12972.
 

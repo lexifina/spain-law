@@ -1,0 +1,3 @@
+## Artículo 1. Aprobación de las normas de cumplimentación del albarán de circulación exigible en el procedimiento de ventas en ruta.
+
+A efectos de lo dispuesto en el artículo 27 del Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio, se aprueban las normas de cumplimentación del borrador de albarán de circulación en el procedimiento de ventas en ruta, y las instrucciones para elaborar los mensajes electrónicos de borrador del albarán de circulación, de anulación del borrador del albarán de circulación, y de reintroducción en el establecimiento de productos expedidos por el procedimiento de ventas en ruta, los cuales se detallan en anexo I.
