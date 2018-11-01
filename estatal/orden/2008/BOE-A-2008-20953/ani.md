@@ -1,16 +1,18 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/317/15844_8314.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5340.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/317/15844_8387.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5415.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/317/15844_8458.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5488.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/317/15844_8529.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5593.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/317/15844_8600.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5707.png)
 
-> Téngase en cuenta que los nuevos modelos de autoliquidación aprobados por el art. 3.2 de la Orden HFP/1307/2017, de 29 de diciembre. Ref. BOE-A-2017-15844 se utilizarán a partir del periodo de liquidación correspondiente a febrero de 2018, según se establece en la disposición final única.b) de la citada Orden.
+> Se sustituye por el art. 3 y anexo II de la Orden HAC/1148/2018, de 18 de octubre. Ref. BOE-A-2018-14901
+
+> Téngase en cuenta para su aplicación la disposición final única de la citada Orden.
 
 > Se sustituye por el art. 3.2 de la Orden HFP/1307/2017, de 29 de diciembre. Ref. BOE-A-2017-15844
 

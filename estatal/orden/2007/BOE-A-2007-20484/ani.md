@@ -1,12 +1,16 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/51/02690_4598.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5042.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/51/02690_4590.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5164.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/51/02690_4580.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5237.png)
 
-> Se sustituye, según establece la disposición final 1, por el que figura como Anexo II de la Orden HFP/187/2018, de 22 de febrero. Ref. BOE-A-2018-2690.
+> Se sustituye por el que figura como Anexo I de la Orden HAC/1148/2018, de 18 de octubre, según establece su art. 1. Ref. BOE-A-2018-14901
+
+> Téngase en cuenta, para su aplicación, la disposición final única de la citada Orden.
+
+> Se sustituye por el que figura como Anexo II de la Orden HFP/187/2018, de 22 de febrero, según establece su disposición final 1. Ref. BOE-A-2018-2690.
 
 > Se modifica el apartado 1 por el art. 2.1 de la Orden HFP/1307/2017, de 29 de diciembre. Ref. BOE-A-2017-1584
 

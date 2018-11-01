@@ -1,20 +1,24 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/276/12436_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5844.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/276/12436_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5878.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/276/12436_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5951.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/276/12436_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_6025.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/276/12436_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_6098.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/276/12436_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_6171.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/276/12436_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_6245.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/276/12436_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_6319.png)
+
+> Se sustituye por el art. 4.2 y el Anexo III de la Orden HAC/1148/2018, de 18 de octubre. Ref. BOE-A-2018-14901
+
+> Téngase en cuenta, para su aplicación, la disposición final única de la citada Orden.
 
 > Se sustituye por el art. 2 y el Anexo de la Orden HAP/2429/2015, de 10 de noviembre. Ref. BOE-A-2015-12436.
 
