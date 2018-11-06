@@ -1,3 +1,0 @@
-## TITULO PRELIMINAR
-
-## Disposiciones generales

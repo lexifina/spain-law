@@ -1,3 +1,0 @@
-## SECCION PRIMERA
-
-## Del Parlamento
