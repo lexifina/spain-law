@@ -1,0 +1,11 @@
+## Disposición adicional cuarta. La Comisión Mixta de Transferencias.
+
+1. La Comisión Mixta de Transferencias, compuesta paritariamente por la Administración Pública de la Comunidad Autónoma de Canarias y la Administración del Estado, e integrada en la Comisión Bilateral de Cooperación a que se refiere el artículo 192 del presente Estatuto, tiene por finalidad transferir a la Comunidad Autónoma de Canarias las funciones y atribuciones que le corresponden con arreglo al presente Estatuto. Los miembros de la comisión mixta representantes de Canarias darán cuenta periódicamente de su gestión ante el Parlamento de Canarias.
+
+2. Las transferencias de servicios a la Comunidad Autónoma de Canarias tendrán por objeto bloques materiales y orgánicos completos y deberán prever los medios personales, financieros y materiales necesarios para su normal funcionamiento, teniendo en cuenta que en la asignación de medios el coeficiente de aplicación por habitante no podrá ser para Canarias inferior a la media del Estado, teniendo presente, en todo caso, el costo de la insularidad.
+
+3. Los funcionarios adscritos a los servicios de titularidad estatal o a otras instituciones públicas, que resulten afectados por los traspasos a la Comunidad Autónoma de Canarias, pasarán a depender de esta, siéndoles respetados todos los derechos de cualquier orden y naturaleza que les correspondan en el momento del traspaso, incluso el de participar en los concursos de traslado que convoque el Estado en igualdad con los restantes miembros de sus cuerpos.
+
+4. La transferencia a la Comunidad Autónoma de Canarias de bienes o derechos estará exenta de toda clase de cargas, gravámenes o derechos.
+
+5. Será título suficiente para la inscripción en el Registro de la Propiedad del traspaso de bienes inmuebles del Estado a la Comunidad Autónoma de Canarias la certificación por la Comisión Mixta de los acuerdos gubernamentales debidamente publicados. Esta certificación deberá contener los requisitos exigidos por la Ley Hipotecaria. El cambio de titularidad en los contratos de arrendamiento de locales para oficinas públicas de los servicios ya asumidos por la Comunidad Autónoma de Canarias no se reputará traspaso y no dará derecho al arrendador a extinguir o renovar el contrato.
