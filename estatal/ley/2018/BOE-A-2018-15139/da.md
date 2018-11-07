@@ -1,0 +1,5 @@
+## Disposición adicional primera. Subvenciones al transporte de mercancías en la Comunidad Autónoma de Canarias.
+
+Uno. El porcentaje del 70 por 100 regulado en los artículos 3 y 4 del Real Decreto 170/2009, de 13 de febrero, sobre compensación al transporte marítimo y aéreo de mercancías incluidas en el anexo I del Tratado Constitutivo de la Comunidad Europea, con origen o destino en las Islas Canarias, y en los artículos 3 y 4 del Real Decreto 362/2009, de 20 de marzo, sobre compensación al transporte marítimo y aéreo de mercancías no incluidas en el anexo I del Tratado Constitutivo de la Comunidad Europea, con origen o destino en las Islas Canarias, queda establecido en el 100 por 100.
+
+Dos. Las limitaciones establecidas en los artículos 7 y 13.1 del Real Decreto 170/2009, y los artículos 8 y 15.1 del Real Decreto 362/2009, se entenderán sin efecto siempre que los créditos presupuestarios afectados sean declarados ampliables en las respectivas leyes de Presupuestos Generales del Estado.

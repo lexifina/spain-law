@@ -182,6 +182,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [LIBRO III](liii.md)
 - [Artículo 93](a93.md)
 - [Artículo 94](a94.md)
+- [Artículo 94 bis](a9-2.md)
 - [LIBRO IV](liv.md)
 - [Artículo 95](a95.md)
 - [Artículo 96](a96.md)
