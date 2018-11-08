@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Coordinación con el Consejo Estatal para el Patrimonio Natural y la Biodiversidad.
+
+Con objeto de garantizar la adecuada aplicación de las políticas de conservación del patrimonio natural, en el que se incluyen los montes y los bosques, se establecerá la adecuada coordinación entre el Consejo Forestal Nacional y el Consejo Estatal para el Patrimonio Natural y la Biodiversidad, de acuerdo a lo establecido en el Real Decreto 948/2009, de 5 de junio, por el que se determinan la composición, las funciones y las normas de funcionamiento del Consejo Estatal para el Patrimonio Natural y la Biodiversidad.
