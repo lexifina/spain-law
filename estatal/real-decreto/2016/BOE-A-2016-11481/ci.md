@@ -108,13 +108,9 @@ Espacio aéreo de responsabilidad.
 
 Espacio aéreo en el que España tiene responsabilidad según los acuerdos internacionales que se hayan alcanzado. En el presente reglamento, cuando se haga referencia a éste, se entenderá el asignado por Organización de Aviación Civil Internacional (OACI) (FIR / UIR) así como el establecido por el Gobierno en virtud de acuerdos internacionales para fines de la defensa nacional.
 
-Espacio aéreo temporalmente reservado (TRA).
+Espacio aéreo temporalmente reservado (TRA): el volumen definido de espacio aéreo para uso temporal específico de una actividad, y a través del cual se puede permitir el tránsito de otro tráfico bajo autorización ATC.
 
-Un volumen definido de espacio aéreo, normalmente bajo la jurisdicción de una autoridad aeronáutica y temporalmente reservado, de común acuerdo, para uso específico de una actividad aeronáutica, y a través del cual se puede permitir el tránsito de otro tráfico bajo autorización ATC.
-
-Espacio aéreo temporalmente segregado (TSA).
-
-Un volumen definido de espacio aéreo, normalmente bajo la jurisdicción de una autoridad aeronáutica y temporalmente segregado, de común acuerdo, para uso específico de una actividad aeronáutica, y a través del cual no se puede permitir el tránsito de otro tráfico bajo autorización ATC.
+Espacio aéreo temporalmente segregado (TSA): volumen definido de espacio aéreo para uso temporal específico de una actividad, y a través del cual no se puede permitir el tránsito de otro tráfico, ni siquiera bajo autorización ATC.
 
 Estación de control del UAS.
 
@@ -291,3 +287,5 @@ Espacio Aéreo de dimensiones definidas alrededor de la ZOUAS establecido con el
 Zona temporalmente restringida para la operación de UAS (ZOTER).
 
 Espacio Aéreo Temporalmente Segregado de dimensiones definidas que incluyen la ZOUAS y su zona de protección.
+
+> Se modifican determinadas definiciones por la disposición final 4 del Real Decreto 1180/2018, de 21 de septiembre. Ref. BOE-A-2018-15406#df-4

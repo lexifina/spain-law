@@ -26,7 +26,7 @@ Las definiciones correspondientes a las normas para el Servicio de Información 
 
 8.3.1.1.1. El Estado será responsable de la información publicada. En la información aeronáutica que se publique respecto a un Estado y en su nombre se indicará claramente que se publica bajo la responsabilidad de dicho Estado.
 
-8.3.1.1.2. El Estado tomará las medidas necesarias para cerciorarse de que la información/datos aeronáuticos que suministra respecto a su territorio, así como a sus áreas de responsabilidad a efectos de los servicios de tránsito aéreo, son adecuados, de la calidad requerida y oportunos. Esto implicará que se tomen las disposiciones debidas, a fin de que cada uno de los servicios que estén relacionados con las operaciones de aeronaves, suministren, oportunamente, la información necesaria al servicio de información aeronáutica.
+8.3.1.1.2. El Estado tomará las medidas necesarias para cerciorarse de que la información/datos aeronáuticos que suministra respecto a su territorio, así como a sus áreas de responsabilidad a efectos de los servicios de tránsito aéreo, son adecuados, de la calidad requerida y oportuna. Esto implicará que se tomen las disposiciones debidas, a fin de que cada uno de los servicios que estén relacionados con las operaciones de aeronaves, suministren, oportunamente, la información necesaria al servicio de información aeronáutica.
 
 8.3.1.1.3. En los casos en que no se proporcione un servicio de 24 horas, el servicio estará disponible durante todo el período en que una aeronave se encuentre en vuelo en el área de responsabilidad de un servicio de información aeronáutica, más un período de dos horas, como mínimo, antes y después de dicho período. El servicio también deberá estar disponible en el momento en que pueda solicitarlo un organismo terrestre apropiado.
 
@@ -110,7 +110,7 @@ c) datos ordinarios, nivel de integridad 1x 10'3: existe muy baja probabilidad d
 
 8.3.4.4.3. Las coordenadas geográficas que se hayan transformado a coordenadas WGS-84 pero cuya exactitud del trabajo en el terreno original no satisfaga los requisitos del Capítulo 2 del Libro Tercero se indicarán con un asterisco.
 
-8.3.4.4.4. El grado de resolución de las coordenadas geográficas y de la ondulación geoidal será el especificado en el Capitulo 10 del Libro 8 y en el Apéndice V. Las especificaciones que rigen la determinación y notificación de las coordenadas WGS-84 son las que figuran en el Capítulo 2 del Libro Tercero.
+8.3.4.4.4. El grado de resolución de las coordenadas geográficas y de la ondulación geoidal será el especificado en el Capítulo 10 del Libro Octavo y en el Apéndice V. Las especificaciones que rigen la determinación y notificación de las coordenadas WGS-84 son las que figuran en el Capítulo 2 del Libro Tercero.
 
 8.3.4.5. Uso de las abreviaturas OACI.
 
@@ -262,7 +262,7 @@ Nota: Los cambios que sean de importancia para las operaciones relativos a los c
 
 a) establecimiento, cierre o cambios importantes que afecten a las operaciones de aeródromo/helipuertos o pistas;
 
-b) establecimiento, eliminación y cambios importan-tes que afecten a las operaciones de los servicios aeronáuticos (AGA, AIS, ATS, COM, MET, SAR, etc.);
+b) establecimiento, eliminación y cambios importantes que afecten a las operaciones de los servicios aeronáuticos (AGA, AIS, ATS, COM, MET, SAR, etc.);
 
 c) establecimiento o eliminación de ayudas electrónicas y de otra clase para la navegación aérea y aeródromos/helipuertos. Esto comprende: interrupción o reanudación de cualquier servicio; cambio de frecuencias, cambio en las horas de servicio notificadas, cambio de identificación, cambio de orientación (ayudas dirección (ayudas direccionales); cambio de ubicación; aumento o disminución en un 50% o más de la potencia; cambios en los horarios de las radiodifusiones o en su contenido, e irregularidad o inseguridad de operación de cualquier ayuda electrónica para la navegación aérea y de los servicios de comunicaciones aeroterrestres;
 
@@ -300,7 +300,7 @@ s) aparición de epidemias que necesiten cambios en los requisitos notificados r
 
 t) pronósticos de radiación cósmica solar, cuando se facilitan;
 
-t) cambios de importancia para las operaciones por actividad volcánica, lugar, fecha y hora de erupciones volcánicas y/o extensión horizontal y vertical de nubes de cenizas volcánicas, comprendidos el sentido en que se mueven, los niveles de vuelo y las rutas o segmentos de rutas que podrían estar afectados;
+t)(Sic) cambios de importancia para las operaciones por actividad volcánica, lugar, fecha y hora de erupciones volcánicas y/o extensión horizontal y vertical de nubes de cenizas volcánicas, comprendidos el sentido en que se mueven, los niveles de vuelo y las rutas o segmentos de rutas que podrían estar afectados;
 
 u) liberación a la atmósfera de materiales radiactivos o productos químicos tóxicos como consecuencia de un incidente nuclear o químico, lugar, fecha y hora del incidente, niveles de vuelo y rutas o segmentos de rutas que podrían estar afectados, así como dirección del movimiento;
 
@@ -320,9 +320,9 @@ b) trabajos de señalización de pistas, cuando las operaciones de aeronaves pue
 
 c) obstáculos temporales en la vecindad de los aeródromos/helipuertos, que no afecten a la operación segura de las aeronaves;
 
-d) falla parcial de las instalaciones de iluminación en el aeródromo/helipuerto, cuando no afecte directamente a las operaciones de aeronaves;
+d) fallo parcial de las instalaciones de iluminación en el aeródromo/helipuerto, cuando no afecte directamente a las operaciones de aeronaves;
 
-e) falla parcial temporal de las comunicaciones aeroterrestres cuando se sepa que pueden utilizarse frecuencias adecuadas de alternativa;
+e) fallo parcial temporal de las comunicaciones aeroterrestres cuando se sepa que pueden utilizarse frecuencias adecuadas de alternativa;
 
 f) la falta de servicios relativos a los movimientos de plataforma y al control de tránsito de carretera;
 
@@ -340,7 +340,7 @@ Siempre que sea posible, conviene avisar con 24 horas de antelación a fin de po
 
 8.5.1.1.5 Los NOTAM para notificar que no están en servicio las ayudas a la navegación aérea, las instalaciones o servicios de comunicaciones, darán siempre que sea posible dar una idea del período en que no estén en servicio o del tiempo en que se espera restablecer el servicio.
 
-8.5.1.1.6 Cuando se publique una Enmienda AIP o un suplemento AIP de conformidad con los procedimientos AIRAC, se iniciará un NOTAM dando una breve descripción del contenido, la fecha de entrada en vigor y el numero de referencia de la Enmienda o suplemento. Este NOTAM tendrá la misma fecha de entrada en vigor que la Enmienda o Suplemento y deberá mantenerse válido en el boletín de información previo al vuelo por un período de 14 días.
+8.5.1.1.6 Cuando se publique una Enmienda AIP o un suplemento AIP de conformidad con los procedimientos AIRAC, se iniciará un NOTAM dando una breve descripción del contenido, la fecha de entrada en vigor y el número de referencia de la Enmienda o suplemento. Este NOTAM tendrá la misma fecha de entrada en vigor que la Enmienda o Suplemento y deberá mantenerse válido en el boletín de información previo al vuelo por un período de 14 días.
 
 Nota: En el Manual para los servicios de información aeronáutica (Doc 8126) de OACI figuran los textos de orientación relativos a la iniciación de los NOTAM en los que se anuncia las fechas de entrada en vigor de Enmiendas AIP o Suplementos AIP de conformidad con los procedimientos AIRAC («NOTAM iniciador»).
 
@@ -758,9 +758,9 @@ GEN 1.5. Instrumentos, equipo y documentos de vuelo de las aeronaves.
 
 Descripción breve de instrumentos, equipo y documentos de vuelo de las aeronaves, entre ellos:
 
-1) los instrumentos, equipo (tal como el de comunicaciones y navegación de las aeronaves) y documentos de vuelo que hayan de llevarse a bordo, incluidos los que se exijan en especial además de lo dispuesto en el Libro Séptimo; y
+1) los instrumentos, equipo (tal como el de comunicaciones y navegación de las aeronaves) y documentos de vuelo que hayan de llevarse a bordo, incluidos los que se exijan en la normativa sectorial que resulte de aplicación.
 
-2) el transmisor de localización de emergencia (ELT), dispositivos de señales y equipos salvavidas como se dispone en el Libro Séptimo, cuando se decida en reuniones regionales de navegación aérea respecto a los vuelos sobre zonas terrestres designadas.
+2) el transmisor de localización de emergencia (ELT), dispositivos de señales y equipos salvavidas exigidos por la normativa de aplicación, cuando se decida en reuniones regionales de navegación aérea respecto a los vuelos sobre zonas terrestres designadas.
 
 GEN 1.6. Resumen de reglamentos nacionales y acuerdos/convenios internacionales.
 
@@ -774,7 +774,7 @@ Una lista de diferencias importantes entre los reglamentos y métodos nacionales
 
 2) el texto completo de la diferencia.
 
-Todas las diferencias importantes deberán indicarse en esta subsección. Todos los Anexos se indicarán en orden numérico, aún cuando no existan diferencias con respecto a un Anexo, en cuyo caso deberá incluirse la notificación NIL. Las diferencias nacionales o el grado de no aplicación de los procedimientos suplementarios regionales (SUPPS) deben notificarse inmediatamente a continuación del Anexo con el que se relaciona el procedimiento suplementario en cuestión.
+Todas las diferencias importantes deberán indicarse en esta subsección. Todos los Anexos se indicarán en orden numérico, aun cuando no existan diferencias con respecto a un Anexo, en cuyo caso deberá incluirse la notificación NIL. Las diferencias nacionales o el grado de no aplicación de los procedimientos suplementarios regionales (SUPPS) deben notificarse inmediatamente a continuación del Anexo con el que se relaciona el procedimiento suplementario en cuestión.
 
 8.10.1.2. GEN 2. Tablas y códigos.
 
@@ -1156,7 +1156,7 @@ El tiempo mínimo de aviso que exija el proveedor de servicios metereológicos a
 
 GEN 3.5.6. Informes de aeronave.
 
-Según sea necesario, los requisitos de el proveedor de servicios metereológicos para la formulación y transmisión de informes de aeronave.
+Según sea necesario, los requisitos del proveedor de servicios metereológicos para la formulación y transmisión de informes de aeronave.
 
 GEN 3.5.7. Servicio VOLMET.
 
@@ -1348,7 +1348,7 @@ Descripción de los procedimientos para funcionamiento del SSR, que comprenda:
 
 1) los procedimientos de emergencia;
 
-2) los procedimientos de falla de radiocomunicaciones y los procedimientos para casos de interferencia ilícita;
+2) los procedimientos de fallo de radiocomunicaciones y los procedimientos para casos de interferencia ilícita;
 
 3) el sistema de asignación de claves SSR; y
 
@@ -1478,7 +1478,7 @@ Descripción detallada de las rutas ATS inferiores, que comprenda:
 
 6) observaciones, lo que comprende señalar la dependencia del control y la frecuencia empleada para las operaciones.
 
-Nota. En relación con el apéndice N, adjunto 1, y con fines de planificación de vuelos, no se considera que la especificación de navegación sea parte integrante del designador de ruta.
+Nota. En relación con el Apéndice N, Adjunto 1, y con fines de planificación de vuelos, no se considera que la especificación de navegación sea parte integrante del designador de ruta.
 
 ENR 3.2. Rutas ATS superiores.
 
@@ -1496,7 +1496,7 @@ Descripción detallada de las rutas ATS superiores, que comprenda:
 
 6) observaciones, lo que comprende señalar la dependencia del control y la frecuencia empleada para las operaciones.
 
-Nota. En relación con el apéndice N, adjunto 1, y con fines de planificación de vuelos, no se considera que la especificación de navegación sea parte integrante del designador de ruta.
+Nota. En relación con el Apéndice N, Adjunto 1, y con fines de planificación de vuelos, no se considera que la especificación de navegación sea parte integrante del designador de ruta.
 
 ENR 3.3. Rutas de navegación de área.
 
@@ -1520,7 +1520,7 @@ c) la elevación de la antena transmisora del DME redondeada a los 30 m (100 ft)
 
 6) observaciones, lo que comprende señalar la dependencia de control y la frecuencia empleada para las operaciones.
 
-Nota. En relación con el apéndice N, adjunto 1, y con fines de planificación de vuelos, no se considera que la especificación de navegación sea parte integrante del designador de ruta.
+Nota. En relación con el Apéndice N, Adjunto 1, y con fines de planificación de vuelos, no se considera que la especificación de navegación sea parte integrante del designador de ruta.
 
 ENR 3.4. Rutas para helicópteros.
 
@@ -1536,7 +1536,7 @@ Descripción detallada de las rutas para helicópteros que comprenda:
 
 5) observaciones, lo que comprende señalar la dependencia de control y la frecuencia empleada para las operaciones.
 
-Nota. En relación con el apéndice N, adjunto 1, y con fines de planificación de vuelos, no se considera que la especificación de navegación sea parte integrante del designador de ruta.
+Nota. En relación con el Apéndice N, Adjunto 1, y con fines de planificación de vuelos, no se considera que la especificación de navegación sea parte integrante del designador de ruta.
 
 ENR 3.5. Otras rutas.
 
@@ -2050,7 +2050,7 @@ Descripción detallada de las luces de aproximación y de pista, que comprenda:
 
 1) el emplazamiento, las características y las horas de funcionamiento de los faros de aeródromo/faros de identificación de aeródromo (en caso de haberlo);
 
-2) el emplazamiento e iluminación (en caso de haberla) del aeródromo/indicador de la dirección de aterrizaje;
+2) el emplazamiento e iluminación (en caso de haberla) del anemómetro/indicador de la dirección de aterrizaje;
 
 3) las luces de borde de calle de rodaje y de eje de calle de rodaje;
 
@@ -2114,7 +2114,7 @@ Descripción detallada de las instalaciones de comunicación de los servicios de
 
 Descripción detallada de las radioayudas para la navegación y el aterrizaje relacionadas con la aproximación por instrumentos y los procedimientos de área terminal en el aeródromo, que comprenda:
 
-1) El tipo de ayuda, la variación magnética redondeada al grado más próximo, según corresponda, y tipo de operación apoyada para ILS/MLS, GNSS básico, SBAS y GBAS y, en el caso del VOR/ILS/MLS, la declinación de la estación redondeada al grado más próximo, utilizada para la alineación técnica de la ayuda.
+1) El tipo de ayuda, la variación magnética redondeada al grado más próximo, según corresponda, y tipo de operación apoyada para ILS, GNSS básico, SBAS y GBAS y, en el caso del VOR/ILS, la declinación de la estación redondeada al grado más próximo, utilizada para la alineación técnica de la ayuda.
 
 2) La identificación, si se requiere.
 
@@ -2517,6 +2517,8 @@ Es necesario incluir cartas relacionadas con el helipuerto, en el orden siguient
 8) concentraciones de aves en las proximidades del helipuerto.
 
 Si alguna de las cartas no se produce, deberá incluirse en la sección GEN 3.2, Cartas aeronáuticas, una declaración a esos efectos.
+
+> Se modifica el Capítulo 10 por la disposición final 1.2.5 del Real Decreto 1180/2018, de 21 de septiembre. Ref. BOE-A-2018-15406#df
 
 > Se modifican las referencias a "autoridad metereológica", "tramo de ruta" y "aeronaves civiles" por la disposición final 1.1 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
 

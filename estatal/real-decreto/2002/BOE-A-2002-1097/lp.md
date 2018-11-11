@@ -94,7 +94,7 @@ Aeronave privada.
 
 Se considerarán aeronaves privadas todas aquellas que no tengan consideración de aeronave de estado.
 
-Aeronavegabilidad (Certificarla).
+Aeronavegabilidad (Certificar la).
 
 (Véase Certificar la aeronavegabilidad).
 
@@ -128,33 +128,37 @@ Palabra clave utilizada para designar una fase de alerta.
 
 Altitud de decisión (DA) o altura de decisión (DH).
 
-Altitud o altura especificada en la aproximación de precisión a la cual debe iniciarse una maniobra de aproximación frustrada si no se ha establecido la referencia visual requerida para continuar la aproximación.
+Altitud o altura especificada en una operación de aproximación por instrumentos 3D, a la cual debe iniciarse una maniobra de aproximación frustrada si no se ha establecido la referencia visual requerida para continuar la aproximación.
 
 Nota 1: Para la altitud de decisión (DA) se toma como referencia el nivel medio del mar y para la altura de decisión (DH), la elevación del umbral.
 
-Nota 2: La referencia visual requerida significa aquella sección de las ayudas visuales o del área de aproximación que debería haber estado a la vista durante tiempo suficiente para que el piloto pudiera hacer una evaluación de la posición y de la rapidez del cambio de posición de la aeronave, en relación con la trayectoria de vuelo deseada. En operaciones de Categoría III con altura de decisión, la referencia visual requerida es aquella especificada para el procedimiento y operación particulares.
+Nota 2: La referencia visual requerida significa aquella sección de las ayudas visuales o del área de aproximación que debería haber estado a la vista durante tiempo suficiente para que el piloto pudiera hacer una evaluación de la posición y de la rapidez del cambio de posición de la aeronave, en relación con la trayectoria de vuelo deseada.
 
-Nota 3: Cuando se utilicen estas dos expresiones, pueden citarse convenientemente como «altitud/altura de decisión» y abreviarse en la forma «DA/H».
+En operaciones de Categoría III con altura de decisión, la referencia visual requerida es aquella especificada para el procedimiento y operación particulares.
+
+Nota 3: Cuando se utilicen estas dos expresiones, pueden citarse convenientemente como “altitud/altura de decisión” y abreviarse en la forma “DA/H”.
 
 Altitud de franqueamiento de obstáculos (OCA) o altura de franqueamiento de obstáculos (OCH).
 
 La altitud más baja o la altura más baja por encima de la elevación del umbral de la pista pertinente o por encima de la elevación del aeródromo, según corresponda, utilizada para respetar los correspondientes criterios de franqueamiento de obstáculos.
 
-Nota 1: Para la altitud de franqueamiento de obstáculos se toma como referencia el nivel medio del mar y para la altura de franqueamiento de obstáculos, la elevación del umbral, o en el caso de aproximaciones que no son de precisión, la elevación del aeródromo o la elevación del umbral, si éste estuviera a más de 2 m (7 ft) por debajo de la elevación del aeródromo. Para la altura de franqueamiento de obstáculos en aproximaciones en circuito se toma como referencia la elevación del aeródromo.
+Nota 1: Para la altitud de franqueamiento de obstáculos se toma como referencia el nivel medio del mar y para la altura de franqueamiento de obstáculos, la elevación del umbral, o en el caso de procedimientos de aproximación que no son de precisión, la elevación del aeródromo o la elevación del umbral, si éste estuviera a más de 2 m (7 ft) por debajo de la elevación del aeródromo. Para la altura de franqueamiento de obstáculos en procedimientos de aproximación en circuito se toma como referencia la elevación del aeródromo.
 
 Nota 2: Cuando se utilicen estas dos expresiones, pueden citarse convenientemente como «altitud/altura de franqueamiento de obstáculos» y abreviarse en la forma «OCA/H».
 
-Altitud mínima de área.
+Altitud mínima de área (AMA).
 
-La altitud más baja que haya de usarse en condiciones meteorológicas de vuelo por instrumentos (IMC) y que permite conservar un margen vertical mínimo de 300 m (1.000 ft) o, en determinados terrenos montañosos, 600 m (2.000 ft) por encima de todos los obstáculos situados en el área especificada, en cifras redondeadas a los 30 m (100 ft) más próximos (inmediatamente más altos).
+La altitud más baja que ha de usarse en condiciones meteorológicas de vuelo por instrumentos (IMC) que permite conservar un margen mínimo de franqueamiento de obstáculos dentro de un área especificada, comúnmente formada por paralelos y meridianos.
 
 Altitud mínima de descenso (MDA) o altura mínima de descenso (MDH).
 
-Altitud o altura especificada en una aproximación que no sea de precisión o en una aproximación en circuito, por debajo de la cual no debe efectuarse el descenso sin la referencia visual requerida.
+Altitud o altura especificada en una operación de aproximación por instrumentos 2D o en una operación de aproximación en circuito, por debajo de la cual no debe efectuarse el descenso sin la referencia visual requerida.
 
 Nota 1: Para la altitud mínima de descenso (MDA) se toma como referencia el nivel medio del mar y para la altura mínima de descenso (MDH), la elevación del aeródromo o la elevación del umbral, si éste estuviera a más de 2 m (7 ft) por debajo de la elevación del aeródromo. Para la altura mínima de descenso en aproximaciones en circuito se toma como referencia la elevación del aeródromo.
 
-Nota 2: La referencia visual requerida significa aquella sección de las ayudas visuales o del área de aproximación que debería haber estado a la vista durante tiempo suficiente para que el piloto pudiera hacer una evaluación de la posición y de la rapidez del cambio de posición de la aeronave, en relación con la trayectoria de vuelo deseada. En el caso de la aproximación en circuito, la referencia visual requerida es el entorno de la pista.
+Nota 2: La referencia visual requerida significa aquella sección de las ayudas visuales o del área de aproximación que debería haber estado a la vista durante tiempo suficiente para que el piloto pudiera hacer una evaluación de la posición y de la rapidez del cambio de posición de la aeronave, en relación con la trayectoria de vuelo deseada.
+
+En el caso de la aproximación en circuito, la referencia visual requerida es el entorno de la pista.
 
 Nota 3: Cuando se utilicen estas dos expresiones, pueden citarse convenientemente como «altitud/altura mínima de descenso» y abreviarse en la forma «MDA/H».
 
@@ -190,7 +194,7 @@ Apartadero/zona de espera.
 
 Aprobación RVSM.
 
-Autorización para que una aeronave pueda operar en espacio aéreo RVSM expedida por la autoridad apropiada del Estado del operador o del Estado de matricula.
+Autorización para que una aeronave pueda operar en espacio aéreo RVSM expedida por la autoridad apropiada del Estado del operador o del Estado de matrícula.
 
 Nota: Una aprobación RVSM no está restringida a una región específica sino que es válida globalmente y se basa en el entendimiento de que los procedimientos operativos para una determinada región deben figurar en el manual de operaciones de la aeronave o en las apropiadas normas de la tripulación.
 
@@ -284,10 +288,6 @@ Arreglos/acuerdos de tránsito directo.
 
 Arreglos especiales aprobados por las autoridades competentes, mediante los cuales el tráfico que se detiene sólo brevemente a su paso por el Estado puede permanecer bajo la jurisdicción inmediata de dichas autoridades.
 
-ASHTAM.
-
-Serie especial de NOTAM que notifica por medio de un formato específico un cambio de importancia para las operaciones de las aeronaves debido a la actividad de un volcán, una erupción volcánica o una nube de cenizas volcánicas.
-
 Asistencia radar.
 
 El empleo del radar para proporcionar a las aeronaves información y asesoramiento sobre desviaciones significativas respecto a la trayectoria nominal de vuelo, incluidas las desviaciones respecto a los términos de las autorizaciones del control de tránsito aéreo otorgadas.
@@ -361,17 +361,13 @@ Atribución, atribuir.
 
 Distribución de frecuencias, códigos SSR, etc. a un Estado, dependencia o servicio. Distribución de direcciones de aeronave de 24 bits al Estado o a la autoridad de registro de marca común.
 
-Autoridad competente civil.
+Autoridad Aeronáutica Competente Civil.
 
 Ministerio de Fomento. La Dirección General de Aviación Civil o la Agencia Estatal de Seguridad Aérea, según corresponda, en el ámbito de sus respectivas competencias.
 
-Autoridad competente militar.
+Autoridad Aeronáutica Competente Militar.
 
-Ministerio de Defensa. Ejército del aire.
-
-Autoridad de datos posterior.
-
-El sistema de tierra así designado, distinto de la autoridad de datos vigente, a través del cual el piloto puede ponerse en contacto con una dependencia ATC apropiada con el fin de recibir una autorización anticipada.
+El Jefe de Estado Mayor del Ejército del Aire (JEMA) es la autoridad con potestad reguladora en materia aeronáutica dentro del Ministerio de Defensa.
 
 Autoridad de datos siguiente.
 
@@ -445,6 +441,8 @@ Calendario.
 
 Sistema de referencia temporal discreto que sirve de base para definir la posición temporal con resolución de un día (1).
 
+Nota 1: Ver norma ISO 19108, Información geográfica-Modelos temporales.
+
 Calendario gregoriano.
 
 Calendario que se utiliza generalmente; se estableció en 1582 para definir un año que se aproxima más estrechamente al año tropical que al calendario juliano.
@@ -458,10 +456,6 @@ Calidad.
 Todas las características de una entidad que se refieren a su capacidad para satisfacer necesidades establecidas e implícitas.
 
 Entidad es un elemento que puede describirse y considerarse individualmente.
-
-Calidad de los datos.
-
-Grado o nivel de confianza de que los datos proporcionados satisfarán los requisitos del usuario de datos en lo que se refiere a exactitud, resolución e integridad.
 
 Calle de rodaje aéreo.
 
@@ -491,23 +485,9 @@ Carta de altitudes mínimas de guía vectorial radar.
 
 Carta en la que figuran las altitudes MSL más bajas a las que un controlador radar puede proporcionar guía vectorial radar a las aeronaves.
 
-Carta de exenciones para operaciones especiales.
-
-Carta que recoge el acuerdo suscrito a alto nivel entre el Estado Mayor del Ejército del Aire, la Dirección General de Aviación Civil y el Director General o cargo equivalente del Organismo Público encargado de las operaciones, puntualizando las condiciones, medios y procedimientos necesarios para regular la cooperación mutua o la forma de llevar a cabo ciertas operaciones especiales para la realización de misiones de interés público, que por su urgencia o características pudieran verse afectadas por la estricta observación del Reglamento de Circulación Aérea.
-
-Nota.–Anteriormente este tipo de carta se conocía como Carta Operacional.
-
 Centro coordinador de salvamento.
 
 Dependencia encargada de promover la buena organización del servicio de búsqueda y salvamento y de coordinar la ejecución de las operaciones de búsqueda y salvamento dentro de una región de búsqueda y salvamento.
-
-Centro de avisos de cenizas volcánicas (VAAC).
-
-Centro meteorológico designado por acuerdo regional de navegación aérea para proporcionar información y asesoramiento a las oficinas meteorológicas, los centros de control de área, centros de información de vuelo, centros mundiales de pronósticos de área y bancos internacionales de datos OPMET, sobre la extensión lateral y vertical y el movimiento pronosticado de las cenizas volcánicas después de las erupciones volcánicas.
-
-Centro de avisos de ciclones tropicales (TCAC).
-
-Centro meteorológico designado por acuerdo regional de navegación aérea para proporcionar información y asesoramiento a las oficinas meteorológicas, los centros de control de área, centros de información de vuelo, centros mundiales de pronósticos de área y bancos internacionales de datos OPMET, sobre la posición, la dirección prevista y la velocidad del movimiento, la presión central y el viento máximo en la superficie de los ciclones tropicales.
 
 Centro de comunicaciones.
 
@@ -520,10 +500,6 @@ Estación de la AFTN cuya función primaria es la retransmisión de tráfico AFT
 Centro de control de área terminal.
 
 Dependencia establecida para facilitar servicio de control de tránsito aéreo a los vuelos controlados en el área de control terminal bajo su jurisdicción.
-
-Centro mundial de pronóstico de área (WAFC).
-
-Centro meteorológico designado para preparar y expedir pronósticos del tiempo significativo y en altitud en forma digital a escala mundial directamente a los Estados mediante medios apropiados como parte del servicio fijo aeronáutico.
 
 Centro regional de pronóstico de área (RAFC).
 
@@ -567,7 +543,7 @@ Código SSR de cuatro cifras de las cuales las dos últimas no son «00».
 
 Coeficiente de utilización.
 
-El porcentaje de tiempo durante el cual el uso de una pista o sistema de pistas no está limitado por la componente transversal del viento. (1)
+El porcentaje de tiempo durante el cual el uso de una pista o sistema de pistas no está limitado por la componente transversal del viento.(1)
 
 (1) Componente transversal del viento significa la componente del viento en la superficie que es perpendicular al eje de la pista.
 
@@ -579,13 +555,7 @@ Comandante de aeronave.
 
 (Ver Piloto al mando)(*).
 
-(*)Téngase en cuenta que esta defiinición fue eliminada por la disposición final 1.2.1.1c) del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
-
-Combustible mínimo.
-
-Término utilizado para describir una situación en que el combustible restante de la aeronave es tal que el vuelo debe aterrizar en un aeródromo específico y no puede aceptarse ninguna demora adicional.
-
-Nota: En el apartado 4.3.16.2.3., en particular en su nota 1, se concreta el alcance de la declaración de combustible mínimo.
+(*)Téngase en cuenta que esta definición fue eliminada por la disposición final 1.2.1.1c) del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
 
 Computadora.
 
@@ -593,9 +563,19 @@ Dispositivo que ejecuta series de transformaciones, aritméticas y lógicas, con
 
 (1) Cuando en este Reglamento se emplea la palabra «computadora», puede significar un conjunto que comprenda una o más computadoras y el equipo periférico correspondiente.
 
+Comunicación basada en la performance (PBC).
+
+Comunicación basada en especificaciones sobre la performance que se aplican al suministro de servicios de tránsito aéreo.
+
+Nota: Una especificación RCP comprende los requisitos de performance para las comunicaciones que se aplican a los componentes del sistema en términos de la comunicación que debe ofrecerse y del tiempo de transacción, la continuidad, la disponibilidad, la integridad, la seguridad y la funcionalidad correspondientes que se necesitan para la operación propuesta en el contexto de un concepto de espacio aéreo particular.
+
 Comunicación de aire a tierra.
 
 Comunicación en un sólo sentido, de las aeronaves a las estaciones o puntos situados en la superficie de la tierra.
+
+Comunicación interpiloto aire-aire.
+
+Comunicación en ambos sentidos por un canal aire-aire designado para que, en vuelos sobre áreas remotas y oceánicas, las aeronaves que estén fuera del alcance de estaciones terrestres VHF puedan intercambiar información operacional necesaria y para facilitar la resolución de dificultades operacionales.
 
 Comunicaciones del control de operaciones.
 
@@ -607,17 +587,13 @@ Comunicaciones «en conferencia».
 
 Instalaciones de comunicaciones por las que se pueden llevar a cabo comunicaciones orales directas entre tres o más lugares simultáneamente.
 
-Comunicaciones impresas.
-
-Comunicaciones que facilitan automáticamente en cada una de las terminales de un circuito una constancia impresa de todos los mensajes que pasan por dicho circuito.
-
 Comunicaciones fuera de red.
 
 Comunicaciones radiotelefónicas efectuadas por una estación del servicio móvil aeronáutico, distintas de las realizadas como parte de la red radiotelefónica.
 
-Comunicación interpiloto aire-aire.
+Comunicaciones impresas.
 
-Comunicación en ambos sentidos por un canal aire-aire designado para que, en vuelos sobre áreas remotas y oceánicas, las aeronaves que estén fuera del alcance de estaciones terrestres VHF puedan intercambiar información operacional necesaria y para facilitar la resolución de dificultades operacionales.
+Comunicaciones que facilitan automáticamente en cada una de las terminales de un circuito una constancia impresa de todos los mensajes que pasan por dicho circuito.
 
 Configuración (aplicada al avión).
 
@@ -667,12 +643,6 @@ Copiloto.
 
 Piloto titular de licencia, que presta servicios de pilotaje sin estar al mando de la aeronave, a excepción del piloto que vaya a bordo de la aeronave con el único fin de recibir instrucción de vuelo.
 
-Datos reticulares en forma digital.
-
-Datos meteorológicos tratados por computadora, correspondientes a un conjunto de puntos de un mapa, espaciados regularmente entre sí, para su transmisión desde una computadora meteorológica a otra computadora en forma de clave adecuada para uso en sistemas automáticos.
-
-Nota: En la mayoría de los casos estos datos se transmiten por canales de telecomunicaciones de media o alta velocidad.
-
 Datos reticulares en forma numérica.
 
 Datos meteorológicos tratados, correspondientes a un conjunto de puntos de un mapa, espaciados regularmente entre sí, en clave adecuada para uso manual.
@@ -689,11 +659,11 @@ Diferencia angular entre el norte geográfico y el norte magnético.
 
 Nota: El valor dado indica si la diferencia angular está al este o al oeste del norte geográfico.
 
-Dependencia:
+Dependencia.
 
 Conjunto de instalaciones, equipos y personal que cumplen una serie de funciones específicas.
 
-Dependencia AFIS:
+Dependencia AFIS.
 
 Dependencia de servicios de tránsito aéreo que suministra servicio de información de vuelo de aeródromo y servicio de alerta en un aeródromo AFIS y en la zona de información de vuelo asociada.
 
@@ -727,11 +697,11 @@ Expresión genérica que significa, según el caso, centro coordinador de salvam
 
 Dependencia radar.
 
-Elemento de una dependencia de los servicios de tránsito aéreo que utiliza equipo radar para suministrar uno ó más servicios.
+Elemento de una dependencia de los servicios de tránsito aéreo que utiliza equipo radar para suministrar uno o más servicios.
 
 Dependencia transferidora.
 
-(Véase Dependencia/Controlador transferidor).
+(Véase Dependencia/controlador transferidor).
 
 Despegue desde intersección.
 
@@ -740,6 +710,10 @@ Despegue de una pista a partir de una intersección.
 DETRESFA.
 
 Palabra clave utilizada para designar una fase de peligro.
+
+Dirección de conexión.
+
+Código específico que se utiliza para establecer la conexión del enlace de datos con la dependencia ATS.
 
 Dirigible.
 
@@ -807,17 +781,13 @@ Situación de performance (sustentación) mejorada debido a la interferencia de 
 
 Nota: Para la mayoría de los helicópteros, la eficacia del rotor aumenta debido al efecto de suelo hasta una altura equivalente aproximadamente al diámetro del rotor.
 
-Elevación.
+Elemento de mensaje de texto libre.
 
-Distancia vertical entre un punto o un nivel en la superficie de la tierra, o unido a ella, y el nivel medio del mar.
+Parte de un mensaje que no se ajusta a ningún elemento de mensaje normalizado establecido por las disposiciones de aplicación.
 
-Elevación de aeródromo.
+Elemento de mensaje normalizado.
 
-La elevación del punto más alto del área de aterrizaje.
-
-Empresa explotadora de aeronaves.
-
-(Ver Explotador)
+Parte de un mensaje definido por las disposiciones de aplicación, en términos del formato de presentación, el uso previsto y los atributos.
 
 Enmienda AIP.
 
@@ -853,6 +823,14 @@ Volumen de espacio aéreo determinado, desde nivel de vuelo 290 y hasta un nivel
 
 Nota: Por espacio aéreo EUR RVSM deberá entenderse un espacio aéreo RVSM que comprende aquella parte del espacio aéreo de las regiones EUR y AFI indicada en AIP por el proveedor de servicios de tránsito aéreo competente.
 
+Especificación de performance de comunicación requerida (RCP).
+
+Conjunto de requisitos para el suministro de servicios de tránsito aéreo y el equipo de tierra, las capacidades funcionales de la aeronave y las operaciones correspondientes que se necesitan para apoyar la comunicación basada en la performance.
+
+Especificación de performance de vigilancia requerida (RSP).
+
+Conjunto de requisitos para el suministro de servicios de tránsito aéreo y el equipo de tierra, las capacidades funcionales de la aeronave y las operaciones correspondientes que se necesitan para apoyar la vigilancia basada en la performance.
+
 Especificación para la navegación.
 
 Conjunto de requisitos relativos a la aeronave y a la tripulación de vuelo necesarios para dar apoyo a las operaciones de la navegación basada en la performance dentro de un espacio aéreo definido. Existen dos clases de especificaciones para la navegación:
@@ -864,6 +842,10 @@ b) Especificación para la navegación de área (RNAV): Especificación para la 
 Nota 1. El Manual sobre la navegación basada en la performance (PBN) (Doc. 9613 de OACI), volumen II, contiene directrices detalladas sobre las especificaciones para la navegación.
 
 Nota 2. El término RNP, definido anteriormente como «declaración de la performance de navegación necesaria para operar dentro de un espacio aéreo definido», se ha retirado del Reglamento de la circulación aérea puesto que el concepto de RNP ha sido remplazado por el concepto de PBN. El término RNP sólo se utiliza ahora en el contexto de especificaciones de navegación que requieren vigilancia de la performance y alerta, p. ej., RNP 4 se refiere a la aeronave y los requisitos operacionales, comprendida una performance lateral de 4 NM, con la vigilancia de performance y alerta a bordo que se describen en el Doc. 9613 de OACI.
+
+Estación aeronáutica.
+
+Estación terrestre del servicio móvil aeronáutico. En ciertos casos, una estación aeronáutica puede estar instalada, por ejemplo, a bordo de un barco o de una plataforma sobre el mar.
 
 Estación AFTN.
 
@@ -899,10 +881,6 @@ Estación fija aeronáutica.
 
 Estación del servicio fijo aeronáutico.
 
-Estación meteorológica aeronáutica.
-
-Estación designada para hacer observaciones e informes meteorológicos para uso en la navegación aérea.
-
 Estación móvil de superficie.
 
 Estación del servicio de telecomunicaciones aeronáuticas, que no sea estación de aeronave, destinada a usarse mientras está en movimiento o cuando se detiene en puntos no determinados.
@@ -923,6 +901,32 @@ Estado de matrícula.
 
 Estado en el cual está matriculada la aeronave.
 
+Estructuras de espacio aéreo asociadas a la gestión del uso flexible del espacio aéreo.
+
+El artículo 17 del Real Decreto 1180/2018, de 21 de septiembre, por el que se desarrolla el Reglamento del aire y disposiciones operativas comunes para los servicios y procedimientos de navegación aérea y se modifica el Real Decreto 57/2002, de 18 de enero, por el que se aprueba el Reglamento de Circulación Aérea, establece las estructuras de espacio aéreo asociadas a la aplicación del Reglamento (CE) n.º 2150/2005 de la Comisión, de 23 de diciembre, de 2005.
+
+Nota: El artículo 17 del Real Decreto 1180/2018, de 21 de septiembre, establece las siguientes estructuras, sin perjuicio de que CIDEFO pueda definir otras en los términos previstos en el precepto:
+
+a) Espacio Aéreo de coordinación previa (PCA): volumen de espacio aéreo de dimensiones definidas en el que se realizan actividades militares conforme a las reglas de tránsito aéreo operativo, dentro del cual se puede permitir a un tráfico de la Circulación Aérea General (CAG) volar fuera de las rutas ATS, únicamente después de que se haya iniciado una coordinación previa de los controladores de los vuelos CAG con los controladores de los vuelos de la Circulación Aérea Operativa (CAO).
+
+b) Espacio Aéreo de coordinación reducida (RCA): volumen de espacio aéreo de dimensiones definidas en el que se realizan actividades militares conforme a las reglas de tránsito aéreo operativo, dentro del cual se puede permitir a un tráfico de la CAG volar fuera de las rutas ATS sin que sea necesario que los controladores de los vuelos CAG inicien una coordinación con los controladores de los vuelos de la CAO.
+
+c) Espacio aéreo temporalmente reservado (TRA): el volumen definido de espacio aéreo para uso específico de una actividad, y a través del cual se puede permitir el tránsito de otro tráfico bajo autorización ATC.
+
+d) Espacio aéreo temporalmente segregado (TSA): volumen definido de espacio aéreo para uso específico de una actividad, y a través del cual no se puede permitir el tránsito de otro tráfico, ni siquiera bajo autorización ATC.
+
+e) Ruta Condicional (CDR): Ruta ATS que sólo está disponible para planificar el vuelo y utilizarse, bajo condiciones específicas. Se distinguen tres tipos:
+
+1.º Ruta Condicional Categoría Uno (CDR1): Se puede planificar permanentemente y está disponible, en general, para planificar el vuelo, en los períodos publicados en la AIP.
+
+2.º Ruta Condicional Categoría Dos (CDR2): No se puede planificar permanentemente y pueden estar disponibles para planificar el vuelo.
+
+3.º Ruta Condicional Categoría Tres (CDR3): No se puede planificar y no están disponibles para planificar el vuelo. Sin embargo, las Unidades ATC pueden dar autorizaciones a nivel táctico en esos segmentos de ruta.
+
+f) Zona transfronteriza (CBA): Reserva o restricción temporal de un volumen de espacio aéreo establecido sobre las fronteras internacionales por necesidades operaciones específicas. Puede tomar la forma de una TSA o una TRA.
+
+g) Zonas promulgadas: Volumen de espacio aéreo publicado en la Publicación de Información Aeronáutica (AIP) en el que frecuentemente se realizan actividades de deporte aéreo, que no implica la restricción de uso para otros tráficos y que informa a otros usuarios del espacio aéreo de la actividad aeronáutica que se realiza en dicho volumen.
+
 Etapa.
 
 Ruta o parte de una ruta que se recorre sin aterrizaje intermedio.
@@ -930,10 +934,6 @@ Ruta o parte de una ruta que se recorre sin aterrizaje intermedio.
 Etiqueta radar.
 
 Información asociada al símbolo de posición radar de una aeronave que se muestra en una presentación radar.
-
-Explotador.
-
-Persona, organismo o empresa que se dedica a la explotación de aeronaves.
 
 Exposición verbal (meteorológica).
 
@@ -1073,15 +1073,15 @@ Autorización inscrita en una licencia o asociada con ella, y de la cual forma p
 
 Helicóptero de Clase de Performance 1.
 
-Helicóptero cuya performance, en caso de falla del grupo motor crítico, permite aterrizar en la zona de despegue interrumpido o continuar el vuelo en condiciones de seguridad hasta una zona de aterrizaje apropiada, según el momento en que ocurra la falla.
+Helicóptero cuya performance, en caso de fallo del grupo motor crítico, permite aterrizar en la zona de despegue interrumpido o continuar el vuelo en condiciones de seguridad hasta una zona de aterrizaje apropiada, según el momento en que ocurra el fallo.
 
 Helicóptero de Clase de Performance 2.
 
-Helicóptero cuya performance, en caso de falla del grupo motor crítico, permite continuar el vuelo en condiciones de seguridad, excepto que la falla se presente antes de un punto definido después del despegue o después de un punto definido antes del aterrizaje, en cuyos casos puede requerirse un aterrizaje forzoso.
+Helicóptero cuya performance, en caso de fallo del grupo motor crítico, permite continuar el vuelo en condiciones de seguridad, excepto que el fallo se presente antes de un punto definido después del despegue o después de un punto definido antes del aterrizaje, en cuyos casos puede requerirse un aterrizaje forzoso.
 
 Helicóptero de Clase de Performance 3.
 
-Helicóptero cuya performance, en caso de falla del grupo motor en cualquier punto del perfil de vuelo, debe requerir un aterrizaje forzoso.
+Helicóptero cuya performance, en caso de fallo del grupo motor en cualquier punto del perfil de vuelo, debe requerir un aterrizaje forzoso.
 
 Heliplataforma.
 
@@ -1146,14 +1146,6 @@ Grupo de clave, de 4 letras, formulado de acuerdo con las disposiciones prescrit
 Indicador de sentido de aterrizaje.
 
 Dispositivo para indicar visualmente el sentido designado en determinado momento, para el aterrizaje o despegue.
-
-Información meteorológica.
-
-Informe meteorológico, análisis, pronóstico y cualquier otra declaración relativa a condiciones meteorológicas existentes o previstas.
-
-Informe meteorológico.
-
-Declaración de las condiciones meteorológicas observadas en relación con una hora y lugar determinados.
 
 Instrucción reconocida.
 
@@ -1225,7 +1217,7 @@ Lámpara en la cual se producen destellos de gran intensidad y de duración extr
 
 Luz fija.
 
-Luz que posee una intensidad luminosa constante cuando se observa desde un punto fjo.
+Luz que posee una intensidad luminosa constante cuando se observa desde un punto fijo.
 
 Luz puntiforme.
 
@@ -1283,6 +1275,10 @@ Masa máxima.
 
 Masa máxima certificada de despegue.
 
+Mensaje CPDLC.
+
+Información intercambiada entre un sistema de a bordo y su contraparte de tierra. Un mensaje CPDLC consta de un solo elemento de mensaje o de una combinación de elementos de mensaje enviados por el iniciador en una sola transmisión.
+
 Mercancías peligrosas.
 
 Todo artículo o sustancia que cuando se transporte por vía aérea, pueda constituir un riesgo importante para la salud, la seguridad o la propiedad.
@@ -1317,7 +1313,7 @@ Navegación basada en la performance (PBN).
 
 Requisitos para la navegación de área basada en la performance que se aplican a las aeronaves que realizan operaciones en una ruta ATS, en un procedimiento de aproximación por instrumentos o en un espacio aéreo designado.
 
-Nota. Los requisitos de performance se expresan en las especificaciones para la navegación (especificaciones RNAV, especificaciones RNP) en función de la precisión, integridad, continuidad, disponibilidad y funcionalidad necesarias para la operación propuesta en el contexto de un concepto para un espacio aéreo particular.
+Nota: Los requisitos de performance se expresan en las especificaciones para la navegación (especificaciones RNAV, especificaciones RNP) en función de la precisión, integridad, continuidad, disponibilidad y funcionalidad necesarias para la operación propuesta en el contexto de un concepto para un espacio aéreo particular.
 
 Nefanálisis.
 
@@ -1347,15 +1343,11 @@ Nivel de vuelo RVSM.
 
 Nivel de vuelo que el ATC puede asignar dentro de espacio aéreo RVSM.
 
-NOTAM.
-
-Aviso distribuido por medios de telecomunicaciones que contiene información relativa al establecimiento, condición o modificación de cualquier instalación aeronáutica, servicio, procedimiento o peligro, cuyo conocimiento oportuno es esencial para el personal encargado de las operaciones de vuelo.
-
 Número de clasificación de aeronaves (ACN).
 
 Cifra que indica el efecto relativo de una aeronave sobre un pavimento, para determinada categoría normalizada del terreno de fundación.
 
-Nota: El número de clasificación de aeronaves se calcula con respecto a la posición del centro de gravedad (CG), que determina la carga crítica sobre el tren de aterrizaje crítico. Normalmente, para calcular el ACN se emplea la posición más retrasada del CG correspondiente a la masa bruta máxima en la plataforma (rampa). En casos excepcionales, la posición más avanzada del CG puede determinar que resulte más critica la carga sobre el tren de aterrizaje de proa.
+Nota: El número de clasificación de aeronaves se calcula con respecto a la posición del centro de gravedad (CG), que determina la carga crítica sobre el tren de aterrizaje crítico. Normalmente, para calcular el ACN se emplea la posición más retrasada del CG correspondiente a la masa bruta máxima en la plataforma (rampa). En casos excepcionales, la posición más avanzada del CG puede determinar que resulte más crítica la carga sobre el tren de aterrizaje de proa.
 
 Número de clasificación de pavimentos (PCN).
 
@@ -1387,10 +1379,6 @@ Oficina meteorológica.
 
 Oficina designada para suministrar servicio meteorológico para la navegación aérea internacional.
 
-Oficina meteorológica de aeródromo.
-
-Oficina, situada en un aeródromo, designada para suministrar servicio meteorológico para la navegación aérea.
-
 Oficina NOTAM internacional.
 
 Oficina designada por el Estado para el intercambio internacional de NOTAM.
@@ -1411,10 +1399,6 @@ La definida en el artículo 2, número 1, del Reglamento (UE) n.º 965/2012 de l
 
 Nota: El artículo 2, número 1, del Reglamento (UE) n.º 965/2012, define la operación de transporte aéreo comercial (CAT) como la explotación de una aeronave para el transporte de pasajeros, mercancías o correo a cambio de remuneración o de cualquier otro tipo de contraprestación económica.
 
-Operaciones Especiales.
-
-Se denominan operaciones especiales las que, por motivos de interés público se realicen por aeronaves en cumplimiento de una Carta de exenciones para operaciones especiales, debidamente aprobada por los Organismos competentes, en la que se establecen los criterios de operación y las exenciones a cualquiera de las disposiciones contenidas en el Reglamento de Circulación Aérea, derivadas de la urgencia o características de la misión encomendada.
-
 Operaciones paralelas segregadas.
 
 Operaciones simultáneas en pistas de vuelo por instrumentos, paralelas o casi paralelas, cuando una de las pistas se utiliza exclusivamente para aproximaciones y la otra exclusivamente para salidas.
@@ -1433,10 +1417,6 @@ Perfil.
 
 La proyección ortogonal de una trayectoria de vuelo o parte de la misma sobre la superficie vertical que contiene la derrota nominal.
 
-Performance de comunicación requerida (RCP).
-
-Declaración de los requisitos de performance para comunicaciones operacionales en relación con funciones ATM específicas.
-
 Período de descanso.
 
 Todo período de tiempo en tierra durante el cual el explotador releva de todo servicio a un miembro de la tripulación de vuelo.
@@ -1449,7 +1429,7 @@ Permiso de control de tránsito aéreo.
 
 (Véase Autorización de control de tránsito aéreo)(*).
 
-(*)Téngase en cuenta que esta defiinición fue eliminada por la disposición final 1.2.1.1c) del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
+(*)Téngase en cuenta que esta definición fue eliminada por la disposición final 1.2.1.1c) del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
 
 Pilotar.
 
@@ -1461,25 +1441,39 @@ Pista destinada exclusivamente a los despegues.
 
 Pista de vuelo por instrumentos.
 
-Uno de los siguientes tipos de pista destinados a la operación de aeronaves que utilizan procedimientos de aproximación por instrumentos:
+La definida en las normas técnicas de diseño y operación de aeródromos de uso público aprobadas por el Real Decreto 862/2009, de 14 de mayo, por el que se aprueban las normas técnicas de diseño y operación de aeródromos de uso público y el Reglamento de certificación y verificación de aeropuertos y otros aeródromos de uso público.
 
-a) Pista para aproximaciones que no sean de precisión. Pista de vuelo por instrumentos servida por ayudas visuales y una ayuda no visual que proporciona por lo menos guía direccional adecuada para la aproximación directa.
+Nota: En el anexo al Real Decreto 862/2009, de 14 de mayo, se define pista de vuelo por instrumentos como:
 
-b) Pista para aproximaciones de precisión de Categoría I. Pista de vuelo por instrumentos servida por ILS y/o MLS y por ayudas visuales destinadas a operaciones con una altura de decisión no inferior a 60 m (200 ft) y con una visibilidad de no menos de 800 m o con un alcance visual en la pista no inferior a 550 m.
+"Uno de los siguientes tipos de pista destinados a la operación de aeronaves que utilizan procedimientos de aproximación por instrumentos:
 
-c) Pista para aproximaciones de precisión de Categoría II. Pista de vuelo por instrumentos servida por ILS y/o MLS y por ayudas visuales destinadas a operaciones con una altura de decisión inferior a 60 m (200 ft) pero no inferior a 30 m (100 ft) y con un alcance visual en la pista no inferior a 350 m.
+a) Pista para aproximaciones que no son de precisión. Pista de vuelo servida por ayudas visuales y ayudas no visuales destinada a operaciones de aterrizaje después de una operación de aproximación por instrumentos de Tipo A y con visibilidad no inferior a 1 000 m.
 
-d) Pista para aproximaciones de precisión de Categoría III. Pista de vuelo por instrumentos servida por ILS y/o MLS hasta la superficie de la pista y a lo largo de la misma; y
+b) Pista para aproximaciones de precisión de Categoría I. Pista de vuelo servida por ayudas visuales y ayudas no visuales destinada a operaciones de aterrizaje después de una operación de aproximación por instrumentos de Tipo B con una altura de decisión (DH) no inferior a 60 m (200 ft) y con una visibilidad de no menos de 800 m o con un alcance visual en la pista no inferior a 550 m.
 
-A. destinada a operaciones con una altura de decisión inferior a 30 m (100 ft), o sin altura de decisión y un alcance visual en la pista no inferior a 200 m.
+c) Pista para aproximaciones de precisión de Categoría II. Pista de vuelo servida por ayudas visuales y ayudas no visuales destinada a operaciones de aterrizaje después de una operación de aproximación por instrumentos de Tipo B con una altura de decisión (DH) inferior a 60 m (200 ft) pero no inferior a 30 m (100 ft) y con un alcance visual en la pista no inferior a 300 m.
 
-B. destinada a operaciones con una altura de decisión inferior a 15 m (50 ft), o sin altura de decisión, y un alcance visual en la pista inferior a 200 m pero no inferior a 50 m.
+d) Pista para aproximaciones de precisión de Categoría III. Pista de vuelo servida por ayudas visuales y ayudas no visuales destinada a operaciones de aterrizaje después de una operación de aproximación por instrumentos de Tipo B hasta la superficie de la pista y a lo largo de la misma; y
 
-C. destinada a operaciones sin altura de decisión y sin restricciones de alcance visual en la pista.
+A. destinada a operaciones con una altura de decisión (DH) inferior a 30 m (100 ft), o sin altura de decisión, y un alcance visual en la pista no inferior a 175 m.
+
+B. destinada a operaciones con una altura de decisión (DH) inferior a 15 m (50 ft), o sin altura de decisión, y un alcance visual en la pista inferior a 175 m pero no inferior a 50 m.
+
+C. destinada a operaciones sin altura de decisión (DH) y sin restricciones de alcance visual en la pista.
+
+Nota 1: Las ayudas visuales no tienen necesariamente que acomodarse a la escala que caracterice las ayudas no visuales que se proporcionen. El criterio para la selección de las ayudas visuales se basa en las condiciones en que se trata de operar.
+
+Nota 2: Consúltese el Anexo 6 al Convenio sobre Aviación Civil Internacional para los tipos de operaciones de aproximación por instrumentos."
 
 Pista de vuelo visual.
 
-Pista destinada a las operaciones de aeronaves que utilicen procedimientos visuales para la aproximación.
+La definida en las normas técnicas de diseño y operación de aeródromos de uso público aprobadas por el Real Decreto 862/2009, de 14 de mayo.
+
+Nota: En el anexo al Real Decreto 862/2009, de 14 de mayo, se define pista de vuelo visual como:
+
+"Pista destinada a las operaciones de aeronaves que utilicen procedimientos de aproximación visual o un procedimiento de aproximación por instrumentos a un punto más allá del cual pueda continuarse la aproximación en condiciones meteorológicas de vuelo visual.
+
+Nota: Las condiciones meteorológicas de vuelo visual (VMC) se describen en SERA.5001."
 
 Pista para aproximaciones de precisión.
 
@@ -1559,19 +1553,19 @@ Procesamiento de datos.
 
 Serie sistemática de operaciones realizadas con los datos.
 
-Nota. Las operaciones pueden ser intercalación, clasificación, cálculo o cualquier otra transformación u ordenación, con el fin de obtener o revisar información, o de modificar la representación de la misma.
+Nota: Las operaciones pueden ser intercalación, clasificación, cálculo o cualquier otra transformación u ordenación, con el fin de obtener o revisar información, o de modificar la representación de la misma.
 
 Pronóstico de área GAMET.
 
-Pronóstico de área en lenguaje claro abreviado para vuelos a baja altura en una región de información de vuelo o en una subzona de la misma, preparado por la oficina meteorológica designada por el proveedor de servicios metereológicos correspondiente e intercambiado con las oficinas meteorológicas en regiones de información de vuelo adyacentes, tal como hayan convenido las autoridades meteorológicas afectadas.
+Pronóstico de área en lenguaje claro abreviado para vuelos a baja altura en una región de información de vuelo o en una subzona de la misma, preparado por la oficina meteorológica designada por el proveedor de servicios metereológicos correspondiente e intercambiado con las oficinas meteorológicas en regiones de información de vuelo adyacentes, tal como hayan convenido los proveedores de servicios de tránsito aéreo afectados.
 
-Proveedor de servicios de tránsito aéreo competente civil.
+Proveedor de servicios de tránsito aéreo civil.
 
-El proveedor de servicios de tránsito aéreo correspondiente, designada por la autoridad competente (Dirección General de Aviación Civil), responsable de proporcionar los servicios de tránsito aéreo en el espacio aéreo de que se trate.
+El proveedor de servicios de tránsito aéreo certificado designado por la Dirección General de Aviación Civil, responsable de proporcionar los servicios de tránsito aéreo en el espacio aéreo de que se trate.
 
-Proveedor de servicios de tránsito aéreo competente militar.
+Proveedor de servicios de tránsito aéreo militar.
 
-El proveedor de servicios de tránsito aéreo correspondiente, designada por la autoridad competente (Ejército del Aire) responsable de proporcionar los servicios de tránsito aéreo en el espacio aéreo de que se trate.
+El proveedor de servicios de tránsito aéreo competente militar conforme al Reglamento de la Circulación Aérea Operativa, esto es, la autoridad correspondiente, designada por la autoridad aeronáutica competente militar, responsable de proporcionar los servicios de tránsito aéreo en el espacio aéreo de que se trate.
 
 Proximidad de aeronaves (AIRPROX).
 
@@ -1611,13 +1605,13 @@ En un procedimiento de aproximación por instrumentos, el punto en el cual, o an
 
 Punto de decisión para el aterrizaje (LDP).
 
-Punto que se utiliza para determinar la performance de aterrizaje y a partir del cual, al ocurrir una falla de grupo motor en dicho punto, se puede continuar el aterrizaje en condiciones de seguridad o bien iniciar un aterrizaje interrumpido.
+Punto que se utiliza para determinar la performance de aterrizaje y a partir del cual, al ocurrir un fallo de grupo motor en dicho punto, se puede continuar el aterrizaje en condiciones de seguridad o bien iniciar un aterrizaje interrumpido.
 
 Nota: LDP se aplica a los helicópteros de Clase de performance 1.
 
 Punto de decisión para el despegue (TDP).
 
-Punto utilizado para determinar la performance de despegue a partir del cual, si se presenta una falla de grupo motor, puede interrumpirse el despegue o bien continuarlo en condiciones de seguridad.
+Punto utilizado para determinar la performance de despegue a partir del cual, si se presenta un fallo de grupo motor, puede interrumpirse el despegue o bien continuarlo en condiciones de seguridad.
 
 Nota: TDP se aplica a los helicópteros de Clase de performance 1.
 
@@ -1689,11 +1683,11 @@ Punto importante.
 
 (Ver Punto significativo(1)).
 
-(1)Téngase en cuenta que esta definición fue elimada por la disposición final 1.2.1 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
+(1)Téngase en cuenta que esta definición fue eliminada por la disposición final 1.2.1 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
 
-Radar de aproximación de precisión. (PAR)
+Radar de aproximación de precisión (PAR).
 
-Equipo de radar primario usado para determinar la posición de una aeronave durante la aproximación final, en azimut y elevación en relación con una trayectoria nominal de aproximación, y en distancia en relación con un punto de toma de contacto(1)
+Equipo de radar primario usado para determinar la posición de una aeronave durante la aproximación final, en azimut y elevación en relación con una trayectoria nominal de aproximación, y en distancia en relación con un punto de toma de contacto (1).
 
 (1) Los radares de aproximación de precisión sirven para que pueda darse guía por comunicación radio a los pilotos durante las fases finales de la aproximación para aterrizar.
 
@@ -1748,10 +1742,6 @@ Procedimiento que consiste en usar el equipo radiogoniométrico de una estación
 Red radiotelefónica.
 
 Grupo de estaciones aeronáuticas radiotelefónicas que usan y observan las mismas frecuencias y que se ayudan mutuamente, en forma establecida de antemano, para lograr la máxima seguridad de las comunicaciones aeroterrestres y la difusión del tráfico aeroterrestre.
-
-Red de telecomunicaciones fijas aeronáuticas.
-
-Sistema completo y mundial de circuitos fijos aeronáuticos dispuestos como parte del Servicio fijo aeronáutico, para el intercambio de mensajes y/o datos numéricos entre estaciones fijas aeronáuticas que posean características de comunicación idénticas o compatibles.
 
 Referencia geodésica.
 
@@ -1845,6 +1835,10 @@ Separación vertical mínima reducida (RVSM).
 
 Separación vertical mínima de 300 metros (1.000 pies) que se aplica entre aeronaves dentro de un determinado volumen de espacio aéreo por encima de nivel de vuelo 290 hasta un nivel de vuelo especificado.
 
+Serie de mensajes CPDLC.
+
+Lista de elementos de mensaje normalizados y de elementos de mensaje de texto libre.
+
 Servicio automático de información terminal por enlace de datos (ATIS-D).
 
 Suministro del ATIS mediante enlace de datos.
@@ -1853,25 +1847,21 @@ Servicio automático de información terminal-voz (ATIS-voz).
 
 Suministro del ATIS mediante radiodifusiones orales continuas y repetitivas.
 
-Servicio de dirección en la plataforma.
-
-Servicio proporcionado para regular las actividades y el movimiento de aeronaves y vehículos en la plataforma.
-
 Servicio de información de vuelo de aeródromo.
 
 Servicio de información de vuelo suministrado por una dependencia AFIS a todo el tránsito en el área de maniobras de un aeródromo AFIS y a todas las aeronaves que vuelen dentro de la zona de información de vuelo asociada.
 
+Servicio de radiodifusión aeronáutica.
+
+Servicio de radiodifusión dedicado a la transmisión de información relativa a la navegación aérea.
+
+Servicio de radionavegación aeronáutica.
+
+Servicio de radionavegación destinado a las aeronaves y a su explotación en condiciones de seguridad.
+
 Servicio de telecomunicaciones aeronáuticas.
 
 Servicio de telecomunicaciones que se da para cualquier fin aeronáutico.
-
-Servicio de vigilancia ATS.
-
-Término empleado para referirse a un servicio proporcionado directamente mediante un sistema de vigilancia ATS.
-
-Servicio fijo aeronáutico.
-
-Servicio de telecomunicaciones entre puntos fijos determinados, que se suministra primordialmente para seguridad de la navegación aérea y para que sea regular, eficiente y económica la operación de los servicios aéreos.
 
 Servicio internacional de telecomunicaciones.
 
@@ -1913,10 +1903,6 @@ Sistema de calidad.
 
 La estructura de organización, procedimientos, procesos y recursos necesarios para realizar la gestión de calidad.
 
-Sistema de gestión de la seguridad operacional (SMS).
-
-Enfoque sistemático para la gestión de la seguridad operacional, que incluye la estructura orgánica, líneas de responsabilidad, políticas y procedimientos necesarios.
-
 Sistema de gestión del tránsito aéreo.
 
 Sistema que proporciona ATM mediante la integración de recursos humanos, información, tecnología, instalaciones y servicios, en colaboración, con el apoyo de comunicaciones, navegación y vigilancia basadas en tierra, aire y/o en el espacio.
@@ -1929,15 +1915,11 @@ Sistema de vigilancia ATS.
 
 Término genérico que significa, según el caso, ADS-B, PSR, SSR o cualquier sistema similar basado en tierra que permite la identificación de aeronaves.
 
-Nota. Un sistema similar basado en tierra es aquél para el cual se ha comprobado, por evaluación u otra metodología comparativa, que los niveles de seguridad operacional y de performance son iguales o mejores que los correspondientes a los SSR de monoimpulso.
+Nota: Un sistema similar basado en tierra es aquél para el cual se ha comprobado, por evaluación u otra metodología comparativa, que los niveles de seguridad operacional y de performance son iguales o mejores que los correspondientes a los SSR de monoimpulso.
 
 Sistema integrado para el tratamiento inicial de planes de vuelo (IFPS).
 
 Sistema de tratamiento y distribución de planes de vuelo y mensajes asociados.
-
-Sistema mundial de pronósticos de área (WAFS).
-
-Sistema mundial mediante el cual los centros mundiales y regionales de pronósticos de área suministran pronósticos meteorológicos aeronáuticos en ruta con una presentación uniforme y normalizada.
 
 SNOWTAM.
 
@@ -1967,7 +1949,7 @@ Supervisión de la trayectoria de vuelo.
 
 Empleo de sistemas de vigilancia ATS para proporcionar a las aeronaves información y asesoramiento sobre desviaciones significativas respecto a la trayectoria nominal de vuelo, incluidas las desviaciones respecto a los términos de las autorizaciones del control de tránsito aéreo otorgadas.
 
-Nota. Algunas aplicaciones pueden requerir una tecnología específica, por ejemplo radar, para apoyar la función de supervisión de la trayectoria de vuelo.
+Nota: Algunas aplicaciones pueden requerir una tecnología específica, por ejemplo radar, para apoyar la función de supervisión de la trayectoria de vuelo.
 
 Suplemento AIP.
 
@@ -2001,10 +1983,6 @@ Tintas hipsométricas.
 
 Sucesión de tonalidades o gradaciones de color utilizadas para representar la escala de elevaciones.
 
-Tipo de RCP.
-
-Un indicador, por ejemplo, RCP 240, que representa los valores asignados a los parámetros RCP para el tiempo, la continuidad, la disponibilidad y la integridad de las transacciones de comunicación.
-
 Tipo de RNP.
 
 Valor de retención expresado como la distancia de desviación en millas marinas con respecto a su posición prevista, que las aeronaves no excederán durante el 95% del tiempo de vuelo como mínimo.
@@ -2027,7 +2005,9 @@ Tramo de aproximación intermedia.
 
 Fase de un procedimiento de aproximación por instrumentos entre, ya sea el punto de referencia de aproximación intermedia y el punto de referencia de aproximación final, o el punto de aproximación final; o entre el final de un procedimiento de inversión, de hipódromo o de navegación a estima y el punto de referencia de aproximación final o el punto de aproximación final, según sea el caso.
 
-Tramos de circuito de tránsito de aeródromo: El circuito de tránsito de aeródromo se divide en los siguientes tramos:
+Tramos de circuito de tránsito de aeródromo.
+
+El circuito de tránsito de aeródromo se divide en los siguientes tramos:
 
 a) Tramo en contra del viento/viento en cara: Trayectoria de vuelo paralela a la pista de aterrizaje en la dirección del aterrizaje.
 
@@ -2135,6 +2115,12 @@ VIFNO (hora).
 
 Símbolo utilizado para indicar la hora de cancelación de la autorización de salida expedida por un Centro de Control de Área o una Oficina de Control de Aproximación.
 
+Vigilancia basada en la performance (PBS).
+
+Vigilancia que se basa en las especificaciones de performance que se aplican al suministro de servicios de tránsito aéreo.
+
+Nota: Una especificación RSP comprende los requisitos de performance de vigilancia que se aplican a los componentes del sistema en términos de la vigilancia que debe ofrecerse y del tiempo de entrega de datos, la continuidad, la disponibilidad, la integridad, la precisión de los datos de vigilancia, la seguridad y la funcionalidad correspondientes que se necesitan para la operación propuesta en el contexto de un concepto de espacio aéreo particular.
+
 Viraje de base.
 
 Viraje ejecutado por la aeronave durante la aproximación inicial, entre el extremo de la derrota de alejamiento y el principio de la derrota intermedia o final de aproximación. Las derrotas no son opuestas entre sí.
@@ -2191,15 +2177,11 @@ Zona geográfica para la cual el centro regional de pronósticos de área prepar
 
 Zona de servicio (sistema mundial de pronósticos de área).
 
-Zona geográfica dentro de la cual un centro regional de pronósticos de área se encarga de proporcionar pronósticos de área a las Autoridades meteorológicas y a otros usuarios.
+Zona geográfica dentro de la cual un centro regional de pronósticos de área se encarga de proporcionar pronósticos de área a los proveedores de servicios de tránsito aéreo y a otros usuarios.
 
 Zona despejada de obstáculos.
 
 Espacio aéreo por encima de la superficie de aproximación interna, de las superficies de transición interna, de la superficie de aterrizaje interrumpido y de la parte de la franja limitada por esas superficies, no penetrada por ningún obstáculo fijo salvo uno de masa ligera montado sobre soportes frangibles necesario para fines de navegación aérea.
-
-Zona de toma de contacto.
-
-Parte de la pista, situada después del primer umbral, destinada a que los aviones que aterrizan hagan el primer contacto con la pista.
 
 Zona inviolable.
 
@@ -2215,7 +2197,7 @@ Zona libre de obstáculos para helicópteros.
 
 Zona normal de operaciones.
 
-Parte del espacio aéreo de dimensiones definidas que se extiende a uno u otro lado del rumbo del localizador del ILS y/o de la derrota de aproximación final MLS. En las aproximaciones paralelas independientes solamente se tiene en cuenta la mitad interior de la zona normal de operaciones.
+Parte del espacio aéreo de dimensiones definidas que se extiende a uno u otro lado del rumbo del localizador del ILS. En las aproximaciones paralelas independientes solamente se tiene en cuenta la mitad interior de la zona normal de operaciones.
 
 ## CAPÍTULO 2
 
@@ -2522,6 +2504,7 @@ Parte del espacio aéreo de dimensiones definidas que se extiende a uno u otro l
 | FAF | Punto de referencia de aproximación final |
 | FAL | Facilitación del transporte aéreo internacional |
 | FAP | Punto de aproximación final |
+| FAT | Derrota de aproximación final |
 | FATO | Área de aproximación final y de despegue |
 | FAX | Transmisión facsímil |
 | FBL | Ligera (usada en los informes para calificar la formación de hielo, turbulencia, interferencia o estáticos) |
@@ -2555,6 +2538,7 @@ Parte del espacio aéreo de dimensiones definidas que se extiende a uno u otro l
 | FREQ | Frecuencia |
 | FRI | Viernes |
 | FRNG | Disparos |
+| FROP | Punto de salida del viraje de aproximación final |
 | FRONT | Frente (meteorológico) |
 | FRQ | Frecuente |
 | FSL | Aterrizaje completo |
@@ -3226,7 +3210,7 @@ Parte del espacio aéreo de dimensiones definidas que se extiende a uno u otro l
 
 ## Otras definiciones y abreviaturas
 
-Además de las definiciones y abreviaturas previstas en los apartados precedentes, serán de aplicación a este Reglamento las establecidas en el Reglamento de Ejecución (UE) n.º 923/2012, de la Comisión, de 26 de septiembre de 2012, por el que se establecen el reglamento del aire y disposiciones operativas comunes para los servicios y procedimientos de navegación aérea, y por el que se modifican el Reglamento de Ejecución (UE) n.º 1035/2011 y los Reglamentos (CE) n.º 1265/2007, (CE) n.º 1794/2006, (CE) n.º 730/2006, (CE) n.º 1033/2006 y (UE) n.º 255/2010, (en adelante SERA).
+Además de las definiciones y abreviaturas previstas en los apartados precedentes, serán de aplicación a este Reglamento las establecidas en el Reglamento de Ejecución (UE) n.º 923/2012, de la Comisión, de 26 de septiembre de 2012, por el que se establecen el reglamento del aire y disposiciones operativas comunes para los servicios y procedimientos de navegación aérea, y por el que se modifican el Reglamento de Ejecución (UE) n.º 1035/2011 y los Reglamentos (CE) n.º 1265/2007, (CE) n.º 1794/2006, (CE) n.º 730/2006, (CE) n.º 1033/2006 y (UE) n.º 255/2010, (en adelante SERA por sus siglas en inglés), y en el Reglamento de Ejecución (UE) 2017/373 de la Comisión, de 1 de marzo de 2017, por el que se establecen requisitos comunes para los proveedores de servicios de gestión del tránsito aéreo/navegación aérea y otras funciones de la red de gestión del tránsito aéreo y su supervisión, por el que se derogan el Reglamento (CE) n.º 482/2008 y los Reglamentos de Ejecución (UE) n.º 1034/2011, (UE) n.º 1035/2011 y (UE) 2016/1377, y por el que se modifica el Reglamento (UE) n.º 677/2011.
 
 Nota: Los Procedimientos para los servicios de Navegación Aérea. Abreviaturas y códigos de la Organización de Aviación Civil Internacional (OACI) (PANS-ABC, Doc. 8400) contienen las abreviaturas y códigos aprobados por el Consejo de OACI para uso mundial en el servicio de telecomunicaciones aeronáuticas y en los documentos de información aeronáutica, según corresponda.
 
@@ -3241,6 +3225,8 @@ Las categorías de las operaciones de aproximación y aterrizaje de precisión p
 ## Unidades de medida
 
 En este reglamento las medidas en millas náuticas (NM) y pies (ft) se expresan como kilómetros a los exclusivos efectos de servir como referencia, siendo aplicables las expresadas en millas náuticas (NM) o pies (ft).
+
+> Se modifican los Capítulos 1 a 3 por la disposición final 1.2.1 del Real Decreto 1180/2018, de 21 de septiembre. Ref. BOE-A-2018-15406#df
 
 > Se modifican los Capítulos 1 y 2 y las referencias a "aeronaves civiles" y "autoridades metereológicas" y se añade del 3 al 5 por la disposición final 1.1 y 1.2.1 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
 

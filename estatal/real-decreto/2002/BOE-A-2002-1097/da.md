@@ -14,20 +14,26 @@ e) Las referencias:
 
 1.º Al apéndice A deben entenderse referidas al anexo II del Real Decreto 552/2014, de 27 de junio, por el que se desarrolla el reglamento del aire y disposiciones operativas comunes para los servicios y procedimientos de navegación aérea y se modifica el Reglamento de Circulación Aérea, aprobado por Real Decreto 57/2002, de 18 de enero.
 
-2.º Al apéndice B, deben entenderse realizadas al apéndice 3 de SERA.
+2.º Al apéndice C adjuntos 1 a 5, ambos inclusive, deben entenderse realizadas al apéndice 1 de SERA.
 
-3.º Al apéndice C adjuntos 1 a 5, ambos inclusive, deben entenderse realizadas al apéndice 1 de SERA.
+3.º Al apéndice E deben entenderse realizadas a SERA.3215 y SERA.3230.
 
-4.º Al apéndice E deben entenderse realizadas a SERA.3215 y SERA.3230.
+4.º Al Apéndice S deben entenderse referidas al apéndice 2 de SERA.
 
-5.º Al Apéndice S deben entenderse referidas al apéndice 2 de SERA.
+5.º Al ‘‘tramo de ruta’’ deben entenderse realizadas al ‘‘segmento de ruta’’ definido en el artículo 2, número 112, de SERA.
 
-6.º Al ‘‘tramo de ruta’’ deben entenderse realizadas al ‘‘segmento de ruta’’ definido en el artículo 2, número 112, de SERA.
+6.º A ‘‘ADS’’ deben entenderse realizadas a ‘‘ADS-C’’.
 
-7.º A ‘‘ADS’’ deben entenderse realizadas a ‘‘ADS-C’’.
+7.º A las aeronaves civiles deben entenderse realizadas a las aeronaves que operen conforme a las reglas de la circulación aérea general.
 
-8.º A las aeronaves civiles deben entenderse realizadas a las aeronaves que operen conforme a las reglas de la circulación aérea general.
+8.º A ‘‘reglamentación ATFM’’ deben entenderse realizadas a las ‘‘regulaciones ATFM’’.
 
-9.º A ‘‘reglamentación ATFM’’ deben entenderse realizadas a las ‘‘regulaciones ATFM’’.
+f) Las referencias a la “autoridad competente”, cuando vengan referidas a la autoridad aeronáutica, deben entenderse realizadas a la “autoridad aeronáutica competente”.
+
+g) Las referencias a “respondedor” o “transpondedor” son equivalentes.
+
+h) Las referencias a “falla(s)” se entenderán realizadas a “fallo(s)”, término más usual entre los profesionales aeronáuticos españoles, aun cuando dichos términos deben entenderse como equivalentes.
+
+> Se modifica el letra e) y se añaden las letras f) a h) por la disposición final 1.1 del Real Decreto 1180/2018, de 21 de septiembre. Ref. BOE-A-2018-15406#df
 
 > Se modifica por la disposición final 1.1 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856

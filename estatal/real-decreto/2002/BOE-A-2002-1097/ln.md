@@ -46,7 +46,7 @@ d) las Brigadas de Salvamento.
 
 9.2.3.3. En las zonas donde los servicios públicos de telecomunicaciones no permitan a las personas que observan una aeronave en peligro notificar al centro coordinador de salvamento correspondiente en forma directa y rápida, se designarán como puestos de alerta centros adecuados de servicios públicos o privados.
 
-9.2.4. Comunicaciones de las dependencias de búsqueda y salvamento
+9.2.4. Comunicaciones de las dependencias de búsqueda y salvamento.
 
 9.2.4.1. Todo centro coordinador de salvamento dispondrá de medios de comunicación inmediata (1) con:
 
@@ -150,11 +150,13 @@ Negro - equipo diverso, tal como estufas, hachas, brújulas, utensilios de cocin
 
 9.3.1.2.1. Siempre que sea posible, se elaborarán procedimientos comunes de búsqueda y salvamento para facilitar la coordinación de las operaciones de búsqueda y salvamento con las de los Estados vecinos.
 
-9.3.1.3. Con sujeción a las condiciones que prescriba la autoridad competente del Estado, se permitirá la entrada inmediata en territorio español de brigadas de salvamento de otros Estados para la búsqueda del lugar donde se hubiere producido un accidente de aviación para el salvamento de los supervivientes de dicho accidente. La entrada de las brigadas de salvamento españolas en territorio de otro Estado se hará con sujeción a las condiciones que prescriba la autoridad competente de dicho Estado.
+9.3.1.3. Con sujeción a las condiciones que prescriba la autoridad competente en materia de búsqueda y salvamento, se permitirá la entrada inmediata en territorio español de brigadas de salvamento de otros Estados para la búsqueda del lugar donde se hubiere producido un accidente de aviación para el salvamento de los supervivientes de dicho accidente. La entrada de las brigadas de salvamento españolas en territorio de otro Estado se hará con sujeción a las condiciones que prescriba la autoridad competente de dicho Estado.
 
-9.3.1.4. Cuando la autoridad competente del Estado desee que sus brigadas de salvamento entren en el territorio de otro Estado para realizar operaciones de búsqueda y salvamento, lo solicitará, dando todos los detalles de la misión planeada y de la necesidad de realizarla, al centro coordinador de salvamento del Estado interesado o a cualquier otra autoridad que designe ese Estado. La entrada en territorio español de brigadas de salvamento de otro Estado deberá ser solicitada por la autoridad competente de dicho Estado a la autoridad competente del Estado español.
+9.3.1.4. Cuando la autoridad competente en materia de búsqueda y salvamento desee que sus brigadas de salvamento entren en el territorio de otro Estado para realizar operaciones de búsqueda y salvamento, lo solicitará, dando todos los detalles de la misión planeada y de la necesidad de realizarla, al centro coordinador de salvamento del Estado interesado o a cualquier otra autoridad que designe ese Estado.
 
-9.3.1.4.1. La autoridad competente del Estado acusará recibo inmediatamente de la solicitud mencionada e indicará, lo antes posible, en qué condiciones, de imponerse alguna, podrá emprenderse la misión planeada.
+La entrada en territorio español de brigadas de salvamento de otro Estado deberá ser solicitada por la autoridad competente de dicho Estado a la autoridad competente en materia de búsqueda y salvamento del Estado español.
+
+9.3.1.4.1. La autoridad competente en materia de búsqueda y salvamento acusará recibo inmediatamente de la solicitud mencionada e indicará lo antes posible en qué condiciones, de imponerse alguna, podrá emprenderse la misión planeada.
 
 9.3.1.5. Se establecerán acuerdos con los Estados vecinos para determinar las condiciones de entrada de las brigadas de salvamento de cada uno en el territorio de los demás. Estos acuerdos deberán facilitar la entrada de dichas brigadas con el mínimo de formalidades.
 
@@ -276,7 +278,7 @@ d) tener al corriente al centro coordinador de salvamento acerca de la cantidad 
 
 9.4.5.1. Los restos que queden de un accidente de aviación que haya tenido lugar dentro del territorio del Estado o, en el caso de accidentes ocurridos en alta mar o en zonas de soberanía indeterminada, dentro de las regiones de búsqueda y salvamento de su jurisdicción, serán retirados o destruidos al terminarse la investigación del accidente, o señalados en las cartas a fin de evitar confusiones ulteriores.
 
-9.4.5.2. Para facilitar el cumplimiento de lo dispuesto en 9.4.5.1., se requerirá que cualquier persona que encuentre los restos de una aeronave, lo notifique a la autoridad competente tan pronto como sea posible.
+9.4.5.2. Para facilitar el cumplimiento de lo dispuesto en 9.4.5.1., se requerirá que cualquier persona que encuentre los restos de una aeronave, lo notifique a la autoridad competente en materia de búsqueda y salvamento tan pronto como sea posible.
 
 ## CAPÍTULO 5
 
@@ -456,4 +458,6 @@ d) a su criterio, mientras espera instrucciones, dirigirse hacia la posición da
 
 9.5.11.1. Todo centro coordinador de salvamento llevará un registro en que se dé cuenta de la eficiencia de las operaciones realizadas por la organización de búsqueda y salvamento de su región.
 
-9.5.11.2. Todo centro coordinador de salvamento preparará informes sobre las operaciones de búsqueda y salvamento efectuadas en su región. Estos informes comprenderán toda observación pertinente con respecto a los procedimientos usados por el piloto y acerca del equipo de emergencia y superviviencia e incluir sugerencias respecto al mejoramiento de dichos procedimientos y equipo. Aquellos de los informes que probablemente sean de interés para otros Estados, se enviarán a la OACI para fines informativos y para su divulgación en la forma oportuna.
+9.5.11.2. Todo centro coordinador de salvamento preparará informes sobre las operaciones de búsqueda y salvamento efectuadas en su región. Estos informes comprenderán toda observación pertinente con respecto a los procedimientos usados por el piloto y acerca del equipo de emergencia y supervivencia e incluir sugerencias respecto al mejoramiento de dichos procedimientos y equipo. Aquellos de los informes que probablemente sean de interés para otros Estados, se enviarán a la OACI para fines informativos y para su divulgación en la forma oportuna.
+
+> Se modifican los Capítulos 3 y 4 por la disposición final 1.2.6 del Real Decreto 1180/2018, de 21 de septiembre. Ref. BOE-A-2018-15406#df.

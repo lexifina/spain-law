@@ -78,7 +78,7 @@ b) la letra G, para indicar que en la ruta o parte de ella solamente se proporci
 
 3.1. Los designadores básicos de rutas ATS deberán asignarse de conformidad con los siguientes principios.
 
-3.1.1. Deberá asignarse el mismo designador básico para toda la longitud de una ruta troncal principal, independientemente de las áreas de control terminal, de los Estados o regiones que atraviesen (1).
+3.1.1. Deberá asignarse el mismo designador básico para toda la longitud de una ruta troncal principal, independientemente de las áreas de control terminal, de los Estados o regiones que atraviesen(1).
 
 (1) Esto es particularmente importante cuando se usa equipo automatizado para el tratamiento de datos ATS y equipo computadorizado de a bordo para la navegación.
 
@@ -92,19 +92,7 @@ b) la letra G, para indicar que en la ruta o parte de ella solamente se proporci
 
 4.1. En comunicaciones impresas, el designador deberá expresarse siempre con no menos de dos ni más de seis caracteres.
 
-4.2. En las comunicaciones orales, la letra básica de un designador deberá pronunciarse de conformidad con el alfabeto de deletreo de la OACI.
-
-4.3. Cuando se empleen los prefijos K, U o S, especificados en 2.3., en las comunicaciones orales deberán pronunciarse de la manera siguiente:
-
-K: KOPTER
-
-U: UPPER
-
-S: SUPERSONIC
-
-La palabra «kopter» deberá pronunciarse como la palabra «helicopter» y las palabras «upper» y «supersonic» como en el idioma inglés.
-
-4.4. Cuando se empleen las letras F o G, tal como se especifica en 2.4., no se exigirá que la tripulación de vuelo los utilice en sus comunicaciones orales.
+Nota: SERA.14025 establece el uso de los designadores en las comunicaciones de voz y su pronunciación. Los medios aceptables de cumplimiento y material guía adoptados por la Agencia Europea de Seguridad Aérea contienen procedimientos de aplicación y ejemplos de uso.
 
 ## ADJUNTO 2
 
@@ -136,7 +124,7 @@ d) el nombre seleccionado deberá designar tanto el punto significativo como la 
 
 2.2. Composición de designadores codificados para los puntos significativos marcados por el emplazamiento de una radioayuda para la navegación.
 
-2.2.1. El designador codificado deberá ser el mismo que la identificación de radio de la radioayuda para la navegación. De ser posible, deberá estar compuesto de tal forma que facilite la asociación mental con el nombre del punto en lenguaje claro.
+2.2.1. Nota: En SERA.14026 se establecen normas sobre designadores de puntos significativos.
 
 2.2.2. Los designadores codificados no deberán duplicarse dentro de una distancia de 1100 Km (600 NM) del emplazamiento de la radioayuda para la navegación de que se trate, salvo lo consignado a continuación.
 
@@ -146,7 +134,7 @@ Cuando dos radioayudas para la navegación, que operen en distintas bandas del e
 
 3. Designadores de puntos significativos que no estén marcados por el emplazamiento de una radioayuda para la navegación.
 
-3.1. En el caso en que se necesite un punto significativo en un lugar no señalado por el emplazamiento de una radioayuda para la navegación, el punto significativo se designará mediante un «nombre-clave» único de cinco letras y fácil de pronunciar. Este nombre-clave sirve entonces de nombre y de designador codificado del punto significativo.
+3.1. Nota: En SERA.14026 se establecen normas sobre designadores de puntos significativos.
 
 3.2. Este designador de nombre-clave deberá elegirse de modo que se evite toda dificultad de pronunciación por parte de los pilotos o del personal ATS, cuando hablen en el idioma usado en las comunicaciones ATS. Ejemplos: ADOLA, KODAP
 
@@ -322,77 +310,17 @@ Limitaciones de los equipos de a bordo de presentación visual pueden requerir q
 
 5.3.1. Significado: Este designador identifica una ruta normalizada de salida para vuelos controlados VFR que termina en ADOLA, un punto significativo no señalado por el emplazamiento de una radioayuda para la navegación. El indicador de validez CINCO (5) significa que se ha hecho un cambio de la versión anterior CUATRO (4) a la versión CINCO (5), vigente actualmente. El indicador de ruta BRAVO (B) identifica una de varias rutas establecidas con referencia a ADOLA.
 
-6. Composición de los designadores para los procedimientos de aproximación MLS/RNAV.
-
-6.1. Designador en lenguaje claro.
-
-6.1.1. El designador en lenguaje claro de un procedimiento de aproximación MLS/RNAV constará de:
-
-a) «MLS», seguido de
-
-b) un indicador básico; seguido de
-
-c) un indicador de validez; seguido de
-
-d) un indicador de ruta; seguido de
-
-e) la palabra «aproximación»; seguida de
-
-f) un designador de la pista para la cual se diseña el procedimiento.
-
-6.1.2. El indicador básico será el nombre o el nombre en clave del punto significativo en el que empieza el procedimiento de aproximación.
-
-6.1.3. El indicador de validez será un número de 1 a 9.
-
-6.1.4. El indicador de ruta será una letra del alfabeto. No se utilizará ni la letra «I» ni la letra «O».
-
-6.1.5. El designador de la pista concordará con lo establecido en el Anexo 14 de OACI, Volumen I, 5.2.2.
-
-6.2. Designador en clave.
-
-6.2.1. El designador en clave de un procedimiento de aproximación MLS/RNAV constará de:
-
-a) «MLS»; seguido de
-
-b) el designador en clave o el nombre en clave del punto significativo descrito en 6.1.1, letra b, seguido de
-
-c) el indicador de validez mencionado en 6. 1.1 c); seguido de
-
-d) el indicador de ruta mencionado en 6. 1.1 d); seguido de
-
-e) el designador de pista indicado en 6. 1. l. f).
-
-6.3. Asignación de designadores.
-
-6.3.1. La asignación de designadores para los procedimientos de aproximación MLS/RNAV se ajustará a lo establecido en el párrafo 3. A las rutas con derrotas idénticas pero perfiles de vuelo diferentes se les asignarán indicadores de ruta distintos.
-
-6.3.2. La letra del indicador de ruta para los procedimientos de aproximación MLS/RNAV se asignará unívocamente a todas las aproximaciones a un aeropuerto hasta haberse utilizado todas las letras. Sólo entonces podrá repetirse la letra del indicador de ruta. No se permitirá el uso del mismo indicador de ruta para dos rutas que utilizan la misma instalación MLS terrestre.
-
-6.3.3. La asignación del indicador de validez para los procedimientos de aproximación se ajustará a lo establecido en el párrafo 4.
-
-6.4. Ejemplo de designadores en lenguaje claro y en clave.
-
-6.4.1. Ejemplo:
-
-a) Designador en lenguaje claro:
-
-MLS HAPPY UNO ALFA APROXIMACIÓN PISTA UNO OCHO IZQUIERDA
-
-b) Designador en clave:
-
-MLS HAPPY 1 A 18L.
-
-6.4.2. Significado: El designador identifica un procedimiento de aproximación MLS/RNAV que empieza en el punto significativo HAPPY (indicador básico). HAPPY es un punto significativo no señalado por el emplazamiento de una radioayuda para la navegación y, por lo tanto, se le ha asignado un nombre en clave de cinco letras, de conformidad con el Apéndice N, Adjunto 2. El indicador de validez UNO (1) significa que la versión original de la ruta aún está vigente o que se ha hecho un cambio de la versión anterior NUEVE (9) a la versión UNO (1) vigente actualmente. El indicador de ruta ALPHA (A) identifica una de varias rutas establecidas con referencia a HAPPY y es un signo específico asignado a esta ruta.
+6. [Intencionadamente en blanco].
 
 7. Utilización de designadores en las comunicaciones.
 
 7.1. En las comunicaciones orales, deberá utilizarse únicamente el designador en lenguaje claro.
 
-7.1.1. A los efectos de la identificación de rutas, las palabras «salida», «llegada», «visual» descritas en 2.1.1.d) y 2.1.1.e) se consideran un elemento integrante del designador en lenguaje claro.
+Nota: SERA.14030 establece el uso de las denominaciones de las rutas de salida por instrumentos y de llegada y el material guía y medios aceptables de cumplimiento adoptados por la Agencia Europea de Seguridad Aérea los procedimientos de aplicación.
 
 7.2. En las comunicaciones impresas o en clave deberá utilizarse únicamente el designador en clave.
 
-8. Presentación visual de las rutas y procedimientos al control de transito aéreo.
+8. Presentación visual de las rutas y procedimientos al control de tránsito aéreo.
 
 8.1. Se dispondrá de una descripción detallada de cada ruta normalizada de salida y/o llegada/procedimiento de aproximación en vigencia actualmente, incluidos el designador en lenguaje claro y el designador en clave, en los puestos de trabajo en los que se asignan las rutas/los procedimientos a las aeronaves como parte de la autorización ATC, o que tengan alguna otra relación con el suministro de servicios de control de tránsito aéreo.
 
@@ -434,7 +362,9 @@ b) el número de instalaciones deberá ser el mínimo necesario para la navegaci
 
 c) no deberán exigir como referencia para la navegación más de dos instalaciones al mismo tiempo.
 
-1.5. Las rutas deberán concebirse normalmente para aeronaves que vuelan por IFR. Podrán establecerse rutas separadas para los vuelos controlados efectuados con arreglo a las VFR.
+1.5. Las rutas deberán concebirse normalmente para aeronaves que vuelan por IFR.
+
+Podrán establecerse rutas separadas para los vuelos controlados efectuados con arreglo a las VFR.
 
 1.6. El número de rutas normalizadas de salida y de llegada que se establezcan en un aeródromo deberá mantenerse al mínimo.
 
@@ -566,7 +496,7 @@ Por ejemplo, el área protegida de una ruta de 222 km (120 NM) entre los VOR y r
 
 3.8. La Figura N5-3 ilustra el caso de dos segmentos de ruta que se cortan en un VOR a un ángulo de 60°.
 
-3.9. La figura N5-4 ilustra el caso de dos segmentos de ruta que se cortan en un ángulo de 60° en la intersección de dos radiales VOR, más allá del punto en que debe ensancharse el espacio aéreo protegido con objeto de atenerse a lo prescrito en 3.3. y la Figura N5-1
+3.9. La Figura N5-4 ilustra el caso de dos segmentos de ruta que se cortan en un ángulo de 60° en la intersección de dos radiales VOR, más allá del punto en que debe ensancharse el espacio aéreo protegido con objeto de atenerse a lo prescrito en 3.3. y la Figura N5-1
 
 3.10. La tabla siguiente de las distancias que han de utilizarse en casos típicos para proporcionar espacio aéreo protegido suplementario en segmentos de ruta al FL 45 y por debajo de este nivel, que se cortan en un VOR o en la intersección de dos radiales VOR, cuando esta intersección no se encuentra a más de 139 km (75 NM) de cada VOR.
 
@@ -643,7 +573,7 @@ c) que las transmisiones VOR, las cuales son comprobadas en vuelo periódicament
 
 d) que no hay supervisión ni control radar o ADS-B en tiempo real de las desviaciones laterales.
 
-4.3 El trabajo preliminar realizado indica que, en las circunstancias descritas en a) a c), que siguen, quizá sería posible reducir la distancia mínima entre las rutas.¶Sin embargo, los valores facilitados no han sido calculados con precisión, por lo cual, en cada caso es esencial hacer un estudio detallado de las circunstancias particulares:
+4.3 El trabajo preliminar realizado indica que, en las circunstancias descritas en a) a c), que siguen, quizá sería posible reducir la distancia mínima entre las rutas. Sin embargo, los valores facilitados no han sido calculados con precisión, por lo cual, en cada caso es esencial hacer un estudio detallado de las circunstancias particulares:
 
 a) si las aeronaves en rutas adyacentes no tienen asignados los mismos niveles de vuelo, la distancia entre las rutas puede ser reducida; la magnitud de esta reducción dependerá de la separación vertical entre las aeronaves en las derrotas adyacentes y del porcentaje del tránsito que está ascendiendo y descendiendo, pero probablemente no será de más de 5,6 km (3 NM);
 
@@ -691,7 +621,7 @@ Nota 2: El texto de la presente sección no ha sido obtenido por el método de r
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245960_image28.png)
 
-5.3. Cuando la diferencia angular entre segmentos de ruta exceda de 25°, debería proporcionarse espacio aéreo protegido suplementario, tal como se indica en 3.5 a 3. 10.
+5.3. Cuando la diferencia angular entre segmentos de ruta exceda de 25°, debería proporcionarse espacio aéreo protegido suplementario, tal como se indica en 3.5 a 3.10.
 
 6. Puntos de cambio de VOR.
 
@@ -703,7 +633,7 @@ b) que cuando la protección de las frecuencias sea crítica, se deberán llevar
 
 6.2. Nada de lo que se indica en 6.1. deberá interpretarse en el sentido de que limita los alcances efectivos de las instalaciones VOR que se ajustan a las especificaciones del Anexo 10 de OACI, Volumen I, Parte I, 3.3.
 
-7. Cálculo del radio de viraje
+7. Cálculo del radio de viraje.
 
 7.1. El método utilizado para calcular los radios de viraje y también los radios de viraje indicados a continuación se aplican a aquellas aeronaves que efectúan un viraje de radio constante. Este texto se ha derivado de los criterios de performance de viraje elaborados para las rutas ATS RNP 1 y puede utilizarse también en la construcción del espacio aéreo adicional protegido que se requiere en el interior de los virajes para rutas ATS que no estén definidas por VOR.
 
@@ -717,7 +647,9 @@ b) que cuando la protección de las frecuencias sea crítica, se deberán llevar
 
 7.5 De acuerdo con lo antedicho, el punto más lógico para separar ambos casos de velocidad respecto al suelo se situaría entre el FL 190 (5800 m) y el FL 200 (6100 m). Así pues, para abarcar toda la gama de algoritmos de anticipación de viraje utilizados en los actuales sistemas de gestión de vuelo (FMS), en todas las condiciones previsibles, el radio de viraje en FL 200 y niveles superiores debería definirse con un valor de 22,5 NM (41,6 km) y en los niveles FL 190 e inferiores con un valor de 15 NM (27,8 km).
 
-> Se modifica el Adjunto 1 y las referencias a "tramo de ruta" por la disposición 1.1 y 1.2.11 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
+> Se modifica por la disposición final 1.2.10 del Real Decreto 1180/2018, de 21 de septiembre. Ref. BOE-A-2018-15406#df.
+
+> Se modifica el Adjunto 1 y las referencias a "tramo de ruta" por la disposición final 1.1 y 1.2.11 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
 
 > Se modifican los Adjuntos 1 y 3 y se suprime el 6 por el art. único.12 de la Orden PRE/941/2013, de 24 de mayo. Ref. BOE-A-2013-5671
 

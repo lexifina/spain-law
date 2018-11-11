@@ -14,7 +14,7 @@ Las definiciones correspondientes a Servicios de Tránsito Aéreo se encuentran 
 
 3.2.1. Sobre las atribuciones de la autoridad competente.
 
-Nota: El artículo 18 del Real Decreto 552/2014, de 27 de junio, regula la determinación de las clases de espacio aéreo y servicios que deben prestarse, zonas del espacio aéreo a efectos de la prestación de servicios y uso obligatorio de radio (RMZ) y de transpondedor (TMZ).
+Nota: El artículo 36 del Real Decreto 1180/2018, de 21 de septiembre, regula la determinación de las clases de espacio aéreo y servicios que deben prestarse, zonas del espacio aéreo a efectos de la prestación de servicios y uso obligatorio de radio (RMZ) y de transpondedor (TMZ).
 
 3.2.2. Objetivos de los servicios de tránsito aéreo.
 
@@ -70,7 +70,7 @@ Se designarán como regiones de información de vuelo aquellas partes del espaci
 
 3.2.5.2.2.1. Se designarán como áreas de control o zonas de control aquellas partes del espacio aéreo en las cuales se decida facilitar servicio de control de tránsito aéreo a todos los vuelos IFR.
 
-3.2.5.2.2.1.1. Se designarán como espacio aéreo de Clases B, C ó D aquellas partes del espacio aéreo controlado, en las que se determine que también se suministrará servicio de control de tránsito aéreo a los vuelos VFR.
+3.2.5.2.2.1.1. Se designarán como espacio aéreo de Clases B, C o D aquellas partes del espacio aéreo controlado, en las que se determine que también se suministrará servicio de control de tránsito aéreo a los vuelos VFR.
 
 3.2.5.2.2.2. Cuando dentro de una región de información de vuelo se designen áreas y zonas de control, éstas formarán parte de dicha región de información de vuelo.
 
@@ -80,7 +80,9 @@ Se designarán aeródromos controlados aquellos aeródromos en los que se determ
 
 3.2.6. Clasificación del espacio aéreo.
 
-Nota: SERA.6001 regula la clasificación de los espacios aéreos y el apéndice 4 de SERA contiene la clasificación de los espacios aéreos ATS-Servicios suministrados y requisitos de vuelo.
+Nota 1: SERA.6001 regula la clasificación de los espacios aéreos y el Apéndice 4 de SERA contiene la clasificación de los espacios aéreos ATS-Servicios suministrados y requisitos de vuelo.
+
+Nota 2: El artículo 36 del Real Decreto 1180/2018, de 21 de septiembre, regula la competencia para la clasificación del espacio aéreo.
 
 3.2.7. Navegación basada en prestaciones (PBN).
 
@@ -88,7 +90,7 @@ En virtud de acuerdos regionales de navegación aérea, se establecerán los pro
 
 Nota 1: La expresión ‘‘procedimientos basados en prestaciones’’ es equivalente a la utilizada en el Anexo 11 al Convenio de Aviación Civil Internacional (OACI) y otros documentos de esta organización internacional que utilizan el término inglés ‘‘performance’’ y, en consecuencia, denomina a la ‘‘Navegación basada en la performance (PBN)’’.
 
-Nota 2: El anexo II, adjunto C, apartado 2.10, del Real Decreto 552/2014, de 27 de junio, incorpora el contenido de la casilla 10 y 18 del plan de vuelo que establecen la indicación de capacidades RNAV y RNP.
+Nota 2: El Anexo III, Adjunto C, apartados 2.6. y 2.10., del Real Decreto 1180/2018, de 21 de septiembre, incorpora el contenido de la casilla 10 y 18 del plan de vuelo que establecen la indicación de capacidades RNAV y RNP.
 
 Nota 3: Para las aeronaves de Estado no equipadas con RNAV les será de aplicación lo establecido en el apartado 3.2.7.6.
 
@@ -108,7 +110,7 @@ Nota: En este contexto, los «procedimientos RNAV en área terminal» excluyen l
 
 Nota 1: En este contexto, los procedimientos RNAV 1 excluyen los tramos de aproximación final y fase inicial de ascenso de la frustrada, siendo este último el segmento de la maniobra de frustrada que discurre del punto de comienzo del ascenso (SO) y el punto en el que alcanza un margen de franqueamiento de obstáculos de 50 m (40 m para Cat H).
 
-Nota 2: El anexo II, adjunto C, del Real Decreto 552/2014, de 27 de junio, apartado 2.1.8. expone las diferencias en cuanto a certificación de aeronaves aprobadas P-RNAV o RNAV 1.
+Nota 2: El Anexo III, Adjunto C, del Real Decreto 1180/2018, de 21 de septiembre, apartado 2.1.8. expone las diferencias en cuanto a certificación de aeronaves aprobadas P-RNAV o RNAV 1.
 
 3.2.7.1.1.4. Las aeronaves equipadas con RNAV con capacidad para mantener la derrota con una precisión lateral de ± 5 millas náuticas (2 veces la desviación estándar) y capacidad de determinar su posición horizontal con una precisión suficiente que asegure el requisito de mantenimiento en su derrota y que dispongan de las funcionalidades y aprobación operacional correspondientes, designadas de Navegación de Área Básica (B-RNAV), pueden hacer uso de segmentos o rutas RNAV de salida y llegada cuando se cumplan los siguientes criterios:
 
@@ -128,7 +130,7 @@ d) Se deben tener en cuenta aquellos procedimientos operativos de ciertos usuari
 
 e) Los procedimientos de llegada y salida que puedan ser volados por aeronaves B-RNAV estarán identificados explícitamente como aprobados para aplicación de B-RNAV.
 
-Nota:. Las letras b) y c) son de aplicación únicamente a procedimientos B-RNAV en Área Terminal.
+Nota: Las letras b) y c) son de aplicación únicamente a procedimientos B-RNAV en Área Terminal.
 
 3.2.7.1.1.5. Para volar en espacio aéreo designado RNP 1 o procedimientos SID y STAR RNP 1 o procedimientos o partes de procedimientos de aproximación RNP 1 hará falta contar con la aprobación operacional asociada.
 
@@ -144,13 +146,13 @@ Nota: En este contexto, los «procedimientos RNP 1» excluyen los tramos de apro
 
 3.2.7.2. Designación de rutas y procedimientos PBN.
 
-3.2.7.2.1. Todos los procedimientos instrumentales normalizados de salidas (SID) y llegadas (STAR) de acuerdo a PBN deberán ser adecuadamente designados como RNAV de conformidad con lo dispuesto en el apéndice N.
+3.2.7.2.1. Todos los procedimientos instrumentales normalizados de salidas (SID) y llegadas (STAR) de acuerdo a PBN deberán ser adecuadamente designados como RNAV de conformidad con lo dispuesto en el Apéndice N.
 
-Nota: Los Procedimientos para los Servicios de Navegación Aérea - Operaciones de Aeronaves (PANS-OPS, Doc. 8168) de OACI y el Anexo 11, apéndice 3, de OACI contienen información complementaria.
+Nota: Los Procedimientos para los Servicios de Navegación Aérea - Operaciones de Aeronaves (PANS-OPS, Doc. 8168) de OACI y el Anexo 11, Apéndice 3, de OACI contienen información complementaria.
 
-3.2.7.2.2. Todas las demás rutas PBN serán designadas de conformidad con lo dispuesto en el apéndice N.
+3.2.7.2.2. Todas las demás rutas PBN serán designadas de conformidad con lo dispuesto en el Apéndice N.
 
-Nota: El Anexo 11, apéndice 1, de OACI contiene información complementaria.
+Nota: El Anexo 11, Apéndice 1, de OACI contiene información complementaria.
 
 3.2.7.3. Altitudes mínimas de vuelo para operaciones en rutas PBN.
 
@@ -164,51 +166,27 @@ a) La ruta es conforme a la autorización; y
 
 b) La precisión de navegación PBN de la aeronave cumple con los requisitos de precisión de navegación de los procedimientos PBN de ruta, entrada o salida, según corresponda.
 
-3.2.7.4.2. Cuando una aeronave no pueda cumplir según se requiera para la ruta o procedimiento basado en PBN, como consecuencia de una falla o degradación del sistema PBN, el piloto solicitará una autorización revisada.
+3.2.7.4.2. Para operaciones en rutas de salida y llegada PBN, cuando se haya expedido una autorización ATC para un procedimiento de navegación basado en prestaciones para el cual la aeronave no esté aprobada, el piloto informará al ATC el cual deberá proporcionar una ruta alternativa.
 
-3.2.7.4.3. Las medidas subsiguientes del control del tránsito aéreo con respecto a una aeronave que no pueda cumplir con los requisitos especificados, debido a la falla o degradación del sistema de navegación basado en prestaciones, dependerán de la naturaleza de la falla notificada y de la situación general del tránsito. En muchas ocasiones podrán continuar las operaciones de conformidad con la autorización ATC vigente. Cuando esto no pueda hacerse, podrá solicitarse una autorización revisada.
+3.2.7.5. Degradación del sistema de navegación basado en prestaciones (PBN).
 
-3.2.7.4.4. Para operaciones en rutas de salida y llegada PBN, cuando se haya expedido una autorización ATC para un procedimiento de navegación basado en prestaciones para el cual la aeronave no esté aprobada, el piloto informará al ATC el cual deberá proporcionar una ruta alternativa.
+Nota: SERA.11013, letra b), y los medios aceptables de cumplimiento y material guía adoptado por la Agencia Europea de Seguridad Aérea sobre dicho precepto, contienen respectivamente disposiciones aplicables al deterioro o fallo del sistema RNAV y los procedimiento aplicables.
 
-3.2.7.4.5. Si una aeronave no puede cumplir con los requisitos especificados como resultado de la falla o degradación del sistema PBN que sea detectado antes de la salida de un aeródromo donde no es posible efectuar su reparación, debería permitirse a la aeronave dirigirse al aeródromo apropiado más cercano donde la reparación pueda ser realizada. Cuando se dé la autorización a tal vuelo, el ATC deberá tener en consideración el tráfico existente y previsto, pudiendo modificar la hora de salida, el nivel de vuelo o la ruta prevista del vuelo. Se podrán realizar ajustes posteriores según sea necesario en el transcurso del vuelo.
+3.2.7.5.1. Se aplicarán los siguientes procedimientos ATC, complementarios a los previstos en SERA si, como resultado del fallo o la degradación del sistema RNAV, se ha detectado, antes o después de la salida, que la aeronave no puede cumplir con los requisitos.
 
-3.2.7.5. Procedimientos ATC.
+3.2.7.5.2. Las medidas del control del tránsito aéreo con respecto a una aeronave que no pueda cumplir con los requisitos especificados, debido del fallo o degradación del sistema de navegación basado en prestaciones, dependerán de la naturaleza del fallo notificado y de la situación general del tránsito. En muchas ocasiones podrán continuar las operaciones de conformidad con la autorización ATC vigente. Cuando esto no pueda hacerse, se procederá conforme a lo previsto en SERA.11013, letra b).
 
-3.2.7.5.1. Degradación del sistema de navegación basado en prestaciones (PBN).
-
-3.2.7.5.1.1. Se aplicarán los siguientes procedimientos ATC, si, como resultado de la falla o la degradación del sistema RNAV, se ha detectado, antes o después de la salida, que la aeronave no puede cumplir con los requisitos.
-
-3.2.7.5.1.2. Mensajes de coordinación.
+3.2.7.5.3. Mensajes de coordinación.
 
 a) Coordinación asistida por computadora de los mensajes de estimación. En caso de mensajes automatizados que no contengan la información proporcionada en la casilla 18 del plan de vuelo, la dependencia /unidad ATC transferidora informará a la dependencia/unidad ATC receptora complementando oralmente el mensaje ACT con la frase RNAV FUERA DE SERVICIO (RNAV OUT OF SERVICE) después del distintivo de llamada de la aeronave afectada.
 
 b) Coordinación oral de los mensajes de estimación. Cuando se utilice la coordinación oral, la dependencia/ unidad ATC transferidora incluirá la frase RNAV FUERA DE SERVICIO (RNAV OUT OF SERVICE) al final del mensaje.
 
-3.2.7.5.1.3. Autorizaciones ATC.
-
-3.2.7.5.1.3.1. Con respecto a la falla o degradación del sistema RNAV en vuelo, mientras la aeronave esté operando en una ruta ATS que requiera el uso de B-RNAV:
-
-a) la aeronave será autorizada a volar por rutas ATS definidas por VOR/DME; o
-
-b) si tales rutas no están disponibles, la aeronave será autorizada a volar por medio de radioayudas convencionales, es decir, VOR/DME; o
-
-c) cuando no se disponga de los procedimientos anteriores, el ATC, cuando sea posible proporcionará a la aeronave vectores radar hasta que la aeronave pueda reanudar su propia navegación.
-
-Nota: Cuando la aeronave sea autorizada conforme con las letras a) o b) puede requerir, cuando sea posible, seguimiento radar continúo por la dependencia ATC correspondiente.
-
-3.2.7.5.1.3.2. Con respecto a la falla o degradación del sistema de navegación basada en prestaciones (PBN) en vuelo, de una aeronave que esté operando un procedimiento de salida o llegada que requiera la utilización de PBN:
-
-a) Deberá proporcionarse vectores radar a la aeronave hasta que ésta pueda reanudar su propia navegación, o
-
-b) La aeronave será autorizada a volar por medio de radioayudas convencionales, o
-
-c) Deberá proporcionarse una combinación de servicios ATS, comunicaciones y vigilancia suficiente para la continuación segura del vuelo.
-
 3.2.7.6. Procedimientos ATC para aeronaves de Estado no equipadas con RNAV, pero que cumplan con una precisión de navegación RNAV 5.
 
 3.2.7.6.1. Instrucciones para cumplimentar el plan de vuelo.
 
-Nota: En el Real Decreto 552/2014, de 27 de junio, anexo II, adjunto C, apartado 2 y apartado 7, se incorporan, respectivamente, las instrucciones para cumplimentar el plan de vuelo y la lista de plan de vuelo repetitivo.
+Nota: En el Real Decreto 1180/2018, de 21 de septiembre, Anexo III, Adjunto C, apartado 2 y apartado 7, se incorporan, respectivamente, las instrucciones para cumplimentar el plan de vuelo y la lista de plan de vuelo repetitivo.
 
 3.2.7.6.2. Coordinación de mensajes.
 
@@ -234,17 +212,31 @@ a) la aeronave de Estado deberá ser autorizada a volar por rutas ATS definidas 
 
 b) si tales rutas no están disponibles, la aeronave deberá ser autorizada a volar por medio de radioayudas convencionales, es decir, VOR/DME.
 
-Nota. La aeronave de Estado que proceda según las letras a) o b) puede requerir seguimiento radar continuo por la dependencia ATC correspondiente.
+Nota: La aeronave de Estado que proceda según las letras a) o b) puede requerir seguimiento radar continuo por la dependencia ATC correspondiente.
 
 3.2.7.6.4.3. Cuando los procedimientos anteriores no puedan ser aplicados, la dependencia ATC proporcionará a la aeronave de Estado guía vectorial radar hasta que la aeronave pueda reanudar su propia navegación.
 
-3.2.7.7. Prestaciones de comunicación requerida (RCP).
+3.2.7.7. Operaciones de comunicación basada en la performance (PBC).
 
-Los tipos de RCP se prescribirán en virtud de acuerdos regionales de navegación aérea, cuando corresponda. Asimismo, por Circular Aeronáutica del Director General de Aviación Civil podrán prescribirse los tipos de RCP teniendo en cuenta las prescripciones y recomendaciones adoptadas por la Organización de Aviación Civil Internacional (OACI) y la evolución técnica.
+Las especificaciones RCP se prescribirán en virtud de acuerdos regionales de navegación aérea, cuando corresponda. Asimismo, por Circular Aeronáutica del Director General de Aviación Civil podrán prescribirse las especificaciones RCP teniendo en cuenta las prescripciones y recomendaciones adoptadas por la Organización de Aviación Civil Internacional (OACI) y la evolución técnica.
 
-En todo caso, en la prescripción del tipo de RCP se tendrá en cuenta que resulte apropiado para los servicios de tránsito aéreo proporcionados en el respectivo espacio.
+En todo caso, en la prescripción de la especificación RCP se tendrá en cuenta que resulte apropiada para los servicios de tránsito aéreo proporcionados en el respectivo espacio.
 
-Nota: En el Manual sobre la prestación de comunicación requerida (RCP) (Doc. 9869) de OACI se proporcionará información sobre la RCP y los procedimientos conexos, al igual que orientación sobre el proceso de aprobación. Este documento contiene, además, referencias a otros documentos nacionales e internacionales sobre sistemas de comunicaciones y la RCP.
+Nota 1: Al prescribir una especificación RCP, pueden aplicarse limitaciones que resulten de restricciones de infraestructura de comunicaciones o de requisitos específicos de las funciones de comunicación.
+
+Nota 2: El Manual de comunicaciones y vigilancia basadas en la performance (PBCS) (Doc. 9869 de OACI) contiene información sobre el concepto de comunicaciones y vigilancia basadas en la performance (PBCS) y textos de orientación relativos a su aplicación.
+
+3.2.7.8. Operaciones de vigilancia basada en la performance (PBS).
+
+Las especificaciones RSP se prescribirán en virtud de acuerdos regionales de navegación aérea, cuando corresponda. Asimismo, por Circular Aeronáutica del Director General de Aviación Civil podrán prescribirse las especificaciones RSP teniendo en cuenta las prescripciones y recomendaciones adoptadas por la Organización de Aviación Civil Internacional (OACI) y la evolución técnica.
+
+En todo caso, en la prescripción de la especificación RSP se tendrá en cuenta que resulte apropiada para los servicios de tránsito aéreo proporcionados en el respectivo espacio.
+
+Cuando se haya prescrito una especificación RSP para la vigilancia basada en la performance, las dependencias ATS estarán dotadas de un equipo que tenga una capacidad de performance que se ajuste a la especificación o especificaciones RSP prescritas.
+
+Nota 1: Al prescribir una especificación RSP, pueden aplicarse limitaciones que resulten de restricciones de infraestructura de vigilancia o de requisitos específicos de las funciones de vigilancia.
+
+Nota 2: El Manual de comunicaciones y vigilancia basadas en la performance (PBCS) (Doc. 9869 de OACI) contiene información sobre el concepto de comunicaciones y vigilancia basadas en la performance (PBCS) y textos de orientación relativos a su aplicación.
 
 3.2.8. Establecimiento y designación de las dependencias que facilitan servicios de tránsito aéreo.
 
@@ -272,7 +264,7 @@ Los servicios de tránsito aéreo los proveerán las dependencias establecidas y
 
 3.2.9.2.2. Toda región de información de vuelo incluirá la totalidad del espacio aéreo comprendido dentro de sus límites laterales, excepto cuando esté limitada por una región superior de información de vuelo.
 
-3.2.9.2.3. Cuando una región de información de vuelo esté limitada por una región superior de información de vuelo, el límite inferior designado para la región superior de información de vuelo constituirá el límite superior, en sentido vertical, de la región de información de vuelo y coincidirá con un nivel de crucero VFR de las tablas del Apéndice B.
+3.2.9.2.3. Cuando una región de información de vuelo esté limitada por una región superior de información de vuelo, el límite inferior designado para la región superior de información de vuelo constituirá el límite superior, en sentido vertical, de la región de información de vuelo y coincidirá con un nivel de crucero VFR de las tablas del Anexo I del Real Decreto 1180/2018, de 21 de septiembre.
 
 En los casos en que se haya establecido una región superior de información de vuelo, no es necesario que los procedimientos aplicables a la misma sean los mismos que los aplicables a la región de información de vuelo subyacente.
 
@@ -286,7 +278,7 @@ En los casos en que se haya establecido una región superior de información de 
 
 3.2.9.3.2.1. El límite inferior de un área de control, cuando sea factible y conveniente a fin de permitir libertad de acción para los vuelos VFR efectuados por debajo del área de control, se establecerá a una altura mayor que la mínima especificada en 3.2.9.3.2.
 
-3.2.9.3.2.2. Cuando el límite inferior de un área de control esté por encima de 900 m (3000 ft) sobre el nivel medio del mar, coincidirá con un nivel de crucero VFR de las tablas del Apéndice B.
+3.2.9.3.2.2. Cuando el límite inferior de un área de control esté por encima de 900 m (3000 ft) sobre el nivel medio del mar, coincidirá con un nivel de crucero VFR de las tablas del Anexo I del Real Decreto 1180/2018, de 21 de septiembre.
 
 Esto implica que el nivel de crucero VFR seleccionado sea tal que las variaciones de presión atmosférica que puedan esperarse localmente no ocasionen una disminución de este límite hasta una altura de menos de 200 m (700 ft) sobre el suelo o el agua.
 
@@ -296,7 +288,7 @@ a) cuando no se facilite el servicio de control de tránsito aéreo por encima d
 
 b) cuando el área de control esté situada por debajo de una región superior de control, en cuyo caso, el límite superior del área coincidirá con el límite inferior de la región superior de control.
 
-Cuando se establezca, el límite superior coincidirá con un nivel de crucero VFR de las tablas del Apéndice B.
+Cuando se establezca, el límite superior coincidirá con un nivel de crucero VFR de las tablas del Anexo I del Real Decreto 1180/2018, de 21 de septiembre.
 
 3.2.9.4. Regiones de información de vuelo o áreas de control en el espacio aéreo superior.
 
@@ -320,7 +312,7 @@ Cuando sea conveniente limitar el número de regiones de información de vuelo o
 
 3.2.9.5.5. Si se desea establecer el límite superior de una zona de control a un nivel más elevado que el límite inferior de un área de control situada por encima o si la zona de control está situada fuera de los límites laterales de un área de control, su límite superior se establecerá a un nivel que los pilotos puedan identificar fácilmente.
 
-Cuando este límite esté por encima de 900 m (3000 ft) sobre el nivel medio del mar coincidirá con un nivel de crucero VFR de las tablas del Apéndice B.
+Cuando este límite esté por encima de 900 m (3000 ft) sobre el nivel medio del mar coincidirá con un nivel de crucero VFR de las tablas del Anexo I del Real Decreto 1180/2018, de 21 de septiembre.
 
 Esto implica que, en caso de que se utilice, el nivel de crucero VFR seleccionado sea tal que las variaciones de presión atmosférica que puedan esperarse localmente no ocasionen una disminución de este límite hasta una altura de menos de 200 m. (700 pies) sobre el suelo o el agua.
 
@@ -342,11 +334,11 @@ Esto implica que, en caso de que se utilice, el nivel de crucero VFR seleccionad
 
 3.2.11.4 Los designadores de las rutas ATS distintas de las rutas normalizadas de salida y de llegada se seleccionarán de conformidad con los principios expuestos en el Apéndice N.
 
-3.2.11.5 Las rutas normalizadas de salida y de llegada así como los procedimientos conexos se identificarán de conformidad con los principios expuestos en el adjunto 3 del apéndice N.
+3.2.11.5 Las rutas normalizadas de salida y de llegada así como los procedimientos conexos se identificarán de conformidad con los principios expuestos en el Adjunto 3 del Apéndice N.
 
 Nota 1. En el Manual de planificación de servicios de tránsito aéreo (Doc. 9426 de OACI) figura un texto de orientación relativo al establecimiento de rutas ATS.
 
-Nota 2. En el adjunto 5 del apéndice N se incluyen textos de orientación sobre el establecimiento de rutas ATS definidas por VOR.
+Nota 2. En el Adjunto 5 del Apéndice N se incluyen textos de orientación sobre el establecimiento de rutas ATS definidas por VOR.
 
 Nota 3. El espaciado entre derrotas paralelas o entre ejes de rutas ATS paralelas sobre la base de la navegación basada en la performance dependerá de la especificación para la navegación requerida.
 
@@ -360,7 +352,7 @@ El establecimiento de puntos de cambio se limitará a los segmentos de ruta de 1
 
 (1) El Apéndice N contiene texto relativo al establecimiento de los puntos de cambio.
 
-(*) Véase el artículo 2, numero 112, de SERA.
+(*) Véase el artículo 2, número 112, de SERA.
 
 3.2.13. Establecimiento e identificación de puntos significativos.
 
@@ -392,7 +384,7 @@ Nota: SERA.7005 establece la coordinación entre los operadores de aeronaves y l
 
 3.2.16.3.1. Los servicios de tránsito aéreo facilitarán a las dependencias militares correspondientes el plan de vuelo pertinente y otros datos relativos a los vuelos de las aeronaves que operen conforme a las reglas de la circulación aérea general, sea periódicamente o a solicitud, de acuerdo con los procedimientos convenidos localmente. A fin de evitar o reducir la necesidad de recurrir a la interceptación, las autoridades de los servicios de tránsito aéreo designarán las áreas o rutas en las que se apliquen a todos los vuelos las disposiciones relativas a los planes de vuelo, a las comunicaciones en ambos sentidos y a la notificación de la posición, con objeto de garantizar que las correspondientes dependencias de los servicios de tránsito aéreo dispongan de todos los datos pertinentes para el fin específico de facilitar la identificación de aeronaves.
 
-Nota. Para aeronaves objeto de interceptación ver SERA.11005.
+Nota: Para aeronaves objeto de interceptación ver SERA.11005.
 
 3.2.16.3.2. Se establecerán procedimientos especiales para asegurar que:
 
@@ -422,7 +414,7 @@ c) se establecerá una comunicación directa entre el proveedor de servicios de 
 
 3.2.17.4. Si las actividades que constituyen un peligro potencial para los vuelos de las aeronaves que operen conforme a las reglas de la circulación aérea general se realizan en forma regular o continua se establecerán comités especiales, según sea necesario, para asegurar una coordinación adecuada entre las necesidades de todas las partes interesadas.
 
-3.2.17.5 Se tomarán medidas adecuadas para evitar que las emisiones de los rayos láser afecten negativamente a las operaciones de vuelo.
+3.2.17.5. Se tomarán medidas adecuadas para evitar que las emisiones de los rayos láser afecten negativamente a las operaciones de vuelo.
 
 3.2.18. Datos aeronáuticos.
 
@@ -438,7 +430,7 @@ b) datos esenciales, nivel de integridad 1 x 10-5: existe baja probabilidad de q
 
 c) datos ordinarios, nivel de integridad 1 x 10-3: existe muy baja probabilidad de que utilizando datos ordinarios alterados, la continuación segura del vuelo y el aterrizaje de la aeronave se pondrán en grave riesgo con posibilidades de catástrofe.
 
-3.2.18.3. La protección de los datos aeronáuticos electrónicos almacenados o en tránsito se supervisará en su totalidad mediante la verificación cíclica de redundancia (CRC). Para lograr la protección del nivel de integridad de los datos aeronáuticas críticos y esenciales clasificados en 3.2.18.2, se aplicará respectivamente un algoritmo CRC de 32 o de 24 bits.
+3.2.18.3. La protección de los datos aeronáuticos electrónicos almacenados o en tránsito se supervisará en su totalidad mediante la verificación cíclica de redundancia (CRC). Para lograr la protección del nivel de integridad de los datos aeronáuticos críticos y esenciales clasificados en 3.2.18.2, se aplicará respectivamente un algoritmo CRC de 32 o de 24 bits.
 
 3.2.18.4. Para lograr la protección del nivel de integridad de los datos aeronáuticos ordinarios clasificados en 3.2.18.2, se aplicará un algoritmo CRC de 16 bits.
 
@@ -450,7 +442,7 @@ Nota: Los textos de orientación sobre los requisitos de calidad de los datos ae
 
 Nota 1: Un marco de referencia apropiado será el que permita aplicar el WGS-84 a una posición determinada y en función de ésta se expresen todos los datos de coordenadas.
 
-Nota 2: Las especificaciones que rigen la publicación de los datos aeronáuticos figuran en el Anexo 4 de OACI, Capítulo 2y en el Libro Octavo Capítulo 3, de este Reglamento.
+Nota 2: Las especificaciones que rigen la publicación de los datos aeronáuticos figuran en el Anexo 4 de OACI, Capítulo 2 y en el Libro Octavo Capítulo 3, de este Reglamento.
 
 Nota 3: Respecto de aquellos puntos o puntos de referencia que puedan servir con finalidad doble, por ejemplo punto de espera y punto de aproximación frustrada, se aplicará el grado de exactitud más elevado.
 
@@ -464,7 +456,7 @@ b) comunique, tan pronto como sea posible, a la oficina meteorológica correspon
 
 c) comunique, tan pronto como sea posible, a la oficina meteorológica correspondiente, la información pertinente relativa a la actividad volcánica precursora de erupción, a erupciones volcánicas y la información relativa a las nubes de cenizas volcánicas. Asimismo, los centros de control de área y los centros de información de vuelo notificarán la información a la oficina de vigilancia meteorológica (MWO) y a los centros de avisos de cenizas volcánicas (VAAC) correspondientes.
 
-Nota. Ver SERA.12020 sobre la transmisión de aeronotificaciones especiales.
+Nota: Ver SERA.12020 sobre la transmisión de aeronotificaciones especiales.
 
 3.2.19.2. Se mantendrá estrecha coordinación entre los centros de control de área, los centros de información de vuelo y las oficinas de vigilancia meteorológica correspondientes para asegurar que la información acerca de cenizas volcánicas que se incluye en los mensajes NOTAM y SIGMET sea coherente.
 
@@ -488,65 +480,69 @@ d) toda información que se considere de importancia para las operaciones.
 
 3.2.21. Altitudes mínimas de vuelo.
 
-Conforme al procedimiento previsto en el artículo 16 del Real Decreto 552/2014, de 27 de junio, se determinarán las altitudes mínimas de vuelo respecto a cada ruta ATS sobre el territorio español. Las altitudes mínimas de vuelo determinadas proporcionarán, como mínimo, un margen de franqueamiento por encima del obstáculo determinante situado dentro del área de que se trate.
+Conforme al procedimiento previsto en el artículo 34 del Real Decreto 1180/2018, de 21 de septiembre, se determinarán las altitudes mínimas de vuelo respecto a cada ruta ATS sobre el territorio español. Las altitudes mínimas de vuelo determinadas proporcionarán, como mínimo, un margen de franqueamiento por encima del obstáculo determinante situado dentro del área de que se trate.
 
 3.2.22. Interferencia ilícita y emergencia.
 
-Nota: SERA.11001 y SERA.11005 establecen disposiciones sobre interferencia ilícita y servicio a las aeronaves en caso de emergencia.
+Nota: SERA.11001 y SERA.11005 establecen disposiciones sobre servicio a las aeronaves en caso de emergencia e interferencia ilícita.
 
-El artículo 23 del Real Decreto 552/2014, de 27 de junio, contiene disposiciones complementarias sobre la indicación por parte de la aeronave de la situación de emergencia.
+El artículo 41 del Real Decreto 1180/2018, de 21 de septiembre, contiene disposiciones complementarias sobre la indicación por parte de la aeronave de la situación de emergencia.
 
-3.2.23. Contingencias en vuelo.
+3.2.23. Aeronaves extraviadas o no identificadas.
 
-Nota: SERA.11010 regula las contingencias en vuelo.
+Nota: SERA.11010 establece el régimen aplicable a las aeronaves extraviadas o no identificadas.
 
-3.2.24. La hora en los servicios de tránsito aéreo
+3.2.24. La hora en los servicios de tránsito aéreo.
+
+Nota: SERA.3401, contiene disposiciones generales sobre la hora.
 
 3.2.24.1. Las dependencias de servicios de tránsito aéreo estarán dotadas de relojes que indiquen horas, minutos y segundos, claramente visibles desde cada puesto de trabajo de la dependencia.
 
 3.2.24.2. Los relojes de las dependencias de servicios de tránsito aéreo y otros dispositivos para registrar la hora, serán verificados según sea necesario, a fin de que den la hora exacta con una tolerancia de más o menos 30 segundos respecto al UTC. Cuando una dependencia de servicios de tránsito aéreo utilice comunicaciones por enlace de datos, los relojes y otros dispositivos para registrar la hora se verificarán según sea necesario a fin de que den la hora exacta con el grado de tolerancia previsto en el Reglamento (CE) n.º 29/2009, de la Comisión, de 16 de enero de 2009, por el que se establecen requisitos relativos a los servicios de enlace de datos para el cielo único europeo.
 
-Nota: El artículo 13.2, en relación con el anexo III, apartado 7, del Reglamento (CE) n.º 29/2009, de la Comisión, de 16 de enero de 2009, establece la aplicación de lo dispuesto en el capítulo 2, sección 2.25.3. del Anexo 11 de la OACI –Servicios de tránsito aéreo [Decimotercera edición de julio de 2001 que incorpora la enmienda 45 (16.07.2007)]– conforme a la cual, en estos casos, los relojes y otros dispositivos para registrar la hora deben dar la hora exacta con una tolerancia de un segundo respecto al UTC.
+Nota: El artículo 13.2, en relación con el Anexo III, apartado 7, del Reglamento (CE) n.º 29/2009, de la Comisión, de 16 de enero de 2009, establece la aplicación de lo dispuesto en el Capítulo 2, sección 2.25.3. del Anexo 11 de la OACI –Servicios de tránsito aéreo [Decimotercera edición de julio de 2001 que incorpora la enmienda 45 (16.07.2007)]– conforme a la cual, en estos casos, los relojes y otros dispositivos para registrar la hora deben dar la hora exacta con una tolerancia de un segundo respecto al UTC.
 
 3.2.24.3. La hora exacta deberá obtenerse de una estación normalizada, o si no fuese posible, de otra dependencia que haya obtenido la hora exacta de dicha estación.
 
 3.2.25. Sistema de anticolisión a bordo.
 
-El uso y los procedimientos operativos de los sistemas de anticolisión a bordo (ACAS) se ajustará a lo previsto en el Reglamento (UE) n.º1332/2011, de la Comisión, de 16 de diciembre de 2011, por el que se establecen requisitos comunes de utilización del espacio aéreo y procedimientos operativos para los sistemas de anticolisión a bordo, y normas concordantes.
+El uso y los procedimientos operativos de los sistemas de anticolisión a bordo (ACAS) se ajustará a lo previsto en el Reglamento (UE) n.º 1332/2011, de la Comisión, de 16 de diciembre de 2011, por el que se establecen requisitos comunes de utilización del espacio aéreo y procedimientos operativos para los sistemas de anticolisión a bordo, y normas concordantes, en SERA.11014 en relación al aviso de resolución ACAS (RA) y, cuando proceda, a lo dispuesto en el Reglamento (UE) n.º 965/2012 de la Comisión, de 5 de octubre de 2012, por el que se establecen requisitos técnicos y procedimientos administrativos en relación con las operaciones aéreas en virtud del Reglamento (CE) n.º 216/2008 del Parlamento Europeo y del Consejo.
 
-3.2.26 Idioma de comunicación entre dependencias.
+Nota: Los Procedimientos para los Servicios de Navegación Aérea - Operaciones de Aeronaves (PANS-OPS, Doc. 8168) de OACI, Volumen I, Parte III, contienen información adicional sobre los procedimientos de utilización del sistema ACAS y, en particular, sobre los procedimientos relativos a avisos de tránsito (TA) y encuentros a alta velocidad vertical (HVR).
+
+3.2.26. Idioma de comunicación entre dependencias.
 
 3.2.26.1. Salvo en caso de que las comunicaciones entre las dependencias de control de tránsito aéreo se efectúen en un idioma convenido mutuamente, se utilizará para tales comunicaciones el idioma inglés.
 
-3.2.27 Arreglos para casos de contingencia.
+3.2.27. Arreglos para casos de contingencia.
 
-Las autoridades de los servicios de tránsito aéreo elaborarán y promulgarán planes de contingencia para su ejecución en el caso de interrupción, o posible interrupción de los servicios de tránsito aéreo y los servicios de apoyo correspondientes en el espacio aéreo en el que tienen la responsabilidad de proporcionar dichos servicios. Estos planes de contingencia se elaborarán en estrecha coordinación con las autoridades de los servicios de tránsito aéreo responsables del suministro de servicios en partes adyacentes del espacio aéreo y con los usuarios del espacio aéreo correspondientes.
+Los proveedores de los servicios de tránsito aéreo elaborarán y promulgarán planes de contingencia para su ejecución en el caso de interrupción, o posible interrupción de los servicios de tránsito aéreo y los servicios de apoyo correspondientes en el espacio aéreo en el que tienen la responsabilidad de proporcionar dichos servicios. Estos planes de contingencia se elaborarán en estrecha coordinación con los proveedores de los servicios de tránsito aéreo responsables del suministro de servicios en partes adyacentes del espacio aéreo y con los usuarios del espacio aéreo correspondientes.
 
-3.2.28 . Gestión de la seguridad del servicio de tránsito aéreo (ATS).
+3.2.28. Gestión de la seguridad del servicio de tránsito aéreo (ATS).
 
-Nota: El Reglamento de Ejecución (UE) n.º 1035/2011 de la Comisión, de 17 de octubre de 2011, por el que se establecen los requisitos comunes para la prestación de servicios de navegación aérea y se modifican el Reglamento (CE) n.º 482/2008 y el Reglamento (UE) n.º 691/2010, en su anexo II, apartado 3, regula la seguridad de los servicios de tránsito aéreo.
+Nota: El Reglamento de Ejecución (UE) n.º 1035/2011 de la Comisión, de 17 de octubre de 2011, por el que se establecen los requisitos comunes para la prestación de servicios de navegación aérea y se modifican el Reglamento (CE) n.º 482/2008 y el Reglamento (UE) n.º 691/2010, en su Anexo II, apartado 3, regula la seguridad de los servicios de tránsito aéreo.
 
-El título I, capítulo II de la Ley 21/2003, de 7 de julio, de Seguridad Aérea y disposiciones de desarrollo regulan el Programa Estatal de Seguridad Operacional para la Aviación Civil.
+El Título I, Capítulo II de la Ley 21/2003, de 7 de julio, de Seguridad Aérea y disposiciones de desarrollo regulan el Programa Estatal de Seguridad Operacional para la Aviación Civil.
 
-3.2.29 Sistema de referencias comunes.
+3.2.29. Sistema de referencias comunes.
 
-3.2.29.1 Sistema de referencia horizontal.
+3.2.29.1. Sistema de referencia horizontal.
 
-3.2.29.1.1 El Sistema Geodésico Mundial-1984 (WGS-84) se utilizará como sistema de referencia (geodésica) horizontal para la navegación aérea. Las coordenadas geográficas aeronáuticas, publicadas (que indiquen la latitud y la longitud) se expresarán en función de la referencia geodésica del WGS-84.
+3.2.29.1.1. El Sistema Geodésico Mundial-1984 (WGS-84) se utilizará como sistema de referencia (geodésica) horizontal para la navegación aérea. Las coordenadas geográficas aeronáuticas, publicadas (que indiquen la latitud y la longitud) se expresarán en función de la referencia geodésica del WGS-84.
 
-Nota.–En el Manual del sistema geodésico mundial-1984 (WGS-84) (Doc. 9674) de OACI figuran textos de orientación amplios relativos al WGS 84.
+Nota: En el Manual del sistema geodésico mundial-1984 (WGS-84) (Doc. 9674) de OACI figuran textos de orientación amplios relativos al WGS 84.
 
-3.2.29.2 Sistema de referencia vertical.
+3.2.29.2. Sistema de referencia vertical.
 
-3.2.29.2.1 La referencia al nivel medio del mar (MSL) que proporciona la relación de la altura (elevaciones) relacionadas con la gravedad respecto de una superficie conocida como geoide se utilizará como sistema de referencia vertical para la navegación aérea.
+3.2.29.2.1. La referencia al nivel medio del mar (MSL) que proporciona la relación de la altura (elevaciones) relacionadas con la gravedad respecto de una superficie conocida como geoide se utilizará como sistema de referencia vertical para la navegación aérea.
 
 Nota: El geoide a nivel mundial se aproxima muy estrechamente al MSL. Según su definición es la superficie equipotencial en el campo de gravedad de la Tierra que coincide con el MSL inalterado que se extiende de manera continua a través de los continentes.
 
-3.2.29.3 Sistema de referencia temporal.
+3.2.29.3. Sistema de referencia temporal.
 
-3.2.29.3.1 El calendario gregoriano y el tiempo universal coordinado (UTC) se utilizarán como sistema de referencia temporal para la navegación aérea.
+3.2.29.3.1. El calendario gregoriano y el tiempo universal coordinado (UTC) se utilizarán como sistema de referencia temporal para la navegación aérea.
 
-3.2.29.3.2 Cuando en las cartas se utilice un sistema de referencia temporal diferente, así se indicará en GEN 2.1.2. de la publicación de información aeronáutica (AIP).
+3.2.29.3.2. Cuando en las cartas se utilice un sistema de referencia temporal diferente, así se indicará en GEN 2.1.2. de la publicación de información aeronáutica (AIP).
 
 ## CAPÍTULO 3
 
@@ -582,7 +578,7 @@ La información sobre el movimiento de las aeronaves, junto con el registro de l
 
 3.3.4. Mínimas de separación.
 
-Nota: SERA.8010, complementado por el artículo 20 del Real Decreto 552/2014, de 27 de junio, y el libro cuarto de este Reglamento contienen disposiciones sobre mínimas de separación.
+Nota: SERA.8010, complementado por el artículo 38 del Real Decreto 1180/2018, de 21 de septiembre, y el Libro Cuarto de este Reglamento contienen disposiciones sobre mínimas de separación.
 
 3.3.5. Responsabilidad del control.
 
@@ -650,11 +646,11 @@ b) cuando en el aeródromo prevalezcan condiciones meteorológicas de vuelo por 
 
 2) a un punto o nivel prescritos,
 
-según lo especificado en cartas de acuerdo o instrucciones de la dependencia ATS;
+según lo especificado en cartas de acuerdo o instrucciones de la dependencia ATS.
 
 Incluso cuando exista una oficina de control de aproximación, el control de ciertos vuelos puede transferirse directamente de una torre de control de aeródromo a un centro de control de área, por acuerdo previo entre las dependencias interesadas, respecto a la parte pertinente del servicio de control de aproximación que ha de ser proporcionado por la torre de control de aeródromo o por el centro de control de área, según corresponda.
 
-3.3.6.1.4 Entre los sectores o posiciones de control dentro de la misma dependencia de control de tránsito aéreo. Se transferirá la responsabilidad de control de una aeronave de un sector o una posición de control a otro sector de control dentro de la misma dependencia de control de tránsito aéreo, al llegar a un punto, nivel u hora según lo especificado en las instrucciones de la dependencia ATS.
+3.3.6.1.4. Entre los sectores o posiciones de control dentro de la misma dependencia de control de tránsito aéreo. Se transferirá la responsabilidad de control de una aeronave de un sector o una posición de control a otro sector de control dentro de la misma dependencia de control de tránsito aéreo, al llegar a un punto, nivel u hora según lo especificado en las instrucciones de la dependencia ATS.
 
 3.3.6.2. Coordinación de la transferencia.
 
@@ -664,7 +660,7 @@ Incluso cuando exista una oficina de control de aproximación, el control de cie
 
 3.3.6.2.2.1. Cuando haya de realizarse la transferencia del control radar utilizando datos radar o ADS-B, la información de control pertinente a dicha transferencia incluirá información referente a la posición y, si se requiere, la derrota y la velocidad de la aeronave observada por radar o ADS-B inmediatamente antes de la transferencia.
 
-3.3.6.2.2.2 Cuando haya de realizarse la transferencia del control utilizando datos ADS-C, la información de control pertinente a dicha transferencia incluirá la posición en cuatro dimensiones y otras informaciones, según corresponda.
+3.3.6.2.2.2. Cuando haya de realizarse la transferencia del control utilizando datos ADS-C, la información de control pertinente a dicha transferencia incluirá la posición en cuatro dimensiones y otras informaciones, según corresponda.
 
 3.3.6.2.3. La dependencia de control aceptante deberá:
 
@@ -674,15 +670,15 @@ b) especificar cualquier otra información o autorización referente a la parte 
 
 3.3.6.2.4. A no ser que se haya acordado lo contrario entre las dos dependencias de control interesadas, la dependencia aceptante notificará a la dependencia transferidora el momento en que haya establecido la comunicación por radio en ambos sentidos con la aeronave de que se trate y asumido el control de la misma.
 
-3.3.6.2.5 Se especificarán en cartas de acuerdo o instrucciones de la dependencia ATS, según corresponda, los procedimientos de coordinación aplicables, incluidos los puntos de transferencia de control.
+3.3.6.2.5. Se especificarán en cartas de acuerdo o instrucciones de la dependencia ATS, según corresponda, los procedimientos de coordinación aplicables, incluidos los puntos de transferencia de control.
 
-Nota. Se entiende por Carta de Acuerdo (LoA) el acuerdo concertado entre dos o más dependencias ATS adyacentes que tratan de la forma en que las partes interesadas tienen que proporcionar los servicios de tránsito aéreo.
+Nota: Se entiende por Carta de Acuerdo (LoA) el acuerdo concertado entre dos o más dependencias ATS adyacentes que tratan de la forma en que las partes interesadas tienen que proporcionar los servicios de tránsito aéreo.
 
 3.3.7. Normas complementarias en materia de autorizaciones del control de tránsito aéreo.
 
 3.3.7.1. La inclusión de la franja de salida sujeta a medidas de gestión de afluencia del tránsito aéreo (ATFM) en la autorización del control de tránsito aéreo se ajustará a lo dispuesto en el artículo 6.6 del Reglamento (UE) n.º 255/2010, de la Comisión, de 25 de marzo de 2010, por el que se establecen normas comunes sobre la gestión de afluencia de tránsito aéreo y normas concordantes.
 
-Nota. Conforme al artículo 6.6 del Reglamento (UE) n.º 255/2010, de la Comisión, de 25 de marzo de 2010, la unidad ATS en el aeropuerto de salida garantizará que:
+Nota: Conforme al artículo 6.6 del Reglamento (UE) n.º 255/2010, de la Comisión, de 25 de marzo de 2010, la unidad ATS en el aeropuerto de salida garantizará que:
 
 a) si un vuelo está sujeto a una franja de salida ATFM, dicha franja quede incluida como parte de la autorización de control de tránsito aéreo;
 
@@ -698,11 +694,11 @@ a) la circulación segura, ordenada y rápida del tránsito aéreo;
 
 b) la descripción de la ruta y el procedimiento para autorizaciones del control de tránsito aéreo.
 
-Nota. El Apéndice N comprende un texto relativo al establecimiento de rutas normalizadas de salida y de llegada y a los procedimientos conexos.
+Nota: El Apéndice N comprende un texto relativo al establecimiento de rutas normalizadas de salida y de llegada y a los procedimientos conexos.
 
 3.3.8. Control de personas y vehículos en los aeródromos.
 
-Nota: SERA.3210, letra d), número 4), contiene las disposiciones sobre movimiento de personas y vehículos en los aeródromos y el artículo 8 del Real Decreto 552/2014, de 27 de junio, adopta las disposiciones complementarias sobre la materia en condiciones en las que se apliquen procedimientos de baja visibilidad.
+Nota: SERA.3210, letra d), número 4), contiene las disposiciones sobre movimiento de personas y vehículos en los aeródromos y el artículo 25 del Real Decreto 1180/2018, de 21 de septiembre, adopta las disposiciones complementarias sobre la materia en condiciones en las que se apliquen procedimientos de baja visibilidad.
 
 3.3.9. Uso de radar de movimiento en la superficie (SMR).
 
@@ -880,7 +876,7 @@ También se trazarán los vuelos de otras aeronaves que se sepa que están opera
 
 3.5.6. Información destinada a las aeronaves que se encuentran en las proximidades de una aeronave en estado de emergencia.
 
-Nota: SERA.11005 contiene las disposiciones sobre servicio a aeronaves en caso de emergencia.
+Nota: SERA.11001 contiene las disposiciones sobre servicio a aeronaves en estado de emergencia.
 
 ## CAPÍTULO 6
 
@@ -898,9 +894,9 @@ Nota: SERA.11005 contiene las disposiciones sobre servicio a aeronaves en caso d
 
 3.6.1.1.3 Los registros de los canales de comunicaciones, según se requiere en el párrafo 3.6.1.1.2. se conservarán por un período de 45 días.
 
-3.6.1.1.4. Donde los Estados hayan prescrito tipos de RCP para las funciones ATM, además de los requisitos anteriores, se proporcionará a las dependencias ATS el equipo de comunicaciones que les permita ofrecer servicios de tránsito aéreo de acuerdo con los tipos de RCP prescritos.
+3.6.1.1.4. Cuando se prescriba una especificación RCP para la comunicación basada en la performance, además de los requisitos que se especifican en 3.6.1.1.1, se proporcionará a las dependencias ATS el equipo de comunicaciones que les permita proporcionar servicios ATS de acuerdo con la especificación o especificaciones RCP prescritas.
 
-Nota: En el Manual sobre la performance de comunicación requerida (RCP) (Doc. 9869) de OACI se proporcionará información sobre la RCP y los procedimientos conexos, al igual que orientación sobre el proceso de aprobación. Este documento contiene, además, referencias a otros documentos que publican los Estados y las entidades internacionales con respecto a los sistemas de comunicaciones y la RCP.
+Nota: El Manual de comunicaciones y vigilancia basadas en la performance (PBCS) (Doc. 9869 de OACI) contiene información sobre el concepto de comunicaciones y vigilancia basadas en la performance (PBCS) y textos de orientación relativos a su aplicación.
 
 3.6.1.2. Para el servicio de información de vuelo.
 
@@ -932,11 +928,74 @@ Nota: En el Manual sobre la performance de comunicación requerida (RCP) (Doc. 9
 
 3.6.2.1. Generalidades.
 
-3.6.2.1.1. Se utilizarán comunicaciones orales directas o por enlace de datos en las comunicaciones tierra-tierra para fines de los servicios de tránsito aéreo.
+3.6.2.1.1. Se utilizarán comunicaciones orales directas o por enlace de datos en las comunicaciones tierra-tierra (es decir, entre puntos fijos o de punto a multipunto) para fines de los servicios de tránsito aéreo. El servicio aeronáutico comprende los siguientes sistemas y aplicaciones:
 
-3.6.2.1.2. Donde los Estados hayan prescrito tipos de RCP para las funciones ATM, además de los requisitos que se especifican en el apartado 3.6.2.1.1., se proporcionará a las dependencias ATS el equipo de comunicaciones que les permita ofrecer servicios de tránsito aéreo de acuerdo con los tipos de RCP prescritos.
+a) circuitos y redes orales directas ATS;
 
-Nota: En el Manual sobre la performance de comunicación requerida (RCP) (Doc. 9869) de OACI se proporcionará información sobre la RCP y los procedimientos conexos, al igual que orientación sobre el proceso de aprobación. Este documento contiene, además, referencias a otros documentos que publican los Estados y las entidades internacionales con respecto a los sistemas de comunicaciones y la RCP.
+b) circuitos meteorológicos operacionales, redes y sistemas de radiodifusión;
+
+c) la red de telecomunicaciones fijas aeronáuticas (AFTN);
+
+d) la red OACI común de intercambio de datos (CIDIN);
+
+e) los servicios de tratamiento de mensajes de los servicios de tránsito aéreo (ATS); y
+
+f) las comunicaciones entre centros (ICC).
+
+Nota 1: Las disposiciones relacionadas con las comunicaciones orales directas ATS figuran en el apartado 3.6.2. del Libro Tercero.
+
+Nota 2: Las disposiciones relacionadas con los canales meteorológicos operacionales y las redes de telecomunicaciones meteorológicas operacionales figuran en el apartado 3.6.2.5. del Libro Tercero.
+
+Nota 3: La AFTN proporciona un servicio de almacenamiento y retransmisión de mensajes para la transmisión de mensajes de texto en formato ITA-2 o IA-5, utilizando un procedimiento a base de caracteres. Las disposiciones relacionadas con la AFTN figuran en el apartado 4.9.2.1.2. del Libro Cuarto.
+
+Nota 4: La CIDIN proporciona un servicio de transporte común para la transmisión de mensajes de aplicación binarios o de texto, en apoyo de aplicaciones AFTN y OPMET. La red OACI común de intercambio de datos (CIDIN), que comprende entidades de aplicación y servicios de comunicaciones para el intercambio de mensajes tierra-tierra hace uso de protocolos basados en la Recomendación X25 del Comité Consultivo Internacional Telegráfico y Telefónico (CCITT) para proporcionar facilidades de comunicaciones independientes de códigos y multietos. Los objetivos principales de la CIDIN son los de mejorar la AFTN, y prestar apoyo a transmisiones de mensajes largos y a aplicaciones más exigentes, tales como la información meteorológica relativa a las operaciones (OPMET), entre dos o más sistemas de tierra. Los detalles de los procedimientos de comunicaciones CIDIN, tal como se aplican en Europa, se indican en el Manual CIDIN EUR.
+
+Nota 5: El servicio de mensajes ATS de la aplicación del servicio de tratamiento de mensaje ATS (servicios de tránsito aéreo) (ATSMHS) se utilizará para el intercambio de mensajes ATS entre usuarios por la interred de la Red de telecomunicaciones aeronáuticas (ATN).
+
+El servicio de mensaje ATS comprendido en la aplicación del servicio de tratamiento de mensajes ATS está destinado a proporcionar servicios de mensajes genéricos en el servicio de comunicaciones interred (ICS) de la red de telecomunicaciones aeronáuticas (ATN). A su vez, puede utilizarse como un sistema de comunicaciones por las aplicaciones de usuarios que se comunican en la ATN. Esto puede lograrse, por ejemplo, mediante interfaces de programas de aplicación al servicio de mensaje ATS.
+
+Las especificaciones detalladas de la aplicación del servicio de tratamiento de mensajes ATS se incluyen en la Parte II del Doc. 9880 de OACI, Manual sobre especificaciones técnicas detalladas para la Red de telecomunicaciones aeronáuticas (ATN) utilizando las Normas y Protocolos ISO/OSI [disponible en inglés únicamente con el título: Manual on Detailed Technical Specifications for the Aeronautical Telecommunications Network (ATN) using ISO/OSI Standards and Protocols, Doc. 9880 de OACI)].
+
+El servicio de mensaje ATS se proporciona mediante la implantación en el servicio de comunicaciones interred ATN de los sistemas de tratamiento de mensajes especificados en ISO/CEI (Organización Internacional de Normalización/Comisión Electrotécnica Internacional) 10021 y la UIT-T (Unión Internacional de Telecomunicaciones — Sector de normalización de telecomunicaciones) X.400 y complementado con los requisitos adicionales especificados en la Parte II del Doc. 9880 de OACI, Manual sobre especificaciones técnicas detalladas para la Red de telecomunicaciones aeronáuticas (ATN) utilizando las Normas y Protocolos ISO/OSI [disponible en inglés únicamente con el título: Manual on Detailed Technical Specifications for the Aeronautical Telecommunications Network (ATN) using ISO/OSI Standards and Protocols, Doc. 9880 de OACI)]. Los dos conjuntos de documentos, las normas internacionales ISO/ CEI MOTIS (Sistema de intercambio de textos a base de mensajes) y la Serie de Recomendaciones X.400 de la UIT-T (de 1988 o posteriores), en principio, están armonizados recíprocamente. Sin embargo, existe un reducido número de diferencias. En el mencionado documento se hace referencia a las correspondientes normas internacionales ISO y a los perfiles normalizados internacionales (ISP), según se requiera. Cuando sea necesario, por ejemplo, por razones de interfuncionamiento o para señalar diferencias, también se hace referencia a las Recomendaciones X.400 pertinentes.
+
+Los siguientes sistemas de extremo ATN que llevan a cabo servicios de tratamiento de mensajes ATS se definen en la Parte II del Doc. 9880 de OACI, Manual sobre especificaciones técnicas detalladas para la Red de telecomunicaciones aeronáuticas (ATN) utilizando las Normas y Protocolos ISO/OSI [disponible en inglés únicamente con el título: Manual on Detailed Technical Specifications for the Aeronautical Telecommunications Network (ATN) using ISO/OSI Standards and Protocols, Doc. 9880 de OACI)].
+
+1) un servidor de mensajes ATS;
+
+2) un agente de usuario de mensajes ATS; y
+
+3) una cabecera AFTN/AMHS (red de telecomunicaciones fijas aeronáuticas/sistema de tratamiento de mensajes ATS).
+
+Pueden establecerse conexiones en el servicio de comunicaciones interred entre cualquier par constituido de estos sistemas de extremo ATN (ver la tabla siguiente).
+
+Tabla. Comunicaciones entre sistemas de extremo ATN que implantan servicios de tratamiento de mensajes ATS:
+
+| Sistema de extremo ATN 1 | Sistema de extremo ATN 2. |
+| --- | --- |
+| Servidor de mensajes ATS. | Servidor de mensajes ATS. |
+| Servidor de mensajes ATS. | Cabecera AFTN/AMHS |
+| Servidor de mensajes ATS. | Agente de usuario de mensajes ATS. |
+| Cabecera AFTN/AMHS. | Cabecera AFTN/AMHS. |
+
+Nota 6: Las comunicaciones entre centros (ICC) se utilizarán para intercambiar mensajes ATS entre usuarios de servicios de tránsito aéreo por la interred de la red de telecomunicaciones aeronáuticas (ATN). El conjunto de aplicaciones ICC permite el intercambio de información en apoyo de los siguientes servicios operacionales:
+
+a) la notificación;
+
+b) la coordinación;
+
+c) la transferencia de control y comunicaciones;
+
+d) la planificación de vuelos;
+
+e) la gestión del espacio aéreo y
+
+f) la gestión de la afluencia del tránsito aéreo.
+
+La primera de las aplicaciones elaboradas para el conjunto ICC es la comunicación de datos entre instalaciones ATS AIDC.
+
+La aplicación AIDC de comunicaciones de datos entre instalaciones ATS intercambia información entre dependencias ATS (ATSU) para apoyar funciones críticas de control de tránsito aéreo (ATC), tales como la notificación de vuelos que se aproximan al límite de una región de información de vuelo (FIR), la coordinación de condiciones de límite y la autorización de transferencia de control y comunicaciones.
+
+Nota 7: La red de telecomunicaciones aeronáuticas por conducto de sus aplicaciones ATSMHS e ICC permite la transición de los actuales usuarios y sistemas AFTN y CIDIN a la arquitectura de la ATN.
 
 3.6.2.2. Comunicaciones dentro de una región de información de vuelo.
 
@@ -958,7 +1017,7 @@ b) las torres de control de aeródromo;
 
 c) las oficinas de notificación de los servicios de tránsito aéreo cuando estén instaladas por separado.
 
-3.6.2.2.1.3. Toda oficina de control de aproximación, además de disponer de instalaciones para comunicarse con el centro de información de vuelo y con el centro de control de área según lo dispuesto en 3.6.2.2.1.1. o 3.6.2.2.1.2, estará en condiciones de comunicarse con la torre o torres de control de aeródromo asociadas y con la oficina u oficinas de notificación de los servicios de tránsito aéreo asociadas, cuando éstas estén instaladas por separado.
+3.6.2.2.1.3. Toda oficina de control de aproximación, además de disponer de instalaciones para comunicarse con el centro de información de vuelo y con el centro de control de área según lo dispuesto en 3.6.2.2.1.1. ó 3.6.2.2.1.2, estará en condiciones de comunicarse con la torre o torres de control de aeródromo asociadas y con la oficina u oficinas de notificación de los servicios de tránsito aéreo asociadas, cuando éstas estén instaladas por separado.
 
 3.6.2.2.1.4. Toda torre de control de aeródromo, además de estar conectada con el centro de información de vuelo, el centro de control de área y la oficina de control de aproximación según los dispuesto en 3.6.2.2.1.1, 3.6.2.2.1.2 y 3.6.2.2.1.3, dispondrá de instalaciones para comunicarse con la oficina de notificación de los servicios de tránsito aéreo asociada, siempre que ésta esté instalada por separado.
 
@@ -1016,7 +1075,7 @@ b) comunicaciones impresas, cuando sea necesario que quede constancia por escrit
 
 3.6.2.2.3.7. Todas las instalaciones de comunicaciones orales directas o por enlace de datos entre distintas dependencias de los servicios de tránsito aéreo, así como entre las dependencias de los servicios de tránsito aéreo civiles y otras dependencias que se describen en 3.6.2.2.2.1 y 3.6.2.2.2.2 deberán contar con registro automático.
 
-3.6.2.2.3.8 Los registros de datos y comunicaciones, según se requiere en los párrafos 3.6.2.2.3.3. y 3.6.2.2.3.7, se conservarán por un período mínimo de 45 días.
+3.6.2.2.3.8 Los registros de datos y comunicaciones, según se requiere en el apartado 3.6.2.2.3.3. y 3.6.2.2.3.7., se conservarán por un período mínimo de 45 días.
 
 3.6.2.3. Comunicaciones entre regiones de información de vuelo.
 
@@ -1040,11 +1099,17 @@ Pueden darse circunstancias especiales por razón de la densidad del tránsito, 
 
 3.6.2.3.5. En todos los casos en que sea necesario el intercambio automático de datos entre las computadoras de los servicios de tránsito aéreo, se contará con dispositivos apropiados de registro automático.
 
-3.6.2.3.6 Los registros de datos y comunicaciones, según se requiere en 3.6.2.3.5. se conservarán por un período mínimo de 45 días.
+3.6.2.3.6. Los registros de datos y comunicaciones, según se requiere en 3.6.2.3.5. se conservarán por un período mínimo de 45 días.
 
 3.6.2.4. Procedimientos para las comunicaciones orales directas.
 
 Se elaborarán procedimientos adecuados para las comunicaciones orales directas que permitan establecer conexiones inmediatas en caso de llamada urgente relativa a la seguridad de una aeronave, y, si es necesario, la interrupción de otras llamadas menos urgentes en curso en aquel momento.
+
+3.6.2.5. Canales Meteorológicos Operacionales y Redes de Telecomunicaciones Meteorológicas Operacionales.
+
+3.6.2.5.1. Los canales meteorológicos operacionales y las redes de telecomunicaciones meteorológicas operacionales serán compatibles con los procedimientos de la red de telecomunicaciones fijas aeronáuticas (AFTN).
+
+Nota: «Compatible» ha de interpretarse como el modo de operación que garantice que la información intercambiada por los canales meteorológicos operacionales puede también ser transmitida y recibida por la red de telecomunicaciones fijas aeronáuticas, sin efecto adverso sobre el funcionamiento de la red de telecomunicaciones fijas aeronáuticas y viceversa.
 
 3.6.3. Servicio de control del movimiento en la superficie.
 
@@ -1084,7 +1149,7 @@ La información se facilitará de tal manera que exija un mínimo de interpretac
 
 3.7.1.2. Centros de información de vuelo y centros de control de área.
 
-3.7.1.2.1. Se proporcionará a los centros de información de vuelo y a los centros de control de área la siguiente información meteorológica, de acuerdo con lo descrito en el anexo 3, apéndice 9, apartado 1.3, de OACI, dando especial importancia al acaecimiento o acaecimiento probable del empeoramiento de las condiciones meteorológicas tan pronto como pueda determinarse:
+3.7.1.2.1. Se proporcionará a los centros de información de vuelo y a los centros de control de área la siguiente información meteorológica, de acuerdo con lo descrito en el Anexo 3, Apéndice 9, apartado 1.3, de OACI, dando especial importancia al acaecimiento o acaecimiento probable del empeoramiento de las condiciones meteorológicas tan pronto como pueda determinarse:
 
 a) METAR y SPECI, incluyendo datos actuales de presión para aeródromos y otros lugares, pronósticos TAF y de tipo tendencia y sus enmiendas;
 
@@ -1104,7 +1169,7 @@ h) información recibida sobre la actividad volcánica precursora de erupción y
 
 Dichos informes y pronósticos se referirán a la región de información de vuelo o al área de control y a todas las demás áreas que puedan determinarse a base de los acuerdos regionales de navegación aérea.
 
-3.7.1.2.1.1 Ciertos cambios de las condiciones meteorológicas se interpretan como empeoramiento de un elemento meteorológico aunque corrientemente no se considere así (1).
+3.7.1.2.1.1 Ciertos cambios de las condiciones meteorológicas se interpretan como empeoramiento de un elemento meteorológico aunque corrientemente no se considere así(1).
 
 (1) El aumento de la temperatura puede afectar adversamente a la operación de ciertos tipos de aeronaves.
 
@@ -1156,7 +1221,7 @@ En la medida de lo posible, las torres de control de aeródromo en aeródromos e
 
 3.7.1.4.6. A las torres de control de aeródromo y a las dependencias pertinentes se les proporcionará avisos de aeródromo.
 
-Nota.–Las condiciones meteorológicas para las cuales se expiden avisos de aeródromo figuran en el Anexo 3 de OACI, Apéndice 6.
+Nota: Las condiciones meteorológicas para las cuales se expiden avisos de aeródromo figuran en el Anexo 3 de OACI, Apéndice 6.
 
 3.7.1.5. Estaciones de comunicaciones.
 
@@ -1178,7 +1243,7 @@ Se mantendrá al corriente a las torres de control de aeródromo y a las depende
 
 3.7.4. Información sobre globos libres no tripulados.
 
-Los operadores de globos libres no tripulados mantendrán informadas a las dependencias correspondientes de los servicios de tránsito aéreo sobre los detalles de vuelos de globos libres no tripulados, de conformidad con las disposiciones que figuran en el Apéndice S.
+Los operadores de globos libres no tripulados están sujetos al cumplimiento de lo dispuesto en el Capítulo III del Real Decreto 1180/2018, de 21 de septiembre, y mantendrán informadas a las dependencias correspondientes de los servicios de tránsito aéreo sobre los detalles de vuelos de globos libres no tripulados, de conformidad con las disposiciones que figuran en dicho capítulo y en el Apéndice 2 de SERA.
 
 3.7.5. Información sobre actividad volcánica.
 
@@ -1189,6 +1254,8 @@ Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter
 3.7.6. Información sobre ''nubes'' de materiales radiactivos y de sustancias químicas tóxicas.
 
 Se informará a las dependencias ATS, de conformidad con un acuerdo de carácter local, acerca de la liberación en la atmósfera de materiales radiactivos o sustancias químicas tóxicas que podrían afectar al espacio aéreo utilizado por los vuelos dentro de su zona de responsabilidad.
+
+> Se modifican los Capítulos 2, 3 y 5 a 7 por la disposición final 1.2.3 del Real Decreto 1180/2018, de 21 de septiembre. Ref. BOE-A-2018-15406#df
 
 > Se modifican los Capítulos 2 a 7 y las referencias a "tramo de ruta" y "aeronaves civiles" por la disposición final 1.1 y 1.2.3 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
 

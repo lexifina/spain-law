@@ -51,9 +51,8 @@
 | Variación magnética de la ayuda para la navegación NDB | 1 grado levantamiento topográfico | 1 grado | 1 x 10-3 ordinaria |
 | Variación magnética del aeródromo/helipuerto |  | 1 grado | 1 x 10-5 esencial |
 | Variación magnética de la antena del localizador ILS |  | 1 grado | 1 x 10-5 esencial |
-| Variación magnética de la antena de azimut MLS |  | 1 grado | 1 x 10-5 esencial |
 
-4. TABLA 4. Marcación.
+4. Tabla 4. Marcación.
 
 | Marcación | Exactitud y tipo de datos | Resolución publicada | Integridad y clasificación |
 | --- | --- | --- | --- |
@@ -62,7 +61,6 @@
 | Segmentos de rutas de llegada/salida de área terminal | 1/10 grados calculada | 1 grado | 1 x 10-3 ordinaria |
 | Determinación de los puntos de referencia para procedimientos de aproximación por instrumentos | 1/100 grados calculada | 1/100 grados | 1 x 10-5 esencial |
 | Alineación del localizador ILS |  | 1/100 grados verdadera | 1 x 10-5 esencial |
-| Alineación del azimut de cero grados del MLS |  | 1/100 grados verdadera | 1 x 10-5 esencial |
 | Marcación de la pista y de la FATO |  | 1/100 grados verdadera | 1 x 10-3 ordinaria |
 
 5. Tabla 5. Longitud / distancia / dimensión.
@@ -71,7 +69,7 @@
 | --- | --- | --- | --- |
 | Longitud de los tramos de las aerovías | 1/10 km o 1/10 NM calculada | 1/10 km o 1/10 NM calculada | 1 x 10-3 ordinaria |
 | Distancia para la determinación de los puntos de referencia en ruta | 1/10 km o 1/10 NM calculada | 1/10 km o 1/10 NM calculada | 1 x 10-3 ordinaria |
-| Longitud de los segmentos de rutas de llegada/salida de área terminal | 1/100 km o 1/100 NM calculada | 1/100 km o 1/100 NM calculada | 1 x 10-5 ordinaria |
+| Longitud de los tramos/segmentos de rutas de llegada/salida de área terminal | 1/100 km o 1/100 NM calculada | 1/100 km o 1/100 NM calculada | 1 x 10-5 esencial |
 | Distancia para la determinación de los puntos de referencia para procedimientos de aproximación de área terminal y por instrumentos | 1/100 km o 1/100 NM calculada | 1/100 km o 1/100 NM calculada | 1 x 10-5 esencial |
 | Longitud de la pista y de la FATO, dimensiones de la TLOF |  | 1 m o 1 ft | 1 x 10-8 crítica |
 | Longitud de la zona de parada |  | 1 m o 1 ft | 1 x 10-8 crítica |
@@ -80,9 +78,8 @@
 | Distancia entre antena de pendiente de planeo ILS- umbral, a lo largo del eje |  | 3 m o (10 ft) | 1 x 10-3 ordinaria |
 | Distancia entre las radiobalizas ILS-umbral |  | 3 m o (10 ft) | 1 x 10-5 esencial |
 | Distancia entre antena DME del ILS-umbral, a lo largo del eje |  | 3 m o (10 ft) | 1 x 10-5 esencial |
-| Distancia entre antena de azimut MLS-extremo de pista |  | 3 m o (10 ft) | 1 x 10-3 ordinaria |
-| Distancia entre antena de elevación MLS-umbral,a lo largo del eje |  | 3 m o (10 ft) | 1 x 10-3 ordinaria |
-| Distancia entre antena DME/P del MLS-umbral, a lo largo del eje |  | 3 m o (10 ft) | 1 x 10-5 esencial |
+
+> Se modifica por la disposición final 1.2.12 del Real Decreto 1180/2018, de 21 de septiembre. Ref. BOE-A-2018-15406#df
 
 > Se modifican las referencias a "tramo de ruta" por la disposición final 1.1 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
 

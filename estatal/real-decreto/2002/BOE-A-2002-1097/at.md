@@ -25,13 +25,13 @@ Para facilitar la descripción del contenido y formato de los mensajes de los se
 | Coordinación | CDN |
 | Aceptación | ACP |
 | Acuse de recibo lógico | LAM |
-| Suplementarios | Solicitud de plan de vuelo Solicitud de plan de vuelo | RQP |
+| Suplementarios | Solicitud de plan de vuelo | RQP |
 | Solicitud de plan de vuelo suplementario | RQS |
 | Plan de vuelo suplementario | SPL |
 
 1.2. Tipos normalizados de campo.
 
-1.2.1. Los datos que pueden figurar en un campo de mensajes ATS son los indicados en la tabla siguiente. Los números de la columna 1 corresponden con los indicados en la Figura T-1.
+1.2.1. Los datos que pueden figurar en un campo de mensajes ATS son los indicados en la tabla siguiente. Los números de la columna 1 corresponden con los indicados en la figura incorporada en el apartado 2 de este apéndice.
 
 | Tipo de campo | Datos |
 | --- | --- |
@@ -40,7 +40,7 @@ Para facilitar la descripción del contenido y formato de los mensajes de los se
 | 7 | Identificación de la aeronave y modo y clave SSR |
 | 8 | Reglas de vuelo y tipo de vuelo |
 | 9 | Número y tipo de aeronave y categoría de estela turbulenta |
-| 10 | Equipo |
+| 10 | Equipo y capacidades |
 | 13 | Aeródromo de salida y hora |
 | 14 | Datos estimados |
 | 15 | Ruta |
@@ -54,7 +54,7 @@ Para facilitar la descripción del contenido y formato de los mensajes de los se
 
 1.3. Composición de los tipos normalizados de mensaje.
 
-1.3.1. La composición de cada tipo normalizado de mensaje, expresado por una sucesión normalizada de campos de datos se ajustará a lo prescrito en la tabla de referencia de la Figura T-1. Los mensajes deberán contener todos los campos prescritos.
+1.3.1. La composición de cada tipo normalizado de mensaje, expresado por una sucesión normalizada de campos de datos se ajustará a lo prescrito en la tabla de referencia de la figura incorporada en el apartado 2 de este apéndice. Los mensajes deberán contener todos los campos prescritos.
 
 1.4. Composición de los tipos normalizados de campo.
 
@@ -74,7 +74,7 @@ Para facilitar la descripción del contenido y formato de los mensajes de los se
 
 1.5.5. Cuando los mensajes ATS normalizados se preparen en la forma propia del teletipo, se insertará una función de alineación (dos retornos del carro seguidos de una alimentación de línea):
 
-a) antes de cada uno de los campos indicados en la Figura T-1;
+a) antes de cada uno de los campos indicados en la figura incorporada en el apartado 2 de este apéndice;
 
 b) en los tipos de campo 5 (descripción de la emergencia), 15 (ruta), 18 (otros datos), 19 (información suplementaria), 20 (información de alerta referente a búsqueda y salvamento), 21 (información referente a fallo de las comunicaciones) y 22 (enmienda), siempre que sea necesario empezar una nueva línea de la copia de la página impresa (1). En dichos casos, la función de alineación se insertará entre dos elementos de datos, sin dividir los elementos.
 
@@ -121,3 +121,5 @@ e) 2 ó 3 caracteres correspondientes a la identificación de una ayuda para la 
 2. Mensajes normalizados ATS y su composición.
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2002/17/01097_6245961_image7.png)
+
+> Se modifica por la disposición final 1.2.11 del Real Decreto 1180/2018, de 21 de septiembre. Ref. BOE-A-2018-15406#df

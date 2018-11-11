@@ -1,0 +1,3 @@
+## Disposición final quinta. Actualización de referencias.
+
+Las referencias del Real Decreto 1036/2017, de 15 de diciembre, por el que se regula la utilización civil de las aeronaves pilotadas por control remoto, y se modifican el Real Decreto 552/2014, de 27 de junio, por el que se desarrolla el Reglamento del aire y disposiciones operativas comunes para los servicios y procedimientos de navegación aérea y el Real Decreto 57/2002, de 18 de enero, por el que se aprueba el Reglamento de Circulación Aérea, al capítulo VIII y los artículos 23 bis, 23 ter y 23 quáter del Real Decreto 552/2014, de 27 de junio, deberán entenderse realizadas, respectivamente al capítulo XI y los artículos 44, 45 y 46 de este real decreto.

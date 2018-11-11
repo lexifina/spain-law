@@ -2,6 +2,8 @@
 
 ## Señales
 
+Nota: Las disposiciones contenidas en este adjunto son adicionales a las previstas en el adjunto 1 de SERA. Para la aplicación de las disposiciones del adjunto 1 de SERA, debe tenerse en cuenta el material guía adoptado por la Agencia Europea de Seguridad Aérea.
+
 ## ADJUNTOS 1 A 5 (Suprimidos)
 
 Véase el Apéndice 1 de SERA, según establece la disposición final 1.1 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
@@ -126,7 +128,7 @@ emitiendo destellos dos veces con los faros de aterrizaje de la aeronave o, si n
 
 6.3.2. La ausencia de la señal antedicha indica que no se ha comprendido la señal de tierra.
 
-## Adjunto 7
+## ADJUNTO 7
 
 ## Señales del servicio AFIS
 
@@ -164,6 +166,8 @@ Cuando la comunicación mediante un sistema de señales visuales se considere ad
 7.3. Señales visuales en tierra.
 
 El operador del AFIS puede informar a las aeronaves sobre las señales visuales en tierra que se detallan en el Apéndice 1 de SERA.
+
+> Se añade nota al título por la disposición final 1.2.8 del Real Decreto 1180/2018, de 21 de septiembre. Ref. BOE-A-2018-15406#df.
 
 > Se suprimen los Adjuntos 1 a 5 y se modifican las referencias a "Apéndice C, adjuntos 1 a 5" por la disposición final 1.1 y 1.2.8 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
 

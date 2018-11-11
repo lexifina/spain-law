@@ -1,0 +1,7 @@
+## Disposición final tercera. Modificación del Real Decreto 931/2010, de 23 de julio, por el que se regula el procedimiento de certificación de proveedores civiles de servicios de navegación aérea y su control normativo.
+
+Se modifica la disposición transitoria única del Real Decreto 931/2010, de 23 de julio, por el que se regula el procedimiento de certificación de proveedores civiles de servicios de navegación aérea y su control normativo, que pasa a quedar redactada en los siguientes términos:
+
+«Disposición transitoria única. Prórroga de los certificados vigentes.
+
+Se prorroga la vigencia de los certificados de proveedor civil de servicios de navegación aérea expedidos por la Agencia Estatal de Seguridad Aérea expedidos con anterioridad al 2 de enero de 2020, en tanto se mantenga el cumplimiento de los requisitos exigidos para su expedición, hasta su sustitución, si procede, a más tardar el 1 de enero de 2021, fecha a partir de la cual carecerán de efectos todos los certificados que no hayan sido expedidos conforme a lo previsto en el Reglamento de Ejecución (UE) 2017/373 de la Comisión, de 1 de marzo de 2017, por el que se establecen requisitos comunes para los proveedores de servicios de gestión del tránsito aéreo/navegación aérea y otras funciones de la red de gestión del tránsito aéreo y su supervisión, por el que se derogan el Reglamento (CE) n.º 482/2008 y los Reglamentos de Ejecución (UE) n.º 1034/2011, (UE) n.º 1035/2011 y (UE) 2016/1377, y por el que se modifica el Reglamento (UE) n.º 677/2011.»

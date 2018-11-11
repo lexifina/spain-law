@@ -72,4 +72,6 @@ Dos. Se modifica el título de la disposición final cuarta que pasa a denominar
 
 «3. Por Resolución del Director de la Agencia Estatal de Seguridad Aérea, publicada en el “Boletín Oficial del Estado”, se podrán establecer los medios aceptables de cumplimiento para la acreditación de los requisitos establecidos en el artículo 23 quáter para los equipos requeridos para el vuelo en el espacio aéreo de que se trate por sistemas civiles de aeronaves pilotadas por control remoto.»
 
+> Téngase en cuenta que se deroga el Real Decreto 552/2014, de 27 de junio, con efectos de 11 de noviembre de 2018, según establece la disposición derogatoria.1 del Real Decreto 1180/2018, de 21 de septiembre. Ref. BOE-A-2018-15406
+
 > Redactados el apartado 2 del art. 23 bis y el apartado 7 del art. 23 ter conforme a la corrección de errores publicada en BOE núm. 144, de 14 de junio de 2018. Ref. BOE-A-2018-7962

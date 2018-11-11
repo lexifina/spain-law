@@ -2,7 +2,9 @@
 
 ## Reglas del aire
 
-Nota: Las reglas del aire se encuentran reguladas en SERA y en las disposiciones de aplicación y desarrollo contenidas en el Real Decreto 552/2014, de 27 de junio, por el que se desarrolla el Reglamento del aire y disposiciones operativas comunes para los servicios y procedimientos de navegación aérea y se modifica el Reglamento de Circulación Aérea, aprobado por Real Decreto 57/2002, de 18 de enero.
+Nota: Las reglas del aire se encuentran reguladas en SERA y en las disposiciones de aplicación y desarrollo contenidas en el Real Decreto 1180/2018, de 21 de septiembre, y en este Reglamento.
+
+> Se modifica la nota por la disposición final 1.2.2 del Real Decreto 1180/2018, de 21 de septiembre. Ref. BOE-A-2018-15406#df
 
 > Se deja sin contenido por la disposición final 1.2.2 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856
 
