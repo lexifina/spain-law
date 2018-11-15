@@ -1,6 +1,8 @@
 ## ANEXOS I a VIII
 
-> Anexos I a VIII omitidos. Consulte el PDF oficial, y sus modificaciones:
+> Anexos I a VIII omitidos. Consulte el PDF original, y sus modificaciones:
+
+> - Se modifica el anexo VII, por Orden TEC/1174/2018, de 8 de noviembre. Ref. BOE-A-2018-15517
 
 > - Se declara la nulidad de lo indicado, por Sentencia del TS de 20 de diciembre de 2017. Ref. BOE-A-2018-1488
 
