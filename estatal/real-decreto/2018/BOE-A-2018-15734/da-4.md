@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Defensa Nacional.
+
+Cualquier actuación de las administraciones competentes en la aplicación de las estrategias marinas, que dimane de este real decreto y su anexo, o su normativa de aplicación o desarrollo, y que incida sobre zonas declaradas de interés para la Defensa Nacional o zonas de seguridad de instalaciones militares y su espacio aéreo, o que impliquen establecer limitaciones o prohibiciones a la navegación de buques de la Armada o al vuelo de aeronaves militares, necesitará el informe preceptivo del Ministerio de Defensa, a fin de evitar que las mismas puedan suponer merma o quebranto de la operatividad militar y de dicho interés de la Defensa Nacional.
