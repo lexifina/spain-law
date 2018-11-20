@@ -1,0 +1,5 @@
+## Segundo. Carácter de la convocatoria.
+
+Se podrá convocar, con carácter general, en la modalidad de concursos ordinarios de méritos todos aquellos puestos de trabajo que cuenten con nivel de complemento de destino 22 o inferior, siempre que tengan un complemento específico normalizado, con excepción de los puestos de secretaría, de aquellos cuya especialización justifique su inclusión en una convocatoria de concurso específico y de aquellos puestos que tengan doble adscripción a los subgrupos A2/C1 o adscritos exclusivamente al subgrupo A2.
+
+Por otra parte, y sin perjuicio de su posible convocatoria en concurso ordinario de méritos, se podrán convocar en concurso de carácter específico aquellos puestos de trabajo que cuenten con nivel de complemento de destino superior al 22 o que teniendo este nivel, su complemento específico sea superior al normalizado o cuya especialización justifique su inclusión en una convocatoria de concurso específico. También se podrán convocar en concurso de carácter específico, los puestos de secretaría, y aquellos puestos que tengan doble adscripción a los subgrupos A2/C1 o adscritos exclusivamente al subgrupo A2.
