@@ -149,43 +149,55 @@ Cuadro 1.1 Ratones
 | Reproducción. |  | 330 Para una pareja monógama (no consanguínea/consanguínea) o un trío (consanguíneo). Por cada hembra suplementaria y su camada deben añadirse otros 180 cm². |  | 12 |
 | En reserva en criadores*. | Menos de 20. | 950 | 40 | 12 |
 | En reserva en criadores*. | Menos de 20. | 1.500 | 30 | 12 |
-| * Los ratones destetados, y hasta su expedición, y siempre que su peso sea inferior a 20 gramos, y el recinto tenga una superficie mínima de 950 cm² pueden mantenerse a una densidad de hasta 40 cm2/animal, o de 30 cm2/animal si la superficie del recinto es de al menos 1.500 cm2.Tampoco podrán mantenerse a estas densidades más elevadas si se produce alguna merma de bienestar, como por ejemplo, mayor agresividad, morbilidad o mortalidad, estereotipias, otras anomalías de comportamiento, pérdida de peso u otras respuestas fisiológicas o conductuales al estrés. |
+| * Los ratones, una vez destetados, pueden permanecer con esas densidades de ocupación más elevadas, en el corto período comprendido entre el destete y la expedición, siempre que estén alojados en recintos más amplios con un enriquecimiento adecuado y esas condiciones de alojamiento no produzcan ninguna merma de bienestar, como, por ejemplo, mayor agresividad, morbilidad o mortalidad, estereotipias y otras anomalías de comportamiento, pérdida de peso u otras respuestas fisiológicas o conductuales al estrés. |
 
 Cuadro 1.2 Ratas
 
 |  | Peso corporal (g) | Dimensión mínima del recinto (cm²) | Superficie del suelo por animal (cm²) | Altura mínima del recinto (cm) | Fecha a que se refiere el artículo 6, apartado 2 |
 | --- | --- | --- | --- | --- | --- |
-| En reserva y durante los procedimientos*. | Hasta 200. De más de 200 a 300. De más de 300 a 400. De más de 400 a 600. Más de 600. | 800 800 800 800 1.500 | 200 250 350 450 600 | 18 18 18 18 18 | 1 de enero de 2017 |
-| Reproducción. |  | 800 Madre y camada. Por cada animal adulto adicional, introducido de forma permanente en el recinto, deben añadirse otros 400 cm² |  | 18 |
-| Reserva en criadores**. Dimensión del recinto 1 500 cm². | Hasta 50. De más de 50 a 100. De más de 100 a 150. De más de 150 a 200. | 1.500 1.500 1.500 1.500 | 100 125 150 175 | 18 18 18 18 |
-| Reserva en criadores**. Dimensión del recinto 2 500 cm². | Hasta 100. De más de 100 a 150. De más de 150 a 200. | 2.500 2.500 2.500 | 100 125 150 | 18 18 18 |
-
-* En los estudios a largo plazo, si el espacio mínimo disponible para cada animal es inferior al indicado más arriba hacia el final de dichos estudios, debe darse prioridad al mantenimiento de estructuras sociales estables.
-
-** Las ratas, una vez destetadas, pueden permanecer con esas densidades de ocupación más elevadas en el corto período comprendido entre el destete y la expedición, siempre que estén alojadas en recintos más amplios con un enriquecimiento adecuado y esas condiciones de alojamiento no produzcan ninguna merma de bienestar como, por ejemplo, mayor agresividad, morbilidad o mortalidad, estereotipias y otras anomalías de comportamiento, pérdida de peso u otras respuestas fisiológicas o conductuales al estrés.
+| En reserva y durante los procedimientos*. | Hasta 200. | 800 | 200 | 18 | 1 de enero de 2017 |
+| De más de 200 a 300. | 800 | 250 | 18 |
+| De más de 300 a 400. | 800 | 350 | 18 |
+| De más de 400 a 600. | 800 | 450 | 18 |
+| Más de 600. | 1.500 | 600 | 18 |
+| Reproducción. |  | 800 Madre y camada. Por cada animal adulto adicional, introducido de forma permanente en el recinto, deben añadirse otros 400 cm². |  | 18 |
+| Reserva en criadores**. Dimensión del recinto 1 500 cm². | Hasta 50. | 1.500 | 100 | 18 |
+| De más de 50 a 100. | 1.500 | 125 | 18 |
+| De más de 100 a 150. | 1.500 | 150 | 18 |
+| De más de 150 a 200. | 1.500 | 175 | 18 |
+| Reserva en criadores**. Dimensión del recinto 2 500 cm². | Hasta 100. | 2.500 | 100 | 18 |
+| De más de 100 a 150. | 2.500 | 125 | 18 |
+| De más de 150 a 200. | 2.500 | 150 | 18 |
+| * En los estudios a largo plazo, si el espacio mínimo disponible para cada animal es inferior al indicado más arriba hacia el final de dichos estudios, debe darse prioridad al mantenimiento de estructuras sociales estables. ** Las ratas, una vez destetadas, pueden permanecer con esas densidades de ocupación más elevadas en el corto período comprendido entre el destete y la expedición, siempre que estén alojadas en recintos más amplios con un enriquecimiento adecuado y esas condiciones de alojamiento no produzcan ninguna merma de bienestar como, por ejemplo, mayor agresividad, morbilidad o mortalidad, estereotipias y otras anomalías de comportamiento, pérdida de peso u otras respuestas fisiológicas o conductuales al estrés. |
 
 Cuadro 1.3 Jerbos
 
 |  | Peso corporal (g) | Dimensión mínima del recinto (cm²) | Superficie del suelo por animal (cm²) | Altura mínima del recinto (cm) | Fecha a que se refiere el artículo 6, apartado 2 |
 | --- | --- | --- | --- | --- | --- |
-| En reserva y durante los procedimientos. | Hasta 40. Más de 40. | 1.200 1.200 | 150 250 | 18 18 | 1 de enero de 2017 |
+| En reserva y durante los procedimientos. | Hasta 40. | 1.200 | 150 | 18 | 1 de enero de 2017 |
+| Más de 40. | 1.200 | 250 | 18 |
 | Reproducción. |  | 1.200 Pareja monógama o trío con descendencia. |  | 18 |
 
 Cuadro 1.4 Hámsteres
 
 |  | Peso corporal (g) | Dimensión mínima del recinto (cm²) | Superficie del suelo por animal (cm²) | Altura mínima del recinto (cm) | Fecha a que se refiere el artículo 6, apartado 2 |
 | --- | --- | --- | --- | --- | --- |
-| En reserva y durante los procedimientos. | Hasta 60. De más de 60 a 100. Más de 100. | 800 800 800 | 150 200 250 | 14 14 14 | 1 de enero de 2017 |
-| Reproducción. |  | 800 Madre o pareja monógama con camada |  | 14 |
+| En reserva y durante los procedimientos. | Hasta 60. | 800 | 150 | 14 | 1 de enero de 2017 |
+| De más de 60 a 100. | 800 | 200 | 14 |
+| Más de 100. | 800 | 250 | 14 |
+| Reproducción. |  | 800 Madre o pareja monógama con camada. |  | 14 |
 | En reserva en criadores*. | Menos de 60. | 1.500 | 100 | 14 |
-
-* Los hámsteres, una vez destetados, pueden permanecer con esas densidades de ocupación más elevadas, en el corto período comprendido entre el destete y la expedición, siempre que estén alojados en recintos más amplios con un enriquecimiento adecuado y esas condiciones de alojamiento no produzcan ninguna merma de bienestar, como, por ejemplo, mayor agresividad, morbilidad o mortalidad, estereotipias y otras anomalías de comportamiento, pérdida de peso u otras respuestas fisiológicas o conductuales al estrés.
+| * Los hámsteres, una vez destetados, pueden permanecer con esas densidades de ocupación más elevadas, en el corto período comprendido entre el destete y la expedición, siempre que estén alojados en recintos más amplios con un enriquecimiento adecuado y esas condiciones de alojamiento no produzcan ninguna merma de bienestar, como, por ejemplo, mayor agresividad, morbilidad o mortalidad, estereotipias y otras anomalías de comportamiento, pérdida de peso u otras respuestas fisiológicas o conductuales al estrés. |
 
 Cuadro 1.5 Cobayas
 
 |  | Peso corporal (g) | Dimensión mínima del recinto (cm²) | Superficie del suelo por animal (cm²) | Altura mínima del recinto (cm) | Fecha a que se refiere el artículo 6, apartado 2 |
 | --- | --- | --- | --- | --- | --- |
-| En reserva y durante los procedimientos. | Hasta 200. De más de 200 a 300. De más de 300 a 450. De más de 450 a 700. Más de 700. | 1.800 1.800 1.800 2.500 2.500 | 200 350 500 700 900 | 23 23 23 23 23 | 1 de enero de 2017 |
+| En reserva y durante los procedimientos. | Hasta 200. | 1.800 | 200 | 23 | 1 de enero de 2017 |
+| De más de 200 a 300. | 1.800 | 350 | 23 |
+| De más de 300 a 450. | 1.800 | 500 | 23 |
+| De más de 450 a 700. | 2.500 | 700 | 23 |
+| Más de 700. | 2.500 | 900 | 23 |
 | Reproducción. |  | 2.500 Pareja con camada. Por cada hembra reproductora suplementaria, deben añadirse otros 1.000 cm². |  | 23 |
 
 2. Conejos. En el marco de una investigación de índole agropecuaria, cuando el objetivo del proyecto disponga que los animales se mantengan en condiciones similares a las de los animales de explotaciones comerciales, el alojamiento de los animales debe cumplir como mínimo las normas contempladas en el Real Decreto 348/2000, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas.
@@ -198,13 +210,17 @@ El cuadro 2.1 se refiere tanto a las jaulas como a los cercados. La superficie d
 
 | Peso corporal final (kg) | Superficie mínima de suelo para uno o dos animales socialmente armoniosos (cm²) | Altura mínima (cm) | Fecha a que se refiere el artículo 6, apartado 2 |
 | --- | --- | --- | --- |
-| Menos de 3. Entre 3 y 5. Más de 5. | 3 500 4 200 5 400 | 45 45 60 | 1 de enero de 2017 |
+| Menos de 3. | 3 500 | 45 | 1 de enero de 2017 |
+| Entre 3 y 5. | 4 200 | 45 |
+| Más de 5. | 5 400 | 60 |
 
 Cuadro 2.2 Conejas con camada
 
 | Peso de la coneja (kg) | Superficie mínima del recinto (cm²) | Suplemento para las cajas nido (cm²) | Altura mínima (cm) | Fecha a que se refiere el artículo 6, apartado 2 |
 | --- | --- | --- | --- | --- |
-| Menos de 3. Entre 3 y 5. Más de 5. | 3.500 4.200 5.400 | 1.000 1.200 1.400 | 45 45 60 | 1 de enero de.2017 |
+| Menos de 3. | 3.500 | 1.000 | 45 | 1 de enero de.2017 |
+| Entre 3 y 5. | 4.200 | 1.200 | 45 |
+| Más de 5. | 5.400 | 1.400 | 60 |
 
 Cuadro 2.3 Conejos de menos de 10 semanas
 
@@ -235,8 +251,7 @@ Las zonas para la comida y para las bandejas sanitarias no deben estar a una dis
 | --- | --- | --- | --- | --- |
 | Mínimo para un animal adulto. | 1,5 | 0,5 | 2 | 1 de enero de 2017 |
 | Por cada animal adicional. | 0,75 | 0,25 | – |
-
-* Superficie de suelo con exclusión de las plataformas.
+| * Superficie de suelo con exclusión de las plataformas. |
 
 4. Perros. Los perros deberán ser trasladados cuando sea posible a una zona exterior en la que puedan hacer ejercicio. El alojamiento individual no debe prolongarse durante más de cuatro horas seguidas.
 
@@ -252,7 +267,8 @@ Una perra lactante y su camada deben disponer del mismo espacio que una perra so
 
 | Peso (kg) | Dimensión mínima del recinto (m²) | Superficie mínima de suelo para uno o dos animales (m²) | Para cada animal adicional, añadir un mínimo de (m²) | Altura mínima (m) | Fecha a que se refiere el artículo 6, apartado 2 |
 | --- | --- | --- | --- | --- | --- |
-| Hasta 20. Más de 20. | 4 8 | 4 8 | 2 4 | 2 2 | 1 de enero de 2017 |
+| Hasta 20. | 4 | 4 | 2 | 2 | 1 de enero de 2017 |
+| Más de 20. | 8 | 8 | 4 | 2 |
 
 Cuadro 4.2 Perros: Espacio disponible después del destete
 
@@ -285,10 +301,7 @@ Cuadro 6.1 Titíes y tamarinos
 | --- | --- | --- | --- | --- |
 | Titíes. | 0,5 | 0,2 | 1,5 | 1 de enero de 2017 |
 | Tamarinos. | 1,5 | 0,2 | 1,5 |
-
-* Los animales sólo se alojarán individualmente en circunstancias excepcionales.
-
-** El límite superior del recinto debe estar al menos a 1,8 m del suelo.
+| * Los animales sólo se alojarán individualmente en circunstancias excepcionales. ** El límite superior del recinto debe estar al menos a 1,8 m del suelo. |
 
 Los jóvenes titíes y tamarinos no deben ser separados de la madre antes de los ocho meses de edad.
 
@@ -297,8 +310,7 @@ Cuadro 6.2 Saimiris
 | Superficie mínima de suelo para 1* o 2 animales (m²) | Volumen mínimo por cada animal adicional de más de 6 meses (m³) | Altura mínima del recinto (m) | Fecha a que se refiere el artículo 6, apartado 2 |
 | --- | --- | --- | --- |
 | 2,0 | 0,5 | 1,8 | 1 de enero de 2017 |
-
-* Los animales sólo se alojarán individualmente en circunstancias excepcionales.
+| * Los animales sólo se alojarán individualmente en circunstancias excepcionales. |
 
 Los jóvenes saimiris no deben ser separados de la madre antes de los seis meses de edad.
 
@@ -309,14 +321,7 @@ Cuadro 6.3 Macacos y monos verdes*
 | Animales de menos de 3 años de edad**. | 2,0 | 3,6 | 1,0 | 1,8 | 1 de enero de 2017 |
 | Animales a partir de los 3 años de edad***. | 2,0 | 3,6 | 1,8 | 1,8 |
 | Animales para reproducción****. |  |  | 3,5 | 2,0 |
-
-* Los animales sólo se alojarán individualmente en circunstancias excepcionales.
-
-** En un recinto de las dimensiones mínimas se pueden alojar hasta tres animales.
-
-*** En un recinto de las dimensiones mínimas se pueden alojar hasta dos animales.
-
-**** En las colonias reproductoras no hace falta espacio/volumen suplementario para los animales jóvenes de hasta 2 años alojados con su madre.
+| * Los animales sólo se alojarán individualmente en circunstancias excepcionales. ** En un recinto de las dimensiones mínimas se pueden alojar hasta tres animales. *** En un recinto de las dimensiones mínimas se pueden alojar hasta dos animales. **** En las colonias reproductoras no hace falta espacio/volumen suplementario para los animales jóvenes de hasta 2 años alojados con su madre. |
 
 Los jóvenes macacos y monos verdes no deben ser separados de la madre antes de los ocho meses de edad.
 
@@ -327,12 +332,7 @@ Cuadro 6.4 Babuinos*
 | Animales** de menos de 4 años de edad. | 4,0 | 7,2 | 3,0 | 1,8 | 1 de enero de 2017 |
 | Animales** a partir de los 4 años de edad. | 7,0 | 12,6 | 6,0 | 1,8 |
 | Animales para reproducción***. |  |  | 12,0 | 2,0 |
-
-* Los animales sólo se alojarán individualmente en circunstancias excepcionales.
-
-** En un recinto de las dimensiones mínimas se pueden alojar hasta 2 animales.
-
-*** En las colonias reproductoras no hace falta espacio/volumen suplementario para los animales jóvenes de hasta 2 años alojados con su madre.
+| * Los animales sólo se alojarán individualmente en circunstancias excepcionales. ** En un recinto de las dimensiones mínimas se pueden alojar hasta 2 animales. *** En las colonias reproductoras no hace falta espacio/volumen suplementario para los animales jóvenes de hasta 2 años alojados con su madre. |
 
 Los jóvenes babuinos no deben separarse de la madre antes de los ocho meses de edad.
 
@@ -385,8 +385,7 @@ El lado más corto debe medir, como mínimo, 1,5 veces la altura a la cruz del a
 | Hasta 1,40. | 9,0 | 6,0 | 16 | 3,00 | 1 de enero de 2017 |
 | De más de 1,40 a 1,60. | 12,0 | 9,0 | 20 | 3,00 |
 | Más de 1,60. | 16,0 | (2 x AC)² * | 20 | 3,00 |
-
-* Con el fin de garantizar un espacio suficiente, las necesidades mínima de espacio para cada animal individual deben calcularse en función de la altura a la cruz (AC).
+| * Con el fin de garantizar un espacio suficiente, las necesidades mínima de espacio para cada animal individual deben calcularse en función de la altura a la cruz (AC). |
 
 8. Aves. En el marco de una investigación de índole agropecuaria, cuando el objetivo del proyecto establezca que los animales se mantengan en condiciones similares a las de los animales de granjas comerciales, el alojamiento de los animales debe cumplir como mínimo las normas contempladas en Real Decreto 348/2000, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas, en el Real Decreto 3/2002, de 11 de enero, por el que se establecen las normas mínimas de protección de las gallinas ponedoras, y el Real Decreto 692/2010, de 20 de mayo, por el que se establecen las normas mínimas para la protección de los pollos destinados a la producción de carne y se modifica el Real Decreto 1047/1994, de 20 de mayo, relativo a las normas mínimas para la protección de terneros.
 
@@ -442,10 +441,7 @@ Si por razones científicas no pudieran proporcionarse estas dimensiones mínima
 | Hasta 500. | 2,00 | 0,20 | 200 | 10 |
 | De más de 500 a 2 000. | 2,00 | 0,33 | 200 | 15 |
 | Más de 2 000. | 2,00 | 0,50 | 200 | 15 |
-
-* En esta superficie debe incluirse un estanque que tenga como mínimo una superficie de 0,5 m² por cada 2 m² de recinto y una profundidad mínima de 30 cm. El estanque puede ocupar hasta un 50 por cien de la superficie mínima del recinto.
-
-** Las aves que aún no tienen plumas pueden alojarse en recintos con una altura mínima de 75 cm.
+| * En esta superficie debe incluirse un estanque que tenga como mínimo una superficie de 0,5 m² por cada 2 m² de recinto y una profundidad mínima de 30 cm. El estanque puede ocupar hasta un 50 por cien de la superficie mínima del recinto. ** Las aves que aún no tienen plumas pueden alojarse en recintos con una altura mínima de 75 cm. |
 
 Cuadro 8.5 Patos y ocas: Dimensiones mínimas de los estanques*
 
@@ -453,8 +449,7 @@ Cuadro 8.5 Patos y ocas: Dimensiones mínimas de los estanques*
 | --- | --- | --- |
 | Patos. | 0,5 | 30 |
 | Ocas. | 0,5 | Entre 10 y 30 |
-
-* Estas dimensiones corresponden a 2 m² de recinto. El estanque puede ocupar hasta un 50 por cien de la superficie mínima del recinto.
+| * Estas dimensiones corresponden a 2 m² de recinto. El estanque puede ocupar hasta un 50 por cien de la superficie mínima del recinto. |
 
 Cuadro 8.6 Palomas
 
@@ -488,8 +483,7 @@ Cuadro 9.1 Urodelos acuáticos
 | De más de 15 a 20. | 875 | 200 | 15 |
 | De más de 20 a 30. | 1.837,5 | 440 | 15 |
 | Más de 30. | 3.150 | 800 | 20 |
-
-* Medida del extremo anterior de la cabeza a la cloaca.
+| * Medida del extremo anterior de la cabeza a la cloaca. |
 
 Cuadro 9.2 Anuros acuáticos*
 
@@ -499,10 +493,7 @@ Cuadro 9.2 Anuros acuáticos*
 | Entre 6 y 9. | 300 | 75 | 8 |
 | De más de 9 a 12. | 600 | 150 | 10 |
 | Más de 12. | 920 | 230 | 12,5 |
-
-* Estas condiciones se aplican a los acuarios de mantenimiento, pero por razones de eficacia no se aplican a los acuarios utilizados para el apareamiento natural y la superovulación, ya que estos últimos procedimientos requieren acuarios más pequeños. Los espacios mínimos del cuadro corresponden a adultos de los tamaños indicados; los animales jóvenes y los renacuajos deben mantenerse aparte o modificarse las dimensiones del acuario proporcionalmente a la escala de tamaños.
-
-** Medida del extremo anterior de la cabeza a la cloaca.
+| * Estas condiciones se aplican a los acuarios de mantenimiento, pero por razones de eficacia no se aplican a los acuarios utilizados para el apareamiento natural y la superovulación, ya que estos últimos procedimientos requieren acuarios más pequeños. Los espacios mínimos del cuadro corresponden a adultos de los tamaños indicados; los animales jóvenes y los renacuajos deben mantenerse aparte o modificarse las dimensiones del acuario proporcionalmente a la escala de tamaños. ** Medida del extremo anterior de la cabeza a la cloaca. |
 
 Cuadro 9.3 Anuros semiacuáticos
 
@@ -511,12 +502,7 @@ Cuadro 9.3 Anuros semiacuáticos
 | Hasta 5,0. | 1.500 | 200 | 20 | 10 | 1 de enero de 2017 |
 | De más de 5,0 a 7,5. | 3.500 | 500 | 30 | 10 |
 | Más de 7,5. | 4.000 | 700 | 30 | 15 |
-
-* Medida del extremo anterior de la cabeza a la cloaca.
-
-** Una tercera parte de tierra y dos terceras partes de agua donde los animales puedan sumergirse.
-
-*** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura de los recintos debe estar adaptada al equipamiento interior.
+| * Medida del extremo anterior de la cabeza a la cloaca. ** Una tercera parte de tierra y dos terceras partes de agua donde los animales puedan sumergirse. *** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura de los recintos debe estar adaptada al equipamiento interior. |
 
 Cuadro 9.4 Anuros semiterrestres
 
@@ -525,12 +511,7 @@ Cuadro 9.4 Anuros semiterrestres
 | Hasta 5,0. | 1.500 | 200 | 20 | 10 | 1 de enero de 2017 |
 | De más de 5,0 a 7,5. | 3.500 | 500 | 30 | 10 |
 | Más de 7,5. | 4.000 | 700 | 30 | 15 |
-
-* Medida del extremo anterior de la cabeza a la cloaca.
-
-** Dos terceras partes de tierra y una tercera parte de agua donde los animales puedan sumergirse.
-
-*** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura de los recintos debe estar adaptada al equipamiento interior.
+| * Medida del extremo anterior de la cabeza a la cloaca. ** Dos terceras partes de tierra y una tercera parte de agua donde los animales puedan sumergirse. *** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura de los recintos debe estar adaptada al equipamiento interior. |
 
 Cuadro 9.5 Anuros arborícolas
 
@@ -538,18 +519,13 @@ Cuadro 9.5 Anuros arborícolas
 | --- | --- | --- | --- | --- |
 | Hasta 3,0. | 900 | 100 | 30 | 1 de enero de 2017 |
 | Más de 3,0. | 1.500 | 200 | 30 |
-
-* Medida del extremo anterior de la cabeza a la cloaca.
-
-** Dos terceras partes de tierra y una tercera parte de agua donde los animales puedan sumergirse.
-
-*** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura de los recintos debe estar adaptada al equipamiento interior.
+| * Medida del extremo anterior de la cabeza a la cloaca. ** Dos terceras partes de tierra y una tercera parte de agua donde los animales puedan sumergirse. *** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura de los recintos debe estar adaptada al equipamiento interior. |
 
 10. Reptiles.
 
 Cuadro 10.1 Tortugas acuáticas
 
-| Longitud corporal* (cm) | Superficie de agua mínima (cm²) | Superficie de agua mínima por animal adicional alojado en grupo (cm²) | Profundidad mínima del agua (cm) | Fecha a que se refiere el artículo 6, apartado 2 |
+| Longitud corporal* | Superficie de agua mínima (cm²) | Superficie de agua mínima por animal adicional alojado en grupo (cm²) | Profundidad mínima del agua (cm) | Fecha a que se refiere el artículo 6, apartado 2 |
 | --- | --- | --- | --- | --- |
 | Hasta 5. | 600 | 100 | 10 | 1 de enero de 2017 |
 | De más de 5 a 10. | 1.600 | 300 | 15 |
@@ -557,8 +533,7 @@ Cuadro 10.1 Tortugas acuáticas
 | De más de 15 a 20. | 6.000 | 1.200 | 30 |
 | De más de 20 a 30. | 10.000 | 2.000 | 35 |
 | Más de 30. | 20.000 | 5.000 | 40 |
-
-* Medida en línea recta desde la parte delantera a la parte trasera del caparazón.
+| * Medida en línea recta desde la parte delantera a la parte trasera del caparazón. |
 
 Cuadro 10.2 Serpientes terrestres
 
@@ -569,10 +544,7 @@ Cuadro 10.2 Serpientes terrestres
 | De más de 40 a 50. | 600 | 300 | 15 |
 | De más de 50 a 75. | 1.200 | 600 | 20 |
 | Más de 75. | 2.500 | 1.200 | 28 |
-
-* Medida del extremo anterior de la cabeza a la cola.
-
-** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura del recinto debe estar adaptada al equipamiento interior.
+| * Medida del extremo anterior de la cabeza a la cola. ** Medida desde la superficie de la zona de tierra hasta la parte interior del techo del terrario; además, la altura del recinto debe estar adaptada al equipamiento interior. |
 
 11. Peces.
 
@@ -597,5 +569,7 @@ La densidad de ocupación debe basarse en la totalidad de las necesidades de los
 11.5 Alimentación y manejo.
 
 Los peces se alimentarán con una dieta adecuada y en cantidad y frecuencia adecuadas. Debe prestarse una atención especial a la alimentación de las larvas cuando se pasa de alimentos vivo a dietas artificiales. El manejo de los peces debe reducirse al mínimo posible.
+
+> Se modifica el Cuadro 1.1 de la sección B por el art. único.4 del Real Decreto 1386/2018, de 19 de noviembre. Ref. BOE-A-2018-15797
 
 > Redactados los Cuadros 6.2 y 7.4 conforme a la corrección de errores publicada en BOE núm. 100, de 26 de abril de 2013. Ref. BOE-A-2013-4413.
