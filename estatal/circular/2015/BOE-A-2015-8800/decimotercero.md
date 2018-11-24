@@ -18,6 +18,8 @@ La Comisión Nacional de los Mercados y la Competencia, cuando lo estime necesar
 
 Los usuarios con desbalance positivo (exceso de gas en el área de balance en PVB) en el día de gas tendrán derecho a percibir del Gestor Técnico del Sistema el resultado de multiplicar la cantidad de desbalance individual provisional por la tarifa de desbalance que corresponda al día de gas. No se considerarán en este cálculo las posibles acciones de balance llevadas a cabo por el Gestor Técnico del Sistema de adquisición/cesión de productos normalizados de transferencia de título de propiedad de gas local o servicios de balance.
 
-5. La liquidación de los desbalances individuales provisionales diarios de los usuarios se realizará en la semana natural siguiente a la semana que se liquida. La liquidación se hará con cargo a una cuenta común que mantendrá el Gestor Técnico del Sistema para la liquidación de los desbalances diarios y acciones de balance de productos normalizados con transferencia de título de propiedad de gas en PVB.
+5. El cálculo y comunicación de las cantidades a liquidar por los desbalances individuales provisionales diarios de los usuarios se realizará en la semana natural siguiente a la semana que se liquida. El Gestor Técnico del Sistema elaborará y publicará, antes del 1 de enero de cada año, el calendario detallado con las fechas de cobros y pagos de la correspondiente liquidación. La liquidación se hará con cargo a una cuenta común que mantendrá el Gestor Técnico del Sistema para la liquidación de los desbalances diarios y acciones de balance de productos normalizados con transferencia de título de propiedad de gas en PVB.
 
 6. Las tarifas de desbalance y los recargos correspondientes por desbalances se identificarán por separado en las facturas del Gestor Técnico del Sistema a los usuarios.
+
+> Se modifica el punto 5 por el apartado primero de la Circular de 14 de noviembre de 2018. Ref. BOE-A-2018-16032
