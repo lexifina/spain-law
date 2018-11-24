@@ -34,8 +34,10 @@ Se incorpora la obligatoriedad de remisión a la IGAE de información mensual, c
 
 En la disposición final segunda se establece que entrará en vigor al día siguiente al de su publicación en el «Boletín Oficial del Estado», siendo aplicable a las cuentas anuales del ejercicio 2013 y siguientes.
 
-La Orden se completará con los anexos del I al X publicados directamente en la oficina virtual del Portal de la IGAE (http://www.pap.minhap.gob.es/).
+La Orden se completará con los anexos del I al X publicados directamente en la oficina virtual del Portal de la IGAE (http://www.pap.hacienda.gob.es/).
 
 La aprobación de esta Orden Ministerial se realiza a propuesta de la IGAE, de acuerdo con las competencias que a dicho centro directivo le otorga el artículo 125.1.a) de la Ley General Presupuestaria, y en uso de las facultades que el artículo 124.b) de dicha Ley otorga al Ministro de Hacienda (actual Ministro de Hacienda y Administraciones Públicas).
 
 En su virtud, dispongo:
+
+> Se modifica por el art. único.3 de la Orden HAC/1235/2018, de 14 de noviembre. Ref. BOE-A-2018-15965
