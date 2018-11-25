@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Contratos en vigor.
+
+Los contratos que los proveedores de servicios de pago que operen en España tengan suscritos con su clientela, a la fecha de entrada en vigor de este real decreto-ley, para la regulación de las condiciones en las que ha de tener lugar la prestación de los servicios de pago a los que se refiere este real decreto-ley, seguirán siendo válidos una vez entre en vigor la misma, sin perjuicio de la aplicación, a partir de dicho momento, de las disposiciones de carácter imperativo que resulten más favorables para los consumidores y microempresas.

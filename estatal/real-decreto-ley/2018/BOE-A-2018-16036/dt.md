@@ -1,0 +1,9 @@
+## Disposición transitoria primera. Régimen transitorio para las entidades de pago que cuentan con autorización.
+
+1. Las entidades de pago que hubieran comenzado a ejercer actividades con arreglo a la Ley 16/2009, de 13 de noviembre, de servicios de pago, y su normativa de desarrollo antes de la entrada en vigor de este real decreto-ley, podrán proseguir sus actividades de conformidad con lo previsto en dicha ley, sin necesidad de obtener la autorización prevista en el artículo 11 de este real decreto-ley y sus disposiciones de desarrollo durante un máximo de cuatro meses.
+
+2. Las entidades de pago a que se refiere el apartado anterior deberán presentar ante el Banco de España dentro de los dos meses posteriores a la entrada en vigor de este real decreto-ley la información pertinente, a fin de que pueda determinarse si dichas entidades se ajustan a los requisitos establecidos en la misma y su normativa de desarrollo y, en caso de que no sea así, las medidas que han de adoptarse para garantizar su cumplimiento o si procede retirar la autorización.
+
+Las entidades de pago que reúnan los requisitos anteriores serán autorizadas e inscritas en el registro especial de entidades de pago del Banco de España, según lo establecido en el artículo 11 de este real decreto-ley. Si transcurrido el plazo de cuatro meses señalado en el párrafo primero de este apartado no hubiera quedado acreditado que esas entidades de pago cumplen tales requisitos, aquellas tendrán prohibido prestar servicios de pago a partir de dicha fecha.
+
+3. Las entidades de pago a que se refiere el apartado 1 recibirán automáticamente autorización y se inscribirán en el correspondiente registro si el Banco de España tienen ya constancia del cumplimiento de los requisitos establecidos en este real decreto-ley, informando de ello a las entidades de pago afectadas antes de concederles la autorización.
