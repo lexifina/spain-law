@@ -7,7 +7,7 @@
 | ACAE | Fórmulas de aminoácidos esenciales. | ACAE2 | Fórmulas que, además de aminoácidos esenciales, llevan otros macro o micronutrientes. Lactantes. |
 | ACAE3 | Fórmulas que, además de aminoácidos esenciales, llevan otros macro o micronutrientes. Envases monodosis. Niños y adultos. |
 | ACAE4 | Fórmulas que, además de aminoácidos esenciales, llevan otros macro o micronutrientes. Envases no monodosis. Niños y adultos. |
-| AEAA | Fórmulas exentas de fenilalanina. | AEAA1 | Fórmulas exentas de fenilalanina que contienen sólo aminoácidos. |
+| AEAA | Fórmulas de aminoácidos exentas de fenilalanina. | AEAA1 | Fórmulas exentas de fenilalanina que contienen sólo aminoácidos. |
 | AEAA2 | Fórmulas exentas de fenilalanina que, además de aminoácidos, llevan otros macro o micronutrientes. Para lactantes. |
 | AEAA3 | Fórmulas exentas de fenilalanina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos. |
 | AEAA4 | Fórmulas exentas de fenilalanina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos. |
@@ -19,6 +19,10 @@
 | AEAD2 | Fórmulas exentas de metionina, treonina y valina y de bajo contenido en isoleucina que, además de aminoácidos, llevan otros macro o micronutrientes. Para lactantes. |
 | AEAD3 | Fórmulas exentas de metionina, treonina y valina y de bajo contenido en isoleucina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos. |
 | AEAD4 | Fórmulas exentas de metionina, treonina y valina y de bajo contenido en isoleucina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos. |
+| AEAF | Fórmulas de aminoácidos y proteínas o macropéptidos limitadas en fenilalanina. | AEAF1 | Fórmulas limitadas en fenilalanina que contienen solo aminoácidos y proteínas o macropéptidos. |
+| AEAF2 | Fórmulas limitadas en fenilalanina que, además de aminoácidos y proteínas o macropéptidos, llevan otros macro o micronutrientes. Para lactantes. |
+| AEAF3 | Fórmulas limitadas en fenilalanina que, además de aminoácidos y proteínas o macropéptidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos. |
+| AEAF4 | Fórmulas limitadas en fenilalanina que, además de aminoácidos y proteínas o macropéptidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos. |
 | AEAG | Fórmulas exentas de isoleucina, leucina y valina. | AEAG1 | Fórmulas exentas de isoleucina, leucina y valina, que contienen sólo aminoácidos esenciales. |
 | AEAG2 | Fórmulas exentas de isoleucina, leucina y valina, que además de aminoácidos llevan otros macro o micronutrientes. Para lactantes. |
 | AEAG3 | Fórmulas exentas de isoleucina, leucina y valina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos. |
@@ -39,10 +43,14 @@
 | AEAL2 | Fórmulas exentas de lisina que, además de aminoácidos, llevan otros macro o micronutrientes. Para lactantes. |
 | AEAL3 | Fórmulas exentas de lisina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos. |
 | AEAL4 | Fórmulas exentas de lisina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos. |
-| AMAA | Fórmulas exentas de fenilalanina y tirosina. | AMAA1 | Fórmulas exentas de fenilalanina y tirosina que contienen sólo aminoácidos. |
+| AMAA | Fórmulas de aminoácidos exentas de fenilalanina y tirosina. | AMAA1 | Fórmulas exentas de fenilalanina y tirosina que contienen sólo aminoácidos. |
 | AMAA2 | Fórmulas exentas de fenilalanina y tirosina que, además de aminoácidos, llevan otros macro o micronutrientes. Para lactantes. |
 | AMAA3 | Fórmulas exentas de fenilalanina y tirosina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos. |
 | AMAA4 | Fórmulas exentas de fenilalanina y tirosina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos. |
+| AMAB | Fórmulas de aminoácidos y proteínas o macropéptidos limitadas en fenilalanina y tirosina. | AMAB1 | Fórmulas limitadas en fenilalanina y tirosina que contienen solo aminoácidos y proteínas o macropéptidos. |
+| AMAB2 | Fórmulas limitadas en fenilalanina y tirosina que, además de aminoácidos y proteínas o macropéptidos, llevan otros macro o micronutrientes. Para lactantes. |
+| AMAB3 | Fórmulas limitadas en fenilalanina y tirosina que, además de aminoácidos y proteínas o macropéptidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos. |
+| AMAB4 | Fórmulas limitadas en fenilalanina y tirosina que, además de aminoácidos y proteínas o macropéptidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos. |
 | ASPR | Fórmulas exentas de proteínas. | ASPR1 | Fórmulas exentas de proteínas. |
 | CELE | Completas monoméricas normoproteicas. | CELE1 | Fórmulas completas monoméricas normoproteicas. Para adultos |
 | CELE3 | Fórmulas completas monoméricas normoproteicas. Para niños. |
@@ -134,6 +142,8 @@ a) Productos con fibra para niños: Aquellos cuya cantidad de fibra añadida es 
 b) Productos con fibra para adultos: Aquellos cuya cantidad de fibra añadida es igual o superior a 1,4 gramos por 100 mililitros. En el caso de los productos que se presenten en forma de polvo, la cantidad de fibra se referirá a 100 mililitros de la solución estándar.
 
 5. Solución estándar: Gramos de producto por 100 ml de solución.
+
+> Se modifica por el art. único.1 y 2 de la Orden SCB/1242/2018, de 19 de noviembre. Ref. BOE-A-2018-16080
 
 > Se modifica por el art. 2.1 a 3 de la Orden SSI/366/2018, de 5 de abril. Ref. BOE-A-2018-4786
 

@@ -19,6 +19,10 @@
 | AEAD2 | Equivalente proteico (gramo) | 1,4475 |
 | AEAD3 | Equivalente proteico (gramo) | 1,1440 |
 | AEAD4 | Equivalente proteico (gramo) | 1,3524 |
+| AEAF1 | Gramo de proteína/equivalente proteico | 0,6228 |
+| AEAF2 | Gramo de proteína/equivalente proteico | 0,8611 |
+| AEAF3 | Gramo de proteína/equivalente proteico | 0,9690 |
+| AEAF4 | Gramo de proteína/equivalente proteico | 0,8063 |
 | AEAG1 | Equivalente proteico (gramo) | 0,8546 |
 | AEAG2 | Equivalente proteico (gramo) | 1,4475 |
 | AEAG3 | Equivalente proteico (gramo) | 1,2522 |
@@ -43,6 +47,10 @@
 | AMAA2 | Equivalente proteico (gramo) | 1,4262 |
 | AMAA3 | Equivalente proteico (gramo) | 1,1440 |
 | AMAA4 | Equivalente proteico (gramo) | 1,3500 |
+| AMAB1 | Gramo de proteína/equivalente proteico | 0,8119 |
+| AMAB2 | Gramo de proteína/equivalente proteico | 1,3549 |
+| AMAB3 | Gramo de proteína/equivalente proteico | 1,0868 |
+| AMAB4 | Gramo de proteína/equivalente proteico | 1,2825 |
 | ASPR1 | Kilocaloría | 0,0158 |
 | CELE1 | Kilocaloría | 0,0232 |
 | CELE3 | Kilocaloría | 0,0195 |
@@ -93,7 +101,7 @@
 | MHID2 | Gramo de fructosa | 0,0378 |
 | MHID3 | Gramo de D-manosa | 0,5932 |
 | MHID4 | Gramo de D-ribosa | 0,8128 |
-| MHID5 | Gramo de almidón de maíz modificado rico en amilopectina | 0,0428 |
+| MHID5 | Gramo de almidón de maíz modificado rico en amilopectina | 0,0708 |
 | MLLC1 | Mililitro de producto | 0,2706 |
 | MLLC2 | Mililitro de producto | 0,0453 |
 | MLLC3 | Mililitro de producto | 0,8398 |
@@ -118,6 +126,8 @@
 | MPAA16 | Gramo de L-serina. | 0,6701 |
 | MPEN1 | Gramo de proteína | 0,0828 |
 | MPPE1 | Gramo de equivalente proteico | 0,1381 |
+
+> Se modifica por el art. único.4 y 5 de la Orden SCB/1242/2018, de 19 de noviembre. Ref. BOE-A-2018-16080
 
 > Se modifica por el art. 2.2 de la Orden SSI/366/2018, de 5 de abril. Ref. BOE-A-2018-4786
 

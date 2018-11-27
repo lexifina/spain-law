@@ -100,37 +100,47 @@ b) Hidratos de carbono y lípidos según normativa vigente (Real Decreto 867/200
 
 3.2.1 Fórmulas exentas de proteínas (AS): Fórmulas exentas de proteínas (ASPR): Compuestas por hidratos de carbono, lípidos y micronutrientes, sin proteínas. Están indicadas para la suplementación de dietas hipoproteicas en trastornos metabólicos congénitos de los aminoácidos.
 
-3.2.2 Fórmulas exentas o limitadas en algún aminoácido esencial: Son fórmulas incompletas, pues carecen o tienen reducido el contenido, de uno o varios aminoácidos esenciales, siendo este rasgo el que tipifica los diferentes tipos de productos. En todos estos tipos el componente nitrogenado lo forman mezclas de aminoácidos, pudiendo llevar en su composición además, otros macronutrientes (lípidos y carbohidratos o bien sólo carbohidratos) acompañados, o no, de micronutrientes.
+3.2.2 Fórmulas exentas, fórmulas de bajo contenido o fórmulas limitadas en algún aminoácido esencial: son fórmulas incompletas, pues carecen o tienen reducido el contenido, de uno o varios aminoácidos esenciales, siendo este rasgo el que tipifica los diferentes tipos de productos.
 
-Las fórmulas de bajo contenido en algún aminoácido son aquellas en las que el contenido de éste es inferior al aporte mínimo diario que se considera necesario de ese aminoácido.
+El componente nitrogenado de estas fórmulas, en general, se caracteriza por ser mezclas de aminoácidos.
+
+Se consideran exentas cuando carecen de uno o varios aminoácidos esenciales y de bajo contenido en algún aminoácido esencial cuando el contenido de este es inferior al aporte mínimo diario que se considera necesario de ese aminoácido.
+
+En las fórmulas para el tratamiento de las hiperfenilalaninemias y de los diferentes trastornos metabólicos de la tirosina, el componente nitrogenado puede estar formado además de por aminoácidos, por proteínas o macropéptidos exentos de fenilalanina y tirosina, en cuyo caso pueden contener trazas de estos dos aminoácidos derivadas exclusivamente del proceso de obtención de la materia prima, por lo que se clasifican como limitadas en el aminoácido correspondiente.
+
+Además del componente nitrogenado, estas fórmulas pueden llevar en su composición otros macronutrientes acompañados, o no, de micronutrientes.
 
 Las fórmulas con mezclas de macro y micronutrientes a excepción del/los aminoácido/s eliminados o limitados deberán contener todos los nutrientes para el rango de edad para el que están indicadas (fórmulas de lactantes, fórmulas hasta los 3 años, fórmulas para edades superiores).
 
 Dentro de este grupo se distinguen:
 
-a) Fórmulas exentas o limitadas en algún aminoácido esencial (AE):
+a) Fórmulas exentas, de bajo contenido o limitadas en algún aminoácido esencial (AE):
 
-Según el aminoácido eliminado o limitado, estas fórmulas se pueden clasificar en los siguientes tipos:
+Según el aminoácido eliminado, de bajo contenido o limitado, estas fórmulas se pueden clasificar en los siguientes tipos:
 
-a.1 Fórmulas exentas de fenilalanina (AEAA): Para el tratamiento de las hiperfenilalaninemias (varios defectos).
+a.1 Fórmulas de aminoácidos exentas de fenilalanina (AEAA): para el tratamiento de las hiperfenilalaninemias (varios defectos).
 
-a.2 Fórmulas exentas de metionina (AEAC): Para el tratamiento de la homocistinuria.
+a.2 Fórmulas de aminoácidos y proteínas o macropéptidos limitadas en fenilalanina (AEAF): para el tratamiento de las hiperfenilalaninemias (varios defectos). Pueden contener como máximo 1,8 milígramos de fenilalanina por gramo de equivalente proteico.
 
-a.3 Fórmulas exentas de metionina, treonina, valina y de bajo contenido en isoleucina (AEAD): Para el tratamiento de las alteraciones de la 5-tetrahidrofolato-transferasa con aciduria metilmalónica y en las acidemias propiónica y metilmalónica.
+a.3 Fórmulas exentas de metionina (AEAC): para el tratamiento de la homocistinuria.
 
-a.4 Fórmulas exentas de isoleucina, metionina, treonina y valina (AEAI): Para el tratamiento de las alteraciones de la 5-tetrahidrofolato-transferasa con aciduria metilmalónica y en las acidemias propiónica y metilmalónica.
+a.4 Fórmulas exentas de metionina, treonina, valina y de bajo contenido en isoleucina (AEAD): para el tratamiento de las alteraciones de la 5-tetrahidrofolato-transferasa con aciduria metilmalónica y en las acidemias propiónica y metilmalónica.
 
-a.5 Fórmulas exentas de isoleucina, leucina y valina (AEAG): Para el tratamiento de la enfermedad de jarabe de arce.
+a.5 Fórmulas exentas de isoleucina, metionina, treonina y valina (AEAI): para el tratamiento de las alteraciones de la 5-tetrahidrofolato-transferasa con aciduria metilmalónica y en las acidemias propiónica y metilmalónica.
 
-a.6 Fórmulas exentas de leucina (AEAH): Para el tratamiento de varios defectos del metabolismo de la leucina.
+a.6 Fórmulas exentas de isoleucina, leucina y valina (AEAG): para el tratamiento de la enfermedad de jarabe de arce.
 
-a.7 Fórmulas exentas de lisina y de bajo contenido en triptófano (AEAK): Para el tratamiento de la aciduria glutárica tipo I.
+a.7 Fórmulas exentas de leucina (AEAH): para el tratamiento de varios defectos del metabolismo de la leucina.
 
-a.8 Fórmulas exentas de lisina (AEAL): Para el tratamiento de la hiperlisinemia por deficiencia de la proteina bifuncional 2-aminoadípico-semialdehido-sintasa.
+a.8 Fórmulas exentas de lisina y de bajo contenido en triptófano (AEAK): para el tratamiento de la aciduria glutárica tipo I.
 
-b) Fórmulas exentas de algún aminoácido esencial y no esencial (AM):
+a.9 Fórmulas exentas de lisina (AEAL): para el tratamiento de la hiperlisinemia por deficiencia de la proteína bifuncional 2-aminoadípico-semialdehido-sintasa.
 
-Fórmulas exentas de fenilalanina y tirosina (AMAA): Están indicadas para el tratamiento de los diferentes trastornos metabólicos de la tirosina (varios defectos).
+b) Fórmulas exentas o limitadas en algún aminoácido esencial y no esencial (AM):
+
+b.1 Fórmulas de aminoácidos exentas de fenilalanina y tirosina (AMAA): están indicadas para el tratamiento de los diferentes trastornos metabólicos de la tirosina (varios defectos).
+
+b.2 Fórmulas de aminoácidos y proteínas o macropéptidos limitadas en fenilalanina y tirosina (AMAB): están indicadas para el tratamiento de los diferentes trastornos metabólicos de la tirosina (varios defectos). Pueden contener como máximo 1,8 milígramos de fenilalanina por gramo de equivalente proteico y 0,6 milígramos de tirosina por gramo de equivalente proteico.
 
 3.2.3. Fórmulas con aporte proteico exclusivo de aminoácidos esenciales (AC): Fórmulas de aminoácidos esenciales (ACAE): Son productos en los que el componente proteico lo forman exclusivamente aminoácidos esenciales o condicionalmente esenciales, llevando en su composición además, otros macronutrientes acompañados, o no, de micronutrientes. Están indicadas para el tratamiento de las hiperornitinemias y defectos del ciclo de la urea.
 
@@ -165,5 +175,7 @@ c) Módulos de aminoácidos (MPAA): Están compuestos por uno o varios aminoáci
 4.4. Módulos mixtos (MM): Módulos hidrocarbonados y lipídicos (MMHL): Están compuestos por hidratos de carbono y lípidos. Están indicados en la suplementación de dietas hipoproteicas en trastornos metabólicos congénitos de los aminoácidos y para aumentar el contenido calórico de la dieta.
 
 4.5. Módulos espesantes (ME): Módulos espesantes (MESP): Son productos con capacidad de espesar compuestos por almidones modificados o gomas, acompañados o no de maltodextrinas. Su presentación es en forma de polvo y su sabor es neutro. Están destinados exclusivamente a aumentar la consistencia de los alimentos líquidos en enfermos con disfagia neurológica, o excepcionalmente motora, con el fin de tratar de evitar o retrasar el empleo de sonda nasoentérica o gastrostomía, cuando dichos enfermos tienen posibilidad de ingerir alimentos sólidos sin riesgo de aspiración, pero sufren aspiración o corren riesgo de sufrirla, si ingieren alimentos líquidos, que no pueden ser espesados con alternativas de consumo ordinario.
+
+> Se modifica el punto 3.2.2 por el art. único.3 de la Orden SCB/1242/2018, de 19 de noviembre. Ref. BOE-A-2018-16080
 
 > Se modifican los puntos 3.2.3 y 4.5 por el art. 2.2 de la Orden SSI/1329/2014, de 22 de julio. Ref. BOE-A-2014-7879.
