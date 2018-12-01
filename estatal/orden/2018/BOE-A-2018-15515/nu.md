@@ -1,0 +1,5 @@
+## Disposición transitoria única. Despacho de producción en el territorio no peninsular de Illes Balears ante la indisponibilidad de conexión eléctrica entre islas.
+
+En tanto no esté disponible una conexión eléctrica entre las islas de Mallorca y Menorca, el despacho de producción en el territorio no peninsular de Illes Balears se realizará considerando dos sistemas eléctricos aislados, uno constituido por las islas de Mallorca-Ibiza-Formentera, y otro por la isla de Menorca.
+
+El despacho de producción en el territorio no peninsular de Illes Balears se realizará considerando un único sistema eléctrico que incluya las islas de Mallorca-Menorca-Ibiza-Formentera desde el primer día del mes siguiente a la fecha de acta de puesta en servicio de la nueva conexión entre las islas de Mallorca y Menorca, o bien el primer día del mes siguiente a la fecha de la comunicación del restablecimiento de dicha conexión eléctrica al Ministerio para la Transición Ecológica por parte del operador del sistema.
