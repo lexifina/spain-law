@@ -1,0 +1,11 @@
+## Disposición adicional primera. Formato de los documentos y utilización de medios electrónicos.
+
+Uno. En el Portal del Catastro se publicarán el formato, las normas de digitalización y los requisitos técnicos de los documentos gráficos y alfanuméricos a que se refiere la presente orden.
+
+Dos. El plano de emplazamiento de la construcción a que se refiere esta orden deberá representar la superficie de suelo ocupada por la edificación o instalación con expresión de la parcela o parcelas catastrales donde se ubique. Dicho plano deberá estar preferentemente georreferenciado y representado sobre la cartografía catastral obtenida de la Sede Electrónica de la Dirección General del Catastro, o mediante el servicio que se encuentre disponible en la misma para la representación gráfica de los edificios.
+
+Los planos o los croquis de los edificios o construcciones, a que se refiere la presente orden, deberán estar realizados a escala, reflejar las cotas necesarias para realizar el cálculo de superficies y contendrán, en su caso, la información gráfica relativa a la planta general y a cada planta del edificio con distribución diferenciada, con representación de cada uno de los locales con uso distinto (tales como vivienda, garaje, trastero o elementos comunes del inmueble). Así mismo, cuando proceda, contendrá la información gráfica de la parte de cada planta afectada por la alteración de que se trate.
+
+Dichos planos deberán elaborarse preferentemente sobre el croquis catastral de planta existente en la Sede Electrónica de la Dirección General del Catastro o en el formato electrónico definido en la misma.
+
+Tres. La Dirección General del Catastro podrá realizar avisos o comunicaciones a los interesados utilizando el correo electrónico, el teléfono móvil, dispositivo electrónico o cualquier otro medio de comunicación electrónica que hagan constar los interesados en las declaraciones catastrales, en otras declaraciones tributarias o que consten en los registros administrativos de contactos electrónicos que se constituyan. En dichas comunicaciones se podrá incluir una clave concertada, a los efectos de que el interesado pueda comparecer en la Sede Electrónica de la Dirección General del Catastro, de acuerdo con lo dispuesto en el texto refundido de la Ley del Catastro Inmobiliario.

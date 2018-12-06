@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Remisión de información por notarios y registradores de la propiedad.
+
+La remisión de información que deben realizar los notarios y registradores de la propiedad, en virtud de lo dispuesto en los artículos 14.a) y c) y 36.2 del citado texto refundido de la Ley del Catastro Inmobiliario, se regirá por las resoluciones específicas que se dicten en su desarrollo.
+
+Los notarios y registradores, a petición de los obligados a presentar declaraciones, podrán presentar las declaraciones catastrales correspondientes a aquellas alteraciones inmobiliarias de las que tengan conocimiento como consecuencia de los documentos que otorguen o inscriban, cuando no sean objeto del procedimiento de comunicación, actuando como mandatarios de los obligados tributarios, conforme a los requisitos técnicos que se establezcan, de acuerdo con lo dispuesto en el artículo 92 de la Ley General Tributaria. Las declaraciones catastrales que se presenten, deberán remitirse, en todo caso, a través de la Sede Electrónica de la Dirección General del Catastro, junto con la documentación correspondiente debidamente digitalizada.

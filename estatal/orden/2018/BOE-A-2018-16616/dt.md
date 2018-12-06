@@ -1,0 +1,5 @@
+## Disposición transitoria única. Adaptación de los convenios vigentes para la tramitación de declaraciones catastrales.
+
+Los convenios vigentes suscritos con las Entidades locales y demás Administraciones públicas para la tramitación de los expedientes de declaración formulados en alguno de los modelos de declaración aprobados por la Orden EHA/3482/2006, de 19 de octubre, permanecerán vigentes, siempre que cumplan con lo previsto en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y se entenderán referidos al modelo único de declaración catastral contenido en la presente orden y al mismo tipo de alteraciones catastrales que hubieran sido objeto del convenio.
+
+Las declaraciones catastrales que se presenten en los Ayuntamientos o en otras Entidades locales en virtud de los mencionados convenios de colaboración vigentes a la entrada en vigor de la presente orden, podrán seguir formalizándose en impresos elaborados por las citadas entidades, siempre que se ajusten a la estructura y contenido del modelo que se aprueba en la presente orden.
