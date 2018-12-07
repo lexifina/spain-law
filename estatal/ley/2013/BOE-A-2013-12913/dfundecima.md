@@ -1,7 +1,7 @@
 ## Disposición final undécima. Entrada en vigor en relación con la normativa autonómica de desarrollo.
 
-Sin perjuicio de su aplicación a las evaluaciones ambientales competencia de la Administración General del Estado desde el momento de su entrada en vigor, a efectos de los dispuesto en las disposiciones derogatoria y finales séptima y novena, y de la aplicación de la presente Ley como legislación básica, las Comunidades Autónomas que dispongan de legislación propia en materia de evaluación ambiental deberán adaptarla a lo dispuesto en esta Ley en el plazo de un año desde su entrada en vigor, momento en el que, en cualquier caso, serán aplicables los artículos de esta Ley, salvo los no básicos, a todas las Comunidades Autónomas. No obstante, las Comunidades Autónomas podrán optar por realizar una remisión en bloque a esta ley, que resultará de aplicación en su ámbito territorial como legislación básica y supletoria.
+(Suprimida)
 
-> Se declara la inconstitucional y nulidad del inciso destacado, por Sentencia del TC 53/2017, de 11 de mayo. Ref. BOE-A-2017-6849
+> Se elimina por el art. único.39 de la Ley 9/2018, de 5 de diciembre. Ref. BOE-A-2018-16674#au
 
 > Se declara la inconstitucional y nulidad del inciso destacado, por Sentencia del TC 53/2017, de 11 de mayo. Ref. BOE-A-2017-6849
