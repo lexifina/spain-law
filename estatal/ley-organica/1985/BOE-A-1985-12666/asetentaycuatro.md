@@ -22,6 +22,8 @@ i) Los actos y resoluciones dictados por órganos de la Administración General 
 
 j) Cualesquiera otras actuaciones administrativas no atribuidas expresamente a la competencia de otros órganos de este orden jurisdiccional.
 
+k) De la solicitud de autorización para la declaración prevista en la disposición adicional quinta de la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales, cuando tal solicitud sea formulada por la autoridad de protección de datos de la Comunidad Autónoma respectiva.
+
 2. Conocerán, en segunda instancia, de las apelaciones promovidas contra sentencias y autos dictados por los Juzgados de lo Contencioso-administrativo y de los correspondientes recursos de queja.
 
 3. También les corresponde, con arreglo a lo establecido en esta Ley, el conocimiento de los recursos de revisión contra las sentencias firmes de los Juzgados de lo Contencioso-administrativo.
@@ -31,5 +33,9 @@ j) Cualesquiera otras actuaciones administrativas no atribuidas expresamente a l
 5. Conocerán del recurso de casación para la unificación de doctrina en los casos previstos en la Ley reguladora de la Jurisdicción Contencioso-administrativa.
 
 6. Conocerán del recurso de casación en interés de la Ley en los casos previstos en la Ley reguladora de la Jurisdicción Contencioso-administrativa.
+
+7. Corresponde a las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia autorizar, mediante auto, el requerimiento de información por parte de autoridades autonómicas de protección de datos a los operadores que presten servicios de comunicaciones electrónicas disponibles al público y de los prestadores de servicios de la sociedad de la información, cuando ello sea necesario de acuerdo con la legislación específica.
+
+> Se añade la letra k) al apartado 1 y el apartado 7 por la disposición final 4.3 de la Ley Orgánica 3/2018, de 5 de diciembre. Ref. BOE-A-2018-16673#df-4
 
 > Se modifica por el art. único.5 de la Ley Orgánica 6/1998, de 13 de julio. Ref. BOE-A-1998-16712

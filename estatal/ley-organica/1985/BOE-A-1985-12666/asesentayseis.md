@@ -12,6 +12,10 @@ d) De los recursos no atribuidos a los Tribunales Superiores de Justicia en rela
 
 e) De las cuestiones de competencia que se puedan plantear entre los Juzgados Centrales de lo Contencioso-Administrativo y de aquellos otros recursos que excepcionalmente le atribuya la ley.
 
+f) De la solicitud de autorización para la declaración prevista en la disposición adicional quinta de la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales, cuando tal solicitud sea formulada por la Agencia Española de Protección de Datos.
+
+> Se añade la letra f) por la disposición final 4.2 de la Ley Orgánica 3/2018, de 5 de diciembre. Ref. BOE-A-2018-16673#df-4
+
 > Se modifica por el art. 1 de la Ley Orgánica 4/2003, de 21 de mayo. Ref. BOE-A-2003-10287
 
 > Se modifica por el art. único.4 de la Ley Orgánica 6/1998, de 13 de julio. Ref. BOE-A-1998-16712

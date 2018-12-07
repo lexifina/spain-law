@@ -12,6 +12,10 @@
 
 6. Igualmente conocerán los Juzgados Centrales de lo Contencioso Administrativo del procedimiento previsto en el artículo 12 bis de la Ley Orgánica 6/2002, de 27 de junio, de Partidos Políticos.
 
+7. Corresponde a los Juzgados Centrales de lo Contencioso-administrativo autorizar, mediante auto, el requerimiento de información por parte de la Agencia Española de Protección de Datos y otras autoridades administrativas independientes de ámbito estatal a los operadores que presten servicios de comunicaciones electrónicas disponibles al público y de los prestadores de servicios de la sociedad de la información, cuando ello sea necesario de acuerdo con la legislación específica.
+
+> Se añade el apartado 7 por la disposición final 4.4 de la Ley Orgánica 3/2018, de 5 de diciembre. Ref. BOE-A-2018-16673#df-4
+
 > Se añade el apartado 6 por la disposición final 1 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
 
 > Se añade el apartado 5 por el art. 3 de la Ley Orgánica 4/2011, de 11 de marzo. Ref. BOE-A-2011-4551.

@@ -145,6 +145,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo ciento cuatro](acientocuatro.md)
 - [CAPÍTULO II](cii-5.md)
 - [Artículo ciento cinco](acientocinco.md)
+- [CAPÍTULO II](ci-6.md)
+- [Artículo ciento cinco bis.](ac.md)
 - [CAPÍTULO II](cii-6.md)
 - [Artículos ciento seis a ciento diez](ascientoseisacientodiez.md)
 - [Artículo ciento seis](acientoseis.md)
