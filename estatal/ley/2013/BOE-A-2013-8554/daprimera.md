@@ -28,7 +28,7 @@ c) (Anulada)
 
 d) Iniciar e instruir, de acuerdo a su propio régimen, los expedientes sancionadores por incumplimientos en el pago de las aportaciones obligatorias a las organizaciones interprofesionales o de productores, reconocidas por el Ministerio de Agricultura, Alimentación y Medio Ambiente en los productos o sectores a que se refiere la letra a), formulando a las autoridades competentes las propuestas de resolución que correspondan.
 
-e) (Anulada)
+e) Establecer y desarrollar, en el ámbito de las competencias que tiene atribuidas por esta ley la Administración General del Estado, el régimen de control necesario para comprobar el cumplimiento de lo dispuesto en la misma.
 
 f) Realizar las comprobaciones que corresponda de las denuncias por incumplimientos de lo dispuesto en esta ley que les sean presentadas e instruir el correspondiente procedimiento sancionador para formular la propuesta de resolución que proceda a la autoridad competente del Ministerio de Agricultura, Alimentación y Medio Ambiente, o trasladarlas a la Comisión Nacional de la Competencia junto con las actuaciones realizadas.
 
@@ -101,6 +101,8 @@ f) Cuantía de la tasa. La cuantía de la tasa se calculará aplicando a la base
 g) Gestión y liquidación. La Agencia liquidará la tasa, cuya orden de pago se notificará al sujeto pasivo para que su ingreso se realice en los plazos establecidos en el apartado 2 del artículo 62 de la Ley General Tributaria. En su defecto se procederá a su recaudación ejecutiva, en los términos que establece el Reglamento General de Recaudación. Reglamentariamente se establecerá la gestión de la tasa.
 
 h) Afectación presupuestaria. El importe de lo recaudado por esta tasa constituye un recurso propio de la Agencia y se ingresará en su presupuesto.
+
+> Se modifica el apartado 6.e) por la disposición final 1 del Real Decreto-ley 20/2018, de 7 de diciembre. Ref. BOE-A-2018-16791#df
 
 > Se declara la inconstitucionalidad y nulidad de las letras b), c) y e) del apartado 6 y la constitucionalidad de la letra g), siempre que se interprete en los términos establecidos en el fundamento jurídico 6, por Sentencia del TC 66/2017, de 25 de mayo. Ref. BOE-A-2017-7642
 
