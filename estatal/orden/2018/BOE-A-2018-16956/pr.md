@@ -1,0 +1,31 @@
+La Directiva 2009/28/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009, relativa al fomento del uso de energía procedente de fuentes renovables, fija como objetivos generales mínimos conseguir una cuota del 20 % de energía procedente de fuentes renovables en el consumo final bruto de energía de la Unión Europea (UE) para el año 2020.
+
+La demanda eléctrica se cubre mayoritariamente con tecnologías térmicas de origen fósil, siendo la participación de las fuentes de energía renovables aún modesta. Mientras que en el sistema peninsular el porcentaje de producción de energía eléctrica a partir de fuentes de energía renovables se sitúo en 2016 en el 40,2 %, en los territorios no peninsulares este porcentaje se situó en el entorno del 6 %.
+
+Los sistemas eléctricos de los territorios no peninsulares están sujetos, de acuerdo con lo previsto en el artículo 10 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, a una reglamentación singular que atiende a las especificidades derivadas de su ubicación territorial. Conforme establece la disposición adicional decimoquinta de la Ley 24/2013, de 26 de diciembre, los extracostes derivados de la actividad de producción de energía eléctrica cuando se desarrollen en los sistemas eléctricos aislados de los territorios no peninsulares serán financiados en 50 % entre los contribuyentes a través de los Presupuestos Generales del Estado. El otro 50 % se sufragará a través de los peajes. De esta manera se garantiza el principio de igualdad entre los consumidores en el pago del precio de la electricidad independientemente de su ubicación geográfica.
+
+En esta situación, resulta conveniente integrar una mayor tasa de generación eléctrica de origen renovable en condiciones de seguridad, con el objetivo de reducir los costes de generación de estos sistemas y avanzar tanto en la diversificación de las fuentes de energía primaria como en la reducción de la dependencia energética y de emisiones de CO2.
+
+Por otra parte, el Acuerdo de Asociación de España 2014-2020, aprobado por la Comisión Europea el 4 de noviembre de 2014, expone la estrategia y prioridades de inversión de los Fondos de la Política de Cohesión, entre ellos, el fondo europeo de desarrollo regional o fondo FEDER, para el período 2014-2020.
+
+Los Programas Operativos elaborados por el Gobierno en colaboración con los distintos agentes implicados, implementan el Acuerdo de Asociación, definiendo los objetivos de inversión de acuerdo con los planes existentes.
+
+En particular, el Programa Operativo FEDER de Crecimiento Sostenible 2014-2020 (POCS), aprobado por decisión de 22 de julio de 2015, e integrado posteriormente en el Programa Plurirregional de España (POPE), incluye entre sus ejes prioritarios, la transición a una economía baja en carbono en todos los sectores.
+
+El Eje de economía baja en carbono en todos los sectores hace frente a distintos retos, entre los que se contempla, como uno de sus objetivos específicos, el aumentar la proporción en el consumo final de energía de las fuentes renovables para producción de electricidad.
+
+Por los motivos anteriormente descritos, se considera necesaria la aplicación de los fondos FEDER para cofinanciar inversiones en futuras instalaciones de generación de energía eléctrica a partir de fuentes renovables en territorios no peninsulares contribuyendo a los objetivos citados de reducción de los costes de generación, diversificación de las fuentes de energía primaria y reducción de dependencia energética.
+
+En consecuencia, como instrumento necesario para articular el desarrollo de fuentes de energía renovables en los territorios no peninsulares, se pretende desarrollar procedimientos de asignación de ayudas que permitan maximizar la ejecución de los fondos FEDER que se asignen, junto con el impacto fiscal favorable en los Presupuestos Generales del Estado que conlleva la implantación de esas fuentes de energía en los territorios no peninsulares.
+
+El fundamento legal se encuentra en la disposición adicional centésima trigésima octava de la Ley 6/2018, de 3 de julio, de Presupuestos Generales del Estado para el año 2018, relativa a la convocatoria de ayudas a la inversión para instalaciones de producción de energía eléctrica a partir de fuentes de energía renovables, que dispone:
+
+«Uno. Con efectos para el presupuesto 2018, se podrán convocar procedimientos para la concesión de ayudas a la inversión para instalaciones de producción de energía eléctrica a partir de fuentes de energía renovables conectadas al sistema eléctrico, con cargo al superávit eléctrico generado hasta la entrada en vigor de la presente Ley, en proyectos susceptibles de ser cofinanciados con Fondos FEDER. La cuantía máxima con cargo al sistema eléctrico será de 60 millones de euros.
+
+Dos. Se habilita al Ministro de Energía, Turismo y Agenda Digital, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, a establecer las disposiciones necesarias en la aplicación y control de dicho sistema de ayudas, en relación con las instalaciones de producción de energía eléctrica a partir de fuentes de energía renovables conectadas al sistema eléctrico.»
+
+En ejercicio de la habilitación establecida en la referida disposición legal, la presente orden tiene por objeto establecer las disposiciones necesarias para diseñar un sistema de ayudas a las instalaciones de producción de energía eléctrica a partir de fuentes renovables; identificar al gestor de dicho sistema de ayudas y proveer a dicho gestor de los recursos necesarios para proporcionar las ayudas, con una financiación inicial procedente del superávit eléctrico por un importe máximo de 60 millones de euros.
+
+En consecuencia, se realizarán convocatorias de ayudas en régimen de concurrencia competitiva, con cargo al superávit eléctrico, junto con la posibilidad de incrementar la cuantía de la convocatoria con otros créditos disponibles del presupuesto de gastos del Ministerio para la Transición Ecológica y de la cofinanciación de los Fondos Comunitarios FEDER con cargo al presupuesto destinado al Eje 4 de Transición a una Economía Baja en Carbono del POPE.
+
+En su virtud, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos de 5 de diciembre de 2018, resuelvo:
