@@ -1,0 +1,5 @@
+## Disposición adicional única. Comunicación sobre la aplicación de herramientas macroprudenciales a la autoridad macroprudencial.
+
+1. Son herramientas macroprudenciales aquellas destinadas a prevenir riesgos sistémicos y a procurar una contribución sostenible del sistema financiero al crecimiento económico. Se entenderá por riesgo sistémico aquel que pueda generar una perturbación en los mercados de servicios financieros con impacto potencial negativo sobre la economía real.
+
+2. Cuando el Banco de España, la CNMV o la Dirección General de Seguros y Fondos de Pensiones prevean adoptar herramientas de carácter macroprudencial, deberán comunicarlo a la autoridad macroprudencial con una antelación de al menos siete días hábiles respecto del momento en que se comuniquen al público y a los afectados. Dicho plazo podrá reducirse cuando las circunstancias de mercado así lo aconsejen o cuando para garantizar la eficacia de la medida se requiera su aplicación inmediata. En estos casos, la comunicación deberá justificar el carácter urgente de la medida.

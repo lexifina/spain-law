@@ -338,6 +338,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO I](ci-7.md)
 - [Artículo 233](a233.md)
 - [Artículo 234](a234.md)
+- [Artículo 234 bis](a2-19.md)
 - [Artículo 235](a235.md)
 - [Artículo 236](a236.md)
 - [Artículo 237](a237.md)

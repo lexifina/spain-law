@@ -175,6 +175,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 116](a116.md)
 - [CAPÍTULO II](cii-5.md)
 - [Artículo 117](a117.md)
+- [Artículo 117 bis](ab.md)
 - [CAPÍTULO III](ciii-3.md)
 - [Artículo 118](a118.md)
 - [Artículo 119](a119.md)
