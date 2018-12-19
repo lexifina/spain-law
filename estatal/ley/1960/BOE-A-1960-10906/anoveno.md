@@ -18,9 +18,9 @@ El adquirente de una vivienda o local en régimen de propiedad horizontal, inclu
 
 En el instrumento público mediante el que se transmita, por cualquier título, la vivienda o local el transmitente, deberá declarar hallarse al corriente en el pago de los gastos generales de la comunidad de propietarios o expresar los que adeude. El transmitente deberá aportar en este momento certificación sobre el estado de deudas con la comunidad coincidente con su declaración, sin la cual no podrá autorizarse el otorgamiento del documento público, salvo que fuese expresamente exonerado de esta obligación por el adquirente. La certificación será emitida en el plazo máximo de siete días naturales desde su solicitud por quien ejerza las funciones de secretario, con el visto bueno del presidente, quienes responderán, en caso de culpa o negligencia, de la exactitud de los datos consignados en la misma y de los perjuicios causados por el retraso en su emisión.
 
-f) Contribuir, con arreglo a su respectiva cuota de participación, a la dotación del fondo de reserva que existirá en la comunidad de propietarios para atender las obras de conservación y reparación de la finca y, en su caso, para las obras de rehabilitación.
+f) Contribuir, con arreglo a su respectiva cuota de participación, a la dotación del fondo de reserva que existirá en la comunidad de propietarios para atender las obras de conservación y reparación de la finca, así como la realización de las obras de accesibilidad recogidas en el artículo Diez.1.b) de esta Ley.
 
-El fondo de reserva, cuya titularidad corresponde a todos los efectos a la comunidad, estará dotado con una cantidad que en ningún caso podrá ser inferior al 5 por ciento de su último presupuesto ordinario.
+El fondo de reserva, cuya titularidad corresponde a todos los efectos a la comunidad, estará dotado con una cantidad que en ningún caso podrá ser inferior al 10 por ciento de su último presupuesto ordinario.
 
 Con cargo al fondo de reserva la comunidad podrá suscribir un contrato de seguro que cubra los daños causados en la finca o bien concluir un contrato de mantenimiento permanente del inmueble y sus instalaciones generales.
 
@@ -37,6 +37,10 @@ Quien incumpliere esta obligación seguirá respondiendo de las deudas con la co
 Lo dispuesto en el párrafo anterior no será de aplicación cuando cualquiera de los órganos de gobierno establecidos en el artículo 13 haya tenido conocimiento del cambio de titularidad de la vivienda o local por cualquier otro medio o por actos concluyentes del nuevo propietario, o bien cuando dicha transmisión resulte notoria.
 
 2. Para la aplicación de las reglas del apartado anterior se reputarán generales los gastos que no sean imputables a uno o varios pisos o locales, sin que la no utilización de un servicio exima del cumplimiento de las obligaciones correspondientes, sin perjuicio de lo establecido en el artículo 17.4.
+
+> Se modifica la letra f) del apartado 1 por el art. 2.1 del Real Decreto-ley 21/2018, de 14 de diciembre. Ref. BOE-A-2018-17293#as
+
+> Téngase en cuenta para su aplicación la disposición transitoria segunda del citado Real Decreto-ley.
 
 > Se modifican las letras letras c), e) y f) del apartado 1 y el apartado 2 por la disposición final 1.3 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
 
