@@ -34,6 +34,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Sección quinta](sq.md)
 - [Decimoséptimo](decimoseptimo.md)
 - [Decimoctavo](de.md)
+- [Decimoctavo bis](db.md)
 - [Decimonoveno](decimonoveno.md)
 - [Vigésimo](vigesimo.md)
 - [Sección sexta](ss-2.md)

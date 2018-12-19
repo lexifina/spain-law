@@ -12,6 +12,8 @@
 
 1.3 Las solicitudes firmadas surtirán efectos una vez recibida la confirmación correspondiente al acto de la firma.
 
+A efectos de poder atender a lo dispuesto en el segundo párrafo del artículo 198.2 de la Ley de Contratos del Sector Público, las solicitudes, una vez firmadas por el usuario competente, permiten obtener un certificado justificativo de haber efectuado dicha solicitud.
+
 1.4 La firma electrónica de la solicitud por el usuario competente será una firma electrónica basada en certificado electrónico de los previstos en el artículo 21.a) y b) del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, y se ajustará a lo dispuesto en la Política de Firma Electrónica y Certificados de la Administración General del Estado, publicada mediante Resolución de 29 de noviembre de 2012, de la Secretaría de Estado de Administraciones Públicas, utilizando el estándar XAdES previsto en el misma.
 
 El certificado electrónico utilizado para la firma electrónica será uno de los admitidos por la plataforma de verificación establecida en el artículo 25.1 del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio.
@@ -23,3 +25,5 @@ El procedimiento de solicitud será el descrito en el punto anterior con las sig
 2.1 La solicitud se ajustará al modelo e instrucciones que se recogen en el anexo II de esta Resolución.
 
 2.2 El usuario competente para la firma de la solicitud o de la relación de solicitudes pendientes de firma será el personal de la Intervención con competencia para efectuar la firma electrónica.
+
+> Se modifica el punto 1.3 por el apartado primero.2 de la Resolución de 3 de diciembre de 2018. Ref. BOE-A-2018-17379
