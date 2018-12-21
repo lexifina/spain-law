@@ -56,7 +56,9 @@ xi. Día de gas portugués: Periodo de entrega de gas vigente para el sistema ga
 
 xii. Día hábil: Se entenderá cualquier día laborable de lunes a viernes en la plaza de Madrid (España), a excepción de los días 24 y 31 de diciembre.
 
-xiii. Día bancario: Se entiende por Día bancario cualquiera de los días no declarados inhábiles por el Banco de España.
+xiii. Día bancario: se entiende por día bancario cualquiera de los días no declarados inhábiles por el Banco de España; asimismo, excluye cualquier otro que siendo declarado hábil por el Banco de España, no sea operativo para la entidad bancaria responsable de realizar y gestionar los pagos del mercado.
+
+xiii bis. Entidad de Contrapartida Central: Es una entidad autorizada de acuerdo con el Reglamento (UE) Nº 648/2002 del Parlamento Europeo y del Consejo de 4 de julio de 2012, que se interpone en nombre propio en toda operación de compraventa entre el comprador y el vendedor, de tal manera que asume el riesgo de contrapartida. Esta entidad puede asumir también funciones de liquidación, cobros y pagos y gestión de garantías
 
 xiv. ERSE: Entidade Reguladora dos Servicios Energeticos.
 
@@ -80,13 +82,13 @@ xxiii. Mercado Continuo: Es uno de los dos tipos de negociación admitidos, cuya
 
 xxiv. MAOTE: Ministério do Ambiente, Ordenamento do Territorio e Energia.
 
-xxv. MINETUR: Ministerio de Industria, Energía y Turismo.
+xxv. MITECO: Ministerio para la Transición Ecológica.
 
 xxvi. NGGSG: Normas de Gestión de Garantías del Sistema Gasista.
 
 xxvii. NGTS: Normas de Gestión Técnica del Sistema Gasista Español.
 
-xxviii. Notificación: Información enviada por el Operador del Mercado a los Gestores Técnicos de las adquisiciones y cesiones de gas asociadas a las Transacciones efectuadas en el mercado con entrega el Día de gas siguiente, o, en el mismo día para el Producto Intradiario, no pudiendo ser rechazadas si han sido previamente prenotificadas.
+xxviii. Notificación: Información enviada por el Operador del Mercado a los Gestores Técnicos de las adquisiciones y cesiones de gas asociadas a las Transacciones efectuadas en el mercado con entrega el Día de gas siguiente, o, en el mismo día para el Producto Intradiario.
 
 xxix. Plataforma de Gestión de Garantías: Plataforma electrónica proporcionada y gestionada por el Gestor de Garantías por medio de la cual los titulares de Cuenta de Consolidación pueden formalizar garantías para cubrir sus obligaciones en el mercado.
 
@@ -100,9 +102,9 @@ xxxii. Plataforma del Mercado: Se compone de la Plataforma de Negociación y la 
 
 xxxiii. Prenotificación: Información enviada cada día por el Operador del Mercado a los Gestores Técnicos de las adquisiciones y cesiones de gas asociadas a las Transacciones llevadas a cabo en las Sesiones de Negociación de dicho día.
 
-xxxiv. Punto Virtual de Balance Español (PVB-ES): Punto de intercambio virtual de la red de transporte donde los usuarios pueden transferir la titularidad del gas como entrada o salida del mismo.
+xxxiv. Punto Virtual de Balance Español (PVB): Punto de intercambio virtual de la red de transporte donde los usuarios pueden transferir la titularidad del gas como entrada o salida del mismo.
 
-xxxv. Punto Virtual de Balance Portugués (PVB-PT): Punto Virtual del sistema de transporte y distribución portugués de realización de las Transacciones comerciales de Gas natural.
+xxxv. Punto Virtual de Negociación Portugués (VTP): Punto Virtual del sistema de transporte y distribución portugués de realización de las Transacciones comerciales de Gas natural.
 
 xxxvi. REMIT: Es el Reglamento (UE) nº 1227/2011, de 25 de octubre de 2011, sobre la integridad y la transparencia del mercado mayorista de la energía.
 
@@ -160,7 +162,7 @@ xv. Comunicar y poner a disposición de los Agentes los resultados económicos d
 
 xvi. Informar al Comité de Agentes del Mercado de las incidencias que hayan tenido lugar en el funcionamiento del mercado, respetando las obligaciones de confidencialidad establecidas en las presentes Reglas.
 
-xvii. Enviar a la plataforma de ACER la información requerida en REMIT que sea responsabilidad del Operador del Mercado, de acuerdo con la normativa aplicable.
+xvii. Facilitar el servicio de reporte a la plataforma de ACER de la información requerida en REMIT que sea responsabilidad del Operador del Mercado, de acuerdo con la normativa aplicable.
 
 xviii. Comunicar a las autoridades competentes los comportamientos contrarios al correcto funcionamiento del mercado, como la manipulación o tentativa de manipulación del mercado y la realización de operaciones con información privilegiada y de las situaciones que puedan resultar anómalas, siempre teniendo en cuenta la información a disposición del Operador del Mercado.
 
@@ -338,11 +340,11 @@ Se producirá la baja del Agente en caso de que se produzca alguna de las siguie
 
 i. A petición del Agente.
 
-ii. En caso de que haya cesado la habilitación del Agente para su participación en el mercado, según lo establecido en la Regla “Tipos de Agentes”.
+ii. En caso de que haya cesado la habilitación del Agente para su participación en el mercado, según lo establecido en la Regla “Sujetos que pueden adquirir la condición de Agentes”.
 
 iii. En caso de que el Agente haya dejado de ser Sujeto Habilitado.
 
-En el primer caso, antes de proceder a la baja, el Operador del Mercado se asegurará de que el Agente ha cerrado todas sus posiciones en el mercado y satisfecho todos los compromisos con el mercado.
+En el caso de la circunstancia i, antes de proceder a la baja, el Operador del Mercado se asegurará de que el Agente ha cerrado todas sus posiciones en el mercado y satisfecho todos los compromisos de cobros y pagos con el mercado.
 
 En el proceso de baja, el Operador del Mercado suspenderá todas las Carteras de Negociación del Agente en aplicación de la Regla “Suspensión de la Cartera de Negociación de un Agente”.
 
@@ -437,8 +439,6 @@ El GTS comunicará al Operador del Mercado, sin demora indebida, si existe algú
 3. Productos
 
 3.1 Principios generales.
-
-Los productos admitidos a negociación por el Operador del Mercado serán cantidades de gas a adquirir o entregar físicamente, y cuantos otros productos relativos a la cadena de suministro de gas se decida, en los términos previstos en el Real Decreto 984/2015, de 30 de octubre.
 
 Las especificaciones que pueden definir un producto son las siguientes:
 
@@ -544,11 +544,11 @@ Además, en la negociación en Mercado Continuo, a fin de simplificar el proceso
 
 4.3.4 Validación de ofertas.
 
-La valoración de las ofertas de compra y de venta a efecto de cálculo de garantías, se realizará conforme a las reglas de cálculo de garantías descritas en las Reglas y Resolución de Mercado.
+La valoración de las ofertas de compra y de venta a efectos de cálculo de garantías, se realizará conforme a las reglas de cálculo de garantías descritas en las Reglas y Resolución de Mercado correspondiente.
 
 Toda oferta recibida en la Plataforma de Negociación, previo a su incorporación en el Libro de Ofertas, estará sujeta a un proceso de validación, existiendo condiciones de aceptación de la oferta y condiciones de aviso al Agente.
 
-Las ofertas que no cumplan las condiciones de aceptación de la oferta serán rechazadas y no serán tenidas en cuenta.
+Las ofertas que no cumplan las condiciones de aceptación de la oferta serán rechazadas y no serán tenidas en cuenta en el proceso de negociación de ofertas.
 
 Se realizarán las siguientes validaciones de aceptación de la oferta:
 
@@ -556,17 +556,19 @@ i. La Sesión de Negociación está en un estado que permite la recepción de of
 
 ii. El Agente está facultado para presentar ofertas para el producto en el momento de validación de la misma.
 
-iii. El Agente ha sido habilitado como Sujeto Habilitado por el Gestor Técnico responsable del sistema gasista donde se realiza la entrega, y le ha autorizado para realizar transferencias de titularidad en todos los días del periodo de entrega del producto.
+iii. El Agente ha sido habilitado como Sujeto Habilitado por el Gestor Técnico responsable del sistema gasista donde se realiza la entrega, y ha sido autorizado para realizar transferencias de titularidad en todos los días del periodo de entrega del producto.
 
-iv. La oferta enviada debe ser compatible con la Cartera de Negociación con la que el Agente haya remitido dicha oferta.
+iv. La oferta debe ser compatible con la Cartera de Negociación con la que el Agente haya remitido dicha oferta.
 
-v. A su vez, la Cartera de Negociación no debe estar suspendida para esa Sesión de Negociación, ni estará suspendida en alguno de los días del periodo de entrega del producto ofertado.
+v. A su vez, la Cartera de Negociación no debe estar suspendida para esa Sesión de Negociación, ni tampoco en alguno de los días del periodo de entrega del producto ofertado.
 
 vi. Se verificará que el valor de la oferta no supera el correspondiente Límite Operativo de la Cuenta de Consolidación del Agente, al inicio de su negociación.
 
-vii. Se verificará que la oferta no puede casar con otra oferta del mismo Agente existente en el Libro de Ofertas según se describe en la Regla “Casación de Ofertas en Mercado Continuo”.
+vii. Se verificará que la oferta presentada no puede casar con otra oferta del mismo Agente existente en el Libro de Ofertas, según se describe en la Regla «Casación de Ofertas en Mercado Continuo».
 
-En las ofertas que no cumplan las condiciones de aviso al Agente se presentará un mensaje al Agente indicando el incumplimiento de la condición. Si el Agente, a pesar del aviso, opta por mandar la oferta, le aparecerá un nuevo mensaje indicándole la situación. Si tras estos dos avisos el Agente confirma el envío de la oferta, ésta continuará el proceso de validación, pudiendo finalmente ser enviada y aceptada si supera todas las validaciones.
+viii. Para ofertas enviadas a la negociación por subasta, se verificará que la oferta no es competitiva con ofertas preexistentes de sentido contrario del mismo Agente en el Libro de Ofertas para dicha sesión.
+
+En las ofertas que no cumplan las condiciones de aviso al Agente, se presentará un mensaje al Agente indicando el incumplimiento de la condición. Si el Agente, a pesar del aviso, opta por mandar la oferta, le aparecerá un nuevo mensaje indicándole la situación. Si tras estos dos avisos el Agente confirma el envío de la oferta, ésta continuará el proceso de validación, pudiendo finalmente ser enviada y aceptada si supera todas las validaciones.
 
 Se realizarán las siguientes validaciones de condiciones de aviso al Agente:
 
@@ -576,7 +578,7 @@ ii. A fin de evitar situaciones de riesgos excesivos o errores por parte de los 
 
 En el caso de las ofertas enviadas a sesiones futuras o que tienen la condición de permanencia en el Libro de Ofertas, el proceso de validación de ofertas será efectuado de nuevo antes del inicio de su negociación, con la información vigente en dicho momento. Las ofertas se validarán en el orden de precedencia establecido por el momento de su envío. En este proceso, en el caso de que una oferta no cumpliese las condiciones de aceptación, la oferta no se incorporará a la negociación y será eliminada del Libro de Ofertas.
 
-Los valores de los límites de cantidad y precio establecidos por el Operador del Mercado, así como la metodología de aplicación, tanto de dichos límites, como de los límites máximos definidos por el propio Agente, se establecerán en Resolución de Mercado.
+Los valores de los límites de cantidad y precio establecidos por el Operador del Mercado, así como la metodología de aplicación, tanto de dichos límites, como de los límites máximos definidos por el propio Agente, se establecerán en Resolución de Mercado correspondiente.
 
 Productos o tipos de ofertas específicos pueden requerir de validaciones adicionales que vendrán definidas en la Resolución de Mercado correspondiente.
 
@@ -764,9 +766,7 @@ Una vez que una oferta resulta casada, la transacción es firme, conllevando, si
 
 La transacción se entenderá perfeccionada en el momento de la casación y ejecutada en el momento de la notificación por parte del Operador del Mercado al correspondiente Gestor Técnico. La entrega en cada día de gas del producto se entenderá efectuada en el momento de la notificación.
 
-La transacción se prenotificará, a efectos informativos, al correspondiente Gestor Técnico el día que haya sido perfeccionada.
-
-En el caso de haber perdido la condición de sujeto habilitado en el momento de la Notificación, la entrega se entenderá no efectuada pero sí notificada, quedando sujeta a las normas de liquidación de desbalance y de las garantías del Mercado Organizado de Gas que se contemplen en las Reglas de Mercado y las NGGSG y a la Regla “Transacciones de venta no entregadas”. Las Transacciones del resto de los Agentes permanecerán inalteradas.
+La transacción se prenotificará, a efectos informativos, al correspondiente Gestor Técnico el día que haya sido perfeccionada. Para aquellas transacciones cuya notificación sea responsabilidad del Operador del Mercado, en el caso de haber perdido la condición de sujeto habilitado en el momento de la Notificación, la entrega se entenderá no efectuada pero sí notificada, quedando sujeta a las normas de liquidación de desbalance y de las garantías del Mercado Organizado de Gas que se contemplen en las Reglas de Mercado y las NGGSG y a la Regla “Transacciones de venta no entregadas”. Las Transacciones del resto de los Agentes permanecerán inalteradas.
 
 Los derechos de cobro correspondientes a una Transacción de venta de un producto no entregado quedarán a disposición del Operador del Mercado para atender posibles incumplimientos en el pago del sujeto o del titular de la Cuenta de Consolidación, tal y como se detalla en la Regla “Transacciones de venta no entregadas”.
 
@@ -860,7 +860,7 @@ El Operador del Mercado enviará cada día al correspondiente Gestor Técnico la
 
 En el caso de productos intradiarios el Operador del Mercado enviará al correspondiente Gestor Técnico las Notificaciones asociadas a las Transacciones llevadas a cabo con entrega en el sistema gasista de su responsabilidad.
 
-La pérdida de la habilitación de un sujeto para enviar Notificaciones desde el momento del perfeccionamiento de la Transacción hasta su Notificación, no podrá ser causa del rechazo de dicha Notificación.
+Para aquellas transacciones cuya notificación sea responsabilidad del Operador del Mercado, la pérdida de la habilitación de un sujeto para enviar Notificaciones desde el momento del perfeccionamiento de la Transacción hasta su Notificación, no podrá ser causa del rechazo de dicha Notificación.
 
 Los Agentes dispondrán en la Plataforma del Mercado de toda la información relativa a las Prenotificaciones y Notificaciones asociadas a sus Transacciones que han sido comunicadas por el Operador del Mercado a los Gestores Técnicos, a efectos de su comprobación y verificación.
 
@@ -984,6 +984,8 @@ Los derechos de cobro de las Transacciones de venta no entregadas, de acuerdo co
 
 2.º Se pondrán a disposición del Gestor de Garantías en la cantidad necesaria para cubrir los impagos por desbalances del sujeto que ha perdido la condición de Agente, así como, posteriormente, cualquier otra obligación económica pendiente con el sistema gasista notificada por el GTS, en los términos establecidos normativamente, en particular, en el artículo 29.8 del Real Decreto 984/2015 de 30 de octubre, por el que se regula el Mercado Organizado de Gas y el acceso a terceros a las instalaciones del sistema de gas natural.
 
+Esta regla será exclusivamente de aplicación para aquellos derechos de cobro generados por transacciones cuya notificación sea responsabilidad del Operador del Mercado.
+
 6.5 Garantías.
 
 Los Agentes deben prestar garantías al Gestor de Garantías para dar cobertura suficiente a sus operaciones en el mercado, de acuerdo a las NGGSG.
@@ -1040,7 +1042,7 @@ En el supuesto de que un titular de una Cuenta de Consolidación deudora incumpl
 
 Si el día en que el pago resulta exigible, el Gestor de Garantías no ha podido hacer efectivo el ingreso en la Cuenta del Operador del Mercado del importe ejecutado para cubrir la totalidad de la cantidad adeudada, se minorará a prorrata los derechos de cobro de los titulares de las Cuentas de Consolidación que resulten acreedores en el mismo periodo de facturación.
 
-El titular de una Cuenta de Consolidación incumplidor vendrá obligado al pago de una penalización, tal y como se establece mediante Resolución de Mercado. Además, las cantidades adeudadas y no pagadas, devengarán intereses de demora, a contar desde la fecha en que el pago fuera exigible sin que se haya verificado, hasta la fecha en que efectivamente se haya abonado la cantidad pendiente.
+El titular de una Cuenta de Consolidación incumplidor podrá estar obligado al pago de una penalización conforme a lo dispuesto en la correspondiente Resolución de Mercado. Además, las cantidades adeudadas y no pagadas, devengarán intereses de demora, a contar desde la fecha en que el pago fuera exigible sin que se haya verificado, hasta la fecha en que efectivamente se haya abonado la cantidad pendiente.
 
 Una vez saldada la deuda, el Operador del Mercado procederá a la regularización de la misma, abonando la cantidad que resultó impagada más los correspondientes intereses de demora a los acreedores.
 
@@ -1226,9 +1228,43 @@ Los Agentes no podrán declarar fuerza mayor en relación con los compromisos de
 
 9. En todo lo no previsto en la presente cláusula será de aplicación lo establecido en la Ley 3/2013, de 4 de junio, y en el Real Decreto 657/2013, de 30 de agosto, por el que se aprueba el Estatuto Orgánico de la Comisión Nacional de los Mercados y la Competencia y, con carácter supletorio, lo dispuesto en la Ley 60/2003, de 23 de diciembre, de Arbitraje.
 
+12 bis. Tratamiento de datos de carácter personal.
+
+De conformidad con el artículo 13 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (en adelante Reglamento General de Protección de Datos: «RGPD»), los datos de carácter personal proporcionados inicialmente por los Agentes y los que los Agentes en cualquier momento faciliten, serán incorporados a un Registro de Actividades del tratamiento titularidad de MIBGAS, S.A., en su calidad de Operador del Mercado. El Agente en cualquier momento podrá modificar sus datos personales con el fin de que la información contenida en sus ficheros esté en todo momento actualizada y no contenga errores.
+
+MIBGAS, S.A. necesita tratar dichos datos para la ejecución del Contrato de Adhesión, por lo que el tratamiento de tales datos personales se considera legítimo de conformidad con el artículo 6.1.b del RGPD. En particular, MIBGAS, S.A. tratará estos datos personales para las siguientes finalidades:
+
+(i) El registro y seguimiento de los agentes de Mercado, asegurando las conexiones dentro del Mercado Organizado de Gas.
+
+(ii) El mantenimiento de niveles adecuados de seguridad en el tráfico comercial de la empresa.
+
+Los datos serán conservados en todo caso mientras perdure la relación comercial con el Agente del mercado. En el momento en que dicha relación finalice, MIBGAS, S.A. mantendrá dichos datos debidamente bloqueados con el único fin de atender las responsabilidades de cualquier índole que pudieran surgir durante un periodo de 5 años. Una vez prescriban tales responsabilidades, sus datos personales serán suprimidos. En caso de que el Agente proporcione datos de carácter personal referentes a personas distintas a las que efectúan una solicitud, el Agente garantiza que tales personas han consentido la entrega de sus datos a MIBGAS, S.A. para tal objeto.
+
+El Agente queda informado también de que, entre los citados datos personales, puede realizarse una grabación de seguridad de las conversaciones telefónicas de las personas físicas que en cada momento intervengan en representación del Agente. Por ello, el Agente también garantiza que tales personas le han consentido la entrega de sus datos a MIBGAS, S.A.
+
+MIBGAS, S.A. tratará sus datos personales de manera absolutamente confidencial. Asimismo, ha implantado medidas técnicas y organizativas adecuadas para garantizar la seguridad de sus datos personales y evitar su destrucción, pérdida, acceso ilícito o alteración ilícita. A la hora de determinar estas medidas, se han tenido en cuenta criterios como el alcance, el contexto y los fines del tratamiento; el estado de la técnica y los riesgos existentes.
+
+Asimismo, el Agente presta su consentimiento para que los datos personales sean cedidos a las siguientes entidades, que los utilizarán para sus propios fines:
+
+(i) ENAGAS GTS, S.A. (ENAGAS) con el fin del cumplimiento de sus funciones en su calidad de operador del sistema español.
+
+(ii) Otros Operadores del Sistema o del Mercado con el fin del cumplimiento de sus respectivas funciones y de una óptima gestión de sus respectivos sistemas de información.
+
+(iii) A los reguladores competentes.
+
+El Agente de Mercado podrá, en cualquier momento, ejercitar los derechos de acceso, rectificación, oposición, supresión, limitación, portabilidad y presentación de reclamaciones, ante MIBGAS, S.A.
+
+Dichos derechos podrán ejercitarse mediante comunicación escrita dirigida a la sede de MIBGAS, S.A., sita en calle Alfonso XI, 6, 28014 Madrid, así como por correo electrónico a: info@mibgas.es. En este sentido, deberá proporcionarse la siguiente información: nombre y apellidos del interesado, domicilio a efectos de notificaciones, fotocopia del Documento Nacional de Identidad, pasaporte o cualquier otro documento identificativo, y petición en que se concrete la solicitud. En caso de que tal solicitud no reúna los requisitos necesarios, MIBGAS, S.A. podrá requerir su subsanación.
+
+Si el Agente considera que su solicitud no ha sido atendida correctamente, podrá presentar una reclamación ante la autoridad de control en materia de protección de datos, la Agencia Española de Protección de Datos (http://www.agpd.es).
+
 13. Modificaciones de las Reglas del Mercado.
 
 La adhesión de cada Agente a las Reglas del Mercado lo es, también, a las modificaciones que puedan introducirse en las mismas en virtud de lo establecido en esta Regla.
+
+> Se modifican los apartados 1 a 4 y 6, y se añade el 12.bis por el apartado 3.1 a 14 de la Resolución de 5 de diciembre de 2018. Ref. BOE-A-2018-17574
+
+> Esta modificación surtirá efectos en un plazo máximo de 3 meses a contar desde el 21 de diciembre de 2018, según establece el apartado 4 de la citada Resolución.
 
 > Se sustituye por el apartado 4.1 de la Resolución de 2 de agosto de 2016. Ref. BOE-A-2016-7563.
 

@@ -68,7 +68,7 @@ Iceberg. Las ofertas Iceberg, tienen las siguientes características:
 
 – Son válidas exclusivamente para la Sesión de Negociación para la que han sido enviadas.
 
-– Además de las validaciones recogidas en la Regla “Validación de Ofertas”, se comprobará que la parte reducida que se quiere mostrar de la oferta sea menor o igual que la cantidad total del producto ofertada.
+– Además de las validaciones recogidas en la Regla «Validación de Ofertas», se comprobará que la parte reducida que se quiere mostrar de la oferta sea menor que la cantidad total del producto ofertada.
 
 – Admiten la posibilidad de ser canceladas en los momentos en que se permite la cancelación de ofertas por la parte no casada.
 
@@ -87,5 +87,9 @@ All or None. Las ofertas All or None, tienen las siguientes características:
 – Son válidas exclusivamente para la Sesión de Negociación para la que han sido enviadas.
 
 – Admiten la posibilidad de ser canceladas en los momentos en que se permite la cancelación de ofertas.
+
+> Se modifica por el apartado 3.24 de la Resolución de 5 de diciembre de 2018. Ref. BOE-A-2018-17574
+
+> Esta modificación surtirá efectos en un plazo máximo de 3 meses a contar desde el 21 de diciembre de 2018, según establece el apartado 4 de la citada Resolución.
 
 > Se sustituye por el apartado 4.4 de la Resolución de 2 de agosto de 2016. Ref. BOE-A-2016-7563.

@@ -206,7 +206,7 @@ El Operador del Mercado retendrá todo o parte de los cobros acreditados de un t
 
 2.7 Régimen de impagos e intereses de demora.
 
-En el supuesto de impago o retraso en el pago, el titular de la Cuenta de Consolidación deudora incumplidor vendrá obligado al pago de una penalización del 0,01% de la cantidad impagada, con un mínimo de 400 EUR, que el Operador del Mercado le facturará. En caso de impago de la penalización, el Operador del Mercado podrá, bien incluirlo en la siguiente nota de abono o cargo, bien solicitar al Gestor de Garantías la ejecución de sus garantías.
+En el supuesto de impago o retraso en el pago, el titular de la Cuenta de Consolidación deudora incumplidor podrá estar obligado al pago de una penalización del 0,01% de la cantidad impagada, con un mínimo de 400 EUR, que el Operador del Mercado, en su caso, le facturará. En caso de impago de la penalización, el Operador del Mercado podrá, bien incluirlo en la siguiente nota de abono o cargo, bien solicitar al Gestor de Garantías la ejecución de sus garantías.
 
 Las cantidades adeudadas y no pagadas devengarán intereses de demora, a contar desde la fecha en que el pago fuera exigible sin que se haya verificado, hasta la fecha en que efectivamente se haya abonado la cantidad pendiente, tal y como se determina a continuación:
 
@@ -355,5 +355,9 @@ El Operador del Mercado comunicará periódicamente los casos de incumplimiento 
 Los Agentes podrán reclamar los procesos de facturación y cobros y pagos en el plazo de tres Días hábiles tras su puesta a disposición.
 
 En ningún caso la existencia de una reclamación eximirá al Agente de sus obligaciones de pago.
+
+> Se modifica el apartado 2.7 por el apartado 3.15 de la Resolución de 5 de diciembre de 2018. Ref. BOE-A-2018-17574
+
+> Esta modificación surtirá efectos en un plazo máximo de 3 meses a contar desde el 21 de diciembre de 2018, según establece el apartado 4 de la citada Resolución.
 
 > Se sustituye por el apartado 4.2 de la Resolución de 2 de agosto de 2016. Ref. BOE-A-2016-7563.

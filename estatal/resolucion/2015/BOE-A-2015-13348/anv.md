@@ -58,6 +58,14 @@ En el Día de gas en que se realiza la Prenotificación, todos los Agentes para 
 
 La pérdida de habilitación de un sujeto para enviar notificaciones desde el momento del perfeccionamiento de la Transacción hasta su Notificación, no podrá ser causa del rechazo de dicha Notificación.
 
+Esta regla será exclusivamente de aplicación para aquellas transacciones cuya notificación sea responsabilidad del Operador del Mercado.
+
+Para aquellas transacciones notificadas por una Entidad de Contrapartida Central, será de aplicación el Protocolo de colaboración para el intercambio de información entre Enagás GTS y la Entidad de Contrapartida Central.
+
 4. Régimen transitorio de intercambio de información.
 
 Mientras no se aprueben los contenidos, procesos y medios para el intercambio de información entre el Operador del Mercado y el Gestor Técnico del Sistema, así como los protocolos de detalle de las Normas de Gestión Técnica del Sistema con los detalles técnicos y operativos necesarios para la recepción de las notificaciones asociadas a las transacciones, estos intercambios se realizarán conforme al «Protocolo de colaboración para el intercambio de información entre Enagás GTS y MIBGAS», que deberá ser notificado al Ministerio de Industria, Energía y Turismo y a la CNMC, y publicado por ambos operadores.
+
+> Se modifica el apartado 3 por el apartado 3.17 de la Resolución de 5 de diciembre de 2018. Ref. BOE-A-2018-17574
+
+> Esta modificación surtirá efectos en un plazo máximo de 3 meses a contar desde el 21 de diciembre de 2018, según establece el apartado 4 de la citada Resolución.

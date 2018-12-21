@@ -4,29 +4,25 @@
 
 1. Sesiones de negociación
 
-Sesión de Negociación Diaria.
-
-Se define la Sesión de Negociación Diaria como aquella Sesión de Negociación que transcurre todos los días del año con el siguiente horario:
+a) Sesión de Negociación Diaria: Se define la Sesión de Negociación Diaria como aquella Sesión de Negociación que transcurre todos los días del año con el siguiente horario:
 
 | Inicio | Fin | Estado | Comentarios |
 | --- | --- | --- | --- |
 | 00:00 | 8:30 | UPC | La negociación está pendiente de apertura. |
 | 8:30 | 9:30 | AUC | La negociación está abierta en modo de Subasta. Los Agentes pueden enviar ofertas a la misma, quedando almacenadas hasta el momento de la casación. |
 | 9:30 | 9:35 | MAT | El periodo de recepción de ofertas para la Subasta ha finalizado y se está procediendo a su casación. |
-| 9:35 | 17:00 | CON | La negociación está abierta en modo de Mercado Continuo. Los Agentes pueden enviar ofertas para éste, que serán casadas instantáneamente de acuerdo a sus condiciones, tal y como se establece en las Reglas del Mercado Organizado de Gas. |
-| 17:00 | 00:00 | FIN | La negociación ha finalizado y, por lo tanto, los Agentes no pueden enviar ofertas para dicha sesión. |
+| 9:35 | 18:00 | CON | La negociación está abierta en modo de Mercado Continuo. Los Agentes pueden enviar ofertas para éste, que serán casadas instantáneamente de acuerdo a sus condiciones, tal y como se establece en las Reglas del Mercado Organizado de Gas. |
+| 18:00 | 00:00 | FIN | La negociación ha finalizado y, por lo tanto, los Agentes no pueden enviar ofertas para dicha sesión. |
 
-Sesión de Negociación Intradiaria.
-
-Se define la Sesión de Negociación Intradiaria como aquella Sesión de Negociación que transcurre todos los días del año con el siguiente horario:
+b) Sesión de Negociación Intradiaria: Se define la Sesión de Negociación Intradiaria como aquella Sesión de Negociación que transcurre todos los días del año con el siguiente horario:
 
 | Inicio | Fin | Estado | Comentarios |
 | --- | --- | --- | --- |
 | 00:00 | 8:30 | UPC | La negociación está pendiente de apertura. |
 | 8:30 | 9:30 | AUC | La negociación está abierta en modo de Subasta. Los Agentes pueden enviar ofertas a la misma, quedando almacenadas hasta el momento de la casación. |
 | 9:30 | 9:35 | MAT | El periodo de recepción de ofertas para la Subasta ha finalizado y se está procediendo a su casación. |
-| 9:35 | 21:00 | CON | La negociación está abierta en modo de Mercado Continuo. Los Agentes pueden enviar ofertas para éste, que serán casadas instantáneamente de acuerdo a sus condiciones, tal y como se establece en las Reglas del Mercado Organizado de Gas. |
-| 21:00 | 00:00 | FIN | La negociación ha finalizado y, por lo tanto, los Agentes no pueden enviar ofertas para dicha sesión. |
+| 9:35 | 21:30 | CON | La negociación está abierta en modo de Mercado Continuo. Los Agentes pueden enviar ofertas para éste, que serán casadas instantáneamente de acuerdo a sus condiciones, tal y como se establece en las Reglas del Mercado Organizado de Gas. |
+| 21:30 | 00:00 | FIN | La negociación ha finalizado y, por lo tanto, los Agentes no pueden enviar ofertas para dicha sesión. |
 
 2. Definición de productos
 
@@ -75,9 +71,11 @@ Consideraciones en el cálculo del Límite Operativo, del Límite Operativo Inic
 
 Por las Transacciones de venta del producto Intradiario no se exigirán garantías.
 
-– Límite Operativo: En el cálculo del Límite Operativo aplicable al producto Intradiario en zona española («Límite Operativo Diario») y de los requerimientos de garantías correspondientes durante la Sesión de Negociación, se tendrán en cuenta los derechos de cobro de los productos Intradiario y Diario en zona española sin limitaciones. Los derechos de cobro del resto de productos sólo se tendrán en cuenta en la parte que sirvan exclusivamente para cubrir obligaciones de pago y valoración de ofertas de compra del mismo producto.
+– Límite Operativo: En el cálculo del Límite Operativo aplicable al producto Intradiario («Límite Operativo Diario») en zona española y de los requerimientos de garantías correspondientes durante la Sesión de Negociación se tendrán en cuenta los derechos de cobro de los productos Intradiario, Diario y Fin de Semana en zona española sin limitaciones. Los derechos de cobro del resto de productos sólo se tendrán en cuenta en la parte que sirvan exclusivamente para cubrir obligaciones de pago y valoración de ofertas de compra del mismo producto.
 
-– Límite Operativo Inicial: En el cálculo del Límite Operativo Inicial aplicable al producto Intradiario en zona española y de los requerimientos de garantías correspondientes, se mantendrá el criterio establecido en el párrafo anterior, excepto en el importe de los derechos de cobro del producto Resto Mes en zona española correspondiente al siguiente día de entrega, que podrá ser utilizado sin limitaciones.
+– Límite Operativo inicial: En el cálculo del Límite Operativo Inicial aplicable al producto Intradiario en zona española y de los requerimientos de garantías correspondientes, se mantendrá el criterio establecido en el párrafo anterior, excepto en el importe de los derechos de cobro del producto Resto de Mes en zona española correspondiente al siguiente día de entrega, que podrá ser utilizado sin limitaciones.
+
+En el caso de que las garantías de los productos Resto de Mes o Mes siguiente sean gestionadas por una Entidad de Contrapartida Central, los derechos y obligaciones de dichos productos no serán tenidos en cuenta en el cálculo del Límite Operativo y el Límite Operativo Inicial de este producto.
 
 Producto Diario en zona española.
 
@@ -130,6 +128,55 @@ Por las Transacciones de venta del producto Diario no se exigirán garantías.
 
 – Límite Operativo inicial: En el cálculo del Límite Operativo Inicial aplicable al producto Diario en zona española y de los requerimientos de garantías correspondientes, se mantendrá el criterio establecido en el párrafo anterior, excepto en el importe de los derechos de cobro del producto Resto Mes en zona española correspondiente al siguiente día de entrega, que podrá ser utilizado sin limitaciones.
 
+Producto Fin de Semana en zona española.
+
+Especificaciones del producto:
+
+| Código del producto | GWEES YYMM-DD DD |
+| --- | --- |
+| Subyacente. | Gas natural, a adquirir o entregar físicamente durante el periodo de entrega según se define en el sistema gasista español. |
+| Lugar de entrega. | Punto Virtual de Balance Español (PVB). |
+| Periodo de entrega. | Sábado y domingo. Excepcionalmente, y previa publicación de una Instrucción de Mercado, se podrán incluir los días anteriores y posteriores al sábado y al domingo si estos coinciden con un día inhábil o no bancario. |
+| Unidad de negociación. | 1 MWh/d. |
+| Mínima cantidad negociable. | 1 MWh/d. |
+| Incremento mínimo de cantidad permitido. | 1 MWh/d. |
+| Unidad de precio. | €/MWh con dos decimales. |
+| Incremento mínimo de precio permitido. | 0,01 €/MWh. |
+| Volumen del producto. | 1 MWh/d* Número de días de entrega del producto |
+| Días de negociación. | Conjunto de días comprendido entre el lunes anterior a la entrega y D-1, siendo D el primer día de entrega del producto. |
+| Tipo de negociación. | Subasta de apertura y Mercado Continuo. |
+| Sesión de negociación. | Diaria. |
+
+* El código «GWEES YYMM – DD DD» sirve para identificar el periodo de entrega del producto. Por ejemplo: «GWEES 1710 – 14_15» se refiere al producto a adquirir o entregar en el PVB el conjunto de días del 14 al 15 de octubre de 2017. Este producto se negociaría entre los días 9 y 13 de octubre de 2017. El producto «GWEES 1704 – 14_17» se refiere al producto a adquirir o entregar en el PVB el conjunto de días del 14 al 17 de abril de 2017. Este producto se negociaría del 10 al 13 de abril de 2017.
+
+Sesiones de negociación en las que se negocia el producto:
+
+El producto se negocia en Sesiones de Negociación Diarias. No obstante, en todo momento se podrán enviar ofertas para las Subastas de Sesiones de Negociación futuras de todos los productos que estén listados en la Plataforma de Negociación. Dichas ofertas quedarán almacenadas hasta el momento de la apertura de la Subasta de la Sesión de Negociación a la que se hayan enviado las ofertas.
+
+Listado del producto en la Plataforma de Negociación:
+
+Este producto se listará en la Plataforma de negociación desde el viernes anterior a su primer día de entrega.
+
+Valoración de ofertas: A efectos de la regla «Validación de ofertas», las ofertas de compra serán valoradas como el producto de la cantidad ofertada por el precio de la oferta y por el número de días del período de entrega, más los impuestos y cuotas que pudieran ser de aplicación.
+
+El valor resultante se redondeará al número superior más próximo con dos decimales.
+
+Las ofertas de venta tendrán una valoración de cero.
+
+Consideraciones en el cálculo del Límite Operativo, del Límite Operativo Inicial y de los requerimientos de garantías:
+
+Por las Transacciones de venta del producto Fin de Semana no se exigirán garantías.
+
+Límite Operativo:
+
+En el cálculo del Límite Operativo aplicable al producto Fin de Semana («Límite Operativo Diario») en zona española y de los requerimientos de garantías correspondientes durante la Sesión de Negociación se tendrán en cuenta los derechos de cobro de los productos Intradiario, Diario y Fin de Semana en zona española sin limitaciones. Los derechos de cobro del resto de productos sólo se tendrán en cuenta en la parte que sirvan exclusivamente para cubrir obligaciones de pago y valoración de ofertas de compra del mismo producto.
+
+Límite Operativo inicial:
+
+En el cálculo del Límite Operativo Inicial aplicable al producto Fin de Semana en zona española y de los requerimientos de garantías correspondientes, se mantendrá el criterio establecido en el párrafo anterior, excepto en el importe de los derechos de cobro del producto Resto de Mes en zona española correspondiente al siguiente día de entrega, que podrá ser utilizado sin limitaciones.
+
+En el caso de que las garantías de los productos Resto de Mes o Mes siguiente sean gestionadas por una Entidad de Contrapartida Central, los derechos y obligaciones de dichos productos no serán tenidos en cuenta en el cálculo del Límite Operativo y el Límite Operativo Inicial de este producto.
+
 Producto Resto de Mes en zona española.
 
 Especificaciones del producto:
@@ -169,9 +216,9 @@ Las Transacciones de venta de este producto devengarán una exigencia de garant�
 
 – Límite Operativo: En el cálculo del Límite Operativo aplicable a las ofertas de compra del producto Resto de Mes en zona española durante la Sesión de Negociación («Límite Operativo Resto de Mes») y de los requerimientos de garantías correspondientes se seguirá el siguiente criterio:
 
-• Se utilizarán sin limitaciones los derechos de cobro de los Productos Intradiario, Diario en zona española y del propio producto.
+• Se utilizarán sin limitaciones los derechos de cobro de los Productos Intradiario, Diario y Fin de Semana en zona española y del propio producto.
 
-• No se tendrán en cuenta los derechos de cobro del resto de productos en la parte que excedan sus obligaciones de pago y las valoraciones de sus ofertas de compra.
+• Para el cómputo de garantías a depositar, no se tendrán en cuenta los derechos de cobro del resto de productos en la parte que excedan sus obligaciones de pago y las valoraciones de sus ofertas de compra.
 
 Las ofertas de venta se validarán contra el Límite Operativo Diario.
 
@@ -188,6 +235,14 @@ Por el saldo neto vendedor de las energías correspondientes a las Transacciones
 Si dicha diferencia fuera negativa, no se exigiría garantía adicional.
 
 En este cálculo, se incluirán también los impuestos y cuotas que pudieran ser de aplicación. El valor resultante se redondeará al valor superior con dos decimales más próximo.
+
+Entidad de Contrapartida Central.
+
+La responsabilidad de los procesos complementarios a la casación de este producto (entre otros, los procesos de liquidación, cálculo y gestión de garantías y envío de notificaciones) podrá ser asumida por una Entidad de Contrapartida Central, que devendrá en contraparte del vendedor y del comprador de la Transacción.
+
+Mediante Instrucción de Mercado, con una antelación mínima de un mes, se comunicarán aquellos procesos que serán asumidos por dicha Entidad de Contrapartida Central.
+
+A partir de la entrada en aplicación de dicho régimen, serán de aplicación las reglas de la Entidad de Contrapartida Central para dichos procesos, así como el Protocolo de colaboración para el intercambio de información entre Enagás GTS y la Entidad de Contrapartida Central.
 
 Producto Mes Siguiente en zona española.
 
@@ -224,13 +279,13 @@ En ambos casos, el valor resultante se redondeará al número superior más pró
 
 Consideraciones en el cálculo del Límite Operativo, del Límite Operativo Inicial y de los requerimientos de garantías.
 
-Las Transacciones de venta de este producto devengarán una exigencia de garantías equivalente al 10% de los derechos de cobro a que dé lugar dicha Transacción, más los impuestos y cuotas que pudieran ser de aplicación.
+Las transacciones de venta de este producto devengarán una exigencia de garantías equivalente al 10% de los derechos de cobro a que dé lugar dicha transacción, más los impuestos y cuotas que pudieran ser de aplicación.
 
 – Límite Operativo: En el cálculo del Límite Operativo aplicable a las ofertas de compra del producto Mes Siguiente en zona española durante la Sesión de Negociación («Límite Operativo Mes») y de los requerimientos de garantías correspondientes se seguirá el siguiente criterio:
 
-• Se utilizarán sin limitaciones los derechos de cobro de los Productos Intradiario, Diario en zona española y del propio producto.
+• Se utilizarán sin limitaciones los derechos de cobro de los Productos Intradiario, Diario y Fin de Semana en zona española y del propio producto.
 
-• No se tendrán en cuenta los derechos de cobro del resto de productos en la parte que excedan sus obligaciones de pago y las valoraciones de sus ofertas de compra.
+• Para el cómputo de garantías a depositar, no se tendrán en cuenta los derechos de cobro del resto de productos en la parte que excedan sus obligaciones de pago y las valoraciones de sus ofertas de compra.
 
 Las ofertas de venta se validarán contra el Límite Operativo Diario.
 
@@ -246,8 +301,20 @@ Si dicha diferencia fuera negativa, no se exigiría garantía adicional.
 
 En este cálculo, se incluirán también los impuestos y cuotas que pudieran ser de aplicación. El valor resultante se redondeará al valor superior con dos decimales más próximo.
 
+Entidad de Contrapartida Central.
+
+La responsabilidad de los procesos complementarios a la casación de este producto (entre otros, los procesos de liquidación, cálculo y gestión de garantías y envío de notificaciones) podrá ser asumida por una Entidad de Contrapartida Central, que devendrá en contraparte del vendedor y del comprador de la Transacción.
+
+Mediante Instrucción de Mercado, con una antelación mínima de un mes, se comunicarán aquellos procesos que serán asumidos por dicha Entidad de Contrapartida Central.
+
+A partir de la entrada en aplicación de dicho régimen, serán de aplicación las reglas de la Entidad de Contrapartida Central para dichos procesos, así como el Protocolo de colaboración para el intercambio de información entre Enagás GTS y la Entidad de Contrapartida Central.
+
 3. Inicio de la negociación
 
 Mediante Instrucción se comunicará la fecha de inicio de la negociación de cada producto.
+
+> Se modifican los apartados 1 y 2 por el apartado 3.18 a 23 de la Resolución de 5 de diciembre de 2018. Ref. BOE-A-2018-17574
+
+> Esta modificación surtirá efectos en un plazo máximo de 3 meses a contar desde el 21 de diciembre de 2018, según establece el apartado 4 de la citada Resolución.
 
 > Se sustituye por el apartado 4.3 de la Resolución de 2 de agosto de 2016. Ref. BOE-A-2016-7563.
