@@ -12,8 +12,10 @@ En los casos de procedimiento de despido colectivo, las referidas empresas benef
 
 Tanto para los despidos regulados en el artículo 52.c) del Estatuto de los Trabajadores como para los despidos colectivos, las empresas deberán aportar la comunicación escrita individual del empresario al trabajador referida en los artículos 13 y 20 de este real decreto.
 
-Los trabajadores que causen baja laboral en el sector no incluidos en los párrafos anteriores tendrán derecho a las prestaciones por desempleo que les correspondan, en función de sus períodos de ocupación cotizada.
+Los trabajadores que formen parte de la plantilla propia, al menos, desde el 30 de junio de 2018, y causen baja laboral en el sector a causa del cierre de las unidades de producción de las empresas del anexo, sin reunir las condiciones exigidas para acceder a las ayudas sociales por costes laborales de los párrafos anteriores, tendrán derecho, no obstante, como excedentes de la minería del carbón, al reconocimiento, por una sola vez, de la prestación de desempleo de nivel contributivo por el periodo máximo legal, con independencia de las cotizaciones previas que tengan acreditadas y del período de prestaciones que, en su caso, hubieran percibido hasta la fecha de la referida situación legal de desempleo.
 
-En ambos supuestos, los trabajadores deben reunir el resto de los requisitos que se exigen para la percepción de las prestaciones por desempleo de nivel contributivo o asistencial.
+Los trabajadores deberán reunir, en cualquiera de los supuestos, el resto de los requisitos que se exigen para la percepción de las prestaciones por desempleo de nivel contributivo o asistencial.
 
 Cuando tras la extinción de los contratos de trabajo en las empresas mineras del carbón, con independencia de la percepción o no de ayudas sociales por costes laborales para trabajadores de edad avanzada o mediante bajas indemnizadas, se haya determinado la aplicación a los trabajadores afectados de lo dispuesto en la disposición adicional decimonovena de la citada Ley 4/1990, de 29 de junio, y se les hayan reconocido las prestaciones de nivel contributivo por el período máximo legal, no se les podrá volver a reconocer la aplicación de dicha disposición en ninguna prestación contributiva posterior.
+
+> Se modifican los párrafos séptimo y octavo por el art. 3.4 del Real Decreto-ley 25/2018, de 21 de diciembre. Ref. BOE-A-2018-17599#a3

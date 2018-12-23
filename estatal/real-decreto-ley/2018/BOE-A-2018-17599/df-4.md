@@ -1,0 +1,3 @@
+## Disposición final cuarta. Entrada en vigor.
+
+Este real decreto-ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado». Ello no obstante, las previsiones relativas al régimen especial de ayudas sociales a favor de trabajadores excedentes de la minería del carbón, contenidas en los artículos 1, 2 y 3, así como en las disposiciones transitorias primera y segunda, producirán sus efectos desde el día 24 de octubre de 2018, fecha de adopción del Acuerdo Marco para una Transición Justa de la Minería del Carbón y Desarrollo Sostenible de las Comarcas Mineras para el periodo 2019-2027.
