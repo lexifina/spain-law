@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Compensación correspondiente a 2018 y operaciones de cierre de ejercicio.
+
+1. En el ejercicio 2018, a cuenta de la liquidación definitiva en compensación por el cumplimiento de las obligaciones de servicio público previstas en este real decreto, que hayan podido efectuarse durante el mismo, se transferirán a la Agencia EFE, 12.000 miles de euros de los previstos en la disposición adicional 153ª de la Ley 6/2018, de 3 de julio, de Presupuestos Generales del Estado para 2018, con cargo a la aplicación presupuestaria 25.01.921Q.227.07, sin perjuicio de que la liquidación correspondiente a dicho ejercicio se efectúe en función del montante total consignado en dicha disposición adicional.
+
+2. El reconocimiento de la obligación y la propuesta del pago de tales cantidades quedarán exceptuados de los plazos previstos en la Orden HAC/1167/2018, de 7 de noviembre, por la que se regulan las operaciones de cierre del ejercicio 2018 relativas al presupuesto de gastos y operaciones no presupuestarias.
