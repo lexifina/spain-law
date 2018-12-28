@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 28 de diciembre de 2018 sin perjuicio de lo previsto en la disposición transitoria 1.2 de la Ley 38/2015, de 29 de septiembre. Ref. BOE-A-2015-10440, por la disposición derogatoria única. 2 b) del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769#dtprimera

@@ -2,7 +2,7 @@
 
 1. Las empresas ferroviarias que dispongan de licencia de empresa ferroviaria otorgada por un Estado miembro de la Unión Europea tienen libre acceso a la Red Ferroviaria de Interés General para la explotación de servicios internacionales de transporte de viajeros.
 
-No será aplicable al transporte internacional de viajeros el régimen sobre gestión del transporte ferroviario de viajeros establecido en la disposición transitoria primera.
+Las normas establecidas en esta disposición serán de aplicación hasta la apertura a la libre competencia del transporte de viajeros por ferrocarril, en los términos previstos en el apartado 3 de la disposición transitoria primera de esta ley.
 
 2. Se entiende, a estos efectos, por servicio internacional de transporte de viajeros, el servicio de transporte de viajeros en el que el tren cruce al menos una vez la frontera de España y cuyo principal objeto sea transportar viajeros entre estaciones de transporte de viajeros situadas en Estados miembros distintos. El tren podrá formarse o dividirse, y las distintas partes que lo constituyan podrán tener procedencias y destinos diferentes, siempre que todos los coches crucen al menos una frontera. Se entiende por tránsito el paso a través del territorio español que se efectúa sin que se recojan o dejen viajeros o sin que haya carga o descarga de mercancías en el mismo.
 
@@ -17,3 +17,5 @@ La Comisión Nacional de los Mercados y la Competencia efectuará un análisis e
 La Comisión expondrá los motivos de su decisión y precisará dentro de qué plazo y bajo qué condiciones las autoridades competentes, el administrador de infraestructuras ferroviarias, la empresa ferroviaria que realice el servicio público o la empresa ferroviaria prestadora del servicio de transporte internacional podrán solicitar la revisión de dicha decisión.
 
 Las resoluciones de la Comisión Nacional de los Mercados y la Competencia tendrán eficacia ejecutiva y serán vinculantes para las entidades que actúan en el ámbito ferroviario.
+
+> Se modifica el apartado 1 por el art. 2.44 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769

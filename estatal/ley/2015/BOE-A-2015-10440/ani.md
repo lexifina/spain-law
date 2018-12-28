@@ -36,21 +36,17 @@
 
 17. Servicio internacional de transporte de viajeros: el servicio de transporte de viajeros en el que el tren cruce al menos una de las fronteras españolas y cuyo objeto principal sea transportar viajeros entre estaciones situadas en distintos Estados. El tren podrá componerse o dividirse y las distintas partes que lo constituyan podrán tener procedencias y destinos diferentes, siempre que todos los vagones crucen al menos una frontera.
 
-18. Servicios complementarios: Los servicios complementarios, a los que se refiere el artículo 44.2, son los siguientes:
+18. Servicios complementarios: Los servicios complementarios, a los que se refiere el artículo 44.2, podrán ser los siguientes:
 
 a) Suministro de corriente de tracción, las cantidades abonadas por este concepto se mostrarán en las facturas por separado de los cánones aplicados por el uso de las infraestructuras ferroviarias de alimentación de energía eléctrica.
 
-b) Suministro de combustible de tracción en instalaciones fijas.
+b) Precalentamiento de trenes de viajeros.
 
-c) Precalentamiento de trenes de viajeros.
-
-d) Contratos personalizados para:
+c) Contratos personalizados para:
 
 Control del transporte de mercancías peligrosas.
 
 Asistencia a la circulación de convoyes especiales.
-
-e) Carga y descarga de unidades de transporte intermodal (UTI) sobre y desde vagón.
 
 19. Servicios auxiliares: Los servicios auxiliares, a los que se refiere el artículo 44.3, podrán comprender los siguientes:
 
@@ -64,6 +60,48 @@ d) Los servicios de venta de billetes en estaciones de transporte de viajeros.
 
 e) Los servicios de mantenimiento pesado de material rodante, siendo éstos los que requieren instalaciones específicas en las que se realizan tareas que no se llevan a cabo como parte de las operaciones diarias de rutina y que requieren que el vehículo sea retirado del servicio.
 
-f) Los servicios de maniobras y cualquier otro relacionado con las operaciones del tren.
+20. Explotador de la instalación de servicio: la entidad privada o pública responsable de la gestión de una o varias de las instalaciones de servicio especificadas en el artículo 42, o de la prestación a empresas ferroviarias de uno o varios de los servicios a los que están destinados dichas instalaciones y de los complementarios y auxiliares definidos en este anexo.
 
-20. Explotador de la instalación de servicio: la entidad privada o pública responsable de la gestión de una o varias de las instalaciones de servicio especificadas en el artículo 42, o de la prestación a empresas ferroviarias de uno o varios de los servicios complementarios y auxiliares definidos en este anexo.
+21. Administrador de infraestructuras: todo organismo o empresa responsable de la explotación, mantenimiento y renovación de las infraestructuras ferroviarias en una red, e igualmente responsable de participar en su desarrollo conforme a las normas que establezca el Ministerio de Fomento dentro del marco de su política general en materia de desarrollo y financiación de infraestructuras.
+
+22. Desarrollo de la infraestructura ferroviaria: planificación de la red, la planificación financiera y de las inversiones y la construcción y mejora de la infraestructura.
+
+23. Explotación de la infraestructura ferroviaria: adjudicación de surcos ferroviarios, gestión del tráfico y fijación de cánones por el uso de la infraestructura.
+
+24. Mantenimiento de la infraestructura ferroviaria: trabajos destinados a mantener las condiciones y la capacidad de la infraestructura existente.
+
+25. Renovación de las infraestructuras ferroviarias: trabajos de sustitución de gran calado en las infraestructuras existentes que no modifican su rendimiento general.
+
+26. Mejora de las infraestructuras ferroviarias: trabajos de modificación de gran calado en las infraestructuras existente que mejoran su rendimiento general.
+
+27. Funciones esenciales de la gestión de las infraestructuras: toma de decisiones sobre la adjudicación de capacidad de infraestructura ferroviaria, que incluye tanto la definición y la evaluación de la disponibilidad y la adjudicación de surcos ferroviarios individuales, como la fijación de cánones por el uso de las infraestructuras, el establecimiento y el cobro de los cánones, de conformidad con el marco de los cánones y el marco de adjudicación de capacidades establecido en esta ley.
+
+28. Empresa integrada verticalmente: una empresa en la que, en el sentido del Reglamento (CE) 139/2004 del Consejo, de 20 de enero, sobre el control de las concentraciones entre empresas:
+
+a) un administrador de infraestructuras ferroviarias es controlado por una empresa que, al mismo tiempo, controla una o varias empresas ferroviarias que explotan servicios ferroviarios en la red del administrador de infraestructuras ferroviarias, o
+
+b) un administrador de infraestructuras ferroviarias es controlado por una o varias empresas ferroviarias que explotan servicios ferroviarios en la red del administrador de infraestructuras ferroviarias, o
+
+c) una o varias empresas ferroviarias que explotan servicios ferroviarios en la red del administrador de infraestructura ferroviaria son controladas por un administrador de infraestructura ferroviaria.
+
+También significa una empresa formada por distintos departamentos, entre ellos un administrador de infraestructuras ferroviarias y uno o varios departamentos dedicados a la prestación de servicios de transporte que no poseen una personalidad jurídica diferente.
+
+Cuando un administrador de infraestructuras ferroviarias y una empresa ferroviaria sean plenamente independientes entre sí, pero ambos estén controlados directamente por una Administración Pública sin una entidad intermediaria, no se considerará que constituyan una empresa integrada verticalmente a efectos de esta ley.
+
+29. Asociación público-privada: acuerdo vinculante entre organismos públicos y una o más empresas distintas al administrador de infraestructuras ferroviarias principal, en virtud del cual las empresas construyen total o parcialmente o financian la infraestructura ferroviaria y/o adquieren el derecho a ejercer cualquiera de las funciones del administrador de la infraestructura durante un período de tiempo predeterminado.
+
+30. Servicios de transporte de viajeros de alta velocidad: servicios ferroviarios de transporte de pasajeros sin paradas intermedias entre dos puntos separados al menos por una distancia superior a 200 kilómetros que circulan sobre vías construidas especialmente para la alta velocidad equipadas para velocidades generalmente iguales o superiores a 250 kilómetros por hora y que circulan de media a estas velocidades.
+
+Esta definición se hace a los efectos de la aplicación del párrafo sexto del artículo 59.7 de esta ley.
+
+31. Itinerario alternativo: itinerario distinto entre el mismo origen y el mismo destino siempre que se puedan sustituir ambos itinerarios para la explotación, por parte de la empresa ferroviaria, del servicio de transporte de viajeros o mercancías en cuestión.
+
+32. Beneficio razonable: un índice de remuneración del capital propio que tenga en cuenta el riesgo, incluido el riesgo que afecta a los ingresos, o la inexistencia del mismo, soportado por el explotador de la instalación de servicio y que esté en consonancia con el índice medio registrado en el sector durante los últimos años.
+
+33. Consejo de administración: órgano superior de una empresa que ejerce funciones ejecutivas y administrativas, responsable y que debe rendir cuentas de la gestión diaria de la empresa.
+
+34. Órgano de supervisión: máximo órgano de una empresa que lleva a cabo tareas de supervisión, por ejemplo el ejercicio del control del consejo de administración y de las decisiones estratégicas generales relativas a la empresa.
+
+35. Billete combinado: billete o billetes que constituyen un contrato para servicios de transporte ferroviario sucesivos explotados por una o varias empresas ferroviarias.
+
+> Se modifica por el art. 2.54 a 57 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
