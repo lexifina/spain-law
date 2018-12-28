@@ -7,14 +7,18 @@
 | 1 |  |  |  | DEUDORES NO PRESUPUESTARIOS |
 | 100 |  |  |  | DEUDORES A LARGO PLAZO POR APLAZAMIENTOS Y FRACCIONAMIENTOS |
 | 10010 | 2521 | – | T/M | DEUDORES A LARGO PLAZO POR APLAZAMIENTOS Y FRACCIONAMIENTOS En la Tesorería General de la Seguridad Social (TGSS) y en las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social (MATEPSS), este concepto recoge derechos a cobrar por aplazamientos y fraccionamientos concedidos por la TGSS que tengan su vencimiento a largo plazo. |
+| 10020 | 2601 | – | T/EG/M | FIANZAS CONSTITUIDAS A LARGO PLAZO. Efectivo entregado en concepto de fianza no presupuestaria a plazo superior a un año. |
+| 10030 | 2651 | – | T/EG/M | DEPÓSITOS CONSTITUIDOS A LARGO PLAZO. Efectivo entregado en concepto de depósito irregular no presupuestario a plazo superior a un año. |
 | 101 |  |  |  | DEUDORES POR IVA REPERCUTIDO Y POR APLAZAMIENTOS Y FRACCIONAMIENTOS A CORTO PLAZO |
 | 10100 | 440 | D | T/EG/M | DEUDORES POR IVA REPERCUTIDO Este concepto recoge las deudas de terceros correspondientes al IVA repercutido como consecuencia de la entrega de bienes o prestación de servicios. |
 | 10110 | 443 | – | T/M | DEUDORES A CORTO PLAZO POR APLAZAMIENTOS Y FRACCIONAMIENTOS En la TGSS y MATEPSS, este concepto recoge derechos a cobrar por aplazamientos y fraccionamientos concedidos por la TGSS que tengan su vencimiento a corto plazo. |
 | 102 |  |  |  | DEUDORES POR PRESTACIONES |
 | 10210 | 448 | D | T/EG/M | DEUDORES POR PAGO INDEBIDO DE PRESTACIONES DEL SISTEMA DE LA SEGURIDAD SOCIAL En este concepto figurarán las deudas pendientes de cobro en relación con pagos indebidos de prestaciones del sistema. |
 | 103 |  |  |  | OTROS DEUDORES NO PRESUPUESTARIOS |
-| 10310 | 449 | D | T/EG/M | PRESTACIONES ANTICIPADAS En las entidades gestoras (EEGG) y TGSS, recogerá los pagos efectuados en concepto de anticipos de pensiones y en base a las disposiciones de convenios internacionales de Seguridad Social. En las MATEPSS recogerá los pagos efectuados en concepto de anticipos de prestaciones realizados por ellas por cuenta de los empresarios declarados responsables, según el artículo 126 de la Ley General de la Seguridad Social (LGSS). |
+| 10310 | 449 | D | T/EG | PRESTACIONES ANTICIPADAS. En las entidades gestoras (EEGG) y TGSS, recogerá los pagos efectuados en concepto de anticipos de pensiones y en base a las disposiciones de convenios internacionales de Seguridad Social. |
 | 10311 | 449 | D | T/EG | ANTICIPOS PERSONAL LABORAL A CTA. TRABAJOS REALIZADOS En las EEGG y TGSS se imputaran a este concepto los anticipos que se conceden al personal laboral en virtud de la normativa vigente. El reintegro se producirá al mes siguiente del pago mediante descuento en el documento presupuestario de la nómina. |
+| 10312 | 449 | D | M | RESPONSABILIDAD EMPRESARIAL DE PRESTACIONES DISTINTAS A UNA PENSIÓN. En las Mutuas colaboradoras con la Seguridad Social (MCSS) se imputarán a este concepto deudores no presupuestarios frente a la empresa declarada responsable, en los casos de incumplimiento de sus obligaciones en materia de afiliación, alta, baja y cotización, según el artículo 167 de la Ley General de la Seguridad Social (LGSS), cuando la prestación causada es distinta a una pensión. |
+| 10313 | 449 | D | M | RESPONSABILIDAD EMPRESARIAL DE PENSIONES. En las MCSS se imputarán a este concepto deudores no presupuestarios frente a la empresa declarada responsable, en los casos de incumplimiento de sus obligaciones en materia de afiliación, alta, baja y cotización, según el artículo 167 de la LGSS, cuando la prestación causada es una pensión objeto de capitalización en la TGSS. |
 | 10319 | 449 | D | T/EG/M | OTROS ANTICIPOS Y PRESTAMOS Se imputaran aquellos anticipos y prestamos que por su carácter irregular no tengan aplicación presupuestaria. |
 | 10330 | 449 | D | T | COMUNIDADES AUTONOMAS En la TGSS, se imputarán aquellas operaciones que representen un crédito para la Seguridad Social a pagar por las Comunidades Autónomas (CCAA) por cotizaciones a la Seguridad Social, de conformidad con los acuerdos suscritos, así como los importes correspondientes a las reclamaciones por los boletines de cotización no presentados por las CCAA. |
 | 10331 | 449 | D | T | CORPORACIONES LOCALES En la TGSS, se imputarán aquellas operaciones que representen un crédito para la Seguridad Social a pagar por las Corporaciones Locales (CCLL) por cotizaciones a la Seguridad Social, de conformidad con los acuerdos suscritos, así como los importes correspondientes a las reclamaciones por los boletines de cotización no presentados por las CCLL. |
@@ -45,6 +49,7 @@
 | 10720 | 4720 | D | T/EG/M | IVA SOPORTADO Este concepto recoge el IVA soportado con motivo de la adquisición de bienes y servicios y de otras operaciones comprendidas en los textos legales que tengan carácter deducible. |
 | 10727 | 4727 | D | T/EG/M | IGIC SOPORTADO Este concepto recoge el IGIC soportado con motivo de la adquisición de bienes y servicios y de otras operaciones comprendidas en los textos legales que tengan carácter deducible. |
 | 108 |  |  |  | DEPÓSITOS CONSTITUIDOS |
+| 10800 | 5651 | – | T/EG/M | FIANZAS CONSTITUIDAS A CORTO PLAZO. Efectivo entregado en concepto de fianza no presupuestaria a plazo no superior a un año. |
 | 10810 | 5661 | – | T/EG/M | DEPÓSITOS CONSTITUIDOS Efectivo entregado en concepto de depósito irregular no presupuestario. |
 | 2 |  |  |  | ACREEDORES NO PRESUPUESTARIOS |
 | 200 |  |  |  | FIANZAS Y DEPÓSITOS RECIBIDOS A LARGO PLAZO |
@@ -62,6 +67,7 @@
 | 20315 | 419 | D | T/EG/M | RETENCIONES EN EL PAGO DE LIBRAMIENTOS A FAVOR DE LA AGENCIA TRIBUTARIA Se aplicarán las retenciones efectuadas en los pagos a terceros previa notificación de embargo de la Agencia Estatal de la Administración Tributaria. |
 | 20316 | 419 | D | T/EG/M | RETENCIONES EN EL PAGO DE LIBRAMIENTOS A FAVOR DE OTROS ORGANISMOS DE LA ADMINISTRACIÓN CENTRAL, TERRITORIAL, AUTONÓMICA O LOCAL Se aplicarán las retenciones efectuadas en los pagos a terceros, previa la correspondiente notificación del organismo interesado. |
 | 20317 | 419 | D | T/EG | RETENCIÓN EN EL PAGO DEL NIVEL MÍNIMO DE PROTECCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA En el IMSERSO, este concepto recogerá las retenciones efectuadas en el pago de las transferencias a las Comunidades Autónomas para la atención a las personas en situación de dependencia en su nivel mínimo de protección, como consecuencia de pagos indebidos realizados a aquellas. Estas cantidades serán finalmente aplicadas al presupuesto de ingresos de la TGSS. |
+| 20318 | 419 | D | T | RESPONSABILIDAD EMPRESARIAL DE PENSIONES. En la TGSS se imputarán a este concepto acreedores no presupuestarios frente a las MCSS ante supuestos de empresas declaradas responsables por incumplimiento de sus obligaciones en materia de afiliación, alta, baja y cotización, cuando la prestación causada es una pensión objeto de capitalización en la TGSS. |
 | 20321 | 419 | D | T/EG/M | CUOTAS SINDICALES Se imputarán las retenciones practicadas en la nómina de personal a favor de las organizaciones sindicales. |
 | 20322 | 419 | D | T/EG | MONTEPÍO DE LA MINERÍA DEL CARBÓN En las EEGG y TGSS, importe de la cuota descontada a los pensionistas asociados al Montepío de la minería del carbón |
 | 20323 | 419 | D | T/EG | ORGANIZACIÓN SOCIAL DE GRANDES INVÁLIDOS En las EEGG y TGSS, se imputarán a este concepto los reintegros de préstamos deducidos a pensionistas beneficiarios de la OSGI |
@@ -103,6 +109,7 @@
 | 206 |  |  |  | ORGANISMOS DE PREVISIÓN SOCIAL, ACREEDORES |
 | 20610 | 4760 | D | T/EG/M | CUOTAS DE SEGURIDAD SOCIAL DE EMPLEADORES Recoge el importe de la cuota patronal del personal al servicio de la Seguridad Social. |
 | 20620 | 4760 | D | T/EG/M | CUOTAS DE SEGURIDAD SOCIAL DE TRABAJADORES Recoge el importe retenido por este concepto al efectuar el pago de las nóminas al personal. |
+| 20621 | 4760 | D | T/EG | DEVOLUCIÓN DE CUOTAS DE SEGURIDAD SOCIAL. Recoge el importe de las cuotas de la Seguridad Social reintegradas por la TGSS a los centros gestores de la nómina, para regularizar el importe de las mismas. |
 | 20630 | 4760 | D | T/EG/M | CUOTAS DEDUCIDAS DE PRESTACIONES Importe de las cuotas pendientes de cobro, cuyo deudor es un perceptor de prestaciones de la Seguridad Social. La retención se efectuará en el documento presupuestario de pago de prestaciones. |
 | 20635 | 4760 | D | T/EG/M | CUOTAS OBRERAS DE LA SS DE TRABAJADORES EN SITUACIÓN DE MATERNIDAD, PATERNIDAD, RIESGO DURANTE EL EMBARAZO Y RIESGO DURANTE LA LACTANCIA NATURAL Recoge el importe retenido por este concepto a los beneficiarios de las prestaciones señaladas, que en el caso de las MATEPSS alcanza solamente a las prestaciones de riesgo durante el embarazo y riesgo durante la lactancia natural. |
 | 20641 | 4760 | D | T/EG | AMORTIZACIÓN CAPITAL RENTA-RELIGIOSOS En las EEGG y TGSS, recoge el importe de la amortización que se deduce como descuento en el documento presupuestario de pago de prestaciones a religiosos. |
@@ -202,6 +209,7 @@
 | 40142 | 5559 | D | T | PAGO DELEGADO DE PRESTACIONES-OTROS En la TGSS, concepto análogo al 40140, pero referido al resto de los pagos delegados. |
 | 40143 | 5559 | D | T/M | COLABORACIÓN VOLUNTARIA-IT En la TGSS y MATEPSS, se imputará el importe de las deducciones por este concepto practicadas en las bases de cotización, por las empresas autorizadas para cubrir esta contingencia. |
 | 40144 | 5559 | D | T | COLABORACIÓN VOLUNTARIA-AS En la TGSS, concepto análogo al anterior pero referido a asistencia sanitaria. |
+| 40145 | 5559 | D | M | PAGOS ASOCIADOS A LA RECAUDACIÓN. En las MCSS se imputarán los asociados a los procesos recaudatorios realizados por la TGSS por cuenta de las entidades colaboradoras al cierre de cada ejercicio. Dicho concepto figurará como descuento en los documentos en fase OK que registren dichas entidades en el ejercicio siguiente para dar la aplicación definitiva presupuestaria de dichos pagos. |
 | 40150 | 5559 | D | T | ANTICIPOS CENTRALIZADOS DE PAGO DE PRESTACIONES-INSS En la TGSS, recoge este concepto las operaciones financieras de pago centralizado de prestaciones que afecten al INSS. |
 | 40151 | 5559 | D | T | ANTICIPOS CENTRALIZADOS DE PAGO DE PRESTACIONESIMSERSO En la TGSS, concepto análogo al anterior referido al IMSERSO. |
 | 40152 | 5559 | D | T | ANTICIPOS CENTRALIZADOS DE PAGO DE PRESTACIONES-ISM En la TGSS, concepto análogo al anterior referido al ISM. |
@@ -237,7 +245,7 @@
 | 508 |  |  |  | ORDENES DE COBRO RECIBIDAS DE LOS CENTROS DE GESTION |
 | 50810 | 5526 | – | T/EG/M | ORDENES DE COBRO A TERCEROS En las EEGG y TGSS, este concepto recoge las órdenes de cobro recibidas de los centros de gestión para su imputación al presupuesto de ingresos, y en las MATEPSS, en los servicios centrales de las mismas y, en su caso, en los centros gestores con presupuesto de ingresos recoge las órdenes de cobro recibidas para su imputación al presupuesto de ingresos. |
 | 510 |  |  |  | OTROS MOVIMIENTOS INTERNOS |
-| 51010 | 5527 | – | T/EG/M | TRASPASO DE CUENTASA ENTRE TERCEROS Este concepto recoge los traspasos de elementos patrimoniales, tanto activos, como pasivos, entre centros. |
+| 51010 | 5527 | – | T/EG/M | TRASPASO DE CUENTAS ENTRE CENTROS. Este concepto recoge los traspasos de elementos patrimoniales, tanto activos como pasivos, entre centros. |
 | 51020 | 5528 | – | T/EG/M | TRASPASO DE CONCEPTOS NO PRESUPUESTARIOS Este concepto recoge los traspasos de los conceptos no presupuestarios entre centros. |
 | 51030 | 5529 | – | T/EG/M | FORMALIZACION DE INGRESOS POR CUENTA DE RELACIONES INTERNAS Este concepto recoge la formalización de ingresos no presupuestarios que corresponden a los diversos centros de gestión. |
 
@@ -246,3 +254,5 @@
 | Código no presupuestario | Definición |
 | --- | --- |
 | 40220 | ANTICIPOS DE DIETAS Y GASTOS DE VIAJE Este concepto recoge los pagos efectuados por fondo de maniobra en concepto de anticipos de dietas y gastos de viaje del personal pendientes de aplicar. Su aplicación se efectuará bien por reintegro o por la imputación presupuestaria de las cantidades anticipadas. |
+
+> Se modifica por el art. 1.22 de la Resolución de 14 de diciembre de 2018. Ref. BOE-A-2018-17774.

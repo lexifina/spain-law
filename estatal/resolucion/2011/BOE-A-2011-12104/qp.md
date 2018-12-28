@@ -590,6 +590,8 @@ Su movimiento es análogo al señalado para la cuenta 142 «Provisión a largo p
 
 1710. Con el Estado.
 
+1715. Con el Estado. Anticipos reembolsables.
+
 1719. Con otras entidades.
 
 172. Deudas a largo plazo transformables en subvenciones.
@@ -3433,6 +3435,8 @@ Activos y pasivos financieros corrientes, excepto aquellos que deban figurar en 
 521. Deudas a corto plazo.
 
 5210. Con el Estado.
+
+5215. Con el Estado. Anticipos reembolsables.
 
 5219. Con otras entidades.
 
@@ -7199,6 +7203,8 @@ b) Se abonará con cargo a la cuenta 000 «Presupuesto ejercicio corriente», en
 Su saldo, deudor, recogerá, antes del cierre, las previsiones definitivas de ingresos.
 
 Nota: Las rectificaciones a todas estas cuentas de control presupuestario se efectuarán mediante asientos análogos a los descritos, pero de signo contrario, al objeto de no desvirtuar el significado de las sumas del debe y del haber de las cuentas.
+
+> Se añaden las subcuentas 1715 y 5215 por el art. 2 de la Resolución de 14 de diciembre de 2018. Ref. BOE-A-2018-17774
 
 > Se modifican los movimientos de las subcuentas 40000, 40010 y 40030, se suprime la cuenta 411 y se modifica la 413, con efectos de 1 de enero de 2017, por el art. único.3 de la Resolución de 9 de febrero de 2017. Ref. BOE-A-2017-1572
 

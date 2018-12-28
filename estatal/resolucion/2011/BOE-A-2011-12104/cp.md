@@ -98,6 +98,8 @@
 
 1710. Con el Estado.
 
+1715. Con el Estado. Anticipos reembolsables.
+
 1719. Con otras entidades.
 
 172. Deudas a largo plazo transformables en subvenciones.
@@ -777,6 +779,8 @@
 521. Deudas a corto plazo.
 
 5210. Con el Estado.
+
+5215. Con el Estado. Anticipos reembolsables.
 
 5219. Con otras entidades.
 
@@ -1917,6 +1921,8 @@
 007. Presupuesto de ingresos: modificaciones de previsiones.
 
 008. Presupuesto de ingresos: previsiones definitivas.
+
+> Se añaden las subcuentas 1715 y 5215 por el art. 2 de la Resolución de 14 de diciembre de 2018. Ref. BOE-A-2018-17774
 
 > Se suprime la cuenta 411 y se modifica la 413, con efectos de 1 de enero de 2017, por el art. único.2 de la Resolución de 9 de febrero de 2017. Ref. BOE-A-2017-1572
 
