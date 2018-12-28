@@ -64,10 +64,12 @@ a) Aeropuertos civiles designados facilitados:
 
 ● Jerez.
 
+● Aeropuerto de la Región de Murcia.
+
 b) Aeropuertos en aeródromos de utilización conjunta designados como facilitados:
 
 ● Tenerife Norte.
 
-c) Bases aéreas abiertas al tráfico civil designadas como aeropuertos facilitados
+> Se añade el aeropuerto de la Región de Murcia en la letra a) y se suprime la letra c) del apartado II por el apartado segundo de la Orden FOM/1408/2018, de 19 de diciembre. Ref. BOE-A-2018-17841
 
-● Murcia-San Javier.
+> Téngase en cuenta, para su aplicación, el apartado tercero de la citada Orden.
