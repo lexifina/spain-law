@@ -340,6 +340,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 248](a248.md)
 - [Sección 2](s2-10.md)
 - [Artículo 249](a249.md)
+- [Sección 4](s4-4.md)
+- [Artículo 249 ter](a2-2.md)
 - [CAPÍTULO XVIII](cxviii.md)
 - [Sección 1](s1-11.md)
 - [Artículo 250](a250.md)
