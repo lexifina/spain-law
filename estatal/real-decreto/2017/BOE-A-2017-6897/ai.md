@@ -1344,7 +1344,7 @@ a) Proyecto o Memoria técnica final de la instalación firmado por técnico tit
 
 b) Copia del acta de puesta en servicio y certificado de baja tensión de acuerdo con el Reglamento electrotécnico de baja tensión firmado por el instalador autorizado y registrado en el órgano competente de las Ciudades de Ceuta y Melilla o de la Comunidad Autónoma correspondiente.
 
-c) En el caso de instalaciones conectadas a red en autoconsumo, copia de inscripción en el Registro administrativo de autoconsumo de energía eléctrica regulado en el artículo 9.4 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+c) (Suprimida).
 
 d) Documento justificativo de los valores alcanzados para los indicadores que aplican a la actuación de entre los incluidos en el Eje de Economía baja en Carbono del POCS, firmado por técnico titulado competente:
 
@@ -1456,7 +1456,7 @@ c) «Certificado de Tipo» o «Etiqueta para Consumidores de Aerogeneradores de 
 
 d) En el caso de instalaciones de autoconsumo conectadas a red: copia del certificado del fabricante del inversor sobre cumplimiento de las directivas comunitarias de Seguridad Eléctrica y Compatibilidad Electromagnética.
 
-e) En el caso de instalaciones de autoconsumo conectadas a red: copia de la Inscripción en el Registro Administrativo de autoconsumo de energía eléctrica regulado en el artículo 9.4 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+e) (Suprimida).
 
 f) Documento justificativo de los valores alcanzados para los indicadores que aplican a la actuación de entre los incluidos en el Eje de Economía baja en Carbono del POCS, firmado por técnico titulado competente:
 
@@ -1547,3 +1547,5 @@ c) Documento justificativo de los valores alcanzados para los indicadores que ap
 – C032 Descenso del consumo de energía en edificios públicos [kWh/año].
 
 – C034 Reducción de emisiones de GEI [tCO2 eq/año].
+
+> Se suprimen los apartados 6.c) y 6.e) de las Medidas 15 y 16 por el art. único.3 del Real Decreto 1516/2018, de 28 de diciembre. Ref. BOE-A-2018-18003
