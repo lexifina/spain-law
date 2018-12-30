@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Actividades prioritarias de mecenazgo.
+
+Uno. De acuerdo con lo establecido en el artículo 22 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo, durante el año 2019 se considerarán actividades prioritarias de mecenazgo las enumeradas en la disposición adicional septuagésima primera de la Ley 6/2018, de Presupuestos Generales del Estado para el año 2018.
+
+Dos. Los porcentajes y los límites de las deducciones establecidas en los artículos 19, 20 y 21 de la citada Ley 49/2002, se elevarán en cinco puntos porcentuales en relación con las actividades incluidas en el apartado anterior.
