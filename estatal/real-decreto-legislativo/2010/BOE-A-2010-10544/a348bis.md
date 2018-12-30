@@ -1,12 +1,30 @@
 ## Artículo 348 bis. Derecho de separación en caso de falta de distribución de dividendos.
 
-1. A partir del quinto ejercicio a contar desde la inscripción en el Registro Mercantil de la sociedad, el socio que hubiera votado a favor de la distribución de los beneficios sociales tendrá derecho de separación en el caso de que la junta general no acordara la distribución como dividendo de, al menos, un tercio de los beneficios propios de la explotación del objeto social obtenidos durante el ejercicio anterior, que sean legalmente repartibles.
+1. Salvo disposición contraria de los estatutos, transcurrido el quinto ejercicio contado desde la inscripción en el Registro Mercantil de la sociedad, el socio que hubiera hecho constar en el acta su protesta por la insuficiencia de los dividendos reconocidos tendrá derecho de separación en el caso de que la junta general no acordara la distribución como dividendo de, al menos, el veinticinco por ciento de los beneficios obtenidos durante el ejercicio anterior que sean legalmente distribuibles siempre que se hayan obtenido beneficios durante los tres ejercicios anteriores. Sin embargo, aun cuando se produzca la anterior circunstancia, el derecho de separación no surgirá si el total de los dividendos distribuidos durante los últimos cinco años equivale, por lo menos, al veinticinco por ciento de los beneficios legalmente distribuibles registrados en dicho periodo.
 
-2. El plazo para el ejercicio del derecho de separación será de un mes a contar desde la fecha en que se hubiera celebrado la junta general ordinaria de socios.
+Lo dispuesto en el párrafo anterior se entenderá sin perjuicio del ejercicio de las acciones de impugnación de acuerdos sociales y de responsabilidad que pudieran corresponder.
 
-3. Lo dispuesto en este artículo no será de aplicación a las sociedades cotizadas.
+2. Para la supresión o modificación de la causa de separación a que se refiere el apartado anterior, será necesario el consentimiento de todos los socios, salvo que se reconozca el derecho a separarse de la sociedad al socio que no hubiera votado a favor de tal acuerdo.
 
-> Téngase en cuenta que queda suspendida la aplicación de este artículo hasta el 31 de diciembre de 2016, según establece la disposición final 1.2 de la Ley 9/2015, de 25 de mayo. Ref. BOE-A-2015-5744#dfprimera.
+3. El plazo para el ejercicio del derecho de separación será de un mes a contar desde la fecha en que se hubiera celebrado la junta general ordinaria de socios.
+
+4. Cuando la sociedad estuviere obligada a formular cuentas consolidadas, deberá reconocerse el mismo derecho de separación al socio de la dominante, aunque no se diere el requisito establecido en el párrafo primero de este artículo, si la junta general de la citada sociedad no acordara la distribución como dividendo de al menos el veinticinco por ciento de los resultados positivos consolidados atribuidos a la sociedad dominante del ejercicio anterior, siempre que sean legalmente distribuibles y, además, se hubieran obtenido resultados positivos consolidados atribuidos a la sociedad dominante durante los tres ejercicios anteriores.
+
+5. Lo dispuesto en este artículo no será de aplicación en los siguientes supuestos:
+
+a) Cuando se trate de sociedades cotizadas o sociedades cuyas acciones estén admitidas a negociación en un sistema multilateral de negociación.
+
+b) Cuando la sociedad se encuentre en concurso.
+
+c) Cuando, al amparo de la legislación concursal, la sociedad haya puesto en conocimiento del juzgado competente para la declaración de su concurso la iniciación de negociaciones para alcanzar un acuerdo de refinanciación o para obtener adhesiones a una propuesta anticipada de convenio, o cuando se haya comunicado a dicho juzgado la apertura de negociaciones para alcanzar un acuerdo extrajudicial de pagos.
+
+d) Cuando la sociedad haya alcanzado un acuerdo de refinanciación que satisfaga las condiciones de irrescindibilidad fijadas en la legislación concursal.
+
+e) Cuando se trate de Sociedades Anónimas Deportivas.
+
+> Se modifica por el art. 2.6 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+
+> Téngase en cuenta que esta modificación será de aplicación a las juntas generales que se celebren a partir del 30 de diciembre de 2018, según establece el segundo párrafo del apartado 1 de la disposición transitoria de la citada Ley.
 
 > Se suspende la aplicación hasta el 31 de diciembre de 2016 por la disposición final 1.2 de la Ley 9/2015, de 25 de mayo. Ref. BOE-A-2015-5744#dfprimera
 

@@ -26,6 +26,12 @@ h) La aprobación, previo informe de la comisión de auditoría, de las operacio
 
 i) La determinación de la estrategia fiscal de la sociedad.
 
+j) La supervisión del proceso de elaboración y presentación de la información financiera y del informe de gestión, que incluirá, cuando proceda, la información no financiera preceptiva, y presentar recomendaciones o propuestas al órgano de administración, dirigidas a salvaguardar su integridad.
+
 2. Cuando concurran circunstancias de urgencia, debidamente justificadas, se podrán adoptar las decisiones correspondientes a los asuntos anteriores por los órganos o personas delegadas, que deberán ser ratificadas en el primer Consejo de Administración que se celebre tras la adopción de la decisión.
+
+> Se añade la letra j) por el art. 2.9 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+
+> Téngase en cuenta que esta modificación será de aplicación para los ejercicios económicos que se inicien a partir del 1 de enero de 2018, según establece la disposición transitoria de la citada Ley.
 
 > Se añade por el art. único.41 de la Ley 31/2014, de 3 de diciembre. Ref. BOE-A-2014-12589.

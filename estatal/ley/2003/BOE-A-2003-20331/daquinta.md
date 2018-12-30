@@ -22,11 +22,11 @@ Los efectos tributarios a informar serán los previstos en las letras a) a c) de
 
 3. Cuando las instituciones de inversión colectiva tengan diferentes compartimentos o distintas clases de participaciones o series de acciones, las circunstancias a que se refiere el primer párrafo de los apartados 1 y 2 anteriores se entenderán referidas a cada compartimento, clase de participaciones o serie de acciones.
 
-4. La información señalada en el apartado 1 de este artículo deberá suministrarse por la correspondiente entidad gestora o comercializadora a los nuevos partícipes que vayan a quedar incluidos en sus registros, con carácter previo a la primera suscripción que realicen en cualquier fondo de inversión gestionado o comercializado por dicha entidad.
+4. La información señalada en el apartado 1 de esta disposición deberá suministrarse por la correspondiente entidad gestora o comercializadora a los nuevos partícipes que vayan a quedar incluidos en sus registros, con carácter previo a la primera suscripción que realicen en cualquier fondo de inversión gestionado o comercializado por dicha entidad, así como a los partícipes cuyas inversiones vayan a quedar registradas en el comercializador por aplicación de lo previsto en el último inciso del párrafo quinto del artículo 40.3 de esta Ley.
 
 5. La información señalada en el apartado 2 de este artículo deberá suministrarse por la entidad comercializadora a los nuevos partícipes o accionistas que vayan a quedar incluidos en su registro, con carácter previo a la primera suscripción o adquisición de participaciones o acciones que realicen en cualquiera de las instituciones de inversión colectiva comercializadas por dicha entidad.
 
-> Téngase en cuenta que esta disposición produce efectos desde el 1 de enero de 2014.
+> Se modifica el apartado 4 por la disposición final 1.20 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
 
 > Se añade, con efectos desde el 1 de enero de 2014, por la disposición final 1.4 de la Ley 16/2013, de 29 de octubre. Ref. BOE-A-2013-11331.
 

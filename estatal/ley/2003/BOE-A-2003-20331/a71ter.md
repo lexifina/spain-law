@@ -4,11 +4,17 @@
 
 La Comisión Nacional del Mercado de Valores prestará ayuda a las autoridades competentes de los demás Estados miembros. En particular, facilitará de forma inmediata la información necesaria para el desempeño por estas autoridades de sus funciones y colaborará en actividades de investigación o supervisión. La Comisión Nacional del Mercado de Valores podrá ejercer sus poderes para fines de cooperación, incluso en casos en que el comportamiento investigado no constituya una infracción de la normativa vigente en España.
 
+La Comisión Nacional del Mercado de Valores también cooperará, en su caso, con las autoridades competentes de otros Estados miembros para facilitar el cobro de las sanciones pecuniarias.
+
 Igualmente la Comisión Nacional del Mercado de Valores cooperará con la Autoridad Europea de Valores y Mercados de conformidad con el Reglamento (UE) n.º 1095/2010 del Parlamento Europeo y del Consejo, de 24 de noviembre de 2010, por el que se crea una Autoridad Europea de Supervisión (Autoridad Europea de Valores y Mercados), se modifica la Decisión 716/2009/CE y se deroga la Decisión 2009/77/CE de la Comisión, y transmitirá, sin demora, a dicha Autoridad toda la información necesaria para el cumplimiento de sus tareas, de conformidad con el artículo 35 de dicho Reglamento.
 
 2. Cuando la Comisión Nacional del Mercado de Valores tenga motivos fundados para sospechar que entidades no sujetas a su supervisión están realizando o han realizado en el territorio de otro Estado miembro de la Unión Europea actividades contrarias a las disposiciones nacionales de ese Estado por las que se haya transpuesto la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, y la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, lo notificará del modo más concreto posible a Autoridad Europea de Valores y Mercados y a la autoridad competente de dicho Estado miembro. Esta comunicación se entenderá sin perjuicio de las competencias que pueda ejercer la Comisión Nacional del Mercado de Valores.
 
 3. Asimismo, cuando la CNMV reciba una notificación de la autoridad competente de otro Estado miembro de la UE en la que se señale la existencia de motivos fundados para sospechar que entidades no sujetas a la supervisión de esa autoridad competente están realizando o han realizado en territorio español actividades contrarias a esta Ley, y a sus disposiciones de desarrollo, la CNMV deberá adoptar las medidas oportunas para corregir esta situación. Además, comunicará a la autoridad competente notificante el resultado de su intervención y, en la medida de lo posible, los avances intermedios significativos.
+
+La Comisión Nacional del Mercado de Valores cooperará estrechamente con las demás autoridades competentes de la Unión Europea para garantizar que las facultades de supervisión e inspección se ejercen y las sanciones administrativas se imponen con eficacia.
+
+La Comisión Nacional del Mercado de Valores coordinará su actuación con las demás autoridades competentes de la Unión Europea para evitar posibles repeticiones y duplicidades cuando ejerzan dichas facultades de supervisión e inspección y apliquen medidas y sanciones administrativas en casos transfronterizos.
 
 4. La CNMV podrá pedir la cooperación de la autoridad competente de otro Estado miembro de la UE en una actividad de supervisión, para una verificación in situ o una investigación en el territorio de este último, en el marco de las competencias conferidas en esta Ley y su normativa de desarrollo.
 
@@ -30,15 +36,19 @@ En el caso de que la CNMV permita que sea la autoridad competente del Estado mie
 
 6. La CNMV podrá negarse a dar curso a una solicitud de cooperación en una investigación o una verificación in situ conforme al apartado 5, o a intercambiar información conforme al apartado 1 solamente en caso de que:
 
-a) dicha investigación, verificación in situ o intercambio de información pueda atentar contra la soberanía, la seguridad o el orden público;
+a) dicha investigación, verificación in situ o intercambio de información pueda atentar contra la soberanía, la seguridad o el orden público, y, en particular a la lucha contra el terrorismo y otros delitos graves;
 
 b) se haya incoado un procedimiento judicial por los mismos hechos y contra las mismas personas en España;
 
 c) se haya dictado ya una resolución judicial firme con respecto a las mismas personas y los mismos hechos en España.
 
+d) pueda perjudicar a las investigaciones propias de la Comisión Nacional del Mercado de Valores o a sus actividades de vigilancia del cumplimiento de la normativa o a una investigación penal en curso.
+
 La CNMV notificará la denegación a la autoridad competente solicitante. En la notificación deberá motivarse la decisión adoptada.
 
 7. Si la solicitud de cooperación en una investigación o una verificación in situ conforme al apartado 4, o de que el personal de la CNMV acompañe al de la autoridad competente del otro Estado miembro en estas actuaciones, o la dirigida a intercambiar información, es rechazada por parte de las autoridades competentes del otro Estado miembro, o no se le da curso en un plazo razonable desde la remisión de dicha solicitud por parte de la CNMV a la otra autoridad competente, la CNMV podrá ponerlo en conocimiento de la Autoridad Europea de Valores y Mercados, de conformidad con el artículo 19 del Reglamento (UE) n.º 1095/2010 del Parlamento Europeo y del Consejo de 24 de noviembre de 2010 por el que se crea una Autoridad Europea de Supervisión (Autoridad Europea de Valores y Mercados), se modifica la Decisión 716/2009/CE y se deroga la Decisión 2009/77/CE de la Comisión.
+
+> Se modifican los apartados 1, 3 y 6 por la disposición final 1.6 a 8 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
 
 > Se modifican los apartados 1 y 2 por la disposición final 1.37 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.
 

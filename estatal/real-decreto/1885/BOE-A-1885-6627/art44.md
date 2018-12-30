@@ -1,6 +1,6 @@
 ## Art. 44.
 
-1. Las cuentas anuales consolidadas comprenderán el balance, la cuenta de pérdidas y ganancias, un estado que refleje los cambios en el patrimonio neto del ejercicio, un estado de flujos de efectivo y la memoria, consolidados. Estos documentos forman una unidad. A las cuentas anuales consolidadas se unirá el informe de gestión consolidado.
+1. Las cuentas anuales consolidadas comprenderán el balance, la cuenta de pérdidas y ganancias, un estado que refleje los cambios en el patrimonio neto del ejercicio, un estado de flujos de efectivo y la memoria, consolidados. Estos documentos forman una unidad. A las cuentas anuales consolidadas se unirá el informe de gestión consolidado que incluirá, cuando proceda, el estado de información no financiera.
 
 2. Las cuentas anuales consolidadas deberán formularse con claridad y reflejar la imagen fiel del patrimonio, de la situación financiera y de los resultados del conjunto constituido por las sociedades incluidas en la consolidación. Cuando la aplicación de las disposiciones de este Código no fuera suficiente para dar la imagen fiel, en el sentido indicado anteriormente, se aportarán en la memoria las informaciones complementarias precisas para alcanzar ese resultado.
 
@@ -12,6 +12,10 @@ En casos excepcionales, si la aplicación de una disposición contenida en los a
 
 5. Las cuentas consolidadas deberán ser formuladas expresando los valores en euros.
 
-6. Las cuentas y el informe de gestión consolidados serán firmados por todos los administradores de la sociedad obligada a formularlos, que responderán de la veracidad de los mismos. Si faltara la firma de alguno de ellos, se señalará en los documentos en que falte, con expresa mención de la causa.
+6. Las cuentas y el informe de gestión consolidados, que incluirá, cuando proceda, el estado de información no financiera consolidado, serán firmados por todos los administradores de la sociedad obligada a formularlos, que responderán de la veracidad de los mismos. Si faltara la firma de alguno de ellos, se señalará en los documentos en que falte, con expresa mención de la causa.
+
+> Se modifican los apartados 1 y 6 por el art. 1.1 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
+
+> Esta modificación será de aplicación para los ejercicios económicos que se inicien a partir del 1 de enero de 2018, según establece la disposición transitoria.1 de la citada Ley.
 
 > Se modifica por el art. 1.2 de la Ley 16/2007, de 4 de julio. Ref. BOE-A-2007-13023.
