@@ -2,27 +2,27 @@
 
 1. Los jueces y magistrados tendrán derecho a licencias por razón de matrimonio de 15 días de duración.
 
-2. También tendrán derecho a una licencia en caso de parto, adopción y acogimiento tanto preadoptivo como permanente, cuya duración y condiciones se regularán por la legislación general en esta materia. El Consejo General del Poder Judicial, mediante reglamento, adaptará dicha normativa a las particularidades de la carrera judicial.
-
-En los supuestos de adopción internacional, cuando sea necesario el desplazamiento previo de los padres al país de origen del adoptado, el permiso previsto en este artículo podrá iniciarse hasta cuatro semanas antes de la resolución por la que se constituya la adopción.
+2. También tendrán derecho a una licencia en caso de parto, guarda con fines de adopción, acogimiento o adopción, cuya duración y condiciones se regularán por la legislación general en esta materia. El Consejo General del Poder Judicial, mediante reglamento, adaptará dicha normativa a las particularidades de la carrera judicial. En los supuestos de adopción internacional, cuando sea necesario el desplazamiento previo de los padres al país de origen del adoptado, el permiso previsto en este artículo podrá iniciarse hasta cuatro semanas antes de la resolución por la que se constituya la adopción.
 
 3. Tendrán también derecho a licencia para realizar estudios relacionados con la función judicial, previo informe favorable del Presidente del Tribunal correspondiente, que tendrá en cuenta las necesidades del servicio.
 
 Finalizada la licencia, se elevará al Consejo General del Poder Judicial memoria de los trabajos realizados, y si su contenido no fuera bastante para justificarla, se compensará la licencia con el tiempo que se determine de las vacaciones del interesado.
 
-4. También podrán disfrutar de hasta cinco días de permiso en el año natural, separada o acumuladamente. Los superiores respectivos solo podrán denegarlos por necesidad del servicio.
+4. También podrán disfrutar de permisos de tres días, sin que puedan exceder de seis permisos en el año natural, ni de uno al mes. Los tres días podrán disfrutarse, separada o acumuladamente, siempre dentro del mismo mes.
+
+Para su concesión, el peticionario deberá justificar la necesidad a los superiores respectivos, de quienes habrá de obtener autorización, que podrán denegar cuando coincidan con señalamientos, vistas o deliberaciones salvo que se justifique que la petición obedece a una causa imprevista o de urgencia.
 
 5. Por el fallecimiento, accidente o enfermedad graves del cónyuge, de persona a la que estuviese unido por análoga relación de afectividad o de un familiar dentro del primer grado de consanguinidad o afinidad, los jueces o magistrados podrán disponer de un permiso de tres días hábiles, que podrá ser de hasta cinco días hábiles cuando a tal efecto sea preciso un desplazamiento a otra localidad, en cuyo caso será de cinco días hábiles.
 
 Estos permisos quedarán reducidos a dos y cuatro días hábiles, respectivamente, cuando el fallecimiento y las otras circunstancias señaladas afecten a familiares en segundo grado de afinidad o consanguinidad.
 
-6. Por el nacimiento, acogimiento o adopción de un hijo, el juez o magistrado tendrá derecho a disfrutar de un permiso de paternidad de quince días, a partir de la fecha del nacimiento, de la decisión administrativa o judicial de acogimiento o de la resolución judicial por la que se constituya la adopción.
+6. Por el nacimiento, guarda con fines de adopción, acogimiento o adopción, los jueces y magistrados tendrán derecho a un permiso de paternidad de cuatro semanas de duración, a disfrutar por el padre o el otro progenitor a partir de la fecha del nacimiento, de la decisión administrativa de guarda con fines de adopción o acogimiento, o de la resolución judicial por la que se constituya la adopción.
 
-7. Los jueces y magistrados tendrán derecho a permisos y licencias para la conciliación de la vida personal, familiar y laboral, y por razón de violencia de género. El Consejo General del Poder Judicial, mediante reglamento, adaptará a las particularidades de la carrera judicial la normativa de la Administración General del Estado vigente en la materia.
+Este permiso es independiente del disfrute compartido de la licencia en caso de parto, guarda con fines de adopción, acogimiento o adopción prevista en el apartado 2.
 
-8. Los jueces y magistrados podrán interesar del Presidente del que dependan, ausentarse de la sede del órgano judicial en el que estuviesen destinados hasta un máximo de tres días al mes y no más de nueve al año, para el estudio o resolución de causas de especial complejidad, hacer frente a situaciones de acumulación de asuntos cuando ello no fuere atribuible al rendimiento del solicitante, o cuando otras circunstancias así lo aconsejaren, debiendo comunicarlo con, al menos, tres días de antelación. Dicha autorización solo se denegará, motivadamente, cuando coincida con señalamientos, vistas o deliberaciones o no queden cubiertas las necesidades del servicio.
+7. Los jueces y magistrados dispondrán, al menos, de todos los derechos establecidos para los miembros de la Administración General del Estado y que supongan una mejora en materia de conciliación, permisos, licencias y cualquier otro derecho reconocido en dicho ámbito. El Consejo General del Poder Judicial tendrá la obligación de adaptar de manera inmediata, mediante acuerdo del Pleno, cualquier modificación que, cumpliendo esos requisitos, se produzca en dicho régimen. Todo ello, sin perjuicio e independientemente de las particularidades propias del estatuto profesional de jueces y magistrados, así como de la promoción de mejoras propias por los cauces correspondientes.
 
-Para la concesión de estas autorizaciones no será obstáculo el disfrute en el mismo mes de los permisos a los que se refiere el número 4 de este precepto.
+> Se suprime el apartado 8 y se modifican los apartados 2, 4, 6 y 7 por el art. único.21 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se modifica el apartado 4 por el art. único.3 de la Ley Orgánica 4/2014, de 11 de julio. Ref. BOE-A-2014-7368.
 
