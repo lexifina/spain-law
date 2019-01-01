@@ -4,4 +4,6 @@
 
 Asimismo, en estos contratos las situaciones de incapacidad temporal, riesgo durante el embarazo, maternidad, adopción, guarda con fines de adopción, acogimiento, riesgo durante la lactancia y paternidad no interrumpirán el cómputo de la duración del contrato.
 
-2. La acción protectora de la Seguridad Social en los contratos para la formación y el aprendizaje suscritos con alumnos trabajadores en los programas de escuelas taller, casas de oficios y talleres de empleo, comprenderá las mismas contingencias, situaciones protegibles y prestaciones que para el resto de trabajadores contratados bajo esta modalidad, tal y como establecen el artículo 11.2.h) y el texto refundido de la Ley General de la Seguridad Social, a excepción del desempleo.
+2. (Derogado).
+
+> Se deroga el apartado 2 por la disposición derogatoria única 2.c) del Real Decreto-ley 28/2018, de 28 de diciembre. Ref. BOE-A-2018-17992#dd

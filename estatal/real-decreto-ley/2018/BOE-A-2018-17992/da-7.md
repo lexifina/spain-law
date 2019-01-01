@@ -1,0 +1,5 @@
+## Disposición adicional séptima. Efectos económicos del incremento de determinadas pensiones de viudedad de clases pasivas.
+
+El incremento de las pensiones de viudedad de clases pasivas afectadas por la modificación del artículo 39 del Texto Refundido de la Ley de Clases Pasivas del Estado, efectuada por la disposición final sexta de este real decreto-ley y que se estuvieran percibiendo en la fecha de su entrada en vigor, tendrá efectos económicos de 1 de enero de 2019 y se revisarán de oficio por la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Hacienda y por la Dirección General de Personal del Ministerio de Defensa, en el ámbito de sus respectivas competencias.
+
+A efectos de la revisión contemplada en el párrafo anterior será de aplicación lo establecido en las disposiciones transitorias tercera y cuarta del Real Decreto 1413/2018, de 2 de diciembre por el que se desarrollan las previsiones de la Ley 6/2018, de 3 de julio, de Presupuestos Generales del Estado para 2018 en materia de pensiones de viudedad del Régimen de Clases Pasivas del Estado.

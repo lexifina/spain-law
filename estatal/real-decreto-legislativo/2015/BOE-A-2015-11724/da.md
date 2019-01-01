@@ -44,6 +44,6 @@ c) El pago periódico de la ayuda económica se realizará por el Servicio Públ
 
 6. En lo no previsto expresamente en esta disposición se estará a lo dispuesto en el Título III.
 
-7. Esta disposición tendrá una vigencia de seis meses a partir de su entrada en vigor, y se prorrogará de forma automática por períodos semestrales, hasta que la tasa de desempleo se sitúe por debajo del 15 por ciento según la última Encuesta de Población Activa publicada con anterioridad a la fecha de la prórroga.
+> Se deroga el apartado 7 por la disposición derogatoria única.2.d) del Real Decreto-ley 28/2018, de 28 de diciembre. Ref. BOE-A-2018-17992#dd
 
 > Se añade por la disposición final 40.5 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-41

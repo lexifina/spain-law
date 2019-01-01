@@ -4,6 +4,8 @@
 
 De igual forma, la anterior fecha se tomará para la entrada en vigor de la obligatoriedad de cotización establecida en el punto 3 del artículo 26 de la presente Ley.
 
-2. Por el Gobierno se determinarán aquellas actividades profesionales desarrolladas por trabajadores autónomos que presentan un mayor riesgo de siniestralidad, en las que será obligatoria la cobertura de las contingencias de accidentes de trabajo y enfermedades profesionales de la Seguridad Social. En tales supuestos, será de aplicación lo previsto en el apartado 3 del artículo 26.
+2. (Suprimido).
 
 3. Lo dispuesto en los apartados anteriores no será de aplicación a los trabajadores por cuenta propia agrarios, incorporados al «Sistema Especial de Trabajadores Agrarios por Cuenta Propia», para quien la cobertura de la incapacidad temporal y de las contingencias profesionales seguirán siendo de cobertura voluntaria.
+
+> Se suprime el apartado 2 por la disposición final 3.7 del Real Decreto-ley 28/2018, de 28 de diciembre. Ref. BOE-A-2018-17992#df-3

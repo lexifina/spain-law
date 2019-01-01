@@ -1,3 +1,7 @@
 ## Disposición transitoria primera. Aplicación temporal de las medidas.
 
-Las medidas establecidas en los artículos 9 al 13 de esta ley se mantendrán en vigor hasta que la tasa de desempleo en nuestro país se sitúe por debajo del 15 por ciento, tal y como se establezca reglamentariamente por el Ministerio de Empleo y Seguridad Social.
+(Derogada).
+
+> Se deroga por la disposición derogatoria única 2.b) del Real Decreto-ley 28/2018, de 28 de diciembre. Ref. BOE-A-2018-17992#dd
+
+> Téngase en cuenta, para los contratos celebrados con anterioridad, la disposición transitoria 6 del citado Real Decreto-ley.
