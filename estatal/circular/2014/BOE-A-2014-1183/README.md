@@ -16,6 +16,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Norma segunda](normasegunda.md)
 - [Norma tercera](normatercera.md)
 - [Norma tercera bis](nt.md)
+- [Norma tercera ter](nt-2.md)
 - [Norma tercera quater](nt-3.md)
 - [Norma tercera quinquies](nt-4.md)
 - [CAPÍTULO 2](c2.md)
