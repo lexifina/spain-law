@@ -180,7 +180,7 @@ Uno. Los procedimientos que se relacionan a continuación podrán entenderse des
 
 89. Procedimiento de autorización de otros procedimientos de rectificación de facturas, de acuerdo con lo previsto en el artículo 15.4, segundo párrafo, del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.
 
-90. (Derogado)
+90. Procedimiento de autorización de exoneración de la obligación de expedición de facturas, de acuerdo con lo previsto en el artículo 3.2, letra b), segundo párrafo, del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.
 
 91. Procedimiento de autorización para que en las facturas rectificativas no sea necesaria la especificación de las facturas rectificadas, bastando la simple determinación del periodo al que se refieran, de acuerdo con lo previsto en el artículo 15.4 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.
 
@@ -196,25 +196,7 @@ Dos. Los procedimientos que se relacionan a continuación deberán entenderse es
 
 2. Procedimiento para la calificación de la condición de entidades o establecimientos de carácter social, regulado en el artículo 6 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
 
-> Téngase en cuenta que esta redacción de los apartados uno.86, 87, 88, 91 y 94 y dos.2 establecida por el art. 3.1 del Real Decreto 828/2013, de 25 de octubre. Ref. BOE-A-2013-11216. entra en vigor el 1-1-2014.
-
-> Redacción vigente hasta 31-12-2013:
-
-> Uno.
-
-> 86. Procedimiento de autorización para no expedir factura, de acuerdo con lo previsto en el artículo 3.1.d) del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
-
-> 87. Procedimiento de autorización para que la obligación de expedir factura pueda ser cumplida mediante la expedición de tique, de acuerdo con lo previsto en el artículo 4.1.ñ) del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
-
-> 88. Procedimiento de autorización para que la expedición de facturas o documentos sustitutivos se realice por el destinatario de la operación o por un tercero que no esté establecido en la Comunidad Europea, salvo que se encuentre establecido en Canarias, Ceuta o Melilla o en un país con el cual exista un instrumento jurídico relativo a la asistencia mutua, todo ello de acuerdo con lo previsto en el artículo 5.4 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
-
-> 91. Procedimiento de autorización para que en las facturas rectificativas no sea necesaria la especificación de las facturas rectificadas, bastando la simple determinación del periodo al que se refieran, de acuerdo con lo previsto en el artículo 13.4 del Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1496/2003, de 28 de noviembre.
-
-> 94. Procedimiento para la deducción de las cuotas tributarias satisfechas como consecuencia de la adquisición de aceites, combustibles y lubricantes establecidas en el Convenio entre los Estados parte del Tratado del Atlántico Norte, regulado en el artículo 4.º del Real Decreto 1967/1999, de 23 de diciembre, que comprende las exenciones en los impuestos indirectos relativas a la Organización del Tratado del Atlántico Norte y a los Estados Partes de dicho Tratado y establece el procedimiento para su aplicación.
-
-> Dos.
-
-> 2. Procedimiento para el reconocimiento de la condición de entidades o establecimiento de carácter social, regulado en el artículo 6 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
+> Se añade el número 90 al apartado Uno por la disposición final 2 del Real Decreto 1512/2018, de 28 de diciembre. Ref. BOE-A-2018-17995
 
 > Se añade el apartado 1.89 por el art. 7 del Real Decreto 1075/2017, de 29 de diciembre. Ref. BOE-A-2017-15843
 

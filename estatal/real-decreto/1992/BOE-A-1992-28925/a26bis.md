@@ -1,6 +1,6 @@
 ## Artículo 26 bis. Tipo impositivo reducido.
 
-Uno. A efectos de lo previsto en el segundo párrafo del artículo 91.dos.1.6.º de la Ley del Impuesto, relativo a determinadas entregas de viviendas, las circunstancias de que el destinatario tiene derecho a aplicar el régimen especial previsto en el capítulo III del título VII del Texto Refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, y de que a las rentas derivadas de su posterior arrendamiento les es aplicable la bonificación establecida en el artículo 54.1 de dicha ley, podrán acreditarse mediante una declaración escrita firmada por el referido destinatario dirigida al sujeto pasivo, en la que aquél haga constar, bajo su responsabilidad, su cumplimiento.
+Uno. A efectos de lo previsto en el segundo párrafo del artículo 91.dos.1.6.º de la Ley del Impuesto, relativo a determinadas entregas de viviendas, las circunstancias de que el destinatario tiene derecho a aplicar el régimen especial previsto en el capítulo III del título VII de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades, y de que a las rentas derivadas de su posterior arrendamiento les es aplicable la bonificación establecida en el artículo 49.1 de dicha Ley, podrán acreditarse mediante una declaración escrita firmada por el referido destinatario dirigida al sujeto pasivo, en la que aquél haga constar, bajo su responsabilidad, su cumplimiento.
 
 De mediar las circunstancias previstas en el artículo 87.uno de la Ley del Impuesto, el citado destinatario responderá solidariamente de la deuda tributaria correspondiente, sin perjuicio, asimismo, de la aplicación de lo dispuesto en el artículo 170.dos.2.º de la misma ley.
 
@@ -10,7 +10,7 @@ Dos.1. Se aplicará lo previsto en el artículo 91.dos.1.4.º, segundo párrafo,
 
 No obstante, este requisito no se exigirá en el supuesto de siniestro total de los vehículos, certificado por la entidad aseguradora o cuando se justifique la baja definitiva de los vehículos.
 
-No se considerarán adquiridos en análogas condiciones, los vehículos adquiridos para el transporte habitual de personas con discapacidad en silla de ruedas o con movilidad reducida, por personas jurídicas o entidades que presten servicios sociales de promoción de la autonomía personal y de atención a la dependencia a que se refiere la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, así como servicios sociales a que se refiere la Ley 13/1982, de 7 de abril, de integración social de los minusválidos, siempre y cuando se destinen al transporte habitual de distintos grupos definidos de personas o a su utilización en distintos ámbitos territoriales o geográficos de aquéllos que dieron lugar a la adquisición o adquisiciones previas.
+No se considerarán adquiridos en análogas condiciones, los vehículos adquiridos para el transporte habitual de personas con discapacidad en silla de ruedas o con movilidad reducida, por personas jurídicas o entidades que presten servicios sociales de promoción de la autonomía personal y de atención a la dependencia a que se refiere la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, así como servicios sociales a que se refiere el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, siempre y cuando se destinen al transporte habitual de distintos grupos definidos de personas o a su utilización en distintos ámbitos territoriales o geográficos de aquéllos que dieron lugar a la adquisición o adquisiciones previas.
 
 En todo caso, el adquirente deberá justificar la concurrencia de dichas condiciones distintas a las que se produjeron en la adquisición del anterior vehículo o vehículos.
 
@@ -51,6 +51,8 @@ b) Los titulares de la tarjeta de estacionamiento para personas con discapacidad
 3. En las importaciones, el reconocimiento del derecho corresponderá a la aduana por la que se efectúe la importación.
 
 4. Los sujetos pasivos que realicen las entregas de vehículos para el transporte habitual de personas con discapacidad en silla de ruedas o con movilidad reducida a que se refiere el segundo párrafo del artículo 91.dos.1.4° de la Ley del Impuesto sólo podrán aplicar el tipo impositivo reducido cuando el adquirente acredite su derecho mediante el documento en el que conste el pertinente acuerdo de la Agencia Estatal de Administración Tributaria, el cual deberá conservarse durante el plazo de prescripción.
+
+> Se modifica el primer párrafo del apartado Uno y el tercer párrafo del apartado Dos.1.1º por el art. 1.3 del Real Decreto 1512/2018, de 28 de diciembre. Ref. BOE-A-2018-17995
 
 > Se modifica el apartado 2.1 y 2 por el art. 1.13 del Real Decreto 828/2013, de 25 de octubre. Ref. BOE-A-2013-11216.
 

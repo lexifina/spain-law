@@ -1,6 +1,6 @@
 ## Artículo 68 bis. Opción por la llevanza electrónica de los libros registro.
 
-La opción a que se refiere el artículo 62.6 de este Reglamento, se deberá ejercer durante el mes de noviembre anterior al inicio del año natural en el que deba surtir efecto mediante la presentación de la correspondiente declaración censal. No obstante quienes hubieran iniciado la realización de actividades empresariales o profesionales en el año natural en curso, podrán optar por este sistema de llevanza de los libros registro al tiempo de presentar la declaración de comienzo de la actividad, surtiendo efecto dicha opción en el año natural en curso.
+La opción a que se refiere el artículo 62.6 de este Reglamento, podrá ejercitarse a lo largo de todo el ejercicio, mediante la presentación de la correspondiente declaración censal, surtiendo efecto para el primer periodo de liquidación que se inicie después de que se hubiera ejercicio dicha opción.
 
 La opción se entenderá prorrogada para los años siguientes en tanto no se produzca la renuncia a la misma.
 
@@ -14,9 +14,7 @@ El cese en la aplicación del régimen especial del grupo de entidades conforme 
 
 Lo establecido en los dos párrafos anteriores no será de aplicación cuando se trate de empresarios o profesionales cuyo periodo de liquidación siga siendo mensual de acuerdo con lo dispuesto en el artículo 71.3 de este Reglamento.
 
-> Téngase en cuenta que esta última actualización añadiendo el art. 68.bis por el art. 1.11 del Real Decreto 596/2016, de 2 de diciembre. Ref. BOE-A-2016-11575., entra en vigor el 1 de julio de 2017.
-
-> Véase sobre la opción por la llevanza electrónica de los libros registro para 2017 lo establecido en su disposición transitoria 1.
+> Se modifica el primer párrafo por el art. 1.11 del Real Decreto 1512/2018, de 28 de diciembre. Ref. BOE-A-2018-17995
 
 > Se añade, con efectos desde el 1 de julio de 2017, por el art. 1.11 del Real Decreto 596/2016, de 2 de diciembre. Ref. BOE-A-2016-11575.
 

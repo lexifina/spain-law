@@ -20,19 +20,19 @@ a) Que están actuando, con respecto a dichas operaciones, en su condición de e
 
 b) Que están actuando, con respecto a dichas operaciones, en su condición de revendedores, lo que deberán acreditar mediante la aportación de un certificado específico emitido a estos efectos a través de la sede electrónica de la Agencia Estatal de Administración Tributaria a que se refiere el artículo 24 quinquies de este Reglamento.
 
-> Téngase en cuenta que esta redacción del apartado 5, establecida por el art. 1.4 del Real Decreto 1073/2014, de 19 de diciembre. Ref. BOE-A-2014-13252. entra en vigor el 1 de abril de 2015, según establece la disposición final 3 del citado Real Decreto. Su redacción anterior es la recogida en el actual apartado 6.
-
 6. Las comunicaciones a que se refieren los apartados anteriores deberán efectuarse con carácter previo o simultáneo a la adquisición de los bienes o servicios en que consistan las referidas operaciones.
 
 7. Los destinatarios de las operaciones a que se refieren los apartados anteriores podrán acreditar bajo su responsabilidad, mediante una declaración escrita firmada por los mismos dirigida al empresario o profesional que realice la entrega o preste el servicio, que concurren, en cada caso y según proceda, las siguientes circunstancias:
 
 a) Que están actuando, con respecto a dichas operaciones, en su condición de empresarios o profesionales.
 
-b) Que tienen derecho a la deducción total del Impuesto soportado por las adquisiciones de los correspondientes bienes inmuebles.
+b) Que tienen derecho a la deducción total o parcial del Impuesto soportado por las adquisiciones de los correspondientes bienes inmuebles.
 
 c) Que las operaciones se realizan en el marco de un proceso de urbanización de terrenos o de construcción o rehabilitación de edificaciones.
 
 8. De mediar las circunstancias previstas en el apartado uno del artículo 87 de la Ley del Impuesto, los citados destinatarios responderán solidariamente de la deuda tributaria correspondiente, sin perjuicio, asimismo, de la aplicación de lo dispuesto en los números 2.º, 6.º y 7.º del apartado dos del artículo 170 de la misma Ley.
+
+> Se modifica la letra b) del apartado 7 por el art. 1.2 del Real Decreto 1512/2018, de 28 de diciembre. Ref. BOE-A-2018-17995
 
 > Se modifica por el art. 1.4 del Real Decreto 1073/2014, de 19 de diciembre. Ref. BOE-A-2014-13252.
 

@@ -14,6 +14,8 @@ d) La información correspondiente a las facturas rectificativas expedidas y rec
 
 No obstante, en el caso de que la rectificación determine un incremento del importe de las cuotas inicialmente deducidas de acuerdo con lo dispuesto en el número 1.º del apartado Dos del artículo 114 de la Ley del Impuesto, el plazo será el previsto en la letra b) anterior para las facturas recibidas.
 
+e) La información correspondiente al documento electrónico de reembolso al que se refiere el artículo 9.1.2.ºB) de este Reglamento, antes del día 16 del mes siguiente al período de liquidación en que se incluya la rectificación del Impuesto correspondiente a la devolución de la cuota soportada por el viajero.
+
 A efectos del cómputo del plazo de cuatro u ocho días naturales a que se refieren las letras a), b), c) y d) anteriores, se excluirán los sábados, los domingos y los declarados festivos nacionales.
 
 2. El suministro de la información correspondiente a las operaciones a las que sea de aplicación el régimen especial del criterio de caja deberá realizarse en los plazos establecidos en los apartados anteriores, como si a dichas operaciones no les hubiera sido de aplicación dicho régimen especial, sin perjuicio de los datos que deban suministrarse en el momento en que se efectúen los cobros o pagos totales o parciales de las operaciones.
@@ -21,6 +23,8 @@ A efectos del cómputo del plazo de cuatro u ocho días naturales a que se refie
 La información correspondiente a los cobros y pagos se realizará en el plazo de cuatro días naturales desde el cobro o pago correspondiente.
 
 3. En el caso de rectificaciones registrales a que se refiere el artículo 70 de este Reglamento, el suministro de los registros de facturación que recojan tales rectificaciones deberá realizarse antes del día 16 del mes siguiente al final del periodo en que el obligado tributario tenga constancia del error en que haya incurrido.
+
+> Se añade la letra e) al apartado 1 por el art. 1.13 del Real Decreto 1512/2018, de 28 de diciembre. Ref. BOE-A-2018-17995
 
 > Se modifica por el art. 1.6 del Real Decreto 1075/2017, de 29 de diciembre. Ref. BOE-A-2017-15843
 

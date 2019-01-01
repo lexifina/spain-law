@@ -150,6 +150,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 67](a67.md)
 - [Artículo 68](a68.md)
 - [Artículo 68 bis](a68bis.md)
+- [Artículo 68 ter](a6-3.md)
 - [Artículo 69](a69.md)
 - [Artículo 69 bis](a69bis.md)
 - [Artículo 70](a70.md)

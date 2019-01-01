@@ -28,6 +28,8 @@ l) la información utilizada para determinar el lugar de establecimiento del cli
 
 2. La información anterior deberá conservarse de tal manera que permita su disposición por vía electrónica, de forma inmediata y por cada uno de los servicios prestados y estará disponible tanto para el Estado de consumo como para el Estado de identificación.
 
-3. La expedición de factura, en los casos en que resulte procedente, se determinará y se ajustará conforme con las normas del Estado miembro de consumo.
+3. La expedición de factura, en los casos en que resulte procedente, se determinará y se ajustará conforme con las normas del Estado miembro de identificación.
+
+> Se modifica el apartado 3 por el art. 1.8 del Real Decreto 1512/2018, de 28 de diciembre. Ref. BOE-A-2018-17995
 
 > Se añade por el art. 1.16 del Real Decreto 1073/2014, de 19 de diciembre. Ref. BOE-A-2014-13252.

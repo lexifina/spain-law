@@ -22,6 +22,8 @@ f´) acceso a manifestaciones culturales, artísticas, deportivas, científicas,
 
 g´) seguros de viajes.
 
+h´) servicios de viajes a los que sea de aplicación el régimen especial de las agencias de viajes.
+
 2. Dichas facturas deberán contener los datos o requisitos que se indican a continuación, sin perjuicio de la posibilidad de incluir cualesquiera otras menciones:
 
 a) La indicación expresa de que se trata de una factura expedida por la agencia de viajes al amparo de lo previsto en esta disposición adicional.
@@ -45,5 +47,7 @@ a) En concepto de ventas, la información relativa a los servicios documentados 
 b) En concepto de compras, la información relativa a las prestaciones de servicios en cuya realización intervienen actuando como mediadoras en nombre y por cuenta ajena a que se refiere esta disposición, debidamente diferenciada.
 
 8. Las agencias de viajes que expidan las facturas a que se refiere esta disposición adicional deberán prestar su colaboración a la Administración tributaria proporcionando cualquier dato o antecedente de trascendencia tributaria respecto de las prestaciones de servicios documentadas en aquellas.
+
+> Se añade la letra h') a la letra c) del apartado 1 por el art. 2.4 del Real Decreto 1512/2018, de 28 de diciembre. Ref. BOE-A-2018-17995
 
 > Se modifican los apartados 1 a 3, 6 y 7 por el art. 5.3 del Real Decreto 1075/2017, de 29 de diciembre. Ref. BOE-A-2017-15843

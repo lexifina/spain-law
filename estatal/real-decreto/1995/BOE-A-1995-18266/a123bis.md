@@ -6,6 +6,8 @@ La aplicación de la exención a que se refiere el apartado 3 del artículo 61 d
 
 2. Las mencionadas tiendas deberán conservar los justificantes de las ventas de labores del tabaco a las que se ha aplicado la exención, en los que deberán constar la fecha de la venta, el número del vuelo o de la travesía marítima a realizar, el puerto o aeropuerto de destino final y la cantidad de labores de tabaco vendidas.
 
-3. Si entre las labores del tabaco vendidas hubiera cigarrillos, los envases deberán ir desprovistos de las marcas fiscales a que se refiere el artículo 26 o, caso de llevarlas, deberán ser retiradas de dichos envases para su posterior destrucción, bajo control de la administración tributaria.
+3. Si entre las labores de tabaco vendidas hubiera cigarrillos y picadura para liar, los envases deberán llevar adherida la marca fiscal a la que se refiere el artículo 26, sin que en ningún caso deba ser retirada o destruida en el momento de la salida del ámbito territorial interno.
+
+> Se modifica el apartado 3 por el art. 4.32 del Real Decreto 1512/2018, de 28 de diciembre. Ref. BOE-A-2018-17995
 
 > Se añade por el art. único.86 del Real Decreto 191/2010, de 26 de febrero. Ref. BOE-A-2010-3369
