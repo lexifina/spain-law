@@ -5,7 +5,7 @@
 | Especie | Peso máximo de un lote (en toneladas) | Peso mínimo de la muestra que ha de tomarse de un lote (en gramos) | Peso de la muestra para realizar los conteos que se especifican en el anejo I (en gramos) |
 | --- | --- | --- | --- |
 | 1 | 2 | 3 | 4 |
-| Poaceae (Gramineae) |
+| Poaceae (Gramineae) (*) |
 | Agrostis canina | 10 | 50 | 5 |
 | Agrostis capillaris | 10 | 50 | 5 |
 | Agrostis gigantea | 10 | 50 | 5 |
@@ -92,7 +92,9 @@
 
 En los pesos máximos de los lotes, se admite una tolerancia de hasta el 5 por 100.
 
-(*) El peso máximo de cada lote podrá aumentarse a 25 toneladas si el proveedor ha sido autorizado a tal efecto por la autoridad competente de la comunidad autónoma responsable de la certificación de estas semillas.
+(*) El peso máximo de cada lote podrá aumentarse a 25 toneladas si el proveedor ha sido autorizado a tal efecto por la autoridad competente de la Comunidad Autónoma responsable de la certificación de estas semillas.
+
+> Se modifica por el art. 2 de la Orden APA/1427/2018, de 27 de diciembre. Ref. BOE-A-2018-18096
 
 > Se modifica por el art. único.3 y el apartado 2 del Anejo de la Orden APM/902/2017, de 22 de septiembre. Ref. BOE-A-2017-10928
 

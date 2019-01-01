@@ -72,7 +72,17 @@ A) Condiciones que debe cumplir el cultivo:
 
 1) Los cultivos previos del campo de producción no habrán sido incompatibles con la producción de semillas de sorgo y el campo de producción estará suficientemente libre de plantas crecidas espontáneamente derivadas de cultivos anteriores.
 
-2) Con el fin de evitar polinizaciones no deseables, las parcelas de producción de semilla deberán mantener una distancia de aislamiento de cualquier otra siembra de sorgo adyacente no inferior a 300 metros. No obstante, esta distancia podrá ignorarse si existe una protección suficiente contra toda polinización extraña.
+2) El cultivo se ajustará a las normas siguientes en lo referente a las distancias de separación de fuentes adyacentes de polen que pudieran provocar una polinización extraña no deseable:
+
+Para la producción de semillas de base (*) 400 m.
+
+Para la producción de semillas certificadas (*) 200 m.
+
+(*) En las zonas en las que la presencia de S. halepense o S. sudanense plantee un problema concreto de polinización cruzada, será de aplicación lo siguiente:
+
+a) los cultivos para la producción de semillas de base de Sorghum bicolor o sus híbridos deberán estar aislados a una distancia no inferior a 800 m de cualquier fuente de este polen contaminante;
+
+b) los cultivos para la producción de semillas certificadas de Sorghum bicolor o sus híbridos deberán estar aislados a una distancia no inferior a 400 m de cualquier fuente de este polen contaminante.
 
 3) El cultivo tendrá suficiente identidad y pureza varietal o, en el caso de un cultivo de una línea consanguínea, suficiente identidad y pureza en lo que concierne a sus características. Para la producción de semillas de variedades híbridas, las disposiciones anteriores también se aplicarán a las características de los componentes, incluidas la androesterilidad o la restauración de la fertilidad.
 
@@ -201,5 +211,7 @@ G) Comercialización:
 2) Subdivisión en envases pequeños.–Los productores no podrán proceder al fraccionamiento de los envases originales en otros más pequeños si éstos no son precintados por los Servicios oficiales de control.
 
 3) Semillas de campañas anteriores.–Para poder comercializar semillas de campañas anteriores es requisito previo la realización de nuevos análisis en fecha posterior al 1 de octubre, así como el que por los Servicios oficiales de control se realice un reprecintado con la correspondiente toma de muestras.
+
+> Se modifica el punto 2 de la letra A) del apartado IV por el art. 1 de la Orden APA/1427/2018, de 27 de diciembre. Ref. BOE-A-2018-18096
 
 > Se corrigen errores por Orden ARM/2557/2011, de 21 de septiembre. Ref. BOE-A-2011-15174.
