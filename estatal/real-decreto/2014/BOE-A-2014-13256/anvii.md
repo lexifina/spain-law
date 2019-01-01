@@ -6,6 +6,8 @@ I. Información general
 
 1. La identificación del agricultor: NIF, apellidos y nombre del agricultor y, si procede, de su cónyuge y régimen matrimonial, en su caso, o razón social, fecha de nacimiento si procede, domicilio (tipo de vía y su número, código postal, municipio y provincia), teléfono y apellidos y nombre del representante legal en su caso, con su NIF. En caso de persona física, indicación de la si la titularidad de la explotación es compartida mediante la inscripción en el registro previo correspondiente. Si procede, la comprobación de los datos relativos a la identidad se realizará de oficio por el órgano instructor, si así se autoriza por el solicitante. En caso de no presentar dicha autorización, el solicitante deberá aportar el correspondiente documento.
 
+1 bis) Datos relativos al jefe de la explotación, necesarios para dar cumplimiento al Reglamento (UE) n.º 2018/1091 del Parlamento Europeo y del Consejo, de 18 de julio de 2018 relativo a las estadísticas integradas sobre explotaciones agrícolas y por el que se derogan los Reglamentos (CE) n.º 1166/2008 y (UE) n.º 1337/2011, y al Plan Estadístico Nacional.
+
 2. Los datos bancarios, con reseña de la entidad financiera así como de las cifras correspondientes al código IBAN, de banco y al de sucursal, los dos dígitos de control y el número de la cuenta corriente, libreta, etc., donde se quieran recibir los pagos.
 
 3. Declaración de que el titular de la explotación conoce las condiciones establecidas por la Unión Europea y el Estado español relativas a los regímenes de ayuda solicitados.
@@ -40,7 +42,7 @@ I. Información general
 
 18. En el caso de explotaciones agrícolas que realicen venta directa al consumidor final, declaración de dicha práctica, entendiéndose como tal cualquier forma de transferencia, a título oneroso o gratuito, realizada directamente por el productor a la persona consumidora final.
 
-> Téngase en cuenta que el punto 18, añadido por el art. 1.22 del Real Decreto 980/2017, de 10 de noviembre. Ref. BOE-A-2017-12981, entra en vigor el 1 de enero de 2018, según determina su disposición final única.
+19. En virtud de lo dispuesto en el artículo 98.4, declaración expresa para que se facilite a la Dirección General de Catastro del Ministerio de Hacienda, en los términos que se determinen por orden del Ministro de Hacienda, los datos personales mínimos exigibles, para que el titular catastral pueda ejercer sus derechos de acceso, respecto de las comunicaciones al Catastro Inmobiliario recogidas en el artículo 98.3.
 
 II. Declaración expresa de lo que solicita
 
@@ -64,7 +66,17 @@ Deberán declararse todas las parcelas agrícolas de la explotación, indicándo
 
 6. El sistema de explotación: secano o regadío, según proceda.
 
-7. En el caso de que la parcela se siembre de cereales u oleaginosas se indicará, con fines estadísticos, si la semilla utilizada es certificada o proviene de reempleo y la variedad sembrada cuando se trate de trigo duro, arroz, cáñamo, algodón, tabaco y remolacha azucarera. En el caso de cultivo de maíz, deberá indicarse si la variedad sembrada está modificada genéticamente o no.
+7. En el caso de que la parcela se siembre o esté plantada con:
+
+a) Cereales u oleaginosas, se indicará con fines estadísticos si la semilla utilizada es certificada o proviene de reempleo y la variedad sembrada cuando se trate de trigo duro, arroz, cáñamo, algodón, tabaco y remolacha azucarera.
+
+b) Maíz modificado genéticamente, deberán declararse todos los cultivos que se realicen por campaña y parcela, indicando siempre el cultivo declarado a efectos de diversificación y otros cultivos, tal y cómo quedan definidos en la letra c) y d) del artículo 89.1. Además, el agricultor presentará una declaración responsable en la que se indique que es conocedor de la normativa aplicable al uso de este tipo variedades.
+
+c) Cultivos proteicos de los definidos en el artículo 34, se indicará si dicha parcela se destina a la producción de semilla con fines comerciales.
+
+d) Cultivos hortícolas y frutales, deberá declararse anualmente y de forma gráfica toda la superficie de cultivo, a través de la solicitud única o de las vías que la autoridad competente establezca para tal fin.
+
+En el caso de superficies de frutales se indicará la especie, la variedad y el año de plantación. En el caso de cultivos hortícolas, deberán especificarse las especies a implantar en la campaña sobre la misma superficie.
 
 8. Superficies de interés ecológico:
 
@@ -82,29 +94,13 @@ Deberán declararse todas las parcelas agrícolas de la explotación, indicándo
 
 – Declaración responsable del solicitante que es conocedor de los requisitos recogidos en el artículo 35.
 
-> Téngase en cuenta que esta última actualización de los puntos 8 y 10, establecida por el art. 1.23 del Real Decreto 980/2017, de 10 de noviembre. Ref. BOE-A-2017-12981, entra en vigor el 1 de enero de 2018, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "8. Superficies de interés ecológico:
-
-> – Relación de parcelas en barbecho, superficies forestadas y superficies dedicadas a agrosilvicultura, tal y como éstas se describen en el artículo 24 del presente real decreto.
-
-> – Relación de parcelas de cultivos fijadores de nitrógeno, dedicadas a cada uno de los siguientes cultivos:
-
-> • Leguminosas para consumo humano o animal, diferenciando, en su caso, entre las siguientes especies: judía, garbanzo, lenteja, guisante, habas, altramuz, algarroba, titarros, almorta, veza, yeros, alholva, alverja, alverjón, esparceta y zulla.
-
-> • Alfalfa.
-
-> 10. En el caso de la ayuda asociada a los cultivos proteicos a que se refiere la sección 3.ª del capítulo I del título IV, la superficie por la que se solicita el pago deberá desglosarse por especie y, cuando corresponda, por variedad cultivada."
-
 11. En el caso, tanto de la ayuda asociada a los frutos de cáscara a que se refiere la sección 4.ª del capítulo I del título IV, como de la ayuda nacional a los frutos de cáscara a que se refiere la disposición adicional primera, las especies y el número de árboles de cada una de las especies existentes beneficiarias de dicha ayuda.
 
 12. En el caso del pago específico al cultivo del algodón a que se refiere la sección 8.ª del capítulo I del título IV, deberá indicar, en su caso, la organización interprofesional autorizada a la que pertenece.
 
 13. En el caso de la ayuda asociada al tomate para industria sección 7ª capítulo I título IV, una declaración responsable del solicitante de que es conocedor de los requisitos recogidos en el artículo 49.
 
-> Téngase en cuenta que el punto 13, añadido por el art. 1.23 del Real Decreto 980/2017, de 10 de noviembre. Ref. BOE-A-2017-12981, entra en vigor el 1 de enero de 2018, según determina su disposición final única.
+14. Datos relativos al destino de la producción agrícola necesarios para dar cumplimiento al Reglamento (UE) n.º 2018/1091 del Parlamento Europeo y del Consejo, de 18 de julio de 2018, relativo a las estadísticas integradas sobre explotaciones agrícolas y por el que se derogan los Reglamentos (CE) n.º 1166/2008 y (UE) n.º 1337/2011, y al Plan Estadístico Nacional.
 
 IV. Ayuda asociada a los ganaderos, medidas de ayuda relacionadas con los animales y ayudas a los agricultores que ejerzan actividad ganadera
 
@@ -122,7 +118,7 @@ De acuerdo con el apartado 4 del artículo 21 del Reglamento de Ejecución (UE) 
 
 V. Información y documentación adicional
 
-1. Croquis de las parcelas agrícolas cuando el productor no declare la totalidad de un recinto SIGPAC, o cuando declare en un recinto productos diferentes o variedades distintas de un mismo producto siempre que la distinción entre las distintos productos y variedades tenga un impacto en la admisibilidad de la ayuda que se está solicitando. Lo anterior no será de aplicación en el caso de pastos permanentes de uso común y en el caso de que la titularidad de la parcela sea en régimen de aparcería.
+1. (Sin contenido)
 
 2. Para la justificación de la actividad agraria establecida en el artículo 11, en los casos en los que el productor vaya a recibir ayudas en superficies de pastos y no sea titular de una explotación ganadera inscrita en REGA, conforme a lo establecido en las letras a) y b) del apartado 6 del artículo 11, deberá, cuando así lo establezca la autoridad competente, presentar pruebas de que realiza siega o las labores de mantenimiento descritas en el Anexo IV en la superficie de pastos declarada.
 
@@ -141,6 +137,8 @@ V. Información y documentación adicional
 9. Sin perjuicio de lo establecido en los párrafos anteriores, cuando la autoridad competente tenga acceso a la documentación exigida en este apartado V, se eximirá al solicitante de la necesidad de presentación de dicha documentación, sustituyéndose en su caso por una autorización expresa a la autoridad competente para acceder a dicha información.
 
 10. Cualquier otra información, en concepto de "otra declaración", establecida por la comunidad autónoma para las medidas de desarrollo rural en el ámbito del Sistema Integrado.
+
+> Se modifican los apartados I y III y se deja sin contenido el punto 1 del V por el art. 1.27 del Real Decreto 1378/2018, de 8 de noviembre. Ref. BOE-A-2018-15349
 
 > Se modifican los apartados I y III, con efectos de 1 de enero de 2018, por el art. 1.22 y 23 del Real Decreto 980/2017, de 10 de noviembre. Ref. BOE-A-2017-12981
 

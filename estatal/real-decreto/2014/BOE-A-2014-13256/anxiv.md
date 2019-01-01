@@ -1,30 +1,32 @@
 ## ANEXO XIV
 
-## Declaración de superficies de pastos permanentes de uso común con referencias distintas al SIGPAC
+## Declaración gráfica de las superficies de pastos permanentes de uso común
 
-1. Los recintos que se declaren podrán ser normales o con otras referencias oficiales. Se consideran recintos normales los que tienen una identificación referenciada en SIGPAC. En el caso de recintos normales se indicará la superficie en hectáreas con dos decimales. En el caso de pastos permanentes de uso común no es necesario presentar croquis.
+1. La comunidad autónoma podrá decidir que los recintos que se declaren sean recintos normales o recintos con otras referencias oficiales. Se consideran recintos normales los que tienen una identificación referenciada en SIGPAC.
 
-2. Si se trata de recintos con otras referencias oficiales, la autoridad gestora del pasto declarado en común, de forma previa a la apertura de la solicitud única o en paralelo a la misma deberá presentar una declaración, en base al procedimiento que establezca la comunidad autónoma, en la que se incluya, al menos, la siguiente información:
+2. Tanto si se trata de recintos normales como recintos con otras referencias oficiales, la autoridad gestora del pasto declarado en común, de forma previa a la apertura de la solicitud única o en paralelo a la misma deberá presentar una declaración, con base en el procedimiento que establezca la comunidad autónoma, en la que se incluya, al menos, la siguiente información:
 
-– Datos generales de la Autoridad Gestora: nombre o razón social y, si se dispone del mismo, DNI/NIF. Debe ser puesto en conocimiento de los agricultores por parte de dicha autoridad gestora.
+– Datos generales de la autoridad gestora: nombre o razón social y, si se dispone del mismo, DNI/NIF. Debe ser puesto en conocimiento de los agricultores por parte de dicha autoridad gestora.
 
 – Denominación, si procede, del pasto declarado en común y, si se dispone del mismo, número de MUP en el caso de los montes de utilidad pública.
 
-– Código identificativo del recinto con otras referencias oficiales: será definido por la comunidad autónoma y puesto en conocimiento de los agricultores, necesariamente antes de que finalice el período de presentación de la solicitud única, a efectos de que pueda ser utilizado en la declaración de superficies. De forma general, para un pasto declarado en común concreto se definirá un único código identificativo, a no ser que la adjudicación se realice por zonas concretas de dicho pasto, en cuyo caso se definirá un código por zona.
+– En su caso, código identificativo del recinto con otras referencias oficiales: será definido por la comunidad autónoma y puesto en conocimiento de los agricultores, necesariamente antes de que finalice el período de presentación de la solicitud única, a efectos de que pueda ser utilizado en la declaración de superficies. De forma general, para un pasto declarado en común concreto se definirá un único código identificativo, a no ser que la adjudicación se realice por zonas concretas de dicho pasto, en cuyo caso se definirá un código por zona.
 
-1. Código de Provincia y Municipio.
+1. Código de provincia y municipio.
 
-2. Códigos de Agregado y Zona.
+2. Códigos de agregado y zona.
 
-3. Polígono (3 posiciones): se codificará con números del rango de los 900.
+3. Polígono (3 posiciones): Se codificará con números del rango de los 900.
 
-4. Parcela (5 posiciones): se codificará con números del rango de los 99000.
+4. Parcela (5 posiciones): Se codificará con números del rango de los 99000.
 
-5. Recinto (5 posiciones): se codificará con números del rango de los 99000.
+5. Recinto (5 posiciones): Se codificará con números del rango de los 99000.
 
-– Recintos reales asociados que forman parte, de los pastos declarados en común (superficie bruta). Si de cara a la caché de campaña hay cambios de admisibilidad en los recintos, la comunidad autónoma lo comunicará a la Autoridad Gestora
+– Recintos reales asociados que forman parte, de los pastos declarados en común (superficie bruta). Si de cara a la caché de campaña hay cambios de admisibilidad en los recintos, la comunidad autónoma lo comunicará a la autoridad gestora.
 
-– Coeficiente de admisibilidad (CAP), de los pastos declarados en común. El CAP se establecerá en cada uno de los recintos que conforman el pasto declarado en común.
+– Delimitación gráfica de la superficie de los pastos utilizada en común dentro de los recintos reales mencionados en el párrafo anterior.
+
+– Coeficiente de admisibilidad (CAP) de los pastos declarados en común. El CAP se establecerá en cada uno de los recintos que conforman el pasto declarado en común.
 
 – Agricultores asociados con su NIF.
 
@@ -32,8 +34,14 @@
 
 3. Por su parte, el solicitante de pastos declarados en común deberá declarar:
 
-– Hectáreas asignadas por la Autoridad Gestora del pasto declarado en común que solicita.
+a) En el caso de declarar recintos normales, indicará la relación de todos los recintos de los que ha sido adjudicatario y la superficie asignada en cada uno de ellos en hectáreas con dos decimales.
 
-– Datos generales de la Autoridad Gestora del pasto declarado en común, que deberá coincidir con el identificativo a que hace referencia en el punto anterior de la declaración de la autoridad gestora.
+b) En el caso de declarar recintos con otras referencias oficiales:
 
-– Código identificativo del recinto o recintos con otras referencias oficiales correspondientes al pasto declarado en común que desea declarar y que ha sido definido previamente por la Autoridad Gestora. Debe coincidir con el código a que hace referencia el punto anterior de la declaración de la autoridad gestora.
+– Hectáreas asignadas por la autoridad gestora del pasto declarado en común que solicita.
+
+– Datos generales de la autoridad Gestora del pasto declarado en común, que deberá coincidir con el identificativo a que hace referencia en el punto anterior de la declaración de la autoridad gestora.
+
+– Código identificativo del recinto o recintos con otras referencias oficiales correspondientes al pasto declarado en común que desea declarar y que ha sido definido previamente por la autoridad gestora. Debe coincidir con el código a que hace referencia el punto anterior de la declaración de la autoridad gestora.
+
+> Se modifica por el art. 1.29 del Real Decreto 1378/2018, de 8 de noviembre. Ref. BOE-A-2018-15349
