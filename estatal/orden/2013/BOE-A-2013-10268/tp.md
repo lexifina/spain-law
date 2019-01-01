@@ -315,19 +315,19 @@ Balance
 | (2916) (2917) |  |  |  |  | 520, 521, 527 | 2. Deudas con entidades de crédito |  |  |  |
 | (2918) (2919) |  |  |  |  | 526 | 3. Derivados financieros |  |  |  |
 | (2999) |  |  |  |  | 4003, 4013 | 4. Otras deudas |  |  |  |
-| 2300, 2310, 232 | 6. Inmovilizado material en curso y anticipos |  |  |  | 4133, 4183 |  |  |  |  |
+| 2300, 2310, 232 | 6. Inmovilizado material en curso y anticipos |  |  |  | 413, 4183 |  |  |  |  |
 | 233, 234, 235 |  |  |  |  | 523, 524, 528 |  |  |  |  |
 | 237, 238, 2390 |  |  |  |  | 529, 560, 561 |  |  |  |  |
 |  | III. Inversiones inmobiliarias |  |  |  | 4002, 4012 | III. Deudas con entidades del grupo, multigrupo y asociadas a corto plazo |  |  |  |
-| 220 (2820) | 1. Terrenos |  |  |  | 4132, 4182 |  |  |  |  |
+| 220 (2820) | 1. Terrenos |  |  |  | 413, 4182 |  |  |  |  |
 | (2920) |  |  |  |  | 51 |  |  |  |  |
 | 221 (2821) | 2. Construcciones |  |  |  |  | IV. Acreedores y otras cuentas a pagar a corto plazo |  |  |  |
 | (2921) |  |  |  |  | 4000, 4010 | 1. Acreedores por operaciones de gestión |  |  |  |
-| 2301, 2311 | 3. Inversiones inmobiliarias en curso |  |  |  | 411, 4130 |  |  |  |  |
+| 2301, 2311 | 3. Inversiones inmobiliarias en curso |  |  |  | 413 |  |  |  |  |
 | 2391 | y anticipos |  |  |  | 416, 4180 |  |  |  |  |
 |  | IV. Patrimonio público del suelo |  |  |  | 522 |  |  |  |  |
 | 240 (2840) | 1. Terrenos |  |  |  | 4001, 4011 | 2. Otras cuentas a pagar |  |  |  |
-| (2930) |  |  |  |  | 410, 4131, 414, 4181 |  |  |  |  |
+| (2930) |  |  |  |  | 410, 413, 414, 4181 |  |  |  |  |
 | 241 (2841) | 2. Construcciones |  |  |  | 419, 550 |  |  |  |  |
 | (2931) |  |  |  |  | 554, 559 |  |  |  |  |
 | 243,244,248 | 3. En construcción y anticipos |  |  |  | 47 | 3. Administraciones públicas |  |  |  |
@@ -1466,34 +1466,6 @@ b) REMANENTES DE CRÉDITO
 |  |  |  |  |  |  |  |  |
 | TOTAL |  |  |  |  |  |  |
 
-c) Acreedores por operaciones pendientes de aplicar a Presupuesto.
-
-Información de cada gasto efectuado indicando:
-
-— Descripción del gasto.
-
-— Aplicación presupuestaria a la que debiera de haberse imputado.
-
-— Importe de las obligaciones pendientes de aplicar a 1 de enero.
-
-— Importe de las obligaciones pendientes de aplicar a presupuesto surgidas en el año (Abonos), es decir, obligaciones pendientes de aplicar a presupuesto registradas en la cuenta 413 «Acreedores por operaciones pendientes de aplicar a presupuesto» en el ejercicio.
-
-— Importe de las obligaciones pendientes de aplicar imputadas al presupuesto del ejercicio, ya procedan del propio ejercicio o de ejercicios anteriores (Cargos).
-
-— Importe de las obligaciones pendientes de aplicar a 31 de diciembre.
-
-— Importe de las obligaciones pendientes de aplicar a 31 de diciembre que estuviera pagado a dicha fecha.
-
-— Observaciones. Al menos, se indicará si en el momento de elaboración de la cuenta ya se ha realizado la aplicación al presupuesto del ejercicio y se explicará la causa en caso de que el importe pendiente de aplicar a 1 de enero no coincida con el pendiente de aplicar a 31 de diciembre del año inmediatamente anterior.
-
-c) ACREEDORES POR OPERACIONES PENDIENTES DE APLICAR A PRESUPUESTO
-
-| Descripción del gasto | Aplicación presupuestaria | Importe pendiente de aplicar a presupuesto | Importe pagado a 31 de diciembre | Observaciones |
-| --- | --- | --- | --- | --- |
-| Código | Denominación | A 1 de enero | Abonos | Cargos | A 31 de diciembre |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-
 2) Presupuesto de ingresos.
 
 a) Proceso de gestión.
@@ -1832,6 +1804,19 @@ ESTADO DEL REMANENTE DE TESORERÍA
 |  | III. Exceso de financiación afectada | _______ |  | _______ |
 |  | IV. Remanente de tesorería para gastos generales (I – II – III) | _______ |  | _______ |
 
+24.7. Acreedores por operaciones devengadas.
+
+Información sobre los acreedores por operaciones devengadas a 31 de diciembre no recogidas en otros apartados de la memoria, detallada en función de la cuenta representativa de la naturaleza de las operaciones.
+
+ACREEDORES POR OPERACIONES DEVENGADAS
+
+| Cuenta | Importe | Observaciones |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| Total |  |  |
+
 25. Indicadores financieros, patrimoniales y presupuestarios.
 
 1. Indicadores financieros y patrimoniales.
@@ -2114,3 +2099,5 @@ a) Los hechos posteriores que pongan de manifiesto circunstancias que ya existí
 b) Los hechos posteriores que pongan de manifiesto circunstancias que ya existían en la fecha de cierre del ejercicio que no hayan supuesto, de acuerdo con su naturaleza, la inclusión de un ajuste en las cifras contenidas en las cuentas anuales, si bien la información contenida en la memoria debe ser modificada de acuerdo con dicho hecho posterior.
 
 c) Los hechos posteriores que muestren condiciones que no existían al cierre del ejercicio y que sean de tal importancia que, si no se suministra información al respecto, podría afectar a la capacidad de evaluación de los usuarios de las cuentas anuales.
+
+> Se modifica el apartado 2. Balance, se suprime el apartado 24.1.1.c) y se añade el 24.7 por el art. 1.1 y 2 de la Orden HAC/1364/2018, de 12 de diciembre. Ref. BOE-A-2018-17603

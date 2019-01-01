@@ -1000,15 +1000,13 @@ a.3) Cuentas del grupo 5, «Cuentas financieras», en los casos de reembolso del
 
 a.4) Cuentas del grupo 6, «Compras y gastos por naturaleza», por los gastos y las pérdidas.
 
-a.5) La cuenta 411, «Acreedores por gastos devengados», cuando al vencimiento de la obligación se expida el correspondiente acto de reconocimiento y liquidación.
+a.5) La cuenta 413, «Acreedores por operaciones devengadas», cuando se dicte el acto administrativo de reconocimiento y liquidación de la obligación presupuestaria.
 
-a.6) La cuenta 413, «Acreedores por operaciones pendientes de aplicar a presupuesto», cuando se reconozca y liquide la obligación que ha quedado pendiente de imputar a presupuesto.
-
-a.7) La subcuenta 558, «Provisiones de fondos para pagos a justificar y anticipos de caja fija», por el libramiento de fondos con el carácter de «pagos a justificar» y las reposiciones de anticipos de caja fija.
+a.6) La subcuenta 558, «Provisiones de fondos para pagos a justificar y anticipos de caja fija», por el libramiento de fondos con el carácter de «pagos a justificar» y las reposiciones de anticipos de caja fija.
 
 En el caso de reintegros de pagos a justificar que se deban imputar a presupuesto de gastos el asiento a realizar será idéntico pero de signo negativo.
 
-a.8) La cuenta 630, «Tributos», por el importe de la regularización anual negativa de la imposición indirecta.
+a.7) La cuenta 630, «Tributos», por el importe de la regularización anual negativa de la imposición indirecta.
 
 En el caso de anulación de obligaciones reconocidas el asiento a realizar será idéntico pero de signo negativo.
 
@@ -1056,9 +1054,9 @@ Su saldo, acreedor, recogerá el total de obligaciones pendientes de pago corres
 
 410. Acreedores por IVA soportado.
 
-411. Acreedores por gastos devengados.
+411. (Suprimida).
 
-413. Acreedores por operaciones pendientes de aplicar a presupuesto.
+413. Acreedores por gastos devengados.
 
 418. Acreedores por devolución de ingresos y otras minoraciones.
 
@@ -1090,43 +1088,71 @@ b.2) La cuenta 778, «Ingresos excepcionales», en caso de prescripción.
 
 Su saldo, acreedor, recogerá el importe del IVA soportado que tiene la condición de deducible pendiente de pago a los acreedores.
 
-411. Acreedores por gastos devengados.
+411. (Suprimida).
 
-Recoge las obligaciones no vencidas a fin de ejercicio derivadas de gastos económicos no financieros devengados durante el mismo.
+413. Acreedores por gastos devengados.
 
-Figurará en el pasivo corriente del balance, en el epígrafe III, «Acreedores y otras cuentas a pagar a corto plazo».
-
-Su movimiento es el siguiente:
-
-a) Se abonará, por el importe de los bienes y servicios correspondientes con cargo a cuentas del grupo 6 «Compras y gastos por naturaleza», representativas de los mismos.
-
-b) Se cargará con abono a la cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», cuando se produzca el reconocimiento formal de la obligación.
-
-Su saldo, acreedor, recogerá el importe de las obligaciones no vencidas a fin de ejercicio derivadas de gastos devengados durante el mismo.
-
-413. Acreedores por operaciones pendientes de aplicar a presupuesto.
-
-Cuenta acreedora que recoge las obligaciones derivadas de gastos realizados o bienes y servicios recibidos, para las que no se ha producido su aplicación a presupuesto, siendo procedente la misma.
+Deudas derivadas de operaciones devengadas no recogidas en otras cuentas de este Plan. Entre dichas operaciones se recogerán las deudas derivadas de adquisición o construcción de activos que no nazcan aplazadas.
 
 Figurará en el pasivo corriente del balance, en el epígrafe III, «Acreedores y otras cuentas a pagar a corto plazo».
 
 Su movimiento es el siguiente:
 
-a) Se abonará, al menos al 31 de diciembre, con cargo a las cuentas del grupo 6, «Compras y gastos por naturaleza», o a las cuentas de balance representativas de los gastos presupuestarios realizados.
+a) Se abonará, al menos a 31 de diciembre, con cargo a las cuentas del grupo 6, «Compras y gastos por naturaleza», o a las cuentas de balance, representativas de las operaciones devengadas.
 
 b) Se cargará con abono a:
 
-b.1) La cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», cuando se produzca la aplicación a presupuesto.
+b.1) La cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», cuando se dicte el acto administrativo de reconocimiento y liquidación de la obligación presupuestaria.
 
 b.2) La cuenta 558, «Provisiones de fondos para pagos a justificar y anticipos de caja fija», una vez aprobada la cuenta justificativa del anticipo de caja fija, por los gastos que se hubiesen reconocido previamente.
 
-Su saldo, acreedor, recogerá las obligaciones pendientes de aplicar a presupuesto.
+Su saldo, acreedor, recogerá el importe de las obligaciones derivadas de operaciones devengadas no recogidas en otras cuentas del Plan.
+
+Con carácter opcional la entidad contable podrá utilizar las siguientes divisionarias:
+
+4130. Acreedores por operaciones aplicables a presupuesto en ejercicios posteriores.
+
+Recoge las obligaciones devengadas que no deban incluirse en la subcuenta 4131, «Acreedores por operaciones pendientes de aplicar a presupuesto».
+
+En particular, se incluirán en esta subcuenta las obligaciones derivadas de las certificaciones expedidas en el mes de enero de cada año por las obras ejecutadas en diciembre, y aquellas obligaciones similares que deriven de documentos acreditativos de la conformidad con la prestación realizada en otros contratos.
+
+Su movimiento es el siguiente:
+
+a) Se abonará, al menos a 31 de diciembre, con cargo a las cuentas del grupo 6, «Compras y gastos por naturaleza», o a las cuentas de balance representativas de las operaciones devengadas.
+
+b) Se cargará con abono a:
+
+b.1) La cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», cuando se dicte el acto administrativo de reconocimiento y liquidación de la obligación presupuestaria.
+
+b.2) La subcuenta 4131, «Acreedores por operaciones pendientes de aplicar a presupuesto», al menos a 31 de diciembre, una vez que la obligación devengada deba imputarse al presupuesto de gastos corriente.
+
+Su saldo, acreedor, recogerá el importe de las obligaciones devengadas no imputables todavía al presupuesto de gastos de la entidad.
+
+4131. Acreedores por operaciones pendientes de aplicar a presupuesto.
+
+Recoge las obligaciones devengadas que no se han aplicado al presupuesto corriente siendo procedente dicha aplicación.
+
+Su movimiento es el siguiente:
+
+a) Se abonará, al menos a 31 de diciembre, con cargo a:
+
+a.1) La subcuenta 4130, «Acreedores por operaciones aplicables a presupuesto en ejercicios posteriores», una vez que la obligación devengada deba imputarse al presupuesto de gastos corriente.
+
+a.2) Las cuentas del grupo 6, «Compras y gastos por naturaleza», o a las cuentas de balance representativas de las operaciones devengadas cuando se devenguen en el mismo ejercicio en que deban imputarse al presupuesto de gastos corriente.
+
+b) Se cargará con abono a:
+
+b.1) La cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», cuando se dicte el acto administrativo de reconocimiento y liquidación de la obligación presupuestaria.
+
+b.2) La cuenta 558, «Provisiones de fondos para pagos a justificar y anticipos de caja fija», una vez aprobada la cuenta justificativa del anticipo de caja fija, por los gastos que se hubiesen reconocido previamente.
+
+Su saldo, acreedor, recogerá el importe de las obligaciones devengadas pendientes de aplicar a presupuesto.
 
 418. Acreedores por devolución de ingresos y otras minoraciones.
 
 Recoge las obligaciones de pagar, con cargo al presupuesto de ingresos, cantidades derivadas de ingresos indebidos, como consecuencia de haberse dictado el correspondiente acuerdo de devolución.
 
-Figurará en el pasivo corriente del balance, en el epígrafe III, «Acreedores y otras cuentas a pagar a corto plazo.»
+Figurará en el pasivo corriente del balance, en el epígrafe III, «Acreedores y otras cuentas a pagar a corto plazo».
 
 Su movimiento es el siguiente:
 
@@ -3309,3 +3335,5 @@ b) Se abonará con cargo a la cuenta 000 «Presupuesto ejercicio corriente», en
 Su saldo, deudor, recogerá, antes del cierre, las previsiones definitivas de ingresos.
 
 NOTA: Las rectificaciones a todas estas cuentas de control presupuestario se efectuarán mediante asientos análogos a los descritos pero de signo contrario, al objeto de no desvirtuar el significado de las sumas del debe y del haber de las cuentas. El mismo criterio se seguirá para anular los créditos y previsiones del presupuesto prorrogado una vez que se apruebe el Presupuesto para el ejercicio.
+
+> Se modifican las cuentas 400 y 413 y se suprime la 411 por el art. 2.3 de la Orden HAC/1364/2018, de 12 de diciembre. Ref. BOE-A-2018-17603

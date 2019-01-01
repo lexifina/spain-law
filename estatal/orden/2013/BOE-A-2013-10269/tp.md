@@ -942,38 +942,6 @@ b) Remanentes de crédito.
 |  |  |  |  |  |  |  |  |
 | TOTAL |  |  |  |  |  |  |
 
-c) Acreedores por operaciones pendientes de aplicar a Presupuesto.
-
-Información de cada gasto efectuado indicando:
-
-– Descripción del gasto.
-
-– Aplicación presupuestaria a la que debiera de haberse imputado.
-
-– Importe de las obligaciones pendientes de aplicar a 1 de enero.
-
-– Importe de las obligaciones pendientes de aplicar a presupuesto surgidas en el año (Abonos), es decir, obligaciones pendientes de aplicar a presupuesto registradas en la cuenta 413 «Acreedores por operaciones pendientes de aplicar a presupuesto» en el ejercicio.
-
-– Importe de las obligaciones pendientes de aplicar imputadas al presupuesto del ejercicio, ya procedan del propio ejercicio o de ejercicios anteriores (Cargos).
-
-– Importe de las obligaciones pendientes de aplicar a 31 de diciembre.
-
-– Importe de las obligaciones pendientes de aplicar a 31 de diciembre que estuviera pagado a dicha fecha.
-
-– Observaciones. Al menos, se indicará si en el momento de elaboración de la cuenta ya se ha realizado la aplicación al presupuesto del ejercicio y se explicará la causa en caso de que el importe pendiente de aplicar a 1 de enero no coincida con el pendiente de aplicar a 31 de diciembre del año inmediatamente anterior.
-
-EJERCICIO CORRIENTE
-
-## Presupuesto de gastos
-
-c) Acreedores por operaciones pendientes de aplicar a presupuesto.
-
-| DESCRIPCIÓN DEL GASTO | APLICACIÓN PRESUPUESTARIA | IMPORTE PENDIENTE DE APLICAR A PRESUPUESTO | IMPORTE PAGADO A 31 DE DICIEMBRE | OBSERVACIONES |
-| --- | --- | --- | --- | --- |
-| CÓDIGO | DENOMINACIÓN | A 1 DE ENERO | ABONOS | CARGOS | A 31 DE DICIEMBRE |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-
 2) Presupuesto de ingresos.
 
 a) Proceso de gestión.
@@ -1241,6 +1209,19 @@ ESTADO DEL REMANENTE DE TESORERÍA
 | III. Exceso de financiación afectada | – | – |
 |  | IV. Remanente de tesorería para gastos generales (I – II – III) | – | – |
 
+18.7. Acreedores por operaciones devengadas.
+
+Información sobre los acreedores por operaciones devengadas a 31 de diciembre no recogidas en otros apartados de la memoria, detallada en función de la cuenta representativa de la naturaleza de las operaciones.
+
+ACREEDORES POR OPERACIONES DEVENGADAS
+
+| Cuenta | Importe | Observaciones |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| Total |  |  |
+
 19. Indicadores financieros, patrimoniales y presupuestarios.
 
 1. Indicadores financieros y patrimoniales.
@@ -1384,3 +1365,5 @@ a) Los hechos posteriores que pongan de manifiesto circunstancias que ya existí
 b) Los hechos posteriores que pongan de manifiesto circunstancias que ya existían en la fecha de cierre del ejercicio que no hayan supuesto, de acuerdo con su naturaleza, la inclusión de un ajuste en las cifras contenidas en las cuentas anuales, si bien la información contenida en la memoria debe ser modificada de acuerdo con dicho hecho posterior.
 
 c) Los hechos posteriores que muestren condiciones que no existían al cierre del ejercicio y que sean de tal importancia que, si no se suministra información al respecto, podría afectar a la capacidad de evaluación de los usuarios de las cuentas anuales.
+
+> Se suprime el apartado 18.1.1c) y se añade el 18.7 por el art. 2.1 de la Orden HAC/1364/2018, de 12 de diciembre. Ref. BOE-A-2018-17603

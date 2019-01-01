@@ -548,17 +548,13 @@
 
 410. Acreedores por IVA soportado.
 
-411. Acreedores por gastos devengados.
+411. (Suprimida).
 
-413. Acreedores por operaciones pendientes de aplicar a presupuesto.
+413. Acreedores por operaciones devengadas.
 
-4130. Operaciones de gestión.
+4130. Acreedores por operaciones aplicables a presupuesto en períodos posteriores.
 
-4131. Otras cuentas a pagar.
-
-4132. Deudas con entidades del grupo, multigrupo y asociadas.
-
-4133. Otras deudas.
+4131. Acreedores por operaciones pendientes de aplicar a presupuesto.
 
 414. Entes Públicos acreedores por recaudación de recursos.
 
@@ -1925,3 +1921,5 @@
 007. Presupuesto de ingresos: modificación de previsiones.
 
 008. Presupuesto de ingresos: previsiones definitivas.
+
+> Se suprime la cuenta 411 y se modifica la 413 por el art. 1.3 de la Orden HAC/1364/2018, de 12 de diciembre. Ref. BOE-A-2018-17603
