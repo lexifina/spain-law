@@ -48,7 +48,7 @@ k) En las operaciones subvencionadas, las personas que subvencionan el principal
 
 Los datos de los titulares, incluidos los de sus operaciones, cuyo riesgo acumulado en la entidad declarante sea inferior a 9.000 euros se declaran exclusivamente con la finalidad prevista en el artículo 60, apartado cuarto, letra a), de la Ley 44/2002. A estos efectos, el riesgo acumulado es el importe de las operaciones en las que la persona intervenga como titular de riesgo, directo o indirecto, con las siguientes precisiones:
 
-a) Los importes de las operaciones que se declaren como garantías financieras instrumentadas como derivados de crédito o arrendamientos operativos para el arrendatario no se incluyen en el cálculo del riesgo acumulado.
+a) Los importes de las operaciones que se declaren como garantías financieras instrumentadas como derivados de crédito u otros arrendamientos, según la definición de otros arrendamientos establecida en la dimensión “Tipo de producto” del módulo B.2 del anejo 2, no se incluyen en el cálculo del riesgo acumulado.
 
 b) El importe del riesgo directo asumido en las operaciones es la suma de los importes dispuestos (principal, intereses y comisiones vencidos, intereses de demora y gastos exigibles) pendientes de cobro más los importes disponibles (con disponibilidad inmediata y condicionada).
 
@@ -90,7 +90,9 @@ j) Las entidades declarantes a la CIR con las que se tengan operaciones con cód
 
 k) Las entidades emisoras de instrumentos financieros adquiridos temporalmente, recibidos en garantía de operaciones o prestados a terceros.
 
-l) Las sociedades gestoras de los fondos de inversión que, siendo titulares de riesgos o proveedores de garantías reales, residan en un Estado miembro informador.
+l) Las sociedades gestoras de fondos de inversión cuando estos sean titulares de riesgos o proveedores de garantías reales y residan en un Estado miembro informador.
+
+> Se modifican los apartados 5.a) y 7.l) por la norma 2.b) de la Circular de 21 de diciembre de 2018. Ref. BOE-A-2018-17880
 
 > Se modifica por la norma única.3 de la Circular de 30 de junio de 2017. Ref. BOE-A-2017-7985
 

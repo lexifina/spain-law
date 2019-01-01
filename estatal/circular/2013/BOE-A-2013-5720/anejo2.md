@@ -1,4 +1,4 @@
-## ANEJO 2
+## 01ANEJO 2
 
 ## INSTRUCCIONES PARA ELABORAR LOS MÓDULOS DE DATOS
 
@@ -316,15 +316,15 @@ A) En el caso de residentes que sean titulares de riesgos, proveedores de garant
 
 – Disolución y concurso concluido por insuficiencia de la masa activa del deudor.
 
+– Acuerdo de refinanciación homologado judicialmente.
+
+– Incumplimiento del acuerdo de refinanciación homologado.
+
 – Otras medidas legales.
 
 – Comunicación al juzgado de negociaciones con los acreedores.
 
 – Acuerdo de refinanciación.
-
-– Acuerdo de refinanciación homologado judicialmente.
-
-– Incumplimiento del acuerdo de refinanciación homologado.
 
 – Acuerdo extrajudicial de pagos.
 
@@ -476,7 +476,7 @@ Para las entidades residentes en España, se indicará el valor que corresponda 
 
 – Entidad de derecho público.
 
-– Fondo de inversión sin personalidad jurídica.
+– Patrimonio de inversión sin personalidad jurídica.
 
 – Resto de entidades sin personalidad jurídica.
 
@@ -918,7 +918,9 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Originador: cedente de la operación o de su riesgo de crédito a una estructura de titulización (tradicional o sintética). Este valor solo se facilitará para los préstamos titulizados, tanto si el préstamo se ha cedido por la entidad declarante como si se encarga exclusivamente de su gestión.
 
-– Código de la contraparte directa: titular del riesgo directo que la entidad considera como contraparte directa de la operación a efectos contables. Cuando la operación tenga varios titulares de riesgo directo solidarios, será la persona a la que la entidad haya considerado como determinante o más relevante para la concesión de la operación. Entidad agente del préstamo sindicado: entidad que actúa como agente en operaciones sindicadas, incluso cuando el agente sea la propia entidad declarante.
+– Código de la contraparte directa: titular del riesgo directo que la entidad considera como contraparte directa de la operación a efectos contables. Cuando la operación tenga varios titulares de riesgo directo solidarios, será la persona a la que la entidad haya considerado como determinante o más relevante para la concesión de la operación.
+
+‒ Entidad agente del préstamo sindicado: entidad que actúa como agente en operaciones sindicadas, incluso cuando el agente sea la propia entidad declarante.
 
 – Sociedad instrumental tenedora: sociedad instrumental española de la entidad declarante que tiene contabilizada la operación en sus libros. Este valor se declarará cuando la operación se declare con el valor 11 en la dimensión «Localización de la actividad (país de la operación)» del módulo B.2, Datos básicos de las operaciones.
 
@@ -980,7 +982,7 @@ La asignación de los valores anteriores se realizará aplicando los siguientes 
 
 – Verdadero: el código de la operación es el mismo que el código del contrato.
 
-– Falso: el código de la operación es distinto del código del contrato. En este caso, habrá que vincular en el módulo G.1, Datos básicos que vinculan códigos, el código de la operación con su código de contrato. Se declarará este valor a las operaciones procedentes de pólizas de riesgo global-multiuso, líneas de avales, líneas de créditos documentarios y créditos por disposiciones indicadas en la norma undécima, apartado 2 bis.
+– Falso: el código de la operación es distinto del código del contrato. En este caso, habrá que vincular en el módulo G.1, “Datos básicos que vinculan códigos”, el código de la operación con su código de contrato.
 
 Este campo debe permanecer invariable durante la vida de la operación.
 
@@ -1044,6 +1046,8 @@ a) Para los préstamos:
 
 – Resto de las cuentas de corresponsalía.
 
+– Descubiertos en instituciones financieras monetarias.
+
 – Resto de depósitos distintos de préstamos de recompra inversa.
 
 • Descubiertos.
@@ -1090,7 +1094,7 @@ a) Para los préstamos:
 
 – Arrendamiento financiero para el arrendatario.
 
-– Arrendamiento operativo para el arrendatario.
+– Otros arrendamientos.
 
 – Préstamos de recompra inversa.
 
@@ -1176,6 +1180,8 @@ En las operaciones de crédito comercial, cualquiera que sea el producto, solo s
 
 – Resto de las cuentas de corresponsalía: saldos deudores de operaciones de corresponsalía que no cumplan los requisitos para calificarlas como cuentas mutuas.
 
+‒ Descubiertos en instituciones financieras monetarias: descubiertos en los que el titular sea una institución financiera monetaria.
+
 – Resto de depósitos distintos de préstamos de recompra inversa: depósitos distintos de «cuentas corrientes o de ahorro», «cuentas mutuas», «resto de cuentas de las cuentas de corresponsalía» y «préstamos de recompra inversa».
 
 – Descubiertos: descubiertos en depósitos a la vista. Se considerarán también descubiertos aquellos que se produzcan en cuentas corrientes con un límite de crédito autorizado para el cliente y comprometido por la entidad declarante. Se entiende que este límite de crédito se produce al amparo de un contrato en el que se especifican las condiciones en las que este límite puede ser usado, tanto si se establecen en el contrato original de cuenta corriente como si se incorporan posteriormente como una adenda a este. No obstante, los descubiertos en los que el titular sea una institución financiera monetaria se clasificarán como «Depósitos distintos de préstamos de recompra inversa».
@@ -1208,9 +1214,9 @@ En las operaciones de crédito comercial, cualquiera que sea el producto, solo s
 
 – Resto de los préstamos a plazo distintos de depósitos: préstamos en los que el prestatario dispone de la totalidad del principal en el inicio de la operación y no cumplen los criterios para clasificarlos como «depósitos», «hipotecas inversas» o «préstamos híbridos».
 
-– Arrendamientos financieros: operaciones de arrendamiento que la entidad declarante registra contablemente como préstamos porque ha transferido sustancialmente todos los riesgos y beneficios inherentes a la propiedad del activo objeto del contrato. Este concepto comprende las cuotas que se han de pagar por el arrendatario, el importe comprometido por terceros distintos del arrendatario y los valores residuales no garantizados.
+– Arrendamientos financieros: operaciones de arrendamiento que la entidad declarante registra contablemente como préstamos porque ha transferido sustancialmente todos los riesgos y beneficios inherentes a la propiedad del activo objeto del contrato. Este concepto recoge las cuotas que se han de pagar por el arrendatario.
 
-Los arrendamientos financieros se clasifican como «Arrendamiento financiero para el arrendatario» cuando este adquiere sustancialmente todos los riesgos y beneficios inherentes a la propiedad del activo, o como «Arrendamiento operativo para el arrendatario» cuando la entidad declarante registre contablemente la operación como arrendamiento financiero exclusivamente porque haya terceros distintos de los arrendatarios que se hayan comprometido a efectuar determinados pagos.
+Los arrendamientos financieros se clasifican como “Arrendamiento financiero para el arrendatario” cuando este adquiere sustancialmente todos los riesgos y beneficios inherentes a la propiedad del activo, o como “Otros arrendamientos” cuando la entidad declarante registre contablemente la operación como arrendamiento financiero exclusivamente porque haya terceros distintos de los arrendatarios que se hayan comprometido a efectuar determinados pagos.
 
 – Préstamos de recompra inversa: financiación concedida a cambio de valores u oro adquiridos mediante pactos de recompra con retrocesión no opcional, o recibidos en contratos de préstamo de valores. Estas operaciones se clasifican como «Garantías en efectivo entregadas en permutas de valores» cuando corresponden al importe de las garantías en efectivo entregadas en permutas de valores, y como «Resto de los préstamos de recompra inversa» en los demás casos.
 
@@ -1454,7 +1460,7 @@ b) Para el resto de los préstamos:
 
 • Financiación de actividades agrícolas y ganaderas.
 
-• Financiación de otros activos distintos de inmuebles adjudicados o recibidos en pago de deudas.
+• Financiación de activos distintos de inmuebles que hubieran sido adjudicados o recibidos en pago de deudas.
 
 • Financiación de otros activos no corrientes.
 
@@ -2046,7 +2052,7 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Operación gestionada y no originada por el agente observado: operación a la que se refiere la letra b), apartado 1 bis), de la norma segunda.
 
-– Resto de operaciones: operaciones no clasificadas conforme a los anteriores apartados.
+– Resto de operaciones: operaciones no clasificadas conforme a los anteriores apartados. En este apartado se incluyen todas las operaciones de las sociedades instrumentales.
 
 Importe del compromiso al inicio
 
@@ -2274,9 +2280,9 @@ Tipo de garantía personal con la que cuente la operación:
 
 – Garantía de empresas públicas cuya actividad principal sea el aseguramiento o aval de crédito.
 
-– Garantía de entidad de crédito, sucursal en España de entidades de crédito extranjeras o establecimiento financiero de crédito residente en España.
+– Garantía de entidad de crédito residente en España, sucursal en España de entidades de crédito extranjeras o establecimiento financiero de crédito.
 
-– Garantía de entidad de crédito, sucursal en España de entidades de crédito extranjeras o establecimiento financiero de crédito no residente en España.
+– Garantía de entidad de crédito no residente en España.
 
 – Garantía de sociedad de garantía recíproca.
 
@@ -2694,49 +2700,49 @@ Formato: AAAAMMDD.
 
 Parte 4. Datos de los riesgos directos asumidos por terceros
 
-Principal asumido por el cesionario
+Principal asumido por terceros
 
 Importe no vencido
 
-Importe del principal no vencido asumido por el cesionario, correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe del principal no vencido asumido por terceros correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
 
-Cuando se trate de operaciones calificadas como de refinanciación, refinanciadas o reestructuradas en la dimensión «Estado de refinanciaciones y reestructuraciones» del módulo B.2, Datos básicos de las operaciones, importe vencido asumido por el cesionario calculado aplicando el mismo criterio que en el campo «Principal asumido por la entidad. Importe no vencido».
+Cuando se trate de operaciones calificadas como de refinanciación, refinanciadas o reestructuradas en la dimensión “Estado de refinanciaciones y reestructuraciones” del módulo B.2, Datos básicos de las operaciones, importe vencido asumido por terceros calculado aplicando el mismo criterio que en el campo “Principal asumido por la entidad. Importe no vencido”.
 
 Importe vencido
 
-Importe del principal vencido asumido por el cesionario, correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe del principal vencido asumido por terceros correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
 
-Cuando se trate de operaciones calificadas como de refinanciación, refinanciadas o reestructuradas en la dimensión «Estado de refinanciaciones y reestructuraciones» del módulo B.2, Datos básicos de las operaciones, importe vencido asumido por el cesionario calculado aplicando el mismo criterio que en el campo «Principal asumido por la entidad. Importe vencido».
+Cuando se trate de operaciones calificadas como de refinanciación, refinanciadas o reestructuradas en la dimensión “Estado de refinanciaciones y reestructuraciones” del módulo B.2, “Datos básicos de las operaciones”, importe vencido asumido por terceros calculado aplicando el mismo criterio que en el campo “Principal asumido por la entidad. Importe vencido”.
 
-Intereses y comisiones vencidos asumidos por el cesionario
+Intereses y comisiones vencidos asumidos por terceros
 
-Importe de los intereses y comisiones pendientes de cobro asumido por el cesionario, correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe de los intereses y comisiones pendientes de cobro asumido por terceros correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
 
-Intereses de demora asumidos por el cesionario
+Intereses de demora asumidos por terceros
 
-Importe de los intereses de demora asumido por el cesionario, correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe de los intereses de demora asumido por terceros correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
 
-Gastos exigibles asumidos por el cesionario
+Gastos exigibles asumidos por terceros
 
-Importe de los gastos exigibles asumido por el cesionario, correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe de los gastos exigibles asumido por terceros correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
 
-Pro memoria: importe vencido antes de la refinanciación o reestructuración asumido por el cesionario
+Pro memoria: importe vencido antes de la refinanciación o reestructuración asumido por terceros.
 
-En las operaciones calificadas como de refinanciación, refinanciadas o reestructuradas en la dimensión «Estado de refinanciaciones y reestructuraciones» del módulo B.2, Datos básicos de las operaciones, importe vencido con anterioridad a la refinanciación o reestructuración asumido por el cesionario, calculado aplicando el mismo criterio que en el campo «Pro memoria: importe vencido con anterioridad a la refinanciación o reestructuración asumido por la entidad».
+En las operaciones calificadas como de refinanciación, refinanciadas o reestructuradas en la dimensión “Estado de refinanciaciones y reestructuraciones” del módulo B.2, “Datos básicos de las operaciones”, importe vencido con anterioridad a la refinanciación o reestructuración asumido por terceros calculado aplicando el mismo criterio que en el campo “Pro memoria: importe vencido con anterioridad a la refinanciación o reestructuración asumido por la entidad”.
 
-Límite actual del riesgo asumido por el cesionario
+Límite actual del riesgo asumido por terceros
 
-Importe del límite actual del riesgo asumido por el cesionario, correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe del límite actual del riesgo asumido por terceros correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
 
-Riesgo disponible asumido por el cesionario
+Riesgo disponible asumido por terceros
 
 Disponibilidad inmediata
 
-Importe del riesgo disponible con disponibilidad inmediata asumido por el cesionario, correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe del riesgo disponible con disponibilidad inmediata asumido por terceros correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
 
 Disponibilidad condicionada
 
-Importe del riesgo disponible con disponibilidad condicionada asumido por el cesionario, correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe del riesgo disponible con disponibilidad condicionada asumido por terceros correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
 
 ## C.2 Datos dinámicos de los riesgos indirectos
 
@@ -2770,21 +2776,21 @@ Importe de los intereses de demora y gastos exigibles pendientes de cobro declar
 
 Parte 2. Datos de los riesgos indirectos asumidos por terceros
 
-Riesgo máximo garantizado asumido por el cesionario
+Riesgo máximo garantizado asumido por terceros
 
-Importe del riesgo máximo garantizado por el titular del riesgo indirecto asumido por el cesionario de operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe del riesgo máximo garantizado por el titular del riesgo indirecto asumido por terceros de operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
 
 Importe total
 
-Importe total del riesgo dispuesto garantizado por el titular del riesgo indirecto asumido por el cesionario de operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe total del riesgo dispuesto garantizado por el titular del riesgo indirecto asumido por terceros de operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
 
 Importe vencido
 
-Importe vencido del riesgo dispuesto garantizado por el titular del riesgo indirecto asumido por el cesionario de operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe vencido del riesgo dispuesto garantizado por el titular del riesgo indirecto asumido por terceros de operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
 
 Intereses de demora y gastos exigibles
 
-Importe de los intereses de demora y gastos exigibles garantizado por el titular del riesgo indirecto asumido por el cesionario de operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe de los intereses de demora y gastos exigibles garantizado por el titular del riesgo indirecto asumido por terceros de operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
 
 ## C.3 Datos dinámicos financieros de los préstamos a personas jurídicas
 
@@ -3152,11 +3158,11 @@ Indica si el inmueble está integrado por varias fincas registrales o catastrale
 
 – No.
 
-Identificador Único de Finca Registral (IDUFIR)
+Identificador Único de Finca Registral (IDUFIR/CRU)
 
-Número de catorce dígitos asignado a la finca en el Registro de la Propiedad.
+Código IDUFIR o CRU asignado a la finca en el Registro de la Propiedad.
 
-Cuando el inmueble esté integrado por dos o más fincas registrales diferentes o no se disponga de este dato, no se facilitará dicho código.
+Cuando el inmueble esté integrado por dos o más fincas registrales diferentes, no se facilitará dicho código.
 
 Identificador registral
 
@@ -3194,7 +3200,7 @@ Cuando sea una sociedad de tasación inscrita en el Registro del Banco de Españ
 
 Si se trata de los servicios de tasación de la entidad, el código de la entidad en el Registro de Entidades del Banco de España (código REN).
 
-Si se trata de un profesional extranjero reconocido en el país en el que radique el activo para efectuar valoraciones con fines hipotecarios, el código 1111.
+Si se trata de un profesional extranjero reconocido en el país en el que radique el activo para efectuar valoraciones con fines hipotecarios, el código 9998.
 
 Si se trata de otro valorador, el código 9999.
 
@@ -3622,7 +3628,7 @@ Valor de la garantía
 
 Este importe es el valor de la garantía resultante de la estimación más reciente realizada conforme al «Tipo de valor de la garantía». Consecuentemente, este importe se actualizará cada vez que la entidad valore de nuevo las garantías.
 
-Cuando la garantía esté denominada en moneda diferente del euro, se declarará el importe del contravalor de la moneda en euros en la fecha de su valoración. Este importe se actualizará con posterioridad como consecuencia de la variación del tipo de cambio, siempre que el valor declarado en «Tipo de valor de la garantía» sea «Importe nocional».
+Cuando la garantía esté denominada en moneda diferente del euro, se declarará el importe del contravalor de la moneda en euros en la fecha de su valoración.
 
 Tipo de valor de la garantía
 
@@ -3658,7 +3664,7 @@ Método utilizado por la entidad en la última valoración de la garantía. Este
 
 – Valoración por tercero.
 
-– Otro tipo de valoración.
+– Otro tipo de valoración no incluido en las demás categorías.
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
@@ -3675,8 +3681,6 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 Fecha del valor de la garantía
 
 Fecha en la que se efectuó la última tasación o valoración de la garantía antes de la fecha de referencia.
-
-Para las garantías cuyo valor declarado en «Tipo de valor de la garantía» sea «Importe nocional», se declarará la fecha en que el importe nocional cambió por última vez.
 
 Formato: AAAAMMDD.
 
@@ -3728,7 +3732,7 @@ Tipo de activo que sirve de garantía:
 
 – Otros instrumentos de deuda.
 
-– Instrumentos de capital.
+– Instrumentos de capital distintos de participaciones en fondos de inversión.
 
 – Instrumentos de patrimonio diferentes de los instrumentos de capital.
 
@@ -3742,7 +3746,7 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Instrumentos de deuda: efectivo, depósitos dinerarios en entidades de crédito, valores representativos de deuda y otros instrumentos de deuda (préstamos distintos de los depósitos a entidades de crédito).
 
-– Instrumentos de capital: instrumentos financieros emitidos por otras entidades, tales como acciones y participaciones, que tengan la naturaleza de instrumentos de capital para el emisor, incluidas las participaciones en entidades del grupo, multigrupo y asociadas, así como las participaciones en fondos de inversión.
+– Instrumentos de capital distintos de participaciones en fondos de inversión: instrumentos financieros emitidos por otras entidades, tales como acciones y participaciones, que tengan la naturaleza de instrumentos de capital para el emisor, incluidas las participaciones en entidades del grupo, multigrupo y asociadas, y que no sean participaciones en fondos de inversión.
 
 – Instrumentos de patrimonio diferentes de los instrumentos de capital: instrumentos financieros emitidos por otras entidades que, teniendo la consideración de patrimonio neto según la normativa contable aplicable a las entidades de crédito, no se puedan registrar en el balance como capital.
 
@@ -3816,7 +3820,7 @@ Valor razonable: el precio que se recibiría por la venta de un activo o que se 
 
 – Otro valor de la garantía: otro valor de la garantía no incluido en ninguna de las categorías anteriores.
 
-La siguiente tabla presenta los distintos tipos de valoración admisibles según el tipo de garantía:
+La siguiente tabla presenta los distintos tipos de valoración según el tipo de garantía:
 
 | Tipo de garantía | Tipo de valor de la garantía |
 | --- | --- |
@@ -4059,7 +4063,7 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Otro valor de la garantía: otro valor de la garantía no incluido en ninguna de las categorías anteriores.
 
-La siguiente tabla presenta los distintos tipos de valoración admisibles según el tipo de garantía:
+La siguiente tabla presenta los distintos tipos de valoración según el tipo de garantía:
 
 | Tipo de garantía | Tipo de valor de la garantía |
 | --- | --- |
@@ -4267,6 +4271,8 @@ Para los préstamos y créditos a tipo de interés variable y mixto, previsión 
 Los valores que se han de utilizar serán alguno de los previstos para la dimensión «Tipo de referencia» y adicionalmente:
 
 – El último valor del índice de referencia aplicado al contrato antes de la desaparición del índice.
+
+Se utilizará el valor “No aplicable” cuando no exista “Tipo de referencia sustitutivo”.
 
 Diferencial/margen del tipo de interés
 
@@ -4836,33 +4842,33 @@ Si los cambios acumulados en el valor razonable fueran positivos o no hubiera ha
 
 Las operaciones no reconocidas en el balance de la entidad, así como las que no se valoren a valor razonable con cambios en resultados, se declararán con el valor «No aplicable».
 
-Situación de cumplimiento (performing) de la operación
+Clasificación de la operación en función del riesgo de crédito
 
-Situación de cumplimiento en la que está clasificada la operación en la fecha de referencia:
+Clasificación de la operación en función del riesgo de crédito en la fecha de referencia:
 
-– Con incumplimientos.
+– Dudosa.
 
-– Sin incumplimientos.
+– No dudosa.
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-– Con incumplimientos: operación en situación de incumplimiento conforme al Reglamento de Ejecución (UE) n.º 680/2014.
+– Dudosa: operación clasificada como dudosa conforme al Reglamento de Ejecución (UE) n.º 680/2014.
 
-– Sin incumplimientos: operación sin situación de incumplimiento conforme al Reglamento de Ejecución (UE) n.º 680/2014.
+– No dudosa: operación clasificada como no dudosa conforme al Reglamento de Ejecución (UE) n.º 680/2014.
 
 Esta dimensión debe informarse para todas las operaciones, aunque no estén reconocidas en el balance y cualquiera que sea su clasificación contable a efectos de valoración y registro de resultados.
 
-Las operaciones clasificadas como fallidas se declararán con el valor «Con incumplimientos».
+Las operaciones clasificadas como fallidas se declararán con el valor “Dudosas”.
 
-Fecha de la situación de cumplimiento (performing) de la operación
+Fecha de la clasificación de la operación en función del riesgo de crédito
 
-Fecha en que se considera sucedido o modificado el estado de cumplimiento declarado en la dimensión «Situación de cumplimiento de la operación».
+Fecha en que el atributo “Clasificación de la operación en función del riesgo de crédito” cambia de clasificación.
 
 Esta dimensión debe informarse para todas las operaciones.
 
-Para las operaciones que nunca hayan tenido incumplimientos, se declarará la fecha de formalización o emisión informada en el módulo B.2, Datos básicos de las operaciones.
+Para las operaciones que no hayan cambiado su clasificación desde su formalización o adquisición, se declarará la fecha de formalización o emisión informada en el módulo B.2, “Datos básicos de las operaciones”.
 
-Para las operaciones que actualmente estén «Sin incumplimientos», pero que previamente se hubiesen declarado como «Con incumplimientos», se declarará la fecha en la que cambió la situación de «Con incumplimientos» a «Sin incumplimientos».
+Para las operaciones que actualmente se clasifiquen como “No dudosa”, pero que previamente se hubiesen declarado como “Dudosa”, se declarará la fecha en la que cambió la clasificación de “Dudosa” a “No dudosa”.
 
 Formato: AAAAMMDD.
 
@@ -4995,6 +5001,8 @@ Fecha de la situación de impago (default) de la persona
 Fecha en que se considera que ha ocurrido la situación de impago (default) declarada en la dimensión «Situación de impago de la persona».
 
 Formato: AAAAMMDD.
+
+> Se modifica por la norma 2.h) de la Circular de 21 de diciembre de 2018. Ref. BOE-A-2018-17880
 
 > Se sustituye por el que se incluye como Anejo A según establece la norma única.14 de la Circular de 30 de junio de 2017. Ref. BOE-A-2017-7985
 

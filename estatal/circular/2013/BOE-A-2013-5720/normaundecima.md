@@ -18,9 +18,7 @@ e) Se trate de operaciones segregadas o con titulares mancomunados.
 
 f) Se cambie el código de la operación por motivos de gestión interna.
 
-2 bis) El código de la operación se vinculará con el código del contrato en caso de que la entidad asigne a la operación un código de contrato distinto al “Código de la operación” declarado en el módulo B.2, Datos básicos de las operaciones.
-
-En el caso de las pólizas de riesgo global-multiuso, las líneas de avales, las líneas de créditos documentarios y los créditos por disposiciones, se informará sobre su código de contrato conforme al párrafo anterior. Sin embargo, para las operaciones procedentes de tales pólizas, líneas o créditos por disposiciones no se tendrá que declarar esta vinculación de código de contrato.
+2 bis) El código de la operación se vinculará con el código del contrato en caso de que la entidad asigne a la operación un código de contrato distinto al «Código de la operación» declarado en el módulo B.2, “Datos básicos de las operaciones”.
 
 3. El código de una operación de la entidad declarante se vinculará con los códigos de operaciones declaradas a la CIR por otras entidades cuando:
 
@@ -57,6 +55,8 @@ C) Datos dinámicos de las operaciones que se han de comunicar a otras entidades
 9. El módulo G.3, Datos dinámicos de las operaciones que se han de comunicar a otras entidades, se enviará para declarar los importes garantizados al final del mes al que se refieren los datos de las operaciones declaradas en el módulo G.2 por recibir una garantía financiera o contraaval de un aval o caución no financiero de otra entidad declarante.
 
 10. El Banco de España reenviará los datos del módulo G.3 a la entidad que haya garantizado o contraavalado las operaciones desde el momento en el que esta comunique en el módulo G.1, Datos básicos que vinculan códigos, que las ha garantizado o contraavalado.
+
+> Se modifica el apartado 2 bis) por la norma 2.e) de la Circular de 21 de diciembre de 2018. Ref. BOE-A-2018-17880
 
 > Se añade el apartado 2 bis) y se modifican los apartados 4 y 6 por la norma única.10 de la Circular de 30 de junio de 2017. Ref. BOE-A-2017-7985
 

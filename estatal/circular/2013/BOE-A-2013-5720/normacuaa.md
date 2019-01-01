@@ -31,7 +31,7 @@
 | G.3 | Datos dinámicos de las operaciones que se han de comunicar a otras entidades. | Mensual. | Día 5 del mes siguiente. |
 | H | Información prudencial complementaria. |  |  |
 | H.1 | Datos contables de los préstamos a personas jurídicas. | Trimestral. | Día 15 del segundo mes siguiente. |
-| H.2 | Datos sobre el riesgo de los titulares de los préstamos que sean personas jurídicas. | Trimestral. | Día 15 del segundo mes siguiente. |
+| H.2 | Datos sobre el riesgo de los titulares de los préstamos que sean personas jurídicas. | Trimestral. | Día 10 del mes siguiente. |
 | H.3 | Datos sobre la situación de impago (default) de los titulares de riesgo de los préstamos que sean personas jurídicas. | Mensual. | Día 10 del mes siguiente. |
 
 Los módulos de datos se incluyen como anejo 1, y las instrucciones para su elaboración, en el anejo 2. Adicionalmente, el Banco de España podrá elaborar aplicaciones técnicas para facilitar la confección de los diferentes módulos. En todo caso, la declaración de las dimensiones de la CIR que sean coincidentes con las que figuran en el Reglamento (UE) 867/2016, en lo no contemplado expresamente en esta circular o en las aplicaciones técnicas, se hará aplicando los criterios que, en su caso, publique el Banco Central Europeo.
@@ -79,6 +79,8 @@ Las entidades declarantes deberán arbitrar la fórmula que mejor convenga a su 
 5. La CIR no podrá modificar los datos declarados por las entidades declarantes, de los que estas son responsables y a las que corresponde enviar declaraciones complementarias con las rectificaciones o cancelaciones de datos declarados erróneamente.
 
 6. Los datos que se incluyen en el anejo 3 de la presente circular se declaran con las finalidades previstas en las letras a) y b) del apartado cuarto del artículo 60 de la Ley 44/2002. Los restantes datos de los riesgos solicitados en los diferentes módulos de esta circular se declaran exclusivamente con la finalidad prevista en el artículo 60, apartado cuarto, letra a), de la Ley 44/2002.
+
+> Se modifica el módulo H2 del apartado 1 por la norma 2.c) de la Circular de 21 de diciembre de 2018. Ref. BOE-A-2018-17880
 
 > Se modifica por la norma única.4 de la Circular de 30 de junio de 2017. Ref. BOE-A-2017-7985
 

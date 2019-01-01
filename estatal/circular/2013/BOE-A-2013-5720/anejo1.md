@@ -340,23 +340,23 @@ C.1 DATOS DINÁMICOS DE LOS RIESGOS DIRECTOS
 
 ## PARTE 4. DATOS DE LOS RIESGOS DIRECTOS ASUMIDOS POR TERCEROS.
 
-• Principal asumido por el cesionario. Importe no vencido.
+• Principal asumido por terceros. Importe no vencido.
 
-• Principal asumido por el cesionario. Importe vencido.
+• Principal asumido por terceros. Importe vencido.
 
-• Intereses y comisiones vencidos asumidos por el cesionario.
+• Intereses y comisiones vencidos asumidos por terceros.
 
-• Intereses de demora asumidos por el cesionario.
+• Intereses de demora asumidos por terceros.
 
-• Gastos exigibles asumidos por el cesionario.
+• Gastos exigibles asumidos por terceros.
 
-• Pro memoria: importe vencido antes de la refinanciación o reestructuración asumido por el cesionario.
+• Pro memoria: importe vencido antes de la refinanciación o reestructuración asumido por terceros.
 
-• Límite actual del riesgo asumido por el cesionario.
+• Límite actual del riesgo asumido por terceros.
 
-• Riesgo disponible asumido por el cesionario. Disponibilidad inmediata.
+• Riesgo disponible asumido por terceros. Disponibilidad inmediata.
 
-• Riesgo disponible asumido por el cesionario. Disponibilidad condicionada.
+• Riesgo disponible asumido por terceros. Disponibilidad condicionada.
 
 C.2 DATOS DINÁMICOS DE LOS RIESGOS INDIRECTOS
 
@@ -376,13 +376,13 @@ C.2 DATOS DINÁMICOS DE LOS RIESGOS INDIRECTOS
 
 ## PARTE 2. DATOS DE LOS RIESGOS INDIRECTOS ASUMIDOS POR TERCEROS.
 
-• Riesgo máximo garantizado asumido por el cesionario.
+• Riesgo máximo garantizado asumido por terceros.
 
-• Riesgo dispuesto garantizado asumido por el cesionario. Importe total.
+• Riesgo dispuesto garantizado asumido por terceros. Importe total.
 
-• Riesgo dispuesto garantizado asumido por el cesionario. Importe vencido.
+• Riesgo dispuesto garantizado asumido por terceros. Importe vencido.
 
-• Riesgo dispuesto garantizado asumido por el cesionario. Intereses de demora y gastos exigibles.
+• Riesgo dispuesto garantizado asumido por terceros. Intereses de demora y gastos exigibles.
 
 C.3 DATOS DINÁMICOS FINANCIEROS DE LOS PRÉSTAMOS A PERSONAS JURÍDICAS
 
@@ -806,9 +806,9 @@ H.1 DATOS CONTABLES DE LOS PRÉSTAMOS A PERSONAS JURÍDICAS
 
 • Cambios acumulados en el valor razonable debidos al riesgo crediticio.
 
-• Situación de cumplimiento (performing) de la operación.
+• Clasificación de la operación en función del riesgo de crédito.
 
-• Fecha de la situación de cumplimiento (performing) de la operación.
+• Fecha de la clasificación de la operación en función del riesgo de crédito.
 
 • Provisiones asociadas a exposiciones fuera de balance.
 
@@ -835,6 +835,8 @@ H.3 DATOS SOBRE LA SITUACIÓN DE IMPAGO (DEFAULT) DE LOS TITULARES DE RIESGO DE 
 • Situación de impago (default) de la persona.
 
 • Fecha de la situación de impago (default) de la persona.
+
+> Se modifican los módulos C1, C2 y H1 por la norma 2.g) de la Circular de 21 de diciembre de 2018. Ref. BOE-A-2018-17880
 
 > Se sustituye por el que se incluye como Anejo A según establece la norma única.14 de la Circular de 30 de junio de 2017. Ref. BOE-A-2017-7985
 

@@ -18,7 +18,7 @@ i) Crédito comercial: Los préstamos concedidos sobre la base de derechos de co
 
 ii) Crédito financiero: Las operaciones que, siendo préstamos declarables a la CIR, no están instrumentadas como crédito comercial, arrendamiento financiero o préstamo de recompra inversa.
 
-iii) Arrendamientos financieros: Las operaciones de arrendamiento que la entidad declarante debe registrar contablemente como préstamos porque ha transferido sustancialmente todos los riesgos y beneficios inherentes a la propiedad del activo objeto del contrato, aunque tengan la consideración de arrendamiento operativo para el arrendatario. Este concepto comprende las cuotas que ha de pagar el arrendatario, el importe comprometido por terceros distintos del arrendatario y los valores residuales no garantizados.
+iii) Arrendamientos financieros: las operaciones de arrendamiento que la entidad declarante debe registrar contablemente como préstamos porque ha transferido sustancialmente todos los riesgos y beneficios inherentes a la propiedad del activo objeto del contrato, aunque tengan la consideración de arrendamiento operativo para el arrendatario. Este concepto recoge las cuotas que ha de pagar el arrendatario.
 
 iv) Préstamos de recompra inversa: Los préstamos concedidos a cambio de valores u oro transferidos temporalmente mediante una compra con retrocesión no opcional, así como los importes entregados como garantía en efectivo de valores recibidos en préstamo.
 
@@ -68,9 +68,11 @@ Por su parte, las sociedades de reafianzamiento no declararán las operaciones e
 
 6. Los préstamos y valores representativos de deuda impagados continuarán declarándose a la CIR hasta la extinción de todos los derechos de la entidad (por prescripción, por condonación o por otras causas) o hasta su recuperación.
 
+> Se modifica el apartado 1.a).iii) por la norma 2.a) de la Circular de 21 de diciembre de 2018. Ref. BOE-A-2018-17880
+
 > Se añade el apartado 1 bis) y se modifica el primer párrafo y la letra a) del apartado 3 por la norma única.2 de la Circular de 30 de junio de 2017. Ref. BOE-A-2017-7985
 
-> Se modifica el apartado 3.d) por la Norma 3 de la Circular 4/2016, de 27 de abril. Ref. BOE-A-2016-4356.
+> Se modifica el apartado 3.d) por la norma 3 de la Circular 4/2016, de 27 de abril. Ref. BOE-A-2016-4356.
 
 > Se modifica el párrafo 2 del apartado 3 por la norma 2.2 de la Circular 3/2015, de 29 de julio. Ref. BOE-A-2015-9054.
 
