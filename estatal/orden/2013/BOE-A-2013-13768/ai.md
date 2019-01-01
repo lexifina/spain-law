@@ -14,17 +14,11 @@ Tvr: Término variable de peaje de regasificación: 0,0116 cent/kWh.
 
 El peaje del servicio de descarga de GNL incluirá el derecho al uso de las instalaciones necesarias para la descarga de GNL de un buque a la planta de regasificación.
 
-Plantas de Huelva, Cartagena y Sagunto:
-
-Tfd: Término fijo del peaje descarga de GNL: 33.978 €/buque.
+Tfd: Término fijo del peaje descarga de GNL 33.978 €/buque.
 
 Tvd: Término variable de peaje de descarga de GNL: 0,0069 cent/kWh.
 
-Plantas de Bilbao, Barcelona y Mugardos:
-
-Tfd: Término fijo del peaje de descarga de GNL: 16.988 €/buque.
-
-Tvd: Término variable del peaje de descarga de GNL: 0,0035 cent/kWh.
+*Este peaje estará en vigor hasta que se publiquen nuevos valores de acuerdo a la metodología de cálculo que debe elaborar la Comisión Nacional de los Mercados y la Competencia conforme a lo dispuesto en el artículo 2 del Real Decreto-ley 13/2012, de 30 de marzo.
 
 ## Tercero. Peaje de carga de cisternas.
 
@@ -160,6 +154,16 @@ Los coeficientes a aplicar al término fijo de caudal de los peajes correspondie
 | Diciembre | 0,18 | 0,11 | 1,60 |
 
 El termino variable Tvij a aplicar es el del peaje correspondiente.
+
+## Décimo. Peaje de Acceso al Punto Virtual de Balance desde red de distribución.
+
+Término fijo Tfr = 0 €/kWh/dia/mes
+
+A estos usuarios les será aplicable toda la normativa de contratación y facturación en vigor, debiéndose emitir las correspondientes facturas, aunque su importe sea cero.
+
+*Este peaje estará en vigor hasta que se publiquen los valores definitivos de acuerdo a la metodología de cálculo que debe elaborar la Comisión Nacional de los Mercados y la Competencia conforme a lo dispuesto en el artículo 2 del Real Decreto-ley 13/2012, de 30 de marzo.
+
+> Se modifica el apartado 2 y se añade el 10 por la disposición final 2.2 y 3 de la Orden TEC/1367/2018, de 20 de diciembre. Ref. BOE-A-2018-17607#df-2
 
 > Se modifica el apartado 9 por la disposición final 2.5 de la Orden ETU/1977/2016, de 23 de diciembre. Ref. BOE-A-2016-12465.
 

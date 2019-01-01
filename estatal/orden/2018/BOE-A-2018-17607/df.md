@@ -1,0 +1,5 @@
+## Disposición final primera. Modificación de la Orden ECO/2692/2002, de 28 de octubre.
+
+Se modifica el apartado 3 del artículo 2 de la Orden ECO/2692/2002, de 28 de octubre, por la que se regulan los procedimientos de liquidación de la retribución de las actividades reguladas del sector gas natural y de las cuotas con destinos específicos y se establece el sistema de información que deben presentar las empresas, que pasa a tener la siguiente redacción:
+
+«3. A efectos de las liquidaciones establecidas en la presente orden ministerial, las empresas que desarrollan actividades gasistas reguladas de regasificación, transporte, almacenamiento y distribución serán las que disponga la normativa que establezca la retribución de las actividades reguladas del sector gasista para cada año. Asimismo, los titulares de derechos de cobro correspondientes al déficit acumulado a 31 de diciembre de 2014 serán considerados sujetos del sistema de liquidaciones, aun cuando no realicen ninguna de las actividades reguladas anteriores.»
