@@ -4,13 +4,27 @@ Uno. En caso de que España sea el Estado miembro de identificación elegido por
 
 a) Declarar el inicio, la modificación o el cese de sus operaciones comprendidas en este régimen especial. Dicha declaración se presentará por vía electrónica.
 
-La información facilitada por el empresario o profesional no establecido en la Comunidad al declarar el inicio de sus actividades gravadas incluirá los siguientes datos de identificación: nombre, direcciones postal y de correo electrónico, direcciones electrónicas de los sitios de internet a través de los que opere en su caso, el número mediante el que esté identificado ante la Administración fiscal del territorio tercero en el que tenga su sede de actividad y una declaración en la que manifieste que no está identificado a efectos del Impuesto sobre el Valor Añadido en otro Estado miembro de la Comunidad. Igualmente, el empresario o profesional no establecido en la Comunidad comunicará toda posible modificación de la citada información.
+La información facilitada por el empresario o profesional no establecido en la Comunidad al declarar el inicio de sus actividades gravadas incluirá los siguientes datos de identificación: nombre, direcciones postal y de correo electrónico, direcciones electrónicas de los sitios de internet a través de los que opere en su caso, el número mediante el que esté identificado ante la Administración fiscal del territorio tercero en el que tenga su sede de actividad y una declaración en la que manifieste que no ha situado la sede de su actividad económica en el territorio de la Comunidad y que no posee en él un establecimiento permanente. Igualmente, el empresario o profesional no establecido en la Comunidad comunicará toda posible modificación de la citada información.
 
 En el caso de empresarios o profesionales establecidos en las Islas Canarias, Ceuta o Melilla, la información a facilitar al declarar el inicio de sus actividades gravadas incluirá nombre, direcciones postal y de correo electrónico y las direcciones electrónicas de los sitios de internet a través de los que opere y número de identificación fiscal asignado por la Administración tributaria española.
 
 A efectos de este régimen, la Administración tributaria identificará al empresario o profesional no establecido en la Comunidad mediante un número individual.
 
 La Administración tributaria notificará por vía electrónica al empresario o profesional no establecido en la Comunidad el número de identificación que le haya asignado.
+
+> Téngase en cuenta que esta modificación del apartado 1.a) establecida por el art. 79.3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-73, tiene efectos desde el 1 de enero de 2019.
+
+> Redacción anterior:
+
+> "a) Declarar el inicio, la modificación o el cese de sus operaciones comprendidas en este régimen especial. Dicha declaración se presentará por vía electrónica.
+
+> La información facilitada por el empresario o profesional no establecido en la Comunidad al declarar el inicio de sus actividades gravadas incluirá los siguientes datos de identificación: nombre, direcciones postal y de correo electrónico, direcciones electrónicas de los sitios de internet a través de los que opere en su caso, el número mediante el que esté identificado ante la Administración fiscal del territorio tercero en el que tenga su sede de actividad y una declaración en la que manifieste que no está identificado a efectos del Impuesto sobre el Valor Añadido en otro Estado miembro de la Comunidad. Igualmente, el empresario o profesional no establecido en la Comunidad comunicará toda posible modificación de la citada información.
+
+> En el caso de empresarios o profesionales establecidos en las Islas Canarias, Ceuta o Melilla, la información a facilitar al declarar el inicio de sus actividades gravadas incluirá nombre, direcciones postal y de correo electrónico y las direcciones electrónicas de los sitios de internet a través de los que opere y número de identificación fiscal asignado por la Administración tributaria española.
+
+> A efectos de este régimen, la Administración tributaria identificará al empresario o profesional no establecido en la Comunidad mediante un número individual.
+
+> La Administración tributaria notificará por vía electrónica al empresario o profesional no establecido en la Comunidad el número de identificación que le haya asignado."
 
 b) Presentar por vía electrónica una declaración-liquidación del Impuesto sobre el Valor Añadido por cada trimestre natural, independientemente de que haya suministrado o no servicios de telecomunicaciones, de radiodifusión o de televisión y electrónicos. La declaración no podrá ser negativa y se presentará dentro del plazo de veinte días a partir del final del período al que se refiere la declaración.
 
@@ -37,5 +51,7 @@ Dos. En caso de que el empresario o profesional no establecido en la Comunidad h
 Además, el empresario o profesional no establecido en la Comunidad deberá cumplir el resto de obligaciones contenidas en el apartado Uno anterior en el Estado miembro de identificación y, en particular, las establecidas en la letra d) de dicho apartado.
 
 Tres. El Ministro de Hacienda y Administraciones Públicas dictará las disposiciones necesarias para el desarrollo y aplicación de lo establecido en la presente sección.
+
+> Se modifica el apartado 1.a), con efectos de 1 de enero de 2019, por el art. 79.3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-73
 
 > Se añade por el art. 1.35 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
