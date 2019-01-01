@@ -1,0 +1,3 @@
+## Artículo 6. Extracoste de producción en los sistemas eléctricos en los territorios no peninsulares con cargo al sistema eléctrico.
+
+La compensación del extracoste de la actividad de producción en los sistemas eléctricos en los territorios no peninsulares con cargo al sistema eléctrico prevista para el año 2019 será de 729.665 miles de euros.
