@@ -1,11 +1,13 @@
 ## ANEXO
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/237/09866_4883.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/314/17996_6950.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/237/09866_4961.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/314/17996_7022.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/237/09866_5034.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/314/17996_7095.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/237/09866_5107.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/314/17996_7167.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/237/09866_5182.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2018/314/17996_7238.png)
+
+> Se sustituye por el anexo III de la Orden HAC/1416/2018, de 28 de diciembre, según establece su artículo 4. Ref. BOE-A-2018-17996
