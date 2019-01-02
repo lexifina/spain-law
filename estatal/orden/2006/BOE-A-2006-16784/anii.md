@@ -44,9 +44,15 @@ En el caso de empresas que sólo realicen el transporte, las indicaciones se lim
 
 5. Relación de vehículos de transporte por carretera utilizados
 
-Este epígrafe sólo afecta a las empresas que realicen el transporte de mercancías peligrosas por carretera y a las empresas cargadoras o descargadoras que dispongan de flota propia.
+(Suprimido)
 
-Se indicarán los vehículos de transporte utilizados indicándose las matrículas, si son de propiedad o no de la empresa, independientemente de que las cantidades transportadas hayan sido relacionadas en el cuadro correspondiente al punto anterior, el tipo (entoldado, caja, descubierto, cubierto, semirremolque, semirremolque cisterna, remolque, rígido, camión, tractora, tractocamión, furgón, camión mixto, portacontenedores, tolva, silo, basculante, capitoné, góndola o turismo) o cualquier particularidad que sea necesaria resaltar. Igualmente se indicarán la tara y la masa máxima autorizada de los vehículos. Por último, si se trata de un vehículo catalogado con certificado de aprobación según el apéndice B del ADR, se indicará la categoría de que se trate (AT, FL, OX, EX/II o EX/III).
+> Téngase en cuenta que se suprime el apartado 5, con efectos de 2 de enero de 2019, según establece el apartado 6.6 de la Orden FOM/606/2018, de 25 de mayo. Ref. BOE-A-2018-7511#se-2
+
+> Redacción anterior:
+
+> "Este epígrafe sólo afecta a las empresas que realicen el transporte de mercancías peligrosas por carretera y a las empresas cargadoras o descargadoras que dispongan de flota propia.
+
+> Se indicarán los vehículos de transporte utilizados indicándose las matrículas, si son de propiedad o no de la empresa, independientemente de que las cantidades transportadas hayan sido relacionadas en el cuadro correspondiente al punto anterior, el tipo (entoldado, caja, descubierto, cubierto, semirremolque, semirremolque cisterna, remolque, rígido, camión, tractora, tractocamión, furgón, camión mixto, portacontenedores, tolva, silo, basculante, capitoné, góndola o turismo) o cualquier particularidad que sea necesaria resaltar. Igualmente se indicarán la tara y la masa máxima autorizada de los vehículos. Por último, si se trata de un vehículo catalogado con certificado de aprobación según el apéndice B del ADR, se indicará la categoría de que se trate (AT, FL, OX, EX/II o EX/III)."
 
 6. Modo de transporte utilizado
 
@@ -73,3 +79,5 @@ La respuesta afirmativa se deberá reseñar cuando se hayan comprobado la totali
 La información de los distintos epígrafes se podrá completar con cualquier otro tipo de indicación que el consejero de seguridad estime oportuno incluir.
 
 En el epígrafe observaciones deberá expresar las que estime procedentes y, como mínimo, las razones por las que no se hubieran realizado las comprobaciones.
+
+> Se suprime el apartado 5 por el apartado 6.6 de la Orden FOM/606/2018, de 25 de mayo. Ref. BOE-A-2018-7511#se-2
