@@ -1,0 +1,5 @@
+## Disposición final primera. Reparto de la compensación entre modalidades de reproducción.
+
+1. El acuerdo que, en su caso, exista entre las entidades de gestión autorizadas por el Ministerio de Cultura y Deporte para determinar el reparto de la compensación equitativa regulada en el apartado 1 de la disposición transitoria segunda del Real Decreto-ley 12/2017, de 3 de julio, entre las distintas modalidades de reproducción, deberá remitirse al Ministerio de Cultura y Deporte, a la Secretaría de Estado para el Avance Digital y a las principales asociaciones representativas de sujetos deudores y distribuidores en el plazo de cinco días tras la entrada en vigor de este real decreto.
+
+2. Una vez resueltas todas las solicitudes de reembolso correspondientes a la compensación equitativa regulada en el apartado 1 de la disposición transitoria segunda del Real Decreto-ley 12/2017, de 3 de julio, que hubiera sido recaudada hasta la entrada en vigor del presente real decreto, las entidades de gestión liberarán el saldo remanente de la provisión dotada en cumplimiento del apartado 5 de dicha disposición transitoria que no haya sido consumido en la atención de reembolsos.
