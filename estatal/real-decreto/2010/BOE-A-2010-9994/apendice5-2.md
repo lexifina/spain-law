@@ -1,233 +1,165 @@
 ## APÉNDICE 5
 
-## Lista de requisitos exigidos para la homologación de vehículos en Serie Corta Nacional y Homologación Individual.
+## Lista de requisitos exigidos para la homologación de vehículos en Serie Corta Nacional y Homologación Individual
+
+(Vehículos de categorías M1, M2, M3, N1, N2 y N3)
 
 ## PARTE I
 
-## Vehículos de las categorías M1 y N1 derivados de aquellos
+| N.º | Acto Reglamentario (8) (*) (H) | Serie Corta Nacional | Homologación Individual |
+| --- | --- | --- | --- |
+| Completo | Completados |
+| 1 | Nivel sonoro admisible | A | B | A |
+| 2A | Emisiones (Euro 5 y 6) de los vehículos ligeros y acceso a la información | A | B | A |
+| 3 | Depósitos de carburante/dispositivos de protección trasera |  |  |  |
+| 3A | Prevención de riesgos de incendio (Depósitos de combustible) | B (4) (6) | B | B (4) (6) |
+| 3B | Dispositivos de protección trasera contra el empotramiento y sus instalaciones | X (2) A (4) | X (2) B (4) | X (2) A (4) |
+| 4 | Emplazamiento de la placa de matrícula trasera | A | B | A |
+| 4A | Espacio placa de matrícula posterior |
+| 5 | Fuerza sobre el mando de dirección | A | B | A |
+| 5A | Mecanismos de dirección |
+| 6 | Cerraduras y bisagras de las puertas |  |  |  |
+| 6A | Cerraduras y bisagras de las puertas | A | B | A |
+| 7 | Señales acústicas | X (2) A (4) | B | X (2) A (4) |
+| 7A | Avisador acústico |
+| 8 | Dispositivos de visión indirecta | X (2) A (4) | B | X (2) A (4) |
+| 8A | Dispositivos de visión indirecta y su instalación |
+| 9 | Frenado | A | B | A |
+| 9A | Frenado de los vehículos y remolques |
+| 9B | Frenado de los vehículos de turismo |
+| 10 | Interferencias de radio (compatibilidad electromagnética) | A (6) (3) | B (6) | A (6) (3) |
+| 10A | Compatibilidad electromagnética |
+| 12 | Acondicionamiento interior | B | B | B |
+| 12A |
+| 13 | Antirrobo e inmovilizador | A | B | A |
+| 13A | Protección de los vehículos de motor contra la utilización no autorizada |
+| 13B |
+| 14 | Comportamiento del mecanismo de dirección en caso de colisión | A | C | A |
+| 14A | Protección del conductor contra el mecanismo de dirección en caso de colisión |
+| 15 | Resistencia de los asientos | A | C | A |
+| 15A | Asientos y sus anclajes y apoyacabezas |
+| 15B | Asientos de vehículos de pasajeros de grandes dimensiones |
+| 16 | Salientes exteriores | A | B | A |
+| 16A |
+| 17 | Aparato indicador de velocidad y marcha atrás | C | C | C |
+| 17A | Acceso al vehículo y su maniobrabilidad (marcha atrás) |
+| 17B | Aparato indicador de velocidad, incluida su instalación | A | B | A |
+| 18 | Placas reglamentarias | A | C | A |
+| 18A | Placas e inscripciones reglamentarias |
+| 19 | Anclajes de los cinturones de seguridad | A | C | A |
+| 19A | Anclajes de los cinturones de seguridad, sistemas de anclajes Isofix y anclajes superiores Isofix |
+| 20 | Instalación de dispositivos de alumbrado y señalización luminosa | X (2) A (4) | B (4)(6) | X (2) A (4) |
+| 20A | Instalación de dispositivos de alumbrado y señalización luminosa en vehículos |
+| 21 | Catadióptricos | X (2) | B (6) | X (2) |
+| 21A | Dispositivos catadióptricos para vehículos de motor y sus remolques |
+| 22 | Luces de gálibo, de posición delanteras y traseras, de frenado, de posición laterales y de circulación diurna |  |  |  |
+| 22A | Luces de gálibo, de posición delanteras y traseras, de frenado, laterales de posición lateral | X (2) | B (6) | X (2) |
+| 22B | Luces de circulación diurna |
+| 22C | Luces de posición lateral |
+| 23 | Indicadores de dirección | X (2) | B (6) | X (2) |
+| 23A | Indicadores de dirección de los vehículos de motor y sus remolques |
+| 24 | Alumbrado de la placa de matricula | X (2) | B (6) | X (2) |
+| 24A | Alumbrado de las placas de matrícula traseras de los vehículos de motor y sus remolques |
+| 25 | Proyectores (incluidas las lámparas) | X (2) | B (6) | X (2) |
+| 25A | Faros sellados (SB) de los vehículos de motor que emiten un haz de cruce asimétrico europeo o un haz de carretera, o ambos |
+| 25B | Lámparas de incandescencia destinadas a unidades de luces homologadas de vehículos de motor y sus remolques |
+| 25C | Faros equipados con lámparas de descarga de gas para los vehículos de motor |
+| 25D | Fuentes luminosas de descarga de gas para su uso en unidades de lámparas de descarga de gas homologadas de vehículos de motor |
+| 25E | Faros de vehículos de motor que emiten un haz de carretera o un haz de cruce asimétrico, o ambos, y están equipados con lámparas de incandescencia y/o módulos LED |
+| 25F | Sistemas de alumbrado delantero adaptables (ABS) para vehículos de motor |
+| 26 | Faros antiniebla delanteros | X (2) | B (6) | X (2) |
+| 26A | Luces antiniebla delanteras de los vehículos de motor |
+| 27 | Ganchos de remolque | A | B | A |
+| 27A | Dispositivos de remolque |
+| 28 | Luces antiniebla traseras | X (2) | B (6) | X (2) |
+| 28A | Luces antiniebla traseras de los vehículos de motor y de sus remolques |
+| 29 | Proyectores de marcha atrás | X (2) | B (6) | X (2) |
+| 29A | Luces de marcha atrás de los vehículos de motor y sus remolques |
+| 30 | Luces de estacionamiento | X (2) | B (6) | X (2) |
+| 30A | Luces de estacionamiento de los vehículos de motor |
+| 31 | Cinturones de seguridad y sistemas de retención | X (2) A (4) | B (4) (6) | X (2) A (4) |
+| 31A | Cinturones de seguridad, sistemas de retención, sistemas de retención infantil y sistemas de retención infantil Isofix |
+| 32 | Campo de visión delantero | A | B | A |
+| 32A |
+| 33 | Identificación de los mandos, luces-testigos e indicadores | A | B | A |
+| 33A | Emplazamiento e identificación de los mandos manuales, testigos e indicadores |
+| 34 | Dispositivos de deshielo y de desempañado | A | B | A |
+| 34A | Dispositivos de deshielo y de desempañado del parabrisas |
+| 35 | Lavaparabrisas y limpiaparabrisas | A | B | A |
+| 35A | Limpiaparabrisas y lavaparabrisas |
+| 36 | Sistemas de calefacción | A | B | A |
+| 36A |
+| 37 | Guardabarros | A | B | A |
+| 37A |
+| 38 | Apoyacabezas | X (2) | B | X (2) |
+| 38A | Apoyacabezas (reposacabezas), incorporados o no en asientos de vehículos |
+| 41 | Emisiones (Euro IV y Euro V) de los vehículos pesados | A | B | A |
+| 41A | Emisiones (Euro VI) de los vehículos pesados y acceso a la información | A | B | A |
+| 42 | Protección lateral | X (2) A (4) | B (4) (6) | X (2) A (4) |
+| 42A | Protección lateral de vehículos industriales |
+| 43 | Sistemas anti proyección | X (2) A (4) | B (4) (6) | X (2) A (4) |
+| 43A |
+| 44 | Masas y dimensiones (automóviles) | A | B | A |
+| 44A | Masas y dimensiones |
+| 45 | Cristales de seguridad | X (2) A (4) | B (4) (6) | X (2) A (4) |
+| 45A | Materiales de acristalamiento de seguridad y su instalación en vehículos |
+| 46 | Neumáticos | A (4) | B (4) | A (4) |
+| 46A | Instalación de los neumáticos |
+| 46B | Neumáticos para vehículos de motor y sus remolques (clase C1) | X (2) | B (4) (6) | X (2) |
+| 46C | Neumáticos para vehículos industriales y sus remolques (clases C2 y C3) |
+| 46D | Emisiones de ruido de rodadura de los neumáticos, adherencia en superficie mojada y resistencia a la rodadura (clases C1, C2 y C3) |
+| 46E | Unidad de repuesto de uso provisional, neumáticos autoportantes / sistema autoportante y sistema de control de la presión de los neumáticos | X (2) A (4) | B (4) (6) | X (2) A (4) |
+| 47 | Dispositivos de limitación de velocidad | X | B | X |
+| 47A | Limitación de la velocidad delos vehículos |
+| 48 | Masas y dimensiones (excepto los vehículos del punto 44) | A | B | A |
+| 48A | Masas y dimensiones |
+| 49 | Salientes exteriores de las cabinas | A | B | A |
+| 49A | Vehículos industriales en lo que respecta a los salientes exteriores situados por delante del panel trasero de la cabina |
+| 50 | Acoplamientos | X (2) A (4) | B (4) (6) | X (2) A (4) |
+| 50A | Dispositivos mecánicos de acoplamiento de vehículos combinados |
+| 50B | Dispositivos de acoplamiento corto (DAC); instalación de un tipo homologado de DAC |
+| 51 | Inflamabilidad | X (2) A (4) | B (4) (6) | X (2) A (4) |
+| 51A | Comportamiento frente al fuego de los materiales utilizados en la fabricación del interior de determinadas categorías de vehículos de motor |
+| 52 | Autobuses y autocares | A | B | A |
+| 52A | Vehículos de la categoría M2 y M3 |
+| 53 | Impacto frontal | A | C (5) | A |
+| 53A | Protección de los ocupantes en caso de colisión frontal |
+| 54 | Colisión lateral | A | C (5) | A |
+| 54A | Protección de los ocupantes en caso de colisión lateral |
+| 56 | Vehículos destinados al transporte de mercancías peligrosas | A | B | A |
+| 56A |
+| 57 | Protección delantera contra el empotramiento | A | B | A |
+| 57A | Dispositivos de protección delantera contra el empotramiento y su instalación; protección delantera contra el empotramiento |
+| 58 | Protección de los peatones | X (2) | X (2) (5) | X (2) |
+| 59 | Aptitud para el Reciclado | NA | NA | NA |
+| 61 | Sistema de aire acondicionado | A | B | A |
+| 62 | Sistema de Hidrógeno | A | B | A |
+| 64 | Indicadores de cambio de velocidad | A | B | A |
+| 65 | Sistema avanzado de frenado de emergencia | NA | NA | NA |
+| 66 | Sistema de advertencia de abandono del carril | NA | NA | NA |
+| 67 | Componentes específicos para gases licuados de petróleo (GLP) y su instalación en vehículos de motor | X (2) A (4) | B (4) (6) | X (2) A (4) |
+| 68 | Sistemas de alarma de los vehículos | X (2) A (4) | B (4) (6) | X (2) A (4) |
+| 69 | Seguridad eléctrica | A | B | A |
+| 70 | Componentes específicos para GNC y su instalación en vehículos de motor | X (2) A (4) | B (4) (6) | X (2) A (4) |
+| 71 | Resistencia de la cabina | A | B | A |
 
-| Categoría: M1 y N1 derivados de aquellos |
-| --- |
-| Asunto | Número AR (*) | Serie Corta Nacional (H) | Homologación Individual (H) |
-| Completo | Completados y transformados |
-| 1 | Nivel sonoro | 70/157/CEE | A | A | A |
-| 2 | Emisiones | 70/220/CEE | A | A | A |
-| 3 | Depósitos de combustible /dispositivos de protección trasera | 70/221/CEE | X(2) B(4) | A(6) | X(2) B(4) |
-|  | Espacio placa de matrícula posterior | 70/222/CEE | B | A | B |
-| 5 | Mecanismos de dirección | 70/311/CEE | C | A | C |
-| 6 | Cerraduras y bisagras de las puertas | 70/387/CEE | C | A | C |
-| 7 | Avisador acústico | 70/388/CEE | X(2) B(4) | A(6) | X(2) B(4) |
-| 8 | Dispositivos de visión indirecta | 2003/97/CE | X(2) B(4) | A(6) | X(2) B(4) |
-| 9 | Frenado | 71/320/CEE | A | A | A |
-| 10 | Supresión de parásitos radioléctricos | 72/245/CEE | A(1) C(3) | A(6) | A(1) C(3) |
-| 11 | Emisiones diesel | 72/306/CEE | A | A | A |
-| 12 | Acondicionamiento interior | 74/60/CEE | C | A | C |
-| 13 | Antirrobo e inmovilizador | 74/61/CEE | A | A | A |
-| 14 | Dispositivo de conducción en caso de colisión | 74/297/CEE | C | A | C |
-| 15 | Resistencia de los asientos | 74/408/CEE | C | A | C |
-| 16 | Salientes exteriores | 74/483/CEE | C | A | C |
-| 17 | Velocímetro y marcha atrás | 75/443/CEE | B | A | B |
-| 18 | Placas e inscripciones reglamentarias | 76/114/CEE | B | A | B |
-| 19 | Anclajes de los cinturones de seguridad | 76/115/CEE | B | A | B |
-| 20 | Instalación de dispositivos de alumbrado y señalización luminosa | 76/756/CEE | X(2) B(4) | A(6) | X(2) B(4) |
-| 21 | Catadióptricos | 76/757/CEE | X(2) | A(6) | X(2) |
-| 22 | Luces de gálibo, de posición delanteras y traseras, de frenado, laterales de posición lateral y de circulación diurna | 76/758/CEE | X(2) | A(6) | X(2) |
-| 23 | Indicadores de dirección | 76/759/CEE | X(2) | A(6) | X(2) |
-| 24 | Dispositivos de alumbrado de la placa de matricula | 76/760/CEE | X(2) | A(6) | X(2) |
-| 25 | Proyectores (incluidas las lámparas) | 76/761/CEE | X(2) | A(6) | X(2) |
-| 26 | Luces antiniebla delanteros | 76/762/CEE | X(2) | A(6) | X(2) |
-| 27 | Dispositivos de remolque | 77/389/CEE | B | A | B |
-| 28 | Luces antiniebla traseras | 77/538/CEE | X(2) | A(6) | X(2) |
-| 29 | Luces de marcha atrás | 77/539/CEE | X(2) | A(6) | X(2) |
-| 30 | Luces de estacionamiento | 77/540/CEE | X(2) | A(6) | X(2) |
-| 31 | Cinturones de seguridad | 77/541/CEE | A(2) B(4) | A(6) | A(2) B(4) |
-| 32 | Campo de visión del conductor | 77/649/CEE | A | A | A |
-| 33 | Identificación de mandos | 78/316/CEE | A | A | A |
-| 34 | Dispositivos anti hielo y anti vaho | 78/317/CEE | C | C | C |
-| 35 | Lava/limpiaparabrisas | 78/318/CEE | C | C | C |
-| 36 | Calefacción | 2001/56/CE | C | A | C |
-| 37 | Guardabarros | 78/549/CEE | B | A | B |
-| 38 | Reposacabezas | 78/932/CEE | C | A | C |
-| 39 | Emisiones de CO2/Consumo de carburante | 80/1268/CEE | A | A | A |
-| 40 | Potencia del motor | 80/1269/CEE | C | C | C |
-| 41 | Emisiones diesel | 2005/55CE | A | A | A |
-| 42 | Protección lateral | 89/297/CEE | A | A | A |
-| 43 | Sistemas anti proyección | 91/226/CEE | A | A | A |
-| 44 | Masas y dimensiones (automóviles) | 92/21 /CEE | C | A | C |
-| 45 | Vidrios de seguridad | 92/22/CEE | X(2) B(4) | A(6) | X(2) B(4) |
-| 46 | Neumáticos | 92/23/CEE | X(2) B(4) | A(6) | X(2) B(4) |
-| 47 | Limitadores de velocidad | 92/24/CEE | X | A | X |
-| 48 | Masas y dimensiones (excepto vehículos: punto 44) | 97/27/CE | A | A | A |
-| 49 | Salientes exteriores de las cabinas | 92/114/CEE | A | A | A |
-| 50 | Dispositivos de acoplamiento | 94/20/CE | X(2) | A(6) | X(2) |
-| 51 | Inflamabilidad | 95/28/CE | NA | NA | NA |
-| 52 | Autobuses y autocares | 2001/85/CE | NA | NA | NA |
-| 53 | Colisión frontal | 96/79/CE | NA | C(5) | NA |
-| 54 | Colisión lateral | 96/27/CE | NA | C(5) | NA |
-| 56 | Vehículos destinados al transporte de mercancías peligrosas (solo N1) | 98/91/CE | X | A | X |
-| 57 | Protección delantera contra el empotramiento | 2000/40/CE | NA | NA | NA |
-| 58 | Protección de los peatones | 2003/102/CE | NA | C(5) | NA |
-| 59 | Reciclado | 2005/64/CE | NA(7) | NA(7) | NA(7) |
-| 60 | Sistema de protección delantera | 2005/66/CE | X(2) A(4) | A(6) | X(2) A(4) |
-| 61 | Sistema de aire acondicionado | 2006/40/CE | X(2) B(3) | B(6) | X(2) B(3) |
-|  | Estabilidad lateral | R111 | NA | NA | NA |
-|  |  | X(2) |  |  |  |
-|  | GNC | R110 | X(2) A(4) | A(6) | X(2) A(4) |
-|  | GLP | R67 | X(2) A(4) | A(6) | X(2) A(4) |
-|  | Adaptación GNC/GLP | R115 | X | A | A |
+Leyenda:
 
-## PARTE II
+X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo UE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.
 
-## Vehículos de las categorías N1, N2 y N3
+A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.
 
-| Categoría: N1, N2 y N3 |
-| --- |
-| Asunto | Número AR (*) | Serie Corta Nacional (H) | Homologación Individual (H) |
-| Completo | Completados y transformados |
-| 1 | Nivel sonoro | 70/157/CEE | A | A | A |
-| 2 | Emisiones | 70/220/CEE | X | A | X |
-| 3 | Depósitos de combustible/dispositivos de protección trasera | 70/221/CEE | X(2) A | A(6) | X(2) A |
-| 4 | Espacio placa de matrícula posterior | 70/222/CEE | B | A | B |
-| 5 | Mecanismos de dirección | 70/311/CEE | C | A | C |
-| 6 | Cerraduras y bisagras de las puertas | 70/387/CEE | C | C | C |
-| 7 | Avisador acústico | 70/388/CEE | X(2) B(4) | A(6) | X(2) B(4) |
-| 8 | Dispositivos de visión indirecta | 2003/97/CE | X(2) B(4) | A(6) | X(2) B(4) |
-| 9 | Frenado | 71/320/CEE | A | A | A |
-| 10 | Supresión de parásitos radioléctricos | 72/245/CEE | A(1) C(3) | A(6) | A(1) C(3) |
-| 11 | Emisiones diesel | 72/306/CEE | A | A | A |
-| 12 | Acondicionamiento interior | 74/60/CEE | NA | NA | NA |
-| 13 | Antirrobo e inmovilizador | 74/61/CEE | A | A | A |
-| 14 | Dispositivo de conducción en caso de colisión (Solo N1) | 74/297/CEE | C | A | C |
-| 15 | Resistencia de los asientos | 74/408/CEE | C | A | C |
-| 16 | Salientes exteriores | 74/483/CEE | NA | NA | NA |
-| 17 | Velocímetro y marcha atrás | 75/443/CEE | B | A | B |
-| 18 | Placas e inscripciones reglamentarias | 76/114/CEE | B | A | B |
-| 19 | Anclajes de los cinturones de seguridad | 76/115/CEE | B | A | B |
-| 20 | Instalación de dispositivos de alumbrado y señalización luminosa | 76/756/CEE | X(2) B(4) | A(6) | X(2) B(4) |
-| 21 | Catadióptricos | 76/757/CEE | X(2) | A(6) | X(2) |
-| 22 | Luces de gálibo, de posición delanteras y traseras, de frenado, laterales de posición lateral y de circulación diurna | 76/758/CEE | X(2) | A(6) | X(2) |
-| 23 | Indicadores de dirección | 76/759/CEE | X(2) | A(6) | X(2) |
-| 24 | Dispositivos de alumbrado de la placa de matrícula | 76/760/CEE | X(2) | A(6) | X(2) |
-| 25 | Proyectores (incluidas las lámparas) | 76/761/CEE | X(2) | A(6) | X(2) |
-| 26 | Faros antiniebla delanteros | 76/762/CEE | X(2) | A(6) | X(2) |
-| 27 | Dispositivos de remolque | 77/389/CEE | B | A(6) | B |
-| 28 | Luces antiniebla traseras | 77/538/CEE | X(2) | A(6) | X(2) |
-| 29 | Luces de marcha atrás | 77/539/CEE | X(2) | A(6) | X(2) |
-| 30 | Luces de estacionamiento | 77/540/CEE | X(2) | A(6) | X(2) |
-| 31 | Cinturones de seguridad | 77/541/CEE | A(2) B(4) | A(6) | X(2) B(4) |
-| 32 | Campo de visión del conductor | 77/649/CEE | NA | NA | NA |
-| 33 | Identificación de mandos | 78/316/CEE | A | A | A |
-| 34 | Dispositivos anti hielo y anti vaho | 78/317/CEE | C | C | C |
-| 35 | Lava/limpiaparabrisas | 78/318/CEE | C | C | C |
-| 36 | Calefacción | 2001/56/CE | C | A | C |
-| 37 | Guardabarros | 78/549/CEE | B | A | B |
-| 38 | Reposacabezas | 78/932/CEE | C | A | C |
-| 39 | Emisiones de CO2/Consumo de carburante | 80/1268/CEE | A | A | A |
-| 40 | Potencia del motor | 80/1269/CEE | C | C | C |
-| 41 | Emisiones diesel | 2005/55CE | A | A | A |
-| 42 | Protección lateral | 89/297/CEE | A | A | A |
-| 43 | Sistemas anti proyección | 91/226/CEE | A | A | A |
-| 44 | Masas y dimensiones (automóviles) | 92/21/CEE | C | A | C |
-| 45 | Vidrios de seguridad | 92/22/CEE | X(2) B(4) | A(6) | X(2) B(4) |
-| 46 | Neumáticos | 92/23/CEE | X(2) B(4) | A(6) | X(2) B(4) |
-| 47 | Limitadores de velocidad | 92/24/CEE | X | A | X |
-| 48 | Masas y dimensiones (excepto vehículos: punto 44) | 97/27/CE | A | A | A |
-| 49 | Salientes exteriores de las cabinas | 92/114/CEE | A | A | A |
-| 50 | Dispositivos de acoplamiento | 94/20/CE | X(2) | A(6) | X(2) |
-| 51 | Inflamabilidad | 95/28/CE | NA | NA | NA |
-| 52 | Autobuses y autocares | 2001/85/CE | NA | NA | NA |
-| 53 | Colisión frontal | 96/79/CE | NA | C(5) | NA |
-| 54 | Colisión lateral | 96/27/CE | NA | C(5) | NA |
-| 56 | Vehículos destinados al transporte de mercancías peligrosas (solo N1) | 98/91/CE | X | A | X |
-| 57 | Protección delantera contra el empotramiento | 2000/40/CE | NA | NA | NA |
-| 58 | Protección de los peatones | 2003/102/CE | NA | C(5) | NA |
-| 59 | Reciclado | 2005/64/CE | NA(7) | NA(7) | NA(7) |
-| 60 | Sistema de protección delantera | 2005/66/CE | X(2) A(4) | A(6) | X(2) A(4) |
-| 61 | Sistema de aire acondicionado | 2006/40/CE | X(2) B(3) | B(6) | X(2) B(3) |
-|  | Estabilidad lateral | R111 | NA | NA | NA |
-|  | GNC | R110 | X(2) A(4) | A(6) | X(2) A(4) |
-|  | GLP | R67 | X(2) A(4) | A(6) | X(2) A(4) |
-|  | Adaptación GNC/GLP | R115 | X | A | A |
+B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.
 
-## PARTE III
+C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.
 
-## Vehículos de la categoría M2 y M3
+H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción.
 
-| Categoría: M2 y M3 |
-| --- |
-| Nº | Asunto | Número AR (*) | Serie Corta Nacional (H) | Homologación Individual (H) |
-| Completo | Completados y transformados |
-| 1 | Nivel sonoro | 70/157/CEE | A | A | A |
-| 2 | Emisiones | 70/220/CEE | A | A | A |
-| 3 | Depósitos de combustible/dispositivos de protección trasera | 70/221 /CEE | X(2) B(4) | B(6) | X(2) B(4) |
-| 4 | Espacio placa de matrícula posterior | 70/222/CEE | B | A | B |
-| 5 | Mecanismos de dirección | 70/311/CEE | C | A | C |
-| 6 | Cerraduras y bisagras de las puertas | 70/387/CEE | NA | NA | NA |
-| 7 | Avisador acústico | 70/388/CEE | X(2) B(4) | A(6) | X(2) B(4) |
-|  |  |  |  |  | X(2) |
-| 8 | Dispositivos de visión indirecta | 2003/97/CE | X(2) B(4) | A(6) | X(2) B(4) |
-| 9 | Frenado | 71/320/CEE | A | A | A |
-| 10 | Supresión de parásitos radioléctricos | 72/245/CEE | A(1) C(3) | A(6) | A(1) C(3) |
-| 11 | Emisiones diesel | 72/306/CEE | A | A | X |
-| 12 | Acondicionamiento interior | 74/60/CEE | NA | NA | NA |
-| 13 | Antirrobo e inmovilizador | 74/61/CEE | A | A | A |
-| 14 | Dispositivo de conducción en caso de colisión | 74/297/CEE | NA | NA | NA |
-| 15 | Resistencia de los asientos | 74/408/CEE | C | A | C |
-| 16 | Salientes exteriores | 74/483/CEE | NA | NA | NA |
-| 17 | Velocímetro y marcha atrás | 75/443/CEE | B | A | B |
-| 18 | Placas e inscripciones reglamentadas | 76/114/CEE | B | A | B |
-| 19 | Anclajes de los cinturones de seguridad | 76/115/CEE | B | A | B |
-| 20 | Instalación de dispositivos de alumbrado y señalización luminosa | 76/756/CEE | X(2) A(4) | A(6) | X(2) A(4) |
-| 21 | Catadióptricos | 76/757/CEE | X(2) | A(6) | X(2) |
-| 22 | Luces de gálibo, de posición delanteras y traseras, de frenado, laterales de posición lateral y de circulación diurna | 76/758/CEE | X(2) | A(6) | X(2) |
-| 23 | Indicadores de dirección | 76/759/CEE | X(2) | A(6) | X(2) |
-| 24 | Dispositivos de alumbrado de la placa de matricula | 76/760/CEE | X(2) | A(6) | X(2) |
-| 25 | Proyectores (incluidas las lámparas) | 76/761/CEE | X(2) | A(6) | X(2) |
-| 26 | Faros antiniebla delanteros | 76/762/CEE | X(2) | A(6) | X(2) |
-| 27 | Dispositivos de remolque | 77/389/CEE | B | A | B |
-| 28 | Luces antiniebla traseras | 77/538/CEE | X(2) | A(6) | X(2) |
-| 29 | Luces de marcha atrás | 77/539/CEE | X(2) | A(6) | X(2) |
-| 30 | Luces de estacionamiento | 77/540/CEE | X(2) | A(6) | X(2) |
-| 31 | Cinturones de seguridad | 77/541/CEE | A(2) B(4) | A(6) | A(2) B(4) |
-| 32 | Campo de visión del conductor | 77/649/CEE | NA | NA | NA |
-| 33 | Identificación de mandos | 78/316/CEE | A | A | A |
-| 34 | Dispositivos antihielo y antivaho | 78/317/CEE | C | A | C |
-| 35 | Lava/limpiaparabrisas | 78/318/CEE | C | A | C |
-| 36 | Calefacción | 2001/56/CE | C | A | C |
-| 37 | Guardabarros | 78/549/CEE | NA | NA | NA |
-| 38 | Resposacabezas | 78/932/CEE | NA | NA | NA |
-| 39 | Emisiones de CO2 / Consumo de carburante | 80/1268/CEE | NA | NA | NA |
-| 40 | Potencia del motor | 80/1269/CEE | C | C | C |
-| 41 | Emisiones diesel | 2005/55/CE | A | A | A |
-| 42 | Protección lateral | 89/297/CEE | NA | NA | NA |
-| 43 | Sistemas antiproyección | 91/226/CEE | NA | NA | NA |
-| 44 | Masas y dimensiones (automóviles) | 92/21/CEE | NA | NA | NA |
-| 45 | Vidrios de seguridad | 92/22/CEE | X(2) B(4) | A(6) | X(2) B(4) |
-| 46 | Neumáticos | 92/23/CEE | X(2) B(4) | A(6) | X(2) B(4) |
-| 47 | Limitadores de velocidad (sólo M3) | 92/24/CEE92/6/CEE | X(2) A(4) | A(6) A(4) | X(2) A(4) |
-| 48 | Masas y dimensiones (excepto vehículos: punto 44) | 97/27/CE | A | A | A |
-| 49 | Salientes exteriores de las cabinas | 92/114/CEE | NA | NA | NA |
-| 50 | Dispositivos de acoplamiento | 94/20/CE | X(2) A(4) | A(6) | X(2) A(4) |
-| 51 | Inflamabilidad (Sólo M3) | 95/28/CE | X(2) A(4) | A(6) | X(2) A(4) |
-| 52 | Autobuses y autocares | 2001/85/CE | X | A | A |
-| 53 | Colisión frontal | 96/79/CE | NA | NA | NA |
-| 54 | Colisión lateral | 96/27/CE | NA | NA | NA |
-| 56 | Vehículos destinados al transporte de mercancías peligrosas | 98/91/CE | NA | NA | NA |
-| 57 | Protección contra el empotramiento | 2000/40/CE | NA | NA | NA |
-| 59 | Reciclado | 2005/64/CE | NA(7) | NA(7) | NA(7) |
-| 60 | Sistema de protección delantera | 2005/66/CE | NA | NA | NA |
-| 61 | Sistema de aire acondicionado | 2006/40/CE | NA | NA | NA |
-|  | Estabilidad lateral | R111 | NA | NA | NA |
-|  | GNC | R110 | X(2) A(4) | A(6) | X(2) A(4) |
-|  | GLP | R67 | X(2) A(4) | A(6) | X(2) A(4) |
-|  | Adaptación GNC / GLP | R115 | X | A | A |
-|  | Tacógrafo digital | R561/2006 | B | A | B |
-|  | Características de construcción | R107 | X | A | A |
-|  | Resistencia de la superestructura | R66 | X | A | X |
-|  | PMR | 2001/85/CE R107R03 | A | A | A |
-|  | Transporte escolar | RD 443/2001 | RD443/2001 | RD443/2001 | RD 443/2001 |
+N/A: Este acto normativo no es aplicable (ningún requisito)
 
-(*) En cualquier caso se cumplirá con las últimas modificaciones en vigor de las referencias normativas.
+RGV: Reglamento general de vehículos
+
+(*) La aplicación de los requisitos aplicables a estas categorías viene recogida en la última actualización de los Anexos I y II del RD 2028/1986.
 
 (1) Subconjunto electrónico.
 
@@ -237,20 +169,14 @@
 
 (4) Prescripciones de instalación
 
-(5) En el caso de vehículos singulares de los que solo se fabrique una unidad, la autoridad de homologación podrá eximir de alguno de los actos reglamentarios exigidos a condición de que el fabricante pueda demostrar de manera satisfactoria que se cumplen los requisitos reglamentados aplicables.
+(5) En el caso de vehículos singulares, la autoridad de homologación podrá eximir de alguno de los requisitos de los actos reglamentarios exigidos a condición de que el fabricante justifique la inaplicabilidad de dicho requisito en su caso concreto. Un servicio técnico deberá certificar dicha inaplicabilidad.
 
-(6) Todos los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes, deberán disponer de su homologación CEPE/ONU o equivalente.
+(6) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes deberán disponer de su homologación CEPE/ONU o equivalente.
 
-(7) Se aplica el artículo 7 de la Directiva 2005/64/CE.
+(7) No aplicable.
 
-X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo CE.
+(8) Los Actos Reglamentarios o requisitos exigibles para cada categoría serán los mencionados en los correspondientes anexos de la Directiva o el Reglamento de la Unión Europea vigentes en la materia.
 
-A: No se permite ninguna exención, excepto las especificadas en el acto reglamentado. No se requieren el certificado de homologación ni la marca de homologación. Un servicio técnico notificado deberá establecer actas de ensayo.
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. Ref. BOE-A-2018-15796
 
-B: Se deben cumplir las prescripciones técnicas del acto reglamentario. Los ensayos establecidos en el acto reglamentario deberán realizarse en su totalidad; previo acuerdo del organismo competente en materia de homologación, los podrá realizar el propio fabricante; también puede recibir autorización para expedir el informe técnico; no es necesario expedir un certificado de homologación de tipo.
-
-C: El fabricante debe demostrar de manera satisfactoria para la autoridad de homologación que se cumplen los requisitos generales de la Directiva particular.
-
-H: Podrá aceptarse como alternativa y previa autorización del centro directivo de Ministerio de Industria, Turismo y Comercio competente en materia de seguridad industrial, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación que se menciona en las columnas 1 y 4 del Real Decreto 2028/1986, de 6 de junio.
-
-N/A Este acto normativo no es aplicable (ningún requisito)
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.

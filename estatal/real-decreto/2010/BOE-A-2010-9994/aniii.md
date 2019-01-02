@@ -1,10 +1,10 @@
 ## ANEXO III
 
-## Homologación Nacional de Tipo de Vehículos
+## Homologación Nacional de Vehículos
 
-## Anexo Técnico sobre Homologación de Tipo Nacional de vehículos de las categorías M y N
+Anexo Técnico sobre Homologación Nacional de vehículos de las categorías M y N
 
-(Incluye: Homologación Nacional de Tipo, Homologación de Tipo Serie Corta Nacional y Homologación Individual)
+(Incluye: Serie Corta Nacional y Homologación Individual)
 
 Índice
 
@@ -14,23 +14,7 @@ Parte I: Definición según categorías de: Tipo, Variante y Versión.
 
 Parte II: Modelos de números de homologación.
 
-Apéndice 2: Homologación Nacional de tipo.
-
-Parte I: Campo de aplicación.
-
-Parte II: Ficha de características.
-
-Parte III: Modelos de fichas reducidas.
-
-A. Categoría M1 y N1 derivados de aquellos incompleto - completo/completado.
-
-B. Categoría N incompleto - completo/completado.
-
-C. Categoría M2 y M3 incompletos - completos/completados.
-
-Parte IV: Matriz de las diferentes combinaciones de: Tipo/Variante/Versión (TVV).
-
-Parte V: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
+Apéndice 2: Homologación Nacional de tipo. No procede
 
 Apéndice 3: Serie Corta Nacional.
 
@@ -38,9 +22,9 @@ Parte I: Campo de aplicación.
 
 Parte II: Ficha de características.
 
-Parte III: Modelos de fichas reducidas de características.
+Parte III: Modelo de ficha reducida de características.
 
-Parte IV: Matriz de las diferentes combinaciones de: Tipo/Variante/Versión (TVV).
+Parte IV: Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV).
 
 Parte V: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
 
@@ -48,14 +32,14 @@ Apéndice 4: Homologación Individual.
 
 Parte I: Campo de aplicación.
 
-Parte II: Modelo fichas reducidas.
+Parte II: Modelo de ficha reducida de características.
 
 Parte III: Lista de actos reglamentarios concedidos para el vehículo, sus partes y piezas.
 
 Apéndice 5: Lista de actos reglamentarios para la homologación de vehículos en series cortas nacionales y Homologación Individual.
 
-Parte I: Vehículos de las categorías M1 y N1 derivados de aquellos.
+Parte I: Vehículos de las categorías M1, M2, M3, N1, N2 y N3.
 
-Parte II: Vehículos de las categoría N.
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. Ref. BOE-A-2018-15796
 
-Parte III: Vehículos de las categorías M2 y M3.
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.

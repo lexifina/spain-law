@@ -1,127 +1,226 @@
 ## APÉNDICE 5
 
-## Lista de requisitos exigidos para la homologación nacional de tipo, series cortas nacionales y homologación Individual del vehículo, sus partes y piezas
+## Lista de requisitos exigidos para la homologación del vehículo, sus partes y sus piezas en
 
-## PARTE I
+## PARTE I:
 
-## Serie corta nacional y homologación individual de vehículos de las categorías T1, T2, T3, T5.1 y T5.2
+## Homologación nacional de tipo de vehículos de las categorías T4.1 y T4.2 (subcategorías a y b)
 
-| Asunto | Número de Directiva (*) | Serie corta nacional, Homologación individual (H) |
+| N.º | Acto Reglamentario (*) (H) | Homologación Nacional de Tipo (Aplicaciones Particulares) |
 | --- | --- | --- |
-| T1 | T2 | T3 | T5.1 | T5.2 |
-| Masa máxima en carga | 74/151/CEE I | C | C | C | C | C |
-| Situación de placas de matrícula | 74/151/CEE II | C | C | C | C | C |
-| Depósito de combustible líquido | 74/151/CEE III | A | A | A | A | A |
-| Masas de lastre | 74/151/CEE IV | C | C | C | C | C |
-| Avisador Acústico | 74/151/CEE V | X (2) B (4) | X (2) B (4) | X (2) B (4) | X (2) B (4) | X (2) B(4) |
-| Nivel sonoro tractor en marcha y dispositivo de escape | 74/151/CEE VI | A | A | A | A | A |
-| Velocidad máxima | 74/152/CEE, Anexo, Apartado 1 | C | C | C | C | C |
-| Plataforma de carga | 74/152/CEE, Anexo, Apartado 2 | C | C | C | C | C |
-| Retrovisores | 74/346/CEE | X (2) B (4) | X (2) B (4) | X (2) B (4) | X (2) B (4) | X (2) B (4) |
-| Campo de visión | 74/347/CEE | B | B | B | B | B |
-| Equipo de dirección | 75/321/CEE | A | A | A | C (7) | N/A |
-| 70/311/CEE | N/A | N/A | N/A | N/A | A |
-| Compatibilidad electromagnética | 75/322/CEE | A (1) | A (1) | A (1) | A (1) | A (1) |
-| C (3) | C (3) | C (3) | C (3) | C (3) |
-| Frenado | 76/432/CEE | A | A | A | C (8) | N/A |
-| 71/320/CEE | N/A | N/A | N/A | N/A | A |
-| Asiento adicional | 76/763/CEE | C | N/A | C | C | C |
-| Nivel sonoro en el oído del conductor | 77/311/CEE | A | A | A | A | A |
-| Protección contra el vuelco | 77/536/CEE | A | N/A | N/A | A (9) | A (9) |
-| Asiento conductor | 78/764/CEE | A | A | A | A | A |
-| Instalación de los dispositivos de alumbrado | 78/933/CEE | B (4) | B (4) | B (4) | B (4) | B (4) |
-| Homologación de los dispositivos de alumbrado y sus lámparas | 79/532/CE | X (2) | X (2) | X (2) | X (2) | X (2) |
-| Dispositivo de remolcado | 79/533/CEE | C | C | C | C | C |
-| Ensayo estático de la estructura | 79/622/CEE | A (9) | N/A | N/A | A (9) | A (9) |
-| Acceso conductor | 80/720/CEE | C | N/A | C | C | C |
-| Toma de fuerza y su protección | 86/297/CEE | B | B | B | B | B |
-| Dispositivos de protección en la parte trasera en tractores estrechos | 86/298/CEE | N/A | A (9) | N/A | N/A | N/A |
-| Identificación mandos | 86/415/CE | C | C | C | C | C |
-| Dispositivos de protección en la parte delantera en tractores estrechos | 87/402/CEE | N/A | A (9) | N/A | N/A | N/A |
-| Dimensiones y masas remolcadas | 89/173/CEE 1 | C | C | C | C | C |
-| Parabrisas y otros vidrios | 89/173/CEE III | X (2) B (4) | X (2) B (4) | X(2) B (4) | X (2) B (4) | N/A |
-| 92/22/CEE | N/A | N/A | N/A | N/A | X (2) B (4) |
-| Regulador de velocidad | 89/173/CEE II, 1 | C | C | C | C | C |
-| Protección de los elementos motores, las partes salientes y las ruedas | 89/173/CEE II, 2 | C | C | C | C | C |
-| Enganches mecánicos entre tractores y remolques y carga vertical sobre el punto de tracción | 89/173/CEE IV | X (2) B (4) | X (2) B (4) | X (2) B (4) | X (2) B (4) | X (2) B (4) |
-| Emplazamiento y forma de colocación de las placas e inscripciones reglamentarias en el tractor | 89/173/CEE V | C | C | C | C | C |
-| Mando de frenado de los vehículos remolcados y acoplamiento de freno entre el vehículo tractor y los vehículos remolcados | 89/173/CE VI | B | B | B | B | B |
-| Contaminación motores diesel | 2000/25/CE | A | A | A | A | A |
-| Neumáticos | Reglamento CEPE/ONU 106R00 | (C) RGV | C (RGV) | C (RGV) | C (RGV) | C (RGV) |
-| Anclajes de cinturones | 2005/67/CE | C | C | C | C (9) | N/A |
-| 76/115/CEE | N/A | N/A | N/A | N/A | A |
-| Cinturones de seguridad | 77/541/CEE | N/A | N/A | N/A | A | A |
-| Sistemas antiproyección | 91/226/CEE | N/A | N/A | N/A | A | A |
-| Limitación de velocidad | 92/24/CEE | N/A | N/A | N/A | N/A | X |
-| 92/6/CEE | N/A | N/A | N/A | N/A | A |
+| T4.1 | T4.2 |
+| 1 | Integridad de la estructura del vehículo | C | C |
+| 2 | Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad | A | A |
+| 3 | Dispositivos de frenado y acoplamiento de los frenos con remolques | A | A |
+| 4 | Mecanismo de dirección para tractores rápidos | (a) N/A (b) A | (a) N/A (b) A |
+| 5 | Mecanismo de dirección | (a) A (b) N/A | (a) A (b) N/A |
+| 6 | Indicador de velocidad | C | C |
+| 7 | Campo de visión y limpiaparabrisas | A | B |
+| 8 | Cristales | X (2) A (4) | X (2) A (4) |
+| 9 | Retrovisores | X (2) A (4) | X (2) A (4) |
+| 10 | Sistemas de información al conductor | C | C |
+| 11 | Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz | X (2) | X (2) |
+| 12 | Instalación de dispositivos de alumbrado | X (2) A (4) | X (2) A (4) |
+| 13 | Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo | C | C |
+| 14 | Exterior del vehículo y sus accesorios | C | C |
+| 15 | Compatibilidad electromagnética | A (1)(3)(6) | A (1)(3)(6) |
+| 16 | Aparato productor de señales acústicas | X (2) A (4) | X (2) A (4) |
+| 17 | Sistemas de calefacción | C | C |
+| 18 | Dispositivos de protección contra la utilización no autorizada | C | C |
+| 19 | Placa de matrícula | A | A |
+| 20 | Placa y marcado reglamentarios | A | A |
+| 21 | Dimensiones y masa remolcable | A | A |
+| 22 | Masa máxima en carga | A | A |
+| 23 | Masas de lastre | A | A |
+| 24 | Seguridad de los sistemas eléctricos | C | C |
+| 25 | Depósito de combustible | A | A |
+| 28 | Plataformas de carga | C | C |
+| 29 | Riesgos debidos a los dispositivos de remolque | A | A |
+| 30 | Neumáticos | X (2) A (4) | X (2) A (4) |
+| 31 | Sistemas anti proyección | (a) N/A (b) X (2) A (4) | (a) N/A (b) X (2) A (4) |
+| 32 | Marcha atrás | A | A |
+| 34c | Enganches mecánicos | X (2) A (4) | X (2) A (4) |
+| 35 | ROPS | N/A | A (9) |
+| 37 | ROPS Pruebas estáticas | N/A | A (9) |
+| 38 | ROPS, montados delante (tractores de vía estrecha) | N/A | N/A |
+| 39 | ROPS, montado en la parte trasera (tractores de vía estrecha) | N/A | N/A |
+| 40 | FOPS, estructuras de protección contra la caída de objetos | A (9) | A (9) |
+| 41 | Asientos de pasajeros | A | A |
+| 42 | Exposición del conductor al nivel de ruido | A | A |
+| 43 | Asiento del conductor | A | A |
+| 44 | Campo de maniobra y acceso al puesto del conductor | A | A |
+| 45 | Tomas de fuerza | A | A |
+| 46 | Protección de los elementos motores | A | A |
+| 47 | Anclajes de los cinturones de seguridad | A (9) | A (9) |
+| 48 | Cinturones de seguridad | C | C |
+| 49 | OPS, estructuras contra la penetración de objetos | C | C |
+| 50 | Sistema de escape | A | A |
+| 51 | Manual de utilización | C | C |
+| 52 | Controles, incluyendo en particular dispositivos de emergencia y parada automática | A | A |
+| 53 | Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo | C | C |
+| 54 | Resguardos y dispositivos de protección | C | C |
+| 55 | Información, señales de advertencia y marcas | C | C |
+| 56 | Materiales y productos | C | C |
+| 57 | Baterías | C | C |
+| 58 | Salida de emergencia | C | C |
+| 59 | Sistema de ventilación y filtrado de la cabina | C | C |
+| 60 | Índice de combustión del material de la cabina | C | C |
+| 61 | Emisiones contaminantes | A | A |
+| 62 | Nivel sonoro (externo) | A | A |
 
-## PARTE II
+## PARTE II:
 
-## Homologación nacional de tipo de vehículos de las categorías T5.1 y T5.2
+## Serie corta nacional de vehículos de las categorías T1, T2, T3, T4.1, T4.2 y T4.3 (subcategorías a y b)
 
-| Asunto | Número de Directiva (*) | Homologación nacional de tipo (H) |
+| N.º | Acto Reglamentario (*) (H) | Serie Corta Nacional |
 | --- | --- | --- |
-| T5.1 | T5.2 |
-| Masa máxima en carga | 74/151/CEE I | X | X |
-| Situación de placas de matrícula | 74/151/CEE II | X | X |
-| Depósito de combustible líquido | 74/151/CEE III | X | X |
-| Masas de lastre | 74/151/CEE IV | C | C |
-| Avisador Acústico | 74/151/CEE V | X (2) B (4) | X (2) B (4) |
-| Nivel sonoro tractor en marcha y dispositivo de escape | 74/151/CEE VI | A | A |
-| Velocidad máxima | 74/152/CEE, Anexo, Apartado 1 | C | C |
-| Plataforma de carga | 74/152/CEE, Anexo, Apartado 2 | C | C |
-| Retrovisores | 74/346/CEE | X (2) B (4) | X (2) B (4) |
-| Campo de visión | 74/347/CEE | B | B |
-| Equipo de dirección | 75/321/CEE | C (7) | N/A |
-| 70/311/CEE | N/A | X |
-| Compatibilidad electromagnética | 75/322/CEE | X | X |
-| Frenado | 76/432/CEE | C (8) | N/A |
-| 71/320/CEE | N/A | X |
-| Asiento adicional | 76/763/CEE | C | C |
-| Nivel sonoro en el oído del conductor | 77/311/CEE | A | A |
-| Protección contra el vuelco | 77/536/CEE | A (9) | A (9) |
-| Asiento conductor | 78/764/CEE | A | A |
-| Instalación de los dispositivos de alumbrado | 78/933/CEE | A | A |
-| Homologación de los dispositivos de alumbrado y sus lámparas | 79/532/CE | X | X |
-| Dispositivo de remolcado | 79/533/CEE | C | C |
-| Ensayo estático de la estructura | 79/622/CEE | A (9) | A (9) |
-| Acceso conductor | 80/720/CEE | C | C |
-| Toma de fuerza y su protección | 86/297/CEE | B | B |
-| Identificación mandos | 86/415/CEE | C | C |
-| Dimensiones y masas remolcadas | 89/173/CEE I | C | C |
-| Parabrisas y otros vidrios | 89/173/CEE III | X (2) B (4) | N/A |
-| 92/22/CEE | N/A | X (2) B (4) |
-| Regulador de velocidad | 89/173/CEE II, 1 | C | C |
-| Protección de los elementos motores, las partes salientes y las ruedas | 89/173/CEE II, 2 | C | C |
-| Enganches mecánicos entre tractores y remolques y carga vertical sobre el punto de tracción | 89/173/CEE IV | X (2) B (4) | X (2) B (4) |
-| Emplazamiento y forma de colocación de las placas e inscripciones reglamentarias en el tractor | 89/173/CEE V | C | C |
-| Mando de frenado de los vehículos remolcados y acoplamiento de freno entre el vehículo tractor y los vehículos remolcados | 89/173/CE VI | B | B |
-| Contaminación motores diesel | 2000/25/CE | X | X |
-| Neumáticos | Reglamento CEPE/ONU 106R00 | RGV | RGV |
-| Anclajes de cinturones | 2005/67/CE | A (9) | N/A |
-|  | 76/115/CEE | N/A | A |
-| Cinturones de seguridad | 77/541/CEE | A | A |
-| Sistemas antiproyección | 91/226/CEE | A | A |
-| Limitación de velocidad | 92/24/CEE | N/A | X |
-| 92/6/CEE | N/A | A |
+| T1 | T2 | T3 | T4.1 | T4.2 | T4.3 |
+| 1 | Integridad de la estructura del vehículo | C | C | C | C | C | C |
+| 2 | Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad | A | A | A | A | A | A |
+| 3 | Dispositivos de frenado y acoplamiento de los frenos con remolques | A | A | A | A | A | A |
+| 4 | Mecanismo de dirección para tractores rápidos | (a) N/A (b) A | (a) N/A (b) A | (a) N/A (b) A | (a) N/A (b) A | (a) N/A (b) A | (a) N/A (b) A |
+| 5 | Mecanismo de dirección | (a) A (b) N/A | (a) A (b) N/A | (a) A (b) N/A | (a) A (b) N/A | (a) A (b) N/A | (a) A (b) N/A |
+| 6 | Indicador de velocidad | A | A | A | A | A | A |
+| 7 | Campo de visión y limpiaparabrisas | A | A | A | A | A | A |
+| 8 | Cristales | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) |
+| 9 | Retrovisores | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) |
+| 10 | Sistemas de información al conductor | C | C | C | C | C | C |
+| 11 | Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz | X (2) | X (2) | X (2) | X (2) | X (2) | X (2) |
+| 12 | Instalación de dispositivos de alumbrado | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) |
+| 13 | Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo | A | A | A | A | A | A |
+| 14 | Exterior del vehículo y sus accesorios | A | A | A | A | A | A |
+| 15 | Compatibilidad electromagnética | A (1)(3)(6) | A (1)(3)(6) | A (1)(3)(6) | A (1)(3)(6) | A (1)(3)(6) | A (1)(3)(6) |
+| 16 | Aparato productor de señales acústicas | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) |
+| 17 | Sistemas de calefacción | B (8) | B (8) | B (8) | B (8) | B (8) | B (8) |
+| 18 | Dispositivos de la protección contra utilización no autorizada | A | A | A | A | A | A |
+| 19 | Placa de matrícula | A | A | A | A | A | A |
+| 20 | Placa y marcado reglamentarios | A | A | A | A | A | A |
+| 21 | Dimensiones y masa remolcable | A | A | A | A | A | A |
+| 22 | Masa máxima en carga | A | A | A | A | A | A |
+| 23 | Masas de lastre | A | A | A | A | A | A |
+| 24 | Seguridad de los sistemas eléctricos | A | A | A | A | A | A |
+| 25 | Depósito de combustible | A | A | A | A | A | A |
+| 28 | Plataformas de carga | C | C | C | C | C | C |
+| 29 | Riesgos debidos a los dispositivos de remolque | A | A | A | A | A | A |
+| 30 | Neumáticos | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) |
+| 31 | Sistemas antiproyección | (a) N/A (b) X (2) A (4) | (a) N/A (b) X (2) A (4) | (a) N/A (b) X (2) A (4) | (a) N/A (b) X (2) A (4) | (a) N/A (b) X (2) A (4) | (a) N/A (b) X (2) A (4) |
+| 32 | Marcha atrás | A | A | A | A | A | A |
+| 34c | Enganches mecánicos | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) |
+| 35 | ROPS | A (9) | N/A | N/A | N/A | A (9) | A (9) |
+| 37 | ROPS Pruebas estáticas | A (9) | N/A | N/A | N/A | A (9) | A (9) |
+| 38 | ROPS, montados delante (tractores de vía estrecha) | N/A | A (9) | A (9) | N/A | N/A | A (9) |
+| 39 | ROPS, montado en la parte trasera (tractores de vía estrecha) | N/A | A (9) | A (9) | N/A | N/A | A (9) |
+| 40 | FOPS, estructuras de protección contra la caída de objetos | A (9) | A (9) | A (9) | A (9) | A (9) | A (9) |
+| 41 | Asientos de pasajeros | A | N/A | A | A | A | A |
+| 42 | Exposición del conductor al nivel de ruido | A | A | A | A | A | A |
+| 43 | Asiento del conductor | A | A | A | A | A | A |
+| 44 | Campo de maniobra y acceso al puesto del conductor | A | A | A | A | A | A |
+| 45 | Tomas de fuerza | A | A | A | A | A | A |
+| 46 | Protección de los elementos motores, | A | A | A | A | A | A |
+| 47 | Anclajes de los cinturones de seguridad | A (9) | A (9) | A (9) | A (9) | A (9) | A (9) |
+| 48 | Cinturones de seguridad | A (9) | A (9) | A (9) | A (9) | A (9) | A (9) |
+| 49 | OPS, estructuras contra la penetración de objetos | A (9) | A (9) | A (9) | A (9) | A (9) | A (9) |
+| 50 | Sistema de escape | A | A | A | A | A | A |
+| 51 | Manual de utilización | C | C | C | C | C | C |
+| 52 | Controles, incluyendo en particular dispositivos de emergencia y parada automática | A | A | A | A | A | A |
+| 53 | Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo | A | A | A | A | A | A |
+| 54 | Resguardos y dispositivos de protección | A | A | A | A | A | A |
+| 55 | Información, señales de advertencia y marcas | A | A | A | A | A | A |
+| 56 | Materiales y productos | A | A | A | A | A | A |
+| 57 | Baterías | A | A | A | A | A | A |
+| 58 | Salida de emergencia | A | A | A | A | A | A |
+| 59 | Sistema de ventilación y filtrado de la cabina | A | A | A | A | A | A |
+| 60 | Índice de combustión del material de la cabina | A | A | A | A | A | A |
+| 61 | Emisiones contaminantes | A | A | A | A | A | A |
+| 62 | Nivel sonoro (externo) | A | A | A | A | A | A |
+
+## PARTE III:
+
+## Homologación individual de vehículos de las categorías T1, T2, T3, T4.1, T4.2 y T4.3 (subcategorías a y b)
+
+| N.º | Acto Reglamentario (*) (H) | Homologación individual |
+| --- | --- | --- |
+| T1 | T2 | T3 | T4.1 | T4.2 | T4.3 |
+| 1 | Integridad de la estructura del vehículo | C | C | C | C | C | C |
+| 2 | Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad | B | B | B | B | B | B |
+| 3 | Dispositivos de frenado y acoplamiento de los frenos con remolques | B | B | B | B | B | B |
+| 4 | Mecanismo de dirección para tractores rápidos | (a) N/A (b) B | (a) N/A (b) B | (a) N/A (b) B | (a) N/A (b) B | (a) N/A (b) B | (a) N/A (b) B |
+| 5 | Mecanismo de dirección | (a) B (b) N/A | (a) B (b) N/A | (a) B (b) N/A | (a) B (b) N/A | (a) B (b) N/A | (a) B (b) N/A |
+| 6 | Indicador de velocidad | C | C | C | C | C | C |
+| 7 | Campo de visión y limpiaparabrisas | B | B | B | B | B | B |
+| 8 | Cristales | B (4) | B (4) | B (4) | B (4) | B (4) | B (4) |
+| 9 | Retrovisores | B (4) | B (4) | B (4) | B (4) | B (4) | B (4) |
+| 10 | Sistemas de información al conductor | C | C | C | C | C | C |
+| 11 | Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz | B (6) | B (6) | B (6) | B (6) | B (6) | B (6) |
+| 12 | Instalación de dispositivos de alumbrado | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) |
+| 13 | Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo | C | C | C | C | C | C |
+| 14 | Exterior del vehículo y sus accesorios | C | C | C | C | C | C |
+| 15 | Compatibilidad electromagnética | B (1) (6) | B (1) (6) | B (1) (6) | B (1) (6) | B (1) (6) | B (1) (6) |
+| 16 | Aparato productor de señales acústicas | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) |
+| 17 | Sistemas de calefacción | C | C | C | C | C | C |
+| N.º | Acto Reglamentario (*) (H) | Homologación individual |
+| T1 | T2 | T3 | T4.1 | T4.2 | T4.3 |
+| 18 | Dispositivos de protección contra la utilización no autorizada | C | C | C | C | C | C |
+| 19 | Placa de matrícula | B | B | B | B | B | B |
+| 20 | Placa y marcado reglamentarios | C | C | C | C | C | C |
+| 21 | Dimensiones y masa remolcable | B | B | B | B | B | B |
+| 22 | Masa máxima en carga | B | B | B | B | B | B |
+| 23 | Masas de lastre | B | B | B | B | B | B |
+| 24 | Seguridad de los sistemas eléctricos | C | C | C | C | C | C |
+| 25 | Depósito de combustible | B | B | B | B | B | B |
+| 28 | Plataformas de carga | C | C | C | C | C | C |
+| 29 | Riesgos debidos a los dispositivos de remolque | B | B | B | B | B | B |
+| 30 | Neumáticos | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) |
+| 31 | Sistemas antiproyección | (a) N/A (b) B (4) (6) | (a) N/A (b) B (4) (6) | (a) N/A (b) B (4) (6) | (a) N/A (b) B (4) (6) | (a) N/A (b) B (4) (6) | (a) N/A (b) B (4) (6) |
+| 32 | Marcha atrás | B | B | B | B | B | B |
+| 34c | Enganches mecánicos | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) |
+| 35 | ROPS | C (9) | N/A | N/A | N/A | C (9) | C (9) |
+| 37 | ROPS Pruebas estáticas | C (9) | N/A | N/A | N/A | C (9) | C (9) |
+| 38 | ROPS, montados delante (tractores de vía estrecha) | N/A | C (9) | C (9) | N/A | N/A | C (9) |
+| 39 | ROPS, montado en la parte trasera (tractores de vía estrecha) | N/A | C (9) | C (9) | N/A | N/A | C (9) |
+| 40 | FOPS, estructuras de protección contra la caída de objetos | C (9) | C (9) | C (9) | C (9) | C (9) | C (9) |
+| 41 | Asientos de pasajeros | C | N/A | C | C | C | C |
+| 42 | Exposición del conductor al nivel de ruido | B | B | B | B | B | B |
+| 43 | Asiento del conductor | C | C | C | C | C | C |
+| N.º | Acto Reglamentario (*) (H) | Homologación individual |
+| T1 | T2 | T3 | T4.1 | T4.2 | T4.3 |
+| 44 | Campo de maniobra y acceso al puesto del conductor | B | B | B | B | B | B |
+| 45 | Tomas de fuerza | B | B | B | B | B | B |
+| 46 | Protección de los elementos motores, | B | B | B | B | B | B |
+| 47 | Anclajes de los cinturones de seguridad | C (9) | C (9) | C (9) | C (9) | C (9) | C (9) |
+| 48 | Cinturones de seguridad | C | C | C | C | C | C |
+| 49 | OPS, estructuras contra la penetración de objetos | C | C | C | C | C | C |
+| 50 | Sistema de escape | B | B | B | B | B | B |
+| 51 | Manual de utilización | C | C | C | C | C | C |
+| 52 | Controles, incluyendo en particular dispositivos de emergencia y parada automática | B | B | B | B | B | B |
+| 53 | Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo | C | C | C | C | C | C |
+| 54 | Resguardos y dispositivos de protección | C | C | C | C | C | C |
+| 55 | Información, señales de advertencia y marcas | C | C | C | C | C | C |
+| 56 | Materiales y productos | C | C | C | C | C | C |
+| 57 | Baterías | C | C | C | C | C | C |
+| 58 | Salida de emergencia | C | C | C | C | C | C |
+| 59 | Sistema de ventilación y filtrado de la cabina | C | C | C | C | C | C |
+| 60 | Índice de combustión del material de la cabina | C | C | C | C | C | C |
+| 61 | Emisiones contaminantes | B | B | B | B | B | B |
+| 62 | Nivel sonoro (externo) | B | B | B | B | B | B |
 
 Leyenda:
 
-X: Se requiere el cumplimiento pleno del acto reglamentario se debe expedir el certificado de homologación de tipo CE.
+X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo UE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.
 
-A: No se permite ninguna exención, excepto las especificadas en el acto reglamentario. No se requieren el certificado de homologación ni la marca de homologación. Un servicio técnico notificado deberá establecer actas de ensayo.
+A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.
 
-B: Se deben cumplir las prescripciones técnicas del acto reglamentario. Los ensayos establecidos en el acto reglamentario deberán realizarse en su totalidad; previo acuerdo del organismo competente en materia de homologación, los podrá realizar el propio fabricante; también puede recibir autorización para expedir el informe técnico; no es necesario expedir un certificado de homologación de tipo.
+B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.
 
-C: El fabricante debe demostrar de manera satisfactoria para la autoridad de homologación que se cumplen los requisitos generales del acto reglamentario.
+C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.
 
-H: Podrá aceptarse como alternativa y previa autorización del centro directivo de Ministerio de Industria, Turismo y Comercio competente en materia de seguridad industrial, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación que se menciona en las columnas 1 y 4 del Real Decreto 2028/1986, de 6 de junio.
+H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción
 
-N/A: Este acto normativo no es aplicable (ningún requisito).
+N/A: Este acto normativo no es aplicable (ningún requisito)
 
 RGV: Reglamento general de vehículos
 
-(*) En cualquier caso se cumplirá con las últimas modificaciones en vigor de las referencias normativas.
+(*) La aplicación de los requisitos aplicables a estas categorías viene recogida en la última actualización de los Anexos I y II del RD 2028/1986.
 
 (1) Subconjunto electrónico.
 
@@ -131,24 +230,254 @@ RGV: Reglamento general de vehículos
 
 (4) Prescripciones de instalación
 
-(5) En el caso de vehículos singulares de los que solo se fabrique una unidad, la autoridad de homologación podrá eximir de alguno de los actos reglamentarios exigidos a condición de que el fabricante pueda demostrar de manera satisfactoria que se cumplen los requisitos reglamentarios aplicables.
-
-(6) Todas los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes, deberán disponer de su homologación CEPE/ONU o equivalente.
-
-(7) Se deben cumplir además las prescripciones técnicas del anexo 1 de la Directiva 70/311/CEE en cuanto a los ensayos del sistema de dirección. Se aceptará como alternativa en la medición de la fuerza sobre el mando de dirección en los vehículos cuyo mecanismo de dirección falle un esfuerzo máximo de 60 daN, una duración máxima de 6 segundos y una posición del mando de dirección equivalente a un radio de giro de 12 metros.
-
-(8) Se deben cumplir además las prescripciones técnicas del anexo II de la Directiva 71/320/CEE en cuanto a los ensayos de frenado y el rendimiento de los sistemas de frenado. Los ensayos establecidos en la directiva deberán realizarse en su totalidad; previo acuerdo del organismo competente en materia de homologación, los podrá realizar el propio fabricante; también puede recibir autorización para expedir el informe técnico.
+(6) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes deberán disponer de su homologación CEPE/ONU o equivalente.
 
 (9) Las actas de los ensayos (cumplimentadas) de acuerdo con los códigos de la OCDE que se facilitan a continuación podrán utilizarse como alternativa a los informes de ensayos redactados de conformidad con las directivas específicas correspondientes.
 
-| Dispositivos de protección en la parte delantera en tractores estrechos | 87/402/CEE | Ensayos oficiales de estructuras de protección montadas en la parte delantera de tractores agrícolas o forestales de ruedas, vía estrecha | Código 6 de la OCDE |
+| Aplicable a | Alternativa al acta de ensayo de la UE basada en los siguientes anexos del R (UE) 1322/2014 | Asunto | Código OCDE |
 | --- | --- | --- | --- |
-| Anclajes de cinturones | 76/115/CEE |
-| Dispositivos de protección en la parte trasera en tractores estrechos | 86/298/CEE | Ensayos oficiales de estructuras de protección montadas en la parte trasera de tractores agrícolas o forestales de ruedas, vía estrecha | Código 7 de la OCDE |
-| Anclajes de cinturones | 76/115/CEE |
-| Protección contra el vuelco | 77/536/CEE | Ensayos oficiales de estructuras de protección de tractores agrícolas o forestales (ensayo dinámico) | Código 3 de la OCDE |
-| Anclajes de cinturones | 76/115/CE |
-| Ensayo estático de la estructura | 79/622/CEE | Ensayos oficiales de estructuras de protección de tractores agrícolas o forestales (ensayo estático) | Código 4 de la OCDE |
-| Anclajes de cinturones | 76/115/CE |
+| T1 T4.2 T4.3 | Anexo VI y Anexo XVIII (si los anclajes de los cinturones de eguridad han sido objeto de ensayo) | Ensayos oficiales de estructuras de protección de tractores agrícolas o forestales (ensayo dinámico) | Código 3 |
+| T1 T4.2 T4.3 | Anexo VIII y Anexo XVIII (si los anclajes de los cinturones de seguridad han sido objeto de ensayo) | Ensayos oficiales de estructuras de protección de tractores agrícolas o forestales (ensayo estático) | Código 4 |
+| T | Anexo XIII | Medición oficial del ruido en los puestos del conductor de los tractores agrícolas y forestales | Código 5 |
+| T2 T3 T4.3 | Anexo IX y Anexo XVIII (si los anclajes de los cinturones de eguridad han sido objeto de ensayo) | Ensayos oficiales de estructuras de protección montadas en la parte delantera de tractores agrícolas o forestales de ruedas, vía estrecha | Código 6 |
+| T2 T3 T4.3 | Anexo X y Anexo XVIII (si los anclajes de los cinturones de seguridad han sido objeto de ensayo) | Ensayos oficiales de estructuras de protección montadas en la parte trasera de tractores agrícolas o forestales de ruedas, vía estrecha | Código 7 |
+| T | Anexo XI, parte C | Ensayos oficiales de las estructuras de protección contra la caída de objetos de los tractores agrícolas y forestales | Código 10 |
 
-Se reconoce la equivalencia del acta del ensayo de acuerdo con los códigos de la OCDE (Códigos 3 y 4) en lo relativo a los anclajes de los cinturones de seguridad para los vehículos de la categoría T51 si éstos han sido objeto de ensayo.
+(a) Vehículos que por construcción no pueden desarrollar una velocidad una velocidad superior a 40 km/h.
+
+(b) Vehículos que por construcción pueden desarrollar una velocidad una velocidad superior a 40 km/h.
+
+## PARTE IV:
+
+## Homologación nacional de tipo de vehículos de las categorías C1, C2, C3, C4.1, C4.2 y C4.3 (subcategorías a y b)
+
+| N.º | Acto Reglamentario (*) (H) | Homologación Nacional de Tipo |
+| --- | --- | --- |
+| C1 | C2 | C3 | C4.1 | C4.2 | C4.3 |
+| 1 | Integridad de la estructura del vehículo | C | C | C | C | C | C |
+| 2 | Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad | A | A | A | A | A | A |
+| 3 | Dispositivos de frenado y acoplamiento de los frenos con remolques | A | A | A | A | A | A |
+| 4 | Mecanismo de dirección para tractores rápidos | (a) N/A (b) A | (a) N/A (b) A | (a) N/A (b) A | (a) N/A (b) A | (a) N/A (b) A | (a) N/A (b) A |
+| 5 | Mecanismo de dirección | (a) A (b) N/A | (a) A (b) N/A | (a) A (b) N/A | (a) A (b) N/A | (a) A (b) N/A | (a) A (b) N/A |
+| 6 | Indicador de velocidad | C | C | C | C | C | C |
+| 7 | Campo de visión y limpiaparabrisas | A | A | A | A | A | A |
+| 8 | Cristales | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) |
+| 9 | Retrovisores | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) |
+| 10 | Sistemas de información al conductor | Opcional | Opcional | Opcional | Opcional | Opcional | Opcional |
+| 11 | Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz | X (2) | X (2) | X (2) | X (2) | X (2) | X (2) |
+| 12 | Instalación de dispositivos de alumbrado | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) |
+| 13 | Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo | C | C | C | C | C | C |
+| 14 | Exterior del vehículo y sus accesorios | C | C | C | C | C | C |
+| 15 | Compatibilidad electromagnética | A (1) (3) (6) | A (1) (3) (6) | A (1) (3) (6) | A (1) (3) (6) | A (1) (3) (6) | A (1) (3) (6) |
+| 16 | Aparato productor de señales acústicas | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) |
+| 17 | Sistemas de calefacción | C | C | C | C | C | C |
+| 18 | Dispositivos de protección contra la utilización no autorizada | C | C | C | C | C | C |
+| 19 | Placa de matrícula | A | A | A | A | A | A |
+| 20 | Placa y marcado reglamentarios | A | A | A | A | A | A |
+| 21 | Dimensiones y masa remolcable | A | A | A | A | A | A |
+| 22 | Masa máxima en carga | A | A | A | A | A | A |
+| 23 | Masas de lastre | A | A | A | A | A | A |
+| 24 | Seguridad de los sistemas eléctricos | C | C | C | C | C | C |
+| 25 | Depósito de combustible | A | A | A | A | A | A |
+| 28 | Plataformas de carga | C | C | C | C | C | C |
+| 29 | Riesgos debidos a los dispositivos de remolque | A | A | A | A | A | A |
+| 32 | Marcha atrás | C | C | C | C | C | C |
+| 33 | Orugas | A | A | A | A | A | A |
+| 34c | Enganches mecánicos | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) |
+| 36 | ROPS (tractores de orugas) | A (9) | A (9) | A (9) | A (9) | A (9) | A (9) |
+| 37 | ROPS Pruebas estáticas | A (9) | A (9) | A (9) | A (9) | A (9) | A (9) |
+| 40 | FOPS, estructuras de protección contra la caída de objetos | A (9) | A (9) | A (9) | A (9) | A (9) | A (9) |
+| 41 | Asientos de pasajeros | A | N/A | A | A | A | A |
+| 42 | Exposición del conductor al nivel de ruido | A | A | A | A | A | A |
+| 43 | Asiento del conductor | A | A | A | A | A | A |
+| 44 | Campo de maniobra y acceso al puesto del conductor | A | A | A | A | A | A |
+| 45 | Tomas de fuerza | A | A | A | A | A | A |
+| 46 | Protección de los elementos motores, | A | A | A | A | A | A |
+| 47 | Anclajes de los cinturones de seguridad | A (9) | A (9) | A (9) | A (9) | A (9) | A (9) |
+| 48 | Cinturones de seguridad | C | C | C | C | C | C |
+| 49 | OPS, estructuras contra la penetración de objetos | C | C | C | C | C | C |
+| 50 | Sistema de escape | A | A | A | A | A | A |
+| 51 | Manual de utilización | C | C | C | C | C | C |
+| 52 | Controles, incluyendo en particular dispositivos de emergencia y parada automática | A | A | A | A | A | A |
+| 53 | Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo | C | C | C | C | C | C |
+| 54 | Resguardos y dispositivos de protección | C | C | C | C | C | C |
+| 55 | Información, señales de advertencia y marcas | C | C | C | C | C | C |
+| 56 | Materiales y productos | C | C | C | C | C | C |
+| 57 | Baterías | C | C | C | C | C | C |
+| 58 | Salida de emergencia | C | C | C | C | C | C |
+| 59 | Sistema de ventilación y filtrado de la cabina | C | C | C | C | C | C |
+| 60 | Índice de combustión del material de la cabina | C | C | C | C | C | C |
+| 61 | Emisiones contaminantes | A | A | A | A | A | A |
+| 62 | Nivel sonoro (externo) | A | A | A | A | A | A |
+
+## PARTE V:
+
+## Serie corta nacional de vehículos de las categorías C1, C2, C3, C4.1, C4.2 y C4.3 (subcategorías a y b)
+
+| N.º | Acto Reglamentario (*) (H) | Serie Corta Nacional |
+| --- | --- | --- |
+| C1 | C2 | C3 | C4.1 | C4.2 | C4.3 |
+| 1 | Integridad de la estructura del vehículo | C | C | C | C | C | C |
+| 2 | Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad | A | A | A | A | A | A |
+| 3 | Dispositivos de frenado y acoplamiento de los frenos con remolques | A | A | A | A | A | A |
+| 4 | Mecanismo de dirección para tractores rápidos | (a) N/A (b) A | (a) N/A (b) A | (a) N/A (b) A | (a) N/A (b) A | (a) N/A (b) A | (a) N/A (b) A |
+| 5 | Mecanismo de dirección | (a) A (b) N/A | (a) A (b) N/A | (a) A (b) N/A | (a) A (b) N/A | (a) A (b) N/A | (a) A (b) N/A |
+| 6 | Indicador de velocidad | A | A | A | A | A | A |
+| 7 | Campo de visión y limpiaparabrisas | A | A | A | A | A | A |
+| 8 | Cristales | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) |
+| 9 | Retrovisores | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) |
+| 10 | Sistemas de información al conductor | C | C | C | C | C | C |
+| 11 | Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz | X (2) | X (2) | X (2) | X (2) | X (2) | X (2) |
+| 12 | Instalación de dispositivos de alumbrado | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) |
+| 13 | Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo | A | A | A | A | A | A |
+| 14 | Exterior del vehículo y sus accesorios | A | A | A | A | A | A |
+| 15 | Compatibilidad electromagnética | A (1) (3) (6) | A (1) (3) (6) | A (1) (3) (6) | A (1) (3) (6) | A (1) (3) (6) | A (1) (3) (6) |
+| 16 | Aparato productor de señales acústicas | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) |
+| 17 | Sistemas de calefacción | B (8) | B (8) | B (8) | B (8) | B (8) | B (8) |
+| 18 | Dispositivos de protección contra la utilización no autorizada | A | A | A | A | A | A |
+| 19 | Placa de matrícula | A | A | A | A | A | A |
+| 20 | Placa y marcado reglamentarios | A | A | A | A | A | A |
+| 21 | Dimensiones y masa remolcable | A | A | A | A | A | A |
+| 22 | Masa máxima en carga | A | A | A | A | A | A |
+| 23 | Masas de lastre | A | A | A | A | A | A |
+| 24 | Seguridad de los sistemas eléctricos | A | A | A | A | A | A |
+| 25 | Depósito de combustible | A | A | A | A | A | A |
+| 28 | Plataformas de carga | C | C | C | C | C | C |
+| 29 | Riesgos debidos a los dispositivos de remolque | A | A | A | A | A | A |
+| 32 | Marcha atrás | A | A | A | A | A | A |
+| 33 | Orugas | A | A | A | A | A | A |
+| 34c | Enganches mecánicos | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) | X (2) A (4) |
+| 36 | ROPS (tractores de orugas) | A (9) | A (9) | A (9) | A (9) | A (9) | A (9) |
+| 37 | ROPS Pruebas estáticas | A (9) | A (9) | A (9) | A (9) | A (9) | A (9) |
+| 40 | FOPS, estructuras de protección contra la caída de objetos | A (9) | A (9) | A (9) | A (9) | A (9) | A (9) |
+| 41 | Asientos de pasajeros | A | N/A | A | A | A | A |
+| 42 | Exposición del conductor al nivel de ruido | A | A | A | A | A | A |
+| 43 | Asiento del conductor | A | A | A | A | A | A |
+| 44 | Campo de maniobra y acceso al puesto del conductor | A | A | A | A | A | A |
+| 45 | Tomas de fuerza | A | A | A | A | A | A |
+| 46 | Protección de los elementos motores, | A | A | A | A | A | A |
+| 47 | Anclajes de los cinturones de seguridad | A (9) | A (9) | A (9) | A (9) | A (9) | A (9) |
+| 48 | Cinturones de seguridad | A (9) | A (9) | A (9) | A (9) | A (9) | A (9) |
+| 49 | OPS, estructuras contra la penetración de objetos | A (9) | A (9) | A (9) | A (9) | A (9) | A (9) |
+| 50 | Sistema de escape | A | A | A | A | A | A |
+| 51 | Manual de utilización | C | C | C | C | C | C |
+| 52 | Controles, incluyendo en particular dispositivos de emergencia y parada automática | A | A | A | A | A | A |
+| 53 | Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo | A | A | A | A | A | A |
+| 54 | Resguardos y dispositivos de protección | A | A | A | A | A | A |
+| 55 | Información, señales de advertencia y marcas | A | A | A | A | A | A |
+| 56 | Materiales y productos | A | A | A | A | A | A |
+| 57 | Baterías | A | A | A | A | A | A |
+| 58 | Salida de emergencia | A | A | A | A | A | A |
+| 59 | Sistema de ventilación y filtrado de la cabina | A | A | A | A | A | A |
+| 60 | Índice de combustión del material de la cabina | A | A | A | A | A | A |
+| 61 | Emisiones contaminantes | A | A | A | A | A | A |
+| 62 | Nivel sonoro (externo) | A | A | A | A | A | A |
+
+## PARTE VI:
+
+## Homologación individual de vehículos de las categorías C1, C2, C3, C4.1, C4.2 y C4.3 (subcategorías a y b)
+
+| N.º | Acto Reglamentario (*) (H) | Homologación Individual |
+| --- | --- | --- |
+| C1 | C2 | C3 | C4.1 | C4.2 | C4.3 |
+| 1 | Integridad de la estructura del vehículo | C | C | C | C | C | C |
+| 2 | Velocidad máxima de fábrica, regulador de velocidad y dispositivos de limitación de velocidad | B | B | B | B | B | B |
+| 3 | Dispositivos de frenado y acoplamiento de los frenos con remolques | B | B | B | B | B | B |
+| 4 | Mecanismo de dirección para tractores rápidos | (a) N/A (b) B | (a) N/A (b) B | (a) N/A (b) B | (a) N/A (b) B | (a) N/A (b) B | (a) N/A (b) B |
+| 5 | Mecanismo de dirección | (a) B (b) N/A | (a) B (b) N/A | (a) B (b) N/A | (a) B (b) N/A | (a) B (b) N/A | (a) B (b) N/A |
+| 6 | Indicador de velocidad | C | C | C | C | C | C |
+| 7 | Campo de visión y limpiaparabrisas | B | B | B | B | B | B |
+| 8 | Cristales | B (4) | B (4) | B (4) | B (4) | B (4) | B (4) |
+| 9 | Retrovisores | B (4) | B (4) | (a) N/A (b) B (4) | B (4) | B (4) | B (4) |
+| 10 | Sistemas de información al conductor | C | C | C | C | C | C |
+| 11 | Dispositivos de alumbrado y señalización luminosa y sus fuentes de luz | B (6) | B (6) | B (6) | B (6) | B (6) | B (6) |
+| 12 | Instalación de dispositivos de alumbrado | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) |
+| 13 | Sistemas de protección de los ocupantes del vehículo incluido el acondicionamiento interior, los reposacabezas, los cinturones de seguridad y las puertas del vehículo | C | C | C | C | C | C |
+| 14 | Exterior del vehículo y sus accesorios | C | C | C | C | C | C |
+| 15 | Compatibilidad electromagnética | B (1) (6) | B (1) (6) | B (1) (6) | B (1) (6) | B (1) (6) | B (1) (6) |
+| 16 | Aparato productor de señales acústicas | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) |
+| 17 | Sistemas de calefacción | C | C | C | C | C | C |
+| 18 | Dispositivos de protección contra la utilización no autorizada | C | C | C | C | C | C |
+| 19 | Placa de matrícula | B | B | B | B | B | B |
+| 20 | Placa y marcado reglamentarios | C | C | C | C | C | C |
+| 21 | Dimensiones y masa remolcable | B | B | B | B | B | B |
+| 22 | Masa máxima en carga | B | B | B | B | B | B |
+| 23 | Masas de lastre | B | B | B | B | B | B |
+| 24 | Seguridad de los sistemas eléctricos | C | C | C | C | C | C |
+| 25 | Depósito de combustible | B | B | B | B | B | B |
+| 28 | Plataformas de carga | C | C | C | C | C | C |
+| 29 | Riesgos debidos a los dispositivos de remolque | B | B | B | B | B | B |
+| 32 | Marcha atrás | C | C | C | C | C | C |
+| 33 | Orugas | A | A | A | A | A | A |
+| 34c | Enganches mecánicos | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) | B (4) (6) |
+| 36 | ROPS (tractores de orugas) | C (9) | C (9) | C (9) | C (9) | C (9) | C (9) |
+| 37 | ROPS Pruebas estáticas | C (9) | C (9) | C (9) | C (9) | C (9) | C (9) |
+| 40 | FOPS, estructuras de protección contra la caída de objetos | C (9) | C (9) | C (9) | C (9) | C (9) | C (9) |
+| 41 | Asientos de pasajeros | C | N/A | C | C | C | C |
+| 42 | Exposición del conductor al nivel de ruido | B | B | B | B | B | B |
+| 43 | Asiento del conductor | C | C | C | C | C | C |
+| 44 | Campo de maniobra y acceso al puesto del conductor | B | B | B | B | B | B |
+| 45 | Tomas de fuerza | B | B | B | B | B | B |
+| 46 | Protección de los elementos motores, | B | B | B | B | B | B |
+| 47 | Anclajes de los cinturones de seguridad | C (9) | C (9) | C (9) | C (9) | C (9) | C (9) |
+| 48 | Cinturones de seguridad | C | C | C | C | C | C |
+| 49 | OPS, estructuras contra la penetración de objetos | C | C | C | C | C | C |
+| 50 | Sistema de escape | B | B | B | B | B | B |
+| 51 | Manual de utilización | C | C | C | C | C | C |
+| 52 | Controles, incluyendo en particular dispositivos de emergencia y parada automática | B | B | B | B | B | B |
+| 53 | Protección contra riesgos mecánicos distintos de ROPS, FOPS, OPS y toma de fuerza incluyendo la protección frente a rotura de conductos por los que circulen fluidos y movimientos incontrolados del vehículo | C | C | C | C | C | C |
+| 54 | Resguardos y dispositivos de protección | C | C | C | C | C | C |
+| 55 | Información, señales de advertencia y marcas | C | C | C | C | C | C |
+| 56 | Materiales y productos | C | C | C | C | C | C |
+| 57 | Baterías | C | C | C | C | C | C |
+| 58 | Salida de emergencia | C | C | C | C | C | C |
+| 59 | Sistema de ventilación y filtrado de la cabina | C | C | C | C | C | C |
+| 60 | Índice de combustión del material de la cabina | C | C | C | C | C | C |
+| 61 | Emisiones contaminantes | B | B | B | B | B | B |
+| 62 | Nivel sonoro (externo) | B | B | B | B | B | B |
+
+Leyenda:
+
+X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo UE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.
+
+A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.
+
+B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.
+
+C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.
+
+H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción.
+
+N/A: Este acto normativo no es aplicable (ningún requisito)
+
+RGV: Reglamento general de vehículos
+
+(*) La aplicación de los requisitos aplicables a estas categorías viene recogida en la última actualización de los Anexos I y II del RD 2028/1986.
+
+(1) Subconjunto electrónico.
+
+(2) Componente, UTI (Unidad técnica independiente).
+
+(3) Vehículo.
+
+(4) Prescripciones de instalación
+
+(6) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes deberán disponer de su homologación CEPE/ONU o equivalente.
+
+(9) Las actas de los ensayos (cumplimentadas) de acuerdo con los códigos de la OCDE que se facilitan a continuación podrán utilizarse como alternativa a los informes de ensayos redactados de conformidad con las directivas específicas correspondientes.
+
+| Aplicable a | Alternativa al acta de ensayo de la UE basada en los siguientes anexos del R (UE) 1322/2014 | Asunto | Código OCDE |
+| --- | --- | --- | --- |
+| C1 C4.2 C4.3 | Anexo VIII y Anexo XVIII (si los anclajes de los cinturones de seguridad han sido objeto de ensayo) | Ensayos oficiales de estructuras de protección de tractores agrícolas o forestales (ensayo estático) | Código 4 |
+| C | Anexo XIII | Medición oficial del ruido en los puestos del conductor de los tractores agrícolas y forestales | Código 5 |
+| C2 C3 C4.3 | Anexo X y Anexo XVIII (si los anclajes de los cinturones de seguridad han sido objeto de ensayo) | Ensayos oficiales de estructuras de protección montadas en la parte trasera de tractores agrícolas o forestales de ruedas, vía estrecha | Código 7 |
+| C1 C2 C4.2 C4.3 | Anexo VII y Anexo XVIII (si los anclajes de los cinturones de seguridad han sido objeto de ensayo) | Ensayos oficiales de las estructuras de protección de los tractores agrícolas y forestales de orugas | Código 8 |
+| C | Anexo XI, parte C | Ensayos oficiales de las estructuras de protección contra la caída de objetos de los tractores agrícolas y forestales | Código 10 |
+
+(a) Vehículos que por construcción no pueden desarrollar una velocidad una velocidad superior a 40 km/h.
+
+(b) Vehículos que por construcción pueden desarrollar una velocidad una velocidad superior a 40 km/h.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. Ref. BOE-A-2018-15796
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.

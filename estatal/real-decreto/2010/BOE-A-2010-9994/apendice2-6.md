@@ -4,17 +4,39 @@
 
 ## PARTE I
 
-## CAMPO DE APLICACIÓN
+## Campo de aplicación
 
 El campo de aplicación se extiende a los nuevos tipos de tractocarros tal como están definidos en el Reglamento General de Vehículos para efectuar trabajos agrícolas, forestales y de obras y/o servicios.
 
-Se excluyen de esta definición los vehículos en los que el conductor viaja a horcajadas y el mando de dirección es de tipo manillar así como los vehículos de categoría N definidos en la directiva 2007/46/CEE.
+Se excluyen de esta definición los vehículos en los que el conductor viaja a horcajadas y el mando de dirección es de tipo manillar, así como los vehículos de categoría N.
 
 ## PARTE II
 
-## FICHA DE CARACTERÍSTICAS
+## Ficha de características
 
-Si procede aportar la información que figura a continuación, se presentará en soporte adecuado (papel o informático) e irá acompañada de una lista de los elementos incluidos. Los planos, en su caso, se presentarán a la escala adecuada, suficientemente detallados y en formato A4 o doblados para que se ajuste a dicho formato. Las fotografías, si las hubiere, serán suficientemente detalladas.
+Se aportará la información que figura a continuación, la cual irá acompañada de una lista de los elementos incluidos. Los planos y fotografías, en su caso, se presentarán a la escala adecuada, suficientemente detallados.
+
+## PARTE III
+
+## Modelo de Ficha Reducida
+
+Los modelos de ficha reducida son los establecidos en este apéndice.
+
+## PARTE IV
+
+## Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)
+
+Según lo establecido en este apéndice.
+
+## PARTE V
+
+## Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas
+
+Según lo establecido en este apéndice.
+
+## PARTE II
+
+## Ficha de características
 
 | Epígrafe | Ficha de características. Tractocarros |
 | --- | --- |
@@ -23,7 +45,7 @@ Si procede aportar la información que figura a continuación, se presentará en
 | 0.2 | Identificación |
 | 0.2.1 | Tipo |
 | 0.2.2 | Variantes |
-| 0.2.3 | Versión |
+| 0.2.3 | Versiones |
 | 0.2.4 | Denominación comercial |
 | 0.3 | Clasificación (1): Agrícola / Obras / Servicios |
 | 0.4 | Nombre y dirección del fabricante |
@@ -32,12 +54,10 @@ Si procede aportar la información que figura a continuación, se presentará en
 | 0.6.1 | Emplazamiento de la placa del fabricante (2) |
 | 0.6.2 | Emplazamiento del número de identificación del vehículo (3) |
 | 0.7 | La numeración en la serie del modelo para identificación del vehículo empieza en el número |
-|  |  |
-| 1 | CONSTITUCIÓN GENERAL (Adjuntar fotografías, 3/4 delantera y 3/4 trasera, así como un esquema acotado del conjunto del mismo) |
-| 1.1 | Numero de ejes y ruedas |
+| 1 | CONSTITUCIÓN GENERAL (Adjuntar fotografías, ¾ delantera y ¾ trasera, así como un esquema acotado del conjunto del mismo) |
+| 1.1 | Número de ejes y ruedas |
 | 1.2 | Ruedas motrices |
 | 1.3 | Emplazamiento y disposición del motor |
-|  |  |
 | 2 | DIMENSIONES Y MASAS (mm. y kg.) |
 | 2.1 | Distancia entre ejes |
 | 2.2 | Ancho de vía en cada eje |
@@ -51,35 +71,33 @@ Si procede aportar la información que figura a continuación, se presentará en
 | 2.3.3.2 | Distancia mínima al suelo |
 | 2.3.3.3 | Ángulos de entrada y salida |
 | 2.4 | Tara (4) |
-| 2.5 | Masa en vacío en orden de marcha sin accesorios discrecionales, pero con líquido de refrigeración, lubricantes, combustibles, herramientas y conductor (el peso del conductor se estima en 75 kg.) (4) |
+| 2.5 | Masa en vacío en orden de marcha sin accesorios discrecionales, pero con líquido de refrigeración, lubricantes, combustibles, herramientas y conductor (el peso del conductor de estima en 75 kg.) (4) |
 | 2.5.1 | Reparto de esta masa entre los ejes |
 | 2.6 | Masas máximas técnicamente admisibles declaradas por el fabricante |
-| 2.6.1 | Masa máxima en carga técnicamente admisible declaradas por el fabricante |
-| 2.6.1.2 | Masa en el primer eje |
-| 2.6.2.3 | Masa en el segundo eje |
+| 2.6.1 | Masa máxima en carga técnicamente admisible declarada por el fabricante |
+| 2.6.2 | Masa en el primer eje |
+| 2.6.3 | Masa en el segundo eje |
 | 2.7 | Masa máxima remolcable. |
 | 2.7.1 | Remolque sin frenos |
 | 2.7.2 | Remolque con frenos |
 | 2.8 | Masa Máxima Autorizada (M.M.A.) |
-|  |  |
 | 3 | MOTOR |
 | 3.1 | Marca y fabricante |
 | 3.2 | Modelo |
 | 3.3 | Tipo y ciclo |
-| 3.4 | Numero y disposición de los cilindros |
+| 3.4 | Número y disposición de los cilindros |
 | 3.5 | Diámetro, carrera y cilindrada |
-| 3.6 | Potencia nominal del motor: ... kW a: ... min-1 con ajuste de serie |
+| 3.6 | Potencia nominal del motor:......... kW a:......... min-1 con ajuste de serie |
 | 3.6.1 | Número de homologación de contaminantes del motor (Fase de emisiones) |
 | 3.6.2 | Potencia fiscal (CVF) |
 | 3.7 | Carburante o combustible normalmente utilizado |
-| 3.8 | Situación y capacidad del deposito de combustible |
+| 3.8 | Situación y capacidad del depósito de combustible |
 | 3.9 | Alimentación del motor |
-| 3.10 | Instalación eléctrica a .... v. |
-| 3.10.1 | ... baterías de ... v. |
+| 3.10 | Instalación eléctrica a …. v. |
+| 3.10.1 | … baterías de … v. |
 | 3.10.2 | Alternador |
 | 3.11 | Refrigeración |
 | 3.12 | Silenciador |
-|  |  |
 | 4 | TRANSMISIÓN (adjuntar esquema de la transmisión de todas las variantes previstas) |
 | 4.1 | Tipo de transmisión |
 | 4.2 | Embrague: |
@@ -92,26 +110,23 @@ Si procede aportar la información que figura a continuación, se presentará en
 | 4.5 | Desmultiplicación de la transmisión |
 | 4.6 | Velocidad del vehículo en km/h, correspondiente al régimen nominal del motor, con los neumáticos definidos en el apartado 5.1 |
 | 4.7 | Velocidad teórica máxima: |
-|  |  |
 | 5 | ÓRGANOS DE SUSPENSIÓN |
 | 5.1 | Neumáticos (serie y opcionales) |
 | 5.1.1 | Dimensiones |
 | 5.1.2 | Índice de capacidad de carga mínima |
 | 5.1.3 | Índice mínimo de velocidad |
 | 5.2 | Tipo de suspensión (si existe) para cada eje o rueda (adjuntar esquema) |
-|  |  |
 | 6 | DIRECCIÓN (Adjuntar esquema) |
 | 6.1 | Dirección |
-| 6.1.1 | Tipo, |
+| 6.1.1 | Tipo |
 | 6.1.2 | Diámetro del volante: |
-| 6.1.3 | Mecanismo, tipo: |
-| 6.1.4 | Numero de vueltas del volante / ángulo de giro máximo de rueda |
+| 6.1.3 | Mecanismo, Tipo: |
+| 6.1.4 | Número de vueltas del volante / ángulo de giro máximo de rueda |
 | 6.2 | Radio mínimo del espacio de giro (5) |
 | 6.2.1 | A la derecha: |
 | 6.2.2 | A la izquierda: |
-|  |  |
 | 7 | FRENADO (Adjuntar esquema del cinematismo y de los principales elementos frenantes: tambor, zapatas, discos, etc.) |
-| 7.1 | Freno de servicio |
+| 7.1 | Freno de servicio (8) |
 | 7.1.1 | Tipo de actuación y circuito |
 | 7.1.2 | Calculo de los frenos de servicio |
 | 7.1.3 | Superficie de frenado: cm2 |
@@ -120,26 +135,22 @@ Si procede aportar la información que figura a continuación, se presentará en
 | 7.4 | Dispositivo para el frenado de remolque |
 | 7.4.1 | Descripción y características |
 | 7.5 | Fuentes de energía, si existe (características) |
-|  |  |
 | 8 | PUESTO DEL CONDUCTOR |
 | 8.1 | Descripción general |
 | 8.2 | Retrovisores |
-| 8.3 | N° de asientos |
+| 8.3 | N.º de asientos |
 | 8.4 | Instrumentación |
 | 8.5 | Mandos |
-|  |  |
 | 9 | CABINA |
 | 9.1 | Tipo y modelo |
-| 9.2 | Puertas: numero |
+| 9.2 | Puertas: número |
 | 9.3 | Campo de visión directa |
 | 9.4 | Parabrisas y otros vidrios |
-| 9.5 | Limpiaparabrisas: n° de escobillas |
-| 9.6 | Lavaparabrisas: n° de surtidores |
-|  |  |
+| 9.5 | Limpiaparabrisas: n.º de escobillas |
+| 9.6 | Lavaparabrisas: n.º de surtidores |
 | 10 | DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA (Adjuntar esquema exterior de la máquina con el emplazamiento acotado de su instalación) |
-| 10.1 | Dispositivos obligatorios (Número, color y marca de homologación) |
-| 10.2 | Dispositivos facultativos (Número, color y marca de homologación) |
-|  |  |
+| 10.1 | Dispositivos obligatorios (Número, color y número de homologación) |
+| 10.2 | Dispositivos facultativos (Número, color y número de homologación) |
 | 11 | VARIOS |
 | 11.1 | Avisadores acústicos |
 | 11.2 | Dispositivo de enganche del remolque (6) |
@@ -150,80 +161,79 @@ Si procede aportar la información que figura a continuación, se presentará en
 | 11.2.2.1 | Carga vertical |
 | 11.2.2.2 | Carga horizontal |
 | 11.3 | Toma de corriente para alimentación de los dispositivos de alumbrado, señalización luminosa y servicio del remolque (7) |
-| 11.4 | Emplazamiento de la placa de matricula trasera |
+| 11.4 | Emplazamiento de la placa de matrícula trasera |
 
-Notas explicativas
+Notas explicativas:
 
-(1) Táchese lo que no proceda
+(1) Táchese lo que no proceda.
 
-(2) UNE 68063 (*)
+(2) UNE 68063:1983 (*).
 
-(3) UNE 68064 (*)
+(3) UNE 68064:1983 (*).
 
-(4) UNE 26086
+(4) UNE 26086:1992.
 
-(5) UNE 68066
+(5) UNE 68066:1983.
 
-(6) UNE Mientras no se desarrollen las normas UNE aplicables en su última modificación, se podrán aceptar las normas ISO desarrolladas ó equivalentes en su última versión para el cumplimiento del apéndice 5.
-
-(7) UNE 26171
+(6) Mientras no se desarrollen las normas UNE aplicables en su última modificación, se podrán aceptar las normas ISO desarrolladas o equivalentes en su última versión para el cumplimiento del apéndice 5. (7) UNE-ISO 1724:2013.
 
 (*) Mientras no sean desarrolladas las actualizaciones de las normas UNE, no podrán ser utilizadas. Ver apéndice 5.
 
-En cualquier caso se cumplirá con las últimas modificaciones en vigor de las referencias normativas.
+En cualquier caso, se cumplirá con las últimas modificaciones en vigor de las referencias normativas.
 
 ## PARTE III
 
-## Modelos de Fichas Reducidas
+## Modelo de Ficha Reducida
 
 | Ficha reducida. Tractocarros |
 | --- |
 | Número de homologación |
 | Marca |
 | Identificación |
-| Emplazamiento |
+| Emplazamiento del número de identificación de la máquina |
+| Emplazamiento de la placa del fabricante |
 | Tipo |
 | Variantes |
 | Versión |
 | Denominación comercial (marca y modelo) |
-| Clasificación: (Táchese lo que no proceda) Agrícola / Obras / Servicios |
-| Genero |
-| DIMENSIONES Y MASAS MÁXIMAS |
+| Clasificación (Táchese lo que no proceda): Agrícola / Obras / Servicios |
+| Género |
+| DIMENSIONES Y MASAS MÁXIMAS (mm y kg.) |
 | Distancia entre ejes |
 | Ancho de vía de cada eje |
 | Longitud |
 | Voladizo trasero |
-| Longitud de caja (max.) |
+| Longitud de caja (máx.) |
 | Anchura |
 | Altura |
 | Tara |
-| Masa en vacío en orden de marcha sin accesorios discrecionales, pero con líquido de refrigeración, lubricantes,combustibles, herramientas y conductor (el peso del conductor de estima en 75 kg.) |
+| Masa en vacío en orden de marcha sin accesorios discrecionales, pero con líquido de refrigeración, lubricantes, combustibles, herramientas y conductor (el peso del conductor se estima en 75 kg.) |
 | Masa máxima técnicamente admisible |
 | Masa máxima en carga técnicamente admisible (MMTA) |
 | En el primer eje |
 | En el segundo eje |
 | Masas máximas remolcables |
-| Sin frenos |
+| Sin frenos: |
 | Con frenos |
 | Masa máxima autorizada |
 | MOTOR |
 | Marca |
 | Modelo |
-| Nº de cilindros |
+| N.º de cilindros |
 | Cilindrada (cm3) |
-| Potencia nominal del motor: ... kW a: ... min-1 con ajuste de serie |
-| Número de homologación de contaminantes del motor (Fase de emisiones) |
+| Potencia nominal del motor:......... kW a:......... min-1 con ajuste de serie |
+| Número de homologación de contaminantes del motor (Fase de emisiones), en su caso |
 | Potencia fiscal (CVF) |
 | Tipo de carburante |
-| Situación y capacidad del depósito |
+| Situación y capacidad del depósito de combustible |
 | INSTALACIÓN ELÉCTRICA (V) |
 | Batería (A) |
 | Alternador (kW) |
 | SISTEMA DE REFRIGERACIÓN |
 | TRANSMISIÓN |
 | Tipo |
-| Embrague: |
-| Tipo: |
+| Embrague |
+| Tipo |
 | CAJA DE CAMBIOS |
 | Caja de cambio |
 | Marca y modelo: |
@@ -233,7 +243,6 @@ En cualquier caso se cumplirá con las últimas modificaciones en vigor de las r
 | Dimensiones |
 | Índice de capacidad de carga mínima |
 | Índice mínimo de velocidad |
-| Tipo de suspensión (si existe) para cada eje o rueda |
 | DIRECCIÓN |
 | Tipo |
 | Diámetro del volante (mm) |
@@ -245,7 +254,7 @@ En cualquier caso se cumplirá con las últimas modificaciones en vigor de las r
 | Fuentes de energía, si existe (características) |
 | PUESTO DEL CONDUCTOR |
 | Espejos retrovisores |
-| Nº de asientos / Plazas |
+| N.º de asientos / Plazas |
 | INDICADORES |
 | Presión de aceite |
 | Cuentahoras |
@@ -255,12 +264,13 @@ En cualquier caso se cumplirá con las últimas modificaciones en vigor de las r
 | Carga generador |
 | Indicadores de dirección |
 | Presión de aceite |
-| Nivel de liquido de frenos |
+| Nivel de líquido de frenos |
 | Freno de estacionamiento |
-|  |
 | DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN LUMINOSA |
 | Dispositivos obligatorios/facultativos |
-| DISPOSITIVO DE ACOPLAMIENTO |
+| DISPOSITIVOS DE ACOPLAMIENTO |
+| Medidas principales |
+| Cargas máximas técnicamente admisibles declaradas por el fabricante Carga vertical Carga horizontal |
 | Fabricante |
 | Representante del fabricante |
 | Fecha |
@@ -268,32 +278,20 @@ En cualquier caso se cumplirá con las últimas modificaciones en vigor de las r
 
 ## PARTE IV
 
-## Matriz de las diferentes combinaciones de Tipo/variante/versión (TVV)
+## Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)
 
-Cuadro que muestra las combinaciones autorizadas en las diferentes versiones de vehículos de los apartados de la parte I que tienen varios subapartados Para dichos elementos se utilizará en este cuadro una letra prefijo que indicará qué concepto o conceptos de un elemento concreto son aplicables a una versión determinada.
+Se describirán, para cada variante, las diferentes combinaciones de versiones correspondientes al tipo.
 
-Se cumplimentará un cuadro por cada variante dentro de un tipo.
-
-Los conceptos múltiples que pueden combinarse sin restricciones dentro de una variante se enumerarán en la columna denominada «Todas las versiones».
-
-| Numero de elemento | Todas las versiones | Versión 1 | Versión 2 | etc. | Versión n |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-
-Se podrán presentar estos datos de otra manera siempre que se alcance el objetivo inicial.
-
-Cada variante y cada versión deberán identificarse mediante un código numérico o alfanumérico que deberá indicarse también en la tarjeta ITV del vehículo de que se trate.
+Cada variante y cada versión deberán identificarse mediante un código numérico o alfanumérico que deberá indicar el vehículo que se trate.
 
 ## PARTE V
 
 ## Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas
 
-Números de homologación de los actos reglamentarios.
-
 | Asunto | Número de homologación | Variantes / Versiones |
 | --- | --- | --- |
 |  |  |  |
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. Ref. BOE-A-2018-15796
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.

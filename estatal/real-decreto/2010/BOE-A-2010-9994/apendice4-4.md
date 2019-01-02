@@ -4,13 +4,11 @@
 
 ## PARTE I
 
-## Campo de aplicación:
+## Campo de aplicación
 
-El campo de aplicación del presente apéndice se extiende a los vehículos pertenecientes a las categorías TI, T2, y T3 según se definen en el capítulo A del anexo II de la Directiva 2003/37/CE del Parlamento y del Consejo, de 26 de mayo.
+El campo de aplicación del presente apéndice se extiende a los vehículos pertenecientes a las categorías T y C según se definen en el Reglamento de la Unión Europea vigente en la materia.
 
-Además se extiende a los vehículos de las categorías T51 y T52 establecidas en la parte I del apéndice 2 de este anexo.
-
-La definición de tipo de vehículos así como los modelos de números de homologación serán los establecidos en el apéndice 1 de este anexo.
+La definición de tipo de vehículos, así como los modelos de números de homologación serán los establecidos en el apéndice 1 de este anexo.
 
 ## PARTE II
 
@@ -20,6 +18,10 @@ Los modelos de fichas reducidas son los establecidos en la parte III del apéndi
 
 ## PARTE III
 
-## Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas.
+## Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas
 
-Se seguirá el formato definido en el apéndice 2, parte V. Se aplicarán los requisitos establecidos en el apéndice 5.
+Según lo establecido en la parte V del apéndice 2.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. Ref. BOE-A-2018-15796
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.

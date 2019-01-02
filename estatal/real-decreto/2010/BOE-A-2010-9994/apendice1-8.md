@@ -4,56 +4,42 @@
 
 ## PARTE I
 
-## DEFINICIÓN SEGÚN CATEGORÍAS DE: TIPO Y VARIANTE
+## Definición según categorías de: tipo, variante y versión
 
-1. TIPO
-
-Los remolques que pueden ser puestos en servicio bajo la misma denominación y recibir, por tanto, el mismo número de homologación de tipo, deberán:
-
-– Ser fabricados por el mismo fabricante, aunque no necesariamente en la misma fábrica.
-
-– Pertenecer a una de las categorías que a continuación se indican:
-
-Categoría R1: Remolques en los que la suma de las masas técnicamente admisibles por eje es superior a 750 kg e inferior o igual a 3000 kg.
-
-Categoría R2: Remolques en los que la suma de las masas técnicamente admisibles por eje es superior a 3000 kg e inferior o igual a 6000 kg.
-
-Categoría R3: Remolques en los que la suma de las masas técnicamente admisibles por eje es superior a 6000 kg e inferior o igual a 10000 kg.
-
-Categoría R4: Remolques en los que la suma de las masas técnicamente admisibles por eje es superior a 10000 kg.
-
-– Características esenciales de fabricación y diseño.
-
-– Bastidor-viga/ bastidor con largueros/ bastidor articulado (diferencias evidentes y fundamentales).
-
-– Ejes (número) y configuración (ejes centrados / separados / semirremolques).
-
-2. VARIANTE
-
-Remolques que, sin diferenciarse entre si en cuanto a las características de construcción esenciales, presentan las mismas diferencias con relación al modelo de base en lo que concierne a las siguientes características:
-
-– Pertenecer al mismo género de remolque.
-
-– Distancia entre ejes y distancia entre ejes y punto de enganche para remolques de ejes centrales o semirremolques
-
-– Ejes de dirección (número, situación e interconexión)
-
-– MMTA
-
-– Ejes con frenos (número).
+Serán de aplicación los criterios para los tipos, variantes y versiones establecidos en el Reglamento de la Unión Europea vigente en la materia.
 
 ## PARTE II
 
-## MODELOS DE NÚMEROS DE HOMOLOGACIÓN
+## Modelos de números de homologación
 
-Homologación de Tipo Completa:
+Homologación Nacional de Tipo:
 
-RA-xxxx*xx
+Para todas las Categorías y Vehículos incompletos, completos y las diferentes fases de completado.
 
-Constará de las letras RA seguida de un número de cuatro cifras que indicará el número de homologación, más un número de dos cifras que indicará el número de extensión.
+RA*xxxxx*xx.
+
+Constará de tres secciones separadas por un asterisco,
+
+Primera sección: «RA».
+
+Segunda sección: Una secuencia numérica de al menos cinco dígitos que indica el número de homologación de base.
+
+Tercera sección: Una secuencia numérica de dos dígitos que indique la extensión. La secuencia empezará a partir de 00 para cada número de homologación de base.
+
+En los casos de corrección que no implican extensión, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+Serie Corta Nacional:
+
+No procede.
 
 Homologación Individual:
 
-HIRA-xxxxx
+HIRA-xxxxx.
 
-Constará de los caracteres HIRA seguidos de un número de cuatro cifras que indicará el número de homologación individual.
+Constará de los caracteres HIRA seguidos de una secuencia numérica de al menos cinco dígitos, que indicará el número de aprobación individual.
+
+En los casos de corrección, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. Ref. BOE-A-2018-15796
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.

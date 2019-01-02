@@ -1,63 +1,94 @@
 ## APÉNDICE 5
 
-## Lista de requisitos exigidos para la homologación de vehículos en series cortas nacionales y homologación individual y casos excepcionales asimilados a la categoría
+## Lista de requisitos exigidos para la homologación de vehículos en aplicaciones particulares, series cortas nacionales y homologación Individual
+
+(Vehículos de categoría L)
 
 ## PARTE I
 
-## Vehículos de categoría L
-
-| Categoría: L |
-| --- |
-| N.º | Asunto* | Número AR | Serie Corta Nacional (H) | Homologaciones Individual (H) |
-| Completos | Completados y transformados |
-| 1 | Frenado | 93/14/CEE | A | A | A |
-| 2 | Identificación Mandos, testigos e indicadores | 93/29/CEE | A | C | C |
-| 3 | Avisador acústico | 93/30/CEE | A | A | A |
-| 4 | Caballete de apoyo | 93/31/CEE | A | A | A |
-| 5 | Dispositivo de retención | 93/327CEE | A | A | A |
-| 6 | Dispositivo antirrobo | 93/33/CEE | C(5) | C | C |
-| 7 | Inscripciones Reglamentarias | 93/34/CEE | C(5) | A (5) | A |
-| 8 | Instalación de dispositivos de alumbrado | 93/92/CEE | A | A (5) | A |
-| 9 | Masas y dimensiones | 93/93/CEE | A | A | A |
-| 10 | Emplazamiento placa de matrícula | 93/94/CEE | C(5) | A | A |
-| 11 | Velocidad máxima | 95/1/CE | A | A | A |
-| 12 | Potencia y par máximo | 95/1/CE | A | C (5) | C (5) |
-| 13 | Instalación de neumáticos | 92/24 Cap. 1 | C(5) | A (5) | A |
-| 14 | Dispositivos de alumbrado y señalización | 92/24 Cap. 2 | C(5) | A (5) | A |
-| 15 | Salientes exteriores | 97/24 Cap. 3 | C(5) | C | C |
-| 16 | Retrovisores y su montaje | 97/24 Cap. 4 | A | A | A |
-| 17 | Emisiones gaseosas | 97/24 Cap. 5 | C(5) | C (5) | C (5) |
-| 18 | Depósito de combustibles | 97/24 Cap. 6 | C(5) | C | C |
-| 19 | Antimanipulación | 97/24 Cap. 7 | C | C | C |
-| 20 | Compatibilidad electromagnética | 97/24 Cap. 8 | A | A (5) | C |
-| 21 | Nivel sonoro admisible | 78/105/CEE | C(5) | A | A |
-| 22 | Dispositivos de remolque | 97/24 Cap. 10 | A | A | A |
-| 23 | Cinturones de seguridad y sus anclajes | 97/24 Cap. 11 | A | A | C |
-| 24 | Cristales, limpiaparabrisas, lavaparabrisas, dispositivos antihielo y antivaho | 97/24 Cap. 12 | C(5) | A | A |
-| 25 | Indicador de velocidad | 2000/7/CE | A | A | A |
+| N.º | Acto Reglamentario (6) (*) (H) | Serie Corta Nacional | Aplicaciones particulares Según Art. 5 | Homologaciones Individuales |
+| --- | --- | --- | --- | --- |
+| Completos | Completados |
+| A1 | Ensayos relativos al medio ambiente | A (5) | B (5) | B (5) | A (5) |
+| A2 | Velocidad máxima, | A | B | B | A |
+| Potencia y Par máximos | A | C (5) | C (5) | A (5) |
+| A3 | Nivel sonoro | A | B (5) | B (5) | A |
+| B1 | Avisadores Acústicos | X (2) A (4) | B (4) (7) | B (4) (7) | X (2) A (4) |
+| B2 | Frenado | A | B (5) | B (5) | A |
+| B3 | Seguridad eléctrica | A | B | B | A |
+| B4 | Declaración ensayos de durabilidad de los sistemas de seguridad, piezas y equipos | A | C (5) | B (5) | C (5) |
+| B5 | Estructuras de protección delanteras y traseras | A | B (5) | B (5) | B (5) |
+| B6 | Cristales, limpiaparabrisas, lavaparabrisas, dispositivos antihelio y anti vaho | X (2) A (4) | B (4) (7) | B (4) (7) | X (2) A (4) |
+| B7 | Identificación de mandos | B (5) | B (5) | B (5) | A |
+| B8 | Instalación dispositivos de alumbrado | X (2) A (4) | B (4) (7) | B (4) (7) | X (2) A (4) |
+| B9 | Visibilidad trasera | A (4) (7) | B (4) (7) | B (4) (7) | A (4) (7) |
+| B10 | Estructura de protección en caso de vuelco | A | B (5) | B (5) | B (5) |
+| B11 | Cinturones de seguridad y sus anclajes | X (2) A (4) | B (4) | B (4) (7) | X (2) A (4) |
+| B12 | Plazas de asiento (sillines) | A | B | B | B |
+| B13 | Maniobrabilidad | A | B | B | B |
+| B14 | Instalación de neumáticos | A (4) (7) | B (4) | B (4) (7) | A (4) (7) |
+| B15 | Placa relativa a la limitación de la velocidad máxima | A | C | C | C |
+| B16 | Protección de los ocupantes del vehículo, incluido el acondicionamiento interior, los reposacabezas y las puertas del vehículo | A | B | B | B |
+| B17 | Potencia nominal o neta continua máxima y/o limitación de la velocidad del vehículo por construcción | C | B | B | B |
+| B18 | Integridad de la estructura del vehículo | C | B | B | B |
+| C1 | Medidas contra la manipulación | C | C (5) | C (5) | A |
+| C4 | Dispositivos de acoplamiento y de fijación | X (2) A (4) | B (4) (2) | B (4) (2) | X (2) A (4) |
+| C5 | Dispositivos de protección contra la utilización no autorizada | A (5) | B (5) | B (5) | A (5) |
+| C6 | Compatibilidad electromagnética (CEM) | A (3) | B | B | A (3) |
+| C7 | Salientes exteriores | A | B | B | A |
+| C8 | Almacenamiento de combustible | B (4) (7) | B | B | B (4) (7) |
+| C9 | Plataformas de carga | A | B | B | B |
+| C10 | Masas y Dimensiones | A | B | B | A |
+| C11 | Sistemas de diagnóstico a bordo | A | N.A. | N.A. | B |
+| C12 | Dispositivos de retención para pasajeros y apoyapiés | A | B (5) | B (5) | N.A. |
+| C13 | Emplazamiento de la placa de matrícula | A | B (5) | B (5) | A |
+| C14 | Información relativa a la reparación y el mantenimiento | C | C | N.A. | C |
+| C15 | Caballete de apoyo | A | B | B | A |
+| - | Inscripciones Reglamentarias | A | C (5) | C (5) | A |
+| - | Indicador de velocidad | A | B | B | A |
 
 Leyenda:
 
-(*) En cualquier caso se cumplirá con las últimas modificaciones en vigor de las referencias normativas.
+X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo UE concedido por una autoridad de homologación. Se garantizará la conformidad de la producción.
+
+A: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la
+
+Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones
+
+Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo y se garantizará la conformidad de la producción.
+
+B: Se cumplirán los requisitos técnicos fundamentales del Acto Reglamentario con las salvedades que mediante resolución de la Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones
+
+Individuales en la Directiva o el Reglamento de la Unión Europea vigente en la materia. Un servicio técnico deberá emitir acta de ensayo. No se exigirá certificado de homologación de tipo.
+
+C: Se cumplirán los requisitos técnicos fundamentales del acto reglamentario con las salvedades que mediante resolución de la
+
+Dirección General de Industria y PYME se establezcan en línea con lo dispuesto para Series Cortas y Homologaciones
+
+Individuales de ámbito europeo en la Directiva o el Reglamento de la Unión Europea vigente en la materia, que se podrán justificar mediante declaración de conformidad expedida por el fabricante del vehículo. El servicio técnico podrá pedir información adicional o más pruebas, en caso necesario.
+
+H: Podrá aceptarse como alternativa, previa autorización de la Autoridad de Homologación, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación aplicable. Se garantizará la conformidad de la producción.
+
+N/A: Este acto normativo no es aplicable (ningún requisito)
+
+RGV: Reglamento general de vehículos
+
+(*) Los requisitos aplicables a estas categorías están recogidos en la última actualización de los Anexos I y II del RD 2028/1986.
 
 (1) Subconjunto electrónico.
 
-(2) Componente.
+(2) Componente. UTI (Unidad técnica independiente).
 
 (3) Vehículo.
 
 (4) Prescripciones de instalación
 
-(5) En el caso de vehículos singulares o vehículos derivados de serie cortas o de casos alternativos, la autoridad de homologación podrá eximir de alguno de los actos reglamentarios exigidos a condición de que el fabricante pueda demostrar de manera satisfactoria que se cumplen los requisitos rios aplicables.
+(5) En el caso de vehículos singulares, la autoridad de homologación podrá eximir de alguno de los requisitos de los actos reglamentarios exigidos a condición de que el fabricante justifique la inaplicabilidad de dicho requisito en su caso concreto. Un servicio técnico deberá certificar dicha inaplicabilidad.
 
-X: Se requiere el cumplimiento pleno del acto reglamentario; se debe expedir el certificado de homologación de tipo CE.
+(6) Los Actos Reglamentarios o requisitos exigibles para cada categoría serán los mencionados en los correspondientes anexos del Reglamento de la Unión Europea vigentes en la materia.
 
-A: No se permite ninguna exención, excepto las especificadas en el acto reglamentario. No se requieren el certificado de homologación de tipo ni la marca de homologación de tipo. Un servicio técnico notificado deberá establecer actas de ensayo.
+(7) Los sistemas, componentes, subconjuntos electrónicos y unidades técnicas independientes, deberán disponer de su homologación CEPE/ONU o equivalente.
 
-B: Se deben cumplir las prescripciones técnicas del acto reglamentario. Los ensayos establecidos en el acto reglamentario deberán realizarse en su totalidad; previo acuerdo del organismo competente en materia de homologación, los podrá realizar el propio fabricante; también puede recibir autorización para expedir el informe técnico; no es necesario expedir un certificado de homologación de tipo y la homologación de tipo no es obligatoria.
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. Ref. BOE-A-2018-15796
 
-C: El fabricante debe demostrar de manera satisfactoria para la autoridad de homologación que se cumplen en general los requisitos generales del acto reglamentario.
-
-H: Podrá aceptarse como alternativa y previa autorización del centro directivo de Ministerio de Industria, Turismo y Comercio competente en materia de seguridad industrial, un informe favorable del servicio técnico en el que se evalúen las discrepancias con la reglamentación que se menciona en las columnas 1 y 4 del Real Decreto 2028/1986, de 6 de junio.
-
-N/A Este acto normativo no es aplicable (ningún requisito).
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.

@@ -4,54 +4,42 @@
 
 ## PARTE I
 
-## DEFINICIÓN SEGÚN CATEGORÍAS DE: TIPO, VARIANTE Y VERSIÓN
+## Definición según categorías de: tipo, variante y versión
 
-TIPO
-
-Las máquinas remolcadas que pueden ser puestas en servicio bajo la misma denominación y recibir, por tanto, el mismo número de homologación de tipo, deberán:
-
-– Ser fabricados por el mismo fabricante, aunque no necesariamente en la misma fábrica.
-
-– Pertenecer al mismo género de máquina
-
-– Pertenecer a una de las categorías que a continuación se indican:
-
-Categoría S1: Máquinas remolcadas en las que la suma de las masas técnicamente admisibles por eje es superior a 750 kg e inferior o igual a 3000 kg.
-
-Categoría S2: Máquinas remolcadas en las que la suma de las masas técnicamente admisibles por eje es superior a 3000 kg e inferior o igual a 6000 kg.
-
-Categoría S3: Máquinas remolcadas en las que la suma de las masas técnicamente admisibles por eje es superior a 6000 kg e inferior o igual a 10000 kg.
-
-Categoría S4: Máquinas remolcadas en las que la suma de las masas técnicamente admisibles por eje es superior a 10000 kg.
-
-– Tener el mismo número y configuración de ejes.
-
-VARIANTE
-
-Las máquinas remolcadas que, sin diferenciarse entre sí en cuanto a las características de construcción esenciales, presentan las mismas diferencias con relación al modelo de base en lo que concierne a las siguientes características:
-
-– Distancia entre eje y punto de enganche, para las máquinas de un solo eje.
-
-– Distancia entre ejes.
-
-– MTMA/ MMA
-
-VERSIÓN
-
-Los vehículos pertenecientes a una misma variante y que consistan en una combinación de los elementos que figuran en la ficha de características.
+Serán de aplicación los criterios para los tipos, variantes y versiones establecidos en el Reglamento de la Unión Europea vigente en la materia.
 
 ## PARTE II
 
-## MODELOS DE NÚMEROS DE HOMOLOGACIÓN
+## Modelos de números de homologación
 
-Homologación de Tipo Completa:
+Homologación Nacional de Tipo:
 
-MAR-xxxx-xx
+Para todas las Categorías y Vehículos incompletos, completos y las diferentes fases de completado.
 
-Constará de las letras MAR seguida de un número de cuatro cifras que indicará el número de homologación, más un número de dos cifras que indicará el número de extensión.
+MAR*xxxxx*xx.
+
+Constará de tres secciones separadas por un asterisco:
+
+Primera sección: «MAR».
+
+Segunda sección: Una secuencia numérica de al menos cinco dígitos que indica el número de homologación de base.
+
+Tercera sección: Una secuencia numérica de dos dígitos que indique la extensión. La secuencia empezará a partir de 00 para cada número de homologación de base.
+
+En los casos de corrección que no implican extensión, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+Serie Corta Nacional:
+
+No aplicable.
 
 Homologación Individual:
 
-HIMAR- xxxxx
+HIMAR-xxxxx.
 
-Constará de los caracteres HIMAR seguidos de un número de cuatro cifras que indicará el número de homologación individual.
+Constará de los caracteres HIMAR seguidos de una secuencia numérica de al menos cinco dígitos, que indicará el número de aprobación individual.
+
+En los casos de corrección, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. Ref. BOE-A-2018-15796
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.

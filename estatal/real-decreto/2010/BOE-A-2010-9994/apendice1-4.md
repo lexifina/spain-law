@@ -4,43 +4,68 @@
 
 ## PARTE I
 
-## DEFINICIÓN SEGÚN CATEGORÍAS DE: TIPO, VARIANTE Y VERSIÓN
+## Definición según categorías de: Tipo, variante y versión
 
-1. Para los fines de las categorías TI, T2, T3, y T5.
+Para los fines de las categorías T y C:
 
-«Tipo»: Véase el subapartado 1 del apartado A del anexo II de la Directiva 2003/37/CE
-
-«Variante»: Véase el subapartado 1 del apartado B del anexo II de la Directiva 2003/37/CE
-
-«Versión»: Véase el subapartado 1 del apartado B del anexo II de la Directiva 2003/37/CE
+Serán de aplicación los criterios para los tipos, variantes y versiones establecidos en el Reglamento de la Unión Europea vigente en la materia.
 
 ## PARTE II
 
-## MODELOS DE NÚMEROS DE HOMOLOGACIÓN
+## Modelos de números de homologación
 
-Homologación de Tipo Completa:
+Homologación Nacional de Tipo:
 
-| Categorías T5.1 y T5.2: | T51-xxxx*xx | Vehículo completo/completado |
-| --- | --- | --- |
-| T52-xxxx*xx | Vehículo completo/completado |
-| T5.1-xxxx*xx | Vehículo incompleto y las diferentes fases de completado |
+Para todas las Categorías y Vehículos incompletos, completos y las diferentes fases de completado.
 
-Constará de los caracteres T51 o T52, indicativos de la categoría, para vehículos completos/completados y de los caracteres T5.l para los vehículos incompletos y las diferentes fases de completado seguidos de un número de cuatro cifras, que indicará el número de homologación, y un número de dos cifras que indicará el número de extensión.
+Categorías T4.1 y T4.2:
+
+T-xxxxx*xx: Vehículo completo/completado.
+
+TI-xxxxx*xx: Vehículo incompleto y las diferentes fases de completado.
+
+Categorías C1, C2, C3, C4.1, C4.2 y C4.3:
+
+C-xxxxx*xx: Vehículo completo/completado.
+
+CI-xxxxx*xx: Vehículo incompleto y las diferentes fases de completado.
+
+Constará de tres secciones separadas por un asterisco.
+
+Primera sección: Constará de los caracteres T o C para vehículos completos y TI o CI para vehículos incompletos.
+
+Segunda sección: Una secuencia numérica de al menos cinco dígitos que indica el número de homologación de base.
+
+Tercera sección: Una secuencia numérica de dos dígitos que indique la extensión. La secuencia empezará a partir de 00 para cada número de homologación de base.
+
+En los casos de corrección que no implican extensión, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
 
 Serie Corta Nacional:
 
-| Todas las Categorías: | e9*NTSC*xxxx*xx | Vehículo completo/completado, vehículo incompleto y las diferentes fases de completado. |
-| --- | --- | --- |
+Todas las categorías:
 
-Constará de los caracteres e9, el carácter «*», los caracteres NKS, seguidos de un número de cuatro cifras que indicará el número de homologación, el carácter «*» y un número de dos cifras que indicará el número de extensión.
+e9*NKS167/2013*xxxxx*xx (Vehículos incompletos, completos, y completados y las diferentes fases de completados). Constará de cuatro secciones separadas por un asterisco,
+
+Primera sección: «e9».
+
+Segunda sección: «NKS167/2013»
+
+Tercera sección: Una secuencia numérica de al menos cinco dígitos que indica el número de homologación de base.
+
+Cuarta sección: Una secuencia numérica de dos dígitos (con un cero delante si es necesario) que indique la extensión. La secuencia empezará a partir de 00 para cada número de homologación de base.
+
+En los casos de corrección que no implican extensión, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
 
 Homologación Individual:
 
-| TI1-xxxxx | (vehículos categoría TI completos/completados) |
-| --- | --- |
-| TI2-xxxxx | (vehículos categoría T2 completos/completados) |
-| TI3-xxxxx | (vehículos categoría T3 completos/completados) |
-| TI51-xxxxx | (vehículos categoría T5.1 completos/completados) |
-| TI52-xxxxx | (vehículos categoría T5.2 completos/completados) |
+HIT-xxxxx: Vehículos categoría T
 
-Constará de los caracteres TI seguida de los caracteres identificativos de la categoría y de un número de cuatro cifras que indicará el número de homologación individual.
+HICA-xxxxx: Vehículos categoría C
+
+Constará de los caracteres HIT o HICA seguidos de una secuencia numérica de al menos cinco dígitos, que indicará el número de aprobación individual.
+
+En los casos de corrección, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. Ref. BOE-A-2018-15796
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.

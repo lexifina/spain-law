@@ -4,48 +4,46 @@
 
 ## PARTE I
 
-## DEFINICIÓN SEGÚN CATEGORÍAS DE: TIPO, VARIANTE Y VERSIÓN
+## Definición según categorías de: Tipo, variante y versión
 
 1. Para los fines de las categorías O1, O2, O3 y O4:
 
-«Tipo»: Véase el subapartado 4 del apartado B del anexo II de la Directiva 2007/46/CE/CE
-
-Además de las exigencias de resistencia estructural:
-
-– Construcción con doble larguero/viga central.
-
-– Chasis extensible / no extensible.
-
-– Carrocería autoportante / sobrebastidor.
-
-– Modular / no modular.
-
-«Variante»: Véase el subapartado 4 del apartado B del anexo II de la Directiva 2007/46/CE
-
-«Versión»: Véase el subapartado 4 del apartado B del anexo II de la Directiva 2007/46/CE
-
-«Tipo de carrocería»: Véase el subapartado 4 del apartado C del anexo II de la Directiva 2007/46/CE
+Serán de aplicación los criterios para los tipos, variantes y versiones establecidos en la Directiva o el Reglamento de la Unión Europea vigente en la materia.
 
 ## PARTE II
 
-## MODELOS DE NÚMEROS DE HOMOLOGACIÓN
+## Modelos de números de homologación
 
 Homologación Nacional de Tipo:
 
-Categorías O1, O2, O3 y O4: D-xxxx*xx Vehículo completo/completado
-
-D1-xxxx*xx Vehículo incompleto y las diferentes fases de completado
-
-Constará de los caracteres D (vehículo completo) o D1 (vehículo incompleto y las diferentes fases de completado) seguidos de un número de cuatro cifras que indicará el número de homologación, *, y un número de dos cifras que indicará el número de extensión.
+No procede.
 
 Serie Corta Nacional:
 
-Todas las Categorías: e9*NKS*xxxx*xx Vehículo completo/completado
+Para todas las Categorías y Vehículos incompletos, completos y las diferentes fases de completado.
 
-Vehículo incompleto y las diferentes fases de completado
+e9*NKS*xxxxx*xx
 
-Constará de los caracteres e9, el carácter «*», los caracteres NKS, seguidos de un número de cuatro cifras que indicará el número de homologación, el carácter «*» y un número de dos cifras que indicará el número de extensión.
+Constará de cuatro secciones separadas por un asterisco,
 
-Homologación Individual: HID-xxxxx Vehículo completo/completado
+Primera sección: «e9»
 
-Constará de los caracteres HI seguida de la letra identificativa de la categoría y de un mínimo de cuatro cifras que indicará el número de aprobación individual.
+Segunda sección: «NKS»
+
+Tercera sección: Una secuencia numérica de al menos cinco dígitos que indica el número de homologación de base.
+
+Cuarta sección: Una secuencia numérica de dos dígitos que indique la extensión. La secuencia empezará a partir de 00 para cada número de homologación de base.
+
+En los casos de corrección que no implican extensión, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+Homologación Individual:
+
+HID-xxxxx: Vehículo completo/completado
+
+Constará de los caracteres HI seguida de la letra identificativa de la categoría y seguidos de una secuencia numérica de al menos cinco dígitos, que indicará el número de aprobación individual.
+
+En los casos de corrección, se añadirán los caracteres: «Rev» más un número de dos cifras que indica el número de revisión.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. Ref. BOE-A-2018-15796
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.

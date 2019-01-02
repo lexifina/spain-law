@@ -1,31 +1,41 @@
 ## APÉNDICE 3
 
-## Serie corta nacional (categoría T)
+## Serie corta nacional (categorías T y C)
 
-## Parte I: Campo de aplicación:
+## PARTE I
 
-El campo de aplicación del presente apéndice se extiende a los vehículos pertenecientes a las categorías TI, T2, y T3 según se definen en el capítulo A del anexo II de la Directiva 2003/37/CE del Parlamento y del Consejo, de 26 de mayo.
+## Campo de aplicación
 
-Además se extiende a los vehículos de las categorías T51 y T52 establecidas en la parte I del apéndice 2 de este anexo.
+El campo de aplicación del presente apéndice se extiende a los vehículos pertenecientes a las categorías T y C según se definen en el Reglamento de la Unión Europea vigente en la materia.
 
-La definición de tipo de vehículos así como los modelos de números de homologación serán los establecidos en el apéndice 1 de este anexo.
+La definición de tipo de vehículos, así como los modelos de números de homologación serán los establecidos en el apéndice 1 de este anexo.
 
-Los límites de cantidad de los vehículos producidos en serie corta nacional serán los establecidos en la sección A del anexo V de la Directiva 2003/37/CE.
+Los límites de cantidad de los vehículos producidos en serie corta nacional serán los establecidos en el Reglamento de la Unión Europea vigente en la materia.
 
 ## PARTE II
 
-## Ficha de características
+## Ficha de Características
 
-Los modelos de fichas de características son los establecidos en la parte II del apéndice 2, según corresponda a su categoría.
+Los modelos de ficha de características son los establecidos en la parte II del apéndice 2.
 
 ## PARTE III
 
-## Modelo de Ficha Reducida
+## Ficha Reducida
 
-Los modelos de fichas reducidas son los establecidos en la parte III del apéndice 2, según corresponda a su categoría.
+Los modelos de ficha reducida son los establecidos en la parte III del apéndice 2.
 
 ## PARTE IV
 
-## Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas.
+## Matriz de las diferentes combinaciones de Tipo/Variante/Versión (TVV)
 
-Se seguirá el formato definido en el apéndice 2, parte V. Se aplicarán los requisitos establecidos en el apéndice 5.
+Según lo establecido en la parte IV del apéndice 2.
+
+## PARTE V
+
+## Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas
+
+Según lo establecido en la parte V del apéndice 2.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. Ref. BOE-A-2018-15796
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.

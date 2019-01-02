@@ -6,18 +6,22 @@
 
 ## Campo de aplicación
 
-El campo de aplicación del presente apéndice se extiende a: los vehículos nacionales o importados reflejados en el artículo 4 de este real decreto, los vehículos transformados antes de su matriculación o completados de última fase y a los vehículos artesanales, todos ellos pertenecientes a las categorías L, según el capitulo I, apartado 2 artículo 1 de la Directiva 2002/24/CE del Parlamento y del Consejo, de 18 de marzo.
+El campo de aplicación del presente apéndice se extiende a las categorías de vehículos completos y completados, pertenecientes a las categorías L, definidos en el Reglamento de la Unión Europea vigente para la materia.
 
-La definición de tipo de vehículos así como los modelos de número de homologación serán los establecidos en el apéndice 1 de este anexo.
+La definición de tipo de vehículos, así como los modelos de números de homologación serán los establecidos en el apéndice 1 de este anexo.
 
 ## PARTE II
 
 ## Modelo de Ficha Reducida
 
-Los modelos de fichas reducidas son los establecidos en la parte III del apéndice 3 según corresponda su categoría.
+Los modelos de fichas reducidas son los establecidos en la parte III del apéndice 2.
 
 ## PARTE III
 
 ## Lista de Actos Reglamentarios concedidos para el vehículo, sus partes y piezas
 
-Se seguirá el formato definido en el apéndice 3, parte V anterior. Según el tipo de homologación individual se aplicarán los requisitos establecidos en el apéndice 5.
+Según lo establecido en la parte V del apéndice 2.
+
+> Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. Ref. BOE-A-2018-15796
+
+> Será obligatoria su aplicación tres meses después de su entrada en vigor, según establece la disposición final única de la citada Orden.
