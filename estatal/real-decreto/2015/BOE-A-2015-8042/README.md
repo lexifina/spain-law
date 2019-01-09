@@ -116,6 +116,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Sección 6](s6-5.md)
 - [Sección 7](s7-4.md)
 - [LIBRO CUARTO. Especificación transitoria 2](lcuaoespecificaciontransitoria2.md)
+- [LIBRO CUARTO. Especificación transitoria 1 ](lc.md)
 - [CAPÍTULO 1](c1-7.md)
 - [Sección 1](s1-17.md)
 - [Sección 2](s2-15.md)

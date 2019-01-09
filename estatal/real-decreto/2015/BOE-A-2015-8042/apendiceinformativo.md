@@ -8,9 +8,9 @@ Debido a la naturaleza de las funciones requeridas para su funcionamiento, el si
 
 Dependiendo del nivel de la aplicación con el que se equipe la vía, el subsistema vía puede estar compuesto por los siguientes componentes:
 
-Eurobaliza: Es un dispositivo de transmisión puntual de información que envía telegramas al sistema ETCS embarcado. Pueden transmitir telegramas fijos (predeterminados) o, conmutables, esto es, variables en función de la señalización.
+Eurobaliza: es un dispositivo de transmisión puntual de información que envía telegramas al sistema ETCS embarcado. Pueden transmitir telegramas fijos (predeterminados) o, conmutables, esto es, variables en función de la señalización.
 
-Las eurobalizas están organizadas en Grupos de Balizas (BG) dentro de los cuales cada baliza transmitirá un telegrama al equipo ETCS embarcado, que circule sobre ellas.
+Las eurobalizas están organizadas en Grupos de Balizas (BG) dentro de los cuales cada baliza transmitirá un telegrama al equipo ETCS embarcado que circule sobre ellas.
 
 Unidad Electrónica de Línea (LEU): Son dispositivos electrónicos que conectan el enclavamiento con las eurobalizas conmutables. Su función es la de transmitir a las eurobalizas los telegramas variables en función de las condiciones de la señalización.
 
@@ -226,7 +226,7 @@ a) Curva de velocidad permitida (V. Límite): es la velocidad que puede alcanzar
 
 b) Curva de aviso: situada por encima de la curva de velocidad permitida de tal forma que, si la velocidad real del tren sobrepasa la velocidad prescrita para esa curva, se envía una indicación (sonora y visual) al Maquinista para que disminuya la velocidad con el fin de evitar la aplicación del freno de servicio.
 
-c) Curva de intervención (supervisión) del freno de servicio: cuando esta operativo este freno en funcionamiento ETCS, se sitúa por encima de la curva de aviso tal que, si la velocidad real del tren sobrepasa la velocidad prescrita por esta curva, se activa el freno de servicio, liberándose cuando se llega a la velocidad permitida. La actuación del freno de servicio se indica en el DMI.
+c) Curva de intervención (supervisión) del freno de servicio: cuando está operativo este freno en funcionamiento ETCS, se sitúa por encima de la curva de aviso tal que, si la velocidad real del tren sobrepasa la velocidad prescrita por esta curva, se activa el freno de servicio, liberándose cuando se llega a la velocidad permitida. La actuación del freno de servicio se indica en el DMI.
 
 d) Curva de emergencia: situada por encima de la curva de activación del freno de servicio, tal que, si la velocidad real del tren sobrepasa la velocidad prescrita por esta curva, se aplica el freno de emergencia, liberándose únicamente a tren parado. La activación del freno de emergencia se indica en el DMI.
 
@@ -270,7 +270,7 @@ Si una cabina se encuentra activada, la orden de frenado es revocada en cuanto e
 
 Tras la revocación de la orden de frenado, la supervisión de la inmovilización es nuevamente inicializada, usando la posición actual del tren como nueva referencia de localización.
 
-NOTA: En ciertas series de trenes existen en el propio tren supervisiones iguales a similares a estas. Ejecutándose la supervisión del valor más restrictivo de ambas.
+NOTA: En ciertas series de trenes existen en el propio tren supervisiones iguales o similares a éstas, ejecutándose la supervisión del valor más restrictivo de ambas.
 
 5AN1.AP1.4. Modos. Definición.
 
@@ -331,3 +331,5 @@ c) MA (Autorización de movimiento) hasta el punto de conmutación. La velocidad
 2. Transiciones degradadas: son las que se realizan a tren parado dentro de la línea como consecuencia de un fallo en el sistema de señalización que protege al tren.
 
 En los puntos de transición entre sistemas o a distintos Niveles de ETCS en los que aparezcan valores de la velocidad límite inferiores a las velocidades máximas permitidas, obedecen a las reglas de ingeniería aplicadas al equipo de vía.
+
+> Se modifican los arts. 5AN1.AP1.1 y 5AN1.AP1.3, con efectos de 9 de enero de 2019, por el art. 2, en los términos establecidos en el Anexo I.133 a 135, del Real Decreto 1011/2017, de 1 de diciembre. Ref. BOE-A-2018-285
