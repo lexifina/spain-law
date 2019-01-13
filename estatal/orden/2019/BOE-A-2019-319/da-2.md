@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Aplicación al personal de las Fuerzas Armadas con responsabilidad de vuelo.
+
+A los aspirantes que opten a la especialidad fundamental Aviación del Ejército de Tierra, especialidad fundamental de Mantenimiento de Aeronaves del Ejército de Tierra, y a la especialidad fundamental de Vuelo del Ejército del Aire, les será de aplicación, además, el cuadro médico de exclusiones establecido para este personal en la Orden Ministerial 23/2011, de 27 de abril, por el que se aprueban las normas para la valoración de la aptitud médica del personal de las Fuerzas Armadas con responsabilidad de vuelo, modificado por la Orden Ministerial 62/2012, de 10 de septiembre.
