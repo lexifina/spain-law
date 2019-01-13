@@ -8,11 +8,13 @@
 
 3. La compra de edificios que vayan a ser derribados. Si la compra de un edificio es objeto de ayuda, el valor del terreno construido, y el del que rodea el edificio, valorado por técnico competente, no se considera subvencionable.
 
-4. La compra de bienes inmuebles, instalaciones (sin incluir maquinaria y equipos) o centros logísticos si los mismos han sido subvencionados en los últimos diez años. Tampoco serán subvencionables las inversiones en reformas de locales que hubieran sido subvencionados anteriormente por las administraciones públicas y no hayan transcurrido cinco años desde su finalización.
+4. La compra de bienes inmuebles, instalaciones (sin incluir maquinaria y equipos) o centros logísticos si los mismos han sido subvencionados por las administraciones públicas en los últimos diez años. Tampoco serán subvencionables las inversiones en reformas de locales que hubieran sido subvencionados anteriormente por las administraciones públicas y no hayan transcurrido cinco años desde su finalización. A tal efecto, no se considerará como reforma la ampliación de capacidad de instalaciones, instalación de nueva maquinaria o construcción de nuevas edificaciones.
 
-No serán susceptibles de apoyo la maquinaria y equipos existentes en la compra de instalaciones o centros logísticos que hubieran sido subvencionados anteriormente por otro fondo comunitario o cualquier otra ayuda procedente de las administraciones públicas. Las operaciones destinadas a ampliar la capacidad o mejorar las prestaciones de la maquinaria y equipos de segunda mano objeto de subvención no podrán ser auxiliadas nuevamente en un periodo de cinco años.
+Las operaciones destinadas a ampliar la capacidad o mejorar las prestaciones de la maquinaria y equipos de segunda mano objeto de subvención no podrán ser auxiliadas nuevamente en un periodo de cinco años.
 
-Para ello se adjuntará declaración de las subvenciones recibidas durante los últimos diez años.
+Para ello se adjuntará declaración de las subvenciones recibidas durante los últimos diez años de las Administraciones públicas.
+
+No serán susceptibles de apoyo la maquinaria de segunda mano y equipos existentes en la compra de instalaciones en funcionamiento cuando éstas se adquieran al completo y hubieran sido subvencionados anteriormente por otro fondo comunitario o cualquier otra ayuda procedente de las administraciones públicas. Para ello, en estos casos, se hará constar en la declaración mencionada anteriormente información de las subvenciones recibidas por la maquinaria de segunda mano y equipos existentes en la compra de instalaciones en funcionamiento cuando éstas se adquieran al completo.
 
 5. En los casos de arrendamiento con opción a compra, no serán gastos subvencionables los demás costes relacionados con los contratos de arrendamiento con opción de compra tales como el margen del arrendador, los costes de refinanciación de los intereses, los gastos generales y los gastos de seguro.
 
@@ -58,7 +60,7 @@ Vehículos de nueva adquisición (flota) destinados al transporte de productos a
 
 24. Trabajos o inversiones empezados o realizados con anterioridad a la fecha de solicitud de ayuda, salvo los siguientes gastos, siempre que estén realizados dentro del año anterior a la fecha de solicitud de ayuda:
 
-a) Honorarios técnicos, gastos de estudios de viabilidad económica, técnica, geotectónica, de mercado, y similares, la adquisición de patentes y licencias, y gastos relacionados con los permisos y seguros de construcción.
+a) Honorarios técnicos, gastos de estudios de viabilidad económica, técnica, geotectónica, de mercado, y similares, y gastos relacionados con los permisos.
 
 b) Evaluación ambiental.
 
@@ -69,6 +71,8 @@ b) Evaluación ambiental.
 27. Inversiones relacionadas con medidas de seguridad tales como alarmas, sistemas antirrobo, barreras de seguridad y similares.
 
 28. Inversiones relativas exclusivamente a la promoción y publicidad. Salvo las previsiones de publicidad mencionadas en el artículo 23, de presente real decreto.
+
+> Se modifican los apartados 4 y la letra a) del 24 por el art. 1.9 del Real Decreto 2/2019, de 11 de enero. Ref. BOE-A-2019-318
 
 > Se modifican los apartados 4, 9, 10, 25 y 26 por el art. 1.15 del Real Decreto 21/2018, de 19 de enero. Ref. BOE-A-2018-716
 

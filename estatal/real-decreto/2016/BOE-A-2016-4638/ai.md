@@ -18,7 +18,11 @@ Sólo serán subvencionables los gastos de personal hasta el límite de las retr
 
 II. Costes de personal permanente del beneficiario que participe en el proyecto de cooperación.
 
-A efectos de la determinación de los gastos de personal permanente del beneficiario, se calculará la tarifa horaria aplicable dividiendo los últimos costes salariales anuales brutos documentados de los empleados concretos que hayan trabajado en el proyecto entre 1720 horas.
+Los gastos del personal de dirección y coordinación del proyecto de cooperación, contemplados en el artículo 8.1.a), no podrán exceder del 20 % del total de los gastos subvencionables.
+
+Asimismo, los gastos del personal, contemplados en el artículo 8.1.b), no podrán superar el 60 % del total de gastos subvencionables.
+
+Las horas anuales de trabajo no podrán ser inferiores a 1720 en el caso de personas que trabajen a tiempo completo. En este caso, el coste por hora efectiva de trabajo será el resultado de dividir los costes salariales brutos anuales documentados entre las horas anuales de trabajo.
 
 III. Costes de desplazamiento y dietas.
 
@@ -30,6 +34,8 @@ Los gastos de desplazamiento, alojamiento y manutención estarán sujetos, cuand
 | Grupo 2. | 65,97 | 37,40 | 103,37 |
 
 En caso de desplazamientos en vehículo propio, la cuantía subvencionable será de 0,19 €/km recorrido de acuerdo con la Orden EHA/3771/2005, de 2 de diciembre, por la que se revisa la cuantía de los gastos de locomoción y de las dietas en el Impuesto sobre la Renta de las Personas Físicas.
+
+> Se modifica el apartado II por el art. 3.5 del Real Decreto 2/2019, de 11 de enero. Ref. BOE-A-2019-318
 
 > Se modifican los apartados I y II por el art. 3.10 del Real Decreto 21/2018, de 19 de enero. Ref. BOE-A-2018-716
 

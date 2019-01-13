@@ -6,9 +6,17 @@
 
 1. Gastos de personal y coordinación.
 
-A efectos de este real decreto se entenderá por coordinador al encargado de los aspectos organizativos de la actividad de demostración e información, de que se trate, desde el inicio hasta la justificación del pago. Los gastos no podrán exceder el 15 por cien del importe total de los gastos subvencionables.
+A efectos de este real decreto se entenderá por personal experto al encargado de la difusión, comunicación, divulgación o puesta en práctica de las actividades de demostración e información. En este caso la subvención máxima será de 90 €/hora.
 
-Los otros gastos de personal no podrán exceder el 40 por cien del importe total de los gastos subvencionables.
+No obstante, a efectos del cálculo de los costes directos del personal experto dedicado a la realización de las actividades presenciales, podrán contabilizarse las horas de preparación hasta un límite de 1,5 horas por hora presencial impartida. Adicionalmente, podrá contemplarse hasta una hora adicional por hora presencial impartida correspondiente a personal experto de apoyo.
+
+En cualquier caso, los gastos de este personal no podrán exceder el 50 % del importe total de los gastos subvencionables.
+
+Se entenderá por personal de coordinación al encargado de los aspectos organizativos de la actuación de demostración e información de que se trate, desde el inicio hasta la justificación del pago. Los gastos de este personal no podrán exceder el 15 % del importe total de los gastos subvencionables.
+
+En el caso de que el coste horario del personal propio sea inferior al coste incurrido por la entidad para esa actuación y trabajador se deberá aportar justificante de pago de esos costes adicionales.
+
+Las horas anuales de trabajo no podrán ser inferiores a 1720 en el caso de personas que trabajen a tiempo completo. En este caso, el coste por hora efectiva de trabajo será el resultado de dividir los costes salariales brutos anuales documentados entre las horas anuales de trabajo.
 
 2. Gastos de transporte, alojamiento y manutención.
 
@@ -30,6 +38,8 @@ Sobre ese valor resultante se calculará el porcentaje correspondiente (15, 40 �
 En cuanto a los costes indirectos (15 por cien de los costes directos de personal subvencionables), se calcularán una vez se han aplicado los límites porcentuales recogidos en los puntos 1 y 2.
 
 Estos cálculos se realizarán a nivel de Programa de demostración e información.
+
+> Se modifica el apartado 1 por el art. 2.10 del Real Decreto 2/2019, de 11 de enero. Ref. BOE-A-2019-318
 
 > Se modifica por el art. 2.7 del Real Decreto 21/2018, de 19 de enero. Ref. BOE-A-2018-716
 

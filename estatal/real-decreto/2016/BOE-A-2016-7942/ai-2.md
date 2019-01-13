@@ -13,9 +13,7 @@
 | 2. Valoración de la capacidad de la entidad prestadora del servicio de formación (Máximo 15 puntos, cada uno de los subapartados son sumatorios): |  |
 | 2.1 Entidad que cuente con personal docente con titulación universitaria en nómina, con titulación relacionada. | 5 |
 | 2.2 Entidad que cuente con personal docente en nómina con el grado de doctor. | 5 |
-| 2.3 Entidad que disponga de estructura de medios técnicos y materiales suficientes para desarrollar la actividad: |  |
-| 2.3.1 Medios técnicos propios para realizar la formación. | 3 |
-| 2.3.2 Personal de apoyo propio para realizar la formación. | 2 |
+| 2.3 Entidad que disponga de estructura de medios técnicos y materiales suficientes para desarrollar la actividad. | 5 |
 | 3. Valoración del empleo de tecnologías de la información y comunicación (Máximo 3 puntos): |  |
 | Entidad cuya solicitud incluya en el momento de la solicitud, el uso de tecnologías de la información y de la comunicación. | 3 |
 | 4. Valoración de la recepción con anterioridad de ayudas para programas de formación, dirigidos a los profesionales del medio rural y financiados por el Fondo Europeo Agrario de Desarrollo Rural y el Ministerio de Agricultura, Alimentación y Medio Ambiente (máximo 5 puntos): |  |
@@ -56,3 +54,5 @@
 | 8.2.1 Programa de Formación propuesto adaptado para cubrir al menos 2 sectores de acuerdo con los establecidos en el Real Decreto 550/2014. | 1 |
 | 8.2.2 Programa de Formación propuesto adaptado para cubrir al menos 3 sectores de acuerdo con los establecidos en el Real Decreto 550/2014. | 3 |
 | 8.2.3 Programa de Formación propuesto adaptado para cubrir al menos 5 sectores de acuerdo con los establecidos en el Real Decreto 550/2014. | 5 |
+
+> Se modifica el apartado 2.3 por el art. 5.12 del Real Decreto 2/2019, de 11 de enero. Ref. BOE-A-2019-318

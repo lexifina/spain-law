@@ -12,7 +12,7 @@
 | 2. Valoración de la capacidad profesional de la entidad prestadora del servicio de demostración e información (Máximo 15 puntos, cada uno de los subapartados son sumatorios) |
 | 2.1 Entidad cuyos profesionales implicados tengan experiencia acreditada mínima de 2 años en el desempeño de estas actividades. | 5 |
 | 2.2 Entidades con adecuación numérica de personal capaz de llevar a cabo la actividad de demostración y/o información propuesta. | 5 |
-| 2.3 Entidades que dispongan de medios técnicos y materiales suficientes para desarrollar la actividad: 2.3.1 Instalaciones propias para realizar la demostración e información. 2.3.2 Medios técnicos propios para realizar la demostración e información. 2.3.3 Personal de apoyo propio para realizar la demostración e información. | 2 1 2 |
+| 2.3 Entidades que dispongan de medios técnicos y materiales suficientes para desarrollar la actividad. | 5 |
 | 3. Valoración del empleo de tecnologías de la información y comunicación (Máximo 3 puntos) |
 | Entidad cuya solicitud incluya en el momento de la solicitud, el uso de tecnologías de la información y de la comunicación. | 3 |
 | 4. Valoración de la recepción con anterioridad de ayudas para programas de demostración e información, dirigidos a los profesionales del medio rural y financiados por el Fondo Europeo Agrícola de Desarrollo Rural y el Ministerio de Agricultura, Alimentación y Medio Ambiente (máximo 5 puntos) |
@@ -45,3 +45,5 @@
 | 8.2.1 Se cubren al menos 2 sectores de acuerdo con los establecidos en el Real Decreto 550/2014. | 0,5 |
 | 8.2.2 Se cubren al menos 3 sectores de acuerdo con los establecidos en el Real Decreto 550/2014. | 1 |
 | 8.2.3 Se cubren al menos 5 sectores de acuerdo con los establecidos en el Real Decreto 550/2014. | 2,5 |
+
+> Se modifica el subapartado 2.3 por el art. 2.11 del Real Decreto 2/2019, de 11 de enero. Ref. BOE-A-2019-318

@@ -12,8 +12,8 @@
 | 1.1.4 EAP con empleo de jóvenes menores de 41 años con un porcentaje superior al 15 por cien. | 2 |
 | 1.1.5 Ámbito de actuación de la EAP superior al ámbito de dos comunidades autónomas. | 1 |
 | 1.1.6 Ámbito de actuación de la EAP superior a cinco provincias. | 1 |
-| 1.1.7 Por contener, al menos, un 25% de mujeres en el Consejo de dirección. | 2 |
-| 1.1.8 Por contener, al menos, un 10 por cien de menores de 41 años en el Consejo de dirección. | 2 |
+| 1.1.7 Por contener, al menos, un 25 % de mujeres en el Consejo rector. | 2 |
+| 1.1.8 Por contener, al menos, un 10 % de menores de 41 años en el Consejo rector. | 2 |
 | 1.2 Valoración respecto a la capacidad de la EAP para realizar la inversión (Máximo 20 puntos). |  |
 | 1.2.1 EAP con ratio patrimonio neto/activo no corriente superior o igual a 0,5 e inferior a 0,7 (en el año anterior a presentar la solicitud de inversión). | 10 |
 | 1.2.2 EAP con ratio patrimonio neto/activo no corriente superior o igual a 0,7 (en el año anterior a presentar la solicitud de inversión). | 20 |
@@ -51,6 +51,8 @@
 | 2.7.8 Si el proyecto de inversión contribuye a la mejora de la sostenibilidad, la reducción de los impactos ambientales y/o la mitigación al cambio climático. | 2 |
 | 2.8 Las inversiones deberán tener en cuenta las mejoras o nuevas técnicas disponibles (MTD) propias de su sector de actividad que consigan mejores niveles productivos con menor consumo de recursos. Para acreditar esto, en la memoria que acompañe a la solicitud de ayuda se justificará expresamente y de forma razonada en qué medida las inversiones han tenido en cuenta las MTD (máximo 11 puntos): |  |
 | 2.8.1 Si el proyecto de inversión contempla las mejoras o nuevas técnicas disponibles (MTD) propias de su sector de actividad. | 11 |
+
+> Se modifican los apartados 1.1.7 y 1.1.8 por el art. 1.10 del Real Decreto 2/2019, de 11 de enero. Ref. BOE-A-2019-318
 
 > Se modifica los apartados 1.1.4, 1.1.8 y 2.3.2 por el art. 1.16 del Real Decreto 21/2018, de 19 de enero. Ref. BOE-A-2018-716
 
