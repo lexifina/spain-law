@@ -1,0 +1,9 @@
+## Disposición final tercera. Aprobación de las metodologías de peajes y cargos.
+
+1. Antes del 1 de enero de 2020 el Gobierno, a propuesta del titular del Ministerio para la Transición Ecológica, previo informe de la Comisión Nacional de los Mercados y la Competencia, y previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, aprobará mediante real decreto las metodologías de cálculo de los cargos que cubrirán los costes del sistema eléctrico y del sistema gasista.
+
+Asimismo, la Comisión Nacional de los Mercados y la Competencia aprobará antes del 1 de enero de 2020, previa adopción, en su caso, de las correspondientes orientaciones de política energética, las circulares normativas con las metodologías para el cálculo de los cánones y peajes de acceso a las redes, así como las retribuciones afectas a las actividades reguladas de los sectores de electricidad y de gas.
+
+2. Tanto el Gobierno como la Comisión Nacional de los Mercados y la Competencia aprobarán las metodologías para el cálculo de los cargos, retribuciones reguladas, cánones y peajes de acceso con suficiente antelación respecto de su entrada en vigor y garantizarán que el impacto de la aplicación de las referidas metodologías en los consumidores y demás agentes de los sistemas gasista y eléctrico sea gradual.
+
+A estos efectos, el Gobierno y la Comisión Nacional de los Mercados y la Competencia establecerán periodos transitorios en las citadas metodologías de peajes, cánones y cargos, según corresponda, de forma que las variaciones del conjunto de peajes, cánones y cargos resultantes de aplicar las nuevas metodologías respecto de los vigentes a la entrada en vigor de este Real Decreto-ley se absorban de manera gradual en un periodo máximo de cuatro años desde la entrada en vigor de la metodología de cargos que establezca el Gobierno.
