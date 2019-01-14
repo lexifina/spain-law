@@ -12,8 +12,6 @@ b. De una marca de garantía o colectiva. Por la primera clase solicitada: 277,8
 
 c. De un registro internacional (tasa nacional): 41,43 euros.
 
-d. De una marca comunitaria (tasa de recepción y transmisión): 27,61 euros.
-
 1.2 Tasa de división. Por cada solicitud o registro divisional resultante: 52,81 euros.
 
 1.3 Tasa de restablecimiento de derechos: 105,35 euros.
@@ -40,6 +38,8 @@ Cuando la presentación del recurso se efectúe por medios telemáticos: reducci
 
 1.11 Quinquenios sucesivos (régimen transitorio): 79,90 euros.
 
+1.12 Nulidad o caducidad: por la presentación de una solicitud de nulidad o caducidad: 200 euros.
+
 TARIFA SEGUNDA. Inscripción de cesión de derechos y otras modificaciones.
 
 2.1 Por la inscripción o cancelación de cambios en la titularidad, licencias, derechos reales, opciones de compra u otras trabas o medidas cautelares o de ejecución. Por cada registro afectado: 32,44 [hasta un máximo de 6.768,37 euros].
@@ -59,6 +59,8 @@ TARIFA CUARTA. Publicaciones.
 4.1 Por la publicación en el Boletín Oficial de la Propiedad Industrial, a solicitud del recurrente, del anuncio de la interposición de un recurso contencioso-administrativo en materia de signos distintivos: 142,24 euros.
 
 4.2 Por la publicación en el Boletín Oficial de la Propiedad Industrial a instancia de parte, del fallo de un recurso contencioso-administrativo sobre signos distintivos: 142,24 euros.
+
+> Se modifica la tarifa 1 por el art. 1.40 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
 
 > Se modifica por el art. 95 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-89
 
