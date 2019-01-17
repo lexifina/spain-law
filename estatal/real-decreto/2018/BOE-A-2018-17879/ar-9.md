@@ -1,0 +1,3 @@
+## Artículo 9. Memoria.
+
+Los organismos rectores de mercados regulados elaborarán una memoria en la que deberán detallar la forma en que darán cumplimiento a los requisitos técnicos, organizativos, de funcionamiento, y de gestión de riesgos exigidos por los artículos 6 a 17 del Real Decreto-ley 21/2017, de 29 de diciembre, y la normativa europea directamente aplicable para desempeñar sus funciones. La persona titular del Ministerio de Economía y Empresa o, mediante su habilitación expresa, la CNMV, podrán regular el modelo al que deba ajustarse dicha memoria. El organismo rector del mercado regulado mantendrá actualizada la citada memoria, cuyas modificaciones se remitirán a la CNMV.

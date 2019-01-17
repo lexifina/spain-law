@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 257, de 26 de octubre de 1989. Ref. BOE-A-1989-25110.
+Norma derogada, con efectos de 17 de enero de 2019, por la disposición derogatoria única.3 del Real Decreto 1464/2018, de 21 de diciembre. Ref. BOE-A-2018-17879#dd

@@ -1,23 +1,27 @@
-## Artículo 31 bis. Obligaciones en materia de gobierno corporativo y política de remuneraciones.
+## Artículo 31 bis. Unidad de gestión de riesgos.
 
-1. A los efectos de lo dispuesto en el artículo 70 ter.dos.5 de la Ley 24/1998, de 28 de julio, en lo que se refiere a su remisión al artículo 34 de la Ley 10/2014, de 26 de junio, se entenderá por beneficios discrecionales de pensión, los pagos discrecionales concedidos por una empresa de servicios de inversión en base individual a su personal, en virtud de un plan de pensiones o instrumento distinto que otorgue prestaciones de jubilación y que puedan asimilarse a la remuneración variable. En ningún caso incluirá beneficios concedidos a un empleado de conformidad con el sistema de pensiones de la empresa.
+1. Cuando resulte proporcionado en función de la naturaleza, escala y complejidad de su actividad empresarial y de la naturaleza y gama de servicios de inversión que presten, las empresas de servicios de inversión, de conformidad con el artículo 192 bis.3 del texto refundido de la Ley del Mercado de Valores, deberán crear y mantener una unidad de gestión de riesgos que funcione de manera independiente y que desarrolle las siguientes funciones:
 
-2. A efectos de la remisión prevista en el artículo 70 ter.dos.5 de la Ley 24/1998, de 28 de julio, en lo que afecta al artículo 34.1.p) de la Ley 10/2014, de 26 de junio, la Comisión Nacional del Mercado de Valores podrá:
+a) Aplicación de la política y de los procedimientos señalados en el artículo 23.1 del Reglamento Delegado (UE) 2017/565 de la Comisión, de 25 de abril de 2016.
 
-a) Imponer restricciones a las empresas de servicios de inversión para el uso de los instrumentos señalados en dicho artículo de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+b) Presentación de una imagen completa de toda la gama de riesgos a los que se encuentre expuestos la empresa de servicios de inversión.
 
-b) Fijar los criterios necesarios para permitir que la remuneración variable se contraiga en función de los resultados financieros negativos de las empresas de servicios de inversión.
+c) Determinación, cuantificación y notificación adecuada de todos los riesgos importantes.
 
-c) Exigir a las empresas de servicios de inversión y sus grupos que limiten la remuneración variable en forma de porcentaje de los ingresos totales cuando ello no sea compatible con el mantenimiento de una base de capital sólida.
+d) Elaboración de informes y asesoramiento al órgano de administración sobre evoluciones específicas del riesgo que afecten o puedan afectar a la empresa de servicios de inversión. Así como de los informes previstos en el artículo 35.2 de este real decreto.
 
-3. En relación con las empresas de servicios de inversión que hayan percibido apoyo financiero en los términos previstos en el artículo 35 de la Ley 10/2014, de 26 de junio, al que se refiere el artículo 70 ter.dos.7 de la Ley 24/1998, de 28 de julio, y sin perjuicio del resto de normativa aplicable, corresponde a la Comisión Nacional del Mercado de Valores autorizar expresamente la cuantía, devengo y abono de cualquier retribución variable a los administradores y directivos, pudiendo también establecer, si procede, límites a su remuneración total.
+e) Participación activa en la elaboración de la estrategia de riesgo de la empresa de servicios de inversión y en todas las decisiones importantes de gestión de riesgos.
 
-4. Sin perjuicio de lo anterior, la Comisión Nacional del Mercado de Valores dará cumplimiento a lo previsto en el artículo 70 ter.dos de la Ley 24/1988, de 28 de julio, estableciendo criterios sobre los conceptos y políticas de remuneraciones contenidos en los artículos 32 a 35 de la Ley 10/2014, de 26 de junio, y en particular podrá establecer criterios específicos para la determinación de la relación entre los componentes fijos y variables de la remuneración total.
+2. Independientemente de la existencia o no de la unidad de gestión de riesgos, todas las empresas de servicios de inversión deberán poder demostrar que las políticas y procedimientos adoptados de conformidad con lo dispuesto en el apartado anterior cumplen lo dispuesto en él y son eficaces.
 
-5. De conformidad con el artículo 70 ter.4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, la Comisión Nacional del Mercado de Valores podrá tener por cumplida la obligación de constituir los comités previstos en los artículos 70 ter. Uno y 70 ter.dos.6 de la citada ley, siempre que:
+3. El director de la unidad de gestión de riesgos, prevista en el artículo 192 bis.3 del texto refundido de la Ley del Mercado de Valores, será un alto directivo independiente, que no desempeñará funciones operativas y que asumirá específicamente la responsabilidad de la función de gestión de riesgos y no podrá ser revocado de su cargo sin la aprobación previa del órgano de administración.
 
-a) Se trate de empresas de servicios de inversión filiales que hayan sido exceptuadas de la aplicación de los requisitos prudenciales de forma individual, en virtud de los artículos 7 o 10 del Reglamento (UE) n.º 575/2013, de 26 de junio de 2013.
+En todo caso, se entenderán por funciones operativas aquellas que involucren responsabilidades ejecutivas o de gestión en las líneas o áreas de negocio de la empresa de servicios de inversión.
 
-b) Las empresas de servicios de inversión matrices constituyan tales comités de conformidad con los artículos 31 quáter y 31 quinquies y asuman sus funciones para con las filiales.
+4. Para el ejercicio de sus funciones, el director de la unidad de gestión de riesgos tendrá acceso directo al órgano de administración.
+
+5. Cuando la naturaleza, escala y complejidad de las actividades de la empresa de servicios de inversión no justifique que se nombre específicamente a una persona, podrá desempeñar dicha función otro alto directivo de la empresa de servicios de inversión, siempre que no exista conflicto de intereses.
+
+> Se modifica, con efectos desde el 17 de abril de 2019, por la disposición final 4.27 del Real Decreto 1464/2018, de 21 de diciembre. Ref. BOE-A-2018-17879#df-4
 
 > Se añade por el art. único.10 del Real Decreto 358/2015, de 8 de mayo. Ref. BOE-A-2015-5164.

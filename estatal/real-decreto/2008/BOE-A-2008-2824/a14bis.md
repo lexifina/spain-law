@@ -1,36 +1,28 @@
-## Artículo 14 bis. Requisitos de honorabilidad comercial y profesional.
+## Artículo 14 bis. Requisitos específicos de autorización.
 
-1. Concurrirá la honorabilidad comercial y profesional exigida en el artículo 67.4.a) de la Ley 24/1988, de 28 de julio, del Mercado de Valores, y en el artículo 14.1.e) de este real decreto, en quienes hayan venido mostrando una conducta personal, comercial y profesional que no arroje dudas sobre su capacidad para desempeñar una gestión sana y prudente de la empresa de servicios de inversión.
+1. De conformidad con lo previsto en el artículo 153 del texto refundido de la Ley del Mercado de Valores, las personas físicas que soliciten una autorización para operar como empresas de asesoramiento financiero deberán cumplir para obtener y conservar la correspondiente autorización, además de los requisitos previstos en las letras h) y j) del apartado 1 del artículo 14 de este real decreto, las siguientes condiciones:
 
-2. Para valorar la concurrencia de honorabilidad comercial y profesional se deberá considerar toda la información disponible, incluyendo:
+a) Tener capacidad legal para ejercer el comercio.
 
-a) La trayectoria del cargo en cuestión en su relación con las autoridades de regulación y supervisión; las razones por las que hubiera sido despedido o cesado en puestos o cargos anteriores; su historial de solvencia personal y de cumplimiento de sus obligaciones; su actuación profesional, si hubiese ocupado cargos de responsabilidad en empresas de servicios de inversión que hayan estado sometidas a un proceso de actuación temprana o resolución; o si hubiera estado inhabilitado conforme a la Ley 22/2003, de 9 de julio, Concursal, mientras no haya concluido el período de inhabilitación fijado en la sentencia de calificación del concurso y los quebrados y concursados no rehabilitados en procedimientos concursales anteriores a la entrada en vigor de la referida ley.
+b) Tener su residencia en España.
 
-b) La condena por la comisión de delitos o faltas y la sanción por la comisión de infracciones administrativas teniendo en cuenta:
+c) Cumplir con los requisitos de idoneidad previstos en el artículo 184 bis.1 del texto refundido de la Ley del Mercado de Valores.
 
-1.º El carácter doloso o imprudente del delito, falta o infracción administrativa.
+d) Cumplir con los requisitos financieros establecidos en el artículo 15.1.e) inciso 2.º
 
-2.º Si la condena o sanción es o no firme.
+e) Disponer de mecanismos alternativos que aseguren la gestión adecuada y prudente de la empresa de asesoramiento financiero y la debida consideración del interés de sus clientes y de la integridad del mercado.
 
-3.º La gravedad de la condena o sanción impuestas.
+2. Asimismo, será de aplicación lo dispuesto en el artículo 8 del Reglamento Delegado (UE) 2017/1943 de la Comisión, de 14 de julio de 2016, para las empresas de asesoramiento financiero que sean personas físicas y para las que sean personas jurídicas dirigidas por una única persona física.
 
-4.º La tipificación de los hechos que motivaron la condena o sanción, especialmente si se tratase de delitos societarios, contra el patrimonio y contra el orden socioeconómico, contra la Hacienda Pública y contra la Seguridad Social, delitos de blanqueo de capitales o receptación o si supusiesen infracción de las normas reguladoras del ejercicio de la actividad bancaria, de seguros o del mercado de valores, o de protección de los consumidores.
+3. Cuando la solicitud de autorización se refiera a la prestación del servicio de gestión de un Sistema Multilateral de Negociación o un Sistema Organizado de Contratación, la empresa de servicios de inversión, deberá, además, someter a la aprobación de la Comisión Nacional del Mercado de Valores unas normas internas de funcionamiento del sistema multilateral de negociación o del sistema organizado de contratación conforme a lo dispuesto en el artículo 153 del texto refundido de la Ley del Mercado de Valores que deberán:
 
-5.º Si los hechos que motivaron la condena o sanción se realizaron en provecho propio o en perjuicio de los intereses de terceros cuya administración o gestión de negocios le hubiese sido confiada, y en su caso, la relevancia de los hechos por los que se produjo la condena o sanción en relación con las funciones que tenga asignadas o vayan a asignarse al cargo en cuestión en la empresa de servicios de inversión.
+a) Establecer normas claras y transparentes que regulen el acceso al Sistema Multilateral de Negociación y al Sistema Organizado de Contratación de acuerdo con las condiciones establecidas y que fijen los criterios para determinar los instrumentos financieros que puedan negociarse en el sistema.
 
-6.º La prescripción de los hechos ilícitos de naturaleza penal o administrativa o la posible extinción de la responsabilidad penal.
+b) Establecer normas y procedimientos que regulen la negociación en estos sistemas de manera justa y ordenada, estableciendo criterios objetivos que permitan una ejecución eficaz de las órdenes.
 
-7.º La existencia de circunstancias atenuantes y la conducta posterior desde la comisión del delito o infracción.
+c) Implantar mecanismos para la adecuada gestión de los aspectos técnicos del sistema, incluidos procedimientos de contingencia eficaces para hacer frente a posibles perturbaciones de los sistemas.
 
-8.º La reiteración de condenas o sanciones por delitos, faltas o infracciones.
-
-A efectos de valorar lo previsto en esta letra, la empresa de servicios de inversión remitirá a la Comisión Nacional del Mercado de Valores un certificado de antecedentes penales de la persona objeto de valoración. Asimismo, la Comisión Nacional del Mercado de Valores consultará las bases de datos de la Autoridad Bancaria Europea, la Autoridad Europea de Valores y Mercados y la Autoridad Europea de Seguros y Pensiones de Jubilación sobre sanciones administrativas y podrá establecer un comité de expertos independientes con el objeto de informar los expedientes de valoración en los que concurra condena por delitos o faltas.
-
-c) La existencia de investigaciones relevantes fundamentadas en indicios racionales, tanto en el ámbito penal como administrativo, sobre alguno de los hechos mencionados en la letra b).4º. No se considerará que hay falta de honorabilidad sobrevenida por la mera circunstancia de que, estando en el ejercicio de su cargo, un consejero, director general o asimilado, u otro empleado responsable del control interno o que ocupe un puesto clave en el desarrollo de la actividad general de la entidad sea objeto de dichas investigaciones.
-
-3. Si durante el ejercicio de su actividad concurriese en la persona evaluada, alguna de las circunstancias previstas en el apartado anterior y esta resultase relevante para la evaluación de su honorabilidad, la empresa de servicios de inversión lo comunicará a la Comisión Nacional del Mercado de Valores en el plazo máximo de quince días hábiles desde su conocimiento.
-
-4. Los miembros del consejo de administración, directores generales o asimilados y otros empleados que sean responsables de las funciones de control interno u ocupen puestos clave para el desarrollo diario de la actividad de la empresa de servicios de inversión que tuviesen conocimiento de que concurren en su persona alguna de las circunstancias descritas en el apartado 2, deberán informar de ello a su entidad.
+> Se modifica, con efectos desde el 17 de abril de 2019, por la disposición final 4.15 del Real Decreto 1464/2018, de 21 de diciembre. Ref. BOE-A-2018-17879#df-4
 
 > Se añade por el art. único.3 del Real Decreto 358/2015, de 8 de mayo. Ref. BOE-A-2015-5164.
 

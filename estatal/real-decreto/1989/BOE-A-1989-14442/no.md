@@ -1,1 +1,1 @@
-> Incluye las correcciones de erratas publicadas en BOE núms. 152, de 27 de junio de 1989. Ref. BOE-A-1989-14731. y 171, de 19 de julio de 1989. Ref. BOE-A-1989-17116.
+Norma derogada, con efectos de 17 de enero de 2019, por la disposición derogatoria única.2 del Real Decreto 1464/2018, de 21 de diciembre. Ref. BOE-A-2018-17879#dd
