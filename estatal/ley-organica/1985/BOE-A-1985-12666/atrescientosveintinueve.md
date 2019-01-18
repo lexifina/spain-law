@@ -8,8 +8,6 @@
 
 Los que obtuvieran plaza, así como los que la obtuvieran cuando las vacantes tuvieran que cubrirse por ascenso, deberán participar antes de tomar posesión de su nuevo destino en las actividades de especialización en materia de menores y en materia de violencia de género que establezca el Consejo General del Poder Judicial.
 
-3 bis. Los que obtuvieran plaza por concurso o ascenso en Juzgados de Violencia sobre la Mujer, en Juzgados de lo Penal especializados en violencia de género o en Secciones penales y civiles especializadas en violencia de género deberán participar, antes de tomar posesión de su nuevo destino, en las actividades de especialización en materia de violencia de género que establezca el Consejo General del Poder Judicial.
-
 4. Los concursos para la provisión de los Juzgados de lo Mercantil se resolverán en favor de quienes, acreditando la especialización en los asuntos propios de dichos Juzgados obtenida mediante la superación de las pruebas de especialización que reglamentariamente determine el Consejo General del Poder Judicial, tengan mejor puesto en su escalafón. En su defecto, se cubrirán con los magistrados que acrediten haber permanecido más años en el orden jurisdiccional civil. A falta de éstos, por el orden de antigüedad establecido en el apartado 1.
 
 Los que obtuvieran plaza deberán participar antes de tomar posesión en su nuevo destino en las actividades específicas de formación que el Consejo General del Poder Judicial establezca reglamentariamente.
@@ -20,7 +18,15 @@ En el caso de que las vacantes hubieran de cubrirse por ascenso, el Consejo Gene
 
 Los concursos para la provisión de plazas de los Juzgados Centrales de lo Contencioso-Administrativo se resolverán en favor de quienes ostenten la especialidad en dicho orden jurisdiccional; en su defecto, por quienes hayan prestado servicios en dicho orden durante ocho años dentro de los doce años inmediatamente anteriores a la fecha de la convocatoria; y en defecto de estos criterios, por quien ostente mejor puesto en el escalafón. En ese último caso los que obtuvieren plaza deberán participar antes de tomar posesión en su nuevo destino en las actividades específicas de formación que el Consejo General del Poder Judicial establezca reglamentariamente para los supuestos de cambio de orden jurisdiccional.
 
-6. Los miembros de la carrera judicial que, destinados en Juzgados de lo Contencioso-Administrativo, Juzgados de lo Social, Juzgados de lo Mercantil o Juzgados de Primera Instancia con competencias en materias mercantiles, adquieran condición de especialista en sus respectivos órdenes, podrán continuar en su destino.
+6. Los miembros de la carrera judicial que, destinados en Juzgados de lo Contencioso Administrativo, Juzgados de lo Social, Juzgados de lo Mercantil, Juzgados de Violencia sobre la Mujer o Juzgados de Primera Instancia con competencias en materias mercantiles, adquieran condición de especialista en sus respectivos órdenes, podrán continuar en su destino.
+
+7. Los concursos para la provisión de los Juzgados de Violencia sobre la Mujer y Juzgados de lo Penal especializados en Violencia sobre la Mujer se resolverán en favor de quienes, acreditando la especialización en los asuntos propios de dichos juzgados obtenida mediante la superación de las pruebas selectivas que reglamentariamente determine el Consejo General del Poder Judicial, tengan mejor puesto en su escalafón.
+
+En su defecto, se cubrirán con los magistrados que acrediten haber permanecido más años ocupando plaza en el orden jurisdiccional penal. A falta de éstos, por el orden de antigüedad establecido en el apartado 1. Los que obtuvieran plaza de estas dos últimas formas deberán participar antes de tomar posesión en su nuevo destino en las actividades específicas de formación que el Consejo General del Poder Judicial establezca reglamentariamente.
+
+En el caso de que las vacantes hubieran de cubrirse por ascenso, el Consejo General del Poder Judicial establecerá igualmente actividades específicas y obligatorias de formación que deberán realizarse antes de la toma de posesión de dichos destinos por aquellos jueces a quienes corresponda ascender.
+
+> Se suprime el apartado 3 bis, se modifica el 6 y se añade el 7 por el art. único.8 de la Ley Orgánica 5/2018, de 28 de diciembre. Ref. BOE-A-2018-17988#au
 
 > Se modifica el apartado 3 por el art. único.45 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 

@@ -20,11 +20,9 @@ h) De los procedimientos de decomiso autónomo por los delitos para cuyo conocim
 
 2. Asimismo, los juzgados de instrucción conocerán de la autorización del internamiento de extranjeros en los centros de internamiento, así como del control de la estancia de éstos en los mismos y en las salas de inadmisión de fronteras. También conocerán de las peticiones y quejas que planteen los internos en cuanto afecten a sus derechos fundamentales.
 
-> Téngase en cuenta que esta última actualización de las letras b) y h) del apartado 1 establecida por la disposición final 1.5 de la Ley Orgánica 13/2015, de 5 de octubre Ref. BOE-A-2015-10725. entra en vigor el 6 de diciembre de 2015, según determina su disposición final 4.
+3. Los procedimientos de revisión de medidas por modificación de circunstancias podrán ser tramitados por el juez o jueza inicialmente competente.
 
-> Redacción anterior:
-
-> "b) Les corresponde asimismo dictar sentencia de conformidad con la acusación en los casos establecidos por la Ley."
+> Se añade el apartado 3 por el art. único.1 de la Ley Orgánica 5/2018, de 28 de diciembre. Ref. BOE-A-2018-17988#au
 
 > Se modifica la letra b) y se añade la h) al apartado 1 por la disposición final 1.5 de la Ley Orgánica 13/2015, de 5 de octubre Ref. BOE-A-2015-10725.
 

@@ -6,6 +6,8 @@ La Escuela Judicial llevará a cabo la coordinación e impartición de la enseñ
 
 2. El curso de selección incluirá necesariamente: un programa teórico de formación multidisciplinar, un período de prácticas tuteladas en diferentes órganos de todos los órdenes jurisdiccionales y un período en el que los jueces en prácticas desempeñarán funciones de sustitución y refuerzo. Solamente la superación de cada uno de ellos posibilitará el acceso al siguiente.
 
+En la fase teórica de formación multidisciplinar se incluirá el estudio en profundidad de las materias que integran el principio de no discriminación y la igualdad entre hombres y mujeres, y en particular de la legislación especial para la lucha contra la violencia sobre la mujer en todas sus formas.
+
 3. Superada la fase teórica de formación multidisciplinar, se iniciará el período de prácticas. En su primera fase, los jueces en prácticas tuteladas, que se denominarán jueces adjuntos, ejercerán funciones de auxilio y colaboración con sus titulares. En este período sus funciones no podrán exceder de la redacción de borradores o proyectos de resolución que el juez o ponente podrá, en su caso, asumir con las modificaciones que estime pertinentes. También podrán dirigir vistas o actuaciones bajo la supervisión y dirección del juez titular.
 
 4. Superada asimismo esta fase de prácticas tuteladas, existirá un periodo obligatorio en el que los jueces en prácticas desempeñarán labores de sustitución y refuerzo conforme a lo previsto en los artículos 210 y 216 bis, teniendo preferencia sobre los jueces sustitutos en cualquier llamamiento para el ejercicio de tales funciones.
@@ -21,6 +23,8 @@ En ningún caso la duración del curso teórico de formación será inferior a n
 6. Los que superen el curso teórico y práctico serán nombrados jueces por el orden de la propuesta hecha por la Escuela Judicial.
 
 7. El nombramiento se extenderá por el Consejo General del Poder Judicial, mediante orden, y con la toma de posesión quedarán investidos de la condición de juez.
+
+> Se añade un párrafo segundo al apartado 2 por el art. único.4 de la Ley Orgánica 5/2018, de 28 de diciembre. Ref. BOE-A-2018-17988#au
 
 > Se modifica por el art. único.15 de la Ley Orgánica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.
 

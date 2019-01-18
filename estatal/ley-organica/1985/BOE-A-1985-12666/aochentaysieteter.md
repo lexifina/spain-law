@@ -46,6 +46,10 @@ d) Que se hayan iniciado ante el Juez de Violencia sobre la Mujer actuaciones pe
 
 5. En todos estos casos está vedada la mediación.
 
+6. El Consejo General del Poder Judicial deberá estudiar, en el ámbito de sus competencias, la necesidad o carencia de dependencias que impidan la confrontación de la víctima y el agresor durante el proceso, así como impulsar, en su caso, la creación de las mismas, en colaboración con el Ministerio de Justicia y las Comunidades Autónomas competentes. Se procurará que estas mismas dependencias sean utilizadas en los casos de agresiones sexuales y de trata de personas con fines de explotación sexual. En todo caso, estas dependencias deberán ser plenamente accesibles, condición de obligado cumplimiento de los entornos, productos y servicios con el fin de que sean comprensibles, utilizables y practicables por todas las mujeres y menores víctimas sin excepción.
+
+> Se añade el apartado 6 por el art. único.2 de la Ley Orgánica 5/2018, de 28 de diciembre. Ref. BOE-A-2018-17988#au
+
 > Se modifican las letras a) y d) y se añade la g) al apartado 1 por el art. único.25 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Se añade la letra f) al apartado 1 por el art. único.3 de la Ley Orgánica 6/2014, de 29 de octubre. Ref. BOE-A-2014-11063.
