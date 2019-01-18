@@ -44,6 +44,10 @@ Excepcionalmente, de forma motivada, y cuando las necesidades del servicio así 
 
 4.º Tomar conocimiento de los planes anuales de sustitución elaborados por las Juntas de Jueces, aprobarlos provisionalmente en los términos y, en su caso, con las correcciones que procedan y remitirlos al Consejo General del Poder Judicial para su aprobación definitiva. Además, velarán por su cumplimiento.
 
+5.º Resolver las cuestiones que pueda suscitar el funcionamiento de las secciones previstas en el artículo 437.2, sin perjuicio de la facultad de uniformización que por vía reglamentaria pueda ejercitar el Consejo General del Poder Judicial, así como del control de legalidad que corresponda efectuar a dicho órgano.
+
+> Se añade el numeral 5º al apartado 2 por el art. único.2 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
+
 > Se modifican las referencias a los "Secretarios judiciales" en los apartados 12 y 13 por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
 > Se modifica el apartado 1.4º y añade el 2.4º por el art. único.2 y 3 de la Ley Orgánica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.

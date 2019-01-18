@@ -1,6 +1,6 @@
 ## Artículo 599.
 
-1. El Pleno conocerá exclusivamente de las siguientes materias:
+1. El Pleno conocerá de las siguientes materias:
 
 1.ª La propuesta de nombramiento, por mayoría de tres quintos, de los dos Magistrados del Tribunal Constitucional cuya designación corresponde al Consejo General del Poder Judicial.
 
@@ -12,7 +12,7 @@
 
 5.ª La interposición del conflicto de atribuciones entre órganos constitucionales del Estado.
 
-6.ª La designación de los Vocales componentes de las diferentes Comisiones.
+6.ª La elección y nombramiento de los Vocales componentes de las diferentes Comisiones.
 
 7.ª El ejercicio de la potestad reglamentaria en los términos previstos en esta Ley.
 
@@ -22,8 +22,16 @@
 
 10.ª La resolución de aquellos expedientes disciplinarios en los que la propuesta de sanción consista en la separación de la carrera judicial.
 
-11.ª La resolución de los recursos de alzada interpuestos contra los acuerdos sancionadores de la Comisión Disciplinaria.
+11.ª La resolución de los recursos de alzada interpuestos contra los acuerdos sancionadores de la Comisión Disciplinaria y los que se interpongan contra los de la Comisión Permanente.
 
-12.ª La aprobación de los informes sobre los anteproyectos de ley o de disposiciones generales que se sometan a su dictamen por el Gobierno o las Cámaras legislativas.
+12.ª La aprobación de los informes sobre los anteproyectos de ley o de disposiciones generales que se sometan a su dictamen por el Gobierno o las Cámaras legislativas y las Comunidades Autónomas.
+
+13.ª Las demás que le atribuye esta Ley, las que no estén conferidas a otros órganos del Consejo y aquellos asuntos que, por razones excepcionales, acuerde recabar para sí.
+
+2. El Pleno designará un máximo de dos Vocales por cada Comunidad Autónoma para que, sin perjuicio de las competencias de los respectivos Tribunales Superiores de Justicia, sirvan de cauce de interlocución entre las instituciones y autoridades del territorio y el Consejo General del Poder Judicial.
+
+> Se modifica por el art. único.53 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
+
+> Esta modificación no será de aplicación hasta la constitución del primer Consejo General del Poder Judicial que lo haga tras la entrada en vigor de la citada Ley Orgánica, según establece su disposición transitoria tercera.
 
 > Se añade por el art. único.1 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.

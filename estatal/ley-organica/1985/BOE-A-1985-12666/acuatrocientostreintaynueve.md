@@ -8,7 +8,7 @@ Asimismo, dentro de dichas unidades, el Ministerio de Justicia y las comunidades
 
 3. Los puestos de trabajo de estas unidades Administrativas, cuya determinación corresponderá al Ministerio de Justicia y a las comunidades autónomas con competencias asumidas, en sus respectivos ámbitos, podrán ser cubiertos con personal de los Cuerpos de funcionarios al servicio de la Administración de Justicia, de la Administración del Estado y de las comunidades autónomas que reúnan los requisitos y condiciones establecidas en la respectiva relación de puestos de trabajo.
 
-4. Los funcionarios que prestan sus servicios en las oficinas judiciales, a excepción de los Letrados de la Administración de Justicia, sin perjuicio de su dependencia funcional, dependen orgánicamente del Ministerio de Justicia o de las comunidades autónomas con competencias asumidas en sus respectivos ámbitos.
+> Se suprime el apartado 4 por el art. único.26 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se modifica la referencia a los "Secretarios judiciales" en el apartado 4 por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 

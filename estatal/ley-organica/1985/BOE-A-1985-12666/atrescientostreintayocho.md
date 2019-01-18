@@ -2,10 +2,12 @@
 
 Los Presidentes de la Audiencia Nacional, de los Tribunales Superiores de Justicia, de las Audiencias, de Sala de la Audiencia Nacional y de Sala de los Tribunales Superiores de Justicia, cesarán por alguna de las causas siguientes:
 
-1.º Por expiración de su mandato, salvo que sean confirmados en el cargo por sucesivos períodos de cinco años.
+1.º Por expiración de su mandato, salvo que sean confirmados por un único mandato de otros cinco años.
 
 2.º Por dimisión, aceptada por el Consejo General.
 
 3.º Por resolución acordada en expediente disciplinario.
+
+> Se modifica por el art. único.15 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se modifica el párrafo inicial por el art. único.81 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -4,10 +4,12 @@
 
 2. En la sesión constitutiva del Consejo General del Poder Judicial, que será presidida por el Vocal de más edad, deberán presentarse y hacerse públicas las diferentes candidaturas, sin que cada Vocal pueda proponer más de un nombre.
 
-3. La elección tendrá lugar en una sesión a celebrar entre tres y siete días más tarde, siendo elegido quien en votación nominal obtenga el apoyo de la mayoría de tres quintos de los miembros del Pleno; y, si en una primera votación ninguno de los candidatos resultare elegido, se procederá inmediatamente a una segunda votación exclusivamente entre los dos candidatos más votados en aquélla, resultando elegido quien obtenga mayor número de votos.
+3. La elección tendrá lugar en una sesión a celebrar entre tres y siete días más tarde, siendo elegido quien en votación nominal obtenga el apoyo de la mayoría de tres quintos de los miembros del Pleno.
 
 4. El Presidente del Tribunal Supremo será nombrado por el Rey mediante Real Decreto refrendado por el Presidente del Gobierno.
 
 5. El Presidente del Tribunal Supremo prestará juramento o promesa ante el Rey y tomará posesión de su cargo ante el Pleno de dicho Alto Tribunal.
+
+> Se modifica el apartado 3 por el art. único.52 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se añade por el art. único.1 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.

@@ -10,14 +10,18 @@
 
 Las citadas bases, que vincularán a la Administración y a los tribunales que han de juzgar las pruebas selectivas, sólo podrán ser modificadas con estricta sujeción a las normas de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-5. En las convocatorias se determinará el número de vacantes y el ámbito territorial por el que se ofertan. Las vacantes ubicadas en el territorio de una comunidad autónoma con competencias asumidas, se ofertarán por el ámbito territorial de la comunidad autónoma de que se trate, salvo renuncia expresa de las mismas, en cuyo caso serán objeto de agrupación.
+5. En las convocatorias, el Ministerio de Justicia determinará el número de vacantes y el ámbito territorial por el que se ofertan.
 
-Asimismo, cuando el número de plazas o el mejor desarrollo de los procesos selectivos lo aconseje se podrán agrupar las vacantes correspondientes a uno o varios territorios.
+Asimismo, cuando el número de plazas o el mejor desarrollo de los procesos selectivos lo aconseje, el Ministerio de Justicia podrá agrupar las vacantes correspondientes a uno o varios territorios.
 
-Los aspirantes podrán solicitar exclusivamente su participación por uno de los ámbitos territoriales que se expresen en la convocatoria y de resultar aprobados, serán destinados obligatoriamente, a alguna de las vacantes radicadas en el mismo.
+Los aspirantes podrán solicitar exclusivamente su participación por uno de los ámbitos territoriales que se expresen en la convocatoria.
 
-En ningún caso podrá declararse superado el proceso selectivo en cada ámbito a un número mayor de aspirantes que el de plazas objeto de la convocatoria, siendo nulas de pleno derecho las propuestas de aprobados que contravengan esta limitación.
+En ningún caso podrá declararse superado el proceso selectivo en cada ámbito a un número mayor de aspirantes que el de plazas objeto de la convocatoria. Los aspirantes que hubieran superado el proceso selectivo obtendrán destino en alguna de las vacantes radicadas en el mismo territorio por el que hubieran solicitado su participación.
+
+En el caso de que hubieran quedado plazas sin cubrir en alguno de los territorios, el Ministerio de Justicia podrá convocar una prueba selectiva adicional con dichas plazas a la que solo podrán concurrir los aspirantes que hubieran realizado el último ejercicio del proceso anterior.
 
 6. En los procesos selectivos serán admitidas las personas con minusvalías en igualdad de condiciones con los demás aspirantes. Las convocatorias no establecerán exclusiones por limitaciones psíquicas o físicas, sin perjuicio de las incompatibilidades con el desempeño de las tareas o funciones correspondientes. Para la realización de las pruebas se establecerán para las personas con minusvalía que lo soliciten las adaptaciones posibles en cuanto a tiempo y medios.
+
+> Se modifica el apartado 5 por el art. único.33 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -6,7 +6,7 @@
 
 2.ª Determinación y modificación de las demarcaciones judiciales, así como de su capitalidad.
 
-3.ª Fijación y modificación de la plantilla orgánica de Jueces y Magistrados, Letrados de la Administración de Justicia y personal al servicio de la Administración de Justicia.
+3.ª Fijación y modificación de la plantilla orgánica de jueces y magistrados.
 
 4.ª Estatuto orgánico de Jueces y Magistrados.
 
@@ -25,6 +25,8 @@
 3. Cuando no hubiera sido emitido informe en los plazos previstos en el apartado anterior, se tendrá por cumplido dicho trámite.
 
 4. El Gobierno remitirá dicho informe a las Cortes Generales en el caso de tratarse de anteproyectos de ley.
+
+> Se modifica el apartado 1.3ª por el art. único.45 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se modifican los apartados 2 y 3 y la referencia a los "Secretarios judiciales" y se añade el 4 por el art. único.109 y la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 

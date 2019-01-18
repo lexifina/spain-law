@@ -18,6 +18,8 @@ A tal efecto, se establecerán los mecanismos de coordinación necesarios entre 
 
 d) Las gratificaciones, destinadas a retribuir los servicios de carácter extraordinario prestados fuera de la jornada normal de trabajo.
 
+e) El complemento de carrera profesional, destinado a retribuir la progresión alcanzada por la persona funcionaria dentro del sistema de carrera horizontal.
+
 4. Además de las retribuciones señaladas anteriormente, los letrados de la Administración de Justicia podrán percibir las siguientes retribuciones, que tienen la condición de especiales:
 
 a) Las correspondientes a desempeño de servicios de guardia.
@@ -29,6 +31,8 @@ Estas retribuciones serán compatibles con todos los conceptos retributivos prev
 5. Los Letrados de la Administración de Justicia sustitutos percibirán las retribuciones correspondientes al puesto de trabajo desempeñado.
 
 Se reconocerán los trienios correspondientes a los servicios prestados que tendrán efectos retributivos conforme a lo establecido en la normativa vigente para los funcionarios de la Administración General del Estado. Este reconocimiento se efectuará previa solicitud del interesado.
+
+> Se añade la letra e) al apartado 3 por el art. único.27 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se modifica el primer párrafo del apartado 5 y la referencia a los "Secretarios judiciales" de los apartados 3 y 4 por el art. único.64 y la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167.
 

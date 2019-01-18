@@ -12,10 +12,14 @@ Los funcionarios tendrán derecho a percibir dos pagas extraordinarias al año p
 
 2. A efectos de complemento general de puesto, mediante real decreto se determinarán los puestos tipo de las distintas unidades que integran las Oficinas judiciales, así como otros servicios no jurisdiccionales, estableciéndose las valoraciones de cada uno de ellos. La cuantía se fijará en la Ley de Presupuestos Generales del Estado.
 
-3. La cuantía individualizada del complemento específico se fijará por el Ministerio de Justicia o el órgano competente de la comunidad autónoma, previa negociación con las organizaciones sindicales en sus respectivos ámbitos, al elaborar las relaciones de puestos de trabajo en función de la valoración de las condiciones particulares de los mismos. Todos los puestos de trabajo tendrán asignado un complemento específico. En ningún caso podrá asignarse más de un complemento específico a un puesto de trabajo.
+3. Mediante Real Decreto, previa negociación con las organizaciones sindicales, se establecerán los criterios, requisitos y las cuantías iniciales del complemento de carrera profesional que será igual para todos los cuerpos con independencia de dónde presten sus servicios.
 
-4. Corresponde al Ministerio de Justicia o al órgano competente de la comunidad autónoma, en sus respectivos ámbitos, la concreción individual de las cuantías del complemento de productividad y la determinación de los funcionarios con derecho a su percepción, de acuerdo con los criterios de distribución que se establezcan para los diferentes programas y objetivos. Por las citadas autoridades se establecerán fórmulas de participación de los representantes sindicales en su determinación concreta y el control formal de la asignación.
+4. La cuantía individualizada del complemento específico se fijará por el Ministerio de Justicia o el órgano competente de la Comunidad Autónoma, previa negociación con las organizaciones sindicales en sus respectivos ámbitos, al elaborar las relaciones de puestos de trabajo en función de la valoración de las condiciones particulares de los mismos. Todos los puestos de trabajo tendrán asignado un complemento específico. En ningún caso podrá asignarse más de un complemento específico a un puesto de trabajo.
 
-5. El Ministerio de Justicia y el órgano competente de las comunidades autónomas, en sus respectivos ámbitos, procederán a la asignación individual de las cuantías de las gratificaciones y a la determinación de los criterios para su percepción.
+5. Corresponde al Ministerio de Justicia o al órgano competente de la Comunidad Autónoma, en sus respectivos ámbitos, la concreción individual de las cuantías del complemento de productividad y la determinación de los funcionarios con derecho a su percepción, de acuerdo con los criterios de distribución que se establezcan para los diferentes programas y objetivos. Por las citadas autoridades se establecerán fórmulas de participación de los representantes sindicales en su determinación concreta y el control formal de la asignación.
+
+6. El Ministerio de Justicia y el órgano competente de las Comunidades Autónomas, en sus respectivos ámbitos, procederán a la asignación individual de las cuantías de las gratificaciones y a la determinación de los criterios para su percepción.
+
+> Se renumeran los apartados 3 a 5 como 4 a 6 y se añade un nuevo apartado 3 por el art. único.42 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se añade por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

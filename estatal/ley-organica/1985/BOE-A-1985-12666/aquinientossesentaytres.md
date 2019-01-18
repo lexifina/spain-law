@@ -2,8 +2,22 @@
 
 1. El Consejo General del Poder Judicial remitirá a las Cortes Generales anualmente una Memoria sobre el estado, funcionamiento y actividades del propio Consejo General del Poder Judicial y de los Juzgados y Tribunales, donde se incluirán las necesidades que, a su juicio, existan en materia de personal, instalaciones y recursos para el correcto desempeño de las funciones que la Constitución y las leyes asignan al poder judicial.
 
-2. En dicha Memoria se incluirá también un capítulo sobre el impacto de género en el ámbito judicial.
+2. En dicha Memoria se incluirán también sendos capítulos respecto a los siguientes ámbitos:
+
+a) Actividad del Presidente y Vocales del Consejo con gasto detallado.
+
+b) Impacto de género en el ámbito judicial.
+
+c) Informe sobre el uso de las lenguas cooficiales en la Justicia y, en particular, por parte de los jueces y magistrados en ejercicio de sus funciones.
 
 3. Las Cortes Generales, de acuerdo con los Reglamentos de las Cámaras, podrán debatir el contenido de la Memoria y solicitar la comparecencia del Presidente del Tribunal Supremo, a fin de responder a las preguntas que se le formulen acerca de la referida Memoria.
+
+4. Para contribuir a un mejor conocimiento del estado de la Justicia, con datos actualizados, anualmente el Presidente, además de lo previsto en los apartados anteriores en relación a la memoria, comparecerá en la Comisión de Justicia del Congreso de los Diputados para informar sobre los aspectos más relevantes del estado de la Justicia en España, en el marco de sus competencias.
+
+5. Excepcionalmente, el Congreso podrá solicitar informe con comparecencia ante la Comisión de Justicia de un Vocal, por razón de las funciones que le han sido encomendadas, previa solicitud motivada, al menos, de dos Grupos parlamentarios, y que deberá ser autorizada por la Mesa del Congreso.
+
+> Se modifica el apartado 2 y se añaden los apartados 4 y 5 por el art. único.46 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
+
+> Téngase en cuenta que el apartado 4 no será de aplicación hasta la constitución del primer Consejo General del Poder Judicial que lo haga tras la entrada en vigor de la citada Ley Orgánica, según establece su disposición transitoria tercera.
 
 > Se añade por el art. único.1 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.

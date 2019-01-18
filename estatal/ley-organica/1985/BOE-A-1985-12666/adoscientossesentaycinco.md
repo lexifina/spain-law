@@ -1,3 +1,5 @@
 ## Artículo 265.
 
-En cada Juzgado o Tribunal se llevará, bajo la custodia del Secretario respectivo, un libro de sentencias, en el que se incluirán firmadas todas las definitivas, autos de igual carácter, así como los votos particulares que se hubieren formulado, que serán ordenados correlativamente según su fecha.
+En cada juzgado o tribunal se llevará, bajo la custodia del letrado de la Administración de Justicia respectivo, un libro de sentencias, en el que se incluirán firmadas todas las definitivas, autos de igual carácter, así como los votos particulares que se hubieren formulado, que serán ordenados correlativamente según su fecha. Cuando la tramitación de los procedimientos se realice a través de un sistema de gestión procesal electrónico, el mismo deberá generar automáticamente, sin necesidad de la intervención del letrado de la Administración de Justicia, un fichero en el que se incluyan las sentencias y autos numerados por el orden en el que han sido firmados.
+
+> Se modifica por el art. único.7 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987

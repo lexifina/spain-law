@@ -12,7 +12,7 @@ c) La planificación y gestión de los recursos humanos y medios materiales al s
 
 d) El ejercicio de la función de inspección sobre los juzgados y tribunales.
 
-La Estadística Judicial asegurará, en el marco de un plan de transparencia, la disponibilidad permanente y en condiciones de igualdad por las Cortes Generales, el Gobierno, las comunidades autónomas, el Consejo General del Poder Judicial y la Fiscalía General del Estado de información actualizada, rigurosa y debidamente contrastada sobre la actividad y carga de trabajo de todos los órganos, servicios y oficinas judiciales de España, así como sobre las características estadísticas de los asuntos sometidos a su conocimiento. Los ciudadanos tendrán pleno acceso a la estadística judicial.
+La Estadística Judicial asegurará, en el marco de un plan de transparencia, la disponibilidad permanente y en condiciones de igualdad por las Cortes Generales, el Gobierno, las Comunidades Autónomas, el Consejo General del Poder Judicial y la Fiscalía General del Estado de información actualizada, rigurosa y debidamente contrastada sobre la actividad y carga de trabajo de todos los órganos, servicios y oficinas judiciales de España, así como sobre las características estadísticas de los asuntos sometidos a su conocimiento. Los ciudadanos tendrán pleno acceso a la estadística judicial, mediante la utilización de medios electrónicos, en la forma que reglamentariamente se establezca.
 
 3. La Comisión Nacional de Estadística Judicial, integrada por el Ministerio de Justicia, una representación de las Comunidades Autónomas con competencias en la materia, el Consejo General del Poder Judicial y la Fiscalía General del Estado, aprobará los planes estadísticos, generales y especiales, de la Administración de Justicia y establecerá criterios uniformes que, en su caso, tengan en cuenta la perspectiva de género y la variable de sexo, y sean de obligado cumplimiento para todos sobre la obtención, tratamiento informático, transmisión y explotación de los datos estadísticos del sistema judicial español.
 
@@ -21,6 +21,8 @@ La estructura, composición y funciones de la Comisión Nacional de Estadística
 Los sistemas informáticos de gestión procesal de la Administración de Justicia permitirán en todo caso la extracción automatizada de la totalidad de los datos exigidos en los correspondientes boletines estadísticos.
 
 4. No obstante, las Administraciones públicas con competencias en materias de Administración de Justicia podrán llevar a cabo las explotaciones de otros datos estadísticos que puedan ser recabados a través de los sistemas informáticos, siempre que se consideren necesarias o útiles para su gestión.
+
+> Se modifica el apartado 2 por el art. único.28 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se modifica el apartado 3 y la referencia a los "Secretarios judiciales" del apartado 1 por el art. único.70 y la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167.
 

@@ -6,12 +6,14 @@
 
 3. Las retribuciones fijas, que se descompondrán en básicas y complementarias, remunerarán la categoría y antigüedad en la carrera judicial de cada uno de sus miembros, así como las características objetivas de las plazas que ocupen.
 
-Son retribuciones básicas el sueldo y la antigüedad. Son retribuciones complementarias el complemento de destino y el complemento específico.
+Son retribuciones básicas el sueldo y la antigüedad. Son retribuciones complementarias el complemento de destino, el complemento específico y el complemento de carrera profesional.
 
 4. Las retribuciones variables por objetivos estarán vinculadas al rendimiento individual acreditado por cada juez o magistrado en el desempeño de sus funciones jurisdiccionales y profesionales.
 
 5. Asimismo, los jueces y magistrados podrán percibir retribuciones especiales por servicios de guardia, servicios extraordinarios sin relevación de funciones y sustituciones.
 
 6. Una ley desarrollará, conforme a lo previsto en los apartados anteriores, las retribuciones de los miembros de la carrera judicial.
+
+> Se modifica el apartado 3 por el art. único.22 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se modifica por el art. único.110 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

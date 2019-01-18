@@ -12,10 +12,14 @@ a) El complemento general de puesto, que retribuirá los distintos tipos de pues
 
 b) El complemento específico, destinado a retribuir las condiciones particulares de los mismos, en atención a su especial dificultad técnica, dedicación, responsabilidad, incompatibilidad, penosidad o peligrosidad.
 
+c) El complemento de carrera profesional.
+
 2.º Son retribuciones complementarias variables:
 
 a) El complemento de productividad, destinado a retribuir el especial rendimiento, la actividad extraordinaria y el interés o iniciativa con que el funcionario desempeñe su trabajo, así como su participación en los programas concretos de actuación y en la consecución de los objetivos que se determinen por el Ministerio de Justicia y las comunidades autónomas con competencias asumidas, en sus respectivos ámbitos, oído el Consejo General del Poder Judicial y previa negociación con las organizaciones sindicales más representativas. El devengo de este complemento en un período, no originará derecho alguno a su mantenimiento para períodos sucesivos.
 
 b) Las gratificaciones por servicios extraordinarios, destinadas a retribuir los servicios de carácter extraordinario prestados fuera de la jornada normal de trabajo, no podrán, en ningún caso, ser fijas en su cuantía ni periódicas en su devengo, ni originarán derecho alguno a su mantenimiento para períodos sucesivos.
+
+> Se añade la letra c) en el apartado 1º de la letra B) por el art. único.41 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se añade por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -14,7 +14,7 @@ Dicha propuesta de resolución se notificará al interesado para que, en el plaz
 
 5. Podrán las autoridades competentes devolver el expediente al instructor delegado para que comprenda otros hechos en el pliego de cargos, complete la instrucción o someta al interesado una propuesta de resolución que incluya una calificación jurídica de mayor gravedad.
 
-6. La duración del procedimiento sancionador no excederá de seis meses. Cuando, por razones excepcionales, se prolongase por mayor plazo, el instructor delegado deberá dar cuenta cada diez días del estado de su tramitación y de las circunstancias que impiden su conclusión a la autoridad que hubiere mandado proceder.
+6. La duración del procedimiento sancionador no excederá de un año.
 
 7. La resolución que ponga término al procedimiento disciplinario será motivada y en ella no se podrán contemplar hechos distintos de los que sirvieron de base a la propuesta de resolución, sin perjuicio de su distinta valoración jurídica siempre que no sea de mayor gravedad.
 
@@ -23,5 +23,7 @@ Dicha propuesta de resolución se notificará al interesado para que, en el plaz
 Las asociaciones de Jueces y Magistrados estarán también legitimadas para interponer, en nombre de sus asociados, recurso contencioso-administrativo, siempre que se acredite la expresa autorización de éstos.
 
 9. La resolución sancionadora será ejecutiva cuando agote la vía administrativa, aún cuando se hubiere interpuesto recurso contencioso-administrativo, salvo que el Tribunal acuerde su suspensión.
+
+> Se modifica el apartado 6 por el art. único.23 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se modifica por el art. 7.11 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612

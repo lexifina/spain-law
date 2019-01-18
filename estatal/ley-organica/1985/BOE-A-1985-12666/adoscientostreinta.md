@@ -1,20 +1,22 @@
 ## Artículo 230.
 
-1. Los Juzgados y Tribunales y las Fiscalías están obligados a utilizar cualesquiera medios técnicos, electrónicos, informáticos y telemáticos, puestos a su disposición para el desarrollo de su actividad y ejercicio de sus funciones, con las limitaciones que a la utilización de tales medios establecen el Capítulo I bis de este Título, la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y las demás leyes que resulten de aplicación.
+1. Los juzgados y tribunales y las fiscalías están obligados a utilizar cualesquiera medios técnicos, electrónicos, informáticos y telemáticos, puestos a su disposición para el desarrollo de su actividad y ejercicio de sus funciones, con las limitaciones que a la utilización de tales medios establecen el capítulo I bis de este título y la normativa orgánica de protección de datos personales.
 
-Las instrucciones generales o singulares de uso de las nuevas tecnologías que el Consejo General del Poder Judicial o la Fiscalía General del Estado dirijan a los Jueces y Magistrados o a los Fiscales, respectivamente, determinando su utilización, serán de obligado cumplimiento.
+Las instrucciones generales o singulares de uso de las nuevas tecnologías que el Consejo General del Poder Judicial o la Fiscalía General del Estado dirijan a los jueces y magistrados o a los fiscales, respectivamente, determinando su utilización, serán de obligado cumplimiento.
 
-2. Los documentos emitidos por los medios anteriores, cualquiera que sea su soporte, gozarán de la validez y eficacia de un documento original siempre que quede garantizada su autenticidad, integridad y el cumplimiento de los requisitos exigidos por las leyes procesales.
+2. Los documentos emitidos por los medios anteriores, cualquiera que sea su soporte, gozarán de la validez y eficacia de un documento original siempre que quede garantizada su autenticidad e integridad y el cumplimiento de los requisitos exigidos por las leyes procesales.
 
-3. Las actuaciones orales y vistas grabadas y documentadas en soporte digital no podrán transcribirse.
+3. Las actuaciones orales y vistas grabadas y documentadas en soporte digital no podrán transcribirse, salvo en los casos expresamente previstos en la ley.
 
 4. Los procesos que se tramiten con soporte informático garantizarán la identificación y el ejercicio de la función jurisdiccional por el órgano que la ejerce, así como la confidencialidad, privacidad y seguridad de los datos de carácter personal que contengan en los términos que establezca la ley.
 
-5. Las personas que demanden la tutela judicial de sus derechos e intereses podrán relacionarse con la Administración de Justicia a través de los medios técnicos a que se refiere el apartado 1 cuando sean compatibles con los que dispongan los Juzgados y Tribunales y se respeten las garantías y requisitos previstos en el procedimiento que se trate.
+5. Las personas que demanden la tutela judicial de sus derechos e intereses se relacionarán obligatoriamente con la Administración de Justicia, cuando así se establezca en las normas procesales, a través de los medios técnicos a que se refiere el apartado 1 cuando sean compatibles con los que dispongan los juzgados y tribunales y se respeten las garantías y requisitos previstos en el procedimiento que se trate.
 
-6. Los programas y aplicaciones informáticos que se utilicen en la Administración de Justicia deberán ser previamente informados por el Consejo General del Poder Judicial.
+6. Los sistemas informáticos que se utilicen en la Administración de Justicia deberán ser compatibles entre sí para facilitar su comunicación e integración, en los términos que determine el Comité Técnico Estatal de la Administración de Justicia Electrónica.
 
-Los sistemas informáticos que se utilicen en la Administración de Justicia deberán ser compatibles entre sí para facilitar su comunicación e integración, en los términos que determine el Comité Técnico Estatal de la Administración de Justicia Electrónica.
+La definición y validación funcional de los programas y aplicaciones se efectuará por el Comité Técnico Estatal de la Administración de Justicia Electrónica.
+
+> Se modifica por el art. único.4 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se modifica por el art. único.32 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 

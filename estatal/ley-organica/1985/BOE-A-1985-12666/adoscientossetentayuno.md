@@ -1,3 +1,7 @@
 ## Artículo 271.
 
-Las notificaciones podrán practicarse por medio del correo, del telégrafo o de cualquier medio técnico que permita la constancia de su práctica y de las circunstancias esenciales de la misma según determinen las leyes procesales.
+Los actos de comunicación se practicarán por medios electrónicos cuando los sujetos intervinientes en un proceso estén obligados al empleo de los sistemas telemáticos o electrónicos existentes en la Administración de Justicia conforme a lo establecido en las leyes procesales y en la forma que estas determinen.
+
+Cuando los sujetos intervinientes en un proceso no se hallen obligados al empleo de medios electrónicos, o cuando la utilización de los mismos no fuese posible, los actos de comunicación podrán practicarse por cualquier otro medio que permita la constancia de su práctica y de las circunstancias esenciales de la misma según determinen las leyes procesales.
+
+> Se modifica por el art. único.8 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987

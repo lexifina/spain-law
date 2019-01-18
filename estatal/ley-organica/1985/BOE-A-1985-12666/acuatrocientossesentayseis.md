@@ -1,6 +1,6 @@
 ## Artículo 466.
 
-1. En cada provincia existirá un Secretario Coordinador, nombrado por el Ministerio de Justicia por el procedimiento de libre designación, a propuesta del Secretario de Gobierno, de acuerdo con las Comunidades Autónomas con competencias asumidas, de entre todos aquellos que se presenten a la convocatoria pública.
+1. En cada provincia existirá un Secretario Coordinador, nombrado por el Ministerio de Justicia por el procedimiento de libre designación, a propuesta del Secretario de Gobierno, de acuerdo con las Comunidades Autónomas con competencias asumidas, elegido entre miembros integrantes del Cuerpo de Letrados de la Administración de Justicia que lleven al menos diez años en el Cuerpo, y como mínimo hayan estado cinco años en puestos de segunda categoría.
 
 Antes del nombramiento se oirá al Consejo del Secretariado sobre el candidato que ha de ser nombrado por el Ministerio de Justicia.
 
@@ -17,6 +17,8 @@ No se podrá ocupar más de diez años el mismo puesto de Secretario Coordinador
 4. A los Letrados de la Administración de Justicia que sean nombrados Secretarios Coordinadores se les reservará, durante el tiempo que ocuparen dicho cargo, la plaza que vinieren ocupando con anterioridad a dicho nombramiento.
 
 Durante su mandato, dicha plaza podrá ser cubierta en régimen de comisión de servicios.
+
+> Se modifica el apartado 1 por el art. único.30 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se modifican los apartados 1 y 4 y la referencia a los "Secretarios judiciales" por el art. único.74 y la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167.
 

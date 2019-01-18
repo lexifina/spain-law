@@ -1,3 +1,5 @@
 ## Artículo 246.
 
-En los casos en que la ley ordene al Secretario formular propuesta de resolución, el Juez podrá adoptar la modalidad de «conforme» o dictar la resolución que proceda.
+(Suprimido)
+
+> Se suprime por el art. único.6 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987

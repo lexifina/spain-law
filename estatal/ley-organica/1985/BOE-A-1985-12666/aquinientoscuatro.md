@@ -20,27 +20,27 @@ Estas licencias darán derecho a percibir las retribuciones básicas y las prest
 
 5. La enfermedad o accidente que impida el normal desempeño de las funciones, darán lugar a licencias por enfermedad.
 
-Sin perjuicio de la obligación de comunicar, en la forma que reglamentariamente se determine, la imposibilidad de asistencia al trabajo por razón de enfermedad durante la jornada laboral del día en que ésta se produzca, los funcionarios deberán solicitar de la autoridad competente la licencia por enfermedad en el cuarto día consecutivo desde que se produjo la ausencia en el puesto de trabajo.
+Sin perjuicio de la obligación de comunicar, en la forma que reglamentariamente se determine, la imposibilidad de asistencia al trabajo por razón de enfermedad durante la jornada laboral del día en que ésta se produzca, los funcionarios deberán solicitar de la autoridad competente licencia por enfermedad en el cuarto día consecutivo a aquel en que se produjo la ausencia del puesto de trabajo.
 
-La licencia inicial se concederá por el tiempo que el facultativo haya considerado como previsible para la curación y, en ningún caso, por período superior a 15 días. Si el estado de enfermedad persistiera, la licencia inicial se prorrogará automáticamente en la forma que se determine por la autoridad competente para su concesión, quedando sin efecto si con anterioridad se produce la curación.
+La licencia inicial se concederá por el tiempo que el facultativo haya considerado como previsible para la curación y, en ningún caso, por período superior a quince días. Si el estado de enfermedad persistiera, la licencia inicial se prorrogará automáticamente en la forma que se determine por la autoridad competente para su concesión, quedando sin efecto si con anterioridad se produce la curación.
 
-Tanto la licencia inicial como las prórrogas, se concederán previa presentación del parte de baja o certificación médica que acredite la certeza de la enfermedad y la imposibilidad de asistir al trabajo.
+Tanto la licencia inicial como las prórrogas se concederán previa presentación del parte de baja o certificación médica que acredite la certeza de la enfermedad y la imposibilidad de asistir al trabajo.
 
-Se concederán licencias por enfermedad derivadas de un mismo proceso patológico, hasta un máximo de 12 meses prorrogables por otros seis, cuando se presuma que durante ellos pueda el trabajador ser dado de alta médica por curación. Transcurridos dichos plazos, se prorrogarán las licencias hasta el momento de la declaración de la jubilación por incapacidad permanente o del alta médica sin que, en ningún caso, puedan exceder de 30 meses desde la fecha de la solicitud de la licencia inicial.
+Se concederán licencias por enfermedad derivadas de un mismo proceso patológico, hasta un máximo de doce meses prorrogables por otros seis, cuando se presuma que durante ellos pueda el trabajador ser dado de alta médica por curación. Transcurridos dichos plazos, se prorrogarán las licencias hasta el momento de la declaración de la jubilación por incapacidad permanente o del alta médica sin que, en ningún caso, puedan exceder de treinta meses desde la fecha de la solicitud de la licencia inicial.
 
 A estos efectos, se entenderá que existe nueva licencia por enfermedad cuando el proceso patológico sea diferente y, en todo caso, cuando las licencias se hayan interrumpido durante un mínimo de un año.
 
-Los funcionarios de los Cuerpos al Servicio de la Administración de Justicia en situación de incapacidad temporal por contingencias comunes, percibirán el cincuenta por ciento de las retribuciones tanto básicas como complementarias, como, en su caso, la prestación por hijo a cargo, desde el primer al tercer día de la situación de incapacidad temporal, tomando como referencia aquéllas que percibían en el mes inmediato anterior al de causarse la situación de incapacidad temporal. Desde el día cuarto al vigésimo día, ambos inclusive, percibirán el setenta y cinco por ciento de las retribuciones tanto básicas como complementarias, como de la prestación por hijo a cargo, en su caso. A partir del día vigésimo primero y hasta el día ciento ochenta, ambos inclusive, percibirán la totalidad de las retribuciones básicas, de la prestación por hijo a cargo, en su caso, y de las retribuciones complementarias. Cuando la situación de incapacidad temporal derive de contingencias profesionales, la retribución a percibir podrá ser complementada desde el primer día, hasta alcanzar como máximo las retribuciones que vinieran correspondiendo a dicho personal en el mes anterior al de causarse la incapacidad.
+Las licencias por enfermedad darán lugar a plenitud de derechos económicos durante los seis primeros meses desde la fecha en que se solicitó la licencia inicial, siempre que las mismas se deriven del mismo proceso patológico y de forma continuada o con una interrupción de hasta un mes.
 
 A partir del día ciento ochenta y uno será de aplicación el subsidio establecido en el apartado 1.B) del artículo 20 del Real Decreto Legislativo 3/2000, de 23 de junio, por el que se aprueba el texto refundido de las disposiciones legales vigentes sobre el Régimen especial de Seguridad Social del personal al servicio de la Administración de Justicia.
 
-Por el órgano competente se determinarán los supuestos en los que con carácter excepcional y debidamente justificados se pueda establecer un complemento hasta alcanzar, como máximo, el cien por cien de las retribuciones que vinieran disfrutando en cada momento. A estos efectos, se considerarán en todo caso debidamente justificados los supuestos de hospitalización e intervención quirúrgica.
-
 En ningún caso los funcionarios adscritos a los regímenes especiales de seguridad social gestionados por el mutualismo administrativo podrán percibir una cantidad inferior en situación de incapacidad temporal por contingencias comunes a la que corresponda a los funcionarios adscritos al régimen general de la seguridad social, incluidos, en su caso, los complementos que les resulten de aplicación a estos últimos.
 
-Las referencias a días incluidas en el presente número se entenderán realizadas a días naturales.
+Durante el tiempo de duración de la licencia por enfermedad se aplicará al personal funcionario cualquier incremento retributivo, incluido el abono del perfeccionamiento de los trienios, que le pudiera corresponder si no se encontrase en esa situación de incapacidad temporal.
 
-La ausencia al trabajo por causa de enfermedad o accidente que no dé lugar a una situación de incapacidad temporal, comportará la aplicación del descuento en nómina en los términos y condiciones que se establezcan por la normativa específica que al efecto se dicte.
+En cualquier caso, el responsable de personal podrá solicitar únicamente de la correspondiente inspección médica la revisión de un proceso para determinar que las causas que originaron la concesión de la licencia continúan subsistiendo.
+
+> Se modifica el apartado 5 por el art. único.40 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se modifican los párrafos segundo y último del apartado 5 por el art. único.97 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 

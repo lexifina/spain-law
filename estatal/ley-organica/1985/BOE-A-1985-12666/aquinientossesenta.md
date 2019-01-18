@@ -22,7 +22,7 @@
 
 10.ª Cuidar de la publicación oficial de las sentencias y demás resoluciones que se determinen del Tribunal Supremo y del resto de órganos judiciales.
 
-A tal efecto el Consejo General del Poder Judicial, previo informe de las Administraciones competentes, establecerá reglamentariamente el modo en que habrán de elaborarse los libros electrónicos de sentencias, la recopilación de las mismas, su tratamiento, difusión y certificación, para velar por su integridad, autenticidad y acceso, así como para asegurar el cumplimiento de la legislación en materia de protección de datos personales.
+A tal efecto el Consejo General del Poder Judicial, previo informe de las Administraciones competentes, establecerá reglamentariamente el modo en que se realizará la recopilación de las sentencias, su tratamiento, difusión y certificación, para velar por su integridad, autenticidad y acceso, así como para asegurar el cumplimiento de la legislación en materia de protección de datos personales.
 
 11.ª Regular la estructura y funcionamiento de la Escuela Judicial, así como nombrar a su Director y a sus profesores.
 
@@ -58,7 +58,7 @@ j) Régimen de guardias de los órganos jurisdiccionales.
 
 k) Organización y gestión de la actuación de los órganos judiciales españoles en materia de cooperación jurisdiccional interna e internacional.
 
-l) Establecimiento de las bases y estándares de compatibilidad de los sistemas informáticos que se utilicen en la Administración de Justicia.
+l) (Suprimida)
 
 m) Condiciones accesorias para el ejercicio de los derechos y deberes que conforman el estatuto de Jueces y Magistrados, así como el régimen jurídico de las Asociaciones judiciales, sin que tal desarrollo reglamentario pueda suponer innovación o alteración alguna de la regulación legal.
 
@@ -80,7 +80,13 @@ La determinación de la carga de trabajo que cabe exigir, a efectos disciplinari
 
 23.ª Emitir informe en los expedientes de responsabilidad patrimonial por anormal funcionamiento de la Administración de Justicia.
 
-24.ª Aquellas otras que le atribuya la Ley Orgánica del Poder Judicial.
+24.ª La recopilación y actualización de los Principios de Ética Judicial y su divulgación, así como su promoción con otras entidades y organizaciones judiciales, nacionales o internacionales.
+
+El asesoramiento especializado a los jueces y magistrados en materia de conflictos de intereses, así como en las demás materias relacionadas con la integridad.
+
+El Consejo General del Poder Judicial se asegurará de que la Comisión de Ética Judicial, que a tal efecto se constituya, esté dotada de los recursos y medios adecuados para el cumplimiento de sus objetivos.
+
+25.ª Aquellas otras que le atribuya la Ley Orgánica del Poder Judicial.
 
 2. Los proyectos de reglamentos de desarrollo se someterán a informe de las asociaciones profesionales de Jueces y Magistrados y de las corporaciones profesionales o asociaciones de otra naturaleza que tengan reconocida legalmente representación de intereses a los que puedan afectar. Se dará intervención a la Administración del Estado, por medio del Ministerio de Justicia, y a las de las Comunidades Autónomas siempre que una y otras tengan competencias relacionadas con el contenido del reglamento o sea necesario coordinar éstas con las del Consejo General. Se recabarán las consultas y los estudios previos que se consideren pertinentes y un dictamen de legalidad sobre el proyecto.
 
@@ -88,10 +94,10 @@ En todo caso, se elaborará un informe previo de impacto de género.
 
 El Ministerio Fiscal será oído cuando le afecte la materia sobre la que verse el proyecto y especialmente en los supuestos contemplados en las letras d) y f) a j) del apartado 1.16.ª de este artículo.
 
-3. A los efectos de lo previsto en la letra l) del apartado 1.16.ª de este artículo, el Consejo General del Poder Judicial someterá a la aprobación del Comité Técnico Estatal de la Administración judicial electrónica la definición y validación funcional de los programas y aplicaciones informáticos estableciendo a nivel estatal los modelos de resoluciones, procedimientos e hitos clave de la gestión procesal.
-
-En todo caso, la implementación técnica de todas estas medidas en los programas y aplicaciones informáticas corresponderá al Ministerio de Justicia y demás administraciones con competencias sobre los medios materiales al servicio de la Administración de Justicia.
+3. (Suprimido)
 
 4. Cuando en el ejercicio de las atribuciones legalmente previstas en este artículo el Consejo General del Poder Judicial adopte medidas que comporten un incremento de gasto, será preciso informe favorable de la Administración competente que deba soportar dicho gasto.
+
+> Se modifica el apartado 1 y se suprime el 3 por el art. único.44 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se añade por el art. único.1 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.

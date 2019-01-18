@@ -6,6 +6,10 @@
 
 3. La Oficina judicial funcionará con criterios de agilidad, eficacia, eficiencia, racionalización del trabajo, responsabilidad por la gestión, coordinación y cooperación entre Administraciones, de manera que los ciudadanos obtengan un servicio próximo y de calidad, con respeto a los principios recogidos en la Carta de Derechos de los ciudadanos ante la Justicia.
 
-4. Los puestos de trabajo de la Oficina judicial sólo podrán ser cubiertos por personal de los Cuerpos de funcionarios al servicio de la Administración de Justicia, y se ordenarán de acuerdo con lo establecido en las relaciones de puestos de trabajo.
+4. Los puestos de trabajo de la Oficina judicial solo podrán ser cubiertos por personal de los cuerpos de funcionarios al servicio de la Administración de Justicia, y se ordenarán de acuerdo con lo establecido en las relaciones de puestos de trabajo.
+
+Los funcionarios que prestan sus servicios en las oficinas judiciales, a excepción de los letrados de la Administración de Justicia, sin perjuicio de su dependencia funcional, dependen orgánicamente del Ministerio de Justicia o de las Comunidades Autónomas con competencias asumidas en sus respectivos ámbitos.
+
+> Se modifica el apartado 4 por el art. único.24 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

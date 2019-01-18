@@ -1,6 +1,6 @@
 ## Artículo 567.
 
-1. Los veinte Vocales del Consejo General del Poder Judicial serán designados por las Cortes Generales del modo establecido en la Constitución y en la presente Ley Orgánica.
+1. Los veinte Vocales del Consejo General del Poder Judicial serán designados por las Cortes Generales del modo establecido en la Constitución y en la presente Ley Orgánica, atendiendo al principio de presencia paritaria entre hombres y mujeres.
 
 2. Cada una de las Cámaras elegirá, por mayoría de tres quintos de sus miembros, a diez Vocales, cuatro entre juristas de reconocida competencia con más de quince años de ejercicio en su profesión y seis correspondientes al turno judicial, conforme a lo previsto en el Capítulo II del presente Título.
 
@@ -11,6 +11,10 @@
 5. En ningún caso podrá recaer la designación de Vocales del Consejo General del Poder Judicial en Vocales del Consejo saliente.
 
 6. El cómputo de los plazos en los procedimientos de designación de Vocales del Consejo General del Poder Judicial y de elección del Presidente del Tribunal Supremo y del Consejo General del Poder Judicial, así como del Vicepresidente del Tribunal Supremo, se realizará por días hábiles cuando el plazo se señale por días, empezando a computarse desde el día siguiente, y de fecha a fecha cuando se fije en meses o años. Cuando en el mes del vencimiento no hubiera día equivalente al inicial del cómputo se entenderá que el plazo expira el último del mes.
+
+> Se modifica el apartado 1 por el art. único.48 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
+
+> Esta modificación no será de aplicación hasta la constitución del primer Consejo General del Poder Judicial que lo haga tras la entrada en vigor de la citada Ley Orgánica, según establece su disposición transitoria tercera.
 
 > Se añade el apartado 6 por el art. único.110 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
