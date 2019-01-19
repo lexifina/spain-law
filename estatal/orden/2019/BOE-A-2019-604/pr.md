@@ -1,0 +1,5 @@
+La Ley 24/2014, de 20 de noviembre, por la que se crea el Consejo General de Colegios de Terapeutas Ocupacionales, prevé en su disposición adicional primera la constitución de una Comisión gestora compuesta por un representante de cada uno de los Colegios de Terapeutas Ocupacionales existentes en el territorio nacional, que elaboraría, en el plazo de seis meses, contado desde la entrada en vigor de esa Ley, unos Estatutos provisionales reguladores de los órganos de gobierno del Consejo General de Colegios de Terapeutas Ocupacionales, en los que se debería incluir las normas de constitución y funcionamiento de dichos órganos, con determinación expresa de la competencia independiente, aunque coordinada, de cada uno de ellos.
+
+Elaborados por la citada Comisión gestora los indicados Estatutos provisionales y verificada su adecuación a la legalidad, procede, conforme a lo previsto en dicha disposición adicional, ordenar su publicación en el «Boletín Oficial del Estado».
+
+En su virtud, dispongo:
