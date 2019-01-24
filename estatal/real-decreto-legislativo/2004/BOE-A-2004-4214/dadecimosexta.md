@@ -48,8 +48,6 @@ B) La inversión podrá tener reflejo presupuestario en alguno de los grupos de 
 
 136. Servicio de prevención y extinción de incendios.
 
-152. Vivienda.
-
 153. Vías públicas.
 
 171. Parques y jardines.
@@ -94,8 +92,6 @@ b) o bien, no cumpliendo lo previsto en la disposición adicional sexta de la Le
 
 No obstante, en el supuesto de que un proyecto de inversión no pueda ejecutarse íntegramente en 2014, la parte restante del gasto comprometido en 2014 se podrá reconocer en el ejercicio 2015 financiándose con cargo al remanente de tesorería de 2014 que quedará afectado a ese fin por ese importe restante y la entidad local no podrá incurrir en déficit al final del ejercicio 2015.
 
-> Téngase en cuenta que, en relación con las reglas de aplicación de la disposición adicional sexta de la Ley Orgánica 2/2012, de 27 de abril, las referencias contenidas en este apartado a los años 2014 y 2015, deberán entenderse hechas a 2016 y 2017, respectivamente, según la disposición adicional 82 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644.
-
 6. El expediente de gasto que se tramite incorporará una memoria económica específica, suscrita por el presidente de la Corporación Local, o la persona de la Corporación Local en quien delegue, en la que se contendrá la proyección de los efectos presupuestarios y económicos que podrían derivarse de la inversión en el horizonte de su vida útil. El órgano interventor de la Corporación Local informará acerca de la consistencia y soporte de las proyecciones presupuestarias que contenga la memoria económica de la inversión en relación con los criterios establecidos en los apartados anteriores.
 
 Anualmente, junto con la liquidación del presupuesto, se dará cuenta al pleno de la Corporación Local del grado de cumplimiento de los criterios previstos en los apartados anteriores y se hará público en su portal web.
@@ -103,6 +99,8 @@ Anualmente, junto con la liquidación del presupuesto, se dará cuenta al pleno 
 7. Sin perjuicio de los efectos que puedan derivarse de la aplicación de la normativa de estabilidad presupuestaria y sostenibilidad financiera, si el informe del interventor de la Corporación Local al que se refiere el apartado anterior fuera desfavorable, el interventor lo remitirá al órgano competente de la Administración pública que tenga atribuida la tutela financiera de la Corporación Local.
 
 8. El interventor de la Corporación Local informará al Ministerio de Hacienda y Administraciones públicas de las inversiones ejecutadas en aplicación de lo previsto en esta disposición.
+
+> Se deja sin efecto la modificación del apartado 1.B) por Resolución de 22 de enero de 2019 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 21/2018, de 14 de diciembre. Ref. BOE-A-2019-799
 
 > Se modifica el apartado 1.B), con efectos de 1 de enero de 2019, por el art. 4.4 del Real Decreto-ley 21/2018, de 14 de diciembre. Ref. BOE-A-2018-17293
 
