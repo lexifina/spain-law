@@ -10,6 +10,8 @@
 
 5. Desde el momento en que tome posesión como Interventor en una Mesa, la persona designada ya no podrá ejercer la función de apoderado en otras Mesas electorales.
 
+> Véase, para la interpretación del apartado 1, la Instrucción 1/2019, de 23 de enero, sobre el voto de los interventores en el caso de concurrencia de varios procesos electorales. Ref. BOE-A-2019-1106
+
 > Se añade el apartado 5 por el art. único.29 de la Ley Orgánica 2/2011, de 28 de enero. Ref. BOE-A-2011-1639.
 
 > Se modifica el apartado 1 por el art. 5 de la Ley Orgánica 1/2003, de 10 de marzo. Ref. BOE-A-2003-4923.

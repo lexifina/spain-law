@@ -1,0 +1,11 @@
+El artículo 79.1 de la LOREG establece que: «Los interventores ejercen su derecho de sufragio en la mesa ante la que están acreditados. Cuando el interventor no esté inscrito en la circunscripción electoral correspondiente a la mesa en la que vaya a desempeñar sus funciones, ejercerá su derecho de sufragio mediante el voto por correspondencia en los términos y con el alcance establecidos en los artículos 72 y 73 de la presente Ley».
+
+Hasta ahora, la Junta Electoral Central ha considerado que en el caso de concurrencia de varios procesos electorales, los interventores podían ejercer su derecho de sufragio ante la mesa en que estén acreditados cuando dicha mesa esté integrada en la circunscripción en la que le corresponda votar, debiendo hacerlo por correo respecto del resto de procesos electorales en que no suceda esto (Ac. de 25 de mayo de 2003 y 22 de mayo de 2011 y 8 de mayo de 2014).
+
+Este criterio, que se ajusta a la literalidad del artículo 79 de la LOREG, no permite evitar el doble voto puesto que al solicitar el voto por correspondencia la Oficina del Censo Electoral remite al elector las papeletas de todos los procesos electorales en los que tenga derecho de sufragio; y, por tanto, un interventor podría votar por correo y después hacerlo presencialmente en la mesa en la que está acreditado si corresponde a la circunscripción en la que esté inscrito.
+
+Por otra parte, si el interventor es designado una vez que ha concluido el plazo para solicitar el voto por correo no podrá ejercer el derecho de voto en aquellos procesos electorales en los que la mesa en la que está acreditado no está integrada en la circunscripción de su inscripción electoral.
+
+Este mismo problema se produciría si se opta por exigir que vote por correo el interventor que no esté inscrito en la circunscripción de la mesa ante la que está acreditado en todos los procesos electorales en que pueda ejercer su derecho.
+
+A la vista de estas circunstancias, la Junta Electoral Central, previa audiencia de las formaciones políticas con representación en el Congreso de los Diputados, en sus reuniones de 3 y 24 de octubre de 2018, y de 23 de enero de 2019, en el ejercicio de su potestad de unificación de los criterios interpretativos de la legislación electoral consagrado en el artículo 19.1 f) de la LOREG, ha aprobado la siguiente
