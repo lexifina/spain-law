@@ -1,0 +1,3 @@
+## Segundo. Gestión y desarrollo del primer Plan de Actuación.
+
+Tanto el Ministerio de Agricultura, Pesca y Alimentación, como el Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria, son los encargados de la definición de dicho Plan así como financiar dichas acciones de acuerdo con lo indicado en el Real Decreto 199/2017, de 3 de marzo, y atendiendo a sus disponibilidades presupuestarias. En estas acciones y su financiación podrían colaborar también las comunidades autónomas, fundaciones, e incluso entidades privadas propiciando la colaboración entre los agentes implicados y la difusión de los resultados obtenidos.
