@@ -6,7 +6,7 @@ República Federal de Alemania:
 
 1. Agrupación de Hamburgo.
 
-2. Agrupación de Manheim.
+2. Agrupación de Frankfurt.
 
 3. Agrupación de Stuttgart.
 
@@ -67,6 +67,8 @@ Suiza:
 6. Agrupación de Zurich.
 
 7. (Suprimido)
+
+> Se modifica el punto 2 de Alemania por el art. único de la Orden EFP/1479/2018, de 28 de diciembre. Ref. BOE-A-2019-1452
 
 > Se suprime el punto 1 de Suiza por el apartado 1 de la Orden ECD/1459/2013, de 25 de julio. Ref. BOE-A-2013-8418.
 
