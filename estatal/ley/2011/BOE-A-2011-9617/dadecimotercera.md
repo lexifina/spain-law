@@ -10,6 +10,10 @@
 
 Dichos procesos habrán de suponer que la persona evaluadora desconozca características personales de la persona evaluada, para eliminar cualquier discriminación por razón de nacimiento, raza, sexo, religión o cualquier otra condición o circunstancia personal o social.
 
+Además, los procedimientos de selección y evaluación del personal docente e investigador al servicio de las Universidades públicas, y del personal investigador y de investigación al servicio de los Organismos Públicos de Investigación de la Administración General del Estado, tendrán en cuenta las situaciones de incapacidad temporal, riesgo durante el embarazo, maternidad, guarda con fines de adopción, acogimiento, riesgo durante la lactancia y paternidad, de forma que las personas que se encuentren o se hayan encontrado en dichas situaciones tengan garantizadas las mismas oportunidades que el resto del personal que participa en los procesos de selección y evaluación, y su expediente, méritos y currículum vítae no resulten penalizados por el tiempo transcurrido en dichas situaciones. El Gobierno regulará la forma en que estas circunstancias serán tenidas en cuenta.
+
 5. La Estrategia Española de Innovación y el Plan Estatal de Innovación promoverán la incorporación de la perspectiva de género como una categoría transversal en todos los aspectos de su desarrollo.
 
 6. Los Organismos Públicos de Investigación adoptarán Planes de Igualdad en un plazo máximo de dos años tras la publicación de esta ley, que serán objeto de seguimiento anual. Dichos planes deberán incluir medidas incentivadoras para aquellos centros que mejoren los indicadores de género en el correspondiente seguimiento anual.
+
+> Se añade un párrafo en el apartado 4 por la disposición final 1.2 del Real Decreto-ley 3/2019, de 8 de febrero. Ref. BOE-A-2019-1782#df
