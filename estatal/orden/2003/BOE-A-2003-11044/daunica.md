@@ -22,8 +22,6 @@ Información relativa a los comprobantes de entrega expedidos en avituallamiento
 
 Solicitud de devolución por avituallamiento de gasóleo a embarcaciones conforme al artículo 110 del Reglamento de los Impuestos Especiales aprobado por Real Decreto 1165/1995, de 7 de julio.
 
-Modelo DDC. Impuesto sobre Hidrocarburos. Declaración de desglose de cuotas centralizadas.
-
 Modelo DCC. Impuestos Especiales sobre el Alcohol y Bebidas Alcohólicas, Labores del Tabaco y Electricidad. Declaración de desglose de cuotas centralizadas.
 
 Modelo DDE. Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos. Declaración de desglose por establecimientos.
@@ -96,8 +94,6 @@ Modelo 562. Impuesto sobre Productos Intermedios. Declaración-liquidación.
 
 Modelo 563. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración-liquidación.
 
-Modelo 564. Impuesto sobre Hidrocarburos. Declaración-liquidación.
-
 Modelo 566. Impuesto sobre las Labores del Tabaco. Declaración-liquidación.
 
 Modelo 569. Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos. Declaración-liquidación y Relación de suministros y autoconsumos exentos.
@@ -127,6 +123,8 @@ Modelo 591: Impuesto sobre el valor de la producción de la energía eléctrica.
 Modelo 380. Impuesto sobre el Valor Añadido. Operaciones asimiladas a las importaciones. Declaración-liquidación
 
 3. Las condiciones generales y el procedimiento para la presentación telemática de estas declaraciones serán, con carácter general, y sin perjuicio de lo dicho en el apartado anterior de esta disposición adicional, las que se establecen en las respectivas Órdenes por las que se aprobaron cada uno de estos modelos de declaración.
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden HAC/135/2019, de 31 de enero. Ref. BOE-A-2019-2144
 
 > Se modifica el apartado 2 por la disposición final 1 de la Orden HAC/1147/2018, de 9 de octubre. Ref. BOE-A-2018-14900#df
 

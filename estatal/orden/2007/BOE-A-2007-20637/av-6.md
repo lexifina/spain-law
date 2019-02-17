@@ -1,6 +1,6 @@
 ## ANEXO VIII bis
 
-## Formato electrónico modelo 582. Impuesto sobre Hidrocarburos. Regularización por reexpedición de productos a otra comunidad autónoma
+Formato electrónico modelo 582. Impuesto sobre Hidrocarburos. Regularización por reexpedición de productos a otra comunidad autónoma. Períodos de liquidación anteriores a 2019.
 
 Se presentará un único modelo 582 por trimestre natural y establecimiento desde donde se reexpidan productos gravados con un tipo estatal especial a otra u otras Comunidades Autónomas.
 
@@ -10,13 +10,13 @@ Comunidad Autónoma
 
 Se consignará la Comunidad Autónoma donde se encuentre ubicado el establecimiento desde donde se han reexpedido los productos en el período considerado, según la siguiente tabla:
 
-| Andalucía | 01 | Aragón | 02 | Principado de Asturias | 03 |
+| Andalucía. | 01 | Aragón. | 02 | Principado de Asturias. | 03 |
 | --- | --- | --- | --- | --- | --- |
-| Illes Balears. | 04 | Cantabria. | 06 | Castilla -La Mancha. | 07 |
+| Illes Balears. | 04 | Cantabria. | 06 | Castilla-La Mancha. | 07 |
 | Castilla y León. | 08 | Cataluña. | 09 | Extremadura. | 10 |
 | Galicia. | 11 | Madrid. | 12 | Murcia. | 13 |
 | Diputación Foral de Navarra. | 14 | La Rioja. | 16 | Comunidad Valenciana. | 17 |
-| Diputación Foral de Álava. | 20 | Diputación Foral de Guipúzcoa. | 21 | Diputación foral de Bizkaia. | 22 |
+| Diputación Foral de Álava. | 20 | Diputación Foral de Guipúzcoa. | 21 | Diputación Foral de Bizkaia. | 22 |
 
 Oficina Gestora
 
@@ -28,19 +28,15 @@ Se consignará el número de identificación fiscal del reexpedidor.
 
 Período de liquidación
 
-Ejercicio:
+Ejercicio: Deberán consignarse las cuatro cifras del año al que corresponde el período por el que se efectúa la declaración.
 
-Deberán consignarse las cuatro cifras del año al que corresponde el período por el que se efectúa la declaración.
+Período: Según la tabla siguiente:
 
-Período:
+1T: Primer trimestre 2T: Segundo trimestre.
 
-Según la tabla siguiente:
+3T: Tercer trimestre 4T: Cuarto trimestre.
 
-1T: Primer trimestre 2T: Segundo trimestre 3T: Tercer trimestre 4T: Cuarto trimestre.
-
-NRC
-
-Número de referencia completo suministrado por la entidad colaboradora.
+NRC: Número de referencia completo suministrado por la entidad colaboradora.
 
 En el caso de ingresos con domiciliación de pago, no se consignará este dato y sí el de la cuenta de domiciliación.
 
@@ -50,9 +46,7 @@ En el caso de ingresos parciales, se consignarán tantos NRC como importes ingre
 
 En los casos de reconocimiento de deuda sin ningún tipo de ingreso, incluidos los supuestos de solicitud de aplazamiento o de compensación, así como en las declaraciones-liquidaciones con cuota cero, no se consignará este dato.
 
-Importe Ingresado
-
-Se consignará el importe efectivamente ingresado, en euros con dos decimales. En el caso de solicitud de devolución, se consignará en su lugar el importe de la devolución solicitada.
+Importe Ingresado: Se consignará el importe efectivamente ingresado, en euros con dos decimales. En el caso de solicitud de devolución, se consignará en su lugar el importe de la devolución solicitada.
 
 En el caso de ingresos con domiciliación de pago, figurará el importe a domiciliar.
 
@@ -62,9 +56,7 @@ En el caso de ingreso y reconocimiento de deuda, se hará constar adicionalmente
 
 En los casos de reconocimiento de deuda sin ningún tipo de ingreso, incluidos los supuestos de solicitud de aplazamiento o de compensación, así como en las declaraciones-liquidaciones con cuota cero, no se consignará este dato.
 
-CAE
-
-Identificación del establecimiento correspondiente a las reexpediciones del período.
+CAE: Identificación del establecimiento correspondiente a las reexpediciones del período.
 
 B. Datos de contacto
 
@@ -74,14 +66,14 @@ C. Liquidación
 
 Estos datos se presentarán con arreglo al siguiente modelo:
 
-| Epígrafe | Base imponible | Devengado | Reexpedido |  |  |
+| Epígrafe | Base imponible | Devengado | Reexpedido | Diferencia de tipos | Cuota Íntegra |
 | --- | --- | --- | --- | --- | --- |
-| Tipo Impositivo | C.A. | Tipo Impositivo | Diferencia de tipos | Cuota Íntegra |
-|  | Cuota Íntegra Total |
+| Tipo Impositivo | C.A. | Tipo Impositivo |
+|  | Cuota Íntegra Total. |
 
-Epígrafe: se indicarán los epígrafes establecidos en el anexo XLIV de la Orden EHA/3482/2007, de 20 de noviembre. Únicamente han de figurar productos gravados con un tipo estatal especial.
+Epígrafe: Se indicarán los epígrafes establecidos en el anexo XLIV de la Orden EHA/3482/2007, de 20 de noviembre. Únicamente han de figurar productos gravados con un tipo estatal especial.
 
-Base imponible: las bases imponibles serán las correspondientes al período de liquidación para cada epígrafe y Comunidad Autónoma de destino. Se expresarán en la unidad correspondiente a cada epígrafe, con dos cifras decimales, redondeando por defecto o exceso, según que la tercera cifra decimal sea o no inferior a 5.
+Base imponible: Las bases imponibles serán las correspondientes al período de liquidación para cada epígrafe y Comunidad Autónoma de destino. Se expresarán en la unidad correspondiente a cada epígrafe, con dos cifras decimales, redondeando por defecto o exceso, según que la tercera cifra decimal sea o no inferior a 5.
 
 Devengado. Tipo impositivo: Se consignará el importe del tipo impositivo autonómico correspondiente al epígrafe de que se trate y a la Comunidad Autónoma donde se encuentre ubicado el establecimiento.
 
@@ -97,10 +89,12 @@ Cuota íntegra total: Se indicará la suma de las cuotas íntegras correspondien
 
 D. Declaración-liquidación complementaria o solicitud de rectificación
 
-Declaración complementaria: se marcará con una X si la presentación de esta declaración tiene por objeto incluir registros declarados que, debiendo haber figurado en otra declaración del mismo ejercicio presentada anteriormente, hubieran sido completamente omitidos en la misma.
+Declaración complementaria: Se marcará con una X si la presentación de esta declaración tiene por objeto incluir registros declarados que, debiendo haber figurado en otra declaración del mismo ejercicio presentada anteriormente, hubieran sido completamente omitidos en la misma.
 
-Solicitud sustitutiva: se marcará con una X si la presentación de esta declaración tiene por objeto rectificar registros declarados que han sido consignados de manera errónea en otra declaración del mismo ejercicio presentada anteriormente.
+Solicitud sustitutiva: Se marcará con una X si la presentación de esta declaración tiene por objeto rectificar registros declarados que han sido consignados de manera errónea en otra declaración del mismo ejercicio presentada anteriormente.
 
-N.º de justificante de la declaración anterior: se consignará el número de justificante correspondiente a la declaración a la que sustituye o complementa.
+N.º de justificante de la declaración anterior: Se consignará el número de justificante correspondiente a la declaración a la que sustituye o complementa.
+
+> Se sustituye por el que figura como anexo III de la Orden HAC/135/2019, de 31 de enero, según establece su art. único.9. Ref. BOE-A-2019-2144
 
 > Se añade por el art. único.8 de la Orden HAP/71/2013, de 30 de enero, que figura como Anexo II de la misma. Ref. BOE-A-2013-953

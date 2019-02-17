@@ -30,11 +30,7 @@
 | 222 | Pago fraccionado. Régimen de consolidación fiscal. |
 | 230 | Impuesto sobre la Renta de las Personas Físicas e Impuesto sobre la Renta de no Residentes: Retenciones e ingresos a cuenta del Gravamen Especial sobre los premios de determinadas loterías y apuestas; Impuesto sobre Sociedades: Retenciones e ingresos a cuenta sobre los premios de determinadas loterías y apuestas. Autoliquidación. Período de ingreso: M. |
 | 303 | Impuesto sobre el Valor Añadido. Autoliquidación. |
-| 310 | (Suprimido) |
-| 311 | (Suprimido) |
 | 353 | Impuesto sobre el Valor Añadido. Grupo de entidades. Modelo agregado. Autoliquidación mensual. |
-| 370 | (Suprimido) |
-| 371 | (Suprimido) |
 | 410 | Pago a cuenta del Impuesto sobre los Depósitos en las Entidades de Crédito. Autoliquidación. |
 | 411 | Impuesto sobre los Depósitos en las Entidades de Crédito. Autoliquidación. |
 | 430 | Declaración-liquidación Impuesto sobre las Primas de seguros. |
@@ -42,7 +38,6 @@
 | 561 | Impuesto sobre la Cerveza. Declaración-liquidación. |
 | 562 | Impuesto sobre Productos Intermedios. Declaración-liquidación. |
 | 563 | Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración-liquidación. |
-| 564 | Impuesto sobre Hidrocarburos. Declaración-liquidación. |
 | 566 | Impuesto sobre las Labores del Tabaco. Declaración-liquidación. |
 | 581 | Impuesto sobre Hidrocarburos: Declaración-liquidación. |
 | 582 | Impuesto sobre Hidrocarburos: Regularización por reexpedición de productos a otra Comunidad Autónoma. |
@@ -56,6 +51,8 @@
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
+
+> Se suprime el modelo 564 por la disposición final 2 de la Orden HAC/135/2019, de 31 de enero. Ref. BOE-A-2019-2144
 
 > Se añade el modelo 221 por la disposición final 3.1 de la Orden HFP/550/2017, de 15 de junio. Ref. BOE-A-2017-6857
 

@@ -1,6 +1,8 @@
 ## ANEXO V bis
 
-## Formato electrónico modelo 581. Impuesto sobre Hidrocarburos. Declaración-liquidación. Contenido de la declaración
+Formato electrónico modelo 581. Impuesto sobre Hidrocarburos. Declaración-liquidación. Períodos de liquidación anteriores a 2019.
+
+## Contenido de la declaración
 
 Se deberá presentar un modelo 581 por cada Comunidad Autónoma de destino de productos gravados con tipo estatal especial.
 
@@ -18,7 +20,7 @@ El campo Comunidad Autónoma debe cumplimentarse siempre que exista en la declar
 | Castilla y León. | 08 | Cataluña. | 09 | Extremadura. | 10 |
 | Galicia. | 11 | Madrid. | 12 | Murcia. | 13 |
 | Diputación Foral de Navarra. | 14 | La Rioja. | 16 | Comunidad Valenciana. | 17 |
-| Diputación Foral de Álava. | 20 | Diputación Foral de Guipúzcoa. | 21 | Diputación foral de Bizkaia. | 22 |
+| Diputación Foral de Álava. | 20 | Diputación Foral de Guipúzcoa. | 21 | Diputación Foral de Bizkaia. | 22 |
 
 Oficina Gestora
 
@@ -30,21 +32,15 @@ El campo NIF debe cumplimentarse con el número de identificación fiscal del ob
 
 Período de liquidación
 
-Ejercicio:
+Ejercicio: Deberán consignarse las cuatro cifras del año al que corresponde el período por el que se efectúa la declaración.
 
-Deberán consignarse las cuatro cifras del año al que corresponde el período por el que se efectúa la declaración.
+Período: Según la tabla siguiente:
 
-Período:
+1 enero 2 febrero 3 marzo 4 abril 5 mayo 6 junio.
 
-Según la tabla siguiente:
+7 julio 8 agosto 9 septiembre 10 octubre 11 noviembre 12 diciembre.
 
-01 enero 02 febrero 03 marzo 04 abril 05 mayo 06 junio.
-
-07 julio 08 agosto 09 septiembre 10 octubre 11 noviembre 12 diciembre.
-
-NRC
-
-Número de referencia completo suministrado por la entidad colaboradora.
+NRC: Número de referencia completo suministrado por la entidad colaboradora.
 
 En el caso de ingresos con domiciliación de pago, no se consignará este dato y sí el de la cuenta de domiciliación.
 
@@ -52,9 +48,7 @@ En el caso de ingresos parciales, se consignarán tantos NRC como importes ingre
 
 En los casos de reconocimiento de deuda sin ningún tipo de ingreso, incluidos los supuestos de solicitud de aplazamiento o de compensación, así como en las declaraciones-liquidaciones con cuota cero, no se consignará este dato.
 
-Importe ingresado
-
-Se consignará el importe efectivamente ingresado, en euros con dos decimales.
+Importe ingresado: Se consignará el importe efectivamente ingresado, en euros con dos decimales.
 
 En el caso de ingresos con domiciliación de pago, figurará el importe a domiciliar.
 
@@ -64,9 +58,7 @@ En el caso de ingreso y reconocimiento de deuda, se hará constar adicionalmente
 
 En los casos de reconocimiento de deuda sin ningún tipo de ingreso, incluidos los supuestos de solicitud de aplazamiento o de compensación, así como en las declaraciones-liquidaciones con cuota cero, no se consignará este dato.
 
-Liquidación correspondiente a
-
-Se consignará el CAE del establecimiento a que se refiere la declaración-liquidación, salvo que se trate de una declaración-liquidación centralizada, en cuyo caso no se cumplimentará este apartado CAE, sino que se consignarán los CAES que correspondan en el desglose de cuotas de la declaración-liquidación.
+Liquidación correspondiente a: Se consignará el CAE del establecimiento a que se refiere la declaración-liquidación, salvo que se trate de una declaración-liquidación centralizada, en cuyo caso no se cumplimentará este apartado CAE, sino que se consignarán los CAES que correspondan en el desglose de cuotas de la declaración-liquidación.
 
 Si la declaración-liquidación se deriva de recepciones de productos del resto de la Unión Europea, se marcará esta opción.
 
@@ -85,39 +77,39 @@ Estos datos se presentarán con arreglo al siguiente modelo:
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-|  | Cuota Íntegra Total |
-| Total deducciones de la cuota |
-| Cuota líquida total |
+|  |  |  | Cuota Íntegra Total. |
+| Total deducciones de la cuota. |
+| Cuota líquida total. |
 
-CAE: se consignará el CAE del establecimiento al que corresponde el desglose de cuotas exclusivamente cuando se trate de una declaración-liquidación centralizada.
+CAE: Se consignará el CAE del establecimiento al que corresponde el desglose de cuotas exclusivamente cuando se trate de una declaración-liquidación centralizada.
 
-Epígrafe: se indicarán los epígrafes establecidos en el anexo XLIV de la Orden EHA/3482/2007, de 20 de noviembre.
+Epígrafe: Se indicarán los epígrafes establecidos en el anexo XLIV de la Orden EHA/3482/2007, de 20 de noviembre.
 
-Base imponible: las bases imponibles serán las correspondientes al período de liquidación, y a la Comunidad Autónoma correspondiente en caso de productos gravados con tipo estatal especial. Se expresarán en la unidad correspondiente a cada epígrafe, con dos cifras decimales, redondeando por defecto o exceso, según que la tercera cifra decimal sea o no inferior a 5.
+Base imponible: Las bases imponibles serán las correspondientes al período de liquidación, y a la Comunidad Autónoma correspondiente en caso de productos gravados con tipo estatal especial. Se expresarán en la unidad correspondiente a cada epígrafe, con dos cifras decimales, redondeando por defecto o exceso, según que la tercera cifra decimal sea o no inferior a 5.
 
-Tipo impositivo: deberá indicarse para cada epígrafe la suma de los tipos impositivos aplicables (estatal general, estatal especial y autonómico, en su caso) en el momento de devengo del impuesto.
+Tipo impositivo: Deberá indicarse para cada epígrafe la suma de los tipos impositivos aplicables (estatal general, estatal especial y autonómico, en su caso) en el momento de devengo del impuesto.
 
-Cuota íntegra: se indicará el resultado de aplicar el tipo impositivo sobre la base imponible correspondiente a cada epígrafe, en euros con dos decimales.
+Cuota íntegra: Se indicará el resultado de aplicar el tipo impositivo sobre la base imponible correspondiente a cada epígrafe, en euros con dos decimales.
 
 Deducciones de la cuota. Concepto: se cumplimentará cuando el sujeto pasivo se aplique las deducciones de cuota previstas en la normativa de impuestos especiales. Se indicará el concepto por el que se realiza la deducción, de entre los siguientes:
 
-1. Proyectos piloto (biocarburantes)
+1. Proyectos piloto (biocarburantes).
 
-2. Productos contaminados
+2. Productos contaminados.
 
-3. Recuperación vapores
+3. Recuperación vapores.
 
-4. Otras deducciones
+4. Otras deducciones.
 
-Deducciones de la cuota. Cuota deducible: se indicará la cuota deducible por cada uno de los epígrafes y conceptos correspondientes a un CAE, en euros con dos decimales.
+Deducciones de la cuota. Cuota deducible: Se indicará la cuota deducible por cada uno de los epígrafes y conceptos correspondientes a un CAE, en euros con dos decimales.
 
 Si no fuese posible imputar por CAE alguna deducción, el importe de la misma se consignará de forma independiente, totalizado por cada concepto y epígrafe.
 
-Cuota íntegra total: se indicará la suma de las cuotas íntegras correspondientes a los epígrafes consignados en la declaración-liquidación.
+Cuota íntegra total: Se indicará la suma de las cuotas íntegras correspondientes a los epígrafes consignados en la declaración-liquidación.
 
-Total deducciones de la cuota: deberá indicarse la suma de las cuotas deducibles por cada epígrafe y concepto.
+Total deducciones de la cuota: Deberá indicarse la suma de las cuotas deducibles por cada epígrafe y concepto.
 
-Cuota líquida total: será la diferencia entre lo consignado en las casillas «cuota íntegra total» y «total deducciones de la cuota».
+Cuota líquida total: Será la diferencia entre lo consignado en las casillas «cuota íntegra total» y «total deducciones de la cuota».
 
 D. Declaración-liquidación complementaria o solicitud de rectificación
 
@@ -125,7 +117,9 @@ Declaración complementaria: se marcará con una X si la presentación de esta d
 
 Solicitud sustitutiva: se marcará con una X si la presentación de esta declaración tiene por objeto rectificar registros declarados que han sido consignados de manera errónea en otra declaración del mismo ejercicio presentada anteriormente.
 
-N.º de justificante de la declaración anterior: se consignará el número de justificante correspondiente a la declaración a la que sustituye o complementa.
+N.º de justificante de la declaración anterior: Se consignará el número de justificante correspondiente a la declaración a la que sustituye o complementa.
+
+> Se sustituye por el que figura como anexo I de la Orden HAC/135/2019, de 31 de enero, según establece su art. único.6. Ref. BOE-A-2019-2144
 
 > Se modifica por la disposición final 2 de la Orden HAP/290/2013, de 19 de febrero. Ref. BOE-A-2013-2084#dfsegunda
 
