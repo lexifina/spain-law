@@ -2,7 +2,9 @@
 
 ## Catálogo homogéneo de equivalencias de las categorías profesionales de personal estatutario del SNS
 
-> Téngase en cuenta que se anula, exclusivamente en lo que atañe al catálogo de equivalencia profesionales del Anexo relativo al personal sanitario técnico grupo C1 denominación Técnico Superior Especialista en las 13 denominaciones, por no haberle sometido al trámite de audiencia, por Sentencia del TS de 23 de marzo de 2017. Ref. BOE-A-2017-6607
+El cuadro de equivalencias que se inserta a continuación indica, respecto a cada clase del personal estatutario del Sistema Nacional de Salud: el grupo de la clasificación profesional (G.C.P.) que le corresponde; la denominación unitaria bajo la que, en adelante y a nivel estatal, se conocerán las categorías profesionales que lo conforman (categorías de referencia); y los diversos nombres que los servicios de salud han otorgado a cada categoría profesional de referencia (categorías de equivalencia).
+
+Las llamadas categorías de referencia engloban, por lo tanto, a todos los miembros del personal estatutario del Sistema Nacional de Salud que, bajo denominaciones diversas, desempeñan funcionalmente tareas y cometidos similares, en puestos para cuyo acceso se requieren las mismas exigencias de titulación, cualificación y otros requisitos de competencia y capacitación profesional, en los diferentes servicios de salud.
 
 | G.C P. | CLASIFICACIÓN DE PERSONAL ESTATUTARIO | DENOMINACIÓN DE LA CATEGORÍA DE REFERENCIA | CATEGORÍAS EQUIVALENTES |
 | --- | --- | --- | --- |
@@ -86,19 +88,18 @@
 | DIETISTA - NUTRICIONISTA (*) | DIETISTA-NUTRICIONISTA / NUTRICIÓN Y DIETÉTICA / NUTRICIÓN HUMANA Y DIETÉTICA |
 | LOGOPEDA (*) | LOGOPEDA / LOGOFONÍA - LOGOPEDIA / PROFESOR/A LOGOFONÍA Y LOGOPEDIA / PROFESOR/A LOGOPEDA / PROFESOR/A DE LOGOFONÍA |
 | TERAPEUTA OCUPACIONAL (*) | TERAPEUTA OCUPACIONAL |
-| C1 | P. SANITARIO TÉCNICO | TÉCNICO/A SUPERIOR ESPECIALISTA EN (*) : | TÉCNICO/A ESPECIALISTA DE MEDICINA NUCLEAR / TÉCNICO/A ESPECIALISTA DE RADIODIAGNÓSTICO / HIGIENISTA DENTAL / HIGIENISTA DENTAL DEL ÁREA / HIGIENE DENTAL / PRÓTESIS DENTAL / TÉCNICO/A ESPECIALISTA DE LABORATORIO / TÉCNICO/A ESPECIALISTA DOSIMETRISTA / TÉCNICO/A EN ORTOPEDIA / TÉCNICO/A ESPECIALISTA EN LOGOFONIATRÍA / TÉCNICO/A ESPECIALISTA GRADO SUPERIOR SANITARIO EN / TÉCNICO ESPECIALISTA EN: |
-| ANATOMÍA PATOLÓGICA | ANATOMÍA PATOLÓGICA/TECNICO ANATOMIA PATOLOGICA Y CITOLOGIA |
+| C1 | P. SANITARIO TÉCNICO | TÉCNICO/A SUPERIOR EN | TÉCNICO/A ESPECIALISTA DE MEDICINA NUCLEAR / TÉCNICO/A ESPECIALISTA DE RADIODIAGNÓSTICO / HIGIENISTA DENTAL / HIGIENISTA DENTAL DEL ÁREA / HIGIENE DENTAL / PRÓTESIS DENTAL / TÉCNICO/A ESPECIALISTA DE LABORATORIO / TÉCNICO/A ESPECIALISTA DOSIMETRISTA / TÉCNICO/A EN ORTOPEDIA / TÉCNICO/A ESPECIALISTA EN LOGOFONIATRÍA / TÉCNICO/A ESPECIALISTA SANITARIO EN / TÉCNICO ESPECIALISTA EN: |
+| ANATOMÍA PATOLÓGICA Y CITODIAGNÓSTICO | ANATOMÍA PATOLÓGICA/TÉCNICO ANATOMÍA PATOLÓGICA Y CITOLOGÍA |
 | AUDIOLOGÍA PROTÉSICA | AUDIOLOGÍA PROTÉSICA |
-| DIETÉTICA Y NUTRICION | DIETÉTICA / DIETÉTICA Y NUTRICION / NUTRICIÓN Y CONTROL DE LOS ALIMENTOS |
-| DOCUMENTACIÓN SANITARIA | DOCUMENTACIÓN SANITARIA |
-| MEDICINA NUCLEAR | MEDCINA NUCLEAR |
+| DIETÉTICA Y NUTRICIÓN | DIETÉTICA / DIETÉTICA Y NUTRICIÓN / NUTRICIÓN Y CONTROL DE LOS ALIMENTOS |
+| DOCUMENTACIÓN Y ADMINISTRACIÓN SANITARIA | DOCUMENTACIÓN SANITARIA |
 | HIGIENE BUCODENTAL | HIGIENE BUCODENTAL / HIGIENE DENTAL |
-| RADIODIAGNÓSTICO | IMAGEN PARA EL DIAGNÓSTICO / RADIODIAGNÓSTICO/TECNICO PROTECCION RADIOLOGICA |
-| LABORATORIO DE DIAGNÓSTICO CLÍNICO | LABORATORIO DE DIAGNÓSTICO CLÍNICO |
-| OPTICA DE ANTEOJERÍA | OPTICA DE ANTEOJERÍA |
+| IMAGEN PARA EL DIAGNÓSTICO Y MEDICINA NUCLEAR | IMAGEN PARA EL DIAGNÓSTICO / RADIODIAGNÓSTICO/TÉCNICO PROTECCIÓN RADIOLÓGICA/MEDICINA NUCLEAR |
+| LABORATORIO DE DIAGNÓSTICO CLÍNICO Y BIOMÉDICO | LABORATORIO DE DIAGNÓSTICO CLÍNICO |
+| ÓPTICA DE ANTEOJERÍA | ÓPTICA DE ANTEOJERÍA |
 | ORTOPROTÉSICA | ORTOPROTÉSICA |
 | PRÓTESIS DENTALES | PRÓTESIS DENTALES / PRÓTESIS DENTAL |
-| RADIOTERAPIA | RADIOTERAPIA |
+| RADIOTERAPIA Y DOSIMETRÍA | RADIOTERAPIA |
 | SALUD AMBIENTAL | SALUD AMBIENTAL |
 | C2 | P. SANITARIO TÉCNICO | TÉCNICO/A MEDIO SANITARIO: CUIDADOS AUXILIARES ENFERMERÍA (*) | AUXILIAR DE ENFERMERÍA / AUXILIAR DE ENFERMERÍA EQUIPO ATENCIÓN PRIMARIA / TÉCNICO EN CUIDADOS AUXILIARES DE ENFERMERÍA / AUXILIAR DE ENFERMERÍA APOYO / CUIDADOS AUXILIARES DE ENFERMERÍA / AUXILIAR DE CLÍNICA / AUXILIAR SANITARIO / AUXILIAR DE EMERGENCIAS SANITARIAS / MONITOR SALUD MENTAL |
 | TÉCNICO/A MEDIO SANITARIO: FARMACIA (*) | TÉCNICOS AUXILIARES DE FARMACIA / FARMACIA |
@@ -162,9 +163,7 @@
 | PINCHE (*) | PINCHE / PERSONAL DE SERVICIOS |
 | PLANCHADORA (*) | PLANCHADORA / LAVANDERA-PLANCHADORA / PERSONAL DE SERVICIOS |
 
-(*) NOTA FINAL:
-
-El acceso a estas categorías de referencia por movilidad, precisará en primer lugar que el aspirante se encuentre encuadrado, en la especialidad o categoría específica en la que ostente nombramiento como personal estatutario fijo, en una de las categorías sobre las que se establece equivalencia; que se oferten plazas y así se describan y enumeren las plazas concretas ofertadas por cada servicio de salud que promueva la convocatoria, de modo y manera que no se pueda producir, en ningún caso, el acceso de un efectivo de una especialidad a la de otra. Por ello, tanto en las categoría de referencia de «Titulado Especialista en» como en la de «Técnico Superior Especialista en» o en la de «Técnico de Salud Pública en» deberá atenderse a la titulación y especialidad concreta de cada profesional. Por ello habrá de observarse en éstas que, aun compartiendo la denominación genérica en la categoría de referencia, sólo podrá optarse por movilidad a la categoría equivalente de la misma especialidad y titulación de acceso a la categoría en la que se ostenta nombramiento estatutario fijo. Así, en ningún caso, podrá acceder un Titulado Superior especialista en una especialidad concreta a una plaza de Titulado Superior Especialista de otra especialidad o, un Técnico Superior Especialista en una disciplina concreta a una Plaza de Técnico Superior Especialista de otra titulación.
+> Se modifica por el art. único.2 a 4 del Real Decreto 40/2019, de 1 de febrero. Ref. BOE-A-2019-2149
 
 > Se anula, exclusivamente en lo que atañe al catálogo de equivalencia profesionales del Anexo relativo al personal sanitario técnico grupo C1 denominación Técnico Superior Especialista en las 13 denominaciones, por no haberle sometido al trámite de audiencia, por Sentencia del TS de 23 de marzo de 2017. Ref. BOE-A-2017-6607
 
