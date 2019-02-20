@@ -1,0 +1,3 @@
+El Consejo de Ministros, en su reunión del día 30 de noviembre de 2018, y a propuesta de la Vicepresidenta del Gobierno y Ministra de la Presidencia, Relaciones con las Cortes e Igualdad y de la Ministra de Política Territorial y Función Pública, ha adoptado un Acuerdo por el que se aprueban instrucciones para actualizar las convocatorias de pruebas selectivas de personal funcionario, estatutario y laboral, civil y militar en orden a eliminar ciertas causas médicas de exclusión en el acceso al empleo público.
+
+Para general conocimiento se procede a su publicación como anexo a la presente Orden.
