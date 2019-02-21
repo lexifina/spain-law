@@ -1,3 +1,0 @@
-Madrid, 6 de mayo de 1999.
-
-ARIAS-SALGADO MONTALVO
