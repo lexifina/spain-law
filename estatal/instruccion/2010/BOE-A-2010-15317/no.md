@@ -1,0 +1,1 @@
+Téngase en cuenta la Instrucción de 18 de febrero de 2019, de la Dirección General de los Registros y del Notariado, sobre actualización del régimen registral de la filiación de los nacidos mediante gestación por sustitución. Ref. BOE-A-2019-2367
