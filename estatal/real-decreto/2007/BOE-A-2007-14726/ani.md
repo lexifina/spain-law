@@ -106,9 +106,11 @@ Cuando se trate de un curso de formación acelerada, la duración anteriormente 
 
 3.5 Objetivo: Tener capacidad para evaluar situaciones de emergencia.
 
-Contenido: Seguridad activa y pasiva; comportamiento en situaciones de emergencia: Actuación en caso de accidente de tráfico; intervención, sensibilización y educación vial (formación individualizada); las normas de tráfico y la seguridad vial (debate grupal, dinámica de grupos); evaluación de la situación; prevención del agravamiento de accidentes; aviso a los servicios de socorro; auxilio a los heridos y aplicación de los primeros socorros; reacción en caso de incendio; evacuación de los ocupantes del camión; garantizar la seguridad de todos los pasajeros; reacciones en caso de agresión; principios básicos de la declaración amistosa de accidente.
+Contenido: Seguridad activa y pasiva; comportamiento en situaciones de emergencia:
 
-Duración: 15 horas, que se impartirán en aula.
+Actuación en caso de accidente de tráfico; intervención, sensibilización y educación vial (formación individualizada); las normas de tráfico y la seguridad vial (debate grupal, dinámica de grupos); evaluación de la situación; prevención del agravamiento de accidentes; aviso a los servicios de socorro; auxilio a los heridos y aplicación de los primeros socorros; reacción en caso de incendio; evacuación de los ocupantes del camión; garantizar la seguridad de todos los pasajeros; reacciones en caso de agresión; principios básicos de la declaración amistosa de accidente.
+
+Duración: 15 horas, de las cuales 12 se impartirán en aula y 3 en un lugar adecuado para la realización de prácticas de extinción de incendios.
 
 En especial, se dedicarán 5 horas de este módulo a analizar la temática relativa al transporte de mercancías peligrosas, con el siguiente contenido y distribución: Prácticas de extinción de incendios (3 horas); primeros auxilios (2 horas).
 
@@ -264,19 +266,19 @@ Para cualquier clase de permiso.
 
 Contenido: Conocimiento del vehículo; curvas de par, potencia y consumo específico de un motor; zona de utilización óptima del cuentarrevoluciones; diagramas de cobertura de las relaciones de la caja de cambio de velocidades; mantenimiento mecánico básico.
 
-Duración: 1 hora, que se impartirá en aula.
+Duración: 1 hora, que se impartirá en aula, vehículo o simulador, indistintamente.
 
 1.2 Objetivo: Conocer las características técnicas y el funcionamiento de los dispositivos de seguridad a fin de dominar el vehículo, minimizar su desgaste y prevenir las anomalías de funcionamiento.
 
 Contenido: Neumáticos; frenos; límites de utilización de los frenos y ralentizadores; selección de la mejor combinación entre velocidad y relación de transmisión; utilización de la inercia del vehículo; utilización de los medios de ralentización y de frenado en las bajadas; acciones que deben adoptarse en caso de fallo.
 
-Duración: 3 horas, que se impartirán en aula.
+Duración: 3 horas, que se impartirán en aula, vehículo o simulador, indistintamente.
 
 1.3 Objetivo: Poder optimizar el consumo de carburante.
 
 Contenido: Optimización del consumo de carburante mediante la aplicación de las técnicas indicadas en los puntos 1.1 y 1.2.
 
-Duración: 4 horas, que se impartirán en aula.
+Duración: 4 horas, que se impartirán en aula, vehículo o simulador, indistintamente.
 
 2. Aplicación de la reglamentación.
 
@@ -305,3 +307,5 @@ Duración: 4 horas, que reimpartirán en aula.
 Contenido: Seguridad activa y pasiva; comportamiento en situaciones de emergencia, actuación en caso de accidente de tráfico; intervención, sensibilización y educación vial (formación individualizada); las normas de tráfico y la seguridad vial (debate grupal, dinámica de grupos); evaluación de la situación; prevención del agravamiento de accidentes; aviso a los servicios de socorro; auxilio a los heridos y aplicación de los primeros socorros; reacción en caso de incendio; evacuación de los ocupantes del vehículo; reacciones en caso de agresión; principios básicos de la declaración amistosa de accidente.
 
 Duración: 10 horas, que se impartirán en aula, si bien 4 de ellas serán desarrolladas de forma individualizada sobre contenidos de intervención, sensibilización y educación vial y 1 será desarrollada en debate en grupo sobre aspectos del tráfico y la seguridad vial.
+
+> Se modifican los apartados 3.5 de la sección 1ª letra A) y 1 de la letra B) por el art. 5.9 y 10 del Real Decreto 70/2019, de 15 de febrero. Ref. BOE-A-2019-2289

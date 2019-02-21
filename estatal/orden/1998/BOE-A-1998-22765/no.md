@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 254, de 23 de octubre de 1998. Ref. BOE-A-1998-24419.
+Norma derogada, con efectos de 21 de febrero de 2019, por la disposición derogatoria única.5 del Real Decreto 70/2019, de 15 de febrero. Ref. BOE-A-2019-2289

@@ -52,19 +52,19 @@ Lo dispuesto en este punto se entiende sin perjuicio de que una misma persona pu
 
 4. Disponer de locales adecuados para impartir, al menos, la parte teórica de los cursos.
 
-A tal efecto, el solicitante deberá acreditar que dispone de unos locales abiertos al público, para los que cuenta con la correspondiente licencia municipal de apertura, que resulten idóneos para la práctica docente y que reúnan las debidas condiciones higiénicas, acústicas, de habitabilidad, de seguridad y de accesos ordinarios de personas, además de aquellas medidas previstas para personas con discapacidad, exigidas por la legislación vigente.
+A tal efecto, el solicitante deberá acreditar que dispone de unos locales abiertos al público, de acuerdo con los requisitos de apertura que disponga la normativa municipal correspondiente, que resulten idóneos para la práctica docente y que reúnan las debidas condiciones higiénicas, acústicas, de habitabilidad, de seguridad y de accesos ordinarios de personas, además de aquellas medidas previstas para personas con discapacidad, exigidas por la legislación vigente.
 
 En todo caso, dichos locales deberán reunir los siguientes requisitos mínimos:
 
-a) Un aula cuya superficie no podrá ser inferior a 1,5 metros cuadrados por alumno.
+a) Un aula, cuya superficie no podrá ser inferior a 1,5 metros cuadrados por alumno.
 
 b) Un espacio para servicios generales del centro.
 
-c) Aseos y servicios higiénico-sanitarios diferenciados y en número adecuado a la capacidad del centro.
+c) Disponer de un sistema de control de acceso biométrico digital que cumpla las características que determine la Dirección General de Transporte Terrestre con el fin de facilitar el control de asistencia a los cursos que se impartan, tanto en la parte de formación impartida en aula como de la impartida a bordo de un vehículo.
 
 Cuando el solicitante no acredite disponer por sí mismo de las instalaciones y medios adecuados para que todos los alumnos puedan realizar las prácticas contempladas en el anexo IV, deberá justificar documentalmente ante el órgano competente haber concertado la realización de tales prácticas con algún organismo, empresa o entidad especializado en dicha materia que disponga de tales instalaciones, medios y equipos; circunstancia que se hará constar en la correspondiente autorización.
 
-Sin perjuicio de lo anterior, la Administración competente podrá autorizar el uso de ciertos espacios e instalaciones singulares, así como, en su caso, de aquellas instalaciones y equipamientos propios de entornos profesionales que, siendo necesarios para impartir los programas formativos y realizar la evaluación de las competencias, se encuentren ubicados en un recinto distinto al resto de las instalaciones del centro. Los centros garantizarán que los citados espacios cumplen con los requisitos mínimos para el desarrollo adecuado de estas actividades.
+Sin perjuicio de lo anterior, la Administración competente podrá autorizar el uso de ciertos espacios e instalaciones singulares, así como, en su caso, de aquellas instalaciones y equipamientos propios de entornos profesionales que, siendo necesarios para impartir programas formativos y realizar la evaluación de las competencias, se encuentren ubicados en un recinto distinto al resto de las instalaciones del centro. Los centros garantizarán que los citados espacios cumplen con los requisitos mínimos para el desarrollo adecuado de estas actividades.
 
 5. Disponer de los vehículos que resulten necesarios para la realización de las prácticas señaladas en el anexo IV. En todo caso, se deberá disponer de al menos un vehículo de la categoría adecuada a cada clase de curso que requiera una formación práctica y a la clase de permiso de conducción afectada.
 
@@ -93,3 +93,5 @@ g) Una colección actualizada de la legislación sobre ordenación del transport
 7. Junto a la anterior documentación, el solicitante deberá aportar el programa de cualificación y formación que prevea impartir, indicando su plan de ejecución y los métodos de enseñanza previstos, así como, en su caso, las condiciones de acceso y participación en los cursos.
 
 8. Los centros autorizados que impartan módulos de formación que, por actuar dentro de un sistema o certificación, se vean afectados por la aplicación de otra normativa (conductores mercancías peligrosas, recuperación de puntos del permiso de conducir, formación para la obtención del permiso de conducción, etc.), deberán cumplir, además, aquellos requisitos que determinen o se deriven de dicha normativa.
+
+> Se modifica el apartado 4 por el art. 5.11 del Real Decreto 70/2019, de 15 de febrero. Ref. BOE-A-2019-2289

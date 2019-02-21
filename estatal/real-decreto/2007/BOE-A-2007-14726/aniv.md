@@ -20,11 +20,11 @@ e) Relación de los alumnos que participarán en el curso, en la que constarán 
 
 a) La modificación del contenido del curso o de sus fechas de inicio, desarrollo o finalización, con, al menos, 24 horas de antelación a la fecha inicialmente prevista para el inicio del curso.
 
-b) La sustitución de alguno de los profesores que han de impartir el curso, con, al menos, 24 horas de antelación a la fecha en que dicho profesor haya de iniciar su participación en aquél.
+b) La sustitución de alguno de los profesores que han de impartir el curso, con, al menos, 24 horas de antelación a la fecha en que dicho profesor haya de iniciar su participación en aquel.
 
 c) El abandono o exclusión del curso por parte de alguno de los alumnos inicialmente comunicados, inmediatamente que tal hecho se produzca.
 
-A los efectos previstos en este apartado, deberá tenerse en cuenta que cuando un alumno deje de asistir, por cualquier causa, a un 10 por ciento o más de las horas del curso, deberá ser excluido de éste. Sin perjuicio de ello, el centro podrá, asimismo, excluir a aquellos alumnos que hubiesen dejado de asistir a una parte del curso que, a su juicio, abordase contenidos determinantes de la validez de éste.
+A los efectos previstos en esta letra, deberá tenerse en cuenta que cuando un alumno deje de asistir, por cualquier causa, a un cinco por ciento o más de las horas del curso, deberá ser excluido de este. Sin perjuicio de ello, el centro podrá, asimismo, excluir a aquellos alumnos que hubiesen dejado de asistir a una parte del curso que, a su juicio, abordase contenidos determinantes de la validez de este.
 
 ## Sección 2.ª Contenido y duración de las prácticas en los cursos de formación
 
@@ -43,3 +43,5 @@ Durante la conducción individual, el alumno deberá encontrarse, en todos los c
 Los cursos de formación continua podrán, asimismo, incluir una parte práctica, que podrá impartirse, total o parcialmente, en simuladores de alto nivel.
 
 Si se realizasen prácticas de conducción en vías abiertas a la circulación general, sin que el conductor sea titular del permiso de conducción correspondiente, el vehículo utilizado deberá cumplir los requisitos establecidos a estos efectos en el anexo VII del Reglamento General de Conductores, aprobado por Real Decreto 772/1997, de 30 de mayo.
+
+> Se modifica el apartado 2 de la sección 1ª por el art. 5.12 del Real Decreto 70/2019, de 15 de febrero. Ref. BOE-A-2019-2289
