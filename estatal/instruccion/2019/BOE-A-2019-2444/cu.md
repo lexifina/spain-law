@@ -1,0 +1,3 @@
+## Cuarta. Publicación en el «Boletín Oficial del Estado» y entrada en vigor.
+
+Dado el carácter general de esta Instrucción, se procederá a su publicación en el «Boletín Oficial del Estado», de conformidad con lo dispuesto en el artículo 18.6 de la Ley Orgánica del Régimen Electoral General, y será de aplicación a partir del día siguiente al de su publicación, sustituyendo y dejando sin efecto las Instrucciones de la Junta Electoral Central de 15 de marzo de 1999, sobre límite de gastos electorales en las elecciones a celebrar el 13 de junio de 1999, y de 27 de abril de 1999, sobre la subvención por envío directo y personal de documentación electorales en el caso de elecciones simultáneas.
