@@ -1,0 +1,161 @@
+## ANEXO II
+
+## Lista indicativa de objetivos ambientales de las estrategias marinas que deben ser considerados en el análisis de compatibilidad de las actuaciones
+
+La evaluación de la compatibilidad de actuaciones con la estrategia marina correspondiente se realizará caso por caso, teniendo en consideración sus efectos sobre los objetivos ambientales de las estrategias marinas, y sobre la consecución del buen estado ambiental.
+
+Los objetivos ambientales pueden consultarse en la Resolución de 13 de noviembre de 2012, de la Secretaría de Estado de Medio Ambiente, por la que se publica el Acuerdo del Consejo de Ministros de 2 de noviembre de 2012, por el que se aprueban los objetivos ambientales de las estrategias marinas españolas. El anexo de la citada resolución, en el que se enumeran y detallan los objetivos ambientales de las estrategias marinas, figura en la página Web del Ministerio para la Transición Ecológica, en la siguiente dirección:
+
+https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/objetivosambientalesboeanexo_tcm30-380351.pdf.
+
+Estos objetivos son objeto de revisión periódica, siguiendo lo establecido en el artículo 20 de la Ley 41/2010, de 29 de diciembre, y artículo 7 del presente real decreto.
+
+Demarcación Marina Noratlántica
+
+| Actuaciones | Objetivos ambientales específicos1 |
+| --- | --- |
+| A | B | C |
+| 1.1 | 1.2 | 1.4 | 1.5 | 1.1 | 1.2 | 1.5 | 1.10 | 2.1 | 2.2 | 2.3 | 2.4 | 2.1 | 2.2 | 3.5 |
+| A | Sondeos exploratorios y explotación de hidrocarburos en el subsuelo marino. | X |  | X |  |  | X | X | X | X | X | X | X | X | X | X |
+| B | Almacenamiento geológico de gas o CO2. | X |  | X |  |  | X | X | X | X | X | X | X | X | X | X |
+| C | Instalación de gasoductos y oleoductos, sobre el lecho marino o enterrados bajo el mismo. | X |  | X |  | X | X | X | X | X | X | X | X | X | X | X |
+| D | Instalación de cables submarinos de telecomunicaciones o transporte de electricidad, colocados en el lecho marino o enterrados bajo el mismo. | X |  | X |  |  | X | X | X |  |  |  | X | X | X | X |
+| E | Instalación de conducciones para vertidos desde tierra al mar o captaciones de agua de mar sobre el lecho marino o enterrados bajo el mismo. | X |  | X |  | X | X | X | X |  |  |  | X | X | X | X |
+| F | Infraestructuras marinas portuarias. | X | X | X |  | X | X | X | X | X | X | X | X | X | X | X |
+| G | Infraestructuras marinas de defensa de la costa. | X | X | X |  |  |  | X | X |  |  |  |  | X | X | X |
+| H | Dragados y vertidos al mar de material dragado, incluyendo los dragados para mejorar el calado de los puertos o de sus canales de acceso. | X | X | X |  |  | X | X | X | X | X | X |  | X | X | X |
+| I | Extracción de áridos submarinos, incluida la realizada con destino a la creación o regeneración de playas y sin perjuicio de la prohibición de extracción de áridos para la construcción conforme a lo señalado en el artículo 63.2 de la Ley 22/1988, de 28 de julio, de Costas. | X | X | X |  |  | X | X | X | X | X | X |  | X | X | X |
+| J | Minería submarina. | X | X | X |  |  | X | X | X | X | X | X |  | X | X | X |
+| K | Regeneración de playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial. | X | X | X |  |  |  | X |  | X | X | X |  | X | X | X |
+| L | Proyectos diferentes a las aportaciones de arena a playas y a la construcción de nuevas infraestructuras portuarias y de defensa de la costa, encaminados a ganar tierras al mar, con aporte de materiales de cualquier procedencia. | X | X | X |  |  | X | X | X | X | X | X |  | X | X | X |
+| M | Energías renovables en el mar. | X |  | X |  |  | X | X | X |  |  |  |  | X | X | X |
+| N | Balizamientos de señalización de áreas ecoturísticas, áreas de custodia marina o asimiladas, mediante la instalación de boyas o cualquier otro dispositivo flotante siempre y cuando los mismos vayan anclados al fondo marino. | X |  | X |  |  |  | X |  |  |  |  |  |  |  |  |
+| O | Fondeaderos fuera de la zona de servicio adscrita a los puertos, y dentro de la zona de servicio cuando en su instalación y uso se afecte de forma directa a espacios marinos protegidos, o a hábitats o especies con alguna figura de protección. | X | X | X |  |  | X | X | X |  |  |  |  | X | X | X |
+| P | Arrecifes artificiales. | X | X | X |  |  |  | X |  | X | X | X |  | X | X | X |
+| Q | Instalaciones de acuicultura marina para el cultivo o engorde de especies comerciales. | X | X | X | X |  | X | X |  | X | X |  |  | X | X | X |
+| R | Actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar. | X |  | X |  |  | X | X |  | X | X |  |  |  |  |  |
+| S | Otras: Cualquier otra actuación susceptible de estar sujeta a informe de compatibilidad por tratarse de uno de los supuestos sometidos a uno de los procedimientos del artículo 6 y que esté directamente relacionada con la consecución de los objetivos ambientales y suponga un riesgo para el buen estado ambiental conforme a lo señalado en el apartado 3.3 de la Ley 41/2010, de 29 de diciembre. | X | X | X |  |  |  | X | X |  |  |  |  | X | X |  |
+
+1 Resolución de 13 de noviembre de 2012, de la Secretaría de Estado de Medio Ambiente, por la que se publica el Acuerdo del Consejo de Ministros de 2 de noviembre de 2012, por el que se aprueban los objetivos ambientales de las estrategias marinas españolas (www.boe.es/boe/dias/2012/11/27/pdfs/BOE-A-2012-14545.pdf).
+
+Los objetivos ambientales específicos de la Demarcación Marina Noratlántica que se resumen en esta tabla pueden consultarse en su versión íntegra en: https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/em_noratlantica_objetivos_tcm30-130874.pdf.
+
+Demarcación Marina Sudatlántica
+
+| Actuaciones | Objetivos ambientales específicos1 |
+| --- | --- |
+| A | B | C |
+| 1.1 | 1.2 | 1.4 | 1.5 | 1.1 | 1.2 | 1.4 | 1.9 | 2.1 | 2.2 | 2.3 | 2.4 | 2.1 | 2.2 | 3.5 |
+| A | Sondeos exploratorios y explotación de hidrocarburos en el subsuelo marino. | X |  | X |  |  | X | X | X | X | X | X | X | X | X | X |
+| B | Almacenamiento geológico de gas o CO2. | X |  | X |  |  | X | X | X | X | X | X | X | X | X | X |
+| C | Instalación de gasoductos y oleoductos, sobre el lecho marino o enterrados bajo el mismo. | X |  | X |  | X | X | X | X | X | X | X | X | X | X | X |
+| D | Instalación de cables submarinos de telecomunicaciones o transporte de electricidad, colocados en el lecho marino o enterrados bajo el mismo. | X |  | X |  |  | X | X | X |  |  |  | X | X | X | X |
+| E | Instalación de conducciones para vertidos desde tierra al mar o captaciones de agua de mar sobre el lecho marino o enterrados bajo el mismo. | X |  | X |  | X | X | X | X |  |  |  | X | X | X | X |
+| F | Infraestructuras marinas portuarias. | X | X | X |  | X | X | X | X | X | X | X | X | X | X | X |
+| G | Infraestructuras marinas de defensa de la costa. | X | X | X |  |  |  | X | X |  |  |  |  | X | X | X |
+| H | Dragados y vertidos al mar de material dragado, incluyendo los dragados para mejorar el calado de los puertos o de sus canales de acceso. | X | X | X |  |  | X | X | X | X | X | X |  | X | X | X |
+| I | Extracción de áridos submarinos, incluida la realizada con destino a la creación o regeneración de playas y sin perjuicio de la prohibición de extracción de áridos para la construcción conforme a lo señalado en el artículo 63.2 de la Ley 22/1988, de 28 de julio, de Costas. | X | X | X |  |  | X | X | X | X | X | X |  | X | X | X |
+| J | Minería submarina. | X | X | X |  |  | X | X | X | X | X | X |  | X | X | X |
+| K | Regeneración de playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial. | X | X | X |  |  |  | X |  | X | X | X |  | X | X | X |
+| L | Proyectos diferentes a las aportaciones de arena a playas y a la construcción de nuevas infraestructuras portuarias y de defensa de la costa, encaminados a ganar tierras al mar, con aporte de materiales de cualquier procedencia. | X | X | X |  |  | X | X | X | X | X | X |  | X | X | X |
+| M | Energías renovables en el mar. | X |  | X |  |  | X | X | X |  |  |  |  | X | X | X |
+| N | Balizamientos de señalización de áreas ecoturísticas, áreas de custodia marina o asimiladas, mediante la instalación de boyas o cualquier otro dispositivo flotante siempre y cuando los mismos vayan anclados al fondo marino. | X |  | X |  |  |  | X |  |  |  |  |  |  |  |  |
+| O | Fondeaderos fuera de la zona de servicio adscrita a los puertos, y dentro de la zona de servicio cuando en su instalación y uso se afecte de forma directa a espacios marinos protegidos, o a hábitats o especies con alguna figura de protección. | X | X | X |  |  | X | X | X |  |  |  |  | X | X | X |
+| P | Arrecifes artificiales. | X | X | X |  |  |  | X |  | X | X | X |  | X | X | X |
+| Q | Instalaciones de acuicultura marina para el cultivo o engorde de especies comerciales. | X | X | X | X |  | X | X |  | X | X |  |  | X | X | X |
+| R | Actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar. | X |  | X |  |  | X | X |  | X | X |  |  |  |  |  |
+| S | Otras: Cualquier otra actuación susceptible de estar sujeta a informe de compatibilidad por tratarse de uno de los supuestos sometidos a uno de los procedimientos del artículo 6 y que esté directamente relacionada con la consecución de los objetivos ambientales y suponga un riesgo para el buen estado ambiental conforme a lo señalado en el apartado 3.3 de la Ley 41/2010, de 29 de diciembre. | X | X | X |  |  |  | X | X |  |  |  |  | X | X |  |
+
+1 Resolución de 13 de noviembre de 2012, de la Secretaría de Estado de Medio Ambiente, por la que se publica el Acuerdo del Consejo de Ministros de 2 de noviembre de 2012, por el que se aprueban los objetivos ambientales de las estrategias marinas españolas (www.boe.es/boe/dias/2012/11/27/pdfs/BOE-A-2012-14545.pdf).
+
+Los objetivos ambientales específicos de la Demarcación Marina Sudatlántica que se resumen en esta tabla pueden consultarse en su versión íntegra en: https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/em_sudatlantica_objetivos_tcm30-130892.pdf.
+
+Demarcación Marina Estrecho y Alborán
+
+| Actuaciones | Objetivos ambientales específicos1 |
+| --- | --- |
+| A | B | C |
+| 1.1 | 1.2 | 1.4 | 1.5 | 1.1 | 1.2 | 1.5 | 1.9 | 2.1 | 2.2 | 2.3 | 2.4 | 2.1 | 2.2 | 3.5 |
+| A | Sondeos exploratorios y explotación de hidrocarburos en el subsuelo marino. | X |  | X |  |  | X | X | X | X | X | X | X | X | X | X |
+| B | Almacenamiento geológico de gas o CO2. | X |  | X |  |  | X | X | X | X | X | X | X | X | X | X |
+| C | Instalación de gasoductos y oleoductos, sobre el lecho marino o enterrados bajo el mismo. | X |  | X |  | X | X | X | X | X | X | X | X | X | X | X |
+| D | Instalación de cables submarinos de telecomunicaciones o transporte de electricidad, colocados en el lecho marino o enterrados bajo el mismo. | X |  | X |  |  | X | X | X |  |  |  | X | X | X | X |
+| E | Instalación de conducciones para vertidos desde tierra al mar o captaciones de agua de mar sobre el lecho marino o enterrados bajo el mismo. | X |  | X |  | X | X | X | X |  |  |  | X | X | X | X |
+| F | Infraestructuras marinas portuarias. | X | X | X |  | X | X | X | X | X | X | X | X | X | X | X |
+| G | Infraestructuras marinas de defensa de la costa. | X | X | X |  |  |  | X | X |  |  |  |  | X | X | X |
+| H | Dragados y vertidos al mar de material dragado, incluyendo los dragados para mejorar el calado de los puertos o de sus canales de acceso. | X | X | X |  |  | X | X | X | X | X | X |  | X | X | X |
+| I | Extracción de áridos submarinos, incluida la realizada con destino a la creación o regeneración de playas y sin perjuicio de la prohibición de extracción de áridos para la construcción conforme a lo señalado en el artículo 63.2 de la Ley 22/1988, de 28 de julio, de Costas. | X | X | X |  |  | X | X | X | X | X | X |  | X | X | X |
+| J | Minería submarina. | X | X | X |  |  | X | X | X | X | X | X |  | X | X | X |
+| K | Regeneración de playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial. | X | X | X |  |  |  | X |  | X | X | X |  | X | X | X |
+| L | Proyectos diferentes a las aportaciones de arena a playas y a la construcción de nuevas infraestructuras portuarias y de defensa de la costa, encaminados a ganar tierras al mar, con aporte de materiales de cualquier procedencia. | X | X | X |  |  | X | X | X | X | X | X |  | X | X | X |
+| M | Energías renovables en el mar. | X |  | X |  |  | X | X | X |  |  |  |  | X | X | X |
+| N | Balizamientos de señalización de áreas ecoturísticas, áreas de custodia marina o asimiladas, mediante la instalación de boyas o cualquier otro dispositivo flotante siempre y cuando los mismos vayan anclados al fondo marino. | X |  | X |  |  |  | X |  |  |  |  |  |  |  |  |
+| O | Fondeaderos fuera de la zona de servicio adscrita a los puertos, y dentro de la zona de servicio cuando en su instalación y uso se afecte de forma directa a espacios marinos protegidos, o a hábitats o especies con alguna figura de protección. | X | X | X |  |  | X | X | X |  |  |  |  | X | X | X |
+| P | Arrecifes artificiales. | X | X | X |  |  |  | X |  | X | X | X |  | X | X | X |
+| Q | Instalaciones de acuicultura marina para el cultivo o engorde de especies comerciales. | X | X | X | X |  | X | X |  | X | X |  |  | X | X | X |
+| R | Actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar. | X |  | X |  |  | X | X |  | X | X |  |  |  |  |  |
+| S | Otras: Cualquier otra actuación susceptible de estar sujeta a informe de compatibilidad por tratarse de uno de los supuestos sometidos a uno de los procedimientos del artículo 6 y que esté directamente relacionada con la consecución de los objetivos ambientales y suponga un riesgo para el buen estado ambiental conforme a lo señalado en el apartado 3.3 de la Ley 41/2010, de 29 de diciembre. | X | X | X |  |  |  | X | X |  |  |  |  | X | X |  |
+
+1 Resolución de 13 de noviembre de 2012, de la Secretaría de Estado de Medio Ambiente, por la que se publica el Acuerdo del Consejo de Ministros de 2 de noviembre de 2012, por el que se aprueban los objetivos ambientales de las estrategias marinas españolas (www.boe.es/boe/dias/2012/11/27/pdfs/BOE-A-2012-14545.pdf).
+
+Los objetivos ambientales específicos de la Demarcación Marina Estrecho y Alborán que se resumen en esta tabla pueden consultarse en su versión íntegra en: https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/em_estrecho_alboran_objetivos_tcm30-130910.pdf.
+
+Demarcación Marina Levantino-Balear
+
+| Actuaciones | Objetivos ambientales específicos1 |
+| --- | --- |
+| A | B | C |
+| 1.1 | 1.2 | 1.4 | 1.5 | 1.1 | 1.2 | 1.5 | 1.9 | 2.1 | 2.2 | 2.3 | 2.4 | 2.1 | 2.2 | 2.3 | 2.4 | 3.5 |
+| A | Sondeos exploratorios y explotación de hidrocarburos en el subsuelo marino. | X |  | X |  |  | X | X | X | X | X | X | X | X | X |  |  | X |
+| B | Almacenamiento geológico de gas o CO2. | X |  | X |  |  | X | X | X | X | X | X | X | X | X |  |  | X |
+| C | Instalación de gasoductos y oleoductos, sobre el lecho marino o enterrados bajo el mismo. | X |  | X |  | X | X | X | X | X | X | X | X | X | X |  |  | X |
+| D | Instalación de cables submarinos de telecomunicaciones o transporte de electricidad, colocados en el lecho marino o enterrados bajo el mismo. | X |  | X |  |  | X | X | X |  |  |  | X | X | X |  |  | X |
+| E | Instalación de conducciones para vertidos desde tierra al mar o captaciones de agua de mar sobre el lecho marino o enterrados bajo el mismo. | X |  | X |  | X | X | X | X |  |  |  | X | X | X |  |  | X |
+| F | Infraestructuras marinas portuarias. | X | X | X |  | X | X | X | X | X | X | X | X | X | X | X | X | X |
+| G | Infraestructuras marinas de defensa de la costa. | X | X | X |  |  |  | X | X |  |  |  |  | X | X | X | X | X |
+| H | Dragados y vertidos al mar de material dragado, incluyendo los dragados para mejorar el calado de los puertos o de sus canales de acceso. | X | X | X |  |  | X | X | X | X | X | X |  | X | X |  |  | X |
+| I | Extracción de áridos submarinos, incluida la realizada con destino a la creación o regeneración de playas y sin perjuicio de la prohibición de extracción de áridos para la construcción conforme a lo señalado en el artículo 63.2 de la Ley 22/1988, de 28 de julio, de Costas. | X | X | X |  |  | X | X | X | X | X | X |  | X | X |  |  | X |
+| J | Minería submarina. | X | X | X |  |  | X | X | X | X | X | X |  | X | X |  |  | X |
+| K | Regeneración de playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial. | X | X | X |  |  |  | X |  | X | X | X |  | X | X |  |  | X |
+| L | Proyectos diferentes a las aportaciones de arena a playas y a la construcción de nuevas infraestructuras portuarias y de defensa de la costa, encaminados a ganar tierras al mar, con aporte de materiales de cualquier procedencia. | X | X | X |  |  | X | X | X | X | X | X |  | X | X |  |  | X |
+| M | Energías renovables en el mar. | X |  | X |  |  | X | X | X |  |  |  |  | X | X |  |  | X |
+| N | Balizamientos de señalización de áreas ecoturísticas, áreas de custodia marina o asimiladas, mediante la instalación de boyas o cualquier otro dispositivo flotante siempre y cuando los mismos vayan anclados al fondo marino. | X |  | X |  |  |  | X |  |  |  |  |  |  |  |  |  |  |
+| O | Fondeaderos fuera de la zona de servicio adscrita a los puertos, y dentro de la zona de servicio cuando en su instalación y uso se afecte de forma directa a espacios marinos protegidos, o a hábitats o especies con alguna figura de protección. | X | X | X |  |  | X | X | X |  |  |  |  | X | X |  |  | X |
+| P | Arrecifes artificiales. | X | X | X |  |  |  | X |  | X | X | X |  | X | X |  |  | X |
+| Q | Instalaciones de acuicultura marina para el cultivo o engorde de especies comerciales. | X | X | X | X |  | X | X |  | X | X |  |  | X | X |  |  | X |
+| R | Actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar. | X |  | X |  |  | X | X |  | X | X |  |  |  |  |  |  |  |
+| S | Otras: Cualquier otra actuación susceptible de estar sujeta a informe de compatibilidad por tratarse de uno de los supuestos sometidos a uno de los procedimientos del artículo 6 y que esté directamente relacionada con la consecución de los objetivos ambientales y suponga un riesgo para el buen estado ambiental conforme a lo señalado en el apartado 3.3 de la Ley 41/2010, de 29 de diciembre. | X | X | X |  |  |  | X | X |  |  |  |  | X | X |  |  |  |
+
+1 Resolución de 13 de noviembre de 2012, de la Secretaría de Estado de Medio Ambiente, por la que se publica el Acuerdo del Consejo de Ministros de 2 de noviembre de 2012, por el que se aprueban los objetivos ambientales de las estrategias marinas españolas (www.boe.es/boe/dias/2012/11/27/pdfs/BOE-A-2012-14545.pdf).
+
+Los objetivos ambientales específicos de la Demarcación Marina Levantino-Balear que se resumen en esta tabla pueden consultarse en su versión íntegra en: https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/em_levantino_balear_objetivos_tcm30-130928.pdf.
+
+Demarcación Marina Canaria
+
+| Actuaciones | Objetivos ambientales específicos1 |
+| --- | --- |
+| A | B | C |
+| 1.1 | 1.2 | 1.4 | 1.5 | 1.8 | 1.1 | 1.2 | 1.4 | 1.6 | 2.1 | 2.2 | 2.3 | 2.1 | 2.2 | 3.5 |
+| A | Sondeos exploratorios y explotación de hidrocarburos en el subsuelo marino. | X |  | X |  | X |  | X | X | X | X | X | X | X | X | X |
+| B | Almacenamiento geológico de gas o CO2. | X |  | X |  | X |  | X | X | X | X | X | X | X | X | X |
+| C | Instalación de gasoductos y oleoductos, sobre el lecho marino o enterrados bajo el mismo. | X |  | X |  | X | X | X | X | X | X | X | X | X | X | X |
+| D | Instalación de cables submarinos de telecomunicaciones o transporte de electricidad, colocados en el lecho marino o enterrados bajo el mismo. | X |  | X |  | X |  | X | X | X |  |  | X | X | X | X |
+| E | Instalación de conducciones para vertidos desde tierra al mar o captaciones de agua de mar sobre el lecho marino o enterrados bajo el mismo. | X |  | X |  | X | X | X | X | X |  |  | X | X | X | X |
+| F | Infraestructuras marinas portuarias. | X | X | X |  | X | X | X | X | X | X | X | X | X | X | X |
+| G | Infraestructuras marinas de defensa de la costa. | X | X | X |  | X |  |  | X | X |  |  |  | X | X | X |
+| H | Dragados y vertidos al mar de material dragado, incluyendo los dragados para mejorar el calado de los puertos o de sus canales de acceso. | X | X | X |  | X |  | X | X | X | X | X |  | X | X | X |
+| I | Extracción de áridos submarinos, incluida la realizada con destino a la creación o regeneración de playas y sin perjuicio de la prohibición de extracción de áridos para la construcción conforme a lo señalado en el artículo 63.2 de la Ley 22/1988, de 28 de julio, de Costas. | X | X | X |  | X |  | X | X | X | X | X |  | X | X | X |
+| J | Minería submarina. | X | X | X |  | X |  | X | X | X | X | X |  | X | X | X |
+| K | Regeneración de playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial. | X | X | X |  | X |  |  | X |  | X | X |  | X | X | X |
+| L | Proyectos diferentes a las aportaciones de arena a playas y a la construcción de nuevas infraestructuras portuarias y de defensa de la costa, encaminados a ganar tierras al mar, con aporte de materiales de cualquier procedencia. | X | X | X |  | X |  | X | X | X | X | X |  | X | X | X |
+| M | Energías renovables en el mar. | X |  | X |  | X |  | X | X | X |  |  |  | X | X | X |
+| N | Balizamientos de señalización de áreas ecoturísticas, áreas de custodia marina o asimiladas, mediante la instalación de boyas o cualquier otro dispositivo flotante siempre y cuando los mismos vayan anclados al fondo marino. | X |  | X |  | X |  |  | X |  |  |  |  |  |  |  |
+| O | Fondeaderos fuera de la zona de servicio adscrita a los puertos, y dentro de la zona de servicio cuando en su instalación y uso se afecte de forma directa a espacios marinos protegidos, o a hábitats o especies con alguna figura de protección. | X | X | X |  | X |  | X | X | X |  |  |  | X | X | X |
+| P | Arrecifes artificiales. | X | X | X |  | X |  |  | X |  | X | X |  | X | X | X |
+| Q | Instalaciones de acuicultura marina para el cultivo o engorde de especies comerciales. | X | X | X | X | X |  | X | X |  | X |  |  | X | X | X |
+| R | Actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar. | X |  | X |  | X |  | X | X |  | X |  |  |  |  |  |
+| S | Otras: Cualquier otra actuación susceptible de estar sujeta a informe de compatibilidad por tratarse de uno de los supuestos sometidos a uno de los procedimientos del artículo 6 y que esté directamente relacionada con la consecución de los objetivos ambientales y suponga un riesgo para el buen estado ambiental conforme a lo señalado en el apartado 3.3 de la Ley 41/2010, de 29 de diciembre. | X | X | X |  |  |  |  | X | X |  |  |  | X | X |  |
+
+1 Resolución de 13 de noviembre de 2012, de la Secretaría de Estado de Medio Ambiente, por la que se publica el Acuerdo del Consejo de Ministros de 2 de noviembre de 2012, por el que se aprueban los objetivos ambientales de las estrategias marinas españolas (www.boe.es/boe/dias/2012/11/27/pdfs/BOE-A-2012-14545.pdf).
+
+Los objetivos ambientales específicos de la Demarcación Marina Canaria que se resumen en esta tabla pueden consultarse en su versión íntegra en: https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/em_canaria_objetivos_tcm30-130946.pdf.
