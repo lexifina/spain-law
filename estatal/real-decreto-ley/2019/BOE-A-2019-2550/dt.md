@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Compensación del transporte aéreo y marítimo de mercancías y residuos.
+
+1. El Gobierno solicitará a la Comisión Europea la modificación del Reglamento UE 1407/2013, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas de minimis, en el sentido de aumentar el límite de 200.000 euros de ayudas acumuladas por una misma empresa durante un período de tres años para el transporte de mercancías para los territorios insulares.
+
+2. El Gobierno solicitará a la Comisión Europea autorización para que no sea necesario que las ayudas a las que se refiere el artículo 11 de este real decreto-ley queden sometidas al Reglamento (UE) N.º 1407/2013 de la Comisión de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas de minimis. De esta manera, en caso de obtenerse la autorización de la Comisión, este Reglamento (UE) N.º 1407/2013 de la Comisión de 18 de diciembre de 2013, dejará de ser de aplicación a estas ayudas.
