@@ -1,0 +1,5 @@
+## Tercero. Publicidad.
+
+1. Dado el carácter público de los planes hidrológicos, conforme a lo dispuesto en el artículo 40.4 del texto refundido de la Ley de Aguas, el contenido íntegro del Plan Hidrológico podrá consultarse por cualquier persona en las oficinas de la Dirección General de Recursos Hídricos de la Consejería de Medio Ambiente de Baleares. Igualmente, esta información estará disponible en la página Web (dma.caib.es) sin perjuicio de la publicación de la parte normativa del Plan y sus anexos en el «Boletín Oficial de la Comunidad Autónoma de las Illes Balears» de conformidad con el artículo 3 de la citada parte normativa del Plan.
+
+2. Se podrá acceder al contenido del plan hidrológico en los términos previstos en la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente, así como en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
