@@ -89,18 +89,18 @@ c) Las marcas a aplicar a los aspirantes en el proceso de selección que opten e
 
 ## Tercero. Escalas de tropa o marinería de los Cuerpos Generales del Ejército de Tierra, de la Armada, del Ejército del Aire y del Cuerpo de Infantería de Marina de la Armada.
 
-Se establecen las siguientes pruebas y marcas a alcanzar en cada una de ellas antes de finalizar la enseñanza de formación:
+Se establecen las siguientes pruebas y marcas a alcanzar en cada una de ellas, para superar la fase de formación militar general y antes de finalizar la enseñanza de formación, respectivamente:
 
-| Prueba | Sexo | Al finalizar la enseñanza de formación |
-| --- | --- | --- |
-| Potencia tren inferior (1). | H | 41 |
-| M | 36 |
-| Potencia tren superior (2). | H | 13 |
-| M | 10 |
-| Velocidad (3). | H | 8,2″ |
-| M | 9″ |
-| Resistencia (4). | H | 3′55″ |
-| M | 4′30″ |
+| Prueba | Sexo | Al finalizar la fase de formación militar general | Al finalizar la enseñanza de formación |
+| --- | --- | --- | --- |
+| Potencia tren inferior (1). | H | 37 | 41 |
+|  | M | 33 | 36 |
+| Potencia tren superior (2). | H | 14 | 16 |
+|  | M | 8 | 10 |
+| Velocidad (3). | H | 9" | 8,3" |
+|  | M | 9,5" | 9" |
+| Resistencia (4). | H | 4'15" | 3'55" |
+|  | M | 4'45" | 4'30" |
 
 ## Cuarto. Descripción de las pruebas.
 
@@ -117,6 +117,8 @@ Se establecen las siguientes pruebas y marcas a alcanzar en cada una de ellas an
 6. Circuito de agilidad (6). Consistirá en medir la agilidad de movimientos del aspirante mediante la realización de un circuito, cuya estructura será la que se determine en la correspondiente convocatoria.
 
 7. Complementaria de resistencia (7). Consistirá en la ejecución de una carrera de 6.000 metros lisos, se podrá realizar en pista de atletismo o sobre otra superficie de suficiente consistencia y en terreno sensiblemente llano, con señales que permitan al alumno el cálculo de la distancia pendiente de completar.
+
+> Se modifica el apartado 3 por el art. único.2 de la Orden DEF/176/2019, de 18 de febrero. Ref. BOE-A-2019-2634
 
 > Se modifica el título de los apartados 1 y 2 los arts. único.3 y 4 de la Orden DEF/675/2016, de 21 de mayo. Ref. BOE-A-2016-4441.
 
