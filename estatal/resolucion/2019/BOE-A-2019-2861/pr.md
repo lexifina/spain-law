@@ -1,0 +1,13 @@
+Las Administraciones Públicas son competentes para establecer la ordenación del tiempo de trabajo del personal a su servicio, de acuerdo con lo establecido en los artículos 47 y 51 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre.
+
+Esta competencia debe ser ejercida respetando, a su vez, lo establecido en el artículo 37.1.m) del mismo texto legal, que señala como materias objeto de negociación las referidas a calendario laboral, horarios, jornadas y permisos.
+
+La Ley 6/2018, de 3 de julio, de Presupuestos Generales del Estado para el año 2018, a través de su Disposición adicional centésima cuadragésima cuarta, fija nuevas medidas que afectan al régimen de jornada y horarios de los empleados y empleadas públicos.
+
+Asimismo, se incluyen varias medidas orientadas a mejorar la conciliación de la vida personal, familiar y profesional. Entre las mismas consta una bolsa de horas de libre disposición acumulables entre sí, de hasta un 5 % de la jornada anual, dirigida de forma justificada al cuidado y atención de personas mayores, personas con discapacidad, hijos o hijas menores y menores sujetos a tutela o acogimiento.
+
+Con el propósito de dar mayor cohesión y homogeneidad a la regulación sobre jornadas y horarios del personal al servicio de la Administración General del Estado, se introducen modificaciones en materia de permisos y vacaciones con la finalidad de adecuarlos a la vigente regulación legal; se aclara el contenido de diversos preceptos y se incorporan algunas medidas encaminadas a simplificar la gestión de los órganos competentes en materia de recursos humanos.
+
+En consecuencia, se hace necesaria la aprobación de una nueva Resolución que sustituya a la de 28 de diciembre de 2012 de la Secretaría de Estado de Administraciones Públicas, por la que se dictan instrucciones sobre jornada y horarios de trabajo del personal al servicio de la Administración General del Estado y sus organismos públicos («BOE» de 29 de diciembre) y que, a su vez, sistematice e integre todos los aspectos tratados en aquella.
+
+Por tanto, en ejercicio de las competencias que se le asignan en el artículo 6 del Real Decreto 863/2018, de 13 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Política Territorial y Función Pública, previa negociación en la Mesa General de Negociación de la Administración General del Estado, y con el informe preceptivo de la Comisión Superior de Personal, de acuerdo con lo dispuesto en el artículo 2 del Real Decreto 349/2001, de 4 de abril, esta Secretaría de Estado ha resuelto:

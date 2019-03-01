@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en el BOE núm. 14, de 16 de enero de 2013. Ref. BOE-A-2013-434.
+Esta Resolución se deja sin efecto, desde el 1 de marzo de 2019, por el apartado 16 de la Resolución de 28 de febrero de 2019. Ref. BOE-A-2019-2861#A1-8
