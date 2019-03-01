@@ -77,3 +77,9 @@ Fórmula: Pn = (Rlpe/k) × D
 2.º Período afectado por reducción de jornada.
 
 Fórmula: Pa = (Rlpe × %/k) × d
+
+4. Retribuciones para el personal que disfrute de una reducción de jornada y no esté exonerado de la realización de guardias, servicios, maniobras o actividades análogas.
+
+En los casos de reducción de jornada sin exoneración de guardias, servicios, maniobras o actividades análogas, no se descontarán retribuciones ni los días en que se prestan las guardias, servicios o actividades análogas, ni aquellos en los que se disfruta de los descansos regulados en la Orden DEF/1363/2016, de 28 de julio, por la que se regulan la jornada y el régimen de horario habitual en el lugar de destino de los miembros de las Fuerzas Armadas.
+
+> Se añade el apartado 4 por el art. único.27 de la Orden DEF/112/2019, de 9 de febrero. Ref. BOE-A-2019-1786
