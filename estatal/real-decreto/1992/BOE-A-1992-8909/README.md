@@ -8,17 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2019-03-02 by BOE-A-2019-2859. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no](no.md)
-- [pr](pr.md)
-- [Artículo 1](a1.md)
-- [Art 2](a2.md)
-- [Art 3](a3.md)
-- [Art 4](a4.md)
-- [DISPOSICIÓN TRANSITORIA](dt.md)
-- [DISPOSICIÓN DEROGATORIA](dd.md)
-- [DISPOSICIONES FINALES](df.md)
-- [Primera](pr-2.md)
-- [Segunda](se.md)
-- [fi](fi.md)
+- [BOE publisher notice](no.md)
