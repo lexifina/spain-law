@@ -1,0 +1,3 @@
+## Disposición final sexta. Facultad de modificación.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para modificar el contenido de los anexos I y II de este real decreto, para su adaptación a la normativa europea o internacional, así como para modificar, previo informe de la Comisión Nacional de Zootecnia, el Catálogo Oficial de Razas de Ganado y la clasificación de razas del anexo I, de lo que se dará publicidad en el Sistema ARCA de la web del Ministerio de Agricultura, Pesca y Alimentación, sin perjuicio de su aprobación como reglamento con naturaleza de orden ministerial y de su publicación en el «Boletín Oficial del Estado».

@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Listado de razas autóctonas y de razas amenazadas.
+
+No obstante lo previsto en la disposición derogatoria única, hasta tanto la Comisión Nacional de Zootecnia determine el grado de riesgo y amenaza de las razas autóctonas del anexo I y a los efectos del artículo 2.24 y otros artículos afectados en el Reglamento (UE) 2016/1012 del Parlamento Europeo y del Consejo, de 8 de junio de 2016, se acogerán a la definición de razas amenazadas aquellas clasificadas en peligro de extinción de acuerdo con el anexo I del Real Decreto 2129/2008, de 26 de diciembre, por el que se establece el Programa nacional de conservación, mejora y fomento de las razas ganaderas, mientras que el resto de razas autóctonas serán consideradas de fomento.
