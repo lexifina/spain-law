@@ -18,6 +18,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO II](cii.md)
 - [Artículo 4](a4.md)
 - [Artículo 5](a5.md)
+- [Disposición adicional](da.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición final primera](dfprimera.md)

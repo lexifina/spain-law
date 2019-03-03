@@ -74,4 +74,8 @@ b) Importes deducidos para los referidos servicios y actividades, desglosados po
 
 c) Una explicación de la utilización de dichos importes, con un desglose por tipo de finalidad, incluido el coste de la gestión de los importes deducidos para los referidos servicios y actividades y los importes separados utilizados para los mismos.
 
+> Se añade por el art. único.15 de la Ley 2/2019, de 1 de marzo. Ref. BOE-A-2019-2974
+
+> Téngase en cuenta que este anexo ya fue añadido por el Real Decreto-ley 2/2018.
+
 > Se añade por el art. único.15 del Real Decreto-ley 2/2018, de 13 de abril. Ref. BOE-A-2018-5059
