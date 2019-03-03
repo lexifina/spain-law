@@ -10,16 +10,22 @@ El resultado de los análisis de los laboratorios se expresará en UFC/ml.
 
 Las muestras de leche no deberán ser adicionadas con azidiol.
 
-b) Mediante la técnica de citometría de flujo con equipos Bactoscan FC. Con las siguientes condiciones:
+b) Mediante la técnica de citometría de flujo con analizadores automáticos de recuento de bacterias, con las siguientes condiciones:
 
-– El resultado de los laboratorios se expresará en Impulsos Bactoscan/ml.
+– El resultado de los laboratorios se expresará en IBC/ml (siglas correspondientes a recuento individual de bacterias por mililitro).
 
 – Las muestras deberán ser adicionadas con azidiol en la toma de muestras.
 
-Para verificar el cumplimiento del límite legal (100.000 UFC/ml) las autoridades competentes usarán como relación de conversión, la siguiente ecuación:
+– Para verificar el cumplimiento del límite legal de 100.000 UFC/ml (siglas correspondientes a Unidades Formadoras de Colonias por mililitro) las autoridades competentes usarán como relación de conversión, la siguiente ecuación:
 
-y = 0,884 x + 0,243
+y = 0,850 x + 0,185
 
-Siendo, y = log UFC/ml y x = log impulsos Bactoscan/ml.
+Siendo:
+
+y = log unidades formadoras de colonias (UFC)/ml.
+
+x = log recuento individual de bacterias (IBC) /ml.
+
+> Se modifica por la disposición final 2.3 del Real Decreto 95/2019, de 1 de marzo. Ref. BOE-A-2019-2979#df-2
 
 > Se sustituye el apartado b) por el art. 2.14 del Real Decreto 1600/2011, de 4 de noviembre. Ref. BOE-A-2011-18720.

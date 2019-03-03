@@ -1,37 +1,7 @@
 ## ANEXO V
 
-## HOJA RESUMEN DE VENTAS DIRECTAS
+## Hoja resumen de ventas directas
 
-## Declaración anual obligatoria de leche comercializada por los productores
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/53/02979_6175.png)
 
-| AÑO: |
-| --- |
-
-TIPO DE LECHE: VACA  OVEJA  CABRA 
-
-IDENTIFICACIÓN DEL PRODUCTOR:
-
-| DNI/NIF | APELLIDOS Y NOMBRE O RAZÓN SOCIAL | DOMICILIO | LOCALIDAD | MUNICIPIO | CP |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-| TELÉFONO | FAX | CORREO ELECTRÓNICO |
-|  |  |  |
-
-LITROS DE LECHE DESTINADOS A VENTA DIRECTA
-
-## (Se incluye leche vendida directamente al consumo y litros de leche transformados en productos lácteos)
-
-| MESES | LITROS |
-| --- | --- |
-| ENERO |  |
-| FEBRERO |  |
-| MARZO |  |
-| ABRIL |  |
-| MAYO |  |
-| JUNIO |  |
-| JULIO |  |
-| AGOSTO |  |
-| SEPTIEMBRE |  |
-| OCTUBRE |  |
-| NOVIEMBRE |  |
-| DICIEMBRE |  |
+> Se modifica por la disposición final 1.4 del Real Decreto 95/2019, de 1 de marzo. Ref. BOE-A-2019-2979#df
