@@ -38,6 +38,10 @@ Cuando la mayoría no se pudiere lograr por los procedimientos establecidos en l
 
 11. Las derramas para el pago de mejoras realizadas o por realizar en el inmueble serán a cargo de quien sea propietario en el momento de la exigibilidad de las cantidades afectas al pago de dichas mejoras.
 
+12. El acuerdo por el que se limite o condicione el ejercicio de la actividad a que se refiere la letra e) del artículo 5 de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, en los términos establecidos en la normativa sectorial turística, suponga o no modificación del título constitutivo o de los estatutos, requerirá el voto favorable de las tres quintas partes del total de los propietarios que, a su vez, representen las tres quintas partes de las cuotas de participación. Asimismo, esta misma mayoría se requerirá para el acuerdo por el que se establezcan cuotas especiales de gastos o un incremento en la participación de los gastos comunes de la vivienda donde se realice dicha actividad, siempre que estas modificaciones no supongan un incremento superior al 20%. Estos acuerdos no tendrán efectos retroactivos.
+
+> Se añade el apartado 12 por el art. 2.3 del Real Decreto-ley 7/2019, de 1 de marzo. Ref. BOE-A-2019-3108#as
+
 > Se deja sin efecto la incorporación del apartado 12 por Resolución de 22 de enero de 2019 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 21/2018, de 14 de diciembre. Ref. BOE-A-2019-799
 
 > Se añade el apartado 12 por el art. 2.3 del Real Decreto-ley 21/2018, de 14 de diciembre. Ref. BOE-A-2018-17293#as

@@ -48,6 +48,8 @@ B) La inversión podrá tener reflejo presupuestario en alguno de los grupos de 
 
 136. Servicio de prevención y extinción de incendios.
 
+152. Vivienda.
+
 153. Vías públicas.
 
 171. Parques y jardines.
@@ -99,6 +101,8 @@ Anualmente, junto con la liquidación del presupuesto, se dará cuenta al pleno 
 7. Sin perjuicio de los efectos que puedan derivarse de la aplicación de la normativa de estabilidad presupuestaria y sostenibilidad financiera, si el informe del interventor de la Corporación Local al que se refiere el apartado anterior fuera desfavorable, el interventor lo remitirá al órgano competente de la Administración pública que tenga atribuida la tutela financiera de la Corporación Local.
 
 8. El interventor de la Corporación Local informará al Ministerio de Hacienda y Administraciones públicas de las inversiones ejecutadas en aplicación de lo previsto en esta disposición.
+
+> Se modifica el apartado 1.B), con efectos de 1 de enero de 2019, por el art. 4.4 del Real Decreto-ley 7/2019, de 1 de marzo. Ref. BOE-A-2019-3108#ac
 
 > Se deja sin efecto la modificación del apartado 1.B) por Resolución de 22 de enero de 2019 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 21/2018, de 14 de diciembre. Ref. BOE-A-2019-799
 
