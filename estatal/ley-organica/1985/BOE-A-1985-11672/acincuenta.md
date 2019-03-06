@@ -10,6 +10,8 @@
 
 5. Salvo lo dispuesto en el apartado 1 de este artículo, ninguna persona jurídica distinta de las mencionadas en el apartado anterior podrá realizar campaña electoral a partir de la fecha de la convocatoria de las elecciones, sin perjuicio de lo establecido en el artículo 20 de la Constitución.
 
+> Véase, en cuanto a la interpretación de los apartados 1, 2 y 3, en el caso de simultaneidad de varios procesos electorales de ámbito nacional, la Instrucción 3/2019, de 4 de marzo, de la Junta Electoral Central. Ref. BOE-A-2019-3191
+
 > Véase, sobre interpretación de este artículo, la Instrucción 2/2011, de 24 de marzo, de la Junta Electoral Central, Ref. BOE-A-2011-5522
 
 > Se renumeran los apartados 2 y 3 como 4 y 5 y se añaden los apartados 2 y 3 por el art. único.19 de la Ley Orgánica 2/2011, de 28 de enero. Ref. BOE-A-2011-1639.

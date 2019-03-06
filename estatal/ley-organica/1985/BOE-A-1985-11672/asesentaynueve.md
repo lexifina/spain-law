@@ -26,6 +26,8 @@ Esta información no puede extenderse al contenido de los datos sobre las cuesti
 
 8. En el supuesto de que algún organismo dependiente de las Administraciones Públicas realice en periodo electoral encuestas sobre intención de voto, los resultados de las mismas, cuando así lo soliciten, deben ser puestos en conocimiento de las entidades políticas concurrentes a las elecciones en el ámbito territorial de la encuesta en el plazo de cuarenta y ocho horas desde la solicitud.
 
+> Véase, en cuanto a la interpretación del apartado 7 en el caso de simultaneidad de varios procesos electorales de ámbito nacional, la Instrucción 3/2019, de 4 de marzo, de la Junta Electoral Central. Ref. BOE-A-2019-3191
+
 > Se modifica el apartado 7 por el art. único.26 de la Ley Orgánica 2/2011, de 28 de enero. Ref. BOE-A-2011-1639.
 
 > Se añade el apartado 8 por el art. único.22 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.
