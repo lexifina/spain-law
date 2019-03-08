@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Derechos pasivos en el supuesto de limitación para ocupar determinados destinos previa a la declaración de resolución del compromiso por insuficiencia de condiciones psicofísicas.
+
+En el caso de que, durante la relación de servicios con las Fuerzas Armadas, se haya resuelto un expediente de insuficiencia de condiciones psicofísicas que haya ocasionado una limitación para ocupar determinados destinos por la que hubiera percibido una indemnización y con posterioridad se haya instruido otro expediente que haya determinado una pensión de clases pasivas por agravamiento de la lesión que fue indemnizada, será de aplicación el procedimiento de descuento regulado en el artículo 7.1 del Real Decreto 1134/1997, de 11 de julio.
