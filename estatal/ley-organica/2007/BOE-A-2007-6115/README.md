@@ -151,6 +151,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria novena](dtnovena.md)
 - [Disposición transitoria décima](dtdecima.md)
 - [Disposición transitoria décima primera](dtdecimaprimera.md)
+- [Disposición transitoria décima segunda](dt.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
