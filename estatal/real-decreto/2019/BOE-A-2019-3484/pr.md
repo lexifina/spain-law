@@ -1,0 +1,41 @@
+I
+
+El personal al servicio de la Administración de Justicia se rige por diferentes estatutos jurídicos no obstante lo cual, y sobre la base común del artículo 122.1 de la Constitución, los homogéneos mecanismos de protección socio-sanitarios están garantizados mediante su adscripción obligatoria a la Mutualidad General Judicial, el organismo que gestiona el Régimen Especial de la Seguridad Social establecido para este colectivo, formando parte del mutualismo administrativo.
+
+De la evolución y el desarrollo del mutualismo administrativo en España desde el siglo XIX y los primeros Montepíos de funcionarios hasta el último tramo del siglo XX y la promulgación de las normas creadoras de las mutualidades actualmente existentes, nacidas con el objetivo de atender las necesidades sanitarias y sociales de las tres grandes categorías de funcionarios que conforman la función pública moderna, los funcionarios civiles, los militares y los funcionarios al servicio de la Administración de Justicia, resultan los tres regímenes especiales de la Seguridad Social gobernados por entidades de gestión, la Mutualidad General Judicial entre ellas, concebidas como organismos públicos vinculados a la Administración del Estado por medio de su adscripción a los diversos departamentos ministeriales de que dependen.
+
+II
+
+La estructura organizativa de la Mutualidad General Judicial tiene su origen en el Real Decreto-ley 16/1978, de 7 de junio, y en su Reglamento, aprobado por Real Decreto 3283/1978, de 3 de noviembre, que asignó su gobierno y administración a la Asamblea General, la Junta de Gobierno, el Presidente y el Gerente.
+
+El texto refundido de las disposiciones legales vigentes sobre el Régimen Especial de la Seguridad Social del Personal al servicio de la Administración de Justicia, aprobado por Real Decreto Legislativo 3/2000, de 23 de junio, derogó el Real Decreto-ley 16/1978, de 7 de junio, si bien mantuvo, en su artículo 6, las originarias características estructurales de la Mutualidad. Fue precisamente este artículo 6 el que, al ser derogado –pero no sustituido– por la Ley 53/2002, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social, provocó un periodo de transitoriedad que concluyó con la aprobación del Real Decreto 1206/2006, de 20 de octubre, por el que se regulan la composición y funciones de los órganos de gobierno, administración y representación de la Mutualidad General Judicial. Esta norma establece una estructura orgánica basada en dos tipos de órganos: los de participación en el control y vigilancia de la gestión, la Asamblea General y la Comisión Permanente, presididas por un mismo Presidente, y el órgano de efectiva dirección y gestión, la Gerencia.
+
+III
+
+En los últimos años se han puesto de manifiesto importantes disfunciones en relación con los órganos de vigilancia y control de la Mutualidad General Judicial, derivadas fundamentalmente del sistema elegido para la formación de la Asamblea General, que afecta a su vez a la Comisión Permanente. En concreto, se ha producido una distribución desequilibrada, en términos de representación, de los miembros que componen ambos órganos.
+
+Por otra parte, el artículo 3.3 del Real Decreto 1206/2006, de 20 de octubre, relativo al Presidente de la Asamblea, fue recurrido judicialmente y anulado por la sentencia de la Sección Sexta de la Sala de lo Contencioso-Administrativo del Tribunal Supremo, de 31 de marzo de 2008, lo cual ha originado una indeseable e indefinida situación de interinidad.
+
+Ambas circunstancias aconsejan dotar a la Mutualidad General Judicial de un nuevo modelo de estructura orgánica que defina «ex novo» su marco jurídico de organización y funcionamiento conforme a criterios de eficacia y eficiencia, contando con la presencia homogénea y equilibrada de los diferentes cuerpos al servicio de la Administración de Justicia. En este sentido, las principales novedades que aporta el presente real decreto pretenden –tras detectar la etiología de tales disfunciones orgánicas– atajarlas desde su origen.
+
+Se parte de la base de que la Mutualidad General Judicial, como se declara en el artículo 1 de este real decreto, es un organismo autónomo y, por lo tanto, su organización ha de ajustarse a los parámetros ordinarios que caracterizan a este tipo de entidades públicas. Desde esta premisa, el objetivo es dotar a la Mutualidad de una estructura orgánica más moderna, operativa y racional que permita mejorar la eficiencia y calidad de la prestación del servicio público en términos homologables a los demás organismos del mutualismo administrativo.
+
+Entre los nuevos órganos de supervisión de la gestión de la Mutualidad que este real decreto establece, el Consejo General viene a garantizar la participación de los distintos colectivos integrados en la Mutualidad, y su debida representación. Su configuración y cualidades representativas no derivan de procesos de elección indirecta y de participación limitada de los mutualistas sino del carácter democrático de los organismos públicos que designan a sus miembros. La fórmula elegida, pues, no prescinde de su vocación representativa, sino que modifica las pautas con que aquella se asegura, y contribuye a aligerar el coste económico derivado de los procesos de elección a compromisarios de la Asamblea General. Su conformación numérica asegura la presencia igualitaria de todos los colectivos a los que dirige su actividad la Mutualidad General Judicial.
+
+La nueva ordenación del Presidente del Consejo General resulta consecuente con su actual estructura y funciones y se ajusta a los cánones judicialmente fijados para asegurar su acomodo a las exigencias constitucionales.
+
+La Comisión Rectora, presidida por el Secretario de Estado de Justicia, está conformada por miembros al más alto nivel de los diversos órganos de la Administración en que se integran orgánicamente los mutualistas, y por integrantes del Consejo General, de manera que sus funciones se lleven a cabo con criterios de racionalidad, eficiencia y proximidad a las aspiraciones del colectivo.
+
+Las atribuciones ahora asignadas al Consejo General y a la Comisión Rectora aseguran, pues, una óptima supervisión de la actividad de la Mutualidad General Judicial, cooperando dentro de sus respectivos ámbitos competenciales en la óptima marcha del organismo, corrigiéndose al tiempo las disfunciones que se han venido observando en su funcionamiento.
+
+Los mencionados motivos, presididos por la racionalidad, la simplificación burocrática y la reducción de costes, están orientados al objetivo, siempre presente y prioritario, de seguir transformando, modernizando y, en fin, mejorando la gestión del servicio que se presta a los mutualistas y a los beneficiarios de la Mutualidad General Judicial, a lo que asimismo contribuirá la posibilidad, abierta en este real decreto, de que los órganos colegiados puedan celebrar sus sesiones mediante sistemas electrónicos y telemáticos.
+
+La articulación de esta nueva ordenación de la estructura orgánica de MUGEJU en forma de real decreto no obsta a su articulación conforme a las previsiones de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, según se establece en la disposición adicional cuarta de este real decreto.
+
+El texto de este real decreto se ha sometido a informe del Tribunal Constitucional, Consejo General del Poder Judicial, Fiscalía General del Estado, Consejo del Secretariado y de las Asociaciones Profesionales y Organizaciones Sindicales.
+
+Por todo lo anterior, este real decreto se adecua a los principios de buena regulación conforme a los cuales deben actuar las Administraciones Públicas en el ejercicio de la iniciativa legislativa y la potestad reglamentaria, como son los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+En su virtud, a propuesta conjunta de las Ministras de Justicia y de Política Territorial y Función Pública, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 1 de marzo de 2019,
+
+DISPONGO:
