@@ -1,0 +1,3 @@
+## Disposición adicional primera. Grupo de expertos y expertas para la propuesta de un nuevo Estatuto de los Trabajadores.
+
+El Gobierno, con anterioridad al 30 de junio de 2019, constituirá un grupo de expertos y expertas para llevar a cabo los trabajos y estudios preparatorios para la elaboración de un nuevo Estatuto de los Trabajadores. La composición y funciones de este grupo de expertos y expertas se determinarán mediante Acuerdo del Consejo de Ministros y previa audiencia de los interlocutores sociales en la Mesa de Diálogo Social de Empleo y Relaciones Laborales constituida en el Ministerio de Trabajo, Migraciones y Seguridad Social.
