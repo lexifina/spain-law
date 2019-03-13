@@ -1,6 +1,6 @@
 ## Artículo 286 bis.
 
-1. El directivo, administrador, empleado o colaborador de una empresa mercantil o de una sociedad que, por sí o por persona interpuesta, reciba, solicite o acepte un beneficio o ventaja no justificados de cualquier naturaleza, para sí o para un tercero, como contraprestación para favorecer indebidamente a otro en la adquisición o venta de mercancías, o en la contratación de servicios o en las relaciones comerciales, será castigado con la pena de prisión de seis meses a cuatro años, inhabilitación especial para el ejercicio de industria o comercio por tiempo de uno a seis años y multa del tanto al triplo del valor del beneficio o ventaja.
+1. El directivo, administrador, empleado o colaborador de una empresa mercantil o de una sociedad que, por sí o por persona interpuesta, reciba, solicite o acepte un beneficio o ventaja no justificados de cualquier naturaleza, u ofrecimiento o promesa de obtenerlo, para sí o para un tercero, como contraprestación para favorecer indebidamente a otro en la adquisición o venta de mercancías, o en la contratación de servicios o en las relaciones comerciales, será castigado con la pena de prisión de seis meses a cuatro años, inhabilitación especial para el ejercicio de industria o comercio por tiempo de uno a seis años y multa del tanto al triplo del valor del beneficio o ventaja.
 
 2. Con las mismas penas será castigado quien, por sí o por persona interpuesta, prometa, ofrezca o conceda a directivos, administradores, empleados o colaboradores de una empresa mercantil o de una sociedad, un beneficio o ventaja no justificados, de cualquier naturaleza, para ellos o para terceros, como contraprestación para que le favorezca indebidamente a él o a un tercero frente a otros en la adquisición o venta de mercancías, contratación de servicios o en las relaciones comerciales.
 
@@ -11,6 +11,8 @@
 A estos efectos, se considerará competición deportiva de especial relevancia económica, aquélla en la que la mayor parte de los participantes en la misma perciban cualquier tipo de retribución, compensación o ingreso económico por su participación en la actividad; y competición deportiva de especial relevancia deportiva, la que sea calificada en el calendario deportivo anual aprobado por la federación deportiva correspondiente como competición oficial de la máxima categoría de la modalidad, especialidad, o disciplina de que se trate.
 
 5. A los efectos de este artículo resulta aplicable lo dispuesto en el artículo 297.
+
+> Se modifica el apartado 1 por el art. único.8 de la Ley Orgánica 1/2019, de 20 de febrero. Ref. BOE-A-2019-2363#au
 
 > Se modifica por el art. único.156 de la Ley Orgánica 1/2015, de 30 de marzo. Ref. BOE-A-2015-3439.
 

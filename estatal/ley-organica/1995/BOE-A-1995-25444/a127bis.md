@@ -4,6 +4,8 @@
 
 a) Delitos de trata de seres humanos.
 
+a bis) Delitos de tráfico de órganos.
+
 b) Delitos relativos a la prostitución y a la explotación sexual y corrupción de menores y delitos de abusos y agresiones sexuales a menores de dieciséis años.
 
 c) Delitos informáticos de los apartados 2 y 3 del artículo 197 y artículo 264.
@@ -51,5 +53,7 @@ r) Delitos cometidos en el seno de una organización o grupo criminal.
 4. Si posteriormente el condenado lo fuera por hechos delictivos similares cometidos con anterioridad, el juez o tribunal valorará el alcance del decomiso anterior acordado al resolver sobre el decomiso en el nuevo procedimiento.
 
 5. El decomiso a que se refiere este artículo no será acordado cuando las actividades delictivas de las que provengan los bienes o efectos hubieran prescrito o hubieran sido ya objeto de un proceso penal resuelto por sentencia absolutoria o resolución de sobreseimiento con efectos de cosa juzgada.
+
+> Se añade la letra a bis) en el apartado 1 por el art. único.1 de la Ley Orgánica 1/2019, de 20 de febrero. Ref. BOE-A-2019-2363#au
 
 > Se añade por el art. único.62 de la Ley Orgánica 1/2015, de 30 de marzo. Ref. BOE-A-2015-3439.
