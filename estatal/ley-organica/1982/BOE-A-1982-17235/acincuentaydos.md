@@ -14,6 +14,10 @@
 
 3. La Generalitat participará asimismo en la gestión del sector público económico estatal, en los casos y actividades en los que proceda.
 
+4. La Generalitat participará en las decisiones sobre la inversión del Estado en la Comunidad Valenciana la cual, excluido el Fondo de Compensación Interterritorial, será equivalente, para dar cumplimiento a lo dispuesto en el artículo 138 de la Constitución, al peso de la población de la Comunitat Valenciana sobre el conjunto del Estado por un período de siete años. Con esta finalidad, se constituirá una Comisión integrada por la administración estatal, autonómica y local.
+
+> Se añade el apartado 4 por el art. único de la Ley Orgánica 3/2019, de 12 de marzo. Ref. BOE-A-2019-3562
+
 > Se modifica por el art. 58 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.
 
 > Se modifica el apartado 1 por el art. 1 de la Ley 24/2002, de 1 de julio. Ref. BOE-A-2002-13003.
