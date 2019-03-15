@@ -1,283 +1,472 @@
 ## NGTS-01. «Conceptos generales»
 
-La normativa de gestión técnica del sistema gasista tiene por objeto el fijar los procedimientos y mecanismos para la gestión técnica del sistema, coordinando la actividad de todos los sujetos o agentes que intervienen en el sistema para garantizar el correcto funcionamiento técnico del sistema gasista y la continuidad, calidad y seguridad del suministro de gas natural y gases manufacturados por canalización, respetando, en todo caso, los principios de objetividad, transparencia y no discriminación.
-
 1. Conceptos generales
 
-Además de las definiciones ya incorporadas en la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos y las normas que la desarrollan (sistema gasista, Red Básica de gas natural, redes de transporte primario, redes de transporte secundario, redes de distribución, instalaciones complementarias, plantas de regasificación de gas natural licuado [GNL], plantas satélites de GNL, líneas directas, acometidas...), a efectos de estas Normas de Gestión Técnica del Sistema se consideran las siguientes definiciones:
+La normativa de gestión técnica del sistema gasista tiene por objeto fijar los procedimientos y mecanismos para la gestión técnica del sistema, coordinando la actividad de todos los sujetos o agentes que intervienen en el sistema para garantizar el correcto funcionamiento técnico del sistema gasista y la continuidad, calidad y seguridad del suministro de gas natural y gases manufacturados por canalización, respetando, en todo caso, los principios de objetividad, transparencia y no discriminación.
 
-1.1 Puntos de entrada y salida en el sistema gasista o alguna de sus partes.–Cualesquiera lugares físicos pertenecientes al sistema gasista por los que el gas entra al mismo o a una de sus partes (punto de entrada) o sale del mismo o de una de sus partes (punto de salida).
+1.1 Conceptos generales.
 
-Cuando un punto conecta dos partes del sistema gasista o el sistema gasista o alguna de sus partes con otros sistemas gasistas se denomina punto de conexión.
+Además de las definiciones ya incorporadas en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos y las normas que la desarrollan [sistema gasista, red básica de gas natural, redes de transporte primario, redes de transporte secundario, redes de distribución, instalaciones complementarias, plantas de regasificación de gas natural licuado (GNL], plantas satélites de GNL, líneas directas, acometidas...], a efectos de estas normas de gestión técnica del sistema se consideran las siguientes definiciones:
 
-Cuando el punto por el que el gas sale del sistema conecta con las instalaciones del consumidor final del gas se denomina punto de suministro.
+Área de Balance en PVB.
 
-1.1.1 Punto de entrada al sistema gasista.–Es aquel punto por el que el gas entra en el sistema.
+Sistema de entrada-salida que incluye la red de gasoductos de transporte al que es aplicable el régimen específico de balance definido según la Circular 2/21015, de 22 de julio, de la Comisión Nacional de los Mercados y la Competencia, por la que se establecen las normas de balance en la red de transporte del sistema gasista.
 
-Son puntos de entrada al sistema gasista:
+Consumidores.
 
-Los puntos de conexión con gasoductos internacionales.
+Aquellos sujetos que adquieren gas natural para su propio consumo. Pudiéndolo adquirir de:
 
-Los puntos de descarga de buques en las plantas de regasificación de GNL.
+– Los comercializadores autorizados en condiciones libremente pactadas.
 
-Los puntos de descarga de GNL en las plantas satélites de GNL conectadas a redes de distribución.
+– Directamente, sin recurrir a un comercializador autorizado, accediendo a instalaciones de terceros.
 
-Los puntos de conexión con yacimientos nacionales.
+Demanda Convencional.
 
-Los puntos de conexión con almacenamientos que no formen parte del sistema.
+Es la cantidad de gas consumida por los usuarios domésticos e industriales del sistema gasista.
 
-1.1.2 Punto de salida del sistema gasista.–Es aquel punto por el que el gas sale del sistema.
+Demanda Eléctrica.
 
-Son puntos de salida del sistema gasista:
+Es la cantidad de gas consumida por las centrales de generación eléctrica del sistema. No se incluyen en este apartado las cogeneraciones, que tendrán consideración de demanda convencional.
 
-Los puntos de conexión con gasoductos internacionales.
+Demanda de gas para transporte.
 
-Los puntos de carga de buques en las plantas de regasificación de GNL.
+Aquella demanda de gas natural destinada al uso como combustible para el transporte, tanto terrestre como marítimo.
 
-Los puntos de carga de cisternas de GNL en las plantas de regasificación.
+Día de gas.
 
-Los puntos de suministro del sistema gasista.
+Período de tiempo que comienza a las 5 horas UTC y termina a las 5 horas UTC del día siguiente en invierno, y entre las 4 horas UTC de un día y las 4 horas UTC del día siguiente en verano, y en el que se efectúan las operaciones programadas para ese período. Es la unidad temporal de referencia para todas las actividades diarias que incluyen estas normas.
 
-Los puntos de conexión con almacenamientos que no formen parte del sistema.
+Gestor de red independiente.
 
-1.1.3 Punto de entrada a la red de transporte.–Es aquel punto del sistema gasista en el que el gas entra en la red de transporte de un transportista.
+Empresa que haya obtenido la certificación de cumplimiento de los requisitos de separación de actividades de transporte tal como establece la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos en su artículo 63 quater.
 
-Se consideran como puntos de entrada a la red de transporte:
+Mecanismo de comunicación.
 
-Los puntos de conexión con gasoductos internacionales.
+Canal para realizar los procesos y enviar las comunicaciones necesarias (incluyendo cualquier notificación, envío de información, confirmación, petición, aprobación o aceptación relacionadas con dichos procesos) en el sistema gasista.
 
-Las plantas de regasificación.
+Operadores.
 
-Los puntos de conexión entre gasoductos de Transporte.
+Los operadores son aquellos sujetos del sistema gasista autorizados para la gestión de cualquier instalación de transporte, licuación, regasificación de GNL, almacenamiento o distribución, conforme a lo dispuesto en la Ley 34/1998, de 7 octubre, del Sector de Hidrocarburos.
 
-Los puntos de conexión con almacenamientos.
+Se considerará operadores a aquellos sujetos que sean:
 
-Los puntos de conexión con yacimientos nacionales.
+– Titulares o gestores de plantas de regasificación.
 
-Los puntos de conexión con plantas de regasificación de GNL.
+– Titulares o gestores de almacenamientos subterráneos.
 
-1.1.4 Punto de salida de la red de transporte.–Es aquel punto del sistema gasista en el que el gas sale de la red de transporte.
+– Transportistas de gas.
 
-Se consideran como puntos de salida de la red de transporte:
+– Distribuidores de gas.
 
-Los puntos de conexión con gasoductos internacionales.
+Punto de carga de GNL.
 
-Los puntos de conexión entre gasoductos de Transporte.
+Cualquier punto por el que sale GNL desde un tanque o desde un buque de una planta de regasificación hacia:
 
-Los puntos de conexión con almacenamientos.
+– Un buque (carga de GNL a buque, trasvase de GNL de buque a buque, puesta en frío de buques,o bunkering de GNL) (PCCB).
 
-Los puntos de conexión entre redes de transporte y redes de distribución.
+– Una cisterna (PCCC).
 
-Los puntos de carga de cisternas de las plantas de regasificación.
+Bunkering.
 
-Los puntos de conexión con una línea directa de un consumidor.
+Es aquella operación de carga de GNL en un buque para emplearlo como combustible en el transporte marítimo.
 
-1.1.5 Punto de entrada a la red de distribución.–Es aquel punto del sistema gasista en el que el gas entra en la red de distribución.
+Punto de conexión con almacenamiento subterráneo.
 
-Se consideran como puntos de entrada a la red de distribución:
+Es aquel punto del sistema gasista por el que sale o entra gas de la red de transporte a un almacenamiento subterráneo (PCAS).
 
-Los puntos de conexión entre redes de transporte y redes de distribución.
+Punto de conexión entre gasoductos de distribución.
 
-El punto de conexión con la planta satélite de GNL para la descarga de cisternas.
+Es aquel punto que conecta gasoductos de distribución de dos titulares diferentes (PCDD).
 
-El punto de conexión entre dos redes de distribución.
+Punto de conexión entre gasoductos de transporte.
 
-1.1.6 Punto de salida de la red de distribución.–Es aquel punto del sistema gasista en el que el gas sale de la red de distribución.
+Es aquel punto que conecta gasoductos de transporte de dos titulares diferentes (PCTT).
 
-Se consideran como puntos de salida de la red de distribución:
+Punto de conexión internacional por gasoducto.
 
-Los puntos de la red de distribución en los que el gas se entrega al cliente final para su consumo.
+Es aquel punto del sistema gasista por el que sale o entra gas de la red de transporte ubicada en el territorio español a otra red de gasoductos de otros países (PCI).
 
-El punto de conexión entre dos redes de distribución.
+Punto de conexión con plantas de gas renovable a red de distribución.
 
-1.1.7 Otras clasificaciones de los puntos de entrada y salida.–Los puntos del sistema gasista se clasifican también:
+Es aquel punto del sistema gasista por el que entra gas desde una planta de producción de gas renovable a la red de distribución (PPBD).
+
+Punto de conexión con plantas de gas renovable a red de transporte.
+
+Es aquel punto del sistema gasista por el que entra gas desde una planta de gas renovable a la red de transporte (PCBT).
+
+Punto de conexión con plantas de regasificación de GNL.
+
+Es aquel punto del sistema gasista que conecta una planta de regasificación con la red de transporte (PCPR).
+
+Punto de conexión de red de transporte y líneas directas.
+
+Es aquel punto que conecta una infraestructura de la red de transporte con una línea directa o cliente final (PCLD).
+
+Punto de conexión de red de transporte y red de distribución.
+
+Es aquel punto que conecta una infraestructura de la red de transporte con una infraestructura de la red de distribución (PCTD).
+
+Punto de conexión con yacimientos a red de transporte.
+
+Es aquel punto del sistema gasista por el que entra gas desde un yacimiento a la red de transporte (PCY).
+
+Punto de conexión con yacimientos a red de distribución.
+
+Es aquel punto del sistema gasista por el que entra gas desde un yacimiento a la red de distribución (PCYD).
+
+Punto de interconexión virtual.
+
+Dos o más puntos de interconexión física que conectan los mismos sistemas adyacentes de entrada-salida, que se integran a efectos comerciales y operativos en un único punto de asignación de capacidad, según está definido en la Circular 372017, de 22 de noviembre, de la Comisión Nacional de los Mercados y la Competencia, relativa a los mecanismos de asignación de capacidad a aplicar en las conexiones internacionales por gasoducto con Europa.
+
+Punto de descarga de GNL.
+
+Cualquier punto por el que entra GNL a una instalación:
+
+– A una planta de GNL desde un buque (PCDB).
+
+– A una planta satélite que alimenta una red de distribución (PSRD).
+
+Punto de entrada a la red de distribución.
+
+Es aquel punto del sistema gasista en el que el gas entra en la red de distribución.
+
+Punto de entrada a la red de transporte.
+
+Es aquel punto del sistema gasista en el que el gas entra en la red de transporte.
+
+Puntos de entrada en el sistema gasista.
+
+Cualquier punto de una infraestructura perteneciente al sistema gasista por el que el gas entra al mismo.
+
+Punto de salida de la red de distribución.
+
+Es aquel punto del sistema gasista en el que el gas sale de la red de distribución.
+
+Punto de salida de la red de transporte.
+
+Es aquel punto del sistema gasista en el que el gas sale de la red de transporte.
+
+Puntos de salida en el sistema gasista.
+
+Cualquier punto de una infraestructura perteneciente al sistema gasista por el que el gas sale del mismo.
+
+Punto de suministro.
+
+Cualquier punto por el que el gas sale del sistema y conecta con las instalaciones del consumidor final del gas (PS).
+
+Clasificación de puntos de suministro:
+
+– Según la presión de diseño del gasoducto al que están conectados utilizada para la definición de la estructura tarifaria.
+
+– Según la periodicidad de la lectura de su consumo:
+
+• Puntos de suministro cuya lectura se efectúa varias veces al día (telemedida).
+
+• Puntos de suministro cuya lectura tiene lugar mensualmente.
+
+• Puntos de suministro que pueden tener una periodicidad de lectura superior a un mes.
+
+– Según puedan condicionar la operación normal de la red a la que está conectados:
+
+• Todos los puntos de suministro conectados a redes de presión superior a 16 bar con caudales horarios contratados iguales o superiores a 25.000 m3 (n)/h.
+
+• Aquellos otros puntos de suministro conectados a redes de presión superior a 16 bar que, por su consumo, tipo o ubicación en la red puedan condicionar la operación normal de las redes a las que estén conectados. Estos últimos puntos de suministro serán definidos anualmente por el Gestor Técnico del Sistema con la información de transportistas y distribuidores y comunicados a la Comisión Nacional de Mercados y Competencia y a la Dirección General de Política Energética y Minas.
+
+– Según la realización del reparto, establecido en la NGTS-06 y PD-02:
+
+• Puntos de suministro tipo 1 con telemedida.
+
+• Puntos de suministro tipo 1 sin telemedida.
+
+• Puntos de suministro tipo 2.
+
+Punto Virtual de Balance (PVB).
+
+Punto de intercambio virtual de la red de transporte donde los usuarios pueden transferir la titularidad del gas como entrada o salida del mismo, tal y como se define en el artículo 3.1 de la Circular 2/2015, de 22 de julio, de la Comisión Nacional de los Mercados y la Competencia, por la que se establecen las normas de balance en la red de transporte del sistema gasista.
+
+Red lineal.
+
+Aquel gasoducto en la que sus puntos de salida están alimentados por un único punto de entrada.
+
+Red mallada.
+
+Aquel gasoducto en el que sus puntos de salida están alimentados desde distintos puntos de entrada.
+
+Servicios esenciales.
+
+Los así definidos según el Real Decreto 1434/2002, de 27 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de gas natural o la normativa que lo modifique o desarrolle.
+
+Usuarios.
+
+Un usuario es aquel sujeto del sistema gasista que utiliza las instalaciones pertenecientes al mismo o que realiza transacciones comerciales de cambio de titularidad de gas natural o de capacidad.
+
+Dependiendo de los tipos de usos en el sistema gasista español, el usuario puede estar habilitado en el PVB y/o en las instalaciones del sistema gasista español.
+
+Usuario habilitado en el PVB.
+
+Un usuario habilitado en el PVB es un sujeto con cartera de balance habilitado por el Gestor Técnico del Sistema para el envío de notificaciones de transferencias de titularidad de gas bilaterales o de plataforma de comercio, según se define en el art. 3.20 de la Circular 2/2015, de 22 de julio de la Comisión Nacional de los Mercados y la Competencia, por la que se establecen las normas de balance en la red de transporte del sistema gasista.
+
+Usuario habilitado en las instalaciones del sistema gasista español.
+
+Aquel usuario que ha firmado el Contrato Marco de acceso a las instalaciones del sistema gasista español, aprobado por la Resolución de 2 de agosto de 2016 de la Secretaría de Estado de Energía, por la que se aprueban las normas de gestión de garantías del sistema gasista.
+
+Cargador-Descargador.
+
+Persona física o jurídica bajo cuya responsabilidad se realizan las operaciones de carga y descarga de la mercancía. Se entenderá por Cargador el titular de la planta de regasificación donde tiene lugar la carga. Se entenderá por Descargador el titular de la planta de GNL donde tiene lugar la descarga.
+
+Expedidor.
+
+Persona física o jurídica por cuya orden y cuenta se realiza el envío de la mercancía peligrosa, para lo cual se realiza el transporte figurando como tal en la carta de porte.
+
+Transportista de cisternas.
+
+Persona física o jurídica que asume la obligación de realizar el transporte, contando a tal fin con su propia organización empresarial.
+
+Transporte de cisternas.
+
+Toda operación de transporte de cisternas por carretera realizada total o parcialmente en vías públicas, incluidas las actividades de carga y descarga de las mercancías peligrosas. No se incluyen los transportes efectuados íntegramente dentro del perímetro de un terreno cerrado.
+
+Pedido.
+
+Número asignado a través del SL-ATR por el cargador para cada cisterna o destino que considere viable.
+
+1.2 Clasificaciones de los puntos de entrada y salida.
+
+Los puntos del sistema gasista se clasifican en función de diversos criterios:
 
 a) Por la existencia y la periodicidad de la medición:
 
-Puntos con medición:
+– Puntos con medición:
 
-Con medición horaria.
+– Con medición horaria.
 
-Con medición diaria.
+– Con medición diaria.
 
-Otros.
+– Otros.
 
-Puntos sin medición.
+– Puntos sin medición:
 
-b) Por el número de usuarios:
+b) Por la existencia de telemedida de los datos:
 
-Punto compartido, si el punto lo utilizan varios sujetos simultáneamente.
+– Con telemedida.
 
-Punto no compartido, si el punto lo utiliza un solo sujeto.
+– Sin telemedida.
 
-c) Por la existencia de telemedición de los datos:
+c) Por la forma de contratar y programar:
 
-Con telemedición.
+– Punto agregado o asociación de varios puntos físicos de entrada o salida (VIP).
 
-Sin telemedición.
+– Punto no agregado.
 
-1.2 Sujetos en el sistema gasista.–Son sujetos del sistema gasista el Gestor Técnico del Sistema gasista, los transportistas, los distribuidores, los comercializadores, todos ellos tal y como se definen en la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, así como los consumidores.
+1.3 Definiciones relacionadas con la gestión del sistema.
 
-1.2.1 Usuarios.–Los usuarios son aquellos sujetos del sistema gasista que utilizan las instalaciones pertenecientes al mismo.
+Acción de balance en PVB.
 
-1.2.2 Operadores.–Los operadores son aquellos sujetos del sistema gasista autorizados para la gestión de cualquier instalación de transporte, licuación, regasificación de GNL, almacenamiento o distribución, conforme a lo dispuesto en la Ley 34/1998, de 7 octubre, del Sector de Hidrocarburos.
+Acción realizada por el Gestor Técnico del Sistema para mantener la red de transporte dentro de sus límites operativos y de existencias, excluyendo las acciones relacionadas con las mermas de gas y el gas utilizado por el Gestor Técnico del Sistema para el funcionamiento de la red de transporte. Las acciones de balance serán de dos tipos: la transferencia de título de propiedad de productos normalizados a corto plazo y el empleo de servicios de balance, tal y como se definen en el artículo 3.3 de la Circular 2/2015, de 22 de julio de la Comisión Nacional de los Mercados y la Competencia, por la que se establecen las normas de balance en la red de transporte del sistema gasista.
 
-1.2.3 Consumidores.–Los consumidores son aquellos sujetos del sistema gasista que compran gas natural exclusivamente para su consumo propio. A los efectos de estas normas se incluyen también aquellos que compran gas manufacturado por canalización para su propio consumo.
+Balance.
 
-Se distinguirá entre los consumidores en función de que ejerzan o no su derecho a autoabastecerse y a acceder al sistema para llevar el gas hasta su punto o puntos de consumo.
+Proceso de evaluación de las existencias de gas, tanto físico, para cada una de las instalaciones o agrupaciones, como comercial, para cada usuario.
 
-A efectos de estas normas, además de la clasificación por la presión de diseño del gasoducto al que están conectados, utilizada para la definición de la estructura tarifaria y para las nominaciones, repartos y balances, los consumidores se clasifican en función de la periodicidad de la lectura de su consumo:
+Calibración.
 
-Consumidores cuya lectura se efectúa diariamente (telemedida).
+Se entiende por calibración el conjunto de operaciones que establecen las condiciones especificadas, la relación entre los valores de una magnitud indicados por un instrumento de medida o un sistema de medida, o los valores representados por una medida materializada o por un material de referencia, y los valores correspondientes de esa magnitud realizados por patrones.
 
-Consumidores cuya lectura tiene lugar mensualmente.
+Comprobación.
 
-Consumidores que pueden tener una periodicidad de lectura superior a un mes.
+Consiste en una revisión del correcto funcionamiento de las líneas donde se contrastando únicamente las condiciones de operación de presión y temperatura, asegurando que los errores quedan dentro de los máximos permitidos.
 
-A efectos de las nominaciones, repartos y balances, se distinguirá también entre los consumidores en función de que puedan condicionar o no la operación normal de la red a la que estén conectados.
+Confirmación.
 
-Se consideran consumidores que pueden condicionar con su comportamiento la operación normal de la red a la que está conectados:
+Aceptación por parte del Gestor Técnico del Sistema de una programación, nominación o renominación realizada por un usuario una vez que ésta ha sido procesada.
 
-Todos los consumidores conectados a redes de presión superior a 16 bar con caudales horarios contratados iguales o superiores a 25.000 m3(n)/h.
+Confirmación metrológica.
 
-Aquellos otros consumidores conectados a redes de presión superior a 16 bar que, por su consumo, tipología o ubicación en la red puedan condicionar la operación normal de las redes a las que estén conectados. Estos últimos consumidores serán definidos anualmente por el Gestor Técnico del Sistema o el distribuidor y comunicados a la Comisión Nacional de Energía y a la Dirección General de Política Energética y Minas.
-
-1.3 Procesos relacionados con la gestión del sistema.
-
-1.3.1 Operación del sistema gasista.–Proceso de aplicación de las Normas de Gestión Técnica, protocolos de detalle y demás requisitos, reglas y procedimientos de operación establecidos para permitir el correcto funcionamiento del sistema según criterios de eficacia, eficiencia, seguridad y mejor servicio al cliente.
-
-1.3.2 Programación.–Proceso de comunicación periódica de los sujetos del sistema gasista por el que se informa a los operadores correspondientes y al Gestor Técnico del Sistema sobre su previsión/planificación de utilización de las infraestructuras en un período determinado.
-
-1.3.3 Nominación.–Proceso de comunicación diaria de los sujetos del sistema gasista a los operadores correspondientes y al Gestor Técnico del Sistema sobre su previsión de utilización de las infraestructuras en un día determinado.
-
-1.3.4 Validación.–Aceptación por parte del titular de una infraestructura de una propuesta de programación o nominación realizada por un usuario de la misma.
-
-1.3.5 Medición y análisis.–Proceso de determinación de la cantidad y calidad del gas que ha transitado por los puntos del sistema gasista definidos en el punto 1.1.
-
-1.3.6 Repartos.–Proceso de asignación del gas transportado, regasificado, distribuido o almacenado por los distintos sujetos del sistema gasista involucrados, realizado por los operadores de las instalaciones en coordinación con el Gestor Técnico del Sistema.
-
-1.3.7 Balance.–Proceso de evaluación de las existencias de gas. Físico, para cada una de las instalaciones; y físico y comercial, para cada usuario. Con el cálculo del balance se podrán determinar las existencias que cada usuario tiene, globalmente en el sistema y por instalación. Este proceso será realizado por el Gestor Técnico del Sistema en coordinación con los operadores de las instalaciones del sistema gasista.
-
-1.3.8 Facturación.–Cálculo y remisión de los importes a pagar por los servicios prestados en la utilización del sistema.
-
-1.3.9 Confirmación metrológica.–Conjunto de operaciones requeridas para asegurarse de que el equipo de medición es conforme a los requisitos correspondientes a su uso previsto, según establezcan la normativa de control metrológico del Estado y, en su caso, las normas técnicas aplicables.
+Conjunto de operaciones requeridas para asegurarse de que el equipo de medición es conforme a los requisitos correspondientes a su uso previsto, según establezcan la normativa de control metrológico del Estado y, en su caso, las normas técnicas aplicables.
 
 La confirmación metrológica generalmente incluye la calibración y verificación, cualquier ajuste o reparación necesario, y la subsiguiente recalibración, la comparación con requisitos metrológicos del uso previsto del equipo, así como cualquier sellado y etiquetado requerido.
 
-1.3.10 Calibración.–Se entiende por calibración el conjunto de operaciones que establecen las condiciones especificadas, la relación entre los valores de una magnitud indicados por un instrumento de medida o un sistema de medida, o los valores representados por una medida materializada o por un material de referencia, y los valores correspondientes de esa magnitud realizados por patrones.
+Contrato Marco de acceso a las instalaciones del sistema gasista español.
 
-1.3.11 Verificación.–Se entiende por verificación el conjunto de actividades por las que se comprueba que un instrumento o sistema de medida, sometido a control metrológico legal, mantiene las características metrológicas establecidas en la reglamentación específica aplicable, antes de finalizar el período de tiempo que en ésta se encuentre establecido.
+El contrato marco de acceso a las instalaciones del sistema gasista español, es el aprobado por la Resolución de la Secretaría de Estado de Energía, de 2 de agosto de 2016. Quedan excluidos del Contrato Marco la contratación de los servicios de acceso del punto de balance hacia o desde una conexión por gasoducto con Europa, que disponen de su propio contrato de acceso.
 
-1.3.12 Reparación/ajuste.–Acción tomada sobre un equipo de medida cuya verificación ha resultado no conforme, con objeto de convertirlo en aceptable para su utilización prevista. (UNE-EN ISO 10012).
+Cuenta de Balance Operativo u Operational Balancing Account (OBA).
 
-1.4 Otras definiciones.
+Balance operativo derivado del reparto de gas entre diferentes infraestructuras.
 
-1.4.1 Año de gas.-Período de tiempo que comienza el 1 de enero y termina el 31 de diciembre del mismo año y en el que se efectúan las operaciones programadas para ese período.
+Las cantidades de gas vendrán determinadas por la diferencia entre la cantidad total medida en el punto de conexión y la suma de las nominaciones confirmadas a los usuarios en dicho punto de conexión.
 
-1.4.2 Día de gas.-Período de tiempo que comienza a las 5 horas UTC y termina a las 5 horas UTC del día siguiente en invierno, y entre las 4 horas UTC de un día y las 4 horas UTC del día siguiente en verano, y en el que se efectúan las operaciones programadas para ese período. Es la unidad temporal de referencia para todas las actividades diarias que incluyen estas Normas.
+Facturación.
 
-1.4.3 Día posterior de gas.-Es el día posterior al día de gas.
+Cálculo y remisión de los importes a pagar por los servicios prestados en la utilización del sistema.
 
-1.4.4 Día previo de gas.-Es el día anterior al día de gas.
+Medición.
 
-1.4.5 Contrato de acceso a las instalaciones del sistema gasista.-Contrato suscrito entre un usuario del sistema gasista, y el operador de una infraestructura para acceder a las instalaciones.
+Proceso de determinación de la cantidad del gas que ha transitado por los puntos del sistema gasista definidos en el punto 1.1.
 
-1.4.6 Mecanismo de comunicación.-Canal y procedimiento físico o electrónico para realizar los procesos y enviar las comunicaciones necesarias (incluyendo cualquier notificación, envío de información, confirmación, petición, aprobación o aceptación relacionadas con dichos procesos) en el sistema gasista.
+Análisis.
 
-1.4.7 Protocolo de medición.-Conjunto de procedimientos y especificaciones técnicas según las cuales se realizan las medidas y análisis del gas, así como, entre otros, los controles y confirmación metrológica de las instalaciones de medición.
+Proceso de determinación de la calidad del gas que ha transitado por los puntos del sistema gasista definidos en el punto 1.1.
 
-1.4.8 Planes de mantenimiento.-Documentos que recogen todas aquellas actividades programadas de inspección, control, intervención y/o reparación, destinadas a mantener las instalaciones del sistema gasista en condiciones de seguridad y funcionamiento óptimas.
+Nominación.
 
-A los efectos de la aplicación de la presente normativa de gestión técnica del sistema, se entiende como planes de mantenimiento de los sujetos del sistema gasista aquellas actividades planificadas de mantenimiento preventivo o correctivo que puedan suponer restricciones en puntos de entrada y salida de la Red Básica o afectar a la capacidad de las instalaciones de la Red Básica y de transporte secundario, así como requerir en éstas, condiciones específicas de presión, caudal y/o velocidad.
+Información que envían en el día d-1 los usuarios de las instalaciones del sistema gasista en relación con los servicios que se prestan, y en particular con el gas que estiman introducir, extraer, suministrar o consumir en el día de gas d, siguiendo el calendario establecido en la normativa vigente.
 
-1.4.9 Indisponibilidad.-Se define como indisponibilidad cualquier situación de limitación total o parcial en el funcionamiento de alguna instalación del sistema gasista, ya sea motivada por mantenimientos planificados, puesta en marcha de infraestructuras, o por una emergencia, fuerza mayor, caso fortuito o cualquier otra circunstancia que se defina.
+En lo relativo al servicio de carga de cisternas con destino distribución, la nominación será realizada por el distribuidor.
 
-1.4.10 Reglas y procedimientos de operación.-Conjunto de procedimientos, reglas y requisitos que complementan a las Normas de Gestión Técnica del Sistema (NGTS) y a sus protocolos de desarrollo.
+Operación del sistema gasista.
 
-1.4.11 Presión máxima de diseño de gasoductos.-Presión máxima de trabajo para la que ha sido diseñado un gasoducto.
+Proceso de aplicación de las normas de gestión técnica, protocolos de detalle y demás requisitos, reglas y procedimientos de operación establecidos para permitir el correcto funcionamiento del sistema según criterios de eficacia, eficiencia, transparencia, seguridad y mejor servicio al cliente.
 
-1.4.12 Presiones relativas mínimas de garantía en los puntos de conexión de la red de transporte.-Presiones mínimas garantizadas en condiciones normales de operación en los puntos de conexión con redes de transporte existentes y de nueva construcción.
+Periodo de balance.
 
-1.4.13 Presiones relativas mínimas de garantía en los puntos de suministro de la red de distribución.-Presiones mínimas garantizadas en condiciones normales de operación en los puntos de suministro en las redes de distribución del gas natural.
+Periodo temporal respecto al cual se calculará el balance de los usuarios del sistema gasista. Este periodo será el día de gas, tal y como se establece en el artículo 3.6 de la Circular 2/2015, de 22 de julio de la Comisión Nacional de los Mercados y la Competencia, por la que se establecen las normas de balance en la red de transporte del sistema gasista.
 
-1.4.14 Capacidad nominal.-Será la capacidad autorizada por el organismo competente en la correspondiente autorización administrativa de la instalación. Ésta coincidirá con la capacidad de diseño utilizable en operación normal, sin incluir los equipos de emergencia o reserva, y sin considerar los posibles márgenes operacionales y restricciones que puedan derivarse de las características de las instalaciones a las que está conectada.
+Plataforma de contratación de capacidad.
 
-1.4.15 Capacidad máxima de una instalación (o capacidad punta).-Será la capacidad que, respetando en todo momento los parámetros de seguridad y fiabilidad de la propia instalación (márgenes operacionales) y desde un punto de vista técnico, puede proporcionar la instalación utilizando todos los equipos de la misma, incluidos los de reserva, y sin considerar los posibles márgenes operacionales y restricciones que puedan derivarse de las características de las instalaciones a las que está conectada.
+Plataforma telemática única de contratación de capacidad gestionada por el Gestor Técnico del Sistema según el Real Decreto 984/2015, de 30 de octubre, por el que se regula el mercado organizado de gas y el acceso de terceros a las instalaciones del sistema de gas natural.
 
-1.4.16 Capacidad mínima de operación.-Es aquella, que de existir, por debajo de la cual no puede utilizarse la instalación al no estar garantizada la fiabilidad y la seguridad operativa de los equipos y de la propia instalación así como el cumplimiento de los requisitos medioambientales. No se considerará esta capacidad mínima a la hora de contratar la capacidad de un gasoducto al ser este un flujo.
+Los requerimientos de dicha Plataforma se definen en la Resolución de 2 de agosto de 2016, de la Secretaría de Estado de Energía, por la que se aprueba el contrato marco de acceso a las instalaciones del sistema gasista español.
 
-1.4.17 Capacidad útil de una instalación.-Es la capacidad nominal menos la capacidad mínima de operación en caso de existir. No obstante, es posible que esta capacidad útil puede verse reducida por otras limitaciones dependiendo de su integración en el conjunto del sistema.
+Tal y cómo se define en el artículo 5 del Real Decreto 984/2015 desde la Plataforma Telemática Única de Contratación de Capacidad, se podrá contratar capacidad en todas las instalaciones incluidas en el régimen regulado de acceso a terceros, (transporte y distribución) exceptuado la capacidad de las interconexiones con otros países de la Unión Europea.
 
-1.4.18 Capacidad contratada.-Es la parte correspondiente de la capacidad útil que está contratada por los usuarios del sistema.
+Procesamiento.
 
-1.4.19 Capacidad disponible.-Es la diferencia entre la capacidad útil y la cantidad contratada o reservada.
+Proceso de validación de las cantidades enviadas en una programación, nominación o renominación por un usuario del sistema de acuerdo a los criterios establecidos.
 
-Las definiciones de los puntos 1.4.14, 1.4.15, 1.4.16, 1.4.17, 1.4.18 y 1.4.19 se pueden representar de la manera siguiente:
+Producto normalizado a corto plazo.
 
-| Capacidad máxima o punta. | Capacidad de los equipos de reserva. |  |  |
-| --- | --- | --- | --- |
-| Capacidad nominal. | Capacidad útil, operativa o técnica. | Capacidad disponible. |
-| Capacidad contratada. |
-| Capacidad mínima de operación. |
+El así definido en el punto 3.4 de la Circular 2/2015, de 22 de julio de la Comisión Nacional de los Mercados y la Competencia, por la que se establecen las normas de balance en la red de transporte del sistema gasista.
 
-1.4.20 Capacidad máxima de almacenamiento de un almacenamiento subterráneo.-Es la cantidad de gas natural contenida en un almacenamiento cuando la presión del mismo coincide con la presión máxima de operación del almacén.
+Programación.
 
-1.4.21 Gas colchón de un almacenamiento subterráneo.-Volumen de gas contenido en el almacenamiento subterráneo que es necesario para poder extraer el gas útil a la presión de diseño del gasoducto.
+Información que deben emitir los agentes que hacen uso de las instalaciones del sistema gasista en relación con el gas que estiman introducir, extraer, almacenar, suministrar o consumir en un período determinado.
 
-1.4.22 Gas útil de un almacenamiento subterráneo.-Volumen de gas contenido en el almacenamiento subterráneo que es susceptible de ser extraído a la presión de diseño del gasoducto sin la utilización de medios mecánicos, conforme a la curva de declino experimentada. El gas útil es la diferencia entre las existencias totales de gas contenidas en el almacenamiento y el gas colchón.
+Renominación.
 
-1.4.23 Gas extraíble por medios mecánicos de un almacenamiento subterráneo.-Parte del gas colchón que puede ser extraído mediante medios mecánicos, a una presión inferior a la de diseño del gasoducto, de manera reversible, sin dañar la estructura del almacenamiento. La parte correspondiente al gas colchón extraíble por medios mecánicos solo podrá ser extraída en situaciones de emergencia.
+Información que envían los usuarios de las instalaciones del sistema gasista una vez cerrado el plazo de envío de nominaciones en relación con los servicios que se prestan, y en particular con el gas que estiman introducir, extraer, suministrar o consumir en el día de gas d, siguiendo el calendario establecido.
 
-1.4.24 Capacidad máxima extraíble de un almacenamiento subterráneo.-Es el gas útil más el gas extraíble por medios mecánicos.
+Reparación/ajuste.
 
-Las definiciones de los puntos 1.4.19, 1.4.20, 1.4.21, 1.4.22, 1.4.23 y 1.4.24 se pueden representar de la manera siguiente:
+Acción tomada sobre un equipo de medida cuya verificación ha resultado no conforme, con objeto de convertirlo en aceptable para su utilización prevista. (UNE-EN ISO 10012).
 
-| Capacidad máxima del almacenamiento subterráneo. | Gas útil. | Capacidad máxima extraíble. | Capacidad disponible. |
-| --- | --- | --- | --- |
-| Gas extraíble por medios mecánicos. | Capacidad contratada. |
-| Gas colchón. |  |  |
+Repartos.
 
-1.4.25 Capacidades de inyección y extracción de un almacenamiento subterráneo.-La capacidad de inyección y la capacidad de extracción de un almacenamiento subterráneo son los caudales de gas natural que consigue vehicular la instalación cuando realiza las acciones de introducir gas en el almacenamiento subterráneo y de extraer gas del almacenamiento subterráneo, respectivamente.
+El reparto es el proceso de asignación del gas que transita a través de las infraestructuras a los usuarios de las mismas, que es atribuido a cada usuario a la entrada o salida del área de balance, con el propósito de determinar su balance.
 
-1.4.26 Nivel mínimo de llenado de gasoductos.-Nivel mínimo operativo de las redes de transporte del sistema gasista. Esta cantidad corresponderá al nivel mínimo de llenado de los gasoductos de transporte en GWh, traducida en días de utilización.
+Servicio de balance.
 
-1.4.27 Almacenamiento útil en la red de gasoductos de transporte.-Volumen de gas que es posible almacenar en la capacidad útil de la red de gasoductos de transporte. Este volumen se expresará también a efectos de estas normas en número de días equivalentes a la capacidad de transporte contratada.
+La acción así definida en el punto 3.5 de la Circular 2/2015, de 22 de julio de la Comisión Nacional de los Mercados y la Competencia, por la que se establecen las normas de balance en la red de transporte del sistema gasista.
 
-1.4.28 Almacenamiento para la operación comercial en la red de gasoductos de transporte.-Volumen de gas propiedad de cada usuario que se emplea para ajustar diariamente las entradas de gas a la red de gasoductos de transporte con el consumo realizado por los consumidores suministrados por el usuario. A efectos de estas normas se expresará en días equivalentes a la capacidad de transporte contratada.
+SL-ATR.
 
-1.4.29 Nivel mínimo operativo de las plantas de regasificación. Talones.-Es el nivel mínimo operativo de llenado de los tanques de gas licuado (GNL) necesario para el correcto funcionamiento de las plantas de regasificación.
+Sistema Logístico de Acceso de Terceros a las Redes. Sistema de información y comunicación entre los distintos sujetos del sistema gasista, que sirve de soporte a la gestión del ciclo completo de gas: contratación, programaciones y nominaciones, mediciones, repartos, balances y liquidaciones.
 
-Su valor depende de las características constructivas de cada tanque y será acreditado por los titulares de las instalaciones en base a sus características técnicas y a lo establecido en estas Normas y sus protocolos de detalle.
+Verificación.
 
-Como valor provisional se tomará el 9 por 100 de la capacidad de almacenamiento en tanques de (GNL).
+Se entiende por verificación el conjunto de actividades por las que se comprueba que un instrumento o sistema de medida, sometido a control metrológico legal, mantiene las características metrológicas establecidas en la reglamentación específica aplicable, antes de finalizar el período de tiempo que en ésta se encuentre establecido.
 
-1.4.30 Almacenamiento útil en tanques de plantas de regasificación.-Volumen de GNL que es posible almacenar en la capacidad útil de los tanques de las plantas de regasificación. Este volumen se expresará también a efectos de estas normas en número de días equivalentes a la capacidad de transporte contratada
+1.4 Definiciones relacionadas con la operación del sistema.
 
-1.4.31 Almacenamiento incluido en el peaje de transporte y distribución.-Almacenamiento al que los usuarios del servicio de transporte y distribución tienen derecho al contratar el uso de las instalaciones necesarias para transportar el gas desde el punto de entrada en la red de transporte hasta el punto de suministro al consumidor, expresado en número de días equivalentes a la capacidad de transporte contratada.
+Capacidad contratada.
 
-1.4.32 Almacenamiento incluido en el peaje de regasificación.-Almacenamiento de GNL en los tanques de las plantas de regasificación al que los usuarios del servicio de regasificación tienen derecho al contratar el uso de las instalaciones, expresado en número de días equivalentes a la capacidad de regasificación contratada diaria.
+Es la capacidad que está contratada por los usuarios del sistema.
 
-1.5 Unidades de medida.–En estas NGTS se consideran las siguientes unidades:
+Capacidad disponible.
 
-Las unidades volumétricas utilizadas son:
+Es la diferencia entre la capacidad útil y la capacidad contratada.
 
-Para GNL: m3 de GNL.
+Capacidad mínima de operación.
 
-Para GN: m3(n), en condiciones normales de presión y temperatura.
+Es aquella por debajo de la cual no puede utilizarse la instalación de forma continuada en el tiempo al no estar garantizada la fiabilidad y la seguridad operativa de los equipos y de la propia instalación, así como el cumplimiento de los requisitos medioambientales.
 
-La unidad energética será el kWh.
+Capacidad nominal.
 
-Las capacidades de entrada y salida se expresarán en kWh/h o kWh/día, en m3 de GNL/h, m3(n)/h, m3(n)/día y millardos de m3(n)/año (bcm/año);
+Es la capacidad máxima de una instalación, que estará autorizada por el organismo competente correspondiente. Ésta coincidirá con la capacidad de diseño utilizable en operación normal, sin incluir los equipos de emergencia o reserva, y sin considerar los posibles márgenes operacionales y restricciones que puedan derivarse de las características de las instalaciones a las que está conectada.
 
-La capacidad de almacenamiento se expresará en kWh, m3(n), y la capacidad almacenada en kWh y en m3(n);
+Capacidad útil de una instalación.
 
-La unidad de presión es el bar;
+Es la capacidad nominal menos la capacidad mínima de operación en caso esta última de existir, excepto para el cálculo de la capacidad de regasificación. No obstante, es posible que esta capacidad útil pueda verse reducida por otras limitaciones dependiendo de su integración en el conjunto del sistema.
 
-La unidad de temperatura es el ºC.
+Capacidades de inyección y extracción de un almacenamiento subterráneo.
 
-Estas unidades serán de uso obligatorio para efectuar balances, mediciones y facturación entre sujetos.
+La capacidad de inyección y la capacidad de extracción de un almacenamiento subterráneo son los caudales de gas natural que consigue vehicular la instalación cuando realiza las acciones de introducir gas en el almacenamiento subterráneo y de extraer gas del almacenamiento subterráneo, respectivamente.
 
-1.6 Clasificación de buques metaneros.–A efectos de estas normas se consideran buques pequeños aquellos cuya capacidad de transporte es inferior a 60.000 m3 de GNL; buques medianos aquellos cuya capacidad de transporte se encuentra comprendida entre 60.000 m3 de GNL y 110.000 m3 de GNL; y buques grandes aquellos cuya capacidad de descarga excede los 110.000 m3 de GNL.
+Existencias útiles de un almacenamiento subterráneo.
+
+Volumen de gas contenido en la capacidad útil del almacenamiento subterráneo. El gas útil es la diferencia entre las existencias totales de gas contenidas en el almacenamiento y el gas colchón.
+
+Gas colchón de un almacenamiento subterráneo.
+
+Volumen de gas contenido en el almacenamiento subterráneo que es necesario para poder extraer el gas a la presión de diseño del gasoducto. Este gas es propiedad del titular de la instalación.
+
+Indisponibilidad de una instalación.
+
+Se define como indisponibilidad cualquier situación de limitación total o parcial en el funcionamiento de alguna instalación del sistema gasista, ya sea motivada por mantenimientos, puesta en marcha de infraestructuras, o por una emergencia, fuerza mayor, caso fortuito o cualquier otra circunstancia.
+
+Nivel de existencias en la red de transporte o line-pack.
+
+Es la cantidad de gas almacenado en la red de transporte. Constituye un indicador que resume el equilibrio de presiones en los puntos de la red de transporte.
+
+Presión máxima de diseño de gasoductos.
+
+Presión máxima de trabajo para la que ha sido diseñado un gasoducto.
+
+Presiones relativas mínimas de garantía en los puntos de conexión de la red de transporte.
+
+Presiones mínimas garantizadas en condiciones normales de operación en los puntos de conexión con redes de transporte existentes y de nueva construcción.
+
+Presiones relativas mínimas de garantía en los puntos de suministro de la red de distribución.
+
+Presiones mínimas garantizadas en condiciones normales de operación en los puntos de suministro en las redes de distribución del gas natural.
+
+Protocolo de medición.
+
+Conjunto de procedimientos y especificaciones técnicas según las cuales se realizan las medidas y análisis del gas, así como, entre otros, los controles y confirmación metrológica de las instalaciones de medición.
+
+Nivel de llenado de gasoducto o valor de referencia de existencias en red de transporte.
+
+Volumen de gas propiedad de los titulares de las redes de transporte definido en el protocolo de detalle PD-18 «Parámetros técnicos que determinan la operación normal de la red de transporte y la realización de acciones de balance en el Punto Virtual de Balance (PVB) por el Gestor Técnico del Sistema».
+
+Nivel mínimo operativo de las plantas de regasificación. Talones de planta.
+
+Volumen de gas contenido en la capacidad mínima de operación de los tanques y que es propiedad del transportista titular de la planta.
+
+Su valor depende de las características constructivas de cada tanque y será acreditado por los titulares de las instalaciones en base a sus características técnicas y a lo establecido en estas normas y sus protocolos de detalle.
+
+Gas de operación.
+
+Gas natural necesario para el correcto funcionamiento de los equipos e instalaciones de transporte del sistema gasista (turbocompresores de estaciones de compresión, equipos y sistemas de Almacenamientos subterráneos, calderas, antorchas, vaporizadores de combustión sumergida). Su determinación se realiza mediante equipos de medida instalados a tal fin.
+
+1.5 Unidades de medida.
+
+En las normas de gestión técnica del sistema se consideran las siguientes unidades:
+
+– Unidad volumétrica para GNL: m³ de GNL.
+
+– Unidad volumétrica para gas natural: m³(n), en condiciones normales de presión y temperatura.
+
+– La unidad energética será el kWh.
+
+– Las capacidades de entrada y salida se expresarán en kWh/h o kWh/día, en m³ de GNL/h, m³(n)/h, m³(n)/día y millardos de m³(n)/año (bcm/año);
+
+– La capacidad de almacenamiento se expresará en kWh, m³(n), y la capacidad almacenada en kWh y en m³(n);
+
+– La unidad de presión es el bar;
+
+– La unidad de temperatura es el ºC.
+
+Estas unidades serán de uso obligatorio para efectuar programaciones, nominaciones, renominaciones, mediciones, repartos, balances y facturación entre agentes.
+
+– Unidad mínima en plataformas de negociación e intermediación: 1 MWh
+
+Esta unidad será la que se use para reflejar las transacciones de compra y venta, en el caso del mercado organizado y otras plataformas de negociación, así como de transacciones bilaterales en el caso de la plataforma MS-ATR.
+
+1.6 Clasificación de buques metaneros.
+
+A efectos de estas normas se consideran buques muy pequeños (XS), aquellos cuya capacidad de transporte es inferior a 9.000 m3; pequeños (S), cuya capacidad de transporte se encuentra entre 9.000 y 40.000 m³ de GNL; buques medianos (M), cuya capacidad de transporte se encuentra comprendida entre 40.000 y 75.000 m³ de GNL; buques grandes (L), cuya capacidad de transporte se encuentra comprendida entre 75.000 y 150.000 m3 de GNL; buques muy grandes (XL), cuya capacidad de transporte se encuentra comprendida entre 150.000 y 216.000 m3 de GNL; y buques extra grandes (XXL), cuya capacidad de transporte excede de 216.000 m3 de GNL.
+
+> Se modifica por el apartado primero, en los términos que se indican en el Anexo I, de la Resolución de 15 de febrero de 2019. Ref. BOE-A-2019-3691
 
 > Se modifica el apartado 1.4.2 por la disposición final 1 de la Orden IET/2355/2014, de 12 de diciembre. Ref. BOE-A-2014-13057.
 
