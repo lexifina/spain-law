@@ -1,0 +1,7 @@
+## Artículo 1. Límites de gasto.
+
+Se fija en doce millones de euros el límite por debajo del cual las personas titulares de las diferentes Secretarías de Estado del Departamento y de la Subsecretaría podrán administrar los créditos para gastos propios del servicio presupuestario propio de los respectivos órganos superiores y directivos de los que son titulares y de los servicios presupuestarios de sus órganos dependientes, aprobar y comprometer los gastos con cargo a aquellos créditos y reconocer las obligaciones económicas y proponer su pago en el marco del plan de disposición de fondos del Tesoro Público; salvo en los expedientes con cargo al programa 000X «Transferencias internas», que el límite se fija en cincuenta millones de euros, y los relativos a los créditos incluidos en cada Secretaría de Estado y de la Subsecretaría que se refieran a las retribuciones del personal, así como a anticipos reintegrables, préstamos, sentencias y recursos, que el límite se fija en veinticinco millones de euros, siendo competente la persona titular de la Subsecretaría por razón de la materia.
+
+Se fija en doce millones de euros el límite por debajo del cual las personas titulares de las diferentes Secretarías de Estado del Departamento y de la Subsecretaría podrán conceder subvenciones y ayudas con cargo a los créditos de gasto propios de los respectivos órganos superiores y directivos de los que son titulares y de sus órganos dependientes.
+
+Dichos límites de gasto se entienden sin perjuicio de las delegaciones que se efectúen en la presente orden.
