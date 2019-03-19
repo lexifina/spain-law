@@ -113,6 +113,11 @@
 | Rumania |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80 % de la dieta, según R.D. 462/2002. | 55 % |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según R.D. 462/2002. | 80 % |
+| Guinea Conakry |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales | 80 % | 80 % de la dieta, según R.D. 462/2002. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según R.D. 462/2002. | 80 % |
+
+> Se modifica por el art. único.2 de la Orden INT/300/2019, de 11 de marzo. Ref. BOE-A-2019-3859
 
 > Se modifica por el art. único.2 de la Orden INT/913/2018, de 31 de julio. Ref. BOE-A-2018-12190
 

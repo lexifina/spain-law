@@ -62,6 +62,10 @@ Las indemnizaciones recogidas en esta orden se aplicarán, para el personal desp
 
 – Rumania: 1 de enero de 2018.
 
+– Guinea Conakry: 1 de enero de 2019.
+
+> Se modifica por el art. único 1 de la Orden INT/300/2019, de 11 de marzo. Ref. BOE-A-2019-3859
+
 > Se modifica por el art. único.1 de la Orden INT/913/2018, de 31 de julio. Ref. BOE-A-2018-12190
 
 > Se modifica por el apartado único.1 de la Orden INT/110/2017, de 7 de febrero. Ref. BOE-A-2017-1408.
