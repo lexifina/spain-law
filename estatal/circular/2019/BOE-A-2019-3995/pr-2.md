@@ -1,0 +1,13 @@
+## Primero. Objeto de la Circular.
+
+Esta Circular tiene por objeto establecer las normas de organización y funcionamiento del mecanismo de certificación de biocarburantes y otros combustibles renovables vendidos o consumidos con fines de transporte y concretar determinados aspectos de carácter operativo del sistema nacional de verificación de la sostenibilidad de los biocarburantes. En concreto, se establecen los procedimientos, normas y reglas para la solicitud de la constitución de Cuentas de Certificación, para la solicitud de expedición de Certificados de biocarburantes y para las transferencias y traspasos de Certificados y se definen los procedimientos de gestión del Sistema de Anotaciones en Cuenta por parte de la Comisión Nacional de los Mercados y la Competencia.
+
+Asimismo, se determina para el periodo definitivo del sistema nacional de verificación de la sostenibilidad de los biocarburantes definido en el Real Decreto 1597/2011, de 4 de noviembre, por el que se regulan los criterios de sostenibilidad de los biocarburantes y biolíquidos, el Sistema Nacional de Verificación de la Sostenibilidad y el doble valor de algunos biocarburantes a efectos de su cómputo (en adelante, Real Decreto 1597/2011, de 4 noviembre), lo siguiente:
+
+a) El procedimiento detallado de remisión de información relativa a los criterios de sostenibilidad.
+
+b) La información a incluir en el informe de verificación de la sostenibilidad a presentar por los sujetos obligados establecidos en el artículo 10 del citado Real Decreto 1597/2011, de 4 de noviembre.
+
+c) La aplicación del sistema de balance de masa para los agentes de la cadena de custodia acogidos al sistema nacional y, en particular, la definición de partida, el periodo para la realización del inventario, los emplazamientos donde se debe aplicar, la forma de implementación para cada agente y las reglas de agregación y asignación de las características de sostenibilidad, teniendo en cuenta las características propias del sistema de distribución de carburantes en España y los requisitos establecidos en el Real Decreto 1597/2011, de 4 de noviembre, así como en la Directiva 2009/28/CE, de 23 de abril, relativa al fomento del uso de energía renovable procedente de fuentes renovables y por la que se modifican y derogan las Directivas 2001/77/CE y 2003/30/CE.
+
+Por último, para las materias primas y carburantes de doble cómputo a efectos del cumplimiento de las obligaciones de venta o consumo de biocarburantes con fines de transporte, se concreta la información y documentación necesaria para validar de manera inequívoca su procedencia y origen, así como las reglas, procedimientos y medidas de control a implementar a efectos de evitar los eventuales riesgos de fraude.
