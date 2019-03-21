@@ -1,0 +1,1 @@
+Esta Orden se deja sin efecto, en lo que afecte al ámbito de actuación del Ministerio de Hacienda, desde el 21 de marzo de 2019, por la disposición derogatoria única de la Orden HAC/316/2019, de 12 de marzo. Ref. BOE-A-2019-4051#dd
