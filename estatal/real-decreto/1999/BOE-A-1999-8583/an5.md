@@ -4,13 +4,33 @@
 
 C.1 Comunicación de la constitución de coalición electoral.
 
+C.1 bis Comunicación, por una Junta Electoral a la Junta Electoral Central y, en su caso, a la Junta Electoral de Comunidad Autónoma, de constitución válida de coaliciones electorales.
+
 C.2 Presentación de candidaturas.
 
 C.3 Hojas de firmas.
 
 C.4 Indicación del ámbito de difusión de las papeletas en las elecciones al Parlamento Europeo.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_033.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/69/04082_6881.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/69/04082_6918.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/69/04082_6952.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/69/04082_6985.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/69/04082_7019.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/69/04082_7052.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/69/04082_7087.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/69/04082_7121.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/69/04082_7154.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/69/04082_7287.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_034.png)
 
@@ -21,6 +41,8 @@ C.4 Indicación del ámbito de difusión de las papeletas en las elecciones al P
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_037.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_038.png)
+
+> Se modifica el índice y el modelo C.1 y se añade el modelo C.1 bis por el art. único.1 a 3 de la Orden INT/318/2019, de 19 de marzo. Ref. BOE-A-2019-4082, de conformidad con los anexos 1 a 3 de la misma.
 
 > Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. Ref. BOE-A-2014-3597.
 

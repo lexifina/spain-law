@@ -76,9 +76,11 @@ A.F.C. Modelo de Acta a utilizar por los funcionarios consulares (voto CERA).
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_078.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_079.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/69/04082_7464.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_080.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/69/04082_7538.png)
+
+> Se modifica el modelo AFC por el art. único.4 de la Orden INT/318/2019, de 19 de marzo. Ref. BOE-A-2019-4082, de conformidad con el anexo 4 de la misma.
 
 > Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. Ref. BOE-A-2014-3597.
 
