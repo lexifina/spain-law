@@ -1,0 +1,3 @@
+## Primero.
+
+Esta resolución tiene por objeto regular la creación, constitución, composición, organización y demás extremos precisos para el funcionamiento de la comisión paritaria a la que hace referencia el apartado 2 del artículo 350 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, que habrá de informar con carácter vinculante las reclamaciones previas formuladas frente a las resoluciones denegatorias de las prestaciones por cese de actividad reguladas en el título V de la citada ley, dictadas por las mutuas colaboradoras con la Seguridad Social.
