@@ -8,7 +8,7 @@ El NRC se generará a partir de los datos siguientes:
 | --- | --- | --- | --- |
 | NIF del contribuyente | XXXXXXXXX | (9) |  |
 | Fecha de vencimiento | MMAA | (4) | Siendo: MM = Mes AA = Año 0000 = Indefinido |
-| Códigos de aval | X | (1) | «1»= Suspensión ejecución recurso de reposición. «2»= Suspensión ejecución reclamación económico-administrativa. «3»= Aplazamientos/Fraccionamientos. «4»= Devolución IVA. «5»= Deuda aduanera IVA e Impuestos Especiales. «6»= Régimen de tránsito comunitario. «7» = Deudas aduaneras y fiscales en representación directa. «8» = Actas con acuerdo. «09» = Representantes aduaneros. |
+| Códigos de aval | X | (1) | «1»= Suspensión ejecución recurso de reposición. «2»= Suspensión ejecución reclamación económico-administrativa. «3»= Aplazamientos/Fraccionamientos. «4»= Devolución IVA. «5»= Garantía de deudas aduaneras y tributarias por operaciones aduaneras. «6»= Garantía con modelos previstos en el Reglamento de Ejecución (UE) 2015/2447. «7» = Adenda al modelo de aval tipo 5, 7 y 9 vigentes a la entrada en aplicación del Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013, por el que se establece el código aduanero de la Unión. «8» = Actas con acuerdo. «9» = Garantía por deudas tributarias por operaciones previstas en la normativa de Impuestos Especiales. |
 | Importe | XXX | (12) | Siendo XXXXXXXXXXXX = Importe avalado de la liquidación recurrida (en los códigos «1» y «2») o el importe garantizado(en el resto de códigos). |
 |  | LONGITUD TOTAL | (40) | DATO DE LA OPERACIÓN |
 
@@ -48,16 +48,18 @@ Códigos de aval:
 
 (4) Devolución IVA.
 
-(5) Deuda aduanera, I.V.A. e Impuestos Especiales.
+(5) Garantía de deudas aduaneras y tributarias por operaciones aduaneras.
 
-(6) Régimen de tránsito comunitario.
+(6) Garantía con modelos previstos en el Reglamento de Ejecución (UE) 2015/2447.
 
-(7) Deudas aduaneras y fiscales en representación directa.
+(7) Adenda al modelo de aval tipo 5, 7 y 9 vigentes a la entrada en aplicación del Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013, por el que se establece el código aduanero de la Unión.
 
 (8) Actas con acuerdo.
 
-(9) Representantes aduaneros.
+(9) Garantía por deudas tributarias por operaciones previstas en la normativa de Impuestos Especiales.
 
 Importe: Se indicará la cifra (un número entero), ajustada a la derecha y rellena con ceros a la izquierda, hasta completar las 12 posiciones. El importe avalado se expresará en céntimos de euro, para evitar el uso de decimales."
 
-> Se modifica por el artículo único.3 de la Resolución de 15 de julio de 2014. Ref. BOE-A-2014-7793
+> Se modifica por el art. único.5 de la Resolución de 11 de febrero de 2019. Ref. BOE-A-2019-2288
+
+> Se modifica por el art. único.3 de la Resolución de 15 de julio de 2014. Ref. BOE-A-2014-7793
