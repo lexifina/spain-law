@@ -1,0 +1,77 @@
+## Artículo 3. La visita pública.
+
+1. La visita pública a la exposición permanente del Museo del Ejército vendrá determinada por el horario, las condiciones de entrada y el régimen general de acceso.
+
+2. El horario de apertura al público será de 10,00 horas a 17,00 horas durante todo el año, con las excepciones que se contemplan en el apartado siguiente. El público podrá entrar al Museo hasta media hora antes del cierre oficial y el desalojo de las salas tendrá lugar 15 minutos antes de dicho cierre.
+
+3. El Museo se mantendrá cerrado todos los lunes (incluidos los que sean festivos). Además, cerrará los días 1 y 6 de enero, el 1 de mayo, los días 24, 25 y 31 de diciembre y aquellos días que, por alguna circunstancia especial o hecho relevante, se determine oportunamente, comunicándose al público con la debida antelación.
+
+4. El precio general de entrada para la visita a la exposición permanente es el establecido en el anexo I.
+
+5. Se aplicará una reducción del 50% sobre el precio general de entrada y con la debida acreditación a grupos vinculados a instituciones de carácter cultural o educativo constituido por 15 o más miembros.
+
+6. La entrada será gratuita, con acreditación, en los siguientes casos:
+
+a) Personal civil del Ministerio de Defensa y miembros de las Fuerzas Armadas y de la Guardia Civil.
+
+b) Miembros del Consejo Internacional de Museos (ICOM).
+
+c) Miembros de la Federación Española de Amigos de los Museos (FEAM).
+
+d) Miembros de la Asociación Española de Museólogos (AEM).
+
+e) Miembros de la Asociación Profesional de Museólogos de España (APME).
+
+f) Miembros de la Asociación Nacional de Archiveros, Bibliotecarios Arqueólogos, Museólogos y Documentalistas (ANABAD).
+
+g) Colaboradores del Museo del Ejército.
+
+h) Donantes de bienes de interés cultural al Museo del Ejército.
+
+i) Personal docente en el ejercicio de funciones culturales y educativas.
+
+j) Guías oficiales de turismo en el ejercicio de sus funciones profesionales.
+
+k) Ciudadanos de la Unión Europea mayores de 65 años.
+
+l) Menores de 18 años.
+
+m) Pensionistas, previa presentación del documento acreditativo de la Seguridad Social o equivalente de los Estados miembros de la Unión Europea. En caso de visitante pensionista por incapacidad permanente, también podrá acceder al museo de forma gratuita la persona que le acompañe, siempre y cuando ésta sea imprescindible para que aquél pueda realizar su visita.
+
+n) Personas con discapacidad, de acuerdo con la definición que realiza el artículo 1.2 de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, mediante la presentación del documento justificativo de la discapacidad. También podrá acceder al museo de forma gratuita la persona que le acompañe, siempre y cuando ésta sea imprescindible para que aquél pueda realizar su visita.
+
+ñ) Estudiantes universitarios pertenecientes a países de la Unión Europea.
+
+o) Personas en situación legal de desempleo, mediante la presentación del documento acreditativo emitido por el Servicio Público de Empleo de la Comunidad Autónoma correspondiente, o el equivalente de los Estados miembros de la Unión Europea.
+
+p) Los miembros de las familias numerosas, según la definición que de las mismas realiza el artículo 2 de la Ley 40/2003, de 18 de noviembre, de Protección a las Familias Numerosas, previa presentación del documento acreditativo correspondiente.
+
+q) El personal adscrito a instituciones museísticas del Ministerio de Defensa, previa presentación del documento acreditativo.
+
+r) Titulares de carnet joven o documento equivalente de cualquiera de los Estados miembros de la Unión Europea, mediante la presentación de dicho documento.
+
+7. Los días de visita pública gratuita para todos los visitantes serán:
+
+a) Todos los domingos del año.
+
+b) El 29 de marzo (Día de la creación del Real Museo Militar, actualmente Museo del Ejército), el 18 de abril (Día del Patrimonio Mundial), el 18 de mayo (Día Internacional de los Museos), el 12 de octubre (Día de la Fiesta Nacional de España) y el 6 de diciembre (Día de La Constitución).
+
+c) El Día de las Fuerzas Armadas y aquellas otras fechas conmemorativas que determinen el Subsecretario de Defensa o el Jefe de Estado Mayor del Ejército de Tierra.
+
+8. El precio de entrada para la visita a exposiciones temporales, el acceso a los servicios complementarios del Museo y a otras actividades culturales, será determinado en cada caso.
+
+9. Como medida de fomento de visita al Museo del Ejército, se establece la tarjeta anual de acceso para la visita pública con las siguientes condiciones:
+
+a) El precio de la tarjeta es el establecido en el anexo I.
+
+b) El periodo de validez de esta tarjeta será de un año, computado desde la fecha de expedición de la tarjeta.
+
+c) La tarjeta será expedida por el propio Museo, a petición de los interesados.
+
+d) La tarjeta anual será personal e intransferible, incorporando los siguientes datos: nombre y apellidos del titular, número del D.N.I. o del documento acreditativo correspondiente y periodo de validez.
+
+10. La Dirección del Instituto de Historia y Cultura Militar podrá realizar campañas de promoción cultural, turística y social y convenios de colaboración con otros organismos para el fomento de la visita al Museo del Ejército e incorporar la aplicación de reducciones sobre el precio de entrada general fijado en el anexo I. Igualmente establecerá la gratuidad en la participación de actividades extraordinarias que se determinen.
+
+11. La Dirección del Instituto de Historia y Cultura Militar podrá determinar la gratuidad de acceso para aquellos grupos profesionales no contemplados en el artículo 3.6, que estén relacionados con el cumplimiento de los fines del Museo del Ejército o con el de fines sociales o culturales relacionados con la Cultura de Defensa. También modificará el régimen de visitas del Museo cuando, por motivos eventuales, se considere necesario.
+
+12. El Director del Museo podrá autorizar la entrada gratuita a personas no contempladas en los colectivos descritos en los artículos 3.6 y 3.11 por motivos profesionales, de estudio, investigación u otros que estén relacionados con el cumplimiento de los fines del Museo del Ejército o con el de fines sociales o culturales relacionados con la Cultura de Defensa.
