@@ -1,0 +1,7 @@
+## Artículo 3. Requisitos y condiciones.
+
+1. En los convenios se han de establecer las obligaciones de las personas físicas o jurídicas habilitadas, garantizándose el cumplimiento de las normas sobre otorgamiento de la representación y validación de documentos. La tramitación y presentación electrónica de la documentación se realizará a través de las vías y del procedimiento establecido.
+
+2. Los colegios, asociaciones o colectivos que suscriban los correspondientes convenios deberán verificar la documentación presentada por los profesionales en representación de los interesados, en los términos indicados por las instrucciones y directrices establecidas por la Dirección General de Migraciones.
+
+3. El registro electrónico del Ministerio de Trabajo, Migraciones y Seguridad Social, a través del correspondiente procedimiento publicado en la Sede Electrónica del mismo, admitirá los documentos presentados por vía electrónica, y les dará trámite, previo cumplimiento de los requisitos establecidos. Las notificaciones que sea preciso realizar a los sujetos habilitados en el curso de la tramitación se pondrán a su disposición en su Carpeta Ciudadana accesible en el Punto de Acceso General. Los sujetos habilitados para la suscripción de convenios deberán poner a disposición del Ministerio una plataforma propia de preparación de la documentación de sus colegiados y asociados con los requisitos establecidos en el anexo I de la presente orden.
