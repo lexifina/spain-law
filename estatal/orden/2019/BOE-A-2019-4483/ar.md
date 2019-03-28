@@ -1,0 +1,3 @@
+## Artículo 1. Objeto y ámbito de aplicación.
+
+Esta orden ministerial tiene por objeto regular determinadas condiciones específicas para el ascenso de los Guardias Civiles al empleo superior; y en particular, establecer el número máximo de ciclos en que el citado personal puede ser evaluado para el ascenso por los sistemas de elección y clasificación, y el número máximo de veces en que puede ser evaluado para la asistencia a un mismo curso de capacitación; de acuerdo con las previsiones establecidas en el capítulo III del Reglamento de evaluaciones y ascensos del personal de la Guardia Civil, aprobado por Real Decreto 512/2017, de 22 de mayo.

@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Número máximo de ciclos y número máximo de veces en que los oficiales de las Escalas a extinguir de la Ley 42/1999, de 25 de noviembre, de Régimen del Personal de la Guardia Civil, pueden ser evaluados para el ascenso o para asistir a cursos de capacitación, respectivamente.
+
+1. El número máximo de ciclos en que los componentes de las Escalas de Oficiales, Facultativa Superior y Facultativa Técnica de la Ley 42/1999, de 25 de noviembre, que permanezcan en ellas a partir del 1 de julio de 2017, pueden ser evaluados para el ascenso a un mismo empleo por los sistemas de elección y clasificación, será de tres.
+
+Para el cómputo de los ciclos de ascensos a los efectos previstos en esta disposición sólo se tendrán en cuenta aquéllos en que, como resultado de las evaluaciones correspondientes, se produzca el ascenso de alguno de los evaluados que tuviera un número mayor que el del afectado en el escalafón de origen.
+
+2. Con independencia de la determinación del número de asistentes a cada curso de capacitación y la designación de quienes deban ser evaluados con esta finalidad, el número máximo de veces en que los componentes de las Escalas de Oficiales, Facultativa Superior y Facultativa Técnica de la Ley 42/1999, de 25 de noviembre, que permanezcan en ellas a partir del 1 de julio de 2017, pueden ser evaluados para la asistencia al curso de capacitación para el ascenso al empleo de Coronel o al de Teniente Coronel, según corresponda, será de tres.
