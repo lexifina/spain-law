@@ -1,0 +1,15 @@
+El artículo 67.1 de la Ley 29/2014, de 28 de noviembre, de Régimen del Personal de la Guardia Civil, establece que serán evaluados para el ascenso, por el sistema de elección, todos los del empleo inmediato inferior que reúnan o puedan reunir, durante el ciclo de ascensos, las condiciones establecidas en su artículo 65, y que se encuentren en las zonas del escalafón que, para cada empleo, determine el Director General de la Guardia Civil.
+
+Por su parte, su artículo 68.1 establece las evaluaciones para el ascenso por el sistema de clasificación, para quienes reúnan o puedan reunir las citadas condiciones, en este caso, antes del inicio del ciclo de ascensos.
+
+En ambos casos se prevé que, por orden del Ministro de Defensa, previo informe del Director General de la Guardia Civil, se establecerá para cada período de vigencia de la plantilla reglamentaria a la que se refiere el artículo 25.2 de la Ley 29/2014, de 28 de noviembre, el máximo y el mínimo de la relación entre el número de evaluados en cada ciclo y el de vacantes previstas, concretándolas para cada empleo.
+
+Estas previsiones han quedado recogidas en el artículo 25.1 del Reglamento de evaluaciones y ascensos del personal de la Guardia Civil, aprobado por el Real Decreto 512/2017, de 22 de mayo. En este sentido, el apartado tercero del mismo artículo dispone que para la determinación de las zonas de escalafón para las evaluaciones para el ascenso por los sistemas de elección y clasificación, se tendrán en cuenta los criterios generales que se establezcan para la determinación del número de vacantes previstas y del número de evaluados en cada ciclo, con los límites que se fijen en la relación entre el número de vacantes y evaluados. En todo caso se garantizará que el número de evaluados permita cubrir las vacantes previstas.
+
+Por tanto, para cada sistema de ascenso se ha establecido un margen entre el máximo y mínimo aplicables, de forma que la actuación de los órganos competentes en la determinación de las zonas de escalafón, tenga un marco que permita de una parte, que los más capaces e idóneos sean evaluados, clasificados y, en su caso, ascendidos y, por otra, mantener una cierta continuidad en el ritmo de ascensos, todo ello dependiendo de las condiciones y características de cada ciclo de ascensos y teniendo en cuenta la tendencia de los porcentajes de renuncia a la evaluación para el ascenso de determinados empleos.
+
+La norma se adecúa a los principios de buena regulación de conformidad con el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Por último, en cumplimiento de lo dispuesto en el artículo 54 de la Ley Orgánica 11/2007, de 22 de octubre, reguladora de los derechos y deberes de los miembros de la Guardia Civil, esta orden ministerial ha sido sometida al informe del Consejo de la Guardia Civil.
+
+En su virtud, a propuesta conjunta del Ministro del Interior y de la Ministra de Defensa, con la aprobación previa prevista en el artículo 26.5, quinto párrafo, de la Ley 50/1997, de 27 de noviembre, del Gobierno, dispongo:
