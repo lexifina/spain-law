@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Generadores de números aleatorios homologados con anterioridad a la entrada en vigor de esta Resolución.
+
+Los cambios que se deban realizar en los sistemas de generación de números aleatorios para hacerlos criptográficamente fuertes tienen consideración de cambio sustancial en el sistema técnico de juego por lo que su puesta en producción necesitará la previa autorización de la Dirección General de Ordenación del Juego tras la presentación del correspondiente informe de certificación en un plazo de nueve meses a contar desde la entrada en vigor de esta Resolución.
