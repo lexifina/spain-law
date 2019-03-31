@@ -42,7 +42,7 @@
 | Carpobrotus acinaciformis (L.) L. Bolus. | Excepto Canarias. | Hierba del cuchillo, uña de gato, uña de león. |
 | Carpobrotus edulis (L.) N. E. Br. |  | Hierba del cuchillo, uña de gato, uña de león. |
 | Centranthus ruber (L.) DC. | Canarias. | Hierba de San Jorge. |
-| Cortaderia spp. | Excepto Canarias. | Hierba de la pampa, carrizo de la pampa. |
+| Cortaderia spp. |  | Hierba de la pampa, carrizo de la pampa. |
 | Cotula coronopifolia L. | Baleares. | Cotula. |
 | Crassula helmsii (Kirk) Cockayne. |  |  |
 | Cylindropuntia spp. |  | Cylindropuntia. |
@@ -66,6 +66,7 @@
 | Maireana brevifolia (R. Br.) P. G. Wilson. | Canarias. | Mato azul. |
 | Myriophyllum aquaticum (Vell.) Verdc. |  |  |
 | Nassella neesiana (Trin, & Rupr.) Barkworth. | Canarias. | Flechilla. |
+| Nicotiana glauca. | Canarias. | Tabaco moruno, aciculito, calenturero, gandul, bobo, venenero. |
 |  |
 | Nymphaea mexicana Zucc. |  | Lirio Amarillo. |
 | Opuntia dillenii (Ker-Gawler) Haw. |  | Tunera india. |
@@ -165,6 +166,9 @@
 | Todas las especies de la Familia Colubridae sensu lato. | Canarias, Ibiza y Formentera. |  |
 | Elaphe guttata (Linnaeus, 1766). | Baleares. | Culebra del maizal. |
 | Trachemys scripta (Schoepff, 1792). |  | Galápago americano o de Florida. |
+| Varanus exanthematicus. |  | Varano de sabana o varano terrestre-africano. |
+| Pseudemys peninsularis. |  | Tortuga de la península. |
+| Python regius. |  | Pitón real. |
 | Aves |
 | Acridotheres spp. |  | Minás. |
 | Alopochen aegyptiacus (Linnaeus, 1766). |  | Ganso del Nilo. |
@@ -199,12 +203,15 @@
 | Rattus norvegicus (Berkenhout, 1769). | Canarias. | Rata parda. |
 | Rattus rattus (Linnaeus, 1758). | Canarias. | Rata negra. |
 | Familia Sciuridae Hemprich, 18201. |  |  |
+| Sus scrofa var. domestica raza VIETNAMITA. |  | Cerdo vietnamita. |
 
 – Cuando en el ámbito de aplicación no se especifica nada, se refiere a todo el territorio español.
 
 – spp. Se refiere a todos los niveles taxonómicos infra-genéricos.
 
-1 Excepto Sciurus vulgaris.
+1 Excepto Sciurus vulgaris y Marmota marmota.
+
+> Se modifica por la disposición final 1.5 y 6 del Real Decreto 216/2019, de 29 de marzo. Ref. BOE-A-2019-4675#df
 
 > Se declara la nulidad de la exclusión en el Catálogo de las especies Batrachocytrium dendrobatidis, Udaria pinnatifida, Helianthus tuberosus, Cyprinus carpio y Oncorhynchus mykiss, debiendo quedar incluidas, así como la exclusión de la población murciana del bóvido Ammotragus lervia, debiendo quedar dicha especie incluida sin excepciones, por Sentencia del TS de 16 de marzo de 2016. Ref. BOE-A-2016-5901.
 

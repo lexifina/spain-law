@@ -1,0 +1,33 @@
+## Artículo 7. Controles oficiales.
+
+1. En un plazo de seis meses a contar desde la entrada en vigor del presente real decreto, la Administración General del Estado, respecto de las operaciones de comercio exterior, y la Comunidad Autónoma de Canarias, respecto de las operaciones dentro de la Unión Europea, de acuerdo con sus respectivos ámbitos de competencias en materia de control aduanero, deberán llevar a cabo los controles oficiales que resulten necesarios que se contemplan en el Reglamento (CE) n 2017/265 del Parlamento Europeo y del Consejo, de 15 de marzo, y en el Real Decreto 630/2013, de 2 de agosto, a fin de evitar la introducción intencionada en las islas Canarias de especies exóticas invasoras preocupantes para las islas Canarias. Esos controles oficiales se aplicarán a las categorías de productos correspondientes a los códigos de la nomenclatura combinada con arreglo al Reglamento (CEE) n.º 2658/87, del Consejo, de 23 de julio de 1.987, relativo a la nomenclatura arancelaria y estadística y arancel aduanero común al que remite el artículo 4.5 del Reglamento (UE) n.º 1143/2014, del Parlamento Europeo y del Consejo, de 22 de octubre.
+
+2. La Administración General del Estado y la Comunidad Autónoma de Canarias, en sus respectivos ámbitos de competencias, efectuarán los controles adecuados, basados en una evaluación de riesgos, de los productos mencionados en el apartado 1 y comprobarán que:
+
+a) No estén en la lista de especies exóticas invasoras preocupantes para la región ultraperiférica de las islas Canarias, o
+
+b) Cuenten con un permiso válido con arreglo a lo previsto en el artículo 3.
+
+3. Los controles oficiales consistentes en controles de documentación, de identidad o físicos, se realizarán en el momento en que los productos mencionados en el apartado 1 sean introducidos en las islas Canarias. La Administración General del Estado, respecto de las operaciones de comercio exterior, y la Comunidad Autónoma de Canarias, respecto de las operaciones dentro de la Unión Europea, conferirán la responsabilidad de realizar los controles a que se refiere el apartado 2 a las autoridades competentes encargadas de los mismos, con arreglo a lo previsto en el artículo 4 del Reglamento (CE) n.º 882/2004, del Parlamento Europeo y del Consejo, de 29 de abril de 2004, sobre los controles oficiales efectuados para garantizar la verificación del cumplimiento de la legislación en materia de piensos y alimentos y la normativa sobre salud animal y bienestar de los animales y en las Directivas 91/496/CEE del Consejo, de 15 de julio de 1991, por la que se establecen los principios relativos a la organización de controles veterinarios de los animales que se introduzcan en la Comunidad procedentes de países terceros y por la que se modifican las Directivas 89/662/CEE, 90/425/CEE y 90/675/CEE y 97/78/CE, del Consejo, de 18 de diciembre de 1997, por la que se establecen los principios relativos a la organización de controles veterinarios de los productos que se introduzcan en la Comunidad procedentes de países terceros o, en los puntos de entrada, con arreglo a lo previsto en el artículo 2, apartado 1, letra g), de la Directiva 2000/29/CE del Consejo, de 8 de mayo de 2000, relativa a las medidas de protección contra la introducción en la Comunidad de organismos nocivos para los vegetales o productos vegetales y contra su propagación en el interior de la Comunidad, respecto de las categorías de productos a que se refiere el apartado 1.
+
+4. La autorización de un despacho a libre práctica, de tránsito, de depósito aduanero, de zona franca, de importación temporal, de destino final o de perfeccionamiento activo, estará condicionada a la acreditación previa ante la autoridad aduanera, por medios electrónicos, de la existencia de alguno de los siguientes documentos, según proceda:
+
+a) El certificado de las autoridades veterinarias o fitosanitarias, según proceda, previsto para el control a la entrada de productos procedentes de países terceros en el marco del Derecho de la Unión debidamente cumplimentado a que se refiere el apartado 3, en que se acredite que se cumplen las condiciones a que se refiere el apartado 2.
+
+b) Los permisos y certificados que el Servicio de Inspección de las Direcciones Territoriales y Provinciales de Comercio de la Secretaria de Estado de Comercio expiden conforme a lo previsto en los artículos 4 y 5 del Real Decreto 1739/1997, de 20 de noviembre, sobre medidas de aplicación del Convenio sobre Comercio Internacional de especies amenazadas de Fauna y Flora Silvestres (CITES), hecho en Washington el 3 de marzo de 1973 y del Reglamento (CE) n.º 338/97, del Consejo, de 9 de diciembre de 1.996, relativo a la protección de especies de la fauna y flora silvestres mediante el control de su comercio.
+
+5. Si los controles determinan un incumplimiento de lo previsto en este real decreto:
+
+a) Las autoridades aduaneras no autorizarán el régimen solicitado, poniendo en conocimiento de la autoridad competente los posibles incumplimientos de la normativa del presente real decreto.
+
+b) Las autoridades competentes a que se refiere el apartado 3 confiscarán los productos.
+
+Si los productos son confiscados, serán confiados a la autoridad competente responsable de aplicar el presente real decreto. La Administración General del Estado y la Comunidad Autónoma de Canarias, en sus respectivos ámbitos de competencias, podrán delegar funciones específicas en otras autoridades.
+
+6. Los costes generados mientras se lleva a cabo la verificación y los que se deriven de cualquier incumplimiento correrán a cargo de la persona que trajo los bienes a las islas Canarias, salvo que la Administración General del Estado y la Comunidad Autónoma de Canarias, en sus respectivos ámbitos de competencias, determinen otra cosa.
+
+7. La Administración General del Estado y la Comunidad Autónoma de Canarias, en sus respectivos ámbitos de competencias, establecerán procedimientos para garantizar el oportuno intercambio de información, así como la coordinación y cooperación entre todas las autoridades implicadas para que las verificaciones mencionadas en el apartado 2 se realicen de forma eficaz y eficiente.
+
+8. La Administración General del Estado junto con la Comunidad Autónoma de Canarias, de forma coordinada, desarrollarán orientaciones y programas de formación para facilitar la identificación y detección de las especies exóticas invasoras preocupantes para las islas Canarias y la realización de controles eficientes y eficaces.
+
+9. Cuando se hayan otorgado permisos con arreglo al artículo 3, se hará referencia, en la declaración aduanera o en las notificaciones pertinentes a la entidad fronteriza, al permiso válido que cubra los productos declarados.
