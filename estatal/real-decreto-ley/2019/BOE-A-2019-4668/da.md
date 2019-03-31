@@ -1,0 +1,3 @@
+## Disposición adicional primera. Informe de evolución.
+
+Con periodicidad anual, comenzando un año después de la entrada en vigor del presente real decreto-ley, el Ministerio de Fomento remitirá a la Comisión Delegada del Gobierno para Asuntos Económicos un informe que recoja la evolución de la liberalización del sector de la estiba. En particular, dicho informe deberá reflejar la evolución del empleo y los flujos de entrada y salida de trabajadores a la estiba, la contratación dentro y fuera de los centros portuarios de empleo, las condiciones laborales, las magnitudes básicas del sector de formación de estibadores, y el impacto de todo ello sobre la competitividad portuaria española.
