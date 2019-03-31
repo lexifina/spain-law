@@ -22,7 +22,9 @@ Para aplicar lo previsto en el párrafo anterior, además será necesario que el
 
 5. En relación con ejercicios posteriores a 2014, mediante Ley de Presupuestos Generales del Estado se podrá habilitar, atendiendo a la coyuntura económica, la prórroga del plazo de aplicación previsto en este artículo.
 
-> Téngase en cuenta que se prorroga para 2018 la aplicación de las reglas contenidas en esta disposición, según establece el art. 1 del Real Decreto-ley 1/2018, de 23 de marzo. Ref. BOE-A-2018-4152
+> Téngase en cuenta que se prorroga para 2019 la aplicación de las reglas contenidas en esta disposición, según establece el art. 2 del Real Decreto-ley 10/2019, de 29 de marzo. Ref. BOE-A-2019-4669
+
+> Se prorroga su aplicación para 2019 por el art. 2 del Real Decreto-ley 10/2019, de 29 de marzo. Ref. BOE-A-2019-4669
 
 > Se prorroga su aplicación para 2018 por el art. 1 del Real Decreto-ley 1/2018, de 23 de marzo. Ref. BOE-A-2018-4152
 
