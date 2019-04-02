@@ -1,0 +1,5 @@
+## Artículo 7. Solicitudes.
+
+Las solicitudes de concesión de subvenciones se dirigirán a la Dirección General del Servicio Público de Empleo Estatal o al órgano competente de la Comunidad Autónoma, según el ámbito de la convocatoria.
+
+El lugar y plazo de presentación de las solicitudes, así como la documentación que el interesado deberá acompañar a las mismas, se establecerán en las convocatorias. Dicho plazo de presentación de las solicitudes no podrá ser superior a tres meses, excepto cuando la normativa de las administraciones competentes permita un plazo superior. En todo caso, en los supuestos en los que la concesión de las subvenciones se tramite mediante convocatoria abierta, de acuerdo con lo previsto en el artículo 59 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, aprobado por el Real Decreto 887/2006, de 21 de julio, en la convocatoria abierta se concretará el plazo de presentación de solicitudes para cada una de las resoluciones sucesivas previstas en la convocatoria, no siendo de aplicación el plazo máximo de tres meses antes señalado.
