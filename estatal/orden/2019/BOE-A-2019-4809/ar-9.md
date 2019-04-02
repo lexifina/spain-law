@@ -1,0 +1,11 @@
+## Artículo 9. Pago de la subvención.
+
+1. Dictada la resolución de concesión se procederá al pago de un anticipo por importe del 25 por ciento de la subvención concedida, mediante transferencia bancaria a la cuenta corriente comunicada por la entidad beneficiaria y de la que esta sea titular.
+
+2. A solicitud de la entidad beneficiaria, se procederá al pago de un segundo anticipo del 35 por ciento adicional una vez acreditado el inicio de la actividad formativa.
+
+3. Por último, a solicitud de la entidad beneficiaria, se procederá al pago de un tercer anticipo por el importe del 40 por ciento restante de la subvención, una vez acreditada la ejecución de al menos el 50 por ciento del plan de formación objeto de subvención. Se considerará ejecución de al menos el 50 por ciento del plan de formación cuando se hayan impartido al menos el 50 por ciento de las horas de formación previstas en el conjunto del plan de formación.
+
+4. Los anticipos que deba realizar la Administración según los apartados anteriores se harán efectivos en el plazo máximo de tres meses, a contar desde la presentación por el beneficiario de la documentación requerida para solicitar los respectivos anticipos. En todo caso, los pagos se efectuarán previa comprobación de que la entidad beneficiaria se encuentra al corriente de sus obligaciones tributarias y frente a la Seguridad Social y no es deudora por resolución de procedencia de reintegro.
+
+5. Con carácter general, en el caso de que se solicite anticipo, el beneficiario no estará obligado a constituir garantías. No obstante, los beneficiarios de las subvenciones concedidas deberán garantizar los anticipos de pagos sobre las mismas, cuando así se prevea en las correspondientes convocatorias, de acuerdo con lo establecido en la Orden TAS/1622/2002, de 13 de junio, por la que se regula la forma de garantizar, por los beneficiarios de las subvenciones y ayudas públicas que conceda el Instituto Nacional de Empleo, los anticipos de pago sobre las mismas, así como por los obligados al pago en período voluntario de los fraccionamientos y aplazamientos que se concedan, resultantes del procedimiento de reintegro de dicho Organismo contenido en la Resolución de 20 de marzo de 1996.
