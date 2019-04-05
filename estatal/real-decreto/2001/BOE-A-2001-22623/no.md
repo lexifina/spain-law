@@ -1,1 +1,1 @@
-Norma derogada, con efectos de 23 de marzo de 2018, por la disposición derogatoria única del Real Decreto 848/2017, de 22 de septiembre. Ref. BOE-A-2017-10832#dd
+Téngase en cuenta que, mediante Sentencia del TS de 15 de marzo de 2019, Ref. BOE-A-2019-5024, se declara la nulidad del Real Decreto 848/2017, de 22 de septiembre, que había derogado esta norma. Ref. BOE-A-2017-10832
