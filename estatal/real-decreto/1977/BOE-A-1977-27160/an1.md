@@ -79,6 +79,12 @@
 | 32 |  | MDMB-CHMICA |
 | 33 |  | 5F-APINACA (5F-AKB-48) |
 | 34 |  | XLR-11 |
+| 35 |  | AB-CHMINACA (N-[(2S)-1-amino-3-metil-oxobutan-2-il]-1- (ciclohexilmetil)-1H-indazol-3-carboxamida) |
+| 36 |  | 5F-MDMB-PINACA (5F-ADB) ((2S)-2-{[1-(fluoropentil)-1H-indazol-3- carbonil] amino}-3,3-dimetilbutanoato de metilo) |
+| 37 |  | AB-PINACA (N-[(2S)-1-amino-3-metil-1-oxobutan-2-il]-1-pentil-1H-indazol-3-carboxamida) |
+| 38 |  | UR-144 (1-fentil-1H-indol-3-il) (2,2,3,3-tetrametilciclopropil)metanona) |
+| 39 |  | 5F-PB-22 (1-(5-fluoropentil)-1H-indol-3-carboxilato de quinolin-8-ilo) |
+| 40 |  | 4-fluoroanfetamina (4-FA) (1-(4-fluorofenil)propan-2-amina) |
 | Sustancias de la lista III |
 | 1 AMOBARBITAL |  | Ácido 5-etil-5-isopentilbarbitúrico |
 | 2 BUPRENORFINA |  | 2l-ciclopropil-7-α-[(S)-1-hidroxi-1,2,2-trimetilpropil]-6,14-endo-etano-6,7,8,14-tetrahidrooripavina |
@@ -153,6 +159,10 @@
 | 61 TRIAZOLAM |  | 8-cloro-6-(o-clorofenil)-1-metil-4H-s-triazolo-[4,3-α][1,4]benzodiacepina |
 | 62 VINILBITAL |  | ácido 5-[1-metilbutil]-5-vinilbarbitúrico |
 | 63 ZOLPIDEM |  | [N,N,6-trimetil-2-p-tolilimidazol (1,2-α)piridina-3-acetamida] |
+
+> Véase el art. único de la Orden SCB/387/2019, de 25 de marzo. Ref. BOE-A-2019-4952, en relación a la inclusión de seis nuevas sustancias en la lista II.
+
+> Téngase en cuenta para su aplicación la disposición adicional única.
 
 > Véase el art. único de la Orden SCB/770/2018, de 12 de julio. Ref. BOE-A-2018-10185, en relación a la inclusión de ocho nuevas sustancias en la lista II.
 
