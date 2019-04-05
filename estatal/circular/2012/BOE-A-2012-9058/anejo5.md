@@ -28,7 +28,7 @@ La información que se ha de desarrollar para cada una de las operaciones de cr�
 
 ………………………….
 
-1.2 Tarjetas de crédito (siempre que incluyan financiación con cargo de intereses)
+1.2 Tarjetas de crédito (siempre que incluyan financiación con cargo de intereses y cuya información no deba facilitarse en el Estado de Comisiones previsto en el artículo 17 del Real Decreto-ley 19/2017).
 
 – Tarjeta de crédito A
 
@@ -46,19 +46,7 @@ La información que se ha de desarrollar para cada una de las operaciones de cr�
 
 2. DEPÓSITOS
 
-2.1 Depósitos a la vista
-
-– Depósito a la vista A
-
-– Intereses abonados.
-
-– Intereses de descubiertos aplicados.
-
-– Comisiones cargadas en la cuenta (que no sean objeto de información separada con arreglo a lo establecido a estos efectos), separadas por los siguientes conceptos: mantenimiento; administración o domiciliación de operaciones; transferencias y traspasos; estudio, apertura, emisión, formalización, renovación o mantenimiento de tarjetas de pago; modificación o novación de las condiciones de la cuenta; gestión y devolución de cheques al cobro; disposiciones en efectivo, sean o no mediante tarjeta; reclamación de posiciones deudoras; y otros, entre los que se incluirán, bajo la denominación de tarifa plana y con una nota al pie que haga explícito su alcance, las comisiones percibidas por un conjunto de servicios instrumentados a través de la propia cuenta, que excluirán cualquier comisión derivada de operaciones con valores
-
-– Gastos repercutidos, separados en iguales conceptos (los gastos de correo deberán unirse bajo un concepto único).
-
-– Depósito a la vista B
+2.1 (Suprimido).
 
 …………………
 
@@ -89,3 +77,5 @@ Se incluirán exclusivamente las comisiones y gastos cobrados por servicios que 
 – Emisión de cheques conformados o compra de cheques bancarios.
 
 – Otras comisiones pagadas por servicios prestados a través de cajeros automáticos o ATM.
+
+> Se modifica por la disposición final 1.8 y 9 de la Circular 2/2019,de 29 de marzo de 2019. Ref. BOE-A-2019-4955#df

@@ -78,29 +78,7 @@ Informaciones que se han de facilitar: Plazo y tipo de interés anual modales de
 
 Informaciones que se han de facilitar: Plazo y tipo de interés anual modales de las operaciones realizadas en el trimestre anterior, TAE y comisión y/o penalización por cancelación anticipada (expresada como porcentaje del importe contratado) más frecuente aplicada en los depósitos con ese tipo.
 
-3. Depósitos a la vista (cuentas corrientes o de ahorro) que no admitan disposiciones mediante tarjeta ni domiciliación de pagos o recibos.
-
-Informaciones que se han de facilitar: Tipo de interés anual modal durante el trimestre anterior de las operaciones contratadas y TAE. Comisión modal aplicable a las transferencias SEPA realizadas (bajo el supuesto de un importe de 500 euros) a cuentas del propio titular en otras entidades.
-
-4. Otros depósitos a la vista (cuentas corrientes o de ahorros, incluso materializadas en libreta), siempre que no remuneren los saldos en efectivo o lo hagan con un tipo de interés igual o inferior al 1%.
-
-4.1 Que no requieran contar con nómina o pensión domiciliada ni con un saldo mínimo, movilizables mediante cheque, en los que uno o dos cotitulares puedan utilizar tarjeta de débito, y sin límites en cuanto a los pagos domiciliados.
-
-Informaciones que se han de facilitar: Para la oferta más representativa (de las aplicadas al menos al 10% de los clientes de la entidad con esas características) mantenida durante el trimestre anterior para ese tipo de clientes: coste anual que supondría para ese cliente mantener la cuenta abierta, poder ingresar fondos sin restricciones, y realizar mensualmente hasta cinco retiradas de efectivo en oficinas o cajeros automáticos de la propia entidad, dos transferencias SEPA, los pagos asociados a diez domiciliaciones mensuales, y el uso del talonario de cheques y de las tarjetas para hacer pagos con cargo al saldo de la cuenta. Si la entidad reintegra parte del coste, o abona algún importe en efectivo, en función de las operaciones realizadas, se mencionará en observaciones.
-
-4.2 Cuando se ofrezcan o contraten:
-
-4.2.1 Que incluyan al menos una nómina o pensión domiciliada, y siempre que uno o dos cotitulares puedan utilizar tarjeta de débito, pero no de crédito.
-
-Informaciones que se han de facilitar: Para la oferta más representativa (de las aplicadas al menos al 10% de los clientes de la entidad con esas características) mantenida durante el trimestre anterior para ese tipo de clientes: coste anual que supondría para ese cliente mantener la cuenta abierta, poder ingresar fondos sin restricciones, realizar mensualmente hasta cinco retiradas de efectivo en oficinas o cajeros automáticos de la propia entidad, dos transferencias SEPA, los pagos asociados a las domiciliaciones realizadas (hasta diez pagos mensuales) y el uso de las tarjetas para hacer pagos con cargo al saldo de la cuenta. Si la entidad reintegra parte del coste, o abona algún importe en efectivo, en función de las operaciones realizadas, se mencionará en observaciones.
-
-4.2.2 Que incluyan al menos una nómina o pensión domiciliada, movilizables mediante cheque y siempre que uno o dos cotitulares puedan utilizar tarjeta de débito y de crédito con abono de los cargos en la propia cuenta.
-
-Informaciones que se han de facilitar: Para la oferta más representativa (de las aplicadas al menos al 10% de los clientes de la entidad con esas características) mantenida durante el trimestre anterior para ese tipo de clientes: coste anual que supondría para ese cliente mantener la cuenta abierta, poder ingresar fondos sin restricciones, y realizar mensualmente hasta cinco retiradas de efectivo en oficinas o cajeros automáticos de la propia entidad, dos transferencias SEPA, los pagos asociados a las domiciliaciones realizadas (hasta diez pagos mensuales) y el uso del talonario de cheques y de las tarjetas para hacer pagos con cargo al saldo de la cuenta o del límite de crédito. Si la entidad reintegra parte del coste, o abona algún importe en efectivo, en función de las operaciones realizadas, se mencionará en observaciones.
-
-4.2.3 Cuenta de pago básica: Que, tal y como prevé la Recomendación de la Comisión Europea, de 18 de julio de 2011, sobre el acceso a una cuenta de pago básica, no requiera para su apertura contar con nómina o pensión domiciliada ni saldo mínimo alguno, sea movilizable exclusivamente mediante retiradas de efectivo, transferencia o tarjeta de débito, y sin límites en cuanto a los pagos domiciliados; y no admita descubiertos, ni siquiera tácitos.
-
-Informaciones que se han de facilitar, sobre las que tenga abiertas la entidad y en relación con las que presenten la comisión de mantenimiento modal: coste anual que supondría para ese cliente mantener la cuenta abierta, poder ingresar fondos sin restricciones, y realizar mensualmente hasta seis retiradas de efectivo en oficinas o cajeros automáticos de la propia entidad, 2 transferencias SEPA, los pagos asociados a diez domiciliaciones mensuales, y el uso de la tarjeta. Si la entidad reintegra parte del coste, o abona algún importe en efectivo, en función de las operaciones realizadas, se mencionará en observaciones.
+3. y 4 (Suprimidos).
 
 C) OPERACIONES DE SERVICIO
 
@@ -108,23 +86,7 @@ C) OPERACIONES DE SERVICIO
 
 Informaciones que se han de facilitar: Las características básicas (al menos la prima que se ha de percibir en términos anuales y el límite previsto) de la oferta más representativa realizada en el trimestre anterior.
 
-2. Tarjeta de débito o de crédito con pago mensual (y límite no superior a 4.000 euros), sin contar las potenciales prestaciones accesorias vinculadas a la tarjeta distintas de un mero seguro de accidentes.
-
-Informaciones que se han de facilitar: Para la oferta más representativa (de las aplicadas al menos al 10% de los clientes de la entidad con esas características) mantenida durante el trimestre anterior: comisión anual por emisión/renovación y gasto anual por uso en cajeros de la propia entidad seis veces al mes; por consulta de saldo dos veces al mes. Si la oferta está vinculada a la contratación de la tarjeta a distancia, se hará constar en observaciones.
-
-3. Transferencias SEPA normalizadas con cargo a cuenta corriente.
-
-3.1 Emitidas mediante orden a distancia (por teléfono o Internet); recibidas.
-
-Informaciones que se han de facilitar: Importe cobrado durante el trimestre anterior en porcentaje del total de las transferencias emitidas o recibidas en las que se haya cobrado comisión, y porcentaje que estas representan sobre las totales de esas características emitidas o recibidas por la entidad.
-
-3.2 Emitidas mediante orden física (o por correo electrónico); recibidas.
-
-Informaciones que se han de facilitar: Importe cobrado durante el trimestre anterior en porcentaje del total de las transferencias emitidas o recibidas en las que se haya cobrado comisión, y porcentaje que estas representan sobre las totales de esas características emitidas o recibidas por la entidad.
-
-4. Obtención de cheques conformados o bancarios de importe igual o inferior a 300.000 euros.
-
-Informaciones que se han de facilitar: Importe cobrado durante el trimestre anterior en porcentaje del importe total de cheques conformados o bancarios emitidos.
+2. a 4. (Suprimidos).
 
 5. Avales para garantizar pagos de alquiler, de importe hasta 20.000 euros.
 
@@ -142,9 +104,5 @@ A título de ejemplo, y para cuatro operaciones específicas, se incluye a conti
 | Operación | Tipo de interés anual modal | TAE | Comisión y/o penalización por cancelación anticipada | Observaciones |
 | --- | --- | --- | --- | --- |
 | B.1.1 |  |  |  |  |
-| Operación | Coste anual de mantener la cuenta abierta | Observaciones |
-| --- | --- | --- |
-| B.4.1 |  |  |
-| Operación | Comisión anual por emisión/renovación | Gasto anual por uso en cajeros de la propia entidad seis veces al mes | Gasto anual por consulta de saldo dos veces al mes | Observaciones |
-| --- | --- | --- | --- | --- |
-| C.2 |  |  |  |  |
+
+> Se modifica por la disposición final 1.5 a 7 de la Circular 2/2019, de 29 de marzo de 2019. Ref. BOE-A-2019-4955#df

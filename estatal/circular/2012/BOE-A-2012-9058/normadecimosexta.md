@@ -18,14 +18,10 @@ Dicho anejo deberá ser recibido por el Banco de España con antelación a la fe
 
 Los tipos medios se calcularán a partir de los tipos de las operaciones efectivamente realizadas en el período de referencia, ponderados por sus principales (importe nominal en el caso de los efectos financieros), y calculados de acuerdo con los procedimientos señalados en el citado anejo 9.
 
-5. Las entidades que incluyan en el anejo 1 información sobre cuentas de pago básicas, de acuerdo con la definición de la Recomendación de la Comisión Europea, de 18 de julio de 2011, sobre el acceso a una cuenta de pago básica, indicarán también, en la declaración correspondiente al último trimestre del año, en una hoja separada, la siguiente información sobre dichas cuentas de pago básicas:
-
-– número de cuentas de pago básicas abiertas a 31 de diciembre;
-
-– solicitudes de cuentas básicas de pago aceptadas y solicitudes rechazadas en el año, indicando, en este caso, como información complementaria, las causas más habituales de rechazo de las solicitudes;
-
-– cancelaciones unilaterales por la entidad de cuentas básicas de pago en el año.
+5. (Suprimido).
 
 6. La presentación al Banco de España de los estados a que se refiere la presente norma deberá hacerse mediante transmisión telemática, de conformidad con las especificaciones técnicas que se comuniquen al efecto.
+
+> Se suprime el apartado 5 por la disposición final 1.5 de la Circular 2/2019, de 29 de marzo de 2019. Ref. BOE-A-2019-4955#df
 
 > Redactado el apartado 3 conforme a la corrección de errores publicada en el BOE núm. 245, de 11 de octubre de 2012. Ref. BOE-A-2012-12687.
