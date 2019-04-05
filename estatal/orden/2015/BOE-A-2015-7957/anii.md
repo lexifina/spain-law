@@ -2,31 +2,23 @@
 
 ## Zona restringida frente al serotipo 1 del virus de la lengua azul
 
-a) En la Comunidad Autónoma de Andalucía:
+Se considerará zona restringida frente al serotipo 1 del virus de la lengua azul, los siguientes territorios:
 
-1. Provincias de Córdoba, Cádiz, Huelva, Jaén, Málaga y Sevilla.
+1. En la Comunidad Autónoma de Andalucía:
 
-2. En la provincia de Granada: la comarca de Motril.
+a) Provincias de Cádiz, Córdoba, Huelva, Jaén, Málaga y Sevilla.
 
-b) En la Comunidad Autónoma de Castilla-La Mancha:
+b) En la provincia de Granada: La comarca veterinaria de Motril (costa de Granada).
 
-1.º En la provincia de Toledo:
+2. En la Comunidad Autónoma de Castilla-La Mancha:
 
-1. Las comarcas veterinarias de Belvís de la Jara y Oropesa.
+a) En la provincia de Ciudad Real: Las comarcas veterinarias de Almadén, Almodóvar del Campo y Piedrabuena (antiguas comarcas de Piedrabuena y Horcajo de los Montes).
 
-2. En la comarca veterinaria de Navalmorales: El municipio de San Bartolomé de las Abiertas.
+3. En la Comunidad Autónoma de Extremadura.
 
-3. En la comarca veterinaria de Talavera de la Reina: Los municipios de Almendral de la Cañada, Buenaventura, Calera y Chozas, Castillo de Bayuela, Cazalegas, Cervera de los Montes, El Real de San Vicente, Hinojosa de San Vicente, Marrupe, Mejorada, Montesclaros, Navamorcuende, Pepino, La Iglesuela, La Pueblanueva, Las Herencias, San Román de los Montes, Sartajada, Segurilla, Sotillo de las Palomas, Talavera de la Reina y Velada.
+a) La provincia de Badajoz.
 
-2.º En la provincia de Ciudad Real: Las comarcas veterinarias de Almadén, Almodóvar del Campo y Piedrabuena (antiguas comarcas de Piedrabuena y Horcajo de los Montes).
-
-c) En la Comunidad Autónoma de Castilla y León:
-
-1.º En la provincia de Ávila: La comarca veterinaria de Candeleda.
-
-2.º En la provincia de Salamanca: La comarca veterinaria de Sequeros.
-
-d) La Comunidad Autónoma de Extremadura.
+> Se modifica por el art. único.3 de la Orden APA/385/2019, de 2 de abril. Ref. BOE-A-2019-4949
 
 > Se modifica por el art. único.5 de la Orden AAA/107/2016, de 2 de febrero. Ref. BOE-A-2016-1073.
 
