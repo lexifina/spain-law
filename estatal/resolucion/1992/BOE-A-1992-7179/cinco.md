@@ -2,9 +2,9 @@
 
 1. Tienen la consideración de Inspector Jefe:
 
-a) El Jefe, el Jefe adjunto, los Jefes de Área, los Jefes adjuntos de Área y el Jefe del Equipo Central de Información de la Oficina Nacional de Investigación del Fraude.
+a) El Jefe, el Jefe Adjunto, los Jefes de Área, los Jefes Adjuntos de Área y el Jefe del Equipo Central de Información de la Oficina Nacional de Investigación del Fraude.
 
-b) El Jefe y el Jefe Adjunto de la Oficina Nacional de Fiscalidad Internacional.
+b) El Jefe, el Jefe Adjunto y los Jefes de Área de la Oficina Nacional de Fiscalidad Internacional.
 
 c) El Jefe de la Dependencia Regional de Inspección, los Inspectores Regionales Adjuntos, los Inspectores Coordinadores y el Jefe de la Oficina Técnica, en cuanto a dicha Dependencia.
 
@@ -45,6 +45,8 @@ c) El Jefe de la Oficina Nacional de Fiscalidad Internacional designará al sust
 d) El Delegado Especial de la Agencia Tributaria designará al sustituto del Jefe de la Dependencia Regional de Inspección.
 
 e) El Jefe de la Dependencia Regional de Inspección designará al sustituto de los Inspectores Regionales Adjuntos, de los Inspectores Coordinadores y del Jefe de la Oficina Técnica.
+
+> Se modifica el punto 1 por el apartado único.5 de la Resolución de 4 de abril de 2019. Ref. BOE-A-2019-5023
 
 > Se modifica el punto 2 por el art. único.3 de la Resolución de 17 de noviembre de 2015. Ref. BOE-A-2015-12812.
 

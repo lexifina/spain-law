@@ -2,7 +2,7 @@
 
 1. Oficina Nacional de Investigación del Fraude.
 
-La Oficina Nacional de Investigación del Fraude, dependiente del titular del Departamento de Inspección Financiera y Tributaria de la Agencia, tendrá atribuidas las funciones y competencias de las letras q), r), s), t) y u) del artículo 5.1 la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias.
+La Oficina Nacional de Investigación del Fraude, dependiente del titular del Departamento de Inspección Financiera y Tributaria de la Agencia, tendrá atribuidas las funciones y competencias de las letras q), r), s), t) y u) del artículo 5.1 la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias. Asimismo, respecto de los patrimonios relevantes ejercerá las funciones y competencias, en colaboración con otros órganos del Departamento de Inspección Financiera y Tributaria, previstas en la letra j) del artículo 5.1 antes mencionado.
 
 La Oficina Nacional de Investigación del Fraude, dirigida por el Jefe de la misma, con la asistencia de un Adjunto o Adjunta, estará integrada por el Equipo Central de Información y las Áreas que en cada caso se determinen. El Equipo Central de Información y las Áreas, dirigidos por sus respectivos Jefes con la asistencia de uno o varios Adjuntos, estarán integrados por Equipos formados por los funcionarios que determine el Jefe de la Oficina Nacional de Investigación del Fraude, al frente de los cuales estará el Inspector de Hacienda que se designe.
 
@@ -12,15 +12,17 @@ Los Equipos integrados en las Áreas podrán realizar las actuaciones propias de
 
 El inicio y la tramitación de los procedimientos sancionadores derivados de las actuaciones inspectoras desarrolladas por los Equipos integrados en el Equipo Central de Información y en las distintas Áreas de la Oficina Nacional de Investigación del Fraude corresponderán a los mismos.
 
-2. La Oficina Nacional de Fiscalidad internacional.
+2. Oficina Nacional de Fiscalidad Internacional.
 
-La Oficina Nacional de Fiscalidad Internacional, dependiente del titular del Departamento de Inspección Financiera y Tributaria de la Agencia, tendrá atribuidas las funciones y competencias de las letras u), v), w), x) e y) del artículo 5.1 la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias. Asimismo en materia de fiscalidad internacional ejercerá las funciones y competencias, en colaboración con otros órganos del Departamento de Inspección Financiera y Tributaria, de las letras b), d), j), m) y n) del artículo 5.1 antes mencionado.
+La Oficina Nacional de Fiscalidad Internacional, dependiente del titular del Departamento de Inspección Financiera y Tributaria de la Agencia, tendrá atribuidas las funciones y competencias de las letras u), v) y w) del artículo 5.1 la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias. Asimismo, en materia de fiscalidad internacional ejercerá las funciones y competencias, en colaboración con otros órganos del Departamento de Inspección Financiera y Tributaria, de las letras b), d), j), m) y n) del artículo 5.1 antes mencionado.
 
-La Oficina Nacional de Fiscalidad Internacional, dirigida por el Jefe de la misma, con la asistencia de un Adjunto o Adjunta, estará integrada por Equipos formados por los funcionarios que determine el Jefe de la Oficina, al frente de los cuales estará el Inspector de Hacienda que se designe. Entre tales Equipos estará el equipo de valoraciones.
+La Oficina Nacional de Fiscalidad Internacional, dirigida por el Jefe de la misma, con la asistencia de un Adjunto o Adjunta, estará integrada por las Áreas que en cada caso se determinen. Las Áreas, dirigidas por sus respectivos Jefes con la asistencia de uno o varios Adjuntos, estarán integradas por Equipos formados por los funcionarios que determine el Jefe de la Oficina, al frente de los cuales estará el Inspector de Hacienda que se designe.
 
 Los Equipos integrados en la Oficina Nacional de Fiscalidad Internacional podrán realizar las actuaciones propias del procedimiento de inspección, previo acuerdo de adscripción del obligado tributario a la Oficina Nacional de Fiscalidad Internacional dictado por el titular del Departamento de Inspección Financiera y Tributaria a propuesta del Jefe de la misma.
 
 El inicio y la tramitación de los procedimientos sancionadores derivados de las actuaciones inspectoras desarrolladas por los Equipos integrados en la Oficina Nacional de Fiscalidad Internacional corresponderán a los mismos.
+
+> Se modifica por el apartado único.1 de la Resolución de 4 de abril de 2019. Ref. BOE-A-2019-5023
 
 > Se modifica por el apartado único.2 de la Resolución de 13 de marzo de 2013. Ref. BOE-A-2013-2811.
 

@@ -22,7 +22,7 @@ Asimismo, las Dependencias Regionales de Inspección de las Delegaciones Especia
 
 2. Ámbito de actuación.
 
-2.1 Las funciones señaladas en el apartado anterior se extenderán a todos los obligados tributarios, con domicilio fiscal en el ámbito de la respectiva Delegación Especial de la Agencia Tributaria, sobre los que la Delegación Central de Grandes Contribuyentes o la Oficina Nacional de Investigación del Fraude no ejerzan su competencia, sin perjuicio de lo dispuesto en el número 2.2 siguiente.
+2.1 Las funciones señaladas en el apartado anterior se extenderán a todos los obligados tributarios, con domicilio fiscal en el ámbito de la respectiva Delegación Especial de la Agencia Tributaria, sobre los que la Delegación Central de Grandes Contribuyentes, la Oficina Nacional de Investigación del Fraude o la Oficina Nacional de Fiscalidad Internacional no ejerzan su competencia, sin perjuicio de lo dispuesto en el número 2.2 siguiente.
 
 2.2 Las Dependencias Regionales de Inspección extenderán asimismo su competencia sobre los siguientes obligados tributarios:
 
@@ -66,7 +66,7 @@ Al frente de cada Dependencia Regional de Inspección estará el Jefe de la mism
 
 3.3 Competencia Territorial.
 
-3.3.1 Las Dependencias Regionales de Inspección extenderán su competencia al ámbito territorial de la correspondiente Delegación Especial de la Agencia Tributaria, pudiendo las unidades en las que aquélla se organiza, cualquiera que sea su sede, desarrollar sus actuaciones en todo este ámbito territorial. Cuando las actuaciones se desarrollen fuera del ámbito territorial de la Delegación de la Agencia Tributaria en la que radique la sede de la unidad actuante será de aplicación lo dispuesto en el artículo 184 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos.
+3.3.1 Las Dependencias Regionales de Inspección extenderán su competencia al ámbito territorial de la correspondiente Delegación Especial de la Agencia Tributaria, pudiendo las unidades en las que aquélla se organiza, cualquiera que sea su sede, desarrollar sus actuaciones en todo este ámbito territorial.
 
 Será el domicilio fiscal que el obligado tributario tenga al iniciarse las actuaciones inspectoras el determinante de la competencia del órgano actuante de la Inspección de los Tributos incluso respecto de hechos imponibles, obligaciones formales o períodos anteriores relacionados con un domicilio tributario distinto. El cambio de domicilio fiscal o de adscripción producido una vez iniciadas las actuaciones inspectoras no alterará la competencia del órgano actuante. Esta competencia se mantendrá aun cuando las actuaciones hayan de proseguirse frente al sucesor o sucesores del obligado tributario.
 
@@ -74,7 +74,7 @@ Será el domicilio fiscal que el obligado tributario tenga al iniciarse las actu
 
 3.3.3 Las unidades en las que se organizan las Dependencias Regionales de Inspección podrán desarrollar sus actuaciones en todo el territorio nacional cuando sea necesario para realizar sus funciones respecto a los obligados tributarios incluidos en su ámbito de competencias de acuerdo con lo señalado en el número 2 anterior.
 
-3.3.4 Cuando resulte adecuado para el desarrollo del plan de control tributario, el Director del Departamento de Inspección Financiera y Tributaria podrá acordar la extensión de las competencias de la Dependencia Regional de Inspección de una Delegación Especial, o de las unidades integradas en la misma, al ámbito territorial de otras Delegaciones Especiales, oídos los Delegados Especiales afectados, conforme a lo dispuesto en el artículo 5.2.e) de la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se le atribuyen funciones y competencias.
+3.3.4 Cuando resulte adecuado para el desarrollo del plan de control tributario, el Director del Departamento de Inspección Financiera y Tributaria podrá acordar la extensión de las competencias de la Dependencia Regional de Inspección de una Delegación Especial, o de las unidades integradas en la misma, al ámbito territorial de otras Delegaciones Especiales o de la Delegación Central de Grandes Contribuyentes, oídos los Delegados afectados, conforme a lo dispuesto en el artículo 5.2.e) de la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se le atribuyen funciones y competencias.
 
 4. Área de Inspección.
 
@@ -114,13 +114,13 @@ La distribución de los expedientes entre las Unidades del Área de Inspección 
 
 A. A efectos de lo dispuesto en el número 4.2.2 anterior y en el apartado seis.1.3 de esta Resolución, se considerará que una actuación inspectora reviste especial dificultad cuando el motivo de la selección y asignación del expediente sea la comprobación y, en su caso, regularización de las siguientes materias:
 
-• Operaciones de reestructuración empresarial (capítulo VIII del título VII del Texto Refundido de la Ley del Impuesto sobre Sociedades).
+– Operaciones de reestructuración empresarial (capítulo VII del título VII de la Ley del Impuesto sobre Sociedades).
 
-• Tributación en el Impuesto sobre Sociedades por el régimen de consolidación fiscal.
+– Tributación en el Impuesto sobre Sociedades por el régimen de consolidación fiscal.
 
-• Tributación en el Impuesto sobre el Valor Añadido por el régimen especial del grupo de entidades.
+– Tributación en el Impuesto sobre el Valor Añadido por el régimen especial del grupo de entidades.
 
-• Programas calificados como de especial dificultad en el Plan Parcial de Inspección.
+– Programas calificados como de especial dificultad en el Plan Parcial de Inspección.
 
 B. Se considerarán de especial dificultad sobrevenida, a efectos de lo dispuesto en los apartados ocho.2.c) y ocho.3.2 de esta Resolución, los expedientes en los que:
 
@@ -191,6 +191,10 @@ Las Unidades de Gestión de Grandes Empresas de las Dependencias Regionales de I
 El Jefe de la Dependencia Regional de Inspección y los Inspectores Regionales Adjuntos ejercerán, respecto a las personas o entidades adscritas a la misma, las competencias de gestión tributaria atribuidas a los Jefes de Dependencia Regional de Gestión Tributaria.
 
 Sin perjuicio de lo anterior, los obligados tributarios podrán, en cualquier caso, presentar sus declaraciones, recursos, consultas y cualquier otro documento con trascendencia tributaria en la Delegación o Administración que corresponda a su domicilio fiscal.
+
+> Se modifican los puntos 2.1, 3.3 y 4.2.3 por el apartado único.2 a 4 de la Resolución de 4 de abril de 2019. Ref. BOE-A-2019-5023
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 115, de 14 de mayo de 2019. Ref. BOE-A-2019-7146
 
 > Se modifican los puntos 1 y 2 por el art. único.1 y 2 de la Resolución de 17 de noviembre de 2015. Ref. BOE-A-2015-12812.
 
