@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Término de facturación de energía reactiva.
+
+Las cantidades que los distribuidores hayan recaudado en concepto de facturación de energía reactiva desde la entrada en vigor del Real Decreto-Ley 15/2018, de 5 de octubre, hasta la entrada en vigor de este real decreto estarán sujetas al proceso de liquidaciones establecido en el Real Decreto 2017/1997, de 26 de diciembre, por el que se organiza y regula el procedimiento de liquidación de los costes de transporte, distribución y comercialización a tarifa de los costes permanentes del sistema y de los costes de diversificación y seguridad de abastecimiento.
