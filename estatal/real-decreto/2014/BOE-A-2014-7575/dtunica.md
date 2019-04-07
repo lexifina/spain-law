@@ -1,11 +1,11 @@
 ## Disposición transitoria única. Periodo transitorio.
 
-Las entidades solicitantes reconocidas que no reúnan el requisito establecido en el artículo 32 c).1 dispondrán de un periodo transitorio máximo de cinco años, para alcanzar la entrega total de los productos objeto de reconocimiento para su comercialización conjunta, con el siguiente calendario:
+Las entidades solicitantes reconocidas que no reúnan el requisito establecido en el artículo 3.2 c).1º, dispondrán de un periodo transitorio máximo de cinco años, desde la presentación de su solicitud, para alcanzar la entrega total de los productos objeto de reconocimiento para su comercialización conjunta, o abastecimiento en el caso de entidades asociativas de suministros y servicios, con el siguiente calendario:
 
-– Al finalizar el 3 año, la entrega de al menos el 50%.
+a) Al finalizar el tercer año, al menos el 50 por ciento.
 
-– En el 4 año, el 75%.
+b) En el cuarto año, el 75 por ciento.
 
-– Y el 5 año, la totalidad de la producción de los socios.
+c) Y el quinto año, la totalidad.
 
-Todo ello, desde la presentación de su solicitud, debiendo presentar al final de cada periodo, la correspondiente declaración-compromiso, conforme al anexo III del presente real decreto.
+> Se modifica por el art. único.7 del Real Decreto 161/2019, de 22 de marzo. Ref. BOE-A-2019-5086
