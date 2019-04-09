@@ -1,3 +1,5 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2003/250/19281_001.png)
+(Suprimido).
+
+> Se suprime por el art. único.2 de la Orden TMS/397/2019, de 4 de abril. Ref. BOE-A-2019-5143
