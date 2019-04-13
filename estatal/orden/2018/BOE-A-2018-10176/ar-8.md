@@ -18,10 +18,12 @@ Asimismo, podrá incluir una relación ordenada de todas las solicitudes que, cu
 
 En la resolución se indicarán los recursos que procedan y los plazos para su interposición.
 
-En el caso de que se produjera el decaimiento en el derecho a la ayuda o la pérdida del derecho al cobro por parte de alguno de los beneficiarios, y siempre que se hubiera liberado crédito suficiente para atender, al menos, una de las solicitudes denegadas, se podrá acordar, sin necesidad de nueva convocatoria, la concesión de la subvención al solicitante o solicitantes siguientes en orden de su puntuación. Para ello, se comunicará la opción a los interesados a fin de que manifiesten su aceptación en el plazo improrrogable de diez días. Una vez aceptada la propuesta por parte del solicitante o solicitantes, la persona titular de la Dirección General del Instituto de la Cinematografía y de las Artes Audiovisuales dictará el acto de concesión.
+En el caso de renuncia por parte de alguno de los beneficiarios, y siempre que se hubiera liberado crédito suficiente para atender, al menos, una de las solicitudes de la relación ordenada de solicitudes no estimadas a la que se ha hecho referencia anteriormente, se podrá acordar, sin necesidad de nueva convocatoria, la concesión de la subvención al solicitante o solicitantes siguientes en orden de su puntuación. Para ello, se comunicará la opción a los interesados a fin de que manifiesten su aceptación en el plazo improrrogable de diez días hábiles. Una vez aceptada la propuesta por parte del solicitante o solicitantes, la persona titular de la Dirección General del Instituto de la Cinematografía y de las Artes Audiovisuales dictará el acto de concesión.
 
 7. Todos los actos y trámites relativos al procedimiento de gestión de las ayudas serán notificados a los interesados mediante comparecencia en la sede electrónica del Ministerio de Cultura y Deporte o, a través de la dirección electrónica habilitada única, a los efectos previstos en el artículo 43 de la Ley 39/2015, de 1 de octubre.
 
 8. El vencimiento de los plazos máximos previstos en esta orden para la notificación de la resolución sin que se haya practicado, faculta a los interesados para entender desestimada su solicitud a efectos de la interposición de los recursos que procedan.
 
 9. En la líneas de ayudas en las que se contemplan pagos anticipados a la justificación de la actividad, no será exigible a los beneficiarios la prestación de las garantías a las que se refieren los artículos 17.3.k) y 34.4 de la Ley 38/2003, de 17 de noviembre.
+
+> Se modifica el último párrafo del apartado 6 por el art. 2.2 de la Orden CUD/426/2019, de 11 de abril. Ref. BOE-A-2019-5551

@@ -20,8 +20,10 @@ El Instituto de la Cinematografía y de las Artes Audiovisuales aplicará dicha 
 
 Los rendimientos financieros que se generen por los fondos librados a los beneficiarios incrementarán el importe de las subvenciones concedidas, y se aplicarán igualmente a la actividad subvencionada.
 
-f) Difundir la colaboración del Gobierno de España/Ministerio de Cultura y Deporte/Instituto de la Cinematografía y de las Artes Audiovisuales en la realización de la actividad objeto de la ayuda, en cartela única de manera independiente al resto de posibles colaboradores en la actividad, mediante la inserción de la siguiente frase: «Con la financiación del Gobierno de España. Instituto de la Cinematografía y de las Artes Audiovisuales» o, en su caso, «con la financiación del Gobierno de España» seguido del logotipo facilitado por el Instituto de la Cinematografía y de las Artes Audiovisuales.
+f) Difundir la colaboración del Gobierno de España/Ministerio de Cultura y Deporte/Instituto de la Cinematografía y de las Artes Audiovisuales en la realización de la actividad objeto de la ayuda, mediante la inserción de la siguiente frase: “Con la financiación del Gobierno de España” seguido del logotipo del Instituto de la Cinematografía y de las Artes Audiovisuales, facilitado por el mismo. La difusión se realizará de forma tal que sea claramente legible por el público; y en el caso de las ayudas a la producción de los capítulos III y IV de esta orden, se realizará, además, en cartela única, de manera independiente al resto de posibles colaboraciones en la actividad.
 
 g) En las películas en las que la participación española sea mayoritaria, incluir antes de los títulos de crédito de cabecera el sello “Es cine español”, conforme al modelo que figura en la página web del Instituto de la Cinematografía y de las Artes Audiovisuales.
+
+> Se modifica la letra f) por el art. 2.3 de la Orden CUD/426/2019, de 11 de abril. Ref. BOE-A-2019-5551
 
 > Redactado conforme a la corrección de errores publicada por Orden CUD/939/2018, de 10 de septiembre. Ref. BOE-A-2018-12504
