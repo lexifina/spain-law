@@ -64,7 +64,7 @@ Serán los establecidos en el artículo 153 del Texto Refundido de la Ley de Pue
 
 «En cuanto a la maquinaria específica para la prestación del servicio portuario de manipulación de mercancías, se estará a lo dispuesto en el artículo 131 del mencionado texto refundido. Deberá también tenerse en cuenta que, según el Real Decreto 837/2003, de 27 de junio, las grúas móviles autopropulsadas se acogerán al nuevo texto modificado y refundido de la Instrucción técnica complementaria <MIE-AEM-4> del Reglamento de aparatos de elevación y manutención, referente a grúas móviles autopropulsadas (BOE n.º 170, 17.07.2003).»
 
-Duración de la formación asociada: 530 horas.
+Duración de la formación asociada: 850 horas.
 
 Relación de módulos formativos y de unidades formativas
 
@@ -1216,7 +1216,7 @@ MÓDULO DE PRÁCTICAS PROFESIONALES NO LABORALES DE OPERACIONES PORTUARIAS DE CA
 
 Código: MP0555.
 
-Duración: 80 horas.
+Duración: 400 horas.
 
 Capacidades y criterios de evaluación
 
@@ -1368,6 +1368,10 @@ Contenidos
 
 ‒ Seguimiento de las normativas de prevención de riesgos, salud laboral y protección del medio ambiente.
 
+Requisitos de realización
+
+Este módulo de prácticas profesionales no laborales deberá realizarse en instalaciones portuarias que cuenten con el equipamiento necesario, entre otros, grúas (pórtico y/o convencionales), trastainers y/o van carriers, maphis, reachstackers y carretillas elevadoras de diferente tonelaje.
+
 IV. PRESCRIPCIONES DE LOS FORMADORES
 
 | Módulos Formativos | Acreditación requerida | Experiencia profesional requerida en el ámbito de la unidad de competencia |
@@ -1406,3 +1410,5 @@ Las instalaciones y equipamientos deberán cumplir con la normativa industrial e
 El número de unidades que se deben disponer de los utensilios, máquinas y herramientas que se especifican en el equipamiento de los espacios formativos, será el suficiente para un mínimo de 15 alumnos y deberá incrementarse, en su caso, para atender a número superior.
 
 En el caso de que la formación se dirija a personas con discapacidad se realizarán las adaptaciones y los ajustes razonables para asegurar su participación en condiciones de igualdad.
+
+> Se modifican los apartados I y III por la disposición final primera del Real Decreto 257/2019, de 12 de abril. Ref. BOE-A-2019-5567
