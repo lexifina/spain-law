@@ -156,6 +156,8 @@ Si se impugnaran los honorarios por excesivos, se procederá previamente a su re
 
 Dicho decreto no será susceptible de recurso, pero no prejuzgará, ni siquiera parcialmente, la sentencia que pudiere recaer en juicio ordinario ulterior.»
 
+> Téngase en cuenta que se declara la inconstitucionalidad y nulidad de los incisos destacados de los apartados 17 y 18, en la redacción dada a los artículos 34 y 35 de la Ley de Enjuiciamiento Civil, por Sentencia del TC 34/2019, de 14 de marzo. Ref. BOE-A-2019-5727
+
 Diecinueve. Se modifican los apartados 5 y 6 del artículo 40 que quedan redactados de la siguiente forma:
 
 «5. En el caso a que se refiere el apartado anterior no se acordará por el Tribunal la suspensión, o se alzará por el Secretario judicial la que aquél hubiese acordado, si la parte a la que pudiere favorecer el documento renunciare a él. Hecha la renuncia, se ordenará por el Secretario judicial que el documento sea separado de los autos.
@@ -2891,3 +2893,5 @@ El Consejo General del Poder Judicial, previo informe favorable del Ministerio d
 Sexta. Las normas de reparto de los partidos judiciales en que se constituyan Oficinas de Señalamiento Inmediato atribuirán el conocimiento de los procedimientos contemplados en el apartado 2 de esta disposición a aquel Juzgado de Primera Instancia que haya de actuar en turno de asistencia continuada en la fecha en que se realicen los señalamientos de las vistas y comparecencias a que se refiere la regla cuarta.»
 
 Trescientos ochenta. La disposición final vigésimo tercera pasa a ser la disposición final vigésimo quinta, con el mismo contenido.
+
+> Se declara la inconstitucionalidad y nulidad de los incisos destacados de los apartados 17 y 18 por Sentencia del TC 34/2019, de 14 de marzo. Ref. BOE-A-2019-5727
