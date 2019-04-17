@@ -19,6 +19,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Sección 1](s1.md)
 - [Artículo 3](a3.md)
 - [Artículo 4](a4.md)
+- [Artículo 4 bis](a4-2.md)
 - [Sección 2](s2.md)
 - [Artículo 5](a5.md)
 - [Artículo 6](a6.md)
@@ -51,3 +52,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [ANEXO II](anii.md)
 - [ANEXO III](aniii.md)
 - [ANEXO IV](aniv.md)
+- [ANEXO V](av.md)
