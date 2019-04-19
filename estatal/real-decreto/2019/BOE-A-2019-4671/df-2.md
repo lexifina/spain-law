@@ -1,0 +1,3 @@
+## Disposición final segunda. Título competencial.
+
+El presente real decreto se aprueba al amparo de lo dispuesto en los artículos 149.1.13.ª, 149.1.14.ª y 149.1.18.ª de la Constitución que atribuyen al Estado las competencias en materia de «bases y coordinación de la planificación general de la actividad económica», «Hacienda general» y «bases del régimen jurídico de las Administraciones Públicas y el procedimiento administrativo común, sin perjuicio de las especialidades derivadas de la organización propia de las comunidades autónomas», respectivamente, salvo el apartado 2 del artículo 6, el apartado 5 del artículo 10 y el artículo 11.
