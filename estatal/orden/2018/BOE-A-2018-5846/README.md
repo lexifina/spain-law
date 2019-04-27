@@ -10,6 +10,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 ## Bloques
 
+- [no-2](no-2.md)
 - [(preambulo)](pr.md)
 - [Artículo 1](a1.md)
 - [Artículo 2](a2.md)

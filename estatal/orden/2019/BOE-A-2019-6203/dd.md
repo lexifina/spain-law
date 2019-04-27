@@ -1,0 +1,7 @@
+## Disposición derogatoria única. Derogación normativa parcial.
+
+Se derogan cuantas disposiciones de igual o inferior rango se opongan a lo establecido en esta orden, y en particular en aquellas materias de ámbito competencial del Ministerio para la Transición Ecológica, las siguientes de manera parcial:
+
+1. La Orden AAA/1231/2015, de 17 de junio, por la que se crea la Comisión Ministerial de Administración Digital del Ministerio de Agricultura, Alimentación y Medio Ambiente (CMAD) y se regula su composición y funciones y la Orden AAA/991/2015, de 21 de mayo, por la que se aprueba la política de seguridad de la información en el ámbito de la Administración Electrónica del Ministerio de Agricultura, Alimentación y Medio Ambiente, quedan sin efecto en relación a la participación en sus órganos y obligaciones de unidades dependientes del Ministerio para la Transición Ecológica.
+
+2. Igualmente la Orden IET/1934/2014, de 14 de octubre, por la que se establece la política de seguridad de la información en el ámbito de la administración electrónica del Ministerio de Industria, Energía y Turismo y la Orden ETU/433/2018, de 17 de abril, por la que se crea la Comisión Ministerial de Administración Digital en el Ministerio de Energía, Turismo y Agenda Digital, y se regula su composición y funcionamiento, quedan sin efecto en relación a la participación en sus órganos y obligaciones de unidades dependientes del Ministerio para la Transición Ecológica.
