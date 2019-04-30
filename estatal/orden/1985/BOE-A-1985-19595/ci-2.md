@@ -1015,7 +1015,9 @@ En las estaciones de transferencia en ángulo deben instalarse cuatro luminarias
 
 - En la galería principal, antes y después de la estación de transferencia, a unos 7 metros de la misma.
 
-Las luminarias utilizadas deben cumplir lo establecido en los capítulos IX y XII del RGNBSM. j) Excepciones.
+Las luminarias utilizadas deben cumplir lo establecido en los capítulos IX y XII del RGNBSM.
+
+j) Excepciones.
 
 En función de las características generales de la instalación, el empresario debe solicitar a la autoridad minera competente, de manera justificada, la sustitución de alguno de los requisitos anteriores por otros de seguridad equivalente.
 
@@ -1109,37 +1111,43 @@ ITC: 04.7.02
 
 ## 1. Concentraciones límites de gases.
 
-Las concentraciones volumétricas admisibles para los distintos gases peligrosos, a lo largo de una jornada de ocho horas, son las siguientes:
+(Derogado)
 
-50 p.p.m. de monóxido de carbono (CO).
+> Téngase en cuenta que se deroga el apartado 1, con efectos de 30 de abril de 2019, por la disposición derogatoria única de la Orden TEC/1146/2018, de 22 de octubre. Ref. BOE-A-2018-14894
 
-5.000 p.p.m. de dióxido de carbono (CO2).
+> Redacción anterior:
 
-10 p.p.m. de óxidos de nitrógeno (NO + NO2).
+> "Las concentraciones volumétricas admisibles para los distintos gases peligrosos, a lo largo de una jornada de ocho horas, son las siguientes:
 
-10 p.p.m. de sulfuro de hidrógeno (SH2).
+> 50 p.p.m. de monóxido de carbono (CO).
 
-5 p.p.m. de dióxido de azufre (SO2).
+> 5.000 p.p.m. de dióxido de carbono (CO2).
 
-1.000 p.p.m. de hidrógeno (H2).
+> 10 p.p.m. de óxidos de nitrógeno (NO + NO2).
 
-No obstante, durante periodos cortos y de acuerdo con la peligrosidad del gas podrán admitirse contenidos superiores, sin que se sobrepasen nunca los siguientes:
+> 10 p.p.m. de sulfuro de hidrógeno (SH2).
 
-100 p.p.m. de monóxido de carbono (CO).
+> 5 p.p.m. de dióxido de azufre (SO2).
 
-12.500 p.p.m. de dióxido de carbono (CO2).
+> 1.000 p.p.m. de hidrógeno (H2).
 
-25 p.p.m. de óxidos de nitrógeno (NO + NO2).
+> No obstante, durante periodos cortos y de acuerdo con la peligrosidad del gas podrán admitirse contenidos superiores, sin que se sobrepasen nunca los siguientes:
 
-50 p.p.m. de sulfuro de hidrógeno(SH2).
+> 100 p.p.m. de monóxido de carbono (CO).
 
-10 p.p.m. de dióxido de azufre (SO2).
+> 12.500 p.p.m. de dióxido de carbono (CO2).
 
-10.000 p.p.m. de hidrógeno (H2).
+> 25 p.p.m. de óxidos de nitrógeno (NO + NO2).
 
-Las labores en que se alcancen concentraciones superiores a estos valores serán desalojadas de modo inmediato, adoptándose por la Dirección Facultativa las medidas tendentes a disminuir dichas concentraciones.
+> 50 p.p.m. de sulfuro de hidrógeno(SH2).
 
-En ninguna labor en actividad la proporción de oxígeno será inferior al 19 por 100 en volumen. En caso necesario se realizará la corrección pertinente por altitud.
+> 10 p.p.m. de dióxido de azufre (SO2).
+
+> 10.000 p.p.m. de hidrógeno (H2).
+
+> Las labores en que se alcancen concentraciones superiores a estos valores serán desalojadas de modo inmediato, adoptándose por la Dirección Facultativa las medidas tendentes a disminuir dichas concentraciones.
+
+> En ninguna labor en actividad la proporción de oxígeno será inferior al 19 por 100 en volumen. En caso necesario se realizará la corrección pertinente por altitud."
 
 ## 2. Presencia de grisú u otras mezclas inflamables.
 
@@ -1457,6 +1465,8 @@ A fin de conseguir la máxima eficacia en la lucha contra la enfermedad profesio
 En este sentido, y siendo imprescindible conocer cada vez con mayor certeza la correlación entre la presentación y evolución de la enfermedad con los índices de riesgo a que está expuesto el personal, los explotadores enviarán a la autoridad minera competente los resultados que vayan obteniendo en las tomas de muestras periódicas establecidas en esta Instrucción Técnica. La autoridad competente los remitirá al Instituto Nacional de Silicosis para que pueda disponer de los datos necesarios para poder cumplir su misión de asesoramiento en Organismos oficiales y Empresas afectadas. También remitirá los datos que afecten a silicosis del Plan de Labores.
 
 Anualmente, el Instituto Nacional de Silicosis publicará una Memoria en la que se detalla la evolución de los índices de riesgo y de los nuevos casos de enfermedades diagnosticados, para conocimiento de Organismos oficiales, Empresas afectadas y Organizaciones sindicales.
+
+> Se deroga el apartado 1 de la ITC 04.7.02, con efectos de 30 de abril de 2019, por la disposición derogatoria única de la Orden TEC/1146/2018, de 22 de octubre. Ref. BOE-A-2018-14894
 
 > Se modifica la ITC 04.4.01 por el art. único y anexo de la Orden 2 de febrero de 1998. Ref. BOE-A-1998-3416.
 
