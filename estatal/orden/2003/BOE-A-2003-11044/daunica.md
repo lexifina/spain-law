@@ -46,6 +46,8 @@ Modelo 512. Impuesto sobre Hidrocarburos. Relación anual de destinatarios de pr
 
 Modelo 513. Impuesto sobre la Electricidad. Declaración anual de actividad.
 
+Modelo 515 Solicitud de marcas fiscales del Impuesto sobre las Labores del Tabaco.
+
 Modelo 517. Impuestos Especiales de Fabricación. Petición de marcas fiscales a la oficina gestora de impuestos especiales.
 
 Modelo 518. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración de trabajo.
@@ -123,6 +125,8 @@ Modelo 591: Impuesto sobre el valor de la producción de la energía eléctrica.
 Modelo 380. Impuesto sobre el Valor Añadido. Operaciones asimiladas a las importaciones. Declaración-liquidación
 
 3. Las condiciones generales y el procedimiento para la presentación telemática de estas declaraciones serán, con carácter general, y sin perjuicio de lo dicho en el apartado anterior de esta disposición adicional, las que se establecen en las respectivas Órdenes por las que se aprobaron cada uno de estos modelos de declaración.
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden HAC/484/2019, de 9 de abril. Ref. BOE-A-2019-6339#df
 
 > Se modifica el apartado 2 por la disposición final 1 de la Orden HAC/135/2019, de 31 de enero. Ref. BOE-A-2019-2144
 
