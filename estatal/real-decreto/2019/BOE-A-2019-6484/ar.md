@@ -1,0 +1,3 @@
+## Artículo 1. Definición.
+
+Las Consejerías y Agregadurías de Agricultura, Pesca y Alimentación son órganos técnicos especializados de la Misión Diplomática o de la Representación Permanente de España que, bajo la dependencia jerárquica del Embajador, le prestan asesoramiento y apoyo técnico, y asisten a éste y a la Misión o Representación en el desempeño de sus funciones en el desarrollo de los ámbitos de la acción exterior que, en el marco de las competencias del Ministerio de Agricultura, Pesca y Alimentación, les encomienda la Ley 2/2014, de 25 de marzo, de la Acción y del Servicio Exterior del Estado, y este real decreto.

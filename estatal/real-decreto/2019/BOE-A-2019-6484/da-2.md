@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Traslado de sede de la Agregaduría en la Misión Diplomática de España ante la República Federativa de Brasil.
+
+La sede de la Agregaduría de la Consejería del Ministerio de Agricultura, Pesca y Alimentación en la Misión Diplomática de España ante la República Federativa del Brasil se traslada a la Misión Diplomática de España en la República del Perú, con sede en Lima (solicitando acreditación también en la República del Perú, la República de Colombia y la República Bolivariana de Venezuela). Esta Agregaduría seguirá adscrita a la Consejería del Ministerio de Agricultura, Pesca y Alimentación en la Misión Diplomática de España ante República Federativa del Brasil, sin perjuicio de lo dispuesto en los artículos 1 y 2.

@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto y, en particular, el Real Decreto 830/2014, de 3 de octubre, por el que se establece la nueva estructura de las Consejerías del Ministerio de Agricultura, Alimentación y Medio Ambiente en el exterior y se regula la organización, funciones y provisión de puestos de trabajo de las mismas, sin perjuicio de la vigencia en lo que procediera para las Consejerías en él reguladas que ahora queden adscritas al Ministerio para la Transición Ecológica hasta en tanto se regulen.

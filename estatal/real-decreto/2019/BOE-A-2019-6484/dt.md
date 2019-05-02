@@ -1,0 +1,3 @@
+## Disposición transitoria única. Cese en el puesto de quienes se encuentren desempeñando el puesto de Agregado.
+
+Quienes se encuentren desempeñando un puesto como Agregado en alguna Consejería del Ministerio de Agricultura, Pesca y Alimentación en el momento de la entrada en vigor de este real decreto quedan sujetos a los plazos máximos de estancia previstos en el mismo, incluido el periodo ya desempeñado. Quienes ya hayan cumplido el plazo máximo de permanencia establecido para los Agregados en el artículo 13.1, dispondrán de un año, adicional extraordinario, a contar desde la fecha de entrada en vigor de este real decreto, para cesar en su puesto de Agregado.
