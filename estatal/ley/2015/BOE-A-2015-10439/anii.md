@@ -78,7 +78,7 @@ Asimismo, las antiguas nacionales que han sido sustituidas por nuevas carreteras
 | AP-66 | Autopista Ruta de la Plata. | León / Campomanes. |
 | A-67 | Autovía Cantabria-Meseta. | Palencia / Santander. |
 | A-68 | Autovía del Ebro. | Miranda de Ebro / Logroño / Zaragoza / Mediterráneo. |
-| AP-68 | Autopista Vasco-Aragonesa. | Bilbao / Zaragoza. |
+| AP-68 | Autopista Vasco-Aragonesa. | L.P. Álava-Burgos / Zaragoza. |
 | A-7 | Autovía del Mediterráneo. | Algeciras / Barcelona. |
 | AP-7 | Autopista del Mediterráneo. | Frontera con Francia (La Jonquera) / Puçol; Silla / Alicante/Alacant; Crevillent / Vera; Málaga / Guadiaro. |
 | A-70 |  | Circunvalación de Alicante/Alacant. |
@@ -418,5 +418,7 @@ Asimismo, las antiguas nacionales que han sido sustituidas por nuevas carreteras
 | ZA-12 |  | Acceso Este a Zamora. |
 | ZA-13 |  | Acceso Sur a Zamora. |
 | ZA-20 |  | Circunvalación de Zamora. |
+
+> Se modifica por el art. 2 del Real Decreto 299/2019, de 26 de abril. Ref. BOE-A-2019-6660
 
 > Se modifica por el art. 2 del Real Decreto 1411/2018, de 3 de diciembre. Ref. BOE-A-2018-16617
