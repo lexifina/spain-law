@@ -1,0 +1,9 @@
+El Real Decreto 806/2014, de 19 de septiembre, sobre organización e instrumentos operativos de las tecnologías de la información y las comunicaciones en la Administración General del Estado y sus organismos públicos, creó, en sustitución de las Comisiones Ministeriales de Administración Electrónica, las Comisiones Ministeriales de Administración Digital que son las Unidades responsables de implantar, a nivel ministerial, las políticas comunes TIC previamente definidas por los órganos competentes, así como de la transformación digital de cada Departamento ministerial y sus organismos públicos adscritos.
+
+El Real Decreto 355/2018, de 6 de junio, por el que se reestructuran los Departamentos ministeriales, ha creado el Ministerio de Política Territorial y Función Pública. El Real Decreto 595/2018, de 22 de junio, por el que se establece la estructura orgánica básica de los Departamentos ministeriales, fijó su estructura básica determinando sus órganos superiores y directivos hasta el nivel orgánico de Dirección General. Finalmente, el Real Decreto 863/2018, de 13 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Política Territorial y Función Pública, desciende en el desarrollo de la estructura hasta el nivel de Subdirección General y define las competencias de cada órgano.
+
+A la vista de los cambios acaecidos en la estructura del Departamento procede, con el objetivo de dotar al Departamento de la Comisión Ministerial de Administración Digital, su creación y la regulación de su composición y competencias.
+
+La presente norma se atiene a los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia prescritos en el artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+En su virtud, dispongo:
