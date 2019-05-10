@@ -34,4 +34,6 @@
 | Resto de destinos correspondientes a la segunda categoría de fiscales, salvo coordinadores | 1.741,31 | 720,98 |
 | Fiscales coordinadores | 1.741,31 | 1.158,23 |
 | Grupo 5: |  |  |
-| Resto de destinos correspondientes a la tercera categoría de fiscales | 1.591,64 | 120,46 |
+| Resto de destinos correspondientes a la tercera categoría de fiscales | 1.591,64 | 193,74 |
+
+> Se modifica la cuantía por representación del grupo 5, con efectos económicos desde el 1 de enero de 2018, por el art. único.2 del Real Decreto de 26 de abril de 2019. Ref. BOE-A-2019-6811

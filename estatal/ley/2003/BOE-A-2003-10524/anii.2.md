@@ -28,4 +28,6 @@
 | Presidentes y Magistrados de Audiencia Provincial | 1.741,31 | 1.249,29 |
 | Magistrados de los órganos unipersonales | 1.741,31 | 720,98 |
 | Grupo 5: |  |  |
-| Jueces | 1.591,64 | 120,46 |
+| Jueces | 1.591,64 | 193,74 |
+
+> Se modifica la cuantía por representación del grupo 5, con efectos económicos desde el 1 de enero de 2018, por el art. único.1 del Real Decreto de 26 de abril de 2019. Ref. BOE-A-2019-6811
