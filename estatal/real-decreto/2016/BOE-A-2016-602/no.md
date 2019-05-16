@@ -1,1 +1,1 @@
-Téngase en cuenta que se declara nulo en relación con el Plan Hidrológico de la demarcación hidrográfica de las Cuencas Mediterráneas Andaluzas, por Sentencia del TS de 25 de marzo de 2019. Ref. BOE-A-2019-6610
+Téngase en cuenta que el presente Real Decreto se declara nulo en relación con el Plan Hidrológico de la demarcación hidrográfica de las Cuencas Mediterráneas Andaluzas, por Sentencia del TS de 25 de marzo de 2019. Ref. BOE-A-2019-6610 y Sentencia del TS de 11 de abril de 2019. Ref. BOE-A-2019-7277

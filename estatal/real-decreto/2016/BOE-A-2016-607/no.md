@@ -1,0 +1,1 @@
+Téngase en cuenta que se declara nulo el presente Real Decreto en relación con el Plan de Gestión de Riesgo de Inundación de las Cuencas Mediterráneas Andaluzas, por Sentencia del TS de 11 de abril de 2019. Ref. BOE-A-2019-7277
