@@ -358,7 +358,13 @@ b) En el estado que figura en dicho apartado se elimina la columna «Otras causa
 
 – Saldo pendiente de cancelar a 31 de diciembre.»
 
-18. La nota 21, «Valores recibidos en depósito y por operaciones de compraventas dobles», tendrá el siguiente contenido:
+18. La nota 20, “Contratación administrativa. Procedimientos de adjudicación”, tendrá el siguiente contenido:
+
+“20. Contratación administrativa. Procedimientos de adjudicación.
+
+Se informará de los importes de adjudicación de los contratos perfeccionados durante el ejercicio, por tipo de contrato y procedimiento de adjudicación, de acuerdo con la normativa de contratos del sector público y la legislación patrimonial. A los únicos efectos de elaborar esta información los encargos a medios propios personificados se considerarán un tipo de contrato específico.”
+
+19. La nota 21, «Valores recibidos en depósito y por operaciones de compraventas dobles», tendrá el siguiente contenido:
 
 «1) Valores recibidos en depósito.
 
@@ -394,7 +400,7 @@ Por lo que se refiere a la información relativa a garantías constituidas en la
 
 Se informará del importe a 31 de diciembre de los valores recibidos en garantía de la colocación de excedentes de tesorería en las distintas entidades financieras mediante operaciones de compraventas dobles de valores.»
 
-19. En la nota 22, «Información presupuestaria», se realizan las siguientes modificaciones:
+20. En la nota 22, «Información presupuestaria», se realizan las siguientes modificaciones:
 
 a) El primer párrafo del punto 22.2.2, «Presupuesto de ingresos. Derechos a cobrar de presupuestos cerrados», tendrá la siguiente redacción:
 
@@ -527,15 +533,19 @@ Se incluirá información sobre la antigüedad de los derechos de presupuestos c
 
 – Importe total pendiente de cobro.»
 
-20. En el apartado 2.a), «Indicadores presupuestarios. Del presupuesto de gastos corriente», de la nota 23, «Indicadores financieros, patrimoniales y presupuestarios», se sustituye la referencia a «la entidad» por la referencia al «ámbito territorial» en los indicadores 3) GASTO POR HABITANTE y 4) INVERSIÓN POR HABITANTE.
+21. En el apartado 2.a), «Indicadores presupuestarios. Del presupuesto de gastos corriente», de la nota 23, «Indicadores financieros, patrimoniales y presupuestarios», se sustituye la referencia a «la entidad» por la referencia al «ámbito territorial» en los indicadores 3) GASTO POR HABITANTE y 4) INVERSIÓN POR HABITANTE.
 
-21. La nota 24, «Hechos posteriores al cierre», tendrá el siguiente contenido:
+22. La nota 24, «Hechos posteriores al cierre», tendrá el siguiente contenido:
 
 «La entidad informará de los siguientes hechos y situaciones que se hayan producido con posterioridad a la fecha de cierre del ejercicio y sobre los que no se haya informado en las notas anteriores:
 
 a) Las reorganizaciones ministeriales.
 
 b) La creación, modificación o extinción de entidades dependientes de la Administración General del Estado.»
+
+> Se renumeran los apartados 18 a 21 como 19 a 22 y se añade el 18 por el art. 4.6 de la Orden HAC/552/2019, de 11 de abril. Ref. BOE-A-2019-7344
+
+> Esta modificación será aplicable a las cuentas anuales del ejercicio 2018 y siguientes, según establece la disposición final única de la citada Orden.
 
 > Se modifica el apartado 9 por el art. 3.2 de la Orden HAC/787/2018, de 25 de julio. Ref. BOE-A-2018-10649
 

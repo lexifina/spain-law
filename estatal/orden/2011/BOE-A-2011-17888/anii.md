@@ -2,7 +2,7 @@
 
 ## Modelos de la documentación que configura los informes agregados de las operaciones realizadas en el ámbito de cada Departamento Ministerial
 
-Relación de los modelos de la documentación que configura los informes agregados de las operaciones realizadas en el ámbito de cada Departamento Ministerial:
+Relación de los modelos de la documentación que configura los informes agregados de las operaciones realizadas en el ámbito de cada Departamento ministerial:
 
 I. Información sobre la ejecución de los gastos públicos.
 
@@ -14,29 +14,31 @@ I. Información sobre la ejecución de los gastos públicos.
 
 4. Acreedores por operaciones devengadas.
 
-5. Anticipos de Tesorería art. 60 L.G.P
+5. Provisiones.
 
-6. Compromisos de gasto con cargo a presupuestos de ejercicios posteriores.
+6. Anticipos de Tesorería art. 60 L.G.P.
 
-7. Obligaciones de presupuestos corriente.
+7. Compromisos de gasto con cargo a presupuestos de ejercicios posteriores.
 
-a) Obligaciones pendientes de proponer el pago. (1)
+8. Obligaciones de presupuestos corriente.
 
-b) Propuestas pendientes de pago. (1)
+a) Obligaciones pendientes de proponer el pago (1).
 
-8. Obligaciones de presupuestos cerrados.
+b) Propuestas pendientes de pago (1).
 
-a) Obligaciones pendientes de proponer el pago. (1)
+9. Obligaciones de presupuestos cerrados.
 
-b) Propuestas pendientes de pago. (1)
+a) Obligaciones pendientes de proponer el pago (1).
+
+b) Propuestas pendientes de pago (1).
 
 II. Información sobre la ejecución de los ingresos públicos.
 
-1. Ejecución del Presupuesto de ingresos corriente por capítulos. (2)
+1. Ejecución del Presupuesto de ingresos corriente por capítulos (2).
 
-2. Devoluciones de ingresos por capítulos. (2)
+2. Devoluciones de ingresos por capítulos (2).
 
-3. Derechos a cobrar de presupuestos cerrados por capítulos. (2)
+3. Derechos a cobrar de presupuestos cerrados por capítulos (2).
 
 III. Información sobre las inversiones financieras.
 
@@ -44,11 +46,11 @@ III. Información sobre las inversiones financieras.
 
 2. Créditos.
 
-IV. Información sobre la Deuda del Estado. (1)
+IV. Información sobre la Deuda del Estado (1).
 
-V. Información sobre los avales concedidos. (1)
+V. Información sobre los avales concedidos (1).
 
-(1) Solamente en la relación de modelos del Ministerio del que dependa la Secretaría General del Tesoro y Política Financiera.
+(1) Solamente en la relación de modelos del Ministerio del que dependa la Secretaría General del Tesoro y Financiación Internacional.
 
 (2) Solamente en la relación de modelos del Ministerio del que dependan las Delegaciones de Economía y Hacienda.
 
@@ -131,7 +133,25 @@ I.4 Acreedores por operaciones devengadas
 |  |  |
 | Total |  |
 
-I.5. Anticipos de Tesorería Art. 60 L.G.P.
+Ministerio de……………………………………………
+
+I. Información sobre la ejecución de los gastos públicos ejercicio…….
+
+I.5. Provisiones
+
+Sección …………………….
+
+| DESCRIPCIÓN / N.º DE CUENTAS | SALDO INICIAL | AUMENTOS | DISMINUCIONES | SALDO FINAL |
+| --- | --- | --- | --- | --- |
+| 1420. Provisión a largo plazo para responsabilidades por litigios. |  |  |  |  |
+| 1421. Provisión a largo plazo por avales concedidos. |  |  |  |  |
+| 1429. Otras provisiones a largo plazo para responsabilidades. |  |  |  |  |
+| 5820. Provisión a corto plazo para responsabilidades por litigios. |  |  |  |  |
+| 5821. Provisión a corto plazo por avales concedidos. |  |  |  |  |
+| 5829. Otras provisiones a corto plazo para responsabilidades. |  |  |  |  |
+| 5850. Provisión para devolución de impuestos. |  |  |  |  |
+
+I.6. Anticipos de Tesorería Art. 60 L.G.P.
 
 Sección ........................
 
@@ -146,7 +166,7 @@ I. Información sobre la ejecución de los gastos públicos
 
 Ejercicio ...............
 
-I.6. Compromisos de gasto con cargo a presupuestos de ejercicios posteriores
+I.7. Compromisos de gasto con cargo a presupuestos de ejercicios posteriores
 
 Sección ........................
 
@@ -162,7 +182,7 @@ I. Información sobre la ejecución de los gastos públicos
 
 Ejercicio ...............
 
-I.7.A. Obligaciones pendientes de proponer el pago de presupuesto corriente.
+I.8.A. Obligaciones pendientes de proponer el pago de presupuesto corriente.
 
 Sección ........................
 
@@ -177,7 +197,7 @@ I. Información sobre la ejecución de los gastos públicos
 
 Ejercicio ...............
 
-I.7.B. Propuestas pendientes de pago de presupuesto corriente.
+I.8.B. Propuestas pendientes de pago de presupuesto corriente.
 
 | SECCIÓN | PROPUESTAS DE PAGO RECIBIDAS NETAS HASTA 31 DE DICIEMBRE | PAGOS | PROPUESTAS PENDIENTES DE PAGO A 31 DE DICIEMBRE |
 | --- | --- | --- | --- |
@@ -190,7 +210,7 @@ I. Información sobre la ejecución de los gastos públicos
 
 Ejercicio ...............
 
-I.8.A. Obligaciones pendientes de proponer el pago de presupuestos cerrados.
+I.9.A. Obligaciones pendientes de proponer el pago de presupuestos cerrados.
 
 Sección ........................
 
@@ -205,7 +225,7 @@ I. Información sobre la ejecución de los gastos públicos
 
 Ejercicio ...............
 
-I.8.B. Propuestas pendientes de pago de presupuestos cerrados.
+I.9.B. Propuestas pendientes de pago de presupuestos cerrados.
 
 | EJERCICIO/SECCIÓN/ DESCRIPCIÓN | PROPUESTAS PENDIENTES DE PAGO A 1 DE ENERO | RECTIFICACIONES DEL SALDO ENTRANTE Y ANULACIONES | PROPUESTAS RECIBIDAS NETAS | PAGOS | PROPUESTAS PENDIENTES DE PAGO A 31 DE DICIEMBRE |
 | --- | --- | --- | --- | --- | --- |
@@ -361,6 +381,10 @@ Ejercicio ...............
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | SUBTOTAL OTRAS ENTIDADES |  |  |  |  |  |  |  |  |  |  |
 | TOTAL |  |  |  |  |  |  |  |  |  |  |
+
+> Se modifica por el art. 4.8 de la Orden HAC/552/2019, de 11 de abril. Ref. BOE-A-2019-7344
+
+> Esta modificación será aplicable a las cuentas anuales del ejercicio 2018 y siguientes, según establece la disposición final única de la citada Orden.
 
 > Se modifica por el art. 4.7 y Anexo III de la Orden HFP/1105/2017, de 16 de noviembre. Ref. BOE-A-2017-13278
 
