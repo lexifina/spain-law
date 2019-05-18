@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Complemento Personal de Encuadramiento.
+
+Con la finalidad de mantener en su totalidad el nivel retributivo del personal incluido en el ámbito de aplicación del presente Convenio y adecuar la clasificación profesional y el encuadramiento en los nuevos grupos, se acuerda la asignación de un complemento personal de encuadramiento al personal que se encuentre prestando servicios a la entrada en vigor del presente Convenio en puestos de trabajo de los anteriores grupos profesionales 3, 4 y 5 en aquellos casos en que los mismos, de acuerdo con el anexo I del presente Convenio, quedan encuadrados en los nuevos grupos E2, E1 y E0 respectivamente. Este complemento tiene carácter personal y dejará de percibirse cuando se pase a ocupar un puesto de trabajo de distinto grupo profesional mediante alguno de los procedimientos previstos en el presente Convenio.
+
+Asimismo, este complemento se actualizará anualmente en los términos previstos en el punto 2 del artículo 56 presente Convenio.
