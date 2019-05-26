@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Componente por actividad investigadora del complemento de productividad reconocido al personal investigador funcionario de las escalas científicas de Organismos Públicos de Investigación, procedente de la suprimida escala de Investigadores Titulares de los Organismos Públicos de Investigación.
+
+El número de tramos del componente por actividad investigadora del complemento de productividad que hubieran sido reconocidos al personal investigador funcionario de las escalas científicas de Organismos Públicos de Investigación procedente de la suprimida escala de Investigadores Titulares de los Organismos Públicos de Investigación, por la Comisión Nacional Evaluadora de la Actividad Investigadora, con posterioridad a 1 de enero de 2014, surtirán efectos económicos a partir de 1 de enero de 2018.
+
+Los méritos valorados en las diferentes evaluaciones para la obtención de los tramos de los componentes consolidados no podrán ser sometidos nuevamente a evaluación para la obtención de unos nuevos tramos.
