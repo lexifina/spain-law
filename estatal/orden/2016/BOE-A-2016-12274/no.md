@@ -1,0 +1,1 @@
+Téngase en cuenta que se anula la presente Orden únicamente en cuanto las refacturaciones contempladas en la misma han de regularse en los términos que se expresan en el fundamento de derecho quinto, apartado b) de la Sentencia del TS de 29 de abril de 2019. Ref. BOE-A-2019-7956
