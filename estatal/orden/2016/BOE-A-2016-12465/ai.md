@@ -374,18 +374,9 @@ i) Retribución provisional por costes de operación y mantenimiento año 2017:
 | Almacenamiento Subterráneo Marismas | 821.666,54 |
 | Total almacenamientos | 30.296.691,97 |
 
-j) Costes provisionales de mantenimiento y operatividad del almacenamiento subterráneo Castor derivados de las obligaciones indicadas en el artículo 3.2 del Real Decreto-ley 13/2014, de 3 de octubre, de Enagas Transporte, S.A.U.:
+j) (Anulada)
 
-Año 2017: 15.718.229 €.
-
-k) Cantidad total a reconocer:
-
-|  | RD 2017 por inversión | RD 2017 por Costes de Operación y mantenimiento | RCS 2017 | Minoración por D.A 7.ª Orden ITC/3802/2008 | Derecho cobro RD-Ley 13/2014 | Total 2017 | Total a incluir 2016 | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Enagas Transporte, S.A.U. | 54.837.202,98 | 45.193.254,53 | 4.118.659,97 | –705.329,00 | 0,00 | 103.443.788,48 | –703.519,94 | 102.740.268,54 |
-| Titulares Derecho cobro RD-Ley 13/2014. |  |  |  |  | 80.664.720,00 | 80.664.720,00 |  | 80.664.720,00 |
-| Gas Natural Almacenamiento Andalucía, S.A. | 5.150.165,11 | 821.666,54 | 371.023,31 | 0,00 | 0,00 | 6.342.854,96 | –1.192.359,20 | 5.150.495,76 |
-| Total almacenamientos | 59.987.368,09 | 46.014.921,07 | 4.489.683,28 | –705.329,00 | 80.664.720,00 | 190.451.363,44 | –1.895.879,14 | 188.555.484,30 |
+k) (Anulada)
 
 5) Retribución a cuenta de instalaciones de transporte.
 
@@ -411,3 +402,5 @@ La inclusión de una instalación de conexión de transporte a distribución en 
 | Redexis Gas, S.A. | Posición de Trampa de rascadores VILCAS-02 (Castellar) en gasoducto Secundario Villanueva del Arzobispo-Castellar | 05/12/2016 | 0,00 | 18.341,63 |
 | Redexis Gas, S.A. | ERM G-250 en posición de Trampa de rascadores VILCAS-02 (Castellar) en gasoducto Secundario Villanueva del Arzobispo-Castellar | 05/12/2016 | 0,00 | 60.673,94 |
 | Total | 411.006,85 | 2.767.101,63 |
+
+> Se declara la nulidad de las letras j) y k) del apartado 4 por Sentencia del TS de 29 de abril de 2019. Ref. BOE-A-2019-8244
