@@ -408,7 +408,9 @@
 | Sphagnum pylaisii |  |  |  |
 | CLOROPHYTA |  |  |  |
 | Caulerpa ollivieri |  | Mediterráneo |  |
-| RODOPHYTA |  |  |  |
+| RHODOPHYTA |  |  |  |
+| Gelidium arbusculum Bory de Saint-Vincent ex Borgesen, 1927. | Gelidio rojo, Mujo rojo. |  | Vulnerable |
+| Gelidium canariense (Grunow) Seoane Camba ex Haroun, Gil-Rodríguez, Díaz de Castro y Prud’homme van Reine, 2002. | Gelidio negro, Mujo negro. |  | Vulnerable |
 | Gymnogongrus crenulatus |  | Mediterráneo |  |
 | Kalymenia spathulata |  | Mediterráneo |  |
 | Lythophyllum byssoides |  | Mediterráneo |  |
@@ -420,6 +422,7 @@
 | Titanoderma trochanter (Bory) Benhissoune et al. |  | Mediterráneo |  |
 | HETEROKONTOPHYTA |  |  |  |
 | Cystoseira sp. (1) |  | Mediterráneo |  |
+| Cystoseira abies-marina (S.G.Gmelin). C. Agardh, 1820. | Mujo amarillo | Canarias | Vulnerable |
 | Laminaria rodriguezi |  | Mediterráneo |  |
 | Sargassum acinarium |  | Mediterráneo |  |
 | Sargassum flavifolium |  | Mediterráneo |  |
@@ -462,6 +465,7 @@
 | Isoptera |  |  |  |
 | Halophiloscia canariensis |  |  | En peligro de extinción |
 | Lepidoptera |  |  |  |
+| Euchloe bazae Fabiano, 1993. | Azufrada ibérica, Blanquiverdosa azufrada |  | En peligro de extinción |
 | Eriogaster catax |  |  |  |
 | Euphydryas aurinia |  |  |  |
 | Graellsia isabelae |  |  |  |
@@ -521,6 +525,8 @@
 | Pholas dactylus |  | Mediterráneo |  |
 | Pinna nobilis | Nacra, Nácar |  | Vulnerable |
 | Pinna rudis |  | Mediterráneo |  |
+| Pterioida |  |  |  |
+| Pinna nobilis Linnaeus, 1758. | Nacra común. |  | En peligro de extinción |
 | Unionoida |  |  |  |
 | Margaritifera auricularia | Margaritona |  | En peligro de extinción |
 | Margaritifera margaritifera | Náyade de río, madreperla de río |  | En peligro de extinción |
@@ -534,7 +540,17 @@
 | CNIDARIA |  |  |  |
 | ANTOZOA |  |  |  |
 | Astroides calycularis | Coral naranja |  | Vulnerable |
+| Antipathella subpinnata (Ellis & Solander, 1786). | Coral negro | Mediterráneo |  |
+| Antipathes dichotoma Pallas, 1766. | Coral negro ramificado | Mediterráneo |  |
+| Callogorgia verticillata (Pallas,1766). | Gorgonia abanico. | Mediterráneo. |  |
+| Cladocora caespitosa (Linnaeus, 1767). | Madrépora mediterránea. |  |  |
+| Cladocora debilis Milne Edwards & Haime, 1849. | Coralito débil. | Mediterráneo. |  |
+| Ellisella paraplexauroides Stiasny, 1936. | Gorgonia candelabro. | Mediterráneo. |  |
 | Errina aspera |  | Mediterráneo |  |
+| Leiopathes glaberrima (Esper, 1788). | Coral negro anaranjado. | Mediterráneo. |  |
+| Lophelia pertusa (Linnaeus, 1758). | Coral blanco duro. | Mediterráneo. |  |
+| Madrepora oculata Linnaeus, 1758. | Coral blanco frágil. | Mediterráneo. |  |
+| Parantipathes larix (Esper, 1788). | Coral negro mediterráneo. | Mediterráneo. |  |
 | Savalia savaglia |  | Mediterráneo |  |
 | BRYOZOA |  |  |  |
 | Hornera lichenoides |  | Mediterráneo |  |
@@ -546,6 +562,7 @@
 | Geodia cydonium |  | Mediterráneo |  |
 | Petrobiona massiliana (Vacelet & Lévi, 1958) |  | Mediterráneo |  |
 | Sarcophagus pipetta |  | Mediterráneo |  |
+| Sarcotragus foetidus Schmidt, 1862. | Esponja negra | Mediterráneo |  |
 | Tethya sp. (2) |  | Mediterráneo |  |
 | PECES |  |  |  |
 | PETROMYZONTIFORMES |  |  |  |
@@ -587,10 +604,14 @@
 | Oxynotidae |  |  |  |
 | Oxynotus centrina (Linnaeus, 1758) | Cerdo marino | Mediterráneo |  |
 | SQUATINIFORMES |  |  |  |
+|  |  |  |  |
 | Squatinidae |  |  |  |
 | Squatina aculeata (Dumeril, en Cuvier, 1817) | Angelote espinoso | Mediterráneo |  |
 | Squatina oculata (Bonaparte, 1840) | Angelote manchado | Mediterráneo |  |
 | Squatina squatina (Linnaeus, 1758) | Angelote | Mediterráneo |  |
+| Squatina squatina (Linnaeus, 1758). | Angelote | Canarias | En peligro de extinción |
+| Squatina oculata Bonaparte, 1840. | Angelote manchado | Canarias | En peligro de extinción |
+| Squatina aculeata Cuvier, 1829. | Angelote espinoso | Canarias | En peligro de extinción |
 | SYNGNATHIFORMES |  |  |  |
 | Syngnathidae |  |  |  |
 | Hippocampus guttulatus (=H. ramulosus) | Caballito de mar | Mediterráneo y Atlántico ibérico |  |
@@ -669,6 +690,7 @@
 | Chelonia mydas | Tortuga verde |  |  |
 | Eretmochelys imbricata | Tortuga carey |  |  |
 | Lepidochelys kempii | Tortuga golfina |  |  |
+| Lepidochelys olivacea (Eschscholtz, 1829). | Tortuga olivácea. |  |  |
 | Dermochelyidae |  |  |  |
 | Dermochelys coriacea | Tortuga laúd |  |  |
 | Emydidae |  |  |  |
@@ -706,8 +728,8 @@
 | Iberolacerta aurelioi (antes Lacerta aurelioi) | Lagartija pallaresa |  | En peligro de extinción |
 | Iberolacerta bonnali (antes Lacerta bonnali) | Lagartija pirenaica |  | Vulnerable |
 | Iberolacerta cyreni | Lagartija carpetana |  |  |
-| Iberolacerta martinezricai | Lagartija batueca |  |  |
-| Iberolacerta monticola (antes Lacerta monticola) | Lagartija serrana |  |  |
+| Iberolacerta martinezricai (Arribas, 1996) | Lagartija batueca |  | En peligro de extinción |
+| Iberolacerta galani Arribas, Carranza y Odierna, 2006 (antes incluida en Iberolacerta monticola) | Lagartija leonesa |  | Vulnerable |
 | Lacerta agilis | Lagarto ágil |  | En peligro de extinción |
 | Lacerta bilineata (=Lacerta viridis bilineata) | Lagarto verde |  |  |
 | Lacerta schreiberi | Lagarto verdinegro |  |  |
@@ -757,6 +779,7 @@
 | PROCELLARIIFORMES |  |  |  |
 | Procellariidae |  |  |  |
 | Bulweria bulweri | Petrel de Bulwer |  |  |
+| Calonectris borealis (Cory, 1881). | Pardela cenicienta atlántica. |  |  |
 | Calonectris diomedea borealis | Pardela cenicienta | Atlántico |  |
 | Calonectris diomedea diomedea | Pardela cenicienta |  | Vulnerable |
 | Fulmarus glacialis | Fulmar boreal |  |  |
@@ -837,14 +860,14 @@
 | Falco columbarius | Esmerejón |  |  |
 | Falco eleonorae | Halcón de Eleonora |  |  |
 | Falco naumanni | Cernícalo primilla |  |  |
-| Falco pelegrinoides | Halcón tagarote |  | En peligro de extinción |
+| Falco peregrinus pelegrinoides. Temminck, 1829. | Halcón tagarote |  | En peligro de extinción |
 | Falco peregrinus | Halcón peregrino |  |  |
 | Falco subbuteo | Alcotán europeo |  |  |
 | Falco tinnunculus | Cernícalo común |  |  |
 | Falco vespertinus | Cernícalo patirrojo |  |  |
 | GALLIFORMES |  |  |  |
 | Phasianidae |  |  |  |
-| Bonasa bonasia | Grévol. |  |  |
+| Bonasa bonasia | Grévol |  |  |
 | Tetraonidae |  |  |  |
 | Lagopus muta | Lagópodo alpino |  | Vulnerable |
 | Tetrao urogalus aquitanicus | Urogallo pirenaico |  | Vulnerable |
@@ -930,6 +953,7 @@
 | Gelochelidon nilotica | Pagaza piconegra |  |  |
 | Sterna (Thalasseus) sandvicensis | Charrán patinegro |  |  |
 | Sterna albifrons | Charrancito común |  |  |
+| Sterna bengalensis Lesson, 1831. | Charrán bengalí. | Mediterráneo. |  |
 | Sterna caspia | Pagaza piquirroja |  |  |
 | Sterna dougallii | Charrán rosado |  |  |
 | Sterna hirundo | Charrán común |  |  |
@@ -1177,10 +1201,10 @@
 | Gliridae |  |  |  |
 | Eliomys munbyanus | Lirón careto magrebí |  |  |
 | Muridae |  |  |  |
-| Microtus cabrerae | Topillo de Cabrera |  |  |
+| Iberomys (Microtus) cabrerae (Thomas, 1906) | Iberón, Topillo de Cabrera |  | Vulnerable |
 | CARNÍVORA |  |  |  |
 | Canidae |  |  |  |
-| Canis lupus | Lobo | Andalucía, Castilla-La Mancha y Extremadura |  |
+| Canis lupus Linnaeus, 1758. | Lobo | Poblaciones al sur del Duero. |  |
 | Ursidae |  |  |  |
 | Ursus arctos | Oso pardo |  | En peligro de extinción |
 | Mustelidae |  |  |  |
@@ -1229,13 +1253,15 @@
 | Mesoplodon densirostris | Zifio de Blainville |  |  |
 | Mesoplodon europaeus | Zifio de Gervais |  |  |
 | Mesoplodon mirus | Zifio de True |  |  |
-| Ziphius cavirostris | Zifio de Cuvier |  |  |
+| Ziphius cavirostris Cuvier, 1823. | Zifio de Cuvier, Zifio común. |  | Vulnerable |
 
 2 Todas las especies de las Familias Sphyrnidae (géneros Sphyrna y Eusphyra) y Alopiidae (género Alopias).
 
 (2) Incluyen todas las especies del género.
 
-> Se modifica por el art. únio de la Orden AAA/1351/2016, de 29 de julio. Ref. BOE-A-2016-7603.
+> Se modifica por el art. único de la Orden TEC/596/2019, de 8 de abril. Ref. BOE-A-2019-8317
+
+> Se modifica por el art. único de la Orden AAA/1351/2016, de 29 de julio. Ref. BOE-A-2016-7603.
 
 > Se modifica por el art. único de la Orden AAA/1771/2015, de 31 de agosto. Ref. BOE-A-2015-9550.
 
