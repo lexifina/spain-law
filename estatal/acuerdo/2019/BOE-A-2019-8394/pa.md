@@ -1,0 +1,11 @@
+El Pleno del Consejo General del Poder Judicial, en su reunión de 30 de mayo de 2019, ha acordado, en virtud de lo dispuesto en el artículo 373.7 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, la adaptación de:
+
+1. La duración del permiso de paternidad de Jueces y Magistrados por nacimiento, guarda con fines de adopción, acogimiento o adopción, previsto en el artículo 373.6 de la citada Ley Orgánica, a lo establecido en el artículo 49.c) del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, el cual tendrá, en cuanto a tal duración, la aplicación progresiva que viene determinada en la disposición transitoria novena del referido Real Decreto Legislativo.
+
+2. El permiso por lactancia de un hijo menor de doce meses a lo establecido en el artículo 48.f) del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.
+
+3. El permiso por razón de violencia de género sobre la mujer a lo establecido en el artículo 49.d) del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.
+
+4. La equiparación de los permisos a que se refieren los números 1 y 3 desplegará sus efectos desde el 1 de abril de 2019, mientras que el señalado en el número 2 lo hará desde el 8 de marzo de 2019.
+
+La duración de la licencia en caso de parto, guarda con fines de adopción, acogimiento o adopción a que se refiere el artículo 373.2 de la Ley Orgánica del Poder Judicial, será, según lo dispuesto en dicho precepto, la que viene establecida, respectivamente, en los apartados a) y b) del artículo 49 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, y desplegará sus efectos desde el 1 de abril de 2019.
