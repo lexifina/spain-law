@@ -1,6 +1,6 @@
 ## Artículo 4.
 
-1. La Secretaría General tiene asu cargo la tramitación de los asuntos que corresponden a la actividad y funciones de la Casa de Su Majestad el Rey, así como su resolución o propuesta y el despacho de los temas que requieran superior decisión.
+1. La Secretaría General tiene a su cargo la tramitación de los asuntos que corresponden a la actividad y funciones de la Casa de Su Majestad el Rey, así como su resolución o propuesta y el despacho de los temas que requieran superior decisión.
 
 El Secretario General será el Segundo Jefe de la Casa de Su Majestad el Rey y le corresponderá la coordinación de todos los servicios de la misma, así como la sustitución del Jefe de la Casa de Su Majestad el Rey en caso de ausencia o enfermedad.
 
@@ -30,8 +30,6 @@ El Secretario General será el Segundo Jefe de la Casa de Su Majestad el Rey y l
 
 3. La Secretaría General se estructura en las siguientes Unidades:
 
-Secretaría de Su Majestad el Rey Don Juan Carlos.
-
 Gabinete de Planificación y Coordinación.
 
 Secretaría de Su Majestad la Reina.
@@ -43,6 +41,8 @@ Comunicación.
 Protocolo.
 
 Administración, Infraestructura y Servicios.
+
+> Se modifica el apartado 3 por el art. único del Real Decreto 372/2019, de 7 de junio. Ref. BOE-A-2019-8505
 
 > Se modifica el apartado 3 por el art. 2.2 del Real Decreto 547/2014, de 27 de junio. Ref. BOE-A-2014-6762.
 
