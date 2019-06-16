@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Obligaciones de información al Banco de España.
+
+Los prestamistas, intermediarios de crédito, representantes designados y los grupos consolidables de todos ellos, cuya supervisión corresponda al Banco de España de conformidad con lo previsto en los artículos 33 y 43 de la Ley 5/2019, de 15 de marzo, deberán remitir con la forma y periodicidad que éste requiera, que será al menos anual, los estados e información que considere necesarios para cumplir con su función de supervisión. Estos estados e información tendrán carácter público o reservado, según establezca el Banco de España.

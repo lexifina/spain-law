@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Requisitos de gobernanza relativos a los contratos de crédito inmobiliario.
+
+Los prestamistas de crédito inmobiliario deberán implementar políticas y procedimientos internos que aseguren que los productos crediticios sujetos a la Ley 5/2019, de 15 de marzo, se diseñen y comercialicen minimizando los conflictos de interés, a partir de las necesidades, intereses y objetivos del público al que van destinados, cualquiera que sea el canal empleado. Igualmente, deberá ofrecerse toda la información necesaria sobre el producto al prestatario y, en su caso, al fiador o garante, durante el proceso de distribución.
