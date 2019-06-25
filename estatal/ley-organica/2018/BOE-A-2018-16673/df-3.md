@@ -10,7 +10,7 @@ Dos. Se añade un nuevo artículo cincuenta y ocho bis, con el contenido siguien
 
 «Artículo cincuenta y ocho bis. Utilización de medios tecnológicos y datos personales en las actividades electorales.
 
-1. La recopilación de datos personales relativos a las opiniones políticas de las personas que lleven a cabo los partidos políticos en el marco de sus actividades electorales se encontrará amparada en el interés público únicamente cuando se ofrezcan garantías adecuadas.
+1. (Anulado)
 
 2. Los partidos políticos, coaliciones y agrupaciones electorales podrán utilizar datos personales obtenidos en páginas web y otras fuentes de acceso público para la realización de actividades políticas durante el periodo electoral.
 
@@ -19,3 +19,5 @@ Dos. Se añade un nuevo artículo cincuenta y ocho bis, con el contenido siguien
 4. Las actividades divulgativas anteriormente referidas identificarán de modo destacado su naturaleza electoral.
 
 5. Se facilitará al destinatario un modo sencillo y gratuito de ejercicio del derecho de oposición.»
+
+> Se declara contrario a la Constitución y nulo lo indicado del apartado 2 por Sentencia del TC 76/2019, de 22 de mayo. Ref. BOE-A-2019-9548
