@@ -2,7 +2,7 @@
 
 ## Canalización de los bloques de frencuencias
 
-| Bloque | Límites del bloque – MHz |
+| Bloque | Límites del bloque MHz |
 | --- | --- |
 | 8A | 195,168-196,704 |
 | 8B | 196,880-198,416 |
@@ -20,12 +20,5 @@
 | 11B | 217,872-219,408 |
 | 11C | 219,584-221,120 |
 | 11D | 221,296-222,832 |
-| LA | 1.452,192-1.453,728 |
-| LB | 1.453,904-1.455,440 |
-| LC | 1.455,616-1.457,152 |
-| LD | 1.457,328-1.458,864 |
-| LE | 1.459,040-1.460,576 |
-| LF | 1.460,752-1.462,288 |
-| LG | 1.462,464-1.464,000 |
-| LH | 1.464,176-1.465,712 |
-| LI | 1.465,888-1.467,424 |
+
+> Se modifica por la disposición final 2.2 del Real Decreto 391/2019, de 21 de junio. Ref. BOE-A-2019-9513#df-2

@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Limitación temporal en el uso de los canales de televisión digital terrestre en definición estándar.
+
+Los titulares de licencias del servicio de comunicación audiovisual televisiva digital terrestre, cualquiera que sea su ámbito de cobertura, que están emitiendo canales de televisión en definición estándar podrán continuar emitiendo con esta resolución hasta el 1 de enero de 2023. En cualquier momento antes de esta fecha, dichos titulares podrán evolucionar la emisión de estos canales a alta definición previa notificación a la autoridad administrativa que otorgó el título habilitante para la prestación del servicio y consiguiente cese de la emisión en definición estándar.

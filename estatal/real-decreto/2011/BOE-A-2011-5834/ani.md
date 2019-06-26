@@ -100,7 +100,7 @@ Con carácter general, la infraestructura común de telecomunicaciones para la c
 
 4.1.5 El proyecto técnico de la ICT se redactará de conformidad con las bandas de frecuencias atribuidas a los servicios y con los canales radioeléctricos planificados, en cada momento y área geográfica, para la emisión de señales de radiodifusión sonora digital terrestre y televisión digital terrestre. Otras señales de telecomunicaciones que se transmitan correspondientes a servicios que, en su caso, pudiesen utilizar estas bandas de manera compartida por estar atribuidas a título secundario, o que se distribuyan por el cable coaxial de la ICT utilizando canales radioeléctricos que no estén planificados, no podrán reclamar protección frente a interferencias causadas por las señales de radiodifusión sonora digital terrestre y televisión digital terrestre.
 
-Asimismo, el proyecto técnico deberá garantizar la debida protección a las señales del servicio de televisión digital terrestre frente a señales de servicios de comunicaciones electrónicas que vayan a utilizar la subbanda de frecuencias comprendidas entre 790 MHz y 862 MHz, de manera que las señales transmitidas dentro de esta subbanda de acuerdo con los parámetros técnicos que le sean de aplicación, no puedan degradar la calidad de las señales distribuidas a través de la ICT correspondientes al servicio de televisión digital terrestre.»
+Asimismo, el proyecto técnico deberá garantizar la debida protección a las señales del servicio de televisión digital terrestre frente a señales de servicios de comunicaciones electrónicas que vayan a utilizar la subbanda de frecuencias comprendidas entre 694 MHz y 862 MHz, de manera que las señales transmitidas dentro de esta subbanda de acuerdo con los parámetros técnicos que le sean de aplicación, no puedan degradar la calidad de las señales distribuidas a través de la ICT correspondientes al servicio de televisión digital terrestre.
 
 4.1.6. Se deberán distribuir en la ICT, al menos, aquellas señales correspondientes al servicio público de radio y televisión a que se refiere la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad del Estado, y a los servicios que, conforme a lo dispuesto en la Ley 7/2010, de 31 de marzo, General de la Comunicación Audiovisual, dispongan del preceptivo título habilitante dentro del ámbito territorial donde se encuentre situado el inmueble siempre que presenten en el punto de captación un nivel de intensidad de campo superior a:
 
@@ -120,7 +120,7 @@ Televisión terrestre
 
 | Tipo de señal | Banda de frecuencias (MHz) | Intensidad campo (dBµV/m) |
 | --- | --- | --- |
-| Digital (*) | 470,0 - 862,0 | 3 + 20 log f (MHz) |
+| Digital (*) | 470,0-862,0 | 3 + 20 log f (MHz) |
 
 (*) Los parámetros de calidad de la señal de televisión digital terrestre establecidos en el apartado 4.5 de la presente norma sólo serán exigibles si el MER de estas señales es superior a 23 dB.
 
@@ -364,6 +364,8 @@ Se presumirán conformes a estas especificaciones aquellos cables que acrediten 
 | α ≤ 18 dB/100m | 23 dB | 23 dB | 20 dB | 18 dB |
 | α > 18 dB/100m | 20 dB | 20 dB | 18 dB | 16 dB |
 
-> Las especificaciones técnicas que sean de aplicación a la banda de frecuencias de 470 MHz a 862 MHz, se entenderán referidas a la banda de 470 MHz a 790 MHz a partir del 25 de septiembre de 2014, según establece la disposición final 1 del Real Decreto 805/2014, de 19 de septiembre. Ref. BOE-A-2014-9667#dfprimera.
+> Las especificaciones técnicas que sean de aplicación a la banda de frecuencias de 470 MHz a 862 MHz, se entenderán referidas a la banda de 470 MHz a 694 MHz a partir del 26 de junio de 2019, según establece la disposición final 4.2 y 3 del Real Decreto 391/2019, de 21 de junio. Ref. BOE-A-2019-9513#df-4
+
+> Se modifica el apartado 4.1.5 y las especificaciones técnicas que sean de aplicación a la banda de frecuencias de 470 MHz a 862 MHz, se entenderán referidas a la banda de 470 MHz a 694 MHz, por la disposición final 4.2 y 3 del Real Decreto 391/2019, de 21 de junio. Ref. BOE-A-2019-9513#df-4
 
 > Se modifica el apartado 4.1.5 y las especificaciones técnicas que sean de aplicación a la banda de frecuencias de 470 MHz a 862 MHz, se entenderán referidas a la banda de 470 MHz a 790 MHz, por la disposición final 1 del Real Decreto 805/2014, de 19 de septiembre. Ref. BOE-A-2014-9667#dfprimera.

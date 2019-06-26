@@ -360,7 +360,7 @@ Se habilitarán los medios para que en los RIT exista un nivel medio de iluminac
 
 5.5.7 Identificación de la instalación.
 
-En todos los recintos de instalaciones de telecomunicación existirá una placa de dimensiones mínimas de 200 x 200 mm (ancho x alto), resistente al fuego y situada en lugar visible entre 1.200 y 1.800 mm de altura, donde aparezca el número de registro asignado por la Jefatura Provincial de Inspección de Telecomunicaciones al proyecto técnico de la instalación.
+En todos los recintos de instalaciones de telecomunicación existirá una placa de dimensiones mínimas de 200 x 200 mm (ancho x alto), resistente al fuego y situada en lugar visible entre 1.200 y 1.800 mm de altura, donde aparezca el número de registro asignado por la Secretaría de Estado para el Avance Digital al proyecto técnico de la instalación.
 
 5.6 Registros principales.
 
@@ -720,5 +720,7 @@ Nota 1: Aun cuando a cada servicio le corresponde un punto de acceso al usuario,
 ![imagen](https://www.boe.es/datos/imagenes/disp/2011/78/05834_022.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2011/78/05834_023.png)
+
+> Se modifica el apartado 5.5.7 por la disposición final 4.1 del Real Decreto 391/2019, de 21 de junio. Ref. BOE-A-2019-9513#df-4
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 251, de 18 de octubre de 2011. Ref. BOE-A-2011-16350.

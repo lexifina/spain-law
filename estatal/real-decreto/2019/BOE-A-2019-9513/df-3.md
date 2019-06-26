@@ -1,0 +1,3 @@
+## Disposición final tercera. Modificación del Plan Técnico Nacional de la Televisión Digital Local, aprobado por el Real Decreto 439/2004, de 12 de marzo.
+
+Se modifica el Plan Técnico Nacional de la Televisión Digital Local, aprobado por el Real Decreto 439/2004, de 12 de marzo, en relación con los canales radioeléctricos actualmente planificados para el servicio de televisión digital terrestre de cobertura insular y local, que deban ser abandonados con motivo del proceso de liberación del segundo dividendo digital. Las demarcaciones de cobertura insular o local en las que se planifica un nuevo canal radioeléctrico están relacionadas en el anexo III del Plan Técnico TDT.
