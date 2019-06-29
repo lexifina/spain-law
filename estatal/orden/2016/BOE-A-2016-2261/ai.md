@@ -2,6 +2,8 @@
 
 ## Estructura por apartados y epígrafes descriptivos del contenido de la Hoja de Servicios
 
+> Téngase en cuenta que los apartados 1, 2.6 y 4.1 de este anexo, modificados por la disposición final 1.3 a 5 de la Orden PCI/361/2019, de 20 de marzo. Ref. BOE-A-2019-4650#df, entran en vigor el 29 de junio de 2019 según establece su disposición final 3.
+
 1. Datos identificativos.
 
 Deberá incluir los siguientes datos del interesado:
@@ -26,9 +28,11 @@ i) Fecha de ingreso en el primer centro docente de formación de la Guardia Civi
 
 j) Fecha de ingreso en la Guardia Civil.
 
-k) Fecha de pase a retiro o, en su caso, de la pérdida de la condición de guardia civil.
+k) Fecha de adquisición de la condición de Guardia Civil.
 
-l) Unidad de dependencia administrativa.
+l) Fecha de pase a retiro o, en su caso, de la pérdida de la condición de guardia civil.
+
+m) Unidad de dependencia administrativa
 
 2. Carrera y trayectoria profesional.
 
@@ -164,9 +168,9 @@ Sólo se anotarán los distintivos de permanencia y mérito que se posean, confo
 
 Se realizará conforme a lo dispuesto en la normativa que regula la anotación y cancelación de notas desfavorables en la documentación de los guardias civiles. Las anotaciones serán independientes para las penas y para las sanciones disciplinarias.
 
-2.6 Cualificaciones profesionales.
+2.6 Cualificaciones específicas de la Guardia Civil.
 
-Se anotarán las distintas cualificaciones profesionales y sus niveles existentes en la Guardia Civil, con indicación de la denominación, abreviatura, fecha de inicio y fecha de caducidad.
+Se anotarán las distintas cualificaciones específicas y sus niveles existentes en la Guardia Civil, con indicación de la denominación, abreviatura, fecha de inicio y fecha de caducidad».
 
 También quedarán reflejadas las distintas renovaciones de las cualificaciones con indicación de la resolución de aptitud, boletín oficial de publicación, fecha de inicio y fecha de caducidad.
 
@@ -180,7 +184,9 @@ También se incluirán las felicitaciones o reseñas por hechos considerados mer
 
 4.1 Publicaciones de las que es autor o coautor.
 
-Se anotarán previa autorización de la Subdirección General de Personal, aquellas publicaciones de las que el interesado es autor o coautor que se editen como libro o folleto independiente, en línea, soporte electrónico o en papel, no anotándose, por tanto, los artículos o colaboraciones en revistas o diarios editados por cualquiera de las vías citadas.
+Se anotarán, previa autorización del Mando de Personal, aquellas publicaciones de libros de los que el interesado sea autor; así como coordinador o coautor, cuando se trate de obras en colaboración o de autoría conjunta, y obras colectivas. También se anotarán aquellos artículos o trabajos de investigación de los que el interesado sea autor o coautor, y publicados en revistas que estén indexadas con un índice de calidad relativo en bases de datos comúnmente reconocidas. Para la anotación de artículos publicados en revistas no indexadas será exigible, al menos, la acreditación de que cumplen con la evaluación externa por pares.
+
+Todas las obras deberán haber sido publicadas en línea, soporte electrónico o en papel»
 
 4.2 Condición de deportista de alto nivel.
 
@@ -189,3 +195,5 @@ Se anotará la adquisición de la condición de deportista de alto nivel, grupos
 4.3 Condición de deportista de élite.
 
 Se anotará la adquisición de esta condición conforme a la normativa que regula la organización de la Junta Central de Educación Física y Deportes de la Guardia Civil, con indicación del año de consecución, modalidad deportiva, resolución de concesión, boletín oficial y fechas de vigencia.
+
+> Se modifican los apartados 1, 2.6 y 4.1, con efectos de 29 de junio de 2019, por la disposición final 1.3 a 5 de la Orden PCI/361/2019, de 20 de marzo. Ref. BOE-A-2019-4650#df

@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Datos académicos de los alumnos de la enseñanza de formación por acceso directo, para su incorporación al expediente académico.
+
+1. Los datos académicos de los alumnos de los centros docentes de formación que no hayan adquirido la condición de guardia civil serán comunicados a la Jefatura de Enseñanza por el centro docente, una vez obtenido el primer empleo de la escala correspondiente, a efectos de su anotación en el expediente académico de los interesados.
+
+2. La Academia General Militar del Ejército de Tierra remitirá a la Academia de Oficiales de la Guardia Civil, para su anotación, las calificaciones y convocatorias consumidas de los cursos y fases realizados, así como las de las materias, asignaturas, módulos y créditos que hayan sido obtenidos en la enseñanza de formación, de forma individualizada, con independencia de la transferencia del expediente del alumno que realice el Centro Universitario de la Defensa al Centro Universitario de la Guardia Civil, a los efectos del título Universitario que se imparta.
