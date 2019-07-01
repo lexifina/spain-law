@@ -1,10 +1,12 @@
 ## ANEXO II
 
-## Valor máximo aplicable al producto en Euros/Kg
+## Valor máximo aplicable al producto en €/kg
 
-A) Frutas y verduras.
+> Téngase en cuenta que esta última actualización de los Anexos II a V, establecida por el art. único.12 del Real Decreto 77/2019, de 22 de febrero. Ref. BOE-A-2019-3909, entra en vigor el 1 de julio de 2019, según determina su disposición final única.
 
-| Producto | Valor máximo aplicable al producto – Euros/kilogramo |
+A) Frutas y verduras
+
+| Producto | Valor máximo aplicable al producto en €/kg |
 | --- | --- |
 | Acelga | 2,03 |
 | Ajo | 4,12 |
@@ -20,14 +22,13 @@ A) Frutas y verduras.
 | Cereza | 4,74 |
 | Champiñón | 3,39 |
 | Ciruela | 2,69 |
-| Clementinas | 2,72 |
 | Coliflores | 1,67 |
 | Escarola | 2,33 |
 | Espárrago | 5,45 |
 | Espinaca | 2,36 |
 | Fresa/Fresón | 3,75 |
-| Frutas de cáscara (castaña, almendra, avellana...)* | 10,59 |
-| Frutas tropicales (aguacate, chirimoya, mango, papaya...) | 2,62 |
+| Frutas de cáscara (castaña, almendra, avellana…) * | 10,59 |
+| Frutas tropicales (aguacate, chirimoya, mango, papaya y otros productos tropicales no indicados específicamente en este anexo) | 2,62 |
 | Frutos rojos (frambuesa, arándanos, grosella...) | 12,87 |
 | Granada | 2,70 |
 | Haba verde | 2,96 |
@@ -37,11 +38,11 @@ A) Frutas y verduras.
 | Kiwi | 2,99 |
 | Lechuga | 2,59 |
 | Limones | 2,20 |
-| Mandarinas | 2,02 |
+| Mandarinas | 2,72 |
 | Manzanas | 1,88 |
 | Melocotones | 2,41 |
 | Melones | 2,99 |
-| Nabo, nabicol y chirivía | 3,23 |
+| Nabo | 3,23 |
 | Naranjas | 1,98 |
 | Nectarinas | 2,56 |
 | Níspero | 3,92 |
@@ -49,16 +50,19 @@ A) Frutas y verduras.
 | Pepino | 2,05 |
 | Peras | 2,19 |
 | Pimiento | 2,44 |
-| Plátano | 1,46 |
-| * No está permitida la distribución de cacahuete. |  |
+| Plátano | 2,45 |
 | Puerro | 2,31 |
 | Repollo/Col | 1,72 |
 | Sandías | 1,16 |
-| Tomates (1 de junio - 31 octubre) | 1,20 |
-| Tomates (1 de noviembre - 31 de mayo) | 2,37 |
+| Tomates (1 de junio-31 octubre) | 1,20 |
+| Tomates (1 de nov-31 de mayo) | 2,37 |
+| Tomate cherry | 3,52 |
 | Uvas | 3,23 |
 | Zanahoria | 1,86 |
-| Producto | Valor máximo aplicable al producto – Euros/kilogramo |
+
+* No está permitida la distribución de cacahuete
+
+| Producto | Valor máximo aplicable al producto en €/kg |
 | --- | --- |
 | Frutas IV gama | 9,31 |
 | Hortalizas IV gama | 9,5 |
@@ -67,22 +71,27 @@ A) Frutas y verduras.
 | Zumos de fruta exprimida | 1,95 |
 | Zumos de fruta procedentes de concentrados | 1,53 |
 
-B) Leche y productos lácteos.
+B) Leche y productos lácteos
 
-| Producto | Valor máximo aplicable al producto – Euros/kilogramo |
+| Producto | Valor máximo aplicable al producto en €/l |
 | --- | --- |
 | Leche tratada térmicamente (pasterizada) | 1,3 |
-| Leche tratada térmicamente (las demás) en envases de 200 c.c. | 1,34 |
-| Leche tratada térmicamente (las demás) en envases distintos de 200 c.c. | 0,95 |
-| Leche tratada térmicamente, sin lactosa, en envases de 200 c.c. | 1,36 |
-| Leche tratada térmicamente, sin lactosa, en envases distintos de 200 c.c. | 0,96 |
-| Queso, cuajada, yogur y otros productos lácteos fermentados o acidificados, sin adición de aromatizante, frutas frutos secos o cacao | 1,43 |
+| Leche tratada térmicamente (las demás) | 1,34 |
+| Leche tratada térmicamente. Sin lactosa. | 1,36 |
+| Queso fresco | 7,34 |
+| Otros quesos | 9,04 |
+| Cuajada, yogur y otros productos lácteos fermentados o acidificados, sin adición de aromatizante, frutas, frutos secos o cacao | 3,07 |
 
-C) Transporte.
+C) Transporte
 
-| Trayecto total de la ruta de distribución | Ayuda complementaria para gastos de transporte – Euros/kilogramo |
+| Trayecto total de la ruta de distribución | Ayuda complementaria para gastos de transporte (€/Kg) |
 | --- | --- |
 | Más de 350 km, pero menos de 500 km | 0,0726 |
 | Más de 500 km, pero menos de 750 km | 0,0953 |
 | Más de 750 km | 0,1083 |
 | Suplemento por transporte frigorífico | 0,0085 |
+| Suplemento único por transporte marítimo | 0,1083 |
+
+> Se modifica, con efectos de 1 de julio de 2019, por el art. único.12 del Real Decreto 77/2019, de 22 de febrero. Ref. BOE-A-2019-3909
+
+> Esta modificación será de aplicación a partir del curso escolar 2020/2021, según establece la disposición final única del citado Real Decreto.
