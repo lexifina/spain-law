@@ -52,7 +52,7 @@ Periodo de cuatro horas comprendidas dentro del régimen de travesía, en las qu
 
 2.1 Las prácticas reglamentarias de navegación, tendrán una duración mínima de 24 horas, de las cuales, al menos 4 horas serán de navegación nocturna.
 
-2.2 Las prácticas reglamentarias de navegación, se realizarán en una única sesión y en régimen de travesía. El requisito impuesto por el artículo 16.6 en cuanto al número máximo de alumnos por cada práctica, podrá elevarse hasta 9 alumnos.
+2.2 Las prácticas reglamentarias de navegación, se realizarán en una única sesión y en régimen de travesía. El requisito impuesto por el artículo 15.8 en cuanto al número máximo de alumnos por cada práctica, podrá elevarse hasta 9 alumnos.
 
 2.3 Con el fin de obtener la habilitación a vela, las prácticas reglamentarias de navegación podrán realizarse de forma conjunta con las prácticas reglamentarias de navegación a vela, en cuyo caso, el cómputo total de horas de prácticas no podrá ser inferior a 48 horas, siendo en este caso al menos 8 horas de navegación nocturna. La realización conjunta de las prácticas reglamentarias de navegación con las prácticas reglamentarias de navegación a vela, se realizará en una única sesión en régimen de travesía.
 
@@ -143,3 +143,5 @@ El alumno deberá aceptar las normas de la escuela para la impartición de las p
 El alumno deberá participar activamente durante la totalidad de las prácticas, siendo receptivo a la formación.
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/247/10344_30153.png)
+
+> Se modifica el apartado 2.2 por el art. 3.16 del Real Decreto 238/2019, de 5 de abril. Ref. BOE-A-2019-6481

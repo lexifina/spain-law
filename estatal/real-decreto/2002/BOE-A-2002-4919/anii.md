@@ -2,164 +2,174 @@
 
 ## Examen teórico Patrón de Moto Náutica «B»
 
-El examen teórico consistirá en la realización de un test de 20 preguntas con respuesta múltiple, correspondientes 13 a la parte primera y segunda y 7 a la parte tercera. Para superar la prueba será necesario responder correctamente el 70 por 100 del conjunto de preguntas.
+(Suprimido).
 
-El tiempo de realización del mismo será de cuarenta y cinco minutos.
+> Téngase en cuenta que la supresión de este Anexo, establecida por el art. 1.10 del Real Decreto 238/2019, de 5 de abril. Ref. BOE-A-2019-6481, entra en vigor el 1 de julio de 2019, según determina su disposición final única:
 
-Primera parte. El usuario.
+> Redacción anterior:
 
-1. Los requisitos legales.
+> "ANEXO II. Examen teórico Patrón de Moto Náutica «B»
 
-a) Edad.
+> El examen teórico consistirá en la realización de un test de 20 preguntas con respuesta múltiple, correspondientes 13 a la parte primera y segunda y 7 a la parte tercera.
 
-b) Conocimientos.
+> Para superar la prueba será necesario responder correctamente el 70 por 100 del conjunto de preguntas. El tiempo de realización del mismo será de cuarenta y cinco minutos.
 
-c) Titulación.
+> Primera parte. El usuario.
 
-2. Equipamiento.
+> 1. Los requisitos legales.
 
-a) Obligatorio.
+> a) Edad.
 
-b) Aconsejable.
+> b) Conocimientos.
 
-3. Actitud.
+> c) Titulación.
 
-a) Decálogo ético.
+> 2. Equipamiento.
 
-b) Alcohol y otras sustancias.
+> a) Obligatorio.
 
-c) Respeto al medio ambiente. Ruido y vertido de sustancias.
+> b) Aconsejable.
 
-d) Uso de la moto náutica por familiares y amigos.
+> 3. Actitud.
 
-Segunda parte. La moto náutica.
+> a) Decálogo ético.
 
-4. Identificación.
+> b) Alcohol y otras sustancias.
 
-a) Importación de la moto náutica. Marcado CE.
+> c) Respeto al medio ambiente. Ruido y vertido de sustancias.
 
-b) Registro en Capitanías Marítimas, Orden del Ministerio de Fomento de 16 de diciembre de 1998.
+> d) Uso de la moto náutica por familiares y amigos.
 
-5. Seguro Obligatorio.
+> Segunda parte. La moto náutica.
 
-a) Real Decreto 607/1999, de 16 de abril.
+> 4. Identificación.
 
-6. Advertencias generales de seguridad sobre la moto náutica.
+> a) Importación de la moto náutica. Marcado CE.
 
-a) Placa de normas básicas de utilización.
+> b) Registro en Capitanías Marítimas, Orden del Ministerio de Fomento de 16 de diciembre de 1998.
 
-b) Matrícula en la moto náutica.
+> 5. Seguro Obligatorio.
 
-c) Manual de instrucciones del fabricante.
+> a) Real Decreto 607/1999, de 16 de abril.
 
-d) Sistema hombre al agua.
+> 6. Advertencias generales de seguridad sobre la moto náutica.
 
-e) Característica de la propulsión por chorro (jet).
+> a) Placa de normas básicas de utilización.
 
-f) Acelerador por gatillo.
+> b) Matrícula en la moto náutica.
 
-g) Precauciones en la zona de la bomba y tobera (posibles daños a personas cercanas).
+> c) Manual de instrucciones del fabricante.
 
-h) Eliminación de suciedad de la rejilla de admisión del agua.
+> d) Sistema hombre al agua. e) Característica de la propulsión por chorro (jet).
 
-i) Comprobaciones antes de arrancar.
+> f) Acelerador por gatillo.
 
-j) Manejo de cambio.
+> g) Precauciones en la zona de la bomba y tobera (posibles daños a personas cercanas).
 
-k) Riesgos si se activa la marcha atrás cuando se avanza hacia delante (Motos con marcha atrás).
+> h) Eliminación de suciedad de la rejilla de admisión del agua.
 
-l) Abastecimiento de combustible.
+> i) Comprobaciones antes de arrancar.
 
-m) Pasajeros.
+> j) Manejo de cambio.
 
-n) Sobrecargas.
+> k) Riesgos si se activa la marcha atrás cuando se avanza hacia delante (Motos con marcha atrás).
 
-ñ) Accesorios y estabilidad de la moto náutica.
+> l) Abastecimiento de combustible.
 
-7. Equipo de emergencia susceptible de llevar en la moto náutica.
+> m) Pasajeros.
 
-a) Equipo de comunicaciones de emergencia.
+> n) Sobrecargas.
 
-b) Aceite.
+> ñ) Accesorios y estabilidad de la moto náutica.
 
-c) Herramientas.
+> 7. Equipo de emergencia susceptible de llevar en la moto náutica.
 
-8. Precauciones de seguridad durante la navegación.
+> a) Equipo de comunicaciones de emergencia.
 
-a) Bañistas.
+> b) Aceite.
 
-b) Submarinistas.
+> c) Herramientas.
 
-c) Playas.
+> 8. Precauciones de seguridad durante la navegación.
 
-d) Canales de balizamiento.
+> a) Bañistas.
 
-e) Circuitos de alquiler y prácticas.
+> b) Submarinistas.
 
-f) Costas.
+> c) Playas.
 
-g) Puertos.
+> d) Canales de balizamiento.
 
-Tercera parte. Seguridad en la navegación.
+> e) Circuitos de alquiler y prácticas.
 
-9. Normativa.
+> f) Costas.
 
-a) General.
+> g) Puertos.
 
-b) La Administración Marítima en el litoral. Las Capitanías Marítimas.
+> Tercera parte. Seguridad en la navegación.
 
-c) Zonas permitidas de navegación.
+> 9. Normativa.
 
-d) Zonas prohibidas de navegación.
+> a) General.
 
-e) Períodos de navegación, potencias y velocidades máximas.
+> b) La Administración Marítima en el litoral. Las Capitanías Marítimas.
 
-10. Precauciones antes de salir a navegar.
+> c) Zonas permitidas de navegación.
 
-a) Información meteorológica y modos de obtenerla.
+> d) Zonas prohibidas de navegación.
 
-b) Información a amigos, etc. Lugar de destino.
+> e) Períodos de navegación, potencias y velocidades máximas.
 
-c) Autonomía de la moto náutica.
+> 10. Precauciones antes de salir a navegar.
 
-d) Comprobaciones mecánicas antes de iniciar la navegación.
+> a) Información meteorológica y modos de obtenerla.
 
-11. Balizamiento.
+> b) Información a amigos, etc. Lugar de destino.
 
-a) Marcas laterales de día, región «A»: significado e identificación.
+> c) Autonomía de la moto náutica.
 
-b) Marca de peligro aislado: significado, forma, tope y color.
+> d) Comprobaciones mecánicas antes de iniciar la navegación.
 
-c) Balizamiento de playas. Zonas de baño balizadas y sin balizar.
+> 11. Balizamiento.
 
-12. El Convenio internacional para prevenir los abordajes en la mar.
+> a) Marcas laterales de día, región «A»: significado e identificación.
 
-a) Regla 3: definiciones.
+> b) Marca de peligro aislado: significado, forma, tope y color.
 
-b) Regla 5: vigilancia.
+> c) Balizamiento de playas. Zonas de baño balizadas y sin balizar.
 
-c) Regla 6: velocidad de seguridad.
+> 12. El Convenio internacional para prevenir los abordajes en la mar.
 
-d) Regla 7: riesgo de abordajes.
+> a) Regla 3: definiciones.
 
-e) Regla 8: maniobra para evitar los abordajes.
+> b) Regla 5: vigilancia.
 
-f) Regla 9: canales angostos.
+> c) Regla 6: velocidad de seguridad.
 
-g) Regla 12: derecho de paso entre embarcaciones de vela.
+> d) Regla 7: riesgo de abordajes.
 
-h) Regla 13: situación de alcance.
+> e) Regla 8: maniobra para evitar los abordajes.
 
-i) Regla 14: situación de vuelta encontrada.
+> f) Regla 9: canales angostos.
 
-j) Regla 15: situación de cruce.
+> g) Regla 12: derecho de paso entre embarcaciones de vela.
 
-k) Regla 16: maniobra de quien cede el paso.
+> h) Regla 13: situación de alcance.
 
-l) Regla 17: maniobra de quien sigue a rumbo.
+> i) Regla 14: situación de vuelta encontrada.
 
-m) Regla 18: obligaciones entre categorías de embarcaciones.
+> j) Regla 15: situación de cruce.
 
-n) Regla 19: conducta de las embarcaciones con visibilidad reducida.
+> k) Regla 16: maniobra de quien cede el paso.
+
+> l) Regla 17: maniobra de quien sigue a rumbo.
+
+> m) Regla 18: obligaciones entre categorías de embarcaciones.
+
+> n) Regla 19: conducta de las embarcaciones con visibilidad reducida."
+
+> Se suprime por el art. 1.10 del Real Decreto 238/2019, de 5 de abril. Ref. BOE-A-2019-6481
+
+> Esta supresión entra en vigor el 1 de julio de 2019, según determina la disposición final única del citado Real Decreto
 
 > Redactado el apartado 6.h) conforme a la corrección de errores publicada en BOE núm. 86, de 10 de abril de 2002. Ref. BOE-A-2002-6787.

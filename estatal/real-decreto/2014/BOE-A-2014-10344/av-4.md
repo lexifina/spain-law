@@ -188,10 +188,12 @@ Cuando se dictamine la incapacidad para gobernar embarcaciones de recreo por alg
 
 Apartado 2
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/247/10344_30494.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/104/06481_5502.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/247/10344_30528.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/104/06481_5539.png)
 
 Apartado 3
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/247/10344_30665.png)
+
+> Se modifica el apartado 2, certificado médico, por el art. 3.17 del Real Decreto 238/2019, de 5 de abril. Ref. BOE-A-2019-6481

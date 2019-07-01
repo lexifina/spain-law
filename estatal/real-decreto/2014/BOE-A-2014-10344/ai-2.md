@@ -364,9 +364,9 @@ Examen teórico
 
 a) Globalmente. Para lograr el aprobado se deberá responder correctamente un mínimo de 28 preguntas, no permitiéndose en ciertas materias, superar un número máximo de errores:
 
-– De teoría de navegación, máximo 3 errores permitidos.
+– De teoría de navegación, máximo cinco errores permitidos.
 
-– De navegación carta, máximo 5 errores permitidos.
+– De navegación carta, máximo tres errores permitidos.
 
 b) Por módulos temáticos. Se podrá lograr el aprobado por módulos, siempre y cuando se superen los criterios específicos de las dos materias que componen cada módulo de acuerdo a los criterios de la siguiente tabla. El aprobado del módulo se conservará durante las dos siguientes convocatorias siguientes en las que la administración competente realice exámenes de patrón de yate. El aprobado por módulos solo será válido en el ámbito exclusivo de cada Administración con competencias.
 
@@ -452,3 +452,5 @@ b) Por módulos temáticos. Se podrá lograr el aprobado por módulos, siempre y
 | 3 | Meteorología. | Módulo genérico (1 hora). | 10 | 5 (solo en caso de corrección por módulos) | 5 (solo en caso de corrección por módulos) |
 | 4 | Inglés. | 10 | 5 (solo en caso de corrección por módulos) | 5 (solo en caso de corrección por módulos) |
 | Total examen | 40 | 12 | 28 |
+
+> Se modifica por el art. 3.13 del Real Decreto 238/2019, de 5 de abril. Ref. BOE-A-2019-6481

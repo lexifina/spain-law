@@ -82,7 +82,7 @@ Las prácticas reglamentarias básicas de seguridad y navegación para la obtenc
 
 2.5.1 Las prácticas reglamentarias básicas de seguridad y navegación para la obtención del título de capitán de yate, tendrán una duración mínima de 48 horas, de las cuales, un mínimo de 36 horas serán en régimen de travesía, debiendo realizar cada alumno, por lo menos, una guardia de navegación completa de día y otra de noche.
 
-2.5.2 El requisito impuesto por el artículo 16.6 en cuanto al número máximo de alumnos por cada práctica, podrá elevarse hasta 9 alumnos.
+2.5.2 El requisito impuesto por el artículo 15.8 en cuanto al número máximo de alumnos por cada práctica, podrá elevarse hasta 9 alumnos.
 
 2.5.3 Con el fin de obtener la habilitación a vela, las prácticas reglamentarias básicas de seguridad y navegación podrán realizarse de forma conjunta con las prácticas reglamentarias de navegación a vela, en cuyo caso, el cómputo total de horas de prácticas no podrá ser inferior a 72 horas, de las cuales, un mínimo de 60 horas serán en régimen de travesía, debiendo realizar cada alumno, por lo menos, dos guardias de navegación completas de día y otras dos de noche. La realización conjunta de las prácticas reglamentarias de seguridad y navegación con las prácticas reglamentarias de navegación a vela, podrá realizarse en dos sesiones distintas, en cuyo caso, cada sesión deberá tener una duración mínima de 24 horas de prácticas, conservando la proporción de horas de formación en régimen de travesía y fuera del mismo, así como el número de guardias que han de realizarse y su ámbito.
 
@@ -487,3 +487,5 @@ El alumno deberá aceptar las normas de la escuela para la impartición de las p
 El alumno deberá participar activamente durante la totalidad de las prácticas, siendo receptivo a la formación.
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/247/10344_30006.png)
+
+> Se modifica el apartado 2.5.2 por el art. 3.14 del Real Decreto 238/2019, de 5 de abril. Ref. BOE-A-2019-6481

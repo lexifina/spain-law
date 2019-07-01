@@ -115,6 +115,7 @@ Titulaciones de la Guardia Civil
 | Titulación | Convalidaciones parciales, de prácticas, habilitaciones, atribuciones complementarias o requisitos específicos |
 | --- | --- |
 | – Marinero y Mecánico-Marinero del Servicio Marítimo de la Guardia Civil. |  |
+| – Buceador Guardia Civil (Especialidad Actividades Subacuáticas). |  |
 
 Titulaciones del Servicio de Vigilancia Aduanera
 
@@ -148,3 +149,5 @@ Titulaciones de la Armada
 | –Tenientes del Cuerpo de Intendencia. (Escala Oficiales). | – Deberán acreditar mediante certificado estudios realizados en ENM. |
 | – Alféreces de Fragata y Alféreces (Militares de Complemento de la Armada). – Excepto los adscritos al Cuerpo General de la Armada. |  |
 | – Cabo de la Armada de la especialidad de Maniobra y Navegación. | – Habilitado vela. |
+
+> Se modifica por el art. 3.12 del Real Decreto 238/2019, de 5 de abril. Ref. BOE-A-2019-6481

@@ -42,13 +42,13 @@ Período de tiempo en el que se realiza cualquiera tipo de acción formativa en 
 
 2.2.1 Los cursos de formación de radio-operador de corto alcance, tendrán una duración mínima de 12 horas, de las cuales, al menos 8 horas se dedicarán a impartir las prácticas del apartado D2, D3 correspondientes al punto 5.2.
 
-2.2.2 Los cursos de formación de radio-operador de corto alcance, se realizarán en régimen de formación académica, pudiendo realizarse en tantas sesiones de formación como la escuela náutica de recreo considere oportunas. El requisito impuesto por el artículo 16.6 en cuanto al número máximo de alumnos será solo de aplicación a las horas de formación práctica específica, en el párrafo de prácticas del apartado D2, D3 correspondientes al punto 5.2.
+2.2.2 Los cursos de formación de radio-operador de corto alcance, se realizarán en régimen de formación académica, pudiendo realizarse en tantas sesiones de formación como la escuela náutica de recreo considere oportunas. El requisito impuesto por el artículo 15.8 en cuanto al número máximo de alumnos será solo de aplicación a las horas de formación práctica específica, en el párrafo de prácticas del apartado D2, D3 correspondientes al punto 5.2.
 
 2.3 Radio-operador de largo alcance.
 
 2.3.1 Los cursos de formación de radio-operador de largo alcance, tendrán una duración mínima de 16 horas, de las cuales, al menos 8 horas se dedicarán a impartir las prácticas del apartado D2, D3 correspondientes al punto 5.3.
 
-2.3.2 Los cursos de formación de radio-operador de largo alcance, se realizarán en régimen de formación académica, pudiendo realizarse en tantas sesiones de formación como la escuela náutica de recreo considere oportunas. El requisito impuesto por el artículo 16.6 en cuanto al número máximo de alumnos será solo de aplicación a las horas de formación práctica específica, en el párrafo de prácticas del apartado D2, D3 correspondientes al punto 5.3.
+2.3.2 Los cursos de formación de radio-operador de largo alcance, se realizarán en régimen de formación académica, pudiendo realizarse en tantas sesiones de formación como la escuela náutica de recreo considere oportunas. El requisito impuesto por el artículo 15.8 en cuanto al número máximo de alumnos será solo de aplicación a las horas de formación práctica específica, en el párrafo de prácticas del apartado D2, D3 correspondientes al punto 5.3.
 
 3. Contenido de los cursos de formación en radiocomunicaciones, de radio-operador de corto alcance y radio-operador de largo alcance.
 
@@ -607,3 +607,5 @@ El alumno deberá aceptar las normas de la escuela para la impartición de los c
 El alumno deberá participar activamente durante la totalidad de los cursos, siendo receptivo a la formación.
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/247/10344_30056.png)
+
+> Se modifican los apartados 2.2.2 y 2.3.2 por el art. 3.15 del Real Decreto 238/2019, de 5 de abril. Ref. BOE-A-2019-6481
