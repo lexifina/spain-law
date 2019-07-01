@@ -1,5 +1,7 @@
-## Disposición final segunda. Entrada en vigor.
+## Disposición final segunda. Tratamiento de datos personales.
 
-La presente Orden entrará en vigor y se aplicará a las declaraciones informativas y los modelos de autoliquidación 100, 200, 220 y 714 cuyo plazo reglamentario de presentación se inicie a partir del día uno de enero de 2014, en el supuesto de los modelos 200 y 220 siempre que la presentación se realice utilizando los modelos de declaración aprobados por la orden ministerial correspondiente para los ejercicios 2013 y siguientes.
+Los datos personales aportados por el obligado tributario en el cumplimiento de sus derechos y obligaciones tributarias serán tratados con la finalidad de la aplicación del sistema tributario y aduanero, siendo responsable del tratamiento de dichos datos la Agencia Estatal de Administración tributaria. Este tratamiento se ajustará al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, y a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales. En la Sede Electrónica de la Agencia Tributaria se facilitará la información que exige el artículo 13 del Reglamento relativa a los posibles tratamientos y el ejercicio de los derechos sobre los mismos.
 
-Respecto al resto de las autoliquidaciones referidas en el apartado 2 del artículo 1 de esta Orden y a los modelos de declaración informativa 038 y 349, la presente Orden entrará en vigor y se aplicará a aquellas cuyo período de liquidación se inicie a partir del 1 de enero de 2014.
+> Téngase en cuenta que esta última actualización de la disposición final segunda, así como la renumeración de la antigua segunda como tercera, establecidas por la disposición final primera de la Orden HAC/554/2019, de 26 de abril. Ref. BOE-A-2019-7346, entra en vigor el 1 de julio de 2019, según determina la disposición final segunda de la citada Orden.
+
+> Se modifica, con efectos de 1 de julio de 2019, por la disposición final 1.1 de la Orden HAC/554/2019, de 26 de abril. Ref. BOE-A-2019-7346
