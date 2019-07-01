@@ -1,0 +1,3 @@
+## Disposición adicional primera. Cláusula del mercado único.
+
+Las mercancías comercializadas legalmente en otro Estado miembro de la Unión Europea o en Turquía, u originarias de un Estado de la Asociación Europea de Libre Comercio signatario del Acuerdo sobre el Espacio Económico Europeo y comercializadas legalmente en él, se consideran conformes con el presente real decreto. La aplicación de este real decreto está sujeta al Reglamento (CE) n.º 764/2008 del Parlamento Europeo y del Consejo, de 9 de julio de 2008, por el que se establecen procedimientos relativos a la aplicación de determinadas normas técnicas nacionales a los productos comercializados legalmente en otro Estado miembro y se deroga la Decisión n.º 3052/95/CE.
