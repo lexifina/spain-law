@@ -1,0 +1,11 @@
+La Ley 13/2011, de 27 de mayo, de regulación del juego, tiene como objeto la regulación de la actividad de juego, en sus distintas modalidades, que se desarrolla con ámbito estatal con, entre otras finalidades, garantizar la protección del orden público y luchar contra el fraude.
+
+En el contexto de estos fines, la corrupción vinculada a la manipulación de las competiciones deportivas y al fraude en las apuestas relacionadas con las mismas, es decir, tanto las apuestas deportivas en sentido estricto como las apuestas hípicas, constituye una de las mayores amenazas que se ciernen sobre el deporte, pues atenta contra sus valores esenciales y aleja de su entorno a aficionados y seguidores.
+
+Este diagnóstico es compartido a nivel internacional. La Comunicación de la Comisión Europea de 23 de octubre de 2012, titulada «Hacia un marco europeo global para los juegos de azar en línea», o la Resolución del Parlamento Europeo, de 14 de marzo de 2013, sobre el amaño de partidos y la corrupción en el deporte, ya ponían de manifiesto, en el marco de la Unión Europea, la gravedad de este problema. A estas iniciativas se ha de sumar el Convenio del Consejo de Europa sobre la manipulación de las competiciones deportivas, aún no ratificado por España, que tiene por finalidad adoptar una respuesta global desde diversos ámbitos que haga frente a esta amenaza.
+
+Dentro de este contexto, se considera necesario establecer, a nivel nacional, un cauce formalizado de diálogo y cooperación entre autoridades públicas, organizaciones deportivas, organizadores de competiciones deportivas y representantes del sector del juego con experiencia en la materia al objeto de prevenir y erradicar la corrupción y la manipulación de las competiciones y las apuestas.
+
+A estos efectos, se crea mediante la presente orden, como órgano colegiado al amparo de lo previsto en el artículo 22.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y adscrito al Ministerio de Hacienda, la Comisión Nacional para combatir la manipulación de las competiciones deportivas y el fraude en las apuestas.
+
+En su virtud, a propuesta de la Ministra de Hacienda, del Ministro del Interior y del Ministro de Cultura y Deporte, con la aprobación previa de la Ministra de Política Territorial y Función Pública, dispongo:
