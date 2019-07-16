@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada por Orden INT/257/2014, de 20 de febrero. Ref. BOE-A-2014-2068.
+La presente Orden se declara nula por Sentencia de la AN de 30 de septiembre de 2015, firme en virtud de Sentencia del TS de 22 de mayo de 2018, que desestimó el recurso de casación, publicada por Orden INT/765/2019, de 24 de junio. Ref. BOE-A-2019-10438
