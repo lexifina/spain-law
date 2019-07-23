@@ -44,8 +44,14 @@ d) Las Vocalías serán ocupadas por las personas que ostenten la Presidencia de
 
 17.º Colegio Oficial de Físicos.
 
+18.º Consejo General de Colegios de Protésicos Dentales.
+
+19.º Unión de Colegios Profesionales de Higienistas Dentales de España.
+
 2. Entre las personas que ostenten las Vocalías, la persona titular del Ministerio de Sanidad, Consumo y Bienestar Social nombrará con carácter rotatorio a las personas que ostenten la Presidencia y la Vicepresidencia. Su mandato lo será por el plazo de dos años.
 
 3. La Secretaría corresponderá a un funcionario/a del Ministerio de Sanidad, Consumo y Bienestar Social, designado por la persona titular del mismo, que actuará con voz pero sin voto.
+
+> Se modifica el apartado 1.d) por el art. único de la Orden SCB/783/2019, de 15 de julio. Ref. BOE-A-2019-10707
 
 > Se modifica por el artículo único de la Orden SCB/104/2019, de 7 de febrero. Ref. BOE-A-2019-1693
