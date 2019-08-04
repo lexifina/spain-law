@@ -8,4 +8,4 @@ a) El capítulo III del anexo de la Decisión 2003/422/CE, de la Comisión, de 2
 
 b) El capítulo III del anexo de la Decisión 2002/106/CE, de la Comisión, de 1 de febrero de 2002, por la que se aprueba un manual de diagnóstico en el que se establecen procedimientos de diagnóstico, métodos de muestreo y criterios de evaluación de las pruebas de laboratorio con fines de confirmación de la peste porcina clásica, en el caso de la peste porcina clásica.
 
-c) El capítulo IX del anexo de la Decisión 2000/428/CE, de la Comisión, de 4 de julio de 2000, por la que se establecen procedimientos de diagnóstico, métodos de muestreo y criterios para la evaluación de los resultados de las pruebas de laboratorio con fines de confirmación y diagnóstico diferencial de la enfermedad vesicular porcina, en el caso de la enfermedad vesicular porcina.
+> Se elimina la letra c) por el art. único.2 de la Orden APA/841/2019, de 23 de julio. Ref. BOE-A-2019-11402
