@@ -1,1 +1,1 @@
-> Incluye la corrección de errores en BOE núm. 170 de 18 de julio de 2006. Ref. BOE-A-2006-12918
+Norma derogada por la disposición derogatoria única de la Orden ICT/851/2019, de 25 de julio. Ref. BOE-A-2019-11573#dd
