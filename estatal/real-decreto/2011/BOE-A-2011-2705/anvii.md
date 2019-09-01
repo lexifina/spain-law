@@ -280,83 +280,73 @@ Zanahoria: 50 gramos.
 
 5. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de septiembre de 2018, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de septiembre de 2019, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV (1):
 
-| Nombre científico | Nombre común | Protocolo |
+| Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Cichorium intybus L. | Achicoria industrial | TP 172/2 de 1.12.2005 |
-| Cichorium intybus L. | Achicoria silvestre | TP 173/1 de 25.3.2004 |
-| Allium sativum L. | Ajo | TP 162/1 de 25.3.2004 |
-| Cynara cardunculus L. | Alcachofa y cardo | TP 184/2 de 27.2.2013 |
-| Apium graveolens L. | Apio | TP 82/1 de 13.3.2008 |
-| Apium graveolens L. | Apionabo | TP 74/1 de 13.3.2008 |
-| Solanum melongena L. | Berenjena | TP 117/1 de 13.3.2008 |
+| Allium cepa L. (grupo cepa). | Cebolla. | TP 46/2 de 1.4.2009. |
+| Allium cepa L. (grupo Aggregatum). | Chalota. | TP 46/2 de 1.4.2009. |
+| Allium fistulosum L. | Cebolleta. | TP 161/1 de 11.3.2010. |
+| Allium porrum L. | Puerros. | TP 85/2 de 1.4.2009. |
+| Allium sativum L. | Ajos. | TP 162/1 de 25.3.2004. |
+| Allium schoenoprasum L. | Cebolletas. | TP 198/2 de 11.3.2015. |
+| Apium graveolens L. | Apio. | TP 82/1 de 13.3.2008. |
+| Apium graveolens L. | Apionabos. | TP 74/1 de 13.3.2008. |
+| Asparagus officinalis L. | Espárragos. | TP 130/2 de 16.2.2011. |
+| Beta vulgaris L. | Remolacha de mesa. | TP 60/1 de 1.4.2009. |
+| Beta vulgaris L. | Acelga. | TP 106/1 de 11.3.2015. |
 | Brassica oleracea L. | Brécol o brócoli. | TP 151/2 rev. de 15.3.2017. |
-| Cucurbita pepo L. | Calabacín | TP 119/1 rev. de 19.3.2014 |
-| Cucurbita máxima Duchesne. | Calabaza | TP 155/1 de 11.3.2015 |
-| Cucurbita maxima x Cucurbita moschata. | Híbridos interespecíficos de Cucurbita maxima Duch. x Cucurbita moschata Duch. destinados a ser utilizados como portainjertos. | TP/311/1 de 15.3.2017. |
-| Valerianella locusta (L.) Laterr. | Canónigo o hierba de los canónigos | TP 75/2 de 21.3.2007 |
-| Allium cepa L. (var. Cepa) | Cebolla | TP 46/2 de 1.04.2009 |
-| Allium cepa L. (var. Aggregatum) | Chalota | TP 46/2 de 1.04.2009 |
-| Alium fistulosum L. | Cebolleta | TP 161/1 de 11.3.2010 |
-| Alium schoenoprasum L. | Cebollino | TP 198/2 de 11.3.2015 |
-| Beta vulgaris L. | Remolacha de mesa | TP 60/1/ de 1.4.2009 |
-| Beta vulgaris L. | Acelga | TP/106/1 de 11.3. 2015 |
-| Brassica napus L. var. napobrassica (L.) Rchb | Colinabo | TP 89/1 de 11.3.2015 |
 | Brassica oleracea L. | Coles de Bruselas. | TP 54/2 rev. de 15.3.2017. |
-| Brassica rapa L. | Col de China | TP 105/1 de 13.3.2008 |
-| Brassica oleracea L. | Col forrajera o berza | TP 90/1 de 16.2.2011 |
-| Brassica oleracea L. | Col de Milán, repollo y lombarda | TP 48/3 rev, de 15.3.2017. |
-| Brassica oleracea L. | Coliflor | TP 45/2 rev. de 15.3.2017. |
+| Brassica oleracea L. | Col forrajera o berza. | TP 90/1 de 16.2.2011. |
+| Brassica oleracea L. | Col de Milán, repollo y lombarda. | TP 48/3 rev. de 15.3.2017. |
+| Brassica oleracea L. | Coliflores. | TP 45/2 rev. 2 de 21.3.2018. |
 | Brassica oleracea L. | Colirrábanos. | TP 65/1 rev. de 15.3.2017. |
-| Cichorium endivia L. | Escarola y endivia | TP 118/3 de 19.3.2014 |
-| Asparagus officinalis L. | Espárrago | TP 130/2 de 16.2.2011 |
-| Spinacia oleracea L. | Espinaca | TP 55/5 rev. 2 de 15.3.2017. |
-| Pisum sativum L. (partim) | Guisante de grano rugoso, guisante de grano liso redondo y guisante cometodo | TP 7/2 rev. 2 de 15.3.2017. |
-| Vicia faba L. (partim) | Haba | TP Broadbean/1 de 25.3.2004 |
-| Foeniculum vulgare Mill. | Hinojo | TP 183/1 de 25.3.2004 |
-| Phaseolus vulgaris L. | Judía de mata baja y judía de enrame | TP 12/4 de 27.02.2013 |
-| Phaseolus coccineus L. | Judía escarlata | TP 9/1 de 21.3.2007 |
-| Lactuca sativa L. | Lechuga | TP 13/5 rev. 2 de 15.3.2017. |
-| Zea mays L. (partim) | Maíz dulce y maíz para palomitas | TP 2/3 de 11.3.2010 |
-| Cucumis melo L. | Melón | TP 104/2 de 21.3.2007 |
-| Cucumis sativus L. | Pepino y pepinillo | TP 61/2 de 13.3.2008 |
-| Petroselinum crispum (Mill.) | Perejil | TP 136/1 de 21.3.2007 |
-| Nyman ex A. W. Hill |  |  |
+| Brassica rapa L. var. pekinensis (Lour.) Kitam. | Col de China. | TP 105/1 de 13.3.2008. |
 | Capsicum annuum L. | Chile o pimiento. | TP 76/2 rev. de 15.3.2017. |
-| Allium porrum L. | Puerro | TP 85/2 de 1.4.2009 |
-| Raphanus sativus L. | Rábano o rabanito y rábano de invierno o rábano negro | TP 64/2 rev. de 11.3.2015 |
-| Citrullus lanatus (Thunb.) Matsum. et Nakai | Sandía | TP 142/2 de 19.3.2014 |
-| Solanum lycopersicum L. x Solanum. Habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum. lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg. | Portainjertos de tomate. | TP 294/1 rev. 2 de 15.3.2017. |
-| Daucus carota L. | Zanahoria de mesa | TP 49/3 de 13.3.2008 |
-| Scorzonera hispanica L. | Escorzonera o salsifí negro | TP 116/1 de 11.3.2015 |
-| Solanum lycopersicum L. | Tomate | TP 44/rev.2. de 19.4.2016 |
-| Rheumrha barbarum L. | Ruibarbo | TP 62/1 de 19.4.2016 |
-
-(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+| Cichorium endivia L. | Escarola y endibia. | TP 118/3 de 19.3.2014. |
+| Cichorium intybus L. | Achicoria industrial. | TP 172/2 de 1.12.2005. |
+| Cichorium intybus L. | Achicoria silvestre. | TP 173/2 de 21.3.2018. |
+| Cichorium intybus L. | Achicoria común o italiana. | TP 154/1 de 21.3.2018. |
+| Citrullus lanatus (Thunb.) Matsum. et Nakai. | Sandía. | TP 142/2 de 19.3.2014. |
+| Cucumis melo L. | Melón. | TP 104/2 de 21.3.2007. |
+| Cucumis sativus L. | Pepino y pepinillo. | TP 61/2 rev. de 21.3.2018. |
+| Cucurbita maxima Duchesne. | Calabaza. | TP 155/1 de 11.3.2015. |
+| Cucurbita maxima Duchesne × Cucurbita moschata Duchesne. | Híbridos interespecíficos de Cucurbita maxima Duchesne × Cucurbita moschata Duchesne destinados a ser utilizados como portainjertos. | TP 311/1 de 15.3.2017. |
+| Cucurbita pepo L. | Calabacín. | TP 119/1 rev. de 19.3.2014. |
+| Cynara cardunculus L. | Alcachofa y cardo. | TP 184/2 de 27.2.2013. |
+| Daucus carota L. | Zanahoria de mesa y zanahoria forrajera. | TP 49/3 de 13.3.2008. |
+| Foeniculum vulgare Mill. | Hinojo. | TP 183/1 de 25.3.2004. |
+| Lactuca sativa L. | Lechuga. | TP 13/6 de 21.3.2018. |
+| Petroselinum crispum (Mill.) Nyman ex A. W. Hill. | Perejil. | TP 136/1 de 21.3.2007. |
+| Phaseolus coccineus L. | Judía escarlata. | TP 009/1 de 21.03.2007. |
+| Phaseolus vulgaris L. | Judía de mata baja y judía de enrame. | TP 12/4 de 27.2.2013. |
+| Pisum sativum L. (partim). | Guisante de grano rugoso, guisante de grano liso redondo y guisante cometodo. | TP 7/2 rev. 2 de 15.3.2017. |
+| Raphanus sativus L. | Rábano o rabanito y rábano de invierno o rábano negro. | TP 64/2 rev. de 11.3.2015. |
+| Rheum rhabarbarum L. | Ruibarbos. | TP 62/1 de 19.4.2016. |
+| Scorzonera hispanica L. | Escorzonera o salsifí negro. | TP 116/1 de 11.3.2015. |
+| Solanum habrochaites S. Knapp et D.M. Spooner; Solanum lycopersicum L. × Solanum habrochaites S. Knapp et D.M. Spooner; Solanum lycopersicum L. × Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. × Solanum cheesmaniae (L. Ridley) Fosberg; Solanum pimpinellifolium L. × Solanum habrochaites S. Knapp et D. M. Spooner. | Portainjertos de tomate. | TP 294/1 rev. 3 de 21.3.2018. |
+| Solanum lycopersicum L. | Tomate. | TP 44/4 rev. 3 de 21.3.2018. |
+| Solanum melongena L. | Berenjena. | TP 117/1 de 13.3.2008. |
+| Spinacia oleracea L. | Espinaca. | TP 55/5 rev. 2 de 15.3.2017. |
+| Valerianella locusta (L.) Laterr. | Canónigo o hierba de los canónigos. | TP 75/2 de 21.3.2007. |
+| Vicia faba L. (partim). | Haba. | TP Broadbean/1 de 25.3.2004. |
+| Zea mays L. (partim). | Maíz dulce y maíz para palomitas. | TP 02/3 de 11.03.2010. |
 
 Especies que cumplen con las directrices de examen de la UPOV (2):
 
-| Nombre científico | Nombre común | Protocolo |
+| Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Brassica rapa L. | Nabo | TG/37/10 de 4.4.2001 |
-| Cichorium intybus L. | Achicoria común o italiana. | TG/154/4 de 5.4.2017. |
-| Duchesne |  | + 1.4.2009 |
-| Raphanus sativus L. | Rábano de invierno o rábano negro | TG/63/6 de 24.3.1999 |
-| Rheum rhabarbum L. | Ruibarbo | TG/62/6 de 24.3.1999 |
-| Solanum lycopersicum L. | Portainjertos de tomate. | TG/294/1 de 20.3.2013 |
-| X Solanum habrochaites S. |  |  |
-| Knapp et D.M. Spooner. |  |  |
-| Solanum lycopersicum L. |  |  |
-| x Solanum peruvianum L. Mill. |  |  |
-| Solanum lycopersicum L. x |  |  |
-| Solanum cheesmaniae (L. Ridley) |  |  |
-| Fosberg |  |  |
-| Cucurbita maxima x Cucurbita Moschata. | Híbridos interespecíficos de Cucurbita maxima Duch. x Cucurbita moschata Duch. destinados a ser utilizados como portainjertos. | TG/311/1 de 25.3.2015 |
+| Brassica rapa L. var. rapa L. | Nabo. | TG/37/10 de 4.4.2001. |
 
-(2) El texto de estos protocolos puede consultarse en la web de la UPOV (www.upov.int).
+(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+
+(2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Téngase en cuenta que la modificación del apartado 5, efectuada por el art. único.7 de la Orden APA/775/2019, de 2 de julio. Ref. BOE-A-2019-10539 entra en vigor el 1 de septiembre de 2019, según establece su disposición final 2.
+
+> Se modifica el apartado 5, con efectos de 1 de septiembre de 2019, por el art. único.7 de la Orden APA/775/2019, de 2 de julio. Ref. BOE-A-2019-10539
 
 > Se modifica el apartado 5 por el art. único.5 de la Orden APA/894/2018, de 23 de agosto. Ref. BOE-A-2018-11904
 

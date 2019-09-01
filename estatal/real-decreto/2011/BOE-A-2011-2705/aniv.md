@@ -130,51 +130,43 @@ Variedades cespitosas: la finura de las hojas, densidad del césped, persistenci
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de septiembre de 2018, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de septiembre de 2019, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV (1):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Festuca rubra L. | Festuca roja | TP 67/1/ de 23.6.2011. |
 | Festuca arundinacea Schreb. | Festuca alta. | TP 39/1 de 1.10.2015. |
 | Festuca pratensis Huds. | Festuca pratense. | TP 39/1 de 1.10.2015. |
-| Lolium multiflorum Lam. | Ray grass Italiano | TP 4/1 de 23.6.2011. |
-| Lolium perenne L. | Ray-grass Inglés | TP 4/1 de 23.6.2011. |
-| Lolium x boucheanum Kunth | Ray-grass híbrido | TP 4/1 de 23.6.2011. |
-| Pisum sativum L. | Guisante forrajero | TP 7/2 rev. 2 de 15.3.2017. |
+| Festuca rubra L. | Festuca roja. | TP 67/1 de 23.6.2011. |
+| Lolium × hybridum Hausskn. | Ray-grass híbrido. | TP 4/1 de 23.6.2011. |
+| Lolium multiflorum Lam. | Ballico de Italia. | TP 4/1 de 23.6.2011. |
+| Lolium perenne L. | Ray-grass inglés. | TP 4/1 de 23.6.2011. |
+| Pisum sativum L. (partim) | Guisante forrajero. | TP 7/2 rev. 2 de 15.3.2017. |
 | Poa pratensis L. | Poa de los prados. | TP 33/1 de 15.3.2017. |
 | Vicia sativa L. | Veza común. | TP 32/1 de 19.4.2016. |
-
-(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
 Especies que cumplen con las directrices de examen de la UPOV (2):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Agróstis estolonifera L. | Agrostis estolonifera o rastrera | TG/30/6 de 12.10.1990 |
-| Agróstis capillaris L. | Agrostis tenue o común | TG/30/6 de 12.10.1990 |
-| Medicago sativa L. | Alfalfa | TG/6/5 de 6.4.2005 |
-| Lupinus albus L. | Altramuz blanco | TG/66/4 de 31.3.2004 |
-| Lupinus luteus L. | Altramuz amarillo | TG/66/4 de 31.3.2004 |
-| Lupinus angustifolius L. | Altramuz azul | TG/66/4 de 31.3.2004 |
-| Dactylis glomerata L. | Dactilo | TG/31/8 de 17.4.2002 |
-| Festuca arundinacea Schreber | Festuca alta | TG/39/8 de 17.4.2002 |
-| Festuca pratensis Huds. | Festuca pratense | TG/39/8 de 17.4.2002 |
-| Festuca rubra L. | Festuca roja | TG/67/5 de 5.4.2006 |
-| Poa pratensis L. | Poa de los prados | TG/33/7 de 9.4.2014 |
-| Lolium multiflorum Lam. | Ray grass Italiano | TG/4/8 de 5.4.2006 |
-| Lolium perenne | Ray-grass Inglés | TG/4/8 de 5.4.2006 |
-| Lolium x boucheanum Kunth | Ray-grass híbrido | TG/4/8 de 5.4.2006 |
-| Trifolium pratense L. | Trébol violeta | TG/5/7 de 4.4.2001 |
-| Trifolium repens L. | Trébol blanco | TG/38/7 de 9.4.2003 |
-| Trifolium subterrameum L. | Trébol subterráneo | TG/170/3 de 4.4.2001 |
-| Vicia faba L. | Haba forrajera | TG/8/6 de 17.4.2002 |
-| Vicia sativa L. | Veza común | TG/32/7 de 20.3.2013 |
-| Cicer arietinum L. | Garbanzo | TG/143/4 de 6.04.2005 |
-| Lens culinaris medik | Lenteja | TG/21/01 de 9.04.2003 |
+| Agrostis capillaris L. | Agróstide común. | TG/30/6 de 12.10.1990. |
+| Agrostis stolonifera L. | Agróstide estolonífera. | TG/30/6 de 12.10.1990. |
+| Dactylis glomerata L. | Dáctilo. | TG/31/8 de 17.4.2002. |
+| Lupinus albus L. | Altramuz blanco. | TG/66/4 de 31.3.2004. |
+| Lupinus angustifolius L. | Altramuz azul. | TG/66/4 de 31.3.2004. |
+| Lupinus luteus L. | Altramuz amarillo. | TG/66/4 de 31.3.2004. |
+| Medicago sativa L. | Alfalfa; mielga. | TG/6/5 de 6.4.2005. |
+| Trifolium pratense L. | Trébol violeta. | TG/5/7 de 4.4.2001. |
+| Trifolium repens L. | Trébol blanco. | TG/38/7 de 9.4.2003. |
+
+(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
 (2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Téngase en cuenta que la modificación del apartado 6, efectuada por el art. único.4 de la Orden APA/775/2019, de 2 de julio. Ref. BOE-A-2019-10539 entra en vigor el 1 de septiembre de 2019, según establece su disposición final 2.
+
+> Se modifica el apartado 6, con efectos de 1 de septiembre de 2019, por el art. único.4 de la Orden APA/775/2019, de 2 de julio. Ref. BOE-A-2019-10539
 
 > Se modifica el apartado 6 por el art. único.2 de la Orden APA/894/2018, de 23 de agosto. Ref. BOE-A-2018-11904
 

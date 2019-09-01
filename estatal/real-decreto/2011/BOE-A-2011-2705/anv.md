@@ -148,31 +148,33 @@ Las variedades de Cáñamo que superen el 0,2 por ciento de contenido en THC no 
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de septiembre de 2018, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de septiembre de 2019, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV (1):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Cannabis sativa L. | Cáñamo. | TP 276/1 de 28.11.2012 |
-| Brassica napus L. | Colza. | TP 36/2 de 16.11.2011 |
-| Gossypium spp. | Algodón. | TP 88/1 de 19.4.2016 |
-| Helianthus annus L. | Girasol. | TP 81/1 de 31.10.2002 |
-| Linum usitatissimum L. | Lino. | TP 57/2 de 19.3.2014 |
-| Glycine max (L.) Merr. | Soja. | TP 80/1 de 15.3.2017. |
+| Brassica napus L. (partim). | Colza. | TP 36/2 de 16.11.2011. |
+| Cannabis sativa L. | Cáñamo. | TP 276/1 rev. parcial de 21.3.2018. |
+| Glycine max (L.) Merrill. | Habas de soja. | TP 80/1 de 15.3.2017. |
+| Gossypium spp. | Algodón. | TP 88/1 de 19.4.2016. |
+| Helianthus annuus L. | Girasol. | TP 81/1 de 31.10.2002. |
+| Linum usitatissimum L. | Lino. | TP 57/2 de 19.3.2014. |
 
-(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
-
-Especies que cumplen con los protocolos de examen de la UPOV (2):
+Especies que cumplen con las directrices de examen de la UPOV (2):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Papaver somniferum L. | Adormidera. | TG/166/4 de 9.4.2014 |
-| Carthamus tinctorius L. | Cártamo o Alazor. | TG/134/3 de 12.10.1990 |
-| Gossypium spp. | Algodón. | TG/88/6 de 4.4.2001 |
-| Glycine max L. Merrill | Soja. | TG/80/6 de 1.4.1998 |
+| Carthamus tinctorius L. | Cártamo. | TG/134/3 de 12.10.1990. |
+| Papaver somniferum L. | Adormidera. | TG/166/4 de 9.4.2014. |
+
+(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
 (2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Téngase en cuenta que la modificación del apartado 6, efectuada por el art. único.5 de la Orden APA/775/2019, de 2 de julio. Ref. BOE-A-2019-10539 entra en vigor el 1 de septiembre de 2019, según establece su disposición final 2.
+
+> Se modifica el apartado 6, con efectos de 1 de septiembre de 2019, por el art. único. 5 de la Orden APA/775/2019, de 2 de julio. Ref. BOE-A-2019-10539
 
 > Se modifica el apartado 6 por el art. único.3 de la Orden APA/894/2018, de 23 de agosto. Ref. BOE-A-2018-11904
 
