@@ -1,5 +1,7 @@
 ## ANEXO I
 
+> Téngase en cuenta que la modificación de este anexo I establecida por el art. único.1 de la Orden APA/778/2019, de 12 de julio. Ref. BOE-A-2019-10596 entra en vigor el 1 de septiembre de 2019, según determina su disposición final 2.
+
 PARTE A
 
 ## ORGANISMOS NOCIVOS CUYA INTRODUCCIÓN Y PROPAGACIÓN DEBEN PROHIBIRSE EN TODOS LOS ESTADOS MIEMBROS
@@ -25,6 +27,8 @@ a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 4. Anoplophora chinensis (Thomson)
 
 4.1. Anoplophora glabripennis (Motschulsky).
+
+4.2. Aromia bungii (Faldermann).
 
 5. (Suprimido).
 
@@ -72,6 +76,8 @@ c) Graphocephala atropunctata (Signoret)
 
 10.5. Diaphorina citri Kuway
 
+10.6. Grapholita packardi Zeller.
+
 11. Heliothis zea (Boddie)
 
 11.1. Hirschmanniella spp., distinta de Hirschmanniella gracilis (de Man) Luc & Goodey
@@ -89,6 +95,10 @@ c) Graphocephala atropunctata (Signoret)
 16. Nacobbus aberraos (Thorne) Thorne et Allen
 
 16.1. Naupactus leucoloma Boheman
+
+16.2. Neoleucinodes elegantalis (Guenée).
+
+16.3 Oemona hirta (Fabricius).
 
 17. Premnotrypes spp. (especies no europeas)
 
@@ -181,6 +191,12 @@ c) Hongos
 2. Chrysomyxa arctostaphylí Dietel
 
 3. Cronartium spp. (especies no europeas)
+
+3.1 Elsinoë australis Bitanc. & Jenk.
+
+3.2 Elsinoë citricola X.L. Fan, R.W. Barreto & Crous.
+
+3.3 Elsinoë australis Bitanc. & Jenk.
 
 4. Endocronartium spp. (especies no europeas)
 
@@ -308,6 +324,8 @@ a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 
 7. Opogona sacchari (Bojer)
 
+7.1. Pityophthorus juglandis Blackman.
+
 8. Popillia japonica Newman
 
 8.1. Rhizoecus hibisci Kawai & Takagi
@@ -325,6 +343,12 @@ b) Bacterias
 3. Xylella fastidiosa (Wells et al.).
 
 c) Hongos
+
+0.1. Ceratocystis platani (J. M. Walter) Engelbr. & T. C. Harr.
+
+0.2 Fusarium circinatum Nirenberg & O’Donnell.
+
+0.3 Geosmithia morbida Kolarík, Freeland, Utley & Tisserat.
 
 1. Melampsora medusae Thümen
 
@@ -348,21 +372,25 @@ a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 
 | Especies | Zonas protegidas |
 | --- | --- |
-| 1. Bemisia tabaci Genn. (Poblaciones europeas). | IRL, P (Azores, Beira Interior, Beira Litoral, Entre Douro e Minho y Trás-os-Montes), FI, S, UK. |
+| 1. Bemisia tabaci Genn. (Poblaciones europeas). | IRL, P (Azores, Beira Interior, Beira Litoral, Entre Douro e Minho y Trás-os-Montes), S, UK. |
 | 1.1. Daktulosphaira vitifoliae (Fitch) | CY |
 | 1.2 Dryocosmus kuriphilus Yasumatsu | IRL, UK. |
 | 2. Globodera pallida (Stone) Behrens | FI, LV, P (Azores), SI, SK. |
 | 2.1 Globodera rostochiensis (Wollenweber) Behrens | P (Azores). |
 | 3. Leptinotarsa decemlineata Say. | E (Ibiza y Menorca), IRL, CY, M, P (Azores y Madeira), UK, S (los distritos de Blekinge, Gotland, Halland, Kalmar y Skåne), FI (los distritos de Åland, Häme, Kymi, Pirkanmaa, Satakunta, Turku y Uusimaa). |
 | 4. Liriomyza bryoniae (Kaltenbach). | IRL y UK (Irlanda del Norte). |
-| 5. Thaumetopoea processionea L. | IRL, UK (excepto las entidades locales de Barnet; Brent; Bromley; Camden; City of London; City of Westminster; Croydon; Ealing; Elmbridge District; Epsom and Ewell District; Guildford; Hackney; Hammersmith & Fulham; Haringey; Harrow; Hillingdon; Hounslow; Islington; Kensington & Chelsea; Kingston upon Thames; Lambeth; Lewisham; Merton; Reading; Richmond upon Thames; Runnymede District; Slough; South Oxfordshire; Southwark; Spelthorne District; Sutton; Tower Hamlets; Wandsworth; West Berkshire and Woking). |
+| 4.1. Liriomyza huidobrensis (Blanchard) | IRL, UK (Irlanda del Norte) |
+| 4.2 Liriomyza trifolii (Burgess) | IRL, UK (Irlanda del Norte) |
+| 5. Thaumetopoea processionea L. | IRL, UK (excepto las entidades locales de Barking and Dagenham; Barnet; Basildon; Basingstoke and Deane; Bexley; Bracknell Forest; Brent; Brentwood; Bromley; Broxbourne; Camden; Castle Point; Chelmsford; Chiltem; City of London; City of Westminster; Crawley; Croydon; Dacorum; Dartford; Ealing; East Hertfordshire; Elmbridge District; Enfield; Epping Forest; Epsom and Ewell District; Gravesham; Greenwich; Guildford; Hackney; Hammersmith & Fulham; Haringey; Harlow; Harrow; Hart; Havering; Hertsmere; Hillingdon; Horsham; Hounslow; Islington; Kensington & Chelsea; Kingston upon Thames; Lambeth; Lewisham; Littlesford; Medway; Merton; Mid Sussex; Mole Valley; Newham; North Hertfordshire; Reading; Redbridge; Reigate and Banstead; Richmond upon Thames; Runnymede District; Rushmoor; Sevenoaks; Slough; South Bedfordshire; South Bucks; South Oxfordshire; Southwark; Spelthorne District; St. Albans; Sutton; Surrey Heath; Tandridge; Three Rivers; Thurrock; Tonbridge and Malling; Tower Hamlets; Waltham Forest; Wandsworth; Watford; Waverley; Welwyn Hatfield; West Berkshire; Windsor and Maidenhead; Woking, Wokingham y Wycombe). |
 
 b) Virus y organismos afines
 
 | Especies | Zonas protegidas |
 | --- | --- |
-| 1. Beet necrotic yellow vein virus. | F (Bretaña), FIN, IRL, P (Azores), UK (Irlanda del Norte).». |
-| 2. Tomato spotted wilt virus. | S |
+| 1. Beet necrotic yellow vein virus. | F (Bretaña), FIN, IRL, P (Azores), UK (Irlanda del Norte). |
+| 2. (Suprimido). |  |
+
+> Se modifica, con efectos de 1 de septiembre de 2019, por el art. único.1 de la Orden APA/778/2019, de 12 de julio. Ref. BOE-A-2019-10596
 
 > Se modifica por el art. único.1 de la Orden APM/1211/2017, de 4 de diciembre. Ref. BOE-A-2017-14565
 

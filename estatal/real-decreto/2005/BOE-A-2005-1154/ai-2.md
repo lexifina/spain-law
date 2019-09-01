@@ -1,5 +1,7 @@
 ## ANEXO II
 
+> Téngase en cuenta que la modificación de este anexo II establecida por el art. único.2 de la Orden APA/778/2019, de 12 de julio. Ref. BOE-A-2019-10596 entra en vigor el 1 de septiembre de 2019, según determina su disposición final 2.
+
 PARTE A
 
 ## ORGANISMOS NOCIVOS CUYA INTRODUCCION Y PROPAGACION DEBEN PROHIBIRSE EN TODOS LOS ESTADOS MIEMBROS, SI SE PRESENTAN EN DETERMINADOS VEGETALES O PRODUCTOS VEGETALES
@@ -23,7 +25,7 @@ a) Insectos, ácaros y nematodos en todas las fases de su desarrollo
 | 8. (Suprimido). |  |
 | 9. Carposina niponensis Walsingham | Vegetales de Cydonia Mill., Malus Mill., Prunus L. y Pyrus L., excepto las semillas, originarios de países no europeos |
 | 10. (Suprimido). |  |
-| 11. Enarmonia packardi (Zeller). | Vegetales de Cydonia Mill., Malus Mill., Prunus L. y Pyrus L., excepto las semillas, originarios de países no europeos. |
+| 11. (Suprimido). |  |
 | 12. Enarmonia prunivora Walsh | Vegetales de Crataegus L., Malus Mill., Photinia Ldl., Prunus L. y Rosa L., para la plantación, excepto las semillas y frutos de Malus Mill. y Prunus L., originarios de países no europeos |
 | 13. Eotetranychus lewisi McGregor | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto los frutos y semillas |
 | 15. Grapholita inopinata Heinrich | Vegetales de Cydonia Mill., Malus Mill., Prunus L. y Pyrus L., excepto las semillas, originarios de países no europeos |
@@ -69,7 +71,7 @@ c) Hongos
 | 6. Cercospora angolensis Carv. et Mendes | Vegetales de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto las semillas |
 | 7. (Suprimido). |  |
 | 8. Diaporthe vaccina Shaer | Vegetales de Vaccinium spp., destinados a la plantación, excepto las semillas |
-| 9. Elsinoe spp. Bitanc. et Jenk. Mendes | Vegetales de Fortunella Swingle, Poncirus Raf., y sus híbridos, excepto los frutos y semillas, y vegetales de Citrus L. y sus híbridos, excepto las semillas y los frutos a excepción de los frutos de Citrus reticulata Blanco y de Citrus sinensis (L.) Osbeck originarios de América del Sur |
+| 9. (Suprimido). |  |
 | 10. Fusarium oxysporum f. sp. aibedinis (Kilian et Maire) Gordon | Vegetales de Phoenix spp., excepto los frutos y semillas |
 | 11. (Suprimido). |  |
 | 12. Guignardia piricola (Nosa) Yamamoto | Vegetales de Cydonia Mill., Malus Mill., Prunus L. y Pyrus L., excepto las semillas, originarios de países no europeos |
@@ -141,7 +143,7 @@ c) Hongos
 
 | Especies | Objeto de contaminación |
 | --- | --- |
-| 1. Ceratocystis platani (J. M. Walter) Engelbr. & T. C. Harr. | Vegetales de Platanus L., destinados a la plantación, excepto las semillas, y madera de Platanus L., incluida la madera que no conserva su superficie redondeada natural |
+| 1. (Suprimido). |  |
 | 2. (Suprimido). |  |
 | 3. Cryphonectria parasitica (Murrill) Barr | Vegetales de Castanea Mill. y Quercus L., destinados a la plantación, excepto las semillas. |
 | 4. Didymella ligulicola (Baker, Dimock et Davis) v. Arx | Vegetales de Dendranthema (DC.) Des Moul., destinados a la plantación, excepto las semillas |
@@ -197,14 +199,14 @@ a) Insectos, ácaros y nematodos, en todas las fases de su desarrollo
 | 6.1 Paysandisia archon (Burmeister). | Vegetales de Palmae, destinados a la plantación, con un diámetro del tallo en la base superior a 5 cm, y pertenecientes a los géneros siguientes: Brahea Mart., Butia Becc., Chamaerops L., Jubaea Kunth, Livistona R. Br., Phoenix L., Sabal Adans., Syagrus Mart., Trachycarpus H. Wendl., Trithrinax Mart. y Washingtonia Raf. | IRL, MT, UK. |
 | 6.2 Rhynchophorus ferrugineus (Olivier). | Vegetales de Palmae, destinados a la plantación, con un diámetro del tallo en la base superior a 5 cm, y pertenecientes a los taxones siguientes: Areca catechu L., Arenga pinnata (Wurmb) Merr., Bismarckia Hildebr. & H. Wendl., Borassus flabellifer L., Brahea armata S. Watson, Brahea edulis H. Wendl., Butia capitata (Mart.) Becc., Calamus merrillii Becc., Caryota maxima Blume, Caryota cumingii Lodd. ex Mart., Chamaerops humilis L., Cocos nucifera L., Copernicia Mart., Corypha utan Lam., Elaeis guineensis Jacq., Howea forsteriana Becc., Jubaea chilensis (Molina) Baill., Livistona australis C. Martius, Livistona decora (W. Bull) Dowe, Livistona rotundifolia (Lam.) Mart., Metroxylon sagu Rottb., Phoenix canariensis Chabaud, Phoenix dactylifera L., Phoenix reclinata Jacq., Phoenix roebelenii O’Brien, Phoenix sylvestris (L.) Roxb., Phoenix theophrasti Greuter, Pritchardia Seem. & H. Wendl., Ravenea rivularis Jum. & H. Perrier, Roystonea regia (Kunth) O. F. Cook, Sabal palmetto (Walter) Lodd. ex Schult. & Schult. f., Syagrus romanzoffiana (Cham.) Glassman, Trachycarpus fortunei (Hook.) H. Wendl. y Washingtonia Raf. | IRL, P (Azores), UK. |
 | 9. Sternochetus mangiferae Fabricius | Semillas de Mangífera spp. originarias de terceros países | E (Granada y Málaga), P (Alentejo, Algarve y Madeira) |
-| 10. Thaumetopoea pityocampa Denis & Schiffermüller. | Vegetales de Pinus L., destinados a la plantación, excepto los frutos y semillas | UK. |
+| 10. Thaumetopoea pityocampa Denis & Schiffermüller. | Vegetales de Cedrus Trew y Pinus L., destinados a la plantación, excepto los frutos y semillas. | UK. |
 
 b) Bacterias
 
 | Especies | Objeto de contaminación | Zonas protegidas |
 | --- | --- | --- |
 | 1. Curtobacterium flaccumfaciens pv. flaccumfaciens (Hedges) Collins et Jones | Semillas de Phaseolus vulgaris L. y Dolichos Jacq. | EL, E |
-| 2. Erwinia amylovora (Burr.) Winsl. et al. | Partes de vegetales, distintos los frutos, semillas y de los destinados a ser plantados, pero con inclusión del polen activo para polinización de Amelanchier Med, Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne) Cardot, Pyracantha Roem., Pyrus L.y Sorbus L. | E [excepto las Comunidades Autónomas de Andalucía, Aragón, Castilla-La Mancha, Castilla y León, Extremadura, Madrid, Murcia, Navarra y La Rioja, la provincia de Guipúzcoa (País Vasco), las comarcas de Garrigues, Noguera, Pla d’Urgell, Segrià y Urgell, de la provincia de Lleida (Comunidad Autónoma de Cataluña), las comarcas de l’Alt Vinalopó y el Vinalopó Mitjà, de la provincia de Alicante, y los municipios de Alborache y Turís, de la provincia de Valencia (Comunidad Valenciana)], EE, F (Córcega), IRL (excepto la ciudad de Galway), I [Abruzos, Apulia, Basilicata, Calabria, Campania, Emilia-Romaña (provincias de Parma y Piacenza), Lacio, Liguria, Lombardía (excepto las provincias de Mantua, Milano, Sondrio y Varese), Las Marcas, Molise, Piamonte (excepto los municipios de Busca, Centallo y Tarantasca en la provincia de Cuneo), Cerdeña, Sicilia, Toscana, Umbría, Valle de Aosta, Véneto (excepto las provincias de Rovigo y Venecia, los municipios de Barbona, Boara Pisani, Castelbaldo, Masi, Piacenza d’Adige, S. Urbano y Vescovana en la provincia de Padua y la zona situada al sur de la autopista A 4 en la provincia de Verona)], LV, LT [excepto los municipios de Babtai y Kėdainiai (región de Kaunas)], P, SI [excepto las regiones de Gorenjska, Koroška, Maribor y Notranjska, y los municipios de Lendava y Renče-Vogrsko (al sur de la autopista H4)], SK [excepto el distrito de Dunajská Streda, Hronovce y Hronské Kľačany (distrito de Levice), Dvory nad Žitavou (distrito de Nové Zámky), Málinec (distrito de Poltár), Hrhov (distrito de Rožňava), Veľké Ripňany (distrito de Topoľčany), Kazimír, Luhyňa, Malý Horeš, Svätuše y Zatín (distrito de Trebišov)], FI, UK (Irlanda del Norte, excepto los distritos de Ballinran Upper, Carrigenagh Upper, Ballinran y Carrigenagh en el condado de Down, y la circunscripción electoral de Dunmurry Cross en Belfast, condado de Antrim; Isla de Man e Islas del Canal). |
+| 2. Erwinia amylovora (Burr.) Winsl. et al. | Partes de vegetales, distintos los frutos, semillas y de los destinados a ser plantados, pero con inclusión del polen activo para polinización de Amelanchier Med, Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne) Cardot, Pyracantha Roem., Pyrus L.y Sorbus L. | E [excepto las comunidades autónomas de Andalucía, Aragón, Castilla-La Mancha, Castilla y León, Extremadura, Madrid, Murcia, Navarra y La Rioja, la provincia de Gipuzkoa (País Vasco), las comarcas de Garrigues, Noguera, Pla d’Urgell, Segrià y Urgell, de la provincia de Lleida (comunidad autónoma de Cataluña), las comarcas de l’Alt Vinalopó y el Vinalopó Mitjà, de la provincia de Alicante, y los municipios de Alborache y Turís, de la provincia de Valencia (Comunidad Valenciana)], EE, F (Córcega), IRL (excepto la ciudad de Galway), I [Abruzos, Apulia, Basilicata, Calabria, Campania, Lacio, Liguria, Lombardía (excepto las provincias de Mantua, Milano, Sondrio y Varese, y los municipios de Bovisio Masciago, Cesano Maderno, Desio, Limbiate, Nova Milanese y Varedo, de la provincia de Monza y Brianza), Las Marcas, Molise, Piamonte (excepto los municipios de Busca, Centallo, Scarnafigi, Tarantasca y Villafalletto, de la provincia de Cuneo), Cerdeña, Sicilia [excepto los municipios de Cesarò (provincia de Messina), Maniace, Bronte, Adrano (provincia de Catania) y Centuripe, Regalbuto y Troina (provincia de Enna)], Toscana, Umbría, Valle de Aosta, Véneto (excepto las provincias de Rovigo y Venecia, los municipios de Barbona, Boara Pisani, Castelbaldo, Masi, Piacenza d’Adige, S. Urbano y Vescovana en la provincia de Padua y la zona situada al sur de la autopista A 4 en la provincia de Verona)], LV, LT [excepto los municipios de Babtai y Kėdainiai (región de Kaunas)], P, SI [excepto las regiones de Gorenjska, Koroška, Maribor y Notranjska, los municipios de Lendava, Renče-Vogrsko (al sur de la autopista H4) y Velika Polana, y los pueblos de Fużina, Gabrovčec, Glogovica, Gorenja vas, Gradiček, Grintovec, Ivančna Gorica, Krka, Krška vas, Male Lese, Malo Črnelo, Malo Globoko, Marinča vas, Mleščevo, Mrzlo Polje, Muljava, Podbukovje, Potok pri Muljavi, Šentvid pri Stični, Škrjanče, Trebnja Gorica, Velike Lese, Veliko Črnelo, Veliko Globoko, Vir pri Stični, Vrhpolje pri Šentvidu, Zagradec y Znojile pri Krki, en el municipio de Ivančna Gorica], SK [excepto el distrito de Dunajská Streda, Hronovce y Hronské Kľačany (distrito de Levice), Dvory nad Žitavou (distrito de Nové Zámky), Málinec (distrito de Poltár), Hrhov (distrito de Rožňava), Veľké Ripňany (distrito de Topoľčany), Kazimír, Luhyňa, Malý Horeš, Svätuše y Zatín (distrito de Trebišov)], FI y UK (Isla de Man e Islas del Canal). |
 | 3. Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. | Vegetales de Prunus L., destinados a la plantación, excepto las semillas | UK. |
 
 c) Hongos
@@ -212,9 +214,9 @@ c) Hongos
 | Especies | Objeto de contaminación | Zonas protegidas |
 | --- | --- | --- |
 | 0.0.1. Ceratocystis platani (J. M. Walter) Engelbr. & T. C. Harr. | Vegetales de Platanus L., destinados a la plantación, excepto las semillas, y madera de Platanus L., incluida la madera que no conserva su superficie redondeada natural | IRL, UK |
-| 0.1. Cryphonectria parasitica (Murrill) Barr. | Madera, excluida la madera que ha sido descortezada, la corteza aislada y los vegetales destinados a la plantación de Castanea Mill. | CZ, IRL, S, UK |
+| 0.1 Cryphonectria parasitica (Murrill.) Barr | Madera (excluida la madera que ha sido descortezada), la corteza aislada y los vegetales destinados a la plantación de Castanea Mill. y los vegetales destinados a la plantación, excluidas las semillas, de Quercus L. | CZ, IRL, S y UK |
 | 1. Glomerella gossypii Edgerton | Semillas y frutos (cápsulas) de Gossypium spp. | EL |
-| 2. Gremmeniella abietina (Lag.) Morelet | Vegetales de Abies Mill., Larix Mill., Picea A. Dietr., Pinus L., Pseudotsuga Carr., destinados a la plantación, excepto las semillas | IRL, UK (Irlanda del Norte) |
+| 2. Gremmeniella abietina (Lag.) Morelet | Vegetales de Abies Mill., Larix Mill., Picea A. Dietr., Pinus L., Pseudotsuga Carr., destinados a la plantación, excepto las semillas | IRL |
 | 3. Hypoxylon mammatum (Wahl.) J. Miller | Vegetales de Populus L., destinados a la plantación, excepto las semillas | IRL, UK (Irlanda del Norte) |
 
 d) Virus y organismos similares
@@ -222,8 +224,10 @@ d) Virus y organismos similares
 | Especies | Objeto de contaminación | Zonas protegidas |
 | --- | --- | --- |
 | 01. Candidatus Phytoplasma ulmi. | Vegetales de Ulmus L., destinados a la plantación, excepto las semillas | UK. |
-| 1. Citrus tristeza virus (cepas europeas) | Frutos de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, con hojas y pedúnculos | EL (excepto las unidades periféricas de Argólida y La Canea), M, P (excepto Algarve, Madeira y el condado de Odemira en Alentejo). |
+| 1. Citrus tristeza virus (cepas europeas) | Frutos de Citrus L., Fortunella Swingle, Poncirus Raf., y sus híbridos, con hojas y pedúnculos | EL (excepto las unidades periféricas de Argólida, Arta, La Canea y Laconia), M, P (excepto Algarve, Madeira y el condado de Odemira en Alentejo). |
 | 2. Flavescencia dorada de la vid (MLO). | Vegetales de Vitis L. excepto frutos y semillas. | CZ, FR [Alsacia, Champaña-Ardenas, Picardía (departamento del Aisne), Isla de Francia (municipios de Citry, Nanteuil-sur-Marne y Saâcy-sur-Marne) y Lorena], I (Apulia, Basilicata y Cerdeña) |
+
+> Se modifica, con efectos de 1 de septiembre de 2019, por el art. único.2 de la Orden APA/778/2019, de 12 de julio. Ref. BOE-A-2019-10596
 
 > Se modifica por el art. único.2 de la Orden APM/1211/2017, de 4 de diciembre. Ref. BOE-A-2017-14565
 

@@ -2,6 +2,8 @@
 
 ## Vegetales, productos vegetales y otros objetos que deberán someterse a inspecciones fitosanitarias en su lugar de producción, si son originarios de la comunidad antes de su traslado dentro de la comunidad o en su país de origen o de procedencia, si no son originarios de la comunidad, antes de recibir la autorización necesaria para ser introducidos en la comunidad
 
+> Téngase en cuenta que la modificación de este anexo V establecida por el art. único.5 de la Orden APA/778/2019, de 12 de julio. Ref. BOE-A-2019-10596 entra en vigor el 1 de septiembre de 2019, según determina su disposición final 2.
+
 PARTE A
 
 ## VEGETALES, PRODUCTOS VEGETALES Y OTROS OBJETOS ORIGINARIOS DE LA COMUNIDAD
@@ -24,7 +26,7 @@ I. Vegetales, productos vegetales y otros objetos que pueden ser portadores de o
 
 1.7. Madera, en el sentido del párrafo primero del apartado 2 del artículo 2, siempre y cuando:
 
-a) se haya obtenido, en su totalidad o en parte, de Platanus L., incluida la madera que no ha conservado su natural superficie redondeada
+a) se haya obtenido, en su totalidad o en parte, de Juglans L., Platanus L., y Pterocarya L., incluida la madera que no ha conservado su superficie redondeada natural;
 
 y
 
@@ -46,7 +48,7 @@ b) corresponda a alguna de las siguientes designaciones de la parte 2 del anexo 
 
 2. Vegetales, productos vegetales y demás objetos elaborados por productores cuya producción y venta esté autorizada a personas dedicadas profesional mente al cultivo de vegetales, distintos de los vegetales, productos vegetales y demás objetos preparados y listos para la venta al consumidor final, y para los cuales los organismos responsables oficiales de los Estados miembros garanticen que la producción ha tenido efecto de manera claramente separada de la de otros productos.
 
-2.1. Vegetales destinados a la plantación, excepto las semillas, de los géneros Abies Mill., Apium graveolens L., Argyranthemum spp., Asparagus officinalis L., Aster spp., Brassica spp., Castanea Mill., Cucumis spp., Dendranthema (DC.) Des Moul., Dianthus L. e híbridos, Exacum spp., Fragaria L., Gerbera Cass., Gypsophila L., todas las variedades de híbridos de Nueva Guinea de Impatiens L., Lactuca spp., Larix Mill., Leucanthemum L., Lupinus L., Pelargonium l’Hérit. ex Ait., Picea A. Dietr., Pinus L., Platanus L., Populus L., Prunus laurocerasus L., Prunus lusitanica L., Pseudotsuga Carr., Quercus L., Rubus L., Spinacia L., Tanacetum L., Tsuga Carr., Ulmus L., Verbena L. y otros vegetales de especies herbáceas, excepto los de la familia Gramineae, destinados a la plantación, y excepto los bulbos, los cormos, los rizomas, las semillas y los tubérculos.
+2.1. Vegetales destinados a la plantación, excepto las semillas, de los géneros Abies Mill., Apium graveolens L., Argyranthemum spp., Asparagus officinalis L., Aster spp., Brassica spp., Castanea Mill., Cucumis spp., Dendranthema (DC.) Des Moul., Dianthus L. e híbridos, Exacum spp., Fragaria L., Gerbera Cass., Gypsophila L., todas las variedades de híbridos de Nueva Guinea de Impatiens L., Juglans L., Lactuca spp., Larix Mill., Leucanthemum L., Lupinus L., Pelargonium l’Hérit. ex Ait., Picea A. Dietr., Pinus L., Platanus L., Populus L., Prunus laurocerasus L., Prunus lusitanica L., Pseudotsuga Carr., Pterocarya L., Quercus L., Rubus L., Spinacia L., Tanacetum L., Tsuga Carr., Ulmus L., Verbena L. y otros vegetales de especies herbáceas, excepto los de la familia Gramineae, destinados a la plantación, y excepto los bulbos, los cormos, los rizomas, las semillas y los tubérculos.
 
 2.2. Solanáceas, salvo las mencionadas en el punto 1.3, destinadas a la plantación, excepto sus semillas.
 
@@ -70,7 +72,7 @@ Además de los vegetales, productos vegetales y otros objetos enumerados en la p
 
 1.1. Vegetales de Abies Mill., Larix Mill., Picea A. Dietr., Pinus L. y Pseudotsuga Carr.
 
-1.2. Vegetales destinados a la plantación, excepto las semillas, de Beta vulgaris L., Platanus L., Populus L., Prunus L. y Quercus spp., distintos de Quercus suber y Ulmus L.
+1.2. Vegetales destinados a la plantación, excepto las semillas, de Beta vulgaris L., Cedrus Trew, Platanus L., Populus L., Prunus L. y Quercus spp., distintos de Quercus suber L. y Ulmus L.
 
 1.3. Vegetales, excepto frutos y semillas, de Amelanchier Med., Castanea Mill., Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Eucalyptus L’Herit., Malus Mill., Mespilus L., Photinia davidiana (Dcne.) Cardot, Pyracantha Roem., Pyrus L., Sorbus L. y Vitis L.
 
@@ -153,19 +155,23 @@ I. Vegetales, productos vegetales y otros objetos que puedan ser portadores de o
 
 – Ramas cortadas de Betula L. con o sin follaje,
 
-– Ramas cortadas de Fraxinus L., Juglans ailantifolia Carr., Juglans mandshurica Maxim., Ulmus davidiana Planch. y Pterocarya rhoifolia Siebold & Zucc., con o sin follaje, originarias de Canadá, China, República Popular Democrática de Corea, Japón, Mongolia, República de Corea, Rusia, Taiwán y Estados Unidos,
+– Ramas cortadas de Fraxinus L., Juglans L., Ulmus davidiana Planch. y Pterocarya L., con o sin follaje, originarias de Canadá, China, los Estados Unidos, Japón, Mongolia, la República de Corea, la República Popular Democrática de Corea, Rusia y Taiwán,
 
 – Amyris P. Browne, Casimiroa La Llave, Citropsis Swingle & Kellerman, Eremocitrus Swingle, Esenbeckia Kunth., Glycosmis Corrêa, Merrillia Swingle, Naringi Adans., Tetradium Lour., Toddalia Juss. y Zanthoxylum L.
+
+– Convolvulus L., Ipomoea L. (excepto los tubérculos), Micromeria Benth y Solanaceae, originarios de América, Australia y Nueva Zelanda.
 
 2.1 Partes de vegetales, excluidos los frutos pero incluidas las semillas, de Aegle Corrêa, Aeglopsis Swingle, Afraegle Engl., Atalantia Corrêa, Balsamocitrus Stapf, Burkillanthus Swingle, Calodendrum Thunb., Choisya Kunth, Clausena Burm. f., Limonia L., Microcitrus Swingle, Murraya J. Koenig ex L., Pamburus Swingle, Severinia Ten., Swinglea Merr., Triphasia Lour y Vepris Comm.
 
 3. Frutos de:
 
-– Citrus L., Fortunella Swingle, Poncirus Raf., Microcitrus Swingle, Naringi Adans., Swinglea Merr. y sus híbridos, Momordica L., Solanum lycopersicum L., y Solanum melongena L.
+– Citrus L., Fortunella Swingle, Poncirus Raf., Microcitrus Swingle, Naringi Adans., Swinglea Merr. y sus híbridos, Momordica L. y Solanaceae.
 
-– Annona L., Cydonia Mill. Diospyros L., Malus Mill., Mangifera L., Passiflora L., Prunus L., Psidium L., Pyrus L., Ribes L. Syzygium Gaertn., y Vaccinium L., originarios de países no europeos.
+– Actinidia Lindl., Annona L., Carica papaya L., Cydonia Mill., Diospyros L., Fragaria L., Malus L., Mangifera L; Passiflora L., Persea americana Mill., Prunus L., Psidium L; Pyrus L., Ribes L., Rubus L., Syzygium Gaertn., Vaccinium L. y Vitis L.
 
 – Capsicum L.
+
+(Suprimido)
 
 – Punica granatum L. originario de países del continente africano, Cabo Verde, Santa Helena, Madagascar, La Reunión, Mauricio e Israel.
 
@@ -177,7 +183,7 @@ I. Vegetales, productos vegetales y otros objetos que puedan ser portadores de o
 
 – Acer saccharum Marsh, Populus L. y Quercus L., excepto Quercus suber L.
 
-– Fraxinus L., Juglans ailantifolia Carr., Juglans mandshurica Maxim., Ulmus davidiana Planch. y Pterocarya rhoifolia Siebold & Zucc. originarias de Canadá, China, República Popular Democrática de Corea, Japón, Mongolia, República de Corea, Rusia, Taiwán y Estados Unidos
+– Fraxinus L., Juglans L., Ulmus davidiana Planch. y Pterocarya L., originarios de Canadá, China, los Estados Unidos, Japón, Mongolia, la República de Corea, la República Popular Democrática de Corea, Rusia y Taiwán.
 
 – Betula L. originaria de Canadá y Estados Unidos.
 
@@ -187,7 +193,7 @@ a) se haya obtenido en su totalidad o en parte de los órdenes, géneros o espec
 
 – Quercus L., incluida la madera que no ha conservado su superficie redondeada habitual, originaria de Estados Unidos, excepto la que responda a la designación de la letra b) del código NC 4416 00 00 y siempre y cuando existan pruebas documentales de que la madera ha sido sometida a un tratamiento térmico a una temperatura mínima de 176 °C durante 20 minutos,
 
-– Platanus L., incluida la madera que no ha conservado su superficie redondeada habitual, originaria de Estados Unidos, Armenia o Suiza,
+– Platanus L., incluida la madera que no ha conservado su superficie redondeada natural, originaria de Albania, Armenia, los Estados Unidos, Suiza o Turquía,
 
 – Populus L., incluida la madera que no ha conservado su superficie redondeada habitual, originaria de países del continente americano,
 
@@ -195,11 +201,13 @@ a) se haya obtenido en su totalidad o en parte de los órdenes, géneros o espec
 
 – Coníferas (Coniferales), incluida la madera que no ha conservado su superficie redondeada habitual, originaria de países no europeos, Kazajstán, Rusia y Turquía,
 
-– Fraxinus L., Juglans ailantifolia Carr., Juglans mandshurica Maxim., Ulmus davidiana Planch. y Pterocarya rhoifolia Siebold & Zucc., incluida la madera que no ha conservado su superficie redondeada habitual, originarias de Canadá, China, República Popular Democrática de Corea, Japón, Mongolia, República de Corea, Rusia, Taiwán y Estados Unidos,
+– Fraxinus L., Juglans L., Ulmus davidiana Planch. y Pterocarya L., incluida la madera que no ha conservado su superficie redondeada natural, originaria de Canadá, China, los Estados Unidos, Japón, Mongolia, la República de Corea, la República Popular Democrática de Corea, Rusia y Taiwán,
 
 – Betula L., incluida la madera que no ha conservado su superficie redondeada habitual, originaria de Canadá y Estados Unidos;
 
-– Amelanchier Medik., Aronia Medik., Cotoneaster Medik., Crataegus L., Cydonia Mill., Malus Mill., Prunus L., Pyracantha M. Roem., Pyrus L. y Sorbus L., incluida la madera que no conserve su superficie redondeada habitual, excepto serrín o virutas, originaria de Canadá o los EE. UU.
+– Amelanchier Medik., Aronia Medik., Cotoneaster Medik., Crataegus L., Cydonia Mill., Malus Mill., Pyracantha M. Roem., Pyrus L. y Sorbus L., incluida la madera que no ha conservado su superficie redondeada natural, excepto serrín o virutas, originaria de Canadá o los Estados Unidos,
+
+– Prunus L., incluida la madera que no ha conservado su superficie redondeada natural, originaria de Canadá, China, los Estados Unidos, la República Popular Democrática de Corea, Mongolia, Japón, la República de Corea o Vietnam;
 
 y
 
@@ -240,15 +248,17 @@ b) responda a alguna de las siguientes designaciones establecidas en la parte 2 
 | 4416 00 00 | Barriles, cubas, tinas y demás manufacturas de tonelería y sus partes, de madera, incluidas las duelas. |
 | 9406 10 00 | Construcciones prefabricadas de madera. |
 
-7. a) La tierra y el medio de cultivo, formado total o parcialmente de tierra o sustancias orgánicas sólidas como partes de vegetales, humus con turba o cortezas, excepto el compuesto en su totalidad de turba.
+7. El medio de cultivo, unido o asociado a los vegetales, destinado a mantener la vitalidad de los vegetales originarios de terceros países distintos de Suiza.
 
-b) La tierra y el medio de cultivo, unido o adjunto a los vegetales, compuesto total o parcialmente del material especificado en la letra a) o compuesto parcialmente de cualquier sustancia inorgánica sólida destinada a mantener la vitalidad de los vegetales, originarios de:
+7.1 Maquinaria y vehículos que hayan sido utilizados con fines agrícolas o forestales que cumplan una de las descripciones siguientes establecidas en el anexo I, segunda parte, del Reglamento (CEE) n.º 2658/87 del Consejo, de 23 de julio de 1987, importados de terceros países distintos de Suiza:
 
-– Turquía,
-
-– Bielorrusia, Georgia, Moldavia, Rusia, Ucrania,
-
-– países no europeos excepto Argelia, Egipto, Israel, Libia, Marruecos y Túnez.
+| Código NC | Descripción |
+| --- | --- |
+| ex 8432 | Máquinas, aparatos y artefactos agrícolas, hortícolas o silvícolas, para la preparación o el trabajo del suelo o para el cultivo; rodillos para césped o terrenos de deporte. |
+| ex 8433 53 | Máquinas de cosechar raíces o tubérculos. |
+| ex 8436 80 10 | Para la silvicultura. |
+| ex 8701 20 90 | Tractores (excepto las carretillas tractor de la partida 8709) Tractores de carretera para semirremolques, usados. |
+| ex 8701 91 10 | Tractores agrícolas y tractores forestales, de ruedas, con motor de potencia inferior o igual a 18 kW. |
 
 8. Granos del género Triticum, Secale y X Triticosecale originarios de Afganistán, Estados Unidos, India, Irán, Iraq, México, Nepal, Pakistán y Sudáfrica.
 
@@ -304,6 +314,8 @@ b) responda a alguna de las siguientes designaciones de la parte 2 del anexo I d
 8. Partes de vegetales de Eucalyptus l’Hérit.
 
 9. Corteza aislada de coníferas (Coniferales), originaria de terceros países europeos.
+
+> Se modifica, con efectos de 1 de septiembre de 2019, por el art. único.5 de la Orden APA/778/2019, de 12 de julio. Ref. BOE-A-2019-10596
 
 > Se modifica por el art. único.5 de la Orden APM/1211/2017, de 4 de diciembre. Ref. BOE-A-2017-14565
 
