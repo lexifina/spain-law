@@ -76,7 +76,7 @@ c) Titularidad, indicando nombre o razón social, NIF, y relación con la organi
 
 d) Medios humanos y materiales necesarios para su realización.
 
-e) En cumplimiento del artículo 31.3, de la Ley 38/2003, de 17 de noviembre, cuando el importe de la inversión o concepto de gasto a incluir supere las cuantías establecidas en la Ley 9/2017, de 8 de noviembre, para el contrato menor, tres ofertas de diferentes proveedores.
+e) A los efectos de la necesaria moderación de costes, en los supuestos en que las acciones, actuaciones, inversiones y conceptos de gasto no se ejecuten directamente por la Organización de Productores y sean objeto de contratación con un tercero, se solicitarán tres ofertas de diferentes proveedores o cualquiera de los criterios establecidos al efecto por la comunidad autónoma correspondiente en cumplimiento del artículo 25.1 d) del Reglamento de Ejecución (UE) n.º 2017/892, de la Comisión, de 13 de marzo de 2017.
 
 f) Justificación de la necesidad de su realización.
 
@@ -119,3 +119,5 @@ F) Otra documentación. Además de la anterior información y documentación, de
 4.º Un compromiso de los titulares de las acciones, actuaciones, inversiones, y conceptos de gasto, que se realizarán el primer año del programa, de que no han recibido, ni van a recibir, directa o indirectamente, ninguna otra ayuda por la ejecución de las mismas.
 
 5.º La documentación específica para cada acción, actuación, inversión y concepto de gasto, exigida por el Reglamento Delegado (UE) n.º 2017/891, el Reglamento de Ejecución (UE) n.º 2017/892, el presente real decreto o las Directrices Nacionales para la Elaboración de los Pliegos de Condiciones referentes a las Acciones Medioambientales.
+
+> Se modifica la letra e) del apartado D.2º por el art. único.4 del Real Decreto 501/2019, de 30 de agosto. Ref. BOE-A-2019-12638

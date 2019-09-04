@@ -9,6 +9,7 @@
 | Ajo | 73,70 | 55,28 |
 | Alcachofa | 38,40 | 28,80 |
 | Apio | 15,44 | 11,58 |
+| Arándano | 371,61 | 278,71 |
 | Brócoli | 31,90 | 23,92 |
 | Calabacín | 22,80 | 17,10 |
 | Calabaza | 22,78 | 17,08 |
@@ -37,3 +38,5 @@
 | Puerro | 32,57 | 24,43 |
 | Repollo, col | 18,99 | 14,24 |
 | Zanahoria | 22,32 | 16,74 |
+
+> Se modifica por el art. único.5 del Real Decreto 501/2019, de 30 de agosto. Ref. BOE-A-2019-12638

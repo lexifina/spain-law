@@ -78,7 +78,7 @@ c) Titularidad, indicando nombre o razón social, NIF, y relación con la organi
 
 d) Medios humanos y materiales necesarios para su realización.
 
-e) En cumplimiento del artículo 31.3 de la Ley 38/2003, de 17 de noviembre, cuando el importe de la inversión o concepto de gasto a incluir supere las cuantías establecidas en la Ley 9/2017, de 8 de noviembre, para el contrato menor, tres ofertas de diferentes proveedores.
+e) A los efectos de la necesaria moderación de costes, en los supuestos en que las acciones, actuaciones, inversiones y conceptos de gasto no se ejecuten directamente por la Organización de Productores y sean objeto de contratación con un tercero, se solicitarán tres ofertas de diferentes proveedores o cualquiera de los criterios establecidos al efecto por la comunidad autónoma correspondiente en cumplimiento del artículo 25.1 d) del Reglamento de Ejecución (UE) n.º 2017/892, de la Comisión, de 13 de marzo de 2017.
 
 f) Justificación de la necesidad de su realización.
 
@@ -109,3 +109,5 @@ G) Otra documentación:
 2.º Documento que recoja las funciones que ha realizado en los tres últimos años, y las perspectivas de actuación para los años de duración del programa operativo.
 
 3.º Certificación emitida por el secretario indicando que los miembros que no tengan la condición de organización de productores en virtud del Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre, no son beneficiarios directos de la ayuda a los programas.
+
+> Se modifica la letra e) del apartado D.2º por el art. único.4 del Real Decreto 501/2019, de 30 de agosto. Ref. BOE-A-2019-12638
