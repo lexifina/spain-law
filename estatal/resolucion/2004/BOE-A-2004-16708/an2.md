@@ -2,8 +2,6 @@
 
 ## Administraciones de la Agencia Tributaria y Administraciones de Aduanas e Impuestos Especiales
 
-> Téngase en cuenta que esta última actualización de los apartados I y II del anexo, establecida por el apartado único de la Resolución de 13 de noviembre de 2017. Ref. BOE-A-2017-13110 entra en vigor el 18 de diciembre de 2017, según determina su disposición final.
-
 I. Relación de Administraciones de la Agencia Tributaria
 
 Delegación Especial de Andalucía, Ceuta y Melilla
@@ -7164,7 +7162,7 @@ Delegación Especial de Andalucía, Ceuta y Melilla
 
 | Administración de Aduanas e Impuestos Especiales | Delegación |
 | --- | --- |
-| La Línea de la Concepción, dependiente funcionalmente de la Dependencia de Aduanas e Impuestos Especiales de Algeciras. | Cádiz. |
+| La Línea de la Concepción dependiendo funcionalmente de la Dependencia de Aduanas e Impuestos Especiales de Algeciras. | Cádiz. |
 | Motril. | Granada. |
 | Aeropuerto de Málaga-Costa del Sol. | Málaga. |
 
@@ -7172,7 +7170,7 @@ Delegación Especial de Aragón
 
 | Administración de Aduanas e Impuestos Especiales | Delegación |
 | --- | --- |
-| Aeropuerto de Zaragoza. | Delegación Especial |
+| Aeropuerto de Zaragoza. | Delegación Especial. |
 
 Delegación Especial de Asturias
 
@@ -7185,38 +7183,41 @@ Delegación Especial de Illes Balears
 | Administración de Aduanas e Impuestos Especiales | Delegación |
 | --- | --- |
 | Palma de Mallorca. | Delegación Especial. |
-| Maó. | Delegación Especial. |
 | Eivissa. | Delegación Especial. |
+| Maó. | Delegación Especial. |
 
 Delegación Especial de Canarias
 
 | Administración de Aduanas e Impuestos Especiales | Delegación |
 | --- | --- |
 | Las Palmas de Gran Canaria-Marítima. | Delegación Especial. |
-| Aeropuerto de Las Palmas de Gran Canaria: con sede en Telde. | Delegación Especial. |
+| Aeropuerto de Las Palmas de Gran Canaria; con sede en Telde. | Delegación Especial. |
 | Arrecife. | Delegación Especial. |
 | Puerto del Rosario. | Delegación Especial. |
-| Aeropuerto de Santa Cruz de Tenerife Sur-Reina Sofía: con sede en Granadilla de Abona. | Santa Cruz de Tenerife. |
-| Aeropuerto de Santa Cruz de Tenerife Norte-Los Rodeos: con sede en La Laguna. | Santa Cruz de Tenerife. |
-| Santa Cruz de la Palma. | Santa Cruz de Tenerife. |
+| Aeropuerto de Santa Cruz de Tenerife Sur-Reina Sofía; con sede en Granadilla de Abona. | Santa Cruz de Tenerife. |
+| Aeropuerto de Santa Cruz de Tenerife Norte-Los Rodeos; con sede en La Laguna. | Santa Cruz de Tenerife. |
+| Santa Cruz de La Palma. | Santa Cruz de Tenerife. |
 
 Delegación Especial de Cataluña
 
 | Administración de Aduanas e Impuestos Especiales | Delegación |
 | --- | --- |
-| Barcelona. Aeropuerto de Barcelona-El Prat: con sede en El Prat de Llobregat. | Delegación Especial. Delegación Especial. |
+| Aeropuerto de Barcelona-El Prat; con sede en El Prat de Llobregat. | Delegación Especial. |
+| Barcelona. | Delegación Especial. |
 
 Delegación Especial de Galicia
 
 | Administración de Aduanas e Impuestos Especiales | Delegación |
 | --- | --- |
-| Aeropuerto de Santiago de Compostela. Ferrol. Vilagarcía de Arousa. | Delegación Especial. Delegación Especial. Pontevedra. |
+| Aeropuerto de Santiago de Compostela. | Delegación Especial. |
+| Ferrol. | Delegación Especial. |
+| Vilagarcía de Arousa. | Pontevedra. |
 
 Delegación Especial de Madrid
 
 | Administración de Aduanas e Impuestos Especiales | Delegación |
 | --- | --- |
-| Madrid-Carretera: con sede en Coslada. Aeropuerto de Madrid-Barajas. Madrid-Ferrocarril. | Delegación Especial. Delegación Especial. Delegación Especial. |
+| Madrid. | Delegación Especial. |
 
 Delegación Especial de Murcia
 
@@ -7228,13 +7229,22 @@ Delegación Especial del País Vasco
 
 | Administración de Aduanas e Impuestos Especiales | Delegación |
 | --- | --- |
-| Bilbao-Marítima: con sede en Santurtzi. Aeropuerto de Bilbao: con sede en Sondika. Bilbao-Carretera-Aparcabisa:con sede en Valle de Trápaga-Trapagaran. | Delegación Especial. Delegación Especial. Delegación Especial. |
+| Aeropuerto de Bilbao; con sede en Sondika. | Delegación Especial. |
+| Bilbao-Marítima; con sede en Santurtzi. | Delegación Especial. |
+| Bilbao-Carretera Aparcabisa; con sede en Valle de Trápaga-Trapagaran. | Delegación Especial. |
 
 Delegación Especial de Valencia
 
 | Administración de Aduanas e Impuestos Especiales | Delegación |
 | --- | --- |
-| Aeropuerto de Alicante/Alacant. Valencia- Marítima. Aeropuerto de Valencia-Manises: con sede en Manises. Sagunto/Sagunt. | Alicante/Alacant. Delegación Especial. Delegación Especial. Delegación Especial. |
+| Aeropuerto de Alicante/Alacant. | Alicante/Alacant. |
+| Aeropuerto de Valencia-Manises; con sede en Manises. | Delegación Especial. |
+| Valencia-Marítima. | Delegación Especial. |
+| Sagunto/Sagunt. | Delegación Especial. |
+
+> Se modifica el apartado III por los apartados 1 y 2, disposición adicional 1 y anexo de la Resolución de 10 de septiembre de 2019. Ref. BOE-A-2019-12971
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 236, de 1 de octubre de 2019. Ref. BOE-A-2019-13901
 
 > Se modifican los apartados I y II, con efectos de 18 de diciembre de 2017, por el apartado único de la Resolución de 13 de noviembre de 2017. Ref. BOE-A-2017-13110
 
