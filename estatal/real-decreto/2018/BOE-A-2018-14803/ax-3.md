@@ -21,7 +21,18 @@ Cuadro A. Autorizaciones concedidas para replantaciones
 |  |  |
 |  |  |
 | TOTAL |  |
-| * Estas superficies también pueden ser admisibles para la producción de vino con IGP o vino sin IG; ninguna de las superficies comunicadas en la columna (2) debe ser incluida en la columna (3). ** Estas superficies también pueden ser admisibles para la producción de vino sin IG pero no de vino DOP; ninguna de las superficies comunicadas en la columna (3) debe ser incluida en la columna (4). *** Datos referidos a la campaña vitícola anterior a la comunicación. (a) Se indicará la provincia de origen de la autorización cuando los derechos de replantación o arranques que originaron la misma provengan de otra comunidad autónoma, detallando la superficie concedida a partir de los mismos (vino con DOP, vino con IGP, vino sin DOP/IGP). (b) Se indicará el nombre de la DOP, identificada por su código, y el número de hectáreas del total recogido en la columna (2) que se localizan en la zona geográfica de esa DOP. Fecha límite de la comunicación: 1 octubre. |
+
+* Estas superficies también pueden ser admisibles para la producción de vino con IGP o vino sin IG; ninguna de las superficies comunicadas en la columna (2) debe ser incluida en la columna (3).
+
+** Estas superficies también pueden ser admisibles para la producción de vino sin IG pero no de vino DOP; ninguna de las superficies comunicadas en la columna (3) debe ser incluida en la columna (4).
+
+*** Datos referidos a la campaña vitícola anterior a la comunicación.
+
+(a) Se indicará la provincia de origen de la autorización cuando los derechos de replantación o arranques que originaron la misma provengan de otra comunidad autónoma, detallando la superficie concedida a partir de los mismos (vino con DOP, vino con IGP, vino sin DOP/IGP).
+
+(b) Se indicará el nombre de la DOP, identificada por su código, y el número de hectáreas del total recogido en la columna (2) que se localizan en la zona geográfica de esa DOP.
+
+Fecha límite de la comunicación: 1 octubre.
 
 Cuadro B. Resoluciones de arranque concedidas
 
@@ -30,4 +41,11 @@ Cuadro B. Resoluciones de arranque concedidas
 | Fecha de comunicación: |  |
 | Campaña vitícola: |  |
 | Nº de hectáreas totales en resoluciones de arranque concedidas*: |  |
-| * No incluidas en las autorizaciones de replantación concedidas comunicadas en el cuadro A. Datos referidos a la campaña vitícola anterior a la comunicación. Fecha límite de la comunicación: 1 octubre. |
+
+* No incluidas en las autorizaciones de replantación concedidas comunicadas en el cuadro A.
+
+Datos referidos a 31 de julio de la campaña vitícola anterior a la comunicación.
+
+Fecha límite de comunicación: 1 de octubre.
+
+> Se modifica la nota al pie del cuadro B por el art. único.10 del Real Decreto 536/2019, de 20 de septiembre. Ref. BOE-A-2019-13412
