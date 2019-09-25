@@ -1,0 +1,3 @@
+## Novena. Modificación de la resolución de concesión.
+
+Toda alteración de las condiciones, objetivas y subjetivas, tenidas en cuenta para la concesión de la subvención y, en todo caso, la obtención concurrente de subvenciones o ayudas otorgadas por otras administraciones públicas, entes o personas públicas o privadas, nacionales o internacionales que implique superar el límite establecido en el apartado 2 de la base décima, podrá dar lugar a la modificación de la resolución de concesión y eventualmente a su revocación, en los términos establecidos en cada convocatoria, de acuerdo con lo previsto en el artículo 19.4 de la Ley 38/2003, de 17 de noviembre.
