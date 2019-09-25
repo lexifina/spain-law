@@ -95,3 +95,6 @@
 | Gerencia de la Agencia Nacional de Evaluación de la Calidad y Acreditación. | Agencia Nacional de Evaluación de la Calidad y Acreditación. |
 | Secretaría General Consejo Superior de Investigaciones Científicas. | Consejo Superior de Investigaciones Científicas. |
 | Secretaría General Organismo Estatal Inspección de Trabajo y Seguridad Social. | Organismo Estatal Inspección de Trabajo y Seguridad Social. |
+| Secretaría General. | Agencia Estatal de Investigación. |
+
+> Se modifica por el art. único de la Orden HAC/963/2019, de 11 de septiembre. Ref. BOE-A-2019-13542

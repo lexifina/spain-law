@@ -46,3 +46,6 @@
 | Oficial Mayor. | Ministerio de Ciencia, Innovación y Universidades. |
 | Dirección de Unidad de Coordinación del Servicio Español para la Internacionalización de la Educación. | Servicio Español para la Internacionalización de la Educación. |
 | Gerencia de la Universidad Internacional Menéndez Pelayo. | Universidad Internacional Menéndez Pelayo. |
+| Secretaría General. | Agencia Estatal de Investigación. |
+
+> Se modifica por el art. único de la Orden HAC/963/2019, de 11 de septiembre. Ref. BOE-A-2019-13542
