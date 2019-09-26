@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Solicitudes y certificaciones anteriores.
+
+Las solicitudes de certificación del nivel de excelencia recibidas antes de la entrada en vigor de esta Orden así como las renovaciones de las certificaciones obtenidas antes de la entrada en vigor de esta Orden, se tramitarán conforme al procedimiento establecido en la Resolución de 18 de junio de 2009, del Consejo Rector de la Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios, por la que se aprueba el procedimiento de certificación del nivel de excelencia de las organizaciones de las Administraciones Públicas.
