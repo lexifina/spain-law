@@ -1,0 +1,7 @@
+## Novena. Composición del Consejo Social.
+
+El Centro de Referencia Nacional de Acuicultura y Buceo contará con un Consejo Social u órgano de participación social de los agentes sociales del sector productivo, que estará compuesto por representantes de la Administración General del Estado y de las organizaciones empresariales y sindicales más representativas de ámbito estatal. La mitad de los mismos se designarán paritariamente por las organizaciones empresariales y sindicales más representativas. De la otra mitad, existirá una representación de la Administración del Estado y de la Administración Autonómica. En todo caso, será miembro del Consejo Social el director del centro, y el secretario del centro asistirá a las reuniones del mismo, con voz pero sin voto. El Consejo será presidido por la Administración titular.
+
+La composición del Consejo Social del Centro de Referencia Nacional Acuicultura y Buceo será de doce miembros y estará representado por las siguientes instituciones: tres miembros por la Administración General del Estado, tres miembros por la Comunidad Autónoma, tres representantes de Organizaciones Empresariales, tres representantes de Organizaciones Sindicales más representativas.
+
+La administración titular solicitará, en el plazo establecido en la cláusula octava, la designación de los representantes de la Administración General del Estado y de los Agentes Sociales, a través de la Secretaría del Consejo General de Formación Profesional.

@@ -1,0 +1,5 @@
+## Segunda. Condición de Centro de Referencia Nacional.
+
+El Instituto Galego de Formación en Acuicultura (I.G.A.F.A.) ubicado en Niño do Corvo s/n, 36626 Illa de Arousa, Pontevedra, y cuya titularidad ostenta la Consellería del Mar de la Xunta de Galicia, adquiere la condición de Centro de Referencia Nacional de Acuicultura y Buceo, y se incorpora a la Red de Centros de Referencia Nacional en el ámbito de la formación profesional, de acuerdo con lo establecido en el artículo 11 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional y en el artículo 5 del RD 229/2008, de 15 de febrero, por el que se regulan los Centros de Referencia Nacional en el ámbito de la formación profesional.
+
+A tal efecto, el Centro de Referencia Nacional de Acuicultura y Buceo deberá cumplir, en todo caso, las condiciones que se determinan en este convenio, de acuerdo con el Real Decreto 229/2008, de 15 de febrero, así como las establecidas en la normativa de carácter general que le afecten.

@@ -1,0 +1,3 @@
+## Undécima. Continuidad de las funciones estatales.
+
+Si por razones excepcionales técnicas o de otro orden el Centro de Referencia Nacional de Acuicultura y Buceo al que se refiere el presente convenio no pudiera desarrollar –coyuntural o de manera permanente– alguna de la funciones estatales relacionadas con las áreas profesionales que tiene asignadas, el Servicio Público de Empleo Estatal y el Ministerio de Educación y Formación Profesional podrán proponer a la Comisión de Coordinación y Seguimiento del convenio que dichas funciones puedan llevarse a cabo en otros centros de la red donde estimen conveniente o que pueda revocarse la calificación del Centro e iniciar el procedimiento para la calificación de un nuevo Centro de Referencia Nacional.
