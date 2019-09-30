@@ -2,13 +2,15 @@
 
 ## INFORMACIÓN COMPLEMENTARIA
 
+> Téngase en cuenta que la última actualización del Anexo VIII, establecida por el art. 2.19 del Real Decreto 452/2019, de 19 de julio. Ref. BOE-A-2019-10757, entra en vigor el 30 de septiembre de 2019, según determina su disposición final 2.
+
 En este anexo se describe en términos generales la información complementaria que deberá aportarse en caso de solicitud de autorización de comercialización, así como la información exigida para el etiquetado del organismo modificado genéticamente como producto o componente del producto que se comercializa y del organismo modificado genéticamente utilizado en operaciones que no se consideran comercialización en virtud del artículo 30.2. Se complementará con notas orientativas en lo relativo, por ejemplo, a la descripción del uso previsto para el producto, que se aprueben en la normativa comunitaria. El etiquetado de los organismos exceptuados contemplado en el artículo 50.3 se establecerá mediante la formulación de las adecuadas recomendaciones y restricciones de su uso. Como complemento a este anexo deberán aplicarse los requisitos que establezca la legislación comunitaria en relación con la información sobre las modificaciones genéticas que deberá figurar en el registro que se menciona el apartado A 7.
 
 A.
 
 En la solicitud de autorización de comercialización de un organismo modificado genéticamente como producto o componente de un producto, deberá aportarse, además de la exigida en el anexo V, la siguiente información:
 
-1. Las propuestas de nombres comerciales para los productos, los nombres de los organismos modificados genéticamente que contengan, así como cualquier identificación específica, nombre o código empleado por el interesado para identificar el organismo modificado genéticamente. Una vez concedida la autorización, deberán aportarse al Consejo interministerial de organismos modificados genéticamente todos los nuevos nombres comerciales.
+1. Las propuestas de nombres comerciales para los productos y los nombres de los OMG que contengan, así como una propuesta de identificador único del OMG, elaboradas de conformidad con el Reglamento (CE) n.º 65/2004 de la Comisión, de 14 de enero de 2004, por el que se establece un sistema de creación y asignación de identificadores únicos a los organismos modificados genéticamente. Una vez concedida la autorización, todos los nuevos nombres comerciales deberán aportarse a la autoridad competente.
 
 2. El nombre y la dirección completa de la persona domiciliada en la Comunidad Europea responsable de la comercialización, sea el fabricante, el importador o el distribuidor.
 
@@ -20,7 +22,7 @@ En la solicitud de autorización de comercialización de un organismo modificado
 
 6. Las categorías de usuarios previstas para el producto, como por ejemplo industria, agricultura o artesanía o consumo por parte del público en general.
 
-7. La información sobre la modificación genética efectuada con el fin de consignar en uno o varios registros modificaciones realizadas en organismos, que puedan emplearse para detectar e identificar productos con organismos modificados genéticamente concretos, a fin de facilitar el control y la inspección poscomercialización. Esta información deberá incluir, en su caso, el depósito de muestras del organismo modificado genéticamente o de su material genético ante el órgano competente, así como detalles de las secuencias de nucleótidos u otro tipo de información necesaria para identificar el producto con organismos modificados genéticamente y su progenie, por ejemplo la metodología para detectar e identificar el producto con organismos modificados genéticamente, incluidos los datos experimentales que demuestren la especificidad de la metodología. Deberá identificarse la información que no deba figurar, por motivos de confidencialidad, en la parte del registro accesible al público.
+7. Métodos de detección, identificación y, en su caso, cuantificación del evento de transformación; muestras del o de los OMG y sus muestras de control, e información sobre el lugar en que se puede acceder al material de referencia. Deberá identificarse la información que no deba figurar, por motivos de confidencialidad, en la parte accesible al público del registro.
 
 8. La propuesta de etiquetado, sobre una etiqueta o en un documento adjunto, que debe incluir, al menos en forma de síntesis, un nombre comercial para el producto, la mención «este producto contiene organismos modificados genéticamente», el nombre del organismo modificado genéticamente y la información a que se refiere el apartado A 2. El etiquetado deberá indicar la manera de acceder a la información recogida en la parte del registro accesible al público.
 
@@ -43,3 +45,7 @@ Estas instrucciones deberán ser compatibles con el apartado C del anexo X.
 6. Una estimación de la producción interior y/o de la importación a la Comunidad Europea.
 
 7. Una propuesta de etiquetado complementario, que podrá incluir, al menos en forma de síntesis, la información a que se refieren el apartado A 4 y 5 y el apartado B 1, 2, 3 y 4.
+
+> Se modifica la Sección A por el art. 2.19 del Real Decreto 452/2019, de 19 de julio. Ref. BOE-A-2019-10757
+
+> Esta modificación entra en vigor el 30 de septiembre de 2019, según establece la disposición final 2 del citado Real Decreto

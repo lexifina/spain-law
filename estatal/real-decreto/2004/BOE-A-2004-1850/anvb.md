@@ -1,151 +1,367 @@
-## ANEXO V B
+## ANEXO V.B
 
 ## INFORMACIÓN REQUERIDA EN LAS SOLICITUDES DE AUTORIZACIÓN DE LIBERACIÓN DE PLANTAS SUPERIORES MODIFICADAS GENÉTICAMENTE (PSMG) (GIMNOSPERMAS Y ANGIOSPERMAS)
 
-A. INFORMACIÓN DE CARÁCTER GENERAL
+> Téngase en cuenta que la última actualización del Anexo V.B, establecida por el art. 2.18 del Real Decreto 452/2019, de 19 de julio. Ref. BOE-A-2019-10757, entra en vigor el 30 de septiembre de 2019, según determina su disposición final 2.
 
-1. Nombre y dirección del interesado (empresa o institución).
+I. Información requerida en las notificaciones presentadas con arreglo a los artículos 23 y 28
+
+A. Información general
+
+1. Nombre y dirección del notificador (empresa o institución).
 
 2. Nombre, titulación y experiencia del científico o científicos responsables.
 
 3. Título del proyecto.
 
-B. INFORMACIÓN RELATIVA A LA PLANTA A) RECEPTORA O (EN SU CASO) B) PARENTAL
+4. Información relativa a la liberación.
 
-1. Nombre completo:
+a) finalidad de la liberación;
 
-a) familia;
+b) fecha o fechas y duración previstas de la liberación;
 
-b) género;
+c) método mediante el cual se liberarán las PSMG;
 
-c) especie;
+d) método de preparación y gestión del lugar de liberación, con carácter previo, simultáneo y posterior a la liberación, con inclusión de prácticas de cultivo y métodos de recolección;
 
-d) subespecie;
+e) número aproximado de plantas (o plantas por m2).
 
-e) cultivar/línea de reproducción;
+5. Información relativa al lugar de la liberación
 
-f) nombre vulgar.
+a) localización y extensión del lugar o lugares de liberación;
 
-2.
+b) descripción del ecosistema del lugar de liberación, con inclusión de datos sobre el clima, la flora y la fauna;
 
-a) Información sobre la reproducción:
+c) presencia de especies vegetales, tanto silvestres emparentadas como especies cultivadas, compatibles sexualmente;
 
-1.° Modo o modos de reproducción.
+d) proximidad de biotopos reconocidos oficialmente o de zonas protegidas que puedan verse afectados.
 
-2.° Factores específicos, en su caso, que afecten a la reproducción.
+B. Información científica
 
-3.° Período de generación.
+1. Información relativa a la planta receptora o (en su caso), a las plantas parentales.
 
-b) Compatibilidad sexual con otras especies vegetales cultivadas o silvestres, indicando la distribución de las especies compatibles en Europa.
+a) Nombre completo:
 
-3. Capacidad de supervivencia:
+i) nombre de la familia,
 
-a) Posibilidad de formar estructuras de supervivencia o de latencia.
+ii) género,
 
-b) Factores específicos, en su caso, que afecten a la supervivencia.
+iii) especie,
 
-4. Diseminación:
+iv) subespecies,
 
-a) Formas y amplitud (por ejemplo, una estimación de en qué medida el posible polen y/o semillas disminuyen con la distancia) de la diseminación.
+v) cultivar o línea de reproducción,
 
-b) Factores específicos, en su caso, que afecten a la diseminación.
+vi) nombre vulgar.
 
-5. Distribución geográfica de la planta.
+b) Distribución geográfica y cultivo de la planta en la Unión.
 
-6. En caso de especies vegetales que no estén presentes normalmente en el Estado o Estados miembros, descripción del hábitat natural de la planta, incluida información sobre predadores naturales, parásitos, competidores y simbiontes.
+c) Información sobre la reproducción:
 
-7. Otras posibles interacciones de la planta, pertinentes para el organismo modificado genéticamente, con otros organismos del ecosistema en que crece normalmente o de cualquier otro lugar, incluida la información relativa a los efectos tóxicos sobre seres humanos, animales y otros organismos.
+i) modo o modos de reproducción,
 
-C. INFORMACIÓN RELATIVA A LA MODIFICACIÓN GENÉTICA
+ii) de haberlos, factores específicos que afecten a la reproducción,
 
-1. Descripción de los métodos utilizados para la modificación genética.
+iii) período de generación.
 
-2. Naturaleza y origen del vector utilizado.
+d) Compatibilidad sexual con otras especies vegetales cultivadas o silvestres, indicando la distribución de las especies compatibles en Europa.
 
-3. Tamaño, origen (nombre) del organismo u organismos donantes y función prevista de cada fragmento componente de la región que se inserte.
+e) Capacidad de supervivencia:
 
-D. INFORMACIÓN RELATIVA A LA PLANTA MODIFICADA GENÉTICAMENTE
+i) posibilidad de formar estructuras de supervivencia o de latencia,
 
-1. Descripción de los rasgos y características que se han introducido o modificado.
+ii) factores específicos, en su caso, que afecten a la supervivencia.
 
-2. Información sobre las secuencias insertadas/suprimidas realmente:
+f) Diseminación:
 
-a) Tamaño y estructura del fragmento de inserción y métodos utilizados para su caracterización, incluida información sobre las partes del vector que se introduzcan en la PSMG o cualquier portador o ADN extraño que se quede en la PSMG.
+i) formas y alcance de la diseminación,
 
-b) En caso de deleción, tamaño y función de la región o regiones suprimidas.
+ii) de haberlos, los factores específicos que afecten a la diseminación.
 
-c) Número de ejemplares del fragmento de inserción.
+g) En el caso de especies vegetales que no crezcan normalmente en la Unión, una descripción del hábitat natural de la planta que incluya información sobre predadores naturales, parásitos, competidores y simbiontes.
 
-d) Localización del fragmento o fragmentos de inserción en las células vegetales (integrado en el cromosoma, cloroplastos, mitocondrias, o mantenido en forma no integrada) y métodos de determinación.
+h) Posibles interacciones de la planta, pertinentes para la PSMG, con organismos presentes en el ecosistema en el que crece normalmente, o en otros lugares, incluida la información sobre los efectos tóxicos para las personas, los animales y otros organismos.
 
-3. Información sobre la expresión del fragmento de inserción:
+2. Caracterización molecular.
 
-a) Información sobre la expresión del desarrollo del fragmento de inserción durante el ciclo biológico de la planta y métodos empleados para su caracterización.
+a) Información relativa a la modificación genética:
 
-b) Partes de la planta en que se expresa el fragmento de inserción (por ejemplo, raíces, tallo, polen, etc.).
+i) descripción de los métodos utilizados para la modificación genética,
 
-4. Información sobre cómo varían las plantas modificadas genéticamente respecto a la planta receptora en cuanto a:
+ii) naturaleza y origen del vector utilizado,
 
-a) Modo y tasa de reproducción.
+iii) origen del ácido nucleico o los ácidos nucleicos utilizados para la transformación, tamaño y función prevista de cada fragmento componente de la región que se pretenda insertar.
 
-b) Diseminación.
+b) Información relativa a la PSMG.
 
-c) Capacidad de supervivencia.
+i) descripción general del rasgo o los rasgos y las características que se hayan introducido o modificado,
 
-5. Estabilidad genética del fragmento de inserción y estabilidad fenotípica de la PSMG.
+ii) información sobre las secuencias insertadas/suprimidas realmente:
 
-6. Cualquier cambio en la capacidad de la PSMG de transferir material genético a otros organismos.
+– el tamaño y el número de copias de todos los insertos y los métodos utilizados para su caracterización,
 
-7. Información sobre cualquier posible efecto tóxico o alergénico u otros efectos nocivos para la salud humana que se deban a la modificación genética.
+– en caso de supresión, tamaño y función de la región o regiones suprimidas,
 
-8. Información sobre la inocuidad de la PSMG para la salud animal, especialmente por lo que respecta a sus posibles efectos tóxicos o alergénicos u otros efectos nocivos que se deban a la modificación genética, cuando la PSMG se destine a la alimentación animal.
+– localización subcelular del inserto o los insertos en las células vegetales (integrados en el núcleo, cloroplastos o mitocondrias, o mantenidos en forma no integrada) y métodos para su determinación,
 
-9. Mecanismo de la interacción entre la planta modificada genéticamente y los organismos que son objeto de la investigación (si procede).
+iii) partes de la planta en que se expresa el inserto,
 
-10. Posibles variaciones en las interacciones de la PSMG con organismos que no son objeto de la investigación debidas a la modificación genética.
+iv) estabilidad genética del fragmento de inserción y estabilidad fenotípica de la PSMG.
 
-11. Posibles interacciones con el entorno abiótico.
+c) Conclusiones de la caracterización molecular.
 
-12. Descripción de las técnicas de detección e identificación de la planta modificada genéticamente.
+3. Información relativa a ámbitos de riesgo específicos:
 
-13. Información sobre liberaciones previas de la planta modificada genéticamente, en su caso.
+a) Cualquier cambio en la persistencia o la capacidad de invasión de la PSMG, así como su habilidad para transferir material genético a variedades emparentadas compatibles sexualmente y los efectos medioambientales adversos que se derivan.
 
-E. INFORMACIÓN RELATIVA AL LUGAR DE LIBERACIÓN (SÓLO EN CASO DE SOLICITUD PRESENTADA CON ARREGLO A LOS ARTÍCULOS 23 a 25, 28 y 29)
+b) Cualquier cambio en la capacidad de la PSMG de transferir material genético a microorganismos y los efectos medioambientales adversos que se derivan.
 
-1. Localización y extensión del lugar o lugares de liberación.
+c) El mecanismo de interacción entre la PSMG y los organismos objeto de la investigación (en su caso) y los efectos medioambientales adversos que se derivan.
 
-2. Descripción del ecosistema del lugar de liberación, con inclusión de datos sobre el clima, flora y fauna.
+d) Posibles cambios en las interacciones de la PSMG con organismos no objetivo debidos a la modificación genética y los efectos medioambientales adversos que se derivan.
 
-3. Presencia de especies vegetales compatibles sexualmente, tanto cultivadas como silvestres, que sean parientes.
+e) Posibles cambios en las prácticas agrícolas y la gestión de las PSMG debidos a la modificación genética y los efectos medioambientales adversos que se derivan.
 
-4. Proximidad de biotopos reconocidos oficialmente o zonas protegidas que puedan verse afectados.
+f) Posibles interacciones con el entorno abiótico y los efectos medioambientales adversos que se derivan.
 
-F. INFORMACIÓN RELATIVA A LA LIBERACIÓN (SÓLO EN CASO DE NOTIFICACIÓN PRESENTADA CON ARREGLO A LOS ARTÍCULOS 23 a 25, 28 y 29)
+g) Información sobre cualquier posible efecto tóxico o alergénico u otros efectos adversos para la salud humana y de los animales derivado de la modificación genética.
 
-1. Objetivo de la liberación.
+h) Conclusiones relativas a los ámbitos de riesgo específicos.
 
-2. Fecha o fechas y duración previstas de la liberación.
+4. Información sobre los planes para el control, el seguimiento y el tratamiento de residuos, así como para después de la liberación.
 
-3. Método de liberación de las plantas modificadas genéticamente.
+a) Cualquier medida adoptada, con inclusión de:
 
-4. Método de preparación y gestión del lugar de liberación, con carácter previo, simultáneo o posterior a la liberación, con inclusión de prácticas de cultivo y métodos de recolección.
+i) el aislamiento espacial y temporal de las especies vegetales sexualmente compatibles, tanto malas hierbas y variedades silvestres emparentadas como variedades cultivadas,
 
-5. Número aproximado de plantas (o plantas por metro cuadrado).
+ii) cualquier medida para minimizar o prevenir la dispersión de todo material de reproducción de las PSMG.
 
-G. INFORMACIÓN SOBRE LOS PLANES DE CONTROL, SEGUIMIENTO Y TRATAMIENTO DE RESIDUOS TRAS LA LIBERACIÓN (SÓLO EN CASO DE NOTIFICACIÓN PRESENTADA CON ARREGLO A LOS ARTÍCULOS 23 a 25, 28 y 29)
+b) Descripción de los métodos para el tratamiento del lugar después de la liberación.
 
-1. Precauciones adoptadas:
+c) Descripción de los métodos de tratamiento del material vegetal modificado genéticamente después de la liberación, incluidos los residuos.
 
-a) Distancia o distancias de especies vegetales compatibles sexualmente, tanto variedades silvestres afines como cultivadas.
+d) Descripción de los planes y técnicas de seguimiento.
 
-b) Medidas para reducir o evitar la dispersión de cualquier órgano reproductor de las PSMG (por ejemplo, polen, semillas, tubérculos).
+e) Descripción de los planes de emergencia.
 
-2. Descripción de los métodos de tratamiento del lugar tras la liberación.
+f) Descripción de los métodos y procedimientos para:
 
-3. Descripción de los métodos de tratamiento tras la liberación en cuanto a la recogida y los residuos de la planta modificada genéticamente.
+i) evitar o reducir al mínimo la diseminación de las PSMG más allá del lugar de liberación,
 
-4. Descripción de los planes y técnicas de seguimiento.
+ii) proteger el lugar de la entrada de personas no autorizadas,
 
-5. Descripción de los planes de emergencia.
+iii) impedir que otros organismos penetren en dicho lugar o minimizar tales entradas.
 
-6. Métodos y procedimientos de protección del lugar de la liberación.
+5. Descripción de las técnicas de detección e identificación de las PSMG.
+
+6. Información sobre liberaciones previas de la PSMG, en su caso.
+
+II. Información requerida en las notificaciones presentadas con arreglo a lo dispuesto en el artículo 32
+
+A. Información general
+
+1. Nombre y dirección del notificador (empresa o institución).
+
+2. Nombre, titulación y experiencia del científico o científicos responsables.
+
+3. Designación y especificación de la PSMG.
+
+4. Ámbito de la notificación:
+
+a) cultivo,
+
+b) otros usos (que deberán especificarse en la notificación).
+
+B. Información científica
+
+1. Información relativa a la planta receptora o (en su caso), a las plantas parentales.
+
+a) nombre completo:
+
+i) nombre de la familia,
+
+ii) género,
+
+iii) especie,
+
+iv) subespecie,
+
+v) cultivar/línea de reproducción,
+
+vi) nombre vulgar;
+
+b) distribución geográfica y cultivo de la planta en la Unión;
+
+c) información sobre la reproducción:
+
+i) modo o modos de reproducción,
+
+ii) de haberlos, factores específicos que afecten a la reproducción,
+
+iii) período de generación;
+
+d) compatibilidad sexual con otras especies vegetales cultivadas o silvestres, indicando la distribución de las especies compatibles en la Unión;
+
+e) capacidad de supervivencia:
+
+i) capacidad para formar estructuras de supervivencia o de latencia,
+
+ii) de haberlos, factores específicos que afecten a la supervivencia;
+
+f) diseminación:
+
+i) formas y alcance de la diseminación,
+
+ii) de haberlos, factores específicos que afecten a la diseminación;
+
+g) en el caso de especies vegetales que no crezcan normalmente en la Unión, una descripción del hábitat natural de la planta que incluya información sobre predadores naturales, parásitos, competidores y simbiontes;
+
+h) posibles interacciones de la planta, pertinentes para la PSMG, con organismos presentes en el ecosistema en el que esta crece normalmente, o en otros lugares, incluida información sobre los efectos tóxicos para las personas, los animales y otros organismos.
+
+2. Caracterización molecular.
+
+a) Información relativa a la modificación genética:
+
+i) descripción de los métodos utilizados para la modificación genética,
+
+ii) naturaleza y origen del vector utilizado,
+
+iii) origen del ácido nucleico o los ácidos nucleicos utilizado(s) para la transformación, tamaño y función prevista de cada fragmento componente de la región que se pretenda insertar.
+
+b) Información relativa a la planta modificada genéticamente:
+
+i) descripción de los rasgos y características que se han introducido o modificado,
+
+ii) información sobre las secuencias realmente insertadas o suprimidas:
+
+– el tamaño y el número de copias de todos los insertos detectables, tanto completos como parciales, y los métodos empleados para su caracterización,
+
+– la organización y secuencia del material genético insertado en cada sede de inserción en un formato electrónico normalizado,
+
+– en caso de supresión, tamaño y función de la región o regiones suprimidas,
+
+– localización subcelular del inserto o los insertos (integrados en el núcleo, cloroplastos o mitocondrias, o mantenidos en una forma no integrada), y métodos para su determinación,
+
+– en caso de modificaciones distintas de una inserción o una supresión, la función del material genético modificado antes y después de la modificación, así como los cambios directos en la expresión de genes como resultado de la modificación,
+
+– secuencia de información en un formato electrónico normalizado para las regiones flanqueadoras de 5′ y 3′ en cada sede de inserción,
+
+– análisis bioinformático utilizando bases de datos actualizadas, con objeto de investigar posibles interrupciones de genes conocidos,
+
+– todos los marcos abiertos de lectura (en lo sucesivo, denominados «MAL») en el inserto (sean o no resultado de un reajuste), así como los creados como resultado de la modificación genética en los sitios de unión con ADN genómico; un MAL se define como una secuencia de nucleótidos que contiene una hilera de codones no interrumpida por la presencia de un codón de terminación en el mismo marco de lectura,
+
+– análisis bioinformático utilizando bases de datos actualizadas, con objeto de investigar posibles similitudes entre los MAL y genes conocidos que pueden tener efectos adversos,
+
+– estructura primaria (secuencia de aminoácidos) y, en su caso, otras estructuras, de la proteína de nueva expresión,
+
+– análisis bioinformático utilizando bases de datos actualizadas, con objeto de investigar posibles homologías de secuencia y, en su caso, semejanzas estructurales entre las proteínas de nueva expresión y las proteínas conocidas o los péptidos que pueden tener efectos adversos,
+
+iii) información sobre la expresión del inserto:
+
+– método o métodos utilizados para el análisis de expresión junto con sus características de rendimiento,
+
+– información sobre la expresión del desarrollo del inserto durante el ciclo biológico de la planta,
+
+– partes de la planta en que se expresan el fragmento de inserción/la secuencia modificada,
+
+– posible expresión no intencional de nuevos MAL identificados con arreglo al inciso séptimo del inciso ii), que planteen un problema de seguridad,
+
+– datos sobre la expresión de las proteínas, incluidos los datos brutos, obtenidos a partir de estudios de campo y relacionados con las condiciones de cultivo del vegetal,
+
+iv) estabilidad genética del inserto y estabilidad fenotípica de la PSMG:
+
+c) Conclusiones de la caracterización molecular:
+
+3. Análisis comparativo de las características agronómicas y fenotípicas y de la composición.
+
+a) elección del homólogo convencional y otros referentes de comparación;
+
+b) selección de emplazamientos para los estudios de campo;
+
+c) diseño experimental y análisis estadístico de los datos procedentes de ensayos de campo para el análisis comparativo:
+
+i) descripción del diseño de los estudios de campo,
+
+ii) descripción del aspecto pertinente de los entornos receptores,
+
+iii) análisis estadístico;
+
+d) si es pertinente, selección de material vegetal para el análisis;
+
+e) análisis comparativo de las características agronómicas y fenotípicas;
+
+f) análisis comparativo de la composición, si resulta pertinente;
+
+g) conclusiones del análisis comparativo.
+
+4. Información específica para cada ámbito de riesgo.
+
+Para cada uno de los siete ámbitos de riesgo mencionados en la sección D.2 del anexo IV, el notificador describirá primero la vía perjudicial, explicando, en una cadena de causa-efecto, cómo la liberación de la PSMG puede resultar perjudicial, habida cuenta del peligro y de la exposición.
+
+El notificador presentará la siguiente información, excepto si esta no es pertinente a la luz de los usos previstos del OMG:
+
+a) Persistencia y capacidad de invasión, incluida la transferencia de material genético entre plantas:
+
+i) evaluación de las posibilidades de que la PSMG se vuelva más persistente o invasiva y los efectos medioambientales adversos que se derivan,
+
+ii) evaluación de las posibilidades de que la PSMG transmita transgenes a variedades emparentadas sexualmente compatibles y los efectos medioambientales adversos que se derivan,
+
+iii) conclusiones sobre los efectos ambientales adversos de la persistencia y la capacidad de invasión de la PSMG, incluidos los efectos adversos para el medio ambiente de la transferencia de material genético entre plantas;
+
+b) Transferencia genética de las plantas a los microorganismos:
+
+i) evaluación de las posibilidades de transferencia del ADN recién insertado de la PSMG a microorganismos y los efectos medioambientales adversos que se derivan,
+
+ii) conclusiones sobre los efectos adversos de la transferencia de ADN recién insertado de la PSMG a los microorganismos para la salud humana y animal y para el medio ambiente;
+
+c) Interacciones de la PSMG con los organismos objetivo, en su caso:
+
+i) evaluación del potencial de cambio en las interacciones directas e indirectas entre la PSMG y los organismos objetivo y los efectos adversos en el medio ambiente,
+
+ii) evaluación del potencial de evolución de la resistencia del organismo objetivo a la proteína expresada (basándose en los antecedentes de la evolución de la resistencia a los plaguicidas convencionales o las plantas transgénicas con rasgos similares) y los efectos adversos para el medio ambiente que se derivan,
+
+iii) conclusiones sobre los efectos adversos para el medio ambiente de las interacciones entre la PSMG y los organismos objetivo;
+
+d) Interacciones de la PSMG con organismos no objetivo:
+
+i) evaluación del potencial de que se produzcan interacciones directas e indirectas entre la PSMG y organismos no objetivo, incluidas las especies protegidas, y los efectos adversos que se derivan.
+
+La evaluación tendrá asimismo en cuenta los posibles efectos adversos sobre los servicios ecosistémicos pertinentes y sobre las especies responsables de esos servicios,
+
+ii) conclusiones sobre los efectos adversos para el medio ambiente de las interacciones entre la PSMG y organismos no objetivo;
+
+e) Impacto de las técnicas específicas de cultivo, gestión y recolección:
+
+i) en relación con las PSMG para cultivo, evaluación de los cambios en las técnicas específicas de cultivo, gestión y recolección utilizadas para la PSMG en cuestión y los efectos adversos para el medio ambiente que se derivan,
+
+ii) conclusiones sobre los efectos adversos para el medio ambiente de las técnicas específicas de cultivo, gestión y recolección;
+
+f) Efectos sobre los procesos biogeoquímicos:
+
+i) evaluación de los cambios en los procesos biogeoquímicos en la zona en la que se cultivará la PSMG y en el medio ambiente en general, así como los efectos adversos que se derivan,
+
+ii) conclusiones sobre los efectos adversos en los procesos biogeoquímicos;
+
+g) Efectos en la salud humana y animal:
+
+i) evaluación de las posibles interacciones directas o indirectas entre la PSGM y las personas que manejan PSMG o están en contacto con estas, incluso a través del polen o el polvo de una PSMG transformada, y evaluación de los efectos adversos de estas interacciones en la salud humana,
+
+ii) por lo que se refiere a las PSMG no destinadas al consumo humano, pero cuyos organismos receptores o parentales pueden destinarse al consumo humano, evaluación de la probabilidad de que se produzca una ingesta accidental y de sus posibles efectos adversos en la salud humana,
+
+iii) evaluación de los posibles efectos adversos sobre la salud de los animales, derivados de un consumo accidental, por parte de los animales, de la PSMG o de material procedente de dicha planta,
+
+iv) efectos en la salud humana y de los animales;
+
+h) Evaluación global del riesgo y conclusiones:
+
+Se suministrará un resumen de todas las conclusiones en cada ámbito de riesgo.
+
+El resumen deberá tener en cuenta la caracterización del riesgo de conformidad con las fases 1 a 4 de la metodología descrita en la sección C.3 del anexo IV y las estrategias de gestión del riesgo propuestas de conformidad con el punto 5 de la sección C.3 del anexo IV.
+
+5. Descripción de las técnicas de detección e identificación de la PSMG.
+
+6. Información sobre anteriores liberaciones de la PSMG, en su caso.
+
+> Se modifica por el art. 2.18 del Real Decreto 452/2019, de 19 de julio. Ref. BOE-A-2019-10757
+
+> Esta modificación entra en vigor el 30 de septiembre de 2019, según establece la disposición final 2 del citado Real Decreto.
