@@ -4,85 +4,93 @@
 
 1. Cuestiones generales.
 
-a) Las mercancías que puedan acogerse a la franquicia de bajo valor o bien de pequeños envíos se declararán por el procedimiento normal de declaración escrita o bien por el procedimiento de declaración simplificada, si se cumplen los requisitos habilitadores para ello.
+a) Las mercancías que puedan acogerse a la franquicia de bajo valor o bien de pequeños envíos se declararán a libre práctica, bien mediante su presentación en aduana cuando se trate de un envío postal (en virtud de lo dispuesto en los artículos 138f y 141.3 RDCAU) o bien por el procedimiento normal de declaración electrónica, que podrá ser simplificada, si se cumplen los requisitos habilitadores para ello.
 
-No obstante lo anterior, también podrán declararse con arreglo a lo previsto en el presente apéndice, en los supuestos y con las condiciones previstas en el mismo.
+b) Las autorizaciones a que se refiere este apéndice deberán solicitarse electrónicamente en la sede de la Agencia Tributaria, mediante el formulario de solicitud de declaración simplifica (SDE).
 
-b) Las autorizaciones a que se refiere este apéndice podrán solicitarse en cualquiera de las Aduanas donde se realicen operaciones objeto de las mismas y, una vez obtenidas, tendrán carácter nacional, salvo para el ámbito de las Islas Canarias y duración ilimitada.
+En el marco del Convenio VEXCAN y respecto a mercancías pertenecientes a la Unión, la solicitud de autorización se podrá dirigir indistintamente a la Delegación Especial de la Agencia Tributaria de Canarias o a la Administración Tributaria Canaria. La autorización será concedida por la Administración receptora de la solicitud, previo informe favorable de la otra. La autorización así obtenida surtirá efectos ante ambas Administraciones.
 
-En el marco del Convenio VEXCAN, la solicitud de autorización se podrá dirigir indistintamente a la Delegación Especial de la Agencia Tributaria de Canarias o a la Administración Tributaria Canaria. La autorización será concedida por la Administración receptora de la solicitud, previo informe favorable de la otra. La autorización así obtenida surtirá efectos ante ambas Administraciones.
-
-Las autorizaciones serán revocadas cuando se incumplieren las obligaciones que le correspondieran al autorizado o bien cuando se dejasen de cumplir una o varias de la condiciones de dicha autorización, en los términos previstos en el artículo 9 del Reglamento (CEE) n.º 2913/1992. Esta revocación no tiene carácter sancionador.
+Las autorizaciones serán revocadas cuando se incumplieren las obligaciones que le correspondieran al autorizado o bien cuando se dejasen de cumplir una o varias de las condiciones de dicha autorización, en los términos previstos en el artículo 28 del CAU.
 
 2. Importación.
 
 2.1 Bajo valor.
 
-A los efectos de este apéndice tendrá la consideración de bajo valor la mercancía que pueda acogerse a alguna de las franquicias arancelarias de los artículos 23, 25, 86, 87 o 90 del Reglamento (CE) n.º 1186/2009 del Consejo, de 16 de noviembre de 2009, relativo al establecimiento de un régimen comunitario de franquicias aduaneras (versión codificada) y a la exención de IVA prevista en los artículos 34 o 48 de la Ley 37/1992, de 28 de diciembre, o, en su caso, a la exención del Impuesto General Indirecto Canario prevista en los números 16.º, 17.º, 18.º, 19.º, 27.ºC o 28.º del artículo 14.3 o en el artículo 14.11 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias. El límite de las franquicias se refiere a la totalidad del envío aunque se trate de mercancías distintas.
+A los efectos de este apéndice tendrá la consideración de bajo valor la mercancía que pueda acogerse a alguna de las franquicias arancelarias de los artículos 23, 25, 86, 87 o 90 del Reglamento (CE) n.º 1186/2009 del Consejo, de 16 de noviembre de 2009, relativo al establecimiento de un régimen comunitario de franquicias aduaneras (versión codificada) y a la exención de IVA prevista en los artículos 34, 36, 48 o 49 de la Ley 37/1992, de 28 de diciembre, o, en su caso, a la exención del Impuesto General Indirecto Canario prevista en los números 16.º, 17.º, 18.º, 19.º, 27.ºC o 28.º del artículo 14.3 o en el artículo 14.11 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias. El límite de las franquicias se refiere a la totalidad del envío, aunque se trate de mercancías distintas.
 
 Los procedimientos aplicables serán:
 
-a) Respecto de los paquetes postales que tengan la consideración de bajo valor, las mercancías en ellos contenidas se entenderán declarados en aduanas a consumo (régimen 40 o régimen 49) en el momento de su presentación, en los términos previstos en el artículo 237.1.A b) del Reglamento (CEE) n.º 2454/1993, de 2 de julio de 1993.
+a) Respecto de los envíos postales que tengan la consideración de bajo valor, las mercancías en ellos contenidas se entenderán declarados en aduanas a consumo (régimen 40 o régimen 49) en el momento de su presentación, en los términos previstos en los artículos 141.3 RDCAU siempre que se remitan los datos mencionados a continuación.
 
 El operador postal deberá adicionar a la declaración sumaria los siguientes datos de la declaración CN23:
 
-‒ Aduana de despacho.
+– Aduana de despacho.
 
-‒ Aeropuerto de origen.
+– Aeropuerto de origen.
 
-‒ Aeropuerto de carga.
+– Aeropuerto de carga.
 
-‒ Documento de cargo.
+– Documento de cargo.
 
-‒ Ubicación de la mercancía.
+– Ubicación de la mercancía.
 
-‒ Tipo de bultos.
+– Tipo de bultos.
 
-‒ Número de bultos.
+– Número de bultos.
 
-‒ Peso bruto.
+– Peso bruto.
 
-‒ Descripción de la mercancía.
+– Descripción de la mercancía.
 
-‒ Valor del envío.
+– Valor del envío.
 
-‒ Identificación del destinatario.
+– Identificación del destinatario.
 
-‒ Identificación del remitente.
+– Identificación del remitente.
 
 Se aplicará este procedimiento cuando el envío cumpla las siguientes condiciones:
 
-‒ Las mercancías no estén sujeta a prohibiciones ni restricciones.
+– Las mercancías no estén sujeta a prohibiciones ni restricciones.
 
-‒ El envío esté individualizado en la DSDT.
+– El envío esté individualizado en la DSDT.
 
-‒ La mercancía se encuentre en el recinto público, salvo que la Aduana de despacho admita otra cosa.
+– La mercancía se encuentre en el recinto público, salvo que la Aduana de despacho admita otra cosa.
 
 El operador postal responde de la integridad, exactitud y veracidad de los datos.
 
+En el supuesto de que, tras una actuación de comprobación por parte de la autoridad aduanera, resultara que no se cumple alguna de las condiciones para su uso (valor superior a 22 euros, mercancías sujetas a prohibición o restricción, etc.), será necesario la presentación de una declaración aduanera por parte del destinatario.
+
 Se considerará declarante y, en su caso, deudor, al destinatario. No obstante, la administración postal será considerada declarante y, en su caso, deudora, en cualquiera de los siguientes casos:
 
-‒ Cuando el destinatario del paquete no esté establecido en España,
+– Cuando el destinatario del paquete no esté establecido en España,
 
-‒ Cuando los datos no sean exactos o veraces, por no coincidir con los que acompañen al paquete.
+– cuando los datos no sean exactos o veraces, por no coincidir con los que acompañen al paquete.
 
-b) Los operadores que realicen un servicio integrado de recogida, transporte, despacho de aduanas y entrega urgente en un plazo concreto, manteniendo localizada y bajo control la mercancía durante toda la duración del servicio y que sean operador económico autorizado (OEA) de simplificaciones podrán ser autorizados a utilizar el procedimiento descrito en el punto anterior.
+b) Envíos no postales.
 
-En este caso, la declaración tendrá la consideración de declaración simplificada en los términos del artículo 166 del CAU.
+Podrán solicitar esta autorización de declaración simplificada (bajo valor) los Operadores Económicos Autorizados (OEA) de simplificaciones. El titular de la autorización será el declarante.
 
-Para las introducciones en las Islas Canarias de mercancías de la Unión que no estén sujetos a otro tipo de restricciones o prohibiciones, en el marco del Convenio VEXCAN, podrán ser autorizados a utilizar dicho procedimiento los operadores que asumen la responsabilidad por el transporte de las mercancías después de su introducción en este territorio, sin que se exija que se trate de un operador económico autorizado (OEA) de simplificaciones.
+c) Intercambios nacionales con las Islas Canarias de mercancías de la Unión.
+
+Para las introducciones en las Islas Canarias de mercancías de la Unión, exentas de IGIC por alguno de los artículos anteriormente mencionados, que no estén sujetos a otro tipo de restricciones o prohibiciones en el marco del Convenio VEXCAN, así como en las introducciones de mercancías de la Unión procedentes de las Islas Canarias, en territorio español IVA, cuando resulte aplicable algún supuesto de exención de IVA de los anteriormente mencionados, podrán ser autorizados a esta declaración simplificada cuando se solicite por los operadores que asumen la responsabilidad por el transporte de las mercancías después de su introducción en este territorio, sin que se exija que se trate de un operador económico autorizado (OEA) de simplificaciones.
+
+d) Envíos sin carácter comercial procedentes de Ceuta y Melilla.
+
+Se autorizará este tipo de declaración sin exigir al declarante ser OEA para todos aquellos envíos que no tengan carácter comercial como muestras para análisis, residuos biológicos, material inventariado de la Administración, documentos, etc.
+
+El titular de la autorización responde de la integridad, exactitud y veracidad de los datos.
 
 2.2 Pequeños envíos.
 
-A los efectos de este apéndice tendrán la consideración de pequeños envíos las mercancías que puedan acogerse a la franquicia arancelaria prevista en el artículo 23 del Reglamento (CE) n.º 1186/2009, de 16 de noviembre de 2009, y que supere el umbral previsto en el artículo 34 de la Ley 37/992, de 28 de diciembre, o bien, en su caso, el del artículo 14.11 de la Ley 20/1991, de 7 de junio.
+A los efectos de este apéndice tendrán la consideración de pequeños envíos las mercancías que puedan acogerse a la franquicia arancelaria prevista en el artículo 23 del Reglamento (CE) n.º 1186/2009, de 16 de noviembre de 2009, y que supere el umbral previsto en el artículo 34 o 36 de la Ley 37/992, de 28 de diciembre, o bien, en su caso, el del artículo 14.11 de la Ley 20/1991, de 7 de junio.
 
-En el caso de pequeños envíos, el operador postal así como los operadores que realicen un servicio integrado de recogida, transporte, despacho de aduanas y entrega urgente en un plazo concreto, manteniendo localizada y bajo control la mercancía durante toda la duración del servicio y que sean operador económico autorizado (OEA) de simplificaciones, podrán ser autorizados a presentar una declaración simplificada con las siguientes particularidades:
+En el caso de pequeños envíos, el operador postal, así como los operadores que puedan acceder a la autorización de bajo valor, podrán ser autorizados a presentar una declaración simplificada de libre práctica con las siguientes particularidades:
 
-‒ En la casilla 8 se podrá consignar el NIF del autorizado cuando se desconozca el NIF del destinatario, indicando el nombre y la dirección de este último.
+– En la casilla 8 se podrá consignar el NIF del autorizado cuando se desconozca el NIF del destinatario, indicando el nombre y la dirección de este último. Esta simplificación no será posible cuando el titular de la autorización declare por cuenta del destinatario.
 
-Tendrá la consideración de autorización de despacho la firma del destinatario en el justificante de entrega del envío que le exhiba el representante a tal fin. Dicha autorización debe estar a disposición de la aduana. En este recibí deberá constar la identificación correcta del destinatario así como su NIF.
+Tendrá la consideración de autorización de despacho la firma del destinatario en el justificante de entrega del envío que le exhiba el representante a tal fin. Dicha autorización debe estar a disposición de la aduana. En este recibí deberá constar la identificación correcta del destinatario, así como su NIF.
 
-‒ En la casilla 33 se podrá utilizar la partida 9990000100.
+– En la casilla 33 se podrá utilizar la partida 9990000100.
 
 Las condiciones de uso de la simplificación de este Apéndice son las siguientes:
 
@@ -92,9 +100,9 @@ b) Las mercancías no deben estar sujetas a Impuestos Especiales, a prohibicione
 
 c) El operador autorizado a la simplificación debe actuar como representante indirecto.
 
-El destinatario tiene derecho a que se le entregue copia de la declaración presentada y la liquidación practicada por la Administración a efectos de que pueda ejercer las acciones oportunas (recursos, etc). Se entiende cumplido este requisito cuando se le comunica el MRN del DUA y el Código Seguro de Verificación (CSV) del documento de levante.
+El destinatario tiene derecho a que se le entregue copia de la declaración presentada y la liquidación practicada por la Administración a efectos de que pueda ejercer las acciones oportunas (recursos, etc.). Se entiende cumplido este requisito cuando se le comunica el MRN del DUA y el Código Seguro de Verificación (CSV) del documento de levante.
 
-El destinatario puede dirigirse en cualquier momento a la cualquier órgano con competencias aduaneras de la AEAT/ATC indicando el MRN del DUA a efectos de obtener copia de la declaración u otros documentos incluidos en el expediente, interponer recursos o reclamaciones. El órgano ante el que se presenta la solicitud o el recurso o reclamación, modificará el NIF declarado en la casilla 8 del DUA sustituyéndolo por el del destinatario de la mercancía.
+El destinatario puede dirigirse en cualquier momento a cualquier órgano con competencias aduaneras de la Agencia Estatal de Administración Tributaria/Agencia Tributaria Canaria indicando el MRN del DUA a efectos de obtener copia de la declaración u otros documentos incluidos en el expediente, interponer recursos o reclamaciones. El órgano ante el que se presenta la solicitud o el recurso o reclamación, modificará el NIF declarado en la casilla 8 del DUA sustituyéndolo por el del destinatario de la mercancía.
 
 El titular de la autorización informará al destinatario del derecho que le asiste a presentar la declaración por el procedimiento normal o por cualquiera de los procedimientos simplificados previstos en la normativa aduanera en lugar de hacer uso de la simplificación a que se refiere este apartado.
 
@@ -104,21 +112,23 @@ Las personas físicas destinatarias del envío al que se aplique este procedimie
 
 3.1 Envíos sin importancia económica.
 
-Las personas autorizadas para utilizar el procedimiento de «bajo valor» del apartado 2.1 y los representantes aduaneros que dispongan de certificado OEA de simplificaciones, podrán acogerse a determinadas simplificaciones en la cumplimentación de las siguientes declaraciones que, como dispone el artículo 787 del Reglamento (CEE) n.º 2454/1993, de 2 de julio de 1993. Estas simplificaciones no supondrán exención alguna en relación con la obligación de declaración de los datos de seguridad y la obligación de presentación por vía electrónica. El procedimiento previsto en este apartado se aplicará:
+Las personas autorizadas para utilizar el procedimiento de «bajo valor» del apartado 2.1, podrán utilizar determinadas simplificaciones en la cumplimentación de las siguientes declaraciones:
 
-‒ Exportaciones de mercancías desprovistas de carácter comercial enviadas por particulares cuyo valor no exceda de 3.000 euros.
+– Exportaciones de mercancías desprovistas de carácter comercial enviadas por particulares cuyo valor no exceda de 3.000 euros.
 
-‒ Exportaciones de mercancías de carácter comercial que consistan en muestras sin valor estimable, impresos y objetos de carácter publicitario.
+– Exportaciones de mercancías de carácter comercial que consistan en muestras sin valor estimable, impresos y objetos de carácter publicitario.
 
-En todo caso la aduana de exportación y la de salida deben estar situadas en España para cumplir con lo dispuesto en el artículo 289 del Reglamento (CEE) n.º 2454/1993, de 2 de julio de 1993, que habilita el establecimiento de esta simplificación.
+Estas simplificaciones no supondrán exención alguna en relación con la obligación de declaración de los datos de seguridad y la obligación de presentación por vía electrónica.
+
+En todo caso la aduana de exportación y la de salida deben estar situadas en España
 
 La simplificación consistirá en que:
 
 a) Se podrán utilizar las siguientes posiciones estadísticas, siempre que la descripción de la mercancía sea suficientemente detallada:
 
-‒ 9990.00.05.00 (para envíos realizados por particulares cuyo valor no exceda de 3.000 euros).
+– 9990.00.05.00 (para envíos realizados por particulares cuyo valor no exceda de 3.000 euros)
 
-‒ 9990.00.06.00 (envíos de carácter comercial que consistan en muestras sin valor estimable, impresos y objetos de carácter publicitario).
+– 9990.00.06.00 (envíos de carácter comercial que consistan en muestras sin valor estimable, impresos y objetos de carácter publicitario)
 
 b) No será necesario incluir en la casilla 44 de la declaración el número de factura.
 
@@ -126,24 +136,32 @@ c) Se podrá imprimir como levante una relación de estos envíos que incluya el
 
 No podrán utilizarse las posiciones estadísticas indicadas:
 
-‒ Para mercancía sujeta a inspección por los servicios de inspección fronteriza, o sujeta a restricciones o prohibiciones comerciales a la exportación.
+– Para mercancía sujeta a inspección por los servicios de inspección fronteriza, o sujeta a restricciones o prohibiciones comerciales a la exportación.
 
-‒ Cuando se acojan a los beneficios de las restituciones o a la devolución de los Impuestos Especiales.
+– Cuando se acojan a los beneficios de las restituciones o a la devolución de los Impuestos Especiales.
 
-Cuando se trate de expediciones desde las Islas Canarias hacia el resto del territorio español que constituye el ámbito espacial de aplicación del IVA y las expediciones desde este territorio hacia las Islas Canarias, el órgano competente para autorizar al expedición podrá permitir que los representantes aduaneros con certificado OEA puedan realizar sobre manifiesto el despacho de mercancías a las que se refiere este apartado.
+Cuando se trate de expediciones desde las Islas Canarias hacia el resto del territorio español que constituye el ámbito espacial de aplicación del IVA y las expediciones desde este territorio hacia las Islas Canarias, el órgano competente para autorizar la expedición podrá permitir que los representantes aduaneros con certificado OEA puedan realizar sobre manifiesto el despacho de mercancías a las que se refiere este apartado.
 
 3.2 Suministros de surtidos de mercancías a Embajadas, Consulados, Fuerzas Armadas, organismos similares nacionales en terceros países y personal destinado en los mismos.
 
-Los titulares de un certificado OEA de simplificaciones podrán ser autorizados por el Departamento de Aduanas e Impuestos Especiales para la utilización de las posiciones estadísticas siguientes cuando se trate de envíos para embajadas, consulados, Fuerzas Armadas y organismos similares nacionales en terceros países.
+Los titulares de un certificado OEA de simplificaciones podrán utilizar las posiciones estadísticas siguientes cuando se trate de envíos para embajadas, consulados, Fuerzas Armadas y organismos similares nacionales en terceros países.
 
-‒ 9990.00.07 suministros de surtidos de mercancías de los capítulos 1 a 24 9990.00.08 suministros de surtidos de mercancías de los capítulos restantes.
+– 9990.00.07 suministros de surtidos de mercancías de los capítulos 1 a 24 9990.00.08 suministros de surtidos de mercancías de los capítulos restantes.
 
 No podrán incluirse en estas posiciones estadísticas:
 
-‒ mercancía sujeta a inspección por los servicios de inspección fronteriza salvo autorización de dichos servicios o sujeta a restricciones o prohibiciones comerciales a la exportación,
+– mercancía sujeta a inspección por los servicios de inspección fronteriza salvo autorización de dichos servicios o sujeta a restricciones o prohibiciones comerciales a la exportación,
 
-‒ cuando se acojan a los beneficios de las restituciones o a la devolución de los Impuestos Especiales, o
+– cuando se acojan a los beneficios de las restituciones o a la devolución de los Impuestos Especiales, o
 
-‒ aquellas mercancías cuyo valor supere el umbral estadístico.
+– aquellas mercancías cuyo valor supere el umbral estadístico.
+
+3.3 Comercio electrónico mediante EIR.
+
+Podrá solicitarse autorización para el despacho de exportación mediante inscripción en los registros del declarante (EIR) para mercancías dispensadas de la obligación de una declaración previa a la salida de acuerdo a lo establecido en el artículo 245 del RDCAU, siempre y cuando se cumplan los requisitos previstos en el artículo 182 del CAU.
+
+En el apartado 3.5 de esta Resolución se indica cómo debe declararse.
+
+> Se sustituye por el que figura como anexo 6º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.10. Ref. BOE-A-2019-12996
 
 > Se modifica la letra b) del apartado 2.1 por el apartado primero.11 de la Resolución de 25 de agosto de 2017. Ref. BOE-A-2017-10089

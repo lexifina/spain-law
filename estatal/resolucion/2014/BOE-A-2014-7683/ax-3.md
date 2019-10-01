@@ -8,7 +8,7 @@ El artículo 179 del CAU dispone que:
 
 Podrá eximirse del requisito de autorización que contempla el párrafo primero cuando la declaración en aduana y las mercancías se presenten en aduana bajo responsabilidad de una sola autoridad aduanera.»
 
-Haciendo uso de la habilitación legal contemplada en este párrafo segundo del artículo 179.1 CAU y siempre que la declaración en aduana sea normal (excluyéndose por tanto las declaraciones simplificadas y la inscripción en los registros del declarante), se establecen las siguientes dos modalidades de despacho centralizado dentro de España. En todo caso, esta simplificación no perjudica el uso del procedimiento normal de declaración.
+Haciendo uso de la habilitación legal contemplada en este párrafo segundo del artículo 179.1 del CAU se establecen las siguientes modalidades de despacho centralizado dentro de España. En todo caso, esta simplificación no perjudica el uso del procedimiento normal de la declaración.
 
 A) Autorización de despacho centralizado regional o provincial.
 
@@ -20,7 +20,7 @@ Este procedimiento podrá ser también solicitado en el marco de la VEXCAN.
 
 Los operadores económicos que soliciten esta decisión, deberán presentarla a través de la SEDE electrónica de la Agencia Tributaria.
 
-Por parte del interesado se indicará el lugar en donde se pretende realizar el despacho centralizado (dato XIII/4), que podrá no ser admitido por la Dependencia correspondiente cuando se perjudiquen sus funciones de control aduanero.
+Por parte del interesado se indicará el lugar en donde se pretende realizar el despacho centralizado (dato XIII/3), que podrá no ser admitido por la Dependencia correspondiente cuando se perjudiquen sus funciones de control aduanero.
 
 La presente autorización será concedida cuando:
 
@@ -50,7 +50,7 @@ Se entiende por esta autorización la que habilita a la presentación de la decl
 
 Los operadores económicos que soliciten esta decisión, deberán presentarla a través de la SEDE electrónica de la Agencia Tributaria.
 
-Por parte del interesado se indicará el lugar en donde se pretende realizar el despacho centralizado (dato XIII/4), que podrá no ser admitido por el órgano competente cuando se perjudiquen las funciones de control aduanero.
+Por parte del interesado se indicará el lugar en donde se pretende realizar el despacho centralizado (dato XIII/3), que podrá no ser admitido por el órgano competente cuando se perjudiquen las funciones de control aduanero.
 
 La presente autorización será concedida cuando:
 
@@ -63,5 +63,7 @@ Las declaraciones de tránsito no podrán ser objeto de despacho centralizado.
 1. Procedimiento de despacho.
 
 El procedimiento de despacho es el mismo que el descrito en el punto 2 del apartado A).
+
+> Se modifica el párrafo tercero y se rectifica un dato del apartado A1 y B por el apartado primero.11 de la Resolución de 2 de septiembre de 2019. Ref. BOE-A-2019-12996
 
 > Se sustituye por el que figura como anexo 4º de la Resolución de 25 de agosto de 2017, según establece su apartado primero.13. Ref. BOE-A-2017-10089

@@ -106,6 +106,12 @@ Capítulo 5.º Vinculación al régimen de depósito aduanero y otros almacenes 
 
 5.3 Formularios complementarios.
 
+Capítulo 5.º bis. Vinculación al régimen de depósito aduanero y otros almacenes autorizados actualizado al CAU.
+
+5 bis.1. Operaciones que deben formalizarse de acuerdo con las instrucciones del apartado 5 bis.2
+
+5 bis.2. Instrucciones relativas a los datos de la declaración
+
 Capítulo 6.º Presentación de DUAs por transmisión electrónica de datos.
 
 6.1 Preliminar.
@@ -190,6 +196,7 @@ APÉNDICE
 | XV | Supuestos especiales de declaración. |
 | XVI | Simplificaciones en los intercambios nacionales de mercancía de la Unión con las Islas Canarias. |
 | XVII | Formulario web de importación para particulares. |
+| XVIII | Instrucciones para la declaración de determinados regímenes especiales |
 
 ANEXO
 
@@ -301,6 +308,8 @@ RESUMEN DE MODIFICACIONES
 | Actualización referencia legal códigos «C», E02 y 801 a 806. Nuevos códigos: F06, 110, 111, 112, 113, 128, 342 504. |
 | Anexo XV-B |
 | Actualización textos y referencias legales códigos. Nuevos códigos comunitarios: C048, C401 a C405 C691-C692, D017-D018, E020, U065 a U071, IJ092 a U094, Y044, Y047-Y048, Y051 a Y056, Y800, Y910, Y932 a Y936. Nuevos códigos nacionales: 1015, 1117-1118, 1223-1224, 5012, 5013, 9007, 9009 a 9013. Supresión códigos: A024 a A026, C031, C634, U030, Y005 e Y050. |
+
+> Se añade el capítulo 5.bis, con efectos de 1 de junio de 2020, y un apéndice XVIII por el que figura como anexo 2º y anexo 8º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.4.b) y 12. Ref. BOE-A-2019-12996
 
 > Se añade un anexo XVII por el que figura como anexo de la Resolución de 3 de enero de 2017, según establece su apartado primero. Ref. BOE-A-2017-159
 

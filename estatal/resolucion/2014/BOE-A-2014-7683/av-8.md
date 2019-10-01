@@ -52,9 +52,11 @@ Las instrucciones para el uso de estas posiciones se encuentran en el Apéndice 
 
 | 9990 00 01 00 | Importación de envíos «sin valor estimable» que se acojan a la franquicia prevista en el artículo 23 del Reglamento (CE) n.º 1186/2009, cuando el destinatario sea un particular y su valor intrínseco esté entre 22 y 150 € (ver Apéndice IX). |
 | --- | --- |
-| 9990 99 02 00 | Importación en Ceuta y Melilla mercancía nacional de acuerdo con lo previsto en el Apéndice VIII de esta Resolución. |
-| 9990 99 03 00 | Declaraciones de importación realizadas directamente por particulares (Ver Apéndice XVII). |
+| 9990.00.02.00 | Importación en Ceuta y Melilla de mercancía nacional de acuerdo a lo previsto en el Apéndice VIII de esta Resolución. |
+| 9990.00.03.00 | Declaraciones de importación realizadas directamente por particulares (Ver Apéndice XVII). |
 | 9990 00 05 | Envíos de mercancías efectuadas por particulares que no superen los 3000 € (ver Apéndice IX). |
 | 9990 00 06 | Exportaciones de carácter comercial que consistan en muestras sin valor estimable, impresos y objetos de carácter publicitario (ver Apéndice IX). |
 | 9990 00 07 | Suministros de surtidos de mercancías de los capítulos 1 a 24 para embajadas, consulados, Fuerzas Armadas y organismos similares nacionales en terceros países (ver Apéndice IX). |
 | 9990 00 08 | Suministros de surtidos de mercancías de los capítulos restantes para embajadas, consultados, Fuerzas Armadas y organismos similares nacionales en terceros países (ver Apéndice IX). |
+
+> Se corrigen códigos del apartado C por el apartado primero.15 de la Resolución de 2 de septiembre de 2019. Ref. BOE-A-2019-12996

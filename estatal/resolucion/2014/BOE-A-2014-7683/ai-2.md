@@ -48,13 +48,13 @@ D: Introducción en la Península e Islas Baleares de alcohol o bebidas alcohól
 
 Casilla 44:
 
-En el caso de que los productos importados tengan por destino establecimientos obligados a inscribirse en el Registro Territorial, se hará constar en esta casilla su CAE (Código de Actividad y de Establecimiento), código casilla 44, 5004.
+En el caso de que los productos importados tengan por destino establecimientos obligados a inscribirse en el Registro Territorial, se hará constar en esta casilla su CAE (Código de Actividad y del Establecimiento), código casilla 44, 5004.
 
 Asimismo, deberá incluirse el CAE del expedidor registrado (código 5016) que vaya a emitir el e-DA, en el supuesto de importaciones que se vinculen al régimen suspensivo de impuestos especiales o por las que se aplique una exención o un tipo impositivo reducido.
 
-En el caso de que se acoja a exención (claves E y B) deberá indicar el artículo y apartado de la Ley de II.EE que aplica, con el código de documento 3006.
+En el caso de que se acoja a exención (claves E y B) deberá indicar el artículo y apartado de la Ley de Impuestos Especiales que aplica, con el código de documento 3006.
 
-Cuando se trate de bebidas derivadas o cigarrillos que no lleven adheridas las marcas fiscales y el importador, en los supuestos de despacho de importación a tipo pleno, o el expedidor registrado, en el supuesto de despacho de importación con aplicación de una exención, opten por colocarlas en destino, debe indicarse esta circunstancia mediante el código 1402 (art. 26.8 a) 2.º Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio).
+Cuando se trate de bebidas derivadas, cigarrillos o picadura para liar que no lleven adheridas las marcas fiscales y el importador, en los supuestos de despacho de importación a tipo pleno, o el expedidor registrado, en el supuesto de despacho de importación con aplicación de una exención, opten por colocarlas en destino, debe indicarse esta circunstancia mediante el código 1402, artículo 26 apartado 6 letra a) Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de Julio), entrada en vigor de esta modificación a partir del 20 de mayo de 2019.
 
 Caso especial:
 
@@ -94,6 +94,7 @@ En los casos que a continuación se citan es obligatorio consignar los códigos 
 | 125 | Cuando se exporten productos por los que ya se ha devengado el impuesto especial a tipo cero o cuando no se solicite la devolución de las cuotas satisfechas de Impuestos Especiales correspondientes a los productos exportados. |
 | 126 | Cuando la exportación ultime el régimen suspensivo de Impuestos Especiales y la aduana de salida sea distinta de la de exportación y pertenezca a otro Estado miembro de la Unión Europea. |
 | 128 | Para envíos entre Canarias y Península o islas Baleares de productos sujetos a los Impuestos Especiales sobre cerveza, productos intermedios o alcohol y bebidas derivadas cuya circulación entre origen y destino deba ir amparada por un documento administrativo electrónico. |
+| 129 | Ultimación del régimen suspensivo por salida del TAU en tiendas libres de impuestos. |
 
 Casilla 40:
 
@@ -122,6 +123,8 @@ Deberá indicarse, con toda claridad, que los productos son objeto de los Impues
 ‒ Una copia del DAT deberá quedar en poder del expedidor de tales productos.
 
 ‒ Una copia del DAT, deberá enviarse al expedidor por el receptor de los productos.
+
+> Se modifican los apartados A, casilla 44 y B, casilla 37.2 por el apartado primero.7 de la Resolución de 2 de septiembre de 2019. Ref. BOE-A-2019-12996
 
 > Se modifica el apartado A, casillas 33 y 34 por el apartado primero.9 de la Resolución de 25 de agosto de 2017. Ref. BOE-A-2017-10089
 
