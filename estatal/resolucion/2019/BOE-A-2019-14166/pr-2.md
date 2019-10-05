@@ -1,0 +1,3 @@
+## Primero. Objeto.
+
+La presente resolución tiene por objeto determinar el funcionamiento y la utilización del sistema de código seguro de verificación (CSV) de documentos electrónicos en el desarrollo de actuaciones administrativas automatizadas del Fondo Español de Garantía Agraria, O.A., organismo autónomo adscrito al Ministerio de Agricultura, Pesca y Alimentación, con el fin de dar cumplimiento a lo establecido en el artículo 20 del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
