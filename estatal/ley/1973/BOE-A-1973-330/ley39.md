@@ -1,9 +1,7 @@
-## Ley 39. Prescripción general.
+## Ley 39.
 
-## a) de acciones personales
+Cómputo de los plazos. Los plazos de caducidad señalados por meses o años se contarán de fecha a fecha.
 
-Las acciones personales que no tengan establecido otro plazo especial prescriben a los treinta años, con independencia del plazo de prescripción propio de la garantía real que se hubiere constituido.
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 
-## b) de acciones reales
-
-Las acciones reales que no tengan establecido plazo especial sólo prescriben a consecuencia de la usucapión con la que resulten incompatibles.
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.

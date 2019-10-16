@@ -1,5 +1,9 @@
-## Ley 15. Condición foral de las personas jurídicas
+## Ley 15.
 
-La condición foral navarra de las personas jurídicas se determinará por su domicilio.
+Ejercicio defraudatorio de derechos. Los actos realizados con intención de excluir injustamente el derecho de un tercero pueden impugnarse a la vez que se ejercita el derecho que se intentó defraudar
+
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
+
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
 
 > Redactada la rúbrica conforme a la corrección de errores publicada en BOE núm. 129, de 30 de mayo de 1974. Ref. BOE-A-1974-847.

@@ -1,7 +1,9 @@
-## Ley 98. Fallecimiento de donantes
+## Ley 98.
 
-Al fallecimiento de algunos de los donantes o instituyentes, la sociedad familiar continuará, salvo pacto en contrario, entre los restantes partícipes.
+División. El remanente líquido de los bienes de conquista se dividirá en la proporción pactada o, en su defecto, por mitad entre los cónyuges o sus respectivos herederos.
 
-Fallecidos todos los donantes o instituyentes, la sociedad continuará entre los cónyuges, y se regirá por el capítulo primero de este título.
+Derecho de aventajas. Por derecho de mejoría o aventajas, pertenecerán en propiedad al cónyuge sobreviviente, sin que le sean computados en su parte en las conquistas, las ropas y efectos de uso personal, así como los demás objetos de ajuar de casa cuyo valor no fuere excesivo conforme a las circunstancias y nivel económico de la familia y a los usos sociales. También podrán detraerse como aventajas los instrumentos de trabajo de un valor no desproporcionado al patrimonio común.
 
-Lo dispuesto en esta ley será sin perjuicio de la liquidación parcial que en su caso procediere.
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
+
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.

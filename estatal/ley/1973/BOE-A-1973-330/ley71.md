@@ -1,30 +1,56 @@
-## Ley 71. Acciones de declaración
+## Ley 71.
 
-a) Acción de declaración de la filiación matrimonial.
+Guarda y custodia. Cuando cualquiera de los progenitores solicite la decisión del juez sobre el ejercicio de la guarda y cuidado diario de los hijos menores, aquel podrá acordar la modalidad de guarda más conveniente para el concreto interés de cada uno de los menores, ya sea esta compartida entre ambos progenitores o individual de uno de ellos.
 
-El padre, la madre y el hijo pueden reclamar la filiación matrimonial de éste en cualquier tiempo. Si hubiese posesión de estado, pueden ejercitar la acción los terceros con interés lícito y directo.
+Para ello, tendrá en cuenta la solicitud y las propuestas de planificación de la responsabilidad parental que haya presentado cada uno de los progenitores y, en su caso, lo dictaminado por los informes periciales; oirá al Ministerio Fiscal y a las personas cuya opinión sobre los menores estime necesario recabar; y atenderá a los siguientes factores:
 
-b) Acción de declaración de la filiación no matrimonial.
+1. La edad de los hijos.
 
-La acción de declaración de la filiación no matrimonial podrá ser ejercitada:
+2. La capacidad parental, la relación existente entre los progenitores y la vinculación que los menores hayan establecido con cada uno durante la convivencia.
 
-1. Por los hijos, durante toda su vida. Cuando sean menores de edad o tengan su capacidad modificada judicialmente la acción corresponderá a su representante legal y al Ministerio Fiscal.
+3. La actitud de cada uno de los progenitores para asumir sus deberes, respetar los derechos del otro y, en especial, cooperar entre sí y garantizar la relación de los hijos con ambos progenitores, sus familias extensas, y, en su caso, nuevas parejas de cada uno.
 
-En el caso de que hubiesen fallecido durante su menor edad o con la capacidad judicialmente modificada podrá ser ejercitada por sus descendientes.
+4. El arraigo social y familiar de los hijos.
 
-2. Por los progenitores, en el plazo de un año desde que se hubiera tenido conocimiento de la posible paternidad o maternidad o razonablemente se hubiera podido tenerlo.
+5. La opinión de los hijos, siempre que tengan suficiente juicio y, en todo caso, si son mayores de doce años, con especial consideración a los mayores de catorce años.
 
-Cuando la filiación no estuviera determinada, será necesario que el progenitor que pretenda la declaración de su paternidad o maternidad haya realizado previamente el reconocimiento en la forma establecida en la Ley 69 y que la determinación de la filiación conforme al mismo no hubiera podido tener lugar por falta de consentimiento de la persona reconocida o, en su caso, de sus descendientes, o por estimación judicial de la oposición de sus respectivos representantes legales.
+6. La aptitud y voluntad de los progenitores para asegurar la estabilidad de los hijos.
 
-En tales supuestos, el plazo para el ejercicio de la acción se suspenderá en el momento en que se realice el reconocimiento, reanudándose su cómputo desde que conste la falta de consentimiento o desde que adquiera firmeza la resolución que estime la oposición.
+7. Las posibilidades de conciliación de la vida familiar y laboral de los progenitores.
 
-La sentencia estimatoria de la acción de declaración determinará la filiación, pero podrá, en interés del hijo o de sus descendientes, limitar sus efectos conforme a lo dispuesto en la Ley 72.
+8. Los acuerdos y convenios previos que pudieran existir entre los progenitores y que estos le hayan justificado.
 
-3. Por aquellas personas que tengan un interés lícito y directo, siempre que hubiese posesión de estado, y en cualquier tiempo.
+9. Cualquier otra circunstancia de especial relevancia para el régimen de convivencia.
 
-c) Legitimación pasiva común a las acciones de declaración.
+En cualquier caso, la decisión buscará conciliar, siempre que sea posible, todos los intereses, considerando como prioritarios los de los hijos menores o cuya capacidad haya sido judicialmente modificada, asegurando la igualdad de los progenitores en sus relaciones con los hijos en todo lo que sea beneficioso para estos y fomentando la corresponsabilidad.
 
-Las acciones para la declaración judicial de paternidad o maternidad, si el padre o la madre hubieren fallecido, podrán dirigirse contra sus herederos.
+Si decide la custodia compartida, el juez fijará un régimen de convivencia de cada uno de los progenitores con los hijos, adaptado a las circunstancias de la situación familiar, que garantice a ambos progenitores el ejercicio de sus derechos y obligaciones en situación de equidad.
+
+Si decide la custodia individual, el juez fijará un régimen de comunicación y estancias con el otro progenitor que, atendiendo a las específicas circunstancias que le afecten, le garantice el ejercicio de las facultades y deberes propios de la responsabilidad parental que tenga atribuidos conforme a las leyes de esta Compilación.
+
+Salvo circunstancias que lo justifiquen específicamente, no se adoptarán soluciones que supongan la separación de los hermanos.
+
+No procederá la atribución de la guarda y custodia a uno de los progenitores, ni individual ni compartida, cuando se den estos dos requisitos conjuntamente:
+
+a) Esté incurso en un proceso penal iniciado por atentar contra la vida, la integridad física, la libertad, la integridad moral o la libertad e indemnidad sexual del otro progenitor o de los hijos o hijas.
+
+b) Se haya dictado resolución judicial motivada en la que se constaten indicios fundados y racionales de criminalidad.
+
+Tampoco procederá la atribución cuando el juez advierta, de las alegaciones de las partes y de las pruebas practicadas, la existencia de indicios fundados y racionales de violencia doméstica o de género.
+
+Las medidas adoptadas en estos dos supuestos serán revisables a la vista de la resolución firme que, en su caso, se dicte al respecto en la jurisdicción penal.
+
+La denuncia contra un cónyuge o miembro de la pareja no será suficiente por sí sola para concluir de forma automática la existencia de violencia, de daño o amenaza para el otro o para los hijos, ni para atribuirle a favor de este la guarda y custodia de los hijos.
+
+Guarda a favor de terceros. Excepcionalmente, el juez podrá establecer que la guarda y cuidado de los menores sea atribuida a otros parientes o allegados del mismo que así lo consintieren o, en su caso, a la Entidad Pública que tenga legalmente atribuidas las facultades de protección del menor, todo ello sin perjuicio de la posterior formalización de la figura legal que corresponda a esa atribución.
+
+En la resolución por la que se acuerde dicha guarda, el juez instará la constitución del acogimiento, tutela o medida de protección del menor que, en cada caso, corresponda, si bien podrá establecer las facultades y deberes de la responsabilidad parental que, sin perjuicio de tales medidas, considere procedente que mantengan los progenitores.
+
+Visitas de los menores con otras personas. En la misma resolución en la que se acuerden las medidas sobre la responsabilidad parental, el juez podrá, a petición de cualquiera de los progenitores o del Ministerio Fiscal, establecer el sistema de comunicación, visitas y contactos de los menores con otros familiares y allegados y, en particular, con los hermanos y abuelos, cuando ello sea beneficioso para ellos, y previa audiencia de dichas personas.
+
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
+
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
 
 > Se modifica por el art. único.3 de la Ley Foral 9/2018, de 17 de mayo. Ref. BOE-A-2018-7646
 

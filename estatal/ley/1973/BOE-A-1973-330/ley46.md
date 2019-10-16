@@ -1,15 +1,13 @@
-## Ley 46. Facultades del Patronato
+## Ley 46.
 
-Salvo que otra cosa se disponga en los estatutos, corresponden al Patronato, plenamente y sin limitación alguna, las facultades siguientes:
+Sociedades y agrupaciones sin personalidad. Las sociedades u otras agrupaciones de naturaleza civil cuya personalidad no haya sido reconocida pueden, sin embargo, actuar como sujetos de derecho por mediación de quienes ostenten su representación expresa o tácitamente conferida.
 
-1). Las de administración y disposición del patrimonio de la fundación.
+La titularidad de los derechos adquiridos por estos sujetos colectivos se considerará conjunta de todos los miembros y será necesaria la unanimidad para disponer de esos derechos, sin perjuicio de las relaciones internas entre las partes.
 
-2). La de interpretar la voluntad del fundador.
+De las obligaciones contraídas por dichos sujetos colectivos responderán personal y solidariamente todos sus miembros.
 
-3). Las de inversión, realización, transformación y depósito de los bienes y aplicación de los mismos a los fines fundacionales.
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 
-4). Las de confeccionar los presupuestos y aprobar las cuentas por sí solo y con plenitud de efectos.
-
-Tratándose de fundaciones constituidas por voluntad privada, el fundador podrá eximir a la fundación de toda intervención administrativa. Sin embargo, a instancia de cualquier persona, el Ministerio Fiscal podrá inspeccionar la gestión e instar y ejercitar las acciones procedentes.
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
 
 > Redactada conforme a la corrección de errores publicada en BOE núm. 129, de 30 de mayo de 1974. Ref. BOE-A-1974-847.

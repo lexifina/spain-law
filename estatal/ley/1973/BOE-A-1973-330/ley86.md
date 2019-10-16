@@ -1,18 +1,20 @@
-## Ley 86. Administración y disposición
+## Ley 86.
 
-La administración y disposición de bienes de conquista se regirá por lo pactado en capitulaciones matrimoniales o en escritura pública. En defecto de pacto corresponderá a ambos cónyuges conjuntamente, sin perjuicio de lo establecido en los apartados siguientes:
+Modificación. Las capitulaciones matrimoniales podrán ser modificadas en cualquier tiempo, siempre que se observe la forma establecida en la ley 84 y presten su consentimiento, además de los cónyuges o personas de cuyo previsto matrimonio se tratare, el resto de otorgantes que vivan al tiempo de la modificación en cuanto afecte a los bienes y derechos concedidos por estos últimos o recibidos por ellos.
 
-1. Cuando uno de los cónyuges se hallare impedido para prestar su consentimiento sobre uno o varios actos de administración o disposición de bienes de conquista, o se negare injustificadamente a otorgarlo, resolverá el Juez.
+Para su oponibilidad frente a terceros, la modificación deberá ser objeto de inscripción conforme a lo previsto en el párrafo segundo de dicha ley.
 
-2. Cualquiera de Ios cónyuges podrá realizar por sí solo actos de administración sobre bienes o derechos de la sociedad de conquistas y actos de disposición de dinero o títulos valores de igual carácter, siempre que se encuentren en su poder o figuren a su nombre, así como ejercitar los derechos de crédito que aparezcan constituidos a su favor, todo ello, sin perjuicio de los reembolsos a que hubiere lugar.
+En caso de fallecimiento o de modificación de la capacidad de uno de los cónyuges o persona de cuyo previsto matrimonio se tratare, las capitulaciones no podrán ser modificadas.
 
-3. Si los dos cónyuges fueran menores, será necesaria la asistencia de sus padres o, en su caso, de los parientes mayores o del curador para la enajenación o gravamen de inmuebles, establecimientos mercantiles o industriales, sus elementos esenciales u objetos de valor extraordinario comunes.
+Modificada la capacidad de la persona de cualquier otro otorgante que deba intervenir conforme a lo previsto en el párrafo primero de esta ley, se suplirá su consentimiento con arreglo al ordenamiento jurídico.
 
-No será necesaria la asistencia a que se refiere el párrafo anterior si sólo uno de los cónyuges es menor, bastando en tal caso el consentimiento de ambos.
+Se exceptúa de lo prevenido en esta ley las estipulaciones que por pacto expreso o por su naturaleza sean revocables.
 
-4. La Administración y disposición se transferirán por ministerio de la Ley al cónyuge que sea tutor o representante legal de su consorte.
+Los pactos sucesorios recíprocos entre cónyuges podrán ser modificados o revocados por estos sin necesidad del acuerdo de los demás otorgantes de los capítulos.
 
-5. No podrá suplirse el consentimiento de ninguno de los cónyuges para actos de enajenación o gravamen a título lucrativo de bienes de conquista. Sin embargo, ambos cónyuges podrán por sí solos hacer donaciones moderadas conforme a la posición de la familia y los usos sociales.
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
+
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
 
 > Se modifica por el art. 1 de la Ley Foral 5/1987, de 1 de abril. Ref. BOE-A-1987-13331.
 

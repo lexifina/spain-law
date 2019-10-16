@@ -1,18 +1,18 @@
-## Ley 91. Adjudicación preferente
+## Ley 91.
 
-En la liquidación de la sociedad de conquistas cada cónyuge tendrá derecho a que le sean adjudicados en pago de su haber, hasta donde éste alcance, los siguientes bienes siempre que tuvieren la condición de comunes:
+Cargas privativas. Serán de cargo de cada cónyuge:
 
-1. Los bienes privativos que se hubiesen incorporado en capitulaciones a la sociedad de conquistas por cualquiera de los cónyuges.
+1. La alimentación y demás gastos ordinarios de los hijos no comunes fuera de los supuestos previstos en el apartado 2 de la ley anterior, así como sus gastos de educación.
 
-2. Los objetos de ajuar de casa y los instrumentos de trabajo que no le pertenecieren por derecho de aventajas conforme a la Ley 90.
+2. El sostenimiento, alimentación y educación de sus hijos de anterior unión cuando se hubiere hecho la partición y entrega de bienes, si procediere, conforme a la ley 114 o cuando la misma no procediere conforme a la ley 115.
 
-3. La explotación agrícola, ganadera, forestal, comercial o industrial que tuviere a su cargo.
+3. Lo perdido y pagado en juego por cualquiera de los cónyuges, salvo que se trate de cantidades módicas regular y periódicamente aplicadas a juegos o apuestas de amplia difusión y seguimiento social, así como lo perdido y no pagado en los juegos de suerte, envite o azar cuando su importe sea legalmente exigible.
 
-4. El local donde hubiere venido ejerciendo su profesión, arte u oficio.
+4. Los gastos y obligaciones que no sean cargas de la sociedad de conquistas conforme a la ley anterior.
 
-5. En caso de muerte del otro cónyuge, la vivienda que fuere la residencia habitual del matrimonio.
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 
-En los casos de los números 1, 4 y 5, el cónyuge viudo podrá exigir que se le atribuyan los bienes en propiedad o sólo el derecho de uso o habitación sobre los mismos. Si el valor de la propiedad o del derecho, según los casos, excediere del haber del cónyuge adjudicatario, éste deberá abonar la diferencia en dinero. El cónyuge viudo de segundas o posteriores nupcias del finado no podrá exigir el uso o habitación respecto a los bienes adjudicados a los hijos o descendientes de anterior matrimonio del difunto.
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
 
 > Se modifica por el art. 1 de la Ley Foral 5/1987, de 1 de abril. Ref. BOE-A-1987-13331.
 

@@ -1,5 +1,7 @@
-## Ley 40. Interrupción de la prescripción
+## Ley 40.
 
-La prescripción de veinte o treinta años se interrumpe por la notificación de la demanda al demandado; la de cuarenta años, por la contestación de éste a la demanda. En todo otro plazo establecido para el ejercicio de una acción, se considera ésta ejercitada por la interposición de la demanda o acto procesal legalmente equivalente.
+Apreciación de oficio. La caducidad podrá ser apreciada de oficio por los Tribunales previa audiencia de la partes contendientes afectadas por ella.
 
-Asimismo se interrumpirá la prescripción de plazos menores a veinte años por la reclamación extrajudicial dirigida al deudor. El reconocimiento de la deuda por el deudor, aunque sea implícito, en todo caso interrumpe la prescripción.
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
+
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.

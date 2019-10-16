@@ -1,9 +1,9 @@
-## Ley 18. Perfección formal
+## Ley 18.
 
-La declaración de voluntad, expresada en cualquier forma, es válida, y legítima para el ejercicio de los derechos que de la misma se deriven.
+El silencio u omisión. El silencio o la omisión no se considerarán como declaraciones de voluntad, a no ser que lo hubieran convenido las partes o así deba interpretarse conforme a la ley, la costumbre o los usos.
 
-No obstante, los actos o contratos para los que la Ley no exija una forma determinada, pero ésta se hubiere convenido expresamente, no se considerarán perfeccionados sin el cumplimiento de dicha forma. Cuando se trate de un acto que usualmente revista una forma determinada, se presumirá que las partes han querido supeditar la perfección del acto al cumplimiento de la misma.
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 
-En los casos en que esta Compilación exija cierta forma, se considerará de solemnidad.
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
 
 > Redactada conforme a la corrección de errores publicada en BOE núm. 129, de 30 de mayo de 1974. Ref. BOE-A-1974-847.

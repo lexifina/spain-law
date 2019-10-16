@@ -1,7 +1,7 @@
-## Ley 16. Efectos de la condición foral
+## Ley 16.
 
-La condición foral navarra de una persona somete a ésta al Derecho civil y a las disposiciones administrativas y fiscales de Navarra.
+Extinción de derechos por falta de ejercicio. Los derechos pueden extinguirse por la falta de ejercicio cuando así se hubiera pactado o en los casos previstos por la costumbre o la ley.
 
-## Cambios de condición
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 
-Los actos celebrados por personas de condición foral no perderán su validez por quedar éstas sometidas posteriormente a otro Derecho, pero los efectos de esos actos deberán acomodarse a las exigencias del nuevo Derecho. Asimismo, los actos celebrados por quienes con posterioridad a su otorgamiento adquieran la condición foral deberán producir sus efectos conforme al Derecho navarro, aunque éste difiera del Derecho a que se sometió su celebración.
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.

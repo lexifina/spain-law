@@ -1,33 +1,13 @@
-## Ley 82. Régimen legal supletorio
+## Ley 82.
 
-En defecto de otro régimen establecido en capitulaciones matrimoniales, se observará el de conquistas, que se regirá por ]as disposiciones de esta Compilación en lo que no hubiere sido especialmente pactado.
+Actos jurídicos entre cónyuges. Los cónyuges podrán celebrar entre sí toda clase de estipulaciones, contratos y donaciones.
 
-## Bienes de conquista
+Sin perjuicio de lo dispuesto en las leyes 162 y 163, las donaciones otorgadas entre los cónyuges podrán ser revocadas en los supuestos de separación, divorcio o nulidad del matrimonio cuando se declare judicialmente la existencia de incumplimiento de los deberes conyugales o familiares por parte del donatario.
 
-En el régimen de conquistas se hacen comunes de los cónyuges:
+Garantías. Cualquiera de los cónyuges puede afianzar, obligarse de otro modo o dar garantía real, tanto en favor del otro como de terceras personas, sin perjuicio de lo dispuesto para el régimen económico matrimonial de que se trate.
 
-1. Los bienes incluidos en las conquistas en virtud de pactos o disposiciones.
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 
-2. Los bienes adquiridos a título oneroso con cargo a bienes de conquista durante el matrimonio por cualquiera de los cónyuges.
-
-3. Los bienes adquiridos a título oneroso con cargo a bienes privativos y que los cónyuges convengan sean bienes de conquista, cualesquiera que fueran el precio o contraprestación y la naturaleza del derecho en cuya virtud fueran adquiridos.
-
-4. Los bienes ganados durante el matrimonio por el trabajo u otra actividad de cualquiera de los cónyuges.
-
-5. Los frutos y rendimientos de los bienes comunes y de los privativos.
-
-6. Los derechos de arrendatario por contratos celebrados durante el matrimonio.
-
-7. Los bienes adquiridos por derecho de retracto convencional o legal, opción, acceso a la propiedad, suscripción preferente u otro cualquier derecho de adquisición que pertenezca a la sociedad de conquistas.
-
-8. Las accesiones o incrementos de los bienes de conquista.
-
-9. Cualesquiera otros bienes que no sean privativas conforme a la Ley siguiente.
-
-## Presunción
-
-Se presumen de conquista todos aquellos bienes cuya pertenencia privativa no conste.
-
-Lo establecido en los números 3 y 7 se entenderá sin perjuicio de los reembolsos que procedan.
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
 
 > Se modifica por el art. 1 de la Ley Foral 5/1987, de 1 de abril. Ref. BOE-A-1987-13331.

@@ -1,7 +1,11 @@
-## Ley 19. Nulidad, anulabilidad y rescisión
+## Ley 19.
 
-Sin perjuicio de lo dispuesto en la ley cincuenta, son nulas las declaraciones de voluntad emitidas por menores no emancipados o personas que no se hallen en su cabal juicio, las de objeto imposible o inmoral y todas aquellas que estén prohibidas por la Ley.
+Nulidad, anulabilidad y rescisión de las declaraciones de voluntad. Sin perjuicio de lo dispuesto en la ley 47, son nulas las declaraciones de voluntad emitidas por personas que carezcan de capacidad natural de entender y querer, las de objeto imposible o inmoral y todas aquellas que estén prohibidas por la ley. Serán igualmente nulas las efectuadas por persona con capacidad judicialmente modificada en contravención de las prohibiciones establecidas en la sentencia.
 
-Son anulables las declaraciones viciadas por error, dolo o violencia física o moral graves, pero no podrá alegarse el error inexcusable de hecho o de Derecho.
+Son anulables las declaraciones emitidas por menores no emancipados salvo que se acredite que en el momento de emitirlas carecían por completo de juicio, en cuyo caso serán nulas de pleno derecho. Asimismo son anulables las declaraciones de voluntad emitidas por personas emancipadas sin la debida asistencia cuando esta sea necesaria conforme a lo dispuesto en la ley 48. Serán también anulables las emitidas por personas con capacidad judicialmente modificada cuando actúen sin el complemento de capacidad establecido en sentencia.
 
-Son rescindibles las declaraciones de voluntad cuando así lo disponga la Ley.
+Son rescindibles las declaraciones de voluntad cuando así lo disponga la ley.
+
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
+
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.

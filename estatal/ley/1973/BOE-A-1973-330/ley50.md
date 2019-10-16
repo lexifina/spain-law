@@ -1,10 +1,14 @@
-## Ley 50. Capacidad
+## Ley 50.
 
-La capacidad plena se adquiere con la mayoría de edad al cumplirse los dieciocho años.
+Familia. La familia tiene la protección jurídica del ordenamiento civil navarro que ampara las relaciones familiares derivadas del matrimonio, de la unión en pareja, de la filiación y del grupo formado por un solo progenitor con su descendencia.
 
-Los menores de edad que sean púberes tendrán capacidad para los actos determinados en esta Compilación. Se consideran púberes Ios mayores de catorce años de uno y otro sexo.
+Son miembros de familias reconstituidas los hijos de cada progenitor que convivan en el mismo grupo familiar, sin que su pertenencia a ellas modifique el vínculo con el otro progenitor y con los efectos que el ordenamiento jurídico determine.
 
-Los púberes no emancipados pueden aceptar por sí solos toda clase de liberalidades por las que no contraigan obligaciones, aunque aquéllas contengan limitaciones o prohibiciones sobre los bienes objeto de la liberalidad.
+Nadie puede ser discriminado por razón del grupo familiar del que forme parte.
+
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
+
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
 
 > Se modifica por el art. 1 de la Ley Foral 5/1987, de 1 de abril.Ref. BOE-A-1987-13331.
 

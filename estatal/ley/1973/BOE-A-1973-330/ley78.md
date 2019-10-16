@@ -1,13 +1,13 @@
-## Ley 78. Tiempo
+## Ley 78.
 
-Las capitulaciones o contratos matrimoniales pueden otorgarse antes o después de celebradas las nupcias. Si se otorgasen durante el matrimonio, podrá darse a sus pactos efecto retroactivo a la fecha de celebración de éste, sin perjuicio de los derechos adquiridos por terceros.
+Libertad de pacto. Los cónyuges podrán pactar libremente en capitulaciones el régimen económico de su matrimonio sin más limitaciones que las establecidas en la ley 7.
 
-## Ineficacia
+Capacidad individual de los cónyuges. Cada uno de los cónyuges, por sí solo, podrá ejercitar y defender derechos y realizar cualesquiera actos judiciales o extrajudiciales de administración, disposición y representación, salvo las limitaciones establecidas por la voluntad o la ley.
 
-Las capitulaciones quedarán ineficaces si el matrimonio no llegara a celebrarse. La nulidad del matrimonio produce la ineficacia de aquéllas desde que la sentencia que la declara sea firme.
+En los casos de ausencia, modificación de la capacidad, prodigalidad o separación legal de los cónyuges, serán aplicables las disposiciones del Código Civil.
 
-## Capacidad
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 
-Los cónyuges o los prometidos con capacidad para contraer matrimonio pueden otorgar capitulaciones. Para las disposiciones que impliquen transmisión actual de bienes de un cónyuge o prometido menor de edad en favor del otro se estará a lo dispuesto en la Ley 66.
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
 
 > Se modifica por el art. 1 de la Ley Foral 5/1987, de 1 de abril. Ref. BOE-A-1987-13331.

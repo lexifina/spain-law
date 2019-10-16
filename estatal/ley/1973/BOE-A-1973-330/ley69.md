@@ -1,26 +1,24 @@
-## Ley 69. Reconocimiento
+## Ley 69.
 
-a) Forma.
+Pacto de parentalidad. Cuando los progenitores acuerden la forma en que ejercerán corresponsablemente los deberes y facultades parentales, deberán presentar, en su caso, como parte integrante del Convenio Regulador que corresponda, un pacto de planificación parental que incluya los siguientes extremos:
 
-El reconocimiento deberá hacerse por declaración ante el encargado del Registro Civil u otro documento público.
+1. El lugar o lugares donde vivirán los hijos con uno y otro en cada momento, estableciendo cuál de ellos figurará a efectos de empadronamiento, así como el modo en que compartirán la adopción de todas las decisiones que sean relevantes para el desarrollo de la personalidad de sus hijos.
 
-Los progenitores pueden otorgar el reconocimiento conjunta o separadamente. Si lo hicieran por separado, no podrán manifestar en él la identidad del otro progenitor a no ser que ya estuviese determinada.
+2. Los períodos de convivencia y estancia de los hijos con cada progenitor, la forma de comunicación de los mismos con el que en cada momento no los tenga bajo su cuidado y los aspectos personales y económicos que afecten al cambio de guarda entre ambos.
 
-b) Capacidad.
+3. Las tareas de las que se responsabiliza cada uno de ellos en las actividades escolares y extraescolares diarias de los menores con mención, en su caso, de la intervención o ayuda de terceras personas y el medio por el que se transmitirán recíprocamente toda la información relevante de sus hijos.
 
-Puede reconocer toda persona mayor de 14 años; si fuera menor de edad no emancipada o tuviera la capacidad modificada judicialmente, se requerirá aprobación judicial previa audiencia del Ministerio Fiscal.
+4. Los medios y forma de contribución económica de cada uno al sostenimiento de todas las necesidades ordinarias y extraordinarias de sus hijos, especificando unas y otras, con expresión de las circunstancias de toda índole que hayan fundamentado su establecimiento.
 
-c) Requisitos.
+5. El uso y destino de la que fue durante la convivencia la vivienda familiar y del ajuar contenido en ella, con la atribución, en su caso, del derecho de uso a uno de ellos o a ambos, duración y condiciones del mismo y repercusión que tal atribución tenga en la contribución al sostenimiento de las necesidades de los menores.
 
-El reconocimiento de la persona mayor de edad o menor emancipada requerirá su consentimiento expreso o tácito.
+6. El modo en que los menores se relacionarán con otros familiares y allegados cuando ello se considere necesario para respetar su interés y siempre que conste el consentimiento de las personas con las que se establezcan las relaciones.
 
-El reconocimiento de la persona menor de edad no emancipada o con la capacidad modificada judicialmente será inscribible en el Registro Civil sin perjuicio de la oposición que puede formular quien tenga su representación legal conforme a lo previsto en el apartado siguiente, la cual deberá fundarse en el superior interés de la persona reconocida.
+Los progenitores podrán incluir en el pacto de parentalidad su compromiso de recurrir a la mediación familiar para resolver las diferencias derivadas de su aplicación.
 
-Podrá también reconocerse a un hijo ya fallecido siempre que hubiera dejado descendientes. En el supuesto de que éstos sean mayores de edad o menores emancipados, el reconocimiento requerirá su consentimiento expreso o tácito. Cuando sean menores no emancipados o tuvieran su capacidad modificada judicialmente, el reconocimiento será inscribible, pero podrá ser también objeto de oposición por su representante legal fundada en su superior interés.
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 
-d) Oposición al reconocimiento.
-
-La oposición deberá formalizarse en el plazo de un año desde que el reconocimiento haya sido objeto de notificación, se sustanciará por los trámites previstos en la Ley de Jurisdicción Voluntaria para el reconocimiento de la filiación no matrimonial y será estimada cuando resulte contrario al interés de la persona reconocida o de sus descendientes.
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
 
 > Se modifica por el art. único.1 de la Ley Foral 9/2018, de 17 de mayo. Ref. BOE-A-2018-7646
 

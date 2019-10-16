@@ -1,30 +1,16 @@
-## Ley 83. Bienes privativos
+## Ley 83.
 
-Son bienes privativos de cada cónyuge:
+Tiempo y capacidad para su otorgamiento. Las capitulaciones o contratos matrimoniales pueden otorgarse antes o después de celebrarse el matrimonio. Si se otorgasen durante el matrimonio, podrá darse a sus pactos efecto retroactivo a la fecha de celebración de este, sin perjuicio de los derechos adquiridos por terceros.
 
-1. Los excluidos de las conquistas en virtud de pactos o disposiciones.
+Podrán otorgar capitulaciones matrimoniales los cónyuges y las personas que, teniendo capacidad para ello, vayan a contraerlo. Para las disposiciones que impliquen cualesquiera actos de los previstos en la ley 48 por parte de un otorgante menor de edad en favor del otro se estará a lo dispuesto en la misma.
 
-2. Los que a un cónyuge provengan de título oneroso anterior al matrimonio, aunque durante éste tenga lugar la adquisición o aun cuando el precio o contraprestación fuere satisfecho, total o parcialmente, con fondos del otro cónyuge o de la sociedad de conquistas.
+Podrán también concurrir a su otorgamiento quienes, por razón o con ocasión del mismo matrimonio, realicen otras disposiciones o renuncias a sus derechos.
 
-Si se tratara de la vivienda o ajuar familiares, el bien adquirido corresponderá proindiviso a la sociedad de conquistas y al cónyuge o cónyuges en proporción al valor de las aportaciones respectivas.
+Ineficacia. Las capitulaciones quedarán ineficaces si el matrimonio no llegara a celebrarse en el plazo de un año. La nulidad del matrimonio produce la ineficacia de aquellas desde que la sentencia que la declare sea firme.
 
-3. Los adquiridos a título lucrativo antes del matrimonio o durante éste.
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 
-4. Los adquiridos por compra, permuta, dación en pago, venta, transacción y por otra subrogación cualquiera de bienes privativos.
-
-5. Los adquiridos con cargo a bienes de conquista si en el título adquisitivo ambos cónyuges hacen constar la atribución privativa a uno de ellos.
-
-6. Los adquiridos por derecho de retracto convencional o legal, opción, acceso a la propiedad, suscripción preferente u otro cualquier derecho de adquisición perteneciente a uno de tos cónyuges.
-
-7. Las accesiones o incrementos de los bienes privativos.
-
-8. Los edificios construidos, las nuevas plantaciones y otras cualesquiera mejoras en bienes privativos de uno de los cónyuges.
-
-9. El resarcimiento de daños y la indemnización de perjuicios causados a la persona de un cónyuge o en sus bienes privativos.
-
-10. Los bienes y derechos patrimoniales inherentes a la persona y los no transmisibles inter vivos.
-
-Lo establecidos en los números 2, 6, 7 y 8 se entenderá sin perjuicio de los reembolsos que en cada caso procedan.
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
 
 > Se modifica por el art. 1 de la Ley Foral 5/1987, de 1 de abril. Ref. BOE-A-1987-13331.
 

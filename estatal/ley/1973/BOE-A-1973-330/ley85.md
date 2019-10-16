@@ -1,16 +1,14 @@
-## Ley 85. Cargas privativas
+## Ley 85.
 
-Son de cargo de cada cónyuge los gastos y obligaciones siguientes:
+Contenido. Las capitulaciones matrimoniales podrán contener el régimen de bienes del matrimonio que establezcan libremente los otorgantes, quienes podrán también acogerse, total o parcialmente, a cualquiera de los previstos en la presente Compilación.
 
-1. El sostenimiento, alimentación y educación de los hijos de anterior matrimonio de uno de los cónyuges cuando se hubiere hecho la partición y entrega de bienes, si procediere, conforme a la Ley 105.
+Podrán igualmente contener cualesquiera disposiciones o renuncias por razón del matrimonio, ya sean “inter vivos” o “mortis causa”, y tanto referidas a la vigencia del matrimonio como a las que deban regir tras la separación o disolución, sin perjuicio de los derechos que por su naturaleza les sean indisponibles.
 
-2. La alimentación y educación de los hijos no matrimoniales de uno cualquiera de los cónyuges.
+Así mismo, las capitulaciones podrán establecer libremente el régimen de bienes de la familia conforme a lo previsto en el título XI, ordenar las donaciones a las que se refiere el título X y cualesquiera otras disposiciones, tanto “inter vivos” como “mortis causa”.
 
-3. Las obligaciones contraídas por uno sólo de los cónyuges sin el consentimiento del otro cuando no sean de cargo de la sociedad de conquistas conforme a las Leyes 54 y 84.
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 
-4. Lo perdido y pagado en juego por cualquiera de los cónyuges, o lo perdido y no pagado en los juegos en que la ley concede acción para reclamar lo que se gane.
-
-Cada cónyuge responderá de sus deudas propias con su patrimonio privativo, y si éste no fuere suficiente el acreedor podrá pedir el embargo de bienes de conquista, que será inmediatamente notificado al otro cónyuge. Si la ejecución se realizare sobre bienes comunes, se considerará que el cónyuge deudor tiene recibido a cuenta de su participación el valor de aquéllos al tiempo que los abone con caudal propio o al tiempo de liquidación de la sociedad conyugal. No obstante, el cónyuge no deudor podrá exigir, dentro de los nueve días siguientes a la notificación, que en el embargo los bienes comunes sean sustituidos por la parte que al cónyuge deudor corresponda en la sociedad de conquistas, en cuyo caso el embargo llevará consigo la disolución y liquidación de ésta, y se aplicará el régimen de separación de bienes en los términos previstos en la Ley 103.
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
 
 > Se modifica por el art. 1 de la Ley Foral 5/1987, de 1 de abril. Ref. BOE-A-1987-13331.
 

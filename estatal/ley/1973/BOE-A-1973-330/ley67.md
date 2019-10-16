@@ -1,12 +1,28 @@
-## Ley 67. Patria potestad prorrogada
+## Ley 67.
 
-La patria potestad sobre los hijos menores que hubiesen sido incapacitados quedará prorrogada por ministerio de la Ley al llegar aquéllos a su mayoría de edad.
+Ejercicio de la responsabilidad parental.
 
-## Rehabilitación
+a) Regla general. Los deberes y facultades inherentes a la responsabilidad parental y todas las decisiones derivadas de los mismos se ejercerán y adoptarán por los progenitores según lo convenido y, en defecto de pacto, por ambos conjuntamente o por uno solo de ellos con el consentimiento expreso o tácito del otro.
 
-La patria potestad se rehabilitará, también por ministerio de la Ley, sobre los hijos solteros mayores de edad o emancipados, si fueren incapacitados en vida de alguno de sus padres. En la resolución de incapacitación se fijará el contenido y límite de la patria potestad.
+Serán, sin embargo, válidos los actos que cualquiera de ellos realice por sí solo para atender a las necesidades ordinarias de los hijos, según las circunstancias familiares y el uso del lugar o en situaciones que exijan una urgente solución.
 
-Además de las causas enumeradas en la Ley 66, la patria potestad prorrogada se extinguirá por haberse decretado la cesación de la incapacitación y por contraer matrimonio el incapacitado.
+b) Atribución legal del ejercicio individual. Sin perjuicio de otros supuestos previstos en las leyes civiles o penales, en los casos de declaración de ausencia o de modificación judicial de la capacidad de uno de los progenitores, la responsabilidad parental será ejercida por el otro, salvo que la sentencia sobre capacidad establezca otra cosa en interés de los hijos.
+
+c) Atribución judicial del ejercicio individual. Cada progenitor podrá solicitar la intervención judicial:
+
+1. En supuestos de imposibilidad del otro y con la finalidad de recabar la atribución exclusiva del ejercicio de la responsabilidad parental.
+
+2. Cuando se produzca cualquier causa que dificulte gravemente el ejercicio conjunto de la responsabilidad parental, al objeto de que el juez pueda atribuir, total o parcialmente, el ejercicio a los progenitores separadamente o distribuir entre ellos sus funciones por el tiempo que razonadamente se estime adecuado, y sin perjuicio de que pueda adoptar directamente las medidas que mejor protejan los intereses de los menores.
+
+3. En caso de que existan desacuerdos en el ejercicio de la misma, a fin de que el juez atribuya a uno de ellos la facultad de decidir. Cuando tales desacuerdos sean reiterados, el juez podrá adoptar cualquiera de las resoluciones previstas en el número anterior.
+
+Los procedimientos judiciales previstos en este apartado se sustanciarán por los trámites de la Jurisdicción Voluntaria.
+
+d) Mediación. En los procedimientos iniciados por motivo de desacuerdos, los progenitores pueden someter sus discrepancias a mediación.
+
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
+
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
 
 > Se modifica por el art. 1 de la Ley Foral 5/1987, de 1 de abril.Ref. BOE-A-1987-13331.
 

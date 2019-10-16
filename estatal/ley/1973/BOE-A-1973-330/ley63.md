@@ -1,24 +1,10 @@
-## Ley 63. Titularidad y contenido
+## Ley 63.
 
-La patria potestad sobre los hijos menores no emancipados y sobre los incapacitados corresponde conjuntamente al padre y a la madre, y comprende los siguientes deberes y facultades:
+Régimen supletorio. En todo lo no previsto en las leyes anteriores, y en cuanto sea compatible con ellas, se aplicará a la adopción lo establecido en las leyes especiales o en el Código Civil.
 
-1. Velar por ellos, tenerlos en su compañía, alimentarlos, educarlos, corregirlos razonable y moderadamente y procurar su debida formación.
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 
-2. Representarlos en cuantos actos les conciernan y no puedan legalmente realizar por sí mismos, salvo que guarden relación con bienes cuya administración no corresponda a los padres y sin perjuicio de lo dispuesto en la Ley 64.
-
-3. Administrar y disponer de sus bienes en las condiciones que establece la Ley 65, y usufructuarlos dando a los frutos percibidos las aplicaciones que demanden el interés de los hijos a quienes pertenezcan los bienes y el de la familia a cuyo sostenimiento han de contribuir en la proporción adecuada.
-
-Corresponde también a los padres la defensa de los intereses y expectativas de los hijos concebidos y no nacidos, e incluso de los no concebidos.
-
-Los hijos, por su parte, deben obedecer a los padres en tanto permanezcan bajo su potestad, respetarlos siempre y contribuir al sostenimiento de la familia mientras convivan con ella.
-
-## Ejercicio
-
-Las funciones inherentes a la patria potestad se ejercerán por el padre y la madre según lo convenido y, en defecto de pacto, por ambos conjuntamente. Serán, sin embargo, válidos los actos que cualquiera de ellos realice por sí solo para atender a las necesidades ordinarias de los hijos, según las circunstancias familiares y el uso del lugar, o en situaciones que exijan una urgente solución.
-
-En los casos de declaración de ausencia o de incapacitación de uno de los padres, la patria potestad será ejercida por el otro, en el de imposibilidad de uno de los padres, podrá el otro recabar del Juez la atribución exclusiva del ejercicio de la patria potestad.
-
-Si hubiera desacuerdo, los Parientes Mayores, a solicitud conjunta de ambos padres, y el Juez, a petición de cualquiera de éstos, resolverán su discrepancia, después de oir a los interesados e intentar la conciliación, atribuyendo sin ulterior recurso la facultad de decidir, en el caso concreto sometido a su conocimiento, al padre o a la madre. Cuando las circunstancias lo aconsejen podrá también el Juez, por un plazo que no exceda de dos años, distribuir entre ellos las funciones de la patria potestad o atribuir ésta a uno de los dos.
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
 
 > Se modifica por el art. 1 de la Ley Foral 5/1987, de 1 de abril.Ref. BOE-A-1987-13331.
 

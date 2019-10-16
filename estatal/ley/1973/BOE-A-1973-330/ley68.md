@@ -1,22 +1,18 @@
-## Ley 68. Clases de filiación
+## Ley 68.
 
-La filiación puede tener lugar por naturaleza y por adopción; aquélla puede ser matrimonial y no matrimonial.
+Responsabilidad parental en caso de falta de convivencia de los progenitores o de ruptura de la misma. Aunque los progenitores no convivan juntos, los deberes y facultades inherentes a la responsabilidad parental se ejercerán según lo convenido y, en defecto de pacto, por ambos conjuntamente o por uno solo de ellos con el consentimiento expreso o tácito del otro, resultando de aplicación las reglas previstas en la ley anterior.
 
-La filiación matrimonial y la no matrimonial surten los mismos efectos conforme a lo dispuesto en las Leyes de esta Compilación.
+Sin perjuicio de ello, en tales casos, el ejercicio de las facultades ordinarias derivadas del deber de guarda corresponderá al progenitor que en cada momento tenga a los hijos bajo su cuidado.
 
-Se consideran hijos matrimoniales:
+La ruptura de la convivencia no altera la titularidad ni el ejercicio de los deberes y facultades que integran la responsabilidad parental.
 
-1. Los nacidos después de los ciento ochenta días siguientes al de la celebración del matrimonio y antes de los trescientos días siguientes a su disolución o a la separación efectiva de los cónyuges.
+Los progenitores podrán pactar la forma en que ejercerán dichos deberes y facultades en régimen de corresponsabilidad según lo establecido en la ley siguiente.
 
-2. Los nacidos dentro de los ciento ochenta días siguientes al de la celebración del matrimonio, si el marido no desconociera su paternidad mediante declaración formalizada en documento auténtico dentro de los seis meses siguientes al conocimiento del parto. No podrá desconocer eficazmente su paternidad quien la hubiere reconocido con anterioridad, expresa o tácitamente.
+En defecto de pacto, será el juez quien adopte todas las decisiones que afecten a los menores atendiendo a su concreto interés y beneficio de conformidad con lo establecido en las leyes 70 a 74.
 
-3. Los nacidos después de los trescientos días siguientes a la disolución del matrimonio o separación efectiva de los cónyuges, si se prueba su gestación más prolongada, la reunión de los cónyuges separados o la conformidad de éstos en la inscripción del hijo como matrimonial.
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 
-Sin perjuicio de lo dispuesto en la legislación del Registro Civil, la filiación no matrimonial se determina para cada uno de los progenitores por su reconocimiento o por sentencia firme.
-
-El hijo nacido antes del matrimonio de sus progenitores se considerará matrimonial desde que lo contrajeren, siempre que su filiación respecto del padre y de la madre quede legalmente determinada.
-
-No será eficaz la determinación de una filiación en tanto no sea invalidada otra contradictoria anteriormente establecida.
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
 
 > Se modifica por el art. 1 de la Ley Foral 1/1987, de 5 de abril.Ref. BOE-A-1987-13331.
 

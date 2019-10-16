@@ -1,20 +1,14 @@
-## Ley 80. Contenido
+## Ley 80.
 
-Las capitulaciones matrimoniales podrán establecer libremente cualquier régimen de bienes de la familia y ordenar:
+Gastos del matrimonio. Son gastos del matrimonio todos los que sean necesarios para el sostenimiento de la familia, en atención a su nivel económico y a los miembros que en cada momento convivan en ella, y ya sean de carácter ordinario o extraordinario.
 
-1. Las donaciones propter nuptias.
+Contribución. Cada uno de los cónyuges debe contribuir a los gastos del matrimonio con sus ingresos económicos, patrimonio y trabajo personal realizado para la propia familia, sin perjuicio y de conformidad con lo establecido en su régimen económico conyugal.
 
-2. Los señalamientos y entregas de dotes y dotaciones.
+Ejercicio de la potestad doméstica. Cualquiera de los cónyuges por sí solo puede disponer de los bienes comunes para atender a las necesidades ordinarias de la familia acordes a las circunstancias de esta y a los usos del lugar, así como a los gastos urgentes, aun cuando fueran extraordinarios, sin perjuicio de los reembolsos que procedan conforme al régimen económico de su matrimonio.
 
-3. Las renuncias de derechos.
+> Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 
-4. Las donaciones esponsalicias, las arras y las donaciones entre cónyuges.
-
-5. Los pactos sucesorios.
-
-6. Las disposiciones sobre el usufructo de fidelidad.
-
-7. Cualesquiera otras disposiciones por razón de matrimonio.
+> Esta modificación entra en vigor el 16 de octubre de 2019, según establece la disposición final 4 de la citada Ley Foral.
 
 > Se modifica por el art. 1 de la Ley Foral 5/1987, de 1 de abril. Ref. BOE-A-1987-13331.
 
