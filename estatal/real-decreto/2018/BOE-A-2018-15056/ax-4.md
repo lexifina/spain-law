@@ -31,4 +31,6 @@
 
 (3) Operación ligada exclusivamente a operaciones 1 y 2.
 
-(4) Exclusivamente Comunidad Autónoma de Galicia, País Vasco, Canarias y aquellas comunidades autónomas que apliquen baremos estándar unitarios e incluyan la acción.
+(4) Exclusivamente Comunidades Autónomas de Galicia, País Vasco, Canarias, La Rioja y aquellas comunidades autónomas que apliquen baremos estándar de costes unitarios e incluyan la acción.
+
+> Se modifica la nota (4) por el art. único.36 del Real Decreto 608/2019, de 25 de octubre. Ref. BOE-A-2019-15404

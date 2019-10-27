@@ -95,6 +95,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 71](a7-3.md)
 - [Artículo 72](a7-4.md)
 - [Artículo 73](a7-5.md)
+- [Artículo 73 bis](a7-12.md)
 - [Artículo 74](a7-6.md)
 - [Artículo 75](a7-7.md)
 - [Sección 5](s5.md)

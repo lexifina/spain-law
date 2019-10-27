@@ -52,7 +52,7 @@
 
 Modelo de declaración responsable del solicitante
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/266/15056_13184.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/258/15404_4608.png)
 
 ## IV. Presupuesto recapitulativo
 
@@ -68,3 +68,5 @@ Modelo de declaración responsable del solicitante
 |  |  |  |  |  |  |  |  |
 
 * Podrán incluir los costes del certificado de los estados financieros.
+
+> Se modifica el apartado III por el art. único.35 del Real Decreto 608/2019, de 25 de octubre. Ref. BOE-A-2019-15404
