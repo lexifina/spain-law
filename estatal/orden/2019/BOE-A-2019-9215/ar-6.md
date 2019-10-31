@@ -32,6 +32,8 @@ Los representantes de las organizaciones sindicales y empresariales serán desig
 
 Para el caso de vacante, ausencia o enfermedad, podrán ser propuestos suplentes que serán nombrados de igual forma que los titulares.
 
-2. A las reuniones del pleno del Observatorio para la lucha contra el fraude a la Seguridad Social podrán asistir y participar puntualmente, bajo invitación de su presidente, en función de los temas objeto de estudio o análisis, representantes de otras entidades, organizaciones u organismos cuya actividad tenga repercusión en el régimen económico del sistema de la Seguridad Social, así como otros representantes de las organizaciones sindicales, empresariales y asociaciones profesionales, y personas físicas o jurídicas cuya aportación se considere necesaria o relevante.
+2. A las reuniones del pleno del Observatorio para la lucha contra el fraude a la Seguridad Social podrán asistir y participar puntualmente, bajo invitación de su presidente, en función de los temas objeto de estudio o análisis, especialistas y expertos en las materias de que se trate cuya aportación se considere necesaria o relevante.
 
 3. El pleno del Observatorio de lucha contra el fraude a la Seguridad Social se reunirá, en sesión ordinaria, al menos, dos veces al año y, en sesión extraordinaria, a iniciativa del presidente o cuando lo solicite una tercera parte de sus miembros.
+
+> Se modifica el apartado 2 por el art. único.3 de la Orden TMS/1066/2019, de 24 de octubre. Ref. BOE-A-2019-15577
