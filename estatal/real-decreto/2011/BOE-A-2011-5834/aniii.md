@@ -104,9 +104,11 @@ En el caso particular de que la red de distribución de la edificación atienda 
 
 Es el local o habitáculo donde se instalarán los elementos necesarios para el suministro de los servicios de RTV y, en su caso, elementos de los servicios de acceso inalámbrico (SAI). En él se alojarán los elementos necesarios para adecuar las señales procedentes de los sistemas de captación de emisiones radioeléctricas de RTV, para su distribución por la ICT de la edificación o, en el caso de servicios de acceso inalámbrico, los elementos necesarios para trasladar las señales recibidas hasta el RITI.
 
-4.5.3 Recinto único (RITU):
+4.5.3 Recinto único (RITU).
 
-Para el caso de edificios o conjuntos inmobiliarios de hasta tres alturas y planta baja y un máximo de diez PAU (nota 1) y para conjuntos de viviendas unifamiliares, se establece la posibilidad de construir un único recinto de instalaciones de telecomunicación (RITU), que acumule la funcionalidad de los dos descritos anteriormente.
+i. Para el caso de edificios o conjuntos inmobiliarios de hasta tres alturas y planta baja y un máximo de dieciséis PAU, y para conjuntos de viviendas unifamiliares (sin limitación en el n.º de PAU), se establece la posibilidad de construir un único recinto de instalaciones de telecomunicación (RITU), que acumule la funcionalidad de los dos descritos anteriormente (RITI y RITS).
+
+ii. Para edificios o conjuntos inmobiliarios de más de tres alturas y planta baja y un máximo de 16 PAU, y para aquéllos que dispongan entre 17 y 30 PAU, sin limitación en el n.º de alturas, se establece la posibilidad de construir un único recinto de instalaciones de telecomunicación ampliado (RITU-A), siempre que tenga una anchura accesible que sea el doble que la que correspondería a uno de los recintos a los que sustituye, manteniendo el resto de dimensiones, y que esté situado donde lo estaría cualquiera de ellos.
 
 4.5.4 Recinto modular (RITM):
 
@@ -275,24 +277,44 @@ En cualquier caso tendrán una puerta de acceso metálica de dimensiones mínima
 
 Se recomienda instalar, en un lugar estratégico y comunitario, y a ser posible empotrada, una caja o depósito metálico o de material plástico, con puerta abatible y cerradura antiganzúa, que contendrá la/las llaves de acceso a los diferentes recintos de instalaciones de telecomunicación de la edificación. Una llave de la mencionada caja estará en poder del presidente de la comunidad de propietarios o del propietario de la edificación, o de la persona o personas en quien deleguen. Otras llaves de la caja podrán obrar en poder de los diferentes operadores que proporcionan los servicios de telecomunicación a la edificación. Asimismo, en el caso de que exista empresa encargada del mantenimiento de la ICT, podría entregársele otra llave, al objeto de poder acceder a las instalaciones de telecomunicación cuando se produzcan incidencias en las mismas.
 
-5.5.1 Dimensiones.
+5.5.1 Dimensiones de los RIT.
 
 Los recintos de instalaciones de telecomunicación tendrán las dimensiones mínimas siguientes, y deberá ser accesible toda su anchura:
 
-| N.º de PAU (nota 1) | Altura (mm) | Anchura (mm) | Profundidad (mm) |
+| N.º de PAU | Altura (mm) | Anchura (mm) | Profundidad (mm) |
 | --- | --- | --- | --- |
 | Hasta 20 | 2.000 | 1.000 | 500 |
-| De 21 a 30 | 2.000 | 1.500 | 500 |
-| De 31 a 45 | 2.000 | 2.000 | 500 |
-| Más de 45 | 2.300 | 2.000 | 2.000 |
+| De 21 a 45 | 2.000 | 1.500 | 500 |
+| De 46 a 74 | 2.300 | 2.000 | 1.000 |
+| Más de 74 | 2.300 | 2.000 | 2.000 |
 
-En el caso de RITU las medidas mínimas, serán de:
+En el caso de RITU, las medidas mínimas serán:
 
-| N.º de PAU (nota 1) | Altura (mm) | Anchura (mm) | Profundidad (mm) |
+| N.º de PAU | Altura (mm) | Anchura (mm) | Profundidad (mm) |
 | --- | --- | --- | --- |
-| Hasta 10 | 2.000 | 1.000 | 500 |
-| De 11 a 20 | 2.000 | 1.500 | 500 |
-| Más de 20 | 2.300 | 2.000 | 2.000 |
+| Hasta 5 (*) | 1.000 | 500 | 300 |
+| Hasta 5 (**) | 1.000 | 1.000 | 500 |
+| De 6 a 16 | 2.000 | 1.000 | 500 |
+| De 17 a 30 | 2.000 | 1.500 | 1.000 |
+| Más de 30 | 2.000 | 2.000 | 1.500 |
+
+(*) Edificios sin zonas comunes.
+
+(**) Edificios con zonas comunes.
+
+En el caso de RITU-A, las medidas mínimas serán:
+
+| N.º de PAU | Altura (mm) | Anchura (mm) | Profundidad (mm) |
+| --- | --- | --- | --- |
+| Hasta 16 (*) | 2.000 | 2.000 | 500 |
+| De 17 a 20 (**) | 2.000 | 2.000 | 500 |
+| De 21 a 30 (**) | 2.000 | 3.000 | 500 |
+
+(*) Edificios con planta baja y más de tres alturas.
+
+(**) Edificios de cualquier altura.
+
+En todo caso, las dimensiones de anchura y altura de los recintos podrán ser modificadas a criterio del proyectista, siempre que la superficie accesible y la profundidad mínima se mantengan.
 
 5.5.2 Características constructivas.
 
@@ -378,7 +400,7 @@ El registro principal de cables coaxiales contará con el espacio suficiente par
 
 5.6.4. Registro principal para cables de fibra óptica.
 
-El registro principal de cables de fibra óptica contará con el espacio suficiente para alojar el repartidor de conectores de entrada, que hará las veces de panel de conexión y el panel de conectores de salida. El espacio interior previsto para el registro principal óptico deberá ser suficiente para permitir la instalación de una cantidad de conectores de entrada que sea dos veces la cantidad de conectores de salida que se instalen en el punto de interconexión.
+El registro principal de cables de fibra óptica contará con el espacio suficiente para alojar el repartidor de conectores de entrada, que hará las veces de panel de conexión y el panel de conectores de salida. El espacio interior previsto para el registro principal óptico deberá ser suficiente para permitir la instalación de una cantidad de conectores de entrada que sea dos veces la cantidad de conectores de salida que se instalen en el punto de interconexión. A su vez, se deberá disponer de espacio suficiente para permitir la instalación de elementos de almacenamiento de la longitud sobrante de los latiguillos de interconexión.
 
 5.7 Canalización principal.
 
@@ -554,7 +576,7 @@ Irán empotrados en la pared. En locales u oficinas, podrán ir también empotra
 
 En viviendas se colocarán, al menos, los siguientes registros de toma:
 
-a) En cada una de las dos estancias principales: 2 registros para tomas de cables de pares trenzados, 1 registro para toma de cables coaxiales para servicios de TBA y 1 registro para toma de cables coaxiales para servicios de RTV.
+a) En cada una de las dos estancias principales: 2 registros para tomas de cables de pares trenzados, 1 registro para toma de cables coaxiales para servicios de TBA y 1 registro para toma de cables coaxiales para servicios de RTV. En una de las estancias principales, preferiblemente el salón, 1 registro para toma de cable de fibra óptica.
 
 b) En el resto de las estancias, excluidos baños y trasteros: 1 registro para toma de cables de pares trenzados y 1 registro para toma de cables coaxiales para servicios de RTV.
 
@@ -720,6 +742,8 @@ Nota 1: Aun cuando a cada servicio le corresponde un punto de acceso al usuario,
 ![imagen](https://www.boe.es/datos/imagenes/disp/2011/78/05834_022.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2011/78/05834_023.png)
+
+> Se modifica por el art. 2.3 de la Orden ECE/983/2019, de 26 de septiembre. Ref. BOE-A-2019-14070#a2
 
 > Se modifica el apartado 5.5.7 por la disposición final 4.1 del Real Decreto 391/2019, de 21 de junio. Ref. BOE-A-2019-9513#df-4
 

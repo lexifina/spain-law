@@ -269,6 +269,8 @@ Las características técnicas que deberá presentar la instalación a la salida
 | FM-TV, QPSK-TV | dB | ≤ 6 | ± 4 dB en toda la banda; ± 1,5 dB en un ancho de banda de 1 MHz. |
 | COFDM-DAB, COFDM-TV | dB | ±3 dB en toda la banda | - |
 
+(*) Los niveles de respuesta para señales de AM-TV se dan a los solos efectos de que puedan tenerse en cuenta como referencia en el caso de que se distribuyan con este tipo modulación señales no obligatorias en la ICT.
+
 4.4.3. Respuesta amplitud frecuencia en banda.
 
 | PARÁMETRO | UNIDAD | BANDA DE FRECUENCIAS |
@@ -365,6 +367,8 @@ Se presumirán conformes a estas especificaciones aquellos cables que acrediten 
 | α > 18 dB/100m | 20 dB | 20 dB | 18 dB | 16 dB |
 
 > Las especificaciones técnicas que sean de aplicación a la banda de frecuencias de 470 MHz a 862 MHz, se entenderán referidas a la banda de 470 MHz a 694 MHz a partir del 26 de junio de 2019, según establece la disposición final 4.2 y 3 del Real Decreto 391/2019, de 21 de junio. Ref. BOE-A-2019-9513#df-4
+
+> Se añade la llamada al pie de la tabla del punto 4.4.2 por el art. 2.1 de la Orden ECE/983/2019, de 26 de septiembre. Ref. BOE-A-2019-14070#a2
 
 > Se modifica el apartado 4.1.5 y las especificaciones técnicas que sean de aplicación a la banda de frecuencias de 470 MHz a 862 MHz, se entenderán referidas a la banda de 470 MHz a 694 MHz, por la disposición final 4.2 y 3 del Real Decreto 391/2019, de 21 de junio. Ref. BOE-A-2019-9513#df-4
 
