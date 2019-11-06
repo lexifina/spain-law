@@ -1,0 +1,9 @@
+## Disposición transitoria segunda. Régimen transitorio de las modificaciones introducidas en el artículo 4.
+
+1. Las entidades pertenecientes al Sector Público deberán adoptar las medidas necesarias para cumplir la obligación prevista en el artículo 46 bis de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en el plazo máximo de seis meses a partir de la entrada en vigor de este real decreto-ley cuando gestionen directamente o a través de medios propios los sistemas de información y comunicaciones a que dicho precepto se refiere.
+
+2. En el caso de que la gestión de los sistemas citados en el apartado anterior se lleve a cabo mediante la licitación de contratos del Sector Público, directamente por los sujetos a los que es de aplicación la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público o por sus medios propios, la obligación de adaptarse a lo preceptuado en el artículo 46 bis de la Ley 40/2015, de 1 de octubre, no se aplicará a los expedientes de contratación iniciados antes de la entrada en vigor de este real decreto-ley, que se regirán por la normativa anterior.
+
+Los contratos adjudicados en virtud de dichos expedientes, aun cuando mantendrán su plena validez y eficacia, no podrán ser objeto de modificación que vulnere lo establecido en los citados preceptos. Tampoco podrán ser objeto de prórroga salvo que previamente sean objeto de modificación para adaptarse a las disposiciones que en ellos se contienen.
+
+3. A los efectos de lo dispuesto en esta disposición se entenderá que los expedientes de contratación han sido iniciados si se hubiera publicado la correspondiente convocatoria del procedimiento de adjudicación del contrato. En el caso de procedimientos negociados sin publicidad, para determinar el momento de iniciación se tomará en cuenta la fecha de aprobación de los pliegos.

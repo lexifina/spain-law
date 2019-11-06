@@ -1,0 +1,7 @@
+## Disposición transitoria tercera. Régimen transitorio de las modificaciones introducidas en el artículo 5.
+
+1. Los expedientes de contratación iniciados antes de la entrada en vigor de este real decreto-ley se regirán por la normativa anterior. A estos efectos se entenderá que los expedientes de contratación han sido iniciados si se hubiera publicado la correspondiente convocatoria del procedimiento de adjudicación del contrato. En el caso de procedimientos negociados sin publicidad, para determinar el momento de iniciación se tomará en cuenta la fecha de aprobación de los pliegos.
+
+2. No obstante lo anterior, los contratos basados en acuerdos marco que no establezcan todos los términos se regirán por la normativa vigente en la fecha de envío de la invitación a la licitación a las empresas parte del acuerdo marco o por la normativa vigente en la fecha de adjudicación si el contrato basado no requiriera una nueva licitación. En los casos en que el acuerdo marco se hubiera licitado con sujeción a la normativa anterior y, como consecuencia de la aplicación de lo dispuesto en el primer inciso de este párrafo, a alguno o algunos de los contratos basados en ese acuerdo marco le resultara de aplicación la nueva regulación resultante de este Real Decreto-ley, el órgano de contratación deberá elaborar los documentos de la licitación correspondiente a dichos contratos basados de acuerdo con esta nueva regulación.
+
+3. El artículo 5 será de aplicación a las modificaciones de los contratos que se inicien con posterioridad a su entrada en vigor.
