@@ -6,4 +6,6 @@
 
 3. Los complementos singulares de puesto modalidades A2 y A3 asignados a puestos ocupados no contemplados en los apartados anteriores continuaran percibiéndose en tanto la Comisión prevista en la disposición adicional sexta proceda a su análisis y ordenación.
 
-4. La masa salarial correspondiente a los complementos singulares de puesto modalidad A2 de los puestos de trabajo que queden vacantes con posterioridad a la entrada en vigor de este Convenio será objeto de distribución por la Comisión Paritaria.
+4. (Anulado).
+
+> Se declara la nulidad del apartado 4 por Sentencia de la AN núm. 116/2019, de 10 de octubre de 2019, publicada por Resolución de 5 de noviembre de 2019. Ref. BOE-A-2019-16402
