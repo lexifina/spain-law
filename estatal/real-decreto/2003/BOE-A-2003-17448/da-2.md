@@ -1,5 +1,9 @@
 ## Disposición adicional novena. Habilitación.
 
-Mediante Orden del Ministerio de Justicia, de haber disponibilidad presupuestaria que lo permita, se podrán establecer las circunstancias y condiciones que permitan la aplicación del artículo 10 a aquellas sustituciones excluidas de retribución en virtud de lo previsto en su apartado 4, siempre que por circunstancias excepcionales y previo informe favorable del Secretario de Gobierno correspondiente, hayan implicado una singular carga de trabajo para el sustituto.
+(Anulada)
+
+> Téngase en cuenta que se declara la nulidad del Real Decreto 101/2019, de 1 de marzo, que añadía esta disposición, por Sentencia del TS de 30 de octubre de 2019. Ref. BOE-A-2019-16423
+
+> Se declara la nulidad del Real Decreto 101/2019, que añadía esta disposición, por Sentencia del TS de 30 de octubre de 2019. Ref. BOE-A-2019-16423
 
 > Se añade por el art. 1.3 del Real Decreto 101/2019, de 1 de marzo. Ref. BOE-A-2019-3485
