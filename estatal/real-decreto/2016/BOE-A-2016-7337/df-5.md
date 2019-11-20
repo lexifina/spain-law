@@ -3,3 +3,7 @@
 1. Se faculta a la persona titular del Ministerio de Educación, Cultura y Deporte para dictar cuantas disposiciones requiera la aplicación de lo dispuesto en este real decreto.
 
 2. Anualmente, el titular del Ministerio de Educación, Cultura y Deporte aprobará por orden ministerial para cada curso escolar las características, el diseño y el contenido de las pruebas de las evaluaciones finales de Educación Secundaria Obligatoria y de Bachillerato, las fechas máximas para realizar las evaluaciones y resolver los procedimientos de revisión de las calificaciones obtenidas, y los cuestionarios de contexto.
+
+> Téngase en cuenta que se declara la inconstitucionalidad y nulidad del inciso destacado del apartado 2 por Sentencia del TC 114/2019, de 16 de octubre. Ref. BOE-A-2019-16723
+
+> Se declara la inconstitucionalidad y nulidad del inciso destacado del apartado 2 por Sentencia del TC 114/2019, de 16 de octubre. Ref. BOE-A-2019-16723
