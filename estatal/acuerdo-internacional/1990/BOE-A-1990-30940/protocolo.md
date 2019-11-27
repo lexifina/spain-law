@@ -28,31 +28,35 @@ A los efectos del apartado 1 del artículo 4, se entenderá que:
 
 a) Un ciudadano de los Estados Unidos o un extranjero con permiso de residencia permanente en los Estados Unidos (titular de «carta verde») se considerará residente de los Estados Unidos solamente si la persona física tiene una presencia sustancial en los Estados Unidos o si debe de ser considerada residente de los Estados Unidos, y no de otro país, con arreglo a los subapartados a) y b) del apartado 2 de ese artículo.
 
-b) Una sociedad de personas, herencia yacente, o fiducia es residente de un Estado contratante solamente en la medida en que las rentas que obtenga estén sometidas a imposición en ese Estado como las rentas de un residente.
-
-c) El término «residente» incluye también a los Estados contratantes, y a sus subdivisiones políticas o Entidades locales.
+b) El término «residente» incluye también a los Estados contratantes, y a sus subdivisiones políticas o Entidades locales.
 
 6. En relación con el artículo 8. (Transporte aéreo y marítimo).
 
 A los efectos del artículo 8, «las rentas de la explotación de buques o aeronaves en tráfico internacional» se determinarán de acuerdo con los apartados 5 al 12 de los comentarios al artículo 8 (Navegación marítima, interior y aérea) del modelo de Convenio para evitar la doble imposición respecto de los Impuestos sobre la Renta y sobre el Patrimonio de la Organización para la Cooperación y Desarrollo Económico de 1977.
 
-7. En relación con el artículo 10. (Dividendos.)
+7. En relación con el artículo 10 (Dividendos)
 
-a) Se entenderá que el término «dividendos» incluye los beneficios de liquidación de una sociedad residente de un Estado contratante.
+(a) En el caso de España:
 
-b) El subapartado a) del apartado 2 no se aplicará a las rentas, distribuidas o no, que sean imputables a los accionistas de las sociedades y Entidades españolas a que se refiere el artículo 12.2 de la Ley 44/1978, de 8 de septiembre, y el artículo 19 de la Ley 61/1978, de 27 de diciembre, o la normativa que las sustituya, en tanto dichas rentas no estén sometidas al Impuesto sobre Sociedades español.
+(i) El subapartado (a) del apartado 2 del artículo 10 no será aplicable en el caso de dividendos pagados por una entidad regulada mediante la Ley 11/2009 de 26 de octubre de Sociedades Anónimas Cotizadas de Inversión en el Mercado Inmobiliario (SOCIMI), o cualesquiera leyes sucesoras. El subapartado (b) del apartado 2 y el apartado 4 serán aplicables a dichos dividendos únicamente si el capital que posee el beneficiario efectivo de los dividendos, directa o indirectamente, no excede del 10 por ciento del capital total de la SOCIMI.
 
-c) El subapartado a) del apartado 2 no se aplicará cuando se trate de dividendos pagados por una institución española de inversión que esté sometida a imposición en España con arreglo al artículo 34 o al artículo 35 de la Ley 46, de 26 de diciembre de 1984, o a las disposiciones que los sustituyan. Dichos dividendos se someterán a imposición en España al tipo impositivo que establece el subapartado b) del apartado 2.
+(ii) El subapartado (a) del apartado 2 del artículo 10 no será aplicable en el caso de dividendos pagados por una institución de inversión española regulada mediante Ley 35/2003 de 4 de noviembre de Instituciones de Inversión Colectiva o cualesquiera leyes sucesoras. En este caso el subapartado (b) del apartado 2 y el apartado 4 del artículo 10 serán aplicables a dichos dividendos.
 
-d) El subapartado a) del apartado 2 no se aplicará cuando se trate de dividendos pagados por una Sociedad Regulada de Inversión (Regulated Investment Company) o una Fiducia de Inversión en Bienes Inmuebles (Real Estate Investment Trust) de los Estados Unidos. En el caso de los dividendos de una Sociedad Regulada de Inversión será aplicable el subapartado b) del apartado 2. Cuando se trate de dividendos de una Fiducia de Inversión en Bienes Inmuebles el subapartado b) del apartado 2 se aplicará si el beneficiario efectivo de los dividendos es una persona física que detente una participación inferior al 25 por 100 en la Fiducia de Inversión en Bienes Inmuebles; en otro caso, será aplicable el tipo impositivo previsto en la legislación interna.
+(b) En el caso de los Estados Unidos:
 
-8. En relación con el artículo 11. (Intereses).
+El subapartado (a) del apartado 2 del artículo 10 no será aplicable en el caso de dividendos pagados por una sociedad de inversión regulada estadounidense (U.S. Regulated Investment Company - RIC) o una entidad cotizada de inversión inmobiliaria estadounidense (U.S. Real Estate Investment Trust - REIT). En el caso de dividendos pagados por una RIC, serán aplicables el subapartado b) del apartado 2 y el apartado 4 del artículo 10. En el caso de los dividendos pagados por una REIT, el subapartado b) del apartado 2 y el apartado 4 del artículo 10 se aplicarán únicamente si:
 
-En el caso de España:
+(i) el beneficiario efectivo de los dividendos es una persona física o un fondo de pensiones cuya participación en la REIT, en cualquiera de los casos, no excede del 10 por ciento;
 
-a) Se entenderá que los rendimientos de los activos financieros regulados por la Ley 14/1985, de 25 de mayo, o la normativa que la sustituya, están comprendidos en el apartado 4.
+(ii) los dividendos se pagan respecto de una clase de acciones que se comercialice en bolsa y el beneficiario efectivo de los dividendos es una persona cuya participación no excede del 5 por ciento de ninguna clase de acciones de la REIT; o
 
-b) En el caso de los activos financieros que, con arreglo a la Ley a que se refiere el apartado precedente, estén sometidos a una retención impositiva única en origen, no serán aplicables los límites impositivos que establece el apartado 2.
+(iii) el beneficiario efectivo de los dividendos es una persona cuya participación en la REIT no excede del 10 por ciento y la REIT está diversificada.
+
+A los efectos de este apartado, una REIT estará “diversificada” cuando no exista una única participación en bienes inmuebles cuyo valor exceda del 10 por ciento de sus participaciones totales en bienes inmuebles. A los efectos de esta norma, las propiedades en ejecución hipotecaria no se consideran participaciones en bienes inmuebles. Cuando una REIT posea una participación en una sociedad de personas (“partnership”), se considerará que posee directamente el porcentaje de participación de la sociedad de personas en los bienes inmuebles, correspondiente a su participación en la sociedad de personas.
+
+8. En relación con el artículo 11 (Intereses)
+
+A los efectos del subapartado (b) del apartado 2, la expresión canal de inversión en valores respaldados por hipotecas sobre bienes inmuebles (“REMIC”) significa una entidad que puede optar a su tratamiento fiscal como REMIC en virtud del artículo 860D del Código tributario estadounidense “US Internal Revenue Code”.
 
 9. En relación con el apartado 2 del artículo 12. (Cánones).
 
@@ -66,29 +70,13 @@ a) A los efectos del artículo 13, tendrán la consideración de bienes inmueble
 
 b) En relación con el apartado 3, se entenderá que las ganancias derivadas de la enajenación de bienes muebles afectos a un establecimiento permanente que una Empresa de un Estado contratante tenga o haya tenido en el otro Estado contratante y que se retiren de ese otro Estado contratante, pueden someterse a imposición en ese otro Estado contratante con arreglo a su legislación, pero solamente respecto de las ganancias originadas hasta el momento de la salida del bien de su territorio, y pueden también someterse a imposición en el Estado contratante mencionado en primer lugar con arreglo a su legislación, pero solamente respecto de las ganancias originadas con posterioridad a esa salida.
 
-c) A los efectos del apartado 4, una enajenación no incluye la transmisión de acciones entre miembros de un grupo de sociedades en régimen de declaración consolidada en la medida en que la contraprestación recibida por la transmitente consista en una participación u otros derechos en el capital de la adquirente o de otra sociedad residente del mismo Estado contratante que detente directa o indirectamente el 80 por 100 o más de las acciones con derecho de voto y del capital de la adquirente, si:
+11. (Suprimido).
 
-i) La transmitente y la adquirente son sociedades residentes del mismo Estado contratante.
+12. (Suprimido).
 
-ii) La transmitente o la adquirente detentan, directa o indirectamente, el 80 por 100 o más de las acciones con derecho de voto y del capital de la otra, o una sociedad residente del mismo Estado contratante detenta directa o indirectamente (a través de sociedades residentes del mismo Estado contratante) el 80 por 100 o más de las acciones con derecho de voto y del capital de cada una de ellas).
+13. En relación con el apartado letra (ii) del subapartado (d) del apartado 2 del artículo 17. (Limitación de beneficios).
 
-iii) Para la determinación de la ganancia de capital en cualquier transmisión ulterior, el coste inicial del activo para la adquirente se determina en base al coste que tuvieron para la transmitente incrementado, en su caso, en la cuantía del efectivo u otros bienes entregados.
-
-No obstante lo anterior, si se recibe efectivo o bienes distintos de dicha participación o derechos, la cuantía de la ganancia de capital (hasta el límite de la cuantía del efectivo o bienes recibidos) puede someterse a imposición en el otro Estado contratante.
-
-11. En relación con el artículo 14. (Imposición sobre sucursales).
-
-a) Con referencia al impuesto adicional exigible conforme al artículo 14, se entenderá que el impuesto solamente será exigible respecto de las rentas sometidas a imposición con arreglo al artículo 6 (Rentas de Bienes Inmuebles), o al apartado 1 del artículo 13 (Ganancias de Capital), cuando dichas rentas sean, o hayan sido, sometidas a imposición sobre una base neta.
-
-b) En relación con el apartado 1.b) y el apartado 2, se entenderá que el término «bancos» incluye las Cajas de Ahorro.
-
-12. En relación con el artículo 15. (Servicios personales independientes).
-
-La expresión «base fija» deberá de interpretarse con arreglo a los comentarios al artículo 14 (Servicios personales independientes) del modelo de Convenio para evitar la doble imposición respecto de los Impuestos sobre la Renta y sobre el Patrimonio de la Organización para la Cooperación y Desarrollo Económico, y a cualesquiera directrices que se desarrollen en el futuro para la aplicación de dicho artículo.
-
-13. En relación con el apartado 1, d) del artículo 17. (Limitación de beneficios).
-
-Las organizaciones exentas de impuestos a que se refiere el apartado 1, d), del artículo 17 incluyen, entre otras, los fondos de pensiones, Entidades fiduciarias (trusts) de pensiones, fundaciones privadas, sindicatos, asociaciones de comercio y otras similares. En cualquier caso, un fondo de pensiones, una Entidad fiduciaria de pensiones, o Entidad similar constituida con arreglo a la legislación de un Estado contratante para proveer ayudas de jubilación, invalidez, u otra clase de beneficios laborales, tendrá derecho a los beneficios del Convenio si la organización patrocinadora de dicho fondo, entidad fiduciaria, o entidad, tiene derecho a los beneficios del Convenio con arreglo al artículo 17.
+Las organizaciones a que se refiere el apartado letra (ii) del subapartado (d) del apartado 2, del artículo 17 incluyen, entre otras, los fondos de pensiones, Entidades fiduciarias (trusts) de pensiones, fundaciones privadas, sindicatos, asociaciones de comercio y otras similares. En cualquier caso, un fondo de pensiones, una Entidad fiduciaria de pensiones, o Entidad similar constituida con arreglo a la legislación de un Estado contratante para proveer ayudas de jubilación, invalidez, u otra clase de beneficios laborales, tendrá derecho a los beneficios del Convenio si la organización patrocinadora de dicho fondo, entidad fiduciaria, o entidad, tiene derecho a los beneficios del Convenio con arreglo al artículo 17.
 
 14. En relación con el artículo 19. (Artistas y deportistas).
 
@@ -106,18 +94,54 @@ La cantidad de 5.000 dólares USA a que se refiere el apartado 1, b) iii), y la 
 
 A los efectos del apartado 1, b), en el caso de una Sociedad constituida en el curso del período impositivo precedente al del pago de los dividendos, se considerará que el «período impositivo inmediatamente anterior» comienza en la fecha de constitución de dicha Sociedad.
 
-18. En relación con el apartado 1 del artículo 26. (Procedimiento amistoso).
+18. En relación con los apartados 1 y 5 del artículo 26 (Procedimiento amistoso)
 
-La expresión «primera notificación» significa, en el caso de los Estados Unidos, la Notificación de Deficiencia (Notice of Deficiency) prevista con arreglo a la sección 6.212 del Código de Rentas Internas y, en el caso de España, la notificación del acto administrativo de liquidación. En el caso de los impuestos en la fuente, la «primera notificación» significa, a los efectos de ambos Estados contratantes, la fecha de retención o pago del impuesto.
+La expresión “primera notificación” significa, en el caso de los Estados Unidos, la notificación del ajuste propuesto y, en el caso de España, la notificación del acto administrativo de liquidación. En el caso de los impuestos en la fuente, “primera notificación” significa, para ambos Estados contratantes, la fecha de retención o de pago del impuesto. Asimismo, a los efectos del apartado 5, se entenderá que una acción de uno u otro Estado contratante que implique una imposición no conforme con el Convenio comprende la notificación del ajuste propuesto, la notificación del acto administrativo de liquidación o, en el caso de los impuestos en la fuente, el pago o la retención del impuesto.
 
-19. En relación con el artículo 27. (Intercambio de información y asistencia administrativa).
+1. En relación con los apartados 5 y 6 del artículo 26 (Procedimiento amistoso) del Convenio:
 
-a) El artículo 27 se interpretará con arreglo a los comentarios al artículo 26 (Intercambio de Información) del modelo de Convenio para evitar la doble imposición respecto de los Impuestos sobre la Renta y sobre el Patrimonio de la Organización para la Cooperación y Desarrollo Económico.
+(a) La comisión arbitral estará integrada por tres personas físicas. Las personas designadas no trabajarán ni habrán trabajado al servicio de la administración tributaria, el Departamento del Tesoro o el Ministerio de Hacienda del Estado contratante que los designa en el plazo de los doce meses anteriores a la fecha de inicio del procedimiento arbitral. Cada autoridad competente de los Estados contratantes designará un integrante de la comisión arbitral y los dos componentes así seleccionados designarán a un tercero, que ejercerá como presidente de la comisión arbitral. Si los integrantes designados por las autoridades competentes de los Estados contratantes no pudieran ponerse de acuerdo sobre el tercer componente, se prescindirá de ambos, y cada autoridad competente de los Estados contratantes seleccionará un nuevo integrante de la comisión arbitral. El presidente no será un nacional, ciudadano o residente permanente de pleno derecho de ninguno de los Estados contratantes.
 
-b) Las autoridades competentes de los Estados contratantes intercambiarán, aun sin petición previa, las informaciones necesarias para asegurar que los beneficios del Convenio se apliquen solamente a aquéllos que tienen derecho a los mismos.
+(b) Tanto el procedimiento arbitral como el procedimiento amistoso respecto de un caso concluirán si en cualquier momento anterior a la comunicación por la comisión arbitral de su decisión a las autoridades competentes de los Estados contratantes:
+
+(i) las autoridades competentes de los Estados contratantes resolvieran el caso de mutuo acuerdo;
+
+(ii) la persona que presenta el caso retirara la solicitud de arbitraje;
+
+(iii) cualquier persona interesada, sus representantes o agentes, contravinieran intencionadamente el compromiso de confidencialidad manifestado por escrito al que se refiere la letra (iii) del subapartado (c) del apartado 6, y las autoridades competentes de ambos Estados contratantes convinieran que dicho incumplimiento determina la finalización del procedimiento arbitral; o
+
+(iv) cualquier persona interesada incoara acciones o procesos legales ante los tribunales de cualquiera de los Estados contratantes en relación con las cuestiones planteadas en el caso, a menos que tales acciones o procesos queden en suspenso conforme a la normativa interna aplicable en ese Estado contratante.
+
+(c) La autoridad competente de cualquiera de los Estados contratantes podrá remitir una propuesta de resolución en la que se aborde cada ajuste o cuestión similar planteados en el caso. Esta propuesta de resolución estará referida a la totalidad del caso y reflejará, sin modificación, todas las cuestiones previamente acordadas por las autoridades competentes de ambos Estados contratantes. Esta propuesta de resolución se limitará a la presentación de ciertos importes monetarios (por ejemplo: rentas, beneficios, ganancias o gastos) o, cuando así se especifique, el impuesto máximo aplicado de acuerdo con el Convenio para cada ajuste o cuestión similar del caso. Asimismo, la autoridad competente de cada Estado contratante podrá remitir un informe de posición argumentativo para su consideración por parte de la comisión arbitral.
+
+(d) No obstante las disposiciones precedentes de este apartado, se entenderá que, en el caso de un procedimiento arbitral relativo:
+
+(i) a la sujeción al impuesto de una persona física respecto de la que las autoridades competentes no hayan podido alcanzar un acuerdo sobre su Estado de residencia;
+
+(ii) la fiscalidad de los beneficios empresariales de una empresa respecto de la que las autoridades competentes no hayan podido alcanzar un acuerdo sobre la existencia o no de un establecimiento permanente; o
+
+(iii) toda otra cuestión cuya determinación dependa de la resolución de cuestiones de partida similares;
+
+las autoridades competentes de los Estados contratantes podrán remitir propuestas de resolución específicas que aborden las cuestiones de partida que sea pertinente resolver, como se señala en las letras (i), (ii) o (iii) anteriores (por ejemplo, la cuestión de si existe o no un establecimiento permanente), así como las decisiones que dependan de esa respuesta (por ejemplo, el cálculo del beneficio atribuible a dicho establecimiento permanente).
+
+(e) Si el procedimiento arbitral se refiere a un caso que comprende múltiples ajustes o cuestiones similares y cada uno de ellos requiere la presentación de importes monetarios concretos (por ejemplo, de rentas, beneficios, ganancias o gastos) o cuando así se especifique, el impuesto máximo aplicado en virtud del Convenio, la propuesta de resolución podrá consistir en una presentación independiente para cada ajuste o cuestión similar.
+
+(f) Cada autoridad competente de los Estados contratantes recibirá la propuesta de resolución y el informe de posición remitido por la otra autoridad competente, y podrá dirigir a la comisión arbitral su respuesta a los mismos. Cada autoridad competente de los Estados contratantes recibirá también la respuesta de la otra autoridad competente.
+
+(g) La persona que presenta el caso podrá remitir a la comisión arbitral, para su consideración, un documento en el que exponga su análisis y su punto de vista sobre el caso. Este documento no incluirá información alguna que no se hubiera remitido previamente a las autoridades competentes durante el procedimiento amistoso, y se hará llegar a las autoridades competentes de ambos Estados contratantes.
+
+(h) La comisión arbitral emitirá su decisión por escrito a las autoridades competentes de los Estados contratantes. La decisión que dicte la comisión arbitral durante el procedimiento de arbitraje se limitará a optar por una de las propuestas de resolución del caso remitida por las autoridades competentes de los Estados contratantes para cada ajuste o cuestión similar y para las cuestiones de partida, y no incluirá una exposición de fundamentos u otra explicación de su decisión. La decisión de la comisión arbitral carece de valor como precedente respecto de la aplicación del Convenio en los restantes casos.
+
+(i) Excepto si las autoridades competentes de ambos Estados contratantes acuerdan un plazo superior, la persona que presenta el caso dispondrá de 45 días tras la fecha de recepción de la decisión de la comisión arbitral para notificar por escrito a la autoridad competente del Estado contratante ante la que se presentó el caso, su aceptación de la decisión. Si la persona que presenta el caso no notificara tal aceptación a la autoridad competente pertinente, la decisión se considerará rechazada. Asimismo, la decisión de la comisión arbitral se entenderá rechazada por la persona que presenta el caso si este estuviera pendiente de pleito o de recurso y cualquier persona relacionada con el caso y que sea parte de dicho pleito o recurso no desistiera ante el tribunal judicial o administrativo correspondiente respecto de las cuestiones resueltas mediante arbitraje en el plazo antes señalado. En caso de no aceptar la decisión adoptada por la comisión arbitral, el caso no será susceptible de ulteriores revisiones por las autoridades competentes.
+
+(j) Las autoridades competentes de los Estados contratantes sufragarán equitativamente los honorarios y gastos de los integrantes de la comisión arbitral, así como los costes en los que los Estados contratantes incurran por razón de este procedimiento arbitral.
+
+19. (Suprimido).
 
 20. En relación con el artículo 29. (Entrada en vigor).
 
 Cuando se produzcan cambios sustanciales en la legislación interna de los Estados contratantes o en sus relaciones fiscales con otros Estados, ya sea en virtud de nuevas orientaciones en su política de negociación de Tratados Fiscales o como consecuencia de cambios que puedan producirse en los sistemas supranacionales de integración a los que los Estados contratantes pertenezcan, las autoridades competentes se consultarán sobre la conveniencia de negociar modificaciones del Convenio para reflejar dichos cambios.
+
+> Se modifica por el art. 14 del Protocolo de 14 de enero de 2013.. Ref. BOE-A-2019-15166
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 47, de 24 de febrero de 1993. Ref. BOE-A-1993-5135.
