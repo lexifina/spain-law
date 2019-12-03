@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Aplicación transitoria de las Reglas de Funcionamiento del Mercado y los Procedimientos de Operación.
+
+Hasta la aprobación por la Comisión Nacional de los Mercados y la Competencia de las metodologías y condiciones, reglas de funcionamiento de los mercados y procedimientos de operación a los que se refiere el artículo 23, continuarán siendo de aplicación las actuales reglas de funcionamiento de los mercados diario e intradiario de producción de energía eléctrica y los procedimientos de operación actualmente vigentes, incluidas las metodologías y condiciones ya aprobadas por esta Comisión al amparo de la normativa europea reguladora de esta materia.
