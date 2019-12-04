@@ -1,0 +1,7 @@
+## Decimocuarto. Efectos.
+
+La presente resolución surtirá efectos a partir del día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Contra la presente resolución, que pone fin a la vía administrativa, de acuerdo con lo dispuesto en el artículo 114 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, podrá interponerse recurso contencioso-administrativo, ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional, en el plazo de dos meses, a contar desde el día siguiente al de la publicación de la presente resolución, de conformidad con la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+
+Asimismo, contra la presente resolución podrá interponerse, potestativamente, recurso de reposición ante el Secretario de Estado de Energía, en el plazo de un mes, contado a partir del día siguiente al de la publicación de la presente resolución, de acuerdo con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre. En tal caso, no se podrá interponer recurso contencioso administrativo hasta que se resuelva expresamente el recurso de reposición o se produzca la desestimación presunta del mismo, en virtud de lo dispuesto en el artículo 123.2 de la citada ley.
