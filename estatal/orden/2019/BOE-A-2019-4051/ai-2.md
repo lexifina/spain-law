@@ -96,5 +96,8 @@
 | Secretaría General Consejo Superior de Investigaciones Científicas. | Consejo Superior de Investigaciones Científicas. |
 | Secretaría General Organismo Estatal Inspección de Trabajo y Seguridad Social. | Organismo Estatal Inspección de Trabajo y Seguridad Social. |
 | Secretaría General. | Agencia Estatal de Investigación. |
+| Secretaría General. | Comisión Nacional de los Mercados y la Competencia. |
+
+> Se modifica por el art. único de la Orden HAC/1170/2019, de 18 de noviembre. Ref. BOE-A-2019-17503
 
 > Se modifica por el art. único de la Orden HAC/963/2019, de 11 de septiembre. Ref. BOE-A-2019-13542
