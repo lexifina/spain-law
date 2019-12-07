@@ -48,6 +48,8 @@ Como norma general las denominaciones de los medicamentos no contendrán abrevia
 
 21. Cupón precinto del Sistema Nacional de Salud, cuando proceda.
 
+22. Para los medicamentos que deban llevar dispositivos de seguridad, código de barras bidimensional, y el código de producto y número de serie en caracteres visibles.
+
 ## Parte segunda: Información que debe incluirse en el acondicionamiento primario
 
 1. Los acondicionamientos primarios o en su caso el blindaje de protección de los medicamentos que contengan radionucleidos, que se presenten sin embalaje exterior, habrán de incluir las informaciones recogidas en la parte primera.
@@ -99,3 +101,5 @@ d) número de lote de fabricación;
 e) fecha de caducidad;
 
 f) cualquier otra información necesaria para la conservación y uso seguro del medicamento.
+
+> Se añade el apartado 22 en la parte primera por el art. único.15 del Real Decreto 717/2019, de 5 de diciembre. Ref. BOE-A-2019-17611

@@ -64,7 +64,7 @@ a) Medicamento de uso hospitalario: H.
 
 b) Medicamento de diagnóstico hospitalario o de prescripción por determinados médicos especialistas: DH.
 
-c) Medicamento de especial control médico: ECM.
+c) (Suprimida)
 
 d) Medicamentos de dispensación renovable: TLD.
 
@@ -86,7 +86,7 @@ c) «Uso hospitalario».
 
 d) «Diagnóstico hospitalario».
 
-e) «Especial control médico».
+e) (Suprimida)
 
 En los medicamentos homeopáticos con indicación terapéutica se incluirá la leyenda:
 
@@ -95,6 +95,8 @@ f) «Medicamento homeopático».
 En los medicamentos tradicionales a base de plantas, se incluirá en el apartado correspondiente a la indicación, del etiquetado y prospecto, la siguiente leyenda:
 
 g) «Basado exclusivamente en su uso tradicional».
+
+> Se suprime la letra c) del apartado 2 y la letra e) del apartado 3 por el art. único.16 del Real Decreto 717/2019, de 5 de diciembre. Ref. BOE-A-2019-17611
 
 > Se suprime la letra g) del apartado 1 por el art. único.22 del Real Decreto 686/2013, de 16 de septiembre. Ref. BOE-A-2013-9638.
 
