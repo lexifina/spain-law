@@ -1,3 +1,9 @@
-## Disposición adicional primera. Obligatoriedad del registro de información.
+## Disposición adicional primera. Solicitud de exención del registro de información.
 
-El establecimiento de los sistemas para registrar la información a la que se refiere el artículo 6 será obligatorio, para las empresas navieras, a partir del 1 de junio de 1999.
+La Dirección General de la Marina Mercante podrá solicitar a la Comisión Europea la exención, total o parcial, de la obligación de registrar la información a la que se refiere el artículo 6 para los servicios regulares de transporte marítimo de pasajeros que tengan origen en puertos españoles, cuando concurran las siguientes circunstancias:
+
+a) Que la empresa naviera, dadas las especiales características del servicio de transporte, justifique la impracticabilidad de la puesta en aplicación del sistema de registro de información.
+
+b) Que la navegación sea de corta duración y se desarrolle en zonas marítimas en las que la probabilidad anual de que la altura significativa de las olas supere dos metros sea inferior al 10 por 100.
+
+> Se modifica por el art. 1.8 y 9 del Real Decreto 724/2019, de 13 de diciembre. Ref. BOE-A-2019-18017
