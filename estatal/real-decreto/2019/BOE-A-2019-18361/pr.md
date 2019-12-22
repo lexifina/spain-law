@@ -1,0 +1,33 @@
+Se ha constatado que el marco jurídico de la Unión Europea sobre seguridad de los buques de pasaje ha logrado alcanzar un nivel común de seguridad para dichos buques dentro del citado ámbito.
+
+Por otra parte, en función del modo en el que ha ido evolucionando a lo largo del tiempo la normativa europea sobre esta materia de protección de la seguridad marítima y de la vida humana en el mar, se ha detectado también un cierto grado de solapamiento y duplicación que debería ser corregido, con el fin de reducir las cargas que recaen sobre las navieras y de racionalizar el esfuerzo requerido por las Administraciones marítimas de los Estados miembros.
+
+Es un hecho constatado que la mayor parte de los Estados miembros ya combinan en lo posible los reconocimientos obligatorios para garantizar la seguridad en la explotación de los buques de pasaje de transbordo rodado adscritos a un servicio de línea regular con otros tipos de reconocimientos e inspecciones, tales como los propios del Estado de abanderamiento y también los del Estado rector del puerto.
+
+Por lo tanto, con la finalidad de armonizar y seleccionar el esfuerzo inspector de las Administraciones marítimas y aprovechar al máximo la vida útil de explotación comercial de los buques –todo ello sin merma de seguridad marítima–, los buques sujetos de hecho a inspecciones de control por el Estado rector del puerto deben ser transferidos al ámbito de aplicación del Real Decreto 1737/2010, de 23 de diciembre, por el que se aprueba el Reglamento por el que se regulan las inspecciones de buques extranjeros en puertos españoles.
+
+En esta línea de racionalización y simplificación de esfuerzos, el ámbito de aplicación de este real decreto, mediante el que se incorpora al ordenamiento jurídico español la Directiva (UE) 2017/2110 del Parlamento Europeo y del Consejo de 15 de noviembre de 2017 sobre un sistema de inspecciones para garantizar la seguridad en la explotación de buques de pasaje de transbordo rodado y naves de pasaje de gran velocidad en servicio regular y por la que se modifica la Directiva 2009/16/CE y se deroga la Directiva 1999/35/CE, debe circunscribirse a los buques de pasaje de transbordo rodado y naves de pasaje de gran velocidad que prestan servicios regulares entre puertos situados en un mismo Estado miembro o entre un puerto situado en un Estado miembro y un puerto de un tercer Estado cuando el pabellón del buque sea el mismo que el del Estado miembro de que se trate.
+
+En otro orden de cosas, el concepto de Estado de acogida fue introducido por la Directiva 1999/35/CE (incorporada al ordenamiento jurídico español por el Real Decreto 1907/2000, de 24 de noviembre, por el que se aprueba el Reglamento sobre reconocimientos obligatorios para garantizar la seguridad de la navegación de determinados buques de pasaje, que ahora se deroga) para facilitar la cooperación con terceros países y se estima ahora que dicho concepto ha dejado de ser pertinente y debe suprimirse.
+
+En lo que atañe a la Directiva 2009/16/CE (incorporada al ordenamiento jurídico español por el Real Decreto 1737/2010, de 23 de diciembre, por el que se aprueba el Reglamento por el que se regulan las inspecciones de buques extranjeros en puertos españoles), se considera que debe ser modificada para garantizar que se mantienen el contenido y la frecuencia de las inspecciones a los buques de pasaje que se encuentran en su ámbito de aplicación. A tal efecto, se deben incluir en la regulación española reglas específicas para las inspecciones de los buques de pasaje de referencia cuando estén adscritos a una línea regular y deban ser objeto de inspecciones por el Estado rector del Puerto.
+
+Por todo ello, a fin de mejorar e incrementar la claridad y coherencia jurídicas, se deroga el Real Decreto 1907/2000 y se modifica el Real Decreto 1737/2010, al haberse derogado y modificado –respectivamente–, la Directiva 1999/35/CE y la Directiva 2009/16/CE.
+
+Por último, debe precisarse que la incorporación al ordenamiento jurídico español de la Directiva mediante este real decreto se ajusta a los criterios de necesidad, eficiencia, proporcionalidad, seguridad jurídica y transparencia que integran los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015 de 1 de octubre de Procedimiento Administrativo Común de las Administraciones Públicas.
+
+El cumplimiento de los principios de eficiencia y proporcionalidad se justifica en la necesidad de llevar a cabo la transposición de la Directiva 2017/2109 (UE) del Parlamento Europeo y del Consejo, de 15 de noviembre de 2017, lo cual precisa de una norma con rango de real decreto en virtud de la habilitación recogida en la disposición final segunda del texto refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por Real Decreto Legislativo 2/2011, de 5 de septiembre de 2011, no existiendo normas de rango superior que puedan verse afectadas y al llevarse a cabo la modificación de una norma con rango de real decreto.
+
+La transparencia en la elaboración de esta norma queda garantizada al haberse cumplimentado los trámites de consulta previa y audiencia a los ciudadanos.
+
+La necesidad y oportunidad de aprobar la norma es consecuencia de la obligación que tiene el Estado español, en su calidad de Estado miembro de la Unión Europea, de transponer las directivas comunitarias.
+
+Por último, la seguridad jurídica queda perfectamente garantizada por la rigurosa observancia del procedimiento de elaboración de disposiciones generales que se verifica en esta norma.
+
+La aprobación de esta norma encuentra encaje en los supuestos previstos en el artículo 21, apartado 3, de la Ley 50/1997, de 27 de noviembre, del Gobierno, al tratarse de una reglamentación de carácter eminentemente técnico, cuyas prescripciones no condicionaran las nuevas orientaciones políticas derivadas del nuevo Gobierno. A su vez, teniendo en cuenta el objeto de la norma, concurren razones de interés general, al incorporar al ordenamiento jurídico español una directiva comunitaria europea y por el hecho de que su aprobación implicará una mejora en la seguridad en la navegación marítima.
+
+Este real decreto se dicta al amparo del artículo 149.1.20.ª de la Constitución española, que atribuye al Estado competencia exclusiva en materia de marina mercante y en virtud de la habilitación recogida en la disposición final segunda del texto refundido de la Ley de Puertos del Estado y de la Marina Mercante.
+
+En su virtud, a propuesta del Ministro de Fomento, con la aprobación previa de la Ministra de Política Territorial y Función Pública, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 20 de diciembre de 2019,
+
+DISPONGO:

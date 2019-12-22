@@ -1,135 +1,17 @@
 ## ANEXO XVII
 
-## Tabla de correspondencias (a las que se refiere el artículo 37 de la Directiva 2009/16/CE)
+## Inspección de buques de pasaje de transbordo rodado y naves de pasaje de gran velocidad en un servicio regular
 
-| Directiva 95/21/CE | La directiva 2009/16/CE |
-| --- | --- |
-| Artículo 1, parte introductoria | Artículo 1, parte introductoria |
-| Artículo 1, primer guión | Artículo 1, letra a) |
-| Artículo 1, segundo guión | Artículo 1, letra b) |
-| – | Artículo 1, letra c) |
-| Artículo 2, parte introductoria | Artículo 2, parte introductoria |
-| Artículo 2, apartado 1, parte introductoria | Artículo 2, apartado 1, parte introductoria |
-| Artículo 2, apartado 1, primer guión | Artículo 2, apartado 1, letra a) |
-| Artículo 2, apartado 1, segundo guión | Artículo 2, apartado 1, letra b) |
-| Artículo 2, apartado 1, tercer guión | Artículo 2, apartado 1, letra c) |
-| Artículo 2, apartado 1, cuarto guión | Artículo 2, apartado 1, letra d) |
-| Artículo 2, apartado1, quinto guión | Artículo 2, apartado 1, letra e) |
-| Artículo 2, apartado1, sexto guión | Artículo 2, apartado 1, letra f) |
-| Artículo 2, apartado1, sexto guión | Artículo 2, apartado 1, letra f) |
-| Artículo 2, apartado1, séptimo guión | Artículo 2, apartado 1, letra g) |
-| Artículo 2, apartado1, octavo guión | Artículo 2, apartado 1, letra h) |
-| Artículo 2, apartado 2 | Artículo 2, apartado 2 |
-| – | Artículo 2, apartado 3 |
-| – | Artículo 2, apartado 4 |
-| Artículo 2, apartado 3 | Artículo 2, apartado 5 |
-| Artículo 2, apartado 4 | – |
-| – | Artículo 2, apartado 6 |
-| – | Artículo 2, apartado 7 |
-| Artículo 2, apartado 5 | Artículo 2, apartado 8 |
-| – | Artículo 2, apartado 6 |
-| – | Artículo 2, apartado 10 |
-| Artículo 2, apartado 6 | Artículo 2, apartado 11 |
-| Artículo 2, apartado 7 | Artículo 2, apartado 12 |
-| Artículo 2, apartado 8 | Artículo 2, apartado 13 |
-| – | Artículo 2, apartado 14 |
-| Artículo 2, apartado 9 | Artículo 2, apartado 15 |
-| – | Artículo 2, apartado 16 |
-| Artículo 2, apartado 10 | Artículo 2, apartado 17 |
-| – | Artículo 2, apartado 18 |
-| – | Artículo 2, apartado 19 |
-| – | Artículo 2, apartado 20 |
-| – | Artículo 2, apartado 21 |
-| – | Artículo 2, apartado 22 |
-| Artículo 3, apartado 1, párrafo primero | Artículo 3, apartado 1, párrafo primero |
-| – | Artículo 3, apartado 1, párrafo segundo |
-| – | Artículo 3, apartado 1, párrafo tercero |
-| Artículo 3, apartado 1, párrafo primero | Artículo 3, apartado 1, párrafo cuarto |
-| – | Artículo 3, apartado 1, párrafo quinto |
-| – | Artículo 3, apartado 1, párrafo sexto |
-| Artículo 3, apartados 2 a 4 | Artículo 3, apartados 2 a 4 |
-| – | Artículo 4, apartado 1 |
-| –artículo 4 | Artículo 4, apartado 2 |
-| –artículo 5 | – |
-| – | Artículo 5 |
-| – | Artículo 6 |
-| – | Artículo 7 |
-| – | Artículo 8 |
-| – | Artículo 9 |
-| – | Artículo 10 |
-| – | Artículo 11 |
-| – | Artículo 12 |
-| Artículo 6, apartado 1, parte introductoria | – |
-| – | Artículo 13, apartado 1, parte introductoria |
-| Artículo 6, apartado 1, letra a) | Artículo 13, apartado 1, letra a) |
-| – | Artículo 13, apartado 1, letra b) |
-| Artículo 6, apartado 1, letra b) | Artículo 13, apartado 1, letra c) |
-| Artículo 6, apartado 2 | – |
-| – | Artículo 13, apartado 2 |
-| Artículo 6, apartado 3 | Artículo 13, apartado 3 |
-| Artículo 6, apartado 4 | – |
-| Artículo 7 | – |
-| Artículo 7 bis | – |
-| Artículo 7 ter | – |
-| – | Artículo 14 |
-| – | Artículo 15 |
-| – | Artículo 16 |
-| Artículo 8 | Artículo 17 |
-| – | Artículo 18 |
-| Artículo 9, apartados 1 y 2 | Artículo 1, apartados 1 y 2 |
-| Artículo 9, apartado 3, primera frase | Artículo 19, apartado 3 |
-| Artículo 9, apartado 3, segunda a cuarta frase | Artículo 19, apartado 4 |
-| Artículo 9, apartado 4 a 7 | Artículo 19, apartados 5 a 8 |
-| – | Artículo 19, apartados 9 y 10 |
-| Artículo 9 bis | – |
-| Artículo 10, apartado 1 a 3 | Artículo 20, apartados 1 a 3 |
-| – | Artículo 20, apartado 4 |
-| Artículo 11, apartado 1 | Apartado 21, apartado 1 |
-| – | Artículo 21, apartado 2 |
-| Artículo 11, apartado 2 | Artículo 21, apartado 3 párrafo primero |
-| Artículo 11, apartado 3 párrafo primero | – |
-| Artículo 11, apartado 3 párrafo segundo | Artículo 21, apartado 3 párrafo segundo |
-| Artículo 11, apartados 4 a 6 | Artículo 21, apartados 4 a 6 |
-| Artículo 12, apartados 1 a 3 | Artículo 22, apartados 1 a 3 |
-| Artículo 12, apartado 4 | Artículo 22, apartado 4 |
-| – | Artículo 22, apartado 5 a 7 |
-| Artículo 13, apartados 1 y 2 | Artículo 23, apartado 1 y 2 |
-| – | Artículo 23, apartado 3 a 5 |
-| Artículo 14 | – |
-| Artículo 15 | – |
-| – | Artículo 24 |
-| – | Artículo 25 |
-| – | Artículo 26 |
-| – | Artículo 27 |
-| Artículo 16, apartados 1 y 2 | Artículo 28, apartados 1 y 2 |
-| Artículo 1, apartado 2 bis | Artículo 28, apartado 3 |
-| Artículo 1, apartado 3 | Artículo 28.4 |
-| Artículo 17 | Artículo 29 |
-| – | Artículo 30 |
-| Artículo 18 | Artículo 31 |
-| Artículo 19 | Artículo 32 |
-| – | Artículo 33 |
-| Artículo 19, letra a) | Artículo 34 |
-| – | Artículo 35 |
-| Artículo 20 | Artículo 36 |
-| – | Artículo 37 |
-| Artículo 21 | Artículo 38 |
-| Artículo 22 | Artículo 39 |
-| Anexo I | – |
-| – | Anexo I |
-| – | Anexo II |
-| – | Anexo III |
-| Anexo II | Anexo IV |
-| Anexo III | Anexo V |
-| Anexo IV | Anexo VI |
-| Anexo V | Anexo VII |
-| Anexo VI | Anexo X |
-| Anexo VII | Anexo XI |
-| – | Anexo XII |
-| Anexo VIII | Anexo XIII |
-| Anexo IX | Anexo IX |
-| Anexo X | Anexo XIV |
-| Anexo XI | Anexo VIII |
-| Anexo XII | – |
-| – | Anexo XV |
-| – | Anexo XVI |
+1.1 Antes de que un buque de pasaje de transbordo rodado o una nave de pasaje de gran velocidad comience a prestar servicio en una línea regular a la que sea de aplicación este real decreto, los servicios de inspección de la Dirección General de la Marina Mercante o la Capitanía Marítima competente llevarán a cabo una inspección, de conformidad con el artículo 3, apartado 1, de este real decreto para cerciorarse de que el buque o la nave cumplen los requisitos necesarios para la seguridad de la explotación de un servicio regular.
+
+1.2 Cuando un buque de pasaje de transbordo rodado o una nave de pasaje de gran velocidad pasen a prestar un servicio de línea regular distinto, la Dirección General de la Marina Mercante o la Capitanía Marítima competente podrán tener en cuenta las inspecciones previas realizadas durante los últimos ocho meses en dicho buque o nave por otro Estado miembro en relación con otro servicio de línea regular al que sea de aplicación este real decreto, siempre que, en cada caso, dichos órganos administrativos consideren que las mencionadas inspecciones previas son adecuadas a efectos de las nuevas condiciones de navegación y que, durante estas inspecciones, se cumpliesen los requisitos necesarios para garantizar la seguridad de la explotación de un servicio de línea regular. No será necesario realizar las inspecciones previstas en el punto 1.1 antes de que el buque de pasaje de transbordo rodado o la nave de pasaje de gran velocidad comience a prestar servicio en la nueva línea regular.
+
+1.3 En los casos en que, debido a circunstancias imprevistas, se haga necesaria y urgente la rápida utilización de un buque de pasaje de transbordo rodado o una nave de pasaje de gran velocidad en sustitución de otro para garantizar la continuidad del servicio y no sea de aplicación el punto 1.2, la Dirección General de la Marina Mercante o la Capitanía Marítima competente podrán permitir que el buque o nave entren en servicio siempre la inspección visual y la verificación de los documentos no susciten dudas acerca de si el buque de pasaje de transbordo rodado o la nave de pasaje de gran velocidad cumplen las prescripciones necesarias para la seguridad de la navegación, y que los citados órganos administrativos lleven a cabo la inspección prevista en el artículo 3, apartado 1, de este real decreto en el plazo de un mes.
+
+2. Los servicios de inspección de la Dirección General de la Marina Mercante o la Capitanía Marítima competente, una vez al año, pero no antes de cuatro meses y no más tarde de ocho meses a partir de la inspección anterior, llevarán a cabo una inspección, que incluya los requisitos del anexo II de este real decreto y del Reglamento (UE) n.º 428/2010 de la Comisión, según proceda, y otra inspección durante la navegación. Esta última inspección incluirá los elementos enumerados en el anexo III de este real decreto y un número de los elementos enumerados en los anexos I y II de la mencionada Directiva que sea suficiente, según el criterio profesional del inspector, para garantizar que el buque de pasaje de transbordo rodado o la nave de pasaje de gran velocidad siguen cumpliendo todos los requisitos necesarios para la seguridad de la navegación.
+
+3. Cuando un buque de pasaje de transbordo rodado o una nave de pasaje de gran velocidad no hayan sido inspeccionados de conformidad con lo establecido en el punto 2, el buque o la nave se considerarán como prioridad I.
+
+4. A los efectos de lo dispuesto en el punto 2, letra a), del presente anexo, se considerará como inspección una inspección verificada de conformidad con el punto 1.1.
+
+> Se modifica por la disposición final 1.7 del Real Decreto 733/2019, de 20 de diciembre. Ref. BOE-A-2019-18361#df
