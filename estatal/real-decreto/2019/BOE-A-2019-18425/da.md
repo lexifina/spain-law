@@ -1,0 +1,3 @@
+## Disposición adicional primera. Comunicación de los administradores de entidades de pago de carácter híbrido y las entidades de dinero electrónico de carácter híbrido.
+
+Las entidades de pago de carácter híbrido y las entidades de dinero electrónico de carácter híbrido deberán comunicar al Banco de España, en el plazo de tres meses desde la entrada en vigor de este real decreto, todos los administradores que se encuentren en el ejercicio del cargo y que no consten inscritos en el Registro de Altos Cargos del Banco de España, al no ser obligatoria con anterioridad su inscripción en dicho registro. Salvo prueba en contrario, se presumirá que dichos administradores tienen la honorabilidad, experiencia y conocimientos adecuados para el desempeño de sus funciones.

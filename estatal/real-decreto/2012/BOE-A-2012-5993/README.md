@@ -45,6 +45,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 25](a25.md)
 - [Artículo 26](a26.md)
 - [Artículo 27](a27.md)
+- [Artículo 28](a2-2.md)
+- [Artículo 29](a2-3.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
