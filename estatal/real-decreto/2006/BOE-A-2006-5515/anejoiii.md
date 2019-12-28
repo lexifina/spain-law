@@ -22,7 +22,7 @@ El término, cubre la construcción in situ, pero también la fabricación de pa
 
 Constructor: es el agente que asume, contractualmente ante el promotor, el compromiso de ejecutar con medios humanos y materiales, propios o ajenos, las obras o parte de las mismas con sujeción al proyecto y al contrato, y siguiendo las instrucciones del director de obra y del director de la ejecución de la obra.
 
-Demanda energética: es la energía necesaria para mantener en el interior del edificio unas condiciones de confort definidas reglamentariamente en función del uso del edificio y de la zona climática en la que se ubique. Se compone de la demanda energética de calefacción y refrigeración, correspondientes a los meses de la temporada de calefacción y refrigeración, respectivamente.
+Demanda energética: Energía útil necesaria que tendrían que proporcionar los sistemas técnicos para mantener en el interior del edificio unas condiciones definidas reglamentariamente. Se puede dividir en demanda energética de calefacción, de refrigeración, de agua caliente sanitaria (ACS), de ventilación, de control de la humedad y de iluminación, y se expresa en kW·h/m2·año.
 
 Deformación inadmisible: nivel de deformación que supera los límites de deformación admisibles establecidos en la reglamentación vigente.
 
@@ -145,5 +145,7 @@ b) La propiedad o su representante, aunque no acuda habitualmente al edificio.
 c) Persona que ocasionalmente acude a un edificio con el fin de realizar una determinada actividad acorde con el uso previsto. Por ejemplo: visitante, proveedor, cliente, etc.; o
 
 d) Personas que no acuden al edificio, pero que se pueden encontrar, habitualmente u ocasionalmente, en su zona de influencia. Por ejemplo: vecinos, transeúntes, etc.
+
+> Se modifica por el art. único.1 del Real Decreto 732/2019, de 20 de diciembre. Ref. BOE-A-2019-18528
 
 > Se modifica por la disposición final 11.1º.4 de la Ley 8/2013, de 26 de junio. Ref. BOE-A-2013-6938.
