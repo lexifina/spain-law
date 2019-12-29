@@ -1,1 +1,1 @@
-Se suspende la aplicación del sistema de reducción previsto en este Real Decreto, para las cotizaciones que se generen durante el año 2019, según establece la disposición adicional 3 del Real Decreto-ley 28/2018, de 28 de diciembre. Ref. BOE-A-2018-17992#da-3
+Se suspende la aplicación del sistema de reducción previsto en este Real Decreto, para las cotizaciones que se generen durante el año 2020, por el art. 7.8 del Real Decreto-ley 18/2019, de 27 de diciembre. Ref. BOE-A-2019-18611#a7

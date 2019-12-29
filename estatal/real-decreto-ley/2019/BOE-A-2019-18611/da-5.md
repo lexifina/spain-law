@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Prórroga del plazo de vigencia del Real Decreto 1462/2018, de 21 de diciembre, por el que se fija el salario mínimo interprofesional para 2019.
+
+Hasta tanto se apruebe el real decreto por el que se fija el salario mínimo interprofesional para el año 2020 en el marco del diálogo social, en los términos establecidos en aquel, y de acuerdo con lo previsto en el artículo 27 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, se prorrogan los efectos del Real Decreto 1462/2018, de 21 de diciembre, por el que se fija el salario mínimo interprofesional para 2019.
