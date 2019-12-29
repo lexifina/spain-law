@@ -27,4 +27,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 12](a12.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
+- [Disposición final tercera](df.md)
 - [firma](firma.md)
