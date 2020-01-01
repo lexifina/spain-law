@@ -18,7 +18,7 @@ Delimitación y condiciones de tramitación
 
 Deberá acompañarse la documentación correspondiente en formato electrónico.
 
-2. No obstante, los mutualistas que no se encuentren en situación de activo ( jubilados, mutualistas voluntarios, así como beneficiarios con título propio) podrán presentar sus solicitudes ante cualquier Servicio Provincial u Oficina Delegada de MUFACE, presencialmente o por correo postal, o en cualquiera de los registros indicados en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común durante los días hábiles/laborables de los meses de marzo, septiembre y octubre de cada año natural.
+2. No obstante, los mutualistas que no se encuentren en situación de activo (jubilados, mutualistas voluntarios, así como beneficiarios con título propio) podrán presentar sus solicitudes ante cualquier Servicio Provincial u Oficina Delegada de MUFACE, presencialmente o por correo postal, o en cualquiera de los registros indicados en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común, durante los días hábiles/laborables de los meses de marzo, mayo y octubre de cada año natural.
 
 No se admitirán solicitudes en formato papel, por ninguno de los medios indicados en el párrafo anterior, fuera de estos periodos, salvo aquellas relativas a hechos causantes cuyo derecho prescriba durante el año natural de presentación de la solicitud.
 
@@ -69,6 +69,10 @@ A efectos de lo previsto en este apartado, en relación al hecho causante se ten
 12. El tratamiento de ortodoncia se concederá sólo en aquellos casos iniciados antes de los 18 años, de una sola vez y para un único tratamiento. En el supuesto de que el beneficiario haya cumplido los 18 años en la fecha de la factura, en el informe se deberá acreditar la fecha en la que inició el tratamiento.
 
 13. Sólo se podrá conceder un máximo de doce ayudas por beneficiario y año natural para cada una de las prestaciones de pieza, empaste y endodoncia.
+
+> Se modifica el epígrafe 2 por el apartado primero.2 de la Resolución de 26 de diciembre de 2019. Ref. BOE-A-2019-18673
+
+> Téngase en cuenta para su aplicación el apartado tercero de la citada Resolución.
 
 > Se modifica por el apartado 1 y Anexo de la Resolución de 19 de febrero de 2019. Ref. BOE-A-2019-2583
 
