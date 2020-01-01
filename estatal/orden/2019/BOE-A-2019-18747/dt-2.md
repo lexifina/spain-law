@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Mantenimiento de la validez de determinadas precintas.
+
+Se mantiene la validez de las precintas, previstas en la Orden EHA/3482/2007, de 20 de noviembre, por la que se aprueban determinados modelos, se refunden y actualizan diversas normas de gestión en relación con los Impuestos Especiales de Fabricación y con el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos, ya adheridas a los envases y/o recipientes con bebidas derivadas fabricados o importados en la Unión Europea con anterioridad al 1 de julio de 2020, en todo caso durante su periodo de comercialización, con la fecha límite del 1 de enero de 2022.

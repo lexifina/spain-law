@@ -1,0 +1,5 @@
+## Disposición final primera. Modificación de la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende esta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios.
+
+Se modifica el apartado 2 de la disposición adicional única de la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende esta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios, en el sentido de sustituir el «Modelo 517. Impuestos Especiales de Fabricación. Petición de marcas fiscales a la oficina gestora de impuestos especiales», por el modelo siguiente:
+
+«Modelo 517 ‘‘Solicitud de marcas fiscales del Impuesto sobre el Alcohol y Bebidas Derivadas’’.»
