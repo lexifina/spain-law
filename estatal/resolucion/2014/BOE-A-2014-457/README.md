@@ -25,3 +25,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [ANEXO 3](an3.md)
 - [ANEXO 4](an4.md)
 - [ANEXO 5](an5.md)
+- [ANEXO 6](a6-2.md)

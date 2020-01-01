@@ -1,5 +1,5 @@
 ## ANEXO 2
 
-## Modelo de liquidación de pagos por traslado por cuenta de la sanidad militar
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/314/18764_5600.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/15/00457_001.png)
+> Se modifica por el apartado 1.6 de la Resolución de 18 de diciembre de 2019. Ref. BOE-A-2019-18764
