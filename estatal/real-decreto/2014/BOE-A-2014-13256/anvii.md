@@ -4,7 +4,7 @@
 
 I. Información general
 
-1. La identificación del agricultor: NIF, apellidos y nombre del agricultor y, si procede, de su cónyuge y régimen matrimonial, en su caso, o razón social, fecha de nacimiento si procede, domicilio (tipo de vía y su número, código postal, municipio y provincia), teléfono y apellidos y nombre del representante legal en su caso, con su NIF. En caso de persona física, indicación de la si la titularidad de la explotación es compartida mediante la inscripción en el registro previo correspondiente. Si procede, la comprobación de los datos relativos a la identidad se realizará de oficio por el órgano instructor, si así se autoriza por el solicitante. En caso de no presentar dicha autorización, el solicitante deberá aportar el correspondiente documento.
+1. La identificación del agricultor: NIF, apellidos y nombre del agricultor y, si procede, de su cónyuge y régimen matrimonial, en su caso, o razón social, fecha de nacimiento, domicilio (tipo de vía y su número, código postal, municipio y provincia), teléfono y apellidos y nombre del representante legal en su caso, con su NIF. En caso de persona física, indicación de si la titularidad de la explotación es compartida mediante la inscripción en el registro previo correspondiente. Si procede, la comprobación de los datos relativos a la identidad se realizará de oficio por el órgano instructor, si así se autoriza por el solicitante. En caso de no presentar dicha autorización, el solicitante deberá aportar el correspondiente documento.
 
 1 bis) Datos relativos al jefe de la explotación, necesarios para dar cumplimiento al Reglamento (UE) n.º 2018/1091 del Parlamento Europeo y del Consejo, de 18 de julio de 2018 relativo a las estadísticas integradas sobre explotaciones agrícolas y por el que se derogan los Reglamentos (CE) n.º 1166/2008 y (UE) n.º 1337/2011, y al Plan Estadístico Nacional.
 
@@ -32,7 +32,7 @@ I. Información general
 
 13. Una autorización para que la autoridad competente recabe de la Agencia Tributaria la información fiscal para poder determinar el cumplimiento de los criterios de agricultor activo. En caso de no presentar dicha autorización, el solicitante deberá aportar dicha documentación.
 
-14. En el caso de las sociedades, estas deberán declarar el nombre, NIF y fecha de nacimiento, si procede, de los socios participantes indicando el tanto por ciento de su participación en el capital social.
+14. En el caso de las sociedades, estas deberán declarar el nombre, NIF y fecha de nacimiento de los socios participantes indicando el tanto por ciento de su participación en el capital social.
 
 15. En el caso de las personas jurídicas y grupos de personas físicas y jurídicas a las que se refiere la letra b) del apartado 4 del artículo 9, deberán declarar el total de ingresos agrarios percibidos en el periodo impositivo más reciente. La autoridad competente podrá determinar la obligatoriedad de realizar también la declaración correspondiente de los dos ejercicios fiscales anteriores.
 
@@ -43,6 +43,18 @@ I. Información general
 18. En el caso de explotaciones agrícolas que realicen venta directa al consumidor final, declaración de dicha práctica, entendiéndose como tal cualquier forma de transferencia, a título oneroso o gratuito, realizada directamente por el productor a la persona consumidora final.
 
 19. En virtud de lo dispuesto en el artículo 98.4, declaración expresa para que se facilite a la Dirección General de Catastro del Ministerio de Hacienda, en los términos que se determinen por orden del Ministro de Hacienda, los datos personales mínimos exigibles, para que el titular catastral pueda ejercer sus derechos de acceso, respecto de las comunicaciones al Catastro Inmobiliario recogidas en el artículo 98.3.
+
+20. Declaración expresa de que conoce que todos los datos consignados en la solicitud única de ayudas, así como los que se recogen de otras Administraciones públicas para la cumplimentación de la solicitud, pueden ser tratados con fines estadísticos por la Autoridad competente, cumpliendo las medidas de confidencialidad conforme al artículo 103 del Reglamento (UE) núm. 1306/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, de cara a estudios y trabajos en el marco del seguimiento de la PAC.
+
+21. De conformidad con el artículo 95.2, y a efectos de lo dispuesto en el artículo 92.2, declaración expresa para que la autoridad competente en la gestión de la solicitud única en cada comunidad autónoma, pueda acceder a la información contenida en los registros oficiales con relación a las parcelas agrícolas de la explotación, su régimen de tenencia, actividad agraria ejercida sobre las mismas y cualesquiera otros datos de las parcelas y de las actividades agrarias en ellas desarrolladas necesarios para determinar la admisibilidad de las ayudas solicitadas.
+
+> Téngase en cuenta que esta última actualización de los puntos 1 y 14 del apartado I y los puntos 20 y 21, añadidos por el art. 1.9 del Real Decreto 628/2019, de 31 de octubre, Ref. BOE-A-2019-15681, produce efectos desde el 1 de enero de 2020, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "1. La identificación del agricultor: NIF, apellidos y nombre del agricultor y, si procede, de su cónyuge y régimen matrimonial, en su caso, o razón social, fecha de nacimiento si procede, domicilio (tipo de vía y su número, código postal, municipio y provincia), teléfono y apellidos y nombre del representante legal en su caso, con su NIF. En caso de persona física, indicación de la si la titularidad de la explotación es compartida mediante la inscripción en el registro previo correspondiente. Si procede, la comprobación de los datos relativos a la identidad se realizará de oficio por el órgano instructor, si así se autoriza por el solicitante. En caso de no presentar dicha autorización, el solicitante deberá aportar el correspondiente documento."
+
+> "14. En el caso de las sociedades, estas deberán declarar el nombre, NIF y fecha de nacimiento, si procede, de los socios participantes indicando el tanto por ciento de su participación en el capital social."
 
 II. Declaración expresa de lo que solicita
 
@@ -74,7 +86,7 @@ b) Maíz modificado genéticamente, deberán declararse todos los cultivos que s
 
 c) Cultivos proteicos de los definidos en el artículo 34, se indicará si dicha parcela se destina a la producción de semilla con fines comerciales.
 
-d) Cultivos hortícolas y frutales, deberá declararse anualmente y de forma gráfica toda la superficie de cultivo, a través de la solicitud única o de las vías que la autoridad competente establezca para tal fin.
+d) Cultivos hortícolas y frutales, deberá declararse anualmente y de forma gráfica toda la superficie de cultivo a través de la solicitud única o de las vías que la autoridad competente establezca para tal fin. En el caso de superficies de frutales, cuando la superficie declarada en el recinto sea mayor a 0,1 hectáreas, se indicará la especie, la variedad y el año de plantación. En el caso de cultivos hortícolas cuando la superficie declarada en el recinto sea mayor a 0,1 hectáreas, deberán especificarse las especies a implantar en la campaña sobre la misma superficie.
 
 En el caso de superficies de frutales se indicará la especie, la variedad y el año de plantación. En el caso de cultivos hortícolas, deberán especificarse las especies a implantar en la campaña sobre la misma superficie.
 
@@ -88,11 +100,11 @@ En el caso de superficies de frutales se indicará la especie, la variedad y el 
 
 9. En el caso de que el productor justifique que en una parcela realiza un método de producción ecológica según lo establecido en el artículo 17.3 deberá aportar un certificado que permita comprobar dicha declaración. Cuando la autoridad competente tenga acceso a la información exigida en este punto, se eximirá al solicitante de la necesidad de adjuntarla con su solicitud.
 
-10. Ayuda Asociada a los cultivos proteicos a que se refiere la sección 3ª capítulo I título IV:
+10. Ayuda asociada a los cultivos proteicos a que se refiere la sección 3.ª, capítulo I, título IV:
 
 – La superficie por la que se solicita el pago, desglosada por especie y, cuando corresponda, por variedad cultivada.
 
-– Declaración responsable del solicitante que es conocedor de los requisitos recogidos en el artículo 35.
+– Declaración responsable del solicitante de que es conocedor y se ajusta a los requisitos recogidos en los artículos 34 y 35, y en especial de que se compromete a que el destino de su producción sea directa o indirectamente la alimentación animal.
 
 11. En el caso, tanto de la ayuda asociada a los frutos de cáscara a que se refiere la sección 4.ª del capítulo I del título IV, como de la ayuda nacional a los frutos de cáscara a que se refiere la disposición adicional primera, las especies y el número de árboles de cada una de las especies existentes beneficiarias de dicha ayuda.
 
@@ -100,7 +112,21 @@ En el caso de superficies de frutales se indicará la especie, la variedad y el 
 
 13. En el caso de la ayuda asociada al tomate para industria sección 7ª capítulo I título IV, una declaración responsable del solicitante de que es conocedor de los requisitos recogidos en el artículo 49.
 
-14. Datos relativos al destino de la producción agrícola necesarios para dar cumplimiento al Reglamento (UE) n.º 2018/1091 del Parlamento Europeo y del Consejo, de 18 de julio de 2018, relativo a las estadísticas integradas sobre explotaciones agrícolas y por el que se derogan los Reglamentos (CE) n.º 1166/2008 y (UE) n.º 1337/2011, y al Plan Estadístico Nacional.
+14. Datos relativos al destino de la producción agrícola cuando se declaren cultivos hortícolas, cultivos energéticos, viñedo de vinificación y flores, necesarios para dar cumplimiento al Reglamento (UE) núm. 2018/1091 del Parlamento Europeo y del Consejo, de 18 de julio de 2018, relativo a las estadísticas integradas sobre explotaciones agrícolas y por el que se derogan los Reglamentos (CE) núm. 1166/2008 y (UE) núm. 1337/2011, y al Plan Estadístico Nacional.
+
+> Téngase en cuenta que esta última actualización de los puntos 7.d), 10 y 14 del apartado III, establecida por el art. 1.9 del Real Decreto 628/2019, de 31 de octubre, Ref. BOE-A-2019-15681, produce efectos desde el 1 de enero de 2020, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "7.d) Cultivos hortícolas y frutales, deberá declararse anualmente y de forma gráfica toda la superficie de cultivo, a través de la solicitud única o de las vías que la autoridad competente establezca para tal fin."
+
+> "10. Ayuda Asociada a los cultivos proteicos a que se refiere la sección 3ª capítulo I título IV:
+
+> – La superficie por la que se solicita el pago, desglosada por especie y, cuando corresponda, por variedad cultivada.
+
+> – Declaración responsable del solicitante que es conocedor de los requisitos recogidos en el artículo 35."
+
+> "14. Datos relativos al destino de la producción agrícola necesarios para dar cumplimiento al Reglamento (UE) n.º 2018/1091 del Parlamento Europeo y del Consejo, de 18 de julio de 2018, relativo a las estadísticas integradas sobre explotaciones agrícolas y por el que se derogan los Reglamentos (CE) n.º 1166/2008 y (UE) n.º 1337/2011, y al Plan Estadístico Nacional."
 
 IV. Ayuda asociada a los ganaderos, medidas de ayuda relacionadas con los animales y ayudas a los agricultores que ejerzan actividad ganadera
 
@@ -137,6 +163,8 @@ V. Información y documentación adicional
 9. Sin perjuicio de lo establecido en los párrafos anteriores, cuando la autoridad competente tenga acceso a la documentación exigida en este apartado V, se eximirá al solicitante de la necesidad de presentación de dicha documentación, sustituyéndose en su caso por una autorización expresa a la autoridad competente para acceder a dicha información.
 
 10. Cualquier otra información, en concepto de "otra declaración", establecida por la comunidad autónoma para las medidas de desarrollo rural en el ámbito del Sistema Integrado.
+
+> Se modifican los apartados I y III, con efectos de 1 de enero de 2020, por el art. 1.9 del Real Decreto 628/2019, de 31 de octubre, Ref. BOE-A-2019-15681
 
 > Se modifican los apartados I y III y se deja sin contenido el punto 1 del V por el art. 1.27 del Real Decreto 1378/2018, de 8 de noviembre. Ref. BOE-A-2018-15349
 

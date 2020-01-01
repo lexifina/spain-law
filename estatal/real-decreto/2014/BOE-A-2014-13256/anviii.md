@@ -10,7 +10,13 @@ En todos los barbechos que sean considerados superficies de interés ecológico,
 
 A los efectos de la solicitud, dicha superficie deberá ser declarada como superficie en barbecho o en barbecho para plantas melíferas, el año de solicitud en el que se pretenda computar como superficie de interés ecológico.
 
-Asimismo, todas las superficies de barbecho que pretendan computarse como de interés ecológico, no deberán haber estado precedidas por ningún cultivo fijador de nitrógeno de los incluidos en el listado del apartado siguiente.
+Asimismo, todas las superficies de barbecho que pretendan computarse como de interés ecológico, no deberán haber estado precedidas en la campaña anterior por ningún cultivo fijador de nitrógeno de los incluidos en el listado del apartado II de este anexo, con independencia de que dicho cultivo hubiera computado o no como superficie de interés ecológico en el año anterior.
+
+> Téngase en cuenta que esta última actualización del último párrafo del apartado I.A) del apartado III, establecida por el art. 1.10 del Real Decreto 628/2019, de 31 de octubre, Ref. BOE-A-2019-15681, produce efectos desde el 1 de enero de 2020, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "Asimismo, todas las superficies de barbecho que pretendan computarse como de interés ecológico, no deberán haber estado precedidas por ningún cultivo fijador de nitrógeno de los incluidos en el listado del apartado siguiente."
 
 B) Disposiciones específicas para las tierras en barbecho para plantas melíferas. Para que las tierras sean consideradas «barbecho para plantas melíferas», y por consiguiente superficies de interés ecológico, deberán ser sembradas de una mezcla de especies melíferas elegibles, que representen un mínimo de 4 familias diferentes, y que sean predominantes en dichas superficies.
 
@@ -81,6 +87,8 @@ Al objeto de evitar el riesgo de lixiviación del nitrógeno fijado por estos cu
 III. Superficies con Miscanthus y Silphium perfoliatum
 
 En las superficies de Miscanthus y Silphium perfoliatum, que pretendan computar como superficies de interés ecológico no se podrán utilizar ni fertilizantes minerales ni productos fitosanitarios.
+
+> Se modifica el último párrafo del apartado I.A) del apartado III por el art. 1.10 del Real Decreto 628/2019, de 31 de octubre, Ref. BOE-A-2019-15681
 
 > Se modifica por el art. 1.28 del Real Decreto 1378/2018, de 8 de noviembre. Ref. BOE-A-2018-15349
 
