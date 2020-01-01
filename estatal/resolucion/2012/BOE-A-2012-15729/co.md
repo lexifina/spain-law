@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada por Resolución de 6 de febrero de 2013. Ref. BOE-A-2013-1889.
+Norma derogada, con efectos de 1 de enero de 2020, por el apartado 2 de la Resolución de 4 de diciembre de 2019. Ref. BOE-A-2019-18127#se
