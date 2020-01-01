@@ -8,14 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2020-01-01 by BOE-A-2019-18127. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [co](co.md)
-- [preambulo](preambulo.md)
-- [1](A1o.md)
-- [2](A2o.md)
-- [3](A3o.md)
-- [Disposición transitoria](dt.md)
-- [Disposición derogatoria](dd.md)
-- [Disposición final](df.md)
-- [firma](firma.md)
+- [BOE publisher notice](co.md)
