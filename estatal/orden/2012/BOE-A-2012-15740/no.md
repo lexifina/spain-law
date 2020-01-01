@@ -1,1 +1,1 @@
-Queda prorrogado el plan de gestión integral establecido en la presente Orden, con efectos de 1 de enero de 2019, hasta el 31 de diciembre de 2019, por el art. único de la Orden APA/1206/2018, de 14 de noviembre. Ref. BOE-A-2018-15723
+Queda prorrogado el plan de gestión integral establecido en la presente Orden, con efectos de 1 de enero de 2020, hasta el 31 de diciembre de 2020, por el art. único de la Orden APA/1254/2019, de 20 de diciembre. Ref. BOE-A-2019-18598
