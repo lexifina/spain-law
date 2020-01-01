@@ -4,13 +4,17 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2010/311/19707_5205182_image3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/311/19707_5205182_image4.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/314/18751_4933.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/311/15365_4982.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/311/15365_5061.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/311/15365_5132.png)
+
+> Se modifica la Hoja Informativa-210 por el art. único.4, quedando sustituida por la que figura en el Anexo I de la Orden HAC/1275/2019, de 18 de diciembre. Ref. BOE-A-2019-18751
+
+> Téngase en cuenta, para su entrada en vigor, la disposición final única de la citada Orden.
 
 > Se modifican los apartados "Rendimientos de inmuebles arrendados o subarrendados" y "Ganancias patrimoniales" de la relación de tipos de renta de la Hoja informativa-210 y el documento de ingreso o devolución y se suprime el sobre del modelo 210 por el art. 1.10 a 12 y el anexo de la Orden HFP/1271/2017, de 21 de diciembre. Ref. BOE-A-2017-15365
 
