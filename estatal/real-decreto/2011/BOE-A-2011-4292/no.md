@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 180, de 28 de julio de 2011. Ref. BOE-A-2011-12965
+Norma derogada, con efectos de 2 de enero de 2020, por la disposición derogatoria única.1 del Real Decreto 552/2019, de 27 de septiembre. Ref. BOE-A-2019-15228
