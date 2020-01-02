@@ -1,0 +1,21 @@
+I
+
+Con la aprobación de la Orden de 12 de abril de 1999 por la que se dictan las instrucciones técnicas complementarias al Reglamento de Puntos de Medida de los Consumos y Tránsitos de Energía Eléctrica, basada en el Real Decreto 2018/1997, de 26 de diciembre, por el que se aprueba el Reglamento de Puntos de Medida de los Consumos y Tránsitos de Energía Eléctrica, se delimitaban las fronteras entre las diversas actividades y se fijaban la precisión requerida en los equipos de medida, así como otras características de estos equipos y de los de comunicaciones y sistemas informáticos.
+
+Por su parte, con la aprobación del Reglamento unificado de puntos de medida del sistema eléctrico por el Real Decreto 1110/2007, de 24 de agosto, por el que se aprueba el Reglamento unificado de puntos de medida del sistema eléctrico, se regulan las condiciones de funcionamiento del sistema de medidas del sistema eléctrico, de los equipos que lo integran y de sus características, estableciendo el desarrollo de diversos aspectos mediante las instrucciones técnicas complementarias.
+
+II
+
+La Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, define en su artículo 9 las bases del autoconsumo de energía eléctrica entendido como el consumo por parte de uno o varios consumidores de energía eléctrica proveniente de instalaciones de producción próximas a las de consumo y asociadas a los mismos.
+
+El Real Decreto 244/2019, de 5 de abril, por el que se regulan las condiciones administrativas, técnicas y económicas del autoconsumo de energía eléctrica establecía, en su disposición adicional primera, mandatos al operador del sistema para la remisión a la Secretaría de Estado de Energía de una propuesta de modificación de los procedimientos de operación del sistema eléctrico y, en su caso, de las instrucciones técnicas complementarias al Reglamento unificado de puntos de medida del sistema eléctrico aprobado por el Real Decreto 1110/2007, de 24 de agosto, por el que se aprueba el Reglamento unificado de puntos de medida del sistema eléctrico, cuyo contenido sea necesario modificar para adaptarse a las modificaciones introducidas por dicho real decreto.
+
+Con base en lo anterior, el operador del sistema remitió la propuesta de los procedimientos de operación a la Secretaría de Estado de Energía donde se incluían, entre otras, las propuestas de adaptación al Real Decreto 244/2019, de 5 de abril, de los procedimientos de operación P.O. 1. (SENP), P.O. 2.2. (SENP), P.O. 3.1. (SENP), P.O. 3.7. (SENP), P.O. 9. (SENP), P.O. 9., P.O. 10.1., P.O. 10.2., P.O. 10.4., P.O. 10.5., P.O. 10.6., P.O. 10.7., P.O. 10.11., P.O. 14.8., P.O. 15.1. y P.O. 15.2., y la propuesta de las instrucciones técnicas complementarias al Reglamento unificado de puntos de medida del sistema eléctrico aprobado por el Real Decreto 1110/2007, de 24 de agosto.
+
+Dichas propuestas referidas a autoconsumo, fueron sometidas a audiencia pública por el Ministerio para la Transición Ecológica y remitidas a la Comisión Nacional de los Mercados y la Competencia, solicitando informe con carácter de urgencia, en virtud de lo establecido en el artículo 5.2 de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia.
+
+III
+
+Con fecha 7 de noviembre de 2019 la sala de supervisión regulatoria de la Comisión Nacional de los Mercados y la Competencia aprobó el acuerdo por el que se emite «Informe a solicitud de la Secretaria de Estado de Energia sobre la propuesta del operador del sistema de adaptación de los procedimientos de operación P.O.1 (SENP), P.O.2.2 (SENP), P.O.3.1 (SENP), P.O.3.7 (SENP), P.O.9 (SENP), P.O.9, P.O.10.1, P.O.10.2, P.O.10.4, P.O.10.5, P.O.10.6, P.O.10.7, P.O.10.11, P.O.14.8, P.O.15.1, P.O.15.2, así como de las instrucciones técnicas complementarias al Reglamento unificado de puntos de medida del sistema eléctrico», previo trámite de audiencia en el Consejo Consultivo.
+
+De conformidad con lo establecido en la Ley 24/2013, de 26 de diciembre, el Real Decreto 1110/2007, de 24 de agosto, y el Real Decreto 244/2019, de 5 de abril, y vista la propuesta realizada por el operador del sistema, las alegaciones recibidas y el informe de la Comisión Nacional de los Mercados y la Competencia, dispongo:
