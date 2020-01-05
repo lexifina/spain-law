@@ -1,6 +1,6 @@
 ## ANEXO III
 
-## Códigos y definiciones de operaciones no presupuestarias y de operaciones internas
+## Códigos y definiciones de operaciones no presupuestarias y de relaciones internas
 
 | Código no presup. | Cuenta | Dto. | Entidad afectada | Definición |
 | --- | --- | --- | --- | --- |
@@ -13,7 +13,8 @@
 | 10100 | 440 | D | T/EG/M | DEUDORES POR IVA REPERCUTIDO Este concepto recoge las deudas de terceros correspondientes al IVA repercutido como consecuencia de la entrega de bienes o prestación de servicios. |
 | 10110 | 443 | – | T/M | DEUDORES A CORTO PLAZO POR APLAZAMIENTOS Y FRACCIONAMIENTOS En la TGSS y MATEPSS, este concepto recoge derechos a cobrar por aplazamientos y fraccionamientos concedidos por la TGSS que tengan su vencimiento a corto plazo. |
 | 102 |  |  |  | DEUDORES POR PRESTACIONES |
-| 10210 | 448 | D | T/EG/M | DEUDORES POR PAGO INDEBIDO DE PRESTACIONES DEL SISTEMA DE LA SEGURIDAD SOCIAL En este concepto figurarán las deudas pendientes de cobro en relación con pagos indebidos de prestaciones del sistema. |
+| 10210 | 448 | D | T/EG/M | DEUDORES POR PAGO INDEBIDO DE PRESTACIONES DEL SISTEMA DE LA SEGURIDAD SOCIAL. En este concepto figurarán las deudas pendientes de cobro en relación con pagos indebidos de prestaciones. Al cierre del ejercicio, el sistema abonará este concepto con cargo al concepto no presupuestario 10211 «Anulación de liquidaciones de deudores por pago indebido de prestaciones del sistema de la Seguridad Social». |
+| 10211 | 448 | D | T/EG/M | ANULACIÓN DE LIQUIDACIONES DE DEUDORES POR PAGO INDEBIDO DE PRESTACIONES DEL SISTEMA DE LA SEGURIDAD SOCIAL. En este concepto figurarán las anulaciones de las liquidaciones de deudas pendientes de cobro en relación con pagos indebidos de prestaciones. Al cierre del ejercicio, el sistema cargará este concepto con abono al concepto no presupuestario 10210 «Deudores por pago indebido de prestaciones del sistema de la Seguridad Social». |
 | 103 |  |  |  | OTROS DEUDORES NO PRESUPUESTARIOS |
 | 10310 | 449 | D | T/EG | PRESTACIONES ANTICIPADAS. En las entidades gestoras (EEGG) y TGSS, recogerá los pagos efectuados en concepto de anticipos de pensiones y en base a las disposiciones de convenios internacionales de Seguridad Social. |
 | 10311 | 449 | D | T/EG | ANTICIPOS PERSONAL LABORAL A CTA. TRABAJOS REALIZADOS En las EEGG y TGSS se imputaran a este concepto los anticipos que se conceden al personal laboral en virtud de la normativa vigente. El reintegro se producirá al mes siguiente del pago mediante descuento en el documento presupuestario de la nómina. |
@@ -184,7 +185,7 @@
 | 30198 | 5549 | D | T/EG | OTRAS PARTIDAS PENDIENTES DE APLICACIÓN C DE GESTION En la EEGG y TGSS, concepto destinado a recoger aquellas partidas de origen acreedor que puedan estar pendientes de identificación. |
 | 30199 | 5549 | D | T/M | OTRAS PARTIDAS PENDIENTES DE APLICACIÓN TESORERIAS En la TGSS y MATEPSS, concepto destinado a recoger aquellas partidas de origen acreedor que puedan estar pendientes de identificación. |
 | 302 |  |  |  | REINTEGROS DE PRESTACIONES PENDIENTES DE APLICACIÓN |
-| 30210 | 557 | – | T/EG/M | REINTEGROS DE PRESTACIONES PENDIENTES DE APLICACIÓN En este concepto figurarán las deudas pendientes de cobro en relación con pagos indebidos de prestaciones del sistema. Con cargo a este concepto se efectuará la expedición de documentos KRPG.900. |
+| 30210 | 557 | D | T/EG/M | REINTEGROS DE PRESTACIONES PENDIENTES DE APLICACIÓN. En este concepto figurarán las deudas pendientes de cobro en relación con pagos indebidos de prestaciones del sistema. Con cargo a este concepto se efectuará la expedición de documentos KRPG.900. |
 | 4 |  |  |  | PARTIDAS PENDIENTES DE APLICACIÓN DE ORIGEN DEUDOR |
 | 401 |  |  |  | PAGOS PENDIENTES DE APLICACIÓN Estos conceptos se reservan a los centros de gestión de la TGSS. |
 | 40105 | 5501 | D | M | OPERACIONES DEUDORAS CON TGSS En las MATEPSS, recoge los movimientos de fondos internos entre éstas y la TGSS, de carácter deudor. |
@@ -254,5 +255,7 @@
 | Código no presupuestario | Definición |
 | --- | --- |
 | 40220 | ANTICIPOS DE DIETAS Y GASTOS DE VIAJE Este concepto recoge los pagos efectuados por fondo de maniobra en concepto de anticipos de dietas y gastos de viaje del personal pendientes de aplicar. Su aplicación se efectuará bien por reintegro o por la imputación presupuestaria de las cantidades anticipadas. |
+
+> Se modifica por el art. único.7 de la Resolución de 20 de diciembre de 2019. Ref. BOE-A-2020-87
 
 > Se modifica por el art. 1.22 de la Resolución de 14 de diciembre de 2018. Ref. BOE-A-2018-17774.

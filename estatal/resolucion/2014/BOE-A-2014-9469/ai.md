@@ -166,7 +166,7 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2019/51/17774_12512.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_12546.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/4/00087_5101.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_12580.png)
 
@@ -231,6 +231,8 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_15035.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_15069.png)
+
+> Se sustituye el modelo del documento OEAD.900 por el que se recoge en el anexo de la Resolución de 20 de diciembre de 2019, según establece su art. único.6. Ref. BOE-A-2020-87
 
 > Se sustituye por el anexo I de la Resolución de 14 de diciembre de 2018. Ref. BOE-A-2018-17774, según establece su art. 1.20.
 
