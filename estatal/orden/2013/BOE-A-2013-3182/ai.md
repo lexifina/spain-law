@@ -88,15 +88,27 @@ Asimismo, se deberá estar en posesión de los albaranes, facturas u otra docume
 
 4. Trazabilidad.
 
-En todo momento, la empresa participante dispondrá de los medios que garanticen la trazabilidad del proceso y de la documentación para la aplicación de las exigencias establecidas en la presente orden.
+En todo momento, las entidades inscritas, dispondrán de los medios que garanticen la trazabilidad de la actividad efectuada en sus instalaciones y cámaras de tratamiento y de la documentación correspondiente, dentro del ámbito de aplicación de la presente orden.
 
-El tratamiento debería darse antes de que se aplique la marca, con el fin de evitar que la exhiba el embalaje de madera que haya recibido un tratamiento insuficiente o incorrecto.
+Instalaciones:
 
-A nivel documental debe incluirse en el albarán, factura o documentación, la fecha de realización del tratamiento o el número de lote.
+Deberán contar con los medios suficientes para garantizar la diferenciación física entre materiales tratados y no tratados, tanto en materia prima como en producto terminado.
 
-En el caso de que los haces del material de madera estén embalados, utilizarán una etiqueta, en la que se incluirá el número de registro y número de lote o una fecha de fabricación o tratamiento, grapada o pegada en el haz de madera, que permita asegurar la trazabilidad del proceso. En caso de que el material de madera no esté embalado, todas y cada una de las unidades del envío deberán ir identificadas de igual forma.
+Los paquetes de madera aserrada tratada, deberán identificarse con una etiqueta, grapada o pegada en el paquete, en la que se incluya, al menos, el número de registro y número de lote o fecha de tratamiento.
 
-Las instalaciones contarán con los medios suficientes para garantizar la diferenciación física entre materiales tratados y no tratados.
+El embalaje de madera tratado o fabricado con madera aserrada tratada, durante su almacenamiento en las instalaciones de la empresa, deberá estar identificado con una etiqueta, en la que se incluya, al menos, el lote o fecha de tratamiento. También se considerará válido, añadir en cada embalaje, cerca del borde de la marca, pero fuera de él, la fecha de tratamiento o número de lote.
+
+El tratamiento al embalaje de madera debe darse antes de que se aplique la marca, con el fin de evitar que haya recibido un tratamiento insuficiente o incorrecto, salvo que esté debidamente justificado, y siempre y cuando se identifique dicho material, de forma adecuada, en cada una de las fases de su fabricación y tratamiento.
+
+Documentalmente:
+
+En el caso de la madera aserrada tratada, el albarán, factura u otra documentación, deberá incluir la fecha de realización del tratamiento o el número de lote.
+
+En el caso de embalaje de madera tratado, el albarán, factura o documentación, deberá indicar que el material es tratado.
+
+En el libro de registro deberá incluirse la descripción del material tratado: madera aserrada, palés (nuevo, reparado, reciclado/refabricado, reutilizado, usado,) cajas, bobinas… etc., así como, los datos de las expediciones: fecha expedición, n.º de albarán o factura, cliente.
+
+La documentación citada anteriormente deberá conservarse cinco años, y contar con un sistema de copias de seguridad eficiente.
 
 ## Sección C. Subcontratación del tratamiento térmico o adquisición de madera tratada térmicamente (HT) o con bromuro de metilo (MB)
 
@@ -141,3 +153,5 @@ El libro de registro podrá estar informatizado siempre que exista un sistema de
 Con el fin de facilitar la aplicación de las condiciones técnicas incluidas en este anexo, la Dirección General de Sanidad de la Producción Agraria elaborará las líneas directrices correspondientes, para su seguimiento por los organismos independientes de control.
 
 Igualmente, se elaboraran los modelos de documentos en los que se reflejará el resultado de los controles, que deberán utilizar los organismos independientes de control con el fin de unificar los criterios en la realización de los mismos.
+
+> Se modifica el punto 4 de la sección B por el art. único.2 de la Orden APA/1299/2019, de 18 de diciembre. Ref. BOE-A-2020-282

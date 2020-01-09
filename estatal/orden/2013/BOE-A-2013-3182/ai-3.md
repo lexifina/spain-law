@@ -52,31 +52,41 @@ Ejemplo 6
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2013/70/03182_8660.png)
 
-Sección B. Aplicación de la marca
+Sección B. Aplicación de la marca.
 
 En un embalaje de madera fabricado con madera que ha recibido tratamiento y con madera procesada (cuando el elemento procesado no requiera tratamiento) se permitirá que la marca aparezca en los elementos de madera procesada para asegurar que se encuentre en un lugar visible y sea de buen tamaño. Esto se permitirá solo para la aplicación de la marca a unidades compuestas.
 
-No se llevará a cabo cesión alguna de la marca a terceros para su aplicación por éstos, salvo en aquellos casos en que, previa solicitud del interesado, en atención a las circunstancias específicas concurrentes debidamente justificadas por éste, y por un periodo de tiempo máximo de un año, prorrogable por otro como máximo, así se autorice expresamente por la Dirección General de Sanidad de la Producción Agraria, debiendo indicarse en el libro de registro la fecha de dicha autorización y la entidad que efectúe el marcado. En este caso, la entidad cedente proporcionará a la Dirección General de Sanidad de la Producción Agraria la información que ésta le solicite respecto del uso de la mencionada cesión de marca.
+No se llevará a cabo cesión alguna de la marca a terceros para su aplicación por éstos, salvo en aquellos casos en que, previa solicitud del interesado; en atención a las circunstancias específicas concurrentes debidamente justificadas por éste, y por un periodo de tiempo máximo de un año, prorrogable por otro como máximo; así se autorice expresamente por la Dirección General de Sanidad de la Producción Agraria, debiendo indicarse en el libro de registro la fecha de dicha autorización y la entidad que efectúe el marcado. En este caso, la entidad cedente proporcionará a la Dirección General de Sanidad de la Producción Agraria la información que ésta le solicite respecto del uso de la mencionada cesión de marca.
 
 1. Madera de estiba. Toda la madera de estiba que se utilice para fijar o apoyar los productos debe haber recibido tratamiento para poder exhibir la marca que se describe en este anexo, que deberá ser clara y legible.
 
-2. Embalaje reutilizado. Es aquel que no ha sido reparado, reciclado/refabricado o alterado de alguna forma. Todo el embalaje reutilizado debe haber recibido tratamiento para poder exhibir la marca que se describe en este anexo, que deberá ser clara y legible.
+2. Embalaje usado. Embalaje de madera que no ha recibido tratamiento y no está marcado en conformidad con esta norma.
 
-Cuando se trate de una unidad de embalaje de madera que ha recibido tratamiento y se ha marcado en conformidad con esta norma y no ha sido reparada, reciclada o alterada de alguna otra forma, no será necesario que reciba nuevo tratamiento o marcado durante su vida útil.
+El embalaje de madera usado, que, por cualquier causa, sea necesario tratar y marcar en conformidad con esta norma, podrá ser tratado y marcado por una empresa inscrita en el Registro.
+
+3. Embalaje reutilizado. Embalaje de madera que ha recibido tratamiento y se ha marcado en conformidad con esta norma y no ha sido reparado, reciclado o alterado de alguna otra forma.
+
+Si una unidad de embalaje de madera que ha recibido tratamiento y se ha marcado de conformidad con la NIMF n.º 15, no ha sido reparado, reciclado o alterado de alguna forma, no es necesario que reciba nuevo tratamiento o marcado durante la vida útil de la unidad.
+
+El embalaje de madera reutilizado, que, por cualquier causa, sea necesario volver a tratar y marcar, podrá ser tratado y marcado nuevamente, por una empresa inscrita en el Registro, obliterándose en forma permanente las marcas anteriores (por ejemplo, cubriéndola con pintura o esmerilándola).
 
 No será necesario someter a nuevo tratamiento ni volver a marcar el material que ha sufrido ya un tratamiento conforme a la normativa anteriormente vigente.
 
-3. Embalaje reparado. Es aquel del que se han quitado y reemplazado hasta un tercio aproximadamente de sus elementos. Todos los componentes del embalaje reparado deben haber recibido tratamiento para poder exhibir la marca que se describe en este anexo, que deberá ser clara y legible.
+4. Embalaje reparado. Embalaje de madera que ha recibido tratamiento y se ha marcado en conformidad con esta norma, del que se han quitado y reemplazado hasta un tercio aproximadamente de sus elementos. Todos los componentes del embalaje reparado deben haber recibido tratamiento para poder exhibir la marca que se describe en este anexo, que deberá ser clara y legible.
 
-Si se utiliza madera tratada para la reparación de un embalaje, cada componente añadido debe llevar la marca en conformidad con esta norma.
+Si se utiliza madera tratada para la reparación de un embalaje, cada componente añadido debe llevar la marca, en conformidad con esta norma. El marcado de dichos componentes deberá efectuarlo la empresa que efectué la reparación, que deberá estar inscrita en el Registro.
 
 El número de marcas distintas que pueden aparecer en cada unidad de embalaje de madera, una vez efectuada la reparación, queda limitado a dos.
 
-Si la unidad de embalaje de madera presenta dos o más marcas distintas antes de efectuar la reparación, o si ésta se ha efectuado con madera no tratada, el embalaje de madera reparado deberá recibir tratamiento nuevamente y toda marca aplicada antes debe obliterarse en forma permanente (por ejemplo, cubriéndose con pintura o esmerilándose). Después del nuevo tratamiento debe aplicarse otra vez la marca en conformidad con esta norma.
+Si la unidad de embalaje de madera presenta dos o más marcas distintas antes de efectuar la reparación, o si ésta se ha efectuado con madera no tratada, el embalaje de madera reparado deberá recibir tratamiento nuevamente y toda marca aplicada antes debe obliterarse en forma permanente (por ejemplo, cubriéndose con pintura o esmerilándose).
 
-4. Embalaje reciclado/refabricado/. Es aquel en el que se reemplaza más de un tercio aproximadamente de los componentes de la unidad. En el embalaje de madera reciclado/refabricado debe obliterarse en forma permanente toda aplicación anterior de la marca (por ejemplo, cubriéndola con pintura o esmerilándola).
+Si se utiliza madera no tratada para la reparación de un embalaje, se deberán eliminar de forma permanente las marcas anteriores (por ejemplo, cubriéndolas con pintura o esmerilándolas).
+
+5. Embalaje reciclado/refabricado. Embalaje de madera que ha recibido tratamiento y se ha marcado en conformidad con esta norma, del que se han quitado y reemplazado más de un tercio aproximadamente de los componentes de la unidad. En el embalaje de madera reciclado/refabricado debe obliterarse en forma permanente toda aplicación anterior de la marca (por ejemplo, cubriéndola con pintura o esmerilándola).
 
 El embalaje de madera reciclado/refabricado debe recibir tratamiento nuevamente y luego debe aplicarse otra vez la marca en conformidad con esta norma.
+
+Si el embalaje de madera reciclado/refabricado no recibe tratamiento nuevamente, se deberán eliminar de forma permanente las marcas anteriores (por ejemplo, cubriéndola con pintura o esmerilándola).
 
 Códigos de las provincias:
 
@@ -134,3 +144,5 @@ Códigos de las provincias:
 | 50 | Zaragoza. |
 | 51 | Ceuta. |
 | 52 | Melilla. |
+
+> Se modifica la sección B por el art. único.3 de la Orden APA/1299/2019, de 18 de diciembre. Ref. BOE-A-2020-282
