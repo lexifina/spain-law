@@ -1,0 +1,3 @@
+## Disposición final primera. Extinción de las enseñanzas conducentes al título de Técnico Deportivo en Alta Montaña.
+
+En el caso del título de Técnico Deportivo en Alta Montaña regulado por el Real Decreto 318/2000, de 3 de marzo, las administraciones educativas, en el ámbito de sus competencias, regularán el procedimiento de extinción y las fechas de las convocatorias a las que tengan derecho los alumnos que en el momento de entrada en vigor de esta norma estén cursando las mencionadas enseñanzas de Técnico Deportivo en Alta Montaña. Este proceso debe haber finalizado antes del comienzo del tercer curso académico posterior al establecido en la Disposición final tercera.
