@@ -1,0 +1,1 @@
+Madrid, 8 de enero de 2020.–El Ministro de Política Territorial y Función Pública, P. S. (Real Decreto 351/2019, de 20 de mayo), el Ministro de Agricultura, Pesca y Alimentación, Luis Planas Puchades.
