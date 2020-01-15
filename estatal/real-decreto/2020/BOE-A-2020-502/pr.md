@@ -1,0 +1,3 @@
+Constituido el nuevo Gobierno, y tras la aprobación del Real Decreto 2/2020, de 12 de enero, por el que se reestructuran los Departamentos ministeriales, se hace necesario proceder a la creación de Subsecretarías en aquellos Departamentos de nueva creación. En su virtud, a iniciativa de los Ministros interesados, a propuesta de la Ministra de Política Territorial y Función Pública, y de conformidad con lo previsto en el artículo 59.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y previa deliberación del Consejo de Ministros en su reunión del día 14 de enero de 2020,
+
+DISPONGO:
