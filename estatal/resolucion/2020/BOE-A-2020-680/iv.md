@@ -1,0 +1,9 @@
+## IV. Procedimiento de remisión.
+
+IV.1 La remisión de la información y documentación mencionada en los subapartados II.1, II.2, II.3 y II.4 de la presente Instrucción se efectuará a través de la Plataforma de Rendición de Cuentas de las Entidades Locales con anterioridad al 30 de abril del ejercicio siguiente a aquel a que se refieran. La remisión se efectuará de una sola vez para toda la información del ejercicio correspondiente a la entidad local principal y a las entidades que integran el sector público local definido en el artículo 2.2 del Real Decreto 424/2017.
+
+El envío de esta información se podrá efectuar mediante la introducción de los datos en la aplicación o mediante la importación de un fichero en formato XML, de acuerdo con los esquemas XSD publicados en la página web del Tribunal de Cuentas (www.tcu.es) y en la dirección www.rendiciondecuentas.es.
+
+IV.2 La comunicación de los hechos constitutivos de responsabilidad contable, en la forma prevista en el apartado III, se efectuará tan pronto se tenga conocimiento de los mismos.
+
+IV.3 El remitente de la información y la documentación referida en los apartados II y III deberá utilizar una firma electrónica reconocida basada en un certificado reconocido y producida por un dispositivo seguro de creación de firma. Las notificaciones, comunicaciones o remisión de documentación así efectuadas gozarán de validez y eficacia, en los términos de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas; desplegarán su eficacia cuando sean recibidos por sus destinatarios y serán válidos siempre que garanticen su autenticidad, integridad, conservación y demás garantías y requisitos exigidos por la normativa aplicable. Serán igualmente válidas las copias de documentos originales almacenados por medios electrónicos siempre que se cumplan los requisitos que se acaban de referir.
