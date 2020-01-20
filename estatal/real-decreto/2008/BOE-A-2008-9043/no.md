@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 155, de 27 de junio de 2008. Ref. BOE-A-2008-10893
+Norma derogada, con efectos de 20 de enero de 2020, por la disposición derogatoria única del Real Decreto 629/2019, de 31 de octubre. Ref. BOE-A-2019-16636#dd
