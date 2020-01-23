@@ -6,6 +6,8 @@ Por otra parte, en caso de accidente, la rapidez de actuación para el auxilio a
 
 Por último, la extensión del ámbito territorial amenazado por algunas situaciones de emergencia de este tipo, hace complejos los requerimientos de mando y control, necesarios para una eficaz y eficiente aplicación de los recursos disponibles.
 
+Los protocolos de actuación, en todas las fases y situaciones, contemplarán aspectos específicos para garantizar la asistencia y seguridad de las personas con discapacidad y otros grupos en situación de vulnerabilidad.
+
 5.1 Notificación de accidentes susceptibles de originar una emergencia.
 
 El titular de una instalación, regulada o no regulada, en la que se produzca un accidente que lleve asociado riesgo radiológico, deberá notificarlo urgentemente al Consejo de Seguridad Nuclear, al órgano competente en materia de Protección Civil de la comunidad autónoma afectada y a la Delegación o Subdelegación del Gobierno correspondiente. El Consejo de Seguridad Nuclear y la Delegación o Subdelegación del Gobierno deberán transmitir inmediatamente la información recibida a la Dirección General de Protección Civil y Emergencias del Ministerio del Interior, a través de la Sala Nacional de Emergencias.
@@ -253,3 +255,5 @@ Plan de Coordinación y Apoyo del Plan Estatal de Protección Civil ante el ries
 El repliegue de medios se efectuará por el órgano que hubiera ordenado su movilización y siguiendo procedimientos análogos.
 
 La declaración de fin de emergencia de interés nacional, le corresponderá al Ministro del Interior, cuando hubieran desaparecido las razones que aconsejaron la declaración de interés nacional.
+
+> Se añade un párrafo al apartado 5 por el art. 8.2 del Real Decreto 734/2019, de 20 de diciembre. Ref. BOE-A-2020-46

@@ -26,6 +26,8 @@ El Plan Estatal incorporará la cartografía de peligrosidad ante el riesgo de m
 
 Cuando sea necesaria la coordinación de medios autonómicos por la Administración General del Estado, se darán las condiciones organizativas que garanticen que las indicaciones a los empleados públicos autonómicos se cursen a través de sus mandos naturales, de conformidad con lo que a tal efecto se señale por la consejería o departamento correspondiente.
 
+En el desarrollo de todas sus funciones básicas el Plan estatal de protección civil ante el riesgo de maremotos deberá tener en cuenta las distintas necesidades de las personas con discapacidad, y otros colectivos en situación de vulnerabilidad, estableciendo los protocolos de actuación específicos para garantizar su asistencia y seguridad.
+
 4.3 Contenido mínimo del Plan Estatal.
 
 El Plan Estatal de Protección Civil ante el Riesgo de Maremotos deberá establecer la organización y los procedimientos que permitan el eficaz desarrollo de las funciones básicas enumeradas en el punto 4.2 de la presente Directriz, ajustándose para ello a los requisitos que se formulan en los apartados siguientes:
@@ -141,3 +143,5 @@ En la organización de estos Planes de coordinación y apoyo podrán integrarse,
 4.4 Aprobación del Plan Estatal.
 
 El Plan Estatal será aprobado por el Gobierno, a propuesta del Ministro del Interior, previo informe de la Comisión Nacional de Protección Civil.
+
+> Se añade un párrafo al apartado 4.2 por el art. 7.2 del Real Decreto 734/2019, de 20 de diciembre. Ref. BOE-A-2020-46

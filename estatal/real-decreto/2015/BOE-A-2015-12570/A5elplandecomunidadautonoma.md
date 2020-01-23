@@ -26,6 +26,8 @@ h) La organización de programas de información a la población, que permita, m
 
 i) Tener en cuenta en todas sus fases las distintas necesidades de las personas con discapacidad, estableciendo protocolos de actuación específicos para garantizar su asistencia y seguridad.
 
+En el desarrollo de todas sus funciones básicas los planes de comunidades autónomas de protección civil ante el riesgo de maremotos deberán tener en cuenta las distintas necesidades de las personas con discapacidad y otros colectivos en situación de vulnerabilidad, estableciendo los protocolos de actuación específicos para garantizar su asistencia y seguridad.
+
 5.3 Contenido mínimo del Plan de Comunidad Autónoma.
 
 El Plan de Comunidad Autónoma ante el Riesgo de Maremotos deberá ajustarse a los requisitos que se formulan en los puntos siguientes:
@@ -145,3 +147,5 @@ Los Planes de Actuación de Ámbito Local se aprobarán por los órganos compete
 5.5 Aprobación del Plan de la Comunidad Autónoma.
 
 El Plan de Protección Civil de la Comunidad Autónoma ante el Riesgo de Maremotos será aprobado por el órgano competente de la misma, previo informe de la Comisión de Protección Civil de la comunidad autónoma de que se trate y homologado por la Comisión Nacional de Protección Civil.
+
+> Se incorpora un párrafo al apartado 5.2 por el art. 7.3 del Real Decreto 734/2019, de 20 de diciembre. Ref. BOE-A-2020-46

@@ -21,3 +21,7 @@ Realizar ejercicios y simulacros.
 Para la realización de estas actuaciones se recabará la colaboración de los órganos competentes en materia de protección civil de las comunidades autónomas, de los titulares de las instalaciones y del Consejo de Seguridad Nuclear.
 
 La Dirección General de Protección Civil y Emergencias velará por el adecuado mantenimiento e implantación del Plan Estatal, a través del Comité Estatal de Coordinación, mediante la previsión y puesta en práctica de las actividades adecuadas. En particular habrá de asegurarse la realización de un ejercicio o simulacro anual en el que pueda verificarse la idoneidad y el grado de preparación de la organización, de los medios y del personal, puestos a disposición del Plan, a fin de disponer las medidas que resulten necesarias para su mejora.
+
+Realizar acciones de formación dirigidas a los componentes de los servicios de intervención, para que puedan atender adecuadamente las necesidades de las personas con discapacidad y otros grupos en situación de vulnerabilidad.
+
+> Se añade un párrafo al apartado 5 por el art. 8.3 del Real Decreto 734/2019, de 20 de diciembre. Ref. BOE-A-2020-46

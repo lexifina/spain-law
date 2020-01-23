@@ -26,6 +26,10 @@ Catalogar los medios y recursos específicos asignados al plan.
 
 Garantizar la implantación y mantenimiento de la eficacia del plan.
 
+Prever que los planes de emergencia de protección civil contengan programas de alerta que permitan a todos los ciudadanos adoptar las medidas oportunas. Dichos programas deberán tener los formatos adecuados y los mecanismos necesarios para que sean accesibles y comprensibles para las personas con discapacidad o colectivos en situación de vulnerabilidad. Cuando la tarea informativa se dirija a víctimas o familiares de víctimas con discapacidad se realizará con las adaptaciones necesarias y, en su caso, con ayuda de personal especializado.
+
+Establecer protocolos de actuación específicos en las distintas fases que garanticen una asistencia adecuada a personas con discapacidad y a otros colectivos en situación de vulnerabilidad. Asimismo, dichos planes deberán contener procedimientos de movilización y actuación de los recursos necesarios para resolver las necesidades de las personas con discapacidad y así garantizar una asistencia eficaz.
+
 1.2. Estructura y organización.–La estructura y organización de los planes deberá contemplar al menos en su composición y regulación los elementos y criterios que se recogen en los subapartados siguientes:
 
 A) Dirección del plan: En el plan se establecerá de forma clara el órgano que ha de ejercer las funciones de dirección del mismo, que será responsable de dirigir y coordinar la puesta en práctica de las medidas de protección y otras actuaciones de emergencia en su ámbito territorial y siempre que no se declare el interés nacional.
@@ -163,3 +167,5 @@ La solicitud de ayuda internacional, cuando sea previsible el agotamiento de las
 En el marco de los acuerdos de asistencia recíproca mencionados, la Dirección General de Protección Civil y Emergencias recabará, en colaboración con el Consejo de Seguridad Nuclear, de los órganos competentes de los Estados Miembros de la Unión Europea, u otros países, las informaciones necesarias acerca de la naturaleza y características de las emergencias originadas en instalaciones o actividades situadas fuera del territorio nacional que puedan tener consecuencias radiológicas en el mismo.
 
 Las funciones de apoyo anteriormente referidas serán desempeñadas por la Dirección General de Protección Civil y el Consejo de Seguridad Nuclear a través del Comité Estatal de Coordinación en aquellos casos en que, por su singular importancia, este órgano sea convocado por su presidente.
+
+> Se añaden los dos últimos párrafos al subapartado 1.1 por el art. 4.2 del Real Decreto 734/2019, de 20 de diciembre. Ref. BOE-A-2020-46

@@ -18,6 +18,8 @@ d) Establecer y mantener un banco de datos sobre medios y recursos movilizables 
 
 e) Prever los mecanismos de solicitud y recepción de ayuda internacional para paliar los efectos de accidentes ocurridos en los transportes terrestres de mercancías peligrosas.
 
+En el desarrollo de todas sus funciones básicas el Plan estatal ante el riesgo de accidentes en los transportes de mercancías peligrosas por carretera y ferrocarril deberá tener en cuenta las distintas necesidades de las personas con discapacidad y otros colectivos en situación de vulnerabilidad, estableciendo los protocolos de actuación específicos para garantizar su asistencia y seguridad.
+
 3. Contenido mínimo del plan estatal.
 
 El plan estatal deberá ajustarse a los requisitos que se formulan en los puntos siguientes:
@@ -87,3 +89,5 @@ El plan estatal será aprobado por el Gobierno, a propuesta del Ministro de Just
 5. Asignación de medios y recursos de titularidad estatal a planes de Comunidades Autónomas y de actuación de ámbito local.
 
 Las normas para la asignación de medios y recursos de titularidad estatal a los planes de Comunidades Autónomas y de actuación de ámbito local ante el riesgo de accidentes en los transportes, por carretera y ferrocarril, de mercancías peligrosas, serán las aprobadas por Acuerdo del Consejo de Ministros del 6 de mayo de 1994 para los planes territoriales, publicado por Resolución de 4 de julio de 1994 de la Secretaría de Estado de Interior en el «Boletín Oficial del Estado» de 18 de julio de 1994.
+
+> Se añade un párrafo final al punto 2 por el art. 1.3 del Real Decreto 734/2019, de 20 de diciembre. Ref. BOE-A-2020-46

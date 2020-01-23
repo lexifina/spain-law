@@ -12,7 +12,7 @@ La Planificación de Protección Civil ante el Riesgo de Maremotos en España se
 
 El sistema no contempla otras medidas para la reducción del riesgo (ordenación del territorio, construcción de elementos de defensa, etc.) que, en su caso, podrán ser previstas en los ordenamientos sectoriales correspondientes. Del mismo modo tampoco contempla los posibles efectos que puedan producirse fuera de la costa, que está contemplado en la Estrategia de Seguridad Marítima Nacional (Capítulo 2 sobre riesgos y amenazas para la Seguridad Marítima Nacional).
 
-En todo caso, los diferentes planes, Estatal, Autonómico, y en su caso, municipal, deberán tener en cuenta en todas sus fases las distintas necesidades de las personas con discapacidad, estableciendo protocolos de actuación específicos para garantizar su asistencia y seguridad.
+En todo caso, los diferentes planes, estatal, autonómico y, en su caso, municipal, deberán tener en cuenta en todas sus fases las distintas necesidades de las personas con discapacidad y otros grupos en situación de vulnerabilidad, estableciendo protocolos de actuación específicos para garantizar su asistencia y seguridad.
 
 3.1 Evaluación de la peligrosidad de maremotos.
 
@@ -125,3 +125,5 @@ Durante esta fase, se realizarán las primeras tareas de rehabilitación en dich
 Dada la naturaleza del fenómeno y la importancia que para la seguridad de las personas han de tener las medidas de autoprotección, a poner en práctica en un corto lapso de tiempo, la información previa a la población es una actividad preventiva fundamental. En consecuencia, es imprescindible establecer en los planes de protección civil ante este riesgo (estatal, autonómico o local) las correspondientes medidas que garanticen los sistemas adecuados de información previa a la población, de carácter preventivo, así como la correcta difusión de los sistemas de alerta correspondientes y garantizar con estas medidas un nivel satisfactorio de conocimiento del fenómeno y de las actividades de protección, entre los ciudadanos.
 
 La Dirección General de Protección Civil y Emergencias concertará con los órganos competentes de las comunidades autónomas y, en su caso, con las autoridades locales que puedan verse afectadas, el diseño y puesta en práctica de un Programa de Información Preventiva sobre Maremotos destinado a los ciudadanos residentes en las zonas potencialmente afectadas por este riesgo.
+
+> Se modifica el último párrafo del apartado 3 por el art. 7.1 del Real Decreto 734/2019, de 20 de diciembre. Ref. BOE-A-2020-46

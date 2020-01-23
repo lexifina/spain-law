@@ -52,6 +52,8 @@ j) Gestión del tratamiento controlado, en cada caso, de los productos tóxicos 
 
 k) Restablecimiento de los servicios básicos de la comunidad que hayan podido verse afectados.
 
+l) Tener en cuenta en todas sus fases las distintas necesidades de las personas con discapacidad, y otros colectivos en situación de vulnerabilidad estableciendo los protocolos de actuación específicos para garantizar su asistencia y seguridad.
+
 4. Información sobre accidentes en los transportes de mercancías peligrosas, por carretera y ferrocarril.
 
 a) Notificación de accidentes.
@@ -159,3 +161,15 @@ Corresponderá al representante designado por la Comunidad Autónoma en el Comit
 El representante del Ministerio de Justicia e Interior dirigirá las actuaciones del conjunto de las Administraciones Públicas cuando la emergencia sea declarada de interés nacional, de conformidad con lo establecido en el apartado 9 de la Norma Básica de Protección Civil. A estos efectos habrá de preverse la posibilidad de que ante aquellas emergencias que lo requieran el Comité de Dirección sea de ámbito provincial.
 
 Aun en aquellas circunstancias que no exijan la constitución del CECOPI, los procedimientos que se establezcan en los planes de Comunidades Autónomas y en el plan estatal, deberán asegurar la máxima fluidez informativa entre las organizaciones de ambos niveles de planificación, particularmente en cuanto se refiere al acaecimiento de accidentes en los transportes de mercancías peligrosas, la posible evolución de los mismos, sus consecuencias sobre la seguridad de las personas, los bienes y el medio ambiente, y cualquier otra circunstancia que pueda incidir en la activación de los planes y las operaciones de emergencia. A estos efectos, el CECOP de Comunidad Autónoma remitirá, lo antes posible, al Gobierno Civil o Delegación del Gobierno del ámbito territorial en que se haya producido un accidente, la notificación a que se refiere el apartado II, 4, a) de esta Directriz Básica, en tanto el accidente corresponda a los tipos 2, 3, 4 ó 5 definidos en el apartado II, 5, a) de la presente Directriz, e informará sobre la evolución del suceso y las actuaciones de emergencia, al menos desde el momento en que haya sido declarada la situación de emergencia 2.
+
+7. Asistencia adecuada a personas con discapacidad y a otros colectivos en situación de vulnerabilidad.
+
+En la planificación de protección civil ante el riesgo de accidentes en los transportes de mercancías peligrosas por carretera y ferrocarril deberá tenerse en cuenta:
+
+a) Los planes de emergencia de protección civil deberán contar con protocolos de actuación específicos en las distintas fases que garanticen una asistencia adecuada a personas con discapacidad y a otros colectivos en situación de vulnerabilidad. Asimismo, dichos planes deberán contener procedimientos de información, comunicación, movilización y actuación de los medios necesarios para resolver las necesidades de las personas con discapacidad y así garantizar una asistencia eficaz, contemplando medidas y recursos específicos que garanticen la accesibilidad universal.
+
+b) Los planes de emergencia de protección civil deberán contener programas de información preventiva y de alerta que permitan a todos los ciudadanos adoptar las medidas oportunas. Dichos programas deberán tener los formatos adecuados y los mecanismos necesarios para que sean accesibles y comprensibles para las personas con discapacidad y otros colectivos en situación de vulnerabilidad. Cuando la tarea informativa se dirija a víctimas o familiares de víctimas con discapacidad, se realizará con las adaptaciones necesarias y, en su caso, con ayuda de personal especializado.
+
+c) Los distintos servicios de intervención en emergencias deberán recibir formación específica para atender a dichos colectivos contando con las características y necesidades especiales que puedan presentar.
+
+> Se añade la letra l) al punto 3 y el punto 7 por el art. 1.1 y 2 del Real Decreto 734/2019, de 20 de diciembre. Ref. BOE-A-2020-46

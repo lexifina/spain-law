@@ -20,6 +20,8 @@ e) Especificar los procedimientos de información a la población potencialmente
 
 f) Catalogar los medios y recursos específicos a disposición de las actuaciones previstas.
 
+En el desarrollo de todas sus funciones básicas los planes de las comunidades autónomas ante el riesgo de accidentes en los transportes de mercancías peligrosas por carretera y ferrocarril deberán tener en cuenta las distintas necesidades de las personas con discapacidad y otros colectivos en situación de vulnerabilidad, estableciendo los protocolos de actuación específicos para garantizar su asistencia y seguridad.
+
 3. Contenido mínimo de los planes de Comunidades Autónomas.
 
 a) Objeto.
@@ -115,3 +117,5 @@ Los planes de actuación municipal y de otras Entidades locales se aprobarán po
 5. Aprobación del plan de Comunidad Autónoma.
 
 El plan de Protección Civil de Comunidad Autónoma ante el riesgo de accidentes en los transportes de mercancías peligrosas, por carretera y ferrocarril, será aprobado por el órgano competente de la Comunidad Autónoma, previo informe de la correspondiente Comisión de Protección Civil, y será homologado por la Comisión Nacional de Protección Civil.
+
+> Se añade un párrafo final al punto 2 por el art. 1.4 del Real Decreto 734/2019, de 20 de diciembre. Ref. BOE-A-2020-46

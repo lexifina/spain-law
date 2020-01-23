@@ -42,7 +42,7 @@ Finalmente, también se ha tenido en cuenta la Ley 8/2011, de 28 de abril; por l
 
 1.3 Objetivo y funciones básicas.
 
-El presente Plan Estatal tiene como finalidad establecer la organización y los procedimientos de actuación de aquellos recursos y servicios del Estado y, en su caso, de otras entidades públicas y privadas, que sean necesarios para asegurar una respuesta eficaz del conjunto de las Administraciones Públicas, ante las diferentes situaciones de emergencia radiológica, con repercusiones sobre la población, en las que esté presente el interés nacional, así como los mecanismos de apoyo a los planes de comunidades autónomas en los supuestos que lo requieran.
+El presente Plan Estatal tiene como finalidad establecer la organización y los procedimientos de actuación de aquellos recursos y servicios del Estado y, en su caso, de otras entidades públicas y privadas, que sean necesarios para asegurar una respuesta eficaz del conjunto de las Administraciones Públicas, ante las diferentes situaciones de emergencia radiológica, con repercusiones sobre la población, en las que esté presente el interés nacional, así como los mecanismos de apoyo a los planes de comunidades autónomas en los supuestos que lo requieran. En la organización y procedimientos de actuación se tendrán en cuenta las necesidades de las personas con discapacidad y otros grupos en situación de vulnerabilidad.
 
 En consecuencia, son funciones básicas del Plan Estatal establecer:
 
@@ -109,3 +109,5 @@ El presente Plan Estatal concierne a todos los organismos y servicios pertenecie
 De igual modo, en caso de emergencia de interés nacional, podrán verse involucrados por el presente Plan Estatal los servicios y entidades dependientes de otras Administraciones Públicas, cuando estén incluidas en los Planes Especiales sobre Riesgo Radiológico o Territoriales de las comunidades autónomas.
 
 El Consejo de Seguridad Nuclear estará implicado en el presente Plan de conformidad con las funciones atribuidas por la Ley 15/1980, de 22 de abril, de creación del Consejo de Seguridad Nuclear, y por la Directriz Básica de Planificación de Protección Civil ante el Riesgo Radiológico, aprobada por el Real Decreto 1564/2010, de 19 de noviembre.
+
+> Se añade un inciso al primer párrafo al apartado 1.3 por el art. 8.1 del Real Decreto 734/2019, de 20 de diciembre. Ref. BOE-A-2020-46

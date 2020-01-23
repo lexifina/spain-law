@@ -44,7 +44,7 @@ Los objetivos generales de la planificación frente a emergencias radiológicas 
 
 a) Reducir el riesgo o mitigar las consecuencias de los accidentes en su origen.
 
-b) Evitar o, como mínimo, reducir en lo posible los efectos adversos de las radiaciones ionizantes sobre la población y los bienes.
+b) Evitar o, como mínimo, reducir en lo posible los efectos adversos de las radiaciones ionizantes sobre la población y sus bienes, teniendo en cuenta en todas sus fases las distintas necesidades de las personas con discapacidad y otros colectivos en situación de vulnerabilidad, estableciendo los protocolos de actuación específicos para garantizar su asistencia y seguridad.
 
 5. Niveles de planificación
 
@@ -123,5 +123,7 @@ i) Implantación material y mantenimiento de la efectividad: Los Planes Autonóm
 7. Definiciones
 
 A los efectos de esta Directriz Básica, los conceptos y términos fundamentales quedan definidos en el anexo II.
+
+> Se modifica la letra b) del apartado 4 por el art. 4.1 del Real Decreto 734/2019, de 20 de diciembre. Ref. BOE-A-2020-46
 
 > Se añade el último párrafo al apartado 5 por el art. 5 del Real Decreto 1276/2011, de 16 de septiembre. Ref. BOE-A-2011-14812.

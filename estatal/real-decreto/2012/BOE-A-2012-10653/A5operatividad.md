@@ -6,6 +6,8 @@ Por otra parte, en caso de accidente, la rapidez de actuación para el auxilio a
 
 Por último, la propia extensión y gravedad de los daños que fundamentan la declaración de interés nacional de la emergencia, hacen más complejos los requerimientos de mando y control, necesarios para una eficaz y eficiente aplicación de los recursos disponibles.
 
+Los protocolos de actuación, en todas las fases y situaciones, contemplarán aspectos específicos para garantizar la asistencia y seguridad de las personas con discapacidad y otros grupos en situación de vulnerabilidad.
+
 5.1 Notificación de accidentes susceptibles de originar una emergencia.–En caso de accidente grave, o de un suceso susceptible de ocasionar un accidente grave, en que se vean involucradas sustancias peligrosas, el órgano competente de la Comunidad Autónoma lo notificará lo mas inmediatamente posible, a la Delegación/Subdelegación del Gobierno correspondiente y a la Dirección General de Protección Civil y Emergencias del Ministerio del Interior, a través de la Sala Nacional de Emergencias.
 
 El contenido de esta notificación proporcionará los datos siguientes:
@@ -197,3 +199,5 @@ Finalización de las inspecciones a edificios e infraestructuras afectados por p
 5.9 Repliegue de medios y declaración de fin de emergencia de interés nacional.–El repliegue de medios se efectuará por el órgano que hubiera ordenado su movilización y siguiendo procedimientos análogos.
 
 La declaración de fin de emergencia de interés nacional, le corresponderá al Ministro del Interior, cuando hubieran desaparecido las razones que aconsejaron la declaración de interés nacional.
+
+> Se añade un último párrafo antes del subapartado 5.1 por el art. 5.2 del Real Decreto 734/2019, de 20 de diciembre. Ref. BOE-A-2020-46
