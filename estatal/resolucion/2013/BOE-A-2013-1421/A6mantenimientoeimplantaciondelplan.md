@@ -6,6 +6,8 @@ El mantenimiento del Plan Estatal tiene los siguientes objetivos:
 
 • Incorporar los cambios pertinentes aconsejados por la adquisición de nuevos conocimientos sobre el riesgo volcánico.
 
+• Realizar acciones de formación dirigidas a los componentes de los servicios de intervención, para que puedan atender adecuadamente las necesidades de las personas con discapacidad y otros grupos en situación de vulnerabilidad.
+
 Las acciones de mantenimiento e implantación serán las siguientes:
 
 • Revisión de los datos referentes al riesgo volcánico y del sistema de seguimiento e información sobre fenómenos volcánicos.
@@ -19,3 +21,5 @@ Las acciones de mantenimiento e implantación serán las siguientes:
 La Dirección General de Protección Civil y Emergencias velará por el adecuado mantenimiento del Plan Estatal, a través del Comité Estatal de Coordinación. En particular, habrá de asegurarse la realización de un ejercicio o simulacro anual en el que pueda verificarse la idoneidad y el grado de preparación de la organización, medios y personal puestos a disposición del Plan, mediante la previsión y puesta en práctica de las actividades adecuadas, a fin de disponer las medidas que resulten necesarias para su mejora.
 
 En estas actuaciones la Dirección General de Protección Civil y Emergencias facilitará la participación de la organización del Plan de Protección Civil ante el Riesgo Volcánico de la Comunidad Autónoma de Canarias y de todas aquellas que previsiblemente puedan ser afectadas, a solicitud, en su caso, de los órganos competentes de las mismas.
+
+> Se añade un objetivo por el apartado 6.3 de la Orden PCI/1283/2019, de 27 de diciembre. Ref. BOE-A-2020-47

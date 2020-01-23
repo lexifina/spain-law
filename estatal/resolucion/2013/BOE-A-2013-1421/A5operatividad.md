@@ -1,5 +1,7 @@
 ## 5. Operatividad
 
+Los protocolos de actuación, en todas las fases y situaciones, contemplarán aspectos específicos para garantizar la asistencia y seguridad de las personas con discapacidad y otros grupos en situación de vulnerabilidad.
+
 5.1 Actuaciones según fases y situaciones.
 
 5.1.1 Actuaciones previas.
@@ -207,3 +209,5 @@ En esta fase se realizarán las siguientes funciones:
 El repliegue de medios se efectuará por el órgano que hubiera ordenado su movilización y siguiendo procedimientos análogos.
 
 La declaración de fin de emergencia de interés nacional, le corresponderá al Ministro del Interior, cuando hubieran desaparecido las razones que aconsejaron la declaración de interés nacional.
+
+> Se añade un párrafo antes del apartado 5.1 por el apartado 6.2 de la Orden PCI/1283/2019, de 27 de diciembre. Ref. BOE-A-2020-47

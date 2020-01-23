@@ -40,6 +40,8 @@ Otras normas reglamentarias que se han tenido en consideración en la elaboraci�
 
 El objetivo del Plan Estatal es establecer la organización y los procedimientos de actuación que permitan asegurar una respuesta eficaz del conjunto de las Administraciones Públicas en el caso de emergencia por riesgo volcánico en que esté presente el interés nacional, así como, en otros casos, prestar el apoyo necesario al Plan de Protección Civil de la Comunidad Autónoma de Canarias o de cualquier otra que se viera afectada.
 
+En la organización y procedimientos de actuación se tendrán en cuenta las necesidades de las personas con discapacidad y otros grupos en situación de vulnerabilidad.
+
 De acuerdo con este objetivo, son funciones básicas del Plan Estatal:
 
 a) Prever la estructura organizativa que permita la dirección y coordinación del conjunto de las Administraciones Públicas en situaciones de emergencia por crisis volcánica declaradas de interés nacional.
@@ -65,3 +67,5 @@ La planificación a nivel estatal tendrá por objeto la intervención ante crisi
 Se hallan concernidos por el presente Plan Estatal todos los organismos y servicios pertenecientes a la Administración General del Estado que tengan entre sus competencias o desarrollen funciones en el ámbito de la previsión, prevención, vigilancia, seguimiento e información acerca de los fenómenos volcánicos y fenómenos asociados, así como de la protección y socorro de los ciudadanos ante dichos fenómenos.
 
 De igual modo se hallan concernidos por el presente Plan Estatal los servicios y entidades dependientes de otras Administraciones Públicas, en la medida que se establezca en el presente Plan Estatal y en las normativas y Planes de Protección Civil de las comunidades autónomas.
+
+> Se añade un inciso al primer párrafo del apartado 1.3 por el apartado 6.1 de la Orden PCI/1283/2019, de 27 de diciembre. Ref. BOE-A-2020-47
