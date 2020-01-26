@@ -1,0 +1,7 @@
+La Orden HAC/787/2018, de 25 de julio, por la que se modifica, entre otras, la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado, modifica en su artículo segundo. Uno la regla 59, «Cesiones de créditos frente a la administración» de dicha Instrucción. En el último párrafo de su apartado 1 dice textualmente «Mediante Resolución de la Intervención General de la Administración del Estado, se regulará el funcionamiento del Registro de cesiones de crédito de la Administración General del Estado».
+
+Mediante esta Resolución se pretende dar cumplimiento a dicho mandato, estableciendo el procedimiento de presentación de la documentación de la cesión de crédito, los datos y la documentación a incorporar al Registro de cesiones de crédito y la tramitación de la cesión.
+
+En la Resolución se incluye también una disposición adicional para regular su aplicación con carácter supletorio a las entidades sujetas a la Instrucción de Contabilidad para la Administración Institucional del Estado, y otra disposición adicional para modificar la Resolución de 22 de septiembre de 2008 por la que se aprueban los documentos contables específicos del subsistema de proyectos de gasto.
+
+En virtud de las competencias que se atribuyen a la Intervención General de la Administración del Estado en el apartado 1.b) del artículo 125 de la Ley 47/2003 de 26 de noviembre, General Presupuestaria, para aprobar la normativa de desarrollo del Plan General de Contabilidad Pública, esta Intervención General dispone:
