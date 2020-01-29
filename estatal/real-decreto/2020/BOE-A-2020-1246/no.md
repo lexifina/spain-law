@@ -1,0 +1,1 @@
+El presente Real Decreto se entiende implícitamente derogado por el Real Decreto 1009/2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales. Ref. BOE-A-2023-24842
