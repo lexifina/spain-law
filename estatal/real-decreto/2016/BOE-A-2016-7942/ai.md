@@ -6,15 +6,17 @@
 
 1. Gastos de coordinación y personal docente.
 
-Dentro de esta partida se diferenciará entre el personal de coordinación y el personal docente del curso, pudiendo ser una única persona la que desempeñe ambas funciones. Asimismo, el personal docente podrá incluir tanto el encargado de la propia impartición, como la figura del tutor o docente de apoyo. A efectos de consideración del tutor o docente de apoyo dentro del programa de formación su participación deberá estar garantizada en un mínimo del 50 por cien de las horas que componen el programa.
+Dentro de esta partida se diferenciará entre el personal de coordinación y el personal docente del curso, pudiendo ser una única persona la que desempeñe ambas funciones.
 
-A efectos de este real decreto se entenderá por personal de coordinación al encargado de los aspectos organizativos de la actividad formativa de que se trate, desde el inicio hasta la justificación del pago. La subvención de los gastos de las actividades propias de coordinación será de 300 € por taller y 1.000 € por actividad de formación y aprendizaje y 600 € por entrenamiento. Estos máximos se incrementarán proporcionalmente cuando el taller exceda de 6 horas, el curso de 50 horas o el entrenamiento de 10 horas.
+Asimismo, el personal docente podrá incluir tanto el encargado de la propia impartición, como la figura del tutor o docente de apoyo. A efectos de consideración del tutor o docente de apoyo dentro del programa de formación su participación deberá estar garantizada en un mínimo del 50 por cien de las horas que componen el programa.
+
+A efectos de este real decreto se entenderá por personal de coordinación al encargado de los aspectos organizativos de la actividad formativa de que se trate, desde el inicio hasta la justificación del pago. La subvención de los gastos de las actividades propias de coordinación será de 300 € por taller, 1.000 € por actividad de formación y aprendizaje y 600 € por entrenamiento. Estos máximos se incrementarán proporcionalmente cuando el taller exceda de 6 horas, el curso de 50 horas o el entrenamiento de 10 horas.
 
 Se entenderá por personal docente, el encargado de la impartición de las distintas unidades didácticas de las que se compongan los talleres, y las actividades de aprendizaje y entrenamiento. En este caso la subvención máxima será de 90 €/hora. Dentro del programa de formación y a efectos del cálculo de los costes directos del personal docente dedicado a la impartición, podrán contabilizarse las horas de preparación hasta un límite de 1,5 horas por hora presencial impartida (taller, actuación de formación o refuerzo de los conocimientos). Adicionalmente, podrá contemplarse hasta una hora adicional por hora presencial impartida correspondiente al tutor o docente de apoyo.
 
-En el caso de que el coste horario del personal propio sea inferior al coste incurrido por la empresa para esa actuación y trabajador se deberá aportar justificante de pago de esos costes adicionales.
+Los costes de personal docente propio se determinarán mediante la aplicación de una tarifa horaria resultante de dividir los últimos costes salariales brutos anuales documentados, en el caso de las personas que trabajan a tiempo completo, o prorrateados, en el caso de las personas que trabajan a tiempo parcial, entre 1.720 horas, todo ello de acuerdo con la posibilidad contemplada en el artículo 68 bis del Reglamento (UE) n.º 1303/2013, de 17 de diciembre.
 
-Las horas anuales de trabajo no podrán ser inferiores a 1720 en el caso de personas que trabajen a tiempo completo. En este caso, el coste por hora efectiva de trabajo será el resultado de dividir los costes salariales brutos anuales documentados entre las horas anuales de trabajo.
+> Téngase en cuenta que esta última actualización del apartado 1, establecida por el art. 3.9 del Real Decreto 137/2020, de 28 de enero. Ref. BOE-A-2020-1245, no será de aplicación en tanto no se apruebe la modificación del Programa Nacional de Desarrollo Rural 2014-2020, según establece la disposición transitoria 2 del citado Real Decreto.
 
 2. Gastos en medios y material didáctico.
 
@@ -46,6 +48,10 @@ Actividades de formación y aprendizaje:
 – Curso de más de 50 horas: 550 €.
 
 – “Coaching” (no se especifica duración): 200 €.
+
+> Se modifica el apartado 1 por el art. 3.9 del Real Decreto 137/2020, de 28 de enero. Ref. BOE-A-2020-1245
+
+> Téngase en cuenta que esta modificación no será de aplicación en tanto no se apruebe la modificación del Programa Nacional de Desarrollo Rural 2014-2020, según establece la disposición transitoria 2 del citado Real Decreto.
 
 > Se modifica el apartado 1 por el art. 5.11 del Real Decreto 2/2019, de 11 de enero. Ref. BOE-A-2019-318
 

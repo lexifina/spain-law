@@ -8,13 +8,13 @@
 
 3. La compra de edificios que vayan a ser derribados. Si la compra de un edificio es objeto de ayuda, el valor del terreno construido, y el del que rodea el edificio, valorado por técnico competente, no se considera subvencionable.
 
-4. La compra de bienes inmuebles, instalaciones (sin incluir maquinaria y equipos) o centros logísticos si los mismos han sido subvencionados por las administraciones públicas en los últimos diez años. Tampoco serán subvencionables las inversiones en reformas de locales que hubieran sido subvencionados anteriormente por las administraciones públicas y no hayan transcurrido cinco años desde su finalización. A tal efecto, no se considerará como reforma la ampliación de capacidad de instalaciones, instalación de nueva maquinaria o construcción de nuevas edificaciones.
+4. La compra de bienes inmuebles, instalaciones (sin incluir maquinaria y equipos) o centros logísticos si los mismos han sido subvencionados por las administraciones públicas en los últimos cinco años. Tampoco serán subvencionables las inversiones en reformas de locales que hubieran sido subvencionados anteriormente por las administraciones públicas y no hayan transcurrido cinco años desde el pago al beneficiario. A tal efecto, no se considerará como reforma la ampliación de capacidad de instalaciones, instalación de nueva maquinaria o construcción de nuevas edificaciones.
 
 Las operaciones destinadas a ampliar la capacidad o mejorar las prestaciones de la maquinaria y equipos de segunda mano objeto de subvención no podrán ser auxiliadas nuevamente en un periodo de cinco años.
 
-Para ello se adjuntará declaración de las subvenciones recibidas durante los últimos diez años de las Administraciones públicas.
+Para ello se adjuntará declaración de las subvenciones recibidas de las Administraciones públicas.
 
-No serán susceptibles de apoyo la maquinaria de segunda mano y equipos existentes en la compra de instalaciones en funcionamiento cuando éstas se adquieran al completo y hubieran sido subvencionados anteriormente por otro fondo comunitario o cualquier otra ayuda procedente de las administraciones públicas. Para ello, en estos casos, se hará constar en la declaración mencionada anteriormente información de las subvenciones recibidas por la maquinaria de segunda mano y equipos existentes en la compra de instalaciones en funcionamiento cuando éstas se adquieran al completo.
+No serán susceptibles de apoyo la maquinaria y equipos de segunda mano existentes en la compra de instalaciones en funcionamiento cuando éstas se adquieran al completo y hubieran sido subvencionados anteriormente por otro fondo comunitario o cualquier otra ayuda procedente de las administraciones públicas. Para ello, en estos casos, se hará constar en la declaración mencionada anteriormente información de las subvenciones recibidas por la maquinaria de segunda mano y equipos existentes en la compra de instalaciones en funcionamiento cuando éstas se adquieran al completo.
 
 5. En los casos de arrendamiento con opción a compra, no serán gastos subvencionables los demás costes relacionados con los contratos de arrendamiento con opción de compra tales como el margen del arrendador, los costes de refinanciación de los intereses, los gastos generales y los gastos de seguro.
 
@@ -28,7 +28,7 @@ No serán susceptibles de apoyo la maquinaria de segunda mano y equipos existent
 
 10. Los gastos relativos al traslado de maquinaria ya existente hasta el local o emplazamiento en el que se va a realizar el proyecto, salvo en el supuesto del traslado de maquinaria ya existente hasta el local o emplazamiento en el que se vaya a realizar el proyecto para ampliar su capacidad o mejorar sus prestaciones según lo establecido en el punto 4.
 
-11. Las reparaciones y obras de mantenimiento. No tienen la consideración de reparaciones las operaciones realizadas sobre maquinaria instalada para ampliar su capacidad o mejorar sus prestaciones.
+11. Las reparaciones y gastos de mantenimiento de la maquinaria y equipos, incluidos los gastos de servicios asociados (teleasistencia, licencias, etc.). No tienen la consideración de reparaciones las operaciones realizadas sobre maquinaria instalada para ampliar su capacidad o mejorar sus prestaciones.
 
 12. El impuesto sobre el valor añadido (IVA) recuperable por el beneficiario.
 
@@ -42,7 +42,7 @@ Vehículos de nueva adquisición (flota) destinados al transporte de productos a
 
 15. Los gastos de alquiler de equipos de producción y las inversiones financiadas mediante arrendamiento financiero.
 
-16. Los gastos de personal, salvo los contemplados en el artículo 8.1.c).
+16. Los gastos de personal, así como gastos asociados a viajes, dietas, kilometraje, manutención, alojamiento, desplazamientos de personal y similares, salvo los contemplados en el artículo 8.1.c).
 
 17. Los materiales de procedencia propia.
 
@@ -58,9 +58,9 @@ Vehículos de nueva adquisición (flota) destinados al transporte de productos a
 
 23. Compra de edificios o instalaciones que estén alquilados o en otro régimen de tenencia por el solicitante a la fecha de la solicitud.
 
-24. Trabajos o inversiones empezados o realizados con anterioridad a la fecha de solicitud de ayuda, salvo los siguientes gastos, siempre que estén realizados dentro del año anterior a la fecha de solicitud de ayuda:
+24. Trabajos o inversiones empezados o realizados con anterioridad a la fecha de solicitud de ayuda, salvo los siguientes gastos, siempre que estén realizados dentro de los 18 meses previos a la fecha de solicitud de ayuda:
 
-a) Honorarios técnicos, gastos de estudios de viabilidad económica, técnica, geotectónica, de mercado, y similares, y gastos relacionados con los permisos.
+a) Honorarios técnicos, gastos de estudios de viabilidad económica, técnica, geotectónica, de mercado y similares, y gastos relacionados con los permisos.
 
 b) Evaluación ambiental.
 
@@ -71,6 +71,8 @@ b) Evaluación ambiental.
 27. Inversiones relacionadas con medidas de seguridad tales como alarmas, sistemas antirrobo, barreras de seguridad y similares.
 
 28. Inversiones relativas exclusivamente a la promoción y publicidad. Salvo las previsiones de publicidad mencionadas en el artículo 23, de presente real decreto.
+
+> Se modifican los apartados 4, 11, 16 y 24 por el art. 1.9 del Real Decreto 137/2020, de 28 de enero. Ref. BOE-A-2020-1245
 
 > Se modifican los apartados 4 y la letra a) del 24 por el art. 1.9 del Real Decreto 2/2019, de 11 de enero. Ref. BOE-A-2019-318
 
