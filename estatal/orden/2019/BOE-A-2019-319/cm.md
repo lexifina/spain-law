@@ -30,9 +30,9 @@ Enfermedades y causas generales:
 
 4. Anomalías genéticas, congénitas o adquiridas que en opinión del asesor especialista puedan entorpecer en el momento del examen o, previsiblemente en el futuro, la eficacia en la ejecución de las misiones encomendadas o alterar la salud del examinado.
 
-5. Procesos endocrinometabólicos que produzcan alteraciones morfológicas o funcionales de importancia pronóstica o que requieran terapia sustitutiva continua.
+5. Procesos endocrinometabólicos que produzcan alteraciones morfológicas o funcionales de importancia pronóstica o que requieran terapia sustitutiva continua y sean incompatibles con la profesión militar, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
-6. Procesos y enfermedades infecciosas y parasitarias que, por la presencia de trastornos funcionales, por exigir un tratamiento continuo o por su contagiosidad sean incompatibles con la profesión militar.
+6. Procesos y enfermedades infecciosas y parasitarias que, por la presencia de trastornos funcionales, sean incompatibles con la profesión militar, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
 7. Procesos inmunoalérgicos, de importancia pronóstica y funcional, que incapaciten para la profesión militar.
 
@@ -42,11 +42,11 @@ Enfermedades y causas generales:
 
 10. Intoxicaciones crónicas que determinen trastornos anatómicos o funcionales incompatibles con la profesión militar.
 
-11. Utilización de cualquier tipo de medicación o droga que pueda disminuir la capacidad de reacción del examinado o que funcionalmente incapaciten para la profesión militar.
+11. Utilización de cualquier tipo de medicación o droga que pueda disminuir la capacidad de reacción del examinado o que funcionalmente incapaciten para la profesión militar, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
 B. Piel y tejido celular subcutáneo.
 
-1. Dermatosis extensas y generalizadas de la piel o cuero cabelludo de tendencia crónica o recidivante, o aquellas que por su localización incapaciten para la profesión militar.
+1. Dermatosis extensas y generalizadas de la piel o cuero cabelludo de tendencia crónica o recidivante, o aquellas que por su localización incapaciten para la profesión militar, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
 2. Dermopatías contagiosas.
 
@@ -388,8 +388,10 @@ K. Sangre y órganos hematopoyéticos.
 
 7. Hemoglobinopatías con repercusión funcional o importancia pronóstica.
 
-8. Inmunodeficiencias.
+8. Inmunodeficiencias incompatibles con la profesión militar, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
 9. Alteraciones analíticas significativas de la sangre aunque no respondan a una entidad nosológica objetivable.
+
+> Se modifican las letras A) apartados 5, 6 y 11; B) apartado 1 y K) apartado 8 por el art. único de la Orden PCM/79/2020, de 29 de enero. Ref. BOE-A-2020-1446
 
 > Se corrigen errores en el punto 8 del apartado C y en el punto 6 del apartado I por Orden PCI/310/2019, de 19 de marzo. Ref. BOE-A-2019-3993
