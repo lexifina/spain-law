@@ -16,33 +16,33 @@
 
 7. Comisión de Interior.
 
-8. Comisión de Fomento.
+8. Comisión de Transportes, Movilidad y Agenda Urbana.
 
 9. Comisión de Educación y Formación Profesional.
 
-10. Comisión de Trabajo, Migraciones y Seguridad Social.
+10. Comisión de Trabajo, Inclusión, Seguridad Social y Migraciones.
 
 11. Comisión de Industria, Comercio y Turismo.
 
-12. Comisión de Agricultura, Pesca y Alimentación.
+12. Comisión de Derechos Sociales y Políticas Integrales de la Discapacidad.
 
-13. Comisión de Política Territorial y Función Pública.
+13. Comisión de Agricultura, Pesca y Alimentación.
 
-14. Comisión de Transición Ecológica.
+14. Comisión de Política Territorial y Función Pública.
 
-15. Comisión de Cultura y Deporte.
+15. Comisión de Transición Ecológica y Reto Demográfico.
 
-16. Comisión de Economía y Empresa.
+16. Comisión de Cultura y Deporte.
 
-17. Comisión de Sanidad, Consumo y Bienestar Social.
+17. Comisión de Asuntos Económicos y Transformación Digital.
 
-18. Comisión de Ciencia, Innovación y Universidades.
+18. Comisión de Sanidad y Consumo.
 
-19. Comisión de Cooperación Internacional para el Desarrollo.
+19. Comisión de Ciencia, Innovación y Universidades.
 
-20. Comisión de Igualdad.
+20. Comisión de Cooperación Internacional para el Desarrollo.
 
-21. Comisión para las Políticas Integrales de la Discapacidad.
+21. Comisión de Igualdad.
 
 2. Son también Comisiones Permanentes aquellas que deban constituirse por disposición legal y las siguientes:
 
@@ -53,6 +53,8 @@
 3ª. Peticiones.
 
 3. Las Comisiones Permanentes a que se refieren los apartados anteriores deberán constituirse dentro de los diez días siguientes a la sesión constitutiva del Congreso.
+
+> Se modifica el apartado 1 por el art. único de la Reforma del Reglamento de 4 de febrero de 2020. Ref. BOE-A-2020-1843
 
 > Se modifica el apartado 1 por el art. único de la Reforma del Reglamento de 19 de junio de 2018. Ref. BOE-A-2018-8846
 
