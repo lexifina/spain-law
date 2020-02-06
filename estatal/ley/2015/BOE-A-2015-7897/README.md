@@ -119,6 +119,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 78](a78.md)
 - [Sección 5](s5-2.md)
 - [Artículo 79](a79.md)
+- [Artículo 79 bis](a7-2.md)
+- [Artículo 79 ter](a7-3.md)
 - [CAPÍTULO III](ciii-2.md)
 - [Artículo 80](a80.md)
 - [Artículo 81](a81.md)
