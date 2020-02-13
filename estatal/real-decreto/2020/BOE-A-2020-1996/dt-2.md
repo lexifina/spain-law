@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Prestación de servicios en materia de tecnologías de la información y comunicaciones a los servicios centrales del Departamento y a sus organismos autónomos adscritos.
+
+La Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital, continuará colaborando con la Subsecretaría de Política Territorial y Función Pública en la dirección, impulso y coordinación de la administración electrónica en el departamento y sus organismos adscritos y en la provisión de servicios en materia de tecnologías de la información y comunicaciones, hasta tanto se firme la resolución conjunta de ambas Subsecretarías por la que se efectúe la distribución de efectivos, medios materiales y presupuestarios.
