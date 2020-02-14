@@ -30,7 +30,13 @@ Asimismo, se incluirán en este tipo las explotaciones que no pertenezcan a ning
 
 2.11 Establecimientos de transformación autorizados para el sacrificio de animales de la acuicultura a efectos de control de enfermedades, así como centros de recogida y centros de depuración, de expedición o centros similares de moluscos.
 
+2.12 Espacios cinegéticos categoría I, II, III ó IV según lo dispuesto en el artículo 5 del Real Decreto 138/2020, de 28 de enero, por el que se establece la normativa básica en materia de actuaciones sanitarias en especies cinegéticas que actúan como reservorio de la tuberculosis (complejo Mycobacterium tuberculosis).
+
 3. La clasificación de las explotaciones equinas se regirá por lo dispuesto en la normativa básica en materia de ordenación zootécnica y sanitaria de dicho sector.
+
+> Se añade el apartado 2.12 por la disposición final 1 del Real Decreto 138/2020, de 28 de enero. Ref. BOE-A-2020-2109#df
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 46 de 23 de febrero de 2022. Ref. BOE-A-2022-2853
 
 > Se añade el apartado 3 por la disposición final 1.2 del Real Decreto 804/2011, de 10 de junio. Ref. BOE-A-2011-11344.
 
