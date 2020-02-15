@@ -1,0 +1,1 @@
+Téngase en cuenta la Resolución de 28 de enero de 2020, de la Secretaría General de Transporte, por la que se aprueba la actualización de la parte pública del Programa Nacional de Seguridad para la Aviación Civil. Ref. BOE-A-2020-1846
