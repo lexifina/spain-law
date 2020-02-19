@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Régimen transitorio de funciones de la Secretaría de Estado de Igualdad y contra la Violencia de Género.
+
+La Secretaría de Estado de Igualdad y contra la Violencia de Género desarrollará sus funciones de acuerdo con las previsiones establecidas para la Secretaría de Estado de Igualdad en el Real Decreto 816/2018, de 6 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de la Presidencia, Relaciones con las Cortes e Igualdad, hasta tanto se apruebe el real decreto que desarrolle la estructura orgánica básica del Ministerio de Igualdad, sin perjuicio de lo previsto en las disposiciones adicionales y transitorias de este real decreto.
