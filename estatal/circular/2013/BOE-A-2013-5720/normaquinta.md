@@ -24,14 +24,16 @@ d) Parte 4, Datos que vinculan a los titulares con los grupos de clientes relaci
 
 Los datos de las entidades cabecera también se han de declarar en la parte 1 de este módulo.
 
-3. Cuando la entidad declarante tenga conocimiento de que la persona declarada dispone de otro u otros códigos de identificación personal por los que pueda estar declarada al Banco de España [por ejemplo, porque pueda haber sido declarada con anterioridad con un número de identificación fiscal (NIF), número de identificación de extranjero (NIE) o código de no residente asignado por el Banco de España, o por haber cambiado su forma social o pasado de ser un no residente a un residente, o viceversa], además del código por el que declare a dicha persona a la CIR, que deberá ser el vigente a la fecha de la declaración, informará de los códigos anteriores que pueda tener dicha persona de los que tenga constancia documental.
+3. Cuando la entidad declarante tenga conocimiento de que la persona declarada dispone de otro u otros códigos de identificación personal por los que pueda estar declarada al Banco de España deberá utilizar el código vigente a la fecha de su declaración. Adicionalmente, informará de los códigos anteriores que pueda tener dicha persona de los que tenga constancia documental.
 
-4. (Suprimido)
+4. Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios no declararán las partes 3 y 4 de este módulo.
 
 B) Solicitud de código de identificación de personas no residentes en España:
 
 5. El módulo A.2, Solicitud de código de identificación de personas no residentes en España, se enviará para solicitar códigos de identificación para las personas, físicas o jurídicas, y entidades sin personalidad jurídica no residentes en España.
 
 6. Cuando las entidades declarantes dispongan del código de identificación de una persona, física o jurídica, o de una entidad sin personalidad jurídica no residente, deberán enviar una actualización de los datos previamente comunicados en el módulo A.2, siempre que tengan constancia de su variación, así como cuando les corresponda declarar datos adicionales en dicho módulo en función del motivo por el que se declaren dichas personas al Banco de España.
+
+> Se modifica el apartado 3 y se añade el apartado 4 por la norma única.d) de la Circular 1/2020, de 28 de enero. Ref. BOE-A-2020-1653
 
 > Se suprime el apartado 4 y se modifica el apartado 6 por la norma única.5 de la Circular de 30 de junio de 2017. Ref. BOE-A-2017-7985

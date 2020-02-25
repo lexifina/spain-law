@@ -20,6 +20,8 @@ a) Las operaciones subvencionadas y las que tengan titulares de riesgos directos
 
 b) Las operaciones que tengan varios titulares de riesgos indirectos se declararán mensualmente, tantas veces como sea necesario, en el módulo C.2, Datos dinámicos de los riesgos indirectos, para poder imputar a cada titular el importe que le corresponda.
 
+Lo dispuesto en este apartado no es de aplicación a las entidades de crédito que operen en régimen de libre prestación de servicios ni a los prestamistas inmobiliarios, cuya declaración se ajustará a los criterios establecidos para la declaración del módulo I, Datos sobre la actividad de las entidades de crédito que operen en régimen de libre prestación de servicios y de los prestamistas inmobiliarios.
+
 4. Los titulares de riesgos directos son:
 
 a) En el crédito comercial con recurso, el cedente de los derechos de cobro. Las personas que tengan comprometida su firma en los efectos son titulares de riesgo indirecto.
@@ -44,11 +46,17 @@ j) En los préstamos de valores, las contrapartes a las que se prestan los valor
 
 k) En las operaciones subvencionadas, las personas que subvencionan el principal o el interés, por el importe que subvencionan.
 
-5. Los titulares de riesgos, directos e indirectos, se declararán de forma individualizada a la CIR, cualquiera que sea el importe de su riesgo en la entidad declarante, excepto cuando sus operaciones no sean declarables, conforme a lo dispuesto en la norma segunda, apartado 3. Excepcionalmente, se podrán excluir de la declaración del riesgo indirecto a nombre de un titular los efectos en los que haya comprometido su firma, siempre que su importe sea inferior a 6.000 euros y formen parte de una operación de crédito comercial con recurso.
+5. Los titulares de riesgos, directos e indirectos, se declararán de forma individualizada a la CIR, cualquiera que sea el importe de su riesgo en la entidad declarante, excepto cuando sus operaciones no sean declarables, conforme a lo dispuesto en la norma segunda, apartado 3. Excepcionalmente, se podrán excluir de la declaración del riesgo indirecto a nombre de un titular los efectos en los que haya comprometido su firma, siempre que su importe sea inferior a 6.000 euros y formen parte de una operación de crédito comercial con recurso. Asimismo, las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios no declararán a los titulares de riesgo indirecto que intervengan en la operación en calidad de contraparte de un derivado de crédito comprado, de garante sin conocimiento del titular o de tercero comprometido a pagar importes en una operación de arrendamiento financiero.
 
 Los datos de los titulares, incluidos los de sus operaciones, cuyo riesgo acumulado en la entidad declarante sea inferior a 9.000 euros se declaran exclusivamente con la finalidad prevista en el artículo 60, apartado cuarto, letra a), de la Ley 44/2002. A estos efectos, el riesgo acumulado es el importe de las operaciones en las que la persona intervenga como titular de riesgo, directo o indirecto, con las siguientes precisiones:
 
-a) Los importes de las operaciones que se declaren como garantías financieras instrumentadas como derivados de crédito u otros arrendamientos, según la definición de otros arrendamientos establecida en la dimensión “Tipo de producto” del módulo B.2 del anejo 2, no se incluyen en el cálculo del riesgo acumulado.
+a) No se incluyen en el cálculo del riesgo acumulado los importes de las operaciones que se declaren como:
+
+1. Garantías financieras instrumentadas como derivados de crédito o compromisos de riesgo de crédito de arrendamientos financieros para el arrendador.
+
+2. Otros compromisos con riesgo de crédito instrumentados como compromisos de riesgo de crédito de arrendamientos operativos para el arrendador.
+
+3. Otros arrendamientos, según la definición de otros arrendamientos establecida en la dimensión “Tipo de producto” del módulo B.2 del anejo 2.
 
 b) El importe del riesgo directo asumido en las operaciones es la suma de los importes dispuestos (principal, intereses y comisiones vencidos, intereses de demora y gastos exigibles) pendientes de cobro más los importes disponibles (con disponibilidad inmediata y condicionada).
 
@@ -58,13 +66,13 @@ d) En los préstamos sindicados y demás préstamos en los que varios prestamist
 
 e) En las garantías financieras y avales y cauciones no financieros prestados concedidos solidariamente por varias entidades, cada entidad declarante computará como riesgo acumulado el importe total de la operación.
 
-f) En el riesgo acumulado, además de los importes que asume directamente la entidad declarante con el titular, se incluirán los que haya transferido a terceros de las operaciones en las que continúa con su gestión frente al titular, aunque los haya dado de baja del activo, así como los que tenga registrados en los libros de sus sociedades instrumentales residentes en España.
+f) En el riesgo acumulado, además de los importes que asume directamente la entidad declarante con el titular, se incluirán los que haya transferido a terceros de las operaciones en las que mantiene la gestión frente al titular, aunque los haya dado de baja del activo, así como los que tenga registrados en los libros de sus sociedades instrumentales residentes en España.
 
 g) En el riesgo acumulado de las entidades que hayan adquirido operaciones que continúe declarando a la CIR otra entidad, también se incluyen los importes que hayan asumido en dichas operaciones, aunque, conforme a lo dispuesto en la norma decimocuarta, letra B), no los declaren a la CIR como datos dinámicos de los riesgos directos e indirectos.
 
-h) En el riesgo acumulado no se incluirán los importes de las operaciones a las que se refiere la norma segunda, apartado 1 bis.
+En el riesgo acumulado no se incluirán los importes de las operaciones a las que se refiere la norma segunda, apartado 1 bis.
 
-6. No obstante lo señalado en el apartado anterior, el Banco de España, el Fondo de Garantía de Depósitos de Entidades de Crédito y la Sociedad Anónima Estatal de Caución Agraria (SAECA) solo declararán las operaciones cuyos titulares pertenezcan a los sectores institucionales hogares, sociedades no financieras o instituciones sin fines de lucro al servicio de los hogares cuyo riesgo acumulado sea igual o superior a 9.000 euros.
+6. No obstante lo señalado en el apartado anterior, el Banco de España, el Fondo de Garantía de Depósitos de Entidades de Crédito, la Sociedad Anónima Estatal de Caución Agraria (SAECA), las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios solo declararán las operaciones cuyos titulares pertenezcan a los sectores institucionales hogares, sociedades no financieras o instituciones sin fines de lucro al servicio de los hogares cuyo riesgo acumulado sea igual o superior a 9.000 euros.
 
 7. Las personas que, no siendo titulares de riesgos directos o indirectos, se deben declarar a la CIR por estar relacionadas con los titulares de los riesgos o con las operaciones en las que intervienen son:
 
@@ -91,6 +99,8 @@ j) Las entidades declarantes a la CIR con las que se tengan operaciones con cód
 k) Las entidades emisoras de instrumentos financieros adquiridos temporalmente, recibidos en garantía de operaciones o prestados a terceros.
 
 l) Las sociedades gestoras de fondos de inversión cuando estos sean titulares de riesgos o proveedores de garantías reales y residan en un Estado miembro informador.
+
+> Se modifican los apartados 3, 5 y 6 por la norma única.b) de la Circular 1/2020, de 28 de enero. Ref. BOE-A-2020-1653
 
 > Se modifican los apartados 5.a) y 7.l) por la norma 2.b) de la Circular de 21 de diciembre de 2018. Ref. BOE-A-2018-17880
 

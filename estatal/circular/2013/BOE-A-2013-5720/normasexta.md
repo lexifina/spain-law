@@ -30,7 +30,7 @@ b) Parte 2. Datos adicionales que deben declarar las entidades de crédito, las 
 
 7. La baja de las operaciones se declarará en el módulo B.2 en el mes en el que se cancelen, sin perjuicio del tratamiento específico de las operaciones cedidas en una combinación de negocios a otras entidades declarantes regulado en la norma decimoquinta, apartado 2. Una vez efectuada la baja de las operaciones, ya sea por la declaración de la propia entidad o por parte del Banco de España según lo establecido en el último párrafo de este apartado, no se podrá volver a utilizar el código de la operación, con la excepción de lo establecido en el apartado 6.
 
-Si, debido a la gestión de cobros, existiera la posibilidad de tener que volver a declarar datos dinámicos de una operación cancelada, la entidad declarante diferirá la baja de la operación en la CIR hasta el momento en que, conforme a la Ley 16/2009, de 13 de noviembre, de servicios de pago, ya no sea posible dicha circunstancia. También se diferirá la baja de los préstamos con importes fallidos registrados en los que alguno de los titulares sea una persona jurídica y que hayan sido transferidos totalmente sin retener la gestión la entidad declarante, o se hayan condonado o se hayan dado de baja por prescripción. En estos casos, la baja se diferirá hasta el fin del trimestre en el que se haya producido la transferencia, condonación o prescripción. En cualquier caso, la baja de las operaciones también se podrá diferir siempre que la entidad considere que existen motivos operativos que así lo aconsejen.
+Si, debido a la gestión de cobros, existiera la posibilidad de tener que volver a declarar datos dinámicos de una operación cancelada, la entidad declarante diferirá la baja de la operación en la CIR hasta el momento en que, conforme a la normativa de servicios de pago, ya no sea posible dicha circunstancia. También se diferirá la baja de los préstamos con importes fallidos registrados en los que alguno de los titulares sea una persona jurídica y que hayan sido transferidos totalmente sin retener la gestión la entidad declarante, o se hayan condonado o se hayan dado de baja por prescripción. En estos casos, la baja se diferirá hasta el fin del trimestre en el que se haya producido la transferencia, condonación o prescripción. En cualquier caso, la baja de las operaciones también se podrá diferir siempre que la entidad considere que existen motivos operativos que así lo aconsejen.
 
 Durante el período que media entre la cancelación de las operaciones para la entidad declarante y la comunicación de su baja, se continuarán declarando los módulos dinámicos con los saldos a cero.
 
@@ -41,6 +41,8 @@ C) Datos básicos complementarios de los préstamos a personas jurídicas:
 8. El módulo B.3, Datos básicos complementarios de los préstamos a personas jurídicas, se declarará para informar sobre las características específicas de los préstamos en los que al menos un deudor es una persona jurídica o entidad sin personalidad jurídica.
 
 Los importes que se han de informar en este módulo se corresponderán tanto con el riesgo asumido por la entidad como con el gestionado por cuenta de terceros en los que el acreedor sea una persona jurídica distinta de un agente observado residente en un Estado miembro informador.
+
+> Se modifica el apartado 7, párrafo segundo por la norma única.e) de la Circular 1/2020, de 28 de enero. Ref. BOE-A-2020-1653
 
 > Se modifican los apartados 1 y 6 por la norma 2.d) de la Circular de 21 de diciembre de 2018. Ref. BOE-A-2018-17880
 

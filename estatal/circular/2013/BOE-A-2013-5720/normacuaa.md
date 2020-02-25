@@ -18,11 +18,11 @@
 | C.4 | Datos de los préstamos a personas jurídicas sobre las responsabilidades conjuntas. | Mensual. | Día 10 del mes siguiente. |
 | D | Datos sobre garantías. |  |  |
 | D.1 | Datos básicos que relacionan las operaciones con las garantías recibidas. | No periódico. | Día 10 del mes siguiente. |
+| D.1.1 | Datos básicos de las garantías recibidas. | No periódico. | Día 10 del mes siguiente. |
 | D.2 | Datos básicos de los inmuebles recibidos en garantía. | No periódico. | Día 10 del mes siguiente. |
 | D.3 | Datos básicos de los activos financieros recibidos en garantía. | No periódico. | Día 10 del mes siguiente. |
 | D.4 | Datos dinámicos que relacionan las operaciones con las garantías recibidas. | Mensual. | Día 10 del mes siguiente. |
 | D.5 | Datos dinámicos de los edificios en construcción y de las promociones inmobiliarias recibidos en garantía. | Trimestral. | Día 10 del mes siguiente. |
-| D.6 | Datos básicos del resto de las garantías recibidas distintas de inmuebles y activos financieros de préstamos a personas jurídicas. | No periódico. | Día 10 del mes siguiente. |
 | E | Datos sobre tipos de interés de los préstamos. | No periódico. | Día 10 del mes siguiente. |
 | F | Datos de transferencias y titulizaciones sintéticas de activos financieros. | No periódico. | Día 10 del mes siguiente. |
 | G | Vinculación de códigos. |  |  |
@@ -33,6 +33,7 @@
 | H.1 | Datos contables de los préstamos a personas jurídicas. | Trimestral. | Día 15 del segundo mes siguiente. |
 | H.2 | Datos sobre el riesgo de los titulares de los préstamos que sean personas jurídicas. | Trimestral. | Día 10 del mes siguiente. |
 | H.3 | Datos sobre la situación de impago (default) de los titulares de riesgo de los préstamos que sean personas jurídicas. | Mensual. | Día 10 del mes siguiente. |
+| I | Datos sobre la actividad de las entidades de crédito que operen en régimen de libre prestación de servicios y de los prestamistas inmobiliarios. | Mensual. | Día 10 del mes siguiente. |
 
 Los módulos de datos se incluyen como anejo 1, y las instrucciones para su elaboración, en el anejo 2. Adicionalmente, el Banco de España podrá elaborar aplicaciones técnicas para facilitar la confección de los diferentes módulos. En todo caso, la declaración de las dimensiones de la CIR que sean coincidentes con las que figuran en el Reglamento (UE) 867/2016, en lo no contemplado expresamente en esta circular o en las aplicaciones técnicas, se hará aplicando los criterios que, en su caso, publique el Banco Central Europeo.
 
@@ -44,15 +45,19 @@ Los importes se declararán en unidades de euros. Los importes denominados en mo
 
 2. Las siguientes entidades declarantes no tendrán que declarar los módulos que se indican a continuación, aunque tengan datos susceptibles de declarar en ellos:
 
-a) Las sucursales en España de entidades de crédito extranjeras cuya sede social esté radicada en otro Estado miembro informador no declararán los módulos D y H.
+a) Las entidades de crédito españolas y las sucursales en España de entidades de crédito extranjeras cuya sede social no esté radicada en otro país del Espacio Económico Europeo no declararán el módulo I.
 
-b) Las sucursales en España de entidades de crédito extranjeras cuya sede social esté radicada en otro país del Espacio Económico Europeo que no sea Estado miembro informador no declararán el módulo D.5.
+b) Las sucursales en España de entidades de crédito extranjeras cuya sede social esté radicada en otro Estado miembro informador no declararán los módulos D, H e I. No obstante, el Banco de España podrá requerir el envío de los módulos D y H cuando la información de estos módulos fuese necesaria para cumplir con las obligaciones establecidas por el Reglamento (UE) 867/2016. En este caso, la información que se deberá enviar sobre el módulo D será la misma que se requiere para las sucursales en España de entidades de crédito extranjeras cuya sede social esté radicada en otro país del Espacio Económico Europeo que no sea Estado miembro informador. El requerimiento se efectuará por escrito, con una antelación mínima de tres meses antes del primer envío.
 
-c) Las sociedades de garantía recíproca no declararán los módulos B.3, C.3, C.4, D.6, E, F, G.2, G.3 y H.
+c) Las sucursales en España de entidades de crédito extranjeras cuya sede social esté radicada en otro país del Espacio Económico Europeo que no sea Estado miembro informador no declararán los módulos D.3, D.5 e I.
 
-d) El Banco de España, el Fondo de Garantía de Depósitos de Entidades de Crédito, las sociedades de reafianzamiento y la Sociedad Anónima Estatal de Caución Agraria (SAECA) no declararán los módulos B.3, C.3, C.4, D, E, F, G y H.
+d) Las sociedades de garantía recíproca no declararán los módulos B.3, C.3, C.4, E, F, G.2, G.3, H e I.
 
-e) La Sociedad de Gestión de Activos Procedentes de la Reestructuración Bancaria, SA (Sareb) y los establecimientos financieros de crédito no declararán los módulos B.3, C.3, C.4, D.6 y H.
+e) El Banco de España, el Fondo de Garantía de Depósitos de Entidades de Crédito, las sociedades de reafianzamiento y la Sociedad Anónima Estatal de Caución Agraria (SAECA) no declararán los módulos B.3, C.3, C.4, D, E, F, G, H e I.
+
+f) La Sociedad de Gestión de Activos Procedentes de la Reestructuración Bancaria, SA (Sareb) y los establecimientos financieros de crédito no declararán los módulos B.3, C.3, C.4, H e I.
+
+g) Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios no declararán los módulos B, C, D, E, F, G y H.
 
 3. Sin perjuicio de lo previsto en el apartado 2 anterior, las entidades declarantes distintas de las entidades de crédito y las sucursales en España de entidades de crédito extranjeras solo enviarán los módulos D, Datos sobre garantías, que les correspondan de acuerdo con lo establecido en el apartado anterior, cuando al final del mes al que se refieran los datos el importe acumulado (dispuesto más disponible) de sus operaciones con garantía real sea igual o superior a 10 millones de euros. No obstante, el Banco de España podrá requerir a las entidades que no superen el citado umbral que declaren todos o algunos de los módulos D, con la periodicidad y el plazo máximo de presentación establecidos con carácter general. El requerimiento se efectuará por escrito, con una antelación mínima de tres meses antes del primer envío, atendiendo a las circunstancias particulares de las entidades, en especial a su perfil de riesgo y al importe que represente la actividad que se ha de reportar en relación con su tamaño.
 
@@ -79,6 +84,8 @@ Las entidades declarantes deberán arbitrar la fórmula que mejor convenga a su 
 5. La CIR no podrá modificar los datos declarados por las entidades declarantes, de los que estas son responsables y a las que corresponde enviar declaraciones complementarias con las rectificaciones o cancelaciones de datos declarados erróneamente.
 
 6. Los datos que se incluyen en el anejo 3 de la presente circular se declaran con las finalidades previstas en las letras a) y b) del apartado cuarto del artículo 60 de la Ley 44/2002. Los restantes datos de los riesgos solicitados en los diferentes módulos de esta circular se declaran exclusivamente con la finalidad prevista en el artículo 60, apartado cuarto, letra a), de la Ley 44/2002.
+
+> Se modifican los apartados 1 y 2 por la norma única.c) de la Circular 1/2020, de 28 de enero. Ref. BOE-A-2020-1653
 
 > Se modifica el módulo H2 del apartado 1 por la norma 2.c) de la Circular de 21 de diciembre de 2018. Ref. BOE-A-2018-17880
 

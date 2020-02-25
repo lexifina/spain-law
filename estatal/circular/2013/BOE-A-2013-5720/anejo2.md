@@ -1,4 +1,4 @@
-## 01ANEJO 2
+## ANEJO 2
 
 ## INSTRUCCIONES PARA ELABORAR LOS MÓDULOS DE DATOS
 
@@ -6,9 +6,9 @@ A. DATOS DE PERSONAS Y SOLICITUD DE CÓDIGO
 
 ## A.1 Datos que identifican a las personas
 
-Parte 1. Datos de la persona.
+Parte 1. Datos de la persona
 
-Código de la persona
+## Código de la persona.
 
 Código que identifica a los titulares de riesgos o personas declarables a la CIR por otros motivos.
 
@@ -16,17 +16,17 @@ Cuando la persona sea residente en España, el código será:
 
 – Para las personas físicas de nacionalidad española, el Número de Identificación Fiscal (NIF) (Real Decreto 1065/2007, de 27 de julio).
 
-– Para las personas físicas que carezcan de la nacionalidad española, el Número de Identificación de Extranjero (NIE) que se le asigne (Real Decreto 2393/2004, de 30 de diciembre) o, cuando no sea obligatorio este, el NIF que tengan asignado por realizar operaciones de trascendencia tributaria.
+– Para las personas físicas que carezcan de la nacionalidad española, el Número de Identificación de Extranjero (NIE) que se le asigne (Real Decreto 2393/2004, de 30 de diciembre) o, cuando no sea obligatorio este, el NIF que tengan asignado por realizar operaciones de transcendencia tributaria.
 
 – Para las personas jurídicas y entidades sin personalidad jurídica, incluidas las sucursales en España de empresas extranjeras y las entidades declarantes a la CIR, el NIF (Orden EHA/451/2008, de 20 de febrero).
 
 En los casos excepcionales en los que una entidad tuviese que declarar a más de una persona residente en España con el mismo NIF, pondrá esta circunstancia en conocimiento del Banco de España.
 
-Cuando la persona sea no residente en España, el código que le asigne el Banco de España, previa solicitud de la entidad declarante.
+Cuando la persona sea no residente en España, el código que le asigne el Banco de España previa solicitud de la entidad declarante.
 
 Cuando las personas sean no residentes en España, en este módulo no se declararán los siguientes datos que se declaran en el módulo A.2: sector institucional, código LEI, domicilio, fecha de nacimiento, país de nacimiento, sexo y forma jurídica.
 
-Motivo por el que se declara a la persona
+## Motivo por el que se declara a la persona.
 
 Motivo por el que se declara a la persona a la CIR:
 
@@ -40,7 +40,9 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Personas jurídicas que hayan emitido y/o sean tenedoras de valores para los que se informen datos al Banco de España, conforme a la normativa contable, que no sean titulares de riesgos declarables a la CIR.
 
-Nombre
+Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios declararán el valor «No aplicable».
+
+## Nombre.
 
 Nombre y apellidos o denominación social completa de las personas declarables, incluida su forma jurídica, utilizando en todo caso el alfabeto latino, sin emplear abreviaturas, excepto en la forma jurídica, que sí aparecerá abreviada.
 
@@ -48,7 +50,7 @@ Los apellidos y el nombre de las personas físicas se declararán de forma separ
 
 Las abreviaturas para indicar la forma jurídica serán, para las empresas españolas, las que establezca el Reglamento del Registro Mercantil o la normativa específica que las regule, y, para las empresas no residentes, las que se utilicen en su país de residencia, empleando en todo caso el alfabeto latino.
 
-Domicilio
+## Domicilio.
 
 Domicilio de la persona declarada.
 
@@ -62,11 +64,11 @@ Los datos que declarar serán: país, municipio, población, tipo de vía, nombr
 
 Si la entidad declarante no dispone del domicilio por no haber tenido relación directa con el titular, como en el caso de riesgos indirectos por compromiso de firma, en efectos financieros o comerciales, titulares de operaciones de factoring sin recurso o titulares colectivos, podrá indicarse «No disponible».
 
-Provincia de la persona
+## Provincia de la persona.
 
 Para los residentes en España, que sean declarables a la CIR, código de dos cifras correspondiente a la provincia donde estén efectivamente centralizadas la gestión y la dirección de las ocupaciones y negocios de la persona. Cuando este criterio no sea aplicable, o se desconozca el dato, se pondrá la provincia donde esté situado el domicilio de la persona.
 
-Sector institucional
+## Sector institucional.
 
 Sector institucional al que pertenezca la persona declarada:
 
@@ -130,7 +132,7 @@ Sector institucional al que pertenezca la persona declarada:
 
 • Fondos de inversión libre.
 
-• Fondos de capital-riesgo.
+• Fondos de capital riesgo.
 
 • Sociedades de inversión mobiliaria.
 
@@ -184,15 +186,15 @@ Sector institucional al que pertenezca la persona declarada:
 
 • Resto de los auxiliares financieros.
 
-– Instituciones financieras de ámbito limitado y prestamistas de dinero.
+– Instituciones financieras de ámbito limitado y prestamistas de dinero:
 
-• Sociedades emisoras de participaciones preferentes.
+• Filiales instrumentales emisoras de valores que se clasifican como sociedades financieras.
 
 • Empresas holding que no gestionan filiales.
 
 • Otras entidades financieras especializadas.
 
-• Resto de instituciones financieras de ámbito limitado y prestamistas de dinero.
+• Resto de las instituciones financieras de ámbito limitado y prestamistas de dinero.
 
 – Sociedades no financieras.
 
@@ -208,11 +210,11 @@ Sector institucional al que pertenezca la persona declarada:
 
 • Resto.
 
-La inclusión en los sectores anteriores se hará conforme a lo dispuesto en la Circular 4/2004.
+La inclusión en los sectores anteriores se hará conforme a lo dispuesto en la Circular 4/2017.
 
-Cuando una persona física realice actividades empresariales, se declarará en el sector «Hogares. Empresarios individuales», con independencia de que las operaciones no tengan finalidad empresarial, sin perjuicio de que en la dimensión «Finalidad de la operación» del módulo B.2, Datos básicos de las operaciones, se asignen a la finalidad que les corresponda.
+Cuando una persona física realice actividades empresariales, se declarará en el sector «Hogares. Empresarios individuales» con independencia de que las operaciones no tengan finalidad empresarial, sin perjuicio de que en la dimensión «Finalidad de la operación» del módulo B.2, Datos básicos de las operaciones, se asignen a la finalidad que les corresponda.
 
-Parte vinculada
+## Parte vinculada.
 
 Indica si la persona es una parte vinculada con la entidad declarante conforme a lo dispuesto en la normativa contable:
 
@@ -250,7 +252,7 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Entidad o persona que tiene control conjunto de la entidad declarante: persona física o jurídica que tiene, directa o indirectamente, el control conjunto con otras personas físicas o jurídicas de la entidad declarante.
 
-– Entidades del grupo, asociadas o multigrupo: la asignación de estos valores se hará conforme a la posición que tenga el grupo económico al que pertenezca la entidad declarante en las entidades, con independencia de la participación, directa o indirecta, que, en su caso, tenga esta en su capital, de acuerdo con las definiciones aplicables para cada una de ellas a efectos de la normativa contable. Las sociedades y fondos de titulización se declararán como entidades del grupo siempre que los activos financieros que se les haya transferido se registren íntegramente en el activo del balance del grupo.
+– Entidades del grupo, asociadas o multigrupo: la asignación de estos valores se hará conforme a la posición que tenga el grupo económico al que pertenezca la entidad declarante en las entidades con independencia de la participación, directa o indirecta, que, en su caso, tenga esta en su capital, de acuerdo con las definiciones aplicables para cada una de ellas a efectos de la normativa contable. Las sociedades y fondos de titulización se declararán como entidades del grupo siempre que los activos financieros que se les hayan transferido se registren íntegramente en el activo del balance del grupo.
 
 – Personal clave de la dirección de la entidad o de su entidad dominante: personas que tienen autoridad y responsabilidad para planificar, dirigir y controlar las actividades de la entidad, ya sea directa o indirectamente, incluyendo a todos los miembros del consejo de administración, u órgano equivalente, así como al personal directivo, como son las personas enumeradas en el artículo 11.3 de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva.
 
@@ -258,7 +260,7 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Resto de las partes vinculadas: personas físicas o jurídicas que, siendo partes vinculadas de la entidad declarante según la normativa contable vigente, no tienen cabida en los valores anteriores de esta dimensión. Incluye a las personas que ejerzan una influencia significativa sobre la entidad o sean familiares cercanos de, o entidades vinculadas a, personas que controlen o ejerzan una influencia significativa o control conjunto de la entidad o su entidad dominante.
 
-– Parte no vinculada. Entidad gestionada por el grupo de la entidad declarante: fondos de pensiones, fondos y sociedades de inversión, titulización y capital-riesgo y sociedades de capital variable gestionados por el grupo económico de la entidad declarante que no cumplen la definición de parte vinculada. Las sociedades y fondos de titulización se declararán con este valor si los activos financieros que se les haya transferido no están registrados en el activo del balance del grupo.
+– Parte no vinculada. Entidad gestionada por el grupo de la entidad declarante: fondos de pensiones, fondos y sociedades de inversión, titulización y capital-riesgo y sociedades de capital variable gestionados por el grupo económico de la entidad declarante que no cumplen la definición de parte vinculada. Las sociedades y fondos de titulización se declararán con este valor si los activos financieros que se les hayan transferido no están registrados en el activo del balance del grupo.
 
 – Parte no vinculada. Entidad no residente en la que la entidad declarante participa, directa o indirectamente, al menos en un 10 % de su capital: entidad no residente que no cumple la definición para incluirla entre las entidades que son partes vinculadas en la que la entidad declarante participa, directa o indirectamente, al menos en un 10 % de su capital.
 
@@ -266,7 +268,9 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Parte no vinculada. Resto de las personas: personas físicas y jurídicas que no estén incluidas en alguno de los supuestos anteriores.
 
-Actividad económica
+Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios declararán el valor «No aplicable».
+
+## Actividad económica.
 
 Para las personas jurídicas y entidades sin personalidad jurídica, cualquiera que sea su sector institucional, así como para los empresarios individuales, se declarará la CNAE-2009 con cuatro dígitos correspondiente a su actividad principal.
 
@@ -292,89 +296,97 @@ Para las personas físicas clasificadas en el sector «Hogares. Personas física
 
 – Otro.
 
-Estado del procedimiento legal
+## Estado del procedimiento legal.
 
 Categoría que describe la condición jurídica de la persona por lo que respecta a su solvencia conforme al régimen jurídico nacional. Los valores que se han de declarar son:
 
 A) En el caso de residentes que sean titulares de riesgos, proveedores de garantías reales, sociedades emisoras y/o tenedoras de valores:
 
-– Sujeto a administración judicial o medidas análogas
+– Sujeto a administración judicial o medidas análogas.
 
-– Solicitud de concurso.
+• Solicitud de concurso.
 
-– Concurso de acreedores sin petición de liquidación.
+• Concurso de acreedores sin petición de liquidación.
 
-– Concurso de acreedores con petición de liquidación.
+• Concurso de acreedores con petición de liquidación.
 
-– Convenio de acreedores sin incumplimiento.
+• Convenio de acreedores sin incumplimiento.
 
-– Convenio de acreedores con incumplimiento.
+• Convenio de acreedores con incumplimiento.
+
+• Acuerdo de refinanciación homologado judicialmente.
+
+• Incumplimiento del acuerdo de refinanciación homologado.
 
 – Insolvencia.
 
-– Concurso de acreedores en fase de liquidación.
+• Concurso de acreedores en fase de liquidación.
 
-– Disolución y concurso concluido por insuficiencia de la masa activa del deudor.
-
-– Acuerdo de refinanciación homologado judicialmente.
-
-– Incumplimiento del acuerdo de refinanciación homologado.
+• Disolución y concurso concluido por insuficiencia de la masa activa del deudor.
 
 – Otras medidas legales.
 
-– Comunicación al juzgado de negociaciones con los acreedores.
+• Comunicación al juzgado de negociaciones con los acreedores.
 
-– Acuerdo de refinanciación.
+• Acuerdo de refinanciación.
 
-– Acuerdo extrajudicial de pagos.
+• Acuerdo extrajudicial de pagos.
 
-– Sin procedimientos legales incoados
+• Otros procedimientos judiciales fuera de la ley concursal.
 
-– Resto de las situaciones.
+– Sin procedimientos legales incoados.
+
+• Disolución societaria voluntaria.
+
+• Resto de las situaciones.
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-• Solicitud de concurso: cuando, habiendo presentado una solicitud de concurso, no se haya emitido un auto declarando el concurso o desestimando la solicitud.
+– Solicitud de concurso: cuando, habiendo presentado una solicitud de concurso, no se haya emitido un auto declarando el concurso o desestimando la solicitud.
 
-• Concurso de acreedores sin petición de liquidación: cuando se haya declarado concurso de acreedores pero no se haya aprobado judicialmente el convenio ni conste la petición de la apertura de la fase de liquidación.
+– Concurso de acreedores sin petición de liquidación: cuando se haya declarado concurso de acreedores pero no se haya aprobado judicialmente el convenio ni conste la petición de la apertura de la fase de liquidación.
 
-• Concurso de acreedores con petición de liquidación: cuando, estando declarado el concurso de acreedores, conste que se haya solicitado la apertura de la fase de liquidación pero no se haya dictado resolución declarando dicha apertura.
+– Concurso de acreedores con petición de liquidación: cuando, estando declarado el concurso de acreedores, conste que se haya solicitado la apertura de la fase de liquidación pero no se haya dictado resolución declarando dicha apertura.
 
-• Convenio de acreedores sin incumplimiento: cuando se haya aprobado judicialmente el convenio de acreedores y no conste su incumplimiento por el deudor frente a la entidad o terceros.
+– Convenio de acreedores sin incumplimiento: cuando se haya aprobado judicialmente el convenio de acreedores y no conste su incumplimiento por el deudor frente a la entidad o terceros.
 
-• Convenio de acreedores con incumplimiento: cuando, habiéndose aprobado judicialmente el convenio de acreedores, conste su incumplimiento por el deudor frente a la entidad o terceros.
+– Convenio de acreedores con incumplimiento: cuando, habiéndose aprobado judicialmente el convenio de acreedores, conste su incumplimiento por el deudor frente a la entidad o terceros.
 
-• Concurso de acreedores en fase de liquidación: cuando, estando declarado concurso de acreedores, se dicte resolución judicial declarando la apertura de la fase de liquidación.
+– Concurso de acreedores en fase de liquidación: cuando, estando declarado concurso de acreedores, se dicte resolución judicial declarando la apertura de la fase de liquidación.
 
-• Disolución y concurso concluido por insuficiencia de la masa activa del deudor: cuando la persona se encuentra en proceso de disolución o liquidación sin estar declarado en concurso de acreedores, o se haya declarado la conclusión del concurso por liquidación o insuficiencia de la masa activa del deudor. Cuando el deudor sea una persona física, permanecerá en esta situación mientras continúe con deudas provenientes del concurso que se haya dado por concluido.
+– Disolución y concurso concluido por insuficiencia de la masa activa del deudor: cuando se haya declarado la conclusión del concurso por liquidación o insuficiencia de la masa activa del deudor. Cuando el deudor sea una persona física, permanecerá en esta situación mientras continúe con deudas provenientes del concurso que se haya dado por concluido.
 
-• Comunicación al juzgado de negociaciones con los acreedores: cuando el deudor ponga en conocimiento del juzgado que ha iniciado negociaciones para alcanzar un acuerdo de refinanciación o para obtener adhesiones a una propuesta anticipada de convenio.
+– Comunicación al juzgado de negociaciones con los acreedores: cuando el deudor ponga en conocimiento del juzgado que ha iniciado negociaciones para alcanzar un acuerdo de refinanciación o para obtener adhesiones a una propuesta anticipada de convenio.
 
-• Acuerdo de refinanciación: cuando se alcance un acuerdo que cumpla las condiciones establecidas en el artículo 71 bis de la Ley 22/2003, de 9 de julio, Concursal (Ley 22/2003).
+– Acuerdo de refinanciación: cuando se alcance un acuerdo que cumpla las condiciones establecidas en el artículo 71 bis de la Ley 22/2003, de 9 de julio, Concursal (Ley 22/2003).
 
-• Acuerdo de refinanciación homologado judicialmente: cuando el juez homologue el acuerdo de refinanciación, conforme a lo establecido en la disposición adicional cuarta de la Ley 22/2003.
+– Acuerdo de refinanciación homologado judicialmente: cuando el juez homologue el acuerdo de refinanciación, conforme a lo establecido en la disposición adicional cuarta de la Ley 22/2003.
 
-• Incumplimiento del acuerdo de refinanciación homologado: cuando el juez declare el incumplimiento del acuerdo de refinanciación homologado, previa solicitud de cualquier acreedor, adherido o no al acuerdo.
+– Incumplimiento del acuerdo de refinanciación homologado: cuando el juez declare el incumplimiento del acuerdo de refinanciación homologado, previa solicitud de cualquier acreedor, adherido o no al acuerdo.
 
-• Acuerdo extrajudicial de pagos: cuando una persona hubiera iniciado un procedimiento para alcanzar un acuerdo extrajudicial de pagos con sus acreedores, de conformidad con el artículo 231 de la Ley 22/2003.
+– Acuerdo extrajudicial de pagos: cuando una persona hubiera iniciado un procedimiento para alcanzar un acuerdo extrajudicial de pagos con sus acreedores, de conformidad con el artículo 231 de la Ley 22/2003.
 
-• Resto de las situaciones: cuando la persona no se encuentra en ninguna de las situaciones descritas en los valores anteriores.
+– Otros procedimientos judiciales fuera de la ley concursal: sentencias favorables obtenidas en procedimientos judiciales iniciados para la recuperación del crédito.
+
+– Disolución societaria voluntaria: cuando la persona se encuentra en proceso de disolución o liquidación sin estar declarada en concurso de acreedores.
+
+– Resto de las situaciones: cuando la persona no se encuentra en ninguna de las situaciones descritas en los valores anteriores.
 
 A los efectos de la declaración a la CIR, se entenderá que un titular se encuentra en concurso de acreedores desde que el juez dicte auto de declaración de concurso y hasta que se produzca la resolución firme que acuerde la conclusión del concurso, de conformidad con el artículo 176 de la Ley 22/2003.
 
 Las definiciones de los procesos de refinanciación y las situaciones concursales españolas mencionadas anteriormente serán las que correspondan en cada caso, de acuerdo con lo establecido en la Ley 22/2003.
 
-Si para las sociedades tenedoras de valores no se dispone de esta información, se indicará «No disponible».
+Si para las sociedades tenedoras de valores no se dispone de esta información se indicará «No disponible».
 
 B) En el caso de no residentes en España que sean titulares de riesgos, proveedores de garantías reales, sociedades emisoras y/o tenedoras de valores:
 
-• Sujeto a administración judicial o medidas análogas.
+– Sujeto a administración judicial o medidas análogas.
 
-• Insolvencia.
+– Insolvencia.
 
-• Otras medidas legales.
+– Otras medidas legales.
 
-• Sin procedimientos legales incoados.
+– Sin procedimientos legales incoados.
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
@@ -388,9 +400,11 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 Si para las sociedades tenedoras de valores no se dispone de esta información, se indicará «No disponible».
 
-C) Para el resto de personas, si no se dispone de la información, se declarará «No disponible».
+C) Para el resto de las personas, si no se dispone de la información, se declarará «No disponible».
 
-Fecha de incoación del procedimiento legal
+Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios declararán el valor «No aplicable».
+
+## Fecha de incoación del procedimiento legal.
 
 Fecha en que se ha incoado el procedimiento legal indicado en la dimensión «Estado del procedimiento legal». Esta fecha debe ser la más reciente de esta clase anterior a la fecha de presentación de la información y solo se debe declarar si la dimensión «Estado del procedimiento legal» tiene un valor distinto de «Sin procedimientos legales incoados» en los apartados A) y B).
 
@@ -398,23 +412,25 @@ Debe cumplimentarse para las personas jurídicas que sean titulares de riesgo di
 
 Formato: AAAAMMDD.
 
-Datos adicionales para las personas físicas
+Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios no facilitarán este dato.
 
-Fecha de nacimiento
+DATOS ADICIONALES PARA LAS PERSONAS FÍSICAS.
+
+## Fecha de nacimiento.
 
 Para las personas físicas, fecha de nacimiento.
 
 Cuando excepcionalmente la entidad no pueda tener acceso a este dato, se indicará «No disponible».
 
-Formato AAAAMMDD.
+Formato: AAAAMMDD.
 
-País de nacimiento
+## País de nacimiento.
 
-Para las personas físicas, código ISO alfabético del país en el que hayan nacido, según conste en cualquier documento de identificación.
+Para las personas físicas, código ISO alfabético del país en el que hayan nacido según conste en cualquier documento de identificación.
 
 Cuando excepcionalmente la entidad no pueda tener acceso a este dato, se indicará «No disponible».
 
-Sexo
+## Sexo.
 
 Para las personas físicas, indica su sexo:
 
@@ -422,51 +438,51 @@ Para las personas físicas, indica su sexo:
 
 – Mujer.
 
-Datos adicionales para las personas jurídicas y entidades sin personalidad jurídica
+DATOS ADICIONALES PARA LAS PERSONAS JURÍDICAS Y ENTIDADES SIN PERSONALIDAD JURÍDICA.
 
-Forma jurídica
+## Forma jurídica.
 
 Para las entidades residentes en España, se indicará el valor que corresponda según su forma jurídica:
 
-– Sociedad Anónima.
+– Sociedad anónima.
 
-– Sociedad Anónima Unipersonal.
+– Sociedad anónima unipersonal.
 
-– Sociedad Anónima Laboral (Ley 4/1997).
+– Sociedad anónima laboral (Ley 4/1997).
 
-– Sociedad de Responsabilidad Limitada.
+– Sociedad de responsabilidad limitada.
 
-– Sociedad de Responsabilidad Limitada Unipersonal.
+– Sociedad de responsabilidad limitada unipersonal.
 
-– Sociedad Limitada Laboral (Ley 4/1997).
+– Sociedad limitada laboral (Ley 4/1997).
 
-– Sociedad Limitada Nueva Empresa.
+– Sociedad limitada nueva empresa.
 
-– Sociedad Colectiva.
+– Sociedad colectiva.
 
-– Sociedad Comanditaria Simple.
+– Sociedad comanditaria simple.
 
-– Sociedad Comanditaria por Acciones.
+– Sociedad comanditaria por acciones.
 
-– Sociedad Cooperativa.
+– Sociedad cooperativa.
 
-– Sociedad Cooperativa Europea.
+– Sociedad cooperativa europea.
 
-– Sociedad de Garantía Recíproca.
+– Sociedad de garantía recíproca.
 
-– Sociedad Agraria de Transformación.
+– Sociedad agraria de transformación.
 
-– Sociedad Anónima Europea o "Sociedad Europea".
+– Sociedad anónima europea o «sociedad europea».
 
-– Sociedad Civil con personalidad jurídica.
+– Sociedad civil con personalidad jurídica.
 
 – Sociedad profesional.
 
 – Mutua.
 
-– Agrupación de Interés Económico.
+– Agrupación de interés económico.
 
-– Agrupación Europea de Interés Económico.
+– Agrupación europea de interés económico.
 
 – Fundación.
 
@@ -478,7 +494,7 @@ Para las entidades residentes en España, se indicará el valor que corresponda 
 
 – Patrimonio de inversión sin personalidad jurídica.
 
-– Resto de entidades sin personalidad jurídica.
+– Resto de las entidades sin personalidad jurídica.
 
 – Otra forma jurídica.
 
@@ -486,47 +502,51 @@ Cuando el titular sea una sucursal, cualquiera que sea su residencia, se indicar
 
 Cuando la forma jurídica no coincida con alguna de las incluidas en esta lista, se le asignará el valor «Otra forma jurídica».
 
-Código identificador de personas jurídicas (código LEI)
+## Código identificador de personas jurídicas (código LEI).
 
 Código identificador de persona jurídica que, en su caso, tenga asignado la persona.
 
-Deberá informarse siempre que la persona tenga asignado un código LEI. En el resto de los casos, se informará «No aplicable».
+Deberá indicarse siempre que la persona tenga asignado un código LEI. En el resto de los casos se indicará «No aplicable».
 
-Sede central
+## Sede central.
 
 Cuando la persona sea una sucursal en España o en el extranjero de una persona jurídica cuya sede social radique en otro país, el código de identificación de la entidad de la que forme parte. Cuando esta no resida en España, el código de identificación que le asigne el Banco de España, previa solicitud de la entidad declarante.
 
-Cuando la persona sea un fondo de inversión sin personalidad jurídica cuya sede social se localice en un Estado miembro informador, se cumplimentará con el código de la sociedad gestora.
+Cuando la persona sea un fondo de inversión sin personalidad jurídica, cuya sede social se localice en un Estado miembro informador, se cumplimentará con el código de la sociedad gestora.
 
 Para el resto de las personas jurídicas, se cumplimentará repitiendo el «Código de la persona».
 
-Código de la entidad matriz inmediata
+## Código de la entidad matriz inmediata.
 
-Para los titulares de riesgo y proveedores de garantías reales, se cumplimentará el código de la persona jurídica que sea la entidad matriz inmediata.
+Para los titulares de riesgo y proveedores de garantías reales se cumplimentará el código de la persona jurídica que sea la entidad matriz inmediata.
 
 No se declarará este código para los organismos autónomos o similares o empresas que pertenezcan a los sectores Administración Central, Autonómica o Local española, ni para las empresas que tengan la consideración de sector público porque sean dependientes de dichas Administraciones.
 
-No se informará en el caso de sucursales en un país distinto al de su sede social, ni para los fondos de inversión sin personalidad jurídica.
+No se indicará en el caso de sucursales en un país distinto al de su sede social, ni para los fondos de inversión sin personalidad jurídica.
 
 Si el titular no tuviese entidad matriz inmediata, deberá cumplimentar el código de la persona del titular.
 
 Para los titulares de riesgo y los proveedores de garantías reales que no pertenezcan a un Estado miembro informador, si no se dispone de este dato, se declarará «No disponible».
 
-Código de la entidad matriz última
+Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios declararán el valor «No aplicable».
 
-Debe cumplimentarse cuando se trate de titulares de riesgo y proveedores de garantías reales, con el NIF o código facilitado por el Banco de España para la entidad dominante del grupo económico, según la definición del artículo 42 del Código de Comercio, más amplio del que formen parte, aunque no se declaren riesgos a la CIR a nombre de la entidad dominante o de otras personas integrantes del grupo.
+## Código de la entidad matriz última.
 
-Las sociedades y fondos de titulización gestionados por entidades del grupo económico de la entidad declarante se declararán como integrantes del grupo económico de la entidad siempre que los activos financieros que se les haya transferido se registren en el activo del balance del grupo.
+Debe cumplimentarse cuando se trate de titulares de riesgo y proveedores de garantías reales, con el NIF o código facilitado por el Banco de España para la entidad dominante del grupo económico, más amplio del que formen parte, según la definición del artículo 42 del Código de Comercio, aunque no se declaren riesgos a la CIR a nombre de la entidad dominante o de otras personas integrantes del grupo.
+
+Las sociedades y fondos de titulización gestionados por entidades del grupo económico de la entidad declarante se declararán como integrantes del grupo económico de la entidad siempre que los activos financieros que se les hayan transferido se registren en el activo del balance del grupo.
 
 No obstante lo señalado en los párrafos anteriores, no se declarará este código para los organismos autónomos o similares o empresas que pertenezcan a los sectores Administración Central, Autonómica o Local española, ni para las empresas que tengan la consideración de sector público porque sean dependientes de dichas Administraciones.
 
-No se informará en el caso de sucursales en un país distinto al de su sede social, ni para los fondos de inversión sin personalidad jurídica.
+No se indicará en el caso de sucursales en un país distinto al de su sede social, ni para los fondos de inversión sin personalidad jurídica.
 
 Cuando la entidad matriz última coincida con la entidad matriz inmediata, deberá informarse el código de la entidad matriz inmediata.
 
 Para los titulares de riesgo y los proveedores de garantía que no pertenezcan a un Estado miembro informador, si no se dispone de este dato, se declarará «No disponible».
 
-Vinculación con Administraciones Públicas españolas
+Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios declararán el valor «No aplicable».
+
+## Vinculación con Administraciones Públicas españolas.
 
 Para los titulares de riesgo que sean empresas e instituciones sin fines de lucro al servicio de los hogares, indica si son dependientes de, o están participadas por, alguna Administración Pública española:
 
@@ -546,15 +566,17 @@ Para el resto de las personas:
 
 La asignación en los valores anteriores se realizará utilizando los siguientes criterios:
 
-– Dependiente de Administraciones Públicas españolas (Central, Autonómica o Local): empresas que, no formando parte del sector Administraciones Públicas, tengan la consideración de sector público conforme a lo dispuesto en el artículo 2 de la Ley Orgánica 2/2012, de 27 de abril, de estabilidad presupuestaria y sostenibilidad financiera, y demás normativa que la desarrolla. La asignación de este valor a una empresa que no figure en las relaciones informativas que publique el Banco de España en su sitio web de Internet como dependiente de una Administración Pública española requerirá consulta por escrito al Banco de España (Dirección General de Estabilidad Financiera, Regulación y Resolución).
+– Dependiente de Administraciones Públicas españolas (Central, Autonómica o Local): empresas que, no formando parte del sector Administraciones Públicas, tengan la consideración de sector público conforme a lo dispuesto en el artículo 2 de la Ley Orgánica 2/2012, de 27 de abril, de estabilidad presupuestaria y sostenibilidad financiera, y demás normativa que la desarrolla. La asignación de este valor a una empresa que no figure en las relaciones informativas que publique el Banco de España en su sitio web como dependiente de una Administración Pública española requerirá consulta por escrito al Banco de España (Dirección General de Estabilidad Financiera, Regulación y Resolución).
 
-– Participada por Administraciones Públicas españolas sin ser dependientes: empresas o instituciones sin fines de lucro al servicio de los hogares en las que, no formando parte del sector Administraciones Públicas españolas ni siendo entidades dependientes de alguna de dichas Administraciones, una o más Administraciones posean derechos de voto o participen en su capital, cualquiera que sea el porcentaje.
+– Participada por Administraciones Públicas españolas sin ser dependientes: empresas o instituciones sin fines de lucro al servicio de los hogares que, no forman parte del sector Administraciones Públicas españolas ni sean entidades dependientes de alguna de dichas Administraciones en las que una o más Administraciones poseen derechos de voto o participen en su capital, cualquiera que sea el porcentaje.
 
 Resto: empresas o instituciones sin fines de lucro al servicio de los hogares que no cumplan ninguno de los criterios de los párrafos anteriores.
 
-Datos adicionales para empresas
+Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios declararán el valor «No aplicable».
 
-Tamaño de la empresa
+DATOS ADICIONALES PARA EMPRESAS.
+
+## Tamaño de la empresa.
 
 Clasificación de las empresas que sean titulares de riesgo y sociedades emisoras de valores, cualquiera que sea su sector institucional, por su tamaño. La asignación de los valores se realizará aplicando los criterios de la Recomendación 2003/361/CE, de la Comisión, de 6 de mayo de 2003, sobre la definición de microempresas, pequeñas y medianas empresas:
 
@@ -566,29 +588,37 @@ Clasificación de las empresas que sean titulares de riesgo y sociedades emisora
 
 – Microempresa.
 
-Para el resto de personas se declarará el valor «No aplicable».
+Para el resto de las personas se declarará el valor «No aplicable».
 
-Fecha del tamaño de la empresa
+Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios declararán el valor «No aplicable».
+
+## Fecha del tamaño de la empresa.
 
 Fecha de los últimos datos utilizados para clasificar o revisar la clasificación de la empresa en la dimensión «Tamaño de la empresa».
 
-Este dato se informará en el caso de empresas que sean titulares de riesgo directo, cuya sede social se encuentre en un Estado miembro informador.
+Este dato se indicará en el caso de empresas que sean titulares de riesgo directo, cuya sede social se encuentre en un Estado miembro informador.
+
+Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios no facilitarán este dato.
 
 Formato: AAAAMMDD.
 
-Número de empleados
+## Número de empleados.
 
 Número de empleados del titular con arreglo al artículo 5 del anexo de la Recomendación 2003/361/CE.
 
-Este dato se informará en el caso de empresas que sean titulares de riesgo directo, cuya sede social se encuentre en un Estado miembro informador.
+Este dato se indicará en el caso de empresas que sean titulares de riesgo directo, cuya sede social se encuentre en un Estado miembro informador.
 
-Balance total
+Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios no facilitarán este dato.
+
+## Balance total.
 
 Importe en libros del activo total del balance individual de la empresa.
 
-Este dato se informará en el caso de empresas que sean titulares de riesgo directo, cuya sede social se encuentre en un Estado miembro informador.
+Este dato se indicará en el caso de empresas que sean titulares de riesgo directo, cuya sede social se encuentre en un Estado miembro informador.
 
-Importe neto de la cifra de negocio en los estados financieros individuales
+Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios no facilitarán este dato.
+
+## Importe neto de la cifra de negocio en los estados financieros individuales.
 
 Volumen de negocios anual deducidos descuentos e impuestos de la empresa en sus estados financieros anuales.
 
@@ -596,17 +626,21 @@ El dato será el correspondiente a la fecha de cierre de los últimos estados fi
 
 El dato corresponderá a un ejercicio completo, excepto si los estados financieros públicos se refieren a un período inferior a doce meses (porque se trate del primer ejercicio, se haya cambiado la fecha de cierre, etc.), en cuyo caso se indicará el importe que corresponda a la fecha de cierre de los estados financieros.
 
-Este dato se cumplimentará para las sociedades no financieras que sean titulares de riesgos. Además, deberán informar de esta dimensión el resto de empresas que, siendo titulares de riesgos directos, tengan su sede social en un Estado miembro informador.
+Este dato se cumplimentará para las sociedades no financieras que sean titulares de riesgos. Además deberán informar de esta dimensión el resto de las empresas que, siendo titulares de riesgos directos, tengan su sede social en un Estado miembro informador.
 
-Fecha de los datos financieros individuales
+Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios no facilitarán este dato.
+
+## Fecha de los datos financieros individuales.
 
 Para las sociedades no financieras, aunque sean entidades dominantes de grupos económicos, fecha a la que se refiere el importe neto de la cifra de negocio en sus estados financieros individuales declarado en el anterior dato de este módulo.
 
 En el caso excepcional de que la entidad no haya utilizado los estados financieros individuales de la sociedad para su estudio o seguimiento, no se facilitará este dato.
 
+Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios no facilitarán este dato.
+
 Formato: AAAAMMDD.
 
-Importe neto de la cifra de negocio en los estados financieros consolidados
+## Importe neto de la cifra de negocio en los estados financieros consolidados.
 
 Para las sociedades no financieras que sean entidades dominantes de grupos económicos, importe neto de la cifra de negocio en sus estados financieros consolidados correspondientes al último ejercicio disponible.
 
@@ -616,61 +650,65 @@ El dato corresponderá a un ejercicio completo, excepto si los estados financier
 
 En el caso excepcional de que la entidad no haya utilizado los estados financieros consolidados de la entidad dominante para el estudio o seguimiento de la sociedad, no se facilitará este dato.
 
-Fecha de los datos financieros consolidados
+Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios no facilitarán este dato.
+
+## Fecha de los datos financieros consolidados.
 
 Para las sociedades no financieras que sean entidades dominantes de grupos económicos, fecha a la que se refiere el importe neto de la cifra de negocio en sus estados financieros consolidados declarado en el siguiente dato de este módulo.
 
 En el caso excepcional de que la entidad no haya utilizado los estados financieros consolidados de la entidad dominante para el estudio o seguimiento de la sociedad, no se facilitará este dato.
 
+Las entidades de crédito que operen en régimen de libre prestación de servicios y los prestamistas inmobiliarios no facilitarán este dato.
+
 Formato: AAAAMMDD.
 
-Datos adicionales para las personas con varios códigos
+DATOS ADICIONALES PARA LAS PERSONAS CON VARIOS CÓDIGOS.
 
-Número de Identificación Fiscal (NIF)
+## Número de Identificación Fiscal (NIF).
 
 NIF que tuviese asignado previamente la persona.
 
-Número de Identificación de Extranjero (NIE)
+## Número de Identificación de Extranjero (NIE).
 
 NIE que tuviese asignado previamente la persona.
 
-Código asignado por el Banco de España
+## Código asignado por el Banco de España.
 
 Código asignado por el Banco de España cuando era no residente en España.
 
 Parte 2. Datos de los titulares colectivos
 
-Código de la sociedad o AIE
+## Código de la sociedad o AIE.
 
 Código de la sociedad colectiva, sociedad comanditaria, agrupación de interés económico (AIE) o agrupación europea de interés económico (AEIE).
 
-Código del socio colectivo o integrante de la AIE
+## Código del socio colectivo o integrante de la AIE.
 
 Código de cada uno de los socios colectivos o de los componentes de las AIE y las AEIE.
 
 Parte 3. Datos que relacionan a los titulares con las entidades que integran el sector público español
 
-Código del titular
+## Código del titular.
 
 Código que identifica al titular que se relaciona con las entidades que integran el sector público español.
 
-Código de la entidad que integra el sector público español
+## Código de la entidad que integra el sector público español.
 
 NIF de cada una de las entidades que integran el sector público español que posee derechos de voto o participa en el capital del titular.
 
 Parte 4. Datos que vinculan a los titulares con los grupos de clientes relacionados
 
-Código del titular
+## Código del titular.
 
 Código que identifica al titular que pertenece a un grupo de clientes relacionados.
 
-Código del grupo de clientes relacionados
+## Código del grupo de clientes relacionados.
 
 Código que identifica a la persona a la que la entidad declarante considere como cabecera del grupo de clientes relacionados, siempre que no se haya declarado como «Código de la entidad matriz última».
 
-## A.2 Solicitud de código de identificación de personas no residentes en España
+## A.2 Solicitud de un código de identificación de personas no residentes en España
 
-Motivo por el que se solicita un código para la persona
+## Motivo por el que se solicita un código para la persona.
 
 Motivo por el que se solicita un código de identificación para la persona:
 
@@ -684,25 +722,25 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Personas declarables a la CIR: titulares de riesgos directos o indirectos no residentes y otras personas declarables a la CIR, excepto emisores de valores cotizados.
 
-– Personas jurídicas que hayan emitido y/o sean tenedoras de valores para los que se informen datos al Banco de España, conforme a la normativa contable, que no sean titulares de riesgos declarables a la CIR.
+– Personas jurídicas que hayan emitido y/o sean tenedoras de valores para los que se indiquen datos al Banco de España, conforme a la normativa contable, que no sean titulares de riesgos declarables a la CIR.
 
-– Resto de personas declarables: personas no incluidas en los motivos anteriores, tales como accionistas de la entidad declarante.
+– Resto de las personas declarables: personas no incluidas en los motivos anteriores, tales como los accionistas de la entidad declarante.
 
 Los datos mínimos obligatorios en este módulo son: «Naturaleza de la persona», «Nombre», «Domicilio», «País de residencia» y «Sector institucional».
 
-Además, cuando los titulares sean personas jurídicas o entidades sin personalidad jurídica, será obligatorio declarar la «Forma jurídica». Adicionalmente, también serán obligatorios los siguientes datos para:
+Además, cuando los titulares sean personas jurídicas o entidades sin personalidad jurídica, será obligatorio declarar la «Forma jurídica». Adicionalmente, también serán obligatorios los siguientes datos:
 
-– Las personas declarables a la CIR: «Código LEI» o, en su defecto, «Identificador nacional» y «Tipo de identificador».
+– Para las personas declarables a la CIR: «Código LEI» o, en su defecto, «Identificador nacional» y «Tipo de identificador».
 
-– Las sociedades emisoras y/o tenedoras de valores: «Código LEI» o, en su defecto, «Identificador nacional» y «Tipo de identificador». En el caso de valores cotizados, además será necesario informar del «Código ISIN».
+– Las sociedades emisoras y/o tenedoras de valores: «Código LEI» o, en su defecto, «Identificador nacional» y «Tipo de identificador». En el caso de valores cotizados además será necesario informar del «Código ISIN».
 
 Cuando los titulares sean personas físicas, además de los datos mínimos, serán obligatorios los siguientes: «Fecha de nacimiento», «País de nacimiento», «Sexo», «Código NIE o NIF» o «Número de pasaporte o de identidad válido en el país de origen de la persona».
 
 Cuando no se disponga de alguno de los datos de las dimensiones con una lista cerrada de valores, se indicará «No disponible».
 
-En todo caso, se aportarán cuantos datos de identificación disponga la entidad, independientemente de su obligatoriedad.
+En todo caso, se aportarán cuantos datos de identificación posea la entidad independientemente de su obligatoriedad.
 
-Naturaleza de la persona
+## Naturaleza de la persona.
 
 Indica si se trata de:
 
@@ -710,101 +748,103 @@ Indica si se trata de:
 
 – Persona jurídica o entidad sin personalidad jurídica.
 
-Nombre
+## Nombre.
 
 Misma definición que en el dato de igual nombre del módulo A.1, Datos que identifican a las personas.
 
-Domicilio
+## Domicilio.
 
 Misma definición que en el dato de igual nombre del módulo A.1, Datos que identifican a las personas.
 
 Además, cuando no se declare el código postal, deberá informarse la división administrativa en el caso de personas jurídicas y entidades sin personalidad jurídica declarables a la CIR residentes en un país de la Unión Europea de acuerdo con la «Nomenclatura de las Unidades Territoriales Estadísticas» (NUTS), Nivel 3, del Reglamento (CE) n.º 1059/2003, de 26 de mayo de 2003, por el que se establece una nomenclatura común de unidades territoriales estadísticas (NUTS).
 
-Sector institucional
+## Sector institucional.
 
 Misma definición y valores que en la dimensión de igual nombre del módulo A.1, Datos que identifican a las personas.
 
-La entidad asignará el sector institucional con la mayor precisión posible. Solo en los casos en los que no se pueda identificar el sector adecuado, podrán utilizarse los sectores residuales indicados en la lista de valores incluida en la dimensión «Sector institucional» del módulo A.1.
+La entidad asignará el sector institucional con la mayor precisión posible. Solo en los casos en los que no se pueda identificar el sector adecuado podrán utilizarse los sectores residuales indicados en la lista de valores incluida en la dimensión «Sector institucional» del módulo A.1.
 
-Cuando el motivo de la declaración sea «Resto de personas declarables» y la entidad no disponga de esta información, se cumplimentará como «No disponible».
+Cuando el motivo de la declaración sea «Resto de las personas declarables» y la entidad no disponga de esta información, se cumplimentará como «No disponible».
 
-País de residencia
+## País de residencia.
 
 Código ISO alfabético del país de residencia de la persona.
 
-Datos adicionales para las personas físicas
+DATOS ADICIONALES PARA LAS PERSONAS FÍSICAS.
 
-Fecha de nacimiento
+## Fecha de nacimiento.
 
 Misma definición que en el dato de igual nombre del módulo A.1, Datos que identifican a las personas.
 
-Cuando el motivo de la declaración sea «Resto de personas declarables» y la entidad no disponga de esta información, se cumplimentará como «No disponible».
+Cuando el motivo de la declaración sea «Resto de las personas declarables» y la entidad no disponga de esta información, se cumplimentará como «No disponible».
 
-Formato AAAAMMDD.
+Formato: AAAAMMDD.
 
-País de nacimiento
-
-Misma definición que en la dimensión de igual nombre del módulo A.1, Datos que identifican a las personas.
-
-Cuando el motivo de la declaración sea «Resto de personas declarables» y la entidad no disponga de esta información, se cumplimentará como «No disponible».
-
-Sexo
+## País de nacimiento.
 
 Misma definición que en la dimensión de igual nombre del módulo A.1, Datos que identifican a las personas.
 
-Número de pasaporte o de identidad válido en el país de origen de la persona
+Cuando el motivo de la declaración sea «Resto de las personas declarables» y la entidad no disponga de esta información, se cumplimentará como «No disponible».
+
+## Sexo.
+
+Misma definición que en la dimensión de igual nombre del módulo A.1, Datos que identifican a las personas.
+
+## Número de pasaporte o de identidad válido en el país de origen de la persona.
 
 Cuando una persona física no tenga asignado un NIE o NIF en España, número de pasaporte o de otro documento de identidad válido en el país de origen o residencia.
 
-Código NIE o NIF
+## Código NIE o NIF.
 
 Número de Identificación de Extranjero (NIE) o Número de Identificación Fiscal (NIF) que, en su caso, tenga asignado en España.
 
-Código asignado por el Banco de España
+## Código asignado por el Banco de España.
 
 Código asignado por el Banco de España al titular si fue declarado previamente por la entidad con otro país de residencia.
 
-Datos adicionales para las personas jurídicas y entidades sin personalidad jurídica
+DATOS ADICIONALES PARA LAS PERSONAS JURÍDICAS Y ENTIDADES SIN PERSONALIDAD JURÍDICA.
 
-Código identificador de personas jurídicas (código LEI)
+## Código identificador de personas jurídicas (código LEI).
 
 Código identificador de personas jurídicas que, en su caso, tenga asignado la persona. Deberá informarse siempre que la persona tenga asignado un código LEI. En el resto de los casos, se informará «No aplicable».
 
-Identificador nacional
+## Identificador nacional.
 
-Código de identificación comúnmente utilizado que permite identificar a la persona jurídica o entidad sin personalidad jurídica en su país de residencia. Para cada persona jurídica o entidad sin personalidad jurídica, debe informarse del identificador nacional asociado al correspondiente «Tipo de identificador».
+Código de identificación comúnmente utilizado que permite identificar a la persona jurídica o entidad sin personalidad jurídica en su país de residencia. Para cada persona jurídica o entidad sin personalidad jurídica debe indicarse el identificador nacional asociado al correspondiente «Tipo de identificador».
 
 Dimensión obligatoria cuando la persona jurídica o entidad sin personalidad jurídica no tenga asignado un código LEI.
 
-Tipo de identificador
+## Tipo de identificador.
 
 Tipo de identificador utilizado en la dimensión «Identificador nacional» conforme a la lista de identificadores nacionales que publique el Banco de España.
 
 Dimensión obligatoria cuando la persona jurídica o entidad sin personalidad jurídica no tenga asignado un código LEI.
 
-Cuando el tipo de identificador no esté incluido en la lista, se cumplimentará como «Otros», especificándose mediante un texto libre en la dimensión «Información cualitativa».
+Cuando el tipo de identificador no esté incluido en la lista, se cumplimentará como Otros», especificándose mediante un texto libre en la dimensión «Información cualitativa».
 
-Forma jurídica (código)
+## Forma jurídica (código).
 
 Código que identifique la forma jurídica de la sociedad según la lista que publique el Banco de España.
 
-Forma jurídica (abreviatura)
+No obstante lo anterior, todas las sucursales de sociedades cuya sede social radique en otro país se identificará como «SUC».
+
+## Forma jurídica (abreviatura).
 
 Para las formas jurídicas no incluidas en la lista que publique el Banco de España, abreviatura que se utilice en el país de residencia, empleando en todo caso el alfabeto latino.
 
-Código SWIFT
+## Código SWIFT.
 
 Código SWIFT que, en su caso, tenga asignado la persona.
 
-Datos adicionales para emisores de valores cotizados
+DATOS ADICIONALES PARA EMISORES DE VALORES COTIZADOS.
 
-Código ISIN
+## Código ISIN.
 
 Cuando la persona haya emitido valores cotizados, código alfanumérico ISIN de alguna de sus emisiones de valores con saldo vivo.
 
-Otros datos
+OTROS DATOS.
 
-Información cualitativa
+## Información cualitativa.
 
 Información adicional en forma de texto, diferente de la incluida en los datos anteriores, que ayude a la identificación de la persona para la que se solicita el código y del sector institucional al que pertenece.
 
@@ -814,15 +854,15 @@ B. DATOS DE LAS OPERACIONES Y DE LAS RELACIONES CON LAS PERSONAS
 
 Parte 1. Datos básicos que relacionan a los titulares de riesgos con las operaciones
 
-Código de la operación
+## Código de la operación.
 
 Código con el que se identifica la operación en el módulo B.2, Datos básicos de las operaciones.
 
-Código de la persona
+## Código de la persona.
 
 Código del titular de riesgo que interviene en la operación declarado en el módulo A.1, Datos que identifican a las personas.
 
-Naturaleza de la intervención en la operación
+## Naturaleza de la intervención en la operación.
 
 Naturaleza en la que interviene la persona en la operación:
 
@@ -838,7 +878,7 @@ a) Titulares de riesgos directos:
 
 – Titular de riesgo directo mancomunado solidario al 100 % con otros titulares directos mancomunados.
 
-–Titular de riesgo directo mancomunado solidario distinto del 100 % con otros titulares directos mancomunados.
+– Titular de riesgo directo mancomunado solidario distinto del 100 % con otros titulares directos mancomunados.
 
 – Titular de riesgo por subvencionar el principal.
 
@@ -866,7 +906,7 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Titular de riesgo por subvencionar principal, intereses o ambos: personas que subvencionan una operación, distinguiendo en función de si subvencionan solo el principal, solo los intereses o el principal y los intereses.
 
-– Garante (solidario o no solidario): personas físicas o jurídicas que sean titulares de riesgos indirectos porque hayan avalado, afianzado o contraavalado la operación en el propio contrato garantizado –salvo que la operación consista en efectos financieros o comerciales–, o en otros contratos, siempre que, en este último caso, la garantía la paguen directamente a los garantes los titulares de los riesgos directos, o la entidad declarante la haya contratado con conocimiento de dichos titulares (por ejemplo, todas las garantías recibidas de sociedades de garantía recíproca, CESCE u otras empresas públicas cuya actividad principal sea el aseguramiento o aval de crédito, con independencia de cómo se instrumenten). Se indicará que el garante es solidario cuando avale solidariamente con otra u otras personas la totalidad o parte del riesgo, y no solidario cuando responda de forma individual de todo o parte del riesgo. Una misma operación puede tener simultáneamente varios garantes no solidarios e incluso garantes que sean solidarios entre sí.
+– Garante (solidario o no solidario): personas físicas o jurídicas que sean titulares de riesgos indirectos porque hayan avalado, afianzado o contraavalado la operación en el propio contrato garantizado salvo que la operación consista en efectos financieros o comerciales, o en otros contratos, siempre que, en este último caso, la garantía la paguen directamente a los garantes los titulares de los riesgos directos, o la entidad declarante la haya contratado con conocimiento de dichos titulares (por ejemplo, todas las garantías recibidas de sociedades de garantía recíproca, CESCE u otras empresas públicas cuya actividad principal sea el aseguramiento o aval de crédito, con independencia de cómo se instrumenten). Se indicará que el garante es solidario cuando avale solidariamente con otra u otras personas la totalidad o parte del riesgo, y no solidario cuando responda de forma individual de todo o parte del riesgo. Una misma operación puede tener simultáneamente varios garantes no solidarios e incluso garantes que sean solidarios entre sí.
 
 – Compromiso de firma en efectos: titulares de riesgo indirecto que hayan comprometido su firma en los efectos financieros o comerciales en los que se instrumente la operación.
 
@@ -878,15 +918,15 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 Parte 2. Datos básicos que relacionan a las personas distintas de los titulares de riesgos con las operaciones
 
-Código de la operación
+## Código de la operación.
 
 Código con el que se identifica la operación en el módulo B.2, Datos básicos de las operaciones.
 
-Código de la persona
+## Código de la persona.
 
 Código de la persona distinta del titular de riesgo que interviene en la operación declarado en el módulo A.1, Datos que identifican a las personas.
 
-Naturaleza de la intervención en la operación
+## Naturaleza de la intervención en la operación.
 
 Naturaleza en la que interviene la persona en la operación:
 
@@ -912,15 +952,29 @@ Naturaleza en la que interviene la persona en la operación:
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-– Acreedor: persona que asume el riesgo de crédito de una operación distinta de las personas que conceden garantías. En caso de que sea un agente observado, se indicará su «Código de la persona» declarado en el módulo A.1, Datos que identifican a las personas. Este valor solo se facilitará para los préstamos.
+– Acreedor: persona que asume el riesgo de crédito de una operación distinta de las personas que conceden garantías. Se indicará su «Código de la persona» declarado en el módulo A.1, «Datos que identifican a las personas». Este valor solo se facilitará para los préstamos y únicamente cuando el acreedor sea una persona diferente de las siguientes:
 
-– Administrador: persona encargada de la gestión administrativa y financiera de la operación. En caso de que sea un agente observado, se indicará su «Código de la persona» declarado en el módulo A.1, Datos que identifican a las personas. Este valor solo se facilitará para los préstamos.
+• En el caso de las operaciones registradas contablemente en España, la entidad declarante.
+
+• En el caso de las operaciones registradas contablemente en una sucursal en el extranjero, la sucursal.
+
+• En el caso de las operaciones declaradas de sociedades instrumentales, la sociedad instrumental.
+
+En el caso de las transferencias parciales, además de declarar como acreedor al cesionario, también se declarará a la propia entidad declarante o sucursal que continúa reconociendo las operaciones en el activo.
+
+– Administrador: persona encargada de la gestión administrativa y financiera de la operación. Se indicará su «Código de la persona» declarado en el módulo A.1, «Datos que identifican a las personas». Este valor solo se facilitará para los préstamos y únicamente cuando el administrador sea una persona diferente de las siguientes:
+
+• En el caso de operaciones registradas contablemente en España, la entidad declarante.
+
+• En el caso de operaciones registradas contablemente en una sucursal en el extranjero, la sucursal.
+
+• En el caso de operaciones declaradas de sociedades instrumentales, la sociedad instrumental.
 
 – Originador: cedente de la operación o de su riesgo de crédito a una estructura de titulización (tradicional o sintética). Este valor solo se facilitará para los préstamos titulizados, tanto si el préstamo se ha cedido por la entidad declarante como si se encarga exclusivamente de su gestión.
 
-– Código de la contraparte directa: titular del riesgo directo que la entidad considera como contraparte directa de la operación a efectos contables. Cuando la operación tenga varios titulares de riesgo directo solidarios, será la persona a la que la entidad haya considerado como determinante o más relevante para la concesión de la operación.
+– Código de la contraparte directa: titular del riesgo directo que la entidad considera como contraparte directa de la operación a efectos contables. Este valor solo se declarará cuando la operación tenga varios titulares de riesgo directo solidarios. En este caso se declarará como contraparte directa a la persona a la que la entidad haya considerado como determinante o más relevante para la concesión de la operación.
 
-‒ Entidad agente del préstamo sindicado: entidad que actúa como agente en operaciones sindicadas, incluso cuando el agente sea la propia entidad declarante.
+– Entidad agente del préstamo sindicado: entidad que actúa como agente en operaciones sindicadas, incluso cuando el agente sea la propia entidad declarante.
 
 – Sociedad instrumental tenedora: sociedad instrumental española de la entidad declarante que tiene contabilizada la operación en sus libros. Este valor se declarará cuando la operación se declare con el valor 11 en la dimensión «Localización de la actividad (país de la operación)» del módulo B.2, Datos básicos de las operaciones.
 
@@ -936,7 +990,7 @@ Las operaciones titulizadas sintéticamente se vinculan con las contrapartes que
 
 ## B.2 Datos básicos de las operaciones
 
-Código de la operación
+## Código de la operación.
 
 Código alfanumérico que identifica en la CIR la operación.
 
@@ -946,9 +1000,9 @@ El código de la operación será normalmente el que la entidad declarante utili
 
 Las operaciones se declararán individualmente, con las siguientes precisiones:
 
-– Crédito comercial con recurso: en las operaciones de descuento comercial y factoring con recurso, se declaran como operaciones independientes cada una de las líneas comprometidas o contratos diferentes con los cedentes, y no cada una de las remesas, letras o documentos.
+– Crédito comercial con recurso: en las operaciones de descuento comercial y factoring con recurso se declaran como operaciones independientes cada una de las líneas comprometidas o contratos diferentes con los cedentes, y no cada una de las remesas, letras o documentos.
 
-– Crédito comercial sin recurso: en las operaciones sin recurso, se declara cada una de las líneas diferentes que tenga abierta la entidad para los obligados al pago por este tipo de operaciones, y no cada una de las remesas, letras o documentos.
+– Crédito comercial sin recurso: en las operaciones sin recurso se declara cada una de las líneas diferentes que tenga abierta la entidad para los obligados al pago por este tipo de operaciones para cada uno de los diferentes contratos con los cedentes, y no cada una de las remesas, letras o documentos.
 
 – Cuentas de crédito: cuando se renueva una cuenta de crédito firmando una nueva póliza, la nueva operación se declarará a la CIR con un código diferente a la operación a la que sustituya, aunque la entidad le asigne el mismo número de cuenta a efectos de gestión. Los códigos de ambas cuentas se relacionarán en el módulo G.1, Datos básicos que vinculan códigos. No se considerarán nuevas operaciones las renovadas automáticamente, sin intervención activa del deudor, que solo implican una prolongación del contrato en el tiempo.
 
@@ -960,17 +1014,17 @@ No obstante, si la entidad tiene que declarar simultáneamente el mismo valor m�
 
 – Operaciones con titulares mancomunados: estas operaciones se declararán con tantos códigos diferentes como titulares mancomunados intervengan en la operación, salvo para aquellos titulares que sean solidarios entre sí, en cuyo caso el código de la operación será el mismo para dichos titulares. Los diferentes códigos de operación asignados para la misma operación se relacionarán en el módulo G.1, Datos básicos que vinculan códigos.
 
-– Operaciones subvencionadas: estas operaciones se tienen que declarar con un código de operación para informar todos los datos que correspondan a la financiación otorgada. Este código es el que se utiliza para declarar en el módulo B.1, Datos básicos que relacionan a las personas con las operaciones, a las personas a las que se ha concedido la financiación como titulares de riesgos directos. Los datos que se han de declarar para este código son los mismos que se tendrían que declarar para la operación como si no estuviese subvencionada, incluidos los importes mientras los titulares puedan seguir siendo responsables de su devolución. La información sobre el tipo de subvención recibida se indicará en la dimensión «Subvención de la operación».
+– Operaciones subvencionadas: estas operaciones se tienen que declarar con un código de operación para informar todos los datos que correspondan a la financiación otorgada. Este código es el que se utiliza para declarar en el módulo B.1, Datos básicos que relacionan a las personas con las operaciones, a las personas a las que se ha concedido la financiación como titulares de riesgos directos. Los datos que se han de declarar para este código son los mismos que se tendrían que declarar para la operación si no estuviese subvencionada, incluidos los importes mientras los titulares puedan seguir siendo responsables de su devolución. La información sobre el tipo de subvención recibida se indicará en la dimensión «Subvención de la operación».
 
-Adicionalmente, las subvenciones imputadas a una persona por una o varias operaciones formalizadas por la entidad se declararán con un solo código de operación para vincular sus datos en el módulo B.1 con los de dicha persona, salvo que la entidad, por razones administrativas, utilice más de un código para gestionar las subvenciones imputadas a dicha persona, en cuyo caso se podrán declarar los diferentes códigos de operación. El «tipo de producto» que se ha de declarar para estos códigos es «Derechos de cobro por subvenciones».
+Adicionalmente, las subvenciones imputadas a una persona por una o varias operaciones formalizadas por la entidad se declararán con un solo código de operación para vincular sus datos en el módulo B.1 con los de dicha persona, salvo que la entidad por razones administrativas, utilice más de un código para gestionar las subvenciones imputadas a dicha persona, en cuyo caso se podrán declarar los diferentes códigos de operación. El «tipo de producto» que se ha de declarar para estos códigos es «Derechos de cobro por subvenciones».
 
-Cuando se subvencione el principal, el importe subvencionado se informará en la dimensión «Límite máximo a disposición del prestatario al inicio de la operación», siempre que su pago esté condicionado a que las personas que reciben la subvención tengan que cumplir con sus obligaciones. Para estas operaciones, en el resto de dimensiones se indicarán los valores que correspondan por defecto (no aplicable, resto de situaciones, sin dato, etc.).
+Cuando se subvencione el principal, el importe subvencionado se indicará en la dimensión «Límite máximo a disposición del prestatario al inicio de la operación» siempre que su pago esté condicionado a que las personas que reciben la subvención tengan que cumplir con sus obligaciones. Para estas operaciones, en el resto de las dimensiones se indicarán los valores que correspondan por defecto (no aplicable, resto de las situaciones, sin dato, etc.).
 
 – Operaciones procedentes de una subrogación del deudor: estas operaciones se declararán con un código diferente del código de la operación subrogada, aunque la entidad mantenga el mismo código a efectos de gestión. Los códigos de ambas operaciones se relacionarán en el módulo G.1, Datos básicos que vinculan códigos.
 
 Cuando una operación se declare a la CIR por dos entidades diferentes (por ejemplo, una como prestamista y otra como garante), cada entidad la declarará con su propio código.
 
-Relación entre contrato y operación
+## Relación entre contrato y operación.
 
 Debe cumplimentarse para indicar si el «Código de la operación» declarado en este módulo coincide con el código de contrato.
 
@@ -982,17 +1036,17 @@ La asignación de los valores anteriores se realizará aplicando los siguientes 
 
 – Verdadero: el código de la operación es el mismo que el código del contrato.
 
-– Falso: el código de la operación es distinto del código del contrato. En este caso, habrá que vincular en el módulo G.1, “Datos básicos que vinculan códigos”, el código de la operación con su código de contrato.
+– Falso: el código de la operación es distinto del código del contrato. En este caso, habrá que vincular en el módulo G.1, «Datos básicos que vinculan códigos», el código de la operación con su código de contrato.
 
 Este campo debe permanecer invariable durante la vida de la operación.
 
-Código del valor
+## Código del valor.
 
-Para los valores representativos de deuda propiedad de la entidad y para los valores representativos de deuda e instrumentos de patrimonio prestados a terceros o recibidos en préstamos de recompra inversa, salvo que para estos últimos el «Tipo de producto» sea «Garantías en efectivo entregadas en permutas de valores», el código público que tenga asignado el valor (ISIN, CUSIP, SEDOL, etc.), o, si no tiene asignado dicho valor, el código que utilice la entidad para identificarlo en la restante información sobre valores que se reporte al Banco de España.
+Para los valores representativos de deuda propiedad de la entidad y para los valores representativos de deuda e instrumentos de patrimonio prestados a terceros o recibidos en préstamos de recompra inversa, salvo que para estos últimos el «Tipo de producto» sea «Garantías en efectivo entregadas en permutas de valores», código público que tenga asignado el valor (ISIN, CUSIP, SEDOL, etc.), o, si no tiene asignado dicho valor, el código que utilice la entidad para identificarlo en la restante información sobre valores que se reporte al Banco de España.
 
-Para el resto de las operaciones no se declarará este dato.
+Para el resto de las operaciones, no se declarará este dato.
 
-Código ISIN
+## Código ISIN.
 
 Para las operaciones en las que se declare algún dato en la dimensión «Código del valor», indica si es un código ISIN:
 
@@ -1000,7 +1054,7 @@ Para las operaciones en las que se declare algún dato en la dimensión «Códig
 
 – No.
 
-Localización de la actividad (país de la operación)
+## Localización de la actividad (país de la operación).
 
 Código ISO alfabético del país en el que esté radicada la sucursal en la que esté registrada contablemente la operación.
 
@@ -1010,7 +1064,7 @@ Cuando el préstamo esté registrado en los libros de una sociedad instrumental 
 
 Parte 1. Datos que deben declarar todas las entidades declarantes
 
-Tipo de producto
+## Tipo de producto.
 
 Tipo de producto al que pertenece la operación:
 
@@ -1092,15 +1146,15 @@ a) Para los préstamos:
 
 – Arrendamiento financiero.
 
-– Arrendamiento financiero para el arrendatario.
+• Arrendamiento financiero para el arrendatario.
 
-– Otros arrendamientos.
+• Otros arrendamientos.
 
 – Préstamos de recompra inversa.
 
-– Garantías en efectivo entregadas en permutas de valores.
+• Garantías en efectivo entregadas en permutas de valores.
 
-– Resto de los préstamos de recompra inversa.
+• Resto de los préstamos de recompra inversa.
 
 b) Para los valores representativos de deuda:
 
@@ -1116,21 +1170,25 @@ c) Para las garantías financieras:
 
 • Resto.
 
+– Compromisos de riesgo de crédito de arrendamientos financieros para el arrendador.
+
 – Derivado de crédito (protección vendida).
 
 • Ante entidad declarante.
 
 • Resto.
 
-d) Para los compromisos de préstamo:
+d) Para los compromisos de préstamo.
 
-– Depósitos a futuro
+– Depósitos a futuro.
 
 e) Para los otros compromisos con riesgo de crédito:
 
 – Avales y cauciones no financieros prestados.
 
 • Avales por cantidades anticipadas en la construcción y venta de viviendas.
+
+• Compromisos de riesgo de crédito de arrendamientos operativos para el arrendador.
 
 • Resto de garantías no financieras concedidas.
 
@@ -1162,13 +1220,13 @@ a) Préstamos:
 
 Crédito comercial: créditos concedidos sobre la base de la compra de derechos de cobro (efectos u otros documentos) que surgen al aplazar el cobro de operaciones de compraventa de bienes o prestación de servicios. Estas operaciones incluyen el descuento de papel comercial, el factoring y el pago a proveedores.
 
-El crédito comercial se clasifica como «con recurso», y se considera como titular del riesgo directo al cedente cuando este retiene sustancialmente todos los riesgos y beneficios de los derechos de cobro, o cuando, sin transferirlos ni retenerlos sustancialmente, la entidad declarante no adquiere el control de sus flujos de efectivo, con independencia de cómo se denomine la operación en el contrato. Entre las operaciones con recurso, se incluyen el descuento de papel comercial y las operaciones de factoring en las que el cedente debe devolver el importe cobrado o pagar intereses de demora en caso de impago al vencimiento por el obligado al pago.
+El crédito comercial se clasifica como «con recurso», y se considera como titular del riesgo directo al cedente cuando este retiene sustancialmente todos los riesgos y beneficios de los derechos de cobro, o cuando, sin transferirlos ni retenerlos sustancialmente, la entidad declarante no adquiere el control de sus flujos de efectivo, con independencia de como se denomine la operación en el contrato. Entre las operaciones con recurso, se incluye el descuento de papel comercial y las operaciones de factoring en las que el cedente debe devolver el importe cobrado o pagar intereses de demora en caso de impago al vencimiento por el obligado al pago.
 
 El crédito comercial se clasifica como «sin recurso», y se considera como titular del riesgo directo al obligado al pago de la deuda cuando el cedente de los derechos de cobro transfiere sustancialmente todos los riesgos y beneficios, o cuando, sin transferirlos ni retenerlos sustancialmente, la entidad declarante adquiere el control de sus flujos de efectivo. Entre las operaciones sin recurso, se incluyen las operaciones de factoring en las que el cedente no debe devolver el principal ni pagar intereses de demora en caso de impago al vencimiento por el obligado al pago.
 
 Las operaciones sin recurso se clasifican como «pago a proveedores» cuando la entidad declarante entra en la operación como consecuencia de un contrato firmado con el obligado al pago por el que este se compromete a pagar a la entidad sus deudas con los proveedores a su vencimiento, o como factoring en los demás casos.
 
-A su vez, las operaciones sin recurso se clasifican como «con inversión» cuando la entidad declarante puede desembolsar el importe de la deuda a los cedentes antes de su vencimiento, o como «sin inversión» cuando únicamente se obliga a su pago el día de su vencimiento.
+A su vez, las operaciones sin recurso se clasifican como «con inversión» cuando la entidad declarante puede desembolsar el importe de la deuda a los cedentes antes de su vencimiento, o como «sin inversión cuando únicamente se obliga a su pago el día de su vencimiento.
 
 En las operaciones de crédito comercial, cualquiera que sea el producto, solo se debe declarar límite cuando la entidad tenga una línea comprometida con el cliente. A estos efectos, se entiende por línea comprometida de crédito comercial cuando la entidad haya firmado con los cedentes u obligados finales al pago un contrato por el que se compromete a aceptar operaciones hasta un límite durante un plazo determinado.
 
@@ -1180,9 +1238,9 @@ En las operaciones de crédito comercial, cualquiera que sea el producto, solo s
 
 – Resto de las cuentas de corresponsalía: saldos deudores de operaciones de corresponsalía que no cumplan los requisitos para calificarlas como cuentas mutuas.
 
-‒ Descubiertos en instituciones financieras monetarias: descubiertos en los que el titular sea una institución financiera monetaria.
+– Descubiertos en instituciones financieras monetarias: descubiertos en los que el titular sea una institución financiera monetaria.
 
-– Resto de depósitos distintos de préstamos de recompra inversa: depósitos distintos de «cuentas corrientes o de ahorro», «cuentas mutuas», «resto de cuentas de las cuentas de corresponsalía» y «préstamos de recompra inversa».
+– Resto de los depósitos distintos de préstamos de recompra inversa: depósitos distintos de «cuentas corrientes o de ahorro», cuentas mutuas», «resto de las cuentas de las cuentas de corresponsalía» y «préstamos de recompra inversa».
 
 – Descubiertos: descubiertos en depósitos a la vista. Se considerarán también descubiertos aquellos que se produzcan en cuentas corrientes con un límite de crédito autorizado para el cliente y comprometido por la entidad declarante. Se entiende que este límite de crédito se produce al amparo de un contrato en el que se especifican las condiciones en las que este límite puede ser usado, tanto si se establecen en el contrato original de cuenta corriente como si se incorporan posteriormente como una adenda a este. No obstante, los descubiertos en los que el titular sea una institución financiera monetaria se clasificarán como «Depósitos distintos de préstamos de recompra inversa».
 
@@ -1190,7 +1248,7 @@ En las operaciones de crédito comercial, cualquiera que sea el producto, solo s
 
 – Cuentas de crédito con disposiciones por etapas: operaciones que funcionan como cuentas corrientes en las que la entidad pone a disposición del cliente un límite máximo de endeudamiento, del que una parte solo se entrega al titular cuando se cumplen determinados requisitos (como es la entrega de certificaciones de obra) o se produce la subrogación, parcial o total, de la deuda por un tercero, tal y como ocurre en las operaciones conocidas como «cuentas de crédito a promotor».
 
-– Resto de las cuentas de crédito: operaciones que funcionan como cuentas corrientes en las que la entidad pone a disposición del cliente un límite máximo de endeudamiento, sin restricciones desde el inicio de la operación.
+– Resto de las cuentas de crédito: operaciones que funcionan como cuentas corrientes en las que la entidad pone a disposición del cliente un límite máximo de endeudamiento sin restricciones desde el inicio de la operación.
 
 – Préstamos con disposiciones por etapas: préstamos que no cumplen los criterios para clasificarlos como cuentas de crédito con entrega aplazada de principal al prestatario en los que una parte del importe solo se entrega al titular cuando se cumplen determinados requisitos (como es la entrega de certificaciones de obra) o se produce la subrogación, parcial o total, de la deuda por un tercero, tal y como ocurre con los conocidos como «préstamos promotor».
 
@@ -1204,45 +1262,49 @@ En las operaciones de crédito comercial, cualquiera que sea el producto, solo s
 
 – Derechos de cobro por subvenciones: en las operaciones subvencionadas, importe de los derechos de cobro imputables a las personas que las subvencionan.
 
-– Anticipos de pensión o nómina de Administraciones Públicas: anticipos sobre pensiones y nóminas correspondientes al mes siguiente, siempre que la entidad pagadora sea una Administración Pública y aquellas estén domiciliadas en la entidad declarante.
+– Anticipos de pensión o nómina de las Administraciones Públicas: anticipos sobre pensiones y nóminas correspondientes al mes siguiente, siempre que la entidad pagadora sea una Administración Pública y aquellas estén domiciliadas en la entidad declarante.
 
 – Activos procedentes de operaciones fuera de balance: importes registrados en el activo del balance como consecuencia de incumplimientos por los titulares de operaciones fuera de balance, tales como activos que surjan como consecuencia de préstamos de valores incumplidos o pagos a los beneficiarios o importes exigidos por estos de garantías financieras o avales y cauciones no financieros por incumplimiento de las personas cuyos riesgos estaban garantizados, o impago de las comisiones vencidas que cobre la entidad por este tipo de operaciones. El código de estas operaciones se debe vincular con el de las operaciones de las que proceden en el módulo G.1, Datos básicos que vinculan códigos.
 
-– Derivados impagados: importes vencidos y pendientes de cobro de derivados con saldo favorable para la entidad declarante a su vencimiento.
+– Derivados impagados: importe vencido y pendiente de cobro de derivados con saldo favorable para la entidad declarante a su vencimiento.
 
 – Resto de los préstamos a la vista: operaciones a la vista con naturaleza de préstamos a efectos de los requerimientos estadísticos de la Unión Europea no incluidas en los valores anteriores.
 
-– Resto de los préstamos a plazo distintos de depósitos: préstamos en los que el prestatario dispone de la totalidad del principal en el inicio de la operación y no cumplen los criterios para clasificarlos como «depósitos», «hipotecas inversas» o «préstamos híbridos».
+– Resto de los préstamos a plazo distintos de depósitos: préstamos en los que el prestatario dispone de la totalidad del principal en el inicio de la operación y que no cumplen los criterios para clasificarlos como «depósitos», «hipotecas inversas» o «préstamos híbridos».
 
 – Arrendamientos financieros: operaciones de arrendamiento que la entidad declarante registra contablemente como préstamos porque ha transferido sustancialmente todos los riesgos y beneficios inherentes a la propiedad del activo objeto del contrato. Este concepto recoge las cuotas que se han de pagar por el arrendatario.
 
-Los arrendamientos financieros se clasifican como “Arrendamiento financiero para el arrendatario” cuando este adquiere sustancialmente todos los riesgos y beneficios inherentes a la propiedad del activo, o como “Otros arrendamientos” cuando la entidad declarante registre contablemente la operación como arrendamiento financiero exclusivamente porque haya terceros distintos de los arrendatarios que se hayan comprometido a efectuar determinados pagos.
+Los arrendamientos financieros se clasifican como «Arrendamiento financiero para el arrendatario» cuando este adquiere sustancialmente todos los riesgos y beneficios inherentes a la propiedad del activo, o como «Otros arrendamientos» cuando la entidad declarante registre contablemente la operación como arrendamiento financiero exclusivamente porque haya terceros distintos de los arrendatarios que se hayan comprometido a efectuar determinados pagos.
 
 – Préstamos de recompra inversa: financiación concedida a cambio de valores u oro adquiridos mediante pactos de recompra con retrocesión no opcional, o recibidos en contratos de préstamo de valores. Estas operaciones se clasifican como «Garantías en efectivo entregadas en permutas de valores» cuando corresponden al importe de las garantías en efectivo entregadas en permutas de valores, y como «Resto de los préstamos de recompra inversa» en los demás casos.
 
 b) Valores representativos de deuda:
 
-Los valores representativos de deuda son las obligaciones y demás valores que creen o reconozcan una deuda para su emisor, incluso los efectos negociables emitidos para su negociación entre un colectivo abierto de inversionistas, que devenguen una remuneración consistente en un interés, implícito o explícito, cuyo tipo, fijo o definido por referencia a otros, se establezca contractualmente, o incorporen un derivado implícito con características y riesgos económicos distintos a los del contrato principal, y se instrumenten en títulos o en anotaciones en cuenta, cualquiera que sea el sujeto emisor, excepto si pertenece al sector hogares.
+Los valores representativos de deuda son las obligaciones y demás valores que creen o reconozcan una deuda para su emisor, incluso los efectos negociables emitidos para su negociación entre un colectivo abierto de inversionistas, que devenguen una remuneración consistente en un interés, implícito o explícito, cuyo tipo, fijo o definido por referencia a otros, se establezca contractualmente, o incorporen un derivado implícito con características y riesgos económicos distintos a los del contrato principal y se instrumenten en títulos o en anotaciones en cuenta, cualquiera que sea el sujeto emisor, excepto si pertenece al sector Hogares.
 
 Las tenencias de valores representativos de deuda emitidos por la propia entidad declarante no se declaran a la CIR.
 
 c) Garantías financieras:
 
-Las garantías financieras son contratos que exigen que el emisor efectúe pagos específicos para reembolsar al acreedor por la pérdida en la que incurre cuando un deudor específico incumple su obligación de pago de acuerdo con las condiciones, originales o modificadas, de un instrumento de deuda (valor representativo de deuda, préstamo o saldo deudor, cualquiera que sea el origen de la deuda), con independencia de su forma jurídica. Incluye las operaciones que garantizan a su vez operaciones que cumplen la definición de garantías financieras. En función de la forma en la que se instrumenten, se clasifican en:
+Las garantías financieras son contratos que exigen que el emisor efectúe pagos específicos para reembolsar al acreedor por la pérdida en la que incurre cuando un deudor específico incumple su obligación de pago de acuerdo con las condiciones, originales o modificadas, de un instrumento de deuda (valor representativo de deuda, préstamo o saldo deudor cualquiera que sea el origen de la deuda), con independencia de su forma jurídica. Incluye las operaciones que garantizan a su vez operaciones que cumplen la definición de garantías financieras. En función de la forma en la que se instrumenten, se clasifican en:
 
 – Avales financieros: operaciones en las que la garantía financiera la contrata el emisor u obligado al pago de los instrumentos de deuda que se garantizan.
+
+– Compromisos de riesgo de crédito de arrendamientos financieros para el arrendador: compromisos en los que se asegura el riesgo de crédito de un arrendamiento financiero para el arrendador.
 
 – Derivados de crédito (protección vendida): operaciones en las que la garantía financiera la contrata quien compra la protección, es decir, el beneficiario de la garantía.
 
 Las garantías financieras se dividen en «Ante entidad declarante», «Solidarias con otras entidades declarantes» y «Resto». Las primeras incluyen los contratos en los que los beneficiarios de la garantía son entidades declarantes a la CIR; las segundas, aquellos en los que la entidad declarante garantiza de forma solidaria junto con otra u otras entidades declarantes, y las terceras, el resto de las garantías.
 
-d) Compromisos de préstamo:
+d) Compromisos de préstamo.
 
 – Depósitos a futuro: operaciones en las que la entidad se compromete a dar en una determinada fecha un préstamo (o a efectuar un depósito) a un tipo y plazo especificado.
 
 e) Otros compromisos con riesgo de crédito:
 
 – Avales por cantidades anticipadas en la construcción y venta de viviendas: avales regulados por la Ley 57/1968, de 27 de julio, sobre percibo de cantidades anticipadas en la construcción y venta de viviendas, y equivalentes.
+
+– Compromisos de riesgo de crédito de arrendamientos operativos para el arrendador: compromisos en los que se asegura el riesgo de crédito de un arrendamiento operativo para el arrendador.
 
 – Resto de garantías no financieras concedidas: toda clase de garantías distintas de las garantías financieras concedidas y los avales por cantidades anticipadas en la construcción y venta de viviendas en las que la entidad se obliga a compensar a un beneficiario en caso de incumplimiento de una obligación específica. Incluye operaciones tales como las fianzas dadas para asegurar la participación en subastas y concursos o el buen fin de una obra u operación, cualquier otra clase de avales técnicos, los avales de importación y exportación de bienes y servicios, las promesas de aval formalizadas irrevocables, las cartas de garantía en cuanto puedan ser exigibles por derecho y los afianzamientos de cualquier tipo. Estas garantías se dividen en «Ante entidad declarante», «Solidarios con otras entidades declarantes» y «Resto».
 
@@ -1258,11 +1320,11 @@ e) Otros compromisos con riesgo de crédito:
 
 f) Préstamos de valores:
 
-– Valores prestados: operaciones en las que la entidad declarante cede al prestatario la plena titularidad de unos valores con el compromiso de devolver otros de la misma clase de los recibidos, sin que este efectúe ningún desembolso, salvo el pago de comisiones. Cuando en una operación de préstamo de valores ambas entidades intercambien valores, se considerará entidad prestamista la que cobre las comisiones. Esta tratará como activos recibidos en garantía de la operación los valores que haya recibido de la contraparte (que normalmente tendrán un valor razonable mayor que el de los valores prestados).
+– Valores prestados: operaciones en las que la entidad declarante cede al prestatario la plena titularidad de unos valores con el compromiso de devolver otros de la misma clase que los recibidos, sin que este efectúe ningún desembolso, salvo el pago de comisiones. Cuando en una operación de préstamo de valores ambas entidades intercambien valores, se considerará entidad prestamista la que cobre las comisiones. Esta tratará como activos recibidos en garantía de la operación los valores que haya recibido de la contraparte (que normalmente tendrán un valor razonable mayor que el de los valores prestados).
 
-A cada operación se le asigna un solo tipo de producto durante su vida, con independencia de que tenga importes vencidos pendientes de cobro, sin perjuicio del tratamiento específico para los activos procedentes de operaciones fuera de balance; por tanto, el valor «Resto de los préstamos a la vista» incluirá operaciones distintas de importes vencidos de otros productos.
+A cada operación se le asigna un solo tipo de producto durante su vida con independencia de que tenga importes vencidos pendientes de cobro, sin perjuicio del tratamiento específico para los activos procedentes de operaciones fuera de balance; por tanto, el valor «Resto de los préstamos a la vista» incluirá operaciones distintas de importes vencidos de otros productos.
 
-Subordinación del producto
+## Subordinación del producto.
 
 Para los préstamos y valores representativos de deuda, indica si se trata de una operación subordinada:
 
@@ -1280,9 +1342,9 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – No subordinado: préstamos y valores representativos de deuda que no cumplen la definición para ser calificados como subordinados.
 
-Operación para la financiación de un proyecto
+## Operación para la financiación de un proyecto.
 
-Para los préstamos y valores representativos de deuda, se indica si se trata de una operación para la financiación de un proyecto según se define en el anejo V del Reglamento de Ejecución (UE) n.º 680/2014, por el que se establecen normas técnicas de ejecución en relación con la comunicación de información con fines de supervisión por parte de las entidades, de conformidad con el Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo:
+Para los préstamos y valores representativos de deuda se indica si se trata de una operación para la financiación de un proyecto según se define en el anejo V del Reglamento de Ejecución (UE) n.º 680/2014, por el que se establecen normas técnicas de ejecución en relación con la comunicación de información con fines de supervisión por parte de las entidades, de conformidad con el Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo:
 
 – Operación para la financiación de un proyecto.
 
@@ -1292,7 +1354,7 @@ Para el resto de las operaciones, se declarará:
 
 – No aplicable.
 
-Tipo de riesgo asociado a los derivados
+## Tipo de riesgo asociado a los derivados.
 
 Para los derivados impagados y los préstamos híbridos y valores representativos de deuda híbridos, tipo de riesgo que se asume en los derivados impagados o en los derivados implícitos con características y riesgos económicos distintos a los del contrato principal:
 
@@ -1314,9 +1376,9 @@ Para el resto de las operaciones, se declarará:
 
 – No aplicable.
 
-Finalidad de la operación
+## Finalidad de la operación.
 
-Finalidad a la que se destina la operación, con independencia de la actividad económica que, en su caso, realice el titular.
+Finalidad a la que se destina la operación con independencia de la actividad económica que, en su caso, realice el titular.
 
 Esta dimensión la facilitarán exclusivamente las entidades de crédito, las sucursales en España de entidades de crédito extranjeras y los establecimientos financieros de crédito, las sociedades de garantía recíproca, las sociedades de reafianzamiento y la Sareb; las restantes entidades no declararán este dato.
 
@@ -1450,7 +1512,7 @@ b) Para el resto de los préstamos:
 
 • Financiación de construcción de barcos y aeronaves.
 
-– Financiación del circulante.
+– Financiación de circulante.
 
 • Financiación de circulante.
 
@@ -1470,7 +1532,7 @@ b) Para el resto de los préstamos:
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-– Adquisición de bienes inmuebles residenciales: financiación de propiedades residenciales según se definen en el artículo 4, apartado 1, punto 75, del Reglamento (UE) n.º 575/2013; es decir, de inmuebles residenciales ocupados por sus propietarios o por el arrendatario del inmueble.
+– Adquisición de bienes inmuebles residenciales: financiación de propiedades residenciales según se definen en el artículo 4, apartado 1, punto 75, del Reglamento (UE) n.º 575/2013; es decir, de inmuebles residenciales ocupados por su propietarios o por el arrendatario del inmueble.
 
 – Adquisición de edificios o parte de edificios comerciales para uso propio: financiación de la adquisición de edificios o parte de edificios distintos de propiedades residenciales para uso por el prestatario.
 
@@ -1478,7 +1540,7 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Adquisición de activos inmobiliarios comerciales adjudicados o recibidos en pago de deudas: financiación de la adquisición de inmuebles distintos de las propiedades residenciales adjudicados o recibidos en pago de deudas.
 
-– Adquisición del resto de los terrenos: se asignará a las adquisiciones de terrenos para los que no se hayan iniciado o vayan a iniciar construcciones.
+– Adquisición del resto de los terrenos: se asignará a las adquisiciones de terrenos para los que no se hayan iniciado o se vayan a iniciar construcciones.
 
 – Adquisición de activos inmobiliarios comerciales para otras finalidades: financiación de la adquisición de inmuebles distintos de las propiedades residenciales para finalidades diferentes de las enumeradas en los guiones anteriores.
 
@@ -1492,11 +1554,11 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Financiación de construcción para uso propio: financiación de la construcción de inmuebles para uso por el prestatario.
 
-– Financiación de construcción o promoción inmobiliaria (viviendas, oficinas, locales comerciales y naves polivalentes, y resto de los edificios): operaciones cuya finalidad sea la promoción de viviendas o edificios durante su fase de construcción y hasta su efectiva venta o alquiler. No incluye, por tanto, las autopromociones para uso propio. Las financiaciones se distribuyen en función del tipo de inmueble financiado. A su vez, las viviendas se desglosan, en función de su naturaleza, en viviendas de protección oficial, otras viviendas de primera residencia (aquellas que predominantemente vayan a ser adquiridas para destinarlas a residencia habitual) y resto de las viviendas. Los restantes edificios se desglosan según sean o no de uso polivalente. A estos efectos, se consideran oficinas, locales y naves polivalentes aquellos, vinculados o no a una explotación económica, que no incorporan características o elementos constructivos o normativos que limiten o dificulten su uso para diferentes actividades, sin grandes transformaciones o cambios, lo que puede facilitar su fácil realización en efectivo.
+– Financiación de construcción o promoción inmobiliaria (viviendas, oficinas, locales comerciales y naves polivalentes, y resto de los edificios): operaciones cuya finalidad sea la promoción de viviendas o edificios durante su fase de construcción y hasta su efectiva venta o alquiler. No incluye, por tanto, las autopromociones para uso propio. Las financiaciones se distribuyen en función del tipo de inmueble financiado. A su vez las viviendas se desglosan en función de su naturaleza en viviendas de protección oficial, otras viviendas de primera residencia (aquellas que predominantemente vayan a ser adquiridas para destinarlas a residencia habitual) y resto de las viviendas. Los restantes edificios se desglosan según sean o no de uso polivalente. A estos efectos, se consideran oficinas, locales y naves polivalentes aquellos, vinculados o no a una explotación económica, que no incorporan características o elementos constructivos o normativos que limiten o dificulten su uso para diferentes actividades, sin grandes transformaciones o cambios, lo que puede facilitar su fácil realización en efectivo.
 
 – Financiación de construcción o promoción inmobiliaria. Actividad general: financiaciones a empresas dedicadas a la construcción o promoción inmobiliaria que se destinen a dicha actividad sin estar asignadas a una promoción o construcción concreta. No incluye las operaciones destinadas a las industrias auxiliares de la construcción, tales como instalaciones eléctricas, fontanería, carpintería, pintura, etc.
 
-– Financiación de suelo para promoción inmobiliaria: operaciones destinadas a la compra o urbanización de suelo destinado a la promoción inmobiliaria, por lo que no incluye los suelos para autopromociones para uso propio. Estas operaciones se clasificarán, en primer lugar, en función de la clasificación urbanista del suelo financiado (suelo urbano o urbanizable y no urbanizable con expectativas urbanísticas) y, adicionalmente, en función de su uso predominante (residencial y resto de los usos). Los criterios para la clasificación urbanística y uso son los incluidos en las dimensiones «Tipo de activo (inmuebles)» y «Finca rústica con expectativas urbanísticas» del módulo D.2, Datos básicos de los inmuebles recibidos en garantía. Las financiaciones se clasificarán con esta finalidad mientras no se haya iniciado la construcción de edificios.
+– Financiación de suelo para promoción inmobiliaria: operaciones destinadas a la compra o urbanización de suelo destinado a la promoción inmobiliaria, por lo que no incluye los suelos para autopromociones para uso propio. Estas operaciones se clasificarán, en primer lugar, en función de la clasificación urbanística del suelo financiado (suelo urbano o urbanizable y no urbanizable con expectativas urbanísticas) y, adicionalmente, en función de su uso predominante (residencial y resto de los usos). Los criterios para la clasificación urbanística y uso son los incluidos en las dimensiones «Tipo de activo (inmuebles)» y «Finca rústica con expectativas urbanísticas» del módulo D.2, Datos básicos de los inmuebles recibidos en garantía. Las financiaciones se clasificarán con esta finalidad mientras no se haya iniciado la construcción de edificios.
 
 – Financiación de construcción de obra civil: incluye las operaciones destinadas a construcción de obras civiles, tales como carreteras, puentes, canales, puertos, etc.
 
@@ -1600,7 +1662,7 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Aplazamiento de pago en compraventa de bienes en el mercado interior: garantías financieras del aplazamiento de pago en compraventas de bienes en el mercado interior.
 
-f) Para las operaciones declaradas como «avales y cauciones no financieros prestados» a hogares (empresarios individuales y resto), siempre que no se destinen a actividades empresariales:
+f) Para las operaciones declaradas como «Avales y cauciones no financieros prestados» a hogares (empresarios individuales y resto,) siempre que no se destinen a actividades empresariales:
 
 – Obligaciones ante aduanas, hacienda, tribunales y organismos públicos (hogares).
 
@@ -1608,9 +1670,9 @@ f) Para las operaciones declaradas como «avales y cauciones no financieros pres
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-– Obligaciones ante aduanas, hacienda, tribunales y organismos públicos (hogares): incluye las que tengan esa finalidad, salvo que consistan en garantías financieras para el aplazamiento de pago de deudas, cuando los titulares pertenezcan al sector hogares y no se destinen a actividades empresariales.
+– Obligaciones ante Aduanas, Hacienda, tribunales y organismos públicos (hogares): incluye las que tengan esa finalidad, salvo que consistan en garantías financieras para el aplazamiento de pago de deudas, cuando los titulares pertenezcan al sector hogares y no se destinen a actividades empresariales.
 
-g) Para las operaciones declaradas como «avales y otras cauciones no financieros prestados» a personas jurídicas y hogares que realizan actividades empresariales:
+g) Para las operaciones declaradas como “Avales y otras cauciones no financieros prestados” a personas jurídicas y hogares que realizan actividades empresariales:
 
 – Exportación.
 
@@ -1632,7 +1694,7 @@ g) Para las operaciones declaradas como «avales y otras cauciones no financiero
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-– Obligaciones ante aduanas, hacienda, tribunales y organismos públicos (resto): incluye las que tengan esa finalidad, salvo que consistan en garantías financieras para el aplazamiento de pago de deudas cuando los titulares no pertenezcan al sector hogares o se destinen a actividades empresariales.
+– Obligaciones ante Aduanas, Hacienda, tribunales y organismos públicos (resto): incluye las que tengan esa finalidad, salvo que consistan en garantías financieras para el aplazamiento del pago de deudas cuando los titulares no pertenezcan al sector hogares o se destinen a actividades empresariales.
 
 h) Para los créditos documentarios:
 
@@ -1650,13 +1712,13 @@ Cuando una operación clasificada inicialmente como «Financiación de suelo par
 
 Para los activos procedentes de operaciones fuera de balance, se declarará la misma finalidad de la operación originaria que dé lugar al activo. En particular, en los activos originados por la ejecución de las garantías financieras se pondrá especial diligencia en declarar la finalidad de la financiación que es objeto de la garantía.
 
-En caso de no poderse concretar la finalidad de los activos procedentes de operaciones fuera de balance, así como en aquellas operaciones que por su naturaleza intrínseca son transitorias, tales como descubiertos, anticipo de pensión o nómina, derivados impagados y resto de los préstamos a la vista, se declarará como finalidad «Otros fines. Resto» cuando los titulares directos pertenezcan al sector «Hogares (empresarios individuales o resto)», siempre que las operaciones no se destinen a actividades empresariales, o «Resto de las finalidades», para el resto de los titulares.
+En caso de no poderse concretar la finalidad de los activos procedentes de operaciones fuera de balance, así como en aquellas operaciones que por su naturaleza intrínseca son transitorias, tales como descubiertos, anticipo de pensión o nómina, derivados impagados y resto de los préstamos a la vista, se declarará como finalidad «Otros fines. Resto» cuando los titulares directos pertenezcan al sector «Hogares (empresarios individuales o resto)» siempre que las operaciones no se destinen a actividades empresariales, o «Resto de las finalidades», para el resto de los titulares.
 
-Trámites legales realizados para recuperar la operación
+## Trámites legales realizados para recuperar la operación.
 
 Tipo de trámites legales que, en su caso, se hayan realizado para recuperar la operación.
 
-Esta dimensión la facilitarán exclusivamente las entidades de crédito, las sucursales en España de entidades de crédito extranjeras y los establecimientos financieros de crédito, las sociedades de garantía recíproca, las sociedades de reafianzamiento y la Sareb; las restantes entidades la dejarán en blanco.
+Esta dimensión la facilitarán exclusivamente las entidades de crédito, las sucursales en España de entidades de crédito extranjeras y los establecimientos financieros de crédito, las sociedades de garantía recíproca, las sociedades de reafianzamiento y Sareb; las restantes entidades la dejarán en blanco.
 
 Los valores son:
 
@@ -1678,9 +1740,9 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Resto de las situaciones: cuando la operación no esté en ninguna de las situaciones descritas en los valores anteriores.
 
-Principal o nocional al inicio de la operación
+## Principal o nocional al inicio de la operación.
 
-Para los «préstamos híbridos» y «resto de préstamos a plazo distintos de depósitos y resto de depósitos distintos de préstamos de recompra inversa», el importe del principal al inicio de la operación.
+Para los «préstamos híbridos» y «resto de préstamos a plazo distintos de depósitos y resto de los depósitos distintos de préstamos de recompra inversa», el importe del principal al inicio de la operación.
 
 Para los efectos financieros, el valor desembolsado a la fecha de formalización.
 
@@ -1694,7 +1756,7 @@ Este importe no se modificará durante la vida de la operación, aunque se vaya 
 
 Cuando las operaciones estén denominadas en monedas diferentes del euro, se declarará el importe del contravalor de la moneda en euros en la fecha de su formalización. Este importe no se actualizará con posterioridad como consecuencia de la variación del tipo de cambio.
 
-Límite máximo a disposición del prestatario al inicio de la operación
+## Límite máximo a disposición del prestatario al inicio de la operación.
 
 Para los préstamos y otros compromisos con riesgo de crédito que tengan un límite de disposición comprometido con los titulares que pueda ser superior al importe dispuesto, límite máximo, en la fecha de origen de la operación, del principal que se ha de facilitar al prestatario, aunque pueda ser anulado por la entidad sin condiciones en cualquier momento y sin previo aviso, o se prevea su cancelación en caso de deterioro de la solvencia del titular.
 
@@ -1704,15 +1766,15 @@ En las cuentas de crédito y préstamos con disposiciones por etapas, el límite
 
 En las operaciones de crédito comercial, importe de la línea comprometida formalmente con los titulares según se define en la dimensión «Tipo de producto» de este módulo.
 
-En los derechos de cobro por subvenciones, cuando se subvencione el principal, importe máximo del principal subvencionado, siempre que su pago esté condicionado a que las personas que reciben la subvención tengan que cumplir con sus obligaciones.
+En los derechos de cobro por subvenciones, cuando se subvencione el principal, importe máximo del principal subvencionado siempre que su pago esté condicionado a que las personas que reciben la subvención tengan que cumplir con sus obligaciones.
 
 En los disponibles en otros compromisos (pólizas de riesgo global-multiuso, líneas de avales, líneas de créditos documentarios y créditos por disposiciones), el límite es el importe máximo del riesgo comprometido con los titulares en la fecha de origen de la operación.
 
-Para el resto de operaciones no se declarará este dato.
+Para el resto de las operaciones no se declarará este dato.
 
 Cuando las operaciones estén denominadas en monedas diferentes del euro, se declarará el importe del contravalor de la moneda en euros en la fecha de su formalización. Este importe no se actualizará con posterioridad como consecuencia de la variación del tipo de cambio.
 
-Fecha de formalización o emisión
+## Fecha de formalización o emisión.
 
 Fecha de formalización de la operación con el titular, o de emisión de los valores representativos de deuda, con independencia de que la entidad declarante haya adquirido la operación con posterioridad.
 
@@ -1720,7 +1782,7 @@ La fecha de formalización hace referencia a la fecha en que el contrato es vinc
 
 Este dato se facilita para todas las operaciones.
 
-Para las operaciones en que no se haya firmado un contrato específico, como pudiera ser el caso de «cuentas corrientes y de ahorro», «cuentas mutuas», «descubiertos», «anticipos de pensiones o nóminas», «derechos de cobro por subvenciones», «activos procedentes de operaciones fuera de balance» y «resto de los préstamos a la vista», se indicará la primera fecha de disposición de los fondos.
+Para las operaciones en que no se haya firmado un contrato específico como pudiera ser el caso de «cuentas corrientes y de ahorro», «cuentas mutuas», «descubiertos», «anticipos de pensiones o nóminas», «derechos de cobro por subvenciones», «activos procedentes de operaciones fuera de balance» y «resto de los préstamos a la vista», se indicará la primera fecha de disposición de los fondos.
 
 Para las operaciones declaradas como crédito comercial, también será la primera fecha en que hubiera dispuesto de fondos el deudor, salvo que se hubiera firmado una línea comprometida de crédito comercial.
 
@@ -1732,7 +1794,7 @@ En caso de que el préstamo hubiera sido adquirido, la fecha de formalización s
 
 Formato: AAAAMMDD.
 
-Fecha de vencimiento
+## Fecha de vencimiento.
 
 Fecha del vencimiento final de la operación, incluso en las operaciones con amortizaciones periódicas.
 
@@ -1740,7 +1802,7 @@ Este dato se facilita para las operaciones con vencimiento pactado contractualme
 
 Para los depósitos a futuro, es la fecha en la que la entidad se ha comprometido a efectuar el préstamo o depósito.
 
-Para los productos sin vencimiento pactado contractualmente (por ejemplo, operaciones de crédito comercial diferentes a líneas contractualmente comprometidas, «hipotecas inversas», «cuentas corrientes y de ahorro», «cuentas mutuas», «resto de cuentas de corresponsalía», «descubiertos», «», «anticipos de pensiones o nóminas», «tarjetas de crédito», «derechos de cobro por subvenciones», «activos procedentes de operaciones fuera de balance», «derivados impagados» y «resto de los préstamos a la vista»), se declarará el valor «No aplicable».
+Para los productos sin vencimiento pactado contractualmente (por ejemplo, operaciones de crédito comercial diferentes a líneas contractualmente comprometidas, «hipotecas inversas», «cuentas corrientes y de ahorro», «cuentas mutuas», «resto de cuentas de corresponsalía», «descubiertos», «anticipos de pensiones o nóminas», «tarjetas de crédito», «derechos de cobro por subvenciones», «activos procedentes de operaciones fuera de balance», «derivados impagados» y «resto de los préstamos a la vista)», se declarará el valor «No aplicable».
 
 Este dato se tiene que modificar si varía la fecha de vencimiento de la operación.
 
@@ -1748,7 +1810,7 @@ Formato: AAAAMMDD.
 
 Parte 2. Datos adicionales que deben declarar las entidades de crédito, las sucursales en España de entidades de crédito extranjeras y los establecimientos financieros de crédito
 
-Origen de la operación
+## Origen de la operación.
 
 Indica cómo se ha originado la operación:
 
@@ -1782,19 +1844,19 @@ Indica cómo se ha originado la operación:
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-– Originada por la entidad: operaciones concedidas directamente por la entidad a los titulares, así como aquellas que se clasifiquen como crédito comercial sin recurso, salvo que cumplan los requisitos para clasificarlas con otro valor. Incluye los préstamos de recompra inversa, tanto las que se formalizan como simultáneas como las que se instrumentan como repos.
+– Originada por la entidad: operaciones concedidas directamente por la entidad a los titulares, así como aquellas que se clasifiquen como crédito comercial sin recurso, salvo que cumplan los requisitos para clasificarlas con otro valor. Incluye los préstamos de recompra inversa, tanto los que se formalizan como simultáneas como los que se instrumentan como repos.
 
 – Subrogación del deudor: operaciones en las que, por una subrogación, se produzca un cambio de titular. La nueva operación se debe vincular con la operación de la que procede en el módulo G.1, Datos básicos que vinculan códigos.
 
-– Subrogación del acreedor (procedente de operaciones de otra entidad, declarante o no, perteneciente al mismo grupo económico o de otra entidad ajena al grupo económico): operaciones en las que la entidad declarante pasa a ser la entidad acreedora porque el deudor haya hecho una subrogación del acreedor de otra operación. En las operaciones procedentes de otras entidades declarantes del mismo grupo económico, la nueva operación se debe vincular con la operación de la que procede en el módulo G.1, Datos básicos que vinculan códigos.
+– Subrogación del acreedor (procedente de operaciones de otra entidad, declarante o no, perteneciente al mismo grupo económico o de otra entidad ajena al grupo económico): operaciones en las que la entidad declarante pasa a ser la entidad acreedora porque el deudor ha hecho una subrogación del acreedor de otra operación. En las operaciones procedentes de otras entidades declarantes del mismo grupo económico, la nueva operación se debe vincular con la operación de la que procede en el módulo G.1, Datos básicos que vinculan códigos.
 
 – Segregada de otra operación de la entidad: operación segregada de otra operación de la entidad declarante. La operación segregada se debe vincular con la operación de la que procede en el módulo G.1, Datos básicos que vinculan códigos.
 
-– Adquisición manteniendo la gestión otra entidad: adquisición de préstamos mediante participaciones hipotecarias, certificados de transmisión hipotecaria u otro tipo de transferencias en las que la entidad cedente no es entidad declarante, o es una entidad declarante que no tenga que declarar de forma individualizada la operación a la CIR, y continúa con la gestión de los riesgos frente al titular.
+– Adquisición manteniendo la gestión otra entidad: adquisición de préstamos mediante participaciones hipotecarias, certificados de transmisión hipotecaria u otro tipo de transferencias en las que la entidad cedente no es entidad declarante, o es una entidad declarante que no tiene que declarar de forma individualizada la operación a la CIR, y continúa con la gestión de los riesgos frente al titular.
 
-– Adquisiciones en firme: adquisiciones en el mercado primario o secundario de valores representativos de deuda, así como adquisiciones del resto de operaciones, excepto las que se clasifiquen como crédito comercial sin recurso, siempre que no se trate del traspaso de la actividad financiera de otra entidad de crédito o de una combinación de negocios.
+– Adquisiciones en firme: adquisiciones en el mercado primario o secundario de valores representativos de deuda, así como adquisiciones del resto de las operaciones, excepto las que se clasifiquen como crédito comercial sin recurso, siempre que no se trate del traspaso de la actividad financiera de otra entidad de crédito o de una combinación de negocios.
 
-– Venta de activos de la entidad declarante o de su grupo económico: operaciones utilizadas para financiar activos vendidos por la propia entidad declarante u otra entidad de su grupo económico, aunque la entidad adquirente pertenezca al mismo grupo económico de la entidad declarante.
+– Venta de activos de la entidad declarante o de su grupo económico: operaciones utilizadas para financiar activos vendidos por la propia entidad declarante u otra entidad de su grupo económico, aunque la entidad adquirente pertenezca al mismo grupo económico que la entidad declarante.
 
 – Activos procedentes de operaciones fuera de balance: operaciones declaradas como «Activos procedentes de operaciones fuera de balance» en la dimensión «Tipo de producto» de este módulo. Estas operaciones se deben vincular con las operaciones de las que proceden en el módulo G.1, Datos básicos que vinculan códigos.
 
@@ -1806,9 +1868,9 @@ Cuando una operación pueda tener diferentes orígenes, se asignará al de mayor
 
 Cuando la operación proceda del traspaso de la actividad financiera de otra entidad o de una combinación de negocios (por ejemplo, una fusión o la adquisición de todos o parte de los negocios de otras entidades), como origen de la operación se declarará el que hubiese declarado a la CIR la entidad cedente (o el que le hubiese correspondido declarar).
 
-Estado de refinanciaciones y reestructuraciones
+## Estado de refinanciaciones y reestructuraciones.
 
-Indica si la operación ha sido novada, refinanciada o refinancia otra u otras operaciones:
+Indica si la operación ha sido novada, ha sido refinanciada o refinancia otra u otras operaciones:
 
 – Operación de refinanciación.
 
@@ -1840,21 +1902,31 @@ Indica si la operación ha sido novada, refinanciada o refinancia otra u otras o
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-– Operación de refinanciación (de operaciones de la entidad o de otras entidades del mismo grupo económico, declarantes o no): operación que, cualquiera que sea el tipo de producto (incluidos descubiertos), titular o garantías, se concede o se utiliza, por razones económicas o legales relacionadas con dificultades financieras ‒actuales o previsibles‒ del titular (o titulares), para cancelar una o varias operaciones concedidas, por la propia entidad o por otras entidades de su grupo, al titular (o titulares) o a otra u otras empresas de su grupo económico, o por la que se pone a dichas operaciones total o parcialmente al corriente de pagos, con el fin de facilitar a los titulares de las operaciones canceladas o refinanciadas el pago de su deuda (principal e intereses) porque no puedan, o se prevea que no vayan a poder, cumplir en tiempo y forma con sus condiciones. Las operaciones de refinanciación de otras operaciones de la entidad o de otras entidades declarantes de su mismo grupo económico se deben vincular con las operaciones refinanciadas en el módulo G.1, Datos básicos que vinculan códigos.
+– Operación de refinanciación (de operaciones de la entidad o de otras entidades del mismo grupo económico declarantes o no): operación que, cualquiera que sea el tipo de producto (incluidos descubiertos), titular o garantías, se concede o se utiliza, por razones económicas o legales relacionadas con dificultades financieras –actuales o previsibles– del titular (o titulares), para cancelar una o varias operaciones concedidas, por la propia entidad o por otras entidades de su grupo, al titular (o titulares) o a otra u otras empresas de su grupo económico, o por la que se pone a dichas operaciones total o parcialmente al corriente de pagos, con el fin de facilitar a los titulares de las operaciones canceladas o refinanciadas el pago de su deuda (principal e intereses) porque no pueden, o se prevea que no van a poder, cumplir en tiempo y forma con sus condiciones. Las operaciones de refinanciación de otras operaciones de la entidad o de otras entidades declarantes de su mismo grupo económico se deben vincular con las operaciones refinanciadas en el módulo G.1, Datos básicos que vinculan códigos.
 
-– Operación refinanciada (por la entidad u otras entidades del mismo grupo económico, declarantes o no): operación que se pone total o parcialmente al corriente de pago como consecuencia de una operación de refinanciación realizada por la propia entidad u otra entidad de su grupo económico.
+– Operación refinanciada (por la entidad u otras entidades del mismo grupo económico declarantes o no): operación que se pone total o parcialmente al corriente de pago como consecuencia de una operación de refinanciación realizada por la propia entidad u otra entidad de su grupo económico.
 
-– Operación reestructurada (conforme al Real Decreto-ley 6/2012 y el resto de operaciones reestructuradas): operación en la que, por razones económicas o legales relacionadas con dificultades financieras, actuales o previsibles, del titular (o titulares), se modifican sus condiciones financieras con el fin de facilitar el pago de la deuda (principal e intereses) porque el titular no pueda, o se prevea que no vaya a poder, cumplir en tiempo y forma con dichas condiciones, aun cuando dicha modificación estuviese prevista en el contrato. En todo caso, se consideran como reestructuradas las operaciones en las que se realiza una quita o se reciben activos para reducir la deuda; o en las que se modifican sus condiciones para alargar su plazo de vencimiento, variar el cuadro de amortización para minorar el importe de las cuotas en el corto plazo o disminuir su frecuencia, o establecer o alargar el plazo de carencia de principal, intereses o ambos, salvo cuando se pueda probar que las condiciones se modifican por motivos diferentes de la dificultad financiera de los titulares y sean análogas a las que se apliquen en el mercado en la fecha de su modificación a las operaciones que se concedan a clientes con similar perfil de riesgo. Estas operaciones se declararán con el valor «Real Decreto-ley 6/2012» cuando se ejecuten de conformidad con dicha disposición.
+– Operación reestructurada (conforme al Real Decreto-ley 6/2012 y el resto de las operaciones reestructuradas): operación en la que, por razones económicas o legales relacionadas con dificultades financieras, actuales o previsibles, del titular (o titulares), se modifican sus condiciones financieras con el fin de facilitar el pago de la deuda (principal e intereses) porque el titular no puede, o se prevea que no va a poder, cumplir en tiempo y forma con dichas condiciones, aun cuando dicha modificación estuviese prevista en el contrato. En todo caso, se consideran como reestructuradas las operaciones en las que se realiza una quita o se reciben activos para reducir la deuda; o en las que se modifican sus condiciones para alargar su plazo de vencimiento, variar el cuadro de amortización para minorar el importe de las cuotas en el corto plazo o disminuir su frecuencia, o establecer o alargar el plazo de carencia de principal, intereses o ambos, salvo cuando se pueda probar que las condiciones se modifican por motivos diferentes de la dificultad financiera de los titulares y sean análogas a las que se apliquen en el mercado en la fecha de su modificación a las operaciones que se concedan a clientes con similar perfil de riesgo. Estas operaciones se declararán con el valor «Real Decreto-ley 6/2012» cuando se ejecuten de conformidad con dicha disposición.
 
 – Operación de renovación: operación formalizada para sustituir a otra concedida previamente por la propia entidad sin que el prestatario tenga, o se prevea que pueda tener en el futuro, dificultades financieras; es decir, es una operación que se formaliza por motivos diferentes de los de la refinanciación. La nueva operación se debe vincular con la operación de la que procede en el módulo G.1, Datos básicos que vinculan códigos. No se considerarán nuevas operaciones las renovadas automáticamente, sin intervención activa del deudor, que solo implican una prolongación del contrato en el tiempo.
 
 – Operación renegociada: operación en la que se modifican sus condiciones financieras sin que el prestatario tenga, o se prevea que pueda tener en el futuro, dificultades financieras; es decir, es una operación en la que se modifican las condiciones por motivos diferentes de los de la reestructuración.
 
-– Resto de las situaciones: operaciones en las que no se dé ninguna de las circunstancias descritas en los valores anteriores. Incluye, entre otras, las operaciones declaradas en la dimensión «Tipo de producto» de este módulo como «Activos procedentes de operaciones fuera de balance», «Derivados impagados», «Otros compromisos con riesgo de crédito» y «Valores prestados».
+– Resto de las situaciones: operaciones en las que no se da ninguna de las circunstancias descritas en los valores anteriores. Incluye, entre otras, las operaciones declaradas en la dimensión «Tipo de producto» de este módulo como «Activos procedentes de operaciones fuera de balance», «Derivados impagados», «Otros compromisos con riesgo de crédito» y «Valores prestados».
 
-El valor declarado en esta dimensión permanecerá durante el resto de la vida de la operación, con independencia de que la operación cumpla los requisitos para dejarse de considerar como en seguimiento especial.
+Cuando para una operación se haya declarado alguno de los valores siguientes: «operación de refinanciación», «operación refinanciada», «operación reestructurada», «operación de renovación» u «operación renegociada», no se deberá declarar el valor «resto de las situaciones» en fechas posteriores.
 
-Canal de contratación
+## Fecha del estado de refinanciaciones y reestructuraciones.
+
+Fecha en la que se registra cualquiera de los valores declarados en «operación de refinanciación», «operación refinanciada», «operación reestructurada», «operación de renovación» u «operación renegociada».
+
+Cada vez que se registre un cambio en el valor declarado, se deberá indicar la fecha.
+
+En caso de que permanezca el valor declarado, pero se haya vuelto a efectuar en la operación otro de los procesos afectados en los valores declarados, se indicará la nueva fecha (segundas o posteriores refinanciaciones, reestructuraciones, renovaciones y renegociaciones).
+
+Para el valor declarado «Resto de las situaciones» no se registrará fecha.
+
+## Canal de contratación.
 
 Para los préstamos, indica el canal por el que se hayan contratado:
 
@@ -1862,7 +1934,7 @@ Para los préstamos, indica el canal por el que se hayan contratado:
 
 – Oficina central.
 
-– Página web.
+– Sitio web.
 
 – Aplicaciones instaladas en los dispositivos móviles.
 
@@ -1882,13 +1954,13 @@ Para los préstamos, indica el canal por el que se hayan contratado:
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-– Adquirido a terceros: cuando la operación se declare como una adquisición en firme o manteniendo la gestión una entidad no declarante en la dimensión «Origen de la operación» de este módulo.
+– Adquirido a terceros: cuando la operación se declare como una adquisición en firme o mantenga la gestión una entidad no declarante en la dimensión «Origen de la operación» de este módulo.
 
 – No aplicable: este valor se asignará a las operaciones declaradas con los valores «Activo procedente de operaciones fuera de balance» y «Derivados impagados» en la dimensión «Tipo de producto» de este módulo.
 
 Cuando la operación proceda del traspaso de la actividad financiera de otra entidad o de una combinación de negocios (por ejemplo, una fusión o la adquisición de todos o parte de los negocios de otras entidades), como canal de contratación se declarará el que hubiese declarado a la CIR la entidad cedente (o el que le hubiese correspondido declarar).
 
-Provincia en la que se realiza la inversión
+## Provincia en la que se realiza la inversión.
 
 Para los préstamos invertidos en España, código de dos cifras correspondiente a la provincia en la que tenga lugar la inversión de los fondos, si este es identificable y se conoce, y, en su defecto, de la plaza de pago o concesión.
 
@@ -1896,11 +1968,11 @@ Para los préstamos que tengan como finalidad la financiación de la construcci�
 
 Para las operaciones declaradas con los valores «Activo procedente de operaciones fuera de balance» y «Derivados impagados» en la dimensión «Tipo de producto» de este módulo, se indicará la provincia donde tenga su domicilio el titular.
 
-Esquema de amortización
+## Esquema de amortización.
 
 Para los préstamos, indica el esquema de amortización del principal e intereses de la operación:
 
-– Cuotas de amortización (principal e intereses) constantes (Francés).
+– Cuotas de amortización (principal e intereses) constantes (francés).
 
 – Cuotas de amortización de principal constantes.
 
@@ -1918,15 +1990,15 @@ Para los préstamos, indica el esquema de amortización del principal e interese
 
 La asignación de los valores anteriores se realizará en función de las características del esquema de amortización de los préstamos:
 
-– Cuotas de amortización según el método alemán: amortización en la que en el primer plazo solo se devuelven intereses y los plazos restantes son constantes, incluidos amortización del principal e intereses.
+– Cuotas de amortización según el método alemán: amortización en la que en el primer plazo solo se devuelven intereses y los plazos restantes son constantes, incluidos la amortización del principal y los intereses.
 
 – Amortización de principal con progresión geométrica: incremento progresivo de la cuota en el porcentaje (razón) que se ha de realizar con la frecuencia pactada, manteniéndose constante la cuota periódica hasta su actualización.
 
 No obstante, el valor «Sin dato» se utilizará exclusivamente para los siguientes tipos de préstamos, que se declararán siempre con dicho valor: las operaciones con naturaleza de crédito comercial, hipotecas inversas, tarjetas de crédito, cuentas corrientes o de ahorro, cuentas mutuas, descubiertos, anticipo de pensión o nómina, activos procedentes de operaciones fuera de balance, derivados impagados y resto de los préstamos a la vista.
 
-Para el resto de las operaciones no se declarará este dato.
+Para el resto de las operaciones, no se declarará este dato.
 
-Porcentaje de participación en los préstamos sindicados (%)
+## Porcentaje de participación en los préstamos sindicados (%).
 
 Para los préstamos sindicados, porcentaje en el que participe la entidad declarante en el importe total del préstamo.
 
@@ -1936,17 +2008,13 @@ Para el resto de las operaciones se declarará un 100 %.
 
 Formato: porcentaje con dos decimales.
 
-Valores adquiridos temporalmente o prestados
-
-Nominal
+## Valores adquiridos temporalmente o prestados. Nominal.
 
 Para los préstamos de recompra inversa y valores prestados, nominal de los valores adquiridos temporalmente o prestados.
 
-Para el resto de las operaciones no se declarará este dato.
+Para el resto de las operaciones, no se declarará este dato.
 
-Financiación de construcciones o promociones inmobiliarias
-
-Estado de la construcción
+## Financiación de construcciones o promociones inmobiliarias. Estado de la construcción.
 
 Para los préstamos y valores representativos de deuda cuya finalidad sea la financiación a la construcción o promoción de edificios, indica la fase de construcción en la que se encuentra el inmueble financiado:
 
@@ -1970,7 +2038,7 @@ Para el resto de las operaciones, se declarará:
 
 – No aplicable.
 
-Licencia
+## Financiación de construcciones o promociones inmobiliarias. Licencia.
 
 Para los préstamos y valores representativos de deuda cuya finalidad sea la financiación a la construcción o promoción de edificios, indica el tipo de licencia con el que cuenta el inmueble financiado:
 
@@ -1982,7 +2050,7 @@ a) Para las viviendas terminadas:
 
 – Sin licencia de obra.
 
-b) Para el resto de edificios terminados:
+b) Para el resto de los edificios terminados:
 
 – Con licencia de funcionamiento.
 
@@ -2002,13 +2070,13 @@ Para el resto de las operaciones:
 
 – No aplicable.
 
-Número de viviendas previstas
+## Financiación de construcciones o promociones inmobiliarias. Número de viviendas previstas.
 
 Para los préstamos y valores representativos de deuda cuya finalidad sea la financiación a la construcción o promoción inmobiliaria, así como para la financiación del suelo para uso predominantemente residencial, número de viviendas que está previsto construir en el inmueble financiado.
 
 Para aquellas operaciones relacionadas a través del mismo código de promoción inmobiliaria, el número de viviendas deberá coincidir.
 
-Código de la promoción inmobiliaria
+## Financiación de construcciones o promociones inmobiliarias. Código de la promoción inmobiliaria.
 
 Para todas las operaciones, cualquiera que sea el tipo de instrumento, que estén vinculadas con una promoción inmobiliaria específica, código interno que utilice la entidad declarante para vincularlas. Por este motivo, siempre que correspondan a la misma promoción inmobiliaria, se vincularán los valores representativos de deuda y préstamos que se hayan concedido con la finalidad de financiarla, las garantías financieras que avalen financiaciones con dicha finalidad y las que avalen el pago aplazado en la compra del suelo, los avales a la construcción de viviendas y cualquier otra operativa relacionada con la misma promoción.
 
@@ -2016,7 +2084,7 @@ Este código, que será diferente para cada promoción, se repetirá en todas la
 
 Para el resto de las operaciones no se declarará este código.
 
-Subvención de la operación
+## Subvención de la operación.
 
 Indica si la operación está subvencionada:
 
@@ -2032,11 +2100,11 @@ Indica si la operación está subvencionada:
 
 ## B.3 Datos básicos complementarios de los préstamos a personas jurídicas
 
-Código de la operación
+## Código de la operación.
 
 Código con el que se identifica la operación.
 
-Clasificación de las operaciones de la norma segunda, 1 bis
+## Clasificación de las operaciones de la norma segunda, 1 bis.
 
 Indica si la operación se declara de acuerdo con lo establecido en las letras a) y b), apartado 1 bis), de la norma segunda de la Circular 1/2013:
 
@@ -2044,7 +2112,7 @@ Indica si la operación se declara de acuerdo con lo establecido en las letras a
 
 – Operación gestionada y no originada por el agente observado.
 
-– Resto de operaciones.
+– Resto de las operaciones.
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
@@ -2052,9 +2120,9 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Operación gestionada y no originada por el agente observado: operación a la que se refiere la letra b), apartado 1 bis), de la norma segunda.
 
-– Resto de operaciones: operaciones no clasificadas conforme a los anteriores apartados. En este apartado se incluyen todas las operaciones de las sociedades instrumentales.
+– Resto de las operaciones: operaciones no clasificadas conforme a los anteriores apartados. En este apartado se incluyen todas las operaciones de las sociedades instrumentales.
 
-Importe del compromiso al inicio
+## Importe del compromiso al inicio.
 
 Máxima exposición de la entidad al riesgo crediticio en la fecha de formalización de la operación comprometido con los titulares de riesgo directo.
 
@@ -2062,21 +2130,21 @@ Cuando se establezca un límite de crédito común para varias operaciones, el i
 
 Para las cuentas de crédito y préstamos con disposiciones por etapas es el importe máximo comprometido al inicio.
 
-En las operaciones de cartera comercial, el importe del compromiso al inicio es el nocional de las facturas adquiridas por la entidad.
+En las operaciones de cartera comercial el importe del compromiso al inicio es el nocional de las facturas adquiridas por la entidad.
 
 Para las operaciones en que no se haya fijado un límite al inicio de la operación se declarará «No aplicable».
 
 Cuando las operaciones estén denominadas en monedas diferentes del euro, se declarará el importe del contravalor de la moneda en euros en la fecha de su formalización. Este importe no se actualizará con posterioridad como consecuencia de la variación del tipo de cambio.
 
-Identificador de contrato sindicado
+## Identificador de contrato sindicado.
 
 Para los préstamos sindicados, identificador asignado por el agente de un préstamo sindicado para identificar el contrato de préstamo. Este identificador no cambia con el tiempo. Todas las entidades declarantes que participen en el contrato sindicado utilizarán el mismo código de préstamo sindicado acordado entre los participantes.
 
 Si la entidad declarante desconoce este identificador y el agente del préstamo sindicado no fuera una entidad de crédito de un Estado miembro informador, este código se podrá construir como una combinación del código BIC del agente del préstamo sindicado y la fecha de formalización, que deberá ser la misma para todos los partícipes en el mencionado préstamo sindicado.
 
-Si la operación declarada no es un préstamo sindicado, se declarará «No aplicable».
+Si la operación declarada no es un préstamo sindicado se declarará «No aplicable».
 
-Instrumento fiduciario
+## Instrumento fiduciario.
 
 Indica si en la operación la entidad actúa en nombre propio pero por cuenta y riesgo de un tercero:
 
@@ -2086,17 +2154,17 @@ Indica si en la operación la entidad actúa en nombre propio pero por cuenta y 
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-– Operación fiduciaria: operación en la que la entidad actúa desde el inicio de la operación en su propio nombre pero por cuenta de un tercero, que es el que asume el riesgo.
+– Operación fiduciaria: operación en la que la entidad actúa desde el inicio de la operación en su propio nombre pero por cuenta de un tercero que asume el riesgo.
 
-En las operaciones fiduciarias en las que la entidad presta servicios de gestión de las operaciones, en el módulo B1 el agente observado se declarará como administrador de la operación y el tercero que asume el riesgo como acreedor de la operación.
+En las operaciones fiduciarias en las que la entidad presta servicios de gestión de las operaciones, en el módulo b1 el agente observado se declarará como administrador de la operación, y el tercero que asume el riesgo, como acreedor de la operación.
 
 Las operaciones en que la entidad mantenga la gestión pero deje de ser la acreedora no serán consideradas como fiduciarias.
 
-– Operación no fiduciaria: se declarará en el resto de casos.
+– Operación no fiduciaria: se declarará en el resto de los casos.
 
-Recurso
+## Recurso.
 
-Clasificación de las operaciones en función del derecho del acreedor a ejecutar activos del deudor distintos de los destinados a garantizar la operación. En el caso de las operaciones de crédito comercial, indica si son con o sin recurso ante el cedente de los recibos:
+Clasificación de las operaciones en función del derecho del acreedor a ejecutar activos del deudor distintos de los destinados a garantizar la operación. En el caso de las operaciones de crédito comercial, indica si son con recurso o sin él, recurso ante el cedente de los recibos:
 
 – Con recurso.
 
@@ -2108,7 +2176,7 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Sin recurso: operación en la que el acreedor no tiene el derecho de ejecutar activos del deudor distintos de los destinados a garantizar la operación, o, en el caso del crédito comercial, no tiene el derecho a reclamar la deuda a la entidad que vendió la cartera al acreedor.
 
-Derechos de reembolso
+## Derechos de reembolso.
 
 Clasificación de las operaciones en función del derecho del acreedor a pedir el reembolso:
 
@@ -2118,11 +2186,11 @@ Clasificación de las operaciones en función del derecho del acreedor a pedir e
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-– A la vista o con breve aviso: operaciones a la vista o con breve plazo de aviso (al cierre del día siguiente en el que se exige el desembolso). Incluye operaciones tales como cuentas corrientes o de ahorro, cuentas mutuas, resto de cuentas de corresponsalía, descubiertos que no tengan aprobado un límite de crédito y saldos similares. También incluye los préstamos a un día, con independencia de su forma legal.
+– A la vista o con breve aviso: operaciones a la vista o con breve plazo de aviso (al cierre del día siguiente en el que se exige el desembolso). Incluye operaciones tales como cuentas corrientes o de ahorro, cuentas mutuas, resto de las cuentas de corresponsalía, descubiertos que no tengan aprobado un límite de crédito y saldos similares. También incluye los préstamos a un día, con independencia de su forma legal.
 
-– Otros: se declarará para el resto de operaciones, incluidas las líneas de crédito, aunque tengan excedidos exigibles a la vista.
+– Otros: se declarará para el resto de las operaciones, incluidas las líneas de crédito, aunque tengan excedidos exigibles a la vista.
 
-Fecha de liquidación
+## Fecha de liquidación.
 
 Fecha en que se han dispuesto los fondos por primera vez tras la fecha de formalización de la operación.
 
@@ -2130,7 +2198,7 @@ En caso de que no hubiera habido disposición de fondos, se declarará «No apli
 
 Formato: AAAAMMDD.
 
-Frecuencia de pago
+## Frecuencia de pago.
 
 Frecuencia con la que vencen los pagos, sean del principal o sean de intereses, es decir, número de meses entre pagos:
 
@@ -2156,7 +2224,7 @@ La asignación de los valores se hará conforme a los siguientes criterios:
 
 En caso de que la frecuencia de pago de intereses sea distinta de la del principal, se declarará la de mayor frecuencia.
 
-Cambios en el valor razonable debidos a cambios en el riesgo crediticio antes de la adquisición
+## Cambios en el valor razonable debidos a cambios en el riesgo crediticio antes de la adquisición.
 
 Para las operaciones adquiridas a terceros, diferencia entre el saldo vivo nominal y el precio de adquisición de las operaciones en la fecha de adquisición, cuando se hayan adquirido por un importe inferior al saldo vivo a causa del deterioro por riesgo crediticio.
 
@@ -2170,19 +2238,19 @@ C. DATOS DINÁMICOS DE LAS OPERACIONES
 
 ## C.1 Datos dinámicos de los riesgos directos
 
-Código de la operación
+## Código de la operación.
 
 Código con el que se identifica la operación en el módulo B.2, Datos básicos de las operaciones.
 
 Parte 1. Datos de todos los riesgos directos
 
-Moneda
+## Moneda.
 
 Código ISO de tres letras de la moneda en la que está denominada la operación.
 
 Para las operaciones multidivisa, se indicará el código ISO de la moneda en la que se declaren los datos, que, cuando corresponda a importes dispuestos, será aquella en la que se tengan que devolver.
 
-Plazo residual
+## Plazo residual.
 
 Plazo entre la fecha a la que se refiere la declaración y la de vencimiento de la operación:
 
@@ -2210,9 +2278,7 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Vencimiento indeterminado: cuando las operaciones no tengan fecha de vencimiento. Este valor también se asignará a los préstamos cuyo tipo de producto sea «Crédito comercial», «Hipotecas inversas» o «Derechos de cobro por subvenciones».
 
-Garantía real principal
-
-Tipo de garantía real principal
+## Garantía real principal. Tipo de garantía real principal
 
 Tipo de garantía real adicional a la del propio instrumento con la que, en su caso, cuente la operación, cualquiera que sea el loan to value:
 
@@ -2221,6 +2287,8 @@ Tipo de garantía real adicional a la del propio instrumento con la que, en su c
 – Hipoteca inmobiliaria (primera hipoteca).
 
 – Hipoteca inmobiliaria (resto de las hipotecas).
+
+– Otras garantías inmobiliarias.
 
 – Garantía pignoraticia (activos financieros).
 
@@ -2238,6 +2306,8 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Hipoteca inmobiliaria (resto de las hipotecas): operaciones con garantía hipotecaria, ordinaria o de máximo, sobre activos inmobiliarios cuando no se puedan clasificar como primera hipoteca.
 
+– Otras garantías inmobiliarias: garantías inmobiliarias distintas de hipotecas que den derecho a la recuperación del inmueble, tales como condiciones resolutorias en contratos de compraventa.
+
 – Garantía pignoraticia (activos financieros): operaciones en las que los activos recibidos en garantía sean instrumentos de deuda, instrumentos de patrimonio u otros activos financieros. Incluye los préstamos de valores en los que la contraparte entrega valores en garantía de los recibidos.
 
 – Hipoteca naval: operaciones con garantía hipotecaria de buques.
@@ -2250,7 +2320,7 @@ Cuando se superpongan diferentes tipos de garantías reales, se declarará el va
 
 A estos efectos, no se consideran activos recibidos en garantía de la operación los adquiridos temporalmente ni los cedidos en arrendamiento financiero.
 
-Cobertura de la garantía real principal
+## Garantía real principal. Cobertura de la garantía real principal.
 
 Para el tipo de garantía declarado en la dimensión «Tipo de garantía real principal» de este módulo, indica si la cobertura es:
 
@@ -2268,9 +2338,7 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – No aplicable: cuando las operaciones no tengan garantía real.
 
-Garantía personal principal
-
-Tipo de garantía personal principal
+## Garantía personal principal. Tipo de garantía personal principal.
 
 Tipo de garantía personal con la que cuente la operación:
 
@@ -2306,7 +2374,7 @@ La garantía personal otorgada por las personas físicas, entidades de crédito,
 
 Cuando se superpongan diferentes tipos de garantías personales, se declarará el valor que corresponda al tipo de garantía que la entidad considere más relevante a efectos de la gestión del riesgo de crédito asumido.
 
-Cobertura de la garantía personal principal
+## Garantía personal principal. Cobertura de la garantía personal principal.
 
 Para el tipo de garantía declarado en la dimensión «Tipo de garantía personal principal» de este módulo, indica si la cobertura es:
 
@@ -2324,7 +2392,7 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – No aplicable: cuando las operaciones no tengan garantía personal adicional.
 
-Situación de la operación
+## Situación de la operación.
 
 Situación en la que se encuentra la operación a la fecha de la declaración:
 
@@ -2340,31 +2408,27 @@ Situación en la que se encuentra la operación a la fecha de la declaración:
 
 – Operación de refinanciación, refinanciada o reestructurada fuera del Real Decreto-ley 6/2012.
 
-– Operación dudosa (sin incumplimientos o con incumplimientos hasta 90 días).
-
 – Resto de las situaciones.
 
 La asignación de los valores anteriores se hará aplicando los siguientes criterios:
 
-– Operación en suspenso: operación calificada contablemente como fallida por razón de la insolvencia del cliente.
+– Operación en suspenso: operación calificada contablemente como fallida por razón de la insolvencia del cliente, siempre que tenga importes impagados o incumplidos con más de 90 días de antigüedad.
 
 – Operación con incumplimientos de más de cuatro años: operación que, no estando clasificada como en suspenso, tiene importes impagados o incumplidos, siempre que desde la fecha del primer impago o incumplimiento pendiente de cobro o resolución hasta la fecha a la que se refieren los datos hayan transcurrido más de cuatro años. En las operaciones incluidas en un convenio de acreedores, así como en las operaciones de refinanciación, refinanciadas o reestructuradas, este plazo se contará desde la fecha del primer impago o incumplimiento posterior a la refinanciación o reestructuración, o a la declaración del convenio de acreedores.
 
 – Operación con incumplimientos entre más de 90 días y hasta cuatro años: operación que, no estando clasificada como en suspenso, tiene importes impagados o incumplidos, siempre que desde la fecha del primer impago o incumplimiento pendiente de cobro o resolución hasta la fecha a la que se refieren los datos hayan transcurrido entre más de 90 días y hasta cuatro años. En las operaciones incluidas en un convenio de acreedores, así como en las operaciones de refinanciación, refinanciadas o reestructuradas, este plazo se contará desde la fecha del primer impago o incumplimiento posterior a la refinanciación o reestructuración, o a la declaración del convenio de acreedores.
 
-– Operación incluida en un convenio de acreedores: operación que, no estando clasificada como en suspenso, está incluida en un convenio de acreedores y, además, no tiene incumplimientos, o tiene importes impagados con posterioridad a la declaración del convenio con una antigüedad igual o inferior a 90 días desde la fecha del primer impago pendiente de cobro.
+– Operación incluida en un convenio de acreedores: operación que, no estando clasificada como en suspenso, está incluida en un convenio de acreedores y, además, no tiene incumplimientos, o tiene importes impagados con posterioridad a la declaración del convenio con una antigüedad igual o inferior a 90 días desde la fecha del primer impago pendiente de cobro. Cuando la operación esté incluida en un convenio de acreedores y tenga varios titulares directos o indirectos, los titulares que no se encuentren afectados por el convenio, para los que los datos incluidos en alguna de las dimensiones del anejo 3 no reflejen fielmente su situación real, se identificarán de acuerdo con el procedimiento establecido en las instrucciones técnicas correspondientes de modo que se pueda advertir de dicha circunstancia en los informes de riesgos que facilita la CIR establecidos en la norma decimosexta.
 
-– Operación reestructurada o reunificada al amparo del Real Decreto-ley 6/2012: operación que, no estando clasificada como en suspenso o convenio de acreedores, ha sido reestructurada o reunificada al amparo del Real Decreto-ley 6/2012 y, además: i) tiene importes impagados antes de la reestructuración o reunificación pendientes de cobro a la fecha a la que se refieren los datos, y ii) con posterioridad a la reestructuración o reunificación, no tiene importes impagados, o los importes impagados pendientes de cobro tienen una antigüedad igual o inferior a 90 días.
+– Operación reestructurada o reunificada al amparo del Real Decreto-ley 6/2012: operación que, no estando clasificada como en suspenso o convenio de acreedores, ha sido reestructurada o reunificada al amparo del Real Decreto-ley 6/2012, y además: i) tiene importes impagados antes de la reestructuración o reunificación pendientes de cobro a la fecha a la que se refieren los datos, y ii) con posterioridad a la reestructuración o reunificación, no tiene importes impagados, o los importes impagados pendientes de cobro tienen una antigüedad igual o inferior a 90 días.
 
-– Operación de refinanciación, refinanciada o reestructurada fuera del Real Decreto-ley 6/2012: operación que, no estando clasificada como en suspenso o convenio de acreedores, se ha utilizado en una refinanciación, o ha sido refinanciada o reestructurada (excepto que esté amparada en el Real Decreto-ley 6/2012), y, además: i) tiene importes impagados antes de la reestructuración o reunificación pendientes de cobro a la fecha a la que se refieren los datos, y ii) con posterioridad a la refinanciación o reestructuración, no tiene importes impagados, o los importes impagados pendientes de cobro tienen una antigüedad igual o inferior a 90 días.
+– Operación de refinanciación, refinanciada o reestructurada fuera del Real Decreto-ley 6/2012: operación que, no estando clasificada como en suspenso o convenio de acreedores, se ha utilizado en una refinanciación, o ha sido refinanciada o reestructurada (excepto que esté amparada en el Real Decreto-ley 6/2012), y además: i) tiene importes impagados antes de la reestructuración o reunificación pendientes de cobro a la fecha a la que se refieren los datos, y ii) con posterioridad a la refinanciación o reestructuración, no tiene importes impagados, o los importes impagados pendientes de cobro tienen una antigüedad igual o inferior a 90 días.
 
-– Operación dudosa (sin incumplimientos o con incumplimientos hasta 90 días): operación que, no estando incluida en ninguna de las situaciones descritas en los valores anteriores: i) está calificada contablemente como dudosa, y ii) no tiene importes impagados o incumplidos, o los importes impagados o incumplimientos pendientes de cobro o resolución tienen una antigüedad igual o inferior a 90 días. Las operaciones de refinanciación, refinanciadas y reestructuradas no se declararán con este valor mientras tengan importes pendientes de cobro que fueron impagados antes de la fecha de la refinanciación o reestructuración.
-
-– Resto de las situaciones: operaciones no incursas en ninguna de las situaciones descritas en los valores anteriores. También se declararán con este valor las operaciones cuyo tipo de producto sea «Derechos de cobro por subvenciones», con independencia de la fecha del primer incumplimiento, salvo que la operación esté clasificada como dudosa o fallida conforme a la normativa contable vigente, en cuyo caso se declarará con el valor que le corresponda. Las operaciones de refinanciación, refinanciadas y reestructuradas, cuando se cobren todos los importes impagados antes de la refinanciación o reestructuración, se declararán como «resto de situaciones», salvo que cumplan los criterios para declararlas con otro valor como si no estuvieran incursas en dicha situación.
+– Resto de las situaciones: operaciones no incursas en ninguna de las situaciones descritas en los valores anteriores. También se declararán con este valor las operaciones cuyo tipo de producto sea «Derechos de cobro por subvenciones», con independencia de la fecha del primer incumplimiento, salvo que la operación esté clasificada como fallida conforme a la normativa contable vigente, en cuyo caso se declarará con el valor «operación en suspenso». Las operaciones de refinanciación, refinanciadas y reestructuradas, cuando se cobren todos los importes impagados antes de la refinanciación o reestructuración, se declararán como «resto de las situaciones», salvo que cumplan los criterios para declararlas con otro valor como si no estuvieran incursas en dicha situación.
 
 A efectos de la declaración de este atributo, los términos «incumplimiento» o «impagado» son equivalentes y se refieren a importes vencidos y no pagados.
 
-Fecha del primer incumplimiento
+## Fecha del primer incumplimiento.
 
 Fecha del impago o incumplimiento más antiguo pendiente de resolución a la fecha de los datos.
 
@@ -2392,11 +2456,15 @@ Para las operaciones sin incumplimiento no se declarará este dato.
 
 Formato: AAAAMMDD.
 
-Pro memoria: fecha del primer incumplimiento antes de la refinanciación o reestructuración
+## Pro memoria: fecha del primer incumplimiento antes de la refinanciación o reestructuración.
 
 Cuando se trate de operaciones calificadas como de refinanciación, refinanciadas o reestructuradas en la dimensión «Estado de refinanciaciones y reestructuraciones» del módulo B.2, Datos básicos de las operaciones, fecha del importe vencido más antiguo impagado antes de la refinanciación o reestructuración pendiente de cobro a la fecha de los datos, con independencia de que, como consecuencia de la refinanciación, las operaciones no tengan aparentemente importes impagados. Cuando en las refinanciaciones permanezcan vivas las operaciones refinanciadas, esta fecha se indicará tanto en la operación de refinanciación como en la refinanciada.
 
-Fecha del último incumplimiento
+## Pro memoria: fecha del primer incumplimiento excluyendo fallidos parciales.
+
+Cuando se trate de operaciones con fallidos parciales, fecha del impago o incumplimiento más antiguo pendiente de resolución a la fecha de los datos de la parte remanente de las operaciones que permanezca registrada en el activo.
+
+## Fecha del último incumplimiento.
 
 Fecha del último incumplimiento pendiente de resolución a la fecha de los datos.
 
@@ -2408,9 +2476,7 @@ Formato: AAAAMMDD.
 
 Parte 2. Datos de los riesgos directos asumidos por la entidad declarante
 
-Principal asumido por la entidad
-
-Importe no vencido
+## Principal asumido por la entidad. Importe no vencido.
 
 Para los préstamos, importe del principal dispuesto pendiente de vencimiento a la fecha de la declaración cuyo riesgo asume la entidad, con las precisiones que se indican a continuación.
 
@@ -2436,7 +2502,7 @@ Para los avales y cauciones no financieros prestados y los créditos documentari
 
 Para los valores prestados, valor razonable de los valores prestados.
 
-Importe vencido
+## Principal asumido por la entidad. Importe vencido.
 
 Para los préstamos y valores representativos de deuda, importe del principal vencido, incluido el que haya dado por vencido la entidad declarante según lo estipulado en el contrato, que está pendiente de cobro a la fecha de la declaración cuyo riesgo asume la entidad, con las precisiones que se indican a continuación.
 
@@ -2450,7 +2516,7 @@ En las operaciones declaradas como «Activos procedentes de operaciones fuera de
 
 Para los «Derivados impagados», importe pendiente de cobro.
 
-En los arrendamientos financieros se declara la parte correspondiente al principal de las cuotas vencidas pendientes de cobro, incluyendo el IVA pagado por la entidad declarante.
+En los arrendamientos financieros se declara la parte correspondiente al principal de las cuotas vencidas pendientes de cobro incluyendo el IVA pagado por la entidad declarante.
 
 Cuando se trate de operaciones calificadas en la dimensión «Estado de refinanciaciones y reestructuraciones» del módulo B.2, Datos básicos de las operaciones, como de refinanciación, importe vencido con posterioridad a la refinanciación. En las operaciones calificadas como refinanciadas o reestructuradas, importe vencido a la fecha de los datos conforme a los términos pactados en la refinanciación o restructuración; por tanto, incluirá los importes vencidos con anterioridad a la refinanciación o reestructuración cuando, después de producirse esta, continúen contractualmente impagados.
 
@@ -2460,15 +2526,13 @@ Para los avales y cauciones no financieros prestados y los créditos documentari
 
 Para los valores prestados vencidos, valor razonable de los valores mientras no se registre en el activo un préstamo frente a la contraparte.
 
-Intereses y comisiones vencidos asumidos por la entidad
-
-Importe registrado en el activo
+## Intereses y comisiones vencidos asumidos por la entidad. Importe registrado en el activo.
 
 Para los préstamos y valores representativos de deuda, importe de los intereses ordinarios y comisiones vencidos pendientes de cobro a la fecha de la declaración registrados en el activo del balance.
 
 En las operaciones declaradas como «Activos procedentes de operaciones fuera de balance», importe de las comisiones vencidas pendientes de cobro registrado en el activo del balance.
 
-Importe registrado en cuentas de orden
+## Intereses y comisiones vencidos asumidos por la entidad. Importe registrado en cuentas de orden.
 
 Para los préstamos y valores representativos de deuda, importe de los intereses ordinarios y comisiones vencidos pendientes de cobro a la fecha de la declaración que no están registrados en el activo.
 
@@ -2476,25 +2540,23 @@ En las operaciones declaradas como «Activos procedentes de operaciones fuera de
 
 Para las garantías financieras, importe de los intereses vencidos de la operación garantizada que están pendientes de cobro a la fecha de la declaración del que responde frente a terceros la entidad declarante.
 
-Intereses de demora asumidos por la entidad
-
-Importe registrado en el activo
+## Intereses de demora asumidos por la entidad. Importe registrado en el activo.
 
 Intereses de demora contractualmente exigibles a los titulares pendientes de cobro a la fecha de los datos, aunque no se hayan reclamado, que están registrados en el activo.
 
-Importe registrado en cuentas de orden
+## Intereses de demora asumidos por la entidad. Importe registrado en cuentas de orden.
 
 Intereses de demora contractualmente exigibles a los titulares pendientes de cobro a la fecha de los datos, aunque no se hayan reclamado, que no estén registrados en el activo y cuyo riesgo asume la entidad.
 
 Si una resolución judicial hubiera determinado la cuantía de los intereses de demora o su forma de cálculo, el importe que declarar por este concepto deberá corresponder con lo que disponga al respecto dicha resolución.
 
-Gastos exigibles asumidos por la entidad
+## Gastos exigibles asumidos por la entidad.
 
 Importe de los gastos contractualmente exigibles reclamados a los titulares pendientes de cobro a la fecha de los datos.
 
 Si una resolución judicial hubiera determinado la cuantía de los gastos exigibles o su forma de cálculo, el importe que declarar deberá corresponder con lo que disponga al respecto dicha resolución.
 
-Límite actual del riesgo asumido por la entidad
+## Límite actual del riesgo asumido por la entidad.
 
 Para las operaciones que tengan un límite de disposición comprometido con los titulares que pueda ser superior al importe dispuesto, importe de la facilidad máxima comprometida (dispuesto más disponible) a la fecha de los datos, aunque pueda ser anulada por la entidad sin condiciones en cualquier momento y sin previo aviso, o se prevea su cancelación en caso de deterioro de la solvencia del titular, cuyo riesgo asume la entidad. Para la declaración de este importe se aplicarán los criterios recogidos para el «Límite máximo a disposición del prestatario al inicio de la operación» en el módulo B.2, Datos básicos de las operaciones.
 
@@ -2502,29 +2564,31 @@ En los derechos de cobro por subvenciones, cuando se subvencione el principal, i
 
 Para el resto de las operaciones no se declarará este dato.
 
-Riesgo disponible asumido por la entidad
-
-Disponibilidad inmediata
+## Riesgo disponible asumido por la entidad. Disponibilidad inmediata.
 
 Para las operaciones declaradas con límite en la dimensión «Límite actual del riesgo asumido por la entidad» de este módulo, importe del límite de la operación no dispuesto a la fecha de los datos del que se pueda disponer inmediatamente.
 
 Para el resto de las operaciones no se declarará este dato.
 
-Disponibilidad condicionada
+## Riesgo disponible asumido por la entidad. Disponibilidad condicionada.
 
 Para las operaciones declaradas con límite en la dimensión «Límite actual del riesgo asumido por la entidad» de este módulo, importe del límite de la operación no dispuesto a la fecha de los datos del que solo se puede disponer si se cumplen determinadas condiciones. Incluye, entre otros, el riesgo disponible de cuentas de crédito y préstamos con disposiciones por etapas del que no pueda disponer el titular porque no se cumplen determinados requisitos, como es la entrega de certificaciones de obra.
 
 Para el resto de las operaciones no se declarará este dato.
 
-Pro memoria: importe vencido antes de la refinanciación o reestructuración asumido por la entidad
+## Pro memoria: importe vencido antes de la refinanciación o reestructuración asumido por la entidad.
 
 En las operaciones calificadas en la dimensión «Estado de refinanciaciones y reestructuraciones» del módulo B.2, Datos básicos de las operaciones, como de refinanciación, refinanciadas o reestructuradas, importe registrado en el campo «Importe no vencido» que corresponde a importes impagados (principal, intereses, etc.) con anterioridad a la refinanciación o reestructuración. Este importe se irá minorando conforme se vaya cobrando el principal de las operaciones. Cuando en las refinanciaciones permanezcan vivas las operaciones refinanciadas, el importe vencido antes de la refinanciación se minorará cuando se vaya cobrando el principal de las operaciones, con independencia de en cuál de ellas se cobre.
 
-Parte 3. Datos que deben declarar las entidades de crédito, las sucursales en España de entidades de crédito extranjeras, los establecimientos financieros de crédito y la SAREB, para los préstamos
+## Pro memoria: importe de los fallidos parciales.
 
-Principal vencido cobrado en efectivo
+Importe de la parte del principal, intereses y comisiones vencidos, intereses de demora y gastos exigibles pendientes de cobro dados de baja del activo (baja parcial) por considerarse irrecuperable sin que se produzca la extinción de los derechos de cobro.
 
-Para los efectos financieros, préstamos con disposiciones por etapas, otros préstamos con entregas aplazadas de principal, préstamos híbridos, resto de préstamos a plazo distintos de depósitos y resto de depósitos distintos de préstamos de recompra inversa, arrendamientos financieros y préstamos de recompra inversa, importe total del principal vencido en el mes o en meses anteriores cobrado en efectivo o adeudado en un depósito en el mes al que se refieren los datos.
+Parte 3. Datos que deben declarar las entidades de crédito, las sucursales en España de entidades de crédito extranjeras, los establecimientos financieros de crédito y la sociedad de gestión de activos procedentes de la reestructuración bancaria, S.A. (Sareb). Para los préstamos
+
+## Principal vencido cobrado en efectivo.
+
+Para los efectos financieros, préstamos con disposiciones por etapas, otros préstamos con entregas aplazadas de principal, préstamos híbridos, resto de préstamos a plazo distintos de depósitos y resto de los depósitos distintos de préstamos de recompra inversa, arrendamientos financieros y préstamos de recompra inversa, importe total del principal vencido en el mes o en meses anteriores cobrado en efectivo o adeudado en un depósito en el mes al que se refieren los datos.
 
 Para las hipotecas inversas, los activos procedentes de operaciones fuera de balance y los derivados impagados, se registran los importes en el mes en el que se cobran.
 
@@ -2532,25 +2596,21 @@ Para el resto de los préstamos no se declarará este dato.
 
 En ningún caso se declarará un importe mayor que cero cuando la disminución del riesgo se produzca como consecuencia, directa o indirecta, de una subrogación, segregación, refinanciación, renovación, recepción de activos o transferencia de activos.
 
-Principal vencido subvencionado
+## Principal vencido subvencionado.
 
 Importe del principal vencido que se imputa a la persona que subvenciona la operación.
 
-Amortización anticipada
-
-Importe por el que se reduce el principal
+## Amortización anticipada. Importe por el que se reduce el principal.
 
 Importe del principal cobrado en efectivo o adeudado en un depósito en el mes que corresponde a una amortización anticipada con respecto al esquema de amortización pactado contractualmente.
 
 En ningún caso se declarará un importe mayor que cero cuando la disminución del riesgo se produzca como consecuencia, directa o indirecta, de una subrogación, segregación, refinanciación, renovación, recepción de activos o transferencia de activos.
 
-Condonación o prescripción del derecho de cobro. Importe por el que se reduce la deuda
+## Condonación o prescripción del derecho de cobro. Importe por el que se reduce la deuda.
 
 Importe condonado o prescrito de la deuda por cualquier concepto (principal, intereses ordinarios o de demora, etc.) en el mes al que corresponde la declaración.
 
-Activos adjudicados o recibidos en pago
-
-Tipo de activo
+## Activos adjudicados o recibidos en pago. Tipo de activo.
 
 Indica el tipo de activo, diferente del efectivo, recibido en el mes para cancelar, total o parcialmente, el importe de la deuda:
 
@@ -2560,23 +2620,21 @@ Indica el tipo de activo, diferente del efectivo, recibido en el mes para cancel
 
 – Inmuebles, instrumentos de patrimonio no cotizados o ambos.
 
-– Inmuebles, instrumentos de patrimonio no cotizados o ambos, y también instrumentos de patrimonio cotizados, valores representativos de deuda, activos materiales diferentes de inmuebles o una combinación de estos activos.
+– Inmuebles, instrumentos de patrimonio no cotizados o ambos y también instrumentos de patrimonio cotizados, valores representativos de deuda, activos materiales diferentes de inmuebles o una combinación de estos activos.
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-– Instrumentos de patrimonio cotizados, valores representativos de deuda, activos materiales diferentes de inmuebles o una combinación de estos activos: cuando en pago total o parcial de la deuda se entreguen instrumentos de patrimonio cotizados o valores representativos de deuda o activos materiales diferentes de inmuebles o una combinación de estos activos.
+– Instrumentos de patrimonio cotizados, valores representativos de deuda, activos materiales diferentes de inmuebles o una combinación de estos activos: cuando en pago total o parcial de la deuda se entreguen instrumentos de patrimonio cotizados, o valores representativos de deuda, o activos materiales diferentes de inmuebles, o una combinación de estos activos.
 
-– Inmuebles, instrumentos de patrimonio no cotizados o ambos: cuando en pago total o parcial de la deuda se entreguen inmuebles o instrumentos de patrimonio no cotizados o una combinación de estos activos.
+– Inmuebles, instrumentos de patrimonio no cotizados o ambos: cuando en pago total o parcial de la deuda se entreguen inmuebles, o instrumentos de patrimonio no cotizados, o una combinación de estos activos.
 
-– Inmuebles, instrumentos de patrimonio no cotizados o ambos, y también instrumentos de patrimonio cotizados, valores representativos de deuda, activos materiales diferentes de inmuebles o una combinación de estos activos: cuando en pago total o parcial de la deuda se entreguen inmuebles o instrumentos de patrimonio no cotizados o una combinación de estos activos, y además en el mismo mes también se entreguen instrumentos de patrimonio cotizados o valores representativos de deuda o activos materiales diferentes de inmuebles o una combinación de estos activos.
+– Inmuebles, instrumentos de patrimonio no cotizados o ambos y también instrumentos de patrimonio cotizados, valores representativos de deuda, activos materiales diferentes de inmuebles o una combinación de estos activos: cuando en pago total o parcial de la deuda se entreguen inmuebles, o instrumentos de patrimonio no cotizados, o una combinación de estos activos, y además en el mismo mes también se entreguen instrumentos de patrimonio cotizados, o valores representativos de deuda, o activos materiales diferentes de inmuebles o una combinación de estos activos.
 
-Importe por el que se reduce la deuda
+## Activos adjudicados o recibidos en pago. Importe por el que se reduce la deuda.
 
 Importe en el que se reduce la deuda por cualquier concepto (principal, intereses ordinarios o de demora, etc.) en el mes al que corresponda la declaración como consecuencia de la adjudicación o recepción de activos diferentes de efectivo.
 
-Operación subrogada o segregada
-
-Tipo de subrogación o segregación.
+## Operación subrogada o segregada. Tipo de subrogación o segregación.
 
 Indica si la operación ha sido subrogada o segregada en el mes y, en su caso, por quién o quiénes:
 
@@ -2596,13 +2654,11 @@ Indica si la operación ha sido subrogada o segregada en el mes y, en su caso, p
 
 La asignación de los valores anteriores se hará conforme a las definiciones incluidas en la dimensión «Origen de la operación» del módulo B.2, Datos básicos de las operaciones. En aquellos casos excepcionales en los que en el mismo mes se produzca una subrogación del deudor y una subrogación del acreedor, se declarará el valor que le corresponda a la subrogación del acreedor.
 
-Importe por el que se reduce la deuda.
+## Operación subrogada o segregada. Importe por el que se reduce la deuda.
 
 Importe en el que se reduce la deuda por cualquier concepto (principal, intereses ordinarios o de demora, etc.) en el mes al que corresponde la declaración por subrogación o segregación.
 
-Refinanciación o renovación
-
-Tipo de refinanciación o renovación.
+## Refinanciación o renovación. Tipo de refinanciación o renovación.
 
 Indica si la operación ha sido renovada o refinanciada en el mes y, en su caso, por quién o quiénes:
 
@@ -2624,63 +2680,61 @@ La asignación de los valores anteriores se hará conforme a las definiciones de
 
 Cuando la operación se refinancie en el mismo mes por entidades declarantes y no declarantes, se indicará el valor que corresponda de las entidades declarantes.
 
-Importe por el que se reduce la deuda.
+## Refinanciación o renovación. Importe por el que se reduce la deuda.
 
 Importe en el que se reduce la deuda por cualquier concepto (principal, intereses ordinarios o de demora, etc.) en el mes al que corresponde la declaración por refinanciación o renovación.
 
-Operación transferida, incluida la gestión
-
-Importe por el que se reduce la deuda.
+## Operación transferida incluida la gestión. Importe por el que se reduce la deuda.
 
 Importe en el que se reduce la deuda por cualquier concepto (principal, intereses ordinarios o de demora, etc.) en el mes como consecuencia de una transferencia en la que, además del riesgo, se cede la gestión de la operación frente a los titulares.
 
 En este dato también se informará del importe de las operaciones cedidas como consecuencia de una combinación o cesión de negocio, excepto que la entidad adquirente sea otra entidad declarante.
 
-Fecha de la última liquidación de intereses
+## Fecha de la última liquidación de intereses.
 
-Fecha de la última liquidación de intereses realizada a la operación, con independencia de que se haya cobrado.
+Fecha de la última liquidación de intereses realizada a la operación con independencia de que se haya cobrado.
 
 Formato: AAAAMMDD.
 
-Fecha de la próxima liquidación de intereses
+## Fecha de la próxima liquidación de intereses.
 
 Fecha de la próxima liquidación de intereses que realizar a la operación.
 
 Formato: AAAAMMDD.
 
-Fecha de la última liquidación de principal
+## Fecha de la última liquidación de principal.
 
-Fecha de la última liquidación de principal realizada, con independencia de que se haya cobrado.
+Fecha de la última liquidación de principal realizada con independencia de que se haya cobrado.
 
 Formato: AAAAMMDD.
 
-Fecha de la próxima liquidación de principal
+## Fecha de la próxima liquidación de principal.
 
 Fecha de la próxima liquidación de principal que realizar a la operación.
 
 Formato: AAAAMMDD.
 
-Número de cuotas impagadas
+## Número de cuotas impagadas.
 
 Para los préstamos con algún incumplimiento que en la dimensión «Esquema de amortización» del módulo B.2, Datos básicos de las operaciones, se indique que se pagan con cuotas, número de cuotas impagadas pendientes de cobro.
 
 Para el resto de las operaciones no se declarará este dato.
 
-Tipo efectivo de definición restringida (TEDR)
+## Tipo efectivo de definición restringida (TEDR).
 
 Este tipo de interés hace referencia al tipo efectivo de definición restringida de la operación calculado, en términos absolutos, conforme a lo dispuesto en la Circular 1/2010, de 27 de enero, sobre estadísticas de los tipos de interés que se aplican a los depósitos y a los créditos frente a los hogares y las sociedades no financieras.
 
 El tipo de interés se tiene que declarar para todas las operaciones, con independencia del sector institucional al que pertenezcan los titulares, incluidas aquellas para las que solo se tengan que declarar datos en la parte 4 de este módulo porque la entidad no asuma riesgo.
 
-El tipo de interés se calculará como media ponderada de los tipos de interés aplicados en los distintos tramos del saldo vivo, incluidos los intereses aplicados a los importes excedidos y en mora.
+El tipo de interés se calculará como media ponderada de los tipos de interés aplicados en los distintos tramos del saldo vivo incluidos los intereses aplicados a los importes excedidos y en mora.
 
 Si el saldo vivo nominal es cero, el tipo de interés se calculará como una media ponderada sobre el saldo máximo disponible.
 
-Para préstamos en que no se apliquen intereses se declarará «No aplicable».
+Para préstamos en que no se apliquen intereses, se declarará el valor «No aplicable». Este valor se declarará también en las operaciones de crédito comercial sin recurso.
 
 Formato: porcentaje con tres decimales.
 
-Signo del tipo efectivo de definición restringida (TEDR)
+## Signo del tipo efectivo de definición restringida TEDR.
 
 Indica si el tipo efectivo de definición restringida informado es positivo o negativo:
 
@@ -2688,7 +2742,7 @@ Indica si el tipo efectivo de definición restringida informado es positivo o ne
 
 – Negativo.
 
-Fecha de la próxima revisión del tipo de interés
+## Fecha de la próxima revisión del tipo de interés.
 
 Fecha en que tendrá lugar la próxima revisión del tipo de interés.
 
@@ -2698,121 +2752,153 @@ Para las operaciones que no estén sujetas a revisión (como las que tienen tipo
 
 Formato: AAAAMMDD.
 
+## Clasificación de las operaciones en función del riesgo de crédito por insolvencia.
+
+Clasificación en función del riesgo de crédito por insolvencia de acuerdo con lo establecido en el anejo 9 de la Circular 4/2017.
+
+a) Riesgo normal.
+
+– Riesgo normal.
+
+b) Riesgo normal en vigilancia especial.
+
+– Riesgo normal en vigilancia especial.
+
+c) Riesgo dudoso.
+
+– Dudoso no moroso.
+
+Moroso (y arrastre de operaciones).
+
+– Con importes vencidos entre más de 90 días y hasta 6 meses.
+
+– Con importes vencidos entre más de 6 meses y hasta 9 meses.
+
+– Con importes vencidos entre más de 9 meses y hasta 12 meses.
+
+– Con importes vencidos entre más de 12 meses y hasta 15 meses.
+
+– Con importes vencidos entre más de 15 meses y hasta 18 meses.
+
+– Con importes vencidos entre más de 18 meses y hasta 21 meses.
+
+– Con importes vencidos de más de 21 meses.
+
+d) Riesgo fallido.
+
+– Riesgo fallido.
+
+– No aplicable.
+
+La Sociedad de Gestión de Activos Procedentes de la Reestructuración Bancaria, SA (Sareb) y las sucursales en España de entidades de crédito extranjeras cuya sede central se encuentre en un Estado miembro del Espacio Económico Europeo que, en aplicación de lo establecido en la norma 2, apartado 2, letra b), de la circular 4/2017, hayan decidido aplicar los criterios de valoración y cobertura del riesgo de crédito que utilice su sede central y así hayan informado al Banco de España, declararán el valor «No aplicable».
+
 Parte 4. Datos de los riesgos directos asumidos por terceros
 
-Principal asumido por terceros
+## Principal asumido por terceros. Importe no vencido.
 
-Importe no vencido
+Importe del principal no vencido asumido por terceros correspondiente a operaciones dadas de baja del activo, total o parcialmente, conforme a la normativa contable aplicable para las transferencias de activos.
 
-Importe del principal no vencido asumido por terceros correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Cuando se trate de operaciones calificadas como de refinanciación, refinanciadas o reestructuradas en la dimensión «Estado de refinanciaciones y reestructuraciones» del módulo B.2, «Datos básicos de las operaciones», importe vencido asumido por terceros calculado aplicando el mismo criterio que en el campo «Principal asumido por la entidad. Importe no vencido».
 
-Cuando se trate de operaciones calificadas como de refinanciación, refinanciadas o reestructuradas en la dimensión “Estado de refinanciaciones y reestructuraciones” del módulo B.2, Datos básicos de las operaciones, importe vencido asumido por terceros calculado aplicando el mismo criterio que en el campo “Principal asumido por la entidad. Importe no vencido”.
-
-Importe vencido
+## Principal asumido por terceros. Importe vencido.
 
 Importe del principal vencido asumido por terceros correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
 
-Cuando se trate de operaciones calificadas como de refinanciación, refinanciadas o reestructuradas en la dimensión “Estado de refinanciaciones y reestructuraciones” del módulo B.2, “Datos básicos de las operaciones”, importe vencido asumido por terceros calculado aplicando el mismo criterio que en el campo “Principal asumido por la entidad. Importe vencido”.
+Cuando se trate de operaciones calificadas como de refinanciación, refinanciadas o reestructuradas en la dimensión «Estado de refinanciaciones y reestructuraciones» del módulo B.2, «Datos básicos de las operaciones», importe vencido asumido por terceros calculado aplicando el mismo criterio que en el campo «Principal asumido por la entidad. Importe vencido».
 
-Intereses y comisiones vencidos asumidos por terceros
-
-Importe de los intereses y comisiones pendientes de cobro asumido por terceros correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
-
-Intereses de demora asumidos por terceros
+## Intereses de demora asumidos por terceros.
 
 Importe de los intereses de demora asumido por terceros correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
 
-Gastos exigibles asumidos por terceros
+## Gastos exigibles asumidos por terceros.
 
 Importe de los gastos exigibles asumido por terceros correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
 
-Pro memoria: importe vencido antes de la refinanciación o reestructuración asumido por terceros.
+## Pro memoria: importe vencido antes de la refinanciación o reestructuración asumido por terceros.
 
-En las operaciones calificadas como de refinanciación, refinanciadas o reestructuradas en la dimensión “Estado de refinanciaciones y reestructuraciones” del módulo B.2, “Datos básicos de las operaciones”, importe vencido con anterioridad a la refinanciación o reestructuración asumido por terceros calculado aplicando el mismo criterio que en el campo “Pro memoria: importe vencido con anterioridad a la refinanciación o reestructuración asumido por la entidad”.
+En las operaciones calificadas como de refinanciación, refinanciadas o reestructuradas en la dimensión «Estado de refinanciaciones y reestructuraciones» del módulo B.2, «Datos básicos de las operaciones», importe vencido con anterioridad a la refinanciación o reestructuración asumido por terceros calculado aplicando el mismo criterio que en el campo «Pro memoria: importe vencido con anterioridad a la refinanciación o reestructuración asumido por la entidad».
 
-Límite actual del riesgo asumido por terceros
+## Límite actual del riesgo asumido por terceros.
 
-Importe del límite actual del riesgo asumido por terceros correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe del límite actual del riesgo asumido por terceros correspondiente a operaciones dadas de baja del activo, total o parcialmente, conforme a la normativa contable aplicable para las transferencias de activos.
 
-Riesgo disponible asumido por terceros
+## Riesgo disponible asumido por terceros. Disponibilidad inmediata.
 
-Disponibilidad inmediata
+Importe del riesgo disponible con disponibilidad inmediata asumido por terceros correspondiente a operaciones dadas de baja del activo, total o parcialmente, conforme a la normativa contable aplicable para las transferencias de activos.
 
-Importe del riesgo disponible con disponibilidad inmediata asumido por terceros correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+## Riesgo disponible asumido por terceros. Disponibilidad condicionada.
 
-Disponibilidad condicionada
+Importe del riesgo disponible con disponibilidad condicionada asumido por terceros correspondiente a operaciones dadas de baja del activo, total o parcialmente, conforme a la normativa contable aplicable para las transferencias de activos.
 
-Importe del riesgo disponible con disponibilidad condicionada asumido por terceros correspondiente a operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+## C.2. Datos dinámicos de los riesgos indirectos
 
-## C.2 Datos dinámicos de los riesgos indirectos
-
-Código de la operación
+## Código de la operación.
 
 Código con el que se identifica la operación garantizada por el titular del riesgo indirecto en el módulo B.2, Datos básicos de las operaciones.
 
-Código del titular del riesgo indirecto
+En las operaciones mancomunadas, los riesgos indirectos se asignarán a cada una de las operaciones del mismo contrato declaradas en el módulo B.2, aunque la garantía proporcionada por un titular de riesgo indirecto cubra todas las operaciones declaradas del contrato.
+
+En las pólizas de riesgo global-multiuso, líneas de avales, líneas de créditos documentarios y créditos por disposiciones, los riesgos indirectos se asignarán tanto a estas operaciones como a las operaciones procedentes de ellas con las que se hayan vinculado en el módulo G.1, Datos básicos que vinculan códigos, aunque la garantía proporcionada por un titular de riesgo indirecto cubra todas las operaciones declaradas del contrato.
+
+## Código del titular del riesgo indirecto.
 
 Código asignado al titular de los riesgos indirectos en el módulo B.1, Datos básicos que relacionan a las personas con las operaciones.
 
 Parte 1. Datos de los riesgos indirectos asumidos por la entidad declarante
 
-Riesgo máximo garantizado asumido por la entidad
+## Riesgo máximo garantizado asumido por la entidad.
 
 Importe máximo de la operación (principal, intereses y comisiones vencidos, intereses de demora y gastos exigibles pendientes de cobro más riesgo disponible con disponibilidad inmediata o condicionada) declarado en el módulo C.1, Datos dinámicos de los riesgos directos, garantizado por el titular del riesgo indirecto que corresponde al riesgo asumido por la entidad.
 
-Riesgo dispuesto garantizado asumido por la entidad.
-
-Importe total
+## Riesgo dispuesto garantizado asumido por la entidad. Importe total.
 
 Importe del riesgo dispuesto de la operación (principal, intereses y comisiones vencidos, intereses de demora y gastos exigibles pendientes de cobro) declarado en el módulo C.1, Datos dinámicos de los riesgos directos, garantizado por el titular del riesgo indirecto que corresponde al riesgo asumido por la entidad.
 
-Importe vencido
+## Riesgo dispuesto garantizado asumido por la entidad. Importe vencido.
 
 Importe del riesgo dispuesto vencido de la operación (principal vencido, intereses y comisiones vencidos, intereses de demora y gastos exigibles pendientes de cobro) declarado en el módulo C.1, Datos dinámicos de los riesgos directos, garantizado por el titular del riesgo indirecto que corresponde al riesgo asumido por la entidad.
 
-Intereses de demora y gastos exigibles
+## Riesgo dispuesto garantizado asumido por la entidad. Intereses de demora y gastos exigibles.
 
 Importe de los intereses de demora y gastos exigibles pendientes de cobro declarado en el módulo C.1, Datos dinámicos de los riesgos directos, garantizado por el titular del riesgo indirecto que corresponde al riesgo asumido por la entidad.
 
 Parte 2. Datos de los riesgos indirectos asumidos por terceros
 
-Riesgo máximo garantizado asumido por terceros
+## Riesgo máximo garantizado asumido por terceros.
 
-Importe del riesgo máximo garantizado por el titular del riesgo indirecto asumido por terceros de operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe del riesgo máximo garantizado por el titular del riesgo indirecto asumido por terceros de operaciones dadas de baja del activo, total o parcialmente, conforme a la normativa contable aplicable para las transferencias de activos.
 
-Importe total
+## Riesgo dispuesto garantizado asumido por terceros. Importe total.
 
-Importe total del riesgo dispuesto garantizado por el titular del riesgo indirecto asumido por terceros de operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe total del riesgo dispuesto garantizado por el titular del riesgo indirecto asumido por terceros de operaciones dadas de baja del activo, total o parcialmente, conforme a la normativa contable aplicable para las transferencias de activos.
 
-Importe vencido
+## Riesgo dispuesto garantizado asumido por terceros. Importe vencido.
 
-Importe vencido del riesgo dispuesto garantizado por el titular del riesgo indirecto asumido por terceros de operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe vencido del riesgo dispuesto garantizado por el titular del riesgo indirecto asumido por terceros de operaciones dadas de baja del activo, total o parcialmente, conforme a la normativa contable aplicable para las transferencias de activos.
 
-Intereses de demora y gastos exigibles
+## Riesgo dispuesto garantizado asumido por terceros. Intereses de demora y gastos exigibles.
 
-Importe de los intereses de demora y gastos exigibles garantizado por el titular del riesgo indirecto asumido por terceros de operaciones dadas de baja, total o parcialmente, del activo conforme a la normativa contable aplicable para las transferencias de activos.
+Importe de los intereses de demora y gastos exigibles garantizado por el titular del riesgo indirecto asumido por terceros de operaciones dadas de baja del activo, total o parcialmente, conforme a la normativa contable aplicable para las transferencias de activos.»
 
-## C.3 Datos dinámicos financieros de los préstamos a personas jurídicas
+## C.3. Datos dinámicos financieros de los préstamos a personas jurídicas
 
-Código de la operación
+## Código de la operación.
 
 Código con el que se identifica la operación en el módulo B.2, Datos básicos de las operaciones.
 
-Importe transferido
+## Importe transferido.
 
 Importe transferido de la propiedad económica del activo financiero por el agente observado a un tercero.
 
 Este importe corresponde a la parte del saldo vivo nominal que ha sido transferida por la entidad hasta la fecha de referencia, mediante una titulización tradicional u otro tipo de transferencia, independientemente de si el importe estaba reconocido en el balance de la entidad.
 
-Se declararán todos los importes transferidos, excepto los que correspondan al saldo vivo que hayan sido adquiridos por otros agentes observados de un Estado miembro informante.
-
 Si el agente observado transfiere totalmente una operación con importes fallidos y ya no la gestiona, mantendrá la declaración a la CIR hasta fin del trimestre correspondiente conforme a la norma sexta, apartado 7.
 
 Si no hubiera importes transferidos, se declarará cero.
 
-Situación de impago (default) de la operación
+## Situación de impago (default) de la operación.
 
-Situación de impago de la operación a la fecha a que se refiere la declaración. Esta dimensión se declarará para todas las operaciones conforme al artículo 178 del Reglamento (UE) n.º 575/2013, incluidas aquellas en las que la entidad no tenga reconocidas en su balance porque se gestionen por cuenta de terceros o estén íntegramente fallidas:
+Situación de impago de la operación a la fecha a que se refiere la declaración. Esta dimensión se declarará para todas las operaciones conforme al artículo 178 del Reglamento (UE) n.º 575/2013, incluidas aquellas que la entidad no tenga reconocidas en su balance porque se gestionen por cuenta de terceros o estén íntegramente fallidas:
 
 – Sin situación de impago.
 
@@ -2834,9 +2920,9 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Situación de impago por improbabilidad de pago y por mora superior a 90 días: la operación está en situación de impago por improbabilidad de pago y por mora superior a 90 días conforme al Reglamento (UE) n.º 575/2013.
 
-– No aplicable: se declarará este valor cuando la situación de impago no se determine para cada operación sino respecto al titular.
+– No aplicable: se declarará este valor cuando la operación se considere íntegramente fallida o cuando la situación de impago no se determine para cada operación sino respecto al titular.
 
-Fecha de la situación de impago (default) de la operación
+## Fecha de la situación de impago (default) de la operación.
 
 Fecha en que se produce cualquiera de las situaciones de impago declaradas en la dimensión «Situación de impago de la operación».
 
@@ -2848,81 +2934,119 @@ Se declarará «No aplicable» cuando el valor de la dimensión «Situación de 
 
 Formato: AAAAMMDD.
 
-Importes vencidos de la operación
+## Importes vencidos de la operación.
 
 Importe agregado de principal, intereses y comisiones contractualmente vencidos incluidos en el saldo vivo nominal y que están pendientes de pago en la fecha de referencia.
 
-Este importe hace referencia a la totalidad de la operación, independientemente de que haya sido total o parcialmente transferida.
+Este importe hace referencia a la totalidad de la operación independientemente de que haya sido total o parcialmente transferida.
 
-Se declararán todos los importes vencidos de la operación, incluidos los importes transferidos, salvo que hayan sido adquiridos por otros agentes observados de un Estado miembro informador.
+Se declararán todos los importes vencidos de la operación, incluidos los importes transferidos a los que se refiere el apartado 4 de la norma segunda.
 
-Se declarará cero si el saldo vivo nominal no tiene ningún importe vencido y pendiente de pago en la fecha de la declaración.
+Se declarará cero si el saldo vivo nominal no tiene ningún importe vencido y pendiente de pago en la fecha de la declaración. También se declarará cero cuando la operación se considere íntegramente fallida.
 
-Saldo vivo nominal
+## Saldo vivo nominal.
 
 Este saldo incluye el principal vencido y no vencido, los intereses y comisiones vencidos, y los gastos contractualmente exigibles a la fecha de referencia deducidos los importes contabilizados como fallidos acumulados.
 
-Se declarará todo el saldo vivo de la operación, incluidos los importes transferidos, salvo que hayan sido adquiridos por otros agentes observados de un Estado miembro informador.
+Se declarará todo el saldo vivo de la operación, incluidos los importes transferidos a los que se refiere el apartado 4 de la norma segunda.
 
-Este importe puede ser cero en caso de que no haya habido disposiciones a la fecha de la declaración o de que toda la operación sea considerada fallida.
+Se declarará cero en caso de que no haya habido disposiciones a la fecha de la declaración. También se declarará cero cuando la operación se considere íntegramente fallida.
 
-Saldo fuera de balance
+## Saldo fuera de balance.
 
 Importe del límite actual del riesgo, asumido o gestionado por la entidad, no dispuesto a la fecha de referencia.
 
-Se declarará todo el saldo fuera de balance, incluidos los importes transferidos, salvo que hayan sido adquiridos por otros agentes observados de un Estado miembro informante.
+Se declarará todo el saldo fuera de balance, incluidos los importes transferidos a los que se refiere el apartado 4 de la norma segunda.
 
 En caso de que la operación no tenga un límite disponible a la fecha de referencia, se declarará cero.
 
-Para las operaciones que por su naturaleza no puedan tener saldos disponibles (por ejemplo, descubiertos, operaciones de recompra inversa, etc.) se declarará «No aplicable».
+Para las operaciones que por su naturaleza no puedan tener saldos disponibles (por ejemplo, descubiertos, operaciones de recompra inversa, etc.), se declarará «No aplicable». Este valor también se declarará cuando la operación se considere íntegramente fallida.
 
-Interés devengado
+## Interés devengado.
 
 El importe del interés devengado a la fecha de la declaración.
 
 Este importe se calculará conforme a la normativa contable.
 
-Para las operaciones no reconocidas en balance se calculará conforme a las condiciones estipuladas en el contrato.
+Para las operaciones no reconocidas en balance, se calculará conforme a las condiciones estipuladas en el contrato, excepto para las operaciones que se consideren íntegramente fallidas, para las que se declarará cero.
 
-## C.4 Datos de los préstamos a personas jurídicas sobre las responsabilidades conjuntas
+Para los préstamos que no devenguen intereses porque no se aplica ningún interés a la operación, se declarará el valor «No aplicable». Este valor se declarará también en las operaciones de crédito comercial sin recurso.
 
-Código de la operación
+## C.4. Datos de los préstamos a personas jurídicas sobre las responsabilidades conjuntas
+
+## Código de la operación
 
 Código con el que se identifica la operación en el módulo B.2, Datos básicos de las operaciones.
 
-Código de la persona
+## Código de la persona.
 
-Código asignado al titular de riesgo directo cuya naturaleza de la intervención en el módulo B.1, Datos básicos que relacionan a las personas con las operaciones, es:
+Código asignado al titular de riesgo directo cuya naturaleza en la intervención, en el módulo B.1, Datos básicos que relacionan a las personas con las operaciones es.
 
-– titular de riesgo directo solidario distinto del 100 %, o
+– Titular de riesgo directo solidario distinto del 100%, o.
 
-– titular de riesgo directo mancomunado solidario distinto del 100 % con otros titulares directos mancomunados.
+– Titular de riesgo directo mancomunado solidario distinto del 100 % con otros titulares directos mancomunados.
 
-Importe de la responsabilidad conjunta
+## Importe de la responsabilidad conjunta.
 
 Parte del «Saldo vivo nominal» declarado en el módulo C.3, Datos dinámicos financieros de los préstamos a personas jurídicas, que corresponda al titular solidario declarado en la dimensión «Código de la persona».
 
 D. DATOS SOBRE GARANTÍAS RECIBIDAS
 
-## D.1 Datos básicos que relacionan las operaciones con las garantías recibidas
+## D.1. Datos básicos que relacionan las operaciones con las garantías recibidas
 
-Código de la operación
+## Código de la operación.
 
 Código con el que se identifica la operación en el módulo B.2, Datos básicos de las operaciones.
 
-En las operaciones mancomunadas, los datos de las garantías se declararán una sola vez, siempre que las garantías recibidas cubran la totalidad de la operación, vinculándolos con el código de la operación que se declare en la dimensión «Código que se vincula» del módulo G.1, Datos básicos que vinculan códigos.
+En las operaciones mancomunadas, los datos de las garantías se asignarán a cada una de las operaciones del mismo contrato declaradas en el módulo B.2, aunque estas garantías cubran todas las operaciones declaradas del contrato.
 
-Los «Créditos por disposiciones» vinculados con préstamos en el módulo G.1 se declaran en este módulo como si fueran una única operación, utilizando como código de operación el asignado al «Crédito por disposiciones».
+En las pólizas de riesgo global-multiuso, líneas de avales, líneas de créditos documentarios y créditos por disposiciones, los datos de las garantías se asignarán tanto a estas operaciones como a las operaciones procedentes de ellas con las que se hayan vinculado en el módulo G.1, Datos básicos que vinculan códigos, aunque estas garantías cubran todas las operaciones declaradas del contrato.
 
-Tipo de garantía
+## Código de la garantía recibida.
 
-Tipo de producto o garantía adicional a la del propio instrumento con la que, en su caso, cuente la operación, cualquiera que sea el loan to value:
+Código con el que se identifica a la garantía recibida en el módulo D.1.1, Datos básicos de las garantías recibidas.
 
-a) Garantías reales:
+## Garantía real principal asignada a la operación.
+
+Indica si la garantía se considera como la que más eficientemente garantiza la operación:
+
+– Sí.
+
+– No.
+
+– No aplicable.
+
+En el supuesto que la garantía real recibida se asigne a una sola operación se declarará el valor «Sí».
+
+En caso de que varias garantías reales se asignen a una operación, se indicará el valor «Sí» al código de la garantía que a efectos de gestión se considere que garantiza más eficientemente la operación, y se asignará el valor «No» al resto de los códigos de garantía asignados a la operación. En todo caso, se asignará el valor «Sí» a una garantía inmobiliaria o garantía pignoraticia antes que al resto de las garantías reales.
+
+El valor «No aplicable» se asignará cuando la garantía recibida no sea una garantía real.
+
+D.1.1. Datos básicos de las garantías recibidas
+
+## Código de la garantía recibida.
+
+Código que identifica el activo recibido en garantía de la operación, la garantía financiera recibida, el activo cedido en arrendamiento financiero o el activo subyacente en préstamos de recompra inversa.
+
+Este código debe ser único para cada garantía a lo largo de toda su vida y vincularse con todas las operaciones garantizadas por él con independencia de la fecha en la que se formalicen.
+
+Cuando el activo sea un inmueble, el código será el que se declare en el módulo D.2, Datos básicos de los inmuebles recibidos en garantía.
+
+Cuando el activo sea un activo financiero, el código será el que se declare en el módulo D.3, Datos básicos de los activos financieros recibidos en garantía.
+
+Parte 1. Datos de las garantías recibidas
+
+## Tipo de garantía.
+
+Tipo de producto o garantía con la que, en su caso, cuente la operación, cualquiera que sea el loan to value:
+
+a) Garantías reales adicionales a la del propio instrumento de la operación:
 
 – Hipoteca inmobiliaria (primera hipoteca).
 
 – Hipoteca inmobiliaria (resto de las hipotecas).
+
+– Otras garantías inmobiliarias.
 
 – Garantía pignoraticia (activos financieros).
 
@@ -2932,159 +3056,51 @@ a) Garantías reales:
 
 – Garantías reales distintas de las anteriores.
 
+b) Otras garantías distintas de las garantías personales.
+
 – Arrendamiento financiero de bienes inmuebles.
 
 – Arrendamiento financiero del resto de los bienes.
 
-b) Garantías personales:
+– Activos financieros adquiridos temporalmente en préstamos de recompra inversa.
 
-– Garantías financieras recibidas: los contratos que exigen que el emisor efectúe pagos específicos para reembolsar al acreedor por la pérdida en la que incurre cuando un deudor específico incumpla su obligación de pago de acuerdo con las condiciones, originales o modificadas, de un instrumento de deuda, con independencia de su forma jurídica.
+– Otros activos materiales adquiridos temporalmente en préstamos de recompra inversa.
 
-La asignación de los valores anteriores se realizará utilizando los mismos criterios que los correspondientes a los valores de idéntica denominación de la dimensión «Tipo de garantía real principal» del módulo C.1, Datos dinámicos de los riesgos directos. Para los valores no incluidos en dicha dimensión se utilizarán los siguientes criterios:
+– Resto de garantías materiales o inmateriales.
 
-– Arrendamiento financiero de bienes inmuebles: operaciones cuyo tipo de producto sea un arrendamiento financiero y el bien cedido en arrendamiento sea un inmueble.
+c) Garantías personales.
 
-– Arrendamiento financiero del resto de los bienes: operaciones cuyo tipo de producto sea un arrendamiento financiero y el bien cedido en arrendamiento no sea un inmueble.
+– Garantías financieras recibidas.
 
-Alcance de la garantía real
+La asignación de los valores se realizará utilizando los siguientes criterios:
 
-Indica si la garantía se constituye para garantizar una operación concreta o sirve para garantizar varias operaciones:
+– Para los valores del apartado a) Garantías reales adicionales a la del propio instrumento de la operación, se utilizarán los mismos criterios que los correspondientes a los valores de idéntica denominación de la dimensión «Tipo de garantía real principal» del módulo C.1, Datos dinámicos de los riesgos directos.
 
-– Garantía ordinaria.
+– Arrendamiento financiero de bienes inmuebles: inmuebles cedidos en arrendamiento en operaciones cuyo tipo de producto sea un arrendamiento financiero.
 
-– Garantía de máximo.
+– Arrendamiento financiero del resto de los bienes: activos diferentes de inmuebles cedidos en arrendamiento en operaciones cuyo tipo de producto sea un arrendamiento financiero.
 
-La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
+– Activos financieros adquiridos temporalmente en préstamos de recompra inversa: activos financieros subyacentes en operaciones cuyo tipo de producto sea resto de los préstamos de recompra inversa.
 
-– Garantía ordinaria: cuando la garantía se constituye para garantizar una operación concreta.
+– Otros activos materiales adquiridos temporalmente en préstamos de recompra inversa: activos no financieros subyacentes en operaciones cuyo tipo de producto sea resto de los préstamos de recompra inversa.
 
-– Garantía de máximo: cuando la garantía sirve para garantizar una o más operaciones, presentes o futuras, sin necesidad de pacto novatorio.
+– Resto de garantías materiales o inmateriales: otras garantías materiales o inmateriales diferentes de las garantías reales.
 
-Código de la garantía real de máximo
+– Garantías financieras recibidas: contratos que exigen que el emisor efectúe pagos específicos para reembolsar al acreedor por la pérdida en la que incurre cuando un deudor específico incumpla su obligación de pago de acuerdo con las condiciones, originales o modificadas, de un instrumento de deuda, con independencia de su forma jurídica.
 
-Para las garantías de máximo, código que identifica la garantía.
+Tipo de activo o garantía financiera.
 
-Este código debe ser único para cada garantía a lo largo de toda su vida y vincularse con todas las operaciones garantizadas por ella, con independencia de la fecha en la que se formalicen.
+Para los bienes inmuebles:
 
-Código de la garantía recibida
-
-Código que identifica el activo recibido en garantía de la operación o cedido en arrendamiento financiero (garantía real), o a la garantía financiera recibida (garantía personal).
-
-Este código debe ser único para cada garantía a lo largo de toda su vida y vincularse con todas las operaciones garantizadas por él, con independencia de la fecha en la que se formalicen.
-
-Cuando el activo sea un inmueble, el código será el que se declare en el módulo D.2, Datos básicos de los inmuebles recibidos en garantía.
-
-Cuando el activo sea un activo financiero, el código será el que se declare en el módulo D.3, Datos básicos de los activos financieros recibidos en garantía.
-
-Cuando se trate de un activo no financiero distinto de inmuebles o cuando se trate de garantías financieras recibidas, el código será el que se declare en el módulo D.6, Datos básicos del resto de las garantías recibidas distintas de inmuebles y activos financieros de préstamos a personas jurídicas.
-
-Orden de prelación de la garantía
-
-Para las operaciones con garantía hipotecaria, número que ocupa la hipoteca en el orden de prelación (1.ª, 2.ª, 3.ª, etc.), una vez descontadas las hipotecas canceladas económicamente.
-
-Importe de la responsabilidad hipotecaria
-
-Principal
-
-Para las operaciones con hipoteca inmobiliaria ordinaria, importe de la responsabilidad hipotecaria del bien según la escritura de la hipoteca que sirve de garantía del principal de la operación.
-
-Para las operaciones con hipoteca inmobiliaria de máximo, importe máximo de la responsabilidad hipotecaria del bien según la escritura que sirve de garantía del principal de todas las operaciones que se puedan cubrir con la hipoteca. Este importe será idéntico para todas las operaciones vinculadas con el mismo código de garantía y de activo recibido en garantía.
-
-Intereses y costas
-
-Para las operaciones con hipoteca inmobiliaria ordinaria, importe de la responsabilidad hipotecaria del bien según la escritura de la hipoteca que sirve de garantía de los intereses y costas de la operación.
-
-Para las operaciones con hipoteca inmobiliaria de máximo, importe máximo de la responsabilidad hipotecaria del bien según la escritura que sirve de garantía de los intereses y costas de todas las operaciones cubiertas por la hipoteca. Este importe será idéntico para todas las operaciones vinculadas con el mismo código de garantía y de activo recibido en garantía.
-
-Activos en garantía de financiaciones de promociones inmobiliarias
-
-Para las operaciones cuya finalidad es la construcción o promoción inmobiliaria, incluida la financiación de suelo, indica si los activos recibidos en garantía son los mismos activos objeto de la promoción financiada:
-
-– Sí.
-
-– No.
-
-Tipo de activo recibido en garantía (activos no financieros distintos de inmuebles)
-
-Para las operaciones cuyo tipo de garantía sea hipoteca naval, operación inscrita en el Registro de Ventas a Plazo de Bienes Muebles, garantía real distinta de las anteriores o arrendamiento financiero del resto de los bienes, tipo de activo que sirve de garantía o se ha cedido en arrendamiento financiero:
-
-a) Bienes muebles:
-
-– Buques.
-
-– Aeronaves.
-
-– Automóviles y otros vehículos de motor.
-
-– Resto de los bienes muebles.
-
-b) Restantes activos materiales:
-
-– Mercaderías o resguardos de depósito de estas.
-
-– Metales preciosos y joyas.
-
-– Resto de los activos materiales.
-
-c) Resto de los activos
-
-– Resto de los activos.
-
-La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
-
-– Resto de los bienes muebles: bienes muebles distintos de los buques, aeronaves, automóviles y otros vehículos de motor.
-
-– Resto de los activos materiales: activos materiales distintos de los activos inmobiliarios, bienes muebles, mercaderías, metales preciosos y joyas.
-
-– Resto de los activos: activos intangibles y resto de los activos distintos de los materiales y financieros.
-
-## D.2 Datos básicos de los inmuebles recibidos en garantía
-
-Código de la garantía recibida
-
-Código que identifica al inmueble recibido en garantía de operaciones concedidas por la entidad declarante, o que tiene cedido en arrendamiento financiero.
-
-Este código debe ser único para cada activo o conjunto de activos que se declaren conjuntamente. Los activos se declararán una sola vez en este módulo, incluso cuando se utilicen como garantía en más de una hipoteca en la que el acreedor sea la entidad declarante.
-
-En los edificios integrados por varios elementos, se declarará de forma separada cada una de las unidades que los integran, salvo cuando no se haya hecho la división horizontal o la entidad carezca de información detallada, en cuyo caso se asignará un código único al inmueble. También se asignará un único código para los terrenos que se gestionen como una unidad, con independencia de que estén integrados por varias fincas registrales o catastrales.
-
-Consideración del inmueble en la normativa europea aplicable para el cálculo del coeficiente de recursos propios
-
-Indica la consideración del inmueble recibido en garantía en la normativa europea aplicable para el cálculo del coeficiente de recursos propios:
-
-– Residencial.
-
-– Oficinas y locales comerciales.
-
-– Resto de inmuebles comerciales.
-
-La asignación de los valores anteriores se realizará utilizando los criterios establecidos en la normativa europea aplicable para el cálculo del coeficiente de recursos propios.
-
-Localización del inmueble
-
-País
-
-Código ISO alfabético del país donde se ubique el activo inmobiliario.
-
-Código postal
-
-Cuando el inmueble esté en España, código postal de la dirección en la que se ubique. Cuando el inmueble esté localizado en otro Estado miembro informante, código postal disponible o código NUTS nivel 3 que corresponda a la región donde esté localizado el inmueble.
-
-Parte 1. Datos para los inmuebles
-
-Tipo de activo (inmuebles)
-
-Tipo de inmueble que sirve de garantía o se ha cedido en arrendamiento financiero:
-
-a) Edificios y elementos de edificios:
+a) Edificios y elementos de edificios.
 
 – Viviendas.
 
 • Protegida.
 
-• Libre, de primera residencia.
+• Libre de primera residencia.
 
-• Libre, de segunda residencia.
+• Libre de segunda residencia.
 
 – Oficinas.
 
@@ -3104,11 +3120,11 @@ a) Edificios y elementos de edificios:
 
 – Resto de los edificios.
 
-b) Otras construcciones:
+b) Otras construcciones.
 
 – Otras construcciones.
 
-c) Terrenos:
+c) Terrenos.
 
 – Suelos urbanos o urbanizables.
 
@@ -3120,13 +3136,71 @@ c) Terrenos:
 
 – Resto de los terrenos.
 
-La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
+Para los activos financieros:
 
-– Viviendas: viviendas unifamiliares o que formen parte de un edificio compuesto por más unidades, incluidas sus plazas de garaje y trasteros, así como los edificios o la parte de ellos que consista en viviendas.
+d) Activos financieros.
 
-– Oficinas: oficinas individuales, así como los edificios o la parte de ellos que consista en oficinas.
+– Efectivo y depósitos dinerarios.
 
-– Locales comerciales: locales comerciales individuales, así como los edificios o la parte de ellos que consista en locales comerciales.
+– Valores representativos de deuda.
+
+– Otros instrumentos de deuda.
+
+– Instrumentos de capital distintos de participaciones en fondos de inversión.
+
+– Instrumentos de patrimonio diferentes de los instrumentos de capital.
+
+– Participaciones en fondos de inversión.
+
+– Cartera comercial (efectos comerciales).
+
+– Otros activos financieros.
+
+Para el resto de los activos materiales e inmateriales:
+
+e) Bienes muebles.
+
+– Buques.
+
+– Aeronaves.
+
+– Automóviles y otros vehículos de motor.
+
+– Resto de los bienes muebles.
+
+f) Pólizas de seguros de vida pignoradas.
+
+– Pólizas de seguros de vida pignoradas.
+
+g) Restantes activos materiales.
+
+– Mercaderías o resguardos de depósito de estas.
+
+– Oro.
+
+– Joyas y metales preciosos distintos de oro.
+
+– Resto de los activos materiales.
+
+h) Resto de los activos.
+
+– Resto de los activos.
+
+Para las garantías financieras recibidas:
+
+i) Garantías financieras recibidas.
+
+– Derivados de crédito.
+
+– Garantías financieras distintas de derivados de crédito.
+
+La asignación de los valores para los bienes inmuebles se realizará utilizando los siguientes criterios:
+
+– Viviendas: viviendas unifamiliares o que formen parte de un edificio compuesto por más unidades, incluidas sus plazas de garaje y trasteros, así como los edificios o la parte de ellos que consistan en viviendas.
+
+– Oficinas: oficinas individuales, así como los edificios o la parte de ellos que consistan en oficinas.
+
+– Locales comerciales: locales comerciales individuales, así como los edificios o la parte de ellos que consistan en locales comerciales.
 
 – Naves polivalentes: naves susceptibles de uso polivalente porque no incorporan características o elementos constructivos o normativos que limiten o dificulten su uso para diferentes actividades, sin grandes transformaciones o cambios, lo que puede posibilitar su fácil realización en efectivo.
 
@@ -3150,7 +3224,233 @@ Los inmuebles se clasificarán como edificios o elementos de edificios desde el 
 
 Cuando se tenga que modificar el tipo de activo por haber cambiado su estatus, se comunicará «reclasificación» como motivo del cambio.
 
-Inmueble integrado por varias fincas
+La asignación de los valores para los activos financieros se realizará utilizando los siguientes criterios:
+
+– Instrumentos de deuda: efectivo, depósitos dinerarios en entidades de crédito, valores representativos de deuda y otros instrumentos de deuda (préstamos distintos de los depósitos a entidades de crédito).
+
+– Instrumentos de capital distintos de participaciones en fondos de inversión: instrumentos financieros emitidos por otras entidades, tales como acciones y participaciones, que tengan la naturaleza de instrumentos de capital para el emisor, incluidas las participaciones en entidades del grupo, multigrupo y asociadas, y que no sean participaciones en fondos de inversión.
+
+– Instrumentos de patrimonio diferentes de los instrumentos de capital: instrumentos financieros emitidos por otras entidades que, teniendo la consideración de patrimonio neto según la normativa contable aplicable a las entidades de crédito, no se puedan registrar en el balance como capital.
+
+– Cartera comercial: efectos comerciales que sirven de garantía para tipos de producto diferentes de «Crédito comercial».
+
+– Otros activos financieros: activos financieros no clasificados en las otras categorías.
+
+La asignación de los valores para el resto de los activos materiales e inmateriales se realizará utilizando los siguientes criterios:
+
+– Resto de los bienes muebles: bienes muebles distintos de los buques, aeronaves, automóviles y otros vehículos de motor.
+
+– Pólizas de seguro de vida pignoradas: pólizas de seguro de vida pignoradas en favor de la entidad de crédito acreedora conforme al Reglamento (UE) n.º 575/2013.
+
+– Oro: oro conforme al Reglamento (UE) n.º 575/2013, es decir, oro en lingotes mantenido en cajas fuertes propias o depositado en custodia, en la medida en que esté respaldado por pasivos en forma de lingotes de oro.
+
+– Resto de los activos materiales: otras garantías de naturaleza física conforme al Reglamento (UE) n.º 575/2013 y no incluidas en los valores anteriores.
+
+– Resto de los activos: activos intangibles y resto de los activos distintos de los materiales y financieros.
+
+La asignación de los valores para las garantías financieras recibidas se realizará utilizando los siguientes criterios:
+
+– Derivados de crédito: incluye los derivados de crédito que se ajustan a la definición de garantía financiera conforme al anexo V del Reglamento de Ejecución (UE) n.º 680/2014, así como los derivados de crédito distintos de las garantías financieras conforme al anexo V del Reglamento de Ejecución (UE) n.º 680/2014. Se incluyen los derivados de crédito admisibles del artículo 204 del Reglamento (UE) n.º 575/2013.
+
+– Garantías financieras distintas de derivados de crédito: garantías financieras distintas de derivados de crédito conforme al Reglamento de Ejecución (UE) n.º 680/2014.
+
+## Alcance de la garantía real.
+
+Indica si la garantía se constituye para garantizar una operación concreta o sirve para garantizar varias operaciones:
+
+– Garantía ordinaria.
+
+– Garantía de máximo.
+
+La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
+
+– Garantía ordinaria: cuando la garantía se constituye para garantizar una operación concreta.
+
+– Garantía de máximo: cuando la garantía sirve para garantizar una o más operaciones, presentes o futuras, sin necesidad de pacto novatorio.
+
+## Código de la garantía real de máximo.
+
+Para las garantías de máximo, código que identifica la garantía.
+
+Este código debe ser único para cada garantía a lo largo de toda su vida y vincularse con todas las operaciones garantizadas por ella con independencia de la fecha en la que se formalicen.
+
+## Orden de prelación de la garantía.
+
+Para las operaciones con garantía hipotecaria, número que ocupa la hipoteca en el orden de prelación (1.ª, 2.ª, 3.ª, etc.) una vez descontadas las hipotecas canceladas económicamente.
+
+Parte 2. Datos adicionales de las garantías recibidas para préstamos a personas jurídicas
+
+## Código del proveedor de la garantía.
+
+En esta dimensión se declarará un solo proveedor de garantía aunque los activos recibidos en garantía tengan varios propietarios o las garantías financieras sean solidarias. En este caso, la entidad declarará a la persona jurídica que considere más relevante a efectos del análisis del riesgo.
+
+En caso de que el proveedor de la garantía sea una persona física, se declarará el valor «No aplicable».
+
+En función del tipo de activo o garantía financiera, el proveedor será:
+
+| Tipo de activo o garantía financiera | Proveedor de la garantía |
+| --- | --- |
+| Bienes inmuebles. | Propietario de la garantía. |
+| Efectivo y depósitos dinerarios. | Propietario de la garantía. |
+| Valores representativos de deuda. | Tenedor de los valores. |
+| Otros instrumentos de deuda. | Acreedor del préstamo. |
+| Instrumentos de patrimonio. | Tenedor de las participaciones. |
+| Cartera comercial (efectos comerciales). | Persona que entrega los efectos o facturas. |
+| Pólizas de seguros de vida pignoradas. | Tomador. |
+| Resto de los activos materiales. | Propietario de la garantía. |
+| Resto de los activos. | Se determinará con carácter individual. |
+| Derivados de crédito. | Contraparte del derivado de crédito. |
+| Garantías financieras distintas de derivados de crédito. | Garante. |
+
+En el caso de los arrendamientos financieros, el proveedor de la garantía es el deudor, dueño económico del bien arrendado.
+
+En el caso de las pólizas de seguro pignoradas, el proveedor de la garantía es el tenedor del activo.
+
+Para las garantías financieras distintas de derivados de crédito y los derivados de crédito, el proveedor de la garantía será alguno de los titulares declarados en el módulo B.1 como garantes.
+
+## Valor de la garantía.
+
+Este importe es el valor de la garantía resultante de la estimación más reciente realizada conforme al «Tipo de valor de la garantía». Consecuentemente, este importe se actualizará cada vez que la entidad valore de nuevo las garantías.
+
+Cuando la garantía esté denominada en moneda diferente del euro, se declarará el importe del contravalor de la moneda en euros en la fecha de su valoración. Este importe se actualizará con posterioridad como consecuencia de la variación del tipo de cambio siempre que el valor declarado en «Tipo de valor de la garantía» sea «Importe nocional».
+
+## Tipo de valor de la garantía.
+
+Identifica el tipo de valor que se está informando en el atributo «Valor de la garantía»:
+
+– Valor de mercado.
+
+– Valor sostenible a largo plazo.
+
+– Importe nocional.
+
+– Valor razonable.
+
+– Otro valor de la garantía.
+
+La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
+
+– Valor de mercado: valor de mercado l de los bienes inmuebles conforme al artículo 4, apartado 1, punto 76, del Reglamento (UE) n.º 575/2013.
+
+– Valor sostenible a largo plazo: «valor del crédito hipotecario» de los bienes inmuebles conforme al artículo 4, apartado 1, punto 74, del Reglamento (UE) n.º 575/2013, es decir, «el valor del bien inmobiliario determinado mediante una evaluación prudente de la posibilidad futura de comerciar con dicho bien, teniendo en cuenta los aspectos duraderos a largo plazo del mismo, las condiciones del mercado normales y locales, su uso en el momento de la tasación y sus usos alternativos adecuados». Este valor solo podrá usarse en caso de bienes inmuebles.
+
+– Importe nocional: es el valor nominal acordado contractualmente que se utiliza para calcular los pagos en caso de que se ejecute la garantía. En el caso de pólizas de seguro de vida, el valor nocional es el valor de rescate.
+
+– Valor razonable: el precio que se recibiría por la venta de un activo o que se pagaría para transferir un pasivo, en una operación ordenada entre participantes en el mercado, en la fecha de valoración. Este valor razonable no puede utilizarse para valorar bienes inmuebles.
+
+– Otro valor de la garantía: otro valor de la garantía no incluido en ninguna de las categorías anteriores.
+
+La siguiente tabla presenta los distintos tipos de valoración admisibles según el tipo de activo o garantía financiera:
+
+| Tipo de activo o garantía financiera | Tipo de valor de la garantía |
+| --- | --- |
+| Bienes inmuebles. | Valor de mercado/valor sostenible a largo plazo. |
+| Efectivo y depósitos dinerarios. | Importe nocional/valor razonable. |
+| Valores representativos de deuda. | Importe nocional/valor razonable. |
+| Otros instrumentos de deuda. | Importe nocional/valor razonable. |
+| Instrumentos de patrimonio. | Valor razonable. |
+| Cartera comercial (efectos comerciales). | Importe nocional/valor razonable. |
+| Pólizas de seguros de vida pignoradas. | Importe nocional. |
+| Resto de los activos materiales. | Valor razonable. |
+| Resto de los activos. | Importe nocional/valor razonable. |
+| Derivados de crédito. | Importe nocional/valor razonable. |
+| Garantías financieras distintas de derivados de crédito. | Importe nocional/valor razonable. |
+
+## Método de valoración de la garantía.
+
+Método utilizado por la entidad en la última valoración de la garantía. Este atributo se debe actualizar cuando cambie el método utilizado:
+
+– A precio de mercado.
+
+– Estimación por el proveedor de la garantía.
+
+– Valoración por el acreedor.
+
+– Valoración por tercero.
+
+– Otro tipo de valoración.
+
+La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
+
+– A precio de mercado: método de valoración en virtud del cual el valor de la garantía se basa en precios cotizados sin ajustar en relación con los activos y pasivos idénticos en un mercado activo.
+
+– Estimación por el proveedor de la garantía: método en virtud del cual el proveedor de la garantía efectúa la valoración.
+
+– Valoración por el acreedor: método en virtud del cual el acreedor efectúa la valoración. Esta valoración puede ser realizada tanto por un tasador interno de la entidad como por uno externo contratado por esta.
+
+– Valoración por tercero: método en el que un tasador independiente efectúa la valoración.
+
+– Otro tipo de valoración: otro tipo de valoración no incluido en las demás categorías. Se declarará este valor si «Tipo de valor de la garantía» es «importe nocional».
+
+## Fecha del valor de la garantía.
+
+Fecha en la que se efectuó la última tasación o valoración de la garantía antes de la fecha de referencia.
+
+Para las garantías cuyo valor declarado en «Tipo de valor de la garantía» sea «importe nocional» se declarará la fecha en que el importe nocional cambió por última vez.
+
+Formato: AAAAMMDD.
+
+## Fecha de vencimiento de la garantía.
+
+Fecha de vencimiento establecida en el contrato de la garantía.
+
+En caso de que un activo proteja más de una operación, la fecha de vencimiento será la fecha de vencimiento de la operación que venza primero. Si dicha garantía no se ha utilizado cuando venza la primera operación, la fecha de vencimiento habrá que actualizarla con la fecha de vencimiento de la siguiente operación.
+
+Cuando ni la operación garantizada ni el contrato de garantía especifiquen una fecha de vencimiento, o en caso de que el contrato de garantía expresamente indique que la garantía es por tiempo ilimitado, se declarará el valor «No aplicable».
+
+Formato: AAAAMMDD.
+
+## Valor original de la garantía.
+
+Importe del valor de la garantía al inicio.
+
+Este valor no se modificará durante la vida de la garantía. En caso de que una garantía garantice varias operaciones con distintas fechas de alta, el valor original de la garantía será el que se indicó para la primera operación.
+
+Cuando la garantía esté denominada en moneda diferente del euro, se declarará el importe del contravalor de la moneda en euros en la fecha de su valoración. Este importe no se actualizará con posterioridad como consecuencia de la variación del tipo de cambio.
+
+Para las garantías formalizadas antes de septiembre de 2018, si no se conoce el dato se declarará el valor «No aplicable».
+
+Fecha de la valoración original de la garantía.
+
+Fecha en que se efectuó la última tasación o valoración antes de su aportación inicial como garantía.
+
+Para las garantías formalizadas antes de septiembre de 2018, si no se conoce el dato se declarará el valor «No aplicable».
+
+Formato: AAAAMMDD.
+
+## D.2. Datos básicos de los inmuebles recibidos en garantía
+
+## Código de la garantía recibida.
+
+Código con el que se identifica la garantía recibida en el módulo D.1.1, Datos básicos de las garantías recibidas.
+
+Este código debe ser único para cada activo o conjunto de activos que se declaren conjuntamente. Los activos se declararán una sola vez en este módulo, incluso cuando se utilicen como garantía en más de una hipoteca en la que el acreedor sea la entidad declarante.
+
+En los edificios integrados por varios elementos, se declarará de forma separada cada una de las unidades que los integran, salvo cuando no se haya hecho la división horizontal o la entidad carezca de información detallada, en cuyo caso se asignará un código único al inmueble. También se asignará un único código para los terrenos que se gestionen como una unidad, con independencia de que estén integrados por varias fincas registrales o catastrales.
+
+Consideración del inmueble en la normativa europea aplicable para el cálculo del coeficiente de recursos propios.
+
+Indica la consideración del inmueble recibido en garantía en la normativa europea aplicable para el cálculo del coeficiente de recursos propios:
+
+– Residencial.
+
+– Oficinas y locales comerciales.
+
+– Resto de los inmuebles comerciales.
+
+La asignación de los valores anteriores se realizará utilizando los criterios establecidos en la normativa europea aplicable para el cálculo del coeficiente de recursos propios.
+
+## Localización del inmueble. País.
+
+Código ISO alfabético del país donde se ubique el activo inmobiliario.
+
+## Localización del inmueble. Código postal.
+
+Cuando el inmueble esté en España, código postal de la dirección en la que se ubique. Cuando el inmueble esté localizado en otro Estado miembro informante, código postal disponible o código NUTS nivel 3 que corresponda a la región donde esté localizado el inmueble.
+
+Parte 1. Datos para los inmuebles
+
+## Inmueble integrado por varias fincas.
 
 Indica si el inmueble está integrado por varias fincas registrales o catastrales:
 
@@ -3158,13 +3458,13 @@ Indica si el inmueble está integrado por varias fincas registrales o catastrale
 
 – No.
 
-Identificador Único de Finca Registral (IDUFIR/CRU)
+## Identificador único registral (IDUFIR/CRU).
 
 Código IDUFIR o CRU asignado a la finca en el Registro de la Propiedad.
 
 Cuando el inmueble esté integrado por dos o más fincas registrales diferentes, no se facilitará dicho código.
 
-Identificador registral
+## Identificador registral.
 
 Identificador de la finca hipotecada o cedida en arrendamiento financiero en el Registro de la Propiedad compuesto por códigos del Instituto Nacional de Estadística de la provincia y del municipio del registro, número del registro, tomo, libro y número de finca registral. Los datos serán los correspondientes a la última inscripción de la finca disponibles por la entidad.
 
@@ -3172,7 +3472,7 @@ Solo será necesario comunicar este código cuando no se disponga del Identifica
 
 Cuando el inmueble esté integrado por dos o más fincas registrales o los activos estén localizados fuera de España, no se facilitará este código.
 
-Referencia catastral
+## Referencia catastral.
 
 Referencia catastral de la finca hipotecada o cedida en arrendamiento financiero.
 
@@ -3180,19 +3480,37 @@ Cuando no se disponga de este dato, no se declarará.
 
 Cuando el inmueble esté integrado por dos o más fincas con diferentes referencias catastrales o los activos estén localizados fuera de España, no se facilitará este código.
 
-Importe de las cargas previas comprometidas con terceros
+## Importe de las cargas previas comprometidas con terceros.
 
-Para las operaciones con garantía hipotecaria, ordinaria o de máximo, cuando los activos en garantía cubran hipotecas concedidas con anterioridad por otras entidades, importe de las cargas previas. Este importe no es necesario actualizarlo.
+Para las operaciones con garantía hipotecaria, ordinaria o de máximo, cuando los activos en garantía cubran hipotecas concedidas con anterioridad por otras entidades, importe de las cargas previas. No es necesario actualizar este importe.
 
-Última tasación completa
+## Importe de la responsabilidad hipotecaria. Principal.
 
-Fecha de la última tasación
+Para las operaciones con hipoteca inmobiliaria ordinaria, importe de la responsabilidad hipotecaria del bien según la escritura de la hipoteca que sirve de garantía del principal de la operación.
+
+Para las operaciones con hipoteca inmobiliaria de máximo, importe máximo de la responsabilidad hipotecaria del bien según la escritura que sirve de garantía del principal de todas las operaciones que se puedan cubrir con la hipoteca. Este importe será idéntico para todas las operaciones vinculadas con el mismo código de garantía y de activo recibido en garantía.
+
+## Importe de la responsabilidad hipotecaria. Intereses y costas.
+
+Para las operaciones con hipoteca inmobiliaria ordinaria, importe de la responsabilidad hipotecaria del bien según la escritura de la hipoteca que sirve de garantía de los intereses y costas de la operación.
+
+Para las operaciones con hipoteca inmobiliaria de máximo, importe máximo de la responsabilidad hipotecaria del bien según la escritura que sirve de garantía de los intereses y costas de todas las operaciones cubiertas por la hipoteca. Este importe será idéntico para todas las operaciones vinculadas con el mismo código de garantía y de activo recibido en garantía.
+
+## Activos en garantía de financiaciones de promociones inmobiliarias.
+
+Para las operaciones cuya finalidad es la construcción o promoción inmobiliaria, incluida la financiación de suelo, indica si los activos recibidos en garantía son los mismos activos objeto de la promoción financiada:
+
+– Sí.
+
+– No.
+
+## Última tasación completa. Fecha de la última tasación.
 
 Fecha de referencia de la última tasación completa de los activos.
 
 Formato: AAAAMMDD.
 
-Código de la sociedad de tasación o valoración
+## Última tasación completa. Código de la sociedad de tasación o valoración.
 
 Código que identifica a la entidad que ha realizado la tasación completa del activo inmobiliario.
 
@@ -3204,11 +3522,11 @@ Si se trata de un profesional extranjero reconocido en el país en el que radiqu
 
 Si se trata de otro valorador, el código 9999.
 
-Número de tasación
+## Última tasación completa. Número de tasación.
 
 Número que asigne la sociedad de tasación o valoración a la tasación.
 
-Conforme a la Ley del Mercado Hipotecario
+## Última tasación completa. Conforme a la Ley del Mercado Hipotecario.
 
 Indica si la última tasación completa cumple con los requisitos que establece la Orden ECO 805/2003 para la finalidad del artículo 2.a), aunque en el informe se incluyan condicionantes:
 
@@ -3216,25 +3534,25 @@ Indica si la última tasación completa cumple con los requisitos que establece 
 
 – No.
 
-Método de valoración (valor)
+## Última tasación completa. Método de valoración (valor).
 
 Método y valor utilizado para determinar el valor de tasación del bien conforme a lo dispuesto en la Orden ECO 805/2003:
 
-a) Método del coste:
+a) Método del coste.
 
 – Valor de reemplazamiento neto.
 
-b) Método residual:
+b) Método residual.
 
 – Valor residual dinámico.
 
 – Valor residual estático.
 
-c) Método de comparación:
+c) Método de comparación.
 
 – Valor de mercado por comparación.
 
-d) Método de actualización de rentas:
+d) Método de actualización de rentas.
 
 – Valor por actualización de rentas de inmuebles ligados a una explotación económica.
 
@@ -3242,7 +3560,7 @@ d) Método de actualización de rentas:
 
 – Valor por actualización de rentas de otros inmuebles en arrendamiento.
 
-e) Otros métodos:
+e) Otros métodos.
 
 – Valor máximo legal.
 
@@ -3252,7 +3570,7 @@ e) Otros métodos:
 
 Cuando concurran diversos métodos para valorar un mismo inmueble, se declarará solo el valor que predomina en la determinación del valor de tasación.
 
-Condicionantes
+## Última tasación completa. Condicionantes.
 
 Indica si en la última tasación completa existe algún condicionante de los mencionados en el artículo 10 de la Orden ECO 805/2003:
 
@@ -3260,7 +3578,7 @@ Indica si en la última tasación completa existe algún condicionante de los me
 
 – No.
 
-Advertencias
+## Última tasación completa. Advertencias.
 
 Indica si en la última tasación completa existe alguna advertencia de las mencionadas en el artículo 11 de la Orden ECO 805/2003:
 
@@ -3268,7 +3586,7 @@ Indica si en la última tasación completa existe alguna advertencia de las menc
 
 – No.
 
-Visita al interior del inmueble
+## Última tasación completa. Visita al interior del inmueble.
 
 Indica si en la última tasación completa se efectuó una visita al interior del inmueble:
 
@@ -3276,7 +3594,7 @@ Indica si en la última tasación completa se efectuó una visita al interior de
 
 – No.
 
-Tipo de datos utilizados de inmuebles comparables
+## Última tasación completa. Tipo de datos utilizados de inmuebles comparables.
 
 Indica la fuente mayoritaria de los datos de inmuebles similares (comparables) que se utilizaron en la última tasación completa:
 
@@ -3284,83 +3602,75 @@ Indica la fuente mayoritaria de los datos de inmuebles similares (comparables) q
 
 – Datos de oferta.
 
-Método residual dinámico
-
-Tipo de actualización (%):
+## Última tasación completa. Método residual dinámico. Tipo de actualización (%).
 
 Cuando el valor de tasación sea el valor residual dinámico, tipo de actualización utilizado en su cálculo, definido como la rentabilidad media anual del proyecto, sin tener en cuenta la financiación ajena que obtendría un promotor medio en una promoción de las características de la valorada.
 
 Formato: porcentaje con dos decimales.
 
-Tasa anualizada homogénea (%):
+## Última tasación completa. Método residual dinámico. Tasa anualizada homogénea (%).
 
 Cuando el valor de tasación sea el valor residual dinámico, tasa anualizada homogénea que se haya utilizado en su cálculo.
 
 Formato: porcentaje con dos decimales.
 
-Tasa anual media de variación del precio de mercado del activo (%):
-
-Importe positivo
+## Última tasación completa. Método residual dinámico. Tasa anual media de variación del precio de mercado del activo (%). Importe positivo.
 
 Cuando el valor de tasación sea el valor residual dinámico, tasa anual media de variación del precio de mercado del tipo de activo que se prevé promover que se haya utilizado en el cálculo del valor de tasación, si dicha tasa es positiva.
 
 Formato: porcentaje con dos decimales.
 
-Importe negativo
+## Última tasación completa. Método residual dinámico. Tasa anual media de variación del precio de mercado del activo (%). Importe negativo.
 
 Cuando el valor de tasación sea el valor residual dinámico, tasa anual media de variación del precio de mercado del tipo de activo que se prevé promover que se haya utilizado en el cálculo del valor de tasación, si dicha tasa es negativa.
 
 Formato: porcentaje con dos decimales.
 
-Plazo máximo para finalizar la construcción (meses):
+## Última tasación completa. Método residual dinámico. Plazo máximo para finalizar la construcción (meses).
 
 Cuando el valor de tasación sea el valor residual dinámico, plazo máximo estimado en número de meses para el último flujo de caja correspondiente a la construcción o rehabilitación, incluidas, en su caso, la gestión urbanística y la ejecución de la urbanización, que se haya utilizado en el cálculo del valor de tasación.
 
-Plazo máximo para finalizar la comercialización (meses):
+## Última tasación completa. Método residual dinámico. Plazo máximo para finalizar la comercialización (meses).
 
 Cuando el valor de tasación sea el valor residual dinámico, plazo máximo estimado en número de meses para el último flujo de caja correspondiente a la comercialización que se haya utilizado en el cálculo del valor de tasación.
 
-Método residual estático
-
-Margen de beneficio del promotor (%):
+## Última tasación completa. Método residual estático. Margen de beneficio del promotor (%).
 
 Cuando el valor de tasación sea el valor residual estático, margen del beneficio del promotor utilizado en el cálculo del valor de tasación.
 
 Formato: porcentaje con dos decimales.
 
-Valor de tasación
+## Última tasación completa. Valor de tasación.
 
 Valor de tasación de la última tasación completa.
 
-Valor hipotecario
+## Última tasación completa. Valor hipotecario.
 
 Valor hipotecario de la última tasación completa.
 
-Valor en hipótesis de edificio terminado
+## Última tasación completa. Valor en hipótesis de edificio terminado.
 
-Para los edificios en construcción, rehabilitación o en proyecto, valor del inmueble en hipótesis de edificio terminado que figura en el último informe de tasación completa.
+Para los edificios en construcción, en rehabilitación o en proyecto, valor del inmueble en hipótesis de edificio terminado que figura en el último informe de tasación completa.
 
-Valor del terreno
+## Última tasación completa. Valor del terreno.
 
-Para los edificios en construcción, rehabilitación o en proyecto, importe del valor de tasación del terreno sobre el que se está construyendo o se va a construir el edificio.
+Para los edificios en construcción, en rehabilitación o en proyecto, importe del valor de tasación del terreno sobre el que se está construyendo o se va a construir el edificio.
 
-Última tasación por métodos estadísticos
-
-Fecha de la tasación
+## Última tasación por métodos estadísticos. Fecha de la tasación.
 
 Cuando se haya realizado una valoración por métodos estadísticos, fecha de referencia de la última tasación.
 
 Formato: AAAAMMDD.
 
-Código de la sociedad de tasación o valoración
+## Última tasación por métodos estadísticos. Código de la sociedad de tasación o valoración.
 
 Cuando se haya realizado una valoración por métodos estadísticos, código de la sociedad de tasación o valoración. Se utilizarán los mismos valores que para el dato «Última tasación completa. Código de la sociedad de tasación o valoración» de este módulo.
 
-Número de tasación
+## Última tasación por métodos estadísticos. Número de tasación.
 
 Cuando se haya realizado una valoración por métodos estadísticos, número que asigne la sociedad de tasación o valoración a la tasación.
 
-Método de valoración
+## Última tasación por métodos estadísticos. Método de valoración.
 
 Cuando se haya realizado una valoración por métodos estadísticos, método estadístico utilizado en la valoración:
 
@@ -3368,33 +3678,33 @@ Cuando se haya realizado una valoración por métodos estadísticos, método est
 
 – Procedimiento muestral.
 
-Valor de tasación
+## Última tasación por métodos estadísticos. Valor de tasación.
 
 Cuando se haya realizado una valoración por métodos estadísticos, valor de tasación de la última tasación.
 
 Parte 2. Datos adicionales para los edificios y elementos de edificios
 
-Fecha de la construcción
+## Fecha de la construcción.
 
 Para los edificios terminados, fecha en la que se terminó de construir el edificio.
 
 Para los edificios en construcción, fecha en la que se iniciaron las obras.
 
-Fecha de la última rehabilitación integral
+## Fecha de la última rehabilitación integral.
 
 Para los edificios terminados, fecha en la que, en su caso, se terminó la última rehabilitación integral.
 
 Para los edificios en rehabilitación, fecha en la que se iniciaron las obras.
 
-Estado de la construcción
+## Estado de la construcción.
 
 Misma definición y valores que en la dimensión de igual nombre del módulo B.2, Datos básicos de las operaciones.
 
-Licencia
+## Licencia.
 
 Misma definición y valores que en la dimensión de igual nombre del módulo B.2, Datos básicos de las operaciones.
 
-Vivienda habitual del prestatario
+## Vivienda habitual del prestatario.
 
 Cuando el activo sea una vivienda, indica si es la vivienda habitual del prestatario:
 
@@ -3402,17 +3712,17 @@ Cuando el activo sea una vivienda, indica si es la vivienda habitual del prestat
 
 – No.
 
-Valor del terreno ajustado
+## Valor del terreno ajustado.
 
-Cuando el edificio esté en construcción o rehabilitación integral con la obra parada, importe del valor del terreno más, en su caso, el valor de la edificación que se considere recuperable, o menos los costes de demolición si la construcción incorporada es irrecuperable.
+Cuando el edificio esté en construcción o en rehabilitación integral con la obra parada, importe del valor del terreno más, en su caso, el valor de la edificación que se considere recuperable, o menos los costes de demolición si la construcción incorporada es irrecuperable.
 
-Número de viviendas
+## Número de viviendas.
 
 Cuando en el edificio hay viviendas, número de viviendas, aunque estén en construcción.
 
 Parte 3. Datos adicionales para el suelo urbano y urbanizable
 
-Tipo de suelo
+## Tipo de suelo
 
 Tipo de suelo:
 
@@ -3438,7 +3748,7 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Resto del suelo urbanizable: suelo clasificado como urbanizable no sectorizado o programado (en sus diferentes modalidades y denominaciones autonómicas) que puede requerir la aprobación de un plan de sectorización o programa de actuación urbanística (según la nomenclatura autonómica).
 
-Desarrollo del planeamiento
+## Desarrollo del planeamiento.
 
 Fase de desarrollo en la que se encuentra el planteamiento urbanístico del suelo:
 
@@ -3456,7 +3766,7 @@ Fase de desarrollo en la que se encuentra el planteamiento urbanístico del suel
 
 • No redactado o no aprobado.
 
-Sistema de gestión
+## Sistema de gestión.
 
 Forma jurídica por la cual se va a desarrollar la urbanización del terreno y, llegado el caso, su posterior edificación:
 
@@ -3472,7 +3782,7 @@ Forma jurídica por la cual se va a desarrollar la urbanización del terreno y, 
 
 – Sin gestión/no necesita gestión.
 
-Fase de gestión
+## Fase de gestión.
 
 Fase alcanzada en la gestión del suelo:
 
@@ -3486,7 +3796,7 @@ Fase alcanzada en la gestión del suelo:
 
 – Pendiente de delimitación de unidad de ejecución.
 
-Paralización de la urbanización
+## Paralización de la urbanización.
 
 Indica si la urbanización del suelo no se ha iniciado o está paralizada:
 
@@ -3494,13 +3804,13 @@ Indica si la urbanización del suelo no se ha iniciado o está paralizada:
 
 – No.
 
-Porcentaje de la urbanización ejecutado (%)
+## Porcentaje de la urbanización ejecutado (%).
 
 Porcentaje de la urbanización que se ha ejecutado respecto del proyecto total de urbanización.
 
 Formato: porcentaje sin decimales.
 
-Porcentaje del ámbito valorado (%)
+## Porcentaje del ámbito valorado (%).
 
 Porcentaje sin decimales que representa el suelo en garantía (ámbito valorado) sobre el ámbito total del que forma parte.
 
@@ -3508,7 +3818,7 @@ El ámbito total es el conjunto total de terrenos de la figura asociativa urbani
 
 Formato: porcentaje sin decimales.
 
-Proximidad respecto del núcleo urbano
+## Proximidad respecto del núcleo urbano.
 
 Indica la proximidad del suelo con respecto al núcleo urbano:
 
@@ -3520,7 +3830,7 @@ Indica la proximidad del suelo con respecto al núcleo urbano:
 
 – Suelo urbanizable no colindante con urbano, sin infraestructuras de acceso.
 
-Proyecto de obra
+## Proyecto de obra.
 
 Indica si se dispone de un proyecto para edificar sobre el terreno:
 
@@ -3528,15 +3838,15 @@ Indica si se dispone de un proyecto para edificar sobre el terreno:
 
 – No.
 
-Superficie del terreno (m2)
+## Superficie del terreno (m2).
 
 Número de metros cuadrados que tiene el suelo en garantía.
 
-Aprovechamiento (m2)
+## Aprovechamiento (m2).
 
 Aprovechamiento sobre rasante en metros cuadrados útiles del ámbito, parcela o sector en que se ubica el terreno valorado, independientemente de la superficie de este. Se sumarán todos los usos lucrativos, independientemente de la tipología.
 
-Producto que se prevé desarrollar
+## Producto que se prevé desarrollar.
 
 Tipo de producto que se prevé desarrollar en el suelo:
 
@@ -3566,7 +3876,7 @@ Cuando se vayan a desarrollar varios tipos de producto, se declarará solo el qu
 
 Parte 4. Datos adicionales para las fincas rústicas
 
-Finca rústica con expectativas urbanísticas
+## Finca rústica con expectativas urbanísticas.
 
 Indica si la entidad considera la finca con expectativas urbanísticas:
 
@@ -3576,9 +3886,7 @@ Indica si la entidad considera la finca con expectativas urbanísticas:
 
 Parte 5. Datos del valor de las garantías
 
-Valor de la garantía a efectos del cálculo del loan to value
-
-Importe de la garantía
+## Valor de la garantía a efectos del cálculo del loan to value. Importe de la garantía.
 
 Importe del valor de la última tasación disponible del inmueble menos el «Importe de las cargas previas comprometidas con terceros», con las siguientes precisiones:
 
@@ -3586,7 +3894,7 @@ Importe del valor de la última tasación disponible del inmueble menos el «Imp
 
 – Para los edificios en construcción con la obra en marcha, el valor de tasación será el valor de la tasación actualizado a valor de reemplazamiento neto.
 
-Forma de obtención
+## Valor de la garantía a efectos del cálculo del loan to value. Forma de obtención.
 
 Forma de obtención del importe de la dimensión «Valor de la garantía a efectos del cálculo del loan to value. Importe de la garantía»:
 
@@ -3594,323 +3902,69 @@ Forma de obtención del importe de la dimensión «Valor de la garantía a efect
 
 – Última tasación por métodos estadísticos.
 
-Valor de la garantía a efectos del cálculo del deterioro
-
-Importe de la garantía
+## Valor de la garantía a efectos del cálculo del deterioro. Importe de la garantía.
 
 Importe asignado a la garantía a efectos del cálculo de la cobertura por deterioro.
 
 Este dato se debe declarar cuando alguna de las operaciones garantizadas por el activo esté calificada como dudosa; en los demás casos, es opcional.
 
-Porcentaje de descuento (%)
+## Valor de la garantía a efectos del cálculo del deterioro. Porcentaje de descuento (%).
 
 Porcentaje de descuento aplicado para determinar el valor de la garantía a efectos del cálculo del deterioro.
 
 Este dato se debe declarar cuando alguna de las operaciones garantizadas por el activo esté calificada como dudosa; en los demás casos, es opcional.
 
-Parte 6. Datos adicionales sobre los inmuebles recibidos en garantía de préstamos a personas jurídicas
+## D.3. Datos básicos de los activos financieros recibidos en garantía
 
-Código del proveedor de la garantía
+## Código de la garantía recibida.
 
-En esta dimensión se declarará un solo proveedor de garantía, aunque los activos recibidos en garantía tengan varios propietarios. En este caso, la entidad declarará a la persona jurídica que considere más relevante a efectos del análisis del riesgo.
-
-En caso de que el proveedor de la garantía sea una persona física, se declarará «No aplicable».
-
-En función del tipo de garantía, el proveedor será:
-
-| Tipo de garantía | Proveedor de la garantía |
-| --- | --- |
-| Inmuebles residenciales. | Propietario de la garantía. |
-| Oficinas y locales comerciales. | Propietario de la garantía. |
-| Inmuebles comerciales. | Propietario de la garantía. |
-
-Valor de la garantía
-
-Este importe es el valor de la garantía resultante de la estimación más reciente realizada conforme al «Tipo de valor de la garantía». Consecuentemente, este importe se actualizará cada vez que la entidad valore de nuevo las garantías.
-
-Cuando la garantía esté denominada en moneda diferente del euro, se declarará el importe del contravalor de la moneda en euros en la fecha de su valoración.
-
-Tipo de valor de la garantía
-
-Identifica el tipo de valor que se está informando en el atributo «Valor de la garantía»:
-
-– Valor de mercado.
-
-– Valor sostenible a largo plazo.
-
-La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
-
-– Valor de mercado: valor de mercado l de los bienes inmuebles conforme al artículo 4, apartado 1, punto 76, del Reglamento (UE) n.º 575/2013.
-
-– Valor sostenible a largo plazo: «valor del crédito hipotecario» de los bienes inmuebles conforme al artículo 4, apartado 1, punto 74, del Reglamento (UE) n.º 575/2013, es decir, «el valor del bien inmobiliario determinado mediante una evaluación prudente de la posibilidad futura de comerciar con dicho bien, teniendo en cuenta los aspectos duraderos a largo plazo del mismo, las condiciones del mercado normales y locales, su uso en el momento de la tasación y sus usos alternativos adecuados». Este valor solo podrá usarse en caso de bienes inmuebles.
-
-La siguiente tabla presenta los distintos tipos de valoración admisibles según el tipo de garantía:
-
-| Tipo de garantía | Tipo de valor de la garantía |
-| --- | --- |
-| Garantía de bien inmueble residencial. | Valor de mercado/valor sostenible a largo plazo. |
-| Oficinas y locales comerciales. | Valor de mercado/valor sostenible a largo plazo. |
-| Garantía de bien inmueble comercial. | Valor de mercado/valor sostenible a largo plazo. |
-
-Método de valoración de la garantía
-
-Método utilizado por la entidad en la última valoración de la garantía. Este atributo se debe actualizar cuando cambie el método utilizado:
-
-– A precio de mercado.
-
-– Estimación por el proveedor de la garantía.
-
-– Valoración por el acreedor.
-
-– Valoración por tercero.
-
-– Otro tipo de valoración no incluido en las demás categorías.
-
-La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
-
-– A precio de mercado: método de valoración en virtud del cual el valor de la garantía se basa en precios cotizados sin ajustar en relación con los activos y pasivos idénticos en un mercado activo.
-
-– Estimación por el proveedor de la garantía: método en virtud del cual el proveedor de la garantía efectúa la valoración.
-
-– Valoración por el acreedor: método en virtud del cual el acreedor efectúa la valoración. Esta valoración puede ser realizada tanto por un tasador interno de la entidad como por uno externo contratado por esta.
-
-– Valoración por tercero: método en el que un tasador independiente efectúa la valoración.
-
-– Otro tipo de valoración: otro tipo de valoración no incluido en las demás categorías. Se declarará este valor si «Tipo de valor de la garantía « es «Importe nocional»,
-
-Fecha del valor de la garantía
-
-Fecha en la que se efectuó la última tasación o valoración de la garantía antes de la fecha de referencia.
-
-Formato: AAAAMMDD.
-
-Fecha de vencimiento de la garantía
-
-Fecha de vencimiento establecida en el contrato de la garantía.
-
-En caso de que un activo proteja más de una operación, la fecha de vencimiento será la fecha de vencimiento de la operación que venza primero. Si dicha garantía no se ha utilizado cuando venza la primera operación, la fecha de vencimiento habrá que actualizarla con la fecha de vencimiento de la siguiente operación.
-
-Cuando ni la operación garantizada ni el contrato de garantía especifiquen una fecha de vencimiento, o en caso de que el contrato de garantía expresamente indique que la garantía es por tiempo ilimitado, se declarará el valor «No aplicable».
-
-Formato: AAAAMMDD.
-
-Valor original de la garantía
-
-Importe del valor de la garantía al inicio.
-
-Este valor no se modificará durante la vida de la garantía. En caso de que una garantía garantice varias operaciones con distintas fechas de alta, el valor original de la garantía será el que se indicó para la primera operación.
-
-Cuando la garantía esté denominada en moneda diferente del euro, se declarará el importe del contravalor de la moneda en euros en la fecha de su valoración. Este importe no se actualizará con posterioridad como consecuencia de la variación del tipo de cambio.
-
-Para las garantías formalizadas antes de septiembre de 2018, si no se conoce el dato, se declarará «No aplicable».
-
-Fecha de la valoración original de la garantía
-
-Fecha en que se efectuó la última tasación o valoración antes de su aportación inicial como garantía.
-
-Para las garantías formalizadas antes de septiembre de 2018, si no se conoce el dato, se declarará «No aplicable».
-
-Formato: AAAAMMDD.
-
-## D.3 Datos básicos de los activos financieros recibidos en garantía
-
-Código de la garantía recibida
-
-Código que identifica al activo financiero recibido en garantía de operaciones concedidas por la entidad declarante.
+Código con el que se identifica la garantía recibida en el módulo D.1.1, Datos básicos de las garantías recibidas.
 
 Este código debe ser único para cada activo.
 
-Parte 1. Datos sobre los activos financieros
-
-Tipo de activo (activos financieros)
-
-Tipo de activo que sirve de garantía:
-
-– Efectivo y depósitos dinerarios.
-
-– Valores representativos de deuda.
-
-– Otros instrumentos de deuda.
-
-– Instrumentos de capital distintos de participaciones en fondos de inversión.
-
-– Instrumentos de patrimonio diferentes de los instrumentos de capital.
-
-– Participaciones en fondos de inversión.
-
-– Cartera comercial (efectos comerciales).
-
-– Otros activos financieros.
-
-La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
-
-– Instrumentos de deuda: efectivo, depósitos dinerarios en entidades de crédito, valores representativos de deuda y otros instrumentos de deuda (préstamos distintos de los depósitos a entidades de crédito).
-
-– Instrumentos de capital distintos de participaciones en fondos de inversión: instrumentos financieros emitidos por otras entidades, tales como acciones y participaciones, que tengan la naturaleza de instrumentos de capital para el emisor, incluidas las participaciones en entidades del grupo, multigrupo y asociadas, y que no sean participaciones en fondos de inversión.
-
-– Instrumentos de patrimonio diferentes de los instrumentos de capital: instrumentos financieros emitidos por otras entidades que, teniendo la consideración de patrimonio neto según la normativa contable aplicable a las entidades de crédito, no se puedan registrar en el balance como capital.
-
-– Cartera comercial: efectos comerciales que sirven de garantía para tipos de producto diferentes de «Crédito comercial».
-
-– Otros activos financieros: activos financieros no clasificados en las otras categorías.
-
-Código del emisor de los activos financieros recibidos en garantía
+## Código del emisor de los activos financieros recibidos en garantía.
 
 Código de la entidad en la que se han efectuado los depósitos o que ha emitido los instrumentos recibidos en garantía, aunque sea la propia entidad declarante.
 
-Código del valor
+## Código del valor.
 
 Cuando los valores representativos de deuda o instrumentos de patrimonio tengan asignado código ISIN, dicho código.
 
-Cotización
+## Cotización.
 
 Indica si los activos financieros cotizan en un mercado regulado:
 
-–Valores cotizados, con mercado activo.
+– Valores cotizados, con mercado activo.
 
-–Valores cotizados, sin mercado activo.
+– Valores cotizados, sin mercado activo.
 
-–Valores no cotizados.
+– Valores no cotizados.
 
-La definición de mercado activo es la que se utiliza a efectos de la elaboración de la información financiera conforme lo dispuesto en la normativa contable.
+La definición de mercado activo es la que se utiliza a efectos de la elaboración de la información financiera conforme a lo dispuesto en la normativa contable.
 
-Nominal
+## Nominal.
 
 Nominal de los activos financieros recibidos como garantía. Para las participaciones en fondos de inversión se declarará el número de participaciones.
 
-Parte 2. Datos adicionales de los activos financieros recibidos en garantía de préstamos a personas jurídicas
+## D.4. Datos dinámicos que relacionan las operaciones con las garantías recibidas
 
-Código del proveedor de la garantía
+## Código de la operación.
 
-En esta dimensión se declarará un solo proveedor de garantía, aunque los activos recibidos en garantía tengan varios propietarios. En este caso, la entidad declarará a la persona jurídica que considere más relevante a efectos del análisis del riesgo.
+Código con el que se identifica la operación en el módulo B.2, Datos básicos de las operaciones.
 
-En caso de que el proveedor de la garantía sea una persona física, se declarará «No aplicable».
+## Código de la garantía recibida.
 
-En función del tipo de garantía, el proveedor será:
+Código con el que se identifica la garantía recibida en el módulo D.1.1, Datos básicos de las garantías recibidas.
 
-| Tipo de garantía | Proveedor de la garantía |
-| --- | --- |
-| Efectivo y depósitos dinerarios. | Propietario de la garantía. |
-| Valores representativos de deuda. | Tenedor de los valores. |
-| Préstamos. | Acreedor del préstamo. |
-| Participaciones en el capital y en fondos de inversión. | Tenedor de las participaciones. |
-| Cartera comercial (efectos comerciales). | Persona que entrega los efectos o facturas. |
+En la parte 1 de este módulo se declararán todas las garantías recibidas declaradas en los módulos D.2 y D.3.
 
-Valor de la garantía
-
-Este importe es el valor de la garantía resultante de la estimación más reciente realizada conforme al «Tipo de valor de la garantía». Consecuentemente, este importe se actualizará cada vez que la entidad valore de nuevo las garantías.
-
-Cuando la garantía esté denominada en moneda diferente del euro, se declarará el importe del contravalor de la moneda en euros en la fecha de su valoración. Este importe se actualizará con posterioridad como consecuencia de la variación del tipo de cambio, siempre que el valor declarado en «Tipo de valor de la garantía» sea «Importe nocional».
-
-Tipo de valor de la garantía
-
-Identifica el tipo de valor que se está informando en el atributo «Valor de la garantía»:
-
-– Importe nocional.
-
-– Valor razonable.
-
-– Otro valor de la garantía.
-
-La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
-
-– Importe nocional: es el valor nominal acordado contractualmente que se utiliza para calcular los pagos en caso de que se ejecute la garantía. En el caso de pólizas de seguro de vida, el valor nocional es el valor de rescate.
-
-Valor razonable: el precio que se recibiría por la venta de un activo o que se pagaría para transferir un pasivo, en una operación ordenada entre participantes en el mercado, en la fecha de valoración. Este valor razonable no puede utilizarse para valorar bienes inmuebles.
-
-– Otro valor de la garantía: otro valor de la garantía no incluido en ninguna de las categorías anteriores.
-
-La siguiente tabla presenta los distintos tipos de valoración según el tipo de garantía:
-
-| Tipo de garantía | Tipo de valor de la garantía |
-| --- | --- |
-| Efectivo y depósitos dinerarios. | Importe nocional/valor razonable. |
-| Valores representativos de deuda. | Importe nocional/valor razonable. |
-| Préstamos. | Importe nocional/valor razonable |
-| Participaciones en el capital y en fondos de inversión. | Valor razonable |
-| Cartera comercial (efectos comerciales). | Importe nocional/valor razonable |
-
-Método de valoración de la garantía
-
-Método utilizado por la entidad en la última valoración de la garantía. Este atributo se debe actualizar cuando cambie el método utilizado:
-
-– A precio de mercado.
-
-– Estimación por el proveedor de la garantía.
-
-– Valoración por el acreedor.
-
-– Valoración por tercero.
-
-– Otro tipo de valoración.
-
-La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
-
-– A precio de mercado: método de valoración en virtud del cual el valor de la garantía se basa en precios cotizados sin ajustar en relación con los activos y pasivos idénticos en un mercado activo.
-
-– Estimación por el proveedor de la garantía: método en virtud del cual el proveedor de la garantía efectúa la valoración.
-
-– Valoración por el acreedor: método en virtud del cual el acreedor efectúa la valoración. Esta valoración puede ser realizada tanto por un tasador interno de la entidad como por uno externo contratado por esta.
-
-Valoración por tercero: método en el que un tasador independiente efectúa la valoración.
-
-– Otro tipo de valoración: otro tipo de valoración no incluido en las demás categorías. Se declarará este valor si «Tipo de valor de la garantía» es «Importe nocional».
-
-Fecha del valor de la garantía
-
-Fecha en la que se efectuó la última tasación o valoración de la garantía antes de la fecha de referencia.
-
-Para las garantías cuyo valor declarado en «Tipo de valor de la garantía» sea «Importe nocional», se declarará la fecha en que el importe nocional cambió por última vez.
-
-Formato: AAAAMMDD.
-
-Fecha de vencimiento de la garantía
-
-Fecha de vencimiento establecida en el contrato de la garantía.
-
-En caso de que un activo proteja más de una operación, la fecha de vencimiento será la fecha de vencimiento de la operación que venza primero. Si dicha garantía no se ha utilizado cuando venza la primera operación, la fecha de vencimiento habrá que actualizarla con la fecha de vencimiento de la siguiente operación.
-
-Cuando ni la operación garantizada ni el contrato de garantía especifiquen una fecha de vencimiento, o en caso de que el contrato de garantía expresamente indique que la garantía es por tiempo ilimitado, se declarará el valor «No aplicable».
-
-Formato: AAAAMMDD.
-
-Valor original de la garantía
-
-Importe del valor de la garantía al inicio.
-
-Este valor no se modificará durante la vida de la garantía. En caso de que una garantía garantice varias operaciones con distintas fechas de alta, el valor original de la garantía será el que se indicó para la primera operación.
-
-Cuando la garantía esté denominada en moneda diferente del euro, se declarará el importe del contravalor de la moneda en euros en la fecha de su valoración. Este importe no se actualizará con posterioridad como consecuencia de la variación del tipo de cambio.
-
-Para las garantías formalizadas antes de septiembre de 2018, si no se conoce el dato, se declarará «No aplicable».
-
-Fecha de la valoración original de la garantía
-
-Fecha en que se efectuó la última tasación o valoración antes de su aportación inicial como garantía.
-
-Para las garantías formalizadas antes de septiembre de 2018, si no se conoce el dato, se declarará «No aplicable».
-
-Formato: AAAAMMDD.
-
-## D.4 Datos dinámicos que relacionan las operaciones con las garantías recibidas
-
-Código de la operación
-
-Código con el que se identifica a la operación en el módulo B.2, Datos básicos de las operaciones.
-
-Código de la garantía recibida
-
-Código que identifica el activo recibido en garantía de la operación o cedido en arrendamiento financiero, o la garantía financiera recibida en el módulo D.2, Datos básicos de los inmuebles recibidos en garantía, D.3, Datos básicos de los activos financieros recibidos en garantía, o D.6, Datos básicos del resto de las garantías recibidas distintas de inmuebles y activos financieros de préstamos a personas jurídicas.
-
-En la parte 1 de este módulo se declararán todos los activos recibidos en garantía declarados en los módulos D.2 y D.3.
-
-En la parte 2 de este módulo se declararán todos los activos recibidos en garantía declarados en los módulos D.2 y D.3 siempre que garanticen préstamos a personas jurídicas, y todos los activos o garantías financieras recibidas declarados en el módulo D.6.
+En la parte 2 de este módulo se declararán todas las garantías recibidas declaradas en el módulo D.1.1 siempre que garanticen préstamos a personas jurídicas.
 
 Cuando una operación tenga varias garantías, se declararán de forma separada todas las garantías que la entidad le asigne para su cobertura.
 
 Parte 1. Datos para las operaciones garantizadas con inmuebles y otros activos financieros
 
-Importe de la garantía a efectos del cálculo del loan to value atribuido a la operación
+## Importe de la garantía a efectos del cálculo del loan to value atribuido a la operación
 
 Importe del valor del activo en garantía a efectos del cálculo del loan to value que se atribuya a la operación concreta.
 
@@ -3924,225 +3978,59 @@ Cuando el mismo activo sirva como garantía de varias operaciones de la propia e
 
 Parte 2. Datos adicionales sobre las garantías de los préstamos a personas jurídicas
 
-Valor asignado a la garantía
+## Valor asignado a la garantía.
 
 Importe máximo del valor de la garantía que puede considerarse garantía crediticia para la operación. Este importe puede ser superior al importe del saldo vivo nominal de la operación.
 
-Al asignar a cada operación el valor de la garantía, la entidad debe tener en cuenta las posibles reducciones del valor de la garantía derivadas de la calidad crediticia del emisor de los valores, la calidad del mercado y recuperabilidad del bien, las limitaciones que haya podido imponer el proveedor de la garantía, entre otros. Además, el importe de todos los derechos de cobro preferentes existentes de terceros contra la garantía debe excluirse del valor asignado a la garantía.
+Al asignar a cada operación el valor de la garantía, la entidad debe tener en cuenta las posibles reducciones del valor de la garantía derivadas de la calidad crediticia del emisor de los valores, la calidad del mercado y la recuperabilidad del bien, y las limitaciones que haya podido imponer el proveedor de la garantía, entre otros. Además, el importe de todos los derechos de cobro preferentes existentes de terceros contra la garantía debe excluirse del valor asignado a la garantía.
 
 Si la garantía se asigna a varias operaciones, la entidad deberá repartir el valor de la garantía entre todas y cada una de las operaciones garantizadas.
 
-Derechos de cobro preferentes de terceros contra la garantía
+## Derechos de cobro preferentes de terceros contra la garantía.
 
 Importe máximo de cualesquiera derechos de cobro preferentes en vigor contra la garantía que corresponda a terceros distintos de la entidad.
 
 Se declarará el importe de los derechos de cobro de terceros cuyo orden de prelación sea anterior al de la garantía que la entidad tiene sobre la operación. Los derechos de cobro de la propia entidad con prelación anterior no se considerarán al calcular este importe.
 
-## D.5 Datos dinámicos de los edificios en construcción y de las promociones inmobiliarias recibidos en garantía
+## D.5. Datos dinámicos de los edificios en construcción y de las promociones inmobiliarias recibidos en garantía
 
-Código de la garantía recibida
+## Código de la garantía recibida.
 
 Código que identifica al activo recibido en garantía en el módulo D.2, Datos básicos de los inmuebles recibidos en garantía.
 
-Edificios en construcción o rehabilitación
-
-Fecha del último grado de avance estimado
+## Edificios en construcción o rehabilitación. Fecha del último grado de avance estimado.
 
 Fecha del último grado de avance estimado.
 
 Formato: AAAAMMDD.
 
-Código de la sociedad de tasación o valoración que estimó el grado de avance
+## Edificios en construcción o rehabilitación. Código de la sociedad de tasación o valoración que estimó el grado de avance.
 
 Código de la entidad que haya realizado la estimación del grado de avance. Se utilizarán los mismos criterios que en «Última tasación completa. Código de la sociedad de tasación o valoración» del módulo D.2, Datos básicos de los inmuebles recibidos en garantía.
 
-Porcentaje construido (%)
+## Edificios en construcción o rehabilitación. Porcentaje construido (%).
 
 Porcentaje que representa el coste de la parte edificada sobre el coste total de la construcción según la última certificación.
 
-Importe de los gastos de desarrollo
+## Edificios en construcción o rehabilitación. Importe de los gastos de desarrollo.
 
 Importe de la suma de todos los gastos necesarios y en los que efectivamente se ha incurrido para la construcción del edificio distintos del coste de adquisición del suelo, excluidos los gastos financieros y comerciales, más los costes de construcción u otros gastos que se puedan considerar coste del bien de acuerdo con la normativa aplicable.
 
-Promociones inmobiliarias
-
-Porcentaje de ventas formalizadas (%)
+## Promociones inmobiliarias. Porcentaje de ventas formalizadas (%).
 
 Para las operaciones cuya finalidad sea la promoción inmobiliaria, porcentaje que supone el importe bruto de las ventas realizadas sobre el importe bruto estimado de venta para el conjunto de la promoción inmobiliaria.
 
-Porcentaje de subrogaciones o cancelaciones por entrega de vivienda a comprador final (%)
+## Promociones inmobiliarias. Porcentaje de subrogaciones o cancelaciones por entrega de vivienda a comprador final (%).
 
 Para las operaciones cuya finalidad sea la promoción inmobiliaria, porcentaje que representa el valor de los activos cuyo préstamo ha sido subrogado o cancelado sobre el valor total de los activos inicialmente hipotecados.
 
-## D.6 Datos básicos del resto de las garantías recibidas distintas de inmuebles y activos financieros de préstamos a personas jurídicas
-
-Código de la garantía recibida
-
-Código que identifica el activo recibido en garantía de la operación o cedido en arrendamiento financiero, o la garantía financiera recibida.
-
-Este código debe ser único para cada activo.
-
-Tipo de garantía
-
-Tipo de activo o garantía real:
-
-– Oro.
-
-– Otras garantías de naturaleza física.
-
-– Pólizas de seguros de vida pignoradas.
-
-– Otro tipo de garantía.
-
-Tipo de garantía personal (garantías financieras recibidas):
-
-– Derivados de crédito.
-
-– Garantías financieras distintas de derivados de crédito.
-
-La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
-
-– Oro: oro conforme al Reglamento (UE) n.º 575/2013, es decir, oro en lingotes mantenido en cajas fuertes propias o depositado en custodia, en la medida en que esté respaldado por pasivos en forma de lingotes de oro.
-
-– Otras garantías de naturaleza física: otras garantías de naturaleza física conforme al Reglamento (UE) n.º 575/2013 y no incluidas en otros valores.
-
-– Pólizas de seguro de vida pignoradas: pólizas de seguro de vida pignoradas en favor de la entidad de crédito acreedora conforme al Reglamento (UE) n.º 575/2013.
-
-– Otro tipo de garantía: otro tipo de garantía no incluido en ninguna de las categorías anteriores.
-
-– Derivados de crédito incluye:
-
-• Los derivados de crédito que se ajustan a la definición de garantía financiera conforme al anexo V del Reglamento de Ejecución (UE) n.º 680/2014, y
-
-• Los derivados de crédito distintos de las garantías financieras conforme al anexo V del Reglamento de Ejecución (UE) n.º 680/2014. Se incluyen los derivados de crédito admisibles del artículo 204 del Reglamento (UE) n.º 575/2013.
-
-– Garantías financieras distintas de derivados de crédito: garantías financieras distintas de derivados de crédito conforme al Reglamento de Ejecución (UE) n.º 680/2014.
-
-Código del proveedor de la garantía
-
-En esta dimensión se declarará un solo proveedor de garantía, aunque los activos recibidos en garantía tengan varios propietarios o las garantías personales sean solidarias. En este caso, la entidad declarará a la persona jurídica que considere más relevante a efectos del análisis del riesgo.
-
-En caso de que el proveedor de la garantía sea una persona física, se declarará «No aplicable».
-
-En función del tipo de garantía, el proveedor será:
-
-| Tipo de garantía | Proveedor de la garantía |
-| --- | --- |
-| Oro. | Propietario de la garantía. |
-| Otras garantías de naturaleza física. | Propietario de la garantía. |
-| Pólizas de seguros de vida pignoradas. | Tomador. |
-| Otro tipo de garantía. | Se determinará con carácter individual. |
-| Derivados de crédito. | Contraparte del derivado de crédito. |
-| Garantías financieras distintas de derivados de crédito. | Garante. |
-
-En el caso de pólizas de seguro pignoradas, el proveedor de la garantía es el tenedor del activo; para el resto de activos, el proveedor será el propietario del activo.
-
-Para las garantías financieras distintas de derivados de crédito y derivados de crédito, el proveedor de la garantía será alguno de los titulares declarados en el módulo B.1 como garantes.
-
-Valor de la garantía
-
-Este importe es el valor de la garantía resultante de la estimación más reciente realizada conforme al «Tipo de valor de la garantía». Consecuentemente, este importe se actualizará cada vez que la entidad valore de nuevo las garantías.
-
-Cuando la garantía esté denominada en moneda diferente del euro, se declarará el importe del contravalor de la moneda en euros en la fecha de su valoración. Este importe se actualizará con posterioridad como consecuencia de la variación del tipo de cambio, siempre que el valor declarado en «Tipo de valor de la garantía» sea «Importe nocional».
-
-Tipo de valor de la garantía
-
-Identifica el tipo de valor que se está informando en el atributo «Valor de la garantía»:
-
-– Importe nocional.
-
-– Valor razonable.
-
-– Otro valor de la garantía.
-
-La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
-
-– Importe nocional: es el valor nominal acordado contractualmente que se utiliza para calcular los pagos en caso de que se ejecute la garantía. En el caso de pólizas de seguro de vida, el valor nocional es el valor de rescate.
-
-– Valor razonable: el precio que se recibiría por la venta de un activo o que se pagaría para transferir un pasivo, en una operación ordenada entre participantes en el mercado, en la fecha de valoración. Este valor razonable no puede utilizarse para valorar bienes inmuebles.
-
-– Otro valor de la garantía: otro valor de la garantía no incluido en ninguna de las categorías anteriores.
-
-La siguiente tabla presenta los distintos tipos de valoración según el tipo de garantía:
-
-| Tipo de garantía | Tipo de valor de la garantía |
-| --- | --- |
-| Oro. | Valor razonable. |
-| Otras garantías de naturaleza física. | Valor razonable. |
-| Pólizas de seguros de vida pignoradas. | Importe nocional. |
-| Otro tipo de garantía. | Importe nocional/Valor razonable. |
-| Derivados de crédito. | Importe nocional/Valor razonable. |
-| Garantías financieras distintas de derivados de crédito. | Importe nocional/Valor razonable. |
-
-Método de valoración de la garantía
-
-Método utilizado por la entidad en la última valoración de la garantía. Este atributo se debe actualizar cuando cambie el método utilizado:
-
-– A precio de mercado.
-
-– Estimación por el proveedor de la garantía.
-
-– Valoración por el acreedor.
-
-– Valoración por tercero.
-
-– Otro tipo de valoración.
-
-La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
-
-– A precio de mercado: método de valoración en virtud del cual el valor de la garantía se basa en precios cotizados sin ajustar en relación con los activos y pasivos idénticos en un mercado activo.
-
-– Estimación por el proveedor de la garantía: método en virtud del cual el proveedor de la garantía efectúa la valoración.
-
-– Valoración por el acreedor: método en virtud del cual el acreedor efectúa la valoración. Esta valoración puede ser realizada tanto por un tasador interno de la entidad como por uno externo contratado por esta.
-
-– Valoración por tercero: método en el que un tasador independiente efectúa la valoración.
-
-Otro tipo de valoración: otro tipo de valoración no incluido en las demás categorías. Se declarará este valor si «Tipo de valor de la garantía» es «Importe nocional».
-
-Fecha del valor de la garantía
-
-Fecha en la que se efectuó la última tasación o valoración de la garantía antes de la fecha de referencia.
-
-Para las garantías cuyo valor declarado en «Tipo de valor de la garantía» sea «Importe nocional», se declarará la fecha en que el importe nocional cambió por última vez.
-
-Formato: AAAAMMDD.
-
-Fecha de vencimiento de la garantía
-
-Fecha de vencimiento establecida en el contrato de la garantía.
-
-En caso de que un activo proteja más de una operación, la fecha de vencimiento será la fecha de vencimiento de la operación que venza primero. Si dicha garantía no se ha utilizado cuando venza la primera operación, la fecha de vencimiento habrá que actualizarla con la fecha de vencimiento de la siguiente operación.
-
-Cuando ni la operación garantizada ni el contrato de garantía especifiquen una fecha de vencimiento, o en caso de que el contrato de garantía expresamente indique que la garantía es por tiempo ilimitado, se declarará el valor «No aplicable».
-
-Formato: AAAAMMDD.
-
-Valor original de la garantía
-
-Importe del valor de la garantía al inicio.
-
-Este valor no se modificará durante la vida de la garantía. En caso de que una garantía garantice varias operaciones con distintas fechas de alta, el valor original de la garantía será el que se indicó para la primera operación.
-
-Cuando la garantía esté denominada en moneda diferente del euro, se declarará el importe del contravalor de la moneda en euros en la fecha de su valoración. Este importe no se actualizará con posterioridad como consecuencia de la variación del tipo de cambio.
-
-Para las garantías formalizadas antes de septiembre de 2018, si no se conoce el dato, se declarará «No aplicable».
-
-Fecha de la valoración original de la garantía
-
-Fecha en que se efectuó la última tasación o valoración antes de su aportación inicial como garantía.
-
-Para las garantías formalizadas antes de septiembre de 2018, si no se conoce el dato, se declarará «No aplicable».
-
-Formato: AAAAMMDD.
-
 E. DATOS SOBRE TIPOS DE INTERÉS DE LOS PRÉSTAMOS
 
-Código de la operación
+## Código de la operación.
 
 Código con el que se identifica la operación en el módulo B.2, Datos básicos de las operaciones.
 
-Modalidad de tipo de interés
+## Modalidad de tipo de interés.
 
 Indica la modalidad del tipo de interés:
 
@@ -4162,9 +4050,9 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Mixto: Otra modalidad de tipo de interés no incluida en las categorías anteriores.
 
-– En caso de que ninguno de los valores anteriores sea aplicable, se informará «No aplicable».
+– En caso de que ninguno de los valores anteriores sea aplicable, se indicará «No aplicable».
 
-Frecuencia de revisión del tipo de interés
+## Frecuencia de revisión del tipo de interés.
 
 Para los préstamos, frecuencia con la que el tipo de interés se revisa después del período de tipo fijo inicial, en su caso:
 
@@ -4184,9 +4072,9 @@ Para los préstamos, frecuencia con la que el tipo de interés se revisa despué
 
 – Otra frecuencia.
 
-Para las operaciones con tipo de interés fijo se informará el valor «No revisable».
+Para las operaciones con tipo de interés fijo se indicará el valor «No revisable».
 
-Tipo de referencia
+## Tipo de referencia.
 
 Tipo de referencia utilizado para calcular el tipo de interés real.
 
@@ -4196,7 +4084,7 @@ Los valores para el tipo de referencia serán:
 
 – Euríbor.
 
-– Líbor en dólares estadounidenses.
+– Líbor en dólares USA.
 
 – Líbor en libras esterlinas.
 
@@ -4218,15 +4106,13 @@ Los valores para el tipo de referencia serán:
 
 • Tipo de rendimiento interno en el mercado secundario de la deuda pública de plazo entre dos y seis años.
 
-• Permuta de intereses/Interest Rate Swap (IRS) al plazo de cinco años.
+• Permuta de intereses / Interest Rate Swap (IRS) al plazo de cinco años.
 
 • Resto de los tipos de referencia única.
 
 – No aplicable, en caso de operaciones con tipo de interés fijo.
 
-Tipo de referencia
-
-Vencimiento
+## Tipo de referencia. Vencimiento.
 
 Vencimiento para calcular el tipo de interés de referencia:
 
@@ -4264,23 +4150,23 @@ Vencimiento para calcular el tipo de interés de referencia:
 
 – No aplicable, en caso de operaciones con tipo de interés fijo.
 
-Tipo de referencia sustitutivo
+## Tipo de referencia sustitutivo.
 
 Para los préstamos y créditos a tipo de interés variable y mixto, previsión contractual en caso de desaparición del índice de referencia principal de la operación.
 
-Los valores que se han de utilizar serán alguno de los previstos para la dimensión «Tipo de referencia» y adicionalmente:
+Los valores que se han de utilizar serán algunos de los previstos para la dimensión «Tipo de referencia» y, adicionalmente:
 
 – El último valor del índice de referencia aplicado al contrato antes de la desaparición del índice.
 
-Se utilizará el valor “No aplicable” cuando no exista “Tipo de referencia sustitutivo”.
+Se utilizará el valor «No aplicable» cuando no exista «Tipo de referencia sustitutivo».
 
-Diferencial/margen del tipo de interés
+## Diferencial / margen del tipo de interés.
 
 Margen o diferencial en términos absolutos que se añade al tipo de referencia que se utiliza para calcular el tipo de interés en puntos básicos.
 
 Si a la operación no se le aplica un diferencial de interés, se declarará «No aplicable».
 
-Signo del diferencial/margen del tipo de interés
+## Signo del diferencial / margen del tipo de interés.
 
 Indica si el margen o diferencial del tipo de interés es positivo o negativo:
 
@@ -4288,7 +4174,7 @@ Indica si el margen o diferencial del tipo de interés es positivo o negativo:
 
 – Negativo.
 
-Tipo de interés máximo
+## Tipo de interés máximo.
 
 Para los préstamos, máximo valor del tipo de interés cargado.
 
@@ -4296,7 +4182,7 @@ En las operaciones en que no exista un tipo de interés máximo, se declarará �
 
 Formato: porcentaje con dos decimales.
 
-Tipo de interés mínimo
+## Tipo de interés mínimo.
 
 Para los préstamos, mínimo valor del tipo de interés cargado.
 
@@ -4304,11 +4190,11 @@ En las operaciones en que no exista un tipo de interés mínimo, se declarará �
 
 Formato: porcentaje con dos decimales.
 
-Fecha final del período de solo interés
+## Fecha final del período de solo interés.
 
 Fecha final del período de carencia. En las operaciones en las en el contrato se haya establecido un período de carencia, durante el que solo se pagan intereses, fecha en la que concluye el período de pago de solo los intereses de la operación.
 
-Para el resto de operaciones se declarará el valor «No aplicable».
+Para el resto de las operaciones se declarará el valor «No aplicable».
 
 Formato: AAAAMMDD.
 
@@ -4316,33 +4202,33 @@ F. DATOS DE TRANSFERENCIAS Y TITULIZACIONES SINTÉTICAS DE ACTIVOS FINANCIEROS
 
 Parte 1. Datos que identifican las transferencias y titulizaciones sintéticas
 
-Código de la transferencia
+## Código de la transferencia.
 
 Código con el que se identifica el contrato por el que se transfieren o titulizan sintéticamente las operaciones.
 
 En las titulizaciones, es el «código interno» que se asigne a la titulización en el estado sobre información individualizada de titulizaciones de la normativa de solvencia.
 
-Código del cesionario o vendedor de protección
+## Código del cesionario o vendedor de protección.
 
 Código con el que se declara en el módulo A.1, Datos que identifican a las personas, al cesionario de las operaciones transferidas o la contraparte que vende la protección crediticia en las titulizaciones sintéticas.
 
-Fecha de la transferencia
+## Fecha de la transferencia.
 
 Fecha en la que se realiza la transferencia o titulización sintética.
 
 Formato: AAAAMMDD.
 
-Tipo de transferencia
+## Tipo de transferencia.
 
 Tipo de transferencia o titulización:
 
 – Titulización tradicional.
 
-– Resto de transferencias.
+– Resto de las transferencias.
 
 – Titulización sintética.
 
-Forma jurídica de la transferencia
+## Forma jurídica de la transferencia.
 
 Forma jurídica de la transferencia:
 
@@ -4352,9 +4238,7 @@ Forma jurídica de la transferencia:
 
 – Resto de las formas jurídicas.
 
-Operaciones transferidas
-
-Tratamiento contable
+## Operaciones transferidas. Tratamiento contable.
 
 Indica cómo está registrado el importe transferido de las operaciones en el balance de la entidad:
 
@@ -4372,7 +4256,7 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Dadas parcialmente de baja del balance: cuando se continúen reconociendo las operaciones en el activo exclusivamente por un importe igual a la exposición de la entidad a sus cambios de valor, es decir, por su compromiso continuo.
 
-Tratamiento a efectos de recursos propios
+## Operaciones transferidas. Tratamiento a efectos de recursos propios.
 
 Indica cómo se trata el importe transferido o titulizado sintéticamente de las operaciones a efectos del cálculo de recursos propios:
 
@@ -4384,23 +4268,23 @@ Indica cómo se trata el importe transferido o titulizado sintéticamente de las
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-– Posiciones en titulizaciones: cuando los importes de los riesgos titulizados no se incluyen de forma individualizada en el cálculo de requerimientos de recursos propios, porque las posiciones originadas como consecuencia de la transferencia o titulización sintética se tratan en dicho cálculo como «Elementos que representan posiciones en titulizaciones».
+– Posiciones en titulizaciones: cuando los importes de los riesgos titulizados no se incluyen de forma individualizada en el cálculo de requerimientos de recursos propios porque las posiciones originadas como consecuencia de la transferencia o titulización sintética se tratan en dicho cálculo como «Elementos que representan posiciones en titulizaciones».
 
-– Cálculo individualizado de recursos propios: cuando las operaciones transferidas o titulizadas sintéticamente se incluyen individualmente en el cálculo de requerimientos de recursos propios, porque las posiciones originadas como consecuencia de la transferencia o titulización sintética no se tratan en dicho cálculo como «Elementos que representan posiciones en titulizaciones.»
+– Cálculo individualizado de recursos propios: cuando las operaciones transferidas o titulizadas sintéticamente se incluyen individualmente en el cálculo de requerimientos de recursos propios, porque las posiciones originadas como consecuencia de la transferencia o titulización sintética no se tratan en dicho cálculo como «Elementos que representan posiciones en titulizaciones».
 
 – No aplicable: cuando la entidad declarante sea una sucursal de una entidad de crédito con sede en otro país del Espacio Económico Europeo o los importes transferidos de las operaciones no constituyan exposiciones a efectos del cálculo de recursos propios porque se den de baja íntegramente del activo por una transferencia distinta de una titulización.
 
 Parte 2. Datos que vinculan las transferencias y titulizaciones sintéticas con las operaciones
 
-Código de la transferencia
+## Código de la transferencia
 
 Código con el que se identifica el contrato por el que se transfieren o titulizan sintéticamente las operaciones en la parte 1 de este módulo.
 
-Código de la operación transferida
+## Código de la operación transferida.
 
 Código con el que se identifica en el módulo B.2, Datos básicos de las operaciones, cada una de las operaciones que se han transferido en el mismo contrato.
 
-Porcentaje transferido de la operación (%)
+## Porcentaje transferido de la operación (%).
 
 Porcentaje transferido o titulizado sintéticamente de la operación.
 
@@ -4408,9 +4292,9 @@ Formato: porcentaje con dos decimales.
 
 G. VINCULACIÓN DE CÓDIGOS
 
-## G.1 Datos básicos que vinculan códigos
+## G.1. Datos básicos que vinculan códigos
 
-Tipo de código que se vincula
+## Tipo de código que se vincula.
 
 Indica el tipo de código que se vincula:
 
@@ -4432,7 +4316,7 @@ Indica el tipo de código que se vincula:
 
 – Código del contrato.
 
-Código que se vincula
+## Código que se vincula.
 
 Código que la entidad declarante vincula con otro código.
 
@@ -4440,33 +4324,33 @@ Cuando se vincula un código con el declarado por otra entidad, este código es 
 
 Cuando se vinculan códigos de la misma entidad, se aplicará el siguiente criterio:
 
-a) Código de las operaciones:
+a) Código de las operaciones.
 
 El «Código que se vincula» es el de la nueva operación declarada.
 
-No obstante, se indicará como «Código que se vincula» el código de las pólizas de riesgo global-multiuso, las líneas de avales, las líneas de créditos documentarios y los créditos por disposiciones, cuando se vinculen con los códigos de las operaciones en las que se dispongan los importes.
+No obstante, se indicará como «Código que se vincula» el de las pólizas de riesgo global-multiuso, las líneas de avales, las líneas de créditos documentarios y los créditos por disposiciones cuando se vinculen con los códigos de las operaciones en las que se dispongan los importes.
 
-En las operaciones de refinanciación, como «Código que se vincula» se indicará el código que se asigne a la refinanciación, y como «Códigos vinculados», los códigos de todas las operaciones de refinanciación y refinanciadas. El código que se asigne a cada refinanciación será único y diferente al de las operaciones de refinanciación o refinanciadas en la misma transacción. Este código no se podrá utilizar para otras refinanciaciones ni operaciones y solo se declarará en este módulo.
+En las operaciones de refinanciación, como «Código que se vincula» se indicará el código que se asigne a la refinanciación, y como «Códigos vinculados» los de todas las operaciones de refinanciación y refinanciadas. El código que se asigne a cada refinanciación será único y diferente del de las operaciones de refinanciación o refinanciadas en la misma transacción. Este código no se podrá utilizar para otras refinanciaciones ni operaciones, y solo se declarará en este módulo.
 
 En las operaciones con titulares mancomunados, como «Código que se vincula» se indicará el código que se asigne a la operación, y como «Códigos vinculados», los diferentes códigos de operación que se utilicen para vincular a cada uno de los titulares en el módulo B.1, Datos básicos que relacionan a las personas con las operaciones, para atribuirles el riesgo que les corresponda. El código que se declare como «Código que se vincula» será distinto de los códigos que se asignen para vincular la operación con los diferentes titulares mancomunados.
 
-En las operaciones segregadas de otra operación, como «Código que se vincula» se indicará el código de la operación que se segrega, y como «Códigos vinculados», los códigos de las operaciones en las que se segrega.
+En las operaciones segregadas de otra operación, como «Código que se vincula» se indicará el código de la operación que se segrega, y como «Código vinculado», los códigos de las operaciones en las que se segrega.
 
-b) Código del contrato:
+b) Código del contrato.
 
 El contrato es el acuerdo jurídico vinculante entre una o más partes conforme al cual se crean una o varias operaciones. Este código es único para cada contrato y no se puede reutilizar para otros contratos. El código se debe mantener invariable durante la vida del contrato.
 
-Cuando la entidad haya indicado en el módulo B.2, Datos básicos de las operaciones, que el código de contrato es distinto del código de la operación, con la excepción mencionada en la norma undécima, 2 bis), se indicará en el «Código que se vincula» el código del contrato, y como «Códigos vinculados», los códigos de las operaciones declaradas en el módulo B.2.
+Cuando la entidad haya indicado en el módulo B.2, Datos básicos de las operaciones, que el código de contrato es distinto del código de la operación, con la excepción mencionada en la norma undécima 2 bis), se indicará como «Código que se vincula» el del contrato y como «Código vinculado» los de las operaciones declaradas en el módulo B.2.
 
-En las operaciones con titulares mancomunados, el código de contrato asignado a cada uno de los diferentes códigos de operación que se utilicen para vincular a cada uno de los titulares en el módulo B.1, Datos básicos que relacionan a las personas con las operaciones, para atribuirles el riesgo que les corresponda debe ser el mismo.
+En las operaciones con titulares mancomunadas, el código de contrato asignado a cada uno de los diferentes códigos de operación que se utilicen para vincular a cada uno de los titulares en el módulo B.1, Datos básicos que relacionan a las personas con las operaciones, para atribuirles el riesgo que les corresponda debe ser el mismo.
 
 Esta vinculación permanecerá invariable durante la vida de la operación.
 
-c) Resto de los códigos:
+c) Resto de los códigos.
 
-El código que declarar es el nuevo código que asigne la entidad declarante al valor, transferencia, activo recibido en garantía, promoción inmobiliaria, expediente de adjudicación o activo adjudicado.
+El código que se ha de declarar es el nuevo código que asigne la entidad declarante al valor, transferencia, activo recibido en garantía, promoción inmobiliaria, expediente de adjudicación o activo adjudicado.
 
-Tipo de vinculación
+## Tipo de vinculación.
 
 Motivo por el que se vincula el código con otro código de la propia entidad:
 
@@ -4496,7 +4380,7 @@ Motivo por el que se vincula el código con otro código de la propia entidad:
 
 – Código de contrato asignado a las operaciones.
 
-Motivo por el que se vincula el código con otro código de otra entidad declarante que pertenezca al mismo grupo económico que la entidad que envía el módulo:
+Motivo por el que se vincula el código con el de otra entidad declarante que pertenezca al mismo grupo económico que la entidad que envía el módulo:
 
 – Garantía financiera otorgada.
 
@@ -4512,13 +4396,13 @@ Motivo por el que se vincula el código con otro código de otra entidad declara
 
 – Refinanciación.
 
-Motivo por el que se vincula el código con el código de otra entidad declarante que no pertenezca al mismo grupo económico que la entidad que envía el módulo:
+Motivo por el que se vincula el código con el de otra entidad declarante que no pertenezca al mismo grupo económico que la entidad que envía el módulo:
 
 – Garantía financiera otorgada.
 
 – Avales y cauciones no financieros prestados.
 
-– Adquisición de operaciones a entidad que mantiene la gestión frente al titular.
+– Adquisición de operaciones de entidad que mantiene la gestión frente al titular.
 
 – Fusión o traspaso de la actividad financiera.
 
@@ -4526,27 +4410,27 @@ Motivo por el que se vincula el código con el código de otra entidad declarant
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-– Fusión o traspaso de la actividad financiera: cuando la entidad adquiera la operación como consecuencia de una fusión o traspaso de la actividad financiera que suponga la baja en el registro de entidades del código REN con el que venía declarando la entidad cedente.
+– Fusión o traspaso de la actividad financiera: cuando la entidad adquiera la operación como consecuencia de una fusión o traspaso de la actividad financiera que suponga la baja en el registro de entidades del código REN con el que declaraba la entidad cedente.
 
-– Otras adquisiciones de negocio: cuando la entidad adquiera una o más operaciones a una entidad que continúe inscrita en el registro de entidades con el mismo código REN con el que venía declarando la actividad cedida.
+– Otras adquisiciones de negocio: cuando la entidad adquiera una o más operaciones de una entidad que continúe inscrita en el registro de entidades con el mismo código REN con el que declaraba la actividad cedida.
 
-– Cambio de código por razones de gestión: cuando la entidad modifique cualquier tipo de código exclusivamente por razones de gestión interna, tales como que se modifique la sucursal encargada de su administración o se produzca un cambio en la codificación informática.
+– Cambio de código por razones de gestión: cuando la entidad modifique cualquier tipo de código exclusivamente por razones de gestión interna, como que se modifique la sucursal encargada de su administración o que se produzca un cambio en la codificación informática.
 
-Código REN de la entidad declarante del código vinculado
+## Código REN de la entidad declarante del código vinculado.
 
-Código en el Registro de Entidades del Banco de España (código REN) de la entidad que declare o haya declarado el código que se vincula, incluso cuando el «Código vinculado» haya sido declarado por la propia entidad declarante.
+Código REN de la entidad que declare o haya declarado el código que se vincula, incluso cuando el «Código vinculado» haya sido declarado por la propia entidad declarante.
 
-Código vinculado
+## Código vinculado.
 
 Código declarado a la CIR por la propia entidad u otra entidad declarante con el que se vincule el código declarado como «Código que se vincula».
 
-## G.2 Datos básicos de las operaciones que se han de comunicar a otras entidades
+## G.2. Datos básicos de las operaciones que se han de comunicar a otras entidades
 
-Código REN de la entidad con la que se vincula la operación
+## Código REN de la entidad con la que se vincula la operación.
 
 Código en el Registro de Entidades del Banco de España (código REN) de la entidad con la que se realice la operativa declarada.
 
-Tipo de vinculación
+## Tipo de vinculación.
 
 Motivo por el que se vincula la operación con otra entidad declarante:
 
@@ -4554,7 +4438,7 @@ Motivo por el que se vincula la operación con otra entidad declarante:
 
 – Contraaval de un aval o caución no financiero.
 
-– Cesión de operaciones continuando la gestión frente a los titulares.
+– Cesión de operaciones de las que mantiene la gestión frente a los titulares.
 
 – Otras cesiones de negocio.
 
@@ -4568,105 +4452,101 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Contraaval de un aval o caución no financiero: cuando la entidad haya recibido un contraaval de un aval o caución no financiero de otra entidad declarante.
 
-– Cesión de operaciones continuando la gestión frente a los titulares: cuando la entidad transfiera a otra entidad declarante operaciones que se hayan dado de baja del activo total o parcialmente, pero continúa con su gestión frente a los titulares. Con este valor se declararán las operaciones que la entidad haya comunicado en el módulo F, Datos de transferencias y titulizaciones sintéticas de activos financieros, como transferidas a nombre de un cesionario que sea una entidad declarante.
+– Cesión de operaciones de las que mantiene la gestión frente a los titulares: cuando la entidad transfiera a otra entidad declarante operaciones que se hayan dado de baja del activo total o parcialmente, pero continúa con su gestión frente a los titulares. Con este valor se declararán las operaciones que la entidad haya comunicado en el módulo F, Datos de transferencias y titulizaciones sintéticas de activos financieros, como transferidas a nombre de un cesionario que sea una entidad declarante.
 
-– Otras cesiones de negocio: cuando la entidad ceda a otra entidad declarante una o más operaciones que no sean valores representativos de deuda, siempre que no continúe con la gestión frente a los titulares y permanezca inscrita en el Registro de Entidades del Banco de España con el mismo código REN con el que venía declarando la actividad cedida.
+– Otras cesiones de negocio: cuando la entidad ceda a otra entidad declarante una o más operaciones que no sean valores representativos de deuda, siempre que no continúe con la gestión frente a los titulares y permanezca inscrita en el Registro de Entidades del Banco de España con el mismo código REN con el que declaraba la actividad cedida.
 
 – Subrogación del acreedor: cuando la entidad deje de ser prestamista de la operación porque el deudor haga una subrogación del acreedor y el nuevo prestamista pase a ser otra entidad declarante que pertenezca a su mismo grupo económico.
 
 – Refinanciación: cuando la operación de la entidad haya sido refinanciada por una operación de otra entidad declarante que pertenezca a su mismo grupo económico.
 
-Código de la contraparte directa
+## Código de la contraparte directa.
 
-Código del titular de riesgo directo de la operación que la entidad considera como contraparte directa de la operación a efectos contables.
+Código del titular de riesgo directo de la operación que la entidad considera contraparte directa de la operación a efectos contables.
 
-Nombre de la contraparte directa
+## Nombre de la contraparte directa.
 
 Nombre del titular del riesgo directo cuyo código se declara como «Código de la contraparte directa» en este módulo.
 
-Código de la operación
+## Código de la operación.
 
 Código con el que se identifica la operación en el módulo B.2, Datos básicos de las operaciones.
 
-Tipo de producto
+## Tipo de producto.
 
 Tipo de producto con el que se declara la operación en el módulo B.2, Datos básicos de las operaciones.
 
-Fecha de formalización o emisión
+## Fecha de formalización o emisión.
 
-Fecha de formalización de la operación. Es la fecha con la que se declara la operación en el dato «Fecha de formalización o emisión» del módulo B.2, Datos básicos de las operaciones.
-
-Formato: AAAAMMDD.
-
-Fecha de vencimiento
-
-Fecha del vencimiento final de la operación. Es la fecha con la que se declara la operación en el dato de igual nombre del módulo B.2, Datos básicos de las operaciones.
+Fecha de formalización de la operación, que es aquella con la que se declara la operación en el dato «Fecha de formalización o emisión» del módulo B.2, Datos básicos de las operaciones.
 
 Formato: AAAAMMDD.
 
-Principal o nocional al inicio de la operación
+## Fecha de vencimiento.
+
+Fecha del vencimiento final de la operación, que es aquella con la que se declara la operación en el dato de igual nombre del módulo B.2, Datos básicos de las operaciones.
+
+Formato: AAAAMMDD.
+
+## Principal o nocional al inicio de la operación.
 
 Cuando como «Tipo de vinculación» se declare «Garantía financiera recibida» o «Contraaval de un aval o caución no financiero», importe declarado para la operación garantizada en el módulo B.2, Datos básicos de las operaciones.
 
-Porcentaje transferido de la operación (%)
+## Porcentaje transferido de la operación (%).
 
-Cuando como «Tipo de vinculación» se declare «Cesión de operaciones continuando la gestión frente a los titulares», porcentaje transferido de la operación.
+Cuando como «Tipo de vinculación» se declare «Cesión de operaciones de las que mantiene la gestión frente a los titulares», porcentaje transferido de la operación.
 
 Formato: porcentaje con dos decimales.
 
 ## G.3 Datos dinámicos de las operaciones que se han de comunicar a otras entidades
 
-Código REN de la entidad con la que se vincula la operación
+## Código REN de la entidad con la que se vincula la operación.
 
 Código del Registro de Entidades del Banco de España (código REN) de la entidad que garantiza o contraavala la operación.
 
-Código de la operación
+## Código de la operación.
 
 Código con el que se identifica la operación en el módulo B.2, Datos básicos de las operaciones.
 
-Principal garantizado
-
-Importe no vencido
+## Principal garantizado. Importe no vencido.
 
 Importe del principal no vencido garantizado por la entidad a la que se comunican los datos.
 
-Importe vencido
+## Principal garantizado. Importe vencido.
 
 Importe del principal vencido garantizado por la entidad a la que se comunican los datos.
 
-Intereses y comisiones vencidos garantizados
+## Intereses y comisiones vencidos garantizados.
 
-Importe de los intereses y comisiones pendientes de cobro garantizado por la entidad a la que se comunican los datos.
+Importe de los intereses y las comisiones pendientes de cobro garantizado por la entidad a la que se comunican los datos.
 
-Intereses de demora garantizados
+## Intereses de demora garantizados.
 
 Importe de los intereses de demora garantizado por la entidad a la que se comunican los datos.
 
-Gastos exigibles garantizados
+## Gastos exigibles garantizados.
 
 Importe de los gastos exigibles pendientes de cobro garantizado por la entidad a la que se comunican los datos.
 
-Límite actual del riesgo garantizado
+## Límite actual del riesgo garantizado.
 
 Importe del límite actual del riesgo garantizado por la entidad a la que se comunican los datos.
 
-Riesgo disponible garantizado
-
-Disponibilidad inmediata
+## Riesgo disponible garantizado. Disponibilidad inmediata.
 
 Importe del riesgo disponible con disponibilidad inmediata garantizado por la entidad a la que se comunican los datos.
 
-Disponibilidad condicionada
+## Riesgo disponible garantizado. Disponibilidad condicionada.
 
 Importe del riesgo disponible con disponibilidad condicionada garantizado por la entidad a la que se comunican los datos.
 
-Fecha del primer incumplimiento
+## Fecha del primer incumplimiento.
 
-Fecha del incumplimiento más antiguo de la operación garantizada o contraavalada por la entidad a la que se comunican los datos pendiente de resolución a la fecha de los datos.
+Fecha del incumplimiento más antiguo de la operación garantizada o contraavalada por la entidad a la que se comunican los datos pendiente de resolución en la fecha de los datos.
 
 Esta fecha se declarará utilizando los mismos criterios que en el dato de idéntico nombre del módulo C.1, Datos dinámicos de los riesgos directos.
 
-Fecha del último incumplimiento
+## Fecha del último incumplimiento.
 
 Fecha del último incumplimiento de la operación garantizada o contraavalada por la entidad a la que se comunican los datos pendiente de resolución a la fecha de los datos.
 
@@ -4674,13 +4554,13 @@ Esta fecha se declarará utilizando los mismos criterios que en el dato de idén
 
 H. INFORMACIÓN PRUDENCIAL COMPLEMENTARIA
 
-## H.1 Datos contables de los préstamos a personas jurídicas
+## H.1. Datos contables de los préstamos a personas jurídicas
 
-Código de la operación
+## Código de la operación.
 
 Código con el que se identifica la operación en el módulo B.2, Datos básicos de las operaciones.
 
-Clasificación contable de las operaciones
+## Clasificación contable de las operaciones.
 
 Cartera contable en la que está clasificada la operación a efectos de valoración y registro de resultados, con independencia de que en el balance se presente en la partida «Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta»:
 
@@ -4702,9 +4582,9 @@ La asignación de los valores anteriores se realizará aplicando los criterios q
 
 Las operaciones que se presentan en el balance como «Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta» se asignarán a la cartera cuyo criterio de valoración y registro de resultados se ha utilizado en la confección del balance.
 
-El valor «No aplicable» se declarará para las operaciones transferidas o titulizadas tradicionalmente cuando la entidad las ha dado de baja de su balance de acuerdo con las normas contables y para las operaciones no reconocidas en el balance por otras razones, tales como operaciones clasificadas íntegramente como fallidas, operaciones gestionadas por la entidad que no hayan sido originadas por ella, préstamos concedidos a otros agentes observados de la misma entidad, préstamos fiduciarios y préstamos a sociedades y fondos de titulización a los que la entidad haya transferido económicamente activos financieros.
+El valor «No aplicable» se asignaría a las operaciones transferidas o titulizadas tradicionalmente cuando la entidad las haya dado de baja de su balance de acuerdo con las normas contables y a las operaciones no reconocidas en el balance por otras razones, como operaciones clasificadas íntegramente como fallidas, operaciones gestionadas por la entidad que no hayan sido originadas por ella, préstamos concedidos a otros agentes observados de la misma entidad, préstamos fiduciarios y préstamos a sociedades y fondos de titulización a los que la entidad haya transferido económicamente activos financieros.
 
-Activos no corrientes en venta
+## Activos no corrientes en venta.
 
 Indica si los préstamos se presentan en el balance como «Activos no corrientes y grupos enajenables de elementos que se han clasificado como mantenidos para la venta»:
 
@@ -4712,7 +4592,11 @@ Indica si los préstamos se presentan en el balance como «Activos no corrientes
 
 – No.
 
-Reconocimiento en el balance
+– No aplicable.
+
+Las operaciones que se consideren íntegramente fallidas se declararán con el valor «No aplicable».
+
+## Reconocimiento en el balance.
 
 Indica cómo está registrada la operación en el balance de la entidad:
 
@@ -4728,41 +4612,41 @@ La asignación de los valores anteriores se realizará aplicando los siguientes 
 
 – Reconocida en función de la implicación continuada de la entidad: operación reconocida en función de la implicación continuada de la entidad conforme al Reglamento de Ejecución (UE) n.º 680/2014. Este valor también se utilizará para declarar las operaciones transferidas parcialmente cuando la entidad tenga que continuar declarando la parte transferida porque el nuevo acreedor sea una persona jurídica distinta de un agente observado residente en un Estado miembro informador.
 
-– Íntegramente no reconocida: operación íntegramente dada de baja del balance. Este valor se declarará para las operaciones transferidas o titulizadas tradicionalmente cuando la entidad las ha dado de baja íntegramente de su balance de acuerdo con las normas contables, así como para las operaciones no reconocidas en el balance por otras razones, tales como operaciones clasificadas íntegramente como fallidas, operaciones gestionadas por la entidad que no hayan sido originadas por ella, préstamos concedidos a otros agentes observados de la misma entidad, préstamos fiduciarios y préstamos a sociedades y fondos de titulización a los que la entidad haya transferido económicamente activos financieros.
+– Íntegramente no reconocida: operación íntegramente dada de baja del balance. Este valor se asignaría a las operaciones transferidas o titulizadas tradicionalmente cuando la entidad las haya dado de baja íntegramente de su balance de acuerdo con las normas contables, así como a las operaciones no reconocidas en el balance por otras razones, como operaciones clasificadas íntegramente como fallidas, operaciones gestionadas por la entidad que no hayan sido originadas por ella, préstamos concedidos a otros agentes observados de la misma entidad, préstamos fiduciarios y préstamos a sociedades y fondos de titulización a los que la entidad haya transferido económicamente activos financieros.
 
-Fallidos acumulados
+## Fallidos acumulados.
 
 Importe acumulado de toda operación que la entidad ya no reconozca en el activo por considerarlo incobrable, independientemente de la cartera contable en la que esté o haya estado clasificada la operación.
 
 En caso de que la operación no tenga importes fallidos acumulados a la fecha de referencia, se declarará cero.
 
-El valor «No aplicable» se declarará para los operaciones declaradas como «Íntegramente no recocidas» por razones diferentes de estar íntegramente fallidas.
+El valor «No aplicable» se asignaría a las operaciones declaradas como «Íntegramente no reconocidas» por razones diferentes de estar íntegramente fallidas y siempre que la entidad declarante no sea el acreedor de la operación.
 
-Deterioro del valor acumulado
+## Deterioro del valor acumulado.
 
-Importe de las correcciones de valor por pérdidas asignadas a la operación en la fecha de referencia de la información, cualquiera que sea la fase en la que esté incluida a efectos del cálculo del deterioro.
+Importe de las correcciones de valor por pérdidas asignadas a la operación en la fecha de referencia de la información cualquiera que sea la fase en la que esté incluida a efectos del cálculo del deterioro.
 
 Cuando la operación esté incluida en una cartera contable susceptible de deterioro de valor, se declarará cero si la operación no tiene constituida ninguna provisión por dicho motivo.
 
 Las operaciones no susceptibles de deterioro por no estar reconocidas en el balance de la entidad o porque estén valoradas a valor razonable con cambios en resultados se declararán con el valor «No aplicable».
 
-Tipo de deterioro del valor
+## Tipo de deterioro del valor.
 
-Fase en la que esté clasificada la operación a efectos del cálculo del deterioro en el balance de la entidad a la fecha de referencia conforme a la normativa contable:
+Fase en la que esté clasificada la operación a efectos del cálculo del deterioro en el balance de la entidad en la fecha de referencia conforme a la normativa contable:
 
-– Fase 1.
+Fase 1.
 
-– Fase 2.
+Fase 2.
 
-– Fase 3.
+Fase 3.
 
-– No aplicable.
+No aplicable.
 
 Las operaciones no susceptibles de deterioro por no estar reconocidas en el balance de la entidad o porque estén valoradas a valor razonable con cambios en resultados se declararán con el valor «No aplicable».
 
-Método de evaluación del deterioro del valor
+## Método de evaluación del deterioro del valor.
 
-Método por el que se evalúa el deterioro del valor, si la operación es susceptible de deterioro conforme a la normativa contable:
+Método por el que se evalúa el deterioro de valor si la operación es susceptible de deterioro conforme a la normativa contable:
 
 – Evaluación individual.
 
@@ -4772,13 +4656,13 @@ Método por el que se evalúa el deterioro del valor, si la operación es suscep
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-– Evaluación individual: operación susceptible de deterioro de valor conforme a la norma contable cuyo deterioro de valor se evalúa individualmente.
+– Evaluación individual: operación susceptible del deterioro de valor conforme a la norma contable cuyo deterioro del valor se evalúa individualmente.
 
-– Evaluación colectiva: operación susceptible de deterioro de valor conforme a la norma contable cuyo deterioro de valor se evalúa colectivamente, agrupándolo con otras operaciones de análogas características de riesgo crediticio.
+– Evaluación colectiva: operación susceptible de deterioro del valor conforme a la norma contable cuyo deterioro del valor se evalúa colectivamente agrupándolo con otras operaciones de análogas características de riesgo crediticio.
 
 – No aplicable: operación no susceptible de deterioro por no estar reconocida en el balance de la entidad o porque esté valorada a valor razonable con cambios en resultados.
 
-Fuentes de carga
+## Fuentes de carga.
 
 Indica si la operación está sujeta a cargas de conformidad con el Reglamento de Ejecución (UE) n.º 680/2014. Un activo se considerará con cargas si ha sido pignorado o si está sujeto a cualquier tipo de acuerdo, del que no pueda sustraerse libremente, en virtud del cual se destine a servir de garantía, en cualquier operación, o a mejorar su calidad crediticia:
 
@@ -4788,13 +4672,13 @@ Indica si la operación está sujeta a cargas de conformidad con el Reglamento d
 
 – Derivados OTC.
 
-– Depósitos – pacto de recompra que no son con bancos centrales.
+– Depósitos pacto de recompra que no son con bancos centrales.
 
 – Depósitos distintos de pacto de recompra.
 
-– Valores representativos de deuda emitidos – bonos garantizados.
+– Valores representativos de deuda emitidos. Bonos garantizados.
 
-– Valores representativos de deuda emitidos – bonos de titulización de activos.
+– Valores representativos de deuda emitidos. Bonos de titulización de activos.
 
 – Valores representativos de deuda emitidos distintos de bonos garantizados y bonos de titulización de activos.
 
@@ -4806,27 +4690,27 @@ Indica si la operación está sujeta a cargas de conformidad con el Reglamento d
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-– Financiación de bancos centrales: financiación de bancos centrales (de todo tipo, incluidos los pactos de recompra), conforme a las normas técnicas de ejecución de la Autoridad Bancaria Europea (ABE) sobre presentación de información de activos con cargas a que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013.
+– Financiación de bancos centrales: financiación de bancos centrales (de todo tipo, incluidos los pactos de recompra) conforme a las normas técnicas de ejecución de la Autoridad Bancaria Europea (ABE) sobre presentación de información de activos con cargas a las que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013.
 
-– Derivados negociados en mercados organizados: derivados negociados en mercados organizados conforme a las normas técnicas de ejecución de la ABE sobre presentación de información de activos con cargas a que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013.
+– Derivados negociados en mercados organizados: derivados negociados en mercados organizados conforme a las normas técnicas de ejecución de la ABE sobre presentación de información de activos con cargas a las que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013.
 
-– Derivados OTC: derivados OTC conforme a las normas técnicas de ejecución de la ABE sobre presentación de información de activos con cargas a que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013.
+– Derivados OTC: derivados OTC conforme a las normas técnicas de ejecución de la ABE sobre presentación de información de activos con cargas a las que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013.
 
-– Depósitos – pacto de recompra que no son con bancos centrales: pactos de recompra que no son con bancos centrales conforme a las normas técnicas de ejecución de la ABE sobre presentación de información de activos con cargas a que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013.
+– Depósitos pacto de recompra que no son con bancos centrales: pactos de recompra que no son con bancos centrales conforme a las normas técnicas de ejecución de la ABE sobre presentación de información de activos con cargas a las que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013.
 
-– Depósitos distintos de pacto de recompra: depósitos distintos de pactos de recompra conforme a las normas técnicas de ejecución de la ABE sobre presentación de información de activos con cargas a que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013. Este valor no incluye las operaciones titulizadas que permanecen en el balance, que deben ser informadas como «Valores representativos de deuda emitidos – bonos garantizados», aunque la entidad no emita los valores representativos de deuda y reconozca un depósito en su balance.
+– Depósitos distintos de pactos de recompra: depósitos distintos de pactos de recompra conforme a las normas técnicas de ejecución de la ABE sobre presentación de información de activos con cargas a las que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013. Este valor no incluye las operaciones titulizadas que permanecen en el balance, que deben ser informadas como «Valores representativos de deuda emitidos. Bonos garantizados», aunque la entidad no emita los valores representativos de deuda y reconozca un depósito en su balance.
 
-– Valores representativos de deuda emitidos – bonos garantizados: bonos garantizados emitidos conforme a las normas técnicas de ejecución de la ABE sobre presentación de información de activos con cargas a que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013.
+– Valores representativos de deuda emitidos. Bonos garantizados: bonos garantizados emitidos conforme a las normas técnicas de ejecución de la ABE sobre presentación de información de activos con cargas a las que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013.
 
-– Valores representativos de deuda emitidos – bonos de titulización de activos: bonos de titulización de activos emitidos conforme a las normas técnicas de ejecución de la ABE sobre presentación de información de activos con cargas a que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013. Este valor será utilizado para informar de los activos titulizados, aunque la entidad no haya emitido valores representativos de deuda e informe en el balance los fondos recibidos como depósitos.
+– Valores representativos de deuda emitidos. Bonos de titulización de activos: bonos de titulización de activos emitidos conforme a las normas técnicas de ejecución de la ABE sobre presentación de información de activos con cargas a que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013. Este valor será utilizado para informar de los activos titulizados aunque la entidad no haya emitido valores representativos de deuda e informe en el balance de los fondos recibidos como depósitos.
 
 – Valores representativos de deuda emitidos distintos de bonos garantizados y bonos de titulización de activos: valores representativos de deuda emitidos distintos de bonos garantizados y bonos de titulización de activos conforme a las normas técnicas de ejecución de la ABE sobre presentación de información de activos con cargas a que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013.
 
-– Otras fuentes de carga: otras fuentes de carga conforme a las normas técnicas de ejecución de la ABE sobre presentación de información de activos con cargas a que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013.
+– Otras fuentes de carga: otras fuentes de carga conforme a las normas técnicas de ejecución de la ABE sobre presentación de información de activos con cargas a las que se refieren el artículo 99, apartado 5, y el artículo 100 del Reglamento (UE) n.º 575/2013.
 
 – Sin cargas: una operación que no haya sido pignorada o que no esté sujeta a cualquier tipo de acuerdo, del que no pueda sustraerse libremente, en virtud del cual se destine a servir de garantía en cualquier operación o a mejorar su calidad crediticia.
 
-– No aplicable: operaciones administradas por la entidad declaradas como «Íntegramente no reconocidas».
+– No aplicable: operaciones declaradas como «Íntegramente no reconocidas» por razones diferentes de estar íntegramente fallidas y siempre que la entidad declarante no sea el acreedor de la operación.
 
 Las operaciones se declararán como con cargas aunque estén sujetas a cargas parcialmente.
 
@@ -4834,15 +4718,15 @@ Cuando una operación esté sujeta simultáneamente a varias fuentes de carga, s
 
 En caso de carteras de operaciones sujetas conjuntamente a cargas en las que solo una parte del importe de la cartera está sujeto a cargas, si el importe sujeto a carga se puede asignar a operaciones concretas, la asignación de la carga se hará a nivel de operación. En caso contrario, si dicho importe no se puede asignar a operaciones concretas, se considerará que todas las operaciones de la cartera están sujetas a cargas.
 
-Cambios acumulados en el valor razonable debidos al riesgo crediticio
+## Cambios acumulados en el valor razonable debidos al riesgo crediticio.
 
-Cambios acumulados en el valor razonable debidos al riesgo crediticio registrados en el balance a la fecha de referencia. Este importe solo se informará si el cambio acumulado es negativo, en cuyo caso se informará en valor absoluto.
+Cambios acumulados en el valor razonable debidos al riesgo crediticio registrados en el balance a la fecha de referencia. Este importe solo se indicará si el cambio acumulado es negativo, en cuyo caso se indicará en valor absoluto.
 
-Si los cambios acumulados en el valor razonable fueran positivos o no hubiera habido cambios, se informará cero.
+Si los cambios acumulados en el valor razonable fueran positivos o no hubiera habido cambios, se indicará cero.
 
 Las operaciones no reconocidas en el balance de la entidad, así como las que no se valoren a valor razonable con cambios en resultados, se declararán con el valor «No aplicable».
 
-Clasificación de la operación en función del riesgo de crédito
+## Clasificación de la operación en función del riesgo de crédito.
 
 Clasificación de la operación en función del riesgo de crédito en la fecha de referencia:
 
@@ -4856,29 +4740,29 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – No dudosa: operación clasificada como no dudosa conforme al Reglamento de Ejecución (UE) n.º 680/2014.
 
-Esta dimensión debe informarse para todas las operaciones, aunque no estén reconocidas en el balance y cualquiera que sea su clasificación contable a efectos de valoración y registro de resultados.
+Esta dimensión debe indicarse para todas las operaciones, aunque no estén reconocidas en el balance y cualquiera que sea su clasificación contable a efectos de valoración y registro de resultados.
 
-Las operaciones clasificadas como fallidas se declararán con el valor “Dudosas”.
+Las operaciones clasificadas como fallidas se declararán con el valor «Dudosas».
 
-Fecha de la clasificación de la operación en función del riesgo de crédito
+## Fecha de la clasificación de la operación en función del riesgo de crédito.
 
-Fecha en que el atributo “Clasificación de la operación en función del riesgo de crédito” cambia de clasificación.
+Fecha en la que el atributo «Clasificación de la operación en función del riesgo de crédito» cambia de clasificación.
 
-Esta dimensión debe informarse para todas las operaciones.
+Esta dimensión debe indicarse en todas las operaciones.
 
-Para las operaciones que no hayan cambiado su clasificación desde su formalización o adquisición, se declarará la fecha de formalización o emisión informada en el módulo B.2, “Datos básicos de las operaciones”.
+Para las operaciones que no hayan cambiado su clasificación desde su formalización o adquisición, se declarará la fecha de formalización o emisión indicada en el módulo B.2, «Datos básicos de las operaciones».
 
-Para las operaciones que actualmente se clasifiquen como “No dudosa”, pero que previamente se hubiesen declarado como “Dudosa”, se declarará la fecha en la que cambió la clasificación de “Dudosa” a “No dudosa”.
+Para las operaciones que actualmente se clasifiquen como «No dudosa», pero que previamente se hubiesen declarado como «Dudosa», se declarará la fecha en la que cambió la clasificación de «Dudosa» a «No dudosa».
 
 Formato: AAAAMMDD.
 
-Provisiones asociadas a exposiciones fuera de balance
+## Provisiones asociadas a exposiciones fuera de balance.
 
-Importe de las provisiones constituidas a la fecha de referencia para cubrir el importe declarado en la dimensión «Saldo fuera de balance» del módulo C.3, Datos dinámicos financieros de los préstamos a personas jurídicas».
+Importe de las provisiones constituidas en la fecha de referencia para cubrir el importe declarado en la dimensión «Saldo fuera de balance» del módulo C.3, «Datos dinámicos financieros de los préstamos a personas jurídicas».
 
-El valor «No aplicable» se declarará para las operaciones no reconocidas en el balance, así como cuando ese mismo valor se haya declarado en la dimensión «Saldo fuera de balance» del módulo C.3, Datos dinámicos financieros de los préstamos a personas jurídicas.
+El valor «No aplicable» se asignará las operaciones no reconocidas en el balance, así como cuando ese mismo valor se haya declarado en la dimensión «Saldo fuera de balance» del módulo C.3, Datos dinámicos financieros de los préstamos a personas jurídicas.
 
-Estado de reestructuración o refinanciación y renegociación
+## Estado de reestructuración o refinanciación y renegociación.
 
 Indica el estado de reestructuración, refinanciación o renegociación en el que está clasificada la operación a la fecha de referencia.
 
@@ -4894,45 +4778,41 @@ Indica el estado de reestructuración, refinanciación o renegociación en el qu
 
 La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
 
-– Reestructuradas o refinanciadas. Operaciones con tipo de interés modificado por debajo de las condiciones de mercado: se aplican medidas de reestructuración o refinanciación a operaciones con términos y condiciones modificados, incluyendo la modificación del tipo de interés por debajo de las condiciones de mercado conforme al Reglamento (UE) n.º 1072/2013 (BCE/2013/34).
+– Reestructuradas o refinanciadas. Operaciones con tipo de interés modificado por debajo de las condiciones de mercado: se aplican medidas de reestructuración o refinanciación a operaciones con términos y condiciones modificados, incluyendo la modificación del tipo de interés por debajo de las condiciones de mercado conforme al Reglamento (UE) 1072/2013 (BCE/2013/34).
 
-– Reestructurados o refinanciados. Operaciones con modificación de otras condiciones: se aplican medidas de reestructuración o refinanciación a operaciones con términos y condiciones modificados, excluyendo la modificación del tipo de interés por debajo de las condiciones de mercado conforme al Reglamento de Ejecución (UE) n.º 680/2014.
+– Reestructuradas o refinanciadas. Operaciones con modificación de otras condiciones: se aplican medidas de reestructuración o refinanciación a operaciones con términos y condiciones modificados, excluyendo la modificación del tipo de interés por debajo de las condiciones de mercado conforme al Reglamento de Ejecución (UE) n.º 680/2014.
 
 – Reestructuradas o refinanciadas. Deuda total o parcialmente refinanciada: se aplican medidas de reestructuración o refinanciación a deuda refinanciada conforme al Reglamento de Ejecución (UE) n.º 680/2014.
 
 – Operación renegociada sin medidas de reestructuración o refinanciación: operación cuyas condiciones financieras se han modificado y a la que no se aplican medidas de reestructuración o refinanciación de conformidad con el Reglamento de Ejecución (UE) n.º 680/2014. Cuando como consecuencia de una renegociación de las condiciones financieras de un instrumento se sustituya por otro, el nuevo instrumento se declarará con este valor si no se aplican medidas de refinanciación.
 
-– Las operaciones prolongadas automáticamente sin intervención activa del deudor que no supongan la renegociación de las condiciones financieras no se consideran operaciones renegociadas.
+Las operaciones prolongadas automáticamente sin intervención activa del deudor que no supongan la renegociación de las condiciones financieras no se consideran operaciones renegociadas.
 
-– Ni reestructuradas o refinanciadas ni renegociadas: operación que no ha sido renegociada ni se aplican medidas de reestructuración o refinanciación conforme al Reglamento de Ejecución (UE) n.º 680/2014.
+– Ni reestructuradas o refinanciadas ni renegociadas: operación que no ha sido renegociada ni a la que se aplican medidas de reestructuración o refinanciación conforme al Reglamento de Ejecución (UE) n.º 680/2014. Esta dimensión se debe indicar para todas las operaciones, aunque no estén reconocidas en el balance.
 
-Esta dimensión se debe informar para todas las operaciones, aunque no estén reconocidas en el balance.
+Para las operaciones reconocidas en el balance, el valor que se ha de declarar se corresponderá con el que se tenga que indicar en los estados contables en la fecha de referencia, y para las operaciones no reconocidas en el balance, el que les hubiese correspondido de estar reconocidas. Las operaciones que hubiesen sido reestructuradas o refinanciadas, cuando ya no proceda identificarlas como tales en los estados contables, se reclasificarán como «Ni reestructuradas o refinanciadas ni renegociadas».
 
-Para las operaciones reconocidas en el balance, el valor que se ha de declarar se corresponderá con el que se tenga que informar en los estados contables a la fecha de referencia, y para las operaciones no reconocidas en el balance, el que les hubiese correspondido de estar reconocidas.
+Las operaciones cuyo valor sea «Operación renegociada sin medidas de reestructuración o refinanciación» se mantendrán con este valor salvo que cumplan los requisitos para clasificarse como «Reestructuradas o refinanciadas», en ese caso, se aplicará el criterio señalado en el párrafo anterior.
 
-Las operaciones que hubiesen sido reestructuradas o refinanciadas, cuando ya no proceda identificarlas como tales en los estados contables, se reclasificarán como «Ni reestructuradas o refinanciadas ni renegociadas».
+## Fecha del estado de reestructuración o refinanciación y renegociación.
 
-Las operaciones cuyo valor sea «Operación renegociada sin medidas de reestructuración o refinanciación» se mantendrán con este valor salvo que cumplan los requisitos para clasificarse como «Reestructuradas o refinanciadas», en cuyo caso se aplicará el criterio señalado en el párrafo anterior.
+Fecha en la que se produjo la situación de reestructuración o refinanciación y renegociación declarada en «Estado de reestructuración o refinanciación y renegociación».
 
-Fecha del estado de reestructuración o refinanciación y renegociación
+Las operaciones que, habiendo estado en situación de restructuradas o refinanciadas, pasan a estar en situación de «Ni reestructuradas o refinanciadas ni renegociadas», se declararán en la fecha en la que la operación fue reclasificada a la nueva situación.
 
-Fecha en que se produjo la situación de reestructuración o refinanciación y renegociación declarado en «Estado de reestructuración o refinanciación y renegociación».
-
-Las operaciones que habiendo estado en situación de restructuradas o refinanciadas pasan a estar en situación de «Ni reestructuradas o refinanciadas ni renegociadas» se declararán en la fecha en la que la operación fue reclasificada a la nueva situación.
-
-En caso de que la operación no haya sido reestructurada, refinanciada o renegociada en ningún momento desde su formalización o emisión, se declarará la «fecha de formalización o emisión» informada en el módulo B.2, Datos básicos de las operaciones.
+En caso de que la operación no haya sido reestructurada, refinanciada o renegociada en ningún momento desde su formalización o emisión se declarará la «fecha de formalización o emisión» indicada en el módulo B.2, Datos básicos de las operaciones.
 
 Formato: AAAAMMDD.
 
-Importes recuperados acumulados desde la situación de impago
+## Importes recuperados acumulados desde la situación de impago.
 
-Importe total recuperado desde la fecha en que la operación o su titular entraron por última vez en alguna situación de impago distinta de «sin situación de impago» hasta que vuelva a ser declarado «sin situación de impago».
+Importe total recuperado desde la fecha en que la operación o su titular entraron por última vez en alguna situación de impago distinta de «Sin situación de impago» hasta que vuelva a ser declarado «Sin situación de impago».
 
 Con el fin de recoger la totalidad de los importes recuperados, este atributo también se declarará, conforme al párrafo anterior, en el trimestre en que cambia de alguna situación de impago a «sin situación de impago».
 
-En caso de que la operación siempre haya sido declarada desde su formalización o emisión «sin situación de impago» en la dimensión «Situación de impago» del módulo C.3, Datos financieros de los préstamos a personas jurídicas, y/o el deudor de la operación haya sido declarado siempre por la entidad «sin situación de impago» en la dimensión «Situación de impago» del módulo H.3, Datos sobre la situación de impago (default) de los titulares de préstamos que sean personas jurídicas que sean contrapartes en préstamos, se declarará «No aplicable».
+En caso de que la operación haya sido declarada siempre desde su formalización o emisión «Sin situación de impago» en la dimensión «Situación de impago» del módulo C.3, Datos financieros de los préstamos a personas jurídicas, y/o el deudor de la operación haya sido declarado siempre por la entidad «Sin situación de impago» en la dimensión «Situación de impago» del módulo H.3, Datos sobre la situación de impago de los titulares de préstamos que sean personas jurídicas y contrapartes en préstamos, se declarará «No aplicable».
 
-Cartera prudencial
+## Cartera prudencial.
 
 Clasificación de las exposiciones pertenecientes a la cartera de negociación conforme al artículo 4, apartado 1, punto 86, del Reglamento (UE) n.º 575/2013.
 
@@ -4948,21 +4828,23 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Cartera de inversión: operaciones no pertenecientes a la cartera de negociación conforme al artículo 4, apartado 1, punto 86, del Reglamento (UE) n.º 575/2013.
 
-– El valor «No aplicable» se declarará para las operaciones no reconocidas en el balance de la entidad.
+– El valor «No aplicable» se asignará a las operaciones no reconocidas en el balance de la entidad.
 
-Importe en libros
+## Importe en libros.
 
-Importe en libros por el que está registrada la operación en el balance de la entidad declarante a la fecha de referencia.
+Importe en libros por el que está registrada la operación en el balance de la entidad declarante en la fecha de referencia.
+
+En las operaciones de arrendamiento financiero también se incluye el valor residual comprometido por terceros y el no garantizado.
 
 Las operaciones no reconocidas en el balance de la entidad se declararán con el valor «No aplicable».
 
 ## H.2 Datos sobre el riesgo de los titulares de los préstamos que sean personas jurídicas
 
-Código de la persona
+## Código de la persona.
 
 Código asignado a la persona en el módulo A.1.
 
-Probabilidad de impago (default)
+## Probabilidad de impago (default).
 
 Probabilidad de impago de los titulares de riesgo durante un año determinada conforme a los artículos 160, 163, 179 y 180 del Reglamento (UE) n.º 575/2013.
 
@@ -4970,13 +4852,13 @@ Formato: porcentaje con cuatro decimales.
 
 ## H.3 Datos sobre la situación de impago (default) de los titulares de riesgo de los préstamos que sean personas jurídicas
 
-Código de la persona
+## Código de la persona.
 
 Código asignado a los titulares de riesgo en el módulo A.1.
 
-Situación de impago (default) de la persona
+## Situación de impago (default) de la persona.
 
-Situación de impago de los titulares de riesgo a la fecha de referencia conforme al artículo 178 del Reglamento (UE) n.º 575/2013.
+Situación de impago de los titulares de riesgo en la fecha de referencia conforme al artículo 178 del Reglamento (UE) n.º 575/2013.
 
 – Sin situación de impago.
 
@@ -4996,11 +4878,237 @@ La asignación de los valores anteriores se realizará utilizando los siguientes
 
 – Situación de impago por improbabilidad de pago y por mora superior a 90 días: los titulares de riesgo que están en situación de impago simultáneamente por improbabilidad de pago y por mora superior a 90 días conforme al Reglamento (UE) n.º 575/2013.
 
-Fecha de la situación de impago (default) de la persona
+## Fecha de la situación de impago (default) de la persona.
 
 Fecha en que se considera que ha ocurrido la situación de impago (default) declarada en la dimensión «Situación de impago de la persona».
 
 Formato: AAAAMMDD.
+
+I. DATOS SOBRE LA ACTIVIDAD DE LAS ENTIDADES DE CRÉDITO QUE OPEREN EN RÉGIMEN DE LIBRE PRESTACIÓN DE SERVICIOS Y DE LOS PRESTAMISTAS INMOBILIARIOS
+
+Parte 1. Datos de los riesgos directos e indirectos
+
+## Código de la operación
+
+Código con el que se identifica la operación. Para su cumplimentación se utilizarán los criterios establecidos en la dimensión «Código de la operación» del módulo B.2, Datos básicos de las operaciones, excepto en lo relativo a las operaciones con titulares mancomunados.
+
+## Código del titular de riesgo.
+
+Código del titular de riesgo que interviene en la operación declarado en el módulo A.1, Datos que identifican a las personas.
+
+## Naturaleza de la intervención en la operación.
+
+Naturaleza con la que interviene el titular en la operación:
+
+– Titular de riesgo directo único.
+
+– Titular de riesgo directo solidario.
+
+– Titular de riesgo directo mancomunado.
+
+– Garante solidario.
+
+– Garante no solidario.
+
+– Compromiso de firma en efectos.
+
+La asignación de los valores anteriores se realizará utilizando los siguientes criterios:
+
+– Titular de riesgo directo (único, solidario o mancomunado): titulares de operaciones que sean prestatarios, avalados o contrapartes directas de la entidad declarante o emisores de valores propiedad de esta. Se indicará que el titular es único cuando la operación tenga un solo titular; que es solidario cuando la operación tenga dos o más titulares que respondan solidariamente de la totalidad del riesgo, y que es mancomunado cuando la operación tenga dos o más titulares que respondan mancomunadamente del riesgo.
+
+– Garante (solidario o no solidario): personas físicas o jurídicas que sean titulares de riesgos indirectos porque hayan avalado, afianzado o contraavalado la operación en el propio contrato garantizado, salvo que la operación consista en efectos financieros o comerciales, o en otros contratos, siempre que, en este último caso, la garantía la paguen directamente a los garantes los titulares de los riesgos directos, o la entidad declarante la haya contratado con conocimiento de dichos titulares (por ejemplo, todas las garantías recibidas de sociedades de garantía recíproca, CESCE u otras empresas públicas cuya actividad principal sea el aseguramiento o aval de crédito, con independencia de cómo se instrumenten). Se indicará que el garante es solidario cuando avale solidariamente con otra u otras personas la totalidad o parte del riesgo, y no solidario cuando responda de forma individual de todo o parte del riesgo. Una misma operación puede tener simultáneamente varios garantes no solidarios e incluso garantes que sean solidarios entre sí.
+
+– Compromiso de firma en efectos: titulares de riesgo indirecto que hayan comprometido su firma en los efectos financieros o comerciales en los que se instrumente la operación.
+
+## Tipo de producto.
+
+Tipo básico de producto al que pertenece la operación:
+
+– Crédito comercial con recurso.
+
+– Crédito comercial sin recurso.
+
+– Crédito financiero.
+
+– Arrendamiento financiero para el arrendatario.
+
+– Préstamos de recompra inversa.
+
+– Valor representativo de deuda.
+
+– Aval financiero.
+
+– Depósitos a futuro.
+
+– Avales y cauciones no financieros prestados.
+
+– Créditos documentarios irrevocables.
+
+– Disponible en otros compromisos.
+
+– Valores prestados.
+
+Para su cumplimentación se utilizarán los criterios establecidos para conceptos equivalentes en la dimensión «Tipo de producto» del módulo B.2, Datos básicos de las operaciones.
+
+## Moneda.
+
+Moneda en la que está denominada la operación:
+
+– Euro.
+
+– Libra esterlina.
+
+– Corona sueca.
+
+– Corona danesa.
+
+– Corona noruega.
+
+– Dólar USA.
+
+– Dólar canadiense.
+
+– Yen.
+
+– Franco suizo.
+
+– Otras.
+
+## Plazo residual.
+
+Plazo entre la fecha a la que se refiere la declaración y la de vencimiento de la operación:
+
+– Hasta tres meses.
+
+– Más de tres meses y hasta un año.
+
+– Más de un año y hasta cinco años.
+
+– Más de cinco años.
+
+– Vencimiento indeterminado.
+
+Para su cumplimentación se utilizarán los criterios establecidos para conceptos equivalentes en la dimensión «Plazo residual» del módulo C.1, Datos dinámicos de los riesgos directos.
+
+## Garantía real principal. Tipo de garantía real principal.
+
+Tipo de garantía real que cubre las operaciones:
+
+– Sin garantía real.
+
+– Hipoteca inmobiliaria.
+
+– Garantía pignoraticia (activos financieros).
+
+– Resto de las garantías reales.
+
+Para su cumplimentación se utilizarán los criterios establecidos para conceptos equivalentes en la dimensión «Garantía real principal. Tipo de garantía real principal» del módulo C.1, Datos dinámicos de los riesgos directos.
+
+## Garantía real principal. Cobertura de la garantía real principal
+
+Para el tipo de garantía de la dimensión «Tipo de garantía real principal», indica si la cobertura es:
+
+– Total.
+
+– Parcial.
+
+– No aplicable.
+
+Para su cumplimentación se utilizarán los criterios establecidos en la dimensión «Garantía real principal. Cobertura de la garantía real principal» del módulo C.1, Datos dinámicos de los riesgos directos.
+
+## Garantía personal principal. Tipo de garantía personal principal
+
+Tipo de garantía personal, adicional a la de los titulares del riesgo directo, con la que cuente la operación facilitada por garantes o comprometida en los efectos en los que se instrumente la operación:
+
+– Sin garantía personal o con garantía sin conocimiento del titular.
+
+– Garantía de Administraciones Públicas.
+
+– Garantía de CESCE o empresas públicas cuya actividad principal sea el aseguramiento o aval de crédito.
+
+– Garantía de entidad declarante a la CIR.
+
+– Resto de las garantías personales.
+
+Para su cumplimentación se utilizarán los criterios establecidos para conceptos equivalentes en la dimensión «Garantía personal principal. Tipo de garantía personal principal» del módulo C.1, Datos dinámicos de los riesgos directos.
+
+## Garantía personal principal. Cobertura de la garantía personal principal
+
+Para el tipo de garantía de la dimensión «Tipo de garantía personal principal», indica si la cobertura es:
+
+– Total.
+
+– Parcial.
+
+– No aplicable.
+
+Para su cumplimentación se utilizarán los criterios establecidos en la dimensión «Cobertura de la garantía personal principal» del módulo C.1, Datos dinámicos de los riesgos directos.
+
+## Situación de la operación.
+
+Situación que corresponde a los importes que se indican:
+
+– Operación en suspenso.
+
+– Operaciones con incumplimientos de más de cuatro años.
+
+– Operaciones con incumplimientos de entre más de 90 días y cuatro años.
+
+– Operación incluida en un convenio de acreedores.
+
+– Operación reestructurada o reunificada al amparo del Real Decreto-ley 6/2012.
+
+– Operación de refinanciación, refinanciada o reestructurada fuera del Real Decreto-ley 6/2012.
+
+– Resto de las situaciones.
+
+Para su cumplimentación se utilizarán los criterios establecidos para conceptos equivalentes en la dimensión «Situación de la operación» del módulo C.1, Datos dinámicos de los riesgos directos.
+
+Parte 2. Datos de los riesgos directos
+
+Para la cumplimentación de las dimensiones siguientes se utilizarán los criterios establecidos para conceptos equivalentes en el módulo C.1, Datos dinámicos de los riesgos directos.
+
+## Riesgo dispuesto.
+
+## Total.
+
+Importe del riesgo correspondiente a principal vencido o no, intereses y comisiones vencidos, intereses de demora y gastos exigibles pendientes de cobro.
+
+## Del que: Importes vencidos.
+
+Importe del riesgo correspondiente a principal vencido, intereses y comisiones vencidos, intereses de demora y gastos exigibles pendientes de cobro cuando la fecha del primer incumplimiento de la operación tenga una antigüedad de más de 90 días.
+
+## Del que: Intereses de demora y gastos exigibles.
+
+Importe del riesgo correspondiente a intereses de demora y gastos exigibles pendientes de cobro cuando la fecha del primer incumplimiento de la operación tenga una antigüedad de más de 90 días.
+
+## Riesgo disponible.
+
+Importe del riesgo disponible, tanto con disponibilidad inmediata como condicionada.
+
+Parte 3. Datos de los riesgos indirectos
+
+Para la cumplimentación de las dimensiones siguientes se utilizarán los criterios establecidos para conceptos equivalentes en el módulo C.2, Datos dinámicos de los riesgos indirectos.
+
+## Riesgo dispuesto.
+
+## Total.
+
+Importe total del riesgo dispuesto garantizado.
+
+## Del que: Importes vencidos.
+
+Importe del riesgo dispuesto garantizado vencido cuando la fecha del primer incumplimiento de la operación tenga una antigüedad de más de 90 días.
+
+## Del que: Intereses de demora y gastos exigibles.
+
+Importe del riesgo dispuesto garantizado correspondiente a intereses de demora y gastos pendientes de cobro cuando la fecha del primer incumplimiento de la operación tenga una antigüedad de más de 90 días.
+
+## Riesgo disponible.
+
+Importe del riesgo disponible, tanto con disponibilidad inmediata como condicionada, garantizado.
+
+> Se sustituye por el que se incluye como Anejo 2 según establece la norma única.k) de la Circular 1/2020, de 28 de enero. Ref. BOE-A-2020-1653
 
 > Se modifica por la norma 2.h) de la Circular de 21 de diciembre de 2018. Ref. BOE-A-2018-17880
 
