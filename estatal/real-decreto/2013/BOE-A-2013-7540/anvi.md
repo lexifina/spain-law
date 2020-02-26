@@ -84,13 +84,13 @@
 | Tipo de determinación | Ámbito de aplicación/Producto fertilizante concernido | Normativa oficial española | Métodos o técnicas recomendados |
 | --- | --- | --- | --- |
 | Método de toma de muestras de fertilizantes sólidos orgánicos y afines. |  | Anexo III Orden de 13 de mayo de 1982. |  |
-| Preparación de la muestra. |  | Método 1 Orden 17 de septiembre de 1981 (BOE de 14 de octubre de 1981). |  |
-| Humedad. | Fertilizantes sólidos y enmiendas calizas. | Método 2 Orden 17 de septiembre de 1981 (BOE de 14 de octubre de 1981). |  |
+| Preparación de la muestra. |  | Método 2 Orden de 18 de julio de 1989 por la que se aprueban los métodos oficiales de análisis de fertilizantes (BOE de 25 de julio de 1989). |  |
+| Humedad. | Fertilizantes sólidos y enmiendas calizas. | Anexo VIII. Método 2 Orden 17 de septiembre de 1981 (BOE de 14 de octubre de 1981). |  |
 | Materia orgánica total por calcinación Sobre muestra natural*. | Aplicable a abonos organominerales con el lavado previo con ácido clorhídrico. Abonos orgánicos y enmiendas orgánicas sin el lavado previo con ácido clorhídrico. Los productos líquidos no se lavan. | Método 3(a) Orden 1 de diciembre de 1981 (BOE de 20 de enero de 1982 Referencia: Norma U44-160) AFNOR 1976. |  |
 | Extracto húmico total y ácidos húmicos. Sobre muestra natural*. |  | Método 4 R.D. 1110/1991 (BOE n.º 170 de 17 de julio de 1991). |  |
 | Cenizas. |  | Método 5 Orden 17 de septiembre de 1981 (BOE de 14 de octubre de 1981). |  |
 | Carbono orgánico. |  |  | Método materia orgánica total por calcinación/1,724. |
-| pH. |  | Método 6 Orden 1 de diciembre de 1981 (BOE de 20 de enero de 1982) . |  |
+| pH. | En los productos líquidos se aplicará el método oficial con la siguiente modificación: La medida del pH será directa, sin efectuar una dilución previa de la muestra. | Método 6 Orden 1 de diciembre de 1981 (BOE de 20 de enero de 1982). |  |
 | Grado de finura. |  | Método 7 R.D. 1110/1991 (BOE n.º 170 de 17 de julio de 1991). |  |
 | Nitrógeno total. |  | Método 2.6.1 Anexo IV Reglamento (CE) n.º 2003/2003. UNE-EN 15604. |  |
 | Nitrógeno ureico (amídico). |  | Método 2.6.1 Anexo IV Reglamento (CE) n.º 2003/2003 UNE-EN 15604. |  |
@@ -122,7 +122,7 @@
 | Plomo. |  |  | UNE-EN 13650. |
 | Zinc. |  |  | UNE-EN 13650. |
 | Escherichia coli. |  |  | ISO-7251. |
-| Salmonella. |  |  | UNE-EN-ISO 6579:2003/A1:2007. |
+| Salmonella. |  |  | UNE-EN-ISO 6579 |
 | Contenido en polifenoles expresados en Ac. cumárico. | Enmiendas orgánicas a base de alperujos. |  | Kuwatsuka y Shindo. |
 
 • Las determinaciones de Materia orgánica por calcinación (3a) y Extracto húmico total y Ácidos húmicos (4) se expresan sobre muestra natural, hay que modificar el método analítico no se desecando la muestra previamente.
@@ -135,12 +135,13 @@
 | Contenido de micronutrientes quelados y agentes quelantes por cromatografía EDTA, HEDTA y DTPA:. | Abonos con micronutrientes, Ca y Mg. | Método 11.2 Anexo IV Reglamento (CE) n.º 2003/2003 EN 13368-1. |  |
 | Contenido de hierro quelado y agentes quelantes por cromatografía: (o–o) EDDHA, (o–o) EDDHMA y HBED. | Abonos con hierro. | Método 11.3 Anexo IV Reglamento (CE) n.º 2003/2003 EN 13368-2. |  |
 | Contenido de hierro quelado y agente quelante (o-p) EDDHA. | Abonos con hierro. | Método 11.5 Anexo IV Reglamento (CE) n.º 2003/2003 EN 15452. |  |
+| Determinación del agente quelante ácido 2-Hidroxi-α-[(2-hidriexietil) amino]-fenilacético orto-MEAHA | Abonos con hierro. |  | HPLC/UV |
 | Contenido de hierro quelado y agente quelante EDDHSA y sus productos de condensación. | Abonos con hierro. | Método 11.4 Anexo IV Reglamento (CE) n.º 2003/2003 EN 15451. |  |
 | Fracción complejada de micronutrientes. | Abonos con micronutrientes. | Método 1 1.8 Anexo IV Reglamento (CE) n.º 2003/2003 UNE-EN 15962. |  |
 | Fracción complejada de secundarios. | Abonos con Ca y Mg. |  | Met 8.3 Anexo IV Re (CE) 2003/2003 menos fracción iónica. |
 | Contenido de nutrientes complejados y agente complejante Ac. Lignosulfónico. | Abonos con micronutrientes, Ca y Mg. | Método1 1.7 Anexo IV Reglamento (CE) n.º 2003/2003 Norma EN 16109. |  |
 | Contenido de nutrientes complejados y agente complejante Ac. Glucónico. | Abonos con micronutrientes, Ca y Mg. |  | MA-F-AS313-17 Recueil Internacional des Méthodes D´Analyses OIV. |
-| Contenido de nutrientes complejados y agente complejante Ac. Heptaglucónico. | Abonos con micronutrientes, Ca y Mg. |  | MA-F-AS313-17 Recueil Internacional des Méthodes D´Analyses OIV. |
+| Contenido de nutrientes complejados y agente complejante Ac. Heptaglucónico. | Abonos con micronutrientes, Ca y Mg. |  | UNE-EN 16847 |
 | Contenido de micronutrientes complejados y agentes complejantes Ácidos húmicos. | Abonos con Fe, Cu y Zn. | Método 4 R.D. 1110/1991 (BOE n.º 170 de 17 de julio de 1991). |  |
 | Contenido de micronutrientes complejados y agentes complejantes Aminoácidos libres. | Abonos con Cu y Zn. | Método 18 R.D.110/1991 (BOE n.º170 de 17 de julio de 1991). |  |
 | Contenido de nutrientes complejados y agente complejante Ac. Cítrico. | Abonos con Fe y Ca. |  | MA-F-AS313-17 Recueil Internacional des Méthodes D´Analyses OIV. |
@@ -165,6 +166,10 @@
 | Porosidad total. | Enmiendas silíceas. |  | Norma UNE-EN 13041. |
 | Volumen de agua. | Enmiendas silíceas. |  | Norma UNE-EN 13041. |
 | Volumen de aire. | Enmiendas silíceas. |  | Norma UNE-EN 13041. |
+| Determinación del inhibidor de la nitrificación Mezcla isomérica de ácido 2-(3,4-dimetilpirazol-1-il)-succínico y ácido 2-(4,5-dimetilpirazol-1il) succínico (DMPSA) | Abonos con N en forma nitrificable |  | EN 17090 |
+| Contenido en Lipo-Quito-oligosacáridos (LCO) SP-104 | Abono a base de Lipo-Quito-oligosacáridos (LCO) SP-104 |  | HPLC/UV |
+
+> Se modifica por el art. único.21 a 27 de la Orden APA/161/2020, de 20 de febrero. Ref. BOE-A-2020-2612
 
 > Se sustituye por el art. único.12 y Anexo II del Real Decreto 999/2017, de 24 de noviembre. Ref. BOE-A-2017-14332
 

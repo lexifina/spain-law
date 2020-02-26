@@ -121,7 +121,7 @@ Un 0,4% en valor absoluto, para los contenidos en micronutrientes superiores al 
 
 2/3.e. Otras características específicas.
 
-– Carbono orgánico y relación C/N: 15% del valor declarado con un máximo del 2% en valor absoluto.
+– Carbono orgánico: 15 % del valor declarado con un máximo del 2 % en valor absoluto. Relación C/N: 20 % del valor declarado con un máximo del 2 % en valor absoluto.
 
 – Ácidos húmicos: 15% del valor declarado con un máximo del 2% en valor absoluto.
 
@@ -167,7 +167,7 @@ Para cada uno de los aminoácidos libres declarados en el aminograma: 25% del va
 
 Ácidos húmicos: 15% del valor declarado, con un máximo el 2% en valor absoluto.
 
-Ácidos fúlvicos: 15% del valor declarado, con un máximo el 2% en valor absoluto.
+Ácidos fúlvicos: 20% del valor declarado, con un máximo el 2% en valor absoluto.
 
 Extracto húmico total.15% del valor declarado, con un máximo del 3% en valor absoluto.
 
@@ -250,6 +250,8 @@ Cuando existan diferentes formas de nitrógeno o distintas solubilidades del pen
 Conductividad eléctrica: ± 4,0 dS/m (± 4.000,0 µs/cm).
 
 pH: ± 1,0 salvo en los productos clasificados como peligrosos, en los que no se admitirá tolerancia alguna.
+
+> Se modifican los apartados 2 y 4 por el art. único.19 y 20 de la Orden APA/161/2020, de 20 de febrero. Ref. BOE-A-2020-2612
 
 > Se modifica el apartado 4 por el art. único.11 del Real Decreto 999/2017, de 24 de noviembre. Ref. BOE-A-2017-14332
 
