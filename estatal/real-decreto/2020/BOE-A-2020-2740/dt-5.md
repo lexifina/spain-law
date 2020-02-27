@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Régimen transitorio de estructura y funciones de la Secretaría General de Universidades.
+
+Hasta tanto se apruebe el real decreto que desarrolle la estructura orgánica básica del Ministerio de Universidades, la estructura y funciones de la Secretaría General de Universidades se regirán por las previsiones correspondientes del Real Decreto 865/2018, de 13 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Ciencia, Innovación y Universidades, sin perjuicio de lo previsto en las disposiciones adicionales y transitorias de este real decreto.
