@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Desempeño transitorio de funciones por la CNMC en materia de telecomunicaciones.
+
+Hasta que no se produzca la integración de personal y medios prevista en la disposición adicional primera de este real decreto y por orden de la persona titular del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática, se determine la fecha de ejercicio efectivo por el Ministerio de Asuntos Económicos y Transformación Digital de las funciones en materia de telecomunicaciones a que se hace referencia en la misma disposición, de acuerdo con la disposición transitoria décima de la Ley 9/2014, de 9 de mayo, tales funciones seguirán siendo desempeñadas por la CNMC.
