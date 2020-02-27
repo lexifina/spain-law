@@ -2,4 +2,8 @@
 
 Lo dispuesto en la presente Ley se entiende sin perjuicio de la regulación específica del sector lácteo contenida en el Real Decreto 1363/2012, de 28 de septiembre, por el que se regula el reconocimiento de las organizaciones de productores de leche y de las organizaciones interprofesionales en el sector lácteo y se establecen sus condiciones de contratación, o demás disposiciones que el Estado, previa justificación de su necesidad y proporcionalidad y siempre que no obstaculicen el correcto funcionamiento del mercado interior, pueda dictar al amparo de los artículos 148 y 149, o de la sección 5.ª del Capítulo III del Título II de la Parte II, del Reglamento 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se crea la organización común de mercados de los productos agrarios y por el que se derogan los Reglamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 y (CE) n.º 1234/2007, las cuales prevalecerán en caso de conflicto con esta Ley.
 
+En todo caso, serán de aplicación a tal sector las exigencias previstas en el artículo 9.1 c) y j) y en el artículo 12 ter de esta ley.
+
+> Se añade un párrafo por el art. 1.7 del Real Decreto-ley 5/2020, de 25 de febrero. Ref. BOE-A-2020-2669#ap
+
 > Se añade por la disposición final 1 de la Ley 12/2014, de 9 de julio. Ref. BOE-A-2014-7286.

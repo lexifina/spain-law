@@ -1,0 +1,17 @@
+## Artículo cuarto. Conversión de contratos eventuales de trabajadores agrarios en contratos indefinidos o contratos fijos-discontinuos.
+
+1. Las empresas que ocupen a trabajadores encuadrados en el Sistema Especial para Trabajadores por Cuenta Ajena Agrarios establecido en el Régimen General de la Seguridad Social que transformen, antes del 1 de enero de 2021, los contratos de trabajo de duración temporal suscritos con esos trabajadores, cualquiera que sea la fecha de su celebración, en contratos de duración indefinida, incluidos los contratos fijos-discontinuos, tendrán derecho a las siguientes bonificaciones en la cuota empresarial por contingencias comunes a la Seguridad Social, durante los dos años siguientes a la transformación del contrato:
+
+a) Si el contrato se refiere a trabajadores encuadrados en el grupo 1 de cotización, con cotización por bases mensuales, y que tengan una base de cotización mensual inferior a 1.800 euros, la bonificación será de 40 euros/mes (480 euros/año). En el caso de trabajadoras, dichas bonificaciones serán de 53,33 euros/mes (640 euros/año).
+
+b) Si el contrato se refiere a trabajadores encuadrados en el grupo 1 de cotización, que coticen por jornadas reales trabajadas y cuya base de cotización diaria sea inferior a 81 euros, la bonificación será de 2 euros/día. En el caso de trabajadoras, las bonificaciones serán de 2,66 euros/día.
+
+c) Si el contrato se refiere a trabajadores encuadrados en alguno de los grupos de cotización entre el 2 y el 11, que tengan una base de cotización mensual inferior a 1.800 euros o una base diaria inferior a 81,82 euros, la bonificación se corresponderá con la cuantía necesaria para que la cuota resultante por contingencias comunes no supere 94,63 euros/mes, o 4,30 euros por jornada real trabajada. En el caso de trabajadoras, la bonificación se corresponderá con la cuantía necesaria para que la cuota resultante por contingencias comunes no supere 63,09 euros/mes, o 2,87 euros por jornada real trabajada.
+
+2. Las bonificaciones previstas en el apartado 1 no serán de aplicación durante las situaciones de incapacidad temporal, riesgo durante el embarazo y riesgo durante la lactancia natural, así como de nacimiento y cuidado del menor causadas durante la situación de actividad a que se refiere el artículo 5.7 del Real Decreto-ley 28/2018, de 28 de diciembre, en la redacción dada por el artículo 5 del Real Decreto-ley 8/2019, de 8 de marzo, de medidas urgentes de protección social y de lucha contra la precariedad laboral en la jornada de trabajo.
+
+3. Para la aplicación de este incentivo la empresa deberá mantener en el empleo al trabajador contratado al menos tres años desde la fecha de transformación del contrato. En caso de incumplimiento de esta obligación se deberá proceder al reintegro del incentivo.
+
+No se considerará incumplida la obligación de mantenimiento del empleo anterior cuando el contrato de trabajo se extinga por causas objetivas o por despido disciplinario cuando uno u otro sea declarado o reconocido como procedente, ni las extinciones causadas por dimisión, muerte, jubilación o incapacidad permanente total, absoluta o gran invalidez de los trabajadores.
+
+4. En lo no establecido en esta disposición serán de aplicación las previsiones contenidas en la sección I del capítulo I de la Ley 43/2006, de 29 de diciembre, para la mejora del crecimiento y del empleo, salvo lo establecido en su artículo 2.7.

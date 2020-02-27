@@ -2,6 +2,10 @@
 
 Para completar el número mínimo de treinta y cinco jornadas reales cotizadas, establecido en el párrafo c) del apartado 1 del artículo 2 de este Real Decreto, podrán computarse, en el caso de los trabajadores mayores de treinta y cinco años, o menores de dicha edad si tienen responsabilidades familiares, las cotizaciones efectuadas al Régimen General de la Seguridad Social durante los doce meses inmediatamente anteriores a la situación de desempleo con ocasión del trabajo prestado en obras afectadas al Acuerdo para el Empleo y la Protección Social Agrarios, siempre que se hayan cotizado, al menos, veinte jornadas reales al Régimen Especial Agrario, si se ha sido perceptor del subsidio en el año inmediatamente anterior o siempre que se hayan cotizado, al menos, treinta jornadas reales al Régimen Especial Agrario, si no se ha sido perceptor del subsidio en el año inmediatamente anterior.
 
+> Véase el art. 3 del Real Decreto-ley 5/2020, de 25 de febrero Ref. BOE-A-2020-2669#at, en cuanto a la reducción del número mínimo de jornadas reales cotizadas para acceder al subsidio por desempleo a favor de los trabajadores eventuales agrarios residentes en el territorio de las Comunidades Autónomas de Andalucía y Extremadura, para las solicitudes presentadas desde el 27 de febrero hasta el 31 de diciembre de 2020, inclusive, según establece su disposición final 2.
+
+> Véase el art. 3 del Real Decreto-ley 5/2020, de 25 de febrero Ref. BOE-A-2020-2669#at, en cuanto a la reducción del número mínimo de jornadas reales cotizadas para acceder al subsidio por desempleo a favor de los trabajadores eventuales agrarios residentes en el territorio de las Comunidades Autónomas de Andalucía y Extremadura, para las solicitudes presentadas desde el 27 de febrero hasta el 31 de diciembre de 2020, inclusive, según establece su disposición final 2.
+
 > Véase, en cuanto a la aplicación, el art. único del Real Decreto 2389/2004, de 30 de diciembre. Ref. BOE-A-2004-21910.
 
 > Se prorroga la vigencia de lo dispuesto desde el 1 de enero hasta el 31 de diciembre de 2004, por el art. único del Real Decreto 1794/2003, de 26 de diciembre. Ref. BOE-A-2003-23942.
