@@ -1,6 +1,6 @@
 ## Artículo 454 bis. Recurso de revisión.
 
-1. Contra el decreto resolutivo de la reposición no se dará recurso alguno, sin perjuicio de reproducir la cuestión, necesariamente, en la primera audiencia ante el tribunal tras la toma de la decisión y, si no fuera posible por el estado de los autos, se podrá solicitar mediante escrito antes de que se dicte la resolución definitiva para que se solvente en ella.
+1. (Anulado).
 
 Cabrá recurso directo de revisión contra los decretos por los que se ponga fin al procedimiento o impidan su continuación. Dicho recurso carecerá de efectos suspensivos sin que, en ningún caso, proceda actuar en sentido contrario a lo que se hubiese resuelto.
 
@@ -15,6 +15,8 @@ Transcurrido el plazo para impugnación, háyanse presentado o no escritos, el T
 Contra las resoluciones sobre admisión o inadmisión no cabrá recurso alguno.
 
 3. Contra el auto dictado resolviendo el recurso de revisión sólo cabrá recurso de apelación cuando ponga fin al procedimiento o impida su continuación.
+
+> Se declara la inconstitucionalidad y nulidad del apartado 1, párrafo primero, en la redacción dada por el art. 4.9 de la Ley 37/2011, de 10 de octubre. Ref. BOE-A-2011-15937, por Sentencia del TC 15/2020, de 28 de enero. Ref. BOE-A-2020-2942
 
 > Se modifican las referencias a "Secretarios judiciales" por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
