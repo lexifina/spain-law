@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Prestación de servicios.
+
+1. La Subsecretaría del Ministerio de Ciencia e Innovación continuará prestando los servicios comunes al Ministerio de Universidades en tanto no se establezca la distribución de efectivos y se definan, en su caso, los términos en que se prestarán los servicios comunes de ambos ministerios.
+
+2. Por parte del Ministerio de Ciencia e Innovación y del Ministerio de Educación y Formación Profesional se seguirán prestando los servicios, que cada ministerio efectuaba hasta este momento para el ámbito de universidades, relativos a administración digital, tecnologías de la Información y comunicaciones, y servicios informáticos que resulten necesarios para mantener el funcionamiento ordinario del Ministerio de Universidades, en los términos que se definan, en su caso, con cada uno de los anteriores ministerios, en tanto se pongan en funcionamiento las unidades y servicios correspondientes a estas áreas del Ministerio de Universidades.
