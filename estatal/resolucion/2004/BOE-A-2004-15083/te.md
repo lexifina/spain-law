@@ -1,6 +1,8 @@
 ## Tercera. Reintegro de prestaciones indebidamente percibidas.
 
-Serán competentes para resolver las solicitudes relativas al establecimiento de plazos reglamentarios para el reintegro de prestaciones indebidamente percibidas, distintos del contemplado con carácter general en la correspondiente reclamación de deuda, hasta un máximo de 60 meses, las direcciones provinciales de la Tesorería General de la Seguridad Social.
+Serán competentes para resolver las solicitudes relativas al establecimiento de plazos reglamentarios para el reintegro de prestaciones indebidamente percibidas, distintos del contemplado con carácter general en la correspondiente reclamación de deuda, hasta un máximo de 60 meses, las direcciones de administración de las Direcciones Provinciales de la Tesorería General de la Seguridad Social.
+
+> Se modifica por el apartado 1 de la Resolución de 21 de febrero de 2020. Ref. BOE-A-2020-3075
 
 > Se modifica por el apartado 1 de la Resolución de 13 de mayo de 2015. Ref. BOE-A-2015-6994
 
