@@ -1,3 +1,5 @@
 ## Disposición final segunda. Régimen aplicable a los trabajos de colaboración social en el ámbito de las Administraciones Públicas.
 
 Los perceptores de prestaciones por desempleo que hubieran iniciado la realización de trabajos de colaboración social en las Administraciones Públicas con anterioridad al 27 de diciembre de 2013, en virtud de lo previsto en el apartado 3 del artículo 213 del Texto Refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, y que continúen desarrollando dicha actividad a la entrada en vigor del presente Real Decreto-ley, podrán seguir desarrollando dicha colaboración hasta la finalización de la percepción de sus prestaciones, con sujeción a dicho régimen legal, cualesquiera que sean las actividades que desarrollen para la Administración correspondiente.
+
+> Véase la Sentencia del TS de 31 de enero de 2020 por la que se fija doctrina jurisprudencial sobre determinados contratos de colaboración social celebrados antes del 27 de diciembre de 2013 y vigentes a 31 de diciembre de 2014 y su validez cualquiera que sea la actividad normal o permanente. Ref. BOE-A-2020-3170
