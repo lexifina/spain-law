@@ -1,3 +1,0 @@
-## Disposición final quinta. Modificaciones presupuestarias.
-
-Para el cumplimiento de lo previsto en este real decreto se realizarán las modificaciones presupuestarias que se precisen de acuerdo con lo dispuesto en la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
