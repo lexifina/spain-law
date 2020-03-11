@@ -403,4 +403,6 @@ La inclusión de una instalación de conexión de transporte a distribución en 
 | Redexis Gas, S.A. | ERM G-250 en posición de Trampa de rascadores VILCAS-02 (Castellar) en gasoducto Secundario Villanueva del Arzobispo-Castellar | 05/12/2016 | 0,00 | 60.673,94 |
 | Total | 411.006,85 | 2.767.101,63 |
 
+> Se declara la nulidad de las letras j) y k) del apartado 4 por Sentencia de 18 de febrero de 2020. Ref. BOE-A-2020-3439
+
 > Se declara la nulidad de las letras j) y k) del apartado 4 por Sentencia del TS de 29 de abril de 2019. Ref. BOE-A-2019-8244
