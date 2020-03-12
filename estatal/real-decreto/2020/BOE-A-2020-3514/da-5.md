@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Régimen de adscripción de determinados órganos directivos.
+
+Las Subdirecciones Generales de Tecnologías de la Información y de Atención al Ciudadano de la suprimida Subsecretaría de Sanidad, Consumo y Bienestar Social quedan adscritas a la Subsecretaría de Sanidad. Dichos órganos directivos, prestarán sus servicios a los Ministerios de Derechos Sociales y Agenda 2030 y de Consumo, hasta tanto se desarrolle la estructura orgánica básica de dichos ministerios y se establezca la distribución de efectivos, y en su caso, se asuman de forma efectiva los procedimientos y sistemas técnicos requeridos para el normal funcionamiento del servicio.

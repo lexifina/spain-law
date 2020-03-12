@@ -1,0 +1,5 @@
+## Disposición adicional octava. Adaptación normativa de los órganos colegiados a las nuevas estructuras ministeriales.
+
+En el plazo de un año, desde la entrada en vigor de este real decreto, se realizará la adaptación normativa de los órganos colegiados dependientes o asesores del Departamento al nuevo marco de distribución competencial entre los departamentos ministeriales, según lo dispuesto en el artículo 22 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+En todo caso, deberá adaptarse la normativa de los siguientes órganos colegiados: el Consejo Asesor de Sanidad y Servicios Sociales, el Comité de las profesiones del sector sanitario y social, la Comisión Ministerial de Administración Digital del Ministerio de Sanidad, Servicios Sociales e Igualdad, la Comisión de Estadística del Ministerio de Sanidad y Consumo, la Comisión Interministerial de Precios de los Medicamentos, la Mesa de Coordinación de Adjudicaciones prevista en la Ley 17/2003, de 29 de mayo, por la que se regula el Fondo de bienes decomisados por tráfico ilícito de drogas y otros delitos relacionados y la Comisión Nacional de Radiofísica Hospitalaria.
