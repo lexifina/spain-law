@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Régimen transitorio de funciones de los Ministerios de Sanidad y de Consumo.
+
+Los Ministerios de Sanidad y de Consumo desarrollarán sus funciones de acuerdo con las previsiones establecidas en el Real Decreto 1047/2018, de 24 de agosto, por el que se desarrolla la estructura orgánica básica del Ministerio de Sanidad, Consumo y Bienestar Social y se modifica el Real Decreto 595/2018, de 22 de junio, por el que se establece la estructura orgánica básica de los departamentos ministeriales, hasta tanto se aprueben los reales decretos que desarrollen la estructura orgánica básica de dichos ministerios, sin perjuicio de lo previsto en las disposiciones adicionales y transitorias de este real decreto.

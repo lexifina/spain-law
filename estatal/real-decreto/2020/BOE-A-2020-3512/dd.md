@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Sin perjuicio de lo establecido en la disposición transitoria tercera, quedan derogados aquellos preceptos del Real Decreto 1047/2018, de 24 de agosto, por el que se desarrolla la estructura orgánica básica del Ministerio de Sanidad, Consumo y Bienestar Social y se modifica el Real Decreto 595/2018, de 22 de junio, por el que se establece la estructura orgánica básica de los departamentos ministeriales, que regulen los sectores de actividad atribuidos al ámbito de actuación del Ministerio de Derechos Sociales y Agenda 2030, así como cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto.
