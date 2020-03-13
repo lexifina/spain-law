@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Órganos colegiados de contratación.
+
+Sin perjuicio de lo establecido en la disposición transitoria primera acerca de la subsistencia de unidades y puestos de trabajo, y hasta que se creen los correspondientes órganos de contratación y asistencia de conformidad con lo dispuesto en los artículos 323 y 326 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, adaptados a la estructura establecida en el presente real decreto, continuarán desempeñando sus funciones aquellos que venían ejerciéndolas en relación con las materias propias de este departamento.
