@@ -1,0 +1,7 @@
+## Tercero. Autoprotección y vigilancia de la salud.
+
+1. Los funcionarios policiales incluidos en el ámbito de aplicación de esta Instrucción, independientemente de su Cuerpo de pertenencia, tienen derecho a una protección eficaz en materia de seguridad y salud en el trabajo. Se observarán en todo caso las recomendaciones e instrucciones impartidas en cada caso por las Autoridades sanitarias en relación con la prevención de la transmisión del coronavirus COVID-19.
+
+2. Las Direcciones Generales de la Policía y de la Guardia Civil, así como las Autoridades de las que dependan los Cuerpos de Policía de las Comunidades Autónomas y de las Corporaciones Locales adoptarán las medidas necesarias para que los equipos de trabajo de su personal involucrado en las actuaciones objeto de la presente regulación sean adecuados para garantizar su seguridad y salud en el cumplimiento de las funciones previstas, velando por su uso efectivo y correcto, y procurando la necesaria vigilancia y seguimiento del estado de salud de los mismos.
+
+3. Los distintos Cuerpos policiales informarán periódicamente a la Secretaría de Estado de Seguridad, conforme a lo previsto en el apartado primero, letra b) de la instrucción sexta, de los casos de infección por el coronavirus COVID-19 que se puedan producir entre sus respectivos integrantes así como del personal sometido a cuarentena o medidas de aislamiento, sin perjuicio de las comunicaciones que en otros ámbitos territoriales o competenciales se puedan producir.
