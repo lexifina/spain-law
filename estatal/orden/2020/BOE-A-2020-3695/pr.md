@@ -1,0 +1,1 @@
+En el marco de las medidas previstas en el Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, y conforme a las atribuciones que me confiere el artículo 4.3 del mismo, he acordado:
