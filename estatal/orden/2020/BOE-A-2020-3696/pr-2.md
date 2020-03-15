@@ -1,0 +1,3 @@
+## Primero. Constitución del Comité Estatal de Coordinación.
+
+Por la Dirección General de Protección Civil y Emergencias se procederá a convocar inmediatamente el Comité Estatal de Coordinación (CECO), en el que se integrarán los Consejeros competentes en materia de protección civil y emergencias de las Comunidades y Ciudades Autónomas, o, por delegación de aquellos, los Directores Generales de Protección Civil y Emergencias, así como los Delegados del Gobierno en las Comunidades y Ciudades con Estatuto de Autonomía. Se integrarán en este CECO cuantas autoridades de las Administraciones Públicas se estime oportuno por parte de la presidencia del CECO.

@@ -1,0 +1,5 @@
+## Tercero. Comunicación del estado de situación y mantenimiento de las medidas adoptadas.
+
+Una vez publicada esta Orden Ministerial, las Direcciones Generales de Protección Civil y Emergencias u órganos equivalentes en las Comunidades y Ciudades con Estatuto de Autonomía remitirán al CENEM un informe de situación de las medidas adoptadas hasta la entrada en vigor del estado de alarma. Igualmente, recabarán la información correspondiente de las Corporaciones Locales de su ámbito territorial. Dichas medidas se consideran ratificadas y continuarán vigentes en tanto no resulten incompatibles con lo dispuesto en el Real Decreto 463/2020, de 14 de marzo.
+
+Por la Dirección General de Protección Civil y Emergencias se determinará el contenido y periodicidad de los informes de situación que habrán de remitirse al CENEM. Con independencia de los informes periódicos, se emitirán cuantos otros específicos se consideren necesarios, por iniciativa propia de las Direcciones Generales de Protección Civil y Emergencias u órganos equivalentes en las Comunidades y Ciudades con Estatuto de Autonomía o a petición de los órganos centrales del Sistema Nacional.
