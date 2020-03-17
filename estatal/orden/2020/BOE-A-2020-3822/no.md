@@ -1,0 +1,1 @@
+Véase la Resolución de 27 de marzo de 2020, de la Dirección General de Aviación Civil, por la que se establecen las condiciones para la prestación, y se adjudica de forma directa, el servicio de transporte aéreo en determinadas rutas aéreas del Archipiélago Canario durante el estado de alarma declarado con motivo del COVID-19. Ref. BOE-A-2020-4198
