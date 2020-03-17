@@ -1,0 +1,1 @@
+Véase la Resolución de 26 de marzo de 2020, de la Dirección General de Transporte Terrestre, por la que se exceptúa temporalmente el cumplimiento de las normas de tiempos de conducción y descanso en los transportes de mercancías, con efectos desde el día 29 de marzo de 2020 hasta el día 12 de abril del 2020, ambos incluidos. Ref. BOE-A-2020-4129
