@@ -1,0 +1,3 @@
+## Segundo.
+
+La efectividad del inicio de dicha sustitución se acordará mediante resolución del Interventor General de la Administración del Estado, de oficio o a iniciativa motivada de sus Interventores delegados en los respectivos órganos y organismos, o de los Interventores generales de la Defensa y de la Seguridad Social en sus respectivos ámbitos. La citada resolución determinará el ámbito subjetivo, objetivo y temporal de la sustitución, todo ello con el fin de que afecte sólo a aquellos supuestos en los que sea imprescindible, concretando los tipos de expedientes de gasto, actividades, áreas de gestión y, en su caso, órganos y organismos en los que la función interventora se sustituye temporalmente por el control financiero permanente.

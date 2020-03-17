@@ -1,0 +1,3 @@
+El Consejo de Ministros, en su reunión de 17 de marzo de 2020, ha aprobado el Acuerdo por el que se habilitan medidas urgentes y excepcionales en el ámbito del control de la gestión económico-financiera efectuado por la Intervención General de la Administración del Estado como consecuencia del COVID-19.
+
+Considerando necesaria su publicidad y de conformidad con el certificado del contenido de dicho Acuerdo emitido por la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, Relaciones con las Cortes y Memoria Democrática, he resuelto ordenar la publicación de su contenido en el «Boletín Oficial del Estado», a cuyo efecto figura su texto como anexo a esta Resolución.
