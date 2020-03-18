@@ -1,6 +1,6 @@
 ## ANEXO
 
-## Relación de equipamientos y actividades cuya apertura al público queda suspendida con arreglo a lo dispuesto en el artículo 10.3
+## Relación de equipamientos y actividades cuya apertura al público queda suspendida con arreglo a lo dispuesto en el artículo 10.
 
 Museos.
 
@@ -173,3 +173,5 @@ Bares y restaurantes de hoteles, excepto para dar servicio a sus huéspedes.
 Salones de banquetes.
 
 Terrazas.
+
+> Se modifica el título por el art. único.5 del Real Decreto 465/2020, de 17 de marzo. Ref. BOE-A-2020-3828

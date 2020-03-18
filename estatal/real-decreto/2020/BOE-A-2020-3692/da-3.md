@@ -6,4 +6,10 @@
 
 3. No obstante lo anterior, el órgano competente podrá acordar, mediante resolución motivada, las medidas de ordenación e instrucción estrictamente necesarias para evitar perjuicios graves en los derechos e intereses del interesado en el procedimiento y siempre que éste manifieste su conformidad, o cuando el interesado manifieste su conformidad con que no se suspenda el plazo.
 
-4. La presente disposición no afectará a los procedimientos y resoluciones a los que hace referencia el apartado primero, cuando estos vengan referidos a situaciones estrechamente vinculadas a los hechos justificativos del estado de alarma.
+4. Sin perjuicio de lo dispuesto en los apartados anteriores, desde la entrada en vigor del presente real decreto, las entidades del sector público podrán acordar motivadamente la continuación de aquellos procedimientos administrativos que vengan referidos a situaciones estrechamente vinculadas a los hechos justificativos del estado de alarma, o que sean indispensables para la protección del interés general o para el funcionamiento básico de los servicios.
+
+5. La suspensión de los términos y la interrupción de los plazos a que se hace referencia en el apartado 1 no será de aplicación a los procedimientos administrativos en los ámbitos de la afiliación, la liquidación y la cotización de la Seguridad Social.
+
+6. La suspensión de los términos y la interrupción de los plazos administrativos a que se hace referencia en el apartado 1 no será de aplicación a los plazos tributarios, sujetos a normativa especial, ni afectará, en particular, a los plazos para la presentación de declaraciones y autoliquidaciones tributarias.
+
+> Se modifica el apartado 4 y se añaden los apartados 5 y 6 por el art. único.4 del Real Decreto 465/2020, de 17 de marzo. Ref. BOE-A-2020-3828
