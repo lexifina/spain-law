@@ -78,6 +78,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo cuarenta y nueve](acuarentaynueve.md)
 - [Artículo cincuenta](acincuenta.md)
 - [CAPÍTULO IV](civ-2.md)
+- [Artículo cincuenta y uno a sesenta y dos](ac.md)
 - [Artículo cincuenta y uno](acincuentayuno.md)
 - [Artículo cincuenta y dos](acincuentaydos.md)
 - [Artículo cincuenta y tres](acincuentaytres.md)
