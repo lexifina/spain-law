@@ -1,0 +1,7 @@
+## Tercero.
+
+En los supuestos indicados en el apartado primero, cuando la comprobación de la inversión se realice sin la asistencia de los representantes designados por la Intervención General, se justificará con un acta o con un certificado suscrito en los términos indicados en el apartado 8 del artículo 28 del Real Decreto 2188/1995, de acuerdo con el que «la comprobación de la inversión se justificará con el acta de conformidad firmada por quienes participaron en la misma o con una certificación expedida por el Jefe del centro directivo, dependencia u organismo a que corresponda recibir o aceptar la prestación o servicio, en la que se expresará, con el detalle necesario, la circunstancia de haberse ejecutado la prestación o servicio con arreglo a las condiciones generales y particulares que hubieran sido previamente establecidas».
+
+Para dar cumplimiento a lo establecido en el apartado decimonoveno de la citada Resolución de 14 de julio de 2015, relativo a la tramitación del resultado de la comprobación material de inversión, el órgano gestor deberá remitir al Interventor designado en el menor plazo posible el acta de recepción o el certificado suscritos en los términos indicados en el párrafo anterior.
+
+El representante de la Intervención designado deberá incorporar en la aplicación COREnet, por el procedimiento establecido, un ejemplar de dicho documento a los efectos del seguimiento de las designaciones efectuadas.
