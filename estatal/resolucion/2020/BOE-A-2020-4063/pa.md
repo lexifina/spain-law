@@ -1,0 +1,1 @@
+Conforme al artículo 39 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el presente acuerdo producirá efectos desde su aprobación, salvo en lo referido a la delegación, que producirá efectos desde la publicación en el «Boletín Oficial del Estado».
