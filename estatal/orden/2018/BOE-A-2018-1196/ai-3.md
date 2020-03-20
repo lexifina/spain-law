@@ -1,6 +1,6 @@
 ## ANEXO III
 
-## Indicadores de centro y/o Administración educativa
+## Indicadores de centro y/o Administración educativa. (Solo de aplicación en el ámbito de gestión del Ministerio de Educación y Formación Profesional)
 
 | Indicadores | Preguntas del cuestionario |
 | --- | --- |
@@ -16,3 +16,5 @@
 | Utilización de medios tecnológicos para tareas escolares. | ACE07. |
 | Resultados:. |  |
 | Porcentaje de alumnado en cada nivel de competencia (seis niveles, del 1 al 6). |  |
+
+> Se modifica el título por la disposición final 1 de la Orden EFP/255/2020, de 11 de marzo. Ref. BOE-A-2020-3864#df
