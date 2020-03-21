@@ -26,6 +26,8 @@ B.1.1 Por calendario y tramos de vía:
 
 En los tramos y durante los días y horas que se indican en el anexo II de esta Resolución.
 
+> Téngase en cuenta que se suspenden durante la vigencia del estado de alarma y sus sucesivas prórrogas, las restricciones del apartado B.1.1, con objeto de garantizar el suministro de bienes esenciales y el abastecimiento, por el art. 3 de la Orden INT/262/2020, de 20 de marzo. Ref. BOE-A-2020-3946#a3
+
 B.1.2 Exenciones:
 
 Quedan exentos de esta prohibición, los vehículos y conjunto de vehículos de cualquier masa máxima autorizada, que se recogen a continuación:
@@ -47,6 +49,8 @@ A los vehículos que deban llevar los paneles naranja de señalización de pelig
 B.2.1 Por calendario y tramos de vía:
 
 – En los tramos y durante los días y horas que se indican en el anexo V (apartado 1.º- Restricciones Comunes, y apartado 2.º- Restricciones Específicas epígrafe A) de esta Resolución, y además, cuando el vehículo supere los 7.500 kilogramos de masa máxima autorizada (M.M.A.) o masa máxima de conjunto (M.M.C), las indicadas en el anexo II.
+
+> Téngase en cuenta que se suspenden durante la vigencia del estado de alarma y sus sucesivas prórrogas, las restricciones del apartado B.2.1 incluidas en el apartado 1º (restricciones comunes) del anexo V, con objeto de garantizar el suministro de bienes esenciales y el abastecimiento, por el art. 3 de la Orden INT/262/2020, de 20 de marzo. Ref. BOE-A-2020-3946#a3
 
 B.2.2 Por itinerario:
 
@@ -75,6 +79,8 @@ B.3 Vehículos especiales y vehículos que precisan autorización complementaria
 B.3.1 Por calendario y tramos de vía:
 
 – En los tramos y durante los días y horas que se indican en el anexo II y el anexo V (apartado 1.º- Restricciones Comunes, y apartado 2.º- Restricciones Específicas epígrafe B) de esta Resolución.
+
+> Téngase en cuenta que se suspenden durante la vigencia del estado de alarma y sus sucesivas prórrogas, las restricciones del apartado B.3.1, con objeto de garantizar el suministro de bienes esenciales y el abastecimiento, por el art. 3 de la Orden INT/262/2020, de 20 de marzo. Ref. BOE-A-2020-3946#a3
 
 B.3.2 Exenciones:
 
@@ -177,3 +183,5 @@ F) Restricciones a la ejecución de obras en la vía:
 En razón de las circunstancias o características especiales del tráfico, durante el calendario de Operaciones de Tráfico con motivo de los desplazamientos masivos de vehículos previstos durante el año 2020, y con el objeto de mejorar la seguridad vial y fluidez de la circulación, el Organismo Autónomo Jefatura Central de Tráfico solicitará, en todo caso, a los Organismos titulares de vías afectadas, que lleven a efecto la interrupción de las obras en los términos previstos en el anexo VI.
 
 No obstante, por motivos justificados, los Organismos titulares de las vías podrán autorizar de manera excepcional, previa comunicación al Organismo Autónomo Jefatura Central de Tráfico, a través del Centro de Gestión de Tráfico de la zona afectada, la realización de obras en las fechas y vías recogidas en el anexo VI.
+
+> Se suspenden, durante la vigencia del estado de alarma y sus sucesivas prórrogas, las restricciones del apartado B.1.1, las del B.2.1 incluidas en el apartado 1º del anexo V y las del B.3.1, por el art. 3 de la Orden INT/262/2020, de 20 de marzo. Ref. BOE-A-2020-3946#a3
