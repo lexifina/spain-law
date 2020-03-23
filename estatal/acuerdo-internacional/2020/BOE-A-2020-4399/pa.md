@@ -1,0 +1,9 @@
+## ACUERDO MULTILATERAL M325
+
+En virtud de la sección 1.5.1 del ADR, relativo a inspecciones periódicas o intermedias de cisternas de conformidad con los apartados 6.8.2.4.2, 6.8.2.4.3, 6.8.3.4.6, 6.8.3.4.12, 6.9.5.2 y 6.10.4 del ADR, y los certificados de aprobación para vehículos de conformidad con el apartado 9.1.3.4 del ADR.
+
+(1) Por derogación de las disposiciones de los apartados 6.8.2.4.2, 6.8.2.4.3, 6.8.3.4.6, 6.8.3.4.12, 6.9.5.2 y 6.10.4 del ADR todas las inspecciones periódicas e intermedias cuya validez finalice entre el 1 de marzo de 2020 y el 1 de agosto de 2020, seguirán siendo válidas hasta el 30 de agosto de 2020. Estas inspecciones se llevarán a cabo de conformidad con los párrafos 6.8.2.4.2, 6.8.2.4.3, 6.8.3.4.6, 6.8.3.4.12, 6.9.5.2 o 6.10.4 del ADR antes del 1 de septiembre de 2020. El marcado correspondiente se realizará en conformidad con los párrafos 6.8.2.5.1 o 6.8.3.5.10 del ADR.
+
+(2) Por derogación de las disposiciones del apartado 9.1.3.4 del ADR, todos los certificados de aprobación cuya validez finalice entre el 1 de marzo de 2020 y el 1 de agosto de 2020, seguirán siendo válidas hasta el 30 de agosto de 2020. Estas inspecciones técnicas se llevarán a cabo de conformidad con el párrafo 9.1.2.3 del ADR antes del 1 de septiembre de 2020. La validez del periodo del certificado de acuerdo al párrafo 9.1.3.5 del ADR empezará a partir de la última fecha de expiración mencionada en el certificado que va a ser prolongado o renovado.
+
+(3) Este Acuerdo será válido hasta el 1 de septiembre de 2020 para el transporte en los territorios de aquellas Partes Contratantes ADR firmantes de este Acuerdo. Si es revocado por alguno de los firmantes antes de esa fecha, seguirá siendo válido hasta la fecha arriba mencionada solo para el transporte en los territorios de aquellas Partes Contratantes signatarias de este Acuerdo que no lo hayan revocado.
