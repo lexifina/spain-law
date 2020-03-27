@@ -1,3 +1,7 @@
 ## Disposición transitoria tercera. Inversiones.
 
 La sección cuarta de este real decreto no será de aplicación a las solicitudes presentadas antes del 1 de febrero de 2019, a las cuales se les aplicará la sección cuarta del Real Decreto 5/2018 de 12 de enero para la aplicación de las medidas del programa de apoyo 2019-2023 al sector vitivinícola español.
+
+> Téngase en cuenta que se amplía el plazo de justificación y solicitud del pago de las operaciones de inversión presentadas antes del 1 de febrero de 2019 y que se siguen rigiendo por el artículo 73 Real Decreto 5/2018, hasta el 31 de mayo de 2020, y el plazo de remisión por las comunidades autónomas del informe anual del resultado de las operaciones de inversión presentadas antes del 1 de febrero de 2019 y que se siguen rigiendo por el artículo 75.2 del Real Decreto 5/2018, hasta el 30 de noviembre de 2020, según establece el art. 2.3 y 4 de la Orden APA/288/2020, de 24 de marzo. Ref. BOE-A-2020-4103#a2
+
+> Se amplía el plazo de justificación y solicitud del pago de las operaciones de inversión presentadas antes del 1 de febrero de 2019 y que se siguen rigiendo por el artículo 73 Real Decreto 5/2018, hasta el 31 de mayo de 2020, y el plazo de remisión por las comunidades autónomas del informe anual del resultado de las operaciones de inversión presentadas antes del 1 de febrero de 2019 y que se siguen rigiendo por el artículo 75.2 del Real Decreto 5/2018, hasta el 30 de noviembre de 2020, según establece el art. 2.3 y 4 de la Orden APA/288/2020, de 24 de marzo. Ref. BOE-A-2020-4103#a2
