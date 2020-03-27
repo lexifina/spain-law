@@ -1,0 +1,1 @@
+Téngase en cuenta la Resolución de 8 de abril de 2020, de la Dirección General de Aviación Civil, por la que se modifica la duración y se prorroga la adjudicación del servicio de transporte aéreo en las rutas aéreas Palma de Mallorca-Menorca y Palma de Mallorca-Ibiza durante el estado de alarma declarado con motivo del COVID-19. Ref. BOE-A-2020-4468
