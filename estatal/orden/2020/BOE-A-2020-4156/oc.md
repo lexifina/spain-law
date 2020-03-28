@@ -1,0 +1,3 @@
+## Octavo. Modificaciones presupuestarias.
+
+De acuerdo con lo establecido en el artículo 1 del Real Decreto-ley 8/2020, de 17 de marzo, de medidas urgentes extraordinarias para hacer frente al impacto económico y social del COVID-19, con cargo al Fondo de Contingencia y al suplemento de crédito concedido en dicho precepto al Ministerio de Derechos Sociales y Agenda 2030, se realizarán las correspondientes transferencias a las autoridades estatales y autonómicas en el ámbito de los servicios sociales y del Sistema para la Autonomía y Atención a la Dependencia para la financiación de las actuaciones previstas en la presente orden.
