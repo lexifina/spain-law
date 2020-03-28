@@ -1,0 +1,5 @@
+## Disposición adicional primera. Limitación de la duración de los expedientes temporales de regulación de empleo basados en las causas previstas en el artículo 22 del Real Decreto-ley 8/2020, de 17 de marzo.
+
+La duración de los expedientes de regulación de empleo autorizados al amparo de las causas previstas en el artículo 22 del Real Decreto-ley 8/2020, de 17 de marzo, no podrá extenderse más allá del periodo en que se mantenga la situación extraordinaria derivada del COVID-19 de acuerdo con lo previsto en el artículo 28 de la misma norma, entendiéndose, por tanto, que su duración máxima será la del estado de alarma decretado por el Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19 y sus posibles prórrogas.
+
+Esta limitación resultará aplicable tanto en aquellos expedientes respecto de los cuales recaiga resolución expresa como a los que sean resueltos por silencio administrativo, con independencia del contenido de la solicitud empresarial concreta.
