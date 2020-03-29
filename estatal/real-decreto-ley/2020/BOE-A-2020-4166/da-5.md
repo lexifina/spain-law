@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Personal de empresas adjudicatarias de contratos del sector público.
+
+El permiso retribuido recuperable regulado en este real decreto-ley no resultará de aplicación a las personas trabajadoras de las empresas adjudicatarias de contratos de obras, servicios y suministros del sector público que sean indispensables para el mantenimiento y seguridad de los edificios y la adecuada prestación de los servicios públicos, incluida la prestación de los mismos de forma no presencial, todo ello sin perjuicio de lo establecido en el artículo 34 del Real Decreto-ley 8/2020, de 17 de marzo, de medidas urgentes extraordinarias para hacer frente al impacto económico y social del COVID-19.
