@@ -1,0 +1,1 @@
+Téngase en cuenta que esta Orden se aplicó durante la vigencia del permiso retribuido recuperable regulado en el Real Decreto-ley 10/2020, que se extendió del 30 de marzo al 9 de abril de 2020, ambos inclusive.
