@@ -1,26 +1,68 @@
 ## ANEXO X
 
-## Categorías de plantas de vivero en que se pueden producir las distintas especies
+## Parte A: Géneros y especies a los que se refiere el artículo 1 que se pueden producir en categorías inicial, de base, certificada y CAC, bajo reglas y normas de la UE
 
-1. Inicial, base, certificada y CAC:
+Castanea sativa Mill.
 
-a) Subgrupo cítricos: todas las especies botánicas incluidas en la familia Rutáceas.
+Citrus L.
 
-b) Subgrupo frutales de hueso y pepita: todas las especies botánicas incluidas en los siguientes géneros: ‟Prunus’’, ‟Pyrus’’, ‟Malus’’ y ‟Cydonia’’.
+Corylus avellana L.
 
-c) Subgrupo ‟otros frutales’’: Todas las especies botánicas incluidas en los siguientes géneros: ‟Juglans L.’’, ‟Corylus L.’’, ‟Pistacia L.’’, ‟Ribes L.’’, ‟Rubus L.’’, ‟Vaccinium L.’’, ‟Diospyros L.’’, ‟Actinidia Lindl.’’ y las especies ‟Castanea sativa Mill.’’, ‟Ceratonia siliqua L.’’, ‟Ficus carica L.’’ y ‟Punica granatum L.’’.
+Cydonia oblonga Mill.
 
-d) Subgrupo olivo: todas las especies botánicas incluidas en el género ‟Olea’’.
+Ficus carica L.
 
-e) Subgrupo fresa: todas las especies botánicas incluidas en el género ‟Fragaria’’.
+Fortunella Swingle.
 
-2. Inicial, base, certificada y estándar:
+Fragaria L.
 
-a) Subgrupo ‟otros frutales’’: Todas las especies botánicas incluidas en los siguientes géneros: ‟Diospyros L.’’, ‟Actinidia Lindl.’’ y las especies ‟Ceratonia siliqua L.’’ y ‟Punica granatum L.’’.
+Juglans regia L.
 
-b) Subgrupo platanera: todas las especies botánicas incluidas en el género ‟Musa’’.
+Malus Mill.
 
-c) Subgrupo aguacate: todas las especies botánicas incluidas en el género ‟Persea’’.
+Olea europaea L.
+
+Pistacia vera L.
+
+Poncirus Raf.
+
+Prunus amygdalus Batsch.
+
+Prunus armeniaca L.
+
+Prunus avium L.
+
+Prunus cerasus L.
+
+Prunus domestica L.
+
+Prunus pérsica (L) Batsch.
+
+Prunus salicina Lindley.
+
+Pyrus L.
+
+Ribes L.
+
+Rubus L.
+
+Vaccinium L.
+
+## Parte B: Géneros y especies a los que se refiere el artículo 1 que se pueden producir en categorías inicial, de base, certificada y estándar, bajo reglas y normas españolas
+
+Diospyros L.
+
+Actinidia Lindl.
+
+Ceratonia siliqua L.
+
+Punica granatum L.
+
+Musa.
+
+Persea.
+
+> Se sustituye por el que figura en el art. único.3 del Real Decreto 428/2020, de 3 de marzo. Ref. BOE-A-2020-4264
 
 > Se modifica por el art. único.26 del Real Decreto 744/2016, de 30 de diciembre. Ref. BOE-A-2016-12603
 
