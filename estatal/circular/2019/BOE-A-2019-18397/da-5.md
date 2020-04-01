@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Cómputo de plazos.
+
+Los plazos señalados en la circular se computarán con arreglo a lo dispuesto en la Ley 39/2015, de 1 de octubre, a excepción de lo relativo al «día de gas».
