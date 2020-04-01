@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Normas de gestión de garantías para la contratación del acceso y para la liquidación de desbalances del sistema gasista.
+
+Hasta que tenga lugar la aprobación por la Comisión Nacional de los Mercados y la Competencia de las normas de gestión de garantías para la contratación del acceso y para la liquidación de desbalances del sistema gasista, conforme a lo dispuesto en la disposición adicional undécima, será de aplicación lo dispuesto en la Resolución de 2 de agosto de 2016, de la Secretaría de Estado de Energía, por la que se aprueban las normas de gestión de garantías del sistema gasista.

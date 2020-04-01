@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Gas de los usuarios inhabilitados.
+
+Cuando un usuario se inhabilite en el área de balance en TVB o AVB y aún disponga de gas natural licuado o de gas en las instalaciones del sistema gasista, el gestor técnico del sistema regasificará el gas natural licuado del usuario en TVB o extraerá el gas del usuario en AVB, lo introducirá en el PVB y lo venderá en la plataforma de comercio. Las cantidades económicas que correspondan a estas ventas se ingresarán en la cuenta de liquidaciones en TVB y AVB, una vez descontados los peajes de acceso a las instalaciones correspondientes.
