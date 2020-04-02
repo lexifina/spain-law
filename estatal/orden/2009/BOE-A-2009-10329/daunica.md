@@ -12,8 +12,10 @@ ni : 21.400 y 41.101 para las tarifas T.3 y T.4, respectivamente, aplicable para
 
 EMAX y GNd tendrán los valores de 858.976 kWh/día y 8.327.795 kWh, respectivamente, para la tarifa T.3 mientras que en el caso de la tarifa T.4 los valores a aplicar serán de 14.266.470 kWh/día y 15.994.425 kWh.
 
-> Téngase en cuenta que se suspende la vigencia del apartado 2, a partir del 18 de marzo de 2020, para los siguientes dos trimestres, en la forma y con los efectos indicados por el art. 4.3.b del Real Decreto-ley 8/2020, de 17 de marzo. Ref. BOE-A-2020-3824#a4
+> Téngase en cuenta que se suspende la vigencia del apartado 2, a partir del 18 de marzo de 2020, para los siguientes dos trimestres, en la forma y con los efectos indicados por el art. 4.3.b del Real Decreto-ley 8/2020, de 17 de marzo. Ref. BOE-A-2020-3824#a4, en la redacción dada por la disposición final 1.1 del Real Decreto-ley 11/2020, de 31 de marzo. Ref. BOE-A-2020-4208#df
 
 3. La empresa distribuidora responsable del suministro de gas manufacturado remitirá a los clientes a los que vaya a comenzar a suministrar gas natural la carta que se indica en el anexo de la presente orden, con una antelación mínima de dos meses respecto al momento en que sea efectivo el suministro de gas natural en una determinada zona.
+
+> Se suspende la vigencia del apartado 2, a partir del 18 de marzo de 2020, para los siguientes dos trimestres, en la forma y con los efectos indicados por el art. 4.3.b del Real Decreto-ley 8/2020, de 17 de marzo, en la redacción dada por la disposición final 1.1 del Real Decreto-ley 11/2020, de 31 de marzo. Ref. BOE-A-2020-4208#df
 
 > Se suspende la vigencia del apartado 2, a partir del 18 de marzo de 2020, para los siguientes dos trimestres, en la forma y con los efectos indicados por el art. 4.3.b del Real Decreto-ley 8/2020, de 17 de marzo. Ref. BOE-A-2020-3824#a4

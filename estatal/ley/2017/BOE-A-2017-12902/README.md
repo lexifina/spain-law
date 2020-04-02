@@ -533,6 +533,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional quincuagésima segunda](da-52.md)
 - [Disposición adicional quincuagésima tercera](da-53.md)
 - [Disposición adicional quincuagésima cuarta](da-54.md)
+- [Disposición adicional quincuagésima quinta](da-55.md)
 - [Disposición transitoria primera](dt.md)
 - [Disposición transitoria segunda](dt-2.md)
 - [Disposición transitoria tercera](dt-3.md)
