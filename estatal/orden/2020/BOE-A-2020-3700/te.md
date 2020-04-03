@@ -22,4 +22,12 @@ Con el fin de que puedan valorar su disponibilidad para ser contratados, el Mini
 
 2. En el caso de profesionales con títulos de especialista obtenidos en Estados miembros de la Unión Europea mediante procedimiento abierto de reconocimiento, el Ministerio de Sanidad y el Ministerio de Universidades habilitarán los medios necesarios para finalizar los procedimientos en curso.
 
+3. Se autoriza, con carácter excepcional y transitorio, la contratación de aquellos profesionales sanitarios incluidos en el ámbito de aplicación del Real Decreto 459/2010, de 16 de abril, que cuenten con título de Especialista obtenido en Estados no miembros de la Unión Europea siempre que hayan adquirido una formación cualitativa y cuantitativamente equivalente a la que otorga el correspondiente título español de Especialista y se encuentren en la fase de evaluación prevista en el artículo 8.d) del citado real decreto.
+
+El contrato que se suscriba será de un máximo de tres meses prorrogables por sucesivos períodos de tres meses.
+
+Con el fin de que puedan valorar su disponibilidad para ser contratados, el Ministerio de Sanidad facilitará a las comunidades autónomas los datos de contacto de estos profesionales, que constan en sus registros, teniendo en cuenta lo dispuesto en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
+> Se añade el apartado 3 por el apartado 1.2 de la Orden SND/319/2020, de 1 de abril. Ref. BOE-A-2020-4265
+
 > Se modifica el párrafo 1.a) por el apartado 1.2 de la Orden SND/299/2020, de 27 de marzo. Ref. BOE-A-2020-4174
