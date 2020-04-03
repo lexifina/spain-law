@@ -82,7 +82,7 @@ Cuando un buque agote el esfuerzo de que dispone en una zona determinada, la Dir
 
 5.3 Las cuotas que le correspondan al Reino de España, correspondientes a los stocks pesqueros previstos en el artículo 3.5 para los buques pertenecientes al censo previsto en esta orden, deberán gestionarse por las asociaciones sobre la base de un reparto porcentual indicativo entre los buques a los que les corresponda, de acuerdo con sus posibilidades de pesca en cada zona. A estos efectos, la Dirección General de Ordenación Pesquera comunicará a principios de año las cuotas que correspondan a cada asociación, en cada zona de pesca.
 
-5.4 En relación a las cuotas de bacaladilla (WHB) del stock 1X14 y jurel (JAX) de stock 2A-14 para los buques objeto de esta orden no se podrán realizar pesquerías dirigidas a la captura de estas especies, siendo el máximo de capturas accesorias de un 10 % del volumen de la captura por marea.
+5.4 (Derogado).
 
 6. Comunicaciones que deberán efectuar las Asociaciones
 
@@ -101,3 +101,5 @@ b) Cesiones o intercambio de esfuerzo entre buques de una misma asociación o en
 c) Cesiones de cuotas de pesca entre buques de la misma asociación, o entre buques de distintas asociaciones, indicando el stock y las cantidades y nombre de los buques cedentes y receptor, conforme a lo previsto en el apartado 5.1 de este anexo I.
 
 6.2. Las comunicaciones deberán dirigirse a la dirección electrónica de la Subdirección General de Control e Inspección de la Dirección General de Ordenación Pesquera.
+
+> Se deroga el punto 5.4 por la disposición derogatoria única.4 de la Orden APA/315/2020, de 1 de abril. Ref. BOE-A-2020-4255#dd

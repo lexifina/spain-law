@@ -84,6 +84,8 @@ ab) Sardina (Sardina pilchardus).
 
 ac) Sargo (Diplodus sargus).
 
+ad) Breca chata (Pagellus bellottii).
+
 4.2 Las especies autorizadas para su captura con arte de cerco como especies accesorias son las siguientes:
 
 a) Baila (Dicentrarchus punctatus).
@@ -135,5 +137,7 @@ Por otro lado, y conforme a lo establecido en el artículo 19.4 del Reglamento (
 El porcentaje de las especies citadas de tamaño inferior al reglamentario se calculará en proporción del peso vivo de todos los organismos marinos a bordo una vez efectuada la clasificación correspondiente o en el momento del desembarque. El porcentaje podrá calcularse sobre la base de una o más muestras representativas. No se superará el límite del 10 % durante el desembarque, el transporte, el almacenamiento, la exposición ni la puesta en venta.
 
 No obstante, de acuerdo con lo dispuesto por el Reglamento (UE) n.º 1394/2014 de la Comisión de 20 de octubre de 2014, en el caso del jurel (Trachurus spp.) se admitirá un 5 % en peso y en cómputo total, con talla comprendida entre 12 y 15 cm.
+
+> Se añaden las letras ad) al apartado 4.1 por las disposición final 3.4 de la Orden APA/315/2020, de 1 de abril. Ref. BOE-A-2020-4255#df-3
 
 > Se añade el apartado 4.2 y se modifica el apartado 8 por el art. único.10 y 11 de la Orden APM/453/2018, de 25 de abril. Ref. BOE-A-2018-6036
