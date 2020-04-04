@@ -4,6 +4,8 @@
 
 2. Se autoriza, previa valoración por la autoridad competente de la oportunidad de la medida y de la idoneidad del trabajador, a la contratación temporal, a jornada parcial o completa, de personal que se encuentre cursando el último año de los estudios requeridos para la prestación de los correspondientes servicios en los distintos ámbitos del sector de los Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia y que, en consecuencia, no se halle en posesión del preceptivo título académico o de la habilitación profesional correspondiente.
 
-3. El personal con dispensa absoluta de asistencia al puesto de trabajo por ejercicio de funciones sindicales deberá reincorporarse de forma temporal para desempeñar sus funciones en atención a la situación generada por el COVID-19.
+3. El personal con dispensa absoluta de asistencia al puesto de trabajo por ejercicio de funciones sindicales podrá solicitar voluntariamente reincorporarse para desempeñar sus funciones en atención a la situación generada por el COVID-19.
 
 La reincorporación de estos trabajadores no supondrá el cese del personal sustituto que pudiera existir.
+
+> Se modifica el apartado 3 por el apartado segundo de la Orden SND/322/2020, de 3 de abril. Ref. BOE-A-2020-4300
