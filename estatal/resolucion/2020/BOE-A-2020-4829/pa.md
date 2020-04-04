@@ -1,0 +1,3 @@
+La Secretaria General de Administración Digital, por delegación de la Secretaría de Estado de Digitalización e Inteligencia Artificial y Telefónica Digital España, S.L.U., han suscrito, el 4 de abril de 2020, el Convenio entre la Secretaría de Estado de Digitalización e Inteligencia Artificial y Telefónica Digital España, S.L.U., para la operación de la aplicación «ASISTENCIACOVID19» en el contexto de la situación de crisis sanitaria ocasionada por el COVID-19.
+
+Para general conocimiento y en cumplimiento de lo establecido en el artículo 48.8 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, se dispone la publicación del referido Convenio, como anejo a la presente Resolución.
