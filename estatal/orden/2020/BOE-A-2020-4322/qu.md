@@ -1,0 +1,5 @@
+## Quinto. Responsabilidad.
+
+La eventual responsabilidad patrimonial que pudiera imputarse por razón de la licencia excepcional previa de funcionamiento de instalaciones, el uso de productos sin el marcado CE, en aplicación del artículo 15 del Real Decreto 1591/2009, de 16 de octubre, o de las garantías sanitarias no exigidas a un producto será asumida por la Administración General del Estado, de acuerdo con las disposiciones aplicables de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, siempre que dicho producto sanitario haya sido entregado al Ministerio de Sanidad con la finalidad de atender a los afectados por la pandemia ocasionada por el COVID-19 o ayudar a su control, sin la obtención de ningún tipo de beneficio empresarial por parte de la persona física o jurídica autorizada para su fabricación y puesta en funcionamiento o de cualesquiera otras que intervengan en dicho proceso.
+
+Las autorizaciones que se expidan en aplicación de la presente orden invocarán expresamente este artículo y dejarán constancia de las circunstancias a que se refiere el mismo.
