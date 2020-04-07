@@ -1,0 +1,3 @@
+## Tercero. Aplicación del permiso retribuido recuperable.
+
+Sin perjuicio de lo previsto en los artículos anteriores, en aplicación de lo dispuesto en el Real Decreto-ley 10/2020, de 29 de marzo, por el que se regula un permiso retribuido recuperable para las personas trabajadoras por cuenta ajena que no presten servicios esenciales, con el fin de reducir la movilidad de la población en el contexto de la lucha contra el COVID-19, y mientras dure su vigencia, será de aplicación a las actividades de verificación y mantenimiento de seguridad industrial y metrológica el permiso retribuido recuperable previsto en su artículo 2, salvo para aquellas actividades que se consideren esenciales de acuerdo con el anexo del referido real decreto-ley.
