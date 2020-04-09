@@ -48,4 +48,8 @@ e) La incompatibilidad con el trabajo a que se refiere el número 1.º del apart
 
 5. En el caso de compatibilidad de la prestación o subsidio por desempleo y trabajo a tiempo parcial, la reducción de la cuantía de dicha prestación o subsidio no alterará su duración computada en días naturales.
 
+> Téngase en cuenta que, en el período comprendido desde el 9 de abril hasta el 30 de junio de 2020, no será de aplicación lo señalado en el presente artículo a los trabajadores contratados al amparo de lo señalado en el Real Decreto-ley 13/2020, de 7 de abril, según establece su disposición adicional 2. Ref. BOE-A-2020-4332#da-2
+
+> Téngase en cuenta que, en el período comprendido desde el 9 de abril hasta el 30 de junio de 2020, no será de aplicación lo señalado en el presente artículo a los trabajadores contratados al amparo de lo señalado en el Real Decreto-ley 13/2020, de 7 de abril, según establece su disposición adicional 2. Ref. BOE-A-2020-4332#da-2
+
 > Se modifica el apartado 1 por el art. único.8 del Real Decreto 200/2006, de 17 de febrero. Ref. BOE-A-2006-3767
