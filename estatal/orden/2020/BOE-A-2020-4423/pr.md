@@ -1,0 +1,13 @@
+El Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, contempla una serie de medidas dirigidas a proteger el bienestar, la salud y seguridad de los ciudadanos y la contención de la progresión de la enfermedad.
+
+El artículo 4.2.d) del citado Real Decreto 463/2020, de 14 de marzo, determina que, para el ejercicio de las funciones previstas en el mismo y bajo la superior dirección del Presidente del Gobierno, el Ministro de Sanidad tendrá la condición de autoridad competente delegada, tanto en su propia área de responsabilidad como en las demás áreas que no recaigan en el ámbito específico de competencias de los demás Ministros designados como autoridad competente delegada a los efectos de este real decreto.
+
+En concreto, de acuerdo con lo establecido en el artículo 4.3 del Real Decreto 463/2020, de 14 de marzo, el Ministro de Sanidad queda habilitado para dictar, de oficio o a solicitud motivada, las órdenes, resoluciones, disposiciones e instrucciones interpretativas que, dentro de su ámbito de actuación como autoridad delegada, sean necesarias para garantizar la prestación de todos los servicios, ordinarios o extraordinarios, en orden a la protección de personas, bienes y lugares, mediante la adopción de cualquiera de las medidas previstas en el artículo once de la Ley Orgánica 4/1981, de 1 de junio, de los estados de alarma, excepción y sitio.
+
+Asimismo, de acuerdo con la disposición final primera del citado real decreto quedaron ratificadas todas las disposiciones y medidas adoptadas previamente por las autoridades competentes de las comunidades autónomas y de las entidades locales con ocasión del coronavirus COVID-19, que continuarán vigentes y producirán los efectos previstos en ellas, siempre que resulten compatibles con este real decreto.
+
+Con anterioridad a la aprobación y publicación del Real Decreto 463/2020, de 14 de marzo, el Vicepresidente Segundo y Consejero de Sanidad y Servicios Sociales de la Junta de Extremadura estableció mediante Resolución de 13 de marzo, una serie de medidas y restricciones en el municipio del Arroyo de la Luz. Estas medidas han permanecido vigentes hasta ahora con arreglo a lo previsto en la disposición final primera del citado real decreto.
+
+Se ha recibido en este Departamento solicitud del Vicepresidente Segundo y Consejero de Sanidad y Servicios Sociales de levantamiento de dichas medidas, a la vista de la evolución de las cifras epidemiológicas en el municipio, de acuerdo con el informe de la Dirección General de Salud Pública de la Junta de Extremadura.
+
+En su virtud, a propuesta de la Junta de Extremadura, resuelvo:
