@@ -1,0 +1,13 @@
+El Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, contempla una serie de medidas dirigidas a proteger el bienestar, la salud y seguridad de los ciudadanos y la contención de la progresión de la enfermedad.
+
+El artículo 4.2.d) del citado Real Decreto 463/2020, de 14 de marzo, determina que, para el ejercicio de las funciones previstas en el mismo y bajo la superior dirección del Presidente del Gobierno, el Ministro de Sanidad tendrá la condición de autoridad competente delegada, tanto en su propia área de responsabilidad como en las demás áreas que no recaigan en el ámbito específico de competencias de los demás titulares de los departamentos designados como autoridades competentes delegadas a los efectos del citado real decreto.
+
+En concreto, de acuerdo con lo establecido en el artículo 4.3 del Real Decreto 463/2020, de 14 de marzo, el Ministro de Sanidad queda habilitado para dictar las órdenes, resoluciones, disposiciones e instrucciones interpretativas que, dentro de su ámbito de actuación como autoridad delegada, sean necesarias para garantizar la prestación de todos los servicios, ordinarios o extraordinarios, en orden a la protección de personas, bienes y lugares, mediante la adopción de cualquiera de las medidas previstas en el artículo once de la Ley Orgánica 4/1981, de 1 de junio, de los estados de alarma, excepción y sitio.
+
+En el citado marco, se dictó la Orden SND/234/2020, de 15 de marzo, sobre adopción de disposiciones y medidas de contención y remisión de información al Ministerio de Sanidad ante la situación de crisis sanitaria ocasionada por el COVID-19, que, entre otros aspectos, establece a las comunidades autónomas la obligación de remitir al Ministerio de Sanidad determinada información de carácter epidemiológico, de situación de capacidad asistencial y de necesidades de recursos humanos y materiales que permita facilitar el seguimiento y la toma de decisiones en la gestión de la crisis sanitaria provocada por el COVID-19.
+
+La evolución de la situación de la crisis sanitaria que se desarrolla en el marco del estado de alarma obliga a adaptar y modificar el procedimiento de notificación de la información epidemiológica que las comunidades autónomas deben remitir a este Departamento, para asegurar la eficiencia en la gestión de la crisis.
+
+A este respecto, es precisa la modificación del Anexo I, en lo referido únicamente a las tablas de datos correspondientes a información epidemiológica y a contratación de los recursos humanos, permaneciendo el resto del Anexo I inalterado.
+
+En su virtud, resuelvo:
