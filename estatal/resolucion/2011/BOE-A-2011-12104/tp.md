@@ -64,35 +64,33 @@ Todos los demás pasivos deben clasificarse como no corrientes.
 
 3. Los terrenos o construcciones que la entidad tiene para obtener rentas, plusvalías o para su venta fuera del curso ordinario de las operaciones, se incluirán en el epígrafe A.III «Inversiones Inmobiliarias», del activo.
 
-4. En la confección del Balance del Patrimonio Privativo de las MATEPSS y del Balance Integrado de la Mutua, se añadirá dentro del epígrafe A.IV «Inversiones financieras a largo plazo en entidades del grupo, multigrupo y asociadas», la partida 2 «Inversiones financieras en patrimonio de sociedades mercantiles», que recogerá la participación del patrimonio privativo de las MATEPSS en sus sociedades de prevención.
+4. La partida 1 «Deudores por operaciones de gestión», del epígrafe, B.III «Deudores y otras cuentas a cobrar», del activo incluirá todos los deudores de carácter presupuestario excepto aquellos relativos al capítulo de enajenación de inversiones reales, cuando no constituyan actividad habitual de la entidad, o referidos a activos o pasivos financieros. También incluirán los deudores de carácter no presupuestario que se deriven de aplazamientos y fraccionamientos a corto plazo de deudores presupuestarios de esta partida.
 
-5. La partida 1 «Deudores por operaciones de gestión», del epígrafe, B.III «Deudores y otras cuentas a cobrar», del activo incluirá todos los deudores de carácter presupuestario excepto aquellos relativos al capítulo de enajenación de inversiones reales, cuando no constituyan actividad habitual de la entidad, o referidos a activos o pasivos financieros. También incluirán los deudores de carácter no presupuestario que se deriven de aplazamientos y fraccionamientos a corto plazo de deudores presupuestarios de esta partida.
+5. Dentro de la partida 2 «Otras cuentas a cobrar», del epígrafe B.III «Deudores y otras cuentas a cobrar», del activo, se incluirán aquellos deudores presupuestarios derivados del capítulo de pasivos financieros, además de los deudores de carácter no presupuestario que, de acuerdo con estas normas, no deban figurar en otros epígrafes del balance.
 
-6. Dentro de la partida 2 «Otras cuentas a cobrar», del epígrafe B.III «Deudores y otras cuentas a cobrar», del activo, se incluirán aquellos deudores presupuestarios derivados del capítulo de pasivos financieros, además de los deudores de carácter no presupuestario que, de acuerdo con estas normas, no deban figurar en otros epígrafes del balance.
+6. En la partida 3 «Administraciones públicas», del epígrafe B.III «Deudores y otras cuentas a cobrar», del activo del Balance del Patrimonio Privativo de las MATEPSS y del Balance Integrado de la Mutua, se incluirán las cuentas 473 «Hacienda Pública, retenciones y pagos a cuenta» y 474 «Activos por impuesto diferido».
 
-7. En la partida 3 «Administraciones públicas», del epígrafe B.III «Deudores y otras cuentas a cobrar», del activo del Balance del Patrimonio Privativo de las MATEPSS y del Balance Integrado de la Mutua, se incluirán las cuentas 473 «Hacienda Pública, retenciones y pagos a cuenta» y 474 «Activos por impuesto diferido».
+7. El epígrafe B.V «Inversiones financieras a corto plazo», incluirá los activos financieros que corresponda, incluidos los derivados de la enajenación de inversiones reales cuando no constituyan actividad habitual de la entidad, con independencia de que estén vencidos o no y por tanto clasificados o no en cuentas de deudores presupuestarios.
 
-8. El epígrafe B.V «Inversiones financieras a corto plazo», incluirá los activos financieros que corresponda, incluidos los derivados de la enajenación de inversiones reales cuando no constituyan actividad habitual de la entidad, con independencia de que estén vencidos o no y por tanto clasificados o no en cuentas de deudores presupuestarios.
-
-9. En el epígrafe A.I «Patrimonio aportado», del patrimonio neto del balance se registrará la aportación patrimonial inicial directa, tanto dineraria como en bienes o derechos, así como posteriores ampliaciones de la misma por asunción de nuevas competencias por la entidad, recibidas de la entidad o entidades propietarias.
+8. En el epígrafe A.I «Patrimonio aportado», del patrimonio neto del balance se registrará la aportación patrimonial inicial directa, tanto dineraria como en bienes o derechos, así como posteriores ampliaciones de la misma por asunción de nuevas competencias por la entidad, recibidas de la entidad o entidades propietarias.
 
 En el caso de las Entidades y Centros Mancomunados, se incluyen en este epígrafe las adscripciones de bienes y derechos realizadas, por las entidades propietarias.
 
-10. Las reservas generadas por la entidad, aparecerán recogidas en el punto 1 «Reservas», dentro del epígrafe A.II «Patrimonio generado», del patrimonio neto del balance.
+9. Las reservas generadas por la entidad, aparecerán recogidas en el punto 1 «Reservas», dentro del epígrafe A.II «Patrimonio generado», del patrimonio neto del balance.
 
-11. Por su parte, las subvenciones pendientes de imputar a resultados, de acuerdo con lo previsto en la norma de reconocimiento y valoración nº 15 «Transferencias y subvenciones», se registrarán en el epígrafe A.IV «Otros incrementos patrimoniales pendientes de imputación a resultados».
+10. Por su parte, las subvenciones pendientes de imputar a resultados, de acuerdo con lo previsto en la norma de reconocimiento y valoración nº 15 «Transferencias y subvenciones», se registrarán en el epígrafe A.IV «Otros incrementos patrimoniales pendientes de imputación a resultados».
 
-12. En el Balance del Patrimonio Privativo de las MATEPSS y en el Balance Integrado de la Mutua, se incorporará en el epígrafe A.IV «Otros incrementos patrimoniales pendientes de imputación a resultados», la cuenta 137 «Ingresos fiscales a distribuir en varios ejercicios».
+11. En el Balance del Patrimonio Privativo de las MATEPSS y en el Balance Integrado de la Mutua, se incorporará en el epígrafe A.IV «Otros incrementos patrimoniales pendientes de imputación a resultados», la cuenta 137 «Ingresos fiscales a distribuir en varios ejercicios».
 
-13. El epígrafe C.II «Deudas a corto plazo», del pasivo, incluirá los pasivos financieros que correspondan, incluidos los derivados del capítulo de inversiones reales cuando no constituyan actividad habitual de la entidad, con independencia de que estén vencidos o no y por tanto clasificados o no en cuentas de acreedores presupuestarios.
+12. El epígrafe C.II «Deudas a corto plazo», del pasivo, incluirá los pasivos financieros que correspondan, incluidos los derivados del capítulo de inversiones reales cuando no constituyan actividad habitual de la entidad, con independencia de que estén vencidos o no y por tanto clasificados o no en cuentas de acreedores presupuestarios.
 
-14. La partida 1 «Acreedores por operaciones de gestión», del epígrafe C.IV «Acreedores y otras cuentas a pagar», del pasivo incluirá todos los acreedores de carácter presupuestario excepto los relativos a los capítulos de inversiones reales, cuando no constituyan actividad habitual de la entidad, así como activos o pasivos financieros.
+13. La partida 1 «Acreedores por operaciones de gestión», del epígrafe C.IV «Acreedores y otras cuentas a pagar», del pasivo incluirá todos los acreedores de carácter presupuestario excepto los relativos a los capítulos de inversiones reales, cuando no constituyan actividad habitual de la entidad, así como activos o pasivos financieros.
 
-15. Dentro de la partida 2. «Otras cuentas a pagar», del epígrafe C.IV «Acreedores y otras cuentas a pagar», del pasivo, se incluirán aquellos acreedores presupuestarios derivados del capítulo de activos financieros, además de los acreedores de carácter no presupuestario que, de acuerdo con estas normas, no deban figurar en otros epígrafes del balance.
+14. Dentro de la partida 2. «Otras cuentas a pagar», del epígrafe C.IV «Acreedores y otras cuentas a pagar», del pasivo, se incluirán aquellos acreedores presupuestarios derivados del capítulo de activos financieros, además de los acreedores de carácter no presupuestario que, de acuerdo con estas normas, no deban figurar en otros epígrafes del balance.
 
-16. En la partida 3 «Administraciones públicas», del epígrafe C.IV «Acreedores y otras cuentas a pagar», del Balance del Patrimonio Privativo de las MATEPSS y del Balance Integrado de la Mutua, se incorporará la cuenta 479 «Pasivos por diferencias temporarias imponibles».
+15. En la partida 3 «Administraciones públicas», del epígrafe C.IV «Acreedores y otras cuentas a pagar», del Balance del Patrimonio Privativo de las MATEPSS y del Balance Integrado de la Mutua, se incorporará la cuenta 479 «Pasivos por diferencias temporarias imponibles».
 
-17. Cuando no se pueda reexpresar en la columna relativa al ejercicio anterior una corrección de un error material o un cambio de criterio, en su caso se deberá informar en la memoria.
+16. Cuando no se pueda reexpresar en la columna relativa al ejercicio anterior una corrección de un error material o un cambio de criterio, en su caso se deberá informar en la memoria.
 
 6. Cuenta del resultado económico patrimonial.
 
@@ -347,7 +345,7 @@ CUENTA DEL RESULTADO ECONÓMICO PATRIMONIAL
 |  | 7. Prestaciones sociales |  |  |  |
 | (630) | a) Pensiones |  |  |  |
 | (631) | b) Incapacidad temporal |  |  |  |
-| (632) | c) Prestaciones derivadas de la maternidad y de la paternidad |  |  |  |
+| (632) | c) Nacimiento y cuidado de menor y otras prestaciones |  |  |  |
 | (634) | d) Prestaciones familiares |  |  |  |
 | (635) | e) Prestaciones económicas de recuperación e indemnizaciones y entregas únicas |  |  |  |
 | (636) | f) Prestaciones sociales |  |  |  |
@@ -399,17 +397,18 @@ CUENTA DEL RESULTADO ECONÓMICO PATRIMONIAL
 
 1 Su signo puede ser positivo o negativo.
 
-CUENTAS DEL RESULTADO ECONÓMICO PATRIMONIAL DE ENTIDADES GESTORAS Y TESORERÍA GENERAL
+CUENTAS DEL RESULTADO ECONÓMICO PATRIMONIAL DE ENTIDADES GESTORAS Y SERVICIOS COMUNES
 
-| RESULTADOS NEGATIVOS | RESULTADOS POSITIVOS |
+| Resultados negativos | Resultados positivos |
 | --- | --- |
-| Nº ENTIDAD | NOMBRE | EJ. N | EJ. N-1 | Nº ENTIDAD | NOMBRE | EJ. N | EJ. N-1 |
-| 1 | INSS |  |  | 1 | INSS |  |  |
-| 2 | INGESA |  |  | 2 | INGESA |  |  |
-| 3 | IMSERSO |  |  | 3 | IMSERSO |  |  |
-| 4 | ISM |  |  | 4 | ISM |  |  |
-| 5 | TGSS |  |  | 5 | TGSS |  |  |
-|  | AHORRO |  |  |  | DESAHORRO |  |  |
+| N.º entidad | Nombre | EJ. N | EJ. N-1 | N.º entidad | Nombre | EJ. N | EJ. N-1 |
+| 1 | INSS. |  |  | 1 | INSS. |  |  |
+| 2 | INGESA. |  |  | 2 | INGESA. |  |  |
+| 3 | IMSERSO. |  |  | 3 | IMSERSO. |  |  |
+| 4 | ISM. |  |  | 4 | ISM. |  |  |
+| 5 | TGSS. |  |  | 5 | TGSS. |  |  |
+| 6 | GISS. |  |  | 6 | GISS. |  |  |
+|  | AHORRO. |  |  |  | DESAHORRO. |  |  |
 
 Estado de cambios en el Patrimonio Neto
 
@@ -1451,7 +1450,7 @@ b) DE LOS PAGOS PENDIENTES DE APLICACIÓN
 
 ## 19. Contratación administrativa. Procedimientos de adjudicación.
 
-Información por tipos de contrato, sobre los importes adjudicados según los diferentes procedimientos establecidos en la normativa vigente sobre contratación.
+Se informará de los importes de adjudicación de los contratos perfeccionados durante el ejercicio, por tipo de contrato y procedimiento de adjudicación, de acuerdo con la normativa de contratos del sector público y la legislación patrimonial. A los únicos efectos de elaborar esta información los encargos a medios propios personificados se considerarán un tipo de contrato específico.
 
 I. CONTRATACIÓN ADMINISTRATIVA. PROCEDIMIENTOS Y FORMAS DE ADJUDICACIÓN
 
@@ -2376,6 +2375,10 @@ MUTUA N.º
 
 |  |
 | --- |
+
+> Se modifica por el art. único.uno de la Resolución de 13 de abril de 2020. Ref. BOE-A-2020-4488
+
+> Esta modificación será aplicable a la formación, rendición y publicación de las cuentas anuales del ejercicio 2019 y siguientes, con la excepción de la modificación del apartado 7.c) del modelo de la cuenta del resultado económico patrimonial, que será de aplicación a partir del ejercicio 2020, según establece la disposición final única de la citada Resolución.
 
 > Se suprime el apartado 20.1.1.d) de la nota 20 del modelo de la Memoria y se añade el punto 20.10, con efectos de 1 de enero de 2017, por el art. único.1 de la Resolución de 9 de febrero de 2017. Ref. BOE-A-2017-1572
 

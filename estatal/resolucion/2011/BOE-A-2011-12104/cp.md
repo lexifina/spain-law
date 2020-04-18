@@ -216,17 +216,13 @@
 
 24. Inversiones financieras a largo plazo en entidades del grupo, multigrupo y asociadas.
 
-240. Entidades gestoras de la Seguridad Social. Cuenta de neto patrimonial.
+240. Entidades gestoras y servicios comunes de la Seguridad Social distintos de la Tesorería General de la Seguridad Social. Cuenta de neto patrimonial.
 
 241. Oficinas contables.
 
 243. Participaciones en centros mancomunados.
 
-244. Participaciones en entidades mancomunadas.
-
 248. Participaciones en otras entidades dependientes.
-
-249. Participaciones en la sociedad de prevención.
 
 25. Inversiones financieras a largo plazo.
 
@@ -412,11 +408,7 @@
 
 2933. Deterioro de valor de participaciones en centros mancomunados.
 
-2934. Deterioro de valor de participaciones en entidades mancomunadas.
-
 2938. Deterioro de valor de participaciones en otras entidades dependientes.
-
-2939. Deterioro de valor de participaciones en sociedades de prevención.
 
 296. Deterioro de valor de participaciones en el patrimonio neto a largo plazo.
 
@@ -1256,7 +1248,7 @@
 
 631. Incapacidad temporal.
 
-632. Prestaciones derivadas de la maternidad y de la paternidad.
+632. Nacimiento y cuidado del menor y otras prestaciones.
 
 6320. Prestaciones contributivas.
 
@@ -1502,11 +1494,7 @@
 
 6963. Pérdidas por deterioro de participaciones en centros mancomunados.
 
-6964. Pérdidas por deterioro de participaciones en entidades mancomunadas.
-
 6968. Pérdidas por deterioro de participaciones en otras entidades dependientes.
-
-6969. Pérdidas por deterioro de la participación en la sociedad de prevención.
 
 697. Pérdidas por deterioro de créditos.
 
@@ -1770,11 +1758,7 @@
 
 7963. Reversión del deterioro de participaciones en centros mancomunados.
 
-7964. Reversión del deterioro de participaciones en entidades mancomunadas.
-
 7968. Reversión del deterioro de participaciones en otras entidades dependientes.
-
-7969. Reversión del deterioro de la participación en la sociedad de prevención.
 
 797. Reversión del deterioro de créditos.
 
@@ -1921,6 +1905,10 @@
 007. Presupuesto de ingresos: modificaciones de previsiones.
 
 008. Presupuesto de ingresos: previsiones definitivas.
+
+> Se modifica por el art. único.dos de la Resolución de 13 de abril de 2020. Ref. BOE-A-2020-4488
+
+> Esta moidificación será aplicable a la formación, rendición y publicación de las cuentas anuales del ejercicio 2019 y siguientes, según establece la disposición final única de la citada Resolución.
 
 > Se añaden las subcuentas 1715 y 5215 por el art. 2 de la Resolución de 14 de diciembre de 2018. Ref. BOE-A-2018-17774
 
