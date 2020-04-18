@@ -1,0 +1,7 @@
+Mediante Orden TFP/2/2020 de 8 de enero, se estableció, en cumplimiento de la disposición final primera del Reglamento por el que se desarrollan los títulos Preliminar, II y III de la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado, aprobado por el Real Decreto 1208/2018, de 28 de septiembre, que a partir del 20 de abril de 2020 los sujetos obligados por la citada ley tendrán que relacionarse exclusivamente por medios electrónicos con la Oficina de Conflictos de Intereses a través de la Subsede Electrónica del Portal FUNCIONA.
+
+Sin embargo, debido a las especiales circunstancias actuales derivadas del COVID-19, que han motivado la declaración del estado de alarma, se considera procedente ampliar el plazo previsto en el artículo 1 de la citada Orden, dado que como consecuencia de las mismas pueden derivarse dificultades de diversa índole que impidan la efectividad y operatividad de la relación electrónica con la Oficina de Conflictos de Intereses.
+
+De esta manera, se pretende, en definitiva, salvar los obstáculos técnicos que pudieran acontecer ampliando el plazo originalmente establecido y con ello facilitar el nuevo procedimiento electrónico implantado y la cumplimentación de las declaraciones y comunicaciones previstas en la Ley 3/2015, sin que ello suponga una alteración de las obligaciones de los altos cargos.
+
+En su virtud, dispongo
