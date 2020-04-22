@@ -1,0 +1,1 @@
+Téngase en cuenta la Orden INT/356/2020, de 20 de abril, por la que se prorrogan los criterios para la aplicación de una restricción temporal de viajes no imprescindibles desde terceros países a la Unión Europea y países asociados Schengen por razones de orden público y salud pública con motivo de la crisis sanitaria ocasionada por el COVID-19. Ref. BOE-A-2020-4539
