@@ -1,0 +1,1 @@
+Téngase en cuenta que las medidas establecidas en la presente Resolución son aplicables hasta el 30 de septiembre de 2020, según establece su apartado quinto, por lo que debe entenderse que esta norma ha perdido su vigencia.
