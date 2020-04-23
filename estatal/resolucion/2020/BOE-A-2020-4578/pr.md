@@ -1,0 +1,7 @@
+La declaración del estado del alarma llevada a cabo mediante el Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, motivó que por el Instituto Social de la Marina se dictara la Resolución de 16 de marzo de 2020, por la que se adoptan determinadas medidas, con motivo del COVID-19, en relación a las prestaciones y servicios específicos para el sector marítimo-pesquero, ampliando la vigencia de distintos certificados preceptivos para garantizar la operatividad, tanto a nivel nacional como internacional, de dicho sector de producción.
+
+No obstante, en la actual coyuntura, con sucesivas prórrogas del estado de alarma y, teniendo en cuenta la naturaleza esencial de las actividades desarrolladas en la pesca y el trasporte marítimo, así como el carácter dinámico y el contexto de elevada incertidumbre que caracteriza la evolución de esta crisis sanitaria, se considera necesario actualizar las medidas adoptadas mediante una nueva resolución que consolide las medidas inicialmente adoptadas además de dar respuesta a la problemática surgida durante este nuevo período, evitando los perjuicios que pudieran derivarse para los trabajadores y las empresas del sector marítimo pesquero.
+
+Por ello y en virtud de las facultades atribuidas por el artículo 7.1 del Real Decreto 504/2011, de 8 de abril, de estructura orgánica y funciones del Instituto Social de la Marina,
+
+Esta Dirección resuelve:

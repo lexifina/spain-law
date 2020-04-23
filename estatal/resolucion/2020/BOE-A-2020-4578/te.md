@@ -1,0 +1,5 @@
+## Tercero. Certificados médicos de aptitud para el embarque marítimo.
+
+El tiempo de vigencia de los certificados médicos de aptitud para el embarque marítimo regulados en el Real Decreto 1696/2007, de 14 de diciembre, por el que se regulan los reconocimientos médicos de embarque marítimo, se considerará prorrogado por un período máximo de seis meses a contar desde de su fecha de vencimiento.
+
+Asimismo, las Capitanías Marítimas eximirán temporalmente de la exigencia establecida en la Orden de 18 de enero de 2000, por la que se aprueba el Reglamento sobre Despacho de Buques, de disponer del certificado médico de aptitud para el embarque a las personas trabajadoras que se incorporen por vez primera al sector marítimo pesquero o que no puedan acogerse a la prórroga establecida en el párrafo anterior. En estos casos, a efectos del enrole de estos tripulantes, las Capitanías Marítimas deberán tener en cuenta la calificación de aptitud laboral otorgada en el último reconocimiento médico de embarque marítimo efectuado al interesado.
