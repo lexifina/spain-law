@@ -1,0 +1,13 @@
+## Disposición final sexta. Modificación del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre.
+
+Se modifican los apartados 1 y 2 del artículo 324 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, con la siguiente redacción:
+
+«1. Quedarán incluidos en este sistema especial los trabajadores a que se refiere el artículo anterior que sean titulares de explotaciones agrarias y realicen en ellas labores agrarias de forma personal y directa, aun cuando ocupen trabajadores por cuenta ajena, siempre que no se trate de más de dos trabajadores que coticen con la modalidad de bases mensuales o, de tratarse de trabajadores que coticen con la modalidad de bases diarias, a las que se refiere el artículo 255, que el número total de jornadas reales efectivamente realizadas no supere las quinientas cuarenta y seis en un año, computado desde el 1 de enero a 31 de diciembre de cada año. El número de jornadas reales se reducirá proporcionalmente en función del número de días de alta del trabajador por cuenta propia agrario en este Sistema Especial durante el año natural de que se trate.
+
+Las limitaciones en la ocupación de trabajadores por cuenta ajena a que se refiere el párrafo anterior se entienden aplicables por cada explotación agraria.
+
+2. A los efectos previstos en este sistema especial, se entiende por explotación agraria el conjunto de bienes y derechos organizados por su titular en el ejercicio de la actividad agraria, y que constituye en sí misma unidad técnico-económica, pudiendo la persona titular o titulares de la explotación serlo por su condición de propietaria, arrendataria, aparcera, cesionaria u otro concepto análogo, de las fincas o elementos materiales de la respectiva explotación agraria.
+
+A este respecto se entiende por actividad agraria el conjunto de trabajos que se requiere para la obtención de productos agrícolas, ganaderos y forestales.
+
+A los efectos previstos en este sistema especial, se considerará actividad agraria la venta directa por parte de la agricultora o agricultor de la producción propia sin transformación o la primera transformación de los mismos cuyo producto final esté incluido en el anexo I del artículo 38 del Tratado de funcionamiento de la Unión Europea, dentro de los elementos que integren la explotación, en mercados municipales o en lugares que no sean establecimientos comerciales permanentes, considerándose también la actividad agraria toda aquella que implique la gestión o la dirección y gerencia de la explotación.»
