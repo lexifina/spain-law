@@ -1,0 +1,36 @@
+## ANEXO
+
+## Acuerdo por el que se establecen importes máximos de venta al público en aplicación de lo previsto en la Orden SND/354/2020, de 19 de abril, por la que se establecen medidas excepcionales para garantizar el acceso de la población a los productos de uso recomendados como medidas higiénicas para la prevención de contagios por el COVID-19
+
+El pasado 19 de abril ha sido publicada en el «Boletín Oficial del Estado» la Orden SND/354/2020, de 19 de abril, por la que se establecen medidas excepcionales para garantizar el acceso de la población a los productos de uso recomendados como medidas higiénicas para la prevención de contagios por el COVID-19.
+
+La citada orden establece en su apartado Tercero que por acuerdo de la Comisión Interministerial de Precios de los Medicamentos se podrá establecer el importe máximo de venta al público de los productos establecidos en el apartado segundo.1 de la Orden SND/354/2020, de 19 de abril.
+
+Asimismo, se dispone que corresponde a la Dirección General de Cartera Común de Servicios del Sistema Nacional de Salud y Farmacia, en cuanto órgano de apoyo administrativo a la Comisión Interministerial de Precios de los Medicamentos, la elaboración del documento que incorpore dicho acuerdo, así como su publicación en el «Boletín Oficial del Estado».
+
+En su virtud, la Comisión Interministerial de Precios de los Medicamentos, en su reunión del día 21 de abril de 2020, acuerda:
+
+En relación con los productos señalados en el apartado Segundo.1 de la Orden SND/354/2020, de 19 de abril, por la que se establecen medidas excepcionales para garantizar el acceso de la población a los productos de uso recomendados como medidas higiénicas para la prevención de contagios por el COVID-19, establecer los siguientes importes máximos de venta al público de los mismos:
+
+1.º Mascarillas quirúrgicas desechables: 0,96 euros/unidad.
+
+> Téngase en cuenta la Resolución de 18 de noviembre de 2020, de la Dirección General de Cartera Común de Servicios del Sistema Nacional de Salud y Farmacia, por la que se publica el Acuerdo de la Comisión Interministerial de Precios de los Medicamentos, de 18 de noviembre de 2020, que revisa el importe máximo de venta al público de las mascarillas quirúrgicas desechables, el cual queda fijado en 0,62 euros/unidad. Ref. BOE-A-2020-14466#an
+
+2.º Mascarillas higiénicas: la determinación de su importe máximo se difiere a la próxima reunión de la Comisión, a fin de obtener mayor información sobre los costes de fabricación en el sector textil nacional.
+
+3.º Antisépticos de piel sana autorizados por la AEMPS: la determinación de su importe máximo se difiere a la próxima reunión de la Comisión, a fin de obtener mayor información sobre sus costes de fabricación.
+
+4.º Geles y soluciones hidroalcohólicas autorizados temporalmente por la AEMPS:
+
+| Hasta 150 ml. | 0,021 €/ml |
+| --- | --- |
+| 150 ml y hasta 300 ml. | 0,018 €/ml |
+| 300 ml y hasta 1000 ml. | 0,015 €/ml |
+
+> Téngase en cuenta la Resolución de 2 de mayo de 2020, de la Dirección General de Cartera Común de Servicios del Sistema Nacional de Salud y Farmacia, por la que se publican los Acuerdos de la Comisión Interministerial de Precios de los Medicamentos, de 28 de abril de 2020, que regulan los precios de los antisépticos de piel sana autorizados por la AEMPS y acuerdan la revisión al alza del precio de los geles y soluciones hidroalcohólicas en los formatos hasta 150 ml y de 151-300 ml aplicando un coeficiente corrector de 1,2. Ref. BOE-A-2020-4815#an
+
+Los anteriores importes máximos son unitarios, y son precios finales con el IVA, o, en su caso, el IGIC correspondientes.
+
+Estos importes máximos quedan sujetos a futuras revisiones por esta Comisión, atendiendo a la evolución de los precios de mercado.
+
+Este acuerdo producirá efectos desde el día siguiente al de su publicación en el «Boletín Oficial del Estado».
