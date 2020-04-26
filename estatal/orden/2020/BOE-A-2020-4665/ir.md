@@ -1,0 +1,5 @@
+> Información relacionada
+
+> Téngase en cuenta que no serán de aplicación las franjas horarias y el límite de un adulto responsable y hasta tres niños, previstos en la presente Orden, a los municipios y entes de ámbito territorial inferior al municipio que tengan menos de 10.001 habitantes y densidad de población inferior a 100 habitantes por kilómetro cuadrado, según establece el art. 3 de la Orden SND/427/2020, de 21 de mayo. Ref. BOE-A-2020-5218#a3, pudiéndose practicar las actividades previstas en la presente Orden en el término municipal o, en su defecto, a una distancia máxima de cinco kilómetros, incluyendo municipios adyacentes, siempre que se encuentren dentro del ámbito de aplicación de esta orden y pertenezcan a la misma unidad territorial de referencia.
+
+> Asimismo, no regirá limitación alguna respecto del número de veces al día en que se podrán realizar las actividades previstas en la presente Orden en las unidades territoriales en fase 2, según establece la disposición adicional 5 de la Orden SND/414/2020, de 16 de mayo, añadida por el art. 2.2 de la Orden SND/445/2020, de 26 de mayo. Ref. BOE-A-2020-5088#da-5
