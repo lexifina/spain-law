@@ -1,0 +1,3 @@
+## Disposición final segunda. Referencia al Real Decreto 229/2006, de 24 de febrero, sobre control de fuentes radiactivas encapsuladas de alta actividad y fuentes huérfanas, en la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética.
+
+La referencia al artículo 11.2 del Real Decreto 229/2006, de 24 de febrero, sobre control de fuentes radiactivas encapsuladas de alta actividad y fuentes huérfanas, artículo derogado en este real decreto, que se hace en el artículo 20 de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética, se entenderá hecha al artículo 5 de este real decreto.
