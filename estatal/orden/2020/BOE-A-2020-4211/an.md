@@ -16,7 +16,7 @@ C.2.3 Centros de atención primaria.
 
 C.2.4 Centros polivalentes.
 
-C.2.5 Centros especializados con en el siguiente detalle:
+C.2.5 Centros especializados con el siguiente detalle:
 
 C.2.5.1 Clínicas dentales: ante situaciones de urgencia.
 
@@ -30,21 +30,19 @@ C.2.5.5 Centros de diálisis.
 
 C.2.5.6 Centros de diagnóstico.
 
-C.2.5.7 Centros móviles de asistencia sanitaria: deben ser considerados como esenciales en tanto en cuanto el centro sea considerado como servicio esencial por parte de la autoridad sanitaria de la comunidad autónoma en el que estén ubicados.
+C.2.5.7 Centros móviles de asistencia sanitaria: deben ser considerados como esenciales en tanto en cuanto el centro sea considerado como servicio esencial por parte de la autoridad sanitaria de la comunidad autónoma en la que estén ubicados.
 
 C.2.5.8 Centros de transfusión.
 
 C.2.5.9 Bancos de tejidos.
 
-C.2.5.10 Centros de reconocimiento.
-
 C.2.5.11 Centros de salud mental.
 
-C.2.5.90 Otros centros especializados: deben ser considerados como esenciales en tanto en cuanto el centro sea considerado como servicio esencial por parte de la autoridad sanitaria de la comunidad autónoma en el que estén ubicados.
+C.2.5.90 Otros centros especializados: deben ser considerados como esenciales en tanto en cuanto el centro sea considerado como servicio esencial por parte de la autoridad sanitaria de la comunidad autónoma en la que estén ubicados.
 
-C.2.90 Otros proveedores de asistencia sanitaria sin internamiento: deben ser considerados como esenciales en tanto en cuanto sean considerados como servicio esencial por parte de la autoridad sanitaria de la comunidad autónoma en el que estén ubicados.
+C.2.90 Otros proveedores de asistencia sanitaria sin internamiento: deben ser considerados como esenciales en tanto en cuanto sean considerados como servicio esencial por parte de la autoridad sanitaria de la comunidad autónoma en la que estén ubicados.
 
-C.3 Servicios sanitarios integrados en una organización no sanitaria: deben ser considerados como esenciales en tanto en cuanto el servicio se ubique en una organización considerada como esencial o sean considerados como esenciales por parte de la autoridad sanitaria de la comunidad autónoma en el que estén ubicados.
+C.3 Servicios sanitarios integrados en una organización no sanitaria: deben ser considerados como esenciales en tanto en cuanto el servicio se ubique en una organización considerada como esencial o sean considerados como esenciales por parte de la autoridad sanitaria de la comunidad autónoma en la que estén ubicados.
 
 Establecimientos sanitarios:
 
@@ -57,3 +55,5 @@ E.3 Ópticas.
 E.4 Ortopedias.
 
 E.5 Establecimientos de audioprótesis.
+
+> Se modifica por el apartado primero de la Resolución de 24 de abril de 2020. Ref. BOE-A-2020-4689#pr-2
