@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Inscripción de abonadoras en uso.
+
+Para la inscripción en el ROMA de las máquinas contempladas en el anexo II, letra i), no inscritas con anterioridad, cuando no se disponga del certificado de características, de la declaración de conformidad CE, regulada en el Real Decreto 1644/2008, de 10 de octubre, o de la factura de compra, podrán sustituirse por una declaración firmada por el titular de la máquina en la que se reflejen los datos identificativos de la misma, marca, modelo, número de bastidor, tipo de distribución del abono y año de adquisición de la máquina. En caso de no disponer la máquina de número de bastidor, el ROMA le asignará un número identificativo a los únicos efectos de su registro.
