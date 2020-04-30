@@ -98,3 +98,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [ANEXO VI.20](anvi20.md)
 - [ANEXO VI.21](anvi21.md)
 - [ANEXO VI.22](anvi22.md)
+- [ANEXO VI.23](av.md)
