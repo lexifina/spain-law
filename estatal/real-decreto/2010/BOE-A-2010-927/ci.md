@@ -20,36 +20,76 @@ Unidades SI básicas
 | cantidad de sustancia | mol | mol |
 | intensidad luminosa | candela | cd |
 
-2. Definiciones de las unidades básicas del SI
+2. Definiciones de las unidades básicas del SI.
 
 Las definiciones de las unidades básicas del SI son las siguientes:
 
-2.1. Unidad de longitud (metro, m): el metro es la longitud del trayecto recorrido en el vacío por la luz durante un tiempo de 1/299 792 458 de segundo.
+2.1 El segundo, símbolo s, es la unidad SI de tiempo. Se define al fijar el valor numérico de la frecuencia de la transición hiperfina del estado fundamental no perturbado del átomo de cesio 133, ∆νCs, en 9 192 631 770, cuando se expresa en la unidad Hz, igual a s-1.
 
-De aquí resulta que la velocidad de la luz en el vacío es igual a 299 792 458 metros por segundo exactamente, c0 = 299 792 458 m/s.
+De la relación exacta ∆νCs = 9 192 631 770 s-1 se obtiene la expresión para la unidad segundo, en función del valor de ∆νCs:
 
-2.2. Unidad de masa (kilogramo, kg): el kilogramo es la unidad de masa; es igual a la masa del prototipo internacional del kilogramo, adoptado por la tercera Conferencia General de Pesas y Medidas en 1901.
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/119/04707_5040.png)
 
-2.3. Unidad de tiempo (segundo, s): el segundo es la duración de 9 192 631 770 periodos de la radiación correspondiente a la transición entre los dos niveles hiperfinos del estado fundamental del átomo de cesio 133.
+Como resultado de esta definición, el segundo es la duración de 9 192 631 770 períodos de la radiación correspondiente a la transición entre los dos niveles hiperfinos del estado fundamental no perturbado del átomo de cesio 133.
 
-De aquí resulta que la frecuencia de la transición hiperfina del estado fundamental del átomo de cesio es igual a 9 192 631 770 hercios, ν(hfs Cs) = 9 192 631 770 Hz. Esta definición se refiere a un átomo de cesio en reposo, a una temperatura de 0 K.
+2.2 El metro, símbolo m, es la unidad SI de longitud. Se define al fijar el valor numérico de la velocidad de la luz en el vacío, c, en 299 792 458, cuando se expresa en la unidad m s-1, donde el segundo se define en función de la frecuencia del cesio 133, ∆νCs.
 
-2.4. Unidad de intensidad de corriente eléctrica (amperio, A): el amperio es la intensidad de una corriente constante que, manteniéndose en dos conductores paralelos, rectilíneos, de longitud infinita, de sección circular despreciable y situados a una distancia de 1 metro uno del otro, en el vacío, produciría entre estos conductores una fuerza igual a 2 × 10−7 newtons por metro de longitud.
+De la relación exacta c = 299 792 458 m · s−1 se obtiene la expresión para el metro, en función de las constantes c y ∆νCs:
 
-De aquí resulta que la constante magnética, µ0, también conocida como permeabilidad del vacío, es exactamente igual a 4π × 10−7 henrios por metro, µ0 = 4π × 10−7 H/m.
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/119/04707_5085.png)
 
-2.5. Unidad de temperatura termodinámica (kelvin, K): el kelvin, unidad de temperatura termodinámica, es la fracción 1/273,16 de la temperatura termodinámica del punto triple del agua. Esta definición se refiere a un agua de una composición isotópica definida por las siguientes relaciones de cantidad de sustancia: 0,000 155 76 moles de 2H por mol de 1H, 0,000 379 9 moles de 17O por mol de 16O y 0,002 005 2 moles de 18O por mol de 16O.
+Resultado de esta definición es que el metro es la longitud del trayecto recorrido por la luz en el vacío durante un intervalo de tiempo de 1/299 792 458 de segundo.
 
-De aquí resulta que la temperatura termodinámica del punto triple del agua es igual a 273,16 kelvin exactamente, Ttpw = 273,16 K.
+2.3 El kilogramo, símbolo kg, es la unidad SI de masa. Se define al fijar el valor numérico de la constante de Planck, h, en 6,626 070 15 × 10−34, cuando se expresa en la unidad J·s, igual a kg·m2·s–1, donde el metro y el segundo se definen en función de c y ∆νCs.
 
-2.6. Unidad de cantidad de sustancia (mol, mol): el mol es la cantidad de sustancia de un sistema que contiene tantas entidades elementales como átomos hay en 0,012 kilogramos de carbono 12. Esta definición se refiere a átomos de carbono 12 no ligados, en reposo y en su estado fundamental.
+De la relación exacta h = 6,626 070 15 × 10−34 kg·m2·s−1 se obtiene la unidad kg·m2·s−1, y de esta la expresión para el kilogramo en función del valor de la constante de Planck h:
 
-Cuando se emplee el mol, deben especificarse las entidades elementales, que pueden ser átomos, moléculas, iones, electrones u otras partículas o grupos especificados de tales partículas.
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/119/04707_5129.png)
 
-De aquí resulta que la masa molar del carbono 12 es igual a 12 g por mol, exactamente, M(12C) = 12 g/mol.
+De aquí, junto con las definiciones del segundo y el metro, se obtiene la definición de la unidad de masa en función de las tres constantes h, ∆νCs y c:
 
-2.7 Unidad de intensidad luminosa (candela, cd): la candela es la intensidad luminosa, en una dirección dada, de una fuente que emite una radiación monocromática de frecuencia 540 × 1012 hercios y cuya intensidad energética en dicha dirección es de 1/683 vatios por estereorradián.
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/119/04707_5296.png)
 
-De aquí resulta que la eficacia luminosa espectral de una radiación monocromática de frecuencia igual a 540 × 1012 hercios es igual a 683 lúmenes por vatio, exactamente, K = 683 lm/W = 683 cd sr/W.
+A resultas de esta definición queda definida la unidad kg m2 s−1 (la unidad de las magnitudes físicas acción y momento angular). Junto con las definiciones del segundo y del metro, esto conduce a la definición de la unidad de masa en función del valor de la constante de Planck, h.
+
+2.4 El amperio, símbolo A, es la unidad SI de intensidad de corriente eléctrica. Se define al fijar el valor numérico de la carga elemental, e, en 1,602 176 634 × 10−19, cuando se expresa en la unidad C, igual a A·s, donde el segundo se define en función de ∆νCs.
+
+De la relación exacta e = 1,602 176 634 × 10−19 A·s se obtiene la expresión para la unidad amperio en función de las constantes e y ∆νCs:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/119/04707_5335.png)
+
+El efecto de esta definición es que el amperio es la corriente eléctrica correspondiente al flujo de 1/(1,602 176 634 × 10−19) = 6,241 509 074 × 1018 cargas elementales por segundo.
+
+2.5 El kelvin, símbolo K, es la unidad SI de temperatura termodinámica. Se define al fijar el valor numérico de la constante de Boltzmann, k, en 1,380 649 × 10−23, cuando se expresa en la unidad J·K-1, igual a kg·m2·s- 2·K-1, donde el kilogramo, el metro y el segundo se definen en función de h, c y ∆νCs.
+
+De la relación exacta k = 1,380 649 × 10−23 kg·m2·s−2·K−1 se obtiene la expresión para el kelvin en función de las constantes k, h y ∆νCs:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/119/04707_5376.png)
+
+El efecto de esta definición es que el kelvin es igual a la variación de temperatura termodinámica que da lugar a una variación de energía térmica kT de 1,380 649 × 10−23 J.
+
+2.6 El mol, símbolo mol, es la unidad SI de cantidad de sustancia. Un mol contiene exactamente 6,022 140 76 × 1023 entidades elementales. Esta cifra es el valor numérico fijo de la constante de Avogadro, NA, cuando se expresa en la unidad mol-1, y se denomina número de Avogadro.
+
+La cantidad de sustancia, símbolo n, de un sistema, es una medida del número de entidades elementales especificadas. Una entidad elemental puede ser un átomo, una molécula, un ion, un electrón, o cualquier otra partícula o grupo especificado de partículas.
+
+De la relación exacta NA = 6,022 140 76 × 1023 mol−1 se obtiene el mol en función de la constante NA:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/119/04707_5423.png)
+
+El efecto de esta definición es que el mol es la cantidad de sustancia de un sistema que contiene 6,022 140 76 × 1023 entidades elementales especificadas.
+
+2.7 La candela, símbolo cd, es la unidad SI de intensidad luminosa en una dirección dada. Se define al fijar el valor numérico de la eficacia luminosa de la radiación monocromática de frecuencia 540 × 1012 Hz, Kcd, en 683, cuando se expresa en la unidad lm·W−1, unidad igual a cd·sr·W−1, o a cd·sr·kg−1·m−2·s3, donde el kilogramo, el metro y el segundo se definen en función de h, c y ∆νCs.
+
+De la relación exacta Kcd = 683 cd·sr·kg−1·m−2·s3 se obtiene la expresión para la candela:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/119/04707_5466.png)
+
+o bien, expresando kg, m y s en función de las constantes h y ∆νCs:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/119/04707_5511.png)
+
+El efecto de esta definición es que la candela es la intensidad luminosa, en una dirección dada, de una fuente que emite radiación monocromática de frecuencia 540 × 1012 Hz y tiene una intensidad radiante en esa dirección de (1/683) W/sr.
+
+> Se modifica el apartado 2 por el art. único.1 del Real Decreto 493/2020, de 28 de abril. Ref. BOE-A-2020-4707
 
 > Redactado todo el capítulo I conforme a la corrección de errores publicada en BOE núm. 43, de 18 de febrero de 2010. Ref. BOE-A-2010-2625.
