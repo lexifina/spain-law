@@ -1,0 +1,1 @@
+Téngase en cuenta la Resolución de 1 de mayo de 2020, de la Secretaría de Estado de Transportes, Movilidad y Agenda Urbana, por la que se publica el Convenio con el Instituto de Crédito Oficial E.P.E., para la gestión de los avales y de la subvención de gastos e intereses por parte del Estado a arrendatarios en la "Línea de avales de arrendamiento COVID-19". Ref. BOE-A-2020-4786
