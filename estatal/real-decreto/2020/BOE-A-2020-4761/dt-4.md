@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Régimen transitorio de la Comisión Interministerial para la Ordenación Alimentaria.
+
+La Comisión Interministerial para la Ordenación Alimentaria continuará funcionando con arreglo a lo dispuesto en el Real Decreto 1456/1982, de 18 de junio, por el que se regula la Comisión Interministerial para la Ordenación Alimentaria hasta tanto se lleve a cabo la adaptación normativa prevista en la disposición adicional quinta. Corresponde al Presidente de la Agencia Española de Seguridad Alimentaria y Nutrición la Presidencia de la Comisión Ministerial para la Ordenación Alimentaria.

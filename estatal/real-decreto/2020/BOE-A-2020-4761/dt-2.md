@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Órganos Colegiados de Contratación.
+
+Sin perjuicio de lo dispuesto en la disposición transitoria primera acerca de la subsistencia de Unidades y puestos de trabajo y hasta tanto se creen los correspondientes órganos de contratación y asistencia de conformidad con lo dispuesto en los artículos 323 y 326 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, adaptados a la estructura establecida en el presente real decreto y en relación con la Dirección General de Ordenación del Juego, continuarán desempeñando sus funciones aquellos órganos colegiados que venían ejerciéndolas en el Ministerio de Hacienda.

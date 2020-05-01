@@ -1,0 +1,1 @@
+Norma derogada en lo que se oponga, y, en particular, las disposiciones que se refieren a la Dirección General de Ordenación del Juego, por la disposición derogatoria única del Real Decreto 495/2020, de 28 de abril. Ref. BOE-A-2020-4761#dd

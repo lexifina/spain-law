@@ -40,6 +40,8 @@ q) La Dirección General de Consumo.
 
 r) La Dirección General de Diversidad Familiar y Servicios Sociales.
 
+s) La Dirección General de Ordenación del Juego.
+
 2. De conformidad con lo previsto en el segundo párrafo del artículo 100.1 en relación con el artículo 66.2 de la Ley 40/2015, de 1 de octubre, no será preciso que las personas titulares de los máximos órganos de dirección de los organismos autónomos y entidad gestora de la Seguridad Social que se relacionan a continuación, ostenten la condición de funcionario, en atención a sus características específicas:
 
 a) Dirección General del Instituto de Turismo de España (TURESPAÑA) (O.A.).
@@ -51,5 +53,7 @@ c) Presidencia del Centro de Investigaciones Sociológicas.
 d) Dirección General del Instituto de Mayores y Servicios Sociales.
 
 e) Dirección General del Instituto de la Juventud.
+
+> Se añade el apartado 1.s) por la disposición final 5 del Real Decreto 495/2020, de 28 de abril. Ref. BOE-A-2020-4761#df-5
 
 > Se añade el apartado 1.r) por la disposición final 1 del Real Decreto 452/2020, de 10 de marzo. Ref. BOE-A-2020-3512#df
