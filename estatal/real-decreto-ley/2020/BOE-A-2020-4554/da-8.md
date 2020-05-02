@@ -23,3 +23,5 @@ Con entrada en vigor en la fecha que se determine en el Real decreto por el que 
 10. El reconocimiento de obligación y propuesta de pago de las pensiones cuya propuesta de pago viene realizando, hasta la fecha de entrada en vigor de esta norma, la Dirección General de Costes de Personal con cargo a la sección 07.
 
 11. El reconocimiento de obligación y propuesta de pago del capital coste de las pensiones extraordinarias por terrorismo previstas en el Real Decreto 1576/1990, de 7 de diciembre, por el que se regula la concesión en el sistema de la Seguridad Social de pensiones extraordinarias motivadas por acto de terrorismo.
+
+> Téngase en cuenta que el 6 de octubre de 2020 será la fecha de la adaptación normativa a la que se refiere la presente disposición, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril, por el que se desarrolla la estructura orgánica básica del Ministerio de Inclusión, Seguridad Social y Migraciones. Ref. BOE-A-2020-4763#dt-2

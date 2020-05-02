@@ -17,3 +17,5 @@ Con entrada en vigor en la fecha que se determine en el Real decreto por el que 
 Corresponde a los órganos competentes del Ministerio de Defensa la resolución de los expedientes de insuficiencia de condiciones psicofísicas del personal militar, con la correspondiente declaración de pase a retiro, resolución del compromiso o utilidad con limitaciones para determinados destinos, incluidos los que sean en acto de servicio o a consecuencia de atentado terrorista, así como la declaración de pase a retiro del personal militar de conformidad con la legislación militar vigente.
 
 Asimismo, toda referencia de contenido presupuestario debe entenderse realizada a los presupuestos de la Seguridad Social.
+
+> Téngase en cuenta que el 6 de octubre de 2020 será la fecha de la adaptación normativa a la que se refiere la presente disposición, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril, por el que se desarrolla la estructura orgánica básica del Ministerio de Inclusión, Seguridad Social y Migraciones. Ref. BOE-A-2020-4763#dt-2

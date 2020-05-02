@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 284, de 24 de noviembre de 2018. Ref. BOE-A-2018-16039
+Norma derogada, con efectos de 2 de mayo de 2020, por la disposición derogatoria única del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dd y por la derogatoria única del Real Decreto 499/2020, de 28 de abril. Ref. BOE-A-2020-4765#dd

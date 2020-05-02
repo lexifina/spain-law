@@ -105,3 +105,5 @@ Trece. El apartado 2 de la disposición adicional decimoctava queda redactado de
 «2. El complemento por maternidad se reconocerá por el Instituto Nacional de la Seguridad Social. No obstante, la competencia para el abono corresponderá en todo caso a la Tesorería General de la Seguridad Social.
 
 El complemento por maternidad en ningún caso formará parte de la pensión de jubilación o retiro a efectos de la determinación de la base reguladora en el reconocimiento de pensiones en favor de los familiares del personal comprendido en el ámbito de aplicación de este texto refundido».
+
+> Téngase en cuenta que el 6 de octubre de 2020 será la fecha de entrada en vigor de la modificación del texto refundido de la Ley de Clases Pasivas del Estado, aprobado por Real Decreto Legislativo 670/1987, de 30 de abril, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril, por el que se desarrolla la estructura orgánica básica del Ministerio de Inclusión, Seguridad Social y Migraciones. Ref. BOE-A-2020-4763#dt-2

@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Unidades y puestos de trabajo con nivel orgánico inferior a subdirección general.
+
+Las unidades y puestos de trabajo con nivel orgánico inferior al de subdirección general, encuadrados en los órganos afectados por las modificaciones orgánicas establecidas en este Real Decreto, continuarán subsistentes y serán retribuidos con cargo a los mismos créditos presupuestarios, hasta que se aprueben las relaciones de puestos de trabajo adaptadas a la estructura orgánica establecida en este Real Decreto y se produzca la efectiva distribución de los créditos presupuestarios.

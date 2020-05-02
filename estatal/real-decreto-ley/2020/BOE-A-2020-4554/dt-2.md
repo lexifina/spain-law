@@ -13,3 +13,5 @@ Asimismo, y hasta que se produzca la asunción de la gestión por el Instituto N
 4. Durante el citado periodo transitorio, toda reclamación económica en relación con el referido Régimen será competencia de la Dirección General de Ordenación de la Seguridad Social y del Tesoro Público.
 
 5. A los procedimientos iniciados en la Dirección General de Personal del Ministerio de Defensa en la fecha que se determine en el Real decreto por el que se desarrolla la estructura orgánica básica del Ministerio de Inclusión, Seguridad Social y Migraciones, no les será de aplicación lo previsto en este real decreto-ley, rigiéndose por la normativa anterior.
+
+> Téngase en cuenta que el 6 de octubre de 2020 será la fecha de entrada en vigor de la modificación del texto refundido de la Ley de Clases Pasivas del Estado, aprobado por Real Decreto Legislativo 670/1987, de 30 de abril, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril, por el que se desarrolla la estructura orgánica básica del Ministerio de Inclusión, Seguridad Social y Migraciones. Ref. BOE-A-2020-4763#dt-2.

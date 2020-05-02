@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Órganos de asistencia en la contratación.
+
+Sin perjuicio de lo establecido en la disposición transitoria primera acerca de la subsistencia de unidades y puestos de trabajo, y hasta tanto se creen los órganos de contratación y asistencia de conformidad con lo dispuesto en los artículos 323 y 326 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, adaptados a la estructura establecida en el presente Real Decreto, mantendrán su composición y continuarán desempeñando sus funciones aquellos que venían ejerciéndolas en relación con las materias propias de este Departamento.
