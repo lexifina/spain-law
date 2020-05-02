@@ -1,3 +1,1 @@
-El Presidente del Instituto Nacional de Estadística y el Director General de Coordinación de Competencias con las Comunidades Autónomas y las Entidades Locales han acordado, con fecha 30 de enero de 2015, una Resolución por la que se dictan instrucciones técnicas a los Ayuntamientos sobre la gestión del padrón municipal.
-
-Para general conocimiento, se dispone su publicación como anejo a la presente resolución.
+Norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, publicada por Resolución de 29 de abril de 2020, de la Subsecretaría, en el «BOE» de 2 de mayo de 2020. Ref. BOE-A-2020-4784#A15
