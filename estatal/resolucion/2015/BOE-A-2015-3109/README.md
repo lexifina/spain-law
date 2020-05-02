@@ -8,31 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2020-05-02 by BOE-A-2020-4784. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no](no.md)
-- [pr](pr.md)
-- [(firma)](fi.md)
-- [ANEXO](an.md)
-- [1](A1.md)
-- [2](A2.md)
-- [3](A3.md)
-- [4](A4.md)
-- [5](A5.md)
-- [6](A6.md)
-- [7](A7.md)
-- [8](A8.md)
-- [9](A9.md)
-- [10](A10.md)
-- [11](A11.md)
-- [12](A12.md)
-- [13](A13.md)
-- [14](A14.md)
-- [15](A15.md)
-- [fi-2](fi-2.md)
-- [ANEXO I](ai.md)
-- [ANEXO II](ai-2.md)
-- [ANEXO III](ai-3.md)
-- [ANEXO IV](ai-4.md)
-- [ANEXO V](av.md)
-- [ANEXO VI](av-2.md)
+- [BOE publisher notice](no.md)
