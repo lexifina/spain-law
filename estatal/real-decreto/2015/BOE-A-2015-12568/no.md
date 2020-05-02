@@ -1,0 +1,1 @@
+Téngase en cuenta que las referencias que en esta norma se realizan a las Consejerías de Empleo y Seguridad Social se entenderán hechas a las Consejerías de Trabajo, Migraciones y Seguridad Social, según establece la disposición final 2.6 del Real Decreto 499/2020, de 28 de abril. Ref. BOE-A-2020-4765#df-2
