@@ -1,0 +1,7 @@
+Como consecuencia de la crisis del COVID-19, ha sido publicado el Reglamento (UE) 2020/560 del Parlamento Europeo y del Consejo de 23 de abril de 2020 por el que se modifican los Reglamentos (UE) n.º 508/2014 y (UE) n.º 1379/2013 en relación con medidas específicas para atenuar el impacto del brote de COVID-19 en el sector de la pesca y la acuicultura, al objeto de que las organizaciones de productores puedan recibir apoyo financiero por la aplicación del almacenamiento durante el período del 1 de febrero al 31 de diciembre de 2020.
+
+El artículo 31.4 del Reglamento de la OCM, establece que los Estados miembros, previo examen de las propuestas de las organizaciones de productores reconocidas en sus respectivos territorios, determinarán los precios de activación que deberán aplicar las organizaciones de productores en el caso de utilizar el mecanismo de almacenamiento previsto en su artículo 30.
+
+La presente Resolución procede a establecer nuevos precios complementarios a la Resolución de 23 de abril de 2020, de la Secretaría General de Pesca, por la que se publican los precios de activación y los costes técnicos y financieros para 2020, del mecanismo de almacenamiento previsto en la organización común de mercados en el sector de los productos de la pesca y de la acuicultura.
+
+Esta Secretaría General de Pesca, una vez oído al sector interesado, resuelve:
