@@ -1,0 +1,1 @@
+Téngase en cuenta que el presente Convenio extiende su vigencia durante el plazo de tres meses desde su fecha, prorrogable por un idéntico periodo tras acuerdo de la Comisión de Seguimiento del Convenio, según establece su cláusula décima, por lo que debe entenderse que ha perdido su vigencia.
