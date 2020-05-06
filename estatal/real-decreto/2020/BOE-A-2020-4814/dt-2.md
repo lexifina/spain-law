@@ -1,0 +1,11 @@
+## Disposición transitoria segunda. Unidades y puestos de trabajo con nivel orgánico inferior a subdirección general.
+
+1. Las unidades y puestos de trabajo con nivel orgánico inferior al de subdirección general, encuadrados en los órganos suprimidos por este real decreto, continuarán subsistentes y serán retribuidos con cargo a los mismos créditos presupuestarios, hasta que se aprueben las relaciones de puestos de trabajo adaptadas a la estructura orgánica de este real decreto. Dicha adaptación en ningún caso podrá generar incremento de gasto público.
+
+2. Hasta tanto entre en vigor la nueva relación de puestos de trabajo, las unidades y puestos de trabajo encuadrados en los órganos suprimidos por este real decreto se adscribirán provisionalmente mediante resolución del titular de la Subsecretaría a los órganos regulados en éste, en función de las atribuciones que aquéllos tengan asignadas.
+
+3. Por resolución conjunta de las Subsecretarías para la Transición Ecológica y el Reto Demográfico y de Agricultura, Pesca y Alimentación, se arbitrarán las medidas precisas para traspasar al Ministerio para la Transición Ecológica y el Reto Demográfico las unidades y puestos de trabajo inferiores a subdirección general adscritos a la extinta Subdirección General de Política Forestal, así como, con arreglo a los criterios de proporcionalidad que resulten de aplicación, los medios materiales del Ministerio de Agricultura, Pesca, Alimentación necesarios para el ejercicio de la política forestal
+
+4. El Ministerio de Agricultura, Pesca y Alimentación continuará colaborando y prestando soporte para el normal desarrollo de las responsabilidades de la Subdirección General de Política Forestal y Lucha contra la Desertificación hasta que se apruebe la nueva relación de puestos de trabajo del Ministerio para la Transición Ecológica y el Reto Demográfico por parte de los Ministerios de Política Territorial y Función Pública y de Hacienda.
+
+5. Por resolución conjunta de las Subsecretarías para la Transición Ecológica y el Reto Demográfico y de Política Territorial y Función Pública, se arbitrarán las medidas precisas para distribuir, las unidades y puestos de trabajo inferiores a subdirección general adscritos al extinto Comisionado del Gobierno frente al Reto Demográfico.

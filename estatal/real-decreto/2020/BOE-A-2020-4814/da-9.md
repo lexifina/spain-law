@@ -1,0 +1,3 @@
+## Disposición adicional novena. Consejerías del Ministerio para la Transición Ecológica y el Reto Demográfico en el exterior.
+
+En el marco de la Ley 2/2014, de 25 de marzo, de Acción y del Servicio Exterior del Estado, y dependientes de la Subsecretaría para la Transición Ecológica y el Reto Demográfico existirán Consejerías de Energía y Consejerías de Medio Ambiente como órganos especializados de carácter técnico de las Representaciones Permanentes de España para el desarrollo de las funciones propias del Ministerio en el ámbito internacional. A estos efectos, le serán adscritas aquellas Consejerías de Medio Ambiente y Consejerías de Energía en el exterior cuyas funciones estuvieran vinculadas a materias propias de este Departamento.

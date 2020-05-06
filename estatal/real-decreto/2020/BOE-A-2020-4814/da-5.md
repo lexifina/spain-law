@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Consolidación de las Unidades TIC.
+
+1. En el ejercicio de las funciones de impulso, coordinación y racionalización de la política en materia de tecnologías de la información y comunicaciones del Ministerio y de sus diferentes organismos, la División de Sistemas y Tecnologías de la Información y de las Comunicaciones del Ministerio para la Transición Ecológica y el Reto Demográfico promoverá, en colaboración con las Unidades competentes de los organismos públicos adscritos, la consolidación de los recursos humanos, económico-presupuestarios, técnicos y materiales vinculados.
+
+2. Asimismo, con el fin de racionalizar el gasto y garantizar la no interrupción de los servicios básicos, se mantendrán los recursos TIC previamente consolidados en las unidades TIC de origen y con independencia del Departamento al que estén adscritos, articulándose los acuerdos de colaboración que resulten necesarios para la prestación de los servicios, hasta que puedan ser asumidos por el correspondiente Departamento.

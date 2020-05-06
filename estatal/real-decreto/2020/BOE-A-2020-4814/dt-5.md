@@ -1,0 +1,5 @@
+## Disposición transitoria quinta. Integración de personal y medios prevista en la disposición adicional sexta de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia.
+
+1. Hasta que no se produzca la integración de personal y medios prevista en la disposición adicional sexta de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, y de conformidad con lo dispuesto en la disposición transitoria cuarta de la misma Ley 3/2013, de 4 de junio, tales funciones seguirán siendo desempeñadas por la Comisión Nacional de los Mercados y la Competencia.
+
+2. Por orden de la Ministra de la Presidencia, Relaciones con las Cortes y Memoria Democrática, a propuesta de las Ministras para la Transición Ecológica y el Reto Demográfico, de la Ministra de Asuntos Económicos y Transformación Digital, y de la Ministra de Hacienda, se determinará la fecha de inicio del ejercicio efectivo de las funciones atribuidas al Ministerio para la Transición Ecológica y el Reto Demográfico por la citada Ley 3/2013, de 4 de junio.

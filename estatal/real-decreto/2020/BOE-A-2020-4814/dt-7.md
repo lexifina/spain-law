@@ -1,0 +1,5 @@
+## Disposición transitoria séptima. Ejercicio de las funciones de Autoridad Administrativa principal y órgano de gestión principal CITES.
+
+La Dirección General de Política Comercial y Competitividad del Ministerio de Industria, Comercio y Turismo, seguirá ejerciendo las funciones de Autoridad Administrativa principal del Convenio CITES y órgano de gestión principal del Convenio CITES establecidas en el artículo 9.1 j), hasta que entre en vigor la preceptiva modificación del Real Decreto 1739/1997, de 20 de noviembre, sobre medidas de aplicación del Convenio sobre Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres (CITES).
+
+Asimismo, para dar cumplimiento a lo previsto en el párrafo anterior, se constituirá un grupo de trabajo con participación de representantes de los órganos superiores y directivos de los Ministerios de Industria, Comercio y Turismo y para la Transición Ecológica y el Reto Demográfico, junto con los de las restantes autoridades previstas en el Real Decreto 1739/1997, de 20 de noviembre, que puedan ser convocados en razón de los asuntos que se vayan a tratar.

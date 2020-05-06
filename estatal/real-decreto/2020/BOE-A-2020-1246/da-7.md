@@ -54,6 +54,10 @@ d) Dirección General del Instituto de Mayores y Servicios Sociales.
 
 e) Dirección General del Instituto de la Juventud.
 
+f) Dirección General del Instituto para la Transición Justa.
+
+> Se modifica el apartado 2 por la disposición final 1 del Real Decreto 500/2020, de 28 de abril de 2020. Ref. BOE-A-2020-4814#df
+
 > Se añade el apartado 1.s) por la disposición final 5 del Real Decreto 495/2020, de 28 de abril. Ref. BOE-A-2020-4761#df-5
 
 > Se añade el apartado 1.r) por la disposición final 1 del Real Decreto 452/2020, de 10 de marzo. Ref. BOE-A-2020-3512#df
