@@ -1,0 +1,5 @@
+## Sexto.
+
+En el proceso de desescalada de las medidas adoptadas como consecuencia de la emergencia sanitaria causada por el COVID-19, el Gobierno podrá acordar conjuntamente con cada Comunidad Autónoma la modificación, ampliación o restricción de las unidades de actuación y las limitaciones respecto a la libertad de circulación de las personas, de las medidas de contención y de las de aseguramiento de bienes, servicios, transportes y abastecimientos, con el fin de adaptarlas mejor a la evolución de la emergencia sanitaria en cada Comunidad Autónoma.
+
+En caso de acuerdo, estas medidas serán aplicadas por quien ostente la Presidencia de la Comunidad Autónoma, como representante ordinario del Estado en el territorio.
