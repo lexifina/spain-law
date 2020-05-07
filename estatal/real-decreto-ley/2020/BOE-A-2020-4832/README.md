@@ -14,6 +14,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [(preambulo)](pr.md)
 - [CAPÍTULO I](ci.md)
 - [Artículo 1](a1.md)
+- [Artículo 2](a2.md)
 - [CAPÍTULO II](ci-2.md)
 - [Artículo 3](a3.md)
 - [Artículo 4](a4.md)
