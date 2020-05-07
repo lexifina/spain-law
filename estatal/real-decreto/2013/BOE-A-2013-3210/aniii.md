@@ -16,7 +16,7 @@
 
 1.f) Para usos especiales: 5 mg.
 
-1.g) Para usos generales de alumbrado, < 30W con una vida útil igual o superior a 20.000 h: 3,5 mg. Expira el 31 de diciembre de 2017.
+1.g) Para usos generales de alumbrado, < 30 W con una vida útil igual o superior a 20.000 h: 3,5 mg. Expira el 31 de diciembre de 2017.
 
 2.a) Mercurio en lámparas fluorescentes lineales de casquillo doble para usos generales de alumbrado sin sobrepasar (por lámpara):
 
@@ -126,7 +126,7 @@ Con respecto a los instrumentos industriales de vigilancia y control de la categ
 
 7.c) 1.º Componentes eléctricos y electrónicos que contengan plomo en un vidrio o cerámica de un tipo distinto de la cerámica dieléctrica de condensadores, por ejemplo, dispositivos piezoelectrónicos, o en un compuesto de matrices de vidrio o cerámica. Se aplica a las categorías 1 a 7 y 10, salvo las aplicaciones que recoge el punto 34, y expira el 21 de julio de 2021. Para las categorías 8 y 9 distintas de los productos sanitarios para diagnóstico in vitro y los instrumentos industriales de vigilancia y control expira el 21 de julio de 2021. Con respecto a los productos sanitarios para diagnóstico in vitro de la categoría 8 expira el 21 de julio de 2023. Con respecto a los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11, expira el 21 de julio de 2024.
 
-2.º Plomo en cerámica dieléctrica de condensadores para una tensión nominal de 125 V CA o 250 V CC o superior. No se aplica a las aplicaciones contempladas en el punto 7.c) 1.º y 7.c) 4.º del presente anexo. Expira el:
+2.º Plomo en cerámica dieléctrica de condensadores para una tensión nominal de 125 V CA o 250 V CC o superior. No se aplica a las aplicaciones contempladas en el punto 7.c).1.º y 7.c).4.º del presente anexo. Expira el:
 
 – 21 de julio de 2021 en el caso de las categorías 1 a 7 y 10,
 
@@ -180,9 +180,7 @@ Se aplica a las categorías 1, 7 y 10 y expira el 21 de julio de 2021.
 
 9.a) Cromo hexavalente como protección anticorrosiva para los sistemas de refrigeración de acero al carbono en frigoríficos de absorción, hasta un máximo del 0,75 % en peso en la solución refrigerante.
 
-9.b) 1.º Plomo en cojinetes y pistones para compresores que contienen refrigerante para aplicaciones de calefacción, ventilación, acondicionamiento de aire y refrigeración (HVACR).
-
-Se aplica a las categorías 8, 9 y 11; expira el:
+9.b) 1.º Plomo en cojinetes y pistones para compresores que contienen refrigerante para aplicaciones de calefacción, ventilación, acondicionamiento de aire y refrigeración (HVACR). Se aplica a las categorías 8, 9 y 11; expira el:
 
 – 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8.
 
@@ -234,9 +232,9 @@ Se aplica a las categorías 8, 9 y 11; expira el:
 
 – un nodo tecnológico semiconductor de 90 nm o más,
 
-– un cubo único de 300 mm2 o mayor en cualquier nodo tecnológico semiconductor,
+– un cubo único de 300 mm² o mayor en cualquier nodo tecnológico semiconductor,
 
-– cápsulas de cubos apilados con cubo de 300 mm2 o mayor, o interponedores de silicio de 300 mm2 o mayores.
+– cápsulas de cubos apilados con cubo de 300 mm² o mayor, o interponedores de silicio de 300 mm² o mayores.
 
 Se aplica a las categorías 1 a 7 y 10 y expira el 21 de julio de 2021.
 
@@ -344,7 +342,7 @@ Se aplica a las categorías 1 a 7 y 10 y expira el 21 de julio de 2021.
 
 38. Cadmio y óxido de cadmio en las pastas de película gruesa utilizadas en el óxido de berilio aleado con aluminio.
 
-39. El uso de seleniuro de cadmio en puntos cuánticos de nanocristales semiconductores a base de cadmio para reducir la frecuencia fotónica que se emplean en aplicaciones de iluminación de pantallas (<0,2 μg de Cd por mm2 de superficie de pantalla de visualización). Expira para todas las categorías el 31 de octubre de 2019.
+39. El uso de seleniuro de cadmio en puntos cuánticos de nanocristales semiconductores a base de cadmio para reducir la frecuencia fotónica que se emplean en aplicaciones de iluminación de pantallas (< 0,2 μg de Cd por mm2 de superficie de pantalla de visualización). Expira para todas las categorías el 31 de octubre de 2019.
 
 40. Cadmio en fotorresistencias para optoacopladores analógicos utilizados en equipos de audio profesionales. Expira el 31 de diciembre de 2013.
 
@@ -357,6 +355,22 @@ Se aplica a las categorías 1 a 7 y 10 y expira el 21 de julio de 2021.
 – cuando el motor presenta una cilindrada total < 15 litros y está diseñado para funcionar en aplicaciones en las que el tiempo transcurrido entre la señal de inicio y la plena carga deba ser inferior a 10 segundos, o cuando se realiza un mantenimiento periódico en entornos exteriores sucios y difíciles, por ejemplo en aplicaciones destinadas a la minería, la construcción y la agricultura.
 
 Se aplica a la categoría 11, y quedan excluidas las aplicaciones recogidas en la exención 6.c) del presente anexo. Expira el 21 de julio de 2024.
+
+43. Ftalato de bis(2-etilhexilo) en componentes de caucho de los sistemas de motor diseñados para su utilización en equipos que no estén destinados exclusivamente para uso de los consumidores y a condición de que ningún material plastificado entre en contacto con las mucosas humanas o en contacto prolongado con la piel humana y de que el valor de concentración del ftalato de bis(2-etilhexilo) no exceda:
+
+a) el 30 % en peso del caucho para i) recubrimientos de juntas, ii) juntas de caucho macizo, o iii) componentes de caucho incluidos en conjuntos formados al menos por tres componentes que utilicen energía eléctrica, mecánica o hidráulica para funcionar, y que estén fijados al motor;
+
+b) el 10 % en peso del caucho de los componentes que contengan caucho no mencionados en la letra a).
+
+A efectos de la presente entrada, se entenderá por «contacto prolongado con la piel humana» el contacto continuo de una duración superior a 10 minutos o el contacto intermitente durante un período de 30 minutos, al día
+
+Se aplica a la categoría 11 y expira el 21 de julio de 2024.
+
+44. Plomo en pastas de soldadura de sensores, actuadores y unidades de control del motor de combustión en el ámbito de aplicación del Reglamento (UE) 2016/1628 del Parlamento Europeo y del Consejo, de 14 de septiembre de 2016, sobre los requisitos relativos a los límites de emisiones de gases y partículas contaminantes y a la homologación de tipo para los motores de combustión interna que se instalen en las máquinas móviles no de carretera, por el que se modifican los Reglamentos (UE) n.º 1024/2012 y (UE) n.º 167/2013, y por el que se modifica y deroga la Directiva 97/68/CE instalados en equipos utilizados en posiciones fijas durante su funcionamiento que se han diseñado para profesionales, pero que también utilizan usuarios no profesionales.
+
+Se aplica a la categoría 11 y expira el 21 de julio de 2024.
+
+> Se modifica por el art. único de la Orden PCM/390/2020, de 5 de mayo. Ref. BOE-A-2020-4836
 
 > Se modifica por el art. único de la Orden PCI/962/2019, de 20 de septiembre. Ref. BOE-A-2019-13515
 
