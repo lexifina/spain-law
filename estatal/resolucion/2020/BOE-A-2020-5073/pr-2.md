@@ -1,0 +1,3 @@
+## Primero.
+
+Ampliar el plazo de ejecución de los créditos distribuidos, con cargo a los Presupuestos Generales del Estado 2019, para financiar las actuaciones de los Programas de Cooperación Territorial 2019, una vez finalizado el plazo legal del período de vigencia del estado de alarma, establecido por el Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la crisis sanitaria ocasionada por el COVID-19, y sus prórrogas en todo el territorio nacional, en dos meses. A este plazo de ejecución, se le añadirá el de tres meses para el período de justificación de los fondos librados por el Ministerio de Educación y Formación Profesional.
