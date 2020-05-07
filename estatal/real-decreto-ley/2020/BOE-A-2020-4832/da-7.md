@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Función social de las entidades de gestión de derechos de propiedad intelectual.
+
+Durante un plazo de dos años a partir de la entrada en vigor del presente real decreto-ley no serán de aplicación los porcentajes mínimos previstos en el artículo 177.6 del texto refundido de la Ley de Propiedad Intelectual, aprobado por Real Decreto Legislativo 1/1996, de 12 de abril, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia. Durante dicho periodo de tiempo, la asamblea general de una entidad de gestión de derechos de propiedad intelectual podrá modificar dichos porcentajes con el fin de incrementar aquellos destinados a la realización de actividades asistenciales a favor de los miembros de la entidad.

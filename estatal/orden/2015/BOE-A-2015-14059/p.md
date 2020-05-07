@@ -1,1 +1,3 @@
 Norma derogada, con efectos de 20 de julio de 2018, por la disposición derogatoria única de la Orden CUD/769/2018, de 17 de julio, Ref. BOE-A-2018-10176#dd, sin perjuicio de lo establecido en la disposición transitoria primera de la misma.
+
+Téngase en cuenta la ampliación de plazos para el cumplimiento de obligaciones impuestas a películas beneficiarias de ayudas concedidas en el período 2016 a 2019, establecida en el art. 5 del Real Decreto-ley 17/2020, de 5 de mayo, así como las medidas para flexibilizar el cumplimiento de determinadas obligaciones que deban realizarse en el año 2020, establecidas en el art. 6 del citado Real Decreto-ley. Ref. BOE-A-2020-4832#a5

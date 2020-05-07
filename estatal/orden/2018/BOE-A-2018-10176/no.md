@@ -1,1 +1,3 @@
+Téngase en cuenta la ampliación de plazos para el cumplimiento de obligaciones impuestas a películas beneficiarias de ayudas concedidas en el periodo 2016 a 2019, establecida en el art. 5 del Real Decreto-ley 17/2020, de 5 de mayo, así como las medidas para flexibilizar el cumplimiento de determinadas obligaciones que deban realizarse en el año 2020, establecidas en el art. 6 del citado Real Decreto-ley. Ref. BOE-A-2020-4832#a5
+
 > Incluye corrección de erratas publicada en BOE núm. 180, de 26 de julio de 2018. Ref. BOE-A-2018-10559 y corrección de errores publicada por Orden CUD/939/2018, de 10 de septiembre. Ref. BOE-A-2018-12504
