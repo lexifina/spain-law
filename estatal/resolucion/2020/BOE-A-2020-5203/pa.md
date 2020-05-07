@@ -1,0 +1,3 @@
+Suscrito el Convenio entre el Ministerio de Trabajo y Economía Social, el Servicio Público de Empleo Estatal y Unión Nacional de Cooperativas de Crédito para el anticipo de prestaciones por desempleo previamente reconocidas por el Servicio Público de Empleo Estatal, y en cumplimiento de lo dispuesto en el artículo 39.2 del Real Decreto-ley 8/2020, de 17 de marzo, de medidas urgentes extraordinarias para hacer frente al impacto económico y social del COVID-19, procede la publicación en el «Boletín Oficial del Estado» del citado Convenio, que figura como Anexo de esta Resolución.
+
+Lo que se hace público a los efectos oportunos.
