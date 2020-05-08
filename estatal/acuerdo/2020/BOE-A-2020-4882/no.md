@@ -1,0 +1,1 @@
+Téngase en cuenta que el presente Acuerdo se refiere al cómputo de los plazos suspendidos durante la vigencia del estado de alarma, declarado por el Real Decreto 463/2020, de 14 de marzo, que finalizó a las 00:00 horas del día 21 de junio de 2020, por lo que debe entenderse que ha agotado su vigencia.
