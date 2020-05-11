@@ -1,0 +1,3 @@
+## Disposición derogatoria tercera.
+
+Se derogan las condiciones para la prestación de los servicios aéreos en las rutas Palma de Mallorca-Menorca y Palma de Mallorca-Ibiza establecidas por Resolución la Dirección General de Aviación Civil, de fechas 20 de marzo 2020, 27 de marzo de 2020 y 8 de abril de 2020, respectivamente, desde el momento en que alguna compañía aérea inicie la operación de los servicios en las Islas Baleares previstos en esta orden. Hasta que esto suceda, se seguirán aplicando las condiciones de prestación de los servicios establecidas con anterioridad a la entrada en vigor de esta orden.

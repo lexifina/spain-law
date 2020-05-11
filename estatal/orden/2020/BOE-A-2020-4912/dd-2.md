@@ -1,0 +1,3 @@
+## Disposición derogatoria segunda.
+
+Se derogan las condiciones para la prestación de los servicios aéreos establecidas por Resolución de la Dirección General de Aviación Civil, de 10 de abril de 2020, por la que se establecen las condiciones para la prestación, y se adjudica de forma directa, el servicio de transporte aéreo en determinadas rutas aéreas del archipiélago canario durante el estado de alarma declarado con motivo del COVID-19, desde el momento en que alguna compañía aérea inicie la operación de los servicios en las Islas Canarias previstos en esta orden. Hasta que esto suceda, se seguirán aplicando las condiciones de prestación de los servicios establecidas con anterioridad a la entrada en vigor de esta orden.
