@@ -1,0 +1,3 @@
+## Cuarto. Continuación del plazo de reserva de plaza en el ciudad de Melilla.
+
+El plazo para realizar la reserva de plaza para aquellos alumnos que finalizan su escolarización en la etapa de Educación Primaria y deben acceder el próximo curso a la Educación Secundaria Obligatoria en la ciudad de Melilla, que fue paralizado con la declaración del estado de alarma en el momento en que se publicaron las listas provisionales de admitidos, será reactivado en ese momento del procedimiento. Para ello el Director Provincial acordará un plazo específico de reclamaciones y de publicación de listas definitivas.
