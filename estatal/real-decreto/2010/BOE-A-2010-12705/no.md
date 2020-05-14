@@ -1,1 +1,3 @@
-> Incluye la corrección de errores publicada en BOE núm. 226, de 17 de septiembre de 2010. Ref. BOE-A-2010-14223
+Norma derogada, con efectos de 14 de mayo de 2020, por la disposición derogatoria del Real Decreto 515/2020, de 12 de mayo. Ref. BOE-A-2020-4961#dd
+
+Téngase en cuenta la disposición transitoria única del citado Real Decreto, en cuanto a la prórroga de los certificados vigentes a la entrada en vigor del Real Decreto 515/2020.

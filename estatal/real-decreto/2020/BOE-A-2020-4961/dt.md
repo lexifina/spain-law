@@ -1,0 +1,3 @@
+## Disposición transitoria única. Prórroga de los certificados vigentes.
+
+Los certificados expedidos conforme al Real Decreto 931/2010, de 23 de julio, vigentes a la entrada en vigor de este real decreto, incluidos aquellos cuya vigencia hubiera sido prorrogada, seguirán en vigor en tanto se mantenga el cumplimiento de los requisitos exigidos para su expedición, hasta que la Agencia Estatal de Seguridad Aérea proceda a su sustitución por el certificado previsto en el anexo II, apéndice I, del Reglamento, cuando corresponda, a más tardar el 1 de enero de 2021. A partir de esta última fecha perderán su vigencia todos los certificados que no hayan sido expedidos conforme a lo previsto en el Reglamento.
