@@ -1,0 +1,9 @@
+El Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, establece una serie de medidas que afectan a los sectores industriales, que se consideran necesarias para combatir esta pandemia en España. En aplicación del artículo 10 del referido real decreto, las estaciones de Inspección Técnica de Vehículos (en adelante, ITV) en España han sido cerradas al público.
+
+El artículo 4.3 del Real Decreto 463/2020, de 14 de marzo, establece que los Ministros designados como autoridades competentes delegadas, entre ellas el Ministro de Sanidad, quedan habilitados para dictar las órdenes, resoluciones, disposiciones e instrucciones interpretativas que, en la esfera específica de su actuación, sean necesarias para garantizar la prestación de todos los servicios.
+
+En uso de dicha habilitación, se dictó la Orden SND/325/2020, de 6 de abril, por la que se establecen criterios interpretativos y se prorroga la validez de los certificados de verificaciones y mantenimientos preventivos establecidos en la regulación de seguridad industrial y metrológica, la cual ha establecido la prórroga automática de los certificados de inspección técnica de vehículos hasta los treinta días naturales posteriores a la finalización del estado de alarma y sus prórrogas.
+
+De acuerdo con lo anterior y con el objetivo de posibilitar la realización del elevado número de inspecciones técnicas periódicas de vehículos que han quedado pendientes tras la declaración del estado de alarma, de forma que puedan compatibilizarse con la ejecución de las inspecciones técnicas de vehículos cuya validez expira en los próximos meses, resulta necesario ampliar de modo escalonado la prórroga automática establecida en la Orden SND/325/2020, de 6 de abril, y adoptar medidas en relación con la cumplimentación de las tarjetas ITV.
+
+En su virtud, resuelvo:
