@@ -2,47 +2,43 @@
 
 ## Unidades Territoriales
 
-1. En la Comunidad Autónoma de Andalucía, las provincias de Almería, Córdoba, Cádiz, Huelva, Jaén y Sevilla.
+1. En la Comunidad Autónoma de Andalucía, las provincias de Almería, Córdoba, Cádiz, Granada, Huelva, Jaén, Málaga y Sevilla.
 
 2. En la Comunidad Autónoma de Aragón, las provincias de Huesca, Zaragoza y Teruel.
 
 3. En la Comunidad Autónoma del Principado de Asturias, toda la provincia de Asturias.
 
-4. En la Comunidad Autónoma de Illes Balears, las Islas de Mallorca, Menorca, Ibiza y Formentera.
+4. En la Comunidad Autónoma de Illes Balears, las islas de Mallorca, Menorca e Ibiza.
 
-5. En la Comunidad Autónoma de Canarias, las Islas de Tenerife, Gran Canaria, Lanzarote, Fuerteventura, La Palma, La Gomera, El Hierro y La Graciosa.
+5. En la Comunidad Autónoma de Canarias, las islas de Tenerife, Gran Canaria, Lanzarote, Fuerteventura y La Palma.
 
 6. En la Comunidad Autónoma de Cantabria, toda la provincia de Cantabria.
 
 7. En la Comunidad Autónoma de Castilla y León, las siguientes zonas básicas de salud:
 
-a) En la provincia de Ávila, la zona básica de salud de Muñico.
+a) En la provincia de Ávila, las zonas básicas de salud de Muñico, Mombeltrán, Madrigal de las Altas Torres y San Pedro Arroyo.
 
-b) En la provincia de Burgos, las zonas básicas de salud de Sedano, Valle de Losa, Quintanar de la Sierra, Espinosa de los Monteros, Pampliega y Valle de Mena.
+b) En la provincia de Burgos, las zonas básicas de salud de Sedano, Valle de Losa, Quintanar de la Sierra, Espinosa de los Monteros, Pampliega, Valle de Mena, Huerta de Rey, Melgar Fernamental, Valle Tobalina, Roa de Duero y Valle Valdebezana.
 
-c) En la provincia de León, las zonas básicas de salud de Truchas, Matallana de Torio y Riaño.
+c) En la provincia de León, las zonas básicas de salud de Truchas, Matallana de Torio, Riaño, Mansilla Mulas, Sahagún de Campos, Valderas, Bembibre, Cacabelos, Fabero, Puente Domingo Flórez, Toreno, Villablino, Villafranca del Bierzo, Ponferrada I, Ponferrada II, Ponferrada III y Ponferrada IV.
 
-d) En la provincia de Palencia, la zona básica de salud de Torquemada.
+d) En la provincia de Palencia, las zonas básicas de salud de Torquemada, Cervera de Pisuerga, Guardo, Paredes de Nava y Villamuriel de Cerrato.
 
-e) En la provincia Salamanca, las zonas básicas de salud de Robleda, Aldeadávila de la Ribera, Lumbrales y Miranda del Castañar.
+e) En la provincia Salamanca, las zonas básicas de salud de Robleda, Aldeadávila de la Ribera, Lumbrales, Miranda del Castañar, Calzada de Valdunciel, Cantalapiedra, Fuenteguinaldo, Peñaranda, Fuentes de Oñoro y Matilla Caños.
 
-f) En la provincia de Soria, la zona básica de salud de San Pedro Manrique.
+f) En la provincia de Segovia, las zonas básicas de salud de Sepúlveda y Navafría.
 
-g) En la provincia de Valladolid, las zonas básicas de salud de Alaejos, Mayorga de Campos y Esguevillas de Esgueva.
+g) En la provincia de Soria, las zonas básicas de salud de San Pedro Manrique, Berlanga de Duero y Olvega.
 
-h) En la provincia de Zamora, las zonas básicas de salud de Alta Sanabria, Carbajales de Alba, Tábara, Santibáñez de Vidriales, Alcañices (Aliste), Corrales del Vino y Villalpando.
+h) En la provincia de Valladolid, las zonas básicas de salud de Alaejos, Mayorga de Campos, Esguevillas de Esgueva, Mota del Marqués y Villafrechos.
 
-8. En la Comunidad Autónoma de Castilla-La Mancha, las provincias de Guadalajara y Cuenca.
+i) En la provincia de Zamora, las zonas básicas de salud de Alta Sanabria, Carbajales de Alba, Tábara, Santibáñez de Vidriales, Alcañices (Aliste), Corrales del Vino, Villalón de Campos, Villalpando, Camarzana de Tera, Villarín y Mombuey.
 
-9. En la Comunidad Autónoma de Cataluña, las regiones sanitarias de Camp de Tarragona, Alt Pirineu i Aran, y Terres de l’Ebre.
+8. En la Comunidad Autónoma de Castilla-La Mancha, las provincias de Guadalajara, Cuenca, Toledo, Albacete y Ciudad Real.
 
-10. En la Comunidad Valenciana, los siguientes departamentos de salud:
+9. En la Comunidad Autónoma de Cataluña, las regiones sanitarias de Camp de Tarragona, Alt Pirineu i Aran, Terres de l’Ebre, Girona, Lleida y Catalunya Central, así como las áreas de gestión asistencial del Alt Penedès y Garraf (región metropolitana Sud).
 
-a) En la provincia de Castellón/Castelló, Vinaròs.
-
-b) En la provincia de Valencia/València, Requena, Xàtiva-Ontinyent y Gandia.
-
-c) En la provincia de Alicante/Alacant, Alcoi, Dénia, La Marina Baixa, Elda, Orihuela y Torrevieja.
+10. En la Comunidad Valenciana, las provincias de Castellón/Castelló, Valencia/València, y Alicante/Alacant.
 
 11. En la Comunidad Autónoma de Extremadura, las provincias de Cáceres y Badajoz.
 
@@ -59,3 +55,5 @@ c) En la provincia de Alicante/Alacant, Alcoi, Dénia, La Marina Baixa, Elda, Or
 17. La Ciudad Autónoma de Ceuta.
 
 18. La Ciudad Autónoma de Melilla.
+
+> Se modifica por la disposición final 2.9 de la Orden SND/414/2020, de 16 de mayo. Ref. BOE-A-2020-5088#df-2
