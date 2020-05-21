@@ -246,20 +246,20 @@ Sede: Zaragoza
 
 Sede: Toledo
 
-| Estructura de la DD | Organización de la SDD | Ámbito Territorial | Observaciones |
+| Estructura de la DD | Organización de la SDD. | Ámbito Territorial | Observaciones |
 | --- | --- | --- | --- |
 | Secretaría General |  |  |  |
 | ASEJU |  |  |  |
-| SDD en Toledo | Área de Personal y apoyo social | Provincia de Toledo |  |
-| Área de Reclutamiento | Provincia de Toledo |  |
-| Área de Patrimonio | Provincias de Toledo, Ciudad Real y Guadalajara | PA, PD y V |
-| SDD en Albacete | Órgano de Apoyo |  |  |
-| Área de Personal y apoyo social | Provincia de Albacete |  |
-| Área de Patrimonio | Provincias de Albacete y Cuenca | PA, PD y V |
-| Área de Inspección Industrial | Provincias de Albacete, Ciudad Real, Valencia y Castellón |  |
-| SDD en Ciudad Real | Órgano de Apoyo |  |  |
-| SDD en Cuenca | Órgano de Apoyo |  |  |
-| SDD en Guadalajara | Órgano de Apoyo |  |  |
+| SDD en Toledo. | Área de Personal y apoyo social. | Provincia de Toledo. |  |
+| Área de Reclutamiento. | Provincia de Toledo. | Con CSEL |
+| Área de Patrimonio. | Provincias de Toledo, Ciudad Real y Guadalajara. | PA, PD y V |
+| SDD en Albacete. | Órgano de Apoyo. |  |  |
+| Área de Personal y apoyo social. | Provincia de Albacete. |  |
+| Área de Patrimonio. | Provincias de Albacete y Cuenca. | PA, PD y V |
+| Área de Inspección Industrial. | Provincias de Albacete, Ciudad Real, Valencia y Castellón. |  |
+| SDD en Ciudad Real. | Órgano de Apoyo. |  |  |
+| SDD en Cuenca. | Órgano de Apoyo. |  |  |
+| SDD en Guadalajara. | Órgano de Apoyo. |  |  |
 
 ## APÉNDICE 12
 
@@ -388,6 +388,8 @@ Sede: Melilla
 | SDD en Melilla | Área de Personal y apoyo social | Ciudad de Melilla |  |
 | Área de Reclutamiento | Ciudad de Melilla | Con CSEL |
 | Área de Patrimonio | Ciudad de Melilla | PA, PD y V |
+
+> Se modifica el epígrafe 11 por la Resolución 420/38123/2020,, de 19 de mayo. Ref. BOE-A-2020-5191
 
 > Se modifica por la Resolución 420/38168/2013, de 10 de diciembre. Ref. BOE-A-2013-13070.
 
