@@ -23,7 +23,7 @@
 | Complementaria de Resistencia (7). | H |  | 34′ | 33′ | 32′ | 31′ | 30′ |
 | M |  | 38′ | 37′ | 36′ | 35′ | 34′ |
 
-2. Para adquirir la condición de militar de complemento se exigirán las marcas correspondientes al primer curso.
+2. Para adquirir la condición de militar de complemento se exigirán las marcas correspondientes al primer curso, salvo para el acceso a los Cuerpos Generales de los Ejércitos y Armada y al Cuerpo de Infantería de Marina, que deberán superar las correspondientes al tercer curso, aplicándoseles también la prueba del circuito de agilidad.
 
 3. La prueba complementaria de resistencia (7), se podrá aplicar por parte de los Jefes de Estado Mayor, a aquellos Cuerpos o, en su caso, especialidades fundamentales que determinen. Su realización, no exime de la superación de la prueba de resistencia (4).
 
@@ -117,6 +117,8 @@ Se establecen las siguientes pruebas y marcas a alcanzar en cada una de ellas, p
 6. Circuito de agilidad (6). Consistirá en medir la agilidad de movimientos del aspirante mediante la realización de un circuito, cuya estructura será la que se determine en la correspondiente convocatoria.
 
 7. Complementaria de resistencia (7). Consistirá en la ejecución de una carrera de 6.000 metros lisos, se podrá realizar en pista de atletismo o sobre otra superficie de suficiente consistencia y en terreno sensiblemente llano, con señales que permitan al alumno el cálculo de la distancia pendiente de completar.
+
+> Se modifica el apartado 1.2 por la disposición final 2 de la Orden DEF/420/2020, de 14 de mayo. Ref. BOE-A-2020-5139#df-2
 
 > Se modifica el apartado 3 por el art. único.2 de la Orden DEF/176/2019, de 18 de febrero. Ref. BOE-A-2019-2634
 

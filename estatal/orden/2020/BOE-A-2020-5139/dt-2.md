@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Régimen transitorio.
+
+Los procesos de selección del año 2020 para la incorporación a las escalas de oficiales y a las escalas técnicas del Cuerpo de Ingenieros Politécnicos del Ejército de Tierra y de los Cuerpos de Ingenieros de la Armada y del Ejército del Aire, se regirán por la Orden 280/2001, de 27 de diciembre, por la que se aprueban las normas por las que han de regirse los procesos selectivos de acceso a las enseñanzas de formación para la incorporación a la Escala Superior de Oficiales y a la Escala Técnica de Oficiales de los Cuerpos de Ingenieros de los Ejércitos.
+
+Los procesos de selección del año 2020 para la adscripción como militar de complemento a las escalas de oficiales y a las escalas técnicas del Cuerpo de Ingenieros Politécnicos del Ejército de Tierra y de los Cuerpos de Ingenieros de la Armada y del Ejército del Aire, se regirán por la Orden DEF/1277/2002, de 22 de mayo, por la que se aprueban las normas por las que han de regirse los procesos selectivos de acceso a las enseñanzas de formación que capacitan para adquirir la condición de Militar de complemento adscrito a los cuerpos y escalas de los Cuerpos Específicos de los Ejércitos.
+
+En los procesos de selección del año 2020 para adscribirse como militar de complemento, en los Cuerpos Generales y de Infantería de Marina, será de aplicación lo establecido en las disposiciones final primera y segunda de esta orden ministerial.

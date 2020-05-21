@@ -1,21 +1,17 @@
 ## Sexta. Oposición.
 
-1. Para acceder a las enseñanzas de oficiales para integrarse en los Cuerpos Generales y de Infantería de Marina como militar de carrera, la oposición constará, para cada forma de ingreso y requisito de titulación, de las siguientes pruebas:
+1. Para acceder a las enseñanzas de oficiales, para integrarse como militar de carrera o adscribirse como militar de complemento, en los Cuerpos Generales y de Infantería de Marina, la oposición constará, para cada forma de ingreso y requisito de titulación, de las siguientes pruebas:
 
-a) Directo, sin y con exigencia de titulación universitaria: aptitud psicofísica y lengua inglesa.
+a) Directo, sin y con exigencia de titulación universitaria previa: aptitud psicofísica y lengua inglesa.
 
-b) Promoción para cambio de escala o cuerpo, sin exigencia de titulación universitaria: aptitud psicofísica y conocimientos científicos.
+b) Promoción para cambio de escala o cuerpo, sin exigencia de titulación universitaria previa: aptitud psicofísica y conocimientos científicos.
 
-c) Promoción para cambio de escala o cuerpo, con exigencia de titulación universitaria: aptitud psicofísica.
+c) Promoción para cambio de escala o cuerpo, con exigencia de titulación universitaria previa: aptitud psicofísica.
 
-2. Para acceder a las enseñanzas de oficiales para adscribirse en los Cuerpos Generales y de Infantería de Marina como militar de complemento, la oposición constará, para cada forma de ingreso, de las siguientes pruebas:
+2. Los resultados obtenidos tras la aplicación, en su caso, de las correspondientes fórmulas, se expresarán con tres cifras decimales, redondeados a la milésima.
 
-a) Directo: aptitud psicofísica, conocimientos teóricos o teórico-prácticos y lengua inglesa.
+3. Para las pruebas de conocimientos científicos, en las convocatorias se podrá establecer una puntuación mínima a superar por los aspirantes, el procedimiento para su cálculo, o en su caso, el número de los que pueden continuar el proceso de selección, cifra que se concretará, aplicando un coeficiente multiplicador al total de plazas convocadas para el ingreso.
 
-b) Promoción para cambio de escala o de cuerpo: aptitud psicofísica.
+4. La no presentación del aspirante a una prueba o ejercicio supondrá su eliminación del proceso selectivo, salvo en aquellos casos contemplados en el artículo 18 del Real Decreto 35/2010, de 15 de enero.
 
-3. Los resultados obtenidos tras la aplicación, en su caso, de las correspondientes fórmulas, se expresarán con tres cifras decimales, redondeados a la milésima.
-
-4. Para las pruebas de conocimientos científicos, y teóricos o teórico-prácticos, así como para la de lengua inglesa en la forma de ingreso directo cuando se exija titulación universitaria, en las convocatorias se establecerá una puntuación mínima que deberán superar los aspirantes o, en su caso, se precisará el número de los que pueden continuar el proceso de selección, cifra que se concretará, en cada caso, aplicando un coeficiente multiplicador al total de plazas convocadas para el ingreso.
-
-5. La no presentación del aspirante a una prueba o ejercicio supondrá su eliminación del proceso selectivo, salvo en aquellos casos contemplados en el artículo 18 del Real Decreto 35/2010, de 15 de enero.
+> Se modifica por la disposición final 1.1 de la Orden DEF/420/2020, de 14 de mayo. Ref. BOE-A-2020-5139#df
