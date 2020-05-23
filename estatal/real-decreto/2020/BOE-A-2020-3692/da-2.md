@@ -17,3 +17,5 @@ c) La autorización judicial para el internamiento no voluntario por razón de t
 d) La adopción de medidas o disposiciones de protección del menor previstas en el artículo 158 del Código Civil.
 
 4. No obstante lo dispuesto en los apartados anteriores, el juez o tribunal podrá acordar la práctica de cualesquiera actuaciones judiciales que sean necesarias para evitar perjuicios irreparables en los derechos e intereses legítimos de las partes en el proceso.
+
+> Téngase en cuenta que esta disposición se deroga, con efectos de 4 de junio de 2020, por la disposición derogatoria única.1 del Real Decreto 537/2020, de 22 de mayo, y desde esa fecha, se alzará la suspensión de los plazos procesales contemplados en la misma, según determina el art. 8 del citado Real Decreto. Ref. BOE-A-2020-5243#a8
