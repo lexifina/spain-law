@@ -1,0 +1,3 @@
+El estado de alarma, declarado por el Real Decreto 463/2020, de 14 de marzo, finalizó a las 00:00 horas del día 21 de junio de 2020, por lo que debe entenderse que esta norma ha perdido su vigencia.
+
+Téngase en cuenta, con efectos desde las 00:00 del día 21 de junio de 2020 hasta las 00:00 del día 1 de julio de 2020, el Acuerdo del Consejo de Ministros de 16 de junio de 2020, por el que se establecen los puertos y aeropuertos españoles designados como "Puntos de Entrada con capacidad de atención a Emergencias de Salud Pública de Importancia Internacional", según lo establecido en el Reglamento Sanitario Internacional (RSI-2005), para hacer frente a la crisis sanitaria ocasionada por el COVID-19, publicado por Orden PCM/531/2020, de 16 de junio. Ref. BOE-A-2020-6234
