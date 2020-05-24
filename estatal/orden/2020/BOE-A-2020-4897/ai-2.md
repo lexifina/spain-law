@@ -2,6 +2,10 @@
 
 ## Plan de Desescalada-Inicio de la reincorporación programada
 
+> Téngase en cuenta que se activa la Fase 2 del Plan con efectos desde el 26 de mayo de 2020, según establece el apartado primero de la Orden JUS/430/2020, de 22 de mayo, con los criterios para la implantación que se recogen en el anexo de la misma. Ref. BOE-A-2020-5241#pr-2
+
+> Y, con efectos desde el 9 de junio de 2020, se activa la fase 3 del Plan, según establece el apartado primero de la Orden JUS/504/2020, de 5 de junio, con los criterios para la implantación que se recogen en el anexo de la misma. Ref. BOE-A-2020-5764#pr-2
+
 Fases de desescalada
 
 Se establecen cuatro fases de incorporación presencial del personal incluido en el ámbito de aplicación de la presente orden que preste servicio en los centros de destino establecidos en el artículo 521 de la Ley Orgánica 6/1985, de 1 de julio del Poder Judicial:
