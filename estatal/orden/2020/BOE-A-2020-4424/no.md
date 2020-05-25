@@ -1,0 +1,3 @@
+El estado de alarma, declarado por el Real Decreto 463/2020, de 14 de marzo, finalizó a las 00:00 horas del día 21 de junio de 2020, por lo que debe entenderse que esta norma ha perdido su vigencia.
+
+Téngase en cuenta que, en todas las unidades territoriales en fase I y posteriores, se levanta la suspensión de las actividades relacionadas con obras de intervención en edificios existentes establecida por la presente Orden, garantizándose en todo caso las medidas adecuadas de higiene y la distancia mínima de seguridad entre personas de dos metros, según establece la disposición adicional 5 de la Orden SND/399/2020, de 9 de mayo, Ref. BOE-A-2020-4911#da-5, añadida por el art. 3.8 de la Orden SND/440/2020, de 23 de mayo. Ref. BOE-A-2020-5265#at
