@@ -1,0 +1,3 @@
+## Segundo.
+
+En los puertos indicados en el apartado Primero de la presente Resolución, las Autoridades Portuarias, ante la demanda de reapertura de líneas internacionales con pasajeros pondrán a disposición de Sanidad Exterior de modo temporal los recursos humanos sanitarios necesarios que de común acuerdo se dispongan entre Puertos del Estado y el Ministerio de Sanidad. En tal caso, la Autoridad Portuaria contratará los servicios a través de una entidad que preste los servicios sanitarios con el fin de garantizar el control sanitario de la entrada de pasajeros de línea internacional en dichos puertos. El personal sanitario que preste estos servicios estará en todo momento bajo la coordinación de Sanidad Exterior en cada Puerto.
