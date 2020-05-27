@@ -18,7 +18,7 @@ a) Respecto de la fracción resto recogida:
 
 1.º No se procederá en ningún caso a la apertura manual de las bolsas de fracción resto en instalaciones de recogida.
 
-2.º Las autoridades competentes de las comunidades autónomas podrán resolver destinarla a incineración, preferiblemente, o a vertedero sin tratamiento previo en tanto lo estimen conveniente, pero no antes del inicio de la siguiente fase del Plan para la transición hacia una nueva normalidad que en su caso proceda.
+2.º Las autoridades competentes de las comunidades autónomas podrán resolver destinarla a incineración, preferiblemente, o a vertedero sin tratamiento previo en tanto lo estimen conveniente, pero no más allá de la fecha en la que la totalidad de la unidad territorial a la que la instalación presta servicio supere la fase 3 del Plan para la transición hacia una nueva normalidad.
 
 3.º En caso de que se lleven a cabo tratamientos previos a su incineración o depósito en vertedero, podrán realizarse tanto de forma automática como manual, siempre que se adopten todas las medidas de seguridad necesarias.
 
@@ -39,5 +39,7 @@ Las autoridades competentes podrán requerir el trabajo coordinado de las empres
 En caso de que fuera necesario, las instalaciones industriales de fabricación de cemento autorizadas para coincinerar residuos o las instalaciones de incineración de residuos municipales deberán proceder a la incineración de estos residuos a requerimiento de las autoridades competentes.
 
 6. La recogida y gestión de residuos de competencia municipal y de los mencionados en el apartado segundo.5 se considera servicio esencial. Las administraciones competentes deberán garantizar frecuencias de recogida suficientes, al objeto de evitar el acumulo de residuos fuera de sus contenedores, así como el tratamiento posterior de los residuos.
+
+> Se modifica el apartado 4 por el art. 1 de la Orden SND/445/2020, de 26 de mayo. Ref. BOE-A-2020-5323#ap
 
 > Se modifican los apartados 4 y 5 por el art. 1.1 de la Orden SND/440/2020, de 23 de mayo. Ref. BOE-A-2020-5265#ap
