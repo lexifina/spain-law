@@ -44,7 +44,7 @@ Profundidad de los ojos.
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de septiembre de 2019, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de junio de 2020, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV (1):
 
@@ -54,7 +54,7 @@ Especies que cumplen con los protocolos de examen de la OCVV (1):
 
 (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
-> Téngase en cuenta que la modificación del apartado 6, efectuada por el art. único.6 de la Orden APA/775/2019, de 2 de julio. Ref. BOE-A-2019-10539 entra en vigor el 1 de septiembre de 2019, según establece su disposición final 2.
+> Se modifica el apartado 6 por el art. 7.6 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#as-3
 
 > Se modifica el apartado 6, con efectos de 1 de septiembre de 2019, por el art. único.6 de la Orden APA/775/2019, de 2 de julio. Ref. BOE-A-2019-10539
 

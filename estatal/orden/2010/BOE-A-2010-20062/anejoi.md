@@ -147,7 +147,16 @@ Uno para los altramuces no amargos.
 
 (p) En las variedades que no sean de altramuz amargo el porcentaje en número de semillas de altramuz amargo no sobrepasará el 2,5 por 100.
 
-3. La presencia de organismos perjudiciales, que pudiesen reducir el valor de utilización de las semillas, no se tolerará más que en los límites más bajos posibles.
+3. Las semillas estarán prácticamente libres de cualquier plaga que reduzca su utilidad y calidad.
+
+Las semillas también cumplirán los requisitos relativos a las plagas cuarentenarias de la Unión, las plagas cuarentenarias de zonas protegidas y las plagas reguladas no cuarentenarias contemplados en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
+
+La presencia de plagas reguladas no cuarentenarias en las semillas y en las categorías correspondientes cumplirá los requisitos que figuran en el cuadro siguiente:
+
+| Plagas reguladas no cuarentenarias o síntomas causados por ellas | Especie | Umbrales para las semillas de prebase | Umbrales para las semillas de base | Umbrales para las semillas certificadas |
+| --- | --- | --- | --- | --- |
+| Clavibacter michiganensis ssp. insidiosus (McCulloch 1925) Davis et al. [CORBIN]. | Medicago sativa L. | 0 % | 0 % | 0 % |
+| Ditylenchus dipsaci (Kuehn) Filipjev [DITYDI]. | Medicago sativa L. | 0 % | 0 % | 0 % |
 
 B. Semillas de base
 
@@ -277,7 +286,7 @@ C. Requisitos de las semillas comerciales
 
 Los requisitos del anejo I: A, puntos 2 y 3, se aplicarán a las semillas comerciales, con las disposiciones complementarias que se citan a continuación:
 
-1. Los porcentajes en peso fijados en las columnas 3 y 4 del cuadro 2.A se aumentarán en 1.
+1. Los porcentajes en peso fijados en las columnas 5 y 6 del cuadro 2.A se aumentarán en 1.
 
 2. Para Poa annua, un 10 por 100 en peso de semillas de otras especies de Poa no se considerará impureza.
 
@@ -294,6 +303,8 @@ Los requisitos del anejo I: A, puntos 2 y 3, se aplicarán a las semillas comerc
 8. Para Vicia pannonica, Vicia sativa, Vicia villosa y Vicia benghalensis la pureza analítica mínima será del 97,0 % en peso.
 
 9. Para Lathyrus cicera la pureza analítica mínima será del 90 % en peso. No se considerará impureza un contenido máximo total del 5 % en peso de semillas de especies cultivadas similares.
+
+> Se modifican los apartados A y C por el art. 4.3 y 4 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#ac
 
 > Se modifica por el art. único.3 y el apartado 1 del Anejo de la Orden APM/902/2017, de 22 de septiembre. Ref. BOE-A-2017-10928
 

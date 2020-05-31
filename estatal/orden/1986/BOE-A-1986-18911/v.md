@@ -10,6 +10,10 @@ En cualquier caso el número máximo de generaciones a partir del Material Paren
 
 V.2 Requisitos de los procesos de producción.
 
+El cultivo estará prácticamente libre de cualquier plaga que reduzca la utilidad y calidad de los materiales de reproducción.
+
+El cultivo también cumplirá los requisitos relativos a las plagas cuarentenarias de la Unión, las plagas cuarentenarias de zonas protegidas y las plagas reguladas no cuarentenarias contemplados en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
+
 Los campos de producción de semilla de Base y Certificada de las especies hortícolas a que afecta este Reglamento han de cumplir los siguientes requisitos:
 
 No podrá destinarse a la producción de semillas ningún campo que en la campaña anterior hubiese estado cultivado con la misma especie.
@@ -24,15 +28,15 @@ Los porcentajes máximos admisibles de plantas que no correspondan claramente al
 
 Autógamas:
 
-– Categoría Base: 0,5 por 100.
+Categoría Base: 0,5 por 100.
 
-– Categoría Certificada: 1 por 100.
+Categoría Certificada: 1 por 100.
 
 Alógamas:
 
-– Categoría Base: 1 por 100.
+Categoría Base: 1 por 100.
 
-– Categoría Certificada: 2 por 100.
+Categoría Certificada: 2 por 100.
 
 V.3 Inspecciones de campo.
 
@@ -43,5 +47,7 @@ V.4 Requisitos de las semillas.
 Las semillas de las categorías Base, Certificada y Standard han de cumplir los requisitos que figuran en el anejo II..
 
 V.5. Para las especies incluidas en este Reglamento será de aplicación lo dispuesto en los apartados 26a, 26b y 26c del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, referente a semillas no certificadas definitivamente, y sólo en los casos en que procedan de la multiplicación de semillas de categorías prebase o base.
+
+> Se modifica el apartado V.2 por el art. 1.2 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#ap
 
 > Se añade el apartado V.5 por el apartado 10.4 de la Orden de 16 de julio de 1990. Ref. BOE-A-1990-18972.

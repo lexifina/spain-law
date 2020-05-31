@@ -28,12 +28,22 @@ Primera.–No se admitirá ningún lote de cáñamo que contenga una semilla de 
 
 Segunda.–No se admitirá ningún lote de lino que contenga más de cuatro semillas de «Alopecurus myosuroides» o más de dos semillas de «Lolium remotum» en una muestra de 150 gramos.
 
-Tercera.–Semillas portadoras de infecciones:
+Tercera.–Las semillas estarán prácticamente libres de cualquier plaga que reduzca la utilidad y calidad de los materiales de reproducción.
 
-No se admitirá ningún lote de algodón que contenga más del 1 por 100 de semillas contaminadas por «Platyedria gossypiella».
+Las semillas también cumplirán los requisitos relativos a las plagas cuarentenarias de la Unión, las plagas cuarentenarias de zonas protegidas y las plagas reguladas no cuarentenarias contemplados en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
 
-No se admitirá ningún lote de cáñamo ni de lino textil que contenga más del 5 por 100 de semillas infectadas por «Botrytis spp.»
+La presencia de plagas reguladas no cuarentenarias en las semillas y en las categorías correspondientes cumplirá los requisitos que figuran en el cuadro siguiente:
 
-No se admitirá ningún lote de lino textil que contenga más del 5 por 100 de semillas infectadas por «Alternaria linicola»,«Colletotrichum linicola» o «Fusarium spp.», o más del 1 por 100 de semillas infectadas por «Phoma exigua var. linicola».
+| Plagas reguladas no cuarentenarias o síntomas causados por ellas | Especie | Umbrales para las semillas de prebase | Umbrales para las semillas de base | Umbrales para las semillas certificadas |
+| --- | --- | --- | --- | --- |
+| Hongos y oomicetos |
+| Alternaria linicola Groves & Skolko [ALTELI]. | Linum usitatissimum L. (partim). | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. |
+| Boeremia exigua var. linicola (Naumov & Vassiljevsky) Aveskamp, Gruyter & Verkley [PHOMEL]. | Linum usitatissimum L. (partim). | 1 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. | 1 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. | 1 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. |
+| Colletotrichum lini Westerdijk [COLLLI]. | Linum usitatissimum L. (partim). | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. |
+| Fusarium (género anamórfico) Link [1FUSAG]. distinto de Fusarium oxysporum f. sp. albedinis (Kill. & Maire) W.L. Gordon [FUSAAL] y Fusarium circinatum Nirenberg & O’Donnell [GIBBCI]. | Linum usitatissimum L. (partim). | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. |
+
+No se admitirá ningún lote de algodón que contenga más del 1 por 100 de semillas contaminadas por “Pectinophora gossypiella [PECTGO].
+
+> Se modifca la observación 3ª por el art. 6.2 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#as-2
 
 > Se corrigen errores por ORDEN ARM/2556/2011, de 21 de septiembre. Ref. BOE-A-2011-15174.

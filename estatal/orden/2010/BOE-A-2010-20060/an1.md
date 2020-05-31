@@ -99,21 +99,26 @@ Quinta.–Plantas de otras especies cultivadas: Se consideran únicamente las es
 
 Se podrá diferir la aceptación o anulación de una parcela en el caso de que se sobrepasen los máximos fijados, hasta que se haya procedido a la selección mecánica y análisis de las muestras, cuando el productor lo solicite y siempre que quede garantizado que la semilla de la parcela considerada no se haya mezclado con la de otras parcelas.
 
-Sexta.–Plantas infectadas: Se consideran plantas infectadas las atacadas por carbón ("Ustilago spp.") en los campos de producción de semilla de trigo, cebada y avena, y por helmintosporiosis ("Helminthosporium spp.") en los de cebada y arroz, así como por "Piricularia oryzae" en el arroz.
+Sexta. Plantas infectadas: Se consideran plantas infectadas las atacadas por carbón (“Ustilago spp.”) en los campos de producción de semilla de trigo, cebada y avena, y por helmintosporiosis (“Helminthosporium spp.”) en los de cebada y arroz, así como por “Piricularia oryzae” en el arroz.
 
-En el caso del centeno, el número de esclerocios de cornezuelo ("Claviceps purpurea") no podrá ser superior a uno por metro cuadrado, en todas las categorías.
+En el caso del centeno, el número de esclerocios de cornezuelo (“Claviceps purpurea”) no podrá ser superior a uno por metro cuadrado, en todas las categorías.
 
 Se podrán aprobar campos con porcentajes mayores de los que figuran en el cuadro a petición de la Entidad, siempre que antes del precintado de la semilla éstas se hayan tratado con productos de reconocida eficacia.
 
-En los campos de producción de semillas de arroz, el número de plantas reconocibles como manifiestamente infectadas por "Fusarium fujikuroi" no excederá de:
+El cultivo estará prácticamente libre de cualquier plaga que reduzca la utilidad y calidad de las semillas.
 
-2 por cada 200 m² para la producción de semillas de base.
+El cultivo también cumplirá los requisitos relativos a las plagas cuarentenarias de la Unión, las plagas cuarentenarias de zonas protegidas y las plagas reguladas no cuarentenarias contemplados en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
 
-4 por cada 200 m² para la producción de semillas certificadas de primera generación.
+La presencia de plagas reguladas no cuarentenarias en los cultivos cumplirá los requisitos que figuran en el cuadro siguiente:
 
-8 por cada 200 m² para la producción de semillas certificadas de segunda generación.
+| Plagas reguladas no cuarentenarias o síntomas causados por ellas | Especie | Umbrales para la producción de semillas de prebase | Umbrales para la producción de semillas de base | Umbrales para la producción de semillas certificadas |
+| --- | --- | --- | --- | --- |
+| Hongos y oomicetos |
+| Gibberella fujikuroi Sawada [GIBBFU]. | Oryza sativa L. | No más de dos plantas sintomáticas por 200 m2 detectadas durante inspecciones sobre el terreno efectuadas en momentos adecuados en una muestra representativa de las plantas de cada cultivo. | No más de dos plantas sintomáticas por 200 m2 detectadas durante inspecciones sobre el terreno efectuadas en momentos adecuados en una muestra representativa de las plantas de cada cultivo. | Semillas certificadas de la primera generación (C1): No más de cuatro plantas sintomáticas por 200 m2 detectadas durante inspecciones sobre el terreno efectuadas en momentos adecuados en una muestra representativa de las plantas de cada cultivo. Semillas certificadas de la segunda generación (C2): No más de ocho plantas sintomáticas por 200 m2 detectadas durante inspecciones sobre el terreno efectuadas en momentos adecuados en una muestra representativa de las plantas de cada cultivo. |
+| Nematodos |
+| Aphelenchoides besseyi Christie [APLOBE]. | Oryza sativa L. | 0 % | 0 % | 0 %» |
 
-Séptima.–El cumplimiento de las normas antes citadas se comprobará mediante inspecciones oficiales de campo en el caso de las semillas de base y, en el de las semillas certificadas, mediante inspecciones oficiales de campo o inspecciones llevadas a cabo bajo supervisión oficial. El número de inspecciones será de al menos 1.
+> Se modifica la observación sexta por el art. 3.1 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#at
 
 > Se modifica por el art. único.1 de la Orden AAA/616/2016, de 26 de abril. Ref. BOE-A-2016-4093.
 

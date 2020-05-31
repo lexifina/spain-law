@@ -2,8 +2,6 @@
 
 ## Reglamento Técnico de Control y Certificación de Semillas de Plantas Forrajeras
 
-> Téngase en cuenta que las modificaciones introducidas en los epígrafes I.1 y II.2 del Anexo y en los Anejos I y II por la Orden APM/902/2017, de 22 de septiembre. Ref. BOE-A-2017-10928 entran en vigor el 1 de enero de 2018.
-
 I. Especies sujetas al reglamento técnico
 
 I.1 Quedan incluidas en el ámbito de aplicación de este Reglamento Técnico las semillas de plantas de las especies y variedades botánicas que figuran a continuación:
@@ -327,6 +325,17 @@ IV.2.5 Estado de los cultivos:
 
 El estado del cultivo deberá ser tal que permita el control de la identidad y de la pureza varietal del mismo.
 
+El cultivo estará prácticamente libre de cualquier plaga que reduzca la utilidad y calidad de las semillas.
+
+El cultivo también cumplirá los requisitos relativos a las plagas cuarentenarias de la Unión, las plagas cuarentenarias de zonas protegidas y las plagas reguladas no cuarentenarias contemplados en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
+
+La presencia de plagas reguladas no cuarentenarias en el cultivo y en las categorías correspondientes cumplirá los requisitos que figuran en el cuadro siguiente:
+
+| Plagas reguladas no cuarentenarias o síntomas causados por ellas | Especie | Umbrales para la producción de semillas de prebase | Umbrales para la producción de semillas de base | Umbrales para la producción de semillas certificadas |
+| --- | --- | --- | --- | --- |
+| Clavibacter michiganensis ssp. insidiosus (McCulloch 1925) Davis et al. [CORBIN]. | Medicago sativa L. | 0 % | 0 % | 0 % |
+| Ditylenchus dipsaci (Kuehn) Filipjev [DITYDI]. | Medicago sativa L. | 0 % | 0 % | 0 % |
+
 Podrá ser causa de eliminación de las parcelas destinadas a la obtención de semillas la presencia de enfermedades transmisibles por semilla, salvo en los casos en que se aplique un tratamiento de eficacia comprobada para impedir tal transmisión.
 
 IV.2.6 Parcelas de producción:
@@ -377,7 +386,7 @@ Podrán comercializarse mezclas de semillas de varios géneros, especies o varie
 
 1.ª No vayan destinadas a un aprovechamiento como plantas forrajeras, pudiendo contener las mezclas semillas de plantas forrajeras y de plantas no forrajeras.
 
-2.ª Vayan destinadas a un aprovechamiento como plantas forrajeras, pudiendo las mezclas contener semillas de plantas forrajeras y de plantas que estén incluidas en los Reglamentos específicos de cereales, hortícolas y oleaginosas y textiles, con excepción de variedades de gramíneas que, según declaración del obtentor, no sean destinadas a uso forrajero.
+2.ª Vayan destinadas a un aprovechamiento como plantas forrajeras, pudiendo las mezclas contener semillas de plantas forrajeras y de plantas que estén incluidas en los Reglamentos específicos de cereales, sorgo, maíz, textiles, oleaginosas y hortícolas, con excepción de variedades de gramíneas que, según declaración del obtentor, no sean destinadas a uso forrajero.
 
 3.ª Vayan destinadas a la preservación del medio natural, en el marco de la preservación de los recursos genéticos, obtenidas y comercializadas de acuerdo con el anejo V, pudiendo contener las mezclas semillas de plantas forrajeras y de plantas no forrajeras.
 
@@ -458,6 +467,8 @@ VIII.3 Los lotes de semilla que cumplan las condiciones establecidas en el anexo
 VIII.4 Comercialización de semilla certificada a granel.
 
 Se podrá comercializar semilla de categoría certificada a granel, de las especies: Habas y haboncillos [Vicia faba (partim)] y guisante [Pisum sativum (partim)], destinadas directamente al consumidor final, siempre que se cumplan los requisitos establecidos en los apartados 40 y 40 bis del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero.
+
+> Se modifican los epígrafes IV.2.5 y V.3 por el art. 4.1 y 2 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#ac
 
 > Se modifican los epígrafes I.1 y II.2 por el artículo único.1 y 2 de la Orden APM/902/2017, de 22 de septiembre. Ref. BOE-A-2017-10928
 

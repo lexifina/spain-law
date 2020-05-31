@@ -130,7 +130,7 @@ Variedades cespitosas: la finura de las hojas, densidad del césped, persistenci
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de septiembre de 2019, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de junio de 2020, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV (1):
 
@@ -139,12 +139,14 @@ Especies que cumplen con los protocolos de examen de la OCVV (1):
 | Festuca arundinacea Schreb. | Festuca alta. | TP 39/1 de 1.10.2015. |
 | Festuca pratensis Huds. | Festuca pratense. | TP 39/1 de 1.10.2015. |
 | Festuca rubra L. | Festuca roja. | TP 67/1 de 23.6.2011. |
-| Lolium × hybridum Hausskn. | Ray-grass híbrido. | TP 4/1 de 23.6.2011. |
-| Lolium multiflorum Lam. | Ballico de Italia. | TP 4/1 de 23.6.2011. |
-| Lolium perenne L. | Ray-grass inglés. | TP 4/1 de 23.6.2011. |
-| Pisum sativum L. (partim) | Guisante forrajero. | TP 7/2 rev. 2 de 15.3.2017. |
+| Lolium × hybridum Hausskn. | Ray-grass híbrido. | TP 4/2 de 19.3.2019. |
+| Lolium multiflorum Lam. | Ballico de Italia o Ray-grass italiano. | TP 4/2 de 19.3.2019. |
+| Lolium perenne L. | Ray-grass inglés. | TP 4/2 de 19.3.2019. |
+| Pisum sativum L. (partim). | Guisante forrajero. | TP 7/2 rev. 2 de 15.3.2017. |
 | Poa pratensis L. | Poa de los prados. | TP 33/1 de 15.3.2017. |
 | Vicia sativa L. | Veza común. | TP 32/1 de 19.4.2016. |
+
+(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
 Especies que cumplen con las directrices de examen de la UPOV (2):
 
@@ -160,11 +162,9 @@ Especies que cumplen con las directrices de examen de la UPOV (2):
 | Trifolium pratense L. | Trébol violeta. | TG/5/7 de 4.4.2001. |
 | Trifolium repens L. | Trébol blanco. | TG/38/7 de 9.4.2003. |
 
-(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
-
 (2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
 
-> Téngase en cuenta que la modificación del apartado 6, efectuada por el art. único.4 de la Orden APA/775/2019, de 2 de julio. Ref. BOE-A-2019-10539 entra en vigor el 1 de septiembre de 2019, según establece su disposición final 2.
+> Se modifica el apartado 6 por el art. 7.4 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#as-3
 
 > Se modifica el apartado 6, con efectos de 1 de septiembre de 2019, por el art. único.4 de la Orden APA/775/2019, de 2 de julio. Ref. BOE-A-2019-10539
 

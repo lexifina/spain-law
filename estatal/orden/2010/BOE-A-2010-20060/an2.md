@@ -53,19 +53,45 @@
 
 Observaciones:
 
-La presencia de una semilla de «Avena fatua L.», «Avena sterilis L.», Avena ludoviciana Dur.» o «Lolium temulentum L.» (columna 7) en una muestra de 500 gramos no se considerará impureza si, tomada una segunda muestra de igual peso, está totalmente exenta de estas semillas.
+1. Las semillas estarán prácticamente libres de cualquier plaga que reduzca su utilidad y calidad.
 
-La presencia de un segundo grano de semilla de otros cereales (columna 5) en las categorías de semillas de prebase y de base no se considerará impureza si, tomada una segunda muestra de igual peso, está totalmente exenta de estas semillas.
+2. Las semillas también cumplirán los requisitos relativos a las plagas cuarentenarias de la Unión, las plagas cuarentenarias de zonas protegidas y las plagas reguladas no cuarentenarias contemplados en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
 
-El contenido total de impurezas establecidas en las columnas 5, 6, 7, 8, 9 y 10 debe ser igual o inferior al contenido máximo de semillas establecido en la columna 4.
+3. La presencia de una semilla de “Avena fatua L.”, “Avena sterilis L.”, “Avena ludoviciana Dur.” o “Lolium temulentum L.” (columna 7) en una muestra de 500 gramos no se considerará impureza si, tomada una segunda muestra de igual peso, está totalmente exenta de estas semillas.
 
-La presencia de esclerocios, o de fragmentos de éstos, de «Claviceps purpurea» será inferior a uno en 500 gramos para semilla de base y de tres en 500 gramos para la semilla certificada, para variedades no híbridas de centeno. Para las variedades híbridas será inferior a uno en 500 gramos para semilla de base e inferior a cuatro para semilla certificada. Se considerará conforme a las normas la presencia de cinco esclerocios o fragmentos de esclerocios en una muestra de 500 gramos, siempre que una segunda muestra del mismo peso contenga como máximo cuatro esclerocios o fragmentos de los mismos.
+4. La presencia de un segundo grano de semilla de otros cereales (columna 5) en las categorías de semillas de prebase y de base no se considerará impureza si, tomada una segunda muestra de igual peso, está totalmente exenta de estas semillas.
 
-Por lo que respecta a las variedades de Hordeum vulgare oficialmente clasificadas como variedades de tipo cebada desnuda, la facultad de germinación mínima queda reducida al 75 por 100 de las semillas puras. La etiqueta oficial llevará la inscripción «Facultad germinativa mínima del 75 por 100».
+5. El contenido total de impurezas establecidas en las columnas 5, 6, 7, 8, 9 y 10 debe ser igual o inferior al contenido máximo de semillas establecido en la columna 4.
 
-Para los híbridos de avenas, cebada, arroz, trigo blando, trigo duro, escanda menor y triticale autógamo, la pureza varietal mínima de las semillas de categoría «semilla certificada» deberá ser del 90 por 100. Dicha pureza deberá ser examinada en las pruebas oficiales de post-control sobre una proporción adecuada de muestras.
+6. La presencia de plagas reguladas no cuarentenarias en las semillas y en las categorías correspondientes cumplirá los requisitos que figuran en el cuadro siguiente:
 
-En el caso de semillas de variedades híbridas de cebada empleando el método CMS, la pureza varietal mínima deberá ser del 85 %. Las impurezas, con excepción de la línea restauradora, no excederán del 2 %. Dicha pureza deberá ser examinada en las pruebas oficiales de post-control sobre una proporción adecuada de muestras.
+| Plagas reguladas no cuarentenarias o síntomas causados por ellas | Especie | Umbrales para las semillas de prebase | Umbrales para las semillas de base | Umbrales para las semillas certificadas |
+| --- | --- | --- | --- | --- |
+| Nematodos |
+| Aphelenchoides besseyi Christie [APLOBE]. | Oryza sativa L. | 0 % | 0 % | 0 % |
+| Hongos |
+| Gibberella fujikuroi Sawada [GIBBFU]. | Oryza sativa L. | Prácticamente libre | Prácticamente libre | Prácticamente libre |
+
+7. La presencia de estructuras fúngicas en las semillas y en las categorías correspondientes cumplirá los requisitos que figuran en el cuadro siguiente:
+
+| Categoría | Número máximo de estructuras fúngicas, como esclerocios o cornezuelos, en una muestra del peso especificado en la cuarta columna del anexo 3 |
+| --- | --- |
+| Cereales no híbridos de Secale cereale: |  |
+| – Semillas de base. | 1 |
+| – Semillas certificadas. | 3 |
+| Híbridos de Secale cereale: |  |
+| – Semillas de base. | 1 |
+| – Semillas certificadas. | 4 (*) |
+
+(*) La presencia de cinco estructuras fúngicas, como esclerocios o fragmentos de esclerocios o cornezuelos, en una muestra del peso prescrito se considerará conforme con las normas cuando una segunda muestra del mismo peso no contenga más de cuatro estructuras fúngicas.
+
+8. Por lo que respecta a las variedades de Hordeum vulgare oficialmente clasificadas como variedades de tipo cebada desnuda, la facultad de germinación mínima queda reducida al 75 por 100 de las semillas puras. La etiqueta oficial llevará la inscripción “Facultad germinativa mínima del 75 por 100”.
+
+9. Para los híbridos de avenas, cebada, arroz, trigo blando, trigo duro, escanda menor y triticale autógamo, la pureza varietal mínima de las semillas de categoría “semilla certificada” deberá ser del 90 por 100. Dicha pureza deberá ser examinada en las pruebas oficiales de post-control sobre una proporción adecuada de muestras.
+
+10. En el caso de semillas de variedades híbridas de cebada empleando el método CMS, la pureza varietal mínima deberá ser del 85 %. Las impurezas, con excepción de la línea restauradora, no excederán del 2 %. Dicha pureza deberá ser examinada en las pruebas oficiales de post-control sobre una proporción adecuada de muestras.
+
+> Se modifica por el art. 3.2 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#at
 
 > Se modifica por el art. único.2 de la Orden AAA/616/2016, de 26 de abril. Ref. BOE-A-2016-4093.
 

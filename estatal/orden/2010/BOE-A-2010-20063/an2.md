@@ -60,32 +60,30 @@ Observaciones:
 
 3.ª Todo lote de comino que contenga más de tres semillas de «Alopecurus myosuroides» en una muestra de 80 gramos, será rechazado.
 
-4.ª Semillas portadoras de infecciones.–Se rechazará:
+4.ª Las semillas estarán prácticamente libres de cualquier plaga que reduzca la utilidad y calidad de los materiales de reproducción.
 
-Todo lote de semilla de cártamo en el que aparezcan semillas de «Orobanche spp.». Ello, no obstante, si solamente aparece una semilla en una muestra de 100 gramos no se considerará como impureza si una segunda muestra de 200 gramos esta exenta.
+Las semillas también cumplirán los requisitos relativos a las plagas cuarentenarias de la Unión, las plagas cuarentenarias de zonas protegidas y las plagas reguladas no cuarentenarias contemplados en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
 
-Todo lote de girasol en el que aparezcan más del 5 por 100 de semillas infectadas por «Botrytis spp.» o más de 10 esclerocios o fragmentos de esclerocio de «Sclerotinia sclerotiorum» en una muestra de 1.000 gramos.
+La presencia de plagas reguladas no cuarentenarias en las semillas y en las categorías correspondientes cumplirá los requisitos que figuran en el cuadro siguiente:
 
-Todo lote de colza en el que aparezcan más de 10 esclerocios o fragmentos de esclerocio de «Sclerotinia sclerotiorum» en una muestra de 100 gramos.
+| Plagas reguladas no cuarentenarias o síntomas causados por ellas | Especie | Umbrales para las semillas de prebase | Umbrales para las semillas de base | Umbrales para las semillas certificadas |
+| --- | --- | --- | --- | --- |
+| Hongos y oomicetos |
+| Alternaria linicola Groves & Skolko [ALTELI]. | Linum usitatissimum L. (partim). | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. |
+| Boeremia exigua var. linicola (Naumov & Vassiljevsky) Aveskamp, Gruyter & Verkley [PHOMEL]. | Linum usitatissimum L. (partim). | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. |
+| Botrytis cinerea de Bary [BOTRCI]. | Helianthus annuus L., Linum usitatissimum L. (partim). | 5 % | 5 % | 5 % |
+| Colletotrichum lini Westerdijk [COLLLI]. | Linum usitatissimum L. (partim). | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. |
+| Diaporthe caulivora (Athow & Caldwell) J.M. Santos, Vrandecic & A.J.L. Phillips [DIAPPC]. Diaporthe phaseolorum var. sojae Lehman [DIAPPS]. | Glycine max (L.) Merr. | 15 % para infección por el complejo Phomopsis. | 15 % para infección por el complejo Phomopsis. | 15 % para infección por el complejo Phomopsis. |
+| Fusarium (género anamórfico) Link [1FUSAG] distinto de Fusarium oxysporum f. sp. albedinis (Kill. & Maire) W.L. Gordon [FUSAAL] y Fusarium circinatum Nirenberg & O’Donnell [GIBBCI]. | Linum usitatissimum L. (partim). | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. | 5 % 5 % afectado por Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini y Fusarium spp. |
+| Plasmopara halstedii (Farlow) Berlese & de Toni [PLASHA]. | Helianthus annuus L. | 0 % | 0 % | 0 % |
+| Sclerotinia sclerotiorum (Libert) de Bary [SCLESC]. | Brassica rapa L. var. silvestris (Lam.) Briggs. | No más de cinco esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. | No más de cinco esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. | No más de cinco esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. |
+| Sclerotinia sclerotiorum (Libert) de Bary [SCLESC]. | Brassica napus L. (partim), Helianthus annuus L. | No más de diez esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. | No más de diez esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. | No más de diez esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. |
+| Sclerotinia sclerotiorum (Libert) de Bary [SCLESC]. | Sinapis alba L. | No más de cinco esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. | No más de cinco esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. | No más de cinco esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. |
 
-Todo lote de nabina en el que aparezcan más de 5 esclerocios o fragmentos de esclerocio de «Sclerotinia sclerotiorum» en una muestra de 70 gramos.
-
-Todo lote de mostaza blanca en el que aparezcan más de 5 esclerocios o fragmentos de esclerocio de «Sclerotinia sclerotiorum» en una muestra de 200 gramos.
-
-El conteo de esclerocios o fragmentos de esclerocio de «Sclerotinia scletoriorum» puede no realizarse a no ser que haya dudas respecto a presencia de los mismos.
-
-Todo lote de lino oleaginoso que contenga más del 5 por 100 de semillas infectadas por «Botrytis spp.», «Alternaria linicola», «Phoma exigua var. linicola», «Colletotrichum linicola» o «Fusarium spp.».
-
-Todo lote de semilla de base o certificada de soja deberá cumplir las normas especiales siguientes:
-
-a) Con respecto a «Pseudomonas syringae pv. glycinea», el número máximo de submuestras que, dentro de una muestra de al menos 5.000 (cinco mil) semillas por lote dividida en cinco submuestras, se hallen contaminadas por los citados microorganismos no deberá exceder de cuatro.
-
-En caso de que en las cinco se detecten colonias sospechosas, éstas podrán aislarse en un medio preferencial y someterse a las pruebas bioquímicas pertinentes con objeto de confirmar el cumplimiento de las normas o condiciones establecidas anteriormente.
-
-b) Con respecto a «Diaporthe phaseolorum var. phaseolorum», el número máximo de semillas contaminadas no deberá exceder del 15 por 100.
-
-c) El porcentaje en peso de materia inerte, obtenido de acuerdo con los actuales métodos internacionales de análisis, no deberá sobrepasar un 0,3 por 100.
+Se rechazará todo lote de semilla de cártamo en el que aparezcan semillas de “Orobanche spp.”. Ello, no obstante, si solamente aparece una semilla en una muestra de 100 gramos no se considerará como impureza si una segunda muestra de 200 gramos está exenta.
 
 5.ª Para las semillas comerciales serán de aplicación los requisitos indicados para la última categoría de semilla certificada, excepto los de pureza varietal.
+
+> Se modifica la observación 4ª por el art. 5.2 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#aq
 
 > Se corrigen errores por la ORDEN ARM/2555/2011, de 21 de septiembre. Ref. BOE-A-2011-15172.

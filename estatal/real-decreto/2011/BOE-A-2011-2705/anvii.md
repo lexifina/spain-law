@@ -2,137 +2,207 @@
 
 ## Reglamento técnico de inscripción de variedades de especies hortícolas
 
-1.–Ámbito de aplicación.–El ámbito de aplicación de este Reglamento comprende todas las variedades de las especies siguientes:
+1. Ámbito de aplicación.
 
-Acelga: Beta vulgaris L.
+El ámbito de aplicación de este Reglamento comprende todas las variedades de las especies siguientes:
 
-Achicoria industrial: Cichorium intybus L.
+Allium cepa L.:
 
-Achicoria silvestre o Achicoria italiana: Cichorium intybus L.
+– Grupo Cepa (Cebolla).
 
-Ajo: Allium sativum L
+– Grupo Aggregatum (Chalota).
 
-Alcachofa: Cynara cardunculus L.
+Allium fistulosum L. (Cebolleta):
 
-Apio: Apium graveolens L.
+– Todas las variedades.
 
-Apionabo: Apium graveolens L.
+Allium porrum L. (Puerro):
 
-Berenjena: Solanum melongena L.
+– Todas las variedades.
 
-Borraja: Borrago officinalis L.
+Allium sativum L. (Ajo):
 
-Bróculi o Brécol: Brassica oleracea L.
+– Todas las variedades.
 
-Calabacín: Cucurbita pepo L.
+Allium schoenoprasum L. (Cebollino):
 
-Calabaza: Cucurbita maxima Duchesne
+– Todas las variedades.
 
-Calabaza de Peregrino: Lagenaria siceraria (Molina) Standl.
+Anthriscus cerefolium (L.) Hoffm. (Perifollo):
 
-Calabaza Moscada: Cucurbita moschata Dush.
+– Todas las variedades.
 
-Calabaza de cidra: Cucúrbita ficifolia.
+Apium graveolens L. (Apio):
 
-Canónigo o Hierba de los canónigos: Valerianella locusta (L.) Laterr.
+– Grupo Apio.
 
-Cardo: Cynara cardunculus L.
+– Grupo Apionabo.
 
-Cebolla y Echalión: Allium cepa L (Grupo Cepa)
+Asparagus officinalis L. (Espárrago)
 
-Cebolleta: Allium fistulosum L.
+– Todas las variedades.
 
-Cebollino: Allium schoenoprasum L.
+Beta vulgaris L.:
 
-Chalota: Allium cepa L. (Grupo Aggregatum)
+– Grupo Remolacha.
 
-Col China: Brassica rapa L.
+– Grupo Acelga.
 
-Col de Bruselas: Brassica oleracea L.
+Borrago officinalis L. (Borraja).
 
-Col de Milán: Brassica oleracea L.
+Brassica oleracea L.:
 
-Col forrajera o berza: Brassica oleracea L.
+– Grupo Col rizada.
 
-Coliflor: Brassica oleracea L.
+– Grupo Coliflor.
 
-Colinabo: Brassica napus L. var napobrassica L. Reich
+– Grupo Capitata (lombarda y repollo).
 
-Colirabano: Brassica oleracea L.
+– Grupo Col de Bruselas.
 
-Endivia: Cichorium intybus L.
+– Grupo Colirrábano.
 
-Escarola hoja lisa: Cichorium endivia L.
+– Grupo Col de Milán.
 
-Escarola hoja rizada: Cichorium endivia L.
+– Grupo Brécol (bróculi o brécol).
 
-Espárrago: Asparagus officinalis L.
+– Grupo Col negra.
 
-Espinaca: Spinacia oleracea L.
+– Grupo Berza.
 
-Guisante cometodo: Pisum sativum L. (partim)
+Brassica rapa L.:
 
-Guisante grano liso redondo: Pisum sativum L. (partim)
+– Grupo Col de China.
 
-Guisante grano rugoso: Pisum sativum L. (partim)
+– Grupo Nabo.
 
-Haba: Vicia faba L. (partim)
+Capsicum annuum L. (Pimientos y guindillas):
 
-Híbridos inter-específicos del Género Cucúrbita:
+– Todas las variedades.
 
-Híbridos inter-específicos del Género Lycopersicon:
+Cicer arietinum L. (partim) Garbanzo.
 
-Hinojo: Foeniculum vulgare Miller
+Cichorium endivia L. (Escarola):
 
-Judía de enrame: Phaseolus vulgaris L.
+– Todas las variedades.
 
-Judía de mata baja: Phaseolus vulgaris L.
+Cichorium intybus L.:
 
-Judía escarlata o Judía de España: Phaseolus coccineus L.
+– Grupo Endivia.
 
-Lechuga: Lactuca sativa L.
+– Grupo Achicoria común (incluida la achicoria roja).
 
-Lombarda: Brassica oleracea L.
+– Grupo Achicoria industrial (raíz).
 
-Maíz dulce: Zea mays L. (partim)
+Citrullus lanatus (Thunb.) Matsum. et Nakai (Sandía):
 
-Maíz para palomitas: Zea mays L. (partim)
+– Todas las variedades.
 
-Melón: Cucumis melo L.
+Cucumis melo L. (Melón):
 
-Nabo: Brassica rapa L.
+– Todas las variedades.
 
-Pepinillo: Cucumis sativus L.
+Cucumis sativus L.:
 
-Pepino: Cucumis sativus L.
+– Grupo Pepino.
 
-Perejil: Petroselinum crispum (Mill.) Nyman ex A. W. Hill
+– Grupo Pepinillo.
 
-Perifollo: Anthriscus cerefolium (L.) Hoffm.
+Cucurbita maxima Duchesne (Calabaza gigante):
 
-Pimiento: Capsicum annuum L.
+– Todas las variedades.
 
-Puerro: Allium porrum L.
+Cucurbita pepo L. (Calabazas, como la calabaza bonetera, y calabacines):
 
-Rábano de invierno o rábano negro: Raphanus sativus L.
+– Todas las variedades.
 
-Rábano o rabanito: Raphanus sativus L.
+Cynara cardunculus L.
 
-Remolacha de mesa: Beta vulgaris L.
+– Grupo Alcachofa.
 
-Repollo: Brassica oleracea L.
+– Grupo Cardo.
 
-Ruibarbo: Rheum rhabarbarum L.
+Daucus carota L. (Zanahoria de mesa y zanahoria forrajera):
 
-Salsifí Blanco: Tragopogon porrifolium L.
+– Todas las variedades.
 
-Salsifí negro o Escorzonera: Scorzonera hispanica L.
+Foeniculum vulgare Mill. (Hinojo):
 
-Sandía: Citrullus lanatus (Thunb.) Matsum. et Nakai
+– Grupo Azoricum.
 
-Tomate: Solanum lycopersicum L.
+Lactuca sativa L. (Lechuga):
 
-Zanahoria de mesa: Daucus carota L.
+– Todas las variedades.
+
+Lens culinaris L. (partim) Lenteja.
+
+Petroselinum crispum (Mill.) Nyman ex A. W. Hill:
+
+– Grupo Perejil de hoja.
+
+– Grupo Perejil tuberoso.
+
+Phaseolus coccineus L. (Judía escarlata o judía de España):
+
+– Todas las variedades.
+
+Phaseolus vulgaris L.:
+
+– Grupo Judía de mata baja.
+
+– Grupo Judía de enrame.
+
+Pisum sativum L.:
+
+– Grupo Guisante de grano liso redondo.
+
+– Grupo Guisante de grano rugoso.
+
+– Grupo Guisante cometodo.
+
+Raphanus sativus L.:
+
+– Grupo Rábano o rabanito.
+
+– Grupo Rábano negro.
+
+Rheum rhabarbarum L. (Ruibarbo):
+
+– Todas las variedades.
+
+Scorzonera hispanica L. (Escorzonera o salsifí negro):
+
+– Todas las variedades.
+
+Solanum lycopersicum L. (Tomate):
+
+– Todas las variedades.
+
+Solanum melongena L. (Berenjena):
+
+– Todas las variedades.
+
+Spinacia oleracea L. (Espinaca):
+
+– Todas las variedades.
+
+Tragopogon porrifolium L. (Salsifí blanco).
+
+Valerianella locusta (L.) Laterr. (Canónigo o hierba de los canónigos):
+
+– Todas las variedades.
+
+Vicia faba L. (Haba):
+
+– Todas las variedades.
+
+Zea mays L.:
+
+– Grupo Maíz dulce.
+
+– Grupo Maíz para palomitas.
+
+Todos los híbridos de las especies y grupos enumerados supra.
 
 2. Fechas límite de presentación de solicitudes de inscripción.–Las fechas límite de presentación de las solicitudes para cada campaña serán las siguientes:
 
@@ -280,71 +350,71 @@ Zanahoria: 50 gramos.
 
 5. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que con anterioridad al 1 de septiembre de 2019, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de junio de 2020, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
 Especies que cumplen con los protocolos de examen de la OCVV (1):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Allium cepa L. (grupo cepa). | Cebolla. | TP 46/2 de 1.4.2009. |
-| Allium cepa L. (grupo Aggregatum). | Chalota. | TP 46/2 de 1.4.2009. |
+| Allium cepa L. (var. cepa). | Cebolla. | TP 46/2 de 1.4.2009. |
+| Allium cepa L. (var. Aggregatum). | Chalota. | TP 46/2 de 1.4.2009. |
 | Allium fistulosum L. | Cebolleta. | TP 161/1 de 11.3.2010. |
-| Allium porrum L. | Puerros. | TP 85/2 de 1.4.2009. |
-| Allium sativum L. | Ajos. | TP 162/1 de 25.3.2004. |
-| Allium schoenoprasum L. | Cebolletas. | TP 198/2 de 11.3.2015. |
+| Allium porrum L. | Puerro. | TP 85/2 de 1.4.2009. |
+| Allium sativum L. | Ajo. | TP 162/1 de 25.3.2004. |
+| Allium schoenoprasum L. | Cebolleta. | TP 198/2 de 11.3.2015. |
 | Apium graveolens L. | Apio. | TP 82/1 de 13.3.2008. |
-| Apium graveolens L. | Apionabos. | TP 74/1 de 13.3.2008. |
-| Asparagus officinalis L. | Espárragos. | TP 130/2 de 16.2.2011. |
+| Apium graveolens L. | Apionabo. | TP 74/1 de 13.3.2008. |
+| Asparagus officinalis L. | Espárrago. | TP 130/2 de 16.2.2011. |
 | Beta vulgaris L. | Remolacha de mesa. | TP 60/1 de 1.4.2009. |
 | Beta vulgaris L. | Acelga. | TP 106/1 de 11.3.2015. |
 | Brassica oleracea L. | Brécol o brócoli. | TP 151/2 rev. de 15.3.2017. |
-| Brassica oleracea L. | Coles de Bruselas. | TP 54/2 rev. de 15.3.2017. |
+| Brassica oleracea L. | Col de Bruselas. | TP 54/2 rev. de 15.3.2017. |
 | Brassica oleracea L. | Col forrajera o berza. | TP 90/1 de 16.2.2011. |
 | Brassica oleracea L. | Col de Milán, repollo y lombarda. | TP 48/3 rev. de 15.3.2017. |
-| Brassica oleracea L. | Coliflores. | TP 45/2 rev. 2 de 21.3.2018. |
-| Brassica oleracea L. | Colirrábanos. | TP 65/1 rev. de 15.3.2017. |
-| Brassica rapa L. var. pekinensis (Lour.) Kitam. | Col de China. | TP 105/1 de 13.3.2008. |
-| Capsicum annuum L. | Chile o pimiento. | TP 76/2 rev. de 15.3.2017. |
+| Brassica oleracea L. | Coliflor. | TP 45/2 rev. 2 de 21.3.2018. |
+| Brassica oleracea L. | Colirrábano. | TP 65/1 rev. de 15.3.2017. |
+| Brassica rapa L. | Col de China. | TP 105/1 de 13.3.2008. |
+| Capsicum annuum L. | Pimiento. | TP 76/2 rev. de 15.3.2017. |
 | Cichorium endivia L. | Escarola y endibia. | TP 118/3 de 19.3.2014. |
 | Cichorium intybus L. | Achicoria industrial. | TP 172/2 de 1.12.2005. |
 | Cichorium intybus L. | Achicoria silvestre. | TP 173/2 de 21.3.2018. |
-| Cichorium intybus L. | Achicoria común o italiana. | TP 154/1 de 21.3.2018. |
+| Cichorium intybus L. | Achicoria común o italiana. | TP 154/1 rev. de 19.3.2019. |
 | Citrullus lanatus (Thunb.) Matsum. et Nakai. | Sandía. | TP 142/2 de 19.3.2014. |
 | Cucumis melo L. | Melón. | TP 104/2 de 21.3.2007. |
-| Cucumis sativus L. | Pepino y pepinillo. | TP 61/2 rev. de 21.3.2018. |
+| Cucumis sativus L. | Pepino y pepinillo. | TP 61/2 rev. 2 de 19.3.2019. |
 | Cucurbita maxima Duchesne. | Calabaza. | TP 155/1 de 11.3.2015. |
-| Cucurbita maxima Duchesne × Cucurbita moschata Duchesne. | Híbridos interespecíficos de Cucurbita maxima Duchesne × Cucurbita moschata Duchesne destinados a ser utilizados como portainjertos. | TP 311/1 de 15.3.2017. |
+| Cucurbita maxima Duchesne × Cucurbita moschata Duchesne. | Híbridos interespecíficos de Cucurbita maxima Duchesne × Cucurbita moschata Duchesne. destinados a ser utilizados como portainjertos. | TP 311/1 de 15.3.2017. |
 | Cucurbita pepo L. | Calabacín. | TP 119/1 rev. de 19.3.2014. |
 | Cynara cardunculus L. | Alcachofa y cardo. | TP 184/2 de 27.2.2013. |
 | Daucus carota L. | Zanahoria de mesa y zanahoria forrajera. | TP 49/3 de 13.3.2008. |
 | Foeniculum vulgare Mill. | Hinojo. | TP 183/1 de 25.3.2004. |
-| Lactuca sativa L. | Lechuga. | TP 13/6 de 21.3.2018. |
+| Lactuca sativa L. | Lechuga. | TP 13/6 rev. de 15.2.2019. |
 | Petroselinum crispum (Mill.) Nyman ex A. W. Hill. | Perejil. | TP 136/1 de 21.3.2007. |
 | Phaseolus coccineus L. | Judía escarlata. | TP 009/1 de 21.03.2007. |
 | Phaseolus vulgaris L. | Judía de mata baja y judía de enrame. | TP 12/4 de 27.2.2013. |
 | Pisum sativum L. (partim). | Guisante de grano rugoso, guisante de grano liso redondo y guisante cometodo. | TP 7/2 rev. 2 de 15.3.2017. |
 | Raphanus sativus L. | Rábano o rabanito y rábano de invierno o rábano negro. | TP 64/2 rev. de 11.3.2015. |
-| Rheum rhabarbarum L. | Ruibarbos. | TP 62/1 de 19.4.2016. |
+| Rheum rhabarbarum L. | Ruibarbo. | TP 62/1 de 19.4.2016. |
 | Scorzonera hispanica L. | Escorzonera o salsifí negro. | TP 116/1 de 11.3.2015. |
-| Solanum habrochaites S. Knapp et D.M. Spooner; Solanum lycopersicum L. × Solanum habrochaites S. Knapp et D.M. Spooner; Solanum lycopersicum L. × Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. × Solanum cheesmaniae (L. Ridley) Fosberg; Solanum pimpinellifolium L. × Solanum habrochaites S. Knapp et D. M. Spooner. | Portainjertos de tomate. | TP 294/1 rev. 3 de 21.3.2018. |
 | Solanum lycopersicum L. | Tomate. | TP 44/4 rev. 3 de 21.3.2018. |
 | Solanum melongena L. | Berenjena. | TP 117/1 de 13.3.2008. |
 | Spinacia oleracea L. | Espinaca. | TP 55/5 rev. 2 de 15.3.2017. |
 | Valerianella locusta (L.) Laterr. | Canónigo o hierba de los canónigos. | TP 75/2 de 21.3.2007. |
-| Vicia faba L. (partim). | Haba. | TP Broadbean/1 de 25.3.2004. |
-| Zea mays L. (partim). | Maíz dulce y maíz para palomitas. | TP 02/3 de 11.03.2010. |
+| Vicia faba L. (partim) | Haba. | TP Broadbean/1 de 25.3.2004. |
+| Zea mays L. (partim) | Maíz dulce y maíz para palomitas. | TP 02/3 de 11.03.2010. |
+| Solanum habrochaites S. Knapp et D.M. Spooner; Solanum lycopersicum L. × Solanum habrochaites S. Knapp et D.M. Spooner; Solanum lycopersicum L. × Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. × Solanum cheesmaniae (L. Ridley) Fosberg; Solanum pimpinellifolium L. × Solanum habrochaites S. Knapp et D.M. Spooner | Portainjertos de tomate. | TP 294/1 rev. 3 de 21.3.2018. |
+
+(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
 Especies que cumplen con las directrices de examen de la UPOV (2):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Brassica rapa L. var. rapa L. | Nabo. | TG/37/10 de 4.4.2001. |
+| Brassica rapa L. | Nabo. | TG/37/10 de 4.4.2001. |
 
-(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+(2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.yujuint).
 
-(2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
-
-> Téngase en cuenta que la modificación del apartado 5, efectuada por el art. único.7 de la Orden APA/775/2019, de 2 de julio. Ref. BOE-A-2019-10539 entra en vigor el 1 de septiembre de 2019, según establece su disposición final 2.
+> Se modifican los apartados 1 y 5 por el art. 7.7 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#as-3
 
 > Se modifica el apartado 5, con efectos de 1 de septiembre de 2019, por el art. único.7 de la Orden APA/775/2019, de 2 de julio. Ref. BOE-A-2019-10539
 

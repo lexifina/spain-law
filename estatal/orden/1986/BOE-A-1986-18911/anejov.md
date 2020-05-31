@@ -24,7 +24,7 @@
 | Col repollo | 25 | 3 |
 | Coliflor | 25 | 3 |
 | Colirrábano | 25 | 3 |
-| Endibia, achicoria silvestre (achicoria italiana) | 15 | 3 |
+| Endivia, Achicoria común (incluida la achicoria roja) | 15 | 3 |
 | Escarola | 15 | 3 |
 | Escorzonera | 30 | 2 |
 | Espárrago | 100 | 2 |
@@ -53,6 +53,8 @@
 | Zanahoria | 10 | 3 |
 
 Para variedades híbridas F-1 de las especies mencionadas, el peso mínimo de la muestra puede reducirse a una cuarta parte del peso fijado. No obstante, deberá pesar, al menos, cinco gramos o tener 400 semillas.
+
+> Se modifica por el art. 1.4 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#ap
 
 > Se modifica por el art. 1.3 de la Orden APA/1818/2007, de 13 de junio. Ref. BOE-A-2007-12197.
 
