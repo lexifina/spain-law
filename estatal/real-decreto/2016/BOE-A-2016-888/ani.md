@@ -1,19 +1,59 @@
 ## ANEXO I
 
-## Porcentajes máximos admitidos en los campos de producción según la categoría a obtener
+## Condiciones mínimas que deben cumplir los cultivos de patatas de siembra
 
-| Concepto | Prebase | Base | Certificada |
-| --- | --- | --- | --- |
+1. Sumados, el número de plantas en crecimiento que no se ajusten a la variedad y el número de plantas de variedades extrañas, no excederá, según su categoría, los porcentajes máximos del cuadro siguiente:
+
+| Prebase | Base | Certificada |
+| --- | --- | --- |
 | PBTC | PB | S | SE | E | A | B |
-| Plantas afectadas por pie negro | 0 | 0 | 0,1 | 0,5 | 1 | 2 | 4 |
-| Número de plantas que no se ajustan a la variedad y de variedades distintas, conjuntamente | 0 | 0,01 | 0,1 | 0,1 | 0,1 | 0,2 | 0,5 |
-| Número de plantas que no se ajustan a la variedad y de variedades distintas, conjuntamente en la descendencia directa | – | – | 0,25 | 0,25 | 0,25 | 0,5 | 0,5 |
-| En la descendencia directa, número de plantas con síntomas de virosis | 0 | 0,5 | 1 | 2 | 4 | 8 | 10 |
-| Número de plantas con síntomas de virus del mosaico (PVY) y del virus del enrollado de la patata (PLRV), conjuntamente | 0 | 0,1 | 0,2 | 0,5 | 0,8 | 2 | 6 |
-| Número máximo de generaciones, incluidas las de prebase en campo y de base | – | 4 | 5 | 6 | 7 | 9 | 9 |
+| 0% | 0,01% | 0,1% | 0,1% | 0,1% | 0,2% | 0,5% |
 
-Las patatas de siembra de prebase procederán de plantas madre que estén exentas de los siguientes organismos nocivos: Pectobactrium spp., enrollamiento de la hoja de la patata, virus A de la patata, virus M de la patata, virus S de la patata, virus X de la patata, y virus Y de la patata. En el caso de que se utilicen métodos de micropropagación, se determinará si se cumple lo anterior a través de pruebas oficiales, o a través de pruebas bajo supervisión oficial realizadas en la planta madre. En el caso de que se utilicen métodos de selección clonal, se determinará si se cumple lo anterior a través de pruebas oficiales, o a través de pruebas bajo supervisión oficial, realizadas en el patrón clonal.
+2. Sumados, el número de plantas en crecimiento que no se ajusten a la variedad y el número de plantas de variedades extrañas en la descendencia directa, no excederá, según su categoría, los porcentajes máximos del cuadro siguiente:
 
-Se determinará que se cumplen los requisitos anteriores a través de inspecciones oficiales sobre el terreno. En caso de duda, dichas inspecciones deberán complementarse con prueba oficiales realizadas en las hojas.
+| Prebase | Base | Certificada |
+| --- | --- | --- |
+| PBTC | PB | S | SE | E | A | B |
+| – | – | 0,25% | 0,25% | 0,25 | 0,5% | 0,5% |
 
-Las tolerancias anteriores, previstas en las plantas con síntomas de virosis, únicamente serán aplicables a las virosis que hayan sido causadas por virus propagados en Europa.
+3. Las plantas cumplirán los requisitos relativos a la presencia de plagas reguladas no cuarentenarias o síntomas causados por plagas reguladas no cuarentenarias correspondientes, y las categorías correspondientes, que figuran en el cuadro siguiente:
+
+| Plagas reguladas no cuarentenarias o síntomas causados por ellas | Umbral en las plantas en crecimiento de las patatas de siembra según su categoría |
+| --- | --- |
+| Prebase | Base | Certificada |
+| PBTC | PB | S | SE | E | A | B |
+| Pie negro (Dickeya Samson et al. spp. [1DICKG]; Pectobacterium Waldee emend. Hauben et al. spp. [1PECBG]) | 0% | 0% | 0,1% | 0,5% | 1,0 % | 2,0% | 4,0 % |
+| Candidatus Liberibacter solanacearum Liefting et al. [LIBEPS] | 0% | 0% | 0% | 0% | 0 % | 0% | 0 % |
+| Candidatus Phytoplasma solani Quaglino et al. [PHYPSO] | 0% | 0% | 0% | 0% | 0 % | 0% | 0 % |
+| Síntomas de mosaico causados por virus y síntomas causados por el virus del enrollamiento de la hoja de patata [PLRV00] | 0% | 0,1% | 0,2% | 0,5% | 0,8 % | 2,0% | 6,0 % |
+| Viroide del tubérculo fusiforme de la patata [PSTVD0] | 0% | 0% | 0% | 0% | 0 % | 0% | 0 % |
+| Síntomas de virosis | 0% | 0,5% | 1,0% | 2,0% | 4,0 % | 8,0% | 10,0 % |
+
+4. El número máximo de generaciones de patata de siembra, incluidas las de prebase en campo y de base, no podrá superar, según sus categorías, lo indicado en el siguiente cuadro:
+
+| Prebase | Base | Certificada |
+| --- | --- | --- |
+| PBTC | PB | S | SE | E | A | B |
+| – | 4 | 5 | 6 | 7 | 9 | 9 |
+
+5. Adicionalmente, las condiciones mínimas para el cultivo de patatas de siembra de prebase de la clase de la Unión PBTC serán las siguientes:
+
+a) no habrá en el cultivo plantas que no se ajusten a la variedad ni plantas de variedades extrañas,
+
+b) las plantas, incluidos los tubérculos, se producirán mediante micropropagación,
+
+c) las plantas, incluidos los tubérculos, se producirán en una instalación protegida y en un medio de cultivo que esté exento de plagas,
+
+d) los tubérculos no se multiplicarán más allá de la primera generación,
+
+6. Adicionalmente las patatas de siembra prebase procederán de plantas madre que están exentas de las siguientes plagas: Pectobacterium spp., Dickeya spp., Candidatus Liberibacter solanacearum, Candidatus Phytoplasma solani, viroide del tubérculo fusiforme de la patata, virus del enrollamiento de la hoja de la patata, virus A de la patata, virus M de la patata, virus S de la patata, virus X de la patata y virus Y de la patata;
+
+7. Inspecciones oficiales o bajo supervisión oficial.
+
+– Se determinará que se cumplen los requisitos anteriores a través de inspecciones oficiales sobre el terreno. En caso de duda, dichas inspecciones deberán complementarse con prueba oficiales realizadas en las hojas.
+
+– En el caso de que se utilicen métodos de micropropagación, se determinará si se cumple lo anterior a través de pruebas oficiales, o a través de pruebas bajo supervisión oficial realizadas en la planta madre.
+
+– En el caso de que se utilicen métodos de selección clonal, se determinará si se cumple lo anterior a través de pruebas oficiales, o a través de pruebas bajo supervisión oficial, realizadas en el patrón clonal.
+
+> Se modifica por el art. 4.1 del Real Decreto 541/2020, de 26 de mayo. Ref. BOE-A-2020-5321

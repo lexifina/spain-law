@@ -23,9 +23,9 @@ c) Los materiales que no cumplan los requisitos contemplados más adelante en el
 
 3. Madurez: Los sarmientos habrán llegado a un grado suficiente de madurez de la madera. La proporción madera-pulpa será la normal para la variedad.
 
-4. Sanidad: La presencia de organismos nocivos que reduzcan el valor de uso de los materiales de multiplicación sólo se tolerará hasta el límite más bajo posible.
+4. Los materiales de multiplicación estarán prácticamente libres de cualquier plaga que reduzca su utilidad y calidad y en particular los citados en los anexos I y III.
 
-Se eliminarán los materiales de multiplicación que presenten señales o síntomas claros atribuibles a organismos nocivos para los que no existan tratamientos eficaces.
+Los materiales de multiplicación también cumplirán los requisitos relativos a las plagas cuarentenarias de la Unión y las plagas cuarentenarias de zonas protegidas contemplados en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
 
 5. Clasificación de plantas injerto: Las plantas injerto procedentes de una combinación patron-injerto, ambos de la misma categoría, se considerarán de esa categoría. Las plantas de vivero procedentes de una combinación patron-injerto de distinta categoría, se considerarán de acuerdo con el componente de inferior categoría.
 
@@ -74,5 +74,7 @@ D. Base: El corte se efectuará por debajo del diafragma, a una distancia sufici
 4. Plantas cultivadas en recipientes, alvéolos o bandejas.
 
 Estas plantas han de presentar un sarmiento o un brote bien desarrollado y un sistema radicular equilibrado con la parte aérea.
+
+> Se modifica el apartado 4 por el art. 3.2 del Real Decreto 541/2020, de 26 de mayo. Ref. BOE-A-2020-5321
 
 > Se modifica por el art. único de la Orden APA/2474/2006, de 27 de julio. Ref. BOE-A-2006-13846

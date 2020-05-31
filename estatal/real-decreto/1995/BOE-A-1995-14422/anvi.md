@@ -2,7 +2,7 @@
 
 ## Normas específicas para la certificación de plantas de vivero del subgrupo cítricos
 
-1. (Derogado)
+1. (Derogado).
 
 2. Requisitos para la producción de material de base.
 
@@ -30,7 +30,7 @@ Los viveros de patrones y plantones deberán estar separados al menos 100 metros
 
 La planta de vivero certificada se testará de tristeza según se indica en el cuadro 1.
 
-4. (Derogado)
+4. (Derogado).
 
 5. Requisitos para la producción de plantas de vivero de base y plantas de vivero certificadas por micropropagación o cultivo in vitro:
 
@@ -72,56 +72,7 @@ c) Requisitos específicos para la producción de plantas de vivero certificadas
 
 3. Precontroles varietales: En las primeras fases de la multiplicación se tomarán al menos tres plantas de cada línea de descendencia clonal para el precontrol varietal, que cultivará el productor en sus instalaciones de aclimatación. De todo ello, informará previamente al organismo oficial responsable, que efectuará las oportunas inspecciones. Las líneas de descendencia que no superen este precontrol serán rechazadas.
 
-## CUADRO 1
-
-## Test obligatorios de enfermedades transmisibles por injerto
-
-A) Material parental y plantas de base.
-
-| Enfermedades | Periodicidad del test en años |
-| --- | --- |
-| Plantas en abrigo de cuarentena | Plantas en pleno campo |
-|  |
-| Tristeza | 3 | 1 |
-| Vein-enation | 3 | 1 |
-| Grupo psoriasis y enfermedades que provocan en las hojas jóvenes síntomas similares a los de la Psoriasis (Psoriasis, Ring Spot, Cristacorbis, Impietratura y Cóncave Gum) | 10 | 6 |
-| Infectious Variegation | 10 | 6 |
-| Exocortis | 3 | 3 |
-| Cachexia-Xiloporosis | 6 | 6 |
-| Stuborn * (Spiroplasma citri) | 1 | 1 |
-| Manchado foliar de los cítricos (Citrus leaf Blotch) | 10 | 10 |
-
-* Síntomas visuales.
-
-B) Plantas de vivero certificadas.
-
-Testado obligatorio de «tristeza» pudiéndose realizar de cualquier otra enfermedad del cuadro anterior, citando el resultado en la etiqueta.
-
-C) Resumen de los controles sanitarios por categorías y material vegetal.
-
-| Material y categoría vegetal | Número de plantas a muestrear | Enfermedades a analizar | Periodicidad del muestreo |
-| --- | --- | --- | --- |
-| Material inicial | 1/1 | Cuadro 1.A | Cuadro 1.A |
-| Plantas madre de base | 1/1 | Cuadro 1.A | Cuadro 1.A |
-| Plantas madres de certificada. | 1/1 * | Tristeza | Anual |
-| Vivero de plantones certificados | 1/1000 | Tristeza | Anual |
-
-* Antes del corte de yemas.
-
-D) Tolerancias admisibles.
-
-| Categorías | Tristeza * – Porcentaje | Otras enfermedades |
-| --- | --- | --- |
-| Material inicial | 0 | 0 |
-| Plantas madre de base | 0 | 0 |
-| Plantas madres de certificada | 0 | 0,25 ** |
-| Plantones certificados | 0 | 2 ** |
-
-* En el caso de superar las tolerancias fijadas, el organismo oficial responsable tomará las medidas oficiales adecuadas en coordinación con lo previsto en el Real Decreto 2071/1993.
-
-** Síntomas visuales.
-
-Para las plantas madres de semillas se podrá tolerar que sean portadoras de alguna enfermedad, no transmisible por semillas, siempre que su presencia no sea foco de infección para otros cultivos establecidos en la zona.
+> Se deroga el cuadro 1 por la disposición derogatoria única del Real Decreto 541/2020, de 26 de mayo. Ref. BOE-A-2020-5321
 
 > Se derogan los arts. 1 y 4 y el cuadro 2 por el art. único.25.c) del Real Decreto 744/2016, de 30 de diciembre. Ref. BOE-A-2016-12603
 

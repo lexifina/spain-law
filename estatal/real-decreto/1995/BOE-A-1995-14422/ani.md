@@ -1,78 +1,176 @@
 ## ANEXO I
 
-## Lista de organismos nocivos que requieren inspección visual y, en determinadas condiciones, muestreo y ensayo para constatar su presencia
+## Lista de plagas reguladas no cuarentenarias que requieren inspección visual para determinar su presencia y, en caso de dudas, muestreo y ensayo con arreglo al artículo 60, apartado 1, el artículo 61, apartado 1, el artículo 67, apartado 1, el artículo 72, apartado 1, y el artículo 19 quáter, apartado 1
 
-Parte A
-
-Lista de organismos nocivos que deben estar ausentes, o prácticamente ausentes, con arreglo a lo dispuesto en los artículos 60.1, 61.1, 67.1, 72.1, y 19 quater.1.
-
-| Género o especie | Organismos nocivos |
+| Género o especie | Plagas reguladas no cuarentenarias |
 | --- | --- |
-| Castanea sativa Mill. | Hongos: Mycosphaerella maculiformis Phytophthora cambivora Phytophthora cinnamomi Enfermedades similares a las víricas Virus del mosaico del castaño (ChMV) |
-| Citrus L., Fortunella Swingle y Poncirus Raf. | Insectos: Aleurotrixus floccosus Parabemisia myricae Nematodos Pratylenchus vulnus Tylenchus semi-penetrans Hongos Phytophthora citrophtora Phytophthora parasítica |
-| Corylus avellana L. | Ácaros: Phytoptus avellanae Hongos: Armillariella mellea Verticillium dahliae Verticillium alboatrum Bacterias: Xanthomonas arboricola pv. corylina Pseudomonas avellanae |
-| Cydonia oblonga Mill., Malus Mill. y Pyrus L. | Insectos: Eriosoma lanigerum Psylla spp. Nematodos Meloidogyne hapla Meloidogyne javanica Pratylenchus penetrans Pratylenchus vulnus Hongos: Armillariella mellea Chondrostereum purpureum Glomerella cingulata Pezicula alba Pezicula malicorticis Nectria galligena Phytophthora cactorum Roessleria pallida Verticillium dahliae Verticillium alboatrum Bacterias Agrobacterium tumefaciens Pseudomonas syringae pv. syringae Virus: Los que no figuran en el anexo II bis |
-| Ficus carica L. | Insectos: Ceroplastes rusci Nematodos Heterodera fici Meloidogyne arenaria Meloidogyne incognita Meloidogyne javanica Pratylenchus penetrans Pratylenchus vulnus Hongos: Armillaria mellea Bacterias Phytomonas fici Enfermedades similares a las víricas Mosaico del higo |
-| Juglans regia L. | Insectos: Epidiaspis leperii Pseudaulacaspis pentagona Quadraspidiotus perniciosus Hongos: Armillariella mellea Nectria galligena Chondrostereum purpureum Phytophthora cactorum Bacterias: Agrobacterium tumefaciens Xanthomonas arboricola pv. juglandi |
-| Olea europaea L. | Nematodos Meloidogyne arenaria Meloidogyne incognita Meloidogyne javanica Pratylenchus vulnus Bacterias: Pseudomonas savastanoi pv. savastanoi Enfermedades similares a las víricas Enfermedad compleja del amarilleo de las hojas |
-| Pistacia vera L. | Nematodos: Pratylenchus penetrans Pratylenchus vulnus Hongos: Phytophthora cryptogea Phytophthora cambivora Rosellinia necatrix Verticillium dahliae |
-| Prunus amygdalus, P. armeniaca, P. domestica, P. persica y P. salicina | Insectos: Pseudaulacaspis pentagona Quadraspidiotus perniciosus Nematodos Meloidogyne arenaria Meloidogyne javanica Meloidogyne incognita Pratylenchus penetrans Pratylenchus vulnus Hongos: Phytophthora cactorum Verticillium dahliae Bacterias: Agrobacterium tumefaciens Pseudomonas syringae pv. morsprunorum Pseudomonas syringae pv. syringae (sobre P. armeniaca) Pseudomonas viridiflava (sobre P. armeniaca) |
-| Prunus avium, P. cerasus | Insectos: Quadraspidiotus perniciosus Nematodos: Meloidogyne arenaria Meloidogyne javanica Meloidogyne incognita Pratylenchus penetrans Pratylenchus vulnus Hongos: Phytophthora cactorum Bacterias: Agrobacterium tumefaciens Pseudomonas syringae pv. morsprunorum |
-| Ribes L. | Insectos y ácaros: Dasyneura tetensi Ditylenchus dipsaci Pseudaulacaspis pentagona Quadraspidiotus perniciosus Tetranycus urticae Cecidophyopsis ribis Hongos: Sphaerotheca mors uvae Microsphaera grossulariae Diaporthe strumella (Phomopsis ribicola) |
-| Rubus L. | Hongos: Peronospora rubi. |
+| Castanea sativa Mill. | Hongos y oomicetos Cryphonectria parasitica (Murrill) Barr [ENDOPA] |
+|  |
+|  | Mycosphaerella punctiformis Verkley & U. Braun [RAMUEN] |
+|  | Phytophthora cambivora (Petri) Buisman [PHYTCM] |
+|  | Phytophthora cinnamomi Rands [PHYTCN] |
+|  | Virus, viroides, enfermedades similares a las víricas y fitoplasmas |
+|  | Agente del mosaico del castaño |
+| Citrus L., Fortunella Swingle, Poncirus Raf. | Hongos y oomicetos |
+|  | Phytophthora citrophthora (R.E.Smith & E.H.Smith) Leonian [PHYTCO ] |
+|  | Phytophthora nicotianae var. parasitica (Dastur) Waterhouse [PHYTNP] |
+|  | Insectos y ácaros |
+|  | Aleurothrixus floccosus Maskell [ALTHFL] |
+|  | Parabemisia myricae Kuwana [PRABMY] |
+|  | Nematodos |
+|  | Pratylenchus vulnus Allen & Jensen [PRATVU] |
+|  | Tylenchulus semipenetrans Cobb [TYLESE] |
+| Corylus avellana L. | Bacterias |
+|  | Pseudomonas avellanae Janse et al. [PSDMAL] |
+|  | Xanthomonas arboricola pv. Corylina (Miller, Bollen, Simmons, Gross & Barss) Vauterin, Hoste, Kersters & Swings [XANTCY] |
+|  | Hongos y oomicetos |
+|  | Armillariella mellea (Vahl) Kummer [ARMIME] |
+|  | Verticillium albo-atrum Reinke & Berthold [VERTAA] |
+|  | Verticillium dahliae Kleb [VERTDA] |
+|  | Insectos y ácaros |
+|  | Phytoptus avellanae Nalepa [ERPHAV] |
+| Cydonia oblonga Mill. y Pyrus L. | Bacterias |
+|  | Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] |
+|  | Erwinia amylovora (Burrill) Winslow et al. [ERWIAM] |
+|  | Pseudomonas syringae pv. Syringae van Hall [PSDMSY] |
+|  | Hongos y oomicetos |
+|  | Armillariella mellea (Vahl) Kummer [ARMIME] |
+|  | Chondrostereum purpureum Pouzar [STERPU] |
+|  | Glomerella cingulata (Stoneman) Spaulding & von Schrenk [GLOMCI] |
+|  | Neofabraea alba Desmazières [PEZIAL] |
+|  | Neofabraea malicorticis Jackson [PEZIMA] |
+|  | Neonectria ditissima (Tulasne & C. Tulasne) Samuels & Rossman [NECTGA] |
+|  | Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC] |
+|  | Sclerophora pallida Yao & Spooner [SKLPPA] |
+|  | Verticillium albo-atrum Reinke & Berthold [VERTAA] |
+|  | Verticillium dahliae Kleb [VERTDA] |
+|  | Insectos y ácaros |
+|  | Eriosoma lanigerum Hausmann [ERISLA] |
+|  | Psylla spp. Geoffroy [1PSYLG] |
+|  | Nematodos |
+|  | Meloidogyne hapla Chitwood [MELGHA] |
+|  | Meloidogyne javanica Chitwood [MELGJA] |
+|  | Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] |
+|  | Pratylenchus vulnus Allen & Jensen [PRATVU] |
+| Ficus carica L. | Bacterias |
+|  | Xanthomonas campestris pv. fici (Cavara) Dye [XANTFI] |
+|  | Hongos y oomicetos |
+|  | Armillariella mellea (Vahl) Kummer [ARMIME] |
+|  | Insectos y ácaros |
+|  | Ceroplastes rusci Linnaeus [CERPRU] |
+|  | Nematodos |
+|  | Heterodera fici Kirjanova [HETDFI] |
+|  | Meloidogyne arenaria Chitwood [MELGAR] |
+|  | Meloidogyne incognita (Kofold & White) Chitwood [MELGIN] |
+|  | Meloidogyne javanica Chitwood [MELGJA] |
+|  | Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] |
+|  | Pratylenchus vulnus Allen & Jensen [PRATVU] |
+|  | Virus, viroides, enfermedades similares a las víricas y fitoplasmas |
+|  | Agente del mosaico de la higuera [FGM000] |
+| Fragaria L. | Bacterias |
+|  | Candidatus Phlomobacter fragariae Zreik, Bové & Garnier [PHMBFR] |
+|  | Hongos y oomicetos |
+|  | Podosphaera aphanis (Wallroth) Braun & Takamatsu [PODOAP] |
+|  | Rhizoctonia fragariae Hussain & W.E. McKeen [RHIZFR] |
+|  | Verticillium albo-atrum Reinke & Berthold [VERTAA] |
+|  | Verticillium dahliae Kleb [VERTDA] |
+|  | Insectos y ácaros |
+|  | Chaetosiphon fragaefolii Cockerell [CHTSFR] |
+|  | Phytonemus pallidus Banks [TARSPA] |
+|  | Nematodos |
+|  | Ditylenchus dipsaci (Kuehn) Filipjev [DITYDI] |
+|  | Meloidogyne hapla Chitwood [MELGHA] |
+|  | Pratylenchus vulnus Allen & Jensen [PRATVU] |
+|  | Virus, viroides, enfermedades similares a las víricas y fitoplasmas |
+|  | Candidatus Phytoplasma asteris Lee et al. [PHYPAS] |
+|  | Candidatus Phytoplasma australiense Davis et al. [PHYPAU] |
+|  | Candidatus Phytoplasma fragariae Valiunas, Staniulis & Davis [PHYPFG] |
+|  | Candidatus Phytoplasma pruni [PHYPPN] |
+|  | Candidatus Phytoplasma solani Quaglino et al. [PHYPSO] |
+|  | Clover phyllody Phytoplasma [PHYP03] |
+|  | Fitoplasma de la enfermedad multiplicadora de la fresa (PHYP75) |
+| Juglans regia L. | Bacterias |
+|  | Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] |
+|  | Xanthomonas arboricola pv. Juglandi (Pierce) Vauterin et al. [XANTJU] |
+|  | Hongos y oomicetos |
+|  | Armillariella mellea (Vahl) Kummer [ARMIME] |
+|  | Chondrostereum purpureum Pouzar [STERPU] |
+|  | Neonectria ditissima (Tulasne & C. Tulasne) Samuels & Rossman [NECTGA] Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC] |
+|  | Insectos y ácaros |
+|  | Epidiaspis leperii Signoret [EPIDBE] |
+|  | Pseudaulacaspis pentagona Targioni-Tozzetti [PSEAPE] |
+|  | Quadraspidiotus perniciosus Comstock [QUADPE] |
+| Malus Mill. | Bacterias |
+|  | Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] |
+|  | Erwinia amylovora (Burrill) Winslow et al. [ERWIAM] |
+|  | Pseudomonas syringae pv. Syringae van Hall [PSDMSY] |
+|  | Hongos y oomicetos |
+|  | Armillariella mellea (Vahl) Kummer [ARMIME] |
+|  | Chondrostereum purpureum Pouzar [STERPU] |
+|  | Glomerella cingulata (Stoneman) Spaulding & von Schrenk [GLOMCI] |
+|  | Neofabraea alba Desmazières [PEZIAL] |
+|  | Neofabraea malicorticis Jackson [PEZIMA] Neonectria ditissima (Tulasne & C. Tulasne) Samuels & Rossman [NECTGA] Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC] Sclerophora pallida Yao & Spooner [SKLPPA] Verticillium albo-atrum Reinke & Berthold [VERTAA] Verticillium dahliae Kleb [VERTDA] |
+|  | Insectos y ácaros |
+|  | Eriosoma lanigerum Hausmann [ERISLA] Psylla spp. Geoffroy [1PSYLG] |
+|  | Nematodos |
+|  | Meloidogyne hapla Chitwood [MELGHA] Meloidogyne javanica Chitwood [MELGJA] Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] Pratylenchus vulnus Allen & Jensen [PRATVU] |
+| Olea europaea L. | Bacterias |
+|  | Pseudomonas syringae pv. savastanoi (Smith) Gardan et al. [PSDMSA] |
+|  | Nematodos |
+|  | Meloidogyne arenaria Chitwood [MELGAR] Meloidogyne incognita (Kofold & White) Chitwood [MELGIN] Meloidogyne javanica Chitwood [MELGJA] Pratylenchus vulnus Allen & Jensen [PRATVU] |
+|  | Virus, viroides, enfermedades similares a las víricas y fitoplasmas |
+|  | Virus asociado al amarilleo de las hojas del olivo [OLYAV0] Virus asociado al amarilleo de las venas del olivo [OVYAV0] Virus asociado al moteado amarillo y deterioro del olivo [OYMDAV] |
+| Pistacia vera L. | Hongos y oomicetos |
+|  | Phytophthora cambivora (Petri) Buisman [PHYTCM] Phytophthora cryptogea Pethybridge & Lafferty [PHYTCR] Rosellinia necatrix Prillieux [ROSLNE] Verticillium dahliae Kleb [VERTDA] |
+|  | Nematodos |
+|  | Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] Pratylenchus vulnus Allen & Jensen [PRATVU] |
+| Prunus domestica L. y Prunus dulcis (Miller) Webb | Bacterias |
+|  | Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] Pseudomonas syringae pv. morsprunorum (Wormald) Young, Dye & Wilkie [PSDMMP] |
+|  | Hongos y oomicetos |
+|  | Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC] Verticillium dahliae Kleb [VERTDA] |
+|  | Insectos y ácaros |
+|  | Pseudaulacaspis pentagona Targioni-Tozzetti [PSEAPE] |
+|  | Quadraspidiotus perniciosus Comstock [QUADPE] |
+|  | Nematodos |
+|  | Meloidogyne arenaria Chitwood [MELGAR] Meloidogyne incognita (Kofold & White) Chitwood [MELGIN] Meloidogyne javanica Chitwood [MELGJA] Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] Pratylenchus vulnus Allen & Jensen [PRATVU] |
+| Prunus armeniaca L. | Bacterias |
+|  | Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] Pseudomonas syringae pv. morsprunorum (Wormald) Young, Dye & Wilkie [PSDMMP] Pseudomonas syringae pv. Syringae van Hall [PSDMSY] Pseudomonas viridiflava (Burkholder) Dowson [PSDMVF] |
+|  | Hongos y oomicetos |
+|  | Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC] |
+|  | Verticillium dahliae Kleb [VERTDA] |
+|  | Insectos y ácaros |
+|  | Pseudaulacaspis pentagona Targioni-Tozzetti [PSEAPE] |
+|  | Quadraspidiotus perniciosus Comstock [QUADPE] |
+|  | Nematodos |
+|  | Meloidogyne arenaria Chitwood [MELGAR] Meloidogyne incognita (Kofold & White) Chitwood [MELGIN] Meloidogyne javanica Chitwood [MELGJA] Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] Pratylenchus vulnus Allen & Jensen [PRATVU] |
+| Prunus avium L. y Prunus cerasus L. | Bacterias |
+|  | Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] |
+|  | Pseudomonas syringae pv. morsprunorum (Wormald) Young, Dye & Wilkie [PSDMMP] |
+|  | Hongos y oomicetos |
+|  | Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC] |
+|  | Insectos y ácaros |
+|  | Quadraspidiotus perniciosus Comstock [QUADPE] |
+|  | Nematodos |
+|  | Meloidogyne arenaria Chitwood [MELGAR] Meloidogyne incognita (Kofold & White) Chitwood [MELGIN] Meloidogyne javanica Chitwood [MELGJA] Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] Pratylenchus vulnus Allen & Jensen [PRATVU] |
+| Prunus persica (L.) Batsch y Prunus salicina Lindley | Bacterias |
+|  | Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] Pseudomonas syringae pv. morsprunorum (Wormald) Young, Dye & Wilkie [PSDMMP] Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie [PSDMPE] |
+|  | Hongos y oomicetos |
+|  | Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC] Verticillium dahliae Kleb [VERTDA] |
+|  | Insectos y ácaros |
+|  | Pseudaulacaspis pentagona Targioni-Tozzetti [PSEAPE] Quadraspidiotus perniciosus Comstock [QUADPE] |
+|  | Nematodos |
+|  | Meloidogyne arenaria Chitwood [MELGAR] Meloidogyne incognita (Kofold & White) Chitwood [MELGIN] Meloidogyne javanica Chitwood [MELGJA] Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] Pratylenchus vulnus Allen & Jensen [PRATVU] |
+| Ribes L. | Hongos y oomicetos |
+|  | Diaporthe strumella (Fries) Fuckel [DIAPST] Microsphaera grossulariae (Wallroth) Léveillé [MCRSGR] Podosphaera mors-uvae (Schweinitz) Braun & Takamatsu [SPHRMU] |
+|  | Insectos y ácaros |
+|  | Cecidophyopsis ribis Westwood [ERPHRI] Dasineura tetensi Rübsaamen [DASYTE] Pseudaulacaspis pentagona Targioni-Tozzetti [PSEAPE] Quadraspidiotus perniciosus Comstock [QUADPE] Tetranychus urticae Koch [TETRUR] |
+|  | Nematodos Aphelenchoides ritzemabosi (Schwartz) Steiner & Buhrer [APLORI] Ditylenchus dipsaci (Kuehn) Filipjev [DITYDI] Virus, viroides, enfermedades similares a las víricas y fitoplasmas Agente del mosaico de la Aucuba y agente del amarilleo de la grosella negra combinados |
+| Rubus L. | Bacterias |
+|  | Agrobacterium spp. Conn [1AGRBG] Rhodococcus fascians Tilford [CORBFA] Hongos y oomicetos Peronospora rubi Rabenhorst [PERORU] Insectos y ácaros Resseliella theobaldi Barnes [THOMTE] |
+| Vaccinium L. | Bacterias |
+|  | Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] Hongos y oomicetos Diaporthe vaccinii Shear [DIAPVA] Exobasidium vaccinii (Fuckel) Woronin [EXOBVA] Godronia cassandrae (anamorfo Topospora myrtilli) Peck [GODRCA] |
 
-Parte B
-
-Lista de organismos nocivos que deben estar ausentes, prácticamente ausentes, o presentes en niveles tolerados con arreglo a lo dispuesto en los artículos 60.1, 61.1, 67.1, 72.1, y 19 quater.1.
-
-| Organismos nocivos, por género y especie | Niveles de tolerancia (%) en los materiales |
-| --- | --- |
-| Iniciales | De base | Certificados |
-| Fragaria L. |
-| Insectos y ácaros |
-| Chaetosiphon fragaefoliae | 0 | 0,5 | 1 |
-| Phytonemus pallidus | 0 | 0 | 0,1 |
-| Nematodos |
-| Aphelenchoides fragariae | 0 | 0 | 1 |
-| Ditylenchus dipsaci | 0 | 0,5 | 1 |
-| Meloidogyne hapla | 0 | 0,5 | 1 |
-| Pratylenchus vulnus | 0 | 1 | 1 |
-| Hongos |
-| Rhizoctonia fragariae | 0 | 0 | 1 |
-| Podosphaera aphanis (Wallroth) Braun y Takamatsu | 0 | 0,5 | 1 |
-| Verticillium albo-atrum | 0 | 0,2 | 2 |
-| Verticillium dahliae | 0 | 0,2 | 2 |
-| Bacterias |
-| Candidatus Phlomobacter fragariae | 0 | 0 | 1 |
-| Virus |
-| Virus del mosaico de la fresa (SMoV) | 0 | 0,1 | 2 |
-| Fitoplasmosis | 0 | 0 | 1 |
-| Fitoplasma del amarilleo del áster | 0 | 0,2 | 1 |
-| Enfermedad multiplicadora | 0 | 0,1 | 0,5 |
-| Stolbur del deterioro letal de la fresa | 0 | 0,2 | 1 |
-| Fitoplasmas del pétalo verde de la fresa | 0 | 0 | 1 |
-| Candidatus phytoplasma fragariae | 0 | 0 | 1 |
-| Ribes L. |
-| Nematodos |
-| Aphelenchoides ritzemabosi | 0 | 0,05 | 0,5 |
-| Virus |
-| Del mosaico del Aucuba y del amarilleo de la grosella negra combinados | 0 | 0,05 | 0,5 |
-| Del aclaramiento y de la clorosis de la grosella negra, y de la necrosis de las venas de la grosella espinosa | 0 | 0,05 | 0,5 |
-| Rubus L. |
-| Insectos |
-| Resseliella theobaldi | 0 | 0 | 0,5 |
-| Bacterias |
-| Agrobacterium spp. | 0 | 0,1 | 1 |
-| Rhodococcus fascians | 0 | 0,1 | 1 |
-| Virus |
-| Virus del mosaico del manzano (ApMV), virus de la necrosis del frambueso negro (BRNV), virus del mosaico del pepino (CMV), virus del moteado de la hoja del frambueso (RLMV), virus de la mancha de la hoja del frambueso (RLSV), virus de la clorosis de los nervios del frambueso (RVCV), virus de la mancha amarilla de Rubus (RYNV) | 0 | 0 | 0,5 |
-| Vaccinium L. |
-| Hongos |
-| Exobasidium vaccinii var. Vaccinii | 0 | 0,5 | 1 |
-| Godronia cassandrae (anamorfa Topospora myrtilli) | 0 | 0,1 | 0,5 |
-| Bacterias |
-| Agrobacterium tumefaciens | 0 | 0 | 0,5 |
-| Virus | 0 | 0 | 0,5 |
+> Se modifica por el art. 1.12 del Real Decreto 541/2020, de 26 de mayo. Ref. BOE-A-2020-5321
 
 > Se modifica por el art. único.22 del Real Decreto 744/2016, de 30 de diciembre. Ref. BOE-A-2016-12603.
 
