@@ -1,9 +1,5 @@
 ## Disposición adicional segunda. Suspensión de plazos en el ámbito de actuación de la Inspección de Trabajo y Seguridad Social.
 
-1. El periodo de vigencia del estado de alarma declarado por el Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, así como sus posibles prórrogas, no computará a efectos de los plazos de duración de las actuaciones comprobatorias de la Inspección de Trabajo y Seguridad Social. Asimismo, no computará tal periodo en la duración de los plazos fijados por los funcionarios del Sistema de Inspección de Trabajo y Seguridad Social para el cumplimiento de cualesquiera requerimientos.
+(Derogada)
 
-Se exceptúan de lo establecido en el párrafo anterior aquellas actuaciones comprobatorias y aquellos requerimientos y órdenes de paralización derivados de situaciones estrechamente vinculadas a los hechos justificativos del estado de alarma, o aquellas que por su gravedad o urgencia resulten indispensables para la protección del interés general, en cuyo caso se motivará debidamente, dando traslado de tal motivación al interesado.
-
-2. Durante el periodo de vigencia del estado de alarma, declarado por el Real Decreto 463/2020, de 14 de marzo y sus posibles prórrogas, quedan suspendidos los plazos de prescripción de las acciones para exigir responsabilidades en lo que se refiere al cumplimiento de la normativa de orden social y de Seguridad Social.
-
-3. Todos los plazos relativos a los procedimientos regulados en el Reglamento general sobre procedimientos para la imposición de sanciones por infracciones de orden social y para los expedientes liquidatorios de cuotas de la Seguridad Social, aprobado por Real Decreto 928/1998, de 14 de mayo, están afectados por la suspensión de plazos administrativos prevista en la disposición adicional tercera del Real Decreto 463/2020, de 14 de marzo.
+> Se deroga, con efectos de 1 de junio de 2020, por la disposición derogatoria única.2 del Real Decreto-ley 19/2020, de 26 de mayo. Ref. BOE-A-2020-5315#dd
