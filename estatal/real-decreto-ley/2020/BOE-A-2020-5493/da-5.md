@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Aplicación en los territorios forales.
+
+En razón de la especificidad que supone la existencia de haciendas forales, las comunidades autónomas de régimen foral asumirán con referencia a su ámbito territorial, las funciones y servicios correspondientes que en este real decreto-ley se atribuyen al Instituto Nacional de la Seguridad Social en relación con la prestación económica no contributiva de la Seguridad Social del ingreso mínimo vital en los términos que se acuerde antes del 31 de octubre de 2020.
+
+En tanto no se produzca la asunción de las funciones y servicios a que hace referencia el párrafo anterior, se acordará mediante convenio a suscribir entre los órganos competentes del Estado y de la comunidad autónoma interesada, una encomienda de gestión para realizar las actuaciones que se prevean en el mismo en relación con la prestación económica del ingreso mínimo vital y que permitan la atención integral de sus beneficiarios en el País Vasco y Navarra.
