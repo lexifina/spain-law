@@ -21,6 +21,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO 3](c3.md)
 - [CAPÍTULO 4](c4.md)
 - [CAPÍTULO 5](c5.md)
+- [CAPÍTULO 5 BIS](c5-2.md)
 - [CAPÍTULO 6](c6.md)
 - [APÉNDICE I](ai.md)
 - [APÉNDICE II](ai-2.md)
