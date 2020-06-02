@@ -553,6 +553,10 @@ Para cada pasajero se indicará:
 
 – El número de visado, indicando las siglas del Estado de expedición, en caso necesario para acceso a España.
 
+– Datos, voluntariamente comunicados por el interesado, acerca del cuidado o asistencia especiales que, en situaciones de emergencia, pueda necesitar el pasajero.
+
+– Un número de contacto facilitado voluntariamente por el pasajero para casos de emergencia.DE de puertos marítimos.
+
 Identificación de los vehículos:
 
 Para cada vehículo en régimen de pasaje:
@@ -852,5 +856,7 @@ Lugar de embarque de los polizones si es conocido.
 Se indicará el puerto en el que han embarcado los polizones, si se conoce, expresado con la codificación UN/LOCODE de puertos marítimos.
 
 Indicador de si se ha encontrado algún animal enfermo a bordo (SI/NO).
+
+> Se modifica por el apartado 1 de la Resolución de 8 de mayo de 2020. Ref. BOE-A-2020-5494
 
 > Se modifica por el art. único.16 de la Orden FOM/1498/2014, de 1 de agosto. Ref. BOE-A-2014-8624.
