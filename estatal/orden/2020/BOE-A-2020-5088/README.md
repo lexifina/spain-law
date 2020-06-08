@@ -64,6 +64,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 37](a3-9.md)
 - [Sección 4](s4.md)
 - [Artículo 38](a3-10.md)
+- [Sección 5](s5.md)
+- [Artículo 38 bis](a3-12.md)
 - [CAPÍTULO IX](ci-5.md)
 - [Artículo 39](a3-11.md)
 - [Artículo 40](a4-2.md)

@@ -2,11 +2,9 @@
 
 ## Unidades Territoriales
 
-7. En la Comunidad Autónoma de Castilla y León, las provincias de Ávila, Burgos, León (excepto el área de salud de El Bierzo), Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora.
+(Sin contenido).
 
-9. En la Comunidad Autónoma de Cataluña, las regiones sanitarias de Lleida y Barcelona, excepto, en este último caso, las áreas de gestión asistencial de Alt Penedès y El Garraf.
-
-19. En la Comunidad de Madrid, la provincia de Madrid.
+> Se deja sin contenido por el art. 2 de la Orden SND/507/2020, de 6 de junio. Ref. BOE-A-2020-5795#as
 
 > Se modifica por la disposición final 1.12 de la Orden SND/458/2020, de 30 de mayo. Ref. BOE-A-2020-5469#df
 
