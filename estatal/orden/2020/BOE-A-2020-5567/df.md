@@ -25,3 +25,5 @@ Uno. El apartado 1 del artículo 2 queda redactado del siguiente modo:
 Dos. Se añade un apartado 3 al artículo 2 con la siguiente redacción:
 
 > «3. En los servicios previstos de líneas regulares de transporte marítimo, tanto las sometidas a contrato público u OSP como las que no lo están, la Dirección General de la Marina Mercante podrá adecuar los niveles de servicio que garanticen una prestación mínima en las conexiones marítimas, en las condiciones de movilidad que se requieran con los territorios no peninsulares.»
+
+> Téngase en cuenta que se deja sin efecto la reducción mínima del 70 % en la oferta total de operaciones en los servicios de transporte público de viajeros por vía aérea sometidos a OSP en las islas Baleares y en las islas Canarias, respectivamente, recogida en la presente Orden y, en consecuencia, los operadores aéreos podrán, a partir de este momento, adecuar libremente su oferta en las rutas mencionadas, según establece el apartado primero de la Resolución de 8 de junio de 2020. Ref. BOE-A-2020-5897#pr-2
