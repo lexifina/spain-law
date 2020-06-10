@@ -1,0 +1,3 @@
+## Disposición transitoria. Retroactividad.
+
+Lo dispuesto en los artículos 2 y 3 de esta orden será de aplicación a todas las modificaciones de otorgamiento de la subvención presentadas desde la fecha de entrada en vigor del Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la crisis sanitaria ocasionada por el COVID-19 y hasta tres meses antes de la fecha límite para presentar la solicitud de pago, ante la imposibilidad de ejecutar el proyecto en las condiciones iniciales aprobadas por causas imputables a la declaración del citado estado de alarma.
