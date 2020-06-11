@@ -42,6 +42,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 24](ar-24.md)
 - [Artículo 25](ar-25.md)
 - [Artículo 26](ar-26.md)
+- [Disposición adicional única](da.md)
 - [Disposición transitoria única](dt.md)
 - [Disposición derogatoria única](dd.md)
 - [Disposición final primera](df.md)

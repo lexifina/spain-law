@@ -1,0 +1,7 @@
+## Disposición adicional séptima. Comunicaciones de los organismos pagadores al Fondo Español de Garantía Agraria, O. A.
+
+Tal y como se establece en el artículo 10 del Reglamento de ejecución (UE) n.º 908/2014 de la Comisión, del 6 de agosto, los Organismos Pagadores a través del organismo de coordinación deberán realizar, a más tardar el duodécimo día de cada mes, la declaración de gastos y previsiones con arreglo al modelo facilitado por la Comisión a los Estados miembros a través de los sistemas de información, desglosada de acuerdo con la nomenclatura del presupuesto de la Unión Europea y por tipo de gasto y de ingreso, sobre la base de una nomenclatura detallada puesta a disposición de los Estados miembros.
+
+En este sentido, las previsiones de gastos y de ingresos asignados, referidas se corresponderán al mes en curso y a los dos meses siguientes y al fin del ejercicio financiero. Por tanto, en el caso de que el Organismo Coordinación, una vez haya estudiado dichas previsiones, compruebe que superan el techo financiero del Programa del ejercicio financiero en curso, comunicará a los organismos pagadores el importe de gasto que podrán pagar hasta el final del ejercicio financiero, así como la parte que genera el rebasamiento del techo financiero y que se deberá pagar para el siguiente ejercicio financiero.
+
+> Se añade por el art. 4.12 del Real Decreto 558/2020, de 9 de junio. Ref. BOE-A-2020-5899#ac

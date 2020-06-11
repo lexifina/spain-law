@@ -8,11 +8,9 @@ b) Costes de personal propio no dedicado en exclusiva a las actividades de promo
 
 c) Costes de personal autónomo. Deberán aportar copia del contrato que acredite la relación con la empresa, así como las facturas justificativas del gasto.
 
-La suma de los apartados a, b y c (Costes de Personal), no podrá superar el 13% del total de los costes subvencionables de las acciones ejecutadas, por este motivo dichos gastos deberán figurar convenientemente desglosados en el presupuesto recapitulativo del programa que se presente.
+La suma de los apartados a, b y c (Costes de Personal), no podrá superar el 13% del total de los costes subvencionables de las acciones ejecutadas, por este motivo dichos gastos deberán figurar convenientemente desglosados en el presupuesto recapitulativo del programa que se presente. Este porcentaje podrá ser superado debido a situaciones de fuerza mayor, siempre que no se supere el importe aprobado y se aporten las pruebas documentales para su justificación.
 
-El beneficiario deberá presentar justificantes que expongan los detalles del trabajo realmente efectuado en relación con la operación concreta o con cada medida acción subyacente, si procede.
-
-A efectos de la determinación de los costes de personal relacionados con la ejecución de una operación por parte del personal permanente del beneficiario, podrá calcularse la tarifa horaria aplicable dividiendo por 1.720 horas los últimos costes salariales anuales brutos documentados de los empleados concretos que hayan trabajado en la ejecución de la operación.
+El beneficiario deberá presentar justificantes que expongan los detalles del trabajo realmente efectuado en relación con la operación concreta o con cada medida acción subyacente, si procede. A efectos de la determinación de los costes de personal relacionados con la ejecución de una operación por parte del personal permanente del beneficiario, podrá calcularse la tarifa horaria aplicable dividiendo por 1.720 horas los últimos costes salariales anuales brutos documentados de los empleados concretos que hayan trabajado en la ejecución de la operación.
 
 d) Gastos administrativos: serán subvencionables hasta un límite de un 4 por ciento de los costes subvencionables totales de ejecución de las actividades promocionales e incluirán, en su caso, los gastos correspondientes al certificado de los estados financieros, recogido en el artículo 15.7. Estos gastos para ser subvencionables deberán estar contemplados como una partida específica en el presupuesto recapitulativo del programa. Se justificarán mediante un certificado del beneficiario que acredite esos gastos de administración y gestión del programa aprobado.
 
@@ -25,3 +23,5 @@ e) Alojamiento, manutención y comidas colectivas.
 – Estas dietas se abonarán por la participación en eventos fuera del lugar de trabajo, y cubrirán el número de días necesario para la realización de la actividad. Para comidas colectiva se abonará un importe máximo de 60 euros/persona en España y 70 euros /persona en terceros países previa presentación de facturas.
 
 f) Vino a emplear como material promocional: En el caso de catas, misiones inversas y similares será de un máximo de una botella por cada 6 participantes.
+
+> Se modifica la letra c) por el art. 4.16 del Real Decreto 558/2020, de 9 de junio. Ref. BOE-A-2020-5899#ac
