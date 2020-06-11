@@ -1,0 +1,3 @@
+## Primero.
+
+El cómputo de los plazos de caducidad de los asientos registrales que hubiesen quedado suspendidos en virtud de lo dispuesto en el artículo 42 del Real Decreto-ley 8/2020, de 17 de marzo, es decir, asientos de presentación, anotaciones preventivas, menciones, notas marginales y de cualesquiera otros asientos registrales susceptibles de cancelación por el transcurso del tiempo, seguirá en suspenso hasta el levantamiento de la suspensión en este ámbito. El cómputo de los plazos se reanudará, por tanto, al día siguiente de la finalización del estado de alarma y de sus prórrogas, en los términos establecidos por el artículo 42 del Real Decreto-ley 8/2020, de 17 de marzo, o el día de la expresa derogación del artículo 42.
