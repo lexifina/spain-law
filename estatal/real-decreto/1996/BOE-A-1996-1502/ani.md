@@ -98,6 +98,8 @@
 
 48. SARS (en español: Síndrome Respiratorio Agudo Grave).
 
+> Téngase en cuenta que el COVID-19, enfermedad producida por la infección por el virus SARS-CoV-2, es una enfermedad de declaración obligatoria urgente, a efectos de lo previsto en el presente Real Decreto, según establece el art. 22 del Real Decreto-ley 21/2020, de 9 de junio. Ref. BOE-A-2020-5895#a2-4
+
 49. Shigellosis.
 
 50. Sífilis.

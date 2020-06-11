@@ -1,0 +1,7 @@
+## Disposición final tercera. Modificación del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, aprobado por el Real Decreto Legislativo 1/2015, de 24 de julio.
+
+Se modifica el apartado 3 del artículo 94 del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, aprobado por el Real Decreto Legislativo 1/2015, de 24 de julio, que queda redactado en los siguientes términos:
+
+«3. El Gobierno podrá regular el mecanismo de fijación de los precios de los medicamentos y productos sanitarios no sujetos a prescripción médica, así como de otros productos necesarios para la protección de la salud poblacional que se dispensen en el territorio español, siguiendo un régimen general objetivo y transparente.
+
+Cuando exista una situación excepcional sanitaria, con el fin de proteger la salud pública, la Comisión Interministerial de Precios de los Medicamentos podrá fijar el importe máximo de venta al público de los medicamentos y productos a que se refiere el párrafo anterior por el tiempo que dure dicha situación excepcional. El procedimiento para la fijación del importe máximo de venta al público será acordado en el seno de la citada Comisión.»

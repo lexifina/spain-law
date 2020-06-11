@@ -105,6 +105,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 64](a64.md)
 - [CAPÍTULO VIII](cviii.md)
 - [Artículo 65](a65.md)
+- [Artículo 65 bis](a6-2.md)
 - [Artículo 66](a66.md)
 - [CAPÍTULO IX](cix.md)
 - [Artículo 67](a67.md)

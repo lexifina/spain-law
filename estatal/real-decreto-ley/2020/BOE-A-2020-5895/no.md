@@ -1,0 +1,1 @@
+El presente Real Decreto-ley se entiende tácitamente sustituido por la Ley 2/2021, de 29 de marzo, de medidas urgentes de prevención, contención y coordinación para hacer frente a la crisis sanitaria ocasionada por el COVID-19. Ref. BOE-A-2021-4908
