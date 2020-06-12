@@ -46,6 +46,16 @@
 
 3. No obstante, en caso de sacrificio en matadero, no serán indemnizables los dos grupos de edad citados en el apartado 2 en el caso de los Programas Nacionales previstos en el Real Decreto 2611/1996, de 20 de diciembre, o de la lengua azul, ni el primer grupo de edad (animales de edad igual o inferior a 3 meses) en el caso de las encefalopatías espongiformes transmisibles de los animales, salvo que sean objeto de decomiso total.
 
-4. Se incrementará el resultado de las anteriores cuantías en un diez por cien en los casos de pertenencia de la explotación a una Agrupación de Defensa Sanitaria Ganadera, en un cinco por ciento adicional si se trata de razas autóctonas de las incluidas en el Catálogo Oficial de Razas de Ganado en España previsto en el anexo I del Real Decreto 2129/2008, de 26 de diciembre, siempre que se trate de animales inscritos en el correspondiente libro genealógico, y en la cantidad 6,01 euros en caso de sacrificio de los animales en la explotación o en planta de transformación o en caso de decomiso de la canal en matadero, para compensar el valor carne perdido.
+4. Se incrementará el resultado de las anteriores cuantías en los siguientes porcentajes o cuantías, todos acumulables:
+
+A) un diez por ciento en los casos de pertenencia de la explotación a una agrupación de defensa sanitaria ganadera.
+
+B) un cinco por ciento si se trata si se trata de ganado ecológico certificado.
+
+C) un cinco por ciento si se trata de razas autóctonas de las incluidas en el catálogo oficial de razas de ganado en España previsto en el apartado 1 del anexo I del Real Decreto 45/2019, de 8 de febrero, siempre que se trate de animales inscritos en el correspondiente libro genealógico.
+
+D) En la cantidad 6,01 euros en caso de sacrificio de los animales en la explotación o en planta de transformación o en caso de decomiso de la canal en matadero, para compensar el valor carne perdido.
+
+> Se modifica el apartado 4 por el art. único.2 de la Orden APA/513/2020, de 8 de junio. Ref. BOE-A-2020-5972
 
 > Se modifican los apartados 1 y 4 por el art. 1.4 del Real Decreto 904/2017, de 13 de octubre. Ref. BOE-A-2017-11754
