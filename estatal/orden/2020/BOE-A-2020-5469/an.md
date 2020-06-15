@@ -14,11 +14,15 @@
 
 6. La Comunidad Autónoma de Cantabria.
 
-8. En la Comunidad Autónoma de Castilla-La Mancha, la unidad territorial formada por las provincias de Guadalajara y Cuenca.
+7. En la Comunidad Autónoma de Castilla y León, la unidad territorial formada por la provincia de Burgos, la unidad territorial formada por la provincia de León, la unidad territorial formada por la provincia de Palencia, la unidad territorial formada por la provincia de Valladolid y la unidad territorial formada por la provincia de Zamora.
 
-9. En la Comunidad Autónoma de Cataluña, la unidad territorial formada por las regiones sanitarias de Camp de Tarragona y Terres de l’Ebre, y la unidad territorial formada por la región sanitaria de Alt Pirineu i Aran.
+8. En la Comunidad Autónoma de Castilla-La Mancha, la unidad territorial formada por las provincias de Guadalajara y Cuenca, la unidad territorial formada por la provincia de Albacete, la unidad territorial formada por la provincia de Ciudad Real y la unidad territorial formada por la provincia de Toledo.
 
-11. En la Comunidad Autónoma de Extremadura, la unidad territorial formada por la provincia de Cáceres y la unidad territorial formada por la provincia de Badajoz.
+9. En la Comunidad Autónoma de Cataluña, la unidad territorial formada por las regiones sanitarias de Camp de Tarragona, Terres de l’Ebre, Alt Pirineu i Aran, Girona y Catalunya Central.
+
+10. La Comunidad Valenciana.
+
+11. La Comunidad Autónoma de Extremadura.
 
 12. La Comunidad Autónoma de Galicia.
 
@@ -30,6 +34,10 @@
 
 16. La Comunidad Autónoma de La Rioja.
 
+17. La Ciudad Autónoma de Ceuta.
+
 18. La Ciudad Autónoma de Melilla.
+
+> Se modifica por el art. 4 de la Orden SND/520/2020, de 12 de junio. Ref. BOE-A-2020-6088#ac
 
 > Se modifica por el art. 4.5 de la Orden SND/507/2020, de 6 de junio. Ref. BOE-A-2020-5795#ac
