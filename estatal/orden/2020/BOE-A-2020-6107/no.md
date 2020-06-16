@@ -1,0 +1,3 @@
+El estado de alarma, declarado por el Real Decreto 463/2020, de 14 de marzo, finalizó a las 00:00 horas del día 21 de junio de 2020, por lo que debe entenderse que esta norma ha perdido su vigencia.
+
+Téngase en cuenta la Orden INT/551/2020, de 21 de junio, por la que se prorrogan los criterios para la aplicación de una restricción temporal de viajes no imprescindibles desde terceros paises a la Unión Europea y paises asociados Schengen por razones de orden público y salud pública con motivo de la crisis sanitaria ocasionada por el COVID-19, que tendrá vigencia desde las 00:00 horas del 21 de junio hasta las 24:00 horas del 30 de junio de 2020. Ref. BOE-A-2020-6509
