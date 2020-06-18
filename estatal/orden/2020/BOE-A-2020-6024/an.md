@@ -11,6 +11,16 @@ Destino: Aeropuerto de Palma de Mallorca
 | 18.06.2020 | STR | PMI | X32714/5 |
 | 18.06.2020 | HAJ | PMI | X32618/9 |
 | 18.06.2020 | FRA | PMI | DE1502 |
+| 18.06.2020 | MUC | PMI | LH 1796 |
+| 18.06.2020 | DUS | PMI | EW9580 |
+| 18.06.2020 | DUS | PMI | EW9582 |
+| 19.06.2020 | FRA | PMI | LH 1154 |
+| 19.06.2020 | DUS | PMI | EW9580 |
+| 19.06.2020 | DUS | PMI | EW9582 |
+| 20.06.2020 | FRA | PMI | LH 1158 |
+| 20.06.2020 | MUC | PMI | LH 1796 |
+| 20.06.2020 | DUS | PMI | EW9580 |
+| 20.06.2020 | DUS | PMI | EW9582 |
 | 21.06.2020 | FRA | PMI | DE1502 |
 | 22.06.2020 | DUS | PMI | X32322/3 |
 | 22.06.2020 | FRA | PMI | X32128/9 |
@@ -63,3 +73,5 @@ Destino: Aeropuerto de Mahón (Menorca)
 | Fecha de salida | Aeropuerto de salida | Aeropuerto de destino | Número de vuelo |
 | --- | --- | --- | --- |
 | 27.06.2020 | DUS | MAH | EWG9596 |
+
+> Se añaden las rutas aéreas con destino al Aeropuerto de Palma de Mallorca recogidas en el Anexo de la Orden ICT/534/2020, de 16 de junio, según establece su art. único. Ref. BOE-A-2020-6307
