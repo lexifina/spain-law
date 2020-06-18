@@ -18,7 +18,7 @@
 
 8. En la Comunidad Autónoma de Castilla-La Mancha, la unidad territorial formada por las provincias de Guadalajara y Cuenca, la unidad territorial formada por la provincia de Albacete, la unidad territorial formada por la provincia de Ciudad Real y la unidad territorial formada por la provincia de Toledo.
 
-9. En la Comunidad Autónoma de Cataluña, la unidad territorial formada por las regiones sanitarias de Camp de Tarragona, Terres de l’Ebre, Alt Pirineu i Aran, Girona y Catalunya Central.
+9. La Comunidad Autónoma de Cataluña.
 
 10. La Comunidad Valenciana.
 
@@ -37,6 +37,8 @@
 17. La Ciudad Autónoma de Ceuta.
 
 18. La Ciudad Autónoma de Melilla.
+
+> Se modifica por el art. 2 de la Orden SND/535/2020, de 17 de junio. Ref. BOE-A-2020-6310
 
 > Se modifica por el art. 4 de la Orden SND/520/2020, de 12 de junio. Ref. BOE-A-2020-6088#ac
 
