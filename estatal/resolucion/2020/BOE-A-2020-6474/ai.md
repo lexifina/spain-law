@@ -1,0 +1,167 @@
+## ANEXO I
+
+Anakinra 100 mg inyectable 0,67 ml jeringa precargada.
+
+Azitromicina 500 mg inyectable perfusión.
+
+Azitromicina 1.000 mg solución/suspensión oral sobre.
+
+Azitromicina 150 mg solución/suspensión oral sobre.
+
+Azitromicina 200 mg/5 ml solución/suspensión oral.
+
+Azitromicina 250 mg cápsula.
+
+Azitromicina 250 mg comprimido.
+
+Azitromicina 250 mg solución/suspensión oral sobre.
+
+Azitromicina 500 mg comprimido.
+
+Azitromicina 500 mg inyectable perfusión.
+
+Azitromicina 500 mg solución/suspensión oral sobre.
+
+Azitromicina 1.000 mg solución/suspensión oral sobre.
+
+Bromuro ipratropio 0,3 mg/ml producto uso nasal.
+
+Bromuro ipratropio 20 microgramos/dosis inhalación pulmonar.
+
+Bromuro ipratropio 250 microgramos inhalación pulmonar 1 ml.
+
+Bromuro ipratropio 250 microgramos inhalación pulmonar 2 ml.
+
+Bromuro ipratropio 500 microgramos inhalación pulmonar 2 ml.
+
+Cefditoreno 200 mg comprimido.
+
+Cefditoreno 400 mg comprimido.
+
+Ciclosporina 1 mg/ml colirio.
+
+Ciclosporina 25 mg cápsula.
+
+Ciclosporina 50 mg cápsula.
+
+Ciclosporina 50 mg/ml solución perfusión.
+
+Ciclosporina 100 mg cápsula.
+
+Cisatracurio besilato 2 mg/ml inyectable 10 ml.
+
+Cisatracurio besilato 2 mg/ml inyectable 2,5 ml.
+
+Cisatracurio besilato 2 mg/ml inyectable 5 ml.
+
+Cisatracurio besilato 5 mg/ml inyectable 30 ml.
+
+Clonazepam 1 mg inyectable 1 ml.
+
+Dexametasona 1 mg comprimidos.
+
+Dexametasona 4 mg comprimidos.
+
+Dexametasona 8 mg comprimidos.
+
+Dexametasona 4mg inyectable 1 ml.
+
+Dexametasona 40mg inyectable 5 ml.
+
+Dexmedetomidina 100 microgramos/ml inyectable perfusión 10 ml.
+
+Dexmedetomidina 100 microgramos/ml inyectable perfusión 2 ml.
+
+Dexmedetomidina 100 microgramos/ml inyectable perfusión 4 ml.
+
+Diazepam 5 mg líquido rectal.
+
+Diazepam 10 mg líquido rectal.
+
+Dobutamina 250 mg inyectable perfusión 20 ml.
+
+Dopamina 200 mg inyectable 5 ml.
+
+Enoxaparina sodio 40 mg (4.000 UI) inyectable 0,4 ml jeringa precargada.
+
+Enoxaparina sodio 40 mg (4.000 UI) inyectable 0,4 ml.
+
+Fentanilo 50 microgramos/ml inyectable 3 ml.
+
+Haloperidol 5 mg inyectable 1 ml.
+
+Levomepromazina 25 mg inyectable 1 ml.
+
+Metilprednisolona 1.000 mg inyectable.
+
+Metilprednisolona 125 mg inyectable.
+
+Metilprednisolona 250 mg inyectable.
+
+Metilprednisolona 500 mg inyectable.
+
+Metilprednisolona 40 mg inyectable.
+
+Midazolam 5 mg inyectable 1 ml.
+
+Midazolam 5 mg inyectable 5 ml.
+
+Midazolam 15 mg inyectable 3 ml.
+
+Midazolam 25 mg inyectable 5 ml.
+
+Midazolam 50 mg inyectable 10 ml.
+
+Midazolam 50 mg inyectable 50 ml.
+
+Midazolam 100 mg inyectable 100 ml.
+
+Midazolam 100 mg inyectable 20 ml.
+
+Norepinefrina (noradrenalina) 5 mg/ml inyectable 50 ml.
+
+Propofol 5 mg/ml inyectable 20 ml.
+
+Propofol 10 mg/ml inyectable 100 ml.
+
+Propofol 10 mg/ml inyectable 20 ml.
+
+Propofol 10 mg/ml inyectable 50 ml jeringa precargada.
+
+Propofol 10 mg/ml inyectable 50 ml.
+
+Propofol 20 mg/ml inyectable 20 ml.
+
+Propofol 20 mg/ml inyectable 50 ml jeringa precargada.
+
+Propofol 20 mg/ml inyectable 50 ml.
+
+Remifentanilo 1 mg inyectable.
+
+Remifentanilo 2 mg inyectable.
+
+Remifentanilo 5 mg inyectable.
+
+Rocuronio 10 mg/ml inyectable 10 ml.
+
+Rocuronio 10 mg/ml inyectable 5 ml.
+
+Rocuronio 2,5 mg/ml inyectable 2,5 ml.
+
+Salbutamol 100 microgramos/dosis inhalación pulmonar.
+
+Salbutamol 100 microgramos/dosis inhalación pulmonar (polvo).
+
+Sarilumab 150 mg inyectable 1,14 ml pluma precargada
+
+Sarilumab 200 mg inyectable 1,14 ml jeringa precargada
+
+Sarilumab 200 mg inyectable 1,14 ml pluma precargada
+
+Tocilizumab 162 mg inyectable 0,9 ml jeringa precargada.
+
+Tocilizumab 162 mg inyectable 0,9 ml pluma precargada.
+
+Tocilizumab 20 mg/ml inyectable perfusión 10 ml.
+
+Tocilizumab 20 mg/ml inyectable perfusión 4 ml.
