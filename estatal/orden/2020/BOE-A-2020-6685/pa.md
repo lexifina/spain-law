@@ -1,0 +1,11 @@
+La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, regula el funcionamiento de las Conferencias Sectoriales como órganos de cooperación entre la Administración General del Estado y los gobiernos de las Comunidades Autónomas, en el ámbito sectorial que corresponda por razón de la materia.
+
+La Conferencia Sectorial de Educación, cuya presidencia corresponde a la Ministra de Educación y Formación Profesional y de la que forman parte los Consejeros con competencias en materia de enseñanza no universitaria de los gobiernos de las Comunidades Autónomas, ante la situación de emergencia sanitaria producida por la pandemia ocasionada por el coronavirus COVID-19, en su reunión de 11 de junio de 2020, adoptó diferentes acuerdos para el inicio y desarrollo del curso escolar 2020-2021, en el ámbito de la enseñanza no universitaria.
+
+La citada Ley 40/2015, de 1 de octubre, dispone en su artículo 151.2.a), que las decisiones que adopte la Conferencia Sectorial podrán revestir la forma de Acuerdos, que «son de obligado cumplimiento y directamente exigibles de acuerdo con lo previsto en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, salvo para quienes hayan votado en contra mientras no decidan suscribirlos con posterioridad».
+
+A su vez, el artículo 7 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece que «las Administraciones educativas podrán concertar el establecimiento de criterios y objetivos comunes con el fin de mejorar la calidad del sistema educativo y garantizar la equidad. La Conferencia Sectorial de Educación promoverá este tipo de acuerdos y será informada de todos los que se adopten».
+
+Los Acuerdos para el inicio y desarrollo del curso escolar 2020-2021, se sometieron a votación en la reunión de la Conferencia Sectorial de Educación del día 11 de junio de 2020, donde fueron aprobados por la mayoría de las Comunidades Autónomas, de conformidad con los resultados de la votación que figuran en el Anexo I.
+
+Por todo ello y para general conocimiento, se dispone la publicación de los citados Acuerdos para el inicio y el desarrollo del curso 2020-2021, de la Conferencia Sectorial de Educación, como Anexo II a esta Orden.
