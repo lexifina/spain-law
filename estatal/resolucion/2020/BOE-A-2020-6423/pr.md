@@ -1,0 +1,11 @@
+El Real Decreto-ley 3/2020, de 4 de febrero, de medidas urgentes por el que se incorporan al ordenamiento jurídico español diversas directivas de la Unión Europea en el ámbito de la contratación pública en determinados sectores; de seguros privados, de planes y fondos de pensiones; del ámbito tributario y de litigios fiscales deroga la Ley 26/2006, de 17 de julio, de mediación de seguros y reaseguros privados.
+
+Dicho Real Decreto-ley regula en su disposición adicional undécima la tasa por inscripción en el registro administrativo de distribuidores de seguros y reaseguros de la Dirección General de Seguros y Fondos de Pensiones, previendo en el apartado 8 de dicha disposición, que la Dirección General de Seguros y Fondos de Pensiones es la competente para la administración, liquidación y recaudación de dicha tasa.
+
+Dicho registro administrativo se encuentra regulado en la disposición adicional octava del Real Decreto 1060/2015, de 20 de noviembre, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras.
+
+Por otro lado, el artículo 14 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, establece el derecho y obligación de los ciudadanos de relacionarse electrónicamente con las Administraciones Públicas.
+
+Por último, la Orden HAC/729/2003, de 28 de marzo, regula los supuestos y las condiciones generales para el pago por vía telemática de las tasas que constituyen recursos de la Administración General del Estado y sus Organismos Públicos. En su disposición tercera establece que por resolución del Subsecretario de cada Departamento Ministerial se podrá establecer que el pago de las tasas gestionadas por cada Ministerio pueda efectuarse a través de las condiciones establecidas en la citada orden, previo informe del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria y valoración técnica del Departamento de Informática Tributaria de la misma.
+
+En su virtud, al objeto de poder llevar a cabo la presentación de la autoliquidación y pago de la tasa por medios telemáticos, de acuerdo con lo previsto en el apartado tercero de la Orden HAC/729/2003, de 28 de marzo, y previo informe del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria, resuelvo:
