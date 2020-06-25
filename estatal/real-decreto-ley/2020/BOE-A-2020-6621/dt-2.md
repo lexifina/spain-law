@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Obligaciones de aportación al Fondo Nacional de Eficiencia Energética en el año 2020.
+
+De manera excepcional, se establece una moratoria en el cumplimiento de las obligaciones de aportación al Fondo Nacional de Eficiencia Energética, establecidas en la Orden TED/287/2020, de 23 de marzo, de aquellos sujetos obligados que sean microempresas, pequeñas y medianas empresas (PYMES), de acuerdo con el Anexo I, Definición de PYME, del Reglamento (UE) nº 651/2014 de la Comisión, de 17 de junio de 2014, por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado.
+
+Dicha moratoria se aplicará a las obligaciones pendientes de los citados sujetos obligados hasta el 28 de febrero de 2021. La condición de PYME deberá ser acreditada ante la Dirección General de Política Energética y Minas, perteneciente al Ministerio para la Transición Ecológica y el Reto Demográfico, antes de 31 de diciembre de 2020.
