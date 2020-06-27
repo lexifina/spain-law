@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Diálogo en materia de desempleo.
+
+El Ministerio de Trabajo y Economía Social se reunirá, a la mayor brevedad posible, con la Confederación Española de Organizaciones Empresariales (CEOE), la Confederación Española de la Pequeña y Mediana Empresa (CEPYME), Comisiones Obreras (CC.OO.) y la Unión General de Trabajadores (UGT) para tratar las cuestiones relacionadas con la prestación por desempleo reconocida durante los expedientes de regulación temporal de empleo derivados del COVID-19 a las personas con varios contratos a tiempo parcial y las posibles soluciones al consumo durante el estado de alarma de las prestaciones y subsidios por desempleo de personas no afectadas por expedientes de regulación temporal de empleo.

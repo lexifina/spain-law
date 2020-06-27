@@ -1,0 +1,3 @@
+## Disposición final quinta. Incorporación de Derecho de la Unión Europea.
+
+Mediante las disposiciones finales segunda y cuarta de este real decreto-ley se incorpora parcialmente al Derecho español la Directiva (UE) 2017/159 del Consejo, de 19 de diciembre de 2016, por la que se aplica el Acuerdo relativo a la aplicación del Convenio sobre el trabajo en la pesca de 2007 de la Organización Internacional del Trabajo, celebrado el 21 de mayo de 2012 entre la Confederación General de Cooperativas Agrarias de la Unión Europea (Cogeca), la Federación Europea de Trabajadores del Transporte (ETF) y la Asociación de las Organizaciones Nacionales de Empresas.
