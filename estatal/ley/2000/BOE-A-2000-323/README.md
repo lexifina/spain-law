@@ -973,6 +973,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 779](a779.md)
 - [Artículo 780](a780.md)
 - [Artículo 781](a781.md)
+- [Artículo 781 bis](a781bis.md)
 - [TÍTULO II](tii-4.md)
 - [CAPÍTULO I](ci-16.md)
 - [SECCIÓN 1](s1-14.md)
