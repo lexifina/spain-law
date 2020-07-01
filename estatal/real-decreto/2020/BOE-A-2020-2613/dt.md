@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Transformación en bancos de establecimientos financieros de crédito autorizados con anterioridad a la entrada en vigor de la Ley 5/2015, de 27 de abril, de fomento de la financiación empresarial.
+
+1. El procedimiento de autorización de transformación en banco de los establecimientos financieros de crédito autorizados con anterioridad a la entrada en vigor de la Ley 5/2015, de 27 de abril, de fomento de la financiación empresarial, que se hubiera iniciado antes del 31 de diciembre de 2019, se regirá por lo previsto en la disposición adicional primera y por las especialidades establecidas en esta disposición.
+
+2. La solicitud de autorización deberá ser resuelta dentro de los tres meses siguientes a su recepción en la Secretaría General del Tesoro y Financiación Internacional, o al momento en que se complete la documentación exigible y, en todo caso, dentro de los doce meses siguientes a su recepción. Cuando la solicitud no sea resuelta en el plazo anterior, se entenderá desestimada.
