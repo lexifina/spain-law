@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Exigencia de las obligaciones de aseguramiento de responsabilidad civil y de accidente en las actividades de buceo.
+
+Hasta que se lleve a cabo la modificación legal del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por el Real Decreto Legislativo 2/2011, de 5 de septiembre, las obligaciones de aseguramiento contenidas en este real decreto se exigirán con arreglo a lo dispuesto en los artículos 14.1 y 24.1 de la Orden de 14 de octubre de 1997, por la que se aprueban las normas de seguridad para el ejercicio de actividades subacuáticas.

@@ -1,0 +1,5 @@
+## Disposición adicional primera. Centros asesores técnicos.
+
+1. La Sociedad de Salvamento y Seguridad Marítima (SASEMAR), el Centro de Buceo de la Armada (CBA) y el Grupo Especial de Actividades Subacuáticas de la Guardia Civil (GEAS) serán los centros asesores técnicos de la Dirección General de la Marina Mercante para las cuestiones de dicha índole que pudieran suscitarse como consecuencia de la aplicación de este real decreto.
+
+2. La Dirección de la Marina Mercante y las Capitanías Marítimas podrán solicitar de SASEMAR, del CBA o del GEAS, en el ámbito de las actividades de buceo, la elaboración de informes periciales, la investigación de accidentes, la recogida de datos, muestras y pruebas, el asesoramiento técnico, el apoyo y el seguimiento de planes de actuaciones vinculados a un siniestro marítimo, y cualquier otro servicio o actividad que se considere necesario en el marco de la normativa vigente. Este asesoramiento se prestará siempre con criterios técnicos y con garantías de imparcialidad.

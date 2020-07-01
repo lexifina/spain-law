@@ -1,1 +1,3 @@
+Norma derogada, con efectos de 1 de julio de 2020, por la disposición derogatoria única.1.a) del Real Decreto 550/2020, de 2 de junio. Ref. BOE-A-2020-6745#dd. No obstante, hasta que se actualice la normativa reguladora de los títulos deportivos y profesionales de buceo, se aplicarán las normas previstas en los artículos 13 y 15 del presente Decreto, según establece la disposición transitoria 1 del citado Real Decreto. Ref. BOE-A-2020-6745#dt
+
 Queda derogada la reglamentación contenida en este Decreto en lo referido a los títulos de buceo deportivo de: Buceador Monitor y Buceador Instructor desde el 1 de septiembre de 2011, según se establece en la disposición derogatoria 1 del Real Decreto 932/2010, de 23 de julio. Ref. BOE-A-2010-13561.
