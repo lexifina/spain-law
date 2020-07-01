@@ -1,0 +1,3 @@
+## Disposición transitoria única. Régimen transitorio de los contratos marco.
+
+De conformidad con lo establecido en la disposición transitoria quinta del Real Decreto-ley 19/2018, de 23 de noviembre, los contratos marco que los proveedores de servicios de pago que operen en España tengan suscritos con los usuarios a la fecha de entrada en vigor de esta orden ministerial, seguirán siendo válidos a su entrada en vigor. No obstante, serán de aplicación las disposiciones de carácter imperativo relativas a la transparencia de las condiciones de contratación y a los requisitos de información más favorables para los consumidores y las microempresas.
