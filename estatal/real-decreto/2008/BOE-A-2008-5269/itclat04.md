@@ -40,7 +40,7 @@ a) Los datos referentes a las principales características técnicas de la líne
 
 b) Informe técnico con resultado favorable, de las verificaciones previas a la puesta en servicio, realizado por la empresa titular de la instalación según se especifica en la ITC-LAT 05.
 
-c) Declaración expresa de que la línea ha sido ejecutada de acuerdo con las prescripciones del Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión y sus Instrucciones Técnicas Complementarias y, en su caso, con las especificaciones particulares aprobadas a la empresa de transporte y distribución de energía eléctrica.
+c) Declaración expresa de que la línea ha sido ejecutada de acuerdo con las prescripciones del Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión y sus instrucciones técnicas complementarias, del Real Decreto 1432/2008, de 29 de agosto y, en su caso, con las especificaciones particulares aprobadas a la empresa de transporte y distribución de energía eléctrica.
 
 d) Identificación, en su caso, de la empresa instaladora responsable de la ejecución de la línea.
 
@@ -66,7 +66,7 @@ a) Los datos referentes a las principales características técnicas de la líne
 
 b) Informe técnico con resultado favorable, de las verificaciones previas a la puesta en servicio, realizado según se especifica en la ITC-LAT 05. Para líneas de tensión nominal superior a 30 kV, la referencia del certificado del organismo de control que hubiera realizado, con calificación de resultado favorable, la inspección inicial.
 
-c) Declaración expresa de que la línea ha sido ejecutada de acuerdo con las prescripciones del Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión y sus instrucciones técnicas complementarias ITC-LAT 01 a 09 y, cuando se prevea que las líneas vayan a ser cedidas a empresas de transporte o distribución de energía eléctrica, con las especificaciones particulares aprobadas a la empresa de transporte y distribución de energía eléctrica.
+c) Declaración expresa de que la línea ha sido ejecutada de acuerdo con las prescripciones del Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión y sus instrucciones técnicas complementarias ITC-LAT 01 a 09, del Real Decreto 1432/2008, de 29 de agosto, y, cuando se prevea que las líneas vayan a ser cedidas a empresas de transporte o distribución de energía eléctrica, con las especificaciones particulares aprobadas a la empresa de transporte y distribución de energía eléctrica.
 
 d) Identificación de la empresa instaladora responsable de la ejecución de la línea.
 
@@ -87,5 +87,7 @@ Las instalaciones de líneas promovidas por terceros, que posteriormente deban s
 Antes de la cesión, la empresa eléctrica podrá realizar las verificaciones que considere oportunas, en lo que se refiere al cumplimiento de las prescripciones del Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión y sus Instrucciones Técnicas Complementarias y, cuando corresponda, de sus especificaciones particulares, como requisito previo para la aceptación de la línea, antes de la conexión a su red eléctrica. La empresa eléctrica aceptará por escrito la cesión de la titularidad de la línea cedida.
 
 Si los resultados de las verificaciones no son favorables, la empresa eléctrica deberá extender un acta, en la que conste el resultado de las comprobaciones, la cual deberá ser firmada igualmente por el autor del proyecto y el propietario de la línea, dándose por enterados. Dicha acta, en el plazo más breve posible, se pondrá en conocimiento del órgano competente de la Administración, quien determinará lo que proceda.
+
+> Se modifican los apartados 3.c) y 4.c) por el art. 9.6 y 7 del Real Decreto 542/2020, de 26 de mayo. Ref. BOE-A-2020-6472#an
 
 > Se sustituye la expresión indicada por el art. 15.1 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#adecimoquinto.

@@ -230,9 +230,7 @@ Las comunidades autónomas deberán posibilitar que la declaración responsable 
 
 La presentación de la declaración de adecuación realizada ante el órgano competente de la comunidad autónoma habilita, desde el momento de su presentación, para la utilización de la grúa móvil autopropulsada en todo el ámbito estatal.
 
-2. El órgano competente de dicha comunidad autónoma registrará la declaración ‘‘CE’’ de conformidad o la declaración de adecuación de la grúa asignándole un número de identificación de la misma, el cual deberá conservarse para posteriores inspecciones periódicas y otras comprobaciones que fuesen pertinentes.
-
-La comunidad autónoma remitirá al Ministerio de Industria, Turismo y Comercio los datos necesarios para la inclusión de la grúa móvil autopropulsada en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y en su normativa reglamentaria de desarrollo.
+2. El órgano competente de dicha comunidad autónoma registrará la declaración “CE” de conformidad o la declaración de adecuación de la grúa asignándole un número de identificación de la misma, el cual deberá conservarse para posteriores inspecciones periódicas y otras comprobaciones que fuesen pertinentes.
 
 3. La fecha de la declaración «CE» de conformidad o de fabricación que figure en la declaración de adecuación, en su caso, constituirá la fecha de inicio a tener en cuenta para la realización de las inspecciones oficiales en los plazos que se fijan en el apartado 6.
 
@@ -383,6 +381,8 @@ La eliminación de obstáculos que impliquen riesgos, incluidas las líneas elé
 La comprobación de que el terreno sobre el que va a trabajar y circular la grúa tenga la resistencia suficiente.
 
 Ejecutar, con personas debidamente formadas, las técnicas y labores de estrobaje y señalización.
+
+> Se modifica el apartado 4.2 por el art. 7.1 del Real Decreto 542/2020, de 26 de mayo. Ref. BOE-A-2020-6472#as-3
 
 > Se modifican los apartados 4.1, 4.2 y 5, por el art. 9.5 y 9.6 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190.
 

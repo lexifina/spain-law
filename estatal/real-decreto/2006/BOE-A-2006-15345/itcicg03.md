@@ -44,7 +44,7 @@ Instalaciones de almacenamiento que alimenten a instalaciones de distribución d
 
 Instalaciones de almacenamiento que dispongan de vaporizador, equipo de trasvase o boca de carga a distancia enterrada o que no discurra por terrenos de la misma propiedad;
 
-Instalaciones de estaciones de almacenamiento ubicadas en lugares de libre acceso al público;
+Instalaciones de estaciones de almacenamiento ubicadas en lugares de libre acceso al público. Por libre acceso al público se entiende al acceso habitual de este respecto a la superficie establecida en la definición de estación de GLP que aparece en la norma UNE 60250.
 
 Instalaciones con capacidad de almacenamiento superior a 13 m3.
 
@@ -124,9 +124,9 @@ Una vez realizada la presentación ante el órgano competente, el titular de la 
 
 Durante el primer llenado de cada depósito, el personal propio de la empresa instaladora u operadora, según el caso, comprobará la estanquidad de las conexiones, valvulería y otros elementos instalados, así como que el punto alto de llenado del depósito actúe al llegar el GLP al 85% del volumen geométrico del mismo. El resultado de estas comprobaciones se reflejará en el Libro de Mantenimiento o archivo documental indicados en el apartado 6.1. El suministrador comunicará la fecha del primer llenado al titular de la instalación.
 
-6. Mantenimiento y revisiones periódicas
+6. Mantenimiento y controles periódicos
 
-El mantenimiento y la revisión periódica de las instalaciones se realizarán de acuerdo con las disposiciones de la norma UNE 60250.
+El mantenimiento y el control periódico de las instalaciones se realizarán de acuerdo con las disposiciones de la norma UNE 60250.
 
 6.1 Mantenimiento.–El titular de la instalación o en su defecto los usuarios, serán los responsables del mantenimiento, conservación, explotación y buen uso de la instalación de tal forma que se halle permanentemente en disposición de servicio, con el nivel de seguridad adecuado. Asimismo atenderán las recomendaciones que, en orden a la seguridad, les sean comunicadas por el suministrador.
 
@@ -282,6 +282,8 @@ Una instalación deberá ser retirada de servicio por deseo expreso del titular,
 Se entenderá que una instalación cesa en su actividad si transcurren dos años consecutivos sin que se efectúe consumo alguno, no exista contrato de mantenimiento de la misma o transcurran cinco años sin la realización del mantenimiento oportuno, salvo causas de fuerza mayor.
 
 En el caso en que una instalación sea retirada de servicio, el titular de la instalación será responsable de encargar la realización y certificación a una empresa instaladora del inertizado con nitrógeno, u otro gas inerte, o del desgasificado mediante agua de la misma. Asimismo, el titular deberá entregar copia de dicho certificado al órgano competente de la Comunidad Autónoma.
+
+> Se modifican los apartados 5.2 y 6 por el art. 8.6 y 7 del Real Decreto 542/2020, de 26 de mayo. Ref. BOE-A-2020-6472#ao
 
 > Se añade un párrafo al apartado 6.2 por la disposición final 3.3 del Real Decreto 984/2015, de 30 de octubre. Ref. BOE-A-2015-11725#dftercera.
 

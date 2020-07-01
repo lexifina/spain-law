@@ -34,7 +34,7 @@ Cn = Capacidad nominal del envase considerado.
 
 N = Número de envases del mismo tipo (tanto llenos como vacíos).
 
-La capacidad total será la suma de las capacidades parciales de cada tipo de envase o depósito fijo.
+La capacidad total será la suma de las capacidades parciales de cada tipo de envase.
 
 3. Diseño y construcción de los centros
 
@@ -275,13 +275,13 @@ La presentación ante el órgano competente de la Comunidad Autónoma facultará
 
 El titular de un centro será el responsable del buen uso, mantenimiento y conservación de las instalaciones, elementos y equipos que lo forman.
 
-Además, el titular del centro de almacenamiento será también responsable de que dicho centro sea revisado cada dos años por un organismo de control, quien comprobará que no se sobrepasa la capacidad total de almacenamiento de envases de GLP autorizada y que se siguen cumpliendo las condiciones y medidas de seguridad señaladas reglamentariamente.
+Además, el titular del centro de almacenamiento será también responsable de que dicho centro sea inspeccionado cada dos años por un organismo de control, quien comprobará que no se sobrepasa la capacidad total de almacenamiento de envases de GLP comunicada y que se siguen cumpliendo las condiciones y medidas de seguridad señaladas reglamentariamente.
 
-El organismo de control emitirá el correspondiente certificado de revisión, el cual entregará a su titular y remitirá una copia del mismo al órgano competente de la Comunidad Autónoma.
+El organismo de control emitirá el correspondiente certificado de inspección, el cual entregará a su titular y remitirá una copia del mismo al órgano competente de la Comunidad Autónoma.
 
 Con independencia de lo anterior, los operadores de GLP al por mayor podrán realizar las visitas que estimen convenientes a los centros que suministren para comprobar el correcto funcionamiento, mantenimiento y conservación de las instalaciones, debiendo dar inmediata cuenta de las deficiencias o anomalías observadas al titular de las mismas y notificándolo al correspondiente órgano competente de la Comunidad Autónoma.
 
-No podrá suministrarse GLP a ningún centro de almacenamiento si el titular no acredita ante el operador, mediante una copia del certificado de revisión, que ésta se ha efectuado con resultado favorable y en tiempo oportuno.
+No podrá suministrarse GLP a ningún centro de almacenamiento si el titular no acredita ante el operador, mediante una copia del certificado de inspección, que esta se ha efectuado con resultado favorable y en tiempo oportuno.
 
 6. Transporte de envases de GLP
 
@@ -310,3 +310,5 @@ Para vehículos de PMA igual o inferior a 3.500 kg: un extintor de eficacia 8A-3
 Para vehículos de PMA superior a 3.500 kg: un extintor de eficacia 8A-34B para la cabina y uno de eficacia 13A-55B para la carga.
 
 El personal de transporte deberá conocer perfectamente el funcionamiento y utilización de los aparatos extintores.
+
+> Se modifican los apartados 2, último párrafo, y 5 por el art. 8.4 y 5 del Real Decreto 542/2020, de 26 de mayo. Ref. BOE-A-2020-6472#ao

@@ -143,9 +143,11 @@ d) identificación de la empresa instaladora responsable de la instalación y de
 
 e) declaración expresa de que la instalación ha sido ejecutada de acuerdo con las prescripciones del Reglamento electrotécnico para baja tensión, aprobado por el Real Decreto 842/2002, de 2 de agosto, y, en su caso, con las especificaciones particulares aprobadas a la Compañía eléctrica, así como, según corresponda, con el Proyecto o la Memoria Técnica de Diseño.
 
-5.5 Antes de la puesta en servicio de las instalaciones, la empresa instaladora deberá presentar ante el Órgano competente de la Comunidad Autónoma, al objeto de su inscripción en el correspondiente registro, el Certificado de Instalación con su correspondiente anexo de información al usuario, por quintuplicado, al que se acompañará, según el caso, el Proyecto o la Memoria Técnica de Diseño, así como el certificado de Dirección de Obra firmado por el correspondiente técnico titulado competente, y el certificado de inspección inicial con calificación de resultado favorable, del Organismo de Control, si procede.
+5.5 Antes de la puesta en servicio de las instalaciones, la empresa instaladora deberá presentar ante el Órgano competente de la Comunidad Autónoma, al objeto de su inscripción en el correspondiente registro, el Certificado de Instalación con su correspondiente anexo de información al usuario, por quintuplicado, al que se acompañará, según el caso, el Proyecto o la Memoria Técnica de Diseño, así como el certificado de Dirección de Obra firmado por el correspondiente técnico titulado competente, y el certificado de inspección inicial del Organismo de Control, si procede.
 
-El Órgano competente de la Comunidad Autónoma deberá diligenciar las copias del Certificado de Instalación y, en su caso, del certificado de inspección inicial, devolviendo cuatro a la empresa instaladora, dos para sí y las otras dos para la propiedad, a fin de que ésta pueda, a su vez, quedarse con una copia y entregar la otra a la Compañía eléctrica, requisito sin el cual ésta no podrá suministrar energía a la instalación, salvo lo indicado en el Artículo 18.3 del Reglamento Electrotécnico para Baja Tensión.
+El Órgano competente de la Comunidad Autónoma deberá diligenciar las copias del Certificado de Instalación, devolviendo cuatro a la empresa instaladora, dos para sí y las otras dos para la propiedad, a fin de que esta pueda, a su vez, quedarse con una copia y entregar la otra a la Compañía eléctrica, requisito sin el cual esta no podrá suministrar energía a la instalación, salvo lo indicado en el Artículo 18.3 del Reglamento Electrotécnico para Baja Tensión.
+
+Si la documentación técnica indicada se presentase por medios electrónicos, solo será necesaria la presentación de una única copia del certificado de instalación eléctrica en lugar de cinco. En este caso, la administración enviará dicho certificado diligenciado por medios electrónicos a la empresa instaladora, quien deberá entregar una copia (también electrónica) del documento al titular de la instalación y conservar otra para su archivo.
 
 5.6 Instalaciones temporales en ferias, exposiciones y similares.
 
@@ -162,6 +164,8 @@ La Empresa suministradora podrá realizar, a su cargo, las verificaciones que co
 Cuando los valores obtenidos en la indicada verificación sean inferiores o superiores a los señalados respectivamente para el aislamiento y corrientes de fuga en la ITC-BT-19, las Empresas suministradoras no podrán conectar a sus redes las instalaciones receptoras.
 
 En esos casos, deberán extender un Acta, en la que conste el resultado de las comprobaciones, la cual deberá ser firmada igualmente por el titular de la instalación, dándose por enterado. Dicha acta, en el plazo más breve posible, se pondrá en conocimiento del Órgano competente de la Comunidad Autónoma, quien determinará lo que proceda.
+
+> Se modifica el apartado 5.5 por el art. 5.2 del Real Decreto 542/2020, de 26 de mayo. Ref. BOE-A-2020-6472#aq
 
 > Se modifica el apartado 3, con efectos de 30 de junio de 2015, por la disposición final 2 del Real Decreto 1053/2014, de 12 de diciembre. Ref. BOE-A-2014-13681
 

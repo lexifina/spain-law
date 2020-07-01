@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 1986. Ref. BOE-A-1986-3953
+Norma derogada, con efectos de 1 de julio de 2020, por la disposición derogatoria única.1.b) del Real Decreto 542/2020, de 26 de mayo. Ref. BOE-A-2020-6472#dd

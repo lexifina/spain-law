@@ -270,6 +270,8 @@ Estarán de acuerdo con la normativa vigente y las necesidades de la instalació
 
 1.10.4 Técnicas de primeros auxilios.
 
+1.10.5 Normativa y reglamentación vigente en evitación de daños a la avifauna e incendios forestales.
+
 ## 2. CONOCIMIENTOS PRÁCTICOS.
 
 2.1 Instalación y tendido de líneas eléctricas aéreas de alta tensión.
@@ -315,6 +317,8 @@ Estarán de acuerdo con la normativa vigente y las necesidades de la instalació
 2.4.3 Manejo de aparatos de medida de magnitudes eléctricas (medidores de resistencia, tensiones de paso y contacto).
 
 2.4.4 Manejo de aparatos de medida para verificación y control (medidores de tangente de delta, medidores de aislamiento, etc.).
+
+> Se añade el apartado 1.10.5 al anexo 2 por el art. 9.5 del Real Decreto 542/2020, de 26 de mayo. Ref. BOE-A-2020-6472#an
 
 > Se modifica por el art. 15 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#adecimoquinto.
 

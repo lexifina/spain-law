@@ -2,7 +2,7 @@
 
 ## Comunicación de instalaciones
 
-Los titulares de los almacenamientos de carburantes y combustibles líquidos deberán presentar ante el órgano competente de la comunidad autónoma la documentación que se establece en los siguientes puntos de este capítulo. La comunidad autónoma remitirá al Ministerio de Industria, Turismo y Comercio los datos necesarios para la inclusión de la instalación en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y en su normativa reglamentaria de desarrollo.
+Los titulares de los almacenamientos de carburantes y combustibles líquidos deberán presentar ante el órgano competente de la Comunidad Autónoma la documentación que se establece en los siguientes puntos de este capítulo
 
 Las instalaciones objeto de esta Instrucción Técnica Complementaria, serán realizadas por empresas instaladoras habilitadas según lo establecido en la Instrucción Técnica Complementaria MI-IP05 «Instaladores o reparadores y empresas instaladoras o reparadoras de productos petrolíferos líquidos», aprobada por Real Decreto 365/2005, de 8 de abril.
 
@@ -47,6 +47,8 @@ Los documentos que contendrá como mínimo todo proyecto serán los siguientes:
 5. Plan de ejecución de obras.
 
 Los documentos memoria, pliego y presupuesto, así como cada uno de los planos, deberán ser firmados por el técnico titulado competente.
+
+> Se modifica el primer párrafo por el art. 4 del Real Decreto 542/2020, de 26 de mayo. Ref. BOE-A-2020-6472#ac
 
 > Se modifica por el art. 6.3 a 8 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#asexto
 

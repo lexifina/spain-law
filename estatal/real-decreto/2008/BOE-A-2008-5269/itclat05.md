@@ -106,9 +106,9 @@ c.2) A las líneas ya en servicio se les emitirá certificado negativo, que se r
 
 Los defectos en las instalaciones se clasificarán en: defectos muy graves, defectos graves y defectos leves.
 
-4.1 Defecto muy grave
+4.1 Defecto muy grave.
 
-Es todo aquél que la razón o la experiencia determina que constituye un peligro inmediato para la seguridad de las personas o los bienes.
+Es todo aquel que la razón o la experiencia determina que constituye un peligro inmediato para la seguridad de las personas, de los bienes o del medio ambiente.
 
 Se consideran tales los incumplimientos de las medidas de seguridad que pueden provocar el desencadenamiento de los peligros que se pretenden evitar con tales medidas, en relación con:
 
@@ -120,13 +120,15 @@ c) Falta de continuidad del circuito de tierra.
 
 d) Tensiones de contacto superiores a los valores límites admisibles.
 
-4.2 Defecto grave
+e) El incumplimiento de las prescripciones técnicas establecidas en el Real Decreto 1432/2008, de 29 de agosto, o cuando los elementos instalados en aplicación del mismo estuvieran en deficiente estado, en tendido ubicado en Zonas de Protección, declarada al amparo de este real decreto, y cuando el tendido hubiera sido notificado como peligroso por la administración competente.
 
-Es el que no supone un peligro inmediato para la seguridad de las personas o de los bienes, pero puede serlo al originarse un fallo en la instalación. También se incluye dentro de esta clasificación, el defecto que pueda reducir de modo sustancial la capacidad de utilización de la instalación eléctrica.
+4.2 Defecto grave.
+
+Es el que no supone un peligro inmediato para la seguridad de las personas, de los bienes o del medioambiente, pero puede serlo al originarse un fallo en la instalación. También se incluye dentro de esta clasificación, el defecto que pueda reducir de modo sustancial la capacidad de utilización de la instalación eléctrica.
 
 Dentro de este grupo, y con carácter no exhaustivo, se consideran los siguientes defectos graves:
 
-a) Falta de conexiones equipotenciales, cuando éstas fueran requeridas.
+a) Falta de conexiones equipotenciales, cuando estas fueran requeridas.
 
 b) Degradación importante del aislamiento.
 
@@ -148,9 +150,11 @@ j) No coincidencia entre las condiciones reales de tendido con las condiciones d
 
 k) La sucesiva reiteración o acumulación de defectos leves.
 
-4.3 Defecto leve
+l) El incumplimiento de las prescripciones técnicas establecidas en el Real Decreto 1432/2008, de 29 de agosto, cuando el tendido hubiera sido notificado como peligroso o causante de incendio forestal o electrocución de avifauna protegida, fuera de zonas de protección, o cuando los elementos instalados de acuerdo a las prescripciones técnicas que se establecen en este real decreto estuvieran en un estado deficiente.
 
-Es todo aquel que no supone peligro para las personas o los bienes, no perturba el funcionamiento de la línea y en el que la desviación respecto de lo reglamentado no tiene valor significativo para el uso efectivo o el funcionamiento de la línea.
+4.3 Defecto leve.
+
+Es todo aquel que no supone peligro para las personas, los bienes o el medioambiente, no perturba el funcionamiento de la línea y en el que la desviación respecto de lo reglamentado no tiene valor significativo para el uso efectivo o el funcionamiento de la línea.
 
 ## ANEXO
 
@@ -191,5 +195,7 @@ Los equipos se mantendrán en correcto estado de funcionamiento y calibración. 
 1.2 Equipos y medios de protección individual.
 
 Estarán de acuerdo con la normativa vigente y las necesidades de la instalación.
+
+> Se modifica el apartado 4 por el art. 9.8 del Real Decreto 542/2020, de 26 de mayo. Ref. BOE-A-2020-6472#an
 
 > Se sustituye la expresión indicada por el art. 15.1 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#adecimoquinto.

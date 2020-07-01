@@ -76,7 +76,7 @@ Documentación y certificación de todos los recipientes a presión de la instal
 
 Fecha de puesta en servicio.
 
-6. Mantenimiento y revisiones periódicas
+6. Mantenimiento y controles periódico
 
 6.1 Mantenimiento.–El titular de la instalación o en su defecto los usuarios, serán los responsables del mantenimiento, conservación, explotación y buen uso de la instalación de tal forma que se halle permanentemente en disposición de servicio, con el nivel de seguridad adecuado. Asimismo atenderán las recomendaciones que, en orden a la seguridad, les sean comunicadas por el suministrador.
 
@@ -86,19 +86,19 @@ Para cada instalación existirá un Libro de Mantenimiento o bien, si la empresa
 
 La empresa encargada del mantenimiento dejará constancia de cada visita en el Libro de Mantenimiento o en el archivo documental, anotando el estado general de la instalación y, si es el caso, los defectos observados, las reparaciones efectuadas y las lecturas de potencial de protección.
 
-El titular se responsabiliza de que esté vigente en todo momento el contrato de mantenimiento, y de la custodia del Libro de Mantenimiento o copia del archivo documental, así como del certificado de la última revisión periódica realizada de acuerdo a lo establecido en esta ITC.
+El titular se responsabiliza de que esté vigente en todo momento el contrato de mantenimiento, y de la custodia del Libro de Mantenimiento o copia del archivo documental, así como del certificado del último control periódico realizado de acuerdo a lo establecido en esta ITC.
 
 Las empresas u organismos titulares de la instalación que acrediten poseer capacidad y medios para realizar el mantenimiento de sus instalaciones, podrán ser eximidas de la necesidad del contrato de mantenimiento, siempre que se comprometan a cumplir los plazos de control de la instalación y en las condiciones que fije el órgano competente de la Comunidad Autónoma y teniendo al día el Libro de Mantenimiento o un archivo documental de la instalación desde su puesta en servicio.
 
-6.2 Revisiones periódicas.–El titular de una planta satélite de GNL es responsable de hacer revisar la instalación cada cinco años. Dicha revisión incluirá las pruebas y verificaciones establecidas en la norma UNE 60210.
+6.2 Controles Periódicos.–El titular de una planta satélite de GNL es responsable de hacer controlar la instalación cada cinco años. Dicho control incluirá las pruebas y verificaciones establecidas en la norma UNE 60210.
 
 Estas pruebas serán realizadas por un especialista criogénico, por el servicio de mantenimiento del usuario o por un organismo de control si el producto del volumen geométrico, en metros cúbicos (V), por la presión máxima de trabajo, en bar (P), sea igual o menor de 300, y necesariamente por un organismo de control, si dicho producto es superior.
 
 Si efectúa dichas pruebas el servicio de mantenimiento del titular de la instalación deberá justificar previamente ante el órgano competente de la Comunidad Autónoma que dispone de personal idóneo y medios técnicos suficientes para llevarlas a cabo.
 
-Con el resultado de estas pruebas se extenderá un certificado por cuadriplicado de que la revisión periódica ha sido efectuada con resultado satisfactorio. Se entregará un ejemplar del mismo al usuario, a la Propiedad y al órgano competente de la Comunidad Autónoma.
+Con el resultado de estas pruebas se extenderá un certificado por cuadriplicado de que el control periódico ha sido efectuado con resultado satisfactorio. Se entregará un ejemplar del mismo al usuario, al titular y al órgano competente de la Comunidad Autónoma.
 
-En caso de que la revisión haya puesto de manifiesto que se han modificado las condiciones del proyecto, el agente de la revisión lo pondrá inmediatamente en conocimiento del órgano competente de la Comunidad Autónoma.
+En caso de que el control haya puesto de manifiesto que se han modificado las condiciones del proyecto, el agente que realizó el control lo pondrá inmediatamente en conocimiento del órgano competente de la Comunidad Autónoma.
 
 Cada quince años debe realizarse una prueba de presión neumática (para evitar introducir humedad en el depósito), con arreglo a los criterios que se establecen en la norma UNE 60210.
 
@@ -111,3 +111,5 @@ En el caso en que una instalación no reciba ninguna carga de GNL durante un per
 El proceso de inertizado se llevará a cabo con nitrógeno u otro gas inerte y deberá ser realizado por la empresa que realiza el mantenimiento de la planta y supervisado por un organismo de control quien certificará que la operación ha culminado con éxito. Bajo ningún concepto, se podrá proceder a desmontar una planta, o alguno de sus depósitos que no hayan sido previamente inertizados.
 
 En caso de cese de actividad, el distribuidor deberá presentar ante el órgano competente de la Comunidad Autónoma la resolución de retirada del servicio. El titular de la instalación será responsable del desmontaje de la instalación.
+
+> Se modifica el apartado 6 por el art. 8.8 a 10 del Real Decreto 542/2020, de 26 de mayo. Ref. BOE-A-2020-6472#ao
