@@ -16,12 +16,14 @@ d) Gastos administrativos: serán subvencionables hasta un límite de un 4 por c
 
 e) Alojamiento, manutención y comidas colectivas.
 
-– Se abonará una dieta máxima por el alojamiento: 120 euros/ día en España y 180 euros día en terceros países, previa presentación de las facturas pagadas.
+– Se abonará una dieta máxima por el alojamiento: 120 euros/día en España y 180 euros/día en terceros países, previa presentación de las facturas pagadas.
 
-– Se abonará una dieta a tanto alzado por estancia de 80 euros al día, en España y de 90 euros al día en terceros países para cubrir todos los demás gastos (comidas, transporte local, teléfono, etc.).
+– Se abonará una dieta a tanto alzado por estancia de 80 euros al día en España y de 90 euros al día en terceros países para cubrir todos los demás gastos (comidas, transporte local, teléfono, etc.). Los gastos de taxi o similar desde las estaciones de tren o aeropuerto al lugar de trabajo o al domicilio no estarán incluidos en esta dieta.
 
-– Estas dietas se abonarán por la participación en eventos fuera del lugar de trabajo, y cubrirán el número de días necesario para la realización de la actividad. Para comidas colectiva se abonará un importe máximo de 60 euros/persona en España y 70 euros /persona en terceros países previa presentación de facturas.
+– Estas dietas se abonarán por la participación en eventos fuera del lugar de trabajo, y cubrirán el número de días necesario para la realización de la actividad. Para comidas colectivas se abonará un importe máximo de 60 euros/persona en España y 70 euros/persona en terceros países, previa presentación de facturas.
 
-f) Vino a emplear como material promocional: En el caso de catas, misiones inversas y similares será de un máximo de una botella por cada 6 participantes.
+f) Vino a emplear como material promocional: En el caso de catas, misiones inversas y similares será de un máximo de una botella de cada referencia por cada seis participantes.
+
+> Se modifica el apartado e) y f) por el art. único.9 del Real Decreto 617/2020, de 30 de junio. Ref. BOE-A-2020-6926
 
 > Se modifica la letra c) por el art. 4.16 del Real Decreto 558/2020, de 9 de junio. Ref. BOE-A-2020-5899#ac

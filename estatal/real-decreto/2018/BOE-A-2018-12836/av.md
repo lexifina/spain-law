@@ -9,7 +9,7 @@
 | Ajo | 73,70 | 55,28 |
 | Alcachofa | 38,40 | 28,80 |
 | Apio | 15,44 | 11,58 |
-| Arándano | 371,61 | 278,71 |
+| Arándano | 267,05 | 200,29 |
 | Brócoli | 31,90 | 23,92 |
 | Calabacín | 22,80 | 17,10 |
 | Calabaza | 22,78 | 17,08 |
@@ -30,16 +30,18 @@
 | Judía verde | 69,20 | 51,90 |
 | Kiwi | 48,02 | 36,01 |
 | Lechuga | 38,89 | 29,17 |
-| Mora | 260,04 |  |
+| Mora | 260,04 | 195,03 |
 | Nabo, nabicol y chirivía | 53,50 | 40,12 |
 | Níspero | 69,31 | 51,99 |
-| Papaya | 32,28 |  |
+| Papaya | 32,38 | 24,28 |
 | Paraguaya, platerina y melocotón plano | 47,65 | 35,74 |
 | Pepino | 26,58 | 19,94 |
 | Pimiento | 35,60 | 26,70 |
 | Puerro | 32,57 | 24,43 |
 | Repollo, col | 18,99 | 14,24 |
 | Zanahoria | 22,32 | 16,74 |
+
+> Se modifica por la disposición final 1.3 del Real Decreto 617/2020, de 30 de junio. Ref. BOE-A-2020-6926
 
 > Se modifica por el art. 2.10 del Real Decreto 558/2020, de 9 de junio. Ref. BOE-A-2020-5899#as
 
