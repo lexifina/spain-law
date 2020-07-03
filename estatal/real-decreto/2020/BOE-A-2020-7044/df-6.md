@@ -1,0 +1,3 @@
+## Disposición final sexta. Autorización para adoptar medidas de aplicación.
+
+Se autoriza al Instituto Nacional de Seguridad y Salud en el Trabajo a incluir en la Guía Técnica no vinculante para la evaluación y prevención de los riesgos relativos a la utilización de los buques de pesca, elaborada de acuerdo con lo dispuesto en la disposición final primera del Real Decreto 1216/1997, de 18 de julio, por el que se establecen las disposiciones mínimas de seguridad y salud en el trabajo a bordo de los buques de pesca, los criterios e información técnica que se consideren necesarios con el objetivo de facilitar la aplicación del presente real decreto.
