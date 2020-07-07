@@ -18,6 +18,8 @@ La comprobación de la convivencia en el mismo domicilio se efectuará en funci�
 
 A los exclusivos efectos de la comprobación del cumplimiento de lo previsto en la letra c) del apartado anterior, el Instituto Nacional de la Seguridad Social solicitará a la Agencia Estatal de Administración Tributaria y esta le remitirá la información estrictamente necesaria relativa a ingresos y patrimonio de la unidad de convivencia descrita en el apartado b), que permitan determinar los beneficiarios con derecho a prestaciones de ingreso mínimo vital en los términos establecidos en esta disposición transitoria. Dicha información solo será utilizada para la finalidad indicada y el procedimiento de intercambio de información entre la Agencia Estatal de Administración Tributaria y el Instituto Nacional de la Seguridad Social sin necesidad de recabar el consentimiento de los interesados.
 
+En los supuestos en que la unidad de convivencia descrita en la letra b) del apartado 2 tuviera su domicilio en la Comunidad Foral de Navarra o la del País Vasco, la referencia a la Agencia Estatal de Administración Tributaria realizada en el párrafo anterior se entenderá referida a las Haciendas Tributarias Forales de Navarra y de los territorios históricos del País Vasco, respectivamente.
+
 4. La prestación transitoria de ingreso mínimo vital será incompatible con la asignación económica por hijo o menor a cargo sin discapacidad o con discapacidad inferior al 33 por ciento, quedando esta suspendida durante la vigencia de aquella.
 
 5. El Instituto Nacional de la Seguridad Social notificará a los beneficiarios que cumplan los requisitos exigidos en el apartado 2 de esta disposición transitoria la resolución en la que se reconozca el derecho a la prestación transitoria del ingreso mínimo vital, y el derecho de opción entre el percibo de esta prestación y la asignación económica por hijo o menor a cargo que viniera percibiendo.
@@ -39,3 +41,5 @@ En otro caso, se reanudará el percibo de la asignación económica por hijo o m
 Los expedientes resueltos por el Instituto Nacional de la Seguridad Social se comunicarán a las comunidades autónomas a través de los protocolos informáticos establecidos.
 
 11. Para la aplicación de esta disposición se podrán comenzar a realizar las operaciones técnicas necesarias para la puesta en marcha de la prestación desde el 29 de mayo de 2020.
+
+> Se añade un párrafo al apartado 3 por la disposición final 5.2 del Real Decreto-ley 25/2020, de 3 de julio. Ref. BOE-A-2020-7311#df-5
