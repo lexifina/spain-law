@@ -264,29 +264,23 @@ TAE.ORO.COE.105 Especificaciones de operaciones y atribuciones del titular de un
 
 TAE.ORO.COE.110 Acuerdo de arrendamiento.
 
-Cualquier toma en arrendamiento:
+Cualquier arrendamiento:
 
-(a) Todo contrato de arrendamiento de una aeronave explotada por el operador certificado conforme a la presente Parte estará sujeto a la aprobación de la autoridad competente.
+(a) Todo contrato de arrendamiento de una aeronave explotada por el operador certificado conforme a la presente Parte estará sujeto a la aprobación previa de la autoridad competente excepto los acuerdos de arrendamiento entre operadores titulares de un Certificado de Operador Especial (COE), así como cualquier cesión de arrendamiento con tripulación, que solo requerirán notificación previa.
 
 (b) El operador certificado conforme a la presente Parte solo tomará en arrendamiento aeronaves con tripulación de un operador que no sea objeto de una prohibición de explotación en virtud del Reglamento (CE) n.º 2111/2005.
+
+La notificación o solicitud de aprobación, según corresponda, estará acompañada de copias del contrato de arrendamiento previsto o la descripción de las disposiciones del arrendamiento, excepto los acuerdos financieros, así como de toda la demás documentación pertinente.
 
 Toma en arrendamiento con tripulación:
 
 (c) El solicitante de una aprobación de toma en arrendamiento de aeronave con tripulación de un operador de otro país acreditará ante la autoridad competente que:
 
-(1) el operador del otro país es titular de un certificado válido expedido por la autoridad competente que incluya la posibilidad de realización de las actividades a realizar;
+(1) El operador del otro país es titular de un certificado válido expedido por la autoridad competente que incluya la posibilidad de realización de las actividades a realizar;
 
-(2) las normas de seguridad del operador del tercer país por lo que respecta al mantenimiento de la aeronavegabilidad y las operaciones aéreas son equivalentes a los requisitos aplicables establecidos por los anexos I, III y IV, y
+(2) Las normas de seguridad del operador del tercer país por lo que respecta al mantenimiento de la aeronavegabilidad y las operaciones aéreas son equivalentes a los requisitos aplicables establecidos por los anexos I, III y IV, y
 
-(3) la aeronave dispone de un CdA estándar expedido de conformidad con el anexo 8 de la OACI.
-
-Cesión en arrendamiento sin tripulación:
-
-(d) El operador certificado de conformidad con la presente Parte que quiera realizar una cesión en arrendamiento sin tripulación de sus aeronaves solicitará la aprobación previa a la autoridad competente. La solicitud estará acompañada de copias del contrato de arrendamiento previsto o la descripción de las disposiciones del arrendamiento, excepto los acuerdos financieros, así como de toda la demás documentación pertinente.
-
-Cesión en arrendamiento con tripulación:
-
-(e) Con anterioridad a la cesión en arrendamiento con tripulación de una aeronave, el operador certificado de conformidad con la presente Parte informará a la autoridad competente.
+(3) La aeronave dispone de un CdA estándar expedido de conformidad con el anexo 8 de la OACI.
 
 TAE.ORO.COE.130 Análisis de los datos de vuelo.
 
@@ -1144,5 +1138,7 @@ TAE.ORO.PA.110 Personal de apoyo a las operaciones, entrenamiento y verificacion
 El operador debe establecer en el Manual de Operaciones un programa de entrenamiento y verificación, inicial y periódico, aplicable al personal de apoyo a las operaciones que, sin ir a bordo de las aeronaves, desempeñe funciones que puedan influir en la seguridad de la operación.
 
 Dicho programa debe incluir las cualificaciones del personal que pueda impartir la instrucción y efectuar las verificaciones.
+
+> Se modifica el apartado TAE.ORO.COE.110 por la disposición final 3 del Real Decreto-ley 26/2020, de 7 de julio. Ref. BOE-A-2020-7432#df-3
 
 > Redactado conforme a la corrección de errores publicada en el BOE núm 100, de 26 de abril de 2016. Ref. BOE-A-2016-3973

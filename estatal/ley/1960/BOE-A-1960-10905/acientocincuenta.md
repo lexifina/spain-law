@@ -6,7 +6,9 @@ Primera. No podrán realizar ningún servicio público de transporte aéreo de p
 
 Segunda. Podrán utilizar terrenos diferentes de los aeródromos oficialmente abiertos al tráfico, previa autorización de la Agencia Estatal de Seguridad Aérea.
 
-2. Las aeronaves civiles pilotadas por control remoto, cualesquiera que sean las finalidades a las que se destinen excepto las que sean utilizadas exclusivamente con fines recreativos o deportivos, quedarán sujetas asimismo a lo establecido en esta Ley y en sus normas de desarrollo, en cuanto les sean aplicables. Estas aeronaves no estarán obligadas a utilizar infraestructuras aeroportuarias autorizadas, salvo en los supuestos en los que así se determine expresamente en su normativa específica.
+2. Las aeronaves civiles no tripuladas, cualesquiera que sean las finalidades a las que se destinen, quedarán sujetas asimismo a lo establecido en esta ley y en sus normas de desarrollo, en cuanto les sean aplicables. Estas aeronaves no estarán obligadas a utilizar infraestructuras aeroportuarias autorizadas, salvo en los supuestos en los que así se determine expresamente en su normativa específica.
+
+> Se modifica el apartado 2 por la disposición final 1.2 del Real Decreto-ley 26/2020, de 7 de julio. Ref. BOE-A-2020-7432#df
 
 > Se modifica por el art. 51.2 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
 

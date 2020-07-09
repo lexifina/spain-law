@@ -1,8 +1,10 @@
 ## Artículo ciento cincuenta y uno.
 
-Las actividades aéreas que se realicen a los fines del artículo anterior, excepto las de turismo y las deportivas, requerirán la comunicación previa a la Agencia Estatal de Seguridad Aérea o su autorización, a efectos de mantener la seguridad en las operaciones aeronáuticas y de terceros, en los casos en que la naturaleza de estas operaciones, el entorno o circunstancias en que se realizan supongan riesgos especiales para cualquiera de ellos, y estarán sometidas a su inspección en los términos establecidos por la legislación vigente.
+Las actividades aéreas que se realicen a los fines del artículo anterior, de acuerdo con su regulación específica, se les podrá requerir la presentación de una declaración responsable, comunicación previa a la Agencia Estatal de Seguridad Aérea o su autorización, a efectos de mantener la seguridad en las operaciones aeronáuticas y de terceros, en los casos en que la naturaleza de estas operaciones, el entorno o circunstancias en que se realizan supongan riesgos especiales para cualquiera de ellos, y estarán sometidas a su inspección en los términos establecidos por la legislación vigente.
 
 Aquellas aeronaves de limitados usos, características técnicas y actuaciones, podrán ser exceptuadas, en las condiciones que reglamentariamente se establezcan, de los requisitos de inscripción en el Registro de Aeronaves y de la obtención del certificado de aeronavegabilidad a los cuales se refieren, respectivamente, los artículos 29 y 36 de esta Ley. Para tripular estas aeronaves no es exigible el título que requiere el artículo 58 de esta Ley, determinándose por el Ministerio de Fomento, en su caso, las condiciones que deben cumplir los tripulantes para su pilotaje.
+
+> Se modifica el párrafo primero por la disposición final 1.3 del Real Decreto-ley 26/2020, de 7 de julio. Ref. BOE-A-2020-7432#df
 
 > Se modifica el párrafo primero por el art. 51.3 de la Ley 18/2014, de 15 de octubre. Ref. BOE-A-2014-10517.
 

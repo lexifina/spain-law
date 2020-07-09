@@ -1,0 +1,77 @@
+## Disposición final sexta. Modificación de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades.
+
+Con efectos para los períodos impositivos que se inicien a partir de 1 de enero de 2020 que no hayan concluido a la entrada en vigor de este real decreto-ley, se introducen las siguientes modificaciones en la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades:
+
+Uno. Se modifica la letra f) del apartado 3 del artículo 9, que queda redactada de la siguiente forma:
+
+«f) Las entidades de derecho público Puertos del Estado y las respectivas de las comunidades autónomas.»
+
+Dos. Se añade una nueva letra n) al artículo 15, que queda redactada de la siguiente forma:
+
+«n) Los que sean objeto de la deducción establecida en el artículo 38 bis de esta ley, incluidos los correspondientes a la amortización de los activos cuya inversión haya generado el derecho a la mencionada deducción.»
+
+Tres. Se añade un nuevo artículo 38 bis, que queda redactado de la siguiente forma:
+
+«Artículo 38 bis. Deducción por inversiones realizadas por las autoridades portuarias.
+
+1. Las autoridades portuarias podrán deducir de la cuota íntegra:
+
+a) Las inversiones y gastos relacionados con:
+
+1.º La infraestructura y los servicios de control del tráfico marítimo.
+
+2.º Los servicios e infraestructuras destinados a mejorar la seguridad de la navegación y los movimientos de los buques en el mar litoral español, incluidos los elementos de señalización marítima, balizamiento y ayudas a la navegación, cuyos beneficiarios no sean principalmente los usuarios del puerto que los construye y mantiene.
+
+3.º Los accesos terrestres viarios y ferroviarios de servicio público general, los accesos marítimos, los dragados, que beneficien a la colectividad en su conjunto y cuyos beneficiarios no sean principalmente los usuarios del puerto, así como las infraestructuras de mejora de las redes generales de transporte de uso común.
+
+4.º Las infraestructuras de protección y resistencia contra condiciones climáticas extremas cuyos beneficiarios no sean principalmente los usuarios del puerto.
+
+5.º Los servicios e infraestructuras de salvamento marítimo asociados al ejercicio del poder público, siempre y cuando dichas infraestructuras no se exploten comercialmente, y la formación de los servicios públicos responsables en materia de emergencias, seguridad y salvamento, siempre y cuando dicha formación no sea obligatoria para las empresas.
+
+6.º La elaboración e implantación de planes de seguridad y protección, en la medida en que estos costes no estén asociados a requisitos obligatorios de seguridad que todas las compañías deban cumplir, y la atención de emergencias de protección civil, en ambos casos, cuando estas actividades estén asociadas al ejercicio de poder público y siempre que sus beneficiarios no sean principalmente los usuarios del puerto.
+
+7.º Los servicios e infraestructuras de defensa contra incendios, desprendimientos y otros riesgos relacionados con la protección civil, asociados al ejercicio de poder público, que no se exploten comercialmente, que no sean obligatorios para las empresas, que beneficien a la colectividad en su conjunto y cuyos beneficiarios no sean principalmente los usuarios del puerto.
+
+8.º Los servicios e infraestructura utilizados exclusivamente por las Fuerzas y Cuerpos de Seguridad y por la Policía portuaria en el ejercicio de poder público.
+
+9.º Los servicios e infraestructuras sanitarias para la atención a personas en situaciones de vulnerabilidad, siempre y cuando las infraestructuras no se utilicen para actividades económicas del puerto.
+
+10.º Las infraestructuras y servicios para el control aduanero de mercancías, para la inspección en frontera exigidos por normas con rango de ley en los ámbitos de sanidad animal, sanidad vegetal, sanidad exterior y seguridad industrial e interés público, y las relacionadas con el control de pasajeros y la inmigración.
+
+11.º Las infraestructuras y servicios para la vigilancia de la contaminación, las emergencias en materia medioambiental y lucha contra la contaminación asociadas al ejercicio de poder público, cuyos costes no sean legalmente repercutibles al causante de la emergencia, ni sean costes en los que se incurra simplemente para cumplir la normativa legalmente obligatoria para todas las empresas, la descontaminación de suelos que no se destinen al desarrollo de una actividad económica, el desguace de embarcaciones y equipos abandonados, cuyo tratamiento recaiga legalmente sobre la autoridad portuaria por haber quedado desiertos los procedimientos destinados a identificar el interés privado en su desguace, retirada o achatarramiento, y el saneamiento, limpieza general portuaria y retirada de residuos distintos de los generados por los usuarios del puerto, tales como los desechos generados por los buques, los residuos de la carga y similares.
+
+12.º Los servicios e infraestructuras realizados para organismos internacionales como consecuencia de obligaciones contraídas por el Reino de España en el marco de un tratado internacional.
+
+13.º Los servicios e infraestructuras dedicadas a la Defensa Nacional.
+
+14.º Los servicios e instalaciones utilizados para el desarrollo de actividades científicas cuyos resultados no tengan por objeto su explotación económica y a las actuaciones de monitorización y predicción del medio físico con fines de investigación e información meteorológica cuyos resultados no se exploten comercialmente.
+
+15.º Los servicios de alumbrado de zonas comunes en beneficio de la colectividad, de uso público y abiertas cuyos beneficiarios no sean principalmente los usuarios del puerto.
+
+16.º Las actuaciones de protección o corrección de la deriva litoral cuyos beneficiarios no sean principalmente los usuarios del puerto.
+
+17.º Las inversiones y servicios relacionados con el fomento de la cultura y el patrimonio histórico y cultural, incluidos los previstos en el apartado 1 del artículo sesenta y ocho de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, en los supuestos en los que las obras públicas no estén relacionadas con la actividad económica de la autoridad portuaria, así como las actuaciones de rehabilitación de bienes con protección cultural que no se exploten comercialmente y beneficien a la sociedad en su conjunto.
+
+18.º Las actuaciones de urbanización y en desarrollo y revitalización de suelo público para su uso público sin explotación comercial.
+
+b) Las inversiones y gastos realizados para la construcción, sustitución o mejora de las infraestructuras de los puertos marítimos, para la construcción, sustitución o mejora de las infraestructuras de acceso a los mismos o para las actividades de dragado, en los términos y con las condiciones previstas en el capítulo I y en los artículos 56 ter y 56 quater del Reglamento (UE) Nº 651/2014, de la Comisión, de 17 de junio de 2014, por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado. El importe de la deducción será el que resulte de aplicar a dichas inversiones y gastos el porcentaje de intensidad máxima de ayuda permitida calculada con arreglo a lo dispuesto en el artículo 56 ter y 56 quater, respectivamente, del Reglamento (UE) Nº 651/2014.
+
+c) Las inversiones que superen los umbrales establecidos en las letras ee) y ff) del apartado 1 del artículo 4 del Reglamento (UE) Nº 651/2014 podrán deducirse en la medida en que la Comisión Europea haya declarado su compatibilidad con el mercado interior de conformidad con lo previsto en el apartado 3 del artículo 108 del Tratado de Funcionamiento de la Unión Europea y se cumplan las condiciones establecidas por la Comisión en la Decisión correspondiente. El importe de la deducción será el que resulte de aplicar a dichas inversiones el porcentaje de intensidad máxima de ayuda autorizada por la Comisión.
+
+2. La deducción de la letra c) del apartado 1 de este artículo solo se podrá aplicar a partir del período impositivo en el que la Comisión Europea haya declarado la compatibilidad de las inversiones a las que se refiere dicha letra.
+
+3. Las inversiones o gastos objeto de esta deducción se minorarán en el importe de las subvenciones recibidas.
+
+4. Las autoridades portuarias deberán llevar los oportunos registros contables y documentales específicos que permitan identificar los gastos e inversiones a los que se refiere la deducción prevista en este artículo.
+
+5. La deducción prevista en este artículo queda excluida del límite a que se refiere el último párrafo del apartado 1 del artículo 39 de esta ley. A efectos del cálculo de dicho límite no se computará esta deducción.
+
+Las cantidades no deducidas por insuficiencia de cuota íntegra podrán aplicarse en las liquidaciones de los períodos impositivos siguientes en el plazo establecido en el apartado 1 del artículo 39 de esta ley.
+
+6. Reglamentariamente se podrán dictar cuantas disposiciones sean necesarias para el desarrollo y aplicación de la presente deducción.»
+
+Cuatro. Se modifica la letra a) del apartado 1 del artículo 110, que queda redactada de la siguiente forma:
+
+«a) Las que procedan de la realización de actividades que constituyan su objeto o finalidad específica, siempre que no tengan la consideración de actividades económicas. En particular, estarán exentas las cuotas satisfechas por los asociados, colaboradores o benefactores, siempre que no se correspondan con el derecho a percibir una prestación derivada de una actividad económica.
+
+A efectos de la aplicación de este régimen al Organismo Público Puertos del Estado se considerará que no proceden de la realización de actividades económicas los ingresos procedentes de la actividad de coordinación y control de eficiencia del sistema portuario.»
