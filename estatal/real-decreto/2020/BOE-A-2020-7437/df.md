@@ -1,0 +1,51 @@
+## Disposición final primera. Modificación del Real Decreto 139/2020, de 28 de enero, por el que se establece la estructura orgánica básica de los Departamentos ministeriales.
+
+Se modifica el artículo 1 del Real Decreto 139/2020, de 28 de enero, por el que se establece la estructura orgánica básica de los Departamentos ministeriales, que queda redactado en los siguientes términos:
+
+> «Artículo 1. Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.
+
+> 1. El Ministerio de Asuntos Exteriores, Unión Europea y Cooperación se estructura en los siguientes órganos superiores y directivos:
+
+> A) La Secretaría de Estado de Asuntos Exteriores y para Iberoamérica y el Caribe, de la que dependen los siguientes órganos directivos:
+
+> 1. La Dirección General de Política Exterior y de Seguridad.
+
+> 2. La Dirección General de Naciones Unidas, Organismos Internacionales y Derechos Humanos.
+
+> 3. La Dirección General para Iberoamérica y el Caribe.
+
+> 4. La Dirección General para el Magreb, Mediterráneo y Oriente Próximo.
+
+> 5. La Dirección General para África.
+
+> 6. La Dirección General para América del Norte, Europa Oriental, Asia y Pacífico.
+
+> B) La Secretaría de Estado para la Unión Europea, de la que dependen los siguientes órganos directivos:
+
+> 1. La Dirección General de Integración y Coordinación de Asuntos Generales de la Unión Europea.
+
+> 2. La Dirección General de Coordinación del Mercado Interior y otras Políticas Comunitarias.
+
+> 3. La Dirección General de Europa Occidental, Central y Sudeste de Europa.
+
+> C) La Secretaría de Estado de Cooperación Internacional, de la que depende la Dirección General de Políticas de Desarrollo Sostenible.
+
+> D) La Secretaría de Estado de la España Global, de la que dependen los siguientes órganos directivos:
+
+> 1. La Dirección General de Estrategia, Prospectiva y Coherencia.
+
+> 2. La Dirección General de Diplomacia Económica.
+
+> 3. La Dirección General de Comunicación, Diplomacia Pública y Redes.
+
+> E) La Subsecretaría de Asuntos Exteriores, Unión Europea y Cooperación, de la que dependen los siguientes órganos directivos:
+
+> 1. La Secretaría General Técnica.
+
+> 2. La Dirección General del Servicio Exterior.
+
+> 3. La Dirección General de Españoles en el Exterior y de Asuntos Consulares.
+
+> 4. La Dirección General de Protocolo, Cancillería y Órdenes.
+
+> 2. Quedan suprimidas la Dirección General de Naciones Unidas y Derechos Humanos, la Oficina de la España Global, la Dirección General de Relaciones Económicas Internacionales, la Dirección General de Comunicación e Información Diplomática y el Introductor de Embajadores.»
