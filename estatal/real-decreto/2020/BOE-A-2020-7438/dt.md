@@ -1,0 +1,5 @@
+## Disposición transitoria única. Vertederos existentes y revisión de la autorización.
+
+Los titulares de todos los vertederos que estén en funcionamiento a la entrada en vigor de este real decreto, incluidos los vertederos existentes autorizados de acuerdo con el el artículo 15 del Real Decreto 1481/2001, de 27 de diciembre, por el que se regula la eliminación de residuos mediante depósito en vertedero, y en su caso, todas las entidades explotadoras de los mismos, solicitarán al órgano competente de la comunidad autónoma, en el plazo máximo de doce meses desde la entrada en vigor de este, una revisión de su autorización de conformidad con los artículos 10, 11 y 12.
+
+Las autoridades competentes,en el plazo de treinta y seis meses desde que la la solicitud haya tenido entrada en el registro de la administración competente para su tramitación, resolverán y notificarán la resolución a los interesados. En el caso de que las autoridades competentes no resolviesen en este plazo la solicitudes de autorización se entenderán desestimadas.
