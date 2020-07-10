@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 221, de 12 de septiembre de 2018. Ref. BOE-A-2018-12398
+Norma derogada, con efectos de 10 de julio de 2020, por la disposición derogatoria única del Real Decreto de 7 de julio de 2020. Ref. BOE-A-2020-7508#dd

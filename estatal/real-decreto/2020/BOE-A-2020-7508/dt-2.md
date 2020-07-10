@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Régimen transitorio de las nuevas áreas de actividad.
+
+El ejercicio de la competencia referida en el artículo 9.1.ñ), se producirá a partir de la aprobación de nuevos Presupuestos Generales del Estado, que habiliten los créditos presupuestarios correspondientes a las subvenciones a las que se refiere la citada competencia en la Sección del Ministerio de Transportes, Movilidad y Agenda Urbana. Los procedimientos iniciados antes de la fecha efectiva de la asunción de competencias, seguirán gestionándose por los órganos administrativos que los tuvieran atribuidos.
