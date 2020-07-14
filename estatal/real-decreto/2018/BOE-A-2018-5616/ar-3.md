@@ -1,3 +1,5 @@
 ## Artículo 3. Alcance.
 
 Los Colegios estarán integrados por los Graduados en Ingeniería de la rama industrial, cuyo título universitario oficial cumpla con los requisitos de la Orden CIN/351/2009, de 9 de febrero, los titulados Ingenieros Técnicos de la misma rama con arreglo a los planes de estudios anteriores al Real Decreto 1497/1987, de 27 de noviembre, conforme a los Reales Decretos 1462/1990, de 26 de octubre, y 1402/1992, de 20 de noviembre, 1403/1992, de 20 de noviembre, 1404/1992, de 20 de noviembre, 1405/1992, de 20 de noviembre, y 1406/1992, de 20 de noviembre, y los Peritos Industriales, siempre que estén en posesión del correspondiente título oficial reconocido por el Estado, que lo soliciten y cumplan los demás requisitos exigidos por los presentes Estatutos.
+
+> Téngase en cuenta que se declara la nulidad de este artículo, en lo que se refiere al título de «Graduado en Ingeniería de la rama industrial», de acuerdo al fundamento de derecho tercero de la Sentencia del TS de 10 de marzo de 2020. Ref. BOE-A-2020-7795
