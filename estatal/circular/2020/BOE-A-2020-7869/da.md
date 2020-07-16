@@ -1,0 +1,3 @@
+## Disposición adicional única. Inicio de la actividad publicitaria.
+
+Las entidades mencionadas en la norma 4 que realicen por primera vez publicidad sobre productos y servicios bancarios dirigida a clientes o potenciales clientes en territorio español deberán comunicar esta circunstancia al Banco de España y, cuando esta les resulte exigible, remitir asimismo la política de comunicación comercial conforme a lo previsto en la norma 6, todo ello mediante transmisión telemática a través del canal habilitado a tal efecto en el sitio web del Banco de España y en el plazo de un mes a contar desde el día siguiente al de inicio de la actividad publicitaria.
