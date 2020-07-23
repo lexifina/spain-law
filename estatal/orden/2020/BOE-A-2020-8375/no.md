@@ -1,0 +1,1 @@
+Téngase en cuenta que las medidas contenidas en la presente Orden han perdido su vigencia por la modificación temporal de las obligaciones de servicio público en la ruta Almería-Sevilla, establecida por el apartado primero de la Orden TMA/297/2021, de 29 de marzo. Ref. BOE-A-2021-4913#pr-2
