@@ -1,0 +1,5 @@
+## Disposición final segunda. Cómputo de la carga lectiva superada.
+
+1. Estudios universitarios. Para calcular el porcentaje de créditos superados no se tendrán en cuenta los créditos correspondientes a asignaturas matriculadas en el curso 2019-2020 que, como consecuencia de la aplicación de las medidas derivadas del estado de alarma, no le hayan podido ser evaluados al estudiante. En estos casos, el porcentaje de créditos superados se calculará sobre el número de créditos o asignaturas efectivamente evaluadas o que hubieran podido ser evaluadas.
+
+2. Estudios no universitarios. Para calcular el porcentaje de asignaturas, módulos, créditos o su equivalente en horas superadas, no se tendrán en cuenta los correspondientes a dichas asignaturas o módulos que, como consecuencia de la aplicación de las medidas derivadas del estado de alarma, hayan sido objeto de autorización de aplazamiento por parte del becario, para su realización en el siguiente curso académico. En este caso, el porcentaje se calculará sobre el número de asignaturas/módulos efectivamente evaluados.
