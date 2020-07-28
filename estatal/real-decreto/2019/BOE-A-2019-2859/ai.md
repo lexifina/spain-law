@@ -24,7 +24,7 @@ h) Otras especies: Camello Canario, Conejo Antiguo Pardo Español, Conejo Gigant
 
 a) Especie bovina: Blonda de Aquitania, Charolesa, Fleckvieh, Frisona, Limusina, Parda.
 
-b) Especie ovina: Assaf, Berrichon du Cher, Charmoise, Fleischschaf, île de France, Lacaune, Landschaff, Merino Precoz.
+b) Especie ovina: Assaf, Berrichon du Cher, Fleischschaf, île de France, Lacaune, Merino Precoz.
 
 c) Especie porcina: Duroc, Landrace, Large White y Pietrain.
 
@@ -35,3 +35,5 @@ d) Especie equina caballar: Árabe, Anglo-Árabe, Pura Sangre Inglés, Trotador 
 a) Especie ovina: Salz.
 
 b) Especie equina caballar: Caballo de Deporte Español (C.D.E.).
+
+> Se modifica el apartado 2.b) por el art. 2 de la Orden APA/698/2020, de 21 de julio. Ref. BOE-A-2020-8582

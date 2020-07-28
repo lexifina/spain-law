@@ -46,6 +46,8 @@ Perro de Agua del Cantábrico
 
 Perro de Agua Español.
 
+Perro Leonés de Pastor.
+
 Perro Majorero.
 
 Presa Canario.
@@ -56,17 +58,19 @@ Podenco Canario.
 
 Podengo Galego.
 
+Podenco Paternino.
+
+Podenco Valenciano.
+
 Ratonero-Bodeguero Andaluz.
 
 Sabueso Español.
 
+Valdueza.
+
 Villano de las Encartaciones.
 
-Podenco Paternino
-
-Podenco Valenciano
-
-Perro Leonés de Pastor
+> Se modifica por el art. 1 de la Orden APA/698/2020, de 21 de julio. Ref. BOE-A-2020-8582
 
 > Se modifica por el art. 2 de la Orden AAA/1357/2016, de 29 de julio. Ref. BOE-A-2016-7639.
 
