@@ -1,6 +1,6 @@
 ## Disposición transitoria primera. Adaptación de los equipos, los sistemas de facturación y los contratos.
 
-1. Las empresas distribuidoras y comercializadoras adaptarán los equipos de medida, los sistemas de facturación y los contratos a lo dispuesto en esta circular antes del 1 de noviembre de 2020.
+1. Las empresas distribuidoras y comercializadoras adaptarán los equipos de medida, los sistemas de facturación y los contratos a lo dispuesto en esta circular antes del 1 de abril de 2021.
 
 La Comisión Nacional de los Mercados y la Competencia adaptará a lo dispuesto en esta circular los ficheros de intercambio de información entre distribuidores y comercializadores en el plazo de tres meses desde la publicación de la misma.
 
@@ -23,3 +23,5 @@ b) Para los consumidores conectados en baja tensión con potencia contratada sup
 5. Durante el periodo transitorio de adaptación de los sistemas establecido en el punto 1, las empresas distribuidoras aplicarán los peajes de acceso y condiciones de facturación que estuvieran en vigor con anterioridad a la entrada en vigor de la presente circular.
 
 6. Las empresas distribuidoras comunicarán a las comercializadoras, antes del 1 de noviembre de 2020, el momento en el que se ha adaptado el equipo de medida.
+
+> Se modifica el primer párrafo del apartado 1 por el art. único de la Circular 7/2020, de 22 de julio. Ref. BOE-A-2020-8688
