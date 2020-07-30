@@ -2,7 +2,7 @@
 
 ## Relación de especialidades en Ciencias de la Salud por el sistema de residencia
 
-1. Especialidades médicas para cuyo acceso se exige estar en posesión de un título universitario oficial que habilite para el ejercicio en España de la profesión de médico:
+1. Especialidades médicas para cuyo acceso se exige estar en posesión de un título universitario oficial que habilite para el ejercicio en España de la profesión de Médico:
 
 Alergología.
 
@@ -49,6 +49,8 @@ Medicina Física y Rehabilitación.
 Medicina Intensiva.
 
 Medicina Interna.
+
+Medicina Legal y Forense.
 
 Medicina Nuclear.
 
@@ -121,6 +123,8 @@ Microbiología y Parasitología: Biología, Bioquímica, Farmacia, Medicina o Qu
 Radiofarmacia: Biología, Bioquímica, Farmacia o Química.
 
 Radiofísica Hospitalaria: Física y otras disciplinas científicas y tecnológicas.
+
+> Se modifica el apartado 1 por la disposición final 5.2 del Real Decreto 704/2020, de 28 de julio. Ref. BOE-A-2020-8682#df-5
 
 > Se declara la nulidad del Real Decreto 639/2014, de 25 de julio, por Sentencia del TS de 12 de diciembre de 2016. Ref. BOE-A-2017-3480
 

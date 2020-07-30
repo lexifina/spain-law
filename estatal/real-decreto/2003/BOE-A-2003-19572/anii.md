@@ -278,6 +278,8 @@ U.100 Transporte sanitario (carretera, aéreo, marítimo): unidad asistencial qu
 
 U.101 Terapias no convencionales: unidad asistencial en la que un médico es responsable de realizar tratamientos de las enfermedades por medios de medicina naturista o con medicamentos homeopáticos o mediante técnicas de estimulación periférica con agujas u otros que demuestren su eficacia y su seguridad.
 
+U.102 Medicina Legal y Forense: Unidad asistencial en la que un médico/a especialista en Medicina Legal y Forense es responsable de poder realizar la asistencia técnica a los órganos de gestión y dirección de un centro sanitario, en todo lo relacionado con aspectos médico-legales, deontológicos y éticos del propio centro y del resto de administraciones sanitarias.
+
 U.900 Otras unidades asistenciales: unidades bajo la responsabilidad de profesionales con titulación oficial o habilitación profesional que, aun cuando no tengan la consideración legal de «profesiones sanitarias tituladas y reguladas» en el sentido previsto en el artículo 2.1 de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, llevan a cabo actividades sanitarias que no se ajustan a las características de ninguna de las unidades anteriormente definidas, por su naturaleza innovadora, por estar en fase de evaluación clínica, o por afectar a profesiones cuyo carácter polivalente permite desarrollar, con una formación adecuada, actividades sanitarias vinculadas con el bienestar y salud de las personas en centros que tengan la consideración de sanitarios.
 
 > Téngase en cuenta que se declara la nulidad de la referencia U.900, en la redacción dada por el art. único.5 de la Orden SCO/1741/2006, de 29 de mayo, por Sentencia de la AN de 26 de septiembre de 2007. Ref. BOE-B-2010-17345
@@ -285,6 +287,8 @@ U.900 Otras unidades asistenciales: unidades bajo la responsabilidad de profesio
 > Redacción anterior:
 
 > "U.900 Otras unidades asistenciales: unidades que, bajo la responsabilidad de profesionales sanitarios, capacitados por su titulación oficial o habilitación profesional, no se ajustan a las características de ninguna de las anteriormente definidas por realizar actividades sanitarias innovadoras o en fase de evaluación clínica."
+
+> Se añade la referencia U.102 por la disposición final 2.2 del Real Decreto 704/2020, de 28 de julio. Ref. BOE-A-2020-8682#df-2
 
 > Se declara la nulidad de la "referencia U.900", en la redacción dada por el art. único.5 de la Orden SCO/1741/2006, de 29 de mayo, por Sentencia de la AN de 26 de septiembre de 2007. Ref. BOE-B-2010-17345
 

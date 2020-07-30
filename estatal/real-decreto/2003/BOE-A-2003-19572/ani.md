@@ -106,6 +106,7 @@
 | U.99 Medicina del trabajo. |
 | U.100 Transporte sanitario (carretera, aéreo, marítimo). |
 | U.101 Terapias no convencionales. |
+| U.102 Medicina Legal y Forense. |
 | U.900 Otras unidades asistenciales. |
 
 Establecimientos sanitarios:
@@ -119,6 +120,8 @@ E.3 Ópticas.
 E.4 Ortopedias.
 
 E.5 Establecimientos de audioprótesis.
+
+> Se añade la referencia U.102 por la disposición final 2.1 del Real Decreto 704/2020, de 28 de julio. Ref. BOE-A-2020-8682#df-2
 
 > Se modifica la referencia C.2.5.10 por el art. único.1 de la Orden SCO/1741/2006, de 29 de mayo. Ref. BOE-A-2006-9963.
 
