@@ -25,3 +25,5 @@ La excepción prevista en esta disposición para las entidades de capital-riesgo
 > Se modifica, con efectos para los períodos impositivos que se inicien a partir del 1 de enero de 2018, por el art. 71 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-67
 
 > Se añade, con efectos para los períodos impositivos que se inicien a partir del 1 de enero de 2016, por el art. único del Real Decreto-ley 2/2016, de 30 de septiembre. Ref. BOE-A-2016-8957.
+
+> Téngase en cuenta que este Real Decreto-ley fue anulado, con los efectos previstos en el fundamento jurídico sexto, por Sentencia del TC 78/2020, de 1 de julio. Ref. BOE-A-2020-8959
