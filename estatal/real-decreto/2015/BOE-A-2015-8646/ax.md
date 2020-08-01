@@ -8,6 +8,8 @@ El procedimiento de despacho consistirá en:
 
 Se utilizará para ello un modelo de minimización de costes variables de despacho que tenga en cuenta las características de los datos de entrada antes citados.
 
+Se tendrá en cuenta asimismo la particular situación de los grupos con limitación de horas de funcionamiento. El operador del sistema determinará en qué momentos del año estos grupos serán despachados, de acuerdo a criterios de seguridad de suministro y eficiencia económica.
+
 2. Segundo despacho, con criterio económico y de seguridad, que deberá tener en cuenta que:
 
 a) La generación y reserva rodante de cada grupo generador, para cada una de las horas, es asignada como nudo único.
@@ -27,3 +29,5 @@ g) Se utilizará para ello un modelo de minimización de costes variables que te
 3. Tercer despacho, en el cual, partiendo del despacho anterior, se analizarán las posibles restricciones impuestas por la red de transporte a esta situación base de cobertura, por violación de los límites impuestos en estado normal de funcionamiento a las variables de control del sistema, y ante las contingencias establecidas en la normativa de aplicación.
 
 Se procederá a un reajuste de la generación si fuera necesario, con criterios de seguridad y economía, identificando condiciones de funcionamiento obligadas de los grupos.
+
+> Se añade el apartado 1 por la disposición final 3.9 del Real Decreto 647/2020, de 7 de julio. Ref. BOE-A-2020-7439#df-3
