@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Esta orden se dicta al amparo de lo establecido en el artículo 149.1.7.ª y 30.ª de la Constitución, que atribuyen al Estado, respectivamente, la competencia exclusiva en materia de legislación laboral, sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas, y la competencia para establecer la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales, así como las normas básicas para el desarrollo del derecho a la educación, a fin de garantizar el cumplimiento de los deberes de los poderes públicos en esta materia.
