@@ -1,0 +1,11 @@
+## Disposición adicional quinta. Bonificación del pago de aranceles notariales y del Registro de la Propiedad.
+
+1. Los derechos arancelarios notariales y registrales derivados de la formalización e inscripción de la novación del préstamo, leasing y renting que incluya la moratoria señalada en los artículos 18 al 23 del Real Decreto-ley 26/2020 de 7 de julio de 2020, serán satisfechos en todo caso por el acreedor y se bonificarán en un 50 por ciento en los siguientes términos:
+
+a) Por el otorgamiento de la escritura se devengará el mismo arancel que, para las escrituras de novación hipotecaria, se establece en la letra f) del apartado 1 del número 1 del anexo I del Real Decreto 1426/1989, de 17 de noviembre, por el que se aprueba el arancel de los Notarios, reducidos al 50 por ciento, sin que se devengue cantidad alguna a partir del quinto folio de matriz y de copia, sea copia autorizada o copia simple. El arancel mínimo previsto será de 30 euros y el máximo de 75.
+
+b) Por la práctica de la inscripción se aplicará el arancel previsto para las novaciones modificativas en artículo 2.1.g) del Anexo I del Real Decreto 1427/1989, de 17 de noviembre, por el que se aprueba el Arancel de los Registradores. Al resultado se le aplicará una bonificación del 50 por ciento. El arancel mínimo previsto será de 24 euros y el máximo de 50 euros.
+
+2. Los derechos arancelarios notariales derivados de la intervención de pólizas en que se formalice, en su caso, la suspensión temporal de las obligaciones contractuales derivadas de todo préstamo, leasing y renting a los que se refieren los artículos 18 al 23 del Real Decreto-ley 26/2020 de 7 de julio de 2020, serán los establecidos en el Decreto de 15 de diciembre de 1950 y se bonificarán en un 50 % con un límite mínimo de 25 euros y máximo de 50 euros, por todos los conceptos incluyendo sus copias y traslados.
+
+Los derechos arancelarios de los registradores derivados de la constancia registral, en su caso, de la suspensión temporal de las obligaciones contractuales, a que se refieren los artículos 18 al 23 del Real Decreto-ley 26/2020 de 7 de julio de 2020 se minutarán de conformidad con el artículo 36.9.g de la Ordenanza aprobada por Orden de 19 de julio de 1999, por la cantidad fija de 6 euros.

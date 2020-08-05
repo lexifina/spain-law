@@ -88,6 +88,8 @@ a) Cumplan con lo previsto en la disposición adicional sexta de la Ley Orgánic
 
 b) o bien, no cumpliendo lo previsto en la disposición adicional sexta de la Ley Orgánica 2/2012, de 27 de abril, la inversión no conlleve gastos de mantenimiento y así quede acreditado en su Plan económico-financiero convenientemente aprobado.
 
+> Véase, con carácter excepcional y como medida de apoyo de las Diputaciones Provinciales y entidades equivalentes a municipios con problemas de liquidez o que se encuentren en riesgo financiero, para el apartado 3, el art. 7.3 del Real Decreto-ley 27/2020, de 4 de agosto. Ref. BOE-A-2020-9131#a7
+
 4. Que la inversión permita durante su ejecución, mantenimiento y liquidación, dar cumplimiento a los objetivos de estabilidad presupuestaria, y deuda pública por parte de la Corporación Local. A tal fin se valorará, el gasto de mantenimiento, los posibles ingresos o la reducción de gastos que genere la inversión durante su vida útil.
 
 5. La iniciación del correspondiente expediente de gasto y el reconocimiento de la totalidad de las obligaciones económicas derivadas de la inversión ejecutada se deberá realizar por parte de la Corporación Local antes de la finalización del ejercicio de aplicación de la disposición adicional sexta de la Ley Orgánica 2/2012, de 27 de abril.
