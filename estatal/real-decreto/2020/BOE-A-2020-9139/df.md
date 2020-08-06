@@ -1,0 +1,23 @@
+## Disposición final primera. Modificación del Real Decreto 139/2020, de 28 de enero, por el que se establece la estructura orgánica básica de los departamentos ministeriales.
+
+Se modifica el artículo 16 del Real Decreto 139/2020, de 28 de enero, por el que se establece la estructura orgánica básica de los departamentos ministeriales, que queda redactado como sigue:
+
+> «Artículo 16. Ministerio de Sanidad.
+
+> 1. El Ministerio de Sanidad se estructura en los siguientes órganos superiores y directivos:
+
+> A) La Secretaría de Estado de Sanidad, de la que dependen los siguientes órganos directivos:
+
+> 1.º La Dirección General de Salud Pública.
+
+> 2.º La Dirección General de Cartera Común de Servicios del Sistema Nacional de Salud y Farmacia.
+
+> 3.º La Dirección General de Ordenación Profesional.
+
+> 4.º La Delegación del Gobierno para el Plan Nacional sobre Drogas, con rango de Dirección General.
+
+> B) La Secretaría General de Salud Digital, Información e Innovación del Sistema Nacional de Salud, con rango de Subsecretaría, de la que depende la Dirección General de Salud Digital y Sistemas de Información para el Sistema Nacional de Salud.
+
+> C) La Subsecretaría de Sanidad, de la que depende la Secretaría General Técnica.
+
+> 2. Quedan suprimidas la Secretaría General de Sanidad y Consumo y la Secretaría General de Sanidad, así como la Dirección General de Salud Pública, Calidad e Innovación y la Dirección General de Cartera Básica de Servicios del Sistema Nacional de Salud y Farmacia.»

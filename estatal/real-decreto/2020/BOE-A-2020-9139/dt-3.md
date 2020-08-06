@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Régimen transitorio de determinados órganos directivos y unidades.
+
+La Subdirección General de Atención al Ciudadano y la División de Tecnologías de la Información en coordinación con la Dirección General de Salud Digital y Sistemas de Información para el Sistema Nacional de Salud, prestarán sus servicios a los Ministerios de Derechos Sociales y Agenda 2030 y de Consumo, hasta tanto se establezca la distribución de efectivos, y en su caso, se asuman de forma efectiva los procedimientos y sistemas técnicos requeridos para el normal funcionamiento del servicio.
