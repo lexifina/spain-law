@@ -32,7 +32,7 @@ También tendrán la consideración de operaciones vinculadas, las operaciones p
 
 a) La entidad gestora deberá disponer de un procedimiento interno formal, recogido en su reglamento interno de conducta, para cerciorarse de que la operación vinculada se realiza en interés exclusivo del fondo de pensiones y a precios o en condiciones iguales o mejores que los de mercado. La confirmación de que estos requisitos se cumplen deberá ser adoptada por una comisión independiente creada en el seno del consejo de administración de la gestora o, alternativamente, por un órgano interno de la entidad gestora al que se encomiende esta función. El procedimiento podrá prever sistemas simplificados de aprobación para operaciones vinculadas repetitivas o de escasa relevancia.
 
-b) La entidad gestora deberá informar en el boletín de adhesión suscrito por el partícipe en el momento de la contratación y en la información trimestral a facilitar a partícipes y beneficiarios cualquiera que sea la modalidad de plan de pensiones al que pertenezcan, sobre los procedimientos adoptados para evitar los conflictos de interés y sobre las operaciones vinculadas realizadas en la forma y con el detalle que la Ley del Mercado de Valores y su normativa de desarrollo determinen.
+b) La entidad gestora deberá informar en la información trimestral a facilitar a partícipes y beneficiarios cualquiera que sea la modalidad de plan de pensiones al que pertenezcan, sobre los procedimientos adoptados para evitar los conflictos de interés y sobre las operaciones vinculadas realizadas en la forma y con el detalle que la Ley del Mercado de Valores y su normativa de desarrollo determinen.
 
 c) La comisión u órgano interno a que se refiere el párrafo a) anterior deberá informar al consejo de administración, al menos una vez al trimestre, sobre las operaciones vinculadas realizadas.
 
@@ -49,6 +49,8 @@ d) El acuerdo deberá ser adoptado por mayoría de dos tercios del total de cons
 e) Una vez celebrada la votación y proclamado el resultado, será válido hacer constar en el acta las reservas o discrepancias de los consejeros respecto al acuerdo adoptado.
 
 La Dirección General de Seguros y Fondos de Pensiones deberá determinar qué se entenderá, a efectos de este artículo, por volumen de negocio significativo atendiendo a la dimensión de la entidad gestora, el patrimonio administrado y la cuantía y características de la operación vinculada.
+
+> Se modifica el apartado 3.b) por el art. 2.18 del Real Decreto 738/2020, de 4 de agosto. Ref. BOE-A-2020-9340
 
 > Se modifican los apartados 1 y 2 por el art. 2.18 del Real Decreto 62/2018, de 9 de febrero. Ref. BOE-A-2018-1832
 

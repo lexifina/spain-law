@@ -20,7 +20,9 @@ d) Que la entidad gestora y el depositario tengan domicilios diferentes y separa
 
 Las mencionadas medidas de separación deberán cumplirse igualmente en aquellos supuestos en que las entidades gestoras y depositarias hubieran delegado sus funciones en terceras entidades en los términos establecidos en este reglamento.
 
-4. La entidad gestora deberá manifestar en el boletín de adhesión y en la información trimestral a facilitar a partícipes y beneficiarios, cualquiera que sea la modalidad de plan de pensiones al que pertenezcan, el tipo exacto de relación que le vincula al depositario, tomandocomo referencia, en su caso, la enumeración de circunstancias contenidas en el artículo 42 del Código de Comercio.
+4. La entidad gestora deberá manifestar en la información trimestral a facilitar a partícipes y beneficiarios, cualquiera que sea la modalidad de plan de pensiones al que pertenezcan, el tipo exacto de relación que le vincula al depositario, tomando como referencia, en su caso, la enumeración de circunstancias contenidas en el artículo 42 del Código de Comercio.
+
+> Se modifica el apartado 4 por el art. 2.19 del Real Decreto 738/2020, de 4 de agosto. Ref. BOE-A-2020-9340
 
 > Se modifican los apartados 3 y 4 por el art. 1.64 del Real Decreto 681/2014, de 1 de agosto. Ref. BOE-A-2014-8367.
 

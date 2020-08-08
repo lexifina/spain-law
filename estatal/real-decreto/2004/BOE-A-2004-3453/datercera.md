@@ -4,7 +4,7 @@
 
 2. Los informes y dictámenes actuariales a los que hace referencia la legislación vigente de planes y fondos de pensiones deberán ser firmados por actuarios personas físicas con indicación, en su caso, de la empresa de servicios actuariales para la que el actuario desarrolle su actividad.
 
-3. A efectos de lo dispuesto en la letra b) del artículo 29 constituyen servicios actuariales para el desenvolvimiento ordinario del plan de pensiones, entre otros, la elaboración de la Base Técnica del Plan de Pensiones, la determinación de aportaciones, prestaciones o capitales a asegurar, el cálculo de provisiones matemáticas y margen de solvencia para certificar derechos consolidados de partícipes y derechos económicos de beneficiarios, la determinación del déficit o superávit y su incidencia en cuanto a aportaciones, prestaciones y derechos consolidados, y la valoración de los derechos por servicios pasados y, en su caso de las obligaciones ante jubilados y beneficiarios derivados de los planes de reequilibrio.
+3. A efectos de lo dispuesto en la letra b) del artículo 29 constituyen servicios actuariales para el desenvolvimiento ordinario del plan de pensiones, entre otros: la elaboración de la base técnica del plan de pensiones; la determinación de aportaciones, prestaciones o capitales a asegurar; el cálculo de provisiones matemáticas y margen de solvencia para certificar derechos consolidados de partícipes y derechos económicos de beneficiarios; la determinación del déficit o superávit y su incidencia en cuanto a aportaciones, prestaciones y derechos consolidados; la valoración de los derechos por servicios pasados y, en su caso de las obligaciones ante jubilados y beneficiarios derivados de los planes de reequilibrio; incluyendo, asimismo, el ejercicio de la función clave actuarial prevista en el apartado 1 del artículo 30 quater del texto refundido de la Ley de Regulación de Planes y Fondos de Pensiones.
 
 4. Las comisiones de control de los planes de pensiones podrán elegir libremente a cualquier actuario para la elaboración de las revisiones y dictámenes actuariales requeridos obligatoriamente por este reglamento que, según éste, deban ser realizados por profesionales independientes.
 
@@ -39,5 +39,7 @@ Con referencia a dicho requisito, en aquellos casos en los que la presupuestaci�
 La pérdida o deterioro de la documentación a que se refiere el párrafo precedente deberá ser comunicada por el actuario a la comisión de control del plan de pensiones correspondiente en el plazo de 15 días naturales desde que tuvo conocimiento de ella.
 
 9. Se suprime el Registro administrativo de actuarios de planes y fondos de pensiones, establecido en la Dirección General de Seguros y Fondos de Pensiones por el artículo 46 del Reglamento de planes y fondos de pensiones, aprobado por el Real Decreto 1307/1988, de 30 de septiembre.
+
+> Se modifica el apartado 3 por el art. 2.25 del Real Decreto 738/2020, de 4 de agosto. Ref. BOE-A-2020-9340
 
 > Se modifica por el art. 1.49 del Real Decreto 1684/2007, de 14 de diciembre. Ref. BOE-A-2007-21593.
