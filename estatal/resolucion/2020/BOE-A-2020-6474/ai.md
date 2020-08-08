@@ -4,7 +4,7 @@ Anakinra 100 mg inyectable 0,67 ml jeringa precargada.
 
 Azitromicina 500 mg inyectable perfusión.
 
-Azitromicina 1.000 mg solución/suspensión oral sobre.
+Azitromicina 1000 mg solución/suspensión oral sobre.
 
 Azitromicina 150 mg solución/suspensión oral sobre.
 
@@ -22,9 +22,9 @@ Azitromicina 500 mg inyectable perfusión.
 
 Azitromicina 500 mg solución/suspensión oral sobre.
 
-Azitromicina 1.000 mg solución/suspensión oral sobre.
+Azitromicina 1000 mg solución/suspensión oral sobre.
 
-Bromuro ipratropio 0,3 mg/ml producto uso nasal.
+Bemiparina sodio (3.500 UI) inyectable 0,2 ml jeringas precargadas.
 
 Bromuro ipratropio 20 microgramos/dosis inhalación pulmonar.
 
@@ -37,8 +37,6 @@ Bromuro ipratropio 500 microgramos inhalación pulmonar 2 ml.
 Cefditoreno 200 mg comprimido.
 
 Cefditoreno 400 mg comprimido.
-
-Ciclosporina 1 mg/ml colirio.
 
 Ciclosporina 25 mg cápsula.
 
@@ -64,9 +62,13 @@ Dexametasona 4 mg comprimidos.
 
 Dexametasona 8 mg comprimidos.
 
+Dexametasona 20 mg comprimidos.
+
+Dexametasona 40 mg comprimidos.
+
 Dexametasona 4mg inyectable 1 ml.
 
-Dexametasona 40mg inyectable 5 ml.
+Dexametasona 40 mg inyectable 5 ml.
 
 Dexmedetomidina 100 microgramos/ml inyectable perfusión 10 ml.
 
@@ -102,6 +104,8 @@ Metilprednisolona 500 mg inyectable.
 
 Metilprednisolona 40 mg inyectable.
 
+Metilprednisolona 20 mg inyectable.
+
 Midazolam 5 mg inyectable 1 ml.
 
 Midazolam 5 mg inyectable 5 ml.
@@ -117,6 +121,10 @@ Midazolam 50 mg inyectable 50 ml.
 Midazolam 100 mg inyectable 100 ml.
 
 Midazolam 100 mg inyectable 20 ml.
+
+Norepinefrina (noradrenalina) 1 mg/ml.
+
+Norepinefrina (noradrenalina) 2 mg/ml.
 
 Norepinefrina (noradrenalina) 5 mg/ml inyectable 50 ml.
 
@@ -136,6 +144,10 @@ Propofol 20 mg/ml inyectable 50 ml jeringa precargada.
 
 Propofol 20 mg/ml inyectable 50 ml.
 
+Remdesivir 100 mg polvo para solución para perfusión.
+
+Remdesivir 100 mg solución para perfusión 20 ml.
+
 Remifentanilo 1 mg inyectable.
 
 Remifentanilo 2 mg inyectable.
@@ -152,11 +164,13 @@ Salbutamol 100 microgramos/dosis inhalación pulmonar.
 
 Salbutamol 100 microgramos/dosis inhalación pulmonar (polvo).
 
-Sarilumab 150 mg inyectable 1,14 ml pluma precargada
+Sarilumab 150 mg inyectable 1,14 ml pluma precargada.
 
-Sarilumab 200 mg inyectable 1,14 ml jeringa precargada
+Sarilumab 200 mg inyectable 1,14 ml jeringa precargada.
 
-Sarilumab 200 mg inyectable 1,14 ml pluma precargada
+Sarilumab 200 mg inyectable 1,14 ml pluma precargada.
+
+Siltuximab 100 mg polvo para solución para perfusión.
 
 Tocilizumab 162 mg inyectable 0,9 ml jeringa precargada.
 
@@ -165,3 +179,5 @@ Tocilizumab 162 mg inyectable 0,9 ml pluma precargada.
 Tocilizumab 20 mg/ml inyectable perfusión 10 ml.
 
 Tocilizumab 20 mg/ml inyectable perfusión 4 ml.
+
+> Se modifica por la Resolución de 31 de julio de 2020. Ref. BOE-A-2020-9430
