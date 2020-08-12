@@ -1,0 +1,13 @@
+## Segundo. Concertación y materialización de las operaciones de préstamo.
+
+El préstamo se concierta mediante la puesta a disposición de la Administración General del Estado de los recursos financieros provenientes de los remanentes de tesorería contemplados en el artículo 3 del Real Decreto-Ley 27/2020, de 4 de agosto, de medidas financieras, de carácter extraordinario y urgente, aplicables a las Entidades Locales.
+
+Dicha puesta a disposición, que será en todo caso libre, deberá ser acordada por el Presidente de la corporación local respectiva, cumplimentados los trámites oportunos, mediante la suscripción de un compromiso en firme, vinculante e irrenunciable, de dicha puesta a disposición, conforme al procedimiento establecido en el citado artículo 3 del Real Decreto-Ley 27/2020, de 4 de agosto, de medidas financieras, de carácter extraordinario y urgente, aplicables a las Entidades Locales.
+
+La remisión de dicho compromiso por parte de la entidad local implicará la aceptación de las condiciones financieras del préstamo contempladas en la presente Resolución y en el anexo a la misma y el compromiso de poner a disposición de la Administración General del Estado los recursos señalados. En dichos compromisos, cada Entidad Local deberá especificar por cuál de las dos opciones de préstamo contempladas en el anexo a esta Resolución optan.
+
+La Dirección General del Tesoro y Política Financiera requerirá el desembolso de dichos recursos por parte de las Entidades Locales, en un solo acto mediante publicación en el «Boletín Oficial del Estado» de una Resolución de la Dirección General del Tesoro y Política Financiera, durante el período comprendido entre el 16 de septiembre de 2020 y el 31 de diciembre de 2021.
+
+Las operaciones de préstamo no requerirán formalización y el perfeccionamiento del contrato se entenderá producido con la publicación de la Resolución de la Dirección General del Tesoro y Política Financiera por la que se requiere el desembolso de los importes comprometidos. En dicha Resolución se indicará al menos la fecha de desembolso, la cuenta bancaria en la que hayan de ingresar las Entidades Locales los fondos y el tipo de interés devengado por el préstamo, deducidos ya los gastos y comisiones asociados a la operación que no podrán superar los 2 puntos básicos anuales calculados sobre el volumen vivo del préstamo en cada fecha de devengo.
+
+Para que surta efecto sólo será necesaria su publicación en el «Boletín Oficial del Estado», sin que sea necesaria su notificación individual a cada una de las entidades participantes. Esta Resolución será publicada con una antelación de al menos diez días hábiles anteriores a la fecha de desembolso que se fije.
