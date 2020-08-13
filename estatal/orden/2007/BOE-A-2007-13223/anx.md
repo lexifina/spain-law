@@ -1,3 +1,5 @@
 ## ANEXO X
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/163/13223_006.png)
+(Suprimido)
+
+> Se suprime por el art. 1.8 de la Orden HAC/785/2020, de 21 de julio. Ref. BOE-A-2020-9552#ap

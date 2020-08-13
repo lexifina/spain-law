@@ -4,7 +4,7 @@
 
 1. Características de la conexión con el DIT para intercambio telemático de ficheros
 
-1. Línea de comunicación
+1. Línea de comunicación: TCP-IP.
 
 Conexión X-25 IBERPAC
 
@@ -139,3 +139,5 @@ Código de registro distinto de 88
 Número de registros erróneo
 
 Rechazo de la transmisión.–Cualquier error detectado en el proceso de validación, ocasionará el rechazo de toda la transmisión.
+
+> Se modifica el apartado 1.1 por el art. 1.7 de la Orden HAC/785/2020, de 21 de julio. Ref. BOE-A-2020-9552#ap
