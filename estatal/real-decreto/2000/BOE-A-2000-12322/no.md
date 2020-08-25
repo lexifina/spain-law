@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 225, de 19 de septiembre de 2000. Ref. BOE-A-2000-16900.
+Norma derogada, con efectos de 25 de agosto de 2020, por la disposición derogatoria única del Real Decreto 725/2020, de 4 de agosto. Ref. BOE-A-2020-9133#dd
