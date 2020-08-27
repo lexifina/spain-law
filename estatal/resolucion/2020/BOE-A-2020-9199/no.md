@@ -1,0 +1,1 @@
+Se dejan sin efecto las medidas adoptadas para el caso de rebrotes de COVID-19 en el Registro de Totana y la vuelta a su régimen ordinario, por Resolución de 27 de agosto de 2020, de la Dirección de Seguridad Jurídica y Fe pública. Ref. BOE-A-2020-10521
