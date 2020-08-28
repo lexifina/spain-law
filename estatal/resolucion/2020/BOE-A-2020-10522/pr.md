@@ -1,0 +1,5 @@
+El aumento de casos de Covid 19 en las últimas semanas en Canarias ha repercutido en el funcionamiento normal del Registro de Telde, que cuenta con varios miembros de su plantilla afectados por la situación generada por la pandemia.
+
+Vista la Resolución Circular de la Dirección General de los Registros y del Notariado de 13 de abril de 2015, relativa al traslado de los locales de las oficinas de los Registros de la Propiedad, Mercantiles y de Bienes Muebles, que recoge el modo de proceder en los casos de fuerza mayor en los que se podrán interrumpir o prorrogar los plazos.
+
+En virtud de las competencias atribuidas por el Real Decreto 453/2020, de 10 de marzo, por el que se desarrolla la estructura orgánica básica del Ministerio de Justicia, y se modifica el reglamento del Servicio Jurídico del Estado, aprobado por el Real Decreto 997/2003, de 25 de julio, la Dirección General de Seguridad Jurídica y Fe Pública acuerda aprobar el restablecimiento de las siguientes medidas respecto del Registro de Telde, de acuerdo con su solicitud:
