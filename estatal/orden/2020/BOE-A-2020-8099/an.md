@@ -10,20 +10,20 @@ Terceros países cuyos residentes no se ven afectados por la restricción tempor
 
 4. Japón.
 
-5. Marruecos.
+5. Nueva Zelanda.
 
-6. Nueva Zelanda.
+6. Ruanda.
 
-7. Ruanda.
+7. Corea del Sur.
 
-8. Corea del Sur.
+8. Tailandia.
 
-9. Tailandia.
+9. Túnez.
 
-10. Túnez.
+10. Uruguay.
 
-11. Uruguay.
+11. China.
 
-12. China.
+> Se modifica por el art. único.2 de la Orden INT/805/2020, de 28 de agosto. Ref. BOE-A-2020-10046
 
 > Se modifica por el art. único.3 de la Orden INT/734/2020, de 30 de julio. Ref. BOE-A-2020-8847
