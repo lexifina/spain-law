@@ -1,0 +1,5 @@
+## Disposición transitoria única. Régimen transitorio.
+
+1. El contenido de los artículos 57 a 63, 84 a 89, 560 a 566 y 574.1 todos ellos inclusive, de este texto refundido, que corresponda a las modificaciones introducidas en los artículos 27, 34 y 198 de la Ley 22/2003, de 9 de julio, Concursal, por la Ley 17/2014, de 30 de septiembre, por la que se adoptan medidas urgentes en materia de refinanciación y reestructuración de deuda empresarial, entrarán en vigor cuando se apruebe el reglamento a que se refiere la disposición transitoria segunda de dicha ley. Entre tanto permanecerán en vigor los artículos 27, 34 y 198 de la Ley Concursal en la redacción anterior a la entrada en vigor de dicha Ley 17/2014, de 30 de septiembre.
+
+2. El contenido de los artículos 91 a 93, ambos inclusive, de este texto refundido, correspondientes a los artículos 34 bis a 34 quáter de la Ley 22/2003, de 9 de julio, introducidos por Ley 25/2015, de 28 de julio, de mecanismo de segunda oportunidad, reducción de la carga financiera y otras medidas de orden social, entrarán en vigor cuando se apruebe el desarrollo reglamentario de la cuenta de garantía arancelaria.

@@ -1,3 +1,5 @@
 ## CAPÍTULO III
 
 ## Medidas en materia concursal
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. Ref. BOE-A-2020-4859#dd

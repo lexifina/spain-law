@@ -1,10 +1,18 @@
 ## Disposición adicional segunda ter. Régimen especial aplicable a las situaciones de insolvencia de las empresas concesionarias de obras y servicios públicos, o contratistas de las Administraciones Públicas.
 
-En los concursos de empresas concesionarias de obras y servicios públicos o contratistas de las Administraciones Públicas, se aplicarán las especialidades que se hallen establecidas en la legislación de contratos del sector público y en la legislación específica reguladora de cada tipo de contrato administrativo.
+(Derogada)
 
-Asimismo, en estos concursos se acordará la acumulación de los procesos concursales ya iniciados cuando se formulen propuestas de convenio que afecten a todos ellos, pudiendo ser presentadas las propuestas de convenio por las Administraciones Públicas, incluidos los organismos, entidades y sociedades mercantiles vinculadas o dependientes de ellas. Podrá condicionarse la aprobación de la propuesta de convenio presentada en cada uno de los procedimientos concursales a la aprobación de las propuestas de convenio presentadas en los restantes procedimientos concursales acumulados según lo establecido en esta disposición.
+> Téngase en cuenta que esta disposición se deroga con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. Ref. BOE-A-2020-4859#dd
 
-La competencia para la tramitación de los concursos acumulados a los que se refiere esta disposición se regulará conforme al artículo 25 bis.3 de la presente Ley.
+> Redacción anterior:
+
+> "En los concursos de empresas concesionarias de obras y servicios públicos o contratistas de las Administraciones Públicas, se aplicarán las especialidades que se hallen establecidas en la legislación de contratos del sector público y en la legislación específica reguladora de cada tipo de contrato administrativo.
+
+> Asimismo, en estos concursos se acordará la acumulación de los procesos concursales ya iniciados cuando se formulen propuestas de convenio que afecten a todos ellos, pudiendo ser presentadas las propuestas de convenio por las Administraciones Públicas, incluidos los organismos, entidades y sociedades mercantiles vinculadas o dependientes de ellas. Podrá condicionarse la aprobación de la propuesta de convenio presentada en cada uno de los procedimientos concursales a la aprobación de las propuestas de convenio presentadas en los restantes procedimientos concursales acumulados según lo establecido en esta disposición.
+
+> La competencia para la tramitación de los concursos acumulados a los que se refiere esta disposición se regulará conforme al artículo 25 bis.3 de la presente Ley."
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. Ref. BOE-A-2020-4859#dd
 
 > Se añade por el art. único.Uno.21 de la Ley 9/2015, de 25 de mayo. Ref. BOE-A-2015-5744#aunico.
 

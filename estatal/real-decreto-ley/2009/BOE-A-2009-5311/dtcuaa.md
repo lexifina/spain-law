@@ -1,5 +1,13 @@
 ## Disposición transitoria cuarta. Reintegración de la masa y acuerdos de refinanciación.
 
-1. Los apartados dos y cuatro del artículo 8 de este Real Decreto-ley serán de aplicación a los procedimientos concursales que estén en tramitación a su entrada en vigor, salvo que a esa fecha se hubiera interpuesto demanda de rescisión contra las garantías constituidas que se resolverá conforme a la regulación sustantiva anterior.
+(Derogada)
 
-2. El apartado Tres del artículo 8 del presente Real Decreto-ley, será aplicable a los acuerdos de refinanciación celebrados antes de su entrada en vigor, así como a los negocios, actos y pagos realizados y a las garantías constituidas en ejecución de tales acuerdos, siempre que, sin haberse solicitado el concurso del deudor, se cumplimenten los requisitos establecidos en el apartado segundo de la Disposición adicional cuarta de la Ley 22/2003, de 9 de julio, Concursal. En otro caso, a tales acuerdos así como a los negocios, actos y pagos realizados y a las garantías constituidas en ejecución de tales acuerdos les resultará de aplicación la regulación anterior al presente Real Decreto-ley, en especial lo dispuesto en el artículo 10 de la Ley 2/1981, de 25 de marzo, de Regulación del Mercado Hipotecario.
+> Téngase en cuenta que esta disposición se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. Ref. BOE-A-2020-4859#dd
+
+> Redacción anterior:
+
+> "1. Los apartados dos y cuatro del artículo 8 de este Real Decreto-ley serán de aplicación a los procedimientos concursales que estén en tramitación a su entrada en vigor, salvo que a esa fecha se hubiera interpuesto demanda de rescisión contra las garantías constituidas que se resolverá conforme a la regulación sustantiva anterior.
+
+> 2. El apartado Tres del artículo 8 del presente Real Decreto-ley, será aplicable a los acuerdos de refinanciación celebrados antes de su entrada en vigor, así como a los negocios, actos y pagos realizados y a las garantías constituidas en ejecución de tales acuerdos, siempre que, sin haberse solicitado el concurso del deudor, se cumplimenten los requisitos establecidos en el apartado segundo de la Disposición adicional cuarta de la Ley 22/2003, de 9 de julio, Concursal. En otro caso, a tales acuerdos así como a los negocios, actos y pagos realizados y a las garantías constituidas en ejecución de tales acuerdos les resultará de aplicación la regulación anterior al presente Real Decreto-ley, en especial lo dispuesto en el artículo 10 de la Ley 2/1981, de 25 de marzo, de Regulación del Mercado Hipotecario."
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. Ref. BOE-A-2020-4859#dd

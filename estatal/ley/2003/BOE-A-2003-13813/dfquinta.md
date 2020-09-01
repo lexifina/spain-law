@@ -1,7 +1,15 @@
 ## Disposición final quinta. Derecho procesal supletorio.
 
-En lo no previsto en esta Ley será de aplicación lo dispuesto en la Ley de Enjuiciamiento Civil, y específicamente en lo que se refiere al cómputo de plazos determinados en la misma, así como en relación con la documentación de las actuaciones mediante sistemas de grabación y reproducción de la imagen y el sonido.
+(Derogada)
 
-En el ámbito de los procesos concursales, resultarán de aplicación los principios de la Ley de Enjuiciamiento Civil en cuanto a la ordenación formal y material del proceso.
+> Téngase en cuenta que esta disposición se deroga con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. Ref. BOE-A-2020-4859#dd
+
+> Redacción anterior:
+
+> "En lo no previsto en esta Ley será de aplicación lo dispuesto en la Ley de Enjuiciamiento Civil, y específicamente en lo que se refiere al cómputo de plazos determinados en la misma, así como en relación con la documentación de las actuaciones mediante sistemas de grabación y reproducción de la imagen y el sonido.
+
+> En el ámbito de los procesos concursales, resultarán de aplicación los principios de la Ley de Enjuiciamiento Civil en cuanto a la ordenación formal y material del proceso."
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. Ref. BOE-A-2020-4859#dd
 
 > Se modifica por el art. 17.49 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.
