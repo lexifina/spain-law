@@ -68,7 +68,7 @@ Otros.
 
 26. Plomo en las aplicaciones siguientes, que se emplean durante un período prolongado de tiempo a una temperatura inferior a –20 ºC en condiciones normales de funcionamiento y almacenamiento:
 
-a) Soldaduras utilizadas en circuitos impresos;
+a) soldaduras utilizadas en circuitos impresos;
 
 b) revestimientos de terminaciones de componentes eléctricos y electrónicos y de circuitos impresos;
 
@@ -82,15 +82,15 @@ Expira el 30 de junio de 2021.
 
 27. Plomo en:
 
-a) Soldaduras,
+a) soldaduras,
 
 b) revestimientos de terminaciones de componentes eléctricos y electrónicos y de circuitos impresos,
 
 c) conexiones de cables eléctricos, pantallas y conectores cerrados utilizados en:
 
-1. Campos magnéticos situados en una esfera de 1 m de radio alrededor del isocentro del imán de los equipos médicos de imagen por resonancia magnética, incluidos los monitores de paciente diseñados para su uso dentro de esa esfera, o
+1) campos magnéticos situados en una esfera de 1 m de radio alrededor del isocentro del imán de los equipos médicos de imagen por resonancia magnética, incluidos los monitores de paciente diseñados para su uso dentro de esa esfera, o
 
-2. campos magnéticos situados como máximo a 1 m de distancia de las superficies externas de los imanes ciclotrónicos y de los imanes para el transporte de los haces y el control de la dirección de estos, utilizados en terapia de partículas.
+2) campos magnéticos situados como máximo a 1 m de distancia de las superficies externas de los imanes ciclotrónicos y de los imanes para el transporte de los haces y el control de la dirección de estos, utilizados en terapia de partículas.
 
 Expira el 30 de junio de 2020.
 
@@ -122,29 +122,29 @@ c) 21 de julio de 2024 para los microscópicos electrónicos y sus accesorios.
 
 37. Plomo en electrodos de platino platinizados utilizados para mediciones de la conductividad, siempre que se cumpla al menos una de las condiciones siguientes:
 
-a) mediciones de amplia gama con una gama de conductividad que cubra más de 1 orden de magnitud (por ejemplo, entre 0,1 mS/m y 5 mS/m) en aplicaciones de laboratorio de concentraciones desconocidas,
+a) mediciones de amplia gama con una gama de conductividad que cubra más de 1 orden de magnitud (por ejemplo, entre 0,1 mS/m y 5 mS/m) en aplicaciones de laboratorio de concentraciones desconocidas;
 
 b) mediciones de soluciones que requieran una precisión de ± 1 % de la gama de muestra y una gran resistencia a la corrosión del electrodo, para cualquiera de lo siguiente:
 
-1.º Soluciones con una acidez < pH 1,
+1.º soluciones con una acidez < pH 1,
 
 2.º soluciones con una alcalinidad > pH 13,
 
-3.º soluciones corrosivas que contengan gas halógeno,
+3.º soluciones corrosivas que contengan gas halógeno;
 
 c) mediciones de conductividad por encima de 100 mS/m que deban llevarse a cabo con instrumentos portátiles.
 
-Expira el 31 de diciembre de 2018.
+Expira el 31 de diciembre de 2025.
 
 38. Plomo en soldaduras en una interfaz de elementos dieléctricos apilados de área extensa con más de 500 conexiones por interfaz utilizados en detectores de rayos X de sistemas de tomografía computerizada y de radiografía. Expira el 31 de diciembre de 2019. Tras esa fecha, podrá utilizarse en piezas de repuesto para sistemas de tomografía computerizada y de radiografía comercializados antes del 1 de enero de 2020.
 
 39. Plomo en placas de microcanales (MCP) utilizadas en equipos cuando esté presente al menos una de las propiedades siguientes:
 
-a) Un tamaño compacto del detector de electrones o iones, si el espacio del detector se limita a un máximo de 3 mm/MCP (espesor del detector + espacio para la instalación de la MCP), un máximo de 6 mm en total, y es científica y técnicamente imposible un diseño alternativo que ofrezca más espacio para el detector,
+a) un tamaño compacto del detector de electrones o iones, si el espacio del detector se limita a un máximo de 3 mm/MCP (espesor del detector + espacio para la instalación de la MCP), un máximo de 6 mm en total, y es científica y técnicamente imposible un diseño alternativo que ofrezca más espacio para el detector,
 
 b) una resolución espacial bidimensional para detectar electrones o iones, con aplicación de al menos una de las condiciones siguientes:
 
-1.º Un tiempo de respuesta inferior a 25 ns,
+1.º un tiempo de respuesta inferior a 25 ns,
 
 2.º un área de detección de muestras superior a 149 mm2,
 
@@ -166,13 +166,21 @@ La exención expira en las fechas siguientes:
 
 40. Plomo en cerámica dieléctrica de condensadores con una tensión nominal inferior a 125 V CA o 250 V CC para instrumentos industriales de vigilancia y control. Expira el 31 de diciembre de 2020. Podrá utilizarse después de esa fecha en piezas de repuesto para instrumentos industriales de vigilancia y control introducidos en el mercado antes del 1 de enero de 2021.
 
-41. Plomo como estabilizador térmico en el cloruro de polivinilo (PVC) empleado como material de base en los sensores electroquímicos amperimétricos, potenciométricos y conductimétricos que se utilizan en los productos sanitarios de diagnóstico in vitro para el análisis de sangre y otros gases y fluidos corporales. Expira el 31 de diciembre de 2018.
+41. Plomo como estabilizador térmico en el cloruro de polivinilo (PVC) empleado como material de base en los sensores electroquímicos amperimétricos, potenciométricos y conductimétricos que se utilizan en los productos sanitarios de diagnóstico in vitro para el análisis de sangre y otros gases y fluidos corporales.
+
+Expira el 31 de marzo de 2022.
 
 42. Mercurio en conectores eléctricos rotatorios utilizados en sistemas de obtención de imágenes de ultrasonido intravascular capaces de modos de funcionamiento de alta frecuencia (> 50 MHz). Expira el 30 de junio de 2019.
 
 43. Ánodos de cadmio utilizados en células Hersch para sensores de oxígeno empleados en instrumentos industriales de vigilancia y control, cuando se requiera una sensibilidad por debajo de 10 ppm.
 
 Expira el 15 de julio de 2023.
+
+44. Cadmio en tubos de cámaras de vídeo resistentes a la radiación diseñados para cámaras con una resolución central superior a 450 líneas, utilizadas en entornos con una exposición por radiación ionizante superior a 100 Gy/hora y una dosis total superior a 100 kGy. Se aplica a la categoría 9.
+
+Expira el 31 de marzo de 2027.
+
+> Se modifica por el art. único.2 de la Orden PCM/810/2020, de 31 de agosto. Ref. BOE-A-2020-10130
 
 > Se modifica por el art. único.2 de la Orden PRA/329/2017, de 7 de abril. Ref. BOE-A-2017-4119
 
