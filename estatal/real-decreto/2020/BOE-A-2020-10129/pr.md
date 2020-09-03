@@ -1,0 +1,17 @@
+El Real Decreto 499/2020, de 28 de abril, por el que se desarrolla la estructura orgánica básica del Ministerio de Trabajo y Economía Social, y se modifica el Real Decreto 1052/2015, de 20 de noviembre, por el que se establece la estructura de las Consejerías de Empleo y Seguridad Social en el exterior y se regula su organización, funciones y provisión de puestos de trabajo, ha desarrollado la estructura orgánica básica del Ministerio de Trabajo y Economía Social, de conformidad con la nueva organización de la Administración General del Estado determinada en el Real Decreto 139/2020, de 28 de enero, por el que se establece la estructura orgánica básica de los Departamentos ministeriales. En este sentido, concurre ahora la necesidad de acometer las modificaciones precisas en las normas estatutarias de los organismos autónomos adscritos al Ministerio de Trabajo y Economía Social.
+
+Así, en primer lugar, se incorpora en la denominación de los organismos autónomos adscritos al Ministerio de Trabajo y Economía Social en los que es preciso, la expresión «O.A.» (abreviatura de «organismo autónomo»), con el fin de dar cumplimiento a la exigencia que impone en este sentido el artículo 98.3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+En segundo lugar, se prevé la modificación de los Estatutos del organismo autónomo Organismo Estatal Inspección de Trabajo y Seguridad Social, con el fin de adecuar la representación de la Administración General del Estado en el Consejo Rector del citado organismo autónomo a la estructura ministerial establecida en el Real Decreto 2/2020, de 12 de enero, por el que se reestructuran los Departamentos ministeriales.
+
+Finalmente, la disposición adicional primera establece el plazo de un mes para la creación del órgano de coordinación para el funcionamiento del organismo autónomo Organismo Estatal Inspección de Trabajo y Seguridad Social, a fin de dar cumplimiento a lo dispuesto en la disposición adicional octava del Real Decreto 139/2020, de 28 de enero, por el que se establece la estructura orgánica básica de los Departamentos ministeriales.
+
+Este real decreto se ajusta a los principios de buena regulación recogidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Así, responde a la necesaria conciliación legal de las denominaciones de los organismos públicos del departamento, así como a la necesidad de adaptar la composición del Consejo Rector del organismo autónomo Organismo Estatal Inspección de Trabajo y Seguridad Social a la nueva organización de los departamentos ministeriales. En consecuencia, es eficaz, proporcional, transparente y eficiente por cuanto se trata de una norma puramente organizativa, coherente con el resto del ordenamiento jurídico nacional, que se limita a introducir las modificaciones regulatorias imprescindibles y sin imponer cargas administrativas.
+
+En la elaboración del proyecto han sido consultados los organismos autónomos del Departamento.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.18.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva para regular las bases del régimen jurídico de las Administraciones públicas.
+
+En su virtud, a propuesta de la Ministra de Política Territorial y Función Pública, de la Ministra de Hacienda y de la Ministra de Trabajo y Economía Social, y previa deliberación del Consejo de Ministros en su reunión del día 1 de septiembre de 2020,
+
+DISPONGO:
