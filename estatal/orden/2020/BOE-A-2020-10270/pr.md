@@ -1,0 +1,15 @@
+La Agenda 2030 supone una nueva visión del desarrollo que integra lo económico, lo social y lo ambiental a través de 17 objetivos y 169 metas. España ha adquirido un compromiso político para el cumplimiento de la Agenda 2030, materializado en la aprobación por el Consejo de Ministros el 22 de junio de 2018 del «Plan para la implementación de la Agenda 2030» en la que se recoge una nueva visión del desarrollo sostenible con voluntad de transformación.
+
+La Agenda 2030 es, ante todo, un nuevo contrato social global y local que obliga a todos los actores sociales y a todas las Administraciones públicas a trabajar de forma coordinada. Ello requiere partir de una visión integradora e integral que aglutine las políticas públicas internas y la coherencia de las políticas con el desarrollo sostenible en un esfuerzo colectivo conjunto.
+
+La ciudadanía organizada, a través de sus diferentes formas, ha expresado su voluntad de participar activamente en la implementación de la Agenda 2030 y por ello es necesario generar instrumentos que permitan cooperar y avanzar en la consecución de los Objetivos de Desarrollo Sostenible. Como queda reflejado en el Plan de Acción para la implementación de la Agenda 2030 y en otros documentos sobre la gobernanza de la misma, el Consejo de Desarrollo Sostenible, creado por la Orden PCI/169/2019, de 22 de febrero, por la que se crea el Consejo de Desarrollo Sostenible, se concibe como un espacio ciudadano de carácter consultivo y de seguimiento de la implementación de la Agenda 2030 desde un enfoque participativo, incluyente y transparente. El Consejo de Desarrollo Sostenible forma parte y complementa la estructura de gobernanza para la implementación de la Agenda 2030 en España. Se trata de un órgano colegiado que articula la participación de la sociedad civil desde la pluralidad de las organizaciones sociales, económicas, medioambientales y culturales de nuestro país.
+
+El Plan de Acción para la implementación de la Agenda 2030 recoge, además, la rendición de cuentas sobre las actuaciones realizadas para el cumplimiento de la Agenda 2030 en España, un compromiso de conjunto, una demostración de que entendemos que es necesario trabajar de manera coordinada entre todas las administraciones y los actores sociales, económicos y medioambientales.
+
+La gobernanza de la Agenda 2030 en España ha puesto énfasis en la necesidad de reforzar los mecanismos institucionales de cooperación. En atención a lo anterior, resulta necesario que los marcos de cooperación se actualicen de acuerdo a las nuevas estructuras ministeriales y al reparto competencial que se ha originado.
+
+Estos objetivos, ligados a la necesidad de concretar determinados aspectos del funcionamiento del Consejo de Desarrollo Sostenible aconsejan, para mayor claridad y seguridad jurídica, aprobar una nueva orden de carácter integrador que sustituya a las previsiones contenidas en la Orden PCI/169/2019, de 22 de febrero.
+
+Esta orden se dicta de conformidad con lo dispuesto en el artículo 22.3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+En su virtud, dispongo:
