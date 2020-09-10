@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Adaptación de los proyectos que fueron aprobados por resolución de 2 de agosto de 2019 para el ejercicio 2020.
+
+Las entidades beneficiarias a las que se les haya concedido una subvención mediante Resolución de 2 de agosto de 2019 del titular de la Dirección General de Desarrollo Rural, Innovación y Política Forestal para el ejercicio 2020, dictada al amparo de Orden de convocatoria aprobada el 1 de abril de 2019, podrán, si lo estimaran necesario, adaptar el proyecto aprobado mediante dicha resolución al contenido y requisitos establecidos en el presente real decreto. A estos efectos, las entidades dispondrán de un plazo de quince días a partir del día siguiente al de la publicación del Real Decreto 810/2020, de 8 de septiembre, para adaptar sus proyectos. El documento se dirigirá al titular del Departamento y se presentará en la forma prevista en el artículo 9 del presente real decreto.
+
+Los proyectos adaptados no podrán conllevar en ningún caso la percepción de una cuantía mayor a la inicialmente concedida, ni contradecir la normativa básica o la normativa de la Unión Europea que pueda resultar de aplicación. Dichos proyectos se aprobarán mediante resolución del titular del Departamento u órgano en quien delegue, previa reunión de la comisión de valoración.
+
+> Se añade por el art. 1.6 del Real Decreto 810/2020, de 8 de septiembre. Ref. BOE-A-2020-10367#ap

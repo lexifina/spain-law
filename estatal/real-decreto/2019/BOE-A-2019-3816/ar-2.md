@@ -2,7 +2,9 @@
 
 A efectos del presente real decreto se entenderá por:
 
-Asistente: Persona que acude a la actividad.
+Asistente: Persona que acude a la actividad que se desarrolle de forma presencial o que participa en las actividades que se impartan mediante “aula virtual”.
+
+Aula virtual: Entorno de aprendizaje donde ponente y asistentes interactúan, de forma concurrente y en tiempo real, a través de un sistema de comunicación telemático de carácter síncrono que permita llevar a cabo un proceso de intercambio de conocimientos, a fin de posibilitar el aprendizaje de las personas que participan en el aula.
 
 Duración de la jornada: Las horas de contenido teórico y/o práctico.
 
@@ -25,3 +27,5 @@ Presupuesto financiable: El que se indica en la resolución de concesión o, en 
 Programa: Distribución de las temáticas y contenidos a lo largo de la jornada, con la duración de los mismos.
 
 Proyecto: Conjunto de jornadas que comprende la subvención.
+
+> Se modifica por el art. 1.2 del Real Decreto 810/2020, de 8 de septiembre. Ref. BOE-A-2020-10367#ap

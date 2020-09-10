@@ -24,9 +24,9 @@ b) Programa de formación, de acuerdo con lo determinado en los artículos 4 y 5
 
 1.º Descripción y justificación del programa formativo, incluyendo las necesidades detectadas sobre las que se va a intervenir a través de la formación, los objetivos básicos y las actividades que se van a desarrollar incluyendo las principales metas que se pretendan alcanzar.
 
-2.º Destinatarios del programa formativo, perfil profesional y principales características de los mismos.
+2.º Destinatarios del programa formativo y su perfil profesional.
 
-3.º Relación de actividades, detallando para cada una: objetivo en el que se encuadran, duración, número de alumnos, provincia, trimestre del año en que se llevarán a cabo y coste de la actividad.
+3.º Relación de actividades, detallando para cada una: bloque temático en el que se encuadran, modalidad, duración, número de alumnos, provincia, trimestre del año en que se llevarán a cabo y coste de la actividad.
 
 4.º Descripción detallada de la capacidad técnica de la entidad con la que se contará para la ejecución de las actividades programadas, indicando en especial la implantación en el territorio y los recursos humanos propios.
 
@@ -53,3 +53,5 @@ La presentación de la solicitud de subvención por parte del beneficiario conll
 En el caso de que el beneficiario de la ayuda expresamente se oponga a que se recaben los datos a la Seguridad Social, deberá presentar él mismo la documentación a que se hace referencia y acreditar el cumplimiento del resto de obligaciones con la Seguridad Social según lo dispuesto en el artículo 22 del Reglamento de la Ley 38/2003, de 17 de noviembre.
 
 Asimismo, el órgano gestor comprobará las facultades o poderes de la persona representante de la entidad, salvo oposición expresa del solicitante, en cuyo caso deberá aportar junto con la solicitud la certificación acreditativa de dichas facultades o poderes.
+
+> Se modifican los puntos 2º y 3º del apartado 4.b) por el art. 3.3 del Real Decreto 810/2020, de 8 de septiembre. Ref. BOE-A-2020-10367#at

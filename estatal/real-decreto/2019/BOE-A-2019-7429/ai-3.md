@@ -9,10 +9,12 @@
 | 3 | N.º de alumnos destinatarios del programa de actividades presentado. Máximo 20 puntos. | N.º alumnos más de 1.000: 20 puntos. N.º de alumnos entre 1.000 y 500: 15 puntos. N.º de alumnos menos de 500: 10 puntos. |
 | 4 | Capacidad docente del profesorado según el artículo 6.4.b (5.º). Máximo 20 puntos. | Más del 75% de los docentes cuentan con amplia experiencia en la materia (más de 3 años) o poseen titulación relacionada: 20 puntos. Entre el 75% y el 50% de los docentes cuentan con amplia experiencia en la materia (más de 3 años) o poseen titulación relacionada: 15 puntos. Menos del 50% de los docentes cuentan con amplia experiencia en la materia (más de 3 años) o poseen titulación relacionada: 10 puntos. |
 | 5 | Bloques temáticos en el programa presentado, de los previstos en el artículo 5. 10 puntos. | Para aquellas entidades que su programa recoja más de un bloque temático. |
-| 6 | Actividades en régimen mixto. 10 puntos. | Para aquellas entidades que programen más de un 10% del total de actividades con carácter mixto. |
+| 6 | Actividades en régimen mixto o teleformación. 10 puntos. | Para aquellas entidades que programen más de un 10 % del total de actividades, con carácter mixto o teleformación. |
 
 Puntuación máxima: 100 puntos.
 
 Puntuación mínima para ser elegible: 50 puntos.
 
 En caso de que se publique la convocatoria en el segundo semestre la puntuación mínima para ser elegible será de: 30 puntos.
+
+> Se modifica por el art. 3.17 del Real Decreto 810/2020, de 8 de septiembre. Ref. BOE-A-2020-10367#at

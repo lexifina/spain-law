@@ -6,7 +6,7 @@
 
 3. Las actividades subvencionables deberán atender a los siguientes requisitos:
 
-a) Sólo podrán subvencionarse los gastos de realización de actividades que tengan carácter presencial y cuya duración mínima sea de 4 horas, teóricas o prácticas, por día, excepto las actividades que se impartan en centros educativos oficiales dirigidas a estudiantes que pueden tener una duración mínima de 2 horas.
+a) Sólo podrán subvencionarse los gastos de realización de actividades que tengan carácter presencial, telemático mediante “aula virtual” o mixto y cuya duración mínima sea de 4 horas lectivas, teóricas o prácticas, por día, en el caso de actividades presenciales o mixtas, y de 2 horas lectivas de duración mínima en las actividades telemáticas mediante “aula virtual” o en las que se impartan en centros educativos oficiales dirigidas a estudiantes.
 
 b) Al menos el 70 % de las actividades programadas deberán realizarse de lunes a viernes no festivo. En caso de que la jornada sea de 2 días, al menos uno de ellos será de lunes a viernes no festivo.
 
@@ -22,4 +22,16 @@ g) El gasto máximo por asistente y hora lectiva media de las jornadas del proye
 
 h) Se deberá cumplir el programa que haya sido aprobado por la resolución de concesión para cada actividad, con especial atención tanto a la duración como al contenido.
 
-i) Las actividades serán totalmente gratuitas para los asistentes y podrán ser subvencionables los gastos de desplazamiento y manutención derivados de la asistencia de las personas que asistan a las actividades previstas en estas bases reguladoras, teniendo en cuenta los límites establecidos en el Real Decreto 462/2002, de 24 de mayo, correspondientes como máximo al grupo 2 y en el artículo 7 y anexo II de estas bases reguladoras.
+i) Las actividades serán totalmente gratuitas para los asistentes y podrán ser subvencionables los gastos de desplazamiento y manutención derivados de la asistencia de las personas que asistan a las actividades de carácter presencial o mixtas (en la parte que sea presencial) previstas en estas bases reguladoras, teniendo en cuenta los límites establecidos en el Real Decreto 462/2002, de 24 de mayo, correspondientes como máximo al grupo 2 y en el artículo 7 y anexo II de estas bases reguladoras.
+
+4. Adicionalmente, la organización de las actividades mediante “aula virtual” deberá cumplir los siguientes requisitos:
+
+a) Garantizar en todo momento que exista conectividad sincronizada entre ponentes y asistentes, así como la bidireccionalidad en las comunicaciones.
+
+b) Contar con un registro de conexiones generado por la aplicación informática que sirva de soporte al aula virtual, en el que se identifique, para cada actividad realizada a través de este medio, los asistentes a la misma, así como sus fechas y tiempos de conexión. Cuando ello no sea posible, la participación se podrá constatar mediante declaración responsable del asistente o, de forma excepcional, mediante cualquier medio que acredite el número e identidad de los asistentes, como capturas de pantalla realizadas durante la actividad.
+
+c) Contar con un mecanismo que posibilite la conexión durante el tiempo de celebración del aula que pueda seguirse por los órganos de control, con el fin de realizar las actuaciones de seguimiento descritas en el artículo 17.
+
+d) Poner a disposición de los asistentes en cada actividad un número de teléfono y una dirección de correo electrónico destinados a la resolución de dudas en el manejo e incidencias técnicas relacionadas con el aula virtual. Se proporcionará a ponentes y asistentes unas instrucciones de manejo relacionadas con el aula virtual, con anterioridad al desarrollo de la actividad.
+
+> Se modifican las letras a) e i) del apartado 3 y se añade el apartado 4 por el art. 1.3 del Real Decreto 810/2020, de 8 de septiembre. Ref. BOE-A-2020-10367#ap

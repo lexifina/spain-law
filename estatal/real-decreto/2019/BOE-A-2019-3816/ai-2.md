@@ -4,19 +4,19 @@
 
 I. Gastos subvencionables
 
-En la convocatoria serán subvencionables para los proyectos relacionados con las actividades previstas en el artículo 1 de este real decreto.
+En la convocatoria serán subvencionables los siguientes gastos para los proyectos relacionados con las actividades previstas en el artículo 1 de este real decreto.
 
-Los límites establecidos a continuación se refieren a cada anualidad del proyecto.
+Los límites establecidos a continuación se refieren a cada anualidad del proyecto:
 
 1. Gastos de personal para la realización del proyecto. Serán considerados como tales:
 
-a) Los gastos salariales derivados del personal contratado técnico y/o administrativo específicamente para la preparación y ejecución del proyecto y/o, parcialmente, los gastos salariales del personal técnico (expertos, gerentes y técnicos) y/o del personal administrativo de la entidad dedicados al diseño y desarrollo del proyecto subvencionado.
+a) Los gastos salariales derivados del personal técnico, incluido el personal técnico asesor o de mantenimiento de plataformas telemáticas, y/o administrativo contratado específicamente para la preparación y ejecución del proyecto y/o, parcialmente, los gastos salariales del personal técnico (expertos, gerentes y técnicos) y/o del personal administrativo de la entidad dedicados al diseño y desarrollo del proyecto subvencionado, que correspondan como máximo a los tres meses anteriores a la fecha de realización de la primera actividad programada en el proyecto.
 
 Se admitirán como gastos salariales las indemnizaciones por fin de contrato del personal contratado específicamente para la preparación y ejecución del proyecto, que correspondan como máximo a los tres meses anteriores a la fecha de realización de la primera actividad programada en el proyecto.
 
-Los gastos salariales de personal propio sólo serán subvencionables hasta el límite de las retribuciones fijadas como salario base más pagas extraordinarias para los correspondientes grupos profesionales en el Convenio Colectivo Único para el personal laboral de la Administración General del Estado (referidas a la duración máxima de la jornada general de trabajo de dicho colectivo, y para jornadas inferiores, se realizará el cálculo proporcional). El Convenio Colectivo Único debe operar también para el personal técnico o administrativo contratado específicamente para el proyecto. Si se supera el límite de retribuciones salariales antes indicado el importe imputable por la cotización de la Seguridad Social correspondiente a la empresa, será como máximo el que correspondería de haber percibido la retribución límite del correspondiente grupo de cotización. La convocatoria reflejará estos importes máximos.
+Los gastos salariales de personal propio sólo serán subvencionables hasta el límite de las retribuciones fijadas como salario base más pagas extraordinarias para los correspondientes grupos profesionales en el Convenio Colectivo Único para el personal laboral de la Administración General del Estado (referidas a la duración máxima de la jornada general de trabajo de dicho colectivo, y para jornadas inferiores, se realizará el cálculo proporcional). El Convenio colectivo único debe operar también para el personal técnico o administrativo contratado específicamente para el proyecto. Si se supera el límite de retribuciones salariales antes indicado el importe imputable por la cotización de la Seguridad Social correspondiente a la empresa, será como máximo el que correspondería de haber percibido la retribución límite del correspondiente grupo de cotización. La convocatoria reflejará estos importes máximos.
 
-b) La cuota empresarial de la Seguridad Social correspondiente a los gastos salariales anteriores: Se incluirán los gastos que la entidad debe pagar a la Seguridad Social por la persona trabajadora. Sólo se imputaran los gastos proporcionales según la dedicación al proyecto.
+b) La cuota empresarial de la Seguridad Social correspondiente a los gastos salariales anteriores. Se incluirán los gastos que la entidad debe pagar a la Seguridad Social por la persona trabajadora. Sólo se imputarán los gastos proporcionales según la dedicación al proyecto.
 
 Deberá aportar las nóminas del personal propio, junto con los correspondientes justificantes de pago y los documentos acreditativos del ingreso de las retenciones del IRPF, así como el recibo de liquidación de cotizaciones (RLC) y la relación nominal de trabajadores (RNT) del mes o meses en que haya tenido lugar la preparación y realización de la actividad en cuestión, así como otros gastos originados por el trabajador a la empresa durante el ejercicio de las actividades subvencionadas.
 
@@ -32,11 +32,11 @@ a) Que sean necesarios y estén asociados a acciones concretas del proyecto subv
 
 b) Que sean realizados por el personal técnico y administrativo bien sea personal de plantilla de la entidad o contratado para la preparación o ejecución del proyecto, o bien por los ponentes o por las personas asistentes.
 
-No obstante, también podrán admitirse como subvencionables los gastos de desplazamiento, alojamiento y manutención realizados por el personal y junta directiva de la entidad beneficiaria, siempre que se justifique adecuadamente su presencia en la actividad correspondiente mediante un control de firmas. El importe máximo subvencionado también será de aplicación a las personas asistentes a las jornadas y a los ponentes. Los gastos totales de alojamiento y manutención no podrán superar para cada anualidad del proyecto el 40% del presupuesto del proyecto para el año correspondiente.
+No obstante, también podrán admitirse como subvencionables los gastos de desplazamiento, alojamiento y manutención realizados por el personal y junta directiva de la entidad beneficiaria, siempre que se justifique adecuadamente su presencia en la actividad correspondiente mediante un control de firmas. El importe máximo subvencionado también será de aplicación a las personas asistentes a las jornadas y a los ponentes. Los gastos totales de alojamiento y manutención no podrán superar para cada anualidad del proyecto el 40 % del presupuesto del proyecto para el año correspondiente.
 
 2.1 Gastos de desplazamiento. En relación a los gastos de desplazamiento, se autorizarán los siguientes gastos de desplazamiento, que estén relacionados con la participación de la actividad: Gastos de desplazamiento en vehículo particular o de alquiler y gastos de desplazamiento en medios de transportes públicos colectivos, así como determinados gastos de taxi y aparcamiento.
 
-Con carácter general, los desplazamientos se realizarán en transporte público, siendo excepcional, el uso del vehículo particular, que solo debe ser autorizado, sin resulta más económico que el otro tipo de transporte, en cuyo caso la entidad deberá de justificarlo.
+Con carácter general, los desplazamientos se realizarán en transporte público, siendo excepcional el uso del vehículo particular, que solo debe ser autorizado si resulta más económico que el otro tipo de transporte, en cuyo caso la entidad deberá justificarlo.
 
 En caso de desplazamiento en vehículo propio, la cuantía subvencionable será de 0,19 €/km recorrido de acuerdo con la Orden EHA/3771/2005, de 2 de diciembre, por la que se revisa la cuantía de los gastos de locomoción y de las dietas en el Impuesto sobre la Renta de las Personas Físicas.
 
@@ -52,13 +52,15 @@ En lugar de los gastos de taxis a que se refiere el párrafo anterior, podrá se
 
 En caso de pernoctar, el importe máximo imputable en concepto de cena será de media dieta (18,70 euros por persona).
 
-3. Gastos de ponentes. Se entiende como gastos de ponentes exclusivamente los de impartición de horas lectivas, tanto teóricas como prácticas. El importe máximo por ponente será de 100 euros por hora lectiva impartida por el ponente. Las fracciones de hora se pagarán proporcionalmente.
+No se subvencionarán gastos de desplazamiento, alojamiento y manutención del personal de la entidad o contratado para el proyecto derivados de la preparación y ejecución del proyecto, de los ponentes y de los destinatarios de las actividades, en el caso de que dichas actividades se desarrollen mediante "aula virtual".
+
+3. Gastos de ponentes. Se entiende como gastos de ponentes exclusivamente los de impartición de horas lectivas, tanto teóricas como prácticas. El importe máximo por ponente será de 100 euros por hora lectiva impartida. Las fracciones de hora se pagarán proporcionalmente.
 
 En la memoria de solicitud deberá incluir un perfil general de los ponentes, que se valorará según los criterios que se establezcan en la convocatoria. En la justificación deberá aportar CV que permita verificar los elementos indicados en la solicitud, en lo que se refiere a experiencia y/o conocimientos mínimos en la materia impartida y/o en igualdad.
 
-4. Gastos generales vinculados con la realización del proyecto. Serán subvencionables los gastos generales vinculados a acciones concretas del proyecto subvencionado, que se hayan efectuado como máximo en los tres meses anteriores a la fecha de realización de la primera actividad programada en el proyecto. Únicamente se considerarán subvencionables a estos efectos los gastos de luz, agua, teléfono, calefacción, correo, cuota de pago de Internet, fax, limpieza de locales, alquileres de oficinas, fotocopias, material de oficina y material fungible informático. Los gastos generales no superarán en cada anualidad del proyecto el importe de 1,5 € por asistente y hora lectiva media del proyecto. (Para determinar el importe máximo por este concepto se tendrán en cuenta el n.º total de asistentes al proyecto y las horas lectivas de duración media de las jornadas del proyecto).
+4. Gastos generales vinculados con la realización del proyecto. Serán subvencionables los gastos generales vinculados a acciones concretas del proyecto subvencionado, que se hayan efectuado como máximo en los tres meses anteriores a la fecha de realización de la primera actividad programada en el proyecto. Únicamente se considerarán subvencionables a estos efectos los gastos de luz, agua, teléfono, calefacción, correo, cuota de pago de Internet, fax, limpieza de locales, alquileres de oficinas, fotocopias, material de oficina y material fungible informático. Los gastos generales no superarán en cada anualidad del proyecto el importe de 1,5 euros por asistente y hora lectiva media del proyecto. (Para determinar el importe máximo por este concepto se tendrán en cuenta el número total de asistentes al proyecto y las horas lectivas de duración media de las jornadas del proyecto).
 
-5. Gastos relacionados con la organización del evento. Se consideran gastos relacionados con la organización del evento: alquileres y limpieza de locales donde se vayan a llevar a cabo, alquiler de material audiovisual y montaje de stands y los derivados de contratación de servicios para emitir las jornadas mediante retransmisión en directo.
+5. Gastos relacionados con la organización del evento. Se consideran gastos relacionados con la organización del evento: alquileres y limpieza de locales donde se vayan a llevar a cabo, alquiler de material audiovisual y montaje de stands.
 
 No serán subvencionables los gastos de alquiler de locales y material audiovisual a personas o entidades vinculadas con la entidad beneficiaria, salvo que concurran las siguientes circunstancias:
 
@@ -66,23 +68,29 @@ No serán subvencionables los gastos de alquiler de locales y material audiovisu
 
 2.ª Que se obtenga la previa autorización del órgano concedente de la subvención.
 
-Los gastos relacionados con la organización del evento no superarán en cada anualidad del proyecto el importe de 1,5 € por asistente y hora lectiva media del proyecto. (Para determinar el importe máximo por este concepto se tendrán en cuenta (el n.º total de asistentes al proyecto y las horas lectivas de duración media de las jornadas del proyecto).
+Los gastos relacionados con la organización del evento no superarán en cada anualidad del proyecto el importe de 1,5 euros por asistente y hora lectiva media del proyecto. (Para determinar el importe máximo por este concepto se tendrán en cuenta (el número total de asistentes al proyecto y las horas lectivas de duración media de las jornadas del proyecto).
 
 6. Gastos de publicidad y promoción del proyecto.
 
-1. Se considerara gastos de publicidad y promoción del proyecto: Inserciones en las páginas web, cuñas radiofónicas, anuncios en prensa, folletos, libros y carteles.
+1.º Se considerarán gastos de publicidad y promoción del proyecto: Inserciones en las páginas web, cuñas radiofónicas, anuncios en prensa, folletos, libros y carteles.
 
-2. Los gastos de publicidad y promoción subvencionables no superarán en cada anualidad del proyecto el importe de 1,5 € por asistente y hora lectiva media del proyecto. (Para determinar el importe máximo por este concepto se tendrán en cuenta (el n.º total de asistentes al proyecto y las horas lectivas de duración media de las jornadas del proyecto).
+2.º Los gastos de publicidad y promoción subvencionables no superarán en cada anualidad del proyecto el importe de 1,5 euros por asistente y hora lectiva media del proyecto. (Para determinar el importe máximo por este concepto se tendrán en cuenta el número total de asistentes al proyecto y las horas lectivas de duración media de las jornadas del proyecto).
 
-3. No serán subvencionables las actividades de publicidad y promoción del proyecto con posterioridad a la actividad que se publicite o promocione.
+3.º No serán subvencionables las actividades de publicidad y promoción del proyecto con posterioridad a la actividad que se publicite o promocione.
 
-4. No serán subvencionables los gastos de alojamiento web (hosting) ni de mantenimiento y actualización de páginas Web.
-
-7. Gastos de material didáctico. Se considerará gasto de material didáctico el entregado a las personas que asisten en las jornadas y que no esté dentro de los gastos previstos en el punto 6 de este mismo anexo. El importe máximo subvencionable no podrá superar para cada anualidad del proyecto los 3 € por asistente.
+7. Gastos de material didáctico. Se considerará gasto de material didáctico el entregado a las personas que asisten en las jornadas, ya sea en soporte físico o formato digital y que no esté dentro de los gastos previstos en el punto 6 de este mismo anexo. El importe máximo subvencionable no podrá superar para cada anualidad del proyecto los 3 euros por asistente.
 
 8. Gastos de auditoría. Los gastos correspondientes al informe de auditoría al que se hace referencia en el apartado 3 del artículo 14 podrán ser incluidos dentro de los gastos subvencionables, hasta un máximo de 3.000 euros por entidad beneficiaria.
 
-9. Gastos de garantías Se incluyen como gastos subvencionables los Gastos de garantía bancaria, correspondientes a la petición de avales. Se podrán subvencionar los gastos derivados de la constitución de garantías, con el límite del 2 por 100 del importe del anticipo concedido.
+9. Gastos de garantías. Se incluyen como gastos subvencionables los gastos de garantía bancaria, correspondientes a la petición de avales. Se podrán subvencionar los gastos derivados de la constitución de garantías, con el límite del 2 por 100 del importe del anticipo concedido.
+
+10. Gastos derivados de la realización de actividades por vía telemática. Se consideran gastos subvencionables el alquiler o contratación de servicios que ofrezcan soporte telemático para la realización de las jornadas mediante “aula virtual”, así como el mantenimiento de las plataformas tecnológicas necesarias para la organización de dichas jornadas.
+
+También se consideran subvencionables los gastos de alojamiento web (hosting), así como de mantenimiento y actualización de páginas web.
+
+11. Gastos de guardería. Se consideran subvencionables los gastos de guardería de asistentes con hijos menores de 4 años. Se justificará con la aportación del libro de familia y el recibo o justificante del gasto, hasta un importe máximo de 30 euros/día por asistente.
+
+> Téngase en cuenta que los gastos de guardería previstos como gastos subvencionables, según la modificación establecida por el art. 1.8 del Real Decreto 810/2020, de 8 de septiembre. Ref. BOE-A-2020-10367#ap, comenzarán a considerarse como tales a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.
 
 II. Gastos no subvencionables
 
@@ -111,3 +119,7 @@ j) Los gastos que no hayan sido materialmente realizados.
 k) No serán subvencionables los gastos que no estén contemplados en el apartado I del presente anexo, así como los que se puedan indicar en la convocatoria.
 
 l) No serán subvencionables los gastos efectuados en comunidades autónomas forales.
+
+> Se modifica la parte I por el art. 1.8 del Real Decreto 810/2020, de 8 de septiembre. Ref. BOE-A-2020-10367#ap
+
+> Téngase en cuenta que los gastos de guardería previstos como gastos subvencionables en la nueva redacción de la parte I, comenzarán a considerarse como tales a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.

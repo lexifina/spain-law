@@ -12,12 +12,14 @@ c) Grupo C: Asociaciones y organizaciones representativas de los sectores agríc
 
 a) Carecer de ánimo de lucro o que, aunque desarrollen actividades de carácter comercial, inviertan la totalidad de los beneficios resultantes de las mismas en el cumplimiento de sus fines institucionales no comerciales. Sin embargo, las entidades del grupo C podrán ser con o sin ánimo de lucro.
 
-b) Tener ámbito de actuación e implantación en todo el territorio nacional.
+b) Tener ámbito de actuación e implantación en todo el territorio nacional, recogido en sus estatutos.
 
-c) Recoger explícitamente entre sus fines estatutarios la formación y el desarrollo profesional y mejora de la cualificación.
+c) Recoger explícitamente, entre sus fines estatutarios, al menos la formación y el desarrollo profesional y mejora de la cualificación en el medio rural.
 
 d) No recibir del Ministerio de Agricultura, Pesca y Alimentación otras ayudas para estos mismos programas de formación.
 
 e) No incurrir en ninguna de las prohibiciones establecidas en el artículo 13 de la Ley 38/2003, de 17 de noviembre.
 
 3. No podrán ser beneficiarias de estas ayudas las asociaciones y organizaciones representativas de los sectores agrícolas, ganaderos o forestales dependientes o vinculadas a las que se citan en el apartado 1.a), salvo las que representen a colectivos de mujeres rurales.
+
+> Se modifican las letras b) y c) del apartado 2 por el art. 3.1 del Real Decreto 810/2020, de 8 de septiembre. Ref. BOE-A-2020-10367#at
