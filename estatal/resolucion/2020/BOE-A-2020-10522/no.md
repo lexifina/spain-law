@@ -1,0 +1,1 @@
+Se deja sin efecto la presente Resolución y se acuerda la vuelta a su régimen ordinario, mediante Resolución de 18 de septiembre de 2020, de la Dirección General de Seguridad Jurídica y Fe Pública. Ref. BOE-A-2020-11568
