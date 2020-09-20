@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Creación de unidades judiciales.
+
+El Gobierno, previa negociación con las Comunidades Autónomas en materia de Justicia, promoverá la creación de al menos cien nuevas unidades judiciales en un plazo de tres años, de las cuales al menos un tercio se crearán en el primer año, con la finalidad de adecuar la planta judicial a las necesidades derivadas de la crisis provocada por la COVID-19 y de garantizar a la ciudadanía la efectividad de la protección judicial de sus derechos. Para ello, el Gobierno dotará las partidas y transferencias presupuestarias necesarias y suficientes.

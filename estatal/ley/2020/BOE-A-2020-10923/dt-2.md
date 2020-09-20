@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Previsiones en materia de medidas organizativas y tecnológicas.
+
+Las medidas contenidas en el Capítulo III de esta Ley serán de aplicación en todo el territorio nacional hasta el 20 de junio de 2021 inclusive. No obstante, si a dicha fecha se mantuviera la situación de crisis sanitaria, las medidas contenidas en el citado Capítulo III serán de aplicación en todo el territorio nacional hasta que el Gobierno declare de manera motivada y de acuerdo con la evidencia científica disponible, previo informe del Centro de Coordinación de Alertas y Emergencias Sanitarias, la finalización de la situación de crisis sanitaria ocasionada por el COVID-19.
