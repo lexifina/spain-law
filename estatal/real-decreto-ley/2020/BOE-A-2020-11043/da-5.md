@@ -1,0 +1,7 @@
+## Disposición adicional quinta. Convenios de colaboración entre las entidades gestoras de la Seguridad Social, las comunidades autónomas y el Instituto Nacional de Gestión Sanitaria para el control y seguimiento de la incapacidad temporal.
+
+En los convenios de colaboración que formalicen las entidades gestoras de la Seguridad Social con las comunidades autónomas y con el Instituto Nacional de Gestión Sanitaria para el control y seguimiento de la incapacidad temporal podrá preverse el anticipo de hasta la cuantía total del importe previsto en el respectivo convenio para la financiación de las actuaciones a desarrollar por las comunidades autónomas y por el Instituto Nacional de Gestión Sanitaria.
+
+A estos efectos, con carácter previo a la formalización de los convenios a que se refiere el párrafo anterior, se requerirá la autorización del Consejo de Ministros. Con esta finalidad, el titular del Ministerio de Inclusión, Seguridad Social y Migraciones, previo informe del Ministerio de Hacienda, elevará la oportuna propuesta al Consejo de Ministros.
+
+No será de aplicación, para el caso exclusivo de estos convenios, lo dispuesto en el apartado 1 del artículo 47 de la Ley General Presupuestaria, en lo que se refiere a la necesidad de iniciar la ejecución del gasto en el propio ejercicio en el que se adquiere el compromiso del gasto.
