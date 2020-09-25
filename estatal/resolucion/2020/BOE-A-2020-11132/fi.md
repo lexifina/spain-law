@@ -1,0 +1,3 @@
+Contra la presente resolución, que pone fin a la vía administrativa, podrá interponerse recurso contencioso-administrativo ante el Juzgado Central de lo Contencioso-Administrativo de Madrid (Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa), en el plazo de dos meses o, previa y potestativamente, recurso de reposición ante la Agencia Estatal de Seguridad Ferroviaria en el plazo de un mes; en ambos casos, el plazo se contará desde el día siguiente al de la publicación en el «Boletín Oficial del Estado».
+
+Madrid, 23 de septiembre de 2020.–El Director de la Agencia Estatal de Seguridad Ferroviaria, Pedro M. Lekuona García.
