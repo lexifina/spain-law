@@ -33,3 +33,5 @@ Las especificaciones técnicas distintas de las normas armonizadas incluidas en 
 Durante el proceso de certificación, los organismos notificados españoles podrán admitir los informes de ensayos totales o parciales previos de los que disponga el producto.
 
 Los certificados de examen UE de tipo emitidos por los organismos notificados españoles en aplicación de esta disposición serán de carácter temporal, finalizando su validez el 30 de septiembre de 2020.
+
+> Téngase en cuenta el apartado primero de la Resolución de 28 de septiembre de 2020, de la Secretaría General de Industria y de la Pequeña y Mediana Empresa, en cuanto a la fijación de plazos para los productos recogidos en la presente Resolución. Ref. BOE-A-2020-11423#pr-2
