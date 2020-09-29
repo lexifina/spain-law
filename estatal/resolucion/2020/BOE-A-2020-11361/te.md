@@ -1,0 +1,5 @@
+## Tercero. Certificados médicos de aptitud para el embarque marítimo.
+
+El tiempo de vigencia de los certificados médicos de aptitud para el embarque marítimo regulados en el Real Decreto 1696/2007, de 14 de diciembre, por el que se regulan los reconocimientos médicos de embarque marítimo, se considerará prorrogado hasta el día 31 de octubre de 2020 salvo que la prórroga de seis meses que se hubiera aplicado como consecuencia de las medidas adoptadas por el COVID-19 venciera con anterioridad a dicha fecha, en cuyo caso no cabrá una nueva prórroga.
+
+No obstante lo anterior, en el caso de tripulantes enrolados en buques de navegación internacional, si el periodo de validez del certificado expira durante una travesía, el certificado seguirá siendo válido hasta la fecha de llegada al próximo puerto de escala donde el marino interesado pueda obtener un certificado médico expedido por un facultativo del Instituto Social de la Marina, a condición de que esta prolongación de validez no exceda de tres meses.
