@@ -1,0 +1,1 @@
+Téngase en cuenta que los programas y actividades previstos en la presente Resolución son aplicables para el año 2020, debiendo facilitar información sobre su ejecución durante el primer trimestre de 2021, por lo que debe entenderse que ha perdido su vigencia.

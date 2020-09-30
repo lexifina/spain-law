@@ -1,0 +1,5 @@
+## Segundo. Presentación por las mutuas de la ampliación del plan de actividades preventivas a desarrollar en el año 2020.
+
+En el plazo de los quince días siguientes a la publicación de esta resolución, las mutuas colaboradoras con la Seguridad Social presentarán ante la Dirección General de Ordenación de la Seguridad Social, para su aprobación, la ampliación del plan de actividades preventivas individual con los programas y actividades a desarrollar durante el año 2020, en aplicación de los criterios y prioridades establecidos en la Resolución de 28 de marzo de 2019 y en esta resolución, especificando los sectores y las empresas a los que van dirigidos, así como el número de trabajadores afectados y el coste previsto de desarrollo de cada uno de dichos programas y actividades; información que se aportará por cada mutua de acuerdo con la estructura que a tal efecto se determine por la mencionada Dirección General.
+
+Los planes individuales de las mutuas, una vez aprobados a la mayor brevedad posible por la Dirección General de Ordenación de la Seguridad Social, así como la aplicación de los mismos, se publicarán por aquéllas en sus respectivas páginas web.
