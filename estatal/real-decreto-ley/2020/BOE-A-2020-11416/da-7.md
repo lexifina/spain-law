@@ -1,0 +1,9 @@
+## Disposición adicional séptima. Consecuencias de la aplicación indebida del derecho a percepción del bono social por parte de determinados colectivos en situación de vulnerabilidad económica.
+
+1. El titular del contrato de suministro que se haya beneficiado del derecho a percibir el bono social por parte de determinados colectivos en situación de vulnerabilidad económica sin reunir los requisitos previstos en el apartado 2 de la disposición adicional sexta, será responsable de los daños y perjuicios que se hayan podido producir, así como de todos los gastos generados por la aplicación de estas medidas excepcionales, sin perjuicio de las responsabilidades de otro orden a que la conducta de los mismos pudiera dar lugar.
+
+2. El importe de los daños, perjuicios y gastos no podrá ser inferior al beneficio indebidamente obtenido por el titular del contrato de suministro por la aplicación de la norma, el cual incurrirá en responsabilidad, también, en los casos en los que, voluntaria y deliberadamente, busque situarse o mantenerse en los supuestos de vulnerabilidad económica con la finalidad de obtener la aplicación de las medidas reguladas por este real decreto-ley.
+
+3. La administración podrá recabar en cualquier momento toda la información acreditativa del cumplimiento de los requisitos, incluidos los de renta, correspondientes a todo el periodo durante el que se haya beneficiado del bono social.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 272 de 14 de octubre de 2020. Ref. BOE-A-2020-12213

@@ -14,6 +14,8 @@ No se considerará incumplido dicho compromiso cuando el contrato de trabajo se 
 
 > Téngase en cuenta que el compromiso de mantenimiento del empleo regulado en la presente disposición se extenderá, en los términos previstos en la misma, a las empresas y entidades que apliquen un expediente de regulación temporal de empleo basado en la causa del artículo 23 del presente Real Decreto-ley y se beneficien de las medidas extraordinarias en el ámbito laboral previstas en el artículo 4 del Real Decreto-ley 24/2020, de 26 de junio, en la forma que establece su art. 6. Ref. BOE-A-2020-6838#a6.
 
+> Los compromisos de mantenimiento del empleo regulados en esta disposición se mantendrán vigentes en los términos previstos en el art. 5 del Real Decreto-ley 30/2020, de 29 de septiembre. Ref. BOE-A-2020-11416#a5 y 3.4 del Real Decreto-ley 2/2021, de 26 de enero. Ref. BOE-A-2021-1130#a3
+
 > Se modifica por la disposición final 1.3 del Real Decreto-ley 18/2020, de 12 de mayo. Ref. BOE-A-2020-4959#df
 
 > Véase, para la aplicación de la presente disposición, la disposición adicional 14 del Real Decreto-ley 11/2020, de 31 de marzo. Ref. BOE-A-2020-4208#da-14

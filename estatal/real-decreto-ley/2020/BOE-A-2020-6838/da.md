@@ -17,3 +17,5 @@ En este caso, la exoneración se aplicará al abono de la aportación empresaria
 3. Las exenciones reguladas en los apartados 1 y 2 de esta disposición adicional serán incompatibles con las indicadas en el artículo 4 de este real decreto-ley. Asimismo les resultarán de aplicación los apartados 3, 4, 5 y 6 del artículo 4 de este real decreto-ley.
 
 4. Cuando las empresas y entidades a las que se refieren los apartados anteriores reinicien su actividad, les serán de aplicación desde dicho momento, y hasta el 30 de septiembre de 2020, las medidas reguladas en el artículo 4.1 del presente real decreto-ley.
+
+> Téngase en cuenta, respecto a los expedientes de regulación temporal de empleo autorizados en base a lo dispuesto en el apartado 2, lo establecido en la disposición transitoria única del Real Decreto-ley 30/2020, de 29 de septiembre. Ref. BOE-A-2020-11416#dt
