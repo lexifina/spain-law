@@ -1,0 +1,7 @@
+## Disposición adicional segunda. Cláusula de reconocimiento mutuo.
+
+1. Las mercancías comercializadas legalmente en otro Estado miembro de la Unión Europea o en Turquía, u originarias de un Estado de la AELC signatario del Acuerdo EEE y comercializadas legalmente en él, se consideran conformes con la presente disposición. La aplicación de la presente disposición está sujeta al Reglamento (UE) 2019/515 del Parlamento Europeo y del Consejo, de 19 de marzo de 2019, relativo al reconocimiento mutuo de mercancías comercializadas legalmente en otro Estado miembro y por el que se deroga el Reglamento (CE) n.º 764/2008.
+
+En los supuestos relativos a los reactivos de diagnóstico de uso veterinario que tengan un carácter zoonótico, o de productos que pudieran ser considerados medicamentos veterinarios, biocidas, o plaguicidas de uso ganadero, serán de aplicación los artículos 5 y concordantes del citado reglamento, en relación con el artículo 1.3 del presente real decreto.
+
+2. A los efectos previstos en esta disposición, el agente económico que pretenda introducir en el Reino de España un producto zoosanitario no sometido a norma técnica en el país de origen, podrá aportar un certificado de libre venta emitido por el Estado miembro o Estado del Espacio Económico de origen, o una declaración responsable comprensiva de que la mercancía es de libre circulación en el mismo, acompañando la traducción al español del etiquetado con el que tal producto sea comercializado en el país de elaboración.
