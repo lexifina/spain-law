@@ -16,9 +16,17 @@ La pensión que corresponda reconocer o la pensión teórica sobre la que se cal
 
 En los casos en que legal o reglamentariamente esté permitida por otras causas la superación del límite máximo, el complemento se calculará en los términos indicados en este apartado, estimando como cuantía inicial de la pensión el importe del límite máximo vigente en cada momento.
 
-2. El complemento por maternidad se reconocerá por la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Hacienda y Administraciones Públicas y por la Dirección General de Personal del Ministerio de Defensa en el ámbito de sus respectivas competencias. No obstante, la competencia para el abono corresponderá en todo caso a la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Hacienda y Administraciones Públicas.
+2. El complemento por maternidad se reconocerá por el Instituto Nacional de la Seguridad Social. No obstante, la competencia para el abono corresponderá en todo caso a la Tesorería General de la Seguridad Social.
 
 El complemento por maternidad en ningún caso formará parte de la pensión de jubilación o retiro a efectos de la determinación de la base reguladora en el reconocimiento de pensiones en favor de los familiares del personal comprendido en el ámbito de aplicación de este texto refundido.
+
+> Téngase en cuenta que esta última actualización del apartado 2, establecida por la disposición final 1.13 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df, entra en vigor el 6 de octubre de 2020, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+
+> Redacción anterior:
+
+> "2. El complemento por maternidad se reconocerá por la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Hacienda y Administraciones Públicas y por la Dirección General de Personal del Ministerio de Defensa en el ámbito de sus respectivas competencias. No obstante, la competencia para el abono corresponderá en todo caso a la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Hacienda y Administraciones Públicas.
+
+> El complemento por maternidad en ningún caso formará parte de la pensión de jubilación o retiro a efectos de la determinación de la base reguladora en el reconocimiento de pensiones en favor de los familiares del personal comprendido en el ámbito de aplicación de este texto refundido."
 
 3. En el supuesto de que la cuantía de la pensión que corresponda reconocer sea igual o superior al límite de pensión máxima regulado en el artículo 27.3 de este texto refundido, solo se abonará el 50 por 100 del complemento.
 
@@ -37,6 +45,12 @@ b) En caso de concurrencia de pensión de jubilación y viudedad, se abonará el
 En todo caso el abono del complemento se ajustará a lo dispuesto en el apartado 3 de esta disposición.
 
 6. El complemento por maternidad estará sujeto al régimen jurídico de la pensión sobre la que se haya calculado.
+
+> Se modifica el apartado 2 por la disposición final 1.13 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df
+
+> Esta modificación entra en vigor el 6 de octubre de 2020, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+
+> Téngase en cuenta que se declara inconstitucional y nulo el apartado 2, en la redacción dada por la disposición final 1.13 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
 
 > Se añade por la disposición final 1.2 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644.
 
