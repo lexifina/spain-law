@@ -1,0 +1,9 @@
+## Segundo. Precisión métrica de la cartografía catastral.
+
+1. La precisión métrica absoluta o de posicionamiento de la cartografía catastral es, con carácter general, la derivada de la escala de obtención de la cartografía básica que ha servido para su elaboración.
+
+No obstante, lo anterior, la precisión métrica de la representación gráfica alternativa de las fincas para las que se haya alcanzado o se pretenda alcanzar su coordinación gráfica, podrá ser superior a la existente en la cartografía catastral.
+
+La mejora de la precisión métrica de la cartografía catastral podrá obtenerse mediante la inscripción, a instancia del interesado, de una representación gráfica georreferenciada alternativa, debiendo ser notificados los colindantes catastrales y registrales, en los términos previstos en la legislación hipotecaria.
+
+2. Si concluida la tramitación del procedimiento previsto en la Ley Hipotecaria se hubiera inscrito la representación gráfica alternativa, aun en el supuesto de haberse formulado oposición expresa por parte de algún titular catastral afectado, el Registrador de la Propiedad hará constar el estado de «pre-coordinada pendiente de procesamiento» y remitirá al Catastro, por medios telemáticos, el código seguro de verificación (CSV) del informe de validación gráfica alternativo que incorpore la georreferenciación inscrita, así como un enlace o vínculo electrónico al contenido de la certificación en la que consten las incidencias del expediente registral tramitado, incluyendo la motivación jurídica por la que el registrador hubiera desestimado las oposición formulada, y todo ello al objeto de que puedan ser tenidas en cuenta en el procedimiento de rectificación catastral previsto en el texto refundido de la Ley del Catastro Inmobiliario. El Catastro comunicará al Registro de la Propiedad el resultado de dicho procedimiento a los efectos oportunos.
