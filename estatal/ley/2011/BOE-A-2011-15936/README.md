@@ -203,6 +203,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 137](a137.md)
 - [Sección 4](s4-3.md)
 - [Artículo 138](a138.md)
+- [Artículo 138 bis](a1-2.md)
 - [Sección 5](s5-2.md)
 - [Artículo 139](a139.md)
 - [CAPÍTULO VI](cvi.md)
