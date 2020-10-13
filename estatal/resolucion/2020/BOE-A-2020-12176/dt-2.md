@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+En tanto se determinan los tipos de productos de los Grupos de prótesis externas de miembro superior, prótesis externas de miembro inferior y prótesis para agenesias del apartado 7 del anexo VI del Real Decreto 1030/2006, de 15 de septiembre, en los procedimientos de prestaciones para estos grupos de prótesis será aplicable lo dispuesto en el apartado 5 de la Resolución 4B0/38008/2014, de 15 de enero, sobre Cartera de Servicios de Asistencia Sanitaria del ISFAS, así como los apartados 06 18 Prótesis de Miembro Superior, 06 24 Prótesis de Miembro Inferior y 06 90 Prótesis para Agenesias de su Anexo 4.

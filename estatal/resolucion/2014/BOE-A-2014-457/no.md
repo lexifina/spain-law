@@ -1,0 +1,1 @@
+Norma derogada, desde el 13 de octubre de 2020, por la disposición derogatoria, letra A), de la Resolución 4B0/38303/2020, de 30 de septiembre, con los efectos previstos en la Disposición transitoria segunda de la misma. Ref. BOE-A-2020-12176#dt-2
