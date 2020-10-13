@@ -8,7 +8,7 @@ En relación con la recomendación 14, el apartado C.1.7.
 
 En relación con la recomendación 19, el apartado C.1.8.
 
-En relación con la recomendación 22, los apartados C.1.37 y C.1.38.
+En relación con la recomendación 22, los apartados C.1.36 y C.1.37.
 
 En relación con la recomendación 27, el apartado C.1.26.
 
@@ -16,7 +16,9 @@ En relación con la recomendación 36, el apartado C.1.17, segundo apartado y C.
 
 En relación con la recomendación 42.2.c), el apartado C.1.31.
 
-En todo caso, en el capítulo «G» del informe anual de gobierno corporativo se incluirán las explicaciones oportunas cuando la sociedad no siga, o siga parcialmente, las recomendaciones del Código Unificado de buen gobierno de las sociedades cotizadas.
+En todo caso, en el capítulo “G” del informe anual de gobierno corporativo se incluirán las explicaciones oportunas cuando la sociedad no siga, o siga parcialmente, las recomendaciones del Código de buen gobierno de las sociedades cotizadas.
+
+> Se modifica el apartado 2 por la norma segunda.2 de la Circular 1/2020, de 6 de octubre. Ref. BOE-A-2020-12141
 
 > Se modifica el apartado 2 por la norma segunda.2 de la Circular 2/2018, de 12 de junio. Ref. BOE-A-2018-9935
 
