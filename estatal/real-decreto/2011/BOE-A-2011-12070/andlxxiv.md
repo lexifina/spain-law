@@ -124,55 +124,59 @@ Código: UC0733_1
 
 Realizaciones profesionales y criterios de realización:
 
-RP 1: Actuar en caso de abandono de buque y supervivencia en la mar siguiendo las instrucciones establecidas en los planes de emergencia, para salvaguardar la seguridad personal y colaborar en la seguridad del buque.
+RP1: Actuar en caso de abandono de buque siguiendo técnicas de supervivencia personal y las instrucciones establecidas en el «procedimiento de abandono», para salvaguardar la seguridad personal y colaborar en la seguridad del buque y la tripulación.
 
-CR 1.1 La ubicación de los dispositivos salvavidas del buque, del equipo de protección personal y de las embarcaciones de supervivencia se localizan e identifican, de acuerdo con el cuadro orgánico del buque, con el fin de ser utilizados en casos de emergencia.
+CR1.1 La ubicación de los dispositivos salvavidas del buque, dispositivos personales de salvamento y de las embarcaciones de supervivencia se localizan previamente identificados, teniendo en cuenta las señales identificativas de los mismos, con el fin de ser utilizados en casos de abandono del buque.
 
-CR 1.2 Las medidas a tomar en caso de abandono de buque son adoptadas, siguiendo las instrucciones señaladas en los planes de emergencia, con el fin de contribuir al éxito de las operaciones.
+CR1.2 La secuencia y el momento de uso de las medidas individuales de salvamento para caso de abandono del buque se ajustan al procedimiento establecido de abandono, teniendo en cuenta las condiciones reinantes, con el fin de minimizar los peligros y amenazas para la supervivencia.
 
-CR 1.3 Las actuaciones en la mar y a bordo de las embarcaciones de supervivencia se ejecutan, siguiendo procedimientos establecidos, para prevenir la seguridad de la vida humana en la mar.
+CR1.3 El método de subida en la embarcación de supervivencia, las medidas iniciales de abandono y los procedimientos de actuación en el agua se ejecutan siguiendo el protocolo de abandono, para minimizar las amenazas para la supervivencia y el peligro para otros supervivientes.
 
-CR 1.4 Las instrucciones se interpretan con claridad en el idioma oficial o inglés normalizado (OMI).
+CR1.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
 
-RP 2: Ejecutar las operaciones de prevención y lucha contra-incendios, de acuerdo con el plan de emergencia, para preservar la seguridad del buque y su tripulación.
+RP2: Ejecutar las operaciones de prevención y lucha contra-incendios, de acuerdo con el procedimiento de «prevención y lucha contra incendios», para preservar la seguridad del buque y su tripulación.
 
-CR 2.1 Las medidas a adoptar para la prevención de incendios a bordo se llevan a cabo, siguiendo los procedimientos e instrucciones de precaución y vigilancia establecidos, con el fin de evitar que se originen.
+CR2.1 Las medidas iniciales adoptadas al darse cuenta de una emergencia con fuego se ajustan a las prácticas y procedimientos establecidos, con el fin de evitar que se origine o propague.
 
-CR 2.2 Los dispositivos y equipos de lucha contra-incendios y las vías de evacuación en casos de emergencia son localizados e identificados, interpretando las señalizaciones de a bordo y los sistemas automáticos de alarma con el fin de su utilización en este tipo de emergencias.
+CR2.2 Los dispositivos y equipos de lucha contra-incendios y las vías de evacuación en casos de emergencia se localizan, previamente identificados, interpretando las señalizaciones de a bordo y los sistemas automáticos de alarma con el fin de su utilización en este tipo de emergencias.
 
-CR 2.3 Los métodos, agentes, procedimientos y el equipo respiratorio empleados en la lucha contra-incendios y en operaciones de rescate se utilizan, en caso de incendio a bordo, teniendo en cuenta el tipo y fuente de ignición, con el fin de evitar su propagación, lograr su extinción y el rescate de personas en peligro.
+CR2.3 La secuencia y el momento de uso de las medidas individuales contra incendios y los procedimientos y técnicas de manejo del aparato respiratorio y cable de seguridad se ajustan a las prácticas y al procedimiento establecido, teniendo en cuenta el tipo, la fuente de ignición y el foco del incendio (incendios pequeños del equipo eléctrico, de hidrocarburos y de propano; de gran envergadura utilizando lanzas de aspersión y chorro; incendios, incluidos los de hidrocarburos, con un aparato de neblina y boquillas aspersoras, polvos químicos secos o rociadores de espuma en espacios cerrados llenos de humo y en una camarote o cámara de máquinas simulada), con el fin de extinguir el incendio y preservar la seguridad del buque y la tripulación.
 
-RP 3: Colaborar en la aplicación de medidas urgentes de primeros auxilios, según los procedimientos establecidos, con el fin de minimizar los daños en casos de accidentes a bordo.
+CR2.4 Las medidas para efectuar una operación de rescate en un espacio lleno de humo se llevan a cabo con un aparato respiratorio autónomo siguiendo el procedimiento de rescate establecido, con el fin de preservar la integridad física de la víctima.
 
-CR 3.1 Los útiles, medicamentos y material de curas incluidos en el botiquín de primeros auxilios, se utilizan en situaciones de emergencia para auxiliar a los accidentados a bordo.
+RP3: Aplicar medidas de primeros auxilios básicos, según los procedimientos establecidos, colaborando con el personal responsable con el fin de minimizar los daños en casos de accidentes o emergencia médica a bordo.
 
-CR 3.2 El tratamiento y los cuidados con los accidentados a bordo en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, se llevan a cabo siguiendo los procedimientos establecidos para cada caso, con el fin de minimizar los daños a los pacientes.
+CR3.1 El examen del paciente y la toma de constantes vitales (pulso carotideo y radial, presencia o ausencia de respiración, toma de temperatura y reflejo pupilar) se llevan a efecto siguiendo protocolos establecidos con el fin de colaborar en la elaboración de una historia clínica básica.
 
-CR 3.3 Las actuaciones en casos de traumatismos, rescate y transporte de accidentados se realizan según protocolos establecidos para evitar en la medida de lo posible daños a los accidentados.
+CR3.2 El tratamiento de primeros auxilios a los enfermos o accidentados a bordo en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, esguinces, luxaciones y fracturas se llevan a cabo siguiendo los procedimientos establecidos para cada caso, para paliar y evitar el agravamiento de los daños de los accidentados.
 
-RP 4: Adoptar las medidas de seguridad personal y evitar daños al medio marino según la legislación establecida para cumplir la normas relativas a la seguridad en el trabajo y de prevención de la contaminación.
+CR3.3 La inmovilización y el transporte de heridos se realizan mediante maniobras, métodos de rescate y transporte protocolizados, con el fin de socorrer y no agravar los daños del paciente o herido.
 
-CR 4.1 La información relativa a la seguridad en la utilización de equipos y medios de supervivencia, protección personal, ambiental y de socorro, se interpreta según la normativa establecida, para minimizar los riesgos derivados de efectuar trabajos a bordo.
+CR3.4 El botiquín de primeros auxilios integrado por el instrumental, material de curas y medicamentos (diferenciando entre «principio activo» y «nombre comercial») se identifica para su utilización en situaciones de emergencia vinculadas a los accidentados a bordo.
 
-CR 4.2 Los trabajos a realizar en cualquier lugar del buque se efectúan de acuerdo con la normativa de prevención de riesgos laborales, utilizando los dispositivos y medios de protección personal con el fin de preservarse de los peligros que puedan presentarse a bordo.
+RP4: Adoptar las medidas de seguridad personal y responsabilidades sociales cumpliendo las normas e instrucciones relativas a la seguridad en el trabajo y de prevención de la contaminación, para preservar la seguridad personal, de la tripulación y del buque y evitar daños al medio marino.
 
-CR 4.3 Las medidas a tomar para evitar la contaminación marina se aplican de acuerdo con la normativa establecida para no causar daños accidentales u operacionales al medio marino.
+CR4.1 La información relativa a los planes de contingencias del buque, señales de emergencia y medidas a adoptar al oír las mismas se interpreta a fin de ejecutar las medidas de seguridad en la utilización de equipos y medios de supervivencia, protección personal, ambiental y de socorro, según la normativa aplicable e instrucciones recibidas durante la familiarización a bordo, para minimizar los riesgos derivados del trabajo.
 
-CR 4.4 Las instrucciones se interpretan con claridad en el idioma oficial o inglés normalizado (OMI).
+CR4.2 Los trabajos ejecutados en cualquier lugar del buque se efectúan de acuerdo con la normativa de prevención de riesgos laborales, utilizando los dispositivos y medios de protección personal con el fin de preservarse de los peligros que puedan presentarse a bordo.
+
+CR4.3 Las medidas a tomar para evitar la contaminación marina se llevan a cabo de acuerdo con la normativa aplicable e instrucciones recibidas para no causar daños accidentales u operacionales al medio marino.
+
+CR4.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
 
 Contexto profesional:
 
 Medios de producción:
 
-Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante etc. Red de agua contra-incendios: Bombas. Aspersores. Válvulas. Hidrantes. Cañones. Mangueras. Lanzas. Agentes Extintores: Polvo seco. Arena. Agua. Espuma. Vapor. CO2. Gas inerte. Equipos de lucha contra-incendios Extintores Móviles (Manuales. De carro) Sistemas fijos (de espuma, de CO2, de polvo) Sistemas de detección: alarmas, detectores de humo, detectores de calor entre otros. Equipos de respiración: autónomos y manuales. Máscaras. Botella. Equipos de protección personal: Trajes. Casco. Guantes. Botas. Botiquín reglamentario. Equipos de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación: Material necesario de acuerdo con el convenio MARPOL 73/78.
+Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección personal: trajes, casco, guantes, botas, botiquín reglamentario. Equipos de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
 
 Productos y resultados:
 
-Ejercicios de abandono de buque y supervivencia en la mar y búsqueda y rescate de náufragos. Ejercicios de adiestramiento en la lucha contra-incendios. Técnicas de asistencia sanitaria a accidentados a bordo. Trabajos en cualquier lugar del buque sin accidentes. Descargas de deshechos y vertidos al mar ajustados al convenio MARPOL 73/78.
+Actuaciones en caso de abandono de buque realizadas. Operaciones de prevención y lucha contra-incendios ejecutadas. Medidas de primeros auxilios básicos aplicadas. Medidas de seguridad personal y responsabilidades sociales adoptadas.
 
 Información utilizada o generada:
 
-Plan nacional de Salvamento Marítimo y de lucha contra la contaminación. Convenio SOLAS (Sevimar) Manual MERSAR de búsqueda y rescate. MOB (hombre al agua) del G.P.S en caso de hombre al agua. Manuales sobre materiales inflamables y combustibles. Manual de primeros auxilios a bordo. Ley de prevención de riesgos laborales. Vocabulario marítimo de la Organización Marítima Internacional (OMI).
+Plan Nacional de Salvamento Marítimo y de lucha contra la contaminación. Convenio SOLAS (Sevimar). Manual MERSAR de búsqueda y rescate. MOB del GPS en caso de «hombre al agua». Manuales sobre materiales inflamables y combustibles. Manual de primeros auxilios a bordo. Normativa aplicable sobre prevención de riesgos laborales. Vocabulario marítimo de la Organización Marítima Internacional (OMI). Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
 
 MÓDULO FORMATIVO 1: MANEJO DEL SISTEMA DE BOMBEO EN BUQUES
 
@@ -332,67 +336,71 @@ Código: MF0733_1
 
 Asociado a la UC: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo
 
-Duración: 60
-
-horas
+Duración: 60 horas
 
 Capacidades y criterios de evaluación:
 
-C1: Reconocer y aplicar las medidas a tomar en caso de abandono de buque y supervivencia en la mar, según las órdenes recibidas ó lo dispuesto en el cuadro orgánico del buque, con el fin de prevenir la seguridad de la vida humana en la mar.
+C1: Reconocer y aplicar las medidas a tomar en caso de abandono de buque y supervivencia en la mar, según las órdenes recibidas o lo dispuesto en el cuadro orgánico del buque, con el fin de prevenir la seguridad de la vida humana en la mar.
 
-CE1.1 Describir las medidas e identificar los medios y dispositivos salvavidas a utilizar, en caso de abandono de buque, de acuerdo con el plan de emergencia establecido, con el fin de salvaguardar la vida de las tripulaciones.
+CE1.1 Describir las medidas e identificar los medios y dispositivos salvavidas, dispositivos personales de salvamento y las embarcaciones de supervivencia a utilizar, en caso de abandono de buque, de acuerdo con el plan de emergencia establecido, con el fin de salvaguardar la vida de las tripulaciones.
 
-CE1.2 Enumerar las actuaciones a tomar en la mar y en las embarcaciones de supervivencia, siguiendo procedimientos náuticos establecidos, con el fin de proteger la vida humana en la mar.
+CE1.2 Enumerar las actuaciones a tomar en caso de abandono de buque, tanto en la mar como en las embarcaciones de supervivencia, siguiendo procedimientos náuticos establecidos, con el fin de proteger la vida humana en la mar.
 
 CE1.3 En un supuesto práctico de abandono de buque y supervivencia en la mar:
 
-– Colocarse un chaleco salvavidas, saltar al agua y nadar para subir a la balsa, siguiendo instrucciones y procedimientos establecidos, con el fin de lograr sobrevivir en la mar.
+- Colocarse un chaleco salvavidas, saltar al agua y nadar para subir a la balsa, siguiendo instrucciones y procedimientos establecidos, con el fin de lograr sobrevivir en la mar.
 
-– Adrizar una balsa salvavidas llevando el chaleco puesto, según procedimientos operacionales establecidos, para poder ser utilizada como medio de supervivencia.
+- Adrizar una balsa salvavidas llevando el chaleco puesto, según procedimientos operacionales establecidos, para poder ser utilizada como medio de supervivencia.
 
-– Utilizar el equipo de supervivencia de las embarcaciones, de acuerdo con las instrucciones y protocolos establecidos, con el fin de preservar la vida de las tripulaciones.
+- Utilizar el equipo de supervivencia de las embarcaciones, de acuerdo con las instrucciones y protocolos establecidos, con el fin de preservar la vida de las tripulaciones.
 
-CE1.4 Interpretar mensajes orales o escritos en inglés normalizado (OMI).
+CE1.4 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).
 
 C2: Identificar y adoptar las medidas, y utilizar los medios de prevención y lucha contra-incendios, siguiendo las instrucciones del plan de emergencia, para preservar la seguridad del buque y su tripulación.
 
-CE2.1 Enumerar las medidas a tomar para evitar que se origine un incendio a bordo, siguiendo las instrucciones y recomendaciones establecidas.
+CE2.1 Enumerar las medidas a tomar para prevenir que se origine un incendio a bordo, siguiendo las instrucciones y recomendaciones establecidas.
 
-CE2.2 Describir los dispositivos y medios de lucha contra-incendios y las vías de evacuación, con el fin de ser utilizados en este tipo de emergencias, de acuerdo con lo establecido en cuadro orgánico del buque.
+CE2.2 Describir el proceso secuencial de simulacro de abandono de buque, teniendo en cuenta un proceso establecido en un manual de gestión de la seguridad, según el Código de Gestión de la Seguridad.
 
-CE2.3 En un supuesto práctico de incendio a bordo:
+CE2.3 Describir los dispositivos y medios de lucha contra-incendios y las vías de evacuación, con el fin de ser utilizados en este tipo de emergencias, de acuerdo con lo establecido en cuadro orgánico del buque.
 
-– Proceder a la extinción de un incendio, por medio de agentes extintores, teniendo en cuenta el tipo y fuente de ignición, con el fin de evitar su propagación y lograr su extinción.
+CE2.4 En un supuesto práctico de incendio a bordo:
 
-– Utilizar el aparato respiratorio autónomo para la extinción de un incendio y en operaciones de rescate, siguiendo los procedimientos y protocolos establecidos, para conseguir su extinción y el rescate de tripulantes en peligro.
+- Proceder a la extinción de un incendio, por medio de agentes extintores, teniendo en cuenta el tipo y fuente de ignición, con el fin de evitar su propagación y lograr su extinción.
 
-CE2.4 Describir los distintos tipos de fuegos y elementos que intervienen en estos y las condiciones propicias para que puedan producirse.
+- Utilizar el aparato respiratorio autónomo en la extinción de un incendio y en operaciones de rescate, siguiendo los procedimientos y protocolos establecidos, para conseguir su extinción y el rescate de tripulantes en peligro.
+
+CE2.5 Describir los tipos de fuegos, elementos que intervienen en estos y las condiciones propicias para que puedan producirse.
 
 C3: Valorar el estado físico aparente de las víctimas de accidente a bordo, aplicando las medidas urgentes de asistencia sanitaria, siguiendo procedimientos establecidos, con el fin de minimizar los daños.
 
-CE3.1 Relacionar los útiles, material de curas y medicamentos utilizados a bordo del buque, para situaciones de emergencia con accidentados, disponibles en el botiquín de primeros auxilios.
+CE3.1 Describir el proceso de exploración elemental y la toma de constantes vitales del paciente con el fin de recoger síntomas y signos de pulso, respiración, dolor, temperatura y reflejo pupilar, entre otros, para elaborar una historia cínica básica.
 
-CE3.2 En un supuesto práctico:
+CE3.2 En un supuesto práctico de accidente a bordo:
 
-– Aplicar el tratamiento y cuidado con accidentados a bordo, en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, siguiendo procedimientos y protocolos médicos establecidos, para minimizar los daños a los pacientes.
+- Aplicar el tratamiento y cuidado con accidentados a bordo, en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, siguiendo procedimientos y protocolos médicos establecidos, para minimizar los daños a los pacientes.
 
-CE3.3 En un supuesto práctico:
+CE3.3 En un supuesto práctico de accidente a bordo:
 
-– Actuar aplicando técnicas de inmovilización y vendajes en casos de traumatismos, rescate y transporte de accidentados, de acuerdo con procedimientos y protocolos médicos establecidos, para evitar daños a los accidentados y facilitar su evacuación.
+- Actuar aplicando técnicas de inmovilización y vendajes en casos de traumatismos, rescate y transporte de accidentados, de acuerdo con procedimientos y protocolos médicos establecidos, para evitar daños a los accidentados y facilitar su evacuación.
 
-C4: Describir las medidas a tomar y los medios a emplear según la normativa establecida al respecto, para proteger la seguridad personal y evitar la contaminación marina.
+CE3.4 Identificar y enumerar los útiles, material de curas y medicamentos utilizados a bordo del buque, para situaciones de emergencia con accidentados, disponibles en el botiquín reglamentario de primeros auxilios según el tipo de buque.
 
-CE4.1 Explicar la información relativa a la seguridad, utilizada para los equipos y medios de protección personal, ambiental y de socorro, interpretándola según la normativa establecida, con el fin de minimizar los riesgos al realizar trabajos a bordo.
+C4: Describir las medidas a tomar y los medios a emplear según la normativa aplicable al respecto, para preservar la seguridad personal y responsabilidades sociales; y evitar la contaminación marina.
 
-CE4.2 Relacionar los dispositivos y medios de protección personal, de acuerdo con la ley de prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.
+CE4.1 Explicar la información relativa al contenido de un plan de contingencia de buque, interpretándolo según la normativa aplicable, con el fin de minimizar los riesgos a bordo.
 
-CE4.3 Enumerar las medidas a tener en cuenta para proteger el medio marino y evitar su contaminación, según la normativa establecida.
+CE4.2 Identificar las señales de emergencia a bordo teniendo en cuenta el plan de contingencia con el fin de preservar la seguridad de la vida humana en la mar.
 
-CE4.4 Interpretar mensajes orales o escritos en inglés normalizado (OMI).
+CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la ley de prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.
+
+CE4.4 Enumerar las medidas a tener en cuenta para proteger el medio marino y evitar su contaminación, según la normativa aplicable.
+
+CE4.5 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).
 
 Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:
 
-C1 respecto a CE1.3; C2 respecto a CE2.3.
+C1 respecto a CE1.3; C2 respecto a CE2.4; C3 respecto a CE3.2 y CE3.3.
 
 Otras capacidades:
 
@@ -406,19 +414,21 @@ Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario de
 
 Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
 
-Interpretar las órdenes recibidas por el marinero de guardia de la cámara de máquinas, en español e inglés normalizado (OMI).
+Interpretar las órdenes recibidas por el marinero de guardia de la cámara de máquinas, en español y lenguaje normalizado de la Organización Marítima Internacional (OMI).
 
 Contenidos:
 
-1. Abandono de buque y supervivencia en la mar
+1. Técnicas de supervivencia personal
 
 Preparación para cualquier emergencia: cuadro orgánico.
 
 Procedimientos para abandonar el buque: actuación en el agua y medidas a bordo de las embarcaciones de supervivencia.
 
-Equipos de protección personal: Chalecos salvavidas. Aros salvavidas. Balsas salvavidas. Botes de rescate. Equipamiento térmico. Radiobalizas. Equipo de las embarcaciones de supervivencia. Peligros para los supervivientes.
+Equipos de protección personal: chalecos salvavidas, aros salvavidas, balsas salvavidas, botes de rescate, equipamiento térmico, radiobalizas, equipo de las embarcaciones de supervivencia, peligros para los supervivientes.
 
-2. Incendios en un buque
+2. Prevención y lucha contra incendios
+
+Incendios en un buque.
 
 Clasificación de los incendios.
 
@@ -438,7 +448,9 @@ Equipos de protección personal. Equipo de respiración autónoma.
 
 Métodos, agentes y procedimientos de lucha contra-incendios.
 
-3. Primeros auxilios en la mar
+3. Primeros auxilios básicos
+
+Primeros auxilios en la mar.
 
 Recursos sanitarios para los marinos.
 
@@ -456,7 +468,7 @@ Evaluación de una situación de emergencia.
 
 Botiquín reglamentario de a bordo.
 
-4. Seguridad en el trabajo en un buque
+4. Seguridad personal y responsabilidades sociales
 
 Tipos de peligros y emergencias que pueden producirse a bordo.
 
@@ -477,6 +489,8 @@ Equipos de protección personal y colectiva.
 Reglamentación en materia de prevención de riesgos laborales.
 
 Prevención de la contaminación del medio marino. Efectos de la contaminación accidental u operacional del medio marino.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
 
 Procedimientos de protección ambiental.
 
@@ -502,16 +516,18 @@ Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Aula polivalente de un mínimo de 2 m² por alumno.
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos, salud laboral, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
 
-Unidades móviles homologadas, simuladores y/o buque de prácticas. (Espacio singular no necesariamente ubicado en el centro de formación)
+- Instalación de 2 m² por alumno o alumna.
 
-Perfil profesional del formador:
+Perfil profesional del formador o formadora:
 
-1. Dominio de los conocimientos y las técnicas relacionados con la actuación en emergencias marítimas y la aplicación de las normas de seguridad en el trabajo, que se acreditará mediante una de las formas siguientes:
+1. Dominio de los conocimientos y las técnicas relacionados con la actuación en emergencias marítimas y la aplicación de las normas de seguridad en el trabajo, que se acreditará mediante una de las dos formas siguientes:
 
-– Formación académica de Diplomado o de otras de superior nivel relacionadas con este campo profesional.
+- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
 
-– Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
 
 2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+> Se modifica la unidad de competencia «UC0733_1» y el módulo formativo asociado «MF0733_1» por los que figuran en el anexo I de la Orden EFP/953/2020, de 12 de octubre, según establece el art. 5.3 de la misma. Ref. BOE-A-2020-12259
