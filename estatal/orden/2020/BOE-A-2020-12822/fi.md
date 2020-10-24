@@ -1,0 +1,1 @@
+Madrid, 20 de octubre de 2020.–El Ministro de Justicia, Juan Carlos Campo Moreno.
