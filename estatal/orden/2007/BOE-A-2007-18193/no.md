@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 290, de 4 de diciembre de 2007. Ref. BOE-A-2007-20782.
+Norma derogada, con efectos de 24 de octubre de 2020, por la disposición derogatoria única.d) de la Orden ICT/155/2020, de 7 de febrero. Ref. BOE-A-2020-2573#dd.

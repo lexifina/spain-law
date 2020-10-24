@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 12, de 14 de enero de 2011. Ref. BOE-A-2011-695.
+Norma derogada, con efectos de 24 de octubre de 2020, por la disposición derogatoria única.m) de la Orden ICT/155/2020, de 7 de febrero. Ref. BOE-A-2020-2573#dd.

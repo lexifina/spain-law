@@ -1,1 +1,1 @@
-> Incluye las correcciones de errores y erratas publicadas en BOE núms. 57, de 6 de marzo de 2010 Ref. BOE-A-2010-3692 y 277, de 16 de noviembre de 2010 Ref. BOE-A-2010-17576.
+Norma derogada, con efectos de 24 de octubre de 2020, por la disposición derogatoria única.g) de la Orden ICT/155/2020, de 7 de febrero. Ref. BOE-A-2020-2573#dd.
