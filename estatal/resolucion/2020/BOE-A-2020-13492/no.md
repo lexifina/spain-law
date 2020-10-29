@@ -1,0 +1,1 @@
+Téngase en cuenta que la prórroga del estado de alarma, declarado por el Real Decreto 926/2020, de 25 de octubre, que se autoriza por el presente Acuerdo, se extendió hasta las 00:00 horas del día 9 de mayo de 2021, por lo que debe entenderse que ha perdido su vigencia.

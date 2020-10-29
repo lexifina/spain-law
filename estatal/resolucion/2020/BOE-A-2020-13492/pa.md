@@ -1,0 +1,43 @@
+De conformidad con lo dispuesto en el artículo 116.2 de la Constitución, y a la vista de la solicitud comunicada mediante acuerdo del Consejo de Ministros, de 27 de octubre de 2020, el Congreso de los Diputados, en su sesión del día de hoy, acordó autorizar la prórroga del estado de alarma declarado por el Real Decreto 926/2020, de 25 de octubre, por el que se declara el estado de alarma para contener la propagación de infecciones causadas por el SARS-CoV-2 en los siguientes términos:
+
+## Primero.
+
+Se autoriza la prórroga del estado de alarma declarado por el Real Decreto 926/2020, de 25 de octubre, por el que se declara el estado de alarma para contener la propagación de infecciones causadas por el SARS-CoV-2.
+
+## Segundo.
+
+La prórroga se extenderá desde las 00:00 horas del día 9 de noviembre de 2020 hasta las 00:00 horas del día 9 de mayo de 2021.
+
+## Tercero.
+
+La prórroga se someterá a las condiciones establecidas en el Real Decreto 926/2020, de 25 de octubre, por el que se declara el estado de alarma para contener la propagación de infecciones causadas por el SARS-CoV-2 y en los Decretos que, en su caso, se adopten en uso de la habilitación conferida por la disposición final primera del citado Real Decreto 926/2020, de 25 de octubre, sin perjuicio de lo que se establece en los apartados siguientes.
+
+## Cuarto.
+
+Se acuerda la modificación por el Gobierno de los artículos 9, 10 y 14 así como la adición de una nueva disposición adicional del Real Decreto 926/2020, de 25 de octubre, por el que se declara el estado de alarma para contener la propagación de infecciones causadas por el SARS-CoV-2, con el siguiente tenor:
+
+> «Artículo 9. Eficacia de las limitaciones.
+
+> Las medidas previstas en los artículos 5, 6, 7 y 8 serán eficaces en el territorio de cada comunidad autónoma o ciudad con Estatuto de autonomía cuando la autoridad competente delegada respectiva así lo determine a la vista de la evolución de los indicadores sanitarios, epidemiológicos, sociales, económicos y de movilidad, previa comunicación al Ministerio de Sanidad y de acuerdo con lo previsto en el artículo 13. La eficacia de la medida no podrá ser inferior a siete días naturales.
+
+> La medida prevista en el artículo 6 no afecta al régimen de fronteras. Sin perjuicio de lo anterior, en el caso de que dicha medida afecte a un territorio con frontera terrestre con un tercer Estado, la autoridad competente delegada lo comunicará con carácter previo al Ministerio del Interior y al Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.
+
+> Artículo 10. Flexibilización y suspensión de las limitaciones.
+
+> La autoridad competente delegada en cada comunidad autónoma o ciudad con Estatuto de autonomía podrá, en su ámbito territorial, a la vista de la evolución de los indicadores sanitarios, epidemiológicos, sociales, económicos y de movilidad, previa comunicación al Ministerio de Sanidad y de acuerdo con lo previsto en el artículo 13, modular, flexibilizar y suspender la aplicación de las medidas previstas en los artículos 5, 6, 7 y 8, con el alcance y ámbito territorial que determine. La regresión de las medidas hasta las previstas en los mencionados artículos se hará, en su caso, siguiendo el mismo procedimiento.»
+
+> «Artículo 14. Rendición de cuentas.
+
+> El Presidente del Gobierno solicitará su comparecencia ante el Pleno del Congreso de los Diputados, cada dos meses, para dar cuenta de los datos y gestiones del Gobierno de España en relación a la aplicación del Estado de Alarma.
+
+> El Ministro de Sanidad solicitará su comparecencia ante la Comisión de Sanidad y Consumo del Congreso de los Diputados, con periodicidad mensual, para dar cuenta de los datos y gestiones correspondientes a su departamento en relación a la aplicación del Estado de Alarma.
+
+> Asimismo, trascurridos cuatro meses de vigencia de esta prórroga, la conferencia de presidentes autonómicos podrá formular al Gobierno una propuesta de levantamiento del Estado de Alarma, previo acuerdo favorable del Consejo Interterritorial del Sistema Nacional de Salud a la vista de la evolución de los indicadores sanitarios, epidemiológicos, sociales y económicos.»
+
+> «Disposición adicional.
+
+> Durante la vigencia del presente estado de alarma causado por el COVID-19, y a sus efectos, aquellos municipios que constituyen enclaves recibirán el tratamiento propio de la provincia que les circunda, sin que sea obstáculo que esta pertenezca a Comunidad Autónoma distinta a la de aquellos.»
+
+## Quinto.
+
+La medida prevista en el artículo 5 del Real Decreto 926/2020, de 25 de octubre, conservará su eficacia, en los términos previstos con anterioridad al comienzo de la prórroga autorizada, en tanto que la autoridad competente delegada que corresponda no determine, de acuerdo con el artículo 10 del Real Decreto 926/2020, de 25 de octubre, su modulación, flexibilización o suspensión.
