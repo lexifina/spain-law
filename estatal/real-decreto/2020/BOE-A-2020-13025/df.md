@@ -1,0 +1,7 @@
+## Disposición final primera. Modificación del Reglamento de ordenación de la enseñanza en la Guardia Civil, aprobado por el Real Decreto 131/2018, de 16 de marzo.
+
+Los apartados 5 y 6 del artículo 81 del Reglamento de ordenación de la enseñanza en la Guardia Civil, aprobado por el Real Decreto 131/2018, de 16 de marzo, quedan redactados en los siguientes términos:
+
+«5. Los alumnos a los que se refiere el presente artículo cotizarán al Instituto Social de las Fuerzas Armadas (ISFAS) según lo establecido en el texto refundido de la Ley sobre Seguridad Social de las Fuerzas Armadas, aprobado por el Real Decreto Legislativo 1/2000, de 9 de junio, en función del grupo retributivo o haber regulador correspondiente, y estarán sujetos al Régimen General de la Seguridad Social o al Régimen Especial de Clases Pasivas del Estado, según les corresponda, en virtud de lo establecido en la disposición adicional tercera del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, sin perjuicio del régimen de las pensiones extraordinarias previsto en la normativa de Clases Pasivas del Estado.
+
+6. Los alumnos que adquieran la condición de guardia civil después de superar la enseñanza de formación en los centros docentes de formación correspondientes seguirán incluidos en el régimen de la Seguridad Social que les corresponda según lo dispuesto en el párrafo anterior, sin perjuicio del régimen de las pensiones extraordinarias previsto en la normativa de Clases Pasivas del Estado.»
