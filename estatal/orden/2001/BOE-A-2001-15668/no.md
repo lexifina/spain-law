@@ -1,1 +1,1 @@
-Se declara expresamente la vigencia de esta Orden por la disposición derogatoria única.2 de la Ley 9/2013, de 4 de julio. Ref. BOE-A-2013-7320#dd.
+Norma derogada, con efectos de 31 de octubre de 2020, por la disposición derogatoria única.d) del Real Decreto 929/2020, de 27 de octubre. Ref. BOE-A-2020-13115#dd

@@ -1,5 +1,5 @@
 ## Disposición adicional tercera. Designación de los miembros del Comité de Regulación Ferroviaria.
 
-El Presidente y los vocales del Comité de Regulación Ferroviaria serán nombrados dentro de los dos meses siguientes a la entrada en vigor de este real decreto.
+(Suprimida).
 
-En la primera sesión que celebre, el Comité designará a su Secretario.
+> Se suprime por la disposición final 4.1 del Real Decreto 929/2020, de 27 de octubre. Ref. BOE-A-2020-13115#df-4
