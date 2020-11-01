@@ -1,28 +1,34 @@
 ## ANEXO
 
-Terceros países cuyos residentes no se ven afectados por la restricción temporal de viajes no imprescindibles a la UE a través de las fronteras exteriores en los términos recogidos en la presente Orden:
+Terceros países y regiones administrativas especiales cuyos residentes no se ven afectados por la restricción temporal de viajes no imprescindibles a la UE a través de las fronteras exteriores en los términos recogidos en la presente Orden:
+
+I. Estados:
 
 1. Australia.
 
-2. Canadá.
+2. Japón.
 
-3. Georgia.
+3. Nueva Zelanda.
 
-4. Japón.
+4. Ruanda.
 
-5. Nueva Zelanda.
+5. Singapur.
 
-6. Ruanda.
+6. Corea del Sur.
 
-7. Corea del Sur.
+7. Tailandia.
 
-8. Tailandia.
+8. Uruguay.
 
-9. Túnez.
+9. China.
 
-10. Uruguay.
+II. Regiones administrativas especiales de la República Popular China:
 
-11. China.
+RAE de Hong Kong.
+
+RAE de Macao.
+
+> Se modifica por el art. único.4 de la Orden INT/1006/2020, de 29 de octubre. Ref. BOE-A-2020-13201
 
 > Se modifica por el art. único.2 de la Orden INT/805/2020, de 28 de agosto. Ref. BOE-A-2020-10046
 
