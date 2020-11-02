@@ -11,3 +11,5 @@
 5. El número total de beneficiarios del Bono Social Térmico se determinará en función de los consumidores a los que se refieren los apartados 2 y 4 de la presente disposición que no hubieran presentado renuncia a la ayuda en el plazo concedido. La cantidad consignada en la partida presupuestaria correspondiente se distribuirá entre todos los beneficiarios según la metodología prevista en el Anexo I del presente real decreto-ley.
 
 6. La cantidad que con arreglo a los dispuesto en el apartado anterior corresponda percibir a cada uno de los beneficiarios del bono social térmico será abonada por el Ministerio para la Transición Ecológica en forma de pago único mediante una transferencia bancaria.
+
+> Téngase en cuenta que esta disposición se declara inconstitucional en los términos del fundamento jurídico 7 de la Sentencia del TC 134/2020, de 23 de septiembre. Ref. BOE-A-2020-13463
