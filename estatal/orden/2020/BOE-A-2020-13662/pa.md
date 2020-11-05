@@ -1,0 +1,3 @@
+El Consejo de Seguridad Nacional, en su reunión del día 6 de octubre de 2020, ha aprobado un acuerdo por el que se aprueba el procedimiento para la elaboración de una nueva Estrategia de Seguridad Energética Nacional.
+
+Para general conocimiento se dispone su publicación en el «Boletín Oficial del Estado» como anejo a la presente Orden.
