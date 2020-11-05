@@ -1,0 +1,19 @@
+## Disposición final primera. Modificación del Real Decreto 216/2014, de 28 de marzo, por el que se establece la metodología de cálculo de los precios voluntarios para el pequeño consumidor de energía eléctrica y su régimen jurídico de contratación.
+
+Se modifica el artículo 12 del Real Decreto 216/2014, de 28 de marzo, por el que se establece la metodología de cálculo de los precios voluntarios para el pequeño consumidor de energía eléctrica y su régimen jurídico de contratación, que queda redactado en los siguientes términos:
+
+«El valor del coste correspondiente a otros costes asociados al suministro en el periodo tarifario p, OCh, se calculará de acuerdo con la siguiente fórmula:
+
+OCh = CCOMh + CCOSh + CAPh + INTh+ EDSRh
+
+Siendo:
+
+CCOMh: Cuantía relativa al pago de los comercializadores para la financiación de la retribución del Operador del Mercado Ibérico de Energía, Polo Español, expresada en euros/MWh y fijada de acuerdo a la normativa en vigor en cada momento. Esta cuantía será la misma para todas las horas y periodos tarifarios.
+
+CCOSh: Cuantía relativa al pago de los comercializadores para la financiación de la retribución del Operador del Sistema, expresada en euros/MWh y fijada de acuerdo con la normativa de aplicación. Esta cuantía será la misma para todas las horas y periodos tarifarios.
+
+CAPh: Pago de los mecanismos de capacidad de generación correspondiente al consumo en la hora h, expresado en euros/MWh, y fijados de acuerdo con la normativa de aplicación en cada momento.
+
+INTh: Cuantía horaria relativa al pago de los comercializadores de referencia para la financiación del servicio de interrumpibilidad expresada en euros/MWh de acuerdo a lo previsto en la normativa de aplicación. Este precio será calculado por el operador del sistema y publicado el día anterior al del suministro, para cada una de las 24 horas del día siguiente.
+
+EDSRh: Cuantía relativa al pago o cobro de los comercializadores por el excedente o déficit de la liquidación de energía de subastas de renovables expresada en euros/MWh. Este precio será calculado por el operador del sistema y publicado el día anterior al del suministro, para cada una de las 24 horas del día siguiente; a estos efectos el Operador del Mercado comunicará al Operador del Sistema el importe horario del excedente o déficit económico resultante de liquidar la diferencia entre los precios del mercado diario y de la primera sesión del mercado intradiario respecto al precio establecido para cada instalación. El Operador del Sistema calculará esta componente con el método establecido en el procedimiento de operación P.O: 14.12 Estimación del coste de los componentes del precio voluntario para el pequeño consumidor.»
