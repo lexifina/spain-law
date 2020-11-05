@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Comunicaciones comerciales sobre finalidades benéficas o de interés general de entidades de naturaleza asociativa o fundacional vinculadas a operadores de juego.
+
+A las comunicaciones publicitarias, de imagen, de patrocinio y de promoción de las actividades de asociaciones de utilidad pública o de fundaciones que persigan finalidades benéficas o de interés general constituidas por o vinculadas a operadores de juego, incluidas las efectuadas en redes sociales, no les resultarán aplicables las disposiciones previstas en el Título I del presente Real Decreto, siempre que tales comunicaciones versen sobre dichas actividades y, además, en ellas no aparezcan referencias a la actividad o a productos de juego.
