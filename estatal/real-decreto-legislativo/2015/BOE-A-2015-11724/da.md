@@ -34,6 +34,8 @@ b) En los supuestos del apartado 1.b) se exigirá que el trabajador haya acredit
 
 La búsqueda activa de empleo, de conformidad con lo establecido en el artículo 41 de la Ley de Empleo aprobada por Real Decreto Legislativo 3/2015, de 23 de octubre, se acreditará por el solicitante del subsidio extraordinario ante el servicio público de empleo competente en materia de políticas activas de empleo, en el que se encuentre inscrito como demandante de empleo, que deberá conservar la justificación documental aportada para su posterior fiscalización y seguimiento.
 
+> Téngase en cuenta que, hasta el 31 de enero de 2021, queda suspendida la aplicación de lo dispuesto en los párrafos a) y b) del apartado 4, de forma que para ser beneficiario del subsidio extraordinario por desempleo no se exigirá a sus solicitantes que acrediten haber realizado previamente acciones de búsqueda activa de empleo, según establece la disposición adicional 1 del Real Decreto-ley 32/2020, de 3 de noviembre. Ref. BOE-A-2020-13490#da
+
 5. Una vez dictada la resolución reconociendo el derecho al subsidio extraordinario, los beneficiarios podrán percibirlo de acuerdo con lo establecido en los siguientes párrafos:
 
 a) La duración máxima del subsidio será de 180 días y no podrá percibirse en más de una ocasión.
@@ -43,6 +45,8 @@ b) La cuantía del subsidio será igual al 80 por ciento del indicador público 
 c) El pago periódico de la ayuda económica se realizará por el Servicio Público de Empleo Estatal dentro del mes siguiente al que corresponda el devengo.
 
 6. En lo no previsto expresamente en esta disposición se estará a lo dispuesto en el Título III.
+
+> Se suspende hasta el 31 de enero de 2021 la aplicación de lo dispuesto en los párrafos a) y b) del apartado 4, por la disposición adicional 1 del Real Decreto-ley 32/2020, de 3 de noviembre. Ref. BOE-A-2020-13490#da
 
 > Se deroga el apartado 7 por la disposición derogatoria única.2.d) del Real Decreto-ley 28/2018, de 28 de diciembre. Ref. BOE-A-2018-17992#dd
 
