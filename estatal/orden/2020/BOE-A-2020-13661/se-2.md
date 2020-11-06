@@ -1,0 +1,7 @@
+## Segundo. Comisión de Alto Nivel.
+
+Bajo la dependencia directa del Consejo de Seguridad Nacional se constituye la Comisión de Alto Nivel para la elaboración de la Estrategia de Seguridad Nacional, que presidirá el Director del Gabinete de la Presidencia del Gobierno, asistido en calidad de vicepresidente por el Director del Departamento de Seguridad Nacional del Gabinete de la Presidencia del Gobierno.
+
+La Comisión de Alto Nivel estará integrada, como vocales, por los miembros que se designen con rango de Secretario Estado o Subsecretario por los respectivos titulares del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática, Ministerio de Derechos Sociales y Agenda 2030, Ministerio de Asuntos Económicos y Transformación Digital, Ministerio para la Transición Ecológica y el Reto Demográfico, Ministerio de Asuntos Exteriores, Unión Europea y Cooperación, Ministerio de Justicia, Ministerio de Defensa, Ministerio de Hacienda, Ministerio del Interior, Ministerio de Transportes, Movilidad y Agenda Urbana, Ministerio de Educación y Formación Profesional, Ministerio de Industria, Comercio y Turismo, Ministerio de Agricultura, Pesca y Alimentación, Ministerio de Política Territorial y Función Pública, Ministerio de Sanidad, Ministerio de Ciencia e Innovación y Ministerio de Inclusión, Seguridad Social y Migraciones.
+
+Además, serán vocales de la Comisión de Alto Nivel el Secretario de Estado de Comunicación y la Secretaria de Estado Directora del Centro Nacional de Inteligencia.
