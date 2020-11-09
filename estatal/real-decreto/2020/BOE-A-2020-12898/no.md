@@ -1,0 +1,3 @@
+Téngase en cuenta que el estado de alarma, declarado por el presente Real Decreto, finalizó a las 00:00 horas del día 9 de mayo de 2021, por lo que debe entenderse que esta norma ha perdido su vigencia.
+
+Queda prorrogado el estado de alarma, declarado por el presente Real Decreto, desde las 00:00 horas del día 9 de noviembre de 2020 hasta las 00:00 horas del día 9 de mayo de 2021 y se someterá a las condiciones establecidas en el mismo y en los decretos que, en su caso, se adopten en uso de la habilitación conferida por su disposición final primera, según establecen los arts. 1 y 2 del Real Decreto 956/2020, de 3 de noviembre, Ref. BOE-A-2020-13494#a1.
