@@ -1,0 +1,5 @@
+## Disposición adicional sexta. Autorización de organizaciones respecto de otros convenios internacionales.
+
+El Secretario General de Transportes y Movilidad del Ministerio de Transportes, Movilidad y Agenda Urbana, a propuesta de la Dirección General de la Marina Mercante, podrá facultar a organizaciones reconocidas, de conformidad con lo dispuesto en el artículo 101.2 de la Ley 14/2014, de 24 de julio, de Navegación Marítima, sobre emisión de certificados de seguridad y organizaciones autorizadas, la realización de las actuaciones materiales, así como la emisión o renovación de los certificados exigidos por cualquier convenio internacional sobre seguridad marítima y prevención de la contaminación del medio marino que prevea esa posibilidad. En estos casos, el procedimiento para obtener la autorización observará los términos establecidos en el capítulo III, si bien omitiendo aquellos trámites que se hubieran cumplido para la obtención de la autorización previa.
+
+> Se añade por el art. 1.4 del Real Decreto 927/2020, de 27 de octubre. Ref. BOE-A-2020-13021#ap

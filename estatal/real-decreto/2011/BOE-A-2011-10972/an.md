@@ -78,7 +78,7 @@ l) Enmiendas.
 
 a) Tipo y tamaño del buque.
 
-b) Convenios y otros instrumentos, incluida la legislación nacional pertinente.
+b) Convenios y otros instrumentos, incluida la legislación nacional y de la Unión Europea pertinente.
 
 c) Aprobación de planos.
 
@@ -105,3 +105,5 @@ c) Acceso a la documentación de la organización sobre la flota de la Administr
 d) Cooperación con la inspección y labor de verificación de la Administración.
 
 e) Provisión de información y estadísticas sobre, por ejemplo, los daños y siniestros de la flota de la Administración.
+
+> Se modifica el apartado 9.b) por el art. 1.6 del Real Decreto 927/2020, de 27 de octubre. Ref. BOE-A-2020-13021#ap
