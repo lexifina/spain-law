@@ -24,7 +24,7 @@ Se entenderá por «vehículo equipado con un cambio de velocidades manual» aqu
 
 Si el aspirante realiza la prueba de control de aptitudes y comportamientos con un vehículo de cambio automático, esta circunstancia se indicará en el permiso de conducción y sólo habilitará para la conducción de un vehículo de estas características.
 
-No obstante lo dispuesto en el párrafo anterior, no se indicará ninguna restricción a los vehículos con cambio automático en el permiso de conducción de las clases C, C + E, D o D + E, si el solicitante ya es titular de un permiso de conducción obtenido con un vehículo de cambio de velocidades manual en, al menos, una de las clases siguientes: B, B + E, C1, C1 + E, C, C + E, D1, D1 + E, D o D + E y haya efectuado durante la prueba de control de aptitudes y comportamientos en circulación en vía abiertas al tráfico general, las operaciones descritas en el último inciso del anexo V. B). 4. 4.
+No obstante lo dispuesto en el párrafo anterior, no se indicará ninguna restricción a los vehículos con cambio automático en el permiso de conducción de las clases B+E, C1, C1+E, C, C+E, D1, D1+E, D o D+E, si el solicitante ya es titular de un permiso de conducción obtenido con un vehículo de cambio de velocidades manual en, al menos, una de las clases siguientes: B, B+E, C1, C1+E, C, C+E, D1, D1+E, D o D+E y haya efectuado durante la prueba de control de aptitudes y comportamientos en circulación en vía abiertas al tráfico general, las operaciones descritas en el último inciso del anexo V. B). 4. 4.
 
 5. Los turismos, los camiones, los tractocamiones y los autobuses estarán provistos, además, de dobles mandos de freno, embrague y acelerador suficientemente eficaces y de un dispositivo acoplado a los pedales del doble mando, que deberá conectar el profesor o el acompañante al inicio de la prueba de control de aptitudes y comportamientos en circulación en vías abiertas al tráfico general y que acuse de forma eficaz cualquier utilización de dichos pedales por el profesor o acompañante mediante una señal acústica y otra óptica, de color rojo, visible en el tablero de instrumentos cuando sea accionado. Este dispositivo contará, además, con una luz adicional de color verde que permanecerá encendida cuando esté conectado. La intensidad y posición de las señales ópticas y acústicas en el tablero de instrumentos del vehículo deberá ser la adecuada, de forma tal que sean fácilmente perceptibles por el examinador.
 
@@ -60,7 +60,7 @@ Si están propulsadas por un motor de combustión interna deberán tener una cil
 
 Si están propulsadas por un motor eléctrico la relación potencia/peso será, al menos, de 0,08 kW/kg.
 
-4. Para el permiso de la clase A2, motocicletas de dos ruedas simples de, al menos 16 pulgadas en la rueda delantera, sin sidecar.
+4. Para el permiso de la clase A2, motocicletas de dos ruedas simples de, al menos, 15 pulgadas en la rueda delantera, sin sidecar.
 
 Si están propulsadas por un motor de combustión interna, deberán tener una cilindrada no inferior a 395 cm³, una potencia no inferior a 20 kW ni superior a 35 kW y una relación potencia/peso no superior a 0,2 kW/kg.
 
@@ -102,7 +102,9 @@ El compartimento de carga del remolque tendrá al menos 2 metros de ancho y 2 me
 
 17. Para la licencia de conducción que autorice a conducir los vehículos especiales agrícolas autopropulsados a que se refiere el artículo 6.1.b) se utilizará un conjunto compuesto por un tractor agrícola de ruedas, que tenga una masa en vacío superior a 1.000 kg y una longitud mínima de 3 metros, y un remolque agrícola de anchura no inferior a 2 metros, longitud, excluida la lanza, no inferior a 4 metros y una masa máxima autorizada superior a 750 kg.
 
-18. Como excepción a lo dispuesto en el apartado A). 7, para el permiso de las clases C1 + E, D1 + E y D + E, se podrán utilizar remolques de ejes centrales fijos.
+18. Como excepción a lo dispuesto en el apartado A) 7, para la licencia de conducción que autorice a conducir los vehículos especiales agrícolas autopropulsados a que se refiere el artículo 6.1 b) y para el permiso de las clases C1+E, C+E, D1+E y D+E, se podrán utilizar remolques de ejes centrales fijos.
+
+> Se modifica el punto 4 del apartado A) y los puntos 4 y 18 del apartado B) por el art. único.15 del Real Decreto 971/2020, de 10 de noviembre. Ref. BOE-A-2020-13970
 
 > Se suprime el punto 6 del apartado B) por el art. único.17 del Real Decreto 1055/2015, de 20 de noviembre. Ref. BOE-A-2015-12572.
 

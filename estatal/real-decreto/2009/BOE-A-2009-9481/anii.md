@@ -56,6 +56,8 @@ Reverso
 
 ## C) Modelo de permiso internacional para conducir
 
+La firma del Jefe Provincial de Tráfico (firma y sello) podrá ser sustituida por el sello del organismo autónomo Jefatura Central de Tráfico.
+
 Anverso
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/138/09481_007.png)
@@ -63,5 +65,7 @@ Anverso
 Reverso
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/138/09481_008.png)
+
+> Se añade un párrafo al inicio del apartado C) por el art. único.11 del Real Decreto 971/2020, de 10 de noviembre. Ref. BOE-A-2020-13970
 
 > Se modifica el apartado B) por el art.único.9 del Real Decreto 475/2013, de 21 de junio. Ref. BOE-A-2013-7422.

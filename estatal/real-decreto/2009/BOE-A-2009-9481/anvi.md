@@ -12,7 +12,7 @@ Las instalaciones, el terreno o pista especial o las vías de la localidad en la
 
 En la fecha señalada para la primera convocatoria de las pruebas de control de aptitudes y comportamientos, el solicitante deberá haber cumplido la edad mínima exigida para obtener el permiso o licencia de conducción de la clase de que se trate.
 
-Cuando el aspirante no supere la prueba de que se trate en dos convocatorias, entre la segunda y la tercera mediará un plazo mínimo de doce días naturales. Entre las sucesivas convocatorias el plazo mínimo será de dieciocho días. Estos plazos, que se contarán desde la fecha de realización de la prueba no superada, podrán ser reducidos excepcionalmente en casos de reconocida urgencia debidamente justificada.
+Cuando el aspirante no supere la prueba de que se trate en dos convocatorias, entre la segunda y la tercera mediará un plazo mínimo de diez días. Entre las sucesivas convocatorias el plazo mínimo será de quince días. Estos plazos, que se contarán desde la fecha de realización de la prueba no superada, podrán ser reducidos excepcionalmente en casos de reconocida urgencia debidamente justificada.
 
 3. Identificación del aspirante y del personal directivo o docente.–Para la realización de las pruebas de control de aptitudes y comportamientos o actuaciones con ellas relacionadas, tanto los aspirantes como el personal directivo o docente de la Escuela o Sección donde aquellos hayan realizado el aprendizaje deberán identificarse ante los funcionarios, para lo que éstos en cualquier momento, podrán exigir a los aspirantes la presentación del Documento Nacional de Identidad, del pasaporte, de la tarjeta de residencia o del permiso de conducción, según proceda, y al personal directivo o docente, la de la autorización de ejercicio.
 
@@ -26,27 +26,29 @@ El aspirante que, durante la realización de la prueba de control de conocimient
 
 ## B) Pruebas de control de conocimientos comunes y específicos
 
-1. Número de preguntas.–El número de preguntas planteadas en las pruebas de control de conocimientos será:
+1. Número de preguntas. El número de preguntas planteadas en las pruebas de control de conocimientos será:
 
 a) En la prueba de control de conocimientos común, un mínimo de 30 preguntas y un máximo de 50.
 
-b) En la prueba de control de conocimientos sobre las materias descritas en la Orden INT/2596/2005, de 28 de julio, un mínimo de 30 preguntas y un máximo de 50.
+b) En la prueba de control de conocimientos sobre las materias descritas en la normativa reguladora de los cursos de sensibilización y reeducación vial, un mínimo de 30 preguntas y un máximo de 50.
 
 c) En cada una de las pruebas de control de conocimientos específicos, un mínimo de 16 preguntas y un máximo de 30.
 
 d) En la prueba de control de conocimientos para obtener licencia de conducción, un mínimo de 16 preguntas y un máximo de 30.
 
-El aspirante seleccionará las respuestas correctas a las preguntas planteadas que podrán ser de una a cuatro.
+El aspirante seleccionará las respuestas correctas a las preguntas planteadas, que podrán ser de una a cuatro.
 
-2. Duración de las pruebas.–El tiempo destinado a la realización de las pruebas de control de conocimientos a las que se refiere el artículo 47 será de 1 minuto por pregunta. En casos especiales, debidamente justificados, se podrá ampliar dicho tiempo.
+Las preguntas podrán estar precedidas por la visualización por parte del aspirante de vídeos sobre situaciones del tráfico.
 
-3. Calificación de las pruebas.–Para ser declarado apto en las pruebas de control de conocimientos, los errores permitidos no serán superiores al 20 por 100 del total de preguntas formuladas. En el supuesto de que al aplicar dicho tanto por ciento el resultado fuera decimal se aplicará el entero inmediato superior.
+2. Duración de las pruebas. El tiempo destinado a la realización de las pruebas de control de conocimientos a las que se refiere el artículo 47 será de 1 minuto por pregunta. Este tiempo podrá ser ampliado proporcionalmente al tiempo de duración de los videos a los que hace referencia el apartado anterior. Igualmente este tiempo podrá ser ampliado en casos de necesidades especiales del aspirante debidamente justificados.
+
+3. Calificación de las pruebas. Para ser declarado apto en las pruebas de control de conocimientos, los errores cometidos no serán superiores al 10 por 100 del total de preguntas formuladas. En el supuesto de que al aplicar dicho tanto por ciento el resultado fuera decimal se aplicará el entero inmediato superior.
 
 ## C) Pruebas de control de aptitudes y comportamientos en circuito cerrado y en circulación en vías abiertas al tráfico general
 
 1. Verificaciones.–Los examinadores podrán verificar, en cualquier momento de las pruebas o antes de iniciarse éstas, si los vehículos y, en su caso, los aparatos de control y los sistemas de comunicación presentados para su realización reúnen los requisitos exigidos. A tal efecto, podrán requerir la presentación de la documentación de los citados vehículos, que deberá ser facilitada por el personal directivo o docente de la Escuela.
 
-Asimismo, podrán verificar en cualquier momento que el aspirante dispone del equipo de protección o de seguridad adecuado que, en su caso proceda, así como que lleva las correcciones, prótesis o adaptaciones necesarias y que éstas son adecuadas.
+Asimismo, podrán verificar en cualquier momento que el aspirante dispone del equipo de protección adecuado que, en su caso proceda. Concretamente para los permisos de las categorías AM, A1 y A2 este equipo estará compuesto por: casco homologado; guantes; chaqueta y pantalones concebidos y fabricados para usarlos para montar en motocicleta, provistos de las correspondientes protecciones, al menos en espalda, hombros y codos para las chaquetas y rodillas en el caso de los pantalones; así como botas de cuero o material sintético similar que proteja suficientemente el tobillo. Podrá verificar también que el aspirante lleva las correcciones, prótesis o adaptaciones que correspondan, en caso de que fueran necesarias, y que estas son adecuadas.
 
 En el caso de que no funcionen adecuadamente o no reúnan los requisitos exigidos, el examinador determinará que la prueba no se inicie o se interrumpa, sin que ello implique pérdida de la convocatoria para el aspirante.
 
@@ -378,7 +380,7 @@ Maniobra N) Estacionamiento seguro para cargar o descargar
 
 Esta formación se realizará conduciendo sin acompañante una motocicleta de las características establecidas en el anexo VII, bajo la dirección y control inmediatos de un profesor de formación vial en posesión de la correspondiente autorización de ejercicio y del permiso de conducción en vigor de la clase A con más de 1 año de antigüedad.
 
-En dicha autorización, que tendrá un período de vigencia de seis meses, constarán, al menos, los datos de la escuela, el aspirante, el profesor y la matrícula de la motocicleta a utilizar, así como las fechas de expedición y vigencia.
+En dicha autorización, que tendrá un período de vigencia de dos años, constarán, al menos, los datos de la escuela particular de conductores, el aspirante, los profesores y las matrículas de las motocicletas a utilizar, así como las fechas de expedición y vigencia.
 
 El aspirante deberá llevar consigo la autorización durante la realización del aprendizaje y de la prueba de control de aptitudes y comportamientos en circulación en vías abiertas al tráfico general y deberá exhibirla cuando sea requerido por la autoridad o sus agentes o por los funcionarios de la Jefatura Provincial de Tráfico. Si no lo hiciera, no podrá realizar el aprendizaje ni la prueba ni el profesor impartirle la enseñanza o acompañarle durante dicha prueba.
 
@@ -453,6 +455,8 @@ El tiempo destinado a la realización de los ejercicios prácticos a que se refi
 3. Calificación de las pruebas.–Para ser declarado apto en las pruebas de control de conocimientos a que se refiere el artículo 68, los errores permitidos no serán superiores al 10 por 100 de la puntuación total de la prueba. En el supuesto de que al aplicar dicho tanto por ciento el resultado fuera decimal se aplicará el entero inmediato superior.
 
 En los ejercicios prácticos a que se refieren los artículos 64 y 68 será declarado no apto el aspirante que no demuestre manejar con dominio y soltura los diferentes medios, o no realice los ejercicios prácticos con la seguridad y precisión requeridas.
+
+> Se modifica el punto 2 del apartado A), el apartado B) y los puntos 1 y 6 del apartado C) por el art. único.14 del Real Decreto 971/2020, de 10 de noviembre. Ref. BOE-A-2020-13970
 
 > Se modifican los puntos 2.2 y 7.4.c) del apartado C) por el art. único.16 del Real Decreto 1055/2015, de 20 de noviembre. Ref. BOE-A-2015-12572.
 

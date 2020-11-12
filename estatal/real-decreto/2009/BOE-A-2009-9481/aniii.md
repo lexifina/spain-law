@@ -94,7 +94,7 @@ c) El documento que se indica en el apartado A).1 párrafo a), en el caso de que
 
 ## H) Prueba de control de conocimientos para la recuperación del permiso o la licencia de conducción
 
-De acuerdo con lo establecido en el artículo 38.2, para realizar la prueba de control de conocimientos para la recuperación del permiso o la licencia de conducción, a la solicitud suscrita por el interesado se acompañarán los documentos que se indican en el apartado A).1.párrafos a), b) y f), así como copia de la certificación prevista en el anexo b) de la Orden INT/2596/2005, de 28 de julio.
+De acuerdo con lo establecido en el artículo 38.2, para realizar la prueba de control de conocimientos para la recuperación del permiso o la licencia de conducción, a la solicitud suscrita por el interesado se acompañarán los documentos que se indican en el apartado A) 1 a), b) y f), así como copia de la certificación prevista en la normativa reguladora de los cursos de sensibilización y reeducación vial.
 
 ## I) Canje de los permisos de conducción expedidos por las escuelas y organismos militares y de la Dirección General de la Policía y de la Guardia Civil
 
@@ -111,5 +111,7 @@ a) Autorización especial que se pretende canjear acompañada de fotocopia. Si s
 b) Certificación acreditativa de hallarse en servicio activo o, en su caso, de la fecha en que se dejó de prestar.
 
 c) Permiso de conducción militar de la clase B con, al menos, un año de antigüedad, en el supuesto de que el permiso civil de esta clase que posea no la alcance.
+
+> Se modifica el apartado H) por el art. único.12 del Real Decreto 971/2020, de 10 de noviembre. Ref. BOE-A-2020-13970
 
 > Se modifica el apartado G) por el art.único.10 del Real Decreto 475/2013, de 21 de junio. Ref. BOE-A-2013-7422.
