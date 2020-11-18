@@ -22,7 +22,7 @@ Cuarto. Presentación de solicitudes.
 
 Las solicitudes se presentarán en el plazo máximo de quince días hábiles contados desde el día siguiente a la publicación del extracto de esta convocatoria en el «Boletín Oficial del Estado».
 
-La presentación de solicitudes se realizará únicamente a través del registro electrónico del Ministerio de Agricultura, Pesca y Alimentación, conforme al modelo normalizado que se acompaña como anexo I y que estará disponible en la sede electrónica de este Ministerio: (https://sede.mapa.gob.es/) y deberán acompañarse de la documentación indicada en el artículo 10.
+La presentación de solicitudes se realizará únicamente a través del registro electrónico del Ministerio de Agricultura, Pesca y Alimentación, conforme al modelo normalizado que se acompaña como anexo I y que estará disponible en la sede electrónica de este Ministerio: (https://sede.mapa.gob.es/) y deberán acompañarse de la documentación indicada en el artículo 9.
 
 La sede electrónica del Ministerio de Agricultura, Pesca y Alimentación admite certificados digitales reconocidos conforme al estándar ITU-T X.509 v3, emitidos por múltiples prestadores de servicios de certificación.
 
@@ -57,3 +57,5 @@ Cualquier persona que tenga conocimiento de hechos que pudieran ser constitutivo
 Noveno. Efectos.
 
 La presente disposición surtirá efectos desde el día siguiente al de la publicación del extracto de esta convocatoria en el «Boletín Oficial del Estado».
+
+> Se modifica el segundo párrafo del apartado cuarto por la disposición final 1.2 del Real Decreto 969/2020, de 10 de noviembre. Ref. BOE-A-2020-14323#df
