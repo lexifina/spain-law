@@ -1,8 +1,8 @@
 ## Artículo 63 quáter. Gestor de red independiente.
 
-1. Las empresas propietarias de instalaciones de la red troncal de gasoductos que no cumplan los requisitos de separación de actividades establecidos en el artículo 63.3, y que con anterioridad al 3 de septiembre de 2009 fuesen propietarios de dichas instalaciones, podrán optar por ceder la gestión de los mismos a un gestor de red independiente.
+1. Las empresas propietarias de instalaciones de la red troncal de gasoductos que no cumplan los requisitos de separación de actividades establecidos en el artículo 63.3, y que con anterioridad al 3 de septiembre de 2009 fuesen propietarios de dichas instalaciones, así como las que con anterioridad al 23 de mayo de 2019 fuesen propietarias de instalaciones de interconexión con países no miembros de la Unión Europea, podrán optar por ceder la gestión de los mismos a un gestor de red independiente.
 
-A estos efectos propondrán un gestor de red independiente entre las empresas que hayan obtenido la certificación de cumplimiento de los requisitos de separación de actividades de transporte y solicitarán al Ministro de Industria, Energía y Turismo su aprobación. Dicha designación estará supeditada a la aprobación de la Comisión Europea y podrá ser denegada en caso de que el gestor de red independiente no cumpla alguno de los requisitos establecidos en la presente Ley y su normativa de desarrollo.
+A estos efectos propondrán un gestor de red independiente entre las empresas que hayan obtenido la certificación de cumplimiento de los requisitos de separación de actividades de transporte y solicitarán al titular del Ministerio para la Transición Ecológica y el Reto Demográfico su aprobación. Dicha designación estará supeditada a la aprobación de la Comisión Europea y podrá ser denegada en caso de que el gestor de red independiente no cumpla alguno de los requisitos establecidos en la presente Ley y su normativa de desarrollo.
 
 2. El gestor de red independiente deberá:
 
@@ -39,6 +39,8 @@ e) No serán competentes para la concesión y gestión del acceso de terceros a 
 6. La Comisión Nacional de Energía controlará que el propietario de la red de transporte y el gestor de red independiente cumplen lo establecido en el presente artículo. A estos efectos podrá solicitar la información que considere necesaria para el ejercicio de sus funciones y realizar inspecciones, incluso sin previo aviso, de las instalaciones tanto del titular de las instalaciones de transporte como del gestor de red independiente.
 
 7. La Comisión Nacional de Energía actuará como órgano de resolución de conflictos entre el titular de la instalación de transporte y el gestor de red independiente, cuando uno de ellos lo reclame.
+
+> Se modifica el apartado 1 por la disposicion final 2.2 del Real Decreto-ley 34/2020, de 17 de noviembre. Ref. BOE-A-2020-14368#df-2
 
 > Se deja sin efecto la modificación del apartado 1 por Resolución de 10 de septiembre de 2020, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 27/2020, de 4 de agosto. Ref. BOE-A-2020-10491
 
