@@ -17,3 +17,5 @@ El remanente que exista después del anterior reparto se distribuirá proporcion
 2. Los fondos deberán destinarse a programas dirigidos a la erradicación de la violencia de género.
 
 3. Se habilita al Gobierno para que, por real decreto del Consejo de Ministros, modifique las cuantías a distribuir, los criterios y el procedimiento de distribución.
+
+> Véase el Real Decreto 1023/2020, de 17 de noviembre, por el que se actualizan las cuantías, los criterios y el procedimiento de distribución de las transferencias para el desarrollo de nuevas o ampliadas competencias reservadas a las entidades locales en el Pacto de Estado en materia de violencia de género. Ref. BOE-A-2020-14370
