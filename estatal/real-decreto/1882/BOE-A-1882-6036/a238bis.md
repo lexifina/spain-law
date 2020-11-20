@@ -10,4 +10,8 @@ Admitido a trámite el recurso de reposición, por el Secretario judicial se con
 
 Contra el decreto del Secretario judicial que resuelva el recurso de reposición no cabrá interponer recurso alguno.
 
+> Téngase en cuenta que el último párrafo ha sido declarado inconstitucional y nulo por Sentencia del TC 151/2020, de 22 de octubre. Ref. BOE-A-2020-14648
+
+> Se declara la inconstitucionalidad y nulidad del último párrafo por Sentencia del TC 151/2020, de 22 de octubre. Ref. BOE-A-2020-14648
+
 > Se añade por el art. 2.31 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493.

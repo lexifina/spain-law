@@ -288,6 +288,8 @@ Admitido a trámite el recurso de reposición, por el Secretario judicial se con
 
 Contra el decreto del Secretario judicial que resuelva el recurso de reposición no cabrá interponer recurso alguno.
 
+> Téngase en cuenta que el último párrafo del art. 238 bis ha sido declarado inconstitucional y nulo por Sentencia del TC 151/2020, de 22 de octubre. Ref. BOE-A-2020-14648
+
 Artículo 238 ter.
 
 El recurso de revisión se interpondrá ante el Juez o Tribunal con competencia funcional en la fase del proceso en la que haya recaído el decreto del Secretario judicial que se impugna, mediante escrito en el que deberá citarse la infracción en que ésta hubiere incurrido, autorizado con firma de Letrado y del que deberán presentarse tantas copias cuantas sean las demás partes personadas.
@@ -1117,3 +1119,5 @@ Ciento cincuenta y tres. El artículo 998 queda redactado como sigue:
 «Artículo 998.
 
 Las referidas diligencias se archivarán por el Secretario judicial que en ellas haya intervenido.»
+
+> Se declara la inconstitucionalidad y nulidad del último párrafo del art. 238 bis, en la redacción dada por el apartado 31, por Sentencia del TC 151/2020, de 22 de octubre. Ref. BOE-A-2020-14648
