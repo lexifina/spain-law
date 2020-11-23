@@ -1,0 +1,5 @@
+## Séptimo.
+
+Los pasajeros con una temperatura superior a 37,5 ºC y aquellos sobre los que se determine que existen sospechas de que pudieran padecer COVID-19 u otra patología transmisible tras el control visual o tras analizar la información contenida en el Formulario de Control Sanitario, en el caso de que éste indicase la presencia de síntomas o de contactos estrechos con COVID-19, deberán someterse a una evaluación sanitaria, que incluirá la valoración de su estado clínico y epidemiológico.
+
+Si tras la evaluación sanitaria se confirma la sospecha de que el pasajero padece una patología que pudiera suponer un riesgo para la salud pública, si se trata de un contacto estrecho de COVID-19 o si se obtiene un resultado positivo tras la realización de una PDIA para SARS-CoV-2, se activarán los protocolos de alerta sanitaria establecidos en coordinación con las autoridades sanitarias de las comunidades autónomas. Para ello la autoridad sanitaria podrá solicitar la colaboración de otros órganos administrativos, de personal funcionario público o de otras instituciones.
