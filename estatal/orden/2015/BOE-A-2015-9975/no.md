@@ -1,0 +1,1 @@
+Téngase en cuenta que queda sin efecto la presente Orden en relación a la participación en sus órganos y obligaciones de unidades dependientes del Ministerio de Derechos Sociales y Agenda 2030, con efectos de 24 de noviembre de 2020, según establece la disposición derogatoria única de la Orden DSA/1082/2020, de 13 de noviembre. Ref. BOE-A-2020-14693

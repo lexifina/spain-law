@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a lo establecido en la presente orden y en particular, en aquellas materias de ámbito competencial del Ministerio de Derechos Sociales y Agenda 2030, queda sin efecto la Orden SSI/1870/2015, de 10 de septiembre, por la que se crea y regula el funcionamiento de la Comisión Ministerial de Administración Digital del Ministerio de Sanidad, Servicios Sociales e Igualdad, en relación a la participación en sus órganos y obligaciones de unidades dependientes del Ministerio de Derechos Sociales y Agenda 2030.
