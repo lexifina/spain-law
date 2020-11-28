@@ -12,7 +12,7 @@ Las citadas cuantías podrán incrementarse hasta en un 50 % cuando los destinat
 
 2. Las ayudas previstas en el artículo 21 tendrán las siguientes cuantías:
 
-a) La ayuda en concepto de transporte público urbano y/o interurbano tendrá una cuantía máxima de 1,5 euros por día de asistencia.
+a) La ayuda en concepto de transporte público urbano tendrá una cuantía máxima de 1,5 euros por día de asistencia.
 
 b) La ayuda en concepto de transporte en vehículo propio tendrá una cuantía máxima por día de asistencia de 0,19 euros por kilómetro.
 
@@ -27,3 +27,5 @@ e) Los trabajadores desempleados que participen en acciones formativas transnaci
 Cuantía máxima de la compensación a empresas por la realización de prácticas profesionales no laborales.
 
 Las Administraciones Públicas competentes podrán destinar hasta un máximo de 6 euros por alumno y hora de prácticas para compensar la realización de las prácticas profesionales no laborales previstas en el artículo 19, en los términos y condiciones que aquéllas determinen.
+
+> Se modifica el apartado 2.a) por el art. único.4 de la Orden TES/1109/2020, de 25 de noviembre. Ref. BOE-A-2020-15063
