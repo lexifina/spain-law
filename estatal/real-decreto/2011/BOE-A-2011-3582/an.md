@@ -65,6 +65,8 @@
 | Caraluma burchardii | Cuernúa |  |  |
 | Ceropegia chrysantha |  |  |  |
 | Ceropegia dichotoma subsp.krainzii | Cardoncillo gomero |  |  |
+| Asteraceae |  |  |  |
+| Avellara fistulosa (Brot.) Blanca & C. Díaz. | Chicoria hueca |  | En peligro de extinción |
 | Boraginaceae |  |  |  |
 | Cerinthe glabra |  |  | En peligro de extinción |
 | Echium gentianoides | Taginaste palmero de cumbre |  |  |
@@ -218,6 +220,8 @@
 | Micropyropsis tuberosa |  |  |  |
 | Puccinellia pungens |  |  | Vulnerable |
 | Vulpia fontquerana |  |  | Vulnerable |
+| Hydrocharitaceae |  |  |  |
+| Hydrocharis morsus-ranae L. | Bocado de rana, Corazones de agua. |  | En peligro de extinción |
 | Iridaceae |  |  |  |
 | Iris boissieri |  |  |  |
 | Labiatae |  |  |  |
@@ -373,6 +377,8 @@
 | Daphne rodriguezi | Dafne menorquí |  | Vulnerable |
 | Thymelaea broteriana | Pajarera portuguesa |  |  |
 | Thymelaea lythroides |  |  | Vulnerable |
+| Typhaceae |  |  |  |
+| Sparganium natans L. | Esparganio acuático, Platanaria de agua |  | En peligro de extinción |
 | Umbelliferae |  |  |  |
 | Apium repens |  |  |  |
 | Apium bermejoi | Api d’En Bermejo |  | En peligro de extinción |
@@ -387,6 +393,7 @@
 | Thorella verticillatinundata |  |  |  |
 | Violaceae |  |  |  |
 | Viola cazorlensis |  |  |  |
+| Viola cheiranthifolia Humb. & Bonpl. | Violeta del Teide |  |  |
 | Viola jaubertiana |  |  |  |
 | Zannichelliaceae |  |  |  |
 | Cymodocea nodosa | Seba | Mediterráneo y Atlántico de la península Ibérica |  |
@@ -516,6 +523,7 @@
 | Patella ulyssiponensis aspera |  |  |  |
 | Schilderia achatidea |  | Mediterráneo |  |
 | Tonna galea | Tonel | Mediterráneo |  |
+| Tritia tingitana (Pallary, 1901). | Caracolilla de Tánger |  | Vulnerable |
 | Vertigo angustior |  |  |  |
 | Vertigo moulinsiana |  |  |  |
 | Zonaria pyrum |  | Mediterráneo |  |
@@ -868,6 +876,7 @@
 | GALLIFORMES |  |  |  |
 | Phasianidae |  |  |  |
 | Bonasa bonasia | Grévol |  |  |
+| Perdix perdix hispaniensis Reichenow, 1892. | Perdiz pardilla. | Sistema Ibérico | En peligro de extinción |
 | Tetraonidae |  |  |  |
 | Lagopus muta | Lagópodo alpino |  | Vulnerable |
 | Tetrao urogalus aquitanicus | Urogallo pirenaico |  | Vulnerable |
@@ -1151,6 +1160,9 @@
 | Emberiza schoeniclus schoeniclus | Escribano palustre |  |  |
 | Emberiza schoeniclus whiterby/lusitanica | Escribano palustre |  | En peligro de extinción |
 | Plectrophenax nivalis | Escribano nival |  |  |
+| PHAETONTIFORMES |  |  |  |
+| Phaetontidae |  |  |  |
+| Phaethon aethereus mesonauta Peters, J.L.,1930 | Rabijunco etéreo |  |  |
 | MAMÍFEROS |  |  |  |
 | ERINACEOMORPHA |  |  |  |
 | Erinaceidae |  |  |  |
@@ -1198,6 +1210,8 @@
 | Molossidae |  |  |  |
 | Tadarida teniotis | Murciélago rabudo |  |  |
 | RODENTIA |  |  |  |
+| Castoridae |  |  |  |
+| Castor fiber Linnaeus, 1758 | Castor europeo |  |  |
 | Gliridae |  |  |  |
 | Eliomys munbyanus | Lirón careto magrebí |  |  |
 | Muridae |  |  |  |
@@ -1247,7 +1261,7 @@
 | Steno bredanensis | Delfín de dientes rugosos |  |  |
 | Tursiops truncatus | Delfín mular |  | Vulnerable |
 | Phocoenidae |  |  |  |
-| Phocoena phocoena | Marsopa común |  | Vulnerable |
+| Phocoena phocoena (Linnaeus, 1758) | Marsopa común |  | En peligro de extinción |
 | Ziphiidae |  |  |  |
 | Hyperoodon ampulatus | Zifio calderón septentrional |  |  |
 | Mesoplodon densirostris | Zifio de Blainville |  |  |
@@ -1258,6 +1272,8 @@
 2 Todas las especies de las Familias Sphyrnidae (géneros Sphyrna y Eusphyra) y Alopiidae (género Alopias).
 
 (2) Incluyen todas las especies del género.
+
+> Se modifica por el art. 1 de la Orden TED/1126/2020, de 20 de noviembre. Ref. BOE-A-2020-15296
 
 > Se modifica por el art. único de la Orden TEC/596/2019, de 8 de abril. Ref. BOE-A-2019-8317
 

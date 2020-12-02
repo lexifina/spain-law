@@ -15,6 +15,7 @@
 | Gracilaria vermiculophylla (Ohmi) Papenfuss 1967. |  |  |
 | Grateloupia turuturu (Yamada, 1941). |  |  |
 | Lophocladia lallemandii (Montagne) F. Schmitz 1893. |  |  |
+| Rugulopteryx okamurae (E.Y. Dawson) I.K. Hwang, W.J. Lee & H.S. Kim 2009 |  | Alga asiática |
 | Sargassum muticum [(Yendo) Fensholt, 1955]. |  |  |
 | Stypopodium schimperi [(Buchinger ex Kützing) Verlaque & Boudouresque, 1991]. |  |  |
 | Undaria pinnatifida |  | Wakame |
@@ -22,6 +23,7 @@
 | Flora |
 | Acacia dealbata Link. | Excepto Canarias y Baleares. | Mimosa, acacia, acacia francesa. |
 | Acacia farnesiana (L.) Willd. | Canarias. | Acacia, aromo, carambuco, mimosa. |
+| Acacia melanoxylon (R.Br. in W.T.Aiton) |  | Acacia negra |
 | Acacia salicina Lindl. | Canarias. | Acacia de hoja de sauce. |
 | Agave americana L. |  | Pitera común. |
 | Ageratina adenophora (Spreng.) King & H. Rob. | Canarias. | Matoespuma. |
@@ -45,7 +47,7 @@
 | Cortaderia spp. |  | Hierba de la pampa, carrizo de la pampa. |
 | Cotula coronopifolia L. | Baleares. | Cotula. |
 | Crassula helmsii (Kirk) Cockayne. |  |  |
-| Cylindropuntia spp. |  | Cylindropuntia. |
+| Cylindropuntia spp. Dentro del género Cylindropuntia se consideran también las siguientes especies: Austrocylindropuntia cylindrica, A. floccosa, A. pachypus, A. shaferi, A. subulata, A. verschaffeltii y A. vestita, al tratarse de especies incluidas en este género en el momento de su incorporación en el Catálogo español de especies exóticas invasoras, y ser consideradas posteriormente como parte de otro género diferente. |  | Cylindropuntia. |
 | Cyrtomium falcatum (L. f.) C. Presl. | Canarias. | Helecho acebo. |
 | Cytisus scoparius (L.) Link. | Canarias. | Retama negra. |
 | Egeria densa Planch. |  | Elodea densa. |
@@ -118,6 +120,7 @@
 | Ommatoiulus moreletii (Lucas, 1860). | Canarias. | Milpiés portugués, milpiés cardador, milpiés invasor. |
 | Paratrechina longicornis (Latreille, 1802). |  | Hormiga loca. |
 | Paysandisia archon (Burmeister, 1880). |  | Oruga perforadora de palmeras. |
+| Reticulitermes flavipes Kollar, 1837 |  | Termita subterránea oriental. |
 | Rhynchophorus ferrugineus (Olivier, 1790). |  | Picudo rojo, gorgojo de las palmeras. |
 | Tapinoma melanocephalum (Fabricius, 1793). |  | Hormiga fantasma. |
 | Vespa spp. (especies no europeas ). |  |  |
@@ -210,6 +213,8 @@
 – spp. Se refiere a todos los niveles taxonómicos infra-genéricos.
 
 1 Excepto Sciurus vulgaris y Marmota marmota.
+
+> Se modifica por el art. 2 de la Orden TED/1126/2020, de 20 de noviembre. Ref. BOE-A-2020-15296
 
 > Se modifica por la disposición final 1.5 y 6 del Real Decreto 216/2019, de 29 de marzo. Ref. BOE-A-2019-4675#df
 
