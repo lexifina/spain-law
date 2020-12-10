@@ -1,0 +1,3 @@
+## Primero. Modalidades de Pruebas Diagnósticas de Infección Activa para SARS-CoV-2 admitidas en relación con el apartado cuarto y el párrafo final del apartado sexto de la Resolución de 11 de noviembre de 2020, de la Dirección General de Salud Pública.
+
+Se establecen como modalidades admitidas de Pruebas Diagnósticas de Infección Activa para SARS-CoV-2, en relación con el apartado cuarto y el párrafo tercero del apartado sexto de la Resolución de 11 de noviembre de 2020, de la Dirección General de Salud Pública, relativa a los controles sanitarios a realizar en los puntos de entrada de España, la prueba PCR (RT-PCR), la TMA y otras pruebas basadas en técnicas moleculares equivalentes.
