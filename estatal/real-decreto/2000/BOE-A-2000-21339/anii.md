@@ -1,7 +1,0 @@
-## ANEXO II
-
-## Requisitos de higiene en la recogida y transporte de material especificado de riesgo
-
-(Derogado)
-
-> Se deroga por la disposición derogatoria única.b) del Real Decreto 1429/2003, de 21 de noviembre. Ref. BOE-A-2003-21343.
