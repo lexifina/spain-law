@@ -8,19 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2020-12-11 by BOE-A-2020-15872. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no](no.md)
-- [(preambulo)](pr.md)
-- [Artículo 1](ar.md)
-- [Artículo 2](ar-2.md)
-- [Artículo 3](ar-3.md)
-- [Artículo 4](ar-4.md)
-- [Artículo 5](ar-5.md)
-- [Artículo 6](ar-6.md)
-- [Disposición derogatoria única](dd.md)
-- [Disposición adicional única](da.md)
-- [Disposición transitoria única](dt.md)
-- [Disposición final](df.md)
-- [(firma)](fi.md)
-- [ANEXO](an.md)
+- [BOE publisher notice](no.md)
