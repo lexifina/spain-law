@@ -138,7 +138,7 @@ TAE.ORO.GEN.160 Notificación de sucesos.
 
 (c) Sin perjuicio de lo dispuesto en el Reglamento (UE) n.º 996/2010, en la Directiva 2003/42/CE, en el Reglamento (CE) n.º 1321/2007 de la Comisión y en el Reglamento (CE) n.º 1330/2007 de la Comisión, los informes mencionados en los puntos a) y b) se realizarán siguiendo las pautas que establezca la autoridad competente y contendrán toda la información pertinente de que disponga el operador sobre el estado de la aeronave.
 
-(d) Los informes se elaborarán lo antes posible en caso de accidente y en el plazo de las 72 horas siguientes a la identificación por el operador del estado al que se refiera el informe cuando ocurra un incidente, y en caso de suceso lo recogido en el Real Decreto 1334/2005, de 14 de noviembre, salvo que lo impidan circunstancias excepcionales.
+(d) (Derogado).
 
 (e) Cuando proceda, el operador realizará un informe de seguimiento con el fin de informar detalladamente sobre las medidas que prevea adoptar para evitar sucesos similares en el futuro, tan pronto como se definan dichas medidas. Este informe se realizará siguiendo las pautas que establezca la autoridad competente.
 
@@ -1138,6 +1138,8 @@ TAE.ORO.PA.110 Personal de apoyo a las operaciones, entrenamiento y verificacion
 El operador debe establecer en el Manual de Operaciones un programa de entrenamiento y verificación, inicial y periódico, aplicable al personal de apoyo a las operaciones que, sin ir a bordo de las aeronaves, desempeñe funciones que puedan influir en la seguridad de la operación.
 
 Dicho programa debe incluir las cualificaciones del personal que pueda impartir la instrucción y efectuar las verificaciones.
+
+> Se deroga el apartado TAE.ORO.GEN.160.d) por la disposición derogatoria del Real Decreto 1088/2020, de 9 de diciembre. Ref. BOE-A-2020-15874#dd
 
 > Se modifica el apartado TAE.ORO.COE.110 por la disposición final 3 del Real Decreto-ley 26/2020, de 7 de julio. Ref. BOE-A-2020-7432#df-3
 

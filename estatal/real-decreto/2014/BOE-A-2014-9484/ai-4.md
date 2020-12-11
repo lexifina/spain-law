@@ -40,7 +40,7 @@ TAE.SPO.GEN.105 Responsabilidades de la tripulación de vuelo.
 
 (2) cualquier incidente que esté poniendo o pudiera poner en peligro la seguridad de la operación.
 
-(h) La tripulación deberá de notificar a través del sistema de notificación de sucesos (SNS), cualquier suceso (interrupción del funcionamiento, defecto, deficiencia u otra circunstancia anormal que haya tenido, o haya podido tener, consecuencias sobre la seguridad aérea) de acuerdo al Real Decreto 1334/2005. En el caso de aquellas organizaciones que cuenten con un Sistema de Gestión de Seguridad Operacional (SMS/SGSO) o una Oficina del Programa de Prevención de accidentes y seguridad en vuelo, podrá realizar dicha notificación a través de los mismos y, a continuación, el operador deberá de remitir el suceso al SNS.
+(h) (Derogado).
 
 TAE.SPO.GEN.106 Responsabilidades del personal operativo.
 
@@ -1860,5 +1860,7 @@ TAE.SPO.IDE.H.220 Equipo de navegación.
 TAE.SPO.IDE.H.225 Transpondedor.
 
 Donde sea requerido por el espacio aéreo en el que se vuele, los helicópteros estarán equipados con un transpondedor de radar de vigilancia secundario (SSR) con todas las capacidades requeridas.
+
+> Se deroga el apartado TAE.SPO.GEN.105.h) por la disposición derogatoria del Real Decreto 1088/2020, de 9 de diciembre. Ref. BOE-A-2020-15874#dd
 
 > Redactado conforme a la corrección de errores publicada en el BOE núm 100, de 26 de abril de 2016. Ref. BOE-A-2016-3973
