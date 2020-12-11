@@ -231,7 +231,12 @@ d) Todos los virus no incluidos en la lista que hayan sido aislados en seres hum
 | Virus de la hepatitis E | 3 (*) |  |
 | Virus Norwalk | 2 |  |
 | Otros Caliciviridae | 2 |  |
-| Coronaviridae | 2 |  |
+| Coronaviridae (F) |  |  |
+| Betacoronavirus (G) |  |  |
+| Coronavirus del síndrome respiratorio agudo grave (SARS-CoV) | 3 |  |
+| Coronavirus del síndrome respiratorio agudo grave 2 (SARS-CoV-2) (1) | 3 |  |
+| Coronavirus del síndrome respiratorio de Oriente Medio (MERS-CoV) | 3 |  |
+| Otros Coronaviridae de patogenicidad conocida | 2 |  |
 | Filoviridae: |  |  |
 | Virus Ebola | 4 |  |
 | Virus de Marburg | 4 |  |
@@ -460,6 +465,10 @@ La vacuna contra el virus de la hepatitis B protegerá, por lo tanto, a los trab
 (h) No existe actualmente ninguna prueba de enfermedad humana provocada por otro retrovirus de origen sísmico. Como medida de precaución, su recomienda un nivel 3 de contención para los trabajos que supongan una exposición a estos retrovirus.
 
 (i) No hay pruebas concluyentes de infecciones humanas causadas por los agentes responsables de las TSE en los animales. No obstante, para el trabajo en laboratorio se recomiendan medidas de contención para los agentes clasificados en el grupo de riesgo 3 (*) como medida de precaución, excepto para el trabajo en laboratorio relacionado con el agente identificado de la tembladera (scrapie) de los ovinos, para el que es suficiente un nivel 2 de contención.
+
+(1) De conformidad con el artículo 15, apartado 1, letra c), el trabajo no propagativo de los laboratorios de diagnóstico con SARS-CoV-2 debe efectuarse en una instalación que utilice procedimientos equivalentes al nivel 2 de contención, como mínimo. El trabajo propagativo con SARS-CoV-2 debe llevarse a cabo en un laboratorio de nivel 3 de contención con una presión negativa respecto a la presión atmosférica.
+
+> Se modifica por el art. único.1 de la Orden TES/1180/2020, de 4 de diciembre. Ref. BOE-A-2020-15871
 
 > Se modifica por el art. único de la Orden de 25 de marzo de 1998. Ref. BOE-A-1998-7341.
 

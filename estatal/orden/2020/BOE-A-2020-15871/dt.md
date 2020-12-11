@@ -1,0 +1,5 @@
+## Disposición transitoria única. Aplicación transitoria de los anexos IV y V sustituidos por la presente orden para las indicaciones relacionadas con los agentes biológicos que no sean de la familia «Coronaviridae».
+
+La redacción dada por la presente orden a los anexos IV y V del Real Decreto 664/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el trabajo, será de aplicación, desde su entrada en vigor, para las indicaciones que estén relacionadas con la familia «Coronaviridae».
+
+No obstante, los citados anexos IV y V, en su redacción anterior a la entrada en vigor de la presente orden, seguirán siendo de aplicación para las indicaciones que estén relacionadas con el resto de los agentes biológicos, distintos de aquellos de la familia «Coronaviridae», hasta el 19 de noviembre de 2021. A partir de dicha fecha, los nuevos anexos IV y V establecidos por esta orden serán plenamente de aplicación para las indicaciones relacionadas con todos los agentes biológicos.
