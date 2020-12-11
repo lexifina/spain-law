@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 138, de 7 de junio de 2008. Ref. BOE-A-2008-9857
+Norma derogada, con efectos de 11 de diciembre de 2020, por la disposición derogatoria.r) del Real Decreto 1086/2020, de 9 de diciembre. Ref. BOE-A-2020-15872#dd

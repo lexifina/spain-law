@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 35, de 10 de febrero de 1984. Ref. BOE-A-1984-3478.
+Norma derogada, con efectos de 11 de diciembre de 2020, por la disposición derogatoria.d) del Real Decreto 1086/2020, de 9 de diciembre. Ref. BOE-A-2020-15872#dd

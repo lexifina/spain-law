@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 10, de 11 de enero de 1991. Ref. BOE-A-1991-632.
+Norma derogada, con efectos de 11 de diciembre de 2020, por la disposición derogatoria.i) del Real Decreto 1086/2020, de 9 de diciembre. Ref. BOE-A-2020-15872#dd

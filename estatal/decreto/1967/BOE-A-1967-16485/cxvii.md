@@ -36,7 +36,7 @@ Las reglamentaciones correspondientes indicarán los que deben ser destinados pa
 
 ## 3.17.03. Transporte.
 
-Los cereales se podrán transportar en sacos o a granel, utilizando cualquiera de los medios conocidos, siempre que se ajusten a las condiciones exigidas en el Capítulo VI de este Código.
+(Derogado).
 
 ## 3.17.04. Almacenamiento.
 
@@ -72,23 +72,11 @@ e) Todos los silos dispondrán de los medios adecuados que permitan la desinfecc
 
 ## 3.17.07. Saneamiento de almacenes.
 
-La desinfección, desinsectación y desratización de los almacenes de cualquier clase se realizará por una de las siguientes causas:
-
-a) La desinfección y desinsectación se efectuará, par lo menos, una vez al año, cuando se hallen vacíos, para destruir los microorganismos y los insectos en cualquier fase de su ciclo vital en que se hallen.
-
-b) La desratización se llevará a cabo siempre que se encuentren roedores.
-
-c) Siempre que se vacíen de un producto que durante su almacenamiento haya sufrido algún ataque.
+(Derogado).
 
 ## 3.17.08. Saneamiento de mercancías.
 
-La desinfección y desinsectación de los granos almacenados se efectuará:
-
-a) Cuando se reciba grano que presente indicios claros de haberse iniciado un proceso de infección o ataque.
-
-b) Cuando se aprecie la aparición de algún foco de infección o plaga en el grano almacenado.
-
-Se efectuará un trasvase del grano almacenado cuando se aprecie aumento de temperatura en la masa almacenada.
+(Derogado).
 
 ## 3.17.09. Desecación.
 
@@ -98,7 +86,7 @@ La temperatura máxima que deberá emplearse para el secado se fijará en el opo
 
 ## 3.17.10. Fumigación.
 
-Siempre que sea necesario efectuar fumigaciones o pulverizaciones de locales que contengan granos en existencia se utilizarán productos inocuos, y si esto no fuera posible, se cubrirá la mercancía con lonas o papel para evitar la contaminación con los agentes empleados.
+(Derogado).
 
 ## 3.17.11. Alpiste.
 
@@ -227,3 +215,5 @@ Queda permitido el tratamiento de los granos de cereales con el anhídrido sulfu
 ## 3.17.24. Prohibiciones.
 
 Queda prohibido el abrillantado del arroz con productos que no estén expresamente autorizados en este Código.
+
+> Se derogan los apartados 3.17.03, 3.17.07, 3.17.08, 3.17.10, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. Ref. BOE-A-2020-15872#dd

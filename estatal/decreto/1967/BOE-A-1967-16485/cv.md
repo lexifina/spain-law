@@ -118,15 +118,7 @@ Los alimentos se podrán someter también, a otros tratamientos de conservación
 
 ## 2.05.16. Condiciones específicas.
 
-Para los alimentos conservados se establecen las siguientes:
-
-a) Los procedimientos de conservación deberán garantizar siempre las condiciones higiénico-sanitarias requeridas para los alimentos sometidos a estos tratamientos.
-
-b) Cada proceso de conservación utilizado deberá cumplir todos los requisitos exigidos en su caso.
-
-c) La conservación de alimentos por radiaciones ionizantes se autorizará siempre que se haya comprobado, por procedimientos adoptados internacionalmente, que el alimento así conservado está exento de peligro para el consumidor.
-
-d) Las proporciones máximas de humedad de los productos conservados por los procedimientos de desecación, deshidratación y liofilización, no deberán exceder de los que le establezcan pera cada uno de ellos, en la Reglamentación oportuna.
+(Derogado).
 
 ## 2.05.17. Prohibiciones.- Queda prohibido:
 
@@ -138,10 +130,8 @@ c) Utilizar en la conservación de los alimentos materias primas que no reúnan 
 
 ## 2.05.18.
 
-Los alimentos conservados, cuando se envasen, habrán de serlo en las industrias de origen o en otros establecimientos autorizados a tal efecto.
+(Derogado).
 
-Los envases habrán de fabricarse y revestirse, en su caso, con materiales autorizados y adecuados para cada alimento.
-
-En los rótulos o etiquetas del envase se indicará el procedimiento de conservación utilizado, cuando su omisión pueda crear confusión en el consumidor, asimismo se señalarán las instrucciones para su conservación si procediere.
+> Se derogan los apartados 2.05.16, 2.05.18, por la disposición derogatora única.a).iii del Real Decreto 1086/2020, de 9 de diciembre. Ref. BOE-A-2020-15872#dd
 
 > Se modifica por el art. único del Real Decreto 1353/1983, de 27 de abril. Ref. BOE-A-1983-15102.

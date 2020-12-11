@@ -208,35 +208,15 @@ Los productos en polvo destinados a la preparación, por simple dilución, de la
 
 ## 3.29.17. Prohibiciones.
 
-No se permitirá la presencia o utilización en las bebidas no alcohólicas de los siguientes productos:
-
-a) Sustancias que por su naturaleza, cantidad o calidad sean nocivas.
-
-b) Productos que puedan motivar confusión en la verdadera proporción de ingredientes naturales.
-
-c) Agentes patógenos o perjudiciales para la debida conservación de estas bebidas.
-
-d) Espumantes.
-
-e) Acidos minerales, excepto el fosfórico.
-
-f) Otros aditivos no autorizados.
-
-g) Impurezas, extrañas a las materias primas empleadas en la elaboración o que prejuzguen un deficiente estado higiénico-sanitario.
-
-h) Combinaciones metálicas tóxicas, en mayor proporción que la permitida en las listas de tolerancia complementarias al Capítulo XXXV de este Código.
+(Derogado).
 
 ## 3.29.18. Manipulaciones.
 
 En la preparación de bebidas no alcohólicas se observarán las siguientes prescripciones:
 
-a) Los procedimientos tecnológicos empleados para la elaboración y conservación asegurarán un perfecto estado higiénico-sanitario en el momento del consumo.
+a) b) y c) (Derogados).
 
-b) Los aparatos, envases, cierres y demás material que tenga contacto con estas bebidas, además de reunir las condiciones generales establecidas en el Capítulo IV de este Código, deberán ser inoxidables e inatacables, en su caso, por el anhídrido carbónico u otro componente.
-
-c) Los envases, que estarán provistos de cierre hermético, se ajustarán a las características de fabricación y presentación indicadas en este Código y demás disposiciones de aplicación.
-
-d) Las etiquetas de los envases llevarán, en caracteres aparentes e indelebles, los datos exigidos en los Capítulos IV, XXXI y XXXIII de este Código. Los tapones o cierres de los envases llevarán consignada la marca registrada o el nombre del fabricante.
+d) Los tapones o cierres de los envases llevarán consignada la marca registrada o el nombre del fabricante.
 
 e) En las etiquetas de las bebidas de «zumos de frutas» a que se refiere el artículo 3.29.06 de este Código se consignará la proporción de zumo contenida.
 
@@ -253,3 +233,5 @@ c) La utilización de dibujos, diseños y representaciones de frutas.
 d) El uso de las palabras «pasterizada», «esterilizada» o menciones análogas en las bebidas que contengan sustancias conservadoras.
 
 e) El empleo de calificativos tales como «puro» o «natural» en las bebidas a las que se haya adicionado conservadores químicos o colorantes artificiales.
+
+> Se deroga el apartado 3.29.17, y 3.29.18.a), b) y c) y la referencia al contenido de las etiquetas del d) por la disposición derogatora única.a).iii y iv del Real Decreto 1086/2020, de 9 de diciembre. Ref. BOE-A-2020-15872#dd
