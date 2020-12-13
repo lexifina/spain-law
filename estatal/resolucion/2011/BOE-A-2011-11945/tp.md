@@ -2,6 +2,8 @@
 
 ## Cuentas Anuales
 
+> Véase, sobre la adaptación del Plan General de Contabilidad de los fondos carentes de personalidad jurídica a aquellos fondos que realicen operaciones de cobertura de riesgos por cuenta del Estado, la Resolución de 3 de diciembre de 2020. Ref. BOE-A-2020-16025
+
 ## 1. Normas de Elaboración de las Cuentas Anuales
 
 1. Documentos que integran las cuentas anuales. Las cuentas anuales comprenden el balance, la cuenta del resultado económico patrimonial, el estado de cambios en el patrimonio neto, el estado de flujos de efectivo, y la memoria. Estos documentos forman una unidad y deben ser redactados con claridad y mostrar la imagen fiel del patrimonio, de la situación financiera, del resultado económico patrimonial y de liquidación del presupuesto, de conformidad con este Plan General de Contabilidad.

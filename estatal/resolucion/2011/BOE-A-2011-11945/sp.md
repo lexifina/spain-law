@@ -2,6 +2,8 @@
 
 ## Normas de reconocimiento y valoración
 
+> Véase, sobre la adaptación del Plan General de Contabilidad de los fondos carentes de personalidad jurídica a aquellos fondos que realicen operaciones de cobertura de riesgos por cuenta del Estado, la Resolución de 3 de diciembre de 2020. Ref. BOE-A-2020-16025
+
 ## 1.ª Desarrollo del marco conceptual
 
 Las normas de reconocimiento y valoración desarrollan los principios contables y otras disposiciones contenidas en la primera parte de este texto, relativa al marco conceptual. Incluyen criterios y reglas aplicables a distintas transacciones o hechos económicos, así como a diversos elementos patrimoniales.
