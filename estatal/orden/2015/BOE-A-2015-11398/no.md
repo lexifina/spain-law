@@ -1,0 +1,1 @@
+Esta disposición queda prorrogada hasta la fecha de entrada en vigor del Plan de Desarrollo de la Red de Transporte de Energía Eléctrica 2021-2026, por el apartado 1 del Acuerdo publicado por Resolución de 22 de noviembre de 2020. Ref. BOE-A-2020-16219#an
