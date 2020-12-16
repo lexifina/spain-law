@@ -1,10 +1,10 @@
 ## ANEXO I
 
-## COMISIONES DE ACREDITACIÓN Y ÁREAS DE CONOCIMIENTO ASIGNADAS A CADA UNA DE ELLAS
+## Comisiones de Acreditación y áreas de conocimiento asignadas a cada una de ellas
 
-## A. Ciencias
+A. Ciencias
 
-A1. Matemáticas
+A1. Matemáticas.
 
 005. Álgebra.
 
@@ -16,7 +16,7 @@ A1. Matemáticas
 
 595. Matemática Aplicada.
 
-A2. Física
+A2. Física.
 
 038. Astronomía y Astrofísica.
 
@@ -36,7 +36,7 @@ A2. Física
 
 647. Óptica.
 
-A3. Química
+A3. Química.
 
 750. Química Analítica.
 
@@ -46,7 +46,7 @@ A3. Química
 
 765. Química Orgánica.
 
-A4. Ciencias de la Naturaleza
+A4. Ciencias de la Naturaleza.
 
 028. Antropología Física.
 
@@ -72,7 +72,7 @@ A4. Ciencias de la Naturaleza
 
 819. Zoología.
 
-A5. Biología Celular y Molecular
+A5. Biología Celular y Molecular.
 
 050. Biología Celular.
 
@@ -80,9 +80,9 @@ A5. Biología Celular y Molecular
 
 420. Genética.
 
-## B. Ciencias de Salud
+B. Ciencias de Salud
 
-B6. Ciencias Biomédicas
+B6. Ciencias Biomédicas.
 
 020. Anatomía Patológica.
 
@@ -102,7 +102,7 @@ B6. Ciencias Biomédicas
 
 807. Toxicología.
 
-B7. Medicina Clínica y Especialidades Clínicas
+B7. Medicina Clínica y Especialidades Clínicas.
 
 090. Cirugía.
 
@@ -130,7 +130,7 @@ B7. Medicina Clínica y Especialidades Clínicas
 
 830. Traumatología y Ortopedia.
 
-B8. Especialidades Sanitarias
+B8. Especialidades Sanitarias.
 
 255. Enfermería.
 
@@ -148,9 +148,9 @@ B8. Especialidades Sanitarias
 
 773. Sanidad Animal.
 
-## C. Ingeniería y Arquitectura
+C. Ingeniería y Arquitectura
 
-C9. Ingeniería Química, de los Materiales y del Medio Natural
+C9. Ingeniería Química, de los Materiales y del Medio Natural.
 
 065. Ciencia de los Materiales e Ingeniería Metalúrgica.
 
@@ -168,9 +168,9 @@ C9. Ingeniería Química, de los Materiales y del Medio Natural
 
 780. Tecnología de los Alimentos.
 
-790 . Tecnologías del Medio Ambiente.
+790. Tecnologías del Medio Ambiente.
 
-C10. Ingeniería Mecánica y de la Navegación
+C10. Ingeniería Mecánica y de la Navegación.
 
 083. Ciencias y Técnicas de la Navegación.
 
@@ -194,7 +194,7 @@ C10. Ingeniería Mecánica y de la Navegación
 
 720. Proyectos de Ingeniería.
 
-C11. Ingeniería Eléctrica y de Telecomunicaciones
+C11. Ingeniería Eléctrica y de Telecomunicaciones.
 
 250. Electrónica.
 
@@ -208,7 +208,7 @@ C11. Ingeniería Eléctrica y de Telecomunicaciones
 
 800. Teoría de la Señal y Comunicaciones.
 
-C12. Ingeniería Informática
+C12. Ingeniería Informática.
 
 035. Arquitectura y Tecnología de Computadores.
 
@@ -216,7 +216,7 @@ C12. Ingeniería Informática
 
 570. Lenguajes y Sistemas Informáticos.
 
-C13. Arquitectura, Ingeniería Civil, Construcción y Urbanismo
+C13. Arquitectura, Ingeniería Civil, Construcción y Urbanismo.
 
 295. Explotación de las Minas.
 
@@ -240,9 +240,9 @@ C13. Arquitectura, Ingeniería Civil, Construcción y Urbanismo
 
 815. Urbanística y Ordenación del Territorio.
 
-## D. Ciencias Sociales y Jurídicas
+D. Ciencias Sociales y Jurídicas
 
-D14. Derecho
+D14. Derecho.
 
 125. Derecho Administrativo.
 
@@ -268,13 +268,11 @@ D14. Derecho
 
 180. Derecho Romano.
 
-381. Filosofía Del Derecho.
+381. Filosofía del Derecho.
 
 470. Historia del Derecho y de las Instituciones.
 
-D15. Ciencias Económicas y Empresariales
-
-623. Métodos Cuantitativos para la Economía y la Empresa
+D15. Ciencias Económicas.
 
 225. Economía Aplicada.
 
@@ -284,13 +282,17 @@ D15. Ciencias Económicas y Empresariales
 
 480. Historia e Instituciones Económicas.
 
+623. Métodos Cuantitativos para la Economía y la Empresa.
+
+D16. Ciencias Empresariales.
+
 095. Comercialización e Investigación de Mercados.
 
 230. Economía Financiera y Contabilidad.
 
 650. Organización de Empresas.
 
-D16. Ciencias de la Educación
+D17. Ciencias de la Educación.
 
 187. Didáctica de la Expresión Corporal.
 
@@ -314,7 +316,7 @@ D16. Ciencias de la Educación
 
 805. Teoría e Historia de la Educación.
 
-D17. Ciencias del Comportamiento
+D18. Ciencias del Comportamiento.
 
 620. Metodología de las Ciencias del Comportamiento.
 
@@ -328,7 +330,7 @@ D17. Ciencias del Comportamiento
 
 740. Psicología Social.
 
-D18. Ciencias Sociales
+D19. Ciencias Sociales.
 
 030. Antropología Social.
 
@@ -348,9 +350,9 @@ D18. Ciencias Sociales
 
 813. Trabajo Social y Servicios Sociales.
 
-## E. Arte y Humanidades
+E. Arte y Humanidades
 
-E19. Historia y Filosofía
+E20. Historia, Filosofía y Arte.
 
 010. Análisis Geográfico Regional.
 
@@ -380,7 +382,19 @@ E19. Historia y Filosofía
 
 695. Prehistoria.
 
-E20. Filología y Lingüística
+185. Dibujo.
+
+260. Escultura.
+
+270. Estética y Teoría de las Artes.
+
+465. Historia del Arte.
+
+635. Música.
+
+690. Pintura.
+
+E21. Filología y Lingüística.
 
 285. Estudios Árabes e Islámicos.
 
@@ -422,19 +436,7 @@ E20. Filología y Lingüística
 
 814. Traducción e Interpretación.
 
-E21. Historia del Arte y Expresión Artística
-
-185. Dibujo.
-
-260. Escultura.
-
-270. Estética y Teoría de Las Artes.
-
-465. Historia del Arte.
-
-635. Música.
-
-690. Pintura.
+> Se sustituye por el art. único y anexo de la Orden UNI/1191/2020, de 3 de diciembre. Ref. BOE-A-2020-16147
 
 > Se añade por el art. único.18 del Real Decreto 415/2015, de 29 de mayo. Ref. BOE-A-2015-6705.
 
