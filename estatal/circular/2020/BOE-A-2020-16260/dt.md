@@ -1,0 +1,3 @@
+## Disposición transitoria única. Instalaciones con autorización administrativa previa obtenida con anterioridad al 1 de enero de 2021 cuya puesta en servicio es posterior a dicha fecha.
+
+A efectos de las auditorías de inversión, de las instalaciones tipo y del empleo de los valores unitarios de referencia de inversión, incluidas las fórmulas de determinación del valor de inversión por aplicación de los mismos, esta circular también será de aplicación a las instalaciones con retribución individualizada, según la Circular 9/2019, de 12 de diciembre, que nunca hayan estado operativas, cuya autorización administrativa previa haya sido obtenida con anterioridad al 1 de enero de 2021 y su puesta en servicio sea posterior a dicha fecha.
