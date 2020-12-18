@@ -1,0 +1,3 @@
+## Disposición adicional única. Informe del Ministerio de Agricultura, Pesca y Alimentación.
+
+Al año de su entrada en vigor, el Ministerio de Agricultura, Pesca y Alimentación presentará un informe a la Comisión Delegada del Gobierno para Asuntos Económicos en el que se analizarán los resultados de la aplicación de las medidas recogidas en el Real Decreto-ley 5/2020, de 25 de febrero, por el que se adoptan determinadas medidas urgentes en materia de agricultura y alimentación. En particular, este informe detallará el impacto de dichas medidas sobre el sector agroalimentario español y sobre los consumidores atendiendo a la evolución que se haya producido del sistema de fijación de precios y de los precios finales de los productos agroalimentarios.

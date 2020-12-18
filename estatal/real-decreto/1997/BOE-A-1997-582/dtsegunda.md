@@ -22,7 +22,9 @@ c) Trabajadores que acrediten treinta y cinco jornadas cotizadas: Duración igua
 
 3. En los supuestos previstos en el apartado anterior, se computarán las fracciones que igualen o superen 0,50 como un día más de derecho.
 
-> Véase el art. 3 del Real Decreto-ley 5/2020, de 25 de febrero Ref. BOE-A-2020-2669#at, en cuanto a la reducción del número mínimo de jornadas reales cotizadas para acceder al subsidio por desempleo a favor de los trabajadores eventuales agrarios residentes en el territorio de las Comunidades Autónomas de Andalucía y Extremadura, para las solicitudes presentadas desde el 27 de febrero hasta el 31 de diciembre de 2020, inclusive, según establece su disposición final 2.
+> Véase el art. 3 de la Ley 8/2020, de 16 de diciembre. Ref. BOE-A-2020-16346#at, en cuanto a la reducción del número mínimo de jornadas reales cotizadas para acceder al subsidio por desempleo a favor de los trabajadores eventuales agrarios residentes en el territorio de las Comunidades Autónomas de Andalucía y Extremadura, para las solicitudes presentadas desde el 27 de febrero hasta el 31 de diciembre de 2020, inclusive, según establece su disposición final 2.
+
+> Véase el art. 3 de la Ley 8/2020, de 16 de diciembre. Ref. BOE-A-2020-16346#at, en cuanto a la reducción del número mínimo de jornadas reales cotizadas para acceder al subsidio por desempleo a favor de los trabajadores eventuales agrarios residentes en el territorio de las Comunidades Autónomas de Andalucía y Extremadura, para las solicitudes presentadas desde el 27 de febrero hasta el 31 de diciembre de 2020, inclusive, según establece su disposición final 2.
 
 > Véase el art. 3 del Real Decreto-ley 5/2020, de 25 de febrero Ref. BOE-A-2020-2669#at, en cuanto a la reducción del número mínimo de jornadas reales cotizadas para acceder al subsidio por desempleo a favor de los trabajadores eventuales agrarios residentes en el territorio de las Comunidades Autónomas de Andalucía y Extremadura, para las solicitudes presentadas desde el 27 de febrero hasta el 31 de diciembre de 2020, inclusive, según establece su disposición final 2.
 
