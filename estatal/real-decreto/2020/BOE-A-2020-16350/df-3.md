@@ -1,0 +1,7 @@
+## Disposición final tercera. Establecimiento de nuevos mecanismos de apoyo para los consumidores electrointensivos.
+
+1. El Gobierno, mediante real decreto y previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, podrá establecer nuevos mecanismos de apoyo para los consumidores electrointensivos, así como, en su caso, las obligaciones que les sean exigibles, de acuerdo con lo establecido en el Real Decreto-ley 20/2018, de 7 de diciembre.
+
+2. A partir del 1 de enero de 2021, conforme a lo previsto en la disposición adicional sexta de la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero, el Gobierno mediante real decreto establecerá el mecanismo de compensación de costes de emisiones indirectas de gases de efecto invernadero en los términos y para los sectores que establezca la normativa de la Unión Europea.
+
+3. A partir de la fecha de modificación de las «Directrices sobre ayudas estatales en materia de protección del medio ambiente y energía 2014-2020», aprobadas por Comunicación de la Comisión Europea 2014/C 200/01, el Gobierno, mediante real decreto, adaptará los mecanismos de compensación a los consumidores electrointensivos por la financiación de apoyo para la electricidad procedente de fuentes renovables, cogeneración de alta eficiencia o compensación del extracoste en los territorios no peninsulares, en los términos y para los sectores que establezca la normativa de la Unión Europea.

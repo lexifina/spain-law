@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Instalación de equipos adicionales para la energía autoconsumida de los consumidores electrointensivos.
+
+Los consumidores electrointensivos acogidos a una de las modalidades de suministro con autoconsumo deberán disponer de los equipos adicionales indicados en el apartado 2 de la disposición adicional cuarta antes de 6 meses tras la fecha de obtención de la condición de consumidores electrointensivos. Hasta este momento, los consumidores electrointensivos facilitarán mediante declaración responsable a los encargados de la lectura la energía horaria autoconsumida.
