@@ -1,11 +1,7 @@
-## Disposición final primera. Modificación de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación.
+## Disposición final primera. Títulos competenciales.
 
-Se modifica la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, en los siguientes términos:
+Esta ley se dicta al amparo de las competencias exclusivas del Estado previstas en el artículo 149.1.13.ª y 23.ª de la Constitución, en materia de bases y coordinación de la planificación general de la actividad económica y de legislación básica sobre protección del medio ambiente, a excepción de la disposición adicional segunda, sin perjuicio de las competencias de ejecución que ostentan las comunidades autónomas en materia de legislación de medio ambiente.
 
-Uno. Se introduce un nuevo apartado 2 en el artículo 22, con la siguiente redacción:
+No obstante lo anterior, aquellas materias relacionadas con la aviación se dictan también al amparo de la competencia exclusiva del Estado prevista en el artículo 149.1.20.ª de la Constitución en materia de control del espacio aéreo, tránsito y transporte aéreo.
 
-«2. En el caso de instalaciones sujetas a la Ley por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero, la autorización no incluirá valores límite para las emisiones directas de tales gases, a menos que sea necesario para garantizar que no se provoque contaminación local significativa.
-
-Lo previsto en el párrafo anterior no se aplicará a las instalaciones excluidas temporalmente del régimen de comercio de derechos de emisión de gases de efecto invernadero, de conformidad con lo previsto en la disposición transitoria cuarta de la citada Ley.»
-
-Dos. Los apartados 2, 3, 4 y 5 del artículo 22 pasan a ser los apartados 3, 4, 5 y 6, respectivamente.
+> Se modifica por el art. único.43 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au

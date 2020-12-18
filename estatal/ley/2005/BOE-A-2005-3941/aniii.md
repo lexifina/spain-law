@@ -26,7 +26,7 @@ Se hará un cálculo separado para cada actividad, cada instalación y cada comb
 
 4. Seguimiento de las emisiones de otros gases de efecto invernadero.
 
-Se recurrirá a los métodos normalizados o aceptados mediante Decisión 2007/589/CE, de 18 de julio de 2007, modificada a su vez por la Decisión 2009/73/CE de la Comisión, de 17 de diciembre de 2008, por la que se establecen directrices para el seguimiento y la notificación de las emisiones de gases de efecto invernadero de conformidad con la Directiva 2003/87/CE.
+Se recurrirá a los métodos normalizados o aceptados desarrollados por la Comisión Europea, en colaboración con todos los interesados correspondientes, y adoptados de conformidad con la normativa de la Unión Europea sobre notificación y seguimiento de emisiones de gases de efecto invernadero en aplicación de la Directiva 2003/87/CE, de 13 de octubre de 2003.
 
 5. Notificación de las emisiones.-Todos los titulares incluirán la siguiente información en el informe sobre la instalación:
 
@@ -167,5 +167,7 @@ B. Datos sobre toneladas-kilómetro:
 4.º Método elegido para el cálculo de la masa para pasajeros y equipaje facturado.
 
 5.º Número total de toneladas-kilómetro para todos los vuelos efectuados durante el año al que se refiere el informe que correspondan a las actividades de aviación enumeradas en el anexo I de las que es el operador aéreo.
+
+> Se modifica el apartado 4 de la parte A por el art. único.48 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
 
 > Se reordena como Parte A, se modifica el punto 4 y se añade la Parte B por el art. único.40 y 41 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706

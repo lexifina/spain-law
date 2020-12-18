@@ -1,12 +1,12 @@
 ## Artículo 29 bis. Tipificación de las infracciones para la aviación.
 
-1. A los efectos de esta Ley las infracciones administrativas en materia de aviación se clasifican en graves, muy graves y leves.
+1. A los efectos de esta ley, y teniendo en cuenta lo dispuesto en la normativa de la Unión Europea, sin perjuicio de las responsabilidades penales, civiles u otras administrativas a que hubiere lugar, las infracciones administrativas en materia de aviación se clasifican en graves, muy graves y leves.
 
 2. Son infracciones administrativas muy graves las siguientes:
 
-1.º No presentar el informe anual verificado exigido en el artículo 22.
+1.º No presentar el informe anual verificado exigido en el artículo 36 bis apartado 1.
 
-2.º Ocultar o alterar intencionadamente la información exigida en los artículos 38 y 41.
+2.º Ocultar o alterar intencionadamente la información exigida en los artículos 38 y 40.
 
 3.º Incumplir la obligación de entregar derechos exigida en el artículo 27.2.
 
@@ -18,16 +18,18 @@
 
 1.º Ocultar o alterar intencionadamente la información exigida en el artículo 36.
 
-2.º Incumplir las condiciones de seguimiento de las emisiones establecidas en el plan de seguimiento cuando de dicho incumplimiento se deriven alteraciones en los datos de emisiones.
+2.º Incumplir las condiciones de seguimiento de las emisiones establecidas en el plan de seguimiento, cuando de dicho incumplimiento se deriven alteraciones en los datos de emisiones.
 
 3.º Incumplir las normas reguladoras de los informes anuales verificados, siempre que implique alteración de los datos de emisiones.
 
 4. Son infracciones administrativas leves:
 
-1.º Incumplir las condiciones de seguimiento de las emisiones establecidas en el plan de seguimiento cuando de dicho incumplimiento no se deriven alteraciones en los datos de emisiones.
+1.º Incumplir las condiciones de seguimiento, de las emisiones establecidas en el plan de seguimiento cuando de dicho incumplimiento no se deriven alteraciones en los datos de emisiones.
 
 2.º Incumplir las normas reguladoras de los informes anuales verificados, siempre que no implique alteración de los datos de emisiones.
 
-3.º Incumplir cualesquiera otras obligaciones establecidas en esta Ley cuando tal cosa no haya sido tipificada como infracción administrativa muy grave o grave en los apartados precedentes.
+3.º Incumplir cualesquiera otras obligaciones establecidas en esta ley, cuando tal cosa no haya sido tipificada como infracción administrativa muy grave o grave en los apartados precedentes.
+
+> Se modifica por el art. único.26 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
 
 > Se añade por el art. único.17 de la Ley 13/2010, de 5 de julio. Ref. BOE-A-2010-10706

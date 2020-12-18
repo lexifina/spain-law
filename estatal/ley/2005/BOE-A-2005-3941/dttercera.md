@@ -1,9 +1,17 @@
-## Disposición transitoria tercera. Ampliación o entrada en funcionamiento de instalaciones durante el período de vigencia del Plan Nacional de asignación 2005‑2007.
+## Disposición transitoria tercera. Régimen transitorio para la aviación durante el periodo 2013-2023.
 
-1. El Plan Nacional de asignación 2005‑2007 podrá prever la asignación de derechos a instalaciones para las que esté prevista su ampliación o entrada en funcionamiento durante su período de vigencia, siempre que cuenten, en el momento de solicitar la autorización de emisión de gases de efecto invernadero, con todas las licencias y permisos administrativos exigidos por la legislación que les resulte aplicable. A estos efectos, la solicitud de autorización de emisión deberá indicar la fecha prevista para su entrada en funcionamiento y presentarse antes del 30 de septiembre de ‑2004.
+1. Durante cada año natural comprendido entre el 1 de enero de 2013 hasta el 31 de diciembre de 2023, no serán aplicables las obligaciones del RCDE UE para los vuelos con destino u origen en aeródromos situados en países no pertenecientes al Espacio Económico Europeo, ni tampoco a vuelos entre un aeródromo situado en una región ultraperiférica en el sentido del artículo 349 del Tratado de Funcionamiento de la Unión Europea y un aeródromo situado en otra región del Espacio Económico Europeo. Todo ello sin perjuicio del cumplimiento de las obligaciones adicionales que pueda introducir la normativa de la Unión Europea o la nacional a efectos del instrumento de mercado global de la Organización de Aviación Civil Internacional.
 
-En el supuesto de ampliación de instalaciones, la resolución de asignación de derechos de emisión indicará la cantidad de derechos correspondiente a la ampliación, que se expedirán con arreglo a lo establecido en el artículo 26.3).
+2. En relación con lo dispuesto en el artículo 36 bis.3, cuando un operador aéreo tenga unas emisiones anuales inferiores a 3.000 toneladas en el ámbito de aplicación descrito en el apartado 1 de esta disposición, sus emisiones notificadas se considerarán verificadas si han sido determinadas mediante el instrumento para pequeños emisores aprobado por normativa de la Unión Europea alimentado por Eurocontrol con datos de su instrumento de apoyo al RCDE UE.
 
-2. En el período 2005‑2007, sólo tendrán la consideración de nuevos entrantes las instalaciones que soliciten la autorización prevista en el capítulo II con posterioridad al 30 de septiembre de 2004.
+3. Entre el 1 de enero de 2013 y hasta el 31 de diciembre de 2023, los operadores aéreos recibirán cada año un número de derechos de emisión gratuitos que se reducirá en proporción a la reducción de las obligaciones del RCDE UE en el ámbito de aplicación descrito en el apartado 1 de este artículo.
 
-3. La asignación de derechos a las instalaciones cuya ampliación o entrada en funcionamiento esté prevista con posterioridad a 1 de enero de 2005 se calculará en función de las mensualidades que resten para la finalización del período de vigencia del Plan. En el supuesto de que la entrada en funcionamiento se retrasara más de un mes desde la fecha prevista, en la transferencia de derechos a la cuenta de haberes del titular se descontará la parte proporcional al retraso.
+4. A partir del 1 de enero de 2021, el número de derechos de emisión asignado gratuitamente a los operadores aéreos estará supeditado a la aplicación del mismo factor de reducción lineal aplicable a la asignación de las instalaciones fijas.
+
+5. Antes del 1 de septiembre de 2018, se publicará el número de derechos de emisión del sector de la aviación asignados a cada operador de aeronaves en lo que respecta de las actividades del periodo que comienza el 1 de enero de 2017 y finaliza el 31 de diciembre de 2023.
+
+6. Entre el 1 de enero de 2013 y el 31 de diciembre de 2023 se subastará la cantidad de derechos de emisión para el sector de la aviación que determine la normativa de la Unión Europea.
+
+7. A efectos del cumplimiento de la obligación de entrega de derechos descrita en el artículo 27.2, los operadores aéreos deberán entregar un número de derechos de emisión equivalente al dato de emisiones verificadas incluidas en el ámbito de aplicación al que se refiere el primer apartado de este artículo.
+
+> Se modifica por el art. único.41 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
