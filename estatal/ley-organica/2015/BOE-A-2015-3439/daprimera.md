@@ -1,3 +1,7 @@
 ## Disposición adicional primera. Autorización judicial de esterilización.
 
-La esterilización a que se refiere el párrafo segundo del artículo 156 del Código Penal deberá ser autorizada por un juez en el procedimiento de modificación de la capacidad o en un procedimiento contradictorio posterior, a instancias del representante legal de la persona sobre cuya esterilización se resuelve, oído el dictamen de dos especialistas y el Ministerio Fiscal, y previo examen por el juez de la persona afectada que carezca de capacidad para prestar su consentimiento.
+(Derogada).
+
+> Se deroga por la disposición derogatoria única de la Ley Orgánica 2/2020, de 16 de diciembre. Ref. BOE-A-2020-16345#dd
+
+> Téngase en cuenta, para los procedimientos en curso, lo establecido por la disposición transitoria única de la citada Ley Orgánica.
