@@ -1,0 +1,15 @@
+El pasado 11 de marzo la Organización Mundial de la Salud elevó la situación de emergencia de salud pública ocasionada por la COVID-19 a pandemia internacional.
+
+Desde dicha declaración se han venido adoptando medidas dirigidas a prevenir, controlar, frenar y paliar los efectos ocasionados por dicha pandemia internacional, estando actualmente vigente el Real Decreto 926/2020, de 25 de octubre, por el que se declara el estado de alarma para contener la propagación de infecciones causadas por el SARS-CoV-2.
+
+En el marco de la Estrategia Europea de Vacunas de la Comisión Europea, de la que el Reino de España es parte integrante, la Comisión Europea ha venido suscribiendo distintos acuerdos con el objetivo de adquirir de forma conjunta distintas vacunas para inmunizar frente al SARS-CoV2.
+
+La posible autorización por parte de la Agencia Europea del Medicamento de dichas vacunas coloca al conjunto de los miembros signatarios de la Estrategia Europea de Vacunas, ante la necesidad de gestionar a través de su legislación nacional el cumplimiento de los distintos derechos y obligaciones que se derivan de los acuerdos firmados por el Reino de España.
+
+El apartado 1 del artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público prevé la posibilidad que «los órganos de la Administración General del Estado podrán delegar el ejercicio de sus competencias propias en sus Organismos públicos y Entidades vinculados o dependientes, cuando resulte conveniente para alcanzar los fines que tengan asignados y mejorar la eficacia de su gestión.»
+
+La Agencia Española de Medicamentos y Productos Sanitarios, cuyos estatutos están regulados en el Real Decreto 1275/2011, de 16 de septiembre, constituye una entidad del sector público institucional especializada en la gestión y coordinación del suministro de vacunas, tal como desprende del artículo 7 de sus estatutos.
+
+Con el fin de facilitar y agilizar la gestión de las obligaciones derivadas de los distintos acuerdos suscritos por el Reino de España, en el marco de las competencias atribuidas al Ministro de Sanidad por parte del Real Decreto 2/2020, de 12 de enero, por el que se reestructuran los departamentos ministeriales, y en ejercicio de las competencias atribuidas al Ministro por los artículos 61.l de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, se delega en la persona titular de la dirección de la Agencia Española de Medicamentos y Productos Sanitarios la competencia para el reconocimiento de la obligación y propuesta de pago, así como la autorización de los documentos contables relativos a la adquisición de las vacunas frente a la COVID-19. En los expedientes de gasto derivados de dichos acuerdos corresponderán en todo caso a la persona titular de la dirección de la Agencia Española de Medicamentos y Productos Sanitarios las facultades de designación de representante de la Administración para la comprobación de la recepción de los suministros, así como la certificación de la conformidad con lo recibido.
+
+En su virtud, de acuerdo con lo previsto en el artículo 9 de la Ley 40/2015, de 1 de octubre, dispongo:
