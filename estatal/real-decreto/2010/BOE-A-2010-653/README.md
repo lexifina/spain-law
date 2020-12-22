@@ -63,6 +63,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Sección 6](s6.md)
 - [Artículo 19](a19.md)
 - [CAPÍTULO III](ciii.md)
+- [Artículos 20 a 31](a2-2.md)
 - [Sección 1](s1-2.md)
 - [Artículo 20](a20.md)
 - [Artículo 21](a21.md)
