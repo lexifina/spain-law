@@ -1,0 +1,33 @@
+## ANEXO II
+
+Se establecen las siguientes condiciones para el quinto tramo por importe de 500 millones de euros para reforzar el reaval concedido por CERSA:
+
+Definiciones y finalidad
+
+Finalidad: Para fomentar el acceso de las pymes de todas las áreas geográficas a la financiación para cubrir sus necesidades de liquidez y fomentar la realización de inversiones, el tramo de la línea de avales tiene por objetivo apoyar la labor realizada por la Compañía Española de Reafianzamiento, SME Sociedad Anónima (CERSA), consistente en el reafianzamiento o cobertura parcial del riesgo asumido por las Sociedades de Garantía Recíproca para las pequeñas y medianas empresas, favoreciendo así la concesión de crédito que permita a éstas atender las necesidades de financiación derivadas, entre otros, de pagos de salarios, facturas, necesidad de circulante u otras necesidades de liquidez.
+
+Importe total del quinto tramo de la línea de avales: Hasta 500 millones de euros, aportados por el Ministerio de Asuntos Económicos y Transformación Digital en forma de reaval a las operaciones de CERSA.
+
+Porcentajes máximos, remuneración, plazos de formalización y de vencimiento máximo del aval
+
+Porcentajes máximos de aval: El porcentaje de reaval máximo a cargo del Ministerio de Asuntos Económicos y Transformación Digital será de 80 puntos porcentuales. El porcentaje variará en cada operación para complementar el reaval aportado a CERSA por el Fondo Europeo de Inversiones con cargo a distintos programas de la Unión Europea y sin exceder conjuntamente 90 puntos porcentuales. Así, en el caso de reavales concedidos por CERSA que cuenten con un aval del 80% por parte del Fondo Europeo de Inversiones, el porcentaje de aval máximo a cargo del Ministerio de Asuntos Económicos y Transformación Digital se elevará hasta 10 puntos porcentuales. Para aquellos reavales concedidos por CERSA y que no se beneficien de un aval por parte del Fondo Europeo de Inversiones, el porcentaje de aval máximo a cargo del Ministerio de Asuntos Económicos y Transformación Digital será de 80 puntos porcentuales.
+
+Plazo de solicitud de los avales: Los avales podrán solicitarse hasta el 1 de junio de 2021.
+
+Plazo de vencimiento máximo del aval: El plazo del aval emitido coincidirá con el plazo del reaval aprobado por CERSA hasta un máximo de 8 años.
+
+Relaciones financieras entre CERSA y el Ministerio de Asuntos Económicos y Transformación Digital
+
+Relaciones con CERSA: La gestión administrativa del aval entre el Ministerio de Asuntos Económicos y Transformación Digital y CERSA, y las recuperaciones en caso de ejecución de la misma, se llevarán a cabo por parte de CERSA conforme al procedimiento que se establecerá mediante Orden del Ministerio de Asuntos Económicos y Transformación Digital.
+
+Reposición del Fondo de Provisiones Técnicas: El Ministerio de Asuntos Económicos y Transformación Digital repondrá anualmente los importes que hayan sido cargados al Fondo de Provisiones Técnicas de CERSA (regulado en la Ley 1/1994 y el Real Decreto 1644/1997, de 31 de octubre de 1997, relativo a las normas de autorización administrativa a requisitos de solvencia de las sociedades de reafianzamiento) en ejecución de los avales netos de las recuperaciones correspondientes a las operaciones incluidas en la línea de avales por la parte reavalada por el Ministerio de Asuntos Económicos y Transformación Digital. En el primer trimestre de cada uno de los ejercicios 2021 al 2029, se revisarán los importes a aportar previa certificación por CERSA del saldo resultante a 31 de diciembre cada ejercicio.
+
+Otros trámites
+
+Seguimiento de la línea: CERSA informará con carácter mensual al Ministerio de Asuntos Económicos y Transformación Digital de la utilización de la línea de avales en cuanto a nuevas operaciones incluidas en la misma y trimestralmente de la evolución del riesgo y las ejecuciones de avales.
+
+Otros trámites: No son necesarios trámites adicionales a este Acuerdo de Consejo de Ministros.
+
+Ayudas de Estado
+
+Ayudas de Estado: La línea está sujeta a la normativa sobre ayudas de Estado de la Unión Europea.
