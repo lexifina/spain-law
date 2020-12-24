@@ -6,9 +6,9 @@
 
 | Línea | Ancho de vía (mm) | Comunidad Autónoma | Electrificación | N.º vías | Longitud (Km) |
 | --- | --- | --- | --- | --- | --- |
-| 01-Madrid Chamartín-Irún / Hendaya |  |  |  |  |  |
-| 01-100-Madrid Chamartín-Irún-Frontera Francesa. | 1.668 | Varias: Madrid; Castilla y León; País Vasco; Navarra. | 3.000 V CC | 2 | 642,0 |
-| 01-102-Madrid Chamartín-Burgos (Bifurcación Aranda). | 1.668 | Varias: Madrid; Castilla y León. | 3.000 V CC / NO | 2 / 1 | 280,9 |
+| 01-Madrid-Chamartín-Clara Campoamor-Irún/Hendaya. |  |  |  |  |  |
+| 01-100-Madrid-Chamartín-Clara Campoamor-Irún-Frontera Francesa. | 1.668 | Varias: Madrid; Castilla y León; País Vasco; Navarra. | 3.000 V CC | 2 | 642,0 |
+| 01-102-Madrid-Chamartín-Clara Campoamor-Burgos (Bifurcación Aranda). | 1.668 | Varias: Madrid; Castilla y León. | 3.000 V CC / NO | 2 / 1 | 280,9 |
 | 01-104-Alcobendas San Sebastián Reyes-Universidad Cantoblanco. | 1.668 | Madrid. | 3.000 V CC | 2 | 6,9 |
 | 01-110-Villalba Guadarrama-Segovia. | 1.668 | Varias: Madrid; Castilla y León. | 3.000 V CC | 1 | 62,7 |
 | 01-116-Cercedilla-Los Cotos. | 1.000 | Varias: Madrid; Castilla y León. | 1.500 V CC | 1 | 18,2 |
@@ -21,8 +21,8 @@
 | 01-724-Bilbao Mercancias-Santurtzi. | 1.668 | País Vasco. | 3.000 V CC | 1 | 3,4 |
 | 01-910-Madrid Atocha Cercanias-Pinar de Las Rozas. | 1.668 | Madrid. | 3.000 V CC | 2 | 27,9 |
 | 01-Enlaces, Ramales y Variantes. | 1.668 | Varias. | – | – | 67,5 |
-| 02-Madrid Chamartín-Zaragoza-Lleida-Barcelona-Portbou / Cerbere |  |  |  |  |  |
-| 02-200-Madrid Chamartín-Barcelona Estación de França. | 1.668 | Varias: Madrid; Castilla-La Mancha; Castilla y León; Aragón; Cataluña. | 3.000 V CC | 2 / 1 | 699,8 |
+| 02-Madrid-Chamartín-Clara Campoamor-Zaragoza-LLeida. |  |  |  |  |  |
+| 02-200-Madrid-Chamartín-Clara Campoamor-Barcelona Estación de França. | 1.668 | Varias: Madrid; Castilla-La Mancha; Castilla y León; Aragón; Cataluña. | 3.000 V CC | 2 / 1 | 699,8 |
 | 02-202-Torralba-Soria-Castejón de Ebro. | 1.668 | Castilla y León. | NO | 1 | 197,5 |
 | 02-204-Bifurcación Canfranc-Canfranc. | 1.668 | Aragón. | NO | 1 | 138,4 |
 | 02-210-Miraflores-Tarragona. | 1.668 | Varias: Aragón; Cataluña. | 3.000 V CC | 1 / 2 | 251,0 |
@@ -49,8 +49,8 @@
 | 02-942-Vallecas Industrial-Villaverde Bajo. | 1.668 | Madrid. | 3.000 V CC | 2 | 7,2 |
 | 02-944-Vicálvaro-Vicálvaro Clasificación. | 1.668 | Madrid. | 3.000 V CC | 2 | 2,1 |
 | 02-Enlaces, Ramales y Variantes. | 1.668 | Varias. | – | – | 101,7 |
-| 03-Madrid Chamartín-Valencia-San Vicente de Calders |  |  |  |  |  |
-| 03-300-Madrid Chamartín-Valencia Nord. | 1.668 | Varias: Madrid; Castilla-La Mancha; Comunidad Valenciana. | 3.000 V CC | 2 / 1 | 488,6 |
+| 03-Madrid-Chamartín-Clara Campoamor-Valencia-San Vicente de Calders. |  |  |  |  |  |
+| 03-300-Madrid-Chamartín-Clara Campoamor-Valencia Nord. | 1.668 | Varias: Madrid; Castilla-La Mancha; Comunidad Valenciana. | 3.000 V CC | 2 / 1 | 488,6 |
 | 03-310-Aranjuez-Valencia Sant Isidre. | 1.668 | Varias: Madrid; Castilla-La Mancha; Comunidad Valenciana. | NO | 1 | 351,1 |
 | 03-312-Castillejo Añover-Algodor. | 1.668 | Castilla-La Mancha. | 3.000 V CC | 1 | 11,4 |
 | 03-314-Xirivella L’Alter-Valencia Sant Isidre. | 1.668 | Comunidad Valenciana. | 3.000 V CC | 1 | 1,9 |
@@ -64,7 +64,7 @@
 | 03-346-Gandia-Mercaderies-Gandia Port. | 1.668 | Comunidad Valenciana. | 3.000 V CC | 1 | 2,9 |
 | 03-600-Valencia Nord-Sant Vicenç Calders. | 1.668 | Varias: Comunidad Valenciana; Cataluña. | 3.000 V CC | 2 | 285,3 |
 | 03-620-Tortosa-L Aldea Amposta. | 1.668 | Cataluña. | 3.000 V CC | 1 | 12,0 |
-| 03-900-Madrid Atocha Cercanías-Madrid Chamartín. | 1.668 | Madrid. | 3.000 V CC | 2 | 7,8 |
+| 03-900-Madrid-Atocha Cercanías-Madrid-Chamartín-Clara Campoamor. | 1.668 | Madrid. | 3.000 V CC | 2 | 7,8 |
 | 03-916-Madrid Santa Catalina-Delicias. | 1.668 | Madrid. | 3.000 V CC | 1 | 3,2 |
 | 03-934-Bifurcación Rebolledo-Madrid Abroñigal. | 1.668 | Madrid. | 3.000 V CC | 1 | 3,2 |
 | 03-946-Villaverde Bajo-Madrid Santa Catalina. | 1.668 | Madrid. | 3.000 V CC | 2 | 2,8 |
@@ -138,9 +138,9 @@
 | 08-790-Asunción Universidad-Aranguren. | 1.000 | Varias: Castilla y León; Cantabria; País Vasco. | NO | 1 | 308,3 |
 | 08-792-Matallana-La Robla. | 1.000 | Castilla y León. | NO | 1 | 10,9 |
 | 08-794-Guardo-Térmica Velilla. | 1.000 | Castilla y León. | NO | 1 | 2,1 |
-| 11-Madrid Chamartín-Valladolid |  |  |  |  |  |
+| 11-Madrid-Chamartín-Clara Campoamor-Valladolid. |  |  |  |  |  |
 | 11-074-Olmedo (Av.-Ag. Km 133,9)-Cambiador Medina del Campo. | 1.435 | Castilla y León. | 25.000 V CA | 1 | 19,9 |
-| 11-080-Madrid Chamartín-Valladolid Campo Grande. | 1.435 | Varias: Madrid; Castilla y León. | 25.000 V CA | 2 | 178,5 |
+| 11-080-Madrid-Chamartín-Clara Campoamor-Valladolid Campo Grande. | 1.435 | Varias: Madrid; Castilla y León. | 25.000 V CA | 2 | 178,5 |
 | 11-Enlaces, Ramales y Variantes. | 1.435 | Varias. |  |  | 2,2 |
 | 12-Madrid Atocha-Barcelona-Frontera Francia |  |  |  |  |  |
 | 12-050-Madrid Pta. Atocha-Barcelona Sants-Límite Adif/Tp Ferro. | 1.435 | Varias: Madrid; Castilla-La Mancha; Castilla y León; Aragón; Cataluña. | 25.000 V CA | 2 | 749,9 |
@@ -195,6 +195,8 @@
 | Línea | Administrador | Ancho de vía (mm) | Comunidad Autónoma | Electrificación | N.º vías | Longitud (Km) |
 | --- | --- | --- | --- | --- | --- | --- |
 | I001. Límite ADIF/TP Ferro-Frontera Francesa. | TPFERRO. | 1.435 | Cataluña. | 25.000 V CA | 2 | 19,8 |
+
+> Se modifica el apartado 1 por el apartado segundo de la Orden TMA/1240/2020, de 8 de diciembre. Ref. BOE-A-2020-16830
 
 > Se modifica el punto 1 por el apartado 1 de la Orden FOM/925/2018, de 10 de septiembre. Ref. BOE-A-2018-12397
 

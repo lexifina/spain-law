@@ -10,11 +10,11 @@ Se agrupan tramos y subtramos de diversa longitud, según los casos, de manera q
 
 Los grandes ejes se codifican con dos dígitos a los que se agregan tres dígitos más para codificar los diferentes tramos que los componen:
 
-01-Madrid Chamartín-Irún/Hendaya.
+01-Madrid-Chamartín-Clara Campoamor-Irún/Hendaya.
 
-02-Madrid Chamartín-Zaragoza-Lleida-Barcelona-Portbou/Cerbere.
+02-Madrid-Chamartín-Clara Campoamor-Zaragoza-LLeida.
 
-03-Madrid Chamartín-Valencia-San Vicente de Calders.
+03-Madrid-Chamartín-Clara Campoamor-Valencia-San Vicente de Calders.
 
 04-Alcázar de San Juan-Córdoba-Sevilla-Cádiz.
 
@@ -24,7 +24,7 @@ Los grandes ejes se codifican con dos dígitos a los que se agregan tres dígito
 
 08-Red de Ancho Métrico (excepto línea Cercedilla-Los Cotos).
 
-11-Madrid Chamartín-Valladolid.
+11-Madrid-Chamartín-Clara Campoamor-Valladolid.
 
 12-Madrid Atocha-Barcelona-Frontera Francia.
 
@@ -47,3 +47,5 @@ En este caso hay un único tramo para el que se ha asignado un código formado p
 Todas las líneas y tramos de estos tres bloques han sido analizados pormenorizadamente para comprobar que en la actualidad cumplen los requisitos previstos en el artículo 4 de la ley del Sector Ferroviario. También se ha tenido en cuenta la posible existencia de actuaciones previstas en la planificación ferroviaria, que imponen la necesidad de mantener un determinado tramo en la RFIG, así como la conveniencia de contemplar ciertos tramos en el análisis para reflejar adecuadamente el sentido económico del conjunto y asegurar la racionalidad de la red ferroviaria.
 
 Se consideran incluidos en el catálogo la totalidad de los elementos que forman parte de las vías principales y de las de servicio y los ramales de desviación para particulares, con excepción de las vías situadas dentro de los talleres de reparación de material rodante y de los depósitos o garajes de máquinas de tracción. Así, entre dichos elementos se encuentran los terrenos, las estaciones, las terminales de carga, las obras civiles, los pasos a nivel, las instalaciones vinculadas a la seguridad, a las telecomunicaciones, a la electrificación, a la señalización de las líneas, al alumbrado y a la transformación y el transporte de la energía eléctrica, y sus edificios anexos.
+
+> Se modifica la denominación de la Estación de ferrocarril de Madrid-Chamartín, que pasa a denominarse "Estación de Madrid-Chamartín-Clara Campoamor" y la denominación de los grandes ejes 01, 02, 03 y 11 por el apartado primero y segundo de la Orden TMA/1240/2020, de 8 de diciembre. Ref. BOE-A-2020-16830
