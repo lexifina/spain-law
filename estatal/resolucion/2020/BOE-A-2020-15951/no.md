@@ -1,0 +1,1 @@
+Téngase en cuenta la actualización de las Directrices operativas para la gestión de pasajeros aéreos y personal de aviación con relación a la pandemia Covid-19, publicada por Resolución de 17 de diciembre de 2020, con efectos de 24 de diciembre de 2020. Ref. BOE-A-2020-16831
