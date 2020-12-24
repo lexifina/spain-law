@@ -1,0 +1,19 @@
+## Disposición final quinta. Modificación del Real Decreto-ley 20/2020, de 29 de mayo, por el que se establece el ingreso mínimo vital.
+
+Se modifica el artículo 29 del Real Decreto-ley 20/2020, de 29 de mayo, por el que se establece el ingreso mínimo vital, que pasa a estar redactado de la siguiente forma:
+
+«Artículo 29. Mecanismos de colaboración con otras administraciones
+
+1. Con el fin de intensificar las relaciones de cooperación, mejorar la eficiencia de la gestión de la prestación no contributiva de ingreso mínimo vital, así como facilitar la utilización conjunta de medios y servicios públicos, mediante la asistencia recíproca y el intercambio de información, el Ministerio de Inclusión, Seguridad Social y Migraciones o, en su caso, la Administración de la Seguridad Social podrán celebrar los oportunos convenios, o acuerdos, o cualquier otro instrumento de colaboración con otros órganos de la Administración General del Estado, de las administraciones de las comunidades autónomas y de las entidades locales.
+
+2. Las comunidades autónomas podrán remitir al Instituto Nacional de la Seguridad Social y este podrá reconocer la prestación de ingreso mínimo vital a las personas interesadas que otorguen su consentimiento a la comunidad autónoma de su domicilio para que, con dicha finalidad y a través de los protocolos telemáticos de intercambio de información habilitados al efecto, remita los datos necesarios para la identificación de dichas personas y la instrucción del procedimiento, así como un certificado emitido por la mencionada comunidad autónoma que será suficiente para que la entidad gestora considere solicitadas las prestaciones por las personas interesadas en la fecha de su recepción por la entidad gestora.
+
+El mencionado certificado será acreditativo de la constitución, en su caso, de una unidad de convivencia conforme establece el artículo 6 y del cumplimiento de los requisitos a que se refieren los artículos 4, 5 y el artículo 7 del presente real decreto-ley; así como de que se encuentra en su poder toda la documentación que pruebe el cumplimiento de dichos requisitos, a excepción de la vulnerabilidad económica a la que se refiere el artículo 8 del presente real decreto-ley, que será analizada por el Instituto Nacional de la Seguridad Social.
+
+Asimismo, el mencionado certificado será suficiente para que la entidad gestora considere cumplidos los requisitos indicados en los párrafos anteriores en el momento que se certifique por la comunidad autónoma, sin perjuicio de la obligación de las comunidades autónomas de remitir al referido Instituto toda la documentación en el plazo máximo de seis meses a contar desde la fecha de la resolución de la prestación o, en su caso, dentro de los diez días siguientes a la solicitud a tal efecto cuando sea necesaria para la resolución de cualquier reclamación.
+
+El derecho a la prestación del ingreso mínimo vital nacerá a partir del primer día del mes siguiente al de la fecha de presentación del certificado.
+
+Los expedientes resueltos por el Instituto Nacional de la Seguridad Social se comunicarán a las comunidades autónomas a través de los protocolos informáticos establecidos.
+
+Si en virtud del certificado emitido por la correspondiente comunidad autónoma se reconociese una prestación que posteriormente fuera declarada indebida y no fuese posible recuperar el importe abonado, los perjuicios ocasionados serán a cargo de la comunidad autónoma certificadora.»
