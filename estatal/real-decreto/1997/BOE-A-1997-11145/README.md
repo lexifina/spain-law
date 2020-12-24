@@ -26,6 +26,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 11](a11.md)
 - [Artículo 12](a12.md)
 - [Disposición adicional primera](daunica.md)
+- [Disposición adicional segunda](da.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)

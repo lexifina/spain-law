@@ -14,6 +14,10 @@
 
 5. Trabajos que supongan exposición a polvo de maderas duras.
 
+6. Trabajos que supongan exposición al polvo respirable de sílice cristalina generado en un proceso de trabajo.
+
+> Se añade el apartado 6 por el art. único.6 del Real Decreto 1154/2020, de 22 de diciembre. Ref. BOE-A-2020-16833
+
 > Se modifica el título por el art. 3.5 del Real Decreto 598/2015, de 3 de julio. Ref. BOE-A-2015-7458.
 
 > Se añade el apartado 5 por el art. único.6 del Real Decreto 349/2003, de 21 de marzo. Ref. BOE-A-2003-6934.
