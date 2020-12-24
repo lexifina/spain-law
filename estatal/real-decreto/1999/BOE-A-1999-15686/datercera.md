@@ -16,6 +16,8 @@ En el supuesto de que estos resultados positivos fuesen iguales o superiores al 
 
 En el supuesto de que los resultados fuesen negativos, la cuantía del aval será la que se obtenga de sumar a dichos resultados negativos acumulados el 15 por 100 del presupuesto de gastos correspondientes, salvo que la liga profesional hubiera ejecutado el aval, en cuyo caso, la cuantía será del 15 por 100 del presupuesto de gastos correspondientes, más el importe de los resultados negativos en la cuantía no cubierta por el aval ejecutado, en su caso.
 
+> Téngase en cuenta, a efectos del cálculo de la cuantía de los avales con arreglo al apartado 3, en los ejercicios afectados por la COVID-19, el art. único del Real Decreto 1162/2020, de 22 de diciembre. Ref. BOE-A-2020-16842#au
+
 4. Los avales serán ejecutados en los casos que corresponda, por las ligas profesionales al final del período de cada mandato de una Junta Directiva.
 
 Los avales habrán de ser ejecutados por una cuantía igual a la de los resultados económicos negativos acumulados durante cada período de mandato.
@@ -33,3 +35,5 @@ A estos efectos, tampoco se considerarán resultados económicos positivos los i
 El resultado de dichos informes deberá ser comunicado por la liga profesional al club, para que éste lo ponga, a su vez, en conocimiento de la Asamblea respectiva a los efectos oportunos.
 
 7. Las Juntas Directivas remitirán a la liga profesional el sistema interno de prestación de avales que hayan establecido que, en todo caso, contemplará los supuestos de fallecimiento, cese o dimisión de sus miembros. Tales supuestos deberán incluirse en los Estatutos o Reglamentos de los clubes.
+
+> Véase, en cuanto a las condiciones especiales de aplicación del régimen de compensación de avales para hacer frente al impacto de la COVID-19, el art. único del Real Decreto 1162/2020, de 22 de diciembre. Ref. BOE-A-2020-16842#au
