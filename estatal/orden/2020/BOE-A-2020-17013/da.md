@@ -1,0 +1,5 @@
+## Disposición adicional primera. Modificación de las zonas restringidas y zonas de vacunación voluntaria.
+
+Las zonas de restricción consistirán en un área de al menos un radio de 50 km a partir de la explotación infectada, y la zona de vacunación voluntaria se establecerá en zonas libres de enfermedad consideradas de mayor riesgo de introducción de la misma en función de la situación epidemiológica de su entorno geográfico y comercial. Dichas zonas podrán ser modificadas teniendo en cuenta la situación geográfica y los factores ecológicos, las condiciones meteorológicas, la presencia y distribución del vector, los datos históricos de distribución de la enfermedad.
+
+Se habilita al Director General de Sanidad de la Producción Agraria para modificar mediante resolución, que se publicará en el «Boletín Oficial del Estado», las zonas restringidas del anexo I y las zonas de vacunación voluntarias del anexo II de esta orden con base en las notificaciones recibidas de las comunidades autónomas.
