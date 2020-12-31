@@ -44,6 +44,7 @@
 | 576 | I.E. S/DETERMINADOS MEDIOS DE TRANSPORTE | 0A |
 | 595 | I.E. S/ EL CARBON | T |
 | 600 (2) | TRANSMISIONES PATRIMONIALES | 0A |
+| 602 | TASA POR LA GESTIÓN ADMINISTRATIVA DEL JUEGO. | 0A |
 | 610 (2) | ACT. JURID. RECIBOS NEGOCIADOS EE.CC. | 0A |
 | 615 (2) | ITP Y AJD. DOCS. CON ACCIÓN CAMBIARIA O ENDOSABLES A LA ORDEN. | 0A |
 | 620 (2) | COMPRA-VENTA VEHIC. USADOS ENTRE PARTIC. | 0A |
@@ -69,6 +70,10 @@
 (2) Cuando la gestión corresponda al Estado.
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se añade el modelo 602 por la disposición final 1 de la Orden HAC/1277/2020, de 28 de diciembre. Ref. BOE-A-2020-17272
+
+> Esta modificacion será de aplicación a los hechos imponibles cuyo devengo tenga lugar a partir del 31 de diciembre de 2020, según establece la disposición final 2 de la citada Orden.
 
 > Se añaden los modelos 770 y 771 por la disposición final 2 de la Orden HAC/530/2020, de 3 de junio. Ref. BOE-A-2020-6217
 
