@@ -12,7 +12,29 @@ Hidrofluorocarbonos (HFC).
 
 Perfluorocarbonos (PFC).
 
-Hexalfluoruro de azufre (SF6).
+Hexafluoruro de azufre (SF6).
+
+Trifluoruro de nitrógeno (NF3)1.
+
+1 Se aplicará únicamente a partir del inicio del segundo período de compromiso.
+
+> Téngase en cuenta que esta lista de «Gases de efecto invernadero», modificada por el art. 1.B de la Enmienda de Doha adoptada el 8 de diciembre de 2012. Ref. BOE-A-2020-13686, entra en vigor el 31 de diciembre de 2020.
+
+> Redacción anterior:
+
+> "Gases de efecto invernadero:
+
+> Dióxido de carbono (CO2).
+
+> Metano (CH4).
+
+> Óxido nitroso (N2O).
+
+> Hidrofluorocarbonos (HFC).
+
+> Perfluorocarbonos (PFC).
+
+> Hexalfluoruro de azufre (SF6)."
 
 Sectores/categorías de fuentes:
 
@@ -81,3 +103,5 @@ Tratamiento de las aguas residuales.
 Incineración de desechos.
 
 Otros.
+
+> Se modifica la lista de «Gases de efecto invernadero» por el art. 1.B de la Enmienda de Doha adoptada el 8 de diciembre de 2012. Ref. BOE-A-2020-13686
