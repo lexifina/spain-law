@@ -435,6 +435,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional vigésima](davigesima.md)
 - [Disposición adicional vigésimo primera](davigesimoprimera.md)
 - [Disposición adicional vigésimo segunda](davigesimosegunda.md)
+- [Disposición adicional vigésimo tercera](da.md)
+- [Disposición adicional vigésimo cuarta](da-2.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición transitoria tercera](dttercera.md)
