@@ -1,0 +1,3 @@
+## Disposición transitoria octava. Exención de la aplicación de cargos al gas natural usado como carburante.
+
+En el periodo regulatorio que comienza el 1 de enero de 2021, el gas natural usado como carburante y suministrado desde instalaciones destinadas exclusivamente a este fin, así como el gas natural licuado usado también como carburante terrestre o marítimo, quedarán exentos de la aplicación de los cargos referidos en el artículo 8.1.b. Antes del comienzo del siguiente período regulatorio, mediante orden de la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico se procederá a aprobar, en su caso, la continuación de la exención durante los siguientes periodos regulatorios.
