@@ -12,6 +12,10 @@ c) Ubicación geográfica. Se considerará que no se ha modificado la ubicación
 
 En el caso de que se realice una hibridación, a los efectos de los permisos de acceso y conexión, la instalación se considerará la misma siempre que se cumplan los criterios anteriormente señalados. No obstante, en el caso de hibridación de instalaciones ya en servicio o proyectos que ya cuenten con permisos de acceso concedido, la condición a) solo será de aplicación a los módulos de generación de electricidad existentes o a los que se refiera el permiso de acceso ya otorgado.
 
+A estos efectos, las modificaciones en la ubicación geográfica de la instalación que se produzcan en un periodo inferior a diez años se considerarán de forma acumulativa y por tanto se deberá analizar la distancia entre los centros geométricos de la nueva solicitud con respecto a la más antigua presentada en el plazo señalado.
+
 2. En el caso de instalaciones de generación de electricidad que, de conformidad con lo establecido en el Reglamento (UE) 2016/631, de 14 de abril de 2016, que establece un código de red sobre requisitos de conexión de generadores a la red, estén integradas por más de un módulo de generación de electricidad, la condición asociada a la tecnología de generación a la que se refiere el apartado anterior será de aplicación a cada uno de los módulos de generación que la integren de tal manera que dicha instalación de generación de electricidad no podrá ser considerada la misma si se modifica la tecnología de generación de cualquiera de los módulos de generación de electricidad que la integran.
+
+> Se añade el párrafo final al apartado 1 por la disposición final 2.4 del Real Decreto 1183/2020, de 29 de diciembre. Ref. BOE-A-2020-17278##df-2
 
 > Se añade por el art. 3.10 del Real Decreto-ley 23/2020, de 23 de junio. Ref. BOE-A-2020-6621#a3
