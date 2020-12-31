@@ -1,6 +1,12 @@
 ## ANEXO II
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/171/07469_003.png)
+## Modelo 353 de autoliquidación mensual, modelo agregado Grupo de Entidades
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/340/17269_6059.png)
+
+> Se sustituye por el art. 1 y anexo II de la Orden HAC/1274/2020, de 28 de diciembre. Ref. BOE-A-2020-17269
+
+> Téngase en cuenta que será aplicable por primera vez a las autoliquidaciones correspondientes a los periodos de liquidación que se inicien a partir del 1 de enero de 2021, según establece la disposición final única de la citada Orden.
 
 > Se sustituye por el art. 1.2 y el anexo II de la Orden HAP/1222/2014, de 9 de julio. Ref. BOE-A-2014-7469.
 

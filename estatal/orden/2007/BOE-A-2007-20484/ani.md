@@ -1,10 +1,18 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5042.png)
+## Modelo 322 de autoliquidación mensual, modelo individual Grupo de Entidades
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5164.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/340/17269_5807.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5237.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/340/17269_5845.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/340/17269_5916.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/340/17269_5987.png)
+
+> Se sustituye por el art. 1 y anexo I de la Orden HAC/1274/2020, de 28 de diciembre. Ref. BOE-A-2020-17269
+
+> Téngase en cuenta que será aplicable por primera vez a las autoliquidaciones correspondientes a los periodos de liquidación que se inicien a partir del 1 de enero de 2021, según establece la disposición final única de la citada Orden.
 
 > Se sustituye por el que figura como Anexo I de la Orden HAC/1148/2018, de 18 de octubre, según establece su art. 1. Ref. BOE-A-2018-14901
 

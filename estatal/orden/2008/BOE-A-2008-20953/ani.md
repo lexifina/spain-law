@@ -1,14 +1,22 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5340.png)
+## Modelo 303 de autoliquidación del Impuesto sobre el Valor Añadido
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5415.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/340/17269_6130.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5488.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/340/17269_6203.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5593.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/340/17269_6275.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/263/14901_5707.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/340/17269_6347.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/340/17269_6418.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2020/340/17269_6489.png)
+
+> Se sustituye por el art. 2 y anexo III de la Orden HAC/1274/2020, de 28 de diciembre. Ref. BOE-A-2020-17269
+
+> Téngase en cuenta que será aplicable por primera vez a las autoliquidaciones correspondientes a los periodos de liquidación que se inicien a partir del 1 de enero de 2021, según establece la disposición final única de la citada Orden.
 
 > Se sustituye por el art. 3 y anexo II de la Orden HAC/1148/2018, de 18 de octubre. Ref. BOE-A-2018-14901
 
