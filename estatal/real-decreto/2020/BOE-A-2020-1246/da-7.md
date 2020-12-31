@@ -12,7 +12,7 @@ d) La Dirección General de Agenda Urbana y Arquitectura.
 
 e) La Dirección General del Trabajo Autónomo, de la Economía Social y de la Responsabilidad Social de las Empresas.
 
-f) La Dirección General de Política Energética y Minas.
+f) La Dirección General de Políticas contra la Despoblación.
 
 g) La Oficina Española de Cambio Climático.
 
@@ -57,6 +57,8 @@ d) Dirección General del Instituto de Mayores y Servicios Sociales.
 e) Dirección General del Instituto de la Juventud.
 
 f) Dirección General del Instituto para la Transición Justa.
+
+> Se modifica el apartado 1.f) por el art. 1.2 del Real Decreto 1182/2020, de 29 de diciembre. Ref. BOE-A-2020-17345
 
 > Se modifica el apartado 1 por el art. 1 del Real Decreto 1041/2020, de 24 de noviembre. Ref. BOE-A-2020-14878
 
