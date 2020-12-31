@@ -1,0 +1,1429 @@
+## ANEXO II
+
+## Convalidaciones de módulos profesionales entre títulos regulados por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo y por la Ley Orgánica 2/2006, de 3 de mayo, de Educación
+
+| Convalidaciones de los módulos profesionales de Formación y Orientación Laboral |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO Y GRADO SUPERIOR |
+| Formación y Orientación Laboral de Cualquier Ciclo Formativo, más la certificación de prevención de riesgos laborales de nivel básico. | Formación y Orientación Laboral. (Cualquier Ciclo Formativo) |
+| Ciclo completo de Grado Superior de Prevención de Riesgos Profesionales. (Mantenimiento y servicios a la producción) | Formación y Orientación Laboral. (Cualquier Ciclo Formativo) |
+| Convalidaciones del módulo profesional de Empresa e Iniciativa Emprendedora |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Empresa e Iniciativa Emprendedora (Ley Orgánica 2/2006) |
+| GRADO MEDIO Y GRADO SUPERIOR |
+| Administración, gestión y comercialización en la pequeña empresa. (Cualquier ciclo formativo) | Empresa e Iniciativa Emprendedora. (Cualquier ciclo formativo) |
+| Administración y gestión de un pequeño establecimiento comercial. Ciclo Comercio. (Comercio y Marketing) | Empresa e Iniciativa Emprendedora. (Cualquier ciclo formativo) |
+| Organización y gestión de una explotación agraria familiar Ciclo Trabajos Forestales y de Conservación del Medio Natural. (RD 1713/1996, de 12 de julio) (Agraria) Ciclo Jardinería. (RD 1714/1996, de 12 de julio) (Agraria) Ciclo Explotaciones Agrarias Extensivas. (RD 1715/1996, de 12 de julio) (Agraria) Ciclo Explotaciones Agrícolas Intensivas. (RD 1716/1996, de 12 de julio) (Agraria) Ciclo Explotaciones Ganaderas. (RD 1717/1996, de 12 de julio) (Agraria) | Empresa e Iniciativa Emprendedora. (Cualquier ciclo formativo) |
+| Ciclo completo de Gestión administrativa. (RD 1662/1994, de 22 de julio) (Administración y Gestión) | Empresa e Iniciativa Emprendedora. (Cualquier ciclo formativo) |
+| Administración, gestión y comercialización en la pequeña empresa. (Cualquier ciclo formativo) | Empresa e Iniciativa Emprendedora. (Cualquier ciclo formativo) |
+| Organización y gestión de una pequeña empresa de actividades de tiempo libre y socioeducativas. Ciclo Animación Sociocultural. (Servicios Socioculturales y a la Comunidad) Ciclo Animación de Actividades Físicas y Deportivas. (Actividades Físicas y Deportivas) Ciclo Animación Turística. (Hostelería y Turismo) | Empresa e Iniciativa Emprendedora. (Cualquier ciclo formativo) |
+| Organización y control en agencias de viajes. Ciclo Agencias de Viajes. (Hostelería y Turismo) | Empresa e Iniciativa Emprendedora. (Cualquier ciclo formativo) |
+| Administración de establecimientos de restauración. Ciclo Restauración. (Hostelería y Turismo) | Empresa e Iniciativa Emprendedora. (Cualquier ciclo formativo) |
+| Administración y gestión de una unidad/gabinete de Ortoprotésica. Ciclo Ortoprotésica. (Sanidad) | Empresa e Iniciativa Emprendedora. (Cualquier ciclo formativo) |
+| Organización, administración y gestión de una unidad/gabinete de prótesis dentales. Ciclo Prótesis Dentales. (Sanidad) | Empresa e Iniciativa Emprendedora. (Cualquier ciclo formativo) |
+| Administración y gestión de un gabinete audioprotésico. Ciclo Audioprótesis. (Sanidad) | Empresa e Iniciativa Emprendedora. (Cualquier ciclo formativo) |
+| Organización y gestión de una empresa agraria. Ciclo Gestión y Organización de los Recursos Naturales y Paisajísticos. (Agraria) Ciclo Gestión y Organización de Empresas Agropecuarias. (Agraria) | Empresa e Iniciativa Emprendedora. (Cualquier ciclo formativo) |
+| Ciclo completo de Administración y finanzas. (RD 1659/1994, de 22 de julio) (Administración y Gestión) | Empresa e Iniciativa Emprendedora. (Cualquier ciclo formativo) |
+| Convalidaciones de los módulos profesionales de Inglés |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de inglés de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Lengua Extranjera (duración de 65 horas, según reales decretos por los que se establecen los títulos de formación profesional y sus enseñanzas mínimas) Cuando la lengua extranjera cursada y superada sea inglés. | 0156. Inglés. |
+| Lengua Extranjera o de la C.A. Cuando la lengua extranjera cursada y superada sea inglés. | 0156. Inglés. |
+| Módulos Profesionales de Lengua Extranjera de ciclos formativos de Grado Superior, en cualquiera de sus denominaciones, siempre que sea la misma que la que se desea convalidar. | 0156. Inglés. |
+| GRADO SUPERIOR |
+| Lengua Extranjera (Inglés). | 0179. Inglés. |
+| Lengua Extranjera (duración de 90 horas, según reales decretos por los que se establecen los títulos de formación profesional y sus enseñanzas mínimas) Cuando la lengua extranjera cursada y superada sea inglés. | 0179. Inglés. |
+| Lengua Extranjera en Comercio Internacional. Cuando la lengua extranjera cursada y superada sea inglés. | 0179. Inglés. |
+| Convalidaciones de los módulos profesionales de Segunda Lengua Extranjera |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO SUPERIOR |
+| Segunda Lengua Extranjera. Cuando la lengua extranjera cursada y superada sea la misma que se desea convalidar. | 180. Segunda Lengua Extranjera. |
+| Convalidaciones del módulo profesional 0020 Primeros Auxilios |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| Técnico en Cuidados Auxiliares de Enfermería | Cualquier ciclo formativo de cualquier familia profesional en el que aparezca |
+| Ciclo completo | 0020. Primeros auxilios |
+| Administración y Gestión |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Gestión Administrativa (RD 1662/1994, de 22 de julio) | Técnico en Gestión Administrativa (RD 1631/2009, de 30 de octubre) |
+| Comunicación, archivo de la información y operatoria de teclados. | 0437. Comunicación empresarial y atención al cliente. |
+| Gestión administrativa de compraventa. | 0438. Operaciones administrativas de la compraventa. |
+| Gestión administrativa de personal. | 0442. Operaciones administrativas de recursos humanos. |
+| Contabilidad general y tesorería. | 0441. Técnica contable. 0443. Tratamiento de la documentación contable. |
+| Productos y servicios financieros y de seguros básicos. | 0448. Operaciones auxiliares de gestión de tesorería. |
+| Principios de gestión administrativa pública. | 0439. Empresa y Administración. |
+| Aplicaciones informáticas. | 0440. Tratamiento informático de la información. |
+| Técnico Superior en Secretariado (RD 1658/1994, de 22 de julio) | Técnico en Gestión Administrativa (RD 1631/2009, de 30 de octubre) |
+| Gestión de datos. Elaboración y presentación de documentos e información. | 0440. Tratamiento informático de la información. |
+| Comunicación y relaciones profesionales. | 0437. Comunicación empresarial y atención al cliente. |
+| GRADO SUPERIOR |
+| Técnico Superior en Secretariado (RD 1658/1994, de 22 de julio) | Técnico Superior en Asistencia a la Dirección (RD 1582/2011, de 4 de noviembre) |
+| Elementos de derecho. | 0647. Gestión de la documentación jurídica y empresarial. |
+| Gestión de datos. Elaboración y presentación de documentos e información. | 0649. Ofimática y proceso de la información. |
+| Comunicación y relaciones profesionales. | 0651. Comunicación y atención al cliente. |
+| Organización del servicio y trabajos de secretariado. | 0662. Organización de eventos empresariales. |
+| Técnico Superior en Administración y Finanzas (RD 1659/1994, de 22 de julio) | Técnico Superior en Administración y Finanzas (RD 1584/2011, de 4 de noviembre) |
+| Administración pública. | 0647. Gestión de la documentación jurídica y empresarial. |
+| Aplicaciones informáticas y operatoria de teclados | 0649. Ofimática y proceso de la información. |
+| Recursos humanos. | 0652. Gestión de recursos humanos. |
+| Gestión financiera. Productos y servicios financieros y de seguros. | 0653. Gestión financiera. |
+| Contabilidad y fiscalidad. | 0654. Contabilidad y fiscalidad. |
+| Gestión del aprovisionamiento. | 0655. Gestión logística y comercial. |
+| Proyecto empresarial. | 0656. Simulación empresarial. |
+| Técnico Superior en Secretariado. (RD 1658/1994, de 22 de julio) | Técnico Superior en Administración y Finanzas. (RD 1584/2011, de 4 de noviembre) |
+| Elementos de derecho. | 0647. Gestión de la documentación jurídica y empresarial. |
+| Gestión de datos. Elaboración y presentación de documentos e información. | 0649. Ofimática y proceso de la información. |
+| Comunicación y relaciones profesionales. | 0651. Comunicación y atención al cliente. |
+| Técnico Superior en Administración y Finanzas (RD 1659/1994, de 22 de julio) | Técnico Superior en Asistencia a la Dirección (RD 1582/2011, de 4 de noviembre) |
+| Administración pública. | 0647. Gestión de la documentación jurídica y empresarial. |
+| Aplicaciones informáticas y operatorias de teclado. | 0649. Ofimática y proceso de la información. |
+| Agraria |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Trabajos Forestales y de Conservación del Medio Natural (RD 1713/1996, de 12 de julio) | Técnico en Aprovechamiento y Conservación del Medio Natural (RD 1071/2012, de 13 de julio) |
+| Agrotecnología. | 0404. Fundamentos agronómicos. |
+| Mecanización agraria. Instalaciones agrarias. | 0837. Maquinaria e instalaciones forestales. |
+| Aprovechamientos forestales. | 0833. Aprovechamiento del medio natural. |
+| Aprovechamientos cinegéticos y piscícolas. | 0834. Conservación de las especies cinegéticas y piscícolas. |
+| Producción de plantas. | 0835. Producción de planta forestal en vivero. |
+| Conservación y defensa de las masas forestales. | 0409. Principios de sanidad vegetal. 0479. Control fitosanitario. 0832. Repoblaciones forestales y tratamientos selvícolas. 0836. Prevención de incendios forestales. |
+| Actividades de uso público en espacios naturales. | 0838. Uso público en espacios naturales. |
+| Técnico en Jardinería (RD 1714/1996, de 12 de julio) | Técnico en Aprovechamiento y Conservación del Medio Natural (RD 1071/2012, de 13 de julio) |
+| Mecanización agraria. Instalaciones agrarias. | 0837. Maquinaria e instalaciones forestales. |
+| Agrotecnología. | 0404. Fundamentos agronómicos. |
+| Producción de plantas. | 0835. Producción de planta forestal en vivero. |
+| Técnico en Explotaciones Agrarias Extensivas (RD 1715/1996, de 12 de julio) | Técnico en Aprovechamiento y Conservación del Medio Natural (RD 1071/2012, de 13 de julio) |
+| Mecanización agraria. Instalaciones agrarias. | 0837. Maquinaria e instalaciones forestales. |
+| Agrotecnología. | 0404. Fundamentos agronómicos. |
+| Técnico Explotaciones Agrícola Intensivas (RD 1716/1996, de 12 de julio) | Técnico en Aprovechamiento y Conservación del Medio Natural (RD 1071/2012, de 13 de julio) |
+| Mecanización agraria. Instalaciones agrarias. | 0837. Maquinaria e instalaciones forestales. |
+| Agrotecnología. | 0404. Fundamentos agronómicos. |
+| Producción de plantas. | 0835. Producción de planta forestal en vivero. |
+| Técnico Explotaciones Ganaderas (RD 1717/1996, de 12 de julio) | Técnico en Aprovechamiento y Conservación del Medio Natural (RD 1071/2012, de 13 de julio) |
+| Mecanización agraria. Instalaciones agrarias. | 0837. Maquinaria e instalaciones forestales. |
+| Agrotecnología. | 0404. Fundamentos agronómicos. |
+| Técnico en Jardinería (RD 1714/1996, de 12 de julio) | Técnico en Jardinería y Floristería (RD 1129/2010, de 10 de septiembre) |
+| Agrotecnología. | 0404. Fundamentos Agronómicos. |
+| Instalaciones agrarias. | 0408. Infraestructuras e instalaciones agrícolas. |
+| Métodos de control fitosanitario. | 0409. Principios de sanidad vegetal. 0479. Control fitosanitario. |
+| Implantación de jardines y zonas verdes. | 0576. Implantación de jardines y zonas verdes. |
+| Conservación y mejora de jardines y zonas verdes. | 0577. Mantenimiento y mejora de jardines y zonas verdes. |
+| Producción de plantas. | 0578. Producción de plantas y tepes en vivero. |
+| Jardinería de interiores y arreglos florales. | 0579. Composiciones florales y con plantas. |
+| Técnico Explotaciones Agrarias Extensivas (RD 1715/1996, de 12 de julio) | Técnico en Jardinería y Floristería (RD 1129/2010, de 10 de septiembre) |
+| Agrotecnología. | 0404. Fundamentos Agronómicos. |
+| Instalaciones agrarias. | 0408. Infraestructuras e instalaciones agrícolas. |
+| Métodos de control fitosanitario. | 0409. Principios de sanidad vegetal. 0479. Control fitosanitario. |
+| Técnico Explotaciones Agrícolas Intensivas (RD 1716/1996, de 12 de julio) | Técnico en Jardinería y Floristería (RD 1129/2010, de 10 de septiembre) |
+| Agrotecnología. | 0404. Fundamentos Agronómicos. |
+| Instalaciones agrarias. | 0408. Infraestructuras e instalaciones agrícolas. |
+| Métodos de control fitosanitario. | 0409. Principios de sanidad vegetal. 0479. Control fitosanitario. |
+| Producción de plantas. | 0578. Producción de plantas y tepes en viveros. |
+| Técnico Explotaciones Ganaderas (RD 1717/1996, de 12 de julio) | Técnico en Jardinería y Floristería (RD 1129/2010, de 10 de septiembre) |
+| Agrotecnología. | 0404. Fundamentos Agronómicos. |
+| Instalaciones agrarias. | 0408. Infraestructuras e instalaciones agrícolas. |
+| Técnico en Trabajos Forestales y de Conservación del Medio Natural (RD 1713/1996, de 12 de julio) | Técnico en Jardinería y Floristería (RD 1129/2010, de 10 de septiembre) |
+| Agrotecnología. | 0404. Fundamentos Agronómicos. |
+| Instalaciones agrarias. | 0408. Infraestructuras e instalaciones agrícolas. |
+| Producción de plantas. | 0578. Producción de plantas y tepes en viveros. |
+| Técnico en Jardinería (RD 1714/1996, de 12 de julio) | Técnico en Producción Agroecológica (RD 1633/2009, de 30 de octubre) |
+| Agrotecnología. | 0404. Fundamentos Agronómicos. |
+| Instalaciones agrarias. | 0408. Infraestructuras e instalaciones agrícolas. |
+| Técnico Explotaciones Agrarias Extensivas (RD 1715/1996, de 12 de julio) | Técnico en Producción Agroecológica (RD 1633/2009, de 30 de octubre) |
+| Agrotecnología. | 0404. Fundamentos Agronómicos. |
+| Instalaciones agrarias. | 0408. Infraestructuras e instalaciones agrícolas. |
+| Técnico Explotaciones Agrícolas Intensivas (RD 1716/1996, de 12 de julio) | Técnico en Producción Agroecológica (RD 1633/2009, de 30 de octubre) |
+| Agrotecnología. | 0404. Fundamentos Agronómicos. |
+| Instalaciones agrarias. | 0408. Infraestructuras e instalaciones agrícolas. |
+| Técnico Explotaciones Ganaderas (RD 1717/1996, de 12 de julio) | Técnico en Producción Agroecológica (RD 1633/2009, de 30 de octubre) |
+| Agrotecnología. | 0404. Fundamentos Agronómicos. |
+| Instalaciones agrarias. | 0408. Infraestructuras e instalaciones agrícolas. |
+| Técnico en Trabajos Forestales y de Conservación del Medio Natural (RD 1713/1996, de 12 de julio) | Técnico en Producción Agroecológica (RD 1633/2009, de 30 de octubre) |
+| Agrotecnología. | 0404. Fundamentos Agronómicos. |
+| Instalaciones agrarias. | 0408. Infraestructuras e instalaciones agrícolas. |
+| Técnico en Explotaciones Agrarias Extensivas (RD 1715/1996, de 12 de julio) | Técnico en Producción Agropecuaria (RD 1634/2009, de 30 de octubre) |
+| Agrotecnología. | 0404. Fundamentos Agronómicos. |
+| Instalaciones agrarias. | 0408. Infraestructuras e instalaciones agrícolas. |
+| Métodos de control fitosanitario. | 0409. Principios de sanidad vegetal. 0479. Control fitosanitario. |
+| Cultivos arbóreos y arbustivos. Cultivos herbáceos. | 0475. Implantación de cultivos. 0476. Producción agrícola. |
+| Manejo racional del ganado. Producción ganadera ligada a la tierra. | 0405. Fundamentos zootécnicos. 0477. Producción de leche, huevos y animales para vida. 0478. Producción de carne y otras producciones ganaderas. |
+| Técnico en Explotaciones Agrícolas Intensivas (RD 1716/1996, de 12 de julio) | Técnico en Producción Agropecuaria (RD 1634/2009, de 30 de octubre) |
+| Agrotecnología. | 0404. Fundamentos Agronómicos. |
+| Instalaciones agrarias. | 0408. Infraestructuras e instalaciones agrícolas. |
+| Métodos de control fitosanitario. | 0409. Principios de sanidad vegetal. 0479. Control fitosanitario. |
+| Cultivos hortícolas. Cultivos frutícolas. | 0475. Implantación de cultivos. 0476. Producción agrícola. |
+| Técnico en Explotaciones Ganaderas (RD 1717/1996, de 12 de julio) | Técnico en Producción Agropecuaria (RD 1634/2009, de 30 de octubre) |
+| Agrotecnología. | 0404. Fundamentos Agronómicos. |
+| Instalaciones agrarias. | 0408. Infraestructuras e instalaciones agrícolas. |
+| Manejo racional del ganado. Producción ganadera intensiva. | 0405. Fundamentos zootécnicos. 0477. Producción de leche, huevos y animales para vida. 0478. Producción de carne y otras producciones ganaderas. |
+| Técnico en Trabajos Forestales y de Conservación del Medio Natural (RD 1713/1996, de 12 de julio) | Técnico en Producción Agropecuaria (RD 1634/2009, de 30 de octubre) |
+| Agrotecnología. | 0404. Fundamentos Agronómicos. |
+| Instalaciones agrarias. | 0408. Infraestructuras e instalaciones agrícolas. |
+| Técnico en Jardinería (RD 1714/1996, de 12 de julio) | Técnico en Producción Agropecuaria (RD 1634/2009, de 30 de octubre) |
+| Agrotecnología. | 0404. Fundamentos Agronómicos. |
+| Instalaciones agrarias. | 0408. Infraestructuras e instalaciones agrícolas. |
+| GRADO SUPERIOR |
+| Técnico Superior en Gestión y Organización de los Recursos Naturales y Paisajísticos (RD 1712/1996, de 12 de julio) | Técnico Superior en Paisajismo y Medio Rural (RD 259/2011, de 28 de febrero) |
+| Gestión y organización de la producción de plantas. | 0691. Gestión y organización del vivero. |
+| Mecanización e instalaciones en una empresa agraria. | 0694. Maquinaría e instalaciones agroforestales. |
+| Instalación y mantenimiento de jardines y restauración del paisaje. | 0697. Diseño de jardines y restauración del paisaje. 0698. Conservación de jardines y céspedes deportivos. |
+| Técnico Superior en Gestión y Organización de Empresas Agropecuarias (RD 1711/1996, de 12 de julio) | Técnico Superior en Paisajismo y Medio Rural (RD 259/2011, de 28 de febrero) |
+| Gestión y organización de la producción de plantas. | 0691. Gestión y organización del vivero. |
+| Fitopatología. | 0692. Fitopatología. |
+| Mecanización e instalaciones en una empresa agraria. | 0694. Maquinaría e instalaciones agroforestales. |
+| Producción agrícola. | 0695. Planificación de cultivos. 0696. Gestión de cultivos. |
+| Técnico Superior en Gestión y Organización de los Recursos Naturales y Paisajísticos (RD 1712/1996, de 12 de julio) | Técnico Superior en Gestión Forestal y del Medio Natural (RD 260/2011, de 28 de febrero) |
+| Gestión de los aprovechamientos forestales. | 0810. Gestión de los aprovechamientos del medio forestal. |
+| Gestión y organización de la producción de plantas. | 0811. Gestión y organización del vivero forestal. |
+| Protección de las masas forestales. | 0692. Fitopatología. 0816. Defensa contra incendios forestales. |
+| Gestión de los aprovechamientos cinegéticos y piscícolas. | 0812. Gestión cinegética. 0813. Gestión de la pesca continental. |
+| Gestión selvícola. | 0814. Gestión de montes. |
+| Gestión del uso público del medio natural. | 0815. Gestión de la conservación del medio natural. |
+| Mecanización e instalaciones en una empresa agraria. | 0694. Maquinaría e instalaciones agroforestales. |
+| Técnico Superior en Gestión y Organización de Empresas Agropecuarias (RD 1711/1996, de 12 de julio) | Técnico Superior en Gestión Forestal y del Medio Natural (RD 260/2011, de 28 de febrero) |
+| Gestión y organización de la producción de plantas. | 0811. Gestión y organización del vivero forestal. |
+| Mecanización e instalaciones en una empresa agraria. | 0694. Maquinaria e instalaciones agroforestales. |
+| Técnico Superior en Gestión y Organización de Empresas Agropecuarias (RD 1711/1996, de 12 de julio) | Técnico Superior en Ganadería y Asistencia en Sanidad Animal (RD 1585/2012, de 23 de noviembre) |
+| Producción ganadera. | 1274. Organización y control de la reproducción y cría. 1275. Gestión de la producción animal. |
+| Mecanización e instalaciones en una empresa agraria. | 1278. Maquinaria e instalaciones ganaderas. |
+| Técnico Superior en Gestión y Organización de los Recursos Naturales y Paisajísticos (RD 1712/1996, de 12 de julio) | Técnico Superior en Ganadería y Asistencia en Sanidad Animal (RD 1585/2012, de 23 de noviembre) |
+| Mecanización e instalaciones en una empresa agraria. | 1278. Maquinaria e instalaciones ganaderas. |
+| Artes Gráficas |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Impresión en Artes Gráficas (RD 2425/1994, de 16 de diciembre) | Técnico en Impresión Gráfica (RD 1590/2011, de 4 de noviembre) |
+| Procesos de impresión en offset. | 0877. Preparación y regulación de máquinas offset. 0878. Desarrollo de la tirada offset. |
+| Materias primas en artes gráficas. Procesos de impresión en offset. | 0882. Preparación de materiales para impresión. |
+| Técnico en Encuadernación y Manipulados de Papel y Cartón (RD 2426/1994, de 16 de diciembre) | Técnico en Postimpresión y Acabados Gráficos (RD 1683/2011, de 18 de noviembre) |
+| Procesos de encuadernación y manipulados de papel. Materias primas en artes gráficas. | 1214. Guillotinado y plegado. |
+| Procesos de manipulados de cartón. | 1217. Troquelado. |
+| Técnico en Preimpresión en Artes Gráficas (RD 2424/1994, de 16 de diciembre) | Técnico en Preimpresión Digital (RD 1586/2011, de 4 de noviembre) |
+| Tratamiento de textos. | 0866. Tratamiento de textos. |
+| Tratamiento de imágenes. | 0867. Tratamiento de imagen en mapa de bits. 0873. Ilustración vectorial. |
+| Ensamblado y filmado de textos e imágenes. | 0870. Compaginación. |
+| Materias primas de artes gráficas. | 0871. Identificación de materiales en preimpresión. |
+| Técnico en Encuadernación y Manipulados de Papel y Cartón (RD 2426/1994, de 16 de diciembre) | Técnico en Preimpresión Digital (RD 1586/2011, de 4 de noviembre) |
+| Materias primas de artes gráficas. | 0871. Identificación de materiales en preimpresión. |
+| GRADO SUPERIOR |
+| Técnico Superior Producción en Industrias de Artes Gráficas (RD 2423/1994, de 16 de diciembre) | Técnico Superior en Diseño y Gestión de la Producción Gráfica (RD 175/2013, de 8 de marzo) |
+| Materiales de producción en artes gráficas. | 1417. Materiales de producción gráfica. |
+| Procesos de Preimpresión. | 1478. Organización de los procesos de preimpresión digital. |
+| Procesos de Impresión. | 1540. Organización de los procesos de impresión gráfica. |
+| Procesos de Postimpresión. | 1541. Organización de los procesos de postimpresión, transformados y acabados. |
+| Organización de la producción en las industrias de Artes Gráficas. | 1538. Gestión de la producción en la industria gráfica. |
+| Técnico Superior en Diseño y Producción Editorial (RD 2422/1994, de 16 de diciembre) | Técnico Superior en Diseño y Gestión de la Producción Gráfica (RD 175/2013, de 8 de marzo) |
+| Materiales de producción en artes gráficas. | 1417. Materiales de producción gráfica. |
+| Diseño gráfico. | 1479. Diseño de productos gráficos. |
+| Técnico Superior en Diseño y Producción Editorial (RD 2422/1994, de 16 de diciembre) | Técnico Superior en Diseño y Edición de Publicaciones Impresas y Multimedia (RD 174/2013, de 8 de marzo) |
+| Materiales de producción en artes gráficas. | 1417. Materiales de producción gráfica. |
+| Diseño gráfico. | 1479. Diseño de productos gráficos. |
+| Producción editorial. | 1482. Producción editorial. |
+| Organización de la producción en las industrias de Artes Gráficas. Gestión de calidad en las industrias de Artes Gráficas. | 1481. Gestión de la producción en procesos de edición. |
+| Técnico Superior Producción en Industrias de Artes Gráficas (RD 2423/1994, de 16 de diciembre) | Técnico Superior en Diseño y Edición de Publicaciones Impresas y Multimedia (RD 174/2013, de 8 de marzo) |
+| Materiales de producción en artes gráficas. | 1417. Materiales de producción gráfica. |
+| Organización de la producción en las industrias de Artes Gráficas. Gestión de calidad en las industrias de Artes Gráficas. | 1481. Gestión de la producción en procesos de edición. |
+| Procesos de Preimpresión. | 1478. Organización de los procesos de preimpresión digital. |
+| Comercio y marketing |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Comercio (RD 1655/1994, de 22 de julio) | Técnico en Actividades Comerciales (RD 1688/2011, de 18 de noviembre) |
+| Operaciones de almacenaje. | 1228. Técnicas de almacén. |
+| Animación del punto de venta. | 1231. Dinamización del punto de venta. |
+| Operaciones de venta. | 1232. Procesos de venta. |
+| Administración y gestión de un pequeño establecimiento comercial. | 1227. Gestión de un pequeño comercio. |
+| GRADO SUPERIOR |
+| Técnico Superior en Comercio Internacional (RD 1653/1994, de 22 de julio) | Técnico Superior en Comercio Internacional (RD 1574/2011, de 4 de noviembre) |
+| Gestión administrativa del comercio internacional. | 0627. Gestión administrativa del comercio internacional. |
+| Marketing internacional. | 0823. Marketing internacional. |
+| Negociación internacional. | 0824. Negociación internacional. |
+| Financiación internacional. | 0825. Financiación internacional. |
+| Medios de pago internacionales. | 0826. Medios de pago internacionales. |
+| Almacenaje de productos. | 0625. Logística de almacenamiento. |
+| Transporte internacional de mercancías. | 0622. Transporte internacional de mercancías. |
+| Técnico Superior en Gestión del Transporte (RD 1654/1994, de 22 de julio) | Técnico Superior en Comercio Internacional (RD 1574/2011, de 4 de noviembre) |
+| Ciclo completo. | 0622. Transporte internacional de mercancías. 0625. Logística del almacenamiento. |
+| Técnico Superior en Administración y finanzas (RD 1659/1994, de 22 de julio) (Administración) | Técnico Superior en Comercio Internacional (RD 1574/2011, de 4 de noviembre) |
+| Ciclo completo. | 0623. Gestión económica y financiera de la empresa. |
+| Técnico Superior en Gestión Comercial y Marketing (RD 1651/1994, de 22 de julio) | Técnico Superior en Comercio Internacional (RD 1574/2011, de 4 de noviembre) |
+| Logística comercial. | 0625. Logística de almacenamiento. |
+| Técnico Superior en Administración y finanzas (RD 1659/1994, de 22 de julio) (Administración) | Técnico Superior en Gestión de Ventas y Espacios Comerciales (RD 1573/2011, de 4 de noviembre) |
+| Ciclo completo. | 0623. Gestión económica y financiera de la empresa. |
+| Técnico Superior en Gestión Comercial y Marketing (RD 1651/1994, de 22 de julio) | Técnico Superior en Gestión de Ventas y Espacios Comerciales (RD 1573/2011, de 4 de noviembre) |
+| Investigación comercial. | 1010. Investigación comercial. |
+| Políticas de marketing. | 0930. Políticas de marketing. |
+| Logística comercial. | 0625. Logística de almacenamiento. |
+| Técnico Superior en Administración y finanzas (RD 1659/1994, de 22 de julio) (Administración) | Técnico Superior en Marketing y Publicidad (RD 1571/2011, de 4 de noviembre) |
+| Ciclo completo. | 0623. Gestión económica y financiera de la empresa. |
+| Técnico Superior en Gestión Comercial y Marketing (RD 1651/1994, de 22 de julio) | Técnico Superior en Marketing y Publicidad (RD 1571/2011, de 4 de noviembre) |
+| Políticas de marketing. | 0930. Políticas de marketing. |
+| Técnico Superior en Administración y finanzas (RD 1659/1994, de 22 de julio) (Administración) | Técnico Superior en Transporte y Logística (RD 1572/2011, de 4 de noviembre) |
+| Ciclo completo. | 0623. Gestión económica y financiera de la empresa. |
+| Técnico Superior en Comercio Internacional (RD 1653/1994, de 22 de julio) | Técnico Superior en Transporte y Logística (RD 1572/2011, de 4 de noviembre) |
+| Almacenaje de productos. | 0625. Logística de almacenamiento. |
+| Gestión administrativa del comercio internacional. | 0627. Gestión administrativa del comercio internacional. |
+| Transporte internacional de mercancías. | 0622. Transporte internacional de mercancías. |
+| Técnico Superior en Gestión Comercial y Marketing (RD 1651/1994, de 22 de julio) | Técnico Superior en Transporte y Logística (RD 1572/2011, de 4 de noviembre) |
+| Logística comercial. | 0625. Logística de almacenamiento. |
+| Técnico Superior en Gestión del Transporte (RD 1654/1994, de 22 de julio) | Técnico Superior en Transporte y Logística (RD 1572/2011, de 4 de noviembre) |
+| Gestión administrativa del comercio internacional. | 0627. Gestión administrativa del comercio internacional. |
+| Comercialización del servicio de transporte. | 0624. Comercialización del transporte y la logística. |
+| Planificación y gestión de la explotación del transporte terrestre. Organización del servicio de transporte terrestre. | 0628. Organización del transporte de viajeros. 0629. Organización del transporte de mercancías. |
+| Almacenaje de productos. | 0625. Logística de almacenamiento. |
+| Edificación y Obra Civil |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Obras de Albañilería (RD 2212/1993, de 17 de diciembre) | Técnico en Construcción (RD 1575/2011, de 4 de noviembre) |
+| Obras de fábrica. | 0997. Fábricas. |
+| Revestimientos continuos conglomerados. | 0998. Revestimientos. |
+| Organización de los trabajos de obras de albañilería. | 1001. Organización de trabajos de construcción. |
+| Conducciones lineales sin presión. | 1002. Obras de urbanización. |
+| Cubiertas e impermeabilizaciones. | 1004. Cubiertas. 1005. Impermeabilizaciones y aislamientos. |
+| Técnico en Obras de Hormigón (RD 2213/1993, de 17 de diciembre) | Técnico en Construcción (RD 1575/2011, de 4 de noviembre) |
+| Encofrados y entibaciones. | 0999. Encofrados. |
+| Hormigón. Armaduras. | 1000. Hormigón armado. |
+| Organización de los trabajos de obras de hormigón. | 1001. Organización de trabajos de construcción. |
+| Conducciones lineales sin presión. | 1002. Obras de urbanización. |
+| Técnico en Acabados de construcción (RD 2211/1993, de 17 de diciembre) | Técnico en Construcción (RD 1575/2011, de 4 de noviembre) |
+| Revestimientos continuos conglomerados. | 0998. Revestimientos. |
+| Solados y alicatados. | 1003. Solados, alicatados y chapados. |
+| Técnico en Obras de Albañilería (RD 2212/1993, de 17 de diciembre) | Técnico en Obras de interior, decoración y rehabilitación (RD 1689/2011, de 18 de noviembre) |
+| Revestimientos continuos conglomerados. | 1194. Revestimientos continuos. |
+| Organización de los trabajos de obras de albañilería. | 1200. Organización de trabajos de interior, decoración y rehabilitación. |
+| Técnico en Obras en Obras de Hormigón (RD 2213/1993, de 17 de diciembre) | Técnico en Obras de interior, decoración y rehabilitación (RD 1689/2011, de 18 de noviembre) |
+| Organización de los trabajos de obras de hormigón. | 1200. Organización de trabajos de interior, decoración y rehabilitación. |
+| Técnico en Acabados de construcción (RD 2211/1993, de 17 de diciembre) | Técnico en Obras de interior, decoración y rehabilitación (RD 1689/2011, de 18 de noviembre) |
+| Solados y alicatados. | 1003. Solados, alicatados y chapados. |
+| Revestimientos continuos conglomerados. | 1194. Revestimientos continuos. |
+| Paneles prefabricados. | 1195. Particiones prefabricadas. |
+| Revestimientos en láminas. | 1198. Revestimientos ligeros. |
+| Pinturas y barnices. | 1199. Pintura decorativa en construcción. |
+| Organización de los trabajos de acabados de construcción. | 1200. Organización de trabajos de interior, decoración y rehabilitación. |
+| GRADO SUPERIOR |
+| Técnico Superior en Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas (RD 2209/1993, de 17 de diciembre) | Técnico Superior en Organización y Control de Obras de Construcción (RD 636/2015, de 10 de julio) |
+| Replanteos de obra. | 0565. Replanteos de construcción. |
+| Técnico Superior en Desarrollo y Aplicación de Proyectos de Construcción (RD 2208/1993, de 17 de diciembre) | Técnico Superior en Organización y Control de Obras de Construcción (RD 636/2015, de 10 de julio) |
+| Mediciones y valoraciones. | 0564. Mediciones y valoraciones de construcción. |
+| Normas y proyectos de construcción. | 0562. Estructuras de construcción. 1288. Procesos constructivos en edificación. |
+| Planes de obra. | 0566. Planificación de construcción. |
+| Proyecto de edificación. | 1288. Procesos constructivos en edificación. |
+| Proyecto de obra civil. | 1289. Procesos constructivos en obra civil. |
+| Representaciones de construcción. | 1287. Documentación de proyectos y obras de construcción. |
+| Técnico Superior en Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas (RD 2209/1993, de 17 de diciembre) | Técnico Superior en Organización y Control de obras de Construcción (RD 636/2015, de 10 de julio) |
+| Replanteos de obra | 0565. Replanteos de construcción. |
+| Técnico Superior en Realización y Planes de Obra (RD 2210/1993, de 17 de diciembre) | Técnico Superior en Organización y Control de Obras de Construcción (RD 636/2015, de 10 de julio) |
+| Organización de tajos de obra. | 0564. Mediciones y valoraciones de construcción. 1288. Procesos constructivos en edificación. 1289. Procesos constructivos en obra civil. |
+| Planes de obra. | 0566. Planificación de construcción. |
+| Técnico Superior en Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas (RD 2209/1993, de 17 de diciembre) | Técnico Superior en Proyectos de Edificación (RD 690/2010, de 20 de mayo) |
+| Replanteos de obra. | 0565. Replanteos de construcción. |
+| Técnico Superior en Desarrollo y Aplicación de Proyectos de Construcción (RD 2208/1993, de 17 de diciembre) | Técnico Superior en Proyectos de Edificación (RD 690/2010, de 20 de mayo) |
+| Normas y proyectos de construcción. | 0562. Estructuras de construcción. 0567. Diseño y construcción de edificios. |
+| Representaciones de construcción. | 0563. Representaciones de construcción. |
+| Mediciones y valoraciones. | 0564. Mediciones y valoraciones de construcción. |
+| Planes de obra. | 0566. Planificación de construcción. |
+| Proyecto de edificación. | 0570. Desarrollo de proyectos de edificación residencial. 0568. Instalaciones en edificación. |
+| Técnico Superior en Realización y Planes de Obra (RD 2210/1993, de 17 de diciembre) | Técnico Superior en Proyectos de Edificación (RD 690/2010, de 20 de mayo) |
+| Planes de obra. | 0566. Planificación de construcción. |
+| Organización de tajos de obra. | 0564. Mediciones y valoraciones de construcción. |
+| Técnico Superior en Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas (RD 2209/1993, de 17 de diciembre) | Técnico Superior en Proyectos de Obra Civil (RD 386/2011, de 18 de marzo) |
+| Replanteos de obra. | 0565. Replanteos de construcción. |
+| Ordenación urbana. Trazados viarios y abastecimientos. | 0769. Urbanismo y obra civil. |
+| Planes de urbanismo. Proyecto de urbanización. | 0770. Redes y servicios en obra civil. 0772. Desarrollo de proyectos urbanísticos. 0563. Representaciones de construcción. |
+| Trabajos de campo y gabinete. | 0771. Levantamientos topográficos. |
+| Trazados viarios y abastecimientos. | 0770. Redes y servicios en obra civil. 0773. Desarrollo de proyectos de obras lineales. |
+| Técnico Superior en Desarrollo y Aplicación de Proyectos de Construcción (RD 2208/1993, de 17 de diciembre) | Técnico Superior en Proyectos de Obra Civil (RD 386/2011, de 18 de marzo) |
+| Normas y proyectos de construcción. | 0562. Estructuras de construcción. |
+| Representaciones de construcción. | 0563. Representaciones de construcción. |
+| Mediciones y valoraciones. | 0564. Mediciones y valoraciones de construcción. |
+| Planes de obra. | 0566. Planificación de construcción. |
+| Proyecto de obra civil. | 0770. Redes y servicios en obra civil. 0772. Desarrollo de proyectos urbanísticos. |
+| Técnico Superior en Realización y Planes de Obra (RD 2210/1993, de 17 de diciembre) | Técnico Superior en Proyectos de Obra Civil (RD 386/2011, de 18 de marzo) |
+| Organización de tajos de obra. | 0564. Mediciones y valoraciones de construcción. |
+| Electricidad y Electrónica |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Equipos e Instalaciones Electrotécnicas (RD 623/1995, de 21 de abril) | Técnico en Instalaciones Eléctricas y Automáticas (RD 177/2008, de 8 de febrero) |
+| Instalaciones eléctricas de enlace y centros de transformación. | 0236. Instalaciones de distribución. |
+| Instalaciones singulares en viviendas y edificios. | 0237. Infraestructuras comunes de telecomunicación en viviendas y edificios. |
+| Instalaciones automatizadas en viviendas y edificios. | 0238. Instalaciones domóticas. |
+| Mantenimiento de máquinas eléctricas. | 0240. Máquinas eléctricas. |
+| Electrotecnia. | 0234. Electrotecnia. |
+| Instalaciones eléctricas de interior. | 0235. Instalaciones eléctricas interiores. |
+| Automatismos y cuadros eléctricos. | 0232. Automatismos industriales. |
+| Técnico en Equipos Electrónicos de Consumo (RD 624/1995, de 21 abril) | Técnicos en Instalaciones Eléctricas y Automáticas (RD 177/2008, de 8 de febrero) |
+| Electrónica general. Electrónica digital y microprogramable. | 0233. Electrónica. |
+| Técnico en Mantenimiento Ferroviario (RD 2047/1995, de 22 de diciembre) (Mantenimiento y servicios a la producción) | Técnico en Instalaciones Eléctricas y Automáticas (RD 177/2008, de 8 de febrero) |
+| Electrotecnia. | 0234. Electrotecnia. |
+| Técnico en Instalación y mantenimiento Electromecánico de Maquinaria y Conducción de Líneas (RD 2045/1995, de 22 de diciembre) (Mantenimiento y servicios a la producción) | Técnico en Instalaciones Eléctricas y Automáticas (RD 177/2008, de 8 de febrero) |
+| Electrotecnia. | 0234. Electrotecnia. |
+| Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor (RD 2046/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción) | Técnico en Instalaciones Eléctricas y Automáticas (RD 177/2008, de 8 de febrero) |
+| Electrotecnia. | 0234. Electrotecnia. |
+| Técnico Superior en Sistemas de Telecomunicación e Informáticos (RD 622/1995, de 21 de abril) | Técnico en Instalaciones Eléctricas y Automáticas (RD 177/2008, de 8 de febrero) |
+| Sistemas de telefonía. Sistemas de radio y TV. Seguridad en las instalaciones de telecomunicación e informáticas. | 0237. Infraestructuras comunes de telecomunicación en viviendas y edificios. |
+| Técnico en Equipos e Instalaciones Electrotécnicas (RD 623/1995, de 21 de abril) | Técnico en Instalaciones de Telecomunicaciones (RD 1632/2009, de 30 de octubre) |
+| Instalaciones singulares en viviendas y edificios. | 0237. Infraestructuras comunes de telecomunicación en viviendas y edificios. |
+| Instalaciones automatizadas en viviendas y edificios. | 0238. Instalaciones domóticas. |
+| Instalaciones eléctricas de interior. | 0362. Instalaciones eléctricas básicas. |
+| Técnico en Equipos Electrónicos de Consumo (RD 624/1995, de 21 de abril) | Técnico en Instalaciones de Telecomunicaciones (RD 1632/2009, de 30 de octubre) |
+| Sistemas electrónicos de información. | 0360. Equipos microinformáticos. |
+| Electrónica general. Electrónica digital y microprogramable. | 0359. Electrónica aplicada. |
+| Instalaciones básicas. | 0362. Instalaciones eléctricas básicas. |
+| Técnico en Explotación de Sistemas Informáticos (RD 497/2003, de 2 de mayo) (Informática) | Técnico en Instalaciones de Telecomunicaciones (RD 1632/2009, de 30 de octubre) |
+| Ciclo completo. | 0360. Equipos microinformáticos. |
+| Técnico Superior en Desarrollo de Productos electrónicos (RD 620/1995, de 21 de abril) | Técnico en instalaciones de Telecomunicaciones (RD 1632/2009, de 30 de octubre) |
+| Ciclo completo. | 0359. Electrónica aplicada. |
+| GRADO SUPERIOR |
+| Técnico Superior en Sistemas de Regulación y Control Automáticos (RD 619/1995, de 21 de abril) | Técnico Superior en Automatización y Robótica Industrial (RD 1581/2011, de 4 de noviembre) |
+| Sistemas de control secuencial. | 0959. Sistemas eléctricos, neumáticos e hidráulicos. 0960. Sistemas secuenciales programables. |
+| Sistemas de medida y regulación. | 0961. Sistemas de medida y regulación. |
+| Sistemas electrotécnicos de potencia. | 0962. Sistemas de potencia. |
+| Gestión del desarrollo de sistemas automáticos. | 0963. Documentación técnica. |
+| Informática industrial. | 0964. Informática industrial. |
+| Desarrollo de sistemas secuenciales. Desarrollo de sistemas de medida y regulación. | 0965. Sistemas programables avanzados. 0968. Integración de sistemas de automatización industrial. |
+| Comunicaciones industriales. | 0967. Comunicaciones industriales. |
+| Técnico superior en Desarrollo de Productos Electrónicos (RD 620/1995, de 21 de abril) | Técnico Superior en Electromedicina Clínica (RD 838/2015, de 21 de septiembre) |
+| Electrónica analógica. Lógica digital y microprogramable. | 1587. Sistemas electrónicos y fotónicos. |
+| Técnico Superior en Mantenimiento y Montaje de Instalaciones de Edificios y Proceso (RD 2044/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción) | Técnico Superior en Electromedicina Clínica (RD 838/2015, de 21 de septiembre) |
+| Sistemas automáticos en las instalaciones. | 1586. Sistemas electromecánicos y de fluidos. |
+| Técnico Superior en Mantenimiento de equipo industrial (RD 2043/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción) | Técnico Superior en Electromedicina Clínica (RD 838/2015, de 21 de septiembre) |
+| Montaje y mantenimiento de los sistemas eléctrico y electrónico. | 1585. Instalaciones eléctricas. |
+| Montaje y mantenimiento de los sistemas hidráulico y neumático. | 1586. Sistemas electromecánicos y de fluidos. |
+| Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención (RD 2042/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción) | Técnico Superior en Electromedicina Clínica (RD 838/2015, de 21 de septiembre) |
+| Sistemas automáticos en las instalaciones. | 1586. Sistemas electromecánicos y de fluidos. |
+| Técnico Superior en Desarrollo de Productos Electrónicos (RD 620/1995, de 21 de abril) | Técnico Superior en Mantenimiento Electrónico (RD 1578/2011, de 4 de noviembre) |
+| Electrónica analógica. | 1051. Circuitos electrónicos analógicos. |
+| Lógica digital y microprogramable. | 1052. Mantenimiento de equipos microprogramables. |
+| Desarrollo y construcción de prototipos electrónicos. | 1058. Técnicas y procesos de montaje y mantenimiento de equipos electrónicos. |
+| Mantenimiento de equipos electrónicos. | 1059. Infraestructuras y desarrollo del mantenimiento electrónico. |
+| Técnico Superior en Instalaciones Electrotécnicas (RD 621/1995, de 21 de abril) | Técnico Superior en Sistemas Electrotécnicos y Automatizados (RD 1127/2010, de 10 de septiembre) |
+| Desarrollo de instalaciones eléctricas de distribución. | 0522. Desarrollo de redes eléctricas y centros de transformación. |
+| Técnicas y procesos en las instalaciones automatizadas en los edificios. | 0523. Configuración instalaciones domóticas y automáticas. |
+| Desarrollo de instalaciones electrotécnicas en los edificios. | 0524. Configuración de instalaciones eléctricas. |
+| Gestión del desarrollo de instalaciones electrotécnicas. Informática técnica. | 0519. Documentación técnica en instalaciones eléctricas. |
+| Técnicas y procesos en las instalaciones singulares en los edificios. | 0517. Procesos en instalaciones de infraestructuras comunes de telecomunicaciones. |
+| Técnico Superior en Sistemas de Regulación y Control Automáticos (RD 619/1995, de 21 de abril) | Técnico Superior en Sistemas Electrotécnicos y Automatizados (RD 1127/2010, de 10 de septiembre) |
+| Gestión del desarrollo de sistemas automáticos. Informática industrial. Sistemas electrotécnicos de potencia. | 0519. Documentación técnica en instalaciones eléctricas. |
+| Técnico Superior en Sistemas de Telecomunicación e Informáticos (RD 622/1995, de 21 de abril) | Técnico Superior en Sistemas de Telecomunicaciones e Informáticos (RD 883/2011, de 24 de junio) |
+| Sistemas de telefonía. | 0713. Sistemas de telefonía fija y móvil. |
+| Sistemas de radio y televisión. | 0554. Sistemas de producción audiovisual. |
+| Arquitectura de equipos y sistemas informáticos. Sistemas operativos y lenguajes de programación. | 0552. Sistemas informáticos y redes locales. |
+| Gestión del desarrollo de sistemas de telecomunicación e informáticos. | 0601. Gestión de proyectos de instalaciones de telecomunicaciones. |
+| Desarrollo de sistemas de telecomunicación e informática. | 0525. Configuración de infraestructuras de sistemas de telecomunicaciones. 0553. Técnicas y procesos en infraestructuras de telecomunicaciones. |
+| Sistemas telemáticos. | 0555. Redes telemáticas. |
+| Energía y Agua |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor (RD 2046/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción) | Técnico en Redes y Estaciones de Tratamiento de Aguas (RD 114/2017, de 17 de febrero) |
+| Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones. | 1562. Técnicas de mecanizado y unión. |
+| Instalaciones eléctricas y automatismos. | 1561. Instalaciones eléctricas en redes de agua. |
+| Instalaciones de agua y gas. | 0310. Montaje y mantenimiento de instalaciones de agua. |
+| Técnico en Equipos e Instalaciones Electrotécnicas (RD 623/1995, de 21 de abril) (Electricidad y Electrónica) | Técnico en Redes y Estaciones de Tratamiento de Aguas (RD 114/2017, de 17 de febrero) |
+| Ciclo formativo completo. | 1561. Instalaciones eléctricas en redes de agua. |
+| Técnico Superior en Desarrollo y Aplicación de Proyectos de Construcción (RD 2208/1993, de 17 de diciembre) (Edificación y Obra Civil) | Técnico en Redes y Estaciones de Tratamiento de Aguas (RD 114/2017, de 17 de febrero) |
+| Proyectos de edificación. | 1559. Replanteo en redes de agua. |
+| Técnico en Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque (RD 725/1994, de 22 de abril) (Actividades marítimo pesqueras) | Técnico en Redes y Estaciones de Tratamiento de Aguas (RD 114/2017, de 17 de febrero) |
+| Ciclo completo. | 0310. Montaje y mantenimiento de instalaciones de agua. |
+| Técnico Superior en Supervisión y Control de Máquinas e Instalaciones del Buque (RD 722/1994, de 22 de abril) (Actividades marítimo pesqueras) | Técnico en Redes y Estaciones de Tratamiento de Aguas (RD 114/2017, de 17 de febrero) |
+| Ciclo completo. | 0310. Montaje y mantenimiento de instalaciones de agua. |
+| GRADO SUPERIOR |
+| Técnico Superior en Mantenimiento y Montaje de Instalaciones de Edificio y Proceso (RD 2044/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción) | Técnico Superior en Eficiencia Energética y Energía Solar Térmica (RD 1177/2008, de 11 de julio) |
+| Equipos para instalaciones térmicas y de fluidos. | 0121. Equipos e instalaciones térmicas. |
+| Ejecución de procesos de montaje e instalaciones. | 0122. Procesos de montaje de instalaciones. |
+| Representación gráfica en instalaciones. | 0123. Representación gráfica de instalaciones. |
+| Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención (RD 2042/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción) | Técnico Superior en Eficiencia Energética y Energía Solar Térmica (RD 1177/2008, de 11 de julio) |
+| Instalaciones de fluidos. Instalaciones de procesos térmicos. | 0121. Equipos e instalaciones térmicas. |
+| Técnicas de montaje de instalaciones. | 0122. Procesos de montaje de instalaciones. |
+| Representación gráfica en instalaciones. | 0123. Representación gráfica de instalaciones. |
+| Técnico Superior en Mantenimiento y Montaje de Instalaciones de Edificio y Proceso (RD 2044/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción) | Técnico Superior en Gestión del Agua (RD 113/2017, de 17 de febrero) |
+| Ejecución de procesos de montaje e instalaciones. | 1580. Técnicas de montaje en instalaciones de agua. |
+| Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención (RD 2042/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción) | Técnico Superior en Gestión del Agua (RD 113/2017, de 17 de febrero) |
+| Técnicas de montaje de instalaciones. | 1580. Técnicas de montaje en instalaciones de agua. |
+| Técnico Superior en Realización y Planes de Obra (RD 2210/1993, de 17 de diciembre) (Edificación y Obra Civil) | Técnico Superior en Gestión del Agua (RD 113/2017, de 17 de febrero) |
+| Replanteos de obra. Planes de obra. | 1572. Planificación y replanteo. |
+| Técnico Superior en Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas (RD 2209/1993, de 17 de diciembre) (Edificación y Obra Civil) | Técnico Superior en Gestión del Agua (RD 113/2017, de 17 de febrero) |
+| Replanteos de obra. Planes de obra. | 1572. Planificación y replanteo. |
+| Fabricación Mecánica |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Fundición (RD 2421/1994, de 16 de diciembre) | Técnico en Conformado por Moldeo de Metales y Polímeros (RD 387/2011, de 18 de marzo) |
+| Fusión y colada. | 0724. Conformado por moldeo cerrado. 0725. Conformado por moldeo abierto. 0007. Interpretación gráfica. |
+| Sistemas de moldeo y machería. | 0723. Elaboración de moldes y modelos. |
+| Sistemas auxiliares de fabricación mecánica. | 0722. Preparación de máquinas e instalaciones de procesos automáticos. |
+| Control de las características del producto fundido. | 0006. Metrología y ensayos. |
+| Técnico en Mecanizado (RD 2419/1994, de 16 de diciembre) | Técnico en Conformado por Moldeo de Metales y Polímeros (RD 387/2011, de 18 de marzo) |
+| Control de las características del producto mecanizado. | 0006. Metrología y ensayos. |
+| Procedimientos de mecanizado. | 0007. Interpretación gráfica. |
+| Sistemas auxiliares de fabricación mecánica. | 0722. Preparación de máquinas e instalaciones de procesos automáticos. |
+| Técnico en Soldadura y Calderería (RD 1657/1994, de 22 de julio) | Técnico en Conformado por Moldeo de Metales y Polímeros (RD 387/2011, de 18 de marzo) |
+| Desarrollos geométricos en construcciones metálicas. | 0007. Interpretación gráfica. |
+| Calidad en construcciones metálicas. | 0006. Metrología y ensayos. |
+| Técnico en Tratamientos superficiales y térmicos (RD 2420/1994, de 16 de diciembre) | Técnico en Conformado por Moldeo de Metales y Polímeros (RD 387/2011, de 18 de marzo) |
+| Sistemas auxiliares de fabricación mecánica. | 0722. Preparación de máquinas e instalaciones de procesos automáticos. |
+| Técnico en Operaciones de Transformación de Plásticos y Caucho (RD 818/1993, de 28 de mayo) (Química) | Técnico en Conformado por Moldeo de Metales y Polímeros (RD 387/2011, de 18 de marzo) |
+| Instalaciones de transformación. | 0722. Preparación de máquinas e instalaciones de procesos automáticos. |
+| Trasformación y moldeo de plásticos. Transformación y vulcanización de elastómeros. Acabado y control de calidad de productos de plástico y caucho. | 0724. Conformado por moldeo cerrado. 0725. Conformado por moldeo abierto. 0007. Interpretación gráfica. |
+| Materiales poliméricos y sus mezclas. | 0726. Preparación de materias primas. |
+| Técnico en Mecanizado (RD 2419/1994, de 16 de diciembre) | Técnico en Mecanizado (RD 1398/2007, de 29 de octubre) |
+| Procedimientos de mecanizado. | 0001. Procesos de mecanizado. 0007. Interpretación gráfica. |
+| Preparación y programación de máquinas de fabricación mecánica. | 0002. Mecanizado por control numérico. |
+| Sistemas auxiliares de fabricación mecánica. | 0005. Sistemas automatizados. |
+| Fabricación por arranque de viruta. | 0004. Fabricación por arranque de viruta. |
+| Fabricación por abrasión, conformado y procedimientos especiales. | 0003. Fabricación por abrasión, electroerosión, corte y conformado y por procesos especiales. |
+| Control de las características del producto mecanizado. | 0006. Metrología y ensayos. |
+| Técnico en Fundición (RD 2421/1994, de 16 de diciembre) | Técnico en Mecanizado (RD 1398/2007, de 29 de octubre) |
+| Fusión y colada. | 0007. Interpretación gráfica. |
+| Control de las características del producto fundido. | 0006. Metrología y ensayos. |
+| Técnico en Soldadura y Calderería (RD 1657/1994, de 22 de julio) | Técnico en Mecanizado (RD 1398/2007, de 29 de octubre) |
+| Desarrollos geométricos en construcciones metálicas. | 0007. Interpretación gráfica. |
+| Calidad en construcciones metálicas. | 0006. Metrología y ensayos. |
+| Técnico en Soldadura y Calderería (RD 1657/1994, de 22 de julio) | Técnico en Soldadura y Calderería (RD 1692/2007, de 14 de diciembre) |
+| Desarrollos geométricos en construcciones metálicas. | 0007. Interpretación gráfica. |
+| Trazado y conformado en construcciones metálicas. | 0091. Trazado corte y conformado |
+| Mecanizado en construcciones metálicas. | 0092. Mecanizado. |
+| Soldadura en atmósfera natural. | 0093. Soldadura en atmósfera natural |
+| Soldadura en atmósfera protegida. | 0094. Soldadura en atmósfera protegida. |
+| Montaje en construcciones metálicas. | 0095. Montaje. |
+| Calidad en construcciones metálicas. | 0006. Metrología y ensayos. |
+| Técnico en Fundición (RD 2421/1994, de 16 de diciembre) | Técnico en Soldadura y Calderería (RD 1692/2007, de 14 de diciembre) |
+| Fusión y colada. | 0007. Interpretación gráfica. |
+| Control de las características del producto fundido. | 0006. Metrología y ensayos. |
+| Técnico en Mecanizado (RD 2419/1994, de 16 de diciembre) | Técnico en Soldadura y Calderería (RD 1692/2007, de 14 de diciembre) |
+| Procedimientos de mecanizado. | 0007. Interpretación gráfica. |
+| Control de las características del producto mecanizado. | 0006. Metrología y ensayos. |
+| GRADO SUPERIOR |
+| Técnico Superior en Construcciones Metálicas (RD 1656/1994, de 22 de julio) | Técnico Superior en Construcciones Metálicas (RD 174/2008, de 8 de febrero) |
+| Representación en construcciones metálicas. | 0245. Representación gráfica en fabricación mecánica. |
+| Soluciones constructivas en construcciones metálicas. Desarrollo de proyectos en construcciones metálicas. | 0246. Diseño de construcciones metálicas. |
+| Ejecución de procesos en construcciones metálicas. | 0248. Procesos de mecanizado, corte y conformado en construcciones metálicas. 0249. Procesos de unión y montaje en construcciones metálicas. |
+| Definición de procesos en construcciones metálicas. | 0247. Definición de procesos de construcciones metálicas. 0163. Programación de la producción. |
+| Gestión de la calidad en construcción metálica. | 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. |
+| Técnico Superior en Desarrollo de Proyectos Mecánicos (RD 2416/1994, de 16 de diciembre) | Técnico Superior en Construcciones Metálicas (RD 174/2008, de 8 de febrero) |
+| Representación gráfica en fabricación mecánica. | 0245. Representación gráfica en fabricación mecánica. |
+| Técnico Superior en Producción por Mecanizado (RD 2417/1994 de, 16 de diciembre) | Técnico Superior en Construcciones Metálicas (RD 174/2008, de 8 de febrero) |
+| Programación de la producción en fabricación mecánica. | 0163. Programación de la producción. |
+| Control de calidad en fabricación mecánica. | 0165. Gestión de la Calidad, Prevención de riesgos laborales y protección ambiental. |
+| Técnico Superior en Producción por Fundición y Pulvimetalurgia (RD 2418/1994, de 16 de diciembre) | Técnico Superior en Construcciones Metálicas (RD 174/2008, de 8 de febrero) |
+| Programación de la producción en fabricación mecánica. | 0163. Programación de la producción. |
+| Control de calidad en fabricación mecánica. | 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. |
+| Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos (RD 2038/1995, de 22 de diciembre) (Vidrio y Cerámica) | Técnico Superior en Construcciones Metálicas (RD 174/2008, de 8 de febrero) |
+| Gestión de calidad en industrias cerámicas. | 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. |
+| Organización de la producción en industrias cerámicas. | 0163. Programación de la producción. |
+| Técnico Superior en Desarrollo de Proyectos Mecánicos (RD 2416/1994, de 16 de diciembre) | Técnico Superior en Diseño en Fabricación Mecánica (RD 1630/2009 de 30 de octubre) |
+| Representación gráfica en fabricación mecánica. | 0245. Representación gráfica en fabricación mecánica. |
+| Desarrollo de productos mecánicos. | 0427. Diseño de productos mecánicos. |
+| Matrices, moldes y utillajes. | 0428. Diseño de útiles de procesado de chapa y estampación. 0429. Diseño de moldes y modelos de fundición. |
+| Automatización de la fabricación. | 0431. Automatización de la fabricación. |
+| Técnicas de fabricación mecánica. | 0432. Técnicas de fabricación mecánica. |
+| Técnico Superior en Construcciones Metálicas (RD 1656/1994, de 22 de julio) | Técnico Superior en Diseño en Fabricación Mecánica (RD 1630/2009 de 30 de octubre) |
+| Representación en construcciones metálicas. | 0245. Representación gráfica en fabricación mecánica. |
+| Técnico Superior en Producción por Mecanizado (RD 2417/1994 de, 16 de diciembre) | Técnico Superior en Programación de la Producción en Fabricación Mecánica (RD 1687/2007, de 14 de diciembre) |
+| Definición de procesos de mecanizado, conformado y montaje. | 0160. Definición de procesos de mecanizado, conformado y montaje. 0007. Interpretación gráfica. |
+| Programación de máquinas de control numérico para fabricación mecánica. | 0002. Mecanizado por Control Numérico. 0161. Fabricación asistida por ordenador (CAM). |
+| Programación de sistemas automáticos de fabricación mecánica. | 0162. Programación de sistemas automáticos de fabricación mecánica. |
+| Programación de la producción en fabricación mecánica. | 0163. Programación de la producción. |
+| Ejecución de procesos de mecanizado, conformado y montaje. | 0164. Ejecución de procesos de fabricación. |
+| Control de calidad en fabricación mecánica. | 0165. Gestión de la Calidad, Prevención de riesgos laborales y protección ambiental. 0166. Verificación de productos. |
+| Técnico Superior en Desarrollo de Proyectos Mecánicos (RD 2416/1994, de 16 de diciembre) | Técnico Superior en Programación de la Producción en Fabricación Mecánica (RD 1687/2007, de 14 de diciembre) |
+| Representación gráfica en fabricación mecánica. | 0007. Interpretación gráfica. |
+| Técnico Superior en Construcciones Metálicas (RD 1656/1994, de 22 de julio) | Técnico Superior en Programación de la Producción en Fabricación Mecánica (RD 1687/2007, de 14 de diciembre) |
+| Definición de procesos en construcciones metálicas. | 0163. Programación de la producción. |
+| Gestión de la calidad en construcción metálica. | 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. |
+| Técnico Superior en Producción por Fundición y Pulvimetalurgia (RD 2418/1994, de 16 de diciembre) | Técnico Superior en Programación de la Producción en Fabricación Mecánica (RD 1687/2007, de 14 de diciembre) |
+| Programación de sistemas automáticos de fabricación mecánica. | 0162. Programación de sistemas automáticos de fabricación mecánica |
+| Programación de la producción en fabricación mecánica. | 0163. Programación de la producción. |
+| Control de calidad en fabricación mecánica. | 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. 0166. Verificación de productos. |
+| Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos (RD 2038/1995, de 22 de diciembre) (Vidrio y Cerámica) | Técnico Superior en Programación de la Producción en Fabricación Mecánica (RD 1687/2007, de 14 de diciembre) |
+| Gestión de calidad en industrias cerámicas. | 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. |
+| Organización de la producción en industrias cerámicas. | 0163. Programación de la producción. |
+| Técnico Superior en Producción por Fundición y Pulvimetalurgia (RD 2418/1994, de 16 de diciembre) | Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros (RD 882/2011, de 24 de junio) |
+| Definición de procesos de fundición y pulvimetalurgia. Ejecución de procesos de fundición. Ejecución de procesos de pulvimetalurgia. | 0007. Interpretación gráfica. 0531. Moldeo cerrado. 0532. Moldeo abierto. |
+| Programación de sistemas automáticos de fabricación mecánica. | 0162. Programación de sistemas automáticos de fabricación mecánica. |
+| Programación de la producción en fabricación mecánica. | 0163. Programación de la producción. |
+| Control de calidad en fabricación mecánica. | 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. 0533. Verificación de productos conformados. |
+| Técnico Superior en Desarrollo de Proyectos Mecánicos (RD 2416/1994, de 16 de diciembre) | Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros (RD 882/2011, de 24 de junio) |
+| Representación gráfica en fabricación mecánica. | 0007. Interpretación gráfica. |
+| Técnico Superior en Producción por Mecanizado (RD 2417/1994 de, 16 de diciembre) | Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros (RD 882/2011, de 24 de junio) |
+| Programación de sistemas automáticos de fabricación mecánica. | 0162. Programación de sistemas automáticos de fabricación mecánica. |
+| Programación de la producción en fabricación mecánica. | 0163. Programación de la producción. |
+| Control de calidad en fabricación mecánica. | 0165. Gestión de la Calidad, Prevención de riesgos laborales y protección ambiental. 0533. Verificación de productos conformados. |
+| Técnico Superior en Construcciones Metálicas (RD 1656/1994, de 22 de julio) | Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros (RD 882/2011, de 24 de junio) |
+| Definición de procesos en construcciones metálicas. | 0163. Programación de la producción. |
+| Gestión de la calidad en construcción metálica. | 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. |
+| Técnico en Soldadura y Calderería (RD 1657/1994, de 22 de julio) | Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros (RD 882/2011, de 24 de junio) |
+| Desarrollos geométricos en construcciones metálicas. | 0007. Interpretación gráfica. |
+| Técnico Superior en Plásticos y Caucho (RD 813/1993, de 28 de mayo) (Química) | Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros (RD 882/2011, de 24 de junio) |
+| Organización y control del proceso de producción. Instalaciones de transformación de plásticos y caucho. Procesado de plásticos. Procesado de caucho. | 0007. Interpretación gráfica. 0531. Moldeo cerrado. 0532. Moldeo abierto. 0163. Programación de la producción. |
+| Instalaciones de transformación de plásticos y caucho. | 0162. Programación de sistemas automáticos de fabricación mecánica. |
+| Control de calidad en transformación de plásticos y caucho. | 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. 0533. Verificación de productos conformados. |
+| Técnico en Fundición (RD 2421/1994, de 16 de diciembre) | Técnico Superior en Programación de la Producción en Fabricación Mecánica (RD 1687/2007, de 14 de diciembre) |
+| Fusión y colada. | 0007. Interpretación gráfica. |
+| Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos (RD 2038/1995, de 22 de diciembre) (Vidrio y Cerámica) | Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros (RD 882/2011, de 24 de junio) |
+| Gestión de calidad en industrias cerámicas. | 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. |
+| Organización de la producción en industrias cerámicas. | 0163. Programación de la producción. |
+| Hostelería y Turismo |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Cocina (RD 2219/1993, de 17 de diciembre | Técnico en Cocina y Gastronomía (RD 1396/2007, de 29 de octubre) |
+| Ofertas gastronómicas y sistemas de aprovisionamiento. | 0045. Ofertas gastronómicas. |
+| Preelaboración y conservación de alimentos. | 0046. Preelaboración y conservación de alimentos. |
+| Técnicas culinarias. | 0047. Técnicas culinarias. |
+| Repostería. | 0026. Procesos básicos de pastelería y repostería. 0028. Postres en restauración. |
+| Elaboraciones y productos culinarios. | 0048. Productos culinarios. |
+| Técnico en Pastelería y Panadería (RD 2220/1993, de 17 de diciembre.) | Técnico en Cocina y Gastronomía (RD 1396/2007, de 29 de octubre) |
+| Técnicas de pastelería, panadería y conservación de alimentos. | 0026. Procesos básicos de pastelería y repostería. 0028. Postres en restauración. |
+| Técnico en Servicios de Restaurante y Bar (RD 2221/1993, de 17 de diciembre) | Técnico en Cocina y Gastronomía (RD 1396/2007, de 29 de octubre) |
+| Ofertas gastronómicas y sistemas de aprovisionamiento. | 0045. Ofertas gastronómicas. |
+| Técnico en Panificación y Repostería (RD 2057/1995, de 22 de diciembre) (Industrias alimentarias) | Técnico en Cocina y Gastronomía (RD 1396/2007, de 29 de octubre) |
+| Elaboraciones básicas de pastelería. | 0026. Procesos básicos de pastelería y repostería. 0028. Postres en restauración. |
+| Técnico en Servicios de Restaurante y Bar (RD 2221/1993, de 17 de diciembre) | Técnico en Servicios en Restauración (RD1690/2007, de 14 de diciembre) |
+| Ofertas gastronómicas y sistemas de aprovisionamiento. | 0045. Ofertas gastronómicas. |
+| Bebidas. Técnicas elementales de cocina. | 0152. Servicios en bar-cafetería. |
+| Técnicas de servicio y atención al cliente. | 0153. Servicios en restaurante y eventos especiales. |
+| Técnico en Cocina (RD 2219/1993, de 17 de diciembre) | Técnico en Servicios en Restauración (RD1690/2007, de 14 de diciembre) |
+| Ofertas gastronómicas y sistemas de aprovisionamiento. | 0045. Ofertas gastronómicas. |
+| GRADO SUPERIOR |
+| Técnico Superior en Agencias de Viajes (RD 2215/1993, de 17 de diciembre) | Técnico Superior en Agencias de Viajes y Gestión de Eventos ( RD 1254/2009, de 24 de julio) |
+| Producción y venta de servicios turísticos en agencias de viajes. | 0398. Venta de servicios turísticos. 0397. Gestión de productos turísticos. |
+| Gestión económico-administrativa en agencias de viajes. Organización y control en agencias de viajes. | 0399. Dirección de entidades de intermediación turística. 0402. Empresa e iniciativa emprendedora. |
+| Comercialización de productos y servicios turísticos. | 0173. Marketing turístico. 0171. Estructura del mercado turístico. |
+| Técnico Superior en Alojamiento (RD 2216/1993, de 17 de diciembre.) | Técnico Superior en Agencias de Viajes y Gestión de Eventos ( RD 1254/2009, de 24 de julio) |
+| Comercialización de productos y servicios turísticos. | 0173. Marketing turístico. 0171. Estructura del mercado turístico. |
+| Técnico Superior en Agencias de Viajes (RD 2215/1993, de 17 de diciembre) | Técnico Superior en Gestión de Alojamientos Turísticos (RD 1686/2007, de 14 de diciembre) |
+| Comercialización de productos y servicios turísticos. | 0173. Marketing turístico. 0171. Estructura del mercado turístico. |
+| Técnico Superior en Información y Comercialización Turística (RD 2217/1993, de 17 de diciembre.) | Técnico Superior en Agencias de Viajes y Gestión de Eventos ( RD 1254/2009, de 24 de julio) |
+| Diseño y comercialización de productos turísticos locales y regionales. | 0173. Marketing turístico. 0171. Estructura del mercado turístico |
+| Técnico Superior en Restauración (RD 2218/1993, de 17 de diciembre) | Técnico Superior en Dirección de Cocina (RD 687/2010, de 20 de mayo. Corrección Real Decreto 687/2010, de 20 de mayo) |
+| Procesos de cocina. | 0497. Procesos de preelaboración y conservación en cocina. 0499. Procesos de elaboración culinaria. |
+| Procesos de pastelería y panadería. | 0498. Elaboraciones de pastelería y repostería en cocina. |
+| Administración de establecimientos de restauración. Marketing en restauración. | 0503. Gestión administrativa y comercial en restauración. |
+| Técnico Superior en Restauración (RD 2218/1993, de 17 de diciembre) | Técnico Superior en Dirección de Servicios de Restauración (RD 688/2010, de 20 de mayo) |
+| Procesos de servicio. | 0509. Procesos de servicios en bar-cafetería. 0510. Procesos de servicios en restaurante. |
+| Administración de establecimientos de restauración. Marketing en restauración. | 0503. Gestión administrativa y comercial en restauración. |
+| Técnico Superior en Alojamiento (RD 2216/1993, de 17 de diciembre.) | Técnico Superior en Gestión de Alojamientos Turísticos (RD 1686/2007, de 14 de diciembre) |
+| Recepción y atención al cliente. | 0176. Recepción y reservas. 0177. Recursos humanos en el alojamiento. 0172. Protocolo y relaciones públicas. |
+| Regiduría de pisos. | 0175. Gestión del departamento de pisos. |
+| Organización y control del alojamiento. | 0174. Dirección de alojamientos turísticos. |
+| Comercialización de productos y servicios turísticos. | 0173. Marketing turístico. 0171. Estructura del mercado turístico. |
+| Técnico Superior en Información y Comercialización Turísticas (RD 2217/1993, de 17 de diciembre.) | Técnico Superior en Gestión de Alojamientos Turísticos (RD 1686/2007, de 14 de diciembre) |
+| Diseño y comercialización de productos turísticos locales y regionales. | 0173. Marketing turístico. 0171. Estructura del mercado turístico. |
+| Técnico Superior en Agencias de Viajes (RD 2215/1993, de 17 de diciembre) | Técnico Superior en Guía, Información y Asistencias Turísticas (RD 1255/2009, de 24 de julio) |
+| Comercialización de productos y servicios turísticos. | 0173. Marketing turístico. 0171. Estructura del mercado turístico. |
+| Técnico Superior en Información y Comercialización Turísticas (RD 2217/1993, de 17 de diciembre) | Técnico Superior en Guía, Información y Asistencias Turísticas (RD 1255/2009, de 24 de julio) |
+| Diseño y comercialización de productos turísticos locales y regionales. | 0387. Diseño de productos turísticos. 0173. Marketing turístico. 0171. Estructura del mercado turístico. 0384. Recursos turísticos. |
+| Información turística en destino. | 0171. Estructura del mercado turístico. 0385. Servicios de información turística. 0172. Protocolo y relaciones públicas. |
+| Productos y destinos turísticos nacionales e internacionales. | 0383. Destinos turísticos. 0384. Recursos turísticos. |
+| Asistencia y guía de grupos. | 0386. Procesos de guía y asistencia turística. 0172. Protocolo y relaciones públicas. |
+| Técnico Superior en Alojamiento (RD 2216/1993, de 17 de diciembre) | Técnico Superior en Guía, Información y Asistencias Turísticas (RD 1255/2009, de 24 de julio) |
+| Comercialización de productos y servicios turísticos. | 0173. Marketing turístico. 0171. Estructura del mercado turístico. |
+| Imagen Personal |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Estética Personal Decorativa (RD 630/1995, de 21 de abril) | Técnico en Estética y Belleza (RD 256/2011, de 28 de febrero.) |
+| Depilación mecánica y técnicas complementarias. | 0635. Depilación mecánica y decoloración del vello. |
+| Técnicas de higiene facial y corporal. | 0633. Técnicas de higiene facial y corporal. |
+| Maquillaje. | 0634. Maquillaje. |
+| Escultura de uñas y estética de manos y pies. | 0636. Estética de manos y pies. 0637. Técnicas de uñas artificiales. |
+| Promoción y venta de productos y servicios en el ámbito de la estética personal. | 0643. Marketing y venta en imagen personal. |
+| Anatomía y fisiología humanas básicas. | 0640. Imagen corporal y hábitos saludables. |
+| Cosmetología aplicada a la estética decorativa. | 0641. Cosmetología para estética y belleza. |
+| Técnico en Peluquería (RD 629/1995, de 21 de abril) | Técnico en Estética y Belleza (RD 256/2011, de 28 de febrero.) |
+| Anatomía y fisiología humanas básicas. | 0640. Imagen corporal y hábitos saludables. |
+| Técnico en Peluquería (RD 629/1995, de 21 de abril) | Técnico en Peluquería y Cosmética Capilar (RD 1588/2011, de 4 de noviembre) |
+| Peinados, acabados y recogidos. | 0842. Peinados y recogidos. |
+| Cambios de color en el cabello. | 0843. Coloración capilar. |
+| Cosmetología aplicada a la peluquería. | 0844. Cosmética para peluquería. |
+| Corte del cabello y técnicas complementarias. | 0845. Técnicas de corte del cabello. |
+| Cambios de forma en el cabello. | 0846. Cambios de forma permanente en el cabello. |
+| Higiene y tratamientos capilares. | 0849. Análisis capilar. |
+| Técnicas básicas de manicura y pedicura. | 0636. Estética de manos y pies. |
+| Anatomía y fisiología humanas básicas. Higiene, desinfección y esterilización aplicadas a peluquería. | 0640. Imagen corporal y hábitos saludables. |
+| Técnico en Estética Personal Decorativa (RD 630/1995, de 21 de abril) | Técnico en Peluquería y Cosmética Capilar (RD 1588/2011, de 4 de noviembre) |
+| Escultura de uñas y estética de manos y pies. | 0636. Estética de manos y pies. |
+| Anatomía y fisiología humanas básicas. | 0640. Imagen corporal y hábitos saludables. |
+| Promoción y venta de productos y servicios en el ámbito de la estética personal. | 0643. Marketing y venta en imagen personal. |
+| GRADO SUPERIOR |
+| Técnico Superior en Asesoría de Imagen Personal (RD 627/1995, de 21 de abril) | Técnico Superior en Asesoría de Imagen Personal y Corporativa (RD 1685/2011, de 18 de noviembre) |
+| Asesoría de belleza. | 1182. Diseño de imagen integral. |
+| Estilismo en el vestir. | 1183. Estilismo en vestuario y complementos. |
+| Protocolo y usos sociales. | 1185. Protocolo y organización de eventos. 1186. Usos sociales. |
+| Técnicas de embellecimiento personal. | 1187. Asesoría estética. 1184. Asesoría de peluquería. |
+| Imagen personal y comunicación. | 1188. Habilidades comunicativas. |
+| Técnico Superior en Estética (RD 628/1995, de 21 de abril) | Técnico Superior en Estética Integral y Bienestar (RD 881/2011, de 24 de junio) |
+| Diagnóstico y protocolo de procesos de estética integral. | 0751. Dermoestética. |
+| Electroestética | 0744. Aparatología estética. |
+| Masaje | 0747. Masaje estético. 0748. Drenaje estético y técnicas por presión. |
+| Estética hidrotermal. | 0745. Estética hidrotermal. |
+| Depilación. | 0746. Depilación avanzada. |
+| Microimplantación de pigmentos. | 0749. Micropigmentación. |
+| Anatomía, fisiología y patología humanas aplicadas a la estética integral. | 0750. Procesos fisiológicos y de higiene en Imagen Personal. |
+| Cosmetología aplicada a la estética integral. | 0752. Cosmética aplicada a estética y bienestar. |
+| Técnico Superior en Estética (RD 628/1995, de 21 de abril) | Técnico Superior en Estilismo y Dirección de Peluquería (RD 1577/2011, de 4 de noviembre) |
+| Anatomía, fisiología y patología humanas aplicadas a la estética integral. | 0750. Procesos fisiológicos y de higiene en imagen personal. |
+| Imagen y Sonido |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Laboratorio de Imagen (RD 2037/1995, de 22 de diciembre) | Técnico en Vídeo Disc-jockey y Sonido (RD 556/2012, de 23 de marzo) |
+| Tratamiento de imágenes fotográficas por procedimientos digitales. | 1304. Toma y edición digital de imagen. |
+| GRADO SUPERIOR |
+| Técnico Superior en Realización de Audiovisuales y Espectáculos (RD 2035/1995 de 22 de diciembre) | Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos (RD 1583/2011, de 4 de noviembre) |
+| Realización multimedia. | 1090. Realización de proyectos multimedia interactivos. |
+| Técnico Superior en Imagen (RD 2033/1995, de 22 de diciembre) | Técnico Superior en Iluminación, Captación y Tratamiento de Imagen (RD 1686/2011, de 18 de noviembre) |
+| Imagen fotográfica. | 1163. Proyectos fotográficos. 1164. Toma fotográfica. |
+| Aplicaciones fotográficas. | 1164. Toma fotográfica. 1165. Tratamiento fotográfico digital. |
+| Iluminación de espacios escénicos. | 1160. Proyectos de iluminación. 1161. Luminotecnia. 1162. Control de la iluminación. |
+| Imagen audiovisual. | 1158. Planificación de cámara en audiovisuales. 1159. Toma de imagen audiovisual. 1167. Grabación y edición de reportajes audiovisuales. |
+| Técnico Superior en Realización de Audiovisuales y Espectáculos (RD 2035/1995 de 22 de diciembre) | Técnico Superior en Realización de Proyectos Audiovisuales y Espectáculos (RD 1680/2011, de 18 de noviembre) |
+| Realización en cine y vídeo. | 0902. Planificación de la realización en cine y vídeo. 0903. Procesos de realización en cine y vídeo. |
+| Realización en televisión. | 0904.Planificación de la realización en televisión. 0905. Procesos de realización en televisión. |
+| Montaje/edición y postproducción de audiovisuales. | 0906. Planificación del montaje y postproducción de audiovisuales. 0907. Realización del montaje y postproducción de audiovisuales. |
+| Sistemas técnicos de realización. | 0910. Medios técnicos audiovisuales y escénicos. |
+| Técnico Superior en Realización de Audiovisuales y Espectáculos (RD 2035/1995 de 22 de diciembre) | Técnico Superior en Producción de Audiovisuales y Espectáculos (RD 1681/2011, de 18 de noviembre) |
+| Sistemas técnicos de realización. | 0910. Medios técnicos audiovisuales y escénicos. |
+| Técnico Superior en Producción de Audiovisuales, Radio y Espectáculos (RD 2034/1995 de 22 de diciembre) | Técnico Superior en Producción de Audiovisuales y Espectáculos (RD 1681/2011, de 18 de noviembre) |
+| Producción de cine/vídeo. Producción de televisión. | 0915. Planificación de proyectos audiovisuales. |
+| Producción de cine/vídeo. | 0916. Gestión de proyectos de cine, vídeo y multimedia |
+| Producción de televisión. Producción de radio. | 0917. Gestión de proyectos de televisión y radio. |
+| Producción de espectáculos. | 0918. Planificación de proyectos de espectáculos y eventos. 0919. Gestión de proyectos de espectáculos y eventos. |
+| Lenguajes audiovisuales y escénicos. | 0920. Recursos expresivos audiovisuales y escénicos. |
+| Medios técnicos audiovisuales. | 0910. Medios técnicos audiovisuales y escénicos. |
+| Gestión y promoción de producciones audiovisuales, radiofónicas y espectáculos. | 0921. Administración y promoción de audiovisuales y espectáculos. |
+| Técnico Superior en Producción de Audiovisuales, Radio y Espectáculos (RD 2034/1995 de 22 de diciembre) | Técnico Superior en Realización de Proyectos Audiovisuales y Espectáculos (RD 1681/2011, de 18 de noviembre) |
+| Medios técnicos audiovisuales. | 0910. Medios técnicos audiovisuales y escénicos. |
+| Técnico Superior en Sonido (RD 2036/1995, de 22 de diciembre) | Técnico Superior en Sonido para Audiovisuales y Espectáculos (RD 1682/2011, de 18 de noviembre) |
+| Sonido en producciones audiovisuales. | 1098. Sonido para audiovisuales. |
+| Grabaciones musicales. | 1100. Grabación en estudio. |
+| Sonorización industrial y de espectáculos. | 1101. Ajustes de sistemas de sonorización. |
+| Post–producción de audio. | 1102. Postproducción de sonido. |
+| Comunicación audiovisual y expresión sonora. | 1104. Comunicación y expresión sonora. |
+| Industrias Alimentarias |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Elaboración de Aceites y Jugos (RD 2053/1995, de 22 de diciembre) | Técnico en Aceites de Oliva y Vinos (RD 1798/2008, de 3 de noviembre) |
+| Materias primas, productos y procesos en la industria oleícola y extractiva. | 0316. Materias primas y productos en la industria oleícola, vinícola y de otras bebidas. 0321. Análisis sensorial. |
+| Operaciones de proceso de extracción de aceites y jugos. | 0317. Extracción de aceites de oliva. |
+| Operaciones de proceso de acondicionamiento de aceites y jugos. | 0319 Acondicionamiento de aceites de oliva. |
+| Higiene y seguridad en la industria alimentaria. | 0031. Seguridad e higiene en la manipulación de alimentos. |
+| Operaciones y control de almacén. | 0030. Operaciones y control de almacén en la industria alimentaria. |
+| Sistemas de control y auxiliares de los procesos. | 0116. Principios de mantenimiento electromecánico. |
+| Técnico en Elaboración de Vinos y Otras Bebidas (RD 2055/1995, de 22 de diciembre) | Técnico en Aceites de Oliva y Vinos (RD 1798/2008, de 3 de noviembre) |
+| Materias primas, productos y procesos en la industria de bebidas. | 0316. Materias primas y productos en la Industria oleícola, vinícola y de otras bebidas. 0321. Análisis sensorial. |
+| Operaciones de vinificación. | 0318. Elaboración de vinos. |
+| Destilería-licorería. | 0320. Elaboración de otras bebidas y derivados. |
+| Higiene y seguridad en la industria alimentaria. | 0031. Seguridad e higiene en la manipulación de alimentos. |
+| Operaciones y control de almacén. | 0030. Operaciones y control de almacén en la industria alimentaria. |
+| Sistemas de control y auxiliares de los procesos. | 0116. Principios de mantenimiento electromecánico. |
+| Técnico en Pastelería y Panadería (RD 2220/1993, de 17 de diciembre) (Hostelería y turismo) | Técnico en Aceites de Oliva y Vinos (RD 1798/2008, de 3 de noviembre) |
+| Ofertas gastronómicas y sistemas de aprovisionamiento. | 0030. Operaciones de control de almacén en la industria alimentaria. |
+| Técnico en Conservería Vegetal, Cárnica y de Pescado (RD 2052/1995, de 22 de diciembre) | Técnico en Elaboración de Productos Alimenticios (RD 452/2010, de 16 de abril) |
+| Operaciones y control de almacén. | 0030. Operaciones y control de almacén en la industria alimentaria. |
+| Higiene y seguridad en la industria alimentaria | 0031. Seguridad e higiene en la manipulación de alimentos. |
+| Operaciones básicas de elaboración de conservas. | 0142. Operaciones de acondicionado de materias primas. |
+| Tratamientos finales de conservación. Envasado y embalaje. | 0143. Tratamientos de transformación y conservación. |
+| Materias primas, procesos y productos en la industria conservera. | 0141. Materias primas en la industria alimentaria. 0145. Procesos tecnológicos en la industria alimentaria. |
+| Sistemas de control y auxiliares de los procesos. | 0116. Principios de mantenimiento electromecánico. |
+| Técnico en Matadero y Carnicería-Charcutería (RD 2051/1995, de 22 de diciembre) | Técnico en Elaboración de Productos Alimenticios (RD 452/2010, de 16 de abril) |
+| Operaciones y control de almacén. | 0030. Operaciones y control de almacén en la industria alimentaria. |
+| Charcutería. | 0142. Operaciones de acondicionado de materias primas. |
+| Higiene y seguridad en la industria alimentaria | 0031. Seguridad e higiene en la manipulación de alimentos. |
+| Tecnología de la carne. | 0141. Materias primas en la industria alimentaria. 0145. Procesos tecnológicos en la industria alimentaria. |
+| Técnico en Elaboración de Productos Lácteos (RD 2054/1995, de 22 de diciembre) | Técnico en Elaboración de Productos Alimenticios (RD 452/2010, de 16 de abril) |
+| Operaciones y control de almacén. | 0030. Operaciones y control de almacén en la industria alimentaria. |
+| Higiene y seguridad en la industria alimentaria | 0031. Seguridad e higiene en la manipulación de alimentos. |
+| Operaciones de proceso de leches de consumo y helados | 0142. Operaciones de acondicionado de materias primas. |
+| Quesería y mantequería. Envasado y embalaje. | 0143. Tratamientos de transformación y conservación. |
+| Leche, productos lácteos y procesos. | 0141. Materias primas en la industria alimentaria. 0145. Procesos tecnológicos en la industria alimentaria. |
+| Sistemas de control y auxiliares de los procesos. | 0116. Principios de mantenimiento electromecánico. |
+| Técnico en Elaboración de Aceites y Jugos (RD 2053/1995, de 22 de diciembre) | Técnico en Elaboración de Productos Alimenticios (RD 452/2010, de 16 de abril) |
+| Sistemas de control y auxiliares de los procesos. | 0116. Principios de mantenimiento electromecánico. |
+| Operaciones y control de almacén. | 0030. Operaciones y control de almacén en la industria alimentaria. |
+| Higiene y seguridad en la industria alimentaria | 0031. Seguridad e higiene en la manipulación de alimentos. |
+| Técnico en Elaboración de Vinos y Otras Bebidas (RD 2055/1995, de 22 de diciembre) | Técnico en Elaboración de Productos Alimenticios (RD 452/2010, de 16 de abril) |
+| Sistemas de control y auxiliares de los procesos. | 0116. Principios de mantenimiento electromecánico. |
+| Operaciones y control de almacén. | 0030. Operaciones y control de almacén en la industria alimentaria. |
+| Higiene y seguridad en la industria alimentaria | 0031. Seguridad e higiene en la manipulación de alimentos. |
+| Técnico en Molinería e Industrias Cerealistas (RD 2056/1995, de 22 de diciembre) | Técnico en Elaboración de Productos Alimenticios (RD 452/2010, de 16 de abril) |
+| Operaciones y control de almacén. | 0030. Operaciones y control de almacén en la industria alimentaria. |
+| Sistemas de control y auxiliares de los procesos. | 0116. Principios de mantenimiento electromecánico. |
+| Higiene y seguridad en la industria alimentaria. | 0031. Seguridad e higiene en la manipulación de alimentos. |
+| Técnico en Panificación y Repostería (RD 2057/1995, de 22 de diciembre) | Técnico en Elaboración de Productos Alimenticios (RD 452/2010, de 16 de abril) |
+| Operaciones y control de almacén. | 0030. Operaciones de control de almacén en la industria alimentaria. |
+| Higiene y seguridad en la industria alimentaria. | 0031. Seguridad e higiene en la manipulación de alimentos. |
+| Sistemas de control y auxiliares de los procesos. | 0116. Principios de mantenimiento electromecánico. |
+| Técnico en Panificación y Repostería (RD 2057/1995, de 22 de diciembre) | Técnico en Panadería, Repostería y Confitería (RD 1399/2007, de 29 de octubre) |
+| Materias primas, productos y procesos en panadería, pastelería y confitería. | 0024. Materias primas y procesos en panadería, pastelería y repostería. |
+| Panadería y bollería. | 0025. Elaboraciones de panadería-bollería. |
+| Elaboraciones básicas de pastelería. | 0026. Procesos básicos de pastelería y repostería. 0028. Postres en restauración. |
+| Especialidades y acabados de pastelería y confitería. | 0027. Elaboraciones de confitería y otras especialidades. |
+| Operaciones y control de almacén. | 0030. Operaciones de control de almacén en la industria alimentaria. |
+| Higiene y seguridad en la industria alimentaria. | 0031. Seguridad e higiene en la manipulación de alimentos. |
+| Técnico en Pastelería y Panadería (RD 2220/1993, de 17 de diciembre) (Hostelería y turismo) | Técnico en Panadería, Repostería y Confitería (RD 1399/2007, de 29 de octubre) |
+| Panificación y pastelería salada. | 0025. Elaboraciones de panadería-bollería. |
+| Técnicas de pastelería, panadería y conservación de alimentos. | 0026. Procesos básicos de pastelería y repostería. 0028. Postres en restauración. |
+| Diseño de decoraciones en pastelería y montaje de servicios. | 0032. Presentación y venta de productos de panadería y pastelería. |
+| Productos de pastelería y repostería. | 0029. Productos de obrador. |
+| Ofertas gastronómicas y sistemas de aprovisionamiento. | 0030. Operaciones de control de almacén en la industria alimentaria. |
+| Técnico en Cocina (RD 2219/1993, de 17 de diciembre) (Hostelería y turismo) | Técnico en Panadería, Repostería y Confitería (RD 1399/2007, de 29 de octubre) |
+| Repostería. | 0026. Procesos básicos de pastelería y repostería. 0028. Postres en restauración. |
+| Técnico en Comercio (RD 1655/1994, de 22 de julio) (Comercio) | Técnico en Panadería, Repostería y Confitería (RD 1399/2007, de 29 de octubre) |
+| Ciclo completo. | 0032. Presentación y venta de productos de panadería y pastelería. |
+| GRADO SUPERIOR |
+| Técnico Superior en Industria Alimentaria (RD 2050/1995, de 22 de diciembre) | Técnico Superior en Procesos y Calidad en la Industria Alimentaria (RD 451/2010, de 16 de abril) |
+| Logística. Comercialización de productos alimentarios. | 0084. Comercialización y logística en la industria alimentaria. |
+| Gestión de calidad. Técnicas de protección ambiental. | 0086. Gestión de calidad y ambiental en la industria alimentaria. |
+| Procesos en la industria alimentaria. | 0462. Tecnología alimentaria. |
+| Elaboración de productos alimentarios. Sistemas automáticos de producción en la industria alimentaria. | 0465. Tratamientos de preparación y conservación de los alimentos. 0469. Procesos integrados en la industria alimentaria. 0191. Mantenimiento electromecánico en industrias de proceso. |
+| Organización y control de una unidad de producción. | 0466. Organización de la producción alimentaria. |
+| Microbiología y química alimentarias. | 0464. Análisis de alimentos. 0467. Control microbiológico y sensorial de los alimentos. |
+| Técnico Superior en Industria Alimentaria (RD 2050/1995, de 22 de diciembre) | Técnico Superior en Vitivinicultura (RD 1688/2007, de 14 de diciembre) |
+| Logística. Comercialización de productos alimentarios. | 0084. Comercialización y logística en la industria alimentaria. |
+| Técnicas de protección ambiental. Gestión de calidad. | 0086. Gestión de calidad y ambiental en la industria alimentaria. |
+| Informática y Comunicaciones |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico Superior en Administración de Sistemas Informáticos (RD 1660/1994, de 22 de julio) | Técnico en Sistemas Microinformáticos y Redes (RD 1691/2007, de 14 de diciembre) |
+| Ciclo completo. | 0225. Redes locales. |
+| Ciclo completo. | 0222. Sistemas operativos monopuesto. |
+| Ciclo completo. | 0224. Sistemas operativos en red. |
+| Técnico en Explotación de Sistemas Informáticos (RD 497/2003, de 2 de mayo) | Técnico en Sistemas Microinformáticos y Redes (RD 1691/2007, de 14 de diciembre) |
+| Instalación y Mantenimiento de Servicios de Redes Locales. | 0225. Redes locales. |
+| Instalación y Mantenimiento de Equipos y Sistemas Informáticos. | 0221. Montaje y mantenimiento de equipos. |
+| Implantación y Mantenimiento de Aplicaciones Ofimáticas y Corporativas. Operaciones con bases de datos ofimáticas y corporativas. | 0223. Aplicaciones Ofimáticas |
+| Instalación y Mantenimiento de Servicios de Internet. | 0227. Servicios de red. |
+| Mantenimiento de Portales de Información. | 0228. Aplicaciones web. |
+| Sistemas Operativos en Entornos Monousuario y Multiusuario. | 0222. Sistemas operativos monopuesto. 0224. Sistemas operativos en red. |
+| GRADO SUPERIOR |
+| Técnico Superior en Administración de Sistemas Informáticos (RD 1660/1994, de 22 de julio) | Técnico Superior en Administración de Sistemas Informáticos en Red (RD 1629/2009, de 30 de octubre) |
+| Sistemas informáticos monousuario y multiusuario. | 0369. Implantación de sistemas operativos. |
+| Redes de área local. | 0370. Planificación y administración de redes. |
+| Sistemas gestores de bases de datos. | 0372. Gestión de bases de datos. 0377. Administración de sistemas gestores de bases de datos. |
+| Técnico Superior en Desarrollo de Aplicaciones Informáticas (RD 1661/1994, de 22 de julio) | Técnico Superior en Administración de Sistemas Informáticos en Red (RD 1629/2009, de 30 de octubre) |
+| Desarrollo de aplicaciones en entornos de cuarta generación y con herramientas CASE. | 0372. Gestión de bases de datos. 0377. Administración de sistemas gestores de base de datos. |
+| Técnico Superior en Administración de Sistemas Informáticos (RD 1660/1994, de 22 de julio) | Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (RD 450/2010, de 16 de abril) |
+| Sistemas informáticos monousuario y multiusuario. Redes de área local. | 0483. Sistemas informáticos. |
+| Sistemas gestores de bases de datos. | 0484. Bases de Datos. |
+| Técnico Superior en Desarrollo de Aplicaciones Informáticas (RD 1661/1994, de 22 de julio) | Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (RD 450/2010, de 16 de abril) |
+| Sistemas informáticos multiusuario y en red. | 0483. Sistemas informáticos. |
+| Desarrollo de aplicaciones en entornos de cuarta generación y con herramientas CASE. | 0484. Bases de datos 0486. Acceso a datos. |
+| Programación en lenguajes estructurados. | 0485. Programación. |
+| Análisis y diseño detallado de aplicaciones informáticas de gestión. | 0487. Entornos de desarrollo. |
+| Diseño y realización de servicios de presentación en entornos gráficos. | 0488. Desarrollo de interfaces. |
+| Técnico Superior en Administración de Sistemas Informáticos (RD 1660/1994, de 22 de julio) | Técnico Superior en Desarrollo de Aplicaciones Web (RD 686/2010, de 20 de mayo) |
+| Sistemas informáticos monousuario y multiusuario. Redes de área local. | 0483. Sistemas informáticos. |
+| Sistemas gestores de bases de datos. | 0484. Bases de Datos. |
+| Técnico Superior en Desarrollo de Aplicaciones Informáticas (RD 1661/1994, de 22 de julio) | Técnico Superior en Desarrollo de Aplicaciones Web (RD 686/2010, de 20 de mayo) |
+| Sistemas informáticos multiusuario y en red. | 0483. Sistemas informáticos. |
+| Desarrollo de aplicaciones en entornos de cuarta generación y con herramientas CASE. | 0484. Bases de datos. |
+| Programación en lenguajes estructurados | 0485. Programación. |
+| Análisis y diseño detallado de aplicaciones informáticas de gestión. | 0487. Entornos de desarrollo. |
+| Instalación y Mantenimiento |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Equipos e Instalaciones Electrotécnicas (RD 623/1995, de 21 de abril) (Electricidad y electrónica) | Técnico en Instalaciones Frigoríficas y de Climatización (RD 1793/2010, de 30 de diciembre) |
+| Automatismos y cuadros eléctricos. | 0038. Instalaciones eléctricas y automatismos. |
+| Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor (RD 2046/1995, de 22 de diciembre) | Técnico en Instalaciones Frigoríficas y de Climatización (RD 1793/2010, de 30 de diciembre) |
+| Máquinas y equipos frigoríficos. | 0036. Máquinas y equipos térmicos. |
+| Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones. | 0037. Técnicas de montaje de instalaciones. |
+| Instalaciones eléctricas y automatismos. | 0038. Instalaciones eléctricas y automatismos. |
+| Instalaciones frigoríficas | 0040. Montaje y mantenimiento de equipos de refrigeración comercial. 0041. Montaje y mantenimiento de instalaciones frigoríficas industriales. |
+| Instalaciones de climatización y ventilación | 0042. Montaje y mantenimiento de instalaciones de climatización, ventilación y extracción. |
+| Técnico en Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque (RD 725/1994, de 22 de abril) (Actividades marítimo pesqueras) | Técnico en Instalaciones Frigoríficas y de Climatización (RD 1793/2010, de 30 de diciembre) |
+| Instalaciones y máquinas eléctricas. Automatización: regulación y control. | 0038. Instalaciones eléctricas y automatismos. |
+| Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención (RD 2042/1995, de 22 de diciembre) | Técnicos en Instalaciones Frigoríficas y de Climatización (RD 1793/2010, de 30 de diciembre) |
+| Técnicas de montaje de instalaciones. | 0037. Técnicas de montaje de instalaciones. |
+| Técnico Superior en Mantenimiento y Montaje de Instalaciones de Edificio y Proceso (RD 2044/1995, de 22 de diciembre) | Técnico en Instalaciones Frigoríficas y de Climatización (RD 1793/2010, de 30 de diciembre) |
+| Ejecución de procesos de montaje de instalaciones. | 0037. Técnicas de montaje de instalaciones. |
+| Técnico en Equipos e Instalaciones Electrotécnicas (RD 623/1995, de 21 de abril) (Electricidad y electrónica) | Técnico en Instalaciones de Producción de Calor (RD 1792/2010, de 30 de diciembre) |
+| Automatismos y cuadros eléctricos. | 0038. Instalaciones eléctricas y automatismos. |
+| Técnico en Instalación y Mantenimiento Electromecánico de Máquinas y Conducción de Líneas (RD 2045/1995, de 22 de diciembre) | Técnicos en Instalaciones de Producción de Calor (RD 1792/2010, de 30 de diciembre) |
+| Ciclo completo. | 0038. Instalaciones eléctricas y automatismos. |
+| Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor (RD 2046/1995, de 22 de diciembre) | Técnico en Instalaciones de Producción de Calor (RD 1792/2010, de 30 de diciembre) |
+| Máquinas y equipos frigoríficos. | 0036. Máquinas y equipos térmicos. |
+| Instalaciones de producción de calor. | 0302. Montaje y mantenimiento de instalaciones caloríficas. 0392. Montaje y mantenimiento de instalaciones de energía solar. |
+| Instalaciones de agua y gas. | 0310. Montaje y mantenimiento de instalaciones de agua. 0393. Montaje y mantenimiento de instalaciones de gas y combustibles líquidos. |
+| Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones. | 0037. Técnicas de montaje de instalaciones. |
+| Instalaciones eléctricas y automatismos. | 0038. Instalaciones eléctricas y automatismos. |
+| Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención (RD 2042/1995, de 22 de diciembre) | Técnico en Instalaciones de Producción de Calor (RD 1792/2010, de 30 de diciembre) |
+| Técnicas de montaje de instalaciones. | 0037. Técnicas de montaje de instalaciones. |
+| Técnico Superior en Mantenimiento y Montaje de Instalaciones de Edificio y Proceso (RD 2044/1995, de 22 de diciembre) | Técnico en Instalaciones de Producción de Calor (RD 1792/2010, de 30 de diciembre) |
+| Ejecución de procesos de montaje de instalaciones. | 0037. Técnicas de montaje de instalaciones. |
+| Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor (RD 2046/1995, de 22 de diciembre) | Técnico en Mantenimiento Electromecánico (RD 1589/2011, de 4 de noviembre) |
+| Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones. | 0950. Técnicas de unión y montaje. |
+| Electrotecnia. | 0951. Electricidad y automatismos eléctricos. |
+| Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor (RD 2046/1995, de 22 de diciembre) | Técnico en Redes y Estaciones de Tratamiento de Agua (RD 114/2017, de 17 de febrero) (Energía y Agua) |
+| Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones. | 1562. Técnicas de mecanizado y unión |
+| Técnico en Mantenimiento ferroviario (RD 2047/1995, de 22 de diciembre) | Técnico en Mantenimiento Electromecánico (RD 1589/2011, de 4 de noviembre) |
+| Técnicas de mecanizado para el mantenimiento y montaje. | 0949. Técnicas de fabricación. 0950. Técnicas de unión y montaje. |
+| Electrotecnia. | 0951. Electricidad y automatismos eléctricos. |
+| Montaje y mantenimiento mecánico. | 0953. Montaje y mantenimiento mecánico. |
+| Automatismos eléctricos, neumáticos e hidráulicos. | 0952. Automatismos neumáticos e hidráulicos. |
+| Montaje y mantenimiento eléctrico. | 0954. Montaje y mantenimiento eléctrico- electrónico. |
+| Técnico en Instalación y Mantenimiento Electromecánico de Maquinaria y Conducción de Líneas (RD 2045/1995, de 22 de diciembre) | Técnico en Mantenimiento Electromecánico (RD 1589/2011, de 4 de noviembre) |
+| Técnicas de mecanizado para el mantenimiento y montaje. | 0949. Técnicas de fabricación. 0950. Técnicas de unión y montaje. |
+| Electrotecnia. | 0951. Electricidad y automatismos eléctricos. |
+| Automatismos eléctricos, neumáticos e hidráulicos. | 0952. Automatismos neumáticos e hidráulicos. |
+| Montaje y mantenimiento mecánico. | 0953. Montaje y mantenimiento mecánico. |
+| Montaje y mantenimiento eléctrico. | 0954. Montaje y mantenimiento eléctrico- electrónico. |
+| Conducción y mantenimiento de líneas automatizadas. | 0955. Montaje y mantenimiento de líneas automatizadas |
+| Técnico en Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque (RD 725/1994, de 22 de abril) (Actividades marítimo pesqueras) | Técnico en Mantenimiento Electromecánico (RD 1589/2011, de 4 de noviembre) |
+| Ciclo completo. | 0952. Automatismos neumáticos e hidráulicos. |
+| Técnico en Soldadura y Calderería (RD 1657/1994 de 22 de julio) (Fabricación mecánica) | Técnico en Mantenimiento Electromecánico (RD 1589/2011, de 4 de noviembre) |
+| Ciclo completo. | 0949. Técnicas de fabricación. 0950. Técnicas de unión y montaje. |
+| Técnico en Equipos e Instalaciones Electrotécnicas (RD 623/1995, de 21 de abril) (Electricidad y electrónica) | Técnico en Mantenimiento Electromecánico (RD 1589/2011, de 4 de noviembre) |
+| Electrotecnia. | 0951. Electricidad y automatismos eléctricos. |
+| Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención (RD 2042/1995, de 22 de diciembre) | Técnico en Mantenimiento Electromecánico (RD 1589/2011, de 4 de noviembre) |
+| Técnicas de montaje e instalaciones | 0950. Técnicas de unión y montaje. |
+| Técnico Superior en Mantenimiento y Montaje de instalaciones de Edificio y Proceso (RD 2044/1995, de 22 de diciembre) | Técnico en Mantenimiento Electromecánico (RD 1589/2011, de 4 de noviembre) |
+| Ejecución de procesos de montaje de instalaciones | 0950. Técnicas de unión y montaje |
+| GRADO SUPERIOR |
+| Técnico Superior en Mantenimiento y Montaje de Instalaciones de Edificio y Proceso (RD 2044/1995, de 22 de diciembre) | Técnico Superior en Mantenimiento de Instalaciones Térmicas y de Fluidos (RD 220/2008, de 15 de febrero) |
+| Procesos y gestión del mantenimiento y montaje de instalaciones. Calidad en el mantenimiento y montaje de equipos e instalaciones. | 0133. Gestión del montaje, de la calidad y del mantenimiento. |
+| Ejecución de procesos de montaje de instalaciones. | 0122. Procesos de montaje de instalaciones. |
+| Mantenimiento de instalaciones térmicas y de fluidos. | 0135. Mantenimiento de instalaciones frigoríficas y de climatización. 0136. Mantenimiento de instalaciones caloríficas y de fluidos. |
+| Proyectos de modificación de instalaciones térmicas y de fluidos. | 0134. Configuración de instalaciones térmicas y de fluidos. |
+| Sistemas automáticos en las instalaciones. | 0120. Sistemas eléctricos y automáticos. |
+| Equipos para instalaciones térmicas y de fluidos. | 0121. Equipos e instalaciones térmicas. 0124. Energías renovables y eficiencia energética. |
+| Representación gráfica en instalaciones. | 0123. Representación gráfica de instalaciones. |
+| Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención (RD 2042/1995, de 22 de diciembre) | Técnico Superior en Mantenimiento de Instalaciones Térmicas y de Fluidos (RD 220/2008, de 15 de febrero) |
+| Instalaciones de fluidos. Instalaciones de procesos térmicos. | 0121. Equipos e instalaciones térmicas. |
+| Técnicas de montaje de instalaciones. | 0122. Procesos de montaje de instalaciones. |
+| Representación gráfica en instalaciones. | 0123. Representación gráfica de instalaciones. |
+| Técnico Superior en Mantenimiento y Montaje de Instalaciones de Edificio y Proceso (RD 2044/1995, de 22 de diciembre) | Técnico Superior en Desarrollo de Proyectos de Instalaciones Térmicas y de Fluidos (RD 219/2008, de 15 de febrero) |
+| Ejecución de procesos de montaje de instalaciones. | 0122. Procesos de montaje de instalaciones. |
+| Equipos para instalaciones térmicas y de fluidos. | 0121. Equipos e instalaciones térmicas. 0124. Energías renovables y eficiencia energética. |
+| Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención (RD 2042/1995, de 22 de diciembre) | Técnico Superior en Desarrollo de Proyectos de Instalaciones Térmicas y de Fluidos (RD 219/2008, de 15 de febrero) |
+| Instalaciones de fluidos. Instalaciones de procesos térmicos. | 0121. Equipos e instalaciones térmicas. |
+| Procesos y gestión de montaje de instalaciones. | 0128. Planificación del montaje de instalaciones. |
+| Sistemas automáticos en las instalaciones. | 0120. Sistemas eléctricos y automáticos. |
+| Representación gráfica en instalaciones. | 0123. Representación gráfica de instalaciones. |
+| Proyectos de instalaciones térmicas y de fluidos. | 0127. Configuración de instalaciones de fluidos. 0125. Configuración de instalaciones de climatización, calefacción y ACS. 0126. Configuración de instalaciones frigoríficas. 0124. Energías renovables y eficiencia energética. |
+| Técnicas de montaje de instalaciones. | 0122. Procesos de montaje de instalaciones. |
+| Técnico Superior en Mantenimiento y Montaje de Instalaciones de Edificio Proceso (RD 2044/1995, de 22 de diciembre) | Técnico Superior en Eficiencia Energética y Energía Solar Térmica (RD 1177/2008, de 11 de julio) (Energía y Agua) |
+| Ejecución de procesos de montaje de instalaciones. | 0122. Procesos de montaje de instalaciones. |
+| Equipos para instalaciones térmicas y de fluidos. | 0121. Equipos e instalaciones térmicas. |
+| Representación gráfica en instalaciones. | 0123. Representación gráfica de instalaciones. |
+| Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención (RD 2042/1995, de 22 de diciembre)) | Técnico Superior en Eficiencia Energética y Energía Solar Térmica (RD 1177/2008, de 11 de julio) (Energía y Agua) |
+| Instalaciones de fluidos. Instalaciones de procesos térmicos. | 0121. Equipos e instalaciones térmicas. |
+| Técnicas de montaje de instalaciones. | 0122. Procesos de montaje de instalaciones. |
+| Representación gráfica en instalaciones. | 0123. Representación gráfica de instalaciones. |
+| Técnico Superior en Mantenimiento de Equipo Industrial (RD 2043/1995, de 22 de diciembre) | Técnico Superior en Mecatrónica Industrial (RD 1576/2011, de 4 de noviembre) |
+| Procesos y gestión del mantenimiento. Calidad en el mantenimiento y montaje de equipos e instalaciones. | 0942. Procesos y gestión de mantenimiento y calidad. |
+| Montaje y mantenimiento del sistema mecánico. | 0935. Sistemas mecánicos. |
+| Montaje y mantenimiento de los sistemas hidráulico y neumático. | 0936. Sistemas hidráulicos y neumáticos. |
+| Montaje y mantenimiento de los sistemas eléctrico y electrónico. | 0937. Sistemas eléctricos y electrónicos. |
+| Montaje y mantenimiento de sistemas automáticos de producción. | 0943. Integración de sistemas. |
+| Proyectos de modificación del equipo industrial. | 0941. Configuración de sistemas mecatrónicos. 0944. Simulación de sistemas mecatrónicos. |
+| Técnicas de fabricación para el mantenimiento y montaje. | 0939. Procesos de fabricación. |
+| Representación gráfica en maquinaria. | 0940. Representación gráfica de sistemas mecatrónicos. |
+| Elementos de máquinas. | 0938. Elementos de máquinas. |
+| Técnico Superior en Automoción (RD 1648/1994 de 22 de julio) (Mantenimiento de Vehículos Autopropulsados) | Técnico Superior en Mecatrónica Industrial (RD 1576/2011, de 4 de noviembre) |
+| Sistemas de transmisión de fuerzas y trenes de rodaje. Motores térmicos y sus sistemas auxiliares. Elementos amovibles y fijos no estructurales. | 0935. Sistemas mecánicos. |
+| Madera, Mueble y Corcho |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Fabricación Industrial de Carpintería y Mueble (RD 731/1994, de 22 de abril) | Técnico en Carpintería y Mueble (RD 1128/2010, de 10 de septiembre) |
+| Materiales y productos en industrias de la madera. | 0538. Materiales en carpintería y mueble. |
+| Control de almacén en industrias de la madera. | 0542. Control de almacén. |
+| Montaje industrial de carpintería y mueble. | 0546. Montaje de carpintería y mueble. |
+| Aplicación de acabados en carpintería y mueble. | 0547. Acabados en carpintería y mueble. |
+| Técnico en Fabricación a Medida e Instalación de Carpintería y Mueble (RD 732/1994, de 22 de abril) | Técnico en Carpintería y Mueble (RD 1128/2010, de 10 de septiembre) |
+| Materiales y productos en industrias de la madera. | 0538. Materiales en carpintería y mueble. |
+| Operaciones básicas de mecanizado en carpintería y mueble a medida. | 0540. Operaciones básicas de carpintería. 0541. Operaciones básicas de mobiliario. |
+| Fabricación a medida en carpintería y mueble. | 0540. Operaciones básicas de carpintería. 0541. Operaciones básicas de mobiliario. |
+| Técnico en Transformación de Madera y Corcho (RD 730/1994, de 22 de abril) | Técnico en Carpintería y Mueble (RD 1128/2010, de 10 de septiembre) |
+| Materiales y productos en industrias de la madera. | 0538. Materiales en carpintería y mueble |
+| Control de almacén en industrias de la madera. | 0542. Control de almacén. |
+| Mecanizado industrial de la Madera. | 0540. Operaciones básicas de carpintería. 0541. Operaciones básicas de mobiliario. 0544. Mecanizado de madera y derivados. |
+| Técnico en Fabricación a Medida e Instalación de Carpintería y Mueble (RD 732/1994, de 22 de abril) | Técnico en Instalación y Amueblamiento (RD 880/2011, de 24 de junio) |
+| Materiales y productos en industrias de la madera. | 0538. Materiales en carpintería y mueble. |
+| Definición de soluciones en carpintería y mueble a medida | 0539. Soluciones constructivas. 0778. Planificación de la instalación. |
+| Operaciones básicas de mecanizado en carpintería y mueble a medida. | 0540. Operaciones básicas de carpintería. 0541. Operaciones básicas de mobiliario |
+| Fabricación a medida en carpintería y mueble | 0540. Operaciones básicas de carpintería. 0541. Operaciones básicas de mobiliario. 0542. Control de almacén. |
+| Instalación y acabado en carpintería y mueble a medida. | 0779. Instalación de mobiliario. 0780. Instalación de carpintería. 0781. Instalación de estructuras de madera. |
+| Técnico en Fabricación Industrial de Carpintería y Mueble (RD 731/1994, de 22 de abril) | Técnico en Instalación y Amueblamiento (RD 880/2011, de 24 de junio) |
+| Materiales y productos en industrias de la madera | 0538. Materiales en carpintería y mueble. |
+| Mecanizado industrial de la Madera. | 0540. Operaciones básicas de carpintería. 0541. Operaciones básicas de mobiliario. |
+| Control de almacén en industrias de la madera. | 0542. Control de almacén. |
+| Técnico en Transformación de Madera y Corcho (RD 730/1994, de 22 de abril) | Técnico en Instalación y Amueblamiento (RD 880/2011, de 24 de junio) |
+| Control de almacén en industrias de la madera. | 0542. Control de almacén. |
+| Materiales y productos en industrias de la madera. | 0538. Materiales en carpintería y mueble. |
+| Mecanizado industrial de la Madera. | 0540. Operaciones básicas de carpintería. 0541. Operaciones básicas de mobiliario. |
+| GRADO SUPERIOR |
+| Técnico Superior en Desarrollo de Productos en Carpintería y Mueble (RD 728/1994, de 22 de abril) | Técnico Superior en Diseño y Amueblamiento (RD 1579/2011, de 4 de noviembre) |
+| Procesos en industrias de la madera. | 0982. Procesos en industrias de carpintería y mueble. |
+| Definición de producto en carpintería y mueble. | 0984. Representación en carpintería y mobiliario. |
+| Construcción y análisis de prototipos de carpintería y mueble. | 0985. Prototipos en carpintería y mueble. 0988. Instalaciones de carpintería y mobiliario. |
+| Desarrollo de producto en carpintería y mueble. | 0986. Desarrollo de producto en carpintería y mueble. |
+| Técnico Superior en Producción de Madera y Mueble (RD 729/1994, de 22 de abril) | Técnico Superior en Diseño y Amueblamiento (RD 1579/2011, de 4 de noviembre) |
+| Procesos en industrias de la madera. | 0982. Procesos en industrias de carpintería y mueble. |
+| Fabricación e instalación de carpintería y mueble. | 0983. Fabricación en carpintería y mueble. 0988. Instalaciones de carpintería y mobiliario. |
+| Fabricación automatizada en industrias de la madera y el mueble. | 0987. Automatización en carpintería y mueble. |
+| Gestión de almacén en industrias de la madera y el mueble. Gestión y control de la producción en industrias de la madera y el mueble | 0990. Gestión de la producción en carpintería y mueble. |
+| Marítimo-Pesquera |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Operaciones de Cultivo Acuícola (RD 726/1994, de 22 de abril) | Técnico en Cultivos Acuícolas (RD 254/2011, de 28 de febrero) |
+| Instalaciones y equipos de cultivo. | 0706. Instalaciones y equipos de cultivo. |
+| Técnicas del cultivo de moluscos. | 0705. Técnicas de engorde de moluscos. 0708. Técnicas de criadero de moluscos. |
+| Técnicas del cultivo de crustáceos. | 0709. Técnicas de cultivo de crustáceos. |
+| Técnicas del cultivo de peces. | 0707. Técnicas de criadero de peces. 0704. Técnicas de engorde de peces. |
+| Técnicas de cultivo auxiliares. | 0703. Técnicas de cultivos auxiliares. |
+| Técnico en Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque (RD 725/1994, de 22 de abril) | Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones (RD 1072/2012, de 13 de julio) |
+| Operación y mantenimiento de los equipos de propulsión y servicios. | 1172. Mantenimiento de la planta propulsora y maquinaria auxiliar. 1177. Procedimientos de guardia de máquinas. |
+| Instalaciones y máquinas eléctricas. | 1175. Mantenimiento de las instalaciones y máquinas eléctricas en buques y embarcaciones. |
+| Automatización: regulación y control. | 1174. Regulación y mantenimiento de automatismos en buques y embarcaciones. |
+| Operación y mantenimiento de los sistemas frigoríficos y de producción. | 1176. Instalación y mantenimiento de maquinaria de frío y climatización en buques y embarcaciones. |
+| Operaciones auxiliares de mantenimiento industrial. | 1173. Procedimientos de mecanizado y soldadura en buques y embarcaciones. |
+| Seguridad, supervivencia y primeros auxilios en la mar. | 1032. Seguridad marítima. 1033. Atención sanitaria a bordo. |
+| Técnico en Pesca y Transporte Marítimo (RD 724/1994, de 22 de abril) | Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones (RD 1072/2012, de 13 de julio) |
+| Seguridad, supervivencia y primeros auxilios en la mar. | 1032. Seguridad marítima. 1033. Atención sanitaria a bordo. |
+| Automatización: regulación y control. | 1174. Regulación y mantenimiento de automatismos en buques y embarcaciones. |
+| Técnico Superior en Supervisión y Control de Máquinas e Instalaciones del Buque (RD 722/1994, de 22 de abril) | Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones (RD 1072/2012, de 13 de julio) |
+| Seguridad, supervivencia y primeros auxilios en la mar. | 1032. Seguridad marítima. 1033. Atención sanitaria a bordo. |
+| Técnico en Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque (RD 725/1994, de 22 de abril) | Técnico en Navegación y Pesca de Litoral (RD 1144/2012, de 27 de julio) |
+| Seguridad, supervivencia y primeros auxilios en la mar. | 1033. Atención sanitaria a bordo. 1032. Seguridad marítima. |
+| Técnico en Pesca y Transporte Marítimo (RD 724/1994, de 22 de abril) | Técnico en Navegación y Pesca de Litoral (RD 1144/2012, de 27 de julio) |
+| Navegación y comunicaciones del buque. | 1027. Técnicas de navegación y comunicaciones. |
+| Pesca extracción y conservación. | 1029. Pesca de litoral. |
+| Administración del buque. | 1030. Despacho y administración del buque. |
+| Seguridad, supervivencia y primeros auxilios en la mar. | 1033. Atención sanitaria a bordo. 1032. Seguridad marítima. |
+| Estabilidad y maniobra del buque. | 1035. Técnicas de maniobra. 1036. Estabilidad, trimado y estiba del buque. |
+| Técnico Superior en Supervisión y Control de Máquinas e Instalaciones del Buque (RD 722/1994, de 22 de abril) | Técnico en Navegación y Pesca de Litoral (RD 1144/2012, de 27 de julio) |
+| Seguridad, supervivencia y primeros auxilios en la mar. | 1033. Atención sanitaria a bordo. 1032. Seguridad marítima. |
+| Técnico en Buceo de Media Profundidad (RD 727/1994, de 22 de abril) | Técnico en Operaciones Subacuáticas e Hiperbáricas (RD 1073/2012, de 13 de julio) |
+| Inmersión a media profundidad. | 0758. Intervención hiperbárica con aire y nitrox. 0759. Instalaciones y equipos hiperbáricos. |
+| Reparaciones a flote y reflotamientos. | 0760. Reparaciones y reflotamientos. |
+| Procedimientos de corte y soldadura subacuáticos. | 0761. Corte y soldadura. |
+| Trabajos subacuáticos de obras hidráulicas y con explosivos. | 0762. Construcción y obra hidráulica. |
+| GRADO SUPERIOR |
+| Técnico Superior en Producción Acuícola (RD 723/1994, de 22 de abril) | Técnico Superior en Acuicultura (RD 1585/2011, de 4 de noviembre) |
+| Organización del proceso productivo acuícola. | 1019. Instalaciones, innovación y sistemas de automatización en acuicultura. 1021. Gestión medioambiental de los procesos acuícolas. |
+| Cultivo de moluscos. | 1017. Técnicas y gestión de la producción de moluscos. |
+| Cultivo de crustáceos. | 1018. Técnicas y gestión de la producción de crustáceos. |
+| Cultivo de peces. | 1016. Técnicas y gestión de la producción de peces. |
+| Producción de cultivos auxiliares. | 1015. Técnicas y gestión de la producción de cultivos auxiliares. |
+| Técnico Superior en Navegación, Pesca y Transporte Marítimo (RD 721/1994, de 22 de abril) | Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones (RD 1075/2012, de 13 de julio) |
+| Seguridad, prevención y supervivencia en la mar. | 0800. Control de las emergencias. |
+| Atención sanitaria de urgencia a bordo. | 0802. Organización de la asistencia sanitaria a bordo. |
+| Técnico Superior en Supervisión y Control de Máquinas e Instalaciones del Buque (RD 722/1994, de 22 de abril) | Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones (RD 1075/2012, de 13 de julio) |
+| Sistemas de propulsión y servicios del buque. | 1308. Organización del mantenimiento de planta propulsora y maquinaria auxiliar de buques. |
+| Técnicas auxiliares de mantenimiento industrial | 1309. Organización del mantenimiento en seco de buques y embarcaciones y montaje de motores térmicos. |
+| Sistemas automáticos y de regulación del buque. | 1310. Programación y mantenimiento de automatismos hidráulicos y neumáticos en buques y embarcaciones. |
+| Instalaciones y equipos eléctricos del buque. | 1311. Organización del mantenimiento y montaje de instalaciones y sistemas eléctricos de buques y embarcaciones. |
+| Instalaciones y procesos de extracción, preparación y conservación de la pesca. | 1312. Organización del mantenimiento y montaje de instalaciones frigoríficas y sistemas de climatización de buques y embarcaciones. |
+| Planificación y gestión de las instalaciones | 1313. Planificación del mantenimiento de maquinaria de buques y embarcaciones. |
+| Seguridad, supervivencia y primeros auxilios en el mar | 0800. Control de las emergencias. 0802. Organización de la asistencia sanitaria a bordo. |
+| Técnico Superior en Navegación, Pesca y Transporte Marítimo (RD 721/1994, de 22 de abril) | Técnico Superior en Transporte Marítimo y Pesca de Altura (RD 1691/2011, de 18 de noviembre) |
+| Derecho marítimo, legislación pesquera y administración. | 0803. Administración y gestión del buque y de la actividad pesquera. |
+| Maniobra y carga del buque. | 0798. Maniobra y estiba. |
+| Gobierno del buque. | 0799. Navegación, gobierno y comunicaciones del buque. |
+| Pesca marítima y biología de las especies de interés comercial. | 0805. Pesca de altura y gran altura. |
+| Seguridad, prevención y supervivencia en la mar. | 0800. Control de las emergencias. |
+| Atención sanitaria de urgencia a bordo. | 0802. Organización de la asistencia sanitaria a bordo. |
+| Técnico Superior en Supervisión y Control de Máquinas e Instalaciones del Buque (RD 722/1994, de 22 de abril) | Técnico Superior en Transporte Marítimo y Pesca de Altura (RD 1691/2011, de 18 de noviembre) |
+| Seguridad, supervivencia y primeros auxilios en el mar | 0800. Control de las emergencias. 0802. Organización de la asistencia sanitaria a bordo. |
+| Química |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Laboratorio (RD 817/1993, de 28 de mayo) | Técnico en Operaciones de Laboratorio (RD 554/2012, de 23 de marzo) |
+| Operaciones básicas de laboratorio. | 1250. Muestreo y operaciones unitarias de laboratorio. 1252. Servicios auxiliares en el laboratorio. |
+| Ensayos físicos y fisicoquímicos. | 1256. Ensayos de materiales. 1251. Pruebas fisicoquímicas. |
+| Química y análisis químico. | 1255. Operaciones de análisis químico. 1249. Química aplicada. |
+| Pruebas microbiológicas. | 1254. Técnicas básicas de microbiología y bioquímica. |
+| Información y seguridad en el laboratorio. | 1253. Seguridad y organización en el laboratorio. |
+| Técnico en Operaciones de Fabricación de Productos Farmacéuticos (RD 816/1993, de 28 de mayo) | Técnico en Planta Química (RD 178/2008, de 8 de febrero) |
+| Química aplicada. | 0109. Parámetros químicos. |
+| Instrumentación y control de procesos químicos. | 0112. Control de procesos químicos industriales. |
+| Servicios auxiliares de proceso químico. | 0113. Operaciones de generación y transferencia de energía en proceso químico. 0114. Transporte de materiales en la industria química. 0115. Tratamiento de aguas. |
+| Técnico en Operaciones de Proceso de Pasta y Papel (RD 815/1993, de 28 de mayo) | Técnico en Planta Química (RD 178/2008, de 8 de febrero) |
+| Química aplicada. | 0109. Parámetros químicos. |
+| Instrumentación y control de procesos químicos. | 0112. Control de procesos químicos industriales. |
+| Servicios auxiliares de proceso químico. | 0113. Operaciones de generación y transferencia de energía en proceso químico. 0114. Transporte de materiales en la industria química. 0115. Tratamiento de aguas. |
+| Técnico en Operaciones de Proceso en Planta Química (RD 81471993 de 28 de mayo) | Técnico en Planta Química (RD 178/2008, de 8 de febrero) |
+| Química aplicada. | 0109. Parámetros químicos. |
+| Instrumentación y control de procesos químicos. | 0112. Control de procesos químicos industriales. |
+| Servicios auxiliares de proceso químico. | 0113. Operaciones de generación y transferencia de energía en proceso químico. 0114. Transporte de materiales en la industria química. 0115. Tratamiento de aguas. |
+| Operaciones de proceso en planta química. | 0110. Operaciones unitarias en planta química. 0111. Operaciones de reacción en planta química. 0114. Transporte de materiales en la industria química. |
+| GRADO SUPERIOR |
+| Técnico Superior en Análisis y control (RD 811/1993, de 28 de mayo) | Técnico Superior en Laboratorio de Análisis y de control de Calidad (RD 1395/2007, de 29 de octubre) |
+| Análisis químico e instrumental. | 0065. Muestreo y preparación de la muestra. 0066. Análisis Químicos. 0067. Análisis instrumental. |
+| Ensayos físicos. | 0068. Ensayos físicos. 0069. Ensayos fisicoquímicos. |
+| Análisis microbiológico. | 0070. Ensayos microbiológicos. |
+| Seguridad y ambiente químico en el laboratorio. Organización y gestión del laboratorio. | 0072. Calidad y seguridad en el laboratorio. |
+| Técnico Superior en Laboratorio de Diagnóstico Clínico (RD 539/1995, de 7 de abril) (Sanidad) | Técnico Superior en Laboratorio de Análisis y de control de Calidad (RD 1395/2007, de 29 de octubre) |
+| Fundamentos y técnicas de análisis microbiológico | 0070. Ensayos microbiológicos. |
+| Técnico Superior en Fabricación de Productos Farmacéuticos y Afines (RD 810/1993, de 28 de mayo) | Técnico Superior en Productos Farmacéuticos, Biotecnológicos y Afines (RD 832/2014, de 3 octubre) |
+| Control de calidad en la industria farmacéutica. | 1388. Control de calidad de productos farmacéuticos, biotecnológicos y afines. |
+| Áreas y servicios de planta farmacéutica. | 1392. Áreas y servicios auxiliares en la industria farmacéutica, biotecnológica y afines. |
+| Proceso farmacéutico. | 1389. Operaciones básicas en la industria farmacéutica, biotecnológica y afines. 1394. Técnicas de producción farmacéutica y afines. |
+| Organización y gestión en industrias de procesos. | 1387. Organización y gestión de la fabricación de productos farmacéuticos, biotecnológicos y afines. |
+| Seguridad y ambiente químico. | 1391. Seguridad en la industria farmacéutica, biotecnológica y afines. |
+| Técnico Superior en Industrias de Proceso Químico (RD 808/1993, de 28 de mayo) | Técnico Superior en Química Industrial (RD 175/2008, de 8 de febrero) |
+| Organización y gestión en industrias de procesos. Control de calidad en la industria química. | 0185. Organización y gestión en industrias químicas. |
+| Seguridad y ambiente químico. | 0194. Prevención de riesgos en industrias químicas. |
+| Fluidodinámica y termotecnia en industrias de procesos. Proceso químico. | 0186. Transporte de sólidos y fluidos. |
+| Fluidodinámica y termotecnia en Industrias de procesos. | 0187. Generación y recuperación de energía. |
+| Proceso químico. | 0188. Operaciones básicas en la industria química. 0189. Reactores químicos. 0190. Regulación y control de proceso químico. |
+| Técnico Superior en Industrias de Proceso de Pasta y Papel (RD 809/1993, de 28 de mayo) | Técnico Superior en Química Industrial (RD 175/2008, de 8 de febrero) |
+| Organización y gestión en industrias de procesos. Control de calidad en la industria papelera. | 0185. Organización y gestión en industrias químicas. |
+| Seguridad y ambiente químico. | 0194. Prevención de riesgos en industrias químicas. |
+| Proceso de pasta y papel. | 0186. Transporte de sólidos y fluidos |
+| Fluidodinámica y termotecnia en industrias de procesos. | 0187. Generación y recuperación de energía. |
+| Técnico Superior en Fabricación de Productos Farmacéuticos y Afines (RD 810/1993, de 28 de mayo) | Técnico Superior en Química Industrial (RD 175/2008, de 8 de febrero) |
+| Organización y gestión en industrias de procesos. Control de calidad en la industria farmacéutica. | 0185. Organización y gestión en industrias químicas. |
+| Seguridad y ambiente químico. | 0194. Prevención de riesgos en industrias químicas. |
+| GRADO MEDIO |
+| Técnico en Electromecánica de Vehículos (RD 1649/1994, de 22 de julio) (Mantenimiento de Vehículos Autopropulsados) | Técnico en Emergencias Sanitarias (RD 1397/2007 de 29 de Octubre) |
+| Ciclo completo. | 0052. Mantenimiento mecánico preventivo del vehículo. |
+| Técnico Superior en Automoción (RD 1648/1994, de 22 de julio) (Mantenimiento de Vehículos Autopropulsados) | Técnico en Emergencias Sanitarias (RD 1397/2007 de 29 de Octubre) |
+| Ciclo completo. | 0052. Mantenimiento mecánico preventivo del vehículo. |
+| Sanidad |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Farmacia (RD 547/1995, de 7 de abril) | Técnico en Farmacia y Parafarmacia (RD 1689/2007, de 14 de diciembre) |
+| Procedimientos administrativos y de control de existencias en establecimientos de farmacia. | 0100. Oficina de farmacia. |
+| Dispensación y venta de productos farmacéuticos y parafarmacéuticos. | 0101. Dispensación de productos farmacéuticos. 0102. Dispensación de productos parafarmacéuticos. |
+| Elaboración de preparados farmacéuticos y parafarmacéuticos en establecimientos de farmacia. | 0104. Formulación magistral. |
+| Realización de análisis clínicos elementales bajo la supervisión del facultativo. Promoción de la salud y apoyo psicológico a las personas. | 0105. Promoción de la salud. |
+| Técnico en Cuidados Auxiliares de Enfermería (RD 546/1995, 7 de abril) | Técnico en Farmacia y Parafarmacia (RD 1689/2007, de 14 de diciembre) |
+| Promoción de la salud y apoyo psicológico al paciente. | 0105. Promoción de la salud. |
+| Técnico en Laboratorio (RD 817/1993, de 28 de mayo) (Química) | Técnico en Farmacia y Parafarmacia (RD 1689/2007, de 14 de diciembre) |
+| Ciclo completo | 0103. Operaciones básicas de laboratorio. |
+| Técnico Superior en Laboratorio de Diagnóstico Clínico (RD 539/1995, de 7 de abril) | Técnico en Farmacia y Parafarmacia (RD 1689/2007, de 14 de diciembre) |
+| Recogida, preparación y conservación de muestras biológicas. Fundamentos y técnicas de análisis bioquímico. | 0103. Operaciones básicas de laboratorio. |
+| GRADO SUPERIOR |
+| Técnico Superior en Anatomía Patológica y Citología (RD 538/1995, de 7 de abril) | Técnico Superior en Anatomía Patológica y Citodiagnóstico (RD 767/2014, de 12 de septiembre) |
+| Proceso de tejidos y citopreparación. | 1368. Técnicas generales de laboratorio. 1380. Procesamiento citológico y tisular. |
+| Necropsias. | 1379. Necropsias. |
+| Citología ginecológica. | 1381. Citología ginecológica. |
+| Citología de secreciones y líquidos. Citología de muestras no ginecológicas obtenidas por punción. Fotografía macro y microscopía. | 1382. Citología general. |
+| Técnico Superior en Laboratorio de Diagnóstico Clínico (RD 539/1995, de 7 d abril) | Técnico Superior en Anatomía Patológica y Citodiagnóstico (RD 767/2014, de 12 de septiembre) |
+| Organización y gestión del área de trabajo asignada en la unidad/consulta de laboratorio de diagnóstico clínico. Recogida, preparación y conservación de muestras biológicas humanas. | 1367. Gestión de muestras biológicas. |
+| Técnico Superior en Audioprótesis (RD 62/2001, de 26 de enero) | Técnico Superior en Audiología Protésica (RD 1685/2007, de 1 de diciembre) |
+| Características anatomosensoriales auditivas. | 0199. Características anatomosensoriales auditivas. |
+| Electrónica aplicada a audioprótesis. | 0200. Tecnología electrónica en audioprótesis. |
+| Acústica. | 0201. Acústica y elementos de protección sonora. |
+| Elaboración y reparación de audioprótesis. | 0202. Elaboración de moldes y protectores auditivos. |
+| Elección y ajuste de prótesis auditivas. | 0203. Elección y adaptación de prótesis auditivas. |
+| Técnico Superior en Documentación Sanitaria (RD 543/1995, de 7 de abril) | Técnico Superior en Documentación y Administración Sanitaria (RD 768/2014, de 12 de septiembre) |
+| Definición y tratamiento de documentación clínica. Codificación de datos clínicos y no clínicos. | 1517. Extracción de diagnósticos y procedimientos. 1519. Sistemas de información y clasificación sanitarios. 1520. Codificación sanitaria. |
+| Organización de archivos clínicos. | 1518. Archivo y documentación sanitarios. |
+| Aplicaciones informáticas generales. Aplicación informática y operatoria de teclados. | 0649. Ofimática y proceso de la información. |
+| Validación y explotación de las bases de datos sanitarias. | 1522. Validación y explotación de datos. |
+| Técnico Superior en Administración y finanzas (RD 1659/1994 de 22 de julio) (Administración) | Técnico Superior en Documentación y Administración Sanitaria (RD 768/2014, de 12 de septiembre) |
+| Aplicaciones informáticas generales. Aplicación informática y operatoria de teclados | 0649. Ofimática y proceso de la información. |
+| Técnico Superior en Higiene Bucodental (RD 537/1995 de 7 de abril) | Técnico Superior en Higiene Bucodental (RD 769/2014, de 12 de septiembre) |
+| Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental. | 0730. Recepción y logística en la clínica dental. |
+| Exploración bucodental. | 0731. Estudio de la cavidad oral. 0732. Exploración de la cavidad oral. |
+| Prevención bucodental. | 0733. Intervención bucodental. 0736. Conservadora, periodoncia, cirugía e implantes. 0737. Prótesis y ortodoncia. |
+| Vigilancia epidemiológica bucodental. | 0734. Epidemiologia en salud oral. |
+| Educación sanitaria y promoción de la salud. | 0735. Educación para la salud oral. |
+| Técnico Superior en Dietética (RD 536/1995. de 7 de abril) | Técnico Superior en Higiene Bucodental (RD 769/2014, de 12 de septiembre) |
+| Educación sanitaria y promoción de la salud. | 0735. Educación para la salud oral. |
+| Técnico Superior en Salud Ambiental (RD 540/1995, de 7 de abril) | Técnico Superior en Higiene Bucodental (RD 769/2014, de 12 de septiembre) |
+| Educación sanitaria y promoción de la salud. | 0735. Educación para la salud oral. |
+| Técnico Superior en Imagen para el Diagnóstico (RD 545/1995, de 7 de abril) | Técnico Superior en Imagen para el Diagnóstico y Medicina Nuclear (RD 770/2014, de 12 de septiembre) |
+| Anatomía radiológica. | 1347. Anatomía por la imagen. |
+| Protección radiológica. | 1348. Protección radiológica. |
+| Fundamentos y técnicas de exploración en radiología convencional. | 1349. Técnicas de radiología simple. 1350. Técnicas de radiología especial. |
+| Fundamentos y técnicas de exploración radiológica mediante equipos de digitalización de imágenes. | 1351. Técnicas de tomografía computarizada y ecografía. 1352. Técnicas de imagen por resonancia magnética. |
+| Fundamentos y técnicas de exploración en medicina nuclear. | 1353. Técnicas de imagen en medicina nuclear. 1354. Técnicas de radiofarmacia. |
+| Técnico Superior en Radioterapia (RD 544/1995, de 7 de abril) | Técnico Superior en Imagen para el Diagnóstico y Medicina Nuclear (RD 770/2014, de 12 de septiembre) |
+| Protección radiológica. | 1348. Protección radiológica. |
+| Técnico Superior en Laboratorio de Diagnóstico Clínico (RD 539/1995, de 7 de abril) | Técnico Superior en Laboratorio Clínico y Biomédico (RD 771/2014, de 12 de septiembre) |
+| Organización y gestión del área de trabajo asignada en la unidad/consulta de laboratorio de diagnóstico clínico. Recogida, preparación y conservación de muestras biológicas humanas. | 1367. Gestión de muestras biológicas. |
+| Fundamentos y técnicas de análisis bioquímicos. | 1368. Técnicas generales de laboratorio. 1371. Análisis bioquímico. |
+| Fundamentos y técnicas de análisis microbiológicos. | 1373. Microbiología clínica. |
+| Fundamentos y técnicas de análisis hematológicos y citológicos. | 1374. Técnicas de análisis hematológico. |
+| Técnico Superior en Ortoprotésica (RD 542/1995, de 7 de abril) | Técnico Superior en Ortoprótesis y Productos de Apoyo (RD 905/2013, de 22 de noviembre) |
+| Fundamentos de tecnología industrial. | 0325. Tecnología industrial aplicada a la actividad ortoprotésica. |
+| Diseñar ortesis, prótesis, ortoprótesis y ayudas técnicas. | 0326. Diseño y moldeado anatómico. |
+| Definición de procesos y programación del trabajo. Elaborar productos ortoprotésicos a medida. Adaptación de productos ortoprotésicos y ayudas técnicas. | 0327. Adaptación de ortesis prefabricadas. 0328. Elaboración y adaptación de productos ortésicos a medida. 0329. Elaboración y adaptación de prótesis externas. 0330. Adaptación de productos de apoyo. |
+| Fisiopatología aplicada a la elaboración de ortoprótesis. | 0331. Biomecánica y patología aplicada. |
+| Técnico Superior en Prótesis Dentales (RD 541/1995, de 7 de abril) | Técnico Superior en Prótesis Dentales (RD1687/2011, de 18 de Noviembre) |
+| Organización, administración y gestión de una unidad/gabinete de prótesis dentales. | 0821. Laboratorio de prótesis dentales. 0863. Empresa e iniciativa emprendedora. |
+| Diseño de prótesis y aparatos de ortodoncia. | 0854. Diseño funcional de prótesis. |
+| Prótesis removible de resina. | 0855. Prótesis completas. 0858. Prótesis parciales removibles metálicas, de resina y mixtas. |
+| Prótesis parcial removible metálica. | 0858. Prótesis parciales removibles metálicas, de resina y mixtas. |
+| Prótesis fija. | 0857. Restauraciones y estructuras metálicas en prótesis fijas. 0859. Restauraciones y recubrimientos estéticos. |
+| Ortodoncia. | 0856. Aparatos de ortodoncia y férulas oclusales. |
+| Prótesis mixtas, quirúrgicas e implantosoportadas. | 0860. Prótesis sobre implantes. |
+| Técnico Superior en Radioterapia (RD 544/1995, de 7 de abril) | Técnico Superior en Radioterapia y Dosimetría (RD 772/2014 de 12 de Septiembre) |
+| Protección radiológica. | 1348. Protección radiológica. |
+| Atención técnico-sanitaria al paciente. | 1359. Simulación del tratamiento. |
+| Fundamentos y técnicas de tratamientos de teleterapia. | 1360. Dosimetría física y clínica. 1361. Tratamientos con teleterapia. |
+| Fundamentos y técnicas de tratamientos de braquiterapia. | 1360. Dosimetría física y clínica. 1362. Tratamientos con braquiterapia. |
+| Técnico Superior en Imagen para el Diagnóstico (RD 539/1995, de 7 de abril) | Técnico Superior en Radioterapia y Dosimetría (RD 772/2014 de 12 de Septiembre) |
+| Protección radiológica. | 1348. Protección radiológica. |
+| Servicios Socioculturales y a la Comunidad |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Atención Sociosanitaria (RD 496/2003, de 2 de mayo) | Técnico en Atención a Personas en Situación de Dependencia (RD 1593/2011, de 4 de noviembre) |
+| Planificación y control de las intervenciones. | 0210. Organización de la atención a personas en situación de dependencia. |
+| Atención sanitaria. | 0216. Atención sanitaria. |
+| Higiene. | 0217. Atención higiénica. |
+| Atención y apoyo psicosocial. | 0213. Atención y apoyo psicosocial. |
+| Apoyo domiciliario. | 0215. Apoyo domiciliario. |
+| Necesidades físicas y psicosociales de colectivos específicos. | 0212. Características y necesidades de las personas en situación de dependencia. |
+| Comunicación alternativa. | 0214. Apoyo a la comunicación. |
+| Técnico en Cuidados Auxiliares de Enfermería (RD 546/1995, 7 de abril) (Sanidad) | Técnico en Atención a personas en situación de Dependencia (RD 1593/2011, de 4 de noviembre) |
+| Ciclo completo | 0216. Atención sanitaria. 0217. Atención higiénica. |
+| Técnico Superior en Integración Social (RD 2061/1995, de 22 de diciembre) | Técnico en Atención a Personas en Situación de Dependencia (RD 1593/2011, de 4 de noviembre) |
+| Pautas básicas y sistemas alternativos de comunicación. | 0214. Apoyo a la comunicación. |
+| GRADO SUPERIOR |
+| Técnico Superior en Animación Sociocultural (RD 2058/1995, de 22 de diciembre) | Técnico Superior en Animación Sociocultural y Turística (RD 1684/2011, de 18 de noviembre) |
+| Animación de ocio y tiempo libre. | 1123. Actividades de ocio y tiempo libre. |
+| Animación y dinámica de grupos. | 1124. Dinamización grupal. |
+| Animación cultural. | 1125. Animación y gestión cultural. |
+| Metodología de la intervención social. | 0344. Metodología de la intervención social. |
+| Desarrollo comunitario. | 1128. Desarrollo comunitario. |
+| Técnico Superior en Animación Turística (RD 274/2000, de 25 de febrero) (Hostelería y Turismo) | Técnico Superior en Animación Sociocultural y Turística (RD 1684/2011, de 18 de noviembre) |
+| Técnicas de comunicación para animación. Animación en el ámbito turístico. | 1126. Animación turística. |
+| Actividades y recursos culturales. | 1125. Animación y gestión cultural. |
+| Técnico Superior en Integración Social (RD 2061/1995, de 22 de diciembre) | Técnico Superior en Animación Sociocultural y Turística (RD 1684/2011, de 18 de noviembre) |
+| Contexto y metodología de la intervención social. | 0344. Metodología de la intervención social. |
+| Técnico Superior en Animación de Actividades Físicas y Deportivas (RD 2048/1995, de 22 de diciembre) (Actividades Físicas y Deportivas) | Técnico Superior en Animación Sociocultural y Turística (RD 1684/2011, de 18 de noviembre) |
+| Animación y dinámica de grupos. | 1124. Dinamización grupal. |
+| Técnico Superior en Educación Infantil (RD 2059/1995, de 22 de diciembre) | Técnico Superior en Animación Sociocultural y Turística (RD 1684/2011, de 18 de noviembre) |
+| Animación y dinámica de grupos. | 1124. Dinamización grupal. |
+| Técnico Superior en Educación Infantil (RD 2059/1995, de 22 de diciembre) | Técnico Superior en Educación Infantil (RD 1394/2007, de 29 de octubre) |
+| Didáctica de la Educación Infantil. | 0011. Didáctica de la Educación Infantil. |
+| Autonomía personal y salud. | 0012. Autonomía personal y salud infantil. |
+| Metodología del juego. | 0013. El juego infantil y su metodología. |
+| Expresión y comunicación. | 0014. Expresión y comunicación. |
+| Desarrollo cognitivo y motor. | 0015. Desarrollo cognitivo y motor. |
+| Desarrollo socioafectivo e intervención con las familias. | 0016. Desarrollo socioafectivo. |
+| Animación y dinámica de grupos. | 0017. Habilidades sociales. |
+| Técnico Superior en Animación de Actividades Físicas y Deportivas (RD 2048/1995, de 22 de diciembre) (Actividades Físicas y Deportivas) | Técnico Superior en Educación Infantil (RD 1394/2007, de 29 de octubre) |
+| Animación y dinámica de grupos. | 0017. Habilidades sociales. |
+| Técnico Superior en Animación Sociocultural (RD 2058/1995, de 22 de diciembre) | Técnico Superior en Integración Social (RD 1074/2012, de 13 de julio) |
+| Metodología de la intervención Social. | 0344. Metodología de la intervención social. |
+| Animación y dinámica de grupos. | 0017. Habilidades sociales. |
+| Técnico Superior en Integración Social (RD 2061/1995, de 22 de diciembre) | Técnico Superior en Integración Social (RD 1074/2012, de 13 de julio) |
+| Contexto y Metodología de la intervención social. | 0337. Contexto de la intervención social. 0344. Metodología de la intervención social. |
+| Inserción ocupacional. | 0338. Inserción sociolaboral. |
+| Atención a unidades de convivencia. | 0339. Atención a unidades de convivencia. |
+| Habilidades de autonomía personal y social. | 0342. Promoción de la autonomía personal. |
+| Pautas básicas y sistemas alternativos de comunicación. | 0343. Sistemas aumentativos y alternativos de comunicación. |
+| Técnico Superior en Animación de Actividades Físicas y Deportivas (RD 2048/1995, de 22 de diciembre) (Actividades Físicas y Deportivas) | Técnico Superior en Integración Social (RD 1074/2012, de 13 de julio) |
+| Animación y dinámica de grupos. | 0017. Habilidades sociales. |
+| Técnico Superior en Interpretación de la Lengua de Signos. (RD 2060/ 1995, de 22 de diciembre) | Técnico Superior en Mediación Comunicativa (RD 831/2014, de 3 de octubre) |
+| Psicosociología de la población sorda y sordociega. Guía-interpretación de personas sordociegas. | 1113. Intervención socioeducativa con personas sordociegas. 1114. Contexto de la mediación comunicativa con personas sordociegas. |
+| Aplicación de las técnicas de interpretación a la Lengua de Signos Española (L.S.E). | 1118. Técnicas de intervención comunicativa. |
+| Lengua de signos española. Expresión corporal aplicada a la lengua de signos. | 1115. Lengua de signos. 1116. Ámbito de aplicación de la Lengua de Signos. |
+| Técnico Superior en Educación Infantil (RD 2059/1995, de 22 de diciembre) | Técnico Superior en Promoción e Igualdad de Género (RD 779/2013, de 11 de octubre) |
+| Animación y dinámica de grupos. | 0017. Habilidades sociales. |
+| Técnico Superior en Integración Social (RD 2061/1995, de 22 de diciembre) | Técnico Superior en Promoción e Igualdad de Género (RD 779/2013, de 11 de octubre) |
+| Contexto y Metodología de la intervención social. | 0344. Metodología de la intervención social. |
+| Técnico Superior en Animación Sociocultural (RD 2058/1995, de 22 de diciembre) | Técnico Superior en Promoción e Igualdad de Género. RD 779/2013, de 11 de octubre) |
+| Desarrollo comunitario. | 1128. Desarrollo comunitario. |
+| Animación y dinámica de grupos. | 0017. Habilidades sociales. |
+| Contexto y Metodología de la intervención social. | 0344. Metodología de la intervención social. |
+| Técnico Superior en Animación de Actividades Físicas y Deportivas (RD 2048/1995, de 22 de diciembre) (Actividades Físicas y Deportivas) | Técnico Superior en Promoción e Igualdad de Género (RD 779/2013, de 11 de octubre) |
+| Animación y dinámica de grupos. | 0017. Habilidades sociales. |
+| Textil, Confección y Piel |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Calzado y Marroquinería (RD 742/1994, de 22 de abril) | Técnico en Calzado y Complementos de Moda (RD 257/2011, de 28 de febrero) |
+| Técnicas de corte de tejidos y pieles. | 0267. Corte de materiales. |
+| Materias textiles. Piel y cuero. | 0275. Materias textiles y piel. |
+| Técnicas de ensamblaje. | 0269. Confección industrial. |
+| Técnicas de montado y acabado de calzado y marroquinería. | 0603. Montado y acabado de artículos de marroquinería. 0604. Montado y acabado de calzado. |
+| Técnico en Confección (RD 743/1994 de 22 de abril) | Técnico en Calzado y Complementos de Moda (RD 257/2011, de 28 de febrero) |
+| Técnicas de corte de tejidos y pieles. | 0267. Corte de materiales. |
+| Técnicas de ensamblaje. | 0269. Confección industrial. |
+| Materias textiles. Piel y cuero. | 0275. Materias textiles y piel. |
+| Técnico en Calzado y Marroquinería (RD 742/1994, de 22 de abril) | Técnico en Confección y Moda (RD 955/2008, de 6 de junio) |
+| Técnicas de corte de tejidos y pieles. | 0267. Corte de materiales. |
+| Materias textiles. Piel y cuero. | 0275. Materias textiles y piel. |
+| Técnicas de ensamblaje. | 0269. Confección industrial. |
+| Técnico en Confección (RD 743/1994 de 22 de abril) | Técnico en Confección y Moda (RD 955/2008, de 6 de junio) |
+| Técnicas de corte de tejidos y pieles. | 0267. Corte de materiales. |
+| Técnicas de ensamblaje. | 0269. Confección industrial. |
+| Materias textiles. Piel y cuero. | 0275. Materias textiles y piel. |
+| Acabados de confección. | 0270. Acabados en confección. |
+| Técnico en Calzado y Marroquinería (RD 742/1994 de 22 de abril) | Técnico en Fabricación y Ennoblecimiento de Productos Textiles (RD 1591/2011, de 4 de noviembre) |
+| Materias textiles. | 0275. Materias textiles y piel. |
+| Técnico en Confección (RD 743/1994 de 22 de abril) | Técnico en Fabricación y Ennoblecimiento de Productos Textiles (RD 1591/2011, de 4 de noviembre) |
+| Materias textiles. | 0275. Materias textiles y piel. |
+| Tratamientos previos al ennoblecimiento. | 1040. Aplicación de aprestos. |
+| Aprestos y acabados. | 1041. Acabados textiles. |
+| Tintura. | 1042. Preparación y tintura. |
+| Estampación. | 1043. Estampación. |
+| Técnico en Producción de Hilatura y Tejeduría de Calada (RD 739/1994, de 22 de abril) | Técnico en Fabricación y Ennoblecimiento de Productos Textiles (RD 1591/2011, de 4 de noviembre) |
+| Elementos, sistemas e instalaciones de máquinas textiles. | 0116. Principios de mantenimiento electromecánico. |
+| Producción de hilaturas y telas no tejidas. | 1044. Fabricación de hilatura y telas no tejidas. |
+| Producción de tejeduría de calada. | 1045. Técnicas de tejeduría de calada. |
+| Materias textiles | 0275. Materias textiles y piel. |
+| Técnico en Producción de Tejidos de Punto (RD 740/1994, de 22 de abril) | Técnico en Fabricación y Ennoblecimiento de Productos Textiles (RD 1591/2011, de 4 de noviembre) |
+| Elementos, sistemas e instalaciones de máquinas textiles. | 0116. Principios de mantenimiento electromecánico. |
+| Producción de tejidos de punto por recogida. | 1046. Técnicas de tejeduría de punto por recogida. |
+| Producción de tejidos de punto por urdimbre. | 1047. Técnicas de tejeduría de punto por urdimbre. |
+| Materias textiles | 0275 Materias textiles y piel |
+| GRADO SUPERIOR |
+| Técnico Superior en Procesos Textiles de Hilatura y Tejeduría de Calada (RD 733/1994, de 22 de abril) | Técnico Superior en Diseño Técnico en Textil y Piel. (RD 1580/2011, de 4 de noviembre) |
+| Procesos de tejeduría de calada. | 0282. Procesos y análisis de tejidos y no tejidos. |
+| Procesos de hilatura y telas no tejidas. | 0281. Procesos y análisis de hilatura. |
+| Procesos de tejeduría de punto por urdimbre. | 0282. Procesos y análisis de tejidos y no tejidos. |
+| Procesos de tejeduría de punto por recogida. | 0282. Procesos y análisis de tejidos y no tejidos. |
+| Técnico Superior en Procesos de Ennoblecimiento Textil (RD 735/1994, de 22 de abril) | Técnico Superior en Diseño Técnico en Textil y Piel (RD 1580/2011, de 4 de noviembre) |
+| Procesos de tratamiento de ennoblecimiento textil. | 0444. Procesos de ennoblecimiento y estampación. |
+| Técnico Superior en Patronaje (RD 738/1994 de 22 de abril) | Técnico Superior en Diseño Técnico en Textil y Piel (RD 1580/2011, de 4 de noviembre) |
+| Análisis de diseños y modelos de artículos. | 0283. Análisis de diseños en textil y piel. |
+| Técnico Superior en Patronaje (RD 738/1994 de 22 de abril) | Técnico Superior en Diseño y Producción de Calzado y Complementos (RD 689/2010, de 20 de mayo) |
+| Organización de la producción en la industria de confección. | 0280. Organización de la producción en confección industrial. |
+| Análisis de diseños y modelos de artículos. | 0283. Análisis de diseños en textil y piel. |
+| Industrialización de patrones. | 0595. Industrialización de patrones de calzado. |
+| Procesos y técnicas de patronaje. | 0284. Elaboración de prototipos. 0594. Ajuste y patronaje de calzado y complementos. |
+| Materias, productos y ensayos de calidad textil. Estudio y calidad de las pieles. | 0276. Materiales en textil, confección y piel. 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. |
+| Técnico Superior en Procesos de Confección Industrial (RD 737/1994 de 22 de abril) | Técnico Superior en Diseño y Producción de Calzado y Complementos (RD 689/2010, de 20 de mayo) |
+| Organización de la producción en la industria de confección. | 0280. Organización de la producción en confección industrial. |
+| Procesos de confección. | 0596. Procesos de producción de calzado. |
+| Materias, productos y ensayos de calidad textil. Estudio y calidad de las pieles. | 0276. Materiales en textil, confección y piel. 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. |
+| Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos (RD 2038/1995 de 22 de diciembre) (Vidrio y Cerámica) | Técnico Superior en Diseño y Producción de Calzado y Complementos (RD 689/2010, de 20 de mayo) |
+| Gestión de calidad en industrias cerámicas. | 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. |
+| Técnico Superior en Patronaje (RD 738/1994 de 22 de abril) | Técnico Superior en Patronaje y Moda (RD 954/2008, de 6 de junio) |
+| Organización de la producción en la industria de confección. | 0280. Organización de la producción en confección industrial. |
+| Análisis de diseños y modelos de artículos. | 0283. Análisis de diseños en textil y piel. |
+| Procesos y técnicas de patronaje. | 0284. Elaboración de prototipos. 0285. Patronaje industrial en textil y piel. |
+| Industrialización de patrones. | 0286. Industrialización y escalado de patrones. |
+| Materias, productos y ensayos de calidad textil. Estudio y calidad de las pieles. | 0276. Materiales en textil, confección y piel. 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. |
+| Técnico Superior en Procesos de Confección Industrial (RD 737/1994 de 22 de abril) | Técnico Superior en Patronaje y Moda (RD 954/2008, de 6 de junio) |
+| Organización de la producción en la industria de la confección. | 0280. Organización de la producción en confección industrial. |
+| Procesos de confección. | 0278. Procesos en confección industrial. |
+| Materias, productos y ensayos de calidad textil. Estudio y calidad de las pieles. | 0276. Materiales en textil, confección y piel. 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. |
+| Productos de confección. | 0283. Análisis de diseños en textil y piel. |
+| Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos (RD 2038/1995 de 22 de diciembre) (Vidrio y Cerámica) | Técnico Superior en Patronaje y Moda (RD 954/2008, de 6 de junio) |
+| Gestión de calidad en industrias cerámicas. | 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. |
+| Técnico Superior en Patronaje (RD 738/1994 de 22 de abril) | Técnico Superior en Vestuario a Medida y de Espectáculos (RD 1679/2011, de 18 de noviembre) |
+| Materias, productos y ensayos de calidad textil. Estudio y calidad de las pieles. | 0276. Materiales en textil, confección y piel. |
+| Técnico Superior en Procesos de Confección Industrial (RD 737/1994 de 22 de abril) | Técnico Superior en Vestuario a Medida y de Espectáculos (RD 1679/2011, de 18 de noviembre) |
+| Materias, productos y ensayos de calidad textil. Estudio y calidad de las pieles. | 0276. Materiales en textil, confección y piel. |
+| Transporte y Mantenimiento de Vehículos |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Carrocería (RD 1650/1994, de 22 de julio) | Técnico en Carrocería (RD 176/2008, de 8 de febrero) |
+| Elementos amovibles. | 0254. Elementos amovibles |
+| Elementos metálicos y sintéticos. | 0255. Elementos metálicos y sintéticos. |
+| Elementos fijos. | 0256. Elementos fijos. |
+| Preparación de superficies. | 0257. Preparación de superficies. |
+| Elementos estructurales del vehículo. | 0258. Elementos estructurales del vehículo. |
+| Embellecimiento de superficies. | 0259. Embellecimiento de superficies. |
+| Técnico en Electromecánica de Vehículos (RD 1649/1994, de 22 de julio) | Técnico en Carrocería (RD 176/2008, de 8 de febrero) |
+| Técnicas de mecanizado para el mantenimiento de vehículos. | 0260. Mecanizado básico. |
+| Técnico en Mantenimiento Ferroviario (RD 2047/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción) | Técnico en Carrocería (RD 176/2008, de 8 de febrero) |
+| Técnicas de mecanizado para el mantenimiento y montaje. | 0260. Mecanizado básico. |
+| Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor (RD 2046/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción) | Técnico en Carrocería (RD 176/2008, de 8 de febrero) |
+| Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones. | 0260. Mecanizado básico |
+| Técnico en Electromecánica de Vehículos (RD 1649/1994, de 22 de julio) | Técnico en Electromecánica de Maquinaria (RD 255/2011, de 28 de febrero) |
+| Motores. | 0452. Motores. |
+| Sistemas auxiliares del motor. | 0742. Sistemas auxiliares del motor Diesel. |
+| Circuitos electrotécnicos básicos Sistemas de carga y arranque del vehículo. | 0456. Sistemas de carga y arranque. |
+| Técnicas de mecanizado para el mantenimiento de vehículos. | 0260. Mecanizado básico. |
+| Técnico en Mantenimiento Ferroviario (RD 2047/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción) | Técnico en Electromecánica de Maquinaria. (RD 255/2011, de 28 de febrero) |
+| Técnicas de mecanizado para el mantenimiento y montaje. | 0260. Mecanizado básico. |
+| Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor (RD 2046/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción) | Técnico en Electromecánica de Maquinaria (RD 255/2011, de 28 de febrero) |
+| Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones. | 0260. Mecanizado básico. |
+| Técnico en Electromecánica de Vehículos (RD 1649/1994, de 22 de julio) | Técnico en Electromecánica de Vehículos Automóviles (RD 453/2010, de 16 abril) |
+| Motores. | 0452. Motores. |
+| Sistemas auxiliares del motor. | 0453. Sistemas auxiliares del motor. |
+| Circuitos de fluidos. Suspensión y dirección. | 0454. Circuitos de fluidos. Suspensión y dirección. |
+| Sistemas de transmisión y frenado. | 0455. Sistemas de transmisión y frenado. |
+| Circuitos electrotécnicos básicos. Sistemas de carga y arranque del vehículo. | 0456. Sistemas de carga y arranque. |
+| Circuitos eléctricos auxiliares del vehículo. | 0457. Circuitos eléctricos auxiliares del vehículo. |
+| Sistemas de seguridad y confortabilidad. | 0458. Sistemas de seguridad y confortabilidad. |
+| Técnicas de mecanizado para el mantenimiento de vehículos. | 0260. Mecanizado básico. |
+| Técnico en Mantenimiento Ferroviario (RD 2047/1995, de 22 de diciembre (Mantenimiento y Servicios a la Producción) | Técnico en Electromecánica de Vehículos Automóviles (RD 453/2010, de 16 abril) |
+| Técnicas de mecanizado para el mantenimiento y montaje. | 0260. Mecanizado básico. |
+| Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor (RD 2046/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción) | Técnico en Electromecánica de Vehículos Automóviles (RD 453/2010, de 16 abril) |
+| Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones. | 0260. Mecanizado básico. |
+| Técnico en Electromecánica de Vehículos (RD 1649/1994. de 22 de julio) | Técnico en Mantenimiento de Material Rodante Ferroviario (RD 1145/2012, de 27 de julio) |
+| Motores. | 0452. Motores. |
+| Sistemas auxiliares del motor. | 0742. Sistemas auxiliares del motor Diésel. |
+| Técnicas de mecanizado para el mantenimiento de vehículos. | 0260. Mecanizado básico. |
+| Técnico en Instalación y Mantenimiento Electromecánico de Maquinaria y Conducción de Líneas (RD 2045/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción) | Técnico en Mantenimiento de Material Rodante Ferroviario (RD 1145/2012, de 27 de julio) |
+| Técnicas de mecanizado para el mantenimiento y montaje. | 0260. Mecanizado básico. |
+| Técnico en Mantenimiento Ferroviario (RD 2047/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción). | Técnico en Mantenimiento de Material Rodante Ferroviario (RD 1145/2012, de 27 de julio) |
+| Motor Diésel. | 0742. Sistemas auxiliares del motor Diesel. 0452. Motores. |
+| Técnicas de mecanizado para el mantenimiento y montaje. | 0260. Mecanizado básico. |
+| Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor (RD 2046/1995, de 22 de diciembre) (Mantenimiento y Servicios a la Producción) | Técnico en Mantenimiento de Material Rodante Ferroviario (RD 1145/2012, de 27 de julio) |
+| Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones. | 0260. Mecanizado básico. |
+| Técnico en Electromecánica de Vehículos (RD 1649/1994. de 22 de julio) | Técnico en Conducción de Vehículos de Transporte por Carretera (RD 555/2012, de 23 de marzo) |
+| Sistemas auxiliares del motor. Circuitos de fluidos. Suspensión y dirección. Sistemas de transmisión y frenado. Circuitos eléctricos auxiliares del vehículo. | 1210. Mantenimiento básico de vehículos. |
+| GRADO SUPERIOR |
+| Técnico Superior en Automoción (RD 1648/1994, de 22 de julio) | Técnico Superior en Automoción (RD 1796/2008, de 3 de noviembre) |
+| Sistemas eléctricos, de seguridad y de confortabilidad. | 0291. Sistemas eléctricos y de seguridad y confortabilidad. |
+| Sistemas de transmisión de fuerzas y trenes de rodaje. | 0292. Sistemas de transmisión de fuerzas y trenes de rodaje. |
+| Motores térmicos y sus sistemas auxiliares. | 0293. Motores térmicos y sus sistemas auxiliares. |
+| Elementos amovibles y fijos no estructurales. | 0294. Elementos amovibles y fijos no estructurales. |
+| Preparación y embellecimiento de superficies. | 0295. Tratamiento y recubrimiento de superficies. |
+| Estructuras del vehículo. | 0296. Estructuras del vehículo. |
+| Gestión y logística del mantenimiento en automoción. | 0297. Gestión y logística del mantenimiento de vehículos. |
+| Vidrio y Cerámica |
+| --- |
+| Formación aportada | Formación a convalidar |
+| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| GRADO MEDIO |
+| Técnico en Operaciones de Fabricación de Productos Cerámicos (RD 2040/1995, de 22 de diciembre) | Técnico en Fabricación de Productos Cerámicos (RD 454/2010, de 16 de abril) |
+| Pastas cerámicas. | 0417. Procesos de fabricación de pastas cerámicas. |
+| Fritas, pigmentos y esmaltes. | 0418. Procesos de fabricación de fritas y pigmentos cerámicos. 0419. Procesos de preparación de esmaltes cerámicos. |
+| Procesos de fabricación de productos cerámicos. | 0420. Procesos de fabricación de productos cerámicos. |
+| Control de materiales y productos cerámicos. | 0422. Control de materiales y procesos cerámicos. |
+| GRADO SUPERIOR |
+| Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos (RD 2038/1995, de 22 de diciembre) | Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos (RD 1797/2008, de 3 de noviembre) |
+| Desarrollo de composiciones. | 0303. Desarrollo de pastas cerámicas. 0304. Desarrollo de fritas, pigmentos y esmaltes cerámicos. |
+| Desarrollo de proyectos de fabricación de productos cerámicos. | 0305. Desarrollo de productos cerámicos. 0312. Proyecto de fabricación de productos cerámicos. |
+| Fabricación de productos cerámicos conformados | 0306. Fabricación de pastas cerámicas y de productos cerámicos conformados. |
+| Fabricación de fritas, pigmentos y esmaltes. | 0307. Fabricación de fritas, pigmentos y esmaltes cerámicos. |
+| Gestión de calidad en industrias cerámicas. | 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. 0308. Control de procesos de fabricación de productos cerámicos. |
+| Organización de la producción en industrias cerámicas. | 0163. Programación de la producción. |
+| Cerámicas avanzadas. | 0311. Cerámicas avanzadas. |

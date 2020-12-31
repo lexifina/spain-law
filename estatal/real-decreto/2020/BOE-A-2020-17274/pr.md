@@ -1,0 +1,25 @@
+Una de las intenciones perseguidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, es mejorar la flexibilidad entre las enseñanzas y facilitar los mecanismos de convalidaciones y equivalencias. En este sentido, el artículo 44.6 dispone que el Gobierno regulará el régimen de convalidaciones y equivalencias entre los ciclos formativos de grado medio y superior de la Formación Profesional y el resto de enseñanzas y estudios oficiales, oídos los correspondientes órganos colegiados.
+
+Para ello, primero el Real Decreto 1538/2006, de 15 de diciembre, por el que se establece la ordenación general de la formación profesional del sistema educativo y, tras su derogación, el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo, en su Título III, han determinado el régimen de convalidaciones de los módulos profesionales, y los aspectos procedimentales asociados a las convalidaciones y las exenciones.
+
+El sistema de convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo está actualmente regulado por una serie de Órdenes Ministeriales:
+
+1.º Orden de 20 de diciembre de 2001, por la que se determinan convalidaciones de estudios de formación profesional específica derivada de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+
+2.º Orden ECD/2159/2014, de 7 de noviembre, por la que se establecen convalidaciones entre módulos profesionales de formación profesional del Sistema Educativo Español y medidas para su aplicación.
+
+3.º Orden ECD/1055/2017, de 26 de octubre, por la que se modifica la Orden ECD/2159/2014, de 7 de noviembre, por la que se establecen convalidaciones entre módulos profesionales de formación profesional del Sistema Educativo Español y medidas para su aplicación y se modifica la Orden de 20 de diciembre de 2001, por la que se determinan convalidaciones de estudios de formación profesional específica derivada de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+
+Esta dispersión normativa dificulta la aplicación de criterios homogéneos en los procedimientos de convalidación, lo que hace necesario la aprobación del presente real decreto.
+
+Asimismo, cabe mencionar que este real decreto se adecúa a los principios de buena regulación contenidos en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que la complejidad provocada por la coexistencia de varias normas reguladoras, así como de títulos de Formación Profesional definidos tanto en el ámbito de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, como en el ámbito de la Ley Orgánica 2/2006, de 3 de mayo, aconseja dictar una nueva disposición, relativa a la convalidación de estudios de Formación Profesional, y por lo tanto derogar las anteriores, que permita reforzar la cooperación entre las Administraciones educativas, no existiendo ninguna alternativa regulatoria menos restrictiva de derechos. Además, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos; de manera que las administraciones educativas y los centros de enseñanza de Formación Profesional puedan agilizar, en el ejercicio de sus competencias, las convalidaciones existentes entre módulos profesionales de estas enseñanzas que deben ser resueltas en sus ámbitos respectivos.
+
+Por otro lado, en el caso de las convalidaciones cuya resolución es competencia del Ministerio de Educación y Formación Profesional, de conformidad con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y teniendo presente el objetivo de mejorar los procedimientos administrativos asociados a las convalidaciones de Formación Profesional, se mantiene un procedimiento que ha impulsado la administración electrónica, reduciendo las cargas administrativas y agilizando la tramitación y resolución de convalidaciones.
+
+En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas, en el seno de la Conferencia Sectorial de Educación, y ha emitido informe el Consejo Escolar del Estado, el Consejo General de la Formación Profesional, la Comisión de Formación Profesional de la Conferencia de Educación y el Ministerio de Política Territorial y Función Pública.
+
+Este real decreto se dicta al amparo del artículo 149.1.30.ª de la Constitución, que atribuye al Estado la competencia exclusiva para la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.
+
+En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, con la aprobación previa de la Ministra de Política Territorial y Función Pública, oído el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 9 de diciembre de 2020,
+
+DISPONGO:

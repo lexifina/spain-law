@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Convalidación del módulo profesional de Formación y orientación laboral aportando el título de Técnico Superior en Prevención de Riesgos Profesionales, derivado de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+
+Aquellas personas en posesión del título de Técnico Superior en Prevención de Riesgos Profesionales derivado de la Ley Orgánica 1/1990, de 3 de octubre, obtendrán la convalidación del módulo profesional de Formación y Orientación Laboral de cualquier título de Formación Profesional aprobados conforme a la regulación de la Ley Orgánica 2/2006, de 3 de mayo.
