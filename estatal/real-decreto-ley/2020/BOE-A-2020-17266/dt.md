@@ -1,0 +1,3 @@
+## Disposición transitoria única. Beneficiarios de prestaciones por desempleo.
+
+Los beneficiarios de prestaciones por desempleo en España que tuviesen autorizada la exportación de su derecho antes del 1 de enero de 2021 para realizar acciones de perfeccionamiento profesional o de búsqueda de empleo en el Reino Unido o en Gibraltar, podrán continuar percibiéndolas hasta la finalización del periodo inicial de tres meses por el que se les hubiese autorizado la exportación, no contemplando en estos casos la prórroga del mismo, siempre que los Servicios de Empleo británicos garanticen el mantenimiento de la inscripción de éstos hasta el final del derecho inicialmente concedido.

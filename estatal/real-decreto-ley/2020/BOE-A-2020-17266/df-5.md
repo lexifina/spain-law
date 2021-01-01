@@ -1,0 +1,5 @@
+## Disposición final quinta. Desarrollo reglamentario.
+
+1. Se autoriza al Gobierno y a las personas titulares de los departamentos ministeriales, en el ámbito de sus competencias, a dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de lo dispuesto en este real decreto-ley.
+
+2. A los efectos del artículo 27 de la Ley 50/1997, de 27 de noviembre, del Gobierno, la tramitación de los proyectos de disposiciones generales que tengan por objeto el desarrollo de este real decreto-ley tendrá carácter urgente en todo caso sin necesidad de que la urgencia se declare por Acuerdo del Consejo de Ministros, si bien se dará cuenta por parte del departamento ministerial proponente del inicio de la tramitación en el Consejo de Ministros inmediatamente posterior. En ese acuerdo de toma de conocimiento, el Consejo de Ministros establecerá, en su caso, el plazo en que habrá de evacuarse el dictamen del Consejo de Estado, cuando resulte preceptivo. Los restantes dictámenes preceptivos habrán de evacuarse por los órganos consultivos correspondientes por el procedimiento de urgencia regulado para cada uno de ellos.

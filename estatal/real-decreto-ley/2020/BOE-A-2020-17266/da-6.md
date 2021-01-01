@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Prórroga de la vigencia del Real Decreto 231/2020, de 4 de febrero, por el que se fija el salario mínimo interprofesional para 2020.
+
+Hasta tanto se apruebe el real decreto por el que se fija el salario mínimo interprofesional para el año 2021 en el marco del diálogo social, en los términos establecidos en aquel, y de acuerdo con lo previsto en el artículo 27 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, se prorroga la vigencia del Real Decreto 231/2020, de 4 de febrero, por el que se fija el salario mínimo interprofesional para 2020.
