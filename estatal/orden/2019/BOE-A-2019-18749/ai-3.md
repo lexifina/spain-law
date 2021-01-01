@@ -2,26 +2,26 @@
 
 ## Motores marinos
 
-Valoración base del motor marino con su posible transmisión (fuera borda, intra borda, fuera-intra borda).
+Valoración base del motor marino con su posible transmisión (fuera borda, intra borda, fuera-intra borda)
 
 Por unidad de potencia mecánica real (kW o cv ), según combustible:
 
-|  | Gasolina (euros/ kW real) | Diesel (euros/kW real) |
+|  | Gasolina — Euros/kW real | Diesel — Euros/kW real |
 | --- | --- | --- |
 | Hasta 37 kW. | 56,86 | 97,46 |
 | Por cada kW más. | 36,80 | 57,24 |
-|  | Gasolina (euros/cv. real) | Diesel (euros/cv. real) |
+|  | Gasolina — Euros/cv. real | Diesel — Euros/cv. real |
 | --- | --- | --- |
 | Hasta 50 cv. | 42,07 | 72,12 |
 | Por cada cv más. | 27,05 | 42,07 |
 
 En las embarcaciones se procederá a valorar por separado el buque sin motor y la motorización.
 
-El valor consignado en la relación es el correspondiente al del barco sin motorización y servirá de base para la actualización según los porcentajes de valoración en función de la antigüedad en cada caso, según sean embarcaciones a vela o a motor.
+El valor actualizado total se obtiene por la suma de los valores actualizados de embarcaciones sin motor y motores marinos obtenidos anteriormente.
 
 El valor base de la motorización, complementaria en el caso de embarcaciones a vela y fundamental en las embarcaciones a motor, se obtendrá, según la valoración base del motor marino, actualizándolo según los porcentajes de valoración en función de la antigüedad del equipo propulsor en cada caso.
 
-El valor actualizado total se obtiene por la suma de los valores actualizados de embarcaciones sin motor y motores marinos obtenidos anteriormente.
+El valor consignado en la relación es el correspondiente al del barco sin motorización y servirá de base para la actualización según los porcentajes de valoración en función de la antigüedad en cada caso, según sean embarcaciones a vela o motor.
 
 Porcentajes de valoración determinados en función de los años de utilización a aplicar a los precios medios fijados por el Ministerio de Hacienda y Función Pública para embarcaciones y motores marinos:
 
@@ -43,3 +43,5 @@ Porcentajes de valoración determinados en función de los años de utilización
 | Más de 12 años, hasta 13. | 20 | 14 | 14 |
 | Más de 13 años, hasta 14. | 15 | 12 | 12 |
 | Más de 14 años. | 10 | 10 | 10 |
+
+> Se sustituye por el art. 1 y Anexo III de la Orden HAC/1275/2020, de 28 de diciembre. Ref. BOE-A-2020-17270

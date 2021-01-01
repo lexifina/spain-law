@@ -19,3 +19,5 @@
 | Más de 12 años. | 10 |
 
 El importe que resulte de la aplicación de los porcentajes anteriores, se reducirá al 70 por 100 cuando el vehículo transmitido hubiese estado dedicado exclusivamente durante más de seis meses desde la primera matriculación definitiva, a las actividades de enseñanza de conductores mediante contraprestación o de alquiler de vehículos, sin conductor, o bien tuviera la condición, según la legislación vigente, de taxi, autotaxi o autoturismo.
+
+> Se sustituye por el art. 1 y Anexo IV de la Orden HAC/1275/2020, de 28 de diciembre. Ref. BOE-A-2020-17270
