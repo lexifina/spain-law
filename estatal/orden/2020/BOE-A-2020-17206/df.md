@@ -1,0 +1,5 @@
+## Disposición final primera. Acreditación documental de costes del Operador del Mercado Ibérico de Energía, Polo Español para 2019.
+
+Se añade un párrafo cuarto al apartado 1 de la disposición transitoria primera de la Orden TEC/1366/2018, de 20 de diciembre, por la que se establecen los peajes de acceso de energía eléctrica para 2019, con el siguiente contenido:
+
+> «De la cantidad total recogida en el párrafo primero, la cuantía de 2.744 miles de euros estará supeditada a la acreditación documental de los costes en los que incurra el operador del mercado que se deriven del proyecto de desarrollo, puesta en marcha, operación y gestión de una plataforma conjunta de negociación para un mercado intradiario de ámbito europeo, y de la creación y operación de la unidad de seguimiento y monitorización del mercado. A estos efectos, el operador del Mercado enviará a la Comisión Nacional de los Mercados y la Competencia, con copia al Ministerio para la Transición Ecológica y el Reto Demográfico la información de los costes incurridos en el ejercicio 2019, con el desglose y formato que se determine, para su validación».
