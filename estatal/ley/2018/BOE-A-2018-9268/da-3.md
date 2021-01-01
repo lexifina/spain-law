@@ -2,7 +2,7 @@
 
 Con la finalidad de atender al cumplimiento de los objetivos de estabilidad presupuestaria y sostenibilidad financiera, la concesión de préstamos y anticipos financiados directa o indirectamente con cargo al Capítulo 8 de los Presupuestos Generales del Estado se ajustará, a las siguientes normas:
 
-a) Salvo autorización expresa del Ministro de Hacienda y Función Pública no podrán concederse préstamos y anticipos al tipo de interés inferior al de la Deuda emitida por el Estado en instrumentos con vencimiento similar.
+a) Salvo autorización expresa de la Ministra de Hacienda no podrán concederse préstamos y anticipos al tipo de interés inferior al de la Deuda emitida por el Estado en instrumentos con vencimiento similar.
 
 En el supuesto de préstamos y anticipos a conceder a través de procedimientos de concurrencia competitiva, el citado requisito deberá cumplirse en el momento anterior a la aprobación de la convocatoria.
 
@@ -16,4 +16,8 @@ Esta norma no será de aplicación a los siguientes casos:
 
 – Préstamos o anticipos cuyo tipo de interés se regule en normas de rango legal.
 
+– Subvenciones financiadas o reembolsables con fondos europeos.
+
 b) Los beneficiarios de los préstamos o anticipos deberán acreditar que se encuentran al corriente del pago de las obligaciones de reembolso de cualesquiera otros préstamos o anticipos concedidos anteriormente con cargo a los Presupuestos Generales del Estado. Corresponde al centro gestor del gasto comprobar el cumplimiento de tales condiciones con anterioridad al pago, exigiendo, cuando no pueda acreditarse de otro modo, una declaración responsable del beneficiario o certificación del órgano competente si éste fuere una administración pública.
+
+> Se modifica por la disposición final 4 del Real Decreto-ley 36/2020, de 30 de diciembre. Ref. BOE-A-2020-17340#df-4
