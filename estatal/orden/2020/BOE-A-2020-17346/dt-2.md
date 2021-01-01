@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Reubicación de los consumidores acogidos a la tarifa de último recurso.
+
+En el año 2021, la reubicación automática de los consumidores acogidos a la tarifa de último recurso a realizar anualmente conforme lo dispuesto en el artículo 4.3 de la Orden ITC/2857/2008, de 10 de octubre, por la que se establece la tarifa del suministro de último recurso de gas natural, se llevará a cabo únicamente el 1 de octubre de 2021, empleándose para ello el consumo durante el periodo comprendido entre el 1 de julio de 2020 y el 30 de junio de 2021. En el caso de aquellos puntos de suministro que hubieran sido dados de alta en fecha posterior al 1 de julio de 2020 se aplicarán previsiones razonables de consumo.

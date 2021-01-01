@@ -1,0 +1,13 @@
+## Disposición transitoria cuarta. Procedimiento de liquidación para el período comprendido entre el 1 de enero al 30 de septiembre de 2021.
+
+1. La entidad responsable de las liquidaciones económicas del sector gasista procederá a liquidar como un ejercicio independiente los ingresos y retribuciones reguladas del periodo comprendido entre el 1 de enero al 30 de septiembre de 2021 aplicando para ello el procedimiento establecido en la Orden ECO/2692/2002, de 28 de octubre, por la que se regulan los procedimientos de liquidación de la retribución de las actividades reguladas del sector gas natural y de las cuotas con destinos específicos y se establece el sistema de información que deben presentar las empresas, con las siguientes especificidades en consideración a la duración singular del periodo:
+
+a) La liquidación del periodo se realizará mediante 11 resoluciones provisionales y una definitiva en la que se establecerá el déficit o superávit del ejercicio.
+
+b) Todas las referencias al año de liquidación incluidas en la Orden ECO/2692/2002, de 28 de octubre, por la que se regulan los procedimientos de liquidación de la retribución de las actividades reguladas del sector gas natural y de las cuotas con destinos específicos y se establece el sistema de información que deben presentar las empresas, deberán entenderse referidas al periodo comprendido entre el 1 de enero y el 30 de septiembre de 2021.
+
+c) A los efectos de la aplicación del artículo 6 «Cierre de las liquidaciones anuales», los ingresos liquidables a computar en la liquidación serán los correspondientes a los suministros y accesos del periodo comprendido desde el 1 de enero al 30 de septiembre de 2021 que hayan sido facturados hasta el último día del mes de noviembre. Los suministros y accesos de terceros al sistema gasista facturados con posterioridad al mes de noviembre se incluirán en la liquidación del año de gas en que se facturen.
+
+d) A los efectos del cálculo de la fórmula de la retribución fija acreditada para el transportista o distribuidor «i» en el período de liquidación «t», RFit, que se incluye en el anexo II de la Orden ECO/2692/2002, de 28 de octubre, el parámetro «M» tomará el valor del número de días comprendidos entre el 1 de enero y el 30 de septiembre de 2021, ambos incluidos.
+
+2. Los nueve primeros pagos de la anualidad del déficit acumulado a 31 de diciembre de 2014 se abonarán con cargo a la liquidación del periodo del 1 de enero al 31 de septiembre de 2021, mientras que los tres pagos restantes se realizarán con cargo a las tres primeras liquidaciones del año de gas 2021-2022.
