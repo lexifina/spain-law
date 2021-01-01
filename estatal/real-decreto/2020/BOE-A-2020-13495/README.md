@@ -67,6 +67,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria tercera](dt-3.md)
 - [Disposición transitoria cuarta](dt-4.md)
 - [Disposición derogatoria única](dd.md)
+- [Disposición final primera](df.md)
 - [Disposición final segunda](df-2.md)
 - [Disposición final tercera](df-3.md)
 - [(firma)](fi.md)
