@@ -37,6 +37,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 23](a2-2.md)
 - [Disposición adicional única](daunica.md)
 - [Disposición adicional primera](da.md)
+- [Disposición adicional segunda](da-2.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)

@@ -1,4 +1,4 @@
-## Disposición adicional única. Pagos en condiciones de comercio electrónico seguro en la sede electrónica de la Agencia Estatal de Administración Tributaria.
+## Disposición adicional primera. Pagos en condiciones de comercio electrónico seguro en la sede electrónica de la Agencia Estatal de Administración Tributaria.
 
 El pago de aquellas deudas que conforme a la normativa vigente puedan ser pagadas a través de la sede electrónica de la Agencia Estatal de Administración Tributaria podrá ser efectuado mediante tarjetas de crédito o débito y en condiciones de comercio electrónico seguro.
 
@@ -11,6 +11,10 @@ a) Finalizada cada operación, la entidad financiera facilitará a la Agencia Es
 b) En la entidad con la que se contrate el servicio se abrirán las cuentas en la que se ingresarán los pagos recibidos. Dichas cuentas se clasificarán conforme a los criterios establecido en el apartado 2 del artículo 5 de la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de junio, por el que se aprueba el Reglamento General de Recaudación, en relación con las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria.
 
 Con la periodicidad y procedimiento que se determine en el pliego de cláusulas administrativas se transferirán los importes recaudados a la cuenta abierta al efecto por la Agencia Estatal de Administración Tributaria en el Banco de España. Desde esta última cuenta se ordenará el ingreso de su importe en la cuenta del Tesoro en el Banco de España
+
+> Se numera como disposición adicional 1 por el art. 2.1 de la Orden HAC/1285/2020, de 29 de diciembre. Ref. BOE-A-2020-17342
+
+> Su anterior denominación era disposición adicional única.
 
 > Se modifica por la disposición adicional 2 de la Orden HAC/350/2019, de 5 de marzo. Ref. BOE-A-2019-4493
 
