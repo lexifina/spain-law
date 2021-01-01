@@ -22,6 +22,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo noveno](anoveno.md)
 - [Artículo diez](adiez.md)
 - [Artículo once](ao.md)
+- [Artículo doce](ad.md)
 - [Disposición final primera](primera.md)
 - [Disposición final segunda](segunda.md)
 - [Disposición final tercera](tercera.md)

@@ -46,11 +46,25 @@ De 3.001 a 5.000 m2: 88 pesetas por m2. (0,528891 euro)
 
 Exceso de 5.000 m2: 78 pesetas por m2. (0,468789 euro)
 
+Epígrafe 661.9. Otro comercio mixto o integrado en grandes superficies, entendiendo por tal el realizado de forma especializada en establecimientos con una superficie útil para la exposición y venta al público igual o superior a los 2.500 m² de productos tales como los relacionados con el bricolaje y el equipamiento del hogar, mobiliario para el hogar y la oficina, artículos electrónicos y electrodomésticos, artículos para el automóvil, artículos para el deporte u otros.
+
+Cuota de:
+
+Hasta 10.000 m²: 1,40 euros por m².
+
+De 10.001 a 20.000 m²: 1,35 euros por m².
+
+De 20.001 a 30.000 m²: 1,25 euros por m².
+
+Exceso de 30.000 m²: 1,15 por m².
+
+Nota: Se entenderá por superficie útil para la exposición y venta al público aquella en la que se exponen artículos para su venta directa, esté cubierta o no y sea utilizable efectivamente por el consumidor.
+
 Notas comunes a este grupo:
 
 1.ª Los sujetos pasivos matriculados en este grupo podrán realizar, sin pago de cuota adicional alguna, comercio al por mayor y al por menor, así como todas aquellas otras actividades que les son propias, tales como aparcamiento, cafetería-restaurante, salones de peluquería y belleza, agencia de viajes, confección a medida, montaje y colocación de sus artículos, cámaras frigoríficas, elaboración y preparación de alimentos, etc., así como ceder a terceros el uso de espacios dentro del local, por cualquier título y mediante contraprestación, para la realización de actividades económicas.
 
-2.ª A efectos del cálculo de las cuotas de este grupo, se computará la superficie íntegra del establecimiento (gran almacén, hipermercado o almacén popular), incluyendo las zonas destinadas a oficinas, aparcamiento cubierto, almacenes, etc. Asimismo, se computarán las zonas ocupadas por terceros en virtud de cesión de uso o por cualquier otro título. No se computarán, sin embargo, las superficies descubiertas cualquiera que sea su destino.
+2.ª A efectos del cálculo de las cuotas de este grupo, se computará la superficie íntegra del establecimiento (gran almacén, hipermercado, almacén popular u otra gran superficie), incluyendo las zonas destinadas a oficinas, aparcamiento cubierto, almacenes, etc. Asimismo, se computarán las zonas ocupadas por terceros en virtud de cesión de uso o por cualquier otro título. No se computarán, sin embargo, las superficies descubiertas cualquiera que sea su destino.
 
 3.ª Quienes en virtud de cesión de uso, o por cualquier otro título, ocupen zonas de los establecimientos de referencia para el ejercicio de actividades económicas, tributarán por la cuota que corresponda en función de la actividad que realicen, sin que a efectos del impuesto tales zonas tengan la consideración de local.
 
@@ -200,6 +214,16 @@ Nota: Los titulares de los establecimientos o locales donde estén instaladas la
 
 A efectos de la liquidación del Impuesto, el índice municipal previsto en el artículo 89 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, sólo se aplicará sobre la parte de la cuota de tarifa incrementada correspondiente a la actividad específica del sujeto pasivo, pero no sobre la parte correspondiente a las vitrinas instaladas en el local.
 
+Epígrafe 664.2. Puntos de recarga de vehículos eléctricos.
+
+Cuota mínima municipal de: 13,56 euros por cada punto de recarga.
+
+Esta cuota la satisfará, exclusivamente, el titular del establecimiento o local en el que el punto de recarga esté instalado.
+
+Cuota nacional de: 13,56 euros por cada punto de recarga.
+
+Esta cuota la satisfará, exclusivamente, el propietario de los puntos de recarga.
+
 Epígrafe 664.9: Comercio al por menor de artículos diversos n.c.o.p. mediante aparatos automáticos, excepto alimentación, bebidas y tabaco.
 
 Cuota mínima municipal de: 2.257 pesetas (13,564843 euros) por aparato automático.
@@ -233,6 +257,8 @@ Notas:
 1.ª Quienes colaboren con el sujeto pasivo de la actividad de venta por catálogo, mediante la puesta a disposición de aquél de sus almacenes o depósitos, elementos de transporte y demás instalaciones y servicios propios del comerciante al por mayor, tributarán por este grupo satisfaciendo el 50 por 100 de la cuota correspondiente.
 
 2.ª Quienes colaboren con el sujeto pasivo de la actividad de venta por catálogo, mediante la prestación de sus locales abiertos al público, recibiendo pedidos, entregando mercancías, devolviendo mercancías, recibiendo el precio de los productos o exhibiendo muestrarios de éstos, así como los catálogos, tributarán por este grupo satisfaciendo el 25 por 100 de la cuota correspondiente. Si el importe de tal tributación fuere inferior a 6.210 pesetas (37,32 euros), el sujeto pasivo tributará por cuota cero.
+
+> Se modifica por el art. 67.5 a 7 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#a6-9
 
 > Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 

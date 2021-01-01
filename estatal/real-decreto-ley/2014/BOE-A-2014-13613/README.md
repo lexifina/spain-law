@@ -104,6 +104,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional decimosexta](dadecimosexta.md)
 - [Disposición adicional decimoséptima](dadecimoseptima.md)
 - [Disposición adicional decimoctava](dadecimoctava.md)
+- [Disposición adicional decimonovena](da.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)

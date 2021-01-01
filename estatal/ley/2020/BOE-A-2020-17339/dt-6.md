@@ -1,0 +1,5 @@
+## Disposición transitoria quinta. Comercialización de billetes subvencionados de transporte regular de pasajeros, marítimo y aéreo.
+
+Las compañías marítimas, así como cualquier otra persona, física o jurídica, que intervenga en la comercialización de los billetes susceptibles de ser subvencionados, dispondrán de dos meses desde la entrada en vigor de esta ley para la adaptación de sus sistemas y la implementación de lo previsto en el apartado dos, párrafo tercero, de la disposición adicional décima tercera de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013.
+
+Asimismo, las compañías marítimas y aéreas, así como cualquier otra persona, física o jurídica, que intervenga en la comercialización de los billetes susceptibles de ser subvencionados, dispondrán de un plazo de dos meses desde la entrada en vigor de esta ley para adaptar sus sistemas a lo dispuesto en el apartado cuatro, párrafo tercero, de la disposición adicional décima tercera de la citada Ley 17/2012, de 27 de diciembre.

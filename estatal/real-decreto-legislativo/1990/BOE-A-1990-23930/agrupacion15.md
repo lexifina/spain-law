@@ -1,6 +1,6 @@
-## Agrupación 15. Producción, transporte y distribución de energía eléctrica, gas, vapor y agua caliente.
+## Agrupación 15. Producción, transporte, distribución y comercialización de energía eléctrica, gas, vapor y agua caliente.
 
-## Grupo 151. Producción, transporte y distribución de energía eléctrica.
+## Grupo 151. Producción, transporte, distribución y comercialización de energía eléctrica.
 
 Epígrafe 151.1: producción de energía hidroeléctrica.
 
@@ -44,15 +44,47 @@ Notas comunes al grupo 151:
 
 5.ª A los efectos de la aplicación del epígrafe 151.5, los kilovatios contratados se tomarán en el punto de entrega, según contrato, al consumidor final.
 
-## Grupo 152. Fabricación y distribución de gas.
+Epígrafe 151.6: Comercialización de energía eléctrica.
+
+Cuota.
+
+Cuota mínima municipal de:
+
+Por cada 1.000 abonados o fracción: 62,20 euros.
+
+Cuota provincial de:
+
+Por cada 1.000 abonados o fracción: 137,48 euros.
+
+Cuota nacional de:
+
+Por cada 1.000 abonados o fracción: 137,48 euros.
+
+## Grupo 152. Fabricación, distribución y comercialización de gas.
+
+Epígrafe 152.1. Fabricación y Distribución de Gas.
 
 Cuota de:
 
-Por cada obrero: 4.855 pesetas. (29,179138 euros)
+Por cada Kw: 15,86 euros.
 
-Por cada Kw: 2.640 pesetas. (15,866720 euros)
+Nota: Este epígrafe comprende la instalación de redes de distribución del gas.
 
-Nota: Este grupo comprende la instalación de redes de distribución del gas.
+Epígrafe 152.2. Comercialización de Gas.
+
+Cuota.
+
+Cuota mínima municipal de:
+
+Por cada 1.000 abonados o fracción: 62,20 euros.
+
+Cuota provincial de:
+
+Por cada 1.000 abonados o fracción: 137,48 euros.
+
+Cuota nacional de:
+
+Por cada 1.000 abonados o fracción: 137,48 euros.
 
 ## Grupo 153. Producción y distribución de vapor y agua caliente.
 
@@ -63,6 +95,8 @@ Por cada obrero: 1.563 pesetas. (9,393819 euros)
 Por cada Kw: 942 pesetas. (5,661534 euros)
 
 Nota: Este grupo comprende la instalación de redes de distribución de vapor y agua caliente.
+
+> Se modifica por el art. 67.1 a 4 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#a6-9
 
 > Se modifica el Grupo 151 por la disposición adicional 3 de la Ley 9/1996, de 15 de enero. Ref. BOE-A-1996-1074.
 

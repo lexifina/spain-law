@@ -274,6 +274,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional vigésima primera](davigesimaprimera.md)
 - [Disposición adicional vigésima segunda](davigesimasegunda.md)
 - [Disposición adicional vigésima tercera](da.md)
+- [Disposición adicional vigésima cuarta](da-2.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición transitoria tercera](dttercera.md)
@@ -286,4 +287,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición final cuarta](dfcuarta.md)
 - [Disposición final quinta](dfquinta.md)
 - [Disposición final quinta ](df.md)
+- [Disposición final sexta](df-2.md)
 - [firma](firma.md)

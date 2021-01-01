@@ -1,8 +1,8 @@
-## Disposición adicional octava. Especialidades de los contratos mercantiles y de alta dirección del sector público.
+## Disposición adicional octava. Especialidades de los contratos mercantiles y de alta dirección del sector público estatal.
 
 Uno. Ámbito de aplicación.
 
-La presente disposición se aplica al sector público estatal formado por las entidades previstas en el artículo 2.1 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, a excepción, únicamente, de las entidades gestoras, servicios comunes y las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, así como sus centros y entidades mancomunados a las que se refiere la letra d) del mismo artículo.
+La presente disposición se aplica al sector público estatal formado por las entidades previstas en el artículo 2.1 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
 
 Dos. Indemnizaciones por extinción.
 
@@ -45,3 +45,5 @@ El Gobierno, a propuesta del Ministro de Hacienda y Administraciones Públicas, 
 Siete. Aplicación a las Comunidades Autónomas y a las Entidades Locales.
 
 Lo dispuesto en el apartado dos; apartado cuatro, número dos, y apartado cinco será de aplicación a los entes, consorcios, sociedades, organismos y fundaciones que conforman el sector público autonómico y local.
+
+> Se modifica el título y el apartado 1 por la disposición final 27 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-28

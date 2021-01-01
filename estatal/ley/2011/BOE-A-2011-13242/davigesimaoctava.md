@@ -2,7 +2,9 @@
 
 El Gobierno presentará, en el plazo de un año, un proyecto de ley que establezca un sistema de compensación a la Seguridad Social para que por ésta pueda reconocerse, a favor de las personas interesadas, un periodo de asimilación del tiempo de servicio militar obligatorio o de prestación social sustitutoria que compense la interrupción de las carreras de cotización ocasionada por tales circunstancias, acorde con los incrementos que, en el ámbito de la contributividad, se producen en esta Ley, y con la sostenibilidad del sistema.
 
-> Téngase en cuenta que queda aplazada la aplicación de esta disposición según establece la disposición adicional 53 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#da-54
+> Téngase en cuenta que queda aplazada la aplicación de esta disposición según establece la disposición adicional 47 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#da-48
+
+> Se aplaza la aplicación por la disposición adicional 47 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#da-48
 
 > Se aplaza la aplicación por la disposición adicional 53 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#da-54
 

@@ -540,6 +540,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional vigésima novena](da-3.md)
 - [Disposición adicional trigésima](da-4.md)
 - [Disposición adicional trigésima primera](da-5.md)
+- [Disposición adicional trigésima segunda](da-6.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición transitoria tercera](dttercera.md)

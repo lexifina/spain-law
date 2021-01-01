@@ -22,6 +22,6 @@
 | Cabo mayor | 18 | 382,74 |
 | Cabo primero | 17 | 360,96 |
 | Cabo | 15 | 317,45 |
-| Soldado, marinero | 13 | 273,91 |
+| Soldado, marinero | 14 | 331,04 |
 
-> Este anexo tiene efectos económicos de 1 de noviembre de 2005, según establece la disposición final 3.
+> Se modifica por el art. 24.5 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#a2-6

@@ -64,15 +64,9 @@ La declaración se efectuará en la forma, plazos y modelos que establezca el ti
 
 Los sujetos pasivos deberán cumplimentar la totalidad de los datos que les afecten contenidos en las declaraciones, acompañar los documentos y justificantes que se establezcan y presentarlas en los lugares que determine el titular del Ministerio de Economía y Hacienda.»
 
-Segundo. Con efectos desde 1 de enero de 2021, se introducen las siguientes modificaciones en la Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio:
+Segundo. (Derogado)
 
-Se modifica el artículo 33, que queda redactado de la siguiente forma:
-
-«Artículo 33. Bonificación general de la cuota íntegra.
-
-Sobre la cuota íntegra del impuesto se aplicará una bonificación del 100 por ciento a los sujetos pasivos por obligación personal o real de contribuir.”
-
-Dos Se derogan los artículos 6, 36, 37 y 38.»
+> Se deroga el apartado segundo, con efectos de 1 de enero de 2021, por la disposición derogatoria 1 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#dd-2
 
 > Se modifica el apartado 2, con efectos de 1 de enero de 2020, por el art. 3 del Real Decreto-ley 18/2019, de 27 de diciembre. Ref. BOE-A-2019-18611#a3
 

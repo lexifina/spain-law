@@ -93,5 +93,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional octava](daoctava.md)
 - [Disposición adicional novena](danovena.md)
 - [Disposición transitoria única](dtunica-2.md)
+- [Disposición transitoria primera](dt.md)
+- [Disposición transitoria segunda](dt-2.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)

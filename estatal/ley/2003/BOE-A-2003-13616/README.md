@@ -171,6 +171,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional decimoséptima](dadecimoseptima.md)
 - [Disposición adicional decimoctava](dadecimoctava.md)
 - [Disposición adicional decimonovena](dadecimonovena.md)
+- [Disposición adicional vigésima](da.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición derogatoria única](ddunica.md)

@@ -12,4 +12,8 @@ No obstante, en los casos en que el derecho de propiedad del causante constase e
 
 5. No se derivarán responsabilidades para la Administración General del Estado por razón de la titularidad de los bienes y derechos integrantes del caudal hereditario hasta el momento en que éstos le sean entregados por el órgano judicial, o se tome posesión efectiva de los mismos.
 
+6. La herencia se considerará en administración hasta que se apruebe la cuenta de liquidación del abintestato por el Director General del Patrimonio del Estado y se acuerde la aplicación del caudal líquido obtenido. Hasta ese momento, los gastos ocasionados por la administración de los bienes o que se deriven de la titularidad o tenencia de los mismos como impuestos, tasas, cuotas de comunidad de propietarios y cualesquiera otros semejantes, se considerarán deudas y cargas de la herencia a los efectos previstos en el apartado 1.º del artículo 1023 del Código Civil.
+
+> Se añade el apartado 6 por la disposición final 15 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-16
+
 > Se añade por la disposición final 8.3 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391.

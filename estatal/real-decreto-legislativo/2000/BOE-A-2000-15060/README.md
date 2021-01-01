@@ -68,6 +68,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 30](a30.md)
 - [Artículo 31](a31.md)
 - [Artículo 32](a32.md)
+- [SECCIÓN 5](s5-2.md)
+- [Artículo 32 bis](a3-2.md)
 - [CAPÍTULO IV](civ.md)
 - [SECCIÓN 1](s1-3.md)
 - [Artículo 33](a33.md)

@@ -1,10 +1,12 @@
 ## Disposición adicional novena. Sociedades mercantiles y otros entes controlados por el sector público.
 
-El Estado promoverá la celebración de convenios con las Comunidades Autónomas o las Entidades Locales con el objeto de coordinar el régimen presupuestario, financiero, contable y de control de las sociedades mercantiles en las que participen, de forma minoritaria, entidades que integran el sector público estatal, la Administración de las Comunidades Autónomas o de las Entidades Locales, o entes a ellas vinculados o dependientes, cuando la participación en las mismas considerada conjuntamente fuera mayoritaria o conllevara su control político.
+El Estado promoverá la celebración de convenios con las comunidades autónomas o las entidades locales con el objeto de coordinar el régimen presupuestario, financiero, contable y de control de las sociedades mercantiles en las que participen, de forma minoritaria, entidades que integran el sector público estatal, la Administración de las comunidades autónomas o de las entidades locales, o entes a ellas vinculados o dependientes, cuando la participación en las mismas considerada conjuntamente fuera mayoritaria o conllevara su control político.
 
-Estas sociedades mercantiles quedarán obligadas a rendir sus cuentas anuales al Tribunal de Cuentas, por conducto de la Intervención General de la Administración del Estado, cuando la participación del sector público estatal sea igual o superior a la de cada una de las restantes administraciones públicas, sin perjuicio de lo establecido en la normativa propia de cada comunidad autónoma. Será de aplicación el procedimiento de rendición previsto en esta Ley.
+Estas sociedades mercantiles quedarán obligadas a rendir sus cuentas anuales al Tribunal de Cuentas, por conducto de la Intervención General de la Administración del Estado, cuando la participación del sector público estatal sea igual o superior a la de cada una de las restantes administraciones públicas, sin perjuicio de lo establecido en la normativa propia de cada comunidad autónoma. Será de aplicación el procedimiento de rendición previsto en esta Ley. Asimismo, quedarán sometidas a las actuaciones de control ejercidas por la Intervención General de la Administración del Estado conforme a lo previsto en el título VI de esta ley.
 
 Lo dispuesto en los párrafos anteriores será también de aplicación a las fundaciones públicas y otras formas jurídicas en las que la participación del sector público estatal sea igual o superior a la de cada una de las restantes administraciones públicas, sin perjuicio de lo establecido en la normativa propia de cada comunidad autónoma.
+
+> Se modifica por la disposición final 17.15 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-18
 
 > Se modifica por la disposición final 19.14 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-20
 

@@ -1,7 +1,5 @@
 ## Disposición adicional cuadragésima séptima. Concesión de moratoria a la sociedad estatal Navantia, S.A.
 
-Se concede a la sociedad estatal Navantia, S. A. una moratoria de tres años para el reintegro de la financiación comprometida conforme al vigente Convenio de colaboración entre el Ministerio de Industria, Energía y Turismo y la empresa Navantia, S. A. para el desarrollo tecnológico del programa de submarinos S-80.
+(Derogada)
 
-Las cantidades afectadas por la moratoria prevista en esta Disposición adicional devengarán interés de demora durante el tiempo que medie entre las fechas de pago actualmente previstas en el vigente Convenio de colaboración entre el Ministerio de Industria, Energía y Turismo y la empresa Navantia, S. A. para el desarrollo tecnológico del programa de submarinos S-80 y la fecha definitiva de cada uno de los pagos tras la moratoria. Los intereses de demora devengados como consecuencia de la moratoria, que se calcularán al tipo de interés legal del dinero, serán abonados por Navantia, S. A. separadamente para cada una de las anualidades al tiempo de realizar el pago de cada una de ellas.
-
-En todo lo no previsto de modo expreso en esta Disposición adicional, subsiste sin ninguna modificación lo establecido en el vigente Convenio de colaboración entre el Ministerio Industria, Energía y Turismo y la empresa Navantia, S. A. para el desarrollo tecnológico del programa de submarinos S-80.
+> Se deroga, con efectos desde 1 de enero de 2020, y se dejan sin efectos los intereses devengados en aplicación de esta disposición, por la disposición derogatoria 2 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#dd-3

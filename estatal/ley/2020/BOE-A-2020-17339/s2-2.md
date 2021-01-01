@@ -1,0 +1,1 @@
+## Sección 2.ª Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados
