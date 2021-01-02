@@ -63,6 +63,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 21](a21.md)
 - [CAPÍTULO II](cii-2.md)
 - [Artículo 22](a22.md)
+- [Artículo 22 bis](a2-2.md)
 - [Artículo 23](a23.md)
 - [Artículo 24](a24.md)
 - [TÍTULO IV](tiv.md)
