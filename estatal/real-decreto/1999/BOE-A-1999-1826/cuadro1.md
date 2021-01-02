@@ -17,8 +17,11 @@
 | Vehículos especiales alta | 280 × 200 | 270 × 190 | 30 | 60 | 6 | 10 15 | 40 | 20 | 30 | 25 | 25 | 75 | 75 | B | R |
 | Remolques y semirremolques larga | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 12 | 30 | 11,5 | – | 15 | 15 | – | – | R | N |
 | Remolques y semirremolques alta | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 9 10 | 40 | 15 | 26 | 19 | 19 | 87,5 | 87,5 | R | N |
-| Ciclomotores | 100 × 168 | 90 x 158 | 13 | 30 | 3,5 | 10 | 10 | 22 | 12 | 27 | 27 | 15,5 | 15,5 | AM | N |
+| Ciclomotores alta | 100 × 168 | 90 x 158 | 13 | 30 | 3,5 | 10 | 10 | 22 | 12 | 27 | 27 | 15,5 | 15,5 | AM | N |
+| Ciclomotores larga | 140 x 120 | 130 x 110 | 13 | 30 | 3,5 | 10 | 10 | 22 | 12 | 27 | 27 | 15,5 | 15,5 | AM | N |
 | Cuatriclos ligeros (6) | 210 x 85 | 200 × 75 | 13 | 30 | 3,5 | 7 | 16 | 22,5 | – | 14,5 | 14,5 | – | – | AM | N |
+| Cuatriciclos larga | 520 x 110 | 510 x 110 | 45 | 77 | 10 | 11 | 41 | 11,5 | – | 62 | 22 | – | – | AM | N |
+| Vehículo histórico ciclomotores | 100 x 168 | 90 x 158 | 13 | 30 | 3,5 | 10 | 10 | 22 | 12 | 27 | 27 | 15,5 | 15,5 | B | N |
 | Cuerpo Diplomático | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 80 48 | 11,5 | – | 35 | 35 | – | – | R | B |
 | Organizaciones internacionales | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 80 48 | 11,5 | – | 35 | 35 | – | – | AZ | B |
 | Oficina consular | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 80 48 | 11,5 | – | 35 | 35 | – | – | V | B |
@@ -57,6 +60,15 @@ Cuando se indican dos cantidades en los apartados "Separación entre caracteres"
 Espacio entre grupos de caracteres: cuando se indican dos cantidades, se entiende que la cifra superior se refiere a la distancia entre el primer y el segundo grupo de caracteres, y la cifra inferior, a la distancia entre el segundo y el tercer grupo de caracteres.
 
 * Placas de matrícula con arreglo a lo establecido en las disposiciones transitorias de la Orden de 15 de septiembre de 2000.
+
+> Téngase en cuenta que la última actualización de la fila decimocuarta «Ciclomotores alta», y las nuevas filas añadidas «Ciclomotores larga», «Cuatriciclos larga» y «Vehículo histórico ciclomotores», establecidas por la disposición final 1.2.c) del Real Decreto 885/2020, de 6 de octubre, Ref. BOE-A-2020-12767#df, entran en vigor el 2 de enero de 2021, según establece su disposición final 5.
+
+> Redacción anterior:
+
+> | "Ciclomotores | 100 x 168 | 90 x 158 | 13 | 30 | 3,5 | 10 | 10 | 22 | 12 | 27 | 27 | 15,5 | 15,5 | AM | N | ±3 mm" |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+> Se modifica, con efectos de 2 de enero de 2021, por la disposición final 1.2.c) del Real Decreto 885/2020, de 6 de octubre. Ref. BOE-A-2020-12767#df
 
 > Se modifica por el art. único.3.b) de la Orden PCI/810/2018, de 27 de julio. Ref. BOE-A-2018-10856
 

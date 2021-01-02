@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Validez de las homologaciones en vigor.
+
+Las homologaciones concedidas por el Ministerio de Industria, Comercio y Turismo con arreglo a la Orden IET/1624/2012, de 16 de julio, por la que se regula la homologación de placas de matrícula para vehículos de motor y remolques, así como aquellas concedidas de acuerdo con la Orden de 20 de septiembre de 1985 sobre instalación y homologación de placas de matrícula para vehículos de motor y remolques seguirán siendo válidas y eficaces durante un periodo de cuatro años a partir de la entrada en vigor del presente real decreto.
