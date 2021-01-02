@@ -1,1 +1,3 @@
-> Incluye la corrección de errores publicada en BOE núm. 26, de 31 de enero de 2000. Ref. BOE-A-2000-1924
+Norma derogada, con efectos de 2 de enero de 2021, por la disposición derogatoria única.d) del Real Decreto 937/2020, de 27 de octubre. Ref. BOE-A-2020-14962#dd
+
+Téngase en cuenta que, en tanto no sean aprobados los modelos de presentación de documentos en papel ante la Caja mediante orden de la persona titular del Ministerio de Asuntos Económicos y Transformación Digital, de acuerdo con lo previsto en la disposición final quinta del citado Real Decreto 937/2020, de 27 de octubre, continuarán vigentes los modelos previstos en la presente Orden, según establece la disposición transitoria tercera del mismo. Ref. BOE-A-2020-14962#dt-3

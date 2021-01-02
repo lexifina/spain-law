@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Régimen jurídico de las garantías y depósitos constituidos con anterioridad a la entrada en vigor de este real decreto.
+
+1. Las garantías y depósitos constituidos con anterioridad a la entrada en vigor de este real decreto, y que sigan vigentes, se regirán por la normativa en vigor con anterioridad a la aprobación de este real decreto en lo que se refiere a los requisitos de su constitución. Su sustitución, cancelación o incautación, así como las incidencias, se regularán por lo dispuesto en este real decreto siempre que se produzcan con posterioridad a su entrada en vigor.
+
+2. Las garantías existentes a la entrada en vigor de este real decreto y constituidas mediante valores que no sean valores de deuda del Estado, mantendrán su vigencia hasta que proceda su cancelación o incautación. En el caso de que sean sustituidas, lo serán mediante alguna de las garantías previstas en el artículo 12 del reglamento que se aprueba por medio de este real decreto.

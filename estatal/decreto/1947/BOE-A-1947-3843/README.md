@@ -318,6 +318,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 236-n.](a236-n.md)
 - [Artículo 236-ñ.](a236-n.-2.md)
 - [Artículo 236-o.](a236-o.md)
+- [Artículo 236-p.](a2-2.md)
 - [Sección 2](s2.md)
 - [Hipoteca constituida unilateralmente](hipotecaconstituidaunilateralmente.md)
 - [Artículo 237](a237.md)
