@@ -4,25 +4,7 @@ Anakinra 100 mg inyectable 0,67 ml jeringa precargada.
 
 Azitromicina 500 mg inyectable perfusión.
 
-Azitromicina 1000 mg solución/suspensión oral sobre.
-
-Azitromicina 150 mg solución/suspensión oral sobre.
-
 Azitromicina 200 mg/5 ml solución/suspensión oral.
-
-Azitromicina 250 mg cápsula.
-
-Azitromicina 250 mg comprimido.
-
-Azitromicina 250 mg solución/suspensión oral sobre.
-
-Azitromicina 500 mg comprimido.
-
-Azitromicina 500 mg inyectable perfusión.
-
-Azitromicina 500 mg solución/suspensión oral sobre.
-
-Azitromicina 1000 mg solución/suspensión oral sobre.
 
 Bemiparina sodio (3.500 UI) inyectable 0,2 ml jeringas precargadas.
 
@@ -38,6 +20,14 @@ Cefditoreno 200 mg comprimido.
 
 Cefditoreno 400 mg comprimido.
 
+Ceftriaxona 250 mg inyectable.
+
+Ceftriaxona 500 mg inyectable.
+
+Ceftriaxona 1000 mg inyectable / perfusión.
+
+Ceftriaxona 2000 mg inyectable / perfusión.
+
 Ciclosporina 25 mg cápsula.
 
 Ciclosporina 50 mg cápsula.
@@ -45,6 +35,8 @@ Ciclosporina 50 mg cápsula.
 Ciclosporina 50 mg/ml solución perfusión.
 
 Ciclosporina 100 mg cápsula.
+
+Ciclosporina 100 mg/ml solución oral
 
 Cisatracurio besilato 2 mg/ml inyectable 10 ml.
 
@@ -112,15 +104,7 @@ Midazolam 5 mg inyectable 5 ml.
 
 Midazolam 15 mg inyectable 3 ml.
 
-Midazolam 25 mg inyectable 5 ml.
-
 Midazolam 50 mg inyectable 10 ml.
-
-Midazolam 50 mg inyectable 50 ml.
-
-Midazolam 100 mg inyectable 100 ml.
-
-Midazolam 100 mg inyectable 20 ml.
 
 Norepinefrina (noradrenalina) 1 mg/ml.
 
@@ -144,6 +128,8 @@ Propofol 20 mg/ml inyectable 50 ml jeringa precargada.
 
 Propofol 20 mg/ml inyectable 50 ml.
 
+Propofol 20 mg/ml inyectable 100 ml.
+
 Remdesivir 100 mg polvo para solución para perfusión.
 
 Remdesivir 100 mg solución para perfusión 20 ml.
@@ -158,8 +144,6 @@ Rocuronio 10 mg/ml inyectable 10 ml.
 
 Rocuronio 10 mg/ml inyectable 5 ml.
 
-Rocuronio 2,5 mg/ml inyectable 2,5 ml.
-
 Salbutamol 100 microgramos/dosis inhalación pulmonar.
 
 Salbutamol 100 microgramos/dosis inhalación pulmonar (polvo).
@@ -172,12 +156,6 @@ Sarilumab 200 mg inyectable 1,14 ml pluma precargada.
 
 Siltuximab 100 mg polvo para solución para perfusión.
 
-Tocilizumab 162 mg inyectable 0,9 ml jeringa precargada.
-
-Tocilizumab 162 mg inyectable 0,9 ml pluma precargada.
-
-Tocilizumab 20 mg/ml inyectable perfusión 10 ml.
-
-Tocilizumab 20 mg/ml inyectable perfusión 4 ml.
+> Se modifica por la Resolución de 15 de diciembre de 2020. Ref. BOE-A-2021-150
 
 > Se modifica por la Resolución de 31 de julio de 2020. Ref. BOE-A-2020-9430
