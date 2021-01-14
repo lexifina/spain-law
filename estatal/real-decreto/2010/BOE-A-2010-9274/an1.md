@@ -1,6 +1,6 @@
 ## ANEXO 1
 
-## DATOS A FACILITAR PARA EL REGISTRO DE CONVENIOS Y ACUERDOS COLECTIVOS
+## Datos a facilitar para el Registro de Convenios y Acuerdos Colectivos
 
 ## I. Datos identificativos del Convenio, acuerdo o comunicación a inscribir o depositar
 
@@ -10,24 +10,60 @@ I.2 Denominación de la empresa.................................................
 
 I.3 Código..........................
 
-I.4 Naturaleza:
+I.4 Código Naturaleza
 
-| Código | Naturaleza |
-| --- | --- |
-| 01 | Convenio colectivo. |
-| 02 | Adhesión a convenio o acuerdo colectivo. |
-| 03 | Laudo arbitral. |
-| 04 | Acuerdo de mediación. |
-| 05 | Acuerdo de fin de huelga. |
-| 06 | Extensión de convenio. |
-| 07 | Acuerdo Marco. |
-| 08 | Acuerdo sectorial sobre materias concretas. |
-| 09 | Acuerdos Interprofesionales. |
-| 10 | Acuerdos en empresas españolas de dimensión comunitaria o mundial (artículo 2.1.g). |
-| 11 | Acuerdos sobre planes de Igualdad (artículo 2.1.f). |
-| 12 | Otros acuerdos inscribibles (artículo 2.1.h). |
-| 16 | Convenio o Acuerdo de eficacia limitada (D.A.2.ª). |
-| 17 | Acuerdos de empresa para su depósito (D.A.2.ª). |
+01 Convenio colectivo.
+
+02 Adhesión a convenio o acuerdo colectivo.
+
+03 Laudo arbitral.
+
+04 Acuerdo de mediación.
+
+05 Acuerdo de fin de huelga.
+
+06 Extensión de convenio.
+
+07 Acuerdo Marco.
+
+08 Acuerdo sectorial sobre materias concretas.
+
+09 Acuerdos Interprofesionales.
+
+10 Acuerdos en empresas españolas de dimensión comunitaria o mundial (artículo 2.1.g).
+
+11 Acuerdos sobre Planes de Igualdad (artículo 2.1.f).
+
+12 Otros acuerdos inscribibles (artículo 2.1.h).
+
+16 Convenio o Acuerdo de eficacia limitada (D.A.2.ª).
+
+17 Acuerdos de empresa para su depósito (D.A.2.ª).
+
+18 Planes de igualdad no acordados (artículo 2.1.f).
+
+> Téngase en cuenta que esta última actualización del apartado I.4, establecida por la disposición final 1.10 del Real Decreto 901/2020, de 13 de octubre. Ref. BOE-A-2020-12214#df, entra en vigor el 14 de enero de 2021, según determina su disposición final 3.
+
+> Redacción anterior:
+
+> "I.4 Naturaleza:
+
+> | Código | Naturaleza |
+> | --- | --- |
+> | 01 | Convenio colectivo. |
+> | 02 | Adhesión a convenio o acuerdo colectivo. |
+> | 03 | Laudo arbitral. |
+> | 04 | Acuerdo de mediación. |
+> | 05 | Acuerdo de fin de huelga. |
+> | 06 | Extensión de convenio. |
+> | 07 | Acuerdo Marco. |
+> | 08 | Acuerdo sectorial sobre materias concretas. |
+> | 09 | Acuerdos Interprofesionales. |
+> | 10 | Acuerdos en empresas españolas de dimensión comunitaria o mundial (artículo 2.1.g). |
+> | 11 | Acuerdos sobre planes de Igualdad (artículo 2.1.f). |
+> | 12 | Otros acuerdos inscribibles (artículo 2.1.h). |
+> | 16 | Convenio o Acuerdo de eficacia limitada (D.A.2.ª). |
+> | 17 | Acuerdos de empresa para su depósito (D.A.2.ª)." |
 
 I.4.1 Contenido:
 
@@ -130,3 +166,5 @@ III.2 Organizaciones Sindicales Firmantes:
 III.3 Asociaciones Empresariales Firmantes: ................................................................
 
 Se debe indicar la asociación o asociaciones empresariales que han participado en la firma del acuerdo.
+
+> Se modifica el apartado I.4, con efectos de 14 de enero de 2021, por la disposición final 1.10 del Real Decreto 901/2020, de 13 de octubre. Ref. BOE-A-2020-12214#df
