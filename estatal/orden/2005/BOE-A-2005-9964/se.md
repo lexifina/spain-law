@@ -64,23 +64,7 @@ Cuando las autoridades aduaneras no puedan respetar este plazo, y de conformidad
 
 3. Órganos competentes para autorizar.
 
-3.1 Reglas generales.
-
-Las autoridades aduaneras competentes para otorgar la autorización son:
-
-3.1.1 Utilizando el procedimiento normal (anexo 67 del Reglamento CEE 2454/1993):
-
-a) Cuando se trate de autorizaciones únicas y/o integradas, el Departamento de Aduanas e Impuestos Especiales, Subdirección General de Gestión Aduanera.
-
-b) Cuando se trate de autorizaciones normales o globales, la Dependencia de Aduanas e Impuestos Especiales, en cuya demarcación radique la aduana de control del régimen, determinada de acuerdo con los criterios establecidos en la presente Orden.
-
-3.1.2 Utilizando el procedimiento simplificado (declaración de importación).
-
-Las Aduanas en las que se presente la declaración de importación.
-
-3.2 Reglas especiales. Autorización con efectos retroactivos.
-
-La autorización que permita retrotraer su validez a una fecha anterior a la de su concesión se otorgará, siempre que se cumplan los supuestos y requisitos establecidos en el artículo 294 del Reglamento (CEE) n.º 2454/1993, por el órgano que según el punto 3.1.1 anterior sea el competente.
+(Derogado)
 
 4. Procedimiento de inclusión de las mercancías en el régimen.
 
@@ -273,3 +257,5 @@ Si se reexportan productos agrícolas, en la casilla 44 del Documento Único Adu
 9.5 Dar otro uso autorizado.
 
 Si la Aduana de Control considerara que está justificado, por razones económicas, dar un uso a las mercancías distinto del previsto en la autorización, este uso, salvo que se trate de exportación o destrucción implicará el nacimiento de una deuda aduanera.
+
+> Se deroga el apartado 3 por la disposición derogatoria única.2 de la Orden PCM/3/2021, de 11 de enero. Ref. BOE-A-2021-461
