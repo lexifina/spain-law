@@ -1,0 +1,1 @@
+Téngase en cuenta que queda derogada esta norma, con efectos de 14 de enero de 2021, en lo que respecta a su aplicación al Museo Nacional del Prado, según establece la disposición derogatoria única. 1 de la Orden PCM/4/2021, de 11 de enero. Ref. BOE-A-2021-508#dd

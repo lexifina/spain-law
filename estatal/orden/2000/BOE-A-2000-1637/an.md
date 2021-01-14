@@ -2,8 +2,6 @@
 
 GRUPO I
 
-Museo Nacional del Prado.
-
 Museo Arqueológico Nacional.
 
 Museo Nacional de Antropología.
@@ -73,5 +71,7 @@ Teatro María Guerrero.
 GRUPO III
 
 Los restantes Museos, Archivos, Bibliotecas y otros equipamientos culturales dependientes de la Secretaría de Estado de Cultura y de sus organismos autónomos.
+
+> Se suprime la referencia al Museo Nacional del Prado, contenida en el grupo I por la disposición derogatoria única de la Orden PCM/4/2021, de 11 de enero. Ref. BOE-A-2021-508#dd
 
 > Se modifica el Grupo I por la disposición derogatoria única.b) de la Orden PRA/1194/2017, de 24 de noviembre. Ref. BOE-A-2017-14414
