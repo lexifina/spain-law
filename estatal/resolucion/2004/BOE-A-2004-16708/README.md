@@ -8,39 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2021-01-15 by BOE-A-2021-519. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no](no.md)
-- [preambulo](preambulo.md)
-- [Primero](primero.md)
-- [Segundo](segundo.md)
-- [I](i.md)
-- [Tercero](tercero.md)
-- [Cuarto](cuao.md)
-- [Quinto](quinto.md)
-- [Sexto](sexto.md)
-- [II](ii.md)
-- [Séptimo](septimo.md)
-- [Octavo](octavo.md)
-- [Noveno](noveno.md)
-- [III](iii.md)
-- [Décimo](decimo.md)
-- [Undécimo](undecimo.md)
-- [Duodécimo](duodecimo.md)
-- [IV](iv.md)
-- [Decimotercero](decimotercero.md)
-- [Decimocuarto](decimocuao.md)
-- [Disposición adicional primera](daprimera.md)
-- [Disposición adicional segunda](dasegunda.md)
-- [Disposición adicional tercera](datercera.md)
-- [Disposición adicional cuarta](dacuaa.md)
-- [Disposición adicional quinta](daquinta.md)
-- [Disposición adicional sexta](dasexta.md)
-- [Disposición adicional séptima](daseptima.md)
-- [Disposición transitoria](dt.md)
-- [Disposición derogatoria](dd.md)
-- [Disposición final](df.md)
-- [firma](firma.md)
-- [ANEXO 1](an1.md)
-- [ANEXO 2](an2.md)
-- [ANEXO 3](an3.md)
+- [BOE publisher notice](no.md)
