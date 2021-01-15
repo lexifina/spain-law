@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en el BOE núm. 244 de 9 de octubre de 2004. Ref. BOE-A-2004-17395.
+Norma derogada, con efectos de 15 de enero de 2021, por la disposición derogatoria única de la Resolución de 13 de enero de 2021. Ref. BOE-A-2021-519#dd
