@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 237, de 3 de octubre de 1998. Ref. BOE-A-1998-22985.
+Norma derogada, con efectos de 16 de enero de 2021, por la disposición derogatoria única.1 de la Resolución de 13 de enero de 2021. Ref. BOE-A-2021-591#dd

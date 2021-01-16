@@ -1,0 +1,15 @@
+## Decimocuarto. Composición y organización de los Equipos y Unidades.
+
+1. La composición de los Equipos y Unidades de Aduanas e Impuestos Especiales previstas en los apartados segundo, quinto, sexto, séptimo, décimo y decimoprimero se regirá por las siguientes reglas:
+
+a) Equipos de Aduanas e Impuestos Especiales. El titular del Equipo será un funcionario del Cuerpo Superior de Inspectores de Hacienda del Estado, pudiéndose integrar en el mismo Unidades o funcionarios del mismo Cuerpo o del Cuerpo Técnico de Hacienda, con inclusión, en su caso, de Agentes de la Hacienda Pública.
+
+b) Unidades de Aduanas e Impuestos Especiales. El titular de la Unidad será un funcionario del Cuerpo Técnico de Hacienda, pudiéndose integrar en el mismo otros funcionarios del mismo Cuerpo, con inclusión, en su caso, de Agentes de la Hacienda Pública.
+
+2. Las unidades funcionales que puedan organizarse, de conformidad con el apartado octavo en el ámbito de la función de investigación de Vigilancia Aduanera, podrán estar dirigidas por funcionarios de los Cuerpos de Vigilancia Aduanera que ostenten la especialidad de investigación, en atención al volumen y naturaleza de la carga de trabajo. La distribución de tareas entre las distintas unidades se realizará en función del puesto de trabajo que desempeñe el titular y teniendo en cuenta los criterios que se fijen en Instrucción del Departamento de Aduanas e Impuestos Especiales dictada a estos efectos.
+
+3. Los Equipos y Unidades de Aduanas e Impuestos Especiales se organizarán por el titular del órgano en que estén integrados en función de la distribución que éste realice del volumen y naturaleza de la carga de trabajo. Tal distribución se realizará en función del puesto de trabajo que desempeñe el titular del Equipo o Unidad, y teniendo en cuenta los criterios que se fijen en Instrucción del Departamento de Aduanas e Impuestos Especiales dictada a estos efectos.
+
+4. Los titulares de los Equipos y Unidades de Aduanas e Impuestos Especiales distribuirán los expedientes, las funciones y tareas entre los funcionarios que las integren, con carácter general, en base a la experiencia, preparación y capacidad de cada funcionario y el grado de progresión alcanzado en su carrera profesional, de manera que la carga de trabajo, dificultad técnica y nivel de responsabilidad aumente a medida que los puestos de trabajo ocupados supongan un mayor grado de progresión en dicha carrera, y siguiendo los criterios de la Instrucción del titular del Departamento de Aduanas e Impuestos Especiales dictada a estos efectos.
+
+5. En los casos de ausencia, vacante o enfermedad del titular de un Equipo o de una Unidad de Aduanas e Impuestos Especiales, éste será sustituido por el funcionario que designe el titular del órgano del que dependa de entre los funcionarios del mismo Cuerpo. En el supuesto de no existir en el órgano tales funcionarios, las competencias del Equipo o Unidad de Aduanas e Impuestos Especiales serán asumidas por el titular del órgano del que depende dicho Equipo o Unidad.
