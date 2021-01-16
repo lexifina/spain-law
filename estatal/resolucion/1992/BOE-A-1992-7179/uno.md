@@ -2,13 +2,15 @@
 
 1. Las funciones o atribuciones propias de la Inspección de los Tributos, en el ámbito de la competencia del Departamento de Inspección Financiera y Tributaria de la Agencia Estatal de Administración Tributaria, serán ejercidas por los siguientes órganos:
 
-a) En la esfera central y respecto de todo el territorio nacional, por la Oficina Nacional de Investigación del Fraude, la Oficina Nacional de Fiscalidad Internacional, la Unidad Central de Coordinación en materia de Delitos contra la Hacienda Pública y la Unidad de Coordinación de Grupos, que dependerán directamente del titular del Departamento.
+a) En la esfera central y respecto de todo el territorio nacional, por la Oficina Nacional de Investigación del Fraude, la Oficina Nacional de Fiscalidad Internacional, la Unidad Central de Coordinación en materia de Delitos contra la Hacienda Pública y la Unidad de Coordinación de Grupos, que dependerán directamente del titular del Departamento. También, en la esfera central y respecto de todo el territorio nacional, por la Dependencia de Control Tributario y Aduanero de la Delegación Central de Grandes Contribuyentes.
 
 b) En la esfera de la Administración territorial de la Agencia Estatal de Administración Tributaria por las Dependencias Regionales de Inspección, respecto de la demarcación territorial de cada Delegación Especial de la Agencia.
 
 Los citados órganos de Inspección de los Tributos en la Administración territorial ejercerán sus competencias sin perjuicio de las que tienen atribuidas los Delegados Especiales, Delegados y Administradores de la Agencia en relación con la superior jefatura y coordinación entre las distintas áreas de las Delegaciones Especiales, Delegaciones y Administraciones de la Agencia, respectivamente.
 
-2. A los efectos de lo dispuesto en el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos y de lo dispuesto en esta Resolución, tendrán la consideración de órganos de inspección tributaria todos los órganos a los que se refiere el número 1 anterior así como las unidades integradas en los mismos.
+2. A los efectos de lo dispuesto en el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos y de lo dispuesto en esta Resolución de 24 de marzo de 1992, tendrán la consideración de órganos de inspección tributaria todos los órganos a los que se refiere el número 1 anterior, así como las unidades integradas en los mismos.
+
+> Se modifica por el apartado único.1 de la Resolución de 13 de enero de 2021. Ref. BOE-A-2021-589
 
 > Se modifica el punto 1 por el art.único.1 de la Resolución de 13 de marzo de 2013. Ref. BOE-A-2013-2811.
 
