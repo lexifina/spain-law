@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 64, de 15 de marzo de 2004. Ref. BOE-A-2004-4717.
+Norma derogada, con efectos de 16 de enero de 2021, con excepción de su apartado tercero.1.A).15.º, que quedará derogado el 30 de junio de 2021, por la disposición derogatoria de la Resolución de 13 de enero de 2021. Ref. BOE-A-2021-590#dd
