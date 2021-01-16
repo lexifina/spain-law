@@ -8,11 +8,11 @@ En el caso de obligados tributarios no residentes en territorio español serán 
 
 2. Reglas especiales:
 
-2.1 Procedimientos de declaración de responsabilidad.– La competencia para declarar la responsabilidad en los procedimientos frente a responsables previstos en los artículos 174, 175 y 176 de la Ley General Tributaria coincidirá con la de los órganos de recaudación que sean competentes por razón del territorio para la gestión recaudatoria del deudor principal en el momento de iniciarse el procedimiento de derivación, con independencia de cuál sea el domicilio fiscal de los posibles responsables aunque estén adscritos a la Delegación Central de Grandes Contribuyentes.
+2.1 Procedimientos de declaración de responsabilidad. La competencia para declarar la responsabilidad en los procedimientos frente a responsables previstos en los artículos 174, 175 y 176 de la Ley General Tributaria coincidirá con la de los órganos de recaudación que sean competentes por razón del territorio para la gestión recaudatoria del deudor principal en el momento de iniciarse el procedimiento de derivación, con independencia de cuál sea el domicilio fiscal de los posibles responsables y aunque estén adscritos a la Delegación Central de Grandes Contribuyentes, y sin perjuicio de las competencias atribuidas al Equipo Nacional de Embargos.
 
-Excepcionalmente, en el supuesto de responsabilidad del artículo 258 de la Ley General Tributaria, la competencia para declarar la responsabilidad coincidirá con la de los órganos de recaudación que sean o vayan a ser competentes para la gestión recaudatoria de la deuda liquidada conforme al artículo 253 de la Ley General Tributaria, una vez se hubiera admitido a trámite la denuncia o querella y de acuerdo con lo dispuesto en los apartados Quinto. 2.4.2 y 2.4.4 siguientes, con independencia de cuál sea el domicilio fiscal de los posibles responsables y aunque estén adscritos a la Delegación Central de Grandes Contribuyentes.
+Excepcionalmente, en el supuesto de responsabilidad del artículo 258 de la Ley General Tributaria, la competencia para declarar la responsabilidad coincidirá con la de los órganos de recaudación que sean o vayan a ser competentes para la gestión recaudatoria de la deuda liquidada conforme al artículo 253 de la Ley General Tributaria, una vez se hubiera admitido a trámite la denuncia o querella y de acuerdo con lo dispuesto en los apartados quinto 2.4.2 y 2.4.4 siguientes, con independencia de cuál sea el domicilio fiscal de los posibles responsables y aunque estén adscritos a la Delegación Central de Grandes Contribuyentes.
 
-En todo caso, durante la tramitación de la declaración de responsabilidad, la gestión recaudatoria de las deudas del deudor principal se mantendrá igualmente en el órgano de recaudación competente según lo dispuesto en el primer párrafo de este apartado quinto.2.1, con la salvedad de que resulten adscritos a la Delegación Central de Grandes Contribuyentes.
+En todo caso, durante la tramitación de la declaración de responsabilidad, la gestión recaudatoria de las deudas del deudor principal se mantendrá igualmente en el órgano de recaudación competente según lo dispuesto en el primer párrafo de este apartado quinto 2.1, con la salvedad de que resulten adscritos a la Delegación Central de Grandes Contribuyentes.
 
 Asimismo, si durante la tramitación de la declaración de responsabilidad fuese procedente la adopción de una medida cautelar, de acuerdo con lo previsto en los artículos 41.5 y 81 de la Ley General Tributaria, la competencia para su tramitación y adopción coincidirá con la de los órganos competentes para declarar la responsabilidad.
 
@@ -24,9 +24,11 @@ El órgano competente para la gestión recaudatoria del deudor principal será t
 
 3.º Que el alcance de la declaración de responsabilidad respecto de un mismo deudor principal no supere la cifra de 150.000 euros, salvo en el supuesto de derivación del artículo 258.1 de la Ley General Tributaria, en el que el límite se reduce a 120.000 euros.
 
-4.º Que siendo el responsable también deudor por delitos contra la Hacienda Pública, contrabando o por la liquidación vinculada a delito del artículo 250.1 de la Ley General Tributaria, se hubiera determinado la competencia para la gestión recaudatoria del mismo conforme el epígrafe 2.4 de este apartado.
+4.º Que siendo el responsable también deudor por delitos contra la Hacienda pública, contrabando o por la liquidación vinculada a delito del artículo 250.1 de la Ley General Tributaria, se hubiera determinado la competencia para la gestión recaudatoria del mismo conforme el epígrafe 2.4 de este apartado.
 
-2.2 Requerimientos de pago a sucesores y gestión recaudatoria de las deudas de los sucesores.–El órgano competente para la gestión recaudatoria del deudor principal será también el competente para realizar el requerimiento de pago a sus sucesores previsto en el artículo 177 de la Ley General Tributaria con independencia de cuál sea el domicilio de los mismos y aunque estén adscritos a la Delegación Central de Grandes Contribuyentes.
+5.º Que estando adscrito el deudor principal a la Delegación Central de Grandes Contribuyentes, el o los responsables estén adscritos a una o varias Dependencias Regionales de Recaudación, en cuyo caso la competencia para la gestión recaudatoria de la totalidad de las deudas de los responsables se mantendrán en las correspondientes Dependencias Regionales de Recaudación, salvo que por aplicación del criterio de mayor eficacia recaudatoria se acumule su gestión en una única Dependencia Regional de Recaudación de acuerdo con lo establecido en lo dispuesto en la letra g) del apartado 2 del artículo 6 de la Orden PRE/3581/2007, de 10 de diciembre.
+
+2.2 Requerimientos de pago a sucesores y gestión recaudatoria de las deudas de los sucesores. – El órgano competente para la gestión recaudatoria del deudor principal será también el competente para realizar el requerimiento de pago a sus sucesores previsto en el artículo 177 de la Ley General Tributaria con independencia de cuál sea el domicilio de los mismos y aunque estén adscritos a la Delegación Central de Grandes Contribuyentes.
 
 Asimismo, si tras producirse la sucesión fuese procedente la adopción de una medida cautelar, de acuerdo con lo previsto en el artículo 81 de la Ley General Tributaria, la competencia de los órganos de recaudación coincidirá con la de los órganos competentes para llevar a cabo las actuaciones de gestión recaudatoria que procedan sobre el sucesor.
 
@@ -36,7 +38,9 @@ El mismo criterio de adscripción del deudor sucedido será el determinante de l
 
 2.º Que el importe de la deuda cuyo pago se requiere por sucesión respecto de un mismo deudor sucedido no supere la cifra de 150.000 euros.
 
-3.º Que siendo el sucesor, asimismo responsable se hubiera determinado la competencia para la gestión recaudatoria del responsable conforme el epígrafe 2.1 de este apartado.
+3.º Que, siendo el sucesor asimismo responsable, se hubiera determinado la competencia para la gestión recaudatoria del responsable conforme el epígrafe 2.1 de este apartado.
+
+4.º Se aplicará a los sucesores la misma salvedad prevista en el número 5.º del epígrafe 2.1 anterior para responsables.
 
 2.3 Solicitudes de suspensión y reembolso del coste de las garantías.–Las competencias resolutorias en materia de solicitudes de suspensión y de reembolso del coste de las garantías aportadas para suspender la ejecución de los actos impugnados en vía económico-administrativa corresponderán a la Dependencia Regional de Recaudación en cuyo ámbito territorial se encuentre el Tribunal Económico-Administrativo competente para la resolución de la correspondiente reclamación.
 
@@ -115,6 +119,8 @@ Si el cambio de adscripción deriva de un acuerdo singular objeto de notificaci�
 En tanto no surta efectos el cambio de adscripción, las actuaciones necesarias para el ejercicio de las competencias se continuarán realizando por el órgano de recaudación competente con anterioridad al cambio de adscripción.
 
 Los procedimientos que se encuentren en tramitación en el momento en que surta efectos el cambio de adscripción, serán continuados y finalizados desde ese momento por el nuevo órgano competente, al que se remitirán los antecedentes necesarios.
+
+> Se modifican los epígrafes 2.1 y 2.2 por el art. único.4 de la Resolución de 13 de enero de 2021. Ref. BOE-A-2021-588
 
 > Se modifican los apartados 2.1 y 2.4 por el art. único.3 de la Resolución de 1 de abril de 2016. Ref. BOE-A-2016-3228.
 

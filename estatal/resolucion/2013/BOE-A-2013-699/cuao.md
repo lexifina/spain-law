@@ -30,21 +30,23 @@ g) Autorizar, en relación con los concursos regidos por la Ley 22/2003, de 9 de
 
 Para ejercer la competencia recogida en la letra a) anterior aceptando el nombramiento será necesario solicitar autorización previa del titular de la Subdirección General de Recaudación Ejecutiva y para ejercer las competencias recogidas en las letras b) a g) será necesario solicitar autorización previa del titular del Departamento de Recaudación.
 
-1.4 Medidas cautelares.–Corresponde a los titulares de las Delegaciones Especiales de la Agencia Tributaria:
+1.4 Medidas cautelares. Corresponde a los titulares de las Delegaciones Especiales de la Agencia Tributaria:
 
-a) Adoptar medidas cautelares para asegurar el cobro de las deudas o de las sanciones, si procede, cuando la gestión recaudatoria de las deudas del deudor principal corresponda o fuera a corresponder a la Delegación Especial, así como acordar la ampliación del plazo de efectos de dichas medidas, salvo en los casos en que la competencia se ejerza por los titulares de las Delegaciones de la Agencia Tributaria.
+a) Adoptar medidas cautelares para asegurar el cobro de las deudas o de las sanciones, si procede, cuando la gestión recaudatoria de las deudas del deudor principal corresponda o fuera a corresponder a la Delegación Especial, así como acordar la ampliación del plazo de efectos de dichas medidas, salvo en los casos en que corresponda a otra Delegación Especial de acuerdo con lo dispuesto en el artículo 6.2 g) de la Orden PRE/3581/2007, de 10 de diciembre, o bien corresponda al titular del Equipo Nacional de Embargos.
 
 b) Acordar las medidas cautelares referidas en el apartado 8 del artículo 81 de la LGT, respecto del patrimonio de las personas o entidades contra las que se haya presentado denuncia o querella por delito contra la Hacienda pública o se dirija un proceso judicial por dicho delito.
 
-c) Adoptar medidas cautelares una vez iniciado un procedimiento de declaración de responsabilidad cuando la gestión recaudatoria de las deudas del deudor principal corresponda o fuera a corresponder a la Delegación Especial, salvo en los casos en que la competencia se ejerza por los titulares de las Delegaciones de la Agencia Tributaria.
+c) Adoptar medidas cautelares una vez iniciado un procedimiento de declaración de responsabilidad cuando la gestión recaudatoria de las deudas del deudor principal corresponda o fuera a corresponder a la Delegación Especial, así como acordar la ampliación del plazo de efectos de dichas medidas, salvo en los casos en que corresponda a otra Delegación Especial de acuerdo con lo dispuesto en el artículo 6.2 g) de la Orden PRE/3581/2007, de 10 de diciembre, o bien corresponda al titular del Equipo Nacional de Embargos.
 
-1.5 Tercerías.–Corresponde a los titulares de las Delegaciones Especiales de la Agencia Tributaria, en materia de tercerías:
+1.5 Tercerías. Corresponde a los titulares de las Delegaciones Especiales de la Agencia Tributaria, en materia de tercerías:
 
-a) Resolver en vía administrativa las reclamaciones de tercería en los supuestos en que la competencia no corresponda al titular del Departamento de Recaudación.
+a) Resolver en vía administrativa las reclamaciones de tercería en los supuestos en que la competencia no corresponda al titular del Departamento de Recaudación o del Equipo Nacional de Embargos.
 
 b) Autorizar la interposición de tercerías de mejor derecho a favor de la Hacienda pública cuando se refieran a bienes o derechos embargados en el curso de un procedimiento de apremio.
 
-1.6 Acciones judiciales.–Autorizar el ejercicio de acciones civiles en defensa del crédito público y proponer al titular del Departamento de Recaudación la autorización del ejercicio de acciones penales en defensa de los derechos de la Hacienda pública cuando la gestión recaudatoria de las deudas corresponda a los órganos de recaudación del ámbito territorial de la Delegación Especial, salvo en los casos en que la competencia se ejerza por los titulares de las Delegaciones de la Agencia Tributaria.
+1.6 Acciones judiciales. Corresponde a los titulares de las Delegaciones Especiales de la Agencia Tributaria, en materia de Acciones judiciales:
+
+Autorizar el ejercicio de acciones civiles en defensa del crédito público y proponer al titular del Departamento de Recaudación la autorización para el ejercicio de acciones penales en defensa de los derechos de la Hacienda pública, la formulación de denuncia en nombre de la Agencia Tributaria así como la personación en los procesos penales ya iniciados, de acuerdo con lo dispuesto en la letra d) del apartado 2 del artículo 6 de la Orden PRE/3581/2007, de 10 de diciembre, cuando la gestión recaudatoria de las deudas corresponda a los órganos de recaudación del ámbito territorial de la Delegación Especial, salvo en los casos en que la competencia se ejerza por los titulares de las Delegaciones de la Agencia Tributaria.
 
 1.7 Otras competencias.–Corresponde a los titulares de las Delegaciones Especiales de la Agencia Tributaria, salvo en los casos en que las competencias se ejerzan por los titulares de las Delegaciones de la Agencia Tributaria:
 
@@ -68,9 +70,7 @@ El Delegado Especial recabará la autorización previa del titular del Departame
 
 i) Cualesquiera otras funciones y competencias que les atribuyan la normativa legal y reglamentaria y demás disposiciones que sean de aplicación.
 
-2. Competencias de los titulares de las Delegaciones de la Agencia Tributaria en materia de recaudación.
-
-Los titulares de las Delegaciones de la Agencia Tributaria asumirán las competencias atribuidas a los Delegados Especiales respecto de las deudas de las personas o entidades adscritas a los Equipos y a los Grupos Regionales de Recaudación ubicadas en alguna de las sedes situadas en la Delegación de la que sea titular, con excepción de las previstas en el apartado cuarto 1.1, cuarto 1.2, cuarto 1.3, cuarto 1.4 b), cuarto 1.5, cuarto 1.6 y cuarto 1.7.h).
+2. Competencias de los titulares de las Delegaciones de la Agencia Tributaria en materia de recaudación. Los Delegados de la Agencia Tributaria podrán ejercer, por delegación de competencias, las atribuidas a los Delegados Especiales, respecto de las personas o entidades adscritas a los Equipos y Grupos Regionales de Recaudación o asignados a funcionarios con competencias de recaudación, cualquiera que sea su ubicación en la Delegación Especial, con excepción de la correspondiente al apartado cuarto 1.7.h) anterior, y sin que sea necesario ningún cambio de adscripción. Con carácter previo a la delegación de competencias, el Delegado Especial deberá proceder a su comunicación al Departamento de Recaudación.
 
 3. Competencias de los titulares de las Administraciones de la Agencia Tributaria y de los Inspectores Coordinadores en materia de recaudación.
 
@@ -141,5 +141,7 @@ Además, cuando las personas o entidades no resulten asignadas a los Equipos y G
 En aquellas Administraciones donde existan, los Inspectores Coordinadores planificarán, dirigirán, supervisarán, coordinarán y controlarán las actuaciones de los Equipos y Grupos Regionales de Recaudación que les sean encomendados por el titular de la Administración dentro de los asignados a la Administración por el titular de la Dependencia Regional de Recaudación.
 
 Los Inspectores Coordinadores ejercerán respecto de las personas o entidades asignadas a los referidos Equipos y Grupos Regionales de Recaudación las competencias reconocidas al titular de la Administración en este apartado con excepción de las identificadas con las letras a) y b).
+
+> Se modifican los epígrafes 1.4, 1.5, 1.6 y 2 por el art. único.3 de la Resolución de 13 de enero de 2021. Ref. BOE-A-2021-588
 
 > Se modifican los apartados 1.7 y 2 por el art. único.2 de la Resolución de 1 de abril de 2016. Ref. BOE-A-2016-3228.
