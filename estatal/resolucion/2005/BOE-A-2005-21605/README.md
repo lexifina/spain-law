@@ -8,34 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2021-01-17 by BOE-A-2021-671. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no](no.md)
-- [preambulo](preambulo.md)
-- [Primero](primero.md)
-- [Segundo](segundo.md)
-- [Tercero](tercero.md)
-- [Cuarto](cuarto.md)
-- [Quinto](quinto.md)
-- [Sexto](sexto.md)
-- [Séptimo](septimo.md)
-- [Octavo](octavo.md)
-- [Disposición adicional primera](daprimera.md)
-- [Disposición adicional segunda](dasegunda.md)
-- [Disposición adicional tercera](datercera.md)
-- [Disposición adicional cuarta](dacuarta.md)
-- [Disposición adicional quinta](daquinta.md)
-- [Disposición adicional sexta](dasexta.md)
-- [Disposición transitoria primera](dtprimera.md)
-- [Disposición transitoria segunda](dtsegunda.md)
-- [Disposición transitoria tercera](dttercera.md)
-- [Disposición derogatoria única](ddunica.md)
-- [Disposición final primera](dfprimera.md)
-- [Disposición final segunda](dfsegunda.md)
-- [Disposición final tercera](dftercera.md)
-- [Disposición final cuarta](dfcuarta.md)
-- [Disposición final quinta](dfquinta.md)
-- [Disposición final sexta](dfsexta.md)
-- [Disposición final séptima](dfseptima.md)
-- [Disposición final octava](dfoctava.md)
-- [firma](firma.md)
+- [BOE publisher notice](no.md)
