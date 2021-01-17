@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 83, de 7 de abril de 2006. Ref. BOE-A-2006-6245.
+Norma derogada, con efectos del 17 de enero de 2021, por la disposición derogatoria única de la Resolución de 13 de enero de 2021. Ref. BOE-A-2021-671#dd
