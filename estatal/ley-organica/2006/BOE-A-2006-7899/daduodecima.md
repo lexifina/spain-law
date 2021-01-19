@@ -16,13 +16,13 @@ Quienes accedan por este procedimiento estarán exentos de la realización de la
 
 No obstante lo dispuesto en el párrafo anterior, los aspirantes seleccionados que estén ocupando, con carácter definitivo en el ámbito de la Administración pública convocante, plazas del cuerpo y especialidad a las que acceden, podrán optar, en las condiciones que se establezcan en las respectivas convocatorias, por permanecer en las mismas.
 
-4. El acceso al cuerpo de Inspectores de educación se realizará mediante concurso-oposición. Los aspirantes deberán contar con una antigüedad mínima de seis años en alguno de los cuerpos que integran la función pública docente y una experiencia docente de igual duración. Las Administraciones educativas convocarán el concurso-oposición correspondiente con sujeción a los siguientes criterios:
+4. El acceso al cuerpo de Inspectores de educación se realizará mediante concurso- oposición. Los aspirantes deberán contar con una antigüedad mínima de ocho años en alguno de los cuerpos que integran la función pública docente y una experiencia docente de igual duración. Las Administraciones educativas convocarán el concurso-oposición correspondiente con sujeción a los siguientes criterios:
 
 a) En la fase de concurso se valorará la trayectoria profesional de los candidatos y sus méritos específicos como docentes, el desempeño de cargos directivos con evaluación positiva y la pertenencia a alguno de los cuerpos de catedráticos a los que se refiere esta Ley.
 
-b) La fase de oposición consistirá en una prueba en la que se valorarán los conocimientos pedagógicos, de administración y legislación educativa de los aspirantes adecuada a la función inspectora que van a realizar, así como los conocimientos y técnicas específicos para el desempeño de la misma.
+b) La fase de oposición consistirá en la valoración de la capacidad de liderazgo pedagógico y la evaluación de las competencias propias de la función inspectora de los aspirantes, así como los conocimientos pedagógicos, de administración y legislación educativa para el desempeño de la misma.
 
-c) En las convocatorias de acceso al cuerpo de inspectores, las Administraciones educativas podrán reservar hasta un tercio de las plazas para la provisión mediante concurso de méritos destinado a los profesores que, reuniendo los requisitos generales, hayan ejercido con evaluación positiva, al menos durante tres mandatos, el cargo de director.
+c) En las convocatorias de acceso al cuerpo de inspectores, las Administraciones educativas podrán reservar hasta un tercio de las plazas para la provisión mediante concurso de méritos destinado al profesorado que, reuniendo los requisitos generales, hayan ejercido con evaluación positiva, al menos durante tres mandatos, el cargo de director o directora.
 
 Los candidatos seleccionados mediante el concurso-oposición deberán realizar para su adecuada preparación un periodo de prácticas de carácter selectivo, al finalizar el cual serán nombrados, en su caso, funcionarios de carrera del cuerpo de Inspectores de educación.
 
@@ -31,3 +31,5 @@ Los candidatos seleccionados mediante el concurso-oposición deberán realizar p
 6. El Gobierno y las Comunidades Autónomas fomentarán convenios con las universidades que faciliten la incorporación, a jornada total o parcial a compartir en este caso con su actividad docente no universitaria, a los Departamentos universitarios de los funcionarios de los cuerpos docentes de niveles correspondientes a las enseñanzas reguladas en esta Ley, en el marco de la disposición adicional vigésima séptima de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades.
 
 7. La Administración del Estado y las Comunidades Autónomas impulsarán el estudio y la implantación, en su caso, de medidas destinadas al desarrollo de la carrera profesional de los funcionarios docentes sin que necesariamente suponga el cambio de cuerpo.
+
+> Se modifica el apartado 4 por el art. único.81 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264#au

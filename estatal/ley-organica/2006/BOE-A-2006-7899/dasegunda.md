@@ -6,6 +6,8 @@ A tal fin, y de conformidad con lo que disponga dicho Acuerdo, se incluirá la r
 
 2. La enseñanza de otras religiones se ajustará a lo dispuesto en los Acuerdos de Cooperación celebrados por el Estado español con la Federación de Entidades Religiosas Evangélicas de España, la Federación de Comunidades Israelitas de España, la Comisión Islámica de España y, en su caso, a los que en el futuro puedan suscribirse con otras confesiones religiosas.
 
-3. La determinación del currículo y de los estándares de aprendizaje evaluables que permitan la comprobación del logro de los objetivos y adquisición de las competencias correspondientes a la asignatura Religión será competencia de las respectivas autoridades religiosas. Las decisiones sobre utilización de libros de texto y materiales didácticos y, en su caso, la supervisión y aprobación de los mismos corresponden a las autoridades religiosas respectivas, de conformidad con lo establecido en los Acuerdos suscritos con el Estado español.
+3. En el marco de la regulación de las enseñanzas de Educación Primaria y Educación Secundaria Obligatoria, se podrá establecer la enseñanza no confesional de cultura de las religiones.
+
+> Se modifica el apartado 3 por el art. único.78 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264#au
 
 > Se modifica por el art. único.91 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886#aunico.

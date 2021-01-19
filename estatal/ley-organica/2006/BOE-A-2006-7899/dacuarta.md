@@ -4,4 +4,6 @@
 
 2. La edición y adopción de los libros de texto y demás materiales no requerirán la previa autorización de la Administración educativa. En todo caso, éstos deberán adaptarse al rigor científico adecuado a las edades de los alumnos y al currículo aprobado por cada Administración educativa. Asimismo, deberán reflejar y fomentar el respeto a los principios, valores, libertades, derechos y deberes constitucionales, así como a los principios y valores recogidos en la presente Ley y en la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, a los que ha de ajustarse toda la actividad educativa.
 
-3. La supervisión de los libros de texto y otros materiales curriculares constituirá parte del proceso ordinario de inspección que ejerce la Administración educativa sobre la totalidad de elementos que integran el proceso de enseñanza y aprendizaje, que debe velar por el respeto a los principios y valores contenidos en la Constitución y a lo dispuesto en la presente Ley.
+3. La supervisión de los libros de texto y otros materiales curriculares es competencia de las administraciones educativas y constituirá parte del proceso ordinario de inspección que ejerce la Administración educativa sobre la totalidad de elementos que integran el proceso de enseñanza y aprendizaje, que debe velar por el respeto a los principios y valores contenidos en la Constitución y a lo dispuesto en la presente ley.
+
+> Se modifica el apartado 3 por el art. único.78 ter de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264#au

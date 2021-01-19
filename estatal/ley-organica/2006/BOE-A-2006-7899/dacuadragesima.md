@@ -1,7 +1,7 @@
-## Disposición adicional cuadragésima. Evaluaciones finales en la enseñanza a distancia de personas adultas.
+## Disposición adicional cuadragésima. Sistema de ayudas y préstamo de libros de texto y otros materiales curriculares.
 
-En los centros educativos públicos o privados autorizados para impartir enseñanza a distancia de personas adultas, las evaluaciones finales para la obtención de títulos oficiales previstos en esta Ley serán realizadas en la forma que se determine por las Administraciones educativas que haya autorizado o a las que esté adscrito dicho centro.
+El Ministerio de Educación y Formación Profesional promoverá, en el seno de la Conferencia Sectorial de Educación, programas que faciliten la disponibilidad de forma gratuita de libros de texto y otros materiales curriculares a través de un sistema de préstamo o de ayudas.
 
-Si el alumno o alumna reside fuera de la localidad en la que el centro autorizado esté ubicado, las evaluaciones externas se podrán realizar fuera de dicha localidad, de acuerdo con lo establecido por convenio de colaboración entre los centros de educación a distancia de personas adultas, o a través de otras formas que garanticen el correcto desarrollo de las pruebas.
+> Se modifica por el art. único.91 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264#au
 
 > Se añade por el art. único.101 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886#aunico.

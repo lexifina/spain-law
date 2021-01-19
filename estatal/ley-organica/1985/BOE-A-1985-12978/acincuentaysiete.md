@@ -6,13 +6,15 @@ a) Intervenir en la designación del director del centro, de acuerdo con lo disp
 
 b) Intervenir en la selección del profesorado del centro, conforme con el artículo 60.
 
-c) Participar en el proceso de admisión de alumnos y alumnas, garantizando la sujeción a las normas sobre el mismo.
+c) Participar en el proceso de admisión del alumnado, garantizando la sujeción a las normas sobre el mismo.
 
-d) Conocer la resolución de conflictos disciplinarios y velar por que se atengan a la normativa vigente. Cuando las medidas disciplinarias adoptadas por el director correspondan a conductas del alumnado que perjudiquen gravemente la convivencia del centro, el Consejo Escolar, a instancia de padres, madres o tutores legales, podrá revisar la decisión adoptada y proponer, en su caso, las medidas oportunas.
+d) Impulsar la adopción y seguimiento de medidas educativas que fomenten el reconocimiento y protección de los derechos de las personas menores de edad.
+
+d bis) Conocer las conductas contrarias a la convivencia en el centro y la aplicación de las medidas correctoras, velando por que se atengan a la normativa vigente. Cuando las medidas disciplinarias adoptadas por el director o directora correspondan a conductas del alumnado que perjudiquen gravemente la convivencia del centro, el Consejo Escolar, a instancia de madres, padres o tutores, podrá valorar la situación y proponer, en su caso, las medidas oportunas.
 
 e) Aprobar el presupuesto del centro en relación con los fondos provenientes de la Administración y con las cantidades autorizadas, así como la rendición anual de cuentas.
 
-f) Informar y evaluar la programación general del centro que, con carácter anual, elaborará el equipo directivo.
+f) Informar y evaluar la programación general del centro que con carácter anual elaborará el equipo directivo.
 
 g) Proponer, en su caso, a la Administración la autorización para establecer percepciones a las familias de los alumnos y alumnas por la realización de actividades escolares complementarias.
 
@@ -28,7 +30,9 @@ l) Informar, a propuesta del titular, el reglamento de régimen interior del cen
 
 m) Participar en la evaluación de la marcha general del centro en los aspectos administrativos y docentes.
 
-n) Proponer medidas e iniciativas que favorezcan la convivencia en el centro, la igualdad entre hombres y mujeres, la igualdad de trato y la no discriminación por las causas a las que se refiere el artículo 84.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, la resolución pacífica de conflictos, y la prevención de la violencia de género.
+n) Proponer medidas e iniciativas que favorezcan la convivencia en el centro, la igualdad de trato y la no discriminación, la igualdad de mujeres y hombres, la prevención de la violencia de género y la resolución pacífica de conflictos en todos los ámbitos de la vida personal, familiar y social.
+
+> Se modifican las letras c), d), f), n) y se añade la letra d bis) por la disposición final 1.10 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264
 
 > Se modifica por la disposición final 2.3 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886.
 

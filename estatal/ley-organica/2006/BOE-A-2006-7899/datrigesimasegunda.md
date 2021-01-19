@@ -1,3 +1,7 @@
-## Disposición adicional trigésima segunda. Nuevas titulaciones de formación profesional.
+## Disposición adicional trigésima segunda. Procedimientos para el reconocimiento y la acreditación de las competencias profesionales.
 
-En el periodo de aplicación de esta Ley el Gobierno, según lo dispuesto en el apartado 6 del artículo 39 de la misma, procederá a establecer las enseñanzas de formación profesional de grado medio y grado superior relacionadas con las artes escénicas.
+El Gobierno impulsará, sin perjuicio de las competencias de las Comunidades Autónomas, los procedimientos de reconocimiento y acreditación de las competencias profesionales adquiridas a través de la experiencia laboral o aprendizajes no formales e informales, de forma que permita a todos los ciudadanos la obtención de una acreditación de sus competencias profesionales. A tal fin las administraciones competentes promoverán un incremento de los procedimientos para el reconocimiento y la agilización y la flexibilización de los procesos. Estos se basarán en los principios de simplicidad, claridad y proximidad a los ciudadanos, eficacia en el cumplimiento de los objetivos fijados, y eficiencia y adecuación de los medios a los fines institucionales.
+
+De acuerdo con la disposición adicional séptima de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, las administraciones competentes promoverán la oferta de programas específicos de formación dirigidos a las personas que, una vez acreditadas determinadas competencias profesionales, quieran completar la formación y titulación que les prepare y facilite su inserción laboral.
+
+> Se modifica por el art. único.84 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264#au

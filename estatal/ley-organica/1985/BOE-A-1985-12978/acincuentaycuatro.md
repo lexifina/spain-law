@@ -8,25 +8,27 @@ b) Consejo Escolar.
 
 c) Claustro de Profesores.
 
-2. Las facultades del director serán:
+2. Las facultades del director o directora serán:
 
 a) Dirigir y coordinar todas las actividades educativas del centro, de acuerdo con las disposiciones vigentes, sin perjuicio de las funciones del Consejo Escolar del centro.
 
-b) Ejercer la jefatura académica del personal docente.
+b) Ejercer la jefatura del personal docente.
 
-c) Convocar y presidir los actos académicos y las reuniones del Claustro del profesorado y del Consejo Escolar.
+c) Convocar y presidir los actos académicos y las reuniones de todos los órganos colegiados del centro.
 
 d) Visar las certificaciones y documentos académicos del centro.
 
 e) Ejecutar los acuerdos de los órganos colegiados en el ámbito de sus facultades.
 
-f) Resolver los asuntos de carácter grave planteados en el centro en materia de disciplina de alumnos y alumnas.
+f) Imponer las medidas correctoras que correspondan a los alumnos y alumnas en cumplimiento de la normativa vigente, sin perjuicio de las competencias atribuidas al consejo escolar
 
-g) Cuantas otras facultades le atribuya el reglamento de régimen interior en el ámbito académico.
+g) Cuantas otras facultades le atribuyan las normas de organización y funcionamiento del centro.
 
 3. Los demás órganos de gobierno, tanto unipersonales como colegiados, se determinarán, en su caso, en el citado reglamento de régimen interior.
 
 4. Las Administraciones educativas podrán disponer que los centros concertados con más de un nivel o etapa financiado con fondos públicos tengan un único Director, Consejo Escolar y Claustro de profesores para todo el centro.
+
+> Se modifica el apartado 2 por la disposición final 1.8 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264
 
 > Se modifica el apartado 2 por la disposición final 2.1 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886.
 

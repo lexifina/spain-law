@@ -1,9 +1,13 @@
-## Disposición adicional trigésima novena. Evaluación final de la asignatura Lengua Cooficial y Literatura.
+## Disposición adicional trigésima novena. Centros dependientes de otras Administraciones públicas.
 
-La asignatura Lengua Cooficial y Literatura deberá ser evaluada en las evaluaciones finales indicadas en los artículos 21, 29 y 36 bis, y se tendrá en cuenta para el cálculo de la nota obtenida en dichas evaluaciones finales en la misma proporción que la asignatura Lengua Castellana y Literatura.
+1. El Gobierno regulará las condiciones de aplicación, en los centros dependientes de otras Administraciones públicas, de lo establecido en la presente Ley y en la Ley Orgánica 8/1985, de 3 de julio, para los órganos de gobierno y participación de los centros públicos.
 
-Corresponde a las Administraciones educativas competentes concretar los criterios de evaluación, los estándares de aprendizaje evaluables y el diseño de las pruebas que se apliquen a esta asignatura, que se realizarán de forma simultánea al resto de las pruebas que componen las evaluaciones finales.
+2. Los centros docentes militares, autorizados por el Ministerio de Educación y Formación Profesional, que dispongan de núcleos de formación profesional que impartan enseñanzas de formación profesional del sistema educativo se regirán por la presente Ley, por la Ley 39/2007, de 19 de noviembre, de la carrera militar, y lo establecido por la normativa específica en lo referente a su denominación, normas internas de organización, funcionamiento, gobierno y autonomía. Asimismo, se establecerán mecanismos de coordinación entre los Ministerios correspondientes, con el objetivo de definir las necesidades y los requisitos precisos, todo ello encaminado al cumplimiento del currículo de los títulos de formación profesional.
 
-Estarán exentos de la realización de estas pruebas los alumnos y alumnas que estén exentos de cursar o de ser evaluados de la asignatura Lengua Cooficial y Literatura, según la normativa autonómica correspondiente.
+3. El Gobierno determinará las condiciones de experiencia y formación pedagógica para que el personal de la Escala de Suboficiales de las Fuerzas Armadas pueda impartir enseñanzas de formación profesional como Profesor Técnico para determinados ciclos formativos relacionados con su especialidad, exclusivamente dentro del ámbito del Ministerio de Defensa en los Centros Docentes Militares.
+
+> Se modifica por el art. único.90 de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264#au
+
+> Redactado el título conforme a la corrección de errores publicada en BOE núm. 46, de 23 de febrero de 2021. Ref. BOE-A-2021-2761
 
 > Se añade por el art. único.100 de la Ley Orgánica 8/2013, de 9 de diciembre. Ref. BOE-A-2013-12886#aunico.

@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Obtención del título de Educación Secundaria Obligatoria al superar la Formación Profesional Básica.
+
+Hasta la implantación de las modificaciones introducidas en esta Ley relativas a la evaluación y titulación de los ciclos formativos básicos el alumnado que obtenga el título Profesional Básico podrá lograr el título de Graduado o Graduada en Educación Secundaria Obligatoria, siempre que haya superado las enseñanzas de los bloques y módulos en los que están organizados estos ciclos y el equipo docente considere que se han alcanzado los objetivos de educación secundaria obligatoria y adquirido las competencias correspondientes.

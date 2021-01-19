@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Extensión de la educación infantil.
+
+En el plazo de un año desde la entrada en vigor de esta Ley, el Gobierno, en colaboración con las Administraciones educativas, elaborará un plan de ocho años de duración para la extensión del primer ciclo de educación infantil de manera que avance hacia una oferta pública suficiente y asequible con equidad y calidad y garantice su carácter educativo. En su progresiva implantación se tenderá a la extensión de su gratuidad, priorizando el acceso del alumnado en situación de riesgo de pobreza y exclusión social y la situación de baja tasa de escolarización.
