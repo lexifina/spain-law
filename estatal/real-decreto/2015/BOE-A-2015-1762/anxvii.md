@@ -6,7 +6,7 @@
 
 a) Contenido de la solicitud de autorización de los sistemas colectivos de responsabilidad ampliada en materia de RAEE.
 
-1.º Identificación de la forma jurídica.
+1.º Identificación de la forma jurídica, de los órganos de gobierno y de sus integrantes, así como presentación de los Estatutos o reglas similares de funcionamiento de la entidad. Esta información se actualizará cuando haya sufrido cambios.
 
 2.º Domicilio social del sistema colectivo.
 
@@ -58,7 +58,7 @@ a) Contenido de la solicitud de autorización de los sistemas colectivos de resp
 
 14.º Identificación de los acuerdos establecidos con otros sistemas de responsabilidad ampliada del productor y de los contenidos de dichos acuerdos relevantes a los efectos de este real decreto.
 
-15.º Identificación de los gestores a las que se asigne las operaciones de recogida y tratamiento de los RAEE, de las plantas o instalaciones que se hagan cargo de los residuos para su tratamiento o descripción de los procesos previstos de contratación y sus condiciones, incluyendo, si existen, cláusulas sociales. Si existe, documento de compromiso suscrito entre la entidad gestora del sistema y las plantas de tratamiento.
+15.º Identificación de los gestores a los que se asigne las operaciones de recogida y tratamiento de los RAEE, de las plantas o instalaciones que se hagan cargo de los residuos para su tratamiento y descripción de los procesos previstos de contratación y sus condiciones, incluyendo, si existen, cláusulas sociales. Se aportará el documento de compromiso suscrito entre el sistema (o entidad administradora si existe) y las plantas de tratamiento.
 
 La solicitud deberá de acompañarse de una declaración de veracidad del representante legal del sistema colectivo de responsabilidad ampliada.
 
@@ -78,7 +78,7 @@ Incumplimiento de las condiciones de la autorización. Se podrán llevar a cabo 
 
 La cuantía de la garantía financiera de cada productor se determinará según la siguiente fórmula:
 
-GF total productor= Σ (O RAEE domésticos (categoría o subcategoría) x CMG RAEE domésticos (categoría o subcategoría))
+F total productor= 0,25 * Σ (O RAEE domésticos (categoría o subcategoría) x CMG RAEE domésticos (categoría o subcategoría))
 
 Donde:
 
@@ -115,3 +115,5 @@ b) Con objeto de estimular el ecodiseño de los AEE y a la prevención de sus re
 8.º Los objetivos de preparación para la reutilización alcanzados por los productores.
 
 9.º Los planes de prevención elaborados por los productores.
+
+> Se modifican los apartados 1.a) y 2 por el art. 2.39 y 40 del Real Decreto 27/2021, de 19 de enero. Ref. BOE-A-2021-796

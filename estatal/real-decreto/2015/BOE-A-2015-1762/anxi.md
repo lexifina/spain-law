@@ -28,7 +28,7 @@ j) N.º de referencia de la etiqueta del RAEE o del contenedor donde se deposita
 
 k) Observaciones e incidencias, por ejemplo sobre el estado de funcionamiento, posibilidad de reutilizar, si está completo, etc.
 
-En el caso de pequeños aparatos y lámparas, esta información individual de entrada no será necesaria, siendo sustituida por la identificación de contenedores específicos para esta fracción.
+En el caso de las fracciones 3, 5 y 6, esta información individual de entrada no será necesaria, siendo sustituida por la identificación de contenedores específicos para estas fracciones.
 
 2. Salida de RAEE en contenedores o jaulas.
 
@@ -90,20 +90,12 @@ d) Códigos LER-RAEE.
 
 e) Identificación del transportista. Referencia de los albaranes o del documento de identificación del traslado si lo hubiera.
 
-f) Destino (datos de la instalación de gestión de residuos). Datos de la Instalación de gestión de residuos:
-
-1.º Dirección y Comunidad Autónoma.
-
-2.º Tipo: CPR, instalación de almacenamiento, instalación de tratamiento específico, etc.
-
-3.º NIMA.
-
-4.º NIF.
-
-5.º N.º de inscripción en el Registro de Producción y Gestión.
+f) Destino (datos de la instalación de gestión de residuos).
 
 g) Información sobre la organización de recogida y gestión (oficina de asignación o gestor contratado por la instalación de recogida).
 
 h) N.º referencia de la recogida por la oficina de asignación.
 
 i) Sistema de responsabilidad ampliada que financia la recogida desde la instalación de recogida.
+
+> Se modifica el apartado a.1 y B.2.f) por el art. 2.35 del Real Decreto 27/2021, de 19 de enero. Ref. BOE-A-2021-796

@@ -2,13 +2,13 @@
 
 ## Categorías y subcategorías de AEE incluidos en el ámbito de aplicación del real decreto a partir del 15 de agosto de 2018
 
-1. Aparatos de intercambio de temperatura con excepción de 1.1, 1.2 y 1.3.
+1. Aparatos de intercambio de temperatura.
 
-1.1 Aparato eléctrico de intercambio de temperatura clorofluorocarburos (CFC), hidroclorofluorocarburos (HCFC), hidrofluorocarburos (HFC), hidrocarburos (HC) o amoníaco (NH3).
+1.1 Aparatos eléctricos de intercambio de temperatura con clorofluorocarburos (CFC), hidroclorofluorocarburos (HCFC), hidrofluorocarburos (HFC), hidrocarburos (HC) o amoníaco (NH3).
 
-1.2 Aparato eléctrico de aire acondicionado.
+1.2 Aparatos eléctricos de aire acondicionado.
 
-1.3 Aparato eléctrico con aceite en circuitos o condensadores.
+1.3 Aparatos eléctricos con aceite en circuitos o condensadores.
 
 2. Monitores, pantallas, y aparatos con pantallas de superficie superior a los 100 cm2.
 
@@ -37,3 +37,5 @@ Están incluidos, entre otros: electrodomésticos, aparatos de consumo, luminari
 7.1 Paneles fotovoltaicos con silicio.
 
 7.2 Paneles fotovoltaicos con teluro de cadmio.
+
+> Se modifica el apartado 1 por el art. 2.31 del Real Decreto 27/2021, de 19 de enero. Ref. BOE-A-2021-796

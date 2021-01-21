@@ -14,7 +14,7 @@
 
 2. Pequeños electrodomésticos.
 
-Aspiradoras, limpimoquetas, otros aparatos de limpieza, aparatos utilizados para coser, hacer punto, tejer y para otros procesos de tratamiento de textiles, radiadores sin aceite, planchas y otros aparatos utilizados para planchar y para dar otro tipo de cuidados a la ropa, tostadoras, freidoras, molinillos, cafeteras y aparatos para abrir o precintar envases o paquetes, cuchillos eléctricos, aparatos para cortar el pelo, para secar el pelo, para cepillarse los dientes, máquinas de afeitar, aparatos de masaje y otros cuidados corporales, relojes y aparatos destinados a medir, indicar o registrar el tiempo, básculas y otros pequeños electrodomésticos.
+Aspiradoras, limpia moquetas, otros aparatos de limpieza, aparatos utilizados para coser, hacer punto, tejer y para otros procesos de tratamiento de textiles, planchas y otros aparatos utilizados para planchar y para dar otro tipo de cuidados a la ropa, tostadoras, freidoras, molinillos, cafeteras y aparatos para abrir o precintar envases o paquetes, cuchillos eléctricos, aparatos para cortar el pelo, para secar el pelo, para cepillarse los dientes, máquinas de afeitar, aparatos de masaje y otros cuidados corporales, relojes y aparatos destinados a medir, indicar o registrar el tiempo, básculas y otros pequeños electrodomésticos.
 
 3. Equipos de informática y telecomunicaciones, excluyendo 4.1.
 
@@ -63,3 +63,5 @@ Detectores de humos, reguladores de calefacción, termostatos, aparatos de medic
 10.1 Máquinas expendedoras con gases refrigerantes: Máquinas expendedoras automáticas de bebidas calientes, máquinas expendedoras automáticas de botellas o latas, frías o calientes.
 
 10.2 Resto de máquinas expendedoras: Máquinas expendedoras automáticas de productos sólidos no refrigeradas, máquinas expendedoras automáticas de dinero, todos los aparatos para suministro automático de toda clase de productos.
+
+> Se modifica el apartado 2 por el art. 2.30 del Real Decreto 27/2021, de 19 de enero. Ref. BOE-A-2021-796

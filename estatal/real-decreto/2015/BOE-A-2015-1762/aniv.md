@@ -24,6 +24,8 @@ Aspiradoras, limpiamoquetas, máquinas de coser, luminarias, hornos microondas, 
 
 6. Aparatos de informática y de telecomunicaciones pequeños (sin ninguna dimensión exterior superior a los 50 cm).
 
-Teléfonos móviles, GPS, calculadoras de bolsillo, ordenadores personales, impresoras, teléfonos.
+Teléfonos móviles, GPS, calculadoras de bolsillo, ordenadores personales, impresoras, teléfonos, routers.
 
 7. Paneles fotovoltaicos grandes (con una dimensión exterior superior a 50 cm).
+
+> Se modifica el apartado 6 por el art. 2.32 del Real Decreto 27/2021, de 19 de enero. Ref. BOE-A-2021-796

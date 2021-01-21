@@ -6,7 +6,7 @@ A. Condiciones generales de recogida y transporte de RAEE
 
 Las condiciones de recogida y transporte permitirán la preparación para la reutilización de los RAEE y sus componentes y deberán evitar su rotura, exceso de apilamiento, la emisión de sustancias o pérdida de materiales y el vertido de aceites y líquidos.
 
-Las fracciones de recogida que contengan exclusivamente residuos de los grupos de tratamiento 23, 32, 42, 52 y 71 del anexo VIII se considerarán fracciones de residuos no peligrosos.
+Las fracciones de recogida que contengan exclusivamente residuos de los grupos de tratamiento 23, 32, 42, 52, 62 y 71 del anexo VIII se considerarán fracciones de residuos no peligrosos.
 
 B. Condiciones específicas de recogida y transporte
 
@@ -45,3 +45,5 @@ En la recogida de estos aparatos se tomarán las medidas oportunas, especialment
 b) Condiciones de transporte.
 
 Durante el transporte de estos aparatos se tomarán las medidas oportunas para evitar que se golpeen y puedan sufrir roturas en el circuito de refrigeración de manera que se evite la emisión de gases a la atmósfera, materiales pulverulentos o vertidos de aceite. Estas medidas podrán ser, entre otras, la protección de los equipos con materiales que absorban impactos o sistemas de sujeción que eviten que los equipos se muevan durante el traslado.
+
+> Se modifica el segundo párrafo de la parte A por el art. 2.33 del Real Decreto 27/2021, de 19 de enero. Ref. BOE-A-2021-796

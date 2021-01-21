@@ -28,7 +28,7 @@ b) Datos de recogida separada en cada Comunidad Autónoma y a nivel estatal.
 
 Se indicará en todos los casos, el NIF de la entidad o establecimiento que realiza la recogida o NIMA y su n.º de inscripción en el Registro de Producción y Gestión.
 
-2.º El índice de recogida alcanzado en el año por el sistema, en cada Comunidad Autónoma y a nivel estatal, en total, por categorías y subcategorías y fracciones de recogida.
+2.º Grado de cumplimiento de los objetivos de recogida alcanzado en el año por el sistema, en cada Comunidad Autónoma y a nivel estatal, en total, por categorías y subcategorías y fracciones de recogida.
 
 c) Datos de prevención, preparación para la reutilización, reciclaje y valorización de RAEE.
 
@@ -42,7 +42,7 @@ c) Datos de prevención, preparación para la reutilización, reciclaje y valori
 
 5.º Información sobre las Comunidades Autónomas de origen (recogida) y destino (tratamiento) de la recogida y gestión de RAEE.
 
-6.º Índices de recogida, preparación para la reutilización, reciclado y valorización, por Comunidad Autónoma y a nivel estatal alcanzados.
+6.º Objetivos alcanzados de preparación para la reutilización, reciclado y valorización, por comunidad autónoma y a nivel estatal.
 
 7.º El porcentaje de cumplimiento respecto a sus objetivos de valorización, por Comunidad Autónoma y a nivel estatal.
 
@@ -83,3 +83,5 @@ El informe anual deberá incluir, como mínimo:
 6.º Previsiones de ingresos y gastos del año siguiente al del periodo de cumplimiento.
 
 Tanto en la estimación de cuotas como en las previsiones de gastos, se asegurará la financiación de la gestión de todos los RAEE generados que le correspondan al sistema en función de la cuota de mercado de sus productores.
+
+> Se modifican los apartados b)2º y c)6º por el art. 2.41 del Real Decreto 27/2021, de 19 de enero. Ref. BOE-A-2021-796
