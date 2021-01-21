@@ -8,7 +8,7 @@ Parque Nacional de Doñana. Provincia de Huelva.
 
 Parque Natural de Doñana y Cantaritas y Beta Adaliz. Provincias de Huelva y de Sevilla.
 
-Parque Natural de la bahía de Cádiz. Provincia de Cádiz.
+Parque Natural de la Bahía de Cádiz. Provincia de Cádiz.
 
 Marismas del Odiel. Provincia de Huelva.
 
@@ -44,6 +44,10 @@ Laguna de la Nava de Fuentes. Provincia de Palencia.
 
 Reserva natural de las Lagunas de Villafáfila. Provincia de Zamora.
 
+Embalse del Ebro. Provincia de Burgos.
+
+Azud de Riolobos. Provincia de Salamanca.
+
 Comunidad Autónoma de Cataluña
 
 Delta del Ebro. Provincia de Tarragona.
@@ -52,7 +56,7 @@ Aiguamolls de l’Empordá. Provincia de Gerona.
 
 Delta del Llobregat. Provincia de Barcelona.
 
-Comunitat Valenciana
+Comunidad Valenciana
 
 Albufera de Valencia. Provincia de Valencia.
 
@@ -82,7 +86,7 @@ Comunidad Autónoma de Galicia
 
 Complejo Intermareal de Umia-O Grove-La Lanzada-Punta Carreirón-Laguna Bodeira. Provincia de Pontevedra.
 
-Comunidad Autónoma de la Región Murcia
+Comunidad Autónoma de la Región de Murcia
 
 Salinas de San Pedro del Pinatar.
 
@@ -99,6 +103,34 @@ Balsas de Salburúa. Provincia de Álava.
 Embalse de Zadorra. Provincia de Álava.
 
 Embalse de Santa Engracia. Provincia de Álava.
+
+Comunidad Foral de Navarra
+
+Laguna de Pitillas.
+
+Embalse de las Cañas o el Salobre.
+
+Balsa de Agua Salada.
+
+Balsa del Pulguer.
+
+Balsa de Cardete.
+
+Balsas de Loza e Iza.
+
+Laguna de Lor.
+
+Laguna de Dos Reinos.
+
+Laguna del Juncal.
+
+Balsa de Zolina.
+
+Arguedas Arrozales.
+
+Badina Escudera.
+
+> Se modifica por el art. único.3 de la Orden APA/19/2021, de 18 de enero. Ref. BOE-A-2021-795
 
 > Se modifica por el art. único.1 de la Orden APM/233/2017, de 7 de marzo. Ref. BOE-A-2017-2865.
 
