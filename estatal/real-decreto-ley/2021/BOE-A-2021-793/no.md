@@ -1,0 +1,1 @@
+El presente Real Decreto-ley se entiende tácitamente sustituido por la Ley 4/2022, de 25 de febrero, de protección de los consumidores y usuarios frente a situaciones de vulnerabilidad social y económica. Ref. BOE-A-2022-3198
