@@ -44,7 +44,7 @@
 | Dasyatis pastinaca. | Chucho. | JDP |
 | Dentex gibbosus. | Sama de plumas. | DEP |
 | Dentex macrophthalmus. | Cachucho. | DEL |
-| Dicentrarchus labrax. | Lubina, robalo. | BSS |
+| Dicentrarchus labrax (salvo en la zona recogida en el anexo IV.2 b) de la Orden AAA/2534/2015, de 17 de noviembre, por la que se establece un plan de gestión para los buques de los censos del caladero nacional del Cantábrico y Noroeste). | Lubina, robalo. | BSS |
 | Dicentrarchus punctatus. | Baila. | SPU |
 | Dicoglossa cuneata. | Acedia. | CET |
 | Diplodus spp. | Sargo, mojarra.. | SRG |
@@ -177,3 +177,5 @@
 | Todaropsis eblanae. | Pota costera. | TDQ |
 
 * Especies sometidas a medidas de protección diferenciada sujetos a las prescripciones técnicas y limitaciones reguladas en su normativa específica.
+
+> Se modifica por el art. 5 de la Orden APA/21/2021, de 19 de enero. Ref. BOE-A-2021-838
