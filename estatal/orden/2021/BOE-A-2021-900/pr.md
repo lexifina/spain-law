@@ -1,0 +1,13 @@
+La Deuda del Estado es el conjunto de capitales tomados a préstamo por el Estado mediante emisión pública, concertación de operaciones de crédito, subrogación en la posición deudora de un tercero o, en general, mediante cualquier otra operación financiera del Estado, con destino a financiar los gastos del Estado o a constituir posiciones activas de tesorería.
+
+La Ley 47/2003, de 26 de noviembre, General Presupuestaria, establece en su artículo 94 que la creación de Deuda del Estado habrá de ser autorizada por ley y en su artículo 98 que corresponde a la persona titular del Ministerio de Asuntos Económicos y Transformación Digital, de acuerdo con la actual estructura departamental, autorizar la formalización de las operaciones relativas a la Deuda.
+
+Por su parte, el artículo 46 de la Ley 11/2020, de 30 de diciembre, de Presupuestos Generales del Estado para el año 2021, autoriza a la persona titular del Ministerio de Asuntos Económicos y Transformación Digital, para que incremente la Deuda del Estado, con la limitación de que el saldo vivo de la misma en términos efectivos a 31 de diciembre del año 2021 no supere el correspondiente saldo a 1 de enero de 2021 en más de 132.047.108,55 miles de euros. Este límite será efectivo al término del ejercicio, pudiendo ser sobrepasado en el curso del mismo, y quedará automáticamente revisado en virtud de los supuestos establecidos en el artículo 46.2.
+
+Esta orden incorpora el contenido fundamental de la Orden ETD/9/2020, de 16 de enero, por la que se dispone la creación de Deuda del Estado durante el año 2020 y enero de 2021 y, al igual que esta, mantiene en vigor el contenido de las Cláusulas de Acción Colectiva normalizadas, recogidas en el anexo de la Orden ECC/1/2014, de 2 de enero, por la que se dispone la creación de Deuda del Estado durante el año 2014 y enero de 2015 y se recogen las Cláusulas de Acción Colectiva normalizadas.
+
+Por otra parte, se modifica el artículo 12.1 de la Orden, con el objeto de diferenciar el contenido de los documentos que deben elaborarse a lo largo del procedimiento de la subasta, de tal forma que el acta recogerá el desarrollo de la subasta y la resolución del titular de la Dirección General del Tesoro y Política Financiera recogerá el resultado de la misma.
+
+Finalmente, esta orden ministerial se adapta a los principios de buena regulación establecidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+En su virtud, y con el fin de instrumentar la financiación mediante Deuda del Estado durante el año 2021 y enero de 2022, dispongo:
