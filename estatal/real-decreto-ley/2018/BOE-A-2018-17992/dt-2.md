@@ -19,3 +19,5 @@ En el año 2020, el tipo de cotización será el 0,8 por ciento.
 En el año 2021 el tipo de cotización será el 0,9 por ciento.
 
 A partir del año 2022, el tipo de cotización será el que se establezca con carácter definitivo para ambos regímenes especiales en la respectiva Ley de Presupuestos Generales del Estado.
+
+> Se suspende, con efectos desde el 1 de febrero de 2021 y mientras no se lleve a cabo la subida del salario mínimo interprofesional para el año 2021, la aplicación de este precepto, siendo los tipos de cotización aplicables, los vigentes a 31 de diciembre de 2020, según se establece en la disposición transitoria 4 del Real Decreto-ley 2/2021, de 26 de enero. Ref. BOE-A-2021-1130#dt-4

@@ -4,7 +4,9 @@ Este real decreto-ley entrará en vigor el mismo día de su publicación en el "
 
 Los artículos 2 y 5 mantendrán su vigencia hasta el 30 de junio de 2020.
 
-> Téngase en cuenta que los artículos 2 y 5 permanecerán vigentes hasta el 31 de enero de 2021, según establece el art. 6 del Real Decreto-ley 30/2020, de 29 de septiembre. Ref. BOE-A-2020-11416#a6
+> Téngase en cuenta que los artículos 2 y 5 permanecerán vigentes hasta el 31 de mayo de 2021, según establece el art. 3.6 del Real Decreto-ley 2/2021, de 26 de enero. Ref. BOE-A-2021-1130#a3
+
+> Se prorroga hasta el 31 de mayo de 2021, la vigencia de los arts. 2 y 5 por el art. 3.6 del Real Decreto-ley 2/2021, de 26 de enero. Ref. BOE-A-2021-1130#a3
 
 > Se prorroga hasta el 31 de enero de 2021 la vigencia de los arts. 2 y 5 por el art. 6 del Real Decreto-ley 30/2020, de 29 de septiembre. Ref. BOE-A-2020-11416#a6
 

@@ -18,4 +18,4 @@ En este caso, la exoneración se aplicará al abono de la aportación empresaria
 
 4. Cuando las empresas y entidades a las que se refieren los apartados anteriores reinicien su actividad, les serán de aplicación desde dicho momento, y hasta el 30 de septiembre de 2020, las medidas reguladas en el artículo 4.1 del presente real decreto-ley.
 
-> Téngase en cuenta, respecto a los expedientes de regulación temporal de empleo autorizados en base a lo dispuesto en el apartado 2, lo establecido en la disposición transitoria única del Real Decreto-ley 30/2020, de 29 de septiembre. Ref. BOE-A-2020-11416#dt
+> Téngase en cuenta, respecto a la prórroga hasta el 31 de mayo de 2021 de los expedientes de regulación temporal de empleo autorizados en base a lo dispuesto en el apartado 2 y respecto a los porcentajes de exoneración, del 1 de febrero al 31 de mayo de 2021, lo establecido en el art. 1.2 del Real Decreto-ley 2/2021, de 26 de enero. Ref. BOE-A-2021-1130#a1

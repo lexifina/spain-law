@@ -32,11 +32,11 @@ El derecho establecido en el párrafo anterior también alcanzará a aquellos tr
 
 4. Los trabajadores que, reuniendo todos los requisitos para obtener el reconocimiento del derecho a la pensión de jubilación en la fecha de entrada en vigor de la Ley 24/1997, de 15 de julio, de Consolidación y Racionalización del Sistema de Seguridad Social, no lo hubieran ejercitado, podrán optar por acogerse a la legislación anterior para obtener la pensión en las condiciones y cuantía a que hubiesen tenido derecho el día anterior al de entrada en vigor de dicha ley.
 
-5. Se seguirá aplicando la regulación de la pensión de jubilación, en sus diferentes modalidades, requisitos de acceso, condiciones y reglas de determinación de prestaciones, vigentes antes de la entrada en vigor de la Ley 27/2011, de 1 de agosto, de actualización adecuación y modernización del sistema de la Seguridad Social, a las pensiones de jubilación que se causen antes de 1 de enero de 2021, en los siguientes supuestos:
+5. Con efectos 1 de enero de 2021, se seguirá aplicando la regulación de la pensión de jubilación, en sus diferentes modalidades, requisitos de acceso, condiciones y reglas de determinación de prestaciones, vigentes antes de la entrada en vigor de la Ley 27/2011, de 1 de agosto, de actualización adecuación y modernización del sistema de la Seguridad Social, a las pensiones de jubilación que se causen antes de 1 de enero de 2022, en los siguientes supuestos:
 
 a) Las personas cuya relación laboral se haya extinguido antes de 1 de abril de 2013, siempre que con posterioridad a tal fecha no vuelvan a quedar incluidas en alguno de los regímenes del sistema de la Seguridad Social.
 
-b) Las personas con relación laboral suspendida o extinguida como consecuencia de decisiones adoptadas en expedientes de regulación de empleo, o por medio de convenios colectivos de cualquier ámbito, acuerdos colectivos de empresa, así como por decisiones adoptadas en procedimientos concursales, aprobados, suscritos o declarados con anterioridad a 1 de abril de 2013, siempre que la extinción o suspensión de la relación laboral se produzca con anterioridad a 1 de enero de 2021.
+b) Las personas con relación laboral suspendida o extinguida como consecuencia de decisiones adoptadas en expedientes de regulación de empleo, o por medio de convenios colectivos de cualquier ámbito, acuerdos colectivos de empresa, así como por decisiones adoptadas en procedimientos concursales, aprobados, suscritos o declarados con anterioridad a 1 de abril de 2013, siempre que la extinción o suspensión de la relación laboral se produzca con anterioridad a 1 de enero de 2022.
 
 Será condición indispensable que los indicados acuerdos colectivos de empresa se encuentren debidamente registrados en el Instituto Nacional de la Seguridad Social o en el Instituto Social de la Marina, en su caso, en el plazo que reglamentariamente se determine.
 
@@ -57,6 +57,8 @@ e) Que exista una correspondencia entre las bases de cotización del trabajador 
 f) Que se acredite un período de cotización de treinta y tres años en la fecha del hecho causante de la jubilación parcial, sin que a estos efectos se tenga en cuenta la parte proporcional correspondiente por pagas extraordinarias. A estos exclusivos efectos, solo se computará el período de prestación del servicio militar obligatorio o de la prestación social sustitutoria, con el límite máximo de un año.
 
 En el supuesto de personas con discapacidad en grado igual o superior al 33 por ciento, el período de cotización exigido será de veinticinco años.
+
+> Se modifica el apartado 5 por la disposición final 5.9 del Real Decreto-ley 2/2021, de 26 de enero. Ref. BOE-A-2021-1130#df-5
 
 > Se modifica el apartado 5 por la disposición final 1 del Real Decreto-ley 18/2019, de 27 de diciembre. Ref. BOE-A-2019-18611#df
 

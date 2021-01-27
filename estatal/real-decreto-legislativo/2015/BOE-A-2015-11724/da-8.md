@@ -1,0 +1,7 @@
+## Disposición adicional trigésima cuarta. Habilitación a los autorizados del Sistema RED.
+
+Conforme a lo previsto en el artículo 131 de esta ley, los autorizados para actuar a través del Sistema de remisión electrónica de datos en el ámbito de la Seguridad Social (Sistema RED) estarán habilitados para efectuar por medios electrónicos las solicitudes y demás trámites relativos a la afiliación de los trabajadores, a los aplazamientos en el pago de deudas, a las moratorias en el pago de cotizaciones y a las devoluciones de ingresos indebidos con la Seguridad Social correspondientes a los sujetos responsables del cumplimiento de la obligación de cotizar en cuyo nombre actúen.
+
+Los autorizados a los que se refiere esta disposición también podrán facilitar a la Administración de la Seguridad Social, a través del Sistema RED y previo consentimiento de los interesados, el teléfono móvil de los trabajadores o asimilados a ellos que causen alta en cualquiera de los regímenes del sistema de la Seguridad Social. En tal consentimiento deberá incluirse de manera expresa la autorización para el uso del teléfono móvil como medio de identificación fehaciente de aquellos, así como la aceptación por su parte del envío de comunicaciones y avisos por la Administración de la Seguridad Social.
+
+> Se añade por la disposición final 5.7 del Real Decreto-ley 2/2021, de 26 de enero. Ref. BOE-A-2021-1130#df-5

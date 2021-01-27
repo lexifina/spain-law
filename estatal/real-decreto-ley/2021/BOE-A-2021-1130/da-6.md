@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Comisión de seguimiento de las medidas de apoyo para la recuperación de la actividad de los trabajadores autónomos en el ámbito de la Seguridad Social.
+
+Se encomienda a la comisión de seguimiento de las medidas de apoyo para la recuperación de la actividad de los trabajadores autónomos en el ámbito de la Seguridad Social creada al amparo de lo dispuesto en la disposición adicional sexta del Real Decreto-ley 24/2020, de 26 de junio, de medidas sociales de reactivación del empleo y protección del trabajo autónomo y de competitividad del sector industrial, el seguimiento y evaluación de las medidas establecidas en los artículos 5, 6, 7 y 8 así como en la disposición transitoria segunda de esta norma.

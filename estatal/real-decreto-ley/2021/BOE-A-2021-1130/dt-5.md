@@ -1,0 +1,7 @@
+## Disposición transitoria quinta. Solicitudes de prestaciones y subsidios formuladas o resueltas favorablemente al amparo de los artículos 2, 3 y 4 del Real Decreto-ley 32/2020, de 3 de noviembre, por el que se aprueban medidas sociales complementarias para la protección por desempleo y de apoyo al sector cultural.
+
+1. Las solicitudes de prestaciones y subsidios formuladas al amparo de lo dispuesto en los artículos 2, 3 y 4 del Real Decreto-ley 32/2020, de 3 de noviembre, por el que se aprueban medidas sociales complementarias para la protección por desempleo y de apoyo al sector cultural, que se encuentren pendientes de resolución a la entrada en vigor de este real decreto-ley, se resolverán de acuerdo con lo establecido en este.
+
+2. En el caso de que las solicitudes ya hubieran sido resueltas favorablemente a la entrada en vigor de este real decreto-ley, sin que se hubiera agotado la prestación o el subsidio, se reconocerá de oficio la ampliación de su duración con arreglo a lo previsto en el mismo.
+
+3. Los beneficiarios que hubieran agotado las prestaciones o subsidio reconocidos al amparo de los artículos 2, 3 y 4 del Real Decreto-ley 32/2020, de 3 de noviembre, a la fecha de entrada en vigor de este real decreto-ley, podrán presentar nueva solicitud, para el reconocimiento de su derecho por el periodo previsto en el mismo.
