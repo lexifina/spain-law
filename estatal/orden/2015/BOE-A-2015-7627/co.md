@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en el BOE núm. 169, 16 de julio de 2015. Ref. BOE-A-2015-7956.
+Norma derogada exclusivamente respecto al ámbito de competencias del Ministerio de Inclusión, Seguridad Social y Migraciones, desde el 28 de enero de 2021, por la disposición derogatoria única.2 de la Orden ISM/45/2021, de 21 de enero. Ref. BOE-A-2021-1136
