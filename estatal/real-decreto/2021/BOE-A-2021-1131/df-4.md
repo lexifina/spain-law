@@ -1,0 +1,9 @@
+## Disposición final cuarta. Modificación del Real Decreto 1078/2014, de 19 de diciembre, por el que se establecen las normas de la condicionalidad que deben cumplir los beneficiarios que reciban pagos directos, determinadas primas anuales de desarrollo rural, o pagos en virtud de determinados programas de apoyo al sector vitivinícola.
+
+En el apartado 3 del anexo II sobre Buenas Condiciones Agrarias y Medioambientales de la tierra (BCAM) del Real Decreto 1078/2014, de 19 de diciembre, por el que se establecen las normas de la condicionalidad que deben cumplir los beneficiarios que reciban pagos directos, determinadas primas anuales de desarrollo rural, o pagos en virtud de determinados programas de apoyo al sector vitivinícola, los dos últimos párrafos de la BCAM 7 se substituyen por el siguiente contenido:
+
+«No obstante lo anterior, queda prohibido cortar tanto setos como árboles durante la temporada de cría y reproducción de las aves, salvo autorización expresa de la autoridad medioambiental. Se tomará como referencia el periodo comprendido entre los meses de marzo a julio, pudiendo este ser modificado de forma justificada por las comunidades autónomas.
+
+Asimismo, se prohíbe la recolección mecánica nocturna en los cultivos permanentes que presenten plantaciones intensivas en seto de porte alto, denso follaje y en los que se produzca la anidación o pernoctación de aves, con objeto de proteger a las aves durante la época de cría y reproducción, en las fechas que establezcan las comunidades autónomas.
+
+Se exceptúan de la obligación establecida en el primer párrafo, la construcción de paradas para corrección de ramblas, regueros y bancales, así como las operaciones de refinado de tierras que se realicen en aquellas parcelas que se vayan a dedicar al cultivo del arroz y otros de regadío.»

@@ -1,5 +1,7 @@
 > Información relacionada
 
+> Téngase en cuenta, en relación con los pagos directos y regímenes de ayuda en los años 2021 y 2022, el art. 2 del Real Decreto 41/2021, de 26 de enero. Ref. BOE-A-2021-1131
+
 > Las referencias contenidas en el presente Real Decreto a la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, se entenderán también hechas al Reglamento (UE) 2016/679 del Parlamento europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos), según establece la disposición final 2 del Real Decreto 1378/2018, de 8 de noviembre. Ref. BOE-A-2018-15349
 
 > Téngase en cuenta que la Ley Orgánica 15/1999, de 13 de diciembre, ha sido derogada, con efectos de 7 de diciembre de 2018, por la disposición derogatoria única.1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, sin perjuicio de lo previsto en las disposiciones adicional 14 y transitoria 4 de la citada Ley. Ref. BOE-A-2018-16673

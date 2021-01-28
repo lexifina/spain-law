@@ -16,13 +16,13 @@
 
 2. Códigos de agregado y zona.
 
-3. Polígono (3 posiciones): Se codificará con números del rango de los 900.
+3. Polígono (3 posiciones): se codificará con números del rango de los 900.
 
-4. Parcela (5 posiciones): Se codificará con números del rango de los 99000.
+4. Parcela (5 posiciones): se codificará con números del rango de los 99000.
 
-5. Recinto (5 posiciones): Se codificará con números del rango de los 99000.
+5. Recinto (5 posiciones): se codificará con números del rango de los 99000.
 
-– Recintos reales asociados que forman parte, de los pastos declarados en común (superficie bruta). Si de cara a la caché de campaña hay cambios de admisibilidad en los recintos, la comunidad autónoma lo comunicará a la autoridad gestora.
+– Recintos reales asociados que forman parte, de los pastos declarados en común (superficie bruta). La comunidad autónoma comunicará a la autoridad gestora la información más actualizada disponible en el SIGPAC al inicio de cada campaña, sin perjuicio de la responsabilidad de la autoridad gestora y los solicitantes de los pastos declarados en común respecto a la veracidad de la declaración.
 
 – Delimitación gráfica de la superficie de los pastos utilizada en común dentro de los recintos reales mencionados en el párrafo anterior.
 
@@ -43,5 +43,7 @@ b) En el caso de declarar recintos con otras referencias oficiales:
 – Datos generales de la autoridad Gestora del pasto declarado en común, que deberá coincidir con el identificativo a que hace referencia en el punto anterior de la declaración de la autoridad gestora.
 
 – Código identificativo del recinto o recintos con otras referencias oficiales correspondientes al pasto declarado en común que desea declarar y que ha sido definido previamente por la autoridad gestora. Debe coincidir con el código a que hace referencia el punto anterior de la declaración de la autoridad gestora.
+
+> Se modifica el apartado 2, por la disposición final 1.24 del Real Decreto 41/2021, de 26 de enero. Ref. BOE-A-2021-1131
 
 > Se modifica por el art. 1.29 del Real Decreto 1378/2018, de 8 de noviembre. Ref. BOE-A-2018-15349

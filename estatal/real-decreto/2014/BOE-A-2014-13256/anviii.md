@@ -12,12 +12,6 @@ A los efectos de la solicitud, dicha superficie deberá ser declarada como super
 
 Asimismo, todas las superficies de barbecho que pretendan computarse como de interés ecológico, no deberán haber estado precedidas en la campaña anterior por ningún cultivo fijador de nitrógeno de los incluidos en el listado del apartado II de este anexo, con independencia de que dicho cultivo hubiera computado o no como superficie de interés ecológico en el año anterior.
 
-> Téngase en cuenta que esta última actualización del último párrafo del apartado I.A) del apartado III, establecida por el art. 1.10 del Real Decreto 628/2019, de 31 de octubre, Ref. BOE-A-2019-15681, produce efectos desde el 1 de enero de 2020, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "Asimismo, todas las superficies de barbecho que pretendan computarse como de interés ecológico, no deberán haber estado precedidas por ningún cultivo fijador de nitrógeno de los incluidos en el listado del apartado siguiente."
-
 B) Disposiciones específicas para las tierras en barbecho para plantas melíferas. Para que las tierras sean consideradas «barbecho para plantas melíferas», y por consiguiente superficies de interés ecológico, deberán ser sembradas de una mezcla de especies melíferas elegibles, que representen un mínimo de 4 familias diferentes, y que sean predominantes en dichas superficies.
 
 En ningún caso, la mezcla de especies implantadas deberá cosecharse, ni constituir una producción que pueda dar lugar a ello.
@@ -76,6 +70,8 @@ Se considerarán superficies de interés ecológico las dedicadas al cultivo de 
 
 – crotalaria (Crotalaria juncea L.)
 
+– cuernecillo (Lotus Corniculatus L.)
+
 Se admitirán, asimismo, mezclas de estos cultivos con otros que no tengan capacidad de fijar nitrógeno, siempre que el cultivo fijador de nitrógeno sea predominante en la mezcla.
 
 En todas las superficies de cultivos fijadores de nitrógeno que pretendan computar como superficies de interés ecológico queda prohibido el empleo de cualquier tipo de producto fitosanitario.
@@ -87,6 +83,8 @@ Al objeto de evitar el riesgo de lixiviación del nitrógeno fijado por estos cu
 III. Superficies con Miscanthus y Silphium perfoliatum
 
 En las superficies de Miscanthus y Silphium perfoliatum, que pretendan computar como superficies de interés ecológico no se podrán utilizar ni fertilizantes minerales ni productos fitosanitarios.
+
+> Se modifica el apartado II, por la disposición final 1.22 del Real Decreto 41/2021, de 26 de enero. Ref. BOE-A-2021-1131
 
 > Se modifica el último párrafo del apartado I.A) del apartado III por el art. 1.10 del Real Decreto 628/2019, de 31 de octubre, Ref. BOE-A-2019-15681
 

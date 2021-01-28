@@ -104,7 +104,13 @@ No obstante, teniendo en cuenta que los elementos del paisaje protegidos formar�
 
 No obstante lo anterior, queda prohibido cortar tanto setos como árboles durante la temporada de cría y reproducción de las aves, salvo autorización expresa de la autoridad medioambiental. Se tomará como referencia el periodo comprendido entre los meses de marzo a julio, pudiendo este ser modificado de forma justificada por las comunidades autónomas.
 
+Asimismo, se prohíbe la recolección mecánica nocturna en los cultivos permanentes que presenten plantaciones intensivas en seto de porte alto, denso follaje y en los que se produzca la anidación o pernoctación de aves, con objeto de proteger a las aves durante la época de cría y reproducción, en las fechas que establezcan las comunidades autónomas.
+
 Se exceptúan de la obligación establecida en el primer párrafo, la construcción de paradas para corrección de ramblas, regueros y bancales, así como las operaciones de refinado de tierras que se realicen en aquellas parcelas que se vayan a dedicar al cultivo del arroz y otros de regadío.
+
+> Se modifica el apartado 3 por la disposición final 4 del Real Decreto 41/2021, de 26 de enero. Ref. BOE-A-2021-1131
+
+> Téngase en cuenta, en relación con el ámbito de aplicación, el art. 1 del citado Real Decreto.
 
 > Se modifica el penúltimo párrafo de la BCAM 6 por el art. 3 del Real Decreto 1378/2018, de 8 de noviembre. Ref. BOE-A-2018-15349
 

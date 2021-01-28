@@ -46,15 +46,9 @@ I. Información general
 
 20. Declaración expresa de que conoce que todos los datos consignados en la solicitud única de ayudas, así como los que se recogen de otras Administraciones públicas para la cumplimentación de la solicitud, pueden ser tratados con fines estadísticos por la Autoridad competente, cumpliendo las medidas de confidencialidad conforme al artículo 103 del Reglamento (UE) núm. 1306/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, de cara a estudios y trabajos en el marco del seguimiento de la PAC.
 
-21. De conformidad con el artículo 95.2, y a efectos de lo dispuesto en el artículo 92.2, declaración expresa para que la autoridad competente en la gestión de la solicitud única en cada comunidad autónoma, pueda acceder a la información contenida en los registros oficiales con relación a las parcelas agrícolas de la explotación, su régimen de tenencia, actividad agraria ejercida sobre las mismas y cualesquiera otros datos de las parcelas y de las actividades agrarias en ellas desarrolladas necesarios para determinar la admisibilidad de las ayudas solicitadas.
+21. Todos los datos consignados en la solicitud única de ayudas, así como los que se recogen de otras Administraciones públicas para la cumplimentación de la solicitud y en la tramitación de la misma, podrán ser publicados por la autoridad competente, cumpliendo las medidas de protección de datos conforme al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos.
 
-> Téngase en cuenta que esta última actualización de los puntos 1 y 14 del apartado I y los puntos 20 y 21, añadidos por el art. 1.9 del Real Decreto 628/2019, de 31 de octubre, Ref. BOE-A-2019-15681, produce efectos desde el 1 de enero de 2020, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "1. La identificación del agricultor: NIF, apellidos y nombre del agricultor y, si procede, de su cónyuge y régimen matrimonial, en su caso, o razón social, fecha de nacimiento si procede, domicilio (tipo de vía y su número, código postal, municipio y provincia), teléfono y apellidos y nombre del representante legal en su caso, con su NIF. En caso de persona física, indicación de la si la titularidad de la explotación es compartida mediante la inscripción en el registro previo correspondiente. Si procede, la comprobación de los datos relativos a la identidad se realizará de oficio por el órgano instructor, si así se autoriza por el solicitante. En caso de no presentar dicha autorización, el solicitante deberá aportar el correspondiente documento."
-
-> "14. En el caso de las sociedades, estas deberán declarar el nombre, NIF y fecha de nacimiento, si procede, de los socios participantes indicando el tanto por ciento de su participación en el capital social."
+22. De conformidad con el artículo 95.2, y a efectos de lo dispuesto en el artículo 92.2, declaración expresa para que la autoridad competente en la gestión de la solicitud única en cada comunidad autónoma, pueda acceder a la información contenida en los registros oficiales con relación a las parcelas agrícolas de la explotación, su régimen de tenencia, actividad agraria ejercida sobre las mismas y cualesquiera otros datos de las parcelas y de las actividades agrarias en ellas desarrolladas necesarios para determinar la admisibilidad de las ayudas solicitadas.
 
 II. Declaración expresa de lo que solicita
 
@@ -72,7 +66,7 @@ Deberán declararse todas las parcelas agrícolas de la explotación, indicándo
 
 3. Los regímenes para los que se solicita la ayuda.
 
-4. La utilización de las parcelas, indicándose en todo caso el producto cultivado, los pastos permanentes, otras superficies forrajeras, el barbecho y tipo del mismo, los cultivos permanentes, las superficies plantadas con plantas forestales de ciclo corto, etc. En el caso de los recintos de pastos, se indicará si las parcelas van a ser objeto de producción con pastoreo, siega o mantenimiento mediante otras técnicas. En el caso de las tierras de cultivo, se podrá declarar más de un producto por campaña y parcela, indicando siempre el cultivo declarado a efectos de la diversificación y, si procede, otro cultivo, tal y como quedan definidos en las letras c) y d) del apartado 1 del artículo 89. El solicitante declarará de forma expresa que los cultivos y aprovechamientos, así como las actividades de mantenimiento declaradas son veraces y constituyen un fiel reflejo de su actividad agraria.
+4. La utilización de las parcelas, indicándose en todo caso el producto cultivado, los pastos permanentes, otras superficies forrajeras, el barbecho y tipo del mismo, los cultivos permanentes, las superficies plantadas con plantas forestales de ciclo corto, etc. En el caso de los recintos de pastos, se indicará si las parcelas van a ser objeto de producción con pastoreo, siega o mantenimiento mediante otras técnicas. En el caso de las tierras de cultivo, se podrá declarar más de un producto por campaña y parcela, indicando siempre el cultivo declarado a efectos de la diversificación y, si procede, otro cultivo, tal y como quedan definidos en las letras c) y d) del apartado 1 del artículo 89. En el caso de cultivos permanentes, además del producto cultivado, se deberá indicar el tipo de cobertura del terreno y las actividades de mantenimiento de la misma. El solicitante declarará de forma expresa que los cultivos y aprovechamientos, así como las actividades de mantenimiento declaradas son veraces y constituyen un fiel reflejo de su actividad agraria.
 
 5. Se declarará por separado el barbecho medioambiental con arreglo al Reglamento (CE) N.º 1698/2005 del Consejo, de 20 de septiembre de 2005, y la repoblación forestal conforme al mismo Reglamento o al Reglamento (CE) N.º 1257/1999 del Consejo, de 17 de mayo de 1999, sobre la ayuda al desarrollo rural a cargo del Fondo Europeo de Orientación y de Garantía Agrícola (FEOGA) y por el que se modifican y derogan determinados Reglamentos.
 
@@ -86,9 +80,11 @@ b) Maíz modificado genéticamente, deberán declararse todos los cultivos que s
 
 c) Cultivos proteicos de los definidos en el artículo 34, se indicará si dicha parcela se destina a la producción de semilla con fines comerciales.
 
-d) Cultivos hortícolas y frutales, deberá declararse anualmente y de forma gráfica toda la superficie de cultivo a través de la solicitud única o de las vías que la autoridad competente establezca para tal fin. En el caso de superficies de frutales, cuando la superficie declarada en el recinto sea mayor a 0,1 hectáreas, se indicará la especie, la variedad y el año de plantación. En el caso de cultivos hortícolas cuando la superficie declarada en el recinto sea mayor a 0,1 hectáreas, deberán especificarse las especies a implantar en la campaña sobre la misma superficie.
+d) Cultivos hortícolas, olivar y frutales, deberá declararse anualmente y de forma gráfica toda la superficie de cultivo a través de la solicitud única o de las vías que la autoridad competente establezca para tal fin. En el caso de superficies de olivar y de frutales, cuando la superficie declarada en el recinto sea mayor a 0,1 hectáreas, se indicará la especie, la variedad y el año de plantación. Sin perjuicio de lo anterior, no será necesario especificar el año en olivares plantados antes de 2010. En el caso de cultivos hortícolas cuando la superficie declarada en el recinto sea mayor a 0,1 hectáreas, deberán especificarse las especies a implantar en la campaña sobre la misma superficie.
 
-En el caso de superficies de frutales se indicará la especie, la variedad y el año de plantación. En el caso de cultivos hortícolas, deberán especificarse las especies a implantar en la campaña sobre la misma superficie.
+e) Cáñamo, deberá incluirse toda la información necesaria para la identificación de las parcelas de cáñamo, con indicación de las variedades y cantidades de semilla utilizadas (en kg por ha). Además, el agricultor presentará las etiquetas oficiales utilizadas en los envases de las semillas. Cuando la siembra tenga lugar después de la fecha límite de presentación de la solicitud única, las etiquetas se presentarán, a más tardar, el 30 de junio.
+
+Además, el agricultor deberá presentar prueba de la existencia de un contrato con la industria transformadora a la que se destine su producción.
 
 8. Superficies de interés ecológico:
 
@@ -108,25 +104,11 @@ En el caso de superficies de frutales se indicará la especie, la variedad y el 
 
 11. En el caso, tanto de la ayuda asociada a los frutos de cáscara a que se refiere la sección 4.ª del capítulo I del título IV, como de la ayuda nacional a los frutos de cáscara a que se refiere la disposición adicional primera, las especies y el número de árboles de cada una de las especies existentes beneficiarias de dicha ayuda.
 
-12. En el caso del pago específico al cultivo del algodón a que se refiere la sección 8.ª del capítulo I del título IV, deberá indicar, en su caso, la organización interprofesional autorizada a la que pertenece.
+12. En el caso del pago específico al cultivo del algodón a que se refiere la sección 8.ª del capítulo I del título IV, deberá indicar, en su caso, la organización interprofesional autorizada a la que pertenece, así como la forma de pertenencia a esta organización, si es a través de una entidad representativa u otra forma de pertenencia.
 
 13. En el caso de la ayuda asociada al tomate para industria sección 7ª capítulo I título IV, una declaración responsable del solicitante de que es conocedor de los requisitos recogidos en el artículo 49.
 
 14. Datos relativos al destino de la producción agrícola cuando se declaren cultivos hortícolas, cultivos energéticos, viñedo de vinificación y flores, necesarios para dar cumplimiento al Reglamento (UE) núm. 2018/1091 del Parlamento Europeo y del Consejo, de 18 de julio de 2018, relativo a las estadísticas integradas sobre explotaciones agrícolas y por el que se derogan los Reglamentos (CE) núm. 1166/2008 y (UE) núm. 1337/2011, y al Plan Estadístico Nacional.
-
-> Téngase en cuenta que esta última actualización de los puntos 7.d), 10 y 14 del apartado III, establecida por el art. 1.9 del Real Decreto 628/2019, de 31 de octubre, Ref. BOE-A-2019-15681, produce efectos desde el 1 de enero de 2020, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "7.d) Cultivos hortícolas y frutales, deberá declararse anualmente y de forma gráfica toda la superficie de cultivo, a través de la solicitud única o de las vías que la autoridad competente establezca para tal fin."
-
-> "10. Ayuda Asociada a los cultivos proteicos a que se refiere la sección 3ª capítulo I título IV:
-
-> – La superficie por la que se solicita el pago, desglosada por especie y, cuando corresponda, por variedad cultivada.
-
-> – Declaración responsable del solicitante que es conocedor de los requisitos recogidos en el artículo 35."
-
-> "14. Datos relativos al destino de la producción agrícola necesarios para dar cumplimiento al Reglamento (UE) n.º 2018/1091 del Parlamento Europeo y del Consejo, de 18 de julio de 2018, relativo a las estadísticas integradas sobre explotaciones agrícolas y por el que se derogan los Reglamentos (CE) n.º 1166/2008 y (UE) n.º 1337/2011, y al Plan Estadístico Nacional."
 
 IV. Ayuda asociada a los ganaderos, medidas de ayuda relacionadas con los animales y ayudas a los agricultores que ejerzan actividad ganadera
 
@@ -163,6 +145,8 @@ V. Información y documentación adicional
 9. Sin perjuicio de lo establecido en los párrafos anteriores, cuando la autoridad competente tenga acceso a la documentación exigida en este apartado V, se eximirá al solicitante de la necesidad de presentación de dicha documentación, sustituyéndose en su caso por una autorización expresa a la autoridad competente para acceder a dicha información.
 
 10. Cualquier otra información, en concepto de "otra declaración", establecida por la comunidad autónoma para las medidas de desarrollo rural en el ámbito del Sistema Integrado.
+
+> Se modifican los apartados I y III, por la disposición final 1.21 del Real Decreto 41/2021, de 26 de enero. Ref. BOE-A-2021-1131
 
 > Se modifican los apartados I y III, con efectos de 1 de enero de 2020, por el art. 1.9 del Real Decreto 628/2019, de 31 de octubre, Ref. BOE-A-2019-15681
 
