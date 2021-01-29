@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Tratamientos de datos de carácter personal.
+
+Los tratamientos de datos de carácter personal de las personas físicas se realizarán con estricta sujeción a lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y el Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de sus datos personales y a su libre circulación; en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y, en su caso, en la normativa sobre protección de datos personales especial o específica que resulte de aplicación.
