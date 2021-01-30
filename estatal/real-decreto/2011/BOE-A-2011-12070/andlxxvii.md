@@ -1,8 +1,6 @@
 ## ANEXO DLXXVII
 
-## CUALIFICACIÓN PROFESIONAL: OBSERVACIÓN DE LA ACTIVIDAD Y CONTROL DE LAS CAPTURAS DE UN BUQUE PESQUERO
-
-Familia Profesional: Marítimo – Pesquera
+## Cualificación profesional: Observación de la actividad y control de las capturas de un buque pesquero
 
 Nivel: 3
 
@@ -10,25 +8,25 @@ Código: MAP577_3
 
 Competencia general
 
-Registrar e informar sobre la actividad pesquera y el nivel de cumplimiento y ejecución de las medidas de conservación vigentes en el área de trabajo, controlando la posición del buque, la utilización de las artes de pesca y las capturas realizadas, así como elaborando los informes necesarios para el seguimiento científico del área pesquera de referencia.
+Registrar e informar sobre la actividad, controlando la posición del buque, la utilización de las artes de pesca y las capturas realizadas, así como elaborando los informes necesarios para el seguimiento científico de la pesquería de referencia.
 
 Unidades de competencia
 
-UC0010_1: Contribuir a las operaciones de cubierta en una embarcación pesquera.
+UC0010_1: Contribuir a las operaciones de cubierta en una embarcación pesquera
 
-UC1899_1: Comprobar la posición del buque y establecer comunicaciones marítimas.
+UC1899_1: Comprobar la posición del buque y establecer comunicaciones marítimas
 
-UC1900_3: Comprobar, registrar e informar las actividades pesqueras de un buque, en un caladero determinado.
+UC1900_3: Comprobar, registrar e informar las actividades pesqueras de un buque, en un caladero determinado
 
-UC1901_3: Controlar las capturas del buque y el cumplimiento de la normativa pesquera en la zona sometida a regulación.
+UC1901_3: Controlar las capturas del buque y el cumplimiento de la normativa pesquera en la zona sometida a regulación
 
-UC0733_1: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo.
+UC0733_1: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo
 
 Entorno Profesional
 
 Ámbito Profesional
 
-Desarrolla su actividad profesional como trabajador por cuenta ajena, a bordo de buques pesqueros que faenan en aguas sometidas a regulación pesquera. Su actividad profesional está sometida a regulación por la Administración competente.
+Desarrolla su actividad profesional en buques pesqueros que faenan en aguas sometidas a regulación pesquera, en entidades de naturaleza pública o privada, empresas de tamaño mediano o grande, con independencia de su forma jurídica. Desarrolla su actividad dependiendo, en su caso, funcional y/o jerárquicamente de un superior. Puede tener personal a su cargo en ocasiones, por temporadas o de forma estable. Su actividad profesional está sometida a regulación por la Administración competente. En el desarrollo de la actividad profesional se aplican los principios de accesibilidad universal y diseño universal o diseño para todas las personas de acuerdo con la normativa aplicable.
 
 Sectores Productivos
 
@@ -36,33 +34,31 @@ Se ubica en el sector marítimo-pesquero, y concretamente en las áreas donde se
 
 Ocupaciones y puestos de trabajo relevantes
 
-Observador de buques de pesca.
+Los términos de la siguiente relación de ocupaciones y puestos de trabajo se utilizan con carácter genérico y omnicomprensivo de mujeres y hombres.
 
-Vigilante de pesqueros.
+Observadores de buques de pesca
 
-Encargado de recepción de planta de productos pesqueros.
+Muestreadores de lonjas
 
-Muestreador de lonjas.
+Encargados de recepción de planta de productos pesqueros
 
-Marinero.
+Marineros en buques de pesca
 
-Marinero pescador.
+Marineros en buques mercantes
 
-Formación Asociada
-
-(390 horas)
+Formación Asociada (390 horas)
 
 Módulos Formativos
 
-MF0010_1: Labores de cubierta en buque de pesca. (30 horas)
+MF0010_1: Labores de cubierta en buque de pesca (30 horas)
 
-MF1899_1: Posición del buque y comunicaciones marítimas. (90 horas)
+MF1899_1: Posición del buque y comunicaciones marítimas (90 horas)
 
-MF1900_3: Capacitación pesquera. (90 horas)
+MF1900_3: Capacitación pesquera (90 horas)
 
-MF1901_3: Control de la actividad pesquera de un buque. (120 horas)
+MF1901_3: Control de la actividad pesquera de un buque (120 horas)
 
-MF0733_1: Seguridad y primeros auxilios a bordo. (60 horas)
+MF0733_1: Seguridad y primeros auxilios a bordo (60 horas)
 
 UNIDAD DE COMPETENCIA 1: CONTRIBUIR A LAS OPERACIONES DE CUBIERTA EN UNA EMBARCACIÓN PESQUERA
 
@@ -122,43 +118,41 @@ Código: UC1899_1
 
 Realizaciones profesionales y criterios de realización:
 
-RP 1: Determinar la posición del buque y registrar los datos de sondas, tipos de fondo, entre otros, teniendo en cuenta las cartas de navegación y equipos a bordo, durante la campaña, para verificar el cumplimiento de la normativa.
+RP1: Determinar la posición del buque para identificar su localización registrando los datos de sondas, tipos de fondo, entre otros, teniendo en cuenta las cartas de navegación y equipos a bordo, durante las operaciones de pesca.
 
-CR 1.1 Las informaciones que figuran en las cartas convencionales y electrónicas (escalas, signos y abreviaturas, entre otros) se interpretan, atendiendo a las publicaciones náuticas editadas, con el fin de ser tenidas en cuenta durante la faena del buque en la zona de pesca regulada.
+CR1.1 Las informaciones que figuran en las cartas convencionales y electrónicas (escalas, signos y abreviaturas, entre otras) se interpretan atendiendo a las publicaciones náuticas editadas, con el fin de ser tenidas en cuenta durante la faena del buque en la zona de pesca regulada.
 
-CR 1.2 Los útiles que se emplean para trabajar en las cartas de navegación se manejan, siguiendo procedimientos náuticos para determinar, rumbos, posiciones del buque, distancias, sondas, entre otros, de interés en el intervalo del lance.
+CR1.2 Los útiles que se emplean para trabajar en las cartas de navegación se manejan, siguiendo procedimientos náuticos para determinar rumbos, posiciones del buque, distancias, sondas, entre otros, de interés en el intervalo del lance.
 
-CR 1.3 Los rumbos, distancias y situaciones del buque se determinan en las cartas de navegación, de acuerdo con los criterios y procedimientos náuticos establecidos, para registrar y constatar las posiciones y maniobras del buque desde el inicio hasta el final de la faena.
+CR1.3 Los rumbos, distancias y situaciones del buque se determinan en las cartas de navegación, de acuerdo con los criterios y procedimientos náuticos establecidos, para registrar y constatar las posiciones y maniobras del buque desde el inicio hasta el final de la faena.
 
-RP 2: Comprobar la situación del buque cuando se encuentre faenando, mediante los sistemas de radionavegación, vía satélite o sistema de registro automático a distancia, para verificar el cumplimiento de las leyes de pesca.
+RP2: Comprobar la situación del buque cuando se encuentre faenando para verificar su posicionamiento, mediante los sistemas de radionavegación, vía satélite o sistema de registro automático a distancia.
 
-CR 2.1 Las líneas de posición de los equipos de radionavegación se obtienen a bordo del buque, teniendo en cuenta las características técnicas de los mismos, para calcular su situación.
+CR2.1 Las líneas de posición de los equipos de radionavegación se obtienen a bordo del buque, teniendo en cuenta las características técnicas de los mismos, para calcular su situación.
 
-CR 2.2 La información de los equipos de posicionamiento vía satélite o de registro automático a distancia se obtiene, según el manejo y funcionamiento de los mismos, con el fin de determinar la posición del buque.
+CR2.2 La información de los equipos de posicionamiento vía satélite o de registro automático a distancia se obtiene, según el manejo y funcionamiento de los mismos, con el fin de determinar la posición del buque.
 
-CR 2.3 La situación del buque obtenida de los equipos de posicionamiento de radionavegación, vía satélite o de registro automático a distancia se traslada a la carta de navegación, siguiendo procedimientos náuticos, con el fin de verificar el cumplimiento de la normativa pesquera.
+CR2.3 La situación del buque obtenida de los equipos de posicionamiento de radionavegación, vía satélite o de registro automático a distancia se traslada a la carta de navegación, siguiendo procedimientos náuticos.
 
-RP 3: Operar con los equipos y sistemas de comunicación del buque, según protocolos establecidos, para establecer comunicaciones y enviar todo tipo de informes.
+RP3: Operar con los equipos y sistemas de comunicación del buque, según protocolos establecidos, para establecer comunicaciones y enviar todo tipo de informes.
 
-CR 3.1 Los equipos de comunicaciones del buque se manejan, siguiendo la información de los manuales y las características técnicas de los mismos, con el fin de garantizar el establecimiento de comunicaciones.
+CR3.1 Los equipos de comunicaciones del buque se manejan, siguiendo la información de los manuales y las características técnicas de los mismos, con el fin de garantizar su establecimiento.
 
-CR 3.2 Las comunicaciones entre el observador y la Administración competente se realizan, de acuerdo con el Reglamento Internacional de Radiocomunicaciones, en la lengua oficial del Estado o en idioma normativizado de la Organización Marítima Internacional (OMI), para informar de la actividad pesquera del buque.
-
-CR 3.3 Las presuntas infracciones del buque de pesca en la zona regulada se comunican a los buques de inspección en la lengua oficial del Estado o en idioma normativizado de la Organización Marítima Internacional (OMI), utilizando el código establecido, para su conocimiento y en su caso, adopción de las medidas correctoras.
+CR3.2 Las comunicaciones entre el observador científico y la Administración competente se establecen, de acuerdo con el Reglamento Internacional de Radiocomunicaciones, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI), para informar de la actividad pesquera del buque.
 
 Contexto profesional:
 
 Medios de producción:
 
-Material náutico: cartas de navegación, cartas electrónicas, escuadra, cartabón, reglas paralelas, lupa, transportador náutico, material de oficina. Instrumentos de navegación y equipos de posicionamiento: compás magnético y giroscópico, radar, gonio, sonda, corredera, G.P.S. (Sistema de Posicionamiento Global) plotter. Sistema de registro automático a distancia. Equipos de comunicaciones, cartas del tiempo, cartas batimétricas, anemómetro, correntímetro. Simulador de navegación con equipos electrónicos para realizar ejercicios en cartas convencionales y electrónicas. Simulador de comunicaciones.
+Material náutico: cartas de navegación, cartas electrónicas, escuadra, cartabón, reglas paralelas, lupa, transportador náutico, material de oficina. Instrumentos de navegación y equipos de posicionamiento: compás magnético y giroscópico, radar, gonio, sonda, corredera, G.P.S. (Sistema de Posicionamiento Global), plotter. Sistema de registro automático a distancia. Equipos de comunicaciones, cartas del tiempo, cartas batimétricas, anemómetro, correntímetro. Simulador de navegación con equipos electrónicos para realizar ejercicios en cartas convencionales y electrónicas. Simulador de comunicaciones. Calculadora científica no programable y/o tablas náuticas.
 
 Productos y resultados:
 
-Situación del buque determinada por líneas de posición tomadas por los equipos de radionavegación, vía satélite o de registro automático. Traslado de las situaciones obtenidas, los rumbos y las posiciones estimadas del buque sobre la carta de navegación. Comunicaciones con los buques de inspección y las administraciones marítimas. Situación de las artes de pesca sobre el fondo.
+Posición del buque determinada. Datos de sondas y tipos de fondo registrados. Situación del buque cuando se encuentre faenando comprobada. Equipos y sistemas de comunicación del buque operativos.
 
 Información utilizada o generada:
 
-Cartas de navegación y electrónicas. Carta OD de símbolos y abreviaturas empleadas en las cartas españolas y su correspondiente en lengua inglesa. Manuales de manejo y funcionamiento de los equipos de posicionamiento del buque y de comunicaciones. Reglamento Internacional de Radiocomunicaciones Marítimas. Informes sobre el desarrollo de la actividad pesquera relativa a las posiciones del buque, sondas, tipos de fondo, entre otros, durante la campaña en la zona de pesca regulada. Informes sobre presuntas infracciones del buque en la zona de pesca regulada enviados a los buques de inspección. Vocabulario marítimo de la OMI. Cartas de corrientes, pilots charts.
+Cartas de navegación y electrónicas. Símbolos y abreviaturas empleadas en las cartas náuticas españolas y su correspondiente en el lenguaje normalizado de la Organización Marítima Internacional (OMI). Manuales de manejo y funcionamiento de los equipos de posicionamiento del buque y de comunicaciones. Reglamento Internacional de Radiocomunicaciones Marítimas. Informes sobre el desarrollo de la actividad pesquera relativa a las posiciones del buque, sondas, tipos de fondo, entre otros, durante la campaña en la zona de pesca regulada. Vocabulario marítimo de la Organización Marítima Internacional (OMI). Cartas de corrientes, pilots charts.
 
 UNIDAD DE COMPETENCIA 3: COMPROBAR, REGISTRAR E INFORMAR LAS ACTIVIDADES PESQUERAS DE UN BUQUE, EN UN CALADERO DETERMINADO
 
@@ -168,39 +162,29 @@ Código: UC1900_3
 
 Realizaciones profesionales y criterios de realización:
 
-RP 1: Controlar que los equipos de captura que se utilizan a bordo del buque, según la especialidad y la zona de pesca, cumplen con la normativa pesquera al respecto.
+RP1: Verificar la operatividad de los equipos de captura utilizados a bordo del buque para garantizar la actividad pesquera, según la especialidad y la zona de intervención.
 
-CR 1.1 Las artes utilizadas para las capturas se analizan y revisan, comprobando que no figure en ellas ningún elemento prohibido para la zona de pesca en que se encuentre el buque, para cumplir con la correspondiente normativa pesquera.
+CR1.1 Las artes utilizadas para las capturas se revisan, comprobando sus características técnicas (geometría, materiales de fabricación, dimensiones, entre otras), a efectos de determinar su impacto potencial y su selectividad.
 
-CR 1.2 Los aparejos calados en las zonas de trabajo se examinan, verificando que cumplen con las especificaciones referentes al área de pesca, a fin de respetar la normativa vigente.
+CR1.2 Los aparejos calados en las zonas de trabajo se revisan, comprobando sus características técnicas (geometría, materiales de fabricación, dimensiones, entre otras), a efectos de determinar su impacto potencial y su selectividad.
 
-CR 1.3 Los útiles de pesca para capturas de especies determinadas se miden, comprobando asimismo sus materiales de construcción, para evitar cualquier daño ecológico en la zona de pesca.
+CR1.3 Los útiles de pesca para capturas de especies determinadas se revisan, comprobando sus características técnicas (geometría, materiales de fabricación, dimensiones, entre otras), a efectos de determinar su impacto potencial y su selectividad.
 
-RP 2: Registrar las artes, las dimensiones de las mallas y los amarres utilizados por el capitán o patrón, comparándolos con los permitidos por la legislación en la zona de pesca, para garantizar las medidas de conservación.
+RP2: Comprobar las entradas diarias de información sobre la actividad en los cuadernos de pesca y de producción, mediante el factor de conversión empleado por el Patrón, contrastándolo con datos de otras fuentes para estimar la captura en peso vivo de las especies comerciales.
 
-CR 2.1 Los útiles, aparejos y artes utilizados durante la campaña se registran, midiéndolos y revisándolos previamente, a fin de comprobar si se ha cumplido con la normativa pesquera de la zona.
+CR2.1 Los diarios de pesca de a bordo se comprueban cada jornada, contrastando los datos que constan en los mismos con las anotaciones en poder del observador, para verificar la fiabilidad de los datos en él reflejados.
 
-CR 2.2 Las mallas de las artes utilizadas se miden, y el número y medida de los anzuelos de los aparejos se comprueban, según las normas establecidas, a fin de asegurar el cumplimiento de la legislación pesquera en la zona de trabajo.
+CR2.2 Los espacios de bodega se cubican a menudo según las técnicas al uso, teniendo en cuenta los planos de la bodega y los factores de estiba y conversión de las especies pesqueras depositadas en ella, para comparar la relación entre las capturas y la ocupación de bodega.
 
-CR 2.3 El número y colocación de los estrobos en las artes de arrastre se comprueba y analiza, de conformidad con la normativa pesquera, para evitar que puedan influir en el tamaño de las mallas.
+RP3: Interpretar la información meteorológica y oceanográfica, tanto la observada como la recibida a través de los equipos electrónicos una vez descifrada, según protocolos medioambientales, para garantizar la actividad pesquera sin incidentes.
 
-RP 3: Comprobar las entradas diarias en los cuadernos de pesca y de producción, mediante el factor de conversión empleado por el patrón contrastándolo con los espacios de bodega, cumplimentando el informe que corresponda en su caso, a fin de controlar el cumplimiento de la normativa de la zona pesquera de que se trate.
+CR3.1 La representación del fondo de la mar (líneas isobáticas, cartas batimétricas, cartas litológicas, entre otras) se maneja con los medios disponibles a bordo, para identificar el lugar donde se calan las artes de pesca.
 
-CR 3.1 Los diarios de pesca de a bordo se comprueban cada jornada, contrastando los datos que constan en los mismos con las anotaciones en poder del observador, para verificar la autenticidad de los datos en él reflejados.
+CR3.2 Las variables meteorológicas, así como el estado de viento y mar se miden con los equipos disponibles a bordo, para obtener la información del tiempo presente y su eventual influencia sobre la calada de las artes de pesca.
 
-CR 3.2 Los espacios de bodega se cubican a menudo según las técnicas al uso, teniendo en cuenta los planos de la bodega y los factores de estiba y conversión de las especies depositadas en ella, para comparar la relación entre las capturas y la ocupación de bodega.
+CR3.3 La existencia y la influencia de las corrientes, tanto las de superficie como las de fondo, se obtienen por medio de los equipos y las cartas al uso para determinar la posición de la calada de las artes de pesca.
 
-CR 3.3 Las cajas de especies capturadas en otros caladeros o sometidas a reglamentación particular, se vigilan en situación, marcas y contenido, manteniendo el volumen de ocupación, para evitar fraudes o cambios en las especies.
-
-RP 4: Descifrar e interpretar la información meteorológica y oceanográfica, tanto la observada como la recibida a través de los equipos electrónicos, según protocolos al uso para evaluar su influencia en las caladas del equipo de pesca.
-
-CR 4.1 La representación del fondo de la mar (líneas isobáticas, cartas batimétricas, cartas litológicas, entre otras), se obtienen y manejan con los medios disponibles a bordo, para conocer en todo momento dónde se calan las artes de pesca.
-
-CR 4.2 Las variables meteorológicas, así como el estado de viento y mar se observan y miden con los equipos disponibles a bordo para obtener la información del tiempo presente y su influencia sobre la calada de las artes de pesca.
-
-CR 4.3 La existencia y la influencia de las corrientes, tanto las de superficie como las de fondo se obtienen por medio de los equipos y las cartas al uso para determinar la posición de la calada de las artes de pesca.
-
-CR 4.4 La previsión sinóptica del estado de la mar se determina por medio del Fetch y su persistencia, valorando además la relación entre la intensidad del viento y de la mar todo ello para ser tenido en cuenta a la hora de mantener la posición de la calada de los aparejos.
+CR3.4 La previsión sinóptica del estado de la mar se determina por medio del Fetch y su persistencia, valorando, además, la relación entre la intensidad del viento y de la mar, todo ello para ser tenido en cuenta a la hora de mantener la posición de la calada de los aparejos.
 
 Contexto profesional:
 
@@ -210,13 +194,11 @@ Ropa de Trabajo. Elementos de los equipos de pesca: útiles, aparejos o artes a 
 
 Productos y resultados:
 
-Equipos de pesca revisados. Parpallas, rejillas, estrobos controlados. Faenas de pesca en zonas autorizadas. Capturas controladas a la virada y en bodega. Cantidades por especies supervisadas. Bodegas cubicadas. Diarios de pesca y factoría verificados. Embalajes y cajas inspeccionadas. Información meteorológica y oceanográfica descifrada e interpretada.
+Operatividad de los equipos de captura verificados. Entradas diarias en los cuadernos de pesca y de producción comprobadas. Información meteorológica y oceanográfica descifrada e interpretada.
 
 Información utilizada o generada:
 
-Vocabulario marítimo pesquero y técnico. Planos de bodegas. Planos de útiles, aparejos y artes.
-
-Normativa pesquera de la zona. Tablas de factores de conversión y estiba. Catálogos y bibliografía de especies pesqueras. Cuadernos de pesca y producción. Licencias y permisos de pesca. Documentación técnica especifica.
+Vocabulario marítimo pesquero y técnico. Planos de bodegas. Planos de útiles, aparejos y artes. Normativa aplicable pesquera de la zona. Tablas de factores de conversión y estiba. Catálogos y bibliografía de especies pesqueras. Cuadernos de pesca y producción. Licencias y permisos de pesca. Documentación técnica especifica.
 
 UNIDAD DE COMPETENCIA 4: CONTROLAR LAS CAPTURAS DEL BUQUE Y EL CUMPLIMIENTO DE LA NORMATIVA PESQUERA EN LA ZONA SOMETIDA A REGULACIÓN
 
@@ -226,65 +208,73 @@ Código: UC1901_3
 
 Realizaciones profesionales y criterios de realización:
 
-RP 1: Controlar las especies capturadas y determinar el esfuerzo pesquero a que se somete la pesquería en la zona regulada, para garantizar la gestión del área.
+RP1: Determinar el esfuerzo pesquero a que se somete la pesquería en la zona regulada para garantizar la gestión del área controlando especialmente las especies capturadas.
 
-CR 1.1 El control y registro de la captura se realiza, a partir de la composición específica, para calcular el peso total de la misma en cada operación de pesca.
+CR1.1 La captura se controla a partir de su composición específica (especie, tamaño, entre otros), para calcular el peso total de la misma en cada operación de pesca.
 
-CR 1.2 La información recopilada, en función del tipo de arte o aparejo utilizado, se registra según protocolo establecido para calcular el esfuerzo pesquero.
+CR1.2 La información recopilada se registra en función del tipo de arte o aparejo utilizado, según protocolo establecido, para calcular el esfuerzo pesquero (tiempo utilizado, tamaño y cantidad de equipamiento, tamaño del buque, caballos de potencia de los motores, consumo combustible, mano de obra).
 
-CR 1.3 Las medidas de conservación y ejecución por parte de los buques pesqueros se controlan, en función de la normativa establecida para cada área de actividad, a fin de contribuir a la gestión y la conservación de los recursos pesqueros.
+CR1.3 La información referente a datos de capturas y esfuerzo se registra, en base a las directrices del formato existente, para la posterior elaboración de resultados.
 
-CR 1.4 La información referente a datos de capturas y esfuerzo se registra, en base a las directrices del formato existente, para la posterior elaboración de resultados.
+CR1.4 Los datos de captura se verifican, teniendo en cuenta las informaciones recibidas y el control de los desembarcos, para su posterior corrección, en caso necesario.
 
-CR 1.5 Los datos de captura se verifican, teniendo en cuenta las informaciones recibidas y el control de los desembarcos, para su posterior corrección, en caso necesario.
+RP2: Controlar los descartes y las capturas accesorias (bycatch) que se produzcan, registrando las causas que dan lugar a ello, para determinar la cantidad de pesca real obtenida.
 
-RP 2: Controlar los descartes y las capturas accesorias (by catch) que se produzcan, registrando las causas que dan lugar a ello, para determinar la captura real.
+CR2.1 La composición de los descartes se registra teniendo en cuenta los protocolos establecidos, para determinar las especies rechazadas, considerando las capturas accidentales de especies no objetivo (aves, tortugas marinas, cetáceos y elasmobranquios protegidos), indicando, siempre que sea posible, el número de ejemplares y la especie a la que pertenecen, las coordenadas geográficas del punto de captura, si el individuo se ha capturado vivo o muerto, destino final, y en caso de que los ejemplares tuviesen una etiqueta, anilla, o marca (convencional o satélite) deberá anotarse la referencia y número que aparece en dichas marcas, comunicándolo a las administraciones.
 
-CR 2.1 La composición de los descartes se registra, teniendo en cuenta los protocolos establecidos y la normativa específica, para determinar las especies rechazadas.
+CR2.2 El encuentro fortuito con ecosistemas marinos vulnerables se registra según los protocolos establecidos para comunicar el impacto potencial de las actividades pesqueras.
 
-CR 2.2 Las especies sometidas a control se identifican, seleccionando las que no cumplan la normativa exigida y anotando las incidencias puntuales, para informar de toda presunta infracción.
+CR2.3 Las especies pesqueras sometidas a control y previamente identificadas se registran a través de un formulario, conforme a los protocolos de pesca, para disponer de un registro de capturas por especie y por lance de pesca.
 
-CR 2.3 La estimación de los descartes, cuando se dan procesos de elaboración, se realiza utilizando factores de conversión para obtener el peso vivo.
+CR2.4 Los descartes de especies pesqueras, cuando se dan procesos de elaboración, se estiman utilizando factores de conversión para obtener el peso vivo.
 
-CR 2.4 La cumplimentación del formulario de datos se realiza, en base a las directrices del formato existente, para disponer de un registro total de lances.
+RP3: Determinar la composición en longitud (o en peso) de las especies comerciales y sus parámetros poblacionales a partir de la obtención de muestras biológicas para identificar las características del área/zona donde se desarrolla la actividad.
 
-RP 3: Determinar parámetros poblacionales y obtener muestras biológicas, proporcionando información de las especies capturadas, para la administración de los recursos pesqueros.
+CR3.1 El material y los útiles de muestreo se seleccionan, en función del tipo de ejemplares a obtener y de las especies pesqueras elegidas, para asegurar la eficacia del proceso.
 
-CR 3.1 El material y los útiles de muestreo se seleccionan, en función del tipo de muestras a obtener y de las especies elegidas, para asegurar la eficacia del proceso.
+CR3.2 Los muestreos de tallas se ejecutan, siguiendo los protocolos establecidos, para proporcionar información sobre la composición en longitud (o en peso) de las especies pesqueras que habitan en el área de trabajo.
 
-CR 3.2 Los muestreos se ejecutan, siguiendo los protocolos establecidos, para proporcionar información sobre las especies que habitan en el área de trabajo.
+CR3.3 Las muestras relativas a las especies pesqueras se conservan, una vez recogidas, en función de las necesidades que se establezcan, para determinar los parámetros poblacionales.
 
-CR 3.3 La obtención y conservación de muestras se realiza, en función de las necesidades que se establezcan, para determinar los parámetros poblacionales.
+RP4: Medir las variables ambientales y ecológicas para su posterior registro como sistema de protección a la biodiversidad, teniendo en cuenta el medio marino en el que interactúan.
 
-RP 4: Enviar informes periódicos y establecer comunicaciones según formatos determinados, con la finalidad de que la organización gestora tenga un control inmediato sobre las situaciones concretas, para actuar en consecuencia.
+CR4.1 La presencia de especies sensibles (mamíferos, aves, reptiles, entre otros) se detecta en el área de pesca a través de sistemas de observación visual y teniendo en cuenta la información suministrada en mapas indicativos de zonas de asentamiento, adoptando medidas de prevención para evitar infringir molestias que deterioren su hábitat.
 
-CR 4.1 El intercambio de información se realiza, teniendo en cuenta los protocolos de comunicación existentes a bordo de los buques, en castellano o en el idioma normativizado O.M.I., para notificar el desarrollo de las actividades pesqueras.
+CR4.2 Las variables ambientales tales como temperatura, conductividad (salinidad), transparencia, entre otras, se miden utilizando sensores, correntímetros y termómetros, así como interpretando datos obtenidos a partir de sistemas de comunicación (satélites, entre otros) y mapas para definir la situación del medio marino en el momento en que se realiza la observación científica.
 
-CR 4.2 Los datos se transmiten, teniendo en cuenta el esquema de notificaciones, para informar sobre la actividad del buque.
+CR4.3 Las variables ecológicas relativas a especies sensibles tales como mamíferos, aves, reptiles, entre otros, se miden según criterios de edad, tamaño, comunidad, convivencia de especies en un mismo espacio, temporalidad, alimentación, entre otros, para comprobar el mantenimiento de la zona de pesca sin deterioros.
 
-CR 4.3 La comunicación con los servicios de inspección y vigilancia se establece, siguiendo protocolos determinados, en castellano o en el idioma normativizado O.M.I., para una comprobación exhaustiva del cumplimiento de la normativa pesquera.
+CR4.4 Los datos obtenidos (variables ambientales y ecológicas) se registran según formato documental y/o informático establecido por las autoridades competentes para garantizar la trazabilidad.
 
-RP 5: Elaborar el informe final de resultados obtenidos durante el periodo de observación, teniendo en cuenta el modelo predefinido, para comprobar el cumplimiento de las medidas de conservación y ejecución.
+RP5: Enviar informes periódicos sobre la actividad pesquera, según formatos determinados, con la finalidad de que la organización gestora tenga un conocimiento inmediato sobre las operaciones de la flota en las aguas de su competencia jurisdiccional.
 
-CR 5.1 La introducción y el tratamiento de la información obtenida se realizan, teniendo en cuenta programas informáticos específicos, para el registro de los resultados.
+CR5.1 La información con la organización gestora se intercambia, teniendo en cuenta los protocolos de comunicación existentes a bordo de los buques, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI), para notificar el desarrollo de las actividades pesqueras.
 
-CR 5.2 Los datos tratados a través de medios informáticos se analizan y evalúan, según lo establecido en los protocolos específicos, para llevar a cabo la elaboración del informe final.
+CR5.2 Los datos relativos a la actividad pesquera se transmiten a la organización gestora, teniendo en cuenta el esquema de notificaciones, para informar sobre la actividad del buque.
 
-CR 5.3 El informe final se elabora, teniendo en cuenta las instrucciones de la organización gestora, para la comprobación del cumplimiento de la normativa aplicable al área en que se ha realizado la actividad pesquera.
+CR5.3 La comunicación con los servicios de inspección y vigilancia se establece, siguiendo protocolos determinados, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI), para una comprobación exhaustiva del cumplimiento de la normativa pesquera.
+
+RP6: Elaborar el informe final de resultados obtenidos durante el periodo de observación científica de la actividad pesquera, teniendo en cuenta los modelos predefinidos, para comprobar el cumplimiento de las medidas de conservación y ejecución.
+
+CR6.1 La información obtenida de la actividad pesquera se administra, teniendo en cuenta programas informáticos específicos, para el registro de los resultados.
+
+CR6.2 Los datos sobre la actividad pesquera tratados a través de medios informáticos se evalúan, según lo establecido en los protocolos específicos, para llevar a cabo la elaboración del informe final.
+
+CR6.3 El informe final se elabora, teniendo en cuenta las instrucciones de la organización gestora y la supervisión de los superiores científicos del observador, para la comprobación del cumplimiento de la metodología aplicable al área en que se ha realizado la actividad.
 
 Contexto profesional:
 
 Medios de producción:
 
-Ropa de trabajo (guantes, mandiletas, botas, gorro, ropa de aguas, casco, entre otros), material de disección (cuchillos, tijeras y pinzas de disección), estadillos, ictiómetros, cinta métrica, calibres, mallero, básculas, pesolas, recipientes. Equipos de extracción, muestreo y conservación de especies/muestras. Equipo informático y programas específicos. Máquina fotográfica. Prismáticos.
+Ropa de trabajo (guantes, mandiletas, botas, gorro, ropa de aguas, casco, entre otros), material de disección (cuchillos, tijeras y pinzas de disección), estadillos, ictiómetros, cinta métrica, calibres, mallero, básculas, pesolas, recipientes, líquidos y/o reactivos conservantes. Equipos de extracción, muestreo y conservación de especies/muestras. Equipo informático y programas específicos. Máquina fotográfica. Prismáticos.
 
 Productos y resultados:
 
-Informes de la actividad del barco, elaborados de acuerdo con los protocolos establecidos. Descartes y las capturas accesorias (by catch) controladas. Muestras biológicas obtenidas. Identificación de especies. Control de la actividad del buque. Informes periódicos enviados y comunicaciones. Informe final de resultados obtenidos durante el periodo de observación elaborado.
+Capturas de especies comerciales observadas y estimadas y esfuerzo pesquero determinado. Descartes y capturas accesorias (bycatch) controlados. Parámetros poblacionales determinados y muestras biológicas obtenidas. Variables ambientales y ecológicas medidas. Informes periódicos enviados y comunicaciones establecidas. Informe final de resultados obtenidos durante el periodo de observación de la actividad pesquera elaborados.
 
 Información utilizada o generada:
 
-Vocabulario pesquero. Vocabulario normativizado O.M.I. Glosario de términos. Biología de las principales especies y estado de los stocks. Manual del observador. Bibliografía para la identificación de especies. Protocolos de muestreo. Convenios pesqueros. Legislación pesquera. Órdenes impartidas por el responsable del programa de observación. Plan de protección y conservación de especies. Documentación técnica específica.
+Vocabulario pesquero. Vocabulario marítimo de la Organización Marítima Internacional (OMI). Glosario de términos. Biología de las especies y estado de los stocks. Manual del observador. Bibliografía para la identificación de especies. Protocolos de muestreo. Normativa aplicable pesquera. Órdenes impartidas por el responsable del programa de observación. Plan de protección y conservación de especies. Directrices sobre la protección de los ecosistemas marinos vulnerables. Documentación técnica específica. Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión. Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
 
 UNIDAD DE COMPETENCIA 5: ACTUAR EN EMERGENCIAS MARÍTIMAS Y APLICAR LAS NORMAS DE SEGURIDAD EN EL TRABAJO
 
@@ -338,7 +328,7 @@ Contexto profesional:
 
 Medios de producción:
 
-Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección personal: trajes, casco, guantes, botas, botiquín reglamentario. Equipos de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
+Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección individual: trajes, casco, guantes, botas, botiquín reglamentario. Equipo de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
 
 Productos y resultados:
 
@@ -480,7 +470,7 @@ Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos, salud laboral, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
 
 - Taller de 3 m² por alumno o alumna.
 
@@ -504,29 +494,27 @@ Código: MF1899_1
 
 Asociado a la UC: Comprobar la posición del buque y establecer comunicaciones marítimas
 
-Duración: 90
-
-horas
+Duración: 90 horas
 
 Capacidades y criterios de evaluación:
 
-C1: Interpretar y manejar cartas de navegación y reconocer información meteorológica a través de equipos disponibles a bordo de un buque, mediante las técnicas o procedimientos náuticos al uso.
+C1: Manejar cartas de navegación y reconocer información meteorológica a través de equipos disponibles a bordo de un buque, interpretándolas mediante las técnicas o procedimientos náuticos al uso.
 
 CE1.1 Describir una carta náutica indicando cómo se representan en la misma: la escala, los meridianos y paralelos, las sondas, la naturaleza del fondo, los veriles y los faros.
 
 CE1.2 Exponer con qué instrumentos y cómo se miden los rumbos y las distancias en una carta de navegación siguiendo procedimientos náuticos.
 
-CE1.3 En un supuesto práctico de manejo de cartas de navegación, calcular, sobre una carta náutica, teniendo en cuenta la posición inicial de un buque en el inicio de un lance, las derrotas efectuadas durante el mismo y la posición final en la virada:
+CE1.3 En un supuesto práctico de manejo de cartas de navegación, calcular sobre una carta náutica, teniendo en cuenta la posición inicial de un buque en el inicio de un lance, las derrotas efectuadas durante el mismo y la posición final en la virada:
 
-– Las coordenadas del buque (latitud y longitud) en su posición inicial y final.
+- Las coordenadas del buque (latitud y longitud) en su posición inicial y final.
 
-– Los rumbos realizados durante el lance.
+- Los rumbos realizados durante el lance.
 
-– Las sondas y tipo de fondo en las que realizó la faena.
+- Las sondas y tipo de fondo en las que realizó la faena.
 
-– Las millas náuticas navegadas.
+- Las millas náuticas navegadas.
 
-– Las distancias a la costa más próxima al iniciar y finalizar el lance.
+- Las distancias a la costa más próxima al iniciar y finalizar el lance.
 
 CE1.4 Definir la forma de obtener la información meteorológica a través de los equipos a bordo de un buque.
 
@@ -544,7 +532,7 @@ CE3.1 Relacionar los equipos y sistemas de comunicación que utilizan los buques
 
 CE3.2 Describir los procedimientos operacionales para establecer comunicaciones de correspondencia pública según se efectúen por radiotelefonía, llamada selectiva digital (LSD) o de servicios satelitarios de comunicaciones (INMARSAT).
 
-CE3.3 En un supuesto práctico en el que se utilicen simuladores de posicionamiento marítimo, realizar comunicaciones de correspondencia pública en radiotelefonía y LSD utilizando los equipos de VHF, MF/HF y en terminales de satélite INMARSAT, en la lengua oficial o en idioma normativizado de la Organización Marítima Internacional (OMI), observando el Reglamento de Radiocomunicaciones, para informar de la actividad pesquera del buque.
+CE3.3 En un supuesto práctico en el que se utilicen simuladores de posicionamiento marítimo, realizar comunicaciones de correspondencia pública en radiotelefonía y LSD utilizando los equipos de VHF, MF/HF y en terminales de satélite INMARSAT, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI), observando el Reglamento de Radiocomunicaciones, para informar de la actividad pesquera del buque.
 
 Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:
 
@@ -566,7 +554,7 @@ Contenidos:
 
 1. Recursos a utilizar en el proceso de navegación
 
-Esfera terrestre: líneas y puntos de la esfera terrestre: eje terrestre, polos, Ecuador, meridianos y paralelos; coordenadas terrestres: latitud, longitud; diferencia de latitud y longitud; unidades empleadas en navegación: milla marina; nudo; horizonte de la mar: puntos cardinales; rumbo loxodrómico.
+Esfera terrestre: líneas y puntos de la esfera terrestre: eje terrestre, polos, ecuador, meridianos y paralelos; coordenadas terrestres: latitud, longitud; diferencia de latitud y longitud; unidades empleadas en navegación: milla marina; nudo; horizonte de la mar: puntos cardinales; rumbo loxodrómico.
 
 Cartas de navegación: proyecciones de la superficie terrestre: cartas mercatorianas.
 
@@ -580,7 +568,7 @@ Aguja magnética líquida: bitácora; rumbo y sus clases.
 
 Navegación de estima en la carta: navegación de estima con viento; abatimiento; navegación de estima con corriente; deriva; triángulo de velocidades.
 
-Navegación electrónica: goniometro: radiofaros; radar: fundamento del radar. Interpretación de la pantalla del radar; navegación por satélite (G.P.S.) y (D.G.P.S): plotters; cartas electrónicas.
+Navegación electrónica: goniómetro: radiofaros; radar: fundamento del radar. Interpretación de la pantalla del radar; navegación por satélite (G.P.S.) y (D.G.P.S): plotters; cartas electrónicas.
 
 Equipos de ayuda a la navegación: corredera; ecosonda; aguja giroscópica; vocabulario básico normalizado.
 
@@ -604,15 +592,17 @@ Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Aula polivalente de un mínimo de 2 m² por alumno o alumna.
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+- Instalación de 2 m² por alumno o alumna.
 
 Perfil profesional del formador o formadora:
 
-1. Dominio de los conocimientos y las técnicas relacionados con la comprobación de la posición del buque y el establecimiento de las comunicaciones marítimas, que se acreditará mediante una de las formas siguientes:
+1. Dominio de los conocimientos y las técnicas relacionados con la comprobación de la posición del buque y el establecimiento de las comunicaciones marítimas, que se acreditará mediante una de las dos formas siguientes:
 
-– Formación académica de Diplomado/a, titulación de grado equivalente o de otras de superior nivel relacionadas con este campo profesional.
+- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
 
-– Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
 
 2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
 
@@ -624,47 +614,43 @@ Código: MF1900_3
 
 Asociado a la UC: Comprobar, registrar e informar las actividades pesqueras de un buque, en un caladero determinado
 
-Duración: 90
-
-horas
+Duración: 90 horas
 
 Capacidades y criterios de evaluación:
 
-C1: Describir los equipos de pesca que se puedan utilizar a bordo de un buque, y su forma de trabajo, teniendo en cuenta la especie objeto de captura y la zona de pesca, señalando las partes susceptibles de regulación específica, para poder comprobar que se encuentran dentro de la normativa vigente.
+C1: Describir los equipos de pesca que se puedan utilizar a bordo de un buque, y su forma de trabajo, teniendo en cuenta la especie objeto de captura y la zona de pesca.
 
-CE1.1 Identificar las partes de las artes de pesca y la función que realizan durante la captura señalando las zonas de las mismas que se deben analizar y revisar.
+CE1.1 Identificar las partes de las artes de pesca y la función que realizan durante la captura.
 
-CE1.2 Reconocer los elementos que forman parte de un aparejo de pesca, su forma de trabajo y la función que desarrolla cada uno de ellos en la captura para verificar sus especificaciones.
+CE1.2 Reconocer los elementos que forman parte de un aparejo de pesca, su forma de trabajo y la función que desarrolla cada uno de ellos en la captura.
 
-CE1.3 Diferenciar los tipos de útiles y la forma de trabajo de cada uno de ellos, señalando las partes a tener en cuenta en cada uno.
+CE1.3 Diferenciar en la actividad pesquera los tipos de útiles y la forma de trabajo de cada uno de ellos, señalando las partes a tener en cuenta en cada uno.
 
-C2: Definir formas de medida de los equipos de pesca, de las dimensiones de las mallas y de la longitud y colocación de los estrobos, mediante procedimientos que garanticen las medidas de conservación, para poder compararlas con las permitidas por la legislación en la zona de pesca.
+C2: Definir formas de medida de los equipos de pesca, de las dimensiones de las mallas y de la longitud y colocación de los estrobos en función de la actividad pesquera a desarrollar.
 
-CE2.1 Indicar la manera de revisar y medir los útiles, aparejos y artes, comprobando el cumplimiento de la normativa pesquera.
+CE2.1 Indicar la manera de revisar y medir los útiles, aparejos y artes de pesca según protocolos de pesca establecidos.
 
-CE2.2 Describir la forma de medir los paños de un arte de pesca determinando la longitud de las mallas y la manera de contar y medir los anzuelos en un aparejo.
+CE2.2 Describir la forma de medir los paños de un arte de pesca, determinando la longitud de las mallas y la manera de contar y medir los anzuelos en un aparejo.
 
-CE2.3 Exponer las consecuencias de colocar un número excesivo de estrobos sobre los paños teniendo en cuenta la influencia que puede producir sobre el tamaño de las mallas.
+CE2.3 Exponer las consecuencias de colocar un número excesivo de estrobos sobre los paños teniendo en cuenta la influencia que puede producir sobre el tamaño de las mallas en el ámbito de la actividad pesquera.
 
-C3: Aplicar procesos de comprobación de diarios de pesca, de cubicación de bodegas y de vigilancia de la carga, para controlar la actividad pesquera del buque.
+C3: Aplicar procesos de comprobación de diarios de pesca, de cubicación de bodegas y de vigilancia de la carga, para determinar la actividad pesquera del buque.
 
-CE3.1 Detallar las normas de actuación que permitan vigilar en la bodega la carga de especies capturadas en otras aguas o sometidas a reglamentación específica.
+CE3.1 En un supuesto práctico de capacitación pesquera, determinar los espacios vacíos y ocupados de la bodega, teniendo en cuenta:
 
-CE3.2 En un supuesto práctico de capacitación pesquera, determinar los espacios vacíos y ocupados de la bodega, teniendo en cuenta:
+- Los planos de cubicación de la misma.
 
-– Los planos de cubicación de la misma.
+- El volumen de las cantidades depositadas en ella.
 
-– El volumen de las cantidades depositadas en ella.
+CE3.2 En un supuesto práctico de capacitación pesquera, calcular las toneladas necesarias para el sellado de la bodega, teniendo en cuenta:
 
-CE3.3 En un supuesto práctico de capacitación pesquera, calcular las toneladas necesarias para el sellado de la bodega, teniendo en cuenta:
+- Los planos de cubicación de la bodega.
 
-– Los planos de cubicación de la bodega.
+- Los factores de estiba y conversión según la especie a capturar.
 
-– Los factores de estiba y conversión según la especie a capturar.
+- La cantidad ocupada de la bodega.
 
-– La cantidad ocupada de la bodega.
-
-CE3.4 En un supuesto práctico de capacitación pesquera, señalar, a la vista de un diario de pesca cubierto y con unos datos puntuales de la captura, los datos erróneos que constan en el mismo, cubriéndolo conforme a los procedimientos establecidos.
+CE3.3 En un supuesto práctico de capacitación pesquera, señalar a la vista de un diario de pesca cubierto y con unos datos puntuales de la captura, los datos erróneos que constan en el mismo, cubriéndolo conforme a los procedimientos establecidos.
 
 C4: Evaluar información meteorológica y oceanográfica disponible prediciendo y determinando la posición y calada de las artes de pesca tanto presente como futura.
 
@@ -672,17 +658,17 @@ CE4.1 Describir las variables batimétricas que definen y determinan una carta d
 
 CE4.2 Explicar la forma de determinar la calada de las artes de pesca teniendo en cuenta el efecto del viento y la corriente presente y futura.
 
-CE4.3 Explicar la forma de obtener la información meteorológica a través de los equipos de comunicaciones del buque y con qué estaciones se harían dependiendo de una situación del buque determinada.
+CE4.3 Explicar la forma de obtener la información meteorológica a través de los equipos de comunicaciones del buque y con qué estaciones se conectaría, dependiendo de una situación del buque determinada.
 
 CE4.4 En un supuesto práctico de capacitación pesquera:
 
-– Determinar la posición de los aparejos sobre el fondo teniendo en cuenta el efecto del viento y la corriente reinante.
+- Determinar la posición de los aparejos sobre el fondo teniendo en cuenta el efecto del viento y la corriente reinante.
 
-– Calcular la altura de las olas en función del Fetch y su persistencia para un área determinada.
+- Calcular la altura de las olas en función del Fetch y su persistencia para un área determinada.
 
 Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:
 
-C3 respecto a CE3.2, CE3.3 y CE3.4; C4 respecto a CE4.4.
+C3 completa; C4 respecto a CE4.4.
 
 Otras capacidades:
 
@@ -726,7 +712,7 @@ Estrobos: su función en las redes, influencia sobre los paños y las mallas, ma
 
 Anzuelos: características, forma de trabajo, manera de medirlos y contarlos.
 
-Rejillas y otros elementos reguladores.
+Rejillas y otros elementos selectivos.
 
 3. Bodegas, en lo relativo a la comprobación, registro e información de las actividades pesqueras
 
@@ -740,17 +726,19 @@ Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Aula polivalente de un mínimo de 2 m² por alumno o alumna.
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
 
-Aula y/o Taller de Pesca de 150 m².
+- Taller de 7,5 m² por alumno o alumna.
+
+- Instalación de 2 m² por alumno o alumna.
 
 Perfil profesional del formador o formadora:
 
-1. Dominio de los conocimientos y las técnicas relacionados con la comprobación, registro e información de las actividades pesqueras de un buque, en un caladero determinado, que se acreditará mediante una de las formas siguientes:
+1. Dominio de los conocimientos y las técnicas relacionados con la comprobación, registro e información de las actividades pesqueras de un buque, en un caladero determinado, que se acreditará mediante una de las dos formas siguientes:
 
-– Formación académica de Diplomado/a, titulación de grado equivalente o de otras de superior nivel relacionadas con este campo profesional.
+- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
 
-– Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este modulo formativo.
+- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
 
 2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
 
@@ -762,13 +750,11 @@ Código: MF1901_3
 
 Asociado a la UC: Controlar las capturas del buque y el cumplimiento de la normativa pesquera en la zona sometida a regulación
 
-Duración: 120
-
-horas
+Duración: 120 horas
 
 Capacidades y criterios de evaluación:
 
-C1: Identificar y obtener capturas de las diferentes especies considerando cada operación de pesca.
+C1: Obtener capturas de las diferentes especies una vez identificadas, considerando cada operación de pesca.
 
 CE1.1 Reconocer las especies que aparecen en la composición de la captura, de acuerdo a las claves de identificación, para calcular la captura total por especie.
 
@@ -780,17 +766,35 @@ CE1.4 En un supuesto práctico de control de la actividad pesquera en un buque, 
 
 CE1.5 En un supuesto práctico de desembarco de capturas, verificar los datos registrados a bordo con los obtenidos de la descarga para su corrección, en caso necesario.
 
-C2: Identificar y estimar la composición de los descartes y capturas accesorias en cada operación de pesca.
+C2: Estimar la composición de los descartes y capturas accesorias en cada operación de pesca una vez identificadas.
 
-CE2.1 Reconocer las especies no objetivo y los descartes que aparecen en la composición de la captura, para establecer la captura retenida a bordo.
+CE2.1 Reconocer las especies de pesca no objetivo y los descartes que aparecen en la composición de la captura, para establecer la captura retenida a bordo.
 
-CE2.2 En un supuesto práctico de control de la actividad pesquera en un buque, registrar las especies no objetivo y las capturas rechazadas, especificando las causas que originan su descarte con el fin de obtener la captura total de un lance.
+CE2.2 Reconocer los grupos taxonómicos de invertebrados marinos bentónicos, de acuerdo a las claves de identificación, para registrar la presencia de organismos indicadores de ecosistemas marinos vulnerables.
 
-CE2.3 Enumerar los cálculos que se deben realizar para estimar la fracción de la captura descartada.
+CE2.3 En un supuesto práctico de control de la actividad pesquera en un buque, registrar las especies pesqueras no objetivo y las capturas rechazadas incluyendo los invertebrados bentónicos, especificando las causas que originan su descarte con el fin de obtener la captura total de un lance.
 
-CE2.4 En un supuesto práctico de control de la actividad pesquera en un buque, establecer la distribución de tallas de las especies sometidas a regulación comprobando si las tallas de las especies son inferiores a las reglamentarias.
+CE2.4 Enumerar los cálculos que se deben realizar para estimar la fracción de la captura descartada.
 
-CE2.5 Identificar las medidas de gestión y conservación según la normativa de cada área de pesca, para poder verificar el grado de cumplimiento de las mismas.
+CE2.5 En un supuesto práctico de control de la actividad pesquera en un buque:
+
+- Establecer la distribución de tallas de las especies pesqueras.
+
+- Registrar la composición de los descartes teniendo en cuenta los protocolos establecidos, considerando las capturas accidentales de especies no objetivo (aves, tortugas marinas, cetáceos y elasmobranquios protegidos), indicando, siempre que sea posible, el número de ejemplares y la especie a la que pertenecen, las coordenadas geográficas del punto de captura, si el individuo se ha capturado vivo o muerto, destino final, y en caso de que los ejemplares tuviesen una etiqueta, anilla, o marca (convencional o satélite) deberá anotarse la referencia y número que aparece en dichas marcas, comunicándolo a las administraciones.
+
+CE2.6 Identificar las medidas de gestión y conservación según la normativa aplicable de cada área de pesca.
+
+CE2.7 En un supuesto práctico relacionado con un encuentro fortuito con ecosistemas marinos vulnerables (aves, tortugas marinas, cetáceos y elasmobranquios protegidos, entre otros), registrar según protocolos establecidos:
+
+- Identificación de los animales capturados.
+
+- Determinación de coordenadas geográficas del punto de captura.
+
+- Situación del individuo, aún vivo o muerto y cuál ha sido su destino final.
+
+- Detección de etiqueta, anilla, o marca -convencional o satélite-, posterior anotación de la referencia y número que aparece en dichas marcas, y comunicación a las administraciones.
+
+- Número de ejemplares y especie a la que pertenecen.
 
 C3: Estimar el esfuerzo pesquero a que se somete una pesquería teniendo en cuenta el control de la actividad del buque.
 
@@ -798,49 +802,69 @@ CE3.1 Describir las especificaciones del arte utilizado en función del tipo de 
 
 CE3.2 Reconocer los parámetros utilizados según los distintos artes o aparejos para registrar el tiempo de pesca.
 
-CE3.3 Describir las operaciones diarias del buque en el área de trabajo con el fin de verificar el cumplimiento de la normativa.
+CE3.3 Describir las operaciones diarias del buque en el área de trabajo de pesca.
 
-C4: Obtener información biológica de especies presentes en una captura atendiendo a protocolos establecidos.
+C4: Obtener información biológica de especies pesqueras presentes en una captura atendiendo a protocolos establecidos.
 
-CE4.1 Describir los tipos de muestreo, teniendo en cuenta la especie para la obtención de la información solicitada.
+CE4.1 Describir los tipos de muestreo, teniendo en cuenta la especie pesquera para la obtención de la información solicitada.
 
-CE4.2 Enumerar los protocolos utilizados en la recogida y conservación de muestras biológicas, en función de las características de las especies.
+CE4.2 Enumerar los protocolos utilizados en la recogida y conservación de muestras biológicas, en función de las características de las especies pesqueras.
 
-CE4.3 En un supuesto práctico de toma de muestras siguiendo instrucciones y procedimientos establecidos:
+CE4.3 En un supuesto práctico de toma de muestras de especies pesqueras siguiendo instrucciones y procedimientos establecidos:
 
-– Describir los medios y útiles para la extracción de muestras.
+- Describir los medios y útiles para la extracción de muestras de especies pesqueras.
 
-– Aplicar la metodología para la realización de los muestreos.
+- Aplicar la metodología para la realización de los muestreos sobre especies pesqueras.
 
 CE4.4 En un supuesto práctico de control de la actividad pesquera en un buque, rellenar un estadillo de registro de la información, siguiendo las instrucciones concretas de cumplimentación del mismo.
 
-C5: Seleccionar y determinar comunicaciones en cada área de pesca, con el fin de establecer las notificaciones predefinidas.
+C5: Aplicar técnicas de medición de las variables ambientales y ecológicas para su posterior registro como sistema de protección a la biodiversidad, teniendo en cuenta el medio marino en el que interactúan.
 
-CE5.1 Enumerar e identificar los formularios, en función de la información solicitada, para cumplimentar los informes periódicos.
+CE5.1 Definir los términos de temperatura, conductividad (salinidad), transparencia entre otras teniendo en cuenta su comportamiento en el medio marino.
 
-CE5.2 Seleccionar el tipo de información y el esquema de las notificaciones con los servicios de Inspección y Vigilancia, en base a los protocolos de comunicación.
+CE5.2 Relacionar las especies sensibles (mamíferos, aves, reptiles, entre otros) según su presencia e influencia en el medio marino.
 
-CE5.3 En un supuesto práctico de control de la actividad pesquera en un buque:
+CE5.3 En un supuesto práctico de medida de variables ambientales en el medio marino:
 
-– Identificar y utilizar los medios técnicos a bordo del buque, en función del tipo de comunicación.
+- Utilizar sensores para medir la conectividad (salinidad).
 
-– Emplear el idioma normativizado O.M.I. cuando el establecimiento de las comunicaciones lo requiera.
+- Utilizar correntímetros para medir la velocidad y dirección de las corrientes marinas.
 
-C6: Aplicar el proceso de elaboración del informe final, teniendo en cuenta la normativa para obtener los resultados del periodo de observación.
+- Utilizar termómetros eléctricos y comprobar en mapas las características de la temperatura de las aguas.
 
-CE6.1 Describir la estructura del informe final, para elaborarlo de acuerdo a las especificaciones particulares de cada área de trabajo.
+-Interpretar datos a partir de mapas o de sistemas de comunicación (satélites, entre otros).
 
-CE6.2 En un supuesto práctico de control de la actividad pesquera en un buque, almacenar y tratar los datos obtenidos a bordo, utilizando los programas informáticos específicos.
+CE5.4 En un supuesto práctico de variables ecológicas (especies sensibles: mamíferos, aves, reptiles) en el medio marino, realizar un registro contemplando las siguientes variables:
 
-CE6.3 En un supuesto práctico de control de la actividad pesquera en un buque, seleccionar la información contenida en los estadillos, según las características requeridas para la elaboración del informe final.
+- Edad, tamaño, comunidad, convivencia de especies en un mismo espacio, temporalidad, alimentación, entre otras.
 
-CE6.4 Analizar y verificar las salidas de resultados de los programas informáticos, según el informe final a elaborar.
+C6: Determinar comunicaciones en cada área de pesca, seleccionadas a fin de establecer las notificaciones predefinidas con las administraciones responsables del seguimiento y de la gestión de las pesquerías.
+
+CE6.1 Enumerar e identificar los formularios, en función de la información solicitada, para cumplimentar los informes periódicos relativos a especies pesqueras.
+
+CE6.2 Seleccionar el tipo de información y el esquema vinculados a la actividad del buque de las notificaciones con las Administraciones competentes, en base a los protocolos de comunicación.
+
+CE6.3 En un supuesto práctico de observación de la actividad pesquera en un buque:
+
+- Utilizar los medios técnicos a bordo del buque, previamente identificados en función del tipo de comunicación.
+
+- Emplear el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI), cuando el establecimiento de las comunicaciones lo requiera.
+
+C7: Aplicar procesos de elaboración del informe final, teniendo en cuenta la normativa aplicable para obtener los resultados del periodo de observación de la actividad pesquera.
+
+CE7.1 Describir la estructura del informe final vinculado con la actividad pesquera, para elaborarlo de acuerdo a las especificaciones particulares de cada área de trabajo.
+
+CE7.2 En un supuesto práctico de observación de la actividad pesquera en un buque, almacenar y tratar los datos obtenidos a bordo, utilizando los programas informáticos específicos.
+
+CE7.3 En un supuesto práctico de observación de la actividad pesquera en un buque, seleccionar la información contenida en los estadillos, según las características requeridas para la elaboración del informe final.
+
+CE7.4 Verificar las salidas de resultados de los programas informáticos vinculados con la actividad pesquera previamente analizadas, según el informe final a elaborar.
 
 Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:
 
-C1 respecto a CE1.3, CE1.4 y CE1.5; C2 respecto a CE2.2 y CE2.4; C4 respecto a CE4.3 y CE4.4; C5 respecto a CE5.3; C6 respecto a CE6.2 y CE6.3.
+C1 respecto a CE1.3, CE1.4 y CE1.5; C2 respecto a CE2.3, CE2.5 y CE2.7; C4 respecto a CE4.3 y CE4.4; C5 respecto a CE5.3 y CE5.4; C6 respecto a CE6.3; C7 respecto a CE7.2 y CE7.3.
 
-Otras capacidades.
+Otras capacidades:
 
 Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
 
@@ -878,6 +902,8 @@ Descarga en puerto: verificación de las capturas.
 
 Especies pesqueras explotadas.
 
+Ecosistemas marinos vulnerables (aves, tortugas marinas, cetáceos y elasmobranquios protegidos, entre otros). Registro: situación del individuo, destino final; etiqueta, anilla, o marca -convencional o satélite-.
+
 Aprovechamiento de recursos pesqueros.
 
 Procedimientos para la estimación del descarte.
@@ -890,7 +916,9 @@ Tallas mínimas legales.
 
 Medidas de gestión y conservación.
 
-3. Control de la actividad pesquera de un buque
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+3. Observación de la actividad pesquera de un buque
 
 Zonas estadísticas de pesca (caladeros, áreas, divisiones, entre otros).
 
@@ -898,7 +926,7 @@ Operación de pesca.
 
 Esfuerzo pesquero.
 
-Normativa pesquera.
+Normativa aplicable pesquera.
 
 4. Muestreo biológico en el proceso de la actividad pesquera de un buque
 
@@ -912,9 +940,19 @@ Técnicas de conservación de muestras biológicas.
 
 Útiles para la extracción de muestras: manipulación.
 
-5. Notificaciones e informes de la actividad pesquera de un buque
+Sistemas de comunicación (satélites, entre otros).
 
-Servicio de inspección y vigilancia: instrucciones.
+5. Obtención y registro de variables ambientales
+
+Técnicas de medición de variables ambientales y ecológicas en el medio marino.
+
+Variables ambientales y ecológicas (especies sensibles (mamíferos, aves, reptiles, entre otros)).
+
+Sistema de Medición de variables ambientales y ecológicas.
+
+6. Notificaciones e informes de la actividad pesquera de un buque
+
+Encuentros fortuitos con ecosistemas marinos vulnerables.
 
 Informes periódicos de actividad.
 
@@ -924,19 +962,19 @@ Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Aula polivalente de un mínimo de 2 m² por alumno o alumna.
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
 
-Laboratorio técnico de pesca de 45 m².
+- Taller de 7 m² por alumno o alumna.
 
-Buque de prácticas. (Espacio singular no necesariamente ubicado en el centro de formación)
+- Instalación de 2 m² por alumno o alumna.
 
 Perfil profesional del formador o formadora:
 
-1. Dominio de los conocimientos y las técnicas relacionados con el control de las capturas del buque y el cumplimiento de la normativa pesquera en la zona sometida a regulación, que se acreditará mediante una de las formas siguientes:
+1. Dominio de los conocimientos y las técnicas relacionados con el control de las capturas del buque y el cumplimiento de la normativa pesquera en la zona sometida a regulación, que se acreditará mediante una de las dos formas siguientes:
 
-– Formación académica de Diplomado/a, titulación de grado equivalente o de otras de superior nivel relacionadas con este campo profesional.
+- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
 
-– Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
 
 2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
 
@@ -1004,7 +1042,7 @@ CE4.1 Explicar la información relativa al contenido de un plan de contingencia 
 
 CE4.2 Identificar las señales de emergencia a bordo teniendo en cuenta el plan de contingencia con el fin de preservar la seguridad de la vida humana en la mar.
 
-CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la ley de prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.
+CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la normativa sobre prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.
 
 CE4.4 Enumerar las medidas a tener en cuenta para proteger el medio marino y evitar su contaminación, según la normativa aplicable.
 
@@ -1098,7 +1136,7 @@ Condiciones de trabajo y seguridad.
 
 Equipos de protección personal y colectiva.
 
-Reglamentación en materia de prevención de riesgos laborales.
+Normativa sobre prevención de riesgos laborales.
 
 Prevención de la contaminación del medio marino. Efectos de la contaminación accidental u operacional del medio marino.
 
@@ -1128,7 +1166,7 @@ Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos, salud laboral, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
 
 - Instalación de 2 m² por alumno o alumna.
 
@@ -1141,5 +1179,7 @@ Perfil profesional del formador o formadora:
 - Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
 
 2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+> Se modifica por el art. 12 y anexo XXV de la Orden EFP/63/2021, de 21 de enero. Ref. BOE-A-2021-1266
 
 > Se modifican la unidad de competencia «UC0010_1» y el módulo formativo asociado «MF0010_1», y la unidad de competencia «UC0733_1» y el módulo formativo asociado «MF0733_1» por los que figuran en el anexo I de la Orden EFP/953/2020, de 12 de octubre, según establece el art. 5.6 de la misma. Ref. BOE-A-2020-12259

@@ -1,8 +1,8 @@
 ## ANEXO DLXXV
 
-## CUALIFICACIÓN PROFESIONAL: OPERACIONES DE COORDINACIÓN EN CUBIERTA Y PARQUE DE PESCA
+## Cualificación profesional: Operaciones de coordinación en cubierta y parque de pesca
 
-Familia Profesional: Marítimo-Pesquera
+Familia Profesional: Marítimo - Pesquera
 
 Nivel: 2
 
@@ -10,55 +10,55 @@ Código: MAP575_2
 
 Competencia general
 
-Distribuir a la tripulación de cubierta y del parque de pesca para ejecutar las órdenes recibidas del superior responsable, coordinando las operaciones de mantenimiento, maniobras, montaje y reparación de artes y aparejos, así como de clasificación, elaboración, y conservación de las especies capturadas y su estiba en las bodegas, observando las normas higiénico-sanitarias y de seguridad establecidas.
+Distribuir a la tripulación de cubierta del buque y del parque de pesca para ejecutar las órdenes recibidas del superior responsable, coordinando las operaciones de mantenimiento, maniobras, montaje y reparación de artes y aparejos, así como de clasificación, elaboración, y conservación de las especies capturadas y su estiba en las bodegas, observando las normas higiénico-sanitarias y de seguridad aplicables.
 
 Unidades de competencia
 
-UC0010_1: Contribuir a las operaciones de cubierta en una embarcación pesquera.
+UC0010_1: Contribuir a las operaciones de cubierta en una embarcación pesquera
 
-UC1894_2: Distribuir y efectuar las operaciones de mantenimiento, maniobras de cubierta y pesca, montaje y reparación de artes y aparejos, y manipulación de las capturas.
+UC1894_2: Distribuir y efectuar las operaciones de mantenimiento, maniobras de cubierta y pesca, montaje y reparación de artes y aparejos, y manipulación de las capturas
 
-UC1895_2: Distribuir y ejecutar los trabajos del parque de pesca y estiba de las capturas.
+UC1895_2: Distribuir y ejecutar los trabajos del parque de pesca y estiba de las capturas
 
-UC0733_1: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo.
+UC0733_1: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo
 
 Entorno Profesional
 
 Ámbito Profesional
 
-Desarrolla su actividad profesional, normalmente por cuenta ajena, en buques de pesca, industrias pesqueras, rederías y en plantas industriales dedicadas a la conservación, manipulación de los productos pesqueros. Su actividad profesional está sometida a regulación por la Administración competente.
+Desarrolla su actividad profesional en buques de pesca, industrias pesqueras, rederías y en plantas industriales dedicadas a la conservación, manipulación de los productos pesqueros, en empresas de cualquier tamaño, tanto por cuenta propia como ajena, con independencia de su forma jurídica. Desarrolla su actividad dependiendo, en su caso, funcional y/o jerárquicamente de un superior. Puede tener personal a su cargo en ocasiones, por temporadas o de forma estable. Su actividad profesional está sometida a regulación por la Administración competente. En el desarrollo de la actividad profesional se aplican los principios de accesibilidad universal y diseño universal o diseño para todas las personas de acuerdo con la normativa aplicable.
 
 Sectores Productivos
 
-Se ubica en el sector marítimo-pesquero, y concretamente en las actividades productivas de: Pesca extractiva. Plantas industriales pesqueras. Industrias auxiliares de la pesca (fábricas de redes, manipulación de productos pesqueros).
+Se ubica en el sector marítimo-pesquero, y concretamente en las actividades productivas de pesca extractiva. Plantas industriales pesqueras. Industrias auxiliares de la pesca (fábricas de redes, manipulación de productos pesqueros).
 
 Ocupaciones y puestos de trabajo relevantes
 
-Redero.
+Los términos de la siguiente relación de ocupaciones y puestos de trabajo se utilizan con carácter genérico y omnicomprensivo de mujeres y hombres.
 
-Contramaestre de pesca.
+Rederos
 
-Contramaestre de congelación.
+Marineros en buques de pesca
 
-Marinero.
+Marineros en buques mercantes
 
-Marinero pescador.
+Contramaestres de congelación
 
-Formación Asociada
+Contramaestres de pesca
 
-(300 horas)
+Formación Asociada (300 horas)
 
 Módulos Formativos
 
-MF0010_1: Labores de cubierta en buque de pesca. (30 horas)
+MF0010_1: Labores de cubierta en buque de pesca (30 horas)
 
-MF1894_2: Labores de pesca y cubierta. (120 horas)
+MF1894_2: Labores de pesca y cubierta (120 horas)
 
-MF1895_2: Labores de parque de pesca. (90 horas)
+MF1895_2: Labores de parque de pesca (90 horas)
 
-MF0733_1: Seguridad y primeros auxilios a bordo. (60 horas)
+MF0733_1: Seguridad y primeros auxilios a bordo (60 horas)
 
-UNIDAD DE COMPETENCIA 1: CONTRIBUIR A LAS OPERACIONES DE CUBIERTA EN UNA EMBARCACIÓN PESQUERA.
+UNIDAD DE COMPETENCIA 1: CONTRIBUIR A LAS OPERACIONES DE CUBIERTA EN UNA EMBARCACIÓN PESQUERA
 
 Nivel: 1
 
@@ -116,77 +116,79 @@ Código: UC1894_2
 
 Realizaciones profesionales y criterios de realización:
 
-RP 1: Recepcionar, estibar y controlar los pertrechos, provisiones, materiales y equipos, atendiendo a las características del buque y sus pañoles, a fin de garantizar su mantenimiento durante la campaña o marea.
+RP1: Controlar los pertrechos, provisiones, materiales y equipos, procediendo a su recepción y estiba, atendiendo a las características del buque y sus pañoles, a fin de garantizar su mantenimiento durante la campaña o marea.
 
-CR 1.1 Los pertrechos, provisiones, materiales y equipos se recepcionan, controlan, almacenan y estiban siguiendo las instrucciones del superior responsable, de manera precisa y segura, para evitar peligros e incidentes durante la campaña o marea.
+CR1.1 Los pertrechos, provisiones, materiales y equipos se gestionan (recepción, control, almacenado, estibado y organización) en el buque para evitar peligros e incidentes durante la campaña o marea, siguiendo las instrucciones del superior responsable.
 
-CR 1.2 Los pañoles de pinturas y cabullería, se vigilan diariamente, asegurándose de que se mantenga la aireación y estanqueidad, para evitar posibles incendios o deterioros.
+CR1.2 Los pañoles de pinturas y cabuyería se controlan diariamente, asegurando el mantenimiento de la aireación y estanqueidad, para evitar posibles incendios o deterioros.
 
-CR 1.3 El inventario de los materiales y demás elementos de mantenimiento almacenados en los pañoles, se controla mediante un registro periódico durante la campaña o marea, para poder realizar el oportuno pedido a la finalización de la misma.
+CR1.3 El inventario de los materiales y demás elementos de mantenimiento almacenados en los pañoles se controla, mediante un registro en función de protocolos establecidos durante la campaña o marea, para poder realizar el oportuno pedido a la finalización de la misma.
 
-CR 1.4 La entrega y recepción de las herramientas que se utilizan en el trabajo diario, se realiza directamente, para evitar la perdida o mal uso de las mismas.
+CR1.4 Las herramientas que se utilizan en el trabajo diario se recepcionan (emisión y entrega) en función de protocolos establecidos, para evitar la pérdida o mal uso de las mismas.
 
-CR 1.5 Los equipos de pesca y sus elementos se limpian, secan, desmontan y estiban, de forma que se coloquen en lugares con buena aireación, protegidos del sol y de agentes nocivos para garantizar su conservación.
+CR1.5 El estado de uso de los equipos de pesca y sus elementos se mantienen, limpiándolos, secándolos, desmontándolos y estibándolos, asegurando que se coloquen en lugares con buena aireación, protegidos del sol y de agentes nocivos para garantizar su conservación.
 
-RP 2: Colaborar en las maniobras del buque, trabajos de mantenimiento, conservación y guardias, observando las normas de seguridad para un buen funcionamiento de la tripulación y del buque.
+RP2: Contribuir al funcionamiento del buque a partir de operaciones de mantenimiento, conservación y guardias, colaborando en las maniobras con otros profesionales, observando las normas de seguridad para favorecer el desarrollo de la travesía.
 
-CR 2.1 La jarcia de labor se revisa, aclara y prepara siguiendo procedimientos marineros al uso, después de cada maniobra, para que esta pueda realizarse con rapidez y seguridad.
+CR2.1 La jarcia de labor (nudos y cuerdas) se prepara después de cada maniobra, revisándola y aclarándola, siguiendo procedimientos marineros al uso, para que esta pueda realizarse con rapidez y seguridad.
 
-CR 2.2 Los elementos mecánicos móviles pescantes, maquinillas, pastecas, chigres, entre otros, se revisan, prueban y engrasan de manera periódica, para garantizar un funcionamiento seguro.
+CR2.2 Los elementos mecánicos móviles como pescantes, maquinillas, pastecas, chigres, entre otros, se mantienen llevando a cabo la revisión, pruebas y engrases según protocolos establecidos, para garantizar un funcionamiento seguro.
 
-CR 2.3 Los tripulantes encargados de la limpieza, rascado y pintado, son distribuidos en las zonas de trabajo según las instrucciones del superior, dotándolos del material preciso para realizar los trabajos de mantenimiento.
+CR2.3 El mantenimiento vinculado con la limpieza, rascado y pintado se distribuye entre la tripulación en función de las zonas de trabajo según las instrucciones del superior, dotándola del material preciso para realizar los trabajos.
 
-CR 2.4 Las guardias de mar y puerto se reparten entre los marineros atendiendo a los horarios y otros trabajos de los mismos, según las instrucciones recibidas, para garantizar la seguridad del buque.
+CR2.4 Las guardias de mar y puerto se reparten entre la tripulación atendiendo a los horarios y otros trabajos de los mismos, según las instrucciones recibidas, para garantizar la seguridad del buque.
 
-CR 2.5 Las «medidas de policía» se controla que se llevan a cabo en pasillos, comedores, camarotes, entre otros, siguiendo las indicaciones del oficial responsable, para cumplir las normas higiénicas y de convivencia en el buque.
+CR2.5 Las «medidas de policía» se controlan garantizado la actividad en pasillos, comedores, camarotes, entre otros, siguiendo las indicaciones del superior responsable, para cumplir las normas higiénicas y de convivencia en el buque.
 
-RP 3: Distribuir a la tripulación de acuerdo al sistema de pesca empleado, atendiendo a las características de los equipos de cubierta y las condiciones meteorológicas, para que la maniobra pueda realizarse con rapidez y seguridad.
+RP3: Distribuir la tripulación de acuerdo al sistema de pesca empleado, atendiendo a las características de los equipos de cubierta y las condiciones meteorológicas, para que la maniobra pueda realizarse con rapidez y seguridad.
 
-CR 3.1 Los elementos fijos y móviles de cubierta que intervienen en las maniobras de pesca, se preparan antes del comienzo de las mismas, comprobando su funcionamiento, para evitar posibles retrasos o averías que afecten a los índices de seguridad y eficacia.
+CR3.1 Los elementos fijos y móviles de cubierta que intervienen en las maniobras de pesca se preparan antes del comienzo de las mismas, comprobando su funcionamiento, para evitar posibles retrasos o averías que afecten a los índices de seguridad y eficacia.
 
-CR 3.2 El equipo de pesca a utilizar se repasa y prepara en cubierta, según las órdenes del capitán o patrón, para que la largada se efectúe en el menor tiempo posible y de forma segura.
+CR3.2 El equipo de pesca a utilizar se prepara en cubierta según las órdenes del capitán o patrón, llevando acabo su chequeo para asegurar que la largada se efectúe en el menor tiempo posible y de forma segura.
 
-CR 3.3 El personal de cubierta que participa en las maniobras de pesca se distribuye siguiendo las indicaciones del capitán o patrón, teniendo en cuenta la distribución de la cubierta y las condiciones meteorológicas del momento para evitar cualquier tipo de accidente.
+CR3.3 El personal de cubierta que participa en las maniobras de pesca se destina siguiendo las indicaciones del capitán o patrón, teniendo en cuenta la disposición espacial de la cubierta y las condiciones meteorológicas del momento, para evitar cualquier tipo de accidente.
 
-CR 3.4 Las maniobras de largado, virado y cualquier otra que pueda producirse durante el lance, así como la intervención de los marineros en las mismas, se vigilan atendiendo a criterios de seguridad y eficacia, para evitar posibles riesgos al personal y al equipo de pesca.
+CR3.4 Las maniobras de largado, virado y cualquier otra que pueda producirse durante el lance, así como la intervención de los marineros en las mismas, se controlan atendiendo a criterios de seguridad y eficacia, para evitar posibles riesgos al personal y al equipo de pesca.
 
-CR 3.5 Las anomalías que se puedan detectar en el equipo de pesca, durante y al finalizar la maniobra de virada se comunican de inmediato al superior para tratar de evitar posibles averías.
+CR3.5 Las anomalías que se puedan detectar en el equipo de pesca, durante y al finalizar la maniobra de virada se comunican de inmediato, para tratar de evitar posibles averías.
 
-RP 4: Montar y reparar el equipo de pesca de forma que se garantice su funcionalidad para efectuar las capturas.
+RP4: Preparar el equipo de pesca ya sea montándolo o reparándolo de forma que se garantice su funcionalidad para efectuar las capturas.
 
-CR 4.1 Las partes que componen los equipos de pesca a utilizar, así como las abreviaturas y símbolos, se identifican e interpretan conforme a los planos, lo que permite el montaje del útil, aparejo o arte de que se trate.
+CR4.1 Las partes que componen los equipos de pesca a utilizar, así como las abreviaturas y símbolos se localizan conforme a los planos a fin de favorecer el montaje del útil, aparejo o arte de que se trate una vez identificado.
 
-CR 4.2 El armado de las relingas y costadillos así como el montaje de los paños y refuerzos sobre ellos en las artes y de los elementos que componen los útiles y aparejos, se realiza atendiendo a las indicaciones del plano correspondiente para el ajuste de los mismos.
+CR4.2 Las relingas y costadillos, así como el montaje de los paños y refuerzos sobre ellos en las artes y los elementos que componen los útiles y aparejos se arman, atendiendo a las indicaciones del plano correspondiente, para el ajuste de los mismos.
 
-CR 4.3 Los daños, averías o roturas producidas durante el lance en el equipo de pesca, se detectan y evalúan a fin de buscar los materiales de repuesto y efectuar las reparaciones oportunas para mantener al útil, arte o aparejo dañados en condiciones de pesca.
+CR4.3 Los daños, averías o roturas producidos durante el lance en el equipo de pesca se evalúan una vez detectados a fin de buscar los materiales de repuesto y efectuar las reparaciones oportunas para mantener al útil, arte o aparejo deteriorado en condiciones de pesca.
 
-CR 4.4 Las mallas averiadas de los paños en las artes se limpian y pican comprobando la falta o no de paño, y los elementos dañados de útiles y aparejos se deslían y limpian, a fin de reparar en tiempo y forma los daños producidos, siguiendo las especificaciones establecidas y técnicas al uso, para conseguir la misma capacidad pesquera anterior a la avería.
+CR4.4 Las mallas averiadas de los paños en las artes se adecuan para el nuevo uso (preparar, limpiar y picar, si procede), comprobando la falta o no de paño, para mantener la capacidad de pesca.
 
-CR 4.5 Las modificaciones en las composiciones primitivas de los equipos de pesca a utilizar, se realizan siguiendo las indicaciones del capitán o patrón, atendiendo a las prácticas marineras y respetos que se tengan a bordo, para tratar que dicha modificación sea efectiva.
+CR4.5 Los elementos dañados de los útiles y aparejos se ajustan, desliando y/o limpiando, si procede, a fin de reparar las averías producidas, siguiendo las especificaciones establecidas y técnicas al uso, para conseguir conservar la misma capacidad pesquera anterior a la avería.
 
-CR 4.6 La documentación técnica de los equipos, certificados de garantía, se interpreta, si es el caso, en el idioma extranjero de uso más frecuente en el sector.
+CR4.6 Las composiciones primitivas de los equipos de pesca a utilizar se modifican, siguiendo las indicaciones del capitán o patrón, atendiendo a las prácticas marineras y respetos que se tengan a bordo, para tratar que dicha modificación sea efectiva.
 
-RP 5: Realizar las operaciones de manipulación, estiba y conservación de las capturas atendiendo a las normas higiénico-sanitarias y de estiba, para preservar la calidad del producto.
+CR4.7 La documentación técnica de los equipos, certificados de garantía, entre otros, se interpreta, si es el caso, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
 
-CR 5.1 Los marineros se disponen de manera que, al introducir las capturas a bordo, se eviten riesgos a la tripulación y daños a las especies, para que el producto llegue a las fases de manipulación y elaboración en el mejor estado posible.
+RP5: Acondicionar las capturas a partir de operaciones de manipulación, estiba y conservación cumpliendo las normas higiénico-sanitarias y de estiba, para preservar la calidad del producto.
 
-CR 5.2 La limpieza y salubridad de la cubierta y el parque de pesca se controlan cumpliendo con las condiciones higiénico-sanitarias, para beneficiar el estado de conservación de las especies objeto de captura.
+CR5.1 Las capturas se introducen a bordo con ayuda de la tripulación, de tal manera que se eviten riesgos a la misma y daños a las especies, para que el producto llegue a las fases de manipulación y elaboración en el mejor estado posible.
 
-CR 5.3 La tripulación encargada de procesar, elaborar y clasificar las capturas se distribuye atendiendo a la estructura del parque de pesca y situación de su maquinaria, para que, cumpliendo con los criterios de seguridad e higiene, se pueda obtener la máxima eficacia y rendimiento.
+CR5.2 La limpieza y salubridad de la cubierta y el parque de pesca se controlan cumpliendo con las condiciones higiénico-sanitarias aplicables, para beneficiar el estado de conservación de las especies objeto de captura.
 
-CR 5.4 Los procesos de manipulación, refrigeración y congelación de las capturas se vigilan, atendiendo a las condiciones medio-ambientales, especies, temperaturas, duración de la marea, entre otras, para que a la vez de cumplir las normas higiénico-sanitarias, se logre la mejor conservación y presentación del producto.
+CR5.3 La tripulación encargada de procesar, elaborar y clasificar las capturas se distribuye atendiendo a la estructura del parque de pesca y situación de su maquinaria, para que cumpliendo con los criterios de seguridad e higiene, se pueda obtener eficacia y rendimiento.
 
-CR 5.5 Las capturas se cargan, distribuyen y estiban en las neveras y bodegas siguiendo las instrucciones del capitán o patrón, situando a los marineros de forma que las mismas puedan realizarse en el menor tiempo posible, con la máxima seguridad y sin dañar al producto para que éste llegue en condiciones óptimas de mercado.
+CR5.4 Los procesos de tratamiento para la conservación de las capturas (tales como manipulación, refrigeración, congelación) se garantizan, atendiendo a las condiciones medioambientales, especies, temperaturas, duración de la marea, entre otras, para que a la vez de cumplir las normas higiénico-sanitarias, se logre la mejor conservación y presentación del producto.
+
+CR5.5 Las capturas se introducen en las neveras y bodegas ya sea cargándolas, distribuyéndolas o estibándolas, siguiendo las instrucciones del capitán o patrón, situando a los marineros de forma que puedan realizarse en el menor tiempo posible, con seguridad y sin dañar al producto para que éste llegue con todas sus propiedades al mercado.
 
 Contexto profesional:
 
 Medios de producción:
 
-Cabos, cables, mordazas, grilletes, útiles y herramientas utilizadas en las maniobras y las diferentes estibas. Maquinillas, molinete, haladores, chigres, grúas, pescantes, pastecas, entre otros, utilizados en las maniobras del buque y en las de pesca. Picadoras, rasquetas, escobas, brochas, pinturas, paños, aceites, grasas, entre otros, utilizadas para el mantenimiento y conservación del buque. Paños de red, flotadores, burlones, malletas, esferas, puertas, cables, salabardos, rodillos, calas, cabos, boyas señalizadoras, pelotas, balones, anzuelos, carnadas, entre otros, utilizados para el armamento de útiles, aparejos y artes. Agujas, malleros, calibrador, metro, navajas, tijeras, hilos, paños, cabos, entre otros, utilizados para reparar útiles, aparejos y artes. Elementos de limpieza, guías transportadoras, cuchillos, máquinas limpiadoras y procesadoras, canaletas, mesas, plásticos, cajas, carretillas, entre otros, utilizados en la limpieza del parque de pesca y en la elaboración y estiba de las capturas.
+Cabos, cables, mordazas, grilletes, útiles y herramientas utilizadas en las maniobras y las estibas. Maquinillas, molinete, haladores, chigres, grúas, pescantes, pastecas, entre otros, utilizados en las maniobras del buque y en las de pesca. Picadoras, rasquetas, escobas, brochas, pinturas, paños, aceites, grasas, entre otros, utilizados para el mantenimiento y conservación del buque. Paños de red, flotadores, burlones, malletas, esferas, puertas, cables, salabardos, rodillos, calas, cabos, boyas señalizadoras, pelotas, balones, anzuelos, carnadas, entre otros, utilizados para el armamento de útiles, aparejos y artes. Agujas, malleros, calibrador, metro, navajas, tijeras, hilos, paños, cabos, entre otros, utilizados para reparar útiles, aparejos y artes. Elementos de limpieza, guías transportadoras, cuchillos, máquinas limpiadoras y procesadoras, canaletas, mesas, plásticos, cajas, carretillas, entre otros, utilizados en la limpieza del parque de pesca y en la elaboración y estiba de las capturas. Equipos de Protección Individual (EPI).
 
 Productos y resultados:
 
-Recepción, estiba y control de los pertrechos, provisiones, materiales y equipos del buque y sus pañoles. Colaboración en las maniobras del buque, trabajos de mantenimiento, conservación y guardias. Tripulación distribuida en el buque. Equipo de pesca montado y reparado. Operaciones de manipulación, estiba y conservación de las capturas realizadas.
+Pertrechos, provisiones, materiales y equipos controlados. Funcionamiento del buque a partir de operaciones de mantenimiento, conservación y guardias, mejorado. Tripulación de acuerdo al sistema de pesca empleado distribuida. Equipo de pesca preparado. Capturas acondicionadas.
 
 Información utilizada o generada:
 
@@ -200,61 +202,63 @@ Código: UC1895_2
 
 Realizaciones profesionales y criterios de realización:
 
-RP 1: Comprobar la maquinaria y el estado de limpieza del parque de pesca a fin de que las operaciones puedan desarrollarse con rapidez, seguridad y cumpliendo con la normativa higiénico-sanitaria.
+RP1: Comprobar la maquinaria y el estado de limpieza del parque de pesca a fin de que las operaciones puedan desarrollarse con rapidez, seguridad y cumpliendo con la normativa higiénico-sanitaria aplicable.
 
-CR 1.1 Los mamparos, techo y suelo del parque de pesca, así como sus luces y conducciones eléctricas y desagües del mismo, se revisan, y en su caso se limpian, aíslan y prueban, de acuerdo a las normas higiénico-sanitarias establecidas, para que todas las operaciones de manipulación se realicen con seguridad y sin demoras causadas por obstrucciones.
+CR1.1 Los mamparos, techo y suelo del parque de pesca, así como sus luces y conducciones eléctricas y desagües del mismo se revisan limpiando, aislando y probando su funcionamiento, de acuerdo a las normas higiénico-sanitarias aplicables, para que las operaciones de manipulación se realicen con seguridad y sin demoras causadas por obstrucciones.
 
-CR 1.2 Las puertas del pantano y de los trancaniles, las cintas transportadoras del parque de pesca, lavadoras y cortadoras, entre otros, se limpian asegurando su funcionamiento, para evitar demoras a la hora de comenzar la manipulación de las capturas.
+CR1.2 Las puertas del pantano y de los trancaniles, las cintas transportadoras del parque de pesca, lavadoras y cortadoras, entre otros, se limpian asegurando su funcionamiento, para evitar demoras a la hora de comenzar la manipulación de las capturas.
 
-CR 1.3 Las cintas de arrastre, cuchillas y rodillos de las máquinas fileteadoras se limpian, ajustan y comprueban teniendo en cuenta las normas de seguridad, para garantizar la producción deseada sobre el nivel bruto de capturas.
+CR1.3 Las cintas de arrastre, cuchillas y rodillos de las máquinas fileteadoras se adecuan, limpiando, ajustando y comprobando su funcionamiento, teniendo en cuenta las normas de seguridad, para garantizar la producción deseada sobre el nivel bruto de capturas.
 
-CR 1.4 Los elementos de limpieza, engrase, ajuste y recambio usados en las operaciones anteriores, se depositan próximos al parque de pesca, pero completamente aislados de éste, para garantizar las condiciones higiénico-sanitarias a la hora de efectuar las operaciones de manipulación.
+CR1.4 Los elementos de limpieza, engrase, ajuste y recambio usados en las operaciones anteriores se depositan próximos al parque de pesca, pero completamente aislados de éste, para garantizar las condiciones higiénico-sanitarias a la hora de efectuar las operaciones de manipulación.
 
-RP 2: Distribuir a la tripulación en el parque de pesca de acuerdo a las características del mismo, de forma que todas las operaciones de manipulación, se puedan realizar consiguiendo el aprovechamiento y rentabilidad del mismo.
+RP2: Distribuir la tripulación en el parque de pesca de acuerdo a las características del mismo, de forma que todas las operaciones de manipulación, se puedan realizar consiguiendo su aprovechamiento y rentabilidad.
 
-CR 2.1 La ropa y material de trabajo se reparte a los marineros, una vez comprobado su estado de limpieza y uso, para que en las labores a realizar se cumplan las normas higiénico-sanitarias específicas.
+CR2.1 La ropa y material de trabajo se reparte a los marineros, una vez comprobado su estado de limpieza y uso, para que en las labores a realizar se cumplan las normas higiénico-sanitarias aplicables.
 
-CR 2.2 Los marineros se distribuyen atendiendo a las órdenes del capitán o patrón, de acuerdo a las características del parque de pesca y la situación de las cintas de transporte y máquinas, para que la producción se logre con seguridad, en el mínimo tiempo y con el máximo aprovechamiento.
+CR2.2 Los marineros se distribuyen atendiendo a las órdenes del capitán o patrón, de acuerdo a las características del parque de pesca y la situación de las cintas de transporte y máquinas, para que la producción se logre con seguridad, en el mínimo tiempo y con el máximo aprovechamiento.
 
-CR 2.3 Las faenas de descartes, lavado, clasificación, cortado, fileteado, entre otras, se vigilan respetando la normativa pesquera de la zona, para conseguir un máximo aprovechamiento de las capturas.
+CR2.3 El lavado, clasificado, cortado, fileteado, entre otros, de las capturas se verifica respetando la normativa pesquera de la zona, para conseguir su máximo aprovechamiento.
 
-CR 2.4 Los trabajos de empaque en bandejas, cartones y otros, así como el número de piezas y peso de las mismas, se controla para conseguir un producto adaptado a la marca que se desea en calidad e higiene.
+CR2.4 El tratamiento de las capturas no deseadas se gestiona clasificándolas, preparándolas, almacenándolas, conservándolas y/o descartándolas, cuando proceda, para obtener los resultados pesqueros.
 
-CR 2.5 Los mensajes, expresiones, órdenes relativas a las operaciones de manipulación, si es necesario, se transmiten en el idioma extranjero de uso más frecuente en el sector, con precisión y sin dificultad en cualquier contexto, para garantizar la ejecución de las actividades.
+CR2.5 Los trabajos de empaque de las capturas se controlan en bandejas, cartones, entre otros, así como el número de piezas y peso de las mismas, para conseguir un producto adaptado a la marca que se desea en calidad e higiene.
 
-RP 3: Controlar los procesos de conservación de las capturas según los protocolos establecidos, para que éstas lleguen al mercado en condiciones de calidad.
+CR2.6 Los mensajes, expresiones y/u órdenes relativas a las operaciones de manipulación de la pesca se transmiten, si es necesario, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI), con precisión y sin dificultad en cualquier contexto, para garantizar la ejecución de las actividades.
 
-CR 3.1 Los túneles, armarios, cubas o cualquier otro elemento susceptible de ser empleado en el proceso posterior a la manipulación para la conservación de las capturas, se desescarcha, limpia o prepara, respetando las normas higiénico-sanitarias para conseguir que las capturas que se introduzcan en los mismos, obtengan las cualidades que se proponen en el mínimo tiempo según la especie de que se trata.
+RP3: Controlar los procesos de conservación de las capturas según los protocolos establecidos, para que éstas lleguen al mercado en condiciones de calidad.
 
-CR 3.2 La carga de las capturas en los espacios destinados a la congelación o preservación para su posterior conservación se efectúa teniendo en cuenta las características de la especie, las normas propias de cada sistema y el espacio de que se trata, para que la pesca llegue al mercado en condiciones de calidad.
+CR3.1 Los túneles, armarios, cubas o cualquier otro elemento susceptible de ser empleado en el proceso posterior a la manipulación para la conservación de las capturas se adecuan desescarchándolos, limpiándolos o preparándolos, respetando las normas higiénico-sanitarias para conseguir que las capturas que se introduzcan en los mismos, obtengan las cualidades que se proponen en el mínimo tiempo según la especie de la que se trate.
 
-CR 3.3 Las temperaturas, concentración de sal o cualquier otro factor que perjudique la calidad del producto, se vigila, informando al superior encargado de cualquier anomalía en los mismos, para evitar un posible deterioro de las capturas.
+CR3.2 La carga de las capturas se efectúa en los espacios destinados a la congelación o preservación para su posterior conservación, teniendo en cuenta las características de la especie y el espacio del que se trate, para que la pesca llegue al mercado en condiciones de calidad.
 
-CR 3.4 La descarga de los túneles, armarios, entre otros y los posteriores trabajos de glaseado, encajado, flejeado y marcado se realizan, previa consulta con el oficial encargado, para conseguir que las capturas lleguen a puerto en condiciones de envasado y plenamente identificadas.
+CR3.3 Las temperaturas, concentración de sal o cualquier otro factor que perjudique la calidad del producto se controla, informando al superior encargado de cualquier anomalía en los mismos, para evitar un posible deterioro de las capturas.
 
-RP 4: Realizar y vigilar la estiba de las capturas siguiendo las indicaciones de su superior, para evitar el deterioro de las mismas y los riesgos para la estabilidad.
+CR3.4 La descarga de túneles, armarios, entre otros, y los posteriores trabajos de glaseado, encajado, flejeado y marcado se efectúan, previa consulta con el oficial encargado, para conseguir que las capturas lleguen a puerto envasadas y plenamente identificadas.
 
-CR 4.1 El grado de limpieza de la bodega, escalas, termómetros de ambiente, higrómetros y funcionamiento de los pozos de sentinas se revisa antes de comenzar la carga, informando y reparando cualquier anormalidad para que la carga pueda efectuarse con las debidas garantías y en condiciones de seguridad.
+RP4: Controlar la estiba de las capturas siguiendo las indicaciones de su superior, para evitar el deterioro de las mismas y los riesgos para la estabilidad del buque.
 
-CR 4.2 El estado y sujeciones de las canaletas de conducción de las capturas a las bodegas, se comprueban antes de comenzar las operaciones, para evitar atrasos en la estiba y riesgos personales.
+CR4.1 El grado de limpieza de la bodega, escalas, termómetros de ambiente, higrómetros y funcionamiento de los pozos de sentinas se revisan antes de comenzar la carga, informando y reparando cualquier anormalidad, para que la carga pueda efectuarse con las debidas garantías y en condiciones de seguridad.
 
-CR 4.3 La colocación y estiba de las partidas se realiza con orden y seguridad, salvaguardando la integridad de los marineros que trabajan en la misma y siguiendo las instrucciones del capitán o patrón, para que el producto llegue en condiciones exigidas por la normativa vigente.
+CR4.2 El estado y sujeciones de las canaletas de conducción de las capturas a las bodegas se comprueban antes de comenzar las operaciones, para evitar atrasos en la estiba y riesgos personales.
 
-CR 4.4 La temperatura, grado de humedad, pequeños corrimientos interiores, entre otros, se vigilan diariamente, dando cuenta al oficial responsable de cualquier anomalía, para evitar que se puedan producir daños a la carga o al buque.
+CR4.3 Las partidas se colocan con orden y seguridad, estibándolas previamente y salvaguardando la integridad de los marineros que trabajan en la misma y siguiendo las instrucciones del capitán o patrón.
+
+CR4.4 La temperatura, grado de humedad, pequeños corrimientos interiores, entre otros, se controlan diariamente, dando cuenta al superior responsable de cualquier anomalía, para evitar que se puedan producir daños a la carga o al buque.
 
 Contexto profesional:
 
 Medios de producción:
 
-Elementos de limpieza, luces y tubos, cables eléctricos y material aislante, grasa, cintas transportadoras, lavadoras, cortadoras, cuchillas, rodillos, entre otros, utilizados para mantener en buen estado higiénico y operativo el parque de pesca. Gorros, guantes, mandiletas, botas, cuchillos, plásticos, cajas, entre otros, utilizados en la vestimenta de los manipuladores, y elaboración de los productos pesqueros. Túneles, armarios, cubas, útiles de limpieza, carga y descarga de los mismos, termómetros, densímetros, equipos de glaseado, flejado y marcado, entre otros, utilizados en los procesos de conservación de las capturas. Guías, canaletas, útiles de estiba, girómetros, termómetros, entre otros, utilizados en los procesos de estiba de la carga.
+Elementos de limpieza, luces y tubos, cables eléctricos y material aislante, grasa, cintas transportadoras, lavadoras, cortadoras, cuchillas, rodillos, entre otros, utilizados para mantener en buen estado higiénico y operativo el parque de pesca. Gorros, guantes, mandiletas, botas, cuchillos, plásticos, cajas, entre otros, utilizados en la vestimenta de los manipuladores, y elaboración de los productos pesqueros. Túneles, armarios, cubas, útiles de limpieza, carga y descarga de los mismos, termómetros, densímetros, equipos de glaseado, flejado y marcado, entre otros, utilizados en los procesos de conservación de las capturas. Guías, canaletas, útiles de estiba, girómetros, termómetros, entre otros, utilizados en los procesos de estiba de la carga. Equipos de Protección Individual (EPI).
 
 Productos y resultados:
 
-Maquinaria y estado de limpieza del parque de pesca, comprobados. Tripulación en el parque de pesca distribuida. Procesos de conservación de capturas controlados. Estiba de las capturas realizada y vigilada.
+Maquinaria y estado de limpieza del parque de pesca, comprobados. Tripulación en el parque de pesca distribuida. Procesos de conservación de capturas controlados. Estiba de las capturas a realizar vigilada.
 
 Información utilizada o generada:
 
-Ordenes del superior. Vocabulario marítimo y pesquero. Información sobre elementos y útiles de limpieza. Instrucciones de mantenimiento y conservación de la maquinaria del parque de pesca. Normas sobre vestimenta y medidas higiénicas. Normas sobre descartes, clasificación y elaboración de las capturas. Libreta de control de las capturas por lance y en bodega.
+Órdenes del superior. Vocabulario marítimo y pesquero. Información sobre elementos y útiles de limpieza. Instrucciones de mantenimiento y conservación de la maquinaria del parque de pesca. Normas sobre vestimenta y medidas higiénicas. Normas sobre descartes, clasificación y elaboración de las capturas. Libreta de control de las capturas por lance y en bodega. Información sobre la fauna marina protegida afectada por posibles capturas accidentales. Información sobre buenas prácticas para la gestión de capturas accidentales.
 
 UNIDAD DE COMPETENCIA 4: ACTUAR EN EMERGENCIAS MARÍTIMAS Y APLICAR LAS NORMAS DE SEGURIDAD EN EL TRABAJO
 
@@ -308,7 +312,7 @@ Contexto profesional:
 
 Medios de producción:
 
-Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección personal: trajes, casco, guantes, botas, botiquín reglamentario. Equipos de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
+Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección individual: trajes, casco, guantes, botas, botiquín reglamentario. Equipo de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
 
 Productos y resultados:
 
@@ -450,7 +454,7 @@ Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos, salud laboral, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
 
 - Taller de 3 m² por alumno o alumna.
 
@@ -474,9 +478,7 @@ Código: MF1894_2
 
 Asociado a la UC: Distribuir y efectuar las operaciones de mantenimiento, maniobras de cubierta y pesca, montaje y reparación de artes y aparejos, y manipulación de las capturas
 
-Duración: 120
-
-horas
+Duración: 120 horas
 
 Capacidades y criterios de evaluación:
 
@@ -488,9 +490,9 @@ CE1.2 Indicar las labores de vigilancia a realizar en los pañoles mediante proc
 
 CE1.3 En un supuesto práctico de cálculo y control de los pertrecho, provisiones y equipos para una campaña o marea determinada, conociendo los consumos semanales aproximados:
 
-– Calcular el inventario inicial a la salida a la mar teniendo en cuenta las altas y bajas efectuadas en el mismo hasta el momento de la salida.
+- Calcular el inventario inicial a la salida a la mar teniendo en cuenta las altas y bajas efectuadas en el mismo hasta el momento de la salida.
 
-– Calcular el inventario final al término de la marea o campaña, conociendo la duración posible de la misma.
+- Calcular el inventario final al término de la marea o campaña, conociendo la duración posible de la misma.
 
 CE1.4 Localizar en un listado de actividades aquellas que son función del contramaestre respecto a la recepción, estiba, control y mantenimiento de pertrechos, provisiones y equipos.
 
@@ -506,7 +508,7 @@ CE2.3 En un supuesto práctico sobre un trabajo determinado de mantenimiento de 
 
 CE2.4 En un supuesto práctico, referente al procedimiento del reparto de guardias para una campaña o marea determinada, realizar el reparto de guardias en la mar y en tierra, teniendo en cuenta la tripulación disponible y las instrucciones recibidas.
 
-CE2.5 Enumerar las medidas de limpieza que se deben observar en pasillos, comedores, camarotes, entre otros, para cumplir con las normas higiénico-sanitarias que favorezcan a la convivencia en el buque.
+CE2.5 Enumerar las medidas de limpieza que se deben observar en pasillos, comedores, camarotes, entre otros, para cumplir con las normas higiénico-sanitarias aplicables que favorezcan a la convivencia en el buque.
 
 C3: Explicar la distribución de la tripulación para las maniobras de pesca, atendiendo a las indicaciones del superior y teniendo en cuenta las características de la cubierta, equipo a emplear y condiciones meteorológicas, para que éstas se desarrollen en el mínimo tiempo y con seguridad.
 
@@ -518,9 +520,9 @@ CE3.3 En un supuesto práctico donde se contemplen el equipo de pesca a utilizar
 
 CE3.4 Explicar secuencialmente las maniobras de largado, virado u otra cualquiera que pueda producirse durante el lance, indicando el papel del contramaestre en cada una de estas secuencias.
 
-CE3.5 En un supuesto práctico de avería de un equipo de pesca recién utilizado, detectar, informar y reparar las averías producidas durante el lance a la vista de un equipo de pesca recién utilizado.
+CE3.5 En un supuesto práctico de avería de un equipo de pesca recién utilizado, detectar, informar y reparar las averías producidas durante el lance a la vista del mismo.
 
-C4: Montar, reparar y modificar el equipo de pesca, atendiendo a las informaciones de los planos o a instrucciones recibidas, para llevar a cabo las operaciones extractivas.
+C4: Aplicar técnicas de montaje, reparación y modificación en el equipo de pesca, atendiendo a las informaciones de los planos o a instrucciones recibidas, para llevar a cabo las operaciones extractivas.
 
 CE4.1 Reconocer las partes y elementos que componen el equipo de pesca e interpretar las abreviaturas y símbolos según los usos y costumbres de modo que permitan el montaje del mismo.
 
@@ -532,11 +534,11 @@ CE4.4 En un supuesto práctico ante un equipo de pesca con roturas y averías, r
 
 CE4.5 En un supuesto práctico de modificaciones en el equipo de pesca primitivo, contando con unos pertrechos concretos, interpretar y realizar las transformaciones previstas con los materiales y elementos que se encuentren a bordo, que permitan que dicho cambio sea efectivo.
 
-CE4.6 Identificar la información técnica exigida para el manejo de un equipo de pesca en el idioma extranjero de uso más frecuente en el sector proveniente de manuales sabiendo distinguir datos relevantes de información no relevante.
+CE4.6 Identificar la información técnica exigida para el manejo de un equipo de pesca en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI) proveniente de manuales, sabiendo distinguir datos relevantes de información no relevante.
 
-C5: Aplicar procesos de manipulación, elaboración y conservación de las capturas identificando la normativa higiénico-sanitaria y cuidando la estiba, de manera que se preserve la calidad del producto y la seguridad de la tripulación y del buque.
+C5: Aplicar procesos de manipulación, elaboración y conservación de las capturas identificando la normativa higiénico-sanitaria aplicable y cuidando la estiba, de manera que se preserve la calidad del producto y la seguridad de la tripulación y del buque.
 
-CE5.1 Explicar los trabajos de limpieza a realizar, indicando los productos y materiales que se utilizan, en cubierta, parque de pesca, neveras y bodegas, para conseguir la salubridad de dichos espacios.
+CE5.1 Explicar los trabajos de limpieza a realizar, indicando los productos y materiales que se utilizan en cubierta, parque de pesca, neveras y bodegas, para conseguir la salubridad de dichos espacios.
 
 CE5.2 Relacionar el número y colocación de los marineros en el parque de pesca para la elaboración de las capturas, con la estructura del mismo, cantidad y situación de su maquinaria, cintas y mesas, teniendo en cuenta la producción diaria que es posible alcanzar.
 
@@ -624,19 +626,19 @@ Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Aula polivalente de un mínimo de 2 m² por alumno o alumna.
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
 
-Aula taller de 45 m².
+- Taller de 7 m² por alumno o alumna.
 
-Buque de prácticas. (Espacio singular no necesariamente ubicado en el centro de formación)
+- Instalación de 2 m² por alumno o alumna.
 
 Perfil profesional del formador o formadora:
 
-1. Dominio de los conocimientos y las técnicas relacionados con la distribución y realización de las operaciones de mantenimiento, maniobras de cubierta y pesca, montaje y reparación de artes y aparejos y manipulación de las capturas, que se acreditará mediante una de las formas siguientes:
+1. Dominio de los conocimientos y las técnicas relacionados con distribución y realización de las operaciones de mantenimiento, maniobras de cubierta y pesca, montaje y reparación de artes y aparejos y manipulación de las capturas, que se acreditará mediante una de las dos formas siguientes:
 
-– Formación académica de Técnico Superior o de otras de superior nivel relacionadas con este campo profesional.
+- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
 
-– Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
 
 2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
 
@@ -648,13 +650,11 @@ Código: MF1895_2
 
 Asociado a la UC: Distribuir y ejecutar los trabajos del parque de pesca y estiba de las capturas
 
-Duración: 90
-
-horas
+Duración: 90 horas
 
 Capacidades y criterios de evaluación:
 
-C1: Describir los procesos de revisión, pruebas y limpieza del parque de pesca y sus elementos, antes de la llegada de las capturas, para que la elaboración de las mismas pueda realizarse con rapidez y seguridad, cumpliendo con las normas higiénico-sanitarias.
+C1: Describir los procesos de revisión, pruebas y limpieza del parque de pesca y sus elementos, antes de la llegada de las capturas, para que la elaboración de las mismas pueda realizarse con rapidez y seguridad, cumpliendo con las normas higiénico-sanitarias aplicables.
 
 CE1.1 Explicar el proceso de revisión en mamparos, iluminación, conducciones eléctricas y desagües del parque de pesca, indicando las medidas a tomar en caso de deficiencias en alguno de estos elementos.
 
@@ -664,9 +664,9 @@ CE1.3 Detallar las operaciones a realizar en cuanto a limpieza, ajuste y comprob
 
 CE1.4 Identificar los productos y elementos utilizados en las labores de limpieza, engrase, ajuste y recambio, en las operaciones de puesta a punto del parque de pesca.
 
-CE1.5 En un supuesto práctico de acondicionamiento de un parque de pesca, realizar la limpieza del parque de pesca y sus elementos cumpliendo con las normas higiénico-sanitarias.
+CE1.5 En un supuesto práctico de acondicionamiento de un parque de pesca, limpiar el mismo y sus elementos cumpliendo con las normas higiénico-sanitarias aplicables.
 
-C2: Determinar la posición de los marineros para llevar a cabo las labores de procesado del pescado, teniendo en cuenta la configuración y maquinaria del parque de pesca, de manera que se puedan realizar las operaciones con seguridad y se consiga el máximo aprovechamiento y rentabilidad, cumpliendo con las normas higiénico-sanitarias establecidas.
+C2: Determinar la posición de los marineros para llevar a cabo las labores de procesado del pescado, teniendo en cuenta la configuración y maquinaria del parque de pesca, de manera que se puedan realizar las operaciones con seguridad y se consiga su aprovechamiento y rentabilidad, cumpliendo con las normas higiénico-sanitarias aplicables.
 
 CE2.1 Enumerar las condiciones que deben cumplir la ropa y material de trabajo, según la función a desempeñar.
 
@@ -676,7 +676,7 @@ CE2.3 Elaborar un listado de las misiones del contramaestre de frío, durante lo
 
 CE2.4 Describir los tipos de empaque, atendiendo a las características de la especie, recipiente de embalaje y método de conservación.
 
-CE2.5 En un supuesto práctico de procesado del pescado, expresarse oralmente en el idioma extranjero de uso más frecuente en el sector en una actividad de posicionamiento de los marineros para llevar a cabo las labores de dicho procesado.
+CE2.5 En un supuesto práctico de procesado del pescado, expresarse oralmente en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI) en una actividad de posicionamiento de los marineros para llevar a cabo las labores de dicho procesado.
 
 C3: Aplicar procesos de conservación de las capturas según los protocolos establecidos para obtener el producto final deseado.
 
@@ -690,13 +690,13 @@ CE3.4 En un supuesto práctico de un parque de pesca, describir la situación y 
 
 C4: Aplicar procesos de estiba y vigilancia de las capturas hasta la llegada a puerto, indicando las medidas a tomar para evitar el deterioro y corrimiento de las mismas.
 
-CE4.1 Explicar las revisiones y reparaciones a efectuar, en su caso, antes de comenzar la carga en las bodegas, a fin de garantizar la salubridad de las mismas y el buen funcionamiento de termómetros, higrómetros y pozos de sentina, para garantizar la conservación de la carga.
+CE4.1 Explicar las revisiones y reparaciones a efectuar, en su caso, antes de comenzar la carga en las bodegas, a fin de asegurar la salubridad de las mismas y el funcionamiento de termómetros, higrómetros y pozos de sentina, para garantizar su conservación.
 
-CE4.2 En un supuesto práctico en el que se conoce el camino a seguir por los productos desde el parque de pesca a la bodega, el número y tipo de canaletas a utilizar, el tipo de envase del producto y el número de tripulantes que realizarán las operaciones, indicar la colocación de canaletas y tripulantes para que la carga en la bodega se realice sin riesgos personales y con la máxima celeridad.
+CE4.2 En un supuesto práctico en el que se conoce el camino a seguir por los productos desde el parque de pesca a la bodega, el número y tipo de canaletas a utilizar, el tipo de envase del producto y el número de tripulantes que realizarán las operaciones, indicar la colocación de canaletas y tripulantes para que la carga en la bodega se realice sin riesgos personales y con celeridad.
 
-CE4.3 En un supuesto práctico en el que se conoce el estado de carga de la bodega, el producto a cargar (cantidad y tipo de envase) y el número de tripulantes que realizarán la operación, describir la colocación de los marineros y el orden en que se debe efectuar la estiba para que el producto sea transportado con seguridad para el buque y en las condiciones exigidas por la normativa vigente.
+CE4.3 En un supuesto práctico en el que se conoce el estado de carga de la bodega, el producto a cargar (cantidad y tipo de envase) y el número de tripulantes que realizarán la operación, describir la colocación de los marineros y el orden en que se debe efectuar la estiba para que el producto sea transportado con seguridad al buque y en las condiciones exigidas por la normativa aplicable.
 
-CE4.4 Enumerar los puntos a vigilar diariamente mediante observación visual, en cuanto a temperatura, humedad, corrimientos u otros de los que se deba informar al superior, para evitar que se produzcan daños al buque o a la carga.
+CE4.4 Enumerar los puntos a vigilar diariamente mediante observación visual, en cuanto a temperatura, humedad, corrimientos, entre otros, de los que se deba informar al superior, para evitar que se produzcan daños al buque o a la carga.
 
 Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:
 
@@ -726,13 +726,17 @@ Desagües y estanqueidad: puertas del pantano y trancaniles.
 
 Máquinas y elementos mecánicos: lavadoras, cortadoras, fileteadoras, despellejadoras, cintas transportadoras, cuchillas, rodillos y elementos de ajuste y engrase.
 
-2. Manipulación y conservación de las captura en un parque de pesca
+2. Manipulación y conservación de las capturas en un parque de pesca
 
 Manipulación: cuidados a tener con el pescado; procesamiento del pescado según la especie.
 
 Sistemas de empaque y conservación.
 
 Conservación: desescarchado, limpieza y preparación de las capturas; carga, estiba y descarga; control de temperaturas y densidades.
+
+Fauna marina protegida afectada por posibles capturas accidentales.
+
+Buenas prácticas para la gestión de capturas accidentales.
 
 3. Parque de pesca en lo relativo a las labores a realizar en el mismo
 
@@ -752,19 +756,19 @@ Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Aula polivalente de un mínimo de 2 m² por alumno o alumna.
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
 
-Taller para maquinaria de 200 m².
+- Taller de 10 m² por alumno o alumna.
 
-Buque de prácticas. (Espacio singular no necesariamente ubicado en el centro de formación)
+- Instalación de 2 m² por alumno o alumna.
 
 Perfil profesional del formador o formadora:
 
-1. Dominio de los conocimientos y las técnicas relacionados con la distribución y ejecución de los trabajos del parque de pesca y estiba de las capturas, que se acreditará mediante una de las formas siguientes:
+1. Dominio de los conocimientos y las técnicas relacionados con la distribución y ejecución de los trabajos del parque de pesca y estiba de las capturas, que se acreditará mediante una de las dos formas siguientes:
 
-– Formación académica de Técnico Superior o de otras de superior nivel relacionadas con este campo profesional.
+- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
 
-– Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
 
 2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
 
@@ -774,7 +778,7 @@ Nivel: 1
 
 Código: MF0733_1
 
-Asociado a la UC: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo.
+Asociado a la UC: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo
 
 Duración: 60 horas
 
@@ -832,7 +836,7 @@ CE4.1 Explicar la información relativa al contenido de un plan de contingencia 
 
 CE4.2 Identificar las señales de emergencia a bordo teniendo en cuenta el plan de contingencia con el fin de preservar la seguridad de la vida humana en la mar.
 
-CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la ley de prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.
+CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la normativa sobre prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.
 
 CE4.4 Enumerar las medidas a tener en cuenta para proteger el medio marino y evitar su contaminación, según la normativa aplicable.
 
@@ -926,7 +930,7 @@ Condiciones de trabajo y seguridad.
 
 Equipos de protección personal y colectiva.
 
-Reglamentación en materia de prevención de riesgos laborales.
+Normativa sobre prevención de riesgos laborales.
 
 Prevención de la contaminación del medio marino. Efectos de la contaminación accidental u operacional del medio marino.
 
@@ -956,7 +960,7 @@ Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos, salud laboral, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
 
 - Instalación de 2 m² por alumno o alumna.
 
@@ -969,5 +973,7 @@ Perfil profesional del formador o formadora:
 - Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
 
 2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+> Se modifica por el art. 12 y anexo XXIII de la Orden EFP/63/2021, de 21 de enero. Ref. BOE-A-2021-1266
 
 > Se modifican la unidad de competencia «UC0010_1» y el módulo formativo asociado «MF0010_1», y la unidad de competencia «UC0733_1» y el módulo formativo asociado «MF0733_1» por los que figuran en el anexo I de la Orden EFP/953/2020, de 12 de octubre, según establece el art. 5.4 de la misma. Ref. BOE-A-2020-12259

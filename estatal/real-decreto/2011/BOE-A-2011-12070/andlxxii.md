@@ -1,6 +1,6 @@
 ## ANEXO DLXXII
 
-## CUALIFICACIÓN PROFESIONAL: ACTIVIDADES DE EXTRACCIÓN Y RECOGIDA DE CRUSTÁCEOS ADHERIDOS A LAS ROCAS
+## Cualificación profesional: Actividades de extracción y recogida de crustáceos adheridos a las rocas
 
 Familia Profesional: Marítimo - Pesquera
 
@@ -14,17 +14,17 @@ Realizar actividades de extracción y preparación para la venta de crustáceos 
 
 Unidades de competencia
 
-UC0010_1: Contribuir a las operaciones de cubierta en una embarcación pesquera.
+UC1889_1: Realizar las actividades de extracción y preparación para la venta de crustáceos adheridos a las rocas en zonas de alta exposición al oleaje
 
-UC1889_1: Realizar las actividades de extracción y preparación para la venta de crustáceos adheridos a las rocas en zonas de alta exposición al oleaje.
+UC0010_1: Contribuir a las operaciones de cubierta en una embarcación pesquera
 
-UC0733_1: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo.
+UC0733_1: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo
 
 Entorno Profesional
 
 Ámbito Profesional
 
-Desarrolla su actividad profesional en el área de extracción de recursos marisqueros, dentro de una organización del sector pesquero, ya sea como trabajador por cuenta ajena, dependiendo funcional y jerárquicamente de un superior o por cuenta propia. Su actividad profesional está sometida a regulación por la Administración competente.
+Desarrolla su actividad profesional en el área de extracción de recursos marisqueros, dedicado a la pesca, en entidades de naturaleza pública o privada, con independencia del tamaño de la empresa, tanto por cuenta propia como ajena, con independencia de su forma jurídica. Desarrolla su actividad dependiendo, en su caso, funcional y/o jerárquicamente de un superior. Puede tener personal a su cargo en ocasiones, por temporadas o de forma estable. Su actividad profesional está sometida a regulación por la Administración competente. En el desarrollo de la actividad profesional se aplican los principios de accesibilidad universal y diseño universal o diseño para todas las personas de acuerdo con la normativa aplicable.
 
 Sectores Productivos
 
@@ -32,27 +32,89 @@ Se ubica en el sector de la pesca y marisqueo, y concretamente en las actividade
 
 Ocupaciones y puestos de trabajo relevantes
 
-Marinero.
+Los términos de la siguiente relación de ocupaciones y puestos de trabajo se utilizan con carácter genérico y omnicomprensivo de mujeres y hombres.
 
-Marinero pescador.
+Marineros en buques de pesca
 
-Percebero a flote.
+Marineros en buques mercantes
 
-Percebero a pie.
+Perceberos a flote
 
-Formación Asociada
+Perceberos a pie
 
-(150 horas)
+Formación Asociada (150 horas)
 
 Módulos Formativos
 
-MF0010_1: Labores de cubierta en buque de pesca. (30 horas)
+MF1889_1: Labores de extracción y preparación para la venta de crustáceos adheridos a las rocas (60 horas)
 
-MF1889_1: Labores de extracción y preparación para la venta de crustáceos adheridos a las rocas. (60 horas)
+MF0010_1: Labores de cubierta en buque de pesca (30 horas)
 
-MF0733_1: Seguridad y primeros auxilios a bordo. (60 horas)
+MF0733_1: Seguridad y primeros auxilios a bordo (60 horas)
 
-UNIDAD DE COMPETENCIA 1: CONTRIBUIR A LAS OPERACIONES DE CUBIERTA EN UNA EMBARCACIÓN PESQUERA
+UNIDAD DE COMPETENCIA 1: REALIZAR LAS ACTIVIDADES DE EXTRACCIÓN Y PREPARACIÓN PARA LA VENTA DE CRUSTÁCEOS ADHERIDOS A LAS ROCAS EN ZONAS DE ALTA EXPOSICIÓN AL OLEAJE
+
+Nivel: 1
+
+Código: UC1889_1
+
+Realizaciones profesionales y criterios de realización:
+
+RP1: Mantener en estado de uso los útiles de trabajo, equipos de protección y materiales de ayuda empleados en la extracción de crustáceos adheridos a las rocas en zonas de alta exposición al oleaje, para obtener el máximo rendimiento de la actividad, aplicando la normativa de riesgos laborales.
+
+CR1.1 Los útiles de trabajo se adaptan teniendo en cuenta las características de la especie objetivo y de las zonas de pesca delimitadas, tratando de causar el mínimo daño posible a las demás especies y al medio natural.
+
+CR1.2 Los útiles de trabajo, rasquetas, raspas y bolsas de red, así como cualquier parte dañada, se reparan de forma eficaz para garantizar su funcionalidad.
+
+CR1.3 La indumentaria, los útiles de trabajo y los equipos de protección se lavan con agua dulce, secándolos, cuando proceda, para evitar el deterioro del material y garantizar la seguridad.
+
+CR1.4 Los materiales de ayuda utilizados durante la extracción (cuerdas, arneses, mosquetones, entre otros) se revisan al principio de cada jornada de trabajo para comprobar su estado de funcionamiento y al final de cada jornada para valorar su sustitución o reparación.
+
+CR1.5 Los útiles de trabajo, equipos de protección y materiales de ayuda empleados durante los periodos de inactividad se estiban vigilando los parámetros de aireación y humedad, para evitar deterioros en los mismos y garantizar la seguridad de la actividad.
+
+RP2: Recoger los crustáceos previamente extraídos, observando las normas de seguridad y explotación de recursos (causando el menor daño posible a la zona de trabajo), a fin de garantizar el rendimiento sostenible de la actividad y la conservación del medio ambiente (evitando actuaciones tales como la eliminación de basuras y desechos en el medio marino).
+
+CR2.1 Las operaciones de extracción y recogida de los crustáceos se desarrollan atendiendo al plan de gestión para garantizar una explotación sostenible y responsable, poniendo especial atención en la conservación de especies protegidas que puedan estar ubicadas en el mismo sustrato y evitar molestias a las aves marinas, en especial a sus áreas de nidificación.
+
+CR2.2 La zona de extracción, dentro del área definida en el plan de gestión y/o explotación establecida por la entidad responsable se selecciona en función de las condiciones meteorológicas (estado de la mar, viento y marea), para realizar la actividad en condiciones de seguridad.
+
+CR2.3 La aproximación a pie o mediante embarcación, si la hubiera, a la zona de trabajo se efectúa atendiendo a las condiciones del tiempo, rompientes y relieve de la costa, evitando caídas, resbalones o ser arrastrados por los embates del mar.
+
+CR2.4 La actividad extractiva en la zona de trabajo se ejecuta utilizando los materiales de ayuda (recipientes, cabos, entre otros) que procedan, para garantizar las condiciones de seguridad y obtener el máximo rendimiento de la actividad.
+
+CR2.5 El recurso se selecciona para llevar a cabo su posterior extracción, atendiendo a la calidad y limpieza de las piñas y tamaño de las cabezas de los individuos que la componen.
+
+CR2.6 Los crustáceos se extraen utilizando con una mano la rasqueta y separando la piña del sustrato y con la otra mano libre introduciéndolo en la bolsa de red.
+
+CR2.7 Las superficies donde se detecte gran cantidad de cría del recurso se rarean antes de que crezca, a fin de permitir que el resto de los individuos pueda desarrollarse más rápido y obtener una calidad superior.
+
+RP3: Clasificar las capturas, a partir de su acondicionamiento y conservación, para el transporte y posterior venta, atendiendo a la calidad del producto y protocolos higiénico-sanitarios.
+
+CR3.1 Las capturas se limpian una vez extraídas, eliminando todo tipo de organismos asociados, restos de roca y suciedad, atendiendo a lo indicado en los protocolos higiénico-sanitarios, para poder realizar su clasificación posterior.
+
+CR3.2 Los productos de deshecho asociados a las capturas extraídas se llevan a los puntos de recogida selectiva de residuos para evitar daños al medio ambiente.
+
+CR3.3 El producto resultante se lleva a los puntos de control establecidos en el plan de gestión y explotación de la zona, para comprobar el cumplimiento de los protocolos de actuación.
+
+CR3.4 Las capturas se clasifican visual y manualmente según tamaño y calidad en diferentes lotes para obtener el máximo beneficio en la primera venta.
+
+CR3.5 Los procesos de acondicionamiento para el transporte y conservación de las capturas hasta la primera venta se ejecutan en función del medio de transporte, condiciones medioambientales y distancia, para garantizar el estado higiénico-sanitario y las condiciones de trazabilidad de las capturas.
+
+Contexto profesional:
+
+Medios de producción:
+
+Útiles de trabajo: rasquetas, raspas, salabardos, bolsas de red, entre otros. Materiales de ayuda, tales como cuerdas, arneses, mosquetones, navajas, aletas, boyas, equipos de comunicación. Equipos de protección: Equipos de Protección Individual (EPI), cascos, rodilleras, guantes, chalecos salvavidas, traje de neopreno, escarpines, calzado antideslizante. Recipientes de plástico para el transporte de las capturas. Embarcación.
+
+Productos y resultados:
+
+Mantenimiento en estado de uso los útiles de trabajo, equipos de protección y materiales de ayuda empleados. Crustáceos extraídos. Capturas clasificadas.
+
+Información utilizada o generada:
+
+Instrucciones de uso de diferentes equipos y materiales de ayuda. Plan de gestión y/o explotación de la zona (tallas mínimas, vedas, topes de capturas, paros biológicos, zonas y épocas de extracción). Normativa de prevención de riesgos laborales. Información meteorológica (partes de estado de la zona de trabajo). Tablas de mareas. Protocolos de actuación higiénico-sanitarios. Listados de Especies Silvestres en Régimen de Protección Especial y del Catálogo Español de Especies Amenazadas. Normativas vinculadas a la protección de especies y hábitats.
+
+UNIDAD DE COMPETENCIA 2: CONTRIBUIR A LAS OPERACIONES DE CUBIERTA EN UNA EMBARCACIÓN PESQUERA
 
 Nivel: 1
 
@@ -101,72 +163,6 @@ Estiba y arranche. Faenas de carga, descarga y traslado de pesos. Estiba, embarq
 Información utilizada o generada:
 
 Órdenes de la persona responsable. Vocabulario pesquero. Reglamento Internacional de Señales. Normativa aplicable sobre protección del medio marino y sus recursos. Normativa sobre prevención de riesgos laborales. Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
-
-UNIDAD DE COMPETENCIA 2: REALIZAR LAS ACTIVIDADES DE EXTRACCIÓN Y PREPARACIÓN PARA LA VENTA DE CRUSTÁCEOS ADHERIDOS A LAS ROCAS EN ZONAS DE ALTA EXPOSICIÓN AL OLEAJE
-
-Nivel: 1
-
-Código: UC1889_1
-
-Realizaciones profesionales y criterios de realización:
-
-RP 1: Preparar y llevar a cabo el mantenimiento de uso de los útiles de trabajo, equipos de protección y materiales de ayuda empleados, para que la extracción de crustáceos adheridos a las rocas en zonas de alta exposición al oleaje pueda realizarse en condiciones de seguridad y máximo rendimiento de la actividad.
-
-CR 1.1 Los útiles de trabajo se adaptan teniendo en cuenta las características de la especie objetivo y de las zonas de trabajo, tratando de causar el mínimo daño posible a las demás especies y al medio natural.
-
-CR 1.2 La preparación y reparación de los útiles de trabajo, rasquetas, raspas y bolsas de red, así como la sustitución de cualquier parte dañada, se realiza de forma eficaz para garantizar su funcionalidad.
-
-CR 1.3 Los útiles de trabajo y los equipos de protección se lavan con agua dulce y se secan, cuando proceda, para evitar el deterioro del material.
-
-CR 1.4 La indumentaria y los equipos de protección individual se utilizan teniendo en cuenta el plan de prevención de riesgos para garantizar la seguridad personal.
-
-CR 1.5 Los materiales de ayuda utilizados durante la extracción (cuerdas, arneses, mosquetones, entre otros), se preparan y revisan al principio de cada jornada de trabajo para comprobar su estado de funcionamiento y al final de cada jornada para valorar su sustitución o reparación.
-
-CR 1.6 La estiba de útiles de trabajo, equipos de protección y materiales de ayuda empleados, durante los periodos de inactividad se efectúa vigilando los parámetros de aireación y humedad, para evitar deterioros en los mismos y garantizar la seguridad de la actividad.
-
-RP 2: Realizar las operaciones de extracción y recogida de crustáceos adheridos a las rocas en zonas de alta exposición al oleaje, observando las normas de seguridad y explotación de recursos, a fin de garantizar el rendimiento sostenible de la actividad y la conservación del medio.
-
-CR 2.1 Las operaciones de extracción y recogida del recurso se realizan atendiendo al plan de gestión y/o explotación para garantizar una explotación sostenible y responsable.
-
-CR 2.2 La zona de extracción, dentro del área definida en el plan de gestión y/o explotación, se selecciona en función de las condiciones meteorológicas (estado de la mar, viento y marea), para poder llevar a cabo el trabajo en condiciones de seguridad.
-
-CR 2.3 La aproximación a pie o mediante embarcación, si la hubiera, a la zona de trabajo, se realizará atendiendo a las condiciones del tiempo, rompientes y relieve de la costa para evitar caídas, resbalones o ser arrastrados por los embates del mar.
-
-CR 2.4 La actividad extractiva en la zona de trabajo se lleva a cabo utilizando los materiales de ayuda que procedan, para garantizar las condiciones de seguridad y obtener el máximo rendimiento de la actividad.
-
-CR 2.5 La selección para llevar a cabo la posterior extracción del recurso, se realiza atendiendo a la calidad y limpieza de las piñas y tamaño de las cabezas de los individuos que la componen para garantizar la captura.
-
-CR 2.6 La operación de extracción del recurso se realiza utilizando con una mano la rasqueta y separando la piña del sustrato y con la otra mano libre recogiendo el recurso e introduciéndolo en la bolsa de red.
-
-CR 2.7 Las operaciones de extracción y recogida se efectúan atendiendo a las normas de seguridad y causando el menor daño posible a la zona de trabajo para evitar riesgos personales, daños al recurso y al medio ambiente.
-
-CR 2.8 Las operaciones de rareo se realizan, si procede, en aquellas superficies donde se detecte gran cantidad de cría del recurso antes de que crezca, a fin de permitir que el resto de los individuos pueda desarrollarse más rápido y obtener una calidad superior.
-
-RP 3: Efectuar las operaciones de clasificación y acondicionamiento para el transporte y conservación de las capturas para su venta, atendiendo a la calidad del producto y protocolos higiénico-sanitarios.
-
-CR 3.1 Las capturas se limpian una vez extraídas, eliminando todo tipo de organismos asociados, restos de roca y suciedad, atendiendo a lo indicado en los protocolos higiénicos-sanitarios, para poder realizar su clasificación posterior.
-
-CR 3.2 Los productos de deshecho asociados a las capturas extraídas se llevan a los puntos de recogida selectiva de residuos para producir los menores daños al medio ambiente.
-
-CR 3.3 El producto resultante se lleva a los puntos de control recogidos en el plan de gestión y explotación para comprobar el cumplimiento de los protocolos de actuación.
-
-CR 3.4 Las capturas se clasifican ocular y manualmente según tamaño y calidad en diferentes lotes para obtener el máximo beneficio en la primera venta.
-
-CR 3.5 Los procesos de acondicionamiento para el transporte y conservación de las capturas hasta la primera venta, se realizan en función del medio de transporte, condiciones medioambientales y distancia, para garantizar su estado higiénico-sanitario y las condiciones de trazabilidad.
-
-Contexto profesional:
-
-Medios de producción:
-
-Útiles de trabajo: rasquetas, raspas, salabardos, bolsas de red, entre otros. Materiales de ayuda, tales como cuerdas, arneses, mosquetones, navajas, aletas, boyas, equipos de comunicación. Equipos de protección: EPIs (equipos de protección individual), cascos, rodilleras, guantes, chalecos salvavidas, traje de neopreno, escarpines, calzado antideslizante. Recipientes de plástico para el transporte de las capturas. Embarcación.
-
-Productos y resultados:
-
-Preparación y mantenimiento de uso de útiles de trabajo, equipos de protección y materiales de ayuda empleados en la extracción de crustáceos adheridos a las rocas en zonas de alta exposición al oleaje. Extracción y recogida de crustáceos. Rendimiento sostenible de la actividad. Clasificación y acondicionamiento para el transporte y conservación de las capturas para la venta.
-
-Información utilizada o generada:
-
-Instrucciones de uso de diferentes equipos y materiales de ayuda. Plan de gestión y/o explotación de la zona (tallas mínimas, vedas, topes de capturas, paros biológicos, zonas y épocas de extracción). Normativa de prevención de riesgos laborales. Información meteorológica (partes de estado de la zona de trabajo). Tablas de mareas. Protocolos de actuación higiénico-sanitarios.
 
 UNIDAD DE COMPETENCIA 3: ACTUAR EN EMERGENCIAS MARÍTIMAS Y APLICAR LAS NORMAS DE SEGURIDAD EN EL TRABAJO
 
@@ -220,7 +216,7 @@ Contexto profesional:
 
 Medios de producción:
 
-Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección personal: trajes, casco, guantes, botas, botiquín reglamentario. Equipos de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
+Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección individual: trajes, casco, guantes, botas, botiquín reglamentario. Equipo de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
 
 Productos y resultados:
 
@@ -230,7 +226,143 @@ Información utilizada o generada:
 
 Plan Nacional de Salvamento Marítimo y de lucha contra la contaminación. Convenio SOLAS (Sevimar). Manual MERSAR de búsqueda y rescate. MOB del GPS en caso de «hombre al agua». Manuales sobre materiales inflamables y combustibles. Manual de primeros auxilios a bordo. Normativa aplicable sobre prevención de riesgos laborales. Vocabulario marítimo de la Organización Marítima Internacional (OMI). Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
 
-MÓDULO FORMATIVO 1: LABORES DE CUBIERTA EN BUQUE DE PESCA
+MÓDULO FORMATIVO 1: LABORES DE EXTRACCIÓN Y PREPARACIÓN PARA LA VENTA DE CRUSTÁCEOS ADHERIDOS A LAS ROCAS
+
+Nivel: 1
+
+Código: MF1889_1
+
+Asociado a la UC: Realizar las actividades de extracción y preparación para la venta de crustáceos adheridos a las rocas en zonas de alta exposición al oleaje
+
+Duración: 60 horas
+
+Capacidades y criterios de evaluación:
+
+C1: Aplicar procesos de preparación y mantenimiento de útiles de trabajo, equipos de protección y materiales de ayuda a emplear en la extracción de crustáceos, teniendo en cuenta la normativa sobre prevención de riesgos laborales.
+
+CE1.1 Describir sobre un plano las modificaciones a realizar en los útiles de trabajo, en función de la especie objetivo, zona de trabajo y minimización de daños al medio natural.
+
+CE1.2 Enumerar los puntos a tener en cuenta a efectos de preparación y reparación de los útiles de trabajo, rasquetas, raspas y bolsas de red, que garanticen su rendimiento conforme a la práctica diaria.
+
+CE1.3 Explicar los trabajos de limpieza a realizar en los útiles de trabajo y equipos de protección, una vez utilizados, para evitar el deterioro del material.
+
+CE1.4 Enumerar la indumentaria y los equipos de protección individual, así como las condiciones que deben cumplir, teniendo en cuenta el trabajo a realizar y la importancia de la seguridad en este tipo de actividad.
+
+CE1.5 Explicar las pruebas y revisiones a efectuar a los materiales de ayuda utilizados durante la extracción, antes y después de cada jornada de trabajo.
+
+CE1.6 Describir el tratamiento y cuidados a emplear para la conservación y estiba de los útiles de trabajo, equipos de protección y materiales de ayuda, durante los periodos de inactividad.
+
+CE1.7 En un supuesto práctico de preparación de útiles de trabajo, materiales de ayuda y equipos de protección individual:
+
+- Sustituir o reparar, si procede, las cuerdas, raspas, bolsas de red, arneses y mosquetones que se emplearon en una jornada de trabajo.
+
+- Revisar los equipos de protección utilizados en una jornada de trabajo y repararlos, si fuera necesario.
+
+C2: Aplicar operaciones de extracción y recogida de crustáceos, teniendo en cuenta las características de las zonas de trabajo y condiciones meteorológicas, para que éstas se desarrollen con seguridad, garantizando el rendimiento sostenible y la conservación del medio ambiente (evitando actuaciones tales como la eliminación de basuras y desechos en el medio marino).
+
+CE2.1 Identificar aquellos apartados de un plan de gestión y/o explotación que afecten a las actividades de extracción de crustáceos, teniendo en cuenta las particularidades del mismo.
+
+CE2.2 Fijar zonas de trabajo que permitan realizar operaciones de extracción con seguridad, considerando condiciones meteorológicas, riesgos existentes y garantizando una explotación sostenible y responsable, poniendo especial atención en la conservación de especies protegidas que puedan estar ubicadas en el mismo sustrato y evitar molestias a las aves marinas, en especial a sus áreas de nidificación.
+
+CE2.3 Describir condiciones climáticas y geográficas a tener en cuenta para la aproximación por tierra y por mar de forma segura a zonas de extracción.
+
+CE2.4 Indicar parámetros a observar en las piñas del producto objetivo, garantizando una captura rentable.
+
+CE2.5 Identificar las normas a tener en cuenta durante las operaciones de extracción y recogida del crustáceo respecto a la seguridad personal y daños al recurso y al medio ambiente.
+
+CE2.6 En un supuesto práctico de extracción del recurso y teniendo en cuenta las condiciones de seguridad:
+
+- Utilizar los materiales de ayuda y los equipos de protección individual.
+
+- Llevar a cabo la operación de extracción del recurso.
+
+CE2.7 En un supuesto práctico de rareo en una zona de extracción del recurso, teniendo en cuenta las condiciones de seguridad, realizar dicha práctica tirando al mar el recurso extraído, garantizando la permanencia del ciclo biológico marino.
+
+C3: Aplicar procesos de clasificación y acondicionamiento para el transporte y conservación de capturas para su venta, teniendo en cuenta los protocolos higiénico-sanitarios, de manera que se preserve la calidad del producto.
+
+CE3.1 Describir las operaciones a realizar para la limpieza del producto, teniendo en cuenta los aspectos higiénico-sanitarios y enumerando los elementos a eliminar.
+
+CE3.2 Enumerar los pasos a realizar para eliminar los productos de deshecho asociados a las capturas extraídas teniendo en cuenta la protección al medio ambiente.
+
+CE3.3 Identificar aquellos apartados de un plan de gestión y/o explotación respecto a la comprobación de cantidades y tamaños del producto que se extrae, teniendo en cuenta las particularidades del propio plan.
+
+CE3.4 Enumerar los parámetros a vigilar en cuanto al transporte y conservación del producto, garantizando su trazabilidad y condiciones higiénico-sanitarias en la primera venta.
+
+CE3.5 En un supuesto práctico de clasificación de capturas, con el objetivo de conseguir el máximo beneficio en la primera venta:
+
+- Agrupar las capturas en lotes según tamaño.
+
+- Agrupar las capturas en lotes según interés comercial.
+
+Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:
+
+C1 respecto a CE1.7; C2 respecto a CE2.6 y CE2.7; C3 respecto a CE3.5.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+Contenidos:
+
+1. Caracterización de crustáceos adheridos a las rocas
+
+El percebe: estructura interna y externa; reproducción; crecimiento; alimentación; hábitat, distribución; especies afines. Explotación racional del recurso: plan de gestión y/o explotación del recurso; rendimiento máximo biológico y rendimiento máximo económico: subexplotación y sobreexplotación. Rareo.
+
+2. Extracción y recogida de crustáceos adheridos a las rocas
+
+Elementos para la extracción de crustáceos adheridos a las rocas: útiles (tipos y características); preparación, reparación y conservación. Equipos de protección: particularidades, cuidados y mantenimiento. Utilización atendiendo a la seguridad. Materiales de ayuda: clases y aprovechamiento. Pruebas y revisiones. Estiba de útiles, equipos de protección y materiales de ayuda.
+
+Operaciones de extracción y recogida de crustáceos adheridos a las rocas. Condiciones climáticas y geográficas: viento y mar locales, relieve de la costa y formación del oleaje y los rompientes; mareas: amplitud, hora y altura. Partes meteorológicos. Operaciones a realizar: características de las piñas; corte o extracción; conservación de la captura; protección al recurso y medio ambiente.
+
+Especies Silvestres en Régimen de Protección Especial y Catálogo Español de Especies Amenazadas. Normativas vinculadas a la protección de especies y hábitats.
+
+3. Clasificación y acondicionamiento de crustáceos adheridos a las rocas para su transporte y comercialización
+
+Limpieza de las piñas.
+
+Clasificación del recurso por tamaños y cantidades.
+
+Conservación del producto: protocolos higiénico-sanitarios de manipulación y transporte.
+
+La primera venta. Las lonjas.
+
+4. Seguridad en las operaciones de extracción y recogida de crustáceos adheridos a las rocas
+
+Riesgos laborales en el proceso extractivo.
+
+Los equipos de protección individual (EPI).
+
+Seguridad individual e implicaciones del compañero como base principal de seguridad.
+
+Primeros auxilios en las operaciones de extracción y recogida de percebes.
+
+Parámetros de contexto de la formación:
+
+Espacios e instalaciones:
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+- Instalación de 2 m² por alumno o alumna.
+
+Perfil profesional del formador o formadora:
+
+1. Dominio de los conocimientos y las técnicas relacionados con la realización de las actividades de extracción y preparación para la venta de crustáceos adheridos a las rocas en zonas de alta exposición al oleaje, que se acreditará mediante una de las dos formas siguientes:
+
+- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de nivel relacionadas con el campo profesional.
+
+- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+MÓDULO FORMATIVO 2: LABORES DE CUBIERTA EN BUQUE DE PESCA
 
 Nivel: 1
 
@@ -362,7 +494,7 @@ Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos, salud laboral, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
 
 - Taller de 3 m² por alumno o alumna.
 
@@ -375,140 +507,6 @@ Perfil profesional del formador o formadora:
 - Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
 
 - Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
-
-2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
-
-MÓDULO FORMATIVO 2: LABORES DE EXTRACCIÓN Y PREPARACIÓN PARA LA VENTA DE CRUSTÁCEOS ADHERIDOS A LAS ROCAS
-
-Nivel: 1
-
-Código: MF1889_1
-
-Asociado a la UC: Realizar las actividades de extracción y preparación para la venta de crustáceos adheridos a las rocas en zonas de alta exposición al oleaje
-
-Duración: 60 horas
-
-Capacidades y criterios de evaluación:
-
-C1: Aplicar procesos de preparación y mantenimiento de útiles de trabajo, equipos de protección y materiales de ayuda a emplear en la extracción de crustáceos adheridos a las rocas, teniendo en cuenta la seguridad y la prevención de riesgos.
-
-CE1.1 Describir sobre un plano las modificaciones a realizar en los útiles de trabajo, en función de la especie objetivo, zona de trabajo y minimización de daños al medio natural.
-
-CE1.2 Enumerar los puntos a tener en cuenta a efectos de preparación y reparación de los útiles de trabajo, rasquetas, raspas y bolsas de red, que garanticen su rendimiento conforme a la práctica diaria.
-
-CE1.3 Explicar los trabajos de limpieza a realizar en los útiles de trabajo y equipos de protección, una vez utilizados, para evitar el deterioro del material.
-
-CE1.4 Enumerar la indumentaria y los equipos de protección individual, así como las condiciones que deben cumplir, teniendo en cuenta el trabajo a realizar y la importancia de la seguridad en este tipo de actividad.
-
-CE1.5 Explicar las pruebas y revisiones a efectuar a los materiales de ayuda utilizados durante la extracción, antes y después de cada jornada de trabajo.
-
-CE1.6 Describir el tratamiento y cuidados a emplear para la conservación y estiba de los útiles de trabajo, equipos de protección y materiales de ayuda, durante los periodos de inactividad.
-
-CE1.7 En un supuesto práctico de preparación de útiles de trabajo, materiales de ayuda y equipos de protección individual:
-
-– Sustituir o reparar, si procede, las cuerdas, raspas, bolsas de red, arneses y mosquetones que se emplearon en una jornada de trabajo.
-
-– Revisar los equipos de protección utilizados en una jornada de trabajo y repararlos, si fuera necesario.
-
-C2: Aplicar operaciones de extracción y recogida de crustáceos adheridos a las rocas, teniendo en cuenta características de las zonas de trabajo y condiciones meteorológicas, para que éstas se desarrollen con seguridad, garantizando el rendimiento sostenible.
-
-CE2.1 Identificar aquellos apartados de un plan de gestión y/o explotación que afecten a las actividades de extracción de crustáceos, teniendo en cuenta las particularidades del propio plan.
-
-CE2.2 Fijar zonas de trabajo que permitan realizar operaciones de extracción con seguridad, considerando condiciones meteorológicas y riesgos existentes.
-
-CE2.3 Describir condiciones climáticas y geográficas a tener en cuenta para la aproximación por tierra y por mar de forma segura a zonas de extracción.
-
-CE2.4 Indicar parámetros a observar en las piñas del producto objetivo, garantizando una captura rentable.
-
-CE2.5 Identificar las normas a tener en cuenta durante las operaciones de extracción y recogida del crustáceo respecto a la seguridad personal y daños al recurso y al medio ambiente.
-
-CE2.6 En un supuesto práctico de extracción del recurso y teniendo en cuenta las condiciones de seguridad:
-
-– Utilizar los materiales de ayuda y los equipos de protección individual.
-
-– Llevar a cabo la operación de extracción del recurso.
-
-CE2.7 En un supuesto práctico de rareo en una zona de extracción del recurso, teniendo en cuenta las condiciones de seguridad, realizar dicha práctica tirando al mar el recurso extraído, garantizando la permanencia del ciclo biológico marino.
-
-C3: Aplicar procesos de clasificación y acondicionamiento para el transporte y conservación de capturas para su venta, teniendo en cuenta los protocolos higiénico-sanitarios, de manera que se preserve la calidad del producto.
-
-CE3.1 Describir las operaciones a realizar para la limpieza del producto, enumerando los elementos a eliminar.
-
-CE3.2 Enumerar los pasos a realizar para eliminar los productos de deshecho asociados a las capturas extraídas teniendo en cuenta la protección al medio ambiente.
-
-CE3.3 Identificar aquellos apartados de un plan de gestión y/o explotación respecto a la comprobación de cantidades y tamaños del producto que se extrae, teniendo en cuenta las particularidades del propio plan.
-
-CE3.4 Enumerar los parámetros a vigilar en cuanto al transporte y conservación del producto, garantizando su trazabilidad y condiciones higiénico-sanitarias en la primera venta.
-
-CE3.5 En un supuesto práctico de clasificación de capturas, con el objetivo de conseguir el máximo beneficio en la primera venta:
-
-– Agrupar las capturas en lotes según tamaño.
-
-– Agrupar las capturas en lotes según interés comercial.
-
-Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:
-
-C1 respecto a CE1.7; C2 respecto a CE2.6 y CE2.7; C3 respecto a CE3.5.
-
-Otras capacidades:
-
-Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
-
-Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
-
-Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
-
-Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
-
-Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
-
-Contenidos:
-
-1. Caracterización de crustáceos adheridos a las rocas
-
-El percebe: estructura interna y externa; reproducción; crecimiento; alimentación; hábitat, distribución; especies afines. Explotación racional del recurso: plan de gestión y/o explotación del recurso; rendimiento máximo biológico y rendimiento máximo económico: subexplotación y sobreexplotación. Rareo.
-
-2. Extracción y recogida de crustáceos adheridos a las rocas
-
-Elementos para la extracción de crustáceos adheridos a las rocas: útiles (tipos y características); preparación, reparación y conservación. Equipos de protección: particularidades, cuidados y mantenimiento. Utilización atendiendo a la seguridad. Materiales de ayuda: clases y aprovechamiento. Pruebas y revisiones. Estiba de útiles, equipos de protección y materiales de ayuda.
-
-Operaciones de extracción y recogida de crustáceos adheridos a las rocas. Condiciones climáticas y geográficas: viento y mar locales, relieve de la costa y formación del oleaje y los rompientes; mareas: amplitud, hora y altura. Partes meteorológicos. Operaciones a realizar: características de las piñas; corte o extracción; conservación de la captura; protección al recurso y medio ambiente.
-
-3. Clasificación y acondicionamiento de crustáceos adheridos a las rocas para su transporte y comercialización
-
-Limpieza de las piñas.
-
-Clasificación del recurso por tamaños y cantidades.
-
-Conservación del producto: protocolos higiénico-sanitarios de manipulación y transporte.
-
-La primera venta. Las lonjas.
-
-4. Seguridad en las operaciones de extracción y recogida de crustáceos adheridos a las rocas
-
-Riesgos laborales en el proceso extractivo.
-
-Los equipos de protección individual (EPIs).
-
-Seguridad individual e implicaciones del compañero como base principal de seguridad.
-
-Primeros auxilios en las operaciones de extracción y recogida de percebes.
-
-Parámetros de contexto de la formación:
-
-Espacios e instalaciones:
-
-Aula polivalente de un mínimo de 2 m² por alumno o alumna.
-
-Buque de prácticas. (Espacio singular no necesariamente ubicado en el centro de formación).
-
-Perfil profesional del formador o formadora:
-
-1. Dominio de los conocimientos y las técnicas relacionados con la realización de las actividades de extracción y preparación para la venta de crustáceos adheridos a las rocas en zonas de alta exposición al oleaje, que se acreditará mediante una de las formas siguientes:
-
-– Formación académica de Técnico Superior o de otras de superior nivel relacionadas con este campo profesional.
-
-– Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con éste módulo formativo.
 
 2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
 
@@ -576,7 +574,7 @@ CE4.1 Explicar la información relativa al contenido de un plan de contingencia 
 
 CE4.2 Identificar las señales de emergencia a bordo teniendo en cuenta el plan de contingencia con el fin de preservar la seguridad de la vida humana en la mar.
 
-CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la ley de prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.
+CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la normativa sobre prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.
 
 CE4.4 Enumerar las medidas a tener en cuenta para proteger el medio marino y evitar su contaminación, según la normativa aplicable.
 
@@ -670,7 +668,7 @@ Condiciones de trabajo y seguridad.
 
 Equipos de protección personal y colectiva.
 
-Reglamentación en materia de prevención de riesgos laborales.
+Normativa sobre prevención de riesgos laborales.
 
 Prevención de la contaminación del medio marino. Efectos de la contaminación accidental u operacional del medio marino.
 
@@ -700,7 +698,7 @@ Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos, salud laboral, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
 
 - Instalación de 2 m² por alumno o alumna.
 
@@ -712,6 +710,8 @@ Perfil profesional del formador o formadora:
 
 - Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
 
-2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes
+
+> Se modifica por el art. 12 y anexo XX de la Orden EFP/63/2021, de 21 de enero. Ref. BOE-A-2021-1266
 
 > Se modifican la unidad de competencia «UC0010_1» y el módulo formativo asociado «MF0010_1», y la unidad de competencia «UC0733_1» y el módulo formativo asociado «MF0733_1» por los que figuran en el anexo I de la Orden EFP/953/2020, de 12 de octubre, según establece el art. 5.1 de la misma. Ref. BOE-A-2020-12259

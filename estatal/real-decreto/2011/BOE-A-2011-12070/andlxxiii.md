@@ -1,8 +1,8 @@
 ## ANEXO DLXXIII
 
-## CUALIFICACIÓN PROFESIONAL: MANTENIMIENTO DE LOS EQUIPOS DE UN PARQUE DE PESCA Y DE LA INSTALACIÓN FRIGORÍFICA
+## Cualificación profesional: Mantenimiento de los equipos de un parque de pesca y de la instalación frigorífica
 
-Familia Profesional: Marítimo – Pesquera
+Familia Profesional: Marítimo - Pesquera
 
 Nivel: 2
 
@@ -10,63 +10,63 @@ Código: MAP573_2
 
 Competencia general
 
-Realizar las operaciones de mantenimiento y reparación de las máquinas y equipos que integran el parque de pesca y la instalación frigorífica a bordo de buques pesqueros, cumpliendo la reglamentación vigente y en condiciones de seguridad.
+Realizar las operaciones de mantenimiento y reparación de las máquinas y equipos que integran el parque de pesca y la instalación frigorífica a bordo de buques pesqueros, cumpliendo la normativa aplicable y en condiciones de seguridad.
 
 Unidades de competencia
 
-UC0010_1: Contribuir a las operaciones de cubierta en una embarcación pesquera.
+UC0010_1: Contribuir a las operaciones de cubierta en una embarcación pesquera
 
-UC1890_2: Efectuar los trabajos de limpieza y preparación de la maquinaria del parque de pesca.
+UC1890_2: Efectuar los trabajos de limpieza y preparación de la maquinaria del parque de pesca
 
-UC1891_2: Efectuar las labores de mantenimiento de los equipos que componen la instalación frigorífica del parque de pesca.
+UC1891_2: Efectuar las labores de mantenimiento de los equipos que componen la instalación frigorífica del parque de pesca
 
-UC1892_2: Mantener y reparar los equipos mecánicos del parque de pesca actuando según las normas de seguridad y emergencia.
+UC1892_2: Mantener y reparar los equipos mecánicos del parque de pesca actuando según las normas de seguridad y emergencia
 
-UC0733_1: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo.
+UC0733_1: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo
 
 Entorno Profesional
 
 Ámbito Profesional
 
-Desarrolla su actividad profesional por cuenta ajena, tanto en buques pesqueros como en buques dedicados al transporte marítimo, así como en instalaciones de refrigeración comerciales e industriales de diversos sectores productivos. Depende funcional y jerárquicamente de un superior. Su actividad profesional está sometida a regulación por la Administración competente.
+Desarrolla su actividad profesional en buques pesqueros como en buques dedicados al transporte marítimo, así como en instalaciones de refrigeración comerciales e industriales de diversos sectores productivos en entidades de naturaleza privada, empresas de tamaño pequeño/mediano/grande, por cuenta ajena, con independencia de su forma jurídica. Desarrolla su actividad dependiendo, en su caso, funcional y/o jerárquicamente de un superior. Puede tener personal a su cargo en ocasiones, por temporadas o de forma estable. Su actividad profesional está sometida a regulación por la Administración competente. En el desarrollo de la actividad profesional se aplican los principios de accesibilidad universal y diseño universal o diseño para todas las personas de acuerdo con la normativa aplicable.
 
 Sectores Productivos
 
-Se ubica en el sector marítimo-pesquero, y concretamente en las actividades productivas de: Pesca extractiva. Empresas en tierra de elaboración y procesado de productos de la pesca. Empresas de mantenimiento de instalaciones frigoríficas.
+Se ubica en el sector marítimo-pesquero, y concretamente en las actividades productivas de pesca extractiva. Empresas en tierra de elaboración y procesado de productos de la pesca. Empresas de mantenimiento de instalaciones frigoríficas.
 
 Ocupaciones y puestos de trabajo relevantes
 
-Mantenedor frigorista en instalaciones comerciales.
+Los términos de la siguiente relación de ocupaciones y puestos de trabajo se utilizan con carácter genérico y omnicomprensivo de mujeres y hombres.
 
-Mantenedor frigorista en procesos industriales.
+Marineros en buques de pesca.
 
-Mecánico de Parque de Pesca.
+Marineros en buques mercantes.
 
-Mantenedor de equipos en una empresa de elaboración y procesado de productos de la pesca.
+Mantenedores frigoristas en instalaciones comerciales.
 
-Mantenedor frigorista de instalaciones de congelación y conservación de la pesca.
+Mantenedores de equipos en una empresa de elaboración y procesado de productos de la pesca.
 
-Mantenedor frigorista de instalaciones de refrigeración de mercancías a bordo de buques mercantes.
+Mantenedores frigoristas de instalaciones de congelación y conservación de la pesca.
 
-Marinero.
+Mantenedores frigoristas de instalaciones de refrigeración de mercancías a bordo de buques mercantes.
 
-Marinero pescador.
+Mantenedores frigoristas en procesos industriales.
 
-Formación Asociada
+Mecánicos de parque de pesca.
 
-(450 horas)
+Formación Asociada (450 horas)
 
 Módulos Formativos
 
-MF0010_1: Labores de cubierta en buque de pesca. (30 horas)
+MF0010_1: Labores de cubierta en buque de pesca (30 horas)
 
-MF1890_2: Preparación y control de la maquinaria del parque de pesca. (120 horas)
+MF1890_2: Preparación y control de la maquinaria del parque de pesca (120 horas)
 
-MF1891_2: Mantenimiento de los equipos que componen la instalación frigorífica del parque de pesca. (120 horas)
+MF1891_2: Mantenimiento de los equipos que componen la instalación frigorífica del parque de pesca (120 horas)
 
-MF1892_2: Mantenimiento de los equipos mecánicos del parque de pesca. (120 horas)
+MF1892_2: Mantenimiento de los equipos mecánicos del parque de pesca (120 horas)
 
-MF0733_1: Seguridad y primeros auxilios a bordo. (60 horas)
+MF0733_1: Seguridad y primeros auxilios a bordo (60 horas)
 
 UNIDAD DE COMPETENCIA 1: CONTRIBUIR A LAS OPERACIONES DE CUBIERTA EN UNA EMBARCACIÓN PESQUERA
 
@@ -126,61 +126,61 @@ Código: UC1890_2
 
 Realizaciones profesionales y criterios de realización:
 
-RP 1: Efectuar las operaciones de limpieza de la maquinaria del parque de pesca, cumpliendo con la normativa higiénico-sanitaria, para que el parque se encuentre en condiciones de operatividad.
+RP1: Efectuar las operaciones de limpieza de la maquinaria del parque de pesca para que se encuentre en condiciones de operatividad, cumpliendo con la normativa higiénico-sanitaria aplicable.
 
-CR 1.1 Los puntos de luz, tomas de energía y sistemas de transporte de los residuos de las capturas de las máquinas, se revisan, limpian y prueban teniendo en cuenta las normas higiénico – sanitarias, para que las operaciones de manipulación y elaboración de las capturas se realicen con seguridad y sin demoras.
+CR1.1 La maquinaria del parque de pesca se adecua, revisando, limpiando y probando los puntos de luz, tomas de energía y sistemas de transporte de los residuos de las capturas de las máquinas, teniendo en cuenta las normas higiénico-sanitarias aplicables, para que las operaciones de manipulación y elaboración de las capturas se realicen con seguridad y sin demoras.
 
-CR 1.2 Las cintas transportadoras y canaletas del parque de pesca se limpian, asegurando su funcionamiento, para evitar demoras o atascos en las faenas de producción.
+CR1.2 Las cintas transportadoras y canaletas del parque de pesca se limpian, asegurando su funcionamiento para evitar demoras o atascos en las faenas de producción.
 
-CR 1.3 Las máquinas lavadoras, descabezadoras y cortadoras se limpian y comprueban su funcionamiento, antes de comenzar la manipulación de las capturas para asegurar el desarrollo del proceso productivo.
+CR1.3 El funcionamiento de las máquinas lavadoras, descabezadoras y cortadoras se comprueba, limpiándolas previamente, antes de comenzar la manipulación de las capturas para asegurar el desarrollo del proceso productivo.
 
-CR 1.4 Las cintas de arrastre, cuchillas, rodillos y gomas de las maquinas fileteadoras, peladoras y desolladoras, se limpian, ajustan y comprueban teniendo en cuenta las normas de seguridad, para garantizar la producción deseada sobre el nivel y composición de las capturas.
+CR1.4 Las máquinas fileteadoras, peladoras y desolladoras se adecuan, revisando, limpiando y comprobando las cintas de arrastre, cuchillas, rodillos y gomas teniendo en cuenta las normas de seguridad, para garantizar la producción deseada sobre el nivel y composición de las capturas.
 
-RP 2: Controlar la maquinaria y la tripulación al cargo de las mismas, de forma que las operaciones se puedan realizar con seguridad, para conseguir el máximo aprovechamiento y rentabilidad de la producción.
+RP2: Controlar la maquinaria y la tripulación al cargo de las mismas, de forma que las operaciones se puedan realizar con seguridad, para conseguir el máximo aprovechamiento y rentabilidad de la producción.
 
-CR 2.1 El tamaño del pescado en las tinas de recepción se observa y comprueba, con el fin de regular y adaptar la máquina a utilizar, para obtener la producción deseada.
+CR2.1 El tamaño del pescado en las tinas de recepción se comprueba, con el fin de regular y adaptar la máquina a utilizar, para obtener la producción establecida.
 
-CR 2.2 Las faenas de colocación del pescado en las cintas de arrastre de las fileteadoras se vigilan, de manera que este vaya situado derecho y en el centro, para evitar que se atasque la máquina y se produzca un paro en la producción.
+CR2.2 Las faenas de colocación del pescado en las cintas de arrastre de las fileteadoras se verifican, de manera que éste vaya situado derecho y en el centro, para evitar que se atasque la máquina y se produzca un paro en la producción.
 
-CR 2.3 Los surtidores de agua de las fileteadoras, se comprueba que trabajan evitando que las cuchillas trabajen en seco, para facilitar la evacuación de los desperdicios.
+CR2.3 Los surtidores de agua de las fileteadoras se comprueban, evitando que las cuchillas trabajen en seco, para facilitar la evacuación de los desperdicios.
 
-CR 2.4 La posición de los filetes en las cintas transportadoras entre las máquinas fileteadoras y las peladoras, se controla que la piel del pescado entre en contacto con el tambor de la peladora, para lograr la presentación requerida comercialmente.
+CR2.4 La posición de los filetes en las cintas transportadoras entre las máquinas fileteadoras y las peladoras se controla, asegurando que la piel del pescado entre en contacto con el tambor de la peladora, para lograr la presentación requerida comercialmente.
 
-RP 3: Detectar y/o reparar los fallos producidos en la maquinaria del parque, observando las anomalías que presente el procesado de las especies, comunicándoselo a su superior, para que estas lleguen a puerto en las condiciones del mercado.
+RP3: Reparar los fallos producidos en la maquinaria del parque de pesca, detectados al observar las anomalías que presente el procesado de las especies, comunicándoselo a su superior para que éstas lleguen a puerto en las condiciones del mercado.
 
-CR 3.1 La acumulación del pescado en las cintas transportadoras se evita ajustando la tracción y velocidad de las mismas, para optimizar el rendimiento de la instalación.
+CR3.1 La acumulación del pescado en las cintas transportadoras se evita ajustando la tracción y velocidad de las mismas, para optimizar el rendimiento de la instalación.
 
-CR 3.2 Los desperdicios de pescado se controlan visualmente para efectuar, en caso necesario, los ajustes mecánicos de las cuchillas de las máquinas descabezadoras, cortadoras, evisceradoras y fileteadoras.
+CR3.2 Los desperdicios de pescado se controlan visualmente para efectuar, en caso necesario, los ajustes mecánicos de las cuchillas de las máquinas descabezadoras, cortadoras, evisceradoras y fileteadoras.
 
-CR 3.3 Las máquinas termoselladoras y etiquetadoras de pescado se controlan, detectando los posibles fallos en el embasado y en caso necesario se reajustan o cambian las resistencias eléctricas, para que el producto tenga la presentación requerida en el mercado.
+CR3.3 Las máquinas termoselladoras y etiquetadoras de pescado se controlan, detectando los posibles fallos en el envasado, y en caso necesario, reajustando o cambiando las resistencias eléctricas, para que el producto tenga la presentación requerida en el mercado.
 
-CR 3.4 Los fallos producidos en el sistema de glaseado, se detectan y reparan, cambiando, si fuese necesario, los difusores para que su presentación después de la congelación se ajuste a los criterios de comercialización.
+CR3.4 Los fallos producidos en el sistema de glaseado se reparan cambiando, si fuese necesario, los difusores para que su presentación después de la congelación se ajuste a los criterios de comercialización.
 
-CR 3.5 La documentación técnica de los equipos, certificados de garantía, se interpreta, si es el caso, en el idioma extranjero de uso más frecuente en el sector.
+CR3.5 La documentación técnica de los equipos, certificados de garantía, entre otros, se interpreta, si es el caso, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
 
-RP 4: Recepcionar los recambios, respetos y materiales de la maquinaria del parque, controlando su utilización, para garantizar el mantenimiento de uso durante la campaña o marea.
+RP4: Recepcionar los recambios, respetos y materiales de la maquinaria del parque de pesca, controlando su utilización, para garantizar el mantenimiento de uso durante la campaña o marea.
 
-CR 4.1 Los recambios, respetos y herramientas a utilizar en la maquinaria del parque se estiban y preparan, y los manuales de funcionamiento de las máquinas se clasifican, para utilizar con la mayor rapidez en caso de avería y así evitar el colapso de la factoría.
+CR4.1 Los recambios, respetos y herramientas a utilizar en la maquinaria del parque de pesca se estiban previa preparación, clasificando los manuales de funcionamiento de la maquinaria, para utilizar con la mayor rapidez en caso de avería y así evitar el colapso de la factoría.
 
-CR 4.2 Los elementos de limpieza y engrase utilizados en las labores de mantenimiento se depositaran en pañoles próximos al parque de pesca, pero totalmente aislados de este, para garantizar las condiciones higiénico-sanitarias durante las operaciones de procesado.
+CR4.2 Los elementos de limpieza y engrase utilizados en las labores de mantenimiento se depositan en pañoles próximos al parque de pesca, pero totalmente aislados de éste, para garantizar las condiciones higiénico-sanitarias durante las operaciones de procesado.
 
-CR 4.3 El inventario de todos los elementos de mantenimiento del parque, se controla durante la campaña, a partir del momento de la salida, para poder realizar el pedido al final de la misma.
+CR4.3 El inventario de todos los elementos de mantenimiento del parque de pesca se controla durante la campaña, a partir del momento de la salida para poder realizar el pedido al final de la misma.
 
-CR 4.4 Las horas de trabajo y las averías de cada máquina se controlan a través de un registro, para que cumplan tanto con el protocolo de mantenimiento como para llevar a cabo las reparaciones.
+CR4.4 Las horas de trabajo y las averías de cada máquina se controlan a través de un registro, para que cumplan tanto con el protocolo de mantenimiento como para llevar a cabo las reparaciones.
 
 Contexto profesional:
 
 Medios de producción:
 
-Elementos de limpieza, paños, aceites, grasas, cables, gomas, material aislante, rodamientos, cuchillas, cintas de arrastre, rodillos, gomas, entre otros para mantener en buen estado higiénico y operativo el parque de pesca. Guías, canaletas, cintas transportadoras. Máquinas limpiadoras, cortadoras y descabezadoras. Máquinas clasificadoras. Máquinas peladoras, fileteadoras y desolladoras. Máquinas para aprovechamiento de descartes, entre otras, para la elaboración y procesado de las capturas. Libretas de trabajo y averías de la distinta maquinaria. Libros y libretas de inventario.
+Elementos de limpieza, paños, aceites, grasas, cables, gomas, material aislante, rodamientos, cuchillas, cintas de arrastre, rodillos, gomas, entre otros, para mantener en buen estado higiénico y operativo el parque de pesca. Guías, canaletas, cintas transportadoras. Máquinas limpiadoras, cortadoras y descabezadoras. Máquinas clasificadoras. Máquinas peladoras, fileteadoras y desolladoras. Máquinas para aprovechamiento de descartes, entre otras, para la elaboración y procesado de las capturas. Libretas de trabajo y averías de la distinta maquinaria. Libros y libretas de inventario.
 
 Productos y resultados:
 
-Cintas, canaletas máquinas cortadoras y procesadoras en estado de conservación, seguridad y limpieza. Maquinaria del parque de pesca preparada para ser utilizada. Elaboración controlada del producto. Pañoles estibados. Elementos de sustitución y reparación clasificados y preparados. Inventario de repuestos y materiales al día.
+Operaciones de limpieza de la maquinaria del parque de pesca efectuadas. Maquinaria y tripulación al cargo de las mismas controladas. Fallos producidos en la maquinaria del parque de pesca detectados y/o reparados. Recambios, respetos y materiales de la maquinaria del parque de pesca recepcionados.
 
 Información utilizada o generada:
 
-Órdenes del superior. Vocabulario marítimo, pesquero y tecnológico. Catálogos varios de cintas de arrastre, cuchillas, rodillos, gomas y demás útiles para la maquinaria. Planos de la maquinaria del parque de pesca. Libros de instrucciones de la maquinaria y manuales de funcionamiento. Normas sobre clasificación y elaboración de las capturas. Libretas de control de horas de trabajo y averías de la maquinaria del parque. Información sobre elementos y útiles de engrase y limpieza.
+Órdenes del superior. Vocabulario marítimo-pesquero y tecnológico. Catálogos varios de cintas de arrastre, cuchillas, rodillos, gomas y demás útiles para la maquinaria. Planos de la maquinaria del parque de pesca. Libros de instrucciones de la maquinaria y manuales de funcionamiento. Normas sobre clasificación y elaboración de las capturas. Libretas de control de horas de trabajo y averías de la maquinaria del parque de pesca. Información sobre elementos y útiles de engrase y limpieza. Procedimientos y/o instrucciones de mantenimiento preventivo, predictivo y correctivo. Protocolo de gestión de residuos generados durante las actividades de mantenimiento y reparación. Fichas para procedimiento y/o instrucciones según tipo de mantenimiento. Protocolo para el manejo y gestión de los residuos generados.
 
 UNIDAD DE COMPETENCIA 3: EFECTUAR LAS LABORES DE MANTENIMIENTO DE LOS EQUIPOS QUE COMPONEN LA INSTALACIÓN FRIGORÍFICA DEL PARQUE DE PESCA
 
@@ -190,47 +190,47 @@ Código: UC1891_2
 
 Realizaciones profesionales y criterios de realización:
 
-RP 1: Verificar el estado de los elementos constituyentes de la instalación frigorífica, de acuerdo con los manuales de los mismos, para conseguir su funcionamiento.
+RP1: Verificar el estado de los elementos constituyentes de la instalación frigorífica del parque de pesca, de acuerdo con los manuales de los mismos, para conseguir su funcionamiento.
 
-CR 1.1 Los niveles de refrigerante y aceite en la instalación se comprueban, teniendo en cuenta los parámetros (máximo y mínimo), para evitar exceso o carencia de los mismos.
+CR1.1 Los niveles de refrigerante y aceite en la instalación se comprueban, teniendo en cuenta los parámetros (máximo y mínimo), para evitar exceso o carencia de los mismos.
 
-CR 1.2 La hermeticidad de los túneles, cámaras y serpentines se comprueba visualmente para asegurar la transmisión de calor.
+CR1.2 La hermeticidad de los túneles, cámaras y serpentines se comprueba visualmente para asegurar la transmisión de calor.
 
-CR 1.3 Las uniones, tanto mecánicas como soldadas, entre los elementos de la instalación, se comprueban visualmente para garantizar su estanqueidad.
+CR1.3 Las uniones tanto mecánicas como soldadas, entre los elementos de la instalación, se comprueban visualmente para garantizar su estanqueidad.
 
-CR 1.4 El funcionamiento de las bombas y ventiladores se comprueba, de acuerdo con las condiciones de diseño de la instalación, para conseguir los parámetros de congelación indicados.
+CR1.4 El funcionamiento de las bombas y ventiladores se comprueba, de acuerdo con las condiciones de diseño de la instalación, para conseguir los parámetros de congelación indicados.
 
-CR 1.5 Los elementos de regulación y control se encuentran en su posición de trabajo, de acuerdo con sus especificaciones técnicas para evitar posibles averías.
+CR1.5 Los elementos de regulación y control se localizan en su posición de trabajo, de acuerdo con sus especificaciones técnicas para evitar posibles averías.
 
-RP 2: Realizar la puesta en marcha y regulación de la instalación frigorífica, de acuerdo con las condiciones de trabajo establecidas por el superior, para lograr el máximo rendimiento y seguridad.
+RP2: Realizar la puesta en marcha y regulación de la instalación frigorífica, de acuerdo con las condiciones de trabajo establecidas por el superior, para lograr el máximo rendimiento y seguridad.
 
-CR 2.1 Las conexiones eléctricas, mecánicas y frigoríficas entre los elementos de la instalación, se comprueban empleando los equipos de medición, para determinar que se encuentran dentro de los parámetros de diseño de la misma.
+CR2.1 Las conexiones eléctricas, mecánicas y frigoríficas entre los elementos de la instalación se comprueban, empleando los equipos de medición, para determinar que se encuentran dentro de los parámetros de diseño de la misma.
 
-CR 2.2 Los elementos de seguridad (válvulas, termostatos, presostatos, entre otros) de la instalación, tanto de agua como de aceite y refrigerante, se comprueban visualmente para verificar su funcionamiento.
+CR2.2 Los elementos de seguridad (válvulas, termostatos, presostatos, entre otros) de la instalación, tanto de agua como de aceite y refrigerante se comprueban visualmente para verificar su funcionamiento.
 
-CR 2.3 La puesta en marcha del equipo frigorífico se realiza observando el automatismo eléctrico y frigorífico, siguiendo las técnicas de cada operación, a fin de verificar su funcionamiento.
+CR2.3 El equipo frigorífico se pone en marcha observando el automatismo eléctrico y frigorífico, siguiendo las técnicas de cada operación, a fin de verificar su funcionamiento.
 
-CR 2.4 La regulación de la instalación se realiza siguiendo los procedimientos establecidos en los manuales con el fin de obtener la seguridad y eficiencia de la misma.
+CR2.4 Los parámetros de la instalación se regulan siguiendo los procedimientos establecidos en los manuales con el fin de obtener la seguridad y eficiencia de la misma.
 
-RP 3: Realizar el mantenimiento de la instalación por periodos de tiempo, según lo establecido en los manuales de los fabricantes, con el fin de evitar disfunciones.
+RP3: Realizar el mantenimiento de la instalación por periodos de tiempo, según lo establecido en los manuales de los fabricantes, con el fin de evitar disfunciones.
 
-CR 3.1 La instalación frigorífica se somete a revisiones sistemáticas, utilizando para ello planes, procedimientos técnicos, herramientas y criterios establecidos en protocolos, con el fin de garantizar su funcionamiento.
+CR3.1 La operatividad de la instalación frigorífica se revisa sistemáticamente, utilizando para ello planes, procedimientos técnicos, herramientas y criterios establecidos en protocolos, con el fin de garantizar su funcionamiento.
 
-CR 3.2 El mantenimiento preventivo de los equipos que conforman la instalación se realiza, sustituyendo los elementos según su estado y fichas de trabajo, para evitar posibles averías.
+CR3.2 El mantenimiento preventivo de los equipos que conforman la instalación se efectúa sustituyendo los elementos según su estado y fichas de trabajo, para evitar posibles averías.
 
-CR 3.3 La comprobación de las alineaciones, corrección de holguras, tensado de correas de transmisión, así como el estado de los elementos de unión y fijación, se realiza empleando las herramientas específicas y observando los criterios de seguridad establecidos en la normativa vigente, para evitar pérdidas en el rendimiento de la instalación.
+CR3.3 Las alineaciones, corrección de holguras, tensado de correas de transmisión, así como el estado de los elementos de unión y fijación se comprueban, empleando las herramientas específicas y observando los criterios de seguridad establecidos en la normativa aplicable, para evitar pérdidas en el rendimiento de la instalación.
 
-CR 3.4 El funcionamiento del cuadro de mando y el control eléctrico de la instalación, así como el consumo de los motores eléctricos se remite a lo indicado en los manuales correspondientes, para realizar el control efectivo sobre los parámetros de funcionamiento de la instalación.
+CR3.4 Las operaciones del cuadro de mando y el control eléctrico de la instalación, así como el consumo de los motores eléctricos se gestionan según lo indicado en los manuales correspondientes, para realizar el control efectivo sobre los parámetros de funcionamiento de la instalación.
 
-RP 4: Reparar posibles averías de la instalación, diagnosticadas y localizadas previamente por un responsable superior, empleando las herramientas específicas y siguiendo los criterios de seguridad, para subsanar las mencionadas averías.
+RP4: Reparar posibles averías de la instalación, diagnosticadas y localizadas previamente por un responsable superior, empleando las herramientas específicas y siguiendo los criterios de seguridad para subsanarlas.
 
-CR 4.1 Las anomalías en la instalación se detectan y corrigen, a la vista de la documentación técnica, analizando los parámetros de funcionamiento de la misma, para lograr el máximo rendimiento.
+CR4.1 Las anomalías en la instalación se corrigen a la vista de la documentación técnica, analizando los parámetros de funcionamiento de la misma, para garantizar su rendimiento.
 
-CR 4.2 Las variables de funcionamiento de los elementos que conforman la instalación se valoran, mediante procedimientos de observación y medición (temperaturas, presiones, ruidos, consumos, vibraciones, entre otros), para identificar la naturaleza de la avería en función de los efectos que produce en la instalación.
+CR4.2 Las variables de funcionamiento de los elementos que conforman la instalación se valoran, mediante procedimientos de observación y medición (temperaturas, presiones, ruidos, consumos, vibraciones, entre otros), para identificar la naturaleza de la avería en función de los efectos que produce en la instalación.
 
-CR 4.3 El equipo o elemento averiado se localiza, realizando para ello las medidas y pruebas al uso, procediendo a su desmontaje, verificación y reparación ó sustitución, observando los criterios de seguridad, para eliminar las anomalías detectadas.
+CR4.3 El equipo o elemento averiado se localiza, realizando para ello las medidas y pruebas al uso, procediendo a su desmontaje, verificación y reparación o sustitución, observando los criterios de seguridad, para eliminar las anomalías detectadas.
 
-CR 4.4 El elemento causante de la avería, una vez reparado o en su caso sustituido, se monta y comprueba su funcionamiento, para restablecer los parámetros de la instalación.
+CR4.4 El elemento causante de la avería, una vez reparado o en su caso sustituido, se monta para restablecer los parámetros de la instalación y comprobar su operatividad.
 
 Contexto profesional:
 
@@ -240,11 +240,11 @@ Cámaras y túneles de congelación, armarios de placas, cubas de salmuera. Comp
 
 Productos y resultados:
 
-Mantenimiento de los equipos que componen la instalación frigorífica según criterios de seguridad. Cámaras y túneles de congelación y armarios, preparados para ser utilizados.
+Estado de los elementos constituyentes de la instalación frigorífica verificados. Puesta en marcha y regulación de la instalación frigorífica realizada. Mantenimiento de la instalación realizado. Averías de la instalación frigorífica del parque de pesca reparadas.
 
 Información utilizada o generada:
 
-Especificaciones técnicas. Planos de conjunto y despiece. Listado de piezas y componentes. Instrucciones de montaje y funcionamiento, así como manuales de operación y utilización. Diagramas termodinámicos de los agentes frigoríficos. Reglamentos: seguridad para plantas e instalaciones frigoríficas, electrotécnico de baja tensión, aparatos a presión, medioambiente. Partes de mantenimiento. Normativa que vaya surgiendo con relación a dicha materia.
+Especificaciones técnicas. Planos de conjunto y despiece. Listado de piezas y componentes. Instrucciones de montaje y funcionamiento, así como manuales de operación y utilización. Diagramas termodinámicos de los agentes frigoríficos. Reglamentos: seguridad para plantas e instalaciones frigoríficas, electrotécnico de baja tensión, aparatos a presión, medioambiente. Partes de mantenimiento. Normativa que vaya surgiendo con relación a dicha materia. Procedimientos y/o instrucciones de mantenimiento preventivo, predictivo y correctivo. Protocolo de gestión de residuos generados durante las actividades de mantenimiento y reparación. Fichas para procedimiento y/o instrucciones según tipo de mantenimiento. Protocolo para el manejo y gestión de los residuos generados.
 
 UNIDAD DE COMPETENCIA 4: MANTENER Y REPARAR LOS EQUIPOS MECÁNICOS DEL PARQUE DE PESCA ACTUANDO SEGÚN LAS NORMAS DE SEGURIDAD Y EMERGENCIA
 
@@ -254,71 +254,71 @@ Código: UC1892_2
 
 Realizaciones profesionales y criterios de realización:
 
-RP 1: Comprobar el estado de ajuste de todos los órganos móviles y fijos de los compresores de la instalación, siguiendo los protocolos establecidos para evitar averías.
+RP1: Comprobar el estado de ajuste de todos los órganos móviles y fijos de los compresores de la instalación del parque de pesca, siguiendo los protocolos establecidos para evitar averías y cumpliendo la normativa aplicable de seguridad y emergencia.
 
-CR 1.1 Los compresores frigoríficos se controlan periódicamente, comprobando el huelgo de segmentos en los pistones y con respecto a los cilindros, cojinetes de cabeza de biela, pie de biela, collarines del cigüeñal, plato de válvulas, ateniéndose a los manuales de instrucciones del fabricante con el fin de minimizar el riesgo de averías.
+CR1.1 La operatividad de los compresores frigoríficos se controla según los hitos fijados, comprobando el huelgo de segmentos en los pistones y con respecto a los cilindros, cojinetes de cabeza de biela, pie de biela, collarines del cigüeñal, plato de válvulas, ateniéndose a los manuales de instrucciones del fabricante con el fin de minimizar el riesgo de averías.
 
-CR 1.2 Los repuestos almacenados se catalogan y se contabilizan según su codificación, para determinar el stock de existencias.
+CR1.2 Los repuestos almacenados para el mantenimiento del parque de pesca se contabilizan, según su codificación, para determinar el stock de existencias.
 
-CR 1.3 Los órganos y/o luchaderos que se encuentre en condiciones de desgaste o posible rotura se sustituyen, bajo la supervisión de un responsable superior para evitar daños en los compresores.
+CR1.3 Los órganos y/o luchaderos que se encuentren en condiciones de desgaste o posible rotura se sustituyen bajo la supervisión de un responsable superior, para evitar daños en los compresores de la instalación del parque de pesca.
 
-CR 1.4 Los reconocimientos efectuados se registran en el libro de mantenimiento de los compresores, según las indicaciones del fabricante, para controlar el estado de los mismos.
+CR1.4 Los reconocimientos efectuados en el parque de pesca se registran en el libro de mantenimiento de los compresores, según las indicaciones del fabricante, para controlar el estado de los mismos.
 
-CR 1.5 Los repuestos utilizados se dan de baja en el fichero de existencias, procediendo a su reposición para garantizar su disponibilidad en el stock.
+CR1.5 Los repuestos utilizados se dan de baja en el fichero de existencias, procediendo a su reposición, para garantizar su disponibilidad en el stock del parque de pesca.
 
-RP 2: Revisar y reparar el estado de funcionamiento de los condensadores y evaporadores de la instalación, siguiendo las instrucciones del fabricante, para lograr el rendimiento de la misma.
+RP2: Revisar el estado de funcionamiento de los condensadores y evaporadores de la instalación del parque de pesca, reparándolos, si procede, siguiendo las instrucciones del fabricante, para lograr el rendimiento de la misma.
 
-CR 2.1 La estanqueidad de los haces tubulares de los condensadores se comprueba utilizando las técnicas especificadas, para cada tipo de equipo con el fin de evitar posibles fugas.
+CR2.1 La estanqueidad de los haces tubulares de los condensadores se comprueba utilizando las técnicas especificadas para cada tipo de equipo con el fin de evitar posibles fugas.
 
-CR 2.2 Los electrógenos de cinc de los condensadores férricos se sustituyen, cuando su estado de desgaste por la acción galvánica así lo requiera, para evitar corrosiones.
+CR2.2 Los electrógenos de cinc de los condensadores férricos se sustituyen, cuando su estado de desgaste por la acción galvánica así lo requiera, para evitar corrosiones.
 
-CR 2.3 El circuito de circulación del agua refrigerante se comprueba y/o se desmonta, siguiendo los protocolos establecidos, para obtener la presión y el caudal de funcionamiento.
+CR2.3 El circuito de circulación del agua refrigerante se analiza, comprobándolo y/o desmontándolo, siguiendo los protocolos establecidos, para garantizar la obtención de la presión y el caudal adecuado al funcionamiento.
 
-CR 2.4 El estado de los serpentines, tanto de expansión directa (fluido frigorígeno), como de expansión indirecta (salmuera, glicol, entre otros) se comprueba visualmente, para evitar pérdida de fluido.
+CR2.4 El estado de los serpentines, tanto de expansión directa (fluido frigorígeno), como de expansión indirecta (salmuera, glicol, entre otros) se comprueba visualmente, para evitar pérdida de fluido.
 
-CR 2.5 La instalación eléctrica y mecánica (estado de los rodamientos) de los ventiladores se revisa siguiendo las instrucciones del fabricante, para evitar desfases de trabajo en los equipos mecánicos del parque.
+CR2.5 La instalación eléctrica y mecánica (estado de los rodamientos) de los ventiladores se revisa, siguiendo las instrucciones del fabricante, para evitar desfases de trabajo en los equipos mecánicos del parque de pesca.
 
-CR 2.6 La presión del cilindro hidráulico y el estado de las placas de contacto de los evaporadores se comprueban, accionando el funcionamiento de la instalación, para controlar el sistema y detectar posibles pérdidas.
+CR2.6 La presión del cilindro hidráulico y el estado de las placas de contacto de los evaporadores se comprueban, accionando el funcionamiento de la instalación, para controlar el sistema y detectar posibles pérdidas.
 
-CR 2.7 Los valores de los manómetros, termómetros y niveles, se comprueban visualmente para controlar el funcionamiento del sistema.
+CR2.7 El funcionamiento del sistema se controla, comprobando visualmente y ajustando, si se requiere, los valores de los manómetros, termómetros y niveles.
 
-RP 3: Efectuar la supervisión de las fileteadotas, siguiendo instrucciones del superior sustituyendo sus componentes en caso necesario, para mantener su estado de funcionamiento.
+RP3: Supervisar el funcionamiento de las fileteadoras para mantener su operatividad, sustituyendo sus componentes en caso necesario y siguiendo instrucciones del superior.
 
-CR 3.1 Los elementos de las vías clasificadoras se ajustan y engrasan periódicamente, para evitar atascos.
+CR3.1 Los elementos de las vías clasificadoras se ajustan, engrasando si procede, siguiendo los plazos establecidos en los protocolos, para evitar atascos.
 
-CR 3.2 La cinta transportadora se revisa, comprobando su desgaste para garantizar la tracción de la misma.
+CR3.2 La cinta transportadora se revisa, comprobando su estado de desgaste, para garantizar la tracción de la misma.
 
-CR 3.3 El funcionamiento de las máquinas y su conexión con el sistema informático se comprueba, realizando medidas de tiempo y peso, para determinar que las mismas se ajustan a lo establecido en la programación informática.
+CR3.3 El funcionamiento de las máquinas y su conexión con el sistema informático se comprueba, realizando medidas de tiempo y peso, para determinar que se ajustan a lo establecido en la programación informática.
 
-RP 4: Realizar los controles de mantenimiento de las cortadoras de cabeza y eviscerado de pescado para conseguir la extracción de las vísceras.
+RP4: Ajustar las cortadoras de cabeza y eviscerado de pescado, ajustando y limpiando las piezas, para conseguir la extracción de las vísceras.
 
-CR 4.1 Los rodillos cónicos se ajustan según las horas de funcionamiento indicado en los manuales, para lograr el aprovechamiento del pescado al cortar la cabeza.
+CR4.1 Los rodillos cónicos se ajustan según las horas de funcionamiento indicado en los manuales, para lograr el aprovechamiento del pescado al cortar la cabeza.
 
-CR 4.2 La estrella giratoria utilizada para la limpieza final del pescado se mantiene limpia y carente de desperfectos, para evitar demoras en la producción.
+CR4.2 La estrella giratoria utilizada para la limpieza final del pescado se mantiene limpia y carente de desperfectos, para evitar demoras en la producción.
 
-CR 4.3 Los cangilones y cuchillas circulares se ajustan cada vez que se intercambian, según la necesidad del tamaño del pescado requerido por el responsable del parque, para lograr el mayor aprovechamiento comercial del pescado.
+CR4.3 Los cangilones y cuchillas circulares se ajustan cada vez que se intercambian, según la necesidad del tamaño del pescado requerido por el responsable del parque de pesca, para lograr el mayor aprovechamiento comercial del pescado.
 
-RP 5: Ajustar y mantener el funcionamiento de las máquinas fileteadoras y secadoras de pescado, según manuales de los fabricantes, para evitar averías en las mismas.
+RP5: Ajustar las máquinas fileteadoras y secadoras de pescado, realizando ajustes si procede según manuales de los fabricantes, para evitar averías en las mismas.
 
-CR 5.1 La velocidad de las máquinas se regula, en función de las características del pescado a filetear, para controlar los tiempos y evitar atascos.
+CR5.1 La velocidad de las máquinas se regula, en función de las características del pescado a filetear, para controlar los tiempos y evitar atascos.
 
-CR 5.2 El funcionamiento de las cuchillas con soporte elástico y la tensión de los muelles de presión axial se comprueban, garantizando la máxima precisión en el corte, para minimizar las pérdidas.
+CR5.2 El funcionamiento de las cuchillas con soporte elástico y la tensión de los muelles de presión axial se comprueban, garantizando la precisión en el corte, para minimizar las pérdidas.
 
-CR 5.3 La cuchilla raspadora se ajusta a la carga del soporte del muelle, adaptándola a diferentes partidas del pescado, para lograr su mejor aprovechamiento.
+CR5.3 La cuchilla raspadora se ajusta a la carga del soporte del muelle, adaptándola a diferentes partidas del pescado, para lograr su mejor aprovechamiento.
 
 Contexto profesional:
 
 Medios de producción:
 
-Engrasadores manuales y automáticos. Rodamientos de bolas y de rodillos. Equipo y material para realizar el recauchutado de las cintas transportadoras. Equipo y material para realizar soldadura eléctrica, oxiacetilénica y con argón. Distintos tipos de juntas (teflón, aluminio, cobre, klingerit, entre otros). Equipos y máquinas en el parque de pesca para realizar la elaboración del pescado desde su captura hasta su estiba en bodega. Tramos de serpentines de repuesto (expansión directa e indirecta) de los evaporadores y bodegas. Botellas de fluido para los sistemas hidráulicos. Cuchillas, muelles, resortes y todo tipo de elementos susceptibles de desgaste y posible rotura por fatiga de las máquinas y equipos del Parque. Trajes y equipos de protección para realizar los trabajos de mantenimiento y reparación. Equipo informático conectado a las máquinas procesadoras de pescado y sus repuestos correspondientes de programación. Bandejas para la estiba y posterior congelación del pescado para túneles de congelación y evaporadores de placas de contacto. Herramientas para máquinas y equipos.
+Engrasadores manuales y automáticos. Rodamientos de bolas y de rodillos. Equipo y material para realizar el recauchutado de las cintas transportadoras. Equipo y material para realizar soldadura eléctrica, oxiacetilénica y con argón. Tipos de juntas (teflón, aluminio, cobre, klingerit, entre otros). Equipos y máquinas en el parque de pesca para realizar la elaboración del pescado desde su captura hasta su estiba en bodega. Tramos de serpentines de repuesto (expansión directa e indirecta) de los evaporadores y bodegas. Botellas de fluido para los sistemas hidráulicos. Cuchillas, muelles, resortes y todo tipo de elementos susceptibles de desgaste y posible rotura por fatiga de las máquinas y equipos del parque de pesca. Trajes y equipos de protección para realizar los trabajos de mantenimiento y reparación. Equipo informático conectado a las máquinas procesadoras de pescado y sus repuestos correspondientes de programación. Bandejas para la estiba y posterior congelación del pescado para túneles de congelación y evaporadores de placas de contacto. Herramientas para máquinas y equipos.
 
 Productos y resultados:
 
-Máquinas y equipos en estado operativo. Repuestos y herramientas estibados en su lugar correspondiente. Libros de anotaciones de mantenimiento y reparaciones cumplimentados. Inventarios y stocks de existencias al día.
+Estado de ajuste de los compresores de la instalación del parque de pesca comprobados. Funcionamiento de los condensadores y evaporadores de la instalación del parque de pesca revisados. Funcionamiento de las fileteadoras supervisado. Mantenimiento de las cortadoras de cabeza y eviscerado de pescado realizado. Mantenimiento del funcionamiento de las máquinas fileteadoras y secadoras de pescado.
 
 Información utilizada o generada:
 
-Manuales, catálogos y libros de instrucciones de los equipos y máquinas del Parque de Pesca. Instrucciones de un responsable superior. Ley de protección de Riesgos Laborales. Planos de la maquinaria y complementos del parque. Normativa que vaya surgiendo con relación a dicha materia.
+Manuales, catálogos y libros de instrucciones de los equipos y máquinas del parque de pesca. Instrucciones de un responsable superior. Ley de Protección de Riesgos Laborales. Planos de la maquinaria y complementos del parque de pesca. Normativa que vaya surgiendo con relación a dicha materia. Procedimientos y/o instrucciones de mantenimiento preventivo, predictivo y correctivo. Protocolo de gestión de residuos generados durante las actividades de mantenimiento y reparación. Fichas para procedimiento y/o instrucciones según tipo de mantenimiento. Protocolo para el manejo y gestión de los residuos generados.
 
 UNIDAD DE COMPETENCIA 5: ACTUAR EN EMERGENCIAS MARÍTIMAS Y APLICAR LAS NORMAS DE SEGURIDAD EN EL TRABAJO
 
@@ -372,7 +372,7 @@ Contexto profesional:
 
 Medios de producción:
 
-Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección personal: trajes, casco, guantes, botas, botiquín reglamentario. Equipos de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
+Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección individual: trajes, casco, guantes, botas, botiquín reglamentario. Equipo de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
 
 Productos y resultados:
 
@@ -514,7 +514,7 @@ Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos, salud laboral, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
 
 - Taller de 3 m² por alumno o alumna.
 
@@ -538,27 +538,25 @@ Código: MF1890_2
 
 Asociado a la UC: Efectuar los trabajos de limpieza y preparación de la maquinaria del parque de pesca
 
-Duración: 120
-
-horas
+Duración: 120 horas
 
 Capacidades y criterios de evaluación:
 
-C1: Aplicar las operaciones de limpieza y pruebas a realizar en la maquinaria del parque de pesca, cumpliendo la normativa higiénico-sanitaria, para que el mismo se encuentre en condiciones de operatividad a la recepción de las capturas.
+C1: Aplicar operaciones de limpieza y pruebas a realizar en la maquinaria, cumpliendo la normativa higiénico-sanitaria, para que el parque de pesca se encuentre en condiciones de operatividad a la recepción de las capturas.
 
-CE1.1 Describir el proceso de revisión de los puntos de luz, tomas de energía y sistemas de transporte de los residuos, indicando las medidas a tomar en caso de deficiencias en alguno de ellos.
+CE1.1 Describir el proceso de revisión de los puntos de luz, tomas de energía y sistemas de transporte de los residuos del parque de pesca, indicando las medidas a tomar en caso de deficiencias en alguno de ellos.
 
 CE1.2 Explicar la manera de limpiar las cintas transportadoras y canaletas del parque de pesca, detallando los puntos de las mismas susceptibles de acumular desperdicios.
 
-CE1.3 Indicar la forma de comprobar el funcionamiento de las máquinas lavadoras, descabezadoras, evisceradoras y cortadoras señalando las partes donde pueda haber suciedad o riesgos de avería.
+CE1.3 Indicar la forma de comprobar el funcionamiento de las máquinas lavadoras, descabezadoras, evisceradoras y cortadoras del parque de pesca señalando las partes donde pueda haber suciedad o riesgos de avería.
 
-CE1.4 En un supuesto práctico de operaciones de mantenimiento, realizar las acciones de limpieza, ajuste y reparación en las cintas de arrastre, cuchillas, rodillos y gomas de las máquinas fileteadoras, peladoras y desolladoras.
+CE1.4 En un supuesto práctico de operaciones de mantenimiento del parque de pesca, realizar las acciones de limpieza, ajuste y reparación en las cintas de arrastre, cuchillas, rodillos y gomas de las máquinas fileteadoras, peladoras y desolladoras.
 
-C2: Especificar las medidas a tomar con las capturas y en la maquinaria del parque de pesca, de forma que se obtenga el máximo rendimiento en la realización de faenas de elaboración, bajo condiciones de seguridad.
+C2: Especificar las medidas a tomar con las capturas y en la maquinaria del parque de pesca, de forma que se obtenga el rendimiento establecido en el plan de producción en cuanto a la realización de faenas de elaboración, bajo condiciones de seguridad.
 
 CE2.1 Explicar la manera de adaptar la maquinaria procesadora, dentro de los límites de la misma, al tamaño de las capturas que se desean elaborar.
 
-CE2.2 En un supuesto práctico de manipulación de las capturas y la maquinaria del parque, señalar, a la vista de la colocación de varias piezas de pescado a elaborar sobre las cintas de arrastre de las máquinas fileteadoras, las que están mal colocadas y los cambios a realizar en la colocación de estas piezas para el buen funcionamiento de las máquinas.
+CE2.2 En un supuesto práctico de manipulación de las capturas y la maquinaria del parque de pesca, señalar a la vista de la colocación de varias piezas de pescado a elaborar sobre las cintas de arrastre de las máquinas fileteadoras, las que están mal colocadas y los cambios a realizar en la colocación de estas piezas para el buen funcionamiento de las máquinas.
 
 CE2.3 Describir la forma de comprobar el trabajo de los surtidores de agua de las fileteadoras evitando que las cuchillas trabajen en seco.
 
@@ -568,11 +566,11 @@ C3: Detectar anomalías que puede presentar el procesado de especies, así como 
 
 CE3.1 Definir anomalías que se pueden presentar en la maquinaria de un parque de pesca teniendo en cuenta el procesado de la pesca.
 
-CE3.2 En un supuesto práctico relativo al sistema de conducción de agua, controlar el sistema de conducción de agua para el glaseado del pescado, verificando que la velocidad de las cintas se corresponda con las cortinas de agua de los difusores.
+CE3.2 En un supuesto práctico relativo al sistema de conducción de agua en un parque de pesca, controlar el sistema de conducción de agua para el glaseado del pescado, verificando que la velocidad de las cintas se corresponda con las cortinas de agua de los difusores.
 
-CE3.3 En un supuesto práctico relativo a procedimientos de sellado y etiquetado, utilizar los procedimientos en el sellado y etiquetado de los filetes de pescado, reconociendo la hermeticidad de los mismos.
+CE3.3 En un supuesto práctico relativo a procedimientos de sellado y etiquetado en un parque de pesca, utilizar los procedimientos en el sellado y etiquetado de los filetes de pescado, reconociendo la hermeticidad de los mismos.
 
-CE3.4 En un supuesto práctico de verificación de estado del sistema eléctrico, comprobar el estado de las líneas y circuitos eléctricos de los motores de tracción y máquinas selladoras, evaluando su consumo.
+CE3.4 En un supuesto práctico de verificación de estado del sistema eléctrico en un parque de pesca, comprobar el estado de las líneas y circuitos eléctricos de los motores de tracción y máquinas selladoras, evaluando su consumo.
 
 C4: Explicar los procesos de recepción, estiba y control de recambios, respetos y materiales a utilizar en la maquinaria del parque de pesca, asegurándose que se garantice el mantenimiento de la misma durante la campaña o marea.
 
@@ -622,7 +620,7 @@ Maquinaria según especie objeto de captura.
 
 Colocación de operadores.
 
-Normas de higiene y seguridad.
+Normativa de higiene y seguridad.
 
 Manipulación: tamaño, colocación, dirección de las especies según maquinaria a utilizar.
 
@@ -644,19 +642,19 @@ Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Aula polivalente de un mínimo de 2 m² por alumno o alumna.
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
 
-Aula y/o Taller de Pesca de 150 m².
+- Taller de 7,5 m² por alumno o alumna.
 
-Buque de prácticas. (Espacio singular no necesariamente ubicado en el centro de formación)
+- Instalación de 2 m² por alumno o alumna.
 
 Perfil profesional del formador o formadora:
 
-1. Dominio de los conocimientos y las técnicas relacionados con la realización de los trabajos de limpieza y preparación de la maquinaria del parque de pesca, que se acreditará mediante una de las formas siguientes:
+1. Dominio de los conocimientos y las técnicas relacionados con la realización de los trabajos de limpieza y preparación de la maquinaria del parque de pesca, que se acreditará mediante una de las dos formas siguientes:
 
-– Formación académica de Técnico Superior o de otras de superior nivel relacionadas con este campo profesional.
+- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
 
-– Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
 
 2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
 
@@ -668,13 +666,11 @@ Código: MF1891_2
 
 Asociado a la UC: Efectuar las labores de mantenimiento de los equipos que componen la instalación frigorífica del parque de pesca
 
-Duración: 120
-
-horas
+Duración: 120 horas
 
 Capacidades y criterios de evaluación:
 
-C1: Especificar máquinas y equipos que integran una instalación frigorífica, identificando las características técnicas de cada una de ellas.
+C1: Especificar máquinas y equipos que integran una instalación frigorífica, identificando las características técnicas de cada uno de ellos.
 
 CE1.1 Enumerar los equipos mecánicos, hidráulicos y eléctricos que conforman la instalación frigorífica, reconociendo sus esquemas de funcionamiento.
 
@@ -682,17 +678,17 @@ CE1.2 Interpretar la documentación técnica de las máquinas y equipos de la in
 
 CE1.3 En un supuesto práctico de mantenimiento de una instalación frigorífica, a la vista de la documentación técnica de mantenimiento de la misma:
 
-– Identificar cada uno de sus elementos así como sus órganos de regulación comprobando que se ajusta a la misma.
+- Identificar cada uno de sus elementos, así como sus órganos de regulación comprobando que se ajusta a la misma.
 
-– Detectar aquellos elementos que han de ser objeto de especial atención durante el montaje y mantenimiento de la misma, utilizando los esquemas de despiece.
+- Detectar aquellos elementos que han de ser objeto de especial atención durante el montaje y mantenimiento de la misma, utilizando los esquemas de despiece.
 
-– Aplicar las técnicas y medios a emplear sobre los distintos elementos de la instalación para que cualquier intervención se realice con las condiciones de seguridad requeridas.
+- Aplicar las técnicas y medios a emplear sobre los elementos de la instalación para que cualquier intervención se realice con las condiciones de seguridad requeridas.
 
 C2: Explicar el funcionamiento de las máquinas y equipos que componen la instalación frigorífica, identificando las partes constituyentes de los mismos y explicando la función que realizan.
 
 CE2.1 Identificar los elementos que componen la instalación frigorífica, explicando la función de cada uno de ellos en el ciclo de funcionamiento de la instalación.
 
-CE2.2 Explicar la función del compresor en el sistema frigorífico, enumerando los tipos existentes en las instalaciones de los sistemas de refrigeración, identificando los órganos que lo componen así como los elementos auxiliares empleados en el funcionamiento del mismo.
+CE2.2 Explicar la función del compresor en el sistema frigorífico, enumerando los tipos existentes en las instalaciones de los sistemas de refrigeración, identificando los órganos que lo componen, así como los elementos auxiliares empleados en el funcionamiento del mismo.
 
 CE2.3 Describir la función del condensador en el sistema frigorífico explicando sus características constructivas.
 
@@ -704,13 +700,13 @@ CE2.6 Describir el funcionamiento de los elementos electromecánicos empleados e
 
 CE2.7 En un supuesto práctico de mantenimiento de las máquinas y equipos que componen una instalación frigorífica:
 
-– Describir las características constructivas del condensador y evaporador teniendo en cuenta la instalación de mantenimiento.
+- Describir las características constructivas del condensador y evaporador teniendo en cuenta la instalación de mantenimiento.
 
-– Manipular el dispositivo empleado para la alimentación del evaporador explicando su funcionamiento.
+- Manipular el dispositivo empleado para la alimentación del evaporador explicando su funcionamiento.
 
 C3: Especificar las variables de funcionamiento de una instalación frigorífica y su incidencia en el rendimiento de la misma, registrando las marcaciones de los aparatos de regulación y control.
 
-CE3.1 Especificar los métodos empleados para la regulación de la capacidad de los compresores así como los elementos utilizados para el mando y protección de los mismos, en función de sus características técnicas.
+CE3.1 Especificar los métodos empleados para la regulación de la capacidad de los compresores, así como los elementos utilizados para el mando y protección de los mismos, en función de sus características técnicas.
 
 CE3.2 Explicar los sistemas empleados para la lubricación de los compresores frigoríficos enumerando las características que deben tener los aceites empleados.
 
@@ -722,11 +718,11 @@ CE3.5 Enumerar los procedimientos empleados en el desescarche de evaporadores (t
 
 CE3.6 En un supuesto práctico de un equipo frigorífico en funcionamiento:
 
-– Utilizar el instrumento de medida atendiendo a la magnitud que se va a medir para obtener los parámetros de funcionamiento de la instalación.
+- Utilizar el instrumento de medida atendiendo a la magnitud que se va a medir para obtener los parámetros de funcionamiento de la instalación.
 
-– Representar los resultados obtenidos sobre un diagrama de presión-entalpía (p-h) para obtener el ciclo termodinámico de la instalación.
+- Representar los resultados obtenidos sobre un diagrama de presión-entalpía (p-h) para obtener el ciclo termodinámico de la instalación.
 
-– Comparar los resultados obtenidos con las condiciones de diseño de la instalación y proponer mejoras en la regulación de la misma para optimizar su rendimiento.
+- Comparar los resultados obtenidos con las condiciones de diseño de la instalación y proponer mejoras en la regulación de la misma para optimizar su rendimiento.
 
 C4: Aplicar operaciones de mantenimiento de equipos que componen la instalación frigorífica aplicando protocolos establecidos.
 
@@ -738,35 +734,35 @@ CE4.3 Describir las herramientas y equipos empleados en las operaciones de compr
 
 CE4.4 En un supuesto práctico de un equipo frigorífico en funcionamiento:
 
-– Identificar, tanto en el propio equipo como en la documentación técnica, aquellos elementos sobre los que se deben realizar operaciones de mantenimiento preventivo.
+- Identificar, tanto en el propio equipo como en la documentación técnica, aquellos elementos sobre los que se deben realizar operaciones de mantenimiento preventivo.
 
-– Revisar las alineaciones de los elementos mecánicos de transmisión, ajustes de los elementos de unión y fijación utilizando útiles y herramientas en condiciones de seguridad.
+- Revisar las alineaciones de los elementos mecánicos de transmisión, ajustes de los elementos de unión y fijación utilizando útiles y herramientas en condiciones de seguridad.
 
-– Comprobar el estado y funcionamiento de los elementos de regulación y control, reajustándose en su caso, para corregir las disfunciones observadas.
+- Comprobar el estado y funcionamiento de los elementos de regulación y control, reajustándose en su caso, para corregir las disfunciones observadas.
 
-– Verificar los reglajes, ajustes y engrases de los elementos electromecánicos aplicando procedimientos establecidos y en condiciones de seguridad.
+- Verificar los reglajes, ajustes y engrases de los elementos electromecánicos aplicando procedimientos establecidos y en condiciones de seguridad.
 
-– Comprobar las válvulas de seguridad verificando su estado y estanqueidad, verificando que se ajustan a los requerimientos reglamentarios.
+- Comprobar las válvulas de seguridad verificando su estado y estanqueidad, verificando que se ajustan a los requerimientos reglamentarios.
 
-– Confeccionar un parte de mantenimiento en el que se hará constar las operaciones realizadas y los elementos revisados.
+- Confeccionar un parte de mantenimiento en el que se hará constar las operaciones realizadas y los elementos revisados.
 
 C5: Relacionar las anomalías, reales o provocadas, en las máquinas y equipos de la instalación frigorífica, con las causas que las originan, empleando los procedimientos establecidos.
 
-CE5.1 Enumerar las características de la anomalías (averías) que se puedan producir en las instalaciones frigoríficas en función de su naturaleza y sus efectos.
+CE5.1 Enumerar las características de las anomalías (averías) que se puedan producir en las instalaciones frigoríficas en función de su naturaleza y sus efectos.
 
 CE5.2 Citar los procedimientos utilizados para la detección de averías en las instalaciones, tanto de origen mecánico como hidráulico y eléctrico, de acuerdo con las técnicas establecidas.
 
 CE5.3 En un supuesto práctico de una hipotética avería en una instalación:
 
-– Utilizar la documentación técnica y los equipos necesarios para, en base a los efectos que produce en el funcionamiento de la instalación, identificar el origen y alcance de la avería.
+- Utilizar la documentación técnica y los equipos necesarios para, en base a los efectos que produce en el funcionamiento de la instalación, identificar el origen y alcance de la avería.
 
-– Determinar los síntomas de la avería en base a los parámetros de funcionamiento del equipo.
+- Determinar los síntomas de la avería en base a los parámetros de funcionamiento del equipo.
 
-– Plantear, en base a los efectos que produce en la instalación, hipótesis sobre la causa de la avería.
+- Plantear, en base a los efectos que produce en la instalación, hipótesis sobre la causa de la avería.
 
-– Realizar las comprobaciones (medidas, consultas, pruebas) para localizar el elemento/s causantes de la avería.
+- Realizar las comprobaciones (medidas, consultas, pruebas, entre otras) para localizar el elemento/s causantes de la avería.
 
-– Reflejar los resultados obtenidos en un informe que incluya los procedimientos empleados.
+- Reflejar los resultados obtenidos en un informe que incluya los procedimientos empleados.
 
 Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:
 
@@ -802,7 +798,7 @@ Elementos constitutivos de las instalaciones. Compresores, evaporadores, condens
 
 Dispositivos de seguridad y regulación.
 
-Elementos auxiliares. Función de los mismos y características
+Elementos auxiliares. Función de los mismos y características.
 
 Esquemas y planos de instalaciones frigoríficas. Simbología.
 
@@ -822,21 +818,23 @@ Medidas de seguridad a adoptar en el desarrollo de las operaciones.
 
 Precauciones generales durante la realización de todas las actividades.
 
-Ley de prevención de riesgos laborales.
+Normativa sobre prevención de riesgos laborales.
 
 Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Aula polivalente de un mínimo de 2 m² por alumno o alumna.
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+- Instalación de 2 m² por alumno o alumna.
 
 Perfil profesional del formador o formadora:
 
-1. Dominio de los conocimientos y las técnicas relacionados con la realización de las labores de mantenimiento de los equipos que componen la instalación frigorífica del parque de pesca, que se acreditará mediante una de las formas siguientes:
+1. Dominio de los conocimientos y las técnicas relacionados con la realización de las labores de mantenimiento de los equipos que componen la instalación frigorífica del parque de pesca, que se acreditará mediante una de las dos formas siguientes:
 
-– Formación académica de Diplomado/a, titulación de grado equivalente o de otras de superior nivel relacionadas con este campo profesional.
+- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
 
-– Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
 
 2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
 
@@ -848,9 +846,7 @@ Código: MF1892_2
 
 Asociado a la UC: Mantener y reparar los equipos mecánicos del parque de pesca actuando según las normas de seguridad y emergencia
 
-Duración: 120
-
-horas
+Duración: 120 horas
 
 Capacidades y criterios de evaluación:
 
@@ -862,9 +858,9 @@ CE1.2 Enumerar los repuestos por catálogo, según su código, interpretando su 
 
 CE1.3 En un supuesto práctico de mantenimiento de los equipos mecánicos de un parque de pesca:
 
-– Desmontar una culata de un compresor, comprobando el estado del plato de válvulas y segmento de los pistones.
+- Desmontar una culata de un compresor, comprobando el estado del plato de válvulas y segmento de los pistones.
 
-– Limpiar los filtros de aspiración y deshidratación, evaluando su estado de suciedad y deterioro.
+- Limpiar los filtros de aspiración y deshidratación, evaluando su estado de suciedad y deterioro.
 
 C2: Explicar los condensadores y evaporadores que emplean los buques congeladores, según sus características y tipos.
 
@@ -874,21 +870,21 @@ CE2.2 Enumerar las actuaciones a tomar en el caso de producirse una anomalía en
 
 CE2.3 En un supuesto práctico de mantenimiento y limpieza de condensadores y evaporadores:
 
-– Desmontar tapas de condensadores, comprobando la estanqueidad del haz tubular y estado de los electrógenos.
+- Desmontar tapas de condensadores, comprobando la estanqueidad del haz tubular y estado de los electrógenos.
 
-– Utilizar una bomba hidráulica, interpretando manométricamente la presión indicada por el aparato de medida.
+- Utilizar una bomba hidráulica, interpretando manométricamente la presión indicada por el aparato de medida.
 
 C3: Distinguir las características de las máquinas fileteadoras, identificando las partes constitutivas de las mismas.
 
 CE3.1 Citar los tipos de vías clasificadoras y cintas transportadoras, teniendo en cuenta el modelo de la máquina fileteadora.
 
-CE3.2 Interpretar y explicar la conexión de las máquinas con el sistema informático, mientras se mantenga operativo durante el proceso.
+CE3.2 Interpretar y explicar la conexión de las máquinas fileteadoras con el sistema informático, mientras se mantenga operativa durante el proceso.
 
 CE3.3 En un supuesto práctico de limpieza y engrase de las vías clasificadoras, teniendo en cuenta el tipo de clasificación y fileteado del pescado:
 
-– Limpiar las cuchillas y ajustarlas.
+- Limpiar las cuchillas y ajustarlas.
 
-– Reconocer las cintas transportadoras, detectando si hay deficiencias en el recauchutado.
+- Reconocer las cintas transportadoras, detectando si hay deficiencias en el recauchutado.
 
 C4: Utilizar medios y herramientas para realizar controles de mantenimiento de máquinas cortadoras y evisceradoras de pescado, determinando la utilización de cada uno de ellos.
 
@@ -924,7 +920,7 @@ Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimie
 
 Contenidos:
 
-1. Tecnología mecánica relativo a los equipos mecánicos de un parque de pesca
+1. Tecnología mecánica relativa a los equipos mecánicos de un parque de pesca
 
 Soldadura eléctrica, oxiacetilénica y argón.
 
@@ -936,7 +932,7 @@ Aparatos de medida.
 
 Fundamentos del recauchutado.
 
-2. Electrotecnia relativo a los equipos mecánicos de un parque de pesca
+2. Electrotecnia relativa a los equipos mecánicos de un parque de pesca
 
 Acciones de la corriente eléctrica.
 
@@ -970,25 +966,25 @@ Ventiladores.
 
 Precauciones generales durante la realización de las actividades en el parque de pesca.
 
-Ley de prevención de riesgos laborales.
+Normativa sobre prevención de riesgos laborales.
 
 Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Aula polivalente de un mínimo de 2 m² por alumno o alumna.
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
 
-Unidades móviles homologadas, simuladores y/o buque de prácticas. (Espacio singular no necesariamente ubicado en el centro de formación)
+- Instalación de 2 m² por alumno o alumna.
 
 Perfil profesional del formador o formadora:
 
-1. Dominio de los conocimientos y las técnicas relacionados con el mantenimiento y reparación de los equipos mecánicos del parque de pesca actuando según las normas de seguridad y emergencia, que se acreditará mediante una de las formas siguientes:
+1. Dominio de los conocimientos y las técnicas relacionados con el mantenimiento y reparación de los equipos mecánicos del parque de pesca actuando según las normas de seguridad y emergencia, que se acreditará mediante una de las dos formas siguientes:
 
-– Formación académica de Diplomado/a, titulación de grado equivalente o de otras de superior nivel relacionadas con este campo profesional.
+- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
 
-– Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
 
-2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las administraciones competentes.
+2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
 
 MÓDULO FORMATIVO 5: SEGURIDAD Y PRIMEROS AUXILIOS A BORDO
 
@@ -1054,7 +1050,7 @@ CE4.1 Explicar la información relativa al contenido de un plan de contingencia 
 
 CE4.2 Identificar las señales de emergencia a bordo teniendo en cuenta el plan de contingencia con el fin de preservar la seguridad de la vida humana en la mar.
 
-CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la ley de prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.
+CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la normativa sobre prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.
 
 CE4.4 Enumerar las medidas a tener en cuenta para proteger el medio marino y evitar su contaminación, según la normativa aplicable.
 
@@ -1148,7 +1144,7 @@ Condiciones de trabajo y seguridad.
 
 Equipos de protección personal y colectiva.
 
-Reglamentación en materia de prevención de riesgos laborales.
+Normativa sobre prevención de riesgos laborales.
 
 Prevención de la contaminación del medio marino. Efectos de la contaminación accidental u operacional del medio marino.
 
@@ -1178,7 +1174,7 @@ Parámetros de contexto de la formación:
 
 Espacios e instalaciones:
 
-Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos, salud laboral, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
 
 - Instalación de 2 m² por alumno o alumna.
 
@@ -1191,5 +1187,7 @@ Perfil profesional del formador o formadora:
 - Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
 
 2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+> Se modifica por el art. 12 y anexo XXI de la Orden EFP/63/2021, de 21 de enero. Ref. BOE-A-2021-1266
 
 > Se modifican la unidad de competencia «UC0010_1» y el módulo formativo asociado «MF0010_1», y la unidad de competencia «UC0733_1» y el módulo formativo asociado «MF0733_1» por los que figuran en el anexo I de la Orden EFP/953/2020, de 12 de octubre, según establece el art. 5.2 de la misma. Ref. BOE-A-2020-12259
