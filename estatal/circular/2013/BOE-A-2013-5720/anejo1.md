@@ -2,9 +2,9 @@
 
 ## MÓDULOS DE DATOS
 
-A. DATOS DE PERSONAS Y SOLICITUD DE CÓDIGO
+A. Datos de personas y solicitud de código.
 
-## A.1 Datos que identifican a las personas
+A.1 Datos que identifican a las personas.
 
 Parte 1. Datos de la persona
 
@@ -28,7 +28,7 @@ Parte 1. Datos de la persona
 
 – Fecha de incoación del procedimiento legal.
 
-DATOS ADICIONALES PARA LAS PERSONAS FÍSICAS.
+Datos adicionales para las personas físicas.
 
 – Fecha de nacimiento.
 
@@ -36,7 +36,7 @@ DATOS ADICIONALES PARA LAS PERSONAS FÍSICAS.
 
 – Sexo.
 
-DATOS ADICIONALES PARA LAS PERSONAS JURÍDICAS Y ENTIDADES SIN PERSONALIDAD JURÍDICA.
+Datos adicionales para las personas jurídicas y entidades sin personalidad jurídica.
 
 – Forma jurídica.
 
@@ -50,7 +50,7 @@ DATOS ADICIONALES PARA LAS PERSONAS JURÍDICAS Y ENTIDADES SIN PERSONALIDAD JUR�
 
 – Vinculación con Administraciones Públicas españolas.
 
-DATOS ADICIONALES PARA EMPRESAS.
+Datos adicionales para empresas.
 
 – Tamaño de la empresa.
 
@@ -68,7 +68,7 @@ DATOS ADICIONALES PARA EMPRESAS.
 
 – Fecha de los datos financieros consolidados.
 
-DATOS ADICIONALES PARA LAS PERSONAS CON VARIOS CÓDIGOS.
+Datos adicionales para las personas con varios códigos.
 
 – Número de Identificación Fiscal (NIF).
 
@@ -94,7 +94,7 @@ Parte 4. Datos que vinculan a los titulares con los grupos de clientes relaciona
 
 – Código del grupo de clientes relacionados.
 
-## A.2. Solicitud de código de identificación de personas no residentes en España
+A.2 Solicitud de código de identificación de personas no residentes en España.
 
 – Motivo por el que se solicita un código para la persona.
 
@@ -108,7 +108,7 @@ Parte 4. Datos que vinculan a los titulares con los grupos de clientes relaciona
 
 – País de residencia.
 
-DATOS ADICIONALES PARA LAS PERSONAS FÍSICAS.
+Datos adicionales para las personas físicas.
 
 – Fecha de nacimiento.
 
@@ -122,7 +122,7 @@ DATOS ADICIONALES PARA LAS PERSONAS FÍSICAS.
 
 – Código asignado por el Banco de España.
 
-DATOS ADICIONALES PARA LAS PERSONAS JURÍDICAS Y ENTIDADES SIN PERSONALIDAD JURÍDICA.
+Datos adicionales para las personas jurídicas y entidades sin personalidad jurídica.
 
 – Código identificador de personas jurídicas (código LEI).
 
@@ -136,17 +136,17 @@ DATOS ADICIONALES PARA LAS PERSONAS JURÍDICAS Y ENTIDADES SIN PERSONALIDAD JUR�
 
 – Código SWIFT.
 
-DATOS ADICIONALES PARA EMISORES DE VALORES COTIZADOS.
+Datos adicionales para emisores de valores cotizados.
 
 – Código ISIN.
 
-OTROS DATOS.
+Otros datos.
 
 – Información cualitativa.
 
-B. DATOS BÁSICOS DE LAS OPERACIONES Y DE LAS RELACIONES CON LAS PERSONAS
+B. Datos básicos de las operaciones y de las relaciones con las personas.
 
-## B.1. Datos básicos que relacionan a las personas con las operaciones
+B.1 Datos básicos que relacionan a las personas con las operaciones.
 
 Parte 1. Datos básicos que relacionan a los titulares de riesgos con las operaciones
 
@@ -164,7 +164,7 @@ Parte 2. Datos básicos que relacionan a las personas distintas de los titulares
 
 – Naturaleza de la intervención en la operación.
 
-## B.2. Datos básicos de las operaciones
+B.2 datos básicos de las operaciones.
 
 – Código de la operación.
 
@@ -226,7 +226,17 @@ Parte 2. Datos adicionales que deben declarar las entidades de crédito, las suc
 
 – Subvención de la operación.
 
-## B.3. Datos básicos complementarios de los préstamos a personas jurídicas
+– Moratoria COVID-19.
+
+– Fecha de comienzo de la moratoria. COVID 19.
+
+– Fecha de finalización de la moratoria. COVID 19.
+
+– Modificación de los términos de las operaciones. Real Decreto-ley 34/2020.
+
+– Fecha de la modificación. Real Decreto-ley 34/2020.
+
+B.3. Datos básicos complementarios de los préstamos a personas jurídicas.
 
 – Código de la operación.
 
@@ -248,9 +258,9 @@ Parte 2. Datos adicionales que deben declarar las entidades de crédito, las suc
 
 – Cambios en el valor razonable debidos a cambios en el riesgo crediticio antes de la adquisición.
 
-C. DATOS DINÁMICOS DE LAS OPERACIONES
+C. Datos dinámicos de las operaciones.
 
-## C.1. Datos dinámicos de los riesgos directos
+C.1 datos dinámicos de los riesgos directos.
 
 – Código de la operación.
 
@@ -326,7 +336,7 @@ Parte 3. Datos que deben declarar las entidades de crédito, las sucursales en E
 
 – Refinanciación o renovación. Importe por el que se reduce la deuda.
 
-– Operación transferida incluida la gestión. Importe por el que se reduce la deuda.
+– Operación transferida, incluida la gestión. Importe por el que se reduce la deuda.
 
 – Fecha de la última liquidación de intereses.
 
@@ -366,7 +376,7 @@ Parte 4. Datos de los riesgos directos asumidos por terceros
 
 – Riesgo disponible asumido por terceros. Disponibilidad condicionada.
 
-## C.2. Datos dinámicos de los riesgos indirectos
+C.2. Datos dinámicos de los riesgos indirectos.
 
 – Código de la operación.
 
@@ -392,7 +402,7 @@ Parte 2. Datos de los riesgos indirectos asumidos por terceros
 
 – Riesgo dispuesto garantizado asumido por terceros. Intereses de demora y gastos exigibles.
 
-## C.3. Datos dinámicos financieros de los préstamos a personas jurídicas
+C.3. Datos dinámicos financieros de los préstamos a personas jurídicas.
 
 – Código de la operación.
 
@@ -410,7 +420,7 @@ Parte 2. Datos de los riesgos indirectos asumidos por terceros
 
 – Interés devengado.
 
-## C.4. Datos de los préstamos a personas jurídicas sobre las responsabilidades conjuntas
+C.4. Datos de los préstamos a personas jurídicas sobre las responsabilidades conjuntas.
 
 – Código de la operación.
 
@@ -418,9 +428,9 @@ Parte 2. Datos de los riesgos indirectos asumidos por terceros
 
 – Importe de la responsabilidad conjunta.
 
-D. DATOS SOBRE GARANTÍAS
+D. Datos sobre garantías recibidas.
 
-## D.1. Datos básicos que relacionan las operaciones con las garantías recibidas
+D.1. Datos básicos que relacionan las operaciones con las garantías recibidas.
 
 – Código de la operación.
 
@@ -428,7 +438,7 @@ D. DATOS SOBRE GARANTÍAS
 
 – Garantía real principal asignada a la operación.
 
-D.1.1. Datos básicos de las garantías recibidas
+D.1.1 Datos básicos de las garantías recibidas.
 
 – Código de la garantía recibida.
 
@@ -462,7 +472,7 @@ Parte 2. Datos adicionales de las garantías recibidas para préstamos a persona
 
 – Fecha de la valoración original de la garantía.
 
-## D.2. Datos básicos de los inmuebles recibidos en garantía
+D.2. Datos básicos de los inmuebles recibidos en garantía.
 
 – Código de la garantía recibida.
 
@@ -596,7 +606,7 @@ Parte 5. Datos del valor de las garantías
 
 – Valor de la garantía a efectos del cálculo del deterioro. Porcentaje de descuento (%).
 
-## D.3. Datos básicos de los activos financieros recibidos en garantía
+D.3. Datos básicos de los activos financieros recibidos en garantía.
 
 – Código de la garantía recibida.
 
@@ -608,7 +618,7 @@ Parte 5. Datos del valor de las garantías
 
 – Nominal.
 
-## D.4. Datos dinámicos que relacionan las operaciones con las garantías recibidas
+D.4. Datos dinámicos que relacionan las operaciones con las garantías recibidas.
 
 – Código de la operación.
 
@@ -624,7 +634,7 @@ Parte 2. Datos adicionales sobre las garantías de los préstamos a personas jur
 
 – Derechos de cobro preferentes de terceros contra la garantía.
 
-## D.5. Datos dinámicos de los edificios en construcción y de las promociones inmobiliarias recibidos en garantía
+D.5. Datos dinámicos de los edificios en construcción y de las promociones inmobiliarias recibidos en garantía.
 
 – Código de la garantía recibida.
 
@@ -640,7 +650,7 @@ Parte 2. Datos adicionales sobre las garantías de los préstamos a personas jur
 
 – Promociones inmobiliarias. Porcentaje de subrogaciones o cancelaciones por entrega de vivienda a comprador final (%).
 
-E. DATOS SOBRE TIPOS DE INTERÉS DE LOS PRÉSTAMOS
+E. Datos sobre tipos de interés de los préstamos.
 
 – Código de la operación.
 
@@ -664,9 +674,9 @@ E. DATOS SOBRE TIPOS DE INTERÉS DE LOS PRÉSTAMOS
 
 – Fecha final del período de solo interés.
 
-F. DATOS DE TRANSFERENCIAS Y TITULIZACIONES SINTÉTICAS DE ACTIVOS FINANCIEROS
+F. Datos de transferencias y titulizaciones sintéticas de activos financieros.
 
-Parte 1. Datos que identifican a las transferencias y titulizaciones sintéticas
+Parte 1. Datos que identifican las transferencias y titulizaciones sintéticas
 
 – Código de la transferencia.
 
@@ -690,9 +700,9 @@ Parte 2. Datos que vinculan las transferencias y titulizaciones sintéticas con 
 
 – Porcentaje transferido de la operación (%).
 
-G. VINCULACIÓN DE CÓDIGOS
+G. Vinculación de códigos.
 
-## G.1. Datos básicos que vinculan códigos
+G.1 Datos básicos que vinculan códigos.
 
 – Tipo de código que se vincula.
 
@@ -704,7 +714,7 @@ G. VINCULACIÓN DE CÓDIGOS
 
 – Código vinculado.
 
-## G.2. Datos básicos de las operaciones que se han de comunicar a otras entidades
+G.2 Datos básicos de las operaciones que se han de comunicar a otras entidades.
 
 – Código REN de la entidad con la que se vincula la operación.
 
@@ -726,7 +736,7 @@ G. VINCULACIÓN DE CÓDIGOS
 
 – Porcentaje transferido de la operación (%).
 
-## G.3. Datos dinámicos de las operaciones que se han de comunicar a otras entidades
+G.3 Datos dinámicos de las operaciones que se han de comunicar a otras entidades.
 
 – Código REN de la entidad con la que se vincula la operación.
 
@@ -752,9 +762,9 @@ G. VINCULACIÓN DE CÓDIGOS
 
 – Fecha del último incumplimiento.
 
-H. INFORMACIÓN PRUDENCIAL COMPLEMENTARIA
+H. Información prudencial complementaria.
 
-## H.1. Datos contables de los préstamos a personas jurídicas
+H.1 Datos contables de los préstamos a personas jurídicas.
 
 – Código de la operación.
 
@@ -792,13 +802,13 @@ H. INFORMACIÓN PRUDENCIAL COMPLEMENTARIA
 
 – Importe en libros.
 
-## H.2. Datos sobre el riesgo de los titulares de los préstamos que sean personas jurídicas
+H.2 Datos sobre el riesgo de los titulares de los préstamos que sean personas jurídicas.
 
 – Código de la persona.
 
 – Probabilidad de impago (default).
 
-## H.3. Datos sobre la situación de impago (default) de los titulares de riesgo de los préstamos que sean personas jurídicas
+H.3 Datos sobre la situación de impago (default) de los titulares de riesgo de los préstamos que sean personas jurídicas.
 
 – Código de la persona.
 
@@ -806,7 +816,7 @@ H. INFORMACIÓN PRUDENCIAL COMPLEMENTARIA
 
 – Fecha de la situación de impago (default) de la persona.
 
-I. DATOS SOBRE LA ACTIVIDAD DE LAS ENTIDADES DE CRÉDITO QUE OPEREN EN RÉGIMEN DE LIBRE PRESTACIÓN DE SERVICIOS Y DE LOS PRESTAMISTAS INMOBILIARIOS
+I. Datos dinámicos sobre la actividad de las entidades sujetas a declaración reducida.
 
 Parte 1. Datos de los riesgos directos e indirectos
 
@@ -832,6 +842,10 @@ Parte 1. Datos de los riesgos directos e indirectos
 
 – Situación de la operación.
 
+– Garantía del Estado. COVID-19.
+
+– Modificación de los términos de las operaciones. Real Decreto-ley 34/2020.
+
 Parte 2. Datos de los riesgos directos
 
 – Riesgo dispuesto. Total.
@@ -851,6 +865,8 @@ Parte 3. Datos de los riesgos indirectos
 – Riesgo dispuesto. Total. Del que: Intereses de demora y gastos exigibles.
 
 – Riesgo disponible.
+
+> Se sustituye por el que se incluye como Anejo 1 según establece la norma 1.h) de la Circular 1/2021, de 28 de enero. Ref. BOE-A-2021-1352
 
 > Se sustituye por el que se incluye como Anejo 1 según establece la norma única.k) de la Circular 1/2020, de 28 de enero. Ref. BOE-A-2020-1653
 

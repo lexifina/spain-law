@@ -1,17 +1,21 @@
 ## Norma decimocuarta. Tipos de interés oficiales.
 
-A efectos de lo previsto en el artículo 27 de la Orden, se consideran oficiales los siguientes tipos de referencia, cuya definición y cuya forma de cálculo se recogen en el anejo 8:
+1. A efectos de lo previsto en el artículo 27 de la orden, se consideran oficiales los siguientes tipos de referencia, cuya definición y proceso de determinación se recogen en el anejo 8:
 
 a) Tipo medio de los préstamos hipotecarios a más de tres años, para adquisición de vivienda libre, concedidos por las entidades de crédito en España.
 
-b) Tipo medio de los préstamos hipotecarios entre uno y cinco años, para adquisición de vivienda libre, concedidos por las entidades de crédito en la zona del euro.
+b) Tipo medio de los préstamos a la vivienda entre uno y cinco años concedidos por las entidades de crédito en la zona euro.
 
 c) Tipo de rendimiento interno en el mercado secundario de la deuda pública de plazo entre dos y seis años.
 
-d) Referencia interbancaria a un año (euríbor).
+d) Euríbor a una semana, a un mes, a tres meses, a seis meses y a un año.
 
-e) Permuta de intereses/Interest Rate Swap (IRS) al plazo de cinco años.
+e) Permuta de intereses/interest rate swap (IRS) al plazo de cinco años.
 
-f) El míbor, exclusivamente para los préstamos hipotecarios formalizados con anterioridad al 1 de enero de 2000, conforme a lo previsto en el artículo 32 de la Ley 46/1998, de 17 de diciembre, sobre introducción del euro.
+f) Tipo de interés de referencia basado en el Euro short-term rate (€STR).
 
-El Banco de España dará una difusión adecuada a estos índices, que, en todo caso, se publicarán mensualmente en su página web y en el «Boletín Oficial del Estado».
+También tendrá la consideración de tipo de interés oficial cualquier otro índice establecido al efecto expresamente mediante resolución de la Secretaría General del Tesoro y Financiación Internacional.
+
+2. El Banco de España dará una difusión adecuada a estos índices, que, en todo caso, se publicarán mensualmente en su sitio web y en el BOE.
+
+> Se modifica por la norma 2.a) de la Circular 1/2021, de 28 de enero. Ref. BOE-A-2021-1352

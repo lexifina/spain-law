@@ -37,6 +37,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Norma decimosexta](normadecimosexta.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
+- [Disposición transitoria tercera](dt.md)
+- [Disposición transitoria cuarta](dt-2.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición final](df.md)
 - [firma](firma.md)
