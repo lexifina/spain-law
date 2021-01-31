@@ -46,8 +46,8 @@
 | (6624),(6642),(6643),(6652),(6653),(6656), (6657),(669) |  |  |  |  |
 | (660) | c) Por actualización de provisiones |  |  |  |
 |  | 14. Variación de valor razonable en instrumentos financieros. |  |  |  |
-| (6630),(6631),(6633),7630,7631,7633 | a) Cartera de negociación y otros. |  |  |  |
-| (6632),7632 | b) Imputación al resultado del ejercicio por activos financieros disponibles para la venta. |  |  |  |
+| (6630),(6631),(6633),7630,7631,7633 | a) Valor razonable con cambios en pérdidas y ganancias. |  |  |  |
+| (6632),7632 | b) Transferencia de ajustes de valor razonable con cambios en el patrimonio neto. |  |  |  |
 | (668),768 | 15. Diferencias de cambio. |  |  |  |
 |  | 16. Deterioro y resultado por enajenaciones de instrumentos financieros. |  |  |  |
 | (696),(697),(698),(699),796,797,798,799 | a) Deterioros y pérdidas. |  |  |  |
@@ -61,3 +61,7 @@
 |  | A.5) RESULTADO DEL EJERCICIO (A.4+18) |  |  |  |
 
 * Su signo puede ser positivo o negativo
+
+> Se modifica la partida 14 por el art. 1.10 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.

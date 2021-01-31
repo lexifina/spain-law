@@ -152,9 +152,11 @@
 |  | 588. | Acreedores comerciales y otras cuentas a pagar |
 |  | 589. | Otros pasivos |
 | 59. | DETERIORO DEL VALOR DE INVERSIONES FINANCIERAS A CORTO PLAZO Y DE ACTIVOS NO CORRIENTES MANTENIDOS PARA LA VENTA |
-|  | 593. | Deterioro de valor de participaciones a corto plazo en partes vinculadas |
+|  | 593. | Deterioro de valor de participaciones a corto plazo |
 |  |  | 5933. | Deterioro de valor de participaciones a corto plazo en empresas del grupo |
 |  |  | 5934. | Deterioro de valor de participaciones a corto plazo en empresas asociadas |
+|  |  | 5935. | Deterioro de valor de participaciones a corto plazo en otras partes vinculadas |
+|  |  | 5936. | Deterioro de valor de participaciones a corto plazo en otras empresas. |
 |  | 594. | Deterioro de valor de valores representativos de deuda a corto plazo de partes vinculadas |
 |  |  | 5943. | Deterioro de valor de valores representativos de deuda a corto plazo de empresas del grupo |
 |  |  | 5944. | Deterioro de valor de valores representativos de deuda a corto plazo de empresas asociadas |
@@ -171,5 +173,9 @@
 |  |  | 5992. | Deterioro de valor de inversiones financieras no corrientes mantenidas para la venta |
 |  |  | 5993. | Deterioro de valor de existencias, deudores comerciales y otras cuentas a cobrar integrados en un grupo enajenable mantenido para la venta |
 |  |  | 5994. | Deterioro de valor de otros activos mantenidos para la venta |
+
+> Se modifica la cuenta 593 por el art. 1.16.3 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 312, de 29 de diciembre de 2007. Ref. BOE-A-2007-22441.

@@ -199,8 +199,9 @@ Su movimiento es análogo al señalado para la cuenta 752.
 |  | 763. | Beneficios por valoración de instrumentos financieros por su valor razonable |
 |  |  | 7630. | Beneficios de cartera de negociación |
 |  |  | 7631. | Beneficios de designados por la empresa |
-|  |  | 7632. | Beneficios de disponibles para la venta |
+|  |  | 7632. | Beneficios de activos financieros a valor razonable con cambios en el patrimonio neto |
 |  |  | 7633. | Beneficios de instrumentos de cobertura |
+|  |  | 7634. | Beneficios de otros instrumentos financieros |
 |  | 766. | Beneficios en participaciones y valores representativos de deuda |
 |  | 767. | Ingresos de activos afectos y de derechos de reembolso relativos a retribuciones a largo plazo |
 |  | 768. | Diferencias positivas de cambio |
@@ -234,29 +235,35 @@ Beneficios originados por la valoración a valor razonable de determinados instr
 
 Con carácter general, el contenido y movimiento de las cuentas citadas de cuatro cifras es el siguiente:
 
-7630. Beneficios de cartera de negociación
+7630. Beneficios de cartera de negociación.
 
-Beneficios originados por la valoración a valor razonable de los instrumentos financieros clasificados en la categoría «Activos financieros mantenidos para negociar» o «Pasivos financieros mantenidos para negociar».
+Beneficios originados por la valoración a valor razonable de los instrumentos financieros que se mantengan para negociar.
 
 Se abonará por el aumento en el valor razonable de los activos financieros o la disminución en el valor de los pasivos financieros clasificados en esta categoría, con cargo a la correspondiente cuenta del elemento patrimonial.
 
-7631. Beneficios de designados por la empresa
+7631. Beneficios de designados por la empresa.
 
-Beneficios originados por la valoración a valor razonable de los instrumentos financieros clasificados en la categoría «Otros activos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias» u «Otros pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias».
+Beneficios originados por la valoración a valor razonable de los instrumentos financieros designados en la categoría ‘‘Valor razonable con cambios en la cuenta de pérdidas y ganancias’’ en ejercicio de la opción del valor razonable regulada en la norma de registro y valoración novena.
 
 Su movimiento es análogo al de la cuenta 7630.
 
-7632. Beneficios de disponibles para la venta
+7632. Beneficios de activos financieros a valor razonable con cambios en el patrimonio neto.
 
-Beneficios originados por la baja o enajenación de los instrumentos financieros clasificados en la categoría de «Activos financieros disponibles para la venta».
+Beneficios originados por la baja o enajenación de los instrumentos financieros clasificados en la categoría de «Activos financieros a valor razonable con cambios en el patrimonio neto».
 
 Se abonará en el momento en que se produzca la baja o enajenación del instrumento financiero, por el saldo positivo acumulado en el patrimonio neto con cargo a la cuenta 802.
 
-7633. Beneficios de instrumentos de cobertura
+7633. Beneficios de instrumentos de cobertura.
 
 Beneficios originados en instrumentos de cobertura, en las operaciones de cobertura de flujos de efectivo cuando la empresa no espere que la transacción prevista tenga lugar.
 
 Se abonará por la transferencia a la cuenta de pérdidas y ganancias del importe positivo reconocido directamente en el patrimonio neto, con cargo a la cuenta 812.
+
+7634. Beneficios de otros instrumentos financieros.
+
+Beneficios originados por la valoración a valor razonable de los restantes instrumentos financieros incluidos en la categoría ‘‘Valor razonable con cambios en la cuenta de pérdidas y ganancias’’.
+
+Su movimiento es análogo al de la cuenta 7630.
 
 766. Beneficios en participaciones y valores representativos de deuda
 
@@ -408,5 +415,9 @@ Se abonará por el importe de la corrección de valor, con cargo a las cuentas 5
 Corrección valorativa, por la recuperación de valor en créditos de los subgrupos 53 y 54 o, en su caso, del subgrupo 58.
 
 Se abonará por el importe de la corrección de valor, con cargo a las cuentas 595, 598 ó 599.
+
+> Se modifica la cuenta 763 por el art. 1.16.5 y 1.17.20 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 312, de 29 de diciembre de 2007. Ref. BOE-A-2007-22441.

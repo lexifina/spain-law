@@ -4,30 +4,28 @@
 
 | 90. | INGRESOS FINANCIEROS POR VALORACIÓN DE ACTIVOS FINANCIEROS |
 | --- | --- |
-|  | 900. | Beneficios en activos financieros disponibles para la venta |
-|  | 902. | Transferencia de pérdidas de activos financieros disponibles para la venta |
+|  | 900. | Beneficios en activos financieros a valor razonable con cambios en el patrimonio neto |
+|  | 902. | Transferencia de pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto |
 
-900. Beneficios en activos financieros disponibles para la venta
+900. Beneficios en activos financieros a valor razonable con cambios en el patrimonio neto
 
 Su movimiento es el siguiente:
 
-a) Se abonará por las variaciones positivas en el valor razonable de los activos financieros clasificados como disponibles para la venta, incluidas las que se produzcan en caso de reclasificación, con cargo a las cuentas de los correspondientes activos financieros.
+a) Se abonará por las variaciones positivas en el valor razonable de los activos financieros clasificados como a valor razonable con cambios en el patrimonio neto, incluidas las que se produzcan en caso de reclasificación, con cargo a las cuentas de los correspondientes elementos patrimoniales.
 
 b) Se cargará, al cierre del ejercicio, con abono a la cuenta 133.
 
-902. Transferencia de pérdidas en activos financieros disponibles para la venta
+902. Transferencia de pérdidas en activos financieros a valor razonable con cambios en el patrimonio neto
 
 Su movimiento es el siguiente:
 
 a) Se abonará:
 
-a1) En el momento en que se produzca la baja o enajenación del activo financiero disponible para la venta, incluidos los que hayan sido objeto de reclasificación, por el saldo negativo acumulado en el patrimonio neto con cargo a la cuenta 6632.
+a1) En el momento en que se produzca la baja o enajenación del activo financiero a valor razonable con cambios en el patrimonio neto, incluidos los que hayan sido objeto de reclasificación, por el saldo negativo acumulado en el patrimonio neto con cargo la cuenta 6632.
 
 a2) En el momento en que se produzca el deterioro del instrumento financiero, por el saldo negativo acumulado en el patrimonio neto con cargo a las cuentas de los correspondientes instrumentos de deuda o a la cuenta 696 en el caso de inversiones en instrumentos de patrimonio.
 
-a3) En caso de reclasificación a una inversión mantenida hasta el vencimiento, por el saldo negativo acumulado en el patrimonio neto que se reconoce en la cuenta de pérdidas y ganancias a lo largo de su vida residual, con una minoración de los ingresos financieros en los términos establecidos en la norma de registro y valoración, con cargo a la cuenta 761.
-
-a4) Cuando se haya producido una combinación de negocios por etapas de acuerdo con lo dispuesto en las normas de registro y valoración, por las variaciones de valor negativas imputadas directamente al patrimonio neto correspondientes a cualquier participación previa en la adquirida que estuviera clasificada como activos financieros disponibles para la venta, con cargo a la cuenta 6632.
+a3) Cuando se haya producido una combinación de negocios por etapas, de acuerdo con lo dispuesto en las normas de registro y valoración, por las variaciones de valor negativas imputadas directamente al patrimonio neto correspondientes a cualquier participación previa en la adquirida que estuviera clasificada como activos financieros a valor razonable con cambios en el patrimonio neto, con cargo a la cuenta 6632.
 
 b) Se cargará, al cierre del ejercicio, con abono a la cuenta 133.
 
@@ -189,6 +187,10 @@ Su movimiento es el siguiente:
 a) Se abonarán en el momento en que se produzca el deterioro del activo financiero, por los ajustes valorativos negativos previos, con cargo a las cuentas 696 ó 698.
 
 b) Se cargarán, al cierre del ejercicio, con abono a la cuenta 133.
+
+> Se modifican las cuentas 900 y 902 por el art. 1.16.8 y 9 y 1.17.23 y 24 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.
 
 > Se modifica la cuenta 902 por el art. 4.12 del Real Decreto 1159/2010, de 17 de septiembre. Ref. BOE-A-2010-14621#a4.
 

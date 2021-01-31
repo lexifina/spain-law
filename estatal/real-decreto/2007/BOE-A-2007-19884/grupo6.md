@@ -87,8 +87,9 @@
 |  | 663. | Pérdidas por valoración de instrumentos financieros por su valor razonable |
 |  |  | 6630. | Pérdidas de cartera de negociación |
 |  |  | 6631. | Pérdidas de designados por la empresa |
-|  |  | 6632. | Pérdidas de disponibles para la venta |
+|  |  | 6632. | Pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto |
 |  |  | 6633. | Pérdidas de instrumentos de cobertura |
+|  |  | 6634. | Pérdidas de otros instrumentos financieros |
 |  | 664. | Gastos por dividendos de acciones o participaciones consideradas como pasivos financieros |
 |  |  | 6640. | Dividendos de pasivos, empresas del grupo |
 |  |  | 6641. | Dividendos de pasivos, empresas asociadas |
@@ -174,5 +175,9 @@
 |  |  | 6991. | Pérdidas por deterioro de créditos a corto plazo, empresas asociadas |
 |  |  | 6992. | Pérdidas por deterioro de créditos a corto plazo, otras partes vinculadas |
 |  |  | 6993. | Pérdidas por deterioro de créditos a corto plazo, otras empresas |
+
+> Se modifica la cuenta 663 por el art. 1.16.4 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 312, de 29 de diciembre de 2007. Ref. BOE-A-2007-22441.

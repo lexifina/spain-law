@@ -415,8 +415,9 @@ Las que teniendo esta naturaleza, no figuran en cuentas anteriores. En particula
 |  | 663. | Pérdidas por valoración de instrumentos financieros por su valor razonable |
 |  |  | 6630. | Pérdidas de cartera de negociación |
 |  |  | 6631. | Pérdidas de designados por la empresa |
-|  |  | 6632. | Pérdidas de disponibles para la venta |
+|  |  | 6632. | Pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto |
 |  |  | 6633. | Pérdidas de instrumentos de cobertura |
+|  |  | 6634. | Pérdidas de otros instrumentos financieros |
 |  | 664. | Gastos por dividendos de acciones o participaciones consideradas como pasivos financieros |
 |  | 665. | Intereses por descuento de efectos y operaciones de «factoring» |
 |  | 666. | Pérdidas en participaciones y valores representativos de deuda |
@@ -448,29 +449,35 @@ Pérdidas originadas por la valoración a valor razonable de determinados instru
 
 Con carácter general, el contenido y movimiento de las cuentas citadas de cuatro cifras es el siguiente:
 
-6630. Pérdidas de cartera de negociación
+6630. Pérdidas de cartera de negociación.
 
-Pérdidas originadas por la valoración a valor razonable de los instrumentos financieros clasificados en la categoría «Activos financieros mantenidos para negociar» o «Pasivos financieros mantenidos para negociar».
+Pérdidas originadas por la valoración a valor razonable de los instrumentos financieros que cumplan la definición de instrumentos que se mantienen para negociar.
 
 Se cargará por la disminución en el valor razonable de los activos financieros o el aumento en el valor de los pasivos financieros clasificados en esta categoría, con abono a la correspondiente cuenta del elemento patrimonial.
 
-6631. Pérdidas de designados por la empresa
+6631. Pérdidas de designados por la empresa.
 
-Pérdidas originadas por la valoración a valor razonable de los instrumentos financieros clasificados en la categoría «Otros activos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias» u «Otros pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias».
+Pérdidas originadas por la valoración a valor razonable de los instrumentos financieros designados en la categoría «Valor razonable con cambios en la cuenta de pérdidas y ganancias» en ejercicio de la opción del valor razonable regulada en la norma de registro y valoración novena.
 
 Su movimiento es análogo al señalado para la cuenta 6630.
 
-6632. Pérdidas de disponibles para la venta
+6632. Pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto.
 
-Pérdidas originadas por la baja, enajenación o cancelación de los instrumentos financieros clasificados en la categoría de «Activos financieros disponibles para la venta».
+Pérdidas originadas por la baja, enajenación o cancelación de los instrumentos financieros clasificados en la categoría de ‘‘Activos financieros a valor razonable con cambios en el patrimonio neto’’.
 
 Se cargará en el momento en que se produzca la baja, enajenación o cancelación del instrumento financiero, por el saldo negativo acumulado en el patrimonio neto con abono a la cuenta 902.
 
-6633. Pérdidas de instrumentos de cobertura
+6633. Pérdidas de instrumentos de cobertura.
 
 Pérdidas originadas en instrumentos de cobertura, en las operaciones de cobertura de flujos de efectivo cuando la empresa no espere que la transacción prevista tenga lugar.
 
 Se cargará por la transferencia a la cuenta de pérdidas y ganancias del importe negativo reconocido directamente en el patrimonio neto, con abono a la cuenta 912.
+
+6634. Pérdidas de otros instrumentos financieros.
+
+Pérdidas originadas por la valoración a valor razonable de los restantes instrumentos financieros incluidos en la categoría ‘‘Valor razonable con cambios en la cuenta de pérdidas y ganancias’’.
+
+Su movimiento es análogo al de la cuenta 6630.
 
 664. Gastos por dividendos de acciones o participaciones consideradas como pasivos financieros
 
@@ -621,7 +628,7 @@ Se cargará por el importe de la obligación estimada, con abono a la cuenta 499
 
 Corrección valorativa por deterioro del valor en inversiones de los subgrupos 24 y 25 o, en su caso, del subgrupo 58.
 
-Se cargará por el importe del deterioro estimado, con abono a las cuentas 2405, 250, 293, 294, 297, 599 o a cuentas del grupo 9.
+Se cargará por el importe del deterioro estimado, con abono a las cuentas 293, 294, 297, 599 o a cuentas del grupo 9.
 
 697. Pérdidas por deterioro de créditos a largo plazo
 
@@ -633,12 +640,16 @@ Se cargará por el importe del deterioro estimado, con abono a las cuentas 295, 
 
 Corrección valorativa por deterioro del valor en inversiones de los subgrupos 53 y 54 o, en su caso, del subgrupo 58.
 
-Se cargará por el importe de la depreciación estimada, con abono a las cuentas 593, 594, 597, 599 o a cuentas del grupo 9.
+Se cargará por el importe del deterioro estimado, con abono a las cuentas 593, 594, 597, 599 o a cuentas del grupo 9.
 
 699. Pérdidas por deterioro de créditos a corto plazo
 
 Corrección valorativa por deterioro del valor en créditos de los subgrupos 53 y 54 o, en su caso, del subgrupo 58.
 
 Se cargará por el importe del deterioro estimado, con abono a las cuentas 595, 598 ó 599.
+
+> Se modifica por el art. 1.16.4 y 1.17.17 a 19 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 312, de 29 de diciembre de 2007. Ref. BOE-A-2007-22441.

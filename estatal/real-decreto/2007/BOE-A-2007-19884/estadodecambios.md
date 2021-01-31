@@ -7,7 +7,7 @@ A) ESTADO DE INGRESOS Y GASTOS RECONOCIDOS CORRESPONDIENTE AL EJERCICIO TERMINAD
 |  | A) Resultado de la cuenta de pérdidas y ganancias |  |  |  |
 |  | Ingresos y gastos imputados directamente al patrimonio neto |  |  |  |
 |  | I. Por valoración instrumentos financieros. |  |  |  |
-| (800),(89),900,991,992 | 1. Activos financieros disponibles para la venta. |  |  |  |
+| (800),(89),900,991,992 | 1. Activos financieros a valor razonable con cambios en el patrimonio neto. |  |  |  |
 |  | 2. Otros ingresos/gastos. |  |  |  |
 | (810),910 | II. Por coberturas de flujos de efectivo. |  |  |  |
 | 94 | III. Subvenciones, donaciones y legados recibidos. |  |  |  |
@@ -16,7 +16,7 @@ A) ESTADO DE INGRESOS Y GASTOS RECONOCIDOS CORRESPONDIENTE AL EJERCICIO TERMINAD
 |  | B) Total ingresos y gastos imputados directamente en el patrimonio neto (1+11+111 +IV+V) |  |  |  |
 |  | Transferencias a la cuenta de pérdidas y ganancias |  |  |  |
 |  | VI. Por valoración de instrumentos financieros. |  |  |  |
-| (802),902,993,994 | 1. Activos financieros disponibles para la venta. |  |  |  |
+| (802),902,993,994 | 1. Activos financieros a valor razonable con cambios en el patrimonio neto. |  |  |  |
 |  | 2. Otros ingresos/gastos. |  |  |  |
 | (812),912 | VII. Por coberturas de flujos de efectivo. |  |  |  |
 | (84) | VIII. Subvenciones, donaciones y legados recibidos. |  |  |  |
@@ -62,3 +62,7 @@ B) ESTADO TOTAL DE CAMBIOS EN EL PATRIMONIO NETO CORRESPONDIENTE AL EJERCICIO TE
 | 7. Otras operaciones con socios o propietarios. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | III. Otras variaciones del patrimonio neto. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | E. SALDO, FINAL DEL AÑO 200X |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+> Se modifica el apartado 1 de los epígrafes I y VI por el art. 1.11 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.

@@ -4,28 +4,26 @@
 
 | 80. | GASTOS FINANCIEROS POR VALORACIÓN DE ACTIVOS FINANCIEROS |
 | --- | --- |
-|  | 800. | Pérdidas en activos financieros disponibles para la venta |
-|  | 802. | Transferencia de beneficios en activos financieros disponibles para la venta |
+|  | 800. | Pérdidas en activos financieros a valor razonable con cambios en el patrimonio neto |
+|  | 802. | Transferencia de beneficios en activos financieros a valor razonable con cambios en el patrimonio neto |
 
-800. Pérdidas en activos financieros disponibles para la venta
+800. Pérdidas en activos financieros a valor razonable con cambios en el patrimonio neto
 
 Su movimiento es el siguiente:
 
-a) Se cargará por las variaciones negativas en el valor razonable de los activos financieros clasificados como disponibles para la venta, incluidas las que se produzcan en caso de reclasificación, con abono a las cuentas de los correspondientes elementos patrimoniales.
+a) Se cargará por las variaciones negativas en el valor razonable de los activos financieros clasificados como a valor razonable con cambios en el patrimonio neto, incluidas las que se produzcan en caso de reclasificación, con abono a las cuentas de los correspondientes elementos patrimoniales.
 
 b) Se abonará, al cierre del ejercicio, con cargo a la cuenta 133.
 
-802. Transferencia de beneficios en activos financieros disponibles para la venta
+802. Transferencia de beneficios en activos financieros a valor razonable con cambios en el patrimonio neto
 
 Su movimiento es el siguiente:
 
 a) Se cargará:
 
-a1) En el momento en que se produzca la baja o enajenación del activo financiero disponible para la venta, incluidos los que hayan sido objeto de reclasificación, por el saldo positivo acumulado en el patrimonio neto con abono a la cuenta 7632.
+a1) En el momento en que se produzca la baja o enajenación del activo financiero a valor razonable con cambios en el patrimonio neto, incluidos los que hayan sido objeto de reclasificación, por el saldo positivo acumulado en el patrimonio neto con abono a la cuenta 7632.
 
-a2) En caso de reclasificación a una inversión mantenida hasta el vencimiento, por el saldo positivo acumulado en el patrimonio neto que se reconoce en la cuenta de pérdidas y ganancias, a lo largo de su vida residual, como un incremento de los ingresos financieros en los términos establecidos en la norma de registro y valoración, con abono a la cuenta 761.
-
-a3) Cuando se haya producido una combinación de negocios por etapas, de acuerdo con lo dispuesto en las normas de registro y valoración, por las variaciones de valor positivas imputadas directamente al patrimonio neto correspondientes a cualquier participación previa en la adquirida que estuviera clasificada como activos financieros disponibles para la venta, con abono a la cuenta 7632.
+a2) Cuando se haya producido una combinación de negocios por etapas, de acuerdo con lo dispuesto en las normas de registro y valoración, por las variaciones de valor positivas imputadas directamente al patrimonio neto correspondientes a cualquier participación previa en la adquirida que estuviera clasificada como activos financieros a valor razonable con cambios en patrimonio neto, con abono a la cuenta 7632.
 
 b) Se abonará, al cierre del ejercicio, con cargo a la cuenta 133.
 
@@ -279,6 +277,10 @@ Su movimiento es el siguiente:
 a) Se cargarán en el momento en que se produzca el deterioro de valor del activo financiero, hasta el límite de los ajustes valorativos positivos previos, con abono a las cuentas 240 ó 530.
 
 b) Se abonarán, al cierre del ejercicio, con cargo a la cuenta 133.
+
+> Se modifican las cuentas 800 y 802 por el art. 1.16.6 y 7 y 1.17.21 y 22 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.
 
 > Se modifica la cuenta 802 por el art. 4.12 del Real Decreto 1159/2010, de 17 de septiembre. Ref. BOE-A-2010-14621#a4.
 

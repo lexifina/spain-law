@@ -75,8 +75,9 @@
 |  | 763. | Beneficios por valoración de instrumentos financieros por su valor razonable |
 |  |  | 7630. | Beneficios de cartera de negociación |
 |  |  | 7631. | Beneficios de designados por la empresa |
-|  |  | 7632. | Beneficios de disponibles para la venta |
+|  |  | 7632. | Beneficios de activos financieros a valor razonable con cambios en el patrimonio neto |
 |  |  | 7633. | Beneficios de instrumentos de cobertura |
+|  |  | 7634. | Beneficios de otros instrumentos financieros |
 |  | 766. | Beneficios en participaciones y valores representativos de deuda |
 |  |  | 7660. | Beneficios en valores representativos de deuda a largo plazo, empresas del grupo |
 |  |  | 7661. | Beneficios en valores representativos de deuda a largo plazo, empresas asociadas |
@@ -144,3 +145,7 @@
 |  |  | 7991. | Reversión del deterioro de créditos a corto plazo, empresas asociadas |
 |  |  | 7992. | Reversión del deterioro de créditos a corto plazo, otras partes vinculadas |
 |  |  | 7993. | Reversión del deterioro de créditos a corto plazo, otras empresas |
+
+> Se modifica la cuenta 763 por el art. 1.16.5 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.

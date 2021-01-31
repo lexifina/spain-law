@@ -86,7 +86,7 @@
 | (557) | VIII. (Dividendo a cuenta). |  |  |  |
 | 111 | IX. Otros instrumentos de patrimonio neto. |  |  |  |
 |  | A-2) Ajustes por cambios de valor. |  |  |  |
-| 133 | I. Activos financieros disponibles para la venta |  |  |  |
+| 133 | I. Activos financieros a valor razonable con cambios en el patrimonio neto. |  |  |  |
 | 1340 | II. Operaciones de cobertura. |  |  |  |
 | 137 | III. Otros. |  |  |  |
 | 130, 131, 132 | A-3) Subvenciones, donaciones y legados recibidos. |  |  |  |
@@ -125,6 +125,10 @@
 | 438 | 7. Anticipos de clientes. |  |  |  |
 | 485,568 | VI. Periodificaciones a corto plazo. |  |  |  |
 |  | TOTAL PATRIMONIO NETO Y PASIVO (A + B + C) |  |  |  |
+
+> Se modifica la subagrupación A-2) por el art. 1.9 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.
 
 > Se modifica por el art. 1.6 del Real Decreto 602/2016, de 2 de diciembre. Ref. BOE-A-2016-11954#ap.
 

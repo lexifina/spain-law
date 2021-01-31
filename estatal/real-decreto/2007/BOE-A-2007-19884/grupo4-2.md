@@ -4,13 +4,13 @@
 
 Instrumentos financieros y cuentas que tengan su origen en el tráfico de la empresa, así como las cuentas con las Administraciones Públicas, incluso las que correspondan a saldos con vencimiento superior a un año. Para estas últimas y a efectos de su clasificación, se podrán utilizar los subgrupos 42 y 45 o proceder a dicha reclasificación en las propias cuentas.
 
-En particular, se aplicarán las siguiente reglas:
+En particular, se aplicarán las siguientes reglas:
 
-a) Los activos financieros y los pasivos financieros incluidos en este grupo se clasificarán, con carácter general, a efectos de su valoración, en las categorías de «Préstamos y partidas a cobrar» y «Débitos y partidas a pagar», respectivamente.
+a) Los activos financieros y los pasivos financieros incluidos en este grupo se clasificarán, con carácter general, a efectos de su valoración, en las categorías de ‘‘Activos financieros a coste amortizado’’ y ‘‘Pasivos financieros a coste amortizado’’, respectivamente.
 
 b) Si los activos financieros y pasivos financieros se clasifican a efectos de su valoración en más de una categoría, se desarrollarán las cuentas de cuatro o más cifras que sean necesarias para diferenciar la categoría en la que se hayan incluido.
 
-c) Una cuenta que recoja activos financieros o pasivos financieros clasificados en las categorías de «Activos financieros mantenidos para negociar» u «Otros activos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias», así como en la de «Pasivos financieros mantenidos para negociar» u «Otros pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias» respectivamente, se abonará o cargará, por las variaciones en su valor razonable, con cargo o abono, respectivamente, a las cuentas 663 y 763.
+c) Una cuenta que recoja activos financieros o pasivos financieros clasificados en la categoría de ‘‘Activos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias’’, así como en la de ‘‘Pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias’’ respectivamente, se abonará o cargará, por las variaciones en su valor razonable, con cargo o abono, respectivamente, a las cuentas 663 y 763.
 
 d) Una cuenta que recoja acreedores o deudores por operaciones comerciales que, de acuerdo con lo establecido en las normas de registro y valoración, formen parte de un grupo enajenable de elementos mantenidos para la venta, se cargará o abonará, respectivamente, en el momento en que se cumplan las condiciones para su clasificación, con abono o cargo a la respectiva cuenta del subgrupo 58.
 
@@ -877,3 +877,7 @@ Su movimiento es el siguiente:
 a) Se abonará, al cierre del ejercicio, por el importe de la estimación realizada, con cargo a la cuenta 6959.
 
 b) Se cargará, al cierre del ejercicio, por la dotación efectuada en el año anterior, con abono a la cuenta 79549.
+
+> Se modifica la introducción al Grupo 4 por el art. 1.17.10 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.

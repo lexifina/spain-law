@@ -8,17 +8,17 @@ En particular, se aplicarán las siguientes reglas:
 
 a) En este grupo también se incluyen los derivados financieros con valoración favorable para la empresa tanto de cobertura como de negociación cuando su liquidación sea superior a un año.
 
-b) De acuerdo con lo dispuesto en las normas de elaboración de las cuentas anuales, en este grupo no se pueden incluir los activos financieros a largo plazo que se tengan que clasificar en el momento de su reconocimiento inicial en la categoría de «Activos financieros mantenidos para negociar» por cumplir los requisitos establecidos en las normas de registro y valoración, salvo los derivados financieros cuyo plazo de liquidación sea superior a un año.
+b) De acuerdo con lo dispuesto en las normas de elaboración de las cuentas anuales, en este grupo no se pueden incluir los activos financieros a largo plazo que cumplan la definición de activos que se mantengan para negociar, salvo los derivados financieros cuyo plazo de liquidación sea superior a un año.
 
 c) Se desarrollarán las cuentas de cuatro o más cifras que sean necesarias para diferenciar las distintas categorías en las que se hayan incluido los activos financieros de acuerdo con lo establecido en las normas de registro y valoración.
 
-d) Si se adquieren activos financieros híbridos que de acuerdo con lo establecido en las normas de registro y valoración se valoren en su conjunto por su valor razonable, se incluirán en la cuenta que corresponda a la naturaleza del contrato principal, para lo que se crearán con el debido desglose, cuentas de cuatro o más cifras que identifiquen que se trata de un activo financiero híbrido a largo plazo valorado conjuntamente. Cuando se reconozcan separadamente el contrato principal y el derivado implícito, este último se tratará como si se hubiese contratado de forma independiente, por lo que se incluirá en la cuenta de los grupos 1, 2 ó 5 que proceda y el contrato principal se incluirá en la cuenta que corresponda a su naturaleza, desarrollándose con el debido desglose cuentas de cuatro o más cifras que identifiquen que se trata de un contrato principal financiero híbrido a largo plazo.
+d) Si se adquieren activos financieros híbridos que de acuerdo con lo establecido en las normas de registro y valoración se valoren en su conjunto por su valor razonable, se incluirán en la cuenta que corresponda a la naturaleza del contrato principal, para lo que se crearán con el debido desglose, cuentas de cuatro o más cifras que identifiquen que se trata de un activo o pasivo financiero híbrido a largo plazo valorado conjuntamente.
 
-e) Una cuenta que recoja activos financieros clasificados en la categoría de «Otros activos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias’: se cargará o abonará, por las variaciones en su valor razonable, con abono o cargo, respectivamente, a las cuentas 763 y 663.
+e) Una cuenta que recoja activos financieros clasificados en la categoría de ‘‘Activos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias’’, se cargará o abonará, por las variaciones en su valor razonable, con abono o cargo, respectivamente, a las cuentas 763 y 663.
 
 f) Una cuenta que recoja un activo no corriente que, de acuerdo con lo establecido en las normas de registro y valoración, deba clasificarse como mantenido para la venta o forme parte de un grupo enajenable de elementos mantenidos para la venta, se abonará en el momento en que se cumplan las condiciones para su clasificación, con cargo a la respectiva cuenta del subgrupo 58.
 
-g) La diferencia entre el valor por el que se reconocen inicialmente los activos financieros y su valor de reembolso, se registrará como un cargo (o, cuando proceda, como un abono) en la cuenta donde esté registrado el activo financiero con abono (o cargo) a la cuenta del subgrupo 76 que corresponda según la naturaleza del instrumento.
+g) La diferencia entre el valor por el que se reconocen inicialmente los activos financieros y su valor de reembolso se registrará como un cargo (o, cuando proceda, como un abono) en la cuenta donde esté registrado el activo financiero con abono (o cargo) a la cuenta del subgrupo 76 que corresponda según la naturaleza del instrumento.
 
 | 20. | INMOVILIZACIONES INTANGIBLES |
 | --- | --- |
@@ -317,13 +317,9 @@ El movimiento de la cuenta citada es el siguiente:
 
 a) Se cargará a la suscripción o compra, con abono, generalmente, a cuentas del subgrupo 57 y, en su caso, a la cuenta 249.
 
-b) Se abonará:
+b) Se abonará por las enajenaciones y en general por su baja del activo, con cargo, generalmente, a cuentas del subgrupo 57, si existen desembolsos pendientes a la cuenta 249 o, en su caso, a la cuenta 539 y en caso de pérdidas a la cuenta 673.
 
-b1) Por el importe del deterioro estimado, con cargo a la cuenta 696.
-
-b2) Por las enajenaciones y en general por su baja del activo, con cargo, generalmente, a cuentas del subgrupo 57, si existen desembolsos pendientes a la cuenta 249 o en su caso, a la cuenta 539 y en caso de pérdidas a la cuenta 673.
-
-c) Si las participaciones se clasifican en la categoría de «Activos financieros disponibles para la venta», se cargará o abonará, por las variaciones en su valor razonable, con abono o cargo, respectivamente, a las cuentas 900 y 800.
+c) Si las participaciones se clasifican en la categoría de ‘‘Activos financieros a valor razonable con cambios en el patrimonio neto’’, se cargará o abonará, por las variaciones en su valor razonable, con abono o cargo, respectivamente, a las cuentas 900 y 800.
 
 241. Valores representativos de deuda a largo plazo de partes vinculadas
 
@@ -343,7 +339,7 @@ a2) Por el ingreso financiero devengado hasta alcanzar el valor de reembolso del
 
 b) Se abonarán por las enajenaciones, amortizaciones anticipadas o baja del activo de los valores, con cargo, a cuentas del subgrupo 57 y en caso de pérdidas a la cuenta 666.
 
-c) Si los valores se clasifican en la categoría de «Activos financieros disponibles para la venta», se cargarán o abonarán, por las variaciones en su valor razonable, con abono o cargo, respectivamente, a las cuentas 900 y 800, salvo la parte correspondiente a diferencias de cambio que se registrará con abono o cargo a las cuentas 768 y 668. También se cargarán cuando se produzca el deterioro del valor por el saldo negativo acumulado en el patrimonio neto, con abono a la cuenta 902.
+c) Si los valores se clasifican en la categoría de ‘‘Activos financieros a valor razonable con cambios en el patrimonio neto’’, se cargará o abonará, por las variaciones en su valor razonable, con abono o cargo, respectivamente, a las cuentas 900 y 800, salvo la parte correspondiente a diferencias de cambio que se registrará con abono o cargo a las cuentas 768 y 668. También se cargará cuando se produzca el deterioro de valor por el saldo negativo acumulado en el patrimonio neto, con abono a la cuenta 902.
 
 242. Créditos a largo plazo a partes vinculadas
 
@@ -407,13 +403,9 @@ Su movimiento es el siguiente:
 
 a) Se cargará a la suscripción o compra, con abono, generalmente, a cuentas del subgrupo 57 y, en su caso, a la cuenta 259.
 
-b) Se abonará:
+b) Se abonará por las enajenaciones y en general por su baja del activo, con cargo, generalmente, a cuentas del subgrupo 57, si existen desembolsos pendientes a la cuenta 259 o, en su caso, a la cuenta 549 y en caso de pérdidas a la cuenta 666.
 
-b1) Por el importe del deterioro estimado, con cargo a la cuenta 696.
-
-b2) Por las enajenaciones y en general por su baja del activo, con cargo, generalmente, a cuentas del subgrupo 57, si existen desembolsos pendientes a la cuenta 259 o, en su caso, a la cuenta 549 y en caso de pérdidas a la cuenta 666.
-
-c) Si la inversión se clasifica en la categoría de «Activos financieros disponibles para la venta», se cargará o abonará, por las variaciones en su valor razonable, con abono o cargo, respectivamente, a las cuentas 900 y 800.
+c) Si las participaciones se clasifican en la categoría de «Activos financieros a valor razonable con cambios en el patrimonio neto», se cargará o abonará, por las variaciones en su valor razonable, con abono o cargo, respectivamente, a las cuentas 900 y 800.
 
 251. Valores representativos de deuda a largo plazo
 
@@ -433,7 +425,7 @@ a2) Por el ingreso financiero devengado hasta alcanzar el valor de reembolso del
 
 b) Se abonará por las enajenaciones, amortizaciones anticipadas o baja del activo de los valores, con cargo, a cuentas del subgrupo 57 y en caso de pérdidas a la cuenta 666.
 
-c) Si los valores se clasifican en la categoría de «Activos financieros disponibles para la venta», se cargará o abonará, por las variaciones en su valor razonable, con abono o cargo, respectivamente, a las cuentas 900 y 800, salvo la parte correspondiente a diferencias de cambio que se registrará con abono o cargo a las cuentas 768 y 668. También se cargará cuando se produzca el deterioro del valor por el saldo negativo acumulado en el patrimonio neto, con abono a la cuenta 902.
+c) Si los valores se clasifican en la categoría de «Activos financieros a valor razonable con cambios en el patrimonio neto», se cargará o abonará, por las variaciones en su valor razonable, con abono o cargo, respectivamente, a las cuentas 900 y 800, salvo la parte correspondiente a diferencias de cambio que se registrará con abono o cargo a las cuentas 768 y 668. También se cargará cuando se produzca el deterioro de valor por el saldo negativo acumulado en el patrimonio neto, con abono a la cuenta 902.
 
 252. Créditos a largo plazo
 
@@ -650,9 +642,11 @@ b) Se cargará cuando se enajene la inversión inmobiliaria o se dé de baja del
 |  | 290. | Deterioro de valor del inmovilizado intangible |
 |  | 291. | Deterioro de valor del inmovilizado material |
 |  | 292. | Deterioro de valor de las inversiones inmobiliarias |
-|  | 293. | Deterioro de valor de participaciones a largo plazo en partes vinculadas |
+|  | 293. | Deterioro de valor de participaciones a largo plazo |
 |  |  | 2933. | Deterioro de valor de participaciones a largo plazo en empresas del grupo |
 |  |  | 2934. | Deterioro de valor de participaciones a largo plazo en empresas asociadas |
+|  |  | 2935. | Deterioro de valor de participaciones a largo plazo en otras partes vinculadas |
+|  |  | 2936. | Deterioro de valor de participaciones a largo plazo en otras empresas |
 |  | 294. | Deterioro de valor de valores representativos de deuda a largo plazo de partes vinculadas |
 |  |  | 2943. | Deterioro de valor de valores representativos de deuda a largo plazo de empresas del grupo |
 |  |  | 2944. | Deterioro de valor de valores representativos de deuda a largo plazo de empresas asociadas |
@@ -684,11 +678,11 @@ b1) Cuando desaparezcan las causas que determinaron el reconocimiento de la corr
 
 b2) Cuando se enajene el inmovilizado o se dé de baja del activo por cualquier otro motivo, con abono a cuentas del subgrupo 20, 21 ó 22.
 
-293. Deterioro de valor de participaciones a largo plazo en partes vinculadas
+293. Deterioro de valor de participaciones a largo plazo
 
-Importe de las correcciones valorativas por deterioro del valor que corresponda a las participaciones a largo plazo en empresas del grupo y asociadas.
+Importe de las correcciones valorativas por deterioro del valor que corresponda a las participaciones a largo plazo en empresas del grupo, asociadas, otras partes vinculadas y otras empresas, incluidas en la categoría de ‘‘Activos financieros a coste’’
 
-2933/2934
+2933/2934/2935/2936.
 
 El movimiento de las cuentas citadas de cuatro cifras es el siguiente:
 
@@ -698,7 +692,7 @@ b) Se cargarán:
 
 b1) Cuando desaparezcan las causas que determinaron el reconocimiento de la corrección valorativa por deterioro, con abono a la cuenta 796.
 
-b2) Cuando se enajene el inmovilizado financiero o se dé de baja del activo por cualquier otro motivo, con abono a cuentas del subgrupo 24.
+b2) Cuando se enajene el inmovilizado financiero o se dé de baja el activo por cualquier otro motivo, con abono a cuentas del subgrupo 24 o a la cuenta 250.
 
 294. Deterioro de valor de valores representativos de deuda a largo plazo de partes vinculadas
 
@@ -743,5 +737,9 @@ Su movimiento es análogo al señalado para la cuenta 294.
 Importe de las correcciones valorativas por deterioro del valor en créditos del subgrupo 25.
 
 Su movimiento es análogo al señalado para la cuenta 295.
+
+> Se modifica por el art. 1.16.2 y 1.17.3 a 9 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 312, de 29 de diciembre de 2007. Ref. BOE-A-2007-22441.

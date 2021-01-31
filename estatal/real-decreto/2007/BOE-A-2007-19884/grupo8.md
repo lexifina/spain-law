@@ -4,8 +4,8 @@
 
 | 80. | GASTOS FINANCIEROS POR VALORACIÓN DE ACTIVOS Y PASIVOS |
 | --- | --- |
-|  | 800. | Pérdidas en activos financieros disponibles para la venta |
-|  | 802. | Transferencia de beneficios en activos financieros disponibles para la venta |
+|  | 800. | Pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto |
+|  | 802. | Transferencia de beneficios en activos financieros a valor razonable con cambios en el patrimonio neto |
 | 81. | GASTOS EN OPERACIONES DE COBERTURA |
 |  | 810. | Pérdidas por coberturas de flujos de efectivo |
 |  | 811. | Pérdidas por coberturas de inversiones netas en un negocio en el extranjero |
@@ -37,3 +37,7 @@
 | 89. | GASTOS DE PARTICIPACIONES EN EMPRESAS DEL GRUPO O ASOCIADAS CON AJUSTES VALORATIVOS POSITIVOS PREVIOS |
 |  | 891. | Deterioro de participaciones en el patrimonio, empresas del grupo |
 |  | 892. | Deterioro de participaciones en el patrimonio, empresas asociadas |
+
+> Se modifican las cuentas 800 y 802 por el art. 1.16.6 y 7 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.

@@ -6,15 +6,15 @@ Comprende el patrimonio neto y la financiación ajena a largo plazo de la empres
 
 En particular, se aplicarán las siguientes reglas:
 
-a) Los pasivos financieros incluidos en este grupo se clasificarán, con carácter general, a efectos de su valoración, en la categoría de «Débitos y partidas a pagar» No obstante, también pueden incluirse en la categoría de «Otros pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias» en los términos establecidos en las normas de registro y valoración. En este grupo también se incluyen los derivados financieros tanto de cobertura como de negociación cuando su liquidación sea superior a un año.
+a) Los pasivos financieros incluidos en este grupo se clasificarán, con carácter general, a efectos de su valoración, en la categoría de ‘‘Pasivos financieros a coste amortizado’’. No obstante, también pueden incluirse en la categoría de ‘‘Pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias’’ en los términos establecidos en las normas de registro y valoración. En este grupo también se incluyen los derivados financieros tanto de cobertura como de negociación cuando su liquidación sea superior a un año.
 
-b) De acuerdo con lo dispuesto en las normas de elaboración de las cuentas anuales, en este grupo no se pueden incluir los pasivos financieros a largo plazo que, excepcionalmente, se tengan que clasificar en el momento de su reconocimiento inicial en la categoría de «Pasivos financieros mantenidos para negociar» por cumplir los requisitos establecidos en las normas de registro y valoración, salvo los derivados financieros cuyo plazo de liquidación sea superior a un año.
+b) De acuerdo con lo dispuesto en las normas de elaboración de las cuentas anuales, en este grupo no se pueden incluir los pasivos financieros a largo plazo que, excepcionalmente, cumplan la definición de pasivos que se mantienen para negociar, salvo los derivados financieros cuyo plazo de liquidación sea superior a un año.
 
 c) Si los pasivos financieros se clasifican a efectos de su valoración en más de una categoría, se desarrollarán las cuentas de cuatro o más cifras que sean necesarias para diferenciar la categoría en la que se hayan incluido.
 
 d) Si se emiten o asumen pasivos financieros híbridos que de acuerdo con lo establecido en las normas de registro y valoración se valoren en su conjunto por su valor razonable, se incluirán en la cuenta que corresponda a la naturaleza del contrato principal, para lo que se crearán con el debido desglose, cuentas de cuatro o más cifras que identifiquen que se trata de un pasivo financiero híbrido a largo plazo valorado conjuntamente. Cuando se reconozcan separadamente el contrato principal y el derivado implícito, este último se tratará como si se hubiese contratado de forma independiente, por lo que se incluirá en la cuenta de los grupos 1, 2 ó 5 que proceda y el contrato principal se recogerá en la cuenta que corresponda a su naturaleza, desarrollándose con el debido desglose cuentas de cuatro o más cifras que identifiquen que se trata de un contrato principal financiero híbrido a largo plazo.
 
-e) Una cuenta que recoja pasivos financieros clasificados en la categoría de «Otros pasivos financieros a valor razonable con cambios en la cuentas de pérdidas y ganancias» se abonará o cargará, por las variaciones en su valor razonable, con cargo o abono, respectivamente, a las cuentas 663 y 763.
+e) Una cuenta que recoja pasivos financieros clasificados en la categoría de Pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias», se abonará o cargará, por las variaciones en su valor razonable, con cargo o abono, respectivamente, a las cuentas 663 y 763.
 
 f) Una cuenta que recoja pasivos financieros que, de acuerdo con lo establecido en las normas de registro y valoración, formen parte de un grupo enajenable de elementos mantenidos para la venta, se cargará en el momento en que se cumplan las condiciones para su clasificación con abono a la respectiva cuenta del subgrupo 58.
 
@@ -370,7 +370,7 @@ b2) Cuando se aplique el resultado positivo conforme al acuerdo de distribución
 |  | 130. | Subvenciones oficiales de capital |
 |  | 131. | Donaciones y legados de capital |
 |  | 132. | Otras subvenciones, donaciones y legados |
-|  | 133. | Ajustes por valoración en activos financieros disponibles para la venta |
+|  | 133. | Ajustes por valoración en activos financieros a valor razonable con cambios en el patrimonio neto |
 |  | 134. | Operaciones de cobertura |
 |  |  | 1340. | Cobertura de flujos de efectivo |
 |  |  | 1341. | Cobertura de una inversión en un negocio en el extranjero |
@@ -414,29 +414,29 @@ Las subvenciones, donaciones y legados concedidos que no figuran en las cuentas 
 
 Su movimiento es análogo al señalado para la cuenta 130.
 
-133. Ajustes por valoración en activos financieros disponibles para la venta
+133. Ajustes por valoración en activos financieros a valor razonable con cambios en el patrimonio neto.
 
-Ajustes producidos por la valoración a valor razonable de los activos financieros clasificados en la categoría de disponibles para la venta, de acuerdo con la norma de registro y valoración relativa a los instrumentos financieros.
+Ajustes producidos por la valoración a valor razonable de los activos financieros clasificados como activos financieros a valor razonable con cambios en el patrimonio neto, de acuerdo con la norma de registro y valoración relativa a los instrumentos financieros.
 
 Con carácter general, su movimiento es el siguiente:
 
 a) Se abonará:
 
-a1) Al cierre del ejercicio, por las variaciones positivas en el valor razonable de los activos financieros disponibles para la venta, con cargo a la cuenta 900.
+a1) Al cierre del ejercicio, por las variaciones positivas en el valor razonable de los activos financieros a valor razonable con cambios en el patrimonio neto, con cargo a la cuenta 900.
 
-a2) Al cierre del ejercicio, por las transferencias de pérdidas de activos financieros disponibles para la venta, con cargo a la cuenta 902.
+a2) Al cierre del ejercicio, por las transferencias de pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto, con cargo a la cuenta 902.
 
-a3) Al cierre del ejercicio, cuando se hubieran realizado inversiones previas a la consideración de participaciones en el patrimonio como de empresas del grupo, multigrupo o asociadas, por la recuperación o la transferencia a la cuenta de pérdidas y ganancias por deterioro de los ajustes valorativos por reducciones de valor imputados directamente en el patrimonio neto, con cargo a las correspondientes cuentas del subgrupo 99.
+a3) Al cierre del ejercicio, cuando se hubieran realizado inversiones previas a la consideración de participaciones en el patrimonio de empresas del grupo, multigrupo o asociadas, por la recuperación o la transferencia a la cuenta de pérdidas y ganancias por deterioro de los ajustes valorativos por reducciones de valor imputados directamente en el patrimonio neto con cargo a las correspondientes cuentas del subgrupo 99.
 
 a4) Por el gasto por impuesto sobre beneficios originado por estos ajustes, con cargo a las cuentas del subgrupo 83.
 
 b) Se cargará:
 
-b1) Al cierre del ejercicio, por las variaciones negativas en el valor razonable de los activos financieros disponibles para la venta, con abono a la cuenta 800.
+b1) Al cierre del ejercicio, por las variaciones negativas en el valor razonable de los activos financieros a valor razonable con cambios en el patrimonio neto, con abono a la cuenta 800.
 
-b2) Al cierre del ejercicio, por la transferencia de beneficios en activos financieros disponibles para la venta, con abono a la cuenta 802.
+b2) Al cierre del ejercicio, por la transferencia de beneficios en activos financieros a valor razonable con cambios en el patrimonio neto, con abono a la cuenta 802.
 
-b3) Al cierre del ejercicio, por el deterioro en inversiones en patrimonio de empresas del grupo, multigrupo y asociadas que previamente hubieran ocasionado ajustes valorativos por aumento de valor, con abono a las correspondientes cuentas del subgrupo 89.
+b3) Al cierre del ejercicio, por el deterioro en inversiones en el patrimonio de empresas del grupo, multigrupo y asociadas que previamente hubieran ocasionado ajustes valorativos por aumento de valor, con abono a las correspondientes cuentas del subgrupo 89.
 
 b4) Por el gasto por impuesto sobre beneficios originado por estos ajustes, con abono a las cuentas del subgrupo 83.
 
@@ -1195,6 +1195,10 @@ b) Se cargará:
 b1) En el momento de la inscripción del capital en el Registro Mercantil, con abono, a las cuentas 150 y 502.
 
 b2) En los supuestos en que no se suscriban acciones o participaciones emitidas, con abono a la cuenta 195.
+
+> Se modifica la introducción al Grupo 1 y la cuenta 133 por el art. 1.17.1 y 2 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.
 
 > Se modifican las cuentas 110, 113 y 133 por el art. 4.12 del Real Decreto 1159/2010, de 17 de septiembre. Ref. BOE-A-2010-14621.
 

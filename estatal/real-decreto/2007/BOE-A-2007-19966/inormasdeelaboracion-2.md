@@ -90,7 +90,7 @@ Sin perjuicio de lo anterior, si se produjese una transferencia de un activo fin
 
 5. Si la empresa tuviera créditos con clientes por ventas y prestaciones de servicios con vencimiento superior a un año, esta partida del epígrafe B.II del activo del balance, se desglosará para recoger separadamente los clientes a largo plazo y a corto plazo. Si el plazo de vencimiento fuera superior al ciclo normal de explotación, creará el epígrafe A.VII en el activo no corriente, con la denominación «Deudores comerciales no corrientes».
 
-6. El capital social y, en su caso, la prima de emisión o asunción de acciones o participaciones con naturaleza de patrimonio neto figurarán en los epígrafes A-1.I «Capital» y A-1.II «Prima de emisión», siempre que se hubiera producido la inscripción en el Registro Mercantil con anterioridad a la formulación de las cuentas anuales. Si en la fecha de formulación de las cuentas anuales no se hubiera producido la inscripción en el Registro Mercantil, figurarán en la partida 3 «Otras deudas a corto plazo» del epígrafe C.II «Deudas a corto plazo» del pasivo corriente.
+6. El capital social y, en su caso, la prima de emisión o asunción de acciones o participaciones con naturaleza de patrimonio neto figurarán en los epígrafes A-1.I. ‘‘Capital’’ y A-1.II. ‘‘Prima de emisión’’, siempre que se hubiera producido la inscripción en el Registro Mercantil de la ejecución del acuerdo de aumento con anterioridad a la formulación de las cuentas anuales dentro del plazo establecido en el texto refundido de la Ley de Sociedades de Capital. En caso contrario, figurarán en la partida 3. ‘‘Otras deudas a corto plazo’’ del epígrafe C.II ‘‘Deudas a corto plazo’’ del pasivo corriente.
 
 7. Los accionistas (socios) por desembolsos no exigidos figurarán en la partida A-1.I.2 «Capital no exigido» o minorarán el importe del epígrafe «Deuda con características especiales», en función de cuál sea la calificación contable de sus aportaciones.
 
@@ -156,7 +156,7 @@ La memoria completa, amplía y comenta la información contenida en los otros do
 
 1. El modelo de la memoria recoge la información mínima a cumplimentar; no obstante, en aquellos casos en que la información que se solicita no sea significativa no se cumplimentarán los apartados correspondientes.
 
-2. Deberá indicarse cualquier otra información no incluida en el modelo de la memoria que sea necesaria para permitir el conocimiento de la situación y actividad de la empresa en el ejercicio, facilitando la comprensión de las cuentas anuales objeto de presentación, con el fin de que las mismas reflejen la imagen fiel del patrimonio, de la situación financiera y de los resultados de la empresa; en particular, se incluirán datos cualitativos correspondientes a la situación del ejercicio anterior cuando ello sea significativo. Adicionalmente, en la memoria se incorporará cualquier información que otra normativa exija incluir en este documento de las cuentas anuales.
+2. Deberá indicarse cualquier otra información complementaria no incluida en el modelo de la memoria que sea necesaria para permitir el conocimiento de la situación y actividad de la empresa en el ejercicio, facilitando la comprensión de las cuentas anuales objeto de presentación, con el fin de que las mismas reflejen la imagen fiel del patrimonio, de la situación financiera y de los resultados de la empresa; en particular, se incluirán datos cualitativos correspondientes a la situación del ejercicio anterior cuando ello sea significativo.
 
 3. La información cuantitativa requerida en la memoria deberá referirse al ejercicio al que corresponden las cuentas anuales, así como al ejercicio anterior del que se ofrece información comparativa, salvo que específicamente una norma contable indique lo contrario.
 
@@ -233,6 +233,10 @@ b) Los ascendientes, descendientes y hermanos y los respectivos cónyuges o pers
 c) Los ascendientes, descendientes y hermanos del cónyuge o persona con análoga relación de afectividad; y
 
 d) Las personas a su cargo o a cargo del cónyuge o persona con análoga relación de afectividad.
+
+> Se modifica los apartados 6 de la norma 5ª y 2 de la norma 8ª por el art. 2.3 y 4 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Téngase en cuenta que el citado Real Decreto será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece su disposición final única.
 
 > Se modifican los apartados 1 y 3.2 por el art. 2.4 y 5 del Real Decreto 602/2016, de 2 de diciembre. Ref. BOE-A-2016-11954#as.
 

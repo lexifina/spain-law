@@ -4,8 +4,8 @@
 
 | 90. | INGRESOS FINANCIEROS POR VALORACIÓN DE ACTIVOSY PASIVOS |
 | --- | --- |
-|  | 900. | Beneficios en activos financieros disponibles para la venta |
-|  | 902. | Transferencia de pérdidas de activos financieros disponibles para la venta |
+|  | 900. | Beneficios en activos financieros a valor razonable con cambios en el patrimonio neto |
+|  | 902. | Transferencia de pérdidas de activos financieros a valor razonable con cambios en el patrimonio neto |
 | 91. | INGRESOS EN OPERACIONES DE COBERTURA |
 |  | 910. | Beneficios por coberturas de flujos de efectivo |
 |  | 911. | Beneficios por coberturas de una inversión neta en un negocio en el extranjero |
@@ -29,3 +29,7 @@
 |  | 992. | Recuperación de ajustes valorativos negativos previos, empresas asociadas |
 |  | 993. | Transferencia por deterioro de ajustes valorativos negativos previos, empresas del grupo |
 |  | 994. | Transferencia por deterioro de ajustes valorativos negativos previos, empresas asociadas |
+
+> Se modifican las cuentas 900 y 902 por el art. 1.16.8 y 9 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.

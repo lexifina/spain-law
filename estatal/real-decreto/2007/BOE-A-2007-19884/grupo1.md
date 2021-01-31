@@ -38,7 +38,7 @@
 |  | 130. | Subvenciones oficiales de capital |
 |  | 131. | Donaciones y legados de capital |
 |  | 132. | Otras subvenciones, donaciones y legados |
-|  | 133. | Ajustes por valoración en activos financieros disponibles para la venta |
+|  | 133. | Ajustes por valoración en activos financieros a valor razonable con cambios en el patrimonio neto |
 |  | 134. | Operaciones de cobertura |
 |  |  | 1340. | Cobertura de flujos de efectivo |
 |  |  | 1341. | Cobertura de una inversión neta en un negocio en el extranjero |
@@ -109,3 +109,7 @@
 |  | 195. | Acciones o participaciones emitidas consideradas como pasivos financieros |
 |  | 197. | Suscriptores de acciones consideradas como pasivos financieros |
 |  | 199. | Acciones o participaciones emitidas consideradas como pasivos financieros pendientes de inscripción. |
+
+> Se modifica la cuenta 133 por el art. 1.16.1 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.

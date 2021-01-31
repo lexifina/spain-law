@@ -107,9 +107,11 @@
 |  | 292. | Deterioro de valor de las inversiones inmobiliarias |
 |  |  | 2920. | Deterioro de valor de los terrenos y bienes naturales |
 |  |  | 2921. | Deterioro de valor de construcciones |
-|  | 293. | Deterioro de valor de participaciones a largo plazo en partes vinculadas |
+|  | 293. | Deterioro de valor de participaciones a largo plazo |
 |  |  | 2933. | Deterioro de valor de participaciones a largo plazo en empresas del grupo |
 |  |  | 2934. | Deterioro de valor de participaciones a largo plazo en empresas asociadas |
+|  |  | 2935. | Deterioro de valor de participaciones a largo plazo en otras partes vinculadas |
+|  |  | 2936. | Deterioro de valor de participaciones a largo plazo en otras empresas |
 |  | 294. | Deterioro de valor de valores representativos de deuda a largo plazo de partes vinculadas |
 |  |  | 2943. | Deterioro de valor de valores representativos de deuda a largo plazo de empresas del grupo |
 |  |  | 2944. | Deterioro de valor de valores representativos de deuda a largo plazo de empresas asociadas |
@@ -120,6 +122,10 @@
 |  |  | 2955. | Deterioro de valor de créditos a largo plazo a otras partes vinculadas |
 |  | 297. | Deterioro de valor de valores representativos de deuda a largo plazo |
 |  | 298. | Deterioro de valor de créditos a largo plazo |
+
+> Se modifica la cuenta 293 por el art. 1.16.2 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.
 
 > Se modifica el subgrupo 28 por el art. 1.14 del Real Decreto 602/2016, de 2 de diciembre. Ref. BOE-A-2016-11954#ap.
 

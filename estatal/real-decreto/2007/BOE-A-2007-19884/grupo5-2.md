@@ -4,19 +4,19 @@
 
 Instrumentos financieros por operaciones no comerciales, es decir, por operaciones ajenas al tráfico cuyo vencimiento, enajenación o realización se espera habrá de producirse en un plazo no superior a un año y medios líquidos disponibles.
 
-En particular, se aplicarán la siguientes reglas:
+En particular, se aplicarán las siguientes reglas:
 
 a) En este grupo se incluyen los derivados financieros tanto de cobertura como de negociación cuando su liquidación no sea superior a un año.
 
-b) Los activos financieros y los pasivos financieros que de acuerdo con lo dispuesto en las normas de registro y valoración de las cuentas anuales, se clasifiquen, respectivamente, en las categorías de «Activos financieros mantenidos para negociar» y «Pasivos financieros mantenidos para negociar», con carácter general estarán incluidos en este grupo. En particular, se incluirán en esta categoría las inversiones financieras en instrumentos de patrimonio de empresas que no tengan la consideración de empresas del grupo, multigrupo o asociadas, que se hayan adquirido con la intención de ser vendidas en el corto plazo.
+b) Los instrumentos financieros que se mantengan para negociar, con carácter general, estarán incluidos en este grupo. En particular, se incluirán en esta categoría las inversiones financieras en instrumentos de patrimonio de empresas que no tengan la consideración de empresas del grupo, multigrupo o asociadas, que se hayan adquirido con la intención de ser vendidas en el corto plazo.
 
 c) Se desarrollarán las cuentas de cuatro o más cifras que sean necesarias para diferenciar las categorías en las que se hayan incluido los activos financieros y pasivos financieros de acuerdo con lo establecido en las normas de registro y valoración.
 
-d) Si se adquieren activos financieros híbridos o se emiten o asumen pasivos financieros híbridos que de acuerdo con lo establecido en las normas de registro y valoración se valoren en su conjunto por su valor razonable, se incluirán en la cuenta que corresponda a la naturaleza del contrato principal, para lo que se crearán con el debido desglose, cuentas de cuatro o más cifras que identifiquen que se trata de un activo o pasivo financiero híbrido a corto plazo valorado conjuntamente. Cuando se reconozcan separadamente el contrato principal y el derivado implícito, este último se tratará como si se hubiese contratado de forma independiente, por lo que se incluirá en la cuenta del grupo 5 que proceda y el contrato principal se recogerá en la cuenta que corresponda a su naturaleza, desarrollándose con el debido desglose cuentas de cuatro o más cifras que identifiquen que se trata de un contrato principal financiero híbrido a corto plazo.
+d) Si se adquieren activos financieros híbridos o se emiten o asumen pasivos financieros híbridos que de acuerdo con lo establecido en las normas de registro y valoración se valoren en su conjunto por su valor razonable, se incluirán en la cuenta que corresponda a la naturaleza del contrato principal, para lo que se crearán con el debido desglose, cuentas de cuatro o más cifras que identifiquen que se trata de un activo o pasivo financiero híbrido a corto plazo valorado conjuntamente. En relación con los pasivos financieros, cuando se reconozcan separadamente el contrato principal y el derivado implícito, este último se tratará como si se hubiese contratado de forma independiente, por lo que se incluirá en la cuenta del grupo 5 que proceda y el contrato principal se recogerá en la cuenta que corresponda a su naturaleza, desarrollándose con el debido desglose cuentas de cuatro o más cifras que identifiquen que se trata de un contrato principal financiero híbrido a corto plazo.
 
-e) Una cuenta que recoja activos financieros o pasivos financieros clasificados en las categorías de «Activos financieros mantenidos para negociar» u «Otros activos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias», así como en la de «Pasivos financieros mantenidos para negociar» u «Otros pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias» respectivamente, se abonará o cargará, por las variaciones en su valor razonable, con cargo o abono, respectivamente a las cuentas 663 y 763.
+e) Una cuenta que recoja activos financieros o pasivos financieros clasificados en la categoría de «Activos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias», así como en la de «Pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias» respectivamente, se abonará o cargará, por las variaciones en su valor razonable, con cargo o abono, respectivamente, a las cuentas 663 y 763.
 
-f) Un cuenta que recoja pasivos o activos incluidos en este grupo que, de acuerdo con lo establecido en las normas de registro y valoración, formen parte de un grupo enajenable de elementos mantenidos para la venta, se cargará o abonará, respectivamente, en el momento en que se cumplan las condiciones para su clasificación, con abono o cargo a la respectiva cuenta del subgrupo 58.
+f) Una cuenta que recoja pasivos o activos incluidos en este grupo que, de acuerdo con lo establecido en las normas de registro y valoración, formen parte de un grupo enajenable de elementos mantenidos para la venta, se cargará o abonará, respectivamente, en el momento en que se cumplan las condiciones para su clasificación, con abono o cargo a la respectiva cuenta del subgrupo 58.
 
 g) La diferencia entre el valor por el que se reconocen inicialmente los activos financieros o pasivos financieros y su valor de reembolso, se registrará como un cargo o abono (o cuando proceda, un abono o cargo), en la cuenta donde esté registrado el activo financiero o el pasivo financiero, teniendo como contrapartida la cuenta del subgrupo 76 ó 66, que corresponda según la naturaleza del instrumento.
 
@@ -520,7 +520,7 @@ a2) Por el ingreso financiero devengado hasta alcanzar el valor de reembolso del
 
 b) Se abonarán por las enajenaciones, amortizaciones o baja del activo de los valores, con cargo, generalmente, a cuentas del subgrupo 57 y en caso de pérdidas a la cuenta 666.
 
-c) Si los valores se clasifican en la categoría de «Activos financieros disponibles para la venta», se cargarán o abonarán, por las variaciones en su valor razonable, con abono o cargo, respectivamente, a las cuentas 900 y 800, salvo la parte correspondiente a diferencias de cambio que se registrará con abono o cargo a las cuentas 768 y 668. También se cargarán cuando se produzca el deterioro del valor por el saldo negativo acumulado en el patrimonio neto, con abono a la cuenta 902.
+c) Si los valores se clasifican en la categoría de «Activos financieros a valor razonable con cambios en el patrimonio neto», se cargará o abonará, por las variaciones en su valor razonable, con abono o cargo, respectivamente, a las cuentas 900 y 800, salvo la parte correspondiente a diferencias de cambio que se registrará con abono o cargo a las cuentas 768 y 668. También se cargará cuando se produzca el deterioro de valor por el saldo negativo acumulado en el patrimonio neto, con abono a la cuenta 902.
 
 532. Créditos a corto plazo a partes vinculadas.
 
@@ -663,7 +663,7 @@ a2) Por el ingreso financiero devengado hasta alcanzar el valor de reembolso del
 
 b) Se abonará por la enajenación, amortización o baja del activo de los valores, con cargo, generalmente, a cuentas del subgrupo 57 y en caso de pérdidas a la cuenta 666.
 
-c) Si los valores se clasifican en la categoría de «Activos financieros disponibles para la venta», se cargará o abonará, por las variaciones en su valor razonable, con abono o cargo, respectivamente, a las cuentas 900 y 800, salvo la parte correspondiente a diferencias de cambio que se registrará con abono o cargo a las cuentas 768 y 668. También se cargará cuando se produzca el deterioro del valor por el saldo negativo acumulado en el patrimonio neto, con abono a la cuenta 902.
+c) Si los valores se clasifican en la categoría de ‘‘Activos financieros a valor razonable con cambios en el patrimonio neto’’, se cargará o abonará, por las variaciones en su valor razonable, con abono o cargo, respectivamente, a las cuentas 900 y 800, salvo la parte correspondiente a diferencias de cambio que se registrará con abono o cargo a las cuentas 768 y 668. También se cargará cuando se produzca el deterioro de valor por el saldo negativo acumulado en el patrimonio neto, con abono a la cuenta 902.
 
 542. Créditos a corto plazo.
 
@@ -1206,9 +1206,9 @@ a) Se cargarán:
 
 a1) En el momento en que se cumplan las condiciones para su clasificación, de acuerdo con lo dispuesto en las normas de registro y valoración contenidas en la segunda parte de este texto, con abono a las respectivas cuentas del activo corriente y no corriente.
 
-a2) En el caso de activos financieros que, a efectos de su valoración, estuvieran clasificados en la categoría de «Activos financieros mantenidos para negociar» o en la de «Otros activos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias», por las variaciones en su valor razonable, con abono a la cuenta 763.
+a2) En el caso de activos financieros que, a efectos de su valoración, estuvieran clasificados en la categoría de ‘‘Activos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias’’, por las variaciones en su valor razonable, con abono a la cuenta 763.
 
-a3) En el caso de activos financieros que, a efectos de su valoración, estuvieran clasificados en la categoría de «Activos financieros disponibles para la venta», por las variaciones en su valor razonable, con abono a la cuenta 960, salvo la parte correspondiente a diferencias de cambio en partidas monetarias que se registrará con abono a la cuenta 768.
+a3) En el caso de activos financieros que, a efectos de su valoración, estuvieran clasificados en la categoría de ‘‘Activos financieros a valor razonable con cambios en el patrimonio neto’’, por las variaciones en su valor razonable, con abono a la cuenta 960, salvo la parte correspondiente a diferencias de cambio en partidas monetarias que se registrará con abono a la cuenta 768.
 
 a4) En su caso, por el ingreso financiero devengado, con abono a la cuenta que corresponda del subgrupo 76.
 
@@ -1216,9 +1216,9 @@ b) Se abonarán:
 
 b1) En el momento en que se produzca la enajenación o disposición por otra vía del activo no corriente o grupo enajenable de elementos, con cargo, generalmente, a cuentas del subgrupo 57 y en caso de pérdidas a la cuenta del subgrupo 67 que corresponda a la naturaleza del activo.
 
-b2) En el caso de activos financieros que, a efectos de su valoración, estuvieran clasificados en la categoría de «Activos financieros mantenidos para negociar» o en la de «Otros activos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias», por las variaciones en su valor razonable, con cargo a la cuenta 663.
+b2) En el caso de activos financieros que, a efectos de su valoración, estuvieran clasificados en la categoría de «Activos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias», por las variaciones en su valor razonable, con cargo a la cuenta 663.
 
-b3) En el caso de activos financieros que, a efectos de su valoración, estuvieran clasificados en la categoría de «Activos financieros disponibles para la venta», por las variaciones en su valor razonable, con cargo a la cuenta 860, salvo la parte correspondiente a diferencias de cambio en partidas monetarias que se registrará con cargo a la cuenta 668.
+b3) En el caso de activos financieros que, a efectos de su valoración, estuvieran clasificados en la categoría de ‘‘Activos financieros a valor razonable con cambios en el patrimonio neto’’, por las variaciones en su valor razonable, con cargo a la cuenta 860, salvo la parte correspondiente a diferencias de cambio en partidas monetarias que se registrará con cargo a la cuenta 668.
 
 b4) Si el activo no corriente o grupo enajenable de elementos dejara de cumplir los requisitos para su clasificación como mantenido para la venta de acuerdo con lo dispuesto en las normas de registro y valoración contenidas en la segunda parte de este texto, con cargo a las respectivas cuentas del activo corriente y no corriente.
 
@@ -1228,11 +1228,11 @@ Estas cuentas figurarán en el pasivo corriente del balance.
 
 Su movimiento, generalmente, es el siguiente:
 
-b) Se abonarán:
+a) Se abonarán:
 
 a1) En el momento en que se cumplan las condiciones para su clasificación, de acuerdo con lo dispuesto en las normas de registro y valoración contenidas en la segunda parte de este texto, con cargo a las respectivas cuentas del pasivo corriente y no corriente.
 
-a2) En el caso de pasivos financieros que, a efectos de su valoración, estuvieran clasificados en la categoría de «Pasivos financieros mantenidos para negociar» o en la de «Otros pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias», por las variaciones en su valor razonable, con cargo a la cuenta 663.
+a2) En el caso de pasivos financieros que, a efectos de su valoración, estuvieran clasificados en la categoría de ‘‘Pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias’’, por las variaciones en su valor razonable, con cargo a la cuenta 663.
 
 a3) En su caso, por el gasto financiero devengado, con cargo a la cuenta que corresponda del subgrupo 66.
 
@@ -1240,15 +1240,17 @@ b) Se cargarán:
 
 b1) En el momento en que se produzca la enajenación o disposición por otra vía del grupo enajenable de elementos.
 
-b2) En el caso de pasivos financieros que, a efectos de su valoración, estuvieran clasificados en la categoría de «Pasivos financieros mantenidos para negociar» o en la de «Otros pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias», por las variaciones en su valor razonable, con abono a la cuenta 763.
+b2) En el caso de pasivos financieros que, a efectos de su valoración, estuvieran clasificados en la categoría de ‘‘Pasivos financieros a valor razonable con cambios en la cuenta de pérdidas y ganancias’’, por las variaciones en su valor razonable, con abono a la cuenta 763.
 
 b3) Si el grupo enajenable de elementos dejara de cumplir los requisitos para su clasificación como mantenido para la venta de acuerdo con lo dispuesto en las normas de registro y valoración contenidas en la segunda parte de este texto, con abono a las respectivas cuentas del pasivo corriente y no corriente.
 
 | 59. | DETERIORO DEL VALOR DE INVERSIONES FINANCIERAS A CORTO PLAZO Y DE ACTIVOS NO CORRIENTES MANTENIDOS PARA LA VENTA |
 | --- | --- |
-|  | 593. | Deterioro de valor de participaciones a corto plazo en partes vinculadas. |
+|  | 593. | Deterioro de valor de participaciones a corto plazo |
 |  |  | 5933. | Deterioro de valor de participaciones a corto plazo en empresas del grupo. |
 |  |  | 5934. | Deterioro de valor de participaciones a corto plazo en empresas asociadas. |
+|  |  | 5935. | Deterioro de valor de participaciones a corto plazo en otras partes vinculadas. |
+|  |  | 5936. | Deterioro de valor de participaciones a corto plazo en otras empresas. |
 |  | 594. | Deterioro de valor de valores representativos de deuda a corto plazo de partes vinculadas. |
 |  |  | 5943. | Deterioro de valor de valores representativos de deuda a corto plazo de empresas del grupo. |
 |  |  | 5944. | Deterioro de valor de valores representativos de deuda a corto plazo de empresas asociadas. |
@@ -1267,11 +1269,11 @@ En el supuesto de posteriores recuperaciones de valor, de acuerdo con lo que al 
 
 Las cuentas de este subgrupo figurarán en el activo corriente del balance minorando la partida en la que figure el correspondiente elemento patrimonial.
 
-593. Deterioro de valor de participaciones a corto plazo en partes vinculadas.
+593. Deterioro de valor de participaciones a corto plazo.
 
-Importe de las correcciones valorativas por deterioro del valor que corresponda a las inversiones a corto plazo en partes vinculadas.
+Importe de las correcciones valorativas por deterioro del valor que corresponda a las participaciones a corto plazo en empresas del grupo, asociadas, otras partes vinculadas y otras empresas, incluidas en la categoría de ‘‘Activos financieros a coste’’.
 
-5933/5934.
+5933/5934/5935/5936.
 
 El movimiento de las cuentas citadas de cuatro cifras es el siguiente:
 
@@ -1281,7 +1283,7 @@ b) Se cargarán:
 
 b1) Cuando desaparezcan las causas que determinaron el reconocimiento de la corrección valorativa por deterioro, con abono a la cuenta 798.
 
-b2) Cuando se enajenen los valores o se den de baja del activo por cualquier otro motivo, con abono a cuentas del subgrupo 53.
+b2) Cuando se enajenen los valores o se den de baja del activo por cualquier otro motivo, con abono a cuentas del subgrupo 53 o a la cuenta 540.
 
 594. Deterioro de valor de valores representativos de deuda a corto plazo de partes vinculadas.
 
@@ -1340,5 +1342,9 @@ b) Se cargará:
 b1) Cuando desaparezcan las causas que determinaron el reconocimiento de la corrección valorativa por deterioro, con abono a la cuenta que corresponda del subgrupo 79.
 
 b2) Cuando se enajene el activo o se dé de baja del activo por cualquier otro motivo, con abono a cuentas del subgrupo 58.
+
+> Se modifica por el art. 1.15.3 y 1.17.11 a 16 del Real Decreto 1/2021, de 12 de enero. Ref. BOE-A-2021-1350
+
+> Esta modificación será de aplicación para los ejercicios que se inicien a partir del 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 312, de 29 de diciembre de 2007. Ref. BOE-A-2007-22441.
