@@ -1,0 +1,5 @@
+## Disposición final primera. Nombramiento de auditor por el registrador mercantil.
+
+Sin perjuicio de lo establecido en otras disposiciones legales, en el caso de nombramiento de auditor de cuentas por el Registrador Mercantil en los supuestos previstos legalmente, el auditor de cuentas tendrá un plazo de diez días hábiles a contar desde la fecha de la notificación del nombramiento para comparecer ante el Registrador y aceptar o rechazar el nombramiento.
+
+Transcurrido el plazo al que se refiere el párrafo anterior sin haber comparecido el auditor designado, o si este hubiese rechazado el nombramiento o su notificación, el Registrador Mercantil procederá a un nuevo nombramiento, caducando el anterior. Si el Registrador Mercantil designa sucesivamente a tres auditores y ninguno de ellos comparece o rechazan el nombramiento o la notificación, el registrador procederá al cierre del expediente salvo justa causa debidamente acreditada. El cierre del expediente no impedirá la producción de los efectos legalmente previstos para el supuesto de auditoría obligatoria.

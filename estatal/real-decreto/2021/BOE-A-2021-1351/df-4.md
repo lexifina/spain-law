@@ -1,0 +1,3 @@
+## Disposición final segunda. Modificación de las normas de control de calidad interno.
+
+En el plazo máximo de tres meses desde la entrada en vigor de este reglamento, se adaptarán las normas de control de calidad interno de los auditores de cuentas a lo establecido en los artículos 28 de la Ley 22/2015, de 20 de julio, y 67 de este reglamento, a iniciativa de las corporaciones de derecho público representativas de auditores de cuentas. Dichas normas tendrán como objetivo promover la máxima calidad y para ello podrán establecer requisitos específicos para el cumplimiento de los objetivos y principios del sistema de control de calidad establecidos por los mencionados artículos, de acuerdo con los principios y práctica comúnmente admitida en la Unión Europea.
