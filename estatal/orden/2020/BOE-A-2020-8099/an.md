@@ -6,25 +6,25 @@ I. Estados:
 
 1. Australia.
 
-2. Japón.
+2. Nueva Zelanda.
 
-3. Nueva Zelanda.
+3. Ruanda.
 
-4. Ruanda.
+4. Singapur.
 
-5. Singapur.
+5. Corea del Sur.
 
-6. Corea del Sur.
+6. Tailandia.
 
-7. Tailandia.
-
-8. China.
+7. China.
 
 II. Regiones administrativas especiales de la República Popular China:
 
 RAE de Hong Kong.
 
 RAE de Macao.
+
+> Se modifica por el art. 1.2 de la Orden INT/62/2021, de 28 de enero. Ref. BOE-A-2021-1265
 
 > Se modifica por el art. único.2 de la Orden INT/1278/2020, de 29 de diciembre. Ref. BOE-A-2020-17273
 
