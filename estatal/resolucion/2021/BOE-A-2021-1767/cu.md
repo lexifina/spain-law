@@ -1,0 +1,5 @@
+## Cuarto. Régimen de recursos.
+
+Esta resolución agota la vía administrativa, de acuerdo con lo dispuesto en el artículo 114 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Contra la misma podrá interponerse recurso contencioso-administrativo, ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional, en el plazo de dos meses, a contar desde el día siguiente al de la publicación de la presente resolución, de conformidad con el artículo 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+
+También podrá interponerse potestativamente recurso de reposición ante la persona titular de la Secretaría de Estado de Derechos Sociales, en el plazo de un mes, contado a partir del día siguiente al de la publicación, significando que, en caso de presentar recurso de reposición, no se podrá interponer recurso contencioso-administrativo hasta que se resuelva expresamente el recurso de reposición o se produzca la desestimación presunta del mismo.
