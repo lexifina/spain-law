@@ -1,0 +1,5 @@
+La Orden APM/387/2018, de 9 de abril, establece un código de colores para la identificación de patrones y variedades en el material de reproducción de cítricos. Este código de colores se viene utilizando en el sector citrícola dada la especial relevancia que tiene esta identificación por su repercusión en la afectación de los plantones por el virus de la tristeza de los cítricos. El código, dada su naturaleza, requiere una frecuente revisión, lo que aconsejaba su separación del conjunto del Real Decreto 929/1995, de 9 de junio, por el que se aprueba el Reglamento técnico de control y certificación de plantas de vivero de frutales, para facilitar su modificación cuando la renovación varietal así lo necesite.
+
+La presente resolución se dicta de acuerdo con lo previsto en el artículo 41.5 del Real Decreto 929/1995, de 9 de junio, que dispone que se establecerá anualmente mediante resolución de la Dirección General de Producciones y Mercados Agrarios el código de colores que se utilizará para diferenciar los patrones y las variedades de cítricos.
+
+En su virtud, resuelvo:
