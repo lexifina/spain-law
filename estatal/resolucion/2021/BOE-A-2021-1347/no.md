@@ -1,0 +1,1 @@
+Téngase en cuenta que el 2 de febrero de 2022 entra en vigor la Resolución de 18 de enero de 2022, de la Dirección General de Tráfico, por la que se establecen medidas especiales de regulación de tráfico durante el año 2022, Ref. BOE-A-2022-1125, fecha a partir de la cual cesa la vigencia de la presente Resolución, según establece su disposición final única.
