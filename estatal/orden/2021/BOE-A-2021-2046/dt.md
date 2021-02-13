@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Aplicación de la orden.
+
+La comercialización de mascarillas higiénicas o cobertores faciales comunitarios que hubiesen sido puestos en el mercado conforme a los criterios exigidos en la Orden SND/354/2020, de 19 de abril, por la que se establecen medidas excepcionales para garantizar el acceso de la población a los productos de uso recomendados como medidas higiénicas para la prevención de contagios por el COVID-19, deberá adaptarse a lo indicado en la presente orden en el plazo máximo de treinta días desde la entrada en vigor de la misma. Transcurrido ese plazo, los productos que no se hayan adaptado no podrán seguir siendo comercializados bajo la denominación de «mascarilla higiénica» o «cobertor facial comunitario».
