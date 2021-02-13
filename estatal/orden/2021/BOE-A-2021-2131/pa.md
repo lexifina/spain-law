@@ -1,0 +1,3 @@
+El Consejo de Ministros, en su reunión del día 9 de febrero de 2021, a propuesta de la Ministra de Sanidad y del Ministro de Transportes, Movilidad y Agenda Urbana, ha adoptado un acuerdo por el que se prorrogan los Acuerdos del Consejo de Ministros de 22 de diciembre de 2020 y de 2 de febrero de 2021, por los que, respectivamente, se establecen medidas excepcionales para limitar la propagación y el contagio por el COVID-19, mediante la limitación de los vuelos directos y buques de pasaje entre Reino Unido y los aeropuertos y puertos españoles; y los vuelos entre la República Federativa de Brasil y la República de Sudáfrica y los aeropuertos españoles.
+
+Para general conocimiento, se dispone su publicación como anexo a la presente Orden.
