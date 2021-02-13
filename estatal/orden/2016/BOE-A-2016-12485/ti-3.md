@@ -10,7 +10,7 @@
 
 a. Se invierta en el capital de entidades jurídicas existentes o de nueva creación dedicadas a la ejecución de instrumentos financieros coherentes con los objetivos del Fondo, y que asumirán tareas de ejecución.
 
-b. Se confíen las tareas de ejecución al BEI; a instituciones financieras internacionales de las que un Estado miembro sea accionista, o instituciones financieras establecidas en un Estado miembro con un fin de interés público y bajo el control de una autoridad pública; o a un organismo de Derecho público o privado.
+b. Se confíen las tareas de ejecución al BEI; a instituciones financieras internacionales de las que un Estado miembro sea accionista; a un banco o institución públicos, constituidos como entidad jurídica, que desarrollen actividades financieras con carácter profesional y que reúnan las condiciones establecidas en el artículo 38 del Reglamento (UE) 1303/2013; o a un organismo de Derecho público o privado.
 
 3. En el caso de instrumentos financieros consistentes únicamente en préstamos o garantías en los que la autoridad de gestión o un organismo intermedio asuma directamente como beneficiario tareas de ejecución, toda solicitud de pago intermedio o del saldo final deberá referirse a pagos efectuados por la autoridad de gestión o el organismo intermedio por las inversiones en los destinatarios finales según se indica en el artículo 42, apartado 1, letras a) y b) del Reglamento 1303/2013.
 
@@ -29,3 +29,9 @@ b. Se confíen las tareas de ejecución al BEI; a instituciones financieras inte
 4. Siempre que se cumplan las condiciones establecidas en el artículo 37, apartado 4 del Reglamento (UE) n.º 1303/2013, tanto relativas a la elegibilidad de la empresa destinataria de la ayuda como al objetivo al que se dirigen las inversiones, será elegible el gasto que incluya inversiones en activos tanto materiales como inmateriales, así como capital de explotación dentro de los límites que establezca la normativa aplicable de la Unión en materia de ayudas estatales y con miras a fomentar que el sector privado proporcione financiación a las empresas; las inversiones podrán asimismo incluir los gastos de transmisión de derechos de propiedad de las empresas a condición de que dicha transmisión tenga lugar entre inversores independientes.
 
 5. A los efectos del presente artículo, el capital de explotación se define como la diferencia entre el activo corriente y el pasivo corriente de una empresa según la normativa contable nacional. Los requisitos para considerar elegible el capital de explotación así como los criterios y procedimientos para justificar su importe deberán establecerse expresamente en el acuerdo de financiación para cada categoría de operaciones.
+
+6. Cuando los instrumentos financieros concedan ayuda en forma de capital circulante o capital de explotación a las pymes de conformidad con el artículo 37, apartado 4, párrafo segundo de Reglamento (UE) 1303/2013 como medida en respuesta al brote de COVID-19, no se exigirán planes empresariales o documentos equivalentes nuevos o actualizados, ni pruebas que permitan verificar que la ayuda prestada con cargo a los instrumentos financieros se haya utilizado para los fines previstos, como parte de los documentos justificativos.
+
+> Se modifica la norma 15 y se añade el apartado 6 a la norma 16 por el art. único.10 y 11 de la Orden HAC/114/2021, de 5 de febrero. Ref. BOE-A-2021-2045
+
+> Téngase en cuenta para su aplicación lo dispuesto en la disposición final única de la citada Orden.

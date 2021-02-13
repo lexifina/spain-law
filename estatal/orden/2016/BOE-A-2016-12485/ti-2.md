@@ -20,17 +20,23 @@ b) Que estén basados en costes reales imputables a la ejecución de la operaci�
 
 6. Costes de personal y costes de servicios prestados por personal externo
 
-1. Los costes de personal serán subvencionables en la medida en que se haya incurrido en ellos efectivamente y se justifiquen mediante los correspondientes documentos acreditativos del gasto y del pago. También lo serán aquellos que resulten admisibles según un sistema de costes simplificados conforme a las normas 12 y 14 de la presente orden. Sólo serán subvencionables aquellos gastos del personal relacionado con actividades que la entidad no llevaría a cabo si no realizara la operación en cuestión.
+1. Los costes de personal serán subvencionables en la medida en que se haya incurrido en ellos efectivamente y se justifiquen mediante los correspondientes documentos acreditativos del gasto y del pago. Los costes de personal correspondientes a individuos que trabajan a tiempo parcial en la operación podrán calcularse como un porcentaje fijo de los costes salariales brutos reales, en consonancia con un porcentaje fijo de tiempo trabajado en la operación al mes, sin la obligación de establecer un sistema independiente de registro de tiempo de trabajo. En este último caso, cuando no se establezca un registro independiente de tiempo, el empleador emitirá un documento para los empleados en el que se establecerá este porcentaje fijo que debe dedicar el trabajador a la operación.
+
+También serán subvencionables aquellos costes de personal que resulten admisibles según un sistema de costes simplificados conforme a las normas 12 y 14 de la presente orden.
+
+Solo serán subvencionables los gastos del personal que, estando relacionado con la operación, sea necesario para su ejecución.
 
 2. Se consideran costes de personal subvencionables los costes brutos de empleo del personal del beneficiario. Estos gastos incluyen:
 
-a) los sueldos y salarios fijados en un contrato de trabajo, en una decisión de nombramiento («acuerdo laboral») o en la ley, que tengan relación con las responsabilidades especificadas en la descripción del puesto de trabajo correspondiente;
+a) Los sueldos y salarios fijados en un contrato de trabajo, en una decisión de nombramiento (‟acuerdo laboral”) o en la ley, que tengan relación con las responsabilidades especificadas en la descripción del puesto de trabajo correspondiente;
 
 b) y otros gastos soportados directamente por el empleador como cotizaciones sociales, aportaciones a planes de pensiones, así como otras prestaciones en favor de los trabajadores que sean obligatorias en virtud de ley o convenio o habituales atendiendo a los usos del sector y siempre que no sean recuperables.
 
 Los costes de los viajes, indemnizaciones o dietas no tienen naturaleza de gastos de personal, sin perjuicio de que puedan ser subvencionables.
 
 3. Serán subvencionables los costes derivados de contratos de servicios prestados por personal externo siempre que dichos costes puedan identificarse claramente.
+
+4. En caso de que, conforme a la normativa aplicable y a lo establecido en los Programas Operativos y en los criterios y procedimientos de selección de operaciones, el coste de personal elegible se defina como el coste adicional necesario para atender ciertas necesidades, deberá justificarse el mencionado carácter adicional. La justificación podrá basarse, bien en información individual asociada a cada trabajador o contrato de trabajo, bien en información agregada de carácter contable o de otra naturaleza, siempre que tenga las debidas garantías. La utilización de información agregada o de carácter contable para justificar la adicionalidad del coste no implica que la justificación se considere efectuada por métodos simplificados, siempre que pueda acreditarse el gasto incurrido y el pago de los costes de personal imputados. Sin perjuicio de lo indicado, podrán utilizarse los métodos simplificados admitidos por el apartado 1 de la presente norma.
 
 7. Terrenos y bienes inmuebles
 
@@ -90,6 +96,14 @@ e) Que pueda efectuarse un pago en efectivo a efectos de un contrato de arrendam
 
 4. A los efectos de determinación del valor de los derechos reales de disfrute y la nuda propiedad en que consista la contribución, se deberán seguir los criterios del artículo 10 del Texto Refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos aprobado por Real Decreto Legislativo 1/1993, de 24 de septiembre. En caso que la aportación consista en una cesión del uso del bien sin contraprestación pero no se constituya un derecho real, el valor de la misma será el resultante de aplicar las normas del Impuesto sobre el Valor Añadido para determinar la base imponible de la operación. Si el beneficiario o la operación no estuvieran sujetos a IVA, la valoración será la misma a la que procedería en caso de haberse constituido un usufructo. El valor resultante no podrá ser superior al generalmente aceptado en el mercado de referencia. Las aportaciones en especie de terrenos y bienes inmuebles deberán respetar, en su caso, los límites establecidos en la norma 7 de la presente orden.
 
+5. También serán elegibles las contribuciones en especie en formas distintas de terrenos y bienes inmuebles realizadas en el marco de operaciones destinadas a fomentar las capacidades de respuesta a la crisis en el contexto del brote de COVID-19 siempre que así lo establezca el programa operativo y conforme a los criterios que determine el comité se seguimiento en el documento de criterios y procedimientos de selección de operaciones. Deberán cumplirse los requisitos establecidos en las letras a) a d) del apartado 1 de la presente norma.
+
+10 bis. Capital circulante o capital de explotación
+
+1. Será subvencionable el apoyo a la financiación del capital circulante o de explotacion de las pymes en forma de subvención o asistencia reembolsable cuando sea necesario como medida temporal para dar una respuesta eficaz a una crisis de salud pública, siempre que se acredite la aplicación de los fondos a los fines previstos.
+
+2. Se entenderá por capital circulante o capital de explotación la diferencia entre el activo corriente y el pasivo corriente de una empresa según la normativa contable nacional, conforme a la definición incluida en el apartado 5 de la norma 16.
+
 11. Gastos de las administraciones y organismos públicos relativos a la preparación o ejecución de operaciones
 
 1. Además de la ayuda técnica para el programa operativo con arreglo al artículo 59 del Reglamento (UE) n.º 1303/2013, serán subvencionables los gastos siguientes abonados por las autoridades públicas durante la preparación o ejecución de una operación:
@@ -128,16 +142,36 @@ La información a que se refieren las letras a) a e) del presente apartado deber
 
 4. En los supuestos de contratación en un proyecto ejecutado por el propio beneficiario, lo que significa que controla plenamente su gestión y su ejecución, las opciones de costes simplificados podrán ser aplicables, incluso aunque se subcontraten algunas de las categorías de costes del proyecto, siempre que tal posibilidad esté prevista expresamente en el documento en el que se establecen las condiciones de ayuda para cada operación.
 
-13. Financiación a tipo fijo de los costes indirectos
+5. Sin perjuicio de las excepciones que se recogen en las normas siguientes, la autorización a que se refiere el apartado 1 de la presente norma no será necesaria:
+
+a) Cuando las opciones de costes simplificados se establezcan al objeto de cumplir con la obligación del artículo 67, apartado 2 bis del Reglamento (UE) n.º 1303/2013 en relación con proyectos y operaciones que reciban ayuda en forma de subvenciones o asistencia reembolsable y en las que la ayuda pública no sobrepase 100.000 euros. No se entenderá que los costes simplificados se establecen para cumplir con la mencionada obligación cuando su eficacia estuviera sujeta a disposiciones transitorias establecidas conforme al artículo 152, apartado 7 del Reglamento (UE) n.º 1303/2013;
+
+b) cuando las opciones de costes simplificados se establezcan en el marco de actuaciones destinadas a fomentar las capacidades de respuesta a la crisis en el contexto del brote de COVID-19, en cuyo caso deberá informarse a la autoridad de gestión de la opción de coste simplificado a utilizar y justificarse la relación de la actuación con la mencionada finalidad.
+
+13. Financiación a tipo fijo de los costes indirectos relativos a subvenciones y asistencia reembolsable
 
 1. Los costes indirectos subvencionables conforme a lo establecido en el artículo 5 de la presente orden podrán calcularse a un tipo fijo de hasta el 15 % de los costes directos de personal subvencionables sin que se esté obligado a efectuar cálculo alguno para determinar el tipo y sin que sea necesaria la autorización de la autoridad de gestión. A los efectos de determinar la base a la que se aplicará este porcentaje fijo, se podrán tener en cuenta los costes derivados de contratos de servicios prestados por personal externo o adscrito siempre que dichos costes puedan identificarse claramente.
 
 2. Podrán igualmente calcularse los costes indirectos subvencionables, previa autorización de la autoridad de gestión, a un tipo fijo que cumpla los requisitos establecidos en el artículo 68, apartado 1, letras a) y c) del Reglamento (UE) n.º 1303/2013.
 
-14. Opciones de costes simplificados aplicables a los costes de personal
+14. Opciones de costes simplificados aplicables a los costes de personal relativos a subvenciones y asistencia reembolsable
 
-1. Los costes de personal subvencionables de una operación podrán determinarse mediante la aplicación de una tarifa sobre el número de horas efectivamente dedicadas a la ejecución de dicha operación, sin necesidad de autorización por parte de la autoridad de gestión. La tarifa por hora aplicable se calculará dividiendo los costes brutos de empleo anuales justificados más recientes, correspondientes al periodo de referencia inmediato anterior de 12 meses consecutivos, por 1.720 horas. El número de horas será considerado el tiempo anual de trabajo estándar y puede utilizase sin que sea necesario efectuar ningún cálculo.
+1. Los costes de personal subvencionables de una operación podrán determinarse mediante la aplicación de una tarifa sobre el número de horas efectivamente dedicadas a la ejecución de dicha operación, sin necesidad de autorización por parte de la autoridad de gestión, siempre que la tarifa por hora aplicable se calcule en base a los últimos costes salariales brutos anuales documentados y conforme a lo establecido en el artículo 68 bis, apartados 2, 3 y 4, del Reglamento (UE) n.º 1303/2013.
 
-2. Para la determinación de los costes brutos de empleo anuales en el periodo de 12 meses a que se refiere el apartado anterior, solo se incluirán aquellos costes relacionados con la persona o personas que trabajan directamente en la operación y justifican la dedicación de parte de su actividad a la misma, bien en base a su salario real, bien a la media de los costes laborales de los empleados encuadrados en la misma categoría o nivel profesional. No se tendrán en cuenta los costes indirectos de empleo, entendidos como aquellos relacionados con el personal que realiza actividades de índole general.
+2. Para la determinación de los últimos costes salariales brutos anuales a que se refiere el apartado anterior, solo se incluirán aquellos costes relacionados con la persona o personas que trabajan directamente en la operación y justifican la dedicación de parte de su actividad a la misma, bien con base en su salario real, bien a la media de los costes laborales de los empleados encuadrados en la misma categoría o nivel profesional. No se tendrán en cuenta los costes indirectos de empleo, entendidos como aquellos relacionados con el personal que realiza actividades de índole general.
 
-3. El documento en el que se establecen las condiciones de la ayuda deberá recoger, además de los elementos a que se refiere la norma 12, la tarifa por hora resultante para cada trabajador o categoría de trabajador y, en su caso, la periodicidad con la que esta deba revisarse. El método y los cálculos utilizados para la determinación de los costes brutos anuales de empleo que permiten determinar la tarifa deberán estar disponibles para la autoridad de gestión u organismo intermedio y ser auditables.
+3. En el caso al que se refiere el apartado 1 de la presente norma, el documento en el que se establecen las condiciones de la ayuda deberá recoger, además de los elementos a que se refiere la norma 12, la tarifa por hora resultante para cada trabajador o categoría de trabajador y, en su caso, la periodicidad con la que esta deba revisarse. El método y los cálculos utilizados para la determinación de los costes salariales brutos anuales que permiten determinar la tarifa deberán estar disponibles para la autoridad de gestión u organismo intermedio y ser auditables.
+
+4. Los costes directos de personal de una operación podrán también calcularse a un tipo fijo de hasta el 20 % de los costes directos de dicha operación que no sean costes de personal, sin necesidad de efectuar cálculo alguno para determinar el tipo aplicable y sin necesidad de autorización de la autoridad de gestión, siempre y cuando los costes directos de la operación no incluyan contratos de obras públicas que superen el umbral indicado en la letra a) del artículo 4 de la Directiva 2014/24/UE.
+
+5. Podrán igualmente calcularse los costes de personal subvencionables de una operación, previa autorización de la autoridad de gestión, utilizando las opciones de costes simplificados previstos en el artículo 67, apartado 1, letras b), c) y d), del Reglamento (UE) n.º 1303/2013 siempre que se establezcan conforme a alguno de los métodos a que se refiere el artículo 67, apartado 5 del mencionado Reglamento.
+
+14 bis. Financiación a tipo fijo de los costes que no sean costes de personal
+
+1. Podrá emplearse un tipo fijo de hasta el 40 % de los gastos directos de personal subvencionables para cubrir el resto de costes subvencionables de una operación en los términos del artículo 68 ter del Reglamento (UE) n.º 1303/2013, sin necesidad de efectuar cálculo alguno para determinar el tipo aplicable y sin que sea necesaria la autorización de la autoridad de gestión. Para aplicar esta opción, los costes directos de personal no podrán haber sido determinados mediante un tipo fijo.
+
+2. Podrán igualmente calcularse determinadas categorías de costes distintas de las de personal, previa autorización de la autoridad de gestión, a un tipo fijo establecido por alguno de los métodos a que se refiere el artículo 67, apartado 5, del Reglamento (UE) n.º 1303/2013.
+
+> Se modifican las normas 6, 10, 12, 13 y 14 y se añaden la 10 bis y 14 bis, por el art. único.3 a 9 de la Orden HAC/114/2021, de 5 de febrero. Ref. BOE-A-2021-2045
+
+> Téngase en cuenta para su aplicación lo dispuesto en la disposición final única de la citada Orden.

@@ -22,14 +22,4 @@ d) gastos por servicios y conocimientos externos, y
 
 e) gastos de equipo.
 
-19. Opciones de costes simplificados en materia de costes de personal
-
-1. Además de la opción a la que se refiere la norma 14 de la presente orden, los costes de personal de una operación podrán calcularse como una cantidad a tanto alzado de hasta el 20 % de los costes directos distintos de los costes de personal de dicha operación, siempre que tal posibilidad esté prevista en la convocatoria de ayudas, y que establezca el método para determinar el tipo finalmente aplicable conforme a las siguientes opciones:
-
-a) un método justo, equitativo y verificable;
-
-b) un método aplicado a una categoría similar de operación o beneficiario en regímenes de subvenciones financiados enteramente por el Estado Miembro; o
-
-c) un método existente, con sus correspondientes tipos, aplicable en las políticas de la Unión a una categoría similar de operación y beneficiario.
-
-2. Tales circunstancias deberán figurar expresamente en el documento en el que se establecen las condiciones de la ayuda para cada operación.
+> Se suprime la norma 19 por el art. único.12 de la Orden HAC/114/2021, de 5 de febrero. Ref. BOE-A-2021-2045
