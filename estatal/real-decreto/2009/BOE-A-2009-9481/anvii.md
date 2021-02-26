@@ -62,7 +62,7 @@ Si están propulsadas por un motor eléctrico la relación potencia/peso será, 
 
 4. Para el permiso de la clase A2, motocicletas de dos ruedas simples de, al menos, 15 pulgadas en la rueda delantera, sin sidecar.
 
-Si están propulsadas por un motor de combustión interna, deberán tener una cilindrada no inferior a 395 cm³, una potencia no inferior a 20 kW ni superior a 35 kW y una relación potencia/peso no superior a 0,2 kW/kg.
+Si están propulsadas por un motor de combustión interna, deberán tener una cilindrada no inferior a 250 cm3, una potencia neta no inferior a 20 kW ni superior a 35 kW y una relación potencia/peso no superior a 0,2 kW/kg.
 
 Si están propulsadas por un motor eléctrico, la relación potencia/peso será, al menos, de 0,15 kW/kg.»
 
@@ -103,6 +103,8 @@ El compartimento de carga del remolque tendrá al menos 2 metros de ancho y 2 me
 17. Para la licencia de conducción que autorice a conducir los vehículos especiales agrícolas autopropulsados a que se refiere el artículo 6.1.b) se utilizará un conjunto compuesto por un tractor agrícola de ruedas, que tenga una masa en vacío superior a 1.000 kg y una longitud mínima de 3 metros, y un remolque agrícola de anchura no inferior a 2 metros, longitud, excluida la lanza, no inferior a 4 metros y una masa máxima autorizada superior a 750 kg.
 
 18. Como excepción a lo dispuesto en el apartado A) 7, para la licencia de conducción que autorice a conducir los vehículos especiales agrícolas autopropulsados a que se refiere el artículo 6.1 b) y para el permiso de las clases C1+E, C+E, D1+E y D+E, se podrán utilizar remolques de ejes centrales fijos.
+
+> Se modifica el segundo párrafo del apartado 4 de la letra B) por el art. único de la Orden INT/156/2021, de 23 de febrero. Ref. BOE-A-2021-2900
 
 > Se modifica el punto 4 del apartado A) y los puntos 4 y 18 del apartado B) por el art. único.15 del Real Decreto 971/2020, de 10 de noviembre. Ref. BOE-A-2020-13970
 
