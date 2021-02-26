@@ -1,0 +1,1 @@
+Téngase en cuenta que el presente Acuerdo prorrogaba la eficacia de las previsiones contenidas en los Acuerdos del Consejo de Ministros de 22 de diciembre de 2020 y de 2 de febrero de 2021, hasta las 18:00 horas del día 16 de marzo de 2021, por lo que debe entenderse que ha perdido su vigencia.
