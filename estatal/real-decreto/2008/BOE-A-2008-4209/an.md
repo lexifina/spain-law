@@ -30,7 +30,7 @@ g) Evaluación del rendimiento de los catadores.
 
 h) Evaluación del rendimiento del panel.
 
-i) Sesiones de cata. Organización y control de los elementos necesarios.
+i) Sesiones de cata. Organización y control mediante análisis de muestras de diferentes variedades, diferentes grado de madurez, diferente tipo de defectos y diferentes categorías de aceites.
 
 j) La acreditación y las normas básicas que la componen.
 
@@ -41,3 +41,5 @@ El Ministerio de Agricultura, Pesca y Alimentación, podrá organizar un curso p
 ## C. Cursos de las comunidades autónomas
 
 Los cursos de jefes de panel autorizado para la realización del control oficial que organicen las comunidades autónomas en el ámbito de sus competencias, deberán tener el contenido mínimo señalado en el apartado A de este anexo.
+
+> Se modifica la letra i) de la sección A por el art. único.7 del Real Decreto 83/2021, de 9 de febrero. Ref. BOE-A-2021-2980
