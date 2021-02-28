@@ -1,0 +1,30 @@
+# Orden HAC/172/2021, de 25 de febrero, por la que se establecen la estructura y el funcionamiento del censo de obligados tributarios por el Impuesto Especial sobre la Electricidad, se aprueba el modelo 560, "Impuesto Especial sobre la Electricidad. Autoliquidación", y se determinan la forma y el procedimiento para su presentación.
+
+- Identificador: BOE-A-2021-3101
+- Rango: Orden
+- Fecha de disposición: 2021-02-25
+- Publicación: 2021-02-27
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2021-3101
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [(preambulo)](pr.md)
+- [Artículo 1](a1.md)
+- [Artículo 2](a2.md)
+- [Artículo 3](a3.md)
+- [Artículo 4](a4.md)
+- [Artículo 5](a5.md)
+- [Artículo 6](a6.md)
+- [Disposición adicional primera](da.md)
+- [Disposición adicional segunda](da-2.md)
+- [Disposición transitoria única](dt.md)
+- [Disposición derogatoria única](dd.md)
+- [Disposición final primera](df.md)
+- [Disposición final segunda](df-2.md)
+- [Disposición final tercera](df-3.md)
+- [(firma)](fi.md)
+- [ANEXO I](ai.md)
+- [ANEXO II](ai-2.md)
+- [ANEXO III](ai-3.md)
