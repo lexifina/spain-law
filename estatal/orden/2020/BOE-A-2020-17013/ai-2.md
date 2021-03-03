@@ -8,15 +8,21 @@ Se considerará zona de vacunación voluntaria frente al serotipo 1 del virus de
 
 1. En la Comunidad Autónoma de Andalucía:
 
-a) En la provincia de Huelva: la comarca veterinaria de Aracena (Sierra Oriental).
+a) En la provincia de Huelva: la comarca veterinaria de Aracena (Sierra Oriental) y la comarca de Cortegana (Sierra Occidental).
 
-b) En la provincia de Jaén: las comarcas veterinarias de Alcalá la Real (Montes Occidentales), Beas de Segura (Sierra Segura), Cazorla (Sierra de Cazorla), Huelma (Sierra Mágina), Jaén (Campiña de Jaén), Linares (Sierra Morena/Campiña Jaén), Santiesteban del Puerto (El Condado) y Úbeda (La Loma).
+b) La provincia de Jaén.
 
 c) En la provincia de Sevilla: la comarca veterinaria de Cazalla de la Sierra (Sierra Norte).
 
+d) En la provincia de Córdoba: las comarcas veterinarias de Baena, Guadajoz y Campiña Este, Hinojosa del Duque (Pedroches II), Lucena (Subbética), Montilla (Campiña Sur), Montoro (Alto Guadalquivir), Peñarroya-Pueblonuevo (Valle del Guaditato), Pozoblanco (Pedroches I) y Villanueva de Córdoba (Pedroches III).
+
 2. En la Comunidad Autónoma de Extremadura:
 
-En la provincia de Badajoz: las comarcas veterinarias de Azuaga, Badajoz, Castuera, Don Benito, Jerez de los Caballeros, Herrera del Duque, Mérida y Zafra.
+La provincia de Badajoz.
+
+3. En la Comunidad Autónoma de Castilla-La Mancha:
+
+En la provincia de Ciudad Real: las comarcas veterinarias de Almadén, Almodóvar del Campo y Piedrabuena.
 
 Parte B: Zona de vacunación voluntaria frente al serotipo 4 del virus de la lengua azul
 
@@ -42,17 +48,15 @@ c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Riba
 
 5. En la Comunidad Autónoma de Andalucía:
 
-a) En la provincia de Huelva: la comarca veterinaria de Aracena (Sierra Oriental).
+a) En la provincia de Huelva: la comarca veterinaria de Aracena (Sierra Oriental) y la comarca de Cortegana (Sierra Occidental).
 
-b) En la provincia de Jaén: las comarcas veterinarias de Alcalá la Real (Montes Occidentales), Beas de Segura (Sierra Segura), Cazorla (Sierra de Cazorla), Huelma (Sierra Mágina), Jaén (Campiña de Jaén), Linares (Sierra Morena/Campiña Jaén), Santiesteban del Puerto (El Condado) y Úbeda (La Loma).
+b) La provincia de Jaén.
 
 c) En la provincia de Sevilla: la comarca veterinaria de Cazalla de la Sierra (Sierra Norte).
 
-6. En la Comunidad Autónoma de Extremadura:
+d) En la provincia de Córdoba: las comarcas veterinarias de Baena, Guadajoz y Campiña Este, Hinojosa del Duque (Pedroches II), Lucena (Subbética), Montilla (Campiña Sur), Montoro (Alto Guadalquivir), Peñarroya-Pueblonuevo (Valle del Guaditato), Pozoblanco (Pedroches I) y Villanueva de Córdoba (Pedroches III).
 
-a) En la provincia de Badajoz: las comarcas veterinarias de Azuaga, Castuera, Don Benito, Herrera del Duque, Mérida y Zafra.
-
-b) En la provincia de Cáceres: las comarcas veterinarias de Cáceres, Logrosán (Zorita), Navalmoral de la Mata, Plasencia y Trujillo.
+6. La Comunidad Autónoma de Extremadura.
 
 7. En la Comunidad Autónoma de Castilla-La Mancha:
 
@@ -90,4 +94,4 @@ c) Los siguientes municipios de la comarca veterinaria de Sangüesa: Aibar/Oibar
 
 a) En la provincia de Araba/Álava: Alegría-Dulantzi, Amurrio, Añana, Armiñón, Arraia-Maeztu, Arratzua-Ubarrundia, Artziniega, Asparrena, Ayala/Aiara, Baños de Ebro/Mañueta, Barrundia, Berantevilla, Bernedo, Campezo/Kanpezu, Elburgo/Burgelu, Elciego, Elvillar/Bilar, Erriberabeitia, Erriberagoitia/Ribera Alta, Harana/Valle de Arana, Iruña Koa/Iruña de Oca, Iruraiz-Gauna, Kripan, Kuartango, Labastida/Bastida, Lagrán, Laguardia, Lanciego/Lantziego, Lantarón, Lapuebla de Labarca, Laudio/Llodio, Legutio, Leza, Moreda de Álava/Moreda Araba, Navaridas, Okondo, Oyón-Oion, Peñacerrada-Urizaharra, Salvatierra/Agurain, Samaniego, San Millán/Donemiliaga, Urkabustaiz, Valdegovía/Gaubea, Villanueva de Álava/Eskuernaga, Vitoria-Gasteiz, Yécora/Iekora, Zalduondo, Zambrana, Zigoitia y Zuia.
 
-b) En la provincia de Bizkaia: las comarcas veterinarias de Karrantza y Enkarterri-Ezekeraldea, los siguientes municipios de la comarca veterinaria de Uribe Kosta-Bilbao: Bakio, Barrika, Berango, Bilbao, Derio, Erandio, Fruiz, Gamiz-Fika, Gatika, Getxo, Gorliz, Laukiz, Leioa, Lemoiz, Lezama, Loiu, Maruri-Jatabe, Meñaka, Mungia, Plentzia, Sondika, Sopela, Urduliz y Zamudio, y los siguientes municipios de la comarca veterinaria de Arratia-Nervión: Arakaldo, Arantzazu, Areatza, Arrankudiaga, Arrigorriaga, Artea, Basauri, Bedia, Etxebarri, Galdakoa, Orozko, Ugao-Mirabelles, Urduña/Orduña, Zaratamo y Zeberio.
+> Se modifica por Resolución de 22 de febrero de 2021. Ref. BOE-A-2021-3290
