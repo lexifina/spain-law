@@ -18,10 +18,12 @@ g) El control de la ultimación del régimen de tránsito de la Unión.
 
 h) El inicio, instrucción y resolución de los expedientes sancionadores que se deriven de las actuaciones administrativas enumeradas en las letras anteriores, sin perjuicio de lo previsto en el apartado décimo de esta resolución.
 
-i) La instrucción de los atestados que procedan en el caso de presuntos delitos flagrantes con ocasión de los controles anteriores, en especial el de contrabando previsto en la Ley Orgánica 12/1995, de 12 de diciembre, de Represión del Contrabando.
+i) La formulación de denuncias y, en su caso, la instrucción de los atestados que procedan en el caso de presuntos delitos flagrantes con ocasión de los controles anteriores, en especial el de contrabando previsto en la Ley Orgánica 12/1995, de 12 de diciembre, de Represión del Contrabando.
 
 j) La dirección de las actuaciones que los Resguardos Fiscal y Aduanero lleven a cabo dentro de los establecimientos y recintos aduaneros en los que desempeñen sus funciones.
 
 2. Las funciones anteriormente indicadas serán desarrolladas por Equipos y Unidades de Aduanas e Impuestos Especiales en función de la distribución de tareas y funciones que realice el titular de la Administración de Aduanas e Impuestos Especiales; en su defecto, serán asumidas por éste.
 
 3. En los casos de ausencia, vacante o enfermedad del titular de la misma, éste será sustituido por el funcionario que designe el Delegado Especial de la Agencia Tributaria o Delegado Especial Adjunto de quien dependa la Administración, oído el titular de la Dependencia Regional de Aduanas e Impuestos Especiales.
+
+> Se modifica el apartado 1.i) por la disposición final 1.2 de la Resolución de 25 de febrero de 2021. Ref. BOE-A-2021-3306

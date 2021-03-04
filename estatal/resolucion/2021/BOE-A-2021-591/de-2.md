@@ -46,8 +46,10 @@ a) En relación con los procedimientos de control de las declaraciones, en funci
 
 No obstante, en el caso de las declaraciones en aduana sujetas a control documental sin modificación de los datos declarados y siempre que se pueda conceder el levante, la competencia se extenderá a todo el territorio español, salvo las que amparen mercancías presentadas a despacho aduanero en las Islas Canarias y en las ciudades autónomas de Ceuta y Melilla.
 
-b) En el supuesto de despacho centralizado, la comprobación material de las mercancías se realizará en función del lugar del depósito temporal de éstas.
+b) En el supuesto de despacho centralizado, la comprobación material de las mercancías se realizará en función del lugar del depósito de éstas.
 
 c) La competencia para la vigilancia y control de las mercancías se determinará en función de la adscripción del establecimiento habilitado para su depósito o almacenamiento.
 
 d) La competencia para la comprobación de la ultimación del régimen de tránsito se determinará en función del lugar de presentación de la declaración en aduana de la vinculación de la mercancía a este régimen.
+
+> Se modifica el apartado 5.b) por la disposición final 1.4 de la Resolución de 25 de febrero de 2021. Ref. BOE-A-2021-3306

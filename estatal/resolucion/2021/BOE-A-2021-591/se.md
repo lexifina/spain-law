@@ -14,7 +14,7 @@ b) La Oficina Nacional de Gestión de Aduanas e Impuestos Especiales dirigida po
 
 Las Áreas, dirigidas por sus respectivos titulares, podrán estar integradas por los Equipos y Unidades de Aduanas e Impuestos Especiales que en cada caso se determinen, que podrán estar situados en alguna de las sedes de una Delegación Especial concreta o en la de una Administración de Aduanas e Impuestos Especiales.
 
-c) Los Equipos y Unidades de Aduanas e Impuestos Especiales integrados en las Áreas podrán realizar las siguientes actuaciones:
+c) Los Equipos de Aduanas e Impuestos Especiales integrados en las Áreas podrán realizar las siguientes actuaciones:
 
 1.º Las de inicio, instrucción y resolución de las autorizaciones de su competencia.
 
@@ -75,3 +75,5 @@ e) La Oficina Nacional de Investigación de Aduanas e Impuestos Especiales podr�
 f) En el desarrollo de las funciones de inspección e investigación, el titular de la Oficina Nacional de Investigación de Aduanas e Impuestos Especiales y su adjunto(a) tendrán la consideración de Inspector Jefe.
 
 g) En los casos de ausencia, vacante o enfermedad del titular de la Oficina Nacional de Investigación de Aduanas e Impuestos Especiales, éste será sustituido, por el Adjunto y, en su defecto, por quien designe el titular del Departamento.
+
+> Se modifica el apartado 1.c) por la disposición final 1.1 de la Resolución de 25 de febrero de 2021. Ref. BOE-A-2021-3306
