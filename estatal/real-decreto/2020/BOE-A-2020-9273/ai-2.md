@@ -26,3 +26,11 @@ A tenor de lo informado en la Conferencia Sectorial de Energía, de 17 de febrer
 | Ceuta. | 414.000,00 |
 | Melilla. | 408.000,00 |
 | Total. | 300.000.000,00 |
+
+> Téngase en cuenta que se amplía el presupuesto de Asturias, País Vasco y Navarra, según establece el apartado segundo de la Resolución de 24 de febrero de 2021, del Consejo de Administración, publicada por Resolución de 3 de marzo de 2021, del Instituto para la Diversificación y Ahorro de la Energía, E.P.E., M.P. Ref. BOE-A-2021-3490, de la siguiente forma:
+
+> – Gobierno del Principado de Asturias: ampliar el presupuesto de 7.596.000 euros asignado inicialmente, en 40.000.000 euros, totalizando 47.596.000 euros.
+
+> – Gobierno Vasco: ampliar el presupuesto de 14.748.000 euros asignado inicialmente, en 14.500.000 euros, totalizando 29.248.000 euros.
+
+> – Gobierno de Navarra: ampliar el presupuesto de 4.125.000 euros asignado inicialmente, en 7.676.283,86 euros, totalizando 11.801.283,86 euros.
