@@ -345,6 +345,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 238](a238.md)
 - [Artículo 239](a239.md)
 - [Artículo 240](a240.md)
+- [Artículo 240 bis](a2-20.md)
 - [Artículo 241](a241.md)
 - [CAPÍTULO II](cii-7.md)
 - [Artículo 242](a242.md)

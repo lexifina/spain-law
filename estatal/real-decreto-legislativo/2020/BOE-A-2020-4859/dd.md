@@ -96,7 +96,7 @@ h) Disposición final sexta de la Ley 9/2012, de 14 de noviembre, de reestructur
 
 i) Artículo 10 del Real Decreto-ley 11/2013, de 2 de agosto, para la protección de los trabajadores a tiempo parcial y otras medidas urgentes en el orden económico y social.
 
-j) Artículo 21; artículo 31; apartado 18 del artículo 34; disposición transitoria de la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización.
+j) Artículo 21; artículo 31; disposición transitoria de la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización.
 
 k) Disposición final séptima de la Ley 26/2013, de 27 de diciembre, de cajas de ahorros y fundaciones bancarias.
 
@@ -121,3 +121,5 @@ t) Disposición final quinta de la Ley 20/2015, de 14 de julio, de ordenación, 
 u) Artículo 1 y disposición transitoria primera de la Ley 25/2015, de 28 de julio, de mecanismo de segunda oportunidad, reducción de carga financiera y otras medidas de orden social.
 
 v) Disposición final quinta de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se modifica la letra j) del apartado 2 por la disposición final 5 del Real Decreto-ley 5/2021, de 12 de marzo. Ref. BOE-A-2021-3946#df-5
