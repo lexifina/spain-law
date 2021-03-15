@@ -1,0 +1,7 @@
+## Quinto. Fecha de pago de las deudas pagadas mediante transferencia bancaria y efectos liberatorios para el obligado.
+
+De acuerdo con lo establecido en el artículo 37 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio, a todos los efectos recaudatorios, se considerará que el ingreso en el Tesoro Público de las cantidades recibidas mediante transferencia se produce en la fecha en la que se realiza la operación de abono en alguna de las cuentas restringidas citadas en los puntos 3 y 4 del apartado anterior, siempre y cuando se haya validado correctamente el identificador de pago y se hayan cotejado los datos de pago.
+
+Se recordará esta circunstancia en la Sede electrónica de la Agencia Tributaria cuando el interesado opte por este medio de pago, advirtiéndole expresamente de que la fecha de pago será la del abono en la cuenta restringida que corresponda de las previstas en el apartado 2 del artículo 5 de la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de junio, por el que se aprueba el Reglamento General de Recaudación, en relación con las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria.
+
+Los efectos liberatorios que procedan en cada caso para el obligado al pago ante la Agencia Tributaria, se producirán también desde la fecha aludida en los párrafos anteriores de este apartado.
