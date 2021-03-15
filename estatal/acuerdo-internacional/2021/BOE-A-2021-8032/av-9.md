@@ -1,0 +1,11 @@
+## Artículo V. Supervisión y evaluación.
+
+Supervisión.
+
+1. El Fondo se supervisará de conformidad con lo dispuesto en el Mandato. Los donantes, el responsable del Fondo nombrado por el Secretario General, el Comité Asesor y el Agente Administrativo mantendrán consultas, como mínimo, una vez al año y según proceda para revisar la situación del Fondo. Además, debatirán toda modificación sustancial del Fondo y se notificarán recíprocamente de inmediato cualquier circunstancia significativa o riesgo grave, en particular, los relacionados con el artículo VIII, que interfiera o pueda interferir en la consecución de los resultados previstos en el Mandato, financiados total o parcialmente mediante las contribuciones de los donantes.
+
+Evaluación.
+
+2. El responsable del Fondo nombrado por el Secretario General, previa consulta con el Comité Asesor, encargará revisiones y evaluaciones independientes sobre el funcionamiento general del Fondo.
+
+3. Asimismo, las Partes reconocen que los donantes, por su propia iniciativa y de manera individual o en colaboración con otros socios, podrán evaluar o revisar su apoyo a los programas a través del Fondo, con vistas a determinar el grado de consecución de los resultados y la medida en que se han utilizado las contribuciones de la forma prevista. Estas iniciativas se notificarán al Agente Administrativo, al responsable del Fondo nombrado por el Secretario General, al Comité Asesor y a las Organizaciones de las Naciones Unidas Receptoras, con los que se mantendrán consultas sobre el alcance y la ejecución de tales evaluaciones y revisiones, en las cuales se les invitará a tomar parte. Previa petición, las mencionadas Organizaciones, el responsable del Fondo nombrado por el Secretario General, el Comité Asesor y el Agente Administrativo colaborarán proporcionando información dentro de los límites que les impongan sus normas, reglas, políticas y procedimientos. El donante o donantes respectivos correrán con todos los gastos, salvo acuerdo en contrario. Los donantes y las Partes reconocen que dichas evaluaciones o revisiones no constituyen auditorías de las finanzas, del cumplimiento ni de otros aspectos del Fondo, ni tampoco de los programas, proyectos o actividades financiados en virtud del presente Memorando de Entendimiento.
