@@ -1,0 +1,5 @@
+## Disposición final segunda. Impacto gradual de la aplicación de la metodología.
+
+1. Conforme a la disposición final tercera del Real Decreto-ley 1/2019, de 11 de enero, de medidas urgentes para adecuar las competencias de la Comisión Nacional de los Mercados y la Competencia a las exigencias derivadas del derecho comunitario en relación a las Directivas 2009/72/CE y 2009/73/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, sobre normas comunes para el mercado interior de la electricidad y del gas natural, las variaciones de los peajes de acceso que resulten de la metodología de cargos de este real decreto se podrán trasladar de forma gradual en un periodo máximo de cuatro años desde la entrada en vigor de los cargos calculados de acuerdo con la metodología establecida en este real decreto.
+
+2. La Ministra para la Transición Ecológica y el Reto Demográfico determinará, mediante la orden por la que se establezcan los precios de los cargos prevista en el artículo 7, el procedimiento para trasladar las variaciones de precios a los cargos durante dicho periodo transitorio.
