@@ -26,6 +26,8 @@ En el caso de que el periodo de prestación del servicio fuese menor a un año, 
 
 En todo caso, trascurrido el periodo de implantación de las Unidades de Respuesta, las cuantías deberán ser revisadas al objeto de hacer frente exclusivamente a los gastos de mantenimiento de las citadas Unidades.
 
+> Véase el art. único de la Orden INT/252/2021, de 16 de marzo, por el que se actualiza la cuantía de esta tasa, estableciendo dos modalidades de cuantía a abonar. Ref. BOE-A-2021-4309#au
+
 6. Gestión y liquidación.
 
 La gestión de la tasa corresponderá al Ministerio del Interior.
