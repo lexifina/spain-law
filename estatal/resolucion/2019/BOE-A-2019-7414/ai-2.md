@@ -24,7 +24,7 @@ i) Impulso y gestión en materia de tráfico y seguridad vial para el desarrollo
 
 j) Vigilancia del Dominio público.
 
-k) Arquitectura y Arquitectura Técnica de la Hacienda Pública.
+k) Arquitectura y Arquitectura Técnica.
 
 l) Ingeniería e Ingeniería Técnica.
 
@@ -34,7 +34,9 @@ n) Farmacia (solo para titulaciones universitarias).
 
 o) Vigilancia de conservación y explotación de carreteras.
 
-p) Monitor de protección radiológica.
+p) Conductores del G3 por sentencia.
+
+q) Delineantes del G4 (a extinguir).
 
 Al personal laboral que a la fecha de entrada en vigor del presente Convenio esté ocupando puestos en los que el contenido de la prestación laboral se corresponda con algunas de las funciones enumeradas en este anexo no le resultará de aplicación la regulación contenida en los títulos III y VI. Las previsiones contenidas en el título VII en materia de provisión de puestos de trabajo y movilidad le serán de aplicación en los términos descritos en esta disposición.
 
@@ -74,3 +76,7 @@ e) Provisión de puestos de trabajo
 Las vacantes de necesaria provisión, dotadas presupuestariamente, que se generen como consecuencia de la baja de los efectivos que son objeto de clasificación en el presente anexo serán provistas a través de los procedimientos descritos en el título VII de este Convenio, aplicando los criterios y requisitos establecidos en la regulación de cada uno de ellos.
 
 La cobertura de dichas vacantes se efectuará en los términos que corresponda, según el procedimiento de provisión y movilidad de que se trate, y estará dirigida únicamente al personal laboral fijo que a la fecha de entrada en vigor esté ocupando puestos de trabajo clasificados en el referido anexo II.
+
+> Se modifica la letra a) por Acuerdo de la Comisión Negociadora publicado por Resolución de 18 de marzo de 2021. Ref. BOE-A-2021-4611
+
+> Téngase en cuenta los efectos económicos desde el 1 de enero de 2020, según determina el apartado cuarto del Acuerdo.
