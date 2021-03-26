@@ -6,6 +6,8 @@ Las limitaciones previstas en el presente acuerdo se aplican a partir de las 09:
 
 > - desde las 9:00 horas del día 17 de febrero de 2021 (hora peninsular) hasta las 18:00 horas del día 2 de marzo de 2021 (hora peninsular), por el apartado segundo del Acuerdo de 9 de febrero de 2021, publicado por Orden PCM/118/2021, de 11 de febrero. Ref. BOE-A-2021-2131#se;
 
-> - y desde las 18:00 horas del día 2 de marzo de 2021 (hora peninsular) hasta las 18:00 horas del día 16 de marzo de 2021 (hora peninsular), por el apartado segundo del Acuerdo de 23 de febrero de 2021, publicado por Orden PCM/164/2021, de 24 de febrero. Ref. BOE-A-2021-2983#se
+> - desde las 18:00 horas del día 2 de marzo de 2021 (hora peninsular) hasta las 18:00 horas del día 16 de marzo de 2021 (hora peninsular), por el apartado segundo del Acuerdo de 23 de febrero de 2021, publicado por Orden PCM/164/2021, de 24 de febrero. Ref. BOE-A-2021-2983#se
 
-> - y desde las 18:00 horas del día 16 de marzo de 2021 (hora peninsular) hasta las 18:00 horas del día 30 de marzo de 2021 (hora peninsular), por el apartado segundo del Acuerdo de 9 de marzo de 2021, publicado por Orden PCM/222/2021, de 10 de marzo. Ref. BOE-A-2021-3839#se
+> - desde las 18:00 horas del día 16 de marzo de 2021 (hora peninsular) hasta las 18:00 horas del día 30 de marzo de 2021 (hora peninsular), por el apartado segundo del Acuerdo de 9 de marzo de 2021, publicado por Orden PCM/222/2021, de 10 de marzo. Ref. BOE-A-2021-3839#se
+
+> - y desde las 18:00 horas del día 30 de marzo de 2021 (hora peninsular) hasta las 00:00 horas del día 13 de abril de 2021 (hora peninsular), por el apartado primero del Acuerdo de 23 de marzo de 2021, publicado por Orden PCM/284/2021, de 24 de marzo. Ref. BOE-A-2021-4728#pr
