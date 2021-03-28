@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden JUS/909/2017, de 25 de septiembre, por la que se regula el procedimiento de notificación de las altas, bajas y modificaciones de fichas toxicológicas al registro de productos químicos del Servicio de Información Toxicológica del Instituto Nacional de Toxicología y Ciencias Forenses y de liquidación de la tasa correspondiente prevista en la Ley 10/2012, de 20 de noviembre, por la que se regulan determinadas tasas en el ámbito de la Administración de Justicia y del Instituto Nacional de Toxicología y Ciencias Forenses.
