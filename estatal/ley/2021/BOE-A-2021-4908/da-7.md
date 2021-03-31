@@ -1,0 +1,5 @@
+## Disposición adicional séptima. Suspensión del visado de inspección médica para el acceso a la triple terapia en la EPOC durante la vigencia de la emergencia sanitaria de la COVID-19.
+
+El Ministerio de Sanidad, en el ejercicio de sus competencias y de conformidad con lo dispuesto en el Real Decreto 618/2007, de 11 de mayo, suspenderá, con carácter excepcional y vigencia hasta la finalización de la emergencia sanitaria ocasionada por la COVID-19 en los términos previstos en esta Ley, el visado de inspección médica requerido en la prescripción de la triple terapia en la Enfermedad Pulmonar Obstructiva Crónica (EPOC) con la finalidad de evitar la exposición de estos pacientes al SARS-CoV-2 que pueda provocar esta mayor presencia en lugares de riesgo de contagio como hospitales o centros de salud.
+
+Asimismo, por acuerdo del Consejo de Ministros podrá extenderse esta suspensión del visado de inspección médica en relación con otras patologías, a los mismos efectos de evitar la exposición de los pacientes que las padezcan al contagio de SARS-CoV-2.
