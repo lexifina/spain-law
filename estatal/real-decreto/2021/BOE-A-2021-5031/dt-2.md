@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Garantía de continuidad en la ejecución de la política de I+D+I.
+
+Los procedimientos a que dé lugar el ejercicio de las competencias de los organismos públicos de investigación de la Administración General del Estado objeto de reorganización, cuya tramitación se hubiese iniciado con anterioridad a la fecha de entrada en vigor del presente real decreto continuarán tramitándose conforme a su propia normativa y por las unidades y autoridades que correspondan, de acuerdo con el régimen establecido en este real decreto para asegurar el eficaz cumplimiento de las obligaciones de servicio público legalmente asignadas a los organismos públicos de investigación integrados.
