@@ -29,7 +29,7 @@ Fecha límite de la comunicación: 1 octubre.
 
 (*) Datos referidos a la campaña vitícola precedente a la de la comunicación.
 
-Cuadro B. Información sobre derechos de plantación inscritos a 31 de diciembre de 2015 en el registro vitícola y sin convertir en autorizaciones a 31 de julio de la campaña precedente a la de la comunicación
+## Cuadro B. Información sobre derechos de plantación inscritos a 31 de diciembre de 2015 en el registro vitícola y sin convertir en autorizaciones a 31 de julio de la campaña precedente a la de la comunicación
 
 | Comunidad Autónoma: |  |
 | --- | --- |
@@ -37,7 +37,7 @@ Cuadro B. Información sobre derechos de plantación inscritos a 31 de diciembre
 | Campaña vitícola: |  |
 | Superficie (ha) |
 | Derechos de plantación inscritos en el Registro Vitícola sin convertir a 31 de julio: |
-| Total (ha) | Desglose por fecha de caducidad hasta el 31 de diciembre de 2023 (ha) |
+| Total (ha) | Desglose por fecha de caducidad hasta el 31 de diciembre de 2025 (ha) |
 
 Fecha límite de la comunicación: 1 octubre.
 
@@ -72,3 +72,5 @@ Cuadro D. Inventario de autorizaciones de plantación concedidas y no utilizadas
 Fecha límite de la comunicación: 1 de octubre (para la primera vez: a más tardar el 1 de octubre de 2019).
 
 Datos referidos a 31 de julio de la campaña precedente a la de la comunicación.
+
+> Se sustituye la tabla del cuadro B por el art. único.8 del Real Decreto 201/2021, de 30 de marzo. Ref. BOE-A-2021-5030
