@@ -1,3 +1,0 @@
-## CAPÍTULO VI
-
-## Expediente electrónico
