@@ -32,7 +32,7 @@ a) Que sea público y su utilización sea disponible de manera gratuita o a un c
 
 b) Que su uso y aplicación no esté condicionado al pago de un derecho de propiedad intelectual o industrial.
 
-Familia: Se entiende por tal la agrupación de procedimientos administrativos atendiendo a criterios genéricos de similitud por razón de esquema de tramitación, documentación de entrada y salida e información, dejando al margen criterios de semejanza en la materia objeto del procedimiento, órgano competente, u otra información análoga.
+Ficheros de implementación de las políticas de firma: Son la representación en lenguaje formal (XML o ASN.1) de las condiciones establecidas en la política de firma, acorde a las normas técnicas establecidas por los organismos de estandarización.
 
 Firma electrónica: Conjunto de datos en forma electrónica, consignados junto a otros o asociados con ellos, que pueden ser utilizados como medio de identificación del firmante.
 
@@ -44,7 +44,7 @@ Imagen electrónica: Resultado de aplicar un proceso de digitalización a un doc
 
 Índice electrónico: Relación de documentos electrónicos de un expediente electrónico, firmada por la Administración, órgano o entidad actuante, según proceda y cuya finalidad es garantizar la integridad del expediente electrónico y permitir su recuperación siempre que sea preciso.
 
-Infraestructuras y servicios comunes: Instrumentos operativos que facilitan el desarrollo y despliegue de nuevos servicios, así como la interoperabilidad de los existentes, creando escenarios de relación multilateral y que satisfacen las necesidades comunes en los distintos ámbitos administrativos; son ejemplos la Red de comunicaciones de las Administraciones públicas españolas, la red transeuropea sTESTA, la plataforma de verificación de certificados electrónicos.
+Infraestructura o servicio común: capacidad organizativa y técnica que satisface necesidades comunes de los usuarios en diversos ámbitos de la Administración, junto con su gobernanza operativa de apoyo, que pueden tener carácter horizontal o sectorial, con diversos modos de provisión, como servicio o como producto, o integración a modo de plataforma, que facilitan la interoperabilidad, la seguridad, las economías de escala, la racionalización y la simplificación de la actuación administrativa.
 
 Interoperabilidad: Capacidad de los sistemas de información, y por ende de los procedimientos a los que éstos dan soporte, de compartir datos y posibilitar el intercambio de información y conocimiento entre ellos.
 
@@ -103,3 +103,5 @@ Soporte: Objeto sobre el cual o en el cual es posible grabar y recuperar datos.
 Trámite: Cada uno de los estados y diligencias que hay que recorrer en un negocio hasta su conclusión.
 
 Uso generalizado por los ciudadanos: Usado por casi todas las personas físicas, personas jurídicas y entes sin personalidad que se relacionen o sean susceptibles de relacionarse con las Administraciones públicas españolas.
+
+> Se modifica por la disposición final 2.11 del Real Decreto 203/2021, de 30 de marzo. Ref. BOE-A-2021-5032#df-2
