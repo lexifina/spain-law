@@ -1,0 +1,17 @@
+La Resolución de 2 de febrero de 2017, de la Dirección General de la Marina Mercante, por la que se desarrolla el procedimiento de revalidación de los certificados de suficiencia del Convenio sobre normas de formación, titulación y guardia para la gente de mar (STCW), estableció en su cláusula segunda, apartado 1.a), las condiciones de revalidación de los certificados de suficiencia de formación básica en seguridad. En este sentido, para quienes hayan estado embarcados tres meses en los últimos cinco años a bordo de un buque mercante o un buque pesquero de al menos 24 metros de eslora, la competencia profesional para la revalidación se acredita mediante la experiencia y un curso reducido de mantenimiento de la competencia.
+
+El objeto de esta nueva resolución es eximir a los integrantes de determinadas tripulaciones a realizar el curso reducido de mantenimiento de la competencia mientras presten servicio a bordo de esos buques. Esta decisión se adopta en aplicación del párrafo 5 de la Sección A-VI/1 del Código de Formación del Convenio STCW. Para ello se tiene en cuenta la operativa de a bordo, el tipo de buque y la zona geográfica por la que se navega. Las razones que fundamentan esta decisión son:
+
+– En primer lugar, la prolongada situación de pandemia y la situación de crisis sanitaria ocasionada por el COVID-19.
+
+– En segundo lugar, hay un elevado número de certificados de suficiencia de formación básica en seguridad que caducarán durante este año, que se suma una oferta escasa de cursos reducidos para revalidarlos, como consecuencia precisamente de la situación de crisis sanitaria.
+
+Asimismo, y a causa de las actuales circunstancias sanitarias, para las tripulaciones del resto de buques mercantes que sí tienen la obligación de realizar el correspondiente curso reducido de mantenimiento de la competencia, se hace necesario contemplar la posibilidad de solicitar una ampliación de la fecha de validez por el tiempo necesario hasta que se realice el curso comprometido correspondiente.
+
+Al margen de las citadas medidas, se hace aplicación de las disposiciones del Real Decreto 973/2009, de 12 de junio, por el que se regulan las titulaciones profesionales de la marina mercante. En concreto, su artículo 3.4 establece ciertas obligaciones formativas antes de asignarse cometidos a bordo y el artículo 40 las obligaciones de las empresas navieras, los capitanes, patrones, jefes de máquinas y oficiales de los buques mercantes españoles.
+
+Por otra parte, es necesario delimitar la situación de los instructores que realizan formación conducente a la obtención de los certificados de suficiencia regulados en los capítulos V y VI del anexo del Convenio STCW o sus correspondientes cursos de revalidación. En estos casos, se podrán revalidar sus propios certificados de acuerdo al procedimiento establecido en esta resolución.
+
+Por todo lo anterior, y en virtud de la disposición adicional tercera de la Orden FOM/2296/2002, de 4 de septiembre, por la que se regulan los programas de formación de los títulos profesionales de Marineros de Puente y de Máquinas de la Marina Mercante, y de Patrón Portuario, así como los certificados de especialidad acreditativos de la competencia profesional, por la que se faculta al Director General de la Marina Mercante para aprobar mediante resolución el contenido de los cursos de actualización o la modificación de los programas de los cursos de formación y condiciones mínimas de los centros, así como el contenido de los cursos para su homologación,
+
+Esta Dirección General resuelve:
