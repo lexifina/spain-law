@@ -2,6 +2,8 @@
 
 1. Se prorrogan los controles restablecidos temporalmente en la frontera interior terrestre con Portugal desde la 01:00 horas del 16 de marzo de 2021 hasta las 00:59 horas del 6 de abril de 2021.
 
+> Téngase en cuenta que se prorrogan los controles restablecidos temporalmente en la frontera interior terrestre con Portugal desde la 01:00 hora del 6 de abril de 2021 hasta las 00:59 horas del 16 de abril de 2021, según establece el art. único de la Orden INT/316/2021, de 1 de abril. Ref. BOE-A-2021-5247#au
+
 2. Solo se permitirá la entrada a territorio español a las siguientes personas:
 
 a) Ciudadanos españoles y su cónyuge o pareja con la que mantengan una unión análoga a la conyugal inscrita en un registro público, y aquellos ascendientes y descendientes que vivan a su cargo, siempre que viajen con o para reunirse con éste.
