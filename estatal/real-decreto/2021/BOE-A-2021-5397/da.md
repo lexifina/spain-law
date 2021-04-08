@@ -1,0 +1,3 @@
+## Disposición adicional única. Convenio entre el Ministerio de Agricultura, Pesca y Alimentación y SAECA.
+
+De conformidad con el artículo 16 de la Ley 38/2003, de 17 de noviembre, el Ministerio de Agricultura, Pesca y Alimentación suscribirá un convenio con SAECA para que ésta actúe como entidad colaboradora en el marco de las líneas de ayuda a la financiación del Ministerio de Agricultura, Pesca y Alimentación, que tendrá el contenido mínimo previsto en el apartado 3 de dicho artículo. En el caso de que exista un convenio en vigor con el mismo objeto no será necesario suscribir uno nuevo.
