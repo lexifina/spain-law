@@ -2,16 +2,22 @@
 
 ## Criterios mínimos de aceptabilidad
 
-1. Los criterios mínimos de aceptabilidad aplicables tendrán en cuenta las siguientes posibilidades de error en la clasificación:
+1) No serán aceptables errores en la categoría de la canal.
 
-a) Errores de tolerancia 0: errores de categoría y errores en 2 o más clases de conformación.
+2) Errores en la clase de conformación:
 
-b) Errores de tolerancia 1: errores en 1 clase de conformación y en 1 clase de engrasamiento.
+a) No serán aceptables los errores en 6 o más subclases de conformación en una misma canal.
 
-Cuando se utilicen subclases, 3 errores en estimación se subclases equivaldrán a 1 error en clase completa.
+b) No será aceptable un número de errores en subclases de conformación que sea igual o mayor al 60% del número de las canales evaluadas (esto equivale a 24 subclases en un ejercicio realizado sobre 40 canales).
 
-2. Valoración: Se considerarán errores no admisibles:
+3) Errores en el estado de engrasamiento:
 
-a) 1 o más errores de tolerancia 0
+a) No serán aceptables los errores en 2 o más clases de engrasamiento en una misma canal.
 
-b) Errores de tolerancia 1 que afecten a más del 20 % del total de las canales controladas
+b) No será aceptable un número de errores en 1 clase de engrasamiento que afecte a más del 20% del total de las canales evaluadas.
+
+c) En el caso de utilización de subclases, el error en 3 subclases equivaldrá a 1 error de clase completa.
+
+d) En el caso de utilización de subclases, el error en 1 ó 2 subclases no serán tenidos en cuenta.
+
+> Se modifica por el art. 1.11 del Real Decreto 145/2021, de 9 de marzo. Ref. BOE-A-2021-5485

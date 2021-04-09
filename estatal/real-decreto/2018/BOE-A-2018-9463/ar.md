@@ -4,6 +4,8 @@
 
 2. El modelo de la Unión de clasificación de canales a que se hace referencia en el artículo 10 del Reglamento (UE) n.º 1308/2013 de 17 de diciembre de 2013, se aplicará en todos los mataderos que sacrifiquen semanalmente más de 5 bovinos de ocho meses o más, como media anual.
 
-3. Con carácter voluntario se podrá realizar la clasificación de canales de bovinos de menos de ocho meses de edad, en cuyo caso los mataderos deberán adecuarse a lo establecido en el artículo 6 del presente real decreto y deberán designarse como animales de categoría V.
+3. Con carácter voluntario se podrá realizar la clasificación de canales de bovinos de menos de ocho meses de edad, en cuyo caso los mataderos deberán adecuarse a lo establecido en el capítulo II del presente Real Decreto y deberán designarse como animales de categoría V.
 
 4. El modelo de la Unión de clasificación de las canales de ovino será de aplicación voluntaria en España; no obstante, aquellos mataderos que decidan realizar la clasificación de canales deberán hacerlo de conformidad con las normas establecidas en el anexo IV, punto C, del Reglamento (UE) n.º 1308/2013, de 17 de diciembre de 2013, y en el artículo 10 del presente real decreto.
+
+> Se modifica el apartado 3 por el art. 1.1 del Real Decreto 145/2021, de 9 de marzo. Ref. BOE-A-2021-5485

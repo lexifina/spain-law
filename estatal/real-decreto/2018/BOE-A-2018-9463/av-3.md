@@ -26,10 +26,12 @@ c) el número de canales incorrectamente clasificadas tanto en conformación com
 
 9. Número de canales controladas en cuanto a la identificación, indicando el número de canales incorrectamente marcadas.
 
-10. Número de canales controladas en cuanto a la presentación, indicando el número de canales incorrectamente presentadas por falta de inclusión de factores correctores conforme al anexo II.
+10. Número de canales controladas en cuanto a la presentación, indicando el número de canales incorrectamente presentadas.
 
 11. En caso de clasificación automática, precisión de la máquina de clasificación en cuanto a conformación y estado de engrasamiento.
 
 12. Los datos de producción anual de vacuno en cabezas y en toneladas.
 
 13. Cualquier otra información que se solicite con carácter especial por parte de la Comisión Europea o el Ministerio de Agricultura, Pesca y Alimentación.
+
+> Se modifica el apartado 10 por el art. 1.12 del Real Decreto 145/2021, de 9 de marzo. Ref. BOE-A-2021-5485

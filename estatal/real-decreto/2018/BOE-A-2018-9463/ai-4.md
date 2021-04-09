@@ -2,20 +2,14 @@
 
 ## Contenido mínimo del curso formativo para la autorización de clasificadores
 
-1. Contenido teórico
+Aspectos legales y fundamentos del sistema de clasificación y registro de precios de las canales.
 
-Aspectos legales y fundamentos del sistema de clasificación y registro de precios de canales de vacuno.
+Modelos de la Unión Europea de clasificación de las canales.
 
-Modelos de la Unión de clasificación: canales de vacuno.
+Correctas prácticas de faenado y tipos de presentaciones autorizadas.
 
-2. Contenido práctico
+Pesaje, identificación y marcado de las canales.
 
-Correctas prácticas de faenado.
+Bases prácticas de la clasificación de canales y visionado de fotografías y, en su caso, vídeos.
 
-Preparación de las canales para su clasificación, presentación, pesada e identificación.
-
-Bases prácticas de la clasificación de canales de vacuno.
-
-Ejercicio selectivo sobre 40 canales de vacuno escogidas al azar.
-
-Comentario de resultados.
+> Se modifica por el art. 1.10 del Real Decreto 145/2021, de 9 de marzo. Ref. BOE-A-2021-5485
