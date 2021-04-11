@@ -1,0 +1,3 @@
+## Disposición adicional primera. Funcionarios procedentes de otras Administraciones educativas.
+
+A los funcionarios docentes de otras Administraciones educativas que desempeñen funciones docentes en el ámbito de gestión del Ministerio de Educación y Formación Profesional, percibiendo las retribuciones correspondientes a los Cuerpos docentes a los que pertenezcan, se les reconocerá la parte del complemento específico por el desempeño del cargo de dirección que hubiesen consolidado conforme a la regulación normativa de su Administración educativa de origen, y percibirán la cuantía de este complemento de acuerdo a las normas retributivas que tenga fijadas este Ministerio.
