@@ -1,0 +1,3 @@
+## Disposición adicional primera. Alumnos que hubieren ingresado por acceso directo en el centro docente de formación para la incorporación a la Escala de Oficiales.
+
+Los alumnos que hubieren ingresado por acceso directo en el centro docente de formación para la incorporación a la Escala de Oficiales del Cuerpo de la Guardia Civil durante el periodo desarrollado en la Academia General Militar y en el Centro Universitario de la Defensa en ella ubicado, se regirán por lo establecido en la normativa específica para los miembros de las escalas de oficiales de los Cuerpos Generales de las Fuerzas Armadas.
