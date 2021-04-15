@@ -26,6 +26,12 @@ De acuerdo con lo dispuesto en el artículo 35, apartados 1 y 4 de este Reglamen
 
 10.º En caso de fallecimiento del titular, si la persona que resulte adjudicataria definitiva del vehículo quisiera darlo de baja, aportará, además: la declaración de herederos o testamento acompañado de certificado de últimas voluntades o cuaderno particional en el que conste la adjudicación del vehículo.
 
+11.º Para el traslado a otro país y como justificación de que no se trata de un residuo, se exigirá acreditación de haber superado una inspección técnica, en base al Real Decreto 920/2017, de 23 de octubre, por el que se regula la inspección técnica de vehículos, en los 30 días previos a la solicitud de la baja por traslado a otro país o de la baja por exportación, si dicha inspección no consta ya anotada telemáticamente en el Registro de vehículos, en los siguientes casos:
+
+A) Vehículos con antigüedad superior a cuatro años desde su fecha de primera matriculación.
+
+B) Para cualquier vehículo que tras un accidente u otra causa, haya sufrido un daño importante que pueda afectar a algún elemento de seguridad.
+
 B) Bajas temporales.
 
 a) Voluntaria: artículo 36, apartado 1.a) del Reglamento.
@@ -75,5 +81,7 @@ A la vista de esta documentación, la Jefatura de Tráfico dirigirá un oficio a
 Si el vendedor es un empresario que actúa en el ejercicio de su actividad, podrá ser eximido de la presentación del citado documento.
 
 4.º En el caso de vehículo especial agrícola, documento acreditativo del alta en el Registro Oficial de Maquinaria Agrícola.
+
+> Se añade el apartado A).11º por la disposición final 1.6 del Real Decreto 265/2021, de 13 de abril. Ref. BOE-A-2021-5868#df
 
 > Se modifica el párrafo último del apartado C) por el art. 5.4 del Real Decreto 711/2006, de 9 de junio. Ref. BOE-A-2006-11051.

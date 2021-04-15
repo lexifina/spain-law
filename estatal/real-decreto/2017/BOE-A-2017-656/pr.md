@@ -1,1 +1,3 @@
-> Incluye la corrección de errores publicada en BOE núm. 73, de 27 de marzo de 2017. Ref. BOE-A-2017-3261
+Norma derogada, con efectos desde el 15 de abril de 2021 por la disposición derogatoria única del Real Decreto 265/2021, de 13 de abril. Ref. BOE-A-2021-5868#dd
+
+Téngase en cuenta que las referencias al presente Real Decreto contenidas en normas, acuerdos, contratos y documentos tanto públicos como privados se entenderán hechas al Real Decreto 265/2021, de 13 de abril, según establece su disposición derogatoria única.

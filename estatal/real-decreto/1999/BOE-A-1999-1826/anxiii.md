@@ -160,6 +160,8 @@ En caso de duplicado por extravío o sustracción, no será necesaria la present
 
 8.º Si se trata de vehículo especial agrícola, documento acreditativo de haber comunicado previamente la modificación en el Registro Oficial de Maquinaria Agrícola, en los supuestos de renovación del permiso de circulación.
 
+9.º Si se trata de un vehículo que ha sido previamente declarado como siniestro total por una entidad aseguradora, tras un accidente u otra causa, cuando el vehículo haya sufrido un daño importante que pueda afectar a algún elemento de seguridad, documento acreditativo de haber superado favorablemente una inspección ITV con fecha posterior a la declaración de siniestro total.
+
 D) Nueva matrícula por cambio de domicilio:
 
 De acuerdo con lo establecido en el artículo 27, apartado 2.b, de este Reglamento, para la concesión de una nueva matrícula en caso de cambio de domicilio, se presentará la siguiente documentación:
@@ -193,6 +195,8 @@ E) Cambio de matrícula por razones de seguridad:
 5.º La solicitud se considerará desestimada por el transcurso del plazo de un mes, a contar desde el día siguiente al de la entrada de la solicitud en el Registro de la Secretaría de Estado de Seguridad, sin que se hubiere dictado resolución expresa.
 
 6.º Las resoluciones otorgando la autorización del cambio de matrícula por razones de seguridad, además de ser notificadas al solicitante, serán comunicadas a la Dirección General de Tráfico a los efectos oportunos.
+
+> Se añade el apartado C).9º por la disposición final 1.5 del Real Decreto 265/2021, de 13 de abril. Ref. BOE-A-2021-5868#df
 
 > Se modifica el apartado A).4º por la disposición final 1 del Real Decreto 667/2015, de 17 de julio. Ref. BOE-A-2015-8047.
 
