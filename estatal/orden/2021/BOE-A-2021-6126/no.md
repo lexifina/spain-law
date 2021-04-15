@@ -1,0 +1,1 @@
+Téngase en cuenta que el presente Acuerdo prorrogaba los controles restablecidos temporalmente en la frontera interior terrestre con Portugal hasta las 00:59 horas del 1 de mayo de 2021, por lo que debe entenderse que ha perdido su vigencia.
