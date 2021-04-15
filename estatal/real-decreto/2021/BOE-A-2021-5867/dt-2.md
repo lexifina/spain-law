@@ -1,0 +1,9 @@
+## Disposición transitoria segunda. Planes de emergencia anteriores a la entrada en vigor del presente real decreto.
+
+1. Los titulares de las presas que a la entrada en vigor del presente real decreto se encontrasen clasificadas en las categorías A o B y contasen con un Plan de Emergencia aprobado por la Administración competente en materia de seguridad de presas y embalses, mantendrán dicha aprobación.
+
+2. Los expedientes relativos a la aprobación de los planes de emergencia iniciados con anterioridad a la entrada en vigor de este real decreto, se resolverán de acuerdo con las exigencias de la normativa vigente en el momento de la solicitud.
+
+3. Los titulares de las presas que a la entrada en vigor del presente real decreto se encontrasen clasificadas en las categorías A o B en virtud de las disposiciones jurídicas hasta ahora vigentes, y no hayan elaborado el Plan de Emergencia correspondiente, estarán obligados a presentarlo ante la Administración competente en materia de seguridad de presas y embalses, para su aprobación, en el plazo máximo de dos años para las presas clasificadas en la categoría A, y de cuatro años para las de categoría B, sin perjuicio de los procedimientos sancionadores ya iniciados y que se encuentren en fase de tramitación.
+
+4. En los supuestos contemplados en los apartados anteriores, cuando el Plan de Emergencia no hubiese sido implantado con anterioridad, los titulares estarán obligados a su implantación en el plazo de cuatro años tanto para las de categoría A como para las de categoría B, de acuerdo con el procedimiento establecido en la «Norma Técnica de Seguridad para la clasificación de las presas y para la elaboración e implantación de los planes de emergencia de las presas y sus embalses», que se recoge en el Anexo I del presente real decreto.
