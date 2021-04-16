@@ -1,0 +1,3 @@
+El Secretario de Estado de Educación y el Secretario General de Universidades, han firmado una Resolución de 7 de abril de 2021, conjunta de la Secretaría de Estado de Educación y la Secretaría General de Universidades, por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2020-2021.
+
+Para general conocimiento, dispongo su publicación en el «Boletín Oficial del Estado» como anejo a la presente Resolución.
