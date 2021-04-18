@@ -1,3 +1,7 @@
 ## Regla 38. Publicación de las cuentas anuales.
 
-La publicación en el Boletín Oficial del Estado de la información relativa a las cuentas anuales que determine la Intervención General de la Administración del Estado, de acuerdo con lo establecido en el artículo 136.4 de la Ley General Presupuestaria, se deberá efectuar en el plazo de un mes, contado desde la fecha en la que la Intervención General de la Administración del Estado presente las respectivas cuentas ante el Tribunal de Cuentas. Las entidades tendrán conocimiento de dicha fecha a través de los medios informáticos y telemáticos habilitados al efecto por la Intervención General de la Administración del Estado.
+Las cuentas anuales se publicarán por la Intervención General de la Administración del Estado anualmente en el portal de la Administración presupuestaria, dentro del canal “Registro de cuentas anuales del sector público”, de acuerdo con lo previsto en el artículo 136.2 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+Asimismo, la Intervención General de la Administración del Estado publicará en el "Boletín Oficial del Estado" el día 31 de julio la referencia al “Registro de cuentas anuales del sector público”, de acuerdo con lo previsto en el art. 136.3 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+> Se modifica por el art. 4 por Orden HAC/360/2021, de 14 de abril. Ref. BOE-A-2021-6124

@@ -1,24 +1,24 @@
-## Regla 62. Justificantes que han de acompañar a los documentos contables de gestión de créditos y ejecución de gasto
+## Regla 62. Justificantes que han de acompañar a los documentos contables de gestión de créditos y ejecución de gasto.
 
-1. Para la operación de apertura del presupuesto de gastos servirá de justificante la Ley de Presupuestos Generales del Estado publicada en el "Boletín Oficial del Estado", sin que sea necesario expedir documento contable alguno.
+1. Para la operación de apertura del presupuesto de gastos servirá de justificante la Ley de Presupuestos Generales del Estado publicada en el «Boletín Oficial del Estado», sin que sea necesario expedir documento contable alguno.
 
 2. A los documentos MC de modificaciones de crédito se unirá la resolución aprobatoria de la modificación presupuestaria.
 
-En el caso de créditos extraordinarios y suplementos de crédito constituirá justificación suficiente la inclusión en el propio documento contable de la oportuna referencia a la correspondiente norma legal, con indicación de la fecha de su publicación en el «Boletín Oficial del Estado».
+En el caso de créditos extraordinarios y suplementos de crédito constituirá justificación suficiente la inclusión en el propio documento contable de la oportuna referencia a la correspondiente norma legal, con indicación de la fecha de su publicación en el "Boletín Oficial del Estado".
 
 3. A los documentos RC positivos no se unirá ningún justificante adicional.
 
-Los documentos RC de signo negativo que se emitan como consecuencia de la renuncia a la tramitación del respectivo gasto o transferencia se justificarán con la renuncia o desistimiento, si existiesen, o con una memoria justificativa de la anulación solicitada, debiéndose adjuntar además, el certificado de existencia de crédito, en soporte papel o electrónico, relativo a la retención que se pretende anular.
+Los documentos RC de signo negativo que se emitan como consecuencia de la renuncia a la tramitación del respectivo gasto o transferencia se justificarán con la renuncia o desistimiento, si existiesen, o con una memoria justificativa de la anulación solicitada, debiéndose adjuntar, además, el certificado de existencia de crédito, en soporte papel o electrónico, relativo a la retención que se pretende anular.
 
-El resto de documentos RC negativos se justificarán con el acuerdo de aprobación del gasto o de adjudicación por un importe inferior al de la retención de crédito efectuada. Dado que dichos acuerdos quedarán unidos a los documentos A, D o AD que corresponda, al documento RC negativo deberá adjuntársele una memoria justificativa de la anulación solicitada.
+El resto de documentos RC negativos se justificarán con el acuerdo de aprobación del gasto o con los justificantes indicados en el primer y segundo párrafo del punto 5 siguiente que recojan un importe inferior al de la retención de crédito efectuada. Dado que dichos justificantes quedarán unidos a los documentos A, D o AD que corresponda, al documento RC negativo deberá adjuntársele una memoria justificativa de la anulación solicitada.
 
 4. A los documentos A de autorización de gasto se unirá el acuerdo o resolución que apruebe el gasto.
 
-Los documentos A de signo negativo se justificarán con la Resolución que anuló la aprobación del gasto o, en su caso, con el acuerdo de adjudicación por un importe inferior al de la aprobación inicial del gasto. Dicho acuerdo quedará unido al D, expresándose en el texto libre del A negativo una referencia a la contabilización de aquél.
+Los documentos A de signo negativo se justificarán con la Resolución que anuló la aprobación del gasto o, en su caso, con los justificantes indicados en el primer y segundo párrafo del punto 5 siguiente que recojan un importe inferior al de la aprobación inicial del gasto. Dichos justificantes quedarán unidos al D, expresándose en el texto libre del A negativo una referencia a la contabilización de aquél.
 
 5. A los documentos D de compromiso de gasto se unirá la resolución, acuerdo o contrato en que se formalice el compromiso de la Administración.
 
-En los compromisos de gasto derivados de contratos administrativos, cuando al expedir el documento D aún no se hubiese formalizado el contrato, en el texto libre del documento se hará constar dicha circunstancia, uniéndose al mismo el acuerdo de adjudicación definitiva. Una vez que se formalice el contrato, éste se unirá al documento OK que se expida como consecuencia de la primera certificación de obra o pago a cuenta.
+En los compromisos de gasto derivados de contratos administrativos, se podrá unir el acuerdo de adjudicación, en los supuestos en los que la Ley de Contratos del Sector Público permita el inicio de la ejecución del contrato con carácter previo a su formalización, si bien cuando el contrato, en su caso, se formalice, se deberá adjuntar con el primer documento OK que se expida en la ejecución del mismo. En los casos de contratos basados en Acuerdos Marco y sistemas dinámicos de adquisición los documentos contables irán acompañados del correspondiente acuerdo de adjudicación.
 
 Los documentos D de signo negativo se justificarán con el acuerdo de revocación del compromiso de gasto o de resolución del contrato. En el caso de cesión de contrato, el D negativo con los datos del cedente se justificará con una referencia al D que incorpore los datos del cesionario, justificándose este último con una copia de la escritura de cesión.
 
@@ -28,7 +28,9 @@ Los documentos D de signo negativo se justificarán con el acuerdo de revocació
 
 8. El documento PR se justificará con el acuerdo de prescripción de obligaciones.
 
-9. El criterio general de justificación de operaciones establecido en los números anteriores no será de aplicación a aquellos tipos de gasto para los que en el capítulo III de la presente Instrucción, o en sus normas reguladoras específicas, se establecen otros medios de justificación.
+9. El criterio general de justificación de operaciones establecido en los números anteriores no será de aplicación a aquellos tipos de gasto para los que en el Capítulo III de la presente Instrucción, o en sus normas reguladoras específicas, se establecen otros medios de justificación.
+
+> Se modifica por el art. 2.1 de la Orden HAC/360/2021, de 14 de abril. Ref. BOE-A-2021-6124
 
 > Se modifica el apartado 3 por el art. 2.5 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
 

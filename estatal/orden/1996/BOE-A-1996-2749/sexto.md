@@ -70,7 +70,13 @@ Se cumplimentarán tantos documentos contables “Anexo adicional de facturas”
 
 Si el número de facturas incluidas en el documento contable que contenga la fase “O” fuera solamente uno, o dos, no se utilizará este “Anexo adicional de facturas” para consignar los códigos del RCF de las facturas incluidas, sino que dichos códigos se incorporarán en el documento “Anexo Información Adicional”.
 
+y) Documento “Anexo Seguimiento Fondos Unión Europea”: Se utilizará para hacer el seguimiento de los gastos presupuestarios financiados con Fondos de la Unión Europea.
+
 2. Cuando se deba proceder a la anulación de cualquiera de las operaciones que se indican en el punto anterior, se expedirá un documento idéntico al confeccionado para el registro de la operación en cuestión pero de signo contrario.
+
+> Se añade la letra y) al apartado 1 por el art. 1.Uno de la Orden HAC/360/2021, de 14 de abril. Ref. BOE-A-2021-6124
+
+> Téngase en cuenta que la incorporación de datos específicos de seguimiento de los proyectos financiados con Fondos de la Unión Europea entrará en vigor el 17 de julio de 2021, según establece la disposición final única de la citada Orden. Véase la disposición transitoria 2 en cuanto al seguimiento de los proyectos financiados con Fondos de la Unión Europea desde el 1 de enero de 2021 hasta la entrada en vigor de la incorporación obligatoria de los datos específicos en SIC3.
 
 > Se añade la letra x) al apartado 1 por el art. 1.1 de la Orden HAC/787/2018, de 25 de julio. Ref. BOE-A-2018-10649
 

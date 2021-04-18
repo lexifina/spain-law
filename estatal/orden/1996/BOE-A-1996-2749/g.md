@@ -6,13 +6,15 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/1999/55/05362_020.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/1996/35/02749_062.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203247_1.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2010/111/07252_008.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_8204.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_8238.png)
+
+> Se modifica el documento contable «Soporte de asientos directos», con el formato que figura en el Anexo III, por el art. 1.Tres.4 de la Orden HAC/360/2021, de 14 de abril. Ref. BOE-A-2021-6124
 
 > Se suprime el documento contable «Periodificación de gastos» y se añaden los documentos contables «Operaciones devengadas» y «Rectificación de operaciones devengadas», por el art. 1.5.3 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
 

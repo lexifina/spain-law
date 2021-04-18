@@ -22,11 +22,13 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2010/111/07252_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_8059.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203246_1.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2010/111/07252_007.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_8092.png)
+
+> Se modifica el documento contable «Anexo datos adicionales», con el formato que figura en el Anexo II, por el art. 1.Tres.3 de la Orden HAC/360/2021, de 14 de abril. Ref. BOE-A-2021-6124
 
 > Se modifican los modelos de los documentos contables «Propuesta de mandamiento de pago por devolución de ingresos», «Propuesta de mandamiento de pago no presupuestaria», «Anexo datos adicionales» y «Propuesta de mandamiento de pago por devolución de ingresos multiárea», por el art. 1.5.2 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
 

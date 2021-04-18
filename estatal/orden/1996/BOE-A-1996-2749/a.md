@@ -4,33 +4,33 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_004.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_005.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_006.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_007.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/169/07814_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_4.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7740.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_5.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_008.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_6.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_009.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_7.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_8.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_9.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_10.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/106/7312_9292223_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/169/07814_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_11.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/169/07814_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_12.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2013/169/07814_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_13.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7775.png)
 
@@ -38,9 +38,9 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05488_017.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/280/13278_5805.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_14.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/280/13278_5963.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_15.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/280/13278_6036.png)
 
@@ -58,11 +58,17 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2008/51/03740_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/182/10649_5116.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_16.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/182/10649_5340.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/52/02186_7808.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_17.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_18.png)
+
+> Se modifican determinados documentos contables y se añade el modelo «Anexo Seguimiento Fondos Unión Europea», con los formatos que figuran en el Anexo I, por el art. 1.Tres.1 y 2 de la Orden HAC/360/2021, de 14 de abril. Ref. BOE-A-2021-6124. Redactada conforme a la corrección de errores, publicada en BOE núm 106, de 4 de mayo de 2021. Ref. BOE-A-2021-7312
+
+> Téngase en cuenta que la utilización obligatoria del indicador de embargabilidad en los documentos contables que contengan una propuesta de pago entrará en vigor el 14 de julio de 2021, y la incorporación de datos específicos de seguimiento de los proyectos financiados con Fondos de la Unión Europea entrará en vigor el 17 de julio de 2021, según establece la disposición final única de la citada Orden.
 
 > Se modifica el modelo «Anexo información adicional» y se añade el modelo «Anexo adicional de facturas» por el art. 1.4 y los anexos I y II de la Orden HAC/787/2018, de 25 de julio. Ref. BOE-A-2018-10649
 

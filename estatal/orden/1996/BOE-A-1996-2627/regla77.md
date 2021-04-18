@@ -12,7 +12,7 @@ En el caso de contratos de arrendamiento financiero, el Servicio gestor remitir�
 
 3. (Suprimido)
 
-4. A los documentos D o AD a que se refieren los puntos 2 y 3 anteriores, se podrá unir, para su envío a la oficina de contabilidad, el acuerdo de adjudicación definitiva en lugar del respectivo contrato cuando se vaya a demorar su formalización, con el fin de que no se retrase el registro contable de dichas operaciones, si bien dicho contrato se deberá adjuntar con el primer documento OK que se expida en la ejecución del mismo.
+4. A los documentos D o AD a que se refieren el punto 2 anterior, se podrá unir, para su envío a la oficina de contabilidad, el acuerdo de adjudicación, en los supuestos en los que la Ley de Contratos del Sector Público permita el inicio de la ejecución del contrato con carácter previo a su formalización, si bien cuando el contrato, en su caso, se formalice, se deberá adjuntar con el primer documento OK que se expida en la ejecución del mismo. En los casos de contratos basados en Acuerdos Marco y sistemas dinámicos de adquisición los documentos contables irán acompañados del correspondiente acuerdo de adjudicación.
 
 5. Cuando con respecto a los contratos en vigor, se originen modificaciones contractuales, reajustes de anualidades, revisiones de precios y liquidaciones, para la tramitación de estos expedientes se deberán expedir por los Servicios gestores los oportunos documentos RC de ejercicios posteriores y corriente. Cuando se registren dichos documentos por la oficina de contabilidad, se deberán obtener los oportunos certificados para unir a los respectivos expedientes.
 
@@ -23,6 +23,8 @@ Una vez aprobados los expedientes a los que se refieren los párrafos anteriores
 6. En los expedientes de cesiones de contratos, una vez otorgada la correspondiente escritura pública, el Servicio gestor expedirá documentos D negativos de ejercicio corriente y, en su caso, de ejercicios posteriores en los que figurará como interesado el adjudicatario-cedente, y, simultáneamente, documentos D positivos de ejercicio corriente y, en su caso, de ejercicios posteriores en los que figurará como interesado el cesionario. Dichos documentos contables se expedirán por el importe del contrato pendiente de ejecutar al formalizarse la cesión, debiéndose remitir a la oficina de contabilidad, junto con el respectivo expediente.
 
 7. Si se produce la resolución de algún contrato, el Servicio gestor deberá expedir documentos AD y RC negativos de ejercicio corriente y de ejercicios posteriores, por el importe no ejecutado del contrato según se deduzca de la liquidación que se practique.
+
+> Se modifica el apartado 4 por el art. 2.2 de la Orden HAC/360/2021, de 14 de abril. Ref. BOE-A-2021-6124
 
 > Se suprime el apartado 3 por el art. 2.6 de la Orden HFP/169/2017, de 27 de febrero. Ref. BOE-A-2017-2186.
 

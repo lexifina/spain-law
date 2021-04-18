@@ -1,5 +1,7 @@
-## Regla 43. Publicación del Resumen de la Cuenta de la Administración General del Estado.
+## Regla 43. Publicación de la Cuenta de la Administración General del Estado.
 
-Al objeto de que todos los posibles destinatarios de la información contable puedan disponer de datos sobre la actividad desarrollada por la Administración General del Estado, en el plazo de un mes contado desde la remisión de la Cuenta de la Administración General del Estado al Tribunal de Cuentas, la Intervención General de la Administración del Estado publicará en el «Boletín Oficial del Estado» la información contenida en el Resumen de dicha Cuenta al que se refiere el punto 3 de la Regla 39.
+Al objeto de que todos los posibles destinatarios de la información contable puedan disponer de datos sobre la actividad desarrollada por la Administración General del Estado, la Intervención General de la Administración del Estado publicará anualmente en el portal de la Administración presupuestaria, dentro del canal “Registro de cuentas anuales del sector público”, la Cuenta de la Administración General del Estado, de acuerdo con lo previsto en el artículo 136.2 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
 
-A efectos de la publicación indicada en el párrafo anterior, los datos del «Resumen de la Cuenta de la Administración General del Estado» podrán expresarse en una escala de cuenta distinta de la utilizada en los registros del SIC, la cual se fijará por la Intervención General de la Administración del Estado atendiendo fundamentalmente a una mayor claridad y comprensión de la misma.
+Asimismo, la Intervención General de la Administración del Estado publicará en el "Boletín Oficial del Estado" el día 31 de julio la referencia al “Registro de cuentas anuales del sector público”, de acuerdo con lo previsto en el art. 136.3 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+> Se modifica por el art. 5.4 de la Orden HAC/360/2021, de 14 de abril. Ref. BOE-A-2021-6124

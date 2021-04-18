@@ -8,7 +8,9 @@ b) Además de los ficheros mencionados, se remitirá la documentación indicada 
 
 Acompañando a la Cuenta de la Administración General del Estado, la Intervención General de la Administración del Estado remitirá al Tribunal de Cuentas un informe resumen sobre los acreedores por las operaciones devengadas en el ejercicio que se hayan puesto de manifiesto como resultado de las actuaciones de control reguladas en el artículo 159 de la Ley General Presupuestaria llevadas a cabo en el ámbito de los Departamentos Ministeriales.
 
-Una copia o duplicado de los ficheros y documentos anteriores quedará en poder de la Intervención General de la Administración del Estado, tanto a efectos estadísticos como de la obtención de la Cuenta General del Estado.
+Una copia de los ficheros y documentos anteriores quedará en poder de la Intervención General de la Administración del Estado, tanto a efectos estadísticos como de la obtención de la Cuenta General del Estado.
+
+> Se modifica el último párrafo por el art. 5.3 de la Orden HAC/360/2021, de 14 de abril. Ref. BOE-A-2021-6124
 
 > Se modifica por el art. 4.6 de la Orden HFP/1105/2017, de 16 de noviembre. Ref. BOE-A-2017-13278
 
