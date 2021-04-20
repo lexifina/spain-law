@@ -1,0 +1,13 @@
+La Constitución Española, en su artículo 129.2 hace referencia de forma expresa a la participación de los trabajadores en la empresa al establecer que los poderes públicos «promoverán eficazmente las diversas formas de participación en la empresa». La realización práctica de esa participación queda remitida a la legislación ordinaria que regula dicha participación como uno de los derechos básicos de los trabajadores, optando por configurar un sistema de representación participativa o de participación indirecta de los trabajadores a través de sus representantes.
+
+Esta participación a través de los organismos de representación del personal se concreta jurídicamente, por otra parte, en el reconocimiento de una serie de facultades instrumentales destinadas al ejercicio de la actividad de representación y a la satisfacción de un fin de defensa de la comunidad laboral representada.
+
+En desarrollo del referido derecho de participación constitucionalmente reconocido, el Acuerdo del Consejo de Ministros de 25 de enero de 2008, por el que se aprueba el Acuerdo de 3 de diciembre de 2007 de la Mesa General de Negociación de la Administración General del Estado sobre condiciones de trabajo para el personal laboral que presta servicios en el exterior al servicio de la Administración General del Estado, regula en su apartado 17 los Derechos de representación colectiva de este personal, sin perjuicio de la aplicación de la normativa de orden público de cada país.
+
+En este sentido, se recoge en dicho apartado el derecho de los trabajadores a la participación e interlocución a través de los órganos de representación, que serán elegidos mediante sufragio libre, personal, secreto y directo, a través del procedimiento que se acuerde por las partes en el correspondiente ámbito de negociación.
+
+Se recogen asimismo los derechos y deberes de los titulares de los órganos de representación, como facultades destinadas al ejercicio de sus funciones y a la satisfacción de sus correspondientes fines.
+
+En cumplimiento con lo dispuesto en el anteriormente citado Acuerdo de 25 de enero de 2008, la Comisión Técnica del personal laboral en el exterior, alcanzó la unanimidad sobre el procedimiento para la elección de los órganos de representación del personal laboral de la Administración General del Estado en el exterior, siendo posteriormente acordado por la Mesa General de Negociación de la Administración General del Estado.
+
+La Secretaría General de Función Pública, de conformidad con lo previsto en el Real Decreto 307/2020, de 11 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Política Territorial y Función Pública, resuelve:
