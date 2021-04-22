@@ -32,7 +32,7 @@ n) La Dirección General de Derechos de los Animales.
 
 ñ) La Dirección General de Migraciones.
 
-o) La Dirección General de Inclusión y Atención Humanitaria.
+o) Dirección General de Programas de Protección Internacional y Atención Humanitaria.
 
 p) La Dirección General para la Igualdad de trato y Diversidad Étnico Racial.
 
@@ -62,7 +62,9 @@ e) Dirección General del Instituto de la Juventud.
 
 f) Dirección General del Instituto para la Transición Justa.
 
-> Se añade ña letra u) al apartado 1 por el art. 1.1 del Real Decreto 146/2021, de 9 de marzo de 2021. Ref. BOE-A-2021-3840
+> Se modifica la letra o) del apartado 1 por el art. 1.2 del Real Decreto 286/2021, de 20 de abril. Ref. BOE-A-2021-6308
+
+> Se añade la letra u) al apartado 1 por el art. 1.1 del Real Decreto 146/2021, de 9 de marzo de 2021. Ref. BOE-A-2021-3840
 
 > Se añade la letra v) al apartado 1 por el art. 1.2 del Real Decreto 147/2021, de 9 de marzo. Ref. BOE-A-2021-3701
 
