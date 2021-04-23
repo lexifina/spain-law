@@ -4,4 +4,8 @@
 
 2. Igualmente, el Ministro de Hacienda y Función Pública, mediante Orden, definirá las especificaciones técnicas de las comunicaciones de datos que deban efectuarse en cumplimiento de la presente Ley y establecerá los modelos que deban utilizarse.
 
+> Téngase en cuenta que se declara que el apartado 2 no es conforme con el orden constitucional de competencias, en los términos del fundamento jurídico 8 F), por la Sentencia del TC 68/2021, de 18 de marzo. Ref. BOE-A-2021-6614
+
 3. El Consejo de Ministros, a propuesta de los Ministros de Hacienda y Función Pública y de Energía, Turismo y Agenda Digital, adoptará las medidas necesarias para facilitar la emisión de facturas electrónicas por las personas y entidades que contraten con el sector público estatal, garantizando la gratuidad de los servicios de apoyo que se establezcan para las empresas cuya cifra de negocios en el año inmediatamente anterior y para el conjunto de sus actividades sea inferior al umbral que se fije en la Orden a que se refiere el párrafo anterior.
+
+> Se declara que el apartado 2 no es conforme con el orden constitucional de competencias, en los términos del fundamento jurídico 8 F), por la Sentencia del TC 68/2021, de 18 de marzo. Ref. BOE-A-2021-6614
