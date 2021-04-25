@@ -1,0 +1,3 @@
+## Disposición final segunda. Incorporación de derecho de la Unión Europea.
+
+Mediante este real decreto se incorpora al derecho español la Directiva 2003/59/CE, del Parlamento Europeo y del Consejo, de 15 de julio de 2003, adaptada por las Directivas 2004/66/CE y 2006/103/CE del Consejo y la Directiva (UE) 2018/645 del Parlamento Europeo y del Consejo, de 18 de abril, por la que se modifica la Directiva 2003/59/CE, relativa a la cualificación inicial y la formación continua de los conductores de determinados vehículos destinados al transporte de mercancías o de viajeros por carretera y la Directiva 2006/126/CE sobre el permiso de conducción, en lo que a la Directiva 2003/59/CE se refiere.

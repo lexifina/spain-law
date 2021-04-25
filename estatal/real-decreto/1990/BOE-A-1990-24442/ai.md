@@ -30,7 +30,7 @@ A. Infracciones administrativas cuya comisión dará lugar a la pérdida del req
 
 13. Transportar mercancías peligrosas por carretera cuando no esté permitido hacerlo, tipificada en los artículos 140.15.6 de la LOTT y 197.16.6 de este Reglamento y en el apartado 1 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
 
-14. Utilizar para el transporte de mercancías peligrosas vehículos o depósitos distintos a los prescritos en las normas que regulen el transporte de las mercancías de que se trate, tipificada en los artículos 140.15.7 de la LOTT y 197.16.7 de este Reglamento y en el apartado 2 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
+14. Utilizar para el transporte de mercancías peligrosas vehículos o depósitos distintos a los prescritos en las normas que regulen el transporte de las mercancías de que se trate o que carezcan de aprobación, tipificada en los artículos 140.15.7 de la LOTT y 197.16.7 de este Reglamento y en el apartado 2 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
 
 15. No identificar el transporte de mercancías peligrosas en el exterior del vehículo, tipificada en los artículos 140.15.11 de la LOTT y 197.16.11 de este Reglamento y en el apartado 3 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
 
@@ -40,13 +40,13 @@ A. Infracciones administrativas cuya comisión dará lugar a la pérdida del req
 
 18. La contratación de servicios de transporte por parte de transportistas, agencias de transporte, transitarios, almacenistas-distribuidores, operadores logísticos o cualquier otro profesional del transporte con transportistas u operadores de transporte de mercancías no autorizados, tipificada en los artículos 140.17 de la LOTT y 197.18 de este Reglamento.
 
-19. La realización de transportes públicos o privados utilizando conductores que carezcan del permiso de conducción adecuado, del certificado de aptitud profesional o de la tarjeta de cualificación (CAP) en vigor, tipificada en los artículos 140.18 de la LOTT y 197.19 de este Reglamento y en el apartado 1 del grupo 7 y el apartado 1 del grupo 8 del anexo I del Reglamento (UE) 2016/403.
+19. (Sin contenido)
 
 20. La carencia del tacógrafo, del limitador de velocidad o de alguno de sus elementos, así como la de otros instrumentos o medios de control que exista la obligación de llevar instalados en el vehículo, tipificada en los artículos 140.20 de la LOTT y 197.21 de este Reglamento y en el apartado 1 del grupo 2 y el apartado 1 del grupo 6 del anexo I del Reglamento (UE) 2016/403.
 
 21. No llevar insertada en el tacógrafo la tarjeta de conductor o la hoja de registro de los tiempos de conducción y descanso, utilizar una tarjeta falsificada, utilizar una tarjeta de la que el conductor no sea titular, u obtenida con declaraciones o documentos falsos, tipificada en los artículos 140.22 de la LOTT y 197.24 de este Reglamento y en los apartados 4, 5 y 6 del grupo 2 del anexo I del Reglamento (UE) 2016/403.
 
-22. El exceso igual o superior al 20 por ciento en los vehículos N3 e igual o superior al 25 por ciento en los vehículos N2 sobre la masa máxima total que tenga autorizadas el vehículo de que se trate, tipificada en los artículos 140.23 de la LOTT y 197.26 de este Reglamento y en los apartados 3 y 6 del grupo 4 del anexo I del Reglamento (UE) 2016/403.
+22. El exceso igual o superior al 20 por ciento en los vehículos N3 e igual o superior al 25 por ciento en los vehículos N2 sobre la masa máxima total que tenga autorizadas el vehículo de que se trate, tipificada en los artículos 140.23 de la LOTT y 197.26 de este Reglamento.
 
 23. El exceso igual o superior al cincuenta por ciento en los tiempos de conducción diaria sin hacer una pausa o descanso de cuatro horas y media como mínimo, tipificada en los artículos 140.37.1 de la LOTT y 197.42.1 de este Reglamento y en los apartados 4 y 7 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
 
@@ -83,6 +83,8 @@ B. Infracciones administrativas que afectan al factor “I” del IRI
 11. En el transporte de mercancías peligrosas, transportar mercancías en un vehículo que haya dejado de cumplir las normas de homologación creando un peligro inmediato, tipificada en el artículo 197.16.21 de este Reglamento y en el apartado 7 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
 
 12. Llevar instalado en el vehículo un dispositivo limitador de velocidad que no sea conforme a las prescripciones técnicas aplicables, tipificada en el artículo 197.22 de este Reglamento y en el apartado 2 del grupo 6 del anexo I del Reglamento (UE) 2016/403.
+
+12 bis La realización de transportes públicos o privados utilizando conductores que carezcan del certificado de aptitud profesional o de la tarjeta de cualificación (CAP) en vigor, tipificada en el artículo 140.18 de la LOTT y en el apartado 1 del grupo 7 del anexo I del Reglamento (UE) 2016/403.
 
 13. La carencia significativa de hojas de registro o de datos registrados en el tacógrafo o en las tarjetas de los conductores que exista obligación de conservar en la sede de la empresa, tipificada en los artículos 140.21 de la LOTT y 197.23 de este Reglamento y en los apartados 11 y 12 del grupo 2 del anexo I del Reglamento (UE) 2016/403.
 
@@ -156,7 +158,7 @@ C. Infracciones administrativas que afectan al factor “i” del IRI
 
 1. La disminución del descanso diario normal en más de una hora y media o del reducido o fraccionado en más de una hora, incluso cuando se realice conducción en equipo, salvo que deba calificarse conforme a lo dispuesto en los artículos 140.37.5 de la LOTT y 197.42.5 de este Reglamento, tipificada en los artículos 141.24.4 de la LOTT y 198.28.4 de este Reglamento y en los apartados 16, 18, 20 y 22 del grupo 1 del anexo I del Reglamento (UE) 2016/403.
 
-2. El exceso igual o superior al 5 e inferior al 10 por ciento en los vehículos N3 e igual o superior al 5 e inferior al 15 por ciento en los vehículos N2 sobre la masa máxima total que tenga autorizada el vehículo de que se trate, tipificada en los artículos 141.2 de la LOTT y 198.2 de este Reglamento y en los apartados 1 y 4 del grupo 4 del anexo I del Reglamento (UE) 2016/403.
+2. El exceso igual o superior al 5 e inferior al 10 por ciento en los vehículos N3 e igual o superior al 5 e inferior al 15 por ciento en los vehículos N2 sobre la masa máxima total que tenga autorizada el vehículo de que se trate, tipificada en el artículo 198.2 de este Reglamento y en los apartados 1 y 4 del grupo 4 del anexo I del Reglamento (UE) 2016/403.
 
 3. En el transporte de mercancías peligrosas, no llevar a bordo las instrucciones escritas que resulten exigibles, tipificada en los artículos 141.5.1 de la LOTT y 198.6.1 de este Reglamento y en el apartado 24 del grupo 9 del anexo I del Reglamento (UE) 2016/403.
 
@@ -233,5 +235,7 @@ C. Infracciones administrativas que afectan al factor “i” del IRI
 39. La realización de una pausa obligatoria insuficiente de más 20 minutos pero igual o inferior a 30 minutos, cuando se trabaja durante un período de más de 9 horas, tipificada en el artículo 7.5 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, y en el apartado 7 del grupo 3 del anexo I del Reglamento (UE) 2016/403.
 
 40. Tiempo de trabajo diario igual o superior a 11 horas pero inferior a 13 horas, por cada período de 24 horas cuando se efectúe trabajo nocturno si no se ha concedido una excepción con arreglo al artículo 8 de la Directiva 2002/15/CE, tipificada en el artículo 7.5 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, y en el apartado 9 del grupo 3 del anexo I del Reglamento (UE) 2016/403.
+
+> Se modifican los puntos 14 y 22 y se suprime el 19 del apartado A, se añade el punto 12 bis al apartado B y se modifica el punto 2 del apartado C, por la disposición final 1.8 a 11 del Real Decreto 284/2021, de 20 de abril. Ref. BOE-A-2021-6624#df
 
 > Se añade por el art. 2.133 del Real Decreto 70/2019, de 15 de febrero. Ref. BOE-A-2019-2289
