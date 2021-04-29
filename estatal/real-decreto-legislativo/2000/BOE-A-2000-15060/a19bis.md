@@ -1,23 +1,21 @@
-## Artículo 19 bis. Infracciones de las empresas de inserción.
+## Artículo 19 bis. Infracciones de las empresas de trabajo temporal establecidas en otros estados miembros de la Unión Europea o en Estados signatarios del Acuerdo sobre el Espacio Económico Europeo.
 
-Infracciones de las empresas de inserción.
+1. Constituyen infracciones graves de las empresas de trabajo temporal:
 
-1. Son infracciones graves:
+a) No formalizar por escrito el contrato de puesta a disposición.
 
-a) El incumplimiento de cualquiera de los requisitos establecidos para la creación de las empresas de inserción en la normativa aplicable.
+b) Formalizar contratos de puesta a disposición para supuestos distintos de los previstos en el artículo 6.2 de la Ley 14/1994, de 1 de junio.
 
-b) Ocultar o falsear la documentación acreditativa de las modificaciones estatutarias que afectan a la calificación como empresa de inserción.
+2. Constituyen infracciones muy graves de las empresas de trabajo temporal:
 
-c) No facilitar el plan de actividades y el presupuesto de cada año, así como las cuentas anuales, el informe de gestión y el balance social correspondientes al cierre de cada ejercicio económico.
+a) Formalizar contratos de puesta a disposición sin estar válidamente constituidas como empresa de trabajo temporal según la legislación del Estado de establecimiento o sin reunir los requisitos exigidos por la citada legislación para poner a disposición de empresas usuarias, con carácter temporal, personas trabajadoras por ella contratadas.
 
-d) No facilitar a los Servicios Sociales Públicos competentes y a los Servicios Públicos de Empleo la información a que se refieren los artículos 12, 13, 14 y 15 de la Ley para la regulación del régimen de las empresas de inserción.
+b) Formalizar contratos de puesta a disposición para la realización de actividades y trabajos que por su especial peligrosidad para la seguridad o la salud se determinen reglamentariamente.
 
-e) Incumplir las obligaciones asumidas en el contrato de trabajo en relación con el proceso personal de inserción de cada trabajador o no poner en práctica las medidas concretas previstas en dicho proceso.
+c) Ceder personas trabajadoras con contrato temporal a otra empresa de trabajo temporal o a otras empresas para su posterior cesión a terceros.
 
-2. Son infracciones muy graves:
+> Se modifica por el art. 13.4 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-3
 
-a) Desarrollar las actividades sin cumplir el fin primordial de las empresas de inserción de integración sociolaboral de las personas en situación de exclusión social.
-
-b) Obtener o disfrutar indebidamente subvenciones o ayudas establecidas en los programas de apoyo a la inserción sociolaboral, financiadas o garantizadas en todo o en parte por el Estado o por las Comunidades Autónomas en el marco de la ejecución de la legislación laboral ajenas al régimen económico de la Seguridad Social.
+> Su anterior redacción pasa a ser el art. 19 quinquies.
 
 > Se añade por la disposición final 1.3 de la Ley 44/2007, de 13 de diciembre. Ref. BOE-A-2007-21492
