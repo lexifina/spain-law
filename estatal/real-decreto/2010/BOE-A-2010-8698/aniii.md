@@ -12,7 +12,9 @@ Escala de oficiales:
 
 Vuelo: Los militares con esta especialidad desarrollan actividades directamente relacionadas con el empleo de las aeronaves y sus sistemas.
 
-Defensa y Control Aéreo: Los militares con esta especialidad desarrollan actividades relacionadas con la inteligencia, seguridad de instalaciones y recursos del Ejército del Aire, defensa local de bases frente ataques aéreos o terrestres, ejecución de operaciones especiales, funcionamiento de los servicios de apoyo directamente relacionados con las operaciones aéreas y las actividades relacionadas con el empleo de los sistemas de control aéreo y de guerra electrónica, con base en tierra o a bordo de aeronaves, para asegurar el desarrollo de las operaciones aéreas y para controlar y coordinar la circulación aérea así como actividades de dirección, ejecución y, en su caso, manejo de los sistemas y equipos de información y telecomunicaciones.
+Defensa y Control Aeroespacial: Los militares con esta especialidad desarrollan actividades relacionadas con el apoyo a las operaciones aéreas, con la seguridad y defensa de bases, instalaciones y recursos aeroespaciales y con la gestión, vigilancia y control del espacio aéreo y ultraterrestre.
+
+Ciberespacio: Los militares con esta especialidad desarrollan actividades relacionadas con el conocimiento, vigilancia y empleo de los elementos físicos y lógicos que constituyen el ciberespacio.
 
 Escala de suboficiales.
 
@@ -81,5 +83,9 @@ Técnicas Aeroespaciales: Los militares con esta especialidad desarrollan activi
 Telecomunicaciones y Electrónica: Los militares con esta especialidad desarrollan actividades en el campo específico de las telecomunicaciones, electrónica y sistemas anejos, aviónica, sistemas de aeronavegación, sistemas de mando y control y de guerra electrónica.
 
 Infraestructura: Los militares con esta especialidad desarrollan actividades en el campo específico de la infraestructura de bases aéreas, pistas de vuelo, edificaciones e instalaciones.
+
+> Se modifica el apartado 1 por el art. único.10 del Reglamento, por Real Decreto 296/2021, de 27 de abril. Ref. BOE-A-2021-6876
+
+> Téngase en cuenta, en cuanto a las especialidades de origen y la enseñanza de formación las disposiciones transitorias 1 y 2 del citado Real Decreto.
 
 > Se modifica el apartado 1 por el art. único.17 del Real Decreto 595/2016, de 2 de diciembre. Ref. BOE-A-2016-11478.

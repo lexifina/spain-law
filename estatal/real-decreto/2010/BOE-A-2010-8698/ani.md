@@ -24,15 +24,19 @@ Aviación del Ejército de Tierra: Los militares con esta especialidad desarroll
 
 Escala de suboficiales:
 
-Infantería Ligera: Los militares con esta especialidad desarrollan actividades directamente relacionadas con el mando, la preparación y el empleo de las unidades de infantería ligera.
+Infantería Ligera: (Suprimida).
 
-Infantería Acorazada/Mecanizada: Los militares con esta especialidad desarrollan actividades directamente relacionadas con el mando, la preparación y el empleo de las unidades de Infantería acorazada y mecanizada.
+Infantería Acorazada/Mecanizada: (Suprimida).
+
+Infantería: Los militares con esta especialidad desarrollan actividades directamente relacionadas con el mando, la preparación y el empleo de las unidades de infantería.
 
 Caballería: Los militares con esta especialidad desarrollan actividades directamente relacionadas con el mando, la preparación y el empleo de las unidades de caballería.
 
-Artillería de Campaña: Los militares con esta especialidad desarrollan actividades directamente relacionadas con el mando, la preparación y el empleo de las unidades de artillería de campaña y de costa.
+Artillería de Campaña: (Suprimida).
 
-Artillería Antiaérea: Los militares con esta especialidad desarrollan actividades directamente relacionadas con el mando, la preparación y el empleo de las unidades de artillería antiaérea.
+Artillería Antiaérea: (Suprimida).
+
+Artillería: Los militares con esta especialidad desarrollan actividades directamente relacionadas con el mando, la preparación y el empleo de las unidades de artillería.
 
 Ingenieros: Los militares con esta especialidad desarrollan actividades directamente relacionadas con el mando, la preparación y el empleo de las unidades de ingenieros.
 
@@ -54,15 +58,19 @@ Mantenimiento de Armamento y Material: Los militares con esta especialidad desar
 
 Escala de tropa:
 
-Infantería Ligera: Los militares con esta especialidad desarrollan actividades específicas relacionadas con las diferentes funciones de combate llevadas a cabo en las unidades de infantería ligera.
+Infantería Ligera: (Suprimida).
 
-Infantería Acorazada/Mecanizada: Los militares con esta especialidad desarrollan actividades específicas relacionadas con las diferentes funciones de combate llevadas a cabo en las unidades de infantería acorazada/mecanizada.
+Infantería Acorazada/Mecanizada: (Suprimida).
+
+Infantería: Los militares con esta especialidad desarrollan actividades específicas relacionadas con las diferentes funciones de combate llevadas a cabo en las unidades de infantería.
 
 Caballería: Los militares con esta especialidad desarrollan actividades específicas relacionadas con las diferentes funciones de combate llevadas a cabo en las unidades de caballería.
 
-Artillería de Campaña: Los militares con esta especialidad desarrollan actividades específicas relacionadas con las diferentes funciones de combate llevadas a cabo en las unidades de artillería de campaña y de costa.
+Artillería de Campaña: (Suprimida).
 
-Artillería Antiaérea: Los militares con esta especialidad desarrollan actividades específicas relacionadas con las diferentes funciones de combate llevadas a cabo en las unidades de artillería antiaérea.
+Artillería Antiaérea: (Suprimida).
+
+Artillería: Los militares con esta especialidad desarrollan actividades específicas relacionadas con las diferentes funciones de combate llevadas a cabo en las unidades de artillería.
 
 Ingenieros: Los militares con esta especialidad desarrollan actividades específicas relacionadas con las diferentes funciones de combate llevadas a cabo en las unidades de ingenieros.
 
@@ -109,5 +117,9 @@ Mecánica: Los militares con esta especialidad desarrollan actividades de carác
 Construcción: Los militares con esta especialidad desarrollan actividades de carácter técnico y logístico en el ámbito del mantenimiento, en relación con la construcción de fortificaciones permanentes, infraestructura e instalaciones, de acuerdo con las facultades de la escala.
 
 Telecomunicaciones y electrónica: Los militares con esta especialidad desarrollan actividades de carácter técnico y logístico en el ámbito del mantenimiento, en relación con las telecomunicaciones, la electrónica, los sistemas de armas y equipos, así como de los sistemas informáticos.
+
+> Se suprimen y se añaden varios campos de actividad del apartado 1 por el art. único.4 a 9 del Real Decreto 296/2021, de 27 de abril. Ref. BOE-A-2021-6876
+
+> Téngase en cuenta, en cuanto a las especialidades de origen y la enseñanza de formación las disposiciones transitorias 1 y 2 del citado Real Decreto.
 
 > Se modifican los apartados 1 y 3 por el art. único.8 a 16 del Real Decreto 595/2016, de 2 de diciembre. Ref. BOE-A-2016-11478.
