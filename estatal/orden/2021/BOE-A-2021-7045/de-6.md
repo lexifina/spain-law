@@ -1,0 +1,3 @@
+## Decimoséptimo. Delegación de competencias en la persona titular de la Dirección General de la Tesorería General de la Seguridad Social.
+
+Se aprueba la delegación de la persona titular de la Secretaría de Estado de la Seguridad Social y Pensiones, con su previa aceptación, en la persona titular de la Dirección General de la Tesorería General de la Seguridad Social del ejercicio de las funciones atribuidas a aquel en el Reglamento General de Recaudación de la Seguridad Social, aprobado por Real Decreto 1415/2004, de 11 de junio, y demás disposiciones sobre la materia a excepción de la relativa a la exención de garantías para aplazamientos a que se refiere el artículo 33.4.d) del citado Reglamento.
