@@ -89,6 +89,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 64](a64.md)
 - [Artículo 65](a65.md)
 - [Artículo 66](a66.md)
+- [Artículo 67](a67.md)
 - [CAPÍTULO CUARTO](ccuao-2.md)
 - [Artículo 69](a69.md)
 - [Artículo 70](a70.md)
