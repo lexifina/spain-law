@@ -608,6 +608,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo cuatrocientos treinta y ocho](acuatrocientostreintayocho.md)
 - [CAPÍTULO II](cii-13.md)
 - [Artículo cuatrocientos treinta y nueve](acuatrocientostreintaynueve.md)
+- [Artículo cuatrocientos treinta y nueve bis](ac-4.md)
 - [TÍTULO II](tii-6.md)
 - [CAPÍTULO I](ci-14.md)
 - [Artículo cuatrocientos cuarenta](acuatrocientoscuarenta.md)

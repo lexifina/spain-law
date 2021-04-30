@@ -8,7 +8,9 @@ Asimismo, será competente para la ordenación de los puestos de trabajo de las 
 
 3. El Ministerio de Justicia, con anterioridad a la aprobación definitiva de cada relación de puestos de trabajo determinará aquellos que deban ser asignados al Cuerpo de Letrados de la Administración de Justicia.
 
-4. Para la elaboración y aprobación de las relaciones de puestos de trabajo correspondientes a las unidades administrativas a que se refiere el artículo 439, serán competentes el Ministerio de Justicia y las comunidades autónomas con competencias asumidas en sus respectivos ámbitos territoriales.
+4. Para la elaboración y aprobación de las relaciones de puestos de trabajo correspondientes a las unidades administrativas y a las oficinas del Registro Civil a que se refieren los artículos 439 y 439 bis, serán competentes el Ministerio de Justicia y las comunidades autónomas con competencias asumidas en sus respectivos ámbitos territoriales.
+
+> Se modifica el apartado 4 por el art. 1 de la Ley Orgánica 6/2021, de 28 de abril. Ref. BOE-A-2021-6944#ap
 
 > Se modifican los apartados 1 y 2 por el art. único.43 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
