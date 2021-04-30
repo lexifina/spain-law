@@ -2,6 +2,10 @@
 
 Se prorroga por diez años, a partir de la entrada en vigor de esta Ley, el plazo a que se refiere la disposición transitoria quinta de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español.
 
+> Téngase en cuenta que se amplía por cinco años el plazo previsto en la Ley 16/1985 en relación con el Inventario de Bienes Muebles de la Iglesia, y en relación a su vez con esta disposición, a partir del 30 de abril de 2021, según establece la disposición adicional única de la Ley 6/2021, de 28 de abril. Ref. BOE-A-2021-6945#da
+
+> Se amplía por cinco años el plazo previsto en la Ley 16/1985 en relación con el Inventario de Bienes Muebles de la Iglesia, y en relación a su vez con esta disposición, a partir del 30 de abril de 2021, por la disposición adicional única de la Ley 6/2021, de 28 de abril. Ref. BOE-A-2021-6945#da
+
 > Véase, sobre la ampliación del ámbito temporal de aplicación, la disposición adicional 95 de la Ley 48/2015, de 29 de octubre. Ref. BOE-A-2015-11644.
 
 > Véase, sobre la ampliación del ámbito temporal de aplicación, la disposición adicional 94 de la Ley 36/2014, de 26 de diciembre. Ref. BOE-A-2014-13612.
