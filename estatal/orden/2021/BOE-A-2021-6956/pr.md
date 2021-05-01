@@ -1,0 +1,11 @@
+La Ley 40/2003, de 18 de noviembre, de Protección a las Familias Numerosas, prevé en su artículo 12 que la Administración General del Estado establecerá un régimen de bonificaciones en materia de transportes, atendiendo, entre otros criterios, a las categorías en que se clasifican las familias numerosas.
+
+El Reglamento de dicha Ley, aprobado por el Real Decreto 1621/2005, de 30 de diciembre, establece en su artículo 11 las bonificaciones que por la utilización de transporte ferroviario podrán disfrutar las familias numerosas que tengan reconocida oficialmente tal condición. Además, el apartado 3 de ese artículo estableció que el entonces Ministerio de Fomento establecería el procedimiento que deberán aplicar las empresas ferroviarias afectadas para efectuar las bonificaciones anteriormente citadas, y su posterior liquidación y control.
+
+En cumplimiento de esa disposición, esta orden tiene por objeto establecer el procedimiento para la aplicación de las bonificaciones sobre los precios del transporte ferroviario a los miembros de familias numerosas, así como determinar las formalidades que deberán seguir las empresas ferroviarias afectadas para emitir los billetes bonificados y su posterior liquidación y control.
+
+Las liquidaciones previstas en esta orden no se aplicarán a los servicios sujetos a obligaciones de servicio público, cuando las reducciones de precio a los miembros de familias numerosas llevadas a cabo en el curso de aquéllos sean objeto de compensación a través del correspondiente contrato de servicio público.
+
+Esta orden es acorde al principio de proporcionalidad, al contener la regulación imprescindible para la consecución de los objetivos previamente mencionados, e igualmente se ajusta al principio de seguridad jurídica. En cuanto al principio de transparencia, ha sido sometida a informe de todos los afectados, así como a información pública. También se ajusta al principio de eficiencia en la toma de decisiones, no se ha encontrado alternativa regulatoria menos restrictiva de derechos, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos.
+
+En su virtud, con la aprobación previa del Ministro de Política Territorial y Función Pública, dispongo:
