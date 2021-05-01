@@ -1,0 +1,3 @@
+Téngase en cuenta que el presente Convenio dejará de ser aplicable desde la fecha en la que el nuevo Convenio entre el Reino de España y Japón para eliminar la doble imposición en relación con los impuestos sobre la renta y prevenir la elusión y evasión fiscales, hecho en Madrid el 16 de octubre de 2018, surta efectos respecto de los impuestos para los que es aplicable según lo dispuesto en los apartados 2 y 3 del art. 30 del citado Convenio, según establece el apartado 4 del mismo artículo. Ref. BOE-A-2021-2977#a3-2
+
+El presente Convenio quedará derogado el último día de su aplicación de acuerdo con lo dispuesto en los diferentes apartados del art. 30 del nuevo Convenio de 16 de octubre de 2018, que entra en vigor el 1 de mayo de 2021.
