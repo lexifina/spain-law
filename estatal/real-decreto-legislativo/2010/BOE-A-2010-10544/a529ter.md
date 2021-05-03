@@ -16,19 +16,15 @@ f) La aprobación de las inversiones u operaciones de todo tipo que por su eleva
 
 g) La aprobación de la creación o adquisición de participaciones en entidades de propósito especial o domiciliadas en países o territorios que tengan la consideración de paraísos fiscales, así como cualesquiera otras transacciones u operaciones de naturaleza análoga que, por su complejidad, pudieran menoscabar la transparencia de la sociedad y su grupo.
 
-h) La aprobación, previo informe de la comisión de auditoría, de las operaciones que la sociedad o sociedades de su grupo realicen con consejeros, en los términos de los artículos 229 y 230, o con accionistas titulares, de forma individual o concertadamente con otros, de una participación significativa, incluyendo accionistas representados en el consejo de administración de la sociedad o de otras sociedades que formen parte del mismo grupo o con personas a ellos vinculadas. Los consejeros afectados o que representen o estén vinculados a los accionistas afectados deberán abstenerse de participar en la deliberación y votación del acuerdo en cuestión. Solo se exceptuarán de esta aprobación las operaciones que reúnan simultáneamente las tres características siguientes:
-
-1.º que se realicen en virtud de contratos cuyas condiciones estén estandarizadas y se apliquen en masa a un elevado número de clientes,
-
-2.º que se realicen a precios o tarifas establecidos con carácter general por quien actúe como suministrador del bien o servicio de que se trate, y
-
-3.º que su cuantía no supere el uno por ciento de los ingresos anuales de la sociedad.
+h) La aprobación de las operaciones vinculadas, en los supuestos y términos previstos en el Capítulo VII bis del Título XIV.
 
 i) La determinación de la estrategia fiscal de la sociedad.
 
 j) La supervisión del proceso de elaboración y presentación de la información financiera y del informe de gestión, que incluirá, cuando proceda, la información no financiera preceptiva, y presentar recomendaciones o propuestas al órgano de administración, dirigidas a salvaguardar su integridad.
 
 2. Cuando concurran circunstancias de urgencia, debidamente justificadas, se podrán adoptar las decisiones correspondientes a los asuntos anteriores por los órganos o personas delegadas, que deberán ser ratificadas en el primer Consejo de Administración que se celebre tras la adopción de la decisión.
+
+> Se modifica la letra h) del apartado 1 por el art. 3.22 de la Ley 5/2021, de 12 de abril. Ref. BOE-A-2021-5773#at
 
 > Se añade la letra j) por el art. 2.9 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
 

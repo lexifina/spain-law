@@ -1,0 +1,5 @@
+## Disposición adicional decimoquinta. Límite aplicable a entidades de crédito en el caso de delegación de la facultad de excluir el derecho de suscripción preferente para la emisión de obligaciones convertibles.
+
+El límite del veinticinco por ciento del número de acciones integrantes del capital social en el momento de la autorización previsto en el artículo 511 no será de aplicación a las emisiones de obligaciones convertibles que realicen las entidades de crédito, siempre que estas emisiones cumplan con los requisitos previstos en la Parte Segunda, Título I, Capítulo 3, Sección 1 del Reglamento (UE) 575/2013 del Parlamento Europeo y del Consejo, de 26 de junio de 2013 sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012, para que las obligaciones convertibles emitidas puedan ser consideradas instrumentos de capital de nivel 1 adicional de la entidad de crédito emisora.
+
+> Se añade por el art. 3.32 de la Ley 5/2021, de 12 de abril. Ref. BOE-A-2021-5773#at

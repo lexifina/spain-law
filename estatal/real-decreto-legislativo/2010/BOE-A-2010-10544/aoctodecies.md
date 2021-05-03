@@ -1,7 +1,11 @@
 ## Artículo 529 octodecies. Remuneración de los consejeros por el desempeño de funciones ejecutivas.
 
-1. La remuneración de los consejeros por el desempeño de las funciones ejecutivas previstas en los contratos aprobados conforme a lo dispuesto en el artículo 249 se ajustará a la política de remuneraciones de los consejeros, que necesariamente deberá contemplar la cuantía de la retribución fija anual y su variación en el periodo al que la política se refiera, los distintos parámetros para la fijación de los componentes variables y los términos y condiciones principales de sus contratos comprendiendo, en particular, su duración, indemnizaciones por cese anticipado o terminación de la relación contractual y pactos de exclusividad, no concurrencia post-contractual y permanencia o fidelización.
+1. La remuneración de las funciones ejecutivas de los consejeros delegados y demás consejeros a los que se atribuyan funciones de esa índole en virtud de otros títulos deberá ajustarse a los estatutos y, en todo caso, a la política de remuneraciones aprobada con arreglo a lo previsto en el artículo 529 novodecies y a los contratos aprobados conforme a lo establecido en el artículo 249.
 
-2. Corresponde al consejo de administración fijar la retribución de los consejeros por el desempeño de funciones ejecutivas y los términos y condiciones de sus contratos con la sociedad de conformidad con lo dispuesto en el artículo 249.3 y con la política de remuneraciones de los consejeros aprobada por la junta general.
+2. La política de remuneraciones establecerá cuando menos la cuantía de la retribución fija anual correspondiente a los consejeros por el desempeño de sus funciones ejecutivas y demás previsiones a que se refiere el artículo siguiente.
+
+3. Corresponde al consejo de administración la determinación individual de la remuneración de cada consejero por el desempeño de las funciones ejecutivas que tenga atribuidas dentro del marco de la política de remuneraciones y de conformidad con lo previsto en su contrato, previo informe de la comisión de nombramientos y retribuciones.
+
+> Se modifica por el art. 3.25 de la Ley 5/2021, de 12 de abril. Ref. BOE-A-2021-5773#at
 
 > Se añade por el art. único.57 de la Ley 31/2014, de 3 de diciembre. Ref. BOE-A-2014-12589.

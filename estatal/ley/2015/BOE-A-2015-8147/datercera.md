@@ -10,19 +10,19 @@ En las Cajas de Ahorros las funciones de la Comisión de Auditoría podrán ser 
 
 a) Las entidades de interés público cuya única actividad consista en actuar como emisor de valores garantizados por activos, según se definen dichos valores en el artículo 2, punto 5, del Reglamento (CE) n.º 809/2004 de la Comisión.
 
-b) Las entidades de interés público previstas en el artículo 3.5 b) que sean pequeñas y medianas, siempre que sus funciones sean asumidas por el órgano de administración. Cuando el órgano de administración ejerza las funciones de la Comisión de Auditoría y su Presidente tenga atribuidas funciones ejecutivas, éste no podrá ejercer las funciones que legal o estatutariamente le correspondan en su condición de tal.
+b) Las entidades de interés público previstas en el artículo 3.5 b) que sean pequeñas y medianas, siempre que sus funciones sean asumidas por el órgano de administración.
 
 c) Las entidades de interés público previstas en el artículo 3.5 b) a las que la normativa comunitaria permita exonerar de este requisito y así se determine reglamentariamente.
 
-d) Las entidades de interés público que sean dependientes, de acuerdo con lo previsto en el artículo 42 del Código de Comercio, de otras entidades de interés público, siempre que concurran los siguientes requisitos:
+d) Las entidades de interés público que sean dependientes, de acuerdo con lo previsto en el artículo 42 del Código de Comercio, de otras entidades de interés público, siempre que la Comisión de Auditoría de la entidad dominante asuma también, en el ámbito de las dependientes a que se refiere este apartado, las funciones propias de tal comisión y cualesquiera otras que pudiesen atribuírsele, y cuando concurra alguno de los siguientes requisitos:
 
-1.º Que las entidades dependientes estén íntegramente participadas por la entidad dominante.
+1.º Que las entidades dependientes estén íntegramente participadas por la entidad dominante, o
 
-2.º Que la administración de las entidades dependientes no se atribuya a un consejo de administración.
-
-3.º Que la Comisión de Auditoría de la entidad dominante asuma también, en el ámbito de las dependientes a que se refiere este apartado, las funciones propias de tal comisión y cualesquiera otras que pudiesen atribuírsele.
+2.º Que la aplicación de esta excepción haya sido aprobada por la junta de accionistas de la sociedad dependiente por unanimidad.
 
 Las entidades de interés público a que se refiere este apartado harán públicos en su página web los motivos por los que consideran que no es adecuado disponer de una Comisión de Auditoría o de un órgano de administración o supervisión encargado de realizar las funciones de la Comisión de Auditoría.
+
+e) Las entidades de interés público que sean entidades públicas empresariales, de las previstas en el artículo 103 de la Ley 40/2015, de 1 de octubre, del régimen jurídico del sector público, siempre que sus funciones sean asumidas por el órgano de administración.
 
 4. Quedarán exentas del cumplimiento del requisito de independencia exigido a la Comisión de Auditoría por los apartados 1 y 2 del artículo 529 quaterdecies del Texto Refundido de la Ley de Sociedades de Capital, aprobado por Real Decreto Legislativo 1/2010, de 2 de julio, las entidades que reúnan los siguientes requisitos:
 
@@ -39,3 +39,5 @@ c) Que su normativa específica no exija la presencia de consejeros independient
 7. La supervisión del cumplimiento de lo establecido en esta disposición adicional corresponde a la Comisión Nacional del Mercado de Valores, de conformidad con lo dispuesto en el título VIII de la Ley 24/1988, de 28 de julio, del Mercado de Valores. Esta competencia se entiende sin perjuicio de la que ostenta el Instituto de Contabilidad y Auditoría de Cuentas en materia de supervisión de la actividad de auditoría de cuentas.
 
 Con carácter puntual y a la mayor brevedad posible, la Comisión Nacional del Mercado de Valores facilitará al Instituto de Contabilidad y Auditoría de Cuentas para su remisión a la Comisión de Órganos Europeos de Supervisión de Auditores la información correspondiente a las sanciones, en su caso, impuestas que hubieren ganado firmeza en vía administrativa, a los miembros de la Comisión de Auditoría a que se refiere esta disposición adicional.
+
+> Se modifican las letras b) y d) y se añade la letra e) al apartado 3 por el art. 5.4 y 5 de la Ley 5/2021, de 12 de abril. Ref. BOE-A-2021-5773#aq

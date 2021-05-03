@@ -16,6 +16,6 @@ b) De producirse la vacante una vez convocada la junta general y antes de su cel
 
 6. La propuesta de nombramiento o reelección de cualquier consejero no independiente deberá ir precedida, además, de informe de la comisión de nombramientos y retribuciones.
 
-7. Lo dispuesto en este artículo será igualmente aplicable a las personas físicas que sean designadas representantes de un consejero persona jurídica. La propuesta de representante persona física deberá someterse al informe de la comisión de nombramientos y retribuciones.
+> Se suprime el apartado 7 por el art. 3.23 de la Ley 5/2021, de 12 de abril. Ref. BOE-A-2021-5773#at
 
 > Se añade por el art. único.48 de la Ley 31/2014, de 3 de diciembre. Ref. BOE-A-2014-12589.

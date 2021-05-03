@@ -78,7 +78,9 @@ II. Información sobre cuestiones sociales y relativas al personal:
 
 – Salud y seguridad: condiciones de salud y seguridad en el trabajo; accidentes de trabajo, en particular su frecuencia y gravedad, así como las enfermedades profesionales; desagregado por sexo.
 
-– Relaciones sociales: organización del diálogo social, incluidos procedimientos para informar y consultar al personal y negociar con ellos; porcentaje de empleados cubiertos por convenio colectivo por país; el balance de los convenios colectivos, particularmente en el campo de la salud y la seguridad en el trabajo.
+– Relaciones sociales: organización del diálogo social, incluidos procedimientos para informar y consultar al personal y negociar con ellos; porcentaje de empleados cubiertos por convenio colectivo por país; el balance de los convenios colectivos, particularmente en el campo de la salud y la seguridad en el trabajo; mecanismos y procedimientos con los que cuenta la empresa para promover la implicación de los trabajadores en la gestión de la compañía, en términos de información, consulta y participación.
+
+> Téngase en cuenta que las obligaciones de información establecidas mediante la modificación del guión cuarto por el artículo segundo de la Ley 5/2021, de 12 de abril, Ref. BOE-A-2021-5773#as, entrarán en vigor el 13 de abril de 2022, según determina la disposición transitoria segunda de la citada Ley.
 
 – Formación: las políticas implementadas en el campo de la formación; la cantidad total de horas de formación por categorías profesionales.
 
@@ -123,6 +125,10 @@ La información incluida en el estado de información no financiera será verifi
 8. La información contenida en el informe de gestión consolidado en ningún caso justificará su ausencia en las cuentas anuales consolidadas cuando esta información deba incluirse en éstas de conformidad con lo previsto en esta Sección y las disposiciones que la desarrollan.
 
 9. Sin perjuicio de los requisitos de divulgación aplicables al estado de información no financiera consolidado previstos en esta Ley, este informe se pondrá a disposición del público de forma gratuita y será fácilmente accesible en el sitio web de la sociedad dentro de los seis meses posteriores a la fecha de finalización del año financiero y por un período de cinco años.
+
+> Se modifica el guión cuarto del apartado 6.II por el art. 2 de la Ley 5/2021, de 12 de abril. Ref. BOE-A-2021-5773#as
+
+> Las obligaciones de información establecidas mediante esta modificación entrarán en vigor el 13 de abril de 2022, según determina la disposición transitoria 2 de la citada Ley.
 
 > Se modifican los apartados 5 a 8 y se añade el 9 por el art. 1.2 de la Ley 11/2018, de 28 de diciembre. Ref. BOE-A-2018-17989
 
