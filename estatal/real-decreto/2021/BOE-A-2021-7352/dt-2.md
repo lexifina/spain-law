@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Normativa aplicable a los procesos de selección para el ingreso en los centros docentes militares de formación.
+
+1. En tanto no se desarrollen las normas por las que han de regirse los procesos de selección para el ingreso en los centros docentes militares de formación para acceder a la condición de militar de tropa y marinería, serán de aplicación las resoluciones de la persona titular de la Subsecretaría de Defensa por las que se convocan pruebas selectivas para el ingreso en los centros docentes militares de formación para el acceso de personas nacionales y extranjeras a la condición de militar de tropa y marinería, en todo lo que no se opongan a lo que se determina en los capítulos I y II del reglamento que se aprueba, excepto lo establecido en el artículo 5.6.
+
+2. La Orden PCI/6/2019, de 11 de enero, por la que se aprueba el cuadro médico de exclusiones exigible para el ingreso en los centros docentes militares de formación, será de aplicación a todos los procesos de selección por la forma de ingreso directo y promoción, excepto en los correspondientes a la adquisición de la condición de Reservista Voluntario.
