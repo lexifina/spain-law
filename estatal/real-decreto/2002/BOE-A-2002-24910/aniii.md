@@ -1,10 +1,12 @@
 ## ANEXO III
 
-## Modelo de recibo de residuos MARPOL
+## Modelo de recibo MARPOL
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2016/25/00820_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/103/07052_5774.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2016/25/00820_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/103/07052_5849.png)
+
+> Se modifica por el art. único.2 y el anexo II de la Orden TMA/421/2021, de 26 de abril. Ref. BOE-A-2021-7052
 
 > Se sustituye por el art. único y Anexo de la Orden FOM/2931/2015, de 4 de diciembre. Ref. BOE-A-2016-475.
 
