@@ -2,27 +2,31 @@
 
 Terceros países y regiones administrativas especiales cuyos residentes no se ven afectados por la restricción temporal de viajes no imprescindibles a la UE a través de las fronteras exteriores en los términos recogidos en esta orden:
 
-I. Estados:
+I. Estados
 
 1. Australia.
 
-2. Nueva Zelanda.
+2. Israel.
 
-3. Ruanda.
+3. Nueva Zelanda.
 
-4. Singapur.
+4. Ruanda.
 
-5. Corea del Sur.
+5. Singapur.
 
-6. Tailandia.
+6. Corea del Sur.
 
-7. China.
+7. Tailandia.
 
-II. Regiones administrativas especiales de la República Popular China:
+8. China.
+
+II. Regiones administrativas especiales de la República Popular China
 
 RAE de Hong Kong.
 
 RAE de Macao.
+
+> Se modifica por el art. único de la Orden INT/448/2021, de 10 de mayo. Ref. BOE-A-2021-7760
 
 > Se modifica por el art. 1.2 de la Orden INT/62/2021, de 28 de enero. Ref. BOE-A-2021-1265
 
