@@ -1,0 +1,3 @@
+## Artículo único. Aprobación del cuadro médico de exclusiones para el ingreso en la Policía Nacional.
+
+Se aprueba el cuadro médico de exclusiones que se incluye en el anexo exigible para las personas aspirantes al ingreso en la Escala Ejecutiva, categoría de Inspector, y en la Escala Básica, categoría de Policía, de la Policía Nacional, así como al alumnado de los centros docentes de la Policía Nacional que aspiren a ingresar en dichas categorías, cuando evidencien alguna de las causas de exclusión contempladas en dicho cuadro durante la fase de formación o curso selectivo, o durante la realización del módulo de prácticas.
