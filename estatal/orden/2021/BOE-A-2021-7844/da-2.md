@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Segundo periodo semestral 2021.
+
+1. Excepcionalmente, para la remisión de precios correspondiente al segundo periodo semestral del año 2021, la Dirección General de Política Energética y Minas publicará antes del 30 de junio de 2021, la resolución por la que se aprueba el listado de comercializadoras obligadas a remitir la información relativa a los precios aplicados a los consumidores de energía eléctrica para dicho periodo semestral, a la que hace referencia el artículo 2.1.
+
+2. A estos efectos, antes del 1 de junio de 2021, la Comisión Nacional de los Mercados y la Competencia debe remitir a la Dirección General de Política Energética y Minas una propuesta de listado de comercializadoras obligadas a remitir la información relativa a los precios aplicados a los consumidores de energía eléctrica, por aplicación de los criterios recogidos en el artículo 3, así como la información de ventas y número de puntos de suministro utilizada para la elaboración de dicha propuesta.
