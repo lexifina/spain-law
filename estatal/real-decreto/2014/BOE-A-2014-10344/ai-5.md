@@ -27,6 +27,26 @@
 | Licencia de Patrón Deportivo de Segunda. | Embarcaciones menores de 40 toneladas de registro bruto, sin alejarse más de 12 millas de la costa. |  |
 | CANADÁ | TÍTULOS | ATRIBUCIONES | OBSERVACIONES |
 | --- | --- | --- | --- |
-| Pleasure Craft Operator Card. | Embarcaciones de recreo sin limitaciones. |  |
+| Pleasure Craft Operator Card. | Embarcaciones de recreo sin limitaciones. |
+
+## Suiza
+
+| Títulos | Atribuciones | Observaciones |
+| --- | --- | --- |
+| PERMIS B Emitidos por: (*) | Embarcaciones a: – motor – vela con o sin motor aux. – motor y vela con o sin motor aux. (ver tarjeta) de arqueo bruto hasta 300. | (*) – CRUISING CLUB DE SUIZA (CCS) – ESCUELA DE VELA DE RORSCHACH (SEGELSCHULE) – INSTITUTO PARA LA NAVEGACIÓN EN ALTA MAR -NAVEGACIÓN DEPORTIVA- – OFICINA DEL DR. KONRAD BUTZ (SPORTNAVIGATION) – ESCUELA AERONÁUTICA Y NAVAL A.AVI. |
+| Permisos de la Jefaturas cantonales de navegación | Navegación en aguas interiores. |
+
+## Reino Unido - RYA (Royal Yachting Association)
+
+| Títulos | Atribuciones | Observaciones |
+| --- | --- | --- |
+| YACHTMASTER OCEAN | Embarcaciones de hasta 24 m de eslora, sin limitaciones. | Según habilitación (motor o vela). |
+| YATCHMASTER OFFSHORE | Embarcaciones de hasta 24 m de eslora, sin alejarse más de 150 millas de la costa. | Según habilitación (motor o vela). |
+| COASTAL SKIPPER/YACTHMASTER COASTAL | Embarcaciones de hasta 24 m de eslora, sin alejarse más de 20 millas de la costa. | Según habilitación (motor o vela). |
+| DAY SKIPPER | Embarcaciones de hasta 24 m de eslora, sin alejarse más de 12 millas de la costa. | Según habilitación (motor o vela). |
+| POWERBOAT LEVEL 2 | Embarcaciones a motor de hasta 10 m de eslora, sin alejarse más de 5 millas de la costa. | A motor. |
+| INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT | Según especifique el certificado: – Embarcaciones de hasta 24 m de eslora (motor o vela). – Embarcaciones a motor de hasta 10 m de eslora. | – Las de hasta 24 m de eslora, sin alejarse más de 12 millas de la costa. – Las de hasta 10 m de eslora, sin alejarse más de 5 millas de la costa. |
+
+> Se añade la información de Suiza y Reino Unido por la disposición final 2.4 del Real Decreto 339/2021, de 18 de mayo. Ref. BOE-A-2021-8268#df-2
 
 > Se modifica por el art. 3.18 del Real Decreto 238/2019, de 5 de abril. Ref. BOE-A-2019-6481
