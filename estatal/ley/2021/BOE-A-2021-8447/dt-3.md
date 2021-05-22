@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Consideración del cambio climático en el desarrollo de la planificación y gestión del desarrollo urbano, de la edificación y de las infraestructuras del transporte.
+
+En relación con las previsiones establecidas en las letras a) y b) del apartado 1 del artículo 21 de esta ley relativos a la consideración del cambio climático en la planificación y gestión del desarrollo urbano, de la edificación y de las infraestructuras del transporte, estas disposiciones no serán de aplicación a los planes, programas y estudios cuya tramitación ya se hubiese completado en el momento de entrada en vigor de esta ley. En las modificaciones posteriores de dichos documentos se deberán integrar los criterios no incluidos en la fase estudio.

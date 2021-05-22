@@ -12,7 +12,9 @@ En todo caso, se considerarán activos estratégicos las centrales térmicas nuc
 
 d) Adquisición de los activos mencionados en la letra c) anterior.
 
-2. Las sociedades que realicen actividades incluidas en las letras a) y b) del apartado 1 anterior, deberán comunicar a la Secretaría de Estado de Energía del Ministerio de Industria, Energía y Turismo las adquisiciones realizadas directamente o mediante sociedades que controlen conforme a los criterios establecidos en el artículo 42.1 del Código de Comercio, de participaciones en otras sociedades mercantiles o de activos de cualquier naturaleza que atendiendo a su valor o a otras circunstancias tengan un impacto relevante o influencia significativa en el desarrollo de las actividades de la sociedad que comunica la operación.
+2. Las sociedades que realicen actividades incluidas en las letras a) y b) del apartado 1 anterior, deberán comunicar a la Secretaría de Estado de Energía del Ministerio para la Transición Ecológica y el Reto Demográfico las adquisiciones realizadas directamente o mediante sociedades que controlen conforme a los criterios establecidos en el artículo 42.1 del Código de Comercio, de participaciones en otras sociedades mercantiles o de activos de cualquier naturaleza que atendiendo a su valor o a otras circunstancias tengan un impacto relevante o influencia significativa en el desarrollo de las actividades de la sociedad que comunica la operación.
+
+En las mismas circunstancias señaladas en el párrafo anterior, se deberán comunicar igualmente las adquisiciones que realicen las sociedades matrices de los grupos de sociedades designadas como gestor de la red de transporte de electricidad y gas natural, así como cualesquiera otras sociedades que formen parte de dichos grupos.
 
 3. Igualmente deberá comunicarse a la Secretaría de Estado de Energía la adquisición de participaciones en un porcentaje de su capital social que conceda una influencia significativa en su gestión, en las sociedades que, directamente o mediante sociedades que controlen conforme a los criterios establecidos en el artículo 42.1 del Código de Comercio, realicen actividades incluidas en el apartado 1 o sean titulares de los activos señalados. De la misma forma, deberá comunicarse la adquisición directa de los activos mencionados en la letra d) del apartado 1.
 
@@ -43,3 +45,5 @@ Corresponde al Ministerio de Industria, Energía y Turismo supervisar el cumplim
 La resolución deberá adoptarse de forma motivada y notificarse en el plazo máximo de 30 días desde la comunicación, previo informe de la Comisión Nacional de los Mercados y la Competencia. Este informe no tendrá carácter vinculante y habrá de ser evacuado en el plazo de 10 días.
 
 8. Cuando la adquisición de participaciones afecte a los gestores de red de transporte de electricidad o de gas, incluyendo los gestores de red independientes, se estará a lo dispuesto en la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico y en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos.
+
+> Se modifica el apatado 2 por la disposición final 3 de la Ley 7/2021, de 20 de mayo. Ref. BOE-A-2021-8447#df-3
