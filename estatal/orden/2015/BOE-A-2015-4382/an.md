@@ -77,7 +77,7 @@
 | 04-412-Hueneja Dolar-Minas del Marquesado. | 1.668 | Andalucía. | NO | 1 | 14,4 |
 | 04-416-Moreda-Granada. | 1.668 | Andalucía. | 3.000 V CC | 1 | 56,6 |
 | 04-420-Bifurcación Maravillas-Algeciras. | 1.668 | Andalucía. | 3.000 V CC | 1 | 179,5 |
-| 04-422-Bifurcación Utrera-Fuente de Piedra. | 1.668 | Andalucía. | NO | 1 | 110,9 |
+| 04-422-Bifurcación Utrera-Fuente de Piedra. | 1.668 | Andalucía. | NO | 1 | 109,0 |
 | 04-426-Granada-Fuente de Piedra. | 1.668 | Andalucía. | NO | 1 | 130,2 |
 | 04-430-Córdoba (Bifurcación El Higuerón)-Los Prados. | 1.668 | Andalucía. | 3.000 V CC | 1 | 192,4 |
 | 04-436-Málaga Centro Alameda-Fuengirola. | 1.668 | Andalucía. | 3.000 V CC | 2 / 1 | 30,7 |
@@ -195,6 +195,8 @@
 | Línea | Administrador | Ancho de vía (mm) | Comunidad Autónoma | Electrificación | N.º vías | Longitud (Km) |
 | --- | --- | --- | --- | --- | --- | --- |
 | I001. Límite ADIF/TP Ferro-Frontera Francesa. | TPFERRO. | 1.435 | Cataluña. | 25.000 V CA | 2 | 19,8 |
+
+> Se modifica el apartado 1 por el apartado primero de la Orden TMA/488/2021, de 19 de mayo. Ref. BOE-A-2021-8513
 
 > Se modifica el apartado 1 por el apartado segundo de la Orden TMA/1240/2020, de 8 de diciembre. Ref. BOE-A-2020-16830
 
