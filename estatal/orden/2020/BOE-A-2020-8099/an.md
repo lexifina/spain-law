@@ -8,23 +8,29 @@ I. Estados
 
 2. Israel.
 
-3. Nueva Zelanda.
+3. Japón.
 
-4. Ruanda.
+4. Nueva Zelanda.
 
-5. Singapur.
+5. Ruanda.
 
-6. Corea del Sur.
+6. Singapur.
 
-7. Tailandia.
+7. Corea del Sur.
 
-8. China.
+8. Tailandia.
+
+9. Reino Unido de Gran Bretaña e Irlanda del Norte.
+
+10. China.
 
 II. Regiones administrativas especiales de la República Popular China
 
 RAE de Hong Kong.
 
 RAE de Macao.
+
+> Se modifica por el art. único de la Orden INT/484/2021, de 19 de mayo. Ref. BOE-A-2021-8449
 
 > Se modifica por el art. único de la Orden INT/448/2021, de 10 de mayo. Ref. BOE-A-2021-7760
 
