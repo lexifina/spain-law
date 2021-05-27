@@ -1,6 +1,8 @@
 ## Disposición final segunda.
 
-Todas las referencias de este real decreto al departamento que ejerce el protectorado del Estado sobre la ONCE se entienden efectuadas al Ministerio de Sanidad, Servicios Sociales e Igualdad.
+(Suprimida)
+
+> Se suprime por el art. 1.5 del Real Decreto 369/2021, de 25 de mayo. Ref. BOE-A-2021-8750
 
 > Se modifica por el art. 1.8 del Real Decreto 1146/2012, de 27 de julio. Ref. BOE-A-2012-11211.
 

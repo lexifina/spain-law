@@ -1,0 +1,5 @@
+## Disposición adicional primera. Ejecución de resoluciones judiciales y administrativas.
+
+Será aplicable a la ejecución de resoluciones judiciales y administrativas condenatorias de Cruz Roja Española lo dispuesto en la legislación vigente respecto a la ejecución de las sentencias condenatorias a la Administración General del Estado y, especialmente, lo dispuesto en el artículo 106 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, correspondiendo al Ministerio de Derechos Sociales y Agenda 2030 las funciones que dicha legislación atribuye a la autoridad administrativa que debe llevar a puro y debido efecto la ejecución de las resoluciones de acuerdo con lo dispuesto en el artículo 23 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, sin perjuicio de la potestad jurisdiccional en orden a la ejecución de las sentencias.
+
+> Se modifica y se denomina como primera por el art. 2.3 del Real Decreto 369/2021, de 25 de mayo. Ref. BOE-A-2021-8750

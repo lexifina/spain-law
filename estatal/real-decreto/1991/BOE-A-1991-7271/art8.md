@@ -1,18 +1,18 @@
 ## Artículo 8. Protectorado del Estado.
 
-1. El Protectorado del Estado sobre la Organización Nacional de Ciegos Españoles corresponde al Ministerio de Sanidad, Política Social e Igualdad, o aquel otro departamento ministerial que en cada momento tenga atribuida esta competencia, conforme a las disposiciones que regulen la estructura orgánica de los departamentos ministeriales.
+1. El Protectorado del Estado sobre la Organización Nacional de Ciegos Españoles corresponde al Ministerio de Derechos Sociales y Agenda 2030, o aquel otro departamento ministerial que en cada momento tenga atribuida esta competencia, conforme a las disposiciones que regulen la estructura orgánica de los departamentos ministeriales.
 
 2. El Protectorado del Estado se ejercerá a través de un Consejo integrado por:
 
 a) La Presidencia, que será ejercida por el titular del departamento competente de acuerdo con lo previsto en el apartado 1 de este artículo, quien podrá delegar sus funciones presidenciales en un miembro del Consejo que actúe en representación del propio departamento.
 
-b) Seis vocalías en representación de la Administración General del Estado: dos en representación del Ministerio de Sanidad, Servicios Sociales e Igualdad, dos en representación del Ministerio de Hacienda y Administraciones Públicas; una en representación del Ministerio de Empleo y Seguridad Social y una en representación del Ministerio del Interior, todas ellas ejercidas por una persona con rango al menos de director general, designada por el titular del respectivo departamento.
+b) Siete vocalías en representación de la Administración General del Estado: dos en representación del Ministerio de Derechos Sociales y Agenda 2030; una por el Ministerio de Consumo; una por el Ministerio de Hacienda; una por el Ministerio del Interior; una por el Ministerio de Educación y Formación Profesional y una por el Ministerio de Trabajo y Economía Social. Cada vocalía, tanto titular como suplente, será designada por la persona titular de su departamento respectivo y recaerá en la persona titular de un órgano de dicho departamento con rango al menos de dirección general.
 
-Cada uno de los representantes de la administración será sustituido por un vocal suplente, con rango al menos de director general, designado por el titular del correspondiente departamento.
+Cada representante de la Administración se sustituirá por su vocalía suplente en los casos de ausencia, enfermedad o cualquier otra causa justificada.
 
-c) Seis vocalías en representación de la ONCE ejercidas por el Presidente del Consejo General de la ONCE y por cinco representantes más de dicha organización, nombrados por su órgano de gobierno de entre las personas que pertenezcan a la alta dirección de la entidad.
+En la designación de vocalías deberá atenderse al principio de presencia equilibrada de mujeres y hombres.
 
-Cada uno de los representantes de la ONCE será sustituido por un vocal suplente del mismo nivel que designe el Consejo General de la ONCE.
+c) Siete vocalías en representación de la ONCE ejercidas por el titular de la Presidencia del Consejo General de la ONCE y por seis representantes más de dicha organización, nombrados por su órgano de gobierno de entre las personas que pertenezcan a la alta dirección de la entidad.
 
 d) Secretaría, ejercida, con voz pero sin voto, por el titular de la subdirección general o, en su caso, del órgano administrativo del departamento que resulte competente en materia de protectorado de la ONCE, que tenga atribuida la asistencia técnica e instrumental al ejercicio de la tutela del Estado sobre la ONCE.
 
@@ -28,7 +28,7 @@ a) Aprobar, a propuesta del Consejo General de la ONCE, los estatutos de la orga
 
 b) Promover, a iniciativa propia o del Consejo General y oído éste en todo caso, las medidas de carácter normativo, administrativo o de cualquier otra índole, convenientes para el correcto cumplimiento de los fines de la organización.
 
-c) Informar, con la conformidad de los Ministerios de Hacienda y Administraciones Públicas y del Interior y con carácter previo al sometimiento al Consejo de Ministros, las propuestas que se eleven a este respecto de las autorizaciones que, en materia de modalidades y productos de juego autorizados a la ONCE, sean precisas conforme a lo previsto en el artículo 7.
+c) Informar, con la conformidad de los Ministerios de Consumo y de Hacienda y con carácter previo al sometimiento al Consejo de Ministros, las propuestas que se eleven a este respecto de las autorizaciones que, en materia de modalidades y productos de juego autorizados a la ONCE, sean precisas conforme a lo previsto en el artículo 7.
 
 d) Establecer de conformidad con lo dispuesto en el artículo 7 los criterios y procedimientos adecuados para ejercer el control sobre las materias relativas al cupón y otras modalidades de juego autorizadas a la ONCE.
 
@@ -65,6 +65,8 @@ n) Informar con carácter previo a la aceptación de herencias, legados y donaci
 o) Verificar, con carácter previo, los acuerdos con otros operadores a que se refiere el apartado 5 del artículo 7 de este real decreto.
 
 p) Cualquier otra competencia o función que se le asigne legal o reglamentariamente, le confiera el Consejo de Ministros o le atribuya el Acuerdo General entre el Gobierno y la ONCE a que se refiere la disposición adicional vigésima de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986. y en general, realizar cuantas actuaciones sean necesarias para el ejercicio de la tutela y control en la materia, el mejor desenvolvimiento de la ONCE, la correcta consecución de sus objetivos y la coordinación más idónea con la Administración General del Estado.
+
+> Se modifican los apartados 1, 2.b), c) y 3.c) por el art. 1.2 del Real Decreto 369/2021, de 25 de mayo. Ref. BOE-A-2021-8750
 
 > Se modifican las letras e), f), i) y k) del apartado 3 por el art. único.3 del Real Decreto 1152/2015, de 18 de diciembre. Ref. BOE-A-2016-4.
 

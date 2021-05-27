@@ -1,6 +1,8 @@
 ## Disposición final primera. Habilitación reglamentaria.
 
-Todas las referencias de este real decreto al departamento que ejerce la protección del Estado sobre Cruz Roja Española se entienden efectuadas al Ministerio de Sanidad, Servicios Sociales e Igualdad.
+Se habilita a la persona titular del Ministerio de Derechos Sociales y Agenda 2030 para dictar, en el ámbito de sus competencias, las disposiciones que sean necesarias para el cumplimiento de este real decreto.
+
+> Se modifica por el art. 2.5 del Real Decreto 369/2021, de 25 de mayo. Ref. BOE-A-2021-8750
 
 > Se modifica por el art. 2.2 del Real Decreto 1146/2012, de 27 de julio. Ref. BOE-A-2012-11211.
 
