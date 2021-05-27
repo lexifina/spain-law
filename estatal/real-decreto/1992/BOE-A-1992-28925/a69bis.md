@@ -8,7 +8,9 @@ b) La información correspondiente a las facturas recibidas, en un plazo de cuat
 
 En el caso operaciones de importación, los cuatro días naturales se deberán computar desde que se produzca el registro contable del documento en el que conste la cuota liquidada por las aduanas y en todo caso antes del día 16 del mes siguiente al final del periodo al que se refiera la declaración en la que se hayan incluido.
 
-c) La información de las operaciones a que se refiere el artículo 66.1 de este Reglamento, en un plazo de cuatro días naturales, desde el momento de inicio de la expedición o transporte, o, en su caso, desde el momento de la recepción de los bienes a que se refieren.
+c) La información de las operaciones a que se refiere el artículo 66.1, números 1.º y 2.º, de este Reglamento, en un plazo de cuatro días naturales, desde el momento de inicio de la expedición o transporte, o, en su caso, desde el momento de la recepción de los bienes a que se refieren.
+
+La información de las operaciones a que se refiere el artículo 66.1, número 3.º, de este Reglamento, antes del día 16 del mes siguiente a la fecha de llegada de los bienes al almacén, de la puesta a disposición del adquirente o de la operación que deba registrarse.
 
 d) La información correspondiente a las facturas rectificativas expedidas y recibidas, en el plazo de cuatro días naturales desde la fecha en que se produzca la expedición o el registro contable de la factura, respectivamente.
 
@@ -23,6 +25,8 @@ A efectos del cómputo del plazo de cuatro u ocho días naturales a que se refie
 La información correspondiente a los cobros y pagos se realizará en el plazo de cuatro días naturales desde el cobro o pago correspondiente.
 
 3. En el caso de rectificaciones registrales a que se refiere el artículo 70 de este Reglamento, el suministro de los registros de facturación que recojan tales rectificaciones deberá realizarse antes del día 16 del mes siguiente al final del periodo en que el obligado tributario tenga constancia del error en que haya incurrido.
+
+> Se modifica la letra c) del apartado 1 por la disposición final 1.2 del Real Decreto 366/2021, de 25 de mayo. Ref. BOE-A-2021-8747#df
 
 > Se añade la letra e) al apartado 1 por el art. 1.13 del Real Decreto 1512/2018, de 28 de diciembre. Ref. BOE-A-2018-17995
 

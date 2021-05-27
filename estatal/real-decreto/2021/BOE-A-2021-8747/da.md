@@ -1,0 +1,3 @@
+## Disposición adicional primera. Conservación de la información con trascendencia tributaria.
+
+De conformidad con lo dispuesto en el artículo 8.5 de la Ley del Impuesto, el depositario central de valores y sus entidades participantes deberán conservar y mantener a disposición de la Administración tributaria toda la documentación que contenga la información prevista en el artículo 5, así como la que acredite todos los ingresos que se hayan efectuado por todos los intervinientes en el procedimiento de presentación e ingreso de las autoliquidaciones, durante el plazo señalado en el artículo 70.2 de la Ley 58/2003, de 17 de diciembre, General Tributaria.

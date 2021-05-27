@@ -1,0 +1,17 @@
+## Disposición final tercera. Modificación del Real Decreto 1021/2015, de 13 de noviembre, por el que se establece la obligación de identificar la residencia fiscal de las personas que ostenten la titularidad o el control de determinadas cuentas financieras y de informar acerca de las mismas en el ámbito de la asistencia mutua.
+
+Se modifica el artículo 4 del Real Decreto 1021/2015, de 13 de noviembre, por el que se establece la obligación de identificar la residencia fiscal de las personas que ostenten la titularidad o el control de determinadas cuentas financieras y de informar acerca de las mismas en el ámbito de la asistencia mutua, que queda redactado de la siguiente forma:
+
+«Artículo 4. Obligación de información.
+
+Conforme al artículo 30.2 del Reglamento General de las actuaciones y procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos aprobado mediante Real Decreto 1065/2007, de 27 de julio, las instituciones financieras vendrán obligadas a presentar una declaración informativa cuando las personas que ostenten la titularidad o el control de las cuentas financieras sean residentes fiscales en alguno de los siguientes países o jurisdicciones:
+
+a) Otro Estado miembro de la Unión Europea, cualquier territorio al que sea de aplicación la Directiva 2011/16/UE modificada por la Directiva 2014/107/UE del Consejo, de 9 de diciembre de 2014, por lo que se refiere a la obligatoriedad del intercambio automático de información en el ámbito de la fiscalidad, o cualquier otro país o jurisdicción con el cual la Unión Europea haya celebrado un acuerdo en virtud del cual el país o jurisdicción deba facilitar la información especificada en el artículo 5 de este real decreto.
+
+b) Otro país o jurisdicción respecto del cual haya surtido efectos el Acuerdo Multilateral entre Autoridades Competentes sobre Intercambio Automático de Información de Cuentas Financieras con el que exista reciprocidad en el intercambio de información.
+
+c) Cualquier otro país o jurisdicción con el cual España haya celebrado un acuerdo en virtud del cual el país o jurisdicción deba facilitar la información especificada en el artículo 5 de este real decreto conforme a lo dispuesto en este real decreto, con el que exista reciprocidad en el intercambio de información.
+
+Esta declaración informativa tendrá carácter anual y se efectuará en la forma, lugar y plazo que se determine por orden de la Ministra de Hacienda, en la cual se incluirá la lista de los países o jurisdicciones a que se refieren las letras a), b) y c) de este artículo, así como aquellas que se consideren participantes a efectos de lo dispuesto en este real decreto.
+
+No obstante, las instituciones financieras vendrán igualmente obligadas a presentar la citada declaración informativa, aun cuando tras la aplicación de las normas de diligencia debida contenidas en el anexo de este real decreto concluyan que no existen cuentas sujetas a comunicación de información de conformidad con el apartado D de la sección VIII del citado anexo, en los términos y en la forma que se establezcan en la orden mencionada anteriormente.»
