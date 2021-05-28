@@ -2,4 +2,6 @@
 
 Los trabajadores autónomos que a 31 de enero de 2021 vinieran percibiendo la prestación extraordinaria de cese de actividad para los trabajadores autónomos afectados por una suspensión temporal de toda la actividad, como consecuencia de resolución de la autoridad competente, como medida de contención de la propagación del virus COVID-19 contemplada en el artículo 13.1 del Real Decreto-ley 30/2020, de 29 de septiembre, podrán continuar percibiéndola con los mismos requisitos y condiciones, durante el tiempo que permanezca la actividad suspendida y hasta el último día del mes en que se acuerde el levantamiento de las medidas o el 31 de mayo de 2021 si esta última fecha es anterior.
 
+> Téngase en cuenta la disposición transitoria segunda del Real Decreto-ley 11/2021, de 27 de mayo, para los trabajadores autónomos que, a 31 de mayo de 2021, vinieran percibiendo la prestación extraordinaria de cese de actividad para los trabajadores autónomos afectados por una suspensión temporal de toda la actividad, contemplada en la presente disposición. Ref. BOE-A-2021-8877#dt-2
+
 > Se modifica por el art. 4.3 del Real Decreto-ley 3/2021, de 2 de febrero. Ref. BOE-A-2021-1529#a4

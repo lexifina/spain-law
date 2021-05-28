@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Comisión de Seguimiento tripartita laboral.
+
+1. La Comisión de Seguimiento tripartita laboral estará integrada por el Ministerio de Trabajo y Economía Social, el Ministerio de Inclusión, Seguridad Social y Migraciones y por la Confederación Española de Organizaciones Empresariales (CEOE), la Confederación Española de la Pequeña y Mediana Empresa (CEPYME), Comisiones Obreras (CC.OO.) y la Unión General de Trabajadores (UGT), y tendrá como funciones, desde la entrada en vigor de este real decreto-ley, la valoración de las medidas recogidas en este y de la evolución de la actividad económica y el empleo, así como el análisis de las eventuales medidas futuras para la protección del empleo y del tejido productivo.
+
+2. Para el desarrollo de dichas funciones, la Comisión se reunirá, con carácter ordinario, cada quince días desde la entrada en vigor de la presente norma, previa convocatoria remitida al efecto por el Ministerio de Trabajo y Economía Social y, con carácter extraordinario, siempre que lo soliciten tres de las cuatro organizaciones integrantes de la misma.
