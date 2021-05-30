@@ -16,7 +16,7 @@ En esta se define el concurso-oposición como sistema de selección, estructurá
 
 Asimismo, la norma incorpora en el anexo I el cuadro médico de exclusiones aplicable en el ingreso en el centro docente de formación que refleja la disminución de la talla en 155 para mujeres y 160 para hombres en conformidad con la sentencia del Tribunal de Justicia de la Unión Europea de 18 de octubre de 2017 y para adaptarse a las nuevas modificaciones realizadas en el cuadro médico de exclusiones exigible para el ingreso en los centros docentes militares de formación e igualar los requisitos de talla mínima en todos los procesos de selección.
 
-Así también se ha adaptado el anexo I a lo dispuesto en el Acuerdo de Consejo de Ministros del 30 de noviembre de 2018, por el que se aprueban instrucciones para actualizar las convocatorias de pruebas selectivas de personal funcionario, estatutario y laboral, civil y militar en orden a eliminar ciertas causas médicas de exclusión en el acceso al empleo público.
+Así también se ha adaptado el anexo I a lo dispuesto en el Acuerdo del Consejo de Ministros de 30 de noviembre de 2018, por el que se aprueban instrucciones para actualizar las convocatorias de pruebas selectivas de personal funcionario, estatutario y laboral, civil y militar, en orden a eliminar el VIH, la diabetes, la enfermedad celiaca y la psoriasis como causas de exclusión en el acceso al empleo público, publicado en la Orden PCI/154/2019, de 19 de febrero.
 
 Con arreglo al mencionado Acuerdo, en esta orden ministerial se inician las acciones encaminadas a reducir la exclusión de aspirantes con enfermedades que no impidan el normal desarrollo de las tareas encomendadas a la Guardia Civil.
 
@@ -29,3 +29,5 @@ En lo que se refiere al contenido y tramitación de esta norma se han observado 
 Por último, en cumplimiento de lo dispuesto en el artículo 54 de la Ley Orgánica 11/2007, de 22 de octubre, reguladora de los derechos y deberes de los miembros de la Guardia Civil, esta orden ha sido sometida al informe del Consejo de la Guardia Civil.
 
 En su virtud, a propuesta del Ministro del Interior y de la Ministra de Defensa, con la aprobación previa de la Ministra de Política Territorial y Función Pública, dispongo:
+
+> Se modifica el párrafo décimo por al art. único.1 de la Orden PCM/521/2021, de 27 de mayo. Ref. BOE-A-2021-8977

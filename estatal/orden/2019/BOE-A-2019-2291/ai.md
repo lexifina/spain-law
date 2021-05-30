@@ -2,13 +2,13 @@
 
 ## Cuadro médico de exclusiones para ingreso en los centros docentes de formación para la incorporación a la Escala de Cabos y Guardias de la Guardia civil
 
-Para la aplicación de cualquier apartado del cuadro médico de exclusiones se considerarán las siguientes situaciones como motivos de exclusión:
+Para la aplicación de cualquier apartado del cuadro médico de exclusiones se considerarán las siguientes situaciones como motivos de exclusión, que deberán motivarse de forma individual por informe técnico emitido por el servicio médico correspondiente:
 
 a) Procesos que hagan prever la incapacidad para realizar los periodos de formación adecuadamente.
 
-b) Procesos en los que se prevea que en un futuro pudieran ocasionar algún tipo de limitación en el desempeño pleno de las funciones propias del servicio o puedan suponer una insuficiencia de condiciones psicofísicas de carácter permanente.
+b) Procesos en los que se prevea que en un futuro pudieran impedir el desempeño pleno de las funciones propias del servicio o puedan suponer una insuficiencia de condiciones psicofísicas de carácter permanente.
 
-La determinación de las condiciones psicofísicas del cuadro médico de exclusiones estará adaptada a la evidencia científica en el momento de la convocatoria, sujeto al dictamen del órgano facultativo correspondiente y sin perjuicio de la superación de las pruebas selectivas en cada caso. Para ello se aplicará el correspondiente cuestionario de salud y se realizarán todas las exploraciones necesarias entre las que se incluyen analítica de sangre y orina con detección de sustancias psicotrópicas o drogas, y de alcohol cuando así se establezca.
+Además, la determinación de las condiciones psicofísicas del cuadro médico de exclusiones estará adaptada a la evidencia científica en el momento de la convocatoria, sujeto al dictamen del órgano facultativo correspondiente y sin perjuicio de la superación de las pruebas selectivas en cada caso. Para ello se aplicará el correspondiente cuestionario de salud y se realizarán todas las exploraciones necesarias entre las que se incluyen analítica de sangre y orina con detección de sustancias psicotrópicas o drogas, y de alcohol cuando así se establezca.
 
 A) Parámetros Biológicos, enfermedades y causas generales.
 
@@ -22,13 +22,13 @@ Se podrán aceptar IMC superiores a 30 si objetiva y claramente se deben no a un
 
 3.1 Pérdida o alteración, total o parcial, congénita o adquirida de cualquier parte del cuerpo que limite o dificulte la eficacia de las actividades propias del servicio.
 
-3.2 Enfermedades o anomalías genéticas, o hereditarias, constitucionales o adquiridas que limiten o dificulten la realización de las actividades del servicio o puedan suponer un riesgo para la salud del examinado o para terceros.
+3.2 Enfermedades o anomalías genéticas, o hereditarias, constitucionales o adquiridas que impidan la realización de las actividades del servicio o supongan un riesgo para la salud del examinado o para terceros, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
-3.3 Enfermedades congénitas o adquiridas que precisen algún tipo de tratamiento específico y/o de larga duración difícilmente compatible con las actividades propias del servicio.
+3.3 Enfermedades congénitas o adquiridas que precisen algún tipo de tratamiento específico y/o de larga duración incompatible con las actividades propias del servicio, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
-3.4 Enfermedades infecciosas y parasitarias que o bien originen trastornos funcionales, exijan un tratamiento continuado o bien por el riesgo de su contagiosidad sean incompatibles con el desempeño de las funciones del servicio.
+3.4 Enfermedades infecciosas y parasitarias que sean incompatibles con el desempeño de las funciones del servicio, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
-3.5 Enfermedades inmunológicas, intoxicaciones, hemopatías congénitas o adquiridas que dificulten o limiten el desarrollo de las funciones propias del servicio o que sean susceptibles de empeoramiento con el aumento de los requerimientos operativos.
+3.5 Enfermedades inmunológicas, intoxicaciones, hemopatías congénitas o adquiridas que impidan el desarrollo de las funciones propias del servicio o que sean susceptibles de empeoramiento con el aumento de los requerimientos operativos, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
 3.6 Enfermedades alérgicas/inmunoalérgicas sintomáticas o no controladas con tratamientos médicos compatibles con los requerimientos del servicio o puedan verse agravadas por las actividades del servicio.
 
@@ -38,19 +38,13 @@ Se podrán aceptar IMC superiores a 30 si objetiva y claramente se deben no a un
 
 3.9 Tumores malignos y lesiones precancerosas de cualquier localización y forma clínica y los benignos que, por su tamaño o localización originen trastornos funcionales incompatibles con las actividades del servicio.
 
-3.10 Cualquier hallazgo, alteración, lesión o enfermedad que, bien por sí mismo, su evolución, secuelas o por el tratamiento o su necesidad de control, dificulte o limite significativamente el correcto desempeño de las funciones encomendadas o supongan un riego para sí mismo o para terceros.
+3.10 Cualquier hallazgo, alteración, lesión o enfermedad que, bien por sí mismo, su evolución, secuelas o por el tratamiento o su necesidad de control, impida significativamente el correcto desempeño de las funciones encomendadas o supongan un riego para sí mismo o para terceros, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
 3.11 Evidencia de consumo de cualquier tipo de sustancia psicotrópica o droga, incluido alcohol, o su detección analítica en el reconocimiento médico, así como de cualquier tipo de medicación que pueda disminuir la capacidad de reacción del examinado o que funcionalmente incapacite para la realización de las actividades propias del servicio.
 
 B) Piel y tejido celular subcutáneo.
 
-1. Cualquier enfermedad de la piel o anejos que comprometa las funciones a desempeñar o impida el uso de la uniformidad reglamentaria.
-
-2. Afecciones de la piel o anejos o, sus secuelas que afecten a la motilidad o impidan el uso del equipo reglamentario.
-
-3. Eczemas, cicatrices que produzcan limitación funcional y otros procesos patológicos que dificulten o limiten el desarrollo de las funciones del servicio, sean susceptibles de empeoramiento con el aumento de los requerimientos operativos o precisen algún tipo de tratamiento específico y/o de larga duración difícilmente compatible con las actividades propias del servicio.
-
-4. Dermopatías contagiosas.
+Enfermedades de la piel y tejido celular subcutáneo que impidan el desarrollo de las funciones propias del servicio, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
 C) Enfermedades y trastornos neurológicos.
 
@@ -124,7 +118,7 @@ D) Psiquiatría.
 
 E) Enfermedades del aparato digestivo.
 
-1. Toda alteración del aparato digestivo congénita o adquirida que pueda perjudicar o pueda verse agravada por las actividades propias del servicio.
+1. Alteraciones del aparato digestivo congénitas o adquiridas que impidan las actividades propias del servicio, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
 2. Trastornos funcionales digestivos incompatibles con el servicio.
 
@@ -134,7 +128,7 @@ E) Enfermedades del aparato digestivo.
 
 5. Afecciones del esófago que cursen con disfagia.
 
-6. Afecciones del estómago, intestino y peritoneo que produzcan trastornos orgánicos o funcionales.
+6. Afecciones del estómago, intestino y peritoneo, excepto la enfermedad celiaca, que produzcan trastornos orgánicos o funcionales y que impidan las actividades propias del servicio, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
 7. Enfermedad ulcerosa gastroduodenal activa.
 
@@ -166,13 +160,13 @@ E) Enfermedades del aparato digestivo.
 
 21. Tumoraciones del aparato digestivo.
 
-22. Cualquier enfermedad, alteración o trastorno anatómico o funcional del aparato digestivo que, bien por sí mismo, su evolución o por requerir un tratamiento médico continuo o unas medidas higiénico dietéticas específicas, limiten o dificulten significativamente el desempeño de las funciones del servicio
+22. Cualquier enfermedad, alteración o trastorno anatómico o funcional del aparato digestivo que, bien por sí mismo o por su evolución, impida el desempeño de las funciones del servicio, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
 F) Enfermedades endocrinometabólicas.
 
-1. Toda enfermedad metabólica de las glándulas endocrinas que limite, incapacite o presente un pronóstico perjudicial para el ejercicio de las funciones propias del servicio.
+1. Enfermedades metabólicas que, bien por sí mismas o por su evolución, impidan el desempeño de las funciones del servicio, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente
 
-2. Enfermedades endocrinometabólicas que requieran terapia sustitutiva continua.
+2. Enfermedades endocrinometabólicas que requieran terapia sustitutiva continua y que, bien por sí mismas o por su evolución, impidan el desempeño de las funciones del servicio, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
 3. Enfermedades endocrinometabólicas que produzcan alteraciones morfológicas o funcionales de importancia pronostica, o que limiten o impidan la realización plena de las funciones propias del servicio o bien puedan verse agravadas por los requerimientos operativos propios de la actividad profesional.
 
@@ -364,7 +358,7 @@ L) Sangre y órganos hematopoyéticos.
 
 1. Enfermedades de la sangre o de los órganos hematopoyéticos que, por su importancia funcional o pronóstica puedan limitar el ejercicio de las funciones propias del servicio o bien por su evolución puedan verse agravadas por los cometidos propios de la actividad profesional.
 
-2. Enfermedades o procesos inmunitarios que dificulten o limiten el desarrollo de las funciones propias del servicio o que precisen algún tipo de tratamiento específico y/o de larga duración.
+2. Enfermedades o procesos inmunitarios que impidan el desarrollo de las funciones propias del servicio, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
 3. Trastornos de la coagulación.
 
@@ -435,3 +429,5 @@ M) Aparato urogenital.
 32. Endometriosis incapacitante.
 
 33. Cualquier hallazgo, lesión o enfermedad del aparato genital femenino que, bien por sí mismo, su evolución o por el tratamiento requerido (continuo o de larga duración), limite o dificulte el correcto desempeño de las funciones profesionales o puedan verse agravadas por las mismas.
+
+> Se modifican los párrafos primero y segundo y los apartados A), B), E), F) y L) por al art. único.6 a 11 de la Orden PCM/521/2021, de 27 de mayo. Ref. BOE-A-2021-8977
