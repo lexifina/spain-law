@@ -1,0 +1,3 @@
+El Consejo de Ministros en su reunión del día 25 de mayo de 2021, ha adoptado un acuerdo por el que se establecen los términos y condiciones del sexto tramo de la línea de avales a financiación concedida a empresas y autónomos con la finalidad principal de financiar inversiones y se autorizan límites para adquirir compromisos de gasto con cargo a ejercicios futuros, en aplicación de lo dispuesto en el artículo 47 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+A los efectos de dar publicidad al mencionado Acuerdo del Consejo de Ministros de 25 de mayo de 2021, esta secretaría de Estado de Economía y Apoyo a la Empresa ha resuelto disponer la publicación del mismo en el «Boletín Oficial del Estado» como anexo a la presente resolución.
