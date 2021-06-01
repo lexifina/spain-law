@@ -1,0 +1,51 @@
+## Tercera. Dirección General de Política Energética y Minas.
+
+1. Se delegan por la persona titular del ministerio en la persona titular de la Dirección General de Política Energética y Minas, en materia de convenios, encomiendas de gestión, encargos, transferencias, ayudas y subvenciones públicas, préstamos, aportaciones patrimoniales y gestión presupuestaria:
+
+a) Las facultades de formalización de convenios a los que se refiere el artículo 61.k) de la Ley 40/2015, de 1 de octubre, así como sus modificaciones, salvo los convenios con comunidades autónomas y las Ciudades de Ceuta y Melilla. Todo ello con el límite de la cuantía establecida en el anexo.
+
+b) Las facultades de formalización de encargos a medios propios, a que se refiere el artículo 32 de la Ley 9/2017, de 8 de noviembre, y encomiendas de gestión del artículo 11 de la Ley 40/2015, de 1 de octubre, así como las modificaciones de los encargos y encomiendas de gestión formalizadas por la persona titular de la dirección general. Todo ello con el límite de la cuantía establecida en el anexo.
+
+c) En relación con los encargos a medios propios personificados, con independencia de su cuantía, la preparación, aprobación, cumplimiento y extinción, incluidos los trámites relativos a la iniciación de los expedientes y la autorización para redactar y aprobar modificaciones, así como la aprobación técnica de los pliegos de prescripciones técnicas, proyectos, modificaciones y liquidaciones. La aprobación de las liquidaciones de encargos, con independencia de la cuantía.
+
+d) La aprobación de los reajustes de anualidades y la fijación de las compensaciones económicas que, en su caso, procedan.
+
+e) La concesión de ayudas y subvenciones públicas, así como de transferencias, con el límite de la cuantía establecida en el anexo. El inicio y la resolución de los expedientes sancionadores en esta materia.
+
+f) La convocatoria y concesión de préstamos y realización de aportaciones patrimoniales, con el límite de la cuantía establecida en el anexo.
+
+g) Los acuerdos de cancelación de garantías prestadas por los beneficiarios de las ayudas y subvenciones públicas del ámbito de la secretaría de Estado.
+
+h) La resolución desestimatoria de las solicitudes y la resolución en casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud, de todo tipo de ayudas y subvenciones públicas del ámbito de la secretaría de Estado, así como la desaparición sobrevenida del objeto del procedimiento, cuando en este ámbito, correspondan a la persona titular del ministerio.
+
+i) La incoación, la designación del órgano instructor y la resolución del procedimiento sancionador de las ayudas y subvenciones públicas del ámbito de la secretaría de Estado.
+
+j) La aprobación de gastos y su compromiso con el límite de la cuantía establecida en el anexo.
+
+Cuando en un mismo acto se apruebe o comprometa gasto y se reconozca la obligación, la competencia se determinará conforme a lo establecido en este apartado.
+
+Las delegaciones establecidas en este párrafo se entienden sin perjuicio de las delegaciones realizadas en otros apartados de esta orden cuyo ejercicio comprenda la de aprobar, comprometer o reconocer obligaciones, que tendrán preferencia sobre lo dispuesto en este párrafo.
+
+El reconocimiento de obligaciones que afecten al ámbito material de más de una subdirección general, así como la autorización de los documentos contables para este caso concreto.
+
+2. Se delegan por la persona titular de la Secretaría de Estado de Energía en la persona titular de la Dirección General de Política Energética y Minas, en materia de contratos:
+
+a) Las facultades de contratación, con el límite de la cuantía establecida en el anexo.
+
+b) Todas las actuaciones de preparación de los contratos, cumplimiento y extinción, incluida la aprobación técnica y definitiva de los anteproyectos y proyectos de obras, así como la aprobación de los pliegos de cláusulas administrativas particulares y de prescripciones técnicas de los contratos, y las modificaciones legalmente previstas de los contratos adjudicados por la persona titular de la dirección general.
+
+c) La aprobación de las certificaciones finales y liquidaciones de contratos.
+
+d) La aprobación de los reajustes de anualidades de los contratos y la fijación de las compensaciones económicas que, en su caso, procedan.
+
+e) Todos los demás actos de tramitación en materia de contratación administrativa no delegados en las personas titulares de las subdirecciones generales u otros órganos administrativos.
+
+3. Se delegan por la persona titular del ministerio en la persona titular de la Dirección General de Política Energética y Minas, las facultades en materia de expropiación forzosa que le atribuye la legislación en la materia.
+
+4. Se delegan por la persona titular del ministerio en la persona titular de la Dirección General de Política Energética y Minas, las actuaciones en materia del gasto relativo a las transferencias a las Cámaras Oficiales Mineras por su participación en la recaudación de la tasa 072, en el ámbito del servicio presupuestario de la dirección general, la aprobación, compromiso, reconocimiento de la obligación y propuesta de pago, y la autorización de los documentos contables.
+
+5. La persona titular de la subsecretaría delega en la persona titular de la Dirección General de Política Energética y Minas, las siguientes competencias:
+
+a) La certificación en los contratos de servicios y en los encargos a medios propios del ámbito de actuación de la dirección general, de la insuficiencia, falta de adecuación o conveniencia de no ampliación de los medios personales y materiales con que cuenta la Administración para cubrir las necesidades que se trata de satisfacer a través del contrato de servicios.
+
+b) En materia de indemnizaciones por razón de servicio, la designación de comisiones de servicio con derecho a indemnización de las personas titulares de las subdirecciones generales adscritas a la dirección general o a la unidad de apoyo de la dirección general.
