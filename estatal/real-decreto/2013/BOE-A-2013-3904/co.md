@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 125, de 25 de mayo de 2013. Ref. BOE-A-2013-5511.
+Norma derogada, con efectos de 3 de junio de 2021, por la disposición derogatoria única.1 del Real Decreto 390/2021, de 1 de junio. Ref. BOE-A-2021-9176#dd
