@@ -1,0 +1,5 @@
+## Noveno. Certificado COVID Digital de la UE.
+
+Cuando entre en vigor la regulación europea relativa al marco para la expedición, verificación y aceptación de certificados interoperables de vacunación, de test y de recuperación para facilitar la libre circulación durante la pandemia de COVID-19, a los pasajeros que procedan de países o zonas de riesgo que utilicen un Certificado COVID Digital de la UE, en cualquiera de sus modalidades: vacunación, diagnóstico o recuperación, se les generará, en el proceso de cumplimentación del formulario de control sanitario, tras su validación automatizada por SpTH, un código QR con la denominación FAST CONTROL, lo que permitirá que no sea preciso mostrar el Certificado COVID Digital de la UE en el proceso de embarque ni en el control sanitario a la llegada.
+
+Para ello, cuando la regulación europea del Certificado COVID Digital de la UE se encuentre en plena vigencia, los viajeros que presenten un certificado emitido por un Estado Miembro de la Unión utilizarán el Certificado COVID Digital de la UE.
