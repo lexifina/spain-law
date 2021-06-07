@@ -1,0 +1,27 @@
+El 23 de junio de 2020, como consecuencia de la crisis sanitaria ocasionada por el COVID-19, se prohibió la entrada en puertos españoles de los buques de pasaje de tipo crucero que realizasen viajes internacionales y navegasen por aguas del mar territorial con objeto de entrar en los puertos abiertos a dicho tipo de navegación. Esta decisión se adoptó en virtud de lo dispuesto en el artículo 18.3 del Real Decreto-ley 21/2020, de 9 de junio, de medidas urgentes de prevención, contención y coordinación para hacer frente a la crisis sanitaria ocasionada por el COVID-19.
+
+La evolución favorable en la contención de la pandemia permite la modificación progresiva de las limitaciones que se establecieron, sin dejar de adoptar medidas de prevención, contención y coordinación frente a la crisis sanitaria provocada por dicha pandemia. Así lo reconoce la Ley 2/2021, de 29 de marzo, de medidas urgentes de prevención, contención y coordinación para hacer frente a la crisis sanitaria ocasionada por el COVID-19.
+
+Teniendo en cuenta que la crisis sanitaria aún subsiste y cuya superación aún no ha sido oficialmente declarada ni en el ámbito nacional, ni en el internacional, por los organismos y autoridades competentes, y en aplicación del deber general de cautela y protección que afiance comportamientos de prevención en el conjunto de la población, el artículo 18 de la Ley 2/2021, de 29 de marzo, contiene las medidas a aplicar sobre el transporte marítimo, y más específicamente las relativas a los buques de pasaje tipo crucero.
+
+La evolución positiva en las últimas semanas de la pandemia a nivel europeo, de donde proceden la mayoría de los pasajeros de cruceros internacionales con escala en puertos españoles, así como el aumento de las coberturas de vacunación contra el SARS-CoV-2 y la disminución del nivel de riesgo de las Comunidades Autónomas con puertos susceptibles de recibir este tipo de buques, permiten el reinicio de la actividad de los buques de pasaje de tipo crucero que realicen viajes internacionales y tengan por destino puertos españoles. Se considera que esta actividad se producirá con seguridad, tanto para los pasajeros de los cruceros como para la población de las localidades donde están ubicados los puertos que visitan.
+
+En este sentido, el documento de «Medidas sanitarias para el restablecimiento de los cruceros internacionales» del Ministerio de Sanidad, incluye las medidas que deberán implementar los buques de pasaje tipo crucero que pretendan realizar trayectos internacionales visitando puertos españoles, para la prevención de eventos relacionados con la emergencia sanitaria por COVID-19 y para llevar a cabo una gestión adecuada en caso de producirse.
+
+Los fundamentos jurídicos de esta resolución son los siguientes:
+
+a) El artículo 18.3 de la Ley 2/2021, de 29 de marzo, que habilita al Director General de la Marina Mercante para ordenar, a propuesta del Ministerio de Sanidad, la adopción de las medidas sanitarias que procedan para el control de los buques de pasaje de transbordo rodado y buques de pasaje, incluidos los de tipo crucero, que realicen viajes internacionales y naveguen por aguas del mar territorial con objeto de entrar en los puertos españoles abiertos a la navegación internacional.
+
+Por escrito de 26 de mayo de 2021, de la Directora General de Salud Pública, se comunicó que no existe inconveniente para el restablecimiento de la actividad de los cruceros internacionales, siempre y cuando se cumplan las medidas señaladas en el documento de «Medidas sanitarias para el restablecimiento de los cruceros internacionales» del Ministerio de Sanidad.
+
+b) Los artículos 7, 19 y 38 de la Ley 14/2014, de 24 de julio, de Navegación Marítima prevén la adopción de prohibiciones o restricciones, tanto en aguas interiores como en otros espacios marítimos españoles, incluido el paso inocente en el mar territorial, a la entrada de buques en los puertos españoles y a la navegación por razones de emergencia o riesgos específicos para la salud pública. Todo ello, en atención a la valoración de la situación efectuada por el Ministerio de Sanidad con arreglo a lo previsto en la normativa sanitaria.
+
+Asimismo, continúa siendo de aplicación la normativa sobre:
+
+a) Medidas aplicables a la entrada de personas de la Orden INT/657/2020, de 17 de julio, por la que se modifican los criterios para la aplicación de una restricción temporal de viajes no imprescindibles desde terceros países a la Unión Europea y países asociados Schengen por razones de orden público y salud pública con motivo de la crisis sanitaria ocasionada por la COVID-19;
+
+b) medidas de prevención e higiene en medios de transporte marítimo del artículo 6 de la Ley 2/2021, de 29 de marzo; y
+
+c) medidas de control sanitario de la Resolución de 11 de noviembre de 2020, de la Dirección General de Salud Pública, relativa a los controles sanitarios a realizar en los puntos de entrada de España.
+
+En su virtud, resuelvo:
