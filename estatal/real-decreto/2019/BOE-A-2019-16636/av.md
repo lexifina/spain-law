@@ -22,6 +22,8 @@ f) Otros aditivos con un contenido máximo fijado.
 
 4. Accesorios masticables para animales de compañía.
 
-5. Piensos medicamentosos o productos intermedios medicamentosos.
+5. Piensos medicamentosos o productos intermedios.
 
 6. Materias primas o productos no autorizados en alimentación animal destinados a la fabricación de piensos que no se ajusten a la normativa de la Unión Europea y cuyo fin específico sea la exportación a países terceros.
+
+> Se modifica el apartado 5 por la disposición final 2.10 Real Decreto 370/2021, de 25 de mayo. Ref. BOE-A-2021-9495#df-2

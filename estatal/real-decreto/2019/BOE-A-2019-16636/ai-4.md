@@ -12,13 +12,13 @@
 
 (2) Actividades de los establecimientos:
 
-A = Establecimientos que realicen alguna actividad de fabricación de aditivos contemplados en el Reglamento (CE) n.º 1831/2003 distintos de los contemplados en el apartado 1.a) del artículo 10 del Reglamento (CE) n.º 183/2005 del Parlamento Europeo y del Consejo, de 12 de enero de 2005.
+A = Establecimientos que realicen alguna actividad de fabricación de aditivos contemplados en el Reglamento (CE) n.º 1831/2003 del Parlamento Europeo y del Consejo, de 22 de septiembre de 2003, distintos de los contemplados en los apartados 1.a) y 3 del artículo 10 del Reglamento (CE) n.º 183/2005 del Parlamento Europeo y del Consejo, de 12 de enero de 2005.
 
 B = Establecimientos que realicen alguna actividad de fabricación de premezclas distintas de las contempladas en el apartado 1.b) del artículo 10 del Reglamento (CE) n.º 183/2005 del Parlamento Europeo y del Consejo, de 12 de enero de 2005.
 
 C = Establecimientos que realicen alguna actividad de fabricación de piensos compuestos y que no requieran autorización según lo dispuesto en el apartado 1.c) del artículo 10 del Reglamento (CE) n.º 183/2005 del Parlamento Europeo y del Consejo, de 12 de enero de 2005.
 
-E = Establecimientos que realicen alguna actividad de fabricación de piensos compuestos exclusivamente para las necesidades de su explotación y que utilicen aditivos distintos de los contemplados en el capítulo 3 del anexo IV del Reglamento (CE) n.º 183/2005 del Parlamento Europeo y del Consejo, de 12 de enero de 2005, excepto los aditivos de ensilado.
+E = Establecimientos que realicen alguna actividad de fabricación de piensos compuestos exclusivamente para las necesidades de su explotación y que utilicen aditivos o premezclas de aditivos con excepción de los aditivos de ensilado, distintos de los contemplados en el capítulo 3 del anexo IV del Reglamento (CE) n.º 183/2005 del Parlamento Europeo y del Consejo, de 12 de enero de 2005.
 
 F = Establecimientos que realicen alguna actividad de fabricación de materias primas para alimentación animal, excepto las incluidas en los apartados 8, 9 y 10 de la parte C del anexo del Reglamento (UE) n.º 68/2013.
 
@@ -26,7 +26,7 @@ G = Establecimientos que realicen una actividad de secado por convección.
 
 H = Establecimientos que realicen alguna actividad de fabricación de piensos compuestos sin aditivos ni premezclas para su comercialización.
 
-I = Establecimientos que realicen alguna actividad de comercialización y/o almacenamiento de piensos no contemplados en los apartados 1.a), 1.b) o 1.c) del artículo 10 del Reglamento (CE) n.º 183/2005 del Parlamento Europeo y del Consejo, de 12 de enero de 2005 o de materias primas contempladas en el Reglamento (UE) n.º 68/2013, excepto los apartados 8, 9 y 10 de la parte C del anexo.
+I = Establecimientos que realicen alguna actividad de comercialización y/o almacenamiento de piensos no contemplados en los apartados 1.a), 1.b) o 3 del artículo 10 del Reglamento (CE) n.º 183/2005 del Parlamento Europeo y del Consejo, de 12 de enero de 2005, o de materias primas para alimentación animal.
 
 P = Establecimientos que realicen una actividad de almacenamiento intermedio de subproductos de origen animal clasificados como material de categoría 3 de acuerdo con el artículo 10.f) del Reglamento (CE) n.º 1069/2009 y que cumplen con las condiciones establecidas en la sección 10 del capítulo II del anexo X del Reglamento (UE) n.º 142/2011.
 
@@ -38,9 +38,9 @@ T = Establecimientos que realicen la actividad de transporte.
 
 Z = Establecimientos que realicen otras actividades no incluidas en letras anteriores.
 
-IMP = establecimientos que realicen una actividad de importación concurrente con alguna de las actividades de las letras anteriores.
+IMP = establecimientos que realicen una actividad de importación de productos no incluidos en el anexo V, concurrente con alguna de las actividades de las letras anteriores.
 
-PM = establecimientos que almacenen, transporten o comercialicen piensos medicamentosos o piensos intermedios medicamentosos, previstos en el apartado 2 del artículo 13 del reglamento (UE) 2019/4.
+PM = establecimientos que almacenen, transporten o comercialicen piensos medicamentosos o productos intermedios, previstos en el apartado 2 del artículo 13 del Reglamento (UE) n.º 2019/4 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018.
 
 (3) Nombre o denominación comercial del establecimiento y de la empresa de piensos.
 
@@ -62,17 +62,17 @@ DCP/TCP =
 
 i. Plantas de transformación que producen fosfatos dicálcico o tricálcico, de acuerdo con las disposiciones de la sección B del capítulo IV del anexo IV del Reglamento (CE) n.º 999/2001.
 
-ii. Los establecimientos fabricantes de piensos compuestos que producen piensos que contienen fosfato dicálcico o tricálcico de origen animal procedentes de no rumiantes, conforme al apartado 1 de la sección B del capítulo III del anexo IV del Reglamento (CE) n.º 999/2001.
+ii. Los establecimientos fabricantes de piensos compuestos que producen piensos que contienen fosfato dicálcico o tricálcico de origen animal procedentes de no rumiantes, conforme a la sección B del capítulo III del anexo IV del Reglamento (CE) 999/2001 del Parlamento y del Consejo, de 22 de mayo de 2001.
 
 BP =
 
 i. Las plantas de transformación inscritas como fábricas en las que se transforma exclusivamente sangre de no rumiantes conforme al párrafo primero de la letra c) de la sección C del capítulo IV del anexo IV del Reglamento (CE) n.º 999/2001, así como las plantas autorizadas que producen hemoderivados conforme a los párrafos segundo, tercero y cuarto de la letra c) de la sección C del capítulo IV del anexo IV del Reglamento (CE) n.º 999/2001 y en el artículo 4.2 del Real Decreto 578/2014, de 4 de julio de 2014.
 
-ii. Los establecimientos fabricantes de piensos compuestos que producen piensos que contienen hemoderivados procedentes de no rumiantes, conforme al apartado 1 de la sección B del capítulo III del anexo IV del Reglamento (CE) n.º 999/2001.
+ii. Los establecimientos fabricantes de piensos compuestos que producen piensos que contienen hemoderivados procedentes de no rumiantes, conforme a la sección B del capítulo III del anexo IV del Reglamento (CE) 999/2001 del Parlamento y del Consejo, de 22 de mayo de 2001.
 
 PAP =
 
-i. Las plantas de transformación inscritas en las que no se transforman subproductos animales de rumiantes conforme al párrafo primero de la letra c) de la sección D del capítulo IV del anexo IV del Reglamento (CE) n.º 999/2001 y a los apartados 1 y 2 del Real Decreto 578/2014, de 4 de julio de 2014.
+i. Las plantas de transformación inscritas en las que no se transforman subproductos animales de rumiantes conforme al párrafo primero de la letra c) de la sección D del capítulo IV del anexo IV del Reglamento (CE) n.º 999/2001 del Parlamento y del Consejo, de 22 de mayo de 2001, y a los apartados 1 y 2 del artículo 3 del Real Decreto 578/2014, de 4 de julio de 2014.
 
 ii. Los establecimientos fabricantes de piensos compuestos que producen piensos destinados a ser utilizados para la alimentación de animales de acuicultura que contienen proteína animal transformada de no rumiantes conforme a la letra d) de la sección D del capítulo IV del anexo IV del Reglamento (CE) n.º 999/2001.
 
@@ -93,3 +93,5 @@ b) El número de referencia nacional, hasta un máximo de ocho caracteres alfanu
 i. Dos dígitos que identifican la provincia, según la codificación del Instituto Nacional de Estadística.
 
 ii. Seis dígitos que asignará la autoridad competente.
+
+> Se modifica por la disposición final 2.9 Real Decreto 370/2021, de 25 de mayo. Ref. BOE-A-2021-9495#df-2
