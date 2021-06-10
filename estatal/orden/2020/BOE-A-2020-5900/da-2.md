@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Función de seguridad ciudadana.
+
+El personal que desempeñe la función de seguridad ciudadana que presta la Guardia Civil, en relación con la misión constitucional que tiene encomendada, continuará adquiriendo las competencias necesarias en la enseñanza de formación; y la actualización de conocimientos que resulten necesarios para el mantenimiento y potenciación de las mismas, en el sistema de formación continua de la enseñanza de perfeccionamiento de la Guardia Civil, no viéndose afectado en los restantes aspectos del régimen estatutario que, como función, venía ostentando hasta la entrada en vigor de esta orden.

@@ -1,0 +1,3 @@
+## Disposición final primera. Regulación de las especialidades.
+
+En el plazo de tres meses a partir de la fecha de entrada en vigor de esta orden, el Director General de la Guardia Civil aprobará la regulación específica de cada especialidad, en la que se fijará las competencias profesionales correspondientes a cada cualificación específica; los requisitos y condiciones exigidos, en su caso, para la ocupación de los puestos orgánicos de especialista, así como aquellos para el mantenimiento, renovación y, en su caso, para la declaración de caducidad de dichas cualificaciones específicas. Además, determinará la estructura, organización y funciones de cada una de las unidades de especialistas.

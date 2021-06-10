@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Requisitos y servidumbres asociados a los puestos orgánicos de especialistas.
+
+1. El personal que se encontrara destinado u ocupando temporalmente un puesto de trabajo en que, sin ser especialista, pueda cumplir la servidumbre por razón del título que ostente, y que a la entrada en vigor de esta orden ministerial deba ser considerado como un puesto orgánico de especialista, completará el periodo de servidumbre en la especialidad que le reste por cumplir, conforme a la normativa anterior.
+
+2. El personal, al que afecte las homologaciones de las cualificaciones específicas a que se refiere la disposición transitoria primera, cumplirá el periodo de servidumbre en la especialidad contabilizándolo desde la fecha de ocupación del puesto de trabajo cuyo requisito de titulación como puesto orgánico de especialista motiva la homologación de la cualificación correspondiente o, en su caso, añadiendo el tiempo permanecido ocupando aquellos puestos de trabajo similares en que se exija la misma cualificación específica.
