@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Repetición de curso.
+
+El alumnado que, cursando el plan de estudios aprobado por la Orden PRE/1480/2006, de 5 de mayo, por la que se aprueba el plan de estudios de la enseñanza de formación para la incorporación a la Escala de Suboficiales del Cuerpo de la Guardia Civil, no progrese y deba permanecer en el centro docente, una vez se encuentre implantado el plan de estudios de la enseñanza de formación a que se refiere esta orden, se integrará en la promoción siguiente, siéndole de aplicación cuanto se dispone en esta orden, siempre y cuando cumpla con los requisitos de acceso a este último plan de estudios, causando baja en el centro docente en caso contrario.
