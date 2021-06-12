@@ -39,8 +39,8 @@
 | 410 | PAGO A CUENTA DEL IMPUESTO SOBRE LOS DEPÓSITOS EN LAS ENTIDADES DE CRÉDITO. AUTOLIQUIDACIÓN | 0A |
 | 411 | IMPUESTO SOBRE LOS DEPÓSITOS EN LAS ENTIDADES DE CRÉDITO. AUTOLIQUIDACIÓN | 0A |
 | 440 | IMPUESTO GRAL. DEL TRÁFICO DE EMPRESAS | T |
+| 490 | IMPUESTO SOBRE DETERMINADOS SERVICIOS DIGITALES. AUTOLIQUIDACIÓN | T |
 | 568 | IMPUESTO ESPECIAL SOBRE DETERMINADOS MEDIOS DE TRANSPORTE | T |
-|  |
 | 576 | I.E. S/DETERMINADOS MEDIOS DE TRANSPORTE | 0A |
 | 595 | I.E. S/ EL CARBON | T |
 | 600 (2) | TRANSMISIONES PATRIMONIALES | 0A |
@@ -71,6 +71,10 @@
 (2) Cuando la gestión corresponda al Estado.
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se añade el modelo 490 por la disposición final 1 de la Orden HAC/590/2021, de 9 de junio. Ref. BOE-A-2021-9721#df
+
+> Esta modificación será aplicable a las autoliquidaciones que se presenten a partir de la entrada en vigor de la Ley 4/2020, de 15 de octubre, del Impuesto sobre Determinados Servicios Digitales, según establece la disposición final 4 de la citada Orden.
 
 > Se añade el modelo 604 por la disposición final 2 de la Orden HAC/510/2021, de 26 de mayo. Ref. BOE-A-2021-8878
 

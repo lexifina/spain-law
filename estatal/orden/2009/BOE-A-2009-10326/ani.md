@@ -34,6 +34,7 @@
 | 410 | Pago a cuenta del Impuesto sobre los Depósitos en las Entidades de Crédito. Autoliquidación. |
 | 411 | Impuesto sobre los Depósitos en las Entidades de Crédito. Autoliquidación. |
 | 430 | Declaración-liquidación Impuesto sobre las Primas de seguros. |
+| 490 | Impuesto sobre Determinados Servicios Digitales. Autoliquidación |
 | 560 | Impuesto sobre la Electricidad. Declaración-liquidación. |
 | 561 | Impuesto sobre la Cerveza. Declaración-liquidación. |
 | 562 | Impuesto sobre Productos Intermedios. Declaración-liquidación. |
@@ -51,6 +52,10 @@
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
+
+> Se añade el modelo 490 por la disposición final 2.1 de la Orden HAC/590/2021, de 9 de junio. Ref. BOE-A-2021-9721#df-2
+
+> Esta modificación será de aplicación a las autoliquidaciones que se presenten a partir del 16 de enero de 2021, fecha de entrada en vigor de la Ley 4/2020, de 15 de octubre, del Impuesto sobre Determinados Servicios Digitales, según establece la disposición final 4 de la citada orden.
 
 > Se suprime el modelo 564 por la disposición final 2 de la Orden HAC/135/2019, de 31 de enero. Ref. BOE-A-2019-2144
 

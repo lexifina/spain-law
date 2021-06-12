@@ -38,6 +38,7 @@
 | 410 | Plazo: Desde el día 1 hasta el 26 del mes de julio. |
 | 411 | Plazo: Desde el día 1 hasta el 26 del mes de julio. |
 | 430 | Desde el día 1 hasta el 15 del mes siguiente a la finalización del correspondiente periodo de liquidación mensual, excepto la correspondiente al mes de julio, que se presentará durante el mes de agosto y los primeros quince días naturales del mes de septiembre. |
+| 490 | Obligación trimestral de presentación: Desde el día 1 hasta el 25 de abril (primer trimestre), y desde el día 1 hasta el 26 de los meses de julio, octubre y enero (resto de trimestres). |
 | 560 | Obligación trimestral de presentación: Desde el día 1 al 15 del mes siguiente a aquel en que finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del mes siguiente al mes en que se han producido los devengos. Obligación anual de presentación: Desde el 1 al 15 del mes de abril del año siguiente al que se han producido los devengos. |
 | 561 | Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
 | 562 | Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
@@ -56,6 +57,10 @@
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Solo cuando el periodo impositivo finalice el día 31 de diciembre.
+
+> Se añade el modelo 490 y el plazo correspondiente, por la disposición final 2.2 de la Orden HAC/590/2021, de 9 de junio. Ref. BOE-A-2021-9721#df-2
+
+> Téngase en cuenta que en el ejercicio 2021, el plazo correspondiente al primer trimestre será el mismo que el del segundo trimestre de dicho ejercicio. Véase la disposición final 4 de la citada Orden para su aplicación.
 
 > Se modifican los plazos de los modelos 202 y 222 por la disposición final 1 de la Orden HAC/941/2018, de 5 de septiembre. Ref. BOE-A-2018-12515
 
