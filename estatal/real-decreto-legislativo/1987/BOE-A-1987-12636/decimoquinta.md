@@ -8,13 +8,11 @@ Dos. El derecho de la Administración a solicitar el reintegro de las prestacion
 
 Para el cumplimiento de las obligaciones económicas establecidas en el Régimen de Clases Pasivas del Estado, el plazo de prescripción será, asimismo, de cuatro años.
 
-> Téngase en cuenta que esta última actualización del apartado Dos, establecida por la disposición final 1.12 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df, entra en vigor el 6 de octubre de 2020, según establece la disposición transitoria 2.6 del Real Decreto 497/2020, de 28 de abril. Ref. BOE-A-2020-4763#dt-2
+> Téngase en cuenta que el apartado 2, en la redacción dada por la disposición final 1.12 del Real Decreto-ley 15/2020, de 21 de abril, se declara inconstitucional y nulo, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
 
-> Redacción anterior:
+> Según establece el fundamento jurídico 8, la nulidad derivada de la declaración de inconstitucionalidad debe quedar diferida hasta el 1 de enero de 2022, a fin de que antes de que expire ese plazo se pueda proceder a sustituir la regulación declarada inconstitucional y nula (por incumplimiento del presupuesto habilitante del art. 86.1 CE) por la regulación legal pertinente.
 
-> "Dos. El derecho de la Administración a solicitar el reintegro de las prestaciones del Régimen de Clases Pasivas indebidamente percibidas, cualquiera que sea su legislación reguladora, así como de las prestaciones causadas al amparo de la legislación especial de guerra, y, en general, de cualesquiera otras prestaciones abonadas con cargo a los créditos de la Sección 07 del Presupuesto de Gastos del Estado, prescribirá a los cuatro años a partir de la fecha de su percepción o de aquélla en que pudo ejercitarse la acción para exigir su devolución, con independencia de la causa que originó la percepción indebida.
-
-> Para el cumplimiento de las obligaciones económicas establecidas en el Régimen de Clases Pasivas del Estado, el plazo de prescripción será, asimismo, de cuatro años."
+> Se declara inconstitucional y nulo el apartado 2, en la redacción dada por la disposición final 1.12 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
 
 > Se modifica el apartado Dos por la disposición final 1.12 del Real Decreto-ley 15/2020, de 21 de abril. Ref. BOE-A-2020-4554#df
 
