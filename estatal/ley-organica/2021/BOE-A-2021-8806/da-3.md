@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Acuerdos internacionales en el ámbito de la cooperación judicial en materia penal y de la cooperación policial.
+
+Los acuerdos internacionales en el ámbito de la cooperación judicial en materia penal y de la cooperación policial que impliquen la transferencia de datos personales a Estados que no sean miembros de la Unión Europea u organizaciones internacionales y que hubieran sido celebrados por España antes del 6 de mayo de 2016, cumpliendo lo dispuesto en el Derecho de la Unión Europea aplicable antes de dicha fecha, seguirán en vigor hasta que sean objeto de modificación, enmienda o terminación.

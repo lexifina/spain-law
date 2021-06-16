@@ -68,7 +68,7 @@ En ningún caso, las disposiciones reglamentarias del Consejo General del Poder 
 
 18.ª Aprobar la relación de puestos de trabajo del personal funcionario a su servicio.
 
-19ª Colaborar con la Autoridad de Control en materia de protección de datos en el ámbito de la Administración de Justicia. Asimismo, asumirá las competencias propias de aquélla, únicamente respecto a la actuación de Jueces y Magistrados con ocasión del uso de ficheros judiciales.
+19ª En materia de protección de datos personales, ejercerá las funciones definidas en el artículo 236 octies.
 
 20.ª Recibir quejas de los ciudadanos en materias relacionadas con la Administración de Justicia.
 
@@ -97,6 +97,8 @@ El Ministerio Fiscal será oído cuando le afecte la materia sobre la que verse 
 3. (Suprimido)
 
 4. Cuando en el ejercicio de las atribuciones legalmente previstas en este artículo el Consejo General del Poder Judicial adopte medidas que comporten un incremento de gasto, será preciso informe favorable de la Administración competente que deba soportar dicho gasto.
+
+> Se modifica el apartado 1.19ª por la disposición final 3.14 de la Ley Orgánica 7/2021, de 26 de mayo. Ref. BOE-A-2021-8806#df-3
 
 > Se modifica el apartado 1 y se suprime el 3 por el art. único.44 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 

@@ -28,6 +28,10 @@ l) Las Fiscalías Provinciales.
 
 m) Las Fiscalías de Área.
 
+n) La Unidad de Supervisión y Control de Protección de Datos.
+
+> Se añade la letra n) por la disposición final 2.1 de la Ley Orgánica 7/2021, de 26 de mayo. Ref. BOE-A-2021-8806#df-2
+
 > Se modifica por el art. único.6 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
 
 > Se modifica el apartado 1 por el art. único.1 de la Ley 10/1995, de 24 de abril. Ref. BOE-A-1995-10066

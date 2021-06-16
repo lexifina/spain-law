@@ -1,8 +1,8 @@
 ## Artículo 236.
 
-1. La publicidad de los edictos se realizará a través del Tablón Edictal Judicial Único, en la forma en que se disponga reglamentariamente.
+La publicidad de los edictos se realizará a través del Tablón Edictal Judicial Único, en la forma en que se disponga reglamentariamente, incluyendo los datos estrictamente necesarios para cumplir con su finalidad.
 
-2. La publicación en cualquier otro medio se podrá acordar a petición y a costa de la parte que lo solicite.
+> Se modifica por la disposición final 3.4 de la Ley Orgánica 7/2021, de 26 de mayo. Ref. BOE-A-2021-8806#df-3
 
 > Se modifica el apartado 1 por el art. único.5 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 

@@ -1,0 +1,23 @@
+## Disposición final séptima. Modificación de la Ley 5/2014, de 4 de abril, de Seguridad Privada.
+
+Se modifica el artículo 69 que queda redactado como sigue:
+
+«Artículo 69. Régimen Jurídico.
+
+1. El ejercicio de la potestad sancionadora en materia de seguridad privada se regirá por lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público y sus disposiciones de desarrollo, sin perjuicio de las especialidades que se regulan en este título.
+
+2. El procedimiento caducará transcurridos seis meses desde su incoación sin que se haya notificado la resolución, debiendo, no obstante, tenerse en cuenta en el cómputo las posibles paralizaciones por causas imputables al interesado o la suspensión que debiera acordarse por la existencia de un procedimiento judicial penal, cuando concurra identidad de sujeto, hecho y fundamento, hasta la finalización de éste.
+
+3. Iniciado el procedimiento sancionador, el órgano que haya ordenado su incoación podrá adoptar las medidas cautelares necesarias para garantizar su adecuada instrucción, así como para evitar la continuación de la infracción o asegurar el pago de la sanción, en el caso de que ésta fuese pecuniaria, y el cumplimiento de la misma en los demás supuestos.
+
+4. Dichas medidas, que deberán ser congruentes con la naturaleza de la presunta infracción y proporcionadas a la gravedad de la misma, podrán consistir en:
+
+a) La ocupación o precinto de vehículos, armas, material o equipo prohibido, no homologado o que resulte peligroso o perjudicial, así como de los instrumentos y efectos de la infracción.
+
+b) La retirada preventiva de las autorizaciones, habilitaciones, permisos o licencias, o la suspensión, en su caso, de la eficacia de las declaraciones responsables.
+
+c) La suspensión de la habilitación del personal de seguridad privada y, en su caso, de la tramitación del procedimiento para el otorgamiento de aquélla, mientras dure la instrucción de expedientes por infracciones graves o muy graves en materia de seguridad privada.
+
+También podrán ser suspendidas las indicadas habilitación y tramitación, hasta tanto finalice el proceso por delitos contra dicho personal.
+
+5. Las medidas cautelares previstas en los párrafos b) y c) del apartado anterior no podrán tener una duración superior a un año.»

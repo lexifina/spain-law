@@ -30,7 +30,11 @@ j) Informar los proyectos de ley o normas reglamentarias que afecten a la estruc
 
 k) Dirigir al Fiscal General del Estado cuantas peticiones y solicitudes relativas a su competencia se consideren oportunas.
 
+l) Nombrar por mayoría absoluta a la persona titular de la Unidad de Supervisión y Control de Protección de Datos.
+
 Habrá de integrarse en el seno del Consejo Fiscal una Comisión de Igualdad para el estudio de la mejora de los parámetros de igualdad en la carrera fiscal, cuya composición quedará determinada en la normativa que rige la constitución y funcionamiento del Consejo Fiscal.
+
+> Se añade la letra l) al apartado 4 por la disposición final 2.3 de la Ley Orgánica 7/2021, de 26 de mayo. Ref. BOE-A-2021-8806#df-2
 
 > Se modifica por el art. único.8 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
 

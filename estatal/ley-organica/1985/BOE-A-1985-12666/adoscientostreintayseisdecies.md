@@ -1,9 +1,11 @@
 ## Artículo 236 decies.
 
-1. Los tratamientos de datos llevados a cabo por el Consejo General del Poder Judicial en el ejercicio de sus competencias quedarán sometidos a lo dispuesto en la legislación vigente en materia de protección de datos de carácter personal. Dichos tratamientos no serán considerados en ningún caso realizados con fines jurisdiccionales.
+1. Los tratamientos de datos llevados a cabo por el Consejo General del Poder judicial y la Fiscalía General del Estado en el ejercicio de sus competencias quedarán sometidos a lo dispuesto en la legislación vigente en materia de protección de datos personales. Dichos tratamientos no serán considerados en ningún caso realizados con fines jurisdiccionales.
 
-2. Los ficheros de datos de carácter personal del Consejo General del Poder Judicial y de los órganos integrantes del mismo serán creados, modificados o suprimidos por acuerdo del Consejo General del Poder Judicial, a propuesta de la Secretaría General, que ostentará la condición de responsable del tratamiento respecto de los mismos.
+2. Las operaciones de tratamiento de datos personales del Consejo General del Poder Judicial y de los órganos integrantes del mismo serán autorizados por acuerdo del Consejo General del Poder Judicial, a propuesta de la Secretaría General, que ostentará la condición de responsable del tratamiento respecto de los mismos.
 
-Una vez publicado el acuerdo, el Consejo General del Poder Judicial dará traslado del mismo para su inscripción en el Registro General de Protección de Datos de la Agencia Española de Protección de Datos.
+3. Las operaciones de tratamiento de datos personales de la Fiscalía General del Estado serán autorizadas según determine el Estatuto Orgánico del Ministerio Fiscal y las Instrucciones que se dicten al respecto.
+
+> Se modifica por la disposición final 3.13 de la Ley Orgánica 7/2021, de 26 de mayo. Ref. BOE-A-2021-8806#df-3
 
 > Se añade por el art. único.36 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.

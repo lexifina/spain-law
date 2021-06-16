@@ -1,9 +1,11 @@
 ## Artículo 236 ter.
 
-1. Los Tribunales podrán tratar datos de carácter personal con fines jurisdiccionales o no jurisdiccionales. En el primer caso, el tratamiento se limitará a los datos en tanto se encuentren incorporados a los procesos de que conozcan y su finalidad se relacione directamente con el ejercicio de la potestad jurisdiccional.
+1. El tratamiento de los datos personales llevado a cabo con ocasión de la tramitación por los órganos judiciales y fiscalías de los procesos de los que sean competentes, así como el realizado dentro de la gestión de la Oficina judicial y fiscal, se regirá por lo dispuesto en el Reglamento (UE) 2016/679, la Ley Orgánica 3/2018 y su normativa de desarrollo, sin perjuicio de las especialidades establecidas en el presente Capítulo y en las leyes procesales.
 
-2. Los Tribunales mantendrán, con pleno respeto a las garantías y derechos establecidos en la normativa de protección de datos de carácter personal, los ficheros que resulten necesarios para la tramitación de los procesos que en ellos se siguen, así como los que se precisen para su adecuada gestión.
+2. En el ámbito de la jurisdicción penal, el tratamiento de los datos personales llevado a cabo con ocasión de la tramitación por los órganos judiciales y fiscalías de los procesos, diligencias o expedientes de los que sean competentes, así como el realizado dentro de la gestión de la Oficina judicial y fiscal, se regirá por lo dispuesto en la Ley Orgánica de protección de datos personales tratados con fines de prevención, detección, investigación o enjuiciamiento de infracciones penales y de ejecución de sanciones penales, sin perjuicio de las especialidades establecidas en el presente Capítulo y en las leyes procesales y, en su caso, en la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal.
 
-Dichos ficheros se clasificarán en jurisdiccionales y no jurisdiccionales atendiendo a la naturaleza del tratamiento de los datos que los integran.
+3. No será necesario el consentimiento del interesado para que se proceda al tratamiento de los datos personales en el ejercicio de la actividad jurisdiccional, ya sean éstos facilitados por las partes o recabados a solicitud de los órganos competentes, sin perjuicio de lo dispuesto en las normas procesales para la validez de la prueba.
+
+> Se modifica por la disposición final 3.6 de la Ley Orgánica 7/2021, de 26 de mayo. Ref. BOE-A-2021-8806#df-3
 
 > Se añade por el art. único.36 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.

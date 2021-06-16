@@ -1,0 +1,15 @@
+## Disposición final quinta. Modificación de la Ley Orgánica 1/2020, de 16 de septiembre, sobre la utilización de los datos del registro de nombres de pasajeros para la prevención, detección, investigación y enjuiciamiento de delitos de terrorismo y delitos graves.
+
+Se modifica el artículo 10 que queda redactado como sigue:
+
+«1. Los momentos en los que las compañías aéreas deben transmitir los datos PNR a la UIP serán los siguientes:
+
+a) Entre las 24 y las 48 horas antes de la hora de salida programada del vuelo, e
+
+b) inmediatamente después del cierre del vuelo, una vez que los pasajeros hayan embarcado en el avión en preparación de la salida y no sea posible embarcar o desembarcar.
+
+Las compañías aéreas podrán limitar esta transmisión prevista en el párrafo b) a las actualizaciones de la información transmitida conforme al párrafo a).
+
+2. El Proveedor de Servicios de Navegación Aérea en el espacio aéreo de soberanía española, comunicará a la UIP los cambios de destino, así como las escalas no programadas que le sean notificados por la tripulación de la aeronave o por otro Proveedor de Servicios de Navegación Aérea».
+
+3. Además, cuando sea necesario acceder a los datos PNR para responder a una amenaza real y concreta relacionada con delitos de terrorismo o con delitos graves, en momentos distintos de los previstos en el apartado 1, todos los sujetos obligados, caso por caso, deberán transmitir a la UIP dichos datos con carácter inmediato al requerimiento recibido.»
