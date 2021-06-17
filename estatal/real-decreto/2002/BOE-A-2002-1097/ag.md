@@ -46,21 +46,11 @@ Cuando el encuentro con la estela turbulenta se produce en el área de aproximac
 
 2.3.1. Las mínimas de separación en relación con la estela turbulenta se basan en una clasificación de tipos de aeronaves en tres categorías, con arreglo a la masa máxima certificada de despegue (Véase la nota de 2.3.2.).
 
-2.3.2. Las categorías de las aeronaves son las siguientes:
+2.3.2. Las categorías de las aeronaves son las establecidas en el apartado 4.5.15.1.
 
-a) PESADA (H):
+Nota: Debe tenerse en cuenta, asimismo, lo previsto en el apartado 4.5.15.1.2 en relación con la utilización de grupos de estela turbulenta.
 
-Todos los tipos de aeronaves de 136.000 Kg o más;
-
-b) MEDIA (M):
-
-Tipos de aeronaves de menos de 136.000 Kg, y de más de 7.000 Kg;
-
-c) LIGERA (L):
-
-Tipos de aeronaves de 7.000 Kg o menos.
-
-Nota: El proveedor de servicios de tránsito aéreo competente incluirá en la AIP información sobre la categoría de aeronaves por estela turbulenta que no se corresponda con la de su masa máxima certificada de despegue. Los controladores tendrán en cuenta dicha categoría para la aplicación de separación y la insertarán en la ficha de progresión de vuelo y en la etiqueta radar, a menos que ya se haya hecho automáticamente.
+El proveedor de servicios de tránsito aéreo incluirá en el AIP información sobre la categoría de aeronaves por estela turbulenta que no se corresponda con la de su masa máxima certificada de despegue. Los controladores tendrán en cuenta dicha categoría para la aplicación de separación y la insertarán en la ficha progresiva de vuelo y en la etiqueta radar, a menos que ya se haya hecho automáticamente.
 
 2.4. Mínimas condicionales.
 
@@ -98,7 +88,7 @@ Las características del vórtice quedan modificadas y finalmente dominadas por 
 
 3.3.2. El vórtice empieza a formarse en el momento de la rotación, cuando las ruedas de proa dejan de hacer contacto con la pista, y termina cuando dichas ruedas de proa hacen contacto con el suelo en el momento del aterrizaje.
 
-La fuerza del vórtice es proporcional al peso, y alcanza su valor máximo cuando la aeronave que lo genera es PESADA, en configuración limpia, y lenta.
+La fuerza del vórtice es proporcional al peso, y alcanza su valor máximo cuando la aeronave que lo genera es SÚPER, en configuración limpia, y lenta.
 
 3.3.3. Los helicópteros producen vórtices mientras se encuentran en vuelo y, por kilogramo de masa bruta, sus vórtices son más intensos que los de las aeronaves de ala fija.
 
@@ -116,9 +106,7 @@ c) una modificación repentina de estructura, denominada dislocación o estallid
 
 3.3.6. El efecto del suelo desempeña un papel importante en el desplazamiento y la disipación de los vórtices. El suelo actúa como un plano de reflexión; a medida que los dos vórtices de estela descienden hacia el suelo, su velocidad vertical disminuye y, con viento nulo o débil, empiezan a desplazarse horizontalmente a ras de suelo, alejándose uno de otro, a una altura aproximadamente igual a la semienvergadura de la aeronave que los produce.
 
-3.4. Aspectos relativos al suministro de servicios de tránsito aéreo (ATS).
-
-Respecto a las aeronaves comprendidas en la categoría de «PESADA» a efectos de estela turbulenta, la palabra «PESADA» (HEAVY) se incluirá inmediatamente después del distintivo de llamada de la aeronave en el contacto radiotelefónico inicial entre dicha aeronave y la torre de control de aeródromo o la oficina de control de aproximación, antes de la llegada o la salida.
+3.4. Aspectos relativos al suministro de servicios de tránsito aéreo.
 
 Las categorías de estela turbulenta se especifican en las instrucciones para llenar la casilla 9 del plan de vuelo.
 
@@ -189,5 +177,7 @@ En un medio ATC donde se hace uso frecuente del radar, la aplicación de las mí
 Hay varios tipos de dispositivos sensores de la dirección del viento. En general, un sensor de vórtices de estela debe reaccionar ante algunas propiedades físicas del vórtice. La utilidad del sensor depende del grado de relación íntima que las propiedades detectadas guarda con las propiedades que han de determinarse.
 
 Los dispositivos de detección de vórtices son importantes para los controladores de tránsito aéreo y los pilotos, debido a que ofrecen la posibilidad de proporcionar información con respecto a la presencia e intensidad de los vórtices.
+
+> Se modifican los apartados 2.3.2, 3.3.2 y 3.4 por el art. 1.12 del Real Decreto 426/2021, de 15 de junio. Ref. BOE-A-2021-10028
 
 > Se modifica la referencia a "autoridad ATS" por la disposición final 1.1 del Real Decreto 552/2014, de 27 de junio. Ref. BOE-A-2014-6856

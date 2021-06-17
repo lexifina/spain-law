@@ -274,6 +274,8 @@ Nota: En SERA.14020 se establecen las normas relativas al deletreo en radiotelef
 
 Nota: SERA.14035 y SERA.14040 establecen, respectivamente, el régimen aplicable a la transmisión de números y la pronunciación de número cuando la lengua empleada en las comunicaciones sea el inglés. Lo dispuesto en los siguientes apartados completa dichas disposiciones.
 
+Lo anterior no obsta para que, en castellano, cuando el primer dígito de la unidad de millar sea 1, se transmita como MIL; y cuando la centena sea 1, se transmita como CIEN.
+
 10.5.2.1.3.1. Disposiciones complementarias sobre transmisión de números.
 
 10.5.2.1.3.1.1. Normalmente, cuando se transmitan horas, debería bastar el indicar los minutos.
@@ -1138,6 +1140,8 @@ No se emplearán en los mensajes caracteres distintos a los arriba indicados.
 10.8.2. Procedimientos CPDLC.
 
 Nota: En el apartado 4.12. se contiene información sobre las disposiciones aplicables a los procedimientos CPDLC.
+
+> Se modifica el apartado 10.5.2.1.3 por el art. 1.11 del Real Decreto 426/2021, de 15 de junio. Ref. BOE-A-2021-10028
 
 > Se modifica por la disposición final 1.2.7 del Real Decreto 1180/2018, de 21 de septiembre. Ref. BOE-A-2018-15406#df.
 

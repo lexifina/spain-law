@@ -36,13 +36,11 @@ Nota: La utilización en la fraseología en castellano del término «TRÁNSITO�
 | --- | --- |
 | seguido, si es necesario, de: | followed as necessary by: |
 | 1) PARA (nivel); | 1) TO (level); |
-| … instrucciones de que comience el ascenso (o descenso) hasta un determinado nivel dentro de la gama vertical especificada de niveles |
+| … instrucciones de que comience el ascenso (o descenso) hasta un determinado nivel dentro de la gama vertical especificada de niveles. |
 | 2) Y MANTENGA BLOQUE DE NIVELES ENTRE (nivel) Y (nivel); | 2) TO AND MAINTAIN BLOCK (level) TO (level); |
-| 3) PARA ALCANZAR (nivel) A (o ANTES DE) LAS (hora) (o en punto significativo); | 3) TO REACH (level) AT (or BY) (time or significant point); |
+| 3) PARA ALCANZAR (nivel) A (o ANTES DE) LAS (hora) (o EN punto significativo); | 3) TO REACH (level) AT (or BY) (time or significant point); |
 | 4) NOTIFIQUE ABANDONANDO (o ALCANZANDO o PASANDO POR) (nivel); | 4) REPORT LEAVING (or REACHING or PASSING) (level); |
 | 5) A (número) PIES POR MINUTO (o METROS POR SEGUNDO) [O SUPERIOR (o O INFERIOR)]; | 5) AT (number) METRES PER SECOND (or FEET PER MINUTE) [OR GREATER (or OR LESS)]; |
-| ... sólo para aeronaves SST |
-| 6) NOTIFIQUE COMIENZO DE ACELERACIÓN (o DESACELERACIÓN); | 6) REPORT STARTING ACCELERATION (or DECELERATION); |
 | b) MANTENGA POR LO MENOS (número) PIES (o METROS) POR ENCIMA (o POR DEBAJO) DEL (distintivo de llamada de la aeronave) | b) MANTAIN AT LEAST (number) METRES (or FEET) ABOVE (or BELOW) (aircraft call sign); |
 | c) SOLICITE CAMBIO DE NIVEL (o NIVEL DE VUELO o ALTITUD) A (nombre de la dependencia) [A LAS (hora) (o EN (punto significativo))]; | c) REQUEST LEVEL (or FLIGHT LEVEL or ALTITUDE) CHANGE FROM (name of unit) [AT (time or significant point)]; |
 | d) INTERRUMPA SUBIDA (o DESCENSO) A (nivel); | d) STOP CLIMB (or DESCENT) AT (level); |
@@ -574,11 +572,11 @@ Nota: El uso de esta fraseología está sujeto a la existencia del correspondien
 
 | ... para la salida: |
 | --- |
-| *a) [(tipo de aeronave)] [(categoría de estela turbulenta si es «pesada»)] [(emplazamiento de la aeronave)] SOLICITO RODAJE [(intenciones)]; | *a) [(aircraft type)] [(wake turbulence category if “heavy»)] [(aircraft location)] REQUEST TAXI [(intentions)]; |
-| *b) [(tipo de aeronave] [(categoría de estela turbulenta si es «pesada»)] [(emplazamiento de la aeronave)] (reglas de vuelo) A (aeródromo de destino) SOLICITO RODAJE [(intenciones)]; | *b) [(aircraft type)] [(wake turbulence category if “heavy”)] [(aircraft location)] (flight rules) TO (aerodrome of destination) REQUEST TAXI [(intentions)]; |
+| *a) [(tipo de aeronave)] [(categoría de estela turbulenta si es «súper» o «pesada»)] [(emplazamiento de la aeronave)] SOLICITO RODAJE [(intenciones)]; | *a) [(aircraft type)] [(wake turbulence category if «super» or «heavy»)] [(aircraft location)] REQUEST TAXI [(intentions)]; |
+| *b) [(tipo de aeronave] [(categoría de estela turbulenta si es «súper» o «pesada»)] [(emplazamiento de la aeronave)] (reglas de vuelo) A (aeródromo de destino) SOLICITO RODAJE [(intenciones)]; | *b) [(aircraft type)] [(wake turbulence category if «super» or «heavy»)] [(aircraft location)] (flight rules) TO (aerodrome of destination) REQUEST TAXI [(intentions)]; |
 | c) RUEDE A PUNTO DE ESPERA [(número)] [PISTA (número)] [MANTENGA FUERA (o MANTENGA CORTO) DE PISTA (número) (o CRUCE PISTA (número))] [HORA (hora)]; | c) TAXI TO HOLDING POINT [(number)] [RUNWAY (number)] [HOLD SHORT OF RUNWAY (number) (or CROSS RUNWAY (number))] [TIME (time)]; |
-| ... cuando se necesitan instrucciones detalladas para el rodaje |
-| *d) [(tipo de aeronave] [(categoría de estela turbulenta si es «pesada»)] SOLICITO INSTRUCCIONES DE RODAJE DETALLADAS; | *d) [(aircraft type)] [(wake turbulence category if “heavy”)] REQUEST DETAILED TAXI INSTRUCTIONS; |
+| ... cuando se necesitan instrucciones detalladas para el rodaje. |
+| *d) [(tipo de aeronave] [(categoría de estela turbulenta si es «súper» o «pesada»)] SOLICITO INSTRUCCIONES DE RODAJE DETALLADAS; | *d) [(aircraft type)] [(wake turbulence category if «super» or «heavy»)] REQUEST DETAILED TAXI INSTRUCTIONS;» |
 | e) RUEDE A PUNTO DE ESPERA [(número)] [PISTA (número)] VÍA (trayecto concreto que ha de seguirse) [HORA (hora)] [MANTENGA FUERA (o MANTENGA CORTO) DE PISTA (número) (o CRUCE PISTA (número))]; | e) TAXI TO HOLDING POINT [(number)] [RUNWAY (number)] VIA (specific route to be followed) [TIME (time)] [HOLD SHORT OF RUNWAY (number) (or CROSS RUNWAY (number))]; |
 | f) RUEDE A PUNTO DE ESPERA [(número)] (seguido de información de aeródromo cuando corresponda) [HORA (hora)]; | f) TAXI TO HOLDING POINT [(number)] (followed by aerodrome information as applicable) [TIME (time)]; |
 | g) TOME (o VIRE) PRIMERA (o SEGUNDA) INTERSECCIÓN A IZQUIERDA (O DERECHA); | g) TAKE (or TURN) FIRST (or SECOND) LEFT (or RIGHT); |
@@ -616,12 +614,12 @@ Nota: El uso de esta fraseología está sujeto a la existencia del correspondien
 | --- | --- |
 | ‡b) MANTENGA POSICIÓN; | ‡b) HOLD POSITION; |
 | ‡c) MANTENGA (distancia) DE posición); | ‡c) HOLD (distance) FROM (position); |
-| ... para esperar no más cerca de una pista de lo indicado en 4.5.6.4.1.6.1: |
+| ... para esperar no más cerca de una pista de lo indicado en 4.5.6.4.1.6.1: |  |
 | ‡d) MANTENGA FUERA (o MANTENGA CORTO) DE (posición); | ‡d) HOLD SHORT OF (position); |
 | *e) MANTENIENDO; | *e) HOLDING; |
 | *f) MANTENGO FUERA (o MANTENGO CORTO) | *f) HOLDING SHORT. |
 | ‡ Requiere acuse de recibo concreto por parte del piloto. | ‡ Requires specific acknowledgement from the pilot. |
-| * Indica transmisión del piloto. Las palabras de procedimiento RECIBIDO y COMPRENDIDO representan un acuse de recibo insuficiente a las instrucciones MANTENGA, MANTENGA POSICIÓN y MANTENGA CERCA DE (posición). En cada caso, el acuse de recibo consistirá en las frases MANTENGO o MANTENGO CERCA, según corresponda. | * Denotes pilot transmission. The procedure words ROGER and WILCO are insufficient acknowledgement of the instructions HOLD, HOLD POSITION and HOLD SHORT OF (position). In each case the acknowledgement shall be by the phraseology HOLDING or HOLDING SHORT, as appropriate. |
+| * Indica transmisión del piloto. Las palabras de procedimiento RECIBIDO y COMPRENDIDO representan un acuse de recibo insuficiente a las instrucciones MANTENGA, MANTENGA POSICIÓN y MANTENGA FUERA (o MANTENGA CORTO) DE (posición). En cada caso, el acuse de recibo consistirá en las frases MANTENGO o MANTENGO FUERA (o MANTENGO CORTO), según corresponda. | * Denotes pilot transmission. The procedure words ROGER and WILCO are insufficient acknowledgement of the instructions HOLD, HOLD POSITION and HOLD SHORT OF (position). In each case the acknowledgement shall be by the phraseology HOLDING or HOLDING SHORT, as appropriate. |
 
 1.4.10. Para cruzar una pista.
 
@@ -663,7 +661,7 @@ Nota: El uso de esta fraseología está sujeto a la existencia del correspondien
 | Indicación de distancia de recorrido de despegue disponible desde una posición de despegue en intersección |
 | p) TORA PISTA (número), DESDE INTERSECCIÓN (designación o nombre de la intersección), (distancia en metros); | p) TORA RUNWAY (number), FROM INTERSECTION (designation or name of intersection), (distance in metres); |
 | Instrucción para rodaje a posición de múltiples aeronaves |
-| q) RUEDE A POSICIÓN Y ESPERE EN PISTA (número), INTERSECCIÓN (nombre de la intersección), (información de tránsito esencial); | q) LINE UP AND WAIT RUNWAY (number), INTERSECTION (name of intersection), (essential traffic information); |
+| q) ALINEE (o ENTRE) Y MANTENGA EN PISTA (número), INTERSECCIÓN (nombre de la intersección), (información de tránsito esencial); | q) LINE UP AND WAIT RUNWAY (number), INTERSECTION (name of intersection), (essential traffic information); |
 | Solicitud de salida visual |
 | *r) SOLICITO SALIDA VISUAL [DIRECTO] A/HASTA (ayuda de navegación aérea, punto de recorrido, altitud); | *r) REQUEST VISUAL DEPARTURE [DIRECT] TO/UNTIL (navaid, waypoint, altitude); |
 | Salida visual iniciada por ATC |
@@ -962,7 +960,7 @@ Nota: A continuación se incluye la fraseología específicamente aplicable cuan
 | c) TODOS LOS VIRAJES A RÉGIMEN UNO (o MITAD o (número) GRADOS POR SEGUNDO) INICIE Y TERMINE TODOS LOS VIRAJES CUANDO SE LO INDIQUE CON LA PALABRA «AHORA»; | c) MAKE ALL TURNS RATE ONE (or RATE HALF, or (number) DEGREES PER SECOND) START AND STOP ALL TURNS ON THE COMMAND “NOW”; |
 | d) VIRE IZQUIERDA (o DERECHA) AHORA; | d) TURN LEFT (or RIGHT) NOW; |
 | e) INTERRUMPA VIRAJE AHORA. | e) STOP TURN NOW. |
-| Nota: Cuando sea necesario especificar un motivo para la guía vectorial radar (o vectores) o para las maniobras mencionadas se utilizará la fraseología siguiente: a) TRÁNSITO PREVISTO; b) PARA SEPARACIÓN; c) PARA SECUENCIA CON TRÁNSITO (POSICIÓN) d) PARA TRAMO A FAVOR DEL VIENTO (o BÁSICO o FINAL). e) PARA PRIMER (o ÚLTIMO) TERCIO DE TRAMO A FAVOR DEL VIENTO PISTA (número). | Note: When it is necessary to specify a reason for radar vectoring or for the maneuvers mentioned the next phraseology should be used: a) DUE TRAFFIC; b) FOR TRAFFIC SEPARATION; c) FOR TRAFFIC SECUENCY; d) FOR DOWNWIND (BASE, or FINAL). e) FOR FIRST (or LAST) THIRD DOWNWIND LEG RUNWAY (number). |
+| Nota: Cuando sea necesario especificar un motivo para la guía vectorial radar (o vectores) o para las maniobras mencionadas se utilizará la fraseología siguiente: a) TRÁNSITO PREVISTO; b) PARA SEPARACIÓN; c) PARA SECUENCIA CON TRÁNSITO (POSICIÓN) d) PARA TRAMO A FAVOR DEL VIENTO (o BÁSICO o FINAL). e) PARA PRIMER (o ÚLTIMO) TERCIO DE TRAMO A FAVOR DEL VIENTO PISTA (número). | Note: When it is necessary to specify a reason for radar vectoring or for the maneuvers mentioned the next phraseology should be used: a) DUE TRAFFIC; b) FOR TRAFFIC SEPARATION; c) FOR TRAFFIC SEQUENCE; d) FOR DOWNWIND (BASE, or FINAL). e) FOR FIRST (or LAST) THIRD DOWNWIND LEG RUNWAY (number). |
 
 2.1.6. Control de velocidad.
 
@@ -1377,3 +1375,5 @@ Nota: El controlador no dirá en radiotelefonía el valor del «nivel selecciona
 | a) SE NOTIFICA ACTIVACIÓN DE PROXIMIDAD DE BOQUILLA DE MANGUERA EN (punto significativo en la aeronave) [NINGÚN DAÑO VISUAL o DAÑO (descripción del daño) OBSERVADO] [INDIQUE INTENCIONES]; | a) BE ADVISED NOZZLE PROXIMITY ACTIVATION ON (significant point on aircraft) [NO VISUAL DAMAGE or DAMAGE (description of damage) OBSERVED] [SAY INTENTIONS]; |
 | … para otras aeronaves en situación de emergencia en el apartadero de deshielo |
 | b) EMERGENCIA EN APARTADERO DE DESHIELO (número de apartadero de deshielo) [APAGUE MOTORES o ESPERE NUEVAS INSTRUCCIONES]. | b) EMERGENCY IN DE-ICING BAY (de-icing bay number) [SHUT DOWN ENGINES or STANDBY FOR FURTHER INSTRUCTIONS]. |
+
+> Se modifican los apartados 1.1.2.a), 1.4.8.a) a d), 1.4.9, 1.4.11.q) y la nota del 2.1.5 por el art. 2.5 a 9 del Real Decreto 426/2021, de 15 de junio. Ref. BOE-A-2021-10028

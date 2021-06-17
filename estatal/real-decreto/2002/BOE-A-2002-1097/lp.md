@@ -242,11 +242,11 @@ La aproximación en un vuelo IFR cuando cualquier parte o la totalidad del proce
 
 Aproximaciones paralelas dependientes.
 
-Aproximaciones simultáneas a pistas de vuelo por instrumentos, paralelas o casi paralelas, cuando se prescriben mínimos de separación radar entre aeronaves situadas en las prolongaciones de ejes de pista adyacentes.
+Aproximaciones simultáneas a pistas de vuelo por instrumentos, paralelas o casi paralelas, cuando se prescriben mínimos de separación, basados en el sistema de vigilancia ATS, entre aeronaves situadas en las prolongaciones de ejes de pista adyacentes.
 
 Aproximaciones paralelas independientes.
 
-Aproximaciones simultáneas a pistas de vuelo por instrumentos, paralelas o casi paralelas, cuando no se prescriben mínimos de separación radar entre aeronaves situadas en las prolongaciones de ejes de pista adyacentes.
+Aproximaciones simultáneas a pistas de vuelo por instrumentos, paralelas o casi paralelas, cuando no se prescriben mínimos de separación, basados en el sistema de vigilancia ATS, entre aeronaves situadas en las prolongaciones de ejes de pista adyacentes.
 
 Área congestionada.
 
@@ -1917,6 +1917,10 @@ Término genérico que significa, según el caso, ADS-B, PSR, SSR o cualquier si
 
 Nota: Un sistema similar basado en tierra es aquél para el cual se ha comprobado, por evaluación u otra metodología comparativa, que los niveles de seguridad operacional y de performance son iguales o mejores que los correspondientes a los SSR de monoimpulso.
 
+Sistema de vigilancia visual.
+
+Sistema electroóptico que proporciona una presentación electrónica visual del tránsito y de cualquier otra información necesaria para mantener la conciencia de la situación en un aeródromo y sus proximidades.
+
 Sistema integrado para el tratamiento inicial de planes de vuelo (IFPS).
 
 Sistema de tratamiento y distribución de planes de vuelo y mensajes asociados.
@@ -2157,7 +2161,9 @@ c) que ejecuta aproximaciones por instrumentos de práctica en el aeródromo.
 
 Vuelo visual (VFR) nocturno.
 
-Vuelo efectuado de acuerdo con las reglas de vuelo visual que se realiza entre la puesta y la salida del sol.
+Vuelo efectuado de acuerdo con las reglas de vuelo visual que se realiza por la noche.
+
+Nota: El artículo 2 del Reglamento SERA define la noche como «las horas comprendidas entre el fin del crepúsculo civil vespertino y el comienzo del crepúsculo civil matutino; termina el crepúsculo civil vespertino cuando el centro del disco solar está 6 grados por debajo del horizonte y comienza el crepúsculo civil matutino cuando el disco solar está 6 grados por debajo del horizonte.
 
 Zona de cobertura (sistema mundial de pronóstico de área).
 
@@ -2195,9 +2201,9 @@ Zona libre de obstáculos para helicópteros.
 
 Área definida en el terreno o en el agua y bajo control de la autoridad competente, designada o preparada como área adecuada sobre la cual un helicóptero de Clase de performance 1 pueda acelerar y alcanzar una altura especificada.
 
-Zona normal de operaciones.
+Zona normal de operaciones (NOZ).
 
-Parte del espacio aéreo de dimensiones definidas que se extiende a uno u otro lado del rumbo del localizador del ILS. En las aproximaciones paralelas independientes solamente se tiene en cuenta la mitad interior de la zona normal de operaciones.
+Parte del espacio aéreo de dimensiones definidas que se extiende a uno u otro lado del curso o la derrota de aproximación final con procedimiento de aproximación por instrumentos publicado. En las aproximaciones paralelas independientes, solamente se tiene en cuenta la mitad de la zona normal de operaciones adyacente a una zona inviolable (NTZ).
 
 ## CAPÍTULO 2
 
@@ -3225,6 +3231,8 @@ Las categorías de las operaciones de aproximación y aterrizaje de precisión p
 ## Unidades de medida
 
 En este reglamento las medidas en millas náuticas (NM) y pies (ft) se expresan como kilómetros a los exclusivos efectos de servir como referencia, siendo aplicables las expresadas en millas náuticas (NM) o pies (ft).
+
+> Se modifica el Capítulo 1 por el art. 1.1 del Real Decreto 426/2021, de 15 de junio. Ref. BOE-A-2021-10028
 
 > Se modifican los Capítulos 1 a 3 por la disposición final 1.2.1 del Real Decreto 1180/2018, de 21 de septiembre. Ref. BOE-A-2018-15406#df
 

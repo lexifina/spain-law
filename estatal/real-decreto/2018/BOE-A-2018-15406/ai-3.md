@@ -234,17 +234,19 @@ Se deberá insertar el designador apropiado, según se especifica en el document
 
 Se insertará ZZZZ, y se deberá indicar en la casilla 18 el número(s) y tipo(s) de aeronaves, precedidos de TYP/, si el designador no ha sido asignado, o si se trata de vuelos en formación que comprendan más de un tipo.
 
-2.5.3. Categoría de estela turbulenta (un carácter). Se deberá insertar una barra oblicua, seguida de una letra que indique la categoría de estela turbulenta de la aeronave, según la categorización establecida conforme a lo previsto en los apartados 4.5.15.1.1. y 4.5.15.1.1.1. del Reglamento de Circulación Aérea.
+2.5.3 Categoría de estela turbulenta (un carácter). Se deberá insertar una barra oblicua, seguida de una letra que indique la categoría de estela turbulenta de la aeronave, según la categorización establecida conforme a lo previsto en los apartados 4.5.15.1.1 y 4.5.15.1.1.1 del Reglamento de Circulación Aérea.
 
-Cuando se aplique la categorización establecida en el párrafo primero del citado apartado, las letras indicativas de la categoría serán:
+Cuando se aplique la categorización establecida en el apartado 4.5.15.1.1, las letras indicativas de la categoría serán:
 
-a) La letra «H», para la categoría pesada;
+a) La letra ‘‘J’’, categoría SÚPER, para indicar un tipo de aeronave especificado como tal en Designadores de tipos de aeronaves, Doc. 8643 de OACI;
 
-b) La letra «M», para la categoría media;
+b) La letra ‘‘H’’, categoría PESADA, para indicar un tipo de aeronave de masa máxima certificada de despegue de 136.000 kg o más, a excepción de los tipos de aeronaves que se indican en el Doc. 8643 de OACI dentro de la categoría SÚPER (J);
 
-c) La Letra «L», para la categoría ligera.
+c) La letra ‘‘M’’, categoría MEDIA, para indicar un tipo de aeronave de masa máxima certificada de despegue de menos de 136.000 kg (300.000 lb), pero de más de 7.000 kg;
 
-En otro caso, será las letras que identifiquen la categoría que corresponda conforme a la categorización realizada, letras que deberán publicarse en la Publicación de Información Aeronáutica (AIP), junto con la categorización realizada.
+d) La Letra ‘‘L’’, categoría LIGERA, para indicar un tipo de aeronave de masa máxima certificada de despegue de 7.000 kg o menos.
+
+En el caso del apartado 4.5.15.1.1.1, será las letras que identifiquen la categoría que corresponda conforme a la categorización realizada, letras que deberán publicarse en la Publicación de Información Aeronáutica (AIP), junto con la categorización realizada.
 
 2.6. Casilla 10. Equipo y capacidades.
 
@@ -852,13 +854,15 @@ Se insertará:
 
 1.º El designador OACI apropiado según se especifica en el documento «Designadores de tipos de aeronave» (Doc. 8643) de OACI.
 
-2.º El indicador H, M o L, según corresponda:
+2.º El indicador J, H, M o L, según corresponda:
 
-i) H, pesada, para indicar un tipo de aeronave de masa máxima certificada de despegue de 136.000 kg o más;
+i) J, SÚPER, para indicar un tipo de aeronave especificado como tal en Designadores de tipos de aeronaves, Doc. 8643 de OACI;
 
-ii) M, media, para indicar un tipo de aeronave de masa máxima certificada de despegue de menos de 136.000 kg (300.000 lb), pero de más de 7.000 kg;
+ii) H, PESADA, para indicar un tipo de aeronave de masa máxima certificada de despegue de 136.000 kg o más, a excepción de los tipos de aeronaves que se indican en el Doc. 8643 de OACI dentro de la categoría SÚPER (J);
 
-iii) L, ligera, para indicar un tipo de aeronave de masa máxima certificada de despegue de 7.000 kg o menos.
+ii) M, MEDIA, para indicar un tipo de aeronave de masa máxima certificada de despegue de menos de 136.000 kg (300.000 lb), pero de más de 7.000 kg;
+
+iii) L, LIGERA, para indicar un tipo de aeronave de masa máxima certificada de despegue de 7.000 kg o menos.
 
 n) Casilla N: AERÓDROMO DE SALIDA Y HORA (Casilla 13 del FPL OACI). Se deberá insertar el indicador de lugar del aeródromo de salida y la hora de fuera calzos.
 
@@ -901,3 +905,5 @@ Al respecto, deberá tenerse en cuenta además lo previsto en el Libro cuarto, c
 2. Lo dispuesto en el apartado anterior se entiende sin perjuicio de lo dispuesto en el Libro cuarto, capítulo tercero, sección 5ª del Reglamento de Circulación Aérea, en materia de autorizaciones de control de tránsito aéreo.
 
 3. Normalmente y salvo lo previsto en la Publicación de Información Aeronáutica (AIP), no están sujetos a aceptación los planes de vuelo y sus cambios de los vuelos IFR que utilicen el servicio de asesoramiento de tránsito aéreo cuando operen dentro de un espacio aéreo de clase F. En el Libro cuarto, capítulo séptimo, del Reglamento de Circulación Aérea se establecen disposiciones adicionales sobre aeronaves que utilizan el servicio de asesoramiento de tránsito aéreo.
+
+> Se modifica el adjunto C, apartados 2.5.3 y 7.4.m) por el art. 2.3 y 4 del Real Decreto 426/2021, de 15 de junio. Ref. BOE-A-2021-10028
