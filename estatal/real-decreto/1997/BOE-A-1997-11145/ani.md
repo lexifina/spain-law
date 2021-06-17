@@ -16,6 +16,12 @@
 
 6. Trabajos que supongan exposición al polvo respirable de sílice cristalina generado en un proceso de trabajo.
 
+7. Trabajos que supongan exposición cutánea a aceites minerales previamente utilizados en motores de combustión interna para lubrificar y refrigerar los elementos móviles del motor.
+
+8. Trabajos que supongan exposición a emisiones de motores diésel.
+
+> Se añaden los apartados 7 y 8 por el art. único.1 del Real Decreto 427/2021, de 15 de junio. Ref. BOE-A-2021-10029
+
 > Se añade el apartado 6 por el art. único.6 del Real Decreto 1154/2020, de 22 de diciembre. Ref. BOE-A-2020-16833
 
 > Se modifica el título por el art. 3.5 del Real Decreto 598/2015, de 3 de julio. Ref. BOE-A-2015-7458.
