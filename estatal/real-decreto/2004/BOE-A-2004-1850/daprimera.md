@@ -4,7 +4,7 @@ De conformidad con lo establecido en la disposición adicional tercera de la Ley
 
 El Registro central es único en todo el territorio nacional y tiene su sede en Madrid.
 
-El Consejo interministerial de organismos modificados genéticamente, la Comisión Nacional de Bioseguridad, los departamentos ministeriales competentes por razón de la materia y los órganos competentes de las comunidades autónomas remitirán al Registro central cuantos datos dispongan en razón de su competencia, y que resulten de la tramitación de las comunicaciones y solicitudes de autorización de utilización confinada, liberación voluntaria, y comercialización de organismos modificados genéticamente a que se refiere el Reglamento que se aprueba.
+El Consejo interministerial de organismos modificados genéticamente, la Comisión Nacional de Bioseguridad, los departamentos ministeriales competentes por razón de la materia y los órganos competentes de las comunidades autónomas remitirán al Registro central cuantos datos dispongan en razón de su competencia, y que resulten de la tramitación de las comunicaciones y solicitudes de autorización de utilización confinada, liberación voluntaria, y comercialización de organismos modificados genéticamente a que se refiere el Reglamento que se aprueba, antes del 31 de diciembre de cada año.
 
 Asimismo, el registro se nutrirá de la información de la Comisión Europea y los demás Estados miembros por medio de los adecuados enlaces.
 
@@ -14,7 +14,9 @@ Los datos estarán contenidos en un fichero apropiado para recibir, almacenar y 
 
 El suministro de datos podrá realizarse por medios telemáticos, siempre que el soporte utilizado garantice la autenticidad de la comunicación y de su contenido, y quede constancia de la remisión y recepción íntegras y del momento en que se hicieron.
 
-El acceso del público a la información recogida en el registro se efectuará teniendo en cuenta lo dispuesto en la Ley 38/1995, de 12 de diciembre, de derecho de acceso a la información en materia de medio ambiente, y de conformidad con lo previsto en las disposiciones relativas al secreto comercial e industrial, al secreto de obtención y a la protección de datos personales.
+El acceso del público a la información recogida en el registro se efectuará teniendo en cuenta lo dispuesto en la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de justicia en materia de medio ambiente, y de conformidad con lo previsto en las disposiciones relativas al secreto comercial e industrial, al secreto de obtención y a la protección de datos personales.
+
+> Se modifican el tercer párrafo y el último párrafo por el art. 1.1 del Real Decreto 406/2021, de 8 de junio. Ref. BOE-A-2021-10229
 
 > Se modifica el párrafo primero por el art. 1.1 del Real Decreto 452/2019, de 19 de julio. Ref. BOE-A-2019-10757
 
