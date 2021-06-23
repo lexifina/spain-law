@@ -138,7 +138,7 @@ c) En el caso de que se refiera a edificios administrativos, que existe informe 
 
 5.3 Reconocimiento de la obligación. Iguales requisitos que los exigidos para la Administración General del Estado.
 
-6. En las aportaciones de capital con cargo a los Presupuestos Generales del Estado a sociedades mercantiles estatales, así como a entidades públicas empresariales y demás entidades de derecho público, se comprobará, en el momento del reconocimiento de la obligación, como extremo adicional a que se refiere el apartado primero.1.g) del presente Acuerdo, que existe el informe a que se refiere el artículo 66 de la Ley 62/2003, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social.
+6. En las aportaciones de capital con cargo a los Presupuestos Generales del Estado a sociedades mercantiles estatales, así como a entidades públicas empresariales y demás entidades y fondos del sector público, se comprobará, en el momento del compromiso de gasto, como extremo adicional a que se refiere el apartado primero.1.g) del presente Acuerdo, que existe el informe de la Secretaría de Estado de Presupuestos y Gastos a que se refiere el artículo 66 de la Ley 62/2003, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social.
 
 7. En los expedientes de adquisición de bienes inmuebles pertenecientes al Patrimonio Sindical Acumulado de acuerdo con la Ley 4/1986, de 8 de enero:
 
@@ -275,5 +275,7 @@ b) Que, en su caso, existe informe del servicio Jurídico sobre los aspectos jur
 Que se aporta factura por el arrendador de acuerdo con lo previsto en el Real Decreto 1496/2003, de 28 de noviembre, por el que se aprueba el Reglamento que regula las obligaciones de facturación y se modifica el Reglamento del Impuesto sobre el Valor Añadido.
 
 8.5 Propuesta de adquisición de activos financieros mediante materialización de los fondos depositados en la cuenta especial del Fondo de Prevención y Rehabilitación: Que existe Acuerdo del Consejo de Ministros autorizando la adquisición.
+
+> Se modifica el punto 6 por el apartado cuarto del Acuerdo del Consejo de Ministros de 15 de junio de 2021, publicado por Resolución de 16 de junio de 2021. Ref. BOE-A-2021-10415#cu
 
 > Se modifica por el apartado 10 del acuerdo publicado por Resolución de 4 de julio de 2011. Ref. BOE-A-2011-11643.

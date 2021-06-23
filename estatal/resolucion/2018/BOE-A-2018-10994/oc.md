@@ -110,7 +110,7 @@ d) Que se aporta factura por la empresa adjudicataria de acuerdo con lo previsto
 
 a) Que se reconoce en los estatutos o acto de creación de la entidad destinataria del encargo la condición de medio propio personificado respecto del poder adjudicador que hace el encargo, con el contenido mínimo previsto en la letra d) del artículo 32.2 de la Ley de Contratos del Sector Público.
 
-b) Que más del 80 por ciento de las actividades del ente destinatario del encargo se lleven a cabo en el ejercicio de los cometidos que le han sido confiados por el poder adjudicador que hace el encargo, por otros poderes adjudicadores respecto de los que tenga la consideración de medio propio o por otras personas jurídicas controladas por los mismos poderes adjudicadores, de conformidad con lo señalado en la letra b) de los apartados 2 y 4 del artículo 32 de la Ley de Contratos del Sector Público. A estos efectos, se verificará que se hace mención al cumplimiento de esta circunstancia en la Memoria integrante de las últimas Cuentas Anuales auditadas en las que resulte exigible.
+b) (Derogada)
 
 c) Que existe informe del Servicio Jurídico.
 
@@ -155,3 +155,5 @@ a) Que se acompaña certificación o acta de conformidad de las obras, bienes o 
 b) Que, en su caso, existe proyecto informado por la Oficina de Supervisión de Proyectos, si procede.
 
 c) En su caso, que se aporta factura por la entidad destinataria del encargo de acuerdo con lo previsto en el Real Decreto 1619/2012, de 30 de noviembre, por el que se regulan las obligaciones de facturación y, en su caso, en la Ley 25/2013, de 27 de diciembre, de impulso de la factura electrónica.
+
+> Se deroga la letra b) del apartado 2.1 por el apartado sexto del Acuerdo del Consejo de Ministros de 15 de junio de 2021, publicado por Resolución de 16 de junio de 2021. Ref. BOE-A-2021-10415#se-2

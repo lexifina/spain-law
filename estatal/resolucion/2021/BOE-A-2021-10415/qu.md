@@ -1,0 +1,3 @@
+## Quinto. Se modifica íntegramente el punto 2 del apartado Decimonoveno del Acuerdo del Consejo de Ministros de 30 de mayo de 2008, que queda con la siguiente redacción:.
+
+> «2. Si el expediente se instrumenta a través de un convenio, además de verificarse lo establecido con carácter general en el punto 1 anterior, deberán comprobarse los extremos que resulten de aplicación de acuerdo con el tipo de convenio, establecidos en el Acuerdo del Consejo de Ministros de 15 de junio de 2021, respecto al ejercicio de la función interventora en régimen de requisitos básicos en el ámbito de convenios y transferencias a comunidades autónomas realizadas de conformidad con el artículo 86 de la LGP».

@@ -1,0 +1,3 @@
+## Cuarto. Se modifica el punto 6 del apartado Decimoséptimo del Acuerdo del Consejo de Ministros de 30 de mayo de 2008, que queda con la siguiente redacción:.
+
+> «6. En las aportaciones de capital con cargo a los Presupuestos Generales del Estado a sociedades mercantiles estatales, así como a entidades públicas empresariales y demás entidades y fondos del sector público, se comprobará, en el momento del compromiso de gasto, como extremo adicional a que se refiere el apartado primero.1.g) del presente Acuerdo, que existe el informe de la Secretaría de Estado de Presupuestos y Gastos a que se refiere el artículo 66 de la Ley 62/2003, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social».

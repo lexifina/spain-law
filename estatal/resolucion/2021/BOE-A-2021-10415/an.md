@@ -1,0 +1,19 @@
+## ANEXO
+
+## Acuerdo por el que se da aplicación a la previsión de los artículos 152 y 147 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, respecto al ejercicio de la función interventora en régimen de requisitos básicos en el ámbito de convenios y trasferencias a comunidades autónomas realizadas de conformidad con el artículo 86 de la Ley General Presupuestaria
+
+La Ley 47/2003, de 26 de noviembre, General Presupuestaria, en su artículo 152, autoriza al Gobierno para acordar que la fiscalización e intervención previa se limite a comprobar determinados extremos, unos tasados por dicha Ley y, adicionalmente, otros contemplados en el ordenamiento jurídico en su conjunto y seleccionados en atención a su trascendencia en el proceso de gestión y que tienden a asegurar la objetividad y transparencia en las actuaciones públicas.
+
+El último Acuerdo por el que se da aplicación a la previsión de los artículos 152 y 147 de la Ley General Presupuestaria, respecto del ejercicio de la función interventora en régimen de requisitos básicos, fue aprobado por el Consejo de Ministros, en su reunión de 30 de mayo de 2008, y modificado posteriormente, mediante Acuerdos de 16 de abril de 2010, 1 de julio de 2011, 20 de julio de 2018 y 15 de noviembre de 2019.
+
+En el marco de este proceso de adaptación a una serie de reformas normativas producidas en los últimos años, dada la diferente situación actual del régimen jurídico aplicable a los distintos tipos de gastos incluidos en el ámbito de aplicación de la función interventora en régimen de requisitos básicos, y siguiendo la técnica empleada en el Acuerdo del Consejo de Ministros de 20 de julio de 2018, el ámbito objetivo del presente Acuerdo se limita a la reforma y regulación de la citada modalidad de control de determinados tipos de gastos afectados por la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, que ha introducido importantes novedades tanto en materia de convenios como en el régimen jurídico de las conferencias sectoriales.
+
+Por lo que respecta al ámbito subjetivo, se mantiene para los tipos de gastos en él incluidos la homogeneización que en este aspecto se llevó a cabo a través del Acuerdo del Consejo de Ministros de 30 de mayo de 2008 y que consistió en regular conjuntamente la función interventora para la Administración General del Estado, sus organismos autónomos y las entidades gestoras y servicios comunes de la Seguridad Social. Por tanto, el presente Acuerdo, de conformidad con el artículo 147 de la Ley General Presupuestaria, abarca también a las entidades gestoras y servicios comunes de la Seguridad Social, en el ámbito objetivo en él incluido.
+
+El actual marco legal de los convenios recogido en la Ley de Régimen Jurídico del Sector Público y en el Acuerdo del Consejo de Ministros de 15 de diciembre de 2017, por el que se aprueban las instrucciones para la tramitación de convenios, requiere la necesidad de adaptar el régimen de control incorporando no solo las reformas introducidas por la citada Ley sino también aquellas otras fruto del análisis y experiencia obtenida en el ejercicio de la citada modalidad de control durante la vigencia del Acuerdo precedente.
+
+Asimismo, la regulación de las técnicas de cooperación contenida en la citada Ley de Régimen Jurídico del Sector Público, en particular de las Conferencias Sectoriales exige su reflejo en el contenido del apartado correspondiente del presente Acuerdo cuando en las mismas se distribuyen territorialmente créditos presupuestarios de acuerdo con lo dispuesto en el artículo 86 de la Ley General Presupuestaria.
+
+En virtud de todo lo anteriormente expuesto y en cumplimiento del artículo 152 de la Ley General Presupuestaria, a propuesta de la Ministra de Hacienda e iniciativa de la Intervención General de la Administración del Estado, el Consejo de Ministros, en su reunión de 15 de junio de 2021, ha adoptado el siguiente
+
+ACUERDO
