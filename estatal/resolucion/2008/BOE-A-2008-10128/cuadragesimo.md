@@ -1,14 +1,16 @@
 ## Cuadragésimo.
 
-En los expedientes del Seguro Escolar, los extremos adicionales a que se refiere el apartado Primero.1.g) del presente acuerdo serán los siguientes:
+En los expedientes del Seguro Escolar, los extremos adicionales a que se refiere el apartado primero.1.g) del presente Acuerdo serán los siguientes:
 
 1. Requisitos comunes a los expedientes de prestaciones del Seguro Escolar:
 
-a) Que el causante no supera la edad establecida.
+a) Que existe solicitud del interesado.
 
-b) Que se acredita la condición de estudiante asegurado o, en su caso, que el beneficiario no está asegurado por continuar en situación de enfermedad iniciada en el curso anterior.
+b) Que el causante no supera la edad establecida.
 
-c) Que se ha cubierto el periodo mínimo de cotización exigible, en su caso.
+c) Que se acredita la condición de estudiante asegurado o, en su caso, que el beneficiario no está asegurado por continuar en situación de enfermedad iniciada en el curso anterior.
+
+d) Que se ha cubierto el periodo mínimo de cotización exigible, en su caso.
 
 2. Requisitos específicos para cada tipo de prestación:
 
@@ -63,5 +65,9 @@ b) Que la cuantía de los servicios y prestaciones a abonar al centro sanitario 
 3. Expedientes relativos al premio de cobranza del Seguro Escolar:
 
 Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo, que resulten de aplicación.
+
+> Se modifica por el apartado segundo del Acuerdo del Consejo de Ministros de 15 de junio de 2021, publicado por Resolución de 16 de junio de 2021. Ref. BOE-A-2021-10414#se
+
+> Redactado conforme a la corrección de errores publicada por Resolución de 23 de junio de 2021. Ref. BOE-A-2021-10666
 
 > Se modifica por el apartado 4 del acuerdo publicado por Resolución de 18 de noviembre de 2019. Ref. BOE-A-2019-16786

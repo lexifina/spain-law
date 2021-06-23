@@ -1,0 +1,3 @@
+El Consejo de Ministros, en su reunión de 15 junio de 2021, ha modificado el vigente Acuerdo aprobado con fecha 30 de mayo de 2008 (BOE n.º 143, de 13 de junio), por el que se da aplicación a la previsión de los artículos 152 y 147 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, respecto al ejercicio de la función interventora en régimen de requisitos básicos.
+
+Considerando necesaria su publicidad y de conformidad con el certificado de dicho Acuerdo emitido por la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, Relaciones con las Cortes y Memoria Democrática, he resuelto ordenar la publicación de su contenido en el «Boletín Oficial del Estado», a cuyo efecto figura su texto como anexo a esta Resolución.
