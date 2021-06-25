@@ -14,6 +14,8 @@ e) La celebración de matrimonios forzados.
 
 Existe una situación de necesidad o vulnerabilidad cuando la persona en cuestión no tiene otra alternativa, real o aceptable, que someterse al abuso.
 
+Cuando la víctima de trata de seres humanos fuera una persona menor de edad se impondrá, en todo caso, la pena de inhabilitación especial para cualquier profesión, oficio o actividades, sean o no retribuidos, que conlleve contacto regular y directo con personas menores de edad, por un tiempo superior entre seis y veinte años al de la duración de la pena de privación de libertad impuesta.
+
 2. Aun cuando no se recurra a ninguno de los medios enunciados en el apartado anterior, se considerará trata de seres humanos cualquiera de las acciones indicadas en el apartado anterior cuando se llevare a cabo respecto de menores de edad con fines de explotación.
 
 3. El consentimiento de una víctima de trata de seres humanos será irrelevante cuando se haya recurrido a alguno de los medios indicados en el apartado primero de este artículo.
@@ -41,6 +43,8 @@ Cuando se trate de los jefes, administradores o encargados de dichas organizacio
 10. Las condenas de jueces o tribunales extranjeros por delitos de la misma naturaleza que los previstos en este artículo producirán los efectos de reincidencia, salvo que el antecedente penal haya sido cancelado o pueda serlo con arreglo al Derecho español.
 
 11. Sin perjuicio de la aplicación de las reglas generales de este Código, la víctima de trata de seres humanos quedará exenta de pena por las infracciones penales que haya cometido en la situación de explotación sufrida, siempre que su participación en ellas haya sido consecuencia directa de la situación de violencia, intimidación, engaño o abuso a que haya sido sometida y que exista una adecuada proporcionalidad entre dicha situación y el hecho criminal realizado.
+
+> Se modifica el apartado 1 por la disposición final 6.17 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-6
 
 > Se modifican los apartados 1 y 4 por el art. único.94 de la Ley Orgánica 1/2015, de 30 de marzo. Ref. BOE-A-2015-3439.
 

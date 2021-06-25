@@ -92,6 +92,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo sesenta y cuatro](asesentaycuatro.md)
 - [Artículo sesenta y cinco](asesentaycinco.md)
 - [Artículo sesenta y seis](asesentayseis.md)
+- [Artículo sesenta y seis bis](as.md)
 - [Artículo sesenta y siete](asesentaysiete.md)
 - [Artículo sesenta y ocho](asesentayocho.md)
 - [Artículo sesenta y nueve](asesentaynueve.md)

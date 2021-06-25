@@ -28,17 +28,17 @@ En el mismo prestarán servicios funcionarios de los Cuerpos Especiales a que se
 
 Son funciones del Cuerpo de Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses la asistencia técnica en las materias de sus disciplinas profesionales a autoridades judiciales, gubernativas, al Ministerio Fiscal y a los médicos forenses, en el curso de las actuaciones judiciales o en las diligencias previas de investigación. A tal efecto llevarán a cabo los análisis e investigación que les sean solicitados, emitirán los dictámenes e informes pertinentes y evacuarán las consultas que les sean planteadas por las autoridades citadas, así como por los particulares en el curso de procesos judiciales y por organismos o empresas públicas que afecten al interés general, y contribuirán a la prevención de intoxicaciones.
 
-Prestarán sus servicios en el Instituto Nacional de Toxicología y Ciencias Forenses, así como en los Institutos de Medicina Legal y Ciencias Forenses, en los supuestos y condiciones que se determinen en las correspondientes relaciones de puestos de trabajo.
+Prestarán sus servicios en el Instituto Nacional de Toxicología y Ciencias Forenses, así como en los Institutos de Medicina Legal y Ciencias Forenses y en las unidades administrativas que se establezcan, en los supuestos y condiciones que se determinen en las correspondientes relaciones de puestos de trabajo.
 
-4. Los Técnicos Especialistas del Instituto Nacional de Toxicología y Ciencias Forenses son funcionarios de carrera que constituyen un Cuerpo Nacional de auxilio especializado al servicio de la Administración de Justicia.
+4. Los Técnicos Especialistas del Instituto Nacional de Toxicología y Ciencias Forenses son funcionarios de carrera que constituyen un cuerpo nacional de auxilio especializado al servicio de la Administración de Justicia y realizarán funciones de auxilio técnico especializado en las actividades científicas y de investigación propias del citado Instituto, así como de los Institutos de Medicina Legal y Ciencias Forenses.
 
-Son funciones del Cuerpo de Técnicos Especialistas del Instituto Nacional de Toxicología y Ciencias Forenses aquellas de auxilio técnico especializado en las actividades científicas y de investigación propias del Instituto Nacional de Toxicología y Ciencias Forenses.
-
-Prestarán sus servicios en el Instituto Nacional de Toxicología y Ciencias Forenses, así como en los Institutos de Medicina Legal y Ciencias Forenses, en los supuestos y condiciones que se determinen en las correspondientes relaciones de puestos de trabajo.
+Prestarán servicio, en los supuestos y condiciones que se establezcan en las relaciones de puestos de trabajo de los citados organismos.
 
 5. Los Ayudantes de Laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses son funcionarios de carrera que constituyen un Cuerpo Nacional al servicio de la Administración de Justicia, para la realización de funciones de apoyo propias de su formación, en las actividades científicas y de investigación de este Instituto, así como de los Institutos de Medicina Legal y Ciencias Forenses, en la forma y con los requisitos y condiciones que se establezcan en las relaciones de puestos de trabajo de los citados organismos.
 
 6. Los funcionarios de los Cuerpos Especiales del Instituto Nacional de Toxicología y Ciencias Forenses dependerán jerárquicamente del Director de este Instituto o, en su caso, del Director del Instituto de Medicina Legal y Ciencias Forenses en que presten servicios.
+
+> Se modifican los apartados 3 y 4 por la disposición final 4.5 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-4
 
 > Se modifica por el art. único.87 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 

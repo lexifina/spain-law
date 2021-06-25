@@ -10,7 +10,11 @@ El cumplimiento de los objetivos del Plan Especializado de Formación de cada un
 
 4. La Escuela Judicial desarrollará los programas e impartirá los cursos de formación que integren el Plan de Formación Continuada de la Carrera Judicial, pudiendo, por ello, celebrar actividades formativas de manera descentralizada, en el ámbito autonómico o provincial, y mediante colaboración, en su caso, con entidades y organismos expertos en la impartición de la formación de que se trate.
 
-5. El Plan de Formación Continuada de la Carrera Judicial contendrá cursos específicos de naturaleza multidisciplinar sobre la tutela judicial del principio de igualdad entre mujeres y hombres, la discriminación por cuestión de sexo, la múltiple discriminación y la violencia ejercida contra las mujeres, así como la trata en todas sus formas y manifestaciones y la capacitación en la aplicación de la perspectiva de género en la interpretación y aplicación del Derecho, además de incluir dicha formación de manera transversal en el resto de cursos.
+5. El Plan de Formación Continuada de la Carrera Judicial contendrá cursos específicos de naturaleza multidisciplinar sobre la tutela judicial del principio de igualdad entre mujeres y hombres, la discriminación por cuestión de sexo, la múltiple discriminación y la violencia ejercida sobre las mujeres, así como la trata en todas sus formas y manifestaciones y la capacitación en la aplicación de la perspectiva de género en la interpretación y aplicación del Derecho, además de incluir dicha formación de manera transversal en el resto de cursos.
+
+Asimismo, el Plan de Formación Continuada contemplará cursos específicos de naturaleza disciplinar sobre la tutela judicial de los derechos de los niños, niñas y adolescentes. En todo caso, en los cursos de formación se introducirá el enfoque de la discapacidad de los niños, niñas y adolescentes.
+
+> Se modifica el apartado 5 por la disposición final 4.3 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-4
 
 > Se modifica el apartado 5 por el art. único.10 de la Ley Orgánica 5/2018, de 28 de diciembre. Ref. BOE-A-2018-17988#au
 

@@ -1,0 +1,3 @@
+## Disposición adicional primera. Dotación presupuestaria.
+
+El Estado y las comunidades autónomas, en el ámbito de sus respectivas competencias, deberán dotar a los Juzgados y Tribunales de los medios personales y materiales necesarios para el adecuado cumplimiento de las nuevas obligaciones legales. Asimismo, se deberá dotar a los Institutos de Medicina Legal, Oficinas de Atención a las Victimas, órganos técnicos que prestan asesoramiento pericial o asistencial y servicios sociales de los medios personales y materiales necesarios para el adecuado cumplimiento de los fines y obligaciones previstas en esta ley.

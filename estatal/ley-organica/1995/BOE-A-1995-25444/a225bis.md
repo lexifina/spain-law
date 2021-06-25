@@ -4,9 +4,9 @@
 
 2. A los efectos de este artículo, se considera sustracción:
 
-1.º El traslado de un menor de su lugar de residencia sin consentimiento del progenitor con quien conviva habitualmente o de las personas o instituciones a las cuales estuviese confiada su guarda o custodia.
+1.º El traslado de una persona menor de edad de su lugar de residencia habitual sin consentimiento del otro progenitor o de las personas o instituciones a las cuales estuviese confiada su guarda o custodia.
 
-2.º La retención de un menor incumpliendo gravemente el deber establecido por resolución judicial o administrativa.
+2.º La retención de una persona menor de edad incumpliendo gravemente el deber establecido por resolución judicial o administrativa.
 
 3. Cuando el menor sea trasladado fuera de España o fuese exigida alguna condición para su restitución la pena señalada en el apartado 1 se impondrá en su mitad superior.
 
@@ -17,5 +17,7 @@ Si la restitución la hiciere, sin la comunicación a que se refiere el párrafo
 Estos plazos se computarán desde la fecha de la denuncia de la sustracción.
 
 5. Las penas señaladas en este artículo se impondrán igualmente a los ascendientes del menor y a los parientes del progenitor hasta el segundo grado de consanguinidad o afinidad que incurran en las conductas anteriormente descritas.
+
+> Se modifica el apartado 2 por la disposición final 6.29 de la Ley Orgánica 8/2021, de 4 de junio. Ref. BOE-A-2021-9347#df-6
 
 > Se añade por el art. 2 de la Ley Orgánica 9/2002, de 10 de diciembre. Ref. BOE-A-2002-24044
