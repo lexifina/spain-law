@@ -10,4 +10,21 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 ## Bloques
 
+- [(preambulo)](pr.md)
+- [Artículo 1](a1.md)
+- [Artículo 2](a2.md)
+- [Disposición adicional primera](da.md)
+- [Disposición adicional segunda](da-2.md)
 - [Disposición adicional tercera](da-3.md)
+- [Disposición transitoria única](dt.md)
+- [Disposición final primera](df.md)
+- [Disposición final segunda](df-2.md)
+- [Disposición final tercera](df-3.md)
+- [Disposición final cuarta](df-4.md)
+- [Disposición final quinta](df-5.md)
+- [Disposición final sexta](df-6.md)
+- [Disposición final séptima](df-7.md)
+- [Disposición final octava](df-8.md)
+- [Disposición final novena](df-9.md)
+- [(firma)](fi.md)
+- [(Información relacionada) ](ir.md)
