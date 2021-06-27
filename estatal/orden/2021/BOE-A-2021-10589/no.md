@@ -1,0 +1,1 @@
+Téngase en cuenta que la presente Orden produce efectos hasta las 24:00 horas del 10 de julio de 2021, por lo que debe entenderse que ha perdido su vigencia. La Orden SND/413/2021, de 27 de abril, ha sido prorrogada hasta las 24:00 horas del 24 de julio de 2021, por la Orden SND/722/2021, de 8 de julio. Ref. BOE-A-2021-11379
