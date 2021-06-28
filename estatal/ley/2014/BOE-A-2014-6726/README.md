@@ -107,6 +107,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 67 bis](a6-5.md)
 - [CAPÍTULO IV](civ-2.md)
 - [Artículo 68](a68.md)
+- [Artículo 68 bis](a6-6.md)
 - [Artículo 69](a69.md)
 - [Artículo 69 bis](a6-2.md)
 - [Artículo 69 ter](a6-3.md)
