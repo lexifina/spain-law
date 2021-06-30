@@ -2,23 +2,37 @@
 
 ## Registro detalle de los depósitos recibidos
 
-> Téngase en cuenta que esta actualización del Anejo 2, establecida por la norma única de la Circular de 30 de enero de 2019 Ref. BOE-A-2019-1694, entra en vigor el 8 de agosto de 2019, según se determina en su disposición final única.
-
 El archivo tendrá las siguientes características generales:
 
 • Archivo de texto con caracteres ASCII imprimibles (desde el ASCII 32 hasta el ASCII 126, ambos inclusive). No se permiten caracteres ASCII extendido, salvo en los campos en los que se indique expresamente.
 
 • Caracteres admitidos: letras minúsculas y mayúsculas, números, signos «+» y «-». Se podrán utilizar caracteres especiales cuando se indique expresamente en cada uno de los campos.
 
-• Para cada cuenta o depósito, incluidos los fondos procedentes de situaciones transitorias por operaciones de tráfico (en adelante, «depósitos»), se incluirá un registro por titular y depósito, con las siguientes excepciones:
+• Para cada cuenta o depósito, incluidos los fondos procedentes de situaciones transitorias por operaciones de tráfico conforme a lo señalado en el artículo 4.1 del Real Decreto 2606/1996 y los procedentes de los saldos mantenidos por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo abiertas en la entidad o sucursal adscrita al FGD declarante, a nombre de la empresa de servicios de inversión por cuenta de sus clientes, según lo establecido en el artículo 30 quáter del Real Decreto 217/2008 (en adelante, “depósitos”), se incluirá un registro por titular y depósito, con las siguientes excepciones:
 
-○ En el caso de tratarse de depósitos multidivisa, se informará un registro por titular, depósito y divisa.
+– En caso de tratarse de depósitos multidivisa, se informará un registro por titular, depósito y divisa.
 
-○ En el caso de tratarse de depósitos que cuenten con imposiciones con diferentes fechas de vencimiento, se informará un registro por titular, depósito y fecha de vencimiento de la imposición.
+– En caso de tratarse de depósitos que cuenten con imposiciones con diferentes fechas de vencimiento, se informará un registro por titular, depósito y fecha de vencimiento de la imposición.
+
+– En el caso de los saldos mantenidos por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo abiertas en la entidad o sucursal adscrita al FGD, a nombre de la empresa de servicios de inversión por cuenta de sus clientes cuyos depósitos no estén excluidos de la cobertura del FGD en virtud de apartado 4 del artículo 4 del Real Decreto 2606/1996, se incluirá un registro individualizado para cada uno de estos clientes con su correspondiente saldo.
 
 En consecuencia, debe existir un único registro por “Tipo de documento de identificación” (campo 1), “Número del documento de identificación” (campo 2), “Fecha de vencimiento” (campo 14) y “Código del depósito registrado en España o en sucursal de otro país de la UE” (campo 15). Estos campos conforman la clave única del registro.
 
-• En el registro se incluirán los depósitos y los fondos de las sociedades no financieras, los hogares y las Administraciones Locales con un presupuesto anual igual o inferior a 500.000 euros, con independencia de que los depósitos y fondos sean admisibles o no para su cobertura por el FGD.
+• En el registro se incluirán los depósitos y los fondos de las sociedades no financieras, los hogares y las Administraciones Locales con un presupuesto anual igual o inferior a 500.000 euros, con independencia de que los depósitos y fondos sean admisibles o no para su cobertura por el FGD. También se incluirán los saldos mantenidos por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo abiertas en la entidad o sucursal adscrita al FGD a nombre de la empresa de servicios de inversión por cuenta de sus clientes cuyos depósitos no estén excluidos de la cobertura del FGD en virtud del apartado 4 del artículo 4 del Real Decreto 2606/1996, debidamente individualizados para cada uno de ellos.
+
+> Téngase en cuenta que esta última actualización de los puntos tercero y cuarto, establecida por la norma única.d) de la Circular 2/2021, de 28 de enero. Ref. BOE-A-2021-1475, entra en vigor el 30 de junio de 2021, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "• Para cada cuenta o depósito, incluidos los fondos procedentes de situaciones transitorias por operaciones de tráfico (en adelante, «depósitos»), se incluirá un registro por titular y depósito, con las siguientes excepciones:
+
+> ○ En el caso de tratarse de depósitos multidivisa, se informará un registro por titular, depósito y divisa.
+
+> ○ En el caso de tratarse de depósitos que cuenten con imposiciones con diferentes fechas de vencimiento, se informará un registro por titular, depósito y fecha de vencimiento de la imposición.
+
+> En consecuencia, debe existir un único registro por “Tipo de documento de identificación” (campo 1), “Número del documento de identificación” (campo 2), “Fecha de vencimiento” (campo 14) y “Código del depósito registrado en España o en sucursal de otro país de la UE” (campo 15). Estos campos conforman la clave única del registro."
+
+> • En el registro se incluirán los depósitos y los fondos de las sociedades no financieras, los hogares y las Administraciones Locales con un presupuesto anual igual o inferior a 500.000 euros, con independencia de que los depósitos y fondos sean admisibles o no para su cobertura por el FGD."
 
 • Contenido del campo “Importe”: en los depósitos con varios titulares, su importe se dividirá entre los titulares, de acuerdo con lo previsto en el contrato de depósito, y, en su defecto, a partes iguales, conforme a lo establecido en el artículo 7 del Real Decreto 2606/1996.
 
@@ -108,11 +122,23 @@ Campo 10. Número de teléfono.
 
 Campo 11. Correo electrónico del titular.
 
-• Formato: Alfanumérico.
+– Formato: Alfanumérico.
 
-• Longitud: 55.
+– Longitud: 125.
 
-• Contenido: Correo electrónico (e-mail) de contacto del depositante. El formato deberá cumplir con el estándar de Internet RFC-822. Este campo se rellenará siempre que este dato se encuentre disponible. En caso contrario, se rellenará con 55 espacios en blanco.
+– Contenido: Correo electrónico (e-mail) de contacto del depositante. El formato deberá cumplir con el estándar de Internet RFC-822. Este campo se rellenará siempre que el dato se encuentre disponible. En caso contrario, se rellenará con 125 espacios en blanco.
+
+> Téngase en cuenta que esta última actualización del Campo 11, establecida por la norma única.d) de la Circular 2/2021, de 28 de enero. Ref. BOE-A-2021-1475, entra en vigor el 30 de junio de 2021, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "Campo 11. Correo electrónico del titular.
+
+> • Formato: Alfanumérico.
+
+> • Longitud: 55.
+
+> • Contenido: Correo electrónico (e-mail) de contacto del depositante. El formato deberá cumplir con el estándar de Internet RFC-822. Este campo se rellenará siempre que este dato se encuentre disponible. En caso contrario, se rellenará con 55 espacios en blanco."
 
 Campo 12. Admisible.
 
@@ -140,59 +166,117 @@ Campo 14. Fecha de vencimiento.
 
 Campo 15. Código del depósito registrado en España o en una sucursal de otro país de la UE.
 
-• Formato: Alfanumérico.
+– Formato: Alfanumérico.
 
-• Longitud: 39.
+– Longitud: 39.
 
-• Contenido: El campo se formará de la siguiente forma:
+– Contenido: El campo se formará de la siguiente forma:
 
-– Las primeras dos posiciones contendrán los caracteres “ES” para los depósitos registrados en España, o el código ISO 3166 alfa-2 del país donde esté radicada la sucursal para depósitos en otros países de la UE.
+− Las dos primeras posiciones contendrán los caracteres “ES” para los depósitos registrados en España, o el código ISO 3166 alfa-2 del país donde esté radicada la sucursal para depósitos en otros países de la UE.
 
-– Las tres siguientes posiciones contendrán el código ISO 4217 de la moneda del depósito.
+− Las tres siguientes posiciones contendrán el código ISO 4217 de la moneda del depósito.
 
-– Las 34 posiciones restantes contendrán el código que la entidad asigne al depósito.
+− Las 34 posiciones restantes contendrán el código que la entidad o sucursal adscrita al FGD asigne al depósito. Este código será único para cada depósito mantenido por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo abiertas en la entidad o sucursal adscrita al FGD, a nombre de la empresa de servicios de inversión por cuenta de sus clientes. En consecuencia, el código será el mismo en cada uno de los registros individualizados correspondientes a los clientes de la empresa de servicios de inversión incluidos en dicho depósito.
 
 Campo 16. Tipo de depósito.
 
-• Formato: Numérico.
+– Formato: Numérico.
 
-• Longitud: 3.
+– Longitud: 3.
 
-• Contenido: Código interno que la entidad asigne al tipo de depósito de que se trate. A título de ejemplo, podrían asignarse los códigos del siguiente modo: cuentas de ahorro (001), cuentas corrientes (002), etc.
+– Contenido: Código interno que la entidad o sucursal adscrita al FGD asigne al tipo de depósito de que se trate. A título de ejemplo, podrían asignarse los códigos del siguiente modo: cuentas de ahorro (001), cuentas corrientes (002), etc. Los saldos mantenidos en la entidad o sucursal adscrita al FGD, por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo por cuenta de sus clientes, deberán figurar identificados mediante un código propio.
 
 Campo 17. Número total de titulares.
 
-• Formato: Numérico.
+– Formato: Numérico.
 
-• Longitud: 4.
+– Longitud: 8.
 
-• Contenido: Número total de titulares del depósito. Siempre será un número mayor de cero.
+– Contenido: Número total de titulares del depósito. Siempre será un número mayor de cero. En el caso de los saldos mantenidos en la entidad o sucursal adscrita al FGD, por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo por cuenta de sus clientes, figurará el número de clientes.
 
 Campo 18. Número de titular.
 
-• Formato: Numérico.
+– Formato: Numérico.
 
-• Longitud: 4.
+– Longitud: 8.
 
-• Contenido: Número de orden que le corresponde en el número total de titulares del depósito.
+– Contenido: Número de orden que corresponde al titular en el número total de titulares del depósito.
 
 Campo 19. Importe.
 
-• Formato: Alfanumérico.
+– Formato: Alfanumérico.
 
-• Longitud: 15.
+– Longitud: 15.
 
-• Contenido:
+– Contenido: Importe principal o nominal más los intereses devengados en la fecha a la que se refieren los datos del depósito. En caso de que se trate de un depósito con más de un titular, el importe se incluirá en la parte correspondiente a cada titular. En el caso de los saldos mantenidos por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo abiertas en la entidad o sucursal adscrita al FGD, a nombre de la empresa de servicios de inversión por cuenta de sus clientes cuyos depósitos no estén excluidos de la cobertura del FGD en virtud del apartado 4 del artículo 4 del Real Decreto 2606/1996, el importe incluirá el saldo correspondiente a cada cliente.
 
-Importe principal o nominal más los intereses devengados en la fecha a la que se refieren los datos del depósito. En el caso de que se trate de un depósito con más de un titular, el importe se incluirá en la parte correspondiente a cada titular.
-
-El importe se incluirá con un signo y dos decimales. La primera posición siempre será “-”, si el saldo es negativo, o “+”, si es positivo. Las otras catorce posiciones se completarán con ceros a la izquierda y contendrán el importe, que deberá estar expresado en céntimos de euro, siendo los dos últimos dígitos los correspondientes a los decimales del importe, sin incluir en ningún caso el signo decimal “,”. Cuando el importe sea cero, la primera posición será “+”, y las catorce posiciones siguientes serán ceros.
+El importe se incluirá con un signo y dos decimales. La primera posición siempre será “−” si el saldo del depósito es negativo (descubiertos en cuenta corriente) y se cumplen las condiciones establecidas en el artículo 7.2 del Real Decreto 2606/1996, o “+” si es positivo. Las otras 14 posiciones se completarán con ceros a la izquierda y contendrán el importe, que deberá estar expresado en céntimos de euro, siendo los dos últimos dígitos los correspondientes a los decimales del importe, sin incluir en ningún caso el signo decimal “,”. Cuando el importe sea cero, la primera posición será “+” y las 14 posiciones siguientes serán ceros.
 
 Los depósitos no denominados en euros se convertirán a euros:
 
 – En caso de evento de pago, los depósitos se convertirán a euros aplicando el tipo de cambio del día en que se produzca alguno de los hechos citados en el artículo 8.1 del Real Decreto 2606/1996, o del día anterior hábil cuando fuese festivo.
 
 – En el resto de los casos, se aplicará el tipo de cambio correspondiente a la fecha de referencia de los datos.
+
+> Téngase en cuenta que esta última actualización de los Campos 15 a 19, establecida por la norma única.d) de la Circular 2/2021, de 28 de enero. Ref. BOE-A-2021-1475, entra en vigor el 30 de junio de 2021, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "Campo 15. Código del depósito registrado en España o en una sucursal de otro país de la UE.
+
+> • Formato: Alfanumérico.
+
+> • Longitud: 39.
+
+> • Contenido: El campo se formará de la siguiente forma:
+
+> – Las primeras dos posiciones contendrán los caracteres “ES” para los depósitos registrados en España, o el código ISO 3166 alfa-2 del país donde esté radicada la sucursal para depósitos en otros países de la UE.
+
+> – Las tres siguientes posiciones contendrán el código ISO 4217 de la moneda del depósito.
+
+> – Las 34 posiciones restantes contendrán el código que la entidad asigne al depósito.
+
+> Campo 16. Tipo de depósito.
+
+> • Formato: Numérico.
+
+> • Longitud: 3.
+
+> • Contenido: Código interno que la entidad asigne al tipo de depósito de que se trate. A título de ejemplo, podrían asignarse los códigos del siguiente modo: cuentas de ahorro (001), cuentas corrientes (002), etc.
+
+> Campo 17. Número total de titulares.
+
+> • Formato: Numérico.
+
+> • Longitud: 4.
+
+> • Contenido: Número total de titulares del depósito. Siempre será un número mayor de cero.
+
+> Campo 18. Número de titular.
+
+> • Formato: Numérico.
+
+> • Longitud: 4.
+
+> • Contenido: Número de orden que le corresponde en el número total de titulares del depósito.
+
+> Campo 19. Importe.
+
+> • Formato: Alfanumérico.
+
+> • Longitud: 15.
+
+> • Contenido:
+
+> Importe principal o nominal más los intereses devengados en la fecha a la que se refieren los datos del depósito. En el caso de que se trate de un depósito con más de un titular, el importe se incluirá en la parte correspondiente a cada titular.
+
+> El importe se incluirá con un signo y dos decimales. La primera posición siempre será “-”, si el saldo es negativo, o “+”, si es positivo. Las otras catorce posiciones se completarán con ceros a la izquierda y contendrán el importe, que deberá estar expresado en céntimos de euro, siendo los dos últimos dígitos los correspondientes a los decimales del importe, sin incluir en ningún caso el signo decimal “,”. Cuando el importe sea cero, la primera posición será “+”, y las catorce posiciones siguientes serán ceros.
+
+> Los depósitos no denominados en euros se convertirán a euros:
+
+> – En caso de evento de pago, los depósitos se convertirán a euros aplicando el tipo de cambio del día en que se produzca alguno de los hechos citados en el artículo 8.1 del Real Decreto 2606/1996, o del día anterior hábil cuando fuese festivo.
+
+> – En el resto de los casos, se aplicará el tipo de cambio correspondiente a la fecha de referencia de los datos."
 
 Campo 20. Importe especialmente protegido.
 
@@ -298,5 +382,7 @@ Ejemplo 4. Un depósito de un mismo titular con dos imposiciones de 10.000 euros
 | NIF | 44444444E | 20180930 | ESEUR990000000810123456444 | +00000002000000 |  |
 
 En total, un registro en el archivo, porque los campos que conforman la clave única son iguales.
+
+> Se modifica, con efectos de 30 de junio de 2021, por la norma única.d) de la Circular 2/2021, de 28 de enero. Ref. BOE-A-2021-1475
 
 > Se modifica, con efectos de 8 de agosto de 2019, por la norma única de la Circular de 30 de enero de 2019. Ref. BOE-A-2019-1694
