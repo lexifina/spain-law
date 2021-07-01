@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Convenios de cofinanciación.
+
+Excepcionalmente para el curso 2021-2022, las comunidades autónomas que hayan iniciado la negociación para el traspaso de las funciones y servicios en materia de gestión de becas y ayudas al estudio personalizadas, de conformidad con lo previsto en la disposición adicional cuarta del Real Decreto 1721/2007, de 21 de diciembre, podrán acordar, a través de un convenio con el Ministerio de Educación y Formación Profesional, la convocatoria y la cofinanciación con cargo a sus propios presupuestos del 50 por ciento de las becas que se concedan al estudiantado cuya renta familiar se sitúe dentro del intervalo fijado en el artículo 8, apartados 1 y 3.
