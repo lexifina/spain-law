@@ -1,0 +1,11 @@
+## Disposición adicional segunda. Actualización de equipos.
+
+1. Los equipos que ya estuvieran instalados a bordo de una embarcación de recreo, conforme a los requisitos de la Orden FOM/1144/2003, de 28 de abril, por la que se regulan los equipos de seguridad, salvamento, contra incendios, navegación y prevención de vertidos por aguas sucias, que deben llevar a bordo las embarcaciones de recreo, no tendrán la obligación de cumplir con los nuevos requisitos adicionales previstos en este real decreto para cada equipo en concreto. Dichos equipos no se podrán instalar a bordo de otra embarcación.
+
+2. Las revisiones de las balsas salvavidas, los chalecos salvavidas inflables, los extintores portátiles y los sistemas fijos de extinción de incendios, que ya estuvieran instalados a bordo de una embarcación de recreo, conforme a los requisitos de la Orden FOM/1144/2003, de 28 de abril, se llevarán a cabo con las nuevas disposiciones contenidas en este real decreto.
+
+3. Los equipos establecidos con carácter obligatorio por este real decreto y que no eran exigidos para las embarcaciones de recreo a las que venía aplicándose la Orden FOM/1144/2003, de 28 de abril, se instalarán en el plazo de seis meses desde la entrada en vigor de este real decreto. Asimismo, antes del plazo indicado, los chalecos salvavidas serán completados, cuando proceda, con la luz prescrita en el artículo 7.
+
+4. Cuando una de las normas técnicas armonizadas citadas en este real decreto, sea sustituida, los equipos que ya estuvieran instalados a bordo conforme a los requisitos de la norma sustituida no tendrán la obligación de cumplir con los requisitos adicionales que pudiera incluir la nueva norma. Dichos equipos no se podrán instalar a bordo de otra embarcación.
+
+Se entiende por norma técnica armonizada a efectos de este real decreto, a aquella norma UNE cuya referencia haya sido incluida en la relación de normas UNE aprobadas por la Asociación Española de Normalización publicada en el «Boletín Oficial del Estado», que sea versión de una norma EN cuya referencia haya sido publicada en el Diario Oficial de la Unión Europea en el marco de aplicación de la Directiva 2013/53/EU, del Parlamento Europeo y del Consejo, relativa a las embarcaciones de recreo y a las motos acuáticas, y por la que se deroga la Directiva 94/25/CE.
