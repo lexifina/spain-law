@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 51, de 28 de febrero de 2008. Ref. BOE-A-2008-3745.
+Téngase en cuenta que las modificaciones realizadas al Reglamento de Instalaciones Térmicas en los Edificios (RITE) por el art. único del Real Decreto 178/2021, de 23 de marzo, entran en vigor 1 de julio de 2021, según determina su disposición final segunda. Ref. BOE-A-2021-4572

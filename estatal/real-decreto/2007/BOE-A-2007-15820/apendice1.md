@@ -14,7 +14,15 @@ Aire de impulsión (SUP) (Supply air): aire que entra tratado en el local o en e
 
 Aire interior (IDA) (Indoor air): aire tratado en el local o en la zona.
 
-Biomasa: cualquier combustible sólido, líquido o gaseoso, no fósil, compuesto por materia vegetal o animal, o producido a partir de de la misma mediante procesos físicos o químicos, susceptible de ser utilizado en aplicaciones energéticas, como por ejemplo, las astillas, el metiléster de girasol, o el biogás procedente de una digestión anaerobia.
+Aparato de calefacción local: un dispositivo de calefacción que emite calor por transferencia directa o en combinación con la transferencia de calor a un fluido a fin de alcanzar y mantener un nivel térmico adecuado para el ser humano en el espacio cerrado en el que el producto está situado, eventualmente combinado con la producción de calor para otros espacios, y equipado con uno o más generadores de calor que convierten directamente la electricidad o combustibles gaseosos o líquidos en calor por medio del uso del efecto de Joule o la combustión de combustibles, respectivamente.
+
+Aparato de calefacción local de combustible sólido: un aparato de calefacción local abierto por su parte frontal, un aparato de calefacción local cerrado en su parte frontal o una cocina que utilicen combustible sólido.
+
+Biomasa: la fracción biodegradable de los productos, residuos y desechos de origen biológico procedentes de actividades agrarias, incluidas las sustancias de origen vegetal y de origen animal, de la silvicultura y de las industrias conexas, incluidas la pesca y la acuicultura, así como la fracción biodegradable de los residuos, incluidos los residuos industriales y municipales de origen biológico.
+
+Biomasa leñosa: la biomasa procedente de árboles, arbustos y matas, incluida la madera en tronco, la madera desbastada, la madera comprimida en forma de pellets, la madera comprimida en forma de briquetas y el serrín.
+
+Biomasa no leñosa: la biomasa distinta de la leñosa, incluida la paja, el miscanthus, la caña, las pepitas, el grano, los huesos de aceituna, el orujillo y las cáscaras de frutos secos.
 
 Biocombustibles sólidos: aquellos combustibles sólidos no fósiles compuestos por materia vegetal o animal, o producidos a partir de la misma mediante procesos físicos o químicos, susceptibles de ser utilizados en aplicaciones energéticas, como por ejemplo los huesos de aceituna, las cáscaras de almendra, los pelets, las astillas y los orujillos.
 
@@ -56,17 +64,27 @@ Director de la instalación: técnico titulado competente bajo cuya dirección s
 
 Director de mantenimiento: técnico titulado competente bajo cuya dirección deber realizarse el mantenimiento de las instalaciones térmicas cuya potencia térmica nominal total instalada sea igual o mayor que 5.000 kW en calor y/o 1.000 kW en frío, así como las instalaciones de calefacción o refrigeración solar cuya potencia térmica sea mayor que 400 kW.
 
-Edificio: construcción techada con paredes en la que se emplea energía para acondicionar el clima interior: puede referirse a un edificio en su conjunto ó a partes del mismo que hayan sido diseñadas ó modificadas para ser utilizadas por separado.
+Edificio: construcción techada con paredes en la que se emplea energía para acondicionar el ambiente interior.
 
 Edificios o locales institucionales: son aquellos donde se reúnen personas que carecen de libertad plena par abandonarlos en cualquier momento. Ejemplo: hospitales, residencias de ancianos, centros penitenciarios, colegios y centros de enseñanza infantil, primaria, secundaria y bachillerato, cuarteles y similares.
 
-Edificios o locales de pública reunión: son aquellos donde se reúnen personas para desarrollar actividades de carácter público o privado, en los que los ocupantes tienen libertad para abandonarlos en cualquier momento. Ejemplo: teatros, cines, auditorios, estaciones de transporte, pabellones deportivos, centros de enseñanza universitaria, aeropuertos, locales para el culto, salas de fiestas, discotecas, salas de espectáculos y actividades recreativas, salas de exposiciones, bibliotecas, museos y similares.
+Edificios o locales de pública concurrencia: son aquellos donde se reúnen personas para desarrollar actividades de carácter público o privado, en los que los ocupantes tienen libertad para abandonarlos en cualquier momento. Ejemplo: teatros, cines, auditorios, estaciones de transporte, pabellones deportivos, centros de enseñanza universitaria, aeropuertos, locales para el culto, salas de fiestas, discotecas, salas de espectáculos y actividades recreativas, salas de exposiciones, bibliotecas, museos y similares.
+
+Empresa comercializadora: en su ámbito, aquella empresa definida como tal en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, o en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+
+Empresa distribuidora: persona jurídica que ostenta la titularidad de una red de distribución de energía.
 
 Empresa suministradora: aquella empresa legalmente capacitada para proveer energía y productos energéticos (gas, electricidad, productos petrolíferos, agua, etc.).
 
+Energía ambiente: la energía térmica presente de manera natural y la energía acumulada en un ambiente confinado, que puede almacenarse en el aire ambiente (excluido el aire de salida) o en las aguas superficiales o residuales.
+
 Energía convencional: aquella energía tradicional, normalmente comercializada, que entra en el cómputo del Producto Interior Bruto de la nación.
 
-Energía residual: energía que se puede obtener como subproducto de un proceso principal.
+Energía geotérmica: la energía almacenada en forma de calor bajo la superficie de la tierra sólida.
+
+Energía procedente de fuentes renovables o energía renovable: la energía procedente de fuentes renovables no fósiles, es decir, energía eólica, energía solar (solar térmica y solar fotovoltaica) y energía geotérmica, energía ambiente, energía mareomotriz, energía undimotriz y otros tipos de energía oceánica, energía hidráulica y energía procedente de biomasa, gases de vertedero, gases de plantas de depuración, y biogás.
+
+Energía residual: energía inevitable generada como subproducto de un proceso principal.
 
 Entidad reconocida: aquella entidad autorizada para impartir los cursos de formación de profesionales autorizados en instalaciones térmicas de los edificios e inscrita en el registro especial del órgano competente de la Comunidad Autónoma.
 
@@ -82,6 +100,8 @@ AE 3: (alto nivel de contaminación) aire de locales con producción de producto
 
 AE 4: (muy alto nivel de contaminación) aire que contiene sustancias olorosas y contaminantes perjudiciales para la salud, en concentraciones mayores que las permitidas en el aire interior de la zona ocupada.
 
+Espacio interior: a efectos de la obligación de la autorregulación de temperaturas, debe entenderse como una parte o una división de un edificio confinado por paredes, suelo y techo, como por ejemplo una habitación.
+
 Fluido portador: medio empleado para transportar energía térmica en las canalizaciones de una instalación de climatización.
 
 Generador: equipo para la producción de calor o frío.
@@ -96,9 +116,25 @@ IDA 3: aire de calidad mediocre.
 
 IDA 4: aire de calidad baja.
 
+Generador de calor: la parte de una instalación de calefacción que genera calor útil mediante uno o varios de los siguientes procesos:
+
+a) La combustión de combustibles en, por ejemplo, una caldera.
+
+b) El efecto Joule en los elementos calefactores de un sistema de calefacción por resistencia eléctrica.
+
+c) La captura de calor del aire ambiente, del aire extraído de un sistema de ventilación o del agua o de la tierra utilizando una bomba de calor.
+
+Generador de calor mediante energía solar: la parte de una instalación térmica que genera calor útil mediante el aprovechamiento de la radiación solar.
+
 Instalaciones centralizadas: aquellas en las que la producción de calor es única para todo el edificio, realizándose su distribución desde la central generadora a las correspondientes viviendas y/ó locales por medio de fluidos térmicos.
 
 Instalación de aire acondicionado: Combinación de elementos necesarios para proporcionar un tipo de tratamiento del aire interior, mediante el cual la temperatura está controlada o puede bajarse.
+
+Instalación de calefacción: combinación de elementos necesarios para proporcionar un tipo de tratamiento del aire interior, mediante el cual se incrementa la temperatura.
+
+Instalación técnica del edificio: equipos técnicos destinados a calefacción y refrigeración de espacios, ventilación, agua caliente sanitaria, iluminación integrada, automatización y control de edificios, generación de electricidad in situ, o una combinación de los mismos, incluidas las instalaciones que utilicen energía procedente de fuentes renovables, de un edificio o de una unidad de este. Una instalación técnica del edificio está conformada por una instalación térmica, por la iluminación integrada o por la posible generación de electricidad in situ.
+
+Instalación térmica: Se considera instalación térmica la instalación fija de climatización (calefacción, refrigeración y ventilación) destinada a atender la demanda de bienestar térmico e higiene de las personas, o la instalación destinada a la producción de agua caliente sanitaria (ACS), incluidas las interconexiones a redes urbanas de calefacción o refrigeración y los sistemas de automatización y control.
 
 Instalador autorizado: toda persona física acreditada mediante el correspondiente carné profesional expedido por el órgano competente de la Comunidad Autónoma.
 
@@ -148,6 +184,8 @@ Rendimiento útil (expresado en porcentaje): la relación entre el flujo calorí
 
 Sistema: conjunto de equipos y aparatos que, relacionados entre sí, constituyen una instalación de climatización.
 
+Sistema de automatización y control de edificios: sistema que incluya todos los productos, programas informáticos y servicios de ingeniería que puedan apoyar el funcionamiento eficiente energéticamente, económico y seguro de las instalaciones técnicas del edificio mediante controles automatizados y facilitando su gestión manual de dichas instalaciones técnicas del edificio.
+
 Sistema de transporte de biocombustible sólido: sistema para movimiento de biocombustible dentro de la instalación que puede realizarse por diferentes medios como, por ejemplo, suelos con rascadores horizontales hidráulicos, rascadores giratorios, suelos inclinados con tornillo sin fin o suelos inclinados con sistema de alimentación neumático.
 
 Sistema mixto: técnica de acondicionamiento en la que el control de las condiciones térmicas interiores está a cargo de un subsistema (ventiloconvectores, inductores, aparatos autónomos, techos radiantes, suelos radiantes, radiadores, etc.) en combinación con el subsistema de ventilación.
@@ -178,7 +216,9 @@ Usuario: persona física o jurídica que utiliza la instalación térmica.
 
 Ventilación mecánica: proceso de renovación del aire de los locales por medios mecánicos.
 
-Ventilación natural: proceso de renovación del aire de los locales por medios naturales (acción del viento y/o tiro térmico), la acción de los cuales puede verse favorecida con apertura de elementos de los cerramientos:
+Ventilación natural: proceso de renovación del aire de los locales por medios naturales (acción del viento y/o tiro térmico), la acción de los cuales puede verse favorecida con apertura de elementos de los cerramientos.
+
+Zona de calefacción o refrigeración: a efectos de la obligación de la autorregulación de temperaturas, debe entenderse como una zona de un edificio o de una unidad de este, ubicada en una sola planta, con parámetros térmicos homogéneos y necesidades de regulación de temperatura parecidas.
 
 Zona ocupada: se considera zona ocupada al volumen destinado dentro de un espacio para la ocupación humana. Representa el volumen delimitado por planos verticales paralelos a las paredes del local y un plano horizontal que define la altura. Las distancias de esos planos desde las superficies interiores del local son:
 
@@ -195,6 +235,8 @@ Puertas y zonas de tránsito: 100 cm.
 No tienen la consideración de zona ocupada los lugares en los que puedan darse importantes variaciones de temperatura con respecto a la media y pueda haber presencia de corriente de aire en la cercanía de las personas, como: zonas de tránsito, zonas próximas a puertas de uso frecuente, zonas próximas a cualquier tipo de unidad terminal que impulse aire y zonas próximas a aparatos con fuerte producción de calor.
 
 Zona térmica: es el conjunto de locales en los que sus temperaturas pueden considerarse idénticas, siendo atendidas por un mismo subsistema de climatización. En cada local pueden existir sistemas de control que ajusten las aportaciones térmicas.
+
+> Se modifica, con efectos de 1 de julio de 2021, por el art. único.72 del Real Decreto 178/2021, de 23 de marzo. Ref. BOE-A-2021-4572
 
 > Se modifica por la disposición final 3.2 del Real Decreto 56/2016, de 12 de febrero. Ref. BOE-A-2016-1460.
 

@@ -16,9 +16,11 @@ Definiciones y clasificación de instalaciones. Partes y elementos constituyente
 
 Definiciones y clasificación de instalaciones. Partes yelementos constituyentes. Análisis funcional. Procesos de tratamiento y acondicionamiento del aire. Diagrama psicométrico. Dimensionado y selección de equipos. Equipos de generación de calor y frío para instalaciones de acondicionamiento de aire. Plantas enfriadoras. Bombas de calor. Equipos de absorción. Grupos autónomos de acondicionamiento de aire. Torres de refrigeración.
 
-4. Aprovechamiento de las energías renovables en las instalaciones térmicas.
+4. Utilización de las energías renovables en las instalaciones térmicas.
 
-Aprovechamiento de la energía solar térmica para calefacción, refrigeración y producción de agua caliente sanitaria. Conceptos básicos de radiación y posición solar. Dimensionamiento y acoplamiento con otras instalaciones térmicas. Biomasa.
+Aprovechamiento de la energía solar térmica para calefacción, refrigeración y producción de agua caliente sanitaria. Conceptos básicos de radiación y posición solar. Calderas y aparatos de calefacción local de biomasa. Sistemas geotérmicos superficiales. Bombas de calor de pequeña escala. Dimensionamiento y acoplamiento con otras instalaciones térmicas.
+
+En cualquier caso, se deben impartir los temas enunciados en el anexo IV de la Directiva 2018/2001, de 11 de diciembre de 2018, o aquella que la sustituya.»
 
 5. Redes de transporte de fluidos portadores.
 
@@ -76,40 +78,4 @@ Confección de Manual de Uso y Mantenimiento de la instalación térmica.
 
 Número mínimo de horas del curso de Conocimientos específicos de instalaciones térmicas en edificios: 270 horas (150 horas de temas teóricos + 120 horas de temas prácticos).
 
-A 3.3 CONTENIDOS DE LOS CURSOS DE FORMACIÓN COMPLEMENTARIOS PARA LA CONVALIDACIÓN DE LOS CARNÉS PROFESIONALES ESTABLECIDOS EN EL REGLAMENTO DE INSTALACIONES TÉRMICAS EN LOS EDIFICIOS (RITE), APROBADO POR REAL DECRETO 1751/1998, DE 31 DE JULIO, POR EL CARNÉ PROFESIONAL DE INSTALACIONES TÉRMICAS DE EDIFICIOS
-
-A 3.3.1 Temario para la convalidación del carné de Instalador
-
-1. Instalaciones y equipos de acondicionamiento de aire (para la especialidad A);
-
-2. Instalaciones y equipos de calefacción y producción de agua caliente sanitaria (para la especialidad B);
-
-3. Aprovechamiento de las energías renovables en las instalaciones térmicas;
-
-4. Pruebas y puesta en funcionamiento de las instalaciones térmicas;
-
-5. Mantenimiento de las instalaciones térmicas;
-
-6. Calidad y Seguridad en el mantenimiento de equipos e instalaciones térmicas;
-
-7. Explotación energética de las instalaciones térmicas;
-
-8. Reglamento de Instalaciones térmicas en los edificios, Reglamento de seguridad para plantas e instalaciones frigoríficas en las partes que le son de aplicación, Reglamento Europeo 842/2006 sobre determinados gases fluorados de efecto invernadero y otra normativa de aplicación;
-
-Número mínimo de horas del curso: 120 horas (80 horas de temas teóricos + 40 horas de temas prácticos).
-
-A 3.3.2 Temario para la convalidación del carné de Mantenedor.
-
-1. Instalaciones y equipos de acondicionamiento de aire (para la especialidad A);
-
-2. Instalaciones y equipos de calefacción y producción de agua caliente sanitaria (para la especialidad B);
-
-3. Aprovechamiento de las energías renovables en las instalaciones térmicas;
-
-4. Calidad y Seguridad en el montaje de instalaciones térmicas;
-
-5. Explotación energética de las instalaciones térmicas;
-
-6. Reglamento de Instalaciones térmicas en los edificios, Reglamento de seguridad para plantas e instalaciones frigoríficas en las partes que le son de aplicación, Reglamento Europeo 842/2006 sobre determinados gases fluorados de efecto invernadero, y otra normativa de aplicación;
-
-Número mínimo de horas del curso: 80 horas (55 horas de temas teóricos + 25 horas de temas prácticos).
+> Se modifica, con efectos de 1 de julio de 2021, el Apéndice 3.1 y se suprime el Apéndice 3.3 por el art. único.74 y 75 del Real Decreto 178/2021, de 23 de marzo. Ref. BOE-A-2021-4572
