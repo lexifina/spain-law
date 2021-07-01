@@ -2,13 +2,17 @@
 
 ## Modelo 322 de autoliquidación mensual, modelo individual Grupo de Entidades
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/340/17269_5807.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/150/10509_9750038_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/340/17269_5845.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/150/10509_9750038_2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/340/17269_5916.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/150/10509_9750038_3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/340/17269_5987.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/150/10509_9750038_4.png)
+
+> Se sustituye por el art. 1 y anexo I de la Orden HAC/646/2021, de 22 de junio. Ref. BOE-A-2021-10509
+
+> Téngase en cuenta que será aplicable por primera vez a las autoliquidaciones correspondientes a los periodos de liquidación que se inicien a partir del 1 de julio de 2021, según establece la disposición final única de la citada Orden.
 
 > Se sustituye por el art. 1 y anexo I de la Orden HAC/1274/2020, de 28 de diciembre. Ref. BOE-A-2020-17269
 

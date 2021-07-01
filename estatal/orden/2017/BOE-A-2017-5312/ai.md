@@ -60,7 +60,7 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2020/308/14775_14310.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/308/14775_14345.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/150/14775_14345.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2020/308/14775_14378.png)
 
@@ -74,7 +74,9 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2020/308/14775_14549.png)
 
-> Téngase en cuenta que esta actualización del anexo I, establecida por el art. único.3 de la Orden HAC/1089/2020, de 27 de octubre. Ref. BOE-A-2020-14775, entra en vigor el 1 de enero de 2021, según establece su disposición final única.
+> Se incluye una nueva clave de régimen especial en la tabla L 3.1 por el art. 4 de la Orden HAC/646/2021, de 22 de junio. Ref. BOE-A-2021-10509
+
+> Esta modificación será de aplicación por primera vez a las autoliquidaciones del Impuesto sobre el Valor Añadido, modelos 303 y 322, correspondientes a los periodos de liquidación que se inicien a partir del 1 de julio de 2021 y a la declaración-resumen anual, modelo 390, correspondiente al ejercicio 2021, según establece la disposición final única de la citada Orden.
 
 > Se sustituye, con efectos de 1 de enero de 2021, por el anexo de la Orden HAC/1089/2020, de 27 de octubre, según establece el art. único.3. Ref. BOE-A-2020-14775
 
