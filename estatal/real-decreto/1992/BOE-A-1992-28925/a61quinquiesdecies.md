@@ -1,34 +1,10 @@
-## Artículo 61 quinquiesdecies. Obligaciones formales.
+## Artículo 61 quinquiesdecies. Obligaciones de información.
 
-1. Los empresarios y profesionales han de llevar un registro de las operaciones incluidas en estos regímenes especiales, con el detalle suficiente para que la Administración tributaria del Estado miembro de consumo pueda comprobar los datos incluidos en las declaraciones del Impuesto. A tal efecto, dicho registro deberá contener la siguiente información:
+El empresario o profesional, o el intermediario que actúe por su cuenta, en su caso, acogido a cualesquiera de estos regímenes especiales a que se refiere este capítulo deberá presentar una declaración de modificación al Estado miembro de identificación ante cualquier cambio en la información proporcionada al mismo; dicha declaración se deberá presentar a más tardar el décimo día del mes siguiente a aquel en que se haya producido el cambio correspondiente.
 
-a) El Estado miembro de consumo en el que se preste el servicio;
+En el caso de que el Reino de España sea el Estado miembro de identificación la declaración de modificación se regula en los artículos 163 noniesdecies, 163 duovicies y 163 septvicies de la Ley del Impuesto.
 
-b) el tipo de servicio prestado;
-
-c) la fecha de la prestación del servicio;
-
-d) la base imponible con indicación de la moneda utilizada;
-
-e) cualquier aumento o reducción posterior de la base imponible;
-
-f) el tipo del Impuesto aplicado;
-
-g) el importe adeudado del Impuesto con indicación de la moneda utilizada;
-
-h) la fecha y el importe de los pagos recibidos;
-
-i) cualquier anticipo recibido antes de la prestación del servicio;
-
-j) la información contenida en la factura, en caso de que se haya emitido;
-
-k) el nombre del cliente, siempre que se disponga del mismo;
-
-l) la información utilizada para determinar el lugar de establecimiento del cliente, o su domicilio o residencia habitual.
-
-2. La información anterior deberá conservarse de tal manera que permita su disposición por vía electrónica, de forma inmediata y por cada uno de los servicios prestados y estará disponible tanto para el Estado de consumo como para el Estado de identificación.
-
-3. La expedición de factura, en los casos en que resulte procedente, se determinará y se ajustará conforme con las normas del Estado miembro de identificación.
+> Se modifica por el art. 1.7 del Real Decreto 424/2021, de 15 de junio. Ref. BOE-A-2021-10026#ap
 
 > Se modifica el apartado 3 por el art. 1.8 del Real Decreto 1512/2018, de 28 de diciembre. Ref. BOE-A-2018-17995
 

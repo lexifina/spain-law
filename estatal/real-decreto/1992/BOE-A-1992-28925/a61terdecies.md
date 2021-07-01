@@ -1,27 +1,35 @@
-## Artículo 61 terdecies. Exclusión y efectos.
+## Artículo 61 terdecies. Opción y renuncia. Efectos.
 
-1. La exclusión de un empresario o profesional de cualquiera de los regímenes especiales se adoptará por el Estado miembro de identificación, cuya decisión deberá notificar a dicho empresario por vía electrónica y surtirá efecto a partir del primer día del trimestre natural siguiente a la fecha de la indicada comunicación.
+1. La opción por alguno de los regímenes especiales a los que se refiere este capítulo se realizará a través de la presentación, en el Estado miembro de identificación, de la correspondiente declaración de inicio en los regímenes especiales y surtirá efecto:
 
-No obstante lo anterior, cuando la exclusión traiga causa en el cambio de sede de actividad económica o de establecimiento permanente, surtirá efecto a partir de la fecha de dicho cambio, siempre y cuando el empresario o profesional presente la declaración de modificación a cada uno de los dos Estados miembros de identificación afectados, en la que informe del cambio de Estado miembro de identificación a más tardar el décimo día del mes siguiente a aquél en que se haya producido el cambio de sede o de establecimiento permanente.
+a) a partir del primer día del trimestre natural siguiente a la presentación de la indicada declaración, en el caso del régimen exterior de la Unión y del régimen de la Unión; o
 
-2. Serán causas de exclusión de los regímenes especiales cualesquiera de las que se relacionan a continuación:
+b) desde el día en que se haya asignado al empresario o profesional, o al intermediario que actúe por su cuenta, el número individual de identificación a efectos del Impuesto para el régimen de importación.
 
-a) La presentación por el empresario o profesional de la declaración de cese por haber dejado de prestar servicios comprendidos en cualquiera de los regímenes especiales; a tal efecto el empresario o profesional deberá presentar dicha declaración al Estado miembro de identificación a más tardar el décimo día del mes siguiente a que se produzca dicha situación.
+En el caso de que el Reino de España sea el Estado miembro de identificación la declaración de inicio se regula en los artículos 163 noniesdecies, 163 duovicies y 163 septvicies de la Ley del Impuesto.
 
-En el caso de que España sea el Estado miembro de identificación la declaración de cese se regula en los artículos 163 noniesdecies y 163 duovicies de la Ley del Impuesto.
+No obstante lo anterior, en el régimen exterior de la Unión o el régimen de la Unión, cuando un empresario o profesional inicie las operaciones incluidas en estos regímenes especiales con carácter previo a la fecha de efectos a la que se refiere la letra a) anterior, el régimen especial correspondiente surtirá efecto a partir de la fecha de la primera entrega o prestación de servicios, siempre y cuando el empresario o profesional presente dicha declaración de inicio a más tardar el décimo día del mes siguiente a la fecha de inicio de las mismas.
 
-b) La existencia de hechos que permitan presumir que el empresario o profesional ha dejado de desarrollar sus actividades en cualquiera de los regímenes especiales; se considerará que se ha producido lo anterior cuando el empresario o profesional no preste en ningún Estado miembro de consumo alguno de los servicios a que se refieren los regímenes especiales durante un período de ocho trimestres naturales consecutivos.
+Lo establecido en este apartado se entiende sin perjuicio de la facultad de la Administración tributaria del Estado miembro de identificación de denegar el registro a los regímenes especiales a que se refiere este capítulo cuando el empresario o profesional no cumpla las condiciones para acogerse a los regímenes en cuestión.
 
-c) El incumplimiento de los requisitos necesarios para acogerse a estos regímenes.
+2. La renuncia voluntaria a cualquiera de los regímenes especiales a que se refiere este capítulo se realizará a través de la presentación de la declaración de cese en los regímenes especiales al Estado miembro de identificación, que deberá efectuarse:
 
-d) El incumplimiento reiterado de las obligaciones impuestas por la normativa de estos regímenes especiales, el cual concurrirá cuando, entre otros:
+a) al menos quince días antes de finalizar el trimestre natural anterior a aquel en que vaya a dejar de utilizarse el régimen especial y surtirá efecto a partir del primer día del trimestre natural siguiente a la presentación de la indicada declaración de cese, en el caso del régimen exterior de la Unión y del régimen de la Unión.
 
-a´) se hayan enviado al empresario o profesional comunicaciones o recordatorios de la obligación de presentar una declaración durante los tres trimestres naturales anteriores y no se haya presentado la correspondiente declaración del Impuesto en el plazo de diez días a computar desde la recepción de cada recordatorio o comunicación;
+b) al menos quince días antes del mes anterior a aquel en que vaya a dejar de utilizarse el régimen de importación y surtirá efecto a partir del primer día del mes siguiente a la presentación de la indicada declaración de cese. En este caso, el empresario o profesional dejará de estar autorizado a utilizar este régimen especial para las entregas de bienes que realice a partir de esa fecha.
 
-b´) se hayan enviado al empresario o profesional comunicaciones o recordatorios de la obligación de efectuar un pago durante los tres trimestres naturales anteriores y no se haya abonado la suma íntegra en el plazo de diez días a computar desde la recepción de cada recordatorio o comunicación, a menos que el importe pendiente correspondiente a cada declaración sea inferior a 100 euros;
+El intermediario cuyo Estado miembro de identificación sea el Reino de España, que ponga fin a su actividad por cuenta de empresarios o profesionales acogidos al régimen de importación, deberá informar de su decisión a la Agencia Estatal de Administración Tributaria, al menos quince días antes de finalizar el mes natural anterior a aquel en el que se pretenda dejar de actuar como intermediario.
 
-c´) el empresario o profesional haya incumplido su obligación de poner a disposición del Estado miembro de identificación o del Estado miembro de consumo sus registros por vía electrónica en el plazo de un mes desde el correspondiente recordatorio o comunicación remitido por el Estado miembro de identificación.
+En el caso de que el Reino de España sea el Estado miembro de identificación la declaración de cese se regula en los artículos 163 noniesdecies, 163 duovicies y 163 septvicies de la Ley del Impuesto.
 
-La exclusión por motivo de la letra a) anterior tendrá efectos para un periodo mínimo de dos trimestres naturales contados a partir de la fecha del cese y respecto al régimen especial al que se aplique. Cuando la exclusión traiga causa en los supuestos a que se refiere la letra d) anterior surtirá efectos para un período mínimo de ocho trimestres naturales contados a partir de la fecha de efecto de la exclusión y respecto de los dos regímenes especiales.
+3. Cuando un empresario o profesional o, en su caso, un intermediario que actúe por su cuenta, establecido en la Comunidad traslade la sede de su actividad económica de un Estado miembro a otro o deje de estar establecido en el Estado miembro de identificación, pero continúe establecido en la Comunidad y cumpla las condiciones para poder seguir acogido a los regímenes especiales de la Unión o de importación, podrá presentar la declaración de cese en el Estado miembro de identificación en el que deje de estar establecido y presentar una nueva declaración de inicio en un nuevo Estado miembro en la fecha en que se produzca el cambio de sede o de establecimiento permanente.
+
+Cuando el empresario o profesional que utilice el régimen de la Unión para la entrega de bienes deje de estar establecido en la Comunidad indicará como nuevo Estado miembro de identificación un Estado miembro desde el que expida o transporte los bienes.
+
+El cambio de Estado miembro de identificación surtirá efecto desde la fecha en que se produzca, siempre y cuando el empresario o profesional o, en su caso, el intermediario que actúe por su cuenta, presente la declaración correspondiente a cada uno de los Estados miembros de identificación afectados en la que informe del cambio de Estado miembro de identificación a más tardar el décimo día del mes siguiente a aquel en que se haya producido el cambio de sede o de establecimiento permanente o, a partir de la fecha en que dicho empresario o profesional deje de expedir o transportar bienes desde ese Estado miembro.
+
+4. En los casos a los que se refiere el apartado 3 anterior y siempre que el cambio de Estado miembro de identificación se produzca después del primer día del periodo de liquidación en cuestión, el empresario o profesional, o, en su caso, el intermediario que actúe por su cuenta, vendrá obligado a presentar la declaración-liquidación del Impuesto correspondiente al trimestre o mes natural en que se produce el cambio en los dos Estados miembros de identificación, atendiendo a las operaciones efectuadas durante los periodos en que cada uno de los Estados miembros haya sido el Estado miembro de identificación.
+
+> Se modifica por el art. 1.7 del Real Decreto 424/2021, de 15 de junio. Ref. BOE-A-2021-10026#ap
 
 > Se añade por el art. 1.16 del Real Decreto 1073/2014, de 19 de diciembre. Ref. BOE-A-2014-13252.
