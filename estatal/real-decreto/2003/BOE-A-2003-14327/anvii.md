@@ -8,29 +8,35 @@ Este anexo tiene por objeto el regular los requisitos y el procedimiento para la
 
 2. Carné de operador de grúa móvil autopropulsada
 
-Para el montaje y manejo de las grúas móviles autopropulsadas a las que se refiere esta ITC, se exigirá la posesión del carné de operador de grúa móvil autopropulsada de, al menos, categoría igual o superior a la correspondiente a su carga nominal, obtenido de acuerdo con lo señalado en este anexo.
-
-El carné que se establece se delimita en las siguientes categorías
-
-Categoría A: habilita a su titular para el montaje y manejo de grúas móviles autopropulsadas de hasta 130 t de carga nominal, inclusive.
-
-Categoría B: habilita a su titular para el montaje y manejo de grúas móviles autopropulsadas de más de 130 t de carga nominal.
+Sin perjuicio de lo establecido en la disposición adicional segunda, para el montaje y manejo de las grúas móviles autopropulsadas a las que se refiere esta ITC, se exigirá la posesión del carné de operador de grúa móvil autopropulsada de, al menos, categoría igual o superior a la correspondiente a su carga nominal. Para obtenerlo se procederá de acuerdo con lo señalado en este anexo.
 
 3. Requisitos para la obtención del carné.
 
-La obtención del carné se puede realizar por dos vías. Por un lado, requerirá la concurrencia de los siguientes requisitos:
+Para la obtención del carné se tendrá que acreditar el cumplimiento de los siguientes requisitos:
 
-a) Estar en posesión del título de graduado en Educación Secundaria Obligatoria, o del título de Graduado Escolar, o de un título equivalente a efectos laborales.
+1. Ser mayor de edad.
 
-b) Tener cumplidos 18 años en el momento de realizar la solicitud del curso que se cita en el apartado c).
+2. Contar con los conocimientos necesarios para la operación de la grúa móvil.
 
-c) La superación de un curso teórico-práctico impartido por una entidad habilitada ante el órgano competente de la comunidad autónoma.
+3. Superar un examen médico sobre agudeza visual, sentido de la orientación, equilibrio y agudeza auditiva y aptitudes psicológicas. En caso de no superar dicho examen, el centro o el médico que realiza dicho examen, deberá comunicarlo al Órgano Competente en Materia de Industria de su Comunidad Autónoma.
 
-d) La superación de un examen teórico-práctico realizado por el órgano competente de la comunidad autónoma.
+Para la acreditación de los conocimientos exigidos en el apartado 2 anterior, se podrá optar por alguna de las siguientes vías:
 
-e) Superar un examen médico, psicotécnico y físico, específico para este tipo de actividad, que incluye examen de agudeza visual, sentido de la orientación, equilibrio y agudeza auditiva.
+a) La concurrencia de los siguientes requisitos:
 
-Por otro lado, se obtendrá directamente el carné de operador de grúa móvil autopropulsada cuando se disponga de un título de formación profesional o de un certificado de profesionalidad incluido en el Catálogo Nacional de Cualificaciones Profesionales, cuyo ámbito competencial coincida con las materias objeto del Reglamento de aparatos de elevación y manutención de los mismos, aprobado por el Real Decreto 2291/1985, de 8 de noviembre, y de esta Instrucción Técnica Complementaria. También, en este caso, superar un examen médico, psicotécnico y físico, específico para este tipo de actividades, que incluye examen sobre agudeza visual, sentido de la orientación, equilibrio y agudeza auditiva.
+i. Estar en posesión del título de graduado en educación secundaria obligatoria o de un título equivalente a efectos laborales.
+
+ii. Superar un curso teórico-práctico impartido por una entidad habilitada ante el órgano competente de la comunidad autónoma.
+
+iii. Superar un examen realizado por el órgano competente de la comunidad autónoma.
+
+b) Disponer de un título de formación profesional o de un certificado de profesionalidad incluido en el Repertorio Nacional de Certificados de Profesionalidad, cuyo ámbito competencial incluya las materias objeto del Reglamento de aparatos de elevación y manutención de los mismos, aprobado por el Real Decreto 2291/1985, de 8 de noviembre, y de esta instrucción técnica complementaria.
+
+c) Poseer una certificación otorgada por entidad acreditada para la certificación de personas por ENAC o cualquier otro Organismo Nacional de Acreditación designado de acuerdo a lo establecido en el Reglamento (CE) n.º 765/2008 del Parlamento Europeo y del Consejo, de 9 de julio de 2008, por el que se establecen los requisitos de acreditación y vigilancia del mercado relativos a la comercialización de los productos y por el que se deroga el Reglamento (CEE) n.º 339/93, de acuerdo a la norma UNE- EN ISO 17024.
+
+Todas las entidades acreditadas para la certificación de personas que quieran otorgar estas certificaciones deberán incluir en su esquema de certificación un sistema de evaluación que incluya los contenidos mínimos que se indican en el apartado 4 del presente anexo.
+
+d) Tener reconocida la cualificación profesional de operador de grúa móvil autopropulsada adquirida en otro u otros Estados miembros de la Unión Europea, de acuerdo con lo establecido en el Real Decreto 581/2017, de 9 de junio, por el que se incorpora al ordenamiento jurídico español la Directiva 2013/55/UE del Parlamento Europeo y del Consejo, de 20 de noviembre de 2013, por la que se modifica la Directiva 2005/36/CE relativa al reconocimiento de cualificaciones profesionales y el Reglamento (UE) n.º 1024/2012 relativo a la cooperación administrativa a través del Sistema de Información del Mercado Interior (Reglamento IMI).
 
 4. Curso teórico-práctico
 
@@ -131,15 +137,49 @@ c) Medios técnicos auxiliares:
 
 Elementos de grúas, motores, cables, rodamientos, manuales de mantenimiento, aparatos de medida eléctricos y mecánicos y llaves dinamométricas.
 
-5.2 Disponer, durante el curso, de grúas autopropulsadas para uso exclusivo de la entidad habilitada para impartir cursos, con las correspondientes revisiones e inspecciones en vigor, y en funcionamiento. La grúa durante las horas lectivas, solo podrá realizar las prácticas académicas, y ningún otro tipo de trabajo.
+5.2 Disponer, durante el curso, de grúas autopropulsadas con las correspondientes revisiones e inspecciones en vigor, y en funcionamiento. La grúa durante las horas lectivas, solo podrá realizar las prácticas académicas, y ningún otro tipo de trabajo.
 
 5.3 Acreditar el programa de desarrollo del curso, con detalle de contenidos, distribución de tiempos y profesorado.
+
+> Téngase en cuenta que esta última actualización de los apartados 2, 3 y 5.2, por el 5.4 y 5 del Real Decreto 298/2021, de 27 de abril. Ref. BOE-A-2021-6879#aq, entrará en vigor el 1 de julio de 2021, según se establece en la disposición final 2 del citado Real Decreto.
+
+> Redacción anterior:
+
+> "2. Carné de operador de grúa móvil autopropulsada
+
+> Para el montaje y manejo de las grúas móviles autopropulsadas a las que se refiere esta ITC, se exigirá la posesión del carné de operador de grúa móvil autopropulsada de, al menos, categoría igual o superior a la correspondiente a su carga nominal, obtenido de acuerdo con lo señalado en este anexo.
+
+> El carné que se establece se delimita en las siguientes categorías
+
+> Categoría A: habilita a su titular para el montaje y manejo de grúas móviles autopropulsadas de hasta 130 t de carga nominal, inclusive.
+
+> Categoría B: habilita a su titular para el montaje y manejo de grúas móviles autopropulsadas de más de 130 t de carga nominal.
+
+> 3. Requisitos para la obtención del carné.
+
+> La obtención del carné se puede realizar por dos vías. Por un lado, requerirá la concurrencia de los siguientes requisitos:
+
+> a) Estar en posesión del título de graduado en Educación Secundaria Obligatoria, o del título de Graduado Escolar, o de un título equivalente a efectos laborales.
+
+> b) Tener cumplidos 18 años en el momento de realizar la solicitud del curso que se cita en el apartado c).
+
+> c) La superación de un curso teórico-práctico impartido por una entidad habilitada ante el órgano competente de la comunidad autónoma.
+
+> d) La superación de un examen teórico-práctico realizado por el órgano competente de la comunidad autónoma.
+
+> e) Superar un examen médico, psicotécnico y físico, específico para este tipo de actividad, que incluye examen de agudeza visual, sentido de la orientación, equilibrio y agudeza auditiva.
+
+> Por otro lado, se obtendrá directamente el carné de operador de grúa móvil autopropulsada cuando se disponga de un título de formación profesional o de un certificado de profesionalidad incluido en el Catálogo Nacional de Cualificaciones Profesionales, cuyo ámbito competencial coincida con las materias objeto del Reglamento de aparatos de elevación y manutención de los mismos, aprobado por el Real Decreto 2291/1985, de 8 de noviembre, y de esta Instrucción Técnica Complementaria. También, en este caso, superar un examen médico, psicotécnico y físico, específico para este tipo de actividades, que incluye examen sobre agudeza visual, sentido de la orientación, equilibrio y agudeza auditiva."
+
+> "5.2 Disponer, durante el curso, de grúas autopropulsadas para uso exclusivo de la entidad habilitada para impartir cursos, con las correspondientes revisiones e inspecciones en vigor, y en funcionamiento. La grúa durante las horas lectivas, solo podrá realizar las prácticas académicas, y ningún otro tipo de trabajo."
 
 6. Expedición y validez del carné
 
 6.1 El carné de operador de grúa móvil autopropulsada será expedido por el órgano competente de la comunidad autónoma, una vez acreditado por el solicitante el cumplimiento de los requisitos establecidos en el apartado 3 de este anexo.
 
 6.2 El carné tendrá una validez de cinco años, transcurridos los cuales podrá ser objeto de renovación por períodos quinquenales, previa acreditación del requisito establecido en el apartado 3.1.e) de este anexo.
+
+> Se modifican, con efectos desde el 1 de julio de 2021, los apartados 2, 3 y 5.2 por el art. 5.4 y 5 del Real Decreto 298/2021, de 27 de abril. Ref. BOE-A-2021-6879#aq
 
 > Se modifican los apartados 3 y 5 por el art. 7.2 a 5 del Real Decreto 542/2020, de 26 de mayo. Ref. BOE-A-2020-6472#as-3
 

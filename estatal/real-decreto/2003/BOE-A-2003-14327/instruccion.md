@@ -244,9 +244,9 @@ El mantenimiento y revisiones de las grúas serán responsabilidad del propietar
 
 3. Antes de comenzar sus actividades como empresas conservadoras, las personas físicas o jurídicas que deseen establecerse en España deberán presentar ante el órgano competente de la comunidad autónoma en la que se establezcan una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare que cumple los requisitos que se exigen por esta Instrucción Técnica Complementaria y su reglamento correspondiente, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que las operaciones de revisión de las grúas se efectúan de acuerdo con las normas y requisitos que se establecen en esta Instrucción Técnica Complementaria.
 
-4. Las empresas conservadoras legalmente establecidas para el ejercicio de esta actividad en cualquier otro Estado miembro de la Unión Europea que deseen realizar la actividad en régimen de libre prestación en territorio español, deberán presentar, previo al inicio de la misma, ante el órgano competente de la comunidad autónoma donde deseen comenzar su actividad una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare que cumple los requisitos que se exigen por esta Instrucción Técnica Complementaria y su reglamento correspondiente, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que las operaciones de revisión de las grúas se efectúan de acuerdo con las normas y requisitos que se establecen en esta Instrucción Técnica Complementaria.
+4. Las empresas conservadoras legalmente establecidas para el ejercicio de esta actividad en cualquier otro Estado miembro de la Unión Europea que deseen realizar la actividad en régimen de libre prestación en territorio español, deberán presentar, previo al inicio de la misma, ante el órgano competente de la comunidad autónoma donde deseen comenzar su actividad una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare que cumple los requisitos que se exigen por esta instrucción técnica complementaria y su reglamento correspondiente, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que las operaciones de revisión de las grúas se efectúan de acuerdo con las normas y requisitos que se establecen en esta instrucción técnica complementaria.
 
-Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 1837/2008, de 8 de noviembre, por el que se incorporan al ordenamiento jurídico español la Directiva 2005/36/CE, del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, y la Directiva 2006/100/CE, del Consejo, de 20 de noviembre de 2006, relativas al reconocimiento de cualificaciones profesionales así como a determinados aspectos del ejercicio de la profesión de abogado. La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del Real Decreto 1837/2008, de 8 de noviembre.
+Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 581/2017, de 9 de junio, por el que se incorpora al ordenamiento jurídico español la Directiva 2013/55/UE del Parlamento Europeo y del Consejo, de 20 de noviembre de 2013, por la que se modifica la Directiva 2005/36/CE relativa al reconocimiento de cualificaciones profesionales y el Reglamento (UE) n.º 1024/2012 relativo a la cooperación administrativa a través del Sistema de Información del Mercado Interior (Reglamento IMI). La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del citado real decreto.
 
 5. Las comunidades autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos.
 
@@ -256,21 +256,43 @@ No se podrá exigir la presentación de documentación acreditativa del cumplimi
 
 7. De acuerdo con la Ley 21/1992, de 16 de julio, de Industria, la declaración responsable habilita por tiempo indefinido a la empresa conservadora, desde el momento de su presentación ante la Administración competente, para el ejercicio de la actividad en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.
 
-8. Al amparo de lo previsto en el apartado 3 del artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la Administración competente podrá regular un procedimiento para comprobar a posteriori lo declarado por el interesado.
+8. Al amparo de lo previsto en el apartado 3 del artículo 69 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Administración competente podrá regular un procedimiento para comprobar a posteriori lo declarado por el interesado.
 
-En todo caso, la no presentación de la declaración, así como la inexactitud, falsedad u omisión, de carácter esencial, de datos o manifestaciones que deban figurar en dicha declaración habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare la imposibilidad de seguir ejerciendo la actividad y, si procede, se inhabilite temporalmente para el ejercicio de la actividad sin perjuicio de las responsabilidades que pudieran derivarse de las actuaciones realizadas.
+En todo caso, la no presentación de la declaración, así como la inexactitud, falsedad u omisión, de carácter esencial, de datos o manifestaciones que deban figurar en dicha declaración habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare la imposibilidad de seguir ejerciendo la actividad, sin perjuicio de las responsabilidades que pudieran derivarse de las actuaciones realizadas, y de la aplicación del régimen sancionador previsto en la Ley 21/1992, de 16 de julio, de Industria.
 
 9. Cualquier hecho que suponga modificación de alguno de los datos incluidos en la declaración originaria, así como el cese de las actividades, deberá ser comunicado por el interesado al órgano competente de la comunidad autónoma donde presentó la declaración responsable en el plazo de un mes.
 
 10. Las empresas conservadoras cumplirán los siguientes requisitos:
 
-a) Disponer de la documentación que identifique a la empresa conservadora, que en el caso de persona jurídica, deberá estar constituida legalmente.
+a) Disponer de la documentación que identifique a la empresa conservadora, que, en el caso de persona jurídica, deberá estar constituida legalmente.
 
 b) Disponer de los medios técnicos necesarios para realizar su actividad en condiciones de seguridad.
 
-c) Contar con personal contratado que realice la actividad en condiciones de seguridad y en número suficiente para atender todas las grúas que deban conservar.
+c) Contar con el personal necesario durante todo el tiempo que la empresa ofrezca sus servicios, que realice la actividad en condiciones de seguridad y en número suficiente para atender todas las grúas que deban conservar.
 
-d) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio con una cobertura mínima, por siniestro, de 1.000.000 de euros. Esta cuantía mínima se actualizará por orden del Ministro de Industria, Turismo y Comercio, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.
+d) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio con una cobertura mínima, por siniestro, de 1.000.000 de euros por siniestro. Esta cuantía mínima se actualizará por orden de la persona titular del Ministerio de Industria, Comercio y Turismo, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+> Téngase en cuenta que esta última actualización de los apartados 4, 8 y 10, por el art. 5.1 a 3 del Real Decreto 298/2021, de 27 de abril. Ref. BOE-A-2021-6879#aq, entrará en vigor el 1 de julio de 2021, según se establece en la disposición final 2 del citado Real Decreto.
+
+> Redacción anterior:
+
+> "4. Las empresas conservadoras legalmente establecidas para el ejercicio de esta actividad en cualquier otro Estado miembro de la Unión Europea que deseen realizar la actividad en régimen de libre prestación en territorio español, deberán presentar, previo al inicio de la misma, ante el órgano competente de la comunidad autónoma donde deseen comenzar su actividad una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare que cumple los requisitos que se exigen por esta Instrucción Técnica Complementaria y su reglamento correspondiente, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que las operaciones de revisión de las grúas se efectúan de acuerdo con las normas y requisitos que se establecen en esta Instrucción Técnica Complementaria.
+
+> Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 1837/2008, de 8 de noviembre, por el que se incorporan al ordenamiento jurídico español la Directiva 2005/36/CE, del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, y la Directiva 2006/100/CE, del Consejo, de 20 de noviembre de 2006, relativas al reconocimiento de cualificaciones profesionales así como a determinados aspectos del ejercicio de la profesión de abogado. La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del Real Decreto 1837/2008, de 8 de noviembre."
+
+> "8. Al amparo de lo previsto en el apartado 3 del artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la Administración competente podrá regular un procedimiento para comprobar a posteriori lo declarado por el interesado.
+
+> En todo caso, la no presentación de la declaración, así como la inexactitud, falsedad u omisión, de carácter esencial, de datos o manifestaciones que deban figurar en dicha declaración habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare la imposibilidad de seguir ejerciendo la actividad y, si procede, se inhabilite temporalmente para el ejercicio de la actividad sin perjuicio de las responsabilidades que pudieran derivarse de las actuaciones realizadas."
+
+> "10. Las empresas conservadoras cumplirán los siguientes requisitos:
+
+> a) Disponer de la documentación que identifique a la empresa conservadora, que en el caso de persona jurídica, deberá estar constituida legalmente.
+
+> b) Disponer de los medios técnicos necesarios para realizar su actividad en condiciones de seguridad.
+
+> c) Contar con personal contratado que realice la actividad en condiciones de seguridad y en número suficiente para atender todas las grúas que deban conservar.
+
+> d) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio con una cobertura mínima, por siniestro, de 1.000.000 de euros. Esta cuantía mínima se actualizará por orden del Ministro de Industria, Turismo y Comercio, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos."
 
 11. La empresa conservadora habilitada no podrá facilitar, ceder o enajenar certificados de actuaciones no realizadas por ella misma.
 
@@ -381,6 +403,8 @@ La eliminación de obstáculos que impliquen riesgos, incluidas las líneas elé
 La comprobación de que el terreno sobre el que va a trabajar y circular la grúa tenga la resistencia suficiente.
 
 Ejecutar, con personas debidamente formadas, las técnicas y labores de estrobaje y señalización.
+
+> Se modifican, con efectos desde el 1 de julio de 2021, los apartados 4, 8 y 10, por el art. 5.1 a 3 del Real Decreto 298/2021, de 27 de abril. Ref. BOE-A-2021-6879#aq
 
 > Se modifica el apartado 4.2 por el art. 7.1 del Real Decreto 542/2020, de 26 de mayo. Ref. BOE-A-2020-6472#as-3
 

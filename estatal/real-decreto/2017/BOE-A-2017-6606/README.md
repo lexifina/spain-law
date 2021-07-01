@@ -70,4 +70,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Sección 1](s1-3.md)
 - [Sección 2](s2-3.md)
 - [ANEXO III](ai-3.md)
+- [ANEXO IV](ai-4.md)
 - [(Información relacionada)](ir.md)
