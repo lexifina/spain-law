@@ -1,0 +1,3 @@
+## Disposición final sexta. Incorporación de derecho de la Unión Europea.
+
+Mediante el apartado tres de la disposición final segunda de este real decreto, por el que se modifica el anexo IX del Reglamento General de Vehículos, aprobado por Real Decreto 2822/1998, de 23 de diciembre, se incorporan a nuestro ordenamiento jurídico los párrafos c) y d) del artículo 1 9) de la Directiva (UE) 2015/719 del Parlamento Europeo y del Consejo, de 29 de abril de 2015, que modifica la Directiva 96/53/CE del Consejo por la que se establecen, para determinados vehículos de carretera que circulan en la Comunidad, las dimensiones máximas autorizadas en el tráfico nacional e internacional y los pesos máximos autorizados en el tráfico internacional.

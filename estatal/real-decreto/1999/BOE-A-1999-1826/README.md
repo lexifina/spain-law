@@ -176,6 +176,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [V-24](v-24.md)
 - [V-25](v2.md)
 - [V-26](v2-2.md)
+- [V-27](v2-3.md)
 - [ANEXO XII](anxii.md)
 - [ANEXO XIII](anxiii.md)
 - [ANEXO XIV](anxiv.md)

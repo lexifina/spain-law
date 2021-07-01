@@ -20,7 +20,13 @@ Caracteres segundo y tercero, constituidos por dos cifras:
 
 04. Taxi: vehículo adscrito al servicio público de viajeros en vehículo turismo.
 
-05. Auxilio en carretera: vehículo destinado primordialmente al rescate y transporte de vehículos accidentados o averiados. Sólo tendrán esta consideración aquellos vehículos cuya capacidad permita que simultáneamente se puedan transportar hasta un máximo de dos vehículos en plataforma, y otro mediante un dispositivo de arrastre, y cuenten con el correspondiente utillaje.
+05. Vehículo de auxilio en vías públicas: vehículo destinado primordialmente al rescate y transporte de vehículos accidentados o averiados. Sólo tendrán esta consideración aquellos vehículos cuya capacidad permita que simultáneamente se puedan transportar hasta un máximo de dos vehículos en plataforma, y otro mediante un dispositivo de arrastre, y cuenten con el correspondiente utillaje. Quedan fuera de esta definición los vehículos dedicados a labores de conservación y mantenimiento de la vía, así como los vehículos pertenecientes a Fuerzas y Cuerpos de Seguridad del Estado, de emergencia y de las Fuerzas Armadas.
+
+> Téngase en cuenta que esta última actualización del punto 05, establecida por la disposición final 2.2 del Real Decreto 159/2021, de 16 de marzo. Ref. BOE-A-2021-4194#df-2, entra en vigor el 1 de julio de 2021, según determina su disposición final 7.
+
+> Redacción anterior:
+
+> "05. Auxilio en carretera: vehículo destinado primordialmente al rescate y transporte de vehículos accidentados o averiados. Sólo tendrán esta consideración aquellos vehículos cuya capacidad permita que simultáneamente se puedan transportar hasta un máximo de dos vehículos en plataforma, y otro mediante un dispositivo de arrastre, y cuenten con el correspondiente utillaje."
 
 06. Agrícola: vehículo destinado a realizar labores agrícolas.
 
@@ -53,5 +59,7 @@ Caracteres segundo y tercero, constituidos por dos cifras:
 20. Mercancías perecederas: vehículo destinado al transporte terrestre de productos alimentarios a temperatura regulada, aunque no se realice con carácter exclusivo.
 
 21. Vehículo para ferias: vehículo adaptado para la maquinaria de circo o ferias recreativas ambulantes.
+
+> Se modifica el punto 05, con efectos de 1 de julio de 2021, por la disposición final 2.2 del Real Decreto 159/2021, de 16 de marzo. Ref. BOE-A-2021-4194#df-2
 
 > Se añade por el apartado único.1 de la Orden PRE/52/2010, de 21 de enero. Ref. BOE-A-2010-1011.

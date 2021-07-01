@@ -6,7 +6,13 @@ Los vehículos de motor y los conjuntos de vehículos en circulación deben llev
 
 1. Los turismos, así como los vehículos mixtos y los automóviles destinados al transporte de mercancías, estos dos últimos de masa máxima autorizada no superior a 3.500 kg, excepto los vehículos de tres ruedas y cuatriciclos, llevarán la siguiente dotación:
 
-a) Dos dispositivos portátiles de preseñalización de peligro, que cumplan las condiciones establecidas en el anexo XI.
+a) El dispositivo luminoso de preseñalización de peligro V-16.
+
+> Téngase en cuenta que esta última actualización de la letra a) del apartado 1, establecida por la disposición final 2.8 del Real Decreto 159/2021, de 16 de marzo. Ref. BOE-A-2021-4194#df-2, entra en vigor el 1 de julio de 2021, según determina su disposición final 7.
+
+> Redacción anterior:
+
+> "a) Dos dispositivos portátiles de preseñalización de peligro, que cumplan las condiciones establecidas en el anexo XI."
 
 b) Un chaleco reflectante de alta visibilidad, certificado según el Real Decreto 1407/1992, de 20 de noviembre, por el que se regulan las condiciones para la comercialización y libre circulación intracomunitaria de los equipos de protección individual, que exige el marcado CE, y que deberá ser conforme con la norma UNE EN 471, mínimo clase 2 (tanto en superficie mínima de materiales como en nivel de retrorreflexión de las bandas).
 
@@ -15,6 +21,8 @@ En el caso de que se realicen funciones de vehículo piloto de protección y aco
 c) Una rueda completa de repuesto o una rueda de uso temporal, con las herramientas necesarias para el cambio de ruedas, o un sistema alternativo al cambio de las mismas que ofrezca suficientes garantías para la movilidad del vehículo. En estos casos se circulará respetando las limitaciones propias de cada alternativa.
 
 2. Los autobuses, así como los vehículos mixtos y los automóviles destinados al transporte de mercancías, estos dos últimos de masa máxima autorizada superior a 3.500 kg, y los conjuntos de vehículos no especiales, deberán llevar, además de la dotación que se establece en el apartado 1 a) y b), un equipo homologado de extinción de incendios, adecuado y en condiciones de uso.
+
+> Se modifica la letra a) del apartado 1, con efectos de 1 de julio de 2021, por la disposición final 2.8 del Real Decreto 159/2021, de 16 de marzo. Ref. BOE-A-2021-4194#df-2
 
 > Se modifica por el art. único.2 de la Orden PRE/629/2011, de 22 marzo. Ref. BOE-A-2011-5400.
 
