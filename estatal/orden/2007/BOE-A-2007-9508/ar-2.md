@@ -16,6 +16,8 @@ e) Quienes sean socios, herederos, comuneros o partícipes de entidades en régi
 
 f) Quienes no estén establecidos en el territorio de aplicación del Impuesto sobre el Valor Añadido y sean sujetos pasivos del mismo, excepto que hubieran resultado exonerados del cumplimiento de obligaciones censales por el Departamento de Gestión Tributaria de la Agencia Estatal de Administración Tributaria.
 
+g) Quienes tengan la condición de contribuyentes del Impuesto sobre Determinados Servicios Digitales.
+
 Podrán solicitar el alta en el Censo de empresarios, profesionales y retenedores utilizando el modelo 037 de Declaración censal simplificada, aquellas personas físicas residentes en las que concurran conjuntamente las siguientes circunstancias:
 
 a) Tengan asignado un Número de Identificación Fiscal.
@@ -40,21 +42,23 @@ j) No satisfagan rendimientos de capital mobiliario.
 
 Asimismo, aquellos obligados tributarios que sean personas físicas residentes en España y no tengan la condición de gran empresa, podrán utilizar el modelo 037, de declaración censal simplificada, para comunicar las siguientes modificaciones:
 
-Modificación del domicilio fiscal y del domicilio a efectos de notificaciones.
+– Modificación del domicilio fiscal y del domicilio a efectos de notificaciones.
 
-Modificación de otros datos identificativos.
+– Modificación de otros datos identificativos.
 
-Modificación de datos relativos a actividades económicas y locales.
+– Modificación de datos relativos a actividades económicas y locales.
 
-Modificación de datos relativos al Impuesto sobre el Valor Añadido, si tributan en Régimen General o en alguno de los Regímenes Especiales de Recargo de Equivalencia, Simplificado, Agricultura, Ganadería y Pesca o Criterio de Caja. Modificación de datos relativos al Impuesto sobre la Renta de las Personas Físicas.
+– Modificación de datos relativos al Impuesto sobre el Valor Añadido, si tributan en Régimen General o en alguno de los Regímenes Especiales de Recargo de Equivalencia, Simplificado, Agricultura, Ganadería y Pesca o Criterio de Caja.
 
-Modificación de datos relativos a retenciones e ingresos a cuenta sobre rendimientos de trabajo personal, actividades profesionales, agrícolas, ganaderas, forestales u otras actividades económicas, premios, determinadas imputaciones de renta, sobre rendimientos procedentes del arrendamiento o subarrendamiento de inmuebles urbanos o determinadas ganancias patrimoniales.
+– Modificación de datos relativos al Impuesto sobre la Renta de las Personas Físicas.
 
-La declaración de alta, realizada a través del modelo 036, también servirá para solicitar la asignación del Número de Identificación Fiscal, con independencia de que la persona jurídica o entidad solicitante no esté obligada a darse de alta en el Censo de empresarios, profesionales y retenedores, de acuerdo con lo dispuesto en el artículo 7 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio.
+– Modificación de datos relativos a retenciones e ingresos a cuenta sobre rendimientos de trabajo personal, actividades profesionales, agrícolas, ganaderas, forestales u otras actividades económicas, premios, determinadas imputaciones de renta, sobre rendimientos procedentes del arrendamiento o subarrendamiento de inmuebles urbanos o determinadas ganancias patrimoniales.
+
+La declaración de alta, realizada a través del modelo 036, también servirá para solicitar la asignación del número de identificación fiscal, con independencia de que la persona jurídica o entidad solicitante no esté obligada a darse de alta en el Censo de empresarios, profesionales y retenedores, de acuerdo con lo dispuesto en el artículo 9.3.a) del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio.
 
 La asignación del Número de Identificación Fiscal, a solicitud del interesado o de oficio, determinará la inclusión automática en el Censo de obligados tributarios de la persona o entidad de que se trate.
 
-Asimismo, por medio del modelo 036 de declaración censal, los obligados tributarios personas físicas que sean empresarios o profesionales, y no dispongan del Número de Identificación Fiscal, solicitarán la asignación de dicho número.
+Asimismo, por medio del modelo 036 de declaración censal, los obligados tributarios personas físicas que sean empresarios o profesionales, y no dispongan del número de identificación fiscal, solicitarán la asignación de dicho número.
 
 Igualmente, por medio del modelo 036 o modelo 037 comunicarán, en su caso, su condición de empresarios de responsabilidad limitada (siglas ERL) de acuerdo con lo establecido en la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización y las variaciones que se produzcan.
 
@@ -65,6 +69,8 @@ Cuando una persona o entidad en constitución que tenga asignado un Número de I
 No obstante, cuando en virtud de un convenio la Agencia Estatal de Administración Tributaria tenga conocimiento a través de otros organismos e instituciones de la información necesaria para asignar a una entidad el Número de Identificación Fiscal definitivo, podrá exonerar a la entidad de presentar una declaración censal solicitando la asignación de dicho número, sin perjuicio de la obligación que incumbe a la entidad de comunicar otro tipo de modificaciones que se hayan producido respecto de la información que haya hecho constar en las declaraciones censales que haya presentado con anterioridad.
 
 3. Deberán presentar la declaración de baja en el Censo de empresarios, profesionales y retenedores quienes cesen en el desarrollo de todo tipo de actividades empresariales o profesionales o no deban formar parte del mismo, utilizando el modelo 036 o 037, todo ello de acuerdo con lo previsto en el apartado Uno del este artículo.
+
+> Se modifica el apartado 1 por el art. 1.1 de la Orden HAC/609/2021, de 16 de junio. Ref. BOE-A-2021-10160
 
 > Se modifica el apartado 1 por el art. 2.3 de la Orden HAP/2215/2013, de 26 de noviembre. Ref. BOE-A-2013-12489
 
