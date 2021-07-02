@@ -2,7 +2,7 @@
 
 Terceros países, regiones administrativas especiales y demás entidades y autoridades territoriales cuyos residentes no se ven afectados por la restricción temporal de viajes no imprescindibles a la UE a través de las fronteras exteriores en los términos recogidos en esta orden:
 
-I. Estados
+I. Estados:
 
 1. Albania.
 
@@ -28,21 +28,21 @@ I. Estados
 
 12. Tailandia.
 
-13. Reino Unido de Gran Bretaña e Irlanda del Norte.
+13. Estados Unidos de América.
 
-14. Estados Unidos de América.
+14. China.
 
-15. China.
-
-II. Regiones administrativas especiales de la República Popular China
+II. Regiones administrativas especiales de la República Popular China:
 
 RAE de Hong Kong.
 
 RAE de Macao.
 
-III. Entidades y autoridades territoriales no reconocidas como Estados por al menos un Estado miembro
+III. Entidades y autoridades territoriales no reconocidas como Estados por al menos un Estado miembro de la Unión Europea:
 
 Taiwán.
+
+> Se modifica por el art. único.3 de la Orden INT/677/2021, de 28 de junio. Ref. BOE-A-2021-10746
 
 > Se modifica por el art. único.2 de la Orden INT/647/2021, de 23 de junio. Ref. BOE-A-2021-10510
 
