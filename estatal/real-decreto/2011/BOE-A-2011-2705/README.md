@@ -84,6 +84,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 47](a47.md)
 - [Artículo 48](a48.md)
 - [Artículo 49](a49.md)
+- [Artículo 49 bis](a4-2.md)
 - [Artículo 50](a50.md)
 - [CAPÍTULO VI](cvi.md)
 - [Artículo 51](a51.md)
