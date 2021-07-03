@@ -2,11 +2,11 @@
 
 Los jueces y magistrados serán declarados en la situación de servicios especiales:
 
-a) Cuando sean nombrados Presidente del Tribunal Supremo, Fiscal General del Estado, Vocal del Consejo General del Poder Judicial, Magistrado del Tribunal Constitucional, Defensor del Pueblo o sus Adjuntos, Consejero del Tribunal de Cuentas, Consejero de Estado, Presidente o Vocal del Tribunal de Defensa de la Competencia, Director de la Agencia de Protección de Datos o miembro de Altos Tribunales Internacionales de Justicia, o titulares o miembros de los órganos equivalentes de las Comunidades Autónomas.
+a) Cuando sean nombrados Presidente del Tribunal Supremo, Fiscal General del Estado, Vocal del Consejo General del Poder Judicial, Magistrado del Tribunal Constitucional, Defensor del Pueblo o sus Adjuntos, Consejero del Tribunal de Cuentas, Consejero de Estado, Presidente o Consejero de la Comisión Nacional de los Mercados y la Competencia, Director de la Agencia de Protección de Datos, Fiscal Europeo o miembro de Altos Tribunales Internacionales de Justicia, o titulares o miembros de los órganos equivalentes de las Comunidades Autónomas.
 
 b) Cuando sean autorizados por el Consejo General del Poder Judicial para realizar una misión internacional por período determinado, superior a seis meses, en organismos internacionales, gobiernos o entidades públicas extranjeras o en programas de cooperación internacional, previa declaración de interés por el Ministerio de Asuntos Exteriores.
 
-c) Cuando adquieran la condición de funcionarios al servicio de organizaciones internacionales o de carácter supranacional.
+c) Cuando adquieran la condición de funcionarios al servicio de organizaciones internacionales o de carácter supranacional o cuando sean nombrados Fiscales europeos delegados de conformidad con el Reglamento (UE) 2017/1939 del Consejo, de 12 de octubre de 2017, por el que se establece una cooperación reforzada para la creación de la Fiscalía Europea, y la Ley Orgánica de aplicación del citado Reglamento. Durante el tiempo de su mandato actuarán de conformidad con los principios rectores de la Fiscalía Europea, dejando de tener atribuidas las facultades inherentes al ejercicio de la potestad jurisdiccional.
 
 d) Cuando sean nombrados o adscritos como letrados al servicio del Tribunal de Justicia de la Unión Europea, del Tribunal Constitucional, del Consejo General del Poder Judicial o del Tribunal Supremo, o magistrados del Gabinete Técnico del Tribunal Supremo, o al servicio del Defensor del Pueblo u órgano equivalente de las Comunidades Autónomas.
 
@@ -15,6 +15,8 @@ e) Cuando presten servicio, en virtud de nombramiento por Real Decreto, o por De
 f) Cuando sean nombrados para cargo político o de confianza en virtud de Real Decreto, Decreto autonómico o acuerdo de Pleno de Entidad Local, o elegidos para cargos públicos representativos en el Parlamento Europeo, Congreso de los Diputados, Senado, Asambleas legislativas de las Comunidades Autónomas, Juntas Generales de los Territorios Históricos o Corporaciones locales.
 
 En este caso, así como en el supuesto previsto en la letra f) del artículo 356, los jueces y magistrados, y los funcionarios de otros cuerpos, que reingresen en la Carrera correspondiente deberán abstenerse, y en su caso podrán ser recusados, de intervenir en cualesquiera asuntos en los que sean parte partidos o agrupaciones políticas, o aquellos de sus integrantes que ostenten o hayan ostentado cargo público.
+
+> Se modifican las letras a) y c) por la disposición final 2.8 de la Ley Orgánica 9/2021, de 1 de julio. Ref. BOE-A-2021-10957#df-2
 
 > Se modifica por el art. único.18 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 

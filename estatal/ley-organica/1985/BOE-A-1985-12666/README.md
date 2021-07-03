@@ -751,6 +751,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [LIBRO VII](lvii.md)
 - [TÍTULO I](ti-8.md)
 - [Artículo quinientos cuarenta y uno](aquinientoscuarentayuno.md)
+- [Artículo quinientos cuarenta y uno bis](aq-4.md)
 - [TÍTULO II](tii-9.md)
 - [Artículo quinientos cuarenta y dos](aquinientoscuarentaydos.md)
 - [Artículo quinientos cuarenta y tres](aquinientoscuarentaytres.md)

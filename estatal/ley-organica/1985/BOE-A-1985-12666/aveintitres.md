@@ -6,7 +6,7 @@
 
 a) Que el hecho sea punible en el lugar de ejecución, salvo que, en virtud de un Tratado internacional o de un acto normativo de una Organización internacional de la que España sea parte, no resulte necesario dicho requisito, sin perjuicio de lo dispuesto en los apartados siguientes.
 
-b) Que el agraviado o el Ministerio Fiscal interpongan querella ante los Tribunales españoles.
+b) Que el agraviado o el Ministerio Fiscal interpongan querella ante los tribunales españoles. Este requisito se considerará cumplido en relación con los delitos competencia de la Fiscalía Europea cuando esta ejercite efectivamente su competencia.
 
 c) Que el delincuente no haya sido absuelto, indultado o penado en el extranjero, o, en este último caso, no haya cumplido la condena. Si sólo la hubiere cumplido en parte, se le tendrá en cuenta para rebajarle proporcionalmente la que le corresponda.
 
@@ -67,12 +67,6 @@ e) Terrorismo, siempre que concurra alguno de los siguientes supuestos:
 8.º el delito se haya cometido contra instalaciones oficiales españolas, incluyendo sus embajadas y consulados.
 
 A estos efectos, se entiende por instalación oficial española cualquier instalación permanente o temporal en la que desarrollen sus funciones públicas autoridades o funcionarios públicos españoles.
-
-> Téngase en cuenta que la redacción del supuesto 2º, establecida por la disposición final primera de la Ley Orgánica 2/2015, de 30 de marzo, Ref. BOE-A-2015-3440, entra en vigor el 1 de julio de 2015, según la disposición final 2 de la citada ley.
-
-> Redacción anterior:
-
-> "2.º el procedimiento se dirija contra ciudadano extranjero que resida habitualmente en España;"
 
 f) Los delitos contenidos en el Convenio para la represión del apoderamiento ilícito de aeronaves, hecho en La Haya el 16 de diciembre de 1970, siempre que:
 
@@ -169,6 +163,8 @@ c) Que el proceso no haya sido o no esté siendo sustanciado de manera independi
 A fin de determinar la incapacidad para investigar o enjuiciar en un asunto determinado, se examinará si el Estado, debido al colapso total o sustancial de su administración nacional de justicia o al hecho de que carece de ella, no puede hacer comparecer al acusado, no dispone de las pruebas y los testimonios necesarios o no está por otras razones en condiciones de llevar a cabo el juicio.
 
 6. Los delitos a los que se refieren los apartados 3 y 4 solamente serán perseguibles en España previa interposición de querella por el agraviado o por el Ministerio Fiscal.
+
+> Se modifica la letra b) del apartado 2 por la disposición final 2.1 de la Ley Orgánica 9/2021, de 1 de julio. Ref. BOE-A-2021-10957#df-2
 
 > Se modifica el apartado 4.e) por la disposición final 1 de la Ley Orgánica 2/2015, de 30 de marzo. Ref. BOE-A-2015-3440.
 

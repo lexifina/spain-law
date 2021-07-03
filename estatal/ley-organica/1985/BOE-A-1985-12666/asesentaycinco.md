@@ -14,6 +14,8 @@ d) Tráfico de drogas o estupefacientes, fraudes alimentarios y de sustancias fa
 
 e) Delitos cometidos fuera del territorio nacional, cuando conforme a las leyes o a los tratados corresponda su enjuiciamiento a los Tribunales españoles.
 
+f) Delitos atribuidos a la Fiscalía Europea en los artículos 22 y 25 del Reglamento (UE) 2017/1939 del Consejo, de 12 de octubre de 2017, cuando aquella hubiera decidido ejercer su competencia.
+
 En todo caso, la Sala de lo penal de la Audiencia Nacional extenderá su competencia al conocimiento de los delitos conexos con todos los anteriormente reseñados.
 
 2.° De los procedimientos penales iniciados en el extranjero, de la ejecución de las sentencias dictadas por Tribunales extranjeros o del cumplimiento de pena de prisión impuesta por Tribunales extranjeros, cuando en virtud de un tratado internacional corresponda a España la continuación de un procedimiento penal iniciado en el extranjero, la ejecución de una sentencia penal extranjera o el cumplimiento de una pena o medida de seguridad privativa de libertad, salvo en aquellos casos en que esta Ley atribuya alguna de estas competencias a otro órgano jurisdiccional penal.
@@ -22,7 +24,7 @@ En todo caso, la Sala de lo penal de la Audiencia Nacional extenderá su compete
 
 4.º De los recursos respecto a los instrumentos de reconocimiento mutuo de resoluciones penales en la Unión Europea que les atribuya la ley, y la resolución de los procedimientos judiciales de extradición pasiva, sea cual fuere el lugar de residencia o en que hubiese tenido lugar la detención del afectado por el procedimiento.
 
-5.º De los recursos establecidos en la Ley contra las sentencias y otras resoluciones de los Juzgados Centrales de lo Penal, de los Juzgados Centrales de Instrucción y del Juzgado Central de Menores.
+5.º De los recursos establecidos en la ley contra las sentencias y otras resoluciones de los Juzgados Centrales de lo Penal, de los Juzgados Centrales de Instrucción, incluidas sus funciones como Juzgados de garantías en los delitos de los que conozca la Fiscalía Europea, y del Juzgado Central de Menores.
 
 6.º De los recursos contra las resoluciones dictadas por los Juzgados Centrales de Vigilancia Penitenciaria de conformidad con lo previsto en la disposición adicional quinta.
 
@@ -30,11 +32,7 @@ En todo caso, la Sala de lo penal de la Audiencia Nacional extenderá su compete
 
 8.º De cualquier otro asunto que le atribuyan las leyes.
 
-> Téngase en cuenta que esta última actualización de los números 7 y 8 establecida por la disposición final 1.2 de la Ley Orgánica 13/2015, de 5 de octubre Ref. BOE-A-2015-10725. entra en vigor el 6 de diciembre de 2015, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> "7.º De cualquier otro asunto que le atribuyan las leyes."
+> Se añade la letra f) al número 1 y se modifica el 5 por la disposición final 2.4 de la Ley Orgánica 9/2021, de 1 de julio. Ref. BOE-A-2021-10957#df-2
 
 > Se renumera el número 7 como 8 y se añade el 7 por la disposición final 1.2 de la Ley Orgánica 13/2015, de 5 de octubre Ref. BOE-A-2015-10725.
 

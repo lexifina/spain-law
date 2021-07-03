@@ -16,7 +16,11 @@
 
 2. En las causas a que se refiere el número 4 del apartado anterior se designará de entre los miembros de la Sala, conforme a un turno preestablecido, un instructor que no formará parte de la misma para enjuiciarlos.
 
+En las causas por delitos atribuidos a la Fiscalía Europea, se designará de entre los miembros de la Sala, conforme a un turno preestablecido, un Juez de garantías que no formará parte de la misma para enjuiciarlas.
+
 3. Una Sección, formada por el Presidente del Tribunal Supremo, el de la Sala de lo Contencioso-administrativo y cinco Magistrados de esta misma Sala, que serán los dos más antiguos y los tres más modernos, conocerá del recurso de casación para la unificación de doctrina cuando la contradicción se produzca entre sentencias dictadas en única instancia por Secciones distintas de dicha Sala.
+
+> Se añade un párrafo segundo al apartado 2 por la disposición final 2.3 de la Ley Orgánica 9/2021, de 1 de julio. Ref. BOE-A-2021-10957#df-2
 
 > Se añade el número 6º al apartado 1 por la disposición adicional 1 de la Ley Orgánica 6/2002, de 27 de junio. Ref. BOE-A-2002-12756
 
