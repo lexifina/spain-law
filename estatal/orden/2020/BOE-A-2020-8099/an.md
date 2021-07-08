@@ -6,31 +6,51 @@ I. Estados:
 
 1. Albania.
 
-2. Australia.
+2. Armenia.
 
-3. Israel.
+3. Australia.
 
-4. Japón.
+4. Azerbaiyán.
 
-5. Líbano.
+5. Bosnia y Herzegovina.
 
-6. Nueva Zelanda.
+6. Brunei.
 
-7. República de Macedonia del Norte.
+7. Canadá.
 
-8. Ruanda.
+8. Israel.
 
-9. Serbia.
+9. Japón.
 
-10. Singapur.
+10. Jordania.
 
-11. Corea del Sur.
+11. Líbano.
 
-12. Tailandia.
+12. Montenegro.
 
-13. Estados Unidos de América.
+13. Nueva Zelanda.
 
-14. China.
+14. Qatar.
+
+15. República de Moldavia.
+
+16. República de Macedonia del Norte.
+
+17. Ruanda.
+
+18. Arabia Saudí.
+
+19. Serbia.
+
+20. Singapur.
+
+21. Corea del Sur.
+
+22. Tailandia.
+
+23. Estados Unidos de América.
+
+24. China.
 
 II. Regiones administrativas especiales de la República Popular China:
 
@@ -40,7 +60,11 @@ RAE de Macao.
 
 III. Entidades y autoridades territoriales no reconocidas como Estados por al menos un Estado miembro de la Unión Europea:
 
+Kosovo, tal como se define en la Resolución 1244, de 10 de junio de 1999, del Consejo de Seguridad de las Naciones Unidas.
+
 Taiwán.
+
+> Se modifica por el art. único de la Orden INT/715/2021, de 7 de julio. Ref. BOE-A-2021-11310
 
 > Se modifica por el art. único.3 de la Orden INT/677/2021, de 28 de junio. Ref. BOE-A-2021-10746
 
