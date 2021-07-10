@@ -34,6 +34,8 @@ d) En la provincia de Huelva: las comarcas veterinarias de Almonte (Entorno de D
 
 e) En la provincia de Sevilla: las comarcas veterinarias de Cantillana (Vega de Sevilla), Carmona (Los Alcores), Écija (La Campiña), Lebrija (Las Marismas), Marchena (Serranía Sudoeste), Osuna (Campiña/Sierra Sur), Sanlúcar la Mayor (Poniente de Sevilla), Sevilla (Delegación Provincial) y Utrera (Bajo Guadalquivir).
 
+2. La Comunidad Autónoma de Islas Baleares.
+
 Parte C: Zona restringida frente al serotipo 8 del virus de la lengua azul
 
 Se considerará zona restringida frente al serotipo 8 del virus de la lengua azul, los siguientes territorios:
@@ -53,5 +55,7 @@ b) En la provincia de Araba/Álava: el municipio de Aramaio.
 a) En la provincia de Huesca: las comarcas veterinarias de Boltaña, Jaca y Sabiñánigo; el siguiente municipio de la comarca veterinaria de Ayerbe: Las Peñas de Riglos; los siguientes municipios de la comarca veterinaria de Huesca: Arguis, Casbas de Huesca, Ibieca, Igriés, Loporzano, Nueno y Siétamo; los siguientes municipios de la comarca veterinaria de Barbastro: Abiego, Adahuesca, Alquézar, Bierge, Colungo y Naval; los siguientes municipios de la comarca veterinaria de Castejón de Sos: Castejón de Sos, Chía, Sahún, Seira, Sesué y Villanova; y los siguientes municipios de la comarca veterinaria de Graus: Campo, Foradada y Valle de Bardají.
 
 b) En la provincia de Zaragoza: los municipios de la provincia pertenecientes a la comarca veterinaria de Jaca.
+
+> Se modifica la parte B por Resolución de 5 de julio de 2021. Ref. BOE-A-2021-11448
 
 > Se modifica por Resolución de 22 de febrero de 2021. Ref. BOE-A-2021-3290
