@@ -1,0 +1,11 @@
+## Disposición transitoria cuarta. Procedimientos para el reconocimiento del ingreso mínimo vital iniciados antes de la entrada en vigor de la presente Ley en los que no se haya dictado resolución expresa.
+
+A los procedimientos para el reconocimiento del ingreso mínimo vital en los que no se hubiera dictado resolución expresa a la fecha de entrada en vigor de la presente Ley, les será de aplicación lo que a continuación se establece:
+
+1. El plazo para resolver y notificar será el de seis meses previsto en el artículo 25.3 del Real Decreto-ley 20/2020, de 29 de mayo, por el que se establece el ingreso mínimo vital, aun cuando a la fecha de entrada en vigor de la presente Ley hayan transcurrido tres meses desde la presentación de la solicitud. A tal efecto, el periodo transcurrido sin haberse dictado resolución expresa será tenido en cuenta para el cómputo de los seis meses establecidos en el citado artículo 25.3.
+
+2. Con independencia del estado en que se encuentre el procedimiento para el reconocimiento de la prestación económica del ingreso mínimo vital a la entrada en vigor de esta disposición transitoria, se comprobará el cumplimiento por los interesados de la condición de vulnerabilidad establecida en el artículo 7.1.b) del Real Decreto-ley 20/2020, de 29 de mayo, como requisito necesario para poder continuar su tramitación. En el supuesto de que no quedara acreditado dicho requisito, se dictará resolución declarando la imposibilidad de continuar la tramitación del procedimiento.
+
+Frente a esta resolución, se podrá interponer reclamación administrativa previa en materia de prestaciones de Seguridad Social, de acuerdo con lo establecido en el artículo 71 de la Ley 36/2011, de 10 de octubre, reguladora de la jurisdicción social, y cuyo objeto se limitará a conocer sobre la posibilidad de seguir el procedimiento, en razón del cumplimiento del requisito de vulnerabilidad establecido en el citado artículo 7.1.b), por lo que la estimación de la reclamación previa tendrá como único efecto, permitir seguir la tramitación administrativa.
+
+La continuación del procedimiento no obstará a la desestimación de la solicitud si la entidad gestora efectuara nuevas comprobaciones que determinaran el incumplimiento del requisito de vulnerabilidad previsto en el indicado artículo 7.1.b).

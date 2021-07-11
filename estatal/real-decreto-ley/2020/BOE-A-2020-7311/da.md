@@ -2,15 +2,17 @@
 
 Se aprueba la concesión de un crédito extraordinario por importe total de 250 millones de euros en el Ministerio de Industria, Comercio y Turismo, distribuido por aplicaciones presupuestarias como se indica:
 
-20.09.422B.772. “A empresas privadas. Plan Renove, dentro del Plan de impulso de la cadena de valor de la Industria de la Automoción”. 38 millones de euros.
+20.09.422B.772. ‘‘A empresas privadas. Plan Renove, dentro del Plan de impulso de la cadena de valor de la Industria de la Automoción’’. 38 millones de euros.
 
-20.09.422B.782. “A familias e instituciones sin fines de lucro. Plan Renove, dentro del Plan de impulso de la cadena de valor de la Industria de la Automoción”. 212 millones de euros.
+20.09.422B.782. ‘‘A familias e instituciones sin fines de lucro. Plan Renove, dentro del Plan de impulso de la cadena de valor de la Industria de la Automoción’’. 212 millones de euros.
 
 La financiación del crédito extraordinario se realizará de conformidad con el artículo 46 de la Ley 6/2018, de 3 de julio, de Presupuestos Generales del Estado para 2018.
 
-Con la aprobación de este real decreto-ley se otorga la autorización a que se refieren el artículo 10.2 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+Con la aprobación de este real decreto-ley se otorga la autorización a que se refiere el artículo 10.2 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
 
 De conformidad con lo dispuesto en el artículo 58.a) de la Ley 47/2003, de 26 de noviembre, General Presupuestaria los remanentes de crédito que, a la finalización del presente ejercicio, se registren en las dos aplicaciones presupuestarias señaladas podrán ser incorporados a los créditos del ejercicio 2021.
+
+> Se modifica por la disposición final 12.4 de la Ley 10/2021, de 9 de julio. Ref. BOE-A-2021-11472#df-12
 
 > Se modifica por la disposición final 12.4 del Real Decreto-ley 28/2020, de 22 de septiembre. Ref. BOE-A-2020-11043#df-12
 

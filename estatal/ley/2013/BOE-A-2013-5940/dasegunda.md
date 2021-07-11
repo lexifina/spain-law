@@ -16,6 +16,8 @@ Las menciones a la Autoridad Estatal de Supervisión regulada en el Título VI d
 
 6. Los bienes inmuebles y derechos reales de titularidad de los organismos reguladores extinguidos que resulten innecesarios para el ejercicio de las funciones de la Comisión Nacional de los Mercados y la Competencia se incorporarán al patrimonio de la Administración General del Estado.
 
+> Se modifica el apartado 3 por la disposición final 7.1 de la Ley 10/2021, de 9 de julio. Ref. BOE-A-2021-11472#df-7
+
 > Se modifica el apartado 3 por la disposición final 7.1 del Real Decreto-ley 28/2020, de 22 de septiembre. Ref. BOE-A-2020-11043#df-7
 
 > Se deja sin efecto la modificación del apartado 3 por Resolución de 10 de septiembre de 2020, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 27/2020, de 4 de agosto. Ref. BOE-A-2020-10491

@@ -6,10 +6,14 @@ a) Que no sea posible hacer frente a esas circunstancias o necesidades de forma 
 
 b) Que se garantice la seguridad en caso necesario mediante la aplicación de las correspondientes medidas de mitigación;
 
-c) Que se mitigue cualquier posible distorsión de las condiciones del mercado como consecuencia de la concesión de la exención en la medida de lo posible,
+c) Que se mitigue cualquier posible distorsión de las condiciones del mercado como consecuencia de la concesión de la exención en la medida de lo posible;
 
 d) Que el alcance y la duración de la exención estén limitados a lo que resulte estrictamente necesario y que esta se aplique sin ocasionar discriminación.
 
 Asimismo, dichas exenciones se podrán emitir, si se cumplen todas las condiciones mencionadas en el párrafo anterior, previa solicitud de los interesados en la que se motive adecuadamente su cumplimiento, se especifiquen las circunstancias urgentes imprevistas o las necesidades operativas urgentes y que incluya, por parte del solicitante, las medidas de mitigación que permitan establecer un nivel de seguridad operacional equivalente.
+
+> Se añade por la disposición final 8 de la Ley 10/2021, de 9 de julio. Ref. BOE-A-2021-11472#df-8
+
+> Téngase en cuenta que esta disposición ya había sido añadida por el Real Decreto-ley 28/2020, de 22 de septiembre.
 
 > Se añade por la disposición final 8 del Real Decreto-ley 28/2020, de 22 de septiembre. Ref. BOE-A-2020-11043#df-8
