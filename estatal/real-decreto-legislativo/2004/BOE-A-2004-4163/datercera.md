@@ -24,7 +24,7 @@ El expediente se pondrá de manifiesto a los interesados para la presentación d
 
 c) La notificación a los interesados se practicará de conformidad con lo dispuesto en la Ley 58/2003, de 17 de diciembre, General Tributaria. El plazo máximo en que debe notificarse la resolución expresa será de seis meses desde que se notifique a los interesados el acuerdo de iniciación o la propuesta de regularización. El vencimiento del plazo máximo de resolución determinará la caducidad del expediente y el archivo de todas las actuaciones.
 
-4. La incorporación en el Catastro de los bienes inmuebles o la modificación de su descripción resultante de la regularización, surtirá efectos desde el día siguiente a aquél en que se produjeron los hechos, actos o negocios que originen la incorporación o modificación catastral, con independencia del momento en que se notifiquen, sin perjuicio de lo dispuesto en el párrafo tercero de la disposición adicional cuarta para aquellos bienes inmuebles que tengan naturaleza rústica y cuenten con construcciones indispensables para el desarrollo de las explotaciones agrícolas, ganaderas o forestales.
+4. La incorporación en el Catastro de los bienes inmuebles o la modificación de su descripción resultante de la regularización, tendrá eficacia desde la fecha en que se produjeron los hechos, actos o negocios que originen la incorporación o modificación catastral, con independencia del momento en que se notifiquen, sin perjuicio de lo dispuesto en el párrafo tercero de la disposición adicional cuarta para aquellos bienes inmuebles que tengan naturaleza rústica y cuenten con construcciones indispensables para el desarrollo de las explotaciones agrícolas, ganaderas o forestales.
 
 5. La regularización de la descripción catastral de los inmuebles en virtud del procedimiento regulado en esta disposición, excluirá la aplicación de las sanciones que hubieran podido exigirse por el incumplimiento de la obligación de declarar de forma completa y correcta las circunstancias determinantes del alta o modificación de los mismos.
 
@@ -45,6 +45,8 @@ d) Cuantía: La cuantía de la tasa de regularización catastral será de 60 eur
 e) Gestión: La gestión de la tasa de regularización catastral corresponde a la Dirección General del Catastro.
 
 f) Recaudación: La recaudación de la tasa se efectuará conforme a lo dispuesto en el Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio, y su normativa de desarrollo.
+
+> Se modifica el apartado 4 por el art. 14.6 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad-4
 
 > Se modifica el título y el apartado 2 por la disposición final 20.2 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-21
 

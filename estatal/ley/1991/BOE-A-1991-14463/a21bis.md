@@ -10,11 +10,11 @@ A los efectos de este número, la responsabilidad alcanzará a la sanción que p
 
 2.º Las empresas de transportes, cuando actúen en nombre de terceros en virtud de Convenios internacionales.
 
-3.º Los agentes de aduanas y las personas autorizadas para presentar y tramitar declaraciones para el despacho de mercancías, cuando intervengan en nombre propio y por cuenta de sus comitentes.
+3.º Las personas o entidades que actúen en nombre propio y por cuenta de los importadores.
 
-3. (Derogado)
+3. Serán responsables subsidiarios del pago del Impuesto las personas o entidades que actúen en nombre y por cuenta del importador.
 
-4. Las responsabilidades establecidas en el número 2 anterior no alcanzarán a las deudas tributarias que se pongan de manifiesto como consecuencia de actuaciones practicadas fuera de los recintos aduaneros.
+4. Las responsabilidades establecidas en los números 2 y 3 no alcanzarán a las deudas tributarias que se pongan de manifiesto como consecuencia de actuaciones practicadas fuera de los recintos aduaneros.'
 
 5.1.º Serán responsables subsidiarios de las cuotas tributarias correspondientes a las operaciones gravadas que hayan de satisfacer los sujetos pasivos aquellos destinatarios de las mismas que sean empresarios o profesionales, que debieran razonablemente presumir que el Impuesto repercutido o que hubiera debido repercutirse por el empresario o profesional que las realiza, o por cualquiera de los que hubieran efectuado la adquisición y entrega de los bienes de que se trate, no haya sido ni va a ser objeto de declaración e ingreso.
 
@@ -33,6 +33,8 @@ No se considerará como precio notoriamente anómalo aquel que se justifique por
 3.º Para la exigencia de esta responsabilidad la Administración tributaria deberá acreditar la existencia de un Impuesto repercutido o que hubiera debido repercutirse que no ha sido objeto de declaración e ingreso.
 
 4.º Una vez que la Administración tributaria haya constatado la concurrencia de los requisitos establecidos en los apartados anteriores declarará la responsabilidad conforme a lo dispuesto en el artículo 41.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+> Se modifican el apartado 2.3.º, se añade un número 3 y se modifica el 4 por el art. 9.1 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#an
 
 > Se añade el apartado 5 por la disposición final 1.3 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843.
 

@@ -18,13 +18,19 @@ De igual manera, las entidades de crédito exigirán la comunicación del númer
 
 Reglamentariamente se establecerá la forma en que las entidades de crédito deberán dejar constancia y comunicar a la Administración tributaria los datos a que se refieren los párrafos anteriores.
 
-4. La publicación de la revocación del número de identificación fiscal asignado en el “Boletín Oficial del Estado”, determinará la pérdida de validez a efectos identificativos de dicho número en el ámbito fiscal.
+4. La publicación de la revocación del número de identificación fiscal asignado en el "Boletín Oficial del Estado", determinará la pérdida de validez a efectos identificativos de dicho número en el ámbito fiscal.
 
-Asimismo, la publicación anterior determinará que las entidades de crédito no realicen cargos o abonos en las cuentas o depósitos bancarios en que consten como titulares o autorizados los titulares de dichos números revocados, salvo que se rehabilite dicho número o se asigne un nuevo número de identificación fiscal.
+Asimismo, la publicación anterior determinará que las entidades de crédito no realicen cargos o abonos en las cuentas o depósitos bancarios en que consten como titulares o autorizados los titulares de dichos números revocados, salvo que se rehabilite el número de identificación fiscal,
 
-Cuando la revocación se refiera a una entidad, la publicación anterior también determinará que el registro público en que esté inscrita, en función del tipo de entidad de que se trate, proceda a extender en la hoja abierta a la entidad a la que afecte la revocación una nota marginal en la que se hará constar que, en lo sucesivo, no podrá realizarse inscripción alguna que afecte a esta, salvo que se rehabilite dicho número o se asigne un nuevo número de identificación fiscal.
+Cuando la revocación se refiera al número de identificación fiscal de una entidad, su publicación en el "Boletín Oficial del Estado" implicará la abstención del notario para autorizar cualquier instrumento público relativo a declaraciones de voluntad, actos jurídicos que impliquen prestación de consentimiento, contratos y negocios jurídicos de cualquier clase, así como la prohibición de acceso a cualquier registro público, incluidos los de carácter administrativo, salvo que se rehabilite el número de identificación fiscal. El registro público en el que esté inscrita la entidad a la que afecte la revocación, en función del tipo de entidad de que se trate, procederá a extender en la hoja abierta a dicha entidad una nota marginal en la que se hará constar que, en lo sucesivo, no podrá realizarse inscripción alguna que afecte a aquella, salvo que se rehabilite el número de identificación fiscal.
 
-Lo dispuesto en este apartado no impedirá a la Administración Tributaria exigir el cumplimiento de las obligaciones tributarias pendientes. No obstante, la admisión de las autoliquidaciones, declaraciones, comunicaciones o escritos en los que conste un número de identificación fiscal revocado quedará condicionada, en los términos reglamentariamente establecidos, a la rehabilitación del citado número de identificación fiscal o, en su caso, a la obtención de un nuevo número.
+Excepcionalmente, se admitirá la realización de los trámites imprescindibles para la cancelación de la nota marginal a la que se refiere el párrafo anterior.
+
+De igual modo, en todas las certificaciones registrales de la entidad titular del número revocado debe constar que el mismo está revocado.
+
+Lo dispuesto en este apartado no impedirá a la Administración Tributaria exigir el cumplimiento de las obligaciones tributarias pendientes. No obstante, la admisión de las autoliquidaciones, declaraciones, comunicaciones o escritos en los que conste un número de identificación fiscal revocado quedará condicionada, en los términos reglamentariamente establecidos, a la rehabilitación del citado número de identificación fiscal.
+
+> Se modifica el apartado 4 por el art. 13.25 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad-3
 
 > Se modifica el apartado 4 por el art. único.61 de la Ley 34/2015, de 21 de septiembre. Ref. BOE-A-2015-10143#aunico.
 

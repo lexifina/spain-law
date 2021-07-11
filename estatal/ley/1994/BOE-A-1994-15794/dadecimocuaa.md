@@ -8,6 +8,8 @@ Con respecto al importe mínimo de gasto que fija la letra a) del apartado 2 del
 
 El importe de la deducción por gastos realizados en la producción y exhibición de espectáculos en vivo de artes escénicas y musicales a que se refiere el apartado 3 del artículo 36 de la Ley 27/2014 no podrá ser superior a 900.000 euros cuando se trate de gastos realizados en Canarias.
 
+> Se modifica por la disposición final 1.4 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#df
+
 > Se modifica, con efectos para los periodos impositivos que se inicien durante el 2020, por la disposición final 3 del Real Decreto-ley 12/2021, de 24 de junio. Ref. BOE-A-2021-10584#df-3
 
 > Se modifica por el art. 1.42 de la Ley 8/2018, de 5 de noviembre. Ref. BOE-A-2018-15139#au

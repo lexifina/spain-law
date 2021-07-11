@@ -245,6 +245,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria trigésima octava](dttrigesimaoctava.md)
 - [Disposición transitoria trigésima novena](dt.md)
 - [Disposición transitoria cuadragésima](dt-2.md)
+- [Disposición transitoria cuadragésima primera](dt-3.md)
+- [Disposición transitoria cuadragésima segunda](dt-4.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)

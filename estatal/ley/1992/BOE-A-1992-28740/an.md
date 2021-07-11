@@ -32,7 +32,13 @@ También se incluirán en este régimen los bienes que se negocien en mercados o
 
 El régimen de depósito distinto de los aduaneros a que se refiere esta letra b) no será aplicable a los bienes destinados a su entrega a personas que no actúen como empresarios o profesionales con excepción de los destinados a ser introducidos en las tiendas libres de impuestos.
 
-Los titulares de los depósitos a que se refiere este precepto serán responsables subsidiarios del pago de la deuda tributaria que corresponda a la salida o abandono de los bienes de estos depósitos, con excepción de aquéllos a que se refiere la letra a) de esta disposición, independientemente de que puedan actuar como representantes fiscales de los empresarios o profesionales no establecidos en el ámbito espacial del impuesto.
+Los titulares de los depósitos a que se refiere este precepto serán responsables subsidiarios del pago de la deuda tributaria que corresponda a la salida o abandono de los bienes de estos depósitos, independientemente de que puedan actuar como representantes fiscales de los empresarios o profesionales no establecidos en el ámbito espacial del impuesto.
+
+No obstante, los titulares de depósitos fiscales de productos comprendidos en los ámbitos objetivos de los Impuestos sobre el Alcohol y Bebidas Derivadas y sobre Hidrocarburos serán responsables subsidiarios del pago de la deuda tributaria correspondiente a las entregas de dichos productos efectuadas por los sujetos pasivos de las operaciones asimiladas a las importaciones de bienes devengadas con ocasión de la salida o el abandono de los bienes del régimen de depósito distinto del aduanero. Dicha responsabilidad subsidiaria solo será exigible cuando el extractor, o la persona autorizada por el mismo, no esté incluido en el Registro de extractores que reglamentariamente se establezca, y su importe no podrá exceder del de las cuotas devengadas por aplicación del artículo 19.5.º de esta Ley con ocasión de la salida o el abandono de los bienes del régimen de depósito distinto de los aduaneros.
+
+A los efectos de esta Ley se consideran extractores las personas o entidades que sean los sujetos pasivos de las operaciones asimiladas a las importaciones de bienes, devengadas con ocasión de la salida o el abandono de los productos comprendidos en los ámbitos objetivos de los Impuestos sobre el Alcohol y Bebidas Derivadas y sobre Hidrocarburos del régimen de depósito distinto de los aduaneros, las que realicen el envío de los bienes en régimen suspensivo con destino a otro depósito fiscal, así como las autorizadas para realizar dichas operaciones.
+
+Las personas o entidades extractoras deberán hallarse inscritas en el Registro de extractores. Los titulares de los depósitos fiscales deberán verificar que las personas o entidades que realizan las operaciones que determinan su inclusión están incluidas en el Registro de extractores de depósitos fiscales de productos comprendidos en los ámbitos objetivos de los Impuestos sobre el Alcohol y Bebidas Derivadas o sobre Hidrocarburos.
 
 Sexto. Liquidación del impuesto en los casos comprendidos en el artículo 19, número 5º, párrafo segundo, de esta Ley.
 
@@ -179,6 +185,8 @@ Décimo. Entregas de plata, platino, paladio, así como la entrega de teléfonos
 | 8517 12 | Teléfonos móviles (celulares) y los de otras redes inalámbricas. Exclusivamente por lo que se refiere a los teléfonos móviles |
 | 9504 50 | Videoconsolas y máquinas de videojuego excepto las de la subpartida 950430. Exclusivamente por lo que se refiere a las consolas de videojuego |
 | 8471 30 | Máquinas automáticas para tratamiento o procesamiento de datos, portátiles, de peso inferior a 10 kg, que estén constituidas, al menos, por una unidad central de proceso, un teclado y un visualizador. Exclusivamente por lo que se refiere a ordenadores portátiles y tabletas digitales. |
+
+> Se modifica el último párrafo y se añaden tres párrafos al apartado quinto por el art. 8.3 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ao
 
 > Se modifica el primer guión del apartado 8 por el art. 61 de la Ley 3/2017, de 27 de junio. Ref. BOE-A-2017-7387
 

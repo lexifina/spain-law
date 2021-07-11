@@ -1,10 +1,12 @@
 ## Artículo 95 bis. Publicidad de situaciones de incumplimiento relevante de las obligaciones tributarias.
 
-1. La Administración Tributaria acordará la publicación periódica de listados comprensivos de deudores a la Hacienda Pública por deudas o sanciones tributarias cuando concurran las siguientes circunstancias:
+1. La Administración Tributaria acordará la publicación periódica de listados comprensivos de deudores a la Hacienda Pública, incluidos los que tengan la condición de deudores al haber sido declarados responsables solidarios, por deudas o sanciones tributarias cuando concurran las siguientes circunstancias:
 
-a) Que el importe total de las deudas y sanciones tributarias pendientes de ingreso supere el importe de 1.000.000 de euros.
+a) Que el importe total de las deudas y sanciones tributarias pendientes de ingreso, incluidas en su caso las que se hubieran exigido tras la declaración de responsabilidad solidaria, supere el importe de 600.000 euros.
 
-b) Que dichas deudas o sanciones tributarias no hubiesen sido pagadas transcurrido el plazo de ingreso en periodo voluntario.
+b) Que dichas deudas o sanciones tributarias no hubiesen sido pagadas transcurrido el plazo original de ingreso en periodo voluntario.
+
+En el supuesto de deudas incluidas en acuerdos de declaración de responsabilidad será necesario que haya transcurrido el plazo de pago del artículo 62.2 de esta Ley tras la notificación del acuerdo de declaración de responsabilidad y, en su caso, del acuerdo de exigencia de pago.
 
 A efectos de lo dispuesto en este artículo no se incluirán aquellas deudas y sanciones tributarias que se encuentren aplazadas o suspendidas.
 
@@ -26,9 +28,11 @@ La publicidad regulada en este artículo resultará de aplicación respecto a lo
 
 La propuesta de inclusión en el listado será comunicada al deudor afectado, que podrá formular alegaciones en el plazo de 10 días contados a partir del siguiente al de recepción de la comunicación. A estos efectos será suficiente para entender realizada dicha comunicación la acreditación por parte de la Administración Tributaria de haber realizado un intento de notificación de la misma que contenga el texto íntegro de su contenido en el domicilio fiscal del interesado.
 
-Las alegaciones habrán de referirse exclusivamente a la existencia de errores materiales, de hecho o aritméticos en relación con los requisitos señalados en el apartado 1.
+En el caso de que los deudores paguen la totalidad de la cantidad adeudada a la fecha de referencia antes de la finalización del plazo para formular alegaciones, no se incluirán en los listados comprensivos de deudores a la Hacienda Pública por deudas o sanciones tributarias.
 
-Como consecuencia del trámite de alegaciones, la Administración podrá acordar la rectificación del listado cuando se acredite fehacientemente que no concurren los requisitos legales determinados en el apartado 1.
+Las alegaciones habrán de referirse exclusivamente a la existencia de errores materiales, de hecho o aritméticos en relación con los requisitos señalados en el apartado 1 o a los pagos efectuados por el deudor a que se refiere el párrafo anterior, debiéndose aportar en este caso justificación fehaciente de dichos pagos.
+
+Como consecuencia del trámite de alegaciones, la Administración podrá acordar la rectificación del listado cuando se acredite fehacientemente que no concurren los requisitos legales determinados en el apartado 1 o cuando a la conclusión del plazo para formular alegaciones se hubiera satisfecho la totalidad de las deudas o sanciones tributarias.
 
 Dicha rectificación también podrá ser acordada de oficio.
 
@@ -40,17 +44,21 @@ Mediante Orden Ministerial se establecerán la fecha de publicación, que deber�
 
 La publicación se efectuará en todo caso por medios electrónicos, debiendo adoptarse las medidas necesarias para impedir la indexación de su contenido a través de motores de búsqueda en Internet y los listados dejarán de ser accesibles una vez transcurridos tres meses desde la fecha de publicación.
 
-El tratamiento de datos necesarios para la publicación se sujetará a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter general, y en su Reglamento aprobado por Real Decreto 1720/2007, de 21 de diciembre.
+El tratamiento de datos necesarios para la publicación se sujetará a lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos), y la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, así como por su normativa de desarrollo.
 
 5. En el ámbito de competencias del Estado, será competente para dictar los acuerdos de publicación regulados en este artículo el Director General de la Agencia Estatal de Administración Tributaria.
 
-6. En la publicación del listado se especificará que la situación en el mismo reflejada es la existente a la fecha de referencia señalada en el apartado 4, sin que la publicación del listado resulte afectada por las actuaciones realizadas por el deudor con posterioridad a dicha fecha de referencia, en orden al pago de las deudas y sanciones incluidas en el mismo.
+6. En la publicación del listado se especificará que la situación en el mismo reflejada es la existente a la fecha de referencia señalada en el apartado 4, sin que la publicación del listado resulte afectada por las actuaciones realizadas por el deudor con posterioridad a dicha fecha de referencia, salvo que se verifique el pago en los casos y con los requisitos señalados en dicho apartado.
 
 Lo dispuesto en este artículo no afectará en modo alguno al régimen de impugnación establecido en esta Ley en relación con las actuaciones y procedimientos de los que se deriven las deudas y sanciones tributarias ni tampoco a las actuaciones y procedimientos de aplicación de los tributos iniciados o que se pudieran iniciar con posterioridad en relación con las mismas.
 
 Las actuaciones desarrolladas en el procedimiento establecido en este artículo en orden a la publicación de la información en el mismo regulada no constituyen causa de interrupción a los efectos previstos en el artículo 68 de esta Ley.
 
 7. El acuerdo de publicación del listado pondrá fin a la vía administrativa.
+
+> Se modifican los apartados 1, 4 y 6 por el art. 13.9 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad-3
+
+> Téngase en cuenta, para la publicidad de situaciones de incumplimiento relevante de las obligaciones tributarias en el año 2021, la disposición transitoria segunda de la citada Ley.
 
 > Se añade por el art. único.18 de la Ley 34/2015, de 21 de septiembre. Ref. BOE-A-2015-10143#aunico.
 

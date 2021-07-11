@@ -8,6 +8,8 @@ b) En los procedimientos de aplicación de los tributos, los efectos del incumpl
 
 c) La comprobación de valores regulada en la subsección 4.ª de la sección 2.ª del capítulo III del título III de esta Ley no será de aplicación cuando se trate de determinar el valor en aduana, resultando de aplicación lo dispuesto en la normativa de la Unión Europea.
 
+d) No será de aplicación a las declaraciones aduaneras lo previsto en el artículo 27 de esta Ley.
+
 2. La revisión de los actos de aplicación de los tributos que integran la deuda aduanera, en aquellos casos en los que la normativa de la Unión Europea reserve a la Comisión la emisión de una Decisión favorable en relación a la no contracción a posteriori, la condonación o la devolución de la deuda aduanera, se efectuará con las especialidades que se describen en los siguientes apartados:
 
 a) Cuando el acto de aplicación de los tributos haya sido sometido a una Decisión de la Comisión, el órgano revisor nacional competente, desde el momento en que tenga conocimiento de dicha circunstancia, suspenderá el procedimiento de revisión hasta que haya recaído la resolución de dicha Comisión y la misma haya adquirido firmeza.
@@ -17,5 +19,7 @@ b) Cuando el acto de aplicación de los tributos esté vinculado a una Decisión
 c) Cuando el acto de aplicación de los tributos haya sido dictado sin someter la posible no contracción a posteriori, condonación o devolución de la deuda aduanera a la Decisión de la Comisión y el órgano revisor considere, conforme a lo dispuesto en la normativa de la Unión Europea, que procede tal sometimiento, suspenderá el procedimiento e instará a la Administración Tributaria para que someta el asunto a la Comisión.
 
 d) Lo anterior se entiende sin perjuicio del derecho de los interesados a la interposición de los recursos que procedan contra las Decisiones de la Comisión ante las instituciones competentes de la Unión Europea y del eventual planteamiento por los órganos nacionales revisores competentes de una cuestión prejudicial ante el Tribunal de Justicia de la Unión Europea.
+
+> Se añade la letra d) al apartado 1 por el art. 13.27 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad-3
 
 > Se añade por el art. único.63 de la Ley 34/2015, de 21 de septiembre. Ref. BOE-A-2015-10143#aunico.

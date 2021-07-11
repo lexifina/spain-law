@@ -125,6 +125,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [TÍTULO VII](tvii.md)
 - [CAPÍTULO I](ci-4.md)
 - [Artículo 73](a73.md)
+- [Artículo 73 bis](a7-2.md)
 - [CAPÍTULO II](cii-4.md)
 - [Artículo 74](a74.md)
 - [Artículo 75](a75.md)

@@ -44,9 +44,9 @@ Siete. La no llevanza o conservación del sistema de información a que se refie
 
 Las inexactitudes u omisiones en el sistema de información a que se refiere la obligación 3.ª del apartado cuatro serán consideradas como infracción tributaria grave de la entidad dominante. La sanción consistirá en multa pecuniaria proporcional del 10 por ciento del importe de los bienes y servicios adquiridos a terceros a los que se refiera la información inexacta u omitida.
 
-De acuerdo con lo dispuesto en el apartado 3 del artículo 180 de la Ley 58/2003, de 17 de diciembre, General Tributaria, las sanciones previstas en los dos párrafos anteriores serán compatibles con las que procedan por la aplicación de los artículos 191, 193, 194 y 195 de dicha ley. La imposición de las sanciones establecidas en este apartado impedirán la calificación de las infracciones tipificadas en los artículos 191 y 193 de dicha ley como graves o muy graves por la no llevanza, llevanza incorrecta o no conservación del sistema de información a que se refiere la obligación 3.ª del apartado cuatro.
+De acuerdo con lo dispuesto en el apartado 3 del artículo 180 de la Ley 58/2003, de 17 de diciembre, General Tributaria, las sanciones previstas en los dos párrafos anteriores serán compatibles con las que procedan por la aplicación de los artículos 191, 193, 194 y 195 de dicha Ley. Las imposiciones de las sanciones establecidas en este apartado impedirán la calificación de las infracciones tipificadas en los artículos 191 y 193 de dicha Ley como graves o muy graves por la no llevanza, llevanza incorrecta o no conservación del sistema de información a que se refiere la obligación 3.ª del apartado cuatro.
 
-La entidad dominante será sujeto infractor por los incumplimientos de las obligaciones específicas del régimen especial del grupo de entidades. Las demás entidades que apliquen el régimen especial del grupo de entidades responderán solidariamente del pago de estas sanciones.
+La entidad dominante será sujeto infractor por los incumplimientos de las obligaciones específicas del régimen especial del grupo de entidades, incluidas las obligaciones derivadas del ingreso de la deuda tributaria, de la solicitud de compensación o de la devolución resultante de la declaración-liquidación agregada correspondiente al grupo de entidades, siendo responsable de la veracidad y exactitud de los importes y calificaciones consignadas por las entidades dependientes que se integran en la declaración-liquidación agregada. Las demás entidades que apliquen el régimen especial del grupo de entidades responderán solidariamente del pago de estas sanciones.
 
 Las entidades que apliquen el régimen especial del grupo de entidades responderán de las infracciones derivadas de los incumplimientos de sus propias obligaciones tributarias.
 
@@ -57,6 +57,8 @@ Las actuaciones de comprobación o investigación realizadas a cualquier entidad
 Las actas y liquidaciones que deriven de la comprobación de este régimen especial se extenderán a la entidad dominante.
 
 Se entenderá que concurre la circunstancia de especial complejidad prevista en el artículo 150.1 de la Ley 58/2003, de 17 de diciembre, General Tributaria, cuando se aplique este régimen especial.
+
+> Se modifica el apartado 7 por el art. 8.2 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ao
 
 > Se modifica el apartado 4 por el art. 5.11 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802.
 
