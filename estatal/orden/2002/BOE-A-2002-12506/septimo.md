@@ -18,11 +18,17 @@ c) En el procedimiento de pago a través del sistema de anticipos de caja fija.
 
 d) En el procedimiento de pagos a justificar.
 
-e) En aquellos otros supuestos que se autoricen expresamente por la Secretaría General del Tesoro y Financiación Internacional.
+e) En aquellos otros supuestos que se autoricen expresamente por la Dirección General del Tesoro y Política Financiera.
 
 3. Datos de terceros a incorporar en las propuestas de pago. En todas las propuestas de pago que se expidan a favor de acreedores directos se hará constar, al menos, los siguientes datos relativos al titular del crédito: el número de identificación fiscal o equivalente, la denominación del acreedor (nombre o razón social), la clave de tipo de pago, y la cuenta bancaria a la que ha de hacerse la transferencia, si este es el medio de pago, salvo que, en el momento de expedir dicha propuesta, el tercero no tuviera cuentas dadas de alta en el Fichero Central de Terceros.
 
 Cuando el crédito se hubiera cedido, se hubiera designado representante para el cobro o bien se utilizara un agente mediador en el pago, se hará constar el número de identificación fiscal, la denominación del cesionario, representante o agente mediador y del cedente o interesado. Asimismo, si el pago ha de hacerse por transferencia, se identificará la cuenta bancaria del cesionario en formato IBAN, salvo que este no tuviera, en el momento de confección de dicha propuesta, cuentas dadas de alta en el Fichero Central de Terceros.
+
+4. Otros datos a incorporar en las propuestas de pago. Las propuestas de pago deberán indicar su carácter de embargables o no embargables a efectos, en su caso, de la ejecución del embargo en la fase de ordenación del pago por la Dirección General del Tesoro y Política Financiera de conformidad con el artículo 76 de la Ley 47/2003, de 26 de noviembre. Sin perjuicio de la potestad del órgano embargante, esta información se deberá reflejar por los órganos que expidan las propuestas de pago de acuerdo con la normativa vigente general o particular de cada gasto.
+
+> Téngase en cuenta que el apartado 4, añadido por el art. único.2 de la Orden PCM/7/2021, de 11 de enero. Ref. BOE-A-2021-521, entra en vigor el 14 de julio de 2021, según establece su disposición final única.
+
+> Se añade el apartado 4, con efectos desde el 14 de julio de 2021, y se modifica la referencia a la «Secretaría General del Tesoro y Financiación Internacional» por la «Dirección General del Tesoro y Política Financiera», por el art. único.2 y la disposición adicional única de la Orden PCM/7/2021, de 11 de enero. Ref. BOE-A-2021-521
 
 > Se modifica por el art. único.2 de la Orden PCI/1077/2018, de 15 de octubre. Ref. BOE-A-2018-14180
 
