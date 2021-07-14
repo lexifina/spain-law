@@ -7,7 +7,7 @@
 | Ministerio de Asuntos Exteriores, Unión Europea y Cooperación. | AUC |
 | Ministerio de Justicia. | JUS |
 | Ministerio de Defensa. | DEF |
-| Ministerio de Hacienda. | HAC |
+| Ministerio de Hacienda y Función Pública. | HFP |
 | Ministerio del Interior. | INT |
 | Ministerio de Transportes, Movilidad y Agenda Urbana. | TMA |
 | Ministerio de Educación y Formación Profesional. | EFP |
@@ -15,7 +15,7 @@
 | Ministerio de Industria, Comercio y Turismo. | ICT |
 | Ministerio de Agricultura, Pesca y Alimentación. | APA |
 | Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática. | PCM |
-| Ministerio de Política Territorial y Función Pública. | TFP |
+| Ministerio de Política Territorial. | TER |
 | Ministerio para la Transición Ecológica y el Reto Demográfico. | TED |
 | Ministerio de Cultura y Deporte. | CUD |
 | Ministerio de Asuntos Económicos y Transformación Digital. | ETD |
@@ -26,6 +26,10 @@
 | Ministerio de Consumo. | CSM |
 | Ministerio de Inclusión, Seguridad Social y Migraciones. | ISM |
 | Ministerio de Universidades. | UNI |
+
+> Se modifica por Resolución de 12 de julio de 2021. Ref. BOE-A-2021-11682
+
+> Téngase en cuenta que los nuevos códigos ministeriales se aplicarán desde el 12 de julio de 2021, fecha de la entrada en vigor del Real Decreto 507/2021, de 10 de julio, según establece el apartado segundo de la citada Resolución.
 
 > Se modifica por Resolución de 15 de enero de 2020. Ref. BOE-A-2020-613
 
