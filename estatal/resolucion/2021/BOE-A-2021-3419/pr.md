@@ -1,0 +1,13 @@
+La última modificación de la Orden PRE/1576/2002, de 19 de junio, por la que se regula el procedimiento para el pago de obligaciones de la Administración General del Estado, obliga a los centros gestores a incluir en las propuestas de pago información acerca del carácter embargable o no embargable de los derechos de cobro que los particulares ostenten frente a la Administración General del Estado y que sean pagaderos a través de la Ordenación de Pagos del Estado.
+
+Por otro lado, las mejoras producidas con la telematización de los intercambios de información sobre deudores de la Administración General del Estado permiten modificar el procedimiento de gestión de incidencias de los pagos masivos ordenados por la Dirección General del Tesoro y Política Financiera.
+
+Por todo ello, en esta resolución se incluye la obligación por parte de los centros gestores de pagos masivos de incorporar información en los respectivos documentos contables sobre el carácter embargable o no embargable de dichos pagos, afectando dicha información a todos los pagos incluidos en un mismo libramiento de pagos masivos dada la misma naturaleza de los mismos.
+
+Se aprovecha además para actualizar las referencias a la antigua «Secretaría General del Tesoro y Política Financiera» por las correspondientes a la actual «Dirección General del Tesoro y Política Financiera», dado que dentro de la Secretaría General la competencia relativa a la tramitación de los pagos masivos se atribuye a la Dirección General del Tesoro y Política Financiera, en virtud de lo establecido en el Real Decreto 403/2020, de 25 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Asuntos Económicos y Transformación Digital.
+
+Con base en lo anterior, y teniendo en cuenta que dicha actualización afecta a la mayoría de los apartados de la Resolución de 7 de julio de 2016, conjunta de la Intervención General de la Administración del Estado y de la Secretaría General del Tesoro y Política Financiera, por la que se regula el procedimiento para la realización de ciertos pagos a través de agentes mediadores, se considera conveniente aprobar una nueva resolución procediendo a derogar la anterior y aprovechando para clarificar y actualizar la redacción de algunos apartados.
+
+La Intervención General de la Administración del Estado y la Dirección General del Tesoro y Política Financiera están habilitadas por la disposición final de la Orden PRE/1576/2002, de 19 de junio, para dictar las normas complementarias, en el ámbito de sus respectivas competencias, que requiera la ejecución de dicha Orden.
+
+En su virtud, la Dirección General del Tesoro y Política Financiera y la Intervención General de la Administración del Estado han tenido a bien disponer:
