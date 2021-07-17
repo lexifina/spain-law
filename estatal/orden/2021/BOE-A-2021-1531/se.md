@@ -24,4 +24,6 @@ Las limitaciones previstas en el presente acuerdo se aplican a partir de las 09:
 
 > - desde las 00:00 horas del día 22 de junio de 2021 (hora peninsular) hasta las 00:00 horas del día 6 de julio de 2021 (hora peninsular), por el apartado primero del Acuerdo de 15 de junio de 2021, publicado por Orden PCM/613/2021, de 16 de junio. Ref. BOE-A-2021-10165#pr
 
-> - y desde las 00:00 horas del día 6 de julio de 2021 (hora peninsular) hasta las 00:00 horas del día 20 de julio de 2021 (hora peninsular), por el apartado primero del Acuerdo de 29 de junio de 2021, publicado por Orden PCM/692/2021, de 30 de junio. Ref. BOE-A-2021-10965#pr
+> - desde las 00:00 horas del día 6 de julio de 2021 (hora peninsular) hasta las 00:00 horas del día 20 de julio de 2021 (hora peninsular), por el apartado primero del Acuerdo de 29 de junio de 2021, publicado por Orden PCM/692/2021, de 30 de junio. Ref. BOE-A-2021-10965#pr
+
+> - y desde las 00:00 horas del día 20 de julio de 2021 (hora peninsular) hasta las 00:00 horas del día 3 de agosto de 2021 (hora peninsular), por el apartado primero del Acuerdo de 2 de febrero de 2021, publicado por Orden PCM/755/2021, de 16 de julio. Ref. BOE-A-2021-11917#pr
