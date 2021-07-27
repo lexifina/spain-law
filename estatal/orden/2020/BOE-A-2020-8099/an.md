@@ -36,21 +36,19 @@ I. Estados:
 
 16. República de Macedonia del Norte.
 
-17. Ruanda.
+17. Arabia Saudí.
 
-18. Arabia Saudí.
+18. Serbia.
 
-19. Serbia.
+19. Singapur.
 
-20. Singapur.
+20. Corea del Sur.
 
-21. Corea del Sur.
+21. Ucrania.
 
-22. Tailandia.
+22. Estados Unidos de América.
 
-23. Estados Unidos de América.
-
-24. China.
+23. China.
 
 II. Regiones administrativas especiales de la República Popular China:
 
@@ -63,6 +61,8 @@ III. Entidades y autoridades territoriales no reconocidas como Estados por al me
 Kosovo, tal como se define en la Resolución 1244, de 10 de junio de 1999, del Consejo de Seguridad de las Naciones Unidas.
 
 Taiwán.
+
+> Se modifica por el art. único.3 de la Orden INT/790/2021, de 23 de julio. Ref. BOE-A-2021-12404
 
 > Se modifica por el art. único de la Orden INT/715/2021, de 7 de julio. Ref. BOE-A-2021-11310
 
