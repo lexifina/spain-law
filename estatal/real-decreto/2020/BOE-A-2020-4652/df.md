@@ -39,3 +39,5 @@ Uno. El artículo 7 queda redactado del modo siguiente:
 Dos. El apartado 6 del artículo 10 queda redactado del modo siguiente:
 
 > «Se habilita al Ministro de Sanidad para modificar, ampliar o restringir las medidas, lugares, establecimientos y actividades enumeradas en los apartados anteriores, por razones justificadas de salud pública, con el alcance y ámbito territorial que específicamente se determine.»
+
+> Téngase en cuenta que se declara la inconstitucionalidad y nulidad, con el alcance y efectos señalados en los fundamentos jurídicos 2.d) y 11.a), b) y c), de los arts. 7.1, 3 y 5 y del inciso destacado del 10.6 del Real Decreto 463/2020, de 14 de marzo. Ref. BOE-A-2020-3692#a7, en la redacción dada por los apartados 1 y 2 de la presente disposición, por Sentencia del TC 148/2021, de 14 de julio. Ref. BOE-A-2021-13032
