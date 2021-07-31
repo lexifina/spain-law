@@ -14,4 +14,6 @@ Este Comité hará públicos sus informes de evaluación y serán remitidos a la
 
 3. En tanto no se elijan los Consejeros y el Presidente de acuerdo con la normativa contemplada en los apartados anteriores, la elección y las comparecencias previstas en el artículo 11 de la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, se llevarán a cabo con arreglo al procedimiento vigente.
 
+> Téngase en cuenta la declaración de inconstitucionalidad y nulidad, con los efectos previstos en el fundamento jurídico 3º, de la disposición final 1 del Real Decreto-ley 4/2018, de 22 de junio, que dio la redacción a esta disposición, Ref. BOE-A-2018-8577#df por la Sentencia del TC 134/2021, de 24 de junio. Ref. BOE-A-2021-13018
+
 > Se modifica por la disposición final 1 del Real Decreto-ley 4/2018, de 22 de junio. Ref. BOE-A-2018-8577#df
