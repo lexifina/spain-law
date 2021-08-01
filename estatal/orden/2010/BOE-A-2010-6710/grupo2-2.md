@@ -158,11 +158,9 @@ a.3) Por el valor razonable de los bienes recibidos en adscripción, de la entid
 
 a.4) Por el valor razonable de los bienes recibidos como subvención en especie o de los bienes recibidos en cesión durante un periodo de tiempo indefinido o similar a la vida económica del bien con abono a la cuenta 940, «Ingresos de subvenciones para la financiación del inmovilizado no financiero y de activos en estado de venta».
 
-a.5) Por el valor razonable de los bienes recibidos como transferencia con abono a la cuenta 750, «Transferencias».
+a.5) Por el valor razonable de los bienes recibidos mediante permuta cuando los activos intercambiados no sean similares desde el punto de vista funcional o vida útil, con abono a la cuenta representativa del bien que se entrega y en su caso, a la cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», por el importe que se compensa en efectivo.
 
-a.6) Por el valor razonable de los bienes recibidos mediante permuta cuando los activos intercambiados no sean similares desde el punto de vista funcional o vida útil, con abono a la cuenta representativa del bien que se entrega y en su caso, a la cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», por el importe que se compensa en efectivo.
-
-a.7) Por el valor contable del activo entregado más, en su caso, el importe pagado en efectivo, con el límite del valor razonable del elemento recibido mediante permuta cuando los activos intercambiados sean similares desde el punto de vista funcional o vida útil, con abono a la cuenta representativa del bien que se entrega y a la cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», por el importe satisfecho en efectivo.
+a.6) Por el valor contable del activo entregado más, en su caso, el importe pagado en efectivo, con el límite del valor razonable del elemento recibido mediante permuta cuando los activos intercambiados sean similares desde el punto de vista funcional o vida útil, con abono a la cuenta representativa del bien que se entrega y a la cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», por el importe satisfecho en efectivo.
 
 b) Cuando la entidad aplique el tratamiento especial, modelo de revalorización, se cargará o abonará, por las variaciones en su valor razonable, con abono o cargo, respectivamente, a las cuentas 920, «Ajustes positivos en la valoración del inmovilizado no financiero por aumento de su valor razonable», y 820, «Ajustes negativos en la valoración del inmovilizado no financiero por disminución de su valor razonable».
 
@@ -414,9 +412,7 @@ El movimiento de cada divisionaria es análogo al de su correspondiente division
 
 242. Créditos a largo plazo a entidades del grupo, multigrupo y asociadas.
 
-Inversiones a largo plazo en préstamos y otros créditos que no se deriven de las operaciones habituales de la entidad, incluidos los derivados de enajenaciones de inmovilizado, concedidos a entidades del grupo, multigrupo y asociadas, así como las subvenciones reintegrables concedidas, con vencimiento superior a un año.
-
-Su movimiento es análogo al de la cuenta 252, «Créditos a largo plazo», utilizando en la contrapartida las cuentas relativas a entidades del grupo, multigrupo y asociadas.
+Inversiones a largo plazo en préstamos y otros créditos que no se deriven de las operaciones habituales de la entidad, incluidos los derivados de enajenaciones de inmovilizado, concedidos a entidades del grupo, multigrupo y asociadas, con vencimiento superior a un año.
 
 245. Intereses a largo plazo de inversiones financieras en entidades del grupo, multigrupo y asociadas.
 
@@ -612,7 +608,7 @@ b.2) La cuenta 443, «Deudores a corto plazo por aplazamiento y fraccionamiento�
 
 2529. Otros créditos a largo plazo.
 
-Préstamos y otros créditos concedidos no incluidos en las cuentas anteriores. Se incluyen en esta cuenta las subvenciones reintegrables concedidas.
+Préstamos y otros créditos concedidos no incluidos en las cuentas anteriores.
 
 Su movimiento, generalmente, es el siguiente:
 
@@ -1001,6 +997,10 @@ Su movimiento, con carácter general, es el siguiente:
 a) Se abonará por el importe estimado del valor del usufructo cedido del bien durante el periodo de la cesión con cargo a la cuenta 651, «Subvenciones».
 
 b) Se cargará con abono a la cuenta 799, «Reversión del deterioro por el usufructo cedido del inmovilizado material», cuando el importe recuperable sea superior al valor contable con el límite del valor contable si no hubiera habido deterioro.
+
+> Se modifica por el art. 1.dieciocho.3 a 5 de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
+
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.
 
 > Se modifica la subcuenta 2403 y el movimiento b) de la cuenta 259 por el art. 3.6 y 7.a) de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
 

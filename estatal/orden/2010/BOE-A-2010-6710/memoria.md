@@ -4,7 +4,7 @@
 
 1. Organización y Actividad.
 
-2. Gestión indirecta de servicios públicos, convenios y otras formas de colaboración.
+2. Acuerdos de concesión y actividades conjuntas.
 
 3. Bases de presentación de las cuentas.
 
@@ -55,3 +55,7 @@
 26. Indicadores de gestión.
 
 27. Hechos posteriores al cierre.
+
+> Se modifica la nota 2 por el art. 1.once de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
+
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.

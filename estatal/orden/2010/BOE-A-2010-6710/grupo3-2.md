@@ -144,7 +144,7 @@ Las cuentas de este subgrupo figurarán en el activo corriente del balance en el
 
 370. Activos construidos o adquiridos para otras entidades.
 
-Activos adquiridos por la entidad, así como los construidos cuando los ingresos y costes derivados de la construcción no pueden ser estimados con el suficiente grado de fiabilidad, con base en el correspondiente contrato, convenio, acuerdo o norma legal, con el objeto de que una vez finalizado el proceso de adquisición o construcción de los mismos se transfiera su titularidad necesariamente a otra entidad, con independencia de que la entidad destinataria participe o no en su financiación.
+Activos construidos o adquiridos por la entidad cuando los ingresos y costes derivados de la construcción o adquisición no pueden ser estimados con el suficiente grado de fiabilidad, con base en el correspondiente contrato, convenio, acuerdo o norma legal, con el objeto de que una vez finalizado el proceso de adquisición o construcción de los mismos se transfieran necesariamente a otra entidad, con independencia de que la entidad destinataria participe o no en su financiación.
 
 Las cuentas de este subgrupo figurarán en el activo corriente del balance en el epígrafe II, «Existencias», y su movimiento es análogo al del subgrupo 33, «Producción en curso».
 
@@ -237,3 +237,7 @@ b) Se cargará:
 b.1) Cuando desaparezcan las causas que determinaron el reconocimiento de la corrección valorativa por deterioro, con abono a la cuenta 7938, «Reversión del deterioro de activos en estado de venta».
 
 b.2) Cuando se enajene el activo en estado de venta o se dé de baja por cualquier otro motivo con abono a la cuenta que corresponda del subgrupo 38, «Activos en estado de venta».
+
+> Se modifica por el art. 1.dieciocho.6 de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
+
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.

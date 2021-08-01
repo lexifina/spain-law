@@ -166,6 +166,18 @@ a.2) (Suprimido)
 
 b) Se abonarán, al cierre de ejercicio, con cargo a la correlativa cuenta del subgrupo 13, «Subvenciones y ajustes por cambio de valor».
 
+## 85. IMPUTACIÓN DE OTROS INGRESOS.
+
+850. Imputación de ingresos por concesión de un derecho de uso a entidades concesionarias a resultados del ejercicio.
+
+Cuenta que recoge la transferencia a la cuenta del resultado económico patrimonial de los ingresos por concesión de un derecho de uso a entidades concesionarias que previamente han sido imputados a patrimonio neto.
+
+Su movimiento es el siguiente:
+
+a) Se carga en el momento de la imputación a la cuenta del resultado económico patrimonial de los ingresos devengados en el ejercicio, con abono a la cuenta del grupo 7 que corresponda en función de la naturaleza de la transacción.
+
+b) Se abona al cierre del ejercicio con cargo a la cuenta 137. "Ingresos a imputar por concesión de un derecho de uso a entidades concesionarias".
+
 ## 89. GASTOS DE PARTICIPACIONES EN ENTIDADES DEL GRUPO, MULTIGRUPO Y ASOCIADAS CON AJUSTES VALORATIVOS POSITIVOS PREVIOS.
 
 891. Deterioro de participaciones en entidades del grupo, multigrupo y asociadas.
@@ -177,5 +189,9 @@ Su movimiento es el siguiente:
 a) Se cargará, en el momento en que se produzca el deterioro de valor del activo financiero, hasta el límite de los aumentos valorativos previos, con abono a la subcuenta que corresponda de las cuentas 240, «Participaciones a largo plazo en entidades del grupo, multigrupo y asociadas», o 530, «Participaciones a corto plazo en entidades del grupo, multigrupo y asociadas».
 
 b) Se abonarán, al cierre del ejercicio, con cargo a la cuenta 133, «Ajustes por valoración en activos financieros disponibles para la venta».
+
+> Se modifica por el art. 1.dieciocho.20 de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
+
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.
 
 > Se modifica la referencia a la cuenta 530 y las cuentas 840/841/842 por el art. 3.6 y 3.7.l) y m) de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.

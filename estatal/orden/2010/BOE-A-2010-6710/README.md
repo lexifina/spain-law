@@ -52,6 +52,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [20. Actividades conjuntas](A20.md)
 - [21. ](A21.md)
 - [22. ](A22.md)
+- [23. ](A23-2.md)
 - [TERCERA PARTE](tercerapae.md)
 - [1. Normas de elaboración de las cuentas anuales](A1-3.md)
 - [2. Modelos de cuentas anuales](A2-3.md)

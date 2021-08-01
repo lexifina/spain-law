@@ -29,6 +29,13 @@
 |  | 842. Imputación de subvenciones para la financiación de operaciones financieras. |
 |  |  | 8420. De la entidad o entidades propietarias. |
 |  |  | 8421. Del resto de entidades. |
+| 85. IMPUTACIÓN DE OTROS INGRESOS. |
+| --- |
+|  | 850. Imputación de ingresos por concesión de un derecho de uso a entidades concesionarias a resultados del ejercicio. |
 | 89. GASTOS DE PARTICIPACIONES EN ENTIDADES DEL GRUPO, MULTIGRUPO Y ASOCIADAS CON AJUSTES VALORATIVOS POSITIVOS PREVIOS. |
 | --- |
 |  | 891. Deterioro de participaciones en entidades del grupo, multigrupo y asociadas. |
+
+> Se añade el subgrupo 85 y se añaden cuentas por el art. 1.diecisiete de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
+
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.

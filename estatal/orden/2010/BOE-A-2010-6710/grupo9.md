@@ -26,7 +26,14 @@
 |  | 942. Ingresos de subvenciones para la financiación de operaciones financieras. |
 |  |  | 9420. De la entidad o entidades propietarias. |
 |  |  | 9421. Del resto de entidades. |
+| 95. OTROS INGRESOS. |
+| --- |
+|  | 950. Ingresos por concesión de un derecho de uso a entidades concesionarias. |
 | 99. INGRESOS DE PARTICIPACIONES EN EL PATRIMONIO DE ENTIDADES DEL GRUPO, MULTIGRUPO Y ASOCIADAS CON AJUSTES VALORATIVOS NEGATIVOS PREVIOS. |
 | --- |
 |  | 991. Recuperación de ajustes valorativos negativos previos, entidades del grupo, multigrupo y asociadas. |
 |  | 993. Imputación por deterioro de ajustes valorativos negativos previos, entidades del grupo, multigrupo y asociadas. |
+
+> Se añade el subgrupo 95 y se añaden cuentas por el art. 1.diecisiete de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
+
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.

@@ -422,7 +422,7 @@ El movimiento de cada divisionaria es análogo al de su correspondiente division
 
 532. Créditos a corto plazo a entidades del grupo, multigrupo y asociadas.
 
-Inversiones a corto plazo en préstamos y otros créditos, distintos de los que deban figurar en el grupo 4, «Acreedores y deudores», incluidos los derivados de enajenaciones de inmovilizado, concedidos a entidades del grupo, multigrupo y asociadas, así como las subvenciones reintegrables concedidas con vencimiento no superior a un año.
+Inversiones a corto plazo en préstamos y otros créditos, distintos de los que deban figurar en el grupo 4, "Acreedores y deudores", incluidos los derivados de enajenaciones de inmovilizado, concedidos a entidades del grupo, multigrupo y asociadas, con vencimiento no superior a un año.
 
 Su movimiento es análogo al de la cuenta 542, «Créditos a corto plazo», utilizando en la contrapartida las cuentas relativas a entidades del grupo, multigrupo y asociadas.
 
@@ -635,8 +635,6 @@ c) Se cargará o abonará, por las variaciones en su valor razonable, con abono 
 542. Créditos a corto plazo.
 
 Préstamos y otros créditos concedidos a terceros con vencimiento no superior a un año.
-
-Se incluirán las subvenciones reintegrables.
 
 Funcionará a través de sus divisionarias.
 
@@ -864,7 +862,7 @@ Nota: La utilización de esta cuenta es opcional.
 
 Recoge la situación y los movimientos de los fondos librados para pagos a justificar y anticipos de caja fija, a favor de cajeros pagadores integrados orgánicamente en la entidad contable.
 
-Figurará en el activo corriente del balance en el epígrafe III, «Deudores y otras cuentas a cobrar».
+Figurará en el activo corriente del balance en el epígrafe III, "Deudores y otras cuentas a cobrar", excepto la subcuenta 5586 que figurará en el epígrafe IV, "Acreedores y otras cuentas a pagar", del pasivo corriente.
 
 Funcionará a través de sus divisionarias.
 
@@ -1441,6 +1439,10 @@ Su movimiento es análogo al de la cuenta 594, «Deterioro de valor de valores r
 Correcciones valorativas por deterioro del valor de créditos a corto plazo concedidos a entidades que no son del grupo, multigrupo y asociadas.
 
 Su movimiento es análogo al de la cuenta 595, «Deterioro de valor de créditos a corto plazo a entidades del grupo, multigrupo y asociadas», utilizando como contrapartida las subcuentas 6971, «Pérdidas por deterioro de créditos a otras entidades», y 7971, «Reversión del deterioro de créditos a otras entidades».
+
+> Se modifica por el art. 1.dieciocho.14 a 16 de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
+
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.
 
 > Se modifica la cuenta 5581 por el art. único.3.d) de la Orden HFP/1970/2016, de 16 de diciembre. Ref. BOE-A-2016-12431
 

@@ -16,7 +16,7 @@
 | 12. RESULTADOS. |
 |  | 120. Resultados de ejercicios anteriores. |
 |  | 129. Resultado del ejercicio. |
-| 13. SUBVENCIONES Y AJUSTES POR CAMBIO DE VALOR. |
+| 13. SUBVENCIONES, AJUSTES POR CAMBIOS DE VALOR Y OTROS INGRESOS. |
 | --- |
 |  | 130. Subvenciones para la financiación del inmovilizado no financiero y de activos en estado de venta. |
 |  | 131. Subvenciones para la financiación de activos corrientes y gastos. |
@@ -24,6 +24,7 @@
 |  | 133. Ajustes por valoración en activos financieros disponibles para la venta. |
 |  | 134. Ajustes por valoración de instrumentos de cobertura. |
 |  | 136. Ajustes por valoración del inmovilizado no financiero. |
+|  | 137. Ingresos a imputar por concesión de un derecho de uso a entidades concesionarias. |
 | 14. PROVISIONES A LARGO PLAZO. |
 | --- |
 |  | 142. Provisión a largo plazo para responsabilidades. |
@@ -60,9 +61,14 @@
 |  |  | 1761. Pasivos por otros derivados financieros a largo plazo. |
 |  | 177. Intereses a largo plazo de deudas con entidades de crédito. |
 |  | 178. Intereses a largo plazo de otras deudas. |
-| 18. | FIANZAS Y DEPÓSITOS RECIBIDOS A LARGO PLAZO. |
+| 18. | FIANZAS Y DEPÓSITOS RECIBIDOS Y AJUSTES POR PERIODIFICACIÓN A LARGO PLAZO. |
 | --- | --- |
 |  | 180. Fianzas recibidas a largo plazo. |
 |  | 185. Depósitos recibidos a largo plazo. |
+|  | 186. Ingresos anticipados a largo plazo. |
 
 19. SITUACIONES TRANSITORIAS DE FINANCIACION.
+
+> Se modifica la denominación de los subgrupos 13 y 18 y se añaden cuentas, por el art. 1.diecisiete de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
+
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.

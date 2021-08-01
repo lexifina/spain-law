@@ -17,7 +17,7 @@
 |  |  | 7063. Descuentos sobre ventas por pronto pago de subproductos y residuos. |
 |  |  | 7064. Descuentos sobre ventas por pronto pago de envases y embalajes. |
 |  | 707. Ingresos por activos construidos o adquiridos para otras entidades. |
-|  |  | 7070. Ingresos imputados por grado de avance de activos construidos para otras entidades. |
+|  |  | 7070. Ingresos imputados por grado de avance de activos construidos o adquiridos para otras entidades. |
 |  |  | 7071. Ingresos imputados por entregas de activos construidos o adquiridos para otras entidades. |
 |  | 708. Devoluciones de ventas y operaciones similares. |
 |  |  | 7080. Devoluciones de ventas de mercaderías. |
@@ -188,3 +188,7 @@
 |  |  | 7970. Reversión del deterioro de créditos a entidades del grupo, multigrupo y asociadas. |
 |  |  | 7971. Reversión del deterioro de créditos a otras entidades. |
 |  | 799. Reversión del deterioro por el usufructo cedido del inmovilizado material. |
+
+> Se modifica la denominación de la subcuenta 7070 por el art. 1.diecisiete.8 de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
+
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.

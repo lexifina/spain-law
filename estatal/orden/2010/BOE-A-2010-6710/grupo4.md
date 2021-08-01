@@ -10,6 +10,10 @@
 |  |  | 4002. Deudas con entidades del grupo, multigrupo y asociadas. |
 |  |  | 4003. Otras deudas. |
 |  | 401. Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados. |
+|  |  | 4010. Operaciones de gestión. |
+|  |  | 4011. Otras cuentas a pagar. |
+|  |  | 4012. Deudas con entidades del grupo, multigrupo y asociadas. |
+|  |  | 4013. Otras deudas. |
 |  | 405. Acreedores por operaciones comerciales. Presupuesto corriente. |
 |  | 406. Acreedores por operaciones comerciales. Presupuestos cerrados. |
 | 41. ACREEDORES NO PRESUPUESTARIOS. |
@@ -19,6 +23,7 @@
 |  | 412. Acreedores por obligaciones reconocidas. Anticipos de Tesorería. |
 |  | 413. Acreedores por operaciones devengadas. |
 |  | 416. Anticipos para activos construidos o adquiridos para otras entidades. |
+|  | 417. Anticipos de prestación de servicios. |
 |  | 418. Acreedores por devolución de ingresos y otras minoraciones. |
 |  | 419. Otros acreedores no presupuestarios. |
 |  |  | 4190. Acreedores por pagos en firme pendientes de realizar. |
@@ -31,6 +36,10 @@
 |  |  | 4302. Inversiones financieras en entidades del grupo, multigrupo o asociadas. |
 |  |  | 4303. Otras inversiones financieras. |
 |  | 431. Deudores por derechos reconocidos. Presupuestos de ingresos cerrados. |
+|  |  | 4310. Operaciones de gestión. |
+|  |  | 4311. Otras cuentas a cobrar. |
+|  |  | 4312. Inversiones financieras en entidades del grupo, multigrupo y asociadas. |
+|  |  | 4313. Otras inversiones financieras. |
 |  | 433. Derechos anulados de presupuesto corriente. |
 |  |  | 4330. Por anulación de liquidaciones. |
 |  |  | 4332. Por aplazamiento y fraccionamiento. |
@@ -59,7 +68,7 @@
 |  |  | 4432. Inversiones financieras en entidades del grupo, multigrupo y asociadas. |
 |  |  | 4433. Otras inversiones financieras. |
 |  | 445. Impuestos devengados pendientes de liquidar. |
-|  | 446. Deudores por activos construidos para otras entidades pendientes de certificar. |
+|  | 446. Deudores por activos construidos o adquiridos para otras entidades pendientes de imputar al presupuesto. |
 |  | 447. Deudores por provisiones de fondos a justificar |
 |  | 449. Otros deudores no presupuestarios. |
 | 45. DEUDORES Y ACREEDORES POR ADMINISTRACIÓN DE RECURSOS POR CUENTA DE OTROS ENTES PÚBLICOS. |
@@ -118,5 +127,9 @@
 |  |  | 4901. Otras cuentas a cobrar. |
 |  |  | 4902. Inversiones financieras en entidades del grupo, multigrupo y asociadas. |
 |  |  | 4903. Otras inversiones financieras. |
+
+> Se modifica por el art. 1.diecisiete de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
+
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.
 
 > Se suprime la cuenta 411 y se modifica la 413 por el art. único.2 de la Orden HFP/1970/2016, de 16 de diciembre. Ref. BOE-A-2016-12431

@@ -20,6 +20,14 @@ Los activos financieros y los pasivos financieros incluidos en este grupo se cla
 
 401. Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados.
 
+4010. Operaciones de gestión.
+
+4011. Otras cuentas a pagar.
+
+4012. Deudas con entidades del grupo, multigrupo y asociadas.
+
+4013. Otras deudas.
+
 405. Acreedores por operaciones comerciales. Presupuesto corriente.
 
 406. Acreedores por operaciones comerciales. Presupuestos cerrados.
@@ -74,7 +82,9 @@ Su saldo, acreedor, recogerá el importe de obligaciones reconocidas pendientes 
 
 Recoge en 1 de enero el saldo de obligaciones reconocidas con cargo a créditos de presupuestos vigentes en ejercicios anteriores, cuyo pago no ha sido hecho efectivo en 31 de diciembre del precedente.
 
-Figurará en el pasivo corriente del balance, en el epígrafe IV, «Acreedores y otras cuentas a pagar».
+Funcionará a través de sus divisionarias atendiendo al origen o naturaleza de las obligaciones, de acuerdo con lo establecido en las normas de elaboración de las cuentas anuales.
+
+Figurará en el pasivo corriente del balance, en el epígrafe IV, "Acreedores y otras cuentas a pagar", salvo la subcuenta 4012, "Deudas con entidades del grupo, multigrupo y asociadas", que figurará en el epígrafe III, «Deudas con entidades del grupo, multigrupo y asociadas a corto plazo» y la subcuenta 4013, "Otras deudas", que figurará en el epígrafe II, "Deudas a corto plazo".
 
 Su movimiento es el siguiente:
 
@@ -163,6 +173,8 @@ Su saldo, acreedor, representa las obligaciones reconocidas en ejercicios anteri
 413. Acreedores por operaciones pendientes de aplicar a presupuesto.
 
 416. Anticipos para activos construidos o adquiridos para otras entidades.
+
+417. Anticipos de prestación de servicios.
 
 418. Acreedores por devolución de ingresos y otras minoraciones.
 
@@ -262,6 +274,18 @@ b) Se cargará con abono a la subcuenta de la cuenta 707, «Ingresos por activos
 
 Su saldo, acreedor, recogerá los anticipos de fondos pendientes de aplicar a la construcción o adquisición de activos para otras entidades.
 
+417. Anticipos de prestación de servicios.
+
+Recoge los anticipos recibidos a cuenta de la prestación de servicios futura.
+
+Figurará en el pasivo corriente del balance en el epígrafe IV "Acreedores y otras cuentas a pagar".
+
+Su movimiento es el siguiente:
+
+a) Se abonará generalmente por el importe del anticipo recibido con cargo a la cuenta 430, "Deudores por derechos reconocidos. Presupuesto de ingresos corriente".
+
+b) Se cargará cuando se devengue la prestación de servicios con abono generalmente a la cuenta 705, "Prestaciones de servicios".
+
 418. Acreedores por devolución de ingresos y otras minoraciones.
 
 Cuenta acreedora que recoge las obligaciones de pagar cantidades derivadas de ingresos presupuestarios previamente recaudados, como consecuencia de haberse dictado el correspondiente acuerdo de devolución.
@@ -331,6 +355,14 @@ Su saldo, acreedor, recogerá lo pendiente de satisfacer por este concepto.
 4303. Otras inversiones financieras.
 
 431. Deudores por derechos reconocidos. Presupuestos de ingresos cerrados.
+
+4310. Operaciones de gestión.
+
+4311. Otras cuentas a cobrar.
+
+4312. Inversiones financieras en entidades del grupo, multigrupo y asociadas.
+
+4313. Otras inversiones financieras.
 
 433. Derechos anulados de presupuesto corriente.
 
@@ -426,7 +458,9 @@ Su saldo, deudor, recogerá, después de la regularización, el importe de los d
 
 Recoge en 1 de enero el importe de los derechos reconocidos en ejercicios anteriores, cuyo cobro no ha sido hecho efectivo en 31 de diciembre del precedente.
 
-Figurará en el activo corriente del balance, en el epígrafe III, «Deudores y otras cuentas a cobrar».
+Figurará en el activo corriente del balance, en el epígrafe III, "Deudores y otras cuentas a cobrar", salvo la subcuenta 4312, "Inversiones financieras en entidades del grupo, multigrupo y asociadas" que figurará en el epígrafe IV, "Inversiones financieras a corto plazo en entidades del grupo, multigrupo y asociadas", y la subcuenta 4313, "Otras inversiones financieras", que figurará en el epígrafe V, "Inversiones financieras a corto plazo".
+
+Funcionará a través de sus divisionarias, atendiendo al origen o a la naturaleza de los derechos, de acuerdo con lo establecido en las normas de elaboración de las cuentas anuales.
 
 Su movimiento es el siguiente:
 
@@ -628,7 +662,7 @@ Su saldo, acreedor, antes de la regularización, recogerá las cancelaciones en 
 
 445. Impuestos devengados pendientes de liquidar.
 
-446. Deudores por activos construidos para otras entidades pendientes de certificar.
+446. Deudores por activos construidos o adquiridos para otras entidades pendientes de imputar al presupuesto.
 
 447. Deudores por provisiones de fondos a justificar.
 
@@ -720,17 +754,17 @@ a) Se cargará, en el ejercicio de realización del hecho imponible, con abono a
 
 b) Se abonará cuando se dicte el acuerdo de reconocimiento del derecho con cargo a la cuenta 430, «Deudores por derechos reconocidos. Presupuesto de ingresos corriente».
 
-446. Deudores por activos construidos para otras entidades pendientes de certificar.
+446. Deudores por activos construidos o adquiridos para otras entidades pendientes de imputar al presupuesto.
 
-Recoge, cuando la entidad gestiona la construcción de inversiones para otras entidades, y la imputación de los ingresos derivados de la misma se efectúe en función del grado de avance de la construcción, la obra realizada durante un ejercicio y que se encuentra pendiente de certificar y por tanto de imputar al presupuesto de ingresos, al finalizar el mismo.
+Recoge, cuando la entidad gestiona la construcción o la adquisición de inversiones para otras entidades, y la imputación de los ingresos derivados de la misma se efectúe en función del grado de avance de la obra, la obra realizada durante un ejercicio y que se encuentre pendiente de imputar al presupuesto de ingresos al finalizar el mismo.
 
 Figurará en el activo corriente del balance, en el epígrafe III, «Deudores y otras cuentas a cobrar».
 
 Su movimiento es el siguiente:
 
-a) Se cargará, al menos al cierre del ejercicio, por la obra que se ha ejecutado en el mismo y que no ha sido certificada, con abono a la subcuenta 7070, «Ingresos imputados por grado de avance de activos construidos para otras entidades».
+a) Se cargará, al menos al cierre del ejercicio, por la obra que se ha ejecutado en el mismo y que no ha sido imputada a presupuesto, con abono a la subcuenta 7070, «Ingresos imputados por grado de avance de activos construidos o adquiridos para otras entidades».
 
-b) Se abonará, una vez expedida la certificación correspondiente de la obra ejecutada en ejercicios anteriores, con cargo a la cuenta 430, «Deudores por derechos reconocidos. Presupuesto de ingresos corriente».
+b) Se abonará, por el reconocimiento presupuestario de los derechos a cobrar, con cargo a la cuenta 430, «Deudores por derechos reconocidos. Presupuesto de ingresos corriente».
 
 447. Deudores por provisiones de fondos a justificar.
 
@@ -960,11 +994,7 @@ Funcionará a través de sus divisionarias.
 
 Su movimiento es el siguiente:
 
-a) Se abonará con cargo a:
-
-a.1) La cuenta o cuentas de balance representativas del bien o bienes recibidos por cobros en especie.
-
-a.2) La cuenta 452, «Entes Públicos por derechos a cobrar», por la cancelación de derechos por insolvencias y otras causas y por prescripción.
+a) Se abonará con cargo a la cuenta 452, «Entes públicos por derechos a cobrar», por los derechos cancelados.
 
 b) Se cargará, con abono a la cuenta 450, «Deudores por derechos reconocidos de recursos de otros entes públicos», en fin de ejercicio, por la regularización de derechos cancelados en especie, insolvencias y otras causas y prescripción.
 
@@ -1287,6 +1317,10 @@ b) Se cargará, igualmente al final del ejercicio, por la dotación realizada al
 a) Se abonará, a lo largo del ejercicio, por el importe de los riesgos que se vayan estimando, con cargo a la cuenta 697, «Pérdidas por deterioro de créditos», a través de la subcuenta que corresponda.
 
 b) Se cargará a medida que se vayan dando de baja los saldos de deudores para los que se dotó la cuenta correctora de forma individualizada o cuando desaparezca el riesgo, por el importe de la misma, con abono a la cuenta 797, «Reversión del deterioro de créditos», a través de la subcuenta que corresponda.
+
+> Se modifica por el art. 1.dieciocho.7 a 13 de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
+
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.
 
 > Se modifican las cuentas 400 y 413 y se suprime la 411 por el art. único.3.a) a c) de la Orden HFP/1970/2016, de 16 de diciembre. Ref. BOE-A-2016-12431
 

@@ -38,7 +38,7 @@ Las anulaciones de derechos de cobro presupuestarios con origen en ingresos reco
 
 707. Ingresos por activos construidos o adquiridos para otras entidades.
 
-7070. Ingresos imputados por grado de avance de activos construidos para otras entidades.
+7070. Ingresos imputados por grado de avance de activos construidos o adquiridos para otras entidades.
 
 7071. Ingresos imputados por entregas de activos construidos o adquiridos para otras entidades.
 
@@ -96,9 +96,9 @@ Funcionará a través de sus divisionarias.
 
 El contenido y movimiento de las subcuentas que comprende es el siguiente:
 
-7070. Ingresos imputados por grado de avance de activos construidos para otras entidades.
+7070. Ingresos imputados por grado de avance de activos construidos o adquiridos para otras entidades.
 
-Recoge los ingresos derivados de la construcción de activos para otras entidades cuando su imputación a la cuenta del resultado económico patrimonial se efectúe en función del grado de avance de la misma.
+Recoge los ingresos derivados de la construcción o adquisición de activos para otras entidades cuando su imputación a la cuenta del resultado económico patrimonial se efectúe en función del grado de avance de la misma.
 
 Se abonará por los ingresos relacionados con el contrato con cargo a la cuenta 430, «Deudores por derechos reconocidos. Presupuesto de ingresos corriente», la cuenta 446, «Deudores por activos construidos para otras entidades pendientes de certificar», o la cuenta 416, «Anticipos para activos construidos o adquiridos para otras entidades», según proceda, al menos al final de cada ejercicio.
 
@@ -318,19 +318,19 @@ Las cuentas de este subgrupo funcionarán a través de sus divisionarias.
 
 750. Transferencias.
 
-Fondos o bienes recibidos por la entidad, sin contraprestación directa por su parte, destinándose a financiar operaciones o actividades no singularizadas.
+Fondos recibidos por la entidad, sin contraprestación directa por su parte, destinándose a financiar operaciones o actividades no singularizadas.
 
-Se abonará con cargo a:
-
-a.1) Generalmente, la cuenta 430, «Deudores por derechos reconocidos. Presupuesto de ingresos corriente», en el momento que la transferencia sea vencida, líquida y exigible.
-
-a.2) La cuenta que corresponda según la naturaleza del bien que se reciba, en el caso de transferencias en especie.
+Se abonará con cargo, generalmente, a la cuenta 430. "Deudores por derechos reconocidos. Presupuesto de ingresos corriente", en el momento en el que la transferencia sea vencida, líquida y exigible.
 
 751. Subvenciones para gastos no financieros del ejercicio.
 
 Fondos o bienes recibidos por la entidad para financiar operaciones corrientes concretas y específicas devengadas en el ejercicio. Dentro de ellas se incluyen las subvenciones concedidas a la entidad para asegurar una rentabilidad mínima o para financiar gastos del ejercicio.
 
-Su movimiento es análogo al señalado para la cuenta 750, «Transferencias».
+Se abonará con cargo a:
+
+a.1) Generalmente, la cuenta 430. "Deudores por derechos reconocidos. Presupuesto de ingresos corriente", en el momento que la subvención sea vencida, líquida y exigible.
+
+a.2) La cuenta que corresponda según la naturaleza del bien que se reciba, en el caso de subvención en especie.
 
 752. Subvenciones para la cancelación de deudas genéricas.
 
@@ -817,6 +817,10 @@ Cuando se utilice la alternativa segunda prevista en la cuenta 490, la definici�
 Corrección valorativa, por la recuperación de valor del inmovilizado cedido en uso.
 
 Se abonará con cargo a la cuenta 299, «Deterioro de valor por usufructo cedido del inmovilizado material», cuando el importe recuperable del inmovilizado cedido en uso sea superior al valor contable con el límite del valor contable si no hubiera habido deterioro.
+
+> Se modifica por el art. 1.dieciocho.17 a 19 de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
+
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.
 
 > Se modifican las cuentas 760 y 761 por el art. 3.7.j) y k) de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
 

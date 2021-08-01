@@ -112,6 +112,8 @@ b.2) La cuenta 120, «Resultados de ejercicios anteriores», por el traspaso del
 
 136. Ajustes por valoración del inmovilizado no financiero.
 
+137. Ingresos a imputar por concesión de un derecho de uso a entidades concesionarias.
+
 Subvenciones recibidas no reintegrables, y otros ingresos y gastos contabilizados directamente en el patrimonio neto, hasta que, de conformidad con lo previsto en las normas de reconocimiento y valoración, se produzca, en su caso, su traspaso o imputación a la cuenta del resultado económico patrimonial.
 
 130. Subvenciones para la financiación del inmovilizado no financiero y de activos en estado de venta.
@@ -211,6 +213,18 @@ b.1) Por las variaciones negativas del valor razonable, al reducirse el valor co
 b.2) Por la dotación a la amortización del elemento patrimonial, en su caso, por el importe que corresponda a la depreciación del exceso del valor contable del bien sobre su valor según el modelo del coste, con abono a la cuenta 821, «Ajustes negativos en la valoración del inmovilizado no financiero por amortizaciones».
 
 b.3) Con motivo de la baja del activo, enajenación, o su disposición por otra vía con abono a la cuenta 822, «Ajustes negativos en la valoración del inmovilizado no financiero por pérdidas de valor en bajas», por las disminuciones del valor razonable sobre el valor contable, en dicho momento, o a la cuenta 823, «Imputación de beneficios en la valoración del inmovilizado no financiero», por los beneficios imputados a la cuenta del resultado económico patrimonial.
+
+137. Ingresos a imputar por concesión de un derecho de uso a entidades concesionarias.
+
+Los derivados como consecuencia de la incorporación en la entidad concedente de los activos de concesión construidos, adquiridos o mejorados por las entidades concesionarias cuando se conceda a las mismas para su contraprestación el derecho a obtener ingresos de terceros por su uso, de acuerdo con los criterios establecidos en la norma de reconocimiento y valoración n.º 21 "Acuerdos de concesión".
+
+Figurará en el patrimonio neto del balance en el epígrafe IV, "Otros incrementos patrimoniales pendientes de imputación a resultados".
+
+Su movimiento es el siguiente:
+
+a) Se abona al cierre del ejercicio, por la incorporación del activo de concesión construido, adquirido o mejorado por la entidad concesionaria con cargo a la cuenta 950. "Ingresos por concesión de un derecho de uso a entidades concesionarias".
+
+b) Se carga al cierre del ejercicio, por la imputación a la cuenta del resultado económico patrimonial del ingreso devengado en el ejercicio con abono a la cuenta 850. "Imputación de ingresos por concesión de derechos de uso a entidades concesionarias a resultados del ejercicio".
 
 ## 14. PROVISIONES A LARGO PLAZO.
 
@@ -584,6 +598,8 @@ Su movimiento es análogo al señalado para la cuenta 177, utilizando como contr
 
 185. Depósitos recibidos a largo plazo.
 
+186. Ingresos anticipados a largo plazo.
+
 Las cuentas de este subgrupo figurarán en el pasivo no corriente del balance, en el epígrafe II, «Deudas a largo plazo».
 
 La parte de fianzas y depósitos recibidos a largo plazo que tenga vencimiento a corto deberá figurar en el pasivo corriente del balance en el epígrafe II, «Deudas a corto plazo»; a estos efectos se traspasará el importe que representen las fianzas y depósitos recibidos a largo plazo con vencimiento a corto a las cuentas correspondientes del subgrupo 56, «Fianzas y depósitos recibidos y constituidos a corto plazo y ajustes por periodificación».
@@ -612,6 +628,22 @@ a) Se abonará, a la constitución, por el importe recibido, con cargo a la cuen
 
 b) Se cargará, a la cancelación anticipada, con abono a la cuenta 400, «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», o a cuentas del subgrupo 57, «Efectivo y activos líquidos equivalentes», según proceda.
 
+186. Ingresos anticipados a largo plazo.
+
+Ingresos contabilizados cuyo devengo se producirá en ejercicios posteriores al de su registro.
+
+Figurará en el pasivo no corriente del balance, en el epígrafe V, "Ajustes por periodificación a largo plazo".
+
+Su movimiento es el siguiente:
+
+a) Se abonará con cargo, generalmente, a la cuenta representativa del activo recibido como contraprestación al ingreso cuyo devengo no se ha producido, en el ejercicio en el que se cumplan los requisitos para el reconocimiento de dicho activo.
+
+b) Se cargará con abono a la cuenta 485, "Ingresos anticipados", por el traspaso al corto plazo del importe del ingreso recibido de forma anticipada, cuyo devengo vaya a producirse en el corto plazo.
+
 ## 19. SITUACIONES TRANSITORIAS DE FINANCIACIÓN.
 
 Recoge información referente a las posibles situaciones intermedias derivadas de la emisión y amortización de obligaciones y bonos.
+
+> Se añaden las cuentas 137 y 186 por el art. 1.dieciocho.1 y 2 de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
+
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.

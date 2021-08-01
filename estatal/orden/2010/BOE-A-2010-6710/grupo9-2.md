@@ -114,7 +114,9 @@ b) Se cargará, al cierre del ejercicio, con abono a la cuenta 136, «Ajustes po
 
 940/941/942 Ingresos de subvenciones para…
 
-Subvenciones recibidas en un ejercicio y no imputadas al resultado económico patrimonial del mismo, de acuerdo con lo establecido en la norma de reconocimiento y valoración n.º 18, «Transferencias y subvenciones».
+Subvenciones recibidas en un ejercicio no imputadas al resultado económico patrimonial del mismo, de acuerdo con lo establecido en la norma de reconocimiento y valoración 18.ª, "Transferencias y subvenciones".
+
+Se incluirán también las transferencias en especie recibidas, de acuerdo con lo establecido en la misma norma de reconocimiento y valoración.
 
 Funcionarán a través de sus divisionarias
 
@@ -123,6 +125,18 @@ Su movimiento es el siguiente:
 a) Se abonarán por la subvención recibida con cargo, generalmente, a la cuenta 430, «Deudores por derechos reconocidos: presupuesto de ingresos corriente», o la cuenta que corresponda, si la subvención fuera en especie, o en su caso, a la cuenta 172, «Deudas a largo plazo transformables en subvenciones», o a la cuenta 522, «Deudas a corto plazo transformables en subvenciones» o a la cuenta 165, «Deudas a largo plazo transformables en subvenciones con entidades del grupo, multigrupo y asociadas» o a la cuenta 515, «Deudas a corto plazo transformables en subvenciones con entidades del grupo, multigrupo y asociadas».
 
 b) Se cargarán, al cierre del ejercicio, con abono a la correlativa cuenta del subgrupo 13, «Subvenciones y ajustes por cambio de valor».
+
+## 95. OTROS INGRESOS.
+
+950. Ingresos por concesión de un derecho de uso a entidades concesionarias a resultados del ejercicio.
+
+Cuenta de contrapartida del alta en la entidad concedente de los activos de concesión construidos, adquiridos o mejorados por las entidades concesionarias cuando se concede a las mismas para su contraprestación el derecho a obtener ingresos de terceros por su uso.
+
+Su movimiento es el siguiente:
+
+a) Se abona con cargo a la cuenta representativa del activo de concesión, construido, adquirido o mejorado por la entidad concesionaria, por su valor razonable.
+
+b) Se carga al cierre del ejercicio con abono a la cuenta 137. "Ingresos a imputar por concesión de un derecho de uso a entidades concesionarias".
 
 ## 99. INGRESOS DE PARTICIPACIONES EN EL PATRIMONIO DE ENTIDADES DEL GRUPO, MULTIGRUPO Y ASOCIADAS CON AJUSTES VALORATIVOS NEGATIVOS PREVIOS.
 
@@ -147,5 +161,9 @@ Su movimiento es el siguiente:
 a) Se abonará en el momento en que se produzca el deterioro del activo financiero, por los ajustes valorativos negativos previos con cargo a la divisionaria correspondiente de la subcuenta 6961, «Pérdidas por deterioro de participaciones en sociedades del grupo, multigrupo y asociadas».
 
 b) Se cargará, al cierre del ejercicio, con abono a la cuenta 133, «Ajustes por valoración en activos financieros disponibles para la venta».
+
+> Se modifica por el art. 1.dieciocho.21 y 22 de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
+
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.
 
 > Se modifica la referencia a la cuenta 530 por el art. 3.6 de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.
