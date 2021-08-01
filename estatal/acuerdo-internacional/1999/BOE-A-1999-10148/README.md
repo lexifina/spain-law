@@ -11,6 +11,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 ## Bloques
 
 - [no](no.md)
+- [pr-3](pr-3.md)
+- [Artículo 21](a2-3.md)
 - [Artículo 22](a2-4.md)
 - [Artículo 23](a2-5.md)
 - [Artículo 24](a2-6.md)
@@ -19,6 +21,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 27](a2-9.md)
 - [Artículo 28](a2-10.md)
 - [Artículo 29](a2-11.md)
+- [Artículo 30](a3-2.md)
 - [Artículo 31](a3-3.md)
 - [Artículo 32](a3-4.md)
 - [Artículo 35](a3-7.md)
