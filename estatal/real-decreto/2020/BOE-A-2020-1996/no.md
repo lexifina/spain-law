@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 46, de 22 de febrero de 2020. Ref. BOE-A-2020-2562
+Norma derogada, con efectos de 4 de agosto de 2021, por la disposición derogatoria única del Real Decreto 683/2021, de 3 de agosto. Ref. BOE-A-2021-13261#dd
