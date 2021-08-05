@@ -2,89 +2,91 @@
 
 ## Relación de especialidades en Ciencias de la Salud por el sistema de residencia
 
-1. Especialidades médicas para cuyo acceso se exige estar en posesión de un título universitario oficial que habilite para el ejercicio en España de la profesión de Médico:
+1. Especialidades médicas para cuyo acceso se exige estar en posesión de un título universitario oficial que habilite para el ejercicio en España de la profesión de médico:
 
-Alergología.
+– Alergología.
 
-Anatomía Patológica.
+– Anatomía Patológica.
 
-Anestesiología y Reanimación.
+– Anestesiología y Reanimación.
 
-Angiología y Cirugía Vascular.
+– Angiología y Cirugía Vascular.
 
-Aparato Digestivo.
+– Aparato Digestivo.
 
-Cardiología.
+– Cardiología.
 
-Cirugía Cardiovascular.
+– Cirugía Cardiovascular.
 
-Cirugía General y del Aparato Digestivo.
+– Cirugía General y del Aparato Digestivo.
 
-Cirugía Oral y Maxilofacial.
+– Cirugía Oral y Maxilofacial.
 
-Cirugía Ortopédica y Traumatología.
+– Cirugía Ortopédica y Traumatología.
 
-Cirugía Pediátrica.
+– Cirugía Pediátrica.
 
-Cirugía Plástica, Estética y Reparadora.
+– Cirugía Plástica, Estética y Reparadora.
 
-Cirugía Torácica.
+– Cirugía Torácica.
 
-Dermatología Médico-Quirúrgica y Venereología.
+– Dermatología Médico-Quirúrgica y Venereología.
 
-Endocrinología y Nutrición.
+– Endocrinología y Nutrición.
 
-Farmacología Clínica.
+– Farmacología Clínica.
 
-Geriatría.
+– Geriatría.
 
-Hematología y Hemoterapia.
+– Hematología y Hemoterapia.
 
-Medicina del Trabajo.
+– Medicina del Trabajo.
 
-Medicina Familiar y Comunitaria.
+– Medicina Familiar y Comunitaria.
 
-Medicina Física y Rehabilitación.
+– Medicina Física y Rehabilitación.
 
-Medicina Intensiva.
+– Medicina Intensiva.
 
-Medicina Interna.
+– Medicina Interna.
 
-Medicina Legal y Forense.
+– Medicina Legal y Forense.
 
-Medicina Nuclear.
+– Medicina Nuclear.
 
-Medicina Preventiva y Salud Pública.
+– Medicina Preventiva y Salud Pública.
 
-Nefrología.
+– Nefrología.
 
-Neumología.
+– Neumología.
 
-Neurocirugía.
+– Neurocirugía.
 
-Neurofisiología Clínica.
+– Neurofisiología Clínica.
 
-Neurología.
+– Neurología.
 
-Obstetricia y Ginecología.
+– Obstetricia y Ginecología.
 
-Oftalmología.
+– Oftalmología.
 
-Oncología Médica.
+– Oncología Médica.
 
-Oncología Radioterápica.
+– Oncología Radioterápica.
 
-Otorrinolaringología.
+– Otorrinolaringología.
 
-Pediatría y sus Áreas Específicas.
+– Pediatría y sus Áreas Específicas.
 
-Psiquiatría.
+– Psiquiatría.
 
-Radiodiagnóstico.
+– Psiquiatría Infantil y de la Adolescencia.
 
-Reumatología.
+– Radiodiagnóstico.
 
-Urología.
+– Reumatología.
+
+– Urología.
 
 2. Especializaciones farmacéuticas para cuyo acceso se exige estar en posesión de un título universitario oficial que habilite para el ejercicio en España de la profesión de farmacéutico:
 
@@ -123,6 +125,8 @@ Microbiología y Parasitología: Biología, Bioquímica, Farmacia, Medicina o Qu
 Radiofarmacia: Biología, Bioquímica, Farmacia o Química.
 
 Radiofísica Hospitalaria: Física y otras disciplinas científicas y tecnológicas.
+
+> Se modifica el apartado 1 por la disposición final 1.1 del Real Decreto 689/2021, de 3 de agosto. Ref. BOE-A-2021-13266
 
 > Se modifica el apartado 1 por la disposición final 5.2 del Real Decreto 704/2020, de 28 de julio. Ref. BOE-A-2020-8682#df-5
 
