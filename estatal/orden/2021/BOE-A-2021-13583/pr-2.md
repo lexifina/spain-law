@@ -1,0 +1,3 @@
+## Primero. Prórroga de la Orden SND/791/2021, de 23 de julio, sobre las condiciones de cuarentena a las que deben someterse las personas procedentes de países de alto riesgo a su llegada a España, durante la situación de crisis sanitaria ocasionada por el COVID-19.
+
+Se prorroga la eficacia de las previsiones contenidas en la Orden SND/791/2021, de 23 de julio, sobre las condiciones de cuarentena a las que deben someterse las personas procedentes de países de alto riesgo a su llegada a España, durante la situación de crisis sanitaria ocasionada por el COVID-19, desde las 00:00 horas del 10 de agosto de 2021 hasta las 24:00 horas del 23 de agosto de 2021.

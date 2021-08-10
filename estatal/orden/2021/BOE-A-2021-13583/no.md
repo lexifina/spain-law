@@ -1,0 +1,1 @@
+Téngase en cuenta que la presente Orden prorrogaba la eficacia de las previsiones contenidas en la Orden SND/791/2021, de 23 de julio, hasta las 24:00 horas del 23 de agosto de 2021, por lo que debe entenderse que ha perdido su vigencia.
