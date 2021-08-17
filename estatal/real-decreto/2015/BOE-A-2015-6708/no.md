@@ -1,0 +1,1 @@
+Norma derogada, salvo las disposiciones finales 2 y 3, con efectos desde el 17 de agosto de 2021, por la disposición derogatoria única.2 del Real Decreto 640/2021, de 27 de julio. Ref. BOE-A-2021-12613#dd
