@@ -1,0 +1,3 @@
+## Disposición final sexta. Adaptación del Reglamento de Régimen interior del Consejo Español de Drogodependencias y otras Adicciones, aprobado el día 13 de noviembre de 2017.
+
+Dentro del plazo máximo de un año, contado desde el día de la entrada en vigor de este real decreto, el Consejo Español de Drogodependencias y otras Adicciones deberá aprobar las modificaciones de su Reglamento de Régimen Interior, aprobado el día 13 de noviembre de 2017, que considere necesarias para adaptarlo a las reformas de los artículos 7 y 8 del Real Decreto 1113/2015, de 11 de diciembre, llevadas a cabo en la disposición final tercera de esta norma.
