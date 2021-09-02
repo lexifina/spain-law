@@ -20,15 +20,7 @@
 
 5.1 Para la obtención de aceite de oliva virgen:
 
-a) Lavado y molturación de la aceituna.
-
-b) Batido y calentamiento de la masa sin sobrepasar los 30º C en el sistema de presión y los 65º C en el sistema de centrifugación.
-
-c) Presión o centrifugación.
-
-d) Clarificación por un proceso mecánico de sedimentación, centrifugación o filtración.
-
-En las plantas de envasado del aceite de oliva virgen podrán llevarse a cabo las operaciones de filtración, en los términos establecidos en la presente Reglamentación, mediante las prácticas, métodos y coadyuvantes autorizados a tal efecto.
+(Derogado)
 
 5.2 Para la extracción de aceite de orujo y de semillas oleaginosas:
 
@@ -60,7 +52,7 @@ f) La winterización o desmarganirización por enfriamiento a bajas temperaturas
 
 En las industrias a que se refiere la presente Reglamentación queda prohibida:
 
-6.1 La extracción o refinación de aceites de oliva, orujo o de semillas por procedimientos distintos de los autorizados.
+6.1 La extracción o refinación de los aceites regulados en la presente norma por procedimientos distintos de los autorizados.
 
 6.2 La realización de procesos de esterificación.
 
@@ -78,11 +70,13 @@ En las industrias a que se refiere la presente Reglamentación queda prohibida:
 
 6.7 La mezcla de aceites, salvo en los casos en que esté expresamente autorizado por la presente Reglamentación y en concreto:
 
-a) La mezcla de aceite de oliva o de orujo con los de semillas o con cualquier otro aceite o grasa.
+a) (Derogada)
 
 b) La adicción a los aceites destinados para el consumo humano, de aceites minerales, esterificados o de síntesis.
 
 c) (Derogada)
+
+> Se derogan los apartados 5.1 y 6.7.a) y se modifica el 6.1 por la disposición derogatoria única.b) y la disposición final 3.2 del Real Decreto 760/2021, de 31 de agosto. Ref. BOE-A-2021-14318#dd
 
 > Se derogan los apartados 1 a 4 por el art. 20 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402.
 
