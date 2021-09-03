@@ -18,7 +18,7 @@ La ley aplicable al contenido de la filiación, por naturaleza o por adopción, 
 
 6. La ley aplicable a la protección de menores se determinará de acuerdo con el Convenio de La Haya, de 19 de octubre de 1996, a que se hace referencia en el apartado 4 de este artículo.
 
-La ley aplicable a la protección de las personas mayores de edad se determinará por la ley de su residencia habitual. En el caso de cambio de la residencia a otro Estado, se aplicará la ley de la nueva residencia habitual, sin perjuicio del reconocimiento en España de las medidas de protección acordadas en otros Estados. Será de aplicación, sin embargo, la ley española para la adopción de medidas provisionales o urgentes de protección.
+La ley aplicable a las medidas de apoyo para personas con discapacidad será la de su residencia habitual. En el caso de cambio de residencia a otro Estado, se aplicará la ley de la nueva residencia habitual, sin perjuicio del reconocimiento en España de las medidas de apoyo acordadas en otros Estados. Será de aplicación, sin embargo, la ley española para la adopción de medidas de apoyo provisionales o urgentes.
 
 7. La ley aplicable a las obligaciones de alimentos entre parientes se determinará de acuerdo con el Protocolo de La Haya, de 23 de noviembre de 2007, sobre la ley aplicable a las obligaciones alimenticias o texto legal que lo sustituya.
 
@@ -33,6 +33,8 @@ Prevalecerá en todo caso la nacionalidad española del que ostente además otra
 11. La ley personal correspondiente a las personas jurídicas es la determinada por su nacionalidad, y regirá en todo lo relativo a capacidad, constitución, representación, funcionamiento, transformación, disolución y extinción.
 
 En la fusión de sociedades de distinta nacionalidad se tendrán en cuenta las respectivas leyes personales.
+
+> Se modifica el segundo párrafo del apartado 6, con efectos de 3 de septiembre de 2021, por el art. 2.1 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as
 
 > Se modifican los apartados 4, 6 y 7 por el art. 2.1 de la Ley 26/2015, de 28 de julio. Ref. BOE-A-2015-8470#asegundo.
 

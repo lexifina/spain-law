@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Sustituciones realizadas en virtud del artículo 776 del Código Civil.
+
+Cuando se hubiera nombrado sustituto en virtud del artículo 776 del Código Civil, en el caso de que la persona sustituida hubiera fallecido con posterioridad a la entrada en vigor de la presente Ley, se aplicará lo previsto en esta y, en consecuencia, la sustitución dejará de ser ejemplar, sin que pueda suplir el testamento de la persona sustituida. No obstante, la sustitución se entenderá como una sustitución fideicomisaria de residuo en cuanto a los bienes que el sustituyente hubiera transmitido a título gratuito a la persona sustituida.

@@ -20,7 +20,7 @@ No obstante lo dispuesto en el párrafo anterior, a falta de sometimiento expres
 
 7. Las donaciones se regirán, en todo caso, por la, ley nacional del donante.
 
-8. Serán válidos, a efectos del ordenamiento jurídico español, los contratos onerosos celebrados en España por extranjero incapaz según su ley nacional, si la causa de la incapacidad no estuviese reconocida en la legislación española. Esta regla no se aplicará a los contratos relativos a inmuebles situados en el extranjero.
+8. En los contratos celebrados entre personas que se encuentren en España, las personas físicas que gocen de capacidad de conformidad con la ley española solo podrán invocar su discapacidad resultante de la ley de otro país si, en el momento de la celebración del contrato, la otra parte hubiera conocido tal discapacidad o la hubiera ignorado en virtud de negligencia por su parte.
 
 9. Las obligaciones no contractuales se regirán por la ley del lugar donde hubiere ocurrido el hecho de que deriven.
 
@@ -31,5 +31,7 @@ En el enriquecimiento sin causa se aplicará la ley en virtud de la cual se prod
 10. La ley reguladora de una obligación se extiende a los requisitos del cumplimiento y a las consecuencias del incumplimiento, así como a su extinción. Sin embargo, se aplicará la ley del lugar de cumplimiento a las modalidades de la ejecución que requieran intervención judicial o administrativa.
 
 11. A la representación legal se aplicará la ley reguladora de la relación jurídica de la que nacen las facultades del representante, y a la voluntaria, de no mediar sometimiento expreso, la ley del país en donde se ejerciten las facultades conferidas.
+
+> Se modifica el apartado 8, con efectos de 3 de septiembre de 2021, por el art. 2.2 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as
 
 > Se modifica por el Decreto 1836/1974, de 31 de mayo. Ref. BOE-A-1974-1083.

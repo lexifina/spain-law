@@ -8,7 +8,7 @@ a) El que haya nacido en territorio español.
 
 b) El que no haya ejercitado oportunamente la facultad de optar.
 
-c) El que haya estado sujeto legalmente a la tutela, guarda o acogimiento de un ciudadano o institución españoles durante dos años consecutivos, incluso si continuare en esta situación en el momento de la solicitud.
+c) El que haya estado sujeto legalmente a la tutela, curatela con facultades de representación plena, guarda o acogimiento de un ciudadano o institución españoles durante dos años consecutivos, incluso si continuare en esta situación en el momento de la solicitud.
 
 d) El que al tiempo de la solicitud llevare un año casado con español o española y no estuviere separado legalmente o de hecho.
 
@@ -23,6 +23,8 @@ A los efectos de lo previsto en el párrafo d) del apartado anterior, se entende
 4. El interesado deberá justificar, en el expediente regulado por la legislación del Registro Civil, buena conducta cívica y suficiente grado de integración en la sociedad española.
 
 5. La concesión o denegación de la nacionalidad por residencia deja a salvo la vía judicial contencioso-administrativa.
+
+> Se modifica la letra c) del apartado 2, con efectos de 3 de septiembre de 2021, por el art. 2.6 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as
 
 > Se modifica por el art. único de la Ley 36/2002, de 8 de octubre. Ref. BOE-A-2002-19484.
 

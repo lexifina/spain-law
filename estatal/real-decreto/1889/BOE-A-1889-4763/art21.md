@@ -10,13 +10,15 @@ a) El interesado emancipado o mayor de dieciocho años.
 
 b) El mayor de catorce años asistido por su representante legal.
 
-c) El representante legal del menor de catorce años.
+c) El representante legal del menor de catorce años. En caso de discrepancia entre los representantes legales sobre la solicitud de nacionalidad por residencia, se tramitará el expediente de jurisdicción voluntaria previsto al efecto.
 
-d) El representante legal del incapacitado o el incapacitado, por si solo o debidamente asistido, según resulte de la sentencia de incapacitación.
+d) El interesado con discapacidad con los apoyos y ajustes de procedimiento que, en su caso, precise.
 
 En este caso y en el anterior, el representante legal sólo podrá formular la solicitud si previamente ha obtenido autorización conforme a lo previsto en la letra a) del apartado 2 del artículo anterior.
 
 4. Las concesiones por carta de naturaleza o por residencia caducan a los ciento ochenta días siguientes a su notificación, si en este plazo no comparece el interesado ante funcionario competente para cumplir los requisitos del artículo 23.
+
+> Se modifican las letras c) y d) del apartado 3, con efectos de 3 de septiembre de 2021, por el art. 2.5 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#as
 
 > Se modifica por el art. único de la Ley 18/1990, de 17 de diciembre. Ref. BOE-A-1990-30520.
 

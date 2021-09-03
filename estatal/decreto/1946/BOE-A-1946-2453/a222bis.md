@@ -20,8 +20,16 @@ b) Libro, asiento, tomo y folio registral.
 
 c) Referencia catastral, cuando constare en el Registro.
 
-Cuando la consulta se refiera a las fichas del Índice de Personas se harán constar solamente las circunstancias de la letra a) anterior. Lo mismo se observará respecto del Libro de Incapacitados.
+Cuando la consulta se refiera a las fichas del Índice de Personas se harán constar solamente las circunstancias de la letra a) anterior. Lo mismo se observará respecto del Libro sobre administración y disposición de bienes inmuebles.
+
+> Téngase en cuenta que esta modificación del último párrafo del apartado 5, establecida por el art. 3.8 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#at, entra en vigor el 3 de septiembre de 2021, según determina su disposición final 3.
+
+> Redacción anterior:
+
+> "Cuando la consulta se refiera a las fichas del Índice de Personas se harán constar solamente las circunstancias de la letra a) anterior. Lo mismo se observará respecto del Libro de Incapacitados."
 
 6. Las notificaciones a que se refiere este artículo entre el registrador y el solicitante se realizarán en la dirección de correo electrónico que designe éste y deberán contar con la firma electrónica reconocida del registrador.
+
+> Se modifica el último párrafo el apartado 5, con efectos desde el 3 de septiembre de 2021, por el art. 3.8 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#at
 
 > Se añade por el art. 28.2 de la Ley 24/2005, de 18 de noviembre. Ref. BOE-A-2005-19005.

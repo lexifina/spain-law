@@ -1,6 +1,8 @@
 ## Artículo 299 bis.
 
-Cuando se tenga conocimiento de que una persona debe ser sometida a tutela o curatela y en tanto no recaiga resolución judicial que ponga fin al procedimiento, asumirá su representación y defensa el Ministerio Fiscal. En tal caso, cuando además del cuidado de la persona hubiera de procederse al de los bienes, el Secretario judicial podrá designar un defensor judicial que administre los mismos, quien deberá rendirle cuentas de su gestión una vez concluida.
+(Derogado)
+
+> Se deroga, con efectos de 3 de septiembre de 2021, por la disposición derogatoria única.3 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#dd
 
 > Se modifica por la disposición final 1.52 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfprimera.
 

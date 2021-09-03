@@ -282,6 +282,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 240](a240.md)
 - [Artículo 241](a241.md)
 - [Artículo 242](a242.md)
+- [Artículo 242 bis](a2-2.md)
 - [Artículo 243](a243.md)
 - [Artículo 244](a244.md)
 - [Artículo 245](a245.md)
