@@ -28,45 +28,27 @@
 
 | POSIC | TIPO | DESCRIPCIÓN |
 | --- | --- | --- |
-| 1-1 | NUM. | TIPO DE REGISTRO 1 = CABECERA ENTIDAD TRANSMISORA |
+| 1-1 | NUM. | TIPO DE REGISTRO 1 = CABECERA ENTIDAD TRANSMISORA. |
 | 2-5 | NUM. | CÓDIGO DE ENTIDAD TRANSMISORA. |
-| 6-6 | ALF. | TIPO DE PRESENTACIÓN |
-|  |  | "I" = INGRESOS. |
-|  |  | "A" = ANULACIONES |
-| 7-7 | ALF. | TIPO DE INGRESOS |
-|  |  | "A" = AUTOLIQUIDACIONES |
-|  |  | "E" = AUTOLIQUIDACIONES ESPECIALES |
-|  |  | "L" = LIQUIDACIONES |
-|  |  | “T” = TASAS DEL TESORO |
-|  |  | “Z” = TASAS DE ORGANISMOS AUTÓNOMOS |
-|  |  | "G” = NRC´S» |
-| 8-15 | NUM. | NÚMERO DE QUINCENA (AAAA MM QQ) |
-|  |  | • AAAAMM01 para las quincenas que finalicen el 5 del mes |
-|  |  | • AAAAMM02 para las quincenas que finalicen el 20 del mes |
-| 16-17 | NUM. | DELEGACIÓN AEAT (PRESENTACIÓN CENTRALIZADA = 57) |
-| 18-90 | ALF. | FILLER (A BLANCOS) |
+| 6-6 | ALF. | TIPO DE PRESENTACIÓN ("I" = INGRESOS). |
+| 7-7 | ALF. | TIPO DE INGRESOS. "A" = AUTOLIQUIDACIONES. "E"= AUTOLIQUIDACIONES ESPECIALES. "L" = LIQUIDACIONES. "T" = TASAS DEL TESORO. "Z"= TASAS DE ORGANISMOS AUTÓNOMOS. |
+| 8-15 | NUM. | NÚMERO DE QUINCENA (AAAA MM QQ). AAAAMM01 para las quincenas que finalicen el 5 del mes. AAAAMM02 para las quincenas que finalicen el 20 del mes. |
+| 16-17 | NUM. | DELEGACION AEAT (PRESENTACION CENTRALIZADA = 57). |
+| 18-90 | ALF. | FILLER (A BLANCOS). |
 
 2.2 DISEÑO DEL REGISTRO DE CABECERA DE ENTIDAD COLABORADORA (TIPO-2)
 
 | POSIC | TIPO | DESCRIPCIÓN |
 | --- | --- | --- |
-| 1-1 | NUM. | TIPO DE REGISTRO 2 = CABECERA ENTIDAD COLABORADORA |
+| 1-1 | NUM. | TIPO DE REGISTRO 2 = CABECERA ENTIDAD COLABORADORA. |
 | 2-5 | NUM. | CÓDIGO DE ENTIDAD COLABORADORA. |
-| 6-6 | ALF. | TIPO DE PRESENTACIÓN |
-|  |  | "I" = INGRESOS. |
-|  |  | "A" = ANULACIONES |
-| 7-7 | ALF. | TIPO DE INGRESOS |
-|  |  | "A" = AUTOLIQUIDACIONES |
-|  |  | "E" = AUTOLIQUIDACIONES ESPECIALES |
-|  |  | "L" = LIQUIDACIONES |
-|  |  | “T” = TASAS DEL TESORO |
-|  |  | “Z” = TASAS DE ORGANISMOS AUTÓNOMOS |
-|  |  | “G” = NRC´S |
-| 8-15 | NUM. | NÚMERO DE QUINCENA (AAAAMMQQ).AAAAMM01 PARA LAS QUINCENAS QUE FINALICEN EL 5 DEL MES. AAAAMM02 PARA LAS QUINCENAS QUE FINALICEN EL 20. |
-| 16-17 | NUM. | DELEGACIÓN AEAT (PRESENTACIÓN CENTRALIZADA = 57) |
-| 18-19 | NUM. | NÚMERO DE ORDEN DE LA TRANSMISIÓN.-Será el número que identifique las transmisiones de una E.C. en una quincena. La primera transmisión de la quincena siempre tendrá NÚMERO = 01. Las transmisiones correspondientes a aquellas previamente rechazadas por error no incrementan este contador. Siempre llevarán el número de la transmisión original en que se detectaron los errores. Si en una misma quincena hubiera transmisiones complementarias o sustitutivas de otras previamente aceptadas deberán ir incrementando este número. |
-| 20-27 | NUM. | FECHA DE INGRESO (AAAAMMDD). Esta fecha sólo será necesario cumplimentarla en los registros con TIPO INGRESO = A (Autoliquidaciones) |
-| 28-90 | ALF. | FILLER (A BLANCOS) |
+| 6-6 | ALF. | TIPO DE PRESENTACIÓN ("I" =INGRESOS). |
+| 7-7 | ALF. | TIPO DE INGRESOS. "A" = AUTOLIQUIDACIONES. "E"= AUTOLIQDIDACIONES ESPECIALES. "L" = LIQUIDACIONES. "T" = TASAS DEL TESORO. "Z"= TASAS DE ORGANISMOS AUTÓNOMOS. |
+| 8-15 | NUM. | NÚMERO DE QUINCENA (AAAAMMQQ): AAAAMM01 para las quincenas que finalicen el 5 del mes. AAAAMM02 para las quincenas que finalicen el 20. |
+| 16-17 | NUM. | DELEGACION AEAT (PRESENTACION CENTRALIZADA = 57). |
+| 18-19 | NUM. | NÚMERO DE ORDEN DE LA TRANSMISION. - Será el número que identifique las transmisiones de una E.C. en una quincena. La primera transmisión de la quincena siempre tendrá NÚMERO = 01. Las transmisiones correspondientes a aquellas previamente rechazadas por error no incrementan este contador. Siempre llevarán el número de la transmisión original en que se detectaron los errores. Si en una misma quincena hubiera transmisiones complementarias o sustitutivas de otras previamente aceptadas deberán ir incrementando este número. |
+| 20-27 | NUM. | FECHA DE INGRESO (AAAAMMDD). Esta fecha sólo será necesario cumplimentarla en los registros con TIPO INGRESO = A (Autoliquidaciones). |
+| 28-90 | ALF. | FILLER (A BLANCOS). |
 
 2.3 DISEÑO DEL REGISTRO DE DETALLE DE AUTOLIQUIDACIONES (TIPO-3)
 
@@ -172,21 +154,6 @@ Modelos 003 y 008. Del número formado por las posiciones 1 a 12 se calcula el d
 | 85-88 | NUM | SUCURSAL DEL INGRESO |
 | 89-90 | ALF. | FILLER (A BLANCOS) |
 
-2.9 DISEÑO DEL REGISTRO DE DETALLE DE ANULACIONES
-
-| POSIC. | TIPO | DESCRIPCIÓN |
-| --- | --- | --- |
-| 1-1 | NUM. | TIPO DE REGISTRO. TIENE EL VALOR 3. |
-| 2-8 | NUM. | NÚMERO DE SECUENCIA |
-| 9-30 | ALF. | NRC (NÚMERO DE REFERENCIA COMPLETO) |
-| 31-39 | ALF.. | NIF |
-| 40-40 | ALF. | TIPO: "I" = INGRESO |
-| 41-44 | NUM | EJERCICIO (solo para tipos de ingreso “A” y “E”) |
-| 45-46 | NUM. | PERIODO (solo para tipos de ingreso “A” y “E”) |
-| 47-59 | NUM | IMPORTE |
-| 60-63 | NUM | SUCURSAL DEL INGRESO |
-| 64-71 | NUM | FECHA DEL INGRESO (AAAAMMDD) |
-| 72-76 | NUM | FECHA DE LA ANULACIÓN (AAAAMMDD) |
-| 89-90 | ALF. | FILLER (A BLANCOS) |
+> Se modifican los apartados 2.1 y 2.2 y se suprime el apartado 2.9 por el art. 1.15 a 17 de la Orden HFP/915/2021, de 1 de septiembre. Ref. BOE-A-2021-14453#ap
 
 > Se modifica el apartado 2.3 por el art. 1.9 de la Orden HAC/785/2020, de 21 de julio. Ref. BOE-A-2020-9552#ap

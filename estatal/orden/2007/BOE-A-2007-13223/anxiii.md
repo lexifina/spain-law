@@ -113,9 +113,6 @@ RECHAZO DE LA TRANSMISIÓN
 | TIPO DE REGISTRO 3 (REGISTRO DE DETALLE) |  |
 | (Tasas) |  |
 | Cualquier error de los descritos se considerará error grave y provocará rechazo de la transmisión: – Tipo de registro distinto de 3 – Número de secuencia con saltos en la numeración – Código de Tasa no es uno de los permitidos para el tipo de ingreso – Número de justificante: – No cumple dígito de control – Las posiciones 1 a 3 son distintas, de 790, 791, 990 ó 991 – Las posiciones 4 a 6 no se corresponde con los tres últimos dígitos de un código de tasa permitido. – N.I.F.: Configuración de NIF no existente o con dígito de control erróneo. – Apellidos y nombre sin contenido en registros con DNI (sin carácter de control) – Importe = 0 – Fecha de ingreso ilógica. – Código de sucursal del ingreso desconocida. |  |
-| TIPO DE REGISTRO 3 (REGISTRO DE DETALLE) |  |
-| (Anulaciones de NRC’s) |  |
-| Cualquier error de los descritos se considerará error grave y provocará rechazo de la transmisión: – Tipo de registro distinto de 3 – Número de secuencia con saltos en la numeración – NRC sin contenido – N.I.F.: Configuración de NIF no existente o con carácter de control erróneo. – Tipo diferente de I. – Ejercicio no numérico. – Importe = 0 – Fecha de ingreso ilógica. – Fecha de anulación ilógica o menor que la de operación. – Código de sucursal del ingreso desconocida. |  |
 | TIPO DE REGISTRO 4 (SUBTOTALES) |  |
 | (Autoliquidaciones y Autoliquidaciones Especiales) |  |
 | Tipo de registro distinto de 4 | GRAVE |
@@ -143,6 +140,8 @@ RECHAZO DE LA TRANSMISIÓN
 | Código de Entidad Transmisora es distinta a la del registro tipo 01 | GRAVE |
 | Contador total del número de Entidades Colaboradoras no cuadra | GRAVE |
 | Número total de registros no coincide con los recibidos en la transmisión | GRAVE |
+
+> Se suprime el «Tipo de registro 3 (registro de detalle) (Anulaciones de NRC’s) del apartado «Rechazo de transmisión» por el art. 1.18 de la Orden HFP/915/2021, de 1 de septiembre. Ref. BOE-A-2021-14453#ap
 
 > Se modifica por el art. único.6 de la Orden HFP/386/2018, de 13 de abril. Ref. BOE-A-2018-5227
 

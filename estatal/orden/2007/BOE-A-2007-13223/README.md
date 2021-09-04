@@ -52,6 +52,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [ANEXO V](anv.md)
 - [ANEXO VI](anvi.md)
 - [ANEXO VII](anvii.md)
+- [ANEXO VII bis](av.md)
 - [ANEXO VIII](anviii.md)
 - [ANEXO IX](anix.md)
 - [ANEXO X](anx.md)
