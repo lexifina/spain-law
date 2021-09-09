@@ -1,92 +1,84 @@
 ## ANEXO IV
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2016/261/09890_7308.png)
+## Número de referencia completo (NRC) de devolución de depósitos
 
-Detalle de los datos a incluir para generar el NRC:
+## Primero. Registros en la pasarela de depósitos de subastas de la Agencia Tributaria. Devolución de depósitos: Procedimiento general.
 
-Para generar el NRC es imprescindible que todos estos datos a incluir en los procedimientos de cifrado estén generados en EBCDIC.
+1. El Portal de Subastas de la AEBOE deberá remitir la siguiente información. El formato en que esta información se deba transmitir a los sistemas de información de la AEAT será determinado por el Departamento de Informática Tributaria:
 
-MMM: Código de modelo para constitución de depósitos (961).
+– Operación (004).
 
-BBBB: Cuatro primeros dígitos del código asignado por el Banco de España a la entidad de crédito.
+– Tipo de operación: Alta (01), consulta (02).
 
-NNNNN: Número secuencial correlativo, comenzando por 00000. Caso de llegar a 99999, se comenzaría por 00000.
+– Concepto/modelo (961).
 
-D: Dígito de control del «MMMBBBBNNNNN», generado con el mismo algoritmo utilizado actualmente por las entidades colaboradoras de la Agencia Tributaria para el número de justificante de las autoliquidaciones.
+– NIF del titular del depósito.
 
-C: Carácter de control complementario, generado aplicando un algoritmo facilitado a las entidades colaboradoras de la Agencia Tributaria.
+– Apellidos y nombre o razón social del titular del depósito.
 
-Sólo se utilizará para el NRC.
+– NRC de constitución del depósito.
 
-MMMBBBBNNNNNDC: Conforman el Número de Referencia que formará parte del NRC.
+– Importe del depósito a devolver
 
-NIF: NIF del titular del depósito.
+– Fecha de constitución del depósito.
 
-Fecha del depósito: Año, mes y día de devolución del depósito.
+– Código IBAN.
 
-Importe: Se indicará la cifra expresada en céntimos de euro y ajustada a la derecha, rellena con ceros a la izquierda, hasta completar las trece posiciones.
+– NIF del primer representante, si lo hubiera.
 
-NRC de constitución del depósito: Número de Referencia Completo asignado por la entidad de crédito en la constitución del depósito.
+– Apellidos y nombre o razón social del primer representante, si lo hubiera.
 
-Reservado: Se rellenarán con ceros las seis posiciones.
+– NIF del segundo representante, si lo hubiera.
 
-Segundo. Registros en la pasarela de depósitos de subastas de la Agencia Tributaria. Devolución de depósitos: procedimiento general.
+– Apellidos y nombre o razón social del segundo representante, si lo hubiera.
 
-> Téngase en cuenta que esta última modificación del apartado segundo, establecida por el apartado 1.2 de la Resolución de 4 de junio de 2018. Ref. BOE-A-2018-7835, será de aplicación desde el 16 de julio de 2018, según determina su apartado 2:
+– Tipo de autenticación.
 
-> Redacción anterior:
+2. Registro de orden de cargo.
 
-> "Segundo. Registros en la pasarela de depósitos de subastas de la Agencia Tributaria."
-
-1. Registro de orden de cargo
-
-| N.º | POS. | LONG. | Tipo | Descripción |
+| N.º | Pos. | Long. | Tipo | Descripción |
 | --- | --- | --- | --- | --- |
 | 1 | 1 | 9 | An | NIF del titular del depósito (XNNNNNNNX). |
-| 2 | 10 | 8 | N | Fecha AAAAMMDD. |
-| 3 | 18 | 10 | N | Hora HHMMSSSSSS. |
-| 4 | 28 | 3 | An | Tipo de operación de alta. 004 Devolución de Depósitos. |
-| 5 | 31 | 2 | An | Alta 01, Consulta 02. |
+| 2 | 10 | 8 | N | Fecha (AAAAMMDD). |
+| 3 | 18 | 10 | N | Hora (HHMMSSSSSS). |
+| 4 | 28 | 3 | An | Tipo de operación de alta (004 Devolución de depósito). |
+| 5 | 31 | 2 | An | Alta (01), consulta (02). |
 | 6 | 33 | 3 | N | Concepto o modelo 961. |
 | 7 | 36 | 3 | N | Ceros. |
-| 8 | 39 | 9 | An | NIF del titular del depósito (XNNNNNNNX). |
-| 9 | 48 | 13 | N | Importe del depósito a devolver. (Ajustado a la derecha y relleno de ceros a la izquierda). |
-| 10 | 61 | 20 | N | Reservado. |
+| 8 | 39 | 9 | An | NIF titular del depósito (XNNNNNNNX). |
+| 9 | 48 | 13 | N | Importe del depósito a devolver (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 10 | 61 | 20 | N | Reservado (ceros). |
 | 11 | 81 | 22 | An | NRC de la constitución del depósito. |
-| 12 | 103 | 8 | N | AAAAMMDD fecha constitución depósito. |
+| 12 | 103 | 8 | N | Fecha constitución de depósito (AAAAMMDD). |
 | 13 | 111 | 9 | An | NIF del representante 1 o blancos. |
 | 14 | 120 | 9 | An | NIF del representante 2 o blancos. |
-| 15 | 129 | 16 | An | MAC de 8 con salida en hexadecimal cifrado. |
+| 15 | 129 | 16 | An | Reservado (blancos). |
 | 16 | 145 | 4 | An | Letras de etiqueta del titular del depósito en personas físicas. |
-| 17 | 149 | 40 | An | Apellidos y nombre o razón social del titular del depósito. |
+| 17 | 149 | 40 | An | Apellidos y nombre o Razón social del titular del depósito. |
 | 18 | 189 | 40 | An | Apellidos y nombre del representante 1 o blancos. |
 | 19 | 229 | 40 | An | Apellidos y nombre del representante 2 o blancos. |
 | 20 | 269 | 32 | An | Blancos. |
 | 21 | 301 | 34 | An | Código IBAN. |
-| 22 | 335 | 6 | An | Reservado para nuevos datos que intervengan en el cálculo del MAC. |
-| 23 | 341 | 100 | An | Reservado. |
+| 22 | 335 | 22 | An | Número de Referencia Completo generado por la AEAT. Solo en operaciones de alta, no de consulta. |
+| 23 | 357 | 84 | An | Reservado. |
 
-El MAC de 8 será generado a partir del contenido de las 128 primeras posiciones junto con el contenido de las posiciones 301 a 340.
+3. Registro de respuesta de la entidad de crédito.
 
-Existe la posibilidad de que los datos de los campos 4 en adelante se transmitan cifrados, además del cifrado que realiza el SSL. La clave y sistema de este cifrado se acordará entre la Entidad y la Agencia Tributaria.
-
-2. Registro de comunicación del NRC
-
-| N.º | POS. | LONG. | Tipo | Descripción |
+| N.º | Pos. | Long. | Tipo | Descripción |
 | --- | --- | --- | --- | --- |
-| 1 | 1 | 3 | An | Tipo de operación. 004 Devolución de Depósitos. |
-| 2 | 4 | 2 | An | Alta 01, Consulta 02. |
-| 3 | 6 | 3 | N | Concepto o modelo 961. |
+| 1 | 1 | 3 | An | Tipo de operación (004). Devolución de Depósitos. |
+| 2 | 4 | 2 | An | Alta (01), consulta (02). |
+| 3 | 6 | 3 | N | Concepto o modelo (961 para devolución). |
 | 4 | 9 | 6 | N | Ceros. |
 | 5 | 15 | 9 | An | NIF del titular del depósito (XNNNNNNNX). |
 | 6 | 24 | 4 | An | Letras de etiqueta en personas físicas. |
 | 7 | 28 | 5 | N | Ceros. |
-| 8 | 33 | 13 | N | Importe del abono (Ajustado a la derecha y relleno de ceros a la izquierda). |
+| 8 | 33 | 13 | N | Importe del abono (ajustado a la derecha y relleno de ceros a la izquierda). |
 | 9 | 46 | 12 | N | Ceros. |
 | 10 | 58 | 20 | N | Reservado. |
 | 11 | 78 | 12 | N | Ceros. |
 | 12 | 90 | 8 | N | Fecha de la operación (AAAAMMDD). |
-| 13 | 98 | 22 | An | Número de referencia completo. (MMMBBBBNNNNNDCXXXXXXXX). |
+| 13 | 98 | 22 | An | Número de Referencia Completo recibido en la orden de cargo o asociado al ingreso en caso de consulta. |
 | 14 | 120 | 2 | An | Código de retorno. |
 | 15 | 122 | 1 | N | Cero. |
 | 16 | 123 | 34 | An | Código IBAN. |
@@ -94,59 +86,87 @@ Existe la posibilidad de que los datos de los campos 4 en adelante se transmitan
 | 18 | 211 | 189 | An | Libre. |
 | 19 | 400 | 50 | An | Reservado para posibles ampliaciones. |
 
-Tercero. Registros en la pasarela de depósitos de subastas de la Agencia Tributaria. Devolución de depósitos: procedimiento excepcional.
+## Segundo. Registros en la pasarela de depósitos de subastas de la Agencia Tributaria. Devolución de depósitos: Procedimiento excepcional.
 
-1. Registro de orden de cargo.
+1. El Portal de Subastas de la AEBOE deberá remitir la siguiente información. El formato en que esta información se deba transmitir a los sistemas de información de la AEAT será determinado por el Departamento de Informática Tributaria:
 
-| N.º | POS. | LONG. | Tipo | Descripción |
+– Operación (006).
+
+– Tipo de operación: Alta (01), consulta (02).
+
+– Concepto/modelo (962).
+
+– NIF del titular del depósito.
+
+– Apellidos y nombre o razón social del titular del depósito.
+
+– NRC de constitución del depósito.
+
+– Importe del depósito a devolver
+
+– Fecha de constitución del depósito.
+
+– Código IBAN de la cuenta donde se constituyó el depósito.
+
+‒ Código IBAN de la cuenta de destino de la devolución mediante transferencia.
+
+– NIF del primer representante, si lo hubiera.
+
+– Apellidos y nombre o razón social del primer representante, si lo hubiera.
+
+– NIF del segundo representante, si lo hubiera.
+
+– Apellidos y nombre o razón social del segundo representante, si lo hubiera.
+
+‒ Tipo de autenticación.
+
+2. Registro de orden de cargo.
+
+| N.º | Pos. | Long. | Tipo | Descripción |
 | --- | --- | --- | --- | --- |
 | 1 | 1 | 9 | An | NIF del titular del depósito (XNNNNNNNX). |
-| 2 | 10 | 8 | N | Fecha AAAAMMDD. |
-| 3 | 18 | 10 | N | Hora HHMMSSSSSS. |
-| 4 | 28 | 3 | An | Tipo de operación de alta. 006 Devolución de Depósitos por Transferencia. |
-| 5 | 31 | 2 | An | Alta 01, Consulta 02. |
+| 2 | 10 | 8 | N | Fecha (AAAAMMDD). |
+| 3 | 18 | 10 | N | Hora (HHMMSSSSSS). |
+| 4 | 28 | 3 | An | Tipo de Operación de alta (006 Devolución de depósito por Transferencia). |
+| 5 | 31 | 2 | An | Alta (01), consulta (02). |
 | 6 | 33 | 3 | N | Concepto o modelo 962. |
-| 7 | 36 | 9 | An | NIF del titular del depósito (XNNNNNNNX). |
-| 8 | 45 | 13 | N | Importe del depósito a devolver. (Ajustado a la derecha y relleno de ceros a la izquierda). |
-| 9 | 58 | 20 | N | Reservado. |
-| 10 | 78 | 20 | N | Reservado. |
+| 7 | 36 | 9 | An | NIF titular del depósito (XNNNNNNNX). |
+| 8 | 45 | 13 | N | Importe del depósito a devolver (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 9 | 58 | 20 | N | Reservado (ceros). |
+| 10 | 78 | 20 | N | Reservado (ceros). |
 | 11 | 98 | 22 | An | NRC de la constitución del depósito. |
 | 12 | 120 | 9 | An | NIF del representante 1 o blancos. |
 | 13 | 129 | 9 | An | NIF del representante 2 o blancos. |
-| 14 | 138 | 8 | N | AAAAMMDD fecha de constitución del depósito. |
+| 14 | 138 | 8 | N | Fecha constitución de depósito (AAAAMMDD). |
 | 15 | 146 | 7 | An | Ceros. |
-| 16 | 153 | 16 | An | MAC de 8 con salida en hexadecimal cifrado. |
+| 16 | 153 | 16 | An | Reservado (blancos). |
 | 17 | 169 | 4 | An | Letras de etiqueta del titular del depósito en personas físicas. |
-| 18 | 173 | 40 | An | Apellidos y nombre o razón social del titular del depósito. |
+| 18 | 173 | 40 | An | Apellidos y nombre o Razón social del titular del depósito. |
 | 19 | 213 | 40 | An | Apellidos y nombre del representante 1 o blancos. |
 | 20 | 253 | 40 | An | Apellidos y nombre del representante 2 o blancos. |
 | 21 | 293 | 8 | An | Blancos. |
 | 22 | 301 | 34 | An | Código IBAN desde donde se constituyó el depósito. |
 | 23 | 335 | 34 | An | Código IBAN destino de la transferencia. |
-| 24 | 369 | 12 | An | Reservado para nuevos datos que intervengan en el cálculo del MAC. |
-| 25 | 381 | 60 | An | Reservado. |
+| 24 | 369 | 22 | An | Número de Referencia Completo generado por la AEAT. Solo en operaciones de alta, no de consulta. |
+| 25 | 391 | 50 | An | Reservado. |
 
-El MAC de 8 será generado a partir del contenido de las 152 primeras posiciones junto con el contenido de las posiciones 301 a 380.
+3. Registro de respuesta de la entidad de crédito.
 
-Existe la posibilidad de que los datos de los campos 4 en adelante se transmitan cifrados, además del cifrado que realiza el SSL. La clave y sistema de este cifrado se acordará entre la Entidad y la Agencia Tributaria.
-
-2. Registro de comunicación del NRC.
-
-| N.º | POS. | LONG. | Tipo | Descripción |
+| N.º | Pos. | Long. | Tipo | Descripción |
 | --- | --- | --- | --- | --- |
-| 1 | 1 | 3 | An | Tipo de operación. 006 Devolución de Depósitos por Transferencia. |
-| 2 | 4 | 2 | An | Alta 01, Consulta 02. |
-| 3 | 6 | 3 | N | Concepto o modelo 962. |
+| 1 | 1 | 3 | An | Tipo de operación (006). Devolución de Depósitos por Transferencia. |
+| 2 | 4 | 2 | An | Alta (01), consulta (02). |
+| 3 | 6 | 3 | N | Concepto o modelo (962 para devolución por transferencia). |
 | 4 | 9 | 6 | N | Ceros. |
 | 5 | 15 | 9 | An | NIF del titular del depósito (XNNNNNNNX). |
 | 6 | 24 | 4 | An | Letras de etiqueta en personas físicas. |
 | 7 | 28 | 5 | N | Ceros. |
-| 8 | 33 | 13 | N | Importe de la devolución. (Ajustado a la derecha y relleno de ceros a la izquierda). |
+| 8 | 33 | 13 | N | Importe de la devolución (ajustado a la derecha y relleno de ceros a la izquierda). |
 | 9 | 46 | 12 | N | Ceros. |
 | 10 | 58 | 20 | N | Reservado. |
 | 11 | 78 | 12 | N | Ceros. |
 | 12 | 90 | 8 | N | Fecha de la operación (AAAAMMDD). |
-| 13 | 98 | 22 | An | Número de referencia completo. (MMMBBBBNNNNNDCXXXXXXXX). |
+| 13 | 98 | 22 | An | Número de Referencia Completo recibido en la orden de cargo o asociado al ingreso en caso de consulta. |
 | 14 | 120 | 2 | An | Código de retorno. |
 | 15 | 122 | 1 | N | Cero. |
 | 16 | 123 | 34 | An | Código IBAN destino de la devolución. |
@@ -154,7 +174,9 @@ Existe la posibilidad de que los datos de los campos 4 en adelante se transmitan
 | 18 | 211 | 189 | An | Libre. |
 | 19 | 400 | 50 | An | Reservado para posibles ampliaciones. |
 
-> Téngase en cuenta que este último apartado tercero, añadido por el apartado 1.3 de la Resolución de 4 de junio de 2018. Ref. BOE-A-2018-7835, será de aplicación desde el 16 de julio de 2018, según determina su apartado 2.
+> Se sustituye por el apartado 1.4 de la Resolución de 6 de septiembre de 2021. Ref. BOE-A-2021-14666
+
+> Téngase en cuenta para su aplicación el apartado segundo de la citada Resolución.
 
 > Se modifica el título del apartado segundo y se añade el tercero por el apartado 1.2 y 3 de la Resolución de 4 de junio de 2018. Ref. BOE-A-2018-7835
 
