@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. No incremento del gasto público.
+
+El funcionamiento de los órganos colegiados de administración digital de la Seguridad Social a los que se refiere esta orden no supondrá incremento de gasto público y será atendido con los medios materiales y de personal existentes en el Ministerio de Inclusión, Seguridad Social y Migraciones y con las disponibilidades presupuestarias existentes en cada ejercicio, sin que pueda suponer incremento de dotaciones ni de retribuciones ni de otros gastos de personal. En particular, a estos órganos colegiados les prestará apoyo técnico y administrativo la Gerencia de Informática de la Seguridad Social.
