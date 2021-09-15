@@ -10,7 +10,7 @@
 
 4. Comisión de Defensa.
 
-5. Comisión de Hacienda.
+5. Comisión de Hacienda y Función Pública.
 
 6. Comisión de Presupuestos.
 
@@ -28,7 +28,7 @@
 
 13. Comisión de Agricultura, Pesca y Alimentación.
 
-14. Comisión de Política Territorial y Función Pública.
+14. Comisión de Política Territorial.
 
 15. Comisión de Transición Ecológica y Reto Demográfico.
 
@@ -53,6 +53,8 @@
 3ª. Peticiones.
 
 3. Las Comisiones Permanentes a que se refieren los apartados anteriores deberán constituirse dentro de los diez días siguientes a la sesión constitutiva del Congreso.
+
+> Se modifica el apartado 1 por el art. único de la Reforma del Reglamento de 15 de septiembre de 2021. Ref. BOE-A-2021-15094
 
 > Se modifica el apartado 1 por el art. único de la Reforma del Reglamento de 4 de febrero de 2020. Ref. BOE-A-2020-1843
 
