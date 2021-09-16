@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Determinación de la base imponible y del importe de los pagos fraccionados del Impuesto sobre el valor de la producción de energía eléctrica.
+
+Durante la vigencia prevista en el artículo 2 de este real decreto-ley, para la determinación de la base imponible del Impuesto sobre el valor de la producción de energía eléctrica regulado en la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética, así como de los pagos fraccionados correspondientes a dicho tributo, se tendrá en cuenta los menores ingresos percibidos por el contribuyente como consecuencia del instrumento de minoración establecido en el título III de este real decreto-ley.

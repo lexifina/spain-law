@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Aplicación del artículo 55 del texto refundido de la Ley de Aguas en el año hidrológico 2021-2022.
+
+Antes del 31 de diciembre de 2021, los organismos de cuenca, a propuesta de la Comisión de Desembalse, adoptarán las resoluciones que procedan en aplicación de los criterios de utilización racional de los recursos hídricos que se introducen en el artículo 55.2 del texto refundido de la Ley de Aguas, y remitirán a la Dirección General del Agua del Ministerio para la Transición Ecológica y el Reto Demográfico un informe motivado que recoja la relación de los embalses que han sido objeto de medidas de explotación racional en el año hidrológico 2021-2022, atendiendo a los citados criterios.

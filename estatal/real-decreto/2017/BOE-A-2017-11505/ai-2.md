@@ -14,7 +14,7 @@ Sin perjuicio de lo anterior, si usted cumple los requisitos para ser consumidor
 
 El cambio de modalidad en el contrato para pasar a PVPC, siempre que no se modifiquen los parámetros recogidos en el contrato de acceso de terceros a la red, se llevará a cabo sin ningún tipo de penalización ni coste adicional.
 
-Una vez acogido al PVPC, y siempre que se hayan acreditado los requisitos para ser consumidor vulnerable, el plazo para que su suministro de electricidad pueda ser suspendido, de no haber sido abonada la cantidad adeudada, pasará a ser 4 meses (contados siempre desde la recepción del requerimiento fehaciente de pago).
+Una vez acogido al PVPC, y siempre que se hayan acreditado los requisitos para ser consumidor vulnerable, de no haber sido abonada la cantidad adeudada, transcurridos cuatro meses desde la recepción del requerimiento fehaciente de pago, se adaptará su potencia, durante otros seis meses adicionales, a un suministro mínimo vital de 3,5 kW. Durante este tiempo no podrá ser suspendido su suministro.
 
 El enlace a la página web de la CNMC donde encontrará los datos necesarios para contactar con la comercializadora de referencia es el siguiente:
 
@@ -40,7 +40,7 @@ Sin perjuicio de lo anterior, si usted cumple los requisitos para ser consumidor
 
 Adicionalmente, si usted cumple los requisitos para ser vulnerable severo, puede ponerse en contacto con los servicios sociales del municipio y comunidad autónoma donde reside, para que le informen sobre la posibilidad de atender el pago de su suministro de electricidad.
 
-Siempre que se hayan acreditado los requisitos para ser consumidor vulnerable, el plazo para que su suministro de electricidad pueda ser suspendido, de no haber sido abonada la cantidad adeudada, pasará a ser 4 meses (contados siempre desde la recepción del requerimiento fehaciente de pago).
+Siempre que se hayan acreditado los requisitos para ser consumidor vulnerable, de no haber sido abonada la cantidad adeudada, transcurridos cuatro meses desde la recepción del requerimiento fehaciente de pago, se adaptará su potencia, durante otros seis meses adicionales, a un suministro mínimo vital de 3,5 kW. Durante este tiempo no podrá ser suspendido su suministro.
 
 Los requisitos para ser consumidor vulnerable vienen recogidos en el artículo 3 del Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica, del que le remitimos un extracto.
 
@@ -54,8 +54,10 @@ Modelo de comunicación para informar sobre el vencimiento del periodo de pago a
 
 > Como consecuencia, próximamente podrá serle remitido un requerimiento fehaciente de pago.
 
-> De no abonarse la cantidad adeudada, en un plazo de 4 meses a partir de la recepción de dicho requerimiento, la empresa distribuidora podrá suspender su suministro de electricidad.
+> De no abonarse la cantidad adeudada, tras el plazo de cuatro meses a partir de la recepción de dicho requerimiento, la empresa distribuidora adaptará durante otros seis meses adicionales la potencia de su hogar a un suministro mínimo vital de 3,5 kW, durante los cuales su suministro tampoco podrá ser suspendido.
 
 > Adicionalmente, si usted cumple los requisitos para ser vulnerable severo de acuerdo con lo dispuesto en el Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica, del que le remitimos un extracto, puede ponerse en contacto con los servicios sociales del municipio y comunidad autónoma donde reside, para que le informen sobre la posibilidad de atender el pago de su suministro de electricidad.
 
 [Inclúyase a continuación requisitos para ser vulnerable severo conforme al artículo 3 del citado real decreto]
+
+> Se modifican los apéndices I, II y III por la disposición final 2.2 y el apartado 1 del anexo del Real Decreto-ley 17/2021, de 14 de septiembre. Ref. BOE-A-2021-14974#df-2
