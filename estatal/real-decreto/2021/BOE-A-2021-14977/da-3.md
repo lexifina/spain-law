@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Prórroga del período de cobertura de ayudas zootécnicas para adecuación al marco comunitario y condición suspensiva.
+
+La vigencia de las ayudas previstas en el presente real decreto, así como las establecidas en el Real Decreto 368/2005, de 8 de abril, por el que se regula el control oficial del rendimiento lechero para la evaluación genética en las especies bovina, ovina y caprina, y en el Real Decreto 1625/2011, de 14 de noviembre, por el que se establecen las bases reguladoras de las subvenciones destinadas al fomento de las razas autóctonas españolas, se prorroga hasta el período máximo previsto en el Reglamento (UE) número 702/2014, de la Comisión, de 25 de junio de 2014.
+
+La concesión y pago de las antes citadas subvenciones queda condicionada a la existencia de crédito adecuado y suficiente en los Presupuestos Generales del Estado de cada ejercicio, y conforme al párrafo anterior, a partir del 30 de junio de 2023, a lo previsto en materia de las mencionadas subvenciones al sector ganadero en la normativa de la Unión Europea.
