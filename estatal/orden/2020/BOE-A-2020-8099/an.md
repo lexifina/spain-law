@@ -4,41 +4,31 @@ Terceros países, regiones administrativas especiales y demás entidades y autor
 
 I. Estados:
 
-1. Albania.
+1. Australia.
 
-2. Armenia.
+2. Bosnia y Herzegovina.
 
-3. Australia.
+3. Canadá.
 
-4. Azerbaiyán.
+4. Jordania.
 
-5. Bosnia y Herzegovina.
+5. Nueva Zelanda.
 
-6. Brunei.
+6. Qatar.
 
-7. Canadá.
+7. República de Moldavia.
 
-8. Japón.
+8. Arabia Saudí.
 
-9. Jordania.
+9. Singapur.
 
-10. Nueva Zelanda.
+10. Corea del Sur.
 
-11. Qatar.
+11. Ucrania.
 
-12. República de Moldavia.
+12. Uruguay.
 
-13. Arabia Saudí.
-
-14. Serbia.
-
-15. Singapur.
-
-16. Corea del Sur.
-
-17. Ucrania.
-
-18. China.
+13. China.
 
 II. Regiones administrativas especiales de la República Popular China:
 
@@ -49,6 +39,8 @@ RAE de Macao.
 III. Entidades y autoridades territoriales no reconocidas como Estados por al menos un Estado miembro de la Unión Europea:
 
 Taiwán.
+
+> Se modifica por el art. único de la Orden INT/965/2021, de 15 de septiembre. Ref. BOE-A-2021-15041
 
 > Se modifica por el art. único de la Orden INT/916/2021, de 2 de septiembre. Ref. BOE-A-2021-14455
 
