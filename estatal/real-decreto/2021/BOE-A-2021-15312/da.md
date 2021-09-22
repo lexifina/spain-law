@@ -1,0 +1,3 @@
+## Disposición adicional primera. Habilitación a los funcionarios del Servicio de Vigilancia Aduanera para la utilización de armamento incapacitante no letal.
+
+Se habilita a los funcionarios del Servicio de Vigilancia Aduanera, en las condiciones que se establezcan por Instrucción del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, a la tenencia y uso de las armas relacionadas en el artículo 5.1, apartados i) y j), del Reglamento de Armas, aprobado por el Real Decreto 137/1993, de 29 de enero, que sean necesarias para el cumplimiento de los fines que tienen encomendados. La tenencia y uso de estas armas se sujetarán al régimen de intervención previsto en el artículo 7 del citado Reglamento.
