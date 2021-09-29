@@ -29,3 +29,5 @@ Tres. Se modifica el apartado 3 del artículo 4, que queda redactado del siguien
 «3. El derecho a la prestación por desempleo regulada en este artículo quedará extinguido el día 30 de septiembre de 2021, con independencia de los días de derecho que hasta esa fecha se hayan consumido.
 
 Dicha extinción no constituye agotamiento de una prestación contributiva por desempleo, a los efectos del acceso a los subsidios por desempleo regulados en el texto refundido de la Ley General de la Seguridad Social.»
+
+> Téngase en cuenta que se prorroga la duración de las prestaciones y subsidios previstos en los artículos 2, 3 y 4 del Real Decreto-ley 32/2020, de 3 de noviembre, en la redacción dada por la presente disposición, hasta el día 28 de febrero de 2022, según establece la disposición adicional 10 del Real Decreto-ley 18/2021, de 28 de septiembre. Ref. BOE-A-2021-15768#da-10

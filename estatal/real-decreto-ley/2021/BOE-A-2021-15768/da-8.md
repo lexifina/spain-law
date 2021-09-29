@@ -1,0 +1,3 @@
+## Disposición adicional octava. Aportación de datos a las fundaciones laborales de carácter paritario.
+
+La Tesorería General de la Seguridad Social podrá facilitar a las fundaciones laborales de carácter paritario, establecidas al amparo de convenios sectoriales de ámbito estatal, la información necesaria para que puedan llevar a cabo las actuaciones precisas, conforme a lo establecido en el convenio colectivo, para la gestión de las aportaciones destinadas a su funcionamiento. Los tratamientos que se efectúen en relación con esta finalidad se limitarán a los datos estrictamente imprescindibles. La cesión de la información requerirá, en todo caso, la previa suscripción del oportuno convenio.
