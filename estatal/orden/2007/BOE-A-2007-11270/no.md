@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en el BOE núm. 185, de 3 de agosto de 2007. Ref. BOE-A-2007-14863
+Norma derogada, con efectos de 30 de septiembre de 2021, por la disposición derogatoria única.r) del Real Decreto 818/2021, de 28 de septiembre. Ref. BOE-A-2021-15771#dd

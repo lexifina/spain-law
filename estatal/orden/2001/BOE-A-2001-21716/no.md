@@ -1,1 +1,1 @@
-Téngase en cuenta que quedan derogadas las disposiciones de esta norma en aquello en que se opongan a lo dispuesto en la Orden TAS/816/2005, de 21 de marzo. Ref. BOE-A-2005-5240, según establece su disposición derogatoria única, en relación con el art. 2 de la misma.
+Norma derogada, con efectos de 30 de septiembre de 2021, por la disposición derogatoria única.p) del Real Decreto 818/2021, de 28 de septiembre. Ref. BOE-A-2021-15771#dd

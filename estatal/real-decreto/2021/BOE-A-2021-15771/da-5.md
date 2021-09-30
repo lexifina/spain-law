@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Financiación en las comunidades autónomas de régimen foral.
+
+No obstante lo dispuesto en el artículo 7, la financiación de los programas que contempla este real decreto en las comunidades autónomas de régimen foral se efectuará en los términos establecidos en los correspondientes reales decretos sobre traspaso a las comunidades autónomas de la gestión realizada por el Servicio Público de Empleo Estatal en el ámbito del trabajo, el empleo y la formación y sobre traspaso de funciones y servicios de la Administración del Estado en materia de cooperativas, calificación y registro administrativo de sociedades anónimas laborales y programas de apoyo al empleo, así como de la normativa específica que resulte de aplicación.
