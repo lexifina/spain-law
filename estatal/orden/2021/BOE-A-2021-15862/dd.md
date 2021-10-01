@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación de los apartados primero y segundo de la Orden de 30 de septiembre de 1999.
+
+Quedan derogados los apartados primero y segundo de la Orden de 30 de septiembre de 1999 por la que se aprueba el modelo de solicitud de inclusión en el sistema de cuenta corriente en materia tributaria, se establece el lugar de presentación de las declaraciones tributarias que generen deudas o créditos que deban anotarse en dicha cuenta corriente tributaria y se desarrolla lo dispuesto en el Real Decreto 1108/1999, de 25 de junio, por el que se regula el sistema de cuenta corriente en materia tributaria.
