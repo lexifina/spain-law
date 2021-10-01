@@ -6,29 +6,31 @@ I. Estados:
 
 1. Australia.
 
-2. Bosnia y Herzegovina.
+2. Canadá.
 
-3. Canadá.
+3. Chile
 
 4. Jordania.
 
-5. Nueva Zelanda.
+5. Kuwait.
 
-6. Qatar.
+6. Nueva Zelanda.
 
-7. República de Moldavia.
+7. Qatar.
 
-8. Arabia Saudí.
+8. Ruanda
 
-9. Singapur.
+9. Arabia Saudí.
 
-10. Corea del Sur.
+10. Singapur.
 
-11. Ucrania.
+11. Corea del Sur.
 
-12. Uruguay.
+12. Ucrania.
 
-13. China.
+13. Uruguay
+
+14. China.
 
 II. Regiones administrativas especiales de la República Popular China:
 
@@ -39,6 +41,8 @@ RAE de Macao.
 III. Entidades y autoridades territoriales no reconocidas como Estados por al menos un Estado miembro de la Unión Europea:
 
 Taiwán.
+
+> Se modifica por el art. único.2 de la Orden INT/1005/2021, de 24 de septiembre. Ref. BOE-A-2021-15536
 
 > Se modifica por el art. único de la Orden INT/965/2021, de 15 de septiembre. Ref. BOE-A-2021-15041
 
