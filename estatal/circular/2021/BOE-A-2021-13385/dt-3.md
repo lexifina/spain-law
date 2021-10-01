@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Tratamiento de las mermas para el periodo comprendido entre el 1 de enero de 2021 y el 30 de septiembre de 2021.
+
+A los efectos de determinar y valorar los saldos de mermas de las instalaciones gasistas en el periodo comprendido entre el 1 de enero de 2021 y el 30 de septiembre de 2021, conforme a la metodología establecida en las Órdenes Ministeriales ITC/3126/2005, de 5 de octubre, ITC/1890/2010, de 13 de julio, ITC/3128/2011, de 17 de noviembre, IET/2446/2013, de 27 de diciembre, e IET/2736/2015, de 17 de diciembre, se considerará dicho periodo como un año completo.
