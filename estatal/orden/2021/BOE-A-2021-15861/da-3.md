@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Entidades ejecutoras de la Seguridad Social.
+
+En el caso de las entidades gestoras y servicios comunes de la Seguridad Social, de conformidad con lo dispuesto en el artículo 46.7 del Real Decreto-ley 36/2020, de 30 de diciembre, por el que se aprueban medidas urgentes para la modernización de la Administración Pública y para la ejecución del Plan de Recuperación, Transformación y Resiliencia, las entidades ejecutoras a que se refiere el artículo 3 de la orden en lo relativo a la sección 1.ª y 3.ª de la misma, serán las propias entidades afectadas de la Seguridad Social. Dichas entidades serán las encargadas de la planificación y seguimiento de las Reformas e Inversiones, así como del cumplimiento de los hitos y objetivos de las mismas.
