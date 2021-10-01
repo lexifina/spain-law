@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 277, de 19 de noviembre de 2002. Ref. BOE-A-2002-22422.
+Norma derogada, con efectos de 1 de octubre de 2021, por la disposición derogatoria única de la Orden TED/1022/2021, de 27 de septiembre. Ref. BOE-A-2021-15776#dd
