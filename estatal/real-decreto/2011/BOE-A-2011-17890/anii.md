@@ -1,8 +1,8 @@
 ## ANEXO II
 
-## Relación de Facultades de Ciencias Eclesiásticas de la Iglesia Católica en España
+## Relación de Facultades de Ciencias Eclesiásticas e Institutos “ad instar Facultatis” de la Iglesia Católica en España
 
-I. Facultades de Teología Católica.
+I. Facultades de Teología Católica e Institutos “ad instar Facultatis”.
 
 1. Facultad de Teología de Cataluña (Barcelona).
 
@@ -25,6 +25,10 @@ Facultad de Teología del Norte de España (sede de Vitoria).
 9. Facultad de Teología de la Universidad Pontificia de Salamanca.
 
 10. Facultad de Teología «San Esteban» de los PP. Dominicos de Salamanca.
+
+11. Facultad de Teología San Isidoro de Sevilla.
+
+12. Instituto de Liturgia “ad instar Facultatis” (Barcelona).
 
 II. Facultades de Derecho Canónico.
 
@@ -55,6 +59,8 @@ IV. Otras Facultades Eclesiásticas.
 Facultad de Literatura Cristiana y Clásica «San Justino» de la Universidad Eclesiástica «San Dámaso» (Madrid).
 
 Facultad de Historia, Arqueología y Artes Cristianas "Antonio Gaudí" de Cataluña (Barcelona).
+
+> Se modifica por el art. único.2 de la Orden UNI/1046/2021, de 24 de septiembre. Ref. BOE-A-2021-16034
 
 > Se modifica por el art. único.2 de la Orden ECD/699/2015, de 15 de abril. Ref. BOE-A-2015-4325.
 

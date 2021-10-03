@@ -16,6 +16,8 @@ Título de Baccalaureatus in Historia, Archaeología et Artibus Christianis, oto
 
 Título de Baccalaureatus in Musica Sacra/in Cantu Gregoriano/in Organo/in Directione Chorali/in Disciplinis Musicae Sacrae/in Disciplina Machinale [ingeniería] et fabricatione Organi/in Technica et Didactica Canti Liturgici/in Sacra compositione, otorgados por Facultades Eclesiásticas o Institutos ''ad instar Facultatis''.
 
+Título de Baccalaureatus in Liturgia, otorgado por Facultades Eclesiásticas o Institutos “ad instar Facultatis”.
+
 II. Títulos equivalentes al título oficial de Máster Universitario (habrán de acreditar una duración mínima de 300 créditos ECTS).
 
 Título de Licentiatus in Theologia, otorgado por Facultades de Teología Católica (se especificará la especialización: Teología Sistemática, Sagrada Escritura, Teología Moral, Teología Pastoral, Teología Espiritual…).
@@ -50,6 +52,8 @@ Título de Licentiatus in Historia, Archaeología et Artibus Christianis, otorga
 
 Título de Licenciatus in Disciplinis Musicae Sacrae/in Disciplina Machinale [ingeniería] et fabricatione Organi/in Technica et Didactica Canti Liturgici/in Sacra compositione, otorgados por Facultades Eclesiásticas o Institutos "ad instar Facultatis".
 
+Título de Licenciatus in Sacra Liturgia, otorgado por Facultades eclesiásticas o Institutos “ad instar Facultatis”.
+
 III. Títulos equivalentes al título universitario oficial de Doctor o Doctora.
 
 Título de Doctor in Theologia, otorgado por Facultades de Teología católica.
@@ -80,6 +84,10 @@ Título de Doctor in Litteratura Christiana et Classica, otorgado por Facultades
 
 Título de Doctor in Historia, Archaeología et Artibus Christianis, otorgado por las Facultades Eclesiásticas de Historia, Arqueología y Artes Cristianas.
 
-Título de Doctor in Directione Chorali/in Disciplinis Musicae Sacrae/in Disciplina Machinale [ingeniería] et fabricatione Organi/in Technica et Didactica Canti Liturgici/in Sacra compositione, otorgados por Facultades Eclesiásticas o Institutos "ad instar Facultatis".»
+Título de Doctor in Directione Chorali/in Disciplinis Musicae Sacrae/in Disciplina Machinale [ingeniería] et fabricatione Organi/in Technica et Didactica Canti Liturgici/in Sacra compositione, otorgados por Facultades Eclesiásticas o Institutos "ad instar Facultatis".
+
+Título de Doctor in Sacra Liturgia, otorgado por Facultades eclesiásticas o Institutos “ad instar Facultatis”.
+
+> Se modifica por el art. único.1 de la Orden UNI/1046/2021, de 24 de septiembre. Ref. BOE-A-2021-16034
 
 > Se modifica por el art. único.1 de la Orden ECD/699/2015, de 15 de abril. Ref. BOE-A-2015-4325.
