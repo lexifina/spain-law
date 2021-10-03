@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Estudio del impacto en el sector del transporte de mercancías por carretera no superior a dos toneladas por operadores no especializados.
+
+En el plazo máximo de un año desde la entrada en vigor de esta Ley el Gobierno deberá presentar en la Comisión de Transportes, Movilidad y Agenda Urbana del Congreso de los Diputados un estudio de la situación en la que se encuentra el sector del transporte de mercancías no superior a dos toneladas y el impacto sobre el empleo y la actividad derivado de la entrada de nuevos operadores no especializados para su debate en dicha Comisión.
