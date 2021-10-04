@@ -10,7 +10,7 @@ A. Motivos generales de exclusión
 
 3. Procesos en los que se prevea que en el futuro serán un motivo de incapacidad psicofísica permanente.
 
-4. En la revisión de las calificaciones por resultar «no apto» o «no apta » en aplicación de alguno de los apartados de exclusión, la evaluación correspondiente abarcará aquellos del cuadro médico de exclusiones que el órgano médico pericial considere relevante, no estando limitado por las evaluaciones previas o ajenas al mismo, siendo determinantes los resultados de exploración y pruebas complementarias realizadas en el día y hora señalados para dicha prueba.
+4. En la revisión de las calificaciones por resultar «no apto» o «no apta» en aplicación de alguno de los apartados de exclusión, la evaluación correspondiente abarcará aquellos del cuadro médico de exclusiones que el órgano médico pericial considere relevante, no estando limitado por las evaluaciones previas o ajenas al mismo, siendo determinantes los resultados de exploración y pruebas complementarias realizadas en el día y hora señalados para dicha prueba.
 
 5. Las patologías que por resultar incompatible con las funciones de la Policía Nacional, y que conforme a la definición del presente cuadro médico de exclusiones sean susceptibles de valoración, serán evaluadas de forma individualizada con informe técnico emitido por la persona asesora médica designada.
 
@@ -196,6 +196,8 @@ I. Aparato de la visión
 
 2. Pérdida o atrofia de un globo ocular. Cuerpos extraños intraoculares. Cualquier tipo de cirugía intraocular.
 
+> Téngase en cuenta que se suspende cautelarmente el punto "Cuerpos extraños intraoculares" por Auto del TS de 28 de septiembre de 2021. Ref. BOE-A-2021-16060
+
 3. Exoftalmos.
 
 4. Glaucoma.
@@ -211,6 +213,8 @@ I. Aparato de la visión
 9. Queratitis. Herpes corneal. Leucomas corneales centrales y periféricos. Estafilomas, distrofias y ectasias corneales congénitas y adquiridas. Queratocono. Trasplante corneal y anillos intraestromales corneales.
 
 10. Técnicas de corrección refractiva: se deberá considerar este apartado en función del resultado de la cirugía refractiva corneal, y habiéndose realizado la cirugía al menos 60 días antes del reconocimiento. No se admitirán lentes fáquicas.
+
+> Téngase en cuenta que se suspende cautelarmente el punto "No se admitirán lentes fáquicas" por Auto del TS de 28 de septiembre de 2021. Ref. BOE-A-2021-16060
 
 11. Uveítis. Iridociclitis.
 
@@ -301,3 +305,5 @@ L. Sangre y órganos hematopoyéticos
 8. Inmunodeficiencias que menoscaben la capacidad para el normal desarrollo de las funciones policiales, evaluados de forma individualizada y con informe emitido por la persona asesora médica designada.
 
 9. Alteraciones analíticas significativas en sangre.
+
+> Se suspenden cautelarmente los puntos 2 (''Cuerpos extraños intraoculares'') y 10 (''No se admitirán lentes fáquicas'') del Apartado I, por Auto de 28 de septiembre de 2021. Ref. BOE-A-2021-16060
