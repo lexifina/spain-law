@@ -220,6 +220,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional cuadragésima séptima](da.md)
 - [Disposición adicional cuadragésima octava](da-2.md)
 - [Disposición adicional cuadragésima novena](da-3.md)
+- [Disposición adicional quincuagésima](da-4.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición transitoria tercera](dttercera.md)
