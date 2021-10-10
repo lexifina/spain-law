@@ -20,3 +20,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [MODELO ANEXO I](ma.md)
 - [MODELO ANEXO II](modeloanii.md)
 - [MODELO ANEXO III](ma-2.md)
+- [(Información relacionada)](ir.md)
