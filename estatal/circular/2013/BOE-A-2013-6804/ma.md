@@ -1,38 +1,50 @@
 ## MODELO ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_5112.png)
+## Informe anual sobre remuneraciones de los Consejeros de Sociedades Anónimas Cotizadas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_5230.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_5306.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_5379.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_5453.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image4.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_5526.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image5.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_5600.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image6.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_5674.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image7.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_5748.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image8.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_5821.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image9.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_5894.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image10.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_5968.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image11.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_6041.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image12.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_6114.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image13.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_6189.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image14.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_6263.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image15.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_6368.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image16.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image17.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image18.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image19.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image20.png)
+
+> Se sustituye por el recogido en el Anexo I del apéndice I de la Circular 3/2021, de 28 de septiembre, según establece la norma primera.3. Ref. BOE-A-2021-16391
+
+> Téngase en cuenta la disposición final para su aplicación.
 
 > Se sustituye por el recogido en el Anexo I del apéndice I de la Circular 1/2020, de 6 de octubre, según establece la norma primera.1. Ref. BOE-A-2020-12141
 

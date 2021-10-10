@@ -1,62 +1,74 @@
 ## ANEXO V
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_11517.png)
+## Estadístico del informe anual de Gobierno Corporativo de las Sociedades Anónimas Cotizadas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_11592.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image94.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_11667.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image95.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_11741.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image96.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_11815.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image97.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_11890.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image98.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_11963.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image99.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_12037.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image100.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_12110.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image101.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_12185.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image102.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_12259.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image103.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_12332.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image104.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_12407.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image105.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_12489.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image106.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_12565.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image107.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_12639.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image108.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_12714.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image109.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_12787.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image110.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_12860.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image111.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_12934.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image112.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_13010.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image113.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_13156.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image114.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_13230.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image115.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_13304.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image116.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_13379.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image117.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_13453.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image118.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_13545.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image119.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_13621.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image120.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/270/12141_13694.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image121.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image122.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image123.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image124.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image125.png)
+
+> Se sustituye por el recogido en el anexo V del apéndice II de la Circular 3/2021, de 28 de septiembre, según establece la norma segunda.4. Ref. BOE-A-2021-16391
+
+> Téngase en cuenta la disposición final para su aplicación.
 
 > Se sustituye por el recogido en el anexo V del apéndice II de la Circular 1/2020, de 6 de octubre, según establece la norma segunda.1. Ref. BOE-A-2020-12141
 
