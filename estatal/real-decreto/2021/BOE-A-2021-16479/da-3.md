@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Formalización de las cesiones o depósitos de fondos documentales al Archivo Histórico de los Movimientos Sociales por personas jurídicas o físicas.
+
+La cesión o depósito en el Archivo Histórico de los Movimientos Sociales se formalizará mediante los correspondientes instrumentos entre el Ministerio de Cultura y Deporte y las personas jurídicas o físicas propietarias de los fondos, estableciéndose las condiciones de ello, las obligaciones de las partes, la duración y las causas de finalización, con arreglo a lo establecido en el Código Civil y en las leyes especiales.
