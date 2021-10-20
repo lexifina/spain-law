@@ -12,11 +12,15 @@ c) Requisitos. El reconocimiento de la persona mayor de edad o menor emancipada 
 
 El reconocimiento de la persona menor de edad no emancipada o con la capacidad modificada judicialmente será inscribible en el Registro Civil sin perjuicio de la oposición que puede formular quien tenga su representación legal conforme a lo previsto en el apartado siguiente, la cual deberá fundarse en el superior interés de la persona reconocida.
 
+> Téngase en cuenta que se declara que el párrafo segundo de la letra c), en la redacción dada por el art. 2 de la Ley Foral 21/2019, de 4 de abril, no es inconstitucional interpretado en los términos del fundamento jurídico 7 de la Sentencia del TC 157/2021, de 16 de septiembre. Ref. BOE-A-2021-17106
+
 Cuando la oposición sea formulada por la madre menor de edad no emancipada o con capacidad judicialmente modificada, se le nombrará a tal fin un defensor judicial sin perjuicio de su formulación directa por el Ministerio Fiscal.
 
 Podrá también reconocerse a un hijo ya fallecido siempre que hubiera dejado descendientes. En el supuesto de que estos sean mayores de edad o menores emancipados, el reconocimiento requerirá su consentimiento expreso o tácito. Cuando sean menores no emancipados o tuvieran su capacidad modificada judicialmente, el reconocimiento será inscribible, pero podrá ser también objeto de oposición por su representante legal fundada en su superior interés.
 
 d) Oposición al reconocimiento. La oposición deberá formalizarse en el plazo de un año desde que el reconocimiento haya sido objeto de notificación, se sustanciará por los trámites previstos en la Ley de Jurisdicción Voluntaria para el reconocimiento de la filiación no matrimonial y será estimada cuando resulte contrario al interés de la persona reconocida o de sus descendientes.
+
+> Se declara que el párrafo segundo de la letra c), en la redacción dada por el art. 2 de la Ley Foral 21/2019, de 4 de abril, no es inconstitucional interpretado en los términos del fundamento jurídico 7 de la Sentencia del TC 157/2021, de 16 de septiembre. Ref. BOE-A-2021-17106
 
 > Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 
