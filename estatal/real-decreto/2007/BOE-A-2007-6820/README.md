@@ -220,4 +220,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria decimosexta](dtdecimosexta.md)
 - [Disposición transitoria decimoséptima](dtdecimoseptima.md)
 - [Disposición transitoria decimoctava](dt.md)
+- [Disposición transitoria decimonovena](dt-2.md)
 - [Disposición final única](dfunica.md)
