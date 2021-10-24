@@ -2,7 +2,7 @@
 
 ## Zonas restringidas
 
-Parte A: Zona restringida frente al serotipo 1 del virus de la lengua azul
+Parte A: Zona restringida frente al serotipo 1 del virus de la lengua azul.
 
 Se considerará zona restringida frente al serotipo 1 del virus de la lengua azul los siguientes territorios:
 
@@ -12,9 +12,9 @@ a) Provincias de Cádiz, Huelva, Sevilla y Málaga.
 
 b) En la provincia de Granada: la comarca veterinaria de Motril (Costa de Granada).
 
-c) En la provincia de Córdoba: la comarca de Posadas (Vega del Guadalquivir).
+c) En la provincia de Córdoba: las comarcas de Posada (Vega del Guadalquivir), Peñarroya-Pueblonuevo, Hinojosa del Duque (Pedroches II), Pozoblanco (Pedroches I), Villanueva de Córdoba (Pedroches III) y Montoro (Alto del Guadalquivir).
 
-Parte B: Zona restringida frente al serotipo 4 del virus de la lengua azul
+Parte B: Zona restringida frente al serotipo 4 del virus de la lengua azul.
 
 Se considerará zona restringida frente al serotipo 4 del virus de la lengua azul los siguientes territorios:
 
@@ -24,13 +24,13 @@ a) Provincias de Cádiz, Huelva, Sevilla y Málaga.
 
 b) En la provincia de Granada: la comarca veterinaria de Motril (Costa de Granada).
 
-c) En la provincia de Córdoba: la comarca de Posadas (Vega del Guadalquivir).
+c) En la provincia de Córdoba: la comarca de Posadas (Vega del Guadalquivir), Peñarroya-Pueblonuevo, Hinojosa del Duque (Pedroches II), Pozoblanco (Pedroches I), Villanueva de Córdoba (Pedroches III) y Montoro (Alto del Guadalquivir).
 
 2) La Comunidad Autónoma de Islas Baleares.
 
-3) En la Comunidad Autónoma de Extremadura:
+3) En la Comunidad Autónoma de Extremadura: Provincia de Badajoz.
 
-En la Provincia de Badajoz: Las comarcas de Jerez de los Caballeros, Badajoz, Azuaga, Mérida y Zafra.
+4) En la Comunidad Autónoma de Castilla-La Mancha: en la provincia de Ciudad Real, las comarcas de Almadén, Almodóvar del Campo y Piedrabuena.
 
 Parte C: Zona restringida frente al serotipo 8 del virus de la lengua azul
 
@@ -51,6 +51,8 @@ b) En la provincia de Araba/Álava: el municipio de Aramaio.
 a) En la provincia de Huesca: las comarcas veterinarias de Boltaña, Jaca y Sabiñánigo; el siguiente municipio de la comarca veterinaria de Ayerbe: Las Peñas de Riglos; los siguientes municipios de la comarca veterinaria de Huesca: Arguis, Casbas de Huesca, Ibieca, Igriés, Loporzano, Nueno y Siétamo; los siguientes municipios de la comarca veterinaria de Barbastro: Abiego, Adahuesca, Alquézar, Bierge, Colungo y Naval; los siguientes municipios de la comarca veterinaria de Castejón de Sos: Castejón de Sos, Chía, Sahún, Seira, Sesué y Villanova; y los siguientes municipios de la comarca veterinaria de Graus: Campo, Foradada y Valle de Bardají.
 
 b) En la provincia de Zaragoza: los municipios de la provincia pertenecientes a la comarca veterinaria de Jaca.
+
+> Se modifican las partes A y B por Resolución de 18 de octubre de 2021. Ref. BOE-A-2021-17265
 
 > Se modifican las partes A y B por Resolución de 28 de septiembre de 2021. Ref. BOE-A-2021-16132
 
