@@ -30,7 +30,9 @@ e) Tener un contrato con el comercializador en el que se especifique:
 
 9.º las condiciones serán equitativas y se darán a conocer con antelación. En cualquier caso, debe comunicarse esta información antes de la celebración o confirmación del contrato. Cuando los contratos se celebren a través de intermediarios, la información antes mencionada se comunicará asimismo antes de la celebración del contrato.
 
-f) Ser debidamente avisados de cualquier intención de modificar las condiciones del contrato e informados de su derecho a rescindir el contrato cuando reciban el aviso. Los comercializadores notificarán directamente a sus clientes cualquier aumento de los precios, en el momento adecuado y no más tarde de un período normal de facturación después de que haya entrado en vigor el aumento, de forma transparente y comprensible. Los clientes podrán rescindir el contrato sin coste alguno si no aceptan las nuevas condiciones que les haya notificado su comercializador de gas.
+f) Ser debidamente avisados de forma transparente y comprensible de cualquier intención de modificar las condiciones del contrato e informados de su derecho a rescindir el contrato sin coste alguno cuando reciban el aviso. Asimismo, ser notificados de forma directa por su suministrador sobre cualquier revisión de los precios derivada de las condiciones previstas, con al menos un mes de antelación a la entrada en vigor, de forma transparente y comprensible.
+
+Las comunicaciones de revisiones de precios deberán incluir una comparativa de los precios aplicados antes y después de la revisión, así como una estimación del coste anual del suministro para dicho consumidor y su comparativa con el coste anual anterior.
 
 g) Recibir información transparente sobre los precios, tarifas y condiciones generales aplicables al acceso y al uso de los servicios de gas.
 
@@ -51,5 +53,7 @@ m) Ser informados adecuadamente del consumo real de gas y de los costes correspo
 n) Recibir una liquidación de la cuenta después de cualquier cambio de suministrador de gas natural, en el plazo máximo de seis semanas a partir de la fecha del cambio de suministrador.
 
 o) Acceder a las instalaciones propiedad de terceros, de regasificación, almacenamiento, transporte y distribución, en los términos previstos en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, y normativa que la desarrolle.
+
+> Se modifica por el art. 5.2 del Real Decreto-ley 23/2021, de 26 de octubre de 2021. Ref. BOE-A-2021-17458#a5
 
 > Se añade por el art. 2.5 del Real Decreto-ley 13/2012, de 30 de marzo. Ref. BOE-A-2012-4442.

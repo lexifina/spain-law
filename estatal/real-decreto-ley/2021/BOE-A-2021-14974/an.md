@@ -1,4 +1,4 @@
-## ANEXO
+## ANEXO I
 
 ## Modificaciones de los anexos II, III y IV y adición de un anexo VII del Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica
 
@@ -49,3 +49,5 @@ b) En el apéndice II («Modelo de requerimiento fehaciente de pago para consumi
 > Si usted cumple los requisitos para ser vulnerable severo de acuerdo con lo dispuesto en el Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica, del que le remitimos un extracto, puede ponerse en contacto con los servicios sociales del municipio y comunidad autónoma donde reside, para que le informen sobre la posibilidad de atender el pago de su suministro de electricidad.
 
 > [Inclúyase a continuación requisitos para ser vulnerable severo conforme al artículo 3 del citado real decreto].»
+
+> Se numera como Anexo I, con efectos desde el 16 de septiembre de 2021, por la disposición final 1.2 Real Decreto-ley 23/2021, de 26 de octubre de 2021. Ref. BOE-A-2021-17458#df
