@@ -1,41 +1,35 @@
-## Artículo 16 bis. Comercialización en el ámbito de la Unión Europea de IIC distintas a las reguladas por la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, en el ámbito de la Unión Europea gestionadas por sociedades gestoras autorizadas en España de conformidad con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, en el ámbito de la Unión Europea.
+## Artículo 16 bis. Notificación del cese de la comercialización de las acciones y participaciones de IIC españolas reguladas por la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, en el ámbito de la Unión Europea.
 
-1. Las SGIIC españolas autorizadas al amparo de esta Ley que pretendan comercializar en el ámbito de la Unión Europea las acciones o participaciones de IIC distintas a las reguladas por la Directiva 2009/65/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, en el ámbito de la Unión Europea deberán remitir a la Comisión Nacional del Mercado de Valores un escrito de notificación que contenga la siguiente información:
+1. Las SGIIC notificarán el cese de las medidas adoptadas para la comercialización de las participaciones y, cuando proceda, respecto de las clases de acciones, en un Estado miembro para el que haya presentado una notificación de conformidad con el artículo 16, cuando se cumplan todas las condiciones siguientes:
 
-a) Identificación de las IIC que se pretendan comercializar, así como dónde están establecidas dichas IIC.
+a) que se haga una oferta global de recompra o reembolso, sin gastos o deducciones, de todas las participaciones en poder de los inversores en ese Estado miembro, que esté disponible públicamente durante al menos treinta días hábiles y que se dirija individualmente, de modo directo o a través de intermediarios financieros, a todos los inversores de dicho Estado miembro cuya identidad se conozca;
 
-b) Las disposiciones y modalidades de comercialización de las acciones o participaciones de la IIC en los Estados miembros donde pretenda comercializarlas, y cuando proceda, sobre las clases de estas o sobre las series de aquellas.
+b) que la intención de poner fin a las medidas adoptadas para la comercialización de dichas participaciones en ese Estado miembro se haga pública a través de un medio accesible al público, incluidos medios electrónicos, que sea habitual para la comercialización de IIC y adecuado para un inversor tipo de IIC;
 
-c) El reglamento del fondo de inversión o los documentos constitutivos de la sociedad.
+c) que se modifiquen o cancelen los acuerdos contractuales con intermediarios financieros con efecto a partir de la fecha de notificación de cese, con el fin de impedir nuevas ofertas, o su prolongación, directa o indirecta, o la colocación de las participaciones que figuren en la notificación mencionada en el apartado 2.
 
-d) El folleto de la institución o documento equivalente y el último informe anual.
+La información a que se refieren las letras a) y b) dejará claras las consecuencias para los inversores de no aceptar la oferta de recompra o reembolso de sus participaciones.
 
-e) La identificación del depositario de la IIC.
+La información a que se refieren las letras a) y b) del párrafo primero se facilitará en la lengua oficial o en una de las lenguas oficiales del Estado miembro con respecto al cual la IIC haya realizado una notificación de conformidad con el artículo 16 o en otra lengua admitida por las autoridades competentes del Estado miembro de acogida
 
-f) Una descripción de la IIC, o cualquier información sobre esta, a disposición de los inversores.
+A partir de la fecha mencionada en la letra c) del párrafo primero, la IIC cesará toda oferta o colocación nueva de sus participaciones, o su prolongación, directa o indirecta, que hayan sido objeto de notificación en ese Estado miembro.
 
-g) Información sobre el lugar en que se encuentra establecida la IIC principal si la IIC que se pretende comercializar es una IIC subordinada.
+2. La SGIIC presentará una notificación a la CNMV que contenga la información a que se refiere el apartado 1, párrafo primero, letras a), b) y c).
 
-h) La indicación del Estado miembro en que tenga previsto comercializar la IIC entre inversores profesionales.
+3. La CNMV verificará que la notificación presentada por la IIC de conformidad con el apartado 2 esté completa. La CNMV transmitirá dicha notificación, en un plazo máximo de quince días hábiles a partir de la recepción de una notificación completa, a las autoridades competentes del Estado miembro identificado en la notificación a que se refiere el apartado 2, y a la AEVM.
 
-i) Cuando proceda, información sobre las medidas adoptadas para impedir la comercialización de la IIC entre inversores minoristas.
+Una vez transmitida la notificación con arreglo a lo dispuesto en el párrafo primero, la CNMV comunicará sin dilación a la SGIIC dicha transmisión.
 
-2. La Comisión Nacional del Mercado de Valores verificará que esta documentación esté completa. En el plazo de 20 días hábiles desde la recepción del expediente de documentación completo a que se refiere el apartado 1, la Comisión Nacional del Mercado de Valores lo transmitirá a las autoridades competentes del Estado o los Estados miembros en que se pretenda comercializar la IIC. Esta remisión se llevará a cabo por medios electrónicos.
+4. La SGIIC facilitará a los inversores que mantengan su inversión en la IIC, así como a la CNMV, la información requerida con arreglo a esta Ley.
 
-La Comisión Nacional del Mercado de Valores adjuntará al escrito de notificación un certificado acreditativo que confirme que la sociedad gestora está autorizada de conformidad con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, a gestionar IIC con esa estrategia de inversión concreta.
+5. La CNMV transmitirá a las autoridades competentes del Estado miembro identificado en la notificación a que se refiere el apartado 2 del presente artículo información sobre cualquier modificación de los documentos mencionados en el apartado 1 del artículo 16.
 
-3. Una vez transmitido el expediente de notificación, la Comisión Nacional del Mercado de Valores lo notificará inmediatamente a la sociedad gestora. La gestora podrá iniciar la comercialización de la IIC en el Estado miembro de acogida a partir de la fecha de dicha notificación.
+6. La CNMV tendrá los mismos derechos y obligaciones que las autoridades competentes del Estado miembro de acogida de la IIC.
 
-La Comisión Nacional del Mercado de Valores informará a las autoridades competentes del Estado miembro en el que está establecida la IIC que la gestora puede comenzar a comercializar participaciones de la IIC en el Estado miembro de acogida.
+Sin perjuicio de otras actividades de seguimiento y de las competencias de supervisión contempladas en los artículos 70 y 71.1, a partir de la fecha de transmisión a que se refiere el apartado 5 del presente artículo, la autoridad competente del Estado miembro identificado en la notificación a que se refiere el apartado 2 no exigirá a la IIC en cuestión que demuestre el cumplimiento de las disposiciones legales, reglamentarias y administrativas nacionales aplicables a los requisitos de comercialización contemplados en el artículo 5 del Reglamento (UE) 2019/1156 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, por el que se facilita la distribución transfronteriza de organismos de inversión colectiva y por el que se modifican los Reglamentos (UE) n.º 345/2013, (UE) n.º 346/2013 y (UE) n.º 1286/2014.
 
-El escrito de notificación y el certificado referidos en los apartados 1 y 2 se expedirá, al menos, en una lengua habitual en el ámbito de las finanzas internacionales.
+7. Se permite el uso de todos los medios electrónicos u otros medios de comunicación a distancia a efectos del apartado 4, a condición de que la información y los medios de comunicación estén disponibles para los inversores en la lengua oficial o en una de las lenguas oficiales del Estado miembro donde el inversor esté ubicado o en una lengua aprobada por las autoridades competentes de ese Estado miembro.
 
-4. En caso de modificación sustancial de alguno de los datos comunicados de conformidad con el apartado 1, la gestora informará de ello por escrito a la Comisión Nacional del Mercado de Valores al menos un mes antes de hacer efectiva la modificación, si la misma está prevista, o, en el caso de una modificación imprevista, inmediatamente después de producirse la modificación.
-
-Si, como consecuencia de la modificación prevista la gestión de la IIC por parte de la gestora, ya no fuese conforme con esta Ley o, en general, la gestora ya no cumpliese esta Ley, las autoridades competentes pertinentes informarán a la gestora, sin demora injustificada, de que no puede aplicar la modificación.
-
-Si la modificación prevista se aplica sin perjuicio de los párrafos anteriores, o si se ha producido un acontecimiento imprevisto que ha provocado una modificación, como consecuencia de la cual la gestión de la IIC por parte de la gestora pudiera dejar de ser conforme con esta Ley, o si la gestora pudiera dejar de cumplir esta Ley, la Comisión Nacional del Mercado de Valores adoptará todas las medidas oportunas, incluyendo, si fuese necesario, la prohibición expresa de la comercialización de la IIC.
-
-Si las modificaciones son aceptables porque no influyen en la conformidad con esta Ley de la gestión de la IIC por parte de la gestora, o en el cumplimiento por la gestora de esta Ley, la Comisión Nacional del Mercado de Valores informará, sin demora injustificada, de dichas modificaciones a las autoridades competentes del Estado miembro de acogida.
+> Se modifica por el art. 62.4 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-4
 
 > Se añade por la disposición final 1.9 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.

@@ -22,13 +22,15 @@ La Comisión Nacional del Mercado de Valores adjuntará un certificado acreditat
 
 Una vez recibida la notificación de transmisión, la gestora podrá comenzar a prestar sus servicios en su Estado miembro de acogida.
 
-5. En caso de modificación de alguno de los datos comunicados de conformidad con el apartado 2 y, en su caso, el apartado 3, la gestora notificará por escrito dicha modificación a la Comisión Nacional del Mercado de Valores, al menos un mes antes de hacer efectiva la modificación, o inmediatamente después de una modificación imprevista.
+5. En caso de modificación de alguno de los datos comunicados de conformidad con el apartado 2 y, en su caso, el apartado 3, la gestora notificará por escrito dicha modificación a la CNMV, al menos un mes antes de hacer efectiva la modificación, o inmediatamente después de una modificación imprevista.
 
-Si, como consecuencia de la modificación prevista, la gestión de la IIC por parte de la gestora ya no fuese conforme con una o más disposiciones de esta Ley o, en general, la gestora ya no cumpliese una o más disposiciones de esta Ley, la Comisión Nacional del Mercado de Valores informará a la gestora, sin demora injustificada, de que no puede aplicar la modificación.
+Si, como consecuencia de la modificación prevista, la gestión de la IIC por parte de la gestora ya no fuese conforme con una o más disposiciones de esta Ley o, en general, la gestora ya no cumpliese una o más disposiciones de esta Ley, la CNMV informará a la gestora, en un plazo de quince días hábiles desde la recepción de toda la información a que se refiere el párrafo primero, de que no puede aplicar la modificación.
 
-Si la modificación prevista se ha adoptado contraviniendo lo previsto en los párrafos primero y segundo, o si se ha producido un acontecimiento imprevisto que ha provocado una modificación, como consecuencia de la cual la gestión de la IIC por parte de la gestora pudiera dejar de ser conforme con esta Ley, o si la gestora pudiera dejar de cumplir esta Ley, la Comisión Nacional del Mercado de Valores adoptará todas las medidas oportunas.
+Si la modificación prevista se ha adoptado contraviniendo lo previsto en los párrafos primero y segundo, o si se ha producido un acontecimiento imprevisto que ha provocado una modificación, como consecuencia de la cual la gestión de la IIC por parte de la gestora pudiera dejar de ser conforme con esta Ley, o si la gestora pudiera dejar de cumplir esta Ley, la CNMV adoptará todas las medidas oportunas de conformidad con el artículo 70 y se lo notificarán sin demora injustificada a las autoridades competentes del Estado miembro de acogida.
 
-Si las modificaciones son aceptables, la Comisión Nacional del Mercado de Valores informará sin demora de dichas modificaciones a las autoridades competentes del Estado miembro de acogida.
+Si las modificaciones no afectan al cumplimiento del régimen jurídico aplicable, la CNMV informará sin demora de dichas modificaciones a las autoridades competentes del Estado miembro de acogida.
+
+> Se modifica el apartado 5 por el art. 62.7 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a6-4
 
 > Se modifica el título y los apartados 1 y 2 por la disposición final 2.1 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#dfsegunda.
 
