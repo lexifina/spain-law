@@ -1,0 +1,3 @@
+## Disposición final tercera. Autorización para la actualización de los anexos.
+
+Con el objeto de actualizar los perfiles del profesorado a los nuevos títulos universitarios regulados por el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales y a las nuevas especialidades docentes de los cuerpos de profesor de enseñanza secundaria o catedrático de enseñanza secundaria, se autoriza al titular del Ministerio de Educación y Formación Profesional para la modificación y actualización de los anexos VI, VII-A y VIII de este real decreto.
