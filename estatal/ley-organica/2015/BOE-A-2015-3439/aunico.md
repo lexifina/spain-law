@@ -638,6 +638,8 @@ Asimismo, el juez de vigilancia penitenciaria revocará la suspensión de la eje
 
 4. Extinguida la parte de la condena a que se refiere la letra a) del apartado 1 de este artículo o, en su caso, en el artículo 78 bis, el tribunal deberá verificar, al menos cada dos años, el cumplimiento del resto de requisitos de la libertad condicional. El tribunal resolverá también las peticiones de concesión de la libertad condicional del penado, pero podrá fijar un plazo de hasta un año dentro del cual, tras haber sido rechazada una petición, no se dará curso a sus nuevas solicitudes.»
 
+> Téngase en cuenta que el párrafo tercero del apartado 3 y el apartado 4 del art. 92, no son inconstitucionales siempre que se interpreten en el sentido establecido en el fundamento jurídico 9 b) de la sentencia del TC 169/2021, de 6 de octubre. Ref. BOE-A-2021-18372
+
 Cincuenta y dos. Se suprime el artículo 93.
 
 Cincuenta y tres. Se añade un nuevo artículo 94 bis, con la siguiente redacción:
@@ -2601,5 +2603,7 @@ Doscientos cincuenta y nueve. Sustitución de términos en el Código Penal.
 Doscientos sesenta. Sustitución de términos en el Código Penal.
 
 «Todas las referencias contenidas en la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, al término “comisoˮ se sustituyen por el término “decomisoˮ.»
+
+> Se declara que el párrafo tercero del apartado 3 y el apartado 4 del art. 92 del Código Penal, en la redacción dada por el apartado 51, no son inconstitucionales siempre que se interpreten en el sentido establecido en el fundamento jurídico 9 b) de la sentencia del TC 169/2021, de 6 de octubre. Ref. BOE-A-2021-18372
 
 > Redactado conforme a la corrección de errores publicada en el BOE núm. 139 de 11 de junio de 2015. Ref. BOE-A-2015-6465.
