@@ -30,7 +30,13 @@ f) Hacer inofensivos, destruir o prevenir la acción de otros organismos nocivos
 
 2.8 Plazo de seguridad: período de tiempo que debe transcurrir desde la aplicación de un plaguicida a vegetales, animales o sus productos hasta la recolección o aprovechamiento de los mismos o, en su caso, hasta la entrada en las áreas o recintos tratados.
 
-2.9 Plaguicidas de uso fitosanitario o productos fitosanitarios: los destinados a su utilización en el ámbito de la sanidad vegetal, así como aquellos otros de análoga naturaleza destinados a combatir malezas u otros organismos indeseables en áreas no cultivadas.
+2.9 (Derogado).
+
+> Téngase en cuenta que queda derogado el apartado 2.9 por la disposición derogatoria única.b) del Real Decreto 285/2021, de 20 de abril. Ref. BOE-A-2021-7689#dd, a partir del 10 de noviembre de 2021, segun establece su disposición final 3.
+
+> Redacción anterior:
+
+> "2.9 Plaguicidas de uso fitosanitario o productos fitosanitarios: los destinados a su utilización en el ámbito de la sanidad vegetal, así como aquellos otros de análoga naturaleza destinados a combatir malezas u otros organismos indeseables en áreas no cultivadas."
 
 2.10 Plaguicidas de uso ganadero: los destinados a su utilización en el entorno de los animales o en las actividades estrechamente relacionadas con su explotación.
 
@@ -43,6 +49,8 @@ f) Hacer inofensivos, destruir o prevenir la acción de otros organismos nocivos
 2.14 Plaguicidas para uso doméstico: cualquiera de los definidos en los epígrafes 2.9 a 2.13, autorizados expresamente para que puedan ser aplicados por personas no especialmente cualificadas en viviendas y otros locales habitados.
 
 2.15 Para los ingredientes activos plaguicidas que sean sustancias químicas, son asimismo de aplicación las restantes definiciones establecidas en el artículo 2.º del Reglamento de Sustancias Nuevas y Clasificación, Envasado y Etiquetado de Sustancias Peligrosas (en lo sucesivo Reglamento de Sustancias), aprobado por Real Decreto 2216/1985, de 23 de octubre.
+
+> Se deroga el apartado 2.9, con efectos de 10 de noviembre de 2021, por la disposición derogatoria única.b) del Real Decreto 285/2021, de 20 de abril. Ref. BOE-A-2021-7689#dd
 
 > Se añade el apartado 2.15 por el art. único.1 del Real Decreto 162/1991, de 8 de febrero. Ref. BOE-A-1991-4002.
 

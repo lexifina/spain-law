@@ -2,7 +2,13 @@
 
 4.1 En concordancia con lo establecido en las diferentes disposiciones específicas que regulan su control oficial y para cumplimiento de las mismas, los plaguicidas que hayan de utilizarse en el territorio nacional sólo podrán fabricarse y/o comercializarse si, como garantía de una contrastación de su utilidad y eficacia por los Organismos oficiales competentes, están inscritos en algunos de los siguientes Registros:
 
-a) Los productos fitosanitarios, en el Registro Oficial de Productos y Material Fitosanitario del Servicio de Defensa contra Plagas e Inspección Fitopatológica.
+a) (Derogada).
+
+> Téngase en cuenta que queda derogada la letra a) del apartado 1 por la disposición derogatoria única.b) del Real Decreto 285/2021, de 20 de abril. Ref. BOE-A-2021-7689#dd, a partir del 10 de noviembre de 2021, segun establece su disposición final 3.
+
+> Redacción anterior:
+
+> "a) Los productos fitosanitarios, en el Registro Oficial de Productos y Material Fitosanitario del Servicio de Defensa contra Plagas e Inspección Fitopatológica."
 
 b) Los plaguicidas de uso ganadero, en el Registro de productos Zoosanitarios de la Dirección General de la Producción Agraria de conformidad con el Real Decreto 163/1981, de 23 de enero.
 
@@ -41,6 +47,8 @@ e) La capacidad máxima de los envases, en caso de que aquélla se considere fac
 Por los Ministerios competentes se determinarán, mediante disposiciones de desarrollo de la presente Reglamentación, los documentos a presentar por los solicitantes. Igualmente, las Direcciones Generales competentes establecerán los modelos y sistemas normalizados de solicitudes correspondientes.
 
 Los expedientes de solicitud de homologación y registro deberán ser resueltos en el plazo máximo de dieciocho meses. Transcurrido el plazo para la resolución, podrán entenderse desestimadas las solicitudes correspondientes.
+
+> Se deroga la letra a) del apartado 1, con efectos de 10 de noviembre de 2021, por la disposición derogatoria única.b) del Real Decreto 285/2021, de 20 de abril. Ref. BOE-A-2021-7689#dd
 
 > Se modifica por el art. único.1 a 3 del Real Decreto 443/1994, de 11 de marzo. Ref. BOE-A-1994-7329.
 

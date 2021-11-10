@@ -26,7 +26,13 @@
 
 10.3.1 Los usuarios de plaguicidas serán responsables de que en su manipulación y aplicación se cumplan las condiciones de utilización de los mismos que figuren en las etiquetas de sus envases y, particularmente, de que se respeten los plazos de seguridad correspondientes.
 
-10.3.2 Los aplicadores o Empresas de tratamiento con productos fitosanitarios deberán extender a sus contratantes un documento acreditativo de los plaguicidas y dosis aplicadas en cada tratamiento realizado y de los plazos de seguridad correspondientes.
+10.3.2 (Derogado).
+
+> Téngase en cuenta que queda derogado el apartado 10.3.2 por la disposición derogatoria única.b) del Real Decreto 285/2021, de 20 de abril. Ref. BOE-A-2021-7689#dd, a partir del 10 de noviembre de 2021, segun establece su disposición final 3.
+
+> Redacción anterior:
+
+> "10.3.2 Los aplicadores o Empresas de tratamiento con productos fitosanitarios deberán extender a sus contratantes un documento acreditativo de los plaguicidas y dosis aplicadas en cada tratamiento realizado y de los plazos de seguridad correspondientes."
 
 10.3.3 Queda prohibido:
 
@@ -45,6 +51,8 @@ c) La aplicación de cualquier tipo de plaguicidas sobre alimentos preparados pa
 10.3.7 Los envases que contengan semillas u otros materiales de reproducción tratados con plaguicidas, a los que se refiere el epígrafe 7.5, deberán ir provistos de una etiqueta en la que se especifique el plaguicida empleado y las indicaciones gráficas correspondientes a su categoría toxicológica, haciendo mención expresa de la prohibición de su utilización para la alimentación humana o animal.
 
 10.3.8 Los envases vacíos que hayan contenido plaguicidas clasificados en las categorías nocivos, tóxicos y muy tóxicos, deberán ser destruidos y enterrados o, en su caso, devueltos al fabricante.
+
+> Se deroga el apartado 10.3.2, con efectos de 10 de noviembre de 2021, por la disposición derogatoria única.b) del Real Decreto 285/2021, de 20 de abril. Ref. BOE-A-2021-7689#dd
 
 > Se modifica el apartado 2.2 por el art. único.6 del Real Decreto 162/1991, de 8 de febrero. Ref. BOE-A-1991-4002.
 

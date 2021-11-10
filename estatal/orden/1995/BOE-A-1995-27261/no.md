@@ -1,1 +1,3 @@
-> Esta norma recupera su vigencia, con efectos de 29 de enero de 2015, por la supresión de la letra ñ) de la disposición derogatoria única del Real Decreto 971/2014, de 21 de noviembre. Ref. BOE-A-2014-12561, que la derogaba, según establece la disposición final 1 del Real Decreto 9/2015, de 16 de enero. Ref. BOE-A-2015-710#df
+Norma derogada, con efectos de 10 de noviembre de 2021, por la disposición derogatoria única.c) del Real Decreto 285/2021, de 20 de abril. Ref. BOE-A-2021-7689#dd.
+
+Téngase en cuenta, respecto de los procedimientos en tramitación, la disposición transitoria única del citado real decreto.
