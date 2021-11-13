@@ -1,0 +1,3 @@
+## Disposición adicional primera. Instrucciones de ejecución.
+
+En conformidad con la disposición adicional cuarta del Real Decreto 431/2020, de 3 de marzo, por el que se desarrolla la estructura orgánica básica del Ministerio de Universidades, sobre actuaciones en materia de tecnologías de la información y las comunicaciones, la Subsecretaría del departamento podrá dictar las instrucciones necesarias para la consolidación de recursos humanos, económico-presupuestarios, técnicos y materiales vinculados a dichas tecnologías de la información y la comunicación y para el mejor cumplimiento de esta orden.
