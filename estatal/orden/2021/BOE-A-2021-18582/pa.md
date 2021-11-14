@@ -1,0 +1,3 @@
+El Consejo de Ministros, en su reunión del día 2 de noviembre de 2021, a propuesta conjunta de los Ministerios de Inclusión, Seguridad Social y Migraciones, de Asuntos Exteriores, Unión Europea y Cooperación, del Interior, de Industria, Comercio y Turismo y de Asuntos Económicos y Transformación Digital, ha adoptado el Acuerdo por el que se aprueban las instrucciones por las que se determina el procedimiento de entrada y permanencia de nacionales de terceros países que ejercen actividad en el sector audiovisual.
+
+Para general conocimiento, se dispone su publicación como anexo a la presente Orden.

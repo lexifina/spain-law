@@ -1,0 +1,3 @@
+## Decimoquinta. Permiso único.
+
+La autorización de residencia para profesionales del sector audiovisual conforme a estas instrucciones se tramitará y emitirá conforme a lo dispuesto en la Directiva 2011/98/UE del Parlamento Europeo y del Consejo, de 13 de diciembre de 2011, por la que se establece un procedimiento único de solicitud de un permiso único que autoriza a los nacionales de terceros países a residir y trabajar en el territorio de un Estado miembro y por la que se establece un conjunto común de derechos para los trabajadores de terceros países que residen legalmente en un Estado miembro.

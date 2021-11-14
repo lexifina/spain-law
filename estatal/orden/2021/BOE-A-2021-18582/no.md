@@ -1,0 +1,3 @@
+## Novena. Autorización de estancia para el sector audiovisual.
+
+En aquellos supuestos en los que el solicitante se encuentre en España en el ámbito de aplicación de la instrucción cuarta y la actividad artística o audiovisual requiera continuar la permanencia de un extranjero hasta un máximo de 180 días por causas que no estaban planificadas inicialmente, la empresa solicitante deberá solicitar la autorización de estancia para el sector audiovisual ante la Unidad de Grandes Empresas según lo establecido en la instrucción duodécima. Esta solicitud debe efectuarse, al menos, 30 días antes de que se cumpla el plazo de 90 días desde la fecha de entrada en el espacio Schenghen.
