@@ -1,0 +1,5 @@
+## Disposición final primera. Habilitación reglamentaria.
+
+1. El Gobierno, a propuesta de los Ministerios de Justicia y de Universidades, aprobará un real decreto por el que se adapte el Reglamento de la Ley 34/2006, de 30 de octubre, sobre el acceso a las profesiones de Abogado y Procurador de los Tribunales, aprobado por el Real Decreto 775/2011, de 3 de junio, a las previsiones de la presente Ley, en el plazo de seis meses a contar desde la entrada en vigor de la misma, para garantizar el cumplimiento de los trámites preceptivos dentro del plazo y habida cuenta de que si bien los trabajos ya se encuentran avanzados, como resulta preceptivo informe del Consejo de Estado entre otros organismos, así como informe del Consejo General de Procuradores que tiene carácter facultativo, resulta conveniente ampliar el plazo.
+
+2. El Gobierno, a propuesta del Ministerio de Justicia, aprobará en el plazo de un año desde la entrada en vigor de la presente Ley, un real decreto por el que se modifique el Real Decreto 1373/2003, de 7 de noviembre, por el que se aprueba el arancel de derechos de los procuradores de los tribunales.
