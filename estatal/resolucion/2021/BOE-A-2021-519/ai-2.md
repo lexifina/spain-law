@@ -25,7 +25,6 @@ Delegación Especial de Andalucía, Ceuta y Melilla
 | Loja. | 18123 |
 | Motril. | 18142 |
 | Órgiva. | 18150 |
-| Granada-Almanjayar. | 18601 |
 | Aracena. | 21007 |
 | Ayamonte. | 21010 |
 | La Palma del Condado. | 21054 |
@@ -44,6 +43,7 @@ Delegación Especial de Andalucía, Ceuta y Melilla
 | Morón de la Frontera. | 41065 |
 | Osuna. | 41068 |
 | Utrera. | 41095 |
+| Sevilla Centro. | 41605 |
 | Heliópolis. | 41603 |
 | Nervión. | 41604 |
 
@@ -490,6 +490,8 @@ Aeropuerto de Valencia-Manises; con sede en Manises.
 Valencia-Marítima.
 
 Sagunto/Sagunt.
+
+> Se modifica el apartado I, en lo que concierne a la Delegación Especial de Andalucía, Ceuta y Melilla, por el art. único de la Resolución de 26 de octubre de 2021. Ref. BOE-A-2021-18378
 
 > Se modifica, con efectos de 9 de julio de 2021, la Delegación Especial de Madrid, por el apartado 1 de la Resolución de 2 de junio de 2021. Ref. BOE-A-2021-9279
 
