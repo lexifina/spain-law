@@ -98,6 +98,11 @@
 | 50 4-CMC |  | (4-clorometcatinona, clefedrona) (1-(4-clorofenil)-2-(metilamino)propano-1-ona), |
 | 51 N-etilhexedrona |  | (2-(etilamino)-1-fenilhexan-1-ona) |
 | 52 alfa-PHP |  | (1-fenil-2-(pirrolidin-1-il)hexan-1-ona) |
+| 53 CUMYL-PEGACLONE |  | (5-pentil-2-(2-fenilpropan-2-il)-2,5-dihidro-1H-pirido[4,3-b]indol-1-ona) |
+| 54 MDMB- 4en-PINACA |  | (metilo 3,3-dimetil-2-{[1-pent-4-en-1-il)-1H-indazol3-carbonil]amino}butanoato) |
+| 55 4F-MDMB-BICA |  | (metilo 2-{[1-4-fluorobutil)-1H-indol3- carbonil]amino}-3,3-dimetilbutanoato) |
+| 56 3-metoxifenciclidina |  | (1-(1-(3-metoxifenil)ciclohexil)piperidina) |
+| 57 difenidina |  | (1-(1,2-difeniletil)piperidina) |
 | Sustancias de la lista III |
 | 1 AMOBARBITAL |  | Ácido 5-etil-5-isopentilbarbitúrico |
 | 2 BUPRENORFINA |  | 2l-ciclopropil-7-α-[(S)-1-hidroxi-1,2,2-trimetilpropil]-6,14-endo-etano-6,7,8,14-tetrahidrooripavina |
@@ -174,6 +179,13 @@
 | 63 ZOLPIDEM |  | [N,N,6-trimetil-2-p-tolilimidazol (1,2-α)piridina-3-acetamida] |
 | 64 FLUALPRAZOLAM |  | (8-cloro-6-(2-fluorofenil)-1-metil-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4] diazepina) |
 | 65 ETIZOLAM |  | (4-(2-clorofenil)-2-etil-9-metil-6H-tieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepina) |
+| 66 CLONAZOLAM |  | (6-(2-clorofenil)-1-metil-8-nitro-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepina |
+| 67 DICLAZEPAM |  | (7-cloro-5-(2-clorofenil)-1-metil-1,3-dihidro-2H-benzo[e][1,4]diazepin2ona) |
+| 68 FLUBROMAZOLAM |  | (8-bromo-6-(2-fluorofenil)-1-metil-4H-enzo[f][1,2,4]triazolo[4,3- a][1,4]diazepina) |
+
+> Véase el art. único de la Orden SND/1248/2021, de 5 de noviembre, en relación a la inclusión de nuevas sustancias en las listas II y IV. Ref. BOE-A-2021-18707
+
+> Téngase en cuenta para su aplicación la disposición adicional única.
 
 > Véase el art. único de la Orden SND/473/2021, de 11 de mayo, en relación a la inclusión de nuevas sustancias en las listas I, II y IV. Ref. BOE-A-2021-8188
 
