@@ -1,0 +1,1 @@
+Téngase en cuenta que, por Resolución de 8 de abril de 2022, se publica la actualización de las Directrices operativas para la gestión de pasajeros aéreos y personal de aviación con relación a la pandemia Covid-19, con efectos de 10 de mayo de 2022, Ref. BOE-A-2022-7513, por lo que la presente Resolución debe entenderse implícitamente derogada.
