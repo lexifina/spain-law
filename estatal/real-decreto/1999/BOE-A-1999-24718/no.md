@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 23, de 27 de enero de 2000. Ref. BOE-A-2000-1650.
+Norma derogada, con efectos desde el 18 de noviembre de 2021, por la disposición derogatoria única.c) del Real Decreto 985/2021, de 16 de noviembre de 2021. Ref. BOE-A-2021-18813
