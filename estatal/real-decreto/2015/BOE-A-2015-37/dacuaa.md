@@ -14,18 +14,20 @@ Además, en todos o algunos de los tres ámbitos descritos, podrán incorporarse
 
 3. La organización de estas enseñanzas deberá permitir su realización en dos cursos.
 
-4. La superación de alguno de los niveles correspondientes a cada uno de los tres ámbitos a los que hace referencia el apartado segundo tendrá validez en todo el Estado. La superación de todos los ámbitos dará derecho a la obtención del título de Graduado en Educación Secundaria Obligatoria.
+4. (Derogado)
 
 5. Corresponde a las Administraciones educativas, en el ámbito de sus competencias, organizar periódicamente pruebas para que las personas mayores de dieciocho años puedan obtener directamente el título de Graduado en Educación Secundaria Obligatoria, siempre que hayan alcanzado las competencias básicas y los objetivos de la etapa. Estas pruebas se organizarán con base en los tres ámbitos de conocimiento citados.
 
 6. De acuerdo con lo dispuesto en el artículo 69.4 de la Ley Orgánica 2/2006, de 3 de mayo, corresponde a las Administraciones educativas organizar periódicamente pruebas para que las personas mayores de veinte años puedan obtener directamente el título de Bachiller, siempre que demuestren haber alcanzado los objetivos del Bachillerato, establecidos en el artículo 33 de la Ley Orgánica 2/2006, de 3 de mayo, así como los fijados en los elementos del currículo regulados en este real decreto. Dichas pruebas se organizarán de manera diferenciada según las modalidades del Bachillerato.
 
-7. Asimismo, con el fin de adaptar la oferta del Bachillerato a los principios que rigen la educación de personas adultas, en dichas enseñanzas no será de aplicación lo dispuesto en el artículo 32 de este real decreto.
+7. (Derogado)
 
 8. Corresponde a las Administraciones educativas establecer los procedimientos para el reconocimiento de la formación del sistema educativo español que el alumnado acredite y la valoración de los conocimientos y experiencias previas adquiridos a través de la educación no formal, con objeto de proceder a su orientación y adscripción a un nivel determinado dentro de cada uno de los ámbitos de conocimiento.
 
 9. En los centros docentes autorizados para impartir enseñanza a distancia de personas adultas, las evaluaciones finales para la obtención de los títulos oficiales previstos en este real decreto serán realizadas en la forma que se determine por las Administraciones educativas que hayan autorizado o a las que estén adscritos dichos centros.
 
 Si el alumno o alumna reside fuera de la localidad en la que el centro autorizado esté ubicado, las evaluaciones externas se podrán realizar fuera de dicha localidad, de acuerdo con lo establecido por convenio de colaboración entre los centros de educación a distancia de personas adultas, o a través de otras formas que garanticen el correcto desarrollo de las pruebas.
+
+> Se derogan los apartados 4 y 7 por la disposición derogatoria única del Real Decreto 984/2021, de 16 de noviembre. Ref. BOE-A-2021-18812#dd
 
 > Se modifica por la disposición final 1 del Real Decreto 562/2017, de 2 de junio. Ref. BOE-A-2017-6250#df
