@@ -2,10 +2,8 @@
 
 1. Validación de avales. Sistema destinado a que los órganos competentes de la Agencia Estatal de Administración Tributaria puedan comprobar la validez de los avales presentados por los interesados y otorgados por las Entidades de crédito y por las Sociedades de garantía recíproca.
 
-2. Número de Referencia Completo (NRC). En los avales presentados por los interesados ante la Agencia Estatal de Administración Tributaria, el Número de Referencia Completo es un código generado informáticamente por la Entidad avalista mediante un sistema criptográfico, que está compuesto por 22 posiciones con el siguiente contenido:
+2. Número de Referencia Completo (NRC). En los avales presentados por los interesados ante la Agencia Estatal de Administración Tributaria, el Número de Referencia Completo es un código de veintidós posiciones alfanuméricas, generado informáticamente por la propia Agencia Tributaria mediante un sistema que permite asociarlo unívocamente al aval al que se asigna.
 
-Posiciones 1-13: Numéricas. Corresponden al número de referencia.
+La correcta configuración del NRC generado podrá ser objeto de comprobación, a través de los servicios de información de la Agencia Estatal de Administración Tributaria.
 
-Posición 14: Alfanumérica. Corresponde a un carácter de control adicional, generado a partir del número de referencia.
-
-Posiciones 15-22: Caracteres de control.
+> Se modifica el punto 2, con efectos de 18 de noviembre de 2021, por el apartado primero.2 de la Resolución de 20 de septiembre de 2021. Ref. BOE-A-2021-15450

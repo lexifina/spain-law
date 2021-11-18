@@ -1,64 +1,48 @@
 ## ANEXO I
 
-## Generación de un NRC (Número de Referencia Completo)
+## Generación del NRC de avales
 
-El NRC se generará a partir de los datos siguientes:
+| Parámetro | Tipo | Tipo Formato |
+| --- | --- | --- |
+| Modelo. | Entrada. | Alfanumérico (3). Constante 901. |
+| Código de la entidad colaboradora. | Entrada. | Alfanumérico (4). |
+| NIF del contribuyente. | Entrada. | Alfanumérico (9). |
+| Fecha vencimiento. | Entrada. | Fecha (opcional u obligatoria, dependiendo del código de aval). |
+| Código de aval (*). | Entrada. | Numérico (2). Ampliado a dos dígitos para usos futuros. Informar con un solo dígito salvo que sea estrictamente necesario. |
+| Importe. | Entrada. | Numérico. |
+| NIF del empleado que concede el aval en nombre de la entidad. | Entrada. | Alfanumérico (9) Opcional. |
+| NRC. | Salida. | Alfanumérico (22). |
+| Fecha de generación. | Salida. | Fecha. |
+| Código de respuesta. | Salida. | Numérico. |
+| Descripción respuesta. | Salida. | Alfanumérico. |
 
-| Número de Referencia (Generado por la Entidad) | MMMBBBBNNNNNDC | (14) | Siendo: MMM = 901 (euros). BBBB = Código de Banco de España NNNNN= Número secuencia) correlativo. D = Dígito de control del justificante. C = Carácter de control complementario. |
-| --- | --- | --- | --- |
-| NIF del contribuyente | XXXXXXXXX | (9) |  |
-| Fecha de vencimiento | MMAA | (4) | Siendo: MM = Mes AA = Año 0000 = Indefinido |
-| Códigos de aval | X | (1) | «1»= Suspensión ejecución recurso de reposición. «2»= Suspensión ejecución reclamación económico-administrativa. «3»= Aplazamientos/Fraccionamientos. «4»= Devolución IVA. «5»= Garantía de deudas aduaneras y tributarias por operaciones aduaneras. «6»= Garantía con modelos previstos en el Reglamento de Ejecución (UE) 2015/2447. «7» = Adenda al modelo de aval tipo 5, 7 y 9 vigentes a la entrada en aplicación del Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013, por el que se establece el código aduanero de la Unión. «8» = Actas con acuerdo. «9» = Garantía por deudas tributarias por operaciones previstas en la normativa de Impuestos Especiales. |
-| Importe | XXX | (12) | Siendo XXXXXXXXXXXX = Importe avalado de la liquidación recurrida (en los códigos «1» y «2») o el importe garantizado(en el resto de códigos). |
-|  | LONGITUD TOTAL | (40) | DATO DE LA OPERACIÓN |
+(*) Actualmente, los posibles valores del campo Código de aval son los siguientes:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/61/04511_10379497_image1.png)
+‒ 1 = Suspensión ejecución recurso de reposición.
 
-El Número de Referencia Completo (NRC) de la presentación será:
+‒ 2 = Suspensión ejecución reclamación económico-administrativa.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/61/04511_10379497_image2.png)
+‒ 3 = Aplazamientos/fraccionamientos.
 
-Detalle de los datos a incluir para generar el NRC:
+‒ 4 = Devoluciones IVA.
 
-Para generar el NRC es imprescindible que todos estos datos, a incluir en los procedimientos de cifrado, estén en EBCDIC.
+‒ 5 = Garantía de deudas aduaneras y tributarias por operaciones aduaneras.
 
-MMM: Código de Modelo para Avales: 901 (euros)
+‒ 6 = Garantía con modelos previstos en el Reglamento de Ejecución (UE) 2015/2447.
 
-BBBB: Cuatro primeros dígitos del Código del Banco de España.
+‒ 7 = Adenda al modelo de aval tipo 5, 7 y 9 vigentes a la entrada en vigor del Reglamento (UE) n.º 952/2013, del Parlamento Europeo.
 
-NNNNN: Número secuencial correlativo, comenzando por 00000. Caso de llegar a 99999, se comenzaría por 00000.
+‒ 8 = Actas con acuerdo.
 
-D: Dígito de control del «MMMBBBBNNNNN», generado con el mismo algoritmo que el actual número de justificante de las autoliquidaciones.
+‒ 9 = Deudas tributarias por operaciones previstas en la normativa de Impuestos Especiales.
 
-C: Carácter de control complementario, generado aplicando un algoritmo que será facilitado a una de las personas designadas por la entidad avalista. Sólo se utilizará para el NRC.
+El acceso al servicio para generar o anular un NRC de Aval por parte de una entidad de crédito se realizará de acuerdo a las condiciones establecidas en el Anexo VII BIS de la Orden Ministerial EHA 2027/2007.
 
-MMMBBBBNNNNNDC: Conforman el Número de Referencia, que formará parte del NRC.
+Para hacer uso del servicio de generación de NRC de avales, las entidades de crédito usarán en las comunicaciones con la AEAT preferiblemente un certificado electrónico dedicado exclusivamente a este fin, dado que la operativa de avales normalmente está restringida a un grupo reducido de empleados de la entidad de crédito. La entidad de crédito asumirá cualquier responsabilidad derivada de un uso inadecuado del servicio de generación de NRC de avales por parte de sus empleados.
 
-NIF: NIF del contribuyente. En el caso de que existan varios avalados, se consignará el correspondiente al primero que se haya señalado en el cuerpo del modelo.
+> Se modifica , con efectos de 18 de noviembre de 2021, por el apartado primero.7 de la Resolución de 20 de septiembre de 2021. Ref. BOE-A-2021-15450
 
-Fecha de vencimiento: Mes y año de vencimiento del aval. Si se presta con carácter indefinido, se consignará 0000 (siempre en los avales con código 1, 2, 4, 5, 7, 8 y 9).
-
-Códigos de aval:
-
-(1) Suspensión ejecución recurso de reposición.
-
-(2) Suspensión ejecución reclamación económico-administrativa.
-
-(3) Aplazamientos/Fraccionamientos.
-
-(4) Devolución IVA.
-
-(5) Garantía de deudas aduaneras y tributarias por operaciones aduaneras.
-
-(6) Garantía con modelos previstos en el Reglamento de Ejecución (UE) 2015/2447.
-
-(7) Adenda al modelo de aval tipo 5, 7 y 9 vigentes a la entrada en aplicación del Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013, por el que se establece el código aduanero de la Unión.
-
-(8) Actas con acuerdo.
-
-(9) Garantía por deudas tributarias por operaciones previstas en la normativa de Impuestos Especiales.
-
-Importe: Se indicará la cifra (un número entero), ajustada a la derecha y rellena con ceros a la izquierda, hasta completar las 12 posiciones. El importe avalado se expresará en céntimos de euro, para evitar el uso de decimales."
+> Téngase en cuenta el periodo transitorio, hasta el 3 de diciembre de 2021, establecido en el apartado segundo de la citada Resolución.
 
 > Se modifica por el art. único.5 de la Resolución de 11 de febrero de 2019. Ref. BOE-A-2019-2288
 

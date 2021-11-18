@@ -1,37 +1,39 @@
 ## ANEXO II
 
-## Modelo de designación de responsables de las Entidades analistas (*)
+## Modelo de designación de responsables de las entidades avalistas (*)
 
-Razón social de la entidad avalista:
+Razón social de la Entidad avalista:
 
-Código de la entidad avalista:
+Código asignado por el Banco de España a la Entidad avalista:
 
-‒ Si la Entidad avalista es colaboradora: Confirmación de que los responsables son los comunicados a efectos de recaudación de tributos.
+– Si la entidad avalista es colaboradora en la gestión recaudatoria de la Agencia Tributaria: Confirmación de que los responsables son los comunicados a efectos de recaudación de tributos.
 
-‒ Si la Entidad avalista NO es colaboradora: Deben rellenarse los siguientes datos:
+– Si la entidad avalista NO es colaboradora en la gestión recaudatoria de la Agencia Tributaria: Deben rellenarse los siguientes datos:
 
 Responsable 1:
 
-Nombre y apellidos:
+– Nombre y apellidos:
 
-Dirección:
+– Dirección.
 
-Nombre y n.º de la vía pública:
+– Nombre y n.º de la vía pública:
 
-Municipio:
+– Municipio:
 
-Código postal:
+– Código postal:
 
-Provincia:
+– Provincia:
 
-N.º de teléfono del responsable:
+– N.º de teléfono del responsable.
 
-N.º de fax del responsable:
+– N.º de fax del responsable.
 
-Usuario o dirección de correo electrónico del responsable (dato optativo):
+– Dirección de correo electrónico del responsable.
 
 Responsable 2:
 
 Deben indicarse los mismos datos que para el Responsable 1.
 
 (*) La información deberá remitirse a la Unidad de Control de Entidades Colaboradoras del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria.
+
+> Se modifica, con efectos de 18 de noviembre de 2021, por el apartado primero.8 de la Resolución de 20 de septiembre de 2021. Ref. BOE-A-2021-15450
