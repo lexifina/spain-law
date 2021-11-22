@@ -16,33 +16,31 @@ I. Estados:
 
 6. Colombia.
 
-7. Jordania.
+7. Indonesia.
 
-8. Kuwait.
+8. Jordania.
 
-9. Namibia.
+9. Kuwait.
 
-10. Nueva Zelanda.
+10. Namibia.
 
-11. Perú.
+11. Nueva Zelanda.
 
-12. Qatar.
+12. Perú.
 
-13. Ruanda.
+13. Qatar.
 
-14. Arabia Saudí.
+14. Ruanda.
 
-15. Singapur.
+15. Arabia Saudí.
 
 16. Corea del Sur.
 
-17. Ucrania.
+17. Emiratos Árabes Unidos.
 
-18. Emiratos Árabes Unidos.
+18. Uruguay.
 
-19. Uruguay.
-
-20. China.
+19. China.
 
 II. Regiones administrativas especiales de la República Popular China:
 
@@ -53,6 +51,8 @@ RAE de Macao.
 III. Entidades y autoridades territoriales no reconocidas como Estados por al menos un Estado miembro de la Unión Europea:
 
 Taiwán.
+
+> Se modifica por el art. único de la Orden INT/1269/2021, de 19 de noviembre. Ref. BOE-A-2021-19072
 
 > Se modifica por el art. único.2 de la Orden INT/1159/2021, de 29 de octubre. Ref. BOE-A-2021-17662
 
