@@ -1,1 +1,1 @@
-Norma deogada, con efectos de 11 de agosto de 2021, por la disposición derogatoria única de la Orden HFP/862/2021, de 29 de julio. Ref. BOE-A-2021-13680#dd
+Norma deogada, con efectos de 11 de agosto de 2021, por la disposición derogatoria única de la Orden HFP/862/2021, de 29 de julio. Ref. BOE-A-2021-13680#dd y en particular, en cuanto afecte al ámbito competencial del Ministerio de Consumo, desde el 23 de noviembre de 2021, por la disposición derogatoria única de la Orden CSM/1271/2021, de 15 de noviembre de 2021. Ref. BOE-A-2021-19104#dd

@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango que se opongan a lo establecido en la presente orden y en particular, en cuanto afecten al ámbito competencial del Ministerio de Consumo, quedan sin efecto la Orden SSI/1870/2015, de 10 de septiembre, por la que se crea y regula el funcionamiento de la Comisión Ministerial de Administración Digital del Ministerio de Sanidad, Servicios Sociales e Igualdad, y la Orden HAP/444/2015, de 13 de marzo, por la que se crea la Comisión Ministerial de Administración Digital del Ministerio de Hacienda y Administraciones Públicas y se regula su composición y funciones.
