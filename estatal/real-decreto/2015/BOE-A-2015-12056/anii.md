@@ -14,7 +14,7 @@ Las autoridades de resolución preventiva pueden exigir a las entidades que, par
 
 5. Una descripción detallada de los componentes del pasivo de la entidad y de las personas jurídicas que integran el grupo, con un desglose, como mínimo, por tipos e importes de deuda a corto y largo plazo y por pasivos garantizados, no garantizados y subordinados.
 
-6. Desglose de los pasivos de la entidad que sean admisibles.
+6. Desglose de los pasivos de la entidad que sean susceptibles de recapitalización interna.
 
 7. Una relación de los procesos necesarios para determinar para quién ha constituido la entidad una garantía, la persona que es titular de la garantía y la jurisdicción bajo la que se encuentra la garantía.
 
@@ -55,3 +55,5 @@ e) transmisión de riesgos y acuerdos de respaldo mutuo; así como acuerdos sobr
 20. Una descripción de las posibles fuentes de liquidez para respaldar la resolución.
 
 21. Información sobre los gravámenes que pesan sobre los activos, los activos líquidos, las actividades no contabilizadas en el balance, las estrategias de cobertura y las prácticas de registro.
+
+> Se modifica el punto 6 por el art. 2.21 del Real Decreto 1041/2021, de 23 de noviembre. Ref. BOE-A-2021-19307#as

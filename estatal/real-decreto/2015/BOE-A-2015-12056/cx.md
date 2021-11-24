@@ -1,0 +1,5 @@
+## CAPÍTULO X
+
+## Requerimiento mínimo de fondos propios y pasivos admisibles
+
+> Se añade por el art. 2.19 del Real Decreto 1041/2021, de 23 de noviembre. Ref. BOE-A-2021-19307#as

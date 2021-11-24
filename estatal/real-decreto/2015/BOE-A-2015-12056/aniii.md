@@ -36,7 +36,7 @@ Al evaluar la oportunidad de proceder a la resolución de una entidad o un grupo
 
 16. El grado en que la estructura jurídica del grupo impide la aplicación de los instrumentos de resolución como consecuencia del número de personas jurídicas, de la complejidad de la estructura del grupo o de la dificultad a la hora de asignar las ramas de actividad a las entidades del grupo.
 
-17. El importe y el tipo de pasivos admisibles de la entidad.
+17. El importe y el tipo de pasivos susceptibles de recapitalización interna de la entidad.
 
 18. Cuando la evaluación se refiera a una sociedad mixta de cartera, el grado en que la resolución de las entidades del grupo podría afectar a la parte no financiera del grupo.
 
@@ -59,3 +59,5 @@ Al evaluar la oportunidad de proceder a la resolución de una entidad o un grupo
 27. El grado en que el contagio a otras entidades o a los mercados financieros podría contenerse a través de la aplicación de los instrumentos y competencias de resolución
 
 28. El grado en que la resolución de la entidad podría tener un efecto significativo en el funcionamiento de los sistemas de pago y liquidación.
+
+> Se modifica el punto 17 por el art. 2.22 del Real Decreto 1041/2021, de 23 de noviembre. Ref. BOE-A-2021-19307#as
