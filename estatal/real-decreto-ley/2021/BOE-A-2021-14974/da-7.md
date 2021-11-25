@@ -16,4 +16,8 @@ b) Si el incremento del coste de la materia prima por aplicación de la metodolo
 
 6. No se podrá poner fin al procedimiento de recuperación de las cantidades adeudadas hasta que las comercializadoras de último recurso hayan recuperado la totalidad de las mismas, incluyendo, en su caso, los intereses correspondientes.
 
+La facturación de la tarifa de último recurso responderá de estos pagos, y en su defecto, estos tendrán la consideración de desajuste entre ingresos y costes del sistema gasista, conforme a lo dispuesto en al artículo 61 de la Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia.
+
 7. Se habilita a la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico para desarrollar lo dispuesto en esta disposición.
+
+> Se modifica el apartado 6 por el art. 8 del Real Decreto-ley 27/2021, de 23 de noviembre. Ref. BOE-A-2021-19305#ao
