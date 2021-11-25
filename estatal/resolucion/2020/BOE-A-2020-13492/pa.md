@@ -8,6 +8,8 @@ Se autoriza la prórroga del estado de alarma declarado por el Real Decreto 926/
 
 La prórroga se extenderá desde las 00:00 horas del día 9 de noviembre de 2020 hasta las 00:00 horas del día 9 de mayo de 2021.
 
+> Téngase en cuenta que se declara inconstitucional y nulo el apartado segundo por Sentencia del TC 183/2021, de 27 de octubre. Ref. BOE-A-2021-19512
+
 ## Tercero.
 
 La prórroga se someterá a las condiciones establecidas en el Real Decreto 926/2020, de 25 de octubre, por el que se declara el estado de alarma para contener la propagación de infecciones causadas por el SARS-CoV-2 y en los Decretos que, en su caso, se adopten en uso de la habilitación conferida por la disposición final primera del citado Real Decreto 926/2020, de 25 de octubre, sin perjuicio de lo que se establece en los apartados siguientes.
@@ -34,6 +36,8 @@ Se acuerda la modificación por el Gobierno de los artículos 9, 10 y 14 así co
 
 > Asimismo, trascurridos cuatro meses de vigencia de esta prórroga, la conferencia de presidentes autonómicos podrá formular al Gobierno una propuesta de levantamiento del Estado de Alarma, previo acuerdo favorable del Consejo Interterritorial del Sistema Nacional de Salud a la vista de la evolución de los indicadores sanitarios, epidemiológicos, sociales y económicos.»
 
+> Téngase en cuenta que se declara inconstitucional y nulo el apartado cuarto en cuanto dió nueva redacción a los arts. 9 (salvo en lo relativo al inciso primero de su párrafo segundo), 10 y 14 del Real Decreto 926/2020, por Sentencia del TC 183/2021, de 27 de octubre, Ref. BOE-A-2021-19512. Respecto a los dos primeros párrafos del art. 14, la declaración de inconstitucionalidad afecta exclusivamente a los incisos destacados.
+
 > «Disposición adicional.
 
 > Durante la vigencia del presente estado de alarma causado por el COVID-19, y a sus efectos, aquellos municipios que constituyen enclaves recibirán el tratamiento propio de la provincia que les circunda, sin que sea obstáculo que esta pertenezca a Comunidad Autónoma distinta a la de aquellos.»
@@ -41,3 +45,5 @@ Se acuerda la modificación por el Gobierno de los artículos 9, 10 y 14 así co
 ## Quinto.
 
 La medida prevista en el artículo 5 del Real Decreto 926/2020, de 25 de octubre, conservará su eficacia, en los términos previstos con anterioridad al comienzo de la prórroga autorizada, en tanto que la autoridad competente delegada que corresponda no determine, de acuerdo con el artículo 10 del Real Decreto 926/2020, de 25 de octubre, su modulación, flexibilización o suspensión.
+
+> Téngase en cuenta que se declara inconstitucional y nulo el apartado quinto por Sentencia del TC 183/2021, de 27 de octubre. Ref. BOE-A-2021-19512

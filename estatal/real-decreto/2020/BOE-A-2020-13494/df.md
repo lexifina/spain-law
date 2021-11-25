@@ -16,6 +16,8 @@ Dos. El artículo 10 queda redactado como figura a continuación:
 
 > La autoridad competente delegada en cada comunidad autónoma o ciudad con Estatuto de autonomía podrá, en su ámbito territorial, a la vista de la evolución de los indicadores sanitarios, epidemiológicos, sociales, económicos y de movilidad, previa comunicación al Ministerio de Sanidad y de acuerdo con lo previsto en el artículo 13, modular, flexibilizar y suspender la aplicación de las medidas previstas en los artículos 5, 6, 7 y 8, con el alcance y ámbito territorial que determine. La regresión de las medidas hasta las previstas en los mencionados artículos se hará, en su caso, siguiendo el mismo procedimiento.»
 
+> Téngase en cuenta que se declaran inconstitucionales y nulos los apartados uno y dos, en cuanto dieron nueva redacción a los arts. 9 y 10 del Real Decreto 926/2020, a excepción del inciso primero del párrafo segundo del art. 9, por Sentencia del TC 183/2021, de 27 de octubre. Ref. BOE-A-2021-19512
+
 Tres. El artículo 14 queda redactado como figura a continuación:
 
 > «Artículo 14. Rendición de cuentas.
@@ -25,6 +27,8 @@ Tres. El artículo 14 queda redactado como figura a continuación:
 > El Ministro de Sanidad solicitará su comparecencia ante la Comisión de Sanidad y Consumo del Congreso de los Diputados, con periodicidad mensual, para dar cuenta de los datos y gestiones correspondientes a su departamento en relación a la aplicación del Estado de Alarma.
 
 > Asimismo, transcurridos cuatro meses de vigencia de esta prórroga, la conferencia de presidentes autonómicos podrá formular al Gobierno una propuesta de levantamiento del Estado de Alarma, previo acuerdo favorable del Consejo Interterritorial del Sistema Nacional de Salud a la vista de la evolución de los indicadores, sanitarios epidemiológicos, sociales y económicos.»
+
+> Téngase en cuenta que se declara inconstitucional y nulo el apartado tres, en cuanto dió nueva redacción al art. 14 del Real Decreto 926/2020, afectando exclusivamente al tercer párrafo y a los incisos destacados de los dos primeros párrafos, por Sentencia del TC 183/2021, de 27 de octubre. Ref. BOE-A-2021-19512
 
 Cuatro. La disposición adicional única pasa a ser «Disposición adicional primera».
 
