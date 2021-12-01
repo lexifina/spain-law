@@ -1,6 +1,8 @@
 ## Disposición final única. Efectos.
 
-Esta orden surtirá efectos desde las 24:00 horas del 22 de julio de 2020 hasta las 24:00 horas del 30 de noviembre de 2021, sin perjuicio de su eventual modificación para responder a un cambio de circunstancias o a nuevas recomendaciones en el ámbito de la Unión Europea.
+Esta orden surtirá efectos desde las 24:00 horas del 22 de julio de 2020 hasta las 24:00 horas del 31 de diciembre de 2021, sin perjuicio de su eventual modificación para responder a un cambio de circunstancias o a nuevas recomendaciones en el ámbito de la Unión Europea.
+
+> Se modifica por el art. único.2 de la Orden INT/1304/2021, de 26 de noviembre. Ref. BOE-A-2021-19608
 
 > Se modifica por el art. único.1 de la Orden INT/1159/2021, de 29 de octubre. Ref. BOE-A-2021-17662
 
