@@ -8,7 +8,7 @@ Las medidas recogidas en este anexo solo resultarán de aplicación a las entida
 
 ## Segundo.
 
-Para aquellos deudores que reciban un importe de ayuda pública igual o inferior a 1.800.000 euros o a 270.000 euros si la empresa pertenece al sector de la pesca o acuicultura, o a 225.000 euros si la empresa pertenece al sector de producción primaria de productos agrícolas, el plazo de vencimiento de los avales liberados al amparo del Real Decreto-ley 8/2020, de 17 de marzo y del Real Decreto-ley 25/2020, de 3 de julio, o de la cobertura aseguradora de créditos de circulante por cuenta del Estado (línea COVID I y línea COVID II), puesta en marcha al amparo del Real Decreto-ley 8/2020, de 17 de marzo, y del Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, de 23 de octubre de 2020, se extenderá:
+Para aquellos deudores que reciban un importe de ayuda pública igual o inferior a 2.300.000 euros o a 345.000 euros si la empresa pertenece al sector de la pesca o acuicultura, o a 290.000 euros si la empresa pertenece al sector de producción primaria de productos agrícolas, el plazo de vencimiento de los avales liberados al amparo del Real Decreto-ley 8/2020, de 17 de marzo, y del Real Decreto-ley 25/2020, de 3 de julio, o de la cobertura aseguradora de créditos de circulante por cuenta del Estado (línea COVID I y línea COVID II), puesta en marcha al amparo del Real Decreto-ley 8/2020, de 17 de marzo, y del Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, de 23 de octubre de 2020, se extenderá:
 
 – Para aquellas operaciones que hayan sido objeto de extensión de plazo de vencimiento al amparo del Real Decreto-ley 34/2020, de 17 de noviembre, o de los Acuerdos de la Comisión de Riesgos por cuenta del Estado, por un periodo adicional máximo de dos años, siempre y cuando el vencimiento total de la operación avalada no supere los diez años desde la fecha de formalización inicial de la operación.
 
@@ -24,7 +24,7 @@ Las condiciones aplicables y requisitos para cumplir en las extensiones de plazo
 
 ## Tercero.
 
-Para aquellos deudores que reciban un importe de ayuda pública superior a 1.800.000 euros o a 270.000 euros si la empresa pertenece al sector de la pesca o acuicultura, o a 225.000 euros si la empresa pertenece al sector de producción primaria de productos agrícolas, el plazo de vencimiento de los avales liberados al amparo del Real Decreto-ley 8/2020, de 17 de marzo, y del Real Decreto-ley 25/2020, de 3 de julio, o de la cobertura aseguradora de créditos de circulante por cuenta del Estado (línea COVID I y línea COVID II), puesta en marcha al amparo del Real Decreto-ley 8/2020, de 17 de marzo, y del Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, de 23 de octubre de 2020, se extenderá:
+Para aquellos deudores que reciban un importe de ayuda pública superior a 2.300.000 euros o a 345.000 euros si la empresa pertenece al sector de la pesca o acuicultura, o a 290.000 euros si la empresa pertenece al sector de producción primaria de productos agrícolas, el plazo de vencimiento de los avales liberados al amparo del Real Decreto-ley 8/2020, de 17 de marzo, y del Real Decreto-ley 25/2020, de 3 de julio, o de la cobertura aseguradora de créditos de circulante por cuenta del Estado (línea COVID I y línea COVID II), puesta en marcha al amparo del Real Decreto-ley 8/2020, de 17 de marzo, y del Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, de 23 de octubre de 2020, se extenderá:
 
 – Para aquellas operaciones que hayan sido objeto de extensión de plazo de vencimiento al amparo del Real Decreto-ley 34/2020, de 17 de noviembre, o de los Acuerdos de la Comisión de Riesgos por cuenta del Estado, por un periodo adicional máximo de dos años, siempre y cuando el vencimiento total de la operación avalada no supere los ocho años desde la fecha de formalización inicial de la operación.
 
@@ -54,7 +54,7 @@ e) Que el deudor no esté sujeto a un procedimiento concursal.
 
 f) Que la financiación avalada se haya formalizado antes de la fecha de adopción de este Acuerdo del Consejo de Ministros.
 
-g) Que la solicitud por parte del deudor a la entidad no sea más tarde del 15 de octubre de 2021.
+g) (Suprimida)
 
 h) Que el deudor cumpla, para solicitar la extensión del aval, con los límites establecidos en la normativa de Ayudas de Estado de la Unión Europea.
 
@@ -62,14 +62,20 @@ i) Que el deudor no haya sido condenado mediante sentencia firme por delitos con
 
 j) Que la facturación, entendida como volumen de operaciones anual declarado o comprobado por la Administración en el modelo fiscal anual correspondiente al Impuesto sobre el Valor Añadido o tributo equivalente, tanto para empresas como para autónomos de Acuerdo con el régimen que se aplique haya caído un mínimo del 30 % en 2020 con respecto a 2019.
 
+## Cuarto bis.
+
+Para aquellas operaciones avaladas en las que concurran las condiciones establecidas en el artículo 16 del Real Decreto-ley 20/2021, de 5 de octubre, por el que se adoptan medidas urgentes de apoyo para la reparación de los daños ocasionados por las erupciones volcánicas y para la reconstrucción económica y social de la isla de La Palma, sólo serán de aplicación los requisitos establecidos en las letras a), e), f), y h) del apartado cuarto. El cumplimiento de las condiciones del artículo 16 del Real Decreto-ley 20/2021 para la operación avalada será acreditado mediante declaración responsable de la entidad financiera.
+
 ## Quinto.
 
 Aquellos deudores que cumplan con los requisitos recogidos en las letras a) hasta i) del apartado anterior, pero cuya facturación, en los términos indicados en la letra j) anterior en 2020 con respecto a 2019 hubiera caído menos de un 30 %, podrán gozar de la ampliación de vencimientos de la financiación con aval público siempre y cuando medie Acuerdo por parte de entidad acreedora concedente de la financiación.
 
 ## Sexto.
 
-Las entidades y los deudores podrán acordar en todo caso la ampliación de los plazos de carencia de la operación, debiendo comunicar la entidad asimismo al ICO, CESCE o CERSA dicha ampliación en la fecha máxima del 1 de diciembre de 2021.
+Las entidades y los deudores podrán acordar en todo caso la ampliación de los plazos de carencia de la operación, debiendo comunicar la entidad asimismo al ICO, CESCE o CERSA dicha ampliación en la fecha máxima del 1 de junio de 2022.
 
 ## Séptimo.
 
-Las entidades dispondrán de un máximo de 45 días naturales para resolver la solicitud del deudor y en caso de que la solicitud sea estimada, comunicar al ICO, a CERSA o a CESCE la solicitud de la modificación de los términos del aval. Será posible comunicar al ICO, a CERSA o a CESCE una o varias solicitudes de modificación de los términos del aval hasta el 1 de diciembre de 2021. Esta comunicación se realizará de Acuerdo con el procedimiento que sea establecido por el ICO, CERSA y CESCE y sea comunicado a las entidades financieras.
+Las entidades dispondrán de un máximo de cuarenta y cinco días naturales para resolver la solicitud del deudor y en caso de que la solicitud sea estimada, comunicarán al ICO, a CERSA o a CESCE la solicitud de la modificación de los términos del aval. Será posible comunicar al ICO, a CERSA o a CESCE una o varias solicitudes de modificación de los términos del aval hasta el 1 de junio de 2022. Esta comunicación se realizará de Acuerdo con el procedimiento que sea establecido por el ICO, CERSA y CESCE y sea comunicado a las entidades financieras.
+
+> Se modifica el párrafo primero de los apartados segundo y tercero, se añade el apartado cuarto bis, se elimina la letra g) del apartado cuarto y se modifican los apartados sexto y séptimo por el Anexo II.tercero del Acuerdo del Consejo de Ministros de 30 de noviembre de 2021, publicado por Resolución de 30 de noviembre de 2021. Ref. BOE-A-2021-19802

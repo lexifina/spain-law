@@ -34,13 +34,13 @@ El importe global de transferencias para operaciones con aval gestionado por ICO
 
 – 150 millones de euros para avales gestionados por CERSA.
 
-Para cumplir con lo dispuesto en el Real Decreto-ley 5/2021, de 12 de marzo, las propuestas de pago, según la distribución anterior, se realizarán con cargo al ejercicio 2021, sin perjuicio de que ICO, CESCE y CERSA puedan proceder a su ejecución en 2021 y 2022.
+Para cumplir con lo dispuesto en el Real Decreto-ley 5/2021, de 12 de marzo, las propuestas de pago, según la distribución anterior, se realizarán con cargo al ejercicio 2021, sin perjuicio de que ICO, CESCE y CERSA puedan proceder a su ejecución en 2021, 2022 y 2023.
 
-En 2023, ICO, CESCE y CERSA deberán reintegrar los fondos no empleados.
+En 2024, ICO, CESCE y CERSA deberán reintegrar los fondos no empleados.
 
 ## Quinto.
 
-Solo se podrá realizar una solicitud de transferencia por las entidades a cada uno de los gestores de avales (ICO, CESCE o CERSA) para cada operación avalada. Esta comunicación se realizará de Acuerdo con el procedimiento que sea establecido por el ICO, CERSA y CESCE y sea comunicado a las entidades financieras.
+Como regla general, solo se podrá realizar una solicitud de transferencia por las entidades a cada uno de los gestores de avales (ICO, CESCE o CERSA) para cada operación avalada. Será posible llevar a cabo una segunda solicitud de transferencia si ésta tuviera su origen en la ampliación de los límites establecidos en los puntos 3.1 y 3.2 del Marco Temporal de Ayudas de Estado de la Unión Europea con posterioridad a la primera solicitud. Esta comunicación se realizará de Acuerdo con el procedimiento que sea establecido por el ICO, CERSA y CESCE y sea comunicado a las entidades financieras.
 
 De acuerdo con el artículo 12.1 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, el ICO, CESCE o CERSA se constituyen como entidades colaboradoras para que, actuando en nombre y por cuenta de la de la Secretaria General de Tesoro y Financiación Internacional, entreguen y distribuyan los fondos previamente transferidos, para lo que se suscribirán los correspondientes convenios previstos en la citada Ley 38/2003.
 
@@ -48,4 +48,6 @@ CERSA realizará las transferencias a las SGR una vez las operaciones de reducci
 
 ## Sexto.
 
-El plazo máximo para la ejecución de los Acuerdos de reducción de deuda y comunicación de las transferencias a ICO, CESCE o CERSA será el 1 de diciembre de 2022.
+El plazo máximo para la ejecución de los Acuerdos de reducción de deuda y comunicación de las transferencias a ICO, CESCE o CERSA será el 1 de junio de 2023.
+
+> Se modifican los dos últimos párrafos del apartado cuarto, el primer párrafo del quinto y el apartado sexto por el Anexo II.quinto del Acuerdo del Consejo de Ministros de 30 de noviembre de 2021, publicado por Resolución de 30 de noviembre de 2021. Ref. BOE-A-2021-19802

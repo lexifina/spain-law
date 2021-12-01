@@ -26,7 +26,7 @@ e) Que el deudor no esté sujeto a un procedimiento concursal.
 
 f) Que la financiación avalada se haya formalizado antes de la fecha de adopción de este Acuerdo del Consejo de Ministros.
 
-g) Que la solicitud por parte del deudor a la entidad no sea más tarde del 15 de octubre de 2021.
+g) (Suprimida)
 
 h) Que el deudor cumpla, para solicitar la conversión, con los límites establecidos en la normativa de Ayudas de Estado de la Unión Europea.
 
@@ -44,4 +44,6 @@ Otros trámites: No son necesarios trámites adicionales a este Acuerdo del Cons
 
 ## Tercero.
 
-Las entidades dispondrán de un máximo de cuarenta y cinco días naturales para resolver la solicitud del deudor y en caso de que la solicitud sea estimada, comunicar al ICO, a CERSA o a CESCE la solicitud de la modificación de los términos del aval. Será posible comunicar al ICO, a CERSA o a CESCE solicitudes de modificación de los términos del aval hasta el 1 de diciembre de 2021. Esta comunicación se realizará de Acuerdo con el procedimiento que sea establecido por el ICO, CERSA y CESCE y sea comunicado a las entidades financieras.
+Las entidades dispondrán de un máximo de cuarenta y cinco días naturales para resolver la solicitud del deudor y en caso de que la solicitud sea estimada, comunicarán al ICO, a CERSA o a CESCE la solicitud de la modificación de los términos del aval. Será posible comunicar al ICO, a CERSA o a CESCE solicitudes de modificación de los términos del aval hasta el 1 de junio de 2022. Esta comunicación se realizará de Acuerdo con el procedimiento que sea establecido por el ICO, CERSA y CESCE y sea comunicado a las entidades financieras.
+
+> Se suprime la letra g) del apartado segundo y se modifica el apartado tercero por el Anexo II.cuarto del Acuerdo del Consejo de Ministros de 30 de noviembre de 2021, publicado por Resolución de 30 de noviembre de 2021. Ref. BOE-A-2021-19802

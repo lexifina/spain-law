@@ -73,9 +73,9 @@ Porcentajes máximos, remuneración, plazos de formalización y de vencimiento m
 
 Importe máximo por deudor y plazo máximo de aval:
 
-– Para operaciones con deudores que reciban ayuda pública por un total igual o inferior a 1.800.000 euros, el plazo del aval emitido coincidirá con el plazo del préstamo, hasta un máximo de 8 años.
+– Para operaciones con deudores que reciban ayuda pública por un total igual o inferior a 2.300.000 euros, el plazo del aval emitido coincidirá con el plazo del préstamo, hasta un máximo de 8 años.
 
-– Para operaciones con deudores que reciban ayuda pública por un total superior a 1.800.000 euros, el plazo del aval emitido coincidirá con el plazo del préstamo, hasta un máximo de 6 años. En este caso, el importe nominal a avalar no podrá superar el mayor de:
+– Para operaciones con deudores que reciban ayuda pública por un total superior a 2.300.000 euros, el plazo del aval emitido coincidirá con el plazo del préstamo, hasta un máximo de 6 años. En este caso, el importe nominal a avalar no podrá superar el mayor de:
 
 • El doble de los costes salariales anuales del cliente, tomando como referencia los costes del ejercicio 2019.
 
@@ -87,7 +87,7 @@ Porcentajes máximos de aval del Ministerio de Asuntos Económicos y Transformac
 
 Remuneración del aval:
 
-– Para operaciones con deudores que reciban ayuda pública por un total igual o inferior a 1.800.000 euros el coste del aval ascenderá hasta 20 p.b.
+– Para operaciones con deudores que reciban ayuda pública por un total igual o inferior a 2.300.000 euros el coste del aval ascenderá hasta 20 p.b.
 
 – Para el resto de operaciones la remuneración de los avales será la contenida en la siguiente tabla, y se aplicará durante toda la vida del aval sobre el saldo del importe avalado:
 
@@ -98,5 +98,9 @@ Remuneración del aval:
 | Avales con vencimiento superior a 3 años y hasta 6 años. | 100 p.b. |
 
 Plazos de solicitud de los avales: Los avales podrán solicitarse hasta el 1 de junio de 2021.
+
+> Téngase en cuenta que se amplía el plazo de solicitud de los avales hasta el 1 de junio de 2022, por Acuerdo del Consejo de Ministros de 30 de noviembre de 2021, publicado por Resolución de 30 de noviembre de 2021. Ref. BOE-A-2021-19802
+
+> Se modifican los importes de referencia de los puntos «Importe máximo por deudor y plazo máximo de aval» y «Remuneración del aval» y se amplía el plazo de solicitud de los avales hasta el 1 de junio de 2022, por el anexo y el anexo.I.primero del Acuerdo del Consejo de Ministros de 30 de noviembre de 2021, publicado por Resolución de 30 de noviembre de 2021. Ref. BOE-A-2021-19802
 
 > Se modifican los importes de referencia de los puntos «Importe máximo por deudor y plazo máximo de aval» y «Remuneración del aval» y se amplía el plazo de solicitud de los avales hasta el 1 de diciembre de 2021, por el anexo y el anexo I.segundo.b) del Acuerdo del Consejo de Ministros de 11 de mayo de 2021, publicado por Resolución de 12 de mayo de 2021. Ref. BOE-A-2021-7909#ai

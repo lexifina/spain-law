@@ -12,7 +12,7 @@ Las medidas recogidas en este Código de Buenas Prácticas serán de aplicación
 
 ## Segundo.
 
-La entidad financiera comunicará la realización de estas medidas, previo Acuerdo de los términos con la empresa o autónomo elegible, a ICO, CESCE o CERSA hasta el 1 de diciembre de 2021, en el caso de las extensiones de plazos de vencimiento y las conversiones de las operaciones de financiación en préstamos participativos que hayan recibido aval público, y hasta el 1 de diciembre de 2022, para las medidas de reducción de endeudamiento a que hace referencia el artículo 9 del Real Decreto-ley 5/2021, de 12 de marzo, de medidas extraordinarias de apoyo a la solvencia empresarial en respuesta a la pandemia de la COVID-19.
+La entidad financiera comunicará la realización de estas medidas, previo Acuerdo de los términos con la empresa o autónomo elegible, a ICO, CESCE o CERSA hasta el 1 de junio de 2022, en el caso de las extensiones de plazos de vencimiento y las conversiones de las operaciones de financiación en préstamos participativos que hayan recibido aval público, y hasta el 1 de junio de 2023, para las medidas de reducción de endeudamiento a que hace referencia el artículo 9 del Real Decreto-ley 5/2021, de 12 de marzo, de medidas extraordinarias de apoyo a la solvencia empresarial en respuesta a la pandemia de la COVID-19.
 
 ## Tercero.
 
@@ -26,7 +26,7 @@ Las entidades que se adhieren al Código de Buenas Prácticas se comprometen a a
 
 4. En la aplicación de las medidas recogidas en los tres puntos anteriores, las entidades financieras se comprometen a examinar el conjunto de las exposiciones crediticias del deudor, tanto avaladas como no avaladas, que se hubieran generado entre el 17 de marzo de 2020 y la fecha de publicación del Real Decreto-ley 5/2021, de 12 de marzo. En caso de que se fuera a producir alguna modificación en los términos de las operaciones de financiación avaladas, las entidades tratarán de flexibilizar los términos de las operaciones de financiación no avaladas, con el fin de que la restauración de la posición de solvencia del deudor no descanse exclusivamente en las operaciones de financiación que cuentan con aval público.
 
-5. En el caso en que se implemente alguna de las medidas indicadas en los puntos anteriores, la entidad financiera se compromete a mantener las líneas de circulante que tenía concedidas al deudor beneficiario de las medidas, como mínimo, hasta el 31 de diciembre de 2022.
+5. En el caso en que se implemente alguna de las medidas indicadas en los puntos anteriores, la entidad financiera se compromete a mantener las líneas de circulante que tenía concedidas al deudor beneficiario de las medidas, como mínimo, hasta el 30 de junio de 2023.
 
 6. Las entidades no podrán condicionar la concesión de ninguna de las medidas contenidas en este Código de Buenas Prácticas a la comercialización de otros productos.
 
@@ -59,3 +59,5 @@ Para que las medidas previstas en los anexos III y IV sean efectivas, todas las 
 Las comunicaciones de las medidas previstas en los anexos III y IV que sean acordadas en el marco del Acuerdo de renegociación, se realizarán por cada entidad participante en dicho Acuerdo de renegociación a ICO, CESCE o CERSA, según proceda. Para que se considere correctamente realizada, es necesario que todas las entidades hayan efectuado la comunicación para todas sus operaciones con aval público sujetas al Acuerdo de renegociación. Las comunicaciones de las medidas previstas en el anexo II se realizarán por cada entidad respecto de las operaciones avaladas que tenga el cliente con la entidad.
 
 La entidad con mayor posición global de deuda con aval público deberá conservar la información y documentación sobre todos los elementos exigibles y que conformen el Acuerdo de renegociación de la deuda financiera con avales públicos para cada una de las operaciones avaladas que tenga el cliente con todas las entidades intervinientes en la renegociación.
+
+> Se modifican los apartados segundo y el número 5 del apartado tercero por el Anexo II.segundo del Acuerdo del Consejo de Ministros de 30 de noviembre de 2021, publicado por Resolución de 30 de noviembre de 2021. Ref. BOE-A-2021-19802
