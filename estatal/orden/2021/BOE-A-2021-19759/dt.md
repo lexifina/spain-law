@@ -1,0 +1,3 @@
+## Disposición transitoria única. Personal participante en operaciones militares y campañas en el exterior con anterioridad al 1 de septiembre de 2013.
+
+Las relaciones de personal participante en operaciones militares y campañas en el exterior con anterioridad al 1 de septiembre de 2013, fecha de creación del sistema SIPEROPS (Sistema de Gestión de Personal en Zona de Operaciones), no se regirán por lo establecido en el apartado 2 del artículo 4 de esta orden ministerial. La validación de estas relaciones de personal corresponderá a los órganos que las generan, quienes se constituyen, en este caso particular, en unidad de trámite.
