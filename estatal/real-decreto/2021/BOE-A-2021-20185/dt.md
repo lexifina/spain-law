@@ -1,0 +1,7 @@
+## Disposición transitoria única. Devolución de fondos procedentes de ejercicios anteriores.
+
+En el caso de existir fondos comprometidos en los años 2012 y 2013, procedentes de cantidades asignadas de conformidad con lo dispuesto en el artículo 86 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, que no se hubieran abonado por parte de las comunidades autónomas a los beneficiarios y proveedores que hubieran ejecutado o realizado los proyectos objeto de financiación, se devolverán al Servicio Público de Empleo Estatal en los supuestos previstos en el apartado 8 de la Estrategia Española de Empleo 2012-2014, aprobada por el Real Decreto 1542/2011, de 31 de octubre.
+
+Si las cantidades comprometidas pendientes de pago efectivo proceden de los años 2014 a 2016, en el mismo supuesto mencionado en el párrafo anterior, la devolución al Servicio Público de Empleo Estatal se realizará de conformidad con lo dispuesto en el apartado 6 de la Estrategia Española de Activación para el Empleo 2014-2016, aprobada por el Real Decreto 751/2014, de 5 de septiembre.
+
+Respecto de las cantidades comprometidas pendientes de pago efectivo procedentes de los años 2017 a 2020, la devolución al Servicio Público de Empleo Estatal se realizará de conformidad con lo dispuesto en el apartado 6 de la Estrategia Española de Activación para el Empleo 2017-2020, aprobada por el Real Decreto 1032/2017, de 15 de diciembre, en relación con la gestión de los fondos procedentes de los Presupuestos Generales del Estado por las comunidades autónomas.
