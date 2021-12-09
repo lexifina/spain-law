@@ -1,233 +1,100 @@
 ## ANEXO III
 
-## Lista indicativa y no exhaustiva de actividades y sectores de actividades que pueden requerir la utilización de equipos de protección individual
-
-## 1. Protectores de la cabeza (protección del cráneo).
-
-Cascos protectores:
-
-Obras de construcción y, especialmente, actividades en, debajo o cerca de andamios y puestos de trabajo situados en altura, obras de encofrado y desencofrado, montaje e instalación, colocación de andamios y demolición.
-
-Trabajos en puentes metálicos, edificios y estructuras metálicas de gran altura, postes, torres, obras hidráulicas de acero, instalaciones de altos hornos, acerías, laminadores, grandes contenedores, canalizaciones de gran diámetro, instalaciones de calderas y centrales eléctricas.
-
-Obras en fosas, zanjas, pozos y galerías.
-
-Movimientos de tierra y obras en roca.
-
-Trabajos en explotaciones de fondo, en canteras, explotaciones a cielo abierto y desplazamiento de escombreras.
-
-La utilización o manipulación de pistolas grapadoras.
-
-Trabajos con explosivos.
-
-Actividades en ascensores, mecanismos elevadores, grúas y medios de transporte.
-
-Actividades en instalaciones de altos hornos, plantas de reducción directa, acerías, laminadores, fábricas metalúrgicas, talleres de martillo, talleres de estampado y fundiciones.
-
-Trabajos en hornos industriales, contenedores, aparatos, silos, tolvas y canalizaciones.
-
-Obras de construcción naval.
-
-Maniobras de trenes.
-
-Trabajos en mataderos.
-
-## 2. Protección del pie.
-
-a) Calzado de protección y de seguridad:
-
-Trabajos de obra gruesa, ingeniería civil y construcción de carreteras.
-
-Trabajos en andamios.
-
-Obras de demolición de obra gruesa.
-
-Obras de construcción de hormigón y de elementos prefabricados que incluyan encofrado y desencofrado.
-
-Actividades en obras de construcción o áreas de almacenamiento.
-
-Obras de techado.
-
-Trabajos en puentes metálicos, edificios metálicos de gran altura, postes, torres, ascensores, construcciones hidráulicas de acero, instalaciones de altos hornos, acerías, laminadores, grandes contenedores, canalizaciones de gran diámetro, grúas, instalaciones de calderas y centrales eléctricas.
-
-Obras de construcción de hornos, montaje de instalaciones de calefacción, ventilación y estructuras metálicas.
-
-Trabajos de transformación y mantenimiento.
-
-Trabajos en las instalaciones de altos hornos, plantas de reducción directa, acerías, laminadores, fábricas metalúrgicas y talleres de martillo, talleres de estampado, prensas en caliente y trefilerías.
-
-Trabajos en canteras, explotaciones a cielo abierto y desplazamiento de escombreras.
-
-Trabajos y transformación de piedras.
-
-Fabricación, manipulación y tratamiento de vidrio plano y vidrio hueco.
-
-Manipulación de moldes en la industria cerámica.
-
-Obras de revestimiento cerca del horno en la industria cerámica.
-
-Moldeado en la industria cerámica pesada y de materiales de construcción.
-
-Transportes y almacenamientos.
-
-Manipulaciones de bloques de carne congelada y bidones metálicos de conservas.
-
-Obras de construcción naval.
-
-Maniobras de trenes.
-
-b) Zapatos de seguridad con tacón o suela corrida y suela antiperforante: obras de techado.
-
-c) Calzado y cubrecalzado de seguridad con suela termoaislante: actividades sobre y con masas ardientes o muy frías.
-
-d) Polainas, calzado y cubrecalzado fáciles de quitar: en caso de riesgo de penetración de masas en fusión.
-
-## 3. Protección ocular o facial.
-
-Gafas de protección, pantallas o pantallas faciales:
-
-Trabajos de soldadura, esmerilados o pulido y corte.
-
-Trabajos de perforación y burilado.
-
-Talla y tratamiento de piedras.
-
-Manipulación o utilización de pistolas grapadoras.
-
-Utilización de máquinas que al funcionar levanten virutas en la transformación de materiales que produzcan virutas cortas.
-
-Trabajos de estampado.
-
-Recogida y fragmentación de vidrio, cerámica.
-
-Trabajo con chorro proyector de abrasivos granulosos.
-
-Manipulación o utilización de productos ácidos y alcalinos, desinfectantes y detergentes corrosivos.
-
-Manipulación o utilización de dispositivos con chorro líquido.
-
-Trabajos con masas en fusión y permanencia cerca de ellas.
-
-Actividades en un entorno de calor radiante.
-
-Trabajos con láser.
-
-Trabajos eléctricos en tensión, en baja tensión.
-
-## 4. Protección respiratoria.
-
-Equipos de protección respiratoria:
-
-Trabajos en contenedores, locales exiguos y hornos industriales alimentados con gas, cuando puedan existir riesgos de intoxicación por gas o de insuficiencia de oxígeno.
-
-Trabajos en la boca de los altos hornos.
-
-Trabajos cerca de convertidores y conducciones de gas de altos hornos.
-
-Trabajos cerca de la colada en cubilote, cuchara o caldero cuando puedan desprenderse vapores de metales pesados.
-
-Trabajos de revestimiento de hornos, cubilotes o cucharas y calderos, cuando pueda desprenderse polvo.
-
-Pintura con pistola sin ventilación suficiente.
-
-Trabajos en pozos, canales y otras obras subterráneas de la red de alcantarillado.
-
-Trabajos en instalaciones frigoríficas en las que exista un riesgo de escape de fluido frigorífico.
-
-## 5. Protección del oído.
-
-Protectores del oído:
-
-Utilización de prensas para metales.
-
-Trabajos que lleven consigo la utilización de dispositivos de aire comprimido.
-
-Actividades del personal de tierra en los aeropuertos.
-
-Trabajos de percusión.
-
-Trabajos de los sectores de la madera y textil.
-
-## 6. Protección del tronco, los brazos y las manos.
-
-Prendas y equipos de protección:
-
-Manipulación o utilización de productos ácidos y alcalinos, desinfectantes y detergentes corrosivos.
-
-Trabajos con masas ardientes o permanencia cerca de éstas y en ambiente caliente.
-
-Manipulación de vidrio plano.
-
-Trabajos de chorreado con arena.
-
-Trabajos en cámaras frigoríficas.
-
-Ropa de protección antiinflamable:
-
-Trabajos de soldadura en locales exiguos.
-
-Mandiles antiperforantes:
-
-Trabajos de deshuesado y troceado.
-
-Manipulación de cuchillos de mano, cuando el cuchillo deba orientarse hacia el cuerpo.
-
-Mandiles de cuero y otros materiales resistentes a partículas y chispas incandescentes:
-
-Trabajos de soldadura.
-
-Trabajos de forja.
-
-Trabajos de fundición y moldeado.
-
-Manguitos y mangos protectores del antebrazo y del brazo: trabajos de deshuesado y troceado.
-
-Guantes:
-
-Trabajos de soldadura.
-
-Manipulación de objetos con aristas cortantes, salvo que se utilicen máquinas con riesgo de que el guante quede atrapado.
-
-Manipulación o utilización de productos ácidos y alcalinos.
-
-Trabajos con riesgo eléctrico.
-
-Guantes de metal tranzado, malla metálica, etc.
-
-Trabajos de deshuesado y troceado.
-
-Utilización habitual de cuchillos de mano en la producción y los mataderos.
-
-Sustitución de cuchillas en las máquinas de cortar.
-
-## 7. Ropa de protección para el mal tiempo.
-
-Trabajos al aire libre con tiempo lluvioso o frío.
-
-## 8. Ropa y prendas de seguridad. Señalización.
-
-Trabajos que exijan que las prendas sean vistas a tiempo.
-
-## 9. Dispositivos de prensión del cuerpo y equipos de protección anticaídas (arneses de seguridad, cinturones anticaídas, equipos varios anticaídas y equipos con freno «absorbente de energía cinética»).
-
-Trabajos en andamios.
-
-Montaje de piezas prefabricadas.
-
-Trabajos en postes y torres.
-
-Trabajos en cabinas de grúas situadas en altura.
-
-Trabajos en cabinas de conductor de estibadores con horquilla elevadora.
-
-Trabajos en emplazamientos de torres de perforación situados en altura.
-
-Trabajos en pozos y canalizaciones.
-
-## 10. Prendas y medios de protección de la piel.
-
-Manipulación con revestimientos; productos o sustancias que puedan afectar a la piel o penetrar a través de ella.
-
-Trabajos de curtido.
+## Lista no exhaustiva de actividades y sectores de actividades que pueden requerir la utilización de equipos de protección individual (*)
+
+(*) La evaluación de riesgos determinará la necesidad de suministrar un EPI y sus características de acuerdo con las disposiciones de este real decreto.
+
+I. Riesgos físicos
+
+| Riesgos | Parte del cuerpo afectada Tipo de EPI | Ejemplos de actividades en las que podría ser necesario utilizar el tipo correspondiente de EPI (*) | Industrias y sectores |
+| --- | --- | --- | --- |
+| Físicos: Mecánicos |
+| Golpes resultantes de caídas o proyecciones de objetos, choques contra un obstáculo y chorros a alta presión. | Cráneo. Casco de protección. | Trabajos en andamios y superficies de trabajo elevadas, debajo o cerca de ellos. Estructuras y obras viales. Trabajos de encofrado y desencofrado. Montaje e instalación de andamios. Obras de montaje e instalación. Demoliciones. Trabajos con explosivos. Obras en fosas, zanjas, pozos y galerías. Trabajos cerca de ascensores, equipos de elevación, grúas y transportadores. Trabajos en explotaciones mineras de interior, canteras y explotaciones mineras a cielo abierto. Trabajos con hornos industriales, contenedores, maquinaria, silos, tolvas y canalizaciones. Líneas de sacrificio y faenado en los mataderos. Manipulación de cargas o transporte y almacenamiento. Trabajos forestales. Trabajos en puentes metálicos, construcciones de estructuras metálicas, infraestructuras hidráulicas metálicas, altos hornos, acerías, trenes de laminación, grandes contenedores, canalizaciones de gran diámetro, instalaciones de calderas y centrales eléctricas. Movimientos de tierra. Manipulación de pistolas grapadoras. Trabajos en altos hornos, plantas de reducción directa, acería, trenes de laminación, industrias metalúrgicas, forjado, forja con estampa y fundiciones. Trabajos que conlleven desplazamientos en bicicleta y bicicletas motorizadas. | Construcción de edificios. Obras de ingeniería civil. Fabricación, instalación y mantenimiento de maquinaria. Construcción naval. Industria extractiva. Producción energética. Construcción y mantenimiento de infraestructuras. Industria siderúrgica. Mataderos. Maniobras de trenes. Puertos, transporte y logística. Sector forestal. |
+| Ojos y cara. Gafas de montura universal, gafas de montura integral y pantallas faciales. | Trabajos de soldadura, pulido, y corte. Martillado manual. Calafateo y cincelado. Talla y procesado de piedra. Manipulación de pistolas grapadoras. Utilización de máquinas de mecanizado por arranque de viruta. Forja con estampa. Recogida y fragmentación de materiales rotos. Operaciones con proyección de sustancias abrasivas. Uso de desbrozadoras o motosierras. Intervenciones dentales y quirúrgicas. | Construcción de edificios. Obras de ingeniería civil. Fabricación, instalación y mantenimiento de maquinaria. Construcción naval. Industria extractiva. Producción de energética. Construcción y mantenimiento de infraestructuras. Industria siderúrgica. Industria metalúrgica y de la madera. Tallado de piedras. Jardinería. Asistencia sanitaria. Silvicultura. |
+| Golpes resultantes de caídas o proyecciones de objetos, choques contra un obstáculo y chorros a alta presión (cont.). | Pie y pierna (partes). Calzado (zapatos, botas, etc.) con puntera protectora o de seguridad Calzado con protección del metatarso. | Obras gruesas y obras viales. Trabajos de encofrado y desencofrado. Montaje e instalación de andamios. Demoliciones. Trabajos con explosivos. Trabajo y procesado de la piedra. Trabajos en la línea de sacrificio y faenado. Transporte y almacenamiento. Manipulación de moldes en la industria cerámica. Manipulación de bloques de carne congelada y de envases de conservas. Fabricación, manipulación y tratamiento de vidrio plano y vidrio hueco. Trabajos de reformas y mantenimiento. Trabajos forestales. Trabajos con hormigón y piezas prefabricadas que incluyan encofrado y desencofrado. Trabajos en áreas exteriores de obras de construcción de las edificaciones o en áreas de almacenamiento. Trabajos en cubiertas. Trabajos en puentes metálicos, construcciones de estructuras metálicas, postes, torres, ascensores, construcciones de infraestructuras hidráulicas metálicas de acero, instalaciones de altos hornos, acerías y trenes de laminación, grandes contenedores, canalizaciones de gran diámetro, instalaciones de calderas y centrales eléctricas. Construcción de hornos, montaje de instalaciones de calefacción, ventilación y estructuras metálicas. Trabajos en altos hornos, plantas de reducción directa, acería, trenes de laminación, industrias metalúrgicas, forjado, forja con estampa, prensas en caliente y trefilerías. Trabajos en canteras y explotaciones mineras a cielo abierto y desplazamiento a escombreras. Manipulación de moldes en la industria cerámica. Revestimiento de hornos en la industria cerámica. Maniobras de trenes. | Construcción de edificios. Obras de ingeniería civil. Fabricación, instalación y mantenimiento de maquinaria. Construcción naval. Industria extractiva. Producción energética. Construcción y mantenimiento de infraestructuras. Industria siderúrgica. Mataderos. Empresas de logística. Industria manufacturera. Industria del vidrio. Sector forestal. |
+| Caídas debidas a resbalones. | Pies. Calzado antideslizante. | Trabajos en superficies resbaladizas. Trabajos en ambientes húmedos. | Construcción de edificios. Obras de ingeniería civil. Construcción naval. Mataderos. Limpieza. Industrias alimentarias. Jardinería. Industria pesquera. |
+| Caídas de altura. | Cuerpo entero. EPI diseñado para evitar o detener las caídas de altura. | Trabajos en andamios. Montaje de piezas prefabricadas. Trabajos en postes. Trabajos en cubiertas. Trabajos en superficies verticales o inclinadas. Trabajos en cabinas de grúas en altura. Trabajos en plataformas de equipos de elevación para almacenes. Trabajos en emplazamientos elevados de torres de perforación. Trabajos en pozos y canalizaciones. | Construcción de edificios. Obras de ingeniería civil. Construcción naval. Mantenimiento de infraestructuras. |
+| Vibración. | Manos. Guantes de protección. | Trabajos con herramientas guiadas a mano. | Industrias manufactureras. Obras de construcción. Obras de ingeniería civil. |
+| Compresión estática de partes del cuerpo. | Rodilla (partes de la pierna). Rodilleras. | Colocación de ladrillos, baldosas y losas en el piso. | Construcción de edificios. Obras de ingeniería civil. |
+| Pies. Calzado con punteras. | Demoliciones. Manipulación de cargas. | Construcción de edificios. Obras de ingeniería civil. Transporte y almacenamiento. Mantenimiento. |
+| Lesiones mecánicas (abrasiones, perforaciones, cortes, mordeduras, heridas o pinchazos). | Ojos y cara. Gafas de montura universal, gafas de montura integral, pantallas faciales. | Trabajos con herramientas guiadas a mano. Soldadura y forjado. Trabajos de pulido y corte. Cincelado. Trabajo y procesado de la piedra. Utilización de máquinas de mecanizado por arranque de viruta. Forja con estampa. Recogida y fragmentación de materiales rotos. Operaciones con proyección de sustancias abrasivas. Uso de desbrozadoras o motosierras. | Construcción de edificios. Obras de ingeniería civil. Construcción naval. Industria extractiva. Producción de energética. Mantenimiento de infraestructuras. Industria siderúrgica. Industria metalúrgica y de la madera. Tallado de piedra. Jardinería. Silvicultura. |
+| Manos. Guantes de protección mecánica. | Trabajos con estructuras metálicas. Manipulación de objetos con aristas cortantes salvo que se utilicen máquinas con riesgo de que el guante quede atrapado. Utilización regular de cuchillos de mano en la producción y el sacrificio. Sustitución de cuchillas en máquinas de corte. Trabajos forestales. Trabajos de jardinería. | Construcción de edificios. Obras de ingeniería civil. Construcción naval. Mantenimiento de infraestructuras. Industrias manufactureras. Industria alimentaria. Mataderos. Sector forestal. |
+| Antebrazos. Protección para brazos. | Deshuesado y troceado. | Industria alimentaria. Mataderos. |
+| Tronco/abdomen/pierna. Delantal protector, polainas, pantalones resistentes a las perforaciones (pantalones resistentes a los cortes). | Utilización regular de cuchillos de mano en la producción y el sacrificio. Trabajos forestales. | Industria alimentaria. Mataderos. Sector forestal. |
+| Pies. Calzado resistente a las perforaciones. | Obras gruesas y obras viales. Demolición. Obras de encofrado y desencofrado. Trabajos forestales. | Construcción de edificios. Obras de ingeniería civil. Construcción naval. Industria extractiva. Sector forestal. |
+| Enredos y atrapamientos. | Cuerpo entero. Ropa protectora para su uso en lugares donde exista un riesgo de enredo con piezas móviles. | Enredarse en partes de las máquinas. Quedar atrapado en partes de las máquinas. Engancharse con la ropa en partes de las máquinas. Ser arrastrado. | Fabricación de maquinaria. Fabricación de maquinaria pesada. Ingeniería. Construcción. Agricultura. |
+| Físicos: Ruido |
+| Ruido. | Oídos. Protectores auditivos contra el ruido. | Utilización de prensas para metales. Trabajos con equipos neumáticos. Actividades del personal de tierra en los aeropuertos. Trabajos con herramientas eléctricas. Trabajos con explosivos. Trabajos con martinete. Trabajos de los sectores de la madera y textil. | Industria metalúrgica. Industria manufacturera. Construcción de edificios. Obras de ingeniería civil. Sector aeronáutico. Industria extractiva. |
+| Físicos: Térmicos |
+| Calor o llamas. | Cara/cabeza entera. Pantallas faciales de soldadura, cascos/gorras para proteger contra el calor o las llamas, capuchas de protección contra el calor o las llamas. | Trabajos a altas temperaturas, con calor radiante o con llamas. Trabajos con sustancias fundidas o cerca de ellas. Trabajos con equipos de soldadura para plásticos. | Industria siderúrgica. Industria metalúrgica. Servicios de mantenimiento. Industria manufacturera. |
+| Tronco/abdomen/ piernas. Delantal protector, polainas. | Soldadura y forjado. Fundición. | Industria siderúrgica. Industria metalúrgica. Servicios de mantenimiento. Industria manufacturera. |
+| Mano. Guantes de protección contra el calor o las llamas. | Soldadura y forjado. Trabajos a altas temperaturas, con calor radiante o con llamas. Trabajos con sustancias fundidas o cerca de ellas. | Industria siderúrgica. Industria metalúrgica. Servicios de mantenimiento. Industria manufacturera. |
+| Antebrazos. Manguitos. | Soldadura y forjado. Trabajos con sustancias fundidas o cerca de ellas. | Industria siderúrgica. Industria metalúrgica. Servicios de mantenimiento. Industria manufacturera. |
+| Pies. Calzado protector contra el calor o las llamas. | Trabajos con sustancias fundidas o cerca de ellas. | Industria siderúrgica. Industria metalúrgica. Servicios de mantenimiento. Industria manufacturera. |
+| Cuerpo entero/parte del cuerpo. Ropa protectora contra el calor o las llamas. | Trabajos a altas temperaturas, con calor radiante o con llamas. | Industria siderúrgica. Industria metalúrgica. Sector forestal. |
+| Frío. | Mano. Guantes de protección contra el frío. Pies. Calzado protector contra el frío. | Trabajo al aire libre en condiciones de frío extremo. Trabajos en cámaras de ultracongelación. Trabajos con líquidos criogénicos. | Construcción de edificios. Obras de ingeniería civil. Construcción naval. Industria extractiva. Industria alimentaria. Agricultura y pesca. |
+| Cuerpo entero/parcial, incluida la cabeza. Ropa de protección contra el frío. | Trabajo al aire libre a bajas temperaturas. Trabajos en cámaras de ultracongelación. | Construcción de edificios. Obras de ingeniería civil. Construcción naval. Industria extractiva. Industria alimentaria. Agricultura y pesca. Transporte y almacenamiento. |
+| Físicos: Eléctricos |
+| Choque eléctrico (contacto directo o indirecto). | Cabeza entera. Cascos eléctricamente aislantes. Manos. Guantes aislantes de la electricidad. Pies. Calzado aislante de la electricidad. Cuerpo entero/manos/pies. EPI conductor para ser usados por personas cualificadas en trabajos en tensión, con un voltaje nominal del sistema eléctrico de hasta 800 kV CA y 600 kV CC. | Trabajos en tensión o cerca de partes activas en tensión eléctrica. Trabajos en instalaciones eléctricas. | Producción energética. Transporte y distribución de energía eléctrica. Mantenimiento de instalaciones industriales. Construcción de edificios. Obras de ingeniería civil. |
+| Electricidad estática en presencia de atmósferas potencialmente explosivas. | Manos. Guantes antiestáticos. Pies. Calzado antiestático/conductor. Cuerpo entero. Ropa antiestática. | Manipulación de plástico y caucho. Vertido, recabado o carga en un contenedor. Trabajo cerca de elementos muy cargados electrostáticamente, por ejemplo, cintas transportadoras. Manipulación de explosivos. | Industria manufacturera. Industria de los piensos. Plantas de empaquetado y embalaje. Producción, almacenamiento o transporte de explosivos. |
+| Físicos: Radiación |
+| Radiación no ionizante, incluida la luz solar (excepto la observación directa). | Cabeza. Gorras y cascos. | Trabajos al aire libre. | Pesca y agricultura. Construcción de edificios. Obras de ingeniería civil. |
+| Ojos. Gafas de montura universal, gafas de montura integral y pantallas faciales. | Trabajos con calor radiante. Operaciones con hornos. Trabajos con láser. Trabajos al aire libre. Soldadura y corte oxiacetilénico. Soplado de vidrio. Lámparas germicidas. | Industria siderúrgica. Industria manufacturera. Pesca y agricultura. Construcción de edificios. Obras de ingeniería civil. |
+| Cuerpo entero (piel). EPI contra la radiación UV natural y artificial. | Trabajos al aire libre. Soldadura eléctrica. Lámparas germicidas. Lámparas de xenón. | Construcción de edificios. Obras de ingeniería civil. Construcción naval. Industria extractiva. Producción energética. Mantenimiento de infraestructuras. Pesca y agricultura. Sector forestal. Jardinería. Industria alimentaria. Industria del plástico. Artes gráficas. |
+| Radiación ionizante. | Ojos. Gafas de montura universal y gafas de montura integral de protección contra la radiación ionizante. Manos. Guantes de protección contra la radiación ionizante. | Trabajos en instalaciones de rayos X. Trabajos en el ámbito del radiodiagnóstico médico. Trabajos con productos radiactivos. | Asistencia sanitaria. Asistencia veterinaria. Planta de tratamiento de residuos radiactivos. Producción energética. |
+| Tronco/abdomen/ cuerpo (parcial). Delantal de protección contra los rayos X, chaquetón/chaleco/ faldón de protección contra los rayos X. | Trabajos en instalaciones de rayos X. Trabajos en el ámbito del radiodiagnóstico médico. | Asistencia sanitaria. Asistencia veterinaria. Asistencia odontológica. Urología. Cirugía. Radiología médica. Laboratorios. |
+| Cabeza. Gorros y elementos de protección de la cabeza. EPI contra, por ejemplo, el desarrollo de tumores cerebrales. | Lugares de trabajo e instalaciones con rayos X, para uso médico. | Asistencia sanitaria. Asistencia veterinaria. Asistencia odontológica. Urología. Cirugía. Radiología médica. |
+| Cuerpo (parcial). EPI para proteger la tiroides. EPI para proteger las gónadas. | Trabajos en instalaciones de rayos X. Trabajos en el ámbito del radiodiagnóstico médico. | Asistencia sanitaria. Asistencia veterinaria. |
+| Cuerpo entero. Ropa de protección contra la radiación ionizante. | Trabajos en el ámbito del radiodiagnóstico médico. Trabajos con productos radiactivos. | Producción energética. Planta de tratamiento de residuos radiactivos. |
+
+II. Riesgos químicos (incluidos los nanomateriales)
+
+| Riesgos | Parte del cuerpo afectada Tipo de EPI | Ejemplos de actividades en las que podría ser necesario utilizar el tipo correspondiente de EPI (*) | Industrias y sectores |
+| --- | --- | --- | --- |
+| Químicos: Aerosoles |
+| Sólidos (polvos, humos, humos de combustión, fibras. y nanomateriales). | Sistema respiratorio. Equipos de protección respiratoria contra las partículas. | Demolición. Trabajos con explosivos. Lijado y pulido de superficies. Trabajo en presencia de amianto. Uso de materiales que se compongan de nano-partículas o que las contengan. Soldadura. Deshollinado de chimeneas. Trabajos de revestimiento de hornos y cucharas de colada, cuando pueda desprenderse polvo. Trabajos cerca de la colada de altos hornos cuando puedan desprenderse emanaciones de metales pesados. Trabajos cerca de la boca de carga de altos hornos. Operativas que generen dispersión y nubes de polvo de mercancía a granel de sólido pulverulento. | Construcción de edificios. Obras de ingeniería civil. Construcción naval. Industria extractiva. Industria siderúrgica. Industria metalúrgica y de la madera. Industria automovilística. Tallado de piedra. Industria farmacéutica. Servicios sanitarios. Preparación de medicamentos citostáticos. Puertos. |
+| Manos. Guantes de protección química y crema barrera como protección adicional o accesoria. | Trabajo en presencia de amianto. Uso de materiales que se compongan de nano-partículas o que las contengan. | Construcción de edificios. Obras de ingeniería civil. Construcción naval. Mantenimiento de instalaciones industriales. |
+| Cuerpo entero. Ropa de protección contra las partículas sólidas. | Demolición. Trabajo en presencia de amianto. Uso de materiales que se compongan de nano-partículas o que las contengan. Deshollinado de chimeneas. Preparación de productos fitosanitarios. | Construcción de edificios. Obras de ingeniería civil. Construcción naval. Mantenimiento de instalaciones industriales. Agricultura. |
+| Ojos. Gafas de montura universal, gafas de montura integral y pantallas faciales. | Trabajos con madera. Obras viales. | Industria extractiva. Industria metalúrgica y de la madera. Obras de ingeniería civil. |
+| Líquido (nieblas y neblinas). | Sistema respiratorio. Equipos de protección respiratoria contra partículas. | Tratamiento de superficies (por ejemplo, barnizado, pintura y limpieza con abrasivos). Limpieza de superficies. | Industria metalúrgica. Industria manufacturera. Sector de la automoción. |
+| Manos. Guantes de protección química. | Tratamiento de superficies. Limpieza de superficies. Manipulación de aerosoles líquidos. Manipulación de productos ácidos y alcalinos, desinfectantes y detergentes corrosivos. | Industria metalúrgica. Industria manufacturera. Sector de la automoción. |
+| Cuerpo entero. Ropa de protección química. | Tratamiento de superficies. Limpieza de superficies. | Industria metalúrgica. Industria manufacturera. Sector de la automoción. |
+| Químicos: Líquidos |
+| Inmersión, salpicaduras, pulverizaciones y chorros. | Manos. Guantes de protección química. | Manipulación de aerosoles líquidos. Manipulación de productos ácidos y alcalinos, desinfectantes y detergentes corrosivos. Manipulación de materiales de revestimiento. Curtido. Trabajos en peluquerías y centros de estética. | Industria textil y de la confección. Sector de la limpieza. Industria del automóvil. Sectores de la estética y la peluquería. |
+| Antebrazos. Manguitos de protección química. | Manipulación de productos ácidos y alcalinos, desinfectantes y detergentes corrosivos. | Limpieza. Industria química. Sector de la limpieza. Industria del automóvil. |
+| Pies. Botas de protección química. | Manipulación de aerosoles líquidos. Manipulación de productos ácidos y alcalinos, desinfectantes y detergentes corrosivos. | Industria textil y de la confección. Sector de la limpieza. Industria del automóvil. |
+| Cuerpo entero. Ropa de protección química. | Manipulación de aerosoles líquidos. Manipulación de productos ácidos y alcalinos, desinfectantes y detergentes corrosivos. | Limpieza. Industria química. Sector de la limpieza. Industria del automóvil. Agricultura. |
+| Químicos: Gases y vapores |
+| Gases y vapores. | Sistema respiratorio. Equipos de protección respiratoria contra gases. | Tratamiento de superficies (por ejemplo, barnizado, pintura y limpieza con abrasivos). Limpieza de superficies. Trabajo en salas de fermentación y destilación. Trabajos dentro de tanques y digestores. Trabajos en contenedores, espacios confinados y hornos industriales alimentados con gas cuando puedan existir riesgos de intoxicación por gas o de insuficiencia de oxígeno. Deshollinado de chimeneas. Desinfectantes y sustancias de limpieza corrosivas. Trabajos cerca de convertidores y conducciones de gas de altos hornos. | Industria metalúrgica. Sector de la automoción. Industria manufacturera. Sector de la limpieza. Producción de bebidas alcohólicas. Plantas de tratamiento de aguas. Plantas de tratamiento de residuos. Industria química. Industria petroquímica. |
+| Manos. Guantes de protección química. | Tratamiento de superficies. Limpieza de superficies. Trabajo en salas de fermentación y destilación. Trabajos dentro de tanques y digestores. Trabajos en contenedores, espacios confinados y hornos industriales alimentados con gas cuando puedan existir riesgos de intoxicación por gas o de insuficiencia de oxígeno. | Industria metalúrgica. Sector de la automoción. Industria manufacturera. Producción de bebidas alcohólicas. Plantas de tratamiento de aguas. Plantas de tratamiento de residuos. Industria química. Industria petroquímica. |
+| Cuerpo entero. Ropa de protección química. | Tratamiento de superficies. Limpieza de superficies. Trabajo en salas de fermentación y destilación. Trabajos dentro de tanques y digestores. Trabajos en contenedores, espacios confinados y hornos industriales alimentados con gas cuando puedan existir riesgos de intoxicación por gas o de insuficiencia de oxígeno. | Industria metalúrgica. Sector de la automoción. Industria manufacturera. Producción de bebidas alcohólicas. Plantas de tratamiento de aguas. Plantas de tratamiento de residuos. Industria química. Industria petroquímica. |
+| Ojos. Gafas de montura universal, gafas de montura integral y pantallas faciales. | Pintura con pistola. Trabajos con madera. Operaciones mineras. | Sector de la automoción. Industria manufacturera. Industria extractiva. Industria química. Industria petroquímica. |
+
+III. Agentes biológicos
+
+| Riesgos | Parte del cuerpo afectada Tipo de EPI | Ejemplos de actividades en las que podría ser necesario utilizar el tipo correspondiente de EPI (*) | Industrias y sectores |
+| --- | --- | --- | --- |
+| Agentes biológicos (contenidos en): Aerosoles |
+| Sólidos y líquidos. | Sistema respiratorio. Equipos de protección respiratoria contra partículas. | Trabajo que conlleve el contacto con fluidos y tejidos humanos y animales. Trabajos en presencia de agentes biológicos. | Asistencia sanitaria. Clínicas veterinarias. Laboratorios de análisis clínicos. Laboratorios de investigación. Residencias para ancianos. Asistencia doméstica. Plantas de tratamiento de aguas. Plantas de tratamiento de residuos. Industria alimentaria. Producción bioquímica. |
+| Manos. Guantes de protección contra los microorganismos. Cuerpo entero/cuerpo parcial. Ropa de protección contra los microorganismos. Ojos y/o cara. Gafas de montura universal, gafas de montura integral y pantallas faciales. | Trabajo que conlleve el contacto con fluidos y tejidos humanos y animales. Trabajos en presencia de agentes biológicos. | Asistencia sanitaria. Clínicas veterinarias. Laboratorios de análisis clínicos. Laboratorios de investigación. Residencias para ancianos. Asistencia doméstica. Plantas de tratamiento de aguas. Plantas de tratamiento de residuos. Industria alimentaria. |
+| Agentes biológicos (contenidos en): Líquidos |
+| Contacto directo e indirecto. | Manos. Guantes de protección contra los microorganismos. Cuerpo entero/ cuerpo parcial. Ropa de protección contra los microorganismos. Ojos y/o cara. Gafas de montura universal, gafas de montura integral y pantallas faciales. | Trabajos que conlleven el contacto con fluidos y tejidos humanos y animales (mordeduras, picaduras, etc.). Trabajos en presencia de agentes biológicos. | Asistencia sanitaria. Clínicas veterinarias. Laboratorios de análisis clínicos. Laboratorios de investigación. Residencias para ancianos. Asistencia doméstica. Plantas de tratamiento de aguas. Plantas de tratamiento de residuos. Industria alimentaria. Sector forestal. Agricultura. Obras de ingeniería civil. |
+| Salpicaduras, pulverizaciones y chorros. | Manos. Guantes de protección contra los microorganismos. | Trabajo que conlleve el contacto con fluidos y tejidos humanos y animales. Trabajos en presencia de agentes biológicos. | Asistencia sanitaria. Clínicas veterinarias. Laboratorios de análisis clínicos. Laboratorios de investigación. Residencias para ancianos. Asistencia doméstica. Plantas de tratamiento de aguas. Plantas de tratamiento de residuos. Industria alimentaria. |
+| Antebrazos. Manguitos de protección contra los microorganismos. | Trabajo que conlleve el contacto con fluidos y tejidos humanos y animales. Trabajos en presencia de agentes biológicos. | Asistencia sanitaria. Clínicas veterinarias. Laboratorios de análisis clínicos. Laboratorios de investigación. Residencias para ancianos. Asistencia doméstica. Plantas de tratamiento de aguas. Plantas de tratamiento de residuos. Industria alimentaria. |
+| Pies/piernas. Cubrebotas y polainas protectoras. | Trabajo que conlleve el contacto con fluidos y tejidos humanos y animales. Trabajos en presencia de agentes biológicos. | Asistencia sanitaria. Clínicas veterinarias. Laboratorios de análisis clínicos. Laboratorios de investigación. Residencias para ancianos. Asistencia doméstica. Plantas de tratamiento de aguas. Plantas de tratamiento de residuos. Industria alimentaria. |
+| Cuerpo entero. Ropa de protección contra los microorganismos. | Trabajo que conlleve el contacto con fluidos y tejidos humanos y animales. Trabajos en presencia de agentes biológicos. | Asistencia sanitaria. Clínicas veterinarias. Laboratorios de análisis clínicos. Laboratorios de investigación. Residencias para ancianos. Asistencia doméstica. Plantas de tratamiento de aguas. Plantas de tratamiento de residuos. Industria alimentaria. |
+| Agentes biológicos (contenidos en): Materiales, personas, animales, etc. |
+| Contacto directo e indirecto. | Manos. Guantes de protección contra los microorganismos. Cuerpo entero/cuerpo parcial. Ropa de protección contra los microorganismos. Ojos y/o cara. Gafas de montura universal, gafas de montura integral y pantallas faciales. | Trabajos que conlleven el contacto con fluidos y tejidos humanos y animales (mordeduras, picaduras, etc.). Trabajos en presencia de agentes biológicos. | Asistencia sanitaria. Clínicas veterinarias. Laboratorios de análisis clínicos. Laboratorios de investigación. Residencias para ancianos. Asistencia doméstica. Plantas de tratamiento de aguas. Plantas de tratamiento de residuos. Industria alimentaria. Sector forestal. Agricultura. Obras de ingeniería civil. |
+
+IV. Otros riesgos
+
+| Riesgos | Parte del cuerpo afectada Tipo de EPI | Ejemplos de actividades en las que podría ser necesario utilizar el tipo correspondiente de EPI (*) | Industrias y sectores |
+| --- | --- | --- | --- |
+| Falta de visibilidad. | Cuerpo entero. EPI para señalar visualmente la presencia del usuario. | Trabajos cerca de vehículos en movimiento. Trabajos de asfaltado y señalización de carreteras. Obras en vías férreas. Conducción de medios de transporte. Actividades del personal de tierra en los aeropuertos. | Construcción de edificios. Obras de ingeniería civil. Construcción naval. Industria extractiva. Servicios de transporte y transporte de pasajeros. |
+| Deficiencia de oxígeno. | Sistema respiratorio. Equipos de protección respiratoria aislantes. | Trabajos en espacios confinados. Trabajo en salas de fermentación y destilación. Trabajos dentro de tanques y digestores. Trabajos en contenedores, espacios reducidos y hornos industriales alimentados con gas cuando puedan existir riesgos de intoxicación por gas o de insuficiencia de oxígeno. Trabajos en pozos, canalizaciones y otras obras subterráneas de la red de alcantarillado. | Producción de bebidas alcohólicas. Obras de ingeniería civil. Industria química. Industria petroquímica. |
+| Sistema respiratorio. Equipos de buceo. | Trabajos subacuáticos. | Obras de ingeniería civil. |
+| Ahogamiento. | Cuerpo entero. Chaleco salvavidas. | Trabajos en el agua o cerca del agua. Trabajos en el mar. Trabajos en aviones. | Industria pesquera. Sector aeronáutico. Construcción de edificios. Obras de ingeniería civil. Construcción naval. Dársenas y puertos. |
+
+> Se modifica por el art. único.5 del Real Decreto 1076/2021, de 7 de diciembre. Ref. BOE-A-2021-20261
 
 > Redactado el apartado 9 conforme a la corrección de erratas publicada en BOE núm. 171, de 18 de julio de 1997. Ref. BOE-A-1997-16026.
