@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en esta orden. En particular, quedan derogadas la Orden HAP/1637/2012, de 5 de julio, por la que se regula el Registro Electrónico de Apoderamientos y la Orden HFP/633/2017, de 28 de junio, por la que se aprueban los modelos de poderes inscribibles en el Registro Electrónico de Apoderamientos de la Administración General del Estado y en el Registro Electrónico de Apoderamientos de las Entidades Locales y se establecen los sistemas de firma válidos para realizar los apoderamientos apud acta a través de medios electrónicos.
