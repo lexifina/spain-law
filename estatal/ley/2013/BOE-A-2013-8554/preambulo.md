@@ -52,7 +52,7 @@ El objetivo común de todas estas iniciativas comunitarias y nacionales menciona
 
 III
 
-En el marco expuesto, la presente ley tiene como finalidad mejorar el funcionamiento y la vertebración de la cadena alimentaria de manera que aumente la eficacia y competitividad del sector agroalimentario español y se reduzca el desequilibrio en las relaciones comerciales entre los diferentes operadores de la cadena de valor, en el marco de una competencia justa que redunde en beneficio no sólo del sector, sino también de los consumidores.
+En el marco expuesto, la presente ley tiene como finalidad mejorar el funcionamiento y la vertebración de la cadena alimentaria de manera que aumente la eficacia y competitividad del sector agroalimentario español y se reduzca el desequilibrio en las relaciones comerciales entre los diferentes operadores de la cadena de valor, en el marco de una competencia justa que redunde en beneficio no solo del sector, sino también de la ciudadanía.
 
 Para el cumplimiento de este objetivo, la ley se estructura del modo siguiente:
 
@@ -129,5 +129,7 @@ La Disposición final primera, procede a la reforma de la Ley 38/1994, de 30 de 
 Por lo que se refiere, a la Disposición final segunda, modifica la Ley 2/2000, de 7 de enero, Reguladora de los contratos-tipo de productos agroalimentarios. Esta modificación responde a la necesidad de mejorar estos instrumentos esenciales en la construcción de un sector agroalimentario competitivo, eficaz y transparente. Por este motivo, es necesario actualizar el régimen de contratos-tipo en el ámbito agroalimentario, para dotar de una mayor estabilidad a los mercados, adaptando las producciones en cantidad y calidad a las demandas de los mercados exterior e interior y mejorando la transparencia y la competencia del mercado.
 
 Las principales modificaciones al texto de esta ley se refieren a la posibilidad de tener en cuenta, en su caso, a la hora de fijar el precio, indicadores de precios o costes, siendo, en cualquier caso, el precio a percibir así como los indicadores que se apliquen, libremente fijados entre las partes. Estos indicadores deberán ser objetivos, transparentes y verificables, y no manipulables y se fijarán teniendo en cuenta la normativa sobre competencia. Asimismo, se procede a actualizar las infracciones y sanciones aplicables por incumplimiento de lo dispuesto en la ley.
+
+> Se modifica el párrafo primero de la parte III por el art. único.1 de la Ley 16/2021, de 14 de diciembre. Ref. BOE-A-2021-20630#au
 
 > Se modifica el párrafo séptimo de la parte III por la disposición final 1.1 de la Ley 28/2015, de 30 de julio. Ref. BOE-A-2015-8563#dfprimera.

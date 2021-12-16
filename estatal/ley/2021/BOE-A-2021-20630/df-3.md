@@ -1,0 +1,3 @@
+## Disposición final tercera. Comité de cooperación de las autoridades de ejecución.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para la constitución, en el plazo de tres meses a partir de la entrada en vigor de la presente ley, del Comité de cooperación de autoridades de ejecución, adscrito al Ministerio de Agricultura, Pesca y Alimentación a través de la Agencia de Información y Control Alimentarios, O. A., referido en el apartado veintitrés del artículo único, que añade el artículo 28 en el nuevo título VII de la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria. Su constitución se atenderá con los medios humanos y materiales disponibles en el Departamento, sin que conlleve aumento de gasto público.

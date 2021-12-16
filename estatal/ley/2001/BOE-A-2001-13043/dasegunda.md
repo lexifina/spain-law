@@ -1,13 +1,9 @@
 ## Disposición adicional segunda. Régimen jurídico aplicable a la resolución administrativa de determinadas materias.
 
-En cumplimiento de lo dispuesto en el apartado 2 de la disposición adicional primera de la Ley 4/1999, de modificación de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, se entenderán incluidos en la excepción prevista en el apartado 2 del artículo 43 de la Ley 30/1992, los procedimientos siguientes:
+En atención a la necesidad de preservar la seguridad alimentaria y proteger la salud de los ciudadanos, se entenderán incluidos en la excepción prevista en el artículo 24.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los procedimientos siguientes:
 
-Homologación y registro de plaguicidas de uso en la industria alimentaria y de uso ambiental. (Real Decreto 3349/1983, por el que se aprueba la Reglamentación técnico-sanitaria para la fabricación, comercialización y utilización de plaguicidas, modificado por Real Decreto 162/1991, y Real Decreto 443/1994).
+a) Autorización sanitaria de las mercancías sujetas a control oficiales con arreglo a los artículos 47 y 44 del Reglamento (UE) 2017/625, sobre controles oficiales y otras actividades oficiales, la Orden del Ministerio de Sanidad y Consumo de 20 de enero de 1994, por la que se fijan modalidades de control sanitario a productos de comercio exterior destinados a uso y consumo humano y los recintos aduaneros habilitados para su realización y la Orden APA/289/2021, de 22 de marzo, por la que se establecen las partidas sometidas a control veterinario en frontera a realizar por los servicios de sanidad animal.
 
-Autorización sanitaria de mercancías. (Real Decreto 1977/1999, por el que se establecen los principios relativos a la organización de los controles veterinarios sobre los productos de países terceros, y Orden ministerial de 20 de enero de 1994).
+b) Autorización sanitaria de establecimiento para repartir carne y productos cárnicos a Estados Unidos de América (Orden ministerial de 4 de abril de 1995, por la que se regulan las condiciones técnico-sanitarias y de autorización aplicables a los establecimientos de carnes y productos cárnicos para su exportación a los Estados Unidos de América).
 
-Autorización sanitaria de establecimiento para repartir carne y productos cárnicos a Estados Unidos de América (Orden ministerial de 4 de abril de 1995, por la que se regulan las condiciones técnico-sanitarias y de autorización aplicables a los establecimientos de carnes y productos cárnicos para su exportación a Estados Unidos de América).
-
-Autorización sanitaria de producción y comercialización con países terceros de carnes frescas, productos cárnicos y otros determinados productos de origen animal. (Real Decreto 218/1999, por el que se establecen las condiciones sanitarias de producción y comercialización con países terceros de carnes frescas, productos cárnicos y otros determinados productos de origen animal).
-
-Evaluación y registro de preparados alimenticios para regímenes especiales (Real Decreto 2695/1976 por el que se aprueba la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio de preparados alimenticios para regímenes dietéticos y especiales, y Real Decreto 1712/1991 sobre Registro General Sanitario de Alimentos).
+> Se modifica por la disposición final 1.9 de la Ley 16/2021, de 14 de diciembre de 2021. Ref. BOE-A-2021-20630#df

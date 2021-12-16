@@ -14,17 +14,17 @@ La Agencia de Información y Control Alimentarios sustituye en el ejercicio de s
 
 a) La gestión de los sistemas de información y control de los mercados oleícolas, lácteos y la de aquellos otros que se determinen reglamentariamente.
 
-b) Desarrollar las funciones que reglamentariamente se determinen de control oficial antes de la comercialización de las Denominaciones de Origen Protegidas y de las Indicaciones Geográficas Protegidas, cuyo ámbito territorial se extienda a más de una Comunidad Autónoma.
+b) (Suprimida).
 
 c) El control del cumplimiento de lo dispuesto en la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria.
 
 6. Para el cumplimiento de los fines fijados en el apartado anterior, la Agencia desarrollará las siguientes funciones:
 
-a) Gestionar y mantener los sistemas de información, seguimiento y análisis de los mercados oleícolas (aceites de oliva y aceitunas de mesa) y lácteos y el análisis y difusión de sus resultados. Para los sectores o mercados alimentarios que el Ministerio de Agricultura, Alimentación y Medio Ambiente considere especialmente sensibles y/o estratégicos se creará un sistema de información, seguimiento y análisis específico.
+a) Gestionar y mantener los sistemas de información de los mercados oleícolas (aceites de oliva y aceitunas de mesa), vinícolas y lácteos.
 
-b) (Anulada)
+b) Ejercer las competencias recogidas en esta norma como autoridad de ejecución nacional prevista en el artículo 28, sin perjuicio de las competencias de las autoridades autonómicas.
 
-c) (Anulada)
+c) Llevar a cabo las tareas necesarias como punto de contacto para la cooperación entre las autoridades de ejecución, así como con la Comisión Europea, en el ámbito de la Directiva (UE) 2019/633 del Parlamento Europeo y del Consejo, de 17 de abril de 2019.
 
 d) Iniciar e instruir, de acuerdo a su propio régimen, los expedientes sancionadores por incumplimientos en el pago de las aportaciones obligatorias a las organizaciones interprofesionales o de productores, reconocidas por el Ministerio de Agricultura, Alimentación y Medio Ambiente en los productos o sectores a que se refiere la letra a), formulando a las autoridades competentes las propuestas de resolución que correspondan.
 
@@ -38,13 +38,15 @@ g) Iniciar de oficio el procedimiento sancionador que corresponda por las irregu
 
 h) Colaborar con el Observatorio de la Cadena Alimentaria en la realización de los trabajos, estudios e informes que, sobre los productos, mercados y sectores a que se refiere el apartado cinco, resulten necesarios para el ejercicio de las funciones que el Observatorio tiene encomendadas.
 
-i) Gestionar y mantener el Registro Estatal de Buenas Prácticas Mercantiles en la Contratación Alimentaria.
+i) Establecer relaciones de colaboración con otros órganos de la Administración General del Estado y con las comunidades autónomas en materias de su competencia.
 
-j) Establecer y desarrollar el régimen del control oficial de los operadores acogidos a Denominaciones de Origen Protegidas o a Indicaciones Geográficas Protegidas, cuyos ámbitos territoriales se extiendan a más de una comunidad autónoma, y el de sus respectivas entidades de gestión; iniciando e instruyendo, conforme a su propio régimen, los procedimientos sancionadores por los incumplimientos a la Ley 6/2015, de 12 de mayo, de Denominaciones de Origen e Indicaciones Geográficas Protegidas de ámbito territorial supraautonómico y formulando a las autoridades competentes las propuestas de resolución que correspondan.
+j) (Suprimida).
 
 k) Colaborar con organizaciones sectoriales, de productores e interprofesionales relacionadas con las materias de su competencia.
 
 l) Cualesquiera otras funciones que reglamentariamente se le atribuyan para el cumplimiento de sus fines generales.
+
+m) Ejercer las acciones contempladas en el artículo 32.1, 1.ª a 4.ª, de la Ley 3/1991, de 10 de enero, de Competencia Desleal, cuando resulten afectados los intereses de operadores de la cadena alimentaria.
 
 7. Las actuaciones de control e inspección que lleve a cabo la Agencia se realizarán por funcionarios públicos que, en el ejercicio de sus funciones, tendrán la condición de agentes de la autoridad.
 
@@ -84,23 +86,7 @@ En cualquier momento del procedimiento, se podrá ordenar, de oficio o a instanc
 
 14. El régimen patrimonial de la Agencia de Información y Control Alimentarios se ajustará a las previsiones del artículo 48 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
 
-15. Tasa por las actuaciones de inspección realizadas por la Agencia de Información y Control Alimentarios.
-
-a) Establecimiento. Se crea la tasa por las actuaciones de inspección y control oficial que haya de realizar la Agencia de Información y Control Alimentarios en cumplimiento de la Ley 6/2015, de 12 de mayo, de Denominaciones de Origen e Indicaciones Geográficas Protegidas de ámbito territorial supraautonómico que se regirá por lo dispuesto en esta ley y por las demás fuentes normativas que establece el artículo 9 de la Ley 8/1989, de 13 de abril, de Tasa y Precios Públicos.
-
-b) Hecho Imponible. Constituye el hecho imponible de esta tasa las actuaciones de inspección y control oficial realizadas por la Agencia en cumplimiento de lo dispuesto en la Ley 6/2015, de 12 de mayo, de Denominaciones de Origen e Indicaciones Geográficas Protegidas de ámbito territorial supraautonómico.
-
-c) Sujetos pasivos. Serán sujetos pasivos toda persona física o jurídica que esté obligada a someterse a las actuaciones de control oficial que desarrolle la Agencia en cumplimiento de la Ley 6/2015, de 12 de mayo, de Denominaciones de Origen e Indicaciones Geográficas Protegidas de ámbito territorial supraautonómico, incluyendo productores, agentes operadores, entidades de gestión o aquellas otras que realicen actividades relativas a la calidad diferenciada regulada por dicha ley, ya tengan personalidad jurídica propia o carezcan de ella, así como las personas físicas o jurídicas a las que se refiere el apartado 4 del artículo 35 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
-
-d) Devengo. El devengo de la tasa se producirá cuando los servicios de Inspección de la Agencia levanten acta de las inspecciones.
-
-e) Base Imponible. La Base imponible de la tasa se calculará en base al valor de las ventas, excluidos los impuestos indirectos, de los productos o servicios objeto de control, realizadas en el año natural previo al de inicio de la inspección.
-
-f) Cuantía de la tasa. La cuantía de la tasa se calculará aplicando a la base imponible un tipo del 0,15 por ciento. En el caso de los productores, agentes, operadores y demás entidades sujetos a actuaciones de inspección en ningún caso la cuantía podrá ser inferior a 50 euros sin que exceda de 1.500 euros. En las entidades de gestión la cuantía de la tasa tendrá una cuota fija de 1.200 euros por cada inspección.
-
-g) Gestión y liquidación. La Agencia liquidará la tasa, cuya orden de pago se notificará al sujeto pasivo para que su ingreso se realice en los plazos establecidos en el apartado 2 del artículo 62 de la Ley General Tributaria. En su defecto se procederá a su recaudación ejecutiva, en los términos que establece el Reglamento General de Recaudación. Reglamentariamente se establecerá la gestión de la tasa.
-
-h) Afectación presupuestaria. El importe de lo recaudado por esta tasa constituye un recurso propio de la Agencia y se ingresará en su presupuesto.
+> Se modifican los apartados 5 y 6 y se suprime el apartado 15 por el art. único.26 de la Ley 16/2021, de 14 de diciembre. Ref. BOE-A-2021-20630#au
 
 > Se modifica el apartado 6.e) por la disposición final 1 del Real Decreto-ley 20/2018, de 7 de diciembre. Ref. BOE-A-2018-16791#df
 
