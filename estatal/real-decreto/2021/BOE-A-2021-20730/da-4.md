@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Exportadores.
+
+Los datos de los exportadores registrados de acuerdo con el artículo 34 del Real Decreto 387/2021, de 1 de junio, por el que se regula el régimen de certificación fitosanitaria oficial para la exportación de vegetales y productos vegetales y se modifica el Real Decreto 58/2005, de 21 de enero, por el que se adoptan medidas de protección contra la introducción y difusión en el territorio nacional y de la Comunidad Europea de organismos nocivos para los vegetales o productos vegetales, así como para la exportación y tránsito hacia países terceros, se incluirán de oficio en el ROPVEG.
