@@ -18,4 +18,6 @@ El vencimiento del plazo máximo sin haberse notificado la resolución legitima 
 
 La resolución será publicada en la citada página web del Ministerio de Agricultura, Pesca y Alimentación, en los términos previstos en los artículos 40 y 45 de la Ley 39/2015, de 1 de octubre, y se hará pública según se establece en el artículo 18.1 de la Ley 38/2003, de 17 de noviembre.
 
-6. Contra la resolución del procedimiento, que agota la vía administrativa, cabrá interponer recurso contencioso-administrativo ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional, en el plazo máximo de dos meses desde su publicación, o recurso de reposición, con carácter previo y potestativo ante el Ministro de Agricultura, Pesca y Alimentación, sin que puedan simultanearse ambas vías de impugnación.
+6. Contra la resolución del procedimiento, que no agota la vía administrativa, cabrá interponer recurso de alzada en el plazo de un mes desde su publicación en la sede electrónica ante el Secretario General de Agricultura y Alimentación.
+
+> Se modifica el apartado 6 por la disposición final 1 del Real Decreto 1055/2021, de 30 de noviembre de 2021. Ref. BOE-A-2021-20731#df

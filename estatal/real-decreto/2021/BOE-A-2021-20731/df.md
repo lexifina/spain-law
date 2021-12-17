@@ -1,0 +1,5 @@
+## Disposición final primera. Modificación del Real Decreto 794/2021, de 14 de septiembre, por el que se establecen las bases reguladoras de las subvenciones a las asociaciones de criadores oficialmente reconocidas por el Ministerio de Agricultura, Pesca y Alimentación para la conservación, mejora y fomento de las razas ganaderas, y se convoca la selección de entidad colaboradora para los ejercicios 2022 a 2025.
+
+El apartado 6 de la disposición adicional segunda del Real Decreto 794/2021, de 14 de septiembre, por el que se establecen las bases reguladoras de las subvenciones a las asociaciones de criadores oficialmente reconocidas por el Ministerio de Agricultura, Pesca y Alimentación para la conservación, mejora y fomento de las razas ganaderas, y se convoca la selección de entidad colaboradora para los ejercicios 2022 a 2025, queda redactado como sigue:
+
+> «6. Contra la resolución del procedimiento, que no agota la vía administrativa, cabrá interponer recurso de alzada en el plazo de un mes desde su publicación en la sede electrónica ante el Secretario General de Agricultura y Alimentación.»
