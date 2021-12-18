@@ -4,7 +4,9 @@
 
 1. Solicitud
 
-El inicio del procedimiento para la utilización del Fondo se supedita a que haya existido previamente solicitud expresa por escrito de la empresa dirigida a la Gestora, sin perjuicio de lo previsto en la disposición transitoria primera del real decreto-ley en relación con los expedientes trasladados por SEPI.
+1.1 El inicio del procedimiento para la utilización del fondo se supedita a que haya existido previamente solicitud expresa por escrito de la empresa dirigida a la gestora, sin perjuicio de lo previsto en la disposición transitoria primera del Real Decreto-ley en relación con los expedientes trasladados por SEPI.
+
+1.2 A esta solicitud se adjuntará una declaración responsable firmada por el representante legal de la empresa solicitante que asevere que no se ha solicitado financiación del Fondo de apoyo a la solvencia de empresas estratégicas gestionado por SEPI, o que, de haberse solicitado, se hubiera obtenido una resolución desfavorable o se hubiera formulado desistimiento de conformidad con lo dispuesto en el artículo 17.2 del Real Decreto-Ley.
 
 2. Tipos de instrumentos
 
@@ -18,13 +20,13 @@ b) Como complemento a los instrumentos de capital y/o híbridos de capital recog
 
 La duración máxima de estas facilidades de crédito será de seis años desde el primer desembolso y podrán cubrir necesidades de inversión o de capital circulante.
 
-2.2 Los instrumentos utilizados se elegirán de forma que sean los más adecuados para atender las necesidades de financiación del beneficiario al mismo tiempo que sean los que menos distorsionen la competencia, sin que en ningún caso puedan destinarse a la amortización anticipada de cuotas de principal o pago de intereses de deudas contraídas con terceros financiadores.
+2.2 Los instrumentos utilizados se elegirán de forma que sean los más adecuados para atender las necesidades de financiación del beneficiario al mismo tiempo que sean los que menos distorsionen la competencia, sin que en ningún caso puedan destinarse a la amortización anticipada de cuotas de principal de deudas contraídas con terceros financiadores.
 
 3. Criterios de elegibilidad de las empresas beneficiarias
 
 3.1 De acuerdo con lo establecido en la disposición adicional cuarta del real decreto-ley, para poder resultar beneficiaria de alguno de los instrumentos financieros del Fondo, la empresa deberá cumplir en el momento de presentación de la solicitud (o fecha anterior si así se señala expresamente) los siguientes requisitos:
 
-a) Constituir una empresa no financiera, con domicilio social y principales centros de trabajo situados en España, que atraviese dificultades de carácter temporal a consecuencia de la pandemia de la COVID-19. Se entenderá a los efectos de este Acuerdo de Consejo de Ministros que la beneficiaria, a nivel individual y consolidado en caso de pertenecer a un grupo de empresas, atraviesa dificultades cuando el importe neto de la cifra de negocios de 2020 se hubiera reducido en más de un 20 % respecto del de 2019 y adicionalmente se hubiera producido un deterioro en la estructura de capital, entendida como la ratio de patrimonio neto respecto de deuda financiera neta, entre esos dos años.
+a) Constituir una empresa no financiera, con domicilio social y principales centros de trabajo situados en España, que atraviese dificultades de carácter temporal a consecuencia de la pandemia de la COVID-19. Se entenderá a los efectos de este Acuerdo de Consejo de Ministros que la beneficiaria, a nivel individual y consolidado en caso de pertenecer a un grupo de empresas, atraviesa dificultades cuando se hubiera producido, un deterioro en la estructura de capital, entendida como la ratio de patrimonio neto respecto de deuda financiera neta, entre 2019 y 2020 o de manera alternativa, entre 2019 y datos de cierre o intermedios auditados del ejercicio 2021.
 
 b) No tener la residencia fiscal en un país o territorio calificado reglamentariamente como paraíso fiscal.
 
@@ -38,9 +40,9 @@ f) Hallarse al corriente en el cumplimiento de las obligaciones tributarias y fr
 
 g) No haber solicitado la declaración de concurso voluntario; no haber sido declarada insolvente en cualquier procedimiento; no hallarse declarada en concurso, salvo que en éste haya adquirido la eficacia un convenio; no estar sujeta a intervención judicial o haber sido inhabilitada conforme a la Ley 22/2003, de 9 de julio, Concursal, sin que haya concluido el período de inhabilitación fijado en la sentencia de calificación del concurso.
 
-h) No constituir una empresa en crisis a 31 de diciembre de 2019, en los términos establecidos por el artículo 2 (18) del Reglamento (UE) n.º 651/2014 de la Comisión, de 17 de junio de 2014, por el que se declaran determinadas categorías de ayuda compatibles con el mercado interior por aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea; y ser viable a esa fecha. Este requisito deberá verificarse a nivel individual y a nivel consolidado si el beneficiario pertenece a un grupo de empresas.
+h) No constituir una empresa en crisis a 31 de diciembre de 2019, en los términos establecidos por el artículo 2 (18) del Reglamento (UE) n.º 651/2014 de la Comisión, de 17 de junio de 2014, por el que se declaran determinadas categorías de ayuda compatibles con el mercado interior por aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea; y ser viable a esa fecha. Este requisito deberá verificarse a nivel individual y a nivel consolidado si el beneficiario pertenece a un grupo de empresas. Las empresas que a 31 de diciembre de 2019 eran viables, pero estaban en crisis podrán ser elegibles siempre que hayan revertido la situación de crisis.
 
-i) Tener un importe neto de la cifra de negocios anual a nivel consolidado a 31 de diciembre de 2019 entre 15 y 400 millones de euros, según informe de auditoría de sus cuentas anuales a 31 de diciembre de 2019. En caso de ejercicio social no coincidente con el año natural, este requisito se entiende respecto del ejercicio cuya fecha de cierre esté más cerca del 31 de diciembre de 2019, sin exceder el 29 de febrero de 2020.
+i) Tener un importe neto de la cifra de negocios anual a nivel consolidado a 31 de diciembre de 2019 entre 10 y 400 millones de euros, según informe de auditoría de sus cuentas anuales a 31 de diciembre de 2019. En caso de ejercicio social no coincidente con el año natural, este requisito se entiende respecto del ejercicio cuya fecha de cierre esté más cerca del 31 de diciembre de 2019, sin exceder el 29 de febrero de 2020. Aquellas empresas que sobrepasen el importe máximo de los 400 millones de euros de importe neto de cifra de negocio y justifiquen no haber podido acceder al Fondo de apoyo a la solvencia de empresas estratégicas gestionado por la SEPI por no alcanzar el importe mínimo por beneficiario requerido también podrán ser beneficiarias del Fondo de recapitalización de empresas afectadas por el COVID.
 
 j) Demostrar su viabilidad a medio y largo plazo, presentando a tal efecto en su solicitud un Plan de Viabilidad para superar su situación de crisis, describiendo la utilización proyectada del apoyo público temporal solicitado con cargo al Fondo, la experiencia y capacidad técnica, los riesgos socioambientales, las previsiones para afrontarlos y su estrategia energética.
 
@@ -60,7 +62,7 @@ En el caso de que el apoyo público temporal solicitado vaya dirigido a varias e
 
 3.2 La Gestora verificará la concurrencia de los requisitos previstos en este apartado y valorará, con ayuda de expertos independientes, en su caso, la validez y suficiencia de la información aportada. En particular y de conformidad con el apartado segundo del artículo 17 del real decreto-ley:
 
-a) En relación con el requisito de viabilidad señalado al final del apartado 3.1.h), comprobará que el beneficiario no tenía problemas de viabilidad antes de la crisis del COVID-19 atendiendo a indicadores como los fondos propios en relación al activo y al capital social suscrito; la deuda financiera en relación a los fondos propios; la deuda financiera neta en relación al EBITDA; el EBIT o, en caso de que el beneficiario presente estado financiero de flujo de tesorería, el flujo de caja operativo y el libre en relación al servicio de la deuda; el EBITDA y el resultado neto.
+a) En relación con el requisito de viabilidad señalado al final del apartado 3.1.h), comprobará que el beneficiario era viable antes de la crisis del COVID-19 atendiendo a indicadores como los fondos propios en relación al activo y al capital social suscrito; la deuda financiera en relación a los fondos propios; la deuda financiera neta en relación al EBITDA; el EBIT o, en caso de que el beneficiario presente estado financiero de flujo de tesorería, el flujo de caja operativo y el libre en relación al servicio de la deuda; el EBITDA y el resultado neto, entre otros.
 
 b) En relación con el requisito de viabilidad a futuro señalado en el 3.1.j), la Gestora verificará que el beneficiario supera el análisis de riesgos que se plasmará en indicadores tales como la calificación crediticia, que permita prever el reembolso o recuperación del apoyo público temporal otorgado y señale los mitigantes de los riesgos identificados. En todo caso, la Gestora en el análisis previo de viabilidad y riesgo valorará también las eventuales reestructuraciones de deuda que la empresa potencialmente beneficiaria haya realizado en la medida que mejoren su perfil de riesgos y contribuyan a su viabilidad.
 
@@ -68,15 +70,15 @@ b) En relación con el requisito de viabilidad a futuro señalado en el 3.1.j), 
 
 4.1 Importes.
 
-4.1.1 Al margen de las limitaciones derivadas de la normativa de ayudas de Estado previstas en los apartados siguientes, en todo caso las operaciones financiadas con cargo al Fondo tendrán un importe de entre 4 millones de euros y 25 millones de euros por beneficiario. Dicho intervalo será de entre 3 millones de euros y 15 millones de euros en el caso de que el beneficiario sea una PYME, tal y como es definida esta categoría en el anexo I del Reglamento (UE) n.º 651/2014 de la Comisión, de 17 de junio de 2014, por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado: empresas que ocupan a menos de 250 personas y cuyo volumen de negocios anual no excede de 50 millones de euros o cuyo balance general anual no excede de 43 millones de euros.
+4.1.1 Al margen de las limitaciones derivadas de la normativa de ayudas de Estado previstas en los apartados siguientes, en todo caso las operaciones financiadas con cargo al Fondo tendrán un importe de entre 4 millones de euros y 25 millones de euros por beneficiario. Dicho intervalo será de entre 2,5 millones de euros y 15 millones de euros en el caso de que el beneficiario sea una pyme, tal y como es definida esta categoría en el anexo I del Reglamento (UE) n.º 651/2014 de la Comisión, de 17 de junio de 2014, por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado: empresas que ocupan a menos de 250 personas y cuyo volumen de negocios anual no excede de 50 millones de euros o cuyo balance general anual no excede de 43 millones de euros.
 
-4.1.2 Instrumentos de deuda. El importe máximo del apoyo público temporal por este concepto por beneficiario no podrá superar ninguno de estos límites:
+4.1.2 Instrumentos de deuda. El importe máximo del apoyo público temporal por este concepto por beneficiario no podrá superar el mayor de estos dos límites:
 
-– El doble de los costes salariales anuales del beneficiario a 2019 o último año disponible. A estos efectos se incluyen las cargas sociales.
+El doble de los costes salariales anuales del beneficiario a 2019 o último año disponible. A estos efectos se incluyen las cargas sociales.
 
-– El 25 % del volumen de negocios total del beneficiario a 2019.
+El 25 % del volumen de negocios total del beneficiario a 2019.
 
-En el caso de deuda subordinada, si su importe superara dos tercios de la masa salarial anual del beneficiario o el 8,4 % del volumen de negocios anual del beneficiario en 2019 (coste salarial anual y 12,5 % del volumen de negocios para PYME), se aplicarán a la misma las disposiciones relativas a los instrumentos híbridos de capital.
+En el caso de deuda subordinada, si su importe superara dos tercios de la masa salarial anual del beneficiario y el 8,4% del volumen de negocios anual del beneficiario en 2019 (coste salarial anual y 12,5% del volumen de negocios para pyme), se aplicarán a la misma las disposiciones relativas a los instrumentos híbridos de capital.
 
 4.1.3 Instrumentos de capital o híbridos de capital. El importe máximo será el mínimo necesario para asegurar la viabilidad de la empresa, y no podrá implicar una mejora de la estructura de capital de la empresa beneficiaria en relación con la registrada a 31 de diciembre de 2019. A la hora de analizar la proporcionalidad del apoyo público temporal, se tendrá en cuenta la ayuda estatal recibida o prevista por el beneficiario a través de otras modalidades como garantías sobre préstamos.
 
@@ -183,3 +185,7 @@ El Estado informará anualmente a la Comisión Europea sobre la concesión de ap
 Si la participación en el capital social con cargo al Fondo, transcurridos 6 años desde la aportación de capital, no se hubiera reducido por debajo del 15 % de los fondos propios del beneficiario, el Estado presentaría a la Comisión Europea, para su aprobación, un plan de reestructuración que cumpla con lo establecido en las Directrices sobre ayudas estatales de salvamento y de reestructuración de empresas no financieras en crisis. En el caso de que la beneficiaria sea una PYME o una sociedad no cotizada, el plazo anterior se amplía a siete años.
 
 7.3 Otros trámites. No son necesarios trámites adicionales a este Acuerdo de Consejo de Ministros.
+
+> Se modifican los apartados 1 a 4 por el apartado 1.4 a 11 del Acuerdo de 7 de diciembre de 2021, publicado por Resolución de 13 de diciembre de 2021. Ref. BOE-A-2021-20880
+
+> Téngase en cuenta, respecto a las solicitudes ya presentadas, el alcance de la modificación establecido por el apartado segundo del citado Acuerdo.
