@@ -16,10 +16,12 @@ f) No tener la residencia fiscal en un país o territorio calificado reglamentar
 
 2. Los destinatarios de las medidas previstas en los Títulos I, II y III asumen asimismo los siguientes compromisos:
 
-a) Deberán mantener la actividad correspondiente a las ayudas hasta el 30 de junio de 2022.
+a) Deberán mantener la actividad correspondiente a las ayudas hasta el 30 de junio de 2022, con la excepción prevista en el segundo párrafo del artículo 4.5 del presente Real Decreto-ley.
 
 b) No podrán repartir dividendos durante 2021 y 2022.
 
 c) No aprobar incrementos en las retribuciones de la alta dirección durante un periodo de dos años desde aplicación de alguna de las medidas.
 
 3. Por Acuerdo de Consejo de Ministros podrán establecerse requisitos adicionales.
+
+> Se modifica el apartado 2.a) por la disposición final 1.2 del Real Decreto-ley 28/2021, de 17 de diciembre de 2021. Ref. BOE-A-2021-20877
