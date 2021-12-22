@@ -28,3 +28,6 @@ Código del tipo de infracción que corresponda según el cuadro siguiente:
 | Código 10 | Conducción con presencia de drogas en el organismo. |
 | Código 11 | No utilización del casco de protección. |
 | Código 12 | Utilización del teléfono móvil o de cualquier otro dispositivo de comunicación durante la conducción cuando no esté permitido. |
+| Código 51 | Impago de peaje, tasa o precio público, cuando estos fueran exigibles. |
+
+> Se añade el código 51 al apartado 2 por el art. único.47 de la Ley 18/2021, de 20 de diciembre. Ref. BOE-A-2021-21006#au

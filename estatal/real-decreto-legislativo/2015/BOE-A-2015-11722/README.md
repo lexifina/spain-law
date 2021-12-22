@@ -149,6 +149,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 98](a98.md)
 - [Artículo 99](a99.md)
 - [Artículo 100](a100.md)
+- [Artículo 100 bis](a1-3.md)
 - [Artículo 101](a101.md)
 - [Artículo 102](a102.md)
 - [CAPÍTULO VI](cvi.md)
