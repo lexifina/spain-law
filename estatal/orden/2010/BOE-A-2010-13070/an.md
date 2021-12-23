@@ -10,7 +10,7 @@
 
 El registro del interesado y su correlativa identificación y autenticación en la Sede se realiza mediante la introducción del código proporcionado, solicitando, adicionalmente, la aportación de otros datos referidos al interesado, conocidos únicamente por él y por la Dirección General del Catastro. Ello permite el acceso a la actuación electrónica concreta tras comprobarse por medio de una aplicación informática que la clave generada es correcta.
 
-4. La clave concertada tiene una validez constreñida a un tipo de actuación determinado y para un plazo de tiempo predefinido y delimitado, de manera que no es posible su utilización como medio de firma electrónica fuera de dicho ámbito y del plazo temporal fijado. Mediante este sistema no se permitirá a los usuarios acceder a una consulta general del estado de tramitación de todos los procedimientos o de todos los inmuebles de su titularidad.
+4. La clave concertada tiene una validez constreñida a un tipo de actuación determinado y para un plazo de tiempo predefinido y delimitado, de manera que no es posible su utilización como medio de firma electrónica fuera de dicho ámbito y del plazo temporal fijado.
 
 5. Cuando la actuación realizada implique la presentación de documentos electrónicos en la Sede Electrónica del Catastro, ésta devolverá un acuse de recibo, en los términos previstos en la Orden HAP/1200/2012, de 5 de junio, sobre uso del sistema de código seguro de verificación por la Dirección General del Catastro, y dará lugar a un asiento en el Registro Electrónico del Ministerio de Hacienda y Administraciones Públicas, en los términos señalados en la Orden HAP/547/2013, de 2 de abril, por la que se crea y se regula el Registro Electrónico del Ministerio de Hacienda y Administraciones Públicas.
 
@@ -35,5 +35,7 @@ La seguridad del sistema se ve reforzada por el carácter temporal de la clave y
 3. Siempre que sea preciso, la Dirección General del Catastro certificará la existencia y contenido de las actuaciones en que los interesados hayan utilizado el sistema de clave concertada como forma de identificación, de conformidad con el artículo 16.3 de la Ley 11/2007, de 22 de junio.
 
 4. Las actuaciones susceptibles de tramitación electrónica mediante el sistema de clave concertada como medio de identificación y autenticación rechazarán de forma automática el acceso cuando la clave no fuera válida o no estuviera vigente en el momento de su utilización, indicándose, en tal caso, la causa del rechazo.
+
+> Se modifica el punto 4 del apartado I por el art. único de la Orden HFP/1423/2021, de 20 de diciembre de 2021. Ref. BOE-A-2021-21099
 
 > Se modifica por el art. único.2 de la Orden HAP/2553/2015, de 25 de noviembre. Ref. BOE-A-2015-13054.
