@@ -12,6 +12,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 - [no](no.md)
 - [(preambulo)](pr.md)
+- [Artículo 34](a3-6.md)
 - [LIBRO SEGUNDO](ls.md)
 - [Artículo 62](a6-4.md)
 - [Artículo 63](a6-5.md)

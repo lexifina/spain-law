@@ -19,3 +19,5 @@ b) Los efectuados en baja tensión con destino a riegos agrícolas.
 El impuesto mínimo recogido en las letras a) y b) anteriores no será de aplicación para los supuestos previstos en las letras a), b), c) y d) del apartado 1 del artículo 98 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
 
 2. El impacto que la aplicación de esta disposición pueda tener en los recursos del sistema de financiación autonómica se analizará a efectos de que puedan adoptarse las medidas, en su caso de compensación, que procedan en el marco establecido por el artículo 2.uno.g) de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas, en relación con la aplicación del principio de lealtad institucional.
+
+> Téngase en cuenta que la aplicación del tipo impositivo del 0,5 por ciento del Impuesto Especial sobre la Electricidad establecida en esta disposición se prorroga hasta el 30 de abril de 2022, según establece la disposición adicional primera del Real Decreto-ley 29/2021, de 21 de diciembre. Ref. BOE-A-2021-21096#da

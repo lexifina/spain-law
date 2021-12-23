@@ -1,3 +1,5 @@
 ## Disposición adicional primera. Tipo impositivo aplicable del Impuesto sobre el Valor Añadido a las entregas, importaciones y adquisiciones intracomunitarias de bienes necesarios para combatir los efectos del COVID-19.
 
 Con efectos desde 1 de mayo de 2021 y vigencia hasta el 31 de diciembre de 2021, se aplicará el tipo del 0 por ciento del Impuesto sobre el Valor Añadido a las entregas de bienes, importaciones y adquisiciones intracomunitarias de bienes referidos en el Anexo de este real decreto-ley cuyos destinatarios sean entidades de Derecho Público, clínicas o centros hospitalarios, o entidades privadas de carácter social a que se refiere el apartado tres del artículo 20 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido. Estas operaciones se documentarán en factura como operaciones exentas.
+
+> Téngase en cuenta que la aplicación del tipo impositivo del 0 por ciento del Impuesto sobre el Valor Añadido contenida en esta disposición se prorroga hasta el 30 de junio de 2022, según establece la disposición adicional primera.2 del Real Decreto-ley 29/2021, de 21 de diciembre. Ref. BOE-A-2021-21096#da

@@ -1,0 +1,7 @@
+## Disposición adicional segunda. Determinación de la base imponible y del importe de los pagos fraccionados del Impuesto sobre el valor de la producción de energía eléctrica durante el ejercicio 2022.
+
+1. Para el ejercicio 2022 la base imponible del Impuesto sobre el valor de la producción de energía eléctrica estará constituida por el importe total que corresponda percibir al contribuyente por la producción e incorporación al sistema eléctrico de energía eléctrica, medida en barras de central, por cada instalación en el período impositivo minorada en las retribuciones correspondiente a la electricidad incorporada al sistema durante el primer trimestre natural.
+
+Los pagos fraccionados se calcularán en función del valor de la producción de energía eléctrica en barras de central realizada desde el inicio del período impositivo hasta la finalización de los tres, seis, nueve o doce meses del año minorado en el importe de las retribuciones correspondientes a la electricidad incorporada al sistema durante el primer trimestre natural, aplicándose el tipo impositivo previsto en el artículo 8 de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética, y deduciendo el importe de los pagos fraccionados previamente realizados.
+
+2. Con el fin de garantizar el equilibrio del sistema, se compensará al sistema eléctrico por el importe equivalente a la reducción de recaudación consecuencia de la medida prevista en el apartado 1 anterior.
