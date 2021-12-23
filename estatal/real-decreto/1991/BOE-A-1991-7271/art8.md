@@ -14,6 +14,8 @@ En la designación de vocalías deberá atenderse al principio de presencia equi
 
 c) Siete vocalías en representación de la ONCE ejercidas por el titular de la Presidencia del Consejo General de la ONCE y por seis representantes más de dicha organización, nombrados por su órgano de gobierno de entre las personas que pertenezcan a la alta dirección de la entidad.
 
+Cada uno de los representantes de la ONCE será sustituido por un vocal suplente del mismo nivel que designe el órgano de gobierno de la ONCE.
+
 d) Secretaría, ejercida, con voz pero sin voto, por el titular de la subdirección general o, en su caso, del órgano administrativo del departamento que resulte competente en materia de protectorado de la ONCE, que tenga atribuida la asistencia técnica e instrumental al ejercicio de la tutela del Estado sobre la ONCE.
 
 El secretario/a del Consejo será sustituido por el titular de otra subdirección general u órgano administrativo de la dirección general que ejerza las funciones de tutela sobre la ONCE, designado por la presidencia.
@@ -22,13 +24,19 @@ e) También podrán asistir como expertos, con voz pero sin voto, aquellas otras
 
 f) El Consejo de Protectorado aprobará sus normas internas de funcionamiento y actuará en Pleno, en Comisión Permanente y mediante la constitución de las comisiones y grupos de trabajo que el propio Consejo determine para finalidades concretas.
 
+Asimismo, dentro del Consejo de Protectorado existirá una Comisión Disciplinaria, formada por tres vocales del Consejo de Protectorado representantes de los Ministerios del Interior, de Derechos Sociales y Agenda 2030 y de Consumo, sin representantes de la ONCE en garantía de la imparcialidad de la Comisión, que tendrá como competencia exclusiva el ejercicio de la potestad sancionadora por posibles infracciones en materia de juego previstas en la Ley 13/2011, de 27 de mayo, de regulación del juego, que pudiera cometer la ONCE.
+
+El ejercicio de la potestad sancionadora por parte de dicha Comisión Disciplinaria se ajustará a lo establecido en la Ley 13/2011, de 27 de mayo, y a las disposiciones aplicables de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, de acuerdo con lo previsto en el Reglamento de Funcionamiento del Consejo de Protectorado.
+
+Los acuerdos que adopte esta Comisión Disciplinaria se comunicarán a la Comisión Permanente del Consejo de Protectorado en la primera reunión que ésta celebre, teniendo ejecutividad desde la fecha de dicha reunión.
+
 3. Corresponde al Consejo de Protectorado velar por la observancia de la legalidad, el cumplimiento de los fines de la organización, el estricto control público sobre sus actividades de juego, así como la alta inspección de todos los servicios y actividades de la misma y, en particular:
 
 a) Aprobar, a propuesta del Consejo General de la ONCE, los estatutos de la organización, así como sus modificaciones. La ONCE deberá remitir al Consejo de Protectorado para su conocimiento, todas las normas internas que se dicten para el desarrollo de, sus estatutos.
 
 b) Promover, a iniciativa propia o del Consejo General y oído éste en todo caso, las medidas de carácter normativo, administrativo o de cualquier otra índole, convenientes para el correcto cumplimiento de los fines de la organización.
 
-c) Informar, con la conformidad de los Ministerios de Consumo y de Hacienda y con carácter previo al sometimiento al Consejo de Ministros, las propuestas que se eleven a este respecto de las autorizaciones que, en materia de modalidades y productos de juego autorizados a la ONCE, sean precisas conforme a lo previsto en el artículo 7.
+c) Informar, con la conformidad de los Ministerios de Hacienda y Función Pública, del Interior y de Consumo y con carácter previo al sometimiento al Consejo de Ministros, las propuestas que se eleven a este respecto de las autorizaciones que, en materia de modalidades y productos de juego autorizados a la ONCE, sean precisas conforme a lo previsto en el artículo 7.
 
 d) Establecer de conformidad con lo dispuesto en el artículo 7 los criterios y procedimientos adecuados para ejercer el control sobre las materias relativas al cupón y otras modalidades de juego autorizadas a la ONCE.
 
@@ -65,6 +73,8 @@ n) Informar con carácter previo a la aceptación de herencias, legados y donaci
 o) Verificar, con carácter previo, los acuerdos con otros operadores a que se refiere el apartado 5 del artículo 7 de este real decreto.
 
 p) Cualquier otra competencia o función que se le asigne legal o reglamentariamente, le confiera el Consejo de Ministros o le atribuya el Acuerdo General entre el Gobierno y la ONCE a que se refiere la disposición adicional vigésima de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986. y en general, realizar cuantas actuaciones sean necesarias para el ejercicio de la tutela y control en la materia, el mejor desenvolvimiento de la ONCE, la correcta consecución de sus objetivos y la coordinación más idónea con la Administración General del Estado.
+
+> Se modifican los apartados 2.c), f) y 3.c) por el art. 1.3 a 5 del Real Decreto 1127/2021, de 21 de diciembre. Ref. BOE-A-2021-21110
 
 > Se modifican los apartados 1, 2.b), c) y 3.c) por el art. 1.2 del Real Decreto 369/2021, de 25 de mayo. Ref. BOE-A-2021-8750
 
