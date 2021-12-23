@@ -158,7 +158,7 @@ Instalaciones para la atención de pescadores enfermos o lesionados
 
 53. Además de los requisitos previstos en el Real Decreto 258/1999, de 12 de febrero, por el que se establecen condiciones mínimas sobre la protección de la salud y la asistencia médica de los trabajadores del mar, se pondrá a disposición del pescador que padezca una enfermedad o que esté lesionado una cabina.
 
-54. En lugar de lo previsto en el artículo 9.1 del Real Decreto 258/1999, de 12 de febrero, por el que se establecen condiciones mínimas sobre la protección de la salud y la asistencia médica de los trabajadores del mar se aplicará lo siguiente: en los buques de más de 500 toneladas de registro bruto (TRB) en los que viajen quince o más pescadores durante más de tres días, y en los buques pesqueros de cuarenta y cinco metros de eslora o más, independientemente del número de tripulantes y la duración del viaje, se deberá disponer de una enfermería separada que permita dispensar cuidados médicos. Las instalaciones deberán estar adecuadamente equipadas y mantenidas en condiciones higiénicas.
+54. En los buques pesqueros de más de 500 toneladas de registro bruto (TRB) en los que viajen quince o más pescadores durante más de tres días, y en los buques pesqueros de cuarenta y cinco metros de eslora o más, independientemente del número de tripulantes y la duración del viaje, se deberá disponer de un local separado que permita dispensar cuidados médicos. Las instalaciones deberán estar adecuadamente equipadas y mantenidas en condiciones higiénicas.
 
 Otras instalaciones
 
@@ -217,3 +217,5 @@ Los resultados de estas inspecciones y las medidas adoptadas para solucionar las
 Excepciones
 
 70. Mediante Convenio colectivo se podrá autorizar, previa consulta, excepciones con respecto a las disposiciones del presente anexo a efectos de tener en cuenta, sin incurrir en discriminación alguna, los intereses de los pescadores que observen prácticas religiosas y sociales diferentes y distintivas a condición de que tales excepciones no redunden en condiciones que, en conjunto, sean menos favorables que las que se obtendrían de la aplicación del presente anexo.
+
+> Se modifica el apartado 54 por la disposición final 1 del Real Decreto 1120/2021, de 21 de diciembre. Ref. BOE-A-2021-21104
