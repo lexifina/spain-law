@@ -1,0 +1,3 @@
+## Disposición final segunda. Título competencial.
+
+Este real decreto-ley se dicta al amparo del artículo 149.1.16.ª, 17.ª y 30.ª de la Constitución Española, que atribuyen al Estado la competencia en materia de sanidad exterior, bases y coordinación general de la sanidad y legislación sobre productos farmacéuticos, sobre la legislación básica y régimen económico de la Seguridad Social, así como sobre la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
