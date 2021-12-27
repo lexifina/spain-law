@@ -26,7 +26,7 @@ k) La Dirección General de Ordenación Profesional.
 
 l) La Dirección General de Derechos de la Infancia y de la Adolescencia.
 
-m) La Dirección General de Políticas Palanca para el Cumplimiento de la Agenda 2030.
+m) (Anulado).
 
 n) La Dirección General de Derechos de los Animales.
 
@@ -60,11 +60,13 @@ c) Presidencia del Centro de Investigaciones Sociológicas.
 
 d) Dirección General del Instituto de Mayores y Servicios Sociales.
 
-e) Dirección General del Instituto de la Juventud.
+e) (Anulado).
 
 f) Dirección General del Instituto para la Transición Justa.
 
 g) La Dirección General de Deportes del Consejo Superior de Deportes.
+
+> Se declaran nulos los apartados 1.m) y 2.e), que eximen del requisito de ser funcionario de carrera para ser nombrado Director General, por Sentencia del TS de 14 de diciembre de 2021 Ref. BOE-A-2021-21396
 
 > Se añaden los apartados 1.w) y 2.g) por el art. 1.2 y 3 del Real Decreto 311/2021, de 4 de mayo. Ref. BOE-A-2021-7353
 
