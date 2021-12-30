@@ -138,6 +138,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 94](a94.md)
 - [Artículo 95](a95.md)
 - [Artículo 96](a96.md)
+- [Artículo 96 bis](a9-2.md)
 - [Artículo 97](a97.md)
 - [Artículo 98](a98.md)
 - [CAPÍTULO II](cii-4.md)
@@ -179,4 +180,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [ANEXO XIV](anxiv.md)
 - [ANEXO XV](ax.md)
 - [ANEXO XVI](ax-2.md)
+- [ANEXO XVII](ax-3.md)
 - [(Información relacionada)](ir.md)

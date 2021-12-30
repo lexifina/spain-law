@@ -32,6 +32,14 @@
 
 – Participación de cada agricultor en el pasto declarado en común, que podrán ser el número de hectáreas asignadas a cada uno de los agricultores o el porcentaje de participación.
 
+– En su caso, código REGA asignado a dicho pasto.
+
+– Titularidad pública o privada del pasto declarado en común.
+
+2 bis. En los casos en los que, conforme lo estipulado en el artículo 11.2 y en el anexo XVII, se opte por formalizar acuerdo con la autoridad gestora del pasto de titularidad pública utilizado en común para realizar actividades de mantenimiento, la autoridad gestora implicada, de forma previa a la apertura de la solicitud única o en paralelo a la misma deberá presentar además una declaración respecto de la superficie afectada, con base en el procedimiento que establezca la comunidad autónoma, en la que, además de la información contenida en el apartado 2 anterior, se tenga en cuenta la siguiente consideración:
+
+– Debe recogerse la identificación de los recintos reales del pasto permanente de titularidad pública utilizado en común, en los que se vaya a realizar la actividad de mantenimiento, así como la delimitación gráfica de dichas superficies. Estos recintos reales no se reflejarán en la declaración del pasto dedicado a pastoreo o siega, realizada de forma paralela por la autoridad gestora, y se excluirán por tanto del reparto que a dichos efectos se realiza a los ganaderos.
+
 3. Por su parte, el solicitante de pastos declarados en común deberá declarar:
 
 a) En el caso de declarar recintos normales, indicará la relación de todos los recintos de los que ha sido adjudicatario y la superficie asignada en cada uno de ellos en hectáreas con dos decimales.
@@ -43,6 +51,8 @@ b) En el caso de declarar recintos con otras referencias oficiales:
 – Datos generales de la autoridad Gestora del pasto declarado en común, que deberá coincidir con el identificativo a que hace referencia en el punto anterior de la declaración de la autoridad gestora.
 
 – Código identificativo del recinto o recintos con otras referencias oficiales correspondientes al pasto declarado en común que desea declarar y que ha sido definido previamente por la autoridad gestora. Debe coincidir con el código a que hace referencia el punto anterior de la declaración de la autoridad gestora.
+
+> Se modifica el apartado 2 y se añade el apartado 2 bis por el art. 1.19 del Real Decreto 1156/2021, de 28 de diciembre. Ref. BOE-A-2021-21661
 
 > Se modifica el apartado 2, por la disposición final 1.24 del Real Decreto 41/2021, de 26 de enero. Ref. BOE-A-2021-1131
 

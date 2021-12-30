@@ -4,7 +4,7 @@
 
 I. Información general
 
-1. La identificación del agricultor: NIF, apellidos y nombre del agricultor y, si procede, de su cónyuge y régimen matrimonial, en su caso, o razón social, fecha de nacimiento, domicilio (tipo de vía y su número, código postal, municipio y provincia), teléfono y apellidos y nombre del representante legal en su caso, con su NIF. En caso de persona física, indicación de si la titularidad de la explotación es compartida mediante la inscripción en el registro previo correspondiente. Si procede, la comprobación de los datos relativos a la identidad se realizará de oficio por el órgano instructor, si así se autoriza por el solicitante. En caso de no presentar dicha autorización, el solicitante deberá aportar el correspondiente documento.
+1. La identificación del agricultor: NIF, apellidos y nombre del agricultor y, si procede, de su cónyuge y régimen matrimonial, en su caso, o razón social, fecha de nacimiento, domicilio (tipo de vía y su número, código postal, municipio y provincia), teléfono y apellidos y nombre del representante legal en su caso, con su NIF. En caso de persona física, indicación de si la titularidad de la explotación es compartida mediante la inscripción en el registro previo correspondiente. La comprobación de los datos relativos a la identidad se realizará de oficio por el órgano instructor, salvo oposición expresa por parte del solicitante, en cuyo caso deberá aportar el correspondiente documento.
 
 1 bis) Datos relativos al jefe de la explotación, necesarios para dar cumplimiento al Reglamento (UE) n.º 2018/1091 del Parlamento Europeo y del Consejo, de 18 de julio de 2018 relativo a las estadísticas integradas sobre explotaciones agrícolas y por el que se derogan los Reglamentos (CE) n.º 1166/2008 y (UE) n.º 1337/2011, y al Plan Estadístico Nacional.
 
@@ -14,7 +14,7 @@ I. Información general
 
 4. La identificación, a partir del año 2016, de los derechos de ayuda, de acuerdo con el sistema de identificación y registro establecido en el artículo 7 del Reglamento Delegado (UE) n.º 640/2014 de la Comisión, de 11 de marzo de 2014, por el que se completa el Reglamento (UE) n.º 1306/2013 del Parlamento Europeo y del Consejo en lo que respecta al sistema integrado de gestión y control y a las condiciones sobre la denegación o retirada de los pagos y sobre las sanciones administrativas aplicables a los pagos directos. Está identificación podrá ser sustituida por una declaración del productor solicitando todos los derechos de los que disponga en la base de datos de derechos de pago básico.
 
-5. Una autorización para que la autoridad competente recabe del Instituto Nacional de la Seguridad Social la declaración de los costes laborales realmente pagados en el año anterior incluidos los impuestos y cotizaciones sociales en caso de que el importe de la ayuda por el régimen de pago básico a percibir por el agricultor sobrepase los 150.000 euros. En caso de no presentar dicha autorización, el solicitante deberá aportar dicha documentación. No obstante, para la solicitud de 2015, una vez que se hayan asignado los derechos, en caso de no existir autorización, la Administración solicitará estos datos a los solicitantes afectados, antes de abonar la ayuda.
+5. La autoridad competente tendrá en cuenta la información de la que disponga en relación con los costes laborales realmente pagados en el año anterior incluidos los impuestos y cotizaciones sociales en caso de que el importe de la ayuda por el régimen de pago básico a percibir por el agricultor sobrepase los 150.000 euros. No obstante, podrá solicitar a los beneficiarios afectados la documentación que considere necesaria para poder aplicar de manera correcta el apartado 2 del artículo 7.
 
 6. Compromiso expreso de colaborar para facilitar los controles que efectúe cualquier autoridad competente para verificar que se cumplen las condiciones reglamentarias para la concesión de las ayudas.
 
@@ -66,7 +66,7 @@ Deberán declararse todas las parcelas agrícolas de la explotación, indicándo
 
 3. Los regímenes para los que se solicita la ayuda.
 
-4. La utilización de las parcelas, indicándose en todo caso el producto cultivado, los pastos permanentes, otras superficies forrajeras, el barbecho y tipo del mismo, los cultivos permanentes, las superficies plantadas con plantas forestales de ciclo corto, etc. En el caso de los recintos de pastos, se indicará si las parcelas van a ser objeto de producción con pastoreo, siega o mantenimiento mediante otras técnicas. En el caso de las tierras de cultivo, se podrá declarar más de un producto por campaña y parcela, indicando siempre el cultivo declarado a efectos de la diversificación y, si procede, otro cultivo, tal y como quedan definidos en las letras c) y d) del apartado 1 del artículo 89. En el caso de cultivos permanentes, además del producto cultivado, se deberá indicar el tipo de cobertura del terreno y las actividades de mantenimiento de la misma. El solicitante declarará de forma expresa que los cultivos y aprovechamientos, así como las actividades de mantenimiento declaradas son veraces y constituyen un fiel reflejo de su actividad agraria.
+4. La utilización de las parcelas, indicándose en todo caso el producto cultivado, los pastos permanentes, otras superficies forrajeras, el barbecho y tipo del mismo, los cultivos permanentes, las superficies plantadas con plantas forestales de ciclo corto, etc. En el caso de los recintos de pastos, se indicará si las parcelas van a ser objeto de producción con pastoreo, siega o mantenimiento mediante otras técnicas. En el caso de las tierras de cultivo, se podrá declarar más de un producto por campaña y parcela, indicando siempre el cultivo declarado a efectos de la diversificación y, si procede, otro cultivo, tal y como quedan definidos en las letras c) y d) del apartado 1 del artículo 89. En el caso de cultivos permanentes, además del producto cultivado, se deberá indicar el tipo de cobertura del terreno y las actividades de mantenimiento de la misma. El cultivo declarado deberá ser alguno de los recogidos en el catálogo que a tal efecto publicará el FEGA conforme a lo establecido en el artículo 92.7. El solicitante declarará de forma expresa que los cultivos y aprovechamientos, así como las actividades de mantenimiento declaradas son veraces y constituyen un fiel reflejo de su actividad agraria.
 
 5. Se declarará por separado el barbecho medioambiental con arreglo al Reglamento (CE) N.º 1698/2005 del Consejo, de 20 de septiembre de 2005, y la repoblación forestal conforme al mismo Reglamento o al Reglamento (CE) N.º 1257/1999 del Consejo, de 17 de mayo de 1999, sobre la ayuda al desarrollo rural a cargo del Fondo Europeo de Orientación y de Garantía Agrícola (FEOGA) y por el que se modifican y derogan determinados Reglamentos.
 
@@ -84,7 +84,7 @@ d) Cultivos hortícolas, olivar y frutales, deberá declararse anualmente y de f
 
 e) Cáñamo, deberá incluirse toda la información necesaria para la identificación de las parcelas de cáñamo, con indicación de las variedades y cantidades de semilla utilizadas (en kg por ha). Además, el agricultor presentará las etiquetas oficiales utilizadas en los envases de las semillas. Cuando la siembra tenga lugar después de la fecha límite de presentación de la solicitud única, las etiquetas se presentarán, a más tardar, el 30 de junio.
 
-Además, el agricultor deberá presentar prueba de la existencia de un contrato con la industria transformadora a la que se destine su producción.
+Además, el agricultor deberá presentar prueba de la existencia de un contrato con la industria transformadora a la que se destine su producción o autorización de cultivo emitida por Agencia Española de Medicamentos y Productos Sanitarios.
 
 8. Superficies de interés ecológico:
 
@@ -142,9 +142,11 @@ V. Información y documentación adicional
 
 8. En el caso de las ayudas asociadas para las explotaciones de vacas nodrizas, vacuno de leche, ovino y caprino a las que se refieren las secciones 2.ª, 4.ª, 5.ª, 6.ª, 7.ª y 9.ª del capítulo II del título IV, cuando el ganadero realice entregas de leche a un primer comprador cuya residencia o domicilio social no estuviese en España, justificación documental de dichas entregas.
 
-9. Sin perjuicio de lo establecido en los párrafos anteriores, cuando la autoridad competente tenga acceso a la documentación exigida en este apartado V, se eximirá al solicitante de la necesidad de presentación de dicha documentación, sustituyéndose en su caso por una autorización expresa a la autoridad competente para acceder a dicha información.
+9. Sin perjuicio de lo establecido en los párrafos anteriores, cuando la autoridad competente tenga acceso a la documentación exigida en este apartado V, se eximirá al solicitante de la necesidad de presentación de dicha documentación, salvo en el caso de que él mismo manifieste su oposición expresa a que la administración acceda a los citados documentos.
 
 10. Cualquier otra información, en concepto de "otra declaración", establecida por la comunidad autónoma para las medidas de desarrollo rural en el ámbito del Sistema Integrado.
+
+> Se modifican los apartados I, III y V por el art. 1.18 del Real Decreto 1156/2021, de 28 de diciembre. Ref. BOE-A-2021-21661
 
 > Se modifican los apartados I y III, por la disposición final 1.21 del Real Decreto 41/2021, de 26 de enero. Ref. BOE-A-2021-1131
 

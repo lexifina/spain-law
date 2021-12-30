@@ -5,7 +5,7 @@
 | Línea de ayuda | Límite presupuestario (miles de euros) |
 | --- | --- |
 | 2015 | 2016 | 2017 | 2018 | 2019 y 2020 | 2021 | 2022 |
-| Régimen de pago básico** | 2.809.784 | 2.816.110 | 2.826.613 | 2.835.995 | 2.845.377 | 2.791.392 | 2.789.560 |
+| Régimen de pago básico** | 2.809.784 | 2.816.110 | 2.826.613 | 2.835.995 | 2.845.377 | 2.791.396 | 2.789.561 |
 | Pago para prácticas agrícolas beneficiosas para el clima y el medio ambiente | 1.452.797 | 1.455.505 | 1.460.000 | 1.464.015 | 1.468.030 | 1.440.177 | 1.439.232 |
 | Pago suplemento para los jóvenes agricultores. | 96.853 | 97.034 | 97.333 | 97.601 | 97.869 | 96.012 | 95.949 |
 | Ayuda asociada voluntaria | Terneros cebados en la misma explotación de nacimiento: España peninsular. | 12.488 | 12.488 | 12.488 | 12.488 | 12.488 | 12.251 | 12.243 |
@@ -34,6 +34,8 @@
 | Legumbres. | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 | 981 | 980 |
 | Pago Específico al Cultivo del Algodón | 60.841 | 60.841 | 60.841 | 60.841 | 60.841 | 59.595 | 59.595 |
 | Ayuda adicional al Algodón | – | – | – | – | – | 96 | 96 |
+
+> Se modifican los límites presupuestarios del Régimen de Pago Básico de los años 2021 y 2022 por el art. 1.17 del Real Decreto 1156/2021, de 28 de diciembre. Ref. BOE-A-2021-21661
 
 > Se sustituye por la disposición final 1.20 del Real Decreto 41/2021, de 26 de enero. Ref. BOE-A-2021-1131
 

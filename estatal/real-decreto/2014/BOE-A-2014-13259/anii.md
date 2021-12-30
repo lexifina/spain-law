@@ -46,7 +46,7 @@ Cultivos leñosos. En el caso de cultivos leñosos en pendiente igual o superior
 
 No obstante, en el momento en que pueda competir con el cultivo o imposibilite su recolección, dicha cubierta podrá eliminarse mediante métodos químicos o mecánicos, pudiendo ser incorporada mediante una labor superficial, respetando en todo caso lo establecido en el apartado relativo a cultivos leñosos de la BCAM 5.
 
-Lo dispuesto en los respectivos primeros párrafos dedicados a cultivos herbáceos y cultivos leñosos (párrafos primero y tercero de esta BCAM 4, cobertura mínima del suelo), no será de aplicación en el caso de parcelas de cultivo de superficie igual o inferior a una hectárea, en el caso de parcelas de cultivo irregulares o alargadas cuya dimensión mínima en el sentido transversal a la pendiente sea inferior a 100 metros en cualquier punto de la parcela y cuando, por razones de mantenimiento de la actividad productiva tradicional se determinen y autoricen por la administración competente aquellas técnicas de agricultura de conservación que se consideren adecuadas.
+Lo dispuesto en los respectivos primeros párrafos dedicados a cultivos herbáceos y cultivos leñosos (párrafos primero y tercero de esta BCAM 4, cobertura mínima del suelo), no será de aplicación cuando, por razones de mantenimiento de la actividad productiva tradicional se determinen y autoricen por la administración competente aquellas técnicas de agricultura de conservación que se consideren adecuadas.
 
 En las parcelas agrícolas que se encuentren incluidas en las zonas de influencia forestal, las comunidades autónomas podrán establecer la obligación de labrar una franja perimetral de la anchura necesaria para que sirva de cortafuego.
 
@@ -66,7 +66,7 @@ Cultivos herbáceos. En las superficies que se destinen a cultivos herbáceos, n
 
 Cultivos leñosos. En cultivos leñosos no deberá labrarse con volteo a favor de la pendiente la tierra en recintos con pendientes iguales o superiores al 15 por ciento, salvo que la pendiente real del recinto esté compensada mediante terrazas o bancales, se adopten formas especiales de cultivo como el cultivo en fajas, se practique laboreo mínimo o de conservación, o se mantenga una cobertura de vegetación total del suelo. En caso de existencia de bancales, será obligatorio evitar cualquier tipo de labores que afecten la estructura de los taludes existentes. Las comunidades autónomas podrán establecer límites inferiores en función de sus particularidades topográficas.
 
-Lo dispuesto en los párrafos anteriores no será de aplicación en el caso de parcelas de cultivo de superficie igual o inferior a una hectárea, en el caso de parcelas de cultivo irregulares o alargadas cuya dimensión mínima en el sentido transversal a la pendiente sea inferior a 100 metros en cualquier punto de la parcela y cuando, por razones de mantenimiento de la actividad productiva tradicional se determinen y autoricen por la Administración competente aquellas técnicas de agricultura de conservación que se consideren adecuadas. En todos los supuestos, la implantación del cultivo se hará lo más rápidamente posible, para evitar que el suelo pueda verse afectado por la erosión.
+Lo dispuesto en los párrafos anteriores no será de aplicación cuando, por razones de mantenimiento de la actividad productiva tradicional se determinen y autoricen por la Administración competente aquellas técnicas de agricultura de conservación que se consideren adecuadas. En todos los supuestos, la implantación del cultivo se hará lo más rápidamente posible, para evitar que el suelo pueda verse afectado por la erosión.
 
 BCAM 6. Mantenimiento del nivel de materia orgánica en el suelo mediante prácticas adecuadas, incluida la prohibición de quemar los rastrojos, excepto por razones fitosanitarias.
 
@@ -107,6 +107,8 @@ No obstante lo anterior, queda prohibido cortar tanto setos como árboles durant
 Asimismo, se prohíbe la recolección mecánica nocturna en los cultivos permanentes que presenten plantaciones intensivas en seto de porte alto, denso follaje y en los que se produzca la anidación o pernoctación de aves, con objeto de proteger a las aves durante la época de cría y reproducción, en las fechas que establezcan las comunidades autónomas.
 
 Se exceptúan de la obligación establecida en el primer párrafo, la construcción de paradas para corrección de ramblas, regueros y bancales, así como las operaciones de refinado de tierras que se realicen en aquellas parcelas que se vayan a dedicar al cultivo del arroz y otros de regadío.
+
+> Se modifican los BCAM 4 y BCAM 5 del apartado 2 por el art. 3 del Real Decreto 1156/2021, de 28 de diciembre. Ref. BOE-A-2021-21661
 
 > Se modifica el apartado 3 por la disposición final 4 del Real Decreto 41/2021, de 26 de enero. Ref. BOE-A-2021-1131
 

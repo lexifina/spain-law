@@ -22,6 +22,8 @@ B) En el ámbito de los regímenes de ayudas basadas en superficies:
 
 4. Indicios de declaración intencionada de superficies en las que no se ejerce actividad agraria en el caso de las situaciones de riesgo establecidas en el artículo 12.
 
+5. Declaración de la actividad de pastoreo cuando dicha actividad no se realiza con animales de la propia explotación del solicitante.
+
 C) En el marco de las solicitudes del pago a jóvenes agricultores o de asignación de derechos de pago básico de la reserva nacional:
 
 1. En lo que se refiere a la primera instalación como responsable de explotación agraria de jóvenes agricultores, cuando se produzca el alta en el régimen de la Seguridad Social correspondiente a la actividad agraria que determine su incorporación, con el fin de ser admisibles para alguno de los regímenes de pago citados y, una vez estimada la solicitud y/o percibido el pago, se den de baja.
@@ -33,5 +35,7 @@ D) En el ámbito de las ayudas asociadas a la ganadería, se podrán considerar 
 1. Intercambio de ganado entre productores con vistas a incrementar el número de animales potencialmente subvencionables para una ayuda.
 
 2. Variaciones desproporcionadas del censo de reproductoras en torno a las fechas en las que se determina la elegibilidad de los animales, en relación con la actividad ganadera media de la explotación a lo largo del año de solicitud, siempre que no sea por causa de fuerza mayor o circunstancia excepcional.
+
+> Se añade el apartado B).5 por el art. 1.20 del Real Decreto 1156/2021, de 28 de diciembre. Ref. BOE-A-2021-21661
 
 > Se añade por el art. 1.30 del Real Decreto 1378/2018, de 8 de noviembre. Ref. BOE-A-2018-15349
