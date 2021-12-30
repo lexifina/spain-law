@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 30 de diciembre de 2021, a excepción de los arts. 2 y 3 del capítulo I del título I, y del capítulo III del título II, por la disposición derogatoria única de la Ley Orgánica 11/2021, de 28 de diciembre. Ref. BOE-A-2021-21650#dd
