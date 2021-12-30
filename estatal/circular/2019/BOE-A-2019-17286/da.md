@@ -1,3 +1,5 @@
 ## Disposición adicional única. Previsiones con finalidades de supervisión prudencial.
 
-En virtud de la remisión general al régimen jurídico de las entidades de crédito prevista en el artículo 7 de la Ley 5/2015, de 27 de abril, las previsiones sobre la gestión del riesgo de crédito y contraparte con finalidades de supervisión prudencial contenidas en la letras a), b), d), e) y f) del punto 11 y en los puntos 12 a 17 del apartado I.A) «Concesión de operaciones» del anejo 9 de la Circular 4/2017, de 27 de noviembre, seguirán siendo de aplicación a los establecimientos, mientras no se determine otra cosa en la normativa de desarrollo de esta ley.
+(Suprimida).
+
+> Se suprime por la norma 2 de la Circular 6/2021, de 22 de diciembre. Ref. BOE-A-2021-21666
