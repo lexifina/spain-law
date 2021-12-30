@@ -16,6 +16,12 @@ Dicha compensación consistirá, en su caso, en la diferencia entre el máximo d
 
 No habrá derecho a la compensación descrita en caso de que la finalización de la relación de servicio sea por despido disciplinario declarado procedente o por renuncia voluntaria.
 
+> Se añade por el art. 1.3 de la Ley 20/2021, de 28 de diciembre. Ref. BOE-A-2021-21651#a1
+
+> Téngase en cuenta que esta disposición ya fue añadida por el Real Decreto-ley 14/2021, de 6 de julio.
+
+> Véase, en cuanto a los efectos, lo establecido en la disposición transitoria segunda de la citada Ley.
+
 > Se añade por el art. 1.3 del Real Decreto-ley 14/2021, de 6 de julio. Ref. BOE-A-2021-11233#a1
 
 > Téngase en cuenta, en cuanto a los efectos, lo establecido en la disposición transitoria segunda del citado Real Decreto-ley.
