@@ -290,6 +290,7 @@
 |  | 796. Reversión del deterioro de participaciones y valores representativos de deuda |
 |  |  | 7960. Reversión del deterioro de participaciones en entidades públicas del grupo, multigrupo y asociadas |
 |  |  | 7961. Reversión del deterioro de participaciones en sociedades del grupo, multigrupo y asociadas |
+|  |  | 7962. Reversión del deterioro de participaciones en el patrimonio neto a largo plazo. |
 |  |  | 7965. Reversión del deterioro de valores representativos de deuda de entidades del grupo, multigrupo y asociadas |
 |  |  | 7966. Reversión del deterioro de valores representativos de deuda de otras entidades |
 |  | 797. Reversión del deterioro de créditos |
@@ -330,3 +331,5 @@
 | 99. INGRESOS DE PARTICIPACIONES EN EL PATRIMONIO DE ENTIDADES DEL GRUPO, MULTIGRUPO Y ASOCIADAS CON AJUSTES VALORATIVOS NEGATIVOS PREVIOS |
 |  | 991. Recuperación de ajustes valorativos negativos previos, entidades del grupo, multigrupo y asociadas |
 |  | 993. Imputación por deterioro de ajustes valorativos negativos previos, entidades del grupo, multigrupo y asociadas |
+
+> Se añade la cuenta 7962 por el apartado único.3.1 de la Resolución de 22 de diciembre de 2021. Ref. BOE-A-2021-21658

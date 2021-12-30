@@ -266,7 +266,7 @@ Cuenta del Resultado Económico Patrimonial
 | 768, (668) | 10. Diferencias de cambio |  |  |  |
 |  | 11. Deterioro de valor, bajas y enajenaciones de activos y pasivos financieros |  |  |  |
 | 7960, 7961, 7965, 766 (6960), (6961), (6965), (666), 7970, (6970), (6670) | a) De entidades del grupo, multigrupo y asociadas |  |  |  |
-| 765, 7966, 7971, (665), (6671), (6962), (6966), (6971) | b) Otros |  |  |  |
+| 765, 7966, 7971, (665), (6671), (6962), (6966), (6971), 7962 | b) Otros |  |  |  |
 |  | III Resultado de las operaciones financieras (7+8+9+10+11) |  |  |  |
 |  | IV Resultado (Ahorro o desahorro) neto del ejercicio ( II + III) |  |  |  |
 
@@ -691,3 +691,5 @@ a) Los hechos posteriores que pongan de manifiesto circunstancias que ya existí
 b) Los hechos posteriores que pongan de manifiesto circunstancias que ya existían en la fecha de cierre del ejercicio que no hayan supuesto, de acuerdo con su naturaleza, la inclusión de un ajuste en las cifras contenidas en las cuentas anuales, si bien la información contenida en la memoria debe ser modificada de acuerdo con dicho hecho posterior.
 
 c) Los hechos posteriores que muestren condiciones que no existían al cierre del ejercicio y que sean de tal importancia que, si no se suministra información al respecto, podría afectar a la capacidad de evaluación de los usuarios de las cuentas anuales.
+
+> Se modifica la partida 11 de la Cuenta del Resultado Económico Patrimonial del apartado 2, por el apartado único.2 de la Resolución de 22 de diciembre de 2021. Ref. BOE-A-2021-21658

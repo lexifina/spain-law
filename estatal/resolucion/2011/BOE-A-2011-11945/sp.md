@@ -128,7 +128,9 @@ Las disminuciones acumuladas de valor razonable de estos activos reconocidas en 
 
 Si en ejercicios posteriores se incrementa el valor razonable del activo, la corrección valorativa reconocida en ejercicios anteriores revertirá con abono a resultados del ejercicio, salvo en el caso de los instrumentos de patrimonio, que se registrará un incremento de valor razonable directamente contra patrimonio neto.
 
-No obstante, para los instrumentos de patrimonio valorados al coste por no negociarse en un mercado activo, la corrección valorativa por deterioro se calculará teniendo en cuenta el patrimonio neto de la entidad participada corregido por las plusvalías tácitas existentes en la fecha de la valoración y no será posible la reversión de la corrección valorativa reconocida en ejercicios anteriores.
+No obstante, para los instrumentos de patrimonio valorados al coste por no negociarse en un mercado activo, la corrección valorativa por deterioro se calculará teniendo en cuenta el patrimonio neto de la entidad participada corregido por las plusvalías tácitas existentes en la fecha de valoración.
+
+Las correcciones valorativas por deterioro, así como su reversión, se reconocerán como un gasto o un ingreso, respectivamente en el resultado del ejercicio. La reversión del deterioro tendrá como límite el valor contable que tendría la inversión, en el momento de la reversión, si no se hubiese registrado el deterioro de valor.
 
 9. Reclasificaciones entre las diferentes categorías de activos financieros. Las reclasificaciones entre las diferentes categorías de activos financieros, deben atenerse a las siguientes reglas:
 
@@ -587,3 +589,5 @@ Los hechos posteriores que pongan de manifiesto condiciones que ya existían al 
 Los hechos posteriores al cierre del ejercicio que pongan de manifiesto condiciones que no existían al cierre del mismo, no supondrán un ajuste en las cuentas anuales. No obstante, cuando los hechos sean de tal importancia que si no se facilitara información al respecto podría distorsionarse la capacidad de evaluación de los usuarios de las cuentas anuales, se deberá incluir en la memoria información respecto a la naturaleza del hecho posterior conjuntamente con una estimación de su efecto o, en su caso, una manifestación acerca de la imposibilidad de realizar dicha estimación.
 
 En todo caso deberá incluirse información sobre los hechos posteriores que afecte a la aplicación del principio de gestión continuada.
+
+> Se modifica el punto 8.3 de la norma 2ª, por el apartado único.1 de la Resolución de 22 de diciembre de 2021. Ref. BOE-A-2021-21658

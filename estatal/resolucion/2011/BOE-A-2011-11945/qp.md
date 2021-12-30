@@ -822,7 +822,11 @@ Su movimiento es el siguiente:
 
 a) Se abonará por el importe del deterioro estimado, con cargo a la subcuenta 6962, «Pérdidas por deterioro de participaciones en instrumentos de patrimonio neto de otras entidades».
 
-b) Se cargará con abono a la cuenta 250, «Inversiones financieras a largo plazo en instrumentos de patrimonio», cuando se enajenen o se den de baja las participaciones.
+b) Se cargará:
+
+b.1) con abono a la subcuenta 7962 "Reversión del deterioro de participaciones en el patrimonio neto a largo plazo", cuando desaparezcan las causas que determinaron el reconocimiento de la corrección valorativa por deterioro.
+
+b.2) con abono a la cuenta 250 "Inversiones financieras a largo plazo en instrumentos de patrimonio", cuando se enajenen o se den de baja las participaciones.
 
 297. Deterioro de valor de valores representativos de deuda a largo plazo.
 
@@ -2711,3 +2715,5 @@ Su movimiento es el siguiente:
 a) Se abonará en el momento en que se produzca el deterioro del activo financiero, por los ajustes valorativos negativos previos con cargo a la divisionaria correspondiente de la subcuenta 6961, «Pérdidas por deterioro de participaciones en sociedades del grupo, multigrupo y asociadas».
 
 b) Se cargará, al cierre del ejercicio, con abono a la cuenta 133, «Ajustes por valoración en activos financieros disponibles para la venta».
+
+> Se modifica la letra b) de la definición 296 por el apartado único.3.2 de la Resolución de 22 de diciembre de 2021. Ref. BOE-A-2021-21658
