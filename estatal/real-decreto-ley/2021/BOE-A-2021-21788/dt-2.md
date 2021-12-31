@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Régimen transitorio en materia de cotización a la Seguridad Social aplicable a determinados contratos formativos.
+
+1. La cotización de los contratos de formación en alternancia que se suscriban a partir de la entrada en vigor de este real decreto-ley se realizará, hasta tanto no entre en vigor el régimen de cotización establecido en la disposición adicional cuadragésima tercera del texto refundido de la Ley General de la Seguridad Social, conforme a lo establecido en el apartado doce del artículo 106 de la Ley de Presupuestos Generales del Estado para el año 2022 sobre los contratos para la formación y el aprendizaje.
+
+2. La cotización de los contratos para la formación y el aprendizaje suscritos con anterioridad a la entrada en vigor de este real decreto-ley, se realizará conforme a lo establecido en la disposición adicional cuadragésima tercera del texto refundido de la Ley General de la Seguridad Social y, hasta tanto no entre en vigor dicho régimen de cotización, conforme a lo establecido en el apartado anterior.

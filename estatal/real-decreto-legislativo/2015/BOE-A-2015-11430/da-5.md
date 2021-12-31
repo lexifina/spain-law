@@ -1,0 +1,5 @@
+## Disposición adicional vigesimosexta. Acceso a los datos de los expedientes de regulación temporal de empleo por la Tesorería General de la Seguridad Social, el Servicio Público de Empleo Estatal y la Inspección de Trabajo y Seguridad Social.
+
+La Tesorería General de la Seguridad Social, el Servicio Público de Empleo Estatal y la Inspección de Trabajo y Seguridad Social tendrán acceso, a través de los procedimientos automatizados que se establezcan, a todos los datos necesarios para la identificación y tipo del expediente de regulación temporal de empleo, de la empresa y de las personas trabajadoras incluidas en el expediente, el tipo de medida a aplicar, el período en el que se puede producir la reducción de jornada de trabajo o suspensión de los contratos de trabajo y el porcentaje máximo de reducción de jornada o periodo máximo de suspensión de contrato previsto respecto de cada persona trabajadora.
+
+> Se añade por el art. 1.14 del Real Decreto-ley 32/2021, de 28 de diciembre. Ref. BOE-A-2021-21788#ap
