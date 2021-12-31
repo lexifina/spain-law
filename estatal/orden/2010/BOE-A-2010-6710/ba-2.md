@@ -57,8 +57,10 @@
 | 556, 570, 571, 573, 575, 576 | 2. Tesorería |  |  |  |  |  |  |  |  |
 |  | Total Activo (A+B) |  |  |  |  | Total Patrimonio Neto y Pasivo (A+B+C) |  |  |  |
 
-> Se modifica por el art. 1.nueve de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
+> Téngase en cuenta que esta actualización del modelo de balance, establecida por el art. 1.Nueve de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947, será aplicable a las cuentas anuales del ejercicio 2021 los puntos 1, 6 y 7 del apartado Nueve, según establece la disposición final única de la citada Orden y los puntos 2, 3, 4, 5, 8, 9, 10 y 11 del apartado Nueve serán aplicables a la Administración General del Estado y a la Administración Institucional del Estado para las cuentas anuales relativas al ejercicio 2022 y siguientes, según establece la disposición adicional de la Orden HFP/1481/2021, de 28 de diciembre. Ref. BOE-A-2021-21791
 
-> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.
+> Se modifica por el art. 1.Nueve de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
+
+> Téngase en cuenta que los puntos 1, 6, y 7 del apartado Nueve serán aplicables a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden y los puntos 2, 3, 4, 5, 8, 9, 10 y 11 del apartado Nueve serán aplicables a la Administración General del Estado y a la Administración Institucional del Estado para las cuentas anuales relativas al ejercicio 2022 y siguientes, según establece la disposición adicional de la Orden HFP/1481/2021, de 28 de diciembre. Ref. BOE-A-2021-21791
 
 > Se modifica por el art. 3.4 de la Orden EHA/3068/2011, de 8 de noviembre. Ref. BOE-A-2011-17889.

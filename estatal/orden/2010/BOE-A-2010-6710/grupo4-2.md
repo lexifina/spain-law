@@ -1318,9 +1318,11 @@ a) Se abonará, a lo largo del ejercicio, por el importe de los riesgos que se v
 
 b) Se cargará a medida que se vayan dando de baja los saldos de deudores para los que se dotó la cuenta correctora de forma individualizada o cuando desaparezca el riesgo, por el importe de la misma, con abono a la cuenta 797, «Reversión del deterioro de créditos», a través de la subcuenta que corresponda.
 
+> Téngase en cuenta que esta actualización, establecida por el art. 1.dieciocho.7 a 13 de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947, será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden, excepto el desglose del subgrupo 40, la definición de la cuenta 401, el desglose del subgrupo 43 y la definición de la cuenta 431, establecidos por los puntos 7, 8, 10 y 11 del apartado dieciocho, que serán aplicables a la Administración General del Estado y a la Administración Institucional del Estado para las cuentas anuales relativas al ejercicio 2022 y siguientes, según establece la disposición adicional de la Orden HFP/1481/2021, de 28 de diciembre. Ref. BOE-A-2021-21791
+
 > Se modifica por el art. 1.dieciocho.7 a 13 de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
 
-> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden, excepto el desglose del subgrupo 40, la definición de la cuenta 401, el desglose del subgrupo 43 y la definición de la cuenta 431, establecidos por los puntos 7, 8, 10 y 11 del apartado dieciocho, que serán aplicables a la Administración General del Estado y a la Administración Institucional del Estado para las cuentas anuales relativas al ejercicio 2022 y siguientes, según establece la disposición adicional de la Orden HFP/1481/2021, de 28 de diciembre. Ref. BOE-A-2021-21791
 
 > Se modifican las cuentas 400 y 413 y se suprime la 411 por el art. único.3.a) a c) de la Orden HFP/1970/2016, de 16 de diciembre. Ref. BOE-A-2016-12431
 

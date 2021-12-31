@@ -128,8 +128,10 @@
 |  |  | 4902. Inversiones financieras en entidades del grupo, multigrupo y asociadas. |
 |  |  | 4903. Otras inversiones financieras. |
 
+> Téngase en cuenta que esta actualización, establecida por el art. 1.diecisiete de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947, será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden, excepto el desglose de las cuentas 401 y 431, establecidos por los puntos 5 y 6 del apartado diecisiete, que serán aplicables a la Administración General del Estado y a la Administración Institucional del Estado para las cuentas anuales relativas al ejercicio 2022 y siguientes, según establece la disposición adicional de la Orden HFP/1481/2021, de 28 de diciembre. Ref. BOE-A-2021-21791
+
 > Se modifica por el art. 1.diecisiete de la Orden HAC/820/2021, de 9 de julio. Ref. BOE-A-2021-12947
 
-> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden.
+> Téngase en cuenta que esta modificación será aplicable a las cuentas anuales del ejercicio 2021, según establece la disposición final única de la citada Orden, excepto el desglose de las cuentas 401 y 431, establecidos por los puntos 5 y 6 del apartado diecisiete, que serán aplicables a la Administración General del Estado y a la Administración Institucional del Estado para las cuentas anuales relativas al ejercicio 2022 y siguientes, según establece la disposición adicional de la Orden HFP/1481/2021, de 28 de diciembre. Ref. BOE-A-2021-21791
 
 > Se suprime la cuenta 411 y se modifica la 413 por el art. único.2 de la Orden HFP/1970/2016, de 16 de diciembre. Ref. BOE-A-2016-12431
