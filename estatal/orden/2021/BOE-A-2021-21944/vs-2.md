@@ -1,0 +1,7 @@
+## Vigésimo sexto. Delegación de competencias en otras materias.
+
+Se aprueba la delegación por la persona titular de la Secretaría de Estado de Función Pública en la persona titular de la Subsecretaría de:
+
+a) La competencia para la convocatoria y resolución de la provisión de puestos de trabajo por el sistema de libre designación en el ámbito de su competencia.
+
+b) La competencia para autorizar las comisiones de servicio con derecho a indemnización por cuantía exacta de los altos cargos dependientes de la Secretaría de Estado.

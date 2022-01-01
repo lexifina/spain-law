@@ -1,0 +1,17 @@
+## Quinto. Delegación de competencias en materia de retribuciones y asistencias.
+
+1. Se delega en la persona titular de la Secretaría de Estado de Presupuestos y Gastos las siguientes competencias:
+
+a) La fijación de las retribuciones y gastos de representación de los Jefes de Misión en el extranjero.
+
+b) La actualización anual y las posteriores revisiones de las retribuciones de los Presidentes de las Agencias Estatales y de los Presidentes, Vicepresidentes y, en su caso, de los Directores Generales y Directores cuando les corresponda el ejercicio de funciones ejecutivas de máximo nivel de las entidades públicas empresariales y demás entes públicos.
+
+c) La autorización y fijación, en su caso, de la compensación económica por asistencia, personal o por representación, a reuniones de órganos colegiados de la Administración y órganos de administración de organismos públicos a las que se refiere el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio.
+
+d) La modificación de los importes máximos autorizados para atender el complemento de productividad, las gratificaciones por servicios extraordinarios y otros incentivos al rendimiento, de los funcionarios incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública. Se excluyen las relativas a las cuantías destinadas a satisfacer el complemento de productividad y las gratificaciones por servicios extraordinarios del personal de la Agencia Estatal de Administración Tributaria.
+
+2. Se delega en la persona titular de la Subsecretaría de Hacienda y Función Pública la fijación del complemento de puesto anual y de la cuantía máxima de complemento variable anual que deberán asignarse en los contratos de los máximos responsables y directivos de aquellas entidades del sector público institucional estatal, distintas de las sociedades estatales, que estén adscritas al Ministerio de Hacienda y Función Pública, de acuerdo con las competencias atribuidas al ministerio de adscripción en el artículo 7 del Real Decreto 451/2012, de 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades.
+
+3. Se delega en la persona titular de la Inspección General del Ministerio de Hacienda y Función Pública la fijación y evaluación de los objetivos, cuya consecución condiciona la percepción del complemento variable de los máximos responsables y directivos de aquellas entidades del sector público institucional estatal, distintas de las sociedades estatales, que estén adscritas al Ministerio de Hacienda y Función Pública, de acuerdo con la competencia atribuida al ministerio de adscripción en el artículo 7 del Real Decreto 451/2012, de 5 de marzo.
+
+4. Se delega en la persona titular de la Dirección General de Costes de Personal la emisión de los informes previstos en los artículos 29, 30, 33 y disposición final segunda del Real Decreto 462/2002, de 24 de mayo.
