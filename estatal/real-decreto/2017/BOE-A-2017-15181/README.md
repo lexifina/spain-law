@@ -8,19 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2022-01-01 by BOE-A-2021-21884. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no](no.md)
-- [(preambulo)](pr.md)
-- [Artículo único](au.md)
-- [Disposición final primera](df.md)
-- [Disposición final segunda](df-2.md)
-- [Disposición final tercera](df-3.md)
-- [(firma)](fi.md)
-- [Estrategia de Seguridad Nacional](es.md)
-- [CAPÍTULO 1](c1.md)
-- [CAPÍTULO 2](c2.md)
-- [CAPÍTULO 3](c3.md)
-- [CAPÍTULO 4](c4.md)
-- [CAPÍTULO 5](c5.md)
-- [CAPÍTULO 6](c6.md)
+- [BOE publisher notice](no.md)
