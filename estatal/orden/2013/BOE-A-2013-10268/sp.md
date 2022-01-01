@@ -568,6 +568,12 @@ d) Inversiones en el patrimonio de entidades del grupo, multigrupo y asociadas.
 
 Los conceptos de entidad del grupo, entidad multigrupo y entidad asociada serán los definidos en las Normas para la formulación de cuentas anuales consolidadas en el ámbito del sector público aprobadas por Orden HAP/1489/2013, de 18 de julio.
 
+> Téngase en cuenta que esta actualización de la letra d) establecida por la disposición final 1.1.d) de la Orden HAC/836/2021, de 9 de julio. Ref. BOE-A-2021-13171#df, entra en vigor el 1 de enero de 2022, según determina su disposición final 3.
+
+> Redacción anterior
+
+> "Los conceptos de entidad del grupo, entidad multigrupo y entidad asociada serán los definidos en las Normas para la formulación de cuentas anuales consolidadas en el ámbito del sector público local."
+
 e) Activos financieros disponibles para la venta.
 
 En esta categoría se incluirán todos los activos financieros que no cumplan los requisitos para ser incluidos en alguna de las categorías anteriores.
@@ -1515,3 +1521,5 @@ Los hechos posteriores que pongan de manifiesto condiciones que ya existían al 
 Los hechos posteriores al cierre del ejercicio que pongan de manifiesto condiciones que no existían al cierre del mismo, no supondrán un ajuste en las cuentas anuales. No obstante, cuando los hechos sean de tal importancia que si no se facilitara información al respecto podría distorsionarse la capacidad de evaluación de los usuarios de las cuentas anuales, se deberá incluir en la memoria información respecto a la naturaleza del hecho posterior conjuntamente con una estimación de su efecto o, en su caso, una manifestación acerca de la imposibilidad de realizar dicha estimación.
 
 En todo caso deberá incluirse información sobre los hechos posteriores que afecte a la aplicación del principio de gestión continuada.
+
+> Se modifica el apartado 2.d) de la norma 8, con efectos de 1 de enero de 2022, por la disposición final 1.1.d) de la Orden HAC/836/2021, de 9 de julio. Ref. BOE-A-2021-13171#df

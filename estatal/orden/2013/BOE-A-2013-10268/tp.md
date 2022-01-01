@@ -24,7 +24,13 @@ Las cuentas anuales de las entidades deberán adaptarse a los modelos establecid
 
 4.º Entidades del grupo, multigrupo y asociadas.
 
-A efectos de la presentación de las cuentas anuales se tendrán en cuenta los conceptos de «entidad del grupo, entidad multigrupo y entidad asociada» que se definen en las Normas para la formulación de cuentas anuales consolidadas en el ámbito del sector público aprobadas por Orden HAP/1489/2013, de 18 de julio.
+A efectos de la presentación de las cuentas anuales los conceptos de entidad del grupo, entidad multigrupo y entidad asociada serán los que se definen en las Normas para la formulación de cuentas anuales consolidadas en el ámbito del sector público local.
+
+> Téngase en cuenta que esta actualización del apartado 4º establecida por la disposición final 1.1.d) de la Orden HAC/836/2021, de 9 de julio. Ref. BOE-A-2021-13171#df, entra en vigor el 1 de enero de 2022, según determina su disposición final 3.
+
+> Redacción anterior
+
+> "A efectos de la presentación de las cuentas anuales se tendrán en cuenta los conceptos de «entidad del grupo, entidad multigrupo y entidad asociada» que se definen en las Normas para la formulación de cuentas anuales consolidadas en el ámbito del sector público aprobadas por Orden HAP/1489/2013, de 18 de julio."
 
 5.º Normas comunes al balance, la cuenta de resultado económico patrimonial, el estado de cambios en el patrimonio neto y el estado de flujos de efectivo.
 
@@ -2099,5 +2105,7 @@ a) Los hechos posteriores que pongan de manifiesto circunstancias que ya existí
 b) Los hechos posteriores que pongan de manifiesto circunstancias que ya existían en la fecha de cierre del ejercicio que no hayan supuesto, de acuerdo con su naturaleza, la inclusión de un ajuste en las cifras contenidas en las cuentas anuales, si bien la información contenida en la memoria debe ser modificada de acuerdo con dicho hecho posterior.
 
 c) Los hechos posteriores que muestren condiciones que no existían al cierre del ejercicio y que sean de tal importancia que, si no se suministra información al respecto, podría afectar a la capacidad de evaluación de los usuarios de las cuentas anuales.
+
+> Se modifica el apartado 1, punto 4, con efectos de 1 de enero de 2022, por la disposición final 1.1.d) de la Orden HAC/836/2021, de 9 de julio. Ref. BOE-A-2021-13171#df
 
 > Se modifica el apartado 2. Balance, se suprime el apartado 24.1.1.c) y se añade el 24.7 por el art. 1.1 y 2 de la Orden HAC/1364/2018, de 12 de diciembre. Ref. BOE-A-2018-17603
