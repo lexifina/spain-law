@@ -16,4 +16,14 @@ Recibidas las alegaciones o transcurrido el plazo señalado para efectuar las mi
 
 6. En aquellos casos en que la imposición de sanciones en el orden social en el ámbito de la Administración General del Estado corresponda a los Jefes de las Inspecciones Provinciales, y concurra en éstos la doble condición de Jefe de Inspección provincial y Jefe de Unidad Especializada de Seguridad Social, deberán asignar las funciones de instrucción y ordenación del expediente a un funcionario dependiente orgánicamente de la Administración General del Estado.
 
+7. Cuando el sujeto responsable hubiese manifestado su voluntad de proceder al pago de la sanción con carácter previo a la resolución, se le facilitarán los documentos o instrucciones precisas para el pago de la sanción, en el plazo fijado al efecto y en la cuantía correspondiente, una vez aplicado el porcentaje de reducción del 40 por ciento.
+
+Dicho pago deberá realizarse y acreditarse ante el órgano instructor en un plazo máximo de diez días hábiles desde el siguiente a la notificación de la documentación precisa para realizarlo.
+
+Transcurrido dicho plazo, una vez comprobada la realización o no del pago de la sanción, el órgano competente para la instrucción del procedimiento dictará su propuesta de resolución, que indicará, bien la realización del pago y la fecha de cobro o bien la falta de pago.
+
+> Téngase en cuenta que este apartado 7, añadido por el art. único.8 del Real Decreto 688/2021 de 3 de agosto. Ref. BOE-A-2021-13382, entra en vigor el 1 de enero de 2022, según determina su disposición final 2.
+
+> Se añade el apartado 7, con efectos de 1 de enero de 2022, por el art. único.8 del Real Decreto 688/2021 de 3 de agosto. Ref. BOE-A-2021-13382
+
 > Se añade por el art. único.9 del Real Decreto 772/2011, de 3 de junio. Ref. BOE-A-2011-10784.
