@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 76, de 29 de marzo de 2004. Ref. BOE-A-2004-5603.
+Tengase en cuenta que las disposiciones de este Convenio pueden haberse visto afectadas por el Convenio multilateral para aplicar las medidas relacionadas con los tratados fiscales para prevenir la erosión de las bases imponibles y el traslado de beneficios, de 24 de noviembre de 2016. Ref. BOE-A-2021-21097
