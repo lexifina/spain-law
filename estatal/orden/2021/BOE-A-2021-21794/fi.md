@@ -1,0 +1,5 @@
+La presente orden agota la vía administrativa, de acuerdo con lo dispuesto en el artículo 114 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Contra la misma podrá interponerse recurso contencioso-administrativo ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional en el plazo de dos meses, a contar desde el día siguiente al de la publicación de la presente resolución, de conformidad con la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+
+También podrá interponerse potestativamente recurso de reposición ante el Ministro para la Transición Ecológica y el Reto Demográfico en el plazo de un mes, contado a partir del día siguiente al de la publicación, significando que, en caso de presentar recurso de reposición, no se podrá interponer recurso contencioso-administrativo hasta que se resuelva expresamente el recurso de reposición o se produzca la desestimación presunta del mismo.
+
+Madrid, 28 de diciembre de 2021.–La Vicepresidenta Tercera del Gobierno y Ministra para la Transición Ecológica y el Reto Demográfico, Teresa Ribera Rodríguez.
