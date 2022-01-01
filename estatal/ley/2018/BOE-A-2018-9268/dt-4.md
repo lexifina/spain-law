@@ -4,4 +4,6 @@ El Registro de Prestaciones Sociales Públicas, constituido en el Instituto Naci
 
 A partir de su puesta en funcionamiento, quedará integrado en la Tarjeta Social Digital el contenido del actual Registro de Prestaciones Sociales Públicas, regulado por el artículo 72 del texto refundido de la Ley General de la Seguridad Social, y por el Real Decreto 397/1996, de 1 de marzo.
 
+> Se modifica por la disposición final 5.2 de la Ley 19/2021, de 20 de diciembre. Ref. BOE-A-2021-21007#df-5
+
 > Se modifica por la disposición final 5.2 del Real Decreto-ley 20/2020, de 29 de mayo. Ref. BOE-A-2020-5493#df-5

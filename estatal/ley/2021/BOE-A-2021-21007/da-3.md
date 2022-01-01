@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Crédito extraordinario en el Presupuesto del Ministerio de Inclusión, Seguridad Social y Migraciones para financiar el ingreso mínimo vital en el ejercicio 2020.
+
+Se concede un crédito extraordinario en el presupuesto del Ministerio de Inclusión, Seguridad Social y Migraciones por un importe de 500.000.000 euros en la aplicación presupuestaria 19.02.000X.424 «Aportación del Estado a la Seguridad Social para financiar el Ingreso Mínimo Vital». Dicha modificación se financiará de conformidad con el artículo 46 de la Ley 6/2018, de 3 de julio, de Presupuestos Generales del Estado para 2018.

@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Habilitación a la persona titular de la Dirección General del Instituto Nacional de la Seguridad social.
+
+Por resolución de la persona titular de la Dirección General del Instituto Nacional de la Seguridad Social, que habrá de publicarse en el «Boletín Oficial del Estado», se aprobarán los modelos normalizados que deberán cumplimentar, en todo caso, los Servicios Sociales y las Entidades del Tercer Sector de Acción Social a que se refiere la disposición transitoria séptima, para certificar el cumplimiento de los requisitos previstos en los apartados 9 y 10 del artículo 21 de la presente Ley.
