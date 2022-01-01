@@ -1,0 +1,3 @@
+Norma derogada en lo que se oponga a lo dispuesto en la Ley 12/2011, de 27 de mayo, según establece su disposición derogatoria única.2 Ref. BOE-A-2011-9279#ddunica.
+
+Téngase en cuenta que la entrada en vigor de la citada Ley queda condicionada a la fecha en que entre en vigor para España el Protocolo de 12 de febrero de 2004 por el que se modifica el Convenio de responsabilidad Civil por daños Nucleares (Convenio de París) y el Protocolo de 12 de febrero de 2004, por el que se modifica el Convenio complementario del anterior (Convenio de Bruselas), según se establece en su disposición final 7. La entrada en vigor de los citados Protocolos se produjo el 1 de enero de 2022.
