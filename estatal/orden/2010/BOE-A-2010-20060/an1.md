@@ -39,7 +39,7 @@ Para la producción de semillas de base, si se utiliza la esterilidad masculina,
 
 Para la producción de semillas certificadas, 500 metros.
 
-En los cultivos para producir semillas certificadas de híbridos de avenas, cebada, arroz, trigo blando, trigo duro, escanda menor y triticale autógamo:
+En los cultivos para producir semillas certificadas de híbridos de avenas, cebada, arroz, trigo blando, trigo duro, trigo espelta menor y triticale autógamo:
 
 a) El cultivo deberá ajustarse a los requisitos siguientes referentes a las distancias respecto a las fuentes de polen vecinas, las cuales pueden dar lugar a polinizaciones no deseadas: el componente femenino deberá situarse a una distancia mínima de 25 metros de cualquier otra variedad de la misma especie, excepto de un cultivo de componente masculino; esta distancia podrá no respetarse si existe una protección suficiente contra las fuentes de polinización no deseadas.
 
@@ -49,7 +49,7 @@ Cuando las semillas se produzcan mediante el uso de un agente de hibridación qu
 
 1. La pureza varietal mínima de cada componente será de:
 
-Avena, cebada, arroz, trigo blando, trigo duro y escanda menor: 99,7 por 100.
+Avena, cebada, arroz, trigo blando, trigo duro y trigo espelta menor: 99,7 por 100.
 
 Triticale autógamo: 99,0 por 100.
 
@@ -117,6 +117,8 @@ La presencia de plagas reguladas no cuarentenarias en los cultivos cumplirá los
 | Gibberella fujikuroi Sawada [GIBBFU]. | Oryza sativa L. | No más de dos plantas sintomáticas por 200 m2 detectadas durante inspecciones sobre el terreno efectuadas en momentos adecuados en una muestra representativa de las plantas de cada cultivo. | No más de dos plantas sintomáticas por 200 m2 detectadas durante inspecciones sobre el terreno efectuadas en momentos adecuados en una muestra representativa de las plantas de cada cultivo. | Semillas certificadas de la primera generación (C1): No más de cuatro plantas sintomáticas por 200 m2 detectadas durante inspecciones sobre el terreno efectuadas en momentos adecuados en una muestra representativa de las plantas de cada cultivo. Semillas certificadas de la segunda generación (C2): No más de ocho plantas sintomáticas por 200 m2 detectadas durante inspecciones sobre el terreno efectuadas en momentos adecuados en una muestra representativa de las plantas de cada cultivo. |
 | Nematodos |
 | Aphelenchoides besseyi Christie [APLOBE]. | Oryza sativa L. | 0 % | 0 % | 0 %» |
+
+> Se modifica, con efectos de 1 de febrero de 2022, la observación tercera por el art. 2.2 de la Orden APA/1437/2021, de 16 de diciembre de 2021. Ref. BOE-A-2021-21286
 
 > Se modifica la observación sexta por el art. 3.1 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#at
 

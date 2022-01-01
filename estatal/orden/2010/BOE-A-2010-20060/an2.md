@@ -5,7 +5,7 @@
 | Especie y categoría | Germinación (mínimo) porcentaje | Pureza específica (mínimo) porcentaje | Pureza varietal (mínimo) porcentaje | Semillas de otras especies (máximo) | Semillas de otros cereales (máximo) | Semillas de otras especies no cereales (máximo) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 2 | 3 | 4 | 5 | 6 |
-| Trigos, cebada, avenas y escanda menor(1): |  |  |  |  |  |  |
+| Trigos, cebada, avenas y trigo espelta menor(1): |  |  |  |  |  |  |
 | Semilla de prebase (*) y de base | 85 (2) | 99 | 99,9 | 4 | 1 | 3 |
 | Semilla certificada R-1 | 85 (2) | 98 | 99,7 | 10 | 7 | 7 |
 | Semilla certificada R-2 | 85 (2) | 98 | 99 | 10 | 7 | 7 |
@@ -26,7 +26,7 @@
 | Especie y categoría | Avena fatua Avena sterilis Avena ludoviciana Lolium temulentum (máximo) | Rapha- nus raphanis-trum Agroste-mma githago (máximo) | Panicum spp (máximo) | Granos rojos de arroz (máximo) | Semillas atacadas por carbón (máximo) | Semillas atacadas por tizón (máximo) | Humedad (máximo) porcentaje |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| Trigos, cebada, avenas y escanda menor(1): |  |  |  |  |  |  |  |
+| Trigos, cebada, avenas y trigo espelta menor(1): |  |  |  |  |  |  |  |
 | Semilla de prebase (*) y de base | 0 | 1 | - | - | 2 | 0 | 14 |
 | Semilla certificada R-1 | 0 | 3 | - | - | 5 | 0 | 14 |
 | Semilla certificada R-2 | 0 | 3 | - | - | 10 | 0 | 14 |
@@ -87,9 +87,11 @@ Observaciones:
 
 8. Por lo que respecta a las variedades de Hordeum vulgare oficialmente clasificadas como variedades de tipo cebada desnuda, la facultad de germinación mínima queda reducida al 75 por 100 de las semillas puras. La etiqueta oficial llevará la inscripción “Facultad germinativa mínima del 75 por 100”.
 
-9. Para los híbridos de avenas, cebada, arroz, trigo blando, trigo duro, escanda menor y triticale autógamo, la pureza varietal mínima de las semillas de categoría “semilla certificada” deberá ser del 90 por 100. Dicha pureza deberá ser examinada en las pruebas oficiales de post-control sobre una proporción adecuada de muestras.
+9. Para los híbridos de avenas, cebada, arroz, trigo blando, trigo duro, trigo espelta menor y triticale autógamo, la pureza varietal mínima de las semillas de categoría “semilla certificada” deberá ser del 90 por 100. Dicha pureza deberá ser examinada en las pruebas oficiales de post-control sobre una proporción adecuada de muestras.
 
 10. En el caso de semillas de variedades híbridas de cebada empleando el método CMS, la pureza varietal mínima deberá ser del 85 %. Las impurezas, con excepción de la línea restauradora, no excederán del 2 %. Dicha pureza deberá ser examinada en las pruebas oficiales de post-control sobre una proporción adecuada de muestras.
+
+> Se modifica, con efectos de 1 de febrero de 2022, por el art. 2.2 de la Orden APA/1437/2021, de 16 de diciembre de 2021. Ref. BOE-A-2021-21286
 
 > Se modifica por el art. 3.2 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#at
 

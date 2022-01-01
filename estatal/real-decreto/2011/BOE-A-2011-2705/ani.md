@@ -18,11 +18,11 @@ Cebada: Hordeum vulgare L.
 
 Centeno: Secale cereale L.
 
-Trigo blando: Triticum aestivum L. emend. Fiori et Paol.
+Trigo: Triticum aestivum L. subsp. aestivum.
 
-Trigo duro: Triticum durum Desf.
+Trigo duro: Triticum turgidum L. subsp. durum (Desf.) van Slageren.
 
-Trigo espelta: Triticum spelta L.
+Trigo espelta: Triticum aestivum L. subsp. spelta (L.) Thell.
 
 Triticale: X Triticosecale Wittm.
 
@@ -136,22 +136,23 @@ Arroz: Rendimiento grano pelado, rendimiento grano elaborado y tipo de grano.
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de junio de 2020, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2022, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
-Especies que cumplen con los protocolos de examen de la OCVV (1):
+Especies que cumplen con los protocolos de examen de la OCVV(1):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Avena nuda L. | Avena desnuda, avena descascarillada. | TP 20/2 de 1.10.2015. |
-| Avena sativa L. (incluye A. byzantina K. Koch). | Avena y avena roja. | TP 20/2 de 1.10.2015. |
+| Avena nuda L. | Avena desnuda, avena descascarillada. | TP 20/3 de 6.03.2020. |
+| Avena sativa L. (incluye A. byzantina K. Koch). | Avena y avena roja. | TP 20/3 de 6.03.2020. |
 | Hordeum vulgare L. | Cebada. | TP 19/5 de 19.03.2019. |
 | Oryza sativa L. | Arroz. | TP 16/3 de 01.10.2015. |
 | Secale cereale L. | Centeno. | TP 58/1 de 31.10.2002. |
-| Triticum aestivum L. | Trigo. | TP 3/5 de 19.3.2019. |
-| Triticum durum Desf. | Trigo duro. | TP 120/3 de 19.3.2014. |
+| Triticum aestivum L. subsp. aestivum. | Trigo. | TP 3/5 de 19.3.2019. |
+| Triticum turgidum L. subsp. Durum (Desf.) van Slageren. | Trigo duro. | TP 120/3 de 19.3.2014. |
 | xTriticosecale Wittm. ex A. Camus. | Híbridos resultantes del cruce de una especie del género Triticum con una especie del género Secale. | TP 121/2 rev.1 de 16.2.2011. |
+| (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu). |
 
-(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+> Se modifican los apartados 1 y 6 por el art. 1.1 de la Orden APA/1437/2021, de 16 de diciembre de 2021. Ref. BOE-A-2021-21286
 
 > Se modifica el apartado 6 por el art. 7.1 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#as-3
 
