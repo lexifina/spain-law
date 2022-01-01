@@ -4,9 +4,7 @@ En el caso de que hubiera beneficiarios menores o incapacitados judicialmente, c
 
 En todo caso, el Instituto Nacional de la Seguridad Social pondrá en conocimiento del Ministerio Fiscal la existencia de la pensión, así como toda resolución judicial de la que se deriven indicios racionales de que una persona que tenga atribuida la patria potestad o tutela es responsable del delito doloso de homicidio para que proceda, en su caso, a instar la adopción de las medidas oportunas en relación con la persona física o institución tutelar del menor o de la persona con la capacidad modificada judicialmente a las que debe abonarse la pensión. Adoptadas dichas medidas con motivo de dicha situación procesal, la Administración, cuando así proceda, comunicará también al Ministerio Fiscal la resolución por la que se ponga fin al proceso penal y la firmeza o no de la resolución judicial en que se acuerde.
 
-> Téngase en cuenta que este artículo se declara inconstitucional y nulo, en la redacción dada por la disposición final 1.9 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
-
-> Según establece el fundamento jurídico 8, la nulidad derivada de la declaración de inconstitucionalidad debe quedar diferida hasta el 1 de enero de 2022, a fin de que antes de que expire ese plazo se pueda proceder a sustituir la regulación declarada inconstitucional y nula (por incumplimiento del presupuesto habilitante del art. 86.1 CE) por la regulación legal pertinente.
+> Se modifica por la disposición final 2.9 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#df-2
 
 > Se declara inconstitucional y nulo, en la redacción dada por la disposición final 1.9 del Real Decreto-ley 15/2020, de 21 de abril, con el alcance establecido en el fundamento jurídico 8, por la Sentencia del TC 111/2021, de 13 de mayo. Ref. BOE-A-2021-10024
 

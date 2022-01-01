@@ -1,6 +1,8 @@
-## Disposición transitoria decimotercera. Límites para la aplicación del régimen simplificado y del régimen especial de la agricultura, ganadería y pesca en los ejercicios 2016, 2017, 2018, 2019 y 2020.
+## Disposición transitoria decimotercera. Límites para la aplicación del régimen simplificado y del régimen especial de la agricultura, ganadería y pesca en los ejercicios 2016 a 2022.
 
-Para los ejercicios 2016, 2017, 2018, 2019, 2020 y 2021, la magnitud de 150.000 euros a que se refiere el primer guion del número 2.º y el número 3.º del apartado dos del artículo 122, y el número 6.º del apartado dos del artículo 124 de esta Ley, queda fijada en 250.000 euros.
+Para los ejercicios 2016, 2017, 2018, 2019, 2020, 2021 y 2022, la magnitud de 150.000 euros a que se refiere el primer guion del número 2.º y el número 3.º del apartado dos del artículo 122, y el número 6.º del apartado dos del artículo 124 de esta Ley, queda fijada en 250.000 euros.
+
+> Se modifica, con efectos desde 1 de enero de 2022, por el art. 64 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653
 
 > Se modifica, con efectos de 1 de enero de 2021, por el art. 70 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#a7-2
 

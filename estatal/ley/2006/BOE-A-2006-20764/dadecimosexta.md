@@ -1,12 +1,16 @@
 ## Disposición adicional decimosexta. Límite financiero de aportaciones y contribuciones a los sistemas de previsión social.
 
-El importe anual máximo conjunto de aportaciones y contribuciones empresariales a los sistemas de previsión social previstos en los apartados 1, 2, 3, 4 y 5 del artículo 51, de la disposición adicional novena y del apartado dos de la disposición adicional undécima de esta Ley será de 2.000 euros anuales.
+El importe anual máximo conjunto de aportaciones y contribuciones empresariales a los sistemas de previsión social previstos en los apartados 1, 2, 3, 4 y 5 del artículo 51, de la disposición adicional novena y del apartado dos de la disposición adicional undécima de esta Ley será de 1.500 euros anuales.
 
-Este límite se incrementará en 8.000 euros, siempre que tal incremento provenga de contribuciones empresariales.
+Este límite se incrementará en 8.500 euros, siempre que tal incremento provenga de contribuciones empresariales, o de aportaciones del trabajador al mismo instrumento de previsión social por importe igual o inferior a la respectiva contribución empresarial.
 
-Las aportaciones propias que el empresario individual realice a planes de pensiones de empleo o a mutualidades de previsión social de los que, a su vez, sea promotor y partícipe o mutualista, así como las que realice a planes de previsión social empresarial o seguros colectivos de dependencia de los que, a su vez, sea tomador y asegurado, se considerarán como contribuciones empresariales, a efectos del cómputo de este límite.
+A estos efectos, las cantidades aportadas por la empresa que deriven de una decisión del trabajador tendrán la consideración de aportaciones del trabajador.
+
+Las aportaciones propias que el empresario individual realice a planes de pensiones de empleo o a mutualidades de previsión social de los que, a su vez, sea promotor y, además, partícipe o mutualista, así como las que realice a planes de previsión social empresarial o seguros colectivos de dependencia de los que, a su vez, sea tomador y asegurado, se considerarán como contribuciones empresariales, a efectos del cómputo de este límite.
 
 Además, para seguros colectivos de dependencia contratados por empresas para cubrir compromisos por pensiones, se establece un límite adicional de 5.000 euros anuales para las primas satisfechas por la empresa.
+
+> Se modifica, con efectos desde 1 de enero de 2022, por el art. 59.3 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#a5-11
 
 > Se modifica, con efectos desde 1 de enero de 2021, por el art. 62.3 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#a6-4
 

@@ -1,1 +1,1 @@
-Se suspende la aplicación del sistema de reducción previsto en este Real Decreto, para las cotizaciones que se generen durante el año 2021, según establece la disposición adicional 127 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#da-128
+Se suspende la aplicación del sistema de reducción de las cotizaciones por contingencias profesionales previsto en este Real Decreto, para las cotizaciones que se generen durante el año 2022, por la disposición adicional 106 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#da-106

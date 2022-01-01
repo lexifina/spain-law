@@ -1,1 +1,1 @@
-> Incluye la corrección de erratas publicada en BOE núm. 24, de 28 de enero de 2000. Ref. BOE-A-2000-1726.
+Téngase en cuenta que todas las referencias hechas en la presente norma a la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Economía y Hacienda o a la Dirección General de Personal del Ministerio de Defensa, se entenderán realizadas al Instituto Nacional de la Seguridad Social, según se establece en la disposición final 4.5 de la Ley 22/2021, de 28 de diciembre. Ref. BOE-A-2021-21653#df-4

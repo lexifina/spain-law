@@ -531,6 +531,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional decimoctava](dadecimoctava.md)
 - [Disposición adicional decimonovena](dadecimonovena.md)
 - [Disposición adicional vigésima](davigesima.md)
+- [Disposición adicional vigésima bis](da-15.md)
+- [Disposición adicional vigésima ter](da-16.md)
 - [Disposición adicional vigésima primera](davigesimaprimera.md)
 - [Disposición adicional vigésima segunda](davigesimasegunda.md)
 - [Disposición adicional vigésima tercera](davigesimatercera.md)
