@@ -22,7 +22,7 @@ Asimismo, para el cómputo de los años de cotización se tomarán años complet
 
 Se faculta al Gobierno para el desarrollo reglamentario de los supuestos previstos en los párrafos anteriores de la presente regla 2ª, quien podrá en razón del carácter voluntario o forzoso del acceso a la jubilación adecuar las condiciones señaladas para los mismos.
 
-Los coeficientes reductores de la edad de jubilación a que se refiere el artículo 206 no serán tenidos en cuenta, en ningún caso, a efectos de acreditar la edad exigida para acceder a la jubilación regulada en la presente regla 2.ª. Tampoco será de aplicación a la jubilación regulada en la presente regla el coeficiente del 0,50 previsto en el artículo 210.3 de esta ley.
+Los coeficientes reductores de la edad de jubilación a los que se refieren los artículos 206 y 206 bis no serán tenidos en cuenta, en ningún caso, a efectos de acreditar la edad exigida para acceder a la jubilación regulada en la presente regla 2.ª Tampoco será de aplicación a la jubilación regulada en la presente regla el coeficiente del 0,50 previsto en el artículo 210.4 de esta ley.
 
 2. Los trabajadores que, reuniendo todos los requisitos para obtener el reconocimiento del derecho a pensión de jubilación en la fecha de entrada en vigor de la Ley 26/1985, de 31 de julio, de medidas urgentes para la racionalización de la estructura y de la acción protectora de la Seguridad Social, no lo hubieran ejercitado, podrán acogerse a la legislación anterior para obtener la pensión en las condiciones y cuantía a que hubieren tenido derecho el día anterior al de entrada en vigor de dicha ley.
 
@@ -32,15 +32,15 @@ El derecho establecido en el párrafo anterior también alcanzará a aquellos tr
 
 4. Los trabajadores que, reuniendo todos los requisitos para obtener el reconocimiento del derecho a la pensión de jubilación en la fecha de entrada en vigor de la Ley 24/1997, de 15 de julio, de Consolidación y Racionalización del Sistema de Seguridad Social, no lo hubieran ejercitado, podrán optar por acogerse a la legislación anterior para obtener la pensión en las condiciones y cuantía a que hubiesen tenido derecho el día anterior al de entrada en vigor de dicha ley.
 
-5. Con efectos 1 de enero de 2021, se seguirá aplicando la regulación de la pensión de jubilación, en sus diferentes modalidades, requisitos de acceso, condiciones y reglas de determinación de prestaciones, vigentes antes de la entrada en vigor de la Ley 27/2011, de 1 de agosto, de actualización adecuación y modernización del sistema de la Seguridad Social, a las pensiones de jubilación que se causen antes de 1 de enero de 2022, en los siguientes supuestos:
+5. Se seguirá aplicando la regulación de la pensión de jubilación, en sus diferentes modalidades, requisitos de acceso, condiciones y reglas de determinación de prestaciones, vigentes antes de la entrada en vigor de la Ley 27/2011, de 1 de agosto, de actualización adecuación y modernización del sistema de la Seguridad Social, a las pensiones de jubilación que se causen, en los siguientes supuestos:
 
 a) Las personas cuya relación laboral se haya extinguido antes de 1 de abril de 2013, siempre que con posterioridad a tal fecha no vuelvan a quedar incluidas en alguno de los regímenes del sistema de la Seguridad Social.
 
-b) Las personas con relación laboral suspendida o extinguida como consecuencia de decisiones adoptadas en expedientes de regulación de empleo, o por medio de convenios colectivos de cualquier ámbito, acuerdos colectivos de empresa, así como por decisiones adoptadas en procedimientos concursales, aprobados, suscritos o declarados con anterioridad a 1 de abril de 2013, siempre que la extinción o suspensión de la relación laboral se produzca con anterioridad a 1 de enero de 2022.
+b) Las personas con relación laboral suspendida o extinguida como consecuencia de decisiones adoptadas en expedientes de regulación de empleo, o por medio de convenios colectivos de cualquier ámbito, acuerdos colectivos de empresa, así como por decisiones adoptadas en procedimientos concursales, aprobados, suscritos o declarados con anterioridad a 1 de abril de 2013.
 
 Será condición indispensable que los indicados acuerdos colectivos de empresa se encuentren debidamente registrados en el Instituto Nacional de la Seguridad Social o en el Instituto Social de la Marina, en su caso, en el plazo que reglamentariamente se determine.
 
-c) No obstante, las personas a las que se refieren los apartados anteriores también podrán optar por que se aplique, para el reconocimiento de su derecho a pensión, la legislación que esté vigente en la fecha del hecho causante de la misma.
+c) No obstante, para el reconocimiento del derecho a pensión de las personas a las que se refieren los apartados anteriores, la entidad gestora aplicará la legislación que esté vigente en la fecha del hecho causante de la misma, cuando resulte más favorable a estas personas.
 
 6. Se seguirá aplicando la regulación para la modalidad de jubilación parcial con simultánea celebración de contrato de relevo, vigente con anterioridad a la entrada en vigor de la Ley 27/2011, de 1 de agosto, de actualización, adecuación y modernización del sistema de la Seguridad Social, a pensiones causadas antes del 1 de enero de 2023, siempre y cuando se acredite el cumplimiento de los siguientes requisitos:
 
@@ -57,6 +57,8 @@ e) Que exista una correspondencia entre las bases de cotización del trabajador 
 f) Que se acredite un período de cotización de treinta y tres años en la fecha del hecho causante de la jubilación parcial, sin que a estos efectos se tenga en cuenta la parte proporcional correspondiente por pagas extraordinarias. A estos exclusivos efectos, solo se computará el período de prestación del servicio militar obligatorio o de la prestación social sustitutoria, con el límite máximo de un año.
 
 En el supuesto de personas con discapacidad en grado igual o superior al 33 por ciento, el período de cotización exigido será de veinticinco años.
+
+> Se modifica el último párrafo del apartado 1 y el apartado 5 por el art. 1.19 de la Ley 21/2021, de 28 de diciembre. Ref. BOE-A-2021-21652#a1
 
 > Se modifica el apartado 5 por la disposición final 5.9 del Real Decreto-ley 2/2021, de 26 de enero. Ref. BOE-A-2021-1130#df-5
 

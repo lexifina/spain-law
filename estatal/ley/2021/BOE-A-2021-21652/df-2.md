@@ -1,0 +1,3 @@
+## Disposición final segunda. Adaptación del marco regulador establecido en el Real Decreto 1698/2011, de 18 de noviembre, por el que se regula el régimen jurídico y el procedimiento general para establecer coeficientes reductores y anticipar la edad de jubilación en el sistema de la Seguridad Social.
+
+En el plazo de tres meses desde el 1 de enero de 2022, el Gobierno procederá, en los términos que previamente sean acordados con las organizaciones empresariales y sindicales más representativas, a la adaptación del marco regulador establecido en el Real Decreto 1698/2011, de 18 de noviembre, por el que se regula el régimen jurídico y el procedimiento general para establecer coeficientes reductores y anticipar la edad de jubilación en el sistema de la Seguridad Social.
