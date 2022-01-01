@@ -4,9 +4,9 @@
 
 1. Requisitos generales
 
-Las subvenciones al Seguro Agrario tendrán carácter de ayudas estatales y estarán sujetas a las disposiciones del título VII, capítulo 1, sección segunda del Tratado de Funcionamiento de la Unión Europea (TFUE), en virtud de las cuales cada régimen de ayudas estatales que se adopte al amparo de este real decreto deberá ser considerado compatible con el mercado interior, mediante una de las siguientes dos opciones:
+Las subvenciones al Seguro Agrario tendrán carácter de ayudas estatales y estarán sujetas a las disposiciones del título VII, capítulo 1, sección segunda del Tratado de Funcionamiento de la Unión Europea, en virtud de las cuales cada régimen de ayudas estatales que se adopte al amparo de este real decreto deberá ser considerado compatible con el mercado interior, mediante una de las siguientes dos opciones:
 
-a) Decisión específica de la Comisión Europea por la que se considere compatible con el mercado interior, con arreglo al artículo 107, apartado 3, letra c) del TFUE.
+a) Decisión específica de la Comisión Europea por la que se considere compatible con el mercado interior, con arreglo al artículo 107, apartado 3, letra c) del Tratado de Funcionamiento de la Unión Europea.
 
 En este caso, el régimen de ayudas deberá reunir las condiciones establecidas en las directrices adoptadas por la Comisión Europea que le sean de aplicación, en función de las producciones aseguradas:
 
@@ -14,17 +14,23 @@ a. Directrices de la Unión Europea aplicables a las Ayudas Estatales en los sec
 
 b. Directrices para el examen de las ayudas estatales en el sector de la pesca y la acuicultura (2015/C 217/01).
 
-ENESA deberá notificar el proyecto de régimen de ayudas a la Comisión Europea con la suficiente antelación para que ésta pueda presentar sus observaciones, según lo previsto en el artículo 108, apartado 3 del TFUE, y el régimen no podrá ejecutarse antes de obtener la decisión definitiva.
+Los instrumentos de ayuda estatal expiraron el 31 de diciembre de 2020. A fin de que la Comisión pueda seguir evaluando las ayudas estatales sobre la base de dichos instrumentos y permitir su revisión tras la adopción del Reglamento sobre el plan estratégico en el marco de la política agrícola común (PAC) y del nuevo Fondo Europeo Marítimo y de Pesca (FEMP), su período de vigencia se ha prorrogado hasta el 31 de diciembre de 2022.
 
-b) Cumplimiento de los requisitos establecidos en alguno de los reglamentos adoptados por la Comisión Europea, por los que se declaran determinadas categorías de ayuda compatibles con el mercado interior en aplicación de los artículos 107 y 108 del TFUE.
+ENESA O.A. deberá notificar el proyecto de régimen de ayudas a la Comisión Europea con la suficiente antelación para que ésta pueda presentar sus observaciones, según lo previsto en el artículo 108, apartado 3 del Tratado de Funcionamiento de la Unión Europea, y el régimen no podrá ejecutarse antes de obtener la decisión definitiva.
+
+b) Cumplimiento de los requisitos establecidos en alguno de los reglamentos adoptados por la Comisión Europea, por los que se declaran determinadas categorías de ayuda compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea.
 
 En este caso, el régimen de ayudas deberá cumplir las disposiciones del reglamento que le sea de aplicación, en función de las producciones aseguradas:
 
-a. Reglamento (UE) n.º 702/2014 de la Comisión, de 25 de junio de 2014, por el que se declaran determinadas categorías de ayuda en los sectores agrícola y forestal y en zonas rurales compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea,
+a Reglamento (UE) n.º 702/2014 de la Comisión, de 25 de junio de 2014, por el que se declaran determinadas categorías de ayuda en los sectores agrícola y forestal y en zonas rurales compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea,
 
-b. Reglamento (UE) n.º 1388/2014 de la Comisión, de 16 de diciembre de 2014, por el que se declaran determinadas categorías de ayudas a empresas dedicadas a la producción, transformación y comercialización de productos de la pesca y de la acuicultura compatibles con el mercado interior, en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea
+b Reglamento (UE) n.º 1388/2014 de la Comisión, de 16 de diciembre de 2014, por el que se declaran determinadas categorías de ayudas a empresas dedicadas a la producción, transformación y comercialización de productos de la pesca y de la acuicultura compatibles con el mercado interior, en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea, y
 
-ENESA deberá transmitir a la Comisión Europea la información resumida sobre el régimen de ayudas, en la forma y plazo previstos en el reglamento correspondiente, y la Comisión deberá emitir un acuse de recibo, con un número de identificación de la ayuda.
+c Reglamento (UE) n.º 2020/2008 de la Comisión de 8 de diciembre de 2020 por el que se modifican los Reglamentos (UE) n.º 702/2014, (UE) n.º 717/2014 y (UE) n.º1388/2014, en lo que respecta a su período de aplicación y otros ajustes pertinentes.
+
+En 2019, la Comisión inició una revisión del Reglamento (UE) n.º 1388/2014, con miras a sustituirlo por un nuevo reglamento para el período 2021 a 2027. Este reglamento debe seguir siendo coherente y compatible con otras normas pertinentes para la evaluación de las ayudas estatales en el sector de la pesca y la acuicultura, en particular con el Reglamento relativo al Fondo Europeo Marítimo y de Pesca (FEMP). Sin embargo, el procedimiento legislativo relativo a la reforma del FEMP aún está en curso. Para que los regímenes de ayudas estatales puedan acogerse a exenciones de conformidad con el Reglamento (UE) n.º 1388/2014, y que la revisión de dicho Reglamento pueda completarse tras la adopción de la reforma del FEMP, procede prorrogar el período de aplicación del Reglamento (UE) n.º 1388/2014 hasta el 31 de diciembre de 2022.
+
+ENESA O.A. deberá transmitir a la Comisión Europea la información resumida sobre el régimen de ayudas, en la forma y plazo previstos en el reglamento correspondiente, y la Comisión deberá emitir un acuse de recibo, con un número de identificación de la ayuda.
 
 2. Requisitos específicos para las subvenciones a los seguros en los sectores agrícola, ganadero y forestal
 
@@ -99,3 +105,5 @@ d) Enfermedades en la acuicultura, avería o destrucción de las instalaciones d
 10. Las subvenciones podrán concederse de forma concurrente en virtud de varios regímenes o acumularse con una ayuda ad hoc, siempre que el importe total de la financiación pública para una actividad no supere la intensidad máxima indicada en el punto 8.
 
 11. Las ayudas no se acumularán con ayudas de minimis relativas a los mismos costes subvencionables si tal acumulación da lugar a una intensidad de ayuda superior a la máxima indicada en el punto 8.
+
+> Se modifica el apartado 1 por el art. único.12 del Real Decreto 1075/2021, de 7 de diciembre. Ref. BOE-A-2021-20260
