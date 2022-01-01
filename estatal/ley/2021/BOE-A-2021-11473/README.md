@@ -31,6 +31,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo decimoséptimo](ad-7.md)
 - [Artículo decimoctavo](ad-8.md)
 - [Artículo decimonoveno](ad-9.md)
+- [Disposición adicional primera](da.md)
 - [Disposición adicional segunda](da-2.md)
 - [Disposición adicional tercera](da-3.md)
 - [Disposición adicional cuarta](da-4.md)

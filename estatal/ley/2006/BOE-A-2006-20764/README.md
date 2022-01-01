@@ -256,6 +256,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria trigésima tercera](dt-3.md)
 - [Disposición transitoria trigésima cuarta](dt.md)
 - [Disposición transitoria trigésima quinta](dt-2.md)
+- [Disposición transitoria trigésima sexta](dt-4.md)
 - [Disposición derogatoria primera](ddprimera.md)
 - [Disposición derogatoria segunda](ddsegunda.md)
 - [Disposición final primera](dfprimera.md)
