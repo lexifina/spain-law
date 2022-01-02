@@ -1,0 +1,5 @@
+## Disposición transitoria única. Procedimientos en tramitación.
+
+1. Hasta el 2 de enero de 2022, la instrucción de los procedimientos de solicitud de permisos, certificados o notificaciones en la materia regulada por el Convenio sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres y el Reglamento (CE) n.º 338/97 del Consejo, de 9 de diciembre de 1996, continuará correspondiendo a la Secretaría de Estado de Comercio del Ministerio de Industria, Comercio y Turismo. Su resolución, no obstante, desde la misma fecha corresponderá a la Dirección General de Biodiversidad, Bosques y Desertificación.
+
+2. Hasta el 2 de enero de 2022, seguirá correspondiendo a la Secretaría de Estado de Comercio la instrucción y resolución, en su caso, del resto de procedimientos en la materia regulada por el Convenio sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres y el Reglamento (CE) n.º 338/97 del Consejo, de 9 de diciembre de 1996, no referidos en el apartado 1.
