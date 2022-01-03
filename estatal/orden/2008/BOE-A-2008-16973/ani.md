@@ -1,16 +1,8 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/234/09740_001.png)
+(Suprimido)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/234/09740_002.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/234/09740_003.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/234/09740_004.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/234/09740_005.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/234/09740_006.png)
+> Se suprime por el art. 2.5 de la Orden HFP/1395/2021, de 9 de diciembre. Ref. BOE-A-2021-20577
 
 > Se sustituye por el art.1.1 y el Anexo I de la Orden HAP/1732/2014, de 24 de septiembre. Ref. BOE-A-2014-9740.
 
