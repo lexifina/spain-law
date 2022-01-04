@@ -2,16 +2,17 @@
 
 ## Procedimientos ambulatorios
 
-|  |  | En euros |
-| --- | --- | --- |
-| Código | Descripción | Coste medio 2017 (base 2014) | Coste compensable (80%) |
+(En euros)
+
+| Código A.II/III | Descripción | Coste medio 2020 | Coste compensable (80%) |
+| --- | --- | --- | --- |
 | 1 | Ablación cardiaca. | 6.200 | 4.960 |
 | 2 | Biopsia cerebral. | 172 | 138 |
 | 3 | Diagnóstico prenatal con amniocéntesis o biopsia corial. | 471 | 377 |
 | 4 | Braquiterapia oftálmica. | 9.473 | 7.578 |
 | 5 | Braquiterapia prostática. | 13.605 | 10.884 |
 | 6 | Braquiterapia en otras localizaciones. | 746 | 597 |
-| 7 | Cápsuloendoscopia. | 1.091 | 873 |
+| 7 | Cápsuloendoscopia. | 1091 | 873 |
 | 8 | Cateterismo hepático diagnóstico y terapéutico. | 2.354 | 1.883 |
 | 9 | Embolización. | 5.167 | 4.134 |
 | 10 | Estudios genéticos. | 333 | 266 |
@@ -19,7 +20,7 @@
 | 12 | Gammagrafía y estudios isotópicos funcionales. | 287 | 230 |
 | 13 | Inseminación artificial. | 804 | 643 |
 | 14 | Inyección intracitoplasmática de espermatozoides (ICSI). | 1.378 | 1.102 |
-| 15 | Litotricia renal extracorpórea. | 1.033 | 826 |
+| 15 | Litotricia renal extracorpórea. | 1033 | 826 |
 | 16 | Nefrolitotomía percutánea. | 379 | 303 |
 | 17 | PET en indicaciones oncológicas. | 804 | 643 |
 | 18 | Polisomnografía. | 460 | 368 |
@@ -36,11 +37,15 @@
 | 29 | Manometría rectal. | 57 | 46 |
 | 30 | Colangiopancreatografía retrógada endoscópica con inserción de stent. | 746 | 597 |
 | 31 | Diálisis. | 178 | 142 |
-| 32 | Primera consulta. | 136 | 109 |
-| 33 | Consulta sucesiva. | 82 | 66 |
-| 34 | Cirugía mayor ambulatoria. | 815 | 652 |
+| 32 | Primera consulta. | 150 | 120 |
+| 33 | Consulta sucesiva. | 90 | 72 |
+| 34 | Cirugía mayor ambulatoria. | 893 | 714 |
 
 Los costes compensables de este anexo II serán también aplicables a los procedimientos ambulatorios realizados en los CSUR designados para la atención de las patologías y procedimientos del listado que figura en el apartado A del anexo III.
+
+> Se sustituye por el que figura como anexo II de la Orden SND/1505/2021, de 21 de diciembre, según establece su art. único.2. Ref. BOE-A-2022-62
+
+> Téngase en cuenta, para su aplicación, la disposición adicional única de la citada Orden.
 
 > Se modifica por el art. único.2 de la Orden SCB/1421/2018, de 27 de diciembre. Ref. BOE-A-2018-18007
 
