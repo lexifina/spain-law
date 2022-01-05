@@ -1,3 +1,5 @@
 ## TÍTULO I
 
-## De la clasificación de los bienes
+## De la clasificación de los animales y de los bienes
+
+> Se modifica la rúbrica por el art. 1.6 de la Ley 17/2021, de 15 de diciembre de 2021. Ref. BOE-A-2021-20727#ap
