@@ -284,30 +284,31 @@ BALANCE
 | 2300, 2310, 234, 235, 237, 2390 | 6. Inmovilizado en curso y anticipos |  |  |  | 14 | I. Provisiones a largo plazo |  |  |  |
 |  | III. Inversiones Inmobiliarias |  |  |  |  | II. Deudas a largo plazo |  |  |  |
 | 220, (2820), (2920) | 1. Terrenos |  |  |  | 170, 177 | 2. Deudas con entidades de crédito |  |  |  |
-| 221, (2821), (2921) | 2. Construcciones |  |  |  | 171, 172, 173, 178, 18 | 4. Otras deudas |  |  |  |
+| 221, (2821), (2921) | 2. Construcciones |  |  |  | 171, 172, 173, 178, 180 y 185 | 4. Otras deudas |  |  |  |
 | 2301, 2311, 2391 | 3. Inversiones inmobiliarias en curso y anticipos |  |  |  | 174 | 5. Acreedores por arrendamiento financiero a largo plazo |  |  |  |
+|  |  |  |  |  | 186 | V. Ajustes por periodificación a largo plazo |  |  |  |
 |  | IV. Inversiones financieras a largo plazo en entidades del grupo, multigrupo y asociadas |  |  |  |  | C) Pasivo corriente |  |  |  |
 | 240, 243, 244, (2933), (2934) | 1. Inversiones financieras en patrimonio de entidades de derecho público |  |  |  | 58 | I. Provisiones a corto plazo |  |  |  |
 | 248, (2938) | 4. Otras inversiones |  |  |  |  | II. Deudas a corto plazo |  |  |  |
 |  | V. Inversiones financieras a largo plazo |  |  |  | 520, 527 | 2. Deuda con entidades de crédito |  |  |  |
-| 250, (259), (296) | 1. Inversiones financieras en patrimonio |  |  |  | 4003, 521, 522, 523, 528, 560, 561 | 4. Otras deudas |  |  |  |
+| 250, (259), (296) | 1. Inversiones financieras en patrimonio |  |  |  | 4003, 4013, 521, 522, 523, 528, 560, 561 | 4. Otras deudas |  |  |  |
 | 251, 2520, 2522, 2523, 2529, 254, 256, 257, (297), (2983) | 2. Créditos y valores representativos de deuda |  |  |  | 524 | 5. Acreedores por arrendamiento financiero a corto plazo |  |  |  |
 | 258, 26 | 4. Otras inversiones financieras |  |  |  |  | IV. Acreedores y otras cuentas a pagar |  |  |  |
-| 2521, (2980) | VI. Deudores y otras cuentas a cobrar a largo plazo |  |  |  | 4000, 401 | 1. Acreedores por operaciones de gestión |  |  |  |
-|  | B) Activo corriente |  |  |  | 4001, 41, 550, 554, 557, 5586, 559 | 2. Otras cuentas a pagar |  |  |  |
+| 2521, (2980) | VI. Deudores y otras cuentas a cobrar a largo plazo |  |  |  | 4000, 4010 | 1. Acreedores por operaciones de gestión |  |  |  |
+|  | B) Activo corriente |  |  |  | 4001, 4011, 41, 550, 554, 557, 5586, 559 | 2. Otras cuentas a pagar |  |  |  |
 | 38, (398) | I. Activos en estado de venta |  |  |  | 475, 476, 477 | 3. Administraciones públicas |  |  |  |
 |  | II. Existencias |  |  |  | 452, 456, 457 | 4. Acreedores por administración de recursos por cuenta de otros entes públicos |  |  |  |
 | 30, (390) | 1. Productos farmacéuticos |  |  |  | 485, 568 | V. Ajustes por periodificación |  |  |  |
 | 31, (391) | 2. Material sanitario de consumo |  |  |  |  |  |  |  |  |
 | 32, 33, 34, 35, (392), (393), (394), (395) | 3. Otros aprovisionamientos |  |  |  |  |  |  |  |  |
 |  | III. Deudores y otras cuentas a cobrar |  |  |  |  |  |  |  |  |
-| 4300, 431, 443, 448, (4900) | 1. Deudores por operaciones de gestión |  |  |  |  |  |  |  |  |
-| 4301, 440, 441, 449, (4909), 550, 555, 5580, 5582, 5584 | 2. Otras cuentas a cobrar |  |  |  |  |  |  |  |  |
+| 4300, 4310, 443, 448, (4900) | 1. Deudores por operaciones de gestión |  |  |  |  |  |  |  |  |
+| 4301, 4311, 440, 441, 449, (4909), 550, 555, 5580, 5582, 5584 | 2. Otras cuentas a cobrar |  |  |  |  |  |  |  |  |
 | 470, 471, 472 | 3. Administraciones públicas |  |  |  |  |  |  |  |  |
 | 450, 455, 456 | 4. Deudores por administración de recursos por cuenta de otros entes públicos |  |  |  |  |  |  |  |  |
 |  | V. Inversiones financieras a corto plazo |  |  |  |  |  |  |  |  |
 | 540, (549), (596) | 1. Inversiones financieras en patrimonio |  |  |  |  |  |  |  |  |
-| 4303, (4903), 541, 542, 544, 546, 547, (597), (598) | 2. Créditos y valores representativos de deuda |  |  |  |  |  |  |  |  |
+| 4303, 4313, (4903), 541, 542, 544, 546, 547, (597), (598) | 2. Créditos y valores representativos de deuda |  |  |  |  |  |  |  |  |
 | 545, 548, 565, 566 | 4. Otras inversiones financieras |  |  |  |  |  |  |  |  |
 | 480, 567 | VI. Ajustes por periodificación VII. Efectivo y otros activos líquidos equivalentes |  |  |  |  |  |  |  |  |
 | 577 | 1. Otros activos líquidos equivalentes |  |  |  |  |  |  |  |  |
@@ -527,7 +528,7 @@ CONTENIDO DE LA MEMORIA
 
 1. Organización y Actividad.
 
-2. Gestión indirecta de servicios públicos, convenios y otras formas de colaboración.
+2. Actividades conjuntas.
 
 3. Bases de presentación de las cuentas.
 
@@ -626,19 +627,11 @@ Enumeración de los principales responsables de la entidad (TGSS, EEGG o MATEPSS
 
 Para el caso de las MATEPSS, porcentaje y valoración de la participación en aquellos entes mancomunados en los que participe.
 
-## 2. Gestión indirecta de servicios públicos, convenios y otras formas de colaboración.
+## 2. Actividades conjuntas.
 
-En relación con los servicios públicos gestionados de forma indirecta, los convenios y otras formas de colaboración, cuando tengan un importe significativo, la entidad informará, junto con los datos identificativos de la entidad con la que se efectúe la gestión, el convenio o la colaboración, sobre:
+A los efectos de la elaboración de esta nota, se entenderá por actividades conjuntas, aquéllas que no requieren la constitución de una nueva entidad, a las que se refiere el apartado 2.a) de la norma de reconocimiento y valoración 17.ª, "Actividades conjuntas".
 
-1. En las concesiones: el objeto, plazo, los bienes de dominio público afectos a la gestión, las aportaciones no dinerarias, las transferencias o subvenciones comprometidas durante la vida de la concesión, los anticipos reintegrables, los préstamos participativos, subordinados o de otra naturaleza concedidos por el titular del servicio al gestor y los bienes objeto de reversión.
-
-2. En los conciertos: el objeto, el plazo y las transferencias o subvenciones comprometidas durante la vida del concierto.
-
-3. En los convenios: el objeto, el plazo y las transferencias o subvenciones comprometidas durante la vida del convenio.
-
-4. En las actividades conjuntas que no requieran la constitución de una nueva entidad y que no estén contempladas en las notas anteriores, se indicarán: el objeto, plazo y los compromisos asumidos durante la vida de la misma.
-
-5. En el caso de otras formas de colaboración público-privadas: el objeto, el plazo y las trasferencias o subvenciones comprometidas durante la vida del acuerdo de colaboración, así como en su caso el precio acordado.
+Cuando estas operaciones tengan un importe significativo, ya sea individualmente consideradas, o de forma agregada para cada clase de actividad conjunta, la entidad suministrará, junto con los datos identificativos de la entidad con la que se efectúe la actividad, la siguiente información: el objeto, el plazo y los compromisos asumidos por la entidad durante la vida de la actividad conjunta.
 
 ## 3. Bases de presentación de las cuentas.
 
@@ -1210,7 +1203,7 @@ a) DEUDAS AL COSTE AMORTIZADO
 
 | Identificación deuda | T.I.E. | Deuda al 1 enero | Creaciones | Intereses devengados según T.I.E. | Intereses cancelados (7) | Diferencias de cambio | Disminuciones | Deuda al 31 diciembre |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Coste amortizado (1) | Intereses explícitos (2) | Efectivo (3) | Gastos (4) | Explícitos (5) | Resto (6) | Del coste amortizado (8) | De intereses explícitos (9) | Valor contable (10) | Resultado (11) | Coste amortizado (12)=(1)+(3)- (4) +(6)+(8)(10) | Intereses explícitos (13)=(2)+(5) –(7)+(9) |
+| Coste amortizado (1) | Intereses explícitos (2) | Efectivo (3) | Gastos (4) | Explícitos (5) | Resto (6) | Del coste amortizado (8) | De intereses explícitos (9) | Valor contable (10) | Resultado (11) | Principal (12)=(1)+(3)- (4) +(6)+(8)(10) | Intereses explícitos (13)=(2)+(5) –(7)+(9) |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 SITUACIÓN Y MOVIMIENTOS DE LAS DEUDAS
@@ -1452,6 +1445,8 @@ b) DE LOS PAGOS PENDIENTES DE APLICACIÓN
 
 Se informará de los importes de adjudicación de los contratos perfeccionados durante el ejercicio, por tipo de contrato y procedimiento de adjudicación, de acuerdo con la normativa de contratos del sector público y la legislación patrimonial. A los únicos efectos de elaborar esta información los encargos a medios propios personificados se considerarán un tipo de contrato específico.
 
+El importe total adjudicado por cada procedimiento de adjudicación se expresará, además de en términos absolutos, en porcentaje sobre el total adjudicado por todos los procedimientos.
+
 I. CONTRATACIÓN ADMINISTRATIVA. PROCEDIMIENTOS Y FORMAS DE ADJUDICACIÓN
 
 | TIPO DE CONTRATO | PROCEDIMIENTO ABIERTO | PROCEDIMIENTO RESTRINGIDO | PROCEDIMIENTO NEGOCIADO | DIÁLOGO COMPETITIVO | ADJUDICACIÓN DIRECTA | OTROS PROCEDIMIENTOS DE ADJUDICACIÓN | TOTAL |
@@ -1671,6 +1666,18 @@ c) Derechos cancelados con indicación de:
 
 — Las cancelaciones por otras causas.
 
+d) Antigüedad de los derechos presupuestarios pendientes de cobro.
+
+Información sobre la antigüedad de los derechos de presupuestos cerrados que estén pendientes de cobro a fin de ejercicio, indicando para cada aplicación presupuestaria:
+
+– Código y descripción de la aplicación presupuestaria.
+
+– Importe pendiente de cobro de los derechos reconocidos en cada uno de los cinco ejercicios anteriores al que se refieren las cuentas anuales.
+
+– Importe pendiente de cobro de los derechos reconocidos en los restantes ejercicios.
+
+– Importe total pendiente de cobro.
+
 2. DERECHOS A COBRAR DE PRESUPUESTOS CERRADOS
 
 a) Derechos pendientes de cobro totales
@@ -1713,7 +1720,7 @@ Para el cálculo de la variación de obligaciones de presupuestos cerrados pendi
 
 20.3 Compromisos de gasto con cargo a presupuestos de ejercicios posteriores.
 
-Información sobre los compromisos de gasto adquiridos durante el ejercicio, así como en los precedentes, imputables a presupuestos de ejercicios sucesivos, con indicación de su descripción, importe y año al que se refieran.
+1. Información sobre los compromisos de gasto adquiridos durante el ejercicio, así como en los precedentes, imputables a presupuestos de ejercicios sucesivos, con indicación de su descripción, importe y año al que se refieran.
 
 COMPROMISOS DE GASTO CON CARGO A PRESUPUESTOS DE EJERCICIOS POSTERIORES
 
@@ -1722,6 +1729,16 @@ COMPROMISOS DE GASTO CON CARGO A PRESUPUESTOS DE EJERCICIOS POSTERIORES
 | EJERCICIO N+1 | EJERCICIO N+2 | EJERCICIO N+3 | EJERCICIO N+4 | EJERCICIOS SUCESIVOS |
 |  |  |  |  |  |  |  |
 | TOTAL |  |  |  |  |  |  |
+
+2. Compromisos de gasto de carácter plurianual que no se hayan podido imputar al presupuesto corriente.
+
+Se informará sobre los compromisos de gasto de carácter plurianual que no se hayan podido imputar al presupuesto corriente por falta de crédito adecuado o suficiente y se encuentren en esa situación a fin de ejercicio, con detalle de:
+
+a) Aplicación presupuestaria a la que debería haberse imputado el compromiso.
+
+b) Importe.
+
+c) Número de operaciones incluidas en cada aplicación presupuestaria.
 
 20.4 Gastos con financiación afectada.
 
@@ -1902,14 +1919,13 @@ EJERCICIO....
 
 20.10 Acreedores por operaciones devengadas.
 
-Información sobre los acreedores por operaciones devengadas a 31 de diciembre no recogida en otros apartados de la memoria, detallada en función de la cuenta representativa de la naturaleza de las operaciones:
+Información sobre los acreedores por operaciones devengadas a 31 de diciembre no recogida en otros apartados de la memoria, detallando las cuentas del PGCP que se han utilizado como contrapartida en su registro y presentando el importe desglosado en el correspondiente al ejercicio que se cierra y el correspondiente a los ejercicios anteriores.
 
-Acreedores por operaciones devengadas
-
-| Cuenta | Importe | Observaciones |
+| Cuenta | Importe | Observaciones» |
 | --- | --- | --- |
-|  |  |  |
-| Total.................................. |  |  |
+| Ej. N | Ej. anteriores | Total |
+|  |  |  |  |  |
+| TOTAL |  |  |  |  |
 
 ## 21. Información sobre reservas y su materialización.
 
@@ -2058,13 +2074,13 @@ a) Del presupuesto de gastos corriente:
 
 ![imagen](data:image/png;base64,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)
 
-4) Periodo medio de pago: Refleja el tiempo medio que la entidad tarda en pagar a sus acreedores derivados de la ejecución del presupuesto.
+4) Plazo de realización de pagos: Refleja el tiempo medio que la entidad tarda en pagar a sus acreedores derivados de la ejecución del presupuesto.
 
 ![imagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASoAAAAuCAYAAACf3FSNAAAE7UlEQVR4nO2ZUZLcIAxEff9LJTcjP0mF8oLULQnb2P2qXLMDQpIFtBnvcQghxIdoQTt03Crujr8zqp24nTa4PFvUn9iPL8zdF+7xNViCYk1k9EQl9uHKubtrnWh9bkDm9CShej8SKvEI0KPvyE5C9X4kVOJ2mHdIllB5ftrpb8sOzQmJOcs5Ex+5Z8tP5L3dKCYbN5p71dx5sdGaVdUzW8uZX3Qs04/82mFrsBUVQoWcstrk08sF3Szody++12ZtFm+M1zcDFVykvyJ3pk5M7IjvaD29MavnCY2H7IVRHq+jQqhmtsx3Kxd2MVu+GZ8r4kcXFlLnyH33bdG5rIgd9c3WM3uPrAiO2lc9EJE8tuUrQmXZe2OY+M250Py8HCJxkdyR2NamisbO+GbqiQoJcj8Z/944CdWJHYVqZP80oULiV24wJq7lAxkz21SZ2BW+ozmc29m5Yf2f48zWvITqxFOE6hxnlldmAqP5eLaoYFRuciau5Wdnocraj9pXC1XFw9ga4/VtC3KqskRjZs9899o9G0SoLJsqofLiMzVEbLL33bdF57IidtQ3W8/MPXq+0XFoztFYyNhtYU8wfV+kjY3D+EeePpnFEonftzMiyeSBbNxsv2VT6XtlPatqmfEdjR+J90rOR020WNaisS4kPuPXy4mNb/WjbX1fM8ZYoPOC1oTNPTp32die78p6Imss4rcyPmInFuIV+esT8PX734WKeXrjXmDF/rF4yT06+Qv4+v3vQpVQ3R3Ds0FPcYg4RU6ut/G2J0g1qsEerBaRyhMbKkRIDtarACSfrUDfhXwN1WMPKufpir3gvWu0xnltrxUpIcT1zP5pEfFj+fXiS7CEECbZU5slUpH/av7gly5dul5/IbQjLlLncc1p93z9sPmtS5eu118IEaFq3WcbtFtjKvMQQnyAdjg/vQg//adlg/gRQojjOOpepv8b239aNoifS0CDjX7H3snd8cVPNCdrmIlS5n1V/2nZIH5CnI+HyEsx1J8QWbSWOCr28GhM/2nZIH7o4BHljZ6ohIiy01q6M1dUhJh9j/wyQv4LWC5SVjAm4E6LSzybndbSTrmeQX9deTbMrzQooYidhEpczU5raadcHw2jcpZQIapr+Rnlk33/NevPxkfu2fITebKcYzI5Z5+Io/jsPXu5MPmxvr2+GZXzzOaUPn28jQqhQk5ZbfLp5WK1WTEtQfVy9Px48a0aMRt0FpPxx9bJ8sncMxObmZPIGqyoedSvtc4zfj9HhVDNbJnvVi7s5kIWB3of1fFRgURtok9qL27k4WP5qZyTqvnwWLHOMn4/zVeEyrL3xrCb1rrQ/LwckFjIqQHtWyFUkZioHTO/aD59G1r3iFDNbD7NjkI1sn+aUCHxmcWIPL2RMWj/TkLVt1vruarmjC+vNpX5vp6nCNU5DjOBuwjVyFd0wUuo/n9n1kO25hU+VuT7epBTlSUaM3vmu9fu2SBC5S0GNF4mPlNDxIaN1Y95glBF5qRiPu5aZ1G/Eqq/RI+gkYmwbKoWUEQoq9q8OjIi6dlkY1Xes9e/KpeK2CMy83z+u7pWn6cNLnaM5w8RRc/Ws2HbI/1oW9/XjDEzIjVDx7L+0TamttE1gdpka462IXmtyldchDchmiwhxO14QiShEkLcjk5TQogtQN5FCCGEEEIIIYQQQoi9+AMH7fbpHYTHQgAAAABJRU5ErkJggg==)
 
 b) Del presupuesto de ingresos corriente:
 
-1) EJECUCIÓN DEL PRESUPUESTO DE INGRESOS: Refleja la proporción que sobre los ingresos presupuestarios previstos suponen ingresos presupuestarios netos, esto es, los derechos liquidados netos.
+1) Ejecución del presupuesto de ingresos: Refleja la proporción que sobre los ingresos presupuestarios previstos suponen ingresos presupuestarios netos, esto es, los derechos liquidados netos.
 
 ![imagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANQAAAAmCAYAAAC8hLUKAAADTUlEQVR4nO1YW27DMAzr/S+13Sz7KtAZlkjKdhI3JGAMkfWW6aR7vQzDMBocVyfwxXBviziIdUfcObenwDNIkDXnro27Y05Pw04zODVXRJo7kupu+TwRO83gVoRidc7EnXJ5KnaawRaEQr+3jkZPtUWfokhvNAYTd2Y85vfrjLozeyW/q3quxq3uVfOVCPVZXOajp6/YtvtMzpkPtF/twayaUL69+D091k/vOaolyyXTQblVel71y9RU8dvFDEL1/KBbNvOP8suakdWiHJrMnpGzNTH5ojisn8rcmJrP7jlziVRq+tyr5isTCq0suGKP8olk7AFlYzFxR2q6mlCVmK38ip6//1bO4sp8JUKx+lEyyPZMQjH5sHFHanoSod7PM3qu+KoSSokhGXwboapNM6H68it6PuJjZb7UgZjZ5EzO2qw4WNXhIjmyuQOhKp9Ho4RCdpmOes5mEArZ/VNSD0QmR8GRT+UQKbHbfaXJSGe0pkqNPdmMuqu5nNlz5LenE8kUv2m+B7FU+2hvlS0rixrD1qrmpdak+mdlTJ5Vu6ivq3rOypS8ZudrGIZhGDfDj5eX19D6h18vL6+hZRiGYRjG5TgW638Ljlf/X8lVXyt0H4mDWMYaVPvbksgzuiGiwXhgazGDUKvguQ8AEcrNXYNRQq2EZz6AjDQm1DqYUF8K5Q11NHuRfu9bH8mVtyRzCSCdzD/yU3l7q/WyvarWqeRQnXekn8XcHmzxWZOZA49+pyH9XvyePyTLBo5s0F6ESn9YnZ78016ppRdH0Y3sq73eEr3bL7tJIh+R3+i5tWMJqOjP8v2WqX3J9tQLR/GFfI7atXJlrur+dlBuBOYTAX0KRL5GD+osQjH1KANn3wJsD6sxorgVu1Y+OtetCdRiFqHUWGxT2bfCbEIhKHpIPtMXks8m1HsPXTbRJdHzsTWuIFSFIJWbUNFlCYXyQvo9+bcQij0faI5bE2uUUKp85I1zBqEyX2zuzJ7yhlZ9ZfIVhHrvs3YoBxMq2BsllHKzzZSh21YhM5sD05ezCcXofu7P6vWWhGq/aZlPF+bVjnxFB6m1aT/Bes9MHtk+K2vjRzYZmH5nMRm5Uqc6S+Z8ZHuz+2kYhmEYhmEYEf4Aq9G5dvtQLOQAAAAASUVORK5CYII=)
 
@@ -2072,7 +2088,7 @@ b) Del presupuesto de ingresos corriente:
 
 ![imagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANQAAAAmCAYAAAC8hLUKAAAC+UlEQVR4nO1XQY7EIAzb/39q92fd00idCmI7QIHWltBoAkmcgFv682MYhmF84ZhNwNgDBzF2wkzOO/bLGITaYdjxkMzgu3KfVuX1aCBB7bQpswS1Klbm9lhEorGg9ob7MQEZQaFvLebtVlujXEHZ777svFJDFJvhkPGL8vfYIyMB9RsKHbrSPIqL/pfsbFw111H5LXG58okOdZSzFjvyy9SqrDOSKD3l0VM5ilGbQ/4ox9nOCI7J1cK35bAyB3gk9wwfgwTzpL3ORYPJh2wzBYVifmwzBcXugQU1AexVKbKf59W8yhVEFRTKtbugMjHOc8qD0CARCYoV2nk+m4+Jk3lDRbHfKCjlAWYkgA6HctiZg77DlY/hO1NQUQxf+SYDCaF0TWoRYFZQme8D5lC2vC3ZvjA21Y/JV3oAWVCDcL1Do6tfaTOZuZ65GR4oDss3U0c0H9myfj33z6IyDMMwjCb8enh4NI0v/Hl4eDQNwzAMwzCG45hN4MFwb5M4iLEiVub2FngPAkTNWbVxK3J6G3bag1u5ItGsKKrV+LwRO+3BUoJi19yJlbi8FTvtwRaCQt9bx2Wd6ouuomhdaw4mb898zPdrj7ojf4XfrJ6rebNzWb6SoM7FRTFK6xXf6zzDOYqB5rM96FUT4lvKX1rHxin9r9UScYnWIG6ZnmfjMjVl4hbRQ1ClOOgpG8VH/KJmRLUohybyZ+xsTQxflIeNk9k3pua7e848RDI1neeyfGVBoRElV/wRn5qNPaBsLiZvS02zBZXJebXP6PnnN3MWR/KVBMWur5FBvncKiuHD5m2p6U2C+vzv0XMlVlZQSg7J4WmCyjbNgirbZ/S8JcZIvtSB6NnkyM76jDhY2c1FduSzgqAy16NWQSG/aI16znoICvl9LVIPRGRHyVFM5RApua/zSpPRmtaaMjWWbD3qznK5s+cobmlNzabEDfkexFD9a3OjfFlbrTFsrSovtSY1PmtjeGb9an0d1XPWpvDqzdcwDMMwDMN4Hv4BErFR3geywKIAAAAASUVORK5CYII=)
 
-3) Periodo medio de cobro: Refleja el número de días que por término medio tarda la entidad en cobrar sus ingresos, es decir, en recaudar sus derechos reconocidos derivados de la ejecución del presupuesto.
+3) Plazo de realización de cobros: Refleja el número de días que por término medio tarda la entidad en cobrar sus ingresos, es decir, en recaudar sus derechos reconocidos derivados de la ejecución del presupuesto.
 
 ![imagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARIAAAAqCAYAAAB/adRXAAAEQUlEQVR4nO1Z7W7EIAzr+7/U9mbdr5OqDhI7hDYctoROF/JhAni97jgEQRCE4ziO43ybQAGoB3Oh/oI4gVERlbnNwg5rrrTGSlyWgdW0qg2tyGk2nlzzW/2ttK+VuCwBTywqikk1Pk9AQvIsKnFZAohQVBOTSlyegoTkWVTisgSiQuK9Tzlvfmys95PL8xutgdaN1vY4WO+skJ+j0dpWPDqHAnkvF3lvh5yfjDPW8mPrfA0YIbk2zcrR8mdi7/MIZyuHNx/pQS+W7Q3Lr9fHrNqR3NF+ejFZea3vlg3lg5zznu1rkCEkrTyeglv5PX7WJllrGd1kZE3R3nj8sy4EKhJMbrafo2uMnC2WU/Y+IHNLgxUSb1xjInlQzj0buomRDfUO12hvkBrW99HaI7mZfqKCzJ4T5ByjcxISEoyQoP4fP7bWk0KC8EHq3muP9AapYX0frZ2RO8rhbmf3xsqLzEtIBrGjkGRewnveHYVk1L9ll5AsBmTTI01mHz+ZR9ZsIfHiPB923TOEJKN2NHfWZYpeZtQuIZkI7wIzTxbohbJyRjeKuSyMOLJcor3JuuyZuZEnBGbfvPlILz3/jPPE2ljfpXECg43vzc2KRW3WRUHWivBG/aL80T2aUdvLndnPnphEz2XUB/EbnRc2hQ6D8G1ghE7nPwlqpDAboxeafdry6uipagLUSGEm2J9brTnUpieQlyBlFp6C987FivNsEhFB2Ai9F92RPFZer74ERRAWx+hTsCUi7H/KmvV/NDQ0Xh8IziMuIve407F7uf75/GpoaLw+EESE5Lx8ng27FZPJQxCEAjgP56cFkef6afkgeQRBWAStp4noRZaQDGDLRT8E9XYueqIx8r7k+mn5IHlCBLxREZW57QLtQQzoi0825/XT8kHyhGGRr3pgKnLaDSvtQQWu6F1inli87z0fJI7GDJWcjWp8dsRKe7AS1x7QXwyez7RfHkiyamJSicuuWGkPVuK6LKJCgijfSKynup7faA2kbmY99K+Nl4v9q9WyI/ze6jlbNzoX5bstGCG5bqqVo+XPxN7nEc5WDm8+2oOsNXl8W/Vbfmie1vfeWiwulo/HLdLzaF5kTZG8wgUZQtLK4/1VtfJ7/KxDYK2FuSxWPGJH14Tw9eqgeSL7hqz56Z4j4hlZ03UuyndbsELijWtMJA/KuWdDL2bkUMxY09tCEql5t7/R889n5CzO5LstGCFB/T9+bK0nhQThg9YdWdNOQvL5ntFzJldUSJga22NHIYkeFglJ2/5Gz0dyzOS7LZCLkHm4LDsaM+NCRQ+1Z/diKghJ5GfAqJB4cZYPe84yhMSL2x7eYWf+CqMbbOVkLg9T+z7PHC7PZ3RNkTW2bBnrjnJ5sude3pZPz8bklZA0cAKDje/NzYpFbb0Dga6V5cWuic2P2hCe0bheX2f1HLUxvLL5CoIgCIIgCIIgCDXwB8Ol8tOCw6acAAAAAElFTkSuQmCC)
 
@@ -2375,6 +2391,10 @@ MUTUA N.º
 
 |  |
 | --- |
+
+> Se modifica el modelo de balance y la memoria, por el art. único, apartados cinco a diez, de la Resolución de 10 de enero de 2022. Ref. BOE-A-2022-559
+
+> La modificación realizada por el apartado cinco será aplicable a la formación, rendición y publicación de las cuentas anuales del ejercicio 2022 y siguientes, y la realizada por los apartados seis a diez, será de aplicación a partir de las cuentas de 2021 y siguientes, según establece la disposición final única de la citada Resolución.
 
 > Se modifica por el art. único.uno de la Resolución de 13 de abril de 2020. Ref. BOE-A-2020-4488
 

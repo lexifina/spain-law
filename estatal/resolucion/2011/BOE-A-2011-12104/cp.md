@@ -112,11 +112,13 @@
 
 178. Intereses a largo plazo de otras deudas.
 
-18. Fianzas y depósitos recibidos a largo plazo.
+18. Fianzas y depósitos recibidos y ajustes por periodificación a largo plazo.
 
 180. Fianzas recibidas a largo plazo.
 
 185. Depósitos recibidos a largo plazo.
+
+186. Ingresos anticipados a largo plazo.
 
 ## Grupo 2. Activo no corriente
 
@@ -578,17 +580,37 @@
 
 401. Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados.
 
-4010. Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados.
+4010. Operaciones de gestión.
 
-4011. Propuestas de pago expedidas. Presupuestos de gastos cerrados.
+40100. Obligaciones reconocidas.
 
-4012. Acreedores por pagos ordenados. Presupuestos de gastos cerrados.
+40101. Propuestas de pago.
+
+40102. Pagos ordenados.
+
+4011. Otras cuentas a pagar.
+
+40110. Obligaciones reconocidas.
+
+40111. Propuestas de pago.
+
+40112. Pagos ordenados.
+
+4013. Otras deudas.
+
+40130. Obligaciones reconocidas.
+
+40131. Propuestas de pago.
+
+40132. Pagos ordenados.
 
 41. Acreedores no presupuestarios.
 
 410. Acreedores por IVA soportado.
 
 413. Acreedores por operaciones devengadas.
+
+417. Anticipos de prestación de servicios.
 
 418. Acreedores por devolución de ingresos y otras minoraciones.
 
@@ -605,6 +627,12 @@
 4303. Otras inversiones financieras.
 
 431. Deudores por derechos reconocidos. Presupuestos de ingresos cerrados.
+
+4310. Operaciones de gestión.
+
+4311. Otras cuentas a cobrar.
+
+4313. Otras inversiones financieras.
 
 433. Derechos anulados de presupuesto corriente.
 
@@ -1905,6 +1933,10 @@
 007. Presupuesto de ingresos: modificaciones de previsiones.
 
 008. Presupuesto de ingresos: previsiones definitivas.
+
+> Se modifica el subgrupo 18 y las cuentas 401 y 431 y se añaden las cuentas 186 y 417 por el art. único.once de la Resolución de 10 de enero de 2022. Ref. BOE-A-2022-559
+
+> Esta modificación será aplicable a la formación, rendición y publicación de las cuentas anuales del ejercicio 2022 y siguientes, según establece la disposición final única de la citada Resolución.
 
 > Se modifica por el art. único.dos de la Resolución de 13 de abril de 2020. Ref. BOE-A-2020-4488
 

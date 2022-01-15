@@ -76,6 +76,8 @@ Corresponde al importe definido en el marco conceptual de la contabilidad de las
 
 3. Activación de gastos financieros.
 
+En los inmovilizados que necesiten un periodo de tiempo superior a un año para estar en condiciones de uso, las entidades podrán incorporar al precio de adquisición o coste de producción los gastos financieros que se hayan devengado con anterioridad a su puesta en condiciones de funcionamiento, de acuerdo con lo establecido en los párrafos siguientes.
+
 Se consideran gastos financieros los intereses y otros costes en los que incurre la entidad en relación con la financiación recibida. Entre otros, se incluyen:
 
 Los intereses de préstamos recibidos o asumidos, sean singulares o emitidos en masa.
@@ -249,6 +251,8 @@ Se revertirá el deterioro de valor reconocido en ejercicios anteriores para un 
 La reversión de un deterioro de valor en un activo, se reconocerá en el resultado del ejercicio, a menos que el activo se contabilizase según su valor revalorizado. La reversión de un deterioro de valor de un activo revalorizado, se abonará a la partida específica patrimonio neto. No obstante, y en la medida en que el deterioro de valor del mismo activo revalorizado haya sido reconocido previamente en el resultado del ejercicio, la reversión también se reconocerá en el resultado del ejercicio.
 
 Después de haber reconocido una reversión de un deterioro de valor, los cargos por amortización del activo se ajustarán para los ejercicios futuros, con el fin de distribuir el valor contable revisado del activo menos su eventual valor residual, de una forma sistemática a lo largo de su vida útil restante.
+
+La reversión del deterioro tendrá como límite el valor contable del inmovilizado que estaría reconocido en la fecha de reversión si no se hubiese registrado el deterioro de valor.
 
 9. Activos dados de baja y retirados del uso.
 
@@ -1204,19 +1208,27 @@ En el caso de transferencias y subvenciones de activos se reconocerán como ingr
 
 Las transferencias y subvenciones recibidas deberán imputarse a resultados de acuerdo con los criterios que se detallan a continuación, que serán aplicables tanto a las de carácter monetario como a las de carácter no monetario o en especie.
 
-b.1) En todo caso, las subvenciones recibidas se contabilizarán, con carácter general, como ingresos directamente imputados al patrimonio neto, en una partida específica, debiéndose imputar al resultado del ejercicio sobre una base sistemática y racional de forma correlacionada con los gastos derivados de la subvención de que se trate, para lo que se tendrá en cuenta la finalidad fijada en su concesión:
+b.1) Las subvenciones recibidas no reintegrables se contabilizarán, con carácter general, como ingresos directamente imputados al patrimonio neto, en una partida específica, debiéndose imputar al resultado del ejercicio sobre una base sistemática y racional de forma correlacionada con los gastos derivados de la subvención de que se trate, para lo que se tendrá en cuenta la finalidad fijada en su concesión:
 
-Subvenciones para financiar gastos: Se imputarán al resultado del mismo ejercicio en el que se devenguen los gastos que estén financiando.
+– Subvenciones para financiar gastos: Se imputarán al resultado del mismo ejercicio en el que se devenguen los gastos que estén financiando.
 
-Subvenciones para adquisición de activos: Se imputarán al resultado de cada ejercicio en proporción a la vida útil del bien, aplicando el mismo método que para la dotación a la amortización de los citados elementos, o, en su caso, cuando se produzca su enajenación o baja en inventario.
+– Subvenciones para adquisición de activos:
 
-En el caso de activos no amortizables, se imputarán como ingresos en el ejercicio en el que se produzca la enajenación o baja en inventario de los mismos.
+• Activos del inmovilizado intangible, material e inversiones inmobiliarias: Se imputarán al resultado de cada ejercicio en proporción a la vida útil del bien, aplicando el mismo método que para la dotación a la amortización de los citados elementos, o, en su caso, cuando se produzca su enajenación, corrección valorativa por deterioro o baja en inventario.
 
-En el supuesto de que la condición asociada a la utilización de la subvención por el ente beneficiario suponga que éste deba realizar determinadas aplicaciones de fondos, se podrá registrar como ingresos a medida que se vayan imputando a resultados los gastos derivados de esas aplicaciones de fondos.
+En el caso de activos no amortizables, se imputarán como ingresos en el ejercicio en el que se produzca la enajenación, corrección valorativa por deterioro o baja en inventario de los mismos.
 
-Subvenciones para cancelación de pasivos: Se imputarán al resultado del ejercicio en que se produzca dicha cancelación, salvo cuando se otorguen en relación con una financiación específica, en cuyo caso se imputarán en función del elemento financiado.
+En el supuesto de que la condición asociada a la utilización de la subvención por el ente beneficiario suponga que este deba realizar determinadas aplicaciones de fondos, se podrá registrar como ingresos a medida que se vayan imputando a resultados los gastos derivados de esas aplicaciones de fondos.
 
-b.2) Transferencias: Se imputarán al resultado del ejercicio en que se reconozcan.
+• Existencias que no se obtengan como consecuencia de un rappel comercial: Se imputarán como ingresos del ejercicio en que se produzca su enajenación, corrección valorativa por deterioro o baja en balance.
+
+• Activos financieros: Se imputarán como ingresos del ejercicio en el que se produzca su enajenación, corrección valorativa por deterioro o baja en balance.
+
+Se considerarán en todo caso de naturaleza irreversible las correcciones valorativas por deterioro de los elementos en la parte en que éstos hayan sido financiados gratuitamente.
+
+– Subvenciones para cancelación de pasivos: Se imputarán al resultado del ejercicio en que se produzca dicha cancelación, salvo cuando se otorguen en relación con una financiación específica, en cuyo caso se imputarán en función del elemento financiado.
+
+b.2) Transferencias: Las monetarias se imputarán al resultado del ejercicio en que se reconozcan. Sin embargo, la imputación a resultados de las transferencias recibidas en especie seguirá las reglas señaladas en el apartado b.1) para las subvenciones no reintegrables.
 
 3. Valoración.
 
@@ -1230,9 +1242,9 @@ Las subvenciones concedidas por asunción de deudas se valorarán por el valor r
 
 4. Transferencias y subvenciones otorgadas por las entidades públicas propietarias.
 
-Las transferencias y subvenciones otorgadas por la entidad o entidades propietarias a favor de una entidad pública dependiente se contabilizarán de acuerdo con los criterios contenidos en los apartados anteriores de esta norma de reconocimiento y valoración.
+Las transferencias y subvenciones otorgadas a una entidad por su entidad o entidades propietarias se contabilizarán de acuerdo con los criterios contenidos en los apartados anteriores de esta norma de reconocimiento y valoración.
 
-No obstante lo previsto en el párrafo anterior, la aportación patrimonial inicial directa, así como las posteriores ampliaciones de la misma por asunción de nuevas competencias por la entidad dependiente deberán registrarse por la entidad o entidades propietarias como inversiones en el patrimonio de las entidades públicas dependientes a las que se efectúa la aportación, valorándose de acuerdo con los criterios establecidos en la norma de reconocimiento y valoración n.º 7 «Activos financieros», y por la entidad dependiente como patrimonio neto, valorándose, en este caso, de acuerdo con los criterios indicados en el apartado anterior de esta norma de reconocimiento y valoración.
+No obstante lo previsto en el párrafo anterior, la aportación patrimonial inicial directa, así como las posteriores ampliaciones de la misma por la asunción de nuevas competencias, deberán registrarse por la entidad o entidades propietarias como inversiones en el patrimonio de las entidades públicas a las que se efectúa la aportación, valorándose de acuerdo con los criterios establecidos en la norma de reconocimiento y valoración 7.ª, "Activos financieros", y por la entidad beneficiaria como patrimonio neto, valorándose, en este caso, de acuerdo con los criterios indicados en el apartado anterior de esta norma de reconocimiento y valoración.
 
 ## 16.ª Adscripciones, y otras cesiones gratuitas de uso de bienes y derechos
 
@@ -1244,13 +1256,17 @@ Dentro de las adscripciones se incluyen tanto las realizadas desde una entidad p
 
 2. Reconocimiento y valoración.
 
-Estas operaciones se registrarán y valorarán, tanto en la entidad beneficiaria o cesionaria de los bienes o derechos como en la entidad aportante o cedente, de acuerdo con los criterios establecidos en la norma de reconocimiento y valoración n.º 15 “Transferencias y subvenciones”.
+Estas operaciones se registrarán y valorarán, tanto en la entidad beneficiaria o cesionaria de los bienes o derechos como en la entidad aportante o cedente, de acuerdo con los criterios establecidos en la norma de reconocimiento y valoración 15.ª, "Transferencias y subvenciones". En el caso de que existan dudas sobre la utilización del bien o derecho para la finalidad prevista, la operación tendrá la consideración de pasivo y activo para la entidad beneficiaria y aportante respectivamente. Se presumirá la utilización futura del bien o derecho para la finalidad prevista siempre que sea ese su uso en el momento de elaborar las cuentas anuales.
 
-En el caso de que existan dudas sobre la utilización del bien o derecho para la finalidad prevista, la operación tendrá la consideración de pasivo y activo para la entidad beneficiaria y aportante respectivamente. Se presumirá la utilización futura del bien o derecho para la finalidad prevista siempre que sea ese su uso en el momento de elaborar la información contable.
+Si la adscripción o cesión gratuita del bien es por un periodo inferior a la vida económica del mismo, la entidad beneficiaria registrará un inmovilizado intangible por el valor razonable del derecho de uso del bien cedido. Y la entidad cedente o adscribiente registrará en la cuenta 299, "Deterioro de valor por usufructo cedido del inmovilizado material", un deterioro de valor del elemento por el valor contable del usufructo cedido, reconociendo por dicho importe un gasto por subvención.
 
-Si la adscripción o cesión gratuita del bien es por un periodo inferior a la vida económica del mismo, la entidad beneficiaria del mismo registrará un inmovilizado intangible por el valor razonable del derecho de uso del bien cedido. Si la adscripción o cesión gratuita es por un periodo indefinido o similar a la vida económica del bien recibido, la entidad beneficiaria registrará en su activo el elemento recibido en función de su naturaleza y por el valor razonable del mismo en la fecha de la adscripción o cesión.
+Si la adscripción o cesión gratuita es por un periodo indefinido o similar a la vida económica del bien recibido, la entidad beneficiaria registrará en su activo el elemento recibido en función de su naturaleza y por el valor razonable del mismo en la fecha de la adscripción o cesión. Y la entidad cedente o adscribiente dará de baja el bien adscrito o cedido por su valor contable en el momento de la adscripción o cesión registrando por dicho valor un gasto por subvención.
 
-Por último, por lo que se refiere a las adscripciones de bienes, cuando éstas se produzcan desde una entidad pública a sus entidades dependientes y, a los efectos de la aplicación a las mismas de lo establecido en el apartado 4 de la norma valoración n.º 15 “Transferencias y subvenciones”, se entenderá que los bienes objeto de adscripción constituyen para la entidad dependiente una aportación patrimonial inicial o una ampliación de la misma como consecuencia de la asunción de nuevas competencias por dicha entidad dependiente.
+En aquellas cesiones de uso a título gratuito en las que la cesión se pacte por un periodo de un año renovable por periodos iguales o no se establezca la duración de la cesión y se reserve el cedente la facultad de revocarla al cierre de cada ejercicio, así como en aquellos casos en los que no exista un instrumento jurídico que regule la cesión o éste no establezca con precisión los términos de la misma, la entidad cesionaria no reconocerá ningún activo y reconocerá, al menos anualmente, un gasto de acuerdo con su naturaleza y un ingreso por subvención en la cuenta de resultados por la mejor estimación del derecho cedido de cada ejercicio.
+
+En los casos previstos en el párrafo anterior, la entidad cedente no dará de baja ni deteriorará el elemento cedido reconociendo, al menos anualmente, un gasto por subvención y un ingreso de acuerdo con su naturaleza en la cuenta del resultado económico patrimonial por la mejor estimación del derecho de uso cedido en cada ejercicio.
+
+Por último, por lo que se refiere a las adscripciones de bienes a una entidad por su entidad o entidades públicas propietarias, y a los efectos de la aplicación a las mismas de lo establecido en el apartado 4 de la norma 15.ª, "Transferencias y subvenciones", se entenderá que los bienes objeto de adscripción constituyen para la entidad que los recibe una aportación patrimonial inicial o una ampliación de la misma como consecuencia de la asunción de nuevas competencias por parte de la citada entidad. Por lo que la entidad o entidades adscribientes no registrarán un gasto, sino una participación en el patrimonio neto de la entidad que recibe el bien por el valor razonable del usufructo cedido y la entidad beneficiaria registrará una aportación patrimonial de bienes y derechos.
 
 En el caso de los bienes inmuebles de la Seguridad Social adscritos a las Comunidades Autónomas como consecuencia de la transferencia de competencias en materia sanitaria y de servicios sociales, de conformidad con los respectivos Acuerdos de Comisión Mixta de traspasos, y atendiendo a la unidad del patrimonio de la Seguridad Social, el neto patrimonial existente en las distintas Entidades Gestoras deberá incluir la totalidad de los bienes y derechos de los que la Tesorería General de la Seguridad Social es titular, aun cuando pudieran estar afectados a la prestación de la totalidad de los servicios que originariamente eran competencia de la entidad o siguen siéndolo en la actualidad, circunstancia por la cual, en el Balance de éstas figurarán aquellos bienes inmuebles a través de los cuales se realiza la prestación de los diferentes servicios sanitarios y sociales, aunque el uso de los mismos se hubiera cedido a las Comunidades Autónomas con ocasión de los traspasos de competencias.
 
@@ -1337,6 +1353,10 @@ Los hechos posteriores que pongan de manifiesto condiciones que ya existían al 
 Los hechos posteriores al cierre del ejercicio que pongan de manifiesto condiciones que no existían al cierre del mismo, no supondrán un ajuste en las cuentas anuales. No obstante, cuando los hechos sean de tal importancia que si no se facilitara información al respecto podría distorsionarse la capacidad de evaluación de los usuarios de las cuentas anuales, se deberá incluir en la memoria información respecto a la naturaleza del hecho posterior conjuntamente con una estimación de su efecto o, en su caso, una manifestación acerca de la imposibilidad de realizar dicha estimación.
 
 En todo caso deberá incluirse información sobre los hechos posteriores que afecte a la aplicación del principio de gestión continuada.
+
+> Se modifican las normas de reconocimiento y valoración 2ª, 15ª y 16ª por el art. único.dos a cuatro de la Resolución de 10 de enero de 2022. Ref. BOE-A-2022-559
+
+> Esta modificación será aplicable a la formación, rendición y publicación de las cuentas anuales del ejercicio 2022 y siguientes, según establece la disposición final única de la citada Resolución.
 
 > Se modifica la norma de reconocimiento y valoración 16ª por el apartado único de la Resolución de 14 de julio de 2021. Ref. BOE-A-2021-12055
 

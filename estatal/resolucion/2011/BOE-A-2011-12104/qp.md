@@ -756,6 +756,18 @@ a) Se abonará, a la constitución, por el importe recibido, con cargo a la subc
 
 b) Se cargará, a la cancelación anticipada, con abono a la subcuenta 5522 «Pagos realizados por cuenta de relaciones internas», o a cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes», si la operación se refiere al patrimonio privativo de las MATEPSS.
 
+186. Ingresos anticipados a largo plazo.
+
+Ingresos contabilizados cuyo devengo se producirá en ejercicios posteriores al de su registro.
+
+Figurará en el pasivo no corriente del balance, en el epígrafe V, "Ajustes por periodificación a largo plazo".
+
+Su movimiento es el siguiente:
+
+a) Se abonará con cargo, generalmente, a la cuenta representativa del activo recibido como contraprestación al ingreso cuyo devengo no se ha producido, en el ejercicio en el que se cumplan los requisitos para el reconocimiento de dicho activo.
+
+b) Se cargará con abono a la cuenta 485, "Ingresos anticipados", por el traspaso al corto plazo del importe del ingreso recibido de forma anticipada, cuyo devengo vaya a producirse en el corto plazo.
+
 ## Grupo 2. Activo no corriente
 
 Comprende los elementos del patrimonio destinados a servir de forma duradera en las actividades de la entidad, sujeto de la contabilidad, así como las inversiones inmobiliarias. También se incluyen dentro de este grupo, con carácter general, inversiones financieras cuyo vencimiento, enajenación o realización se espera habrá de producirse en un plazo superior a un año.
@@ -944,11 +956,9 @@ a.4) Por el cambio de uso, con abono a cuentas de los subgrupos 22 «Inversiones
 
 a.5) Por el valor razonable de los bienes recibidos como subvención en especie o de los bienes recibidos en cesión durante un periodo de tiempo indefinido o similar a la vida económica del bien con abono a la cuenta 940 «Ingresos de subvenciones para la financiación del inmovilizado no financiero y de activos en estado de venta».
 
-a.6) Por el valor razonable de los bienes recibidos como transferencia con abono a la cuenta 750 «Transferencias».
+a.6) Por el valor razonable de los bienes recibidos mediante permuta cuando los activos intercambiados no sean similares desde el punto de vista funcional o vida útil, con abono a la cuenta representativa del bien que se entrega y en su caso, a la cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», o a cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes» cuando la operación la realice el patrimonio privativo de las MATEPSS, por el importe que se compensa en efectivo.
 
-a.7) Por el valor razonable de los bienes recibidos mediante permuta cuando los activos intercambiados no sean similares desde el punto de vista funcional o vida útil, con abono a la cuenta representativa del bien que se entrega y en su caso, a la cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», o a cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes» cuando la operación la realice el patrimonio privativo de las MATEPSS, por el importe que se compensa en efectivo.
-
-a.8) Por el valor contable del activo entregado más, en su caso, el importe pagado en efectivo, con el límite del valor razonable del elemento recibido mediante permuta cuando los activos intercambiados sean similares desde el punto de vista funcional o vida útil, con abono a la cuenta representativa del bien que se entrega y a la cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», o a cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes» cuando la operación la realice el patrimonio privativo de las MATEPSS, por el importe satisfecho en efectivo.
+a.7) Por el valor contable del activo entregado más, en su caso, el importe pagado en efectivo, con el límite del valor razonable del elemento recibido mediante permuta cuando los activos intercambiados sean similares desde el punto de vista funcional o vida útil, con abono a la cuenta representativa del bien que se entrega y a la cuenta 400 «Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente», o a cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes» cuando la operación la realice el patrimonio privativo de las MATEPSS, por el importe satisfecho en efectivo.
 
 b) Se abonarán:
 
@@ -1536,7 +1546,7 @@ Su movimiento es análogo al de la subcuenta 2522 «Préstamos sociales».
 
 2529. Otros créditos a largo plazo.
 
-Otros créditos o préstamos no contemplados en las subcuentas anteriores.
+Préstamos y otros créditos concedidos no incluidos en las cuentas anteriores.
 
 Su movimiento es análogo al de la subcuenta 2522 «Préstamos sociales».
 
@@ -2212,13 +2222,29 @@ Los activos financieros y los pasivos financieros incluidos en este grupo se cla
 
 401. Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados.
 
-4010. Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados.
+4010. Operaciones de gestión.
 
-4011. Propuestas de pago expedidas. Presupuestos de gastos cerrados.
+40100. Obligaciones reconocidas.
 
-4012. Acreedores por pagos ordenados. Presupuestos de gastos cerrados.
+40101. Propuestas de pago.
 
-Obligaciones a pagar a cargo de la entidad como consecuencia de la ejecución del presupuesto.
+40102. Pagos ordenados.
+
+4011. Otras cuentas a pagar.
+
+40110. Obligaciones reconocidas.
+
+40111. Propuestas de pago.
+
+40112. Pagos ordenados.
+
+4013. Otras deudas.
+
+40130. Obligaciones reconocidas.
+
+40131. Propuestas de pago.
+
+40132. Pagos ordenados.
 
 400. Acreedores por obligaciones reconocidas. Presupuesto de gastos corriente.
 
@@ -2290,25 +2316,23 @@ En el caso de anulación de las órdenes de pago o de los pagos realizados los a
 
 401. Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados.
 
-Las subcuentas de desarrollo recogen las obligaciones reconocidas con cargo a créditos de presupuestos vigentes en ejercicios anteriores, cuyo pago no ha sido hecho efectivo en 31 de diciembre del precedente, con expresión de la fase en que se encuentran.
+Las subcuentas de desarrollo recogen las obligaciones reconocidas con cargo a créditos de presupuestos vigentes en ejercicios anteriores, cuyo pago no ha sido hecho efectivo en 31 de diciembre del precedente.
 
-Figurará en el pasivo corriente del balance, en el epígrafe IV «Acreedores y otras cuentas a pagar».
+Funcionará a través de sus divisionarias atendiendo al origen o naturaleza de las obligaciones, de acuerdo con lo establecido en las normas de elaboración de las cuentas anuales, y dentro de estas divisionarias, atendiendo a la fase en que se encuentren.
 
-Funcionará a través de sus divisionarias, atendiendo a la fase en que se encuentren.
+Figurará en el pasivo corriente del balance, en el epígrafe IV, "Acreedores y otras cuentas a pagar", salvo la subcuenta 4013, "Otras deudas", que figurará en el epígrafe II, "Deudas a corto plazo".
 
-4010. Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados.
+40100, 40110 y 40130. Obligaciones reconocidas.
 
-Recoge las obligaciones reconocidas con imputación a presupuestos cerrados que en 31 de diciembre anterior estaban pendientes de proponer el pago, así como las modificaciones de estas obligaciones producidas durante el ejercicio.
+Recogen las obligaciones reconocidas con imputación a presupuestos cerrados que en 31 de diciembre anterior estaban pendientes de proponer el pago, así como las modificaciones de estas obligaciones producidas durante el ejercicio.
 
-Su movimiento es el siguiente:
-
-a) Se abonará con cargo a la cuenta 120 «Resultados de ejercicios anteriores» o bien a la cuenta de balance a la que el gasto presupuestario se hubiera imputado, por la modificación del saldo inicial de las obligaciones reconocidas en ejercicios anteriores que sea consecuencia de errores. En el caso de modificación de obligaciones con origen en gastos económicos y de poca importancia relativa se podrá abonar con cargo a las cuentas de gastos por naturaleza que correspondan.
+a) Se abonarán con cargo a la cuenta 120 «Resultados de ejercicios anteriores» o bien a la cuenta de balance a la que el gasto presupuestario se hubiera imputado, por la modificación del saldo inicial de las obligaciones reconocidas en ejercicios anteriores que sea consecuencia de errores. En el caso de modificación de obligaciones con origen en gastos económicos y de poca importancia relativa se podrá abonar con cargo a las cuentas de gastos por naturaleza que correspondan.
 
 Este asiento se realizará en positivo o negativo en función del signo de la modificación.
 
-b) Se cargará con abono a:
+b) Se cargarán con abono a:
 
-b.1) La subcuenta 4011 «Propuestas de pago expedidas. Presupuestos de gastos cerrados», por las propuestas de pago expedidas durante el ejercicio.
+b.1) Respectivamente, las subcuentas 40101, 40111 y 40131 "Propuestas de pago", por las propuestas de pago expedidas durante el ejercicio.
 
 b.2) La cuenta 778 «Ingresos excepcionales», por el importe de las prescripciones que se hayan producido en operaciones pendientes de proponer el pago.
 
@@ -2316,19 +2340,19 @@ La anulación de las propuestas de pago y de la prescripción se efectuará medi
 
 La suma de su haber recogerá el saldo entrante en 1 de enero de las obligaciones reconocidas con cargo a presupuestos de ejercicios anteriores cuyo pago no había sido propuesto en 31 de diciembre del precedente, así como las modificaciones realizadas en el ejercicio. La suma del debe, el total de propuestas de pago netas expedidas durante el ejercicio más el total de las obligaciones prescritas.
 
-El día 1 de enero, en el asiento de apertura, el saldo de esta subcuenta en 31 de diciembre anterior, aparecerá incrementado, sin necesidad de ningún asiento, en el saldo de las obligaciones reconocidas del ejercicio corriente anterior que se integran en las obligaciones de presupuestos cerrados.
+El día 1 de enero, en el asiento de apertura, el saldo de estas subcuentas en 31 de diciembre anterior, aparecerá incrementado, sin necesidad de ningún asiento, en el saldo de las obligaciones reconocidas del ejercicio corriente anterior que se integran en las obligaciones de presupuestos cerrados.
 
-4011. Propuestas de pago expedidas. Presupuestos de gastos cerrados.
+40101, 40111 y 40131. Propuestas de pago.
 
-Recoge las obligaciones reconocidas con imputación a presupuestos cerrados para los que en 31 de diciembre anterior se había propuesto el pago sin que se hubiese expedido la orden de pago, así como las propuestas formuladas durante el ejercicio.
+Recogen las obligaciones reconocidas con imputación a presupuestos cerrados para los que en 31 de diciembre anterior se había propuesto el pago sin que se hubiese expedido la orden de pago, así como las propuestas formuladas durante el ejercicio.
 
 Su movimiento es el siguiente:
 
-a) Se abonará con cargo a la subcuenta 4010 «Acreedores por obligaciones reconocidas. Presupuestos de gastos cerrados», por las propuestas de pago expedidas durante el ejercicio.
+a) Se abonarán, respectivamente, con cargo a las subcuentas 40100, 40110 y 40130 "Obligaciones reconocidas", por las propuestas de pago expedidas durante el ejercicio.
 
-b) Se cargará con abono a:
+b) Se cargarán con abono a:
 
-b.1) La subcuenta 4012 «Acreedores por pagos ordenados. Presupuestos de gastos cerrados, por las órdenes de pago expedidas durante el ejercicio.
+b.1) Respectivamente, las subcuentas 40102, 40112 y 40132 "Pagos ordenados", por las órdenes de pago expedidas durante el ejercicio.
 
 b.2) La cuenta 778 «Ingresos excepcionales», por el importe de las prescripciones que se hayan producido en operaciones pendientes de ordenar el pago.
 
@@ -2338,17 +2362,17 @@ La suma de su haber recogerá el saldo entrante en 1 de enero, así como las pro
 
 En 1 de enero, en el asiento de apertura, el saldo de esta subcuenta en 31 de diciembre anterior, aparecerá incrementado, sin necesidad de ningún asiento, en el saldo de las propuestas de pago del ejercicio corriente anterior que se integran en las propuestas de pago de presupuestos cerrados.
 
-4012. Acreedores por pagos ordenados. Presupuestos de gastos cerrados.
+40102, 40112 y 40132. Pagos ordenados.
 
-Recoge las obligaciones reconocidas con imputación a presupuestos cerrados, para las que en 31 de diciembre anterior se había expedido el pago, estando pendiente de realización, así como las órdenes de pago expedidas durante el ejercicio.
+Recogen las obligaciones reconocidas con imputación a presupuestos cerrados, para las que en 31 de diciembre anterior se había expedido el pago, estando pendiente de realización, así como las órdenes de pago expedidas durante el ejercicio.
 
 Su movimiento es el siguiente:
 
-a) Se abonará con cargo a la subcuenta 4011 «Propuestas de pago expedidas. Presupuestos de gastos cerrados», por las órdenes de pago expedidas durante el ejercicio.
+a) Se abonarán, respectivamente, con cargo a las subcuentas 40101, 40111 y 40131 "Propuestas de pago", por las órdenes de pago expedidas durante el ejercicio.
 
 La anulación de las órdenes de pago se efectuará mediante el mismo asiento, en signo negativo.
 
-b) Se cargará con abono a la subcuenta 5522 «Pagos realizados por cuenta de relaciones internas», por los pagos realizados durante el ejercicio.
+b) Se cargarán con abono a la subcuenta 5522 "Pagos realizados por cuenta de relaciones internas", por los pagos realizados durante el ejercicio.
 
 La suma de su haber recogerá el saldo entrante en 1 de enero, así como las órdenes de pago netas y expedidas en el ejercicio. La suma de su debe, el total de pagos realizados netos durante el ejercicio.
 
@@ -2359,6 +2383,8 @@ En 1 de enero, en el asiento de apertura, el saldo de esta subcuenta en 31 de di
 410. Acreedores por IVA soportado.
 
 413. Acreedores por operaciones devengadas.
+
+417. Anticipos de prestación de servicios.
 
 418. Acreedores por devolución de ingresos y otras minoraciones.
 
@@ -2399,6 +2425,18 @@ a) Se abonará, al devengo de la operación o al menos al final de cada mes, con
 b) Se cargará con abono a las subcuentas 40000, 40010 o 40030 «Obligaciones reconocidas», según corresponda, en función del origen o naturaleza de las operaciones, cuando se dicte el acto administrativo de reconocimiento y liquidación de la obligación presupuestaria.
 
 Su saldo, acreedor, recogerá el importe de las obligaciones derivadas de operaciones devengadas no recogidas en otras cuentas del Plan.
+
+417. Anticipos de prestación de servicios.
+
+Recoge los anticipos recibidos a cuenta de la prestación de servicios futura.
+
+Figurará en el pasivo corriente del balance en el epígrafe IV "Acreedores y otras cuentas a pagar".
+
+Su movimiento es el siguiente:
+
+a) Se abonará generalmente por el importe del anticipo recibido con cargo a la cuenta 430, "Deudores por derechos reconocidos. Presupuesto de ingresos corriente".
+
+b) Se cargará cuando se devengue la prestación de servicios con abono generalmente a la cuenta 705, "Prestaciones de servicios".
 
 418. Acreedores por devolución de ingresos y otras minoraciones.
 
@@ -2477,6 +2515,12 @@ b.5) Las cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes» p
 4303. Otras inversiones financieras.
 
 431. Deudores por derechos reconocidos. Presupuestos de ingresos cerrados.
+
+4310. Operaciones de gestión.
+
+4311. Otras cuentas a cobrar.
+
+4313. Otras inversiones financieras.
 
 433. Derechos anulados de presupuesto corriente.
 
@@ -2558,7 +2602,9 @@ El día 1 de enero, en el asiento de apertura, el saldo de esta cuenta a 31 de d
 
 Recoge en 1 de enero el importe de los derechos reconocidos en ejercicios anteriores cuyo cobro no ha sido hecho efectivo en 31 de diciembre del precedente.
 
-Figurará en el activo corriente del balance, en el epígrafe III «Deudores y otras cuentas a cobrar».
+Figurará en el activo corriente del balance, en el epígrafe III, "Deudores y otras cuentas a cobrar", salvo la subcuenta 4313, "Otras inversiones financieras", que figurará en el epígrafe V, "Inversiones financieras a corto plazo".
+
+Funcionará a través de sus divisionarias, atendiendo al origen o a la naturaleza de los derechos, de acuerdo con lo establecido en las normas de elaboración de las cuentas anuales.
 
 Su movimiento es el siguiente:
 
@@ -2968,11 +3014,7 @@ Funcionará a través de sus divisionarias.
 
 Su movimiento es el siguiente:
 
-a) Se abonará con cargo a:
-
-a.1) La cuenta o cuentas de balance representativas del bien o bienes recibidos por cobros en especie.
-
-a.2) La cuenta 452 «Entes públicos, por derechos a cobrar», por la cancelación de derechos por insolvencias y otras causas y por prescripción.
+a) Se abonará con cargo a la cuenta 452, «Entes públicos por derechos a cobrar», por los derechos cancelados.
 
 b) Se cargará con abono a la cuenta 450 «Deudores por derechos reconocidos de recursos de otros entes públicos», en fin de ejercicio, por la regularización de derechos cancelados en especie, insolvencias y otras causas, y prescripción.
 
@@ -3910,9 +3952,7 @@ En las MATEPSS, recoge los activos financieros, representativos de deuda emitida
 
 542. Créditos a corto plazo.
 
-Préstamos y otros créditos concedidos a terceros excluidos los concedidos al personal, con vencimiento no superior a un año.
-
-Se incluirán las subvenciones reintegrables.
+Préstamos y otros créditos concedidos a terceros con vencimiento no superior a un año.
 
 Funcionará a través de sus divisionarias.
 
@@ -6066,29 +6106,25 @@ Importes que deben ser imputados al resultado del ejercicio por transferencias y
 
 750. Transferencias.
 
-Fondos o bienes recibidos por la entidad, sin contraprestación directa por su parte, destinándose a financiar operaciones o actividades no singularizadas.
+Fondos recibidos por la entidad, sin contraprestación directa por su parte, destinándose a financiar operaciones o actividades no singularizadas.
 
 Funcionará a través de sus divisionarias.
 
-Se abonará con cargo a:
-
-a) Generalmente, la cuenta 430 «Deudores por derechos reconocidos. Presupuesto de ingresos corriente», en el momento que la transferencia sea vencida, líquida y exigible, o a cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes» si la operación la realiza el patrimonio privativo de las MATEPSS.
-
-b) La cuenta que corresponda según la naturaleza del bien que se reciba, en el caso de transferencias en especie.
+Se abonará con cargo, generalmente, a la cuenta 430 "Deudores por derechos reconocidos. Presupuesto de ingresos corriente", en el momento que la transferencia sea vencida, líquida y exigible, o a cuentas del subgrupo 57 «Efectivo y activos líquidos equivalentes» si la operación la realiza el patrimonio privativo de las MCSS.
 
 En la Tesorería General de la Seguridad Social se cargará con abono a:
 
-a) La cuenta 114 «Reserva por cese de actividad de trabajadores autónomos», al cierre del ejercicio, por el importe de los derechos reconocidos, derivados de los ingresos realizados por las MATEPSS.
+a) La cuenta 114 "Reserva Complementaria de Estabilización por Cese de Actividad", al cierre del ejercicio, por el importe de los derechos reconocidos, derivados de los ingresos realizados por las MCSS.
 
-b) La cuenta 115 «Fondo de Prevención y rehabilitación», al cierre del ejercicio, por el importe de los derechos reconocidos, derivados de los ingresos realizados por las MATEPSS en la cuenta del Banco de España afecta al Fondo de prevención y rehabilitación, cuya titularidad corresponde a la Tesorería General de la Seguridad Social.
+b) La cuenta 115 "Fondo de Contingencias Profesionales de la Seguridad Social", al cierre del ejercicio, por el importe de los derechos reconocidos, derivados de los ingresos realizados por las MCSS en la cuenta del Banco de España afecta al Fondo de Contingencias Profesionales de la Seguridad Social, cuya titularidad corresponde a la Tesorería General de la Seguridad Social.
 
-c) La cuenta 116 «Fondo de excedentes de contingencias comunes», al cierre del ejercicio, por el importe de los derechos reconocidos derivados de los ingresos realizados por las MATEPSS en la cuenta del Banco de España afecta al Fondo de Reserva de la Seguridad Social, cuya titularidad corresponde a la Tesorería General de la Seguridad Social.
+c) La cuenta 116 "Fondo de excedentes de contingencias comunes", al cierre del ejercicio, por el importe de los derechos reconocidos derivados de los ingresos realizados por las MCSS en la cuenta del Banco de España afecta al Fondo de Reserva de la Seguridad Social, cuya titularidad corresponde a la Tesorería General de la Seguridad Social.
 
-En las MATEPSS se cargará con abono a:
+En las MCSS se cargará con abono a:
 
-a) La cuenta 114 «Reserva por cese de actividad de trabajadores autónomos», al cierre del ejercicio, por el importe de los derechos reconocidos, derivados de las disposiciones realizadas sobre la Reserva depositada en la Tesorería General, generalmente a favor de las MATEPSS.
+a) La cuenta 114 "Reserva Complementaria de Estabilización por Cese de Actividad", al cierre del ejercicio, por el importe de los derechos reconocidos, derivados de las disposiciones realizadas sobre la Reserva depositada en la Tesorería General, generalmente a favor de las MCSS.
 
-b) La cuenta 115 «Fondo de Prevención y rehabilitación», al cierre del ejercicio, por el importe de los derechos reconocidos, derivados de las disposiciones realizadas sobre el Fondo de prevención y rehabilitación a favor de las MATEPSS, para su materialización en el activo, o bien otras que pudieran establecerse.
+b) La cuenta 115 "Fondo de Contingencias Profesionales de la Seguridad Social", al cierre del ejercicio, por el importe de los derechos reconocidos, derivados de las disposiciones realizadas sobre el Fondo de Contingencias Profesionales de la Seguridad Social a favor de las MCSS, para su materialización en el activo, o bien otras que pudieran establecerse.
 
 751. Subvenciones para gastos no financieros del ejercicio.
 
@@ -6096,7 +6132,11 @@ Fondos o bienes recibidos por la entidad para financiar operaciones corrientes c
 
 Funcionará a través de sus divisionarias.
 
-Su movimiento es análogo al señalado para la cuenta 750 «Transferencias».
+Se abonará con cargo a:
+
+a.1) Generalmente, la cuenta 430 "Deudores por derechos reconocidos. Presupuesto de ingresos corriente", en el momento que la subvención sea vencida, líquida y exigible o a cuentas del subgrupo 57 "Efectivo y activos líquidos equivalentes" si la operación la realiza el patrimonio privativo de las MCSS.
+
+a.2) La cuenta que corresponda según la naturaleza del bien que se reciba, en el caso de subvención en especie.
 
 752. Subvenciones para la cancelación de deudas genéricas.
 
@@ -6904,9 +6944,9 @@ b) Se cargará, al cierre del ejercicio, con abono a la cuenta 136 «Ajustes por
 
 940/941/942 Ingresos de subvenciones para…
 
-Subvenciones recibidas en un ejercicio y no imputadas al resultado económico patrimonial del mismo, de acuerdo con lo establecido en la norma de reconocimiento y valoración n.º 15 «Transferencias y subvenciones».
+Subvenciones recibidas en un ejercicio no imputadas al resultado económico patrimonial del mismo, de acuerdo con lo establecido en la norma de reconocimiento y valoración 15.ª, "Transferencias y subvenciones".
 
-Funcionarán a través de sus divisionarias.
+Se incluirán también las transferencias en especie recibidas, de acuerdo con lo establecido en la misma norma de reconocimiento y valoración.
 
 Su movimiento es el siguiente:
 
@@ -7223,6 +7263,10 @@ b) Se abonará con cargo a la cuenta 000 «Presupuesto ejercicio corriente», en
 Su saldo, deudor, recogerá, antes del cierre, las previsiones definitivas de ingresos.
 
 Nota: Las rectificaciones a todas estas cuentas de control presupuestario se efectuarán mediante asientos análogos a los descritos, pero de signo contrario, al objeto de no desvirtuar el significado de las sumas del debe y del haber de las cuentas.
+
+> Se modifica por el art. único.doce de la Resolución de 10 de enero de 2022. Ref. BOE-A-2022-559, redactado conforme a la corrección de errores publicada en BOE núm. 30, de 4 de febrero de 2022. Ref. BOE-A-2022-1777
+
+> Esta modificación será aplicable a la formación, rendición y publicación de las cuentas anuales del ejercicio 2022 y siguientes, según establece la disposición final única de la citada Resolución.
 
 > Se modifica por el art. único.tres de la Resolución de 13 de abril de 2020. Ref. BOE-A-2020-4488
 
