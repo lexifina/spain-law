@@ -50,43 +50,65 @@ Por traslado de domicilio sin cambio de localidad de destino, un día. Cuando el
 
 Por matrimonio, quince días.
 
-## Sexta. Permiso por parto, adopción, guarda con fines de adopción o acogimiento.
+## Sexta. Permiso por nacimiento para la madre biológica.
 
-1. La militar, en el caso de parto, tendrá derecho a un permiso de dieciséis semanas ininterrumpidas. Este permiso se ampliará en dos semanas más en el supuesto de discapacidad del hijo y, por cada hijo a partir del segundo, en los supuestos de parto múltiple. El permiso se distribuirá a opción de la militar siempre que seis semanas sean inmediatamente posteriores al parto. En caso de fallecimiento de la madre, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso.
+1. La militar, en el caso de parto, tendrá derecho a un permiso de dieciséis semanas, de las cuales las seis semanas inmediatas posteriores al parto serán en todo caso de descanso obligatorio e ininterrumpidas. Este permiso se ampliará en una semana más en el supuesto de discapacidad del menor y por cada hijo a partir del segundo en los supuestos de parto múltiple.
 
-2. No obstante lo anterior, y sin perjuicio de las seis semanas inmediatas posteriores al parto de descanso obligatorio para la madre, en el caso de que ambos progenitores trabajen, la madre, al iniciarse el período de descanso por maternidad, podrá optar por que el otro progenitor disfrute de una parte determinada e ininterrumpida del período de descanso posterior al parto, bien de forma simultánea o sucesiva con el de la madre. El otro progenitor podrá seguir disfrutando del permiso de maternidad inicialmente cedido, aunque en el momento previsto para la reincorporación de la madre al trabajo ésta se encuentre en situación de baja médica temporal.
+En caso de fallecimiento de la madre, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso.
 
-3. En los casos de disfrute simultáneo de períodos de descanso, la suma de los mismos no podrá exceder de las dieciséis semanas o de las que correspondan en caso de discapacidad del hijo o de parto múltiple.
+En el caso de que ambos progenitores trabajen y transcurridas las seis primeras semanas de descanso obligatorio, el período de disfrute de este permiso podrá llevarse a cabo a voluntad de ambos, de manera interrumpida y ejercitarse desde la finalización del descanso obligatorio posterior al parto hasta que el menor cumpla doce meses. En el caso del disfrute interrumpido se requerirá, para cada período de disfrute, un preaviso de al menos 15 días y se realizará por semanas completas.
 
-4. Este permiso podrá disfrutarse a jornada completa o a tiempo parcial, cuando las necesidades del servicio lo permitan, sin perjuicio de las seis semanas de descanso obligatorio para la madre.
+Este permiso podrá disfrutarse a jornada completa o a tiempo parcial, cuando las necesidades del servicio lo permitan, sin perjuicio de las seis semanas de descanso obligatorio.
 
-5. En los casos de parto prematuro y en aquellos en que, por cualquier otra causa, el neonato deba permanecer hospitalizado a continuación del parto, este permiso se ampliará en tantos días como el neonato se encuentre hospitalizado, con un máximo de trece semanas adicionales.
+En los casos de parto prematuro y en aquellos en que, por cualquier otra causa, el neonato deba permanecer hospitalizado a continuación del parto, este permiso se ampliará en tantos días como el neonato se encuentre hospitalizado, con un máximo de trece semanas adicionales.
 
-6. El militar tendrá derecho en los supuestos de adopción, guarda con fines de adopción o acogimiento familiar de menores preadoptivo, permanente simple, a un permiso de dieciséis semanas ininterrumpidas. Este permiso se ampliará en dos semanas más en el supuesto de discapacidad del menor adoptado o acogido y por cada menor, a partir del segundo, en los supuestos de adopción o acogimiento múltiple.
+En el supuesto de fallecimiento del menor, el periodo de duración del permiso no se verá reducido, salvo que, una vez finalizadas las seis semanas de descanso obligatorio, se solicite la reincorporación al puesto de trabajo.
 
-7. En los supuestos que se reconocen en el punto anterior, el cómputo del plazo de las dieciséis semanas se contará a elección del militar, a partir de la decisión administrativa o judicial de acogimiento o guarda con fines de adopción o a partir de la resolución judicial por la que se constituya la adopción, sin que en ningún caso un mismo menor pueda dar derecho a un disfrute superior al de las dieciséis semanas.
+2. En el supuesto de que por necesidades del servicio, la militar comisionada en una misión internacional, no hubiera disfrutado de este permiso, disfrutará del mismo a la vuelta de su comisión en el exterior, sin perjuicio del resto de permisos que le pudieran corresponder.
 
-8. En el caso de que ambos progenitores trabajen, el permiso se distribuirá a opción de los interesados que podrán disfrutarlo de forma simultánea o sucesiva, siempre en periodos ininterrumpidos. En el caso de disfrute simultáneo de periodos de descanso, la suma de los mismos no podrá exceder de las dieciséis semanas o de las que ya correspondan en caso de adopción, guarda con fines de adopción, o acogimiento múltiple y de discapacidad del menor adoptado o acogido.
+## Séptima. Permiso por nacimiento para el progenitor diferente de la madre biológica.
 
-9. En el supuesto de adopción o acogimiento internacional que requiera el desplazamiento previo de los adoptantes o acogedores al país de origen del menor adoptado o acogido, se tendrá derecho, además, a un permiso de hasta dos meses de duración, percibiendo durante este período exclusivamente las retribuciones básicas.
+1. Por el nacimiento de un hijo, el militar tendrá derecho a un permiso de dieciséis semanas de las cuales las seis semanas inmediatas posteriores al hecho causante serán en todo caso de descanso obligatorio. Este permiso se ampliará en una semana más, en el supuesto de discapacidad del menor, y por cada hijo a partir del segundo en los supuestos de nacimiento múltiple, a disfrutar a partir de la fecha del nacimiento.
 
-10. Con independencia del permiso de hasta dos meses previsto en el párrafo anterior y para el supuesto contemplado en el mismo, el permiso por adopción y acogimiento preadoptivo, permanente o simple, podrá iniciarse hasta cuatro semanas antes de la resolución judicial por la que se constituye la adopción o la decisión administrativa o judicial de acogimiento.
+En caso de fallecimiento del progenitor diferente a la madre biológica, ésta podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso.
 
-## Séptima. Permiso de paternidad.
+En los casos de parto prematuro y en aquellos en que, por cualquier otra causa, el neonato deba permanecer hospitalizado a continuación del parto, este permiso se ampliará en tantos días como el neonato se encuentre hospitalizado, con un máximo de trece semanas adicionales.
 
-Por el nacimiento, guarda con fines de adopción, acogimiento o adopción de un hijo, dieciséis semanas.
+Este permiso podrá distribuirse por el progenitor que vaya a disfrutar del mismo siempre que las seis primeras semanas sean ininterrumpidas e inmediatamente posteriores a la fecha del nacimiento.
 
-En los supuestos de parto, adopción, guarda con fines de adopción o acogimiento múltiple, el permiso se ampliará en dos semanas más por cada hijo a partir del segundo. La misma ampliación se producirá en caso de discapacidad del menor. En los casos de parto prematuro y en aquellos en que, por cualquier otra causa, el neonato deba permanecer hospitalizado a continuación del parto, este permiso se ampliará en tantos días como el neonato se encuentre hospitalizado, con un máximo de trece semanas adicionales.
+En el caso de que ambos progenitores trabajen y transcurridas las seis primeras semanas, el período de disfrute de este permiso podrá llevarse a cabo de manera interrumpida y ejercitarse desde la finalización del descanso obligatorio posterior al parto hasta que el hijo o la hija cumpla doce meses. En el caso del disfrute interrumpido se requerirá, para cada período de disfrute, un preaviso de al menos 15 días y se realizará por semanas completas.
 
-En cualquier caso, este permiso no es transferible y se distribuirá, a opción de la persona solicitante, siempre que:
+En el caso de que se optara por el disfrute del presente permiso con posterioridad a la semana dieciséis del permiso por nacimiento de la madre biológica, si el progenitor que disfruta de este último permiso hubiere solicitado la acumulación del tiempo de lactancia de un hijo menor de doce meses en jornadas completas, será a la finalización de ese período cuando se dará inicio al cómputo de las diez semanas restantes del permiso del progenitor diferente de la madre biológica.
 
-1.º Las cuatro primeras semanas serán de disfrute de manera ininterrumpida e inmediatamente posteriores a la fecha del parto, de la decisión administrativa de guarda con fines de adopción o acogimiento, o de la resolución judicial por la que se constituya la adopción.
+Este permiso podrá disfrutarse a jornada completa o a tiempo parcial, cuando las necesidades del servicio lo permitan, sin perjuicio de las seis semanas de descanso obligatorio.
 
-2.º Las doce semanas restantes no sean simultáneas, sino anteriores o sucesivas, e ininterrumpidas, a las semanas siete a dieciséis del permiso de parto o a las semanas cinco a la dieciséis del permiso por adopción, guarda con fines de adopción o acogimiento, del otro progenitor.
+En el supuesto de fallecimiento del hijo, el periodo de duración del permiso no se verá reducido, salvo que, una vez finalizadas las seis semanas de descanso obligatorio se solicite la reincorporación al puesto de trabajo.
 
-También se podrá autorizar, cuando así se solicite previamente, que el inicio del permiso tenga lugar en una fecha posterior a la del nacimiento del hijo, de la resolución judicial o de la decisión administrativa antes indicadas, siempre que sea antes de la finalización del correspondiente permiso por parto, adopción, guarda con fines de adopción o acogimiento, o inmediatamente después de su finalización.
+2. En el supuesto de que por necesidades del servicio, el militar comisionado en una misión internacional, no hubiera disfrutado de este permiso, disfrutará del mismo a la vuelta de su comisión en el exterior, sin perjuicio del resto de permisos que le pudieran corresponder.
 
-En los supuestos que por necesidades del servicio, el militar comisionado en una misión internacional, no hubiera disfrutado del permiso por paternidad, disfrutará del mismo a la vuelta de su comisión en el exterior, sin perjuicio del resto de permisos que le pudieran corresponder.
+## Séptima bis. Permiso por adopción, guarda con fines de adopción, o acogimiento tanto temporal como permanente.
+
+1. En los supuestos de adopción, guarda con fines de adopción, o acogimiento, tanto temporal como permanente, el militar tendrá derecho a un permiso de dieciséis semanas. Este permiso se ampliará en dos semanas más, una para cada uno de los progenitores, en el supuesto de discapacidad del menor adoptado o acogido y por cada menor, a partir del segundo, en los supuestos de adopción, guarda con fines de adopción o acogimiento múltiple.
+
+En los supuestos reconocidos en el punto anterior, seis semanas deberán disfrutarse a jornada completa de forma obligatoria e ininterrumpida inmediatamente después de la resolución judicial por la que se constituye la adopción o bien de la decisión administrativa de guarda con fines de adopción o de acogimiento.
+
+En el caso de que ambos progenitores trabajen y transcurridas las seis primeras semanas de descanso obligatorio, el período de disfrute de este permiso podrá llevarse a cabo de manera interrumpida y ejercitarse desde la finalización del descanso obligatorio posterior al hecho causante dentro de los doce meses a contar o bien desde el nacimiento del hijo o hija, o bien desde la resolución judicial por la que se constituye la adopción o bien de la decisión administrativa de guarda con fines de adopción o de acogimiento. En el caso del disfrute interrumpido se requerirá, para cada período de disfrute, un preaviso de al menos 15 días y se realizará por semanas completas.
+
+El cómputo del plazo se contará a elección del progenitor, a partir de la decisión administrativa de guarda con fines de adopción o acogimiento, o a partir de la resolución judicial por la que se constituya la adopción sin que en ningún caso un mismo menor pueda dar derecho a varios periodos de disfrute de este permiso.
+
+Este permiso podrá disfrutarse a jornada completa o a tiempo parcial, cuando las necesidades del servicio lo permitan, sin perjuicio de las seis semanas de descanso obligatorio.
+
+Si fuera necesario el desplazamiento previo de los progenitores al país de origen del adoptado, en los casos de adopción o acogimiento internacional, se tendrá derecho, además, a un permiso de hasta dos meses de duración, percibiendo durante este periodo exclusivamente las retribuciones básicas.
+
+Con independencia del permiso de hasta dos meses previsto en el párrafo anterior y para el supuesto contemplado en dicho párrafo, el permiso por adopción, guarda con fines de adopción o acogimiento, tanto temporal como permanente, podrá iniciarse hasta cuatro semanas antes de la resolución judicial por la que se constituya la adopción o la decisión administrativa o judicial de acogimiento.
+
+En el supuesto de fallecimiento del menor, el periodo de duración del permiso no se verá reducido, salvo que, una vez finalizadas las seis semanas de descanso obligatorio se solicite la reincorporación al puesto de trabajo.
+
+En caso de fallecimiento de uno de los progenitores, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso.
+
+Los supuestos de adopción, guarda con fines de adopción o acogimiento, tanto temporal como permanente, previstos en este artículo serán los que así se establezcan en el Código Civil o en las leyes civiles de las comunidades autónomas que los regulen, debiendo tener el acogimiento temporal una duración no inferior a un año.
+
+2. En el supuesto de que por necesidades del servicio, el militar comisionado en una misión internacional, no hubiera disfrutado de este permiso, disfrutará del mismo a la vuelta de su comisión en el exterior, sin perjuicio del resto de permisos que le pudieran corresponder.
 
 > Téngase en cuenta que esta última actualización de la norma séptima, establecida por el art. único.25 de la Orden DEF/112/2019, de 9 de febrero. Ref. BOE-A-2019-1786, entrará en vigor el mismo día que entre en vigor la norma que prevea la ampliación del permiso de paternidad hasta dieciséis semanas para el resto del personal al servicio de la Administración General del Estado, según determina su disposición final única, y seguirá vigente, hasta ese momento, la redacción anterior, según establece su disposición transitoria única.
 
@@ -100,13 +122,21 @@ En los supuestos que por necesidades del servicio, el militar comisionado en una
 
 1. Por lactancia de un hijo menor de 12 meses, el militar tendrá derecho a una hora diaria de ausencia del trabajo, con posibilidad de fraccionar en media hora al inicio y al final de la jornada.
 
-2. Se podrá sustituir la reducción de jornada por lactancia por un permiso que acumule en jornadas completas el tiempo correspondiente, con una duración máxima de cuatro semanas. Dicho permiso se incrementará proporcionalmente en los casos de parto múltiple.
+2. Se podrá sustituir el permiso por lactancia en la modalidad de reducción de jornada, por un permiso que acumule en jornadas completas el tiempo correspondiente. Dicho permiso se incrementará proporcionalmente en los casos de parto, adopción, guarda con fines de adopción o acogimiento múltiple.
+
+Esta modalidad se podrá disfrutar únicamente a partir de la finalización del permiso por nacimiento para la madre biológica, del permiso por adopción, guarda o acogimiento o del permiso por nacimiento del progenitor diferente a la madre biológica.
+
+El permiso por lactancia de un hijo menor de doce meses exonerará al solicitante de la realización de guardias, servicios, maniobras o actividades análogas que interfieran con el ejercicio de este derecho.
+
+En cualquier caso, la exoneración de las guardias, servicios, maniobras o actividades análogas se agotará una vez transcurrido el periodo que se determina en este anexo, cuando se opte por la acumulación del mencionado permiso en jornadas completas.
 
 ## Novena. Gestación.
 
 La militar en estado de gestación tendrá derecho a un permiso desde el día primero de la semana 37 de embarazo, hasta la fecha de parto.
 
 En el supuesto de gestación múltiple este permiso podrá iniciarse el primer día de la semana 35 de embarazo, hasta la fecha de parto.
+
+> Se modifican las normas sexta, séptima, octava.2 y se añade la séptima bis por el art. único. 12 a 15 de la Orden DEF/1471/2021, de 21 de diciembre. Ref. BOE-A-2021-21656
 
 > Se modifican las normas primera, segunda, tercera, sexta y séptima y se añade la novena por el art. único.21 a 26 de la Orden DEF/112/2019, de 9 de febrero. Ref. BOE-A-2019-1786
 
