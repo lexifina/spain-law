@@ -180,6 +180,8 @@ Nota:
 
 Las retribuciones de las empresas distribuidoras del Grupo NEDGIA son provisionales hasta que se disponga de la información necesaria de ventas y clientes de las zonas escindidas que permita la aplicación completa del procedimiento descrito en el artículo 2 de la Orden IET/2355/2014, de 12 de diciembre, por la que se establece la retribución de las actividades reguladas del sector gasista para el segundo período de 2014.
 
+> Téngase en cuenta que se declara la nulidad de las cantidades asignadas en el Anexo I.2 a la sociedad «Nedgia SA», y las empresas que conforman dicho grupo empresarial, por Sentencia del TS de 23 de noviembre de 2021. Ref. BOE-A-2022-803
+
 3. Revisión de la retribución de la actividad de transporte anterior a 2020.
 
 a) Revisión de la retribución por continuidad de suministro del año 2019.
@@ -267,6 +269,6 @@ b) Revisión del reparto de la retribución por continuidad de suministro del a�
 | Regasificadora del Noroeste, S.A. | 10.488.385,32 | 10.488.385,32 | 0,00 |
 | Total. | 91.139.188,15 | 91.139.188,15 | 0,00 |
 
-> Se modifica el apartado 2 por la disposición final 3.2 de la Orden TED/1022/2021, de 27 de septiembre. Ref. BOE-A-2021-15776#df-3
+> Se declara la nulidad de las cantidades asignadas en el apartado 2 a la sociedad «Nedgia SA», y las empresas que conforman dicho grupo empresarial, por Sentencia del TS de 23 de noviembre de 2021. Ref. BOE-A-2022-803
 
-> Esta modificación produce efectos desde el 29 de septiembre de 2021, según establece la disposición final 5 de la citada Orden.
+> Se modifica el apartado 2 por la disposición final 3.2 de la Orden TED/1022/2021, de 27 de septiembre. Ref. BOE-A-2021-15776#df-3
