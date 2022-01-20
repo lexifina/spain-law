@@ -108,7 +108,7 @@ Tres. Se modifica el artículo 15, que queda redactado del siguiente modo:
 
 > Para que se entienda que concurre causa justificada de temporalidad será necesario que se especifiquen con precisión en el contrato la causa habilitante de la contratación temporal, las circunstancias concretas que la justifican y su conexión con la duración prevista.
 
-> 2. A efectos de lo previsto en este artículo, se entenderá por circunstancias de la producción el incremento ocasional e imprevisible de la actividad y las oscilaciones, que aun tratándose de la actividad normal de la empresa, generan un desajuste temporal entre el empleo estable disponible y el que se requiere, siempre que no respondan a los supuestos incluidos en el artículo 16.1
+> 2. A efectos de lo previsto en este artículo, se entenderá por circunstancias de la producción el incremento ocasional e imprevisible de la actividad y las oscilaciones, que aun tratándose de la actividad normal de la empresa, generan un desajuste temporal entre el empleo estable disponible y el que se requiere, siempre que no respondan a los supuestos incluidos en el artículo 16.1.
 
 > Entre las oscilaciones a que se refiere el párrafo anterior se entenderán incluidas aquellas que derivan de las vacaciones anuales.
 
@@ -162,7 +162,7 @@ Cuatro. Se modifica el artículo 16, que queda redactado del siguiente modo:
 
 > El contrato fijo-discontinuo podrá concertarse para el desarrollo de trabajos consistentes en la prestación de servicios en el marco de la ejecución de contratas mercantiles o administrativas que, siendo previsibles, formen parte de la actividad ordinaria de la empresa.
 
-> Asimismo, podrá celebrarse un contrato fijo-discontinuo entre una empresa de trabajo temporal y una persona contratada para ser cedida, en los términos previstos en el artículo 10.3 de la Ley 14/1994, de 1 de junio, por la que se regulan las empresas de trabajo temporal
+> Asimismo, podrá celebrarse un contrato fijo-discontinuo entre una empresa de trabajo temporal y una persona contratada para ser cedida, en los términos previstos en el artículo 10.3 de la Ley 14/1994, de 1 de junio, por la que se regulan las empresas de trabajo temporal.
 
 > 2. El contrato de trabajo fijo-discontinuo, conforme a lo dispuesto en el artículo 8.2, se deberá formalizar necesariamente por escrito y deberá reflejar los elementos esenciales de la actividad laboral, entre otros, la duración del periodo de actividad, la jornada y su distribución horaria, si bien estos últimos podrán figurar con carácter estimado, sin perjuicio de su concreción en el momento del llamamiento.
 
@@ -392,7 +392,7 @@ Nueve. Se modifica el apartado 2 del artículo 84, que queda redactado del sigui
 
 > c) La adaptación al ámbito de la empresa del sistema de clasificación profesional de las personas trabajadoras.
 
-> d) La adaptación de los aspectos de las modalidades de contratación que se atribuyen por esta ley a los convenios colectivos
+> d) La adaptación de los aspectos de las modalidades de contratación que se atribuyen por esta ley a los convenios de empresa.
 
 > e) Las medidas para favorecer la corresponsabilidad y la conciliación entre la vida laboral, familiar y personal.
 
@@ -467,5 +467,7 @@ Quince. Se introduce una nueva disposición adicional vigesimoséptima, con la r
 > «Disposición adicional vigesimoséptima. Régimen jurídico aplicable en los casos de contratas y subcontratas suscritas con centros especiales de empleo.
 
 > En los casos de contratas y subcontratas suscritas con los centros especiales de empleo regulados en el texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, no será de aplicación el artículo 42.6 del texto refundido de la Ley del Estatuto de los Trabajadores.»
+
+> Se modifica el apartado 9 por el art. 4.1 del Real Decreto-ley 1/2022, de 18 de enero de 2022. Ref. BOE-A-2022-800#ac
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 16 de 19 de enero de 2022. Ref. BOE-A-2022-801
