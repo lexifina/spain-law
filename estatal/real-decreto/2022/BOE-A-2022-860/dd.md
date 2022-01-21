@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Con la entrada en vigor de esta norma se deroga el Real Decreto 261/1996, de 16 de febrero, sobre protección de las aguas contra la contaminación producida por los nitratos procedentes de fuentes agrarias.
