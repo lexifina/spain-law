@@ -4,39 +4,33 @@ Terceros países, regiones administrativas especiales y demás entidades y autor
 
 I. Estados:
 
-1. Argentina.
+1. Baréin.
 
-2. Australia.
+2. Chile.
 
-3. Baréin.
+3. Colombia.
 
-4. Canadá.
+4. Indonesia.
 
-5. Chile.
+5. Kuwait.
 
-6. Colombia.
+6. Nueva Zelanda.
 
-7. Indonesia.
+7. Perú.
 
-8. Kuwait.
+8. Qatar.
 
-9. Nueva Zelanda.
+9. Ruanda.
 
-10. Perú.
+10. Arabia Saudí.
 
-11. Qatar.
+11. Corea del Sur.
 
-12. Ruanda.
+12. Emiratos Árabes Unidos.
 
-13. Arabia Saudí.
+13. Uruguay.
 
-14. Corea del Sur.
-
-15. Emiratos Árabes Unidos.
-
-16. Uruguay.
-
-17. China.
+14. China.
 
 II. Regiones administrativas especiales de la República Popular China:
 
@@ -47,6 +41,8 @@ RAE de Macao.
 III. Entidades y autoridades territoriales no reconocidas como Estados por al menos un Estado miembro de la Unión Europea:
 
 Taiwán.
+
+> Se modifica por el art. único.2 de la Orden INT/35/2022, de 26 de enero. Ref. BOE-A-2022-1273
 
 > Se modifica por el art. único de la Orden INT/1372/2021, de 7 de diciembre de 2021. Ref. BOE-A-2021-20255
 
