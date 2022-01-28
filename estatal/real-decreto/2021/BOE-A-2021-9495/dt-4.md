@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta. Establecimientos autorizados.
+
+Los establecimientos que ya dispongan de autorización por parte de la autoridad competente para ejercer las actividades mencionadas en el artículo 4 el día de la entrada en vigor de este real decreto, podrán continuar con su actividad a condición de que presenten, a más tardar el 28 de julio de 2022, una declaración a la autoridad competente donde estén ubicados, conforme al modelo establecido en el anexo. La autoridad competente verificará la conformidad de dicha declaración por medio de una inspección oficial.
+
+En caso de no presentar dicha declaración en el plazo fijado, la autoridad competente suspenderá la autorización existente de conformidad con el procedimiento a que se refiere al artículo 14 del Reglamento (CE) n.º 183/2005 del Parlamento Europeo y del Consejo, de 12 de enero de 2005. En caso de querer reiniciar la actividad para la que estaban autorizados, estos operadores de piensos deberán solicitar dicha autorización de acuerdo al procedimiento establecido en el artículo 13 del Reglamento (UE) 2019/4 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018.

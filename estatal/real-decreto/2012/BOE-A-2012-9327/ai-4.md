@@ -1,5 +1,7 @@
 ## ANEXO IV
 
-## «Anexo I del Real Decreto 1409/2009
+## Anexo I del Real Decreto 1409/2009
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2012/167/09327_8288.png)
+(Derogado)
+
+> Se deroga, con efectos desde el 28 de enero de 2022, por la disposición derogatoria única.2 del Real Decreto 370/2021 de 25 de mayo de 2021. Ref. BOE-A-2021-9495#dd
