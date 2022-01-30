@@ -1,6 +1,6 @@
 ## ANEXO II
 
-## Contenido de las auditorías de seguridad viaria
+## Elementos indicativos de las auditorías de seguridad viaria
 
 1. En las fases de anteproyecto y proyecto de trazado: Los aspectos que se deben revisar en las auditorías de seguridad viaria de los anteproyectos y los proyectos de trazado son, entre otros, los siguientes:
 
@@ -19,6 +19,20 @@ Nudos previstos (número y movimientos permitidos).
 Zonas de descanso y servicios.
 
 Posibles problemas de seguridad de todos los tipos de usuarios.
+
+Disposiciones relativas a los usuarios vulnerables de la vía pública:
+
+i) Disposiciones relativas a los peatones,
+
+ii) Disposiciones relativas a los ciclistas, incluida la existencia de rutas alternativas o de separaciones del tráfico motorizado a gran velocidad,
+
+iii) Disposiciones relativas a los vehículos de motor de dos ruedas,
+
+iv) Densidad y situación de los pasos para peatones y ciclistas,
+
+v) Disposiciones relativas a los peatones y los ciclistas en las carreteras afectadas de la zona,
+
+vi) Separación de los peatones y los ciclistas del tráfico motorizado a gran velocidad o existencia de rutas alternativas directas en carreteras de clase inferior.
 
 Condiciones meteorológicas y las características naturales del lugar.
 
@@ -64,7 +78,13 @@ Túneles en aquellos aspectos en los que no sean de aplicación la Directiva 200
 
 Tramos urbanos y travesías de poblaciones.
 
-Seguridad, en su caso, de los peatones, ciclistas, motociclistas y del transporte público.
+Seguridad, en su caso, del transporte público, y disposiciones relativas a los usuarios vulnerables de la vía pública.
+
+i) Disposiciones relativas a los peatones,
+
+ii) Disposiciones relativas a los ciclistas,
+
+iii) Disposiciones relativas a los vehículos de motor de dos ruedas.
 
 Impactos en la seguridad de la circulación en la red viaria existente.
 
@@ -91,3 +111,5 @@ Adecuación de las disposiciones de seguridad para todos los usuarios de la carr
 Adecuación de los accesos a las instalaciones previstas para las tareas de conservación y explotación de la carretera.
 
 4. En la fase inicial en servicio: Evaluación de la seguridad a la luz del comportamiento real de los usuarios.
+
+> Se modifica el título y los puntos 1 y 2 por el art. único.17 a 19 del Real Decreto 61/2022, de 25 de enero de 2022. Ref. BOE-A-2022-1425

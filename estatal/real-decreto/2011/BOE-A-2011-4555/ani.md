@@ -22,4 +22,6 @@ Análisis de la necesidad de disponer zonas de descanso y aparcamientos de emerg
 
 Análisis del potencial riesgo para la circulación asociado a actividad sísmica.
 
-Estimación del tráfico y de la accidentalidad en función de las características de las alternativas consideradas.
+Estimación del tráfico y de la accidentalidad en función de las características de las alternativas consideradas, incluidos los flujos estimados de peatones y bicicletas.
+
+> Se modifica el último inciso por el art. único.16 del Real Decreto 61/2022, de 25 de enero de 2022. Ref. BOE-A-2022-1425
