@@ -58,13 +58,23 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2008/51/03740_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_16.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/313/21791_10877637_1.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/182/10649_5340.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_17.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_18.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/313/21791_10877637_2.png)
+
+> Téngase en cuenta que esta última actualización de los modelos «Anexo información adicional» y «Anexo seguimiento Fondos Unión Europea» por el art. 1.2 de la Orden HFP/1481/2021, de 28 de diciembre. Ref. BOE-A-2021-21791, tendrá efectos a partir del 1 de febrero de 2022, según se establece en la disposición final única de la citada orden.
+
+> Redacción anterior:
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_18.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_16.png)
+
+> Se modifican, con efectos del 1 de febrero de 2022, los modelos «Anexo información adicional» y «Anexo seguimiento Fondos Unión Europea» por el art. 1.Dos de la Orden HFP/1481/2021, de 28 de diciembre. Ref. BOE-A-2021-21791
 
 > Se modifican determinados documentos contables y se añade el modelo «Anexo Seguimiento Fondos Unión Europea», con los formatos que figuran en el Anexo I, por el art. 1.Tres.1 y 2 de la Orden HAC/360/2021, de 14 de abril. Ref. BOE-A-2021-6124. Redactada conforme a la corrección de errores, publicada en BOE núm 106, de 4 de mayo de 2021. Ref. BOE-A-2021-7312
 
