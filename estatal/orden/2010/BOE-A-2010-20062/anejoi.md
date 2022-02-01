@@ -26,7 +26,7 @@ CUADRO 2.A
 | Especie | Germinación | Pureza analítica | Contenido máximo de semillas de otras especies de plantas en una muestra del peso especificado en la columna 4 del anexo III (total por columna) | Condiciones en lo referente al contenido de semillas de Lupinus spp. de otro color o amargas |
 | --- | --- | --- | --- | --- |
 | Germinación mínima (% de semillas puras) | Contenido máximo de semillas duras (% de semillas puras) | Pureza analítica mínima (% en peso) | Contenido máximo de semillas de otras especies de plantas(% en peso) | Avena fatua y Avena sterilis | Cuscuta spp. | Rumex spp. excepto Rumex acetosella y Rumex maritimus |
-| Total | Una sola especie | Elytrigia repens | Alopecurus myosuroides | Melilotus spp. | Raphanus raphanistrum | Sinapis arvensis |
+| Total | Una sola especie | Elymus repens | Alopecurus myosuroides | Melilotus spp. | Raphanus raphanistrum | Sinapis arvensis |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
 | Poaceae ( Gramineae ) |
 | Agrostis canina | 75 (a) |  | 90 | 2,0 | 1,0 | 0,3 | 0,3 |  |  |  | 0 | 0 (j) (k) | 2 (n) |  |
@@ -173,7 +173,7 @@ CUADRO 2.B
 | Especie | Contenido máximo de semillas de otras especies de plantas | Otras normas o condiciones |
 | --- | --- | --- |
 | Total (% en peso) | Contenido en número en una muestra del peso especificado en la columna 4 del anexo III (total por columna) |
-| Una sola especie | Rumex spp. excepto Rumex acetosella y Rumex maritimus | Elytrigia repens | Alopecurus myosuroides | Melilotus spp. |
+| Una sola especie | Rumex spp. excepto Rumex acetosella y Rumex maritimus | Elymus repens | Alopecurus myosuroides | Melilotus spp. |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 | Poaceae (Gramineae) |
 | Agrostis canina | 0,3 | 20 | 1 | 1 | 1 |  | (j) |
@@ -303,6 +303,10 @@ Los requisitos del anejo I: A, puntos 2 y 3, se aplicarán a las semillas comerc
 8. Para Vicia pannonica, Vicia sativa, Vicia villosa y Vicia benghalensis la pureza analítica mínima será del 97,0 % en peso.
 
 9. Para Lathyrus cicera la pureza analítica mínima será del 90 % en peso. No se considerará impureza un contenido máximo total del 5 % en peso de semillas de especies cultivadas similares.
+
+> Se modifican los cuadros 2.A y 2.B por el art. 3.1 y 2 de la Orden APA/1437/2021, de 16 de diciembre de 2021. Ref. BOE-A-2021-21286
+
+> Téngase en cuenta que esta modificación entra en vigor el 1 de febrero de 2022, según establece la disposición final 2 de la citada Orden.
 
 > Se modifican los apartados A y C por el art. 4.3 y 4 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#ac
 

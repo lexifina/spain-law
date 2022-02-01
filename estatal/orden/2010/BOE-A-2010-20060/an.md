@@ -6,13 +6,11 @@ I. Especies sujetas al Reglamento Técnico
 
 Quedan incluidas en el ámbito de aplicación de este Reglamento Técnico las semillas de los cereales siguientes, tanto si su fin es la producción de grano como si es con destino forrajero:
 
-«Triticum aestivum L.»: Trigo blando.
+« Triticum aestivum L. subsp. aestivum.»: Trigo blando.
 
-«Triticum durum Desf»: Trigo duro.
+« Triticum turgidum L. subsp. durum (Desf.) van Slageren.»: Trigo duro.
 
-«Triticum spelta L.»: Escanda.
-
-«Triticum turgidum L.»: Trigo redondillo.
+«Triticum aestivum L. subsp. spelta (L.) Thell.»: Trigo espelta.
 
 «Hordeum vulgare L.»: Cebada.
 
@@ -36,7 +34,7 @@ También podrá recibir la denominación de «semilla» la importada que cumpla 
 
 II. Categorías de las semillas
 
-1. Para las variedades no híbridas de avena, avena roja, avena estrigosa, cebada, arroz, triticale, trigo blando, trigo duro, trigo redondillo y escanda menor, se admiten las siguientes categorías de semillas:
+1. Para las variedades no híbridas de avena, avena roja, avena estrigosa, cebada, arroz, triticale, trigo blando, trigo duro y trigo espelta menor, se admiten las siguientes categorías de semillas:
 
 Material parental.
 
@@ -48,7 +46,7 @@ Semilla certificada de primera reproducción (R-1).
 
 Semilla certificada de segunda reproducción (R-2).
 
-2. Para las variedades de alpiste, excepto sus híbridos; centeno y para las variedades híbridas de avena, cebada, arroz, trigo blando, trigo duro y escanda menor, se admiten las siguientes categorías de semillas:
+2. Para las variedades de alpiste, excepto sus híbridos; centeno y para las variedades híbridas de avena, cebada, arroz, trigo blando, trigo duro y trigo espelta menor, se admiten las siguientes categorías de semillas:
 
 Material parental.
 
@@ -64,7 +62,7 @@ Semillas certificadas.
 
 3.2 Semillas de prebase: Cualquiera de las generaciones que preceden a la semilla de base, con excepción del material parental.
 
-3.3 Semillas de base de variedades no híbridas de: Avena, avena roja, avena estrigosa, cebada, arroz, alpiste, centeno, triticale, trigo blando, trigo duro, trigo redondillo y escanda menor, son las semillas:
+3.3 Semillas de base de variedades no híbridas de: Avena, avena roja, avena estrigosa, cebada, arroz, alpiste, centeno, triticale, trigo blando, trigo duro y trigo espelta menor, son las semillas:
 
 a) Obtenidas, como máximo, a partir de la tercera generación (G-3) de semillas de prebase, salvo en variedades de obtentor en que se haya admitido una generación distinta, según el método de conservación aceptado al incluir la variedad en el registro de variedades comerciales.
 
@@ -72,13 +70,13 @@ b) Que su destino sea la producción de semilla de categoría: «Semillas certif
 
 c) Que cumpla los requisitos correspondientes de los anejos 1 y 2 del presente Reglamento Técnico, para esta categoría, comprobándose tal extremo mediante el preceptivo control oficial.
 
-3.4 Semilla de base de variedades híbridas de avena, cebada, centeno, arroz, trigo blando, trigo duro, escanda menor y triticale autógamo, son las semillas:
+3.4 Semilla de base de variedades híbridas de avena, cebada, centeno, arroz, trigo blando, trigo duro, trigo espelta menor y triticale autógamo, son las semillas:
 
 a) Procedentes de la multiplicación del material parental, mediante un proceso controlado, y que estén destinadas a producir híbridos.
 
 b) Que cumplan los requisitos correspondientes de los anejos 1 y 2 del presente Reglamento Técnico, para esta categoría, comprobándose tal extremo mediante el preceptivo control oficial.
 
-3.5 Semillas certificadas de alpiste, excepto sus híbridos; centeno, excepto sus híbridos, y variedades híbridas de avena, cebada, arroz, trigo blando, trigo duro, escanda menor y variedades autógamas de triticale, son las semillas:
+3.5 Semillas certificadas de alpiste, excepto sus híbridos; centeno, excepto sus híbridos, y variedades híbridas de avena, cebada, arroz, trigo blando, trigo duro, trigo espelta menor y variedades autógamas de triticale, son las semillas:
 
 a) Que provienen directamente de semillas de base o, a petición del obtentor, de semillas de alguna generación anterior a las semillas de base, siempre que se cumplan los requisitos que para esta categoría se exponen en los anejos 1 y 2 del presente Reglamento Técnico.
 
@@ -86,7 +84,7 @@ b) Que su destino no sea la producción de semilla.
 
 c) Que cumplen los requisitos correspondientes de los anejos 1 y 2 del presente Reglamento Técnico, para esta categoría, comprobándose tal extremo mediante el preceptivo control oficial o bien bajo supervisión oficial.
 
-3.6 Semillas certificadas de primera reproducción (R-1) de variedades no híbridas de avena, avena roja, avena estrigosa, cebada, arroz, triticale, trigo blando, trigo duro, trigo redondillo y escanda menor, son las semillas:
+3.6 Semillas certificadas de primera reproducción (R-1) de variedades no híbridas de avena, avena roja, avena estrigosa, cebada, arroz, triticale, trigo blando, trigo duro y trigo espelta menor, son las semillas:
 
 a) Que provienen directamente de semillas de base o, a petición del obtentor, de semillas de alguna generación anterior a las semillas de base, siempre que se cumplan los requisitos que para esta categoría se exponen en los anejos 1 y 2 del presente reglamento técnico.
 
@@ -94,7 +92,7 @@ b) Que su destino puede ser la producción de semillas certificadas de segunda r
 
 c) Que cumplan los requisitos correspondientes de los anejos 1 y 2 del presente Reglamento Técnico, para esta categoría, comprobándose tal extremo mediante el preceptivo control oficial o bien bajo supervisión oficial.
 
-3.7 Semillas certificadas de segunda reproducción (R-2) de variedades no híbridas de avena, avena roja, avena estrigosa, cebada, arroz, triticale, trigo blando, trigo duro, trigo redondillo y escanda menor, son las semillas:
+3.7 Semillas certificadas de segunda reproducción (R-2) de variedades no híbridas de avena, avena roja, avena estrigosa, cebada, arroz, triticale, trigo blando, trigo duro y trigo espelta menor, son las semillas:
 
 a) Que provienen directamente de semillas de base, de semillas certificadas de primera reproducción (R-1) o, a petición del obtentor, de semillas de alguna generación anterior a la semilla de base, siempre que cumpla los requisitos de la semilla de base.
 
@@ -271,5 +269,7 @@ Las condiciones especiales en que podrán comercializarse dichas mezclas se dete
 IX. Semillas importadas
 
 Las semillas que se importan de países terceros deberán corresponder a especies y categorías para las cuales haya sido reconocida la equivalencia de los procesos de producción y de los requisitos de las semillas a nivel de la Unión Europea.
+
+> Se modifica, con efectos del 1 de febrero de 2022, los apartados I y II por el art. 2 de la Orden APA/1437/2021, de 16 de diciembre de 2021. Ref. BOE-A-2021-21286
 
 > Se corrigen errores en los apartados 1 y 4 por la Orden ARM/2552/2011, de 21 de septiembre. Ref. BOE-A-2011-15169.

@@ -21,7 +21,7 @@ I.1 Quedan incluidas en el ámbito de aplicación de este Reglamento Técnico la
 | Festuca ovina L. | Festuca ovina. |
 | Festuca pratensis Huds. | Festuca pratense. |
 | Festuca rubra L. | Festuca roja. |
-| Festuca trachyphylla (Hack.) Krajina. | Festuca dura. |
+| Festuca trachyphylla (Hack.) Hack. | Festuca dura. |
 | Lolium multiflorum Lam. | Ray-grass italiano (incluido el Ray-grass Westerwold). |
 | Lolium perenne L. | Ray-grass inglés. |
 | Lolium x hybridum Hausskn | Ray-grass híbrido. |
@@ -467,6 +467,10 @@ VIII.3 Los lotes de semilla que cumplan las condiciones establecidas en el anexo
 VIII.4 Comercialización de semilla certificada a granel.
 
 Se podrá comercializar semilla de categoría certificada a granel, de las especies: Habas y haboncillos [Vicia faba (partim)] y guisante [Pisum sativum (partim)], destinadas directamente al consumidor final, siempre que se cumplan los requisitos establecidos en los apartados 40 y 40 bis del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero.
+
+> Se modifica la referencia indicada por el art. 3.3 de la Orden APA/1437/2021, de 16 de diciembre de 2021. Ref. BOE-A-2021-21286
+
+> Téngase en cuenta que esta modificación entra en vigor el 1 de febrero de 2022, según establece la disposición final 2 de la citada Orden.
 
 > Se modifican los epígrafes IV.2.5 y V.3 por el art. 4.1 y 2 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#ac
 
