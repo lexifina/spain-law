@@ -1,0 +1,1 @@
+Téngase en cuenta que se declara que la presente Orden ha incurrido en el vicio de ilegalidad por omisión, por haber establecido la determinación del precio de combustible aplicable en los sistemas eléctricos de los territorios no peninsulares prescindiendo de sistema de subasta, por la Sentencia del Tribunal Supremo de 16 de noviembre de 2021. Ref. BOE-A-2022-1541
