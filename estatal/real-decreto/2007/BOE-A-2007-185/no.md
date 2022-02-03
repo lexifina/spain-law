@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 3 de febrero de 2022, por la disposición derogatoria única.1 del Real Decreto 95/2022, de 1 de febrero de 2022 Ref. BOE-A-2022-1654, no obstante, mantendrá sus efectos y será de aplicación hasta el fin del curso escolar 2021-2022, según establece su disposición transitoria única.
