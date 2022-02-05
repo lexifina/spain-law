@@ -339,7 +339,7 @@ Matriz de ponderación
 | Grupos de valoración | Elementos de valoración | Finalidad de las evaluaciones |
 | --- | --- | --- |
 | Ascenso por elección Selección de asistentes a cursos de capacitación – Porcentaje | Ascenso por clasificación – Porcentaje | Selección de asistentes a cursos de especialización y de altos estudios profesionales – Porcentaje |
-| Grupo 1 «Evaluación del desempeño» | «Competencias de carácter profesional y personal». | 25-30 | 25-30 | 20-25 |
+| Grupo 1 «Evaluación del desempeño» | «Competencias de carácter profesional y personal». | 25-30 | 22-27 | 20-25 |
 | «Competencias profesionales directivas». |
 | «Prestigio profesional». |
 | Grupo 2 «Trayectoria profesional» | «Destinos y situaciones». | 35-45 | 40-50 | 35-45 |
@@ -370,3 +370,5 @@ Donde la suma de los factores de ponderación es:
 ![imagen](https://www.boe.es/datos/imagenes/disp/2019/74/04482_7408.png)
 
 La puntuación preliminar, tras ser sometida al estudio de detalle reflejado en el artículo 24.3, dará como resultado la puntuación definitiva para cada evaluado, salvo lo recogido en el artículo 24.4 para el ascenso al empleo de General de Brigada. La cifra resultante de la puntuación definitiva, con un máximo de 100 puntos, contendrá tantos decimales como resulten necesarios, tras aplicar las reglas generales de redondeo, para determinar el orden de prelación.
+
+> Se modifica la matriz de ponderación del epígrafe 3 por la disposición final 1 de la Orden PCM/62/2022, de 2 de febrero. Ref. BOE-A-2022-1832#df
