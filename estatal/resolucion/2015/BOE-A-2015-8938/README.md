@@ -33,6 +33,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Decimosexta](decimosexta.md)
 - [Sección 5ª](s5a.md)
 - [Decimoséptima](decimoseptima.md)
+- [Decimoséptima bis](db.md)
 - [Decimoctava](decimoctava.md)
 - [Sección 6ª](s6a.md)
 - [Decimonovena](decimonovena.md)
