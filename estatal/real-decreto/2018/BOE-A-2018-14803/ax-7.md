@@ -1,7 +1,5 @@
 ## ANEXO XVI
 
-## Plantaciones
-
 Cuadro A. Plantaciones y arranques realizados
 
 | Comunidad Autónoma: |  |
@@ -72,5 +70,22 @@ Cuadro D. Inventario de autorizaciones de plantación concedidas y no utilizadas
 Fecha límite de la comunicación: 1 de octubre (para la primera vez: a más tardar el 1 de octubre de 2019).
 
 Datos referidos a 31 de julio de la campaña precedente a la de la comunicación.
+
+## Cuadro E. Información sobre las autorizaciones prorrogadas hasta 31 de diciembre de 2022, objeto de renuncia sin la sanción administrativa del artículo 26.1 y retractadas de la renuncia comunicada hasta el 28 de febrero de 2021.
+
+| Comunidad autónoma: |  |
+| --- | --- |
+| Fecha de Comunicación |  |
+| Campaña vitícola: |  |
+| Autorizaciones afectadas por los párrafos segundo, tercero y cuarto del artículo 11.6 y por los párrafos tercero, cuarto y quinto del artículo 19.4 | De nueva plantación | De replantación |
+| N.º Titulares | N.º de hectáreas | N.º Titulares | N.º de hectáreas |
+| Prorrogadas hasta el 31 de diciembre de 2022. |  |  |  |  |
+| Objeto de renuncia a 28 de febrero de 2021 sin sanción administrativa del artículo 26.1. |  |  |  |  |
+| Retractadas a 28 de febrero de 2022 de la renuncia comunicada a 28 de febrero de 2021. |  |  |  |  |
+| Fecha límite de comunicación: 1 de octubre de 2022. |  |  |  |
+
+> Se añade el cuadro E por el art. único.10 del Real Decreto 111/2022, de 8 de febrero de 2022. Ref. BOE-A-2022-2058
+
+> Téngase en cuenta para su aplicación la disposición final única del citado Real Decreto.
 
 > Se sustituye la tabla del cuadro B por el art. único.8 del Real Decreto 201/2021, de 30 de marzo. Ref. BOE-A-2021-5030
