@@ -10,10 +10,20 @@ b) Pruebas de aptitud profesional. Quienes superen la fase anterior realizarán 
 
 – El segundo constará de dos partes:
 
-1. Contestación por escrito a un cuestionario de preguntas que el Tribunal propondrá para cada una de las materias de ciencias jurídicas, sociales y técnicos-científicas aplicadas a la profesión policial, de las que figuren en el temario que se establezca en la convocatoria.
+1. Contestación por escrito a un cuestionario de preguntas que el Tribunal elaborará para cada una de las materias de ciencias jurídicas, sociales y técnicos-científicas, así como cualquier otra, aplicadas a la profesión policial, de las que figuren en el temario que se establezca en la convocatoria, a un nivel concordante con el título académico requerido a las personas aspirantes.
 
-2. Resolución por escrito de un supuesto práctico, propuesto por el Tribunal, teniendo como base el contenido del temario y relacionado con las funciones y tareas de la categoría a la que se aspira, debiendo el opositor, posteriormente, leerlo ante el Tribunal, quien podrá hacerle las preguntas o requerir las aclaraciones que estime pertinentes, para contrastar sus conocimientos.
+Se calificará de cero a diez puntos, y únicamente serán seleccionadas para continuar en el proceso las personas aspirantes que hayan obtenido las mejores calificaciones, hasta llegar a un número comprendido entre 1,5 y 3 por plaza convocada, según se determine en cada convocatoria. El resto de candidatos y candidatas quedarán excluidos del proceso.
 
-La calificación de este ejercicio de aptitud profesional será la media de las dos pruebas que lo componen, puntuándose de cero a diez cada una de las pruebas citadas y siendo necesario obtener un mínimo de cinco puntos en cada una de ellas para aprobar.
+Si hubiere varios opositores u opositoras con igual puntuación a la que determina el número máximo de aspirantes señalado en el párrafo anterior, quedarán todos admitidos aunque se supere el límite indicado.
+
+La convocatoria establecerá la fórmula de corrección de este ejercicio, así como las demás condiciones sobre su desarrollo y ejecución.
+
+2. Resolución por escrito de un supuesto práctico, elaborado por el Tribunal, teniendo como base el contenido del temario y relacionado con las funciones y tareas de la categoría a la que se aspira, debiendo la persona opositora, posteriormente, leerlo ante el Tribunal, quien podrá hacer las preguntas o requerir las aclaraciones que estime pertinentes para contrastar sus conocimientos.
+
+Este ejercicio se calificará de cero a diez puntos. El tribunal calificador ordenará de mayor a menor las calificaciones obtenidas y sólo podrá acordar que han superado este ejercicio un número de aspirantes igual al de plazas convocadas. Los empates en la puntuación para la asignación de la última plaza serán dirimidos de conformidad con los criterios objetivos que se determinen en la correspondiente convocatoria. El resto de candidatos quedarán excluidos del proceso selectivo
+
+La calificación resultante del segundo ejercicio será la media de las puntuaciones obtenidas en los dos ejercicios anteriores.
+
+> Se modifica el apartado b) por el art. único.3 de la Orden INT/74/2022, de 3 de febrero. Ref. BOE-A-2022-2056
 
 > Redactado el párrafo último conforme a la corrección de errores publicada en BOE núm. 311, de 28 de diciembre de 1989. Ref. BOE-A-1989-30479.
