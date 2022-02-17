@@ -18,9 +18,9 @@ Artículo 7 del Reglamento (CE) n.º 562/2006 del Parlamento Europeo y del Conse
 
 Artículo 13 del Real Decreto 210/2004.
 
-4. Notificación de desechos y residuos:
+4. Notificación de desechos de buques:
 
-Artículo 6 del Real Decreto 1381/2002 de 20 de diciembre sobre instalaciones portuarias de recepción de desechos generados por los buques y residuos de carga.
+Artículos 16, 17 y 21 del Real Decreto 128/2022, de 15 de febrero, sobre instalaciones portuarias receptoras de desechos de buques.
 
 5. Notificación de información sobre seguridad:
 
@@ -59,5 +59,7 @@ Esta categoría de formalidades informativas incluye la información que debe fa
 C. Legislación nacional aplicable
 
 La información necesaria para cumplimentar los datos de escala; los datos de atraque o fondeo; los datos de operación; el apéndice 1: ficha técnica del buque; así como el número del visado del apéndice 3: lista de tripulación y del apéndice 4 de: lista de pasajeros; y el indicador de masculino (M) o femenino (F) del apéndice 4: lista de pasajeros. Todo ello de acuerdo con la normativa aprobada por el Ministerio de Fomento para regular el procedimiento de escala de buques en puertos españoles. (Anexo I de la Orden FOM/1194/2011/ de 22 de abril, por la que se regula el procedimiento integrado de escala de buques en los puertos de interés general.)
+
+> Se modifica el apartado 4 de la sección A por la disposición final 1 del Real Decreto 128/2022, de 15 de febrero. Ref. BOE-A-2022-2465
 
 > Se añade el apartado 7 al epígrafe A por el art. 2 del Real Decreto 724/2019, de 13 de diciembre. Ref. BOE-A-2019-18017
