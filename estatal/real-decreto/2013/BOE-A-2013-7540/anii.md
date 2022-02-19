@@ -104,7 +104,7 @@ f) Cuando un nutriente secundario esté ligado químicamente a alguna molécula 
 
 g) Las indicaciones que figuran con carácter general como notas en el apartado 1.2 del Anexo I
 
-2.3. Expresión de los micronutrientes.-
+2.3. Expresión de los micronutrientes.
 
 a) El contenido de los micronutrientes cobalto (Co), cobre (Cu), hierro (Fe), manganeso (Mn), molibdeno (Mo) y zinc (Zn) se declarará en los abonos de los grupos 1.1, 1.2, 3 y 4, siempre que cumplan las dos condiciones siguientes:
 
@@ -128,11 +128,11 @@ el contenido soluble en agua, cuando el contenido soluble alcance como mínimo l
 
 cuando un micronutriente sea totalmente soluble en agua, sólo se declarará el contenido soluble en agua.
 
-e) Cuando un micronutriente esté ligado químicamente a alguna molécula orgánica, el contenido del nutriente presente en el producto fertilizante se declarará inmediatamente a continuación del contenido soluble en agua, seguido por las expresiones «quelado por» o «complejado por» y el nombre de la o las moléculas orgánicas, tal y como figuran en la lista E.3.1 del anexo I del Reglamento (CE) n.º 2003/2003 y en el apartado 1.3.5 del Anexo I del presente Real Decreto. El nombre de las moléculas orgánicas podrá ser sustituido por sus abreviaturas.
+e) Cuando un micronutriente esté ligado químicamente a alguna molécula orgánica, el contenido del nutriente presente en el producto fertilizante se declarará inmediatamente a continuación del contenido soluble en agua, seguido por las expresiones «quelado por» o «complejado por» y el nombre de la o las moléculas orgánicas, tal y como figuran en la lista 1.4.5.2 del anexo I del presente real decreto y en el apartado 1.3.5 del Anexo I del presente Real Decreto. El nombre de las moléculas orgánicas podrá ser sustituido por sus abreviaturas.
 
 f) Los micronutrientes que contenga el producto fertilizante, se enumerarán por orden alfabético de sus símbolos químicos: B, Co, Cu, Fe, Mn, Mo, Zn.
 
-g) Las indicaciones que figuran con carácter general como notas en el apartado 1.3 del Anexo I
+g) Las indicaciones que figuran con carácter general como notas en los apartados 1.3 y 1.4.5 del anexo I.
 
 h) En la etiqueta del envase, en lo que respecta a los productos incluidos en el apartado 1.3 del Anexo I, con excepción de los del tipo 1.3.4, debajo de las indicaciones obligatorias o facultativas, deberá aparecer el texto siguiente: «Utilícese solamente en caso de reconocida necesidad. No sobrepasar las dosis adecuadas.»
 
@@ -200,6 +200,8 @@ i) La identificación de la partida o lote, para documentar su trazabilidad, de 
 
 j) En el caso de los productos del apartado 4 del grupo 4, se debe de incorporar la frase Contiene microorganismos. Puede provocar reacciones de sensibilización. Se recomienda la utilización de equipo de protección respiratoria (respirador desechable o careta filtrante, al menos EN 149 FFP3 o equivalente) al manipular el preparado o aplicar el producto.
 
+k) Si está presente la urea, información sobre las posibles repercusiones en la calidad del aire de la liberación de amoníaco a partir del uso de abonos, y una invitación a que los usuarios apliquen medidas correctoras apropiadas.
+
 B. IDENTIFICACIONES Y MENCIONES FACULTATIVAS
 
 Los envases, etiquetas y documentos de acompañamiento podrán llevar las siguientes indicaciones:
@@ -208,7 +210,7 @@ a) La marca del fabricante.
 
 b) En los productos fertilizantes de los grupos 2, 3 y 6, la denominación comercial, en la que no se podrán utilizar cifras o expresiones que induzcan a confusión sobre el tipo de producto, riquezas o contenidos, así como el empleo de palabras o prefijos como «biológico», «ecológico», «abono ecológico», «bio» o «eco», sin el correspondiente certificado de conformidad emitido por las entidades certificadoras de insumos autorizados en agricultura ecológica.
 
-c) No podrá utilizarse la denominación «abono de liberación lenta», «abono de liberación gradual» o similares, salvo en el caso de los abonos de los grupos 1, 3 y 4, formulados a base de urea de baja solubilidad (tipos A.1.10, A.1.11 y A.1.12 del Anexo I del Reglamento (CE) n.º 2003/2003) o los abonos con inhibidores de la nitrificación o de la ureasa autorizados.
+c) No podrá utilizarse la denominación «abono de liberación lenta», «abono de liberación gradual» o similares, salvo en el caso de los abonos de los grupos 1, 3 y 4, formulados a base de urea de baja solubilidad (tipos 1.4.1.1.9, 1.4.1.1.10 y 1.4.1.1.11 del anexo I del presente real decreto) o los abonos con inhibidores de la nitrificación o de la ureasa autorizados.
 
 d) En el caso de que existan indicaciones facultativas reseñadas en las columnas 4, 5 y 6 de los cuadros del Anexo I, conforme a lo especificado en los mismos.
 
@@ -229,6 +231,8 @@ k) Las instrucciones de almacenamiento y manipulación para los productos sólid
 l) La indicación «pobre en cloruro» sólo podrá incluirse cuando el contenido en cloruro sea inferior al 2 %. Así mismo, la indicación «libre de cloruro» sólo podrá incluirse cuando el contenido en cloruro sea inferior al 0,3%.
 
 m) Valor del pH en aquellos productos que no sea obligatoria su mención.
+
+> Se modifican las letras e) y g) del apartado 2.3 y se añade la letra k) al apartado 5 de la Sección A y se modifica la letra c) de la Sección B, por el art. único.7 a 10 de la Orden APA/104/2022, de 11 de febrero. Ref. BOE-A-2022-2621
 
 > Se modifican los apartados A.2, A.3, A.4 y A.5 por el art. único.10 del Real Decreto 999/2017, de 24 de noviembre. Ref. BOE-A-2017-14332
 

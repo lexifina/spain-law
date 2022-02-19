@@ -2,104 +2,103 @@
 
 ## Márgenes de tolerancia
 
-Las tolerancias indicadas en el presente anexo son las diferencias admisibles entre el valor encontrado en el análisis del contenido de un elemento o de otra característica específica, con respecto a su valor declarado.
+Las tolerancias indicadas en el presente anexo son las mayores diferencias admisibles entre el valor declarado y el comprobado del contenido de un elemento o de otra característica específica.
 
-Los márgenes de tolerancia incluidos en el presente anexo son valores negativos (por defecto) de porcentaje en masa.
+Los márgenes de tolerancia incluidos en el presente anexo son valores máximos de la deficiencia de contenido (por defecto) en la misma unidad de expresión y en términos absolutos de porcentaje en masa.
 
-En todos los productos fertilizantes, la tolerancia admisible será también positiva (valores por exceso), en magnitudes equivalentes al doble de lo establecido para las tolerancias por defecto que se especifican en este anexo.
+En todos los productos fertilizantes, la tolerancia admisible será también aplicable al exceso (positiva o valores comprobados superiores a los declarados), en cuantía equivalente al doble de lo establecido para las tolerancias del defecto que se especifican en este anexo.
 
-Los márgenes de tolerancia por defecto permitidos, en cuanto a los contenidos declarados en elementos nutrientes o de otras características especificadas en las denominaciones de los diversos tipos de productos fertilizantes del anexo I, serán los siguientes:
+Los márgenes de tolerancia establecidos incluyen las diferencias que puedan proceder de la fabricación, la cadena de distribución, la toma de muestras para comprobación y la incertidumbre del resultado del laboratorio. No se admitirá, por tanto, la consideración de cualquiera de esas fuentes de error para añadirlas a la tolerancia.
 
-GRUPO 1. ABONOS INORGÁNICOS NACIONALES
+En definitiva, para considerar que un producto cumple las tolerancias establecidas para un parámetro (o suma de ellos), deberá cumplirse que:
 
-1.1. ABONOS INORGÁNICOS CON NUTRIENTES PRINCIPALES.
+Tolerancia del parámetro ≤ (Valor declarado - Valor comprobado)
 
-|  | Valores absolutos de los porcentajes en masa expresados en: |
-| --- | --- |
-| 1.1.1. Abonos nitrogenados. | N |
-| 1.1.1.01. Solución amoniacal. | 0,5 |
-| 1.1.1.02. Amoníaco anhidro. | 1,0 |
-| 1.1.1.03. Solución de nitrato amónico y amoníaco con o sin urea. | 0,6 |
-| 1.1.1.04. Ácido nítrico. | 0,4 |
-| 1.1.1.05. Solución ácida de abono nitrogenado con azufre. | 0,6 |
-| 1.1.1.06. Solución de sulfato amónico-nitrato amónico. | 0,4 |
-| 1.1.1.07. Abono nitrogenado mixto. | 0,5 |
-| 1.1.1.08. Solución nitrogenada. | 0,6 |
-| 1.1.1.09. Solución nitrogenada con elementos secundarios. | 0,3 |
-| 1.1.1.10. Solución de tiosulfato amónico. | 0,5 |
-| 1.1.2. Abonos fosfatados. | P2O5 |
-| 1.1.2.01. Acido fosfórico. | 0,8 |
-| 1.1.3. Abonos potásicos. | K2O |
-| 1.1.1.3.01. Solución potásica. | 0,5 |
-| 1.1.1.3.02. Solución de tiosulfato potásico. | 0,5 |
-| Otros elementos. | Cl |
-| Cloruro (tolerancia por exceso). | 0,1 |
+Y que:
 
-1.1.4. Abonos compuestos líquidos
+(Valor comprobado – Valor declarado) ≤ 2 * Tolerancia parámetro
+
+Siendo:
+
+Valor declarado: el declarado en etiqueta para ese parámetro.
+
+Valor comprobado: el resultado emitido por el Laboratorio para ese parámetro (sin tener en cuenta la incertidumbre, que ya está incluida en la tolerancia).
+
+El margen de tolerancia permitida para el defecto, en cuanto a los contenidos declarados en elementos nutrientes o de otras características especificadas en las denominaciones de los diversos tipos de productos fertilizantes del anexo I, serán los siguientes:
+
+1. ABONOS INORGÁNICOS
+
+Elementos nutrientes primarios: N, P y K
+
+Abonos sólidos:
+
+N total: 1,1
+
+*P2O5: 1,1
+
+K2O: 1,1
+
+Valor máximo de la suma de las desviaciones negativas respecto al valor declarado:
+
+Abonos binarios: 1,5.
+
+Abonos ternarios: 1,9.
+
+Abonos líquidos:
 
 Un 15% del valor declarado para los contenidos en cualquier elemento nutriente principal, con un máximo de:
 
 N total: 0,5.
 
-P2O5 : 0,5.
+*P2O5: 0,5.
 
-K2O : 0,5.
+K2O: 0,5.
 
 Valor máximo de la suma de las desviaciones negativas respecto al valor declarado:
 
 Abonos binarios: 0,7.
 
-Abonos ternarios: 1.
+Abonos ternarios: 1,0.
 
-1.1.a. Cuando estos abonos contengan además elementos secundarios:
+*Esta tolerancia del P2O5. se aplicará a la solubilidad que se declara en la fórmula principal según las tablas del ANEXO I.
 
-Un 10% del contenido declarado en CaO, MgO y SO3, con un máximo del 0,9% en valor absoluto.
+Tanto en abonos sólidos como en líquidos, en lo que se refiere al contenido declarado para otras formas de nitrógeno distintas del nitrógeno total y para las solubilidades garantizadas del pentóxido de fósforo distintas de la solubilidad de declaración obligatoria para el tipo, garantizada en la fórmula principal, un 20 % de desviación relativa del valor declarado, hasta un máximo de 1,5% en masa.
 
-1.1.b. Cuando estos abonos contengan además micronutrientes:
+K2O sol en agua en una solución potásica: 0,5
 
-Un 20% del valor declarado, para los contenidos en micronutrientes inferiores o iguales al 2%
+Elementos nutrientes secundarios: Ca, Mg, Na y S
 
-Un 0,4% en valor absoluto, para los contenidos en micronutrientes superiores al 2%.
+25 % del contenido declarado de estos nutrientes, hasta un máximo de 1,0 punto porcentual en términos absolutos para el CaO, MgO y SO3, es decir, de 0,71 para el Ca, 0,60 para el Mg, y 0,40 para el S. Cuando el contenido en SO3 sea Igual o superior al 60% la tolerancia será de un 2,5% en valor absoluto.
 
-1.2. ABONOS INORGÁNICOS CON ELEMENTOS NUTRIENTES SECUNDARIOS.
+Óxido de sodio (Na2O) total y soluble en agua. 25 % del contenido declarado, hasta un máximo de 0,9 puntos porcentuales en términos absolutos hasta un máximo de 1,8 puntos porcentuales en términos absolutos
 
-1.2.a. Elementos nutrientes secundarios:
+Cuando CaO y MgO estén quelados o complejados:
 
-Un 25% del contenido declarado en CaO, MgO, Na2O y SO3, con un máximo del 0,9% en valor absoluto, cuando el contenido en SO3 sea inferior al 60% y un máximo del 2,5% en valor absoluto cuando sea igual o superior al 60%
+25 % del contenido declarado de estos nutrientes, hasta un máximo de 1,0 punto porcentual en términos absolutos
 
-1.2.b. CaO y MgO quelados o complejados
+Micronutrientes
 
-Un 10% del contenido declarado en CaO y MgO quelado o complejado, con un máximo del 0,9% en valor absoluto.
+Tolerancias admisibles para los contenidos declarados de formas de micronutrientes:
 
-1.3. ABONOS INORGÁNICOS CON MICRONUTRIENTES
+Concentración inferior o igual al 2 %: 20 % del valor declarado.
 
-Un 20% del valor declarado, para los contenidos en micronutrientes inferiores o iguales al 2%
+Concentración superior al 2 % e inferior o igual al 10 %: 20 % del valor declarado y 1,0 punto porcentual en términos absolutos.
 
-Un 0,4% en valor absoluto, para los contenidos en micronutrientes superiores al 2%.
+Concentración superior al 10 %: 1,0 punto porcentual en términos absolutos.
 
-GRUPOS 2 Y 3. ABONOS ORGÁNICOS Y ÓRGANO-MINERALES
+Otros elementos
 
-2/3.a. Abonos que solo declaran un único nutriente principal.
+Cloruro 0,2.
 
-Un 15% del valor declarado, para los contenidos en cualquier elemento nutriente principal, con un máximo de:
+2. ABONOS ORGÁNICOS
 
-N total: 0,9.
+Elementos nutrientes primarios: N, P y K
 
-N orgánico: 0,5.
-
-P2O5 : 0,9.
-
-K2O:0,9.
-
-2/3.b. Abonos compuestos.
-
-Un 15% del valor declarado, para los contenidos en cualquier elemento nutriente principal, con un máximo de:
+Un 25% del valor declarado, para los contenidos en cualquier elemento nutriente, con un máximo de:
 
 N total: 1,1.
 
-N orgánico: 0,5.
-
-P2O5 : 1,1.
+P2O5: 1,1.
 
 K2O: 1,1.
 
@@ -109,45 +108,81 @@ Abonos binarios: 1,5.
 
 Abonos ternarios: 1,9.
 
-2/3.c. Abonos que declaran nutrientes secundarios.
+N orgánico: 50 % de desviación relativa del valor declarado, hasta un máximo de 1,0 punto porcentual en términos absolutos.
 
-Un 25% del contenido declarado en CaO, MgO, Na2O y SO3 con un máximo del 0,9% del valor absoluto.
+Elementos nutrientes secundarios: Ca, Mg, Na y S
 
-2/3.d. Abonos que declaran micronutrientes.
+25 % del contenido declarado de estos nutrientes, hasta un máximo de 1,5 puntos porcentuales en términos absolutos.
 
-Un 20% del valor declarado, para los contenidos en micronutrientes inferiores al 2%.
+Otras características específicas
 
-Un 0,4% en valor absoluto, para los contenidos en micronutrientes superiores al 2%.
+Carbono orgánico: 20% del valor declarado con un máximo del 2 % en valor absoluto. Relación C/N: 20 % del valor declarado con un máximo del 2 % en valor absoluto.
 
-2/3.e. Otras características específicas.
+Ácidos húmicos:
 
-– Carbono orgánico: 15 % del valor declarado con un máximo del 2 % en valor absoluto. Relación C/N: 20 % del valor declarado con un máximo del 2 % en valor absoluto.
+Abonos líquidos: 20 % del valor declarado con un máximo del 4% en valor absoluto.
 
-– Ácidos húmicos: 15% del valor declarado con un máximo del 2% en valor absoluto.
+Abonos sólidos: 30 % del valor declarado con un máximo del 4% en valor absoluto.
 
-– Materia orgánica total: 20% del valor declarado con un máximo del 6% en valor absoluto.
+Materia orgánica total: 20% del valor declarado con un máximo del 4% en valor absoluto.
+
+3. ABONOS ÓRGANO-MINERALES
+
+Elementos nutrientes primarios: N, P y K
+
+Un 20% del valor declarado, para los contenidos en cualquier elemento nutriente principal, con un máximo de:
+
+N total: 1,1.
+
+*P2O5: 1,1.
+
+K2O: 1,1.
+
+Valor máximo de la suma de las desviaciones negativas respecto al valor declarado:
+
+Abonos binarios: 1,5.
+
+Abonos ternarios: 1,9.
+
+N orgánico: 50 % de desviación relativa del valor declarado, hasta un máximo de 1,0 punto porcentual en términos absolutos
+
+*Esta tolerancia del P2O5. se aplicará a la solubilidad que se declara en la fórmula principal según las tablas del ANEXO I.
+
+Tanto en abonos sólidos como en líquidos, en lo que se refiere al contenido declarado para otras formas de nitrógeno distintas del nitrógeno total y para las solubilidades garantizadas del pentóxido de fósforo distintas de la solubilidad de declaración obligatoria para el tipo, garantizada en la fórmula principal, un 20 % de desviación relativa del valor declarado, hasta un máximo de 1,5% en masa.
+
+Elementos nutrientes secundarios: Ca, Mg, Na y S
+
+Un 25% del contenido declarado en CaO, MgO, Na2O y SO3 con un máximo del 1% del valor absoluto.
+
+Micronutrientes
+
+Concentración inferior o igual al 2 %: 20 % del valor declarado.
+
+Concentración superior al 2 % e inferior o igual al 10 %: 20 % del valor declarado y 1,0 punto porcentual en términos absolutos.
+
+Concentración superior al 10 %: 1,0 punto porcentual en términos absolutos.
+
+Otras características específicas
+
+Carbono orgánico: 20% del valor declarado con un máximo del 2 % en valor absoluto. Relación C/N: 20 % del valor declarado con un máximo del 2 % en valor absoluto.
+
+Ácidos húmicos:
+
+Abonos líquidos: 20 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Abonos sólidos: 30 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Materia orgánica total: 20% del valor declarado con un máximo del 4% en valor absoluto.
 
 4. OTROS ABONOS Y PRODUCTOS ESPECIALES
 
-En los abonos (CE) y en los abonos del grupo 1 del anexo I a los que se adicionan productos especiales (aminoácidos, ácidos húmicos, diciandiamida, DMPP, etc.), los márgenes de tolerancia serán equivalentes a los exigidos a los mismos.
+En los abonos del grupo 1 del anexo I a los que se adicionan productos especiales (aminoácidos, ácidos húmicos, diciandiamida, DMPP, etc.), los márgenes de tolerancia serán equivalentes a los exigidos a los mismos.
 
-En los aminoácidos y ácidos húmicos, un 10% del valor declarado del contenido en cualquier elemento nutriente principal, con un máximo en valor absoluto de:
-
-N total: 0,9.
-
-N orgánico y en otras formas: 0,5.
-
-P2O5 : 0,9.
-
-K2O: 0,9.
-
-En el caso de contener más de un nutriente principal: un 15% del valor declarado, para los contenidos en cualquier elemento nutriente principal, con un máximo de:
+En los aminoácidos y ácidos húmicos, un 20% del valor declarado del contenido en cualquier elemento nutriente principal, con un máximo en valor absoluto de:
 
 N total: 1,1.
 
-N orgánico: 0,5.
-
-P2O5 : 1,1.
+*P2O5: 1,1.
 
 K2O: 1,1.
 
@@ -156,6 +191,12 @@ Valor máximo de la suma de las desviaciones negativas respecto al valor declara
 Abonos binarios: 1,5.
 
 Abonos ternarios: 1,9.
+
+N orgánico: 50 % de desviación relativa del valor declarado, hasta un máximo de 1,0 punto porcentual en términos absolutos.
+
+*Esta tolerancia del P2O5. se aplicará a la solubilidad que se declara en la fórmula principal según las tablas del ANEXO I.
+
+Tanto en abonos sólidos como en líquidos, en lo que se refiere al contenido declarado para otras formas de nitrógeno distintas del nitrógeno total y para las solubilidades garantizadas del pentóxido de fósforo distintas de la solubilidad de declaración obligatoria para el tipo, garantizada en la fórmula principal, un 20 % de desviación relativa del valor declarado, hasta un máximo de 1,5% en masa.
 
 Total de aminoácidos libres:
 
@@ -165,55 +206,87 @@ Valor declarado < 10%: 10% del valor declarado.
 
 Para cada uno de los aminoácidos libres declarados en el aminograma: 25% del valor declarado.
 
-Ácidos húmicos: 15% del valor declarado, con un máximo el 2% en valor absoluto.
+Ácidos húmicos:
 
-Ácidos fúlvicos: 20% del valor declarado, con un máximo el 2% en valor absoluto.
+Abonos líquidos: 20 % del valor declarado con un máximo del 4% en valor absoluto.
 
-Extracto húmico total.15% del valor declarado, con un máximo del 3% en valor absoluto.
+Abonos sólidos: 30 % del valor declarado con un máximo del 4% en valor absoluto.
 
-Contenido en ácido algínico: 10% del valor declarado.
+Ácidos fúlvicos:
 
-Contenido en manitol: 10% del valor declarado.
+Abonos líquidos: 30 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Abonos sólidos: 40 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Extracto húmico total:
+
+Abonos líquidos: 20 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Abonos sólidos: 30 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Contenido en ácido algínico:
+
+Concentraciones superiores al 5%: 20% del valor declarado.
+
+Concentraciones inferiores o iguales al 5%: 30% del valor declarado.
+
+Contenido en manitol: 20% del valor declarado.
 
 Producto líquido a base de silicio: Un 25% del contenido declarado en SiO2, con un máximo del 3% en valor absoluto.
 
-Diciandiamida y DMPP: 10% del valor declarado, referido al porcentaje del inhibidor sobre el nitrógeno nitrificable.
+Inhibidores de la nitrificación, inhibidor de la desnitrificación o inhibidores de la ureasa:
 
-Monocarbamida dihidrógeno sulfato (MCDHS): 10% del valor declarado referido al porcentaje del inhibidor sobre nitrógeno ureico.
+Concentración inferior o igual al 2 %: 20 % del valor declarado.
+
+Concentración superior al 2 %: 0,3 puntos porcentuales en términos absolutos.
 
 5. ENMIENDAS CALIZAS
 
-Un 25% del contenido declarado en CaO, MgO y SO3 , con un máximo del 3% en valor absoluto.
+Valor neutralizante: 3 puntos.
 
-Valor neutralizante: un 2,5% sobre el valor declarado.
+Granulometría: 10 % de desviación relativa del porcentaje declarado de material que pasa por un tamiz determinado.
 
-6. ENMIENDAS ORGANICAS
+Óxido de calcio (CaO) total: 3,0 puntos porcentuales en términos absolutos.
 
-Materia orgánica total 20% del valor declarado, con un máximo del 6% en valor absoluto.
+Óxido de magnesio (MgO) total:
 
-C orgánico y Relación C/N: 15% del valor declarado con un máximo del 2% en valor absoluto.
+Concentración inferior al 8 %: 1,0 punto porcentual en términos absolutos.
 
-Ácidos húmicos: 15% del valor declarado con un máximo del 2% en valor absoluto.
+Concentración entre el 8 y el 16 %: 2,0 puntos porcentuales en términos absolutos.
 
-Ácidos fúlvicos: 15% del valor declarado con un máximo del 2% en valor absoluto.
+Concentración igual o superior al 16 %: 3,0 puntos porcentuales en términos absolutos.
 
-Para los contenidos en cualquier elemento nutriente, un 10% del valor declarado, con un máximo en valor absoluto de:
+S03 Un 25% del contenido declarado con un máximo del 3% en valor absoluto.
 
-N total: 0,9.
+Reactividades (ensayo del ácido clorhídrico y ensayo de incubación): 5,0 puntos porcentuales en términos absolutos.
 
-N orgánico y en otras formas: 0,5.
+Cantidad: 1 % de desviación relativa del valor declarado.
 
-P2O5 total: 0,9.
+6. ENMIENDAS ORGÁNICAS
 
-K2O total: 0,9.
+Materia orgánica total 20% del valor declarado, con un máximo del 4% en valor absoluto.
 
-En el caso de contener más de un nutriente principal: un 15% del valor declarado, para los contenidos en cualquier elemento nutriente principal, con un máximo de:
+C orgánico: 20% del valor declarado con un máximo del 2% en valor absoluto.
+
+Relación C/N: 20 % del valor declarado con un máximo del 2 % en valor absoluto.
+
+Ácidos húmicos:
+
+Abonos líquidos: 20 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Abonos sólidos: 30 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Ácidos fúlvicos:
+
+Abonos líquidos: 30 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Abonos sólidos: 40 % del valor declarado con un máximo del 4% en valor absoluto.
+
+Para los contenidos en cualquier elemento nutriente, un 25% del valor declarado, con un máximo en valor absoluto de:
 
 N total: 1,1.
 
-N orgánico: 0,5.
-
-P2O5 : 1,1.
+P2O5: 1,1.
 
 K2O: 1,1.
 
@@ -222,6 +295,8 @@ Valor máximo de la suma de las desviaciones negativas respecto al valor declara
 Abonos binarios: 1,5.
 
 Abonos ternarios: 1,9.
+
+N orgánico: 50 % de desviación relativa del valor declarado, hasta un máximo de 1,0 punto porcentual en términos absolutos.
 
 7. OTRAS ENMIENDAS
 
@@ -243,13 +318,21 @@ Volumen de aire: 10% del valor declarado.
 
 Volumen de agua a 1, 5 y 10 kPa: 10% del valor declarado.
 
-OTROS REQUISITOS Y CARACTERÍSTICAS DE CARÁCTER GENERAL
+8. OTROS REQUISITOS Y CARACTERÍSTICAS DE CARÁCTER GENERAL
 
-Cuando existan diferentes formas de nitrógeno o distintas solubilidades del pentóxido de fósforo, el margen de tolerancia para cada uno de ellos será del 10% del contenido total declarable del elemento de que se trate, con un máximo del 2% en masa, en valor absoluto, siempre que la cantidad total de dicho elemento nutriente permanezca dentro de los límites que se especifican en el anexo I y de los márgenes de tolerancia especificados más arriba para cada grupo de productos fertilizantes.
+Cuando existen distintas formas declaradas de N, P y K, la tolerancia será ± 25 % de desviación relativa del valor declarado, hasta un máximo de 1,5 puntos porcentuales en términos absolutos.
 
-Conductividad eléctrica: ± 4,0 dS/m (± 4.000,0 µs/cm).
+Conductividad eléctrica:
+
+• 100 % si la conductividad eléctrica es < 50 mS/m.
+
+• 50 % si la conductividad eléctrica está comprendida entre 50-200 mS/m.
+
+• 25 % si la conductividad eléctrica es > 200 mS/m.
 
 pH: ± 1,0 salvo en los productos clasificados como peligrosos, en los que no se admitirá tolerancia alguna.
+
+> Se modifica por el art. único.11 de la Orden APA/104/2022, de 11 de febrero. Ref. BOE-A-2022-2621
 
 > Se modifican los apartados 2 y 4 por el art. único.19 y 20 de la Orden APA/161/2020, de 20 de febrero. Ref. BOE-A-2020-2612
 
