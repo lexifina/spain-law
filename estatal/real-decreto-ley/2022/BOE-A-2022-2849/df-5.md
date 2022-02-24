@@ -1,0 +1,7 @@
+## Disposición final quinta. Modificación del Real Decreto-ley 3/2021, de 2 de febrero, por el que se adoptan medidas para la reducción de la brecha de género y otras materias en los ámbitos de la Seguridad Social y económico.
+
+Se modifica la disposición adicional segunda del Real Decreto-ley 3/2021, de 2 de febrero, por el que se adoptan medidas para la reducción de la brecha de género y otras materias en los ámbitos de la Seguridad Social y económico, que queda redactada en los siguientes términos:
+
+> «Disposición adicional segunda. Acreditación de la reducción de la facturación por los trabajadores autónomos que han percibido las prestaciones por cese de actividad contempladas en los Reales Decretos-leyes 8/2020, de 17 de marzo, 24/2020, de 26 de junio, y 30/2020, de 29 de septiembre.
+
+> A efectos de acreditación del requisito de reducción de la facturación al que se refieren los artículos 17 del Real Decreto-ley 8/2020, de 17 de marzo, el artículo 9 del Real Decreto-ley 24/2020, de 26 de junio, y la disposición adicional cuarta del Real Decreto-ley 30/2020, de 29 de septiembre, se entenderá que los trabajadores autónomos han experimentado esa reducción siempre que el número medio diario de trabajadores con actividad afiliados al sistema de la Seguridad Social en la actividad económica correspondiente, expresada a cuatro dígitos (CNAE), durante el periodo al que corresponda la prestación, sea inferior en más de un 7,5 por ciento al número medio diario correspondiente al segundo semestre de 2019.»

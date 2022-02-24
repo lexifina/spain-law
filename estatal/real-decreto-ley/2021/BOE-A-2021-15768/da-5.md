@@ -25,3 +25,5 @@ Así mismo, el tiempo en que se perciba la prestación por desempleo de nivel co
 6. Las exenciones en la cotización reguladas en esta disposición adicional son incompatibles con las establecidas en el artículo 4.
 
 7. En el caso de que la situación excepcional descrita en el apartado 1 se prolongue más allá del 28 de febrero de 2022, el Gobierno llevará a cabo las actuaciones oportunas para que la vigencia de las medidas contenidas en esta disposición adicional se prolongue mientras se mantenga dicha situación.
+
+> Téngase en cuenta lo establecido en la disposición adicional cuarta del Real Decreto-ley 2/2022, de 22 de febrero, aplicable a estos expedientes a partir del 1 de marzo y hasta el 30 de junio de 2022. Ref. BOE-A-2022-2849#da-4

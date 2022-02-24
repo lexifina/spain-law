@@ -1,0 +1,7 @@
+## Disposición adicional única. Utilización de los recursos del Plan Estatal para el acceso a la vivienda 2022-2025.
+
+Las compensaciones a las que se refiere este real decreto que no se hayan podido realizar con los recursos del Plan Estatal de Vivienda 2018-2021, se podrán realizar con los del Plan Estatal para el acceso a la vivienda 2022-2025 regulado por Real Decreto 42/2022, de 18 de enero.
+
+A tal efecto los requisitos que han de concurrir para que las comunidades autónomas y las ciudades de Ceuta y Melilla puedan utilizar los recursos del Plan Estatal para el acceso a la vivienda 2022-2025 para las compensaciones a arrendadores o propietarios previstas en el Real Decreto-ley 37/2020, de 22 de diciembre, son los mismos que los regulados para el Plan Estatal de Vivienda 2018-2021 en el artículo 2, con la salvedad de que el acuerdo de liquidación e imputación del importe de las compensaciones, que será adoptado por la persona titular de la Secretaría de Estado de Transportes, Movilidad y Agenda Urbana, se incluirá en la liquidación final del convenio que cada comunidad autónoma y las ciudades de Ceuta y Melilla suscriban con el Ministerio de Transportes, Movilidad y Agenda Urbana para la ejecución del Plan Estatal para el acceso a la vivienda 2022-2025, sin que proceda dictarlo antes.
+
+> Se añade por la disposición final 8.2 del Real Decreto-ley 2/2022, de 22 de febrero. Ref. BOE-A-2022-2849#df-8
