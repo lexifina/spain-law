@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 213, de 2 de septiembre de 2014. Ref. BOE-A-2014-9033.
+Norma derogada, con efectos de 24 de febrero de 2022, por la disposición derogatoria única del Real Decreto 147/2022, de 22 de febrero de 2022. Ref. BOE-A-2022-2850#dd

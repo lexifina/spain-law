@@ -1,0 +1,3 @@
+## Disposición adicional única. Instrucciones generales de la persona titular de la Fiscalía General del Estado.
+
+La persona titular de la Fiscalía General del Estado, sin perjuicio de lo dispuesto en este real decreto y de conformidad con lo dispuesto en el apartado 1 de la disposición adicional cuarta de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal, podrá dictar instrucciones de carácter general en relación con la organización y gestión de las sustituciones, los criterios de actuación de las fiscalías, así como con el contenido de las propuestas de adopción de medidas de apoyo o refuerzo.
