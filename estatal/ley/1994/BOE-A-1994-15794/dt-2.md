@@ -4,4 +4,8 @@
 
 2. El plazo a que hace referencia el párrafo primero del apartado 11 del artículo 27 de la Ley 19/1994, de 6 de julio, será de cuatro años para las inversiones anticipadas materializadas en 2017.
 
+> Se añade por la disposición final 2 de la Ley 2/2022, de 24 de febrero. Ref. BOE-A-2022-2977#df-2
+
+> Téngase en cuenta que esta disposición ya fue añadida por el Real Decreto-ley 39/2020, de 29 de diciembre.
+
 > Se añade por la disposición final 2 del Real Decreto-ley 39/2020, de 29 de diciembre. Ref. BOE-A-2020-17267#df-2
