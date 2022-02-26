@@ -103,8 +103,8 @@ B. Tipo de registro 2: Registro de declarado
 | 124-128 | Numérico. | Porcentaje de participación. Se consignará el porcentaje de titularidad de los valores, seguros o rentas. Se subdivide en dos campos: 124-126 Parte entera del porcentaje; si no tiene contenido, se consignará a ceros. 127-128 Parte decimal del porcentaje; Figurará la parte decimal del porcentaje; si no tiene contenido se consignará a ceros. |
 | 129 | Alfabético. | Clave de titularidad. Se consignará una de las claves siguientes: T. Titular pleno propietario. N. Nudo propietario. |
 | 130-145 | Numérico. | Número de valores Se consignará el número total de acciones o participaciones en el capital o en los fondos propios de entidades jurídicas negociadas en un mercado organizado de valores representativos de la cesión a terceros de capitales propios negociados en mercados organizados o de acciones o participaciones en el capital social o fondo patrimonial de una institución de inversión colectiva, respecto de los que tenga un determinado porcentaje de participación el declarado. A estos efectos, cuando existan múltiples declarados, se consignará, en cada uno de ellos, el número de valores total sobre los que tenga un determinado porcentaje de participación. Solo se informará este campo cuando en el campo “CLAVE DE VALOR”, posición 81, se haya consignado “A”, “B” o “C”. Se subdivide en dos campos: Se subdivide en dos campos: 130-139 Parte entera de los valores. Si no tiene contenido, se configurará a ceros. 140-145 Parte decimal de los valores. Si no tiene contenido, se configurará a ceros. |
-| 146-161 | Numérico. | Nominal de los valores Cuando se consigne la clave «A» en el campo “CLAVE DE VALOR” (posición 81 del registro de tipo 2, registro de declarado), se consignará el nominal unitario de las acciones o participaciones en el capital social o en los fondos propios de entidades jurídicas negociadas en mercados organizados correspondiente al declarado. |
-| 162-500 | ‒ | BLANCOS. |
+| 146-163 | Numérico. | Nominal unitario de los valores Cuando se consigne la clave «A» en el campo «CLAVE DE VALOR» (posición 81 del registro de tipo 2, registro de declarado), se consignará el nominal unitario de las acciones o participaciones en el capital social o en los fondos propios de entidades jurídicas negociadas en mercados organizados correspondiente al declarado. Este campo se subdivide en dos: 146-159 Parte entera del importe del nominal unitario de la operación. 160-163 Parte decimal del importe del nominal unitario de la operación. |
+| 164-500 | ‒ | BLANCOS. |
 
 *Los campos numéricos que no tengan contenido se rellenarán a ceros.
 
@@ -113,6 +113,10 @@ B. Tipo de registro 2: Registro de declarado
 *Todos los campos numéricos ajustados a la derecha y rellenos de ceros por la izquierda.
 
 *Todos los campos alfanuméricos/alfabéticos ajustados a la izquierda y rellenos de blancos por la derecha, en mayúsculas, sin caracteres especiales y sin vocales acentuadas, excepto que se especifique lo contrario en la descripción del campo.
+
+> Se modifica el campo «nominal de los valores», que ocupa las posiciones 146-163, del registro de tipo 2, por la disposición final 1 de la Orden HFP/115/2022, de 23 de febrero. Ref. BOE-A-2022-2980
+
+> Redactado conforme a las correcciones de errores publicadas en BOE núm. 60, de 11 de marzo de 2022, y BOE núm. 71, de 24 de marzo de 2022. Ref. BOE-A-2022-3810 y Ref. BOE-A-2022-4629
 
 > Se modifica el campo «número de valores», que ocupa las posiciones 130 a 145 y el campo «nominal de los valores», que ocupa las posiciones 146-161, del registro de tipo 2, por el art. 6.2 a 4 de la Orden HFP/1351/2021, de 1 de diciembre. Ref. BOE-A-2021-20004#as-2
 
