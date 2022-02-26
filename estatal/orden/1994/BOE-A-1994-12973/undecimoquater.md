@@ -2,7 +2,7 @@
 
 1. El titular del Servicio de Planificación y Relaciones Institucionales desempeñará la Secretaría Técnica Permanente del Consejo Superior para la Dirección y Coordinación de la Gestión Tributaria, con las funciones que le atribuye el artículo 65.5 de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
 
-2. El Servicio de Planificación y Relaciones Institucionales tendrá a su cargo la coordinación y desarrollo de la planificación de la Agencia Tributaria y de la estrategia de comunicación de la misma; la coordinación de los órganos centrales y territoriales de la Agencia Tributaria en proyectos que afecten a distintas áreas; la coordinación y desarrollo de las relaciones con las administraciones tributarias autonómicas y locales, y, en general, las relaciones institucionales; y aquellas otras funciones que le encomiende la Dirección General.
+2. El Servicio de Planificación y Relaciones Institucionales tendrá a su cargo la coordinación y desarrollo de la planificación de la Agencia Tributaria y de la estrategia de comunicación de la misma; la coordinación de las funciones de información y asistencia no presenciales prestadas por las áreas; la coordinación de los órganos centrales y territoriales de la Agencia en proyectos que afecten a distintas áreas; la coordinación y desarrollo de las relaciones con las administraciones tributarias autonómicas y locales, y, en general, las relaciones institucionales; y aquellas otras funciones que le encomiende la Dirección General.
 
 3. Corresponden al titular del Servicio de Planificación y Relaciones Institucionales las siguientes competencias:
 
@@ -17,6 +17,8 @@ a) Subdirección General de Organización y Coordinación.
 b) Subdirección General de Planificación y Programación.
 
 c) Subdirección General de Comunicación Externa.
+
+> Se modifica por el art. único de la Orden HFP/114/2022, de 22 de febrero. Ref. BOE-A-2022-2979
 
 > Se modifica por el art. único.2 de la Orden HAC/1324/2020, de 30 de octubre. Ref. BOE-A-2021-459
 
