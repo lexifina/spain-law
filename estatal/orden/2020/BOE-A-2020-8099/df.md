@@ -1,6 +1,8 @@
 ## Disposición final única. Efectos.
 
-Esta orden surtirá efectos desde las 24:00 horas del 22 de julio de 2020 hasta las 24:00 horas del 28 de febrero de 2022, sin perjuicio de su eventual modificación para responder a un cambio de circunstancias o a nuevas recomendaciones en el ámbito de la Unión Europea.
+Esta orden surtirá efectos desde las 24:00 horas del 22 de julio de 2020 hasta las 24:00 horas del 31 de marzo de 2022, sin perjuicio de su eventual modificación para responder a un cambio de circunstancias o a nuevas recomendaciones en el ámbito de la Unión Europea.
+
+> Se modifica por el art. único.2 de la Orden INT/120/2022, de 25 de febrero. Ref. BOE-A-2022-3053
 
 > Se modifica por el art. único.1 de la Orden INT/35/2022, de 26 de enero. Ref. BOE-A-2022-1273
 
