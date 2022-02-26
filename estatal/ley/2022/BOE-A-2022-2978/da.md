@@ -1,0 +1,5 @@
+## Disposición adicional primera. Centros universitarios de la Defensa, de la Guardia Civil y de la Policía Nacional.
+
+Esta ley se aplicará al estudiantado que curse sus enseñanzas en el sistema de centros universitarios de la Defensa y de la Guardia Civil, regulados, respectivamente, por el Real Decreto 1723/2008, de 24 de octubre, por el que se crea el sistema de centros universitarios de la defensa, y el Real Decreto 1959/2009, de 18 de diciembre, por el que se crea el Centro Universitario de la Guardia Civil, en todo aquello que sea compatible con la condición de militar, y especialmente en las infracciones de carácter académico no incluidas en los regímenes jurídicos que rigen para las Fuerzas Armadas y la Guardia Civil.
+
+Asimismo, la presente ley será de aplicación al estudiantado que curse sus enseñanzas en el Centro Universitario de Formación de la Policía Nacional, en todo aquello que sea compatible con la condición de instituto armado de naturaleza civil, y especialmente en las infracciones de carácter académico no incluidas en su régimen jurídico.

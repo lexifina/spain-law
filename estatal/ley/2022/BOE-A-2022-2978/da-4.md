@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Aprobación de las Normas de Convivencia y de las medidas de prevención y respuesta frente a la violencia, la discriminación o el acoso.
+
+En el plazo máximo de un año a contar desde la entrada en vigor de esta ley y en los términos de lo dispuesto por los artículos 3 y 4, las universidades públicas y privadas aprobarán sus Normas de Convivencia, que incluirán las medidas de prevención y respuesta frente a la violencia, la discriminación o el acoso. Las universidades podrán incorporar a dichas Normas de Convivencia aquellas medidas de análoga naturaleza que tuvieran vigentes, en todo caso ajustándolas a lo dispuesto por esta ley.
