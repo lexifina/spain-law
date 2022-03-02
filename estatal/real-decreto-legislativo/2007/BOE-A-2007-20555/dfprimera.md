@@ -8,4 +8,10 @@
 
 4. El resto de los preceptos del título II del libro primero serán de aplicación a las asociaciones de consumidores y usuarios de competencia estatal.
 
+> Se modifica el apartado 2 por el art. 2 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198
+
+> Se modifica el apartado 2 por el art. 83 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+
+> Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+
 > Se modifica el apartado 2 por el art. 2 del Real Decreto-ley 1/2021, de 19 de enero. Ref. BOE-A-2021-793#as

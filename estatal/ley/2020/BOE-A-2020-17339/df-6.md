@@ -35,3 +35,5 @@ Cuatro. Se modifica el primer párrafo del artículo 310, que queda redactado co
 La tarifa de utilización del agua se pondrá al cobro dentro del primer semestre natural del ejercicio siguiente a aquel en el que sea de aplicación.»
 
 El resto del artículo permanece con la misma redacción.
+
+> Véase la disposición final 5 de la Ley 4/2022, de 25 de febrero de 2022, en cuanto a la habilitación para efectuar las modificaciones de estos preceptos mediante disposición con rango de real decreto. Ref. BOE-A-2022-3198#df-5
