@@ -8,7 +8,7 @@ b) Presidir, allí donde exista, el Consejo Territorial de Dirección para la Ge
 
 c) Dirigir, coordinar y controlar a todas las Dependencias Regionales y Servicios existentes en la Delegación Especial; así como ejercer la jefatura orgánica y funcional de las Delegaciones de la Agencia Tributaria de su ámbito territorial. En el ejercicio de esta competencia, los Delegados Especiales podrán proponer al Director General de la Agencia Tributaria la ubicación que se considere más conveniente, atendiendo a criterios de eficacia y eficiencia, de los órganos y unidades administrativas de las respectivas Dependencias Regionales.
 
-d) Ejercer la dirección, impulso y coordinación de las Administraciones de la Agencia Tributaria y de las Administraciones de Aduanas e Impuestos Especiales.
+d) Ejercer la dirección e impulso de las Administraciones de asistencia Digital Integral conforme a las directrices y criterios de actuación establecidos por los Departamentos en el ámbito de sus competencias de acuerdo con las funciones ejercidas por la Unidad Nacional de Coordinación de Asistencia Digital.
 
 e) Ejercer la dirección e impulso de las Administraciones de asistencia Digital Integral conforme a las directrices y criterios de actuación establecidos por los Departamentos en el ámbito de sus competencias.
 
@@ -51,3 +51,5 @@ En las reuniones de la Junta Regional de Jefes actuará como Secretario quien de
 4. En los casos de ausencia, vacante o enfermedad los Delegados Especiales serán sustituidos, salvo que la Dirección General de la Agencia Tributaria disponga otra cosa, de acuerdo con el siguiente orden: Delegados Especiales Adjuntos y Jefes de las Dependencias Regionales, en el orden en el que se relacionan en el número 3 del apartado cuarto.
 
 5. De conformidad con la Orden de 2 de junio de 1994, por la que se desarrolla la estructura de la Agencia Estatal de Administración Tributaria, los Delegados Especiales forman parte del Comité de Coordinación de la Dirección Territorial de la Agencia Tributaria. Asistirán, asimismo, a las reuniones del Comité Permanente de Dirección, los Delegados Especiales que por indicación del Presidente o del Director General de la Agencia Tributaria se considere pertinente.
+
+> Se modifica la letra d) del punto 1 por la disposición final 1.2 de la Resolución de 28 de febrero de 2022. Ref. BOE-A-2022-3293#df

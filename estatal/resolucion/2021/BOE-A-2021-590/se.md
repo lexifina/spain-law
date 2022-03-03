@@ -33,3 +33,19 @@ e) Subdirección General de Asistencia Jurídica y Coordinación Normativa.
 5. La Subdirección General de Información y Asistencia Tributaria será la responsable de difundir los criterios interpretativos emitidos por los distintos órganos de la Agencia Estatal de Administración Tributaria, con la finalidad de homogeneizar, trasladar y dar seguridad en el criterio interpretativo a seguir en la aplicación del sistema tributario estatal. Todo ello sin perjuicio de las competencias interpretativas atribuidas a la Dirección General de Tributos y a los órganos de las Comunidades Autónomas
 
 La Unidad Central de Información y Asistencia Digital dependerá de la Subdirección General de Información y Asistencia Tributaria.
+
+6. La Subdirección General de Técnica Tributaria contará con una Área de Declaraciones Informativas, a la que le corresponderá el ejercicio de las siguientes funciones:
+
+a) La elaboración de proyectos de disposiciones sobre los modelos y procedimientos de presentación de las declaraciones que instrumenten obligaciones de información.
+
+b) El estudio y diseño de los modelos y de las especificaciones técnicas que se requieren para habilitar la presentación de las declaraciones que instrumenten obligaciones de información, en colaboración con el Departamento de Informática Tributaria.
+
+c) La revisión periódica del diseño de las obligaciones de información, así como la propuesta de las actualizaciones, normativas o técnicas, que resulten necesarias.
+
+d) La difusión general de las características y condiciones de cumplimiento de las distintas obligaciones de información, con el fin de facilitar su conocimiento por parte de los obligados tributarios.
+
+e) Tramitación de las instrucciones generales sobre actuaciones prioritarias en la mejora de la calidad de la información.
+
+El Área de Declaraciones Informativas estará dirigida por un Jefe, Inspector de Hacienda, conforme a los criterios que se determinen, y podrá estar integrada, en su caso, por un adjunto al Jefe de Área, por otros Inspectores de Hacienda, por Técnicos de Hacienda, Agentes de la Hacienda Pública y demás personal que en cada momento se determine.
+
+> Se añade el punto 6 por la disposición final 2.1 de la Resolución de 28 de febrero de 2022. Ref. BOE-A-2022-3293#df-2
