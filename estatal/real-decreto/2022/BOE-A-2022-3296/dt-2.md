@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Aplicabilidad del Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
+
+El Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional, se aplicará a los cursos segundo, cuarto y sexto de Educación Primaria, durante el año académico 2022-2023.
