@@ -184,13 +184,13 @@
 | --- | --- |
 |  |  |
 
-4.1 a) Prioridades para la elección de fruta, verdura y leche suministrada/distribuida.
+4.1 a) Prioridades para la elección de frutas y hortalizas y leche suministradas/distribuidas.
 
 |  | Sí/No | Comentarios |
 | --- | --- | --- |
-| Local o regional. |  |  |
+| Productos de proximidad. |  |  |
 | Ecológico. |  |  |
-| Cadenas de distribución cortas. |  |  |
+| Cadenas de distribución corta. |  |  |
 | Esquemas de calidad. |  |  |
 | Comercio justo. |  |  |
 | Otros: especificar en comentarios. |  |  |
@@ -337,5 +337,9 @@
 | Agente. |  |  |  |  |  |  |
 | Otros. | Autoridad. |  |  |  |  |  |  |
 | Agente. |  |  |  |  |  | » |
+
+> Se modifica el punto 4.1.a) por el art. único.12 del Real Decreto 110/2022, de 8 de febrero. Ref. BOE-A-2022-3676
+
+> Esta modificación será de aplicación a partir del curso escolar 2022/2023, según establece la disposición final única del citado Real Decreto.
 
 > Se modifica, con efectos de 1 de julio de 2019, por el art. único.12 del Real Decreto 77/2019, de 22 de febrero. Ref. BOE-A-2019-3909

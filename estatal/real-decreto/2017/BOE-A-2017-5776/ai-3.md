@@ -1,10 +1,10 @@
 ## ANEXO III
 
-## Contenido mínimo de los compromisos de los solicitantes de ayuda en el Programa Escolar
+## Contenido mínimo de los compromisos para los centros escolares que actúen como solicitantes de ayuda en el Programa Escolar
 
-Declaración perteneciente a (marcar lo que proceda).
+Declaración perteneciente a (marcar lo que proceda)
 
-| Proveedor de productos/servicios |  |
+| Comunidad autónoma |  |
 | --- | --- |
 | Centro escolar |  |
 | Nombre o razón social del solicitante | NIF |
@@ -17,40 +17,38 @@ Declaración perteneciente a (marcar lo que proceda).
 
 EXPONE QUE SE COMPROMETE A:
 
-1. Garantizar que los productos financiados por la Unión Europea en virtud del Programa escolar estén disponibles para el consumo por los alumnos del centro o centros de enseñanza para los que solicitarán la ayuda.
+1. Garantizar que los productos financiados por la Unión Europea en virtud del Programa escolar estén disponibles para el consumo por los alumnos del centro de enseñanza para los que solicitarán la ayuda.
 
-2. Reintegrar toda ayuda abonada de forma indebida por las cantidades que corresponda, si se comprueba que los productos no se han distribuido a los niños o no pueden recibir ayuda de la Unión Europea.
+2. Utilizar las ayudas asignadas para medidas educativas de acompañamiento, y para seguimiento, evaluación y publicidad, de acuerdo con los objetivos del programa escolar, si procede.
 
-3. Poner los documentos justificativos a disposición de las autoridades competentes, cuando éstas lo soliciten.
+3. Reintegrar toda ayuda abonada de forma indebida por las cantidades que corresponda, si se comprueba que los productos no se han distribuido al alumnado, o no pueden recibir ayuda de la Unión Europea.
 
-4. Permitir a la autoridad competente realizar todos los controles necesarios, como la comprobación de los registros y la inspección física.
+4. Poner los documentos justificativos a disposición de las autoridades competentes, cuando éstas lo soliciten.
 
-5. Llevar un registro de los nombres y direcciones de los centros escolares o, en su caso, de las autoridades educativas que los reciban y de los productos y cantidades vendidos o suministrados.
+5. Permitir a la autoridad competente realizar todos los controles necesarios, como la comprobación de los registros y la inspección física.
 
-6. Garantizar que la ayuda de la Unión se refleja en el precio al que se facilitan los productos a los centros escolares.
+6. Llevar un registro de los productos y cantidades vendidos o suministrados en el centro escolar.
 
-7. Respetar en todo caso los límites máximos de sal y grasa añadidos autorizados por la AESAN.
+7. Garantizar que la ayuda de la Unión se refleja en el precio al que se facilitan los productos a los centros escolares.
 
-8. Utilizar la ayuda asignada para medidas educativas de acompañamiento, seguimiento, evaluación y publicidad de acuerdo con los objetivos del programa escolar.
+8. Respetar en todo caso los límites máximos de sal y grasa añadidos autorizados por la AESAN.
 
-9. Reintegrar toda ayuda abonada de forma indebida para medidas educativas de acompañamiento, seguimiento, evaluación y publicidad, si se comprueba que dichas medidas o actividades no se han aplicado de forma correcta.
-
-DECLARA QUE:
-
-Dispone de capacidad y medios suficientes para realizar la distribución con los requisitos fijados por la comunidad autónoma en la que realice la distribución.
+9. Reintegrar toda ayuda abonada de forma indebida para medidas educativas de acompañamiento, así como a las de seguimiento, evaluación y publicidad, si se comprueba que dichas medidas o actividades no se han aplicado de forma correcta.
 
 SOLICITA:
 
-La aprobación para participar en el Programa escolar y realizar la distribución de productos/servicios (táchese lo que no proceda), hasta el punto de entrega establecido por la comunidad autónoma, a los niños de centros escolares del ámbito territorial que corresponda.
+La aprobación para participar en el Programa escolar y realizar la distribución de productos/servicios (táchese lo que no proceda), a los destinatarios correspondientes.
 
-En________________________ a_______ de____________________de 20__
+En________________________ a _______ de____________________ de 20__
 
 EL (1) _________________________
 
-Fdo:_____________________________
+Fdo.: _____________________________
 
 (1) Presidente, director, gerente, etc.
 
-En cumplimiento de lo dispuesto en el artículo 11 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, puede consultar la información adicional y detallada sobre protección de datos en la siguiente dirección de correo electrónico: PlanFrutaEscuelas@mapama.es
+> Se modifica por el art. único.11 del Real Decreto 110/2022, de 8 de febrero. Ref. BOE-A-2022-3676
+
+> Esta modificación será de aplicación a partir del curso escolar 2022/2023, según establece la disposición final única del citado Real Decreto.
 
 > Se modifica, con efectos de 1 de julio de 2019, por el art. único.12 del Real Decreto 77/2019, de 22 de febrero. Ref. BOE-A-2019-3909
