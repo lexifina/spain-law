@@ -1,3 +1,5 @@
 ## Disposición adicional segunda. Imputación de ganancias de patrimonio no justificadas y de rentas presuntas.
 
-La imputación regulada en el apartado 2 del artículo 39 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, y en el apartado 6 del artículo 134 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, establecidos por esta Ley, se realizará al periodo impositivo que proceda según lo señalado en dichos preceptos en el que hubiesen estado en vigor dichos apartados.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.2 de la Ley 5/2022, de 9 de marzo. Ref. BOE-A-2022-3712#dd
