@@ -22,7 +22,7 @@ c) Trabajadores que acrediten treinta y cinco jornadas cotizadas: Duración igua
 
 3. En los supuestos previstos en el apartado anterior, se computarán las fracciones que igualen o superen 0,50 como un día más de derecho.
 
-> Véase el art. 3 de la Ley 8/2020, de 16 de diciembre. Ref. BOE-A-2020-16346#at, en cuanto a la reducción del número mínimo de jornadas reales cotizadas para acceder al subsidio por desempleo a favor de los trabajadores eventuales agrarios residentes en el territorio de las Comunidades Autónomas de Andalucía y Extremadura, para las solicitudes presentadas desde el 27 de febrero hasta el 31 de diciembre de 2020, inclusive, según establece su disposición final 2.
+> Véase el art. 3.3 del Real Decreto-ley 4/2022, de 15 de marzo, Ref. BOE-A-2022-4136#a3, en cuanto a la aplicación de esta disposición para las solicitudes que se presenten en el territorio de las Comunidades Autónomas de Andalucía y Extremadura desde el 17 de marzo de 2022 hasta el 31 de diciembre de 2022.
 
 > Véase el art. 3 de la Ley 8/2020, de 16 de diciembre. Ref. BOE-A-2020-16346#at, en cuanto a la reducción del número mínimo de jornadas reales cotizadas para acceder al subsidio por desempleo a favor de los trabajadores eventuales agrarios residentes en el territorio de las Comunidades Autónomas de Andalucía y Extremadura, para las solicitudes presentadas desde el 27 de febrero hasta el 31 de diciembre de 2020, inclusive, según establece su disposición final 2.
 

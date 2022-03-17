@@ -8,4 +8,6 @@ El rendimiento neto de módulos, así calculado, se tendrá en cuenta para la ap
 
 3. Esta reducción se tendrá en cuenta para cuantificar el rendimiento neto a efectos de los pagos fraccionados correspondientes a 2021.
 
-> Téngase en cuenta, para el cálculo del primer pago fraccionado correspondiente al ejercicio 2021, lo establecido en el art. 9.3 del Real Decreto-ley 35/2020, de 22 de diciembre. Ref. BOE-A-2020-16823#a9
+> Téngase en cuenta que la reducción prevista en esta disposición será del 20 por ciento para las actividades incluidas en el anexo I de esta Orden, según establece el art. 4 del Real Decreto-ley 4/2022, de 15 de marzo. Ref. BOE-A-2022-4136#a4
+
+> Para el cálculo del primer pago fraccionado correspondiente al ejercicio 2021, véase lo establecido en el art. 9.3 del Real Decreto-ley 35/2020, de 22 de diciembre. Ref. BOE-A-2020-16823#a9

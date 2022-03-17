@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Régimen de ejecución de los proyectos piloto de itinerarios de inclusión social del Ministerio de Inclusión, Seguridad Social y Migraciones aprobados por bases reguladoras antes de 31 de diciembre de 2021.
+
+Los contratos temporales vinculados a la ejecución de los proyectos piloto de inclusión social aprobados por Real Decreto 938/2021, de 26 de octubre, por el que se regula la concesión directa de subvenciones del Ministerio de Inclusión, Seguridad Social y Migraciones en el ámbito de la inclusión social, por un importe de 109.787.404 euros, en el marco del Plan de Recuperación, Transformación y Resiliencia, antes del 31 de diciembre de 2021, podrán concertarse por el plazo de ejecución previsto en dichas bases reguladoras.

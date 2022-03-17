@@ -1,5 +1,5 @@
-## Disposición adicional cuarta. Plan de choque de optimización de la desalación para un Mediterráneo sin sed.
+## Disposición adicional cuarta. Plan de choque para la optimización de recursos hídricos en la cuenca mediterránea.
 
-1. El Gobierno, con carácter urgente, aprobará un Plan de choque de optimización de la desalación para un Mediterráneo sin sed que fomentará la utilización de recursos no convencionales por aguas desaladas, priorizando el uso del agua procedente de la desalación ya instalada mediante la ejecución de las obras y actuaciones pendientes y aún no concluidas.
+El Gobierno, con carácter urgente, aprobará un Plan de choque de optimización de recursos hídricos en la cuenca mediterránea que fomentará la utilización de recursos no convencionales, posibilitando el uso del agua procedente de desaladoras o de otras conducciones de la Administración General del Estado ya construidas mediante la ejecución de las obras y actuaciones que posibiliten que el precio del agua para riego no exceda de la capacidad económica de los usuarios.
 
-2. El Gobierno habilitará los mecanismos de subvención necesarios a fin de que el precio del agua desalada para riego no exceda los 0,3 €/m3.
+> Se modifica por la disposición final 5 del Real Decreto-ley 4/2022, de 15 de marzo. Ref. BOE-A-2022-4136#df-5

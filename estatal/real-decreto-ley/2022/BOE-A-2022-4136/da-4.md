@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Acceso a los datos de los expedientes de regulación temporal de empleo por la Tesorería General de la Seguridad Social, el Servicio Público de Empleo Estatal y la Inspección de Trabajo y Seguridad Social.
+
+1. A los efectos previstos en la disposición adicional vigesimosexta del Estatuto de los Trabajadores, las comunidades autónomas podrán remitir la información que obre en su poder directamente a la Tesorería General de la Seguridad Social, al Servicio Público de Empleo Estatal y a la Inspección de Trabajo y Seguridad Social o poner dicha información a disposición del Ministerio de Trabajo y Economía Social, a través de los procedimientos que este departamento determine, para su posterior remisión a la Tesorería General de la Seguridad Social, el Servicio Público de Empleo Estatal y la Inspección de Trabajo y Seguridad Social.
+
+2. La disposición adicional vigesimosexta del Estatuto de los Trabajadores y lo dispuesto en el apartado anterior serán aplicables a los expedientes de aplicación del Mecanismo RED.
