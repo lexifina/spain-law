@@ -1,0 +1,1 @@
+Téngase en cuenta, que quedan suprimidas todas las referencias a la oferta alternativa al precio voluntario para el pequeño consumidor a precio fijo contenidas en la presente norma, por la disposición derogatoria única.2 del Real Decreto 184/2022, de 8 de marzo. Ref. BOE-A-2022-4361#dd
