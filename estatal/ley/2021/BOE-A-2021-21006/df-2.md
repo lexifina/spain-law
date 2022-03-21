@@ -1,0 +1,7 @@
+## Disposición final segunda. Modificación del Texto Refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre.
+
+Se modifica el artículo 77.1.j) del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, en los siguientes términos:
+
+> «j) La colaboración con el Organismo Autónomo Jefatura Central de Tráfico para que este inicie, en su caso, el procedimiento de declaración de pérdida de vigencia del permiso o la licencia de conducción de vehículo a motor por incumplimiento de los requisitos para su otorgamiento cuando, con ocasión de la tramitación de un procedimiento para el reconocimiento de una pensión de incapacidad permanente a un trabajador profesional de la conducción en el dictamen-propuesta emitido por el órgano competente se proponga la declaración de la situación de incapacidad permanente como consecuencia de presentar limitaciones orgánicas y/o funcionales que disminuyan o anulen su capacidad de conducción de vehículos a motor.
+
+> La colaboración se realizará mediante un aviso al citado organismo emitido por la correspondiente Dirección Provincial del Instituto Nacional de la Seguridad Social a propuesta del órgano competente para la emisión del dictamen-propuesta, en el que no se harán constar otros datos relativos a la salud del trabajador afectado.»
