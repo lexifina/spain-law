@@ -2,7 +2,7 @@
 
 1. Se delega en el titular de la Subsecretaría el ejercicio de las siguientes competencias que el ordenamiento jurídico atribuye al titular del Departamento:
 
-A) Nombrar y separar a los titulares de los órganos directivos del Ministerio y de los organismos públicos o entidades de derecho público dependientes del mismo, cuando la competencia no esté atribuida al Consejo de Ministros, a otro órgano o al propio organismo, salvo si se encuentra delegada en el titular de la Secretaría de Estado de Transportes, Movilidad y Agenda Urbana conforme al apartado 2.A) siguiente.
+A) Nombrar y separar a los titulares de los órganos directivos del Ministerio y de los organismos públicos o entidades de derecho público dependientes del mismo, cuando la competencia no esté atribuida al Consejo de Ministros, a otro órgano o al propio organismo, excepto cuando se trate de organismos públicos o entidades de derecho público dependientes de la Secretaría de Estado de Transportes, Movilidad y Agenda Urbana, en cuyo caso no se delega y queda reservada la competencia al titular del Departamento.
 
 B) Fijar los criterios para la distribución del complemento de productividad y asignar dotaciones de dicho complemento por centros directivos y otras unidades en que así proceda.
 
@@ -10,13 +10,9 @@ C) Asignar dotaciones máximas para gratificaciones por servicios extraordinario
 
 D) Resolver los expedientes disciplinarios por faltas muy graves cuando la sanción a imponer sea la separación del servicio.
 
-E) A propuesta del titular de la Secretaría de Estado de Transportes, Movilidad y Agenda Urbana, fijar el complemento de puesto anual y la cuantía máxima de complemento variable anual que deberán asignarse en los contratos de los máximos responsables y directivos de aquellas entidades del sector público institucional estatal, distintas de las sociedades estatales, adscritas al Ministerio de Transportes, Movilidad y Agenda Urbana, de acuerdo con las competencias atribuidas al Ministerio de adscripción en el artículo 7 del Real Decreto 451/2012, de 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades.
+E) Fijar el complemento de puesto anual y la cuantía máxima de complemento variable anual que deberán asignarse en los contratos de los máximos responsables y directivos de aquellas entidades del sector público institucional estatal, distintas de las sociedades estatales, adscritas al Ministerio de Transportes, Movilidad y Agenda Urbana, de acuerdo con las competencias atribuidas al Ministerio de adscripción en el artículo 7 del Real Decreto 451/2012, de 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades.
 
-2. Se delega en el titular de la Secretaría de Estado de Transportes, Movilidad y Agenda Urbana el ejercicio de las siguientes competencias que el ordenamiento jurídico atribuye al titular del Departamento:
-
-A) Nombrar y separar a los titulares de los organismos públicos o entidades de derecho público dependientes de la Secretaría de Estado, cuando la competencia no esté atribuida al Consejo de Ministros, a otro órgano o al propio organismo.
-
-B) La fijación anual de los objetivos, cuya consecución condiciona la percepción del complemento variable de los máximos responsables y directivos de aquellas entidades del sector público institucional estatal, distintas de las sociedades estatales, adscritas al Ministerio de Transportes, Movilidad y Agenda Urbana, de acuerdo con la competencia atribuida al Ministerio de adscripción en el artículo 7 del Real Decreto 451/2012, de 5 de marzo.
+2. (Suprimido).
 
 3. Se delega en el titular de la Dirección General de Organización e Inspección el ejercicio de las competencias que el ordenamiento jurídico atribuye al titular del Departamento en materia de personal y que no se hayan delegado en el titular de la Subsecretaría.
 
@@ -85,3 +81,5 @@ F) En el Capitán Marítimo, cuando se trate de comisiones de servicio en el ter
 G) En el Secretario de la Comisión de investigación de accidentes e incidentes de aviación civil, en el Secretario de la Comisión de investigación de accidentes ferroviarios y en el Secretario de la Comisión permanente de investigación de accidentes e incidentes marítimos, cuando se trate de comisiones de servicio del personal adscrito a las mismas, necesarias para el ejercicio de las funciones de investigación técnica de los respectivos accidentes o incidentes.
 
 H) En los Presidentes o Directores de los Organismos Autónomos, respecto del personal destinado en los respectivos organismos públicos, cuando se trate de comisiones de servicio en el territorio nacional.
+
+> Se modifica el punto 1 y se suprime el 2 por el apartado 1.1 de la Orden TMA/221/2022, de 21 de marzo. Ref. BOE-A-2022-4623

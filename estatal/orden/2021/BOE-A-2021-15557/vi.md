@@ -1,10 +1,6 @@
 ## Vigésimo. Puertos y Marina Mercante.
 
-1. Se delega en el titular de la Secretaría de Estado de Transportes, Movilidad y Agenda Urbana el ejercicio de las siguientes competencias atribuidas al titular del Departamento en el artículo 52 del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante:
-
-A) La aprobación del Marco Estratégico del sistema portuario de interés general.
-
-B) La resolución de la eventual discrepancia entre Puertos del Estado y las Autoridades Portuarias sobre el contenido de los proyectos de Planes Directores de Infraestructuras y de Empresa que elaboren las Autoridades Portuarias, así como de sus posibles modificaciones.
+1. (Suprimido).
 
 2. Se delega en el titular de la Dirección General de la Marina Mercante el ejercicio de la competencia atribuida al titular del Departamento para la aprobación del abanderamiento de buques de procedencia extranjera importados en España, a la que se refiere el artículo 23 del Real Decreto 1027/1989, de 28 de julio, sobre abanderamiento, matriculación de buques y registro marítimo.
 
@@ -35,3 +31,5 @@ b) Las autorizaciones previstas en el artículo 38.1.º del Reglamento de Inspec
 1) Cuando afecte a buques mercantes de pasaje de 12 o más metros de eslora (L) o cualesquiera otros buques de 24 o más metros de eslora (L), siempre que se prolongue apreciablemente la duración en servicio del buque, resulten afectadas las características principales de su maquinaria propulsora o bien se introduzcan transformaciones o reformas o se lleven a cabo grandes reparaciones de similar alcance a las aquí enumeradas.
 
 2) Cuando afecte a buques mercantes de pasaje de menos de 12 metros de eslora (L) o a cualesquiera otros buques de menos de 24 metros de eslora (L), en todos los casos.
+
+> Se suprime el punto 1 por el apartado 1.11 de la Orden TMA/221/2022, de 21 de marzo. Ref. BOE-A-2022-4623

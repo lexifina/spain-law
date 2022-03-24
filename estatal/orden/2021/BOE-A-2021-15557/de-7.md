@@ -1,6 +1,6 @@
 ## Decimoctavo. Infraestructuras y servicios ferroviarios.
 
-1. Se delega en el titular de la Secretaría de Estado de Transportes, Movilidad y Agenda Urbana el ejercicio de las siguientes competencias atribuidas al titular del Departamento en materia de definición de las líneas integrantes de la Red Ferroviaria de Interés General:
+1. Se delega en el titular de la Secretaría General de Infraestructuras el ejercicio de las siguientes competencias atribuidas al titular del Departamento en materia de definición de las líneas integrantes de la Red Ferroviaria de Interés General:
 
 A) Acordar la inclusión en la Red Ferroviaria de Interés General de nuevas infraestructuras ferroviarias, de conformidad con lo establecido en los artículos 4.2 y 5.2 de la Ley 38/2015, de 29 de septiembre, del sector ferroviario y en los artículos 5.1 y 7.1 del Reglamento del Sector Ferroviario, aprobado por Real Decreto 2387/2004, de 30 de diciembre.
 
@@ -8,7 +8,7 @@ B) Acordar la exclusión de la Red Ferroviaria de Interés General de una determ
 
 2. Se delega el ejercicio de las siguientes competencias atribuidas al titular del Departamento en materia de planificación, proyecto y construcción de infraestructuras ferroviarias:
 
-A) En el titular de la Secretaría de Estado de Transportes, Movilidad y Agenda Urbana:
+A) En el titular de la Secretaría General de Infraestructuras:
 
 a) Dictar la resolución que acuerde el establecimiento o, en su caso, la modificación de una línea ferroviaria o de un tramo de línea integrante de la Red Ferroviaria de Interés General, de estaciones de transporte de viajeros y de terminales de transporte de mercancías, de conformidad con lo establecido en el artículo 5.2 de la Ley 38/2015, de 29 de septiembre.
 
@@ -28,7 +28,7 @@ b) Fijar las condiciones para la clausura de elementos de infraestructura distin
 
 3. Se delega el ejercicio de las siguientes competencias atribuidas al titular del Departamento en materia de infraestructuras ferroviarias en puertos de interés general:
 
-A) En el titular de la Secretaría de Estado de Transportes, Movilidad y Agenda Urbana:
+A) En el titular de la Secretaría General de Infraestructuras:
 
 a) Aprobar el establecimiento de una zona de servicio de interés general para el sistema portuario, a propuesta del ente público Puertos del Estado, de conformidad con lo establecido en el artículo 19.3 del Reglamento del Sector Ferroviario.
 
@@ -61,3 +61,5 @@ f) La resolución sobre aceptación y reajuste de garantías.
 g) La autorización de la devolución de garantías, cuando en cada caso proceda, según la legislación vigente.
 
 7. El titular de la Dirección General de Planificación y Evaluación de la Red Ferroviaria delega en los Subdelegados del Gobierno en las provincias de Álava, Guipúzcoa y Vizcaya el ejercicio de las competencias en materia de expropiación forzosa en relación con las obras de construcción de la línea de alta velocidad Vitoria-Bilbao/Irún (nueva red ferroviaria en el País Vasco).
+
+> Se modifican los puntos 1, 2.A) y 3.A) por el apartado 1.10 de la Orden TMA/221/2022, de 21 de marzo. Ref. BOE-A-2022-4623

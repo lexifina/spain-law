@@ -2,7 +2,7 @@
 
 1. Se delega el ejercicio de las siguientes competencias atribuidas al titular del Departamento en materia de planificación, proyecto, construcción y explotación de las carreteras del Estado:
 
-A) En el titular de la Secretaría de Estado de Transportes, Movilidad y Agenda Urbana:
+A) En el titular de la Secretaría General de Infraestructuras:
 
 a) La aprobación de los expedientes de información pública a que se refiere el artículo 12 de la Ley 37/2015, de 29 de septiembre, de Carreteras.
 
@@ -14,7 +14,7 @@ d) La resolución de los expedientes de contratación y el otorgamiento de conce
 
 e) Ejercitar las facultades establecidas en el apartado 3 del artículo 33 de la Ley 37/2015, de 29 de septiembre, en materia de establecimiento de la línea de edificación, así como aprobar los expedientes para el establecimiento de la línea límite de edificación a una distancia inferior a la fijada con carácter general, a los que se refiere el artículo 85.4 del Reglamento General de Carreteras.
 
-f) La resolución de los expedientes de cesión de carreteras del Estado o de tramos determinados de ellas a los respectivos ayuntamientos cuando exista acuerdo entre el órgano cedente y el cesionario, conforme a lo previsto en el artículo 49.1 de la Ley 37/2015, de 29 de septiembre.
+f) La resolución de los expedientes de cesión de carreteras del Estado o de tramos determinados de ellas, o de su viario anexo, a los respectivos ayuntamientos u otras administraciones públicas, cuando exista acuerdo entre el órgano cedente y el cesionario, conforme a lo previsto en los artículos 5 y 49.1 de la Ley 37/2015, de 29 de septiembre.
 
 B) En el Delegado del Gobierno en las Sociedades Concesionarias de Autopistas Nacionales de Peaje, acordar, en casos de urgencia, conforme a lo previsto en el párrafo segundo del artículo 38.2 de la Ley 37/2015, de 29 de septiembre, el desvío del tráfico de los vehículos que se determine por la totalidad o parte de una autopista explotada en régimen de concesión, por un plazo máximo de un mes, y sin perjuicio de la compensación a que pueda tener derecho el concesionario.
 
@@ -24,13 +24,15 @@ C) En el titular de la Dirección General de Carreteras, la modificación de la 
 
 A) En el titular de la Secretaría General de Infraestructuras, las siguientes competencias reguladas en el Real Decreto 635/2006, de 26 de mayo, sobre requisitos mínimos de seguridad en los túneles de carreteras del Estado:
 
-a) Aprobar el proyecto del túnel.
+a) Autorizar las excepciones por técnicas innovadoras o por otras causas.
 
-b) Autorizar la puesta en servicio inicial del túnel.
+b) Aprobar el proyecto del túnel.
 
-c) Aprobar la metodología del análisis de riesgo.
+c) Autorizar la puesta en servicio inicial del túnel.
 
-d) Aprobar las medidas correctoras de los túneles en servicio.
+d) Aprobar la metodología del análisis de riesgo.
+
+e) Aprobar las medidas correctoras de los túneles en servicio.
 
 B) En los titulares de las Subdirecciones Generales de la Dirección General de Carreteras, en el ámbito de sus respectivas competencias:
 
@@ -77,6 +79,8 @@ h) En los expedientes tramitados en el ámbito de su demarcación por el procedi
 i) En aquellos contratos en los que ejerzan las funciones de control y seguimiento de la ejecución, la solicitud de representante de la Intervención General de la Administración del Estado (IGAE) para los actos de comprobación material de la inversión.
 
 j) La autorización de la devolución de garantías correspondientes a anticipos de materiales y maquinaria.
+
+k) La aprobación del programa de trabajos inicial presentado por el contratista y las modificaciones del mismo que se produzcan a lo largo de la ejecución del contrato siempre que no implique modificaciones de plazo y/o reajuste de anualidades.
 
 3. El titular de la Dirección General de Carreteras delega el ejercicio de las siguientes competencias:
 
@@ -141,3 +145,5 @@ e) La autorización de las ocupaciones del dominio público en carreteras de un 
 f) Las resoluciones y actuaciones en el ámbito de su competencia territorial, en el resto de materias de gestión, tutela, protección y defensa del servicio público viario, de la correcta explotación de la carretera o de las zonas de protección de las carreteras de titularidad estatal y su zona de influencia.
 
 g) La emisión de las órdenes de estudio, así como sus modificaciones y anulaciones y la aprobación de los estudios y proyectos que correspondan a actuaciones en las que tienen delegadas las competencias como órgano de contratación, salvo que sean actuaciones que afecten a la estabilidad, seguridad o estanqueidad de la obra.
+
+> Se modifican los puntos 1.A) y 2 por el apartado 1.8 de la Orden TMA/221/2022, de 21 de marzo. Ref. BOE-A-2022-4623
