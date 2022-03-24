@@ -1,0 +1,1 @@
+Téngase en cuenta que este Real Decreto establece la regulación del Bono Cultural Joven únicamente para el año 2022. Véase el Real Decreto 191/2023, de 21 de marzo, por el que se establecen las normas reguladoras del Bono Joven Cultural. Ref. BOE-A-2023-7415
