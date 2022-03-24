@@ -1,0 +1,3 @@
+## Tercero. Valor de la Retribución del coste de contribución al Fondo Nacional de Eficiencia Energética a considerar en el cálculo del PVPC.
+
+El valor de la RFE, regulada en el capítulo IV del Título III de la Ley 18/2014, de 15 de octubre, incluida en el término variable horario de los costes de comercialización (CCVh) a considerar en el cálculo del PVPC, según lo previsto en el artículo 24 del Real Decreto 216/2014, de 28 de marzo, a aplicar desde la fecha de entrada en vigor de la presente propuesta de orden y hasta la fecha en que se apruebe el nuevo valor para el siguiente periodo o, en su caso, hasta la extinción de la obligación de contribución al Fondo Nacional de Eficiencia Energética de los comercializadores de referencia, será de 0,000259789 €/kWh.

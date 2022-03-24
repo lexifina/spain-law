@@ -1,0 +1,7 @@
+## Segundo. Sistema de Certificados de Ahorro Energético.
+
+Dentro del Sistema Nacional de Obligaciones de Eficiencia Energética, y de acuerdo con lo previsto en el artículo 71 de la citada Ley 18/2014, de 15 de octubre, se establece que el cumplimiento de la obligación de ahorro correspondiente al último trimestre de 2022 podrá ser satisfecha mediante la liquidación de Certificados de Ahorro Energético, en las condiciones que reglamentariamente se establezcan.
+
+En caso de no desear acogerse a esta posibilidad o no disponer de Certificados de Ahorro Energético suficientes para satisfacer la cuota de obligación de ahorro correspondiente al citado trimestre, el sujeto obligado deberá realizar la oportuna aportación económica al FNEE a más tardar el 31 de diciembre de 2022. Dicha aportación económica será la resultante de multiplicar la cuota de obligación de ahorro no satisfecha mediante Certificados de Ahorro Energético por la equivalencia financiera establecida en el apartado primero de esta propuesta de orden.
+
+En caso de haber llevado a cabo inversiones en actuaciones de eficiencia energética que, habiendo podido dar lugar a Certificados de Ahorro Energético no se hubieran podido certificar por causas imputables al Sistema, el sujeto obligado deberá de hacer la aportación económica que corresponda al cuarto trimestre para cumplir su obligación. Los certificados correspondientes serán reconocidos para la satisfacción de las obligaciones de ahorro del año 2023.
