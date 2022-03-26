@@ -8,7 +8,7 @@ b) La contracción y recaudación, en vía voluntaria, de la deuda aduanera y de
 
 c) Las actuaciones de vigilancia y control de las mercancías que entren en el territorio aduanero de la Unión, que estén en situación de depósito temporal o sujetas a vigilancia aduanera por estar vinculadas a un régimen aduanero o que se encuentren en los establecimientos aduaneros o fiscales sujetos a su control a los efectos de dar cumplimiento de las misiones de las autoridades aduaneras que se establecen en el artículo 3 del Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013.
 
-d) Las de autorización previstas en la legislación aduanera y que no están atribuidas a otros órganos por la normativa aplicable; así como su reevaluación o reexamen; tramitando, en su caso, los procedimientos para la suspensión, anulación o revocación de aquéllas, así como de las autorizaciones de los regímenes fiscales.
+d) Las de autorización previstas en la legislación aduanera y que no están atribuidas a otros órganos por la normativa aplicable; así como su reevaluación o reexamen; tramitando, en su caso, los procedimientos para la suspensión, invalidación o revocación de aquéllas, así como de las autorizaciones de los regímenes fiscales.
 
 e) La inspección de los tributos, beneficios y restituciones cuya comprobación e investigación esté atribuida o se atribuya por la normativa vigente al Departamento de Aduanas e Impuestos Especiales. El ejercicio de esta función incluirá el desarrollo de los procedimientos de recuperación de ayudas de Estado en supuestos de regularización de los elementos de la obligación tributaria.
 
@@ -20,9 +20,11 @@ h) El desarrollo, en el ámbito regional, de las funciones que se encomienden a 
 
 i) Las de investigación e información relacionadas con las funciones de la Dependencia.
 
-j) La iniciación, instrucción y resolución de los procedimientos derivados del ejercicio de las funciones anteriormente indicadas y de los procedimientos sancionadores que de tales actuaciones se puedan derivar.
+j) Las actuaciones y procedimientos para la gestión del Registro de Operadores de Tabaco Crudo y para el control a los efectos previstos en la disposición adicional primera de la Ley 11/2021 de 9 de julio, de medidas de prevención y lucha contra el fraude fiscal, de transposición de la Directiva (UE) 2016/1164, del Consejo, de 12 de julio de 2016, por la que se establecen normas contra las prácticas de elusión fiscal que inciden directamente en el funcionamiento del mercado interior, de modificación de diversas normas tributarias y en materia de regulación del juego.
 
-k) La iniciación, instrucción y resolución de los expedientes sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo que se pongan de manifiesto como consecuencia de las actuaciones y procedimientos realizados por los órganos, equipos, unidades administrativas o funcionarios que integran los servicios territoriales de Aduanas e Impuestos Especiales en su ámbito territorial.
+k) La iniciación, instrucción y resolución de los procedimientos derivados del ejercicio de las funciones anteriormente indicadas y de los procedimientos sancionadores que de tales actuaciones se puedan derivar.
+
+l) La iniciación, instrucción y resolución de los expedientes sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo que se pongan de manifiesto como consecuencia de las actuaciones y procedimientos realizados por los órganos, equipos, unidades administrativas o funcionarios que integran los servicios territoriales de Aduanas e Impuestos Especiales en su ámbito territorial.
 
 La competencia se extenderá, en su caso, a todos los que hubieran sido parte en la operación de pago de efectivo, aunque no tuvieran esa condición en la actuación o procedimiento que la pone de manifiesto.
 
@@ -43,3 +45,5 @@ e) Área Regional Químico-Tecnológica.
 4. Al frente de cada Área existirá un Adjunto al titular de la Dependencia Regional. No obstante, en función del volumen de tareas y de las necesidades del servicio, un Adjunto podrá ser el titular de varias Áreas.
 
 5. Para el desarrollo de las funciones de su competencia, la Dependencia Regional podrá contar con Equipos y Unidades de Aduanas e Impuestos Especiales y unidades de Vigilancia Aduanera directamente dependientes de su titular o de los titulares de las Áreas o de los demás órganos en ella existentes.
+
+> Se modifica el punto 1 por el apartado único.1 de la Resolución de 21 de marzo de 2022. Ref. BOE-A-2022-4742

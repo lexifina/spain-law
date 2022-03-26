@@ -4,17 +4,17 @@
 
 a) Las propias de las Oficinas Gestoras de Impuestos Especiales radicadas en el ámbito territorial de la Dependencia Regional que no estuviesen atribuidas a la Oficina Nacional de Gestión de Aduanas e Impuestos Especiales.
 
-b) Las de gestión de los demás tributos atribuidos a esta Área Regional.
+b) Las de gestión de los demás tributos atribuidos a esta Área Regional, así como la gestión del Registro de Operadores de Tabaco Crudo y las de control a los efectos previstos en la disposición adicional primera de la Ley 11/2021, de 9 de julio.
 
 c) Las interventoras en relación con las actividades y locales sujetos a este procedimiento de control, incluyendo las de liquidación tributaria en el marco del procedimiento de inspección tributaria.
 
 d) Las de liquidación tributaria en el marco del procedimiento de gestión tributaria que corresponda.
 
-e) El ejercicio de la potestad sancionadora que se pueda derivar de las actuaciones de los procedimientos de intervención y gestión de las letras anteriores.
+e) El ejercicio de la potestad sancionadora que se pueda derivar de las actuaciones de los procedimientos de intervención, gestión y control de las letras anteriores, salvo en relación con los expedientes sancionadores que se deriven del régimen sancionador previsto en la Ley 11/2021, de 9 de julio, que se limita a su iniciación e instrucción.
 
 f) Las de informe que sean exigidas por la normativa vigente o solicitadas por otro órgano de la Administración en relación con los procedimientos de aplicación de los tributos de esta Área.
 
-g) La coordinación y asistencia técnica en relación con las actuaciones de gestión tributaria en materia de impuestos especiales o del resto de impuestos de esta Área Regional cuando fuesen encomendadas por el titular de la Dependencia Regional a las sedes desconcentradas de la misma o a los Inspectores Coordinadores o a los Técnicos Jefes de Gestión de Aduanas e Impuestos Especiales del apartado décimo.3.
+g) La coordinación y asistencia técnica en relación con las actuaciones de gestión tributaria en materia de impuestos especiales o del resto de impuestos de esta Área Regional cuando fuesen encomendadas por el titular de la Dependencia Regional a las sedes desconcentradas de la misma o a los Inspectores Regionales adjuntos o a los Técnicos Jefes de Gestión de Aduanas e Impuestos Especiales del apartado décimo.3.
 
 2. El Área de Gestión e Intervención de Impuestos Especiales podrá estar integrada por Equipos y Unidades de Aduanas e Impuestos Especiales, que ejercerán el control de las actividades y locales sometidos a intervención y las funciones de gestión de los tributos de competencia del Departamento de Aduanas e Impuestos Especiales distintos a los que graven operaciones de comercio exterior.
 
@@ -31,3 +31,5 @@ La liquidación tributaria derivada de un procedimiento de gestión tributaria c
 6. Las actividades de Equipos y Unidades de Aduanas e Impuestos Especiales, en el ejercicio de la función de Intervención de Impuestos Especiales, se sujetarán al principio de planificación, que determinará los objetivos concretos de su actuación según la naturaleza, importancia económica y riesgos previsibles en las actividades sometidas a este tipo de control.
 
 7. En los casos de ausencia, vacante o enfermedad del titular del Área, éste será sustituido por quién designe el titular de la Dependencia Regional.
+
+> Se modifica el punto 1 por el apartado único.5 de la Resolución de 21 de marzo de 2022. Ref. BOE-A-2022-4742

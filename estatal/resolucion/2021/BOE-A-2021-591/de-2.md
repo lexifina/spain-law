@@ -28,28 +28,38 @@ En el supuesto de anulaciones, suspensiones o revocaciones derivado de una reval
 
 a) La competencia territorial en los procedimientos de intervención de impuestos especiales se determinará en función de la ubicación del establecimiento sujeto a intervención.
 
-b) La competencia territorial en los procedimientos de gestión tributaria se determinará en función del criterio que resulte de acuerdo con la normativa aplicable o, en defecto de disposición expresa, en función del domicilio fiscal del obligado tributario.
+b) Salvo disposición expresa, la competencia territorial en los procedimientos de gestión tributaria se determinará en función del lugar en el que se encuentre situado el establecimiento o, en su defecto, en función del domicilio fiscal del obligado tributario.
 
-4. En relación con las competencias de los Inspectores Coordinadores o de los Técnicos Jefes de Gestión Aduanera y de Impuestos Especiales, la competencia territorial se determinará en función del domicilio fiscal de los obligados en los procedimientos de su competencia, salvo en relación con:
+c) La competencia territorial en relación con el Registro de Operadores de Tabaco Crudo y las actuaciones relativas a los controles previstos en la disposición adicional primera de la Ley 11/2021, de 9 de julio, se determinará por el lugar donde radique el establecimiento o medio de transporte y, en su defecto, por el domicilio fiscal del obligado. Los procedimientos sancionadores que se deriven del régimen sancionador previsto en la disposición anteriormente citada se iniciarán, instruirán y resolverán por los órganos correspondientes al lugar del descubrimiento de las acciones u omisiones susceptibles de calificarse como infracción administrativa.
 
-a) La vigilancia y el control sobre establecimientos aduaneros a los que se refiere el apartado décimo.1.a), b), c) y d) de esta resolución, que será en función del domicilio de éstos.
+4. En relación con las competencias de las sedes desconcentradas, de los Inspectores Regionales Adjuntos o de los Técnicos Jefes de Gestión Aduanera y de Impuestos Especiales, la competencia territorial se determinará en función del domicilio fiscal de los obligados en los procedimientos de su competencia, salvo en relación con:
 
-b) Las infracciones administrativas de contrabando, que serán según lo previsto en su normativa específica.
+a) La vigilancia y el control sobre establecimientos aduaneros a los que se refiere el apartado décimo.1.a), b), c) y d) de esta resolución, que será en función del domicilio de estos.
 
-c) La supervisión y la comprobación del estado de liquidación de la ultimación de los regímenes aduaneros especiales será el indicado en la autorización.
+b) Las infracciones administrativas de contrabando, que será según lo previsto en su normativa específica.
 
-d) Las competencias de las Administraciones de Aduanas e Impuestos Especiales que correspondan al Inspector Coordinador o al Técnico Jefe de Gestión Aduanera y de Impuestos Especiales, en función de lo indicado en el apartado siguiente.
+c) La supervisión y la comprobación del estado de liquidación de la ultimación de los regímenes aduaneros especiales, que será según lo indicado en la autorización.
+
+d) En el caso de rectificaciones de declaraciones de personas no establecidas en el territorio español y que no estén incluidas en el Censo de Obligados Tributarios, será en función del domicilio fiscal del representante aduanero que presente la declaración y, en ausencia de este último, corresponderá al Área Regional de Gestión Aduanera de la Dependencia Regional de la Delegación Especial de la Agencia Tributaria de Madrid, salvo que fuese de aplicación el criterio previsto en la letra f).
+
+La rectificación de declaraciones H-7, que será en función del domicilio fiscal del declarante.
+
+e) Las competencias de las Administraciones de Aduanas e Impuestos Especiales que correspondan al Inspector Regional Adjunto o al Técnico Jefe de Gestión Aduanera y de Impuestos Especiales, en función de lo indicado en el apartado siguiente.
+
+f) Las rectificaciones de declaraciones en aduanas o de declaraciones de reexportación presentadas ante órganos territoriales de la Dependencia Regional de Aduanas e Impuestos Especiales de Canarias o de las ciudades autónomas de Ceuta y Melilla, que corresponderá al órgano competente de tal Dependencia en función del lugar de presentación de la declaración o de tales ciudades autónomas, respectivamente.
 
 5. En las Administraciones de Aduanas e Impuestos Especiales la competencia se determinará en función:
 
-a) En relación con los procedimientos de control de las declaraciones, en función del lugar de presentación de la declaración sumaria de entrada o salida, de la declaración de depósito temporal, declaración en aduana, declaración de reexportación o notificación de reexportación.
+a) En relación con los procedimientos de control de las declaraciones, en función del lugar de presentación de las mercancías amparadas por dicha declaración sumaria de entrada o salida, por la declaración de depósito temporal, declaración en aduana, declaración de reexportación o notificación de reexportación, sin perjuicio de lo dispuesto en los apartados siguientes.
 
 No obstante, en el caso de las declaraciones en aduana sujetas a control documental sin modificación de los datos declarados y siempre que se pueda conceder el levante, la competencia se extenderá a todo el territorio español, salvo las que amparen mercancías presentadas a despacho aduanero en las Islas Canarias y en las ciudades autónomas de Ceuta y Melilla.
 
-b) En el supuesto de despacho centralizado, la comprobación material de las mercancías se realizará en función del lugar del depósito de éstas.
+b) En el supuesto de despacho centralizado, tanto nacional como europeo, será la propia autorización la que determine el órgano competente en relación con el procedimiento de comprobación de las declaraciones, al que corresponderá también la emisión y la rectificación de los certificados de origen. No obstante, la comprobación material de las mercancías, el procedimiento de intervención de mercancías previsto en el Reglamento (UE) n.º 608/2013 del Parlamento Europeo y del Consejo, de 12 de junio de 2013, relativo a la vigilancia por parte de las autoridades aduaneras del respeto de los derechos de propiedad intelectual y por el que se deroga el Reglamento (CE) n.º 1383/2003 del Consejo, y el de rectificación de las declaraciones en aduana y de las declaraciones de reexportación en los supuestos previstos en el apartado undécimo.1.d), se realizará en función del lugar de ubicación de aquellas.
 
 c) La competencia para la vigilancia y control de las mercancías se determinará en función de la adscripción del establecimiento habilitado para su depósito o almacenamiento.
 
 d) La competencia para la comprobación de la ultimación del régimen de tránsito se determinará en función del lugar de presentación de la declaración en aduana de la vinculación de la mercancía a este régimen.
+
+> Se modifican los puntos 3, 4 y 5.a) y b) por el apartado único.13 a 16 de la Resolución de 21 de marzo de 2022. Ref. BOE-A-2022-4742
 
 > Se modifica el apartado 5.b) por la disposición final 1.4 de la Resolución de 25 de febrero de 2021. Ref. BOE-A-2021-3306

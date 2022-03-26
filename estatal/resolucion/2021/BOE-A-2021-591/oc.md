@@ -14,6 +14,8 @@ e) La coordinación y gestión de los medios aéreos, navales, terrestres, de ra
 
 f) La coordinación de las unidades combinadas, unidades operativas y bases marítimas de Vigilancia Aduanera radicadas en el ámbito territorial de la Delegación Especial. No obstante, cuando la dirección, coordinación y gestión de los medios asignados a una o varias Dependencias Regionales se lleven a cabo directamente por la Subdirección General de Logística o por la Subdirección General de Operaciones, conforme a las letras d) y e), serán éstas las que coordinen las unidades combinadas, unidades operativas y bases marítimas de las mismas.
 
+g) La colaboración con el Área Regional de Gestión e Intervención de Impuestos Especiales en el control de las obligaciones de los operadores y transportistas de tabaco crudo previstas en la disposición adicional primera de la Ley 11/2021, de 9 de julio.
+
 2. En el ámbito de la función de investigación de Vigilancia Aduanera, ésta podrá desarrollarse, bajo la dependencia del Jefe del Área Regional de Vigilancia Aduanera, Jefe de la Unidad Regional Operativa, Jefe de Unidad Combinada o Jefe de Unidad Operativa, a través de unidades funcionales de rango inferior a las citadas.
 
 3. Las Dependencias Regionales de Aduanas e Impuestos Especiales que tengan asignados medios navales dispondrán de bases marítimas para el estacionamiento y custodia de los mismos, así como de los equipos y pertrechos de las naves y de sus tripulaciones.
@@ -30,6 +32,8 @@ c) Acordar, con carácter indefinido o temporal, la colaboración de funcionario
 
 6. Cuando por motivos operativos sea aconsejable la realización de actuaciones de Vigilancia Aduanera fuera del ámbito territorial de la Dependencia Regional, la actuación deberá autorizarse por el Departamento de Aduanas e Impuestos Especiales.
 
-7. Cuando las funciones anteriores se desarrollen en relación con mercancías sujetas a vigilancia aduanera o en establecimientos aduaneros cuyo control corresponde a una sede desconcentrada de la Dependencia Regional o Administración de Aduanas e Impuestos Especiales, aquéllas se realizarán bajo la dirección funcional de los titulares de tales órganos o del titular del equipo o unidad competente o del Inspector Coordinador o Técnico Jefe del apartado décimo.3 manteniendo, en todo caso, su dependencia orgánica del titular de este Área Regional, incluso aunque dichas funciones constituyan la actividad principal de los funcionarios de Vigilancia Aduanera que las lleven a cabo.
+7. Cuando las funciones anteriores se desarrollen en relación con mercancías sujetas a vigilancia aduanera o en establecimientos aduaneros cuyo control corresponde a una sede desconcentrada de la Dependencia Regional o Administración de Aduanas e Impuestos Especiales, aquéllas se realizarán bajo la dirección funcional de los titulares de tales órganos o del titular del equipo o unidad competente o del Inspector Regional adjunto o Técnico Jefe del apartado décimo.3 manteniendo, en todo caso, su dependencia orgánica del titular de este Área Regional, incluso aunque dichas funciones constituyan la actividad principal de los funcionarios de Vigilancia Aduanera que las lleven a cabo.
 
 8. En los casos de ausencia, vacante o enfermedad del titular del Área Regional de Vigilancia Aduanera, será sustituido por el Jefe de la Unidad Regional Operativa o, en su defecto, por quién designe el titular de la Dependencia Regional.
+
+> Se añade la letra g) al punto 1 y se modifica el punto 7 por el apartado único.6 y 7 de la Resolución de 21 de marzo de 2022. Ref. BOE-A-2022-4742
