@@ -32,7 +32,7 @@ n) La Dirección General de Derechos de los Animales.
 
 ñ) La Dirección General de Migraciones.
 
-o) Dirección General de Programas de Protección Internacional y Atención Humanitaria.
+o) Dirección General de Atención Humanitaria e Inclusión Social de la Inmigración.
 
 p) La Dirección General para la Igualdad de trato y Diversidad Étnico Racial.
 
@@ -50,6 +50,8 @@ v) La Dirección General de Digitalización e Inteligencia Artificial.
 
 w) La Dirección General de Derechos de las Personas con Discapacidad.
 
+x) Dirección General de Gestión del Sistema de Acogida de Protección Internacional y Temporal.
+
 2. De conformidad con lo previsto en el segundo párrafo del artículo 100.1 en relación con el artículo 66.2 de la Ley 40/2015, de 1 de octubre, no será preciso que las personas titulares de los máximos órganos de dirección de los organismos autónomos y entidad gestora de la Seguridad Social que se relacionan a continuación, ostenten la condición de funcionario, en atención a sus características específicas:
 
 a) Dirección General del Instituto de Turismo de España (TURESPAÑA) (O.A.).
@@ -65,6 +67,8 @@ e) Dirección General del Instituto de la Juventud.
 f) Dirección General del Instituto para la Transición Justa.
 
 g) La Dirección General de Deportes del Consejo Superior de Deportes.
+
+> Se modifica el apartado 1.o) y se añade la x) por el art. 1.3 y 4 del Real Decreto 216/2022, de 29 de marzo de 2022. Ref. BOE-A-2022-4974
 
 > Se añaden los apartados 1.m) y 2.e) por el art. único del Real Decreto 125/2022, de 15 de febrero. Ref. BOE-A-2022-2461
 
