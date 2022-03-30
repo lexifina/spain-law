@@ -60,7 +60,7 @@ h) Que el deudor cumpla, para solicitar la extensión del aval, con los límites
 
 i) Que el deudor no haya sido condenado mediante sentencia firme por delitos contra la Hacienda Pública y contra la Seguridad Social, ni por delitos de frustración de la ejecución, insolvencia punible o alzamiento en los que uno de los sujetos perjudicados haya sido la Hacienda Pública.
 
-j) Que la facturación, entendida como volumen de operaciones anual declarado o comprobado por la Administración en el modelo fiscal anual correspondiente al Impuesto sobre el Valor Añadido o tributo equivalente, tanto para empresas como para autónomos de Acuerdo con el régimen que se aplique haya caído un mínimo del 30 % en 2020 con respecto a 2019.
+j) (Suprimida)
 
 ## Cuarto bis.
 
@@ -68,14 +68,18 @@ Para aquellas operaciones avaladas en las que concurran las condiciones establec
 
 ## Quinto.
 
-Aquellos deudores que cumplan con los requisitos recogidos en las letras a) hasta i) del apartado anterior, pero cuya facturación, en los términos indicados en la letra j) anterior en 2020 con respecto a 2019 hubiera caído menos de un 30 %, podrán gozar de la ampliación de vencimientos de la financiación con aval público siempre y cuando medie Acuerdo por parte de entidad acreedora concedente de la financiación.
+(Suprimido)
 
 ## Sexto.
 
 Las entidades y los deudores podrán acordar en todo caso la ampliación de los plazos de carencia de la operación, debiendo comunicar la entidad asimismo al ICO, CESCE o CERSA dicha ampliación en la fecha máxima del 1 de junio de 2022.
 
+Para las ampliaciones de vencimientos que se soliciten y otorguen a partir del 31 de marzo de 2022, los autónomos y las pequeñas y medianas empresas pertenecientes a los sectores con CNAE 01, 03, 493 y 494 tendrán derecho a una suspensión de seis meses de las cuotas de amortización del principal de la operación, bien en forma de ampliación del plazo de carencia vigente, bien en forma de carencia adicional si aquel hubiera terminado. Del mismo modo, también tendrán derecho a esta suspensión los autónomos y las pequeñas y medianas empresas de dichos sectores que cumplan con lo dispuesto en el apartado cuarto pero cuyo vencimiento de la operación avalada no sea ampliable por alcanzar los máximos previstos en los Apartados Segundo o Tercero según corresponda.
+
 ## Séptimo.
 
 Las entidades dispondrán de un máximo de cuarenta y cinco días naturales para resolver la solicitud del deudor y en caso de que la solicitud sea estimada, comunicarán al ICO, a CERSA o a CESCE la solicitud de la modificación de los términos del aval. Será posible comunicar al ICO, a CERSA o a CESCE una o varias solicitudes de modificación de los términos del aval hasta el 1 de junio de 2022. Esta comunicación se realizará de Acuerdo con el procedimiento que sea establecido por el ICO, CERSA y CESCE y sea comunicado a las entidades financieras.
+
+> Se suprimen la letra j) del apartado cuarto y el apartado 5 y se modifica el apartado 6 por el Anexo.segundo de la Resolución de 29 de marzo de 2022. Ref. BOE-A-2022-4977
 
 > Se modifica el párrafo primero de los apartados segundo y tercero, se añade el apartado cuarto bis, se elimina la letra g) del apartado cuarto y se modifican los apartados sexto y séptimo por el Anexo II.tercero del Acuerdo del Consejo de Ministros de 30 de noviembre de 2021, publicado por Resolución de 30 de noviembre de 2021. Ref. BOE-A-2021-19802

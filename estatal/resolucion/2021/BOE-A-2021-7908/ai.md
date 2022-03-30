@@ -18,7 +18,7 @@ La entidad financiera comunicará la realización de estas medidas, previo Acuer
 
 Las entidades que se adhieren al Código de Buenas Prácticas se comprometen a adoptar las siguientes medidas sobre las operaciones de financiación recogidas en el artículo 6 del Real Decreto-ley 5/2021, de 12 de marzo:
 
-1. Extender, a solicitud del deudor que cumpla con los requisitos de elegibilidad detallados en el anexo II de este Acuerdo del Consejo de Ministros, el plazo de vencimiento de las operaciones de financiación que han recibido aval público. En el caso de deudores que no cumplieran con el requisito de caída mínima de facturación en 2020 con respecto a 2019, la entidad se compromete a evaluar, a solicitud del deudor, la posibilidad de extender el plazo de las operaciones de financiación que han recibido aval público.
+1. Extender, a solicitud del deudor que cumpla con los requisitos de elegibilidad detallados en el anexo II de este Acuerdo del Consejo de Ministros, el plazo de vencimiento de las operaciones de financiación que han recibido aval público.
 
 2. La entidad acreedora considerará la posibilidad de convertir las operaciones de financiación con aval público en préstamos participativos no convertibles en capital, de Acuerdo con lo que se establece en el anexo III de este Acuerdo del Consejo de Ministros.
 
@@ -26,7 +26,7 @@ Las entidades que se adhieren al Código de Buenas Prácticas se comprometen a a
 
 4. En la aplicación de las medidas recogidas en los tres puntos anteriores, las entidades financieras se comprometen a examinar el conjunto de las exposiciones crediticias del deudor, tanto avaladas como no avaladas, que se hubieran generado entre el 17 de marzo de 2020 y la fecha de publicación del Real Decreto-ley 5/2021, de 12 de marzo. En caso de que se fuera a producir alguna modificación en los términos de las operaciones de financiación avaladas, las entidades tratarán de flexibilizar los términos de las operaciones de financiación no avaladas, con el fin de que la restauración de la posición de solvencia del deudor no descanse exclusivamente en las operaciones de financiación que cuentan con aval público.
 
-5. En el caso en que se implemente alguna de las medidas indicadas en los puntos anteriores, la entidad financiera se compromete a mantener las líneas de circulante que tenía concedidas al deudor beneficiario de las medidas, como mínimo, hasta el 30 de junio de 2023.
+5. (Suprimido)
 
 6. Las entidades no podrán condicionar la concesión de ninguna de las medidas contenidas en este Código de Buenas Prácticas a la comercialización de otros productos.
 
@@ -59,5 +59,11 @@ Para que las medidas previstas en los anexos III y IV sean efectivas, todas las 
 Las comunicaciones de las medidas previstas en los anexos III y IV que sean acordadas en el marco del Acuerdo de renegociación, se realizarán por cada entidad participante en dicho Acuerdo de renegociación a ICO, CESCE o CERSA, según proceda. Para que se considere correctamente realizada, es necesario que todas las entidades hayan efectuado la comunicación para todas sus operaciones con aval público sujetas al Acuerdo de renegociación. Las comunicaciones de las medidas previstas en el anexo II se realizarán por cada entidad respecto de las operaciones avaladas que tenga el cliente con la entidad.
 
 La entidad con mayor posición global de deuda con aval público deberá conservar la información y documentación sobre todos los elementos exigibles y que conformen el Acuerdo de renegociación de la deuda financiera con avales públicos para cada una de las operaciones avaladas que tenga el cliente con todas las entidades intervinientes en la renegociación.
+
+## Quinto.
+
+Las entidades financieras se comprometen a mantener al menos hasta el 30 de septiembre de 2022 los límites y las condiciones de las líneas de circulante concedidas a todos los clientes y, en particular, a aquellos cuyas operaciones de financiación estén recogidas en el artículo 6 del Real Decreto-ley 5/2021, de 12 de marzo. En el caso en que se implemente alguna de las medidas indicadas en el apartado Tercero, la entidad financiera se compromete a mantener las líneas de circulante que tenía concedidas al deudor beneficiario de las medidas, como mínimo, hasta el 30 de junio de 2023.
+
+> Se modifica el punto 1 y se suprime el 5 del apartado tercero y se añade un apartado 5 por el Anexo.primero de la Resolución de 29 de marzo de 2022. Ref. BOE-A-2022-4977
 
 > Se modifican los apartados segundo y el número 5 del apartado tercero por el Anexo II.segundo del Acuerdo del Consejo de Ministros de 30 de noviembre de 2021, publicado por Resolución de 30 de noviembre de 2021. Ref. BOE-A-2021-19802
