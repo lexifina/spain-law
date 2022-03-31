@@ -1,0 +1,1 @@
+Norma derogada, en todo lo que se refiera a la Educación Secundaria Obligatoria y, en particular, su capítulo II, con efectos de 31 de marzo de 2022, según establece la disposición derogatoria única.1 del Real Decreto 217/2022, de 29 de marzo de 2022. Ref. BOE-A-2022-4975#dd
