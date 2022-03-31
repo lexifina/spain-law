@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Adaptaciones normativas sobre trabajadores por cuenta propia o autónomos.
+
+Con el fin de facilitar el establecimiento de un nuevo sistema de cotización para los trabajadores por cuenta propia o autónomos, en función de los rendimientos obtenidos por su actividad económica o profesional, el Gobierno procederá a efectuar las adaptaciones que resulten precisas en el Reglamento General sobre Inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, aprobado por el Real Decreto 84/1996, de 26 de enero y en el Reglamento General sobre cotización y liquidación de otros derechos de la Seguridad Social, aprobado por el Real Decreto 2064/1995, de 22 de diciembre.
