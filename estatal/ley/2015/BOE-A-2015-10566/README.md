@@ -250,6 +250,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional vigesimoséptima](da-5.md)
 - [Disposición adicional vigesimoctava](da-7.md)
 - [Disposición adicional vigesimonovena](da-8.md)
+- [Disposición adicional trigésima](da-6.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición transitoria tercera](dttercera.md)

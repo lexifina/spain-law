@@ -24,6 +24,10 @@ ii) Los productos o desechos radiactivos.
 
 9. "Residuo radiactivo" es cualquier material o producto de desecho, para el cual no está previsto ningún uso, que contiene o está contaminado con radionucleidos en concentraciones o niveles de actividad superiores a los establecidos por el Ministerio de Industria y Energía, previo informe del Consejo de Seguridad Nuclear.
 
+9 bis. "Suelo o terreno contaminado radiológicamente" es aquel que contiene o está contaminado con radionucleidos en una concentración tal que su utilización comporte un riesgo radiológico inaceptable para la salud humana o el medio ambiente y así se haya declarado mediante resolución por el Ministerio para la Transición Ecológica y el Reto Demográfico, previo informe del Consejo de Seguridad Nuclear.
+
+9 ter. "Suelo o terreno con restricciones de uso" es aquel que contiene o está contaminado con radionucleidos en una concentración tal que no impida su utilización para determinadas actividades. La limitación de uso del terreno a estas actividades se debe haber declarado mediante resolución por el Ministerio para la Transición Ecológica y el Reto Demográfico, previo informe del Consejo de Seguridad Nuclear.
+
 10.«Reactor nuclear» es cualquier estructura que contenga combustibles nucleares dispuestos de tal modo que dentro de ella pueda tener lugar un proceso automantenido de fisión nuclear sin necesidad de una fuente adicional de neutrones.
 
 11.«Central nuclear» es cualquier instalación fija para la producción de energía mediante un reactor nuclear.
@@ -75,6 +79,8 @@ iii) La pérdida de vidas humanas, las lesiones corporales y los daños y perjui
 19.«Buque de guerra» es todo buque que pertenezca a las fuerzas navales de un Estado y lleve los signos exteriores que caracterizan a los buques de guerra de su nacionalidad, que esté bajo el mando de un Oficial debidamente autorizado por el Gobierno de dicho Estado y cuyo nombre figure en el Escalafón de la Marina y cuya tripulación se halle bajo la disciplina naval militar.
 
 20.«Aeronave militar» es toda aeronave que tenga como misión la defensa nacional o esté mandada por un militar comisionado al efecto.
+
+> Se añaden los apartados 9.bis y 9.ter por la disposición final 1.1 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df
 
 > Se modifica el apartado 14, se renumera el 16 como 16 bis y se añade el apartado 16 por la disposición adicional 3.1 de la Ley 12/2011, de 27 de mayo. Ref. BOE-A-2011-9279.
 

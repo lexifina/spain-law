@@ -26,6 +26,8 @@ a) Son infracciones muy graves:
 
 10. El abandono o la liberación de materiales radiactivos, cualquiera que sea su estado físico o formulación química, a la atmósfera, agua, suelo o subsuelo, cuando por la magnitud y características de los mismos, se derive un peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
 
+10 bis. El incumplimiento por los titulares de las actividades o por los propietarios de los suelos o terrenos de las obligaciones de notificación, registro y restauración ambiental previstas en esta ley en relación con los suelos o terrenos contaminados, o con restricciones de uso, o potencialmente contaminados radiológicamente, cuando se derive un peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
+
 11. La adición deliberada de material radiactivo en la producción de alimentos, juguetes, adornos personales y cosméticos, cuando se derive peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
 
 12. El suministro o transferencia de materiales radiactivos a personas o entidades que no dispongan de la autorización requerida para su posesión y uso o sin que esas sustancias o materiales cumplan los requisitos establecidos sobre identificación y marcado, cuando se derive peligro grave para la seguridad o salud de las personas o daño grave a las cosas o al medio ambiente.
@@ -81,6 +83,8 @@ c) Son infracciones leves:
 4. No suministrar a los trabajadores la formación o información requeridas para que desarrollen su actividad cumpliendo las normas y procedimientos establecidos sobre seguridad nuclear, protección contra las radiaciones ionizantes, protección física o actuación en caso de emergencia, cuando no se derive peligro para la seguridad o salud de las personas, o daño a las cosas o al medio ambiente, o éste sea de escasa trascendencia.
 
 5. El incumplimiento meramente formal de las obligaciones en materia de no proliferación nuclear, siempre que ello no dificulte el cumplimiento de las obligaciones en materia de no proliferación nuclear derivadas de los acuerdos internacionales celebrados por España, así como la pérdida de control de material básico.
+
+> Se añade el 10 bis a la letra a) por la disposición final 1.3 del Real Decreto-ley 6/2022, de 29 de marzo. Ref. BOE-A-2022-4972#df
 
 > Se modifica por la disposición adicional 5 de la Ley 15/1980, de 22 de abril. Ref. BOE-A-1980-8650, en la redacción dada por el art. único.12 de la Ley 33/2007, de 7 de noviembre. Ref. BOE-A-2007-19322
 

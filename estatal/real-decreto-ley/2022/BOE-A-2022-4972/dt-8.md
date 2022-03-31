@@ -1,0 +1,3 @@
+## Disposición transitoria octava. Aplicación de la incorporación del apartado 3 al artículo 62 del Real Decreto-ley 36/2020, de 30 de diciembre, por el que se aprueban medidas urgentes para la modernización de la Administración Pública y para la ejecución del Plan de Recuperación, Transformación y Resiliencia.
+
+A las convocatorias de subvenciones vigentes a la entrada en vigor de este real decreto les serán de aplicación las modificaciones operadas en el apartado tercero del artículo 62 del Real Decreto-ley 36/2020, de 30 de diciembre, por el que se aprueban medidas urgentes para la modernización de la Administración Pública y para la ejecución del Plan de Recuperación, Transformación y Resiliencia.

@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Evaluación de la capacidad de la red de transporte y suspensión de permisos de acceso.
+
+Una vez aprobada la planificación de la red de transporte de energía eléctrica, el gestor de la red de transporte dispondrá de un plazo de dos meses a contar desde el día siguiente al de la publicación en el Boletín Oficial del Estado del Acuerdo de Consejo de Ministros por el que se aprueba la misma para la evaluación de la capacidad de la red y para la remisión del informe a que se hace referencia en el artículo 20 del Real Decreto 1183/2020, de 29 de diciembre.
+
+Durante este plazo, el operador del sistema suspenderá los procedimientos de emisión de permisos de acceso en los nudos de la red de transporte a los que aplique el criterio general recogido en el artículo 7 del mencionado real decreto, y la emisión de informes de aceptabilidad relativos a solicitudes de acceso en los nudos de la red de distribución. Una vez finalizado este plazo, el gestor de la red de transporte analizará tanto las solicitudes como los informes suspendidos atendiendo a las nuevas capacidades calculadas.

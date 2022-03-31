@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Descuentos del bono social de electricidad hasta el 30 de junio de 2022.
+
+Se prorrogan hasta el 30 de junio de 2022 los descuentos del bono social aplicables a los consumidores domésticos de energía eléctrica recogidos en el artículo 6.3 del Real Decreto 897/2017, de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica, establecidos en el artículo 1 del Real Decreto-ley 23/2021, de 26 de octubre, de medidas urgentes en materia de energía para la protección de los consumidores y la introducción de transparencia en los mercados mayorista y minorista de electricidad y gas natural.
