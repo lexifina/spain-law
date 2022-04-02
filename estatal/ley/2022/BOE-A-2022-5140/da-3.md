@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Plan Nacional de Accesibilidad.
+
+El Gobierno deberá aprobar, en el Marco del Plan de Recuperación, Transformación y Resiliencia España Puede y de la Estrategia Española de Discapacidad, el II Plan Nacional de Accesibilidad, con el objetivo de que todas las administraciones públicas, y en el marco de sus competencias, acometan de forma ordenada la transformación de entornos, servicios y productos, para hacerlos plenamente accesibles a todas las personas. Este plan contendrá, de forma transversal, los aspectos referidos a la accesibilidad cognitiva, promoviendo su conocimiento, difusión y aplicación, según lo dispuesto en esta ley, junto con otras accesibilidades.

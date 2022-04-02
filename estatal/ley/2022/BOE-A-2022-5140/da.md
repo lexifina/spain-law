@@ -1,0 +1,3 @@
+## Disposición adicional primera. Estudios específicos sobre accesibilidad cognitiva.
+
+El Gobierno, en el plazo máximo de dos años desde la entrada en vigor de esta ley, deberá realizar los estudios específicos de diagnóstico de la situación de la accesibilidad cognitiva, en los aspectos que se consideren más relevantes de, al menos, cada uno de los ámbitos particulares citados en el artículo 5 del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, en la redacción dada por la modificación introducida por esta norma.

@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Reglamento de condiciones básicas de accesibilidad cognitiva.
+
+El Gobierno, en el plazo de tres años desde la entrada en vigor de esta ley, deberá aprobar un reglamento, mediante real decreto, previa consulta con el Consejo Nacional de la Discapacidad, las comunidades autónomas, las corporaciones locales y los interlocutores sociales, que desarrolle las condiciones básicas de accesibilidad cognitiva, de acuerdo con lo establecido en el artículo 29 bis del Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, en la redacción dada por la modificación introducida por esta norma.

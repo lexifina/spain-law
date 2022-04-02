@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Centro Español de Accesibilidad Cognitiva.
+
+El Centro Español de Accesibilidad Cognitiva se crea en el seno del organismo autónomo Real Patronato sobre Discapacidad, como estructura de él dependiente, concebido como instrumento de la Administración General del Estado para el estudio, la investigación, la generación y transferencia de conocimiento, la formación y cualificación, el registro y la extensión de buenas prácticas, la promoción de normativa técnica, la observación de la realidad y las tendencias, las acciones de prospectiva, el seguimiento y la evaluación, y en general la promoción y fomento de todo lo relativo con la accesibilidad cognitiva en España.
+
+Reglamentariamente se establecerá su régimen de organización y funcionamiento. En todo caso, dicho régimen preverá la participación de la sociedad civil, a través de las organizaciones más representativas de personas con discapacidad y sus familias, con interés directo en la accesibilidad cognitiva.
