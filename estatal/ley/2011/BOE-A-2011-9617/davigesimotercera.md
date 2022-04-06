@@ -6,9 +6,11 @@ Tampoco les resultará de aplicación lo dispuesto en los párrafos primero y se
 
 La excepción expresada en este apartado se aplicará únicamente a las administraciones públicas, organismos públicos, universidades públicas y otras entidades del sector público consideradas agentes de ejecución del Sistema Español de Ciencia, Tecnología e Innovación de acuerdo con el artículo 3.4 de esta ley, que formalicen contratos temporales para la realización de proyectos específicos de investigación científica y técnica.
 
-2. Las entidades a que se refiere el último párrafo del apartado anterior y que no tengan ánimo de lucro, podrán realizar contratos indefinidos, de acuerdo con los principios de igualdad, mérito, capacidad, publicidad y concurrencia, para la ejecución de planes y programas públicos de investigación científica y técnica o de innovación y financiados mediante consignaciones presupuestarias anuales consecuencia de ingresos externos de carácter finalista, de conformidad con lo previsto en la Ley 47/2003, de 26 de noviembre, General Presupuestaria, vinculados a la duración de los correspondientes planes y programas.
+2. (Derogado)
 
-Esta previsión respetará, en todo caso, las medidas relativas a la contratación que establezcan las leyes de presupuestos generales.
+> Se deroga el apartado 2 por la disposición derogatoria única del Real Decreto-ley 8/2022, de 5 de abril de 2022. Ref. BOE-A-2022-5516#dd
+
+> Téngase en cuenta que a los contratos indefinidos celebrado al amparo del apartado 2 les resultará de aplicación, tras la entrada en vigor del citado Real decreto-ley, el régimen previsto en el artículo 23 bis de la presente Ley, según establece la disposición transitoria única.1 del mismo.
 
 > Se modifica por la disposición final 1.3 del Real Decreto-ley 3/2019, de 8 de febrero. Ref. BOE-A-2019-1782#df
 
