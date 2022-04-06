@@ -16,10 +16,16 @@ b) En las personas titulares de la Delegación Central de Grandes Contribuyentes
 
 Para ejercer las competencias recogidas en las letras a) y b) anteriores, será necesario recabar el criterio del acreedor persona titular del crédito concursal y para ejercer la competencia de la letra b), se deberá solicitar autorización previa a la persona titular del Departamento de Recaudación. De las decisiones adoptadas como consecuencia de la delegación contenida en el número 3 de este apartado deberá informarse a la persona titular del Ministerio de Hacienda y Función Pública.
 
-4. Se delega en la persona titular de la Secretaría General Técnica la competencia para la autorización previa de convenios a que se refiere el artículo 50.2.c) de la Ley 40/2015, de 1 de octubre.
+4. Se delega en la persona titular de la Secretaría General Técnica:
+
+a) la competencia para la autorización previa de convenios a que se refiere el artículo 50.2.c) de la Ley 40/2015, de 1 de octubre.
+
+b) la competencia para evacuar el informe previo favorable a que se refiere la disposición adicional vigésimo quinta de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
 
 5. Se delega en la persona titular del Departamento de Gestión Tributaria de la Agencia Estatal de Administración Tributaria el ejercicio de la competencia para autorizar a las cooperativas fiscalmente protegidas la participación, en cuantía superior al 40 por 100, en el capital social de entidades no cooperativas sin perder por ello la condición de cooperativa fiscalmente protegida.
 
 Siempre que se haga uso de la delegación contenida en la presente disposición, deberá indicarse expresamente en la resolución administrativa correspondiente.
 
 La tramitación de los expedientes de concesión de las referidas autorizaciones corresponderá a la Subdirección General de Asistencia Jurídica y Coordinación Normativa del citado Departamento.
+
+> Se modifica el apartado 4 por el apartado primero de la Orden HFP/270/2022, de 1 de abril. Ref. BOE-A-2022-5495
