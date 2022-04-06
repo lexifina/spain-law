@@ -182,10 +182,11 @@
 | 30188 | 5549 | D | T/EG | COMPENSACIÓN PRESTACIONES PAGADAS POR LAS MATEPSS En las EEGG y TGSS, se imputarán los importes satisfechos por las MATEPSS, a beneficiarios de prestaciones de accidentes de trabajo y que son coincidentes durante un período superpuesto con los efectos económicos originados por el reconocimiento de una nueva prestación, a cargo del INSS. Los citados importes se deducirán como descuentos en el documento presupuestario de pago de la nueva prestación y su liquidación se realizará a través de la TGSS, para lo cual deberá expedirse un documento OETC |
 | 30189 | 5549 | D | T/EG | COMPENSACIÓN PRESTACIONES PAGADAS POR ENTIDADES COLABORADORAS En las EEGG y TGSS, se imputarán los importes correspondientes a prestaciones económicas pagadas por las empresas que colaboran voluntariamente en la gestión y que se superponen durante un período determinado con una nueva prestación a cargo del INSS. Los citados importes se deducirán como descuentos en el documento presupuestario de la nueva prestación. |
 | 30190 | 5549 |  | T | RESERVA POR CESE DE ACTIVIDAD DE LOS TRABAJADORES AUTÓNOMOS EN LA TESORERÍA GENERAL DE LA SEGURIDAD SOCIAL En la TGSS, recoge los ingresos efectuados por las MATEPSS en el Banco de España a favor de la TGSS, de acuerdo con el artículo 21.2 b) del Real Decreto 1541/2011, de 31 de octubre. |
+| 30191 | 5549 | D | T | PARTIDAS PENDIENTES DE APLICACIÓN EN TESORERÍAS DE DEUDORES POR PAGO INDEBIDO DE PRESTACIONES S.S. En la TGSS, concepto destinado a recoger aquellas partidas de origen acreedor de deudores por pago indebido de prestaciones de la Seguridad Social que es preciso traspasar a la correspondiente entidad gestora. |
 | 30198 | 5549 | D | T/EG | OTRAS PARTIDAS PENDIENTES DE APLICACIÓN C DE GESTION En la EEGG y TGSS, concepto destinado a recoger aquellas partidas de origen acreedor que puedan estar pendientes de identificación. |
 | 30199 | 5549 | D | T/M | OTRAS PARTIDAS PENDIENTES DE APLICACIÓN TESORERIAS En la TGSS y MATEPSS, concepto destinado a recoger aquellas partidas de origen acreedor que puedan estar pendientes de identificación. |
 | 302 |  |  |  | REINTEGROS DE PRESTACIONES PENDIENTES DE APLICACIÓN |
-| 30210 | 557 | D | T/EG/M | REINTEGROS DE PRESTACIONES PENDIENTES DE APLICACIÓN. En este concepto figurarán las deudas pendientes de cobro en relación con pagos indebidos de prestaciones del sistema. Con cargo a este concepto se efectuará la expedición de documentos KRPG.900. |
+| 30210 | 557 | D | EG/M | REINTEGROS DE PRESTACIONES PENDIENTES DE APLICACIÓN. En este concepto figurarán las deudas pendientes de cobro en relación con pagos indebidos de prestaciones del sistema. Con cargo a este concepto se efectuará la expedición de documentos KRPG.900. |
 | 4 |  |  |  | PARTIDAS PENDIENTES DE APLICACIÓN DE ORIGEN DEUDOR |
 | 401 |  |  |  | PAGOS PENDIENTES DE APLICACIÓN Estos conceptos se reservan a los centros de gestión de la TGSS. |
 | 40105 | 5501 | D | M | OPERACIONES DEUDORAS CON TGSS En las MATEPSS, recoge los movimientos de fondos internos entre éstas y la TGSS, de carácter deudor. |
@@ -255,6 +256,8 @@
 | Código no presupuestario | Definición |
 | --- | --- |
 | 40220 | ANTICIPOS DE DIETAS Y GASTOS DE VIAJE Este concepto recoge los pagos efectuados por fondo de maniobra en concepto de anticipos de dietas y gastos de viaje del personal pendientes de aplicar. Su aplicación se efectuará bien por reintegro o por la imputación presupuestaria de las cantidades anticipadas. |
+
+> Se modifica por el art. único.doce de la Resolución de 23 de marzo de 2022. Ref. BOE-A-2022-5460
 
 > Se modifica por el art. único.7 de la Resolución de 20 de diciembre de 2019. Ref. BOE-A-2020-87
 

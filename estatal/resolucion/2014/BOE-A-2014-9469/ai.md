@@ -182,11 +182,11 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_13226.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_13259.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/81/5460_11385859_2.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_13295.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_13449.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/81/5460_11385859_3.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_13523.png)
 
@@ -231,6 +231,10 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_15035.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_15069.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/81/5460_11385859_1.png)
+
+> Se añade el modelo de Anexo de información adicional y se sustituyen los modelos de los documentos contables PFM.809 y PFML.839 por los que se recogen en el anexo de la Resolución de 23 de marzo de 2022, según establece su art. único.once. Ref. BOE-A-2022-5460
 
 > Se sustituye el modelo del documento OEAD.900 por el que se recoge en el anexo de la Resolución de 20 de diciembre de 2019, según establece su art. único.6. Ref. BOE-A-2020-87
 
