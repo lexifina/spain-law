@@ -1,13 +1,13 @@
 ## ANEJO VI
 
-## Información sobre titulaciones 1
+## Información sobre titulaciones
 
-| Artículo del Reglamento (UE) n.º 575/2013 aplicable a la titulización | < 243(2), 243(4), 244(2), 244(4) > |
+| Artículo del Reglamento (UE) n.º 575/2013 aplicable a la titulización. | < 244(2), 244(3), 245(2), 245(3) > |
 | --- | --- |
-| Opciones de compra a favor del originador incluidas en la transacción | < sí, no > |
-| Tipo de activos subyacentes | (RMBS, CMBS, préstamos a estudiantes, préstamos corporativos, trade finance…) |
-| Divisa de referencia |  |
-| Nocional de la transacción | miles de millones (mm) |
+| Opciones de compra a favor del originador incluidas en la transacción. | < sí, no > |
+| Tipo de activos subyacentes. | (RMBS, CMBS, préstamos a estudiantes, préstamos corporativos, trade finance…) |
+| Divisa de referencia. |  |
+| Nocional de la transacción. | miles de millones (mm) |
 | Exposiciones ponderadas por riesgo (RWA) antes de la titulización | mm |
 | --- | --- |
 | Deducciones de capital antes de la titulización | mm |
@@ -47,4 +47,4 @@
 | Pérdida esperada + Pérdida inesperada (en %) | (EL+UL) / tamaño de la cartera de referencia (%) |
 | % de riesgo transferido según la entidad originadora | % |
 
-1 Se deberá notificar esta información de forma individual para cada una de las titulizaciones mencionadas en la norma 66 y en la disposición transitoria cuarta de esta circular.
+> Se modifica la primera tabla en la forma establecida en el anejo III de la Circular 3/2022, de 30 de marzo, según establece la norma primera.58. Ref. BOE-A-2022-5524#np

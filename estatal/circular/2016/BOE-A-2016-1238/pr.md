@@ -48,6 +48,8 @@ Acrónimos y abreviaturas utilizados en esta circular:
 
 ABE: Autoridad Bancaria Europea.
 
+A-IMD: importe máximo distribuible del colchón de ratio de apalancamiento.
+
 BCE: Banco Central Europeo.
 
 EISM: entidades de importancia sistémica mundial.
@@ -60,9 +62,9 @@ MUS: Mecanismo Único de Supervisión.
 
 OEIS: otras entidades de importancia sistémica.
 
-p.b.: puntos básicos.
+p. b.: puntos básicos.
 
-p.p.: puntos porcentuales.
+p. p.: puntos porcentuales.
 
 UE: Unión Europea.
 
@@ -76,15 +78,21 @@ Reglamento (UE) n.º 1024/2013: Reglamento (UE) n.º 1024/2013 del Consejo, de 1
 
 Reglamento Delegado (UE) n.º 342/2014: Reglamento Delegado (UE) n.º 342/2014 de la Comisión, de 21 de enero de 2014, que completa la Directiva 2002/87/CE del Parlamento Europeo y del Consejo y el Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo en lo que respecta a las normas técnicas de regulación relativas a la aplicación de los métodos de cálculo de los requisitos de adecuación del capital aplicables a los conglomerados financieros.
 
-Reglamento Delegado (UE) n.º 604/2014: Reglamento Delegado (UE) n.º 604/2014, de la Comisión, de 4 de marzo de 2014, por el que se complementa la Directiva 2013/36/UE del Parlamento Europeo y del Consejo en lo que respecta a las normas técnicas de regulación en relación con los criterios cualitativos y los criterios cuantitativos adecuados para determinar las categorías de personal cuyas actividades profesionales tienen una incidencia importante en el perfil de riesgo de una entidad.
-
-Reglamento Delegado (UE) n.º 1152/2014: Reglamento Delegado (UE) n.º 1152/2014 de la Comisión, de 4 de junio de 2014, por el que se completa la Directiva 2013/36/UE del Parlamento Europeo y del Consejo en cuanto a las normas técnicas de regulación relativas a la determinación de la ubicación geográfica de las exposiciones crediticias pertinentes para el cálculo del porcentaje de colchón de capital anticíclico específico de cada entidad.
+Reglamento Delegado (UE) n.º 1152/2014: Reglamento Delegado (UE) n.º 1152/2014 de la Comisión, de 4 de junio de 2014, por el que se completa la Directiva 2013/36/UE del Parlamento Europeo y del Consejo en cuanto a las normas técnicas de regulación relativas a la determinación de la ubicación geográfica de las exposiciones crediticias pertinentes para el cálculo del porcentaje del colchón de capital anticíclico específico de cada entidad.
 
 Reglamento Delegado (UE) n.º 1222/2014: Reglamento Delegado (UE) n.º 1222/2014 de la Comisión, de 8 de octubre de 2014, por el que se completa la Directiva 2013/36/UE del Parlamento Europeo y del Consejo en lo relativo a las normas técnicas de regulación que determinan el método para la identificación de las entidades de importancia sistémica mundial y la definición de las subcategorías de entidades de importancia sistémica mundial.
 
-Reglamento de Ejecución (UE) n.º 680/2014: Reglamento de Ejecución (UE) n.º 680/2014 de la Comisión, de 16 de abril de 2014, por el que se establecen normas técnicas de ejecución en relación con la comunicación de información con fines de supervisión por parte de las entidades, de conformidad con el Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo.
+Reglamento Delegado (UE) n.º 2015/2303: Reglamento Delegado (UE) n.º 2015/2303 de la Comisión, de 28 de julio de 2015, por el que se completa la Directiva 2002/87/CE del Parlamento Europeo y del Consejo a través de normas técnicas de regulación en las que se especifican las definiciones de las concentraciones de riesgos y las operaciones intragrupo y se coordina su supervisión adicional.
 
-Directiva 2013/36/UE: Directiva 2013/36/UE del Parlamento Europeo y del Consejo, de 26 de junio de 2013, relativa al acceso a la actividad de las entidades de crédito y a la supervisión prudencial de las entidades de crédito y las empresas de inversión, por la que se modifica la Directiva 2002/87/CE y se derogan las Directivas 2006/48/CE y 2006/49/CE.
+Reglamento Delegado (UE) n.º 2021/923: Reglamento Delegado (UE) n.º 2021/923 de la Comisión, de 25 de marzo de 2021, por el que se complementa la Directiva 2013/36/UE del Parlamento Europeo y del Consejo en lo que respecta a las normas técnicas de regulación por las que se establecen los criterios de definición de las responsabilidades de dirección, las funciones de control, las unidades de negocio importantes y la incidencia significativa en el perfil de riesgo de una unidad de negocio importante, y se establecen los criterios para determinar los miembros del personal o las categorías de personal cuyas actividades profesionales tienen una incidencia en el perfil de riesgo de la entidad comparable en importancia a la de los miembros del personal o las categorías de personal a que se refiere el artículo 92, apartado 3, de dicha directiva.
+
+Reglamento de Ejecución (UE) n.º 2016/2070: Reglamento (UE) n.º 2016/2070 de la Comisión, de 14 de septiembre de 2016, por el que se establecen normas técnicas de ejecución en relación con las plantillas, definiciones y soluciones informáticas que han de utilizar las entidades al informar a la Autoridad Bancaria Europea y a las autoridades competentes, de conformidad con el artículo 78, apartado 2, de la Directiva 2013/36/UE del Parlamento Europeo y del Consejo.
+
+Reglamento de Ejecución (UE) n.º 2021/451: Reglamento (UE) n.º 2021/451 de la Comisión, de 17 de diciembre de 2020, por el que se establecen normas técnicas de ejecución para la aplicación del Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo en relación con la comunicación de información con fines de supervisión por parte de las entidades, y por el que se deroga el Reglamento de Ejecución (UE) n.º 680/2014.
+
+Reglamento de Ejecución (UE) n.º 2021/453: Reglamento (UE) n.º 2021/453 de la Comisión de 15 de marzo de 2021 por el que se establecen normas técnicas de ejecución orientadas a la aplicación del Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo en lo que respecta a los requisitos específicos de presentación de información por riesgo de mercado.
+
+Directiva 2013/36/UE: Directiva 2013/36/UE del Parlamento Europeo y del Consejo, de 26 de junio de 2013, relativa al acceso a la actividad de las entidades de crédito y a la supervisión prudencial de las entidades de crédito y las empresas de inversión, por la que se modifica la Directiva 2002/87/CE y se derogan las directivas 2006/48/CE y 2006/49/CE.
 
 Ley 35/2003: Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva.
 
@@ -93,6 +101,10 @@ Ley 5/2005: Ley 5/2005, de 22 de abril, de supervisión de los conglomerados fin
 Ley 10/2014: Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito.
 
 Ley 22/2014: Ley 22/2014, de 12 de noviembre, por la que se regulan las entidades de capital-riesgo, otras entidades de inversión colectiva de tipo cerrado y las sociedades gestoras de entidades de inversión colectiva de tipo cerrado, y por la que se modifica la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva.
+
+Ley 11/2015: Ley 11/2015, de 18 de junio, de recuperación y resolución de entidades de crédito y empresas de servicios de inversión.
+
+Ley 39/2015: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
 Real Decreto Legislativo 1/2010: Real Decreto Legislativo 1/2010, de 2 de julio, por el que se aprueba el texto refundido de la Ley de Sociedades de Capital.
 
@@ -109,3 +121,7 @@ Circular del Banco de España 5/2008: Circular 5/2008, de 31 de octubre, del Ban
 Circular del Banco de España 4/2010: Circular 4/2010, de 30 de julio, del Banco de España, a entidades de crédito, sobre agentes de las entidades de crédito y acuerdos celebrados para la prestación habitual de los servicios financieros.
 
 Circular del Banco de España 2/2014: Circular 2/2014, de 31 de enero, del Banco de España, sobre el ejercicio de diversas opciones regulatorias contenidas en el Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo, de 26 de junio de 2013, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012.
+
+> Se modifcan los acrónimos y abreviaturas por la norma primera.1 de la Circular 3/2022, de 30 de marzo. Ref. BOE-A-2022-5524#np
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 156, de 30 de junio de 2022. Ref. BOE-A-2022-10810
