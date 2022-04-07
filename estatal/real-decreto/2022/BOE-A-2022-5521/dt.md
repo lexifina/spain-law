@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Aplicabilidad del Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato.
+
+1. Durante el curso académico 2022-2023, seguirá siendo de aplicación para el segundo curso de Bachillerato lo establecido en el Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato. En todo caso, se tendrá en cuenta que los estándares de aprendizaje evaluables que figuran en los anexos a dicho real decreto tienen carácter meramente orientativo.
+
+2. Asimismo, las pruebas que hasta el inicio del curso 2023-2024 realicen las administraciones educativas para la obtención directa del título de Bachiller se organizarán basándose en la configuración curricular desarrollada a partir del citado real decreto.
