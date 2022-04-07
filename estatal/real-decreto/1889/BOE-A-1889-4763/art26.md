@@ -10,6 +10,8 @@ c) Inscribir la recuperación en el Registro Civil.
 
 2. No podrán recuperar o adquirir, en su caso, la nacionalidad española sin previa habilitación concedida discrecionalmente por el Gobierno, los que se encuentren incursos en cualquiera de los supuestos previstos en el artículo anterior.
 
+> Téngase en cuenta el Convenio de nacionalidad entre el Reino de España y la República Francesa, hecho en Montauban el 15 de marzo de 2021, Ref. BOE-A-2022-4916, así como la Instrucción de 31 de marzo de 2022, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se acuerdan los criterios para la aplicación del Convenio de nacionalidad entre el Reino de España y la República Francesa. Ref. BOE-A-2022-5573
+
 > Se modifica por el art. único de la Ley 36/2002, de 8 de octubre. Ref. BOE-A-2002-19484.
 
 > Se modifica por el art. único de la Ley 29/1995, de 2 de noviembre. Ref. BOE-A-1995-23931.

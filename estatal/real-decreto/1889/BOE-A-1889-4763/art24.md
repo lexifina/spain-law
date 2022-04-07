@@ -10,6 +10,8 @@ La adquisición de la nacionalidad de países iberoamericanos, Andorra, Filipina
 
 4. No se pierde la nacionalidad española, en virtud de lo dispuesto en este precepto, si España se hallare en guerra.
 
+> Téngase en cuenta el Convenio de nacionalidad entre el Reino de España y la República Francesa, hecho en Montauban el 15 de marzo de 2021, Ref. BOE-A-2022-4916, así como la Instrucción de 31 de marzo de 2022, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se acuerdan los criterios para la aplicación del Convenio de nacionalidad entre el Reino de España y la República Francesa. Ref. BOE-A-2022-5573
+
 > Se modifica por el art. único de la Ley 36/2002, de 8 de octubre. Ref. BOE-A-2002-19484.
 
 > Téngase en cuenta para la aplicación del apartado 3 la disposición adicional 2 de la citada Ley.
