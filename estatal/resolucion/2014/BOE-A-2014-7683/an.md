@@ -34,6 +34,8 @@ Capítulo 2.º Introducción/lmportación.
 
 2.6 PreDUA, solicitud de MRN.
 
+2.7 H7 Declaración mercancías sin valor estimable.
+
 Capítulo 3.º Expedición/Exportación.
 
 3.1 Preliminar.
@@ -105,12 +107,6 @@ Capítulo 5.º Vinculación al régimen de depósito aduanero y otros almacenes 
 5.2.2 Instrucciones de casillas.
 
 5.3 Formularios complementarios.
-
-Capítulo 5.º bis. Vinculación al régimen de depósito aduanero y otros almacenes autorizados actualizado al CAU.
-
-5 bis.1. Operaciones que deben formalizarse de acuerdo con las instrucciones del apartado 5 bis.2
-
-5 bis.2. Instrucciones relativas a los datos de la declaración
 
 Capítulo 6.º Presentación de DUAs por transmisión electrónica de datos.
 
@@ -184,7 +180,7 @@ APÉNDICE
 | III | Descripción estados ECS y condiciones para modificar las declaraciones de exportación. |
 | IV | Mercancía para buques y aeronaves. |
 | V | Ventas de pescado extraído por buques nacionales y directamente exportado desde el mismo buque, sin pasar por territorio nacional. |
-| VI | Despacho de mercancías carentes de importancia económica importadas o exportadas por particulares. |
+| VI | (Suprimido) |
 | VII | Utilización de determinadas claves de régimen aduanero. |
 | VIII | Importación en Ceuta y Melilla de mercancía que ha sido previamente objeto de exportación en el resto del territorio nacional. |
 | IX | Simplificaciones previstas para el despacho de Bajo Valor y Pequeños Envíos. |
@@ -308,6 +304,8 @@ RESUMEN DE MODIFICACIONES
 | Actualización referencia legal códigos «C», E02 y 801 a 806. Nuevos códigos: F06, 110, 111, 112, 113, 128, 342 504. |
 | Anexo XV-B |
 | Actualización textos y referencias legales códigos. Nuevos códigos comunitarios: C048, C401 a C405 C691-C692, D017-D018, E020, U065 a U071, IJ092 a U094, Y044, Y047-Y048, Y051 a Y056, Y800, Y910, Y932 a Y936. Nuevos códigos nacionales: 1015, 1117-1118, 1223-1224, 5012, 5013, 9007, 9009 a 9013. Supresión códigos: A024 a A026, C031, C634, U030, Y005 e Y050. |
+
+> Se añade el apartado 2.7 al capítulo 2º por el que figura como anexo 1º de la Resolución de 29 de marzo de 2022, según establece su apartado primero.2.h) y se eliminan el capítulo 5º bis y el apéndice VI por el apartado primero.6 y 11. Ref. BOE-A-2022-5519
 
 > Se añade el capítulo 5.bis, con efectos de 1 de junio de 2020, y un apéndice XVIII por el que figura como anexo 2º y anexo 8º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.4.b) y 12. Ref. BOE-A-2019-12996
 

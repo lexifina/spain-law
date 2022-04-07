@@ -112,7 +112,6 @@
 | 2801 | MADRID AEROPUERTO. |
 | 2803 | BARAJAS POSTALES. |
 | 2841 | MADRID CARRETERA. |
-| 2855 | MADRID DESPACHO CENTRALIZADO. |
 | 2861 | MADRID DOMICILIACIÓN. |
 | 2871 | MADRID FF.CC. |
 | MALAGA. | 2900 | MALAGA DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES. |
@@ -227,5 +226,7 @@
 | 5612 | MELILLA ENVÍOS NACIONALESI. |
 | 5613 | MELILLA POSTALES. |
 | 5641 | MELILLA CARRETERA. |
+
+> Se suprime el código 2855 y la descripción por el apartado primero.16 de la Resolución de 29 de marzo de 2022. Ref. BOE-A-2022-5519
 
 > Se modifica por el apartado primero.17 de la Resolución de 25 de agosto de 2017. Ref. BOE-A-2017-10089

@@ -5,7 +5,6 @@
 | Código | Concepto impositivo | Anterior |
 | --- | --- | --- |
 | A00 | Derechos de aduana sobre los productos industriales. | 51 |
-| A10 | Derechos de aduana sobre los productos agrícolas. | 63 |
 | A20 | Derechos adicionales. | 51 |
 | A30 | Derechos antidumping definitivos. | 61 |
 | A35 | Derechos antidumping provisionales. | 61 |
@@ -100,3 +99,5 @@
 | 4T6 | Picadura para liar a tipo mínimo (ISLT Canarias). |  |
 | 4T7 | Picadura para liar a tipo mínimo negro. |  |
 | 4T8 | Cigarrillos negros. |  |
+
+> Se suprime el código A10 por el apartado primero.21 de la Resolución de 29 de marzo de 2022. Ref. BOE-A-2022-5519

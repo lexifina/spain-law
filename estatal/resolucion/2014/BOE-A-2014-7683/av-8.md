@@ -50,13 +50,16 @@ C. Códigos estadísticos nacionales para determinados movimientos específicos 
 
 Las instrucciones para el uso de estas posiciones se encuentran en el Apéndice VIII y IX de esta Resolución y en las instrucciones para cumplimentar el formulario web de importación para particulares, en la Sede Electrónica de la AEAT.
 
-| 9990 00 01 00 | Importación de envíos «sin valor estimable» que se acojan a la franquicia prevista en el artículo 23 del Reglamento (CE) n.º 1186/2009, cuando el destinatario sea un particular y su valor intrínseco esté entre 22 y 150 € (ver Apéndice IX). |
-| --- | --- |
 | 9990.00.02.00 | Importación en Ceuta y Melilla de mercancía nacional de acuerdo a lo previsto en el Apéndice VIII de esta Resolución. |
+| --- | --- |
 | 9990.00.03.00 | Declaraciones de importación realizadas directamente por particulares (Ver Apéndice XVII). |
 | 9990 00 05 | Envíos de mercancías efectuadas por particulares que no superen los 3000 € (ver Apéndice IX). |
 | 9990 00 06 | Exportaciones de carácter comercial que consistan en muestras sin valor estimable, impresos y objetos de carácter publicitario (ver Apéndice IX). |
 | 9990 00 07 | Suministros de surtidos de mercancías de los capítulos 1 a 24 para embajadas, consulados, Fuerzas Armadas y organismos similares nacionales en terceros países (ver Apéndice IX). |
 | 9990 00 08 | Suministros de surtidos de mercancías de los capítulos restantes para embajadas, consultados, Fuerzas Armadas y organismos similares nacionales en terceros países (ver Apéndice IX). |
+| 9990 10 00 | Importación en Ceuta y Melilla, con declaración H7, de envíos procedentes de la Unión Europea. |
+| 9999 00 00 | Exportación de envíos urgentes de valor inferior a 1000 € (Ver apéndice IX). |
+
+> Se modifica el apartado C por el apartado primero.19 de la Resolución de 29 de marzo de 2022. Ref. BOE-A-2022-5519
 
 > Se corrigen códigos del apartado C por el apartado primero.15 de la Resolución de 2 de septiembre de 2019. Ref. BOE-A-2019-12996

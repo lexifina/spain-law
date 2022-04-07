@@ -36,11 +36,13 @@ E: Importación/introducción acogida a alguno de los supuestos de exención pre
 
 B: Importación/introducción acogida al supuesto de exención previsto en el artículo 42.6 de la Ley de Impuestos Especiales;
 
-N: Introducción en islas Canarias de cerveza, productos intermedios, alcohol o bebidas derivadas, procedentes de la Península o de las islas Baleares, en los que no se produce el devengo del Impuesto Especial por haber sido ya devengado en la parte del territorio nacional de procedencia;
+N: Introducción en islas Canarias de cerveza, productos intermedios, alcohol o bebidas derivadas, procedentes de la Península o de las Illes Balears, en los que no se produce el devengo del Impuesto Especial por haber sido ya devengado en la; Península o de las Illes Balears;
 
 Introducción/importación en las Islas Canarias de vinos y bebidas fermentadas;
 
-Introducción en la Península e islas Baleares de cerveza procedente de las islas Canarias, en que no se produce el devengo del impuesto especial por haberse devengado ya en las islas Canarias;
+Introducción en la Península e Illes Balears de cerveza procedente de las islas Canarias, en que no se produce el devengo del impuesto especial por haberse devengado ya en las islas Canarias;
+
+Importación de productos no incluidos en el ámbito objetivo de los Impuestos Especiales.
 
 D: Introducción en la Península e Islas Baleares de alcohol o bebidas alcohólicas procedentes de las Islas Canarias, cuando corresponda ingresar las cuotas resultantes de aplicar la diferencia de tipos impositivos existentes entre dichos territorios en el momento de la introducción;
 
@@ -110,19 +112,25 @@ Casilla 44:
 
 C. En el tránsito común.
 
-Cuando los productos sujetos a Impuestos Especiales de fabricación circulen entre el ámbito territorial interno y el ámbito territorial comunitario no interno, a través del territorio de la EFTA, al amparo del régimen de tránsito comunitario interno:
+a) Productos sujetos a Impuestos Especiales de fabricación que no estén en régimen suspensivo de IIEE circulen entre el ámbito territorial interno y el ámbito territorial de la Unión Europeo no interno, a través del territorio de la EFTA, al amparo del régimen de tránsito comunitario interno (T2):
 
-Casilla 33:
+Casilla 33: deberá incluir el código NC.
 
-Deberá completarse con el código NC.
+Casilla 44: Con el código 9999 incluir la mención: “Mercancía objeto de IIEE”.
 
-Casilla 44:
+b) Productos sujetos a Impuestos Especiales de fabricación que estén en régimen suspensivo de IIEE. circulen entre el ámbito territorial interno y el ámbito territorial de la Unión Europea no interno, a través del territorio de la EFTA, al amparo del régimen de tránsito comunitario interno (T2):
 
-Deberá indicarse, con toda claridad, que los productos son objeto de los Impuestos Especiales de fabricación.
+Casilla 33: Deberá incluir el código NC.
 
-‒ Una copia del DAT deberá quedar en poder del expedidor de tales productos.
+Casilla 44: Deberá consignar el eDA (código C651) y el ARC y el código 9999 con la indicación: “Mercancía objeto de IIEE”.
 
-‒ Una copia del DAT, deberá enviarse al expedidor por el receptor de los productos.
+c) Productos sujetos a Impuestos Especiales de fabricación en régimen suspensivo de IIEE. que se exporten y tras la exportación se incluyan en el régimen de tránsito con destino a un país firmante del acuerdo de tránsito común o que lo atraviese con destino a una aduana de la Unión para la salida efectiva de la mercancía exportada, deberán circular al amparo del régimen de tránsito comunitario externo (T1) y:
+
+Casilla 33: Deberá incluir el código NC.
+
+Casilla 44: Deberá incluir la declaración de exportación y el código 9999 con la indicación: “Mercancía objeto de IIEE”.
+
+> Se modifican los apartados A, casilla 33 y C por el apartado primero.9 de la Resolución de 29 de marzo de 2022. Ref. BOE-A-2022-5519
 
 > Se modifican los apartados A, casilla 44 y B, casilla 37.2 por el apartado primero.7 de la Resolución de 2 de septiembre de 2019. Ref. BOE-A-2019-12996
 

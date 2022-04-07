@@ -1,24 +1,23 @@
 ## ANEXO V
 
-## Condiciones de entrega (Códigos INCOTERMS)3
+## Condiciones de entrega (códigos INCOTERMS)
 
 | Código | Significado | Lugar que se debe precisar |
 | --- | --- | --- |
-| EXW | EN FABRICA. | Situación de la fábrica. |
-| FCA | FRANCO TRANSPORTISTA. | Punto designado. |
-| FAS * | FRANCO AL COSTADO DEL BUQUE. | Puerto de embarque convenido. |
-| FOB * | FRANCO A BORDO. | Puerto de embarque convenido. |
-| CFR * | COSTE Y FLETE (C&F). | Puerto de destino convenido. |
-| CIF * | COSTE SEGURO Y FLETE (CIF). | Puerto de destino convenido. |
-| CPT | PORTE PAGADO HASTA. | Punto de destino convenido. |
-| CIP | PORTE Y SEGURO PAGADO INCLUIDOS HASTA. | Punto de destino convenido. |
-| DAT | ENTREGADO EN TERMINAL. |  |
-| DAP | ENTREGADO EN LUGAR CONVENIDO. |  |
-| DDP | FRANCO DESPACHADO EN ADUANAS. | Lugar de entrega convenido en el país de importación. |
-| CÓDIGOS VERSIÓN ANTERIOR QUE SE MANTIENEN TRANSITORIAMENTE1. |
-| DAF | FRANCO FRONTERA. | Lugar de entrega convenido en frontera. |
-| DES | FRANCO «EX CHIP». | Puerto de destino convenido. |
-| DEQ | FRANCO SOBRE MUELLE. | Despachado en aduana, puerto convenido. |
-| DDU | FRANCO SIN DESPACHAR DE ADUANAS. | Lugar de destino convenido en el país de importación. |
+| Códigos aplicables a todos los modos de transporte |
+| EXW | EN FABRICA. | Lugar de entrega convenido. |
+| FCA | FRANCO TRANSPORTISTA. | Lugar de entrega convenido. |
+| CPT | FLETE PAGADO HASTA. | Lugar de destino convenido |
+| CIP | FLETE PAGADO, SEGURO INCLUIDOS HASTA. | Lugar de destino convenido. |
+| DPU | ENTREGA DESCARGADA EN UN PUNTO. | Lugar de destino convenido. |
+| DAP | ENTREGADO EN LUGAR CONVENIDO. | Lugar de destino convenido. |
+| DDP | ENTREGADO CON DERECHOS ABONADOS. | Lugar de destino convenido. |
+| DAT | ENTREGADO EN TERMINAL. | Terminal portuaria o lugar de destino convenido. |
+| Códigos aplicables al transporte marítimo y por vías navegables interiores |
+| FAS | FRANCO AL COSTADO DEL BUQUE. | Puerto de carga convenido. |
+| FOB | FRANCO A BORDO. | Puerto de carga convenido. |
+| CFR | COSTE Y FLETE (C&F). | Puerto de destino convenido. |
+| CIF | COSTE SEGURO Y FLETE (CIF). | Puerto de destino convenido. |
 | XXX | OTRAS CONDICIONES DE ENTREGA DISTINTAS DE LAS ANTERIORES. | Indíquese claramente las condiciones que figuren en el contrato. |
-| * Los códigos marcados con un asterisco son utilizables únicamente en el transporte marítimo y por vía navegable. 3 8.ª edición códigos INCOTERMS. A partir del 1-1-2011 podrán utilizarse tanto esta nueva versión como la anterior hasta que la normativa comunitaria sea modificada para la inclusión de la nueva versión. |
+
+> Se sustituye por el que figura como anexo 7º de la Resolución de 29 de marzo de 2022, según esablece su apartado primero.18. Ref. BOE-A-2022-5519

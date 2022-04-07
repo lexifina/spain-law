@@ -40,11 +40,15 @@ b) IVA:
 
 – Artículo 10.1. 5.º y 6.º del Reglamento del Impuesto sobre el Valor Añadido, aprobado por Real Decreto 1624/1992, 29 de diciembre.
 
+– Orden HAC/559/2021, de 4 de junio, por la que se aprueban las normas en el ámbito aduanero, del Impuesto sobre el Valor Añadido y de los Impuestos Especiales de Fabricación, sobre el avituallamiento y equipamiento exento a buques y aeronaves, distintos de los privados de recreo, así como las entregas en tiendas libres de impuestos y para la venta a bordo a viajeros.
+
 c) Impuestos Especiales:
 
 – Artículo 9.1.º, letras e), y f), y artículo 51.2 letras a) y b) de la Ley 38/92, de 28 de diciembre.
 
 – Artículo 4.5 del Reglamento de Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de Julio" Este art, se refiere a la acreditación del destino, en el caso de exención del art.9.1 de la Ley, mediante la notificación de exportación.
+
+– Orden HAC/559/2021, de 4 de junio, citada en la letra anterior.
 
 d) IGIC/AIEM:
 
@@ -72,6 +76,8 @@ Deberá incluirse en la casilla 44 el código:
 
 – 5013 en el caso de aeronaves, seguida de la identificación completa de la compañía.
 
+- 1114 Referencia del documento de autorización de la Aduana de cantidades a embarcar prevista en el apartado 3 del artículo 6 de la Orden HAC/559/2021, cuando proceda.
+
 b) Mercancía no de la Unión.
 
 El suministro de mercancías no pertenecientes a la Unión podrá declararse por cualquiera de los tres métodos siguientes:
@@ -97,6 +103,8 @@ En la casilla 44, documentos y certificados, se incluirá la clave:
 – 5012 seguida del IMO del buque o, si carece del mismo, o de carecer de él, el número MMSI, o
 
 – 5013, en el caso de aeronave, seguida de la identificación completa de la compañía, y la identificación de la/s factura/s relativas al suministro.
+
+- 1114 Referencia del documento de autorización de la Aduana de cantidades a embarcar prevista en el apartado 3 del artículo 6 de la Orden HAC/559/2021, cuando proceda.
 
 b.2) Mediante declaración de inclusión en el régimen de libre práctica con destino final.
 
@@ -129,6 +137,8 @@ La reexportación para la ultimación del régimen, de realizarse mediante decla
 4. Plataformas de perforación o de explotación.
 
 Lo dispuesto en este apéndice será igualmente aplicable al suministro de mercancías a plataformas de perforación o explotación. El despacho a libre práctica de estas mercancías podrá gozar, cuando se cumplan las condiciones previstas para ello, de la franquicia arancelaria establecida en la letra A del Título II de las Disposiciones Preliminares de la Nomenclatura Combinada si se trata de equipamiento o a la establecida en la Disposición adicional única de la Ley 16/2013, de 29 de octubre, por la que se establecen determinadas medidas en materia de fiscalidad medioambiental, si se trata de avituallamiento.
+
+> Se modifican los apartados 2.b), 2.c), 3.a) y 3.b.1) por el apartado primero.10 de la Resolución de 29 de marzo de 2022. Ref. BOE-A-2022-5519
 
 > Se sustituye por el que figura como anexo 4º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.8. Ref. BOE-A-2019-12996
 

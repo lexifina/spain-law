@@ -24,8 +24,6 @@ No podrá aplicarse esta simplificación, por ser obligatoria la presentación d
 
 ‒ se trate de labores objeto del Impuesto sobre Labores del Tabaco creado por Ley del Parlamento de Canarias 1/2011, de 21 de enero, del impuesto sobre las labores del tabaco y otras medidas tributarias.
 
-Esta simplificación es incompatible con la prevista en el apartado 2.5.1 de esta Resolución.
-
 Procedimiento:
 
 La empresa expedidora deberá incluir en su factura u otro documento comercial o de transporte, su intención de acogerse al procedimiento incluyendo en el mismo la expresión “T2LF – Mercancía sin declaración de expediciónˮ.
@@ -69,6 +67,12 @@ En el DUA de introducción deberán incluirse los datos siguientes:
 | 1015 | «Autorización de despacho, declaración por cuenta del expedidor». |
 | --- | --- |
 | 9011 | «Solicitud de certificado de salida». |
+
+C) Intercambios comerciales nacionales que se despachen en destino con la declaración de envíos de escaso valor (H7).
+
+Las ventas definidas en los apartados A y B que se despachen en destino con la declaración H7 están exentas de presentar declaración de expedición. El vendedor podrá descargarse de la sede electrónica de la AEAT el justificante a efectos de IVA o del IGIC, según corresponda.
+
+> Se modifica el apartado A y se añade el C por el apartado primero.14 de la Resolución de 29 de marzo de 2022. Ref. BOE-A-2022-5519
 
 > Se incrementa de 3.000 a 6.000 € el umbral previsto en este apéndice para acogerse al sistema simplificado de intercambios nacionales con las Islas Canarias, por el apartado primero.16 de la Resolución de 25 de agosto de 2017. Ref. BOE-A-2017-10089
 
