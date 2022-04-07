@@ -1,6 +1,6 @@
 ## Disposición adicional séptima. Organismo Autónomo Parques Nacionales (OAPN).
 
-1. El Organismo Autónomo Parques Nacionales (OAPN) es un organismo autónomo de los regulados en el artículo 98 de la Ley 40/2015, de 1 de octubre, adscrito al Ministerio para la Transición Ecológica y el Reto Demográfico a través de la persona titular del Ministerio. La persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico lo presidirá y la persona titular de la Secretaría de Estado de Medio Ambiente ejercerá la Vicepresidencia. Bajo la superior dirección de la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico el organismo contará con una dirección con rango de subdirección general.
+1. El Organismo Autónomo Parques Nacionales (OAPN) es un organismo autónomo de los regulados en el artículo 98 de la Ley 40/2015, de 1 de octubre, adscrito al Ministerio para la Transición Ecológica y el Reto Demográfico a través de la persona titular del Ministerio. La persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico lo presidirá, la persona titular de la Secretaría de Estado de Medio Ambiente ejercerá la Vicepresidencia Primera, y la persona titular de la Dirección General de Biodiversidad, Bosques y Desertificación ejercerá la Vicepresidencia Segunda. Bajo la superior dirección de la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico el organismo contará con una dirección con rango de subdirección general.
 
 2. Corresponden al Organismo Autónomo Parques Nacionales las siguientes funciones:
 
@@ -25,5 +25,7 @@ i) El apoyo, como medio instrumental para el desarrollo de acciones concretas, a
 j) Cooperación con entidades públicas y privadas, tanto de ámbito nacional (estatal, autonómico y local) como internacional, para el desarrollo de las funciones anteriores.
 
 k) Las derivadas de la asunción de los montes, fincas y otros bienes patrimoniales de los que eran titulares los extintos organismos autónomos Instituto Nacional para la Conservación de la Naturaleza (ICONA) e Instituto Nacional de Reforma y Desarrollo Agrario (IRYDA), así como de todos los bienes, derechos y obligaciones de los mismos.
+
+> Se modifica el apartado 1 por el art. 2.3 del Real Decreto 241/2022, de 5 de abril. Ref. BOE-A-2022-5518#as
 
 > Se modifica el apartado 1 por la disposición final 1.6 del Real Decreto 179/2021, de 23 de marzo. Ref. BOE-A-2021-4630#df
