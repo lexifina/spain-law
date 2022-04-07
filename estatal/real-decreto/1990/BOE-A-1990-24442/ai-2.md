@@ -58,11 +58,11 @@ La segunda prueba consistirá en resolver cuatro supuestos prácticos que requie
 
 8. Criterios de corrección
 
-La prueba de preguntas concretas tendrá una puntuación máxima de 200 puntos. Cada pregunta correctamente respondida puntuará 1 punto.
+La prueba de preguntas concretas tendrá una puntuación máxima de 200 puntos. Cada pregunta correctamente respondida puntuará 1 punto y cada respuesta errónea se penalizará descontando un tercio del valor de una respuesta correcta.
 
-La prueba de supuestos prácticos tendrá igualmente una puntuación máxima de 200 puntos. Cada supuesto correctamente resuelto puntuará 50 puntos.
+La prueba de supuestos prácticos tendrá igualmente una puntuación máxima de 200 puntos. Cada supuesto correctamente resuelto puntuará 50 puntos y cada supuesto erróneo se penalizará descontando un tercio del valor de un supuesto correcto.
 
-Para aprobar el examen deberá obtenerse una puntuación no inferior al 50 % de los puntos posibles en cada una de las dos partes, debiendo obtener un mínimo del 60 % del total de puntos atribuibles para el conjunto de las dos pruebas.
+Para aprobar el examen deberá obtenerse una puntuación no inferior al 50 por ciento de los puntos posibles en cada una de las dos partes, debiendo obtenerse un mínimo del 60 por ciento del total de puntos atribuibles para el conjunto de las dos pruebas.
 
 9. Mecánica del examen
 
@@ -102,9 +102,7 @@ Cuando se anule un supuesto práctico, la calificación necesaria para superar e
 
 10.5 Siempre que una pregunta o un supuesto práctico de un examen sean anulados, ya sea por el Tribunal de revisión de exámenes o en vía de recurso, deberá notificarse a la Oficina Central del Registro de Empresas y Actividades de Transporte a fin de que realice la oportuna revisión del banco de preguntas integrado en la aplicación.
 
-> Téngase en cuenta que los apartados 3, 5, 6, 7, 8, 9 y 10 de este anexo no serán de aplicación hasta el 1 de enero de 2022, según establece la disposición transitoria 5 del Real Decreto 70/2019, de 15 de febrero, en la redacción dada por la disposición final 7 del Real Decreto-ley 26/2020, de 7 de julio. Ref. BOE-A-2020-7432#df-7
-
-> Hasta entonces, se continuarán aplicando en la realización de los exámenes para la obtención del certificado de competencia profesional para el transporte por carretera las reglas contenidas en los artículos 4, 5, 6, 7, 8, 9, 10, 11, 12 y 13 y en el anexo B) de la Orden ministerial de 28 de mayo de 1999, por la que se desarrolla el capítulo I del título II del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de expedición de certificados de capacitación profesional.
+> Se modifica el apartado 8 por el art. 1.3 del Real Decreto 242/2022, de 5 de abril. Ref. BOE-A-2022-5520
 
 > Se modifica el apartado 8 por la disposición final 1.12 del Real Decreto 284/2021, de 20 de abril. Ref. BOE-A-2021-6624#df
 
