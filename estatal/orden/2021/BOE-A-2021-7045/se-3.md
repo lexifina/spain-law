@@ -27,3 +27,11 @@ a) El ejercicio de las competencias en materia de contratación, con las faculta
 b) La formalización de encargos a medios propios personificados a que se refiere el artículo 32 de la Ley 9/2017, de 8 de noviembre, cuya cuantía no supere 1.000.000 de euros y que no estén atribuida o delegada en otros órganos.
 
 5. Se delega en la persona titular de la Subdirección General de Tecnologías de la Información y las Comunicaciones la formalización de encargos a medios propios personificados a que se refiere el artículo 32 de la Ley 9/2017, de 8 de noviembre, cuya cuantía no supere 1.000.000 de euros, en su ámbito de competencia material y que no esté atribuida o delegada en otros órganos del departamento.
+
+6. Se delega en la persona titular de la Subdirección General de Recursos Humanos e Inspección de Servicios:
+
+a) El ejercicio de las competencias en materia de contratación, con las facultades inherentes al órgano de contratación establecidas en la normativa vigente, de los contratos que se tramiten con cargo al capítulo I de los presupuestos del departamento, cuando el importe de la licitación no supere 1.000.000 de euros y siempre que tal ejercicio no sea competencia de la Junta de Contratación del Ministerio de Inclusión, Seguridad Social y Migraciones y no hayan sido atribuidas o delegadas en otros órganos del departamento.
+
+b) La formalización de encargos a medios propios personificados a que se refiere el artículo 32 de la Ley 9/2017, de 8 de noviembre, cuya cuantía no supere 1.000.000 de euros, que se tramiten con cargo al capítulo I de los presupuestos del departamento y no haya sido atribuida o delegada en otros órganos del departamento.
+
+> Se añade el apartado 6 por el art. único.2 de la Orden ISM/295/2022, de 26 de abril. Ref. BOE-A-2022-5791

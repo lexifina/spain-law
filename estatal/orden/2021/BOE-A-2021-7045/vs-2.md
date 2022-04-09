@@ -158,7 +158,7 @@ h) El nombramiento de funcionarios interinos para puestos pertenecientes a los c
 
 i) Todas aquellas competencias en materia de gestión de personal relativas a los funcionarios adscritos al departamento en las entidades gestoras y servicios comunes de la Seguridad Social, así como a los pertenecientes a los cuerpos y escalas adscritos al departamento, no delegadas en otros órganos y todos los actos de administración y gestión ordinarios derivados de las competencias cuyo ejercicio se delega.
 
-6. Se aprueba la delegación de la persona titular de la Subsecretaría de Inclusión, Seguridad Social y Migraciones en las personas titulares de la Dirección de los Centros de Migraciones en relación con el personal de ellos directamente dependiente, la formalización, previa autorización, de contratos de personal laboral eventual y/o interino, para sustitución de un trabajador con derecho a reserva de puesto de trabajo, derivada de enfermedad o incapacidad temporal y excedencias, así como en los casos de permisos reglamentarios y demás situaciones similares.
+6. Se aprueba la delegación de la persona titular de la Subsecretaría de Inclusión, Seguridad Social y Migraciones en las personas titulares de la Dirección de los Centros de Migraciones y de la Dirección de los Centros de titularidad pública estatal del sistema de acogida de protección internacional, en relación con el personal de ellos directamente dependiente, la formalización, previa autorización, de contratos de personal laboral eventual y/o interino, para sustitución de un trabajador con derecho a reserva de puesto de trabajo, derivada de enfermedad o incapacidad temporal y excedencias, así como en los casos de permisos reglamentarios y demás situaciones similares.
 
 7. Se aprueba la delegación de la persona titular de la Subsecretaría de Inclusión, Seguridad Social y Migraciones en las personas titulares de la Dirección del Instituto Social de la Marina y de la Gerencia de Informática de la Seguridad Social y, previa aprobación del órgano máximo de dirección de cada organismo, de las Subdirecciones Generales y de las Secretarías Generales que tengan encomendada la gestión de personal del Instituto Nacional de la Seguridad Social y de la Tesorería General de la Seguridad Social, del ejercicio de las siguientes competencias:
 
@@ -207,3 +207,5 @@ a) La autorización para la asistencia a cursos de selección, formación y perf
 b) El ejercicio de la potestad disciplinaria sobre el personal laboral, salvo cuando conlleve el despido.
 
 c) La contratación del personal laboral con carácter temporal que haya sido previamente autorizada.
+
+> Se modifica el apartado 6 por el art. único.16 de la Orden ISM/295/2022, de 26 de abril. Ref. BOE-A-2022-5791

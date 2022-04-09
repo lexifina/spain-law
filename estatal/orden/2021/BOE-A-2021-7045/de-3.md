@@ -9,3 +9,9 @@
 4. Se delega en la persona titular de la Subdirección General de Servicios y Coordinación la legalización de documentos que hayan de surtir efecto en el extranjero cuando hayan sido expedidos por órganos de los servicios centrales del departamento.
 
 5. Se delegan en las personas titulares de las direcciones provinciales de las entidades gestoras y de la Tesorería General de la Seguridad Social, las competencias relativas a la legalización de documentos correspondientes al propio ámbito de éstas que hayan de surtir efecto en el extranjero.
+
+6. Se delega en la persona titular de la Dirección General de Ordenación de la Seguridad Social, en el ámbito material de sus competencias, la gestión económica y material de los créditos consignados en el servicio presupuestario 50 Mecanismo de Recuperación y Resiliencia, la aprobación y compromiso de gasto, el reconocimiento de obligaciones y la propuesta de ordenación de pagos, así como la aprobación de los instrumentos jurídicos que sustenten dicho gasto, en materias de subvenciones, convenios, contratación, encargos a medios propios personificados y cualesquiera otros con idéntica finalidad, que resulten necesarios, y siempre que la competencia no haya sido atribuida o delegada en otros órganos del Departamento o no se trate competencia propia de la Junta de Contratación del Ministerio de Inclusión, Seguridad Social y Migraciones.
+
+La delegación prevista en este apartado se refiere exclusivamente a aquellas funciones susceptibles de delegación según lo dispuesto en el artículo 9 de la Ley 40/2015, de 1 de octubre.
+
+> Se añade el apartado 6 por el art. único.6 de la Orden ISM/295/2022, de 26 de abril. Ref. BOE-A-2022-5791

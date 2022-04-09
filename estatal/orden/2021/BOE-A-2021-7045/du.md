@@ -6,4 +6,6 @@ a) La propuesta o nombramiento, según corresponda, de representantes del Minist
 
 b) La propuesta o nombramiento, según corresponda, de representantes del Ministerio de Inclusión, Seguridad Social y Migraciones en comisiones de seguimiento de convenios y contratos.
 
-c) El nombramiento de las vocalías titulares y suplentes de la Junta de Contratación del Ministerio de Inclusión, Seguridad Social y Migraciones.
+c) El nombramiento de las vocalías titulares y suplentes de la Junta de Contratación del Ministerio de Inclusión, Seguridad Social y Migraciones, así como el nombramiento del secretario, titular y suplente, de la misma.
+
+> Se modifica la letra c) por el art. único.5 de la Orden ISM/295/2022, de 26 de abril. Ref. BOE-A-2022-5791
