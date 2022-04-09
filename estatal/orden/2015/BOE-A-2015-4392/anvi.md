@@ -1,9 +1,5 @@
 ## ANEXO VI
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/97/04392_013.png)
+(Derogado)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/97/04392_014.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/97/04392_015.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2015/97/04392_016.png)
+> Se deroga por la disposición derogatoria única de la Orden EFP/279/2022, de 4 de abril de 2022. Ref. BOE-A-2022-5687#dd

@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Aplicabilidad del Real Decreto-ley 31/2020, de 29 de septiembre, por el que se adoptan medidas urgentes en el ámbito de la educación no universitaria.
+
+Lo dispuesto en esta orden se aplicará teniendo en cuenta que, hasta la finalización del curso académico en el que las autoridades correspondientes determinen que han dejado de concurrir las circunstancias extraordinarias derivadas de la pandemia generada por la COVID-19, será de aplicación lo establecido en Real Decreto-ley 31/2020, de 29 de septiembre, por el que se adoptan medidas urgentes en el ámbito de la educación no universitaria que motivaron su aprobación.
