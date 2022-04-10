@@ -1,0 +1,3 @@
+## Disposición derogatoria segunda. Derogación normativa.
+
+Con efectos desde la entrada en vigor de esta ley y vigencia indefinida se deroga la disposición transitoria primera de la Ley 15/2012, de 27 de diciembre, de Medidas Fiscales para la Sostenibilidad Energética, así como los artículos y disposiciones del Real Decreto 198/2015, de 23 de marzo, por el que se desarrolla el artículo 112 bis del texto refundido de la Ley de Aguas y se regula el canon de utilización de las aguas continentales para la producción de energía eléctrica en las demarcaciones intercomunitarias a excepción de sus artículos 6, 8 en el que el porcentaje debe entenderse hecho al 25,5 por ciento, 9, 10, 11, 14 y la disposición adicional segunda.

@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 61, de 12 de marzo de 2002. Ref. BOE-A-2002-4922.
+Norma derogada, con efectos de 10 de abril de 2022, por la disposición derogatoria primera.3 de la Ley 7/2022, de 8 de abril. Ref. BOE-A-2022-5809#dd

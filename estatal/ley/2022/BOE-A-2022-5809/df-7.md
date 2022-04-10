@@ -1,0 +1,7 @@
+## Disposición final séptima. Residuos textiles, muebles y enseres, plásticos de uso agrario y residuos sanitarios.
+
+1. Reglamentariamente, en el plazo máximo de tres años desde la entrada en vigor de esta ley, se desarrollarán regímenes de responsabilidad ampliada del productor para los textiles, muebles y enseres, y los plásticos de uso agrario no envases en aplicación del título IV de esta ley. Igualmente, se podrá incluir en alguno de los desarrollos reglamentarios de regímenes de responsabilidad ampliada del productor previstos en esta ley, la aplicación de este instrumento a las cápsulas de café monodosis. No obstante, en tanto que se produzca tal desarrollo, voluntariamente se podrán organizar sistemas individuales o colectivos de reciclaje de las cápsulas de café para garantizar su reciclabilidad conforme a lo previsto en el artículo 39 de esta ley.
+
+2. Podrán desarrollarse regímenes de responsabilidad ampliada del productor para toallitas húmedas no incluidas en el artículo 60.1 en los que los productores de producto deberán sufragar, al menos, los costes enumerados en el artículo 60.3.
+
+3. Asimismo, en el plazo máximo de tres años desde la entrada en vigor de esta ley, se llevará a cabo un estudio comparado de la normativa autonómica reguladora de los residuos sanitarios, el cual se presentará en la Comisión de Coordinación en materia de residuos, para la evaluación de la necesidad de desarrollo reglamentario de ámbito nacional.

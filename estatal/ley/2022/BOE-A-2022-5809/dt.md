@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Subproductos y fin de condición de residuos.
+
+1. Las autorizaciones de subproducto concedidas aplicando los procedimientos administrativos que hubiera vigentes antes del procedimiento acordado por la Comisión de Coordinación en materia de residuos, tendrán validez hasta que caduque dicha autorización o se lleve a cabo una autorización conforme a lo establecido en la ley. En el caso de que no estuviera prevista la caducidad de la autorización, su validez será como máximo de cinco años respecto a la fecha de entrada en vigor de la ley.
+
+2. En el caso de las solicitudes de subproductos presentadas con anterioridad a la entrada en vigor de la ley ante la Comisión de Coordinación en materia de residuos, los solicitantes deberán indicar obligatoriamente por escrito a esta Comisión si continúan con dicho procedimiento iniciado o si optan por presentar esa misma solicitud ante la comunidad autónoma, de conformidad con el procedimiento regulado en el artículo 4.4. En este último caso, el Ministerio trasladará la documentación de los solicitantes que obre en su poder a la comunidad autónoma correspondiente.
+
+3. La consideración como productos de residuos tratados en las autorizaciones otorgadas por las comunidades autónomas a los gestores de residuos antes de la entrada en vigor de esta ley, deberán ser revisadas en el plazo de tres años, de conformidad con lo establecido en el artículo 5.
