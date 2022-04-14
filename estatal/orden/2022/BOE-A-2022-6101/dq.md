@@ -1,0 +1,3 @@
+## Décimo quinto. Delegación de competencias en materia de libertad religiosa.
+
+Se aprueba la delegación por la persona titular de la Subsecretaria de la Presidencia, Relaciones con las Cortes y Memoria Democrática, en la persona titular de la Subdirección General de Libertad Religiosa, de la competencia para la resolución de los expedientes de solicitud de las modificaciones estatutarias y de la anotación y cancelación de la adhesión de entidades religiosas a una federación en los términos previstos en el Real Decreto 594/2015, de 3 de julio, por el que se regula el Registro de Entidades Religiosas.
