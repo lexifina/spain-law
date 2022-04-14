@@ -71,6 +71,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 33](a33.md)
 - [Artículo 34](a34.md)
 - [Artículo 35](a35.md)
+- [Artículo 35 bis](a3-2.md)
 - [Artículo 36](a36.md)
 - [Sección 6](s6.md)
 - [Artículo 37](a37.md)
