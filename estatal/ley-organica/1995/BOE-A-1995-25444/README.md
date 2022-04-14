@@ -260,6 +260,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 172](a172.md)
 - [Artículo 172 bis](a172bis.md)
 - [Artículo 172 ter](a172ter.md)
+- [Artículo 172 quater](a1-8.md)
 - [TÍTULO VII](tvii-2.md)
 - [Artículo 173](a173.md)
 - [Artículo 174](a174.md)
