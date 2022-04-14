@@ -118,6 +118,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria primera](dtprimera-2.md)
 - [Disposición transitoria segunda](dtsegunda-2.md)
 - [Disposición transitoria tercera](dt.md)
+- [Disposición transitoria cuarta](dt-2.md)
+- [Disposición transitoria quinta](dt-3.md)
 - [ANEXO I](ani.md)
 - [ANEXO II](anii.md)
 - [ANEXO III](aniii.md)
