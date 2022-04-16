@@ -1,1 +1,1 @@
-Véase la Resolución de 30 de diciembre de 2021, de la Dirección General de la Marina Mercante, sobre la ampliación de la vigencia de los certificados de suficiencia de los capítulos V y VI del anexo del Convenio sobre normas de formación, titulación y guardia para la gente del mar. Ref. BOE-A-2022-850
+Téngase en cuenta que esta Resolución ha dejado de estar vigente por el transcurso de los plazos previstos en la misma.
