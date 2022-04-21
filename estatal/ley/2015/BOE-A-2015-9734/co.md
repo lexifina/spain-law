@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 306, de 23 de diciembre de 2015. Ref. BOE-A-2015-14019.
+Téngase en cuenta que quedan derogadas cuantas disposiciones de la presente Ley se opongan a lo establecido en la Ley Orgánica 3/2022, de 31 de marzo, según establece su disposición derogatoria única.2. Ref. BOE-A-2022-5139#dd

@@ -1,0 +1,3 @@
+## Disposición adicional novena. Plan de competencias en digitalización e inteligencia artificial en la Formación Profesional.
+
+El Gobierno aprobará, en colaboración con el sector tecnológico, un Plan de competencias en digitalización e inteligencia artificial en la formación profesional, que incluirá la propuesta de contenidos comunes transversales del currículo para todas las personas que se formen en el Sistema de Formación Profesional. Asimismo, promoverá que todo el profesorado y formadores de formación profesional obtengan el reconocimiento de la competencia digital docente en el Marco de Referencia de la Competencia Digital Docente.

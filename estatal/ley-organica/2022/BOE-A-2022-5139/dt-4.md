@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Profesorado de formación profesional del sistema educativo.
+
+Se habilita a las administraciones educativas para que, en tanto no se complete el desarrollo reglamentario que proceda de las disposiciones sobre el profesorado de formación profesional, establecidas en la presente ley y en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, puedan realizar selección de funcionarios de carrera de las convocatorias derivadas de las ofertas de empleo público aprobadas, en el Cuerpo de Profesores Técnicos de Formación Profesional, así como nombramientos de personal interino en ese cuerpo, con los requisitos que existían para el mismo.

@@ -6,6 +6,8 @@ a) El cuerpo de maestros, que desempeñará sus funciones en la educación infan
 
 b) Los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria, que desempeñarán sus funciones en la educación secundaria obligatoria, bachillerato y formación profesional.
 
+b bis) El cuerpo de profesores especialistas en sectores singulares de formación profesional, que desempeñará sus funciones en la formación profesional y, excepcionalmente, en las condiciones que se establezcan, en la educación secundaria obligatoria.
+
 c) El cuerpo a extinguir de profesores técnicos de formación profesional, que desempeñará sus funciones en la formación profesional y, excepcionalmente, en las condiciones que se establezcan, en la educación secundaria obligatoria.
 
 d) El cuerpo de profesores de música y artes escénicas, que desempeñará sus funciones en las enseñanzas elementales y profesionales de música y danza, en las enseñanzas de arte dramático y, en su caso, en aquellas materias de las enseñanzas superiores de música y danza o de la modalidad de artes del bachillerato que se determinen.
@@ -29,5 +31,7 @@ Los cuerpos y escalas declarados a extinguir por la presente ley, así como por 
 Asimismo, las Administraciones educativas podrán establecer los requisitos de formación o titulación que deben cumplir los funcionarios de los cuerpos que imparten la educación secundaria obligatoria para impartir enseñanzas de los primeros cursos de esta etapa correspondientes a otra especialidad, de acuerdo con lo establecido en el apartado 3 del artículo 26.
 
 No obstante, los procesos selectivos y concursos de traslados de ámbito estatal tendrán en cuenta únicamente las especialidades docentes.
+
+> Se añade la letra b bis) al apartado 1 por la disposición final 1.2 de la Ley Orgánica 3/2022, de 31 de marzo. Ref. BOE-A-2022-5139#df
 
 > Se modifica el apartado 1 por el art. único.79 bis de la Ley Orgánica 3/2020, de 29 de diciembre. Ref. BOE-A-2020-17264#au
