@@ -188,7 +188,7 @@ Los procedimientos para el tratamiento específico de RAEE descritos a continuac
 
 G.1 Operación de tratamiento general.
 
-Se someterán a este tratamiento los siguientes grupos de tratamiento: 13, 23, 32, 41, 42, 51, 52, 61 y 62 y aquellos RAEE que no estén incluidos en ningún otro procedimiento de los contemplados en la parte G de este anexo.
+Se someterán a este tratamiento los siguientes grupos de tratamiento: 13, 23, 32, 41, 42, 51, 52, 61, 62 y 73 (sin cadmio) y aquellos RAEE que no estén incluidos en ningún otro procedimiento de los contemplados en la parte G de este anexo.
 
 El tratamiento de estos aparatos constará de 3 fases:
 
@@ -864,9 +864,9 @@ Fase 2:
 
 – Registro del gestor autorizado al que se destinan las fracciones valorizables y operación de tratamiento.
 
-G.7 Operación de tratamiento para paneles fotovoltaicos (Cadmio-Teluro) (160213*-72*).
+G.7. Operación de tratamiento para paneles fotovoltaicos que contienen Cadmio-Teluro (160214-72 o 160213*-73*).
 
-Se someterán a este tratamiento todos los paneles fotovoltaicos que contengan teluro de cadmio (Cd-Te) incluidos en la subcategoría 4.3 del anexo I y la subcategoría 7.2 del anexo III.
+Se someterán a este tratamiento todos los paneles fotovoltaicos que contengan teluro de cadmio (Cd-Te) incluidos en la subcategoría 4.3 del anexo I y la subcategoría 7.2 o 7.3 del anexo III.
 
 El tratamiento de estos aparatos constará de 3 fases:
 
@@ -888,7 +888,7 @@ Fase 1. Tratamiento.
 
 El objetivo principal del tratamiento de estos paneles fotovoltaicos es la captación y extracción del teluro de cadmio (Cd-Te) para no contaminar en las siguientes fases el resto de fracciones valorizables.
 
-Una vez extraídas las partes más accesibles de los paneles en la Fase 0, estos pasarán por un proceso de trituración dotado de un sistema de filtración y extracción de polvo para obtener fracciones más pequeñas de los componentes que lo integran, facilitando así la separación posterior de los semiconductores y las capas de polímeros plásticos.
+Una vez extraídas las partes más accesibles de los paneles en la Fase 0, éstos pasarán por un proceso de trituración dotado de un sistema de filtración y extracción de polvo para obtener fracciones más pequeñas de los componentes que lo integran, facilitando así la separación posterior de los semiconductores y las capas de polímeros plásticos.
 
 A continuación, se separarán las fracciones valorizables, mediante técnicas como el tamizado, flotación, separación por corrientes de aire, separación electrostática o técnicas equivalentes que consigan el mismo objetivo.
 
@@ -904,7 +904,7 @@ Balance de masas (G7).
 
 Entradas = ∑ entradas en el proceso.
 
-a) Código LER-RAEE: (160213*-72*).
+a) Código LER-RAEE: (160214-72 o 160213*-73*).
 
 b) Cantidad en toneladas (t).
 
@@ -914,11 +914,11 @@ a) Código LER/descripción.
 
 b) Destino:
 
-– Valorización energética: cantidad (t) y operación (R1, R2, etc.).
+– Valorización energética: cantidad (t) y operación (R1).
 
-– Reciclado: cantidad (t) y operación (R1, R2, etc.).
+– Valorización material o reciclado: cantidad (t) y operación (R3, R4, etc.).
 
-– Eliminación: cantidad (t) y operación (D1, D2, etc.).
+– Eliminación: cantidad (t) y operación (D5, D9, D10, etc.).
 
 – Gestor de destino: nombre, NIMA y provincia.
 
@@ -930,7 +930,7 @@ Además de las comprobaciones previstas en la parte E de este anexo, se comproba
 
 Fase 0:
 
-– Registro de equipos e información adicional (incidencias) de entrada en la Fase 0 y su correlación con los códigos LER-RAEE incluidos en esta categoría de tratamiento (160213*-72*).
+– Registro de equipos e información adicional (incidencias) de entrada en la Fase 0 y su correlación con los códigos LER-RAEE incluidos en esta categoría de tratamiento (160214-72 o 160213*-73*).
 
 – Registro de paneles recepcionados en mal estado.
 
@@ -938,7 +938,7 @@ Fase 0:
 
 – Proceso de desmontaje manual previo.
 
-– Registro de tipos de componentes extraídos y residuos generados por códigos LER, destino y operación de tratamiento de estos.
+– Registro de tipos de componentes extraídos y residuos generados por códigos LER, destino y operación de tratamiento de éstos.
 
 – Almacenamiento de las fracciones obtenidas en contenedores adecuados.
 
@@ -952,7 +952,7 @@ Fase 1:
 
 – Rendimientos de extracción y captación de polvo (si aplica).
 
-– Registro de tipos y cantidades de sustancias extraídas, materiales y componentes generados en la Fase 1, por códigos LER, destino y operación de tratamiento de estos.
+– Registro de tipos y cantidades de sustancias extraídas, materiales y componentes generados en la Fase 1, por códigos LER, destino y operación de tratamiento de éstos.
 
 – Funcionamiento de equipos y cumplimiento de protocolos de mantenimiento.
 
@@ -1044,5 +1044,7 @@ a) Todo vertido de aceites usados en aguas superficiales o subterráneas, en cua
 b) Todo vertido de aceite usado, o de los residuos derivados de su tratamiento, sobre el suelo.
 
 c) Todo tratamiento de aceite usado que provoque una contaminación atmosférica superior al nivel establecido en la legislación sobre protección del ambiente atmosférico.
+
+> Se modifican los apartados G1 y G7 por la disposición final 1.5 y 6 del Real Decreto 208/2022, de 22 de marzo. Ref. BOE-A-2022-5142#df
 
 > Se modifica por el art. 2.37 del Real Decreto 27/2021, de 19 de enero. Ref. BOE-A-2021-796

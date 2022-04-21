@@ -122,7 +122,7 @@ c) RAP: residuos bajo la organización de los productores.
 
 d) NO RAP: residuos recogidos bajo una organización diferente a la de los productores de AEE.
 
-## Tabla 1. Formato de información de recogida y gestión de RAEE agregada según fracciones de recogida y grupos de tratamiento a partir del 1 de enero de 2019
+Tabla 1. Formato de información de recogida y gestión de RAEE agregada según fracciones de recogida y grupos de tratamiento a partir del 1 de enero de 2019
 
 | Categorías y subcategorías de AEE del anexo III | Origen RAEE domésticos | Origen RAEE profesionales | Total Recogida | RAEE |
 | --- | --- | --- | --- | --- |
@@ -148,12 +148,13 @@ d) NO RAP: residuos recogidos bajo una organización diferente a la de los produ
 | 6. Aparatos de informática y telecomunicaciones pequeños (FR6) | 61*. Aparatos de informática y telecomunicaciones pequeños con componenetes peligrosos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 62. Aparatos de informática y telecomunicaciones pequeños sin componenetes peligrosos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Total FR6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 7. Paneles Fotovoltaicos (FR7) | 71. Paneles fotovoltaicos no peligrosos (Ej: Si) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 72*. Paneles fotovoltaicos peligrosos (Ej: CdTe) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7. Paneles Fotovoltaicos (FR7) | 71. Paneles fotovoltaicos no peligrosos de Silicio. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 72. Otros paneles fotovoltaicos no peligrosos. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 73*. Paneles fotovoltaicos peligrosos. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Total FR7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | TOTAL (t) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## Tabla 2. Formato de recogida y gestión de RAEE en categorías y subcategorías del anexo I
+Tabla 2. Formato de recogida y gestión de RAEE en categorías y subcategorías del anexo I
 
 | Categorías y subcategorías de AEE del anexo I | Origen RAEE domésticos | Origen RAEE profesionales | Total Recogida | RAEE |
 | --- | --- | --- | --- | --- |
@@ -184,5 +185,7 @@ d) NO RAP: residuos recogidos bajo una organización diferente a la de los produ
 | 10.2. Resto máquinas expendedoras |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Total máquinas expendedoras |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | TOTAL (t) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+> Se modifica la tabla 1 por la disposición final 1.4 del Real Decreto 208/2022, de 22 de marzo. Ref. BOE-A-2022-5142#df
 
 > Se modifica por el art. 2.36 del Real Decreto 27/2021, de 19 de enero. Ref. BOE-A-2021-796

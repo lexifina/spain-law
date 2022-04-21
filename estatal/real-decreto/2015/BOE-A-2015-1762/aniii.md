@@ -34,8 +34,12 @@ Están incluidos, entre otros: electrodomésticos, aparatos de consumo, luminari
 
 7. Paneles fotovoltaicos grandes (con una dimensión exterior superior a 50 cm).
 
-7.1 Paneles fotovoltaicos con silicio.
+7.1 Paneles fotovoltaicos no peligrosos de silicio.
 
-7.2 Paneles fotovoltaicos con teluro de cadmio.
+7.2 Otros paneles fotovoltaicos no peligrosos.
+
+7.3 Paneles fotovoltaicos peligrosos.
+
+> Se modifica el apartado 7 por la disposición final 1.1 del Real Decreto 208/2022, de 22 de marzo. Ref. BOE-A-2022-5142#df
 
 > Se modifica el apartado 1 por el art. 2.31 del Real Decreto 27/2021, de 19 de enero. Ref. BOE-A-2021-796

@@ -98,7 +98,10 @@ Tabla 1. Equivalencias entre categorías de AEE, fracciones de recogida (FR) de 
 | Profesional | 160213*-61* |
 | 62. Aparatos de informática y telecomunicaciones pequeños sin componentes peligrosos | Doméstico | 200136-62 |
 | Profesional | 160214-62 |
-| 4.2 Paneles fotovoltaicos de silicio (Si) 4.3. Paneles fotovoltaicos de teluro de cadmio (CdTe) | 7. Paneles solares grandes (Con una dimensión exterior superior a 50 cm) | 7 | 71. Paneles fotovoltaicos (Ej.: Si) | Profesional | 160214-71 |
-| 72*. Paneles fotovoltaicos peligrosos (Ej.: CdTe) | Profesional | 160213*-72* |
+| 4.2. Paneles fotovoltaicos de silicio (Si) 4.3. Paneles fotovoltaicos de teluro de cadmio (CdTe). | 7. Paneles solares grandes (Con una dimensión exterior superior a 50 cm) | 7 | 71. Paneles fotovoltaicos no peligrosos de silicio. | Profesional | 160214-71 |
+| 72. Otros paneles fotovoltaicos no peligrosos. | Profesional | 160214-72 |
+| 73. Paneles fotovoltaicos peligrosos. | Profesional | 160213*-73* |
+
+> Se modifica la tabla 1 por la disposición final 1.3 del Real Decreto 208/2022, de 22 de marzo. Ref. BOE-A-2022-5142#df
 
 > Se modifica por el art. 2.34 del Real Decreto 27/2021, de 19 de enero. Ref. BOE-A-2021-796
