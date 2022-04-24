@@ -1,6 +1,6 @@
 ## Vigesimocuarta. Oficialía Mayor.
 
-1. Se delega por la ministra en las persona titular de la Oficialía Mayor, con independencia de la cuantía, las siguientes actuaciones que comprenden la aprobación y el compromiso de gastos y el reconocimiento de las obligaciones con cargo a los servicios presupuestarios correspondiente a la Dirección General de Servicios y al ministerio, subsecretaría y servicios generales y que se generen por los actos cuya competencia se delega, exceptuándose las actuaciones que afecten al capítulo 1, de acuerdo con lo previsto en el apartado vigésimo quinto:
+1. Se delega por la persona titular del Ministerio en la persona titular de la Oficialía Mayor, con independencia de la cuantía, las siguientes actuaciones que comprenden la aprobación y el compromiso de gastos y el reconocimiento de las obligaciones que se generen por los actos cuya competencia se delega en las personas titulares de la Subsecretaría y de la Dirección General de Servicios, exceptuándose las actuaciones que afecten al capítulo 1, de acuerdo con lo previsto en el apartado vigésimo quinto:
 
 a) La aprobación de certificaciones y abonos a cuenta; las cuentas «en firme» que correspondan a gastos previamente aprobados, reconocimiento de la obligación y propuesta de pago que de las mismas se deriven, previa conformidad del Servicio o responsable del contrato o encargo correspondiente.
 
@@ -25,3 +25,5 @@ i) La autorización de los documentos contables que se deriven de todas las actu
 2. La persona titular del ministerio delega en la persona titular de la Oficialía Mayor la autorización de los documentos contables relativos a los actos que se ejerzan por la persona titular de la subsecretaría o de la Dirección General de Servicios y no estén expresamente atribuidos a otros órganos.
 
 3. La persona titular de la subsecretaría delega en la persona titular de la Oficialía Mayor, las competencias que le corresponden en cuanto a la solicitud al Ministerio de Hacienda respecto de la afectación o el arrendamiento de los inmuebles necesarios para el cumplimiento de los fines de los servicios a cargo del departamento.
+
+> Se modifica el apartado 1 por la disposición 15 de la Orden TED/346/2022, de 20 de abril. Ref. BOE-A-2022-6597

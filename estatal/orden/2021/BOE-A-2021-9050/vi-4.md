@@ -1,6 +1,6 @@
 ## Vigesimotercera. Dirección General de Servicios.
 
-1. La persona titular del ministerio delega en la persona titular de la Dirección General de Servicios en materia de convenios, contratos, encargos, ayudas y subvenciones públicas, transferencias y gestión presupuestaria, dentro del ámbito de sus competencias:
+1. La persona titular del Ministerio delega en la persona titular de la Dirección General de Servicios en materia de convenios, contratos, encargos, y gestión presupuestaria, respecto del capítulo 2 asignado a todos los servicios y programas de los presupuestos del Departamento, y respecto del capítulo 6 asignado a los servicios presupuestarios “Ministerio, Subsecretaría y servicios generales” y “Dirección General de Servicios”, así como en materia de ayudas, subvenciones públicas y transferencias:
 
 a) La celebración de convenios con organismos públicos, entidades locales y con personas físicas o jurídicas sujetas al derecho privado, con el límite de la cuantía establecida en el anexo.
 
@@ -24,7 +24,7 @@ j) Los acuerdos de cancelación de garantías prestadas por los beneficiarios de
 
 k) La resolución desestimatoria de las solicitudes y la resolución en casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud, de todo tipo de ayudas y subvenciones públicas del ámbito de la Subsecretaría, así como la desaparición sobrevenida del objeto del procedimiento, cuando en este ámbito, correspondan a la persona titular del ministerio.
 
-l) La incoación, la designación del órgano instructor y la resolución del procedimiento sancionador de las ayudas y subvenciones públicas del ámbito de la subsecretaría.
+l) La incoación, la designación del órgano instructor y la resolución del procedimiento sancionador, así como el inicio y la resolución del procedimiento de reintegro de las ayudas y subvenciones públicas del ámbito de la Subsecretaría.
 
 m) En relación con los créditos destinados a financiar proyectos para la conservación y enriquecimiento del Patrimonio Histórico Español con cargo al uno por cien cultural, de ejecución directa por parte del ministerio como órgano de contratación y órgano competente para la tramitación y firma de convenios y encargos y las facultades que de estos actos se deriven en ambos casos, así como la autorización y compromiso de gasto y reconocimiento de obligaciones, con independencia de su cuantía.
 
@@ -35,6 +35,8 @@ n) La aprobación y el compromiso del gasto, así como el reconocimiento y propu
 Cuando en un mismo acto se apruebe o comprometa gasto y se reconozca la obligación, la competencia se determinará conforme a lo establecido en este apartado.
 
 Las delegaciones establecidas en este párrafo se entienden sin perjuicio de las delegaciones realizadas en otros apartados de esta orden cuyo ejercicio comprenda la de aprobar, comprometer o reconocer obligaciones, que tendrán preferencia sobre lo dispuesto en este párrafo.
+
+1 bis. La persona titular de la Dirección General de Servicios ejercerá, por delegación de la persona titular del Ministerio, las competencias en materia de patrimonio del departamento, ello sin perjuicio de las que, de acuerdo con la Ley de Aguas y la Ley de Costas estén atribuidas a los responsables, respectivamente, del dominio público hidráulico y del dominio público marítimo-terrestre, así como las que, en su caso, correspondan por delegación de la persona titular del Ministerio de Hacienda y Función Pública o de la Dirección General del Patrimonio del Estado.
 
 2. La persona titular de la Subsecretaría delega en la persona titular de la Dirección General de Servicios las siguientes competencias:
 
@@ -63,3 +65,5 @@ c) En materia de recursos humanos: con respecto a los funcionarios destinados en
 7.º El nombramiento y cese de los funcionarios interinos
 
 8.º La atribución temporal de funciones y su revocación a funcionarios en puestos de libre designación.
+
+> Se modifica el apartado 1 y se añade el 1 bis por la disposición 12 a 14 de la Orden TED/346/2022, de 20 de abril. Ref. BOE-A-2022-6597

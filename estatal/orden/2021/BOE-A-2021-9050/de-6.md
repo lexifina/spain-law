@@ -6,7 +6,7 @@ a) Las facultades de formalización de convenios a los que se refiere el artícu
 
 b) Las facultades referentes a encargos a medios propios personificados, a que se refiere el artículo 32 de la Ley 9/2017, de 8 de noviembre, así como a encomiendas de gestión del artículo 11 de la Ley 40/2015, de 1 de octubre, así como las modificaciones de los encargos y encomiendas de gestión formalizadas por la persona titular de la secretaría general. Todo ello con el límite de la cuantía establecida en el anexo.
 
-c) La convocatoria y concesión de ayudas y subvenciones públicas, así como de transferencias, con el límite de la cuantía establecida en el anexo, así como el inicio y la resolución de los expedientes sancionadores en esta materia.
+c) La convocatoria y concesión de ayudas y subvenciones públicas, así como de transferencias, con el límite de la cuantía establecida en el anexo, excepto el inicio y la resolución de los expedientes sancionadores y de reintegro, que se delegan en la persona titular de la Dirección General de Políticas contra la Despoblación.
 
 d) Los acuerdos de cancelación de garantías prestadas por los beneficiarios de las ayudas y subvenciones concedidas en virtud de lo previsto en el párrafo anterior.
 
@@ -39,3 +39,5 @@ e) Todos los demás actos de tramitación en materia de contratación administra
 a) La certificación en los contratos de servicios y en los encargos a medios propios del ámbito de actuación de la secretaría de Estado, de la insuficiencia, falta de adecuación o conveniencia de no ampliación de los medios personales y materiales con que cuenta la Administración para cubrir las necesidades que se trata de satisfacer a través del contrato de servicios.
 
 b) La designación de las comisiones de servicio con derecho a indemnización, respecto de la persona titular de la Dirección General de Políticas contra la Despoblación, así como respecto de la persona titular de la jefatura de su gabinete técnico.
+
+> Se modifica el apartado 1.c) por la disposición 7 de la Orden TED/346/2022, de 20 de abril. Ref. BOE-A-2022-6597

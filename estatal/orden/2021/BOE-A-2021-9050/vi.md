@@ -34,13 +34,15 @@ c) La autorización para la tramitación de libramientos y para las transferenci
 
 c) En materia de contratación, las facultades de contratación no atribuidas a la Junta de Contratación, con el límite de la cuantía establecida en el anexo.
 
-d) La concesión de transferencias, convocatoria y concesión de subvenciones y ayudas públicas, con el límite de la cuantía establecida en el anexo
+d) La convocatoria y concesión de ayudas y subvenciones públicas, así como de transferencias, con el límite de la cuantía establecida en el anexo, excepto el inicio y la resolución de los expedientes sancionadores y de reintegro, que se delegan en la persona titular de la Dirección General de Servicios.
 
-e) La aprobación de gastos y su compromiso.
+e) Sin perjuicio de las delegaciones realizadas en otros apartados de esta orden, que tendrán preferencia sobre lo dispuesto en este apartado, la aprobación, el compromiso y el reconocimiento de obligaciones, dentro del intervalo de cuantías del anexo:
 
-Cuando en un mismo acto se apruebe o comprometa gasto y se reconozca la obligación, la competencia se determinará conforme a lo establecido en este párrafo.
+1.º Respecto de los créditos del capítulo 2 asignados a todos los servicios y programas de los presupuestos del Departamento.
 
-Las delegaciones establecidas en este apartado se entienden sin perjuicio de las delegaciones realizadas en otros apartados de esta orden cuyo ejercicio comprenda la de aprobar, comprometer o reconocer obligaciones, que tendrán preferencia sobre lo dispuesto en este párrafo.
+2.º Respecto de los créditos del capítulo 6 asignados a los servicios presupuestarios “Ministerio, Subsecretaría y servicios generales” y “Dirección General de Servicios”.
+
+Cuando en un mismo acto se apruebe o comprometa gasto y se reconozca la obligación, la competencia se determinará conforme a lo establecido en este apartado.
 
 f) En materia de indemnizaciones por razón de servicio, autorizar las comisiones de servicio con derecho a indemnización por cuantía exacta para altos cargos dependientes de la persona titular del ministerio.
 
@@ -82,7 +84,7 @@ j) En otras materias:
 
 3.º La elevación de las propuestas del departamento para la elaboración del Plan Anual de Publicidad y Comunicación Institucional de la Administración General del Estado, al que se refiere el Real Decreto 947/2006, de 28 de agosto, por el que se regula la Comisión de Publicidad y Comunicación Institucional y la elaboración del Plan Anual de Publicidad y Comunicación de la Administración General del Estado.
 
-4.º Las competencias en materia de patrimonio del departamento, ello sin perjuicio de las que, de acuerdo con la Ley de Aguas y la Ley de Costas estén atribuidas a los responsables, respectivamente, del dominio público hidráulico y del dominio público marítimo-terrestre, así como las que, en su caso, correspondan por delegación de la persona titular del Ministerio de Hacienda o de la Dirección General del Patrimonio del Estado.
+4.º (Derogado).
 
 5.º La fijación o modificación de los precios de venta al público de las publicaciones del ministerio.
 
@@ -91,3 +93,5 @@ j) En otras materias:
 2. La persona titular de la subsecretaría ejercerá, por delegación de la persona titular del ministerio, la aprobación y el compromiso del gasto, así como el reconocimiento y propuesta de pago de las obligaciones económicas que se financien con cargo a los créditos consignados en el servicio 50 y en los programas presupuestarios correspondientes al ámbito material de sus competencias. Asimismo, se delega la competencia administrativa de cualquier acto realizado en su ámbito material de competencias y cuya financiación se realice con cargo a los créditos consignados en el citado servicio.
 
 3. La persona titular de la subsecretaría ejercerá, por delegación de la persona titular de la Secretaría de Estado de Energía, y de la Secretaría de Estado de Medio Ambiente, la convocatoria y resolución de los procedimientos de libre designación para proveer los puestos de subdirector/a general de las secretarías de estado, y el nombramiento y cese de sus titulares, a propuesta de las personas titulares de las secretarías de estado.
+
+> Se modifica el apartado 1.d), e) y j) por la disposición 9 a 11 de la Orden TED/346/2022, de 20 de abril. Ref. BOE-A-2022-6597

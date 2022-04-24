@@ -24,7 +24,7 @@ j) Los acuerdos de cancelación de garantías prestadas por los beneficiarios de
 
 k) La resolución desestimatoria de las solicitudes y la resolución en casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud, de todo tipo de ayudas y subvenciones públicas del ámbito de la secretaría general, así como la desaparición sobrevenida del objeto del procedimiento, cuando en este ámbito, correspondan a la persona titular del ministerio.
 
-l) La incoación, la designación del órgano instructor y la resolución del procedimiento sancionador de las ayudas y subvenciones públicas del ámbito de la secretaría general.
+l) La incoación, la designación del órgano instructor y la resolución del procedimiento sancionador, así como el inicio y la resolución del procedimiento de reintegro de las ayudas y subvenciones públicas del ámbito de la Secretaría General.
 
 m) La aprobación de los expedientes de gasto, la autorización de su compromiso, con el límite de la cuantía establecida en el anexo.
 
@@ -33,3 +33,5 @@ m) La aprobación de los expedientes de gasto, la autorización de su compromiso
 a) La certificación en los contratos de servicios y en los encargos a medios propios del ámbito de actuación de la Dirección General, de la insuficiencia, falta de adecuación o conveniencia de no ampliación de los medios personales y materiales con que cuenta la Administración para cubrir las necesidades que se trata de satisfacer a través del contrato de servicios.
 
 b) En materia de indemnizaciones por razón de servicio, la designación de comisiones de servicio con derecho a indemnización de las personas titulares de las subdirecciones generales adscritas a la dirección general o adscritas a la unidad de apoyo de la dirección general.
+
+> Se modifica el apartado 1.l) por la disposición 8 de la Orden TED/346/2022, de 20 de abril. Ref. BOE-A-2022-6597
