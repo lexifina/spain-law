@@ -1,0 +1,1 @@
+Téngase en cuenta, que la presente norma mantendrá su vigencia en lo que no contravenga el contenido del Real Decreto 933/2021, de 26 de octubre de 2021. Ref. BOE-A-2021-17461#dd, y en tanto no se produzca el desarrollo de este Real Decreto, según establece en su disposición derogatoria única.
