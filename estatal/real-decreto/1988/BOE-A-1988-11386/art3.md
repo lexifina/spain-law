@@ -18,11 +18,15 @@ Compete especialmente al Jefe de la Casa:
 
 – Aprobar las cuentas anuales correspondientes a la liquidación de cada ejercicio económico.
 
-2. Dependerán del Jefe de la Casa de Su Majestad todos los Servicios de la misma.
+2. Dependerán del Jefe de la Casa los órganos de la misma a que se refiere el artículo 2.
 
-3. Dependerá directamente del Jefe de la Casa la Oficina de Intervención, a cuyo frente estará un Interventor que ejercerá las funciones de control de la gestión económico-financiera, presupuestaria y contable conforme a las técnicas empleadas en la Administración del Estado. Tras la liquidación de cada ejercicio económico, elevará al Jefe de la Casa un informe resumen de los emitidos durante el año, expresivo del grado de eficacia lograda en su actividad de control.
+Compete al Jefe de la Casa la asignación de funciones al personal integrado en la Secretaría General, Cuarto Militar y Guardia Real, así como la prestación de apoyos funcionales entre esos órganos, para garantizar el cumplimiento de las misiones que corresponden a la Casa de Su Majestad el Rey en este real decreto.
 
-4. También dependerá directamente del Jefe de la Casa un Consejero Diplomático, que prestará asistencia a la Casa de Su Majestad el Rey en el ámbito de las relaciones internacionales. Las funciones del Consejero Diplomático podrán ser asumidas por el responsable de cualquiera de las unidades integradas en la Secretaría General, o por otra persona designada al efecto en los términos establecidos en este real decreto.
+3. Dependerá directamente del Jefe de la Casa la Oficina de Intervención, a cuyo frente estará un Interventor, que pertenecerá al Cuerpo Superior de Interventores y Auditores del Estado y que ejercerá las funciones de control de la gestión económico-financiera, presupuestaria y contable conforme a las técnicas empleadas en la Administración del Estado. Tras la liquidación de cada ejercicio económico, elevará al Jefe de la Casa un informe resumen de los emitidos durante el año.
+
+4. También dependerá directamente del Jefe de la Casa un Consejero Diplomático, que pertenecerá a la Carrera Diplomática y que prestará asistencia a la Casa de Su Majestad el Rey en el ámbito de las relaciones internacionales.
+
+> Se modifican los apartados 2, 3 y 4 por el art. único.1 del Real Decreto 297/2022, de 26 de abril. Ref. BOE-A-2022-6765
 
 > Se añade el apartado 4 por el art. 2.1 del Real Decreto 547/2014, de 27 de junio. Ref. BOE-A-2014-6762.
 

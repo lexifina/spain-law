@@ -10,6 +10,6 @@
 
 5. El personal civil y militar al servicio de la Casa de S.M. el Rey estará sometido a la normativa de incompatibilidades del personal al servicio de las Administraciones Públicas.
 
-6. La Jefatura de la Casa podrá aprobar un Código de Conducta del personal al servicio de la misma, que será publicado en la página web de la Casa de S.M. el Rey.
+> Se suprime el apartado 6 por el art. único.5 del Real Decreto 297/2022, de 26 de abril. Ref. BOE-A-2022-6765
 
 > Se añaden los apartados 5 y 6 por el art. único.6 del Real Decreto 772/2015, de 28 de agosto. Ref. BOE-A-2015-9460.
