@@ -164,15 +164,7 @@ Ocho. El artículo 9 del Reglamento de Armas redactado del siguiente modo:
 
 «Artículo 9.
 
-1. En la Intervención Central de Armas y Explosivos de la Dirección General de la Guardia Civil radicará el Registro Nacional de Armas, en el que constarán aquellas armas, municiones, componentes esenciales, guías, autorizaciones y licencias cuyo registro proceda de conformidad con lo establecido en este Reglamento. Este Registro contendrá toda la información necesaria para la trazabilidad e identificación de las armas, incluidos los siguientes datos:
-
-a) el tipo, la marca, el modelo, el calibre y el número de serie de cada arma y el marcado aplicado en su armazón o cajón de mecanismos como marcado único de conformidad con el artículo 28, que servirá de identificador único de cada arma;
-
-b) el número de serie o marcado único aplicado en los componentes esenciales, cuando este difiera del marcado del armazón o la caja de mecanismos de cada arma de fuego;
-
-c) el nombre y dirección de los proveedores y de las personas que adquieran o posean el arma, así como la fecha o las fechas correspondientes, y
-
-d) toda transformación o modificación de un arma que dé lugar a un cambio de categoría o subcategoría, incluida su inutilización o destrucción certificadas y la fecha o fechas correspondientes.
+1. (Anulado)
 
 2. La Dirección General de la Guardia Civil llevará los Registros de Actividades de Tratamiento de los datos de carácter personal contenidos en el Registro Nacional de Armas.
 
@@ -559,3 +551,5 @@ Cincuenta y seis. El apartado 3 del artículo 169 del Reglamento de Armas queda 
 «3. En el caso de que tengan, cuando sean necesarios, las marcas, números y punzones de bancos oficiales de pruebas o reconocidos, la Guardia Civil procederá en la misma forma prevenida en los artículos anteriores.»
 
 Cincuenta y siete. Se suprime el Anexo «Características y medidas de seguridad en galerías y campos de tiro» del Reglamento de Armas, que queda sin contenido.
+
+> Se declara la nulidad del párrafo octavo, en la nueva redacción que da al art. 9.1º del Reglamento de armas, aprobado por el Real Decreto 137/1993, de 29 de enero, por Sentencia del TS de 4 de abril de 2022. Ref. BOE-A-2022-7138
