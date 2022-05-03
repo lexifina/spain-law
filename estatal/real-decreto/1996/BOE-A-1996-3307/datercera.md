@@ -29,3 +29,11 @@ c) Medalla de Bronce al Mérito Social Penitenciario, cuando concurran méritos 
 Las condecoraciones de los párrafos b) y c) se otorgarán por resolución de la Secretaría de Estado de Asuntos Penitenciarios.
 
 3. Por resolución de la Secretaría de Estado de Asuntos Penitenciarios se convocará anualmente el Premio Nacional «Victoria Kent». En dicha resolución se determinarán las bases del Premio y se designará el jurado encargado de su concesión, que deberá valorar los méritos extraordinarios de las entidades o particulares que concurran al mismo en materia de defensa, en el ámbito penitenciario, de los derechos humanos o de las tareas de reinserción y resocialización de los reclusos de extraordinaria relevancia, así como en el fomento de la investigación multidisciplinar penitenciaria.
+
+4. Con carácter anual, la Secretaría General de Instituciones Penitenciarias convocará la concesión del Premio Nacional Concepción Arenal de Periodismo Penitenciario a la persona o medio de comunicación que destaque por su especial dedicación al medio penitenciario, manifestada a través de una trayectoria sostenida en el tiempo o mediante la realización de uno o varios trabajos de investigación periodística de contrastada calidad informativa.
+
+De acuerdo con la orden ministerial que regule las bases de este premio, para la selección del beneficiario de la misma se aplicarán los criterios de rigor informativo; interés divulgativo; visibilización de políticas y logros reeducativos o de reinserción social de las personas privadas de libertad; y profundidad y complejidad del análisis de la realidad penitenciaria que se hubiera llevado a cabo.
+
+El premio se otorgará por resolución de la persona titular de la Secretaría General de Instituciones Penitenciarias.
+
+> Se añade el apartado 4 por el art. 1 del Real Decreto 268/2022, de 12 de abril de 2022. Ref. BOE-A-2022-6046
