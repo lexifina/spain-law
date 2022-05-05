@@ -28,6 +28,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 15](a1-7.md)
 - [Artículo 16](a1-8.md)
 - [Artículo 17](a1-9.md)
+- [Artículo 18](a1-10.md)
 - [Disposición adicional primera](da.md)
 - [Disposición adicional segunda](da-2.md)
 - [Disposición adicional tercera](da-3.md)
