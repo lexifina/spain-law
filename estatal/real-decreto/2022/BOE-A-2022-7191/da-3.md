@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Respeto del principio de «no causar un perjuicio significativo» al medioambiente.
+
+En cumplimiento con lo dispuesto en el Plan de Recuperación, Transformación y Resiliencia (PRTR) y en el Reglamento (UE) 2021/241 del Parlamento Europeo y del Consejo, de 12 de febrero de 2021, por el que se establece el Mecanismo de Recuperación y Resiliencia, todas las actuaciones que se lleven a cabo en el marco del PRTR en cumplimiento del presente real decreto deben respetar el principio de «no causar un perjuicio significativo» al medioambiente (principio DNSH por sus siglas en inglés, Do No Significant Harm) y las condiciones del etiquetado climático y digital.
