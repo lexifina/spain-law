@@ -171,7 +171,7 @@ d) Piensos adquiridos a terceros.
 
 Cuando en las actividades ganaderas se alimente el ganado con piensos y otros productos para la alimentación adquiridos a terceros que representen más del 50 por 100 del importe de los consumidos.
 
-Índice: 0,75, excepto en los casos de explotación intensiva de ganado porcino de carne y avicultura. Este índice será del 0,95 cuando se trate de las mencionadas actividades de explotación intensiva de ganado porcino de carne y avicultura.
+Índice: 0,50.
 
 A efectos de este índice, la valoración del importe de los piensos y otros productos propios se efectuará según su valor de mercado.
 
@@ -183,9 +183,9 @@ Cuando la producción cumpla los requisitos establecidos en el Reglamento (CE) 8
 
 f) Cultivos en tierras de regadío que utilicen, a tal efecto, energía eléctrica.
 
-Cuando los cultivos se realicen, en todo o en parte, en tierras de regadío y el consumo eléctrico diario medio, en términos de energía facturada en kWh, de la factura del mes del período impositivo con mayor consumo sea, al menos, 2,5 veces superior al correspondiente a la de dos meses del mismo período impositivo, siempre que el contribuyente, o la comunidad de regantes en la que participe, estén inscritos en el registro territorial correspondiente a la oficina gestora de impuestos especiales a que se refiere el artículo 102.2 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+Cuando los cultivos se realicen, en todo o en parte, en tierras de regadío, siempre que el contribuyente, o la comunidad de regantes en la que participe, estén inscritos en el registro territorial correspondiente a la oficina gestora de impuestos especiales a que se refiere el artículo 102.2 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
 
-Índice: 0,80 sobre el rendimiento procedente de los cultivos realizados en tierras de regadío por energía eléctrica.
+Índice: 0,75 sobre el rendimiento procedente de los cultivos realizados en tierras de regadío por energía eléctrica.
 
 Cuando no sea posible delimitar dicho rendimiento, este índice se aplicará sobre el resultado de multiplicar el rendimiento procedente de todos los cultivos por el porcentaje que suponga la superficie de los cultivos en tierras de regadío que utilicen, a tal fin, energía eléctrica sobre la superficie total de la explotación agrícola.
 
@@ -291,3 +291,5 @@ Si el resultado de la última declaración-liquidación del ejercicio fuera nega
 6. La declaración-liquidación correspondiente al último trimestre del año natural deberá presentarse durante los treinta primeros días naturales del mes de enero.
 
 7. La liquidación de las cuotas correspondientes a las operaciones indicadas en el apartado uno.B del artículo 123 de la Ley del Impuesto y la deducción de las cuotas soportadas o satisfechas por la adquisición o importación de activos fijos se efectuará en la forma indicada en el Anexo III, número 4 de esta Orden Ministerial.
+
+> Se modifica el apartado 2.3.d) y 2.3.f) por el art. 2 y 3 de la Orden HFP/413/2022, de 10 de mayo. Ref. BOE-A-2022-7638
