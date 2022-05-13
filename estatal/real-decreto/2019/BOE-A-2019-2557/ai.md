@@ -22,7 +22,7 @@ I. Extracción de áridos submarinos, incluida la realizada con destino a la cre
 
 J. Minería submarina.
 
-K. Regeneración o creación de playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial.
+K. Aporte de arenas a playas, siempre que se trate de un aporte externo de áridos que se realice por debajo de la cota de la pleamar máxima viva equinoccial.
 
 L. Proyectos diferentes a las aportaciones de arena a playas y la construcción de nuevas infraestructuras portuarias y de defensa de la costa, encaminados a ganar tierras al mar con aporte de materiales de cualquier procedencia.
 
@@ -39,3 +39,5 @@ Q. Instalaciones de acuicultura marina para el cultivo o engorde de especies com
 R. Actividad económica de colocación de urnas funerarias o cenizas funerarias en el mar.
 
 S. Otras: cualquier otra actuación susceptible de estar sujeta a informe de compatibilidad por tratarse de uno de los supuestos sometidos a uno de los procedimientos del artículo 6 y que esté directamente relacionada con la consecución de los objetivos ambientales y suponga un riesgo para el buen estado ambiental conforme a lo señalado en el apartado 3.3 de la Ley 41/2010, de 29 de diciembre.
+
+> Se modifica el epígrafe k por el art. único.4 del Real Decreto 218/2022, de 29 de marzo. Ref. BOE-A-2022-6050
