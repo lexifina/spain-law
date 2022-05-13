@@ -25,6 +25,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional segunda](da-2.md)
 - [Disposición transitoria primera](dt.md)
 - [Disposición transitoria segunda](dt-2.md)
+- [Disposición transitoria tercera](dt-3.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición final](df.md)
 - [(firma)](fi.md)
