@@ -24,5 +24,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 11](a1-3.md)
 - [Disposición derogatoria única](dd.md)
 - [Disposición final única](df.md)
+- [Disposición final 1](df-2.md)
+- [Disposición final 2](df-3.md)
 - [(firma)](fi.md)
 - [ANEXO](an-2.md)
