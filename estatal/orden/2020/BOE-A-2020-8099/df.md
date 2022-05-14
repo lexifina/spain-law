@@ -1,6 +1,8 @@
 ## Disposición final única. Efectos.
 
-Esta orden surtirá efectos desde las 24:00 horas del 22 de julio de 2020 hasta las 24:00 horas del 15 de mayo de 2022, sin perjuicio de su eventual modificación para responder a un cambio de circunstancias o a nuevas recomendaciones en el ámbito de la Unión Europea.
+Esta orden surtirá efectos desde las 24:00 horas del 22 de julio de 2020 hasta las 24:00 horas del 15 de junio de 2022, sin perjuicio de su eventual modificación para responder a un cambio de circunstancias o a nuevas recomendaciones en el ámbito de la Unión Europea.
+
+> Se modifica por el art. único.3 de la Orden INT/424/2022, de 13 de mayo. Ref. BOE-A-2022-7846
 
 > Se modifica por el art. único de la Orden INT/372/2022, de 29 de abril. Ref. BOE-A-2022-6977
 
