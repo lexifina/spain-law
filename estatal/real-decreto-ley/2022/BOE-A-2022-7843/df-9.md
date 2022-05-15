@@ -1,0 +1,3 @@
+## Disposición final novena. Títulos competenciales.
+
+El presente real decreto-ley se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª y 25.ª de la Constitución Española, que atribuyen al Estado la competencia en materia bases y coordinación de la planificación general de la actividad económica y bases del régimen minero y energético, respectivamente, a excepción de la disposición adicional sexta, que se dicta al amparo de lo previsto en el artículo 149.1.14.ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de Hacienda general y de la disposición final séptima, que se dicta al amparo de lo dispuesto por el artículo 149.1.2.ª de la Constitución Española, que atribuye al Estado competencia exclusiva en materia de derecho de asilo.

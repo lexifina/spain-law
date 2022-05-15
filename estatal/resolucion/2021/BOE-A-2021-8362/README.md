@@ -77,6 +77,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Regla 50](r5-2.md)
 - [CAPÍTULO NOVENO](cn.md)
 - [Regla 51](r5-3.md)
+- [Regla 51 bis](r5-12.md)
 - [CAPÍTULO DÉCIMO](cd.md)
 - [Regla 52](r5-4.md)
 - [Regla 53](r5-5.md)

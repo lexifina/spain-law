@@ -1,0 +1,86 @@
+## Disposición final sexta. Modificación del Real Decreto 413/2014, de 6 de junio, por el que se regula la actividad de producción de energía eléctrica a partir de fuentes de energía renovables, cogeneración y residuos.
+
+El Real Decreto 413/2014, de 6 de junio, por el que se regula la actividad de producción de energía eléctrica a partir de fuentes de energía renovables, cogeneración y residuos, queda modificado de la siguiente forma:
+
+Uno. Se modifican los apartados 3 y 4 del artículo 22 que quedan con la siguiente redacción:
+
+> «3. Cuando el valor medio ponderado de la cesta de precios de los mercados eléctricos se encuentre fuera de dichos límites, se generará, en cómputo anual, un saldo positivo o negativo, que se denominará valor de ajuste por desviaciones en el precio del mercado y se calculará, para el año “i” del semiperiodo regulatorio “j”, como sigue:
+
+> a) En el caso de que el valor medio ponderado de la cesta de precios de los mercados eléctricos para el año “i” haya sido superior a LS2:
+
+> Vajdmi,j = Nhi,j * 0,5 * (LS1i,j- LS2i,j) + Nhi,j * (LS2i,j- Pcesta,i )
+
+> b) En el caso de que el valor medio ponderado de la cesta de precios de los mercados eléctricos para el año “i” se haya situado entre LS1 y LS2:
+
+> Vajdmi,j = Nhi,j * 0,5 * (LS1i,j - Pcesta,i )
+
+> c) En el caso de que el valor medio ponderado de la cesta de precios de los mercados eléctricos para el año “i” haya resultado mayor que LI1 y menor que LS1:
+
+> Vajdmi,j = 0
+
+> d) En el caso de que el valor medio ponderado de la cesta de precios de los mercados eléctricos para el año “i” se haya situado entre LI1 y LI2:
+
+> Vajdmi,j = Nhi,j * 0,5 * (LI1i,j - Pcesta,i )
+
+> e) En el caso de que el valor medio ponderado de la cesta de precios de los mercados eléctricos para el año “i” haya sido inferior a LI2:
+
+> Vajdmi,j = Nhi,j * 0,5 * (LI1i,j- LI2i,j) + Nhi,j * (LI2i,j – Pcesta,i )
+
+> Siendo:
+
+> Vajdmi,j: Valor de ajuste por desviaciones en el precio del mercado en el año “i” del semiperiodo regulatorio “j”, expresado en €/MW.
+
+> Nhi,j: Número de horas de funcionamiento de la instalación tipo utilizado en el cálculo de los parámetros retributivos de dicha instalación tipo para el año “i” del semiperiodo regulatorio “j”, expresado en horas.
+
+> Pcesta,i: Valor medio ponderado de la cesta de precios de los mercados eléctricos para el año “i”, expresado en €/MWh, calculado de acuerdo con la siguiente expresión:
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2022/115/7843_11602575_15.png)
+
+> Donde:
+
+> Pmi: Precio medio anual del mercado diario e intradiario en el año “i”, expresado en €/MWh.
+
+> Pfanuali: Precio medio del futuro anual con liquidación en el año “i”, expresado en €/MWh. Calculado como la media aritmética de las cotizaciones de referencia del contrato de futuro anual con liquidación en el año “i” publicadas por el mercado organizado de futuros de electricidad, OMIP, en los seis meses anteriores al inicio de su liquidación. Para el año 2023 se considerará el contrato de futuro anual con liquidación en 2023 negociado desde el 1 de octubre de 2022 hasta el 31 de diciembre de 2022.
+
+> Pftrimi,k: Precio medio de los futuros trimestrales para el trimestre “k” del año “i”, expresado en €/MWh. Calculado como la media aritmética de las cotizaciones de referencia de los contratos de futuros trimestrales con liquidación en el trimestre “k” del año “i” publicadas por el mercado organizado de futuros de electricidad, OMIP, en los tres meses anteriores al inicio de su liquidación.
+
+> Pfmeni,l: Precio medio de los futuros mensuales para el mes “l” del año “i”, expresado en €/MWh. Calculado como la media aritmética de las cotizaciones de referencia de los contratos de futuros mensuales con liquidación en el mes “l” del año “i” publicadas por el mercado organizado de futuros de electricidad, OMIP, en el mes anterior al inicio de su liquidación.
+
+> ai: Coeficiente de ponderación, expresado en tanto por uno, aplicable al precio medio anual del mercado diario e intradiario en el año “i”.
+
+> bi: Coeficiente de ponderación, expresado en tanto por uno, aplicable al precio medio de los futuros anuales para el año “i”.
+
+> ci,k: Coeficiente de ponderación, expresado en tanto por uno, aplicable al precio medio de los futuros trimestrales para el trimestre “k” del año “i”.
+
+> di,l: Coeficiente de ponderación, expresado en tanto por uno, aplicable al precio medio de los futuros mensuales para el mes “l” del año “i”.
+
+> Capunti: Coeficiente de apuntamiento real de cada tecnología, para el año “i”.
+
+> Para el año 2022, el coeficiente a2022 tomará como valor 1 y los coeficientes b2022,del c2022,1 al c2022,4, y del d2022,1 al d2022,12 tomarán como valor 0.
+
+> Para el año 2023, los coeficientes de ponderación tomarán los siguientes valores:
+
+> | Coeficiente | Valor |
+> | --- | --- |
+> | a2023 | 0,75 |
+> | b2023 | 0,15 |
+> | c2023,1 al c2023,4 | 0,025 |
+> | d2023,1 al d2023,12 | 0 |
+
+> Para los años 2024 y 2025, la ponderación de los precios de los mercados de futuros en la cesta de precios será igual o superior al 50 % y al 75 %, respectivamente. Los valores concretos de los coeficientes correspondientes a los años 2024 y 2025 serán fijados por Orden de la Ministra para la Transición Ecológica y el Reto Demográfico, previo acuerdo de la Comisión Delgada del Gobierno para Asuntos Económicos, antes del 1 de julio del año anterior.
+
+> En el caso de las instalaciones de pequeña potencia el valor de ajuste por desviaciones en el precio del mercado se calculará únicamente considerando el precio medio anual del mercado diario e intradiario para cada año. Para ello el coeficiente ai tomará el valor 1 y los coeficientes bi, ci,k y di,l tomarán el valor 0. A estos efectos se considerará que una instalación es de pequeña potencia cuando esté asignada a una de las siguientes instalaciones tipo:
+
+> i. Instalaciones tipo de cogeneración del grupo a.1 definido en el artículo 2 del Real Decreto 413/2014, de 6 de junio, con rango de potencia inferior o igual a 1 MW.
+
+> ii. Instalaciones tipo fotovoltaicas del subgrupo b.1.1 definido en el artículo 2 del Real Decreto 413/2014, de 6 de junio, con rango de potencia inferior o igual a 10 MW. Las instalaciones tipo que no tengan establecido un rango de potencia, se dividirán en dos instalaciones tipo, una con rango de potencia menor o igual a 10 MW y otra con rango de potencia mayor de 10 MW.
+
+> iii. Instalaciones tipo eólicas del subgrupo b.2.1 definido en el artículo 2 del Real Decreto 413/2014, de 6 de junio, con rango de potencia inferior o igual a 5 MW.
+
+> iv. Instalaciones tipo de los grupos b.3 y b.4 definidos en el artículo 2 del Real Decreto 413/2014, de 6 de junio.
+
+> v. Instalaciones tipo de los grupos b.6, b.7 y b.8 definidos en el artículo 2 del Real Decreto 413/2014, de 6 de junio, con rango de potencia inferior o igual a 1 MW. Las instalaciones tipo que no tengan establecido un rango de potencia, se dividirán en dos instalaciones tipo, una con rango de potencia menor o igual a 1 MW y otra con rango de potencia mayor de 1 MW.
+
+> vi. Instalaciones tipo que provienen de la disposición transitoria segunda del Real Decreto 661/2007, de 25 de mayo, con rango de potencia inferior o igual a 1 MW.
+
+> 4. La Comisión Nacional de los Mercados y la Competencia calculará para cada año natural el precio medio anual del mercado diario e intradiario, como media aritmética de los precios horarios del mercado diario e intradiario y el coeficiente de apuntamiento real de cada tecnología. Los valores obtenidos se publicarán anualmente antes del 15 de enero del siguiente año en la página web del citado organismo.»

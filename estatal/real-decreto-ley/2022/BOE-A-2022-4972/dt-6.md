@@ -13,3 +13,5 @@ d) El valor unitario correspondiente a los sujetos obligados que desarrollan la 
 e) El valor unitario correspondiente a los consumidores directos en mercado será de 1,030790 €/MWh adquirido en el mercado de producción.
 
 La Comisión Nacional de los Mercados y la Competencia procederá a liquidar las cantidades correspondientes según se establece en el Real Decreto 897/2017 de 6 de octubre, por el que se regula la figura del consumidor vulnerable, el bono social y otras medidas de protección para los consumidores domésticos de energía eléctrica.
+
+> Téngase en cuenta que, con efectos desde la entrada en vigor del presente Real Decreto-ley, el valor unitario correspondiente a los sujetos obligados que desarrollan la actividad de comercialización, en €/cliente, establecido en la letra d) debe entenderse realizado en €/CUPS según lo previsto en el apartado 4 del artículo 14 bis del Real Decreto 897/2017, de 6 de octubre, según establece la disposición transitoria 4 del Real Decreto-ley 10/2022, de 13 de mayo. Ref. BOE-A-2022-7843#dt-4
