@@ -9,3 +9,7 @@ A estos efectos antes del día 15 de cada mes, los comercializadores de referenc
 El primer período de desglose comprenderá desde la entrada en vigor de este real decreto-ley hasta el 31 de diciembre de 2016.
 
 2. En dicho desarrollo reglamentario se establecerá el mecanismo para regularizar, en sentido positivo o negativo, las cantidades que sean aportadas para la financiación del bono social con arreglo a lo previsto en esta disposición transitoria, así como para reconocer, en su caso, los derechos de cobro u obligaciones de pago que correspondan.
+
+> Téngase en cuenta que se declara inaplicable esta disposición por Sentencia del TS de 28 de marzo de 2022. Ref. BOE-A-2022-7879
+
+> Se declara inaplicable por Sentencia del TS de 28 de marzo de 2022. Ref. BOE-A-2022-7879
