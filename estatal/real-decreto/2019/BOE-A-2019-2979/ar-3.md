@@ -7,3 +7,9 @@
 3. Adicionalmente, los primeros compradores deben presentar, con anterioridad a la firma del contrato, una oferta por escrito a los productores, en los términos establecidos en el artículo 4.
 
 4. Los anteriores apartados serán también de aplicación a las entregas de leche de productores titulares de explotaciones situadas fuera del territorio español a primeros compradores que tengan su sede de la efectiva dirección en el territorio español.
+
+5. Igualmente serán de aplicación los anteriores apartados a los suministros de leche cruda de compradores situados fuera del territorio español a compradores que tengan su sede de la efectiva dirección en territorio español.
+
+Por el contrario, los suministros a compradores situados fuera del territorio español estarán sujetos a la normativa nacional propia del territorio en el que se realice la compra.
+
+> Se añade el apartado 5 por el art. 1.1 del Real Decreto 374/2022, de 17 de mayo. Ref. BOE-A-2022-8119

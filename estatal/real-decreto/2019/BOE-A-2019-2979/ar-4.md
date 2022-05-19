@@ -10,9 +10,13 @@ c) Ser identificada como tal e incluir, al menos, la fecha de presentación y lo
 
 d) Proponer una duración mínima de un año para el contrato.
 
-2. Se deberán firmar dos ejemplares de cada oferta, que serán rubricados y conservados por ambas partes, al menos, durante un periodo de dos años tras su presentación.
+2. Se deberán firmar dos ejemplares de cada oferta, que serán rubricados por ambas partes.
 
-3. El productor podrá rechazar la duración mínima de un año establecida en la oferta, siempre y cuando lo haga por escrito y en un plazo máximo de 15 días hábiles.
+3. El productor podrá rechazar la duración mínima de un año establecida en la oferta, lo que implicará el rechazo de esta en su conjunto.
+
+En todo caso tendrá la obligación de contestar al primer comprador por escrito y en el plazo máximo de quince días aceptando o rechazando la oferta presentada.
+
+3 bis. La ausencia de respuesta a la oferta en tiempo y forma por parte del productor se considerará un rechazo de la misma en todos sus términos.
 
 4. En caso de que el primer comprador no desee continuar con la relación contractual tras la finalización del contrato en vigor, se lo hará saber al productor por escrito con la misma antelación establecida en la letra a) del apartado 1 de este artículo.
 
@@ -29,3 +33,5 @@ d) En todos aquellos otros casos con carácter excepcional, aceptados y con el v
 6. En los contratos automáticamente prorrogables e indefinidos, e independientemente de las condiciones de renovación o prórroga incluidas en el contrato, en caso de que una de las partes desee no prorrogar el contrato o no continuar la relación contractual, deberá comunicárselo de forma fehaciente a la otra parte con, al menos, dos meses de antelación a la fecha de conclusión del contrato, salvo causa de fuerza mayor
 
 7. En los contratos automáticamente prorrogables, con una duración inferior a un año el primer comprador deberá realizar una oferta de contrato por escrito al productor, con una duración mínima de un año para el contrato, previa a cada prórroga o renovación, en los términos y especificaciones establecidas en este artículo.
+
+> Se modifican los apartados 2 y 3 y se añade el 3 bis por el art. 1.2 del Real Decreto 374/2022, de 17 de mayo. Ref. BOE-A-2022-8119
