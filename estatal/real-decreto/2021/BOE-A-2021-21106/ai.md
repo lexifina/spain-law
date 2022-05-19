@@ -30,23 +30,21 @@ Se entiende por instalación solar térmica el conjunto de componentes encargado
 
 – Geotermia y Energía ambiente (aerotermia e hidrotermia).
 
-Según la Directiva (UE) 2018/2001 de 11 de diciembre de 2018 relativa al fomento del uso de energía procedente de fuentes renovables, se define energía geotérmica como la energía almacenada en forma de calor bajo la superficie de la tierra sólida. Son actuaciones subvencionables, las instalaciones de geotermia de circuito abierto o cerrado, así como los sistemas de aprovechamiento geotérmico de uso directo.
+Según la Directiva (UE) 2018/2001 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, relativa al fomento del uso de energía procedente de fuentes renovables, se define energía geotérmica como la energía almacenada en forma de calor bajo la superficie de la tierra sólida. Son actuaciones subvencionables, las instalaciones de geotermia de circuito abierto o cerrado, así como los sistemas de aprovechamiento geotérmico de uso directo.
 
 La energía ambiente se define como la energía térmica presente de manera natural y la energía acumulada en un ambiente confinado, que puede almacenarse en el aire ambiente (excluido el aire de salida). Es lo que comúnmente se ha venido llamando aerotermia e hidrotermia mediante bomba de calor.
 
-Las instalaciones de geotermia y energía ambiente (aerotermia e hidrotermia) mediante bomba de calor deberán tener un rendimiento medio estacional (SPF) superior a 2,5.
+Las instalaciones de geotermia y energía ambiente (aerotermia e hidrotermia) mediante bomba de calor deberán tener un rendimiento medio estacional (SPF) superior a 2,5 para las aplicaciones de calor. En el caso de las aplicaciones para únicamente producción de frío en climatización de edificios, el SPF mínimo será el que se establezca en la normativa vigente de carácter nacional o europea.
 
-Asimismo, las bombas de calor deberán cumplir con los requerimientos de ecodiseño establecidos en el Reglamento 2016/2281 de la Comisión, de 30 de noviembre de 2016, que aplica la Directiva 2009/125/CE del Parlamento Europeo y del Consejo, por la que se instaura un marco para el establecimiento de requisitos de diseño ecológico aplicables a los productos relacionados con la energía, en lo relativo a los requisitos de diseño ecológico aplicables a los productos de calentamiento de aire, los productos de refrigeración, las enfriadoras de procesos de alta temperatura y los ventiloconvectores. Adicionalmente, los refrigerantes empleados en las Bombas de Calor no deberán superar el valor del potencial de calentamiento atmosférico (PCA a 100 años) de 675, de acuerdo con la Tabla TS.2 del Informe «AR4 Climate Change 2007 The Physical Science Basis» de IPCC.
-
-Para actuaciones de geotermia que afecten a acuíferos se garantizará el cumplimiento de la Directiva 2000/60/CE, del 23 de octubre, por el que se establece un marco comunitario de actuación en el ámbito de la política de aguas para asegurarse de que no se produce daño significativo sobre los acuíferos, preservando la calidad del agua y evitando el estrés hídrico.
+Para actuaciones de geotermia que afecten a acuíferos se garantizará el cumplimiento de la Directiva 2000/60/CE del Parlamento Europeo y del Consejo, de 23 de octubre de 2000, por el que se establece un marco comunitario de actuación en el ámbito de la política de aguas, para asegurarse de que no se produce daño significativo sobre los acuíferos, preservando la calidad del agua y evitando el estrés hídrico.
 
 No serán objeto de este programa de ayudas:
 
-• Aquellas bombas de calor que no alcancen los rendimientos mínimos exigidos ni las que no certifiquen los rendimientos.
+– Aquellas bombas de calor que no alcancen los rendimientos mínimos exigidos ni las que no certifiquen los rendimientos.
 
-• Las bombas de calor cuyo cometido sea funcionar como unidad deshumectadora.
+– Las bombas de calor cuyo cometido sea funcionar como unidad deshumectadora.
 
-• Los equipos para generación de frío industrial, entendiendo como tal, aquellos sistemas frigoríficos que proporcionen frío a cámaras de refrigeración y frigoríficos para almacenamiento o congelado de alimentos u otros productos, sistemas frigoríficos ubicados en el transporte marítimo, terrestre o aéreo, salas de servidores y data centers.
+– Los equipos para generación de frío industrial, entendiendo como tal, aquellos sistemas frigoríficos que proporcionen frío a cámaras de refrigeración y frigoríficos para almacenamiento o congelado de alimentos u otros productos, sistemas frigoríficos ubicados en el transporte marítimo, terrestre o aéreo, salas de servidores y data centers.
 
 – Biomasa.
 
@@ -165,3 +163,5 @@ j) Adecuación de los accesos en las carreteras públicas y caminos existentes h
 k) Costes financieros.
 
 5. Como excepción al punto anterior, para el Programa de Incentivos 2, se considerará como coste elegible el IVA o, en su caso, el Impuesto General Indirecto Canario (IGIC) o el Impuesto sobre la Producción, los Servicios y la Importación (IPSI) soportado, siempre que estos no puedan ser susceptibles de recuperación o compensación total o parcial.
+
+> Se modifica por el art. 2.1 del Real Decreto 377/2022, de 17 de mayo. Ref. BOE-A-2022-8122

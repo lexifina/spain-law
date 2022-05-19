@@ -64,7 +64,7 @@ Coste subvencionable total (€) = Csu x Ps
 
 Donde Ps es la potencia de producción térmica realmente instalada en kW, teniendo en cuenta las siguientes consideraciones:
 
-– Para las actuaciones tipo de aerotermia, geotermia e hidrotermia se tomará como potencia Ps de la instalación la potencia en calefacción extraída de la ficha técnica o especificaciones del fabricante de acuerdo con los ensayos de la norma UNE-EN 14511, es decir, para las bombas de calor geotérmicas se tomará el valor de la potencia de calefacción B0W35 y para las bombas de calor aerotérmicas el valor de potencia de calefacción A7W35. En aquellos casos donde la potencia Ps no se pueda justificar en base a dicha norma, se presentará un informe firmado por técnico competente o empresa instaladora que justifique dicha potencia.
+– Para las actuaciones tipo de aerotermia, geotermia e hidrotermia se tomará como potencia Ps de la instalación la potencia extraída de la ficha técnica o especificaciones del fabricante de acuerdo con los ensayos de la norma UNE-EN 14511. En aquellos casos donde la potencia Ps no se pueda justificar en base a dicha norma, se presentará un informe firmado por técnico competente o empresa instaladora que justifique dicha potencia.
 
 – En el caso de instalaciones solares térmicas, la potencia de producción térmica se calculará teniendo en cuenta la ratio de 0,7 kW/m2 área total captador.
 
@@ -112,7 +112,7 @@ En caso de ampliaciones parciales, solo de la central de generación o de la red
 
 Para el caso particular de las microrredes de calor y/o frío que hibriden centrales de producción de varias tecnologías, el coste subvencionable total será la suma de los costes subvencionables de la central de producción térmica de cada tecnología por la potencia instalada correspondiente a cada una más el coste subvencionable de la nueva red y subestación de intercambio o ampliación de existentes por la potencia correspondiente, si aplicara.
 
-En todo caso, la suma de las potencias de todas las centrales de las diferentes tecnologías que participen en la hibridación, a efectos del cálculo de la ayuda máxima, no podrá superar 1 MW de potencia de producción ni igualmente la suma de todas las potencias de todas las subestaciones de intercambio, nuevas o existentes, podrá superar 1 MW. Si la hibridación es con tipología solar térmica, no computará la potencia de producción de dicha instalación a efectos del límite de 1 MW.
+En todo caso, la suma de las potencias de todas las centrales de las diferentes tecnologías que participen en la hibridación, a efectos del cálculo de la ayuda máxima, no podrá superar 1 MW de potencia de producción, ni igualmente la suma de todas las potencias de todas las subestaciones de intercambio podrá superar 1 MW. Si la hibridación es con tipología solar térmica, no computará la potencia de producción de dicha instalación a efectos del límite de 1 MW.
 
 Programa de incentivos 2: Definición de costes subvencionables y cálculo de la ayuda.
 
@@ -122,15 +122,20 @@ Por tanto, el cálculo de la ayuda para cada solicitud se determinará sobre el 
 
 Actuaciones subvencionables por tecnología renovable
 
-| Actuaciones subvencionables | Coste subvencionable unitario máximo (Csum) o Coste elegible unitario máximo (Ceum) (€/kW) |
+| Actuaciones Subvencionables | Coste subvencionable unitario máximo (Csum) o Coste elegible unitario máximo (Ceum) (€/kW) |
 | --- | --- |
-| Instalaciones geotérmicas o hidrotérmicas | 2.000 |
-| Instalaciones aerotérmicas | 1.000 |
-| Instalación Solar Térmica (1) | 1.070 |
-| Biomasa Cámara de combustión (2) | 100 |
-| Calderas de biomasa y aparatos de calefacción local (2) | 500 |
-| Desarrollo de nuevas redes de tuberías de distribución y subestaciones de intercambio o ampliación de existentes para centrales de generación nuevas o existentes (3) | 450 |
-| (1) En el caso de incorporar sistemas de producción de frío mediante energía térmica como máquinas de absorción, adsorción, etc. el coste subvencionable unitario máximo se verá incrementado en un 50 %. (2) El combustible será 100% renovable y no se permitirá la utilización de combustibles provenientes de maderas que hayan sido tratadas químicamente. (3) La potencia se medirá en potencia de intercambio. |
+| Instalaciones geotérmicas o hidrotérmicas. | 2.130 |
+| Instalaciones aerotérmicas. | 1.130 |
+| Instalación Solar Térmica (1). | 1.070 |
+| Biomasa Cámara de combustión (2). | 100 |
+| Calderas de biomasa y aparatos de calefacción local (2). | 500 |
+| Desarrollo de nuevas redes de tuberías de distribución y subestaciones de intercambio o ampliación de existentes para centrales de generación nuevas o existentes (3). | 450 |
+
+(1) En el caso de incorporar sistemas de producción de frío mediante energía térmica como máquinas de absorción, adsorción, etc. el coste subvencionable unitario máximo se verá incrementado en un 50 %.
+
+(2) El combustible será 100% renovable y no se permitirá la utilización de combustibles provenientes de maderas que hayan sido tratadas químicamente.
+
+(3) La potencia se medirá en potencia de intercambio.
 
 El coste subvencionable total de la instalación de producción será:
 
@@ -167,3 +172,5 @@ Para el Programa de incentivos 2, el importe a otorgar a la instalación de prod
 Cuando las actuaciones se lleven a cabo en municipios de Reto Demográfico, el porcentaje de ayuda aplicable sobre el coste subvencionable se incrementará en 5 puntos porcentuales. A efectos de este Real Decreto, se entiende por municipios de reto demográfico aquellos municipios de hasta 5.000 habitantes y los municipios no urbanos de hasta 20.000 habitantes en los que todas sus entidades singulares de población sean de hasta 5.000 habitantes.
 
 Para determinar si un municipio tiene consideración de municipio de Reto Demográfico, el IDAE dispone en su sede electrónica del listado de los municipios que pueden acogerse a ayuda adicional. Este listado tendrá carácter informativo y estará supeditado a las publicaciones oficiales correspondientes al «Atlas Estadístico de las Áreas Urbanas» del Ministerio de Transportes, Movilidad y Agenda Urbana y a las cifras de población resultantes de la revisión del Padrón municipal regulada conforme al Real Decreto 1147/2020, del 15 de diciembre.
+
+> Se modifica por el art. 2.2 a 4 del Real Decreto 377/2022, de 17 de mayo. Ref. BOE-A-2022-8122

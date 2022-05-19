@@ -12,27 +12,27 @@ En el artículo 11 se establecen los criterios que deben cumplir los destinatari
 
 Los requisitos que deben cumplir las tipologías de actuaciones subvencionables son los siguientes, así como los contemplados en el presente anexo:
 
-– Programa de incentivos 1: Realización de instalaciones de autoconsumo, con fuentes de energía renovable, en el sector servicios, con o sin almacenamiento.
+– Programa de incentivos 1: realización de instalaciones de autoconsumo, con fuentes de energía renovable, en el sector servicios, con o sin almacenamiento.
 
-Será actuación subvencionable la inversión en instalaciones de generación de energía eléctrica con fuentes renovables, destinadas a autoconsumo en establecimientos o instalaciones del sector servicios, así como el almacenamiento asociado a estas actuaciones.
+Será actuación subvencionable la inversión en instalaciones de generación de energía eléctrica con fuentes renovables destinadas a autoconsumo en el sector servicios, así como el almacenamiento asociado a estas actuaciones. A estos efectos, se consideran inversiones en el sector servicios aquellas llevadas a cabo por parte de los destinatarios últimos posibles para este programa 1 de incentivos.
 
-– Programa de incentivos 2: Realización de instalaciones de autoconsumo, con fuentes de energía renovable, en otros sectores productivos de la economía, con o sin almacenamiento.
+– Programa de incentivos 2: realización de instalaciones de autoconsumo, con fuentes de energía renovable, en otros sectores productivos de la economía, con o sin almacenamiento.
 
-Será actuación subvencionable la inversión en instalaciones de generación de energía eléctrica con fuentes renovables destinadas a autoconsumo en establecimientos o instalaciones en sectores productivos no previstos en el programa de incentivos 1, así como el almacenamiento asociado a estas actuaciones.
+Será actuación subvencionable la inversión en instalaciones de generación de energía eléctrica con fuentes renovables destinadas a autoconsumo en sectores productivos no previstos en el programa de incentivos 1, así como el almacenamiento asociado a estas actuaciones. A estos efectos, se consideran inversiones en sectores productivos no previstos en el programa de incentivos 1 aquellas llevadas a cabo por parte de los destinatarios últimos posibles para este programa 2 de incentivos.
 
-– Programa de incentivos 3: Incorporación de almacenamiento en instalaciones de autoconsumo, con fuentes de energía renovable, ya existentes en el sector servicios y otros sectores productivos.
+– Programa de incentivos 3: incorporación de almacenamiento en instalaciones de autoconsumo, con fuentes de energía renovable, ya existentes en el sector servicios y otros sectores productivos.
 
 Será actuación subvencionable la inversión en sistemas de almacenamiento detrás del contador que sean incorporados en las instalaciones de autoconsumo, con fuentes renovables, ya existentes tanto en el sector servicios como en otros sectores productivos.
 
-– Programa de incentivos 4: Realización de instalaciones de autoconsumo, con fuentes de energía renovable, en el sector residencial, las administraciones públicas y el tercer sector, con o sin almacenamiento.
+– Programa de incentivos 4: realización de instalaciones de autoconsumo, con fuentes de energía renovable, en el sector residencial, las administraciones públicas y el tercer sector, con o sin almacenamiento.
 
 Será actuación subvencionable la inversión en instalaciones de generación de energía eléctrica con fuentes renovables, destinadas a autoconsumo en el sector residencial, el tercer sector y las administraciones públicas, así como el almacenamiento asociado a estas actuaciones.
 
-– Programa de incentivos 5: Incorporación de almacenamiento en instalaciones de autoconsumo, con fuentes de energía renovable, ya existentes en el sector residencial, las administraciones públicas y el tercer sector.
+– Programa de incentivos 5: incorporación de almacenamiento en instalaciones de autoconsumo, con fuentes de energía renovable, ya existentes en el sector residencial, las administraciones públicas y el tercer sector.
 
-Será actuación subvencionable la inversión en sistemas de almacenamiento detrás del contador que sean incorporados en instalaciones existentes de generación de energía eléctrica con fuentes renovables en el sector residencial en las administraciones públicas y en el tercer sector.
+Será actuación subvencionable la inversión en sistemas de almacenamiento detrás del contador que sean incorporados en instalaciones existentes de generación de energía eléctrica con fuentes renovables en el sector residencial, en las administraciones públicas y en el tercer sector.
 
-– Programa de incentivos 6: Realización de instalaciones de energías renovables térmicas en el sector residencial.
+– Programa de incentivos 6: realización de instalaciones de energías renovables térmicas en el sector residencial.
 
 Será actuación subvencionable la inversión en instalaciones de producción de energía térmica con fuentes renovables, destinadas a la climatización o producción de ACS en viviendas.
 
@@ -50,7 +50,7 @@ Para cada tecnología (eólica o fotovoltaica) sólo será elegible una actuaci�
 
 B. Asimismo, para ser elegible a los efectos de este real decreto, y en lo que aplica a los programas de incentivos 1, 2, 3, 4 y 5, se entiende por instalación de almacenamiento aquellas en las que se difiere el uso final de electricidad a un momento posterior a cuando fue generada, o que realizan la conversión de energía eléctrica en una forma de energía que se pueda almacenar para la subsiguiente reconversión de dicha energía en energía eléctrica. Para que estas instalaciones sean elegibles, se deberá dar la condición de que el almacenamiento no esté directamente conectado a la red, sino que será parte de la instalación de autoconsumo.
 
-Solo serán consideradas elegibles las instalaciones de almacenamiento que no superen una ratio de capacidad instalada de almacenamiento frente a potencia de generación de 2 kWh/kW. Además, deberán contar con una garantía mínima de 5 años.
+Salvo en el caso de instalaciones aisladas de red, solo serán consideradas elegibles las instalaciones de almacenamiento que no superen una ratio de capacidad nominal instalada de almacenamiento frente a potencia de generación de 5 kWh/kW. Además, deberán contar con una garantía mínima de cinco años.
 
 Las tecnologías plomo-ácido para almacenamiento no serán elegibles.
 
@@ -62,13 +62,13 @@ C. Todas las instalaciones acogidas a cualquier programa de incentivos aprobado 
 
 Las funcionalidades de este sistema serán las siguientes:
 
-– Este sistema deberá mostrar como mínimo la producción energética renovable en términos diario, mensual y anual, y el correspondiente consumo energético para los mismos periodos.
+Este sistema deberá mostrar como mínimo la energía producida por la instalación renovable en términos diario, mensual y/o anual, y el correspondiente consumo energético para los mismos periodos, excepto en actuaciones del programa de incentivos 6, donde no será necesario mostrar el correspondiente consumo energético para esos periodos.
 
-– Adicionalmente a lo anterior, el sistema podrá mostrar datos adicionales como, por ejemplo: emisiones de CO2 evitadas y ahorro económico generado para el propietario de la instalación.
+Adicionalmente a lo anterior, el sistema podrá mostrar datos adicionales como, por ejemplo: emisiones de CO2 evitadas y ahorro económico generado para el propietario de la instalación.
 
-– Deberá existir una pantalla en un lugar visible que muestre estos datos de forma actualizada. Esto será de aplicación a todos los programas excepto para las actuaciones en el sector residencial incluidas en los programas de incentivos 4, 5 y 6.
+Deberá existir una pantalla en un lugar visible que muestre estos datos de forma actualizada. Esto será de aplicación a todos los programas excepto para las actuaciones en el sector residencial.
 
-– Adicionalmente a lo anterior, para cualquier actuación, esta misma información deberá ser accesible a través de dispositivo móvil.
+Adicionalmente a lo anterior, para cualquier actuación esta misma información deberá ser accesible a través de dispositivo móvil o aplicación web, excepto las actuaciones objeto de ayuda del programa de incentivos 6, en las que se podrá optar por el acceso a los datos a través de alguno de los equipos de la instalación para instalaciones de potencia inferior a 70 kW con carácter general y 14 kW para tecnología solar térmica. Para instalaciones de potencia superior a 70 kW con carácter general y 14 kW para tecnología solar térmica, se podrá optar por una pantalla en un lugar visible.
 
 D. Para las actuaciones subvencionables del programa 4, se deberá prever que, en cómputo anual, la suma de la energía eléctrica consumida por parte del consumidor o consumidores asociados a la instalación objeto de ayuda sea igual o mayor al 80 % de la energía anual generada por la instalación.
 
@@ -78,13 +78,13 @@ Las instalaciones realizadas deberán cumplir, cuando corresponda, con los requi
 
 F. En el caso de las instalaciones de biomasa para climatización o ACS (incluidas dentro del programa de incentivos 6):
 
-Las instalaciones de esta tipología deberán lograr una reducción de las emisiones de gases de efecto invernadero de al menos un 80 % a fin de que se alcance un «Coeficiente para el cálculo de la ayuda a los objetivos climáticos» del 100 %, de acuerdo con lo establecido el Anexo VI del el Reglamento (UE) 2021/241 por el que se establece el Mecanismo de Recuperación y Resiliencia.
+Las instalaciones de esta tipología deberán lograr una reducción de las emisiones de gases de efecto invernadero de al menos un 80 % a fin de que se alcance un ''Coeficiente para el cálculo de la ayuda a los objetivos climáticos'' del 100 %, de acuerdo con lo establecido el anexo VI del el Reglamento (UE) 2021/241 por el que se establece el Mecanismo de Recuperación y Resiliencia.
 
 Además, las actuaciones que incluyan aparatos de calefacción local o calderas de menos de 1 MW:
 
-– Deberán presentar una acreditación por parte del fabricante del equipo del cumplimiento de los requisitos de eficiencia energética estacional y emisiones para el combustible que se vaya a utilizar que no podrán ser menos exigentes que los definidos en el Reglamento de Ecodiseño en vigor (según corresponda, Reglamento (UE) 2015/1185 de la Comisión o Reglamento (UE) 2015/1189 de la Comisión).
+– Deberán presentar una acreditación por parte del fabricante del equipo del cumplimiento de los requisitos de eficiencia energética estacional y emisiones para el combustible que se vaya a utilizar que no podrán ser menos exigentes que los definidos en el Reglamento de Ecodiseño en vigor [según corresponda, Reglamento (UE) 2015/1185 de la Comisión o Reglamento (UE) 2015/1189 de la Comisión].
 
-– Como requisito adicional a las obligaciones establecidas en estas bases y en las convocatorias para esta tipología de actuación, el beneficiario mantendrá un registro documental suficiente que permita acreditar que el combustible empleado en el equipo dispone de un certificado otorgado por una entidad independiente acreditada relativo al cumplimiento de la clase A1 según lo establecido en la norma UNE-EN-ISO 17225-2, de la clase 1 de la norma UNE-EN-ISO 17225-4, de la clase A1 de la norma 164003 o de la clase A1 de la norma 164004. Este registro se mantendrá durante un plazo de cinco años.
+– Como requisito adicional a las obligaciones establecidas en estas bases y en las convocatorias para esta tipología de actuación, el beneficiario mantendrá un registro documental suficiente que permita acreditar que el combustible empleado en el equipo dispone de un certificado otorgado por una entidad independiente acreditada relativo al cumplimiento de la clase A1 según lo establecido en la norma UNE-EN-ISO 17225-2, de la clase A1 de la norma UNE-EN-ISO 17225-3, de la clase A1 de la norma UNE-EN-ISO 17225-4, de la clase A1 de la norma UNE 164003 o de la clase A1 de la norma UNE 164004. También se podrán subvencionar actuaciones que incluyan equipos alimentados con leña de madera, siempre que cumplan la clase de propiedad M20 según lo establecido en la norma UNE-EN-ISO 17225-5 y no se realicen en municipios de más de 50.000 habitantes o capitales de provincia. Solo se podrán subvencionar los equipos que funcionen exclusivamente con estos combustibles. Este registro, con los albaranes o facturas de venta del biocombustible, se mantendrá durante un plazo de cinco años.
 
 Asimismo, las emisiones procedentes de las instalaciones de 1 MW o superior y menores de 50 MW deberán cumplir con los requisitos de emisiones establecidos en el Real Decreto 1042/2017, de 22 de diciembre, sobre la limitación de las emisiones a la atmósfera de determinados agentes contaminantes procedentes de las instalaciones de combustión medianas y por el que se actualiza el anexo IV de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, así como con cualquier otra legislación nacional que les sea de aplicación.
 
@@ -157,3 +157,5 @@ k) Adecuación de los accesos en las carreteras públicas y caminos existentes h
 l) Costes financieros.
 
 4. Como excepción al punto anterior, para los programas de incentivos 4, 5 y 6, se considerará un coste elegible el IVA o, en su caso, el Impuesto General Indirecto Canario (IGIC) o el Impuesto sobre la Producción, los Servicios y la Importación (IPSI) soportado, siempre que estos no puedan ser susceptibles de recuperación o compensación total o parcial.
+
+> Se modifica la introducción del anexo I y las letras B, C y F del apartado AI.1 por el art. 1.10 a 13 del Real Decreto 377/2022, de 17 de mayo. Ref. BOE-A-2022-8122

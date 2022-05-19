@@ -85,22 +85,21 @@ i. Datos generales:
 
 La ubicación del proyecto deberá quedar claramente identificada pudiendo realizarse aportando la dirección postal completa (calle, número o km y municipio), si se realiza o no en cubierta, municipio y parcela o número de polígono, la referencia catastral o las coordenadas UTM. Adicionalmente a lo anterior, deberá identificarse el punto o puntos de consumo al que se le va a suministrar energía eléctrica.
 
-ii. Almacenamiento:
+ii) Almacenamiento:
 
-| Almacenamiento. | SÍ/NO |
+| Almacenamiento. | Sí/No. |
 | --- | --- |
-| Capacidad del sistema de almacenamiento. | kWh |
-| Potencia de la instalación de almacenamiento. | kW |
+| Capacidad de la instalación de almacenamiento. | kWh. |
+| Potencia de la instalación de almacenamiento. | kW. |
 
-En el caso de existir sistema de almacenamiento, deberá tenerse en cuenta que éste no supere una ratio de capacidad instalada de almacenamiento frente a potencia de generación de 2 kWh/kW.
+En el caso de existir instalación de almacenamiento, deberá tenerse en cuenta que éste no supere una ratio de capacidad nominal instalada de almacenamiento frente a potencia de generación de 5 kWh/kW. En el caso de instalaciones aisladas de red, no será de aplicación dicha restricción.
 
-iii. Actuaciones adicionales:
+iii) Actuaciones complementarias:
 
-| ¿Se retira cubierta de amianto? | SÍ/NO |
+| ¿Se retira cubierta de amianto? | Sí/No. |
 | --- | --- |
-| ¿Se desmantelan instalaciones existentes? | SÍ/NO |
-| Incluye marquesina | SÍ/NO |
-| Autoconsumo colectivo | SÍ/NO |
+| Incluye marquesina. | Sí/No. |
+| Autoconsumo colectivo. | Sí/No. |
 
 b) En el caso de incluir sistemas de almacenamiento, se deberá presentar declaración responsable firmada por un técnico competente o empresa instaladora que acredite que el sistema de almacenamiento no estará directamente conectado a la red, sino que formará parte de la instalación de autoconsumo.
 
@@ -141,13 +140,13 @@ Para las actuaciones subvencionables de la tipología de Biomasa, excepto para l
 
 Para las solicitudes de la tipología de Biomasa, deberá presentarse, además:
 
-1. Declaración de que todos los combustibles que se van a utilizar tienen un valor por defecto de reducción de emisiones de GEI del 80 % o superior según los indicados para producción de calor establecidos en el anexo VI de la Directiva (UE) 2018/2001 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, relativa al fomento del uso de energía procedente de fuentes renovables, teniendo en cuenta el sistema de producción y resto de condiciones que determinan dicho valor por defecto, indicando la descripción del combustible o de los combustibles y el valor o los valores por defecto..
+1. Declaración de que todos los combustibles que se van a utilizar tienen un valor por defecto de reducción de emisiones de GEI del 80 % o superior según los indicados para producción de calor establecidos en el anexo VI de la Directiva (UE) 2018/2001 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, relativa al fomento del uso de energía procedente de fuentes renovables, teniendo en cuenta el sistema de producción y resto de condiciones que determinan dicho valor por defecto, indicando la descripción del combustible o de los combustibles y el valor o los valores por defecto.
 
-En el caso de que alguno de los combustibles que se van a utilizar no cumpla con el requisito anterior, se aportará una memoria firmada por un técnico competente independiente donde, para las condiciones previstas para el proyecto y de acuerdo con la metodología del citado anexo VI se justifique que para dicho combustible la reducción de gases de efecto invernadero es igual o superior al 80 %.
+En el caso de que alguno de los combustibles que se van a utilizar no cumpla con el requisito anterior, se aportará una memoria firmada por un técnico competente o empresa instaladora donde, para las condiciones previstas para el proyecto y de acuerdo con la metodología del citado anexo VI, se justifique que para dicho combustible la reducción de gases de efecto invernadero es igual o superior al 80 %.
 
 2. Si se incluyen aparatos de calefacción local o calderas de menos de 1 MW, deberá presentar una acreditación por parte del fabricante del equipo del cumplimiento de los requisitos de eficiencia energética estacional y emisiones para el combustible que se vaya a utilizar, que no podrán ser menos exigentes que los definidos en el Reglamento de Ecodiseño en vigor (según corresponda, Reglamento (UE) 2015/1185 de la Comisión o Reglamento (UE) 2015/1189 de la Comisión).
 
-3. Si se incluyen aparatos de calefacción local o calderas de menos de 1 MW, deberán presentar una declaración por parte del beneficiario comprometiéndose a mantener, durante un plazo de cinco años, un registro documental suficiente que permita acreditar que el combustible empleado en el equipo dispone de un certificado otorgado por una entidad independiente acreditada relativo al cumplimiento de la clase A1 según lo establecido en la norma UNE-EN-ISO 17225-2, de la clase 1 de la norma UNE-EN-ISO 17225-4, de la clase A1 de la norma 164003 o de la clase A1 de la norma 164004.
+3. Si se incluyen aparatos de calefacción local o calderas de menos de 1 MW, deberán presentar una declaración por parte del beneficiario comprometiéndose a utilizar exclusivamente combustibles que dispongan de un certificado otorgado por una entidad independiente acreditada relativo al cumplimiento de la clase A1 según lo establecido en la norma UNE-EN-ISO 17225-2, de la clase A1 de la norma UNE-EN-ISO 17225-3, de la clase A1 de la norma UNE-EN-ISO 17225-4, de la clase A1 de la norma UNE 164003 o de la clase A1 de la norma UNE 164004. En el caso de la leña deberá cumplir con la clase de propiedad M20 según lo establecido en la norma UNE-EN-ISO 17225-5. Igualmente se comprometerá a mantener, durante un plazo de cinco años, un registro documental, con los albaranes o facturas de venta del biocombustible que permita acreditar lo anterior.
 
 c) Para las actuaciones subvencionables de las tipologías de Geotermia, Hidrotermia y Aerotermia, en aquellos casos en que los que no se requiera ni proyecto ni memoria técnica en base a lo establecido en el RITE, se añadirá a los datos anteriores:
 
@@ -195,7 +194,7 @@ Este informe no será necesario en el caso de instalaciones del sector residenci
 
 Tampoco sería necesaria la presentación del informe en el caso de que la instalación pudiera acogerse a alguno de los casos tipo que podrán publicarse en la página web del IDAE, en cuyo caso deberá justificarlo.
 
-En el caso de los programas de incentivos 1, 2 y 4, cuando el solicitante haya incluido la petición de ayuda adicional para el desmantelamiento de amianto deberá presentarse documentación justificativa del cumplimiento de todas las obligaciones establecidas en la normativa de aplicación.
+En el caso de los programas de incentivos 1, 2 y 4, cuando el solicitante haya incluido actuación complementaria para el desmantelamiento de amianto, deberá presentarse documentación justificativa del cumplimiento de todas las obligaciones establecidas en la normativa de aplicación.
 
 4. En el caso del programa de incentivos 6, para las solicitudes de tipología de biomasa de potencia menor de 1 MW, en caso de que los equipos finalmente instalados no sean los mismos que se hicieron constar en la solicitud o no lo hicieron constar por tratarse de una entidad pública sujeta a la obligación de realizar una licitación para la ejecución de los proyectos, deberá presentarse, para el equipo definitivamente instalado, una acreditación por parte del fabricante del equipo del cumplimiento de los requisitos de eficiencia energética estacional y emisiones para el combustible que se vaya a utilizar, que no podrán ser menos exigentes que los definidos en el Reglamento de Ecodiseño en vigor (según corresponda, Reglamento (UE) 2015/1185 de la Comisión o Reglamento (UE) 2015/1189 de la Comisión).
 
@@ -243,10 +242,12 @@ k) Declaración responsable, previa a la justificación por parte de los destina
 
 Las comunidades autónomas y ciudades de Ceuta y Melilla podrán establecer en la convocatoria la exención de la totalidad o una parte de esta obligación para el caso de que el alcance de la cuenta justificativa incluya las garantías requeridas en este apartado.
 
-l) Para los proyectos con una ayuda concedida inferior a 50.000 euros y de manera opcional, podrá entregarse cuenta justificativa con aportación de justificantes de gasto, según lo previsto en el artículo 72 del Reglamento de la Ley 38/2003, de 17 de noviembre, aprobado por Real Decreto 887/2006, de 21 de julio, con el alcance que será detallado en las correspondientes convocatorias de ayuda de las respectivas comunidades autónomas y ciudades de Ceuta y Melilla. Asimismo, dichas convocatorias podrán establecer la exención de la obligación de aportar la documentación justificativa expuesta en los puntos anteriores que se considere sustituida mediante esta cuenta justificativa con aportación de justificantes de gasto.
+l) Para los proyectos con una ayuda concedida inferior a 100.000 euros y de manera opcional, podrá entregarse cuenta justificativa simplificada, según lo previsto en el artículo 75 del Reglamento de la Ley 38/2003, de 17 de noviembre, aprobado por Real Decreto 887/2006, de 21 de julio, con el alcance que será detallado en las correspondientes convocatorias de ayuda de las respectivas comunidades autónomas y ciudades de Ceuta y Melilla. Asimismo, dichas convocatorias podrán establecer la exención de la obligación de aportar la documentación justificativa expuesta en los puntos anteriores que se considere sustituida mediante esta cuenta justificativa simplificada.
 
 m) Obligatoriamente para los proyectos con un coste elegible superior a 1.000.000 euros y opcionalmente para el resto, se entregará cuenta justificativa con aportación de informe de auditor, según lo previsto en el artículo 74 del Reglamento de la Ley 38/2003, de 17 de noviembre, aprobado por Real Decreto 887/2006, de 21 de julio, con el alcance que será detallado en las correspondientes convocatorias de ayuda de las respectivas comunidades autónomas y ciudades de Ceuta y Melilla. Asimismo, dichas convocatorias podrán establecer la exención de la obligación de aportar la documentación justificativa expuesta en los puntos anteriores que se considere sustituida mediante esta cuenta justificativa con aportación de informe de auditor.
 
 En todo caso, si realizada la actividad y finalizado el plazo para justificar, se hubiera pagado sólo una parte de los gastos en que se hubiera incurrido, a efectos de pérdida del derecho a la percepción de la ayuda correspondiente, se aplicará el principio de proporcionalidad.
 
 Con independencia de lo anterior, el órgano instructor podrá elaborar instrucciones de acreditación y justificación complementarias para los casos en los que la complejidad de la actuación o el importe elevado de la ayuda así lo requirieran.
+
+> Se modifican los apartados AII.A2.a) ii) e iii), AII.A3.b) 1 y 3 y AII.B.b) 3 y l) por el art. 1.14 a 18 del Real Decreto 377/2022, de 17 de mayo. Ref. BOE-A-2022-8122

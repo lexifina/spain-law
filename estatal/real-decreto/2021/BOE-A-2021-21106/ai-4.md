@@ -18,7 +18,7 @@ b. Código de la solicitud.
 
 c. Fecha de registro.
 
-d. Estado de la solicitud.
+d. Estado de la solicitud:
 
 i. Activada.
 
@@ -34,29 +34,21 @@ a. Nombre y apellidos/Razón social/ del destinatario último y en su caso del R
 
 b. NIF del destinatario último y en su caso, del representante legal.
 
-c. Naturaleza jurídica del destinatario último:
+c. Programa de Incentivos de la solicitud objeto de ayuda (1 o 2).
 
-i. Personas jurídicas de naturaleza pública o privada.
+d. Naturaleza jurídica del destinatario último:
 
-ii. Cooperativas, y agrupaciones de empresas, y/o personas físicas que ofrezcan bienes y servicios en el mercado, y/o entidades públicas.
+i. Personas físicas.
 
-iii. Gestores de polígonos industriales, de naturaleza pública o privada.
+ii. Personas jurídicas.
 
-iv. Empresas explotadoras, arrendatarias o concesionarias de actuaciones en el ámbito de la energía.
+iii. Cualquier entidad del sector público institucional de cualesquiera Administraciones Públicas a que se refiere el artículo 2.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, así como las entidades de derecho privado u organizaciones privadas sin ánimo de lucro.
 
-v. Comunidades de regantes y otras organizaciones cuyo fin consista en la gestión común de agua para el riego agrícola o la gestión común de otros combustibles y fuentes de energía.
+iv. Agrupaciones, asociaciones, consorcios o cualquier otra forma de colaboración de cualesquiera de las figuras de los tres puntos anteriores, con o sin personalidad jurídica.
 
-vi. Titulares de explotaciones agrícolas de regadío que utilicen redes de riego para cuyo funcionamiento sea necesario actualmente el consumo de energía eléctrica.
+v. Las entidades locales territoriales previstas por el artículo 3 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local o cualquier otra Entidad local o supralocal, distinta de las anteriores, legalmente constituida y dotada de personalidad jurídica propia.
 
-vii. Cualquier organización de productores agrícolas reconocida por la autoridad competente.
-
-viii. Empresas de servicios energéticos (ESEs), o proveedores de servicios energéticos.
-
-ix. Entidades locales y sector público institucional de cualesquiera Administraciones Públicas.
-
-x. Comunidades de energías renovables y las comunidades ciudadanas de energía.
-
-d. Tipo de empresa (si aplica al punto c) Naturaleza jurídica de beneficiario):
+e. Tipo de empresa [si aplica al punto d) Naturaleza jurídica de beneficiario]:
 
 i. Pequeña empresa.
 
@@ -64,7 +56,7 @@ ii. Mediana empresa.
 
 iii. Gran empresa.
 
-e. Domicilio del destinatario último y en su caso del representante legal:
+f. Domicilio del destinatario último y en su caso del representante legal:
 
 i. Municipio.
 
@@ -72,11 +64,11 @@ ii. Provincia.
 
 iii. Comunidad autónoma o ciudades de Ceuta y Melilla.
 
-f. Actuación realizada en municipios de menos de 20.000 habitantes cuyos núcleos urbanos tienen una población menor o igual a 5.000 habitantes.
+g. Actuación realizada en municipios de menos de 20.000 habitantes cuyos núcleos urbanos tienen una población menor o igual a 5.000 habitantes.
 
-g. Proyecto promovido por una comunidad de energías renovables o comunidad ciudadana de energía.
+h. Proyecto promovido por una comunidad de energías renovables o comunidad ciudadana de energía.
 
-3. Información específica de las instalaciones para la producción de energía térmica a partir de fuentes de energías renovables térmicas
+3. Información específica de las instalaciones para la producción de energía térmica a partir de fuentes de energías renovables térmicas.
 
 a. Título del proyecto.
 
@@ -96,8 +88,6 @@ h. Descripción de las actuaciones.
 
 i. Fabricante, marca y modelo.
 
-– Para equipos de biomasa <1 MW (uso no industrial) Cumplimiento de eficiencia y emisiones según Reglamentos de Ecodiseño: (s/n).
-
 j. Para las tipologías de biomasa:
 
 – Cantidad de combustible, expresado en Tn.
@@ -105,6 +95,8 @@ j. Para las tipologías de biomasa:
 – Indicar, para todos los combustibles utilizados, la norma de aplicación/clase o su descripción.
 
 – En su caso, potencia y combustible empleado en los equipos sustituidos.
+
+– Para equipos de biomasa <1 MW (uso no industrial) Cumplimiento de eficiencia y emisiones según Reglamentos de Ecodiseño: (s/n).
 
 k. Energía térmica estimada aportada (kWh/año) diferenciada en calefacción, refrigeración, climatización de piscina y/o ACS.
 
@@ -221,3 +213,5 @@ j. Para las tipologías de biomasa:
 k. Energía térmica estimada aportada (kWh/año) diferenciada en calefacción, refrigeración, climatización de piscina y/o ACS.
 
 3. Documento justificativo de la contribución al objetivo CID 117, incluyendo los criterios de elegibilidad y el cumplimiento del principio DNSH.
+
+> Se modifica el apartado 2.A por el art. 2.5 del Real Decreto 377/2022, de 17 de mayo. Ref. BOE-A-2022-8122
