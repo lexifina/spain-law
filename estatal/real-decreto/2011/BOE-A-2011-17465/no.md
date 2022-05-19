@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 297, de 10 de diciembre de 2011. Ref. BOE-A-2011-19361
+Norma derogada, con efectos de 19 de mayo de 2022, por la disposición derogatoria única del Real Decreto 376/2022, de 17 de mayo. Ref. BOE-A-2022-8121#dd

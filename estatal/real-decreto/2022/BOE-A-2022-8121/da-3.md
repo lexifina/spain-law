@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Funciones de inspección de la Corporación de Reservas Estratégicas de Productos Petrolíferos.
+
+1. Se incluyen entre las funciones de la Corporación de Reservas Estratégicas de Productos Petrolíferos, las previstas en el artículo 14 de la Orden ITC/2877/2008, de 9 de octubre, y en el artículo 15 de este real decreto, que serán financiadas mediante la cuota a que se refiere el artículo 25.1 del Real Decreto 1716/2004, de 23 de julio, por el que se regula la obligación de mantenimiento de existencias mínimas de seguridad, la diversificación de abastecimiento de gas natural y la corporación de reservas estratégicas de productos petrolíferos.
+
+2. Por orden de la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico se podrá poner fin a las actuaciones de la citada Corporación en relación con las funciones anteriormente descritas, pudiendo designar, en su caso, a una nueva entidad responsable en base a criterios de transparencia, igualdad, independencia y eficiencia.
