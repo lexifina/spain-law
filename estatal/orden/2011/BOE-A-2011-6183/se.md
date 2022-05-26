@@ -8,6 +8,8 @@ a) Sin exigencia de titulación de técnico superior: un grado de conocimiento d
 
 b) Con exigencia de titulación de técnico superior: un grado de conocimiento de al menos dos en todos los rasgos que lo conforman.
 
-3. En los procesos de selección en los que se requiera estar en posesión de un título de técnico superior, las titulaciones de formación profesional de grado superior que se establezcan en la convocatoria correspondiente, pertenecerán a las familias profesionales que figuran en el apartado 3.A del anexo II del Reglamento y a las titulaciones que, conforme a lo allí indicado, determine el Ministro de Defensa.
+3. En los procesos de selección en los que se requiera estar en posesión de un título de Técnico Superior, las titulaciones de Formación Profesional de Grado Superior que se establezcan en la convocatoria correspondiente, pertenecerán a las familias profesionales que figuran en el apartado 2 del anexo I del Reglamento. Dichas titulaciones serán las mismas que las que sean necesarias cursar para el acceso a la escala y, en su caso, para la obtención de una determinada especialidad fundamental.
+
+> Se modifica el apartado 3 por la disposición final 1 de la Orden DEF/462/2022, de 20 de mayo. Ref. BOE-A-2022-8519#df
 
 > Se modifica el apartado 3 por la disposición final 1 de la Orden DEF/1097/2012, de 24 de mayo. Ref. BOE-A-2012-6996#dfprimera

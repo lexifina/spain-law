@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Adaptación de la adscripción de las titulaciones requeridas a los ámbitos de conocimiento establecidos por Real Decreto 822/2021, de 28 de septiembre, por el que se establece la organización de las enseñanzas universitarias y del procedimiento de aseguramiento de su calidad.
+
+En tanto no se complete la adaptación prevista en la disposición transitoria quinta del Real Decreto 822/2021, de 28 de septiembre, por el que se establece la organización de las enseñanzas universitarias y del procedimiento de aseguramiento de su calidad, serán de aplicación las ramas de conocimiento reguladas en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales.
+
+A medida que las universidades vayan adaptando la adscripción de las titulaciones requeridas para el ingreso en las escalas de oficiales y suboficiales de las Fuerzas Armadas a los ámbitos del conocimiento establecidos en el Real Decreto 822/2021, de 28 de septiembre, se procederá a la actualización de esta orden ministerial.
