@@ -70,6 +70,14 @@ r) “Subasta pública”: método de venta en el que el empresario ofrece biene
 
 > 2. A los efectos de este libro, título I, capítulo I, artículos 66 bis y 66 ter y del título III, se consideran bienes a las cosas muebles corporales, excepto los vendidos por la autoridad correspondiente tras un embargo u otra medida similar. El agua, el gas y la electricidad se considerarán "bienes" cuando estén envasados para su comercialización en un volumen delimitado o en cantidades determinadas."
 
+3. A los efectos del artículo 20 y de este libro, se considera «mercado en línea» un servicio que emplea programas (software), incluidos un sitio web, parte de un sitio web o una aplicación, operado por el empresario o por cuenta de éste, que permite a los consumidores o usuarios celebrar contratos a distancia con otros empresarios o consumidores, y se considera «proveedor de un mercado en línea» a todo empresario que pone a disposición de los consumidores o usuarios un mercado en línea. A los mismos efectos, se entiende por «clasificación», la preeminencia relativa atribuida a los bienes y servicios, en su presentación, organización o comunicación por parte del empresario, independientemente de los medios tecnológicos empleados para dicha presentación, organización o comunicación.
+
+> Téngase en cuenta que el apartado 3, añadido por el art. 82.5 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
+
+> Se añade el apartado 3 por el art. 82.5 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+
+> Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
+
 > Se modifica, con efectos de 1 de enero de 2022, por el art. 16.3 del Real Decreto-ley 7/2021, de 27 de abril. Ref. BOE-A-2021-6872#ad-6
 
 > Se añade por el art. único.11 de la Ley 3/2014, de 27 de marzo. Ref. BOE-A-2014-3329.

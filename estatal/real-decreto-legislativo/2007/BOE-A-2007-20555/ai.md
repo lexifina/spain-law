@@ -6,11 +6,11 @@ A. Modelo de documento de información al consumidor y usuario sobre el desistim
 
 Derecho de desistimiento:
 
-Tiene usted derecho a desistir del presente contrato en un plazo de 14 días naturales sin necesidad de justificación.
+Tiene usted derecho a desistir del presente contrato en un plazo de catorce/treinta (*) días naturales sin necesidad de justificación.
 
-El plazo de desistimiento expirará a los 14 días naturales del día (1).
+El plazo de desistimiento expirará a los catorce/treinta (*) días naturales del día (1).
 
-Para ejercer el derecho de desistimiento, deberá usted notificarnos (2) su decisión de desistir del contrato a través de una declaración inequívoca (por ejemplo, una carta enviada por correo postal, fax o correo electrónico). Podrá utilizar el modelo de formulario de desistimiento que figura a continuación, aunque su uso no es obligatorio (3).
+Para ejercer el derecho de desistimiento, deberá usted notificarnos (2) su decisión de desistir del contrato a través de una declaración inequívoca (por ejemplo, una carta enviada por correo postal o correo electrónico). Podrá utilizar el modelo de formulario de desistimiento que figura a continuación, aunque su uso no es obligatorio (3).
 
 Para cumplir el plazo de desistimiento, basta con que la comunicación relativa al ejercicio por su parte de este derecho sea enviada antes de que venza el plazo correspondiente.
 
@@ -36,7 +36,7 @@ d) en caso de entrega de un bien compuesto por múltiples componentes o piezas: 
 
 e) en caso de un contrato para la entrega periódica de bienes durante un plazo determinado: "que usted o un tercero por usted indicado, distinto del transportista, adquirió la posesión material del primero de esos bienes".
 
-(2) Insértese su nombre, su dirección completa y, si dispone de ellos, su número de teléfono, su número de fax y su dirección de correo electrónico.
+(2) Insértese su nombre, su dirección completa, su número de teléfono y su dirección de correo.
 
 (3) Si usted ofrece al consumidor y usuario en su sitio web la opción de cumplimentar y enviar electrónicamente información relativa a su desistimiento del contrato, insértese el texto siguiente: "Tiene usted asimismo la opción de cumplimentar y enviar electrónicamente el modelo de formulario de desistimiento o cualquier otra declaración inequívoca a través de nuestro sitio web [insértese la dirección electrónica]. Si recurre a esa opción, le comunicaremos sin demora en un soporte duradero (por ejemplo, por correo electrónico) la recepción de dicho desistimiento".
 
@@ -68,7 +68,7 @@ B. Modelo de formulario de desistimiento
 
 (sólo debe cumplimentar y enviar el presente formulario si desea desistir del contrato)
 
-– A la atención de (aquí se deberá insertar el nombre del empresario, su dirección completa y, si dispone de ellos, su número de fax y su dirección de correo electrónico):
+– A la atención de (aquí se deberá insertar el nombre del empresario, su dirección completa y su dirección de correo electrónico):
 
 – Por la presente le comunico/comunicamos (*) que desisto de mi/desistimos de nuestro (*) contrato de venta del siguiente bien/prestación del siguiente servicio (*)
 
@@ -83,6 +83,28 @@ B. Modelo de formulario de desistimiento
 – Fecha
 
 (*) Táchese lo que no proceda.
+
+> Téngase en cuenta que esta última actualización del epígrafe «Derecho de desistimiento» y el punto 2 del epígrafe «Instrucciones para su cumplimentación», de la letra A, así como el primer guión de la letra B, establecida por el art. 82.18 y 19 del Real Decreto-ley 24/2021, de 2 de noviembre, Ref. BOE-A-2021-17910#a8-4, entra en vigor el 28 de mayo de 2022, según establece su disposición final 10.c).
+
+> Redacción anterior:
+
+> "Derecho de desistimiento:
+
+> Tiene usted derecho a desistir del presente contrato en un plazo de 14 días naturales sin necesidad de justificación.
+
+> El plazo de desistimiento expirará a los 14 días naturales del día (1).
+
+> Para ejercer el derecho de desistimiento, deberá usted notificarnos (2) su decisión de desistir del contrato a través de una declaración inequívoca (por ejemplo, una carta enviada por correo postal, fax o correo electrónico). Podrá utilizar el modelo de formulario de desistimiento que figura a continuación, aunque su uso no es obligatorio (3).
+
+> Para cumplir el plazo de desistimiento, basta con que la comunicación relativa al ejercicio por su parte de este derecho sea enviada antes de que venza el plazo correspondiente."
+
+> "(2) Insértese su nombre, su dirección completa y, si dispone de ellos, su número de teléfono, su número de fax y su dirección de correo electrónico."
+
+> "– A la atención de (aquí se deberá insertar el nombre del empresario, su dirección completa y, si dispone de ellos, su número de fax y su dirección de correo electrónico):"
+
+> Se modifica por el art. 82.18 y 19 del Real Decreto-ley 24/2021, de 2 de noviembre. Ref. BOE-A-2021-17910#a8-4
+
+> Esta modificación entra en vigor el 28 de mayo de 2022, según establece la disposición final 10.c) del citado Real Decreto-ley.
 
 > Se numera como anexo I por el art. 4.3 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
 
