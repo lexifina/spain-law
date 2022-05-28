@@ -1,0 +1,15 @@
+La Ley 19/2021 de 20 de diciembre, por la que se establece el ingreso mínimo vital, se dicta al amparo de lo dispuesto en el artículo 149.1.1.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva sobre la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales.
+
+El Ingreso Mínimo Vital nace como prestación de la Seguridad Social en su modalidad no contributiva, con el objetivo principal de garantizar, a través de la satisfacción de unas condiciones materiales mínimas, la participación plena de toda la ciudadanía en la vida social y económica, rompiendo el vínculo entre ausencia estructural de recursos y falta de acceso a oportunidades en los ámbitos laboral, educativo, o social de los individuos.
+
+De acuerdo con el Real Decreto 497/2020, de 28 de abril, por el que se desarrolla la estructura orgánica básica del Ministerio de Inclusión, Seguridad Social y Migraciones corresponde a la Secretaría General de Objetivos y Políticas de Inclusión y Previsión Social (en adelante SGOPIPS), el desarrollo de la política del Gobierno en materia de inclusión social.
+
+Asimismo, en el marco del Plan Nacional de Recuperación, Transformación y Resiliencia, la Secretaría General de Objetivos y Políticas de Inclusión y Previsión Social del Ministerio de Inclusión, Seguridad Social y Migraciones participa de forma relevante en el Componente 22: «Economía de los cuidados y políticas de inclusión» y en el Componente 23, «Nuevas políticas públicas para un mercado de trabajo dinámico, resiliente e inclusivo».
+
+La creación del Comité Asesor de la SGOPIPS, se basa en el modelo de gobernanza compartida recogido en la Ley 19/2021, de 20 de diciembre, por la que se establece el ingreso mínimo vital, que persigue «consolidar la necesaria implicación de todas las instituciones, en el compromiso común de lucha contra la pobreza y las desigualdades en todo el territorio».
+
+Con el fin de garantizar un diseño eficaz de la política de inclusión social, la configuración de indicadores adecuados de medición de la pobreza y vulnerabilidad social y de asegurar la aplicación de criterios técnicos y velar por la calidad científica en el desarrollo y ejecución de los itinerarios de inclusión social, se considera necesario constituir formalmente un Comité Asesor, sin funciones decisorias, integrado por académicos y expertos técnicos de una dilatada experiencia y reconocido prestigio con una visión humanista y una trayectoria que denote un claro compromiso social, así como por miembros de la propia Secretaría General.
+
+Sus funciones serán de consulta y emisión de recomendaciones. Los informes emitidos por el citado Comité deberán contribuir a validar, desde una perspectiva científica e independiente las citadas acciones y, en su caso, a la introducción de elementos innovadores, favoreciendo, en última instancia, la promoción de la igualdad de oportunidades de los colectivos en situación de especial vulnerabilidad.
+
+De acuerdo con todo lo anterior, dispongo:
