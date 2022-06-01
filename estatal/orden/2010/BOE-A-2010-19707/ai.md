@@ -6,11 +6,15 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2019/314/18751_4933.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/311/15365_4982.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/211/14453_10269068_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/311/15365_5061.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/211/14453_10269068_2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/311/15365_5132.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/211/14453_10269068_3.png)
+
+> Téngase en cuenta que esta actualizaición del documento de ingreso del modelo 210 de autoliquidación, establecida por la disposición final 1.4, de la Orden HFP/915/2021, de 1 de septiembre. Ref. BOE-A-2021-14453#df, será aplicable a partir del 1 de junio de 2022, según determina su disposición final 3.b).
+
+> Se modifica el documento de ingreso del modelo 210 de autoliquidación, con efectos de 1 de junio de 2022, quedando sustituido por el que figura en el Anexo de la Orden HFP/915/2021, de 1 de septiembre. Ref. BOE-A-2021-14453#df
 
 > Se modifica la Hoja Informativa-210 por el art. único.4, quedando sustituida por la que figura en el Anexo I de la Orden HAC/1275/2019, de 18 de diciembre. Ref. BOE-A-2019-18751
 
