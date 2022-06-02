@@ -1,6 +1,6 @@
 ## ANEXO
 
-## Información mínima que deben trasladar las comunidades autónomas aI Registro nacional una vez realizada la inscripción de un documento de instrucciones previas
+## Información mínima que deben trasladar las comunidades autónomas al Registro nacional una vez realizada la inscripción de un documento de instrucciones previas
 
 Comunidad autónoma.
 
@@ -90,6 +90,10 @@ Cuidados y tratamiento.
 
 Destino del cuerpo del otorgante o de los órganos una vez fallecido.
 
-Sobre ambos aspectos.
+Prestación de ayuda para morir.
+
+Sobre todos los aspectos.
 
 Copia del documento de instrucciones previas inscrito en el registro autonómico.
+
+> Se modifica el epígrafe «Materia de la declaración» por el art. único.6 del Real Decreto 415/2022, de 31 de mayo. Ref. BOE-A-2022-8908
