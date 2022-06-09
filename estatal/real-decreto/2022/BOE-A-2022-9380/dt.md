@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Establecimientos y distribuidores previamente autorizados.
+
+Los establecimientos y distribuidores que hayan sido autorizados previamente a la entrada en vigor del presente real decreto, con arreglo al Real Decreto 841/2011, de 17 de junio, se considerarán autorizados de acuerdo con el presente real decreto. No obstante, las autoridades competentes de las comunidades autónomas y ciudades de Ceuta y Melilla, de oficio, les asignarán y notificarán el nuevo número con el que constarán en el Registro General de establecimientos y distribuidores de productos reproductivos, conforme a lo establecido en el artículo 15 del presente real decreto.
