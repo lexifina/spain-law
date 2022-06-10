@@ -37,6 +37,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Vigésima](vi.md)
 - [Sección 5ª](s5.md)
 - [Vigesimoprimera](vi-2.md)
+- [Vigesimoprimera bis](vb.md)
 - [Vigesimosegunda](vi-3.md)
 - [Sección 6ª](s6.md)
 - [Vigesimotercera](vi-4.md)

@@ -1,9 +1,5 @@
-## Vigesimoprimera. Propuestas y seguimiento de medidas correctoras.
+## Vigesimoprimera. Seguimiento de medidas correctoras propuestas por el gestor.
 
-1. Los informes de auditoría pública deberán reflejar claramente las debilidades, deficiencias, errores e incumplimientos que se hayan puesto de manifiesto en el trabajo realizado, y la necesidad de adoptar medidas correctoras para solucionar las deficiencias puestas de manifiesto y para reparar o evitar perjuicios para la Hacienda Pública o para el órgano gestor.
+La persona responsable de la auditoría establecerá los mecanismos necesarios para efectuar el seguimiento de las medidas propuestas por el gestor para la asunción de las recomendaciones puestas de manifiesto en los informes de auditoría pública con el objeto de corregir los incumplimientos, deficiencias y debilidades, teniendo en consideración para ello la recurrencia de las auditorías y la gravedad de aquéllos.
 
-Asimismo se indicará a la entidad auditada que deberá comunicar al órgano de control las medidas correctoras que la entidad auditada tiene previsto adoptar, el calendario previsto para solucionar las deficiencias puestas de manifiesto o las actuaciones realizadas para reparar o evitar perjuicios para la Hacienda Pública o para el ente controlado.
-
-2. Las debilidades, deficiencias, errores e incumplimientos puestos de manifiesto en los informes de auditoría pública que se refieran a aspectos de especial relevancia en la actividad del órgano o entidad sometida a auditoría o tengan graves efectos negativos contrastados que deban ser corregidos mediante actuaciones específicas, que se mantengan tras las alegaciones y no sea previsible que vayan a ser corregidos en un tiempo razonable por los órganos gestores, deberán reflejarse en el informe definitivo de auditoría pública con objeto de que el departamento ministerial elabore el correspondiente plan de acción al que se refiere el artículo 166 de la Ley General Presupuestaria.
-
-3. Para la aplicación de esta disposición la Oficina Nacional de Auditoría dictará instrucciones desarrollando el procedimiento al que deberán ajustarse los órganos de control, en las que se incluirán los hechos relevantes respecto de los cuales debe recomendarse a los órganos gestores la adopción inmediata de medidas correctoras.
+> Se modifica por el apartado primero de la Resolución de 6 de junio de 2022. Ref. BOE-A-2022-9434
