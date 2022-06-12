@@ -1,6 +1,6 @@
 ## Disposición adicional única.
 
-1. Las personas o entidades autorizadas a presentar por vía telemática declaraciones en representación de terceras personas, de acuerdo con lo dispuesto en el Real Decreto 1377/2002, de 20 de diciembre, por el que se desarrolla la colaboración social en la gestión de los tributos para la presentación telemática de declaraciones, comunicaciones y otros documentos tributarios, y en la presente Orden, podrán hacer uso de dicha facultad, dentro de los límites de los convenios suscritos, respecto de las declaraciones correspondientes a los modelos 036, «Declaración censal de comienzo, modificación o cese de actividad», 037, «Declaración censal de comienzo, modificación o cese de actividad (simplificada)», 198, «Declaración anual de operaciones con activos financieros y otros valores mobiliarios», 216, «Impuesto sobre la Renta de no Residentes. Declaración de rentas obtenidas sin mediación de establecimiento permanente-documento de ingreso de retenciones e ingresos cuenta por dichas rentas», 296, «Impuesto sobre la Renta de no Residentes. Declaración resumen anual de retenciones e ingresos a cuenta por rentas obtenidas sin mediación de establecimiento permanente» y 345, «Planes, fondos de pensiones, sistemas alternativos y mutualidades de previsión social. Declaración anual».
+1. Las personas o entidades autorizadas a presentar por vía telemática declaraciones en representación de terceras personas, de acuerdo con lo dispuesto en el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, y en la presente orden, podrán hacer uso de dicha facultad, dentro de los límites de los acuerdos suscritos, respecto de las declaraciones y casos que tengan habilitada la presentación electrónica.
 
 2. Las personas o entidades autorizadas a presentar por vía telemática declaraciones en representación de terceras personas, de acuerdo con lo dispuesto en el Real Decreto 1065/2007, de 27 de julio, por el que se aprueba el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, podrán hacer uso de dicha facultad respecto de las siguientes declaraciones y documentos:
 
@@ -127,6 +127,8 @@ Modelo 591: Impuesto sobre el valor de la producción de la energía eléctrica.
 Modelo 380. Impuesto sobre el Valor Añadido. Operaciones asimiladas a las importaciones. Declaración-liquidación
 
 3. Las condiciones generales y el procedimiento para la presentación telemática de estas declaraciones serán, con carácter general, y sin perjuicio de lo dicho en el apartado anterior de esta disposición adicional, las que se establecen en las respectivas Órdenes por las que se aprobaron cada uno de estos modelos de declaración.
+
+> Se modifica el apartado 1 por el art. único.9 de la Orden HFP/534/2022, de 6 de junio de 2022. Ref. BOE-A-2022-9606
 
 > Se modifica el apartado 2 por la disposición final 1 de la Orden HAC/1271/2019, de 9 de diciembre. Ref. BOE-A-2019-18747
 
