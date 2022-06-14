@@ -48,7 +48,7 @@ u) La Dirección General de Coordinación y Estudios.
 
 v) La Dirección General de Digitalización e Inteligencia Artificial.
 
-w) La Dirección General de Derechos de las Personas con Discapacidad.
+w) (Anulada)
 
 x) Dirección General de Gestión del Sistema de Acogida de Protección Internacional y Temporal.
 
@@ -66,7 +66,9 @@ e) Dirección General del Instituto de la Juventud.
 
 f) Dirección General del Instituto para la Transición Justa.
 
-g) La Dirección General de Deportes del Consejo Superior de Deportes.
+g) (Anulada)
+
+> Se anulan los apartados 1.w) y 2.g), en la redacción dada por el art. 1.2 y 3 del Real Decreto 311/2021, de 4 de mayo, por Sentencia del TS de 5 de mayo de 2022. Ref. BOE-A-2022-9764
 
 > Se modifica el apartado 1.o) y se añade la x) por el art. 1.3 y 4 del Real Decreto 216/2022, de 29 de marzo de 2022. Ref. BOE-A-2022-4974
 
@@ -75,6 +77,8 @@ g) La Dirección General de Deportes del Consejo Superior de Deportes.
 > Se declaran nulos los apartados 1.m) y 2.e), que eximen del requisito de ser funcionario de carrera para ser nombrado Director General, por Sentencia del TS de 14 de diciembre de 2021 Ref. BOE-A-2021-21396
 
 > Se añaden los apartados 1.w) y 2.g) por el art. 1.2 y 3 del Real Decreto 311/2021, de 4 de mayo. Ref. BOE-A-2021-7353
+
+> Téngase en cuenta que el art. 1.2 y 3 del Real Decreto 311/2021 se anula por Sentencia del TS de 5 de mayo de 2022. Ref. BOE-A-2022-9764
 
 > Se modifica la letra o) del apartado 1 por el art. 1.2 del Real Decreto 286/2021, de 20 de abril. Ref. BOE-A-2021-6308
 
