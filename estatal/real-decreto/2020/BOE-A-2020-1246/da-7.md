@@ -48,7 +48,7 @@ u) La Dirección General de Coordinación y Estudios.
 
 v) La Dirección General de Digitalización e Inteligencia Artificial.
 
-w) (Anulada)
+w) La Dirección General de Derechos de las Personas con Discapacidad.
 
 x) Dirección General de Gestión del Sistema de Acogida de Protección Internacional y Temporal.
 
@@ -66,7 +66,9 @@ e) Dirección General del Instituto de la Juventud.
 
 f) Dirección General del Instituto para la Transición Justa.
 
-g) (Anulada)
+g) Dirección General de Deportes del Consejo Superior de Deportes.
+
+> Se añade la letra w) al apartado 1 y la letra g) al apartado 2 por el art. único del Real Decreto 446/2022, de 14 de junio. Ref. BOE-A-2022-9842
 
 > Se anulan los apartados 1.w) y 2.g), en la redacción dada por el art. 1.2 y 3 del Real Decreto 311/2021, de 4 de mayo, por Sentencia del TS de 5 de mayo de 2022. Ref. BOE-A-2022-9764
 
