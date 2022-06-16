@@ -12,7 +12,7 @@
 
 3.1 Instalación en aparcamientos de viviendas unifamiliares.
 
-3.2 Instalación en aparcamientos o estacionamientos colectivos en edificios o conjuntos inmobiliarios en régimen de propiedad horizontal.
+3.2 Instalación en aparcamientos o estacionamientos colectivos interiores o adscritos a edificios o conjuntos inmobiliarios.
 
 3.3 Otras instalaciones de recarga.
 
@@ -49,3 +49,5 @@
 7. Condiciones particulares de instalación.
 
 7.1 Red de tierra para plazas de aparcamiento en el exterior.
+
+> Se modifica el apartado 3.2 por la disposición final 1.2 del Real Decreto 450/2022, de 14 de junio. Ref. BOE-A-2022-9848
