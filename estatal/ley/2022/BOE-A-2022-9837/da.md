@@ -1,0 +1,3 @@
+## Disposición adicional única. Estrategia Nacional de Arquitectura.
+
+El Ministerio de Transportes, Movilidad y Agenda Urbana elaborará en el plazo de 12 meses desde la entrada en vigor de esta ley, con la colaboración de las administraciones local y autonómica, una Estrategia Nacional de Arquitectura, herramienta de gobernanza, cuyo carácter no será vinculante y que servirá para la implantación y seguimiento de los objetivos perseguidos por esta ley. La Estrategia Nacional de Arquitectura se enmarcará dentro de la Agenda Urbana Española, incorporándose como una de sus líneas de acción, y tendrá en cuenta lo previsto en la Estrategia Nacional de Contratación Pública a que se refiere el artículo 334 de la Ley 9/2017, de 8 de noviembre.
