@@ -30,6 +30,10 @@ g) A las Comunidades Autónomas respecto de los certificados de eficiencia energ
 
 La misma obligación anterior tendrán las personas y entidades residentes en España y los establecimientos permanentes en territorio español de personas o entidades residentes en el extranjero, que realicen ofertas iniciales de nuevas monedas virtuales, respecto de las que entreguen a cambio de aportación de otras monedas virtuales o de dinero de curso legal.
 
+> Se añade la letra g) al apartado 3 por el art. 1.1 de la Ley 10/2022, de 14 de junio. Ref. BOE-A-2022-9838#a1
+
+> Téngase en cuenta que la letra g) ya fue añadida por el Real Decreto-ley 19/2021, de 5 de octubre.
+
 > Se añade la letra g) al apartado 3 por el art. 1.1 del Real Decreto-ley 19/2021, de 5 de octubre. Ref. BOE-A-2021-16230#a1
 
 > Se añaden los apartados 6 y 7 por el art. 3.6 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#at
