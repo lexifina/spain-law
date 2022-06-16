@@ -1,0 +1,1 @@
+Se deja sin efecto la presente Resolución, desde el 16 de junio de 2022, salvo en lo que se refiere a la documentación que exige presentar en cada caso junto con la solicitud de prestaciones de asistencia social, según establece la disposición derogatoria única.2 del Real Decreto 453/2022, de 14 de junio de 2022. Ref. BOE-A-2022-9850#dd

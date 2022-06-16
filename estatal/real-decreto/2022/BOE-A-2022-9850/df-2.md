@@ -1,0 +1,15 @@
+## Disposición final segunda. Modificación del Reglamento General sobre Cotización y Liquidación de otros Derechos de la Seguridad Social, aprobado por el Real Decreto 2064/1995, de 22 de diciembre.
+
+El Reglamento General sobre Cotización y Liquidación de otros Derechos de la Seguridad Social, aprobado por el Real Decreto 2064/1995, de 22 de diciembre, queda modificado como sigue:
+
+Uno. El primer párrafo del apartado 1 del artículo 19 queda redactado en los siguientes términos:
+
+> «1. La Tesorería General de la Seguridad Social, de conformidad con el artículo 32 bis del texto refundido de la Ley General de la Seguridad Social, podrá comprobar la exactitud y veracidad de las operaciones efectuadas y de los datos utilizados o aportados para la liquidación de las cuotas, cualquiera que sea el sistema por el que se haya procedido a su cálculo o determinación, así como recabar, con la salvedad prevista en el artículo 53.1.d) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los informes y la documentación necesaria para la justificación de tales datos y operaciones.»
+
+Dos. El apartado 2 del artículo 19 queda redactado en los siguientes términos:
+
+> «2. Cuando en las liquidaciones de cuotas de la Seguridad Social y por los conceptos de recaudación conjunta se hayan aplicado la compensación de prestaciones abonadas en régimen de pago delegado o las deducciones a que se refiere el artículo 17 de este reglamento, aunque sean de concesión automática por imperio de la ley, las entidades gestoras y colaboradoras comprobarán la procedencia y exactitud de las compensaciones y deducciones que resulten a cargo de su respectivo presupuesto.
+
+> A estos efectos, la Tesorería General de la Seguridad Social remitirá a la entidad gestora o colaboradora interesada en la gestión de las distintas contingencias y conceptos de recaudación conjunta las liquidaciones efectuadas para que aquella proceda a la comprobación y control de la exactitud de las deducciones y compensaciones. La entidad gestora o colaboradora solicitará el inicio del procedimiento de recaudación a la Tesorería General de la Seguridad Social comunicando por medios telemáticos, informáticos o electrónicos los datos necesarios para realizar la gestión recaudatoria del importe de las compensaciones o deducciones aplicadas indebidamente. Dicha comunicación de datos, que se considerarán ciertos para el inicio del correspondiente procedimiento recaudatorio, habilitará a la Tesorería General de la Seguridad Social para el inicio del mismo.
+
+> La entidad gestora o colaboradora garantizará el acceso de dicho Servicio Común, preferentemente por medios electrónicos, informáticos o telemáticos, a las resoluciones que declaren indebidas las compensaciones de prestaciones abonadas en régimen de pago delegado o las deducciones efectuadas y al resto de información y documentación asociada a la deuda que permita la gestión de la misma y, en especial, en materia de responsabilidad mortis causa e impugnaciones.»
