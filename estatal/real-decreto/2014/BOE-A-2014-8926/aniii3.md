@@ -120,4 +120,50 @@ Botulínica, del clostridium perfringens, enterotoxina B de staphilococcus, rici
 
 N. B.: Véanse los subartículos 7.a del anexo I.1 y del anexo III.1
 
+## MATERIAL DE DESACTIVACIÓN DE EXPLOSIVOS IMPROVISADOS
+
+1A006 Equipos especialmente diseñados o modificados para la eliminación de artefactos explosivos improvisados (IED), según se indica, y componentes y accesorios diseñados expresamente para ellos:
+
+N.B. Véase asimismo la Relación de Material de Defensa.
+
+a. Vehículos de control remoto
+
+b. “Disruptores”.
+
+Nota técnica: A los efectos del subartículo 1A006.b los “disruptores” son dispositivos diseñados especialmente para impedir el funcionamiento de un dispositivo explosivo mediante el lanzamiento de un líquido, un sólido o un proyectil frangible.
+
+Nota: El artículo 1A006 no somete a control el equipo que va acompañado de su operador.
+
+5A001.h Material contra artefactos explosivos improvisados (IED) y equipo conexo, según se indica:
+
+1. Equipos de transmisión por radiofrecuencia (RF), no especificados en el subartículo 5A001.f, diseñados o modificados para activar prematuramente o impedir la puesta en marcha de dispositivos explosivos improvisados (IED).
+
+2. Equipos que utilicen técnicas destinadas a permitir las radiocomunicaciones en los mismos canales de frecuencia en los que transmite el equipo coubicado que se especifica en el subartículo 5A001.h.1.
+
+N.B. Véase asimismo la Relación de Material de Defensa.
+
+Lista de productos de doble uso no incluidos en el anexo I del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, por el que se establece un régimen de la Unión de control de las exportaciones, el corretaje, la asistencia técnica, el tránsito y la transferencia de productos de doble uso (versión refundida).
+
+1C901 Nitrato amónico (CAS 6484-52-2) en grado explosivo con una concentración mayor o igual de nitrógeno del 31,5 %.
+
+Nota 1: El artículo 1C901 somete a control nitrato amónico, nitrato amónico técnico, nitrato amónico granulado, nitrato amónico poroso y cualquier otra presentación en la que pueda ser utilizado como oxidante sólido.
+
+Nota 2: El artículo 1C901 incluye las mezclas explosivas de nitrato amónico con fuel, emulsiones, hidrogeles y explosivos resistentes al agua.
+
+Nota 3: El artículo 1C900 no somete a control el nitrato amónico en grado fertilizante de alta densidad y baja porosidad.
+
+Nota 4: el artículo 1C901 no somete a control el nitrato amónico (números ONU 1942 y 2426) para la fabricación de explosivos, así como de las matrices de emulsiones, suspensiones y geles a base de nitrato amónico (número ONU 3375) que se usen para la fabricación de explosivos, que se regirá por la Instrucción técnica complementaria número 30 del Reglamento de Explosivos, aprobado por el Real Decreto 130/2017, de 24 de febrero.
+
+5A901 Sistemas y equipos de radiofrecuencia no incluidos en las categorías 5.A.1.f y 5.A.1.h del anexo I del Reglamento (UE) 2021/821821 del Parlamento Europeo y del Consejo, de 20 de mayo de 2021, componentes y accesorios, especialmente diseñados o modificados para desarrollar cualquiera de las siguientes funciones:
+
+1. Tomar el control y comando de aviones no tripulados.
+
+2. Interferir de forma deliberada y selectiva, denegar, inhibir, degradar o engañar, las señales de radiofrecuencia para el control y comando de aviones no tripulados.
+
+3. Utilizar las características específicas del protocolo de radiofrecuencia empleado por los aviones no tripulados para interferir en su funcionamiento.
+
+N.B. Para los sistemas de perturbación GNSS, véase asimismo la Relación de Material de Defensa, categoría 11.b.
+
+> Se modifica por el art. único.15 del Real Decreto 414/2022, de 31 de mayo. Ref. BOE-A-2022-10514
+
 > Se modifica por el art. único y Anexo III.3 de la Orden ECC/1493/2016, de 19 de septiembre. Ref. BOE-A-2016-8633.

@@ -96,45 +96,57 @@ Los materiales no incluidos en el presente artículo pueden, sin embargo, estar 
 
 ## 2. ARMAS CON CAÑÓN DE ÁNIMA LISA CON UN CALIBRE IGUAL O SUPERIOR A 20 MM, OTRAS ARMAS O ARMAMENTO CON UN CALIBRE SUPERIOR A 12,7 MM (CALIBRE DE 0,50 PULGADAS), PROYECTORES DISEÑADOS ESPECIALMENTE O MODIFICADOS PARA USO MILITAR Y ACCESORIOS, SEGÚN SE INDICA, Y COMPONENTES DISEÑADOS ESPECIALMENTE PARA ELLOS:
 
-a. Armas de fuego (incluidas las piezas de artillería), obuses, cañones, morteros, armas contracarro, lanzaproyectiles, lanzallamas, fusiles, fusiles sin retroceso y armas de ánima lisa;
+a) Armas de fuego (incluidas las piezas de artillería), obuses, cañones, morteros, armas contracarro, lanzaproyectiles, lanzallamas, fusiles, fusiles sin retroceso y armas de ánima lisa.
 
 Nota 1: El subartículo 2.a incluye inyectores, aparatos de medida, tanques de almacenamiento y otros componentes diseñados especialmente para ser usados con cargas de proyección líquidas, para cualquiera de los equipos especificados en el subartículo 2.a.
 
 Nota 2: El subartículo 2.a no se aplica a las armas siguientes:
 
-a. Fusiles, armas con cañón de ánima lisa y armas combinadas, manufacturados con anterioridad a 1938;
+a. Fusiles, armas con cañón de ánima lisa y armas combinadas, manufacturados con anterioridad a 1938.
 
-b. Reproducciones de fusiles, armas con cañón de ánima lisa y armas combinadas, cuyos originales hayan sido manufacturados con anterioridad a 1890;
+b. Reproducciones de fusiles, armas con cañón de ánima lisa y armas combinadas, cuyos originales hayan sido manufacturados con anterioridad a 1890.
 
-c. Armas de fuego (incluidas las piezas de artillería), obuses, cañones y morteros, manufacturados con anterioridad a 1890;
+c. Armas de fuego (incluidas las piezas de artillería), obuses, cañones y morteros, manufacturados con anterioridad a 1890.
 
-d. Armas con cañón de ánima lisa usadas en el tiro deportivo o en la caza. Estas armas no deben estar diseñadas especialmente para el uso militar ni ser de tipo totalmente automático;
+d. Armas con cañón de ánima lisa usadas en el tiro deportivo o en la caza. Estas armas no deben estar diseñadas especialmente para el uso militar ni ser de tipo totalmente automático.
 
 e. Armas con cañón de ánima lisa diseñadas especialmente para cualquiera de los usos siguientes:
 
 1. Sacrificio de animales domésticos;
 
-2. Sedación de animales;
+2. sedación de animales;
 
-3. Ensayos sísmicos;
+3. ensayos sísmicos;
 
-4. Lanzamiento de proyectiles industriales, o
+4. lanzamiento de proyectiles industriales, o
 
-5. Desactivación de dispositivos explosivos improvisados;
+5. desactivación de dispositivos explosivos improvisados.
 
-N. B.: Para los desactivadores, véanse el artículo 4 y el artículo 1A006 en la Lista de Productos de Doble Uso de la UE.
+N.B.: Para los desactivadores, véanse el artículo 4 y el artículo 1A006 en la Lista de Productos de Doble Uso de la UE.
 
 f. Lanzadores portátiles de proyectiles diseñados especialmente para el lanzamiento de proyectiles retenidos por cables sin carga explosiva elevada ni enlace de comunicaciones, en un radio inferior o igual a 500 m.
 
-b. Proyectores diseñados especialmente o modificados para uso militar, según se indica:
+b) Proyectores diseñados especialmente o modificados para uso militar, según se indica:
 
 1. Proyectores para botes de humo;
 
 2. Proyectores para cartuchos de gas;
 
-3. Proyectores para material pirotécnico;
+3. Proyectores para material pirotécnico.
 
 Nota: El subartículo 2.b no se aplica a las pistolas de señalización.
+
+c) Accesorios diseñados especialmente para las armas especificadas en el subartículo 2.a, según se indica:
+
+1. Visores y montajes para visores diseñados especialmente para uso militar;
+
+2. dispositivos para la reducción de la firma;
+
+3. guarniciones;
+
+4. cargadores desmontables.
+
+d) Sin uso desde 2019.
 
 ## 3. MUNICIONES Y DISPOSITIVOS PARA EL ARMADO DE LOS CEBOS, SEGÚN SE INDICA, Y COMPONENTES DISEÑADOS ESPECIALMENTE PARA ELLOS.
 
@@ -1627,6 +1639,8 @@ a. La “tecnología” mínima necesaria para la instalación, el funcionamient
 b. La “tecnología” que sea “de conocimiento público”, de “investigación científica básica” o la información mínima necesaria para solicitudes de patentes.
 
 c. La “tecnología” para la inducción magnética para la propulsión continua de dispositivos de transporte civil.
+
+> Se modifica la categoría 2 por el art. único.12 del Real Decreto 414/2022, de 31 de mayo. Ref. BOE-A-2022-10514
 
 > Se modifica por el art. único de la Orden ICT/1020/2021, de 24 de septiembre. Ref. BOE-A-2021-15772
 
