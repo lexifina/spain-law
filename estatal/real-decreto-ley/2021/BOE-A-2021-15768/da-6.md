@@ -114,6 +114,10 @@ a) Renunciar a ella en cualquier momento antes del 31 de mayo de 2022, surtiendo
 
 b) Devolver por iniciativa propia la prestación por cese de actividad, sin necesidad de esperar a la reclamación de la mutua colaboradora con la Seguridad Social o de la entidad gestora, cuando considere que los ingresos percibidos durante el cuarto trimestre de 2021 o la caída de la facturación en ese mismo periodo superarán los umbrales establecidos en el párrafo 1 con la correspondiente pérdida del derecho a la prestación.
 
+> Téngase en cuenta que se prorrogan las medidas extraordinarias previstas en esta disposición, en la forma establecida por el art. 26 del Real Decreto-ley 11/2022, de 25 de junio de 2022. Ref. BOE-A-2022-10557#a2-8
+
+> Se prorrogan las medidas extraordinarias previstas en esta disposición, en la forma establecida por el art. 26 del Real Decreto-ley 11/2022, de 25 de junio de 2022. Ref. BOE-A-2022-10557#a2-8
+
 > Se modifica por la disposición final 9.3 del Real Decreto-ley 2/2022, de 22 de febrero. Ref. BOE-A-2022-2849#df-9
 
 > Se modifica el apartado Dos.5 por el art. 5 del Real Decreto-ley 28/2021, de 17 de diciembre de 2021. Ref. BOE-A-2021-20877

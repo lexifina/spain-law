@@ -74,6 +74,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [TÍTULO IV](ti-4.md)
 - [Artículo 44](a4-6.md)
 - [Artículo 45](a4-7.md)
+- [Artículo 45 bis](a4-12.md)
 - [Artículo 46](a4-8.md)
 - [Artículo 47](a4-9.md)
 - [Artículo 48](a4-10.md)

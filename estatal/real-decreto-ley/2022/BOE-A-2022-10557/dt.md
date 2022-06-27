@@ -1,0 +1,3 @@
+## Disposición transitoria única. Régimen transitorio de los proyectos ubicados en zonas de sensibilidad moderada.
+
+Los proyectos a los que se refiere el artículo 1.Uno de este real decreto-ley, ubicados en zonas de sensibilidad moderada según la «Zonificación ambiental para la implantación de energías renovables», herramienta elaborada por el Ministerio para la Transición Ecológica y el Reto Demográfico, y que, a la entrada en vigor de este real decreto-ley, hayan iniciado su tramitación conforme al procedimiento de determinación de afección ambiental para proyectos de energías renovables, previsto en los artículos 6 y 7 del Real Decreto-ley 6/2022, de 29 de marzo, continuarán dicha tramitación de acuerdo con los artículos mencionados.
