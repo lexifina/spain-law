@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 29 de junio de 2022, por la disposición derogatora única.2 del Real Decreto 502/2022, de 27 de junio. Ref. BOE-A-2022-10675#dd

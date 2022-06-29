@@ -2,21 +2,11 @@
 
 ## Plan de pesca de la modalidad de cerco en el Cantábrico Noroeste
 
-1. Definición del arte de cerco.
+1. (Derogado).
 
-Se entiende por arte de cerco una red de forma rectangular, cuyos extremos terminan en puños, que circunda cardúmenes de especies pelágicas y se cierra por su parte inferior por medio de una jareta, dando lugar al embolsamiento del pescado.
+2. (Derogado).
 
-2. Buques autorizados para la pesca.
-
-Están autorizados para ejercer la pesca con artes de cerco en el Caladero del Cantábrico y Noroeste en aguas exteriores los buques que, estando inscritos en el Registro de Buques Pesqueros y Empresas Navieras, figuren igualmente en el Censo de la modalidad de cerco del Caladero del Cantábrico y Noroeste, estén en posesión de una licencia de pesca para dicha modalidad y caladero y cumplan las condiciones establecidas en la presente orden, así como en el Real Decreto 429/2004, de 12 de marzo, por el que se establecen medidas de ordenación de la flota pesquera de cerco.
-
-3. Dimensiones de los artes y de las mallas.
-
-a) La longitud de los artes de cerco en el Caladero del Cantábrico y Noroeste no podrá ser superior a 600 metros, excluidos los puños, cada uno de los cuales no podrá sobrepasar los 30 metros.
-
-b) La altura de los artes de cerco no será superior a 130 metros.
-
-c) La abertura mínima de las mallas de los artes de cerco no será inferior a 14 milímetros.
+3. (Derogado).
 
 4. Especies autorizadas y cuotas de capturas.
 
@@ -113,3 +103,5 @@ e) La actividad pesquera de cebo vivo queda exceptuada de las normas que en la p
 f) Las sardinas, anchoas, arenques, jureles y caballas que no alcancen la talla mínima reglamentaria capturados para su uso como cebo vivo podrán mantenerse a bordo a condición de que se mantengan vivos, de acuerdo con el artículo 19.5 del mencionado reglamento.
 
 7. Vedas temporales: Podrán establecerse periodos de paralización temporal de la actividad pesquera, en función de la evolución de la pesquería en cada campaña de pesca. Estas paradas podrán, en su caso, ser objeto de financiación con cargo al Fondo Europeo Marítimo y de Pesca.
+
+> Se derogan los apartados 1 a 3 por la disposición derogatoria única.2 del Real Decreto 502/2022, de 27 de junio. Ref. BOE-A-2022-10675#dd

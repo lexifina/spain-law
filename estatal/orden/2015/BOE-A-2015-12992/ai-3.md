@@ -10,17 +10,15 @@ El presente Plan de Pesca es de aplicación a los buques de pabellón español, 
 
 Queda prohibida la utilización y la tenencia a bordo de los siguientes tipos de artes y modalidades de pesca de arrastre:
 
-a) Los artes de arrastre dotados de sistemas de tren de bolos o similares diseñados para su empleo en fondos rocosos. Se entiende como similares aquéllos que contienen dispositivos situados en la parte inferior de la red, llamada burlón o relinga inferior, compuestos por discos, cilindros o esferas, en forma única o combinada, diseñados para su empleo en fondos rocosos y arrecifes; o cualquier otro sistema añadido a esta relinga, de forma que ésta nunca sobrepase los 65 milímetros de diámetro o los 220 milímetros de circunferencia.
+a) Los artes de arrastre dotados de sistemas diseñados para su empleo en fondos rocosos y de arrecifes, algunos de ellos conocidos como tren de bolos, tal y como se definen en el artículo 12 del Real Decreto 502/2022, de 27 de junio, por el que se regula el ejercicio de la pesca en los caladeros nacionales.
 
-b) Los sistemas de tangones.
+b) (Derogado).
 
-c) Sin perjuicio de lo dispuesto en los apartados a) y b), la Secretaría General de Pesca podrá, con carácter individualizado y previo informe del Instituto Español de Oceanografía, autorizar por fuera de la zona del mar territorial que se extiende hasta las 12 millas medidas desde las líneas de base rectas, el uso de este tipo de artes en aquellas zonas que por sus características fisiográficas y geomorfológicas, así como por la naturaleza del suelo y subsuelo marino, no resulten vulnerables a los efectos negativos de los mismos. En ningún caso, en tanto tenga vigencia la autorización mencionada, los buques podrán faenar, con cualquier tipo de arrastre, por dentro de las 12 millas.
+c) (Derogado).
 
-Las solicitudes de autorización se dirigirán al Director General de Recursos Pesqueros y Acuicultura, y se presentarán ante la Secretaría General de Pesca, en cualquiera de los lugares previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, o por medios electrónicos de acuerdo al artículo 6.1 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos. El Director General de Recursos Pesqueros y Acuicultura resolverá y notificará en los términos previstos en el artículo 59 de la Ley 30/1992, de 26 de noviembre en el plazo de dos meses desde la fecha en que la solicitud ha tenido entrada en el registro del órgano competente para su tramitación. En caso de no recibir respuesta, se entenderá desestimada. La resolución que recayere no pone fin a la vía administrativa y contra la misma cabe interponer recurso de alzada ante el Secretario General de Pesca, en los términos y plazos a que se refiere al artículo 115 de la Ley 30/1992, de 26 de noviembre.
+d) (Derogado).
 
-d) Queda prohibida la utilización de artes de arrastre pelágico o semipelágico, en el mar territorial español del caladero del Cantábrico y Noroeste para el ejercicio de la pesca marítima.
-
-e) Queda prohibido la pesca, tenencia a bordo, transporte y desembarque de las siguientes especies: anchoa (Engraulis encrasicholus), sardina (Sardina pilchardus) y bonito del norte (Thunnus alalunga), así como cualquier otra especie de túnidos.
+e) (Derogado).
 
 3. Vedas para el arrastre.
 
@@ -117,3 +115,5 @@ Podrán establecerse periodos adicionales de paralización temporal de la activi
 4. Topes de desembarque.
 
 Las embarcaciones que ejerciten la pesca de arrastre podrán atenerse a desembarques diarios o semanales según los límites máximos que eventualmente se establezcan, una vez oído el sector, mediante regla de extensión que será aprobada mediante orden ministerial, respetando en todo caso los Totales Admisibles de Capturas (TACs) y cuotas establecidos.
+
+> Se modifica el apartado 2.a) y se derogan los apartados 2.b), c) y d) por la disposición final 3.2 y disposición derogatoria única.2, respectivamente, del Real Decreto 502/2022, de 27 de junio. Ref. BOE-A-2022-10675#dd

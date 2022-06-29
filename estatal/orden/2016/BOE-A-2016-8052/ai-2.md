@@ -10,23 +10,21 @@ Las disposiciones contenidas en este Plan serán de aplicación a los buques esp
 
 Queda prohibida la utilización y la tenencia a bordo de los siguientes tipos de artes y modalidades de pesca de arrastre:
 
-a) Los artes de arrastre dotados de sistemas de tren de bolos o similares diseñados para su empleo en fondos rocosos. Se entiende como similares aquéllos que contienen dispositivos situados en la parte inferior de la red, llamada burlón o relinga inferior, compuestos por discos, cilindros o esferas, en forma única o combinada, diseñados para su empleo en fondos rocosos y arrecifes; o cualquier otro sistema añadido a esta relinga, de forma que ésta nunca sobrepase los 65 milímetros de diámetro o los 220 milímetros de circunferencia.
+a) Los artes de arrastre dotados de sistemas diseñados para su empleo en fondos rocosos y de arrecifes, algunos de ellos conocidos como tren de bolos, tal y como se definen en el artículo 14 del Real Decreto 502/2022, de 27 de junio, por el que se regula el ejercicio de la pesca en los caladeros nacionales.
 
-b) Los sistemas de tangones.
+b) (Derogado).
 
-c) Queda prohibido la pesca, tenencia a bordo, transporte y desembarque de las siguientes especies: anchoa (Engraulis encrasicholus), sardina (Sardina pilchardus) y bonito del norte (Thunnus alalunga), así como cualquier otra especie de túnidos.
+c) (Derogado).
 
-3. Dimensiones mínimas de las mallas.
-
-La dimensión mínima de la malla de las redes de arrastre de fondo deberá ser igual o superior a 55 milímetros.
+3. (Derogado).
 
 4. Esfuerzo de pesca.
 
 Se adoptarán las siguientes medidas de esfuerzo pesquero:
 
-4.1 El esfuerzo de pesca, medido en días de pesca, no será superior a 200 días al año y 18 horas por día en la mar.
+4.1 (Derogado).
 
-4.2 El ejercicio de la actividad pesquera será como máximo de 5 días por semana, debiendo cesar dicha actividad durante al menos 56 horas continuadas a la semana.
+4.2 (Derogado).
 
 4.3 Los buques de arrastre de fondo únicamente podrán efectuar un desembarque por día natural.
 
@@ -39,6 +37,10 @@ Podrán establecerse periodos adicionales de paralización temporal de la activi
 Estas paradas podrán en su caso, ser objeto de financiación con cargo al Fondo Europea Marítimo y de Pesca.
 
 Además de las paradas previstas en el primer párrafo de este apartado, la pesca del pulpo (Octopus vulgaris) con artes de arrastre de fondo se prohíbe temporalmente desde el día 16 de agosto al 15 de septiembre, ambos inclusive, de cada año.
+
+> Se modifica el apartado 2.a) y se derogan los apartados 2.b) y c), 3 y 4.1 y 2 por la disposición final 5.3 y deogatoria única.2, respectivamente, del Real Decreto 502/2022, de 27 de junio. Ref. BOE-A-2022-10675#dd
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 186 de 4 de agosto de 2022. Ref. BOE-A-2022-13110
 
 > Se modifica el último párrafo del apartado 5 por el art. único de la Orden APA/382/2020, de 28 de abril. Ref. BOE-A-2020-4779
 

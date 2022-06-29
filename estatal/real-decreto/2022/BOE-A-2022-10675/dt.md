@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Autorización especial de actividad.
+
+Aquellos buques que estén en situación de alta o baja provisional en el Registro General de la Flota Pesquera en la fecha de entrada en vigor de este real decreto y que tengan registrada una eslora o potencia motriz superior a la permitida para su censo, podrán continuar en el Registro hasta su baja definitiva. Igual consideración se tendrá con los expedientes de incorporación de nuevas unidades al registro o de modificación de la potencia motriz o dimensiones de buques registrados que hubieran sido autorizadas o iniciadas, en el caso de regularizaciones, con anterioridad a la entrada en vigor del presente real decreto.

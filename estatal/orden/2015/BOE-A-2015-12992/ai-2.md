@@ -32,9 +32,9 @@ b) Las dimensiones máximas de los artes y los tamaños mínimos de las mallas s
 
 c) No obstante lo anterior, de acuerdo con lo previsto en la disposición adicional segunda del mencionado real decreto:
 
-1.º En las aguas comprendidas entre la línea marítima fronteriza con Francia y el meridiano 003º 08,8’ W la malla mínima autorizada para los artes de beta o mallabakarra será de 53 mm.
+1.º (Derogado).
 
-2.º En las aguas comprendidas entre los meridianos 003º 08,8’ W y 005º 17,7’ (cabo Lastres) la malla mínima autorizada será de 50 milímetros para las siguientes especies: salmonetes (Mullidae), boga (Boops boops), lábridos (Labridae), gambas (Penaeus spp), galera (Squilla mantis), jurel (Trachurus spp), caballa (Scomber scombrus), faneca (Trisopterus luscus), sepias (Sepia spp) y rubios (Triglidae).
+2.º (Derogado).
 
 4. Normas de calamento.
 
@@ -75,5 +75,7 @@ b) Regulación de la pesca por segmentos de litoral:
 7. Vedas temporales.
 
 Podrán establecerse periodos de paralización temporal de la actividad pesquera, en función de la evolución de la pesquería en cada campaña de pesca. Estas paradas podrán, en su caso, ser objeto de financiación con cargo al Fondo Europeo Marítimo y de Pesca.
+
+> Se derogan los apartados 3.c).1º y 2º por la disposición derogatoria única.2 del Real Decreto 502/2022, de 27 de junio. Ref. BOE-A-2022-10675#dd
 
 > Se modifica por el art. uno.5 de la Orden APA/21/2021, de 19 de enero. Ref. BOE-A-2021-838

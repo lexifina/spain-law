@@ -6,19 +6,11 @@
 
 1.1 Este plan se aplica a los buques españoles que ejerciten la pesca de cerco en las aguas exteriores del Caladero Nacional del Golfo de Cádiz, comprendido entre la desembocadura del Guadiana y el meridiano de Punta Marroquí (005º 36’ W).
 
-1.2 Están autorizados para ejercer la pesca con artes de cerco en el Caladero Nacional del Golfo de Cádiz los buques que, estando inscritos en el Registro de Buques Pesqueros y Empresas Navieras, figuren igualmente en el censo de la modalidad de cerco del Caladero Nacional del Golfo de Cádiz, estén en posesión de una licencia de pesca para dicha modalidad y caladero todo ello sin perjuicio de lo indicado en el artículo 5, así como en el Real Decreto 429/2004, de 12 de marzo, por el que se establecen medidas de ordenación de la flota pesquera de cerco.
+1.2 (Derogado).
 
-2. Definición del arte de cerco.
+2. (Derogado).
 
-Se entiende por arte de cerco una red de forma rectangular, cuyos extremos terminan en puños, que circunda cardúmenes de especies pelágicas y se cierra por su parte inferior por medio de una jareta, dando lugar al embolsamiento del pescado.
-
-3. Dimensiones de los artes y de las mallas.
-
-3.1 La longitud de los artes de cerco en el Caladero del Golfo de Cádiz no podrá ser superior a 450 metros, excluidos los puños, cada uno de los cuales no podrá sobrepasar los 15 metros.
-
-3.2 La altura de los artes de cerco no será superior a 80 metros.
-
-3.3 La abertura mínima de las mallas de los artes de cerco no será inferior a 14 milímetros.
+3. (Derogado).
 
 4. Especies autorizadas.
 
@@ -112,9 +104,9 @@ La pesquería de cebo vivo únicamente podrá practicarse como auxiliar de la de
 
 6. Esfuerzo pesquero.
 
-6.1 El esfuerzo de pesca, medido en días de pesca, no será superior a 180 días al año por buque.
+6.1 (Derogado).
 
-6.2 El ejercicio de la actividad pesquera será como máximo de 5 días por semana, debiendo cesar dicha actividad durante al menos 56 horas continuadas a la semana.
+6.2 (Derogado).
 
 6.3 Quedan prohibidos los transbordos entre embarcaciones.
 
@@ -137,6 +129,8 @@ Por otro lado, y conforme a lo establecido en el artículo 19.4 del Reglamento (
 El porcentaje de las especies citadas de tamaño inferior al reglamentario se calculará en proporción del peso vivo de todos los organismos marinos a bordo una vez efectuada la clasificación correspondiente o en el momento del desembarque. El porcentaje podrá calcularse sobre la base de una o más muestras representativas. No se superará el límite del 10 % durante el desembarque, el transporte, el almacenamiento, la exposición ni la puesta en venta.
 
 No obstante, de acuerdo con lo dispuesto por el Reglamento (UE) n.º 1394/2014 de la Comisión de 20 de octubre de 2014, en el caso del jurel (Trachurus spp.) se admitirá un 5 % en peso y en cómputo total, con talla comprendida entre 12 y 15 cm.
+
+> Se derogan los apartados 1.2, 2, 3, 6.1 y 2 por la disposición derogatoria única.2 del Real Decreto 502/2022, de 27 de junio. Ref. BOE-A-2022-10675#dd
 
 > Se añaden las letras ad) al apartado 4.1 por las disposición final 3.4 de la Orden APA/315/2020, de 1 de abril. Ref. BOE-A-2020-4255#df-3
 
