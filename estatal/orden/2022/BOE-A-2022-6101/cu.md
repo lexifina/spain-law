@@ -54,13 +54,13 @@ k) La competencia para designar instructor de expedientes sancionadores, estable
 
 3. En la persona titular de la Oficina Presupuestaria y de Gestión Económica:
 
-a) Las competencias que el ordenamiento jurídico atribuye a la persona titular del Departamento como órgano de contratación, incluida la aprobación del gasto, en relación con los contratos cuyo valor estimado no supere los 250.000 euros.
+a) Las competencias, a excepción de las que hayan sido delegadas en otros órganos, que el ordenamiento jurídico atribuye a la persona titular del Departamento como órgano de contratación, incluida la aprobación del gasto, en relación con los contratos cuyo valor estimado no supere los 250.000 euros.
 
 b) La competencia para celebrar los contratos que afecten al ámbito de más de un órgano de contratación, en relación con los contratos celebrados en el ámbito del Departamento cuyo valor estimado no supere 250.000 euros, sin perjuicio de lo dispuesto en el artículo 323.1 de la Ley 9/2017, de 8 de noviembre, respecto a la contratación centralizada en el ámbito estatal, para su utilización específica por el Departamento.
 
-c) El ejercicio de las competencias que el ordenamiento jurídico le atribuye en materia de encargos a medios propios personificados al amparo de lo previsto en el artículo 32 de la Ley 9/2017, de 8 de noviembre, incluida la aprobación y compromiso del gasto cuando su presupuesto inicial no supere los 250.000 euros, impuestos incluidos.
+c) El ejercicio de las competencias que el ordenamiento jurídico le atribuye en materia de encargos a medios propios personificados al amparo de lo previsto en el artículo 32 de la Ley 9/2017, de 8 de noviembre, incluida la aprobación y compromiso del gasto cuando su presupuesto inicial no supere los 250.000 euros, impuestos incluidos, a excepción de las que hayan sido delegadas en otros órganos.
 
-d) La aprobación y compromiso de gastos, el reconocimiento de obligaciones y la propuesta de pago de las obligaciones económicas no imputables al Capítulo 1 cuya cuantía no supere los 250.000 euros, incluidos impuestos.
+d) La aprobación y compromiso de gastos, el reconocimiento de obligaciones y la propuesta de pago de las obligaciones económicas no imputables al Capítulo 1 cuya cuantía no supere los 250.000 euros, incluidos impuestos, salvo lo delegado en otros órganos.
 
 e) La aprobación, compromiso del gasto, el reconocimiento de la obligación y la ordenación del pago con cargo al anticipo de caja fija, así como la tramitación de los documentos contables necesarios para la reposición de fondos e imputación al presupuesto de los gastos realizados, siempre dentro del límite de la consignación presupuestaria específica que se señale en cada momento, de acuerdo con las normas que se dicten al efecto en base a lo dispuesto en el artículo 78.1 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
 
@@ -87,3 +87,19 @@ m) La aprobación, compromiso, reconocimiento de la obligación y propuesta de p
 a) La aprobación y el compromiso del gasto, así como el reconocimiento y propuesta de pago de las obligaciones con cargo a libramientos a justificar correspondientes a dicha Secretaría General de la Presidencia del Gobierno, cuando los servicios y prestaciones tengan lugar en el extranjero. Está delegación incluye la competencia para contratar bienes y servicios, y para atender los gastos de personal de las Oficinas de Comunicación en el exterior.
 
 b) La aprobación de las cuentas justificativas satisfechas con libramientos aprobados por las Oficinas de Comunicación en el exterior.
+
+6. En la persona titular del Comisionado especial para la Reconstrucción de la isla de La Palma:
+
+a) Para los contratos que se celebren en el ámbito de competencia del Comisionado especial para la Reconstrucción de la isla de La Palma, todas las competencias que el ordenamiento jurídico atribuye a la persona titular del Departamento como órgano de contratación, incluida la aprobación del gasto.
+
+b) En el ámbito de competencia del Comisionado especial para la Reconstrucción de la isla de La Palma, el ejercicio de las competencias que el ordenamiento jurídico le atribuye a la persona titular del Departamento en materia de encomiendas de gestión al amparo de lo previsto en el artículo 11 de la Ley 40/2015, de 1 de octubre.
+
+c) En el ámbito de competencia del Comisionado especial para la Reconstrucción de la isla de La Palma, el ejercicio de las competencias que el ordenamiento jurídico le atribuye en materia de encargos a medios propios conforme a lo previsto en la legislación sobre contratos del sector público, incluida la aprobación y el compromiso del gasto.
+
+d) El ejercicio de las competencias que el ordenamiento jurídico atribuye al titular del departamento respecto de los convenios, con o sin contenido económico, que se celebren en el ámbito de competencia del Comisionado especial para la Reconstrucción de la isla de La Palma.
+
+Se excluye de dicha delegación de competencias aquellos convenios suscritos con Comunidades Autónomas cuya firma sea realizada por las personas titulares de la Presidencia de una Comunidad Autónoma o de la Consejería correspondiente.
+
+e) En el ámbito de competencia del Comisionado especial para la Reconstrucción de la isla de La Palma, la competencia para aprobar y comprometer gastos, para reconocer obligaciones y para proponer el pago de las obligaciones económicas no imputables al Capítulo 1.
+
+> Se modifica el punto 3.a), c) y d) y se añade el punto 6 por el apartado 1.1 y 2 de la Orden PCM/595/2022, de 25 de junio. Ref. BOE-A-2022-10749
