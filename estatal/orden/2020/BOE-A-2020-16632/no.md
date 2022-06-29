@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada por Orden APA/160/2021, de 15 de febrero. Ref. BOE-A-2021-2960
+Norma derogada, con efectos de 29 de junio de 2022, por la disposición derogatoria única de la Orden APA/594/2022, de 19 de junio de 2022. Ref. BOE-A-2022-10748#dd
