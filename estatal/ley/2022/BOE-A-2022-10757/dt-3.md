@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Condiciones ligadas a las concesiones de uso de dominio público radioeléctrico.
+
+Las condiciones ligadas a los títulos habilitantes para la explotación de redes o prestación de servicios de telecomunicaciones que implicaran el uso del dominio público radioeléctrico y que se hubieran otorgado con anterioridad a la entrada en vigor de la presente ley a través de procedimientos de licitación pública, ya estuvieran previstas en los pliegos reguladores de las licitaciones o en la oferta del operador, pasan a estar ligadas a las concesiones de uso privativo de dominio público radioeléctrico.
