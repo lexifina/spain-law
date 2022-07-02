@@ -1,0 +1,11 @@
+## Disposición adicional décima. Adaptación de los planes de pensiones de empleo u otros instrumentos de previsión social empresarial preexistentes.
+
+1. Los planes de pensiones de empleo u otros instrumentos de previsión social empresarial con el mismo régimen fiscal aplicable en el Impuesto sobre la Renta de las Personas Físicas que el aplicable respecto de los planes de pensiones de empleo existentes a la entrada en vigor de esta ley podrán adaptar sus especificaciones, pólizas o reglamentos de prestaciones, para integrarse en la categoría de planes de pensiones de empleo simplificados regulados en el artículo 67 en los términos que se establezcan reglamentariamente.
+
+2. Aquellas empresas que tuvieran constituido un plan de pensiones de empleo en los términos establecidos en el texto refundido de la Ley de Planes y Fondos de Pensiones u otros instrumentos de previsión social empresarial y se vean afectadas con posterioridad por un acuerdo colectivo de carácter sectorial en el que se prevea la instrumentación de compromisos por pensiones con sus personas trabajadoras a través de un plan de pensiones de empleo sectorial simplificado, podrán mantener los compromisos por pensiones en los instrumentos de previsión social de empleo preexistentes.
+
+3. La trasformación se acordará por decisión voluntaria de la comisión de control del plan u órgano competente en virtud de la modalidad de instrumento de previsión social empresarial, debiendo adaptar sus elementos institucionales en un plazo de doce meses desde la adopción de dicha decisión.
+
+4. En aquellas Comunidades Autónomas con competencia exclusiva en materia de mutualidades no integradas en la Seguridad Social, las empresas que tuvieran constituido un instrumento propio de previsión social de empleo y se vean afectadas con posterioridad por un acuerdo colectivo de carácter sectorial en el que se prevea la instrumentación de compromisos por pensiones con sus personas trabajadoras a través de un plan de pensiones de empleo sectorial simplificado, podrán mantener los compromisos por pensiones en el instrumento propio de previsión social preexistente.
+
+> Se añade por el art. único.9 de la Ley 12/2022, de 30 de junio. Ref. BOE-A-2022-10852#au

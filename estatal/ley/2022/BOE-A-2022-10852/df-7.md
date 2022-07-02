@@ -1,0 +1,5 @@
+## Disposición final séptima. Modificación del Real Decreto 304/2004, de 20 de febrero, por el que se aprueba el Reglamento de planes y fondos de pensiones.
+
+El párrafo segundo del apartado 2 del artículo 33, del Real Decreto 304/2004, de 20 de febrero, por el que se aprueba el Reglamento de planes y fondos de pensiones queda redactado en los siguientes términos:
+
+> «La Comisión de Control del Fondo de Pensiones podrá designar a un actuario revisor para que realice de forma conjunta la revisión de todos o parte de los planes de pensiones en él integrados, siempre que los referidos planes sean de la modalidad de aportación definida para jubilación. En este supuesto, a falta de acuerdo sobre los costes del actuario, se aplicará el criterio de reparto en función del patrimonio. En caso de planes de pensiones mixtos o de prestación definida, la revisión de los aspectos actuariales deberá individualizarse para cada uno de los planes de pensiones, sin perjuicio de que la revisión de la parte financiera sea común y se lleve a cabo a nivel de fondo de pensiones.»
