@@ -1,0 +1,7 @@
+## Disposición adicional tercera. Materiales curriculares.
+
+1. De acuerdo con la disposición adicional cuarta de la Ley Orgánica 2/2006, de 3 de mayo, corresponde a los órganos de coordinación didáctica de los centros públicos, en el ejercicio de su autonomía pedagógica, adoptar los materiales que hayan de utilizarse.
+
+2. La selección de los materiales no requerirá la previa autorización del Ministerio de Educación y Formación Profesional. En todo caso, estos deberán adaptarse al currículo regulado en esta orden. Asimismo, deberán reflejar y fomentar el respeto a los principios, valores, libertades, derechos y deberes constitucionales, así como a los principios y valores recogidos en Ley Orgánica 2/2006, de 3 de mayo.
+
+3. Con el fin de contribuir a la efectiva igualdad entre hombres y mujeres se fomentarán los principios y valores recogidos en la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, a los que ha de ajustarse toda la actividad educativa. Asimismo, los centros fomentarán el uso no estereotipado de juguetes, enseres y recursos didácticos propios del contexto escolar. Se seleccionarán, asimismo, materiales curriculares que presenten modelos de personas y comportamientos no estereotipados o sexistas, que mantengan entre sí relaciones equilibradas, respetuosas e igualitarias, y que fomenten la convivencia entre niños y niñas de diferentes culturas, así como el respeto hacia la diferencia.
