@@ -54,7 +54,7 @@ m) Cualesquiera otras actuaciones administrativas no atribuidas expresamente a l
 
 7. Conocerán de la solicitud de autorización al amparo del artículo 122 ter, cuando sea formulada por la autoridad de protección de datos de la Comunidad Autónoma respectiva.
 
-8. Conocerán de la autorización o ratificación judicial de las medidas adoptadas con arreglo a la legislación sanitaria que las autoridades sanitarias de ámbito distinto al estatal consideren urgentes y necesarias para la salud pública e impliquen la limitación o restricción de derechos fundamentales cuando sus destinatarios no estén identificados individualmente.»
+8. (Anulado)
 
 Tres. Se modifica el apartado 1 del artículo 11, que queda redactado de la siguiente manera:
 
@@ -76,10 +76,14 @@ g) De los recursos contra los actos del Banco de España, de la Comisión Nacion
 
 h) De los recursos interpuestos por la Comisión Nacional de los Mercados y de la Competencia en defensa de la unidad de mercado.
 
-i) De la autorización o ratificación judicial de las medidas adoptadas con arreglo a la legislación sanitaria que la autoridad sanitaria estatal considere urgentes y necesarias para la salud pública e impliquen la limitación o restricción de derechos fundamentales, cuando sus destinatarios no estén identificados individualmente.»
+i) (Anulado)
 
 Cuatro. Se añade un nuevo artículo 122 quater, con el siguiente contenido:
 
 «Artículo 122 quater. Autorización o ratificación judicial de las medidas que las autoridades sanitarias consideren urgentes y necesarias para la salud pública e impliquen limitación o restricción de derechos fundamentales.
 
 En la tramitación de las autorizaciones o ratificaciones a que se refieren los artículos 8.6, segundo párrafo, 10.8 y 11.1.i) de la presente Ley será parte el ministerio fiscal. Esta tramitación tendrá siempre carácter preferente y deberá resolverse en un plazo máximo de tres días naturales.»
+
+> Téngase en cuenta que se declara la inconstitucionalidad y nulidad del inciso destacado en negrita del apartado cuatro, por la Sentencia del TC 70/2022, de 2 de junio. Ref. BOE-A-2022-11086
+
+> Se declara la inconstitucionalidad y nulidad de lo indicado de los apartados dos y tres y el inciso destacado en negrita del apartado cuatro, por la Sentencia del TC 70/2022, de 2 de junio. Ref. BOE-A-2022-11086
