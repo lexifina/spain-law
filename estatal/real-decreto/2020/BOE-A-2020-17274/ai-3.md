@@ -12,6 +12,8 @@
 | Formación aportada | Formación a convalidar |
 | Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
 | Empresa e iniciativa emprendedora. | Empresa e iniciativa emprendedora. |
+| Técnico en Actividades Comerciales | Para cualquier ciclo formativo |
+| 1227. Gestión de un pequeño comercio. | Empresa e iniciativa emprendedora. |
 | Para determinados ciclos formativos |
 | --- |
 | Formación aportada | Formación a convalidar |
@@ -749,3 +751,7 @@
 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
 | Técnico en Mantenimiento de Material Rodante Ferroviario (RD 1145/2012, de 27 de julio) (Transporte y Mantenimiento de Vehículos) | Técnico en Fabricación de Productos Cerámicos (RD 454/2010, de 16 de abril) |
 | Ciclo completo. | 0116. Principios de mantenimiento electromecánico. |
+
+> Se modifica la convalidación para los ciclos con empresa e iniciativa emprendedora por la disposición final 2 del Real Decreto 393/2022, de 24 de mayo de 2022. Ref. BOE-A-2022-9846
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 156, de 30 de junio de 2022. Ref. BOE-A-2022-10806
