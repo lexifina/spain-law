@@ -18,6 +18,8 @@ En dicha convocatoria se determinará la composición del tribunal, que estará 
 
 El tribunal trasladará los resultados positivos y negativos de la prueba a la persona titular de la Dirección General de Ordenación Profesional para que dicte la resolución estimatoria o desestimatoria de acceso extraordinario al título de especialista que proceda.
 
+> Téngase en cuenta que se declara la nulidad de los incisos destacados en el apartado 1.b) por Sentencia del TS de 9 de junio de 2022. Ref. BOE-A-2022-11136
+
 c) También podrán acceder al procedimiento regulado en el párrafo b), quienes hayan cursado el citado trayecto A habiendo obtenido el título de especialista en Psiquiatría, durante el periodo que media entre la entrada en vigor de este real decreto y la fecha oficial de finalización de la especialidad de la última promoción de psiquiatras formados al amparo del programa aprobado por Orden SCO/2616/2008, de 1 de septiembre.
 
 Sin perjuicio de la acreditación formal de este requisito en los términos previstos en el apartado 3.c), deberá constar que el aspirante figura en la relación de residentes que anualmente realicen el mencionado trayecto A, durante el periodo citado en el párrafo anterior. A tal fin, se requerirá que los presidentes de las comisiones de docencia a la que estén adscritas las unidades docentes de Psiquiatría trasladen a la Dirección General de Ordenación de Profesional del Ministerio de Sanidad, la citada relación en el mes siguiente al inicio del correspondiente trayecto formativo.
@@ -64,7 +66,7 @@ De acuerdo con lo establecido en el anexo II de la disposición adicional vigés
 
 4. El Ministerio de Sanidad, el órgano de la comunidad autónoma competente para expedir los certificados requeridos y la Comisión Nacional de la Especialidad de Psiquiatría Infantil y de la Adolescencia, podrán solicitar para el ejercicio de las competencias asignadas en este procedimiento, cuantos informes y documentación complementaria consideren oportunos.
 
-Los datos de carácter personal que consten en la solicitud establecida en el anexo I y II,así como los que puedan ser aportados en las diferentes fases del procedimiento, serán tratados conforme a lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de sus datos personales y a la libre circulación de estos datos y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, siendo responsable del tratamiento la Dirección General de Ordenación Profesional.
+Los datos de carácter personal que consten en la solicitud establecida en el anexo I y II, así como los que puedan ser aportados en las diferentes fases del procedimiento, serán tratados conforme a lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de sus datos personales y a la libre circulación de estos datos y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, siendo responsable del tratamiento la Dirección General de Ordenación Profesional.
 
 La finalidad del mencionado tratamiento es acceso extraordinario al título de médica/o especialista en Psiquiatría Infantil y de la Adolescencia. La base jurídica del tratamiento deriva de una obligación legal atribuida al Ministerio de Sanidad, y del cumplimiento de una misión de interés público, en el ejercicio de los poderes públicos conferidos al citado Departamento por la Ley 44/2003, de 21 de noviembre.
 
@@ -73,3 +75,5 @@ Los datos serán conservados durante el tiempo necesario para cumplir con la fin
 La persona interesada puede ejercer los derechos de acceso, rectificación, oposición, supresión, limitación del tratamiento, portabilidad y de no ser objeto de decisiones basadas únicamente en el tratamiento automatizado de sus datos, cuando procedan, dirigiéndose al Responsable del Tratamiento (Dirección General de Ordenación Profesional del Ministerio de Sanidad).
 
 Asimismo, puede interponer una reclamación ante la Agencia Española de Protección de Datos. Con carácter previo a una reclamación, puede dirigirse al Delegado de Protección de Datos del Ministerio de Sanidad.
+
+> Se declara la nulidad de los incisos destacados en el apartado 1.b) por Sentencia del TS de 9 de junio de 2022. Ref. BOE-A-2022-11136
