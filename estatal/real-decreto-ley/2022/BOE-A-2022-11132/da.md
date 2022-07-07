@@ -1,0 +1,3 @@
+## Disposición adicional primera. Proceso de negociación sindical para la actualización del Estatuto Marco del personal estatutario de los servicios de salud.
+
+Tal y como establecen los artículos 10 y 11 del Estatuto Marco, el Ministerio de Sanidad, dentro del ámbito de negociación con conocimiento de la Comisión de Recursos Humanos en su labor de planificación, iniciará en el plazo de tres meses desde la entrada en vigor de este real decreto-ley un proceso de negociación sindical para la actualización del Estatuto Marco. Este proceso negociador deberá concluir en el plazo de seis meses, que podrá ser prorrogable.
