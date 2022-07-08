@@ -8,6 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+BOE records this act as repealed with effect from 2022-07-08. The recorded cause is disposición derogatoria única a) del Real Decreto-ley 24/2021, de 2 de noviembre de 2021 (BOE-A-2021-17910). See the publisher notice for qualifications and transitional provisions. Earlier wording remains available in the history.
+
 ## Bloques
 
 - [no](no.md)
