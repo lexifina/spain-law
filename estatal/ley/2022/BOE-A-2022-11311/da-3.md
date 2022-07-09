@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Medidas para favorecer la producción audiovisual realizada por mujeres.
+
+Se fomentará la producción de obras audiovisuales dirigidas o producidas por mujeres mediante la convocatoria de ayudas con cargo al Fondo de Protección a la Cinematografía. Asimismo, se fomentará la formación, atracción y retención de talento femenino en el sector audiovisual, y se llevarán a cabo acciones que permitan a las mujeres el acceso a puestos de trabajo en áreas ampliamente masculinizadas, así como en los puestos de mayor responsabilidad, de conformidad con lo previsto en el artículo 151.1.

@@ -1,0 +1,1 @@
+La Resolución de 10 de junio de 2010, por la que se constituye el Registro Estatal de Prestadores de Servicios de Comunicación Audiovisual de la Comisión del Mercado de las Telecomunicaciones, deja de producir efectos desde el 9 de julio de 2022, según establece la disposición derogatoria única.2 de la Ley 13/2022, de 7 de julio. Ref. BOE-A-2022-11311#dd
