@@ -1,0 +1,7 @@
+## Disposición adicional primera. Constitución de la Autoridad Independiente para la Igualdad de Trato y la No Discriminación.
+
+1. En el plazo de seis meses desde la entrada en vigor de esta ley se procederá a la integración de la Autoridad Independiente para la Igualdad de Trato y la No Discriminación de las funciones, entidades, organismos y servicios administrativos adscritos a la Administración General del Estado que se determinen mediante Real Decreto, aprobado con la autorización de los Ministerios de Asuntos Económicos y Transformación Digital y Hacienda y Función Pública, con la aprobación previa del Ministerio de Presidencia, Relaciones con las Cortes y Memoria Democrática.
+
+2. En el plazo de seis meses desde la entrada en vigor de esta ley, el Gobierno, a iniciativa de la Autoridad Independiente para la Igualdad de Trato y la No Discriminación, y a propuesta de los Ministerios de Presidencia, Relaciones con las Cortes y Memoria Democrática, Asuntos Económicos y Transformación Digital, Hacienda y Función Pública, Política Territorial y Derechos Sociales y Agenda 2030, aprobará, mediante Real Decreto, el Estatuto de la Autoridad Independiente previsto en el artículo 41.3 de esta ley.
+
+3. En el plazo de un año desde su constitución la Autoridad Independiente para la Igualdad de Trato y la No Discriminación presentará al Departamento competente en materia de igualdad de trato una propuesta para la constitución de un Centro de Documentación y Memoria sobre Discriminación, Odio e Intolerancia.
