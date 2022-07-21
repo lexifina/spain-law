@@ -52,4 +52,6 @@ d) la capacidad necesaria para elaborar los certificados, los documentos y los i
 
 18. Los organismos de evaluación de la conformidad cumplirán los requisitos de la norma EN ISO/IEC 17065:2012.
 
-19. Los organismos de evaluación de la conformidad velarán por que los laboratorios de ensayo utilizados con fines de evaluación de la conformidad cumplan los requisitos de la norma EN ISO/IEC 17025:2005.ES 28.8.2014 «Diario Oficial de la Unión Europea» L 257/183
+19. Los organismos de evaluación de la conformidad velarán por que los laboratorios de ensayo utilizados con fines de evaluación de la conformidad cumplan los requisitos de la norma técnica UNE-EN ISO/IEC 17025:2017 –Requisitos generales para la competencia de los laboratorios de ensayo y calibración (ISO/IEC 17025:2017)–.
+
+> Se modifica el punto 19 por el art. 7 del Real Decreto 587/2022, de 19 de julio. Ref. BOE-A-2022-12013

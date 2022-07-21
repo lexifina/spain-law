@@ -114,4 +114,10 @@
 
 48. Póliza de seguro u otra garantía financiera relativa a la responsabilidad civil por daños debidos a la contaminación por hidrocarburos.
 
+49. Certificado del inventario de materiales peligrosos o, en su caso, Declaración de conformidad, en virtud del Reglamento (UE) n.º 1257/2013 del Parlamento Europeo y del Consejo, de 20 de noviembre de 2013, relativo al reciclado de buques y por el que se modifican el Reglamento (CE) n.º 1013/2006 y la Directiva 2009/16/CE.
+
+50. Documento de conformidad, expedido con arreglo al Reglamento (UE) 2015/757 del Parlamento Europeo y del Consejo, de 29 de abril de 2015, relativo al seguimiento, notificación y verificación de las emisiones de dióxido de carbono generadas por el transporte marítimo y por el que se modifica la Directiva 2009/16/CE.
+
+> Se añaden los apartados 49 y 50 por el art. 4 del Real Decreto 587/2022, de 19 de julio. Ref. BOE-A-2022-12013
+
 > Se modifican los apartados 14, 15, y 16 y se añaden los apartados 45, 46, 47 y 48 por el art. único.9 del Real Decreto 1004/2014, de 5 de diciembre. Ref. BOE-A-2014-12732.
