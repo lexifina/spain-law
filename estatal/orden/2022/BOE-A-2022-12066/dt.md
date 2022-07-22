@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Aplicabilidad de la Orden ECD/686/2014, de 23 de abril, por la que se establece el currículo de la Educación Primaria para el ámbito de gestión del Ministerio de Educación, Cultura y Deporte y se regula su implantación, así como la evaluación y determinados aspectos organizativos de la etapa.
+
+1. El currículo regulado de acuerdo con la Orden ECD/686/2014, de 23 de abril, por la que se establece el currículo de la Educación Primaria para el ámbito de gestión del Ministerio de Educación, Cultura y Deporte y se regula su implantación, así como la evaluación y determinados aspectos organizativos de la etapa será de aplicación en los cursos segundo, cuarto y sexto de Educación Primaria durante el año académico 2022-2023.
+
+2. Los estándares de aprendizaje evaluables que figuran en los anexos de la citada Orden ECD/686/2014, de 23 de abril, tendrán carácter meramente orientativo para los cursos de Educación Primaria a los que se refiere el apartado 1 durante el año académico 2022-2023.

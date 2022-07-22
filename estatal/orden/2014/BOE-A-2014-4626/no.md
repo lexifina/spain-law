@@ -1,1 +1,3 @@
-> Incluye corrección de errores publicada por Orden ECD/774/2014, de 12 de mayo. Ref. BOE-A-2014-5110
+Norma derogada por la disposición derogatoria única.1 de la Orden EFP/678/2022, de 15 de julio. Ref. BOE-A-2022-12066#dd, con los efectos y alcances establecidos en la disposición final segunda de la misma.
+
+Téngase en cuenta que lo dispuesto en la citada orden se implantará para los cursos primero, tercero y quinto en el curso escolar 2022-2023, y para los cursos segundo, cuarto y sexto en el curso escolar 2023-2024 y, en cuanto a la aplicabilidad de la presente Orden, véase también lo que establece la disposición transitoria 1. Ref. BOE-A-2022-12066#dt
