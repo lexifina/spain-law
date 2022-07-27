@@ -12,6 +12,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 - [preambulo](preambulo.md)
 - [Primero](primero.md)
+- [Primero bis](pb.md)
 - [Segundo](segundo.md)
 - [Tercero](tercero.md)
 - [Cuarto](cuao.md)
