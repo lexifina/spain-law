@@ -38,10 +38,12 @@ Los criterios comunes establecidos para cada modalidad y especialidad deportiva 
 
 3. Para la tramitación y resolución de los expedientes individuales se tendrá en cuenta lo siguiente:
 
-a) Los expedientes para homologación, convalidación y equivalencia se iniciarán a solicitud individual, dentro del plazo de 10 años que empezará a contar desde el día siguiente al de la publicación en el Boletín Oficial del Estado de los criterios comunes, conforme a lo establecido en esta disposición adicional.
+a) Los expedientes para homologación, convalidación y equivalencia se iniciarán a solicitud individual, conforme a lo establecido en esta disposición adicional.
 
 b) La tramitación de los expedientes se ajustará al procedimiento que dispone la Orden ECD/189/2004, de 21 de enero, por la que se regula el procedimiento de tramitación de los expedientes de homologación, convalidación y equivalencia a efectos profesionales, de las formaciones de entrenadores deportivos, por las enseñanzas deportivas de régimen especial, a los efectos de lo previsto en el artículo 42 del Real Decreto 1913/1997, de 19 de diciembre, o norma que la sustituya.
 
 c) Corresponderá a la unidad competente del Consejo Superior de Deportes formular la propuesta de resolución.
 
 d) La resolución de los expedientes corresponderá al Ministro de Educación y Ciencia.
+
+> Se modifica la letra a) del apartado 3 por el art. 7.4 del Real Decreto 628/2022, de 26 de julio. Ref. BOE-A-2022-12503

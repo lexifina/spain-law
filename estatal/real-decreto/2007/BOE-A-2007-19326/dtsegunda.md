@@ -24,8 +24,10 @@ i) En la modalidad de balonmano, los jugadores y jugadoras que, en el plazo de l
 
 3. Las Administraciones competentes podrán autorizar:
 
-a) La aplicación de las medidas sobre tipo de oferta, formación a distancia y criterios de admisión que se establecen, respectivamente, en los artículos 24, 25, 26, 27, 28, 29, 30 y concordantes.
+a) La aplicación de las medidas sobre tipo de oferta, formación a distancia y criterios de admisión que se establecen, respectivamente, en los artículos 24, 25, 26, 27, 28, 29, 31 y concordantes.
 
 b) La aplicación de las medidas sobre reserva de plazas que se establecen en la disposición adicional decimotercera.
 
 c) Centros con las medidas y requisitos previstos en el capítulo X.
+
+> Se modifica la letra a) del apartado 3 por el art. 7.6 del Real Decreto 628/2022, de 26 de julio. Ref. BOE-A-2022-12503
