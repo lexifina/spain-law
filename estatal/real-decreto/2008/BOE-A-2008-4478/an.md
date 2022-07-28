@@ -2,958 +2,1068 @@
 
 ## Zonas prioritarias
 
-## Alicante:
+Alicante:
 
-Adsubia.
+Agost
 
-Agost.
+Agres
 
-Agres.
+Aigües
 
-Albatera.
+Albatera
 
-Alcalalí.
+Alcalalí
 
-Alcocer de Planes.
+Alcocer de Planes
 
-Alcoleja.
+Alcoi/Alcoy
 
-Alcoy/Alcoi.
+Alcoleja
 
-Alfafara.
+Alfafara
 
-Algorfa.
+Alfàs del Pi, l'
 
-Algueña.
+Algorfa
 
-Almoradí.
+Algueña
 
-Almudaina.
+Almoradí
 
-Alqueria d'Asnar, l'.
+Almudaina
 
-Aspe.
+Alqueria d'Asnar, l'
 
-Balones.
+Altea
 
-Banyeres de Mariola.
+Aspe
 
-Benasau.
+Atzúbia, l'
 
-Beneixama.
+Balones
 
-Benejúzar.
+Banyeres de Mariola
 
-Benferri.
+Benasau
 
-Beniarbeig.
+Beneixama
 
-Beniardá.
+Benejúzar
 
-Beniarrés.
+Benferri
 
-Benidoleig.
+Beniarbeig
 
-Benifallim.
+Beniardá
 
-Benifato.
+Beniarrés
 
-Benigembla.
+Benidoleig
 
-Benijófar.
+Benidorm
 
-Benilloba.
+Benifallim
 
-Benillup.
+Benifato
 
-Benimantell.
+Benigembla
 
-Benimarfull.
+Benijófar
 
-Benimassot.
+Benilloba
 
-Benimeli.
+Benillup
 
-Biar.
+Benimantell
 
-Bigastro.
+Benimarfull
 
-Bolulla.
+Benimassot
 
-Callosa de Segura.
+Benimeli
 
-Callosa d'En Sarrià.
+Benissa
 
-Campo de Mirra/Camp de Mirra, el.
+Biar
 
-Cañada.
+Bigastro
 
-Castalla.
+Bolulla
 
-Castell de Castells.
+Busot
 
-Catral.
+Callosa de Segura
 
-Cocentaina.
+Callosa d'en Sarrià
 
-Confrides.
+Calp
 
-Cox.
+Camp de Mirra, el/Campo de Mirra
 
-Crevillent.
+Cañada
 
-Daya Nueva.
+Castalla
 
-Daya Vieja.
+Castell de Castells
 
-Dolores.
+Castell de Guadalest, el
 
-Elche/Elx.
+Catral
 
-Elda.
+Cocentaina
 
-Facheca.
+Confrides
 
-Famorca.
+Cox
 
-Formentera del Segura.
+Crevillent
 
-Gaianes.
+Daya Nueva
 
-Gata de Gorgos.
+Daya Vieja
 
-Gorga.
+Dolores
 
-Granja de Rocamora.
+Elda
 
-Guardamar del Segura.
+Elx/Elche
 
-Hondón de las Nieves.
+Facheca
 
-Hondón de los Frailes.
+Famorca
 
-Ibi.
+Finestrat
 
-Jacarilla.
+Fondó de les Neus, el/Hondón de las Nieves
 
-Jalón/Xaló.
+Formentera del Segura
 
-Jijona/Xixona.
+Gaianes
 
-Llíber.
+Gata de Gorgos
 
-Lorcha/Orxa, l'.
+Gorga
 
-Millena.
+Granja de Rocamora
 
-Monforte del Cid.
+Guardamar del Segura
 
-Monóvar/Monòver.
+Hondón de los Frailes
 
-Montesinos, los.
+Ibi
 
-Murla.
+Jacarilla
 
-Muro de Alcoy.
+Llíber
 
-Mutxamel.
+Millena
 
-Novelda.
+Monforte del Cid
 
-Ondara.
+Monòver/Monóvar
 
-Onil.
+Montesinos, los
 
-Orba.
+Murla
 
-Orihuela.
+Muro de Alcoy
 
-Parcent.
+Mutxamel
 
-Pedreguer.
+Novelda
 
-Pego.
+Nucia, la
 
-Penàguila.
+Ondara
 
-Petrer.
+Onil
 
-Pilar de la Horadada.
+Orba
 
-Pinoso/Pinós, el.
+Orihuela
 
-Planes.
+Orxa, l'/Lorcha
 
-Quatretondeta.
+Orxeta
 
-Rafal.
+Parcent
 
-Ràfol d'Almúnia, el.
+Pedreguer
 
-Redován.
+Pego
 
-Rojales.
+Penàguila
 
-Romana, la.
+Petrer
 
-Sagra.
+Pilar de la Horadada
 
-Salinas.
+Pinós, el/Pinoso
 
-San Fulgencio.
+Planes
 
-San Isidro.
+Poble Nou de Benitatxell, el/Benitachell
 
-San Miguel de Salinas.
+Poblets, els
 
-San Vicente del Raspeig/Sant Vicent del.
+Polop
 
-Sanet y Negrals.
+Quatretondeta
 
-Santa Pola.
+Rafal
 
-Sax.
+Ràfol d'Almúnia, el
 
-Senija.
+Redován
 
-Tàrbena.
+Relleu
 
-Tibi.
+Rojales
 
-Tollos.
+Romana, la
 
-Tormos.
+Sagra
 
-Torremanzanas/Torre de les Maçanes, la.
+Salinas
 
-Torrevieja.
+San Fulgencio
 
-Vall d'Alcalà, la.
+San Isidro
 
-Vall de Ebo.
+San Miguel de Salinas
 
-Vall de Gallinera.
+Sanet y Negrals
 
-Vall de Laguar, la.
+Sant Joan d'Alacant
 
-Verger, el.
+Sant Vicent del Raspeig/San Vicente del Raspeig
 
-Villajoyosa/Vila Joiosa, la.
+Santa Pola
 
-Villena.
+Sax
 
-## Castellón:
+Sella
 
-Aín.
+Senija
 
-Albocàsser.
+Tàrbena
 
-Alcora, l'.
+Teulada
 
-Alcudia de Veo.
+Tibi
 
-Alfondeguilla.
+Tollos
 
-Algimia de Almonacid.
+Tormos
 
-Almedíjar.
+Torre de les Maçanes, la/Torremanzanas
 
-Almenara.
+Torrevieja
 
-Altura.
+Vall d'Alcalà, la
 
-Arañuel.
+Vall de Gallinera
 
-Ares del Maestre.
+Vall de Laguar, la
 
-Argelita.
+Vall d'Ebo, la
 
-Artana.
+Verger, el
 
-Atzeneta del Maestrat.
+Vila Joiosa, la/Villajoyosa
 
-Ayódar.
+Villena
 
-Azuébar.
+Xaló
 
-Barracas.
+Xixona/Jijona
 
-Bejís.
+Castellón:
 
-Benafer.
+Aín
 
-Benafigos.
+Albocàsser
 
-Benasal.
+Alcalà de Xivert
 
-Benlloch.
+Alcora, l'
 
-Càlig.
+Alcudia de Veo
 
-Canet lo Roig.
+Alfondeguilla
 
-Castell de Cabres.
+Algimia de Almonacid
 
-Castellfort.
+Almedíjar
 
-Castellnovo.
+Almenara
 
-Castillo de Villamalefa.
+Alqueries, les/Alquerías del Niño Perdido
 
-Catí.
+Altura
 
-Caudiel.
+Arañuel
 
-Cervera del Maestre.
+Ares del Maestrat
 
-Chert/Xert.
+Argelita
 
-Chilches/Xilxes.
+Artana
 
-Chodos/Xodos.
+Atzeneta del Maestrat
 
-Chóvar.
+Ayódar
 
-Cinctorres.
+Azuébar
 
-Cirat.
+Barracas
 
-Cortes de Arenoso.
+Bejís
 
-Costur.
+Benafer
 
-Coves de Vinromà, les.
+Benafigos
 
-Culla.
+Benassal
 
-Eslida.
+Benicàssim/Benicasim
 
-Espadilla.
+Benlloc
 
-Fanzara.
+Betxí
 
-Figueroles.
+Borriol
 
-Forcall.
+Cabanes
 
-Fuente la Reina.
+Càlig
 
-Fuentes de Ayódar.
+Canet lo Roig
 
-Gaibiel.
+Castell de Cabres
 
-Geldo.
+Castellfort
 
-Herbés.
+Castellnovo
 
-Higueras.
+Castillo de Villamalefa
 
-Jana, la.
+Catí
 
-Jérica.
+Caudiel
 
-Llosa, la.
+Cervera del Maestre
 
-Lucena del Cid.
+Chilches/Xilxes
 
-Ludiente.
+Chóvar
 
-Mata, la.
+Cinctorres
 
-Matet.
+Cirat
 
-Moncofa.
+Cortes de Arenoso
 
-Montán.
+Costur
 
-Montanejos.
+Coves de Vinromà, les
 
-Morella.
+Culla
 
-Navajas.
+Eslida
 
-Nules.
+Espadilla
 
-Olocau del Rey.
+Fanzara
 
-Onda.
+Figueroles
 
-Palanques.
+Forcall
 
-Pavías.
+Fuente la Reina
 
-Pina de Montalgrao.
+Fuentes de Ayódar
 
-Pobla de Benifassà, la.
+Gaibiel
 
-Pobla Tornesa, la.
+Geldo
 
-Portell de Morella.
+Herbers
 
-Puebla de Arenoso.
+Higueras
 
-Ribesalbes.
+Jana, la
 
-Rossell.
+Jérica
 
-Sacañet.
+Llosa, la
 
-Salzadella, la.
+Llucena/Lucena del Cid
 
-San Jorge/Sant Jordi.
+Ludiente
 
-San Rafael del Río.
+Mata de Morella, la
 
-Sant Joan de Moró.
+Matet
 
-Sant Mateu.
+Moncofa
 
-Santa Magdalena de Pulpis.
+Montán
 
-Sarratella.
+Montanejos
 
-Segorbe.
+Morella
 
-Sierra Engarcerán.
+Navajas
 
-Soneja.
+Nules
 
-Sot de Ferrer.
+Olocau del Rey
 
-Sueras/Suera.
+Onda
 
-Tales.
+Orpesa/Oropesa del Mar
 
-Teresa.
+Palanques
 
-Tírig.
+Pavías
 
-Todolella.
+Peníscola/Peñíscola
 
-Toga.
+Pina de Montalgrao
 
-Torás.
+Pobla de Benifassà, la
 
-Toro, el.
+Pobla Tornesa, la
 
-Torralba del Pinar.
+Portell de Morella
 
-Torre d'En Besora, la.
+Puebla de Arenoso
 
-Torre Endoménech.
+Ribesalbes
 
-Torrechiva.
+Rossell
 
-Traiguera.
+Sacañet
 
-Useras/Useres, les.
+Salzadella, la
 
-Vall d'Alba.
+San Rafael del Río
 
-Vall de Almonacid.
+Sant Joan de Moró
 
-Vall d'Uixo, la.
+Sant Jordi/San Jorge
 
-Vallat.
+Sant Mateu
 
-Vallibona.
+Santa Magdalena de Pulpis
 
-Vilafamés.
+Segorbe
 
-Vilanova d'Alcolea.
+Serratella, la
 
-Vilar de Canes.
+Sierra Engarcerán
 
-Vilavella, la.
+Soneja
 
-Villafranca del Cid/Vilafranca.
+Sot de Ferrer
 
-Villahermosa del Río.
+Suera/Sueras
 
-Villamalur.
+Tales
 
-Villanueva de Viver.
+Teresa
 
-Villores.
+Tírig
 
-Vistabella del Maestrazgo.
+Todolella
 
-Viver.
+Toga
 
-Zorita del Maestrazgo.
+Torás
 
-Zucaina.
+Toro, El
 
-## Valencia:
+Torralba del Pinar
 
-Ademuz.
+Torre d'En Besora, la
 
-Ador.
+Torre d'en Doménec, la
 
-Agullent.
+Torreblanca
 
-Aielo de Malferit.
+Torrechiva
 
-Aielo de Rugat.
+Traiguera
 
-Alaquàs.
+Useres, les/Useras
 
-Albaida.
+Vall d'Alba
 
-Albal.
+Vall de Almonacid
 
-Albalat de la Ribera.
+Vall d'Uixó, la
 
-Albalat dels Sorells.
+Vallat
 
-Albalat dels Tarongers.
+Vallibona
 
-Alberic.
+Vilafamés
 
-Alborache.
+Vilafranca/Villafranca del Cid
 
-Alcàntera de Xúquer.
+Vilanova d'Alcolea
 
-Alcàsser.
+Vilar de Canes
 
-Alcublas.
+Vilavella, la
 
-Alcúdia de Crespins, l'.
+Villahermosa del Río
 
-Alcúdia, l'.
+Villamalur
 
-Aldaia.
+Villanueva de Viver
 
-Alfafar.
+Villores
 
-Alfara de Algimia.
+Vistabella del Maestrat
 
-Alfara del Patriarca.
+Viver
 
-Alfarp.
+Xert
 
-Alfarrasí.
+Xodos/Chodos
 
-Alfauir.
+Zorita del Maestrazgo
 
-Algar de Palancia.
+Zucaina
 
-Algemesí.
+Valencia:
 
-Algimia de Alfara.
+Ademuz
 
-Alginet.
+Ador
 
-Almàssera.
+Agullent
 
-Almiserà.
+Aielo de Malferit
 
-Almoines.
+Aielo de Rugat
 
-Alpuente.
+Alaquàs
 
-Alzira.
+Albaida
 
-Andilla.
+Albal
 
-Anna.
+Albalat de la Ribera
 
-Antella.
+Albalat dels Sorells
 
-Aras de los Olmos.
+Albalat dels Tarongers
 
-Atzeneta d'Albaida.
+Alberic
 
-Ayora.
+Alborache
 
-Barx.
+Alboraia/Alboraya
 
-Barxeta.
+Albuixech
 
-Bèlgida.
+Alcàntera de Xúquer
 
-Bellreguard.
+Alcàsser
 
-Bellús.
+Alcublas
 
-Benagéber.
+Alcúdia de Crespins, l'
 
-Benaguasil.
+Alcúdia, l'
 
-Benavites.
+Aldaia
 
-Beneixida.
+Alfafar
 
-Benetússer.
+Alfara de la Baronia
 
-Beniarjó.
+Alfara del Patriarca
 
-Beniatjar.
+Alfarp
 
-Benicolet.
+Alfarrasí
 
-Benifaió.
+Alfauir
 
-Benifairó de la Valldigna.
+Algar de Palancia
 
-Benifairó de les Valls.
+Algemesí
 
-Beniflá.
+Algímia d'Alfara
 
-Benigánim.
+Alginet
 
-Benimodo.
+Almàssera
 
-Benirredrà.
+Almiserà
 
-Benisanó.
+Almoines
 
-Benissoda.
+Almussafes
 
-Benisuera.
+Alpuente
 
-Bétera.
+Alqueria de la Comtessa, l'
 
-Bicorp.
+Alzira
 
-Bocairent.
+Andilla
 
-Bolbaite.
+Anna
 
-Bonrepòs i Mirambell.
+Antella
 
-Bufali.
+Aras de los Olmos
 
-Bugarra.
+Atzeneta d'Albaida
 
-Buñol.
+Ayora
 
-Burjassot.
+Barx
 
-Calles.
+Barxeta
 
-Camporrobles.
+Bèlgida
 
-Canals.
+Bellreguard
 
-Carcaixent.
+Bellús
 
-Càrcer.
+Benagéber
 
-Carlet.
+Benaguasil
 
-Carrícola.
+Benavites
 
-Casas Altas.
+Beneixida
 
-Casas Bajas.
+Benetússer
 
-Casinos.
+Beniarjó
 
-Castelló de Rugat.
+Beniatjar
 
-Castellonet de la Conquesta.
+Benicolet
 
-Castielfabib.
+Benicull de Xúquer
 
-Catadau.
+Benifaió
 
-Caudete de las Fuentes.
+Benifairó de la Valldigna
 
-Cerdà.
+Benifairó de les Valls
 
-Chella.
+Beniflá
 
-Chelva.
+Benigànim
 
-Chera.
+Benimodo
 
-Cheste.
+Benimuslem
 
-Chiva.
+Beniparrell
 
-Chulilla.
+Benirredrà
 
-Cofrentes.
+Benissanó
 
-Corbera.
+Benissoda
 
-Cortes de Pallás.
+Benissuera
 
-Cotes.
+Bétera
 
-Cullera.
+Bicorp
 
-Domeño.
+Bocairent
 
-Dos Aguas.
+Bolbaite
 
-Enguera.
+Bonrepòs i Mirambell
 
-Ènova, l'.
+Bufali
 
-Estivella.
+Bugarra
 
-Estubeny.
+Buñol
 
-Faura.
+Burjassot
 
-Favara.
+Calles
 
-Foios.
+Camporrobles
 
-Font de la Figuera, la.
+Canals
 
-Font d'En Carròs, la.
+Canet d'En Berenguer
 
-Fontanars dels Alforins.
+Carcaixent
 
-Fuenterrobles.
+Càrcer
 
-Gátova.
+Carlet
 
-Gavarda.
+Carrícola
 
-Genovés.
+Casas Altas
 
-Gestalgar.
+Casas Bajas
 
-Gilet.
+Casinos
 
-Godelleta.
+Castelló
 
-Granja de la Costera, la.
+Castelló de Rugat
 
-Guadasequies.
+Castellonet de la Conquesta
 
-Guadassuar.
+Castielfabib
 
-Higueruelas.
+Catadau
 
-Jalance.
+Catarroja
 
-Jarafuel.
+Caudete de las Fuentes
 
-Llanera de Ranes.
+Cerdà
 
-Llaurí.
+Chella
 
-Llíria.
+Chelva
 
-Llocnou de Sant Jeroni.
+Chera
 
-Llocnou d'En Fenollet.
+Cheste
 
-Llombai.
+Chiva
 
-Llosa de Ranes, la.
+Chulilla
 
-Llutxent.
+Cofrentes
 
-Loriguilla.
+Corbera
 
-Losa del Obispo.
+Cortes de Pallás
 
-Macastre.
+Cotes
 
-Manises.
+Cullera
 
-Manuel.
+Daimús
 
-Marines.
+Domeño
 
-Masalavés.
+Dos Aguas
 
-Massamagrell.
+Eliana, l'
 
-Massanassa.
+Emperador
 
-Meliana.
+Enguera
 
-Millares.
+Ènova, l'
 
-Mogente/Moixent.
+Estivella
 
-Montaverner.
+Estubeny
 
-Montesa.
+Faura
 
-Montichelvo.
+Favara
 
-Montroy.
+Foios
 
-Montserrat.
+Font de la Figuera, la
 
-Museros.
+Font d'En Carròs, la
 
-Náquera.
+Fontanars dels Alforins
 
-Navarrés.
+Fortaleny
 
-Novelé/Novetlè.
+Fuenterrobles
 
-Olleria, l'.
+Gandia
 
-Olocau.
+Gátova
 
-Ontinyent.
+Gavarda
 
-Otos.
+Genovés, el
 
-Paiporta.
+Gestalgar
 
-Palma de Gandía.
+Gilet
 
-Palomar, el.
+Godella
 
-Pedralba.
+Godelleta
 
-Petrés.
+Granja de la Costera, la
 
-Picanya.
+Guadasséquies
 
-Picassent.
+Guadassuar
 
-Pinet.
+Guardamar de la Safor
 
-Pobla de Vallbona, la.
+Higueruelas
 
-Pobla del Duc, la.
+Jalance
 
-Pobla Llarga, la.
+Jarafuel
 
-Polinyà de Xúquer.
+Llanera de Ranes
 
-Puçol.
+Llaurí
 
-Puebla de San Miguel.
+Llíria
 
-Quart de les Valls.
+Llocnou de la Corona
 
-Quart de Poblet.
+Llocnou de Sant Jeroni
 
-Quartell.
+Llocnou d'En Fenollet
 
-Quatretonda.
+Llombai
 
-Quesa.
+Llosa de Ranes, la
 
-Rafelcofer.
+Llutxent
 
-Rafelguaraf.
+Loriguilla
 
-Ráfol de Salem.
+Losa del Obispo
 
-Real de Gandía.
+Macastre
 
-Real de Montroi.
+Manises
 
-Requena.
+Manuel
 
-Riba-roja de Túria.
+Marines
 
-Riola.
+Massalavés
 
-Rotglà i Corberà.
+Massalfassar
 
-Rótova.
+Massamagrell
 
-Rugat.
+Massanassa
 
-Sagunto/Sagunt.
+Meliana
 
-Salem.
+Millares
 
-San Antonio de Benagéber.
+Miramar
 
-San Juan de Énova.
+Moixent/Mogente
 
-Sedaví.
+Moncada
 
-Segart.
+Montaverner
 
-Sellent.
+Montesa
 
-Sempere.
+Montitxelvo/Montichelvo
 
-Senyera.
+Montroi/Montroy
 
-Serra.
+Montserrat
 
-Siete Aguas.
+Museros
 
-Silla.
+Nàquera/Náquera
 
-Simat de la Valldigna.
+Navarrés
 
-Sinarcas.
+Novetlè/Novelé
 
-Sollana.
+Olleria, l'
 
-Sot de Chera.
+Olocau
 
-Sueca.
+Ontinyent
 
-Sumacàrcer.
+Otos
 
-Tavernes Blanques.
+Paiporta
 
-Tavernes de la Valldigna.
+Palma de Gandía
 
-Teresa de Cofrentes.
+Palmera
 
-Terrateig.
+Palomar, el
 
-Titaguas.
+Pedralba
 
-Torrebaja.
+Petrés
 
-Torrella.
+Picanya
 
-Torrent.
+Picassent
 
-Torres Torres.
+Piles
 
-Tous.
+Pinet
 
-Tuéjar.
+Pobla de Farnals, la
 
-Turís.
+Pobla de Vallbona, la
 
-Utiel.
+Pobla del Duc, la
 
-Vallada.
+Pobla Llarga, la
 
-Vallanca.
+Polinyà de Xúquer
 
-Vallés.
+Potries
 
-Venta del Moro.
+Puçol
 
-Vilamarxant.
+Puebla de San Miguel
 
-Villalonga.
+Puig de Santa Maria, el
 
-Villanueva de Castellón.
+Quart de les Valls
 
-Villar del Arzobispo.
+Quart de Poblet
 
-Villargordo del Cabriel.
+Quartell
 
-Vinalesa.
+Quatretonda
 
-Xàtiva.
+Quesa
 
-Xeraco.
+Rafelbunyol
 
-Xeresa.
+Rafelcofer
 
-Xirivella.
+Rafelguaraf
 
-Yátova.
+Ráfol de Salem
 
-Yesa, la.
+Real
 
-Zarra.
+Real de Gandia, el
+
+Requena
+
+Riba-roja de Túria
+
+Riola
+
+Rocafort
+
+Rotglà i Corberà
+
+Ròtova
+
+Rugat
+
+Sagunt/Sagunto
+
+Salem
+
+San Antonio de Benagéber
+
+Sant Joanet
+
+Sedaví
+
+Segart
+
+Sellent
+
+Sempere
+
+Senyera
+
+Serra
+
+Siete Aguas
+
+Silla
+
+Simat de la Valldigna
+
+Sinarcas
+
+Sollana
+
+Sot de Chera
+
+Sueca
+
+Sumacàrcer
+
+Tavernes Blanques
+
+Tavernes de la Valldigna
+
+Teresa de Cofrentes
+
+Terrateig
+
+Titaguas
+
+Torrebaja
+
+Torrella
+
+Torrent
+
+Torres Torres
+
+Tous
+
+Tuéjar
+
+Turís
+
+Utiel
+
+Vallada
+
+Vallanca
+
+Vallés
+
+Venta del Moro
+
+Vilallonga/Villalonga
+
+Vilamarxant
+
+Villar del Arzobispo
+
+Villargordo del Cabriel
+
+Vinalesa
+
+Xàtiva
+
+Xeraco
+
+Xeresa
+
+Xirivella
+
+Yátova
+
+Yesa, La
+
+Zarra
+
+> Se modifica por el art. único.6 del Real Decreto 618/2022, de 26 de julio. Ref. BOE-A-2022-12493
 
 > Redactado conforme a la corrección de errores publicada en BOE núm 130, de 29 de mayo de 2008. Ref. BOE-A-2008-9230.
