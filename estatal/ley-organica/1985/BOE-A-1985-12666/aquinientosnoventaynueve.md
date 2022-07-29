@@ -2,7 +2,7 @@
 
 1. El Pleno conocerá de las siguientes materias:
 
-1.ª La propuesta de nombramiento, por mayoría de tres quintos, de los dos Magistrados del Tribunal Constitucional cuya designación corresponde al Consejo General del Poder Judicial.
+1.ª La propuesta de nombramiento, por mayoría de tres quintos, de los dos Magistrados del Tribunal Constitucional cuya designación corresponde al Consejo General del Poder Judicial, que tendrá que realizarse en el plazo máximo de tres meses a contar desde el día siguiente al vencimiento del mandato anterior.
 
 2.ª La propuesta de nombramiento, en los términos previstos por esta Ley Orgánica, del Presidente del Tribunal Supremo y del Consejo General del Poder Judicial, así como la emisión del informe previo sobre el nombramiento del Fiscal General del Estado.
 
@@ -29,6 +29,8 @@
 13.ª Las demás que le atribuye esta Ley, las que no estén conferidas a otros órganos del Consejo y aquellos asuntos que, por razones excepcionales, acuerde recabar para sí.
 
 2. El Pleno designará un máximo de dos Vocales por cada Comunidad Autónoma para que, sin perjuicio de las competencias de los respectivos Tribunales Superiores de Justicia, sirvan de cauce de interlocución entre las instituciones y autoridades del territorio y el Consejo General del Poder Judicial.
+
+> Se modifica el apartado 1.1ª por el art. único.2 de la Ley Orgánica 8/2022, de 27 de julio. Ref. BOE-A-2022-12579#au
 
 > Se modifica por el art. único.53 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
