@@ -1,3 +1,5 @@
 ## CAPÍTULO II
 
 ## Medidas en el sector del transporte aéreo
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto-ley 14/2022, de 1 de agosto. Ref. BOE-A-2022-12925#dd
