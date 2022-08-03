@@ -1,17 +1,5 @@
-## Disposición transitoria quinta. Desarrollo del apartado 5 de la disposición transitoria primera de la Ley 22/1988, de 28 de julio.
+## Disposición transitoria quinta. Fallecimiento del titular de los derechos amparados por la disposición transitoria primera de la Ley 22/1988, de 28 de julio, de Costas.
 
-1. No obstante lo dispuesto en las disposiciones anteriores, si los terrenos a que se refieren hubieran sido inundados artificial y controladamente como consecuencia de obras o instalaciones realizadas al efecto y estuvieran destinados a actividades de cultivo marino o a salinas marítimas, se excluirán del dominio público marítimo-terrestre, aun cuando sean naturalmente inundables en la actualidad como consecuencia de las obras realizadas.
+Si con posterioridad a la iniciación del procedimiento para la determinación de derechos al amparo de lo establecido en la disposición transitoria primera de la Ley 22/1988, de 28 de julio, de Costas, se produjera el fallecimiento del último titular de los terrenos, sus causahabientes deberán aportar, en el plazo de seis meses desde el requerimiento por parte de la Administración, la documentación acreditativa de su condición de titulares registrales de los terrenos. En caso de que dicha inscripción no hubiera podido practicarse, se aplicará lo dispuesto en el apartado 2 de la disposición transitoria segunda de este Reglamento.
 
-A estos terrenos les será de aplicación el régimen dispuesto en la Ley 22/1988, de 28 de julio, para la zona de servidumbre de protección.
-
-2. Los interesados deberán acreditar que:
-
-a) Los terrenos inundados eran de propiedad privada antes del 29 de julio de 1988, mediante la correspondiente inscripción registral.
-
-b) La existencia de las actividades a que se refiere el apartado anterior antes del 29 de julio de 1988, mediante el título o certificación del órgano competente que pruebe la legalidad de tal circunstancia.
-
-3. Esta exclusión no se aplicará cuando las obras e instalaciones realizadas para inundar los terrenos se hubieran hecho con infracción de la normativa vigente en aquel momento y así constara a la Administración General del Estado.
-
-4. La exclusión de estos terrenos del dominio público marítimo-terrestre tendrá efectos desde la revisión de los deslindes correspondientes, de acuerdo con lo dispuesto en la disposición adicional quinta de la Ley 2/2013, de 29 de mayo.
-
-5. En caso de que no proceda la exclusión de los bienes del dominio público marítimo-terrestre, los titulares de las concesiones vigentes podrán solicitar la prórroga de éstas, de acuerdo con el artículo 2 de la Ley 2/2013, de 29 de mayo.
+> Se modifica por el art. único.31 del Real Decreto 668/2022, de 1 de agosto. Ref. BOE-A-2022-12932#au
