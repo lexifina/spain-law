@@ -68,6 +68,10 @@ f) Dirección General del Instituto para la Transición Justa.
 
 g) Dirección General de Deportes del Consejo Superior de Deportes.
 
+h) Dirección del Centro Universitario de Formación de la Policía Nacional, O.A.
+
+> Se añade la letra h) al apartado 2 por la disposición final 2 del Real Decreto 666/2022, de 1 de agosto. Ref. BOE-A-2022-12930#df-2
+
 > Se añade la letra w) al apartado 1 y la letra g) al apartado 2 por el art. único del Real Decreto 446/2022, de 14 de junio. Ref. BOE-A-2022-9842
 
 > Se anulan los apartados 1.w) y 2.g), en la redacción dada por el art. 1.2 y 3 del Real Decreto 311/2021, de 4 de mayo, por Sentencia del TS de 5 de mayo de 2022. Ref. BOE-A-2022-9764
