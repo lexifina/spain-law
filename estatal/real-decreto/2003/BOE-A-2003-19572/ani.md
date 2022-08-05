@@ -108,7 +108,6 @@
 | U.101 Terapias no convencionales. |
 | U.102 Medicina Legal y Forense. |
 | U.103 Psiquiatría Infantil y de la Adolescencia. |
-| U.104 Banco de oocitos. |
 | U.900 Otras unidades asistenciales. |
 
 Establecimientos sanitarios:
@@ -124,10 +123,6 @@ E.4 Ortopedias.
 E.5 Establecimientos de audioprótesis.
 
 > Téngase en cuenta que la referencia U.103, añadida por la disposición final 2.1 del Real Decreto 689/2021, de 3 de agosto. Ref. BOE-A-2021-13266, entra en vigor el 5 de agosto de 2022, según determina su disposición final 5.
-
-> Se añade la referencia U.104 por el art. 2.1 de la Orden SND/1215/2021, de 5 de noviembre. Ref. BOE-A-2021-18287
-
-> Redactado conforme a la corrección de errores publicada en BOE núm. 283, de 26 de noviembre de 2021. Ref. BOE-A-2021-19521
 
 > Se añade la referencia U.103, con efectos de 5 de agosto de 2022, por la disposición final 2.1 del Real Decreto 689/2021, de 3 de agosto. Ref. BOE-A-2021-13266
 

@@ -284,8 +284,6 @@ U. 103. Psiquiatría Infantil y de la Adolescencia: unidad asistencial en la que
 
 > Téngase en cuenta que la referencia U.69, modificada, y U.103, añadida por la disposición final 2.1 del Real Decreto 689/2021, de 3 de agosto. Ref. BOE-A-2021-13266, entran en vigor el 5 de agosto de 2022, según determina su disposición final 5.
 
-U.104 Banco de oocitos: unidad asistencial que, bajo la responsabilidad de un facultativo integrado en el correspondiente equipo biomédico, tiene como finalidad conservar y garantizar la calidad de los oocitos para su posterior aplicación en las técnicas de reproducción humana asistida o su utilización en proyectos de investigación legalmente autorizados. Las actividades de procesamiento, preservación y almacenamiento, de oocitos propios y de donante, se entienden comprendidas en esta oferta. Cuando el banco además suministre oocitos a otros centros se autorizará de manera específica la distribución, y según corresponda, la importación o exportación. Además, desarrollan las actividades precisas para la captación, selección y evaluación de las donantes.
-
 U.900 Otras unidades asistenciales: unidades bajo la responsabilidad de profesionales con titulación oficial o habilitación profesional que, aun cuando no tengan la consideración legal de «profesiones sanitarias tituladas y reguladas» en el sentido previsto en el artículo 2.1 de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, llevan a cabo actividades sanitarias que no se ajustan a las características de ninguna de las unidades anteriormente definidas, por su naturaleza innovadora, por estar en fase de evaluación clínica, o por afectar a profesiones cuyo carácter polivalente permite desarrollar, con una formación adecuada, actividades sanitarias vinculadas con el bienestar y salud de las personas en centros que tengan la consideración de sanitarios.
 
 > Téngase en cuenta que se declara la nulidad de la referencia U.900, en la redacción dada por el art. único.5 de la Orden SCO/1741/2006, de 29 de mayo, por Sentencia de la AN de 26 de septiembre de 2007. Ref. BOE-B-2010-17345
@@ -293,10 +291,6 @@ U.900 Otras unidades asistenciales: unidades bajo la responsabilidad de profesio
 > Redacción anterior:
 
 > "U.900 Otras unidades asistenciales: unidades que, bajo la responsabilidad de profesionales sanitarios, capacitados por su titulación oficial o habilitación profesional, no se ajustan a las características de ninguna de las anteriormente definidas por realizar actividades sanitarias innovadoras o en fase de evaluación clínica."
-
-> Se añade la referencia U.104 por el art. 2.2 de la Orden SND/1215/2021, de 5 de noviembre. Ref. BOE-A-2021-18287
-
-> Redactado conforme a la corrección de errores publicada en BOE núm. 283, de 26 de noviembre de 2021. Ref. BOE-A-2021-19521
 
 > Se modifica la referencia U.69, y se añade la U.103, con efectos de 5 de agosto de 2022, por la disposición final 2.2 del Real Decreto 689/2021, de 3 de agosto. Ref. BOE-A-2021-13266
 
