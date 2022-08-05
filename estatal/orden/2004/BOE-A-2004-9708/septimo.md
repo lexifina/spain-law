@@ -26,10 +26,10 @@ g) En caso de renovación, especificar el organismo o la unidad, localidad y fec
 
 h) En su caso, tipo de discapacidad que pueda limitar su participación en el acto.
 
-i) Confirmación de no haber sido declarado incapaz por sentencia judicial firme.
+i) (Suprimida).
 
 j) El organismo o la unidad, localidad y fecha donde realizó su prestación de juramento o promesa ante la Bandera.
 
-> Téngase en cuenta que este apartado séptimo, añadido por el art. único.4 de la Orden DEF/8/2017, de 9 de enero. Ref. BOE-A-2017-429., entra en vigor el 16 de julio de 2017, según establece la disposición final única de la citada Orden.
+> Se suprime la letra i) del párrafo 5 por el art. único.2 de la Orden DEF/750/2022, de 28 de julio. Ref. BOE-A-2022-13107
 
 > Se añade por el art. único.4 de la Orden DEF/8/2017, de 9 de enero. Ref. BOE-A-2017-429.
