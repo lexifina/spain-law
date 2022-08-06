@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 173 de 21 de julio de 2015. Ref. BOE-A-2015-8149.
+Téngase en cuenta las derogaciones establecidas por las disposiciones derogatorias únicas.1 de la Orden EFP/754/2022, de 28 de julio. Ref. BOE-A-2022-13172#dd, en particular, los artículos 6, 7, 11 y 14 de la misma, y de la Orden EFP/755/2022, de 31 de julio. Ref. BOE-A-2022-13173#dd, con los efectos y alcances establecidos en la disposición final 2 de las citadas órdenes.
