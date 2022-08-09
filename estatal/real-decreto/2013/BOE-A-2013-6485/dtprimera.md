@@ -1,3 +1,5 @@
 ## Disposición transitoria primera. Profesorado de enseñanzas de Arte Dramático.
 
-Hasta tanto se establezcan las especialidades de los Cuerpos de Profesores de Música y Artes Escénicas y de Catedráticos de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de Arte Dramático, mantienen su vigencia los artículos 1, 2 y 3 del Real Decreto 989/2000, de 2 de junio, por el que se establecen las especialidades del Cuerpo de Profesores de Música y Artes Escénicas, se adscriben a ellas los profesores de dicho Cuerpo y se determinan las materias que deberán impartir, en todo lo referente a las enseñanzas superiores de arte dramático.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 588/2022, de 19 de julio. Ref. BOE-A-2022-12014#dd
