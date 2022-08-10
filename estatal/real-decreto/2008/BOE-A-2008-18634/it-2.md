@@ -384,6 +384,8 @@ Para la obtención de los niveles anteriores se admitirá la instalación de un 
 
 6. ALUMBRADO DE SEÑALES Y ANUNCIOS LUMINOSOS
 
+> Véase, con efectos desde el 10 de agosto de 2022 al 1 de noviembre de 2023, lo previsto en el art. 29.4 y disposición final 17.2.a) del Real Decreto-ley 14/2022, de 1 de agosto. Ref. BOE-A-2022-12925#a2-11, sobre alumbrado exterior.
+
 Es el correspondiente a señales, carteles, anuncios luminosos, anuncios iluminados, alumbrado de escaparates, mobiliario urbano y edículos como marquesinas, cabinas telefónicas, etc. Se excluyen de este tipo todas las señales y anuncios de tráfico.
 
 Los valores de referencia de niveles máximos de luminancia (cd/m2) para señales y anuncios luminosos e iluminados en función de la superficie (m2), son los determinados en la tabla 13.
@@ -501,3 +503,7 @@ Tabla 19. Clases de alumbrado de similar nivel de iluminación
 | --- | --- | --- | --- | --- | --- | --- |
 | C E O | C E 1 | C E 2 | C E 3 | C E 4 | C E 5 |  |
 |  |  |  | S 1 | S 2 | S 3 | S 4 |
+
+> Véase, sobre medidas temporales de alumbrado exterior lo previsto en el art. 29.4 del Real Decreto-ley 14/2022, de 1 de agosto. Ref. BOE-A-2022-12925#a2-11.
+
+> Téngase en cuenta que sus efectos se producen desde el 10 de agosto de 2022 al 1 de noviembre de 2023, según establece la disposición final 17.2.a).
