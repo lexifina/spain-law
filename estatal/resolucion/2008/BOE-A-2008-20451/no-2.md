@@ -1,0 +1,1 @@
+Téngase en cuenta la publicación del nuevo Acuerdo sobre criterios comunes de acreditación y calidad de los centros y servicios del Sistema para la Autonomía y Atención a la Dependencia, aprobado por Resolución de 28 de julio de 2022. Ref. BOE-A-2022-13580
