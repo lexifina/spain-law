@@ -568,6 +568,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 445](a445.md)
 - [Artículo 446](a446.md)
 - [Artículo 447](a447.md)
+- [Artículo 447 bis](a4-2.md)
 - [TÍTULO IV](tiv-2.md)
 - [CAPÍTULO I](ci-8.md)
 - [Artículo 448](a448.md)

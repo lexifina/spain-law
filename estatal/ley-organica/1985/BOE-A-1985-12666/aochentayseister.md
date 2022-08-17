@@ -1,34 +1,42 @@
 ## Artículo 86 ter.
 
-1. Los Juzgados de lo mercantil conocerán de cuantas cuestiones se susciten en materia concursal, en los términos previstos en su Ley reguladora y sin perjuicio de lo dispuesto en el artículo 85.6. En todo caso, la jurisdicción del juez del concurso será exclusiva y excluyente en las siguientes materias:
+1. Los Juzgados de lo Mercantil conocerán de cuantas cuestiones sean de la competencia del orden jurisdiccional civil en materia de concurso de acreedores, cualquiera que sea la condición civil o mercantil del deudor, de los planes de reestructuración y del procedimiento especial para microempresas, en los términos establecidos por el texto refundido de la Ley Concursal, aprobado por el Real Decreto legislativo 1/2020, de 5 de mayo.
 
-1.º Las acciones civiles con trascendencia patrimonial que se dirijan contra el patrimonio del concursado, con excepción de las que se ejerciten en los procesos sobre capacidad, filiación, matrimonio y menores a las que se refiere el título I del libro IV de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil. Con el mismo alcance conocerá de la acción a que se refiere el artículo 17.1 de la Ley 22/2003, de 9 de julio, Concursal.
+2. En todo caso, la jurisdicción del juez del concurso será exclusiva y excluyente en las siguientes materias:
 
-2.º Las acciones sociales que tengan por objeto la extinción, modificación o suspensión colectivas de los contratos de trabajo en los que sea empleador el concursado, así como la suspensión o extinción de contratos de alta dirección, sin perjuicio de que cuando estas medidas supongan modificar las condiciones establecidas en convenio colectivo aplicable a estos contratos se requerirá el acuerdo de los representantes de los trabajadores. En el enjuiciamiento de estas materias, y sin perjuicio de la aplicación de las normas específicas de la Ley Concursal, deberán tenerse en cuenta los principios inspiradores de la ordenación normativa estatutaria y del proceso laboral.
+1.ª Las acciones civiles con trascendencia patrimonial que se dirijan contra el concursado, con excepción de las que se ejerciten en los procesos civiles sobre capacidad, filiación, matrimonio y menores.
 
-3.º Toda ejecución frente a los bienes y derechos de contenido patrimonial del concursado, cualquiera que sea el órgano que la hubiera ordenado.
+2.ª Las ejecuciones relativas a créditos concursales o contra la masa sobre los bienes y derechos del concursado integrados o que se integren en la masa activa, cualquiera que sea el tribunal o la autoridad administrativa que la hubiera ordenado, sin más excepciones que las previstas en la legislación concursal.
 
-4.º Toda medida cautelar que afecte al patrimonio del concursado, excepto las que se adopten en los procesos civiles que quedan excluidos de su jurisdicción en el número 1.º y sin perjuicio de las medidas cautelares que puedan decretar los árbitros durante un procedimiento arbitral.
+3.ª La determinación del carácter necesario de un bien o derecho para la continuidad de la actividad profesional o empresarial del deudor.
 
-5.º Las que en el procedimiento concursal debe adoptar en relación con la asistencia jurídica gratuita.
+4.ª La declaración de la existencia de sucesión de empresa a efectos laborales y de seguridad social en los casos de transmisión de unidad o de unidades productivas y la determinación de los límites de esa declaración conforme a lo dispuesto en la legislación laboral y de seguridad social.
 
-6.º Las acciones tendentes a exigir responsabilidad civil a los administradores sociales, a los auditores o, en su caso, a los liquidadores, por los perjuicios causados al concursado durante el procedimiento.
+5.ª Las medidas cautelares que afecten o pudieran afectar a los bienes y derechos del concursado integrados o que se integren en la masa activa, cualquiera que sea el tribunal o la autoridad administrativa que la hubiera acordado, excepto las que se adopten en los procesos civiles sobre capacidad, filiación, matrimonio y menores.
 
-2. Los Juzgados de lo Mercantil conocerán, asimismo, de cuantas cuestiones sean de la competencia del orden jurisdiccional civil, respecto de:
+6.ª Las demás materias establecidas en la legislación concursal.
 
-a) Las demandas en las que se ejerciten acciones relativas a competencia desleal, propiedad industrial, propiedad intelectual y publicidad, así como todas aquellas cuestiones que dentro de este orden jurisdiccional se promuevan al amparo de la normativa reguladora de las sociedades mercantiles y cooperativas.
+3. Cuando el deudor sea persona natural, la jurisdicción del juez del concurso será también exclusiva y excluyente en las siguientes materias:
 
-b) Las pretensiones que se promuevan al amparo de la normativa en materia de transportes, nacional o internacional.
+1.ª Las que en el procedimiento concursal deba adoptar en relación con la asistencia jurídica gratuita.
 
-c) Aquellas pretensiones relativas a la aplicación del Derecho marítimo.
+2.ª La disolución y liquidación de la sociedad o comunidad conyugal del concursado.
 
-d) Las acciones colectivas previstas en la legislación relativa a condiciones generales de la contratación y a la protección de consumidores y usuarios.
+4. Cuando el deudor sea persona jurídica, la jurisdicción del juez del concurso será también exclusiva y excluyente en las siguientes materias:
 
-e) Los recursos contra las resoluciones de la Dirección General de los Registros y del Notariado en materia de recurso contra la calificación del Registrador Mercantil, con arreglo a lo dispuesto en la Ley Hipotecaria para este procedimiento.
+1.ª Las acciones de reclamación de deudas sociales que se ejerciten contra los socios de la sociedad concursada que sean subsidiariamente responsables del pago de esas deudas, cualquiera que sea la fecha en que se hubieran contraído, y las acciones para exigir a los socios de la sociedad concursada el desembolso de las aportaciones sociales diferidas o el cumplimiento de las prestaciones accesorias.
 
-f) De los procedimientos de aplicación de los artículos 81 y 82 del Tratado constitutivo de la Comunidad Europea y su Derecho derivado, así como los procedimientos de aplicación de los artículos que determine la Ley de Defensa de la Competencia.
+2.ª Las acciones de responsabilidad contra los administradores o liquidadores, de derecho o de hecho; contra la persona natural designada para el ejercicio permanente de las funciones propias del cargo de administrador persona jurídica y contra las personas, cualquiera que sea su denominación, que tengan atribuidas facultades de la más alta dirección de la sociedad cuando no exista delegación permanente de facultades del consejo de administración en uno o varios consejeros delegados o en una comisión ejecutiva, por los daños y perjuicios causados, antes o después de la declaración judicial de concurso, a la persona jurídica concursada.
 
-3. Los Juzgados de lo Mercantil tendrán competencia para el reconocimiento y ejecución de sentencias y demás resoluciones judiciales extranjeras, cuando éstas versen sobre materias de su competencia, a no ser que, con arreglo a lo acordado en los tratados y otras normas internacionales, corresponda su conocimiento a otro Juzgado o Tribunal.
+3.ª Las acciones de responsabilidad contra los auditores por los daños y perjuicios causados, antes o después de la declaración judicial de concurso, a la persona jurídica concursada.
+
+5. La jurisdicción del juez del concurso es exclusiva y excluyente para conocer de las acciones sociales que tengan por objeto la modificación sustancial de las condiciones de trabajo, el traslado, el despido, la suspensión de contratos y la reducción de jornada por causas económicas, técnicas, organizativas o de producción que, conforme a la legislación laboral y a lo establecido en la legislación concursal, tengan carácter colectivo, así como de las que versen sobre la suspensión o extinción de contratos de alta dirección.
+
+La suspensión de contratos y la reducción de jornada tendrán carácter colectivo cuando afecten al número de trabajadores establecido en la legislación laboral para la modificación sustancial de las condiciones de trabajo con este carácter.
+
+6. La jurisdicción del juez del concurso se extiende a todas las cuestiones prejudiciales civiles, sin más excepciones que las establecidas en la legislación concursal, las administrativas y las sociales directamente relacionadas con el concurso o cuya resolución sea necesaria para la adecuada tramitación del procedimiento concursal. La decisión sobre estas cuestiones no surtirá efecto fuera del concurso de acreedores en que se produzca.
+
+> Se modifica por el art. único.7 de la Ley Orgánica 7/2022, de 27 de julio. Ref. BOE-A-2022-12578#au
 
 > Se modifican los apartados 1 y 2 por el art. único.23 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 

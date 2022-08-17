@@ -18,29 +18,27 @@ Para el conocimiento de los recursos contra resoluciones de los Juzgados de Inst
 
 2. Las Audiencias Provinciales conocerán en el orden civil:
 
-1.º De los recursos que establezca la ley contra resoluciones dictadas en primera instancia por los Juzgados de Primera Instancia de la provincia.
+1.º De los recursos que establezca la ley contra las resoluciones dictadas en primera instancia por los Juzgados de Primera Instancia de la provincia.
 
-Para el conocimiento de los recursos contra resoluciones de los Juzgados de Primera Instancia que se sigan por los trámites del juicio verbal por razón de la cuantía, la Audiencia se constituirá con un solo Magistrado, mediante un turno de reparto.
+Para el conocimiento de los recursos contra resoluciones de los Juzgados de Primera Instancia que se sigan por los trámites del juicio verbal por razón de la cuantía, la Audiencia se constituirá con un solo magistrado, mediante un turno de reparto.
 
-2.º De los recursos que establezca la ley contra las resoluciones dictadas en primera instancia por los Juzgados de lo Mercantil, salvo las que se dicten en incidentes concursales que resuelvan cuestiones de materia laboral, debiendo especializarse a tal fin una o varias de sus Secciones, de conformidad con lo previsto en el artículo 98 de la presente Ley Orgánica. Estas Secciones especializadas conocerán también de los recursos que establezca la ley contra las resoluciones dictadas por los Juzgados de primera instancia en los procedimientos relativos a concursos de personas físicas y a acciones individuales relativas a condiciones generales de la contratación.
+2.º De los recursos que establezca la ley contra las resoluciones dictadas en primera instancia en materia civil por los Juzgados de Violencia sobre la Mujer de la provincia. A fin de facilitar el conocimiento de estos recursos, y atendiendo al número de asuntos existentes, podrán especializarse una o varias de sus Secciones de conformidad con lo previsto en el artículo 82 bis de la presente ley orgánica.
 
-3.º Asimismo, la Sección o Secciones de la Audiencia Provincial de Alicante que se especialicen al amparo de lo previsto en el párrafo anterior conocerán, además, en segunda instancia y de forma exclusiva, de todos aquellos recursos a los que se refiere el artículo 101 del Reglamento n.º 40/94, del Consejo de la Unión Europea, de 20 de diciembre de 1993, sobre la marca comunitaria, y el Reglamento 6/2002, del Consejo de la Unión Europea, de 12 de diciembre de 2001, sobre los dibujos y modelos comunitarios. En el ejercicio de esta competencia extenderán su jurisdicción a todo el territorio nacional, y a estos solos efectos se denominarán Tribunales de Marca Comunitaria.
+3.º De los recursos que establezca la ley contra las resoluciones dictadas en primera instancia por los Juzgados de lo Mercantil, salvo las que se dicten por estos juzgados en incidentes concursales en materia laboral. Asimismo, conocerán de los recursos contra aquellas resoluciones que agoten la vía administrativa dictadas en materia de propiedad industrial por la Oficina Española de Patentes y Marcas.
 
-4.º Las Audiencias Provinciales también conocerán de los recursos que establezca la ley contra las resoluciones dictadas en materia civil por los Juzgados de Violencia sobre la Mujer de la provincia. A fin de facilitar el conocimiento de estos recursos, y atendiendo al número de asuntos existentes, podrán especializarse una o varias de sus secciones de conformidad con lo previsto en el artículo 98 de la presente Ley Orgánica.
+> Téngase en cuenta que la modificación del apartado 2.3º, por el art. único.2 de la Ley Orgánica 7/2022, de 27 de julio. Ref. BOE-A-2022-12578, en relación con los recursos contra las resoluciones de la Oficina Española de Patentes y Marcas que pongan fin a la vía administrativa, entrará en vigor el día 14 de enero de 2023, según se establece en la disposición final 5 de la citada Ley Orgánica.
 
-3. Corresponde igualmente a las Audiencias Provinciales el conocimiento:
+3. Asimismo, la Sección o Secciones de la Audiencia Provincial de Alicante especializadas en materia mercantil conocerán, además, en segunda instancia y de forma exclusiva, de todos aquellos recursos a los que se refiere el artículo 133 del Reglamento (UE) 2017/1001 del Parlamento Europeo y del Consejo de 14 de junio de 2017 sobre la marca de la Unión Europea y el Reglamento (CE) n.º 6/2002, del Consejo, de 12 de diciembre de 2001, sobre los dibujos y modelos comunitarios. En el ejercicio de esta competencia extenderán su jurisdicción a todo el territorio nacional, y a estos solos efectos se denominarán Tribunales de Marca de la Unión Europea.
+
+4. Corresponde igualmente a las Audiencias Provinciales el conocimiento:
 
 1.º De las cuestiones de competencia en materia civil y penal que se susciten entre juzgados de la provincia que no tengan otro superior común.
 
 2.º De las recusaciones de sus Magistrados, cuando la competencia no esté atribuida a la Sala especial existente a estos efectos en los Tribunales Superiores de Justicia.
 
-> Téngase en cuenta que esta última actualización de los números 2 y 6 del apartado 1 establecida por la disposición final 1.4 de la Ley Orgánica 13/2015, de 5 de octubre Ref. BOE-A-2015-10725. entra en vigor el 6 de diciembre de 2015, según determina su disposición final 4.
+> Se modifican los apartados 2 a 4 por el art. único.2 de la Ley Orgánica 7/2022, de 27 de julio. Ref. BOE-A-2022-12578#au
 
-> Redacción anterior:
-
-> "2.º De los recursos que establezca la ley contra las resoluciones dictadas por los Juzgados de Instrucción y de lo Penal de la provincia.
-
-> Para el conocimiento de los recursos contra resoluciones de los Juzgados de Instrucción en juicio de faltas la audiencia se constituirá con un solo Magistrado, mediante un turno de reparto."
+> Téngase en cuenta que la modificación del apartado 2.3º, en relación con los recursos contra las resoluciones de la Oficina Española de Patentes y Marcas que pongan fin a la vía administrativa, entrará en vigor el día 14 de enero de 2023, según se establece en la disposición final 5 de la citada Ley Orgánica.
 
 > Se modifica el párrafo 2 del número 2 y se añade el número 6 al apartado 1 por la disposición final 1.4 de la Ley Orgánica 13/2015, de 5 de octubre. Ref. BOE-A-2015-10725.
 

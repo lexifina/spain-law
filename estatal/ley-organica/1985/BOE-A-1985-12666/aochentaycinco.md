@@ -12,7 +12,7 @@ Los Juzgados de Primera Instancia conocerán en el orden civil:
 
 5. De las solicitudes de reconocimiento y ejecución de sentencias y demás resoluciones judiciales extranjeras y de la ejecución de laudos o resoluciones arbitrales extranjeros, a no ser que, con arreglo a lo acordado en los tratados y otras normas internacionales, corresponda su conocimiento a otro Juzgado o Tribunal.
 
-6. De los concursos de persona natural que no sea empresario en los términos previstos en su Ley reguladora.
+> Se suprime el apartado 6 por el art. único.4 de la Ley Orgánica 7/2022, de 27 de julio. Ref. BOE-A-2022-12578#au
 
 > Se añade el apartado 6 por el art. único.22 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
