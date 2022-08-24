@@ -4,122 +4,118 @@
 
 1. Estado Mayor de la Defensa:
 
-a) Centro Superior de Estudios de la Defensa Nacional (altos estudios de la defensa nacional).
-
-b) Escuela Superior de las Fuerzas Armadas (altos estudios de la defensa nacional).
-
-c) Escuela Militar de Emergencias (Perfeccionamiento).
-
-La Escuela Superior de las Fuerzas Armadas impartirá los cursos de actualización para el desempeño de los cometidos de oficial general y para la obtención del diploma de estado mayor. La Escuela Superior de las Fuerzas Armadas y el Centro Superior de Estudios de la Defensa Nacional impartirán estudios conducentes a la obtención de los títulos de posgrado y específicos militares que se determinen.
+Centro Superior de Estudios de la Defensa Nacional (CESEDEN) (altos estudios de la defensa nacional), dentro del cual se integra la Escuela Superior de las Fuerzas Armadas (ESFAS) (altos estudios de la defensa nacional/perfeccionamiento).
 
 2. Ejército de Tierra:
 
-a) Academia General Militar (Formación/perfeccionamiento).
+a) Academia General Militar (AGM) (formación/perfeccionamiento).
 
-b) Academia de Infantería (Formación/perfeccionamiento).
+b) Academia de Infantería (ACINF) (formación/perfeccionamiento).
 
-c) Academia de Caballería (Formación/perfeccionamiento).
+c) Academia de Caballería (ACAB) (formación/perfeccionamiento).
 
-d) Academia de Artillería (Formación/perfeccionamiento).
+d) Academia de Artillería (ACART) (formación/perfeccionamiento).
 
-e) Academia de Ingenieros (Formación/perfeccionamiento).
+e) Academia de Ingenieros (ACING) (formación/perfeccionamiento).
 
-f) Academia de Logística (Formación/perfeccionamiento).
+f) Academia de Logística (ACLOG) (formación/perfeccionamiento).
 
-g) Escuela Superior Politécnica del Ejército de Tierra (Formación/perfeccionamiento).
+g) Escuela Superior Politécnica del Ejército de Tierra (ESPOL) (formación/perfeccionamiento).
 
-h) Centro de Enseñanza de Helicópteros (CEFAMET) (Formación/perfeccionamiento).(*)
+h) Academia de Aviación del Ejército de Tierra (ACAVIET) (formación/perfeccionamiento).
 
-i) Academia General Básica de Suboficiales (Formación/perfeccionamiento).
+i) Academia General Básica de Suboficiales (AGBS) (formación/perfeccionamiento).
 
-j) Centro de Formación de Tropa nº 1 (Formación/perfeccionamiento).
+j) Centro de Formación de Tropa n.º 1 (CEFOT 1) (formación/perfeccionamiento).
 
-k) Centro de Formación de Tropa nº 2 (Formación/perfeccionamiento).
+k) Centro de Formación de Tropa n.º 2 (CEFOT 2) (formación/perfeccionamiento).
 
-l) Escuela de Guerra del Ejército (Perfeccionamiento).
+l) Escuela de Guerra del Ejército (EGE) (perfeccionamiento).
 
-m) Escuela Militar de Montaña y Operaciones Especiales (Perfeccionamiento).
-
-(*) El Centro de Enseñanza de Helicópteros (CEFAMET) pasa a denominarse Academia de Aviación del Ejército de Tierra, por el art. único del Real Decreto 894/2017, de 6 de octubre, por el que se modifica la denominación del Centro de Enseñanza de Helicópteros y se modifica el Real Decreto 35/2010, de 15 de enero, por el que se aprueba el Reglamento de ingreso y promoción y de ordenación de la enseñanza de formación en las Fuerzas Armadas. Ref. BOE-A-2017-11983
+m) Escuela Militar de Montaña y Operaciones Especiales (EMMOE) (perfeccionamiento).
 
 3. Armada:
 
-a) Escuela Naval Militar (Formación).
+a) Escuela Naval Militar (ENM) (formación).
 
-b) Escuela Técnica Superior de Ingenieros de Armas Navales (ETSIAN) (Formación/perfeccionamiento).
+b) Escuela Técnica Superior de Ingenieros de Armas Navales (ETSIAN) (formación/perfeccionamiento).
 
-c) Escuela de Dotaciones Aeronavales «Capitán de Navío Cardona» (EDAN) (Formación/perfeccionamiento).
+c) Escuela de Dotaciones Aeronavales “Capitán de Navío Cardona” (EDAN) (formación/perfeccionamiento).
 
-d) Escuela de Suboficiales de la Armada (ESUBO) (Formación/perfeccionamiento).
+d) Escuela de Suboficiales de la Armada (ESUBO) (formación/perfeccionamiento).
 
-e) Escuela de Especialidades «Antonio de Escaño» (ESCAÑO) (Formación/perfeccionamiento).
+e) Escuela de Especialidades “Antonio de Escaño” (ESCAÑO) (formación/perfeccionamiento).
 
-f) Escuela de Infantería de Marina «General Albacete y Fuster» (EIMGAF) (Formación/perfeccionamiento).
+f) Escuela de Infantería de Marina “General Albacete y Fuster” (EIMGAF) (formación/perfeccionamiento).
 
-g) Escuela de Especialidades de la Estación Naval de la Graña (ESENGRA) (Formación/perfeccionamiento).
+g) Escuela de Especialidades de la Estación Naval de La Graña (ESENGRA) (formación/perfeccionamiento).
 
-h) Centro de Estudios Superiores de Intendencia de la Armada (CESIA) (Perfeccionamiento).
+h) Centro de Estudios Superiores de Intendencia de la Armada (CESIA) (perfeccionamiento).
 
-i) Escuela de Guerra Naval (EGUENA) (Perfeccionamiento).
+i) Escuela de Guerra Naval (EGUENA) (perfeccionamiento).
 
-j) Escuela de Estudios Superiores (INSOB) (Perfeccionamiento).
+j) Escuela de Estudios Superiores (INSOB) (perfeccionamiento).
 
-k) Escuela de Hidrografía «Alejandro Malaspina» (ESHIDRO) (Perfeccionamiento).
+k) Escuela de Hidrografía “Alejandro Malaspina” (ESHIDRO) (perfeccionamiento).
 
-l) Escuela de Submarinos «Almirante García de los Reyes» (ESUBMAR) (Perfeccionamiento).
+l) Escuela de Submarinos “Almirante García de los Reyes” (ESUBMAR) (perfeccionamiento).
 
-m) Escuela de Buceo de la Armada (EBA) (Perfeccionamiento).
+m) Escuela Militar de Buceo (EMB) (perfeccionamiento).
 
-n) Centro de Instrucción y Adiestramiento (CIA) (Perfeccionamiento).
+n) Centro de Instrucción y Adiestramiento (CIA) (perfeccionamiento).
 
-4. Ejército del Aire:
+4. Ejército del Aire y del Espacio:
 
-a) Academia General del Aire (Formación/perfeccionamiento).
+a) Academia General del Aire (AGA) (formación/perfeccionamiento).
 
-b) Ala 23 (Formación/perfeccionamiento).
+b) Escuela Militar de Caza y Ataque (Ala 23) (formación/perfeccionamiento).
 
-c) Grupo de escuelas de Matacán (Formación/perfeccionamiento).
+c) Grupo de Escuelas de Matacán (GRUEMA) (formación/perfeccionamiento).
 
-d) Ala 78 (Formación/perfeccionamiento).
+d) Escuela Militar de Helicópteros (Ala 78) (formación/perfeccionamiento).
 
-e) Escuela de Técnicas de Seguridad, Defensa y Apoyo (Formación/perfeccionamiento).
+e) Escuela de Técnicas de Seguridad, Defensa y Apoyo (ETESDA) (formación/perfeccionamiento).
 
-f) Escuela de Técnicas de Mando, Control y Telecomunicaciones (Formación/perfeccionamiento).
+f) Escuela de Técnicas de Mando, Control y Telecomunicaciones (EMACOT) (formación/perfeccionamiento).
 
-g) Escuela de Técnicas Aeronáuticas (Formación/perfeccionamiento).
+g) Escuela de Técnicas Aeronáuticas (ESTAER) (formación/perfeccionamiento).
 
-h) Escuela Militar de Paracaidismo «Méndez Parada» (Formación/perfeccionamiento).
+h) Escuela Militar de Paracaidismo “Méndez Parada” (EMPMP) (formación/perfeccionamiento).
 
-i) Academia Básica del Aire (Formación/perfeccionamiento).
+i) Academia Básica del Aire (ABA) (formación/perfeccionamiento).
 
-j) Escuadrón de Enseñanza de Automoción (Formación/perfeccionamiento).
+j) Escuadrón de Enseñanza de Automoción (EEAUTO) (formación/perfeccionamiento).
 
-k) Centro Cartográfico y Fotográfico del Ejército del Aire (Formación/perfeccionamiento).
+k) Centro Cartográfico y Fotográfico del Ejército del Aire (CECAF) (formación/perfeccionamiento).
 
-l) Centro de Guerra Aérea (Perfeccionamiento).
+l) Centro de Guerra Aérea (CEGA) (perfeccionamiento).
 
 5. Subsecretaría de Defensa:
 
-a) Academia Central de la Defensa (Formación/perfeccionamiento).
+a) Academia Central de la Defensa (ACD) (formación/perfeccionamiento).
 
-– Escuela Militar de Estudios Jurídicos (Formación/perfeccionamiento).
+– Escuela Militar de Estudios Jurídicos (EMEJ) (formación/perfeccionamiento).
 
-– Escuela Militar de Intervención (Formación/perfeccionamiento).
+– Escuela Militar de Intervención (EMI) (formación/perfeccionamiento).
 
-– Escuela Militar de Sanidad (Formación/perfeccionamiento).
+– Escuela Militar de Sanidad (EMISAN) (formación/perfeccionamiento).
 
-– Escuela de Músicas Militares (Formación/perfeccionamiento).
+– Escuela de Músicas Militares (EMUM) (formación/perfeccionamiento).
 
-– Escuela Militar de Idiomas (Perfeccionamiento).
+– Escuela Militar de Idiomas (EMID) (perfeccionamiento).
 
-– Escuela Militar de Ciencias de la Educación (Perfeccionamiento).
-
-b) Sección de Enseñanza Ecuestre (Perfeccionamiento).
+– Escuela Militar de Ciencias de la Educación (EMCE) (perfeccionamiento).
 
 La enseñanza de formación de los militares de complemento de los Cuerpos Comunes de las Fuerzas Armadas se impartirá en la Academia Central de la Defensa y en los centros docentes militares de formación de oficiales y suboficiales que corresponda.
 
+b) Sección de Enseñanza Ecuestre (SECENECU) (perfeccionamiento).
+
+c) Escuela Militar de Emergencias (EMES) (perfeccionamiento).
+
 6. Cuarto Militar de S. M. el Rey:
 
-a) Centro de Formación de la Guardia Real (Formación/perfeccionamiento).
+Centro de Formación de la Guardia Real (CEFORGR) (formación/perfeccionamiento).
+
+> Se modifica por el art. 1.21 de la Orden DEF/751/2022, de 28 de julio. Ref. BOE-A-2022-13108
 
 > Redactados los apartados 2.h), 5 y 6.a) conforme a la corrección de errores publicada en BOE núm. 50, de 28 de febrero de 2017. Ref. BOE-A-2017-2062.
