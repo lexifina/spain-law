@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Limitación de remuneraciones e indemnizaciones por razón del servicio.
+
+1. Los miembros pertenecientes a los órganos colegiados adscritos a la AESAN OA no percibirán remuneración alguna derivada de su condición de miembros de dichos órganos, ni por el ejercicio de las funciones inherentes a su pertenencia a los mismos.
+
+2. Con independencia del número de miembros que componen los órganos colegiados previstos en el Estatuto, en aplicación de lo establecido en la disposición adicional cuarta del Real Decreto 910/2012, de 8 de junio, por el que se aprueba el Reglamento del Consejo de Personal de las Fuerzas Armadas, los miembros que excedan de los límites previstos en el Real Decreto 451/2012, de 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades, y normas de desarrollo, no tendrán derecho a indemnización alguna, ni siquiera de gastos de viaje o dietas de los previstos en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio.
