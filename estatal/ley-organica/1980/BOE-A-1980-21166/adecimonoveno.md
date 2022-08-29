@@ -2,7 +2,7 @@
 
 Uno. La aplicación de los tributos y la potestad sancionadora respecto a sus propios tributos corresponderá a la Comunidad Autónoma, la cual dispondrá de plenas atribuciones para la ejecución y organización de dichas tareas, sin perjuicio de la colaboración que pueda establecerse con la Administración Tributaria del Estado, especialmente cuando así lo exija la naturaleza del tributo.
 
-Dos. En caso de tributos cedidos, cada Comunidad Autónoma podrá asumir, en los términos que establezca la Ley que regule la cesión de tributos, las siguientes competencias normativas:
+Dos. En caso de tributos cedidos, cada Comunidad Autónoma podrá asumir, en los términos que establezca la ley que regule la cesión de tributos, las siguientes competencias normativas:
 
 a) En el Impuesto sobre la Renta de las Personas Físicas, la fijación de la cuantía del mínimo personal y familiar y la regulación de la tarifa y deducciones de la cuota.
 
@@ -10,7 +10,7 @@ b) En el Impuesto sobre el Patrimonio, la determinación de mínimo exento y tar
 
 c) En el Impuesto sobre Sucesiones y Donaciones, reducciones de la base imponible, tarifa, la fijación de la cuantía y coeficientes del patrimonio preexistente, deducciones, bonificaciones, así como la regulación de la gestión.
 
-d) En el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, en la modalidad «Transmisiones Patrimoniales Onerosas», la regulación del tipo de gravamen en arrendamientos, en las concesiones administrativas, en la transmisión de bienes muebles e inmuebles y en la constitución y cesión de derechos reales que recaigan sobre los mismos, excepto los derechos reales de garantía; y en la modalidad «Actos Jurídicos Documentados», el tipo de gravamen de los documentos notariales. Asimismo, podrán regular deducciones de la cuota, bonificaciones, así como la regulación de la gestión del tributo.
+d) En el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, en la modalidad "Transmisiones Patrimoniales Onerosas", la regulación del tipo de gravamen en arrendamientos, en las concesiones administrativas, en la transmisión de bienes muebles e inmuebles y en la constitución y cesión de derechos reales que recaigan sobre los mismos, excepto los derechos reales de garantía; y en la modalidad "Actos Jurídicos Documentados", el tipo de gravamen de los documentos notariales. Asimismo, podrán regular deducciones de la cuota, bonificaciones, así como la regulación de la gestión del tributo.
 
 e) En los Tributos sobre el Juego, la determinación de exenciones, base imponible, tipos de gravamen, cuotas fijas, bonificaciones y devengo, así como la regulación de la aplicación de los tributos.
 
@@ -18,17 +18,47 @@ f) En el Impuesto Especial sobre Determinados Medios de Transporte, la regulaci�
 
 g) En el Impuesto sobre Hidrocarburos, la regulación del tipo impositivo autonómico.
 
-> Atención: la letra g) entra en vigor el 1-1-2013.
+h) En el Impuesto sobre el Depósito de Residuos en vertederos, la incineración y la coincineración de residuos, la regulación de los tipos impositivos y de la gestión del tributo.
 
 En el ejercicio de las competencias normativas a que se refiere el párrafo anterior, las Comunidades Autónomas observarán el principio de solidaridad entre todos los españoles, conforme a lo establecido al respecto en la Constitución; no adoptarán medidas que discriminen por razón del lugar de ubicación de los bienes, de procedencia de las rentas, de realización del gasto, de la prestación de los servicios o de celebración de los negocios, actos o hechos; y mantendrán una presión fiscal efectiva global equivalente a la del resto del territorio nacional.
 
-Asimismo, en caso de tributos cedidos, cada Comunidad Autónoma podrá asumir por delegación del Estado la aplicación de los tributos, la potestad sancionadora y la revisión, en su caso, de los mismos, sin perjuicio de la colaboración que pueda establecerse entre ambas Administraciones, todo ello de acuerdo con lo especificado en la Ley que fije el alcance y condiciones de la cesión.
+Asimismo, en caso de tributos cedidos, cada Comunidad Autónoma podrá asumir por delegación del Estado la aplicación de los tributos, la potestad sancionadora y la revisión, en su caso, de los mismos, sin perjuicio de la colaboración que pueda establecerse entre ambas Administraciones, todo ello de acuerdo con lo especificado en la ley que fije el alcance y condiciones de la cesión.
 
-Lo previsto en el párrafo anterior no será de aplicación en el Impuesto sobre la Renta de las Personas Físicas, en el Impuesto sobre el Valor Añadido, ni en los Impuestos Especiales de Fabricación. La aplicación de los tributos, potestad sancionadora y revisión de estos impuestos tendrá lugar según lo establecido en el apartado siguiente.
+Lo previsto en el párrafo anterior no será de aplicación en el Impuesto sobre la Renta de las Personas Físicas, en el Impuesto sobre el Valor Añadido ni en los Impuestos Especiales de Fabricación. La aplicación de los tributos, potestad sancionadora y revisión de estos impuestos tendrá lugar según lo establecido en el apartado siguiente.
 
 Las competencias que se atribuyan a las Comunidades Autónomas en relación con los tributos cedidos pasarán a ser ejercidas por el Estado cuando resulte necesario para dar cumplimiento a la normativa sobre armonización fiscal de la Unión Europea.
 
+> Tengase en cuenta que esta última actualización del apartado 2 por la disposición final 4.2 de la Ley Orgánica 9/2022, de 28 de julio. Ref. BOE-A-2022-12644#df-4, entrará en vigor el 29 de agosto de 2022, según se establece en su disposición final 11
+
+> Redacción anterior:
+
+> "Dos. En caso de tributos cedidos, cada Comunidad Autónoma podrá asumir, en los términos que establezca la Ley que regule la cesión de tributos, las siguientes competencias normativas:
+
+> a) En el Impuesto sobre la Renta de las Personas Físicas, la fijación de la cuantía del mínimo personal y familiar y la regulación de la tarifa y deducciones de la cuota.
+
+> b) En el Impuesto sobre el Patrimonio, la determinación de mínimo exento y tarifa, deducciones y bonificaciones.
+
+> c) En el Impuesto sobre Sucesiones y Donaciones, reducciones de la base imponible, tarifa, la fijación de la cuantía y coeficientes del patrimonio preexistente, deducciones, bonificaciones, así como la regulación de la gestión.
+
+> d) En el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, en la modalidad «Transmisiones Patrimoniales Onerosas», la regulación del tipo de gravamen en arrendamientos, en las concesiones administrativas, en la transmisión de bienes muebles e inmuebles y en la constitución y cesión de derechos reales que recaigan sobre los mismos, excepto los derechos reales de garantía; y en la modalidad «Actos Jurídicos Documentados», el tipo de gravamen de los documentos notariales. Asimismo, podrán regular deducciones de la cuota, bonificaciones, así como la regulación de la gestión del tributo.
+
+> e) En los Tributos sobre el Juego, la determinación de exenciones, base imponible, tipos de gravamen, cuotas fijas, bonificaciones y devengo, así como la regulación de la aplicación de los tributos.
+
+> f) En el Impuesto Especial sobre Determinados Medios de Transporte, la regulación de los tipos impositivos.
+
+> g) En el Impuesto sobre Hidrocarburos, la regulación del tipo impositivo autonómico.
+
+> En el ejercicio de las competencias normativas a que se refiere el párrafo anterior, las Comunidades Autónomas observarán el principio de solidaridad entre todos los españoles, conforme a lo establecido al respecto en la Constitución; no adoptarán medidas que discriminen por razón del lugar de ubicación de los bienes, de procedencia de las rentas, de realización del gasto, de la prestación de los servicios o de celebración de los negocios, actos o hechos; y mantendrán una presión fiscal efectiva global equivalente a la del resto del territorio nacional.
+
+> Asimismo, en caso de tributos cedidos, cada Comunidad Autónoma podrá asumir por delegación del Estado la aplicación de los tributos, la potestad sancionadora y la revisión, en su caso, de los mismos, sin perjuicio de la colaboración que pueda establecerse entre ambas Administraciones, todo ello de acuerdo con lo especificado en la Ley que fije el alcance y condiciones de la cesión.
+
+> Lo previsto en el párrafo anterior no será de aplicación en el Impuesto sobre la Renta de las Personas Físicas, en el Impuesto sobre el Valor Añadido, ni en los Impuestos Especiales de Fabricación. La aplicación de los tributos, potestad sancionadora y revisión de estos impuestos tendrá lugar según lo establecido en el apartado siguiente.
+
+> Las competencias que se atribuyan a las Comunidades Autónomas en relación con los tributos cedidos pasarán a ser ejercidas por el Estado cuando resulte necesario para dar cumplimiento a la normativa sobre armonización fiscal de la Unión Europea."
+
 Tres. La aplicación de los tributos, potestad sancionadora y revisión, en su caso, de los demás tributos del Estado recaudados en cada Comunidad Autónoma corresponderá a la Administración Tributaria del Estado, sin perjuicio de la delegación que aquélla pueda recibir de ésta y de la colaboración que pueda establecerse, especialmente cuando así lo exija la naturaleza del tributo.
+
+> Se modifica, con efectos de 29 de agosto de 2022, el apartado 2, por la disposición final 4.2 de la Ley Orgánica 9/2022, de 28 de julio. Ref. BOE-A-2022-12644#df-4
 
 > Se modifica la letra g) por la disposición final 4.4 de la Ley Orgánica 2/2012, de 27 de abril. Ref. BOE-A-2012-5730.
 
