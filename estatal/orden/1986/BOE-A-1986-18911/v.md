@@ -42,11 +42,15 @@ V.3 Inspecciones de campo.
 
 Todos los cultivos destinados a producir Semilla Base o Certificada serán objeto, por lo menos, de una inspección oficial, efectuada en el momento más adecuado para conocer la pureza varietal y verificar en campo el cumplimiento de los requisitos especificados en este Reglamento.
 
+En el caso de que, tras las inspecciones oficiales de campo, siguiera habiendo dudas sobre la identidad varietal de las semillas, la autoridad de certificación podrá utilizar, para el examen de dicha identidad, una técnica bioquímica o molecular reconocida internacionalmente y reproducible, de conformidad con las normas internacionales aplicables.
+
 V.4 Requisitos de las semillas.
 
-Las semillas de las categorías Base, Certificada y Standard han de cumplir los requisitos que figuran en el anejo II..
+Las semillas de las categorías Base, Certificada y Estándar han de cumplir los requisitos que figuran en el anejo II.
 
 V.5. Para las especies incluidas en este Reglamento será de aplicación lo dispuesto en los apartados 26a, 26b y 26c del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, referente a semillas no certificadas definitivamente, y sólo en los casos en que procedan de la multiplicación de semillas de categorías prebase o base.
+
+> Se añade un párrafo al final del apartado V.3 y se sustituye la palabra «standard» por «estándar» del V.4 según establece el art. 8.1 y 2 de la Orden APA/800/2022, de 5 de agosto. Ref. BOE-A-2022-13835
 
 > Se modifica el apartado V.2 por el art. 1.2 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#ap
 

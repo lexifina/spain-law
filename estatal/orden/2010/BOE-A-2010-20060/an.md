@@ -102,7 +102,7 @@ c) Que cumplan los requisitos correspondientes de los anejos 1 y 2 del presente 
 
 El organismo oficial responsable podrá restringir la certificación de semillas de avenas, cebada, arroz y trigos a las semillas certificadas de primera reproducción.
 
-3.8 Semillas certificadas de variedades híbridas de centeno: Sólo se declararán semillas certificadas las semillas de base para las que se hayan tenido en cuenta los resultados del control oficial a posteriori de muestras obtenidas oficialmente, efectuado durante el período vegetativo de los cultivos para la producción de semillas para las que se solicite la certificación, a la hora de determinar que dichas semillas de base se ajustan a los requisitos establecidos en el presente Reglamento en lo que respecta a la identidad y pureza de las características de sus componentes, incluida la esterilidad masculina.
+3.8 Semillas certificadas de variedades híbridas de centeno y de híbridos producidos mediante la técnica de la CMS de cebada, trigo blando, trigo duro y trigo espelta: Sólo se declararán semillas certificadas aquellas en las que se hayan tenido en cuenta los resultados del postcontrol oficial de muestras de semillas de base obtenidas oficialmente o bajo supervisión oficial, efectuado durante el período vegetativo de los cultivos para la producción de semillas para las que se solicite la certificación, a fin de determinar que dichas semillas de base se ajustan a los requisitos establecidos en el presente Reglamento en lo que respecta a la identidad y pureza de las características de sus componentes, incluida la androesterilidad.
 
 Cuando corresponda, las semillas certificadas se producirán en un cultivo mixto formado por un componente femenino sin actividad masculina y un componente masculino que restablezca la fertilidad masculina.
 
@@ -200,6 +200,10 @@ Iniciación de las operaciones de selección y preparado de semilla.
 
 4. Para las especies incluidas en este Reglamento será de aplicación lo dispuesto en los apartados 26.a, 26.b y 26.c del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, referente a semilla no certificada definitivamente, y sólo en los casos en que éstas procedan de la multiplicación de semillas de categorías, prebase, base y certificada de primera reproducción.
 
+f) Uso de técnicas bioquímicas o moleculares.
+
+En el caso de que, tras las inspecciones oficiales de campo indicadas en el presente apartado IV, siguiera habiendo dudas sobre la identidad varietal de las semillas, la autoridad de certificación podrá utilizar, para el examen de dicha identidad, una técnica bioquímica o molecular reconocida internacionalmente y reproducible, de conformidad con las normas internacionales aplicables.
+
 V. Requisitos de los lotes de semillas
 
 1. Lotes de semilla.–Los tamaños máximos de los lotes de semilla serán los indicados en el anejo número 3.
@@ -208,7 +212,7 @@ V. Requisitos de los lotes de semillas
 
 VI. Pruebas de precontrol y postcontrol
 
-Todo productor ha de sembrar en campo de precontrol una parcela con las muestras de cada uno de los lotes que haya certificado de semilla de base y de aquellos de semillas de prebase no destinados a uso propio. Asimismo, realizará pruebas de postcontrol, sembrándose, como mínimo, las muestras correspondientes a un 10 por 100 de los lotes de semilla certificada, elegidas al azar. En los casos especiales en que por el Instituto se considere conveniente, la citada proporción podrá aumentarse hasta el 20 por 100.
+Todo productor ha de sembrar en campo de precontrol una parcela con las muestras de cada uno de los lotes que haya certificado de semilla de base y de aquellos de semillas de prebase no destinados a uso propio. Asimismo, realizará pruebas de postcontrol, sembrándose, como mínimo, las muestras correspondientes a un 10 por 100 de los lotes de semilla certificada, elegidas al azar. En los casos especiales en que por los Servicios oficiales de control de la correspondiente comunidad autónoma o por la OEVV se considere conveniente, la citada proporción podrá aumentarse hasta el 20 por 100.
 
 El tamaño de las parcelas correspondientes a cada muestra no debe ser inferior a 8 metros cuadrados, para las semillas certificadas, y 12 metros cuadrados, para las de prebase y base.
 
@@ -216,33 +220,41 @@ En las parcelas de precontrol y postcontrol se señalarán, pero no arrancarán,
 
 VII. Productores de semillas
 
-a) Categorías de productores: Se admiten las categorías de:
+a) Categorías de productores:
 
-Productores-obtentores.
+Se admiten las categorías de productor:
 
-Productores-seleccionadores.
+– Productor mantenedor.
 
-Productores-multiplicadores.
+– Productor multiplicador.
 
-b) Capacidad de instalaciones: La capacidad de las instalaciones para ser productor-seleccionador o productor-multiplicador de una o todas las especies señaladas en este Reglamento ha de ser tal que, como mínimo, su capacidad de selección sea de 3 toneladas métricas/hora, excepto para una producción única de alpiste o arroz, en cuyo caso será de 1 tonelada métrica/hora. Estos mínimos en cuanto a capacidad serán necesarios para cada uno de los centros de selección.
+– Productor procesador.
 
-c) Clases de instalaciones: Las instalaciones han de comprender, como mínimo:
+b) Capacidad de instalaciones:
 
-Almacenamiento.
+La capacidad de las instalaciones para ser productor de una o todas las especies señaladas en este Reglamento ha de ser tal que, como mínimo, su capacidad de selección sea de 3 toneladas/hora, excepto para una producción única de alpiste o arroz, en cuyo caso será de 1 tonelada métrica/hora. Estos mínimos en cuanto a capacidad serán necesarios para cada uno de los centros de selección.
 
-Recepción.
+c) Clases de instalaciones:
 
-Limpieza y selección mecánica.
+Las instalaciones podrán ser propiedad del productor o estar a su disposición a través de un contrato de prestación de servicios; y han de comprender, como mínimo:
 
-Tratamiento.
+– Almacenamiento.
 
-Envasado.
+– Recepción.
 
-Laboratorio de análisis y ensayo de semillas.
+– Limpieza y selección mecánica.
+
+– Tratamiento.
+
+– Envasado.
+
+– Laboratorio de análisis y ensayo de semillas.
 
 Los servicios oficiales competentes decidirán si las características de las instalaciones anteriormente enumeradas son las adecuadas en cada caso, debiendo tener todas ellas la capacidad necesaria relacionada con los mínimos de selección del apartado anterior.
 
-d) Campos en cultivo directo: Los productores-seleccionadores y los productores-obtentores que produzcan semilla de base deberán disponer de campos de cultivo directo para la obtención de las generaciones G-1 y G-2, así como de la semilla de prebase de la generación inmediatamente anterior a base, en los casos en que los Servicios oficiales de control no autoricen su producción en fincas de agricultores-colaboradores. Todos los productores deberán disponer de superficie adecuada a los planes de producción de campos en cultivo directo para el establecimiento de los campos exigidos de precontrol y postcontrol.
+d) Campos en cultivo directo:
+
+Los productores mantenedores que produzcan semilla de base deberán disponer de campos de cultivo directo para la obtención de las generaciones PB-4 y PB-3, así como de la semilla de prebase de la generación inmediatamente anterior a base (PB-2), en los casos en que los Servicios oficiales de control no autoricen su producción en fincas de agricultores-colaboradores. Todos los productores deberán disponer de superficie adecuada a los planes de producción de campos en cultivo directo para el establecimiento de los campos exigidos de precontrol y postcontrol.
 
 VIII. Comercialización
 
@@ -269,6 +281,8 @@ Las condiciones especiales en que podrán comercializarse dichas mezclas se dete
 IX. Semillas importadas
 
 Las semillas que se importan de países terceros deberán corresponder a especies y categorías para las cuales haya sido reconocida la equivalencia de los procesos de producción y de los requisitos de las semillas a nivel de la Unión Europea.
+
+> Se modifican los apartados II, IV, VI, VII por el art. 2.1 a 4 de la Orden APA/800/2022, de 5 de agosto. Ref. BOE-A-2022-13835
 
 > Se modifica, con efectos del 1 de febrero de 2022, los apartados I y II por el art. 2 de la Orden APA/1437/2021, de 16 de diciembre de 2021. Ref. BOE-A-2021-21286
 

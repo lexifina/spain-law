@@ -36,9 +36,11 @@ Remolacha de mesa y acelga.
 
 2.7 Inspección de cultivos:
 
-Para la semilla de prebase y base se realizarán dos inspecciones oficiales en campo: Una en los Semilleros y otra en los cultivos portagranos.
+Para la semilla de prebase y base se realizarán dos inspecciones oficiales en campo: una en los semilleros y otra en los cultivos portagranos.
 
 Para la semilla certificada se realizará, al menos, una inspección oficial en el momento apropiado sobre los cultivos portagranos.
+
+En caso de que, tras las inspecciones oficiales de campo, siguiera habiendo dudas sobre la identidad varietal de las semillas, la autoridad de certificación podrá utilizar, para el examen de dicha identidad, una técnica bioquímica o molecular reconocida internacionalmente y reproducible, de conformidad con las normas internacionales aplicables.
 
 2.8 Eliminación de las parcelas: Será causa de eliminación total de las parcelas destinadas a la obtención de semilla de prebase, base y certificada la presencia de enfermedades transmisibles por semilla y la proximidad, a distancias inferiores a las señaladas en el anejo I de este Reglamento, de otras especies o variedades con las que puedan cruzarse, salvo el caso de que se disponga de métodos artificiales de aislamiento que, a juicio de los Servicios oficiales de control correspondientes, impidan la fecundación con polen extraño.
 
@@ -77,5 +79,7 @@ Siembras directas: Antes del 30 de octubre.
 Cultivos de portagranos: Antes del 31 de mayo.
 
 Cualquier modificación de las declaraciones de cultivo se comunicará en el plazo máximo de veinte días de haberse producido.
+
+> Se modifica el punto 2.7 por el art. 7.1 de la Orden APA/800/2022, de 5 de agosto. Ref. BOE-A-2022-13835
 
 > Redactado el apartado IV.5 conforme a la corrección de errores publicada en BOE núm. 103, de 30 de abril de 1987. Ref. BOE-A-1987-10438.

@@ -21,13 +21,19 @@ Segunda.–Cultivos anteriores: No pueden dedicarse para la producción de semil
 
 Las siembras de parcelas destinadas a la producción de semilla de prebase de la generación inmediatamente anterior a la base se realizarán en bandas de 3 metros de anchura, como máximo, y con pasillos que permitan el fácil acceso.
 
-Tercera.–Aislamientos: Los aislamientos se refieren a siembras de otro cereal de la misma especie. No se exige aislamiento alguno si el campo está rodeado por otro de la misma variedad, sembrado con semilla de la misma categoría o de la inmediata inferior a la utilizada en la parcela destinada a producción de semilla.
+Tercera. Aislamientos: Los aislamientos se refieren a siembras de otro cereal de la misma especie. No se exige aislamiento alguno si el campo está rodeado por otro de la misma variedad, sembrado con semilla de la misma categoría o de la inmediata inferior a la utilizada en la parcela destinada a producción de semilla, o si existe una protección suficiente contra toda fuente de polinización no deseable.
 
-En la producción de semillas de variedades híbridas de cebada obtenidas utilizando la esterilidad masculina citoplasmática, el cultivo deberá ajustarse a los siguientes requisitos referentes a las distancias respecto a las fuentes de polen vecinas, las cuales pueden dar lugar a polinizaciones no deseadas:
+En la producción de semillas de variedades híbridas de cebada obtenidas utilizando la androesterilidad citoplasmática (CMS), el cultivo deberá ajustarse a los siguientes requisitos referentes a las distancias respecto a las fuentes de polen vecinas, las cuales pueden dar lugar a polinizaciones no deseadas:
 
-Para la producción de semillas de base, 100 metros.
+– Para la producción de semillas de base, 100 metros.
 
-Para la producción de semillas certificadas, 50 metros.
+– Para la producción de semillas certificadas, 50 metros.
+
+En la producción de semillas de variedades híbridas de trigo blando, trigo duro y trigo espelta obtenidas utilizando la androesterilidad citoplasmática (CMS), el cultivo deberá ajustarse a los siguientes requisitos referentes a las distancias respecto a las fuentes de polen vecinas, las cuales pueden dar lugar a polinizaciones no deseadas:
+
+– Para la producción de semillas de base, 300 metros.
+
+– Para la producción de semillas certificadas, 25 metros.
 
 En la producción de semilla de alpiste y centeno, excepto sus híbridos, la distancia mínima en metros será de 300 para las semillas de base y generaciones anteriores, y de 250 para la certificada.
 
@@ -35,13 +41,13 @@ Para la producción de semilla de variedades autógamas de triticale, la distanc
 
 En la producción de semillas de variedades híbridas de centeno el cultivo deberá ajustarse a los siguientes requisitos referentes a las distancias respecto a las fuentes de polen vecinas, las cuales pueden dar lugar a polinizaciones no deseadas:
 
-Para la producción de semillas de base, si se utiliza la esterilidad masculina, 1.000 metros; si no se utiliza la esterilidad masculina, 600 metros.
+– Para la producción de semillas de base, si se utiliza la androesterilidad, 1.000 metros; si no se utiliza la androesterilidad, 600 metros.
 
-Para la producción de semillas certificadas, 500 metros.
+– Para la producción de semillas certificadas, 500 metros.
 
-En los cultivos para producir semillas certificadas de híbridos de avenas, cebada, arroz, trigo blando, trigo duro, trigo espelta menor y triticale autógamo:
+En los cultivos para producir semillas certificadas de híbridos de avenas, cebada, arroz, trigo blando, trigo duro, trigo espelta y triticale autógamo mediante una técnica distinta de la androesterilidad citoplasmática (CMS):
 
-a) El cultivo deberá ajustarse a los requisitos siguientes referentes a las distancias respecto a las fuentes de polen vecinas, las cuales pueden dar lugar a polinizaciones no deseadas: el componente femenino deberá situarse a una distancia mínima de 25 metros de cualquier otra variedad de la misma especie, excepto de un cultivo de componente masculino; esta distancia podrá no respetarse si existe una protección suficiente contra las fuentes de polinización no deseadas.
+a) El cultivo deberá ajustarse a los requisitos siguientes referentes a las distancias respecto a las fuentes de polen vecinas, las cuales pueden dar lugar a polinizaciones no deseadas: el componente femenino deberá situarse a una distancia mínima de 25 metros de cualquier otra variedad de la misma especie, excepto de un cultivo de componente masculino. Esta distancia podrá no respetarse si existe una protección suficiente contra las fuentes de polinización no deseadas.
 
 b) El cultivo poseerá suficiente identidad y pureza en lo que concierne a las características de sus componentes.
 
@@ -49,49 +55,65 @@ Cuando las semillas se produzcan mediante el uso de un agente de hibridación qu
 
 1. La pureza varietal mínima de cada componente será de:
 
-Avena, cebada, arroz, trigo blando, trigo duro y trigo espelta menor: 99,7 por 100.
+– Avena, cebada, arroz, trigo blando, trigo duro y trigo espelta: 99,7 por 100.
 
-Triticale autógamo: 99,0 por 100.
+– Triticale autógamo: 99,0 por 100.
 
 2. La hibridación mínima deberá ser del 95 por 100. El porcentaje de hibridación se evaluará de conformidad con los métodos internacionales vigentes, cuando existan. En los casos en que se determine la hibridación durante los análisis de las semillas previos a la certificación, no será necesario proceder a la determinación del porcentaje de hibridación durante las inspecciones de campo.
 
-Cuarta.–Plantas de otras variedades: En las parcelas de producción de semilla de arroz el número de plantas reconocibles como manifiestamente silvestres o de grano rojo no excederá de:
+Cuarta. Plantas de otras variedades: En las parcelas de producción de semilla de arroz el número de plantas reconocibles como manifiestamente silvestres o de grano rojo no excederá de:
 
-0 para la producción de semillas de base.
+– 0 para la producción de semillas de base.
 
-1 por cada 100 m² para la producción de semillas certificadas de primera y segunda generación.
+– 1 por cada 100 m2 para la producción de semillas certificadas de primera y segunda generación.
 
 En la producción de semillas de alpiste y centeno, excepto sus híbridos, el número máximo de plantas de otras variedades será de 1 por 30 metros cuadrados para la semilla de base y generaciones anteriores, y 1 por 10 metros cuadrados para la semilla certificada.
 
 No se tendrán en cuenta las variaciones típicas de la variedad comercial.
 
-Para la determinación de las proporciones de plantas de otras variedades y de las correspondientes a los apartados siguientes se efectuaran conteos al azar, siguiendo métodos adecuados para ello.
+Para la determinación de las proporciones de plantas de otras variedades y de las correspondientes a los apartados siguientes se efectuarán conteos al azar, siguiendo métodos adecuados para ello.
 
-En la producción de semillas de variedades híbridas de centeno el cultivo poseerá un grado suficiente de identidad y pureza en lo que concierne a las características de sus componentes, incluida la esterilidad masculina.
+En la producción de semillas de variedades híbridas de centeno el cultivo poseerá un grado suficiente de identidad y pureza en lo que concierne a las características de sus componentes, incluida la androesterilidad.
 
 El cultivo deberá reunir, además, los siguientes requisitos y condiciones:
 
 1. El número de plantas de la especie cultivada que, según pueda apreciarse, no reúna las condiciones exigibles a los componentes no será superior a:
 
-Uno por cada 30 metros cuadrados dedicados a la producción de semilla de base.
+– Uno por cada 30 metros cuadrados dedicados a la producción de semilla de base.
 
-Uno por cada 10 metros cuadrados dedicados a la producción de semilla certificada; en las inspecciones de campo oficiales, esta norma sólo se aplicará a los componentes femeninos.
+– Uno por cada 10 metros cuadrados dedicados a la producción de semilla certificada; en las inspecciones de campo oficiales, esta norma sólo se aplicará a los componentes femeninos.
 
-2. En lo que respecta a las semillas de base, si se utiliza la esterilidad masculina, el índice de esterilidad de componente sin actividad masculina será del 98 por 100 como mínimo.
+2. En lo que respecta a las semillas de base, si se utiliza la androesterilidad, el índice de esterilidad de componente sin actividad masculina será del 98 por 100 como mínimo.
 
-En la producción de semillas de variedades híbridas de cebada empleando el método de esterilidad masculina citoplasmática (CMS), el cultivo poseerá un grado suficiente de identidad y pureza en lo que concierne a las características de sus componentes, y además cumplirá los siguientes requisitos que serán examinados en una prueba oficial de post-control:
+En la producción de semillas de variedades híbridas de cebada empleando el método de androesterilidad citoplasmática (CMS), el cultivo poseerá un grado suficiente de identidad y pureza en lo que concierne a las características de sus componentes, y además cumplirá los siguientes requisitos que serán examinados en una prueba oficial de post-control:
+
+a) El número de plantas de la especie cultivada que, según pueda apreciarse, no reúna las condiciones exigibles a los componentes no será superior a:
+
+– En los cultivos utilizados para producir semillas de base, del 0,1 % para la línea mantenedora y la línea restauradora y del 0,2 % para el componente femenino de la CMS;
+
+– En los cultivos utilizados para producir semillas certificadas, del 0,3 % para la línea restauradora y el componente femenino de la CMS y del 0,5 % en caso de que el componente femenino de la CMS sea un híbrido único.
+
+b) El índice de androesterilidad del componente femenino será como mínimo:
+
+– Del 99,7 % para la producción de semillas de base.
+
+– Del 99,5 % para la producción de semillas certificadas.
+
+c) Las semillas certificadas podrán producirse en un cultivo mixto de un componente femenino androestéril con un componente masculino que restaure la fertilidad.
+
+En la producción de semillas de variedades híbridas de trigo blando, trigo duro y trigo espelta empleando el método de androesterilidad citoplasmática (CMS), el cultivo poseerá un grado suficiente de identidad y pureza en lo que concierne a las características de sus componentes, y además cumplirá los siguientes requisitos que serán examinados en una prueba oficial de post-control:
 
 1. El número de plantas de la especie cultivada que, según pueda apreciarse, no reúna las condiciones exigibles a los componentes no será superior a:
 
-En los cultivos utilizados para producir semillas de base, del 0,1 % para la línea mantenedora y la línea restauradora y del 0,2 % para el componente femenino de la CMS;
+– En los cultivos utilizados para producir semillas de base, del 0,1 % para la línea mantenedora y la línea restauradora y del 0,3 % para el componente femenino de la CMS;
 
-En los cultivos utilizados para producir semillas certificadas, del 0,3 % para la línea restauradora y el componente femenino de la CMS y del 0,5 % en caso de que el componente femenino de la CMS sea un híbrido único.
+– En los cultivos utilizados para producir semillas certificadas, del 0,3 % para la línea restauradora y del 0,6% para el componente femenino de la CMS, y del 1 % en caso de que el componente femenino de la CMS sea un híbrido único.
 
-2. El índice de esterilidad masculina del componente femenino será:
+2. El índice de androesterilidad del componente femenino será como mínimo:
 
-Para la producción de semillas de base, del 99,7 % como mínimo.
+– Del 99,7 % para la producción de semillas de base.
 
-Para la producción de semillas certificadas, del 99,5 % como mínimo.
+– Del 99 % para la producción de semillas certificadas.
 
 3. Las semillas certificadas podrán producirse en un cultivo mixto de un componente femenino androestéril con un componente masculino que restaure la fertilidad.
 
@@ -117,6 +139,8 @@ La presencia de plagas reguladas no cuarentenarias en los cultivos cumplirá los
 | Gibberella fujikuroi Sawada [GIBBFU]. | Oryza sativa L. | No más de dos plantas sintomáticas por 200 m2 detectadas durante inspecciones sobre el terreno efectuadas en momentos adecuados en una muestra representativa de las plantas de cada cultivo. | No más de dos plantas sintomáticas por 200 m2 detectadas durante inspecciones sobre el terreno efectuadas en momentos adecuados en una muestra representativa de las plantas de cada cultivo. | Semillas certificadas de la primera generación (C1): No más de cuatro plantas sintomáticas por 200 m2 detectadas durante inspecciones sobre el terreno efectuadas en momentos adecuados en una muestra representativa de las plantas de cada cultivo. Semillas certificadas de la segunda generación (C2): No más de ocho plantas sintomáticas por 200 m2 detectadas durante inspecciones sobre el terreno efectuadas en momentos adecuados en una muestra representativa de las plantas de cada cultivo. |
 | Nematodos |
 | Aphelenchoides besseyi Christie [APLOBE]. | Oryza sativa L. | 0 % | 0 % | 0 %» |
+
+> Se modifica las observaciones tercera y cuarta por el art. 2.5 y 6 de la Orden APA/800/2022, de 5 de agosto. Ref. BOE-A-2022-13835
 
 > Se modifica, con efectos de 1 de febrero de 2022, la observación tercera por el art. 2.2 de la Orden APA/1437/2021, de 16 de diciembre de 2021. Ref. BOE-A-2021-21286
 

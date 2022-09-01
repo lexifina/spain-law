@@ -24,17 +24,19 @@ Sólo podrán ser objeto de precintado oficial los lotes de semillas de categor�
 
 En el anejo V se indica, por especies, el tamaño de la muestra a tomar oficialmente en el momento del precintado de cada lote y su periodo mínimo de conservación; dichas muestras se tomarán por duplicado quedando una en poder del Productor y retirándose la otra por el Inspector del Servicio Oficial de Control responsable del precintado.
 
-VII.4 Requisitos especiales para semilla standard.
+VII.4 Requisitos especiales para semilla estándar.
 
 El precintado y la toma de muestras correspondiente en esta categoría será responsabilidad del Productor, siguiendo la normativa de este Reglamento.
 
-VII.4.1 Control de precintados de semilla standard.
+VII.4.1 Control de precintados de semilla estándar.
 
 La reseña detallada de todos los lotes que se precinten en un determinado almacén autorizado se relacionarán en impresos, cuyo modelo figura en el anejo VI, debiendo enviarse por el Productor aI Servicio Oficial de Control correspondiente los impresos que se hayan cumplimentado al finalizar cada trimestre del año, quedándose el Productor con una copia durante un período mínimo de cuatro años.
 
-Los Productores de semilla standard antes de proceder a la comercialización de un lote determinado de semillas deberán tomar por duplicado una muestra con el peso mínimo indicado para cada especie en el anejo V, las cuales serán debidamente conservadas por los mismos, por un período de tiempo, al menos, igual al señalado en dicho anejo. Estas muestras estarán a disposición de los Servicios Oficiales de Control para la realización de las pruebas de postcontrol que se estimen necesarias.
+Los Productores de semilla estándar antes de proceder a la comercialización de un lote determinado de semillas deberán tomar por duplicado una muestra con el peso mínimo indicado para cada especie en el anejo V, las cuales serán debidamente conservadas por los mismos, por un período de tiempo, al menos, igual al señalado en dicho anejo. Estas muestras estarán a disposición de los Servicios Oficiales de Control para la realización de las pruebas de postcontrol que se estimen necesarias.
 
 El rigor del muestreo, efectuado por el Productor, será verificado mediante comprobaciones aleatorias realizadas por los Servicios Oficiales de Control.
+
+> Se sustituye la palabra «standard» por «estándar» de los apartados 4 y 4.1 según establece el art. 8.1 de la Orden APA/800/2022, de 5 de agosto. Ref. BOE-A-2022-13835
 
 > Se modifica el apartado 1 por el art. único.1 de la Orden ARM/3187/2010, de 3 de diciembre. Ref. BOE-A-2010-19102.
 
