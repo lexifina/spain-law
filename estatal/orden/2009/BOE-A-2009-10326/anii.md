@@ -48,7 +48,7 @@
 | 581 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
 | 582 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 | 583 | Obligación trimestral de presentación: desde el día 1 hasta el 15 de los meses de mayo, septiembre, noviembre y febrero. Obligación anual de presentación: desde el día 1 hasta el 25 del mes de noviembre. |
-| 587 | Desde el día 1 al 15 de los meses de mayo, septiembre y enero. |
+| 587 | El plazo será desde el día 1 hasta el día 20 del mes siguiente a aquel en que finaliza el período de liquidación correspondiente al trimestre natural. En caso de domiciliación bancaria del pago, el plazo será desde el día 1 hasta el día 15 del mes siguiente a aquel en que finaliza el periodo de liquidación. |
 | 588 | Desde el día 1 hasta el 25 del mes de noviembre. |
 | 589 | Obligación semestral de presentación: desde el día 1 hasta el 15 del mes de octubre. Obligación anual de presentación: desde el día 1 hasta el 15 del mes de abril. |
 | 595 | Desde el día 1 al 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
@@ -57,6 +57,8 @@
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Solo cuando el periodo impositivo finalice el día 31 de diciembre.
+
+> Se modifica el plazo del modelo 587 por la disposición final 3 de la Orden HFP/826/2022, de 30 de agosto. Ref. BOE-A-2022-14275#df-3
 
 > Se añade el modelo 490 y el plazo correspondiente, por la disposición final 2.2 de la Orden HAC/590/2021, de 9 de junio. Ref. BOE-A-2021-9721#df-2
 

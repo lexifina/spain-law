@@ -53,6 +53,10 @@
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
 
+> Se añade el modelo 587 por la disposición final 3 de la Orden HFP/826/2022, de 30 de agosto. Ref. BOE-A-2022-14275#df-3
+
+> Este modelo ya fue añadido por la Orden HAP/685/2014, de 29 de abril.
+
 > Se añade el modelo 490 por la disposición final 2.1 de la Orden HAC/590/2021, de 9 de junio. Ref. BOE-A-2021-9721#df-2
 
 > Esta modificación será de aplicación a las autoliquidaciones que se presenten a partir del 16 de enero de 2021, fecha de entrada en vigor de la Ley 4/2020, de 15 de octubre, del Impuesto sobre Determinados Servicios Digitales, según establece la disposición final 4 de la citada orden.
