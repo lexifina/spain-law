@@ -1,0 +1,1 @@
+Téngase en cuenta la Resolución de 8 de septiembre de 2022, de la Secretaría General de Transportes y Movilidad, por la que se aprueba la actualización de la parte pública del Programa Nacional de Seguridad para la Aviación Civil. Ref. BOE-A-2022-17581
