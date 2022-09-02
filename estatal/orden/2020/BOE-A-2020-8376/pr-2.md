@@ -36,6 +36,8 @@ Para los precios en la ruta entre Gran Canaria y La Gomera, cuando el vuelo se r
 
 m) Entre Tenerife Norte y La Gomera, la frecuencia mínima será de dos (2) idas y vueltas diarias. Los operadores podrán ajustar la capacidad a las condiciones existentes de la demanda.
 
+> Téngase en cuenta que, a partir del 2 de septiembre de 2022, se dejan sin eficacia las modificaciones temporales establecidas en el punto 3 de este apartado, con la excepción de lo establecido para la ruta La Palma-Lanzarote, que se mantendrá sin exigencia de servicios mínimos, según establece el apartado primero de la Orden TMA/830/2022, de 22 de agosto, aplicándose desde esa fecha las condiciones específicas que establece el citado apartado. Ref. BOE-A-2022-14337#pr-2
+
 4. En lo que respecta a las tarifas contempladas en el epígrafe III, apartado 2, tarifas, subapartado 1.1, la tarifa de referencia queda establecida para cada una de las rutas, en los trayectos de ida, en los importes siguientes:
 
 a) Gran Canaria-Tenerife Norte: 69 euros.
@@ -63,3 +65,7 @@ k) La Palma-Lanzarote: 112 euros.
 l) Gran Canaria-La Gomera: 106 euros.
 
 m) Tenerife Norte-La Gomera: 78 euros.
+
+> Téngase en cuenta que, a partir del 2 de septiembre de 2022, las tarifas de referencia quedan establecidas en los importes indicados en el punto 2 del apartado segundo de la Orden TMA/830/2022, de 22 de agosto. Ref. BOE-A-2022-14337#se
+
+> Se dejan sin efecto, desde el 2 de septiembre de 2022, las modificaciones temporales establecidas en el punto 3, con la excepción de lo establecido en la ruta La Palma-Lanzarote, y se modifican las tarifas de referencia del punto 4, aplicándose desde esa fecha los apartados primero y segundo de la Orden TMA/830/2022, de 22 de agosto. Ref. BOE-A-2022-14337#pr-2
