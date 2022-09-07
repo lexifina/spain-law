@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Plurianualidad del marco presupuestario de los presupuestos de los agentes públicos del Sistema Español de Ciencia, Tecnología e Innovación.
+
+La elaboración de los Presupuestos de los agentes públicos del Sistema Español de Ciencia, Tecnología e Innovación se encuadrará en un marco presupuestario a medio plazo, compatible con el principio de anualidad por el que se rigen la aprobación y ejecución de los Presupuestos, con el objetivo de que la financiación pública en I+D, de conformidad con la normativa europea, aumente regularmente de forma que alcance el 1,25 % del PIB en 2030.
