@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Aplicación del régimen de derechos y deberes de las Fuerzas Armadas en las quejas.
+
+De conformidad con la disposición adicional primera de la Ley Orgánica 11/2007, de 22 de octubre, los miembros de Guardia Civil que pasen a depender del Ministerio de Defensa o queden integrados en Unidades militares se regirán, en todo lo referente a las quejas recogidas en este real decreto, por lo dispuesto en la normativa por la que se regula el procedimiento para la tramitación de las iniciativas y quejas relativas al régimen de personal y a las condiciones de vida que pueda plantear el militar.
