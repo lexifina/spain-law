@@ -1,15 +1,5 @@
 ## ANEXO I
 
-Información contenida en el Formulario de Control Sanitario:
+## (Sin efecto)
 
-– Información relativa al viaje.
-
-– Información de identificación personal.
-
-– Información de localización y contacto del pasajero.
-
-– Datos epidemiológicos de interés.
-
-– Información del certificado de vacunación, prueba diagnóstica o certificado de recuperación de COVID-19.
-
-– Declaración responsable.
+> Se deja sin efecto por el apartado primero de la Resolución de 15 de septiembre de 2022. Ref. BOE-A-2022-15206
