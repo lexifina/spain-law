@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Inclusión en los planes de inversión de los distribuidores de activos e infraestructuras con cargo a los fondos del Plan de Recuperación, Transformación y Resiliencia.
+
+Con carácter excepcional, el plazo previsto en la disposición transitoria única del Real Decreto 1125/2021, de 21 de diciembre, para la presentación de las adendas a los planes de inversión de 2021 y 2022, así como la fecha prevista en la disposición adicional cuarta del Real Decreto-ley 6/2022, de 29 de marzo, por el que se adoptan medidas urgentes en el marco del Plan Nacional de respuesta a las consecuencias económicas y sociales de la guerra en Ucrania, para presentación de los planes de inversión de 2023, se extiende hasta el 30 de septiembre de 2022.
