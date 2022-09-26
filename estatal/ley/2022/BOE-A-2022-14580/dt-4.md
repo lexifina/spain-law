@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Régimen transitorio de la inscripción de las resoluciones judiciales de concesión de exoneración del pasivo insatisfecho.
+
+Mientras no se haya aprobado el Real Decreto sobre estadística concursal al que se refiere la disposición final decimosexta de esta ley, el letrado de la Administración de Justicia remitirá al Registro público concursal las resoluciones judiciales que concedan la exoneración provisional con plan de pagos y aquellas que concedan la exoneración tras la liquidación de la masa activa. En ambos casos se precisará si la persona exonerada es o no empresaria.

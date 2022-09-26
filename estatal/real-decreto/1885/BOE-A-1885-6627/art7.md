@@ -1,3 +1,5 @@
 ## Art. 7.
 
-Se presumirá otorgado el consentimiento a que se refiere el artículo anterior cuando se ejerza el comercio con conocimiento y sin oposición expresa del cónyuge que deba prestarlo.
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Ley 16/2022, de 5 de septiembre. Ref. BOE-A-2022-14580#dd

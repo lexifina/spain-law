@@ -1,3 +1,5 @@
 ## Art. 10.
 
-El cónyuge del comerciante podrá revocar libremente el consentimiento expreso o presunto a que se refieren los artículos anteriores.
+(Derogado)
+
+> Se deroga por la disposición derogatoria de la Ley 16/2022, de 5 de septiembre. Ref. BOE-A-2022-14580#dd
