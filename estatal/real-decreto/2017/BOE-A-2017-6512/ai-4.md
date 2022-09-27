@@ -23,8 +23,13 @@
 | (d) | O4(a) (más de 10 toneladas). | ☐ |
 | (e) | M2(a) (> 9 plazas(b), hasta 5 toneladas). | ☐ |
 | (f) | M3(a) (> 9 plazas(b), más de 5 toneladas). | ☐ |
-| (g) | T5 | ☐ |
-| (h) | Otras categorías de vehículos (especifíquese) | ☐ |
+| (g) | T1b. | ☐ |
+| (h) | T2b. | ☐ |
+| (i) | T3b. | ☐ |
+| (j) | T4.1b. | ☐ |
+| (k) | T4.2b. | ☐ |
+| (l) | T4.3b. | ☐ |
+| (m) | Otras categorías de vehículos (especifíquense). | ☐ |
 
 7. Lectura del cuentakilómetros en el momento de la inspección.
 
@@ -286,3 +291,7 @@ f) Métodos para inspeccionar y evaluar las deficiencias con arreglo a los anexo
 | 9.11.1 | Puertas, rampas y elevadores. |
 | 9.11.2 | Sistema de retención de silla de ruedas. |
 | 9.11.3 | Señalización y equipos especiales. |
+
+> Se modifica el punto 6 por el art. único.2 del Real Decreto 766/2022, de 20 de septiembre. Ref. BOE-A-2022-15359
+
+> Véase la disposición adicional única del citado Real Decreto para los vehículos que estuviesen incluidos en la categoría T o T5.
