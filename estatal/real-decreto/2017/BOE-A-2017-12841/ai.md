@@ -524,6 +524,20 @@ Que un método de inspección se considere visual significa que, además de visu
 | e) El indicador de anomalías del ESC indica algún fallo del sistema. |  | X |  |
 | f) El sistema indica una anomalía a través de la interfaz electrónica del vehículo. |  | X |  |
 | g) Señal óptica de aviso de fallo no funciona. |  | X |  |
+| 7.13 «eCall» (si está instalado, de conformidad con la legislación de homologación de tipo de la UE). |
+| 7.13.1 Instalación y configuración. | Inspección visual complementada, cuando las características técnicas del vehículo lo permitan y cuando se disponga de los datos necesarios, mediante el uso de una interfaz electrónica. | a) Sistema o algún componente ausente. |  | X |  |
+| b) Versión del software incorrecta. | X |  |  |
+| c) Codificación del sistema incorrecta. | X |  |  |
+| 7.13.2 Condición. | Inspección visual complementada, cuando las características técnicas del vehículo lo permitan y cuando se disponga de los datos necesarios, mediante el uso de una interfaz electrónica. | a) Sistema o componentes dañados. | X |  |  |
+| b) El indicador de anomalías (MIL) de «eCall» indica cualquier tipo de anomalía del sistema. | X |  |  |
+| c) Anomalía de la unidad de control electrónico «eCall». | X |  |  |
+| d) Anomalía del dispositivo de comunicación de la red móvil. | X |  |  |
+| e) Anomalía de la señal del GPS. | X |  |  |
+| f) Componentes de audio no conectados. | X |  |  |
+| g) Fuente de alimentación no conectada o carga insuficiente. | X |  |  |
+| h) El sistema indica una anomalía a través de la interfaz electrónica del vehículo. | X |  |  |
+| 7.13.3 Rendimiento. | Inspección visual complementada, cuando las características técnicas del vehículo lo permitan y cuando se disponga de los datos necesarios, mediante el uso de una interfaz electrónica. | a) Conjunto mínimo de datos incorrecto. | X |  |  |
+| b) Funcionamiento incorrecto de componentes de audio. | X |  |  |
 | 8. Emisiones contaminantes: |
 | 8.1 Ruido: |
 | 8.1.1 Sistema de supresión del ruido. | Evaluación subjetiva (a menos que el inspector considere que el nivel de ruido puede estar en el límite, en cuyo caso se puede realizar una medición del ruido emitido por un vehículo en reposo empleando un sonómetro) | a) Niveles de ruido superiores a los permitidos en los requisitos2. |  | X |  |
@@ -623,3 +637,5 @@ Que un método de inspección se considere visual significa que, además de visu
 11 Homologados de conformidad con el anexo I, cuadro 2 (Euro 6), del Reglamento (CE) n.º 715/2007, y el Reglamento (CE) n.º 595/2009 (Euro VI).
 
 * Modificación peligrosa significa aquella modificación que afecta negativamente a la seguridad vial del vehículo o que tiene un efecto desproporcionado o adverso en el medio ambiente.
+
+> Se añade el punto 7.13 al apartado 2, con efectos desde el 27 de septiembre de 2022, por el art. único.2 del Real Decreto 750/2022, de 13 de septiembre. Ref. BOE-A-2022-14968
