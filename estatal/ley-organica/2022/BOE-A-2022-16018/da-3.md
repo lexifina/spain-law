@@ -1,0 +1,3 @@
+## Disposición adicional tercera.
+
+El Gobierno dictará en el plazo de seis meses, desde la entrada en vigor de la presente ley, y previo informe favorable de la Junta Electoral Central, una orden en la que establezcan las condiciones para la designación de los nuevos centros habilitados para el depósito del voto en urna, además de las Embajadas y las Oficinas Consulares, determinando además las garantías, los procedimientos homogéneos y las consiguientes dotaciones materiales y personales destinadas a este fin, entre las que se dispondrán sistemas de seguridad adecuados para los sobres de envío.
