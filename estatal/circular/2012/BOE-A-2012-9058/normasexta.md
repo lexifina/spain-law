@@ -64,9 +64,47 @@ Se facilitarán al cliente varios ejemplos representativos de la remuneración d
 
 2.3 Créditos al consumo sujetos, en todo o en parte, a la Ley 16/2011, de 24 de junio, de contratos de crédito al consumo.
 
-La información precontractual de los créditos al consumo comprendidos, en todo o en parte, dentro del ámbito de aplicación de la Ley 16/2011 se ajustará a lo dispuesto en esa norma. Asimismo, en lo no previsto por la citada Ley, les resultará aplicable lo establecido en la Orden, de acuerdo con el artículo 33 de la misma, así como el apartado 1 de la norma sexta.
+La información precontractual de los créditos al consumo sujetos, en todo o en parte, al ámbito de aplicación de la Ley 16/2011, de 24 de junio, se ajustará a lo dispuesto en esa norma y, en lo no previsto, a lo establecido al respecto en la Orden, en los términos de su artículo 33, y en el apartado 1 de esta norma sexta, con las especialidades que se señalan a continuación.
 
-En los créditos al consumo a que se refiere el párrafo anterior en los que, para efectuar las operaciones de pago o de disposición del crédito, se requiera la utilización de un medio de pago específico, como, por ejemplo, una tarjeta de crédito, se deberá facilitar al cliente, además de la información precontractual a que se refiere la citada Ley, la información exigida por la Ley 16/2009, de 13 de noviembre, de servicios de pago, y por la Orden EHA/1608/2010, de 14 de junio, sobre transparencia de las condiciones y requisitos de información aplicables a los servicios de pago, en la medida en que tales requisitos de información precontractual no sean redundantes, y excedan de los ya contemplados en la Ley 16/2011. En todo caso, esta información adicional se sujetará a lo dispuesto en el apartado 4 del artículo 10 de esta Ley.
+En los créditos al consumo a que se refiere el párrafo anterior, en los que se requiera la utilización de un instrumento de pago específico para efectuar las operaciones de pago o de disposición del crédito (por ejemplo, una tarjeta de crédito), además de la información precontractual referida en el párrafo anterior, se facilitará al cliente, cuando resulte de aplicación, la información prevista en el Real Decreto-ley 19/2018, de 23 de noviembre, de servicios de pago y otras medidas urgentes en materia financiera (en adelante, el Real Decreto-ley 19/2018), y en la Orden 1263/2019, en la medida en que dicha información exceda o complemente la exigida en la Ley 16/2011, de 24 de junio.
+
+Igualmente, cuando una de las posibilidades de financiación previstas en el contrato sea la del crédito al consumo de duración indefinida o de duración definida prorrogable de forma automática, previsto en el artículo 33 bis de la Orden, además de la información precontractual exigible, señalada en los párrafos anteriores de este apartado 2.3, se proporcionará al cliente, de conformidad con el artículo 33 ter de la Orden, la siguiente información:
+
+a) Una descripción, en lenguaje claro y sencillo, de las distintas modalidades de pago previstas en el contrato, sean o no las definidas en el artículo 33 bis de la Orden, y de sus principales características, en la que se incluirá expresamente el término «revolving» junto a aquellas alternativas de pago que respondan a la modalidad de crédito de duración indefinida o de duración definida prorrogable de forma automática, y, en su caso, se especificará la modalidad de pago establecida por defecto por la entidad.
+
+b) Se especificará si el contrato prevé la capitalización de cantidades vencidas, exigibles y no satisfechas.
+
+c) Se especificará si el cliente o la entidad tienen la facultad de modificar unilateralmente la modalidad de pago establecida durante la vigencia del contrato, detallándose en ese caso las condiciones para ello.
+
+d) Un ejemplo representativo del crédito, que incluya la siguiente información básica, de conformidad con la Ley 16/2011, de 24 de junio: i) el límite del crédito; ii) el importe total adeudado; iii) el tipo deudor y la tasa anual equivalente; iv) el plazo de amortización, y v) la cuota a pagar. Dicho ejemplo reflejará las distintas alternativas de financiación de las que, en su caso, disponga el cliente conforme al contrato, determinadas con arreglo a los siguientes criterios y elementos:
+
+1.º Se incluirá un ejemplo de financiación para cada modalidad de pago mediante pago aplazado con interés de las previstas, en su caso, en el contrato (por ejemplo, pago fraccionado mediante cuotas fijas de capital e intereses o pago aplazado mediante cuotas periódicas flexibles).
+
+2.º El ejemplo se determinará en función de la cuota mínima establecida en el contrato para esa modalidad de pago:
+
+(i) En la modalidad de pago aplazado flexible, mediante cuotas periódicas cuyo importe puede elegir y modificar el cliente durante la vigencia del contrato, dentro de unos mínimos establecidos por la entidad, el ejemplo tendrá en cuenta la cuota resultante de aplicar las distintas opciones mínimas de pago previstas en el contrato (por ejemplo, el pago de una cantidad fija y el pago de un porcentaje del saldo dispuesto), y se incluirá expresamente el término “revolving”.
+
+(ii) En la modalidad de pago fraccionado mediante cuotas fijas de capital e intereses, cuando dicha posibilidad esté prevista en el contrato, se partirá de la cuota mínima necesaria para asegurar que el crédito se devolverá dentro del plazo máximo de amortización permitido.
+
+3.º La información facilitada por el cliente se utilizará por la entidad para determinar el límite del crédito. En caso de que el cliente no haya manifestado sus necesidades de financiación, se considerará que el límite del crédito es de 1.500 euros, o se tomará el máximo disponible, con arreglo a lo previsto en las condiciones ofrecidas por la entidad, si este fuera inferior.
+
+4.º Se considerará que el cliente ha dispuesto del importe total del crédito de una sola vez y que no se realizarán nuevas disposiciones hasta su total amortización.
+
+5.º Si el contrato de crédito prevé diferentes formas de disposición de los fondos (por ejemplo, retiradas de efectivo, operaciones de pago en el punto de venta o transferencias) sujetas a comisiones o tipos deudores distintos, se considerará que el importe total del crédito se ha dispuesto con el tipo deudor y comisiones más altos aplicados a la forma de disposición más comúnmente utilizada, de entre las previstas en el contrato. En esos casos, se indicará expresamente que la tasa anual equivalente podría ser más elevada para el resto de las opciones de disposición de fondos.
+
+6.º Si la obtención del crédito, o su obtención en las condiciones ofrecidas, estuviera condicionada a la suscripción de uno o varios servicios accesorios, se considerará que se contratan todos los servicios. En esos casos, de conformidad con lo previsto en el artículo 12 de la Orden, se indicará expresamente si existe o no la posibilidad de contratar cada servicio de manera independiente y en qué condiciones, se desglosará la parte del coste total del crédito que corresponde a cada uno de los servicios accesorios, en la medida en que pueda determinarse de antemano y sea conocido por la entidad, y se señalarán los efectos que su cancelación anticipada produciría sobre ese coste total.
+
+La información adicional a la prevista en la Ley 16/2011, de 24 de junio, a la que se refieren los anteriores párrafos segundo y tercero de este subapartado 2.3, se entregará al cliente en un documento aparte, que podrá adjuntarse a la información normalizada europea sobre el crédito al consumo, de conformidad con lo indicado en el artículo 10.4 de esa ley.
+
+> Téngase en cuenta que esta actualización del apartado 2.3, establecida por la norma tercera.2 de la Circular 3/2022, de 30 de marzo. Ref. BOE-A-2022-5524#nt, entra en vigor el 6 de octubre de 2022, según determina su disposición final segunda.
+
+> Redacción anterior:
+
+> "2.3 Créditos al consumo sujetos, en todo o en parte, a la Ley 16/2011, de 24 de junio, de contratos de crédito al consumo.
+
+> La información precontractual de los créditos al consumo comprendidos, en todo o en parte, dentro del ámbito de aplicación de la Ley 16/2011 se ajustará a lo dispuesto en esa norma. Asimismo, en lo no previsto por la citada Ley, les resultará aplicable lo establecido en la Orden, de acuerdo con el artículo 33 de la misma, así como el apartado 1 de la norma sexta.
+
+> En los créditos al consumo a que se refiere el párrafo anterior en los que, para efectuar las operaciones de pago o de disposición del crédito, se requiera la utilización de un medio de pago específico, como, por ejemplo, una tarjeta de crédito, se deberá facilitar al cliente, además de la información precontractual a que se refiere la citada Ley, la información exigida por la Ley 16/2009, de 13 de noviembre, de servicios de pago, y por la Orden EHA/1608/2010, de 14 de junio, sobre transparencia de las condiciones y requisitos de información aplicables a los servicios de pago, en la medida en que tales requisitos de información precontractual no sean redundantes, y excedan de los ya contemplados en la Ley 16/2011. En todo caso, esta información adicional se sujetará a lo dispuesto en el apartado 4 del artículo 10 de esta Ley."
 
 2.4 Créditos y préstamos hipotecarios en los que la hipoteca recaiga sobre una vivienda o en los que la finalidad de la persona física prestataria sea adquirir o conservar derechos de propiedad sobre terrenos o edificios construidos o por construir.
 
@@ -147,3 +185,5 @@ f) Los requisitos necesarios para cancelar la garantía en caso de haberse extra
 La información precontractual de los productos y servicios bancarios que se comercialicen a distancia deberá respetar también lo dispuesto en la Ley 22/2007, de 11 de julio, sobre comercialización a distancia de servicios financieros destinados a los consumidores.
 
 3. Las obligaciones impuestas en los apartados 2.1, 2.2 y 2.7 anteriores podrán, asimismo, cumplirse proporcionando al cliente una copia del borrador del contrato correspondiente que incluya la información y las condiciones enumeradas en dichos apartados.
+
+> Se modifica el apartado 2.3, con efectos de 6 de octubre de 2022, por la norma tercera.2 de la Circular 3/2022, de 30 de marzo. Ref. BOE-A-2022-5524#nt

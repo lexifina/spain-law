@@ -20,6 +20,18 @@ En los casos de información relacionada con cuentas de pago, la entidad remitir
 
 7. Las comunicaciones que, en el caso de prórroga de la relación contractual, dirija la entidad al cliente al objeto de obtener su consentimiento, tácito o expreso, a las nuevas condiciones, habrán de realizarse con antelación razonable, o, si así se hubiera pactado, como máximo en el momento de la propia prórroga, siempre que se otorgue al cliente la posibilidad de retrotraer la operación a sus condiciones previas, en el plazo máximo de un mes desde el momento en que se le comuniquen las nuevas condiciones.
 
+8. En los créditos al consumo de duración indefinida o de duración definida prorrogable de forma automática previstos en el artículo 33 bis de la Orden, cuando resulte exigible la remisión al cliente de comunicaciones periódicas que incluyan ejemplos de escenarios sobre el posible ahorro que representaría aumentar el importe de la cuota de pago aplazado flexible por encima de la establecida en ese momento, de conformidad con lo previsto en el artículo 33.quinquies, apartado 3.a), de la Orden, esta información se ajustará a las siguientes instrucciones:
+
+8.1 Los ejemplos se determinarán partiendo de la cuota vigente del crédito en la fecha en que se elabore la comunicación periódica a que se refiere el artículo 33 quinquies.1 de la Orden, a la que se añadirían los escenarios de ahorro.
+
+8.2 Se elaborarán tres posibles escenarios de ahorro, consistentes en aumentar la cuota actual en un 20 %, un 50 % y un 100 %.
+
+8.3 Para cada escenario se incluirá: i) la fecha estimada en la que se terminaría de amortizar el crédito, si no se realizasen más disposiciones ni se modificase la cuota, teniendo en cuenta el tipo deudor establecido en ese momento, y ii) la cuantía total, desglosando principal e intereses, que acabaría pagando el cliente y el concreto ahorro de intereses que supondría el aumento de la cuota en los términos planteados, debiendo resaltarse esta información.
+
+> Téngase en cuenta que el apartado 8, añadido por la norma tercera.4 de la Circular 3/2022, de 30 de marzo. Ref. BOE-A-2022-5524#nt, entra en vigor el 6 de octubre de 2022, según determina su disposición final segunda.
+
+> Se añade el apartado 8, con efectos de 6 de octubre de 2022, por la norma tercera.4 de la Circular 3/2022, de 30 de marzo. Ref. BOE-A-2022-5524#nt
+
 > Se modifican los apartados 2 y 5 por la disposición final 1.3 y 4 de la Circular 2/2019, de 29 de marzo de 2019. Ref. BOE-A-2019-4955#df
 
 > Redactado el apartado 5 conforme a la corrección de errores publicada en el BOE núm. 112, de 10 de mayo de 2019. Ref. BOE-A-2019-6888

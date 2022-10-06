@@ -316,7 +316,13 @@ Se expresará el concepto y el tipo de comisión aplicado, período, base sobre 
 
 9.1 Transacciones efectuadas mediante tarjetas.
 
-El documento de liquidación periódica de la cuenta de tarjeta podrá incorporar, en el mismo documento o en un anejo, el extracto mensual con todos los movimientos de la cuenta en el período a que se refiere el artículo 15 de la Orden EHA/1608/2010, de 14 de junio, sobre transparencia de las condiciones y requisitos de información aplicables a los servicios de pago, conteniendo la información sobre dichos movimientos exigida en dicha norma.
+El documento de liquidación periódica de la cuenta de tarjeta podrá incorporar, en el mismo documento o en un anejo, el extracto mensual con todos los movimientos de la cuenta en el período a que se refiere el artículo 17 de la Orden 1263/2019, conteniendo la información sobre dichos movimientos exigida en dicha norma.
+
+> Téngase en cuenta que esta actualización del primer párrafo del apartado 9.1, establecida por la norma tercera.6 de la Circular 3/2022, de 30 de marzo. Ref. BOE-A-2022-5524#nt, entra en vigor el 6 de octubre de 2022, según determina su disposición final segunda.
+
+> Redacción anterior:
+
+> "El documento de liquidación periódica de la cuenta de tarjeta podrá incorporar, en el mismo documento o en un anejo, el extracto mensual con todos los movimientos de la cuenta en el período a que se refiere el artículo 15 de la Orden EHA/1608/2010, de 14 de junio, sobre transparencia de las condiciones y requisitos de información aplicables a los servicios de pago, conteniendo la información sobre dichos movimientos exigida en dicha norma."
 
 En cualquier caso, la información sobre el tipo de cambio aplicado a cada una de las operaciones realizadas en moneda diferente de la de la cuenta no podrá incorporar las comisiones o gastos que la entidad pudiera percibir por dicho cambio, debiendo estas comisiones y/o gastos detallarse separadamente del tipo de cambio aplicado.
 
@@ -348,7 +354,13 @@ l) Coste efectivo remanente (CER).
 
 9.2 Transferencias.
 
-La comunicación, tanto al ordenante (en las transferencias emitidas) como al beneficiario (en las transferencias recibidas), deberá incluir la información prevista en los artículos 9, 10, 15 y 16, según proceda al caso, de la Orden EHA/1608/2010.
+La comunicación, tanto al ordenante (en las transferencias emitidas) como al beneficiario (en las transferencias recibidas), deberá incluir la información prevista en los artículos 10, 11, 17 y 18, según proceda, de la Orden 1263/2019.
+
+> Téngase en cuenta que esta actualización del apartado 9.2, establecida por la norma tercera.6 de la Circular 3/2022, de 30 de marzo. Ref. BOE-A-2022-5524#nt, entra en vigor el 6 de octubre de 2022, según determina su disposición final segunda.
+
+> Redacción anterior:
+
+> "La comunicación, tanto al ordenante (en las transferencias emitidas) como al beneficiario (en las transferencias recibidas), deberá incluir la información prevista en los artículos 9, 10, 15 y 16, según proceda al caso, de la Orden EHA/1608/2010."
 
 10. Comisiones y gastos por otros servicios.
 
@@ -357,3 +369,5 @@ En las comunicaciones que se faciliten a clientes en cada liquidación de comisi
 Cuando se carguen gastos, deberá indicarse, con la máxima claridad, su naturaleza e importe.
 
 También deberán indicarse, en su caso, los impuestos aplicados, con expresión del tipo y la base de cálculo.
+
+> Se modifica el primer párrafo del apartado 9.1 y el apartado 9.2, con efectos de 6 de octubre de 2022, por la norma tercera.6 de la Circular 3/2022, de 30 de marzo. Ref. BOE-A-2022-5524#nt

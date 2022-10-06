@@ -68,13 +68,49 @@ a) Las principales características del instrumento de pago y las formas de su u
 
 b) Los límites que, en su caso, se establezcan a las operaciones que se ejecuten a través de ese instrumento de pago.
 
-c) Las medidas que el consumidor deberá adoptar para preservar la seguridad del instrumento de pago, así como la forma en que deba realizarse la notificación a la entidad a efectos de lo dispuesto en la letra b) del artículo 27 de la Ley 16/2009, de 13 de noviembre, de servicios de pago.
+c) Las medidas que el consumidor deberá adoptar para preservar la seguridad del instrumento de pago, así como la forma en que deba realizarse la notificación a la entidad a efectos de lo dispuesto en la letra b) del artículo 41 del Real Decreto-ley 19/2018.
 
-d) En su caso, las condiciones en las que la entidad se reserva el derecho de bloquear el instrumento de pago de conformidad con el artículo 26 de la Ley 16/2009.
+d) En su caso, las condiciones en las que la entidad se reserva el derecho de bloquear el instrumento de pago de conformidad con el artículo 40 del Real Decreto-ley 19/2018.
 
-e) La responsabilidad del consumidor de conformidad con el artículo 32 de la Ley 16/2009, junto con el importe correspondiente.
+e) La responsabilidad del consumidor de conformidad con el artículo 46 del Real Decreto-ley 19/2018, junto con el importe correspondiente.
 
-f) La forma y el plazo dentro del cual el consumidor deberá notificar a la entidad cualquier operación de pago no autorizada o ejecutada de forma incorrecta de conformidad con el artículo 29 de la Ley 16/2009, así como la responsabilidad de la entidad en caso de operaciones de pago no autorizadas de conformidad con el artículo 31 de dicha Ley.
+f) La forma y el plazo dentro del cual el consumidor deberá notificar a la entidad cualquier operación de pago no autorizada o ejecutada de forma incorrecta de conformidad con el artículo 43 del Real Decreto-ley 19/2018, así como la responsabilidad de la entidad en caso de operaciones de pago no autorizadas de conformidad con el artículo 45 de ese real decreto-ley.
+
+> Téngase en cuenta que esta actualización de las letras c), d), e) y f) del apartado 1.3.2, establecida por la norma tercera.5 de la Circular 3/2022, de 30 de marzo. Ref. BOE-A-2022-5524#nt, entra en vigor el 6 de octubre de 2022, según determina su disposición final segunda.
+
+> Redacción anterior:
+
+> "c) Las medidas que el consumidor deberá adoptar para preservar la seguridad del instrumento de pago, así como la forma en que deba realizarse la notificación a la entidad a efectos de lo dispuesto en la letra b) del artículo 27 de la Ley 16/2009, de 13 de noviembre, de servicios de pago.
+
+> d) En su caso, las condiciones en las que la entidad se reserva el derecho de bloquear el instrumento de pago de conformidad con el artículo 26 de la Ley 16/2009.
+
+> e) La responsabilidad del consumidor de conformidad con el artículo 32 de la Ley 16/2009, junto con el importe correspondiente.
+
+> f) La forma y el plazo dentro del cual el consumidor deberá notificar a la entidad cualquier operación de pago no autorizada o ejecutada de forma incorrecta de conformidad con el artículo 29 de la Ley 16/2009, así como la responsabilidad de la entidad en caso de operaciones de pago no autorizadas de conformidad con el artículo 31 de dicha Ley."
+
+1.3.3 En el caso de los créditos al consumo de duración indefinida o de duración definida prorrogable de forma automática previstos en el artículo 33 bis de la Orden, no excluidos, en todo o en parte, del ámbito de aplicación de la Ley 16/2011, de 24 de junio, además de lo señalado en el apartado 1.3.1 anterior respecto de la información normalizada europea, en la información adicional a la que se refiere el apartado 2.3 de la norma sexta se resaltarán:
+
+a) En la descripción de las modalidades de pago previstas en el contrato, la denominación de cada modalidad (por ejemplo, pago a fin de mes, pago fraccionado mediante cuotas fijas de capital e intereses o pago aplazado mediante cuotas periódicas flexibles), el término “revolving” y, en su caso, la mención a la modalidad de pago predeterminada por la entidad.
+
+b) En su caso, la mención a que el contrato prevé la capitalización de cantidades vencidas, exigibles y no satisfechas.
+
+c) En su caso, las condiciones para el ejercicio, por parte del cliente o de la entidad, de la facultad de modificar unilateralmente la modalidad de pago establecida.
+
+d) En el ejemplo representativo del crédito, se resaltarán los siguientes conceptos y datos correlativos:
+
+1.º La modalidad de pago y, cuando proceda, el término “revolving”.
+
+2.º El límite del crédito.
+
+3.º El importe total adeudado.
+
+4.º El tipo deudor y la tasa anual equivalente.
+
+5.º La mención a que la tasa anual equivalente podría ser más elevada para el resto de las opciones de disposición de fondos.
+
+6.º Si la obtención del crédito, o su obtención en las condiciones ofrecidas, estuviera condicionada a la suscripción de uno o varios servicios accesorios, la mención a si existe o no la posibilidad de contratar cada servicio de manera independiente y, en su caso, la parte del coste total del crédito que corresponde a cada uno de los servicios accesorios.
+
+> Téngase en cuenta que el apartado 1.3.3, añadido por la norma tercera.5 de la Circular 3/2022, de 30 de marzo. Ref. BOE-A-2022-5524#nt, entra en vigor el 6 de octubre de 2022, según determina su disposición final segunda.
 
 1.4 Créditos y préstamos hipotecarios en los que la hipoteca recaiga sobre una vivienda o cuya finalidad sea adquirir o conservar derechos de propiedad sobre terrenos o edificios construidos o por construir. En la información sobre préstamos hipotecarios a que se refiere el artículo 19 de la Orden EHA/2899/2011, de 28 de octubre, de transparencia y protección del cliente de servicios bancarios, se resaltarán los siguientes conceptos o datos:
 
@@ -125,5 +161,7 @@ i) En el apartado 14. RIESGOS Y ADVERTENCIAS, se resaltarán todos los que la en
 – la duración de la cobertura frente a la variabilidad del tipo de interés y, en su caso, el coste que su cancelación anticipada supondría para el prestatario;
 
 – si la cobertura, cualquiera que sea su modalidad, no se limita exclusivamente a proteger al prestatario frente al alza de los tipos de interés.
+
+> Se modifican las letras c), d), e) y f) del apartado 1.3.2 y se añade el apartado 1.3.3, con efectos de 6 de octubre de 2022, por la norma tercera.5 de la Circular 3/2022, de 30 de marzo. Ref. BOE-A-2022-5524#nt
 
 > Redactado el apartado 1.4.3 conforme a la corrección de errores publicada en el BOE núm. 245, de 11 de octubre de 2012. Ref. BOE-A-2012-12687.
