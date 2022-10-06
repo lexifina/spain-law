@@ -120,6 +120,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria tercera](dt.md)
 - [Disposición transitoria cuarta](dt-2.md)
 - [Disposición transitoria quinta](dt-3.md)
+- [Disposición transitoria sexta](dt-4.md)
+- [Disposición transitoria séptima](dt-5.md)
 - [ANEXO I](ani.md)
 - [ANEXO II](anii.md)
 - [ANEXO III](aniii.md)

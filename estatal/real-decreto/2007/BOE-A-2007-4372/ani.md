@@ -1,6 +1,6 @@
 ## ANEXO I
 
-## Especificaciones a las que deben ajustarse los baremos de méritos para el ingreso a los Cuerpos de Maestros, Profesores de Enseñanza Secundaria, Profesores Técnicos de Formación Profesional, Profesores de Escuelas Oficiales de Idiomas, Catedráticos y Profesores de Música y Artes Escénicas y Profesores y Maestros de Taller de Artes Plásticas y Diseño
+## Especificaciones a las que deben ajustarse los baremos de méritos para el ingreso a los Cuerpos de Maestros, Profesores de Enseñanza Secundaria, Profesores Especialistas en Sectores Singulares de Formación Profesional, Profesores de Escuelas Oficiales de Idiomas, Catedráticos y Profesores de Música y Artes Escénicas y Profesores y Maestros de Taller de Artes Plásticas y Diseño
 
 Los baremos que fijen las convocatorias para la fase de concurso se estructurarán en los tres bloques que se indican a continuación. Las puntuaciones máximas que pueden obtenerse en cada uno de estos bloques serán las siguientes:
 
@@ -76,6 +76,16 @@ d) Por cada Título de Técnico Superior de Formación Profesional: 0,200 puntos
 
 e) Por cada Título de Técnico Deportivo Superior: 0,200 puntos.
 
+2.5 Dominio de idiomas extranjeros.
+
+Por aquellos certificados de conocimiento de una lengua extranjera, expedidos por entidades acreditadas conforme a lo que se determine en las convocatorias, que acrediten la competencia lingüística en un idioma extranjero de nivel avanzado C1 o C2, según la clasificación del Marco Común Europeo de Referencia para las Lenguas: 0,500 puntos.
+
+Los certificados de nivel avanzado C1 o C2 de un mismo idioma, acreditados de acuerdo con el apartado 2.4 o bien 2.5, se valorarán por una sola vez en uno o en otro apartado.
+
+Asimismo, cuando se presenten en esos apartados para su valoración varios certificados de los diferentes niveles acreditativos de la competencia lingüística en un mismo idioma, se valorará solamente el de nivel superior.
+
 III. Otros méritos
 
 Serán determinados en las respectivas convocatorias. Entre ellos se incluirán, en el caso de los cuerpos que imparten enseñanzas artísticas, los méritos relacionados con la especialidad a la que se aspire.
+
+> Se modifica el encabezado y se añade un párrafo 5 al apartado 2 por la disposición final 2.7 y 8 del Real Decreto 800/2022, de 4 de octubre. Ref. BOE-A-2022-16194#df-2

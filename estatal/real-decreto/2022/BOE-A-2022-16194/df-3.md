@@ -1,0 +1,7 @@
+## Disposición final tercera. Modificación del Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y otros procedimientos de provisión de plazas a cubrir por los mismos.
+
+Se modifica el párrafo d) del artículo 16.1, del Real Decreto 1364/2010, de 29 de octubre, por el que se regula el concurso de traslados de ámbito estatal entre personal funcionario de los cuerpos docentes contemplados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y otros procedimientos de provisión de plazas a cubrir por los mismos, que queda redactado en los siguientes términos:
+
+El artículo 16.1.d) queda redactado como sigue:
+
+> «d) Por adquisición de nuevas especialidades, al amparo de lo dispuesto en los Reales Decretos 850/1993, de 4 de junio, 334/2004, de 27 de febrero, y 276/2007, de 23 de febrero, el profesorado de los Cuerpos de Catedráticos de Enseñanza Secundaria, Profesores de Enseñanza Secundaria, del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional, y del Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional, podrá obtener un puesto de la nueva especialidad adquirida en el centro donde tuviera destino definitivo. Una vez obtenido el nuevo puesto sólo se podrá ejercer este derecho con ocasión de la adquisición de otra nueva especialidad.»
