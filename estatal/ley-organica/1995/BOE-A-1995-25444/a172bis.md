@@ -6,4 +6,8 @@
 
 3. Las penas se impondrán en su mitad superior cuando la víctima fuera menor de edad.
 
+4. En las sentencias condenatorias por delito de matrimonio forzado, además del pronunciamiento correspondiente a la responsabilidad civil, se harán, en su caso, los que procedan en orden a la declaración de nulidad o disolución del matrimonio así contraído y a la filiación y fijación de alimentos.
+
+> Se añade el apartado 4, con efectos desde el 7 de octubre de 2022, por la disposición final 4.3 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df-4
+
 > Se añade por el art. único.90 de la Ley Orgánica 1/2015, de 30 de marzo. Ref. BOE-A-2015-3439.

@@ -8,6 +8,10 @@ Para la adopción de estas medidas se tendrá en cuenta la situación económica
 
 En caso de incumplimiento por parte del inculpado de la medida acordada por el juez o tribunal, éste convocará la comparecencia regulada en el artículo 505 para la adopción de la prisión provisional en los términos del artículo 503, de la orden de protección prevista en el artículo 544 ter o de otra medida cautelar que implique una mayor limitación de su libertad personal, para lo cual se tendrán en cuenta la incidencia del incumplimiento, sus motivos, gravedad y circunstancias, sin perjuicio de las responsabilidades que del incumplimiento pudieran resultar.
 
+En el caso de que se investigue alguno de los delitos mencionados en el artículo 3 de la Ley Orgánica de Garantía Integral de la Libertad Sexual, de acordarse alguna de las medidas de protección de la víctima previstas en este precepto, podrá acordarse mediante resolución motivada la utilización de dispositivos telemáticos para el control de su cumplimiento.
+
+> Se añade un párrafo final, con efectos desde el 7 de octubre de 2022, por la disposición final 1.3 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df
+
 > Se modifica el párrafo último por la disposición final 1.1.j) de la Ley Orgánica 15/2003, de 25 de noviembre. Ref. BOE-A-2003-21538.
 
 > Se modifica el párrafo último por el art. 3 de la Ley Orgánica 13/2003, de 24 de octubre. Ref. BOE-A-2003-19748.

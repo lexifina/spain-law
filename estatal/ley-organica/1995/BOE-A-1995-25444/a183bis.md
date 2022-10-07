@@ -1,8 +1,8 @@
 ## Artículo 183 bis.
 
-El que, con fines sexuales, determine a un menor de dieciséis años a participar en un comportamiento de naturaleza sexual, o le haga presenciar actos de carácter sexual, aunque el autor no participe en ellos, será castigado con una pena de prisión de seis meses a dos años.
+Salvo en los casos en que concurra alguna de las circunstancias previstas en el apartado segundo del artículo 178, el libre consentimiento del menor de dieciséis años excluirá la responsabilidad penal por los delitos previstos en este capítulo cuando el autor sea una persona próxima al menor por edad y grado de desarrollo o madurez física y psicológica.
 
-Si le hubiera hecho presenciar abusos sexuales, aunque el autor no hubiera participado en ellos, se impondrá una pena de prisión de uno a tres años.
+> Se modifica, con efectos desde el 7 de octubre de 2022, por la disposición final 4.8 de la Ley Orgánica 10/2022, de 6 de septiembre. Ref. BOE-A-2022-14630#df-4
 
 > Se modifica por el art. único.98 de la Ley Orgánica 1/2015, de 30 de marzo. Ref. BOE-A-2015-3439.
 
