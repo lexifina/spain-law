@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 9 de octubre, a excepción del art. 8.1.b) que seguirá aplicándose durante los tres meses siguientes, según establece la disposición derogatoria única del Real Decreto 765/2022, de 20 de septiembre de 2022, Ref. BOE-A-2022-16402#dd y disposición transitoria 3 del mismo. Ref. BOE-A-2022-16402#dt-3
