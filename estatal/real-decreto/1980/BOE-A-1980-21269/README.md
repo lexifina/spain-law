@@ -8,24 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2022-10-10 by BOE-A-2022-15286. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no](no.md)
-- [pr](pr.md)
-- [Artículo primero](ap.md)
-- [Artículo segundo](as.md)
-- [Artículo tercero](at.md)
-- [Artículo cuarto](ac.md)
-- [Artículo quinto](aq.md)
-- [Artículo sexto](as-2.md)
-- [Artículo séptimo](as-3.md)
-- [Artículo octavo](ao.md)
-- [Artículo noveno](an.md)
-- [Artículo décimo](ad.md)
-- [Artículo undécimo](au.md)
-- [DISPOSICIÓN TRANSITORIA](dt.md)
-- [DISPOSICIÓN ADICIONAL](da.md)
-- [fi](fi.md)
-- [ANEXO 1](a1.md)
-- [ANEXO 2](a2.md)
-- [ANEXO 3](a3.md)
+- [BOE publisher notice](no.md)
