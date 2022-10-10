@@ -1,3 +1,5 @@
-## Disposición final primera. Actualización del contenido de las reglas JAR-21.
+## Disposición final primera. Actualización de referencias.
 
-Se faculta al Ministro de Fomento para introducir en las reglas JAR-21 que figuran en el anexo a este Real Decreto cuantas modificaciones de carácter técnico sean necesarias para que su contenido se mantenga actualizado de conformidad con las acordadas por las Autoridades Aeronáuticas Conjuntas.
+Las referencias de este real decreto a la Dirección General de Aviación Civil deben entenderse realizadas a la Agencia Estatal de Seguridad Aérea.
+
+> Se modifica por la disposición final 1.6 del Real Decreto 728/2022, de 6 de septiembre de 2022. Ref. BOE-A-2022-15286#df

@@ -1,0 +1,5 @@
+## Disposición final cuarta. Modificación del Real Decreto 1133/2010, de 10 de septiembre, por el que se regula la provisión del servicio de información de vuelo de aeródromos (AFIS).
+
+Se modifica el artículo 18.1, letra b), del Real Decreto 1133/2010, de 10 de septiembre, por el que se regula la provisión del servicio de información de vuelo de aeródromos (AFIS), que pasa a quedar redactado en los siguientes términos:
+
+> «b) Ser titular de un certificado médico clase 3 en vigor expedido de conformidad con lo previsto en el Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015, por el que se establecen requisitos técnicos y procedimientos administrativos relativos a las licencias y los certificados de los controladores de tránsito aéreo en virtud del Reglamento (CE) n.° 216/2008 del Parlamento Europeo y del Consejo, se modifica el Reglamento de Ejecución (UE) n.º 923/2012 de la Comisión y se deroga el Reglamento (UE) n.º 805/2011 de la Comisión, y disposiciones concordantes y de desarrollo.»

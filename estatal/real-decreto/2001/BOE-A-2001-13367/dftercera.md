@@ -1,3 +1,5 @@
-## Disposición final tercera. Ejecución y aplicación de este Real Decreto.
+## Disposición final tercera. Ejecución y aplicación.
 
-La Dirección General de Aviación Civil adoptará las medidas necesarias para la aplicación y ejecución de este Real Decreto y ordenará la publicación en el «Boletín Oficial del Estado» de las directrices o criterios acordados por las Autoridades Aeronáuticas Conjuntas (JAA) para la aplicación e interpretación uniforme de las normas JAR-21 y en orden a conseguir el mayor grado de garantía de la seguridad aérea.
+El órgano competente de la Agencia Estatal de Seguridad Aérea por razón de la materia podrá dictar los actos de ejecución precisos para la aplicación de este real decreto, así como medios aceptables de cumplimiento y material guía para facilitar su cumplimiento.
+
+> Se modifica por la disposición final 1.6 del Real Decreto 728/2022, de 6 de septiembre de 2022. Ref. BOE-A-2022-15286#df

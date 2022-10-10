@@ -1,0 +1,3 @@
+## Disposición derogatoria quinta. Derogación normativa en materia de aeronavegabilidad y mantenimiento de aeronaves.
+
+Se deroga el Real Decreto 284/2002, de 22 de marzo, por el que se determinan las condiciones para el ejercicio de las funciones de los técnicos de mantenimiento y personal certificador de mantenimiento de las aeronaves civiles, que, no obstante, seguirá siendo aplicable para la expedición y obtención de las licencias de los técnicos de mantenimiento de aviones sencillos no autorizados para realizar transporte aéreo comercial, aerostatos y planeadores, hasta que se adopte la normativa específica que regule el mantenimiento de los planeadores y las aeronaves a que se refiere el anexo I del Reglamento Base de EASA.
