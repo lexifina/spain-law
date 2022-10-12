@@ -268,7 +268,9 @@ b) Revisión del reparto de la retribución por continuidad de suministro del a�
 | Regasificadora del Noroeste, S.A. | 10.488.385,32 | 10.488.385,32 | 0,00 |
 | Total. | 91.139.188,15 | 91.139.188,15 | 0,00 |
 
-> Se modifica el apartado 2, de acuerdo a lo dispuesto en las sentencias del TS 1365/2021, de 23 de noviembre de 2021, y 1013/2022, de 18 de julio de 2022, incluyendo intereses legales tal como establece la segunda, por la disposición final 3 de la Orden TED/929/2022, de 27 de septiembre. Ref. BOE-A-2022-15819#df-3
+> Se modifica el apartado 2, de acuerdo a lo dispuesto en las sentencias del TS 1365/2021, de 23 de noviembre, y 1013/2022, de 18 de julio, incluyendo intereses legales tal como establece la segunda, por la disposición final 3 de la Orden TED/929/2022, de 27 de septiembre. Ref. BOE-A-2022-15819#df-3
+
+> Téngase en cuenta la Sentencia del TS de 18 de julio de 2022, publicada en el BOE de 12 de octubre de 2022, por la que se declara la nulidad del apartado 2 en lo que se refiere a la determinación de la retribución definitiva por el desarrollo de la actividad de distribución de gas natural en el ejercicio 2019 correspondiente a Redexis Gas, SA, y Redexis Gas Murcia, SA. Ref. BOE-A-2022-16588
 
 > Se declara la nulidad de las cantidades asignadas en el apartado 2 a la sociedad «Nedgia SA», y las empresas que conforman dicho grupo empresarial, por Sentencia del TS de 23 de noviembre de 2021. Ref. BOE-A-2022-803
 
