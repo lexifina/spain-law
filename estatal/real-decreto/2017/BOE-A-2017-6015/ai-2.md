@@ -18,7 +18,7 @@ a) Miembros de la organización que sean personas físicas o personas jurídicas
 
 6.º Si es miembro directo o a través de un miembro agregador.
 
-7.º Efectivos productivos de su explotación (superficie cultivada, productos y volumen y valor de su producción por productos).
+7.º Efectivos productivos (superficie cultivada, productos y volumen y valor de su producción por productos) y ubicación de su explotación conforme al Registro Autonómico de Explotaciones.
 
 8.º Ámbito geográfico de su explotación.
 
@@ -38,6 +38,8 @@ iii) El capital social que posee respecto del miembro agregador del que forma pa
 
 iv) Los derechos de voto que posee en todo tipo de decisiones respecto del miembro agregador del que forma parte. No obstante, no será necesario recoger esta información cuando el miembro sea un miembro directo de una organización de productores que sea una cooperativa amparada por una norma jurídica que implique su funcionamiento democrático o una sección de ella, o cuando sea un miembro directo de un miembro agregador cuya personalidad jurídica sea una cooperativa, o una sección de ella, que reúna los mismos requisitos que la citada anteriormente.
 
+12.º Justificación de que la explotación del miembro está incluida en el Registro de Explotaciones Agrarias sin incidencias.
+
 b) Miembros agregadores de productores. De cada uno de ellos, se recogerá, al menos:
 
 1.º Razón social.
@@ -52,7 +54,7 @@ b) Miembros agregadores de productores. De cada uno de ellos, se recogerá, al m
 
 6.º El nivel que posee dentro de la cadena societaria de la organización de productores, con el mismo criterio marcado en el apartado 11, inciso i) de la letra a) anterior.
 
-7.º En caso de ser productor además de agregador, los efectivos productivos de los que él es titular de explotación (superficie cultivada, productos y volumen y valor de su producción por productos) y el ámbito geográfico de la explotación de la que es titular.
+7.º En caso de ser productor además de agregador, los efectivos productivos de los que él es titular de explotación (superficie cultivada, productos y volumen y valor de su producción por productos) y ubicación de su explotación conforme al Registro Autonómico de Explotaciones.
 
 8.º Efectivos productivos que agrupa procedente de sus miembros productores (superficie cultivada, productos y volumen y valor de su producción por productos).
 
@@ -66,4 +68,8 @@ b) Miembros agregadores de productores. De cada uno de ellos, se recogerá, al m
 
 13 .º De cada miembro que forme parte de él, el nombre o razón social y el NIF.
 
+14.º Justificación de que las explotaciones de los productores que pertenece al miembro agregador están incluidas en el Registro de Explotaciones Agrarias.
+
 II. En organizaciones de productores y miembros agregadores de productores con personalidad jurídica que no sea la de cooperativa, sociedad agraria de transformación, o secciones de ellas, se deberá recoger la información detallada en el apartado I) referida a los titulares de las acciones o participaciones del capital de la entidad.
+
+> Se modifica el epígrafe I por el art. único.2 del Real Decreto 855/2022, de 11 de octubre. Ref. BOE-A-2022-16584
