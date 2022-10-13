@@ -69,3 +69,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 46](a4-8.md)
 - [Artículo 47](a4-9.md)
 - [Disposición transitoria única](dt.md)
+- [Disposición transitoria primera](dt-2.md)
+- [Disposición transitoria segunda](dt-3.md)
