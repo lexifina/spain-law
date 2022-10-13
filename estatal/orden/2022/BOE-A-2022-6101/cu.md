@@ -82,9 +82,9 @@ m) La aprobación, compromiso, reconocimiento de la obligación y propuesta de p
 
 4. En la persona titular de la Subdirección General de Libertad Religiosa las funciones derivadas de la exigencia del reintegro y demás funciones que comporten el ejercicio de potestades administrativas que correspondan de las subvenciones referidas en la disposición adicional decimosexta de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
 
-5. Se delega, previa aprobación de la persona titular de la Secretaría General de la Presidencia del Gobierno, en la persona titular de la Unidad de Medios Operativos:
+5. Se delega en la persona titular de la Unidad de Medios Operativos:
 
-a) La aprobación y el compromiso del gasto, así como el reconocimiento y propuesta de pago de las obligaciones con cargo a libramientos a justificar correspondientes a dicha Secretaría General de la Presidencia del Gobierno, cuando los servicios y prestaciones tengan lugar en el extranjero. Está delegación incluye la competencia para contratar bienes y servicios, y para atender los gastos de personal de las Oficinas de Comunicación en el exterior.
+a) La aprobación y el compromiso del gasto, así como el reconocimiento y propuesta de pago de las obligaciones con cargo a libramientos a justificar correspondientes a la Secretaría General de la Presidencia del Gobierno, cuando los servicios y prestaciones tengan lugar en el extranjero. Está delegación incluye la competencia para contratar bienes y servicios, y para atender los gastos de personal de las Oficinas de Comunicación en el exterior.
 
 b) La aprobación de las cuentas justificativas satisfechas con libramientos aprobados por las Oficinas de Comunicación en el exterior.
 
@@ -101,5 +101,7 @@ d) El ejercicio de las competencias que el ordenamiento jurídico atribuye al ti
 Se excluye de dicha delegación de competencias aquellos convenios suscritos con Comunidades Autónomas cuya firma sea realizada por las personas titulares de la Presidencia de una Comunidad Autónoma o de la Consejería correspondiente.
 
 e) En el ámbito de competencia del Comisionado especial para la Reconstrucción de la isla de La Palma, la competencia para aprobar y comprometer gastos, para reconocer obligaciones y para proponer el pago de las obligaciones económicas no imputables al Capítulo 1.
+
+> Se modifica el punto 5 por el apartado 1.1 de la Orden PCM/966/2022, de 11 de octubre. Ref. BOE-A-2022-16680
 
 > Se modifica el punto 3.a), c) y d) y se añade el punto 6 por el apartado 1.1 y 2 de la Orden PCM/595/2022, de 25 de junio. Ref. BOE-A-2022-10749
