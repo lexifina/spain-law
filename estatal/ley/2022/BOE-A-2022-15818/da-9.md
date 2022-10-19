@@ -1,0 +1,5 @@
+## Disposición adicional novena. Trabajos para impulsar la creación de entidades de la economía social a través de CIRCE.
+
+1. En el marco del Consejo de Fomento de la Economía Social se impulsarán los trabajos para llevar a cabo los desarrollos tecnológicos que posibiliten la constitución de cooperativas y de sociedades limitadas laborales, de acuerdo a lo establecido en el Real Decreto 44/2015, de 2 de febrero, por el que se regulan las especificaciones y condiciones para el empleo del Documento Único Electrónico (DUE) para la puesta en marcha de sociedades cooperativas, sociedades civiles, comunidades de bienes, sociedades limitadas laborales y emprendedores de responsabilidad limitada mediante el sistema de tramitación telemática.
+
+2. Una vez completados los trabajos, se añadirá al reglamento sobre obligaciones de información por parte de quienes intervienen en la constitución de sociedades las ventajas de emplear CIRCE en la constitución de las entidades mencionadas en el apartado anterior.

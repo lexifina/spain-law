@@ -1,0 +1,5 @@
+## Disposición adicional sexta. Constitución de sociedades de responsabilidad limitada de forma íntegra por medios telemáticos a través de CIRCE.
+
+1. A partir de la entrada en vigor de la norma de transposición de la Directiva (UE) 2019/1151 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, por la que se modifica la Directiva (UE) 2017/1132 en lo que respecta a la utilización de herramientas y procesos digitales en el ámbito del derecho de sociedades, el procedimiento notarial para la constitución de sociedades de responsabilidad limitada de forma íntegra por medios telemáticos quedará incorporado al procedimiento de constitución a través del Centro de Información y Red de Creación de Empresas (CIRCE), y sujeto a los plazos, aranceles y demás requisitos previstos en la regulación de CIRCE.
+
+2. Los desarrollos reglamentarios pertinentes para la incorporación de dicho procedimiento a CIRCE relativos al Documento Único Electrónico, los estatutos tipo y la escritura pública estandarizada se realizarán por Real Decreto.

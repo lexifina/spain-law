@@ -1,3 +1,5 @@
-## Disposición adicional sexta. Evaluación anual de la Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios.
+## Disposición adicional sexta. Evaluación normativa de unidad de mercado.
 
-La Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios elaborará una evaluación anual sobre la implementación y los principales efectos en ámbitos de actuación pública concretos, de las medidas contempladas en esta Ley. Esta evaluación se remitirá a la Comisión Delegada del Gobierno para Asuntos Económicos y a las Comisiones de Economía y Competitividad del Congreso de los Diputados y del Senado, tras lo cual se hará pública.
+Aquellos proyectos normativos elaborados de conformidad con el artículo 26 de la Ley 50/1997, de 27 de noviembre, del Gobierno, que tengan efectos significativos sobre la unidad de mercado deberán someterse a un análisis sobre los resultados de su aplicación. Dicho análisis se realizará de conformidad con el artículo 3 del Real Decreto 286/2017, de 24 de marzo, por el que se regulan el Plan Anual Normativo y el Informe Anual de Evaluación Normativa de la Administración General del Estado y se crea la Junta de Planificación y Evaluación Normativa.
+
+> Se modifica por el art. 6.20 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6

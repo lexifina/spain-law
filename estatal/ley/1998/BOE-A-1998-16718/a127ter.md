@@ -14,13 +14,13 @@
 
 Conforme a lo dispuesto en el artículo 71, la sentencia que estime el recurso implicará la corrección de la conducta infractora, así como el resarcimiento de los daños y perjuicios, incluido el lucro cesante, que dicha conducta haya causado.
 
-Cuando se trate de asuntos en los que no quepa ulterior recurso, el órgano jurisdiccional podrá convocar a las partes a una comparecencia con la finalidad de dictar su sentencia de viva voz, exponiendo verbalmente los razonamientos en que sustente su decisión, resolviendo sobre los motivos que fundamenten el recurso y la oposición y pronunciando su fallo, de acuerdo con lo dispuesto en los artículos 68 a 71.
+El órgano jurisdiccional podrá convocar a las partes a una comparecencia con la finalidad de dictar su sentencia de viva voz, exponiendo verbalmente los razonamientos en que sustente su decisión, resolviendo sobre los motivos que fundamenten el recurso y la oposición y pronunciando su fallo, de acuerdo con lo dispuesto en los artículos 68 a 71.
 
 La no comparecencia de todas o alguna de las partes no impedirá el dictado de la sentencia de viva voz.
 
 En cuanto se refiere a la grabación de la comparecencia y a su documentación, serán aplicables las disposiciones contenidas en el artículo 63.
 
-Caso de haberse dictado la Sentencia de forma oral, el Secretario judicial expedirá certificación que recoja todos los pronunciamientos del fallo, con expresa indicación de su firmeza y de la actuación administrativa a que se refiera. Dicha certificación será expedida en el plazo máximo de cinco días notificándose a las partes.
+Caso de haberse dictado la Sentencia de forma oral, el Secretario judicial expedirá certificación que recoja todos los pronunciamientos del fallo, con expresa indicación de su firmeza y de la actuación administrativa a que se refiera. Dicha certificación será expedida en el plazo máximo de cinco días, notificándose a las partes.
 
 La anterior certificación se registrará e incorporará al Libro de Sentencias del órgano judicial. El soporte videográfico de la comparecencia quedará unido al procedimiento.
 
@@ -37,5 +37,7 @@ El interviniente podrá utilizar los recursos que procedan contra las resolucion
 9. A todos los efectos, la tramitación de estos recursos tendrá carácter preferente.
 
 10. El procedimiento para la garantía de la unidad de mercado, en lo no dispuesto en este Capítulo, se regirá por las normas generales de la presente Ley.
+
+> Se modifica el apartado 6 por el art. 7.1 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a7
 
 > Se añade por la disposición final 1.3 de la Ley 20/2013, de 9 de diciembre. Ref. BOE-A-2013-12888.

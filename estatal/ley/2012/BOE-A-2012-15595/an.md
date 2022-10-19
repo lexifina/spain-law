@@ -244,9 +244,17 @@ Epígrafe 843.1. Servicios Técnicos de Ingeniería.
 
 Epígrafe 843.2. Servicios Técnicos de arquitectura y urbanismo.
 
+Epígrafe 843.3 Servicios técnicos de prospecciones y estudios geológicos.
+
+Epígrafe 843.4 Servicios técnicos de topografía.
+
 Epígrafe 843.5. Servicios Técnicos de delineación.
 
 Grupo 844. Servicios de Publicidad, relaciones públicas y similares.
+
+Grupo 846. Empresas de estudios de mercado.
+
+Grupo 847. Servicios integrales de correos y telecomunicaciones.
 
 Grupo 849. Otros Servicios prestados a las empresas n.c.o.p.
 
@@ -256,7 +264,17 @@ Epígrafe 849.2. Servicios mecanográficos, taquigráficos, de reproducción de 
 
 Epígrafe 849.3. Servicios de traducción y similares.
 
+Epígrafe 849.4 Servicios de custodia, seguridad y protección.
+
+Epígrafe 849.5 Servicios de mensajería, recadería y reparto y manipulación de correspondencia.
+
+Epígrafe 849.6 Servicios de colocación y suministro de personal.
+
 Epígrafe 849.7. Servicios de gestión administrativa.
+
+Epígrafe 849.8 Multiservicios intensivos en personal.
+
+Epígrafe 849.9 Otros servicios independientes, NCOP.
 
 Agrupación 85. Alquiler de bienes muebles.
 
@@ -276,6 +294,8 @@ Epígrafe 856.1. Alquiler de bienes de consumo.
 
 Epígrafe 856.2. Alquiler de películas de vídeo.
 
+Grupo 857. Alquiler de aparatos de medida.
+
 Agrupación 86. Alquiler de bienes inmuebles.
 
 Grupo 861. Alquiler de bienes inmuebles de naturaleza urbana.
@@ -285,6 +305,10 @@ Epígrafe 861.1. Alquiler de viviendas.
 Epígrafe 861.2. Alquiler de locales industriales y otros alquileres N.C.O.P.
 
 Grupo 862. Alquiler de bienes inmuebles de naturaleza rústica.
+
+Agrupación 92.
+
+Grupo 922. Servicios de limpieza.
 
 Agrupación 93. Educación e investigación.
 
@@ -361,5 +385,7 @@ Agrupación 99. Servicios no clasificados en otras rúbricas.
 Grupo 999. Otros servicios n.c.o.p.
 
 Locutorios.
+
+> Se añaden actividades por el art. 8 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a8
 
 > Se modifica por la disposición final 7.2 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.

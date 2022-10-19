@@ -1,5 +1,15 @@
-## Disposición adicional novena. Plazos máximos de remisión de información y del sistema de intercambio de información.
+## Disposición adicional novena. Creación del Observatorio de Buenas Prácticas Regulatorias.
 
-La obligación de remisión de los datos obrantes en los registros establecida en el artículo 22 deberá realizarse en el plazo máximo de seis meses desde la entrada en vigor de esta Ley.
+Se crea el Observatorio de Buenas Prácticas Regulatorias en el marco de la Conferencia Sectorial para la Mejora Regulatoria y el Clima de Negocios.
 
-El sistema de intercambio electrónico de información al que hace referencia el artículo 23 de esta Ley será puesto a disposición de las autoridades competentes por el Ministerio de Hacienda y Administraciones Públicas en el plazo máximo de seis meses desde la entrada en vigor de esta Ley.
+Este órgano estará gestionado por la Secretaría para la Unidad de Mercado y será el encargado de desempeñar las siguientes funciones:
+
+a) Identificación y seguimiento de las buenas prácticas regulatorias de las diferentes Administraciones.
+
+b) Elaboración y actualización continua de un Catálogo de buenas prácticas regulatorias que deberá ser aprobado por la Conferencia Sectorial para la Mejora Regulatoria y el Clima de Negocios. En particular, este Catálogo contendrá buenas prácticas en relación con la aplicación del principio de cooperación y confianza mutua del artículo 4.
+
+c) Impulso de actuaciones de formación, comunicación, difusión e información de las buenas prácticas identificadas.
+
+d) Seguimiento y difusión de las directrices de la Unión Europea en esta materia.
+
+> Se modifica por el art. 6.21 de la Ley 18/2022, de 28 de septiembre. Ref. BOE-A-2022-15818#a6
