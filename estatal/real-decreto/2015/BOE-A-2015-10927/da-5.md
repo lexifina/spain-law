@@ -1,3 +1,5 @@
 ## Disposición adicional quinta. Instalaciones de producción de energía eléctrica con potencia nominal no superior a 100 kW, conectadas a tensión no superior a 1 kV, ya sea a la red de distribución o a la red interior de un consumidor.
 
-Al amparo de lo previsto en el apartado 3 del artículo 53 de la Ley 24/2013, de 26 de diciembre, las instalaciones de producción de energía eléctrica con potencia nominal no superior a 100 kW, conectadas directamente a una red de tensión no superior a 1 kV, ya sea de distribución o a la red interior de un consumidor, quedan excluidas del régimen de autorización administrativa previa y de autorización administrativa de construcción previsto en los apartados 1.a) y 1.b) del mencionado artículo 53.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto-ley 18/2022, de 18 de octubre. Ref. BOE-A-2022-17040#dd

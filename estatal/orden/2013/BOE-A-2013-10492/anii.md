@@ -38,7 +38,7 @@ Ministerio Industria, Energía y Turismo:
 
 8. Fundación Centro Nacional de Referencia de Aplicación de las Tecnologías de la Información y la Comunicación (CENATIC) cuya actividad será integrada en el Ente Público Red.es.
 
-9. Fundación Ciudad de la Energía (CIUDEN), cuya actividad será integrada parcialmente en el IDAE, con excepción de las actividades museísticas, en los términos previstos en las normas que regulen su estructura y funcionamiento.
+9. (Derogado)
 
 ## 2. Fundaciones del sector público que se fusionan
 
@@ -81,3 +81,5 @@ Ministerio de Educación, Cultura y Deporte:
 18. Fundación Canaria Puertos de Las Palmas.
 
 19. Fundación General de la UNED.
+
+> Se deroga el punto 9 del apartado 1.b) por la disposición derogatoria única.c) del Real Decreto-ley 18/2022, de 18 de octubre. Ref. BOE-A-2022-17040#dd

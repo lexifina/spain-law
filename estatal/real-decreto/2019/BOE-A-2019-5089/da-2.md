@@ -31,3 +31,9 @@ b) Rangos de potencia instalada:
 – Superior a 1 MW.
 
 3. La Dirección General de Política Energética y Minas podrá aprobar por resolución los formatos para la remisión de dicha información, la modificación de los rangos establecidos en el apartado anterior, así como establecer otros parámetros de desagregación o definir aquellos otros aspectos necesarios para garantizar la homogeneidad de los datos.
+
+4. Al menos con carácter trimestral, los gestores de las redes de transporte y distribución remitirán al operador del sistema en su calidad de responsable del sistema de medidas, exclusivamente por vía electrónica, la información relativa a las instalaciones de autoconsumo conectadas a las redes que gestionan. Esta información deberá permitir identificar cada una de las instalaciones de autoconsumo en el concentrador principal de medidas eléctricas. Asimismo, el operador del sistema remitirá esta información agregada a la Dirección General de Política Energética y Minas con carácter trimestral.
+
+La Dirección General de Política Energética y Minas, a propuesta del operador del sistema, aprobará por resolución los formatos para la remisión de dicha información, la frecuencia, así como los parámetros de desagregación y aquellos otros aspectos necesarios para identificar las instalaciones de autoconsumo en el concentrador principal de medidas eléctricas, garantizar la homogeneidad de los datos y el detalle de los mismos de tal forma, que permitan al operador del sistema cumplir sus funciones relativas a la seguridad de suministro. Estas resoluciones establecerán también los formatos de entrega de la remisión de información del operador del sistema a la Dirección General de Política Energética y Minas.
+
+> Se añade el apartado 4 por el art. 15.3 del Real Decreto-ley 18/2022, de 18 de octubre. Ref. BOE-A-2022-17040#a1-7

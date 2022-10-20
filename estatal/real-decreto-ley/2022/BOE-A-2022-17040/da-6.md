@@ -1,0 +1,7 @@
+## Disposición adicional sexta. Régimen normativo especial de determinados fondos gestionados por el Servicio Español para la Internacionalización de la Educación (SEPIE) para el ejercicio presupuestario 2022.
+
+1. La gestión de los fondos del Programa Erasmus+ de la Comisión Europea que gestione el Servicio Español para la Internacionalización de la Educación (SEPIE) en el presente ejercicio se regirá por las normas comunitarias aplicables, en concreto por el Reglamento (UE) 2021/817 del Parlamento Europeo y del Consejo de 20 de mayo de 2021, por el que se establece Erasmus+, el Programa de la Unión para la educación y la formación, la juventud y el deporte, y se deroga el Reglamento (UE) n.º 1288/2013, por la Convocatoria de Propuestas Anual del programa Erasmus+ y por la Guía anual del Programa Erasmus+.
+
+Según lo establecido por la Guía del Programa Erasmus+, la acreditación de la condición de no estar incurso en alguna de las causas de exclusión recogidas en los artículos 136 a 141 del Reglamento Financiero de la Unión se realizará mediante declaración responsable presentada por el interesado en el momento de la solicitud.
+
+2. Si el Gobierno cofinancia dicho programa, el montante total se gestionará de forma unitaria y se le aplicará el régimen normativo del apartado anterior. La declaración responsable del apartado anterior servirá como justificante para obtener la condición de beneficiario de la cofinanciación nacional del programa y para el pago de las cantidades otorgadas.
