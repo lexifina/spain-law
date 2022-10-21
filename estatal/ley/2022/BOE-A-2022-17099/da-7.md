@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Disolución de asociaciones.
+
+En el plazo de un año a partir de la entrada en vigor de la presente ley, se promoverá la modificación de la Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de Asociación, con el objeto de incluir como causa de disolución de las asociaciones la realización pública de apología del franquismo que ensalce el golpe de Estado y la dictadura o enaltezcan a sus dirigentes, con menosprecio y humillación de la dignidad de las víctimas del golpe de Estado, de la guerra o del franquismo, o incitación directa o indirecta al odio o violencia contra las mismas por su condición de tales.
