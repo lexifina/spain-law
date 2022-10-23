@@ -2,37 +2,17 @@
 
 ## Zonas de vacunación voluntaria
 
-Parte A: Zona de vacunación voluntaria frente al serotipo 1 del virus de la lengua azul
+Parte A: Zona de vacunación voluntaria frente al serotipo 1 del virus de la lengua azul.
 
-Se considerará zona de vacunación voluntaria frente al serotipo 1 del virus de la lengua azul los siguientes territorios:
+Parte B: Zona de vacunación voluntaria frente al serotipo 4 del virus de la lengua azul.
 
-1. En la Comunidad Autónoma de Andalucía:
-
-a) En la provincia de Huelva: la comarca veterinaria de Aracena (Sierra Oriental) y la comarca de Cortegana (Sierra Occidental).
-
-b) La provincia de Jaén.
-
-c) En la provincia de Sevilla: la comarca veterinaria de Cazalla de la Sierra (Sierra Norte).
-
-d) En la provincia de Córdoba: las comarcas veterinarias de Baena, Guadajoz y Campiña Este, Hinojosa del Duque (Pedroches II), Lucena (Subbética), Montilla (Campiña Sur), Montoro (Alto Guadalquivir), Peñarroya-Pueblonuevo (Valle del Guaditato), Pozoblanco (Pedroches I) y Villanueva de Córdoba (Pedroches III).
-
-2. En la Comunidad Autónoma de Extremadura:
-
-La provincia de Badajoz.
-
-3. En la Comunidad Autónoma de Castilla-La Mancha:
-
-En la provincia de Ciudad Real: las comarcas veterinarias de Almadén, Almodóvar del Campo y Piedrabuena.
-
-Parte B: Zona de vacunación voluntaria frente al serotipo 4 del virus de la lengua azul
-
-Se considerará zona de vacunación voluntaria frente al serotipos 4 del virus de la lengua azul los siguientes territorios:
+Se considerará zona de vacunación voluntaria frente al serotipo 4 del virus de la lengua azul los siguientes territorios:
 
 1. En la Comunidad Autónoma de Aragón:
 
 a) En la provincia de Zaragoza: las comarcas veterinarias de Ejea de los Caballeros, Sos del Rey Católico y Zuera, y los municipios de la provincia pertenecientes a la comarca veterinaria de Jaca.
 
-b) En la provincia de Huesca: las comarcas veterinarias de Ayerbe, Barbastro, Binéfar, Boltaña, Castejón de Sos, Grañén, Graus, Huesca, Jaca, Monzón, Sabiñanigo, Sariñena y Tamarite de Litera.
+b) En la provincia de Huesca: las comarcas veterinarias de Ayerbe, Barbastro, Binéfar, Boltaña, Castejón de Sos, Grañén, Graus, Huesca, Jaca, Monzón, Sabiñánigo, Sariñena y Tamarite de Litera.
 
 2. En la Comunidad Autónoma de Cataluña:
 
@@ -46,25 +26,23 @@ c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Riba
 
 4. La Comunidad Autónoma del País Vasco.
 
-5. En la Comunidad Autónoma de Andalucía:
+5. En la Comunidad Autónoma de Castilla-La Mancha:
 
-a) En la provincia de Huelva: la comarca veterinaria de Aracena (Sierra Oriental) y la comarca de Cortegana (Sierra Occidental).
-
-b) La provincia de Jaén.
-
-c) En la provincia de Sevilla: la comarca veterinaria de Cazalla de la Sierra (Sierra Norte).
-
-d) En la provincia de Córdoba: las comarcas veterinarias de Baena, Guadajoz y Campiña Este, Hinojosa del Duque (Pedroches II), Lucena (Subbética), Montilla (Campiña Sur), Montoro (Alto Guadalquivir), Peñarroya-Pueblonuevo (Valle del Guaditato), Pozoblanco (Pedroches I) y Villanueva de Córdoba (Pedroches III).
-
-6. La Comunidad Autónoma de Extremadura.
-
-7. En la Comunidad Autónoma de Castilla-La Mancha:
-
-a) Las provincias de Ciudad Real y Toledo.
+a) La provincia de Toledo.
 
 b) En la provincia de Albacete: las comarcas veterinarias de Alcaraz, Balazote, Elche de la Sierra, Villarrobledo y Yeste.
 
-Parte C: Zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul
+c) En la provincia de Ciudad Real: las comarcas de Malagón, Manzanares, Tomelloso, Calzada de Calatrava, Valdepeñas y Villanueva de los Infantes.
+
+6. En la Comunidad de Castilla y León:
+
+a) En la provincia de Salamanca: las comarcas de Vitigudino, Ledesma, Salamanca, Alba de Tormes, Guijuelo y Béjar.
+
+b) En la provincia de Zamora: la comarca de Bermillo de Sayago.
+
+c) En la provincia de Ávila: las comarcas de El Barco de Ávila, Candeleda, Arenas de San Pedro, Sotillo de la Adrada, El Barraco, Navaluenga, Piedrahíta, Navarredonda de Gredos y Ávila.
+
+Parte C: Zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul.
 
 Se considerará zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul los siguientes territorios:
 
@@ -90,8 +68,10 @@ b) Los siguientes municipios de la comarca veterinaria de Estella: Abáigar, Abe
 
 c) Los siguientes municipios de la comarca veterinaria de Sangüesa: Aibar/Oibar, Cáseda, Eslava, Ezprogui, Gallipienzo/Galipentzu, Javier, Leache/Leatxe, Lerga, Liédana, Petilla de Aragón, Sada, Sangüesa/Zangoza y Yesa.
 
-4. En la Comunidad Autónoma del País Vasco.
+4. En la Comunidad Autónoma del País Vasco:
 
-a) En la provincia de Araba/Álava: Alegría-Dulantzi, Amurrio, Añana, Armiñón, Arraia-Maeztu, Arratzua-Ubarrundia, Artziniega, Asparrena, Ayala/Aiara, Baños de Ebro/Mañueta, Barrundia, Berantevilla, Bernedo, Campezo/Kanpezu, Elburgo/Burgelu, Elciego, Elvillar/Bilar, Erriberabeitia, Erriberagoitia/Ribera Alta, Harana/Valle de Arana, Iruña Koa/Iruña de Oca, Iruraiz-Gauna, Kripan, Kuartango, Labastida/Bastida, Lagrán, Laguardia, Lanciego/Lantziego, Lantarón, Lapuebla de Labarca, Laudio/Llodio, Legutio, Leza, Moreda de Álava/Moreda Araba, Navaridas, Okondo, Oyón-Oion, Peñacerrada-Urizaharra, Salvatierra/Agurain, Samaniego, San Millán/Donemiliaga, Urkabustaiz, Valdegovía/Gaubea, Villanueva de Álava/Eskuernaga, Vitoria-Gasteiz, Yécora/Iekora, Zalduondo, Zambrana, Zigoitia y Zuia.
+En la provincia de Araba/Álava: Alegría-Dulantzi, Amurrio, Añana, Armiñón, Arraia Maeztu, Arratzua-Ubarrundia, Artziniega, Asparrena, Ayala/Aiara, Baños de Ebro/Mañueta, Barrundia, Berantevilla, Bernedo, Campezo/Kanpezu, Elburgo/Burgelu, Elciego, Elvillar/Bilar, Erriberabeitia, Erriberagoitia/Ribera Alta, Harana/Valle de Arana, Iruña Koa/Iruña de Oca, Iruraiz-Gauna, Kripan, Kuartango, Labastida/Bastida, Lagrán, Laguardia, Lanciego/ Lantziego, Lantarón, Lapuebla de Labarca, Laudio/Llodio, Legutio, Leza, Moreda de Álava/Moreda Araba, Navaridas, Okondo, Oyón-Oion, Peñacerrada-Urizaharra, Salvatierra/ Agurain, Samaniego, San Millán/Donemiliaga, Urkabustaiz, Valdegovía/Gaubea, Villanueva de Álava/Eskuernaga, Vitoria-Gasteiz, Yécora/Iekora, Zalduondo, Zambrana, Zigoitia y Zuia.
+
+> Se modifica por Resolucion de 21 de octubre de 2022. Ref. BOE-A-2022-17309
 
 > Se modifica por Resolución de 22 de febrero de 2021. Ref. BOE-A-2021-3290
