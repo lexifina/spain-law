@@ -50,6 +50,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional sexta](da-6.md)
 - [Disposición adicional séptima](da-7.md)
 - [Disposición transitoria primera](dt.md)
+- [Disposición transitoria segunda](dt-2.md)
 - [Disposición transitoria tercera](dt-3.md)
 - [Disposición transitoria cuarta](dt-4.md)
 - [Disposición derogatoria única](dd.md)
