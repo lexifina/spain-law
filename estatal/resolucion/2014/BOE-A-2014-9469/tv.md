@@ -1,3 +1,5 @@
 ## TÍTULO V
 
 ## Operatoria contable
+
+> Se suprime por el art. 2.14 de la Resolución de 11 de octubre de 2022. Ref. BOE-A-2022-17978#as

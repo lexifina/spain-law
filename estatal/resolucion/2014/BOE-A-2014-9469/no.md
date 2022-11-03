@@ -1,0 +1,1 @@
+Téngase en cuenta que esta Instrucción pasa a denominarse «Instrucción de gestión contable para las entidades que integran el sistema de la Seguridad Social», según establece el art. 2.1 de la Resolución de 11 de octubre de 2022. Ref. BOE-A-2022-17978#as

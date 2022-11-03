@@ -48,10 +48,10 @@ Entidades Gestoras y Tesorería General de la Seguridad Social
 | 38 | Prestaciones del síndrome tóxico. |
 | 39 | Plan de pensiones. |
 | 40 | Devoluciones de ingresos. |
-| 41 | IT, maternidad, paternidad, riesgo durante la lactancia natural y riesgo durante el embarazo-Cuenta propia menos de 12 meses. Pago directo. |
-| 42 | IT y maternidad, paternidad, riesgo durante la lactancia natural y riesgo durante el embarazo-Cuenta ajena menos de 12 meses. Pago directo. |
-| 43 | IT – Cuenta propia más de 12 meses. Pago directo. |
-| 44 | IT-Cuenta ajena más de 12 meses. Pago directo. |
+| 41 | Pago subsidios. |
+| 42 | (Suprimido) |
+| 43 | (Suprimido) |
+| 44 | (Suprimido) |
 | 45 | Pago de prestación de servicios según convenio. |
 | 46 | Pago delegado por incapacidad temporal. |
 | 47 | Pagos a justificar. |
@@ -76,6 +76,8 @@ Entidades Gestoras y Tesorería General de la Seguridad Social
 | 66 | Transferencias al Tesoro. Subastas de liquidez. |
 | 67 | Pago telemático presupuestario por relación de perceptores. |
 | 68 | Pago telemático presupuestario a juzgados. |
+| 69 | Pago telemático devolución de ingresos por relación de perceptores. |
+| 70 | Pago telemático devolución de ingresos a juzgados. |
 | 80 | Devolución de ingresos. Operaciones no presupuestarias. |
 | 81 | Seguro Escolar. Pago a clínicas y profesionales sanitarios. |
 | 84 | Gastos compartidos. Operaciones no presupuestarias. |
@@ -186,5 +188,7 @@ Tipos de reintegro
 | 22 | Compensación de prestaciones por pagos superpuestos. Presupuestos cerrados. |
 | 23 | Reintegro de pagos indebidos de prestaciones. Presupuestos cerrados. |
 | 99 | Otros. |
+
+> Se modifica en relación con los tipos de pagos de las entidades gestoras y Tesorería General de la Seguridad Social, por el art. 2.15 de la Resolución de 11 de octubre de 2022. Ref. BOE-A-2022-17978#as
 
 > Se modifica por el art. 1.21 de la Resolución de 14 de diciembre de 2018. Ref. BOE-A-2018-17774.
