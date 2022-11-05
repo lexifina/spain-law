@@ -1,0 +1,5 @@
+## Disposición adicional primera. Aplicación de la normativa del Régimen de Clases Pasivas y del Régimen General de la Seguridad Social.
+
+1. Cuando las consecuencias del accidente en acto de servicio o como consecuencia de él o de la enfermedad profesional sean el fallecimiento o la jubilación por incapacidad permanente para el servicio del o de la mutualista afectado o afectada, se aplicará la normativa vigente para el Régimen de Clases Pasivas o del Régimen General de la Seguridad Social, en función del régimen al que esté adscrito el o la mutualista a efectos de jubilación.
+
+2. Asimismo, el expediente de averiguación de causas, a que se refiere el capítulo II de la presente orden, en ningún caso sustituirá, ni vinculará en sus efectos respecto al reconocimiento de los derechos pasivos o las prestaciones de Seguridad Social que pudieran corresponder, según resulte procedente en el ámbito de cobertura del Régimen de Clases Pasivas o del Régimen General de la Seguridad Social, en función del régimen al que esté adscrito o adscrita el o la mutualista a efectos de jubilación.
