@@ -30,9 +30,13 @@ b) En la provincia de Granada: la comarca veterinaria de Motril (Costa de Granad
 
 a) En la provincia de Ciudad Real, las comarcas de Almadén, Almodóvar del Campo y Piedrabuena.
 
-b) En la provincia de Toledo, las comarcas de Oropesa, Belvis de la Jara, Talavera de la Reina, Los Navalmorales, Gálvez y Torrijos.
+b) En la provincia de Toledo, las comarcas de Oropesa, Belvis de la Jara, Talavera de la Reina, Los Navalmorales, Gálvez, Toledo y Torrijos.
 
-5. En la Comunidad Autónoma de Castilla y León: en la provincia de Salamanca, las comarcas de Ciudad Rodrigo, Lumbrales, La Fuente de San Esteban, Tamames y Sequeros.
+5. En la Comunidad Autónoma de Castilla y León:
+
+a) En la provincia de Salamanca, las comarcas de Béjar, Guijuelo, Ciudad Rodrigo, Lumbrales, La Fuente de San Esteban, Tamames y Sequeros.
+
+b) En la provincia de Ávila, las comarcas de Candeleda, El Barco de Ávila, Piedrahíta, Navarredonda de Gredos, Arenas de San Pedro, Navaluenga, El Barraco, Sotillo de la Adrada y Cebreros.
 
 Parte C: Zona restringida frente al serotipo 8 del virus de la lengua azul.
 
@@ -51,6 +55,8 @@ b) En la provincia de Araba/Álava: el municipio de Aramaio.
 a) En la provincia de Huesca: las comarcas veterinarias de Boltaña, Jaca y Sabiñánigo; el siguiente municipio de la comarca veterinaria de Ayerbe: Las Peñas de Riglos; los siguientes municipios de la comarca veterinaria de Huesca: Arguis, Casbas de Huesca, Ibieca, Igriés, Loporzano, Nueno y Siétamo; los siguientes municipios de la comarca veterinaria de Barbastro: Abiego, Adahuesca, Alquézar, Bierge, Colungo y Naval; los siguientes municipios de la comarca veterinaria de Castejón de Sos: Castejón de Sos, Chía, Sahún, Seira, Sesué y Villanova; y los siguientes municipios de la comarca veterinaria de Graus: Campo, Foradada y Valle de Bardají.
 
 b) En la provincia de Zaragoza: los municipios de la provincia pertenecientes a la comarca veterinaria de Jaca.
+
+> Se modifica la parte B por Resolución de 4 de noviembre de 2022. Ref. BOE-A-2022-18399
 
 > Se modifica la parte B por Resolución de 27 de octubre de 2022. Ref. BOE-A-2022-17953
 

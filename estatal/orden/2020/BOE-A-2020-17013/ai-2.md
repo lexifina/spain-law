@@ -28,7 +28,7 @@ c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Riba
 
 5. En la Comunidad Autónoma de Castilla-La Mancha:
 
-a) En la provincia de Toledo: las comarcas de Toledo, Mora, Ocaña, Madridejos y Quintanar de la Orden.
+a) En la provincia de Toledo: las comarcas de Mora, Ocaña, Madridejos y Quintanar de la Orden.
 
 b) En la provincia de Albacete: las comarcas veterinarias de Alcaraz, Balazote, Elche de la Sierra, Villarrobledo y Yeste.
 
@@ -36,11 +36,11 @@ c) En la provincia de Ciudad Real, las comarcas de Malagón, Manzanares, Tomello
 
 6. En la Comunidad de Castilla y León:
 
-a) En la provincia de Salamanca, las comarcas de Vitigudino, Ledesma, Salamanca, Alba de Tormes, Guijuelo y Béjar.
+a) En la provincia de Salamanca, las comarcas de Vitigudino, Ledesma, Salamanca, Peñaranda de Bracamonte y Alba de Tormes.
 
 b) En la provincia de Zamora, la comarca de Bermillo de Sayago.
 
-c) En la provincia de Ávila, las comarcas de El Barco de Ávila, Candeleda, Arenas de San Pedro, Sotillo de la Adrada, El Barraco, Navaluenga, Piedrahíta, Navarredonda de Gredos y Ávila.
+c) En la provincia de Ávila, las comarcas de Ávila y San Pedro del Arroyo.
 
 Parte C. Zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul.
 
@@ -66,9 +66,11 @@ a) Las comarcas veterinarias de Tafalla y Tudela.
 
 b) Los siguientes municipios de la comarca veterinaria de Estella: Abáigar, Aberin, Aguilar de Codés, Allo, Ancín/Antzin, Aras, Los Arcos, Arellano, Armañanzas, Arróniz, Ayegui/Aiegi, Azuelo, Barbarín, Bargota, El Busto, Cabredo, Desojo, Dicastillo, Espronceda, Estella-Lizarra, Etayo, Genevilla, Igúzquiza, Lana, Lapoblación, Lazagurría, Legaria, Lerín, Luquin, Marañón, Mendavia, Mendaza, Metauten, Mirafuentes, Morentín, Mues, Murieta, Nazar, Oco, Olejua, Oteiza, Piedramillera, Sansol, Sesma, Solada, Torralba del Río, Torres del Río, Viana, Villamayor de Monjardín, Villatuerta y Zúñiga. c) Los siguientes municipios de la comarca veterinaria de Sangüesa: Aibar/Oibar, Cáseda, Eslava, Ezprogui, Gallipienzo/Galipentzu, Javier, Leache/Leatxe, Lerga, Liédana, Petilla de Aragón, Sada, Sangüesa/Zangoza y Yesa.
 
-4. En la Comunidad Autónoma del País Vasco.
+4. En la Comunidad Autónoma del País Vasco:
 
 a) En la provincia de Araba/Álava: Alegría-Dulantzi, Amurrio, Añana, Armiñón, Arraia Maeztu, Arratzua-Ubarrundia, Artziniega, Asparrena, Ayala/Aiara, Baños de Ebro/Mañueta, Barrundia, Berantevilla, Bernedo, Campezo/Kanpezu, Elburgo/Burgelu, Elciego, Elvillar/Bilar, Erriberabeitia, Erriberagoitia/Ribera Alta, Harana/Valle de Arana, Iruña Koa/Iruña de Oca, Iruraiz-Gauna, Kripan, Kuartango, Labastida/Bastida, Lagrán, Laguardia, Lanciego/ Lantziego, Lantarón, Lapuebla de Labarca, Laudio/Llodio, Legutio, Leza, Moreda de Álava/Moreda Araba, Navaridas, Okondo, Oyón-Oion, Peñacerrada-Urizaharra, Salvatierra/ Agurain, Samaniego, San Millán/Donemiliaga, Urkabustaiz, Valdegovía/Gaubea, Villanueva de Álava/Eskuernaga, Vitoria-Gasteiz, Yécora/Iekora, Zalduondo, Zambrana, Zigoitia y Zuia.
+
+> Se modifica la parte B por Resolución de 4 de noviembre de 2022. Ref. BOE-A-2022-18399
 
 > Se modifica la parte B por Resolución de 27 de octubre de 2022. Ref. BOE-A-2022-17953
 
