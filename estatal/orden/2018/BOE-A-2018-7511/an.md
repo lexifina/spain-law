@@ -107,3 +107,7 @@ En este epígrafe se indicará si el personal ha recibido la formación adecuada
 Se describirán todas aquellas circunstancias que la empresa estime oportunas con el fin de clarificar o explicar el contenido del informe y aquellas, que por no estar incluidas en los distintos epígrafes, sean necesarias para la correcta relación de las actividades realizadas por la empresa a lo largo del año del informe.
 
 El informe irá fechado y firmado digitalmente por la persona que se hace responsable del mismo en representación de la empresa afectada.
+
+En relación con la actividad de expedición, se cumplimentarán aquellos apartados del informe que le son de aplicación de acuerdo con lo establecido en la normativa vigente.
+
+> Se añade un párrafo al final por el art.1.3 de la Orden TMA/1078/2022, de 28 de octubre. Ref. BOE-A-2022-18554
