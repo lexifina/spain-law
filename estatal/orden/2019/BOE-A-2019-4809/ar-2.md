@@ -4,7 +4,7 @@
 
 a) En relación con las subvenciones destinadas a la financiación de actividades formativas dirigidas a la capacitación para el desarrollo de las funciones relacionadas con el diálogo social de ámbito estatal y la negociación colectiva:
 
-1.º Las organizaciones sindicales que participan en dicho ámbito, en los términos establecidos en el artículo 6 de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, así como las fundaciones u otras entidades constituidas por aquéllas para la consecución de cualesquiera de esos fines.
+1.º Las organizaciones sindicales que participan en dicho ámbito, en los términos establecidos en los artículos 6 y 7.1 de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical, y en el artículo 87.4 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, así como las fundaciones u otras entidades constituidas por aquéllas para la consecución de cualesquiera de esos fines.
 
 2.º Las asociaciones empresariales que participan en dicho ámbito, en los términos establecidos en la disposición adicional sexta del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, así como las fundaciones u otras entidades constituidas por aquéllas para la consecución de cualesquiera de esos fines.
 
@@ -17,3 +17,5 @@ Las organizaciones sindicales y asociaciones empresariales de ámbito estatal qu
 3. En el caso de que el solicitante sea una fundación u otra entidad constituida por una organización sindical o asociación empresarial, sustituirá a esta última a todos los efectos previstos en esta orden.
 
 4. No podrán obtener la condición de beneficiarios de las subvenciones las entidades y organizaciones en quienes concurra alguna de las circunstancias previstas en los apartados 2 y 3 del artículo 13 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+> Se modifica el punto 1º del apartado 1.a) por el art. único.1 de la Orden TES/1079/2022, de 10 de noviembre. Ref. BOE-A-2022-18577
