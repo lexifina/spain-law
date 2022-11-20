@@ -34,6 +34,8 @@ Los grandes ejes se codifican con dos dígitos a los que se agregan tres dígito
 
 16-Olmedo-Medina-Zamora-Ourense-Santiago de Compostela.
 
+> Téngase en cuenta que las referencias hechas a la denominación de la estación de ferrocarril de "Madrid-Puerta de Atocha", deben entenderse realizadas a la estación "Madrid-Puerta de Atocha-Almudena Grandes", según establece el apartado primero de la Orden TMA/1108/2022, de 11 de noviembre. Ref. BOE-A-2022-19086
+
 2. Redes portuarias y sus accesos.
 
 Se incluyen las redes situadas en el interior de los puertos así como los tramos de acceso exteriores a las mismas pero que cumplen únicamente con esa función.
