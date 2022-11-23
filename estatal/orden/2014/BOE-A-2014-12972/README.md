@@ -20,6 +20,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 7](a7.md)
 - [Artículo 8](a8.md)
 - [Disposición final primera](df.md)
+- [Disposición transitoria única](dt.md)
 - [Disposición final segunda](df-2.md)
 - [Disposición final tercera](df-3.md)
 - [Disposición final cuarta](df-4.md)
