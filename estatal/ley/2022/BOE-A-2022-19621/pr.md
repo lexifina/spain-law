@@ -1,0 +1,25 @@
+FELIPE VI
+
+REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley:
+
+Preámbulo
+
+La Ley 21/2021, de 28 de diciembre, de garantía del poder adquisitivo de las pensiones y de otras medidas de refuerzo de la sostenibilidad financiera y social del sistema público de pensiones, en la modificación que efectúa en la Ley General de la Seguridad Social, texto refundido aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre (en adelante, LGSS), reconoce el cómputo del servicio social femenino obligatorio, con el límite de un año, a los efectos de acreditar el período mínimo de cotización efectiva exigido para acceder a la jubilación anticipada por causa no imputable a la persona trabajadora y a la jubilación anticipada por voluntad de la persona interesada (artículos 207.1, letra c) y 208.1, letra b), respectivamente, LGSS).
+
+Con dicho reconocimiento se otorga al servicio social femenino los mismos efectos que la LGSS ya establece para la prestación del servicio militar obligatorio y para la prestación social sustitutoria en el acceso a la jubilación anticipada.
+
+Asimismo, con dicha modificación se recoge en la letra de la Ley lo ya resuelto por vía jurisprudencial. Al respecto, se recuerda que la Sala de lo Social del Tribunal Supremo, en STS 338/2020, de 6 de febrero, dictada en recurso de casación para unificación de doctrina, ya reconoció el cómputo de los días de prestación del servicio social de la mujer a efectos de completar el período mínimo de cotización para acceder a la pensión de jubilación anticipada. Y se corrige el grave quebranto que para las mujeres apartadas de este beneficio suponía el tener que pleitear contra el Instituto Nacional de la Seguridad Social para conseguirlo, no siempre con éxito, lo que infligía el principio de seguridad jurídica consagrado en el artículo 9.3 de nuestro texto constitucional.
+
+No obstante, este avance legislativo en lo que se refiere a la jubilación anticipada en relación con el principio de igualdad de trato entre hombres y mujeres no encuentra correspondencia en el artículo 215.2, letra d), de la LGSS, que continúa sin contemplar el tiempo del servicio social femenino en el cómputo de los años requeridos para el acceso a la jubilación parcial, cuando sí recoge el tiempo de prestación del servicio militar o prestación social sustitutoria, circunstancia que sitúa a las mujeres en peor derecho que a los hombres para el acceso a esta pensión.
+
+Es cierto, como señala la STS 338/2020, que una lectura compatible de los artículos de la LGSS reseñados con el principio de no discriminación por razón de sexo recogido en el artículo 14 de la Constitución, del que dimana el principio de igualdad de trato y de oportunidades entre mujeres y hombres que informa e integra la interpretación y aplicación de las normas jurídicas (artículo 4 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres), debiera haber llevado a la consideración de que el tiempo de prestación del servicio social de la mujer es equiparable al tiempo del servicio militar o de la prestación social sustitutoria realizado por los hombres a efectos del cómputo para el acceso a las pensiones, pero no es menos cierto, que no ha operado con la misma finalidad protectora, y ello, aunque concurren en dichas prestaciones las mismas notas de «período de trabajo activo prestado al Estado, en beneficio y por orden de éste, excluido legalmente de cotización» (Fj 2 STS 338/2020).
+
+Ha sido esta falta de operatividad la que ha llevado a la Ley 21/2021, anteriormente recogida, a la necesidad de modificar los artículos referidos a la jubilación anticipada para otorgar al servicio social femenino los mismos efectos que a la prestación del servicio militar obligatorio o la prestación social sustitutoria, eliminado litispendencia.
+
+Sin lugar a duda, la razón de que este reconocimiento de efectos del tiempo del servicio social femenino no se recoja en la acreditación de los años para el acceso a la jubilación parcial se encuentra en que la reforma llevada a cabo por la Ley 21/2021 no tiene por objeto la modificación de esta, y sí de la jubilación anticipada.
+
+Por ello, en cumplimiento del amplio elenco de normas nacionales e internacionales que obligan a la igualdad de trato entre mujeres y hombres, así como a la vista de la Recomendación 17 del comúnmente conocido «Pacto de Toledo», recientemente aprobada, referida a «Mujer y Seguridad Social», que conmina a la adopción de medidas estructurales para conseguir la equiparación de la cobertura por pensiones entre mujeres y hombres, así como a hacer efectivo el principio de transversalidad en la elaboración de cualquier norma o política al objeto de evitar el impacto de género negativo, la presente ley otorga al tiempo de prestación del servicio social femenino los mismos efectos en el acceso a la jubilación parcial que en el acceso a la jubilación anticipada.
