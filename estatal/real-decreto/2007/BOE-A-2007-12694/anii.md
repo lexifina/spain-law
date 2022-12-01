@@ -42,4 +42,4 @@ l) Indicación sobre si el movimiento tiene carácter de trashumancia (sí/no).
 
 Los datos reflejados en los puntos 3.f) y 3.h) no deberán indicarse en caso de que el movimiento lo realice el ganado sin utilizar un medio de transporte motorizado.
 
-El dato reflejado en el punto 3.h) no deberá indicarse en el caso de transporte de animales en distancias inferiores a 50 km.
+> Se deroga la última frase «El dato reflejado en el apartado 3.h) no deberá indicarse en el caso de transportes de animales en distancias inferiores a 50 km» por la disposición derogatoria única.b) del Real Decreto 990/2022, de 29 de noviembre. Ref. BOE-A-2022-19912#dd

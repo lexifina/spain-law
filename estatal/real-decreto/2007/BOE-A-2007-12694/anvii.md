@@ -28,12 +28,6 @@ a) El código REMO del movimiento establecido en el artículo 8, al menos en los
 
 b) Fecha de salida y hora de salida prevista, y fecha y hora previstas de llegada.
 
-> Téngase en cuenta que esta actualización del apartado 3.b) establecida por la disposición final 2 del Real Decreto 542/2016, de 25 de noviembre. Ref. BOE-A-2016-11708#df-2. entra en vigor el 9 de febrero de 2017, según determina su disposición final 4.
-
-> Redacción anterior:
-
-> b) Fecha de salida.
-
 c) Especie.
 
 d) Número de animales establecido, en su caso, por categorías según las normativas sectoriales.
@@ -58,6 +52,6 @@ b) En su caso, conformidad del titular de la explotación de destino indicando l
 
 Los datos reflejados en los puntos 3.f) y 3.h) no deberán indicarse en caso de que el movimiento lo realice el ganado sin utilizar un medio de transporte motorizado.
 
-El dato reflejado en el punto 3.h) no deberá indicarse en el caso de transportes de animales en distancias inferiores a 50 km.
+> Se deroga la última frase «El dato reflejado en el apartado 3.h) no deberá indicarse en el caso de transportes de animales en distancias inferiores a 50 km» por la disposición derogatoria única.b) del Real Decreto 990/2022, de 29 de noviembre. Ref. BOE-A-2022-19912#dd
 
 > Se modifica el apartado 3.b) por la disposición final 2 del Real Decreto 542/2016, de 25 de noviembre. Ref. BOE-A-2016-11708#df-2.
