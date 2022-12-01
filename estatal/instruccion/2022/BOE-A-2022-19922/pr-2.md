@@ -1,0 +1,3 @@
+## Primero.
+
+La presentación de avales por agrupaciones de electores en elecciones municipales exigida por el artículo 187.3 de la LOREG podrá realizarse mediante un procedimiento de firma electrónica de los que tenga reconocidos como válidos el ayuntamiento ante el cual corresponda a su secretario realizar la autenticación de firmas prevista en dicho precepto. Este procedimiento de firma electrónica deberá permitir acreditar la autenticidad de la expresión de la voluntad del interesado, conforme exige el artículo 10.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
