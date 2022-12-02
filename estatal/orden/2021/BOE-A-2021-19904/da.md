@@ -7,3 +7,5 @@
 El rendimiento neto de módulos, así calculado, se tendrá en cuenta para la aplicación de lo dispuesto en la instrucción 3 para la aplicación de los signos, índices o módulos en el Impuesto sobre la Renta de las Personas Físicas del anexo I de esta Orden.
 
 3. Esta reducción se tendrá en cuenta para cuantificar el rendimiento neto a efectos de los pagos fraccionados correspondientes a 2022.
+
+> Téngase en cuenta que la reducción prevista en esta disposición será del 15 por 100 para cuantificar el rendimiento neto a efectos del pago fraccionado correspondientes al cuarto trimestre de 2022, según establece la disposición adicional 8 de la Orden HFP/1172/2022, de 29 de noviembre. Ref. BOE-A-2022-20025#da-8

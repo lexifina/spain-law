@@ -291,3 +291,5 @@ Si el resultado de la última declaración-liquidación del ejercicio fuera nega
 6. La declaración-liquidación correspondiente al último trimestre del año natural deberá presentarse durante los treinta primeros días naturales del mes de enero.
 
 7. La liquidación de las cuotas correspondientes a las operaciones indicadas en el apartado uno.B del artículo 123 de la Ley del Impuesto y la deducción de las cuotas soportadas o satisfechas por la adquisición o importación de activos fijos se efectuará en la forma indicada en el anexo III, número 4 de esta Orden ministerial.
+
+> Téngase en cuenta la disposición adicional 7 de la Orden HFP/1172/2022, de 29 de noviembre, en cuanto a las medidas excepcionales en el Impuesto sobre la Renta de las Personas Físicas para paliar el efecto producido por el precio de los insumos de explotación en las actividades agrícolas y ganaderas el año 2022. Ref. BOE-A-2022-20025#da-7
