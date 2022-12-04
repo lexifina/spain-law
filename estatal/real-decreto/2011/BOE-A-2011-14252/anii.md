@@ -432,6 +432,7 @@ Valores límites específicos para sustancias químicas utilizadas en juguetes d
 
 | Sustancia | No CAS | Valor límite |
 | --- | --- | --- |
+| Anilina. | 62-53-3 | 30 mg/kg después de realizar una fragmentación reductora en el material textil de los juguetes y en el material de cuero de los juguetes. 10 mg/kg como anilina libre en pinturas de dedos. 30 mg/kg después de realizar una fragmentación reductora en pintura de dedos. |
 | TCEP. | 115-96-8. | 5 mg/kg (límite de contenido). |
 | TCPP. | 13674-84-5. | 5 mg/kg (límite de contenido). |
 | TDCP. | 13674-87-8. | 5 mg/kg (límite de contenido). |
@@ -443,6 +444,12 @@ Valores límites específicos para sustancias químicas utilizadas en juguetes d
 | 2-metilisotiazolin-3(2H)-ona | 2682-20-4 | 0,25 mg/kg (límite de contenido) en materiales acuosos de juguetes. |
 | Fenol | 108-95-2 | 5 mg/l (límite de migración) en materiales poliméricos, con arreglo a los métodos definidos en las normas EN 71-10:2005 y EN 71-11:2005. 10 mg/kg (límite de contenido) como conservante, con arreglo a los métodos definidos en las normas EN 71-10:2005 y EN 71-11:2005. |
 | Formaldehído | 50-00-0 | 1,5 mg/l (límite de migración) en materiales poliméricos en juguetes. 0,1 ml/m3 (límite de emisión) en materiales de madera ligada con resina para la fabricación de juguetes. 30 mg/kg (límite de contenido) en materiales textiles en juguetes. 30 mg/kg (límite de contenido) en materiales de cuero en juguetes. 30 mg/kg (límite de contenido) en materiales de papel en juguetes. 10 mg/kg (límite de contenido) en materiales de base acuosa en juguetes. |
+
+> Téngase en cuenta que la sustancia "Anilina" añadida al apéndice C por el art. único de la Orden PCM/1048/2022, de 1 de noviembre. Ref. BOE-A-2022-18041, entra en vigor el 4 diciembre de 2002, según establece su disposición final segunda.
+
+> Se añade la sustancia "Anilina" al apéndice C por el art. único de la Orden PCM/1048/2022, de 1 de noviembre. Ref. BOE-A-2022-18041
+
+> Téngase en cuenta que esta modificación entra en vigor el 4 de diciembre de 2022, según determina la disposición final 2 de la citada Orden.
 
 > Se modifican los cuadros de los párrafos primero y tercero del punto 11 de la parte III, con efectos de 5 de julio de 2022, por el art. único de la Orden PCM/544/2022, de 15 de junio. Ref. BOE-A-2022-9984
 
