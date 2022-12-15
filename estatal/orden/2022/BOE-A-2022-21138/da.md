@@ -1,0 +1,3 @@
+## Disposición adicional única. Liquidación del régimen retributivo específico.
+
+La Comisión Nacional de los Mercados y la Competencia, como organismo encargado de las liquidaciones y con el fin de adaptar la retribución del régimen retributivo específico a la modificación de los parámetros retributivos establecidos en esta orden, procederá a liquidar las cantidades resultantes a cada una de las instalaciones afectadas por dicha modificación según lo dispuesto en el artículo 5.6 del Real Decreto-ley 6/2022, de 29 de marzo, por el que se adoptan medidas urgentes en el marco del Plan Nacional de respuesta a las consecuencias económicas y sociales de la guerra en Ucrania.
