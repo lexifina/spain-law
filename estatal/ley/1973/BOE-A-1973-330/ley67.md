@@ -1,12 +1,10 @@
-## Ley 67.
-
-Ejercicio de la responsabilidad parental.
+## Ley 67. Ejercicio de la responsabilidad parental.
 
 a) Regla general. Los deberes y facultades inherentes a la responsabilidad parental y todas las decisiones derivadas de los mismos se ejercerán y adoptarán por los progenitores según lo convenido y, en defecto de pacto, por ambos conjuntamente o por uno solo de ellos con el consentimiento expreso o tácito del otro.
 
 Serán, sin embargo, válidos los actos que cualquiera de ellos realice por sí solo para atender a las necesidades ordinarias de los hijos, según las circunstancias familiares y el uso del lugar o en situaciones que exijan una urgente solución.
 
-b) Atribución legal del ejercicio individual. Sin perjuicio de otros supuestos previstos en las leyes civiles o penales, en los casos de declaración de ausencia o de modificación judicial de la capacidad de uno de los progenitores, la responsabilidad parental será ejercida por el otro, salvo que la sentencia sobre capacidad establezca otra cosa en interés de los hijos.
+b) Atribución legal del ejercicio individual. Sin perjuicio de otros supuestos previstos en las leyes civiles o penales, en los casos en que uno de los progenitores tuviere establecidas medidas de apoyo representativo o de que hubiere sido declarado ausente, la responsabilidad parental será ejercida por el otro.
 
 c) Atribución judicial del ejercicio individual. Cada progenitor podrá solicitar la intervención judicial:
 
@@ -19,6 +17,8 @@ c) Atribución judicial del ejercicio individual. Cada progenitor podrá solicit
 Los procedimientos judiciales previstos en este apartado se sustanciarán por los trámites de la Jurisdicción Voluntaria.
 
 d) Mediación. En los procedimientos iniciados por motivo de desacuerdos, los progenitores pueden someter sus discrepancias a mediación.
+
+> Se modifica por la disposición final 1.1 de la Ley Foral 31/2022, de 28 de noviembre. Ref. BOE-A-2022-22470#df
 
 > Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 

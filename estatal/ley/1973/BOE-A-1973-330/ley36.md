@@ -1,6 +1,6 @@
-## Ley 36.
+## Ley 36. Interrupción de la prescripción.
 
-Interrupción de la prescripción. La prescripción se interrumpe por la interposición de la demanda, la presentación de una solicitud de conciliación, el inicio del procedimiento arbitral, la reclamación extrajudicial y el reconocimiento expreso o implícito del derecho o de la obligación.
+La prescripción se interrumpe por la interposición de la demanda, la presentación de una solicitud de conciliación, el inicio del procedimiento arbitral, la reclamación extrajudicial y el reconocimiento expreso o implícito del derecho o de la obligación.
 
 Suspensión. El cómputo de los plazos de prescripción quedará suspendido en los siguientes supuestos:
 
@@ -10,13 +10,17 @@ Suspensión. El cómputo de los plazos de prescripción quedará suspendido en l
 
 3. Durante la tramitación de las reclamaciones administrativas previas cuando estas sean preceptivas.
 
-4. En las pretensiones de las que sean titulares personas menores de edad o con la capacidad modificada judicialmente, mientras no dispongan de representación legal o de asistencia para complementar su capacidad.
+4. En las pretensiones de las que sean titulares personas menores de edad, mientras no dispongan de representación legal.
 
-5. Por la constancia formal del inicio de un proceso de mediación.
+5. En las pretensiones de las que sean titulares personas con discapacidad que tengan establecidas medidas de apoyo para el ejercicio de su capacidad jurídica, mientras no dispongan de la representación o del apoyo para complementar su capacidad previstos en dichas medidas.
 
-6. En las pretensiones que se tengan frente a un patrimonio hereditario del que se desconozcan sus herederos, mientras no haya sido designado defensor judicial.
+6. Por la constancia formal del inicio de un proceso de mediación.
 
-7. Por razones de fuerza mayor.
+7. En las pretensiones que se tengan frente a un patrimonio hereditario del que se desconozcan sus herederos, mientras no haya sido designado defensor judicial.
+
+8. Por razones de fuerza mayor.
+
+> Se modifica por la disposición final 1.1 de la Ley Foral 31/2022, de 28 de noviembre. Ref. BOE-A-2022-22470#df
 
 > Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 

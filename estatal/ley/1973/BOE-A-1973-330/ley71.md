@@ -1,6 +1,6 @@
-## Ley 71.
+## Ley 71. Guarda y custodia.
 
-Guarda y custodia. Cuando cualquiera de los progenitores solicite la decisión del juez sobre el ejercicio de la guarda y cuidado diario de los hijos menores, aquel podrá acordar la modalidad de guarda más conveniente para el concreto interés de cada uno de los menores, ya sea esta compartida entre ambos progenitores o individual de uno de ellos.
+Cuando cualquiera de los progenitores solicite la decisión del juez sobre el ejercicio de la guarda y cuidado diario de los hijos menores, aquel podrá acordar la modalidad de guarda más conveniente para el concreto interés de cada uno de los menores, ya sea esta compartida entre ambos progenitores o individual de uno de ellos.
 
 Para ello, tendrá en cuenta la solicitud y las propuestas de planificación de la responsabilidad parental que haya presentado cada uno de los progenitores y, en su caso, lo dictaminado por los informes periciales; oirá al Ministerio Fiscal y a las personas cuya opinión sobre los menores estime necesario recabar; y atenderá a los siguientes factores:
 
@@ -22,7 +22,7 @@ Para ello, tendrá en cuenta la solicitud y las propuestas de planificación de 
 
 9. Cualquier otra circunstancia de especial relevancia para el régimen de convivencia.
 
-En cualquier caso, la decisión buscará conciliar, siempre que sea posible, todos los intereses, considerando como prioritarios los de los hijos menores o cuya capacidad haya sido judicialmente modificada, asegurando la igualdad de los progenitores en sus relaciones con los hijos en todo lo que sea beneficioso para estos y fomentando la corresponsabilidad.
+En cualquier caso, la decisión buscará conciliar, siempre que sea posible, todos los intereses, considerando como prioritarios los de los hijos menores asegurando la igualdad de los progenitores en sus relaciones con los hijos en todo lo que sea beneficioso para estos y fomentando la corresponsabilidad.
 
 Si decide la custodia compartida, el juez fijará un régimen de convivencia de cada uno de los progenitores con los hijos, adaptado a las circunstancias de la situación familiar, que garantice a ambos progenitores el ejercicio de sus derechos y obligaciones en situación de equidad.
 
@@ -47,6 +47,8 @@ Guarda a favor de terceros. Excepcionalmente, el juez podrá establecer que la g
 En la resolución por la que se acuerde dicha guarda, el juez instará la constitución del acogimiento, tutela o medida de protección del menor que, en cada caso, corresponda, si bien podrá establecer las facultades y deberes de la responsabilidad parental que, sin perjuicio de tales medidas, considere procedente que mantengan los progenitores.
 
 Visitas de los menores con otras personas. En la misma resolución en la que se acuerden las medidas sobre la responsabilidad parental, el juez podrá, a petición de cualquiera de los progenitores o del Ministerio Fiscal, establecer el sistema de comunicación, visitas y contactos de los menores con otros familiares y allegados y, en particular, con los hermanos y abuelos, cuando ello sea beneficioso para ellos, y previa audiencia de dichas personas.
+
+> Se modifica por la disposición final 1.1 de la Ley Foral 31/2022, de 28 de noviembre. Ref. BOE-A-2022-22470
 
 > Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 

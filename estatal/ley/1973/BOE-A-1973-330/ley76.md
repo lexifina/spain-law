@@ -1,16 +1,12 @@
-## Ley 76.
+## Ley 76. Defensor judicial.
 
-Prórroga. La responsabilidad parental sobre los hijos menores cuya capacidad hubiese sido modificada quedará prorrogada por ministerio de la ley al llegar aquellos a su mayoría de edad, sin perjuicio de lo que establezca la sentencia sobre su capacidad.
+Cuando hubiere intereses contrapuestos entre los progenitores y los hijos bajo su responsabilidad, se requerirá la intervención de defensor judicial.
 
-Rehabilitación. La responsabilidad parental se podrá rehabilitar sobre los hijos mayores de edad o emancipados cuando su capacidad hubiera sido modificada mientras permanezcan bajo la convivencia de sus progenitores, con el contenido y límites que establezca la resolución sobre su capacidad y salvo que el juez considere más beneficioso para su interés la constitución de otra medida de apoyo a favor de otras personas.
+Si la contraposición de intereses existiera solo con uno de los progenitores, corresponde al otro la representación del hijo sin necesidad de nombramiento judicial.
 
-Extinción de la responsabilidad parental prorrogada o rehabilitada. Además de las causas recogidas en la ley anterior, la responsabilidad parental prorrogada o rehabilitada se extinguirá:
+El juez nombrará defensor, con las facultades que señale, a alguna de las personas a quienes en su caso podría corresponder el ejercicio de la tutela.
 
-1. Por la resolución judicial que declare la cesación de la causa que motivó la modificación de la capacidad del hijo.
-
-2. Por la constitución posterior de la tutela a favor de otras personas.
-
-3. Por la aprobación judicial de la extinción solicitada por los progenitores cuando su situación personal o social impidan su cumplimiento adecuado a las necesidades específicas del hijo.
+> Se modifica por la disposición final 1.1 de la Ley Foral 31/2022, de 28 de noviembre. Ref. BOE-A-2022-22470#df
 
 > Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 

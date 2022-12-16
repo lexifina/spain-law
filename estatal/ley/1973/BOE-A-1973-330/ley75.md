@@ -1,6 +1,6 @@
-## Ley 75.
+## Ley 75. Suspensión.
 
-Suspensión. Sin perjuicio de los supuestos previstos en las leyes civiles o penales, la titularidad de la responsabilidad parental, o de alguna de sus facultades, podrá ser suspendida en los supuestos de ausencia, imposibilidad o modificación de la capacidad, quedando a salvo las facultades parentales cuyo mantenimiento sea declarado procedente por el juez.
+Sin perjuicio de los supuestos previstos en las leyes civiles o penales, la titularidad de la responsabilidad parental, o de alguna de sus facultades, podrá ser suspendida en los supuestos de ausencia, imposibilidad o en que esté así previsto en las medidas de apoyo para el ejercicio de la capacidad establecidas, quedando a salvo las facultades parentales cuyo mantenimiento sea declarado procedente por el juez.
 
 Cuando cese la causa que motivó la suspensión, el juez podrá establecer las limitaciones a su ejercicio que exija el interés del hijo.
 
@@ -16,7 +16,7 @@ Extinción. La responsabilidad parental sobre los hijos se extingue:
 
 2. Por la emancipación o la mayoría de edad del hijo.
 
-3. Por la adopción del hijo, en relación con su progenitores anteriores salvo si permanece el vínculo con alguno de ellos.
+3. Por la adopción del hijo, en relación con sus progenitores anteriores salvo si permanece el vínculo con alguno de ellos.
 
 Con la extinción de la responsabilidad parental cesan sus efectos en el orden personal y patrimonial del hijo y podrá ser solicitada la rendición de cuentas y, en su caso, el resarcimiento de los daños y perjuicios conforme a lo establecido en la ley 66.
 
@@ -24,11 +24,7 @@ Renacimiento. Renacerá la responsabilidad parental sobre el hijo declarado fall
 
 En caso de reaparición del progenitor declarado fallecido, la recuperación de su responsabilidad parental tendrá lugar si resulta beneficiosa para los hijos, pudiendo el juez, motivadamente, limitar las facultades sobre las que recaiga.
 
-Defensor judicial. Cuando hubiere intereses contrapuestos entre los progenitores y los hijos bajo su responsabilidad, se requerirá la intervención de defensor judicial.
-
-Si la contraposición de intereses existiera solo con uno de los progenitores, corresponde al otro la representación del hijo sin necesidad de nombramiento judicial.
-
-El juez nombrará defensor, con las facultades que señale, a alguna de las personas a quienes en su caso podría corresponder el ejercicio de la tutela.
+> Se modifica por la disposición final 1.1 de la Ley Foral 31/2022, de 28 de noviembre. Ref. BOE-A-2022-22470#df
 
 > Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 

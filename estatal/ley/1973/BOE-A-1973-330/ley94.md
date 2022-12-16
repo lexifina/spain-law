@@ -1,6 +1,6 @@
-## Ley 94.
+## Ley 94. Administración y disposición.
 
-Administración y disposición. La administración y disposición de bienes de conquista se regirá por lo pactado en capitulaciones matrimoniales o en escritura pública.
+La administración y disposición de bienes de conquista se regirá por lo pactado en capitulaciones matrimoniales o en escritura pública.
 
 En defecto de pacto corresponderá a ambos cónyuges conjuntamente, sin perjuicio de lo establecido en los apartados siguientes:
 
@@ -12,11 +12,13 @@ En defecto de pacto corresponderá a ambos cónyuges conjuntamente, sin perjuici
 
 No será necesaria la asistencia a que se refiere el párrafo anterior si solo uno de los cónyuges es menor, bastando en tal caso el consentimiento de ambos.
 
-4. La administración y disposición se transferirán por ministerio de la ley al tutor o representante legal del cónyuge que tenga modificada su capacidad de obrar.
+4. La administración y disposición que corresponde al cónyuge que precise de apoyos para el ejercicio de su capacidad jurídica se realizará conforme a lo previsto en las medidas de apoyo establecidas.
 
 5. No podrá suplirse el consentimiento de ninguno de los cónyuges para actos de enajenación o gravamen a título lucrativo de bienes de conquista. Sin embargo, ambos cónyuges podrán por sí solos hacer donaciones moderadas conforme a la posición de la familia y los usos sociales.
 
-6. Por actos “mortis causa” cada uno de los cónyuges puede disponer de sus respectivos bienes privativos y de la parte que a la disolución de la sociedad conyugal le corresponda en los bienes de conquista. Cuando se disponga de bienes determinados que sean de conquista se observará lo que para el legado se establece en la ley 251.
+6. Por actos «mortis causa» cada uno de los cónyuges puede disponer de sus respectivos bienes privativos y de la parte que a la disolución de la sociedad conyugal le corresponda en los bienes de conquista. Cuando se disponga de bienes determinados que sean de conquista se observará lo que para el legado se establece en la ley 251.
+
+> Se modifica por la disposición final 1.1 de la Ley Foral 31/2022, de 28 de noviembre. Ref. BOE-A-2022-22470#df
 
 > Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 

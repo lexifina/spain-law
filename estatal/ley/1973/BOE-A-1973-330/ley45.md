@@ -1,10 +1,10 @@
 ## Ley 45.
 
-c) Administración. Las personas designadas como administradoras en la escritura de constitución deberán realizar su gestión conforme a lo previsto en la misma y con la diligencia necesaria para conservar los bienes en el estado en que mantengan o incrementen su productividad.
+c) Administración. Las personas designadas como administradoras en la escritura de constitución deberán realizar su gestión conforme a lo previsto en la misma, respetando los derechos, deseos, voluntad y preferencias del beneficiario y las salvaguardas necesarias para evitar abusos, así como con la diligencia necesaria para conservar los bienes en el estado en que mantengan o incrementen su productividad, todo ello sin perjuicio de las condiciones establecidas en la constitución o aportaciones por terceros por dichos terceros.
 
 Podrá contraer obligaciones a cargo del patrimonio y ostentará la legitimación procesal para la defensa de sus intereses.
 
-En todo lo no previsto en la escritura de su constitución serán de aplicación las normas de la tutela.
+En todo lo no previsto en la escritura de su constitución serán de aplicación las previsiones de las medidas voluntarias o, en su defecto, las normas de la curatela.
 
 d) Control y rendición de cuentas. Sin perjuicio de las medidas de control establecidas en la escritura de constitución, las personas designadas para la administración deben rendir anualmente cuentas ante la persona designada en la escritura además de ante el beneficiario o sus representantes legales.
 
@@ -13,6 +13,8 @@ e) Extinción y liquidación. Tendrá lugar la extinción del patrimonio protegi
 La extinción del patrimonio comportará su liquidación a cargo del administrador salvo que hubiera sido designada otra persona con tal función en el título de su constitución, la cual, deberá dar al remanente el destino previsto en la misma.
 
 Cuando se haya dispuesto que el destino de los bienes revierta a los herederos del constituyente, en su defecto, los adquirirá la Comunidad Foral de Navarra, que los aplicará a fines de protección de personas con discapacidad o dependencia.
+
+> Se modifica por la disposición final 1.1 de la Ley Foral 31/2022, de 28 de noviembre. Ref. BOE-A-2022-22470#df
 
 > Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 

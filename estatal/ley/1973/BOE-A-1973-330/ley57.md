@@ -1,8 +1,6 @@
-## Ley 57.
+## Ley 57. Acciones de declaración.
 
-Acciones de declaración.
-
-a) Acción de declaración de la filiación matrimonial
+a) Acción de declaración de la filiación matrimonial.
 
 El padre, la madre y el hijo pueden reclamar la filiación matrimonial de este en cualquier tiempo. Si hubiese posesión de estado, pueden ejercitar la acción los terceros con interés lícito y directo.
 
@@ -10,9 +8,9 @@ b) Acción de declaración de la filiación no matrimonial.
 
 La acción de declaración de la filiación no matrimonial podrá ser ejercitada:
 
-1. Por los hijos, durante toda su vida. Cuando sean menores de edad o tengan su capacidad modificada judicialmente la acción corresponderá a su representante legal y al Ministerio Fiscal.
+1. Por los hijos, durante toda su vida. En los supuestos previstos en la ley 55 letra d), se estará a lo que establece dicho precepto.
 
-En el caso de que hubiesen fallecido durante su menor edad o con la capacidad judicialmente modificada podrá ser ejercitada por sus descendientes.
+Esta acción podrá ser ejercitada por los descendientes del hijo si este hubiera fallecido durante su menor edad o durante el tiempo en que dispuso de una medida de apoyo representativa.
 
 2. Por los progenitores, en el plazo de un año desde que se hubiera tenido conocimiento de la posible paternidad o maternidad o razonablemente se hubiera podido tenerlo.
 
@@ -23,6 +21,8 @@ En tales supuestos, el plazo para el ejercicio de la acción se suspenderá en e
 La sentencia estimatoria de la acción de declaración determinará la filiación, pero podrá, en interés del hijo o de sus descendientes, limitar sus efectos conforme a lo dispuesto en la ley 52.
 
 3. Por aquellas personas que tengan un interés lícito y directo, siempre que hubiese posesión de estado, y en cualquier tiempo.
+
+> Se modifica por la disposición final 1.1 de la Ley Foral 31/2022, de 28 de noviembre. Ref. BOE-A-2022-22470#df
 
 > Se modifica por el art. 2 de la Ley Foral 21/2019, de 4 de abril. Ref. BOE-A-2019-8512
 
