@@ -24,7 +24,7 @@ f) la protección del medio ambiente.
 
 4. La cuantía del posible retraso acumulado en el mantenimiento y los activos que se irán eliminando gradualmente y que, por ello, generarán diferentes flujos financieros.
 
-5. Los incentivos previstos para reducir los costes de puesta a disposición de la infraestructura o la cuantía de los cánones.
+5. Los incentivos previstos para reducir los costes de puesta a disposición de la infraestructura y la cuantía de los cánones.
 
 6. Las obligaciones mínimas de presentación de informes por parte del administrador de infraestructuras en cuanto a contenido y frecuencia de los informes, incluida la información que debe publicarse anualmente.
 
@@ -33,3 +33,5 @@ f) la protección del medio ambiente.
 8. Las normas para tratar las perturbaciones importantes de la explotación y las situaciones de emergencia, incluidos los planes de contingencia y rescisión anticipada del acuerdo contractual, y sobre la puntual información a los usuarios.
 
 9. Las medidas correctivas que deben tomarse si una de las partes incumple sus obligaciones contractuales o en circunstancias excepcionales que afecten a la disponibilidad de financiación pública; se incluyen aquí las condiciones y procedimientos para la renegociación y la rescisión anticipada.
+
+> Se modifica el apartado 5 por el art. 1.73 de la Ley 26/2022, de 19 de diciembre. Ref. BOE-A-2022-21574#ap
