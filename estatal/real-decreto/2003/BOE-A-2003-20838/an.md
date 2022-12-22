@@ -1,3 +1,0 @@
-## ANEXO
-
-## Condiciones especiales
