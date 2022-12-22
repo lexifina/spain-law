@@ -16,4 +16,8 @@ e) Ovejas y cabras: 0,10 UGM.
 
 f) Corderos, cabritos y cochinillos < de 15 kg de peso vivo: 0,05 UGM.
 
-g) Aves y lagomorfos: 0,0065 UGM.
+g) Lagomorfos: 0,0065 UGM.
+
+h) Aves: según lo establecido en el anexo I del Real Decreto 637/2021, de 27 de julio, por el que se establecen las normas básicas de ordenación de las granjas avícolas.
+
+> Se modifica por la disposición final 2.14 del Real Decreto 1021/2022, de 13 de diciembre. Ref. BOE-A-2022-21681#df-2

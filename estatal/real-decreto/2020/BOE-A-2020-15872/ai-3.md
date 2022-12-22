@@ -10,7 +10,7 @@
 
 – Lechones.
 
-2. Conejos de engorde.
+2. Conejos.
 
 3. Aves de corral domésticas que se ajusten a alguna de las siguientes condiciones:
 
@@ -27,3 +27,5 @@
 4. Pavo, pato, pintada, oca, faisán, perdiz, codorniz y paloma.
 
 5. Aves y lagomorfos de caza silvestre.
+
+> Se modifica el apartado 2 por la disposición final 2.15 del Real Decreto 1021/2022, de 13 de diciembre. Ref. BOE-A-2022-21681#df-2
