@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Servicios de dosimetría personal de radón.
+
+Durante el periodo de un año, a partir de la entrada en vigor de este reglamento, podrán ejercer como servicios de dosimetría personal de radón aquellos laboratorios acreditados según la UNE-EN ISO/IEC 17025:2017, Requisitos generales para la competencia de los laboratorios de ensayo y calibración, o revisión posterior, para la medida de radón con trazas, que hayan presentado ante el Consejo de Seguridad Nuclear la solicitud de autorización como servicio de dosimetría personal adjuntando la correspondiente documentación técnica.
