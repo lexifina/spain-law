@@ -1,3 +1,0 @@
-## CAPÍTULO ÚNICO
-
-## Régimen sancionador
