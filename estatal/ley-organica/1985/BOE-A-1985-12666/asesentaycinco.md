@@ -6,7 +6,7 @@ La Sala de lo Penal de la Audiencia Nacional conocerá:
 
 a) Delitos contra el titular de la Corona, su Consorte, su Sucesor, altos organismos de la Nación y forma de Gobierno.
 
-b) Falsificación de moneda y fabricación de tarjetas de crédito y débito falsas y cheques de viajero falsos, siempre que sean cometidos por organizaciones o grupos criminales.
+b) Falsificación de moneda y fabricación de tarjetas de crédito y débito falsas y cheques de viajero falsos o cualquier otro instrumento de pago distinto del efectivo, siempre que sean cometidos por organizaciones o grupos criminales.
 
 c) Defraudaciones y maquinaciones para alterar el precio de las cosas que produzcan o puedan producir grave repercusión en la seguridad del tráfico mercantil, en la economía nacional o perjuicio patrimonial en una generalidad de personas en el territorio de más de una Audiencia.
 
@@ -15,6 +15,8 @@ d) Tráfico de drogas o estupefacientes, fraudes alimentarios y de sustancias fa
 e) Delitos cometidos fuera del territorio nacional, cuando conforme a las leyes o a los tratados corresponda su enjuiciamiento a los Tribunales españoles.
 
 f) Delitos atribuidos a la Fiscalía Europea en los artículos 22 y 25 del Reglamento (UE) 2017/1939 del Consejo, de 12 de octubre de 2017, cuando aquella hubiera decidido ejercer su competencia.
+
+g) Delitos de contrabando de material de defensa, de otros materiales y de productos y tecnología de doble uso.
 
 En todo caso, la Sala de lo penal de la Audiencia Nacional extenderá su competencia al conocimiento de los delitos conexos con todos los anteriormente reseñados.
 
@@ -31,6 +33,10 @@ En todo caso, la Sala de lo penal de la Audiencia Nacional extenderá su compete
 7.º De los procedimientos de decomiso autónomo por los delitos para cuyo conocimiento sean competentes.
 
 8.º De cualquier otro asunto que le atribuyan las leyes.
+
+> Se modifica la letra b) y se añade la g) por la disposición final 1.1 de la Ley Orgánica 14/2022, de 22 de diciembre. Ref. BOE-A-2022-21800#df
+
+> Téngase en cuenta que esta modificación entra en vigor el día de su publicación, según establece la disposición final sexta de la citada Ley Orgánica.
 
 > Se añade la letra f) al número 1 y se modifica el 5 por la disposición final 2.4 de la Ley Orgánica 9/2021, de 1 de julio. Ref. BOE-A-2021-10957#df-2
 
