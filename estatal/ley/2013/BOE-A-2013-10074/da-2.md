@@ -32,8 +32,10 @@ f) Que, en su caso, el extranjero se encuentra regularmente en territorio españ
 
 5. En aquellos supuestos en los que el extranjero queda vinculado con la entidad de acogida mediante un contrato de trabajo en prácticas, no se aplicará la situación nacional de empleo. Sin perjuicio de someterse a la regulación propia del trabajo en prácticas, este contrato deberá contener, al menos, el contenido previsto en este artículo para el convenio.
 
-6. El período de validez de esta autorización de residencia para prácticas será de seis meses o igual a la duración del convenio de prácticas, de ser esta inferior. Esta autorización podrá ser renovada, por una sola vez, no pudiendo exceder de un año el periodo total de la autorización inicial y de su prórroga. En el caso de que se trate de un contrato de trabajo en prácticas, la duración será la prevista en el mismo regida por la legislación laboral aplicable en cada momento.
+6. El período de validez de esta autorización de residencia para prácticas será de doce meses o igual a la duración del convenio de prácticas, de ser inferior. Esta autorización podrá ser renovada, por una sola vez, no pudiendo exceder de dos años el período total de la autorización inicial y de su prórroga. En el caso de que se trate de un contrato de trabajo en prácticas, la duración será la prevista en el mismo y regida por la legislación laboral aplicable en cada momento.
 
 7. Los extranjeros que hubieran obtenido una autorización de residencia de conformidad con la presente disposición, podrán solicitar la tarjeta de identidad de extranjero.
+
+> Se modifica el apartado 6 por la disposición final 5.11 de la Ley 28/2022, de 21 de diciembre. Ref. BOE-A-2022-21739#df-5
 
 > Se añade por el art. 3.5 del Real Decreto-ley 11/2018, de 31 de agosto. Ref. BOE-A-2018-12131#at
