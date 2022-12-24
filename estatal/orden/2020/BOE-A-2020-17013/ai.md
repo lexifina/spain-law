@@ -22,39 +22,29 @@ a) Provincias de Cádiz, Huelva, Sevilla, Málaga, Córdoba y Jaén.
 
 b) En la provincia de Granada: la comarca veterinaria de Motril (Costa de Granada).
 
-2. La Comunidad Autónoma de Islas Baleares.
+2) La Comunidad Autónoma de Islas Baleares.
 
-3. La Comunidad Autónoma de Extremadura.
+3) La Comunidad Autónoma de Extremadura.
 
-4. En la Comunidad Autónoma de Castilla-La Mancha:
+4) En la Comunidad Autónoma de Castilla-La Mancha:
 
 a) En la provincia de Ciudad Real, las comarcas de Almadén, Almodóvar del Campo y Piedrabuena.
 
 b) En la provincia de Toledo, las comarcas de Oropesa, Belvis de la Jara, Talavera de la Reina, Los Navalmorales, Gálvez, Toledo y Torrijos.
 
-5. En la Comunidad Autónoma de Castilla y León:
+5) En la Comunidad Autónoma de Castilla y León:
 
-a) En la provincia de Salamanca, las comarcas de Béjar, Guijuelo, Ciudad Rodrigo, Lumbrales, La Fuente de San Esteban, Tamames y Sequeros.
+a) La provincia de Salamanca.
 
-b) En la provincia de Ávila, las comarcas de Candeleda, El Barco de Ávila, Piedrahíta, Navarredonda de Gredos, Arenas de San Pedro, Navaluenga, El Barraco, Sotillo de la Adrada y Cebreros.
+b) En la provincia de Ávila, las comarcas de Candeleda, El Barco de Ávila, Piedrahíta, Navarredonda de Gredos, Arenas de San Pedro, Navaluenga, El Barraco, Sotillo de la Adrada, Ávila, San Pedro del Arroyo y Cebreros.
+
+c) En la provincia de Zamora, la comarca de Bermillo de Sayago.
+
+6) En la Comunidad Autónoma de Madrid, las comarcas de Valdeiglesias y Navalcarnero.
 
 Parte C: Zona restringida frente al serotipo 8 del virus de la lengua azul.
 
-Se considerará zona restringida frente al serotipo 8 del virus de la lengua azul, los siguientes territorios:
-
-1. En la Comunidad Foral de Navarra: Las comarcas veterinarias de Elizondo, Izurzun, Ochagavia, Pamplona, Santesteban, los siguientes municipios de la comarca veterinaria de Estella: Guesálaz, Lezaun, Valle de Yerri, Cirauqui, Mañeru, Artazu, Guirguillano, Salinas de Oro, Abárzuza, Allín, Améscoa Baja, Larraona, Aranarache y Eulate, y los siguientes municipios de la comarca veterinaria de Sangüesa: Oroz-Betelu, Izagaondoa, Lumbier, Urraul Alto, Urraul Bajo, Romanzado, Lónguida, Aoiz, Erro, Arce, Esteribar, Luzaide- Valcarlos, Auritz-Burguete, Orreaga Roncesvalles.
-
-2. En la Comunidad Autónoma de País Vasco:
-
-a) Las provincias de Bizkaia y Gipuzkoa.
-
-b) En la provincia de Araba/Álava: el municipio de Aramaio.
-
-3. En la Comunidad Autónoma de Aragón:
-
-a) En la provincia de Huesca: las comarcas veterinarias de Boltaña, Jaca y Sabiñánigo; el siguiente municipio de la comarca veterinaria de Ayerbe: Las Peñas de Riglos; los siguientes municipios de la comarca veterinaria de Huesca: Arguis, Casbas de Huesca, Ibieca, Igriés, Loporzano, Nueno y Siétamo; los siguientes municipios de la comarca veterinaria de Barbastro: Abiego, Adahuesca, Alquézar, Bierge, Colungo y Naval; los siguientes municipios de la comarca veterinaria de Castejón de Sos: Castejón de Sos, Chía, Sahún, Seira, Sesué y Villanova; y los siguientes municipios de la comarca veterinaria de Graus: Campo, Foradada y Valle de Bardají.
-
-b) En la provincia de Zaragoza: los municipios de la provincia pertenecientes a la comarca veterinaria de Jaca.
+> Se modifican las partes B y C por Resolución de 16 de diciembre de 2022. Ref. BOE-A-2022-22096
 
 > Se modifica la parte B por Resolución de 4 de noviembre de 2022. Ref. BOE-A-2022-18399
 
