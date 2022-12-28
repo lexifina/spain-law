@@ -1,1 +1,1 @@
-Esta norma continúa vigente en cuanto no se oponga a lo dispuesto en el Reglamento de la Ley 10/2010, de 28 de abril, aprobado por Real Decreto 304/2014, de 5 de mayo, según establece su disposición derogatoria única. Ref. BOE-A-2014-4742#ddunica.
+Norma derogada, con efectos de 28 de diciembre de 2022, por la disposición derogatoria única de la Orden ETD/1217/2022, de 29 de noviembre. Ref. BOE-A-2022-20714#dd
