@@ -81,6 +81,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria sexta](dt-6.md)
 - [Disposición transitoria séptima](dt-7.md)
 - [Disposición transitoria octava](dt-8.md)
+- [Disposición transitoria décima](dt-10.md)
 - [Disposición derogatoria única](dd.md)
 - [Disposición final primera](df.md)
 - [Disposición final segunda](df-2.md)

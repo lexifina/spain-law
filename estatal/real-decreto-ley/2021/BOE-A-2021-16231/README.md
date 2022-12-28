@@ -84,6 +84,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional segunda](da-2.md)
 - [Disposición adicional tercera](da-3.md)
 - [Disposición adicional cuarta](da-4.md)
+- [Disposición adicional quinta](da-5.md)
 - [Disposición derogatoria única](dd.md)
 - [Disposición final primera](df.md)
 - [Disposición final segunda](df-2.md)

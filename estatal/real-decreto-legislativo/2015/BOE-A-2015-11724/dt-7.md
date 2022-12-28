@@ -1,0 +1,43 @@
+## Disposición transitoria trigésima quinta [sic]. Compatibilidad de la pensión contributiva de jubilación con el trabajo de los facultativos de atención primaria médicos de familia y pediatras, adscritos al sistema nacional de salud con nombramiento estatutario o funcionario.
+
+1. En los tres años a partir de la entrada en vigor de esta disposición transitoria, los facultativos de atención primaria, médicos de familia y pediatras, adscritos al Sistema Nacional de Salud con nombramiento estatutario o funcionario podrán continuar desempeñando sus funciones durante la prórroga en el servicio activo y, simultáneamente, acceder a la jubilación percibiendo el setenta y cinco por ciento del importe resultante en el reconocimiento inicial de la pensión, una vez aplicado, si procede, el límite máximo de pensión pública.
+
+Asimismo, podrán acceder a esta compatibilidad los facultativos de atención primaria adscritos al sistema nacional de salud con nombramiento estatutario o funcionario que hubieran accedido a la pensión contributiva de jubilación y se reincorporen al servicio activo, siempre que el hecho causante de dicha pensión haya tenido lugar a partir del 1 de enero de 2022 o se hubieren acogido en su día a la compatibilidad de la pensión de jubilación con el nombramiento como personal estatutario o funcionario de las y los profesionales sanitarios, realizado al amparo del Real Decreto-ley 8/2021, de 4 de mayo, por el que se adoptan medidas urgentes en el orden sanitario, social y jurisdiccional, a aplicar tras la finalización de la vigencia del estado de alarma declarado por el Real Decreto 926/2020, de 25 de octubre, por el que se declara el estado de alarma para contener la propagación de infecciones causadas por el SARS-CoV-2.
+
+2. La compatibilidad prevista en la presente disposición transitoria exigirá el cumplimiento de los siguientes requisitos:
+
+a) El acceso a la pensión deberá haber tenido lugar una vez cumplida la edad que en cada caso resulte de aplicación, según lo establecido en el artículo 205.1.a) del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 8/2015, sin que, a tales efectos, sean admisibles jubilaciones acogidas a bonificaciones o anticipaciones de la edad de jubilación que pudieran ser de aplicación al interesado.
+
+Lo previsto en el párrafo anterior no será de aplicación a los facultativos médicos que se hubieren acogido en su día a la compatibilidad de la pensión de jubilación con el nombramiento como personal estatutario o funcionario de las y los profesionales sanitarios, realizado al amparo del Real Decreto-ley 8/2021, de 4 de mayo.
+
+b) La compatibilidad se aplicará en caso de jornada a tiempo completo, así como en caso de jornada parcial siempre que la reducción de jornada sea, en todo caso, del cincuenta por ciento respecto de la jornada de un trabajador a tiempo completo comparable.
+
+c) El beneficiario tendrá derecho a los complementos para pensiones inferiores a la mínima durante el tiempo en el que compatibilice la pensión con sus funciones, siempre que reúna los requisitos establecidos para ello.
+
+d) La percepción del complemento por demora de la pensión de jubilación es compatible con el acceso a la compatibilidad prevista en la presente disposición transitoria, sin que su importe sea minorado.
+
+e) No podrá acogerse a esta modalidad de compatibilidad el beneficiario de una pensión contributiva de jubilación de la Seguridad Social que, además de desarrollar las funciones como facultativos médicos de atención primaria, realice cualquier otro trabajo por cuenta ajena o por cuenta propia que dé lugar a su inclusión en el campo de aplicación del Régimen General o de alguno de los regímenes especiales de la Seguridad Social.
+
+3. El beneficiario tendrá la consideración de pensionista a todos los efectos.
+
+4. Durante la realización del trabajo compatible con la pensión de jubilación, se aplicarán las obligaciones de afiliación, alta, baja y variación de datos prevista en el artículo 16 del texto refundido de la Ley General de la Seguridad Social y la obligación de cotizar en los términos de los artículos 18 y 19 del mismo texto legal, no siendo de aplicación lo dispuesto en su artículo 153.
+
+5. Sin perjuicio de lo previsto en el apartado 6, durante la realización del trabajo compatible estarán protegidos frente a todas las contingencias comunes y profesionales, siempre que reúnan los requisitos necesarios para causarlas, siendo de aplicación el régimen de limitación de las pensiones, incompatibilidades y el ejercicio del derecho de opción, previstos en el texto refundido de la Ley General de la Seguridad Social.
+
+No se requerirá periodo mínimo de cotización para acceder al subsidio por incapacidad temporal derivada de enfermedad común.
+
+6. Si durante el periodo de compatibilización se iniciara un proceso de incapacidad temporal, en todo caso el abono de la pensión de jubilación se suspenderá el día primero del mes siguiente al de la baja médica y se reanudará el día primero del mes siguiente al del alta médica.
+
+Lo establecido en el apartado anterior se aplicará igualmente en los supuestos de recaída.
+
+En todo caso, el derecho al subsidio por incapacidad temporal se extinguirá por la finalización del trabajo compatible, además de por las causas generales previstas en la normativa vigente.
+
+7. Una vez finalizado el trabajo compatible, las cotizaciones realizadas durante esta situación podrán dar lugar a la modificación del porcentaje aplicable a la base reguladora de la pensión de jubilación, la cual permanecerá inalterable.
+
+Asimismo, las cotizaciones indicadas surtirán efectos para disminuir o, en su caso, suprimir, el coeficiente reductor que se hubiese aplicado, en el momento de causar derecho a la pensión, a aquellos facultativos médicos a los que se hace referencia en el párrafo segundo del apartado 2.a), que hubieren accedido a la jubilación anticipada.
+
+Estas cotizaciones no surtirán efecto en relación con el complemento previsto en el artículo 210.2 del texto refundido de la Ley General de la Seguridad Social y en la disposición adicional decimoséptima del texto refundido de Ley de Clases Pasivas del Estado.
+
+> Se añade por el art. 83 del Real Decreto-ley 20/2022, de 27 de diciembre. Ref. BOE-A-2022-22685#a8-5
+
+> Redactados los apartados 1 y 2 conforme a la corrección de errores publicada en BOE núm. 18, de 21 de enero de 2023. Ref. BOE-A-2023-1774

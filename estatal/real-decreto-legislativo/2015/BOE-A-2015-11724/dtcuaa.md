@@ -42,7 +42,7 @@ Será condición indispensable que los indicados acuerdos colectivos de empresa 
 
 c) No obstante, para el reconocimiento del derecho a pensión de las personas a las que se refieren los apartados anteriores, la entidad gestora aplicará la legislación que esté vigente en la fecha del hecho causante de la misma, cuando resulte más favorable a estas personas.
 
-6. Se seguirá aplicando la regulación para la modalidad de jubilación parcial con simultánea celebración de contrato de relevo, vigente con anterioridad a la entrada en vigor de la Ley 27/2011, de 1 de agosto, de actualización, adecuación y modernización del sistema de la Seguridad Social, a pensiones causadas antes del 1 de enero de 2023, siempre y cuando se acredite el cumplimiento de los siguientes requisitos:
+6. Se seguirá aplicando la regulación para la modalidad de jubilación parcial con simultánea celebración de contrato de relevo, vigente con anterioridad a la entrada en vigor de la Ley 27/2011, de 1 de agosto, de actualización, adecuación y modernización del sistema de la Seguridad Social, a pensiones causadas antes del 1 de enero de 2024, siempre y cuando se acredite el cumplimiento de los siguientes requisitos:
 
 a) Que el trabajador que solicite el acceso a la jubilación parcial realice directamente funciones que requieran esfuerzo físico o alto grado de atención en tareas de fabricación, elaboración o transformación, así como en las de montaje, puesta en funcionamiento, mantenimiento y reparación especializados de maquinaria y equipo industrial en empresas clasificadas como industria manufacturera.
 
@@ -54,9 +54,11 @@ d) Que la reducción de la jornada de trabajo del jubilado parcial se halle comp
 
 e) Que exista una correspondencia entre las bases de cotización del trabajador relevista y del jubilado parcial, de modo que la del trabajador relevista no podrá ser inferior al 65 por ciento del promedio de las bases de cotización correspondientes a los seis últimos meses del período de base reguladora de la pensión de jubilación parcial.
 
-f) Que se acredite un período de cotización de treinta y tres años en la fecha del hecho causante de la jubilación parcial, sin que a estos efectos se tenga en cuenta la parte proporcional correspondiente por pagas extraordinarias. A estos exclusivos efectos, solo se computará el período de prestación del servicio militar obligatorio o de la prestación social sustitutoria, o del servicio social femenino obligatorio, con el límite máximo de un año.
+f) Que se acredite un período de cotización de treinta y tres años en la fecha del hecho causante de la jubilación parcial, sin que a estos efectos se tenga en cuenta la parte proporcional correspondiente por pagas extraordinarias. A estos exclusivos efectos, solo se computará el período de prestación del servicio militar obligatorio o de la prestación social sustitutoria, con el límite máximo de un año.
 
 En el supuesto de personas con discapacidad en grado igual o superior al 33 por ciento, el período de cotización exigido será de veinticinco años.
+
+> Se modifica el apartado 6 por el art. 84 del Real Decreto-ley 20/2022, de 27 de diciembre. Ref. BOE-A-2022-22685#a8-6
 
 > Se modifica el apartado 6.f) por el art. único.2 de la Ley 24/2022, de 25 de noviembre de 2022. Ref. BOE-A-2022-19621#au
 
