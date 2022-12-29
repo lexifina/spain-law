@@ -32,9 +32,15 @@ n) El Impuesto Especial sobre Determinados Medios de Transporte.
 
 ñ) El Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos.
 
+o) El Impuesto sobre el depósito de residuos en vertederos, la incineración y la coincineración de residuos.
+
 El contenido de esta disposición se podrá modificar mediante acuerdo del Gobierno del Estado con el de la Generalitat, que será tramitado como Proyecto de Ley por el primero. A estos efectos, la modificación de la presente disposición no se considerará modificación del Estatuto.
 
 El alcance y condiciones de la cesión se establecerán por la Comisión Mixta a que se refiere el artículo 210 que, en todo caso, lo referirá a rendimientos en Cataluña. El Gobierno tramitará el Acuerdo de la Comisión como Proyecto de Ley.
+
+> Se modifica por el art. 1 de la Ley 16/2010, de 16 de julio, en la redacción dada por el art. único de la Ley 34/2022, de 27 de diciembre. Ref. BOE-A-2022-22680#au
+
+> Esta modificación surte efectos desde el 1 de enero de 2023, según establece la disposición final única de la citada ley.
 
 > Se modifica el párrafo primero por el art. 1 de la Ley 16/2010, de 16 de julio. Ref. BOE-A-2010-11410
 
