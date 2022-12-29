@@ -1,6 +1,8 @@
 ## Artículo 3 ter. Obligaciones específicas de los poseedores de PCB y aparatos que los contengan.
 
-1. La descontaminación o eliminación de transformadores eléctricos con concentración de PCB superior a 500 ppm, la de los restantes tipos de aparatos con concentración de PCB igual o superior a 50 ppm y la de los PCB contenidos en los mismos deberá realizarse antes del 1 de enero del año 2011; a excepción de los aparatos con volumen de PCB inferior a un decímetro cúbico, que deberán ser descontaminados o eliminados al final de su vida útil.
+1. La descontaminación o eliminación de transformadores eléctricos con concentración de PCB superior a 500 ppm, la de los restantes tipos de aparatos con concentración de PCB igual o superior a 50 ppm y la de los PCB contenidos en los mismos deberá realizarse antes del 1 de enero del año 2011; a excepción de los aparatos con volumen de PCB inferior a un decímetro cúbico.
+
+Sin perjuicio de lo establecido en el párrafo anterior, los equipos (por ejemplo, transformadores, condensadores u otros receptáculos que contengan material líquido) que contengan más de 0,005 % de PCB y un volumen superior a 0,05 dm3, deberán ser retirados del uso tan pronto como sea posible, y antes del 31 de diciembre de 2025, y posteriormente serán eliminados o descontaminados como residuos peligrosos en un plazo máximo de seis meses. En supuestos excepcionales, la comunidad autónoma competente podrá modificar este plazo por causas debidamente justificadas y siempre que se garantice la protección de la salud humana y el medio ambiente.
 
 Sin perjuicio de lo establecido en el siguiente apartado, los poseedores de aparatos con PCB deberán dar prioridad, en el orden de descontaminación o eliminación, a aquellos cuyas condiciones los hagan especialmente peligrosos, ya sea por su alto contenido en PCB como por su ubicación u otra circunstancia que implique mayor riesgo para las personas o el medio ambiente.
 
@@ -53,5 +55,7 @@ Los aparatos cuyos análisis químicos hayan revelado que su concentración real
 Los aparatos que puedan contener PCB poseídos en el año 2008, que por causas de fuerza mayor debidamente justificadas no hayan podido ser analizados durante ese año, podrán ser analizados antes del 1 de abril de 2009; en el caso de no ser analizados antes de esta fecha, deberán ser declarados como aparatos contaminados con concentración de PCB superior a 500 ppm en la declaración correspondiente al año 2009, o como aparatos eliminados o descontaminados si así lo fuesen durante dicho año.
 
 4. Las Administraciones Públicas podrán establecer medidas de fomento dirigidas a los poseedores de PCB y aparatos que los contengan, siempre que justifiquen debidamente que el ritmo de descontaminación o eliminación de los aparatos que posean supera la cadencia media contemplada en el Plan Nacional y las cuotas de eliminación establecidas en el presente real decreto.
+
+> Se modifica el apartado 1 por la disposición final 1.2 del Real Decreto 1055/2022, de 27 de diciembre. Ref. BOE-A-2022-22690#df
 
 > Se añade por el art. único.2 del Real Decreto 228/2006, de 24 de febrero. Ref. BOE-A-2006-3378.

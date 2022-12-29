@@ -1,1 +1,1 @@
-Se declara la vigencia con carácter reglamentario de los preceptos que no se opongan a la Ley 22/2011, de 28 de julio. Ref. BOE-A-2011-13046#ddunica. según establece su disposición derogatoria única.2.
+Norma derogada, con efectos de 29 de diciembre de 2022, por la disposición derogatoria única.1 del Real Decreto 1055/2022, de 27 de diciembre. Ref. BOE-A-2022-22690#dd, con rango reglamentario tras la aprobación de la Ley 22/2011, de 28 de julio. Ref. BOE-A-2011-13046
