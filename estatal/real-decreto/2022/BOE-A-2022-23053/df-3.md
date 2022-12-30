@@ -1,0 +1,5 @@
+## Disposición final tercera. Mecanismo de salvaguardia en relación con los límites nacionales de emisiones.
+
+1. Para garantizar el cumplimiento de los requisitos para la reducción de emisiones establecidos en el artículo 4.3 del Real Decreto 818/2018, de 6 de julio, el Ministerio de Agricultura, Pesca y Alimentación elaborará, anualmente, un informe sobre emisiones del sector vacuno y su evolución, sobre la base de los datos procedentes del inventario proporcionados por el Ministerio para la Transición Ecológica y el Reto Demográfico.
+
+2. Si de los datos de los informes correspondientes a los años 2025 y 2026 se derivare que puede existir un riesgo de desviación de la trayectoria lineal establecida entre los límites de emisión fijados para España para el periodo 2020-2030, el Ministerio de Agricultura, Pesca y Alimentación y el Ministerio para la Transición Ecológica y el Reto Demográfico propondrán al Consejo de Ministros la adopción, antes del 1 de junio de 2027, mediante Real Decreto, el establecimiento de medidas adicionales a las propuestas en el artículo 11 del presente real decreto.
