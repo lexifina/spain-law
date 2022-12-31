@@ -42,7 +42,7 @@ Siendo:
 
 CosteDesvíos(e,h,j): Coste de desvíos del generador e en el sistema eléctrico aislado j en la hora h.
 
-desv (e,h,j): Valor absoluto de la diferencia en la hora h entre la energía medida en barras de central del generador e del sistema eléctrico aislado j y la producción prevista comunicada para la realización del despacho diario, en esa hora para ese sistema.
+desv (e,h,j): Valor absoluto de la diferencia en la hora h entre la energía medida en barras de central del generador e del sistema eléctrico aislado j y la producción prevista comunicada para la realización del despacho diario, en esa hora para ese sistema. No se considerarán en el cálculo de los desvíos aquellas diferencias en la producción prevista que se deban a limitaciones impuestas en tiempo real por el operador del sistema.
 
 CDSV(h): Coste medio de los desvíos de las instalaciones de generación a partir de fuentes de energía renovables, cogeneración y residuos peninsular de la misma categoría establecida en el Real Decreto 413/2014, de 6 de junio que participan en el mercado de producción peninsular en la hora h.
 
@@ -56,8 +56,10 @@ Siendo:
 
 CosteDesvíos(e,h,j): Coste de desvíos del generador e en el sistema eléctrico aislado j en la hora h.
 
-desv (e,h,j): Valor absoluto de la diferencia en la hora h entre la energía medida en barras de central del generador e del sistema eléctrico aislado j y la producción prevista comunicada para la realización del despacho diario, en esa hora para ese sistema.
+desv (e,h,j): Valor absoluto de la diferencia en la hora h entre la energía medida en barras de central del generador e del sistema eléctrico aislado j y la producción prevista comunicada para la realización del despacho diario, en esa hora para ese sistema. No se considerarán en el cálculo de los desvíos aquellas diferencias en la producción prevista que se deban a limitaciones impuestas en tiempo real por el operador del sistema.
 
 CDSV(h): Coste medio peninsular de los desvíos de las instalaciones de generación a partir de fuentes de energía renovables, cogeneración y residuos de la misma categoría establecida en el Real Decreto 413/2014, de 6 de junio, que participan en el mercado de producción peninsular en la hora h.
 
 En aquellos casos en que varios grupos generadores de los definidos en este apartado de una misma categoría establecida en el Real Decreto 413/2014, de 6 de junio del sistema eléctrico aislado j participen en el despacho con el mismo sujeto de liquidación, se aplicará al coste de desvíos de cada generador un factor de corrección, calculado dividiendo el valor absoluto de la suma de los desvíos horarios de todos los grupos e del sujeto pertenecientes a la misma categoría establecida en el Real Decreto 413/2014, de 6 de junio y sistema eléctrico aislado entre la suma del valor absoluto de dichos desvíos horarios.
+
+> Se modifican los apartados 4 y 5 por la disposición final 2.3 de la Orden TED/1315/2022, de 23 de diciembre. Ref. BOE-A-2022-23752

@@ -235,6 +235,10 @@ SISTEMA ELÉCTRICO DE CEUTA Y MELILLA
 | RO2-0181 | CEUTA, GRUPO 10 | 11,8 | 6,6 | 03/07/2008 | Fueloil BIA 1% | IT-0103 | 1.286,06 | 2.511,43 | 6,13 | 15.172,71 | 2,88669 | 161,5685504 | 27,15937907 |
 | RO2-0206 | CEUTA, GRUPO 13 | 11,8 | 6,6 | 16/06/2011 | Fueloil BIA 1% | IT-0103 | 1.286,06 | 2.511,43 | 6,13 | 15.172,71 | 2,88669 | 161,5685504 | 27,13535559 |
 
+En el caso de que en una transición entre modos de operación de un ciclo combinado el coste de la misma calculado a partir de los valores A’, B’ y D de las tablas anteriores resultará un valor negativo, se tomará para dicha transición un coste de transición nulo con el objeto de no distorsionar el despacho económico.
+
+> Se añade un último párrafo por la disposición final 2.4 de la Orden TED/1315/2022, de 23 de diciembre. Ref. BOE-A-2022-23752
+
 > Se modifica por el apartado tercero, en los términos referidos en el Anexo II, de la Orden TEC/1260/2019, de 26 de diciembre. Ref. BOE-A-2019-18620
 
 > Se modifica por la disposición final 3.5 a 21 de la Orden IET/2735/2015, de 17 de diciembre. Ref. BOE-A-2015-13782
