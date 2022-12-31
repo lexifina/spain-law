@@ -8,25 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2022-12-31 by BOE-A-2022-23751. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no](no.md)
-- [(preambulo)](pr.md)
-- [Artículo único](au.md)
-- [Disposición final primera](df.md)
-- [Disposición final segunda](df-2.md)
-- [(firma)](fi.md)
-- [ANEXO](nu.md)
-- [ÍNDICE](in.md)
-- [PREÁMBULO](pr-2.md)
-- [I. INTRODUCCIÓN](i.md)
-- [II. MARCO DE REFERENCIA](i-2.md)
-- [III. PRINCIPIOS DEL PLAN ESTRATÉGICO](i-3.md)
-- [IV. PERSPECTIVA A LARGO PLAZO](i-4.md)
-- [V. DIAGNÓSTICO](v.md)
-- [VI. METAS, OBJETIVOS Y ACCIONES DEL PLAN ESTRATÉGICO](v-2.md)
-- [VII. COOPERACIÓN, COLABORACIÓN Y COORDINACIÓN ENTRE ADMINISTRACIONES](v-3.md)
-- [VIII. INTEGRACIÓN SECTORIAL](v-4.md)
-- [IX. ESTIMACIÓN DE LAS NECESIDADES PRESUPUESTARIAS](i-5.md)
-- [ANEXO I](ai.md)
-- [ANEXO II](ai-2.md)
+- [BOE publisher notice](no.md)
