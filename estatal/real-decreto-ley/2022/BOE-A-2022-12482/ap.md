@@ -62,7 +62,7 @@ Cinco. El artículo 308 queda redactado en los siguientes términos:
 
 > Para la aplicación de esta base de cotización mínima bastará con haber figurado noventa días en alta en este régimen especial, en cualquiera de los supuestos contemplados en las referidas letras, durante el período a regularizar al que se refiere la letra c).
 
-> 5.ª En los supuestos de alta de oficio en este régimen especial, durante el período comprendido entre la fecha del alta y el último día del mes natural inmediatamente anterior a la fecha de efectos del alta, así como durante el período comprendido entre el inicio de la actividad por cuenta propia y el mes en el que se solicite el alta, de formularse esta solicitud a partir del mes siguiente al del inicio de la actividad, la base de cotización mensual aplicable será la base mínima del tramo 1 de la tabla general a que se refiere la regla 1.ª, establecida en cada ejercicio, salvo que, en las altas de oficio efectuadas a propuesta de la Inspección de Trabajo y Seguridad Social, esta hubiese fijado expresamente otra base de cotización mensual superior. En los períodos indicados no resultará de aplicación el procedimiento de regularización a que se refiere el párrafo c) de este apartado 1.
+> 5.ª En los supuestos de alta de oficio en este régimen especial, así como durante el período comprendido entre el inicio de la actividad por cuenta propia y el mes en el que se solicite el alta, de formularse esta solicitud a partir del mes siguiente al del inicio de la actividad, la base de cotización mensual aplicable será la base mínima del tramo 1 de la tabla general a que se refiere la regla 1.ª, establecida en cada ejercicio. A tal efecto en el procedimiento de regularización a que se refiere el apartado c) del presente artículo, la base de cotización definitiva no podrá ser inferior a dicha base mínima durante ese período.
 
 > 6.ª Las bases de cotización mensuales elegidas dentro de cada año conforme a lo indicado en las reglas 1.ª a 5.ª tendrán carácter provisional, hasta que se proceda a su regularización en los términos del párrafo c).
 
@@ -94,13 +94,13 @@ Cinco. El artículo 308 queda redactado en los siguientes términos:
 
 > 3.ª Una vez fijado el importe de los rendimientos, se distribuirá proporcionalmente en el período a regularizar y se determinarán las bases de cotización mensuales definitivas y se procederá a regularizar la cotización provisional mensual efectuada por cada persona trabajadora por cuenta propia o autónoma en el año anterior, en los términos que se establezcan reglamentariamente, siempre y cuando su base de cotización definitiva no esté comprendida entre la base de cotización mínima y la máxima correspondiente al tramo en el que estén comprendidos sus rendimientos.
 
-> 4.ª Si la cotización provisional efectuada fuese inferior a la cuota correspondiente a la base mínima de cotización del tramo en el que estén comprendidos sus rendimientos, el trabajador por cuenta propia deberá ingresar la diferencia entre ambas cotizaciones hasta el último día del mes siguiente a aquel en que se le notifique el resultado de la regularización, sin aplicación de interés de demora ni recargo alguno de abonarse en ese plazo.
+> 4.ª Si la cotización provisional efectuada fuese inferior a la cuota correspondiente a la base mínima de cotización del tramo en el que estén comprendidos sus rendimientos, la persona trabajadora por cuenta propia o autónoma deberá ingresar la diferencia entre ambas cotizaciones hasta el último día del mes siguiente a aquel en que se les notifique el resultado de la regularización, sin aplicación de interés de demora ni recargo alguno de abonarse en ese plazo.
 
-> Si la cotización provisional efectuada fuese superior a la cuota correspondiente a la base máxima del tramo en el que estén comprendidos sus rendimientos, la Tesorería General de la Seguridad Social procederá a devolver de oficio la diferencia entre ambas cotizaciones, sin aplicación de interés alguno, antes del 30 de abril del ejercicio siguiente a aquel en que la correspondiente Administración tributaria haya comunicado los rendimientos computables a la Tesorería General de la Seguridad Social.
+> Si la cotización provisional efectuada fuese superior a la cuota correspondiente a la base máxima del tramo en el que estén comprendidos sus rendimientos, la Tesorería General de la Seguridad Social procederá a devolver de oficio la diferencia entre ambas cotizaciones, sin aplicación de interés alguno, antes del 31 de mayo del ejercicio siguiente a aquel en que la correspondiente Administración tributaria haya comunicado los rendimientos computables a la Tesorería General de la Seguridad Social.
 
-> Sin perjuicio de lo indicado en los párrafos anteriores, determinada la base de cotización definitiva, las deudas generadas por las cuotas no ingresadas en período voluntario calculadas de acuerdo con las bases de cotización provisionales no serán objeto de devolución o modificación alguna. Con independencia de lo anterior, conforme a lo establecido en el primer párrafo si la base de cotización definitiva fuese superior al importe de la base de cotización provisional por la que se generó deuda, la diferencia deberá ser ingresada conforme a lo indicado en dicho primer párrafo.
+> No obstante, lo indicado en los párrafos anteriores, determinada la base de cotización definitiva, las deudas generadas por las cuotas no ingresadas en período voluntario calculadas de acuerdo a las bases de cotización provisionales no serán objeto de devolución o modificación alguna. Con independencia de lo anterior, conforme a lo establecido en el primer párrafo si la base de cotización definitiva fuese superior al importe de la base de cotización provisional por la que se generó deuda, la diferencia deberá ser ingresada conforme a lo indicado en dicho primer párrafo.
 
-> En ningún caso serán objeto de devolución los recargos e intereses.
+> En ningún caso, serán objeto de devolución los recargos e intereses.
 
 > 5.ª La base de cotización definitiva para aquellas personas trabajadoras por cuenta propia o autónomas que no hubiesen presentado la declaración del Impuesto de la Renta de las Personas Físicas ante la correspondiente Administración tributaria o que, habiéndola presentado, no hayan declarado ingresos a efectos de la determinación de los rendimientos netos cuando resulte de aplicación el régimen de estimación directa, será la base mínima de cotización para contingencias comunes para los trabajadores incluidos en el Régimen General de la Seguridad Social del grupo de cotización 7.
 
@@ -244,7 +244,7 @@ Dieciséis. Se da una nueva redacción al artículo 330, en los siguientes térm
 
 > e) Hallarse al corriente en el pago de las cuotas a la Seguridad Social. No obstante, si en la fecha de cese de actividad no se cumpliera este requisito, el órgano gestor invitará al pago al trabajador autónomo para que en el plazo improrrogable de treinta días naturales ingrese las cuotas debidas. La regularización del descubierto producirá plenos efectos para la adquisición del derecho a la protección.
 
-> f) Para causar derecho al cese previsto en el artículo 331.1.a).4.º y 5.º, la persona trabajadora autónoma no podrá ejercer otra actividad salvo lo previsto en el apartado 3 del artículo 342.
+> f) Para causar derecho al cese previsto en el artículo 331.1.a).4.º y 5.º, la persona trabajadora autónoma no podrá ejercer otra actividad.
 
 > 2. Cuando la persona trabajadora por cuenta propia o autónoma tenga a uno o más trabajadores a su cargo y concurra alguna de las causas del artículo 331.1, será requisito previo al cese de actividad el cumplimiento de las garantías, obligaciones y procedimientos regulados en la legislación laboral.
 
@@ -380,10 +380,6 @@ Veinticuatro. Se modifica el primer párrafo del apartado 1 del artículo 342, e
 
 > «1. La percepción de la prestación económica por cese de actividad es incompatible con el trabajo por cuenta propia, aunque su realización no implique la inclusión obligatoria en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos o en el Régimen Especial de la Seguridad Social de los Trabajadores del Mar, así como con el trabajo por cuenta ajena, salvo que la percepción de prestación por cese de actividad venga determina por lo dispuesto en los epígrafes 4.º y 5.º del artículo 331.1.a), o por cese temporal parcial de la actividad derivado de fuerza mayor, que serán compatibles con la actividad que cause el cese, siempre que los rendimientos netos mensuales obtenidos durante la percepción de la prestación no sean superiores a la cuantía del salario mínimo interprofesional o al importe de la base por la que viniera cotizando, si esta fuera inferior.»
 
-Veinticuatro bis. Se incorpora un nuevo apartado 3 del artículo 342 sobre incompatibilidades, con la siguiente redacción:
-
-''3. En los supuestos en los que el trabajador autónomo se encuentre en situación de pluriactividad, en el momento del hecho causante de la prestación por cese de actividad, la prestación por cese será compatible con la percepción de la remuneración por el trabajo por cuenta ajena que se venía desarrollando, siempre y cuando de la suma de la retribución mensual media de los últimos cuatro meses inmediatamente anteriores al nacimiento del derecho y la prestación por cese de actividad, resulte una cantidad media mensual inferior al importe del salario mínimo interprofesional vigente en el momento del nacimiento del derecho''.
-
 Veinticinco. Se modifica el artículo 347, en los siguientes términos:
 
 > «Artículo 347. Obligaciones de los trabajadores autónomos.
@@ -442,7 +438,7 @@ Veintinueve. Se introduce una nueva disposición adicional cuadragésima octava,
 
 > 1.2 Estar al corriente en el pago de obligaciones tributarias y de Seguridad Social.
 
-> 1.3 No prestar servicios por cuenta ajena o por cuenta propia en otra actividad no afectada por el mecanismo RED o, siéndolo, no haber adoptado las medidas previstas en el artículo 47 bis del texto refundido de la Ley del Estatuto de los Trabajadores salvo lo dispuesto en al apartado cuarto de esta disposición adicional sobre incompatibilidades.
+> 1.3 No prestar servicios por cuenta ajena o por cuenta propia en otra actividad no afectada por el mecanismo RED o, siéndolo, no haber adoptado las medidas previstas en el artículo 47 bis del texto refundido de la Ley del Estatuto de los Trabajadores.
 
 > 1.4 No percibir una prestación de cese de actividad o para la sostenibilidad de la actividad.
 
@@ -482,7 +478,7 @@ Veintinueve. Se introduce una nueva disposición adicional cuadragésima octava,
 
 > 2. Las personas trabajadoras no podrán percibir, de forma simultánea, prestaciones derivadas de dos o más Mecanismos RED de Flexibilidad y Estabilización del Empleo, ya sea como consecuencia del trabajo por cuenta propia como por el trabajo por cuenta ajena, en caso de concurrir el derecho a causar dos prestaciones podrá elegir la más beneficiosa.
 
-> 3. Es incompatible con otro trabajo por cuenta propia o por cuenta ajena. En los supuestos en los que el trabajador autónomo se encuentre en situación de pluriactividad, en el momento del hecho causante de la prestación para la sostenibilidad de la actividad, esta prestación será compatible con la percepción de la remuneración por el trabajo por cuenta ajena que se venía desarrollando, siempre y cuando de la suma de la retribución mensual media de los últimos cuatro meses inmediatamente anteriores al nacimiento del derecho y la prestación por cese de actividad, resulte una cantidad media mensual inferior al importe del salario mínimo interprofesional vigente en el momento del nacimiento del derecho.
+> 3. Es incompatible con otro trabajo por cuenta propia o por cuenta ajena.
 
 > Cinco. Extinción.
 
@@ -616,7 +612,7 @@ Treinta. Se introduce una nueva disposición adicional cuadragésima novena con 
 
 > 1.3 Estar al corriente en el pago de obligaciones tributarias y de Seguridad Social.
 
-> 1.4 No prestar servicios por cuenta ajena o por cuenta propia en otra actividad no afectada por el mecanismo RED o siéndolo no haber adoptado las medidas previstas en el artículo 47 bis del texto refundido de la Ley del Estatuto de los Trabajadores salvo lo dispuesto en el apartado cuatro de esta Disposición adicional sobre incompatibilidades.
+> 1.4 No prestar servicios por cuenta ajena o por cuenta propia en otra actividad no afectada por el mecanismo RED o siéndolo no haber adoptado las medidas previstas en el artículo 47 bis del texto refundido de la Ley del Estatuto de los Trabajadores.
 
 > 1.5 No percibir una prestación de cese de actividad o para la sostenibilidad de la actividad.
 
@@ -668,7 +664,7 @@ Treinta. Se introduce una nueva disposición adicional cuadragésima novena con 
 
 > 2. Las personas trabajadoras no podrán percibir, de forma simultánea, prestaciones derivadas de dos o más Mecanismos RED de Flexibilidad y Estabilización del Empleo, ya sea como consecuencia del trabajo por cuenta propia como por el trabajo por cuenta ajena, en caso de concurrir el derecho a causar dos prestaciones podrá elegir la más beneficiosa.
 
-> 3. Es incompatible con otro trabajo por cuenta propia o por cuenta ajena. En los supuestos en los que el trabajador autónomo se encuentre en situación de pluriactividad, en el momento del hecho causante de la prestación por cese de actividad, la prestación por cese será compatible con la percepción de la remuneración por el trabajo por cuenta ajena que se venía desarrollando, siempre y cuando de la suma de la retribución mensual media de los últimos cuatro meses inmediatamente anteriores al nacimiento del derecho y la prestación para la sostenibilidad de la actividad en cómputo mensual resulte una cantidad media mensual inferior al importe del salario mínimo interprofesional vigente en el momento del nacimiento del derecho.
+> 3. Es incompatible con otro trabajo por cuenta propia o por cuenta ajena.
 
 > Cinco. Obligaciones.
 
@@ -753,5 +749,3 @@ Treinta y uno. Se introduce una nueva disposición adicional quincuagésima, con
 > «Disposición adicional quincuagésima. Observatorio para el análisis y seguimiento de la prestación por cese de actividad por causas económicas de los trabajadores autónomos.
 
 > En el plazo de tres meses, y con el objetivo de mejorar la eficacia y cobertura de la prestación por cese de actividad por causas económicas de los trabajadores autónomos regulada en el artículo 331 de este texto, mediante orden ministerial, se creará un observatorio para el análisis y seguimiento de su funcionamiento integrado por representantes de la Secretaría de Estado de Seguridad Social y Pensiones, de las organizaciones empresariales y sindicales más representativas, así como de las asociaciones de autónomos. A tales efectos, de forma periódica, propondrá aquellas medidas tendentes a la adaptación de la regulación y cobertura de los trabajadores autónomos por esta contingencia.»
-
-> Se modifican, con efectos de 1 de enero de 2023, los apartados cinco, dieciséis, veintinueve y treinta y se añade un veinticuatro bis por la disposición final 10.1 a 5 del Real Decreto-ley 14/2022, de 1 de agosto. Ref. BOE-A-2022-12925#df-10
