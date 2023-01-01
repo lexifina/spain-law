@@ -1,0 +1,7 @@
+## Artículo cuarto. Modificación del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, aprobado por el Real Decreto 84/1996, de 26 de enero.
+
+El párrafo 9.º del artículo 30.2.b) del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, aprobado por el Real Decreto 84/1996, de 26 de enero, queda modificado como sigue:
+
+> «9.º Declaración de los rendimientos económicos netos que el trabajador autónomo prevea obtener durante el año natural en el que se produzca el alta por su actividad económica o profesional, de forma directa y/o por su participación en la sociedad o comunidad de bienes que determine su inclusión en el régimen especial que corresponda, salvo en el caso de los miembros de institutos de vida consagrada de la Iglesia Católica incluidos en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos y de los trabajadores por cuenta propia incluidos en los grupos segundo y tercero de cotización del Régimen Especial de la Seguridad Social de los Trabajadores del Mar.
+
+> A tal efecto, la determinación de tales rendimientos se efectuará conforme a lo establecido en el artículo 308 del texto refundido de la Ley General de la Seguridad Social y en sus normas de desarrollo reglamentario.»

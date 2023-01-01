@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Aplicación transitoria de la opción de la cotización por ingresos reales de los trabajadores autónomos.
+
+Los trabajadores incluidos en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos y en el grupo primero de cotización del Régimen Especial de los trabajadores del mar a 31 de diciembre de 2022, hasta tanto no ejerciten la opción contemplada en la disposición transitoria primera, seguirán cotizando durante el año 2023 sobre la base que les correspondería en enero de ese año, aplicando a la base de cotización de diciembre de 2022, aquellos cambios e incrementos que, con arreglo a la Ley de Presupuestos Generales del Estado para el año 2022 y a la legislación anterior, les pudieran corresponder.

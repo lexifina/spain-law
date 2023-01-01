@@ -2,8 +2,22 @@
 
 De acuerdo con lo previsto en la disposición adicional novena de la Ley 27/2011, de 1 de agosto, sobre actualización, adecuación y modernización del sistema de Seguridad Social, al objeto de hacer converger la intensidad de la acción protectora de los trabajadores por cuenta propia con la de los trabajadores por cuenta ajena, las bases medias de cotización del Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos experimentarán un crecimiento al menos similar al de las medias del Régimen General.
 
-En todo caso, la subida anual no superará el crecimiento de las medias del Régimen General en más de un punto porcentual. Las subidas de cada año, así como cualquier otra modificación sustancial del sistema, se debatirán con carácter previo en el marco del diálogo social con las organizaciones sindicales y empresariales más representativas, así como con las organizaciones profesionales de trabajadores autónomos más representativas, y se consultará al Consejo Estatal del Trabajo Autónomo según establece el artículo 22 de la Ley 20/2007, de 11 de julio, y no serán aplicables los años en los que las crisis económicas tengan como efectos la pérdida de rentas o empleo en este colectivo.
+Las previsiones en materia de cotización del citado régimen especial recogidas en las Leyes de Presupuestos Generales del Estado se debatirán, con carácter previo, en el marco del diálogo social.
 
 Se tendrá en cuenta la posibilidad, prevista en los artículos 25.3 y 27.2.c) de la Ley del Estatuto del trabajo autónomo, de establecer exenciones, reducciones o bonificaciones en las cotizaciones de la Seguridad Social para determinados colectivos de trabajadores autónomos que, por su naturaleza, tienen especiales dificultades para aumentar su capacidad económica y de generación de rentas, o para aquellos sectores profesionales que de forma temporal puedan sufrir recortes importantes en sus ingresos habituales.
+
+> Téngase en cuenta que la modificación de este artículo, establecida por el art. 1.27 del Real Decreto-ley 13/2022, de 26 de julio. Ref. BOE-A-2022-12482#ap, entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
+
+> Redacción anterior:
+
+> "Disposición adicional decimoséptima. Adecuación del Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos.
+
+> De acuerdo con lo previsto en la disposición adicional novena de la Ley 27/2011, de 1 de agosto, sobre actualización, adecuación y modernización del sistema de Seguridad Social, al objeto de hacer converger la intensidad de la acción protectora de los trabajadores por cuenta propia con la de los trabajadores por cuenta ajena, las bases medias de cotización del Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos experimentarán un crecimiento al menos similar al de las medias del Régimen General.
+
+> En todo caso, la subida anual no superará el crecimiento de las medias del Régimen General en más de un punto porcentual. Las subidas de cada año, así como cualquier otra modificación sustancial del sistema, se debatirán con carácter previo en el marco del diálogo social con las organizaciones sindicales y empresariales más representativas, así como con las organizaciones profesionales de trabajadores autónomos más representativas, y se consultará al Consejo Estatal del Trabajo Autónomo según establece el artículo 22 de la Ley 20/2007, de 11 de julio, y no serán aplicables los años en los que las crisis económicas tengan como efectos la pérdida de rentas o empleo en este colectivo.
+
+> Se tendrá en cuenta la posibilidad, prevista en los artículos 25.3 y 27.2.c) de la Ley del Estatuto del trabajo autónomo, de establecer exenciones, reducciones o bonificaciones en las cotizaciones de la Seguridad Social para determinados colectivos de trabajadores autónomos que, por su naturaleza, tienen especiales dificultades para aumentar su capacidad económica y de generación de rentas, o para aquellos sectores profesionales que de forma temporal puedan sufrir recortes importantes en sus ingresos habituales."
+
+> Se modifica, con efectos de 1 de enero de 2023, por el art. 1.27 del Real Decreto-ley 13/2022, de 26 de julio. Ref. BOE-A-2022-12482#ap
 
 > Redactado el título conforme a la corrección de errores publicada en BOE núm. 36, de 11 de febrero de 2016. Ref. BOE-A-2016-1320.
