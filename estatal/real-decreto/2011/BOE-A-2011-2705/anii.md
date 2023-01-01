@@ -26,14 +26,32 @@ Contenido en azúcar de las raíces (variedades azucareras).
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2022, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2023, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
-Especies que cumplen con las directrices de examen de la UPOV(2):
+Especies que cumplen con las directrices de examen de la UPOV (2):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Beta vulgaris L. | Remolacha forrajera. | TG/150/3 de 4.11.1994. |
-| (2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int). |
+| Beta vulgaris L. | Remolacha forrajera. | TG/150/3 de 4.11.1994 |
+
+(2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Téngase en cuenta que esta actualización del apartado 6, establecida por el art. único.2 de la Orden APA/1141/2022, de 17 de noviembre. Ref. BOE-A-2022-19561, entra en vigor el 1 de enero de 2023, según determina su disposición final 2.
+
+> Redacción anterior:
+
+> "6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
+
+> Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2022, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+
+> Especies que cumplen con las directrices de examen de la UPOV(2):
+
+> | Nombre científico | Denominación común | Protocolo |
+> | --- | --- | --- |
+> | Beta vulgaris L. | Remolacha forrajera. | TG/150/3 de 4.11.1994. |
+> | (2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int)." |
+
+> Se modifica el apartado 6, con efectos de 1 de enero de 2023, por el art. único.2 de la Orden APA/1141/2022, de 17 de noviembre. Ref. BOE-A-2022-19561
 
 > Se modifica el apartado 6 por el art. 1.2 de la Orden APA/1437/2021, de 16 de diciembre de 2021. Ref. BOE-A-2021-21286
 

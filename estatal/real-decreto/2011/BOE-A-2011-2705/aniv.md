@@ -130,39 +130,83 @@ Variedades cespitosas: la finura de las hojas, densidad del césped, persistenci
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2022, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2023, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
-Especies que cumplen con los protocolos de examen de la OCVV(1):
-
-| Nombre científico | Denominación común | Protocolo |
-| --- | --- | --- |
-| Festuca arundinacea Schreb. | Festuca alta. | TP 39/1 de 1.10.2015. |
-| Festuca pratensis Huds. | Festuca pratense. | TP 39/1 de 1.10.2015. |
-| Festuca rubra L. | Festuca roja. | TP 67/1 de 23.6.2011. |
-| Lolium × hybridum Hausskn. | Ray-grass híbrido. | TP 4/2 de 19.3.2019. |
-| Lolium multiflorum Lam. | Ballico de Italia o Ray-grass italiano. | TP 4/2 de 19.3.2019. |
-| Lolium perenne L. | Ray-grass inglés. | TP 4/2 de 19.3.2019. |
-| Pisum sativum L. (partim) | Guisante forrajero. | TP 7/2 rev. 3 de 6.3.2020. |
-| Poa pratensis L. | Poa de los prados. | TP 33/1 de 15.3.2017. |
-| Vicia faba L. (partim) | Haba. | TP 8/1 de 19.3.2019. |
-| Vicia sativa L. | Veza común. | TP 32/1 de 19.4.2016. |
-| (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu). |
-
-Especies que cumplen con las directrices de examen de la UPOV(2):
+Especies que cumplen con los protocolos de examen de la OCVV (1):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Agrostis capillaris L. | Agróstide común. | TG/30/6 de 12.10.1990. |
-| Agrostis stolonifera L. | Agróstide estolonífera. | TG/30/6 de 12.10.1990. |
-| Dactylis glomerata L. | Dáctilo. | TG/31/8 de 17.4.2002. |
-| Lupinus albus L. | Altramuz blanco. | TG/66/4 de 31.3.2004. |
-| Lupinus angustifolius L. | Altramuz azul. | TG/66/4 de 31.3.2004. |
-| Lupinus luteus L. | Altramuz amarillo. | TG/66/4 de 31.3.2004. |
-| Medicago sativa L. | Alfalfa. | TG/6/5 de 6.4.2005. |
-| Trifolium pratense L. | Trébol violeta. | TG/5/8 de 17.12.2020. |
-| Trifolium repens L. | Trébol blanco. | TG/38/7 de 9.4.2003. |
-| Trifolium subterraneum L. | Trébol subterráneo. | TG/170/3 de 4.4.2001. |
-| (2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int). |
+| Dactylis glomerata L. | Dactilo. | TP 31/1 de 25.3.2021 |
+| Festuca arundinacea Schreb. | Festuca alta. | TP 39/1 de 1.10.2015 |
+| Festuca pratensis Huds. | Festuca pratense. | TP 39/1 de 1.10.2015 |
+| Festuca rubra L. | Festuca roja. | TP 67/1 de 23.6.2011 |
+| Lolium × hybridum Hausskn. | Ray-grass híbrido. | TP 4/2 de 19.3.2019 |
+| Lolium multiflorum Lam. | Ballico de Italia o Ray-grass italiano. | TP 4/2 de 19.3.2019 |
+| Lolium perenne L. | Ray-grass inglés. | TP 4/2 de 19.3.2019 |
+| Medicago sativa L. | Alfalfa; Mielga. | TP 6/1 de 22.12.2021 |
+| Pisum sativum L. (partim) | Guisante forrajero. | TP 7/2 rev.3 corr.de 16.3.2020 |
+| Poa pratensis L. | Poa de los prados. | TP 33/1 de 15.3.2017 |
+| Trifolium pratense L. | Trébol violeta. | TP 5/1 de 22.12.2021 |
+| Vicia faba L. (partim) | Haba. | TP 8/1 de 19.3.2019 |
+| Vicia sativa L. | Veza común. | TP 32/1 de 19.4.2016 |
+
+(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+
+Especies que cumplen con las directrices de examen de la UPOV (2):
+
+| Nombre científico | Denominación común | Protocolo |
+| --- | --- | --- |
+| Agrostis capillaris L. | Agróstide común. | TG/30/6 de 12.10.1990 |
+| Agrostis stolonifera L. | Agróstide estolonífera. | TG/30/6 de 12.10.1990 |
+| Lupinus albus L. | Altramuz blanco. | TG/66/4 de 31.3.2004 |
+| Lupinus angustifolius L. | Altramuz azul. | TG/66/4 de 31.3.2004 |
+| Lupinus luteus L. | Altramuz amarillo. | TG/66/4 de 31.3.2004 |
+| Trifolium repens L. | Trébol blanco. | TG/38/7 de 9.4.2003 |
+| Trifolium subterraneum L. | Trébol subterráneo. | TG/170/3 de 4.4.2001 |
+
+(2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
+
+> Téngase en cuenta que esta actualización del apartado 6, establecida por el art. único.4 de la Orden APA/1141/2022, de 17 de noviembre, Ref. BOE-A-2022-19561, entra en vigor el 1 de enero de 2023, según determina su disposición final 2.
+
+> Redacción anterior:
+
+> "6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
+
+> Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2022, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+
+> Especies que cumplen con los protocolos de examen de la OCVV(1):
+
+> | Nombre científico | Denominación común | Protocolo |
+> | --- | --- | --- |
+> | Festuca arundinacea Schreb. | Festuca alta. | TP 39/1 de 1.10.2015. |
+> | Festuca pratensis Huds. | Festuca pratense. | TP 39/1 de 1.10.2015. |
+> | Festuca rubra L. | Festuca roja. | TP 67/1 de 23.6.2011. |
+> | Lolium × hybridum Hausskn. | Ray-grass híbrido. | TP 4/2 de 19.3.2019. |
+> | Lolium multiflorum Lam. | Ballico de Italia o Ray-grass italiano. | TP 4/2 de 19.3.2019. |
+> | Lolium perenne L. | Ray-grass inglés. | TP 4/2 de 19.3.2019. |
+> | Pisum sativum L. (partim) | Guisante forrajero. | TP 7/2 rev. 3 de 6.3.2020. |
+> | Poa pratensis L. | Poa de los prados. | TP 33/1 de 15.3.2017. |
+> | Vicia faba L. (partim) | Haba. | TP 8/1 de 19.3.2019. |
+> | Vicia sativa L. | Veza común. | TP 32/1 de 19.4.2016. |
+> | (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu). |
+
+> Especies que cumplen con las directrices de examen de la UPOV(2):
+
+> | Nombre científico | Denominación común | Protocolo |
+> | --- | --- | --- |
+> | Agrostis capillaris L. | Agróstide común. | TG/30/6 de 12.10.1990. |
+> | Agrostis stolonifera L. | Agróstide estolonífera. | TG/30/6 de 12.10.1990. |
+> | Dactylis glomerata L. | Dáctilo. | TG/31/8 de 17.4.2002. |
+> | Lupinus albus L. | Altramuz blanco. | TG/66/4 de 31.3.2004. |
+> | Lupinus angustifolius L. | Altramuz azul. | TG/66/4 de 31.3.2004. |
+> | Lupinus luteus L. | Altramuz amarillo. | TG/66/4 de 31.3.2004. |
+> | Medicago sativa L. | Alfalfa. | TG/6/5 de 6.4.2005. |
+> | Trifolium pratense L. | Trébol violeta. | TG/5/8 de 17.12.2020. |
+> | Trifolium repens L. | Trébol blanco. | TG/38/7 de 9.4.2003. |
+> | Trifolium subterraneum L. | Trébol subterráneo. | TG/170/3 de 4.4.2001. |
+> | (2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int)." |
+
+> Se modifica el apartado 6, con efectos de 1 de enero de 2023, por el art. único.4 de la Orden APA/1141/2022, de 17 de noviembre. Ref. BOE-A-2022-19561
 
 > Se modifica el apartado 6 por el art. 1.4 de la Orden APA/1437/2021, de 16 de diciembre de 2021. Ref. BOE-A-2021-21286
 

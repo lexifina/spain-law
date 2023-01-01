@@ -76,17 +76,38 @@ Pasto del Sudán e híbridos de Sorgo por Pasto del Sudán: contenido en materia
 
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2022, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2023, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
 
-Especies que cumplen con los protocolos de examen de la OCVV(1):
+Especies que cumplen con los protocolos de examen de la OCVV (1):
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Zea mays L. (partim). | Maíz. | TP 2/3 de 11.03.2010. |
-| Sorghum bicolor (L.) Moench. Subsp. bicolor. | Sorgo. | TP 122/1 de 19.3.2019. |
-| Sorghum bicolor (L.) Moench. Subsp. drummondii (Steud.) de Wet ex Davidse. | Pasto del Sudán. | TP 122/1 de 19.3.2019. |
-| Sorghum bicolor (L.) Moench subsp. Bicolor × Sorghum bicolor (L.) Moench. Subsp. drummondii (Steud.) de Wet ex Davidse. | Híbridos resultantes del cruce entre Sorghum bicolor subsp. Bicolor y Sorghum bicolor subsp. drummondii. | TP 122/1 de 19.3.2019. |
-| (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu). |
+| Zea mays L. (partim). | Maíz. | TP 2/3 de 11.03.2010 |
+| Sorghum bicolor (L.) Moench. Subsp. bicolor | Sorgo. | TP 122/1 de 19.3.2019 |
+| Sorghum bicolor (L.) Moench. Subsp. drummondii (Steud.) de Wet ex Davidse | Pasto del Sudán. | TP 122/1 de 19.3.2019 |
+| Sorghum bicolor (L.) Moench subsp. Bicolor × Sorghum bicolor (L.) Moench. Subsp. drummondii (Steud.) de Wet ex Davidse | Híbridos resultantes del cruce entre Sorghum bicolor subsp. Bicolor y Sorghum bicolor subsp. drummondii. | TP 122/1 de 19.3.2019 |
+
+(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+
+> Téngase en cuenta que esta actualización del apartado 6, establecida por el art. único.3 de la Orden APA/1141/2022, de 17 de noviembre. Ref. BOE-A-2022-19561, entra en vigor el 1 de enero de 2023, según determina su disposición final 2.
+
+> Redacción anterior:
+
+> "6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
+
+> Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2022, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+
+> Especies que cumplen con los protocolos de examen de la OCVV(1):
+
+> | Nombre científico | Denominación común | Protocolo |
+> | --- | --- | --- |
+> | Zea mays L. (partim). | Maíz. | TP 2/3 de 11.03.2010. |
+> | Sorghum bicolor (L.) Moench. Subsp. bicolor. | Sorgo. | TP 122/1 de 19.3.2019. |
+> | Sorghum bicolor (L.) Moench. Subsp. drummondii (Steud.) de Wet ex Davidse. | Pasto del Sudán. | TP 122/1 de 19.3.2019. |
+> | Sorghum bicolor (L.) Moench subsp. Bicolor × Sorghum bicolor (L.) Moench. Subsp. drummondii (Steud.) de Wet ex Davidse. | Híbridos resultantes del cruce entre Sorghum bicolor subsp. Bicolor y Sorghum bicolor subsp. drummondii. | TP 122/1 de 19.3.2019. |
+> | (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu)." |
+
+> Se modifica el apartado 6, con efectos de 1 de enero de 2023, por el art. único.3 de la Orden APA/1141/2022, de 17 de noviembre. Ref. BOE-A-2022-19561
 
 > Se modifican los apartados 1 y 6 por el art. 1.3 de la Orden APA/1437/2021, de 16 de diciembre de 2021. Ref. BOE-A-2021-21286
 
