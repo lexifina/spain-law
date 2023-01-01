@@ -1,0 +1,7 @@
+## Disposición final segunda. Modificación del Real Decreto 148/1996, de 5 de febrero, por el que se regula el procedimiento especial para el reintegro de las prestaciones de la Seguridad Social indebidamente percibidas.
+
+Se añade un nuevo apartado 3 al artículo 1 del Real Decreto 148/1996, de 5 de febrero, por el que se regula el procedimiento especial para el reintegro de las prestaciones de la Seguridad Social indebidamente percibidas, con la siguiente redacción:
+
+> «3. En aplicación de los principios de economía y eficacia administrativa, no se iniciará el procedimiento especial de reintegro regulado en este real decreto cuando el importe total de la deuda que resulte de las actuaciones previstas en este artículo sea inferior a la cantidad determinada como insuficiente para la cobertura del coste que su exacción y recaudación represente, de acuerdo con lo previsto en el artículo 116.2 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto legislativo 8/2015, de 30 de octubre, y del artículo 6.5 del Reglamento General de Recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio.
+
+> En todo caso, la entidad gestora podrá acordar la acumulación de las deudas que no excedan de dicho límite al objeto de superar la citada cantidad, o la de tales deudas con otras de importe superior, siempre que todas ellas correspondan a la misma persona deudora y al reintegro de prestaciones indebidamente percibidas a que se refiere este real decreto.»
