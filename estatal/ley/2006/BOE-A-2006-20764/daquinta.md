@@ -18,6 +18,8 @@ a) La percepción de las siguientes ayudas de la política agraria comunitaria:
 
 7.ª Abandono definitivo del cultivo de la remolacha azucarera y de la caña de azúcar.
 
+8.ª Ayudas a los regímenes en favor del clima y del medio ambiente (eco-regímenes).
+
 b) La percepción de las siguientes ayudas de la política pesquera comunitaria: paralización definitiva de la actividad pesquera de un buque y por su transmisión para la constitución de sociedades mixtas en terceros países, así como por el abandono definitivo de la actividad pesquera.
 
 c) La percepción de ayudas públicas que tengan por objeto reparar la destrucción, por incendio, inundación, hundimiento, erupción volcánica u otras causas naturales, de elementos patrimoniales.
@@ -33,6 +35,8 @@ e) La percepción de indemnizaciones públicas, a causa del sacrificio obligator
 No se integrarán en la base imponible de este Impuesto, las ayudas públicas percibidas para compensar el desalojo temporal o definitivo por idénticas causas de la vivienda habitual del contribuyente o del local en el que el titular de la actividad económica ejerciera la misma.
 
 4. No se integrarán en la base imponible de este Impuesto las ayudas concedidas en virtud de lo dispuesto en el Real Decreto 920/2014, de 31 de octubre, por el que se regula la concesión directa de subvenciones destinadas a compensar los costes derivados de la recepción o acceso a los servicios de comunicación audiovisual televisiva en las edificaciones afectadas por la liberación del dividendo digital. Tampoco se integrarán en el ejercicio 2021 y siguientes las concedidas en virtud de los distintos programas establecidos en el Real Decreto 691/2021, de 3 de agosto, por el que se regulan las subvenciones a otorgar a actuaciones de rehabilitación energética en edificios existentes, en ejecución del Programa de rehabilitación energética para edificios existentes en municipios de reto demográfico (Programa PREE 5000), incluido en el Programa de regeneración y reto demográfico del Plan de rehabilitación y regeneración urbana del Plan de Recuperación, Transformación y Resiliencia, así como su concesión directa a las comunidades autónomas; el Real Decreto 737/2020, de 4 de agosto, por el que se regula el programa de ayudas para actuaciones de rehabilitación energética en edificios existentes y se regula la concesión directa de las ayudas de este programa a las comunidades autónomas y ciudades de Ceuta y Melilla; y el Real Decreto 853/2021, de 5 de octubre, por el que se regulan los programas de ayuda en materia de rehabilitación residencial y vivienda social del Plan de Recuperación, Transformación y Resiliencia; y el Real Decreto 477/2021, de 29 de junio, por el que se aprueba la concesión directa a las comunidades autónomas y a las ciudades de Ceuta y Melilla de ayudas para la ejecución de diversos programas de incentivos ligados al autoconsumo y al almacenamiento, con fuentes de energía renovable, así como a la implantación de sistemas términos de energías renovables en el sector residencial, en el marco del Plan de Recuperación, Transformación y Resilicencia.
+
+> Se modifica la letra a) del apartado 1 por la disposición final 13 de la Ley 30/2022, de 23 de diciembre. Ref. BOE-A-2022-22127#df-13
 
 > Se modifica por el art. 1.3 de la Ley 10/2022, de 14 de junio. Ref. BOE-A-2022-9838#a1
 
