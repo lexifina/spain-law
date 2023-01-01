@@ -1,0 +1,3 @@
+## Segundo. Entrada en vigor.
+
+Las Normas Técnicas de Auditoría objeto de esta Resolución, NIA-ES 250 (Revisada), NIA-ES 315 (Revisada) y NIA-ES 610 (Revisada), serán de aplicación obligatoria, para los auditores de cuentas y sociedades de auditoría en el desarrollo de los trabajos de auditoría de cuentas referidos a cuentas anuales o a otros estados financieros o documentos contables correspondientes a ejercicios económicos que se inicien a partir del 1 de enero de 2022. En todo caso, las citadas normas serán de aplicación a los trabajos de auditoría de cuentas contratados o encargados a partir del 1 de enero de 2023, independientemente de los ejercicios económicos a los que se refieran los estados financieros objeto del trabajo.
