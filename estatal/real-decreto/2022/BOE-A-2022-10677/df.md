@@ -1,0 +1,5 @@
+## Disposición final primera. Modificación del Reglamento General de Recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio.
+
+El párrafo 5.º del apartado 1.c) del artículo 56 del Reglamento General de Recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio, queda redactado de la siguiente manera:
+
+> «5.º Respecto a las solicitudes de exclusión del Sistema Especial para Trabajadores por Cuenta Propia Agrarios, presentadas por los trabajadores por incumplimiento sobrevenido de los requisitos para quedar comprendidos en él, el plazo reglamentario para el ingreso de las cuotas devengadas y no ingresadas en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos finalizará el último día del mes siguiente al de la presentación de la respectiva solicitud, que habrá de formularse en el plazo indicado en el artículo 48.3.4.ª del Reglamento General sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de Trabajadores en la Seguridad Social, aprobado por el Real Decreto 84/1996, de 26 de enero.»
