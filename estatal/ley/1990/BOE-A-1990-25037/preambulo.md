@@ -1,1 +1,1 @@
-Las referencias, funciones y medios materiales y personales que corresponden al Comité Español de Disciplina Deportiva y a la Junta de Garantías Electorales pasan a corresponder al Tribunal Administrativo del Deporte, según establece la disposición adicional 4 de la Ley Orgánica 3/2013, de 20 de junio. Ref. BOE-A-2013-6732#dacuaa.
+Norma derogada, con efectos desde el 1 de enero de 2023, por la disposición derogatoria única.a) de la Ley 39/2022, de 30 de diciembre. Ref. BOE-A-2022-24430#dd

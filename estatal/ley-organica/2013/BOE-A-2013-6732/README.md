@@ -72,6 +72,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Sección 3](s3-2.md)
 - [Artículo 40](a40.md)
 - [CAPÍTULO III](ciii.md)
+- [Artículos 41 a 51](a4-2.md)
 - [Sección 1](s1-3.md)
 - [Artículo 41](a41.md)
 - [Artículo 42](a42.md)
