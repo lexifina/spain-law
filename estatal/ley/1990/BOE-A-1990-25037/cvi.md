@@ -1,3 +1,0 @@
-## CAPITULO VI
-
-## Disposiciones comunes

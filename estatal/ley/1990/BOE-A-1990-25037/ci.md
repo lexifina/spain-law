@@ -1,3 +1,0 @@
-## CAPITULO I
-
-## Disposición general
