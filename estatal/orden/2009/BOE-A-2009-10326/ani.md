@@ -46,12 +46,16 @@
 | 587 | Impuesto sobre los gases fluorados de efecto invernadero. Autoliquidación. |
 | 588 | Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación por cese de actividad de enero a octubre. |
 | 589 | Impuesto sobre el Valor de la Extracción de Gas, Petróleo y Condensados. Autoliquidación y pago fraccionado. |
+| 592 | Impuesto especial sobre los envases de plástico no reutilizables Autoliquidación. |
+| 593 | Impuesto sobre el depósito de residuos en vertederos, la incineración y la coincineración de residuos. Autoliquidación. |
 | 595 | Impuesto Especial sobre el Carbón. Declaración-liquidación. |
 | 714 | Impuesto sobre el Patrimonio. Declaración anual. |
 
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
+
+> Se añaden los modelos 592 y 593 por las disposiciones finales 3.1 de las Òrdenes; HFP/1314/2022, de 28 de diciembre. Ref. BOE-A-2022-23749 y HFP/1337/2022, de 28 de diciembre. Ref. BOE-A-2022-24387
 
 > Se añade el modelo 587 por la disposición final 3 de la Orden HFP/826/2022, de 30 de agosto. Ref. BOE-A-2022-14275#df-3
 
